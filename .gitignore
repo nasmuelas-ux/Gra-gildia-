@@ -1,0 +1,12 @@
+# Zapisy gry — prywatny, lokalny stan każdej rozgrywki
+gra/
+gra-zakonczona-*/
+
+# Śmieci systemowe
+.DS_Store
+Thumbs.db
+*~
+
+# Python
+__pycache__/
+*.pyc

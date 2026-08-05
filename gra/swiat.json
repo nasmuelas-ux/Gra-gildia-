@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 2,
+  "dzien": 3,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 97,
- "dzien_tygodnia_nr": 4,
- "dzien_targowy": null,
- "nastroje_miasta": "Sztorm wypalil sie w nocy — jasno, mrozno, PORT ZNOW OTWARTY (statki ruszaja), mroz zelzal chwile. Nastroj lzejszy. Legitymacja Symona (pisarz Septy + poreczenia) osadzona; poreczenia zaczynaja OWOCOWAC — klienci wracaja. Cech wsciekly, po cichu sonduje pochodzenie Symona.",
+ "pogoda": 46,
+ "dzien_tygodnia_nr": 5,
+ "dzien_targowy": "ryba",
+ "nastroje_miasta": "Zwyczajny szary, chlodny dzien; dzien targowy (ryba) — Targ Rybny gwarny rano. Legitymacja Symona osadzona, auditor-renoma rosnie (smear cechu sie odwraca). PODSKORNIE: cech dalej po cichu sonduje POCHODZENIE obcego skryby; uraza Osgara ciche; rata Antaryonow ~10-15 (~1.5 tyg) sie zbliza.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 2
+ "dzien": 3
 }

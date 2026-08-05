@@ -55,6 +55,14 @@
    "odlicza_do": "296-10-15",
    "co_sie_stanie": "przy terminie Antaryon dociska Neste (renegocjacja/grozba); jesli Symon niewykorzystal dzwigni (zawyzenie+zanizone clo), traci okno",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "odpowiedz_pryncypala",
+   "typ": "okazja",
+   "opis": "Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Banku; hak: Antaryon oszukuje). Rejs daleki, decyzja wielkich = wolna",
+   "odlicza_do": "296-11-10",
+   "co_sie_stanie": "odpowiedz: czy pryncypal/Bank zainteresowany przejeciem dlugu (i na jakich warunkach) — LUB odmowa/cisza; kamien milowy refinansowania",
+   "widoczny_graczowi": true
   }
  ]
 }

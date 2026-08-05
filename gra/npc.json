@@ -498,7 +498,7 @@
     "zweryfikowac braavijskie papiery dostawcow (podejrzewa, ze ja skrocono po smierci meza)",
     "nie dac sie potraktowac jak 'baba, co sie nie zna'"
    ],
-   "nastawienie_do_gracza": 30,
+   "nastawienie_do_gracza": 31,
    "zaufanie": 13,
    "wie_o_graczu": [
     "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
@@ -517,10 +517,11 @@
     "odwiedza ja po ludzku, pyta o biznes (nie tylko interes) — ceni to",
     "mozliwa KOTWICA bloku: odwazna, respektowana, sama stanela przeciw cechowi za Symonem",
     "MA wlasny zatarg: wielki dom / partner z sieci wielkich domow ja SCISKA/skubie (ten sam drapiezny wzor) — urazona, bez strachu",
-    "POTWIERDZONA jako KOTWICA bloku: odwazna, urazona, receptywna; wspolna sprawa zasiana subtelnie (bez zdradzania pelnego planu/zrodla Symona)"
+    "POTWIERDZONA jako KOTWICA bloku: odwazna, urazona, receptywna; wspolna sprawa zasiana subtelnie (bez zdradzania pelnego planu/zrodla Symona)",
+    "dziala w sprawach kantoru Nesty; poprosil ja o spokojny kontr-glos przeciw plotce Osgara — puscila go chetnie"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-07",
+   "ostatni_kontakt": "296-10-10",
    "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem"
   },
   {
@@ -819,8 +820,12 @@
    "id": "kupiec_osgar",
    "imie": "Osgar",
    "zawod": "kupiec zbozowy, glowa kliki hoarderow",
-   "nastawienie_do_gracza": -6,
-   "nota": "przeeksponowany po crashu cen (relief); wypytuje po nabrzezu, kto zbil ceny; mozliwa cicha zemsta/donos"
+   "nastawienie_do_gracza": -9,
+   "nota": "przeeksponowany po crashu cen (relief); wypytuje po nabrzezu, kto zbil ceny; mozliwa cicha zemsta/donos",
+   "status": "OSMIESZONY: niezdarna plotka obrocila sie przeciw niemu (dalszy uszczerbek renomy po reliefie). Uraza TWARDNIEJE, staje sie osobista — nastepnym razem moze uderzyc ciszej/sprytniej.",
+   "wie_o_graczu": [
+    "skontrowal jego plotke reka Leony/kupcow — Osgar wie, ze to krag Symona/Nesty go osmieszyl"
+   ]
   },
   {
    "id": "gunthor_probier",

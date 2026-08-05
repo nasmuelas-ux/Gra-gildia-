@@ -84,7 +84,7 @@
    "id": "plotka_osgar_kantor",
    "tresc_prawdziwa": "klika Osgara mysci sie za relief zbozowy, probujac zaszkodzic Nescie przed rata Antaryonow",
    "tresc_obiegowa": "kantor braavijki Nesty na skraju upadku, nie splaci dlugu Antaryonom",
-   "prawdziwosc": 0.15,
+   "prawdziwosc": 0.05,
    "znieksztalcenie": 1,
    "zrodlo": "klika_osgara",
    "zna": [
@@ -96,7 +96,8 @@
    ],
    "tempo": "srednie",
    "dotarla_do_frakcji": [],
-   "uwaga": "Puszczona NIEZDARNIE (tik 100) — zrodlo (ludzie Osgara) transparentne, wiarygodnosc niska; Symon ostrzezony wczesnie przez Wende."
+   "uwaga": "Puszczona NIEZDARNIE (tik 100) — zrodlo (ludzie Osgara) transparentne, wiarygodnosc niska; Symon ostrzezony wczesnie przez Wende.",
+   "status": "ZDEMENTOWANA/ODWROCONA (d10, rzut 76): kontr-glos Leony+kupcow + widoczna normalnosc kantoru zdusily plotke; obrocila sie przeciw Osgarowi (jawne, gorzkie zrodlo). Wiara szczatkowa."
   }
  ],
  "aktywne": [

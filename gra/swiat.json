@@ -5,12 +5,12 @@
   "dzien": 10,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "schylek dlugiego lata",
  "pogoda": 39,
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "Ranek d10, chlodno i mokro. NOWE: klika Osgara ruszyla z zemsta — ale NIEZDARNIE (tik rzut 100): rozpuszcza plotke, ze kantor Nesty 'na skraju upadku, nie splaci Antaryonow', by odstraszyc wsparcie i pogorszyc jej sytuacje przed rata. Zrobione tak grubo, ze zrodlo (ludzie Osgara) widoczne golym okiem — Symon dostaje wczesne, czyste ostrzezenie i okno na kontre. W tle: rata Antaryonow ~5 dni; Godric wdzieczny; Wat skazany po cichu; Harwin przyczajony.",
+ "nastroje_miasta": "Poludnie d10, chlodno i mokro. Plotka Osgara o 'upadku kantoru' ZDUSZONA i odwrocona (kontra Leony/kupcow, rzut 76) — obrocila sie przeciw Osgarowi. Jego uraza jednak twardnieje, osobista. W tle: rata Antaryonow ~5 dni (realny problem zostaje); Godric wdzieczny; Wat skazany po cichu; Harwin przyczajony.",
  "ceny": {
   "chleb": {
    "baza": 3,

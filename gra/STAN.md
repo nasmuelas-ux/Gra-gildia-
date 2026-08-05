@@ -2,11 +2,11 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-10-10 RANEK · schylek dlugiego lata
+- **Data:** 296-10-10 POLUDNIE · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** Ranek d10, chlodno i mokro. NOWE: klika Osgara ruszyla z zemsta — ale NIEZDARNIE (tik rzut 100): rozpuszcza plotke, ze kantor Nesty 'na skraju upadku, nie splaci Antaryonow', by odstraszyc wsparcie i 
+- **Nastroje:** Poludnie d10, chlodno i mokro. Plotka Osgara o 'upadku kantoru' ZDUSZONA i odwrocona (kontra Leony/kupcow, rzut 76) — obrocila sie przeciw Osgarowi. Jego uraza jednak twardnieje, osobista. W tle: rata
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 26 jeleni + 4 mied + 0 smokow
@@ -17,7 +17,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 4
-**Reputacja:** port 18 · schody_zamkowe 20 · cech_pisarzy -6 · wiara 37 · zamek 2 · cech_kolodziejow 22
+**Reputacja:** port 18 · schody_zamkowe 21 · cech_pisarzy -6 · wiara 37 · zamek 2 · cech_kolodziejow 22
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -33,7 +33,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 2
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 28
-- **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 30
+- **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 31
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 26
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 10
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 20
@@ -48,7 +48,6 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-10` odpowiedz_pryncypala: Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Bank
 - ◆ `296-10-14` flip_sprzedaz: Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusn
 - ◆ `296-10-13` godric_rozprawa_wat: Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon
-- ⚠ `296-10-13` osgar_ruch: Niezdarna plotka kliki Osgara ('kantor Nesty upada, nie splaci Antaryonow') krazy — Symon ostrzezony wczesnie,
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [OTWARTE/]: OTWARTE/GLOWNE — MIEKKI OFF-RAMP JUZ ROZEGRANY I PRZEGRANY (296-08-20, rzut 29): Ternesio obstal przy zawyzeniu, Nesta zaplacila napompowana rate ~+1 
@@ -56,7 +55,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **list_ze_starego_zamku** [Maester ]: Maester THEOMORE ODMOWIL dzialania na sama kopie (lojalnosc lordowi/establishmentowi). Droga: KORROBORACJA (rejestr/oryginal Stary Zamek Locke + zezna
 - **spolka_egzotyczna** [AKTYWNA ]: AKTYWNA — import ruszony (barwniki, Vhassar ~11-25); WYWOZ dopiety: skory lokalne (umowa na przyszlosc) + futra polnocne (Torsen/Halvard). Intel: braa
 - **kanal_polnoc_futra** [SKORY LO]: SKORY LOKALNE ZAKONTRAKTOWANE (umowa na przyszlosc, garbarz Coll): cena zamrozona, zadatek 3 jel zaplacony, odbior ~11-20 (przed Vhassarem), reszta ~7
-- **uraza_osgara** [OTWARTE ]: OTWARTE — echo 'majatek rosnie za szybko = swiat reaguje'
+- **uraza_osgara** [KONTRA U]: KONTRA UDANA (d10, rzut 76): niezdarna zemsta Osgara (plotka 'kantor Nesty upada') ZDMENTOWANA i ODWROCONA reka Leony/kupcow + widoczna normalnosc kan
 - **sojusz_kolodzieje** [MOCNY — ]: MOCNY — dlug wdziecznosci cechu
 - **sprawa_elny_lorren** [WYGRANA ]: WYGRANA — Elna bezpieczna, Symon w cieniu; Lorren odparty (uraza)
 - **wiekszy_patron** [SZCZEBEL]: SZCZEBEL ZDOBYTY NAPRAWDE (d9): audyt Godrica domkniety wzorowo i CICHO — steward (nast 26, ufa) ceni Symona jako dyskretnego, bezpiecznego czlowieka 

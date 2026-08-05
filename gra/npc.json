@@ -449,8 +449,8 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 24,
-   "ostatni_kontakt": "296-09-30",
+   "nastawienie_do_gracza": 28,
+   "ostatni_kontakt": "296-10-02",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
     "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -461,7 +461,8 @@
     "spisal uczciwa dwujezyczna umowe fracht z Vhassarem",
     "'uczciwy pisarz', ktoremu ufaja obie strony",
     "poreczy za Symona u kupcow Schodow (pisarz Septy, uczciwe ksiegi)",
-    "zaproponowal Symonowi audyt swojego podejrzanego dostawcy/wspolnika (platna robota)"
+    "zaproponowal Symonowi audyt swojego podejrzanego dostawcy/wspolnika (platna robota)",
+    "audyt Symona wykryl PRECYZYJNIE, kto go skubie (nie dostawca, lecz posrednik/wewnetrzny skim) — ogromna wdziecznosc, glosno chwali"
    ],
    "potrzeby": [
     "dojsc, czy wspolnik go strzyze",

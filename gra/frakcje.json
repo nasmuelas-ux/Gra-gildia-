@@ -52,7 +52,8 @@
     "pisze w porcie bez licencji",
     "zauwazony i zaczepiony przy Bramie Foki",
     "stawia opor, targuje sie zamiast placic",
-    "robi audyty/rachunki jako nielicencjonowany obcy spod Wiary — podbiera cechowi robote i zyskuje reputacje; Mennard oglasza go partaczem/oszustem, odradza kupcom"
+    "robi audyty/rachunki jako nielicencjonowany obcy spod Wiary — podbiera cechowi robote i zyskuje reputacje; Mennard oglasza go partaczem/oszustem, odradza kupcom",
+    "d29: Wiara wziela go pod opieke jako pisarza Septy — smear 'nielicencjonowany' NIETRAFNY; cech zablokowany na tej linii, szuka innego kata (wsciekly)"
    ]
   },
   {
@@ -70,14 +71,15 @@
     "sierociniec",
     "prawo do nauczania"
    ],
-   "nastawienie_do_gracza": 8,
+   "nastawienie_do_gracza": 16,
    "konflikt_z": [],
    "sojusz_z": [
     "dom_manderly"
    ],
    "co_wie_o_graczu": [
     "pismienny, maester-taught, przyjety na probe przez septona Owena",
-    "publicznie na Dniu Matki — uchodzi za swojego pod Wiara"
+    "publicznie na Dniu Matki — uchodzi za swojego pod Wiara",
+    "uznany publicznie za pisarza Septy pod opieka Wiary (d29)"
    ]
   },
   {

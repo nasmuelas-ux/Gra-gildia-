@@ -4,7 +4,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## TERAZ
 - **Data:** 296-09-29 WIECZOR · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
-- **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty: (1) spolka ZBOZOWA — ZAMKNIETA z zyskiem (relief miasta + crash cen hoarderow Osgara); (2) nowa 
+- **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
 - **Nastroje:** Miasto syte i spokojniejsze po reliefie; wdziecznosc dolu trwa. PODSKORNIE dalej: smear cechu (Mennard) saczy sie u kupcow, Harwin wypytuje, uraza Osgara cicha. SIARCZYSTY MROZ — jesien wgryza sie w P
 
@@ -13,11 +13,11 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 80 · Sytosc 82 · Zmeczenie 7
+- Zdrowie 80 · Sytosc 82 · Zmeczenie 8
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 3
-**Reputacja:** port 16 · schody_zamkowe 16 · cech_pisarzy -4 · wiara 26 · zamek 2 · cech_kolodziejow 22
+**Reputacja:** port 18 · schody_zamkowe 20 · cech_pisarzy -6 · wiara 36 · zamek 2 · cech_kolodziejow 22
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -27,7 +27,7 @@ pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 35
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 16
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
-- **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 33
+- **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 36
 - **Lorren** (lorren_lichwiarz) — lichwiarz spod Wilczego Legu · nast -4
 - **Harwin** (poborca_harwin) — poborca Cechu Pisarzy (egzekutor) · nast -8
 - **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 2
@@ -39,7 +39,7 @@ pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 20
 
 ## ZEGARY (odliczaja)
-- ⚠ `296-10-05` cech_polowanie: Harwin (egzekutor cechu) poluje na Symona za pisanie bez licencji; relief zbozowy dal Symonowi oslone reputacj
+- ⚠ `296-10-05` cech_polowanie: [D29 SILNIE STŁUMIONE opieka Wiary: Harwin stracil pretekst 'licencja', tknac pisarza Septy=obraza Siedmiu. Ce
 - ◆ `296-10-25` polnocna_inquiry: Kanal ku Winterfell OTWARTY (raven korzystny d17); Owen/Ansell cicho zbieraja KORROBORACJE (rejestr/oryginal S
 - ◆ `296-11-25` import_barwniki: Vhassar wraca z probna skrzynia barwnikow tyrijskich (noga importowa spolki egzotycznej); zaplata reszty przy 
 - ◆ `296-11-10` futra_polnoc: Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa
@@ -50,7 +50,7 @@ pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [OTWARTE/]: OTWARTE/GLOWNE — MIEKKI OFF-RAMP JUZ ROZEGRANY I PRZEGRANY (296-08-20, rzut 29): Ternesio obstal przy zawyzeniu, Nesta zaplacila napompowana rate ~+1 
-- **wolnosc_od_harwina** [ŻYWE/PIL]: ŻYWE/PILNE — cech (Mennard) sieje smear 'partacz/oszust' u kupcow/rady; Harwin wypytuje na Schodach. NARADA z Owenem (d28): sedno ataku = 'nielicencjo
+- **wolnosc_od_harwina** [PRZELOM ]: PRZELOM (d29, rzut 98): OWEN ogłosił Symona PISARZEM SEPTY pod PUBLICZNA OPIEKA WIARY. EFEKT: (1) cechowa bron 'nielicencjonowany partacz' NEUTRALIZOW
 - **list_ze_starego_zamku** [Maester ]: Maester THEOMORE ODMOWIL dzialania na sama kopie (lojalnosc lordowi/establishmentowi). Droga: KORROBORACJA (rejestr/oryginal Stary Zamek Locke + zezna
 - **spolka_egzotyczna** [AKTYWNA ]: AKTYWNA — import ruszony (barwniki, Vhassar ~11-25); WYWOZ dopiety: skory lokalne (umowa na przyszlosc) + futra polnocne (Torsen/Halvard). Intel: braa
 - **kanal_polnoc_futra** [SKORY LO]: SKORY LOKALNE ZAKONTRAKTOWANE (umowa na przyszlosc, garbarz Coll): cena zamrozona, zadatek 3 jel zaplacony, odbior ~11-20 (przed Vhassarem), reszta ~7

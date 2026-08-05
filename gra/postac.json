@@ -6,10 +6,10 @@
  "pochodzenie": "wychowany na poslugach w Starym Zamku rodu Locke na Polnocy; liter i rachunkow nauczyl go stary maester Aemon Rivers (zmarl); braavijskiej mowy douczyl sie na nabrzezach Bialego Portu",
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
- "utrzymanie": "WSPOLNIK kantoru Nesty: (1) spolka ZBOZOWA — ZAMKNIETA z zyskiem (relief miasta + crash cen hoarderow Osgara); (2) nowa spolka EGZOTYCZNA (dwukierunkowy handel z Braavos) — wspolwlasciciel, udzial proporcjonalny do wkladu + dokladka za pomysl/prowadzenie; + wciaz pisze listy na rogu przy Bramie Foki (bez licencji cechu — Harwin poluje)",
+ "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 80,
  "sytosc": 82,
- "zmeczenie": 7,
+ "zmeczenie": 8,
  "sakiewka": {
   "miedziaki": 20,
   "jelenie": 12,
@@ -34,13 +34,14 @@
   "odpisy umow: frachtowa Vhassar-Vox, cechowa koladzieje-Torsen, spolki egzotycznej — Symon jako 'uczciwy pisarz' obu stron",
   "depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)",
   "SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce",
-  "NIEFORMALNA OCHRONA nabrzeza (Bran + pewni tragarze): oczy i miesnie w porcie/na Schodach ZA DNIA — zawezaja okno Harwina na izolowana zasadzke; koszt = drobny grosz/wzajemne przysługi. NIE 24h, NIE w zlych miejscach nocy (Wilczy Leg/port noca) — tam wciaz sam/naraznony."
+  "NIEFORMALNA OCHRONA nabrzeza (Bran + pewni tragarze): oczy i miesnie w porcie/na Schodach ZA DNIA — zawezaja okno Harwina na izolowana zasadzke; koszt = drobny grosz/wzajemne przysługi. NIE 24h, NIE w zlych miejscach nocy (Wilczy Leg/port noca) — tam wciaz sam/naraznony.",
+  "STATUS: pod PUBLICZNA OPIEKA WIARY + uznany PISARZ SEPTY (Owen, d29) — legitymacja: pisze i uczy pod PRAWEM WIARY (poza monopolem cechu); tknac go = obraza Siedmiu; smear 'nielicencjonowany partacz' NEUTRALIZOWANY. STRING: winien Sepcie sluzbe (pismo/nauka sierot), przyzwoitosc i lojalnosc wobec Wiary/Owena — mniej wolny agent."
  ],
  "reputacja": {
-  "port": 16,
-  "schody_zamkowe": 16,
-  "cech_pisarzy": -4,
-  "wiara": 26,
+  "port": 18,
+  "schody_zamkowe": 20,
+  "cech_pisarzy": -6,
+  "wiara": 36,
   "zamek": 2,
   "cech_kolodziejow": 22
  },

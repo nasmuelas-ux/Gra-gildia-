@@ -2,18 +2,18 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-10-02 RANEK · schylek dlugiego lata
+- **Data:** 296-10-02 POLUDNIE · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
 - **Nastroje:** Sztorm wypalil sie w nocy — jasno, mrozno, PORT ZNOW OTWARTY (statki ruszaja), mroz zelzal chwile. Nastroj lzejszy. Legitymacja Symona (pisarz Septy + poreczenia) osadzona; poreczenia zaczynaja OWOCOW
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 12 jeleni + 20 mied + 0 smokow
+- **Wolne:** 15 jeleni + 20 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 79 · Sytosc 90 · Zmeczenie 2
+- Zdrowie 79 · Sytosc 86 · Zmeczenie 4
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 3

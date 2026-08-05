@@ -439,6 +439,14 @@
    "termin": null,
    "wobec": null,
    "stan": "WYKONANE (m10d4, rzut 73): szanowany klient (z polecenia poreczajacych) — audyt/umowa spisana czysto, klient zadowolony, +4 jel. Auditor-renoma UMOCNIONA, dochod solidnie odbudowany (smear w pelni odwrocony)."
+  },
+  {
+   "id": "klient_d6_antaryon",
+   "opis": "Renoma ciagnie kolejnego klienta na audyt — a jego papiery pachna kolejnym oszustwem ze strony parterow z sieci ANTARYONA (potencjalna 2. cegla bloku)",
+   "typ": "okazja",
+   "termin": null,
+   "wobec": null,
+   "stan": "OTWARTE (m10d6) — platna robota + mozliwy 2. czlonek koalicji anty-Antaryon; do podjecia (dyskretnie, chronic zrodlo)"
   }
  ]
 }

@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 79,
- "sytosc": 88,
- "zmeczenie": 6,
+ "sytosc": 90,
+ "zmeczenie": 2,
  "sakiewka": {
   "miedziaki": 4,
   "jelenie": 23,
@@ -62,12 +62,12 @@
   "rachunki": 37,
   "prawo": 25,
   "retoryka": 38,
-  "jezyki": 59,
-  "spryt_uliczny": 52,
-  "kondycja": 51,
+  "jezyki": 60,
+  "spryt_uliczny": 53,
+  "kondycja": 52,
   "rzemioslo": 0,
   "handel": 31,
-  "walka": 22
+  "walka": 23
  },
  "jezyki_znane": [
   "mowa powszechna",
@@ -78,6 +78,7 @@
   "POLNOC i STARKOWIE (od Owena): honor ponad zycie, prawo goscinnosci swiete, sprawiedliwosc wlasnorekna ('kto wydaje wyrok, sam dzierzy miecz'); KLUCZ do tonu apelu Rymana ku Winterfell — prawda, nie targ",
   "BRAAVOS i HANDEL (od Nesty): prog rentownosci liczony PRZED zakupem; ryzyko rozdzielane sprawiedliwie w umowie (sila wyzsza); 'reputacja uczciwego = kapital, ktory rosnie gdy sie go rozdaje'; umowa na przyszlosc (zamrozic cene, maly zadatek)",
   "CZYTANIE LUDZI (od Owena): rozpoznac klamstwo, strach, dume vs pyche, uprzejmosc-maske vs szczera — swiadomie, nie z odruchu (spryt 8)",
-  "ZASADA KANALOW: siec WIARY (Owen) TYLKO do sprawiedliwosci (Ryman/wdowa) — nie do handlu, by nie skalac Owena; handel polnocny = kanal SWIECKI (Torsen/Halvard). Nie mieszac sacrum z profanum."
+  "ZASADA KANALOW: siec WIARY (Owen) TYLKO do sprawiedliwosci (Ryman/wdowa) — nie do handlu, by nie skalac Owena; handel polnocny = kanal SWIECKI (Torsen/Halvard). Nie mieszac sacrum z profanum.",
+  "POLITYKA POLNOCY (od Owena): Polnoc odpowiada przed WINTERFELL (Starkowie=lord zwierzchni). Manderly = najbogatszy chorazy Starkow, ale przybysze z Reach i Wiary — LOJALNI, lecz z wlasnym interesem. KLUCZ pod Rymana: Winterfell MOZE ZMUSIC Manderlych (swoich chorazych), jesli sprawa DOWIEDZIONA → to dzwignia PONAD lokalna zmowa Manderly-cech; apel do Winterfell = jezyk Stark-honoru + twardy dowod, nie targ"
  ]
 }

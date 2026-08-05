@@ -1544,3 +1544,6 @@ Gracz slusznie zlapal: wnuk Serli TOM byl JUZ uratowany (m8d30, rzut 90) — Sym
 
 ## Miesiąc 10, dzień 4 (WIECZÓR/NOC) → dzień 5 RANEK: dar dla Serli/Toma; sen; zwyczajny dzien
 Symon zostawia Serli i Tomowi cos cieplego (jedzenie/opal, -5 mied) — jawnie, po sasiedzku (nie sekretny dobroczynca, po prostu Symon); Serla nast ~20. Idzie do Septy, spi (zmeczenie 8->2; bez kolacji -> sytosc spada). D5 RANEK: pogoda 39 — szaro, zimno, mokro; dzien targowy (ryba). TLO 44 neutralnie: zwyczajny dzien, watki tla simmeruja (bierny siew ~do 12., prober Gunthor pod okiem, rata Antaryonow ~15/~10 dni, list do Banku ~11-10). Ranek.
+
+## Miesiąc 10, dzień 5 — RANEK→POŁUDNIE: sluzba w Sepcie (kopiowanie, nauka sierot)
+Symon je strawe w Sepcie (sytosc wraca), potem ranek na SLUZBIE (splata stringu Wiary): kopiuje, uczy sieroty liter (pismo praktyka), czyta ludzi (spryt). Legitymacja 'pisarza Septy' krzepnie (wiara 37). NAUCZKA W AKCJI: widzi, jak OWEN robi bierny siew DOBRZE — mimochodem wspomina goscom/parafianom 'sierote, ktora Wiara przygarnela, maester nauczyl liter' — nudno, sympatycznie, bez naciagania; kontrast z jego wlasnym nieudanym aktywnym pchaniem. Bierny siew posuwa sie naturalnie (osiada ~do 12.). Spokojny, bezpieczny ranek pod dachem Matki. Bez rzutu. zmeczenie+1 (3), sytosc wysoka. Poludnie.

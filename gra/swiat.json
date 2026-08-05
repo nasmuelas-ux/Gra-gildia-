@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 3,
+  "dzien": 4,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 46,
- "dzien_tygodnia_nr": 5,
- "dzien_targowy": "ryba",
- "nastroje_miasta": "Zwyczajny szary, chlodny dzien; dzien targowy (ryba) — Targ Rybny gwarny rano. Legitymacja Symona osadzona, auditor-renoma rosnie (smear cechu sie odwraca). PODSKORNIE: cech dalej po cichu sonduje POCHODZENIE obcego skryby; uraza Osgara ciche; rata Antaryonow ~10-15 (~1.5 tyg) sie zbliza.",
+ "pogoda": 14,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": null,
+ "nastroje_miasta": "PASKUDNA pogoda: lodowaty deszcz ze sniegiem, wiatr; port slamazarny, biedota marznie/moknie. Auditor-renoma Symona rosnie (smear cechu odwrocony, klienci wracaja). Bierny siew narracji (Nesta/Owen) rusza w tle. Cech dalej sonduje pochodzenie, ale sa juz oczy na proberow. Rata Antaryonow ~15 (~1.5 tyg).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.3,
-   "przyczyna": "po sztormie, zimna jesien"
+   "mnoznik": 1.6,
+   "przyczyna": "lodowaty deszcz, zimna jesien"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 3
+ "dzien": 4
 }

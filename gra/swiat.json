@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 6,
+  "dzien": 7,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 94,
- "dzien_tygodnia_nr": 1,
- "dzien_targowy": "ryba",
- "nastroje_miasta": "Jasno, mroźno, pieknie — port zwawy. Sondaz cechu o pochodzenie ZBITY (nudna prawda nasycila kanaly). Auditor-renoma Symona ciagnie prace. W tle: rata Antaryonow ~15 (~8 dni), list do Banku ~11-10, blok anty-Antaryon (Aldous=1) rosnie. Cech wsciekly, szuka nowego kata.",
+ "pogoda": 22,
+ "dzien_tygodnia_nr": 2,
+ "dzien_targowy": null,
+ "nastroje_miasta": "Paskudny, ponury dzien: zimny deszcz ze sniegiem. Auditor-renoma Symona mocna, dochod wraca. W tle po cichu: cech (Mennard) montuje kat przez RADE/kasztelana (establishment) — jeszcze bez jawnego ruchu; rata Antaryonow ~15 (~7 dni); list do Banku ~11-10; blok (Aldous+Marlon-bojazliwy) potrzebuje kotwicy (Leona?).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.3,
-   "przyczyna": "mrozno, jesien"
+   "mnoznik": 1.6,
+   "przyczyna": "zimny deszcz, jesien ku zimie"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 6
+ "dzien": 7
 }

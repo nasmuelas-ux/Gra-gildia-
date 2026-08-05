@@ -1600,3 +1600,7 @@ Symon nie rzucil sie na kufry. Zapytal wprost o zakres i cel, obiecal patrzec ty
 
 ## 296-10-08 POLUDNIE — audyt Godrica, sesja I (rzuty 96 / 30)
 Symon zagral jak audytor, nie jak lowca sensacji. Poprosil najpierw o kwity dostawcze i imie przyjmujacego, delikatnie sondujac, czy steward juz kogos podejrzewa. Godric wydal kwity gladko i podal imie — WAT, klucznik piwnicy, jego wlasny czlowiek — przyznajac ciche zle przeczucie, lecz nazwiska nie wypowiadajac: 'ty mi powiedz czysto'. Nad ksiegami na sucho Symon zobaczyl WZOR: roznice nie sa przypadkowe, skupiaja sie na winie i solonej rybie, jedna reka wpisow. Ale kradziez od fudge'owanego ubytku odroznic bez zestawienia kwitow linia-po-linii jeszcze nie umie. Werdykt niepelny — trzeba drugiej sesji. I ciezar rosnie: winowajca to czlowiek Godrica.
+
+
+## 296-10-08 WIECZOR/NOC — septa: posilek, trening, Owen, sen
+Symon wraca do Septy Sniegow. Je, cwiczy (kondycja), rozmawia z Owenem — o audycie ANI SLOWA (obietnica Godrica: nikomu, takze nie 'Braavijce'). Owen ma nowine (rzut 64): korroboracja polnocna sie rusza — Ansell znalazl watek/ludzi mogacych poswiadczyc rejestr Starego Zamku; kanal ku Winterfell (raven d17) trzyma. O cechu: cicho, opieka Wiary dziala, ale Harwin przyczajony, nie odpuscil. Symon spi porzadnie: zmeczenie 2, zdrowie 80, sytosc 100. Bierny siew origin-narracji DOJRZAL — sondaz cechu o pochodzenie rozmyty. Dzien 9 wstaje mglisty.

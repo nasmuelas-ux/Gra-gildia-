@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 8,
+  "dzien": 9,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 36,
- "dzien_tygodnia_nr": 3,
+ "pogoda": 41,
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": null,
- "nastroje_miasta": "Szaro, zimno, mokro — zwykly jesienny mrok. Auditor-renoma Symona wspina sie WYZEJ — dochodzi juz do zamozniejszych/establishment-adjacent kregow. W tle: cech montuje kat przez rade; rata Antaryonow ~15 (~6-7 dni); list do Banku ~11-10; blok z kotwica-Leona; karta cla grywalna droga lorda (brak kanalu do lorda).",
+ "nastroje_miasta": "Poranek chlodny i wilgotny, mgla znad Bialego Noza. Audyt lorda w toku (cicho). Bierny siew origin-narracji DOJRZAL — sondaz cechu o pochodzenie Symona rozmyty naturalna gadanina poreczajacych. W tle: rata Antaryonow ~6 dni; odpowiedz Banku/pryncypala ~miesiac; Harwin przyczajony (opieka Wiary trzyma); klucznik Wat niesvviadomy audytu.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 8
+ "dzien": 9
 }

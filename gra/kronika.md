@@ -1592,3 +1592,7 @@ Wieczor: gimnastyka (kondycja/walka), kolacja, sen (zmeczenie 8->2). D8 RANEK: p
 
 ## Miesiąc 10, dzień 8 — RANEK→POŁUDNIE: spotkanie z zarzadca Godrikiem (rzut 53, sukces z caveatem)
 Symon je, idzie na spotkanie z zarzadca GODRIKIEM (dom blisko dworu/dostawca Nowego Zamku), NIENAGANNA etykieta (oglada Owena + prep Nesty: godnie, jak do wyzej postawionego, bez plaszczenia). RZUT 53: oglada+renoma robia DOBRE WRAZENIE — Godric zleca dyskretny audyt (+3 jel retainer -> 22 jel). CAVEAT (modest margin): rezerwa — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. To PIERWSZY (ostrozny) RUNG ku kregowi dworu/Nowego Zamku — dokladnie kanal, ktorego brak w grze na protektora (Antaryon->Lord). RYZYKO: rosnac w kregach establishmentu = WIDOCZNOSC dla dworu (a cech wlasnie sie tam umizga przez rade) — dwuznaczne. Nowy NPC: zarzadca Godric. oglada/retoryka/rachunki/spryt praktyka. zmeczenie+2 (4), sytosc wysoka. Poludnie.
+
+
+## 296-10-08 POLUDNIE — audyt Godrica: zakres okreslony (rzut 11, czysto)
+Symon nie rzucil sie na kufry. Zapytal wprost o zakres i cel, obiecal patrzec tylko tam, gdzie steward wskaze. Godric — ostrozny, ale rozluzniony ta wlasnie postawa — okreslil sprawe waska: ksiegi prowiantowe kuchni i piwnicy za dwa kwartaly, dostawy przeciw wyplatom, bo liczby sie nie schodza. Chce wiedziec: niechlujstwo pisarza czy kradziez — ZANIM to komukolwiek pokaze. Reszte ksiag odgrodzil. Dyskrecja-jako-lojalnosc kupila zaufanie stewarda (nast +7).

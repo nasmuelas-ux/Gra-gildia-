@@ -59,4 +59,4 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **uraza_osgara** [OTWARTE ]: OTWARTE — echo 'majatek rosnie za szybko = swiat reaguje'
 - **sojusz_kolodzieje** [MOCNY — ]: MOCNY — dlug wdziecznosci cechu
 - **sprawa_elny_lorren** [WYGRANA ]: WYGRANA — Elna bezpieczna, Symon w cieniu; Lorren odparty (uraza)
-- **wiekszy_patron** [MAPA PRO]: MAPA PROTEKTORA (Nesta, m10d6). Zasada: protektora sie NIE uprasza — sie na niego ZASLUGUJE (byc cennym) albo patron widzi w tobie ZYSK. DROGI: (1) LO
+- **wiekszy_patron** [SZCZEBEL]: SZCZEBEL ZDOBYTY: Godric (steward lorda) dal Symonowi dyskretne zlecenie audytu — pierwsza realna noga w drzwiach kregu lorda Wymana. Zasada wciaz: za

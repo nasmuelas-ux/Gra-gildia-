@@ -1469,3 +1469,6 @@ Symon idzie do Owena przyjac oferte. Owen robi WIECEJ niz cicha oslona: ogłasza
 
 ## Miesiąc 9, dzień 29 (NOC) → dzień 30 RANEK
 Wieczor: cwiczenie przed snem (kondycja/walka praktyka), posilek, sen (zmeczenie 8→2). D30 RANEK: pogoda 26 — szaro, mokro, przenikliwie zimno (mroz zszedl w jesienna maz), opal drozeje. TLO 50 (neutralnie): wiesc o publicznej opiece Wiary OSIADA w miescie — pobozni/dol umocnieni; cech WSCIEKLY ale zablokowany (licencja), przegrupowuje, na razie bez ruchu. Plan dnia: PORECZENIA kupcow (Vox, Leona, Boren) — ostroznie, czytajac ich, z pozycji 'pisarza Septy'. Ranek.
+
+## Miesiąc 9, dzień 30 — RANEK→POŁUDNIE: poreczenie Voxa (rzut 58, CZYSTY SUKCES)
+Symon do Voxa (suknik, ufa po frachcie), ostroznie/z szacunkiem, czytajac go. Z pozycji PISARZA SEPTY poreczenie jest BEZPIECZNE (nie ryzykuje juz zwiazku z 'partaczem'). Vox cieplo PRZYSTAJE — bedzie reczyl u kupcow Schodow ('jego ksiegom ufam, sam go biore'); kontr-smear rusza u zrodla. BONUS (czytanie Voxa, spryt 8): Vox odslania wlasna bolaczke — podejrzewa, ze DOSTAWCA/wspolnik go OSZUKUJE — i proponuje Symonowi PLATNY AUDYT swoich papierow (odbudowa dochodu po smearze + glebszy sojusz). Nowy watek: audyt_dostawcy_voxa. Vox nast 20->24, zauf ->7. spryt/retoryka praktyka. zmeczenie+1 (3), sytosc-4. Zostaja Leona (delikatnie), Boren. Poludnie.

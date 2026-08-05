@@ -110,7 +110,7 @@
    "typ": "strategia",
    "termin": null,
    "wobec": "self",
-   "stan": "PRZELOM (d29, rzut 98): OWEN ogłosił Symona PISARZEM SEPTY pod PUBLICZNA OPIEKA WIARY. EFEKT: (1) cechowa bron 'nielicencjonowany partacz' NEUTRALIZOWANA — pisze pod PRAWEM WIARY, poza monopolem cechu; (2) Harwin traci PRETEKST (nie sciga sie Faith-sanctioned skryby za brak licencji) i tknac bohatera reliefu pod opieka Siedmiu = obraza Wiary + gniew miasta; (3) smear Mennarda obraca sie w atak na Wiare (kontrproduktywny). POZOSTAJE: cech wsciekly, szuka INNEGO kata (nie 'licencja'); dochod odbuduje sie z legitymacja + poreczeniami kupcow (jutro Vox/Leona/Boren). STRING: Symon winien Sepcie sluzbe/przyzwoitosc/lojalnosc — mniej wolny."
+   "stan": "PRZELOM (d29, rzut 98): OWEN ogłosił Symona PISARZEM SEPTY pod PUBLICZNA OPIEKA WIARY. EFEKT: (1) cechowa bron 'nielicencjonowany partacz' NEUTRALIZOWANA — pisze pod PRAWEM WIARY, poza monopolem cechu; (2) Harwin traci PRETEKST (nie sciga sie Faith-sanctioned skryby za brak licencji) i tknac bohatera reliefu pod opieka Siedmiu = obraza Wiary + gniew miasta; (3) smear Mennarda obraca sie w atak na Wiare (kontrproduktywny). POZOSTAJE: cech wsciekly, szuka INNEGO kata (nie 'licencja'); dochod odbuduje sie z legitymacja + poreczeniami kupcow (jutro Vox/Leona/Boren). STRING: Symon winien Sepcie sluzbe/przyzwoitosc/lojalnosc — mniej wolny. | D30: VOX PORECZYL (rzut 58) — otwarcie u kupcow Schodow ('ufam jego ksiegom'); kontr-smear rusza u zrodla. Bonus: Vox oferuje platny audyt swego dostawcy (odbudowa dochodu). Zostaja Leona, Boren."
   },
   {
    "id": "ksiegozbior_septy",
@@ -399,6 +399,14 @@
    "termin": "296-10-10",
    "wobec": "klika_zbozowa",
    "stan": "OTWARTE — echo 'majatek rosnie za szybko = swiat reaguje'"
+  },
+  {
+   "id": "audyt_dostawcy_voxa",
+   "opis": "Vox podejrzewa, ze jego dostawca/wspolnik go oszukuje; ufa Symonowi (uczciwy pisarz, pisarz Septy) i proponuje mu AUDYT jego papierow — platna robota",
+   "typ": "okazja",
+   "termin": null,
+   "wobec": "kupiec_vox",
+   "stan": "OTWARTE — oferta pracy (dochod po smearze) + poglebia sojusz z Voxem; do podjecia"
   }
  ]
 }

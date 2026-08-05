@@ -449,8 +449,8 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 20,
-   "ostatni_kontakt": "296-09-22",
+   "nastawienie_do_gracza": 24,
+   "ostatni_kontakt": "296-09-30",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
     "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -459,7 +459,9 @@
     "Symon przyszedl dowiedziec sie, kto o niego pyta; Vox (kupiec ze Schodow, zrodlo word-of-mouth) wskazal: wdowa Leona (handel suknem/welna na Schodach), pod wrazeniem po Dniu Matki i burzy, wypytuje o 'mlodego skrybe'",
     "poprosil go, by zaaranzowal godne spotkanie z Leona (mediowane wprowadzenie zamiast zimnego przyjscia) — Vox chetnie, umowil na jutro (d26) w porze poludniowej; jego poreka podnosi Symona przed Leona",
     "spisal uczciwa dwujezyczna umowe fracht z Vhassarem",
-    "'uczciwy pisarz', ktoremu ufaja obie strony"
+    "'uczciwy pisarz', ktoremu ufaja obie strony",
+    "poreczy za Symona u kupcow Schodow (pisarz Septy, uczciwe ksiegi)",
+    "zaproponowal Symonowi audyt swojego podejrzanego dostawcy/wspolnika (platna robota)"
    ],
    "potrzeby": [
     "dojsc, czy wspolnik go strzyze",

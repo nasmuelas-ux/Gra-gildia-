@@ -1632,3 +1632,7 @@ Symon nie krzyczal 'kantor stoi' — zrobil, jak radzila Nesta. Poszedl do Leony
 
 ## 296-10-10 POLUDNIE — flip: rynek jeszcze nie dojrzal, trzymam
 Symon obszedl szewcow i kusnierzy na Schodach z zimowymi skorami Colla, ale na d10 nikt nie placi jeszcze zimowej ceny — popyt dopiero sie rozgrzewa. Nie sprzedaje; zwija towar i czeka na szczyt (okno do ~14-go). Kapital ~8 jel dalej w skorach, nic nie stracone. Potem siada nad wlasna lista zobowiazan, by rozwazyc nastepny ruch.
+
+
+## 296-10-10 POLUDNIE — narada z Nesta: plan na rate (rzut 64)
+Symon pyta wprost: co z rata, szukamy nacisku przez Leone? Nesta koryguje bystro. Leony grosz to skromny grosz suknika — raty Antaryonow nie pokryje; a nacisku na wierzyciela nie robi sie sentymentem, gdy sie jest dluznikiem — to prosi sie o zajecie. Plan wychodzi inny: TE rate sie SPELNIA, nie zwalcza — chodzi o to, by ja przezyc i dociagnac faktorie do refinansowania (~11-10). Nesta rate udzwignie, ewentualny gap domknie mostek Symona albo drobny mostek kupcow. Leona i Vox przydadza sie nie srebrem, lecz STANDINGIEM: widoczne poparcie kupieckie sprawi, ze Ternesio dwa razy pomysli, nim brutalnie zajmie kupca, ktorego wspiera port. Do tego cichy sygnal Ternesiowi, ze refinansowanie idzie — by nie docisnal teraz. A prawdziwy nacisk na Antaryon — karta CLA, przez Gartha, audyt-renome i rodzacy sie kanal do lorda (Godric) — to lewar z zebami, ale niebezpieczny i nie na piec dni: to gra na nastepna runde, nie na te rate.

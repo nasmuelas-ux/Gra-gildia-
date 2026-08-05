@@ -50,7 +50,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-10-13` godric_rozprawa_wat: Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon
 
 ## WATKI OTWARTE (najwazniejsze u gory)
-- **audyt_dlugu_antaryon** [OTWARTE/]: OTWARTE/GLOWNE — MIEKKI OFF-RAMP JUZ ROZEGRANY I PRZEGRANY (296-08-20, rzut 29): Ternesio obstal przy zawyzeniu, Nesta zaplacila napompowana rate ~+1 
+- **audyt_dlugu_antaryon** [PLAN NA ]: PLAN NA RATE (d10, narada z Nesta rzut 64). NESTA KORYGUJE POMYSL 'nacisku przez Leone': (a) Leony sakiewka to skromny grosz suknika — NIE pokryje rat
 - **wolnosc_od_harwina** [PRZELOM ]: PRZELOM (d29, rzut 98): OWEN ogłosił Symona PISARZEM SEPTY pod PUBLICZNA OPIEKA WIARY. EFEKT: (1) cechowa bron 'nielicencjonowany partacz' NEUTRALIZOW
 - **list_ze_starego_zamku** [Maester ]: Maester THEOMORE ODMOWIL dzialania na sama kopie (lojalnosc lordowi/establishmentowi). Droga: KORROBORACJA (rejestr/oryginal Stary Zamek Locke + zezna
 - **spolka_egzotyczna** [AKTYWNA ]: AKTYWNA — import ruszony (barwniki, Vhassar ~11-25); WYWOZ dopiety: skory lokalne (umowa na przyszlosc) + futra polnocne (Torsen/Halvard). Intel: braa

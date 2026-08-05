@@ -209,6 +209,14 @@
    "znak": "+++ (defuzuje sondaz cechu: Gunthor dostaje wszedzie ten sam dead-end)",
    "od_dnia": "296-10-05",
    "sila": "rozchodzi sie, celna"
+  },
+  {
+   "tresc": "pisarz Septy znow wyniuchal komus, ze go skubia — kupcy pchaja sie do niego z ksiegami",
+   "zrodlo": "kupcy/Schody",
+   "sfera": "kupcy",
+   "znak": "++ (renoma/dochod)",
+   "od_dnia": "296-10-06",
+   "sila": "mocna"
   }
  ]
 }

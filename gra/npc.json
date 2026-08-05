@@ -818,6 +818,13 @@
    "zawod": "cechowy posrednik/naganiacz, czlowiek Harwina; wypytuje po porcie o pochodzenie Symona",
    "nastawienie_do_gracza": -5,
    "nota": "NAMIERZONY (m10d4, rzut 79): to on weszy o przeszlosc Symona; lancuch Gunthor -> Harwin/Mennard -> cech. Symon ma teraz oko na TEN kanal (moze weń wpuszczac nudna narracje / wiedziec, co cech sie dowiaduje) | m10d5: Gunthor zaczyna dostawac TE SAMA nudna historie (sierota+maester) z ust, ktorym ufa (Dobb, Wenda) — trop obumiera, sondaz sie DEFUZUJE"
+  },
+  {
+   "id": "kupiec_marlon",
+   "imie": "Marlon",
+   "zawod": "kupiec (dealings z sieci Antaryona)",
+   "nastawienie_do_gracza": 12,
+   "nota": "m10d6: audyt POTWIERDZIL, ze partner z sieci Antaryona go skubie; wdzieczny, zaplacil, ufa Symonowi. ALE BOJAZLIWY wobec wielkiego domu — potencjalny 2. czlonek bloku, lecz SLABE OGNIWO: sam nie ruszy, moze zwlekac/zloamac sie/tipnac Antaryona ze strachu; wejdzie tylko pod zbiorowa oslona"
   }
  ],
  "orbita": [

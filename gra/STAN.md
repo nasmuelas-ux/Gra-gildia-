@@ -2,18 +2,18 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-09-27 WIECZOR · schylek dlugiego lata
+- **Data:** 296-09-28 RANEK · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty: (1) spolka ZBOZOWA — ZAMKNIETA z zyskiem (relief miasta + crash cen hoarderow Osgara); (2) nowa 
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** GLOD PRZELAMANY: relief zbozowy (charytatywa septy + uczciwa szeroka sprzedaz) nakarmil miasto i ZBIL zawyzone ceny — klika Osgara przeeksponowana/urazona, ale ziarno w rekach ludzi = fakt dokonany; m
+- **Nastroje:** Po reliefie miasto spokojniejsze i syte; wdziecznosc dolu ku 'skrybie, co sluzyl glodnym' i Wierze trwa. PODSKORNIE: cech (Mennard) saczy wsrod kupcow/rady, ze Symon to nielicencjonowany 'partacz/oszu
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 12 jeleni + 24 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 80 · Sytosc 58 · Zmeczenie 6
+- Zdrowie 80 · Sytosc 50 · Zmeczenie 2
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 3

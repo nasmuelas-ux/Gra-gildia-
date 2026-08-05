@@ -67,7 +67,7 @@
    "tresc_prawdziwa": "Bran-tragarz wypytywal w porcie o Harwina i o zaginionego skrybe",
    "tresc_obiegowa": "ktos kryje tego pisarczyka — Bran o niego pyta, pewnie wie, gdzie on jest",
    "prawdziwosc": 0.8,
-   "znieksztalcenie": 1,
+   "znieksztalcenie": 2,
    "zna": [
     "czeladnik_pate",
     "handlarz_ryb_solonych"
@@ -105,6 +105,14 @@
    "znak": "- (cichy cien, uraza hoarderow)",
    "od_dnia": "296-09-27",
    "sila": "swieza, slaba"
+  },
+  {
+   "tresc": "Mennard (starszy cechu) gada kupcom na Schodach, ze braavijski skryba to partacz bez licencji — nie ufac mu ksiag",
+   "zrodlo": "cech, Schody",
+   "sfera": "kupcy Schodow, rada",
+   "znak": "-- (atak na reputacje kupiecka Symona)",
+   "od_dnia": "296-09-28",
+   "sila": "rosnie"
   }
  ]
 }

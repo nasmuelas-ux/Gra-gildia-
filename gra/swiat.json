@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 9,
-  "dzien": 27,
+  "dzien": 28,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 62,
- "dzien_tygodnia_nr": 6,
+ "pogoda": 92,
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "GLOD PRZELAMANY: relief zbozowy (charytatywa septy + uczciwa szeroka sprzedaz) nakarmil miasto i ZBIL zawyzone ceny — klika Osgara przeeksponowana/urazona, ale ziarno w rekach ludzi = fakt dokonany; miasto odetchnelo, wdziecznosc oddolna ku 'skrybie, co sluzyl glodnym' i Wierze; hoarderzy i czesc cechu ciche-wrogie; napiecie zelzalo, ale rachunki (Harwin, Osgar) czekaja",
+ "nastroje_miasta": "Po reliefie miasto spokojniejsze i syte; wdziecznosc dolu ku 'skrybie, co sluzyl glodnym' i Wierze trwa. PODSKORNIE: cech (Mennard) saczy wsrod kupcow/rady, ze Symon to nielicencjonowany 'partacz/oszust'; Harwin wypytuje na Schodach. Uraza Osgara ciche-wroga. Pierwsze przymrozki — sezon sie lamie ku jesieni.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 27
+ "dzien": 28
 }

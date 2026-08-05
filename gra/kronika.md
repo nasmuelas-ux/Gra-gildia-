@@ -1541,3 +1541,6 @@ Symon odwiedza Serle (dawna gospodyni, przyjaciolka) po ludzku, bez interesu —
 
 ## [KOREKTA MG — m10d4] Tom byl JUZ uratowany (nie powtarzac kryzysu)
 Gracz slusznie zlapal: wnuk Serli TOM byl JUZ uratowany (m8d30, rzut 90) — Symon oplacil ANONIMOWO uzdrowicielke+leki przez Wiare, goraczka pekla, watek ROZWIAZANY; Serla NIE wie, ze to Symon (dobroczynca sekretny, godnosc). Moja poprzednia scena m10d4 blednie odgrala Toma jako 'chorego gorzej, ratuj od nowa' = DRYF/powtorka. UNIEWAZNIAM te ramę. STAN FAKTYCZNY: Tom ZYWY, zdrowiejacy, z natury frajle/chorowity, ale NIE w swiezym kryzysie smiertelnym; ostatni ze krwi Serli. Wizyta m10d4 = cieply check-in u zdrowiejacego dziecka i wdziecznej (Matce/nieznanemu dobroczyncy) Serli — NIE nowy dramat ratunku. Symon dalej trzyma sekret, ze to on ratowal.
+
+## Miesiąc 10, dzień 4 (WIECZÓR/NOC) → dzień 5 RANEK: dar dla Serli/Toma; sen; zwyczajny dzien
+Symon zostawia Serli i Tomowi cos cieplego (jedzenie/opal, -5 mied) — jawnie, po sasiedzku (nie sekretny dobroczynca, po prostu Symon); Serla nast ~20. Idzie do Septy, spi (zmeczenie 8->2; bez kolacji -> sytosc spada). D5 RANEK: pogoda 39 — szaro, zimno, mokro; dzien targowy (ryba). TLO 44 neutralnie: zwyczajny dzien, watki tla simmeruja (bierny siew ~do 12., prober Gunthor pod okiem, rata Antaryonow ~15/~10 dni, list do Banku ~11-10). Ranek.

@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 4,
+  "dzien": 5,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 14,
- "dzien_tygodnia_nr": 6,
+ "pogoda": 39,
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "PASKUDNA pogoda: lodowaty deszcz ze sniegiem, wiatr; port slamazarny, biedota marznie/moknie. Auditor-renoma Symona rosnie (smear cechu odwrocony, klienci wracaja). Bierny siew narracji (Nesta/Owen) rusza w tle. Cech dalej sonduje pochodzenie, ale sa juz oczy na proberow. Rata Antaryonow ~15 (~1.5 tyg).",
+ "nastroje_miasta": "Zwyczajny szary, zimny, mokry dzien (breja zelzala). Auditor-renoma Symona ustabilizowana, dochod wraca. W tle: bierny siew narracji (Nesta/Owen) osiada (~do 12.); prober Gunthor pod okiem; rata Antaryonow ~15 (~10 dni); list do Banku plynie (~11-10). Cech wsciekly, ale zablokowany.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.6,
-   "przyczyna": "lodowaty deszcz, zimna jesien"
+   "mnoznik": 1.4,
+   "przyczyna": "zimna mokra jesien"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 4
+ "dzien": 5
 }

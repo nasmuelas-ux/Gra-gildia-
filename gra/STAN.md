@@ -13,7 +13,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 79 · Sytosc 88 · Zmeczenie 7
+- Zdrowie 79 · Sytosc 84 · Zmeczenie 8
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 4
@@ -58,4 +58,4 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **uraza_osgara** [OTWARTE ]: OTWARTE — echo 'majatek rosnie za szybko = swiat reaguje'
 - **sojusz_kolodzieje** [MOCNY — ]: MOCNY — dlug wdziecznosci cechu
 - **sprawa_elny_lorren** [WYGRANA ]: WYGRANA — Elna bezpieczna, Symon w cieniu; Lorren odparty (uraza)
-- **wiekszy_patron** [POSTEP p]: POSTEP przez reputacje — sojusz cechu koladziejow (Boren), zaufanie Voxa/Vhassara; cel nadrzedny: znalezc PLECY (protektor) — najlepsza droga: sprawie
+- **wiekszy_patron** [MAPA PRO]: MAPA PROTEKTORA (Nesta, m10d6). Zasada: protektora sie NIE uprasza — sie na niego ZASLUGUJE (byc cennym) albo patron widzi w tobie ZYSK. DROGI: (1) LO

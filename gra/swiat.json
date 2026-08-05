@@ -1,16 +1,16 @@
 {
  "data": {
   "rok": 296,
-  "miesiac": 9,
-  "dzien": 30,
+  "miesiac": 10,
+  "dzien": 1,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 26,
- "dzien_tygodnia_nr": 2,
+ "pogoda": 10,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "Wiesc o opiece Wiary nad 'pisarzem Septy, co nakarmil glodnych' osiada — pobozni i dol umocnieni w sympatii; cech (Mennard/Harwin) WSCIEKLY ale zablokowany na linii licencji, przegrupowuje/szuka innego kata. Szaro, mokro, przenikliwie zimno — mroz zszedl w jesienna maz; opal drozeje.",
+ "nastroje_miasta": "Nowy miesiac (m10). Wiesc o opiece Wiary nad 'pisarzem Septy' i trzy poreczenia (Vox/Boren/Leona) osadzone — Symon zalegitymizowany, smear cechu obsypany; cech WSCIEKLY, przeszedl z 'licencji' na sondowanie KIM jest obcy skryba (pod cos przez establishment). GWALTOWNY JESIENNY SZTORM: wichura, deszcz ze sniegiem, port ZABLOKOWANY (statki stoja), opal/import drozeja, biedota w mrozie i wichrze cierpi.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.4,
-   "przyczyna": "zimna, mokra jesien"
+   "mnoznik": 1.6,
+   "przyczyna": "sztorm + zimna jesien"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 30
+ "dzien": 1
 }

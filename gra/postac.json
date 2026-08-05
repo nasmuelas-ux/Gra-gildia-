@@ -1,0 +1,81 @@
+{
+ "imie": "Symon",
+ "przydomek": null,
+ "wiek": 21,
+ "stan": "pospolity, obcy w miescie (bez rodziny)",
+ "pochodzenie": "wychowany na poslugach w Starym Zamku rodu Locke na Polnocy; liter i rachunkow nauczyl go stary maester Aemon Rivers (zmarl); braavijskiej mowy douczyl sie na nabrzezach Bialego Portu",
+ "miasto": "Bialy Port",
+ "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
+ "utrzymanie": "WSPOLNIK kantoru Nesty: (1) spolka ZBOZOWA — ZAMKNIETA z zyskiem (relief miasta + crash cen hoarderow Osgara); (2) nowa spolka EGZOTYCZNA (dwukierunkowy handel z Braavos) — wspolwlasciciel, udzial proporcjonalny do wkladu + dokladka za pomysl/prowadzenie; + wciaz pisze listy na rogu przy Bramie Foki (bez licencji cechu — Harwin poluje)",
+ "zdrowie": 80,
+ "sytosc": 58,
+ "zmeczenie": 6,
+ "sakiewka": {
+  "miedziaki": 24,
+  "jelenie": 12,
+  "smoki": 0
+ },
+ "dobytek": [
+  "pioro gesie (2 szt.)",
+  "wyszczerbiony scyzoryk do temperowania",
+  "drewniana miska i lyzka",
+  "krzesiwo",
+  "1 arkusz taniego papieru (dwa zniszczone w blocie)",
+  "flakon atramentu (swiezy)",
+  "2 arkusze pergaminu (jeden stary, jeden nowo kupiony)",
+  "skladany stolik i zydel — zwiniety w domu, zdjety z Bramy (obluzowana noga)",
+  "pozyczona od Nesty braavijska ksiega kupiecka (praktyka handlu + opisy Braavos i Wolnych Miast) — karmi jezyki/handel i marzenie o Braavos",
+  "nowy, schludny stroj mieszczanski: welniany kaftan, nienalatany plaszcz, cieple buty na zime (respektowany, NIE panski — wg rady Nesty/Owena); stary latany plaszcz zostaje jako zapas/robota",
+  "porzadny zestaw pisarski: dobre inkausty (kilka), zapasowe piora, kosciany nozyk do temperowania, zapas pergaminu i papieru, skladana kaseta pisarska",
+  "szklo powiekszajace (soczewka do drobnego pisma) — pomaga czytac drobny braavijski druk manifestow/cedul",
+  "ukryty sztylet — prosty, niepozorny, dobrze zataja sie pod kaftanem/plaszczem (samoobrona; kupiony po rozruchach)",
+  "pozyczona od Nesty braavijska GRAMATYKA/czytanka — formalizuje jezyk zlapany ze sluchu (karmi jezyki, marzenie o Braavos)",
+  "SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu",
+  "odpisy umow: frachtowa Vhassar-Vox, cechowa koladzieje-Torsen, spolki egzotycznej — Symon jako 'uczciwy pisarz' obu stron",
+  "depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)",
+  "SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce"
+ ],
+ "reputacja": {
+  "port": 16,
+  "schody_zamkowe": 16,
+  "cech_pisarzy": -4,
+  "wiara": 26,
+  "zamek": 2,
+  "cech_kolodziejow": 22
+ },
+ "umiejetnosci": {
+  "pismo": 7,
+  "rachunki": 7,
+  "prawo": 5,
+  "retoryka": 7,
+  "jezyki": 8,
+  "spryt_uliczny": 8,
+  "kondycja": 7,
+  "rzemioslo": 1,
+  "handel": 7,
+  "walka": 3
+ },
+ "licznik_uzyc": {
+  "pismo": 30,
+  "rachunki": 30,
+  "prawo": 20,
+  "retoryka": 31,
+  "jezyki": 56,
+  "spryt_uliczny": 39,
+  "kondycja": 41,
+  "rzemioslo": 0,
+  "handel": 26,
+  "walka": 14
+ },
+ "jezyki_znane": [
+  "mowa powszechna",
+  "braavijski (biegle w mowie, slabiej w pismie)"
+ ],
+ "wiedza": [
+  "OGLADA (od Owena-septona): jak mowic/klaniac sie lordowi, lady, maesterowi, rycerzowi; milczenie z godnoscia; 'stroj', ktory otwiera drzwi do moznych — pod cel: znalezc protektora",
+  "POLNOC i STARKOWIE (od Owena): honor ponad zycie, prawo goscinnosci swiete, sprawiedliwosc wlasnorekna ('kto wydaje wyrok, sam dzierzy miecz'); KLUCZ do tonu apelu Rymana ku Winterfell — prawda, nie targ",
+  "BRAAVOS i HANDEL (od Nesty): prog rentownosci liczony PRZED zakupem; ryzyko rozdzielane sprawiedliwie w umowie (sila wyzsza); 'reputacja uczciwego = kapital, ktory rosnie gdy sie go rozdaje'; umowa na przyszlosc (zamrozic cene, maly zadatek)",
+  "CZYTANIE LUDZI (od Owena): rozpoznac klamstwo, strach, dume vs pyche, uprzejmosc-maske vs szczera — swiadomie, nie z odruchu (spryt 8)",
+  "ZASADA KANALOW: siec WIARY (Owen) TYLKO do sprawiedliwosci (Ryman/wdowa) — nie do handlu, by nie skalac Owena; handel polnocny = kanal SWIECKI (Torsen/Halvard). Nie mieszac sacrum z profanum."
+ ]
+}

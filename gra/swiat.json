@@ -1,0 +1,53 @@
+{
+ "data": {
+  "rok": 296,
+  "miesiac": 9,
+  "dzien": 27,
+  "era": "AC"
+ },
+ "pora": "WIECZOR",
+ "sezon": "schylek dlugiego lata",
+ "pogoda": 62,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": null,
+ "nastroje_miasta": "GLOD PRZELAMANY: relief zbozowy (charytatywa septy + uczciwa szeroka sprzedaz) nakarmil miasto i ZBIL zawyzone ceny — klika Osgara przeeksponowana/urazona, ale ziarno w rekach ludzi = fakt dokonany; miasto odetchnelo, wdziecznosc oddolna ku 'skrybie, co sluzyl glodnym' i Wierze; hoarderzy i czesc cechu ciche-wrogie; napiecie zelzalo, ale rachunki (Harwin, Osgar) czekaja",
+ "ceny": {
+  "chleb": {
+   "baza": 3,
+   "mnoznik": 0.9,
+   "przyczyna": "relief zbozowy zbil cene"
+  },
+  "ryba": {
+   "baza": 2,
+   "mnoznik": 1.0,
+   "przyczyna": "nie dzien targowy"
+  },
+  "pergamin": {
+   "baza": 40,
+   "mnoznik": 1.0,
+   "przyczyna": null
+  },
+  "atrament": {
+   "baza": 12,
+   "mnoznik": 1.0,
+   "przyczyna": "braavijska dostawa w porcie"
+  },
+  "opal": {
+   "baza": 8,
+   "mnoznik": 1.2,
+   "przyczyna": "chlodne lato na Polnocy"
+  },
+  "wino_korzenne": {
+   "baza": 5,
+   "mnoznik": 1.1,
+   "przyczyna": "wino przyplynelo galera"
+  },
+  "sol": {
+   "baza": 45,
+   "mnoznik": 1.1,
+   "przyczyna": "dostawy wrocily po burzy"
+  }
+ },
+ "swieto": null,
+ "dzien": 27
+}

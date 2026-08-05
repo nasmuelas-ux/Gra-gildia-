@@ -1,0 +1,19 @@
+{
+  "_uwaga": "Ceny referencyjne w miedziakach. Konwencja gry: 1 srebrny jeleń = 100 miedziaków; 1 zloty smok = 200 jeleni. Skala uboga.",
+  "zywnosc": {
+    "chleb_bochen": 3, "ryba_swieza": 2, "ryba_solona": 3, "piwo_kufel": 1,
+    "miska_zupy": 2, "ser_funt": 6, "jaja_tuzin": 4, "korzenne_wino_kufel": 5
+  },
+  "nocleg": { "prycza_karczma": 4, "izba_miesiac": 60 },
+  "materialy_skryby": {
+    "arkusz_pergaminu": 40, "arkusz_taniego_papieru": 8, "flakon_atramentu": 12,
+    "pioro_gesie": 2, "swieca_lojowa": 3, "swieca_woskowa": 9, "lak_pieczetny": 15
+  },
+  "stawki_skryby": {
+    "list_prosty": 4, "podanie_urzedowe": 8, "kopia_strony": 6,
+    "ksiega_rachunkowa_dzien": 25, "tlumaczenie_strony": 12, "redakcja_umowy": 40
+  },
+  "odziez": { "plaszcz_lichy": 250, "buty_skorzane": 180, "koszula": 60 },
+  "transport": { "przeprawa_lodka": 1, "mila_wozem": 3, "kon_tani_jeleni": 40 },
+  "inne": { "lazienka": 2, "datek_w_sepcie": 1, "przekupienie_stroznika": 30 }
+}

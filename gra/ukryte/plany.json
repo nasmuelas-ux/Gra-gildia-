@@ -1,0 +1,54 @@
+{
+ "plany": {
+  "pate_skryba": {
+   "zamiar": "utrzymac sie przy lawie mimo kaszlu; jesli oslabnie, przekazac klientow cechowi, nigdy obcemu partaczowi",
+   "nastepny_krok": "posłac Willama po korzenne wino i wyjsc do lawy przy Schodach mimo mgly"
+  },
+  "nesta_braavijka": {
+   "zamiar": "z dzwignia w reku (zawyzony dlug) rozwazyc, jak stawic czolo Antaryonom — kupic czas, renegocjowac, moze zagrozic ujawnieniem ich naduzycia; trzymac Symona bardzo blisko (bezcenny)",
+   "nastepny_krok": "przemyslec, jak prawnie/negocjacyjnie uzyc odkrycia; potrzebny ktos znajacy prawo albo kanal; wynagrodzic i chronic Symona"
+  },
+  "cech_pisarzy": {
+   "zamiar": "zdusic rosnacego, nielicencjonowanego audytora spod Wiary — skoro nie mozna go tknac (tarcza Owena) ani zmusic, to zniszczyc mu REPUTACJE kupiecka (partacz/oszust) i odstraszyc klientow, przez rade i gadke na Schodach",
+   "nastepny_krok": "Mennard sieje smear wsrod kupcow/rady; moze probowac formalnej skargi (praktyka bez licencji); czeka, az Symonowi klienci odplyna. W tle rosnie sprawa Rymana (o ktorej cech nie wie)."
+  },
+  "lorren_lichwiarz": {
+   "zamiar": "rozszerzyc krag drobnych dluznikow; mlody obcy bez rodziny to dobry material",
+   "nastepny_krok": "obserwowac, czy Symonowi zabraknie na czynsz"
+  },
+  "bran_tragarz": {
+   "zamiar": "pomoc Symonowi — dowiedziec sie, co knuje Harwin",
+   "nastepny_krok": "MELDUNEK (rzut 16): zbierze marne wiesci (Harwin gada z Gunthorem i paroma tragarzami, ton osobisty/wsciekly), NIE ustali jasno 'cech czy wlasna reka'; jego niezgrabne wypytywanie zostanie zauwazone (Willam/ktos cechowy?) — ryzyko, ze Harwin skojarzy Brana z Symonem i pojdzie tropem ku Rybiemu Zaulkowi. Wroci do Symona po poludniu, sploszony."
+  },
+  "septon_owen": {
+   "zamiar": "po odmowie Theomore'a: budowac realna sprawe Rymana przez siec Wiary/maesterow — dyskretna korespondencja ku Staremu Zamkowi (rejestr krucznika/oryginal/wdowa) + kanal ku Winterfell (Starkowie moga wymusic reszte); chronic Symona i kopie",
+   "nastepny_krok": "spisac z Symonem szczegoly swiadka; napisac ostroznie do maestra/septona w okolicy Starego Zamku; szukac zaufanego przekazu ku Winterfell; nie tipnac sojusznikow Rymana"
+  },
+  "faktor_duzego_domu": {
+   "zamiar": "Ternesio (dom Antaryon) — interesy jak zwykle; jako wierzyciel moze z czasem docisnac Neste; wciaz chcialby pozyskac braavijskiego czytacza",
+   "nastepny_krok": "press na Neste w miare terminow dlugu; nie wie o zadnym sledztwie Symona (scrutiny cofnieta)"
+  },
+  "maester_theomore": {
+   "zamiar": "nie angazowac sie w oskarzenie czlowieka lorda na podstawie kopii i slowa obcego; ostroznosc + lojalnosc establishmentowi; nie zaszkodzi im, ale nie pomoze bez ironclad proof",
+   "nastepny_krok": "odprawil grzecznie; z oryginalem/korroboracja moze rozwazy; na razie zamkniete"
+  }
+ },
+ "antaryon_celne": [
+  "D17: Symon w manifestach Nesty znalazl antaryonski ladunek z wartoscia zanizona do cla — swiezy, niezalezny dowod na zanizanie (obok wczesniejszego zawyzania dlugu Nesty). Podwojna dzwignia: oszukuja i wierzyciela, i corone/celne. Kanal: Garth (celnik) lub maester Theomore.",
+  "D18: Symon zaniosl trop Garthowi — NIEUDANE. Maly urzednik nie tknie wielkiego domu (strach o posade/kark). Kanal celny przez Gartha = ZIMNY. Lever zyje, ale trzeba innego kanalu: Theomore (prawo+ucho lorda) lub trzymac. UBOCZNIE: Garth ochlodl, cofa sie z wrazliwych manifestow."
+ ],
+ "flagi": [
+  "Sprawa Garth/poreczenie: DWIE porazki z rzedu (25,54) -> nastepny rzut w tej sprawie +15 (zasada domowa 3)"
+ ],
+ "dlug_nesty": {
+  "wierzyciel": "Dom Antaryon (jej wierzyciele)",
+  "kwota_glowna": "~90 zlotych smokow (dla Symona to inny wszechswiat — nigdy nie trzymal nawet jednego smoka)",
+  "obsluga": "sezonowe rozliczenie (~20. miesiaca, przy cle portowym) — rata kilku smokow",
+  "haczyk": "Antaryonowie ZAWYZAJA rozliczenie (dzwignia, ktora Symon znalazl d9 i JUZ jej dal) — czesc dlugu nielegalna",
+  "nieujawnione_przez_symona": "UJAWNIONE d19: Symon polozyl manifest przed Nesta. Teraz OBIE bronie w jej reku.",
+  "od_dnia": "296-08-19 (Nesta otworzyla ksiegi wspolnikowi)",
+  "strategia_nesty": "NIE denuncjacja (samobojstwo vs wielki dom w miescie cech-Manderly, i prowieniencja = jej ksiegi = wisi ich oboje). LEWAR: cichy chip na ROZLICZENIE ~20. — z pozycji 'wiem o was' zbic zawyzenie / renegocjowac dlug w dol, po braavijsku, bez rozglosu. Ryzyko: przyparty wielki dom gryzie; Ternesio nie glupi; Symon teraz MATERIALNIE uwiklany (ekspozycja) w ruch przeciw Antaryonom.",
+  "rozliczenie_d20": "PORAZKA zagrania (rzut 29/prog 45). Ternesio NIE wzial off-rampu — chlodno obstal przy napompowanej liczbie (wielki dom nie musi byc w bledzie, musi tylko trzymac papier). Nesta, wg planu, NIE zagrala hintu o cle (wyczula, ze nie chwyta i nie warto eskalowac w niebezpieczenstwo) — KARTA CLA ZACHOWANA, sztylet wciaz w rekawie. Zaplacila napompowana rate tego sezonu (~+1 zloty smok ponad prawdziwa). Ternesio subtelnie flexnal pozycje (przypomnial jej: obca, sama, dluzniczka). EKSPOZYCJA SYMONA: NISKA — trzymal role scisle, milczal; podejrzliwosc (mala) padla na Neste-mowiaca, nie na cichego skrybe. LEKCJA: miec racje != wygrac z kims, kto trzyma papier na twojej szyi. Lewar potrzebuje SILNIEJSZEJ pozycji/wiekszego momentu, nie jednej cichej rozmowy.",
+  "strategia_wyjscia": "Symon (d20) pyta: 'a gdyby po prostu splacic?'. NESTA: outright splata ~90 smokow = NIEMOZLIWE/samobojcze — faktor obraca gl. cudzym kapitalem (dom braavijski), wlasnej wolnej gotowki nie ma tyle; a nawet gdyby, wyzerowanie kapitalu = smierc faktorii (nie ma czym handlowac). PRAWDZIWE WYJSCIE = REFINANSOWANIE: przeniesc dlug do INNEGO, niedrapieznego wierzyciela (marzenie: ZELAZNY BANK Braavos — ceni czysta ksiege, jej ojczyzna; realniej najpierw mniejszy kanal / wlasny urosly kapital / moze Lorren). Nowy wierzyciel splaca Antaryonow -> traca smycz. WARUNEK: STANDING/wiarygodnosc kredytowa, ktorej samotna, duszona wdowa nie ma — ale urosla faktoria z ostrym mlodym wspolnikiem i czysta ksiega MOZE zdobyc. HACZYK: Antaryonowie moga NIE chciec byc splaceni — dlug to ich hak, by kiedys przejac jej cenna faktorie/kontakty; czysty exit ich sprowokuje. => STRATEGICZNY CEL KAMPANII: urosnac dosc, by REFINANSOWAC dlug z pozycji sily i sciac smycz Antaryonow. To nadaje sens grindowi ('stac mocniej')."
+ }
+}

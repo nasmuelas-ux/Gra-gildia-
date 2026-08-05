@@ -1,0 +1,110 @@
+{
+ "plotki": [
+  {
+   "id": "plotka_001",
+   "tresc_prawdziwa": "'Corka Tytana' wrocila cala z ladunkiem (utknela byla przy Siostrach ze zlamanym sterem)",
+   "tresc_obiegowa": "galera jednak wplynela! panika byla na wyrost, ceny spadaja",
+   "prawdziwosc": 0.5,
+   "znieksztalcenie": 1,
+   "zna": [
+    "bran_tragarz",
+    "wenda_rybia",
+    "nesta_braavijka",
+    "rybak_stary_edd",
+    "karczmarz_dobb"
+   ],
+   "zasieg": [
+    "port"
+   ],
+   "tempo": "szybkie",
+   "dotarla_do_frakcji": [
+    "kupcy_braavijscy"
+   ]
+  },
+  {
+   "id": "plotka_002",
+   "tresc_prawdziwa": "stary Pate, skryba cechu, choruje na pluca",
+   "tresc_obiegowa": "Pate podobno umiera, przy Schodach zwolni sie lawa",
+   "prawdziwosc": 0.6,
+   "znieksztalcenie": 1,
+   "zna": [
+    "wenda_rybia",
+    "czeladnik_pate"
+   ],
+   "zasieg": [
+    "schody",
+    "port"
+   ],
+   "tempo": "srednie",
+   "dotarla_do_frakcji": [
+    "cech_pisarzy"
+   ]
+  },
+  {
+   "id": "plotka_003",
+   "tresc_prawdziwa": "Harwin naszedl o switie zaulek — skryby juz nie ma, Serla nic nie mowi",
+   "tresc_obiegowa": "cechowy szuka tego skryby po calym porcie, nawet pyta, czy nie uciekl do septy albo z miasta",
+   "prawdziwosc": 0.7,
+   "znieksztalcenie": 4,
+   "zna": [
+    "wenda_rybia",
+    "bran_tragarz",
+    "serla_wdowa",
+    "praczka_maddy",
+    "karczmarz_dobb",
+    "straznik_bramy",
+    "rybak_stary_edd"
+   ],
+   "zasieg": [
+    "port",
+    "zaulek"
+   ],
+   "tempo": "szybkie",
+   "dotarla_do_frakcji": []
+  },
+  {
+   "id": "plotka_004",
+   "tresc_prawdziwa": "Bran-tragarz wypytywal w porcie o Harwina i o zaginionego skrybe",
+   "tresc_obiegowa": "ktos kryje tego pisarczyka — Bran o niego pyta, pewnie wie, gdzie on jest",
+   "prawdziwosc": 0.8,
+   "znieksztalcenie": 1,
+   "zna": [
+    "czeladnik_pate",
+    "handlarz_ryb_solonych"
+   ],
+   "zasieg": [
+    "port"
+   ],
+   "tempo": "srednie",
+   "dotarla_do_frakcji": [
+    "cech_pisarzy"
+   ]
+  }
+ ],
+ "aktywne": [
+  {
+   "tresc": "mlody skryba spod Wiary w jesienna burze uratowal towar Braavijki glowa, nie krzykiem — rozstawil ratunek jak urzednik, tragarze go posluchali",
+   "zrodlo": "nabrzeze/tragarze (swiadkowie)",
+   "sfera": "port, tragarze, lichtarze; wolniej na Schody",
+   "znak": "+ (kontra na smear cechu 'partacz')",
+   "od_dnia": "296-08-18",
+   "sila": "swieza, mocna u zrodla"
+  },
+  {
+   "tresc": "skryba spod Wiary i braavijska faktorka nakarmili miasto tanim ziarnem w glod — Wiara rozdala biednym, hoarderzy oberwali po kieszeni",
+   "zrodlo": "septa + punkty sprzedazy (swiadkowie, biedota)",
+   "sfera": "cale miasto, najmocniej dol i port",
+   "znak": "++ (imie 'skryby, co sluzyl glodnym'; kontra na smear cechu)",
+   "od_dnia": "296-09-24",
+   "sila": "swieza, mocna"
+  },
+  {
+   "tresc": "ludzie Osgara wypytuja po nabrzezu, kto stal za tanim ziarnem",
+   "zrodlo": "nabrzeze/marynarze",
+   "sfera": "port",
+   "znak": "- (cichy cien, uraza hoarderow)",
+   "od_dnia": "296-09-27",
+   "sila": "swieza, slaba"
+  }
+ ]
+}

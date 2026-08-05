@@ -1,5 +1,5 @@
-# Zapisy gry — prywatny, lokalny stan każdej rozgrywki
-gra/
+# Zapisy gry — stan śledzony w gitcie (trwałość); lokalne backupy pomijamy
+gra/backup/
 gra-zakonczona-*/
 
 # Śmieci systemowe

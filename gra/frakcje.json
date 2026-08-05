@@ -1,0 +1,174 @@
+{
+ "frakcje": [
+  {
+   "id": "dom_manderly",
+   "nazwa": "Rod Manderly i wladza miejska",
+   "cel": "porzadek, cla i prestiz Bialego Portu; lojalnosc wobec Winterfell",
+   "sila": 9,
+   "zasieg": [
+    "zamek",
+    "port",
+    "schody",
+    "wilczyleg"
+   ],
+   "zasoby": [
+    "straz miejska",
+    "sady",
+    "mennica",
+    "clo"
+   ],
+   "nastawienie_do_gracza": 0,
+   "konflikt_z": [
+    "podziemie"
+   ],
+   "sojusz_z": [
+    "wiara_siedmiu"
+   ],
+   "co_wie_o_graczu": []
+  },
+  {
+   "id": "cech_pisarzy",
+   "nazwa": "Cech Pisarzy i Rachmistrzow",
+   "cel": "monopol na umowy notarialne, ksiegi i podania w miescie i porcie",
+   "sila": 4,
+   "zasieg": [
+    "schody",
+    "port",
+    "zamek"
+   ],
+   "zasoby": [
+    "licencje",
+    "przychylnosc rady",
+    "poborcy cechowi"
+   ],
+   "nastawienie_do_gracza": -9,
+   "konflikt_z": [
+    "kupcy_braavijscy"
+   ],
+   "sojusz_z": [
+    "dom_manderly"
+   ],
+   "co_wie_o_graczu": [
+    "pisze w porcie bez licencji",
+    "zauwazony i zaczepiony przy Bramie Foki",
+    "stawia opor, targuje sie zamiast placic",
+    "robi audyty/rachunki jako nielicencjonowany obcy spod Wiary — podbiera cechowi robote i zyskuje reputacje; Mennard oglasza go partaczem/oszustem, odradza kupcom"
+   ]
+  },
+  {
+   "id": "wiara_siedmiu",
+   "nazwa": "Wiara Siedmiu (Septa Sniegow)",
+   "cel": "dusze mieszczan, kontrola nauki i pisma, walka z herezja z Wolnych Miast",
+   "sila": 5,
+   "zasieg": [
+    "septa",
+    "schody",
+    "sierociniec"
+   ],
+   "zasoby": [
+    "autorytet",
+    "sierociniec",
+    "prawo do nauczania"
+   ],
+   "nastawienie_do_gracza": 8,
+   "konflikt_z": [],
+   "sojusz_z": [
+    "dom_manderly"
+   ],
+   "co_wie_o_graczu": [
+    "pismienny, maester-taught, przyjety na probe przez septona Owena",
+    "publicznie na Dniu Matki — uchodzi za swojego pod Wiara"
+   ]
+  },
+  {
+   "id": "kupcy_braavijscy",
+   "nazwa": "Braavijscy faktorzy i Zelazny Bank",
+   "cel": "swobodny handel, kredyt, korzystne cla; obejscie cechu",
+   "sila": 5,
+   "zasieg": [
+    "port",
+    "kantor"
+   ],
+   "zasoby": [
+    "zloto",
+    "statki",
+    "kredyt Zelaznego Banku"
+   ],
+   "nastawienie_do_gracza": 1,
+   "konflikt_z": [
+    "cech_pisarzy"
+   ],
+   "sojusz_z": [],
+   "co_wie_o_graczu": []
+  },
+  {
+   "id": "ludzie_portu",
+   "nazwa": "Tragarze, rybacy i przekupki",
+   "cel": "chleb na co dzien, swoje miejsce na targu i nabrzezu",
+   "sila": 3,
+   "zasieg": [
+    "port",
+    "zaulek",
+    "targ_rybny"
+   ],
+   "zasoby": [
+    "liczba",
+    "plotka",
+    "znajomosc ulicy"
+   ],
+   "nastawienie_do_gracza": 7,
+   "konflikt_z": [],
+   "sojusz_z": [],
+   "co_wie_o_graczu": [
+    "swoj chlopak, pisze tanio i uczciwie",
+    "skryba ludu pod dachem Matki — pisze uczciwie ubogim, po Pacie; swoj, ufaja mu"
+   ]
+  },
+  {
+   "id": "podziemie",
+   "nazwa": "Nocni ludzie spod Wilczego Legu",
+   "cel": "przemyt, unikanie cel, lichwa i drobny szantaz",
+   "sila": 3,
+   "zasieg": [
+    "wilczyleg",
+    "port noca"
+   ],
+   "zasoby": [
+    "noze",
+    "przemyt",
+    "brudne pieniadze"
+   ],
+   "nastawienie_do_gracza": 0,
+   "konflikt_z": [
+    "dom_manderly"
+   ],
+   "sojusz_z": [],
+   "co_wie_o_graczu": []
+  },
+  {
+   "id": "cech_kolodziejow",
+   "nazwa": "Cech Koladziejow (kolodziejow)",
+   "cel": "tanie dobre drewno, ochrona warsztatow i wdow po braciach cechowych",
+   "sila": 3,
+   "zasieg": [
+    "schody",
+    "port"
+   ],
+   "zasoby": [
+    "warsztaty",
+    "solidarnosc cechowa",
+    "mistrz Boren"
+   ],
+   "nastawienie_do_gracza": 22,
+   "konflikt_z": [
+    "podziemie"
+   ],
+   "sojusz_z": [],
+   "co_wie_o_graczu": [
+    "poreczyl za wdowe Elne (odparcie Lorrena)",
+    "wynegocjowal cechowi tanie drewno wprost od Torsena",
+    "'uczciwy pisarz' — dlug wdziecznosci"
+   ]
+  }
+ ]
+}

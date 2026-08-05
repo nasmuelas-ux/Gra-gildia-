@@ -1,0 +1,52 @@
+{
+ "zegary": [
+  {
+   "id": "cech_polowanie",
+   "typ": "zagrozenie",
+   "opis": "Harwin (egzekutor cechu) poluje na Symona za pisanie bez licencji; relief zbozowy dal Symonowi oslone reputacji, ale sprawa nierozwiazana",
+   "odlicza_do": "296-10-05",
+   "co_sie_stanie": "jesli Symon zostanie widoczny/w znanym miejscu, Harwin go dopada (naciski, grozby, ryzyko przemocy)",
+   "widoczny_graczowi": true
+  },
+  {
+   "id": "polnocna_inquiry",
+   "typ": "okazja",
+   "opis": "Kanal ku Winterfell OTWARTY (raven korzystny d17); Owen/Ansell cicho zbieraja KORROBORACJE (rejestr/oryginal Stary Zamek Locke + zeznanie wdowy) przeciw notariuszowi Rymanowi Cwiaklowi; gra dluga (tygodnie/miesiace)",
+   "odlicza_do": "296-10-25",
+   "co_sie_stanie": "za tygodnie: odpowiedz z polnocy — korroboracja (rejestr/oryginal/wdowa) albo trudnosc; krok milowy w sprawie Rymana",
+   "widoczny_graczowi": true
+  },
+  {
+   "id": "import_barwniki",
+   "typ": "okazja",
+   "opis": "Vhassar wraca z probna skrzynia barwnikow tyrijskich (noga importowa spolki egzotycznej); zaplata reszty przy odbiorze",
+   "odlicza_do": "296-11-25",
+   "co_sie_stanie": "przybycie skrzyni — test rynku importu; zysk maly, nauka szlaku",
+   "widoczny_graczowi": true
+  },
+  {
+   "id": "futra_polnoc",
+   "typ": "okazja",
+   "opis": "Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa do Braavos)",
+   "odlicza_do": "296-11-10",
+   "co_sie_stanie": "przybycie probnej partii — otwiera pelny dwukierunkowy szlak, jesli jakosc/cena dobre",
+   "widoczny_graczowi": true
+  },
+  {
+   "id": "osgar_uraza",
+   "typ": "zagrozenie",
+   "opis": "Klika Osgara przeeksponowana po crashu cen zboza — uraza do Nesty/Symona za relief; mozliwa cicha zemsta/donos",
+   "odlicza_do": "296-10-10",
+   "co_sie_stanie": "hoarderzy szukaja odwetu (donos do cechu/celnika, presja) — echo 'majatek rosnie za szybko = swiat reaguje'",
+   "widoczny_graczowi": true
+  },
+  {
+   "id": "odbior_skor",
+   "typ": "okazja",
+   "opis": "Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos",
+   "odlicza_do": "296-11-20",
+   "co_sie_stanie": "skory gotowe do zaladunku na powrot Vhassara (~11-25)",
+   "widoczny_graczowi": true
+  }
+ ]
+}

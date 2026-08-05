@@ -1,0 +1,142 @@
+{
+ "relacje": [
+  {
+   "a": "pate_skryba",
+   "b": "cech_pisarzy",
+   "typ": "czlonek/starszyzna",
+   "sila": 8
+  },
+  {
+   "a": "czeladnik_pate",
+   "b": "pate_skryba",
+   "typ": "czeladnik",
+   "sila": 7
+  },
+  {
+   "a": "starszy_mennard",
+   "b": "cech_pisarzy",
+   "typ": "starszy cechu",
+   "sila": 9
+  },
+  {
+   "a": "wenda_rybia",
+   "b": "bran_tragarz",
+   "typ": "ciotka-siostrzeniec",
+   "sila": 8
+  },
+  {
+   "a": "wenda_rybia",
+   "b": "corka_wendy_mella",
+   "typ": "matka-corka",
+   "sila": 9
+  },
+  {
+   "a": "serla_wdowa",
+   "b": "wnuk_serli_tom",
+   "typ": "babka-wnuk",
+   "sila": 9
+  },
+  {
+   "a": "serla_wdowa",
+   "b": "wenda_rybia",
+   "typ": "sasiadki, plotkuja",
+   "sila": 6
+  },
+  {
+   "a": "nesta_braavijka",
+   "b": "kupcy_braavijscy",
+   "typ": "faktorka",
+   "sila": 8
+  },
+  {
+   "a": "garth_celnik",
+   "b": "dom_manderly",
+   "typ": "urzednik cel",
+   "sila": 6
+  },
+  {
+   "a": "kasztelan_wylis",
+   "b": "dom_manderly",
+   "typ": "oficer/poborca",
+   "sila": 8
+  },
+  {
+   "a": "lorren_lichwiarz",
+   "b": "podziemie",
+   "typ": "powiazany",
+   "sila": 6
+  },
+  {
+   "a": "przemytnik_rennat",
+   "b": "podziemie",
+   "typ": "czlonek",
+   "sila": 6
+  },
+  {
+   "a": "septon_owen",
+   "b": "wiara_siedmiu",
+   "typ": "septon",
+   "sila": 8
+  },
+  {
+   "a": "bran_tragarz",
+   "b": "ludzie_portu",
+   "typ": "swoj",
+   "sila": 6
+  },
+  {
+   "a": "boren_koladziej",
+   "b": "cech_kolodziejow",
+   "typ": "cechmistrz",
+   "sila": 9
+  },
+  {
+   "a": "wdowa_elna",
+   "b": "cech_kolodziejow",
+   "typ": "pod opieka cechu",
+   "sila": 7
+  },
+  {
+   "a": "wdowa_elna",
+   "b": "lorren_lichwiarz",
+   "typ": "ofiara/dluznik (umowa NIEPODPISANA)",
+   "sila": 4
+  },
+  {
+   "a": "torsen_drwal",
+   "b": "faktor_halvard",
+   "typ": "kupiec-faktor (Bialy Noz)",
+   "sila": 7
+  },
+  {
+   "a": "kapitan_braavijski",
+   "b": "nesta_braavijka",
+   "typ": "kapitan-faktorka (Vhassar)",
+   "sila": 6
+  },
+  {
+   "a": "kupiec_osgar",
+   "b": "klika_zbozowa",
+   "typ": "glowa kliki",
+   "sila": 8
+  },
+  {
+   "a": "garbarz_coll",
+   "b": "ludzie_portu",
+   "typ": "rzemieslnik zaulka",
+   "sila": 5
+  },
+  {
+   "a": "septon_owen",
+   "b": "sierota_pella",
+   "typ": "opiekun (sierociniec)",
+   "sila": 5
+  }
+ ],
+ "rody": [
+  {
+   "rod": "brak",
+   "uwaga": "Symon nie ma w Bialym Porcie ani rodziny, ani powinowatych. To jego glowna slabosc."
+  }
+ ]
+}

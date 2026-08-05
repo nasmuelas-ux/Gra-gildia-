@@ -1,0 +1,836 @@
+{
+ "na_scenie": [
+  {
+   "id": "serla_wdowa",
+   "imie": "Serla",
+   "przydomek": null,
+   "wiek": 51,
+   "stan": "mieszczka uboga",
+   "zawod": "wdowa po bednarzu, wynajmuje poddasze",
+   "mieszka": "Rybi_Zaulek",
+   "harmonogram": {
+    "ranek": "dom/studnia",
+    "popoludnie": "dom",
+    "wieczor": "dom"
+   },
+   "potrzeby": [
+    "wnuk WYZDROWIAL (goraczka pekla) — teraz go odzywic i ogrzac przez zime",
+    "nie zostac sama"
+   ],
+   "leki": [
+    "ze wnuk umrze jak jej corka",
+    "eksmisja przez wlasciciela kamienicy"
+   ],
+   "nastawienie_do_gracza": 18,
+   "zaufanie": 7,
+   "wie_o_graczu": [
+    "umie pisac",
+    "nie ma tu rodziny",
+    "placi w miedziakach",
+    "wrocil wieczorem ublocony i markotny — cos zaszlo w porcie",
+    "przyszedl ostrzec i sam odejsc, by nie sciagac cechu pod jej dach — porzadny; nie wyda go ochoczo",
+    "odwiedzil ja bez interesu, tylko spytac co u niej (jej potrzeba 'nie zostac sama' zaspokojona) — wnuk wciaz chorowity, ciezko jej; Symon zaoferowal ZA DARMO spisac prosbe do septy/uzdrowiciela o wnuka (pioro zamiast grosza). Wzruszona; dlug wdziecznosci obopolny",
+    "d30: przy jalmuznie sept — jej wnuk cieżko/smiertelnie chory, gorączka nie ustepuje, list-prosba nie wystarczyl (zapomoga za mala/za pozno). Symon NOWYMI oczami (lekcja Owena) WIDZI jej rozpacz pod maska",
+    "d30: Symon podszedl do niej przy sepcie i rozmawial po ludzku, gdy sie zlamala. Ustalil: goraczka wnuka nie ustepuje ~ tydzien, brak grosza na prawdziwego uzdrowiciela, zapomoga za mala; przyszla sie modlic bo nic innego nie zostalo. Z dumy NIE prosi Symona o nic. Symon czyta jej potrzebe nowymi oczami",
+    "m9d1: wnuk PRZEZYL — goraczka pekla w nocy dzieki uzdrowicielce i lekom. Serla przekonana, ze uratowala go Matka i nieznany dobroczynca; NIE wie, ze to Symon (godnosc zachowana)",
+    "m9d1: Symon odwiedzil (jako 'skryba/sasiad', NIE dobroczynca) zdrowiejacego wnuka, przyniosl mu cieple jedzenie po ludzku; Serla przepelniona wdziecznoscia do Matki/nieznanego, cieszy sie z Symonem — nie wie, ze to on ratowal. Kocha go jak swojego (synek)",
+    "m9d4: Symon spytal o rodzicow dziecka — wyszlo, ze corka Serli (matka chlopca) umarla, ojciec przepadl/zginal; Serla, stara wdowa, chowa wnuka SAMA jako ostatniego ze swojej krwi. To czyni ratunek dziecka tym ciezszym; Symon rozumie teraz pelna wage tego, co zrobil"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-04",
+   "cechy_mowy": "cieplo, ale zaraz o pieniadzach; mowi 'synku', wzdycha",
+   "nota": "DAWNA gospodyni Symona (już u niej nie mieszka — przeniósł się do Septy); nadal przyjaciółka, wnuk chorowity"
+  },
+  {
+   "id": "wenda_rybia",
+   "imie": "Wenda",
+   "przydomek": "Rybia",
+   "wiek": 44,
+   "stan": "mieszczka",
+   "zawod": "przekupka na Targu Rybnym",
+   "mieszka": "Rybi_Zaulek",
+   "harmonogram": {
+    "ranek": "targ_rybny",
+    "popoludnie": "targ_rybny",
+    "wieczor": "dom"
+   },
+   "potrzeby": [
+    "wydac corke za maz",
+    "utrzymac najlepsze miejsce na targu"
+   ],
+   "leki": [
+    "konkurencja z drugiego konca targu",
+    "poborca cechowy"
+   ],
+   "nastawienie_do_gracza": 14,
+   "zaufanie": 8,
+   "wie_o_graczu": [
+    "pisze tanio",
+    "obcy, uczony",
+    "na Dzien Matki napisal jej za darmo prosbe o zapomoge — zapamietala dobroc",
+    "przyprowadzil ja oceniac solone prowianty i USZANOWAL jej fach (ona ma oko, on nie) — mlody, uczciwy, sluchajacy; moze byc z tego staly uklad (jej oko za jego pioro/grosz)",
+    "przypieczetowal uklad: jej oko/sieć za jego pioro i grosz. Wskazala mu uczciwego lojarza (stary Coran z Zaulka) i ostrzegla przed cwaniakiem (Mully). Staly, cieply kontakt targowy",
+    "m9d1: przy wywiadzie sieciowym potwierdzila stronę popytu — ceny chleba/zboza juz drgaja, ludzie zaczynaja gromadzic; wie, kto trzyma a kto krotki"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-09",
+   "cechy_mowy": "glosno, dosadnie, przeklina 'na siedmiu piekiel'; mowi 'chlopcze'"
+  },
+  {
+   "id": "bran_tragarz",
+   "imie": "Bran",
+   "przydomek": null,
+   "wiek": 23,
+   "stan": "pospolity",
+   "zawod": "tragarz/reka faktorii Nesty (NA PROBIE, od d25)",
+   "mieszka": "Rybi_Zaulek",
+   "harmonogram": {
+    "ranek": "port/nabrzeze",
+    "popoludnie": "port/nabrzeze",
+    "wieczor": "karczma"
+   },
+   "potrzeby": [
+    "stala robota u ktoregos kupca",
+    "odlozyc na wesele z Alys"
+   ],
+   "leki": [
+    "kontuzja plecow",
+    "ze go ominie lepsza fucha"
+   ],
+   "nastawienie_do_gracza": 28,
+   "zaufanie": 9,
+   "wie_o_graczu": [
+    "pije z nim czasem piwo",
+    "czyta mu listy od brata z Siostr",
+    "szuka roboty u braavijskiej faktorki",
+    "podjal sie dla Symona zwiadu o Harwinie",
+    "zwiad wypadl marnie, sciagnal na siebie uwage — martwi sie, ze zaszkodzil",
+    "w burze skryba nie uciekl na sucho — stanal i madrze rozstawil ratunek; tragarze go posluchali (bo Nesta go poparla); zyskal szacunek na kejach",
+    "Symon (juz wspolnik faktorii) wypytal go serdecznie; slyszac, ze Bran wciaz marzy o stalej robocie u kupca (odlozyc na wesele z Alys), obiecal poruszyc temat u Nesty — moze go wciagnac. Rosnacy, wdzieczny sojusz",
+    "Symon przyprowadzil go do Nesty i zareczyl — Nesta wziela go NA PROBE do faktorii (stala robota, o ktorej marzyl, ku weselu z Alys). Dozgonna wdziecznosc; ale wie, ze bierze go na SLOWO Symona — nie moze zawiesc, bo to i na Symona spadnie",
+    "na probie w faktorii spisuje sie solidnie — harata jak wol, zeby nie zawiesc Symona; uczy sie porzadku faktorii (inaczej niz dorywcze dzwiganie), earnest. Jako tragarz portowy SLYSZY plotki nabrzeza — mozliwe uszy dla Symona",
+    "m9d1: jego DOCKS-EARS zaplacily wybitnie — na kejach uslyszal, ze wielkie dostawy ZBOZA sa mocno spoznione (sztormy w gore wybrzeza), a wielcy kupcy zbozowi cicho sie nerwuja. Bran dumny, ze przydal sie glowa nie tylko plecami",
+    "m9d2: gdy Symon nie mogl potwierdzic niedoboru (rynek mglisty), Bran (docks-ears) podsunal zloto: wlasnie przybil statek z poludnia (znad Bite/spod Gulltown), a jego zaloga/kapitan wiedza, jaki jest STAN szlakow zbozowych i pogody — zywe zrodlo do potwierdzenia, czy zboze naprawde krotkie czy tylko spoznione",
+    "m9d2: wprowadzil Symona do zalogi jak swoj, pomogl wyciagnac prawde o szlakach — na jego terenie (keje/marynarze) jest bezcenny; wiez glebsza, dumny ze robia to razem",
+    "m9d9: docks-ears: ludzie Osgara PILNUJA nabrzeza — wypatruja, czy nie wplynie duzy ladunek zboza (ich zguba); Bran to podchwycil"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-27",
+   "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo"
+  },
+  {
+   "id": "nesta_braavijka",
+   "imie": "Nesta",
+   "przydomek": null,
+   "wiek": 39,
+   "stan": "mieszczka zamozna",
+   "zawod": "faktorka braavijskiego kupca (wdowa), prowadzi kantor",
+   "mieszka": "Port_Manderly",
+   "harmonogram": {
+    "ranek": "kantor",
+    "popoludnie": "kantor/port",
+    "wieczor": "kantor"
+   },
+   "potrzeby": [
+    "rozladowac i oclic galere szybko",
+    "przejrzec zatrzesienie braavijskich manifestow TERAZ",
+    "odbic sezon"
+   ],
+   "leki": [
+    "strata 'Corki Tytana' z towarem",
+    "oszustwo miejscowego notariusza"
+   ],
+   "nastawienie_do_gracza": 34,
+   "zaufanie": 26,
+   "wie_o_graczu": [
+    "czyta braavijski lepiej, niz sie spodziewala",
+    "uczciwy co do granic",
+    "ambitny — od razu targuje sie o pozycje, nie o grosz",
+    "mlody, obcy, bez cechu — latwy do zniszczenia jesli zawiedzie",
+    "mowi po braavijsku jak rodak — rzadka pociecha z dala od domu",
+    "ostry — nie tylko czyta papiery, czyta ludzi; trzeba go miec na oku",
+    "reka pisze piekniej niz niejeden cechowy — rzadkie narzedzie",
+    "cech go sciga, desperacko potrzebuje 300 na jutro, nie ma rodziny — zdesperowany i kruchy (przydatne, by go zwiazac tanio)",
+    "glodny liter — pyta o ksiazki; w robocie solidny i tani (bo przyparty)",
+    "marzy o wlasnym fachu (tablice, handel); ciekawy Braavos — moze kiedys zechce plynac",
+    "znalazl sobie plecy, nie zdradza czyje — trzyma karty; wrocil do formy, robota znowu czysta",
+    "galera ocalila jej fortune — jest flush; teraz PILNIE potrzebuje swojego braavijskiego czytacza do lawiny manifestow (a ma juz gotowke na zaliczke/poreczenie, ktorych wczesniej nie dala)",
+    "wie, ze Antaryonowie (jej wierzyciele) rekrutuja czytacza — ostrzegla go i przywiazuje mocniej; podniosla oferte (retainer + poreczenie), by go zatrzymac",
+    "przypieczetowal uklad usciskiem dloni — jest JEJ, na wylacznosc; ulga, ze zatrzymala atut przed Antaryonami; teraz mu ufa mocniej",
+    "sam z siebie wyznal, ze Antaryon go kusi lepszym srebrem, i zostal wierny — dowod lojalnosci pod pokusa; ufam mu teraz naprawde",
+    "wykryl, ze Antaryonowie zawyzaja jej dlug — dal jej realna dzwignie przeciw wierzycielom; teraz jest dla niej bezcenny i gleboko zaufany",
+    "przyniosl trop na maestra Theomore (glowa prawna + ucho lorda) jako mozliwy kanal na Antaryonow — dzieli sie z nia szczerze",
+    "powierzyl jej 180 mied na przechowanie (kufer kantoru) — wzajemne zaufanie: ona trzyma jego srebro, on jej papiery dlugu",
+    "chce wyjsc na kupca/skalowac — Nesta go mentoruje (fach, ksiega miar); poglebia sie wiez mistrz-uczen",
+    "uczy sie od niej kupiectwa/handlu na wiedzy — pojetny; wiez mistrz-uczen glebsza",
+    "pierwszy handel (sol): odczyt manifestu dobry, ale przeplacil — Nesta uczy: 'czytasz papier, nie czytasz sprzedawcy'; slabosc ludzko-negocjacyjna",
+    "uczy sie od niej CZYTANIA LUDZI (jego luka); pojetny ale to nie jego natura — jest uczciwym papierowym czlowiekiem",
+    "zastosowal jej nauke (sprzedaj wiedze) — audyt dla Voxa wybitny, hojna zaplata, reputacja rosnie; mentorska duma",
+    "cech uderza w jego reputacje (partacz bez licencji); przyszedl do niej po rade jak odbic imie — traktuje ja jak doradce strategicznego",
+    "gdy sam pod ostrzalem, przyszedl POMOC jej przy lawinie manifestow i przerobil pilny gros czysto i szybko — najedzony, swiezy; przy okazji wypatrzyl antaryonski manifest z zanizona wartoscia do cla. Ustalili, ze reszte lawiny dorobia razem przez najblizsze dni (staly uklad)",
+    "w pierwszej jesiennej burzy zjawil sie w jej kryzysie i OGARNAL RATUNEK GLOWA, nie sila — triaz po wartosci, komenda przez jej autorytet; uratowal gros/wartosciowy rdzen ladunku (drobne straty). Bezcenny; i, co wazne, WIDZIALO to nabrzeze",
+    "po burzy siedzieli razem przy ogniu; opuscila garde — mowila o Braavos, o wdowienstwie z dala od domu, o ciezarze dlugu u Antaryonow; traktuje go juz nie jak najemnika, lecz prawie jak swojego. Zaczyna widziec w nim mozliwego mlodszego wspolnika, nie tylko reke do manifestow",
+    "na odchodne spytal ja po braavijsku, czy dobrze sie czuje — nie o interes, o nia. Rzadki ludzki gest; wzruszyla sie, choc szybko odzyskala fason. Ociepla wiez ponad handel",
+    "sam przeczytal rynek soli i przyszedl sprzedac w sciecu — POPRZEZ nia; wybroila mu firm cene (~58 za so-so parcele, +18 na czysto = jego PIERWSZY zyskowny handel). Fee mentorsko odpuscila ('dzis czesne, nastepnym razem placisz brokerowi'). Duma: uczen zaczyna kupczyc sam",
+    "PRZYJAL wspolnictwo — jest jej mlodszym wspolnikiem (na probe). ALE od razu wypalił z rozmachem (dwutorowo handel+audyty, prawnik) — przeceniania tempo; osadzila go: jedno dobrze nim dwa, audyty to wlasnie co go osmarowaly (widocznosc = cel), prawnik przedwczesny. Marzy jak o Braavos, a to White Harbor. Trzeba go uczyc CIERPLIWOSCI; zdolny, ale rwie sie za szybko",
+    "polozyl przed nia DRUGA antaryonska bron — manifest z zanizonym clem (oszukuja i ja, i corone). Nie zatrzymal dla siebie, oddal wspolniczce. Bezcenny sojusznik; jego karta czyni ja z bezbronnej dluznicy kims, kto 'wie o nich' przed rozliczeniem ~20.",
+    "zostal do nocy rozplanowac z nia zagranie na rozliczenie — dwie glowy ulozyly ostrozny plan (uczciwa rachuba, off-ramp dla Ternesia, cichy hint o cle tylko w razie oporu). Symon myśli jak ona: cierpliwie, bez osaczania",
+    "na rozliczeniu Symon zagral role bez zarzutu — milczal, sprawdzil liczby na znak, nie pekl, nie wystawil sie; porazka byla strukturalna (wielki dom), nie jego wina. Grim solidarnosc: mieli racje i nie starczylo. Zaufanie trzyma",
+    "pyta 'gdyby splacic dlug?' — mysli juz jak wlasciciel, nie najmita; nauczyla go, ze wyjscie to nie splata lecz REFINANSOWANIE z pozycji sily (Zelazny Bank/inny wierzyciel). Wspolny cel dlugofalowy sie krystalizuje",
+    "pierwszy samodzielny handel: znalazl trop, przeczytal SPRZEDAWCE (jego dawna luka!), a czego sam nie umial (ocena towaru) NIE zgadywal — sprowadzil fachowe oko (Wenda) i odpuscil trupa. ZERO straty. Dla Nesty to dojrzalosc, nie porazka: 'najlepszy handel to czasem ten, ktorego nie zrobiles'. Uczen pojmuje pokore i sieć",
+    "pivotowal wg jej rady na nieperzyszna luke; wieczorem sam wypatrzyl trop lojowo-woskowy (swiatlo na zime + popyt septy) — mysli drugorzedowo, laczy podaz z instytucjonalnym popytem. Solidny material na kupca",
+    "sam z siebie zapytal o kupno u producenta (mysli o marzy/lancuchu dostaw, nie tylko rynku) — instynkt wertykalny. Nesta go szlifuje: gotowy loj wprost od lojarza TAK (scina posrednika), surowy tluszcz do wytapiania NIE (nie jego fach, nie pierwszy handel). Uczen mysli jak kupiec, coraz mniej jak skryba",
+    "uczy sie od niej przy robocie CZYTANIA LUDZI/targu (na kanwie porazki u Corana): kiedy pchac a kiedy nie, jak wyczuc dno ceny i desperacje. Pojetny, ale to praca pod gorke — jego natura jest papierowa, nie graczowa; rosnie mozolnie",
+    "radzi sie jej ws. inbound Leony (sukiennica ze Schodow) — mysli jak wspolnik. Nesta zna Leone: bystra, twarda, respektowana, bierze CZESC sukna z Braavos. Doradza: isc jako SKRYBA/swoj (nie headline'owac braavijskiego wspolnictwa — smear/ksenofobia na Schodach), SLUCHAC, znalezc potrzebe; FLAGA wylacznosci: ogolna robota pismienna dla Leony OK, ale braavijskie CZYTANIE jej papierow handlowych brusi jego klauzule wylacznosci dla Nesty — ustalic z Nesta",
+    "przyprowadzil Brana; wziela go na probe na jego (i Wendy) porke — Symon rekomenduje ludzi, jego oko do ludzi bedzie sprawdzone przez to, jak Bran sie spisze",
+    "dopytal ja o ETYKIETE wobec Leony (jak traktowac mieszczke z pozycja) — Nesta pochwalila, ze przewiduje; nauczyla go obchodzenia z respektowana wdowa-kupcowa (traktowac JA jako pryncypala, godna pokora bez plaszczenia i bez przechwalek, dbalosc o przyzwoitosc/plotke). Znowu glodny liter — pozyczyla mu braavijska ksiege kupiecka; wiez mistrz-uczen + ludzka cieplejsza",
+    "poprosil, by odtad rozmawiali ZAWSZE po braavijsku (chce cwiczyc jezyk) — dla Nesty to dar: rzadka pociecha z dala od domu, codzienny kawalek ojczyzny. Wzruszona, zgodzila sie z radoscia; wiez ludzka + mistrz-uczen glebsza. Habit: braavijski na co dzien = przyspiesza jego jezyk",
+    "HONOROWAL wylacznosc pod pokusa (Leona proponowala braavijska robote na boku — odmowil, oslonil faktorie) i przyniosl JEJ most: kontrakt na weryfikacje braavijskich papierow Leony + zalazek relacji dwie-kupcowe. Dowod lojalnosci wspolnika + pierwsza jego BROKERKA (sprzedaje polaczenie). Nesta: duma i glebsze zaufanie",
+    "radzi sie jej, jak wladac dowodem systematycznego oszustwa + czy brac ochroniarza. Nesta: (strategia) LEWAR nie wojna — kolektyw ofiar (Leona/kupcy z frontu, respektowani lokalni) stawia dostawcom ciche zadanie: restytucja+reforma albo utrata calej klienteli Schodow; faktoria=cichy silnik za tym (Symon niskoprofilowo), nisza weryfikacji + mozliwy czysty kanal. Tu Symon stoi MOCNO (odwrotnie niz przy Antaryonach). (ochroniarz) NIE teraz: dostawcy to cwaniacy, nie zabojcy; guard = drogi, podnosi widocznosc, nie pasuje do zagrozen (cech=tarcza Wiary; wielki dom=guard i tak nie osloni). Realne tarcze: Wiara, siec, reputacja, niski profil; Bran (duzy, lojalny) nieformalnie kryje plecy",
+    "Bran (jego rekomendacja) spisuje sie dobrze na probie — potwierdza, ze Symon ma oko do ludzi, ktorych poleca; jego slowo za ludzmi rosnie na wartosci",
+    "przyniosl ROZSZERZONY most: Leona chce Neste nie tylko do weryfikacji, ale jako CZYSTEGO dostawce braavijskiego sukna + poleci innych oszukiwanych sukiennikow ku niszy weryfikacji. Symon staje sie CONNECTOREM/rainmakerem faktorii, nie tylko czytaczem. Zdeponowal u niej 2 jelenie (oszczedza) — rosnace wzajemne zaufanie majatkowe",
+    "radzi sie, jak PRODUKTYZOWAC niszę weryfikacji zanim rzuci sie na zlecenia — mysli o strukturze, nie tylko o groszu. Nesta wsplopracuje: usluga faktorii dyskretna, flat fee za weryfikacje, premium+selektywnie (cap dwoch rak), vetting stron, poufnosc",
+    "radzi sie: jak wybrnac z odroczonego wina (Antaryon) i od kogo uczyc sie mocniej czytania ludzi. Nesta: (wino) NIE stallowac dalej — ZAMKNAC pewnym, uspokajajacym, PRAWDZIWYM werdyktem (wielki reputowany dom NIE skraca miary, bo straci imie; wino bezpieczne), co NIE wymaga tykania Antaryonow; (ludzie) jego problem = ufa PAPIEROWI, nie-douwaza TWARZY; teacher glebszego czytania to Owen (septon czyta serca/leki/grzech), inny niz jej kupiecki read; mroczni nauczyciele (ulica/lichwiarz) ryzykowni; Braavos = akademia tej sztuki (mumowie, bravos, twarze)",
+    "zauwazyla, ze oddal cala gotowke jeleni (na chore dziecko Serli przez Wiare) — nie zganila, ceni; rozwiala mu watpliwosc o loju (tak, kilku wiekszych swiecarzy przytrzymalo zapas -> szczyt mniej ostry -> WYJSC WCZESNIE, nie chciwie; teza wciaz zyskowna) i domknela sprawe drugiej pozycji (nie hedge teraz, wczesne wyjscie wystarcza; kapital ciasny; ew. przyszla pozycja tylko na realna ODMIENNA luke, dla wzrostu nie hedge)",
+    "uczy sie od niej kupieckiego czytania ludzi (przedpol.); pyta o Leone, o 'ile mamy statkow' (mysli o skali/aktywach), i o Braavos (jego horyzont). Nesta tlumaczy realia: faktoria to AGENCJA, nie wlasciciel statkow (statki ma jej dom-pryncypal w Braavos); ich atut to relacje/wiedza/kapital obrotowy/kantor. Braavos go ciagnie coraz mocniej",
+    "DOMKNAL pierwszy pelny zyskowny cykl handlu (loj: kupno->trzymanie->wczesne wyjscie w szczyt zimy, mocny odczyt+egzekucja). Petla udowodniona. Nesta obiecuje WIEKSZA linie na nastepny (do ~50 jeleni). Uczen stal sie handlarzem",
+    "na trop zbozowy zapytal nie 'jak zbic', lecz czy da sie SPROWADZIC zboze (ethyczny instynkt: lagodzic niedobor, nie exploitowac glod) — Nesta to ceni, to kupiec, jakiego chce. Wylozyla realia skali: sami nie zaimportuja (faktor nie ma statkow/kapitalu na cargo zboza), ale mogliby LEWAROWAC jej DOM-pryncypal w Braavos, by przyslal zboze w niedobor (relief+prowizja) — big/honorowy, lecz trudny/wolny/ryzykowny i politycznie draznczy lokalnych zbozowych",
+    "zaproponowal blizsze zrodlo zboza — DOLINA/Gulltown zamiast Braavos (mysli geograficznie/logistycznie: krotszy zimowy rejs = lepszy timing). Nesta pod wrazeniem; Gulltown faktycznie duzo blizej (przez Cieśn/Bite), zbozodajna Dolina; problem przesuwa sie z 'dystansu' na 'czy mamy tam KONTAKT'",
+    "przyniosl potwierdzony niedobor (przez zaloge) + wykonalna trase Gulltown; Nesta ZAWIERZYLA jego intelowi i POSTAWILA wlasny standing/kredyt: pisze do korespondenta w Gulltown NATYCHMIAST, zamawia zboze na kredyt/konsygnacje (prudentna ale znaczaca skala), + backup do domu w Braavos. To DUZE ryzyko dla niej (jest zadluzona u Antaryonow) — stawia szyje na odczyt Symona. Glebokie zaufanie; i jego sad wielko na szali",
+    "Symon WLOZYL WLASNE srebro (300 mied oszczednosci) do handlu zbozowego — skin in the game; nie wysyla jej samej na swoj odczyt, krwawi z nia. Nesta poruszona (konwikcja+lojalnosc), przyjela udzial ale kazala mu zostawic rezerwe. Alians jeszcze scislejszy",
+    "przyniosl korroboracje z cla (Garth) niedoboru zboza — uspokoil Neste co do zakladu (jej kredyt na tward­szym gruncie); pracuje z nia przy manifestach i uczy sie od niej kupieckiego czytania ludzi. Solidny, oddany wspolnik na co dzien",
+    "pyta o wiare Braavos i o koszt kupna wlasnego lokum — mysli o horyzoncie i o wlasnej przestrzeni. Nesta: Braavos = tolerancja/pluralizm (miasto zbieglych niewolnikow czci wszystkich bogow i zadnego; House of Black and White/Bog o Wielu Twarzach/Faceless Men) — tam Wiara nie jest dzwignia jak tu, liczy sie fach/srebro. Kupno domu = ponad jego stan teraz (kapital ma pracowac w handlu, nie tkwic w kamieniu); ew. WYNAJETY wlasny pokoj dla prywatnosci/niezaleznosci",
+    "dopytuje o nieruchomosci jako INWESTYCJE — mysli o budowaniu trwalego majatku, nie tylko o szybkim groszu. Nesta uczy: nieruchomosc = 'konto oszczednosciowe' kupca (bezpieczna, wolna, pasywny czynsz + status), ale wypelnia sie JE PO wzroscie przez handel; sekwencja: rosnij handlem -> parkuj w nieruchomosci -> status mieszczanski. Pojetny, mysli dlugofalowo",
+    "radzi sie, jak wznosic sie przez sieci kupieckie (Denys) — przynosi juz DOJRZALY plan (nie prosic o wyniesienie, byc wartym promowania, dac bez oddawania edge, przekuc nisze w most, cicho). Nesta pochwala (zinternalizowal jej nauke), sharpuje: nie oddawaj edge tanio; CZYTAJ konkretnego Denysa (jego ambicje/leki); vetting sie ZAOSTRZA w gore (wieksi klienci=wieksi/grozniejsi dostawcy); status to SRODEK (ku standingowi/refinansowaniu), nie cel; rosnij cicho, niech inni cie frontuja",
+    "potknal sie na Denysie (za widoczny manewr); Nesta uczy: (1) czytac czlowieka != umiec go GRAC — orkiestracja to wyzsza, niebezpieczna sztuka, ktorej jeszcze nie ma; (2) najlepszy wplyw jest NIEWIDZIALNY — nie pchasz, tylko jestes tak wart, ze to JEGO pomysl cie poniesc; pchniety czlowiek sie opiera; (3) recover Denysa = PRZESTAC grac, byc wartym, cierpliwym; (4) KLUCZOWE: EDGE Symona to AUTENTYCZNOSC (uczciwosc/wartosc/przyzwoitosc — Aldous, Leona, Serla WYGRALY bo szczere), nie schemowanie (Denys PRZEGRAL bo grane). Ma byc soba, nie manipulatorem",
+    "pracuje do pozna i uczy sie od niej czytania ludzi po potkniecie z Denysem — teraz ukierunkowane wg jego natury: czytac by ROZUMIEC i CHRONIC SIE (nie manipulowac), co pasuje do jego autentycznosci. Oko na ludzi przekroczylo prog (spryt 6). Oddany, pojetny",
+    "pyta, czy da sie zboze SZYBCIEJ (luka: glod juz, relief ~18 dni). Nesta: Gulltown JUZ najszybsza uczciwa trasa; nie ma predzej (lokalne=hoarderzy, kupno funduje wroga+nic nie dodaje; Trzy Siostry=brak zboza; Braavos wolniej). Wyslala URGENT expedite do Gulltown (premia za pierwszy statek). Poza tym: luke mostkuje sie CHARYTATYWNOSCIA+cierpliwoscia. Symon dziala praktycznie i po ludzku",
+    "przyniosl intel: hoarderzy (Osgar) PRZEEKSPONOWANI -> zboze to BRON, ktora ich zrujnuje; ale jak odkryja przychodzacy ladunek, beda sabotowac. Nesta pojela wieksza stawke (rout mozliwy) i wieksze ryzyko (jest wystawiona) — zamowienie ZABLOKOWANE w sekrecie, security operacyjne na arrival (szybka dystrybucja nim hoarderzy zareaguja), przeglad leak-vectorow. Symon mysli jak strateg",
+    "przeglad partnerski: pyta jak idzie faktorii, o wyplaty (draw) i jak dolozyc wartosci. Nesta transparentna: faktoria zdrowa/rosnie (nisza, sukno, jego klienci), grain=wielki pending zaklad; jego DRAW 6 jeleni/mies startuje ~m9d19 (miesiac od d19), udzialy z transakcji jak sie zamykaja; rada jak dokladac wartosci. Symon myśli jak wspolnik-wlasciciel",
+    "przyniosl intel o przesunieciu politycznym (wladze boja sie rozruchow>ceni hoarderow) i pyta o zblizenie do rady. Nesta: NIE zblizac sie proaktywnie teraz (leak-risk — Osgar ma uszy w radzie; sekret nadrzedny; przedwczesne). Kultywowac Gartha (bezpieczny atut). SPRINGnac polityczny tailwind na ARRIVAL — publicznie zaprezentowac Faith-relief jako ratunek miasta, gdy zboze wplynie: wtedy wladze wdzieczne (chca porzadku), hoarderzy czarni, my bohaterami. Przygotowac publiczne framing. Symon mysli strategicznie/politycznie"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-10",
+   "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem"
+  },
+  {
+   "id": "garth_celnik",
+   "imie": "Garth",
+   "przydomek": null,
+   "wiek": 46,
+   "stan": "mieszczanin, urzednik",
+   "zawod": "pisarz celny przy Bramie Foki (sluzba Manderlych)",
+   "mieszka": "Schody_Zamkowe",
+   "harmonogram": {
+    "ranek": "brama_foki/clo",
+    "popoludnie": "clo",
+    "wieczor": "dom"
+   },
+   "potrzeby": [
+    "nadazyc z manifestami",
+    "nie podpasc kasztelanowi ANI wielkim domom",
+    "dorobic po cichu bez ryzyka"
+   ],
+   "leki": [
+    "kontrola z zamku",
+    "wlasny slaby wzrok do drobnego pisma"
+   ],
+   "nastawienie_do_gracza": 16,
+   "zaufanie": 10,
+   "wie_o_graczu": [
+    "pisze szybko i czysto",
+    "siedzi tuz obok, przy bramie",
+    "przyszedl z rozsadna propozycja czytania manifestow — kuszace, ale boi sie ryzyka; odmowil, bo cech go publicznie sciga",
+    "wzial go na CICHE, off-books czytanie braavijskich manifestow — pod oslona Wiary mniej sie boi, ale ostroznie (cech, kasztelan), na probe; nie oficjalny post",
+    "czyta braavijskie manifesty szybko i czysto — Garth ulzony (oczy oszczedzone, stos maleje); zaufanie rosnie (droga do wrazliwszych/antaryonskich papierow z czasem)",
+    "po tygodniu czystej roboty (i slyszawszy o audycie Voxa) ufa mu dosc, by dac WIEKSZE, wrazliwe manifesty — w tym wielkich domow (Antaryonow); clo goni przed poborem cel",
+    "przyniosl trop: antaryonski ladunek zanizony do cla (wskazal na wlasne ceduly Gartha, chronic zrodlo) — ale Garth zobaczyl nie wygrane, lecz PETLE: oskarzyc wielki dom to jego kark; przestraszyl sie, nie tknal, odmowil poreczenia. Zaczyna widziec, ze skryba za duzo dostrzega i rozgrywa; chce dystansu od spraw wielkich domow",
+    "m9d4: Symon wpadl BEZ interesu, tylko po ludzku (co nowego w porcie) — to odbudowuje troche zaufanie (przychodzi nie tylko z schematami). Garth podzielil sie ogolnym: zboze w porcie napiete, manifesty pokazuja spoznione dostawy zbozowe — CORROBORUJE (niezaleznie, z cla) niedobor, na ktory Symon postawil. Bez re-uwiklania w cos wrazliwego",
+    "m9d9: Symon wpadl po ludzku (co slychac/czy trza pomocy) — dalsza odbudowa. Garth NIEUSPOKOJONY: hoarderzy naciskaja/obserwuja clo pod katem zboza, a gouging rodzi niepokoj w miescie, ktorego urzednik sie boi (rozruchy=jego klopot). Sympatyczny idei RELIEFU (spokoj>hoarderzy); potencjalny CICHY SOJUSZNIK cla przy przyjsciu legalnego zboza-ulgi",
+    "m9d11: Symon wpadl znowu po ludzku (o zyciu, co u niego) — bez interesu, szczerze. Garth otworzyl sie: ma zone i dzieci, boi sie o nie w glodzie i o rozruchy (jego rodzina tez czuje drozyzne); zmeczony, ostrozny czlowiek. Genuine wiez sie zawiazuje -> z ostudzonego staje sie PRAWDZIWYM, cieplym sojusznikiem (nie tylko transakcyjnym). Cenny na przyjscie zboza (i sympatyzuje z reliefem, bo sam ma glodne geby)"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-11",
+   "cechy_mowy": "urzedowo, ostroznie, duzo 'wedle przepisu'; chrzaka"
+  },
+  {
+   "id": "pate_skryba",
+   "imie": "Pate",
+   "przydomek": "Stary",
+   "wiek": 61,
+   "stan": "mieszczanin",
+   "zawod": "licencjonowany skryba cechu, lawy przy Schodach",
+   "mieszka": "Schody_Zamkowe",
+   "harmonogram": {
+    "ranek": "lawy_pisarzy",
+    "popoludnie": "lawy_pisarzy",
+    "wieczor": "dom"
+   },
+   "potrzeby": [
+    "dotrwac do konca sezonu",
+    "nie stracic klientow na rzecz obcego"
+   ],
+   "leki": [
+    "kaszel na pluca",
+    "ze cech odbierze mu lawe jak oslabnie"
+   ],
+   "nastawienie_do_gracza": -3,
+   "zaufanie": 2,
+   "wie_o_graczu": [
+    "pisze w porcie bez licencji",
+    "podbiera drobnych klientow",
+    "dogorywa (pluca) — nie wychodzi juz do lawy; portowa lawa cechowa faktycznie pusta"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-08-13",
+   "cechy_mowy": "zrzedliwie, urwane zdania przez kaszel; mowi 'partaczu'"
+  },
+  {
+   "id": "septon_owen",
+   "imie": "Owen",
+   "przydomek": null,
+   "wiek": 54,
+   "stan": "duchowny",
+   "zawod": "septon przy Septie Sniegow, prowadzi sierociniec i szkolke",
+   "mieszka": "Septa_Sniegow",
+   "harmonogram": {
+    "ranek": "septa/nauki",
+    "popoludnie": "septa/sierociniec",
+    "wieczor": "septa"
+   },
+   "potrzeby": [
+    "dusze i porzadek",
+    "wiecej rak do nauczania sierot"
+   ],
+   "leki": [
+    "nauczanie liter poza kontrola Wiary",
+    "herezje z Wolnych Miast w porcie"
+   ],
+   "nastawienie_do_gracza": 33,
+   "zaufanie": 15,
+   "wie_o_graczu": [
+    "obcy z Polnocy, uczony przez maestera",
+    "dobra, pewna reka do pisma",
+    "szuka uczciwej pracy — przyjety na probe (nauka sierot + kopiowanie)",
+    "wydaje sie poboznu i uczciwy",
+    "przyjal robote, ale odmowil pryczy — ma wlasne lokum (Owen lekko sie temu dziwi)",
+    "Owen podejrzewa, ze cechowy hunt moze dotyczyc Symona — kazal go ostrzec, ale chce uslyszec prawde",
+    "wyznal, ze cech go sciga (odmowil lapowki Harwinowi) — Owen wierzy tej czesci i wspolczuje; ALE wyczul, ze cos zataja — za gladka opowiesc; zniechecony, teraz CZUJNY, oslony nie da bez pelnej prawdy",
+    "uczyl sieroty — zna litery, ale rozkojarzony i niewprawny z dziecmi; Owen nie ujety (brak odbudowy), ale i nie zrazony bardziej",
+    "WYZNAL cala prawde: niesie list-dowod, ze notariusz Ryman Cwiakel (starszyzna cechu) sfalszowal akt i obrabowal wdowe; maester Aemon chcial to poslac do Winterfell i umarl nagle; Symon uciekl z kopia. Owen poruszony, wierzy, angazuje sie w sprawe i oslania Symona.",
+    "oddal mu list do przeczytania i schowania — akt zaufania; sojusz przypieczetowany",
+    "stawil sie na Dzien Matki i modlil z ludem — Owen usatysfakcjonowany, uznaje go za swojego; sojusz umocniony",
+    "pomagal caly Dzien Matki — pisal listy jalmuzny, czytal modlitwy ubogim; Owen widzi, ze jego pioro sluzy Wierze (pismiennosc jako USLUGA, nie herezja)",
+    "pyta o ksiazki/biblioteke — glodny slowa; Owen rad (mlody garnacy sie do Pisma to swoj); rozwaza go jako kopiste septy",
+    "Symon ostrzegl go, ze Harwin pyta o niego u drzwi septy; Owen deklaruje dalsza oslone. ALE cechowy opisal Symona jako 'skryba, co robi u BRAAWIJSKIEJ kupcowej' — Owen slyszal ten szczegol (od Lyry) i pyta o niego: pierwsza rysa na przemilczeniu Nesty/braavijskiego",
+    "wyznal, ze zna braavijski i pracuje dla braawijskiej kupcowej (Nesty) — talent/usluga, uczciwy zarobek. Owen ceni prawde, ale zmartwiony: jego charge sluzy kupcowi Wielu Twarzy (mamona/herezja). Oslania dalej przed cechem (zasada), lecz stawia granice i pyta, ktoremu panu Symon sluzy",
+    "zaczal z wlasnej woli przepisywac/naprawiac ksiegi septy — gest ku 'pioro dla Matki' po granicy; Owen to zauwazyl, drobne ocieplenie",
+    "po nocy zmiekl (kopiowanie+szczerosc) — sam przyszedl rano zaoferowac AKTYWNA oslone i protest Wiary przeciw nekaniu Harwina; doradza ostroznie ws. placenia cechowi, bo Ryman moze go wysadzic",
+    "przyjal oslone Wiary zamiast placic cechowi — Owen rad (Symon wybral jego rade i tarcze Matki nad mamone/cech); tarcie z d9 w duzej czesci zagojone",
+    "dopytal o kanal dla Rymana (w granicach) — Owen podzielil sie planem",
+    "poprosil o wprowadzenie do Theomore'a (rama Ryman) — Owen zgodzil sie zaaranzowac, ostroznie, pod swoja kontrola",
+    "wyznal szczerze, ze zostal MLODSZYM WSPOLNIKIEM Nesty (nie juz najmita — udzialowiec). Owen: rad z jego wyjscia z nedzy, ale pastoralnie ZMARTWIONY — charge coraz glebiej w mamonie/swiecie kupcow; oslania dalej (zasada+prawda), lecz przypomina, ktoremu Panu sluzyc; martwi go tez rosnaca WIDOCZNOSC wspolnika (trudniej cicho oslaniac). Ryman: inquiry na polnoc (brat Ansell) w drodze, nic jeszcze z powrotem — cierpliwosc; list bezpieczny w sepcie",
+    "na Dzien Matki, dzien po tym jak Owen martwil sie o mamone, Symon STAWIL SIE i sluzyl piorem ubogim (listy jalmuzny, modlitwy) na oczach ludu — bezslowna odpowiedz ze sluzy i Matce. Owen usatysfakcjonowany, wzruszony; troska o dusze zlagodzona",
+    "przyszedl radzic sie ws. nowego, ksenofobicznego szeptu cechu ('obcy i jego braavijski wspolnik'); Owen doradza: nie zwalczac argumentem (obcosci nie odklamiesz), lecz byc NIEZAPRZECZALNIE swoim — poboznym, zakorzenionym w ludzie i Wierze (jak na Dniu Matki); nie zaczepiac Mennarda (oksygen); Wiara moze cicho zareczyc jego poboznosc; braavijski/religijny podtekst rozbraja sie SZCZERA (nie pokazowa) czcia Siedmiu. Owen znowu po stronie Symona",
+    "wieczorem kopiuje/naprawia ksiegi septy i gada z Owenem; Owen zachęca, by robil to STALE jako kopista septy — jawna, ciagla sluzba Wierze, ktora czyni szept 'obcy/heretyk' jeszcze mniej wiarygodnym (aktywna pomoc Owena wg jego rady)",
+    "po drugim Dniu Matki Owen cicho dumny: charge rosnie w swiecie, a wciaz sluzy Matce i ubogim (balans mamona-Matka trzyma); wiez kopista-septon glebsza. Ryman: wciaz cisza z polnocy, cierpliwosc",
+    "poprosil Owena, by uczyl go CZYTAC LUDZI (jego luka) — Owen wzruszony, ze charge przychodzi po to do NIEGO; zgadza sie. Jego lekcja: kupiec/oszust czyta KLAMSTWO, kaplan czyta POTRZEBE (czego czlowiek sie boi/pragnie/wstydzi) — zobacz potrzebe, zrozumiesz czyny. Cwiczenie: patrzec na ludzi (w sepcie, przy jalmuznie) nie na to, co MOWIA, lecz czego POTRZEBUJA",
+    "uczyl go na jalmuznie czytac POTRZEBE — i Symon pierwszy raz naprawde ZOBACZYL (rozpoznal rozpacz Serli pod spokojem, nim cokolwiek powiedziala). Przelom w jego czytaniu ludzi",
+    "przyszedl pomoc umierajacemu wnukowi Serli — WLASNYM srebrem (3 jelenie na uzdrowiciela+leki), ale poprosil, by ROUTOWAC to przez Wiare jako anonimowa charytatywnosc, NIE jako bezposrednia jalmuzne, by nie zranic dumy Serli. Owen GLEBOKO poruszony: to odpowiedz na 'ktoremu panu sluzysz' — uzywa mamony na godne milosierdzie. Regard mocno w gore",
+    "m9d1: dziecko przezylo (pomoc na czas). Owen przyniosl Symonowi wiesc; wspolny cichy moment — Symon uratowal zycie anonimowo, bez uznania. Dla Owena to definiuje chlopca ostatecznie jako czlowieka Matki, nie mamony. Najglebsza wiez",
+    "sprzedal sepcie loj po fair/tanio na zimowe swiatlo — poboznosc+reputacja (skryba, co dba o Wiare i ubogich zima)",
+    "wciagnal Owena/Wiare jako sojusznika w 'nakarmienie miasta' zbozem z Gulltown przeciw hoarderom — Owen z entuzjazmem (karmienie glodnych zima = rdzen misji Wiary; potepienie hoardowania). Warunek Owena: uczciwie — sprzedaz po fair, czesc dla najubozszych charytatywnie, Wiara nie ma szyldowac czyjegos zysku, lecz sluzyc glodnym. To daje przedsiewzieciu OSLONE/legitymacje (trudno atakowac 'Wiare karmiaca glodnych')",
+    "druga lekcja czytania ludzi: nie tylko potrzeba, lecz to, co czlowiek UKRYWA (wstyd, zal, strach za maska) — najwazniejsze bywa to, czego NIE mowi. Symon coraz lepiej czyta milczenie/maski; wiez mistrz-uczen (duchowa) glebsza",
+    "uknul z nim PLAN dystrybucji zboza (miloserdzie+uczciwosc): warstwa charytatywna dla najubozszych przez septe, sprzedaz fair dla gospodarstw/piekarzy ponizej ceny hoarderow, capy anty-re-hoard, koordynacja faktoria+septa, szybka egzekucja, Wiara jako legitymacja/oslona. Owen wzruszony, ze Symon sam pilnuje, by ubodzy dostali pierwsi",
+    "gdy niedobor uderzyl wczesnie, Symon od razu wsparl przytulek WLASNYM srebrem (3 jelenie na strawe dla ubogich w luce, nim zboze dojdzie) — nie czeka na wielki gest, lagodzi glod TERAZ. Owen gleboko wdzieczny; Symon widzi glodne twarze z bliska",
+    "trzecia lekcja czytania ludzi w czasie glodu: jak DESPERACJA zmienia czlowieka; rozroznic prawdziwie potrzebujacego od naciagacza (przyda sie przy dystrybucji zboza — anty-re-hoard). Symon uczy sie w praktyce, wsrod glodnych",
+    "Symon ostrzegl o sekrecie zboza (hoarderzy by sabotowali) — Owen zobowiazuje sie do dyskrecji Wiary; rozumie, ze przedwczesne slowo zagrozi reliefowi dla glodnych",
+    "radzi sie ws. wynajmu wlasnej izby. Owen (protekcyjnie, bez wlasnego interesu): wlasny kat to godna rzecz dla mlodego, i BEDZIE go mial z blogoslawienstwem — ale NIE TERAZ, gdy niesie 'bombe' i robi poteznych wrogow; septa=tarcza wlasnie na taki czas. Radzi ZOSTAC pod dachem Matki, az burza (zboze/hoarderzy) przejdzie, potem isc. + cieply grunt: septa to jego dom, Owen bez zalu go puszcza gdy przyjdzie czas, byle fortuna nie odciagnela go w pyche/izolacje od ludzi",
+    "pyta o swiat i o STARKOW — Owen (polnocny septon) wyjasnia: Eddard Stark, honorowy Wardender Polnocy z Winterfell, nad lordem Manderly; Polnoc czci STARE BOGI (Wiara Siedmiu tam mniejszoscia, Manderlyowie jej bastionem); sprawiedliwosc Starkow surowa i uczciwa. WAZNE dla Rymana: Starkowie SA PONAD lokalna zmowa Manderly-cech, wiec krzywda chroniona lokalnie moze znalezc sprawiedliwosc apelowana W GORE do Winterfell = dokladnie kierunek polnocnej inquiry (Ansell). Symon laczy swoj sekret z nadzieja na honor Starkow",
+    "caly dzien pomagal przytulkowi w glodzie (pioro dla ubogich) i uczyl sie czytania ludzi w praktyce (rozroznianie prawdziwej nedzy od naciagacza — pod przyszla dystrybucje zboza); ulzyl przemeczonemu Owenowi. Wiez najglebsza"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-10",
+   "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'"
+  },
+  {
+   "id": "lorren_lichwiarz",
+   "imie": "Lorren",
+   "przydomek": null,
+   "wiek": 48,
+   "stan": "mieszczanin (podejrzany)",
+   "zawod": "lichwiarz spod Wilczego Legu",
+   "mieszka": "Wilczy_Leg",
+   "harmonogram": {
+    "ranek": "izba/dlug",
+    "popoludnie": "obchod dluznikow",
+    "wieczor": "karczma"
+   },
+   "potrzeby": [
+    "rozszerzyc krag dluznikow",
+    "sciagac terminowo"
+   ],
+   "leki": [
+    "dluznik, ktory ucieknie z miasta",
+    "gniew Manderlych, jesli przegnie",
+    "ze skryba psuje mu 'towar' (dluznicy poznaja pulapki umow)"
+   ],
+   "nastawienie_do_gracza": -4,
+   "zaufanie": 1,
+   "wie_o_graczu": [
+    "mlody, bez rodziny — latwy dluznik albo latwa ofiara"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "nigdy",
+   "cechy_mowy": "cicho, uprzejmie, grozba pod jedwabiem; nigdy nie podnosi glosu"
+  },
+  {
+   "id": "poborca_harwin",
+   "imie": "Harwin",
+   "przydomek": "Kes",
+   "wiek": 38,
+   "stan": "mieszczanin",
+   "zawod": "poborca Cechu Pisarzy (egzekutor)",
+   "mieszka": "Schody_Zamkowe",
+   "harmonogram": {
+    "ranek": "cech",
+    "popoludnie": "obchod/port",
+    "wieczor": "karczma"
+   },
+   "potrzeby": [
+    "sciagac oplaty i tepic partaczy",
+    "przypodobac sie Mennardowi"
+   ],
+   "leki": [
+    "ostra reprymenda od starszego"
+   ],
+   "nastawienie_do_gracza": -8,
+   "zaufanie": 0,
+   "wie_o_graczu": [
+    "pisze jawnie przy Bramie Foki bez licencji",
+    "zachowal spokoj, pyta rzeczowo o oplate — nie tchorz, nie zawadiaka",
+    "probowal targowac sie o wpisowe — potraktowalem to jak zniewage, ukaralem publicznie",
+    "zszedl z Bramy — zwinal stolik; teraz go szukam, wypytuje w porcie",
+    "o switie naszedl zaulek w deszczu — Symona juz nie ma, Serla milczy; teraz pyta szerzej: dokad poszedl, czy nie schronil sie u Wiary",
+    "naszedl septe po Symona — Wiara (Owen) go twardo odprawila; teraz WIE, ze Symon jest pod oslona Wiary; standoff cech-vs-Wiara"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-08-11",
+   "cechy_mowy": "cedzi slowa, urzedowa grzeczosc z grozba pod spodem; mowi 'przyjacielu'"
+  },
+  {
+   "id": "maester_theomore",
+   "imie": "Theomore",
+   "zawod": "maester lorda Wymana Manderly na Nowym Zamku; uczony, zna prawo i precedens, ma ucho lorda i drogi ku Cytadeli/Winterfell; ale sluzy establishmentowi (ryzyko) | OCENA OWENA: uczony i (wg Owena) osobiscie uczciwy — nie Ryman, zwiazany kodeksem Cytadeli; ALE lojalnosc nalezy do lorda Wymana, nie do sprawiedliwosci samej w sobie ani do obcego/wdowy. Ryzyko nie 'zdrada za srebro', lecz 'jego obowiazek biegnie ku establishmentowi' — co zrobi z rzecza, zalezy od interesu LORDA, nie Symona.",
+   "nastawienie_do_gracza": 2,
+   "ostatni_kontakt": "296-09-06",
+   "cechy_mowy": "uczenie i wynioslo, poludniowy akcent; lubi slowa 'precyzyjnie' i 'wedle precedensu'",
+   "zaufanie": 1,
+   "wie_o_graczu": [
+    "przedstawil sprawe Rymana jasno, jak rachmistrz — Theomore docenil klarownosc, ALE odmowil dzialania: to tylko kopia, brak oryginalu/korroboracji, oskarzenie tyczy szanowanego czlowieka u lorda; nie tknie bez ironclad proof",
+    "m9d6: prostak-skryba przyszedl PROSIC o nauke/dostep do wiedzy — Theomore odprawil go chlodno, z wynioslоscia: nie ma PRECEDENSU, by maester ksztalcil nisko urodzonego; jego obowiazek to lord, nie edukacja kupczykow. Symona widzi jako natreta, co znowu sie napraszania (po Rymanie). Braavijski Symona zbyl jako 'znosny jak na kramarza'"
+   ],
+   "potrzeby": [],
+   "leki": [],
+   "dlugi": []
+  },
+  {
+   "id": "notariusz_ryman",
+   "imie": "Ryman Cwiakel",
+   "zawod": "notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom",
+   "nastawienie_do_gracza": 0,
+   "ostatni_kontakt": "296-08-12",
+   "cechy_mowy": "gladko, pewnie, jak czlowiek u siebie",
+   "wie_o_graczu": []
+  },
+  {
+   "id": "kupiec_vox",
+   "imie": "Vox",
+   "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
+   "nastawienie_do_gracza": 20,
+   "ostatni_kontakt": "296-09-22",
+   "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
+   "wie_o_graczu": [
+    "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
+    "wypatrzyl dokladnie, jak Rennard go strzyze (zawyzone dostawy + zanizone sprzedaze), z dowodem — Vox wdzieczny, zaplacil hojnie mimo promo, bedzie polecal go kupcom",
+    "ostrzega Symona, ze cech (Mennard) rozglasza go partaczem/oszustem, odradza kupcom — proba zdlawienia jego reputacji",
+    "Symon przyszedl dowiedziec sie, kto o niego pyta; Vox (kupiec ze Schodow, zrodlo word-of-mouth) wskazal: wdowa Leona (handel suknem/welna na Schodach), pod wrazeniem po Dniu Matki i burzy, wypytuje o 'mlodego skrybe'",
+    "poprosil go, by zaaranzowal godne spotkanie z Leona (mediowane wprowadzenie zamiast zimnego przyjscia) — Vox chetnie, umowil na jutro (d26) w porze poludniowej; jego poreka podnosi Symona przed Leona",
+    "spisal uczciwa dwujezyczna umowe fracht z Vhassarem",
+    "'uczciwy pisarz', ktoremu ufaja obie strony"
+   ],
+   "potrzeby": [
+    "dojsc, czy wspolnik go strzyze",
+    "nie dac tego cechowi"
+   ],
+   "leki": [
+    "ze wspolnik go obdziera od dawna",
+    "rozglos/wstyd"
+   ],
+   "dlugi": [],
+   "zaufanie": 9
+  },
+  {
+   "id": "leona_wdowa",
+   "imie": "Leona",
+   "wiek": 47,
+   "stan": "mieszczka zamozna, respektowana",
+   "zawod": "kupcowa suknem/welna na Schodach (po mezu, prowadzi sama)",
+   "mieszka": "Schody_Zamkowe",
+   "harmonogram": {
+    "ranek": "sklad/kantor",
+    "popoludnie": "Schody",
+    "wieczor": "dom"
+   },
+   "potrzeby": [
+    "uporzadkowac zagmatwane ksiegi po mezu",
+    "zweryfikowac braavijskie papiery dostawcow (podejrzewa, ze ja skrocono po smierci meza)",
+    "nie dac sie potraktowac jak 'baba, co sie nie zna'"
+   ],
+   "nastawienie_do_gracza": 22,
+   "zaufanie": 13,
+   "wie_o_graczu": [
+    "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
+    "zachowal sie godnie, sluchal, nie sprzedawal sie tanio ani nie przechwalal — mieszczka to doceniła",
+    "gdy wyszlo braavijskie czytanie, UCZCIWIE wyznal, ze ten jego atut jest na WYLACZNOSC faktorii, i nie tknal roboty na boku — INTEGRALNOSC clinchnela jej szacunek (ceni tych, co honoruja zobowiazania)",
+    "zamiast chwycic robote, zaproponowal most: braavijskie papiery zalatwic PRZEZ faktorie (Nesta); ogolna robote (ksiegi po mezu we wspolnej, kontrakty) wzial",
+    "zaczela go traktowac jak czlowieka ze standingiem, nie najmite",
+    "przetrzasnela z nim papiery po mezu — okazalo sie, ze maz braavijskich manifestow po prostu NIE trzymal (ufal dostawcom) / co bylo, zbutwialo na strychu; luk nie da sie domknac z jej strony. Frustracja i cichy zal do zmarlego meza; docenia, ze Symon sie stara",
+    "gdy jej papiery zawiodly, wymyslil obejscie: zestawic slady u INNYCH oszukiwanych sukiennikow (ona otworzyla drzwi swoim standingiem) i z systematycznego wzoru odtworzyc CALOSC — udalo sie wybitnie. Nie tylko domknal JEJ sprawe, ale odkryl SYSTEMATYCZNE, wielo-ofiarowe oszustwo dostawcow. Leona pod duzym wrazeniem i wdzieczna",
+    "kolektyw z nia jako frontem zadzialal: dostawcy zlozyli sie (grudging) i oddali udokumentowane skrocenia + uczciwe warunki. Odzyskala solidny kawal. Mocna sojuszniczka/klientka; placi za robote uczciwie",
+    "na Dniu Matki publicznie, przy oltarzu, okazala mu uznanie (respektowana sukiennica przy nim wobec mieszanego tlumu = pobozna poreka, ktorej zaden szept nie przebije). Sojusz Schody-Wiara scementowany",
+    "po nabozenstwie rozmowa: potwierdza staly uklad (jej ksiegi/kontrakty), zainteresowana Nesta jako CZYSTYM braavijskim kanalem sukna (brokerka), i obiecuje kierowac oszukiwanych sukiennikow ku weryfikacji faktorii (rozwoj niszy). Relacja z klienta w respektujacego sojusznika",
+    "m9d10: sfinalizowal z nia STALY uklad dostaw braavijskiego sukna (przez faktorie Nesty) — probka dobra (Nesta ocenila), warunki uczciwe; Leona ma czyste zrodlo zamiast zlodziei, faktoria stalego klienta, Symon prowizje/1-3. Sojusz solidny; Symon=jej broker/zaufany"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-10",
+   "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem"
+  },
+  {
+   "id": "boren_koladziej",
+   "imie": "Boren",
+   "przydomek": null,
+   "wiek": 52,
+   "stan": "mieszczanin, mistrz cechu",
+   "zawod": "cechmistrz koladziejow (kolodziejow)",
+   "mieszka": "Schody_Zamkowe",
+   "harmonogram": {
+    "ranek": "warsztat",
+    "popoludnie": "dom_cechu",
+    "wieczor": "dom"
+   },
+   "potrzeby": [
+    "tanie dobre drewno dla cechu",
+    "chronic braci cechowych"
+   ],
+   "leki": [
+    "obcy lichwiarze siegajacy po warsztaty cechowe"
+   ],
+   "nastawienie_do_gracza": 22,
+   "zaufanie": 6,
+   "wie_o_graczu": [
+    "czyta umowy lepiej niz ten co je pisze",
+    "poreczyl za skarge wdowy Elny",
+    "wynegocjowal cechowi tanie drewno od Torsena"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-27",
+   "cechy_mowy": "krótko, prosto, wali piescia w stol; 'chlopcze'"
+  },
+  {
+   "id": "torsen_drwal",
+   "imie": "Torsen",
+   "przydomek": null,
+   "wiek": 50,
+   "stan": "mieszczanin, kupiec",
+   "zawod": "kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz)",
+   "mieszka": "Port",
+   "harmonogram": {
+    "ranek": "sklad_drzewny",
+    "popoludnie": "sklad_drzewny",
+    "wieczor": "dom"
+   },
+   "potrzeby": [
+    "stali odbiorcy drewna",
+    "zysk na posrednictwie"
+   ],
+   "leki": [
+    "nierzetelni wspolnicy"
+   ],
+   "nastawienie_do_gracza": 10,
+   "zaufanie": 4,
+   "wie_o_graczu": [
+    "dotrzymal slowa na umowie cechowej",
+    "chce polnocnych futer/bursztynu na wywoz do Braavos"
+   ],
+   "dlugi": [],
+   "ostatni_kontakt": "296-09-27",
+   "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'"
+  },
+  {
+   "id": "wdowa_elna",
+   "imie": "Elna",
+   "przydomek": null,
+   "wiek": 34,
+   "stan": "mieszczka uboga (wdowa po koladzieju Hobie)",
+   "zawod": "brak; pod opieka cechu koladziejow",
+   "mieszka": "zaulek_garbarzy",
+   "harmonogram": {
+    "ranek": "dom",
+    "popoludnie": "dom",
+    "wieczor": "dom"
+   },
+   "potrzeby": [
+    "utrzymac warsztat dla syna",
+    "splacic/oddalic dlug u Lorrena"
+   ],
+   "leki": [
+    "Lorren",
+    "glod dzieci"
+   ],
+   "nastawienie_do_gracza": 20,
+   "zaufanie": 7,
+   "wie_o_graczu": [
+    "skryba przejrzal drapiezna umowe Lorrena",
+    "spisal jej skarge do cechu/strazy"
+   ],
+   "dlugi": [
+    {
+     "wobec": "lorren_lichwiarz",
+     "kwota_mied": 0,
+     "termin": null,
+     "nota": "umowa NIEPODPISANA — dzieki Symonowi; pod ochrona cechu"
+    }
+   ],
+   "ostatni_kontakt": "296-09-21",
+   "cechy_mowy": "cicha, zmeczona, twarda; 'chlopcze'"
+  }
+ ],
+ "w_orbicie": [
+  {
+   "id": "karczmarz_dobb",
+   "imie": "Dobb",
+   "zawod": "karczmarz Pod Syrenim Ogonem",
+   "nastawienie_do_gracza": 5
+  },
+  {
+   "id": "starszy_mennard",
+   "imie": "Mennard",
+   "zawod": "starszy Cechu Pisarzy",
+   "nastawienie_do_gracza": -6
+  },
+  {
+   "id": "kasztelan_wylis",
+   "imie": "ser Wylis",
+   "zawod": "oficer Manderlych, poborca cel",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "corka_wendy_mella",
+   "imie": "Mella",
+   "zawod": "corka Wendy na wydaniu",
+   "nastawienie_do_gracza": 2
+  },
+  {
+   "id": "wnuk_serli_tom",
+   "imie": "Tom",
+   "zawod": "chorowity wnuk Serli (8 lat)",
+   "nastawienie_do_gracza": 4
+  },
+  {
+   "id": "kapitan_braavijski",
+   "imie": "Vhassar",
+   "zawod": "kapitan Corki Tytana (na morzu)",
+   "nastawienie_do_gracza": 18,
+   "nota": "stały klient faktorii; ufa Symonowi (dwujęzyczne uczciwe umowy); wiezie próbną skrzynię barwników; poleca innym kapitanom"
+  },
+  {
+   "id": "przekupka_rywalka",
+   "imie": "Jonelle",
+   "zawod": "rywalka Wendy na targu",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "straznik_bramy",
+   "imie": "Hob",
+   "zawod": "straznik Bramy Foki",
+   "nastawienie_do_gracza": 1
+  },
+  {
+   "id": "czeladnik_pate",
+   "imie": "Willam",
+   "zawod": "czeladnik starego Pate",
+   "nastawienie_do_gracza": -1
+  },
+  {
+   "id": "rybak_stary_edd",
+   "imie": "Edd",
+   "zawod": "stary rybak, kliet listow",
+   "nastawienie_do_gracza": 3
+  },
+  {
+   "id": "septa_mordane_bp",
+   "imie": "septa Lyra",
+   "zawod": "septa ucząca sieroty",
+   "nastawienie_do_gracza": 1
+  },
+  {
+   "id": "aptekarz_colen",
+   "imie": "Colen",
+   "zawod": "aptekarz/zielarz przy Schodach",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "praczka_maddy",
+   "imie": "Maddy",
+   "zawod": "praczka, sasiadka Serli",
+   "nastawienie_do_gracza": 2
+  },
+  {
+   "id": "chlopak_na_posylki",
+   "imie": "Wex",
+   "zawod": "niemy chlopak na posylki w porcie",
+   "nastawienie_do_gracza": 3
+  },
+  {
+   "id": "kapral_strazy",
+   "imie": "Alyn",
+   "zawod": "kapral miejskiej strazy",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "wdowa_po_zeglarzu",
+   "imie": "Barba",
+   "zawod": "wdowa czekajaca listow od syna",
+   "nastawienie_do_gracza": 2
+  },
+  {
+   "id": "przemytnik_rennat",
+   "imie": "Rennat",
+   "zawod": "nocny czlowiek spod Wilczego Legu",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "handlarz_ryb_solonych",
+   "imie": "Gunthor",
+   "zawod": "hurtownik ryby solonej",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "mniszka_pisarka",
+   "imie": "siostra Unella",
+   "zawod": "kopistka przy sepcie",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "sierota_pella",
+   "imie": "Pella",
+   "zawod": "sierota w sepcie (~6 lat), niesmiala",
+   "nastawienie_do_gracza": 10
+  },
+  {
+   "id": "faktor_duzego_domu",
+   "imie": "Ternesio",
+   "zawod": "faktor braavijskiego domu Antaryon (flota galer) w Bialym Porcie; swiezo bez czytacza, placi dobrze i stale — potencjalny silny patron — teraz PYTA O SYMONA PO IMIENIU w porcie (uslyszal, ze to on jest braavijskim czytaczem)",
+   "nastawienie_do_gracza": 2
+  },
+  {
+   "id": "alys_narzeczona_brana",
+   "imie": "Alys",
+   "zawod": "narzeczona Brana, sluzy w karczmie Pod Syrenim Ogonem",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "siostra_lyra",
+   "imie": "Lyra",
+   "zawod": "siostra w sepcie; zagrala glupia, gdy pytano o Symona",
+   "nastawienie_do_gracza": 5
+  },
+  {
+   "id": "brat_ansell",
+   "imie": "Ansell",
+   "zawod": "wedrowny septon zaufany Owenowi, jedzie na polnoc — konduit dyskretnej inquiry ku Staremu Zamkowi/Winterfell",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "rennard_wspolnik",
+   "imie": "Rennard",
+   "zawod": "wspolnik Voxa w handlu suknem — strzygl go (fraud wykryty przez Symona); potencjalny maly wrog",
+   "nastawienie_do_gracza": 0
+  },
+  {
+   "id": "piekarz_wendel",
+   "imie": "Wendel",
+   "zawod": "najwiekszy piekarz w porcie (bogaty, dusi cene)",
+   "nastawienie_do_gracza": 6,
+   "nota": "doceniony hurt zbozowy po cenie dociagniętej; niechętny szacunek"
+  },
+  {
+   "id": "piekarz_hobb",
+   "imie": "Hobb",
+   "zawod": "maly rzetelny piekarz (kotwica uczciwej ceny)",
+   "nastawienie_do_gracza": 14,
+   "nota": "wdzieczny za uczciwa cene zboza; swiadek ceny"
+  },
+  {
+   "id": "marya_piekarka",
+   "imie": "Marya",
+   "zawod": "uboga wdowa-piekarka przy rynku (chleb dla biedoty)",
+   "nastawienie_do_gracza": 18,
+   "nota": "sprzedane taniej dla biedoty — imie 'skryby, co nakarmil'"
+  },
+  {
+   "id": "faktor_halvard",
+   "imie": "Halvard",
+   "zawod": "faktor Torsena w glebi Polnocy (Bialy Noz) — skup drewna/skor/futer/bursztynu",
+   "nastawienie_do_gracza": 0,
+   "nota": "kanal na polnocny towar u zrodla; jeszcze niepoznany osobiscie"
+  },
+  {
+   "id": "garbarz_coll",
+   "imie": "Coll",
+   "zawod": "mistrz garbarz w zaulku (starszy garbarzy)",
+   "nastawienie_do_gracza": 11,
+   "nota": "zyczliwy po sprawie Elny, ale twardy w cenie; sprzedal skory na umowe na przyszlosc; najlepsze gatunki ograniczone"
+  },
+  {
+   "id": "kupiec_osgar",
+   "imie": "Osgar",
+   "zawod": "kupiec zbozowy, glowa kliki hoarderow",
+   "nastawienie_do_gracza": -6,
+   "nota": "przeeksponowany po crashu cen (relief); wypytuje po nabrzezu, kto zbil ceny; mozliwa cicha zemsta/donos"
+  }
+ ],
+ "orbita": [
+  {
+   "id": "dostawcy_sukna",
+   "imie": "braavijscy dostawcy sukna (Zboczna, Marra, Tobbot i in.)",
+   "rola": "drobni wrogowie od d27",
+   "nast": -6,
+   "nota": "zmuszeni do restytucji przez kolektyw wykryty przez Symona; resentful, beda pluc jadem/obgadywac, ale slabi i skurczeni; mozliwe drobne odwety/aliansы z anty-Symon mruczeniem"
+  },
+  {
+   "id": "kupiec_aldous",
+   "imie": "Aldous",
+   "zawod": "kupiec (braavijskie wino i barwniki) na Schodach",
+   "skad": "d29 — przyslany word-of-mouth/Leona po sprawie oszustwa; boi sie, ze jego braavijskie papiery tez skrocone",
+   "nast": 9,
+   "nota": "d29: Symon wrocil i ZAMKNAL wino pewnym, prawdziwym werdyktem (wielki dom nie skraca miary; barwniki uczciwe; jestes czysty) — Aldous USPOKOJONY i zadowolony; pending rozpuszczony, Antaryonow nie tknieto. Z letniego -> kontent; mozliwy skromny referrer. Zaplacone."
+  },
+  {
+   "id": "kupiec_denys",
+   "imie": "Denys",
+   "zawod": "znaczny kupiec ze Schodow (braavijskie towary zbytku)",
+   "skad": "referral niszy m9d3; dostawcy zvettowani bezpieczni",
+   "nast": 9,
+   "nota": "skupiona premium weryfikacja mu wybitna — znaleziono udokumentowane skrocenie u jednego dostawcy; ZACHWYCONY, bedzie polecac dalej (flywheel przyspiesza); premium-imie faktorii/Symona na Schodach ugruntowane || m9d6: Symon probowal przekuc zachwyt w aktywne patronackie wyniesienie — grajac na ambicji Denysa + saczac 'most' do jego znajomych. Ale wykonanie (slabosc ludzka Symona) BYLO ZA WIDOCZNE: Denys, bystry, wyczul KALKULACJE pod uprzejmoscia; zostal kordialny ale OSTROZNIEJSZY (czyta Symona jako ambitnego, grajacego angle). Latwy zapal 'powiem swoim' OSTYGL. Nie wrog, lecz chlodniejszy klient; brak wyniesienia w gore."
+  },
+  {
+   "id": "klika_zbozowa",
+   "imie": "Osgar i klika zbożowa",
+   "rola": "wielcy kupcy zbozowi (hoarderzy) — przyszli wrogowie",
+   "nast": -4,
+   "nota": "m9d8 rozpoznani na wylot (rzut 99): klika ~3-4 wielkich kupcow zbozowych pod Osgarem; POSTAWILI WSZYSTKO na to, ze niedobor potrwa — skupili/trzymaja ogromne zapasy, CZESC NA POZYCZONYM srebrze, licząc na glodowe ceny. SLABOSC: sa PRZEEKSPONOWANI — duza swieza dostawa zboza CRASHNIE cene i ich ZRUJNUJE (siedza na drogim/pozyczonym ziarnie). Zboze Symona = BRON, ktora moze ich zlamac (finansowo). REPUTACYJNIE: pala goodwill glodzac biedote — gdy przyjdzie relief pod egida Wiary, sa czarnymi charakterami. PEKNIECIE: jeden z kliki (mniejszy, nerwowy) mocno przeexponowany — mozliwy do odlamania. RYZYKO: potezni/ustawieni; JAK odkryja przychodzace zboze Nesty (ich zgube), beda probowac je SABOTOWAC / uderzyc w Neste/Symona -> TRZYMAC ZAMOWIENIE W SEKRECIE."
+  }
+ ]
+}

@@ -832,6 +832,13 @@
    "zawod": "kupiec (dealings z sieci Antaryona)",
    "nastawienie_do_gracza": 12,
    "nota": "m10d6: audyt POTWIERDZIL, ze partner z sieci Antaryona go skubie; wdzieczny, zaplacil, ufa Symonowi. ALE BOJAZLIWY wobec wielkiego domu — potencjalny 2. czlonek bloku, lecz SLABE OGNIWO: sam nie ruszy, moze zwlekac/zloamac sie/tipnac Antaryona ze strachu; wejdzie tylko pod zbiorowa oslona"
+  },
+  {
+   "id": "zarzadca_godric",
+   "imie": "Godric",
+   "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
+   "nastawienie_do_gracza": 10,
+   "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku"
   }
  ],
  "orbita": [

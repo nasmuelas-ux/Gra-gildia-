@@ -33,14 +33,6 @@
    "widoczny_graczowi": true
   },
   {
-   "id": "osgar_uraza",
-   "typ": "zagrozenie",
-   "opis": "Klika Osgara przeeksponowana po crashu cen zboza — uraza do Nesty/Symona za relief; mozliwa cicha zemsta/donos",
-   "odlicza_do": "296-10-10",
-   "co_sie_stanie": "hoarderzy szukaja odwetu (donos do cechu/celnika, presja) — echo 'majatek rosnie za szybko = swiat reaguje'",
-   "widoczny_graczowi": true
-  },
-  {
    "id": "odbior_skor",
    "typ": "okazja",
    "opis": "Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos",
@@ -77,6 +69,12 @@
    "odlicza_do": "296-10-13",
    "typ": "tlo",
    "opis": "Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon poza kadrem — nie wystawiony."
+  },
+  {
+   "id": "osgar_ruch",
+   "odlicza_do": "296-10-13",
+   "typ": "zagrozenie",
+   "opis": "Niezdarna plotka kliki Osgara ('kantor Nesty upada, nie splaci Antaryonow') krazy — Symon ostrzezony wczesnie, zrodlo jawne. Jesli NIEzdementowana, moze jednak podgryzc kredyt/wsparcie Nesty przed rata (~5 dni). Okno na kontre teraz."
   }
  ]
 }

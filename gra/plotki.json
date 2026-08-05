@@ -79,6 +79,24 @@
    "dotarla_do_frakcji": [
     "cech_pisarzy"
    ]
+  },
+  {
+   "id": "plotka_osgar_kantor",
+   "tresc_prawdziwa": "klika Osgara mysci sie za relief zbozowy, probujac zaszkodzic Nescie przed rata Antaryonow",
+   "tresc_obiegowa": "kantor braavijki Nesty na skraju upadku, nie splaci dlugu Antaryonom",
+   "prawdziwosc": 0.15,
+   "znieksztalcenie": 1,
+   "zrodlo": "klika_osgara",
+   "zna": [
+    "wenda_rybia"
+   ],
+   "zasieg": [
+    "port",
+    "schody_zamkowe"
+   ],
+   "tempo": "srednie",
+   "dotarla_do_frakcji": [],
+   "uwaga": "Puszczona NIEZDARNIE (tik 100) — zrodlo (ludzie Osgara) transparentne, wiarygodnosc niska; Symon ostrzezony wczesnie przez Wende."
   }
  ],
  "aktywne": [

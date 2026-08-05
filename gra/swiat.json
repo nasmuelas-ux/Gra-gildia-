@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 9,
+  "dzien": 10,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 41,
- "dzien_tygodnia_nr": 4,
+ "pogoda": 39,
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "Poludnie, chlodno i mokro. AUDYT LORDA: werdykt zlozony CICHO i twardo — logika zuzycia (household nie mogl tyle wypic/zjesc) + korroboracja Gartha (dostawy portowe wina/solonej ryby przez Brame Foki) zbiegaja sie na tym samym ubytku, jedna reka, dwa towary. Wat NADAL nieswiadomy. Zostaje: podac werdykt Godricowi tak, by wyszedl madrze. W tle: rata Antaryonow ~6 dni; Harwin przyczajony.",
+ "nastroje_miasta": "Ranek d10, chlodno i mokro. NOWE: klika Osgara ruszyla z zemsta — ale NIEZDARNIE (tik rzut 100): rozpuszcza plotke, ze kantor Nesty 'na skraju upadku, nie splaci Antaryonow', by odstraszyc wsparcie i pogorszyc jej sytuacje przed rata. Zrobione tak grubo, ze zrodlo (ludzie Osgara) widoczne golym okiem — Symon dostaje wczesne, czyste ostrzezenie i okno na kontre. W tle: rata Antaryonow ~5 dni; Godric wdzieczny; Wat skazany po cichu; Harwin przyczajony.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 9
+ "dzien": 10
 }

@@ -2,18 +2,18 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-10-09 POLUDNIE · schylek dlugiego lata
+- **Data:** 296-10-10 RANEK · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** Poludnie, chlodno i mokro. AUDYT LORDA: werdykt zlozony CICHO i twardo — logika zuzycia (household nie mogl tyle wypic/zjesc) + korroboracja Gartha (dostawy portowe wina/solonej ryby przez Brame Foki)
+- **Nastroje:** Ranek d10, chlodno i mokro. NOWE: klika Osgara ruszyla z zemsta — ale NIEZDARNIE (tik rzut 100): rozpuszcza plotke, ze kantor Nesty 'na skraju upadku, nie splaci Antaryonow', by odstraszyc wsparcie i 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 26 jeleni + 4 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 80 · Sytosc 85 · Zmeczenie 5
+- Zdrowie 81 · Sytosc 60 · Zmeczenie 2
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 4
@@ -43,12 +43,12 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-10-25` polnocna_inquiry: Kanal ku Winterfell OTWARTY (raven korzystny d17); Owen/Ansell cicho zbieraja KORROBORACJE (rejestr/oryginal S
 - ◆ `296-11-25` import_barwniki: Vhassar wraca z probna skrzynia barwnikow tyrijskich (noga importowa spolki egzotycznej); zaplata reszty przy 
 - ◆ `296-11-10` futra_polnoc: Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa
-- ⚠ `296-10-10` osgar_uraza: Klika Osgara przeeksponowana po crashu cen zboza — uraza do Nesty/Symona za relief; mozliwa cicha zemsta/donos
 - ◆ `296-11-20` odbior_skor: Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos
 - ⚠ `296-10-15` antaryon_termin: Termin (rata) dlugu Nesty wobec domu Antaryon sie zbliza — Ternesio dociska; faktoria pod presja i pod obserwa
 - ◆ `296-11-10` odpowiedz_pryncypala: Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Bank
 - ◆ `296-10-14` flip_sprzedaz: Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusn
 - ◆ `296-10-13` godric_rozprawa_wat: Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon
+- ⚠ `296-10-13` osgar_ruch: Niezdarna plotka kliki Osgara ('kantor Nesty upada, nie splaci Antaryonow') krazy — Symon ostrzezony wczesnie,
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [OTWARTE/]: OTWARTE/GLOWNE — MIEKKI OFF-RAMP JUZ ROZEGRANY I PRZEGRANY (296-08-20, rzut 29): Ternesio obstal przy zawyzeniu, Nesta zaplacila napompowana rate ~+1 

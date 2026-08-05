@@ -8,10 +8,10 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty: (1) spolka ZBOZOWA — ZAMKNIETA z zyskiem (relief miasta + crash cen hoarderow Osgara); (2) nowa spolka EGZOTYCZNA (dwukierunkowy handel z Braavos) — wspolwlasciciel, udzial proporcjonalny do wkladu + dokladka za pomysl/prowadzenie; + wciaz pisze listy na rogu przy Bramie Foki (bez licencji cechu — Harwin poluje)",
  "zdrowie": 80,
- "sytosc": 50,
- "zmeczenie": 2,
+ "sytosc": 76,
+ "zmeczenie": 4,
  "sakiewka": {
-  "miedziaki": 24,
+  "miedziaki": 22,
   "jelenie": 12,
   "smoki": 0
  },
@@ -62,10 +62,10 @@
   "retoryka": 31,
   "jezyki": 56,
   "spryt_uliczny": 39,
-  "kondycja": 41,
+  "kondycja": 42,
   "rzemioslo": 0,
   "handel": 26,
-  "walka": 14
+  "walka": 15
  },
  "jezyki_znane": [
   "mowa powszechna",

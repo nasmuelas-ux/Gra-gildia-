@@ -154,3 +154,6 @@ maestra, a on cie nie widzi.
 
 ## Audyt Godrica — PRAWDA (296-10-08)
 Wat, klucznik piwnicy (podwladny Godrica), od miesiecy zanizal wpisy ubytku wina i solonej ryby, roznice kladac do wlasnej kaletki — drobno, ale staly wzor. Lekko abetowany przez jednego dostawcę, ktory zaokragla dostawy w gore (cichy uklad). Godric podejrzewa Wata, ale nie moze ruszyc bez dowodu: to jego czlowiek, a bledny ruch = wstyd stewarda przed lordem. Dlatego zewnetrzny, pismienny, bezcechowy Symon jest idealny — i niewygodny jako swiadek. Symon jeszcze tego nie wie na pewno (dry read: tylko wzor: wino+ryba, jedna reka).
+
+## Audyt Godrica — remanent (296-10-09)
+Remanent potwierdzil skim: fizycznie brakuje wina i solonej ryby ponad ksiege — Wat zanizal ubytek/przyjmowal zawyzone kwity, roznice kladl do kaletki, lekko abetowany przez dostawce. Symon ma twardy dowod. Ale Wat wyczul, ze obcy liczyl jego piwnice — jest sploszony i od teraz gra na przetrwanie: moze zacierac, zniszczyc kwit-dowod, uciec lub uprzedzic Godrica wlasna wersja ('to obcy podrzucil', 'to pomylka').

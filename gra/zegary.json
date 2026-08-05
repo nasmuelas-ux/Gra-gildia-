@@ -71,6 +71,12 @@
    "odlicza_do": "296-10-14",
    "co_sie_stanie": "przy poglebiajacym mrozie sprzedac z zyskiem (rzut); nie czekac na absolutny szczyt",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "wat_sploszony",
+   "odlicza_do": "296-10-11",
+   "typ": "zagrozenie",
+   "opis": "Wat sploszony remanentem — moze zacierac slady, zniszczyc kwit, uciec albo pierwszy pobiec do Godrica/protektora z wlasna wersja. Krotki lont."
   }
  ]
 }

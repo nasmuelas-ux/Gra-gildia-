@@ -852,12 +852,14 @@
    "przydomek": "klucznik",
    "zawod": "klucznik piwnicy / przyjmuje prowiant na Nowym Zamku (czlowiek Godrica)",
    "mieszka": "Nowy_Zamek_izby_sluzby",
-   "nastawienie_do_gracza": 0,
+   "nastawienie_do_gracza": -6,
    "zaufanie": 0,
-   "wie_o_graczu": [],
+   "wie_o_graczu": [
+    "obcy pismienny liczyl beczki w jego piwnicy — wie, ze ktos go sprawdza"
+   ],
    "ostatni_kontakt": null,
    "cechy_mowy": "usluzny, gladki, duzo 'oczywiscie panie'",
-   "status": "PODEJRZANY (audyt Godrica)"
+   "status": "SPLOSZONY — wyczul remanent, czujny, moze zacierac slady / uprzedzic wersja u Godrica lub protektora"
   }
  ],
  "orbita": [

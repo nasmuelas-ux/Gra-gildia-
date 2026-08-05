@@ -1604,3 +1604,7 @@ Symon zagral jak audytor, nie jak lowca sensacji. Poprosil najpierw o kwity dost
 
 ## 296-10-08 WIECZOR/NOC — septa: posilek, trening, Owen, sen
 Symon wraca do Septy Sniegow. Je, cwiczy (kondycja), rozmawia z Owenem — o audycie ANI SLOWA (obietnica Godrica: nikomu, takze nie 'Braavijce'). Owen ma nowine (rzut 64): korroboracja polnocna sie rusza — Ansell znalazl watek/ludzi mogacych poswiadczyc rejestr Starego Zamku; kanal ku Winterfell (raven d17) trzyma. O cechu: cicho, opieka Wiary dziala, ale Harwin przyczajony, nie odpuscil. Symon spi porzadnie: zmeczenie 2, zdrowie 80, sytosc 100. Bierny siew origin-narracji DOJRZAL — sondaz cechu o pochodzenie rozmyty. Dzien 9 wstaje mglisty.
+
+
+## 296-10-09 RANEK/POLUDNIE — audyt: remanent piwnicy (rzuty 24/61)
+Symon nie sumowal slupkow — przez Godrica wszedl do piwnicy i policzyl beczki przeciw saldu ksiegi. Metoda rozlupala skim: fizycznie brakuje wina i solonej ryby ponad to, co ksiega i kwity kaza. To nie zepsuta beczka — to KRADZIEZ, staly wzor, jedna reka: Wat przyjmowal, zanizal ubytek, roznice bral (parę smokow przez dwa kwartaly, lekko abetowany przez dostawce). Dowod twardy (rzut 61). ALE remanent nie byl czysty (rzut 24): Wat wyczul, ze obcy liczyl jego piwnice — jest sploszony i czujny. Teraz liczy sie czas: kto pierwszy dotrze do Godrica z wlasna wersja. Symon trzyma werdykt; klucznik gra o skore.

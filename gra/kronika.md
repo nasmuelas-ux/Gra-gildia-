@@ -1529,3 +1529,6 @@ Wieczor: Septa (dom), jadlo, mycie, lekki trening (kondycja), rozmyslania o braa
 
 ## Miesiąc 10, dzień 4 — RANEK→POŁUDNIE: nowe zlecenie (rzut 73, CZYSTY SUKCES)
 Symon je (-4 mied, sytosc+), bierze zlecenie nowego szanowanego klienta (z polecenia poreczajacych — Vox/Leona/Boren). Przy paskudnej pogodzie siedzi w cieple nad ksiegami/umowa. RZUT 73: czysto, profesjonalnie — klient zadowolony, +4 jel (-> 23 jel). AUDITOR-RENOMA UMOCNIONA; kupcy polecaja go jeden drugiemu = smear cechu w pelni PRZESZLOSC, dochod solidnie odbudowany. rachunki/prawo/handel praktyka. zmeczenie+2 (4), sytosc wysoka. Poludnie.
+
+## Miesiąc 10, dzień 4 — POŁUDNIE→POPOŁUDNIE: sparing z Branem (rzut 64, solidnie)
+Symon na sparing SWIEZY-ish (zmeczenie 4), choc chlod/deszcz ciazy (szopa). RZUT 64 (nad progiem ~57 dla walka4->5, ale nie mocno): SOLIDNA, produktywna sesja — walka 4 SKONSOLIDOWANA, praktyka realna, ale BRAK awansu (4->5 to wyzszy prog, dluzsza droga niz skok 3->4). Bran chwali roznice: 'widzisz, jak inaczej idzie, jak przychodzisz swiezy'. Postep ku 5 sie kumuluje. Bran nast 32. zmeczenie+2 (6), sytosc-4. Popoludnie.

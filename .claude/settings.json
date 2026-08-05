@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"$CLAUDE_PROJECT_DIR\" 2>/dev/null; python3 gra/stan.py >/dev/null 2>&1; echo '===== STAN GRY (wczytany automatycznie na starcie sesji) ====='; cat gra/STAN.md gra/PROWADZENIE.md 2>/dev/null; echo '===== KONIEC STANU — prowadz z PLIKOW, nie z pamieci ====='"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1604,3 +1604,7 @@ Symon zagral jak audytor, nie jak lowca sensacji. Poprosil najpierw o kwity dost
 
 ## 296-10-08 WIECZOR/NOC — septa: posilek, trening, Owen, sen
 Symon wraca do Septy Sniegow. Je, cwiczy (kondycja), rozmawia z Owenem — o audycie ANI SLOWA (obietnica Godrica: nikomu, takze nie 'Braavijce'). Owen ma nowine (rzut 64): korroboracja polnocna sie rusza — Ansell znalazl watek/ludzi mogacych poswiadczyc rejestr Starego Zamku; kanal ku Winterfell (raven d17) trzyma. O cechu: cicho, opieka Wiary dziala, ale Harwin przyczajony, nie odpuscil. Symon spi porzadnie: zmeczenie 2, zdrowie 80, sytosc 100. Bierny siew origin-narracji DOJRZAL — sondaz cechu o pochodzenie rozmyty. Dzien 9 wstaje mglisty.
+
+
+## 296-10-09 RANEK — rada Godricowi: pieczec piwnicy odrzucona (rzut 15)
+Symon zagral madrze: nie wszedl sam do piwnicy, tylko przyszedl do Godrica z metoda. Wylozyl: papiery nie pokaza nic, jesli kwity klamia po obu stronach — pewnosc da TYLKO remanent, ale w sterylnych warunkach: piwnica zapieczetowana, klucznik odsuniety. I oddal decyzje: mam to zrobic ja, czy ty, panie? Godric jednak odmowil (rzut 15). Nie zamknie piwnicy i nie odsunie zaufanego czlowieka na samo przeczucie — sluzba gadala by, a gdyby to okazalo sie niczym, wyszedlby na paranoika i wydal reke. 'Znajdz mi pewnosc ciszej, chlopcze. Potem JA zdecyduje, co zamknac.' Elegancka droga zamknieta przez ostroznosc patrona. Symon musi domknac werdykt cichszym, mniej pewnym sposobem. Relacja ca;a, Wat wciaz niczego nie wie.

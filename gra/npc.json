@@ -842,9 +842,11 @@
    "zaufanie": 2,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
-    "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje"
+    "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
+    "proponowal ZAPIECZETOWAC piwnice i odizolowac klucznika na czas remanentu — Godric odmowil, nie ruszy jawnie wlasnego czlowieka na przeczucie"
    ],
-   "ostatni_kontakt": "296-10-08"
+   "ostatni_kontakt": "296-10-09",
+   "status": "OSTROZNY: ufa Symonowi, ale nie zamknie piwnicy/nie zawstydzi Wata publicznie bez PEWNOSCI. Chce cichej pewnosci najpierw, potem sam zdecyduje o kroku jawnym."
   },
   {
    "id": "wat_klucznik",

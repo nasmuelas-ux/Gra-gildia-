@@ -145,6 +145,22 @@
    "znak": "++ (kontra na smear cechu u zrodla)",
    "od_dnia": "296-09-30",
    "sila": "swieza, mocna"
+  },
+  {
+   "tresc": "cechmistrz koladziejow reczy za pisarza Septy — caly cech go zna i lubi; a Pisarze? coraz bardziej osamotnieni w tym skrzeczeniu",
+   "zrodlo": "cech koladziejow/Schody",
+   "sfera": "cechy, kupcy Schodow",
+   "znak": "++ (waga guild-to-guild; izoluje Pisarzy)",
+   "od_dnia": "296-09-30",
+   "sila": "mocna"
+  },
+  {
+   "tresc": "Pisarze wsciekli, ze obcy skryba montuje przeciw nim Wiare i inne cechy — szykuja cos ostrzejszego",
+   "zrodlo": "cech pisarzy (podskornie)",
+   "sfera": "cech, Schody",
+   "znak": "- (eskalacja: cech szuka brudniejszego kata)",
+   "od_dnia": "296-09-30",
+   "sila": "rosnie cicho"
   }
  ]
 }

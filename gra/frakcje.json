@@ -41,7 +41,7 @@
     "przychylnosc rady",
     "poborcy cechowi"
    ],
-   "nastawienie_do_gracza": -9,
+   "nastawienie_do_gracza": -11,
    "konflikt_z": [
     "kupcy_braavijscy"
    ],
@@ -53,7 +53,8 @@
     "zauwazony i zaczepiony przy Bramie Foki",
     "stawia opor, targuje sie zamiast placic",
     "robi audyty/rachunki jako nielicencjonowany obcy spod Wiary — podbiera cechowi robote i zyskuje reputacje; Mennard oglasza go partaczem/oszustem, odradza kupcom",
-    "d29: Wiara wziela go pod opieke jako pisarza Septy — smear 'nielicencjonowany' NIETRAFNY; cech zablokowany na tej linii, szuka innego kata (wsciekly)"
+    "d29: Wiara wziela go pod opieke jako pisarza Septy — smear 'nielicencjonowany' NIETRAFNY; cech zablokowany na tej linii, szuka innego kata (wsciekly)",
+    "d30: Symon zbiera przeciw nim SOJUSZNIKOW (Wiara + cech koladziejow) — juz nie natret, a WROG montujacy fakcje; cech eskaluje, szuka OSTRZEJSZEGO/brudniejszego kata"
    ]
   },
   {
@@ -161,7 +162,7 @@
     "solidarnosc cechowa",
     "mistrz Boren"
    ],
-   "nastawienie_do_gracza": 22,
+   "nastawienie_do_gracza": 25,
    "konflikt_z": [
     "podziemie"
    ],

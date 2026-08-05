@@ -110,7 +110,7 @@
    "typ": "strategia",
    "termin": null,
    "wobec": "self",
-   "stan": "PRZELOM (d29, rzut 98): OWEN ogłosił Symona PISARZEM SEPTY pod PUBLICZNA OPIEKA WIARY. EFEKT: (1) cechowa bron 'nielicencjonowany partacz' NEUTRALIZOWANA — pisze pod PRAWEM WIARY, poza monopolem cechu; (2) Harwin traci PRETEKST (nie sciga sie Faith-sanctioned skryby za brak licencji) i tknac bohatera reliefu pod opieka Siedmiu = obraza Wiary + gniew miasta; (3) smear Mennarda obraca sie w atak na Wiare (kontrproduktywny). POZOSTAJE: cech wsciekly, szuka INNEGO kata (nie 'licencja'); dochod odbuduje sie z legitymacja + poreczeniami kupcow (jutro Vox/Leona/Boren). STRING: Symon winien Sepcie sluzbe/przyzwoitosc/lojalnosc — mniej wolny. | D30: VOX PORECZYL (rzut 58) — otwarcie u kupcow Schodow ('ufam jego ksiegom'); kontr-smear rusza u zrodla. Bonus: Vox oferuje platny audyt swego dostawcy (odbudowa dochodu). Zostaja Leona, Boren."
+   "stan": "PRZELOM (d29, rzut 98): OWEN ogłosił Symona PISARZEM SEPTY pod PUBLICZNA OPIEKA WIARY. EFEKT: (1) cechowa bron 'nielicencjonowany partacz' NEUTRALIZOWANA — pisze pod PRAWEM WIARY, poza monopolem cechu; (2) Harwin traci PRETEKST (nie sciga sie Faith-sanctioned skryby za brak licencji) i tknac bohatera reliefu pod opieka Siedmiu = obraza Wiary + gniew miasta; (3) smear Mennarda obraca sie w atak na Wiare (kontrproduktywny). POZOSTAJE: cech wsciekly, szuka INNEGO kata (nie 'licencja'); dochod odbuduje sie z legitymacja + poreczeniami kupcow (jutro Vox/Leona/Boren). STRING: Symon winien Sepcie sluzbe/przyzwoitosc/lojalnosc — mniej wolny. | D30: VOX PORECZYL (rzut 58) — otwarcie u kupcow Schodow ('ufam jego ksiegom'); kontr-smear rusza u zrodla. Bonus: Vox oferuje platny audyt swego dostawcy (odbudowa dochodu). Zostaja Leona, Boren. | D30: BOREN PORECZYL guild-to-guild (rzut 15, sukces z KOSZTEM) + stala robota koladziejow (dochod). KOSZT: wciagniecie rywalskiego cechu ZAOSTRZA wrogosc Pisarzy — dla nich juz nie natret, a WROG montujacy fakcje (Wiara+cech); cech eskaluje, szuka OSTRZEJSZEGO/brudniejszego kata (flaga). Boren ostrzegl wprost. Zostaje Leona."
   },
   {
    "id": "ksiegozbior_septy",
@@ -407,6 +407,14 @@
    "termin": null,
    "wobec": "kupiec_vox",
    "stan": "OTWARTE — oferta pracy (dochod po smearze) + poglebia sojusz z Voxem; do podjecia"
+  },
+  {
+   "id": "robota_koladzieje",
+   "opis": "Cech koladziejow (Boren) daje Symonowi STALA robote skryby (ksiegi/umowy cechu) — pewny, powtarzalny dochod",
+   "typ": "okazja",
+   "termin": null,
+   "wobec": "boren_koladziej",
+   "stan": "OTWARTE — staly dochod cechowy (odbudowa po smearze)"
   }
  ]
 }

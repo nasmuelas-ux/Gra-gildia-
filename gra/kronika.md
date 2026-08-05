@@ -1596,3 +1596,7 @@ Symon je, idzie na spotkanie z zarzadca GODRIKIEM (dom blisko dworu/dostawca Now
 
 ## 296-10-08 POLUDNIE — audyt Godrica: zakres okreslony (rzut 11, czysto)
 Symon nie rzucil sie na kufry. Zapytal wprost o zakres i cel, obiecal patrzec tylko tam, gdzie steward wskaze. Godric — ostrozny, ale rozluzniony ta wlasnie postawa — okreslil sprawe waska: ksiegi prowiantowe kuchni i piwnicy za dwa kwartaly, dostawy przeciw wyplatom, bo liczby sie nie schodza. Chce wiedziec: niechlujstwo pisarza czy kradziez — ZANIM to komukolwiek pokaze. Reszte ksiag odgrodzil. Dyskrecja-jako-lojalnosc kupila zaufanie stewarda (nast +7).
+
+
+## 296-10-08 POLUDNIE — audyt Godrica, sesja I (rzuty 96 / 30)
+Symon zagral jak audytor, nie jak lowca sensacji. Poprosil najpierw o kwity dostawcze i imie przyjmujacego, delikatnie sondujac, czy steward juz kogos podejrzewa. Godric wydal kwity gladko i podal imie — WAT, klucznik piwnicy, jego wlasny czlowiek — przyznajac ciche zle przeczucie, lecz nazwiska nie wypowiadajac: 'ty mi powiedz czysto'. Nad ksiegami na sucho Symon zobaczyl WZOR: roznice nie sa przypadkowe, skupiaja sie na winie i solonej rybie, jedna reka wpisow. Ale kradziez od fudge'owanego ubytku odroznic bez zestawienia kwitow linia-po-linii jeszcze nie umie. Werdykt niepelny — trzeba drugiej sesji. I ciezar rosnie: winowajca to czlowiek Godrica.

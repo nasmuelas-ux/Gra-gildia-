@@ -150,3 +150,7 @@ niosa dowod tam, gdzie wrog jada z establishmentem). Bez konfrontacji: Ryman NIE
 Symona ani nie wie o liscie — asymetria trwa. Symon zna teraz twarz wroga, co moze sie
 przydac (rozpozna go). Emocjonalny ciezar: patrzysz na czlowieka, ktory moze zabil twojego
 maestra, a on cie nie widzi.
+
+
+## Audyt Godrica — PRAWDA (296-10-08)
+Wat, klucznik piwnicy (podwladny Godrica), od miesiecy zanizal wpisy ubytku wina i solonej ryby, roznice kladac do wlasnej kaletki — drobno, ale staly wzor. Lekko abetowany przez jednego dostawcę, ktory zaokragla dostawy w gore (cichy uklad). Godric podejrzewa Wata, ale nie moze ruszyc bez dowodu: to jego czlowiek, a bledny ruch = wstyd stewarda przed lordem. Dlatego zewnetrzny, pismienny, bezcechowy Symon jest idealny — i niewygodny jako swiadek. Symon jeszcze tego nie wie na pewno (dry read: tylko wzor: wino+ryba, jedna reka).

@@ -837,13 +837,27 @@
    "id": "zarzadca_godric",
    "imie": "Godric",
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
-   "nastawienie_do_gracza": 17,
+   "nastawienie_do_gracza": 18,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
    "zaufanie": 2,
    "wie_o_graczu": [
-    "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny"
+    "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
+    "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje"
    ],
    "ostatni_kontakt": "296-10-08"
+  },
+  {
+   "id": "wat_klucznik",
+   "imie": "Wat",
+   "przydomek": "klucznik",
+   "zawod": "klucznik piwnicy / przyjmuje prowiant na Nowym Zamku (czlowiek Godrica)",
+   "mieszka": "Nowy_Zamek_izby_sluzby",
+   "nastawienie_do_gracza": 0,
+   "zaufanie": 0,
+   "wie_o_graczu": [],
+   "ostatni_kontakt": null,
+   "cechy_mowy": "usluzny, gladki, duzo 'oczywiscie panie'",
+   "status": "PODEJRZANY (audyt Godrica)"
   }
  ],
  "orbita": [

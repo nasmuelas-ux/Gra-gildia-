@@ -1628,3 +1628,7 @@ Symon pocwiczyl przed snem i przespal noc porzadnie (zmeczenie 2, zdrowie 81). P
 
 ## 296-10-10 RANEK/POLUDNIE — kontra plotce Osgara (rzut 76)
 Symon nie krzyczal 'kantor stoi' — zrobil, jak radzila Nesta. Poszedl do Leony, kotwicy Schodow (nast 30), i podrzucil spokojny glos: to Osgarowa gorycz po zbozu, nie zadna prawda. Leona puscila to chetnie dalej, a Nesta prowadzila interes na widoku jak gdyby nigdy nic. Slaba plotka o jawnym, smierdzacym zrodle nie miala szans — zdusili ja i OBROCILI przeciw Osgarowi: teraz ludzie widza, kto dmuchal, i to jego renoma (juz nadszarpnieta po reliefie) obrywa. Zegar zagrozenia zduszony, +1 na Schodach. Koszt cichy: uraza Osgara twardnieje w cos osobistego — nastepnym razem uderzy moze ciszej i sprytniej; a partnerstwo Symona z kantorem stalo sie mniej ukrywalne. Rata Antaryonow — realny problem — wciaz tyka, ~5 dni.
+
+
+## 296-10-10 POLUDNIE — flip: rynek jeszcze nie dojrzal, trzymam
+Symon obszedl szewcow i kusnierzy na Schodach z zimowymi skorami Colla, ale na d10 nikt nie placi jeszcze zimowej ceny — popyt dopiero sie rozgrzewa. Nie sprzedaje; zwija towar i czeka na szczyt (okno do ~14-go). Kapital ~8 jel dalej w skorach, nic nie stracone. Potem siada nad wlasna lista zobowiazan, by rozwazyc nastepny ruch.

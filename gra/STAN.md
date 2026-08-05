@@ -2,18 +2,18 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-10-09 POLUDNIE · schylek dlugiego lata
+- **Data:** 296-10-09 RANEK · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** Poludnie, chlodno i mokro. AUDYT LORDA rozstrzygniety, ale zle podany: dowod twardy (Wat kradl), lecz klucznik uprzedzil Symona smearem u Godrica, a wstyd zmrozil stewarda — drzwi ku lordowi zatrzasni
+- **Nastroje:** Poranek chlodny i wilgotny, mgla znad Bialego Noza. Audyt lorda w toku (cicho). Bierny siew origin-narracji DOJRZAL — sondaz cechu o pochodzenie Symona rozmyty naturalna gadanina poreczajacych. W tle:
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 21 jeleni + 4 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 80 · Sytosc 90 · Zmeczenie 4
+- Zdrowie 80 · Sytosc 100 · Zmeczenie 2
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 4
@@ -58,4 +58,4 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **uraza_osgara** [OTWARTE ]: OTWARTE — echo 'majatek rosnie za szybko = swiat reaguje'
 - **sojusz_kolodzieje** [MOCNY — ]: MOCNY — dlug wdziecznosci cechu
 - **sprawa_elny_lorren** [WYGRANA ]: WYGRANA — Elna bezpieczna, Symon w cieniu; Lorren odparty (uraza)
-- **wiekszy_patron** [SZCZEBEL]: SZCZEBEL PEKL (d9): droga do lorda Wymana przez Godrica ZABLOKOWANA — audyt wyszedl fachowo, ale winowajca byl czlowiekiem stewarda; wstyd + smear Wat
+- **wiekszy_patron** [SZCZEBEL]: SZCZEBEL ZDOBYTY: Godric (steward lorda) dal Symonowi dyskretne zlecenie audytu — pierwsza realna noga w drzwiach kregu lorda Wymana. Zasada wciaz: za

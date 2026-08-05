@@ -154,3 +154,6 @@ maestra, a on cie nie widzi.
 
 ## Audyt Godrica — PRAWDA (296-10-08)
 Wat, klucznik piwnicy (podwladny Godrica), od miesiecy zanizal wpisy ubytku wina i solonej ryby, roznice kladac do wlasnej kaletki — drobno, ale staly wzor. Lekko abetowany przez jednego dostawcę, ktory zaokragla dostawy w gore (cichy uklad). Godric podejrzewa Wata, ale nie moze ruszyc bez dowodu: to jego czlowiek, a bledny ruch = wstyd stewarda przed lordem. Dlatego zewnetrzny, pismienny, bezcechowy Symon jest idealny — i niewygodny jako swiadek. Symon jeszcze tego nie wie na pewno (dry read: tylko wzor: wino+ryba, jedna reka).
+
+## Podanie werdyktu — cicho (296-10-09) — sukces (rzut 56)
+Roznica wobec nieudanej sciezki: metoda byla cicha (logika zuzycia + Garth), wiec Wat nigdy nie zostal sploszony i nie zdazyl z preemptywnym smearem; Godric dostal to, o co PROSIL (pewnosc, zanim jawny ruch), wiec nie byl zawstydzony obcym-snoopem. Efekt: steward wdzieczny, ceni Symona, zajmie sie Watem sam. Najwazniejsze: Symon NIE jest wystawiony jako lowca — Wat nie wie, kto go policzyl, wiec brak wroga i brak dynamiki 'niewygodnego swiadka'. Symon zdobyl realny foothold ku lordowi Wymanowi wartoscia, nie prosba, i bez ceny.

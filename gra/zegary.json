@@ -71,6 +71,12 @@
    "odlicza_do": "296-10-14",
    "co_sie_stanie": "przy poglebiajacym mrozie sprzedac z zyskiem (rzut); nie czekac na absolutny szczyt",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "godric_rozprawa_wat",
+   "odlicza_do": "296-10-13",
+   "typ": "tlo",
+   "opis": "Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon poza kadrem — nie wystawiony."
   }
  ]
 }

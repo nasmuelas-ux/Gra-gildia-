@@ -2,7 +2,7 @@
  "watki": [
   {
    "id": "godric_audyt",
-   "stan": "WERDYKT ZLOZONY CICHO (d9, rzuty 58/64) — dokladnie jak Godric chcial. DWIE niezalezne kotwice, zadna nie tyka Wata ani piwnicy: (1) LOGIKA ZUZYCIA: household tylu ludzi nie mogl wypic/zjesc tyle wina i solonej ryby, ile wpisano w rozchod — nadwyzka wyszla bokiem; (2) GARTH: zapisy dostaw portowych (Brama Foki) daja realna ilosc, ktora landowala — nie zgadza sie z tym, co Wat ksiegowal jako przyjete. Zbiegaja sie na tym samym ubytku, JEDNA REKA, dwa towary (wino+solona ryba), ~pare smokow/2 kwartaly. Dowod z rozumowania+zewnetrzny, obroni sie. Wat NIEsploszony (przewaga zaskoczenia zachowana). ZOSTAJE: podanie werdyktu Godricowi (fakt+dyskrecja+jego decyzja), tym razem bez wyscigu z Watem. To wciaz szczebel ku lordowi Wymanowi — jesli podanie wyjdzie."
+   "stan": "ZAMKNIETE CZYSTO (d9, rzut 56): werdykt podany cicho — fakt+dyskrecja+decyzja-jego, dokladnie jak Godric zamowil. Steward WDZIECZNY, przyjal pewnosc, zajmie sie Watem SAM (po cichu, wlasne warunki). Zaplacil umowione 3 jel + 2 za rozum i milczenie (+5). KLUCZOWE: bo droga byla cicha, Symon NIE jest wystawiony jako ten, co przylapal — Wat nie wie, brak wroga, brak 'niewygodnego swiadka'. Symon zbankowany jako dyskretny instrument stewarda. To realny szczebel ku lordowi Wymanowi (nie audiencja od reki — foothold+pamiec+zapowiedz dalszej roboty)."
   },
   {
    "id": "czynsz",
@@ -98,7 +98,7 @@
    "typ": "okazja/dylemat",
    "termin": "296-08-09",
    "wobec": "faktor_duzego_domu",
-   "stan": "SZCZEBEL ZDOBYTY: Godric (steward lorda) dal Symonowi dyskretne zlecenie audytu — pierwsza realna noga w drzwiach kregu lorda Wymana. Zasada wciaz: zasluz/badz cenny. Teraz: wykonac audyt tak, by Godric zyskal (dyskrecja+trafnosc), nie stracil."
+   "stan": "SZCZEBEL ZDOBYTY NAPRAWDE (d9): audyt Godrica domkniety wzorowo i CICHO — steward (nast 26, ufa) ceni Symona jako dyskretnego, bezpiecznego czlowieka i zapowiada dalszy uzytek. To cieply KANAL ku kregowi lorda Wymana — jeszcze nie audiencja (awans w latach, nie tygodniach), ale prawdziwy foothold zbudowany przez WARTOSC, nie prosbe. Inne drogi (Winterfell/Bank/siec) rownolegle."
   },
   {
    "id": "wlasne_lokum",

@@ -97,7 +97,7 @@
     "kontuzja plecow",
     "ze go ominie lepsza fucha"
    ],
-   "nastawienie_do_gracza": 32,
+   "nastawienie_do_gracza": 33,
    "zaufanie": 9,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
@@ -116,7 +116,7 @@
     "boi sie Harwina; zorganizowal mu nieformalna ochrone portu"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-04",
+   "ostatni_kontakt": "296-10-05",
    "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo"
   },
   {
@@ -817,7 +817,7 @@
    "imie": "Gunthor",
    "zawod": "cechowy posrednik/naganiacz, czlowiek Harwina; wypytuje po porcie o pochodzenie Symona",
    "nastawienie_do_gracza": -5,
-   "nota": "NAMIERZONY (m10d4, rzut 79): to on weszy o przeszlosc Symona; lancuch Gunthor -> Harwin/Mennard -> cech. Symon ma teraz oko na TEN kanal (moze weń wpuszczac nudna narracje / wiedziec, co cech sie dowiaduje)"
+   "nota": "NAMIERZONY (m10d4, rzut 79): to on weszy o przeszlosc Symona; lancuch Gunthor -> Harwin/Mennard -> cech. Symon ma teraz oko na TEN kanal (moze weń wpuszczac nudna narracje / wiedziec, co cech sie dowiaduje) | m10d5: Gunthor zaczyna dostawac TE SAMA nudna historie (sierota+maester) z ust, ktorym ufa (Dobb, Wenda) — trop obumiera, sondaz sie DEFUZUJE"
   }
  ],
  "orbita": [

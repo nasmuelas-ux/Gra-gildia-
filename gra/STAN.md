@@ -2,18 +2,18 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-10-10 POLUDNIE · schylek dlugiego lata
+- **Data:** 296-10-11 RANEK · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** Poludnie d10, chlodno i mokro. Plotka Osgara o 'upadku kantoru' ZDUSZONA i odwrocona (kontra Leony/kupcow, rzut 76) — obrocila sie przeciw Osgarowi. Jego uraza jednak twardnieje, osobista. W tle: rata
+- **Nastroje:** Ranek d11, mrozno i wilgotno ku zimie. Dossier dla Banku niemal gotowe (draft mocny, rzut 72) + UDOKUMENTOWANE zawyzenie raty Antaryonow ponad umowe = amunicja. Belarno wyplywa ~10-12 — zostaje czysto
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 22 jeleni + 4 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 81 · Sytosc 60 · Zmeczenie 2
+- Zdrowie 81 · Sytosc 70 · Zmeczenie 2
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 4
@@ -49,7 +49,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-10-14` flip_sprzedaz: Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusn
 - ◆ `296-10-13` godric_rozprawa_wat: Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon
 - ◆ `296-10-30` bank_sondaz_szybki: Szybki sondaz do Zelaznego Banku pchniety galera kpt. Belarno (~10-12 wyplywa) do agenta domu Nesty — ODPOWIED
-- ◆ `296-10-12` dossier_deadline: Symon musi skonczyc audytorskie DOSSIER (kantor zdrowy + rata Antaryonow napompowana, dlug serwisowalny) ZANIM
+- ◆ `296-10-12` dossier_deadline: Dossier dla Banku: DRAFT MOCNY gotowy (rzut 72), z udokumentowanym zawyzeniem raty ponad umowe. Zostaje CZYSTO
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

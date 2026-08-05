@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 10,
+  "dzien": 11,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 39,
- "dzien_tygodnia_nr": 5,
+ "pogoda": 37,
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "Poludnie d10, chlodno i mokro. Plotka Osgara o 'upadku kantoru' ZDUSZONA i odwrocona (kontra Leony/kupcow, rzut 76) — obrocila sie przeciw Osgarowi. Jego uraza jednak twardnieje, osobista. W tle: rata Antaryonow ~5 dni (realny problem zostaje); Godric wdzieczny; Wat skazany po cichu; Harwin przyczajony.",
+ "nastroje_miasta": "Ranek d11, mrozno i wilgotno ku zimie. Dossier dla Banku niemal gotowe (draft mocny, rzut 72) + UDOKUMENTOWANE zawyzenie raty Antaryonow ponad umowe = amunicja. Belarno wyplywa ~10-12 — zostaje czystopis+pieczec. Standing kupiecki trzyma; Ternesio (jeszcze) nie ruszyl. Rata ~4 dni; flip okno do ~14.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 10
+ "dzien": 11
 }

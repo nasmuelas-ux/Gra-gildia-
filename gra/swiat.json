@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 9,
-  "dzien": 29,
+  "dzien": 30,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 92,
- "dzien_tygodnia_nr": 1,
+ "pogoda": 26,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "Miasto syte i spokojniejsze po reliefie; wdziecznosc dolu trwa. PODSKORNIE dalej: smear cechu (Mennard) saczy sie u kupcow, Harwin wypytuje, uraza Osgara cicha. SIARCZYSTY MROZ — jesien wgryza sie w Polnoc; opal drozeje, biedota marznie.",
+ "nastroje_miasta": "Wiesc o opiece Wiary nad 'pisarzem Septy, co nakarmil glodnych' osiada — pobozni i dol umocnieni w sympatii; cech (Mennard/Harwin) WSCIEKLY ale zablokowany na linii licencji, przegrupowuje/szuka innego kata. Szaro, mokro, przenikliwie zimno — mroz zszedl w jesienna maz; opal drozeje.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -35,7 +35,7 @@
   "opal": {
    "baza": 8,
    "mnoznik": 1.4,
-   "przyczyna": "siarczysty mroz, jesien"
+   "przyczyna": "zimna, mokra jesien"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 29
+ "dzien": 30
 }

@@ -69,6 +69,18 @@
    "odlicza_do": "296-10-13",
    "typ": "tlo",
    "opis": "Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon poza kadrem — nie wystawiony."
+  },
+  {
+   "id": "bank_sondaz_szybki",
+   "odlicza_do": "296-10-30",
+   "typ": "szansa",
+   "opis": "Szybki sondaz do Zelaznego Banku pchniety galera kpt. Belarno (~10-12 wyplywa) do agenta domu Nesty — ODPOWIEDZ ETA ~10-30 (szybciej niz petla pryncypala 11-10). Warunek: dossier Symona nadaje mu wage. Czyni sygnal 'Bank zaangazowany' PRAWDZIWYM juz teraz."
+  },
+  {
+   "id": "dossier_deadline",
+   "odlicza_do": "296-10-12",
+   "typ": "zadanie",
+   "opis": "Symon musi skonczyc audytorskie DOSSIER (kantor zdrowy + rata Antaryonow napompowana, dlug serwisowalny) ZANIM Belarno wyplynie ~10-12 — inaczej sondaz plynie slaby/bez wagi Banku."
   }
  ]
 }

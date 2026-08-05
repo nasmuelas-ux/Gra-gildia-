@@ -63,6 +63,14 @@
    "odlicza_do": "296-11-10",
    "co_sie_stanie": "odpowiedz: czy pryncypal/Bank zainteresowany przejeciem dlugu (i na jakich warunkach) — LUB odmowa/cisza; kamien milowy refinansowania",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "siew_narracji_bierny",
+   "typ": "okazja",
+   "opis": "Bierny siew benignnej narracji origin przez Nesta/Owena/poreczajacych (naturalnie, dniami) — rozmywa sondaz cechu o pochodzenie; Symon ma byc nudny, jesli pytany",
+   "odlicza_do": "296-10-12",
+   "co_sie_stanie": "po ~tygodniu nudna, spojna historia osiada jako 'zwykla prawda' → sondaz cechu o pochodzenie traci trop (jesli nic nie zaklocilo)",
+   "widoczny_graczowi": true
   }
  ]
 }

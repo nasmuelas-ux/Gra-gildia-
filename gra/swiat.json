@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 9,
-  "dzien": 28,
+  "dzien": 29,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 92,
- "dzien_tygodnia_nr": 7,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "Po reliefie miasto spokojniejsze i syte; wdziecznosc dolu ku 'skrybie, co sluzyl glodnym' i Wierze trwa. PODSKORNIE: cech (Mennard) saczy wsrod kupcow/rady, ze Symon to nielicencjonowany 'partacz/oszust'; Harwin wypytuje na Schodach. Uraza Osgara ciche-wroga. Pierwsze przymrozki — sezon sie lamie ku jesieni.",
+ "nastroje_miasta": "Miasto syte i spokojniejsze po reliefie; wdziecznosc dolu trwa. PODSKORNIE dalej: smear cechu (Mennard) saczy sie u kupcow, Harwin wypytuje, uraza Osgara cicha. SIARCZYSTY MROZ — jesien wgryza sie w Polnoc; opal drozeje, biedota marznie.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.2,
-   "przyczyna": "chlodne lato na Polnocy"
+   "mnoznik": 1.4,
+   "przyczyna": "siarczysty mroz, jesien"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 28
+ "dzien": 29
 }

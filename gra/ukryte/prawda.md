@@ -157,3 +157,6 @@ Wat, klucznik piwnicy (podwladny Godrica), od miesiecy zanizal wpisy ubytku wina
 
 ## Audyt Godrica — remanent (296-10-09)
 Remanent potwierdzil skim: fizycznie brakuje wina i solonej ryby ponad ksiege — Wat zanizal ubytek/przyjmowal zawyzone kwity, roznice kladl do kaletki, lekko abetowany przez dostawce. Symon ma twardy dowod. Ale Wat wyczul, ze obcy liczyl jego piwnice — jest sploszony i od teraz gra na przetrwanie: moze zacierac, zniszczyc kwit-dowod, uciec lub uprzedzic Godrica wlasna wersja ('to obcy podrzucil', 'to pomylka').
+
+## Podanie werdyktu (296-10-09) — porazka z komplikacja (rzut 2)
+Wat, sploszony remanentem, doszedl do Godrica PIERWSZY (albo przez sluzbe) z preemptywnym jadem: 'obcy pismienny myszkowal w mojej piwnicy, przestawial beczki, robi cos przeciw tobie, panie'. Gdy Symon przyszedl z prawda, Godric byl juz zatruty podejrzeniem I zawstydzony faktem, ze wlasny zaufany klucznik okradal go pol roku. Liczb nie da sie zaprzeczyc — wiec Godric je przyjal, ale zamknal sie: 'sam sie tym zajme'. Zamrozil Symona, bo Symon teraz WIE o kompromitacji jego household. Wat jest skazany (Godric po cichu go zlamie/wyrzuci), ale zdazyl obrzydzic Symona stewardowi. Rung ku lordowi peka. Motyw kanonu skryby zaplacil: piismiennosc jako niewygodne swiadectwo.

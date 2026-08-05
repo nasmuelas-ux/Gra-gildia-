@@ -6,7 +6,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** Poludnie, chlodno i mokro. AUDYT LORDA: werdykt gotowy — twardy ubytek wina i solonej ryby (kradziez, nie ubytek), reka Wata. ALE Wat sie sploszyl: wyczul, ze liczono jego piwnice. Symon trzyma dowod,
+- **Nastroje:** Poludnie, chlodno i mokro. AUDYT LORDA rozstrzygniety, ale zle podany: dowod twardy (Wat kradl), lecz klucznik uprzedzil Symona smearem u Godrica, a wstyd zmrozil stewarda — drzwi ku lordowi zatrzasni
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 21 jeleni + 4 mied + 0 smokow
@@ -48,7 +48,6 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ⚠ `296-10-15` antaryon_termin: Termin (rata) dlugu Nesty wobec domu Antaryon sie zbliza — Ternesio dociska; faktoria pod presja i pod obserwa
 - ◆ `296-11-10` odpowiedz_pryncypala: Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Bank
 - ◆ `296-10-14` flip_sprzedaz: Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusn
-- ⚠ `296-10-11` wat_sploszony: Wat sploszony remanentem — moze zacierac slady, zniszczyc kwit, uciec albo pierwszy pobiec do Godrica/protekto
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [OTWARTE/]: OTWARTE/GLOWNE — MIEKKI OFF-RAMP JUZ ROZEGRANY I PRZEGRANY (296-08-20, rzut 29): Ternesio obstal przy zawyzeniu, Nesta zaplacila napompowana rate ~+1 
@@ -59,4 +58,4 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **uraza_osgara** [OTWARTE ]: OTWARTE — echo 'majatek rosnie za szybko = swiat reaguje'
 - **sojusz_kolodzieje** [MOCNY — ]: MOCNY — dlug wdziecznosci cechu
 - **sprawa_elny_lorren** [WYGRANA ]: WYGRANA — Elna bezpieczna, Symon w cieniu; Lorren odparty (uraza)
-- **wiekszy_patron** [SZCZEBEL]: SZCZEBEL ZDOBYTY: Godric (steward lorda) dal Symonowi dyskretne zlecenie audytu — pierwsza realna noga w drzwiach kregu lorda Wymana. Zasada wciaz: za
+- **wiekszy_patron** [SZCZEBEL]: SZCZEBEL PEKL (d9): droga do lorda Wymana przez Godrica ZABLOKOWANA — audyt wyszedl fachowo, ale winowajca byl czlowiekiem stewarda; wstyd + smear Wat

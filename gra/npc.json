@@ -837,14 +837,16 @@
    "id": "zarzadca_godric",
    "imie": "Godric",
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
-   "nastawienie_do_gracza": 18,
+   "nastawienie_do_gracza": 9,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-   "zaufanie": 2,
+   "zaufanie": 1,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
-    "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje"
+    "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
+    "ZNA WSTYDLIWA PRAWDE: household Godrica okradany pol roku przez jego wlasnego klucznika — Symon to niewygodny swiadek"
    ],
-   "ostatni_kontakt": "296-10-08"
+   "ostatni_kontakt": "296-10-09",
+   "status": "ZMROZONY: fakty przyjal (ubytek realny), ale Wat uprzedzil smearem; Godric zawstydzony+gardowany, zamyka drzwi ku lordowi"
   },
   {
    "id": "wat_klucznik",
@@ -852,14 +854,15 @@
    "przydomek": "klucznik",
    "zawod": "klucznik piwnicy / przyjmuje prowiant na Nowym Zamku (czlowiek Godrica)",
    "mieszka": "Nowy_Zamek_izby_sluzby",
-   "nastawienie_do_gracza": -6,
+   "nastawienie_do_gracza": -10,
    "zaufanie": 0,
    "wie_o_graczu": [
-    "obcy pismienny liczyl beczki w jego piwnicy — wie, ze ktos go sprawdza"
+    "obcy pismienny liczyl beczki w jego piwnicy — wie, ze ktos go sprawdza",
+    "obwinia Symona; probowal go pograzyc u stewarda pierwszy"
    ],
    "ostatni_kontakt": null,
    "cechy_mowy": "usluzny, gladki, duzo 'oczywiscie panie'",
-   "status": "SPLOSZONY — wyczul remanent, czujny, moze zacierac slady / uprzedzic wersja u Godrica lub protektora"
+   "status": "WROG CZYNNY: uprzedzil Symona u Godrica smearem (\"obcy myszkowal w mojej piwnicy, robi cos przeciw tobie\"). Skazany (dowod realny), ale zdazyl zatruc studnie. Godric rozprawi sie z nim po cichu."
   }
  ],
  "orbita": [

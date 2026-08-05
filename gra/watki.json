@@ -2,7 +2,7 @@
  "watki": [
   {
    "id": "godric_audyt",
-   "stan": "WERDYKT GOTOWY (d9, remanent, rzut B 61 — twardo): fizyczny ubytek wina i solonej ryby, ktorego kwit ani ksiega nie tlumacza — to KRADZIEZ, nie ubytek. Skala ~pare smokow przez 2 kwartaly, jedna reka: Wat (przyjmowal, zanizal, roznice bral). KOMPLIKACJA (rzut A 24): remanent NIE byl czysty — Wat sie sploszyl, wie ze liczono jego piwnice. DO ZROBIENIA (pilne): dostarczyc werdykt Godricowi ZANIM Wat zatrze slady/uprzedzi wlasna wersja; oprawic tak, by Godric wyszedl madrze (jego czlowiek!), nie zawstydzony. To wciaz szczebel ku lordowi Wymanowi."
+   "stan": "ROZSTRZYGNIETE, ZLE PODANE (d9, rzut 2 — porazka z komplikacja): Symon dostarczyl TWARDY werdykt (ubytek realny, kradziez, Wat). ALE Wat uprzedzil go u Godrica preemptywnym smearem ('obcy myszkowal, dziala przeciw tobie'), a prawda — ze wlasny czlowiek okradal go pol roku — ZAWSTYDZILA stewarda. Godric przyjal kwity, powiedzial ze 'sam sie tym zajmie', ZAMROZIL Symona: nast 18->9, zaufanie w dol. Retainer 3 jel wyplacony, ale DRZWI KU LORDOWI SIE ZAMKNELY (na teraz). Symon = niewygodny swiadek shame'u Godrica. Wat skazany, ale zatrul studnie."
   },
   {
    "id": "czynsz",
@@ -98,7 +98,7 @@
    "typ": "okazja/dylemat",
    "termin": "296-08-09",
    "wobec": "faktor_duzego_domu",
-   "stan": "SZCZEBEL ZDOBYTY: Godric (steward lorda) dal Symonowi dyskretne zlecenie audytu — pierwsza realna noga w drzwiach kregu lorda Wymana. Zasada wciaz: zasluz/badz cenny. Teraz: wykonac audyt tak, by Godric zyskal (dyskrecja+trafnosc), nie stracil."
+   "stan": "SZCZEBEL PEKL (d9): droga do lorda Wymana przez Godrica ZABLOKOWANA — audyt wyszedl fachowo, ale winowajca byl czlowiekiem stewarda; wstyd + smear Wata zmrozily patrona. TEMAT (kanon skryby): 'kto zna cudze rachunki, jest niewygodnym swiadkiem'. Ember: finding prawdziwy, Wat padnie — gdy kurz opadnie, Godric moze cicho przyznac, ze Symon byl rzetelny i dyskretny. Inne drogi do protektora dalej otwarte (Winterfell/Bank/siec)."
   },
   {
    "id": "wlasne_lokum",

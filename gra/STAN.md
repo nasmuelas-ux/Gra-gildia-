@@ -2,18 +2,18 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-10-09 RANEK · schylek dlugiego lata
+- **Data:** 296-10-09 POLUDNIE · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** Poranek chlodny i wilgotny, mgla znad Bialego Noza. Audyt lorda w toku (cicho). Bierny siew origin-narracji DOJRZAL — sondaz cechu o pochodzenie Symona rozmyty naturalna gadanina poreczajacych. W tle:
+- **Nastroje:** Poludnie, chlodno i mokro. AUDYT LORDA: werdykt zlozony CICHO i twardo — logika zuzycia (household nie mogl tyle wypic/zjesc) + korroboracja Gartha (dostawy portowe wina/solonej ryby przez Brame Foki)
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 21 jeleni + 4 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 80 · Sytosc 100 · Zmeczenie 2
+- Zdrowie 80 · Sytosc 85 · Zmeczenie 4
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 4
@@ -25,7 +25,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 14
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 33
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 35
-- **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 18
+- **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 19
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 37
 - **Lorren** (lorren_lichwiarz) — lichwiarz spod Wilczego Legu · nast -4

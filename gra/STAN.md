@@ -48,7 +48,7 @@ pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ⚠ `296-10-15` antaryon_termin: Termin (rata) dlugu Nesty wobec domu Antaryon sie zbliza — Ternesio dociska; faktoria pod presja i pod obserwa
 
 ## WATKI OTWARTE (najwazniejsze u gory)
-- **audyt_dlugu_antaryon** [OTWARTE/]: OTWARTE/GLOWNE — dom ANTARYON (Ternesio) zawyzyl dlug Nesty I zanizal clo (dowod w manifestach, d17). Podwojna dzwignia. Kanal Garth=zimny (maly urzed
+- **audyt_dlugu_antaryon** [OTWARTE/]: OTWARTE/GLOWNE — MIEKKI OFF-RAMP JUZ ROZEGRANY I PRZEGRANY (296-08-20, rzut 29): Ternesio obstal przy zawyzeniu, Nesta zaplacila napompowana rate ~+1 
 - **wolnosc_od_harwina** [ŻYWE/PIL]: ŻYWE/PILNE — cech (Mennard) sieje smear 'partacz/oszust' u kupcow/rady; Harwin wypytuje na Schodach. NARADA z Owenem (d28): sedno ataku = 'nielicencjo
 - **list_ze_starego_zamku** [Maester ]: Maester THEOMORE ODMOWIL dzialania na sama kopie (lojalnosc lordowi/establishmentowi). Droga: KORROBORACJA (rejestr/oryginal Stary Zamek Locke + zezna
 - **spolka_egzotyczna** [AKTYWNA ]: AKTYWNA — import ruszony (barwniki, Vhassar ~11-25); WYWOZ dopiety: skory lokalne (umowa na przyszlosc) + futra polnocne (Torsen/Halvard). Intel: braa

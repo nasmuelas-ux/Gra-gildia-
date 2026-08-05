@@ -3,7 +3,7 @@
   {
    "id": "cech_polowanie",
    "typ": "zagrozenie",
-   "opis": "Harwin (egzekutor cechu) poluje na Symona za pisanie bez licencji; relief zbozowy dal Symonowi oslone reputacji, ale sprawa nierozwiazana",
+   "opis": "Harwin (egzekutor cechu) poluje na Symona za pisanie bez licencji; relief zbozowy dal Symonowi oslone reputacji, ale sprawa nierozwiazana [D29: zawezone — nieformalna ochrona portu (Bran) utrudnia izolowana zasadzke za dnia; ryzyko trwa w nocy/zlych miejscach/samotnie]",
    "odlicza_do": "296-10-05",
    "co_sie_stanie": "jesli Symon zostanie widoczny/w znanym miejscu, Harwin go dopada (naciski, grozby, ryzyko przemocy)",
    "widoczny_graczowi": true

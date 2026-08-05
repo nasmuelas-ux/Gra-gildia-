@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 7,
+  "dzien": 8,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 22,
- "dzien_tygodnia_nr": 2,
+ "pogoda": 36,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "Paskudny, ponury dzien: zimny deszcz ze sniegiem. Auditor-renoma Symona mocna, dochod wraca. W tle po cichu: cech (Mennard) montuje kat przez RADE/kasztelana (establishment) — jeszcze bez jawnego ruchu; rata Antaryonow ~15 (~7 dni); list do Banku ~11-10; blok (Aldous+Marlon-bojazliwy) potrzebuje kotwicy (Leona?).",
+ "nastroje_miasta": "Szaro, zimno, mokro — zwykly jesienny mrok. Auditor-renoma Symona wspina sie WYZEJ — dochodzi juz do zamozniejszych/establishment-adjacent kregow. W tle: cech montuje kat przez rade; rata Antaryonow ~15 (~6-7 dni); list do Banku ~11-10; blok z kotwica-Leona; karta cla grywalna droga lorda (brak kanalu do lorda).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.6,
-   "przyczyna": "zimny deszcz, jesien ku zimie"
+   "mnoznik": 1.5,
+   "przyczyna": "zimno, wilgoc, jesien ku zimie"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 7
+ "dzien": 8
 }

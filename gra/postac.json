@@ -39,8 +39,8 @@
   "FLIP zimowy: partia zimowych SKOR/skory od Colla (kupione ~8 jel, PRZED szczytem popytu, dobra cena dzieki zyczliwosci) — do sprzedania lokalnie szewcom/kusnierzom/krawcom, gdy mroz/ciemnosc sie poglebia (nie na absolutny szczyt)"
  ],
  "reputacja": {
-  "port": 18,
-  "schody_zamkowe": 21,
+  "port": 20,
+  "schody_zamkowe": 22,
   "cech_pisarzy": -6,
   "wiara": 37,
   "zamek": 2,
@@ -62,7 +62,7 @@
   "pismo": 35,
   "rachunki": 42,
   "prawo": 26,
-  "retoryka": 41,
+  "retoryka": 42,
   "jezyki": 60,
   "spryt_uliczny": 61,
   "kondycja": 56,

@@ -17,7 +17,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 4
-**Reputacja:** port 18 · schody_zamkowe 21 · cech_pisarzy -6 · wiara 37 · zamek 2 · cech_kolodziejow 22
+**Reputacja:** port 20 · schody_zamkowe 22 · cech_pisarzy -6 · wiara 37 · zamek 2 · cech_kolodziejow 22
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -32,8 +32,8 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Harwin** (poborca_harwin) — poborca Cechu Pisarzy (egzekutor) · nast -8
 - **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 2
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
-- **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 28
-- **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 31
+- **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 33
+- **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 32
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 26
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 10
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 20
@@ -44,13 +44,13 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-25` import_barwniki: Vhassar wraca z probna skrzynia barwnikow tyrijskich (noga importowa spolki egzotycznej); zaplata reszty przy 
 - ◆ `296-11-10` futra_polnoc: Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa
 - ◆ `296-11-20` odbior_skor: Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos
-- ⚠ `296-10-15` antaryon_termin: Termin (rata) dlugu Nesty wobec domu Antaryon sie zbliza — Ternesio dociska; faktoria pod presja i pod obserwa
+- ⚠ `296-10-15` antaryon_termin: Termin (rata) dlugu Nesty wobec Antaryonow ~15-go. RYZYKO ZAJECIA OBNIZONE (d10): kantor otoczony murem standi
 - ◆ `296-11-10` odpowiedz_pryncypala: Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Bank
 - ◆ `296-10-14` flip_sprzedaz: Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusn
 - ◆ `296-10-13` godric_rozprawa_wat: Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon
 
 ## WATKI OTWARTE (najwazniejsze u gory)
-- **audyt_dlugu_antaryon** [PLAN NA ]: PLAN NA RATE (d10, narada z Nesta rzut 64). NESTA KORYGUJE POMYSL 'nacisku przez Leone': (a) Leony sakiewka to skromny grosz suknika — NIE pokryje rat
+- **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 
 - **wolnosc_od_harwina** [PRZELOM ]: PRZELOM (d29, rzut 98): OWEN ogłosił Symona PISARZEM SEPTY pod PUBLICZNA OPIEKA WIARY. EFEKT: (1) cechowa bron 'nielicencjonowany partacz' NEUTRALIZOW
 - **list_ze_starego_zamku** [Maester ]: Maester THEOMORE ODMOWIL dzialania na sama kopie (lojalnosc lordowi/establishmentowi). Droga: KORROBORACJA (rejestr/oryginal Stary Zamek Locke + zezna
 - **spolka_egzotyczna** [AKTYWNA ]: AKTYWNA — import ruszony (barwniki, Vhassar ~11-25); WYWOZ dopiety: skory lokalne (umowa na przyszlosc) + futra polnocne (Torsen/Halvard). Intel: braa

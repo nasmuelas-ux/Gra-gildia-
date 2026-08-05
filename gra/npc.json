@@ -455,8 +455,8 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 28,
-   "ostatni_kontakt": "296-10-02",
+   "nastawienie_do_gracza": 33,
+   "ostatni_kontakt": "296-10-10",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
     "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -468,7 +468,8 @@
     "'uczciwy pisarz', ktoremu ufaja obie strony",
     "poreczy za Symona u kupcow Schodow (pisarz Septy, uczciwe ksiegi)",
     "zaproponowal Symonowi audyt swojego podejrzanego dostawcy/wspolnika (platna robota)",
-    "audyt Symona wykryl PRECYZYJNIE, kto go skubie (nie dostawca, lecz posrednik/wewnetrzny skim) — ogromna wdziecznosc, glosno chwali"
+    "audyt Symona wykryl PRECYZYJNIE, kto go skubie (nie dostawca, lecz posrednik/wewnetrzny skim) — ogromna wdziecznosc, glosno chwali",
+    "potwierdzone: Symon to wspolnik Nesty; Vox go wspiera jako filar portowy"
    ],
    "potrzeby": [
     "dojsc, czy wspolnik go strzyze",
@@ -479,7 +480,8 @@
     "rozglos/wstyd"
    ],
    "dlugi": [],
-   "zaufanie": 9
+   "zaufanie": 11,
+   "status": "ZAANGAZOWANY SOJUSZNIK: z kalkulujacego obserwatora przeszedl w aktywne poparcie — widzi wlasny interes (stabilny port; zly precedens, gdy obcy wierzyciel dusi kupca portowego). Publicznie stanal za kantorem = de facto pobłogoslawil partnerstwo Symon-Nesta. Uchylil drzwi do drobnego mostka kupieckiego na styk raty."
   },
   {
    "id": "leona_wdowa",
@@ -498,7 +500,7 @@
     "zweryfikowac braavijskie papiery dostawcow (podejrzewa, ze ja skrocono po smierci meza)",
     "nie dac sie potraktowac jak 'baba, co sie nie zna'"
    ],
-   "nastawienie_do_gracza": 31,
+   "nastawienie_do_gracza": 32,
    "zaufanie": 13,
    "wie_o_graczu": [
     "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
@@ -518,7 +520,8 @@
     "mozliwa KOTWICA bloku: odwazna, respektowana, sama stanela przeciw cechowi za Symonem",
     "MA wlasny zatarg: wielki dom / partner z sieci wielkich domow ja SCISKA/skubie (ten sam drapiezny wzor) — urazona, bez strachu",
     "POTWIERDZONA jako KOTWICA bloku: odwazna, urazona, receptywna; wspolna sprawa zasiana subtelnie (bez zdradzania pelnego planu/zrodla Symona)",
-    "dziala w sprawach kantoru Nesty; poprosil ja o spokojny kontr-glos przeciw plotce Osgara — puscila go chetnie"
+    "dziala w sprawach kantoru Nesty; poprosil ja o spokojny kontr-glos przeciw plotce Osgara — puscila go chetnie",
+    "publicznie postawila swoje nazwisko za kantorem Nesty (standing przeciw eskalacji Antaryonow)"
    ],
    "dlugi": [],
    "ostatni_kontakt": "296-10-10",

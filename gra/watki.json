@@ -70,7 +70,7 @@
    "typ": "sekret/dzwignia/zagrozenie",
    "termin": null,
    "wobec": "notariusz_ryman",
-   "stan": "Maester THEOMORE ODMOWIL dzialania na sama kopie (lojalnosc lordowi/establishmentowi). Droga: KORROBORACJA (rejestr/oryginal Stary Zamek Locke + zeznanie wdowy) przez siec Wiary (Owen/Ansell) → apel ku Winterfell (Starkowie moga wymusic). Raven d17 korzystny. Gra dluga. | UWAGA (Owen d30/01): cech sonduje POCHODZENIE Symona (obcy, bez rodziny) — a jego przeszlosc (Stary Zamek Locke, maester Aemon Rivers) laczy sie z watkiem Rymana. Ryzyko PRZECIECIA: grzebiac w jego przeszlosci cech moze POTKNAC sie o trop Rymana. Podnosi urgencje: albo trzymac przeszlosc szczelnie, albo domykac Rymana ZANIM cech tam dojdzie. | m10d1: PROBA DRAFTU apelu do Winterfell — NIE UKLADA SIE (rzut 32). Pisanie ODSLANIA dziure: bez korroboracji (zeznanie wdowy + rejestr/oryginal, ktore wiezie Ansell) apel opiera sie na SAMEJ KOPII — dokladnie to, co Theomore juz odrzucil; Stark przeczyta nieudowodnione oskarzenie obcego i ODBIJE = spalony jeden strzal. Owen zatrzymuje: 'jeszcze nie ma czego slac'. WYNIK: apelu NIE DA SIE domknac przed korroboracja (~10-25); wyprowadzono tylko SZKIELET/strukture (do wypelnienia, gdy dowod dojdzie). WNIOSEK TWARDY: NIE da sie preempcyjnie domknac Rymana przeciw sondazowi cechu — trzeba ZAMIAST tego SZCZELNIE trzymac przeszlosc (druga rozga dylematu Owena). Cierpliwosc WYMUSZONA."
+   "stan": "Maester THEOMORE ODMOWIL dzialania na sama kopie (lojalnosc lordowi/establishmentowi). Droga: KORROBORACJA (rejestr/oryginal Stary Zamek Locke + zeznanie wdowy) przez siec Wiary (Owen/Ansell) → apel ku Winterfell (Starkowie moga wymusic). Raven d17 korzystny. Gra dluga. | UWAGA (Owen d30/01): cech sonduje POCHODZENIE Symona (obcy, bez rodziny) — a jego przeszlosc (Stary Zamek Locke, maester Aemon Rivers) laczy sie z watkiem Rymana. Ryzyko PRZECIECIA: grzebiac w jego przeszlosci cech moze POTKNAC sie o trop Rymana. Podnosi urgencje: albo trzymac przeszlosc szczelnie, albo domykac Rymana ZANIM cech tam dojdzie. | m10d1: PROBA DRAFTU apelu do Winterfell — NIE UKLADA SIE (rzut 32). Pisanie ODSLANIA dziure: bez korroboracji (zeznanie wdowy + rejestr/oryginal, ktore wiezie Ansell) apel opiera sie na SAMEJ KOPII — dokladnie to, co Theomore juz odrzucil; Stark przeczyta nieudowodnione oskarzenie obcego i ODBIJE = spalony jeden strzal. Owen zatrzymuje: 'jeszcze nie ma czego slac'. WYNIK: apelu NIE DA SIE domknac przed korroboracja (~10-25); wyprowadzono tylko SZKIELET/strukture (do wypelnienia, gdy dowod dojdzie). WNIOSEK TWARDY: NIE da sie preempcyjnie domknac Rymana przeciw sondazowi cechu — trzeba ZAMIAST tego SZCZELNIE trzymac przeszlosc (druga rozga dylematu Owena). Cierpliwosc WYMUSZONA. | m10d3: OBRONA przeszlosci = kontrola narracji (zasiac benignny origin: sierota+maester Aemon Rivers, dead-end), by sondaz cechu NIE dotarl do korzenia Locke/Ryman. Owen: narracja musi NIGDY nie zapraszac do ciagniecia nitki ku Staremu Zamkowi."
   },
   {
    "id": "rozwidlenie_dwie_nogi",
@@ -423,6 +423,14 @@
    "termin": null,
    "wobec": "kupiec_aldous",
    "stan": "WYKONANE (m10d2, rzut 55): audyt POTWIERDZIL — dostawca (Antaryon-afiliowany) SKUBIE Aldousa (skim/ukryte oplaty). Zaplacil (+3 jel), UFA Symonowi. ZRODLO CHRONIONE (dyskrecja utrzymana). KOSZT: dowod NIE ironclad (papiery wielkiego domu wyrafinowane) — Aldous sam vs dostawca-Antaryon nie wygra = REINFORCE logiki bloku. Aldous = potwierdzony CZLONEK-kandydat koalicji (jeszcze NIE sondowany o plan). Drobny cień: Aldous zdziwiony 'okiem' Symona (kontenerowane, ale plotka 'ten widzi, czego inni nie' moze karmic sondaz cechu)."
+  },
+  {
+   "id": "kontrola_narracji_pochodzenie",
+   "opis": "Uprzedzic sondaz cechu o pochodzenie: zasiac WLASNA, prawdziwa-ale-benignna, sympatyczna historie origin, ktora ucina ciekawosc i NIE prowadzi do Rymana",
+   "typ": "strategia",
+   "termin": null,
+   "wobec": null,
+   "stan": "USTALONA (m10d3, z Owenem): NARRACJA (PRAWDZIWA, wybiorcza): niskiego stanu SIEROTA, na posludze w polnocnym grodzie; dobry stary MAESTER (Aemon Rivers, NIEZYJE) nauczyl go liter z laski; maester umarl, chlopak poszedl na poludnie zyc piorem. Akcent: sierota/bieda/pokora/nauka/Wiara = pasuje do 'pisarza Septy, co nakarmil glodnych' → nudny, sympatyczny DEAD-END. OMIN/ZAKOP: rod Locke z nazwy (nie eksponowac), PO CO odszedl, wdowa, rejestr, Ryman. WARUNEK: musi byc PRAWDZIWA (zaden lapialny klam=gorzej); to selektywny AKCENT, nie fabrykacja. SEEDING: naturalnie przez siec (Nesta, ludzie portu, Septa), by sondaz cechu wrocil z odpowiedzia nudna. RYZYKO NACZELNE (Owen): NIGDY nie zaprosic nikogo do ciagniecia nitki ku Staremu Zamkowi/Rymanowi — to zdetonuje calosc. DO WYKONANIA: zasiac (rzut przy seedingu)."
   }
  ]
 }

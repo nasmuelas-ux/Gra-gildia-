@@ -71,6 +71,14 @@
    "odlicza_do": "296-10-08",
    "co_sie_stanie": "po ~tygodniu nudna, spojna historia osiada jako 'zwykla prawda' → sondaz cechu o pochodzenie traci trop (jesli nic nie zaklocilo)",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "flip_sprzedaz",
+   "typ": "okazja",
+   "opis": "Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusnierzom/krawcom",
+   "odlicza_do": "296-10-14",
+   "co_sie_stanie": "przy poglebiajacym mrozie sprzedac z zyskiem (rzut); nie czekac na absolutny szczyt",
+   "widoczny_graczowi": true
   }
  ]
 }

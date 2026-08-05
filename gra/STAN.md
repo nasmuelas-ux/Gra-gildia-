@@ -13,7 +13,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 80 · Sytosc 76 · Zmeczenie 4
+- Zdrowie 80 · Sytosc 70 · Zmeczenie 6
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 3
@@ -24,7 +24,7 @@ pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 18
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 14
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 28
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 34
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 35
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 16
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 33
@@ -45,6 +45,7 @@ pismo 7 · rachunki 7 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-10` futra_polnoc: Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa
 - ⚠ `296-10-10` osgar_uraza: Klika Osgara przeeksponowana po crashu cen zboza — uraza do Nesty/Symona za relief; mozliwa cicha zemsta/donos
 - ◆ `296-11-20` odbior_skor: Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos
+- ⚠ `296-10-15` antaryon_termin: Termin (rata) dlugu Nesty wobec domu Antaryon sie zbliza — Ternesio dociska; faktoria pod presja i pod obserwa
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [OTWARTE/]: OTWARTE/GLOWNE — dom ANTARYON (Ternesio) zawyzyl dlug Nesty I zanizal clo (dowod w manifestach, d17). Podwojna dzwignia. Kanal Garth=zimny (maly urzed

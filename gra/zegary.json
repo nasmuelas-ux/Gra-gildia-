@@ -47,6 +47,14 @@
    "odlicza_do": "296-11-20",
    "co_sie_stanie": "skory gotowe do zaladunku na powrot Vhassara (~11-25)",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "antaryon_termin",
+   "typ": "zagrozenie",
+   "opis": "Termin (rata) dlugu Nesty wobec domu Antaryon sie zbliza — Ternesio dociska; faktoria pod presja i pod obserwacja (ktos wypytuje, kto prowadzi ksiegi)",
+   "odlicza_do": "296-10-15",
+   "co_sie_stanie": "przy terminie Antaryon dociska Neste (renegocjacja/grozba); jesli Symon niewykorzystal dzwigni (zawyzenie+zanizone clo), traci okno",
+   "widoczny_graczowi": true
   }
  ]
 }

@@ -1,14 +1,6 @@
 {
  "zegary": [
   {
-   "id": "cech_polowanie",
-   "typ": "zagrozenie",
-   "opis": "[D29 SILNIE STŁUMIONE opieka Wiary: Harwin stracil pretekst 'licencja', tknac pisarza Septy=obraza Siedmiu. Cech szuka INNEGO kata; Harwin jako straszak mniej grozny, ale uraza cechu trwa]",
-   "odlicza_do": "296-10-05",
-   "co_sie_stanie": "jesli Symon zostanie widoczny/w znanym miejscu, Harwin go dopada (naciski, grozby, ryzyko przemocy)",
-   "widoczny_graczowi": true
-  },
-  {
    "id": "polnocna_inquiry",
    "typ": "okazja",
    "opis": "KORROBORACJA POLNOCNA — PRZELOM (d12): Ansell namierzyl swiadka ze Starego Zamku Locke poswiadczajacego rejestr (pod sprawe Rymana). Kanal Winterfell otwarty (raven d17). Korroboracja, ktorej zadal Theomore, JEST. Zostaje uzyc jej madrze, nie odslaniajac origin Symona (cech tropi).",
@@ -58,7 +50,7 @@
    "id": "cech_trop_origin",
    "odlicza_do": "296-10-17",
    "typ": "zagrozenie",
-   "opis": "Wyciek origin waski (Gunthor->Harwin). FILAR WIARY DZIALA (d13, Ansell/Owen rzut 62): cech STALLED na samym origin — atak na Sept-mana/bohatera reliefu przez kasztelana wyglada na cechowa zawisc, kasztelan by nie podziekowal. Wiec Harwin szuka czegos TWARDSZEGO: probuje POLACZYC origin Symona z wykroczeniem — sprawa RYMANA albo 'czyta cudze papiery/manifesty' (ZRODLO bloku). ZAGROZENIE PRZESUNIETE: nie sam origin, lecz zeby cech NIE znalazl LINKU origin->Ryman / origin->zrodlo. DYSCYPLINA: Ryman i swiadek ZAMROZENI; zrodlo bloku GLEBOKO ukryte; serenity. Godric jako 2. filar w odwodzie (reaktywnie). Okno ~10-17."
+   "opis": "Trop origin (Symon<-Aemon Rivers<-Stary Zamek) u Harwina/Gunthora. STYGNIE (d15, Owen rzut 56): cech NIE moze zlozyc TWARDEGO linku (origin->Ryman/zrodlo manifestow), filar Wiary trzyma, establishment nie kupuje cienkiego 'obcego'. Harwin sfrustrowany — moze zrobic OSTATNIE cienkie pchniecie do rady/kasztelana (~17), ktore prawdop. odbije sie i obroci przeciw niemu (atak na Sept-mana/bohatera reliefu). DYSCYPLINA: bez konspicuous record-work, Ryman/swiadek/zrodlo zamrozone -> angol origin obumiera. Godric jako 2. filar w odwodzie."
   }
  ]
 }

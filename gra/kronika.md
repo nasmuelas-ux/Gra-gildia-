@@ -2201,3 +2201,6 @@ Symon czyta prawo i spi. Jutro-pojutrze wielki tydzien: barka opalowa z wyplata 
 
 ## 296-11-08 RANEK — Harlon: kregoslup bloku
 Symon je w sepcie i idzie do Harlona, ktorego z sojusznikow zaniedbal najdluzej. I trafia dobrze: twardy handlarz sola przyjmuje go jak swojego, bez cienia strachu, ktory paralizuje Marlona. Jest mocno po tej samej stronie — i, w przeciwienstwie do tchorzy, WRECZ chetny do ruchu przeciw sieci, ktora go skubala. Daje tez cenny read: na Schodach nastroje hartuja sie zima, coraz wiecej kupcow czuje ten sam drapiezny skim od ludzi Antaryona i coraz wiecej byloby gotowych stanac, gdyby ktos ich poprowadzil. To dokladnie ta spina, za ktora chowaja sie slabsi. Symon trzyma go cieplo i gotowego, ale lontu nie zapala — sekwencja mowi jasno: ruch dopiero po odpowiedzi pryncypala kolo dziesiatego. Kregoslup koalicji pewny. Harlon 13->16.
+
+## 296-11-08 POLUDNIE — audyt: glucho
+Symon po cichu sonduje o audyt — kasa na dnie, robota by pomogla. Ale zima trzyma rynek martwo: nikt nie przychodzi z ksiegami, nisza milczy. Symon nie forsuje, bo jawne szukanie to ekspozycja; po prostu odnotowuje cisze. I tak wyplata z barki jutro, wiec to tylko jeden dzien na ostatnich miedziakach.

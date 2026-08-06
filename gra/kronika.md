@@ -2195,3 +2195,6 @@ Symon zaglada do Torsena i dostaje dokladnie te wiesc, ktora chcial uslyszec prz
 
 ## 296-11-07 zmierzch — Garth
 Symon zaglada do Gartha przy Bramie Foki, cicho, przed dostawa. Celnik potwierdza: barka opalowa spod dziewiatego przejdzie przez clo gladko, interes czysty, przejscie plynne. O audycie frachtu tyle co nic — dane wciaz kapia, trzeba cierpliwosci, nic nowego solidnego. Krotki, dyskretny, porzadny kontakt. Garth 21->22.
+
+## 296-11-07 WIECZOR -> 11-08 — prawo, sen
+Symon czyta prawo i spi. Jutro-pojutrze wielki tydzien: barka opalowa z wyplata (~9) i odpowiedz pryncypala (~10).

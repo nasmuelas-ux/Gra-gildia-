@@ -2081,3 +2081,6 @@ Symon je (-4 mied) i pyta Nestе wprost, jak dokladnie zagraja Antaryona teraz, 
 
 ## 296-10-30 RANEK — grzanie kanalu Godrica (ostroznie)
 Symon idzie na Nowy Zamek do Godrica — ale nie z Antaryonem na jezyku, bo sekwencja mowi jasno: lontu nie zapala sie przed dziesiatym. Przykrywka jest gotowa i prawdziwa: zblizajaca sie dostawa opalu dla zamku ~9 listopada. Pod ta legalna rozmowa — potwierdzenie terminu, gradowania, platnosci przy odbiorze — Symon po prostu trzyma relacje ciepla i kanal-lord w gotowosci na dzien, gdy przyjdzie zaniesc lordowi sprawe celnego oszustwa Antaryona. Godric spokojny, rad z dostawcy, ktory dowozi i nie robi halasu (nast 35->36). Kanal ugrzany, zero ekspozycji, dyscyplina caly. Dokladnie ostroznie, jak trzeba.
+
+## 296-10-30 POLUDNIE — prawo: kompetencja (awans 6)
+Symon wraca do septy i siada nad ksiegami prawa. Po tych kilku dniach skupionej nauki — drabina osob od Nesty, sfera Wiary od Owena, strona handlowa, a teraz lektura po lekturze — cos wreszcie zaskakuje: rozproszone paragrafy, kazusy i zasady skladaja mu sie w jedno, w narzedzie, ktorego mozna uzyc, nie tylko wiedziec. Prawo rosnie z 5 na 6 — nie olsnienie jednej chwili, lecz owoc wytrwalego kucia. Najslabszy z jego uzytecznych fachow przestaje byc luka. Zmeczony, ale madrzejszy o cala warstwe.

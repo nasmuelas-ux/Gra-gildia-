@@ -2114,3 +2114,6 @@ Symon sluzy w sepcie i — swiadomie — cwiczy to, co ma najslabsze: czytanie l
 
 ## 296-11-02 POLUDNIE — Serla i Tom
 Symon zaglada do Serli i malego Toma. Stara przyjaciolka wita go ciepło i, jak to ona, zaraz zapewnia, ze daja rade — ale Symon patrzy juz inaczej, tym swiezym okiem, ktorego uczyl go Owen, i widzi przez te dume: trzymaja sie, owszem, lecz zima ich sciska, a chudy Tom, choc zywy i powoli zdrowiejacy, wciaz jest kruchy i mroz mu nie sluzy. Symon nie robi z tego sceny — zostawia po sasiedzku cos cieplego dla chlopca (-4 mied) i siedzi chwile, sluchajac. W duchu wie tez to, czego Serla nie wie: ze rozdzial reliefu za dzien-dwa i tak do nich trafi, bo sa na liscie jalmuzny; jego wieksze, ciche dobro dosiegnie tych, ktorych kocha, a on i tak zostanie w cieniu. Sekret, ze to on kiedys uratowal Toma, dalej trzyma przy sobie. Serla 23->25.
+
+## 296-11-02 WIECZOR -> 11-03 — nauka, kondycja, sen
+Symon cwiczy jeszcze prawo w salce przy sepcie, potem trocheе ruchu dla kondycji, je, myje sie i klad zie spac. Noc spokojna. Rano trzeciego — a listopadowy klaster tuz-tuz: rozdzial jalmuzny, mroz w ubogich, dostawa opalu z wyplata.

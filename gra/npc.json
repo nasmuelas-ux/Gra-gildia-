@@ -525,7 +525,8 @@
    ],
    "dlugi": [],
    "ostatni_kontakt": "296-10-10",
-   "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem"
+   "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem",
+   "status": "KOTWICA bloku anty-Antaryon (wysondowana m10d7, rzut 79 — ma WLASNY zatarg z wielkim domem, odwazna/samodzielna). Publicznie stanela za kantorem d10. Wspolna sprawa zasiana subtelnie, bez zdradzenia zrodla."
   },
   {
    "id": "boren_koladziej",
@@ -846,7 +847,9 @@
    "imie": "Marlon",
    "zawod": "kupiec (dealings z sieci Antaryona)",
    "nastawienie_do_gracza": 12,
-   "nota": "m10d6: audyt POTWIERDZIL, ze partner z sieci Antaryona go skubie; wdzieczny, zaplacil, ufa Symonowi. ALE BOJAZLIWY wobec wielkiego domu — potencjalny 2. czlonek bloku, lecz SLABE OGNIWO: sam nie ruszy, moze zwlekac/zloamac sie/tipnac Antaryona ze strachu; wejdzie tylko pod zbiorowa oslona"
+   "nota": "m10d6: audyt POTWIERDZIL, ze partner z sieci Antaryona go skubie; wdzieczny, zaplacil, ufa Symonowi. ALE BOJAZLIWY wobec wielkiego domu — potencjalny 2. czlonek bloku, lecz SLABE OGNIWO: sam nie ruszy, moze zwlekac/zloamac sie/tipnac Antaryona ze strachu; wejdzie tylko pod zbiorowa oslona",
+   "zaufanie": 5,
+   "status": "BLOK anty-Antaryon: CEGLA 2 (potwierdzony m10d6, rzut 53 — partner z sieci Antaryona go skubie). Ufa, ale BOJAZLIWY = slabe ogniwo; wejdzie tylko pod zbiorowa oslona; ryzyko: zwleka/lamie sie/tipnie ze strachu."
   },
   {
    "id": "zarzadca_godric",
@@ -909,7 +912,10 @@
    "zawod": "kupiec (braavijskie wino i barwniki) na Schodach",
    "skad": "d29 — przyslany word-of-mouth/Leona po sprawie oszustwa; boi sie, ze jego braavijskie papiery tez skrocone",
    "nast": 9,
-   "nota": "d29: Symon wrocil i ZAMKNAL wino pewnym, prawdziwym werdyktem (wielki dom nie skraca miary; barwniki uczciwe; jestes czysty) — Aldous USPOKOJONY i zadowolony; pending rozpuszczony, Antaryonow nie tknieto. Z letniego -> kontent; mozliwy skromny referrer. Zaplacone."
+   "nota": "d29: Symon wrocil i ZAMKNAL wino pewnym, prawdziwym werdyktem (wielki dom nie skraca miary; barwniki uczciwe; jestes czysty) — Aldous USPOKOJONY i zadowolony; pending rozpuszczony, Antaryonow nie tknieto. Z letniego -> kontent; mozliwy skromny referrer. Zaplacone.",
+   "nastawienie_do_gracza": 12,
+   "zaufanie": 8,
+   "status": "BLOK anty-Antaryon: CEGLA 1 (potwierdzony m10d2, rzut 55 — dostawca wina afiliowany z Antaryonem go skubie). Ufa Symonowi. Dowod nie ironclad sam vs wielki dom => logika bloku."
   },
   {
    "id": "kupiec_denys",

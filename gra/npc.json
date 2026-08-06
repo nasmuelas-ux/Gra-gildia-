@@ -871,10 +871,11 @@
    "id": "kupiec_marlon",
    "imie": "Marlon",
    "zawod": "kupiec (dealings z sieci Antaryona)",
-   "nastawienie_do_gracza": 12,
+   "nastawienie_do_gracza": 15,
    "nota": "m10d6: audyt POTWIERDZIL, ze partner z sieci Antaryona go skubie; wdzieczny, zaplacil, ufa Symonowi. ALE BOJAZLIWY wobec wielkiego domu — potencjalny 2. czlonek bloku, lecz SLABE OGNIWO: sam nie ruszy, moze zwlekac/zloamac sie/tipnac Antaryona ze strachu; wejdzie tylko pod zbiorowa oslona",
    "zaufanie": 5,
-   "status": "BLOK anty-Antaryon: CEGLA 2 (potwierdzony m10d6, rzut 53 — partner z sieci Antaryona go skubie). Ufa, ale BOJAZLIWY = slabe ogniwo; wejdzie tylko pod zbiorowa oslona; ryzyko: zwleka/lamie sie/tipnie ze strachu."
+   "status": "BLOK anty-Antaryon: CEGLA 2 (potwierdzony m10d6, rzut 53 — partner z sieci Antaryona go skubie). Ufa, ale BOJAZLIWY = slabe ogniwo; wejdzie tylko pod zbiorowa oslona; ryzyko: zwleka/lamie sie/tipnie ze strachu.",
+   "ostatni_kontakt": "296-10-29"
   },
   {
    "id": "zarzadca_godric",

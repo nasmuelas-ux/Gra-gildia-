@@ -926,14 +926,15 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "sierociniec_przy_Sepcie",
-   "nastawienie_do_gracza": 8,
+   "nastawienie_do_gracza": 2,
    "zaufanie": 3,
    "wie_o_graczu": [
-    "Symon uczy w szkolce; 'ten pisarz Septy'"
+    "Symon uczy w szkolce; 'ten pisarz Septy'",
+    "pierwsza rozmowa cierpka — poczul sie poprawiany/protekcjonowany przez waznego pisarza"
    ],
    "ostatni_kontakt": "296-10-14",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
-   "status": "KANDYDAT — READ OWENA (d14, rzut 37): CHARAKTER na zielono — NIE zlodziej, NIE nosi plotek (z natury zamkniety, o sobie nie mowi=obiecujaca dyskrecja), PROTEGUJE mlodszych (stawal miedzy zabijaka a malym, bral wine za nich). DUMA glownie UCZCIWA (nienawidzi litosci, glodny bycia cos-wartym), nie na-sprzedaz. CAVEAT (jedyny, ale wazny): NIEsprawdzony pod PRESJA/POKUSA — nigdy nie trzymal sekretu, ktory cos znaczy; temperament realny, pchniety/upokorzony moglby zgorzkniec; glodny sierota + srebro od zlego czlowieka = Owen nie klad zie reki w ogien. LEWAR: traktowany z SZACUNKIEM i realna szansa -> pewnie zaciekle lojalny; z gora/protekcjonalnie -> duma curdles. Symon (niski, ktory sam sie wydrapal) idealny mentor. WERDYKT: dobry prospekt na PROBE (rutyna), z podłozona proba dyskrecji, dostep rozszerzac powoli."
+   "status": "PIERWSZE SPOTKANIE SOURED (d14, rzut 13): Symon zaproponowal uczciwa oferte, ale przy probce uczliwosci POPRAWIL chlopca ZBYT WCZESNIE — Hal, dumny i raw, odczytal poprawke jako protekcjonalnosc (pan przyszedl pokazac sierocie, ze glupi). Duma flare: ciety, obronny, zamknal sie/odszczeknal. NIE wrog, ale footing USZKODZONY (nast 8->2). NAUKA: z tym chlopcem najpierw ZASLUZYC na szacunek, DOPIERO potem uczyc/poprawiac. Recoverable, najem PAUZA do re-approach."
   }
  ],
  "orbita": [

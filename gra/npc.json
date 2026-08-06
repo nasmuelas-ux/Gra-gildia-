@@ -508,8 +508,8 @@
     "zweryfikowac braavijskie papiery dostawcow (podejrzewa, ze ja skrocono po smierci meza)",
     "nie dac sie potraktowac jak 'baba, co sie nie zna'"
    ],
-   "nastawienie_do_gracza": 35,
-   "zaufanie": 15,
+   "nastawienie_do_gracza": 37,
+   "zaufanie": 17,
    "wie_o_graczu": [
     "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
     "zachowal sie godnie, sluchal, nie sprzedawal sie tanio ani nie przechwalal — mieszczka to doceniła",
@@ -531,12 +531,13 @@
     "dziala w sprawach kantoru Nesty; poprosil ja o spokojny kontr-glos przeciw plotce Osgara — puscila go chetnie",
     "publicznie postawila swoje nazwisko za kantorem Nesty (standing przeciw eskalacji Antaryonow)",
     "wspolarchitekt cichego bloku uczciwych kupcow vs wielkie domy; ufa Symonowi, ale chce konkretu i oslony",
-    "skierowala go do konkretnego kusnierza na zimowe skory — sprzedal godnie, z zyskiem"
+    "skierowala go do konkretnego kusnierza na zimowe skory — sprzedal godnie, z zyskiem",
+    "dostala konkretny kregoslup sprawy (celno-frachtowa krzywda uczciwych + okradanie lorda); firmuje jako wspolarchitekt"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-13",
+   "ostatni_kontakt": "296-10-16",
    "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem",
-   "status": "WSPOLARCHITEKT bloku (skonsolidowana d11, rzut 46): przyjela wspolna sprawe jako po czesci SWOJA (ma wlasny zatarg z wielkim domem). Zaoferowala cicho wywechac na Schodach kolejnych skubanych (masa). WARUNEK kupcowej: chce widziec KONKRETNY plan/pierwszy krok i pewnosc, ze nie zostanie wystawiona. Zrodla (manifesty/clo) NIE zna — Symon zdeflektowal pytanie \"skad wiesz\" autentycznie (audytor, widzi wzor w ksiegach klientow)."
+   "status": "WSPOLARCHITEKT CZYNNY (d16, rzut 74): dostala KONKRETNY kregoslup — krzywda celno-frachtowa dusi uczciwe rzemiosło (kupcy+kolodzieje) I okrada lorda. Zapala sie, laczy Schody z cechami, pomoze wywechac wiecej dotknietych bran (masa); gotowa byc twarza, gdy przyjdzie czas. Zrodla (manifesty) NIE zna — Symon oprawil jako wzor, ktory czuja wszyscy uczciwi."
   },
   {
    "id": "boren_koladziej",

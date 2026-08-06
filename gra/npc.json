@@ -269,7 +269,7 @@
     "Symon sprowadza opal/drewno Bialym Nozem (rejs ~11-09) — przejdzie przez clo Bramy Foki; interes legalny"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-11-07",
+   "ostatni_kontakt": "296-11-13",
    "cechy_mowy": "urzedowo, ostroznie, duzo 'wedle przepisu'; chrzaka"
   },
   {
@@ -997,7 +997,7 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 36,
+   "nastawienie_do_gracza": 40,
    "zaufanie": 8,
    "ostatni_kontakt": "296-11-13",
    "wie_o_graczu": [
@@ -1007,7 +1007,8 @@
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
    "historia": [
-    "m11d13: Symon wpadl po oddech, a zastal przyjaciela w dolku — zima dusi handel winem, a do tego konsygnacja wina UTKNELA gdzies na zamarzajacych szlakach (echo 'zwezania sie szlakow morskich'), Aldous martwi sie o gotowke. Rozmowa cieplo, ale ciezka; role sie odwrocily — to Symon sluchal i podnosil na duchu, nie odwrotnie. Bez recharge; wiez glebsza przez obecnosc w trudnej chwili. Nast 35->36. Mozliwy przyszly hook: pomoc przyjacielowi."
+    "m11d13: Symon wpadl po oddech, a zastal przyjaciela w dolku — zima dusi handel winem, a do tego konsygnacja wina UTKNELA gdzies na zamarzajacych szlakach (echo 'zwezania sie szlakow morskich'), Aldous martwi sie o gotowke. Rozmowa cieplo, ale ciezka; role sie odwrocily — to Symon sluchal i podnosil na duchu, nie odwrotnie. Bez recharge; wiez glebsza przez obecnosc w trudnej chwili. Nast 35->36. Mozliwy przyszly hook: pomoc przyjacielowi.",
+    "m11d13: Symon uzyl dojsc (Garth-clo trace + Nesta-logistyka + port) i NAMIERZYL wino: nie zgubione/zajete/zepsute - bezpieczne, ale ZAMROZONE w srodladowej przeladowni na zamarznietym szlaku (barka/wozy stoja, dalsza noga skuta lodem). Panika -> ograniczony problem. Opcje: (a) czekac na okno/odwilz (niepewny czas), (b) oplacic zimowy transport ladem/saniami po ostatni odcinek (drogo, tnie marze, ale uwalnia grosz szybciej), (c) pod udokumentowana teraz konsygnacja latwiej pozyczyc. Symon gotow tez zmostkowac gotowke. Aldous ODCIAZONY (36->40)."
    ]
   },
   {

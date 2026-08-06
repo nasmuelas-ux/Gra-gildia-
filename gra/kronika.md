@@ -2273,3 +2273,6 @@ Symon je i wychodzi przewietrzyc glowe po dniach kombinacji. Miasto lezy pod nis
 
 ## 296-11-12 POLUDNIE — praca w kantorze
 Symon siada do wspolniczej roboty i robi solidny dzien. Ksiegi kantoru schodza sie co do miedziaka, rachunki spolki egzotycznej uporzadkowane, korespondencja odpisana. Przygotowuje tez najblizsza noge: odbior zakontraktowanych skor od garbarza Colla kolo dwudziestego — doplata z zarezerwowanych na to jeleni, sortowanie i logistyka pod zaladunek do Braavos ustawione z gory, zeby w dniu odbioru nie bylo bieganiny. Nesta pracuje obok, i ta zwykla, robocza wspolnota dwojga ludzi, ktorzy sobie ufaja, ma swoja ciche wartosc. Za dzien roboty kapnie rutynowa dola wspolnika (+2 jel). Nic wielkiego sie nie dzieje — i o to chodzi: maszyna handlu chodzi rowno, gdy wielkie watki dojrzewaja w tle.
+
+## 296-11-12 WIECZOR -> 11-13 — prawo, cwiczenia, sen
+Symon czyta prawo, przecwiczy cialo w celi i spi. Zwykly, zdrowy rytm dnia w cierpliwym oczekiwaniu.

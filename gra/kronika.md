@@ -2039,3 +2039,6 @@ Symon daje cialu trening silowy (kondycja), potem siada z braavijska ksiega przy
 
 ## 296-10-28 RANEK — sparing: przelom (walka 6)
 Symon je (-4 mied) i idzie na klepisko — i dzis pierwszy raz to sie sklada. Chwyty, ktore Bran wbijal mu tygodniami, wreszcie wchodza w rece same: schodzi z linii ciosu, lapie nadgarstek, uzywa cudzego ciezaru, a raz nawet klad zie wielkiego tragarza na worki jego wlasnym rozpedem. Bran podnosi sie ze smiechem i tym rzadkim, prawdziwym szacunkiem: 'O, chlopcze. TO jest to. Wojownika z ciebie nie bedzie, ale bezbronny juz nie jestes.' Cos w cwiczonym ciele wreszcie zaskoczylo — walka rosnie z 5 na 6, pierwszy realny skok w fachu, ktorego Symon boi sie najbardziej. Kilka siniakow, ale wychodzi z klepiska inny. Bran 35->37.
+
+## 296-10-28 POLUDNIE — Nesta: ksiegi i rozmowa
+Symon myje sie (schludnosc to czesc pozycji, nawet w mroz) i idzie do kantoru. Z Nesta siadaja do ksiag — rachunki wchodza gladko — i gadaja przy pracy. Nic przelomowego: Braavijka pilnuje, by nie robic sobie za duzych nadziei przed odpowiedzia Zelaznego Banku, ktora ma przyjsc za dwa dni; rzuca tez, ze zimowy relief zostal w miescie dobrze przyjety i kantorowi to nie zaszkodzilo. Spokojne, robocze poludnie.

@@ -1680,3 +1680,7 @@ Symon do Leony, nie werbowac lecz uczynic wspolniczka. Wylozyl rzecz jako wspoln
 
 ## 296-10-11 WIECZOR / 12 RANEK — septa, sen; galera wychodzi; lead masy (TLO 70)
 Symon zjadl u Owena, pocwiczyl (kondycja), przespal noc (zmeczenie 2, zdrowie 82). D12 wstaje mrozny, ze snieggiem w powietrzu. Na nabrzezu galera Belarna wychodzi z portu — dossier i sondaz do Zelaznego Banku ruszaja w morze (odpowiedz ku ~30). Poczta pantoflowa niszy przynosi drobiazg wart uwagi: jeszcze jeden kupiec narzeka po cichu, ze faktor z sieci wielkich domow go skraca — mozliwa trzecia cegla bloku, do wysondowania dyskretnie. Blok konsoliduje sie w cieniu, rata za trzy dni jak zwykla platnosc, cech przyczajony.
+
+
+## 296-10-12 RANEK - audyt Harlona: 3. cegla bloku (rzut 80)
+Symon zjadl i przyjal zlecenie przez faktorie, dyskretnie. Klient — HARLON, handlarz sola i zapasami ze Schodow. Audyt poszedl mistrzowsko: jego faktor spedycyjny, czlowiek z sieci wielkich domow, go SKRACA — wzor jak u innych. Symon wskazal to czysto, zrodla nie odslaniajac, i wzial honorarium (+3 jel -> 25). Harlon, w przeciwienstwie do bojazliwego Marlona, jest TWARDY i zly bez strachu — taka cegla wzmacnia kregoslup bloku, nie oslabia. Blok ma juz kotwice (Leona) i trzy cegly (Aldous, Marlon-tchorz, Harlon-twardy); masa krytyczna coraz blizej. Cichy cien pozostaje: kazdy kolejny antaryonski audyt dokłada do pytania 'co ten skryba czyta' — a to wlasnie tropi cech. Dyskrecja dalej pierwsza. Zmeczenie 4.

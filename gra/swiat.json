@@ -5,12 +5,12 @@
   "dzien": 13,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "schylek dlugiego lata",
  "pogoda": 44,
  "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "Ranek d13, chlodno, po nocnym deszczu jasniej. W tle: Godric po cichu rozprawil sie z Watem (klucznik odsuniety/restytucja) — Symon poza kadrem, nieskazitelny. Wyciek origin WASKI (Gunthor->Harwin, w cechu), nieuzbrojony; benignna wersja w odwodzie; priorytet = wyprzedzic cech na linii rady/kasztelana. Rata Antaryonow ~2 dni (zwykla platnosc); flip okno do ~14 (jutro szczyt); blok anty-Antaryon (Leona-kotwica + 3 cegly) konsoliduje sie cicho; sondaz Banku w drodze (~30).",
+ "nastroje_miasta": "Poludnie d13, chlodno, jasniej po deszczu. Flip sprzedany PRZED szczytem (unikniete zaladowanie rynku), ale popyt jeszcze nie w pelni zimowy — kupcy dociskali, Symon wyszedl na WASH (odzyskal ~7 z 8 jel). Rozsadny timing oszczedzil straty (crash szczytu ominięty), ale venture nie dal zysku. W tle: rata Antaryonow ~2 dni (zwykla platnosc); filar Wiary stoi (Owen), Godric w odwodzie; cech ~10-17; blok w cieniu; sondaz Banku (~30).",
  "ceny": {
   "chleb": {
    "baza": 3,

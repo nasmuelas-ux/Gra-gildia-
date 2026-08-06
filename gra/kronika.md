@@ -2183,3 +2183,6 @@ Po oschlym poranku u Nesty Symon wraca do septy, do tego, co go grzeje: sluzy ub
 
 ## 296-11-06 WIECZOR -> 11-07 — prawo, sen
 Symon czyta prawo i spi. Mroz trzyma. Dwa dni do opalu i wyplaty.
+
+## 296-11-07 RANEK — sparing z Branem
+Symon je w sepcie i idzie na klepisko — i dzis chwyty plyna same. Schodzi, lapie, uzywa ciezaru przeciwnika, a raz nawet klad zie Brana na worki jego wlasnym rozpedem. Tragarz smieje sie i chwali: chlopak z pisarczyka robi sie ktos, kto potrafi sie obronic. Walka osiada mocno w cialo. Kilka siniakow, ale duma na plusie. Bran 40->41.

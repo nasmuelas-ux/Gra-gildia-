@@ -1919,3 +1919,6 @@ Symon pyta Torsena wprost, ile drewna opałowego wejdzie na łódź ponad futra.
 
 ## 296-10-20 — sen na decyzję
 Symon nie klepie od razu — woli przespać się na sprawie opału i zająć nią rano na trzeźwo. Kończy dzień wcześnie, noc mija spokojnie. Oferta Torsena (pojemność potwierdzona, ~6–8 jel próbna partia doładunkiem) czeka na słowo.
+
+## 296-10-21 RANEK — Nesta: domkniecie opalu
+Symon je sniadanie (-4 mied) i idzie do Nesty przegadac commit. Braavijka daje zielone swiatlo, ale z reka na hamulcu: trzymac mala probe (te 6-8 jeleni, nie dac Torsenowi doladowac wiecej), bo rezerwa na Antaryonow i listopadowe nogi spolki egzotycznej musza zostac nietkniete. Strukture potwierdza — wiekszosc sprzedac w porcie po zimowej marzy, czesc oddac Septie po koszcie, cicho, przez Owena. Zastrzega, ze sama jest rozciagnieta, wiec ten kanal Symon prowadzi sam. Decyzja w praktyce zapadla: mala probna partia, dograc z Torsenem.

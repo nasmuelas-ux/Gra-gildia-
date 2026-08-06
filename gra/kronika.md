@@ -1940,3 +1940,6 @@ Symon wraca do Torsena dopiac pojemnosc u zrodla na wiekszy, cechowy lot. Odpowi
 
 ## 296-10-21 -> d22 — domkniete poludnie
 Symon zamyka dzien, zmeczony ale z interesem rosnacym pod reka. Plan na jutro: do Borena sformalizowac cechowy wolumen konsorcjum opalowego (zeby Torsen mogl zablokowac cene u zrodla). Wieczor i noc bez zdarzen.
+
+## 296-10-22 RANEK — wolumen cechu sformalizowany
+Symon je sniadanie (-4 mied) i idzie do Borena zamienic entuzjazm w twarda liczbe. Majstrowie — ludzie z wlasnym groszem — klepia wolumen rozwazny, ale realny: barka gradowanego polnocnego drewna. Struktura wychodzi czysto sama z siebie: prime hardwood na osie i piasty bierze cech z pierwszego wyboru, a gorszy grad i odpad to opal, ktory idzie na sprzedaz w porcie i czescia do Septy po koszcie. Dola Symona jako posrednika ustawiona skromnie, oslodzona dlugiem wdziecznosci cechu, platna przy dostawie okolo 9 listopada. Teraz Symon ma liczbe, ktora da Torsenowi, zeby ten zablokowal cene u zrodla. Boren zadowolony (nast 36->38).

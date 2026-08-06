@@ -9,11 +9,11 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** Ranek d19, mrozno ku zimie. LULL trwa: wielkie watki na zegarach (Bank ~30, pryncypal ~11-10, spolka egzotyczna ~11-10/20/25, Winterfell ~zima). Zywe TU-I-TERAZ: septa/ubodzy pod zima (wezwanie ~11-05
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 30 jeleni + 80 mied + 0 smokow
+- **Wolne:** 30 jeleni + 76 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 88 · Sytosc 76 · Zmeczenie 2
+- Zdrowie 88 · Sytosc 90 · Zmeczenie 5
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 5
@@ -34,7 +34,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 33
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 37
-- **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 36
+- **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 38
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 18
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 20
 

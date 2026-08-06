@@ -2084,3 +2084,6 @@ Symon idzie na Nowy Zamek do Godrica — ale nie z Antaryonem na jezyku, bo sekw
 
 ## 296-10-30 POLUDNIE — prawo: kompetencja (awans 6)
 Symon wraca do septy i siada nad ksiegami prawa. Po tych kilku dniach skupionej nauki — drabina osob od Nesty, sfera Wiary od Owena, strona handlowa, a teraz lektura po lekturze — cos wreszcie zaskakuje: rozproszone paragrafy, kazusy i zasady skladaja mu sie w jedno, w narzedzie, ktorego mozna uzyc, nie tylko wiedziec. Prawo rosnie z 5 na 6 — nie olsnienie jednej chwili, lecz owoc wytrwalego kucia. Najslabszy z jego uzytecznych fachow przestaje byc luka. Zmeczony, ale madrzejszy o cala warstwe.
+
+## 296-10-30 WIECZOR -> 11-01 — sen, nowy miesiac
+Zmeczony dniem pelnym prawa i cichej wojny Symon zasypia twardo. Miesiac sie przelamuje: konczy sie dziesiaty, wchodzi jedenasty, a z nim zima glebiej w kosciach. Noc spokojna. Przed nim listopadowa lawina odpowiedzi i odbiorow.

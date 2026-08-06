@@ -545,9 +545,12 @@
     "zainteresowana polnocnym kanalem jako noga na przyszly rejs (welna/sukno/towar)"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-29",
+   "ostatni_kontakt": "296-11-11",
    "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem",
-   "status": "WSPOLARCHITEKT CZYNNY (d16, rzut 74): dostala KONKRETNY kregoslup — krzywda celno-frachtowa dusi uczciwe rzemiosło (kupcy+kolodzieje) I okrada lorda. Zapala sie, laczy Schody z cechami, pomoze wywechac wiecej dotknietych bran (masa); gotowa byc twarza, gdy przyjdzie czas. Zrodla (manifesty) NIE zna — Symon oprawil jako wzor, ktory czuja wszyscy uczciwi."
+   "status": "WSPOLARCHITEKT CZYNNY (d16, rzut 74): dostala KONKRETNY kregoslup — krzywda celno-frachtowa dusi uczciwe rzemiosło (kupcy+kolodzieje) I okrada lorda. Zapala sie, laczy Schody z cechami, pomoze wywechac wiecej dotknietych bran (masa); gotowa byc twarza, gdy przyjdzie czas. Zrodla (manifesty) NIE zna — Symon oprawil jako wzor, ktory czuja wszyscy uczciwi.",
+   "historia": [
+    "m11d11: Symon wpadl po 12 dniach — trafil na zly moment: Leona zaharowana, handel suknem przyduszony gluchym mrozem (martwy rynek), o cien opryskliwa (i jego nieobecnosc znac). Wizyta nie iskrzyla. Symon (spryt) nie pchal, skrocil. Nast bez zmian (42, solidna). Nugget: pod zimowym naciskiem MIEKSZE brzegi koalicji sie nerwuja/chwieja (nie Leona — ona twarda — ale flaguje fray; tchorze typu Marlon podatni)."
+   ]
   },
   {
    "id": "boren_koladziej",

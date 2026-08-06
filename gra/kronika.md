@@ -2003,3 +2003,6 @@ Symon nie zwleka i leci do Torsena zaklepac dodatek u Halvarda. Udaje sie — al
 
 ## 296-10-25 WIECZOR -> d26 — domkniety dzien
 Po trzech dniach, ktore zlozyly opalowy kanal az po dwor, Symon cwiczy jeszcze reke, je i zasypia twardo. Na rzece rosnie lod. Budzi sie na nowy dzien — do odpowiedzi Zelaznego Banku zostaja cztery dni.
+
+## 296-10-26 RANEK — sparing: slaby dzien
+Symon je (-4 mied) i idzie na klepisko, ale poranek jest mrozny, miesnie sztywne, a Bran dzis go po prostu przewala. Malo z tego nauki, wiecej siniakow — jeden z tych treningow, ktore ucza tylko pokory. Bran, sam nie w formie na gorsze dni, kwituje krotko: 'Bywa, chlopcze. Wroc jutro.' Kilka guzow, nic gorszego; walka drgnie ledwie o wlos. Off-day, nie regres.

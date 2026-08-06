@@ -2018,3 +2018,6 @@ Symon niesie Owenowi pomysl: nie z wlasnej chudej kieszeni, lecz jako 'akcja Wia
 
 ## 296-10-26 WIECZOR -> d27 — sen
 Zmeczony po dniu, ktory zawiazal zimowy relief, Symon idzie spac wczesniej. Plan na jutro jasny: z Halem obejsc kupcow po skladki w naturze dla Wiary. Noc spokojna.
+
+## 296-10-27 RANEK — runda reliefowa: Leona
+Symon je z Halem (-5 mied), karmi chlopaka i mowi mu: patrz i pomagaj. Zaczynaja od Leony. Symon sklada rzecz jej jezykiem — nie kazanie, lecz interes: 'akcja Wiary', pobożnosc i twarz przed miastem, spokoj w porcie, ktory zima moze zaklocic bieda. Leona, kupcowa z glowa, daje rozsadnie, ale realnie: bele grubszej welny i sukienne resztki, z ktorych ubodzy zrobia sobie cieplo. Docenia, ze rzecz idzie przez Wiare i godnie (nast 39->40). Hal stoi z boku, nosi, patrzy — i widzi ten sam model, co przy opale: spinac cudze w calosc, tyle ze teraz dla glodnych. Pierwsza skladka w kieszeni; przed nimi kolodzieje, przekupki i kantor.

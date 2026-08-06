@@ -2165,3 +2165,6 @@ Symon siada z Nesta do ksiag i pyta, co nowego. Braavijka, dzis mniej zaharowana
 
 ## 296-11-05 zmierzch — Boren (plasko)
 Symon zaglada do Borena, ale trafia zle: cechmistrz zaharowany zimowym mlynem — mroz podbil popyt na okucia i naprawy, a jemu brak materialu i czeladnicy marzna. Jest gburowaty, mruczy pod nosem, niecierpliwy o obie dostawy: kiedy w koncu ten opal, kiedy zelazo. Symon spokojnie go uspokaja — opal spod dziewiatego, zelazo w drodze, struktura hedgowana, trial maly z rozmyslu — ale rozmowa jest sucha, robocza, bez ciepla. Nic sie nie psuje, nic nie zyskuje; po prostu zly dzien u zapracowanego czlowieka. Symon nie naciska i odpuszcza wczesnie.
+
+## 296-11-05 zmierzch — Bran
+Symon zaglada do Brana i tu wieczor jest cieplejszy. Tragarz w dobrej formie — proba w faktorii idzie mu dobrze, Nesta zadowolona, a on sam coraz mocniej po stronie Symona, i z wdziecznosci za klepisko, i po ludzku. Gdy slyszy, ze Symon ma swoj kawalek w barce spod dziewiatego, od reki proponuje: bedzie przy rozladunku, dolozy barow i oka, dopilnuje, zeby nikt nie podskubal ani nie pomeszal towaru w tloku nabrzeza. Lojalny gest i konkretna pomoc na wielki dzien. Docks gotowe, sojusznik pewny. Bran 37->39.

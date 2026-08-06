@@ -2147,3 +2147,6 @@ Symon bierze ksiegi Denysa od reki, po cichu, i robi to, w czym jest krolem. Wzo
 
 ## 296-11-04 POLUDNIE — Vox
 Symon zaglada do Voxa. Kupiec rad, grzaniec, zwykla rozmowa sojusznikow — standing trzyma, obaj po tej samej stronie. Ale dzis Vox nie ma nic swiezego z kupieckiej gieldy: cicho, mrozno, ludzie siedza na towarze. Zwykla, dobra podtrzymujaca wizyta. Vox 36->37.
+
+## 296-11-04 zmierzch — Hal dostaje ksiege jalmuzny
+Symon robi to, co dojrzalo: powierza Halowi wlasny fragment septowej ksiegi jalmuzny — pod swoim i Owena okiem, w domenie w pelni odcietej od goracych spraw kantoru, dokladnie jak radzila Nesta. Dla chlopca to chwila, ktorej nie zapomni: pierwsza prawdziwa odpowiedzialnosc, wlasna, powierzona z zaufaniem. Bierze ja dumny i pilny — moze az za pilny, bo z goraczkowym przejeciem nowicjusza raz i drugi sie potyka, przepisuje, sprawdza po trzykroc; wlasnie po to jest nadzor, by go lagodnie prowadzic. Owen rad z drugiej pismiennej reki akurat pod zimowy nawał. Wiez i zaufanie rosna (nast 45->47). Milestone spelniony: glod chlopca, by znaczyc, dostaje realny, bezpieczny grunt. Wrazliwych spraw Symon dalej mu nie odslania. Owen 49->50.

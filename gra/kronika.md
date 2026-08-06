@@ -1952,3 +1952,6 @@ Symon chwali sie Neście, ze konsorcjum stoi. Braavijka slucha i przez chwile pa
 
 ## 296-10-22 POLUDNIE — cwiczenie pisma, sluzba, Owen
 Symon cwiczy litery i sluzy w sepcie — kopie, porzadkuje, pomaga przy dzieciach. Z Owenem rozmowa spokojna, o zwyklych rzeczach; septon wdzieczny, ze opal — choc maly — jednak idzie, i rad, ze Symon trzyma sie blisko Wiary. Dzien pobozny, bez zdarzen. Pismo +1.
+
+## 296-10-22 WIECZOR -> d23 — mocne cwiczenie, sen
+Symon siada do pergaminu na dluzej — mocna sesja pisma, az swieca dopala sie do ogarka. Je skromnie i klada sie spac. Reka coraz pewniejsza, choc do mistrzowskiego poziomu jeszcze daleko. Noc spokojna.

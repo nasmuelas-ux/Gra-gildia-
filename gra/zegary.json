@@ -57,6 +57,14 @@
    "widoczny_graczowi": true
   },
   {
+   "id": "flip_sprzedaz",
+   "typ": "okazja",
+   "opis": "Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusnierzom/krawcom",
+   "odlicza_do": "296-10-14",
+   "co_sie_stanie": "przy poglebiajacym mrozie sprzedac z zyskiem (rzut); nie czekac na absolutny szczyt",
+   "widoczny_graczowi": true
+  },
+  {
    "id": "bank_sondaz_szybki",
    "odlicza_do": "296-10-30",
    "typ": "szansa",

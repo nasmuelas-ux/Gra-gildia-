@@ -8,11 +8,11 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 83,
- "sytosc": 70,
- "zmeczenie": 5,
+ "sytosc": 90,
+ "zmeczenie": 3,
  "sakiewka": {
   "miedziaki": 4,
-  "jelenie": 30,
+  "jelenie": 25,
   "smoki": 0
  },
  "dobytek": [
@@ -35,7 +35,8 @@
   "depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)",
   "SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce",
   "NIEFORMALNA OCHRONA nabrzeza (Bran + pewni tragarze): oczy i miesnie w porcie/na Schodach ZA DNIA — zawezaja okno Harwina na izolowana zasadzke; koszt = drobny grosz/wzajemne przysługi. NIE 24h, NIE w zlych miejscach nocy (Wilczy Leg/port noca) — tam wciaz sam/naraznony.",
-  "STATUS: pod PUBLICZNA OPIEKA WIARY + uznany PISARZ SEPTY (Owen, d29) — legitymacja: pisze i uczy pod PRAWEM WIARY (poza monopolem cechu); tknac go = obraza Siedmiu; smear 'nielicencjonowany partacz' NEUTRALIZOWANY. STRING: winien Sepcie sluzbe (pismo/nauka sierot), przyzwoitosc i lojalnosc wobec Wiary/Owena — mniej wolny agent."
+  "STATUS: pod PUBLICZNA OPIEKA WIARY + uznany PISARZ SEPTY (Owen, d29) — legitymacja: pisze i uczy pod PRAWEM WIARY (poza monopolem cechu); tknac go = obraza Siedmiu; smear 'nielicencjonowany partacz' NEUTRALIZOWANY. STRING: winien Sepcie sluzbe (pismo/nauka sierot), przyzwoitosc i lojalnosc wobec Wiary/Owena — mniej wolny agent.",
+  "FLIP zimowy: partia zimowych SKOR/skory od Colla (kupione ~8 jel, PRZED szczytem popytu, dobra cena dzieki zyczliwosci) — do sprzedania lokalnie szewcom/kusnierzom/krawcom, gdy mroz/ciemnosc sie poglebia (nie na absolutny szczyt)"
  ],
  "reputacja": {
   "port": 20,
@@ -66,7 +67,7 @@
   "spryt_uliczny": 62,
   "kondycja": 58,
   "rzemioslo": 0,
-  "handel": 35,
+  "handel": 34,
   "walka": 25
  },
  "jezyki_znane": [

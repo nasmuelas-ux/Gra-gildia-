@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 14,
+  "dzien": 13,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 28,
- "dzien_tygodnia_nr": 2,
+ "pogoda": 44,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "Poludnie d14, mrozno i ciemno ku zimie. FLIP SPALONY: Symon gonil absolutny szczyt — a na szczyt zjechali wszyscy, plus w porcie wyladowala partia skor/futer; cena skor RUNELA, sprzedal ze strata (~-3 jel). Lekcja 'nie na absolutny szczyt' + 'majatek za szybko = swiat reaguje'. W tle: rata Antaryonow JUTRO (~15, zwykla platnosc); filar Wiary u establishmentu stoi (Owen), Godric jako cichy atut; cech ~10-17; blok konsoliduje sie cicho; sondaz Banku w drodze (~30).",
+ "nastroje_miasta": "Ranek d13, chlodno, po nocnym deszczu jasniej. W tle: Godric po cichu rozprawil sie z Watem (klucznik odsuniety/restytucja) — Symon poza kadrem, nieskazitelny. Wyciek origin WASKI (Gunthor->Harwin, w cechu), nieuzbrojony; benignna wersja w odwodzie; priorytet = wyprzedzic cech na linii rady/kasztelana. Rata Antaryonow ~2 dni (zwykla platnosc); flip okno do ~14 (jutro szczyt); blok anty-Antaryon (Leona-kotwica + 3 cegly) konsoliduje sie cicho; sondaz Banku w drodze (~30).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 14
+ "dzien": 13
 }

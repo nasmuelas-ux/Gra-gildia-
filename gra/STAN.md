@@ -9,11 +9,11 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** Ranek d19, mrozno ku zimie. LULL trwa: wielkie watki na zegarach (Bank ~30, pryncypal ~11-10, spolka egzotyczna ~11-10/20/25, Winterfell ~zima). Zywe TU-I-TERAZ: septa/ubodzy pod zima (wezwanie ~11-05
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 10 jeleni + 58 mied + 0 smokow
+- **Wolne:** 7 jeleni + 58 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 87 · Sytosc 84 · Zmeczenie 15
+- Zdrowie 87 · Sytosc 81 · Zmeczenie 18
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 5
@@ -35,7 +35,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 36
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 39
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 38
-- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 22
+- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 23
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 23
 
 ## ZEGARY (odliczaja)
@@ -48,7 +48,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-05` zima_ubodzy: NADEJSCIE ZIMY dusi ubogich Bialego Portu: sierociniec/septa krotki na opal, jadlo, chore dzieci; Owen rozciag
 - ◆ `296-11-05` audyt_frachtu_zbior: Cichy cross-check frachtu/cla drewna (Garth) AKUMULUJE dane po kawalku od d15. Brak sztywnej daty; ~przelom mi
 - ◆ `296-11-02` gulltown_zelazo_cena: List Nesty do korespondenta w Gulltown po cene zelaza/okuc/rudy z Doliny (strona 'tanio tam'). Odpowiedz ~1-2 
-- ◆ `?` opal_dostawa: Lot polnocnego drewna Bialym Nozem (Torsen/Halvard) — SKALOWANY do wolumenu konsorcjum (kolodzieje kotwica). J
+- ◆ `?` opal_dostawa: Rozbudowany rejs Bialym Nozem (Torsen/Halvard) ~11-09: cech(prime) + ZAMEK(parcela) + wlasny opal + Septa po k
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

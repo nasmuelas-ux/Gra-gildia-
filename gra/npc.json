@@ -21,7 +21,7 @@
     "ze wnuk umrze jak jej corka",
     "eksmisja przez wlasciciela kamienicy"
    ],
-   "nastawienie_do_gracza": 26,
+   "nastawienie_do_gracza": 29,
    "zaufanie": 7,
    "wie_o_graczu": [
     "umie pisac",
@@ -38,9 +38,12 @@
     "przyszedl z jedzeniem i z uczniem, spytal po ludzku co u niej — samotnej wdowie to wiele; Tom powoli zdrowieje"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-11-02",
+   "ostatni_kontakt": "296-11-09",
    "cechy_mowy": "cieplo, ale zaraz o pieniadzach; mowi 'synku', wzdycha",
-   "nota": "DAWNA gospodyni Symona (już u niej nie mieszka — przeniósł się do Septy); nadal przyjaciółka, wnuk chorowity"
+   "nota": "DAWNA gospodyni Symona (już u niej nie mieszka — przeniósł się do Septy); nadal przyjaciółka, wnuk chorowity",
+   "historia": [
+    "m11d9: Symon odwiedzil po tygodniowej przerwie (byl zajety wielkim tygodniem) — na progu cien dystansu ('zajety, wazny teraz'), potem cieplo; przyniosl WIAZKI OPALU (z przetrzymanego lotu) + cos strawy. Tom w mrozie znow pokaslkuje, kruchy ale zywy. Symon poczul uklucie, ze odplynąl gdy ich zima sciskala. Serla 25->28"
+   ]
   },
   {
    "id": "wenda_rybia",

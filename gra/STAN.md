@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-11-04 RANEK · schylek dlugiego lata
+- **Data:** 296-11-05 RANEK · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
@@ -13,7 +13,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 87 · Sytosc 81 · Zmeczenie 13
+- Zdrowie 87 · Sytosc 75 · Zmeczenie 3
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6
@@ -44,8 +44,8 @@ pismo 7 · rachunki 8 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-10` futra_polnoc: Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa
 - ◆ `296-11-20` odbior_skor: Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos
 - ◆ `296-11-10` odpowiedz_pryncypala: Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Bank
-- ◆ `296-11-05` zima_ubodzy: NADEJSCIE ZIMY dusi ubogich Bialego Portu: sierociniec/septa krotki na opal, jadlo, chore dzieci; Owen rozciag
-- ◆ `296-11-05` audyt_frachtu_zbior: Cichy cross-check frachtu/cla drewna (Garth) AKUMULUJE dane po kawalku od d15. Brak sztywnej daty; ~przelom mi
+- ◆ `296-11-05` zima_ubodzy: ODPALIL (11-05): pierwszy twardy mroz uderzyl w ubogich Bialego Portu. Relief z 11-04 czesciowo zlagodzil (Eln
+- ◆ `296-11-05` audyt_frachtu_zbior: CZESCIOWY CZYT (11-05, rzut 39): dane Gartha pokazuja, ze deklaracje frachtu/cla drewna sa ZAWYZONE/niespojne 
 - ◆ `?` opal_dostawa: Rozbudowany rejs Bialym Nozem (Torsen/Halvard) ~11-09: cech(prime) + ZAMEK(parcela) + wlasny opal + Septa po k
 - ◆ `?` zelazo_dostawa: Trial zelaza z Gulltown w drodze (zimowa trasa wschodnia, pewny kpt+okno pogodowe). Przybycie ~late XI, zalezn
 

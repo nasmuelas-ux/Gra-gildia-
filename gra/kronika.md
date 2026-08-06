@@ -2006,3 +2006,6 @@ Po trzech dniach, ktore zlozyly opalowy kanal az po dwor, Symon cwiczy jeszcze r
 
 ## 296-10-26 RANEK — sparing: slaby dzien
 Symon je (-4 mied) i idzie na klepisko, ale poranek jest mrozny, miesnie sztywne, a Bran dzis go po prostu przewala. Malo z tego nauki, wiecej siniakow — jeden z tych treningow, ktore ucza tylko pokory. Bran, sam nie w formie na gorsze dni, kwituje krotko: 'Bywa, chlopcze. Wroc jutro.' Kilka guzow, nic gorszego; walka drgnie ledwie o wlos. Off-day, nie regres.
+
+## 296-10-26 RANEK — celnik Garth
+Symon zaglada do Gartha przy Bramie Foki — i po relacje, i po ciche sprawy. Rozmowa spokojna, zyczliwa; celnik rad, ze pisarz pamieta. O cichym cross-checku frachtu Garth mowi tylko tyle, ile trzeba: dane wciaz kapia po kawalku, nic twardego jeszcze, trzeba cierpliwosci (~przelom miesiaca). Za to praktyczna rzecz: Symonow rejs opalu i drewna spod dziewiatego listopada przejdzie akurat przez jego clo — interes czysty, wiec Garth po przyjacielsku uprzedza o stawkach i obiecuje plynne przejscie. Symon nie napiera na wrazliwe, tylko odswieza wiez (nast 20->21).

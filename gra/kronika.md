@@ -2033,3 +2033,6 @@ Ostatni przystanek: kantor. Nesta, pilnujaca cienkiej kasy, daje grosz rozsadny,
 
 ## 296-10-27 POLUDNIE — zbior w rekach Owena
 Po posilku z Halem (-5 mied) Symon niesie caly zbior do Septy. Owen przyjmuje go z ta cicha wdziecznoscia, ktora u niego znaczy wiecej niz slowa, i od reki uklada rozdzial wedlug ksiegi jalmuzny — najslabsi pierwsi: chore dzieci, starcy, samotne wdowy. Na liscie sa i Elna, i Serla, wiec osobista dobroc Symona i ta wieksza machina schodza sie w jeden nurt: pomogl im z imienia, a teraz zbudowal to, co pomoze im i wszystkim wokol. Rozdzial ma byc godny — ludzie przyjda do septy jak po zwykla opieke Wiary, nie po upokarzajaca dole — i zdazy przed mrozem ~5 XI. Symon w cieniu, Wiara na swieczniku; jego imie u Siedmiu ciche, lecz mocniejsze (rep wiara 41->42). Hal, ktory przeszedl cala rude i teraz patrzy na jej owoc, dostal lekcje o fachu i o czlowieku, jakiej nie da zaden pergamin.
+
+## 296-10-27 WIECZOR -> d28 — trening, lektura, sen
+Symon daje cialu trening silowy (kondycja), potem siada z braavijska ksiega przy dogasajacej swiecy (jezyki, i to marzenie o Braavos), i klada sie spac. Noc spokojna. Do odpowiedzi Banku dwa dni.

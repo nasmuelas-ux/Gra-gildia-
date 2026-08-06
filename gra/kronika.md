@@ -2024,3 +2024,6 @@ Symon je z Halem (-5 mied), karmi chlopaka i mowi mu: patrz i pomagaj. Zaczynaja
 
 ## 296-10-27 RANEK — runda reliefowa: kolodzieje
 Z Halem u boku Symon idzie do Borena. Tu rzecz idzie sama: odpad drzewny — scinki, heblowiny, kawalki za krotkie na kolo — to dla cechu niemal darmo, a na opal dla ubogich zloto. Boren, wciaz Symonowi wdzieczny i rad, ze wyjdzie na tym dobrze przed miastem, kaze czeladnikom powiazac odpad w wiazki do wydania (nast 38->39). Druga skladka zebrana. Hal znowu patrzy i nosi. Przed nimi jeszcze przekupki po jadlo i kantor po grosz.
+
+## 296-10-27 RANEK — runda reliefowa: przekupki
+Na Targu Rybnym rzecz robi sie inna niz u suknic. Wenda i jej sasiadki maja malo — ale glod znaja z wlasnej skory, wiec daja chetnie: solona i suszona ryba, wczorajszy niesprzedany towar, glowy i oscienie na polewke dla sierocinca. To skromniejsza skladka niz bela welny, lecz z serca; a Wenda az sie prostuje z dumy, ze ktos pyta JA jako darczyncze, nie tylko ja ratuje — dotknales jej godnosci (nast 20->22). Hal widzi i to: ze dawanie nie jest tylko fanaberia bogatych. Trzy skladki zebrane; zostaje kantor.

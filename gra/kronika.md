@@ -1958,3 +1958,6 @@ Symon siada do pergaminu na dluzej — mocna sesja pisma, az swieca dopala sie d
 
 ## 296-10-23 RANEK — ksiegi z Halem: chlopiec zmarzniety
 Symon je sniadanie (-4 mied) i siada z Halem do ksiag, ale sesja nie idzie — chlopak rozkojarzony, myli sie w prostych sumach, robi sie kolczasty przy poprawianiu. Symon nie napiera; patrzy uwazniej i widzi, o co chodzi: Hal jest zmarzniety i glodny, bo sierociniec pod zima krotki na opal i strawe. Odklada wiec lekcje na bok, sadza go blizej ognia, dzieli sie jedzeniem. Nauka moze poczekac. Wiez trzyma nie przez dryll, lecz przez to, ze ktos zauwazyl. I jeszcze mocniej widac, po co ten opal dla Septy.
+
+## 296-10-23 RANEK — wplata do depozytu, pytanie o rezerwe
+Symon wplaca Neście 20 jeleni oszczednosci do depozytu (za kwitem, do wyjecia) — depozyt rosnie do 23 jeleni. Pyta ja przy tym o rezerwe. Braavijka odpowiada w biegu, bo glowe ma gdzie indziej (Bank lada dzien, skory, barwniki), ale trzezwa przestroga i tak pada: 'Zostawiles sobie w kieszeni tyle co nic przed zima. Depozyt jest bezpieczny, ale odpowiedz mojego pryncypala o Antaryonach przyjdzie kolo dziesiatego listopada i moze trzeba bedzie ruszyc plynnoscia spolki — nie schodz do miedziakow.' Rada cienka, bo dana w przelocie, ale sens jasny: trzymaj working float. Wolne w sakiewce: 10 jel + 72 mied.

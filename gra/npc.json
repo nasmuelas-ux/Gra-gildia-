@@ -636,11 +636,12 @@
     "Lorren",
     "glod dzieci"
    ],
-   "nastawienie_do_gracza": 20,
+   "nastawienie_do_gracza": 21,
    "zaufanie": 7,
    "wie_o_graczu": [
     "skryba przejrzal drapiezna umowe Lorrena",
-    "spisal jej skarge do cechu/strazy"
+    "spisal jej skarge do cechu/strazy",
+    "Symon zajrzal pod zime — pamieta o niej mimo swoich spraw"
    ],
    "dlugi": [
     {
@@ -650,7 +651,7 @@
      "nota": "umowa NIEPODPISANA — dzieki Symonowi; pod ochrona cechu"
     }
    ],
-   "ostatni_kontakt": "296-09-21",
+   "ostatni_kontakt": "296-10-25",
    "cechy_mowy": "cicha, zmeczona, twarda; 'chlopcze'"
   }
  ],

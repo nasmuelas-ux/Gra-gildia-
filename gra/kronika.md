@@ -1982,3 +1982,6 @@ Symon niesie Neście slowa Voxa: Antaryonowie tej zimy twardo scisleja dluznikow
 
 ## 296-10-24 WIECZOR -> d25 — domkniety dzien
 Poobijany po sparze Symon cwiczy jeszcze reke przy swiecy, je i klada sie spac. Noc spokojna, siniaki schodza. Budzi sie na nowy dzien, blizej konca miesiaca — a z nim pierwsze wielkie odpowiedzi na zegarach.
+
+## 296-10-25 RANEK — odwiedziny Elny
+Symon zaglada do Elny, wdowy wyrwanej Lorrenowi, dzis pod dachem od kolodziejow. Bezpieczna jest — cech trzyma slowo — ale zima juz ja obrobila: izba zimna, ona chudsza, oszczedza na kazdym polanie i lyzce, i widac, ze boi sie tego, co jeszcze przyjdzie. Cieszy sie jednak szczerze, ze zajrzal; ze ktos z jej dawnego ratunku pamieta o niej mimo wlasnych spraw (nast 20->21). Odwiedziny odslaniaja potrzebe, nie dramat — a co z nia zrobic, zalezy od Symona; grosza ma malo, ale kanaly (septa, opal, kolodzieje) sa pod reka.

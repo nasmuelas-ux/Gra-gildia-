@@ -46,6 +46,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-10` odpowiedz_pryncypala: Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Bank
 - ◆ `296-10-30` bank_sondaz_szybki: Sondaz do Zelaznego Banku WYSLANY (d11): kpt. Belarno niesie SOLIDNE dossier Symona do agenta domu Nesty; wypl
 - ◆ `296-11-05` zima_ubodzy: NADEJSCIE ZIMY dusi ubogich Bialego Portu: sierociniec/septa krotki na opal, jadlo, chore dzieci; Owen rozciag
+- ◆ `296-11-05` audyt_frachtu_zbior: Cichy cross-check frachtu/cla drewna (Garth) AKUMULUJE dane po kawalku od d15. Brak sztywnej daty; ~przelom mi
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

@@ -2204,3 +2204,6 @@ Symon je w sepcie i idzie do Harlona, ktorego z sojusznikow zaniedbal najdluzej.
 
 ## 296-11-08 POLUDNIE — audyt: glucho
 Symon po cichu sonduje o audyt — kasa na dnie, robota by pomogla. Ale zima trzyma rynek martwo: nikt nie przychodzi z ksiegami, nisza milczy. Symon nie forsuje, bo jawne szukanie to ekspozycja; po prostu odnotowuje cisze. I tak wyplata z barki jutro, wiec to tylko jeden dzien na ostatnich miedziakach.
+
+## 296-11-08 POLUDNIE — przygotowania do opalu (chudo)
+Symon probuje jeszcze dopiac jutrzejszy dzien — ale okazuje sie, ze wiekszosc juz zrobil wczesniejszymi obchodami: Bran przy rozladunku, Garth na cle, barka potwierdzona u Torsena, podzial towaru (cech-prime, residue-opal do portu i Septy, parcela zamku) ustalony. To, co zostalo — zaklepac nabywcow na portowy opal, zebrac ludzi do sortowania — nie da sie zrobic dzis: kupcy zaczna sie liczyc dopiero, gdy towar bedzie na kei, a mroz przerzedza rece do najecia. Wiec Symon krzata sie nerwowo, przebiega listy, sprawdza po trzykroc — i niewiele z tego wychodzi ponad to, co juz mial. Nie szkodzi to niczemu: fundament stoi mocno, jutro po prostu dopnie reszte na miejscu. Ale prep nie dorzucil zadnego ekstra ulatwienia; troche zmeczenia i nerwow w zamian za spokoj sumienia.

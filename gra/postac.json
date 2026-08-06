@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 87,
- "sytosc": 75,
- "zmeczenie": 2,
+ "sytosc": 72,
+ "zmeczenie": 4,
  "sakiewka": {
   "miedziaki": 11,
   "jelenie": 5,
@@ -64,7 +64,7 @@
   "prawo": 52,
   "retoryka": 59,
   "jezyki": 66,
-  "spryt_uliczny": 73,
+  "spryt_uliczny": 74,
   "kondycja": 71,
   "rzemioslo": 0,
   "handel": 52,
@@ -85,6 +85,7 @@
   "SFERA WIARY I GRANICE TARCZY (od Owena, d28): Wiara Siedmiu ma wladze MORALNO-SPOLECZNA, nie zbrojna (Wiara Zbrojna dawno rozwiazana przez Targaryenow). Na Polnocy Wiara to MNIEJSZOSC (stare bogi); Bialy Port to wyjatek — silna, BO Manderly ja popiera. Sfera: septa jako AZYL, powaga septona, sluby/przysiegi przed Siedmioma, ostatnie namaszczenie, ubodzy/jalmuzna. STATUS SYMONA (pisarz Wiary pod publiczna opieka): pisze/uczy pod egida Wiary poza monopolem cechu; cechowe 'nielicencjonowany partacz' zneutralizowane (tknac go = obraza Siedmiu i poboznego Manderly'ego). GRANICE (twarde): (1) to tarcza MORALNA nie mur mieczy — nic nie da wobec noza w zlym zaulku noca albo kogos, kto Siedmiu sie nie boi (stad ukryty sztylet, unikanie Wilczego Legu/portu noca); (2) wisi na poboznosci Manderly'ego i pozycji Owena — wyzszy septon albo zmiana lorda moze ja oslabic; (3) WIAZE tez jego: winien Wierze sluzbe, przyzwoitosc, lojalnosc = mniej wolny agent; skandal, ktory zhanbi Wiare, zdziera tarcze szybko; (4) to oslona przed cechem/szykanami, NIE licencja na lamanie prawa ani prawa szlacheckie. SEDNO (Owen): tarcza trzyma, bo Symon ZASLUZYL legitymacje — karmi ubogich, sluzy, relief — uosabia cnoty Wiary NA WIDOKU; to warte wiecej niz pergamin. Trwac przy tym = tarcza mocna.",
   "PRAWO HANDLOWE W PRAKTYCE (od Nesty, d29): co WIAZE umowe tutaj = swiadkowie + pieczec notariusza + slowo stron POPARTE ich pozycja. Umowa nieszlachcica trzyma, jesli stoi za nia ktos, kto sie liczy (stad pieczec/kantor Nesty daje wage pismu Symona). DLUG: brak szybkiego sadu dla smallfolk — egzekwuje sie naciskiem, zajeciem, sprawiedliwoscia cechu/lorda JESLI masz pozycje, albo polamanymi palcami lichwiarza jesli nie (patrz Antaryon: wielki dom przyciska; patrz Elna: lichwiarz Lorren). SPORY: arbitraz cechu w sprawach fachu, sad lorda w wiekszych, apelacja do Starka w najciezszych — ale DOSTEP do sprawiedliwosci skaluje sie ze statusem; nieszlachcic 'wygrywa' glownie majac patrona/sojusznika, ktory za nim przemowi. SEDNO: papier wazy mniej niz to, KTO za nim stoi — perfekcyjna umowa dla nikogo jest egzekwowana przez nikogo. PRZEWAGA SYMONA: pisze bezbledny papier I buduje pozycje, ktora sprawia, ze papier trzyma.",
   "CZYTANIE DUSZ (od Owena, 11-02, rzut 95): przelom w luce Symona — dotad mial SPRYT (czytanie ludzi pod KATEM przewagi/podstepu), brakowalo mu czytania serc pod katem ZROZUMIENIA. Owen, pasterz dusz (spowiedz, ubodzy, trzoda), uczy go w sepcie na zywych twarzach: odroznic wstyd od roszczenia, prawdziwa nedze od gry na litosc, czlowieka, ktory klamie ze strachu, od tego, co z chciwosci; widziec POTRZEBE za slowami. Nie po to, by wykorzystac, lecz by trafnie POMOC i nie dac sie oszukac. Luka zaczyna sie domykac.",
-  "PRAWO A DUSZE (od Owena, 11-02): moralno-wiarowa strona prawa — sanktuarium, przysiegi przed Siedmioma, rola septona w sporach, prawo jako to, co ma sluzyc slabym a czesto ich miele; jak laczyc litere z sumieniem. Domyka prawnicze drzewko Symona o wymiar etyczny/wiarowy."
+  "PRAWO A DUSZE (od Owena, 11-02): moralno-wiarowa strona prawa — sanktuarium, przysiegi przed Siedmioma, rola septona w sporach, prawo jako to, co ma sluzyc slabym a czesto ich miele; jak laczyc litere z sumieniem. Domyka prawnicze drzewko Symona o wymiar etyczny/wiarowy.",
+  "ZIMA I UBODZY POLNOCY (od Owena, 11-04, urywkowo): zima to egzystencjalna proba Polnocy — co roku smallfolk umieraja z zimna/glodu/chorob; dlugosc lata zwiastuje surowosc zimy (dlugie lato -> lek przed dluga zima; maesterzy czekaja bialego kruka Cytadeli). Lord (Manderly, najbogatszy pol. rod, port) NAPELNIA spichrze i prowiantuje — ale wg powinnosci prioryzuje UZYTECZNYCH (garnizon, rzemieslnicy, sluzba); sam dol (zebracy, sieroty, samotne wdowy) zawsze wypada poza to i tam lata Wiara/sasiedzi, i tak nie doganiajac wszystkich. UWAGA: to wpis URYWKOWY — Owen dal gorzka prawde emocjonalna, nie jasna mape ani zadnej dzwigni; strategiczny kat (czy da sie ruszyc zamek/lorda ku wsparciu reliefu) NIE zostal odkryty w tej rozmowie."
  ]
 }

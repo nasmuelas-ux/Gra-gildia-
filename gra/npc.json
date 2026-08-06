@@ -926,16 +926,19 @@
    "przydomek": "kapitan",
    "zawod": "kapitan braavijskiej galery (linia handlowa domu pryncypala Nesty); ma dojscie do agenta/klucznika Zelaznego Banku",
    "mieszka": "galera_w_porcie",
-   "nastawienie_do_gracza": 10,
+   "nastawienie_do_gracza": 11,
    "zaufanie": 4,
    "wie_o_graczu": [
     "braavijczyk z mowy (zaskoczony plynnoscia Symona)",
     "wspolnik Nesty",
     "napisal bankowalne dossier — kapitan uznal Symona za rzetelnego audytora"
    ],
-   "ostatni_kontakt": "296-10-11",
+   "ostatni_kontakt": "296-11-11",
    "cechy_mowy": "rzeczowy, morski, braavijskie wtracenia; liczy czas i grosz",
-   "status": "PRZYJAL DOSSIER (rzut 44): uznal sprawe za solidna, niesie ja ze swoim nazwiskiem do agenta Banku. Bez obietnic (Bank ma swoj zegar i grosz), ale sprawa dostanie realne posluchanie. Wyplywa ~10-12."
+   "status": "PRZYJAL DOSSIER (rzut 44): uznal sprawe za solidna, niesie ja ze swoim nazwiskiem do agenta Banku. Bez obietnic (Bank ma swoj zegar i grosz), ale sprawa dostanie realne posluchanie. Wyplywa ~10-12.",
+   "historia": [
+    "m11d11: Symon wpadl spytac o interesy — rozmowa plytka. Belarno uprzejmy, ale zajety (zima, lod, harmonogram rejsow) i za slabo zna Symona (nast10), by dzielic sie braavijska gossip handlowa (Antaryon/Bank — nic). Tylko powierzchnia: gleboko-zimowe szlaki morskie sie zwezaja/ryzykowne. Nast 10->11. Wniosek: kontakt za plytki, wymaga budowania."
+   ]
   },
   {
    "id": "kupiec_harlon",

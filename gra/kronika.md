@@ -1967,3 +1967,6 @@ Symon idzie do Hala i pyta wprost, czy chce z nim popracowac w sepcie. Nie 'chod
 
 ## 296-10-23 POLUDNIE — nauka przy ksiegach jalmuzny
 Symon ciagnie robote z Halem przy septowych ksiegach jalmuzny. Chlopak, najedzony i rozgrzany, pracuje dokladnie i z uwaga — wczorajszy dolek zapomniany. Przy okazji Symon wplata pierwsza cicha lekcje dyskrecji, i to w polu zupelnie bezpiecznym: nazwiska na liscie jalmuzny to czyjas bieda i wstyd, wiec skryba, ktory trzyma jezyk za zebami i twarz zyczliwa, wart jest wiecej niz szybki gadula. Hal lapie to bez oporu — bo dyskrecja brzmi mu jak znak prawdziwego fachowca, a nie kaganiec, a on laknie znaczyc. Wiez rosnie (nast 37->38), a proba dyskrecji idzie w dobra strone. Wrazliwych spraw Symon wciaz mu nie odslania.
+
+## 296-10-23 WIECZOR -> d24 — mocne cwiczenie, sen
+Symon znow siedzi nad pergaminem do poznej swiecy — reka coraz rowniejsza, choc do poziomu mistrza (8) jeszcze kawal drogi wytrwalego cwiczenia. Sen twardy, noc bez zdarzen.

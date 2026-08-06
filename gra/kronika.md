@@ -1901,3 +1901,6 @@ Symon spędza resztę popołudnia przy pulpicie: własna robota, a między kolum
 
 ## 296-10-19 WIECZÓR — septa, Owen, sen
 Symon ćwiczy w sepcie posługę pisarską i zamienia słowo z Owenem. Septon spokojny, ale przy świecy napomyka, że mróz już zaczyna przyciskać ubogich — sierociniec krótki na opał, a najgorsze dopiero przyjdzie. Nie prosi o nic wprost; po prostu daje znać. Symon kładzie się na pryczy wypoczęty. Noc bez zdarzeń. (Owen nast +1; pismo +1 do licznika)
+
+## 296-10-20 RANEK — targ rybny, Wenda
+Symon idzie na Targ Rybny, kupuje ciepłą rybę z chlebem (−4 mied) i je na stojąco. Z Wendą zwykła poranna gadka — przekupka rzuca parę plotek, ale wszystko to stara śpiewka (cechowy niby szuka skryby, Pate niby dogorywa, kantor Nesty niby pada), rzeczy dawno oswojone i nieprawdziwe lub przebrzmiałe. Nic nowego. Wenda cieplej o grosz stałego klienta (nast 19→20).

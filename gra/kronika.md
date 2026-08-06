@@ -1979,3 +1979,6 @@ Symon odwiedza dwoch sojusznikow ze standingu. U Voxa trafia wyjatkowo cieplo: k
 
 ## 296-10-24 POLUDNIE — intel do Nesty
 Symon niesie Neście slowa Voxa: Antaryonowie tej zimy twardo scisleja dluznikow. Braavijka slucha uwaznie, kiwa glowa — ale nie zapala sie. 'Jeden kupiec przy grzancu to jeszcze nie pewnik, Symonie. Dobre do wiedzenia, nie do budowania.' Trzyma teze jako mozliwosc: jesli Antaryonowie faktycznie krotcy na gotowke, refinansowanie moze byc dla NICH wygodnym wyjsciem, nie tylko nasza tarcza. Ale ruchu nie zrobi, poki nie przyjda listy — odpowiedz Banku kolo trzydziestego i pryncypala kolo dziesiatego listopada. Do tego czasu intel lezy odlozony, potwierdzany albo nie.
+
+## 296-10-24 WIECZOR -> d25 — domkniety dzien
+Poobijany po sparze Symon cwiczy jeszcze reke przy swiecy, je i klada sie spac. Noc spokojna, siniaki schodza. Budzi sie na nowy dzien, blizej konca miesiaca — a z nim pierwsze wielkie odpowiedzi na zegarach.

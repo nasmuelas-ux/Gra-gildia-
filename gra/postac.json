@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 86,
- "sytosc": 86,
- "zmeczenie": 13,
+ "sytosc": 83,
+ "zmeczenie": 15,
  "sakiewka": {
   "miedziaki": 35,
   "jelenie": 7,
@@ -61,7 +61,7 @@
  "licznik_uzyc": {
   "pismo": 58,
   "rachunki": 51,
-  "prawo": 30,
+  "prawo": 32,
   "retoryka": 58,
   "jezyki": 66,
   "spryt_uliczny": 66,
@@ -80,6 +80,7 @@
   "BRAAVOS i HANDEL (od Nesty): prog rentownosci liczony PRZED zakupem; ryzyko rozdzielane sprawiedliwie w umowie (sila wyzsza); 'reputacja uczciwego = kapital, ktory rosnie gdy sie go rozdaje'; umowa na przyszlosc (zamrozic cene, maly zadatek)",
   "CZYTANIE LUDZI (od Owena): rozpoznac klamstwo, strach, dume vs pyche, uprzejmosc-maske vs szczera — swiadomie, nie z odruchu (spryt 8)",
   "ZASADA KANALOW: siec WIARY (Owen) TYLKO do sprawiedliwosci (Ryman/wdowa) — nie do handlu, by nie skalac Owena; handel polnocny = kanal SWIECKI (Torsen/Halvard). Nie mieszac sacrum z profanum.",
-  "POLITYKA POLNOCY (od Owena): Polnoc odpowiada przed WINTERFELL (Starkowie=lord zwierzchni). Manderly = najbogatszy chorazy Starkow, ale przybysze z Reach i Wiary — LOJALNI, lecz z wlasnym interesem. KLUCZ pod Rymana: Winterfell MOZE ZMUSIC Manderlych (swoich chorazych), jesli sprawa DOWIEDZIONA → to dzwignia PONAD lokalna zmowa Manderly-cech; apel do Winterfell = jezyk Stark-honoru + twardy dowod, nie targ"
+  "POLITYKA POLNOCY (od Owena): Polnoc odpowiada przed WINTERFELL (Starkowie=lord zwierzchni). Manderly = najbogatszy chorazy Starkow, ale przybysze z Reach i Wiary — LOJALNI, lecz z wlasnym interesem. KLUCZ pod Rymana: Winterfell MOZE ZMUSIC Manderlych (swoich chorazych), jesli sprawa DOWIEDZIONA → to dzwignia PONAD lokalna zmowa Manderly-cech; apel do Winterfell = jezyk Stark-honoru + twardy dowod, nie targ",
+  "PRAWO I DRABINA WLADZY BIALEGO PORTU (od Nesty, d28): prawo tu = DRABINA OSOB, nie kodeks. Szczeble: Zelazny Tron (daleko, niewazny) -> STARK/Winterfell (senior, wielka sprawiedliwosc, apelacje) -> MANDERLY/lord Wyman, Nowy Zamek (dzierzy sprawiedliwosc w miescie: sady, szubienica, jego oficerowie) -> CECHY (monopole na fach, poparte miastem) + WIARA Siedmiu (wlasna sfera: septa, azyl, moralna powaga) -> smallfolk (TY). STATUS SYMONA: nieszlachcic, bez licencji cechu, OBCY bez rodziny = z natury odsloniety (nikt nie poreczy/pomsci, latwo izolowac). ALE wcisnal sie sprytnie: pisarz Wiary pod jej opieka = TARCZA (pisze/uczy poza monopolem cechu; tknac = obraza Siedmiu); wspolnik kantoru; dostawca zamku (wiez z dworem przez Godrica); sojusznik kolodziejow — siec zamiast krwi. NAUKA: slowo nieszlachcica wazy mniej niz cechmistrza/pana; status barwi sprawiedliwosc; egzekucja umowy zalezy od tego, KTO za toba stoi; gra Rymana->Winterfell to WLASNIE uzycie drabiny (senioralna sprawiedliwosc Starkow ponad lokalnym cechem). Kontrast Braavos: tam prawo=moneta i kodeks, rowniej dla majetnych; tu=krew i osoby -> czytaj drabine."
  ]
 }

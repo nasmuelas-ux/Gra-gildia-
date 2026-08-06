@@ -7,9 +7,9 @@
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
- "zdrowie": 87,
- "sytosc": 95,
- "zmeczenie": 5,
+ "zdrowie": 88,
+ "sytosc": 100,
+ "zmeczenie": 2,
  "sakiewka": {
   "miedziaki": 98,
   "jelenie": 37,
@@ -65,10 +65,10 @@
   "retoryka": 48,
   "jezyki": 64,
   "spryt_uliczny": 66,
-  "kondycja": 62,
+  "kondycja": 63,
   "rzemioslo": 0,
   "handel": 38,
-  "walka": 29
+  "walka": 30
  },
  "jezyki_znane": [
   "mowa powszechna",

@@ -74,13 +74,7 @@
    "id": "bank_sondaz_szybki",
    "odlicza_do": "296-10-30",
    "typ": "szansa",
-   "opis": "Szybki sondaz do Zelaznego Banku pchniety galera kpt. Belarno (~10-12 wyplywa) do agenta domu Nesty — ODPOWIEDZ ETA ~10-30 (szybciej niz petla pryncypala 11-10). Warunek: dossier Symona nadaje mu wage. Czyni sygnal 'Bank zaangazowany' PRAWDZIWYM juz teraz."
-  },
-  {
-   "id": "dossier_deadline",
-   "odlicza_do": "296-10-12",
-   "typ": "zadanie",
-   "opis": "Dossier dla Banku: DRAFT MOCNY gotowy (rzut 72), z udokumentowanym zawyzeniem raty ponad umowe. Zostaje CZYSTOPIS + pieczec i wreczenie Belarnowi przed wyplynieciem ~10-12."
+   "opis": "Sondaz do Zelaznego Banku WYSLANY (d11): kpt. Belarno niesie SOLIDNE dossier Symona do agenta domu Nesty; wyplywa ~10-12, ODPOWIEDZ ETA ~10-30. Sprawa bankowalna (kantor zdrowy, rata zawyzona ponad umowe). Sygnal 'Bank zaangazowany' jest teraz PRAWDZIWY — mozna go bezpiecznie 'puscic' ku Ternesiowi."
   }
  ]
 }

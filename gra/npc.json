@@ -215,7 +215,7 @@
     "zdobyl przyczolek u stewarda Godrica (dyskretna robota audytowa, bez szczegolow); nosi sie z pomyslem traktatu o audytach/rachunkach"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-10",
+   "ostatni_kontakt": "296-10-11",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem"
   },
   {
@@ -879,15 +879,16 @@
    "przydomek": "kapitan",
    "zawod": "kapitan braavijskiej galery (linia handlowa domu pryncypala Nesty); ma dojscie do agenta/klucznika Zelaznego Banku",
    "mieszka": "galera_w_porcie",
-   "nastawienie_do_gracza": 6,
-   "zaufanie": 3,
+   "nastawienie_do_gracza": 10,
+   "zaufanie": 4,
    "wie_o_graczu": [
     "braavijczyk z mowy (zaskoczony plynnoscia Symona)",
-    "wspolnik Nesty"
+    "wspolnik Nesty",
+    "napisal bankowalne dossier — kapitan uznal Symona za rzetelnego audytora"
    ],
-   "ostatni_kontakt": "296-10-10",
+   "ostatni_kontakt": "296-10-11",
    "cechy_mowy": "rzeczowy, morski, braavijskie wtracenia; liczy czas i grosz",
-   "status": "wyplywa ~10-12; za oplate poniesie zapieczetowany, wazki sondaz do agenta Banku — ale tylko jak sprawa bedzie SOLIDNA (dossier Symona)"
+   "status": "PRZYJAL DOSSIER (rzut 44): uznal sprawe za solidna, niesie ja ze swoim nazwiskiem do agenta Banku. Bez obietnic (Bank ma swoj zegar i grosz), ale sprawa dostanie realne posluchanie. Wyplywa ~10-12."
   }
  ],
  "orbita": [

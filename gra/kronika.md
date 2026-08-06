@@ -2087,3 +2087,6 @@ Symon wraca do septy i siada nad ksiegami prawa. Po tych kilku dniach skupionej 
 
 ## 296-10-30 WIECZOR -> 11-01 — sen, nowy miesiac
 Zmeczony dniem pelnym prawa i cichej wojny Symon zasypia twardo. Miesiac sie przelamuje: konczy sie dziesiaty, wchodzi jedenasty, a z nim zima glebiej w kosciach. Noc spokojna. Przed nim listopadowa lawina odpowiedzi i odbiorow.
+
+## 296-11-01 RANEK — Aldous: trop na Denysa
+Symon je (-4 mied) i wraca do Aldousa po to, co kupiec zasygnalizowal: kto jeszcze jest skubany. Aldous, coraz bardziej lojalny, wskazuje konkretnie — DENYS, handlarz woskiem i swiecami przy Schodach. Zima podbija cene swiec, a dostawca Denysa, czlowiek z sieci Antaryona, zdaje sie go po cichu skracac, ten sam drapiezny wzor. To dopiero trop, nie dowod: Symon go nie zweryfikuje bez wgladu w ksiegi Denysa. Wiec zgodnie z metoda Nesty nie zaczepi go jawnie (jawne podejscie to ekspozycja, a cech wciaz wypatruje, co ten skryba czyta) — lepiej dac niszy weryfikacyjnej samej wciagnac Denysa, by przyszedl do faktorii z rachunkami, albo podejsc niezwykle ostroznie. Kandydat-cegła zanotowany, Symon niewidzialny. Aldous 34->35.

@@ -978,15 +978,25 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 34,
+   "nastawienie_do_gracza": 35,
    "zaufanie": 8,
-   "ostatni_kontakt": "296-10-29",
+   "ostatni_kontakt": "296-11-01",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
     "chce pewniejszego/tanszego zrodla wina; wie, ze Symon ma kanal braavijski"
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej"
+  },
+  {
+   "id": "kupiec_denys",
+   "imie": "Denys",
+   "zawod": "handlarz woskiem i swiecami (Schody/port)",
+   "nastawienie_do_gracza": 0,
+   "zaufanie": 0,
+   "ostatni_kontakt": null,
+   "wie_o_graczu": [],
+   "nota": "LEAD (od Aldousa, 11-01): wg Aldousa jego dostawca z sieci Antaryona zdaje sie go SKRACAC; towar (swiece/wosk) zima drogi = lakomy kas dla skimu. KANDYDAT-cegła bloku anty-Antaryon. NIEZWERYFIKOWANE — trzeba potwierdzic dyskretnie (najlepiej gdy sam najmie faktorie do ksiag, jak inni; NIE zaczepiac jawnie = ekspozycja). Symon niewidzialny."
   }
  ],
  "orbita": [

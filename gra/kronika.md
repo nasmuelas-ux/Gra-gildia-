@@ -2036,3 +2036,6 @@ Po posilku z Halem (-5 mied) Symon niesie caly zbior do Septy. Owen przyjmuje go
 
 ## 296-10-27 WIECZOR -> d28 — trening, lektura, sen
 Symon daje cialu trening silowy (kondycja), potem siada z braavijska ksiega przy dogasajacej swiecy (jezyki, i to marzenie o Braavos), i klada sie spac. Noc spokojna. Do odpowiedzi Banku dwa dni.
+
+## 296-10-28 RANEK — sparing: przelom (walka 6)
+Symon je (-4 mied) i idzie na klepisko — i dzis pierwszy raz to sie sklada. Chwyty, ktore Bran wbijal mu tygodniami, wreszcie wchodza w rece same: schodzi z linii ciosu, lapie nadgarstek, uzywa cudzego ciezaru, a raz nawet klad zie wielkiego tragarza na worki jego wlasnym rozpedem. Bran podnosi sie ze smiechem i tym rzadkim, prawdziwym szacunkiem: 'O, chlopcze. TO jest to. Wojownika z ciebie nie bedzie, ale bezbronny juz nie jestes.' Cos w cwiczonym ciele wreszcie zaskoczylo — walka rosnie z 5 na 6, pierwszy realny skok w fachu, ktorego Symon boi sie najbardziej. Kilka siniakow, ale wychodzi z klepiska inny. Bran 35->37.

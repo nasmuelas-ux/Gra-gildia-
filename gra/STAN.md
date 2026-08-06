@@ -17,7 +17,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 5
-**Reputacja:** port 21 · schody_zamkowe 22 · cech_pisarzy -6 · wiara 39 · zamek 2 · cech_kolodziejow 22
+**Reputacja:** port 21 · schody_zamkowe 22 · cech_pisarzy -6 · wiara 39 · zamek 2 · cech_kolodziejow 25
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -34,7 +34,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 33
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 35
-- **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 26
+- **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 31
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 10
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 20
 

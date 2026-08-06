@@ -44,7 +44,7 @@
   "cech_pisarzy": -6,
   "wiara": 39,
   "zamek": 2,
-  "cech_kolodziejow": 22
+  "cech_kolodziejow": 25
  },
  "umiejetnosci": {
   "pismo": 7,
@@ -60,7 +60,7 @@
  },
  "licznik_uzyc": {
   "pismo": 40,
-  "rachunki": 44,
+  "rachunki": 45,
   "prawo": 27,
   "retoryka": 46,
   "jezyki": 63,

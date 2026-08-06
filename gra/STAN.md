@@ -17,12 +17,12 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 5
-**Reputacja:** port 20 · schody_zamkowe 22 · cech_pisarzy -6 · wiara 39 · zamek 2 · cech_kolodziejow 22
+**Reputacja:** port 21 · schody_zamkowe 22 · cech_pisarzy -6 · wiara 39 · zamek 2 · cech_kolodziejow 22
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY
 
 ## LUDZIE NA SCENIE (nast. do gracza)
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 20
-- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 14
+- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 19
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 33
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 39
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 19

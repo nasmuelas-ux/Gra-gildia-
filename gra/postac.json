@@ -39,7 +39,7 @@
   "ksiega kupiecka (jedna z braavijskich) POZYCZONA Halowi — gest zaufania/inwestycji"
  ],
  "reputacja": {
-  "port": 20,
+  "port": 21,
   "schody_zamkowe": 22,
   "cech_pisarzy": -6,
   "wiara": 39,
@@ -59,9 +59,9 @@
   "walka": 5
  },
  "licznik_uzyc": {
-  "pismo": 39,
+  "pismo": 40,
   "rachunki": 44,
-  "prawo": 26,
+  "prawo": 27,
   "retoryka": 46,
   "jezyki": 63,
   "spryt_uliczny": 65,

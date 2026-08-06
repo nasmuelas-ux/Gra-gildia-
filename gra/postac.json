@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 86,
- "sytosc": 81,
- "zmeczenie": 8,
+ "sytosc": 77,
+ "zmeczenie": 11,
  "sakiewka": {
   "miedziaki": 19,
   "jelenie": 5,
@@ -42,7 +42,7 @@
   "port": 21,
   "schody_zamkowe": 24,
   "cech_pisarzy": -6,
-  "wiara": 42,
+  "wiara": 43,
   "zamek": 5,
   "cech_kolodziejow": 27
  },
@@ -59,12 +59,12 @@
   "walka": 6
  },
  "licznik_uzyc": {
-  "pismo": 58,
+  "pismo": 59,
   "rachunki": 54,
-  "prawo": 45,
+  "prawo": 47,
   "retoryka": 59,
   "jezyki": 66,
-  "spryt_uliczny": 71,
+  "spryt_uliczny": 72,
   "kondycja": 69,
   "rzemioslo": 0,
   "handel": 52,
@@ -83,6 +83,8 @@
   "POLITYKA POLNOCY (od Owena): Polnoc odpowiada przed WINTERFELL (Starkowie=lord zwierzchni). Manderly = najbogatszy chorazy Starkow, ale przybysze z Reach i Wiary — LOJALNI, lecz z wlasnym interesem. KLUCZ pod Rymana: Winterfell MOZE ZMUSIC Manderlych (swoich chorazych), jesli sprawa DOWIEDZIONA → to dzwignia PONAD lokalna zmowa Manderly-cech; apel do Winterfell = jezyk Stark-honoru + twardy dowod, nie targ",
   "PRAWO I DRABINA WLADZY BIALEGO PORTU (od Nesty, d28): prawo tu = DRABINA OSOB, nie kodeks. Szczeble: Zelazny Tron (daleko, niewazny) -> STARK/Winterfell (senior, wielka sprawiedliwosc, apelacje) -> MANDERLY/lord Wyman, Nowy Zamek (dzierzy sprawiedliwosc w miescie: sady, szubienica, jego oficerowie) -> CECHY (monopole na fach, poparte miastem) + WIARA Siedmiu (wlasna sfera: septa, azyl, moralna powaga) -> smallfolk (TY). STATUS SYMONA: nieszlachcic, bez licencji cechu, OBCY bez rodziny = z natury odsloniety (nikt nie poreczy/pomsci, latwo izolowac). ALE wcisnal sie sprytnie: pisarz Wiary pod jej opieka = TARCZA (pisze/uczy poza monopolem cechu; tknac = obraza Siedmiu); wspolnik kantoru; dostawca zamku (wiez z dworem przez Godrica); sojusznik kolodziejow — siec zamiast krwi. NAUKA: slowo nieszlachcica wazy mniej niz cechmistrza/pana; status barwi sprawiedliwosc; egzekucja umowy zalezy od tego, KTO za toba stoi; gra Rymana->Winterfell to WLASNIE uzycie drabiny (senioralna sprawiedliwosc Starkow ponad lokalnym cechem). Kontrast Braavos: tam prawo=moneta i kodeks, rowniej dla majetnych; tu=krew i osoby -> czytaj drabine.",
   "SFERA WIARY I GRANICE TARCZY (od Owena, d28): Wiara Siedmiu ma wladze MORALNO-SPOLECZNA, nie zbrojna (Wiara Zbrojna dawno rozwiazana przez Targaryenow). Na Polnocy Wiara to MNIEJSZOSC (stare bogi); Bialy Port to wyjatek — silna, BO Manderly ja popiera. Sfera: septa jako AZYL, powaga septona, sluby/przysiegi przed Siedmioma, ostatnie namaszczenie, ubodzy/jalmuzna. STATUS SYMONA (pisarz Wiary pod publiczna opieka): pisze/uczy pod egida Wiary poza monopolem cechu; cechowe 'nielicencjonowany partacz' zneutralizowane (tknac go = obraza Siedmiu i poboznego Manderly'ego). GRANICE (twarde): (1) to tarcza MORALNA nie mur mieczy — nic nie da wobec noza w zlym zaulku noca albo kogos, kto Siedmiu sie nie boi (stad ukryty sztylet, unikanie Wilczego Legu/portu noca); (2) wisi na poboznosci Manderly'ego i pozycji Owena — wyzszy septon albo zmiana lorda moze ja oslabic; (3) WIAZE tez jego: winien Wierze sluzbe, przyzwoitosc, lojalnosc = mniej wolny agent; skandal, ktory zhanbi Wiare, zdziera tarcze szybko; (4) to oslona przed cechem/szykanami, NIE licencja na lamanie prawa ani prawa szlacheckie. SEDNO (Owen): tarcza trzyma, bo Symon ZASLUZYL legitymacje — karmi ubogich, sluzy, relief — uosabia cnoty Wiary NA WIDOKU; to warte wiecej niz pergamin. Trwac przy tym = tarcza mocna.",
-  "PRAWO HANDLOWE W PRAKTYCE (od Nesty, d29): co WIAZE umowe tutaj = swiadkowie + pieczec notariusza + slowo stron POPARTE ich pozycja. Umowa nieszlachcica trzyma, jesli stoi za nia ktos, kto sie liczy (stad pieczec/kantor Nesty daje wage pismu Symona). DLUG: brak szybkiego sadu dla smallfolk — egzekwuje sie naciskiem, zajeciem, sprawiedliwoscia cechu/lorda JESLI masz pozycje, albo polamanymi palcami lichwiarza jesli nie (patrz Antaryon: wielki dom przyciska; patrz Elna: lichwiarz Lorren). SPORY: arbitraz cechu w sprawach fachu, sad lorda w wiekszych, apelacja do Starka w najciezszych — ale DOSTEP do sprawiedliwosci skaluje sie ze statusem; nieszlachcic 'wygrywa' glownie majac patrona/sojusznika, ktory za nim przemowi. SEDNO: papier wazy mniej niz to, KTO za nim stoi — perfekcyjna umowa dla nikogo jest egzekwowana przez nikogo. PRZEWAGA SYMONA: pisze bezbledny papier I buduje pozycje, ktora sprawia, ze papier trzyma."
+  "PRAWO HANDLOWE W PRAKTYCE (od Nesty, d29): co WIAZE umowe tutaj = swiadkowie + pieczec notariusza + slowo stron POPARTE ich pozycja. Umowa nieszlachcica trzyma, jesli stoi za nia ktos, kto sie liczy (stad pieczec/kantor Nesty daje wage pismu Symona). DLUG: brak szybkiego sadu dla smallfolk — egzekwuje sie naciskiem, zajeciem, sprawiedliwoscia cechu/lorda JESLI masz pozycje, albo polamanymi palcami lichwiarza jesli nie (patrz Antaryon: wielki dom przyciska; patrz Elna: lichwiarz Lorren). SPORY: arbitraz cechu w sprawach fachu, sad lorda w wiekszych, apelacja do Starka w najciezszych — ale DOSTEP do sprawiedliwosci skaluje sie ze statusem; nieszlachcic 'wygrywa' glownie majac patrona/sojusznika, ktory za nim przemowi. SEDNO: papier wazy mniej niz to, KTO za nim stoi — perfekcyjna umowa dla nikogo jest egzekwowana przez nikogo. PRZEWAGA SYMONA: pisze bezbledny papier I buduje pozycje, ktora sprawia, ze papier trzyma.",
+  "CZYTANIE DUSZ (od Owena, 11-02, rzut 95): przelom w luce Symona — dotad mial SPRYT (czytanie ludzi pod KATEM przewagi/podstepu), brakowalo mu czytania serc pod katem ZROZUMIENIA. Owen, pasterz dusz (spowiedz, ubodzy, trzoda), uczy go w sepcie na zywych twarzach: odroznic wstyd od roszczenia, prawdziwa nedze od gry na litosc, czlowieka, ktory klamie ze strachu, od tego, co z chciwosci; widziec POTRZEBE za slowami. Nie po to, by wykorzystac, lecz by trafnie POMOC i nie dac sie oszukac. Luka zaczyna sie domykac.",
+  "PRAWO A DUSZE (od Owena, 11-02): moralno-wiarowa strona prawa — sanktuarium, przysiegi przed Siedmioma, rola septona w sporach, prawo jako to, co ma sluzyc slabym a czesto ich miele; jak laczyc litere z sumieniem. Domyka prawnicze drzewko Symona o wymiar etyczny/wiarowy."
  ]
 }

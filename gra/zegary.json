@@ -42,8 +42,8 @@
   },
   {
    "id": "antaryon_termin",
-   "typ": "zagrozenie",
-   "opis": "Termin (rata) dlugu Nesty wobec Antaryonow ~15-go. RYZYKO ZAJECIA OBNIZONE (d10): kantor otoczony murem standingu kupieckiego (Leona+Vox) — Ternesio drozej teraz eskalowac. Rate i tak trzeba SPELNIC; cel: przejsc ja do refinansowania (~11-10).",
+   "typ": "termin",
+   "opis": "Rata dlugu Nesty wobec Antaryonow ~15-go. ZAGROZENIE ZAJECIA NEUTRALIZOWANE (d11, rzut 84): po sygnale (glos Nesty, Bank realnie w ruchu, standing kupiecki) Ternesio cofnal poze eskalacji — wezmie rate 15-go jak zwykla platnosc, bez ludzi u drzwi. Rate TRZEBA zaplacic (platnosc+ew. mostek), ale to juz nie kryzys, tylko transakcja. Czas ku refinansowaniu (Bank ~30 / pryncypal 11-10) kupiony czysto.",
    "odlicza_do": "296-10-15",
    "co_sie_stanie": "przy terminie Antaryon dociska Neste (renegocjacja/grozba); jesli Symon niewykorzystal dzwigni (zawyzenie+zanizone clo), traci okno",
    "widoczny_graczowi": true

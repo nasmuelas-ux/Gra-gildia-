@@ -6,7 +6,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** Poludnie d11, mrozno ku zimie. Dossier dla Banku WYSLANE galera Belarna (odpowiedz ~30) — sygnal 'Bank zaangazowany' jest teraz PRAWDZIWY. Standing kupiecki trzyma, Ternesio nie ruszyl. Zostaje: pusci
+- **Nastroje:** Poludnie d11, mrozno ku zimie. PRZELOM ws. Antaryonow: po sygnale (Bank realnie w ruchu + standing) Ternesio cofnal poze zajecia — rate 15-go wezmie jak zwykla platnosc, bez ludzi u drzwi. Kryzys zdje
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 22 jeleni + 4 mied + 0 smokow
@@ -24,7 +24,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 20
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 14
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 33
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 36
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 37
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 19
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 37
@@ -44,7 +44,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-25` import_barwniki: Vhassar wraca z probna skrzynia barwnikow tyrijskich (noga importowa spolki egzotycznej); zaplata reszty przy 
 - ◆ `296-11-10` futra_polnoc: Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa
 - ◆ `296-11-20` odbior_skor: Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos
-- ⚠ `296-10-15` antaryon_termin: Termin (rata) dlugu Nesty wobec Antaryonow ~15-go. RYZYKO ZAJECIA OBNIZONE (d10): kantor otoczony murem standi
+- ◆ `296-10-15` antaryon_termin: Rata dlugu Nesty wobec Antaryonow ~15-go. ZAGROZENIE ZAJECIA NEUTRALIZOWANE (d11, rzut 84): po sygnale (glos N
 - ◆ `296-11-10` odpowiedz_pryncypala: Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Bank
 - ◆ `296-10-14` flip_sprzedaz: Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusn
 - ◆ `296-10-13` godric_rozprawa_wat: Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon

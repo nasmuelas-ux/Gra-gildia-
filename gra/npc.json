@@ -142,7 +142,7 @@
     "strata 'Corki Tytana' z towarem",
     "oszustwo miejscowego notariusza"
    ],
-   "nastawienie_do_gracza": 38,
+   "nastawienie_do_gracza": 39,
    "zaufanie": 26,
    "wie_o_graczu": [
     "czyta braavijski lepiej, niz sie spodziewala",
@@ -217,7 +217,7 @@
     "przyjal do kantoru Hala (sierota Owena) na probe — zaakceptowala, ostrzegla by pilnowac zapedow chlopca"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-14",
+   "ostatni_kontakt": "296-10-15",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem"
   },
   {
@@ -768,7 +768,7 @@
    "imie": "Ternesio",
    "zawod": "faktor braavijskiego domu Antaryon (flota galer) w Bialym Porcie; swiezo bez czytacza, placi dobrze i stale — potencjalny silny patron — teraz PYTA O SYMONA PO IMIENIU w porcie (uslyszal, ze to on jest braavijskim czytaczem)",
    "nastawienie_do_gracza": 2,
-   "status": "DE-ESKALACJA (d11, rzut 84): cofnal poze zajecia; traktuje kantor jako podparty (port) i refinansowaniem-bound (Bank realnie w ruchu). Rate wezmie 15-go jak zwykla platnosc, bez ludzi u drzwi. Ostrozniejszy — wie, ze druga strona umie udokumentowac zawyzenie.",
+   "status": "RATA WZIETA (d15, rzut 44): przyjal pelna zaplate; udokumentowana rezerwa nadwyzki przyjeta CHLODNO — rozumie, ze kantor ma na jego zawyzenie DOWOD na piśmie. Veiled jab (\"refinansowanie, jesli do niego dojdzie\"), ale ZERO re-eskalacji. Relacja: zimny, czujny rozejm; wie, ze kantor podparty i z kwitami.",
    "wie_o_graczu": [
     "kantor ma za soba port i sondaz Zelaznego Banku; nie oplaca sie dusic"
    ]

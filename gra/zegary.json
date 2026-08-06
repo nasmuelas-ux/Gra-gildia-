@@ -41,14 +41,6 @@
    "widoczny_graczowi": true
   },
   {
-   "id": "antaryon_termin",
-   "typ": "termin",
-   "opis": "Rata Antaryonow JUTRO (~15). PLAN (d14, rzut 92): Nesta placi w PELNI (pokoj, zero re-prowokacji przed Bankiem), z UDOKUMENTOWANA REZERWA co do nadwyzki ponad kontrakt ('rozliczymy przy refinansowaniu') — dossier Symona jako odroczona dzwignia. Nesta udzwiga sama (bez mostka). Zamyka ostry kryzys na ten cykl.",
-   "odlicza_do": "296-10-15",
-   "co_sie_stanie": "przy terminie Antaryon dociska Neste (renegocjacja/grozba); jesli Symon niewykorzystal dzwigni (zawyzenie+zanizone clo), traci okno",
-   "widoczny_graczowi": true
-  },
-  {
    "id": "odpowiedz_pryncypala",
    "typ": "okazja",
    "opis": "Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Banku; hak: Antaryon oszukuje). Rejs daleki, decyzja wielkich = wolna",

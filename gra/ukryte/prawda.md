@@ -160,3 +160,6 @@ Roznica wobec nieudanej sciezki: metoda byla cicha (logika zuzycia + Garth), wie
 
 ## Reaktywacja Rymana (296-10-17) — swiadek gasnie
 Wick, stary sluga Starego Zamku i jedyny zyjacy swiadek rejestru, ciezko zachorowal — starosc plus chlod celi u progu zimy, NATURALNIE (nie Ryman; asymetria cala, Ryman nadal niczego nie wie). Korroboracja okazuje sie krucha: kopia + gasnacy Wick + daleki rejestr + zaginiona wdowa. Jesli Wick umrze bez spisanego zeznania, sprawa traci noge, ktorej zadal Theomore. Wyscig o przysiegla depozycje.
+
+## Wick — deposycja przegrana (296-10-17)
+Wick odszedl umyslem, potem zycia (natur.), zanim Symon wyjal prawomocne zeznanie. Zyjaca noga korroboracji Rymana stracona. Zostaje: kopia + daleki rejestr Starego Zamku + zaginiona wdowa. Ryman NADAL nie wie o niczym (asymetria cala). Sprawa mocno oslabiona, ale kopia i inne (trudniejsze) legi zyja.

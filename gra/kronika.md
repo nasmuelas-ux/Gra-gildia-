@@ -2297,3 +2297,6 @@ Symon zaglada do Wendy na gasnacym, mroznym targu rybnym, gdzie przekupki zwijaj
 
 ## 296-11-13 ZMIERZCH — o polityce z Owenem (cienko)
 Symon siada z Owenem pogadac o wielkiej szachownicy — ale o zmierzchu, po dniu pelnym chodzenia, rozmowa sie nie klei. Owen jest zmeczony i, jak to on, mierny w slowach; a nade wszystko po prostu nie ma czym nakarmic ciekawosci Symona. Fronty stoja ciche: cechowa sonda o pochodzenie wciaz zimna wedlug tego, co czyta Ansell, a wielka submisja Rymana sunie swoja powolna droga ku Winterfell i nie da sie jej przyspieszyc ani cofnac. Zamiast intelu Owen dzieli sie raczej cichym niepokojem: puscili w ruch spory kamien - list skalibrowany tak, by obudzic starkowska inkwizycje - i teraz moga jedynie czekac, co ten kamien strąci po drodze; to wildcard, ktorego zaden z nich nie trzyma juz w rekach. I dorzuca lagodna nauke, w ktora Symon musi sie wsluchac: to jest sezon cierpliwego ustawiania sie, nie forsowania - a Symon, rozbiegany dzis po calym miescie, moze potrzebowac uslyszec, ze nie kazdy dzien ma cos 'ruszyc'. Rozmowa nie dala odpowiedzi, dala trzezwosc. Zmierzch, dzien byl dlugi.
+
+## 296-11-13 ZMIERZCH -> 11-14 — prawo, sen
+Symon czyta prawo i spi po dlugim, pelnym dniu (pomoc Aldousowi, runda wizyt, geopolityka z Owenem). Owen 54->55. Rytm cierpliwosci trwa: skory ~20, barwniki ~25, potem zelazo i wiesci z Braavos.

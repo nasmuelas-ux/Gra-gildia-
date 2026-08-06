@@ -39,7 +39,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 20
 
 ## ZEGARY (odliczaja)
-- ◆ `296-10-25` polnocna_inquiry: KORROBORACJA POLNOCNA — PRZELOM (d12): Ansell namierzyl swiadka ze Starego Zamku Locke poswiadczajacego rejest
+- ◆ `296-10-25` polnocna_inquiry: Kanal ku Winterfell (raven korzystny). PO STRACIE WICKA (d17) niesie PRZEKIEROWANA sprawe Rymana: cel = wszcza
 - ◆ `296-11-25` import_barwniki: Vhassar wraca z probna skrzynia barwnikow tyrijskich (noga importowa spolki egzotycznej); zaplata reszty przy 
 - ◆ `296-11-10` futra_polnoc: Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa
 - ◆ `296-11-20` odbior_skor: Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos

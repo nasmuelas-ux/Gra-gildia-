@@ -213,10 +213,11 @@
     "prosi o publiczne oparcie faktorii przeciw cechowi",
     "zna benignna narracje origin Symona i bedzie ja powtarzac (kanal siania)",
     "zdobyl przyczolek u stewarda Godrica (dyskretna robota audytowa, bez szczegolow); nosi sie z pomyslem traktatu o audytach/rachunkach",
-    "pre-seed origin puszczony za wczesnie (wyciek waski) — Nesta wstrzymala, gdy zobaczyla, ze budzi ciekawosc zamiast nudy"
+    "pre-seed origin puszczony za wczesnie (wyciek waski) — Nesta wstrzymala, gdy zobaczyla, ze budzi ciekawosc zamiast nudy",
+    "przyjal do kantoru Hala (sierota Owena) na probe — zaakceptowala, ostrzegla by pilnowac zapedow chlopca"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-13",
+   "ostatni_kontakt": "296-10-14",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem"
   },
   {
@@ -926,7 +927,7 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "sierociniec_przy_Sepcie",
-   "nastawienie_do_gracza": 14,
+   "nastawienie_do_gracza": 15,
    "zaufanie": 6,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
@@ -935,7 +936,7 @@
    ],
    "ostatni_kontakt": "296-10-14",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
-   "status": "NA PROBIE (d14, rzut 47): przyjal — po swojemu, bez wylewnosci, ale wzial; blysk na 'prawdziwa nauka fachu'. UKLAD: rutynowa, nieszkodliwa robota w kantorze (kopie, proste rachunki, przepisywanie), uczciwa modesta zaplata; mieszka dalej przy sierocincu (Owen). MENTORSHIP zaczety na wlasciwej stopie (szacunek). WRAZLIWE (manifesty/Antaryon/Ryman/zrodlo bloku) NIEDOSTEPNE — rozszerzac DOPIERO gdy dyskrecja dowiedziona; podlozona proba dyskrecji do zrobienia. Nast 11->14."
+   "status": "NA PROBIE, PIERWSZY DZIEN (d14, rzut 45): wzial sie do rutyny (kopie, proste rachunki) z glodem udowodnienia sie — szybki, jeszcze surowy/nierowny, ale sie przyklada. Symon poprawia teraz LAGODNIE/pytajac (nauka odrobiona). Nesta go zaakceptowala i wyczula: bystry i chetny, ale zielony — pilnowac, by z checi 'byc szybkim' nie ciął rogow/nie robil bledow. Wrazliwe wciaz odciete; proba dyskrecji pending. Nast 14->15."
   }
  ],
  "orbita": [

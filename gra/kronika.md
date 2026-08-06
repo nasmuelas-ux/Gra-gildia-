@@ -1925,3 +1925,6 @@ Symon je sniadanie (-4 mied) i idzie do Nesty przegadac commit. Braavijka daje z
 
 ## 296-10-21 RANEK — Torsen: srednia partia pęka na frachcie
 Symon chce klepnac SREDNIA probna partie — wiecej niz Nesta radzila. I tu ekonomia pokazuje pazur: przy malym locie drewno jedzie darmowym balastem ponad lekkie futra, ale przy srednim przestaje byc balastem — zaczyna wypierac ladunek i wymagac wlasnego frachtu, a u zrodla wiekszy zimowy lot juz podbijaja inni, co provisionuja na zime. Torsen podnosi cene za sag i chce doplaty za fracht nadwyzki; 'prawie darmowa' marza paruje w oczach. To dokladnie ta sciana, przed ktora ostrzegala Nesta. Symon widzi to na zimno przy stole i nic nie wyklada — targ nie dobity. Zostaje wybor: wrocic do malej czystej partii, zaplacic za srednia gorsza marza, albo odpuscic. Kasa nietknieta.
+
+## 296-10-21 RANEK — dobita mala partia opalu
+Symon wraca do sweet-spotu i klepie maly lot drewna opalowego — tyle, ile jedzie darmowym balastem ponad lekkie futra. Placi 7 jeleni (zrodlo + dola Torsena, -7 jel), partia przyplynie z probna barka futrzana ~11-10. Plan bez zmian: wiekszosc na sprzedaz w zmarznietym porcie, czesc do Septy po koszcie, cicho. Marza mala ale czysta, kanal polnocny przecwiczony tanio, rezerwy nietkniete. Torsen dobity kontraktem cieplejszy (nast 13->15).

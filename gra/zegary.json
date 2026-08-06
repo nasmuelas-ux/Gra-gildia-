@@ -3,8 +3,8 @@
   {
    "id": "polnocna_inquiry",
    "typ": "okazja",
-   "opis": "Kanal ku Winterfell (raven korzystny). PO STRACIE WICKA (d17) niesie PRZEKIEROWANA sprawe Rymana: cel = wszczac INKWIZYCJE Starkow (nie prog Theomore), hookiem kopia + swiadectwo Owena + podejrzana smierc maestera Aemona; potem Stark-authority wymusza rejestr Locke + szuka wdowy. Owen driver. Cierpliwosc (ksiezyce), asymetria, Symon niewidzialny.",
-   "odlicza_do": "296-10-25",
+   "opis": "SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Starkow (hook: kopia + swiadectwo Owena + podejrzana smierc maestera Aemona; burden-flip: niech Polnoc wymusi rejestr Locke + wdowe). Odpowiedz/reakcja Polnocy realnie KSIEZYCE (~zima). Ryzyko: Polnoc niechetna mieszac sie w cechowe sprawy wasala — long shot, ale najlepsza mozliwa sprawa zlozona. Asymetria cala; Symon niewidzialny. Czekac cierpliwie.",
+   "odlicza_do": "296-12-15",
    "co_sie_stanie": "za tygodnie: odpowiedz z polnocy — korroboracja (rejestr/oryginal/wdowa) albo trudnosc; krok milowy w sprawie Rymana",
    "widoczny_graczowi": true
   },

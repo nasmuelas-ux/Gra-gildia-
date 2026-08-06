@@ -13,7 +13,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 85 · Sytosc 71 · Zmeczenie 12
+- Zdrowie 85 · Sytosc 68 · Zmeczenie 14
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6
@@ -24,7 +24,7 @@ pismo 7 · rachunki 8 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 29
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 23
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 41
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 47
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 48
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 22
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 54
@@ -46,6 +46,7 @@ pismo 7 · rachunki 8 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-05` audyt_frachtu_zbior: CZESCIOWY CZYT (11-05, rzut 39): dane Gartha pokazuja, ze deklaracje frachtu/cla drewna sa ZAWYZONE/niespojne 
 - ◆ `?` zelazo_dostawa: Trial zelaza z Gulltown w drodze (zimowa trasa wschodnia, pewny kpt+okno pogodowe). Przybycie ~late XI, zalezn
 - ◆ `?` futra_wiesc: Wiesc z Braavos o sprzedazy probnej partii futer/skor/bursztynu (noga wywozowa spolki egzotycznej, wyplyneła 1
+- ◆ `?` aldous_wino_dojdzie: Wino Aldousa dojdzie z przeladowni przy oknie pogodowym/odwilzy (skute lodem od 11-13). Splaca pozyczke pod za
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

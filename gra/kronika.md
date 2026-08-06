@@ -1949,3 +1949,6 @@ Symon niesie Torsenowi liczbe cechu, a ten od reki blokuje cene w gorze rzeki. Z
 
 ## 296-10-22 RANEK — Nesta: 'zbudowales kanal'
 Symon chwali sie Neście, ze konsorcjum stoi. Braavijka slucha i przez chwile patrzy na niego inaczej — z uznaniem, ktore u niej rzadkie. 'Wziales to, co ci mowilam — mało, nie zagarniaj — i z frachtowej sciany zrobiles kanal', mowi. 'Nie kupiles opalu, Symonie. Zbudowales kanal. To jest roznica miedzy sklepikarzem a faktorem.' Widzi, ze model jest powtarzalny: agreguj popyt, rozloz fracht, wez dole, nie ryzykuj wlasnej kieszeni. Marks go w glowie na wieksza odpowiedzialnosc w kantorze. Rzuca tez trzezwa uwage: organizowanie calego cechu wklada jego imie w wiecej ust — pod opieka Wiary da sie to unieść, ale warto pilnowac, kto patrzy. Wiez glebnie (nast 40->42).
+
+## 296-10-22 POLUDNIE — cwiczenie pisma, sluzba, Owen
+Symon cwiczy litery i sluzy w sepcie — kopie, porzadkuje, pomaga przy dzieciach. Z Owenem rozmowa spokojna, o zwyklych rzeczach; septon wdzieczny, ze opal — choc maly — jednak idzie, i rad, ze Symon trzyma sie blisko Wiary. Dzien pobozny, bez zdarzen. Pismo +1.

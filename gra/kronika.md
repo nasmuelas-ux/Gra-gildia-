@@ -2009,3 +2009,6 @@ Symon je (-4 mied) i idzie na klepisko, ale poranek jest mrozny, miesnie sztywne
 
 ## 296-10-26 RANEK — celnik Garth
 Symon zaglada do Gartha przy Bramie Foki — i po relacje, i po ciche sprawy. Rozmowa spokojna, zyczliwa; celnik rad, ze pisarz pamieta. O cichym cross-checku frachtu Garth mowi tylko tyle, ile trzeba: dane wciaz kapia po kawalku, nic twardego jeszcze, trzeba cierpliwosci (~przelom miesiaca). Za to praktyczna rzecz: Symonow rejs opalu i drewna spod dziewiatego listopada przejdzie akurat przez jego clo — interes czysty, wiec Garth po przyjacielsku uprzedza o stawkach i obiecuje plynne przejscie. Symon nie napiera na wrazliwe, tylko odswieza wiez (nast 20->21).
+
+## 296-10-26 RANEK — Hal: nakarmic i uczyc glebiej
+Symon najpierw sadza Hala do posilku (-5 mied) — nauka dopiero po cieple, po tamtym zmarznietym dniu — a potem pokazuje mu rzeczy powazniejsze: glebsza braavijska podwojna ksiegowosc, logike audytu, to, jak liczby potrafia odsloniic prawde, ktorej ktos nie chce pokazac. Sama teoria, zaden sekret. Najedzony chlopak blyszczy: chlonie szybko, dopytuje celnie, a ten jego glod, by znaczyc, syci sie tu nauka, nie litoscia. Wiez i zaufanie glebnie (nast 38->40). Trial jest juz wyraznie mocny — zbliza sie moment, w ktorym mozna dac mu wlasny fragment nie-wrazliwych ksiag do prowadzenia pod okiem. Sekretow Symon wciaz mu nie odslania.

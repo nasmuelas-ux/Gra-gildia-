@@ -992,10 +992,12 @@
    "id": "kupiec_denys",
    "imie": "Denys",
    "zawod": "handlarz woskiem i swiecami (Schody/port)",
-   "nastawienie_do_gracza": 0,
+   "nastawienie_do_gracza": 8,
    "zaufanie": 0,
-   "ostatni_kontakt": null,
-   "wie_o_graczu": [],
+   "ostatni_kontakt": "296-11-04",
+   "wie_o_graczu": [
+    "przyszedl do faktorii po dyskretny audyt swoich ksiag — niespokojny o dostawce; slyszal, ze 'ten pisarz' rzetelny i cichy (nisza/pewnie szept Aldousa)"
+   ],
    "nota": "LEAD (od Aldousa, 11-01): wg Aldousa jego dostawca z sieci Antaryona zdaje sie go SKRACAC; towar (swiece/wosk) zima drogi = lakomy kas dla skimu. KANDYDAT-cegła bloku anty-Antaryon. NIEZWERYFIKOWANE — trzeba potwierdzic dyskretnie (najlepiej gdy sam najmie faktorie do ksiag, jak inni; NIE zaczepiac jawnie = ekspozycja). Symon niewidzialny."
   }
  ],

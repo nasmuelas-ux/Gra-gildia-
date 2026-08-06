@@ -2171,3 +2171,6 @@ Symon zaglada do Brana i tu wieczor jest cieplejszy. Tragarz w dobrej formie —
 
 ## 296-11-05 WIECZOR -> 11-06 — prawo, sen
 Symon czyta prawo i spi. Noc spokojna, mroz trzyma. Do dostawy opalu i wyplaty trzy dni.
+
+## 296-11-06 RANEK — sparing z Branem
+Symon je w sepcie (za darmo, bo tam mieszka i sluzy — sakiewka i tak na ostatnich miedziakach) i idzie na klepisko. Dzis idzie dobrze: chwyty, ktore niedawno wskoczyly, siedza juz pewniej — schodzi z linii, lapie dzwignie, trzyma sie w zwarciu z wiekszym Branem dluzej niz kiedys. Kilka siniakow, uczciwy pot, bez upokorzenia. Bran zadowolony z ucznia, ktory rosnie (nast 39->40). Walka osiada glebiej w cialo.

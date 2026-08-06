@@ -13,7 +13,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 87 · Sytosc 75 · Zmeczenie 2
+- Zdrowie 86 · Sytosc 87 · Zmeczenie 10
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6
@@ -23,7 +23,7 @@ pismo 7 · rachunki 8 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 ## LUDZIE NA SCENIE (nast. do gracza)
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 26
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 23
-- **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 39
+- **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 40
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 45
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 21
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3

@@ -1907,3 +1907,6 @@ Symon idzie na Targ Rybny, kupuje ciepłą rybę z chlebem (−4 mied) i je na s
 
 ## 296-10-20 RANEK — szukanie zlecenia: chudo
 Symon obchodzi port i podnóże Schodów, dając znać, że pisze. Ale zima już przerzedza ruch — mniej statków, mniej listów, mniej umów do spisania. Jedyne, co się trafia, to niepiśmienny, który chce list za parę miedziaków i jeszcze się targuje; Symon, nie będąc w potrzebie (dochód z kantoru), grzecznie odpuszcza. Poranek schodzi bez zarobku, ale i bez szkody. Otwarte kanały na kiedy indziej: księgowa robota u Nesty, podania przy Schodach.
+
+## 296-10-20 RANEK — leady brokerskie: sucho
+Symon sonduje pośrednictwo (kojarzenie stron za prowizję) — u Nesty w kantorze, na Schodach u suknic. Odpowiedź jednomyślna: teraz cicho. Zima ścina ruch, kupcy siedzą na towarze i czekają na ceny; nowego zlecenia dla pośrednika dziś nie ma. Własne kawałki wiszą na terminach (żelazo z Gulltown ~11-02, nogi spółki egzotycznej 11-10/20/25, futra), nie ma czego 'wypychać' przed czasem. Symon nie przeeksponował się — po prostu rynek śpi.

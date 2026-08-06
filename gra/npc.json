@@ -145,7 +145,7 @@
     "strata 'Corki Tytana' z towarem",
     "oszustwo miejscowego notariusza"
    ],
-   "nastawienie_do_gracza": 40,
+   "nastawienie_do_gracza": 42,
    "zaufanie": 26,
    "wie_o_graczu": [
     "czyta braavijski lepiej, niz sie spodziewala",
@@ -217,10 +217,11 @@
     "zna benignna narracje origin Symona i bedzie ja powtarzac (kanal siania)",
     "zdobyl przyczolek u stewarda Godrica (dyskretna robota audytowa, bez szczegolow); nosi sie z pomyslem traktatu o audytach/rachunkach",
     "pre-seed origin puszczony za wczesnie (wyciek waski) — Nesta wstrzymala, gdy zobaczyla, ze budzi ciekawosc zamiast nudy",
-    "przyjal do kantoru Hala (sierota Owena) na probe — zaakceptowala, ostrzegla by pilnowac zapedow chlopca"
+    "przyjal do kantoru Hala (sierota Owena) na probe — zaakceptowala, ostrzegla by pilnowac zapedow chlopca",
+    "nie kupil opalu — ZBUDOWAL kanal (agregacja+brokerstwo); Nesta widzi w nim material na faktora, nie sklepikarza"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-21",
+   "ostatni_kontakt": "296-10-22",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem"
   },
   {

@@ -926,15 +926,16 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "sierociniec_przy_Sepcie",
-   "nastawienie_do_gracza": 2,
-   "zaufanie": 3,
+   "nastawienie_do_gracza": 11,
+   "zaufanie": 5,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
-    "pierwsza rozmowa cierpka — poczul sie poprawiany/protekcjonowany przez waznego pisarza"
+    "pierwsza rozmowa cierpka — poczul sie poprawiany/protekcjonowany przez waznego pisarza",
+    "Symon przyznal blad i spytal o jego zdanie — pierwszy dorosly, ktory potraktowal go jak kogos wartego"
    ],
    "ostatni_kontakt": "296-10-14",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
-   "status": "PIERWSZE SPOTKANIE SOURED (d14, rzut 13): Symon zaproponowal uczciwa oferte, ale przy probce uczliwosci POPRAWIL chlopca ZBYT WCZESNIE — Hal, dumny i raw, odczytal poprawke jako protekcjonalnosc (pan przyszedl pokazac sierocie, ze glupi). Duma flare: ciety, obronny, zamknal sie/odszczeknal. NIE wrog, ale footing USZKODZONY (nast 8->2). NAUKA: z tym chlopcem najpierw ZASLUZYC na szacunek, DOPIERO potem uczyc/poprawiac. Recoverable, najem PAUZA do re-approach."
+   "status": "FOOTING NAPRAWIONY (d14, rzut 56): Symon cofnal korekte, PRZEPROSIL wprost i spytal, jak HAL by to napisal. Dorosly przyznajacy blad i pytajacy sierote o zdanie rozbroil chlopca — mur opadl, odpowiedzial (najpierw czujnie, potem z blyskiem dumy, ze jego zdanie chca) i pokazal, ze gdy nie protekcjonowany, jest bystry i chlonny. Dzwignia szacunku ZADZIALALA (Owen mial racje). Nast 2->11, ziarnо wiezi. Teachability wyglada DOBRZE bez korekty z gory. Proba teraz WYKONALNA na wlasciwej stopie."
   }
  ],
  "orbita": [

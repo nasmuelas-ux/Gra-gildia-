@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 11,
+  "dzien": 12,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 37,
- "dzien_tygodnia_nr": 6,
+ "pogoda": 33,
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "Poludnie d11, mrozno ku zimie. PRZELOM ws. Antaryonow: po sygnale (Bank realnie w ruchu + standing) Ternesio cofnal poze zajecia — rate 15-go wezmie jak zwykla platnosc, bez ludzi u drzwi. Kryzys zdjety, zostaje sama zaplata + refinansowanie w drodze (Bank ~30). Flip okno do ~14; Godric/Wat ~13 w tle; Harwin przyczajony.",
+ "nastroje_miasta": "Ranek d12, mrozno, mokry snieg w powietrzu. Galera Belarna wychodzi dzis z portu — dossier/sondaz do Zelaznego Banku RUSZA (odpowiedz ~30). Blok anty-Antaryon konsoliduje sie cicho (Leona=kotwica-wspolarchitekt). Poczta pantoflowa niszy: kolejny kupiec narzeka, ze faktor z sieci wielkich domow go skraca — mozliwa 3. cegla. W tle: rata Antaryonow ~3 dni (zwykla platnosc, bez zajecia); Godric/Wat ~jutro; flip okno do ~14; Harwin przyczajony.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 11
+ "dzien": 12
 }

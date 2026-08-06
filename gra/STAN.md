@@ -2,18 +2,18 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-10-11 POLUDNIE · schylek dlugiego lata
+- **Data:** 296-10-12 RANEK · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** Poludnie d11, mrozno ku zimie. PRZELOM ws. Antaryonow: po sygnale (Bank realnie w ruchu + standing) Ternesio cofnal poze zajecia — rate 15-go wezmie jak zwykla platnosc, bez ludzi u drzwi. Kryzys zdje
+- **Nastroje:** Ranek d12, mrozno, mokry snieg w powietrzu. Galera Belarna wychodzi dzis z portu — dossier/sondaz do Zelaznego Banku RUSZA (odpowiedz ~30). Blok anty-Antaryon konsoliduje sie cicho (Leona=kotwica-wspo
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 22 jeleni + 4 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 81 · Sytosc 95 · Zmeczenie 4
+- Zdrowie 82 · Sytosc 70 · Zmeczenie 2
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 4

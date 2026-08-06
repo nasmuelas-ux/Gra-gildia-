@@ -881,11 +881,14 @@
    "id": "kupiec_marlon",
    "imie": "Marlon",
    "zawod": "kupiec (dealings z sieci Antaryona)",
-   "nastawienie_do_gracza": 15,
+   "nastawienie_do_gracza": 18,
    "nota": "m10d6: audyt POTWIERDZIL, ze partner z sieci Antaryona go skubie; wdzieczny, zaplacil, ufa Symonowi. ALE BOJAZLIWY wobec wielkiego domu — potencjalny 2. czlonek bloku, lecz SLABE OGNIWO: sam nie ruszy, moze zwlekac/zloamac sie/tipnac Antaryona ze strachu; wejdzie tylko pod zbiorowa oslona",
    "zaufanie": 5,
    "status": "BLOK anty-Antaryon: CEGLA 2 (potwierdzony m10d6, rzut 53 — partner z sieci Antaryona go skubie). Ufa, ale BOJAZLIWY = slabe ogniwo; wejdzie tylko pod zbiorowa oslona; ryzyko: zwleka/lamie sie/tipnie ze strachu.",
-   "ostatni_kontakt": "296-10-29"
+   "ostatni_kontakt": "296-11-11",
+   "historia": [
+    "m11d11: Symon doglada slabej cegly. Czyta strach Marlona (spryt) — tchorz bo realnie boi sie zasiegu sieci Antaryona, z ktora sam robi. Wlasciwe lekarstwo: standing jest ZBIOROWY, nikt nie kaze mu wychylac sie SAM, nie prosi o nic aktywnego — tylko trwac cicho. Marlon, ze mu ulzylo (nie pchany do dzialania przeciw sieci), uspokaja sie. Nast 15->18. Wciaz tchorz, ale re-osadzony."
+   ]
   },
   {
    "id": "zarzadca_godric",

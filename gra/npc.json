@@ -927,8 +927,8 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "sierociniec_przy_Sepcie",
-   "nastawienie_do_gracza": 15,
-   "zaufanie": 6,
+   "nastawienie_do_gracza": 21,
+   "zaufanie": 8,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
     "pierwsza rozmowa cierpka — poczul sie poprawiany/protekcjonowany przez waznego pisarza",
@@ -937,7 +937,7 @@
    ],
    "ostatni_kontakt": "296-10-14",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
-   "status": "NA PROBIE, PIERWSZY DZIEN (d14, rzut 45): wzial sie do rutyny (kopie, proste rachunki) z glodem udowodnienia sie — szybki, jeszcze surowy/nierowny, ale sie przyklada. Symon poprawia teraz LAGODNIE/pytajac (nauka odrobiona). Nesta go zaakceptowala i wyczula: bystry i chetny, ale zielony — pilnowac, by z checi 'byc szybkim' nie ciął rogow/nie robil bledow. Wrazliwe wciaz odciete; proba dyskrecji pending. Nast 14->15. || POSILEK (d14, rzut 15): zjadl wdziecznie (glodny), ALE na pytania o zycie/sierociniec ZAMKNAL sie — clipped 'zyje sie', wzruszenie ramion; wyczul w tym LITOSC, ktorej nienawidzi. NAUKA: tego chlopca siega sie przez SZACUNEK i ROBOTE (jego kompetencje, jego zdanie), NIE przez wspolczujace wypytywanie o bide. Nast bez zmian (15). || OBSERWACJA (d14, rzut 27): bystry i pracowity, ALE glod udowodnienia sie pcha go do CIECIA ROGOW — zeby wygladac na kompetentnego, pospieszyl sume/ZGADL zamazane slowo zamiast przyznac, ze nie wie (caveat Nesty potwierdzony). ZOLTA FLAGA: duma sklania go, by UKRYC luke, nie pokazac niewiedzy. To dane do pytania o honesty/dyskrecje (kto ukrywa mala luke, moze ukryc wieksza — ALBO to tylko mloda duma do wyszlifowania mentorstwem). DO COACHINGU: doklad nosc>szybkosc, 'pytaj, nie zgaduj/ukrywaj'. Nast 15."
+   "status": "NA PROBIE — MENTORSHIP KLIKA (d14, rzut 41): Symon wykul zasade 'pytaj, nie zgaduj/ukrywaj' jako DUME FACHU (skryba, ktoremu ufaja), nie nagane — chlopiec glodny bycia kims wartym ZLAPAL to jako 'tak sie jest DOBRYM'. Pozyczona ksiega kupiecka scela go: zaufanie/inwestycja (a nie litosc) trafiaja tam, gdzie posilek nie siegnal — dumny chlopiec, nieprzywykly, by ktos powierzyl mu cos cennego, cicho poruszony. Nast 15->21, zaufanie ro snie. Ciecie-rogow: teraz ZNA standard i chce mu sprostac (coaching trwa, nie idealny od razu). Honesty trend +."
   }
  ],
  "orbita": [

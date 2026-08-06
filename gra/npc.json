@@ -552,7 +552,8 @@
    "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem",
    "status": "WSPOLARCHITEKT CZYNNY (d16, rzut 74): dostala KONKRETNY kregoslup — krzywda celno-frachtowa dusi uczciwe rzemiosło (kupcy+kolodzieje) I okrada lorda. Zapala sie, laczy Schody z cechami, pomoze wywechac wiecej dotknietych bran (masa); gotowa byc twarza, gdy przyjdzie czas. Zrodla (manifesty) NIE zna — Symon oprawil jako wzor, ktory czuja wszyscy uczciwi.",
    "historia": [
-    "m11d11: Symon wpadl po 12 dniach — trafil na zly moment: Leona zaharowana, handel suknem przyduszony gluchym mrozem (martwy rynek), o cien opryskliwa (i jego nieobecnosc znac). Wizyta nie iskrzyla. Symon (spryt) nie pchal, skrocil. Nast bez zmian (42, solidna). Nugget: pod zimowym naciskiem MIEKSZE brzegi koalicji sie nerwuja/chwieja (nie Leona — ona twarda — ale flaguje fray; tchorze typu Marlon podatni)."
+    "m11d11: Symon wpadl po 12 dniach — trafil na zly moment: Leona zaharowana, handel suknem przyduszony gluchym mrozem (martwy rynek), o cien opryskliwa . Wizyta nie iskrzyla. Symon (spryt) nie pchal, skrocil. Nast bez zmian (42, solidna). Nugget: pod zimowym naciskiem MIEKSZE brzegi koalicji sie nerwuja/chwieja (nie Leona — ona twarda — ale flaguje fray; tchorze typu Marlon podatni).",
+    "KOREKTA meta (uwaga gracza): 12 dni przerwy to NIE powod chlodu — dryf tylko -1/tydz (~-1.7). Klapa wizyty = sytuacja Leony (zaharowana, martwy zimowy handel), NIE zaniedbanie ze strony Symona. Nie przypisywac ochłodzenia krótkim nieobecnościom."
    ]
   },
   {

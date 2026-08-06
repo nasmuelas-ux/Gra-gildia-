@@ -24,7 +24,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 20
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 14
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 33
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 37
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 38
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 19
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 40
@@ -44,7 +44,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-11-25` import_barwniki: Vhassar wraca z probna skrzynia barwnikow tyrijskich (noga importowa spolki egzotycznej); zaplata reszty przy 
 - ◆ `296-11-10` futra_polnoc: Torsen/Halvard: probna partia polnocnych futer/skor/bursztynu Bialym Nozem z transportem drewna (noga wywozowa
 - ◆ `296-11-20` odbior_skor: Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos
-- ◆ `296-10-15` antaryon_termin: Rata dlugu Nesty wobec Antaryonow ~15-go. ZAGROZENIE ZAJECIA NEUTRALIZOWANE (d11, rzut 84): po sygnale (glos N
+- ◆ `296-10-15` antaryon_termin: Rata Antaryonow JUTRO (~15). PLAN (d14, rzut 92): Nesta placi w PELNI (pokoj, zero re-prowokacji przed Bankiem
 - ◆ `296-11-10` odpowiedz_pryncypala: Odpowiedz pryncypala Nesty z Braavos na list-sondaz (refinansowanie dlugu Antaryonow / kanal do Zelaznego Bank
 - ◆ `296-10-30` bank_sondaz_szybki: Sondaz do Zelaznego Banku WYSLANY (d11): kpt. Belarno niesie SOLIDNE dossier Symona do agenta domu Nesty; wypl
 - ⚠ `296-10-17` cech_trop_origin: Wyciek origin waski (Gunthor->Harwin). FILAR WIARY DZIALA (d13, Ansell/Owen rzut 62): cech STALLED na samym or

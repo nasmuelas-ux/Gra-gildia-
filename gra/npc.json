@@ -972,6 +972,20 @@
    "ostatni_kontakt": "296-10-17",
    "cechy_mowy": "stary, gadatliwy, myli watki; slaby glos",
    "status": "POZA ZEZNANIEM, UMIERA (d17, rzut 5): umysl odplynal zanim Symon wyjal czyste zeznanie — mylil wdowe z inna, wolal Symona imieniem zmarlego maestera, zasnal. Tylko fragmenty/majaki, nic prawomocnego. Owen daje ostatnie namaszczenie; starzec dogorywa. Zyjaca noga korroboracji STRACONA."
+  },
+  {
+   "id": "kupiec_aldous",
+   "imie": "Aldous",
+   "zawod": "handlarz winem (Schody/port)",
+   "nastawienie_do_gracza": 34,
+   "zaufanie": 8,
+   "ostatni_kontakt": "296-10-29",
+   "wie_o_graczu": [
+    "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
+    "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
+    "chce pewniejszego/tanszego zrodla wina; wie, ze Symon ma kanal braavijski"
+   ],
+   "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej"
   }
  ],
  "orbita": [

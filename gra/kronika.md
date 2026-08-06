@@ -1898,3 +1898,6 @@ Symon pyta chłopca nie o los, lecz o robotę. Hal mówi szczerze: trzyma go to,
 
 ## 296-10-19 POŁUDNIE — cichy warsztat
 Symon spędza resztę popołudnia przy pulpicie: własna robota, a między kolumnami liczb — księga (traktat o umowach/prawie portu). Nikt nie przeszkadza. Dzień zamyka się spokojnie, bez zdarzeń; głowa pełniejsza o kilka paragrafów, ciało nieco zmęczone. (prawo: +1 do licznika, bez awansu)
+
+## 296-10-19 WIECZÓR — septa, Owen, sen
+Symon ćwiczy w sepcie posługę pisarską i zamienia słowo z Owenem. Septon spokojny, ale przy świecy napomyka, że mróz już zaczyna przyciskać ubogich — sierociniec krótki na opał, a najgorsze dopiero przyjdzie. Nie prosi o nic wprost; po prostu daje znać. Symon kładzie się na pryczy wypoczęty. Noc bez zdarzeń. (Owen nast +1; pismo +1 do licznika)

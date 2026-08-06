@@ -356,11 +356,13 @@
     "radzi sie ws. wynajmu wlasnej izby. Owen (protekcyjnie, bez wlasnego interesu): wlasny kat to godna rzecz dla mlodego, i BEDZIE go mial z blogoslawienstwem — ale NIE TERAZ, gdy niesie 'bombe' i robi poteznych wrogow; septa=tarcza wlasnie na taki czas. Radzi ZOSTAC pod dachem Matki, az burza (zboze/hoarderzy) przejdzie, potem isc. + cieply grunt: septa to jego dom, Owen bez zalu go puszcza gdy przyjdzie czas, byle fortuna nie odciagnela go w pyche/izolacje od ludzi",
     "pyta o swiat i o STARKOW — Owen (polnocny septon) wyjasnia: Eddard Stark, honorowy Wardender Polnocy z Winterfell, nad lordem Manderly; Polnoc czci STARE BOGI (Wiara Siedmiu tam mniejszoscia, Manderlyowie jej bastionem); sprawiedliwosc Starkow surowa i uczciwa. WAZNE dla Rymana: Starkowie SA PONAD lokalna zmowa Manderly-cech, wiec krzywda chroniona lokalnie moze znalezc sprawiedliwosc apelowana W GORE do Winterfell = dokladnie kierunek polnocnej inquiry (Ansell). Symon laczy swoj sekret z nadzieja na honor Starkow",
     "caly dzien pomagal przytulkowi w glodzie (pioro dla ubogich) i uczyl sie czytania ludzi w praktyce (rozroznianie prawdziwej nedzy od naciagacza — pod przyszla dystrybucje zboza); ulzyl przemeczonemu Owenowi. Wiez najglebsza",
-    "Ansell namierzyl swiadka ze Starego Zamku Locke — korroboracja rejestru pod sprawe Rymana"
+    "Ansell namierzyl swiadka ze Starego Zamku Locke — korroboracja rejestru pod sprawe Rymana",
+    "wspolwie o wpadce: origin Symona (Stary Zamek/Aemon Rivers) wyciekl przy oslanianiu swiadka"
    ],
    "dlugi": [],
    "ostatni_kontakt": "296-10-12",
-   "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'"
+   "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
+   "status": "ZGRYZIONY: wzial swiadka pod piecze Wiary, ale operacja sie wysypala (rzut 2) — link Symon<-Aemon Rivers<-Stary Zamek wyciekl. Wini sie, ale zostaje sojusznikiem; pomoze zawalczyc o kontrole szkody."
   },
   {
    "id": "lorren_lichwiarz",
@@ -425,7 +427,8 @@
    ],
    "dlugi": [],
    "ostatni_kontakt": "296-08-11",
-   "cechy_mowy": "cedzi slowa, urzedowa grzeczosc z grozba pod spodem; mowi 'przyjacielu'"
+   "cechy_mowy": "cedzi slowa, urzedowa grzeczosc z grozba pod spodem; mowi 'przyjacielu'",
+   "status": "MA NOWY KAT: cechowy trop origin Symona ozywiony — link do Starego Zamku Locke / maestera Aemona Riversa (koncowka, ktorej szukali po utracie broni licencyjnej). Bedzie to rozwijac/wykorzystywac."
   },
   {
    "id": "maester_theomore",

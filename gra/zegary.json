@@ -77,10 +77,10 @@
    "opis": "Sondaz do Zelaznego Banku WYSLANY (d11): kpt. Belarno niesie SOLIDNE dossier Symona do agenta domu Nesty; wyplywa DZIS 10-12, ODPOWIEDZ ETA ~10-30. Sprawa bankowalna (kantor zdrowy, rata zawyzona ponad umowe). Sygnal 'Bank zaangazowany' jest teraz PRAWDZIWY — mozna go bezpiecznie 'puscic' ku Ternesiowi."
   },
   {
-   "id": "swiadek_luzny_koniec",
-   "odlicza_do": "296-10-20",
+   "id": "cech_trop_origin",
+   "odlicza_do": "296-10-17",
    "typ": "zagrozenie",
-   "opis": "Swiadek ze Starego Zamku Locke = luzny koniec: NIEoslonieny, ryzyko ze cech (tropiacy origin Symona) dotrze do niego pierwszy i polaczy Symona ze Starym Zamkiem/Rymanem. Dzialanie: cicha piecza Wiary (Owen) go zabezpiecza. Okno na oslone teraz."
+   "opis": "WYCIEK (d12, rzut 2): przy oslanianiu swiadka link Symon<-maester Aemon Rivers<-Stary Zamek Locke wyszedl na jaw i dotarl do probera cechu (Gunthor/Harwin). Cech ma teraz NOWY KAT (koncowke origin, ktorej szukal). Rozwinie to: moze przekuc w smear 'obcy ukrywa podejrzana przeszlosc / powiazanie z Rymanem' lub podwazyc parasol Wiary. Okno na kontrole szkody ZANIM cech to uzbroi."
   }
  ]
 }

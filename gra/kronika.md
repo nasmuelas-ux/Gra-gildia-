@@ -2000,3 +2000,6 @@ Symon wraca do Godrica z konkretem. Zarzadca chce brac — ale klaruje granice: 
 
 ## 296-10-25 POLUDNIE — zaklepany zamkowy dodatek (rzeka goni)
 Symon nie zwleka i leci do Torsena zaklepac dodatek u Halvarda. Udaje sie — ale na ostatnia chwile przed lodem trzeba bylo poslac w gore rzeki zadatek, ze trzy jelenie, zeby Halvard zdazyl dorobic zrab (odzysk przy dostawie). Poslaniec ruszyl. Barka jest teraz pelna po brzegi — to sufit, wiecej juz nie wejdzie, co zreszta tlumaczy, czemu wieksze zamowienie dworu i tak by sie nie zmiescilo. Rejs zlozony w calosci: cech bierze prime na kola i osie, zamek swoja parcele opalu i drewna, do tego wlasny maly opal Symona i porcja dla Septy po koszcie. Wszystko domkniete i zabezpieczone na czas. Wolnej gotowki zostalo cienko, 7 jeleni i 58 miedziakow — dokladnie ten working float, o ktory strzegla Nesta. Dostawa kolo dziewiatego listopada. Torsen 22->23.
+
+## 296-10-25 WIECZOR -> d26 — domkniety dzien
+Po trzech dniach, ktore zlozyly opalowy kanal az po dwor, Symon cwiczy jeszcze reke, je i zasypia twardo. Na rzece rosnie lod. Budzi sie na nowy dzien — do odpowiedzi Zelaznego Banku zostaja cztery dni.

@@ -1937,3 +1937,6 @@ Zamiast pchac wiekszy wlasny lot, Symon idzie z pomyslem do Borena: wspolny poln
 
 ## 296-10-21 POLUDNIE — Torsen: zrodlo dopiete
 Symon wraca do Torsena dopiac pojemnosc u zrodla na wiekszy, cechowy lot. Odpowiedz lepsza, niz liczyl: Halvard uciagnie taki wolumen, a Torsen — czujac stalego, powtarzalnego odbiorce, o jakim faktor marzy — robi sie wrecz gorliwy (nast 15->18). Rzuca cenna rzecz: firma cechowego zamowienia pozwoli mu ZABLOKOWAC cene w gorze rzeki juz teraz, zanim zimowy popyt ja podbije, wiec im szybciej wolumen sklepany, tym lepsza marza dla wszystkich. Jeden solidny rejs przed zamarznieciem rzeki, okolo 8-10 listopada. Zrodlo i kotwica-odbiorca stoja; zostaje sformalizowac wolumen z majstrami cechu, ewentualnie dobrac Leone i Voxa, i ustawic dole Symona.
+
+## 296-10-21 -> d22 — domkniete poludnie
+Symon zamyka dzien, zmeczony ale z interesem rosnacym pod reka. Plan na jutro: do Borena sformalizowac cechowy wolumen konsorcjum opalowego (zeby Torsen mogl zablokowac cene u zrodla). Wieczor i noc bez zdarzen.

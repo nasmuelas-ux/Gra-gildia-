@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** Ranek d18, chlodno, spokojnie. LULL po zamknieciu wielkich pozarow: fronty w drodze, nie na stole. W TOKU (zegary): sondaz Banku (~30), odpowiedz pryncypala (~11-10), spolka egzotyczna dojrzewa (futra
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 37 jeleni + 98 mied + 0 smokow
+- **Wolne:** 37 jeleni + 88 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 300 miedziakow (3 jelenie, za kwitem) — oszczednosci (podniesiony ze 160 z zysku/honorariow)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
@@ -21,7 +21,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY
 
 ## LUDZIE NA SCENIE (nast. do gracza)
-- **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 20
+- **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 23
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 19
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 34
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 39

@@ -21,7 +21,7 @@
     "ze wnuk umrze jak jej corka",
     "eksmisja przez wlasciciela kamienicy"
    ],
-   "nastawienie_do_gracza": 20,
+   "nastawienie_do_gracza": 23,
    "zaufanie": 7,
    "wie_o_graczu": [
     "umie pisac",
@@ -34,10 +34,11 @@
     "d30: Symon podszedl do niej przy sepcie i rozmawial po ludzku, gdy sie zlamala. Ustalil: goraczka wnuka nie ustepuje ~ tydzien, brak grosza na prawdziwego uzdrowiciela, zapomoga za mala; przyszla sie modlic bo nic innego nie zostalo. Z dumy NIE prosi Symona o nic. Symon czyta jej potrzebe nowymi oczami",
     "m9d1: wnuk PRZEZYL — goraczka pekla w nocy dzieki uzdrowicielce i lekom. Serla przekonana, ze uratowala go Matka i nieznany dobroczynca; NIE wie, ze to Symon (godnosc zachowana)",
     "m9d1: Symon odwiedzil (jako 'skryba/sasiad', NIE dobroczynca) zdrowiejacego wnuka, przyniosl mu cieple jedzenie po ludzku; Serla przepelniona wdziecznoscia do Matki/nieznanego, cieszy sie z Symonem — nie wie, ze to on ratowal. Kocha go jak swojego (synek)",
-    "m9d4: Symon spytal o rodzicow dziecka — wyszlo, ze corka Serli (matka chlopca) umarla, ojciec przepadl/zginal; Serla, stara wdowa, chowa wnuka SAMA jako ostatniego ze swojej krwi. To czyni ratunek dziecka tym ciezszym; Symon rozumie teraz pelna wage tego, co zrobil"
+    "m9d4: Symon spytal o rodzicow dziecka — wyszlo, ze corka Serli (matka chlopca) umarla, ojciec przepadl/zginal; Serla, stara wdowa, chowa wnuka SAMA jako ostatniego ze swojej krwi. To czyni ratunek dziecka tym ciezszym; Symon rozumie teraz pelna wage tego, co zrobil",
+    "przyszedl z jedzeniem i z uczniem, spytal po ludzku co u niej — samotnej wdowie to wiele; Tom powoli zdrowieje"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-04",
+   "ostatni_kontakt": "296-10-18",
    "cechy_mowy": "cieplo, ale zaraz o pieniadzach; mowi 'synku', wzdycha",
    "nota": "DAWNA gospodyni Symona (już u niej nie mieszka — przeniósł się do Septy); nadal przyjaciółka, wnuk chorowity"
   },
@@ -932,7 +933,7 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "sierociniec_przy_Sepcie",
-   "nastawienie_do_gracza": 31,
+   "nastawienie_do_gracza": 34,
    "zaufanie": 12,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
@@ -943,7 +944,7 @@
    ],
    "ostatni_kontakt": "296-10-18",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
-   "status": "NA PROBIE — IDZIE DOBRZE (d16, rzut 92): Hal ZASTOSOWAL zasade — trafil na zamazane slowo i SPYTAL zamiast zgadywac; dokladnosc rosnie, ciecie-rogow ustepuje. Blysnal talentem (szybka trafna suma, bystra uwaga), otworzyl sie przez ROBOTE (nie litosc) — nawet spytal Symona o fach i wlasna przyszlosc. Wiez glebsza (nast 23->27), zaufanie ro snie. Trial wyraznie na plus; zblizamy sie do momentu na drobna probe dyskrecji + stopniowe poszerzanie NIE-wrazliwej odpowiedzialnosci. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d18 (rzut 30): dzien plaski — solidna rutyna, lekcje trzymaja (bez regresu), ale bez skoku; chlopiec glodny WIECEJ (dopytuje o powazniejsza robote), Symon lagodnie trzyma go na rutynie (zielony jeszcze). Nast 27 (bez zmian). Poszerzanie odpowiedzialnosci + proba dyskrecji: nieco pozniej. || d18 (rzut 78): zaawansowana lekcja teoretyczna (struktury umow, logika audytu, braavijska podwojna ksiegowosc) NAKARMILA jego glod BEZPIECZNIE (teoria, zero sekretow); szybki, bystre pytania. Zapytal, czy ktos jak on moze naprawde dojsc wyzej — Symon widzi w nim mlodszego siebie. Wiez glebnie (nast ->31). Trial mocno na plus."
+   "status": "NA PROBIE — IDZIE DOBRZE (d16, rzut 92): Hal ZASTOSOWAL zasade — trafil na zamazane slowo i SPYTAL zamiast zgadywac; dokladnosc rosnie, ciecie-rogow ustepuje. Blysnal talentem (szybka trafna suma, bystra uwaga), otworzyl sie przez ROBOTE (nie litosc) — nawet spytal Symona o fach i wlasna przyszlosc. Wiez glebsza (nast 23->27), zaufanie ro snie. Trial wyraznie na plus; zblizamy sie do momentu na drobna probe dyskrecji + stopniowe poszerzanie NIE-wrazliwej odpowiedzialnosci. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d18 (rzut 30): dzien plaski — solidna rutyna, lekcje trzymaja (bez regresu), ale bez skoku; chlopiec glodny WIECEJ (dopytuje o powazniejsza robote), Symon lagodnie trzyma go na rutynie (zielony jeszcze). Nast 27 (bez zmian). Poszerzanie odpowiedzialnosci + proba dyskrecji: nieco pozniej. || d18 (rzut 78): zaawansowana lekcja teoretyczna (struktury umow, logika audytu, braavijska podwojna ksiegowosc) NAKARMILA jego glod BEZPIECZNIE (teoria, zero sekretow); szybki, bystre pytania. Zapytal, czy ktos jak on moze naprawde dojsc wyzej — Symon widzi w nim mlodszego siebie. Wiez glebnie (nast ->31). Trial mocno na plus. || d18 (rzut 58): zobaczyl, jak Symon karmi ubuga wdowe i chore dziecko nie oczekujac nic, i uslyszal nauke: mysl o innych, pomagaj otoczeniu; oszusci/tnacy rogi przegrywaja na dluzsza mete; spryt != oszukiwanie. Lekcja PADLA (bo najpierw zobaczyl) — u korzenia jego ciecia-rogow. Nast ->34."
   },
   {
    "id": "wick_swiadek",

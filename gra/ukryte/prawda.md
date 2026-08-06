@@ -157,3 +157,6 @@ Wat, klucznik piwnicy (podwladny Godrica), od miesiecy zanizal wpisy ubytku wina
 
 ## Podanie werdyktu — cicho (296-10-09) — sukces (rzut 56)
 Roznica wobec nieudanej sciezki: metoda byla cicha (logika zuzycia + Garth), wiec Wat nigdy nie zostal sploszony i nie zdazyl z preemptywnym smearem; Godric dostal to, o co PROSIL (pewnosc, zanim jawny ruch), wiec nie byl zawstydzony obcym-snoopem. Efekt: steward wdzieczny, ceni Symona, zajmie sie Watem sam. Najwazniejsze: Symon NIE jest wystawiony jako lowca — Wat nie wie, kto go policzyl, wiec brak wroga i brak dynamiki 'niewygodnego swiadka'. Symon zdobyl realny foothold ku lordowi Wymanowi wartoscia, nie prosba, i bez ceny.
+
+## Reaktywacja Rymana (296-10-17) — swiadek gasnie
+Wick, stary sluga Starego Zamku i jedyny zyjacy swiadek rejestru, ciezko zachorowal — starosc plus chlod celi u progu zimy, NATURALNIE (nie Ryman; asymetria cala, Ryman nadal niczego nie wie). Korroboracja okazuje sie krucha: kopia + gasnacy Wick + daleki rejestr + zaginiona wdowa. Jesli Wick umrze bez spisanego zeznania, sprawa traci noge, ktorej zadal Theomore. Wyscig o przysiegla depozycje.

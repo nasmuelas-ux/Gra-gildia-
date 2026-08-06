@@ -364,7 +364,7 @@
     "wspolwie o wpadce: origin Symona (Stary Zamek/Aemon Rivers) wyciekl przy oslanianiu swiadka"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-16",
+   "ostatni_kontakt": "296-10-17",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "FRONT WIARY U ESTABLISHMENTU ZASTAWIONY (rzut 65): pozycjonuje Symona przed rada/kasztelanem jako sankcjonowanego pisarza Septy i dobroczynce reliefu; ruch cechu przeciw niemu = atak na Sept + bohatera miasta (kosztowny). Wskazuje: dopelnic GODRICEM (strona swiecka/lorda)."
   },
@@ -942,6 +942,21 @@
    "ostatni_kontakt": "296-10-16",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
    "status": "NA PROBIE — IDZIE DOBRZE (d16, rzut 92): Hal ZASTOSOWAL zasade — trafil na zamazane slowo i SPYTAL zamiast zgadywac; dokladnosc rosnie, ciecie-rogow ustepuje. Blysnal talentem (szybka trafna suma, bystra uwaga), otworzyl sie przez ROBOTE (nie litosc) — nawet spytal Symona o fach i wlasna przyszlosc. Wiez glebsza (nast 23->27), zaufanie ro snie. Trial wyraznie na plus; zblizamy sie do momentu na drobna probe dyskrecji + stopniowe poszerzanie NIE-wrazliwej odpowiedzialnosci. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete."
+  },
+  {
+   "id": "wick_swiadek",
+   "imie": "Wick",
+   "przydomek": "stary",
+   "zawod": "stary sluga ze Starego Zamku Locke; jedyny zyjacy swiadek rejestru (korroboracja Rymana)",
+   "mieszka": "cela_przy_Sepcie (piecza Wiary)",
+   "nastawienie_do_gracza": 5,
+   "zaufanie": 4,
+   "wie_o_graczu": [
+    "mlody Symon uczyl sie u maestera Aemona"
+   ],
+   "ostatni_kontakt": "296-10-17",
+   "cechy_mowy": "stary, gadatliwy, myli watki; slaby glos",
+   "status": "CIEZKO CHORY (d17): starosc + chlod celi u progu zimy zwalily go; MOZE nie dozyc. Jedyna zyjaca noga korroboracji rejestru KRUSZY sie. PILNE: spisac przysiegle zeznanie ZANIM odejdzie/pogorszy sie."
   }
  ],
  "orbita": [

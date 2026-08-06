@@ -1724,3 +1724,7 @@ Symon idzie do Owena z frontem rady/kasztelana — i septon bierze go na siebie.
 
 ## 296-10-13 RANEK/POLUDNIE - flip sprzedany przed szczytem: wash (rzut 16)
 Symon wzial nauke do serca i nie czekal na absolutny szczyt — zszedl sprzedac skory od razu, gdy popyt sie rozgrzewal. Rynek d13 jednak jeszcze nie placil pelnej zimowej ceny: kupcy dociskali, ktos na Schodach juz podcinal — i choc Symon byl zdecydowany opchnac towar, wyszedl na WASH, odzyskujac jakies siedem jeleni z osmiu wlozonych. Zysku nie ma. Ale — i to jest roznica — unikn?al zatloczonego szczytu, ktory by go zmiazdzyl podaza; rozsadny timing oszczedzil mu realnej straty, nie dal tylko zarobku. Ta konkretna spekulacja po prostu nie wypalila; kapital wraca do kabzy, do lepszego uzytku. Sakiewka 25->32. Kapital uwolniony, glowa czysta na rate jutro. Zmeczenie 4.
+
+
+## 296-10-13 [KOREKTA] flip: slaba cena -> Symon TRZYMA (rzut 16)
+Korekta na sluszna uwage gracza: kompetentny handlarz, widzac ze kupcy dociskaja i ktos na Schodach podcina, NIE opycha towaru ponizej wartosci. Wiec rzut 16 znaczy tyle, ze d13 nie bylo dobrej ceny — a Symon, nie dureń, wstrzymal sprzedaz i trzyma skory na lepszy moment lub lepszy kanal (np. przez Leone do konkretnego szewca/kusnierza), zamiast dumpowac. Kapital ~8 jel dalej w skorach, sakiewka wraca do 25. Uwaga na absolutny szczyt d14 (podaz zjezdza naraz). Nic nie stracone; decyzja wraca do gracza.

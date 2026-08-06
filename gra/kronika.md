@@ -1916,3 +1916,6 @@ Symon siada do ksiąg kantoru (rachunki +1) i przy okazji pyta Nestę o opał �
 
 ## 296-10-20 RANEK — Torsen: opał doładunkiem
 Symon pyta Torsena wprost, ile drewna opałowego wejdzie na łódź ponad futra. Odpowiedź dobra: futra i bursztyn są lekkie i zwarte, więc próbna barka Białym Nożem (~11 XI) ma spory zapas tonażu — drewno wchodzi jako doładunek, niemal darmowym frachtem, bo rejs i tak opłacają futra. Torsen chętny, bo to jego towar u źródła, i wyraźnie cieplejszy (nast 10→13). Rzuca kwotę: sąg czy parę sągów za jakieś 6–8 jeleni u źródła plus jego dola, a w zmarzniętym porcie to 1,5–2x tego, do tego część można oddać Septie po koszcie. Decyzja o zaangażowaniu — do Symona.
+
+## 296-10-20 — sen na decyzję
+Symon nie klepie od razu — woli przespać się na sprawie opału i zająć nią rano na trzeźwo. Kończy dzień wcześnie, noc mija spokojnie. Oferta Torsena (pojemność potwierdzona, ~6–8 jel próbna partia doładunkiem) czeka na słowo.

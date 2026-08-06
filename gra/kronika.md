@@ -2015,3 +2015,6 @@ Symon najpierw sadza Hala do posilku (-5 mied) — nauka dopiero po cieple, po t
 
 ## 296-10-26 POLUDNIE — zimowy relief zawiazany z Owenem
 Symon niesie Owenowi pomysl: nie z wlasnej chudej kieszeni, lecz jako 'akcja Wiary wsparta przez kupcow' — skladka w naturze (Leona odziez, kolodzieje opal, przekupki jadlo, kantor grosz), rozdawana przez septe wedlug ksiegi jalmuzny. Septon lapie to calym sercem; to jego misja, a Symon wlasnie podal mu i plan, i rece, ktore odciazą jego wyczerpane barki. Owen dokłada machine: wie z ksiegi, kto najubozszy (Hal ja wspolprowadzil), zapewnia rozdzial godny, nie upokarzajacy, i uzyje powagi Wiary, by sciagnac kupcow poboznoscia i twarza. I — jak zawsze — oslania Symona: relief bedzie 'Wiary', chlopak zostaje w cieniu jako ten, co spina. Ruszyc trzeba szybko, przed mrozem ~5 XI: runda kupcow po skladki. Owen 43->45; reputacja u Wiary drgna (39->40).
+
+## 296-10-26 WIECZOR -> d27 — sen
+Zmeczony po dniu, ktory zawiazal zimowy relief, Symon idzie spac wczesniej. Plan na jutro jasny: z Halem obejsc kupcow po skladki w naturze dla Wiary. Noc spokojna.

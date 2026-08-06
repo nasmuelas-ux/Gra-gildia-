@@ -931,17 +931,17 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "sierociniec_przy_Sepcie",
-   "nastawienie_do_gracza": 23,
-   "zaufanie": 8,
+   "nastawienie_do_gracza": 27,
+   "zaufanie": 10,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
     "pierwsza rozmowa cierpka — poczul sie poprawiany/protekcjonowany przez waznego pisarza",
     "Symon przyznal blad i spytal o jego zdanie — pierwszy dorosly, ktory potraktowal go jak kogos wartego",
     "nie znosi wypytywania o swoj los (=litosc); otwiera sie na szacunek/robote, nie na wspolczucie"
    ],
-   "ostatni_kontakt": "296-10-15",
+   "ostatni_kontakt": "296-10-16",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
-   "status": "NA PROBIE — MENTORSHIP KLIKA (d14, rzut 41): Symon wykul zasade 'pytaj, nie zgaduj/ukrywaj' jako DUME FACHU (skryba, ktoremu ufaja), nie nagane — chlopiec glodny bycia kims wartym ZLAPAL to jako 'tak sie jest DOBRYM'. Pozyczona ksiega kupiecka scela go: zaufanie/inwestycja (a nie litosc) trafiaja tam, gdzie posilek nie siegnal — dumny chlopiec, nieprzywykly, by ktos powierzyl mu cos cennego, cicho poruszony. Nast 15->21, zaufanie ro snie. Ciecie-rogow: teraz ZNA standard i chce mu sprostac (coaching trwa, nie idealny od razu). Honesty trend +. || d15: patrzyl, jak Symon ZA DARMO i po mistrzowsku spisuje umowe malzenska dla przekupki i chroni jej interes — zobaczyl, DO CZEGO jest fach i KIM jest Symon. Lekcja przez robote, nie wyklad. Szacunek/wiez glebsze (nast ->23)."
+   "status": "NA PROBIE — IDZIE DOBRZE (d16, rzut 92): Hal ZASTOSOWAL zasade — trafil na zamazane slowo i SPYTAL zamiast zgadywac; dokladnosc rosnie, ciecie-rogow ustepuje. Blysnal talentem (szybka trafna suma, bystra uwaga), otworzyl sie przez ROBOTE (nie litosc) — nawet spytal Symona o fach i wlasna przyszlosc. Wiez glebsza (nast 23->27), zaufanie ro snie. Trial wyraznie na plus; zblizamy sie do momentu na drobna probe dyskrecji + stopniowe poszerzanie NIE-wrazliwej odpowiedzialnosci. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete."
   }
  ],
  "orbita": [

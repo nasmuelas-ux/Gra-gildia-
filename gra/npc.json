@@ -361,7 +361,7 @@
     "wspolwie o wpadce: origin Symona (Stary Zamek/Aemon Rivers) wyciekl przy oslanianiu swiadka"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-13",
+   "ostatni_kontakt": "296-10-14",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "FRONT WIARY U ESTABLISHMENTU ZASTAWIONY (rzut 65): pozycjonuje Symona przed rada/kasztelanem jako sankcjonowanego pisarza Septy i dobroczynce reliefu; ruch cechu przeciw niemu = atak na Sept + bohatera miasta (kosztowny). Wskazuje: dopelnic GODRICEM (strona swiecka/lorda)."
   },
@@ -918,6 +918,22 @@
    "ostatni_kontakt": "296-10-12",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",
    "status": "BLOK anty-Antaryon: CEGLA 3 (potwierdzony d12, rzut 80 — faktor z sieci wielkich domow go skraca). SOLIDNY, zly-bez-strachu (odwrotnie niz Marlon) = wzmacnia kregoslup bloku. Ufa Symonowi, zaplacil.'"
+  },
+  {
+   "id": "hal_sierota",
+   "imie": "Hal",
+   "przydomek": "",
+   "wiek": 14,
+   "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
+   "mieszka": "sierociniec_przy_Sepcie",
+   "nastawienie_do_gracza": 8,
+   "zaufanie": 3,
+   "wie_o_graczu": [
+    "Symon uczy w szkolce; 'ten pisarz Septy'"
+   ],
+   "ostatni_kontakt": "296-10-14",
+   "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
+   "status": "KANDYDAT na ucznia/pomocnika kantoru (partial d14, rzut 26): TALENT tak — bystry, liter i rachunkow zlapal szybko; ALE Owen ma zastrzezenia: dumny, ostry w jezyku, DYSKRECJA/charakter NIEsprawdzone. Bezpieczniejsi/lojalni sieroty za zieleni w literach. Tradeoff: talent-z-ryzykiem vs lojalnosc-bez-gotowosci. Symon chce POZNAC/wyczuc przed decyzja."
   }
  ],
  "orbita": [

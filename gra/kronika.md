@@ -2189,3 +2189,6 @@ Symon je w sepcie i idzie na klepisko — i dzis chwyty plyna same. Schodzi, lap
 
 ## 296-11-07 POLUDNIE — praca z Nesta (spokojnie)
 Symon myje sie, je w sepcie i wraca do kantoru. Dzis idzie gladko: wczorajszy poslizg naleznosci odnotowany i domkniety, ksiegi wchodza rowno, a chlod, ktory wczoraj zawisl miedzy nimi, okazuje sie tym, czym byl — zmeczeniem straconego dnia, nie zwada. Nesta znowu po ludzku, robocza i rzeczowa. Spokojne, porzadne poludnie; morale wraca na miejsce, a wielki tydzien coraz blizej.
+
+## 296-11-07 POLUDNIE — Torsen: barka w porę
+Symon zaglada do Torsena i dostaje dokladnie te wiesc, ktora chcial uslyszec przed wielkim dniem. Kupiec ma slowo z gory rzeki od Halvarda: zaladowana barka — cechowe drewno, zamkowa parcela, jego wlasny opal i porcja dla Septy — schodzi juz Bialym Nozem i zdazy do portu przed dziewiatym, nim rzeka stanie na dobre. 'Zlapalismy okno, chlopcze. Bez sztormu, bez lodu na drodze.' Torsen cieplejszy niz kiedykolwiek — powtarzalny interes i klient z zamku to dla drwala marzenie, i juz ostrzy zeby na wiosenne skalowanie kanalu. Wszystko ustawione: barka w drodze, Bran przy rozladunku, Garth na cle. Torsen 23->25.

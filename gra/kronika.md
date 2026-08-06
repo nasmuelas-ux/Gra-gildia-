@@ -2162,3 +2162,6 @@ Symon je (-4 mied) i idzie do Owena nie po rade ani przysluge, lecz z jednym pyt
 
 ## 296-11-05 POLUDNIE — praca i status u Nesty
 Symon siada z Nesta do ksiag i pyta, co nowego. Braavijka, dzis mniej zaharowana, uklada z nim caly obraz: rejs opalowy spod dziewiatego idzie planowo i przyniesie wyplate; odpowiedz pryncypala — kluczowa dla Antaryona — spodziewana kolo dziesiatego; trial zelaza plynie zimowym morzem ku dostawie ~28; nogi egzotyczne dojdą po kolei (futra ~10, skory ~20, barwniki ~25). Antaryon w spokojnym holdingu do pryncypala, a koalicja urosla do pieciu cegiel po Denysie. Nesta patrzy na to z uznaniem — kawalki zazebiaja sie tak, jak lubi: bez chaosu, z rezerwa, z planem. Robocze, dobre poludnie; Symon ma pelna mape swiezo w glowie. Nesta 44->45.
+
+## 296-11-05 zmierzch — Boren (plasko)
+Symon zaglada do Borena, ale trafia zle: cechmistrz zaharowany zimowym mlynem — mroz podbil popyt na okucia i naprawy, a jemu brak materialu i czeladnicy marzna. Jest gburowaty, mruczy pod nosem, niecierpliwy o obie dostawy: kiedy w koncu ten opal, kiedy zelazo. Symon spokojnie go uspokaja — opal spod dziewiatego, zelazo w drodze, struktura hedgowana, trial maly z rozmyslu — ale rozmowa jest sucha, robocza, bez ciepla. Nic sie nie psuje, nic nie zyskuje; po prostu zly dzien u zapracowanego czlowieka. Symon nie naciska i odpuszcza wczesnie.

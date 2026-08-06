@@ -2198,3 +2198,6 @@ Symon zaglada do Gartha przy Bramie Foki, cicho, przed dostawa. Celnik potwierdz
 
 ## 296-11-07 WIECZOR -> 11-08 — prawo, sen
 Symon czyta prawo i spi. Jutro-pojutrze wielki tydzien: barka opalowa z wyplata (~9) i odpowiedz pryncypala (~10).
+
+## 296-11-08 RANEK — Harlon: kregoslup bloku
+Symon je w sepcie i idzie do Harlona, ktorego z sojusznikow zaniedbal najdluzej. I trafia dobrze: twardy handlarz sola przyjmuje go jak swojego, bez cienia strachu, ktory paralizuje Marlona. Jest mocno po tej samej stronie — i, w przeciwienstwie do tchorzy, WRECZ chetny do ruchu przeciw sieci, ktora go skubala. Daje tez cenny read: na Schodach nastroje hartuja sie zima, coraz wiecej kupcow czuje ten sam drapiezny skim od ludzi Antaryona i coraz wiecej byloby gotowych stanac, gdyby ktos ich poprowadzil. To dokladnie ta spina, za ktora chowaja sie slabsi. Symon trzyma go cieplo i gotowego, ale lontu nie zapala — sekwencja mowi jasno: ruch dopiero po odpowiedzi pryncypala kolo dziesiatego. Kregoslup koalicji pewny. Harlon 13->16.

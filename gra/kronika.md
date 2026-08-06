@@ -2117,3 +2117,6 @@ Symon zaglada do Serli i malego Toma. Stara przyjaciolka wita go ciepło i, jak 
 
 ## 296-11-02 WIECZOR -> 11-03 — nauka, kondycja, sen
 Symon cwiczy jeszcze prawo w salce przy sepcie, potem trocheе ruchu dla kondycji, je, myje sie i klad zie spac. Noc spokojna. Rano trzeciego — a listopadowy klaster tuz-tuz: rozdzial jalmuzny, mroz w ubogich, dostawa opalu z wyplata.
+
+## 296-11-03 RANEK — prawo z Halem: drzwi uchylaja sie same
+Symon je (-4 mied) i siada z Halem do prawa. Sesja idzie wybitnie — chlopak chlonie logike umow w lot, dopytuje celnie, a najbardziej zapala sie, gdy widzi, ze prawo potrafi CHRONIC slabego przed silniejszym; to spina mu sie z tym wszystkim, co widzial u Symona. I dzieje sie rzecz, ktorej dwa dni temu nie dalo sie wyrwac sila: przez sama robote Hal sam uchyla te drzwi. Mid-lekcja, niby mimochodem, pyta — 'a taki spis... moglby go zrobic ktos taki jak ja?' — i w tym pytaniu slychac, ze zaczyna wyobrazac SIEBIE jako kogos, kto tym wlada, kto znaczy. Rana z d29 zaczyna sie goic na jego wlasnych warunkach: nie przez litosciwe 'wolno ci marzyc', lecz przez kompetencje, ktora sama pokazuje mu droge. Symon nie przeciska — po prostu odpowiada 'moglby, i to dobrze' i uczy dalej. Wiez i zaufanie mocno w gore (nast 42->45). Chlopak dojrzal do wlasnego kawalka nie-wrazliwej roboty pod okiem.

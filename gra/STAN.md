@@ -49,6 +49,7 @@ pismo 7 · rachunki 8 · prawo 5 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-10-14` flip_sprzedaz: Okno sprzedazy zimowego flipa (skory Colla) — popyt szczytuje z mrozem/ku swietom Wiary; sprzedac szewcom/kusn
 - ◆ `296-10-13` godric_rozprawa_wat: Godric po cichu rozprawia sie z Watem (dymisja/restytucja) na wlasnych warunkach, z pewnoscia od Symona. Symon
 - ◆ `296-10-30` bank_sondaz_szybki: Sondaz do Zelaznego Banku WYSLANY (d11): kpt. Belarno niesie SOLIDNE dossier Symona do agenta domu Nesty; wypl
+- ⚠ `296-10-20` swiadek_luzny_koniec: Swiadek ze Starego Zamku Locke = luzny koniec: NIEoslonieny, ryzyko ze cech (tropiacy origin Symona) dotrze do
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

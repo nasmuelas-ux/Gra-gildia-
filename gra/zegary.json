@@ -75,6 +75,12 @@
    "odlicza_do": "296-10-30",
    "typ": "szansa",
    "opis": "Sondaz do Zelaznego Banku WYSLANY (d11): kpt. Belarno niesie SOLIDNE dossier Symona do agenta domu Nesty; wyplywa DZIS 10-12, ODPOWIEDZ ETA ~10-30. Sprawa bankowalna (kantor zdrowy, rata zawyzona ponad umowe). Sygnal 'Bank zaangazowany' jest teraz PRAWDZIWY — mozna go bezpiecznie 'puscic' ku Ternesiowi."
+  },
+  {
+   "id": "swiadek_luzny_koniec",
+   "odlicza_do": "296-10-20",
+   "typ": "zagrozenie",
+   "opis": "Swiadek ze Starego Zamku Locke = luzny koniec: NIEoslonieny, ryzyko ze cech (tropiacy origin Symona) dotrze do niego pierwszy i polaczy Symona ze Starym Zamkiem/Rymanem. Dzialanie: cicha piecza Wiary (Owen) go zabezpiecza. Okno na oslone teraz."
   }
  ]
 }

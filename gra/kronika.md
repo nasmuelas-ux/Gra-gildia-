@@ -2276,3 +2276,6 @@ Symon siada do wspolniczej roboty i robi solidny dzien. Ksiegi kantoru schodza s
 
 ## 296-11-12 WIECZOR -> 11-13 — prawo, cwiczenia, sen
 Symon czyta prawo, przecwiczy cialo w celi i spi. Zwykly, zdrowy rytm dnia w cierpliwym oczekiwaniu.
+
+## 296-11-13 RANEK — audyt: martwo (wzor zimowy)
+Symon znowu po cichu rozglada sie za audytem — i znowu nic, drugi suchy sondaz z rzedu. Ale tym razem nie jest to zaskoczenie, lecz potwierdzenie wzoru: nisza jest sezonowo martwa. W glebokim mrozie rynek zamiera, kupcy okopuja sie i nikt nie zaczyna nowych spraw ani nie otwiera ksiag przed obcym piorem - dokladnie to samo wymarcie, ktore Symon widzial wczoraj u kei. Wyciaga z tego trzezwy wniosek i przestaje liczyc na audyty do odwilzy: dochod tej zimy popłynie z nog handlowych spolki (skory kolo dwudziestego, barwniki kolo dwudziestego piatego, zelazo pod koniec miesiaca, futra z Braavos w grudniu), z kantoru i z przetrzymanego opalu na szczyt mrozu. Codzienne sondowanie niszy nie ma sensu.

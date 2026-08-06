@@ -997,15 +997,18 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 35,
+   "nastawienie_do_gracza": 36,
    "zaufanie": 8,
-   "ostatni_kontakt": "296-11-01",
+   "ostatni_kontakt": "296-11-13",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
     "chce pewniejszego/tanszego zrodla wina; wie, ze Symon ma kanal braavijski"
    ],
-   "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej"
+   "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
+   "historia": [
+    "m11d13: Symon wpadl po oddech, a zastal przyjaciela w dolku — zima dusi handel winem, a do tego konsygnacja wina UTKNELA gdzies na zamarzajacych szlakach (echo 'zwezania sie szlakow morskich'), Aldous martwi sie o gotowke. Rozmowa cieplo, ale ciezka; role sie odwrocily — to Symon sluchal i podnosil na duchu, nie odwrotnie. Bez recharge; wiez glebsza przez obecnosc w trudnej chwili. Nast 35->36. Mozliwy przyszly hook: pomoc przyjacielowi."
+   ]
   },
   {
    "id": "kupiec_denys",

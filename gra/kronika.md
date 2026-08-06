@@ -2180,3 +2180,6 @@ Symon je w sepcie, myje sie i siada z Nesta do ksiag — i przedpoludnie sie syp
 
 ## 296-11-06 POLUDNIE — sluzba i Hal
 Po oschlym poranku u Nesty Symon wraca do septy, do tego, co go grzeje: sluzy ubogim i doglada Hala przy jego fragmencie ksiegi jalmuzny. Chlopak wchodzi w role pewniej niz przedwczoraj — goraczkowe przejecie nowicjusza opada, reka staje sie spokojniejsza, a Symon prowadzi go lagodnie, chwali dokladnosc, poprawia bez upokorzenia. Dyskrecja przy nazwiskach z listy juz mu wchodzi w nawyk. Tarcza Wiary grzeje, morale sie podnosi po nieudanym poranku. Hal 47->48.
+
+## 296-11-06 WIECZOR -> 11-07 — prawo, sen
+Symon czyta prawo i spi. Mroz trzyma. Dwa dni do opalu i wyplaty.

@@ -2264,3 +2264,6 @@ Symon zaglada do braavijskiego kapitana spytac o interesy — ale niewiele z teg
 
 ## 296-11-11 POLUDNIE — Elna: cieplo, ktore oddaje
 Po rundzie chlodnych, interesownych wizyt Symon idzie do Elny — i tu, wreszcie, cos czystego. Wdowa, ktora kiedys wyrwal Lorrenowi, jest bezpieczna: kolodzieje dali jej schronienie i robote przy cechu, a relief grzeje izbe; radzi sobie. Wita go z ta gleboka, prosta wdziecznoscia, ktorej sie nie udaje — i, jak to biedni o wielkim sercu, zaraz zaczyna DAWAC: sadza go przy ogniu, karmi tym, co ma, ceruje mu przetarty plaszcz zrecznymi palcami, blogoslawi w imie Matki. Symon, ktory caly dzien grzal cegly i wyciskal kontakty, siedzi tu po prostu jako czlowiek, ktoremu ktos jest wdzieczny bez wyrachowania — i czuje, jak mu to prostuje krege slup. To jest ten grunt, o ktorym mowila Nesta: jego prawdziwa sila nie jest w schematach, lecz w tym, ze ludzie tacy jak Elna, Aldous, Serla kochaja go, bo jest szczery. Wychodzi pokrzepiony, najedzony i w cieplejszym plaszczu. Elna 24->28.
+
+## 296-11-11 WIECZOR -> 11-12 — prawo, sen
+Symon uczy sie prawa i spi, pokrzepiony po dniu wizyt (Vox i Marlon dla bloku, Elna dla duszy). Cierpliwosc trwa; blok doglaadany, oprawa gotowa, czeka dowod Gartha.

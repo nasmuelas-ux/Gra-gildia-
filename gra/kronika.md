@@ -2186,3 +2186,6 @@ Symon czyta prawo i spi. Mroz trzyma. Dwa dni do opalu i wyplaty.
 
 ## 296-11-07 RANEK — sparing z Branem
 Symon je w sepcie i idzie na klepisko — i dzis chwyty plyna same. Schodzi, lapie, uzywa ciezaru przeciwnika, a raz nawet klad zie Brana na worki jego wlasnym rozpedem. Tragarz smieje sie i chwali: chlopak z pisarczyka robi sie ktos, kto potrafi sie obronic. Walka osiada mocno w cialo. Kilka siniakow, ale duma na plusie. Bran 40->41.
+
+## 296-11-07 POLUDNIE — praca z Nesta (spokojnie)
+Symon myje sie, je w sepcie i wraca do kantoru. Dzis idzie gladko: wczorajszy poslizg naleznosci odnotowany i domkniety, ksiegi wchodza rowno, a chlod, ktory wczoraj zawisl miedzy nimi, okazuje sie tym, czym byl — zmeczeniem straconego dnia, nie zwada. Nesta znowu po ludzku, robocza i rzeczowa. Spokojne, porzadne poludnie; morale wraca na miejsce, a wielki tydzien coraz blizej.

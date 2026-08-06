@@ -1852,3 +1852,7 @@ Symon siada do najtrudniejszego dokumentu, jaki pisal — i wychodzi mistrzowsko
 
 ## 296-10-17 WIECZOR -> 18 RANEK - spokojny wieczor; poczatek zaciszа
 Symon konczy ciezki dzien nisko: strawa, klepisko, sen. Owen pochowal Wicka z obrzedem — ostatniego ze Starego Zamku. D18 wstaje chlodny i cichy, i pierwszy raz od dawna nic pilnego nie wisi nad glowa. Wielkie sprawy sa w DRODZE, nie na stole: kruk z submisja plynie na Polnoc, sondaz do Banku dojrzewa (~30), pryncypal odpisze (~10 przyszlego), spolka egzotyczna zbliza sie do owocow (futra, skory, barwniki na przelomie miesiaca), a sprawa cla i koalicja dokumentuja sie cicho przez Gartha, Leone i Borena. Hal rosnie na probie. To faza zacisza — budowac po cichu i czekac na bramy. Zdrowie 88, wypoczety.
+
+
+## 296-10-18 RANEK - sparing z Branem (rzut 73)
+Symon je i idzie na klepisko do Brana. Sesja idzie dobrze — po tylu treningach to juz nie jest lanie sieroty: Symon trzyma garde, wyprowadza kilka czystych, broni sie przytomnie. Bran, kawal chlopa od dzwigania, wciaz go w koncu klad zie, ale to realny bout, nie masakra; walka piata robi swoje, kondycja trzyma. Bez kontuzji. A miedzy rundami — cieplo po ludzku: Bran na probie w faktorii idzie dobrze (dzieki Symonowi), grosz na wesele z Alys sie zbiera; a gdy slyszy, ze to Symon spisal za darmo umowe malzenska jego kuzynki Bess, corki Wendy, sciska mu dlon mocniej — rodzina pamieta takie rzeczy. Pajeczyna Wenda-Bran-Alys zaciesnia sie wokol Symona jeszcze bardziej. Bran nast 33->34. Zmeczenie 4, dobra godzina.

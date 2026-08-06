@@ -2093,3 +2093,6 @@ Symon je (-4 mied) i wraca do Aldousa po to, co kupiec zasygnalizowal: kto jeszc
 
 ## 296-11-01 POLUDNIE — prawo w praktyce z Nesta
 Symon zostaje w kantorze i cwiczy prawo tak, jak rosnie ono najlepiej — uzywajac go. Przy realnych umowach kantoru stosuje to, co poskladalo mu sie w glowie: sam wylapuje pulapki w klauzulach, widzi, gdzie roszczenie by peklo, gdzie obowiazek jest zle spisany. Nesta rzuca mu kolejne papiery i patrzy z uznaniem — jej wspolnik potrafi juz sam zwietrzyc podstep w kontrakcie, co dla kantoru jest realna wartoscia, nie ozdoba. Robocze, dobre poludnie; prawo osiada w nawyk.
+
+## 296-11-01 POLUDNIE — Wenda
+Symon zaglada do Wendy na Targ Rybny. Wizyta ciepla, choc spokojna — przekupka rada, wypytuje o jego sprawy, dziekuje raz jeszcze (i za relief, i za spisana corce Melli umowe), sypie targowa gadka, ale nic w niej dzis nowego ani waznego. Zwykly, dobry kwadrans miedzy sojusznikami. Wenda nast 22->23.

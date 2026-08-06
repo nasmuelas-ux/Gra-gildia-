@@ -1928,3 +1928,6 @@ Symon chce klepnac SREDNIA probna partie — wiecej niz Nesta radzila. I tu ekon
 
 ## 296-10-21 RANEK — dobita mala partia opalu
 Symon wraca do sweet-spotu i klepie maly lot drewna opalowego — tyle, ile jedzie darmowym balastem ponad lekkie futra. Placi 7 jeleni (zrodlo + dola Torsena, -7 jel), partia przyplynie z probna barka futrzana ~11-10. Plan bez zmian: wiekszosc na sprzedaz w zmarznietym porcie, czesc do Septy po koszcie, cicho. Marza mala ale czysta, kanal polnocny przecwiczony tanio, rezerwy nietkniete. Torsen dobity kontraktem cieplejszy (nast 13->15).
+
+## 296-10-21 RANEK — Owen: opal dla Septy
+Symon mowi Owenowi po cichu, ze czesc opalu z polnocnej partii pojdzie do Septy po koszcie. Septon dziekuje — zwlaszcza za to, ze rzecz zalatwiona bez rozglosu — ale radosc jest stonowana: to maly lot wobec tego, co idzie, i przyplynie dopiero ~11-10, moze juz po pierwszym twardym mrozie. 'Kazdy sag sie liczy', mowi, 'ale zima bedzie glodna opalu bardziej, niz myslisz'. Gest i dyskrecja licza sie u niego (nast 42->43); zostaje cien pytania, czy nie trzeba wiecej i wczesniej.

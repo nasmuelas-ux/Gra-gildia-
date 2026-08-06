@@ -315,7 +315,7 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 39,
+   "nastawienie_do_gracza": 40,
    "zaufanie": 15,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
@@ -361,9 +361,9 @@
     "wspolwie o wpadce: origin Symona (Stary Zamek/Aemon Rivers) wyciekl przy oslanianiu swiadka"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-12",
+   "ostatni_kontakt": "296-10-13",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
-   "status": "REZOLUTNY: dal pelny plan kontroli szkody (rzut 89) i SAM rusza — kladzie ciezar Wiary za benignna, prawdziwa wersje origin Symona (ubogi uczen z laski maestera, dzis pisarz Septy). Gasi u zrodla."
+   "status": "FRONT WIARY U ESTABLISHMENTU ZASTAWIONY (rzut 65): pozycjonuje Symona przed rada/kasztelanem jako sankcjonowanego pisarza Septy i dobroczynce reliefu; ruch cechu przeciw niemu = atak na Sept + bohatera miasta (kosztowny). Wskazuje: dopelnic GODRICEM (strona swiecka/lorda)."
   },
   {
    "id": "lorren_lichwiarz",

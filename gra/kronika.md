@@ -1728,3 +1728,7 @@ Symon wzial nauke do serca i nie czekal na absolutny szczyt — zszedl sprzedac 
 
 ## 296-10-13 [KOREKTA] flip: slaba cena -> Symon TRZYMA (rzut 16)
 Korekta na sluszna uwage gracza: kompetentny handlarz, widzac ze kupcy dociskaja i ktos na Schodach podcina, NIE opycha towaru ponizej wartosci. Wiec rzut 16 znaczy tyle, ze d13 nie bylo dobrej ceny — a Symon, nie dureń, wstrzymal sprzedaz i trzyma skory na lepszy moment lub lepszy kanal (np. przez Leone do konkretnego szewca/kusnierza), zamiast dumpowac. Kapital ~8 jel dalej w skorach, sakiewka wraca do 25. Uwaga na absolutny szczyt d14 (podaz zjezdza naraz). Nic nie stracone; decyzja wraca do gracza.
+
+
+## 296-10-13 POLUDNIE - flip domkniety przez Leone: godny zysk (rzut 72)
+Zamiast opychac skory w slaby rynek albo gonic zatloczony szczyt, Symon poszedl do Leony — a ona zna na Schodach kazdego. Skierowala go prosto do kusnierza, ktory wlasnie szykowal zimowe zapasy i chcial dobrych skor od zaraz, placac uczciwie. Symon sprzedal caly lot godnie — jakies trzynascie jeleni za osiem wlozonych, okolo pieciu jeleni czystego zysku. Ta sama partia, ktora w tlumie na szczycie zmiazdzylaby go strata, przez wlasciwy kanal dala zarobek. Lekcja domknieta z drugiej strony: nie chciwosc o szczyt, lecz cierpliwosc i konkretny kupiec. Sojusz z Leona jeszcze glebszy (pomogla mu prywatnie, nie tylko w bloku). Sakiewka 25->38. Zmeczenie 5. Rata jutro, glowa czysta i kabza grubsza.

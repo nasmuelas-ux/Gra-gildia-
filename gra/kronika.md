@@ -1856,3 +1856,7 @@ Symon konczy ciezki dzien nisko: strawa, klepisko, sen. Owen pochowal Wicka z ob
 
 ## 296-10-18 RANEK - sparing z Branem (rzut 73)
 Symon je i idzie na klepisko do Brana. Sesja idzie dobrze — po tylu treningach to juz nie jest lanie sieroty: Symon trzyma garde, wyprowadza kilka czystych, broni sie przytomnie. Bran, kawal chlopa od dzwigania, wciaz go w koncu klad zie, ale to realny bout, nie masakra; walka piata robi swoje, kondycja trzyma. Bez kontuzji. A miedzy rundami — cieplo po ludzku: Bran na probie w faktorii idzie dobrze (dzieki Symonowi), grosz na wesele z Alys sie zbiera; a gdy slyszy, ze to Symon spisal za darmo umowe malzenska jego kuzynki Bess, corki Wendy, sciska mu dlon mocniej — rodzina pamieta takie rzeczy. Pajeczyna Wenda-Bran-Alys zaciesnia sie wokol Symona jeszcze bardziej. Bran nast 33->34. Zmeczenie 4, dobra godzina.
+
+
+## 296-10-18 POLUDNIE - praca z Halem: dzien plaski (rzut 30)
+Symon myje sie i idzie do kantoru pracowac z Halem. Dzien wychodzi plaski — nie kazdy jest skokiem. Chlopiec robi rutyne solidnie, lekcje trzymaja sie (pyta, gdy nie wie; nie tnie rogow), ale bez blysku jak wczoraj. Za to widac jego glod: dopytuje o powazniejsza robote, chce wiecej niz kopie i proste sumy. Symon lagodnie go przytrzymuje — jeszcze zielony, rutyna az sie ustatkuje (echo caveatu Nesty). Poszerzanie odpowiedzialnosci i ta drobna proba dyskrecji, ktora Symon chce podlozyc, poczekaja jeszcze kilka dni. Trial dalej na plus, tyle ze plaski. Delegacja i tak uwalnia czas. Zmeczenie 5.

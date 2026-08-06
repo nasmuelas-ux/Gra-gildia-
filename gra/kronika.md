@@ -1985,3 +1985,6 @@ Poobijany po sparze Symon cwiczy jeszcze reke przy swiecy, je i klada sie spac. 
 
 ## 296-10-25 RANEK — odwiedziny Elny
 Symon zaglada do Elny, wdowy wyrwanej Lorrenowi, dzis pod dachem od kolodziejow. Bezpieczna jest — cech trzyma slowo — ale zima juz ja obrobila: izba zimna, ona chudsza, oszczedza na kazdym polanie i lyzce, i widac, ze boi sie tego, co jeszcze przyjdzie. Cieszy sie jednak szczerze, ze zajrzal; ze ktos z jej dawnego ratunku pamieta o niej mimo wlasnych spraw (nast 20->21). Odwiedziny odslaniaja potrzebe, nie dramat — a co z nia zrobic, zalezy od Symona; grosza ma malo, ale kanaly (septa, opal, kolodzieje) sa pod reka.
+
+## 296-10-25 RANEK — cieply posilek z Elna
+Symon nie zostawia grosza na stole i nie wychodzi. Posyla po cieply posilek dla dwojga (-6 mied) i siada z Elna do jednego garnka — je Z NIA, nie DLA niej. Zadna to jalmuzna, tylko wspolny stol: rozmowa, para nad miska, chwila, w ktorej stara wdowa nie jest 'przypadkiem pod opieka', tylko czlowiekiem, z ktorym ktos dzieli chleb. Rozgrzewa sie i rozjasnia; Symon dotrzymuje jej godnosci tak samo jak ciepla (nast 21->23). Wychodzi z myslą, ze pod zime moze ja jeszcze cicho wpiac w kanaly, ktore i tak buduje.

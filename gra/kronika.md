@@ -2192,3 +2192,6 @@ Symon myje sie, je w sepcie i wraca do kantoru. Dzis idzie gladko: wczorajszy po
 
 ## 296-11-07 POLUDNIE — Torsen: barka w porę
 Symon zaglada do Torsena i dostaje dokladnie te wiesc, ktora chcial uslyszec przed wielkim dniem. Kupiec ma slowo z gory rzeki od Halvarda: zaladowana barka — cechowe drewno, zamkowa parcela, jego wlasny opal i porcja dla Septy — schodzi juz Bialym Nozem i zdazy do portu przed dziewiatym, nim rzeka stanie na dobre. 'Zlapalismy okno, chlopcze. Bez sztormu, bez lodu na drodze.' Torsen cieplejszy niz kiedykolwiek — powtarzalny interes i klient z zamku to dla drwala marzenie, i juz ostrzy zeby na wiosenne skalowanie kanalu. Wszystko ustawione: barka w drodze, Bran przy rozladunku, Garth na cle. Torsen 23->25.
+
+## 296-11-07 zmierzch — Garth
+Symon zaglada do Gartha przy Bramie Foki, cicho, przed dostawa. Celnik potwierdza: barka opalowa spod dziewiatego przejdzie przez clo gladko, interes czysty, przejscie plynne. O audycie frachtu tyle co nic — dane wciaz kapia, trzeba cierpliwosci, nic nowego solidnego. Krotki, dyskretny, porzadny kontakt. Garth 21->22.

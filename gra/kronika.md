@@ -1904,3 +1904,6 @@ Symon ćwiczy w sepcie posługę pisarską i zamienia słowo z Owenem. Septon sp
 
 ## 296-10-20 RANEK — targ rybny, Wenda
 Symon idzie na Targ Rybny, kupuje ciepłą rybę z chlebem (−4 mied) i je na stojąco. Z Wendą zwykła poranna gadka — przekupka rzuca parę plotek, ale wszystko to stara śpiewka (cechowy niby szuka skryby, Pate niby dogorywa, kantor Nesty niby pada), rzeczy dawno oswojone i nieprawdziwe lub przebrzmiałe. Nic nowego. Wenda cieplej o grosz stałego klienta (nast 19→20).
+
+## 296-10-20 RANEK — szukanie zlecenia: chudo
+Symon obchodzi port i podnóże Schodów, dając znać, że pisze. Ale zima już przerzedza ruch — mniej statków, mniej listów, mniej umów do spisania. Jedyne, co się trafia, to niepiśmienny, który chce list za parę miedziaków i jeszcze się targuje; Symon, nie będąc w potrzebie (dochód z kantoru), grzecznie odpuszcza. Poranek schodzi bez zarobku, ale i bez szkody. Otwarte kanały na kiedy indziej: księgowa robota u Nesty, podania przy Schodach.

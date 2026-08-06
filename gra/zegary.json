@@ -53,12 +53,6 @@
    "opis": "Cichy cross-check frachtu/cla drewna (Garth) AKUMULUJE dane po kawalku od d15. Brak sztywnej daty; ~przelom miesiaca (~11-05) powinno uzbierac sie DOSC, by ocenic i ew. udokumentowac sprawe. Symon moze zajrzec do Gartha wczesniej po to, co przyszlo (nie przeciazac). Czesc wiekszej sprawy cla (gate: Bank ~30 + solidnosc)."
   },
   {
-   "id": "gulltown_zelazo_cena",
-   "odlicza_do": "296-11-02",
-   "typ": "proces",
-   "opis": "List Nesty do korespondenta w Gulltown po cene zelaza/okuc/rudy z Doliny (strona 'tanio tam'). Odpowiedz ~1-2 tyg (~11-02). Wtedy SPREAD = (cena tu, potwierdzona Borenem) - (Gulltown + fracht). Sell-side JUZ potwierdzony (Boren odbierze fair)."
-  },
-  {
    "id": "opal_dostawa",
    "termin": "296-11-09",
    "opis": "Rozbudowany rejs Bialym Nozem (Torsen/Halvard) ~11-09: cech(prime) + ZAMEK(parcela) + wlasny opal + Septa po koszcie. Barka pelna. Przy dostawie: gradowanie, rozdzial, sprzedaz/inkaso, odzysk zadatku 3 jel, dola brokerska. Jeden rejs przed zamarznieciem rzeki."

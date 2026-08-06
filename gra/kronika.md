@@ -2096,3 +2096,9 @@ Symon zostaje w kantorze i cwiczy prawo tak, jak rosnie ono najlepiej — uzywaj
 
 ## 296-11-01 POLUDNIE — Wenda
 Symon zaglada do Wendy na Targ Rybny. Wizyta ciepla, choc spokojna — przekupka rada, wypytuje o jego sprawy, dziekuje raz jeszcze (i za relief, i za spisana corce Melli umowe), sypie targowa gadka, ale nic w niej dzis nowego ani waznego. Zwykly, dobry kwadrans miedzy sojusznikami. Wenda nast 22->23.
+
+## 296-11-01 WIECZOR -> 11-02 — prawo, sen
+Symon cwiczy jeszcze prawo, je i zasypia. Noc spokojna. Rano drugiego ma dojsc odpowiedz z Gulltown: cena zelaza, okuc i rudy z Doliny — klucz do tego, czy import zelaza (Boren jako pewny odbiorca) ma sens.
+
+## 296-11-02 RANEK — cena zelaza z Gulltown: tlusty spread
+Rano drugiego przychodzi odpowiedz korespondenta z Gulltown i jest lepsza, niz Symon smial liczyc. Dolina to kraj gorniczy — zelazo, okucia i ruda sa tam u zrodla tanie, a tu, w zmarznietym Bialym Porcie, zimowy popyt na narzedzia, gwozdzie i okucia wywindowal cene w gore. Spread jest tlusty, a Boren czeka jako pewny odbiorca, wiec strone sprzedazy masz zamknieta i cash przy ryzyku niski (consignment plus gwarantowany off-take). Jest jednak realny haczyk: zimowa trasa wschodnia ku Gulltown jest sztormowa — rejs wolny, zalezny od pogody, z ryzykiem opoznienia albo utraty ladunku. A gotowke masz cienka, wiec finansowanie musialaby zorganizowac Nesta. Decyzja wisi: albo zimowy, hedgowany maly trial teraz, z tlustym marginesem, ale ryzykiem morza, albo zabankowac rzecz na wiosne, bezpieczniej, lecz tracac zimowe wysokie ceny. Nesta wyważy ryzyko i pieniadz.

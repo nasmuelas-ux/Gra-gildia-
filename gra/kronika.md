@@ -1970,3 +1970,6 @@ Symon ciagnie robote z Halem przy septowych ksiegach jalmuzny. Chlopak, najedzon
 
 ## 296-10-23 WIECZOR -> d24 — mocne cwiczenie, sen
 Symon znow siedzi nad pergaminem do poznej swiecy — reka coraz rowniejsza, choc do poziomu mistrza (8) jeszcze kawal drogi wytrwalego cwiczenia. Sen twardy, noc bez zdarzen.
+
+## 296-10-24 RANEK — spar z Branem
+Symon je (-4 mied) i idzie do Brana na spor na zapleczu faktorii. Tragarz go przewyzsza barami o glowe, wiec Symon obrywa i lapie oddech w kurczu — ale wlasnie w tym nauka: Bran, sam bedac miesniem, pokazuje mu, jak nie isc na sile, tylko na dystans, dzwignie i timing. Kilka siniakow, uczciwy pot, nic zlamanego. Walka rosnie po grosiku (licznik +1), a Bran szanuje, ze pisarczyk regularnie wraca na trening (nast 34->35).

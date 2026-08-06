@@ -2051,3 +2051,6 @@ Symon wraca do septy i pyta Owena o druga polowe mapy: prawo Wiary i jak naprawd
 
 ## 296-10-28 WIECZOR -> d29 — trening, sen
 Symon domyka gesty w nauke dzien treningiem cialа, posilkiem i twardym snem. Noc spokojna. Rano d29 — odpowiedz Zelaznego Banku lada dzien, potem cena zelaza z Gulltown.
+
+## 296-10-29 RANEK — prawo handlowe u Nesty
+Symon je (-4 mied) i wraca do kantoru; przy ksiegach ciagnie nauke prawa, tym razem strony handlowej. Nesta uczy go, co naprawde wiaze umowe: swiadkowie, pieczec notariusza i slowo stron POPARTE ich pozycja — dlatego jego pismo trzyma, gdy stoi za nim pieczec kantoru. Tlumaczy egzekucje dlugu: dla smallfolk nie ma szybkiego sadu, jest nacisk, zajecie, sprawiedliwosc cechu albo lorda jesli masz pozycje — albo polamane palce, jesli nie masz (jak u Antaryonow z gory, jak u Lorrena z dolu). I sedno, ktore wchodzi Symonowi glebiej niz paragraf: papier wazy tyle, ile ten, kto za nim stoi; perfekcyjna umowa dla nikogo jest egzekwowana przez nikogo. Jego przewaga to jedno i drugie naraz — bezbledny papier I rosnaca pozycja, ktora go trzyma. prawo licznik 34->36, awans blisko.

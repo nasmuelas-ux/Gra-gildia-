@@ -322,7 +322,7 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 45,
+   "nastawienie_do_gracza": 46,
    "zaufanie": 15,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
@@ -369,7 +369,7 @@
     "widzi, ze Symon zajezdza sie (dni pod rzad) — radzi mu odpoczac; septa/ubodzy ciezko pod nadejsciem zimy"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-10-26",
+   "ostatni_kontakt": "296-10-27",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },
@@ -945,7 +945,7 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "sierociniec_przy_Sepcie",
-   "nastawienie_do_gracza": 41,
+   "nastawienie_do_gracza": 42,
    "zaufanie": 16,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",

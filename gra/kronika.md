@@ -2168,3 +2168,6 @@ Symon zaglada do Borena, ale trafia zle: cechmistrz zaharowany zimowym mlynem �
 
 ## 296-11-05 zmierzch — Bran
 Symon zaglada do Brana i tu wieczor jest cieplejszy. Tragarz w dobrej formie — proba w faktorii idzie mu dobrze, Nesta zadowolona, a on sam coraz mocniej po stronie Symona, i z wdziecznosci za klepisko, i po ludzku. Gdy slyszy, ze Symon ma swoj kawalek w barce spod dziewiatego, od reki proponuje: bedzie przy rozladunku, dolozy barow i oka, dopilnuje, zeby nikt nie podskubal ani nie pomeszal towaru w tloku nabrzeza. Lojalny gest i konkretna pomoc na wielki dzien. Docks gotowe, sojusznik pewny. Bran 37->39.
+
+## 296-11-05 WIECZOR -> 11-06 — prawo, sen
+Symon czyta prawo i spi. Noc spokojna, mroz trzyma. Do dostawy opalu i wyplaty trzy dni.

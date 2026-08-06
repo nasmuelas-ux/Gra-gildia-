@@ -2243,3 +2243,6 @@ Symon odpuszcza Gartha i siada do tego, co umie najlepiej: przy piorze, ukladaja
 
 ## 296-11-10 WIECZOR -> 11-11 — prawo, sen
 Symon czyta prawo i spi po dobrym dniu: plan Antaryona ostry, oprawa gotowa, oba fronty spolki w ruchu. Wielki tydzien za nim; teraz cierpliwosc, az dowod Gartha dojrzeje.
+
+## 296-11-11 RANEK->POLUDNIE — sluzba w sepcie
+Symon staje przy Owenie do zimowej roboty: ksiega jalmuzny, kolejnosc wedlug potrzeby, koordynacja rozdzialu, pismo za pismem — a Hal przy nim, pewniejszy juz w swojej czesci. Rece Symona realnie odciazaja septona, ktory sam nie nadaza z naplywem zmarznietych. I jest w tym cicha satysfakcja, ktora domyka petle: opal, ktory Symon wytorgowal Septie przy dostawie spod dziewiatego, wlasnie grzeje jej palenisko — jego handel i jego milosierdzie schodza sie w jednym cieple, pod ktorym siedza chore dzieci i starcy. Owen przyjmuje pomoc z ta wdziecznoscia, ktora u niego znaczy wiecej niz slowa. Ale scena trzyma tez trzezwa wage: tlum jest wiekszy niz zapas, mroz ryczy glosniej niz dobro, i niejeden odchodzi z niewielka. To wciaz kropla przeciw zimie — lecz kropla, ktora dzis ogrzala konkretne twarze, a Symonowe imie u Siedmiu znowu urado. Owen 52->53, Hal 48->49, reputacja u Wiary rosnie.

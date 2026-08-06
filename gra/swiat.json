@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 10,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
- "pogoda": 40,
- "dzien_tygodnia_nr": 6,
+ "pogoda": 32,
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "Ranek d18, chlodno, spokojnie. LULL po zamknieciu wielkich pozarow: fronty w drodze, nie na stole. W TOKU (zegary): sondaz Banku (~30), odpowiedz pryncypala (~11-10), spolka egzotyczna dojrzewa (futra ~11-10, skory ~11-20, barwniki ~11-25), submisja do Winterfell (odpowiedz ~ksiezyce/zima), sprawa cla/koalicja dokumentowana cicho (Garth/Leona/Boren), Hal na plus. Wick pochowany przez Owena. Faza: budowac cicho, czekac na bramy.",
+ "nastroje_miasta": "Ranek d19, mrozno ku zimie. LULL trwa: wielkie watki na zegarach (Bank ~30, pryncypal ~11-10, spolka egzotyczna ~11-10/20/25, Winterfell ~zima). Zywe TU-I-TERAZ: septa/ubodzy pod zima (wezwanie ~11-05), koalicja/clo dokumentowana cicho, Hal mocno na plus. Symon wyspany po przemeczeniu (zmeczenie 2, zdrowie 88).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,5 +49,5 @@
   }
  },
  "swieto": null,
- "dzien": 18
+ "dzien": 19
 }

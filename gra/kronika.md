@@ -1973,3 +1973,6 @@ Symon znow siedzi nad pergaminem do poznej swiecy — reka coraz rowniejsza, cho
 
 ## 296-10-24 RANEK — spar z Branem
 Symon je (-4 mied) i idzie do Brana na spor na zapleczu faktorii. Tragarz go przewyzsza barami o glowe, wiec Symon obrywa i lapie oddech w kurczu — ale wlasnie w tym nauka: Bran, sam bedac miesniem, pokazuje mu, jak nie isc na sile, tylko na dystans, dzwignie i timing. Kilka siniakow, uczciwy pot, nic zlamanego. Walka rosnie po grosiku (licznik +1), a Bran szanuje, ze pisarczyk regularnie wraca na trening (nast 34->35).
+
+## 296-10-24 POLUDNIE — Vox i Leona
+Symon odwiedza dwoch sojusznikow ze standingu. U Voxa trafia wyjatkowo cieplo: kupiec, ktory kiedys go podejrzewal, dzis go ceni — slyszal na kupieckiej gieldzie o konsorcjum opalowym i patrzy na Symona coraz powazniej. Sypie tez realnym intelem: Antaryonowie tej zimy twardo przyciskaja sciaganie dlugow, egzekwuja od dluznikow — a to i presja, i cien slabosci (moze im brak gotowki), uzyteczny kontekst przed odpowiedzia braavijskiego pryncypala. I Vox, i Leona, do ktorej Symon idzie potem, oboje wecha interes w polnocnym kanale i chca rozwazyc noge na przyszly rejs (Leona welna i suknem). Model brokerski sam sciaga popyt — powtarzalnosc potwierdzona. Vox 33->36, Leona 37->39.

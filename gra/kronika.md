@@ -1895,3 +1895,6 @@ Symon idzie do Borena sprawdzic strone zbytu na zelazo. Cechmistrz potwierdza od
 
 ## 296-10-19 POŁUDNIE — Hal: jak ci się pracuje
 Symon pyta chłopca nie o los, lecz o robotę. Hal mówi szczerze: trzyma go to, że suma się zgadza i że wie, po co liczy; najlepiej idzie mu, odkąd pytają go o zdanie, a nie dyktują. Bez hardości — zaufanie robocze osiadło (nast 34→35). Wciąż głodny poważniejszej roboty, lecz spokojniejszy. Wrażliwe wątki nadal odcięte.
+
+## 296-10-19 POŁUDNIE — cichy warsztat
+Symon spędza resztę popołudnia przy pulpicie: własna robota, a między kolumnami liczb — księga (traktat o umowach/prawie portu). Nikt nie przeszkadza. Dzień zamyka się spokojnie, bez zdarzeń; głowa pełniejsza o kilka paragrafów, ciało nieco zmęczone. (prawo: +1 do licznika, bez awansu)

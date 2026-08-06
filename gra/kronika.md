@@ -2021,3 +2021,6 @@ Zmeczony po dniu, ktory zawiazal zimowy relief, Symon idzie spac wczesniej. Plan
 
 ## 296-10-27 RANEK — runda reliefowa: Leona
 Symon je z Halem (-5 mied), karmi chlopaka i mowi mu: patrz i pomagaj. Zaczynaja od Leony. Symon sklada rzecz jej jezykiem — nie kazanie, lecz interes: 'akcja Wiary', pobożnosc i twarz przed miastem, spokoj w porcie, ktory zima moze zaklocic bieda. Leona, kupcowa z glowa, daje rozsadnie, ale realnie: bele grubszej welny i sukienne resztki, z ktorych ubodzy zrobia sobie cieplo. Docenia, ze rzecz idzie przez Wiare i godnie (nast 39->40). Hal stoi z boku, nosi, patrzy — i widzi ten sam model, co przy opale: spinac cudze w calosc, tyle ze teraz dla glodnych. Pierwsza skladka w kieszeni; przed nimi kolodzieje, przekupki i kantor.
+
+## 296-10-27 RANEK — runda reliefowa: kolodzieje
+Z Halem u boku Symon idzie do Borena. Tu rzecz idzie sama: odpad drzewny — scinki, heblowiny, kawalki za krotkie na kolo — to dla cechu niemal darmo, a na opal dla ubogich zloto. Boren, wciaz Symonowi wdzieczny i rad, ze wyjdzie na tym dobrze przed miastem, kaze czeladnikom powiazac odpad w wiazki do wydania (nast 38->39). Druga skladka zebrana. Hal znowu patrzy i nosi. Przed nimi jeszcze przekupki po jadlo i kantor po grosz.

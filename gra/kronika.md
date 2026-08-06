@@ -2144,3 +2144,6 @@ Symon je (-4 mied) i znow po cichu sonduje o audyt — i tym razem nisza dziala 
 
 ## 296-11-04 POLUDNIE — audyt Denysa: cegła potwierdzona
 Symon bierze ksiegi Denysa od reki, po cichu, i robi to, w czym jest krolem. Wzor wyłazi szybko: dostawca z sieci Antaryona skraca go — zaniza dostawy, zawyza rachunek — dokladnie tak samo, jak Aldousa, Marlona i Harlona. Symon pokazuje mu to jak audytor: oto liczby, oto gdzie ci ubywa; ani slowem nie zdradza, ze zna ten wzor z innych ksiag, ze widzi w tym siec, ze buduje przeciw niej blok. Denys, blady, dziekuje wylewnie — pisarz uratowal mu grosz, ktorego juz nie liczyl. Placi honorarium, trzy jelenie, ktore Symonowi przy jego cienkiej kasie sa jak woda na pustyni. Dla planu to piata cegła: potwierdzona ofiara sieci Antaryona, wdzieczna i ufna. Symon trzyma go na razie w niewiedzy, pod przyszla zbiorowa oslona, jak innych tchorzliwych czy nie. Cien pozostaje ten sam — kazdy taki audyt dokłada do pytania 'co ten skryba czyta' — ale front cechu jest zimny, a dyskrecja caly czas pierwsza. Denys nast ->18; sakiewka 5->8 jel.
+
+## 296-11-04 POLUDNIE — Vox
+Symon zaglada do Voxa. Kupiec rad, grzaniec, zwykla rozmowa sojusznikow — standing trzyma, obaj po tej samej stronie. Ale dzis Vox nie ma nic swiezego z kupieckiej gieldy: cicho, mrozno, ludzie siedza na towarze. Zwykla, dobra podtrzymujaca wizyta. Vox 36->37.

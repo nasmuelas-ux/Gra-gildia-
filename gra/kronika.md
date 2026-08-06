@@ -1955,3 +1955,6 @@ Symon cwiczy litery i sluzy w sepcie — kopie, porzadkuje, pomaga przy dzieciac
 
 ## 296-10-22 WIECZOR -> d23 — mocne cwiczenie, sen
 Symon siada do pergaminu na dluzej — mocna sesja pisma, az swieca dopala sie do ogarka. Je skromnie i klada sie spac. Reka coraz pewniejsza, choc do mistrzowskiego poziomu jeszcze daleko. Noc spokojna.
+
+## 296-10-23 RANEK — ksiegi z Halem: chlopiec zmarzniety
+Symon je sniadanie (-4 mied) i siada z Halem do ksiag, ale sesja nie idzie — chlopak rozkojarzony, myli sie w prostych sumach, robi sie kolczasty przy poprawianiu. Symon nie napiera; patrzy uwazniej i widzi, o co chodzi: Hal jest zmarzniety i glodny, bo sierociniec pod zima krotki na opal i strawe. Odklada wiec lekcje na bok, sadza go blizej ognia, dzieli sie jedzeniem. Nauka moze poczekac. Wiez trzyma nie przez dryll, lecz przez to, ze ktos zauwazyl. I jeszcze mocniej widac, po co ten opal dla Septy.

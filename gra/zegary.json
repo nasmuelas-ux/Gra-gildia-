@@ -83,7 +83,7 @@
    "id": "relief_zapasy_cienieja",
    "typ": "proces",
    "odlicza_do": "296-12-31",
-   "opis": "Zapasy reliefu cienieja (gleboki mroz + dodatek kolodziejow, spad mrozu d25 popyt>podaz). Jesli zimowa fala potrwa - trzeba resupply/nowych darczyncow albo racje beda ciac dalej.",
+   "opis": "Zapasy reliefu cienieja (gleboki mroz + dodatek kolodziejow, spad mrozu d25 popyt>podaz). Jesli zimowa fala potrwa - trzeba resupply/nowych darczyncow albo racje beda ciac dalej. || 12-26 (rzut 53): trzecia mobilizacja sieci - doraznу top-up, ale slabszy (zmeczenie darczyncow, zimowy scisk); kociol ustoi kilka dni nie wiecej. Kolodzieje odwzajemnili (owoc d22). WNIOSEK: prywatna studnia plycieje -> petycja do lorda = KONIECZNOSC.",
    "co_sie_stanie": "przy dalszej fali mrozu: relief moze nie starczyc - potrzeba mobilizacji nowych zrodel",
    "widoczny_graczowi": true
   },

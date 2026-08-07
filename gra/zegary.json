@@ -55,6 +55,11 @@
    "id": "ubezp_pilot_wynik",
    "termin": "296-12-12",
    "opis": "Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zysk) czy ktorys ucierpial (wyplata). Testuje model ryzyka Symona i oplacalnosc cichego pilaru."
+  },
+  {
+   "id": "godric_rachunki_wyplata",
+   "termin": "296-11-30",
+   "opis": "Pierwsza cicha wyplata za prowadzenie/audyt rachunkow domu Godrica (braavijski standard), wg rachunku domu na koniec miesiaca. Recurring, dyskretny dochod — akumulacja."
   }
  ]
 }

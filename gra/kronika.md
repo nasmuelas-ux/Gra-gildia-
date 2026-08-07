@@ -2994,3 +2994,5 @@ Symon poszedl do Owena 'pogadac' u schylku dnia, uzbrojony na jutrzejszy targ o 
 
 ## 297-01-06 RANEK
 Noc cicha, sen odswiezyl. Symon zasnal z decyzja o kamieniczce odlozona na rano - fork Nesta(brac)/Owen(czekac) niezamkniety. Zegary spia (draw ~01-19). Rano glodny.
+## 297-01-06 RANEK - posilek
+Symon zjadl wspolna owsianke w sepcie z ubogimi/sierotami (darmo pod dachem). Sytosc 22->55. Grunt wsrod ludu - echo wczorajszej rady Owena.

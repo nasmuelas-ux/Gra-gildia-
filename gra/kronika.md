@@ -2396,3 +2396,6 @@ Symon przynosi Neście sygnal od Harlona i razem rozkladaja problem. Braavijka o
 
 ## 296-11-21 wieczor -> 11-22 — prawo, sen; OPAL WCHODZI W OKNO
 Symon czyta prawo i spi. Rano opal skacze na 1.8x - to dolna krawedz okna sprzedazy, popyt rozpaczliwy. ALARM cenowy odpala: czas rozwazyc sprzedaz przetrzymanego lotu (transzami, tuz przed szczytem).
+
+## 296-11-22 RANEK — sprzedaz opalu
+Symon nie gra w chciwosc. Skoro opal wszedl w okno, a popyt jest rozpaczliwy, sprzedaje caly przetrzymany lot od razu, tu i teraz, po 1.8x. Kupcy i wiekszi odbiorcy rwa sie do towaru w trzaskajacym mrozie, wiec lot schodzi czysto - jedynie odrobine ceny zjada to, ze puszcza wszystko naraz zamiast saczyc po kawalku. I tak wychodzi z tego okragly zysk: dwanascie jeleni wpada do sakiewki za towar, ktory kupil za siedem i przechowal cierpliwie u kolodziejow. Moglby czekac na 1.9 albo 2x u samego szczytu - ale to znaczyloby ryzykowac odwrot, pierwszy oddech odwilzy, ktory zabija cene z dnia na dzien. Wychodzi wczesnie, nie chciwie, dokladnie jak uczyla Nesta: pewny zysk w kieszeni bije wymarzony zysk na papierze. Aktyw skonwertowany na czysta gotowke; zgodnie z postawa akumulacji powedruje raczej w reinwestycje albo depozyt niz na pokaz. Sakiewka rosnie do trzydziestu trzech jeleni - a alarm opalowy moze zamilknac.

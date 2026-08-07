@@ -530,7 +530,7 @@
   {
    "id": "alarm_opal",
    "tytul": "ALARM CENOWY: opal (przetrzymany lot)",
-   "status": "AKTYWNY od 11-15. MG sledzi CO TURE mnoznik opalu (teraz 1.5x) + puls popytu (sept/mroz). SPRZEDAC gdy: mnoznik ~1.8-2x+ PRZY rozpaczliwym popycie (tuz PRZED szczytem, nie na nim), transzami; ALBO natychmiast przy 1. sygnale ODWROTU (odwilz / duza dostawa opalu / puszczajace lody). Lekcja Nesty: wyjsc wczesnie nie chciwie. Alert gdy okno sie otworzy. Lot: u kolodziejow, suchy plac."
+   "status": "ZAMKNIETY 11-22 (rzut 62): caly przetrzymany lot SPRZEDANY w oknie 1.8x przy rozpaczliwym popycie, czysto (+~12 jel do sakiewki). Dyscyplina: sprzedal w oknie, nie gonil szczytu (mogl liczyc na 1.9-2x, ale wzial pewny zysk + zero ryzyka odwrotu) = 'wyjsc wczesnie nie chciwie' wg Nesty. Aktyw skonwertowany na gotowke; per postawa akumulacji -> reinwestowac/depozyt, nie blyszczec."
   },
   {
    "id": "audyt_referral_aurane",

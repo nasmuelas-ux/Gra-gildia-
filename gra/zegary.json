@@ -78,6 +78,14 @@
    "widoczny_graczowi": true,
    "ROZSTRZYGNIETY": "296-12-23 (rzut 60): dostarczone czysto od razu, saldo 5 jel, dyskrecja trzyma.",
    "zamkniety": true
+  },
+  {
+   "id": "relief_zapasy_cienieja",
+   "typ": "proces",
+   "odlicza_do": "296-12-31",
+   "opis": "Zapasy reliefu cienieja (gleboki mroz + dodatek kolodziejow, spad mrozu d25 popyt>podaz). Jesli zimowa fala potrwa - trzeba resupply/nowych darczyncow albo racje beda ciac dalej.",
+   "co_sie_stanie": "przy dalszej fali mrozu: relief moze nie starczyc - potrzeba mobilizacji nowych zrodel",
+   "widoczny_graczowi": true
   }
  ]
 }

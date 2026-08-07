@@ -2570,3 +2570,6 @@ Symon spisuje i przedklada Neście rzecz, ktora przekracza pojedynczy standard: 
 
 ## 296-12-05 wieczor -> 12-06 — prawo, sen
 Symon czyta prawo i spi po gestym, budujacym dniu (usluga zarzadcza x2, kodeks zawodowy). Wielkie watki dojrzewaja: ubezpieczenia ~12, Winterfell ~15, futra ~20.
+
+## 296-12-06 RANEK->POLUDNIE — piata lekcja geometrii
+Symon je i wraca do Donnela, a piata lekcja to juz nie sama teoria - mistrz kaze mu ja stosowac: wytyczyc na desce plan, zmierzyc, rozlozyc. Symon radzi sobie dobrze, wiedza osiada w praktyce, a jego geometria wchodzi na kolejny szczebel. Przy okazji Donnel rzuca mysl, ktora Symonowi natychmiast zapala sie w glowie: takie liczenie to nie zabawa, chlopcze, to realna robota - za to placa, gdy trzeba oszacowac, ile wart jest dom, ile zajmie postawienie muru, ile ziemi lezy za plotem. Symon lapie to od razu: geometria splata mu sie z ta wlasnie spisana usluga wyceny - bedzie jedynym w miescie czlowiekiem, ktory jest naraz audytorem i geometra, wiec potrafi wycenic nie tylko ksiegi, ale i mury i grunt. Kolejny cichy atut, ktory sam wpada w reke. Geometria 3->4. Donnel 30->31.

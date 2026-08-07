@@ -1108,12 +1108,12 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 30,
+   "nastawienie_do_gracza": 31,
    "zaufanie": 9,
    "wie_o_graczu": [
     "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory"
    ],
-   "ostatni_kontakt": "296-12-04",
+   "ostatni_kontakt": "296-12-06",
    "cechy_mowy": "powolny, rzeczowy, mowi obrazami z rzemiosla; dumny z tego, co postawil",
    "sprawa": "zima go unieruchomila (nie muruje sie w mroz - zaprawa zamarza), wiec ma CZAS i chetnie dzieli sie geometria z kims, kto ja ceni; wspomina tez o zaprzyjaznionym zimujacym szyprze do reckoning/astronomii",
    "historia": [
@@ -1121,7 +1121,8 @@
     "m11d30 rozmowa na koniec (rzut 41): cieplo po ludzku; Donnel dumnie wskazuje odcinek bialego muru, ktory stawial ('to bedzie stalo, gdy mnie nie bedzie'), przebija melancholia starego rzemieslnika bezczynnego zima; ZAPRASZA Symona z powrotem - nauka na cala zime, bo czasu ma dosc, a ucznia z glowa dawno nie mial. STANDING lekcje geometrii ustalone. Nast 21->23.",
     "m12d01 2. lekcja (rzut 93): Donnel coraz bardziej ujety - Symon w dwa posiedzenia lapie to, co czeladnikom miesiace; pokazuje mu mistrzowska geometrie. Nast 23->26.",
     "m12d02 3. lekcja (rzut 24): solidny-skromny postep. O KSIEGI glucho - Donnel czlowiek kamienia nie liter; wiedza masonow ORALNA/rzemieslnicza, guild-lore, nie w ksiazkach; ew. jego wlasne surowe notatki/wzorniki (marginalne). Prawdziwe teksty geometrii = Cytadela/maesterzy (strzezone, nie pozyczaja) -> petla do Theomore-odlozone. Nast 26->27.",
-    "m12d04 4. lekcja (rzut 85): Donnel uznaje Symona za zaawansowanego - 'moglbys juz wytyczyc fundament'. Traktuje go niemal jak peer-in-training, cieszy sie taka nauka. Nast 27->30."
+    "m12d04 4. lekcja (rzut 85): Donnel uznaje Symona za zaawansowanego - 'moglbys juz wytyczyc fundament'. Traktuje go niemal jak peer-in-training, cieszy sie taka nauka. Nast 27->30.",
+    "m12d06 5. lekcja (rzut 79): praktyczne zastosowanie (wytyczanie/miernictwo na desce), Symon dobrze; Donnel podsuwa, ze taka wiedza to realna robota - wyceny budowli, oszacowanie kosztu budowy. Nast 30->31."
    ]
   }
  ],

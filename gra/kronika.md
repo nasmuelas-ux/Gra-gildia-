@@ -2957,3 +2957,6 @@ Symon puścił węch przez Serlę i Nestę za tanią przymuszoną sprzedażą do
 
 ## 297-01-03 ZMIERZCH — trop kamienia z ogródkiem, z hakiem
 Celniejsze życzenie zadziałało: Serla wygrzebała trop. Na skraju starej dzielnicy stoi zaniedbany kamień z murowanym ogródkiem za płotem — po zmarłym rzemieślniku, pusty od jesieni, spadkobiercy chcą gotówki, cena niska. Ogród, płot, mury — dokładnie kształt, jakiego Symon chciał, i w zasięgu kiesy. Ale tanie nie bez powodu: remont niepewny (dach, belki — kosmetyka czy bezdenna studnia, z zewnątrz nie ocenisz) i tytuł mętny (spadek nieuporządkowany, ktoś wspomniał o obciążeniu albo sporze spadkobierców). Realna okazja, ale gambit — łup albo pułapka. Na szczęście Symon ma dokładnie tych, co to rozstrzygną: Donnela (murarz, oceni remont) i Torrena (sprawdzi tytuł i obciążenia). Bez obu osłon nie kładzie srebra.
+
+## 297-01-03 NOC / 01-04 RANEK — sen
+Symon domknął dzień i spał — z pierwszym tropem kamienia w głowie. Rankiem czwartego stycznia mróz trzyma, miasto ciche. Przed nim żywa sprawa: zweryfikować zaniedbany dom z ogródkiem, nim położy srebro — Donnel na remont, Torren na tytuł. W tle draw ~01-19, Godric ~01-30, Mira i wielkie wątki na cierpliwość i wiosnę.

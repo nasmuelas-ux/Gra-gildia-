@@ -1100,7 +1100,7 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 21,
+   "nastawienie_do_gracza": 23,
    "zaufanie": 5,
    "wie_o_graczu": [
     "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory"
@@ -1109,7 +1109,8 @@
    "cechy_mowy": "powolny, rzeczowy, mowi obrazami z rzemiosla; dumny z tego, co postawil",
    "sprawa": "zima go unieruchomila (nie muruje sie w mroz - zaprawa zamarza), wiec ma CZAS i chetnie dzieli sie geometria z kims, kto ja ceni; wspomina tez o zaprzyjaznionym zimujacym szyprze do reckoning/astronomii",
    "historia": [
-    "m11d30 1. lekcja (rzut 82): Donnel ZACHWYCONY tempem Symona - mlody chlonie geometrie logika, nie rote; mistrz, przywykly do czeladnikow uczacych sie rekami, cieszy sie umyslem, ktory widzi zasade. Wiez grzeje, radosc nauczania w bezczynna zime. Nast 18->21."
+    "m11d30 1. lekcja (rzut 82): Donnel ZACHWYCONY tempem Symona - mlody chlonie geometrie logika, nie rote; mistrz, przywykly do czeladnikow uczacych sie rekami, cieszy sie umyslem, ktory widzi zasade. Wiez grzeje, radosc nauczania w bezczynna zime. Nast 18->21.",
+    "m11d30 rozmowa na koniec (rzut 41): cieplo po ludzku; Donnel dumnie wskazuje odcinek bialego muru, ktory stawial ('to bedzie stalo, gdy mnie nie bedzie'), przebija melancholia starego rzemieslnika bezczynnego zima; ZAPRASZA Symona z powrotem - nauka na cala zime, bo czasu ma dosc, a ucznia z glowa dawno nie mial. STANDING lekcje geometrii ustalone. Nast 21->23."
    ]
   }
  ],

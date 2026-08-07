@@ -2546,3 +2546,6 @@ Symon zaglada do Serli z czyms cieplym do garnka. Zwyczajny, dobry kwadrans przy
 
 ## 296-12-04 POLUDNIE->ZMIERZCH — rozmowa z Owenem
 Symon siada z Owenem pogadac. Fronty stoja spokojnie: cech wciaz zimny, Harwin i Ryman cisi, tarcza Wiary trzyma jak trzymala - zaden ruch. O Winterfell na razie nic; kruk z Polnocy nie przylecial, a okno, w ktorym mogloby cos przyjsc, dopiero nadchodzi kolo polowy miesiaca - ale Owen, spokojny, przypomina, ze Polnoc jest wolna i daleka, wiec rownie dobrze moze odezwac sie pozniej albo wcale; ten kamien wciaz toczy sie poza ich reka, i pozostaje czuwac. A na koniec septon mowi Symonowi cos cieplego, jakby podsumowujac te zime: patrzyl, jak chlopak siega coraz szerzej - kantor, ubezpieczenia, teraz geometria u starego murarza - a mimo to nie oderwal sie od tego progu, przy ktorym kleczy z ubogimi. 'Rosniesz, Symonie, i to jest dobre - byle korzen zostal tam, gdzie jest.' Symon wychodzi pokrzepiony ta prosta prawda. Owen 60.
+
+## 296-12-04 wieczor -> 12-05 — prawo, sen
+Symon czyta prawo i spi. Rytm cierpliwosci; wielkie watki dojrzewaja (ubezpieczenia ~12, Winterfell ~15, futra ~20).

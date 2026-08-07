@@ -874,8 +874,12 @@
    "id": "garbarz_coll",
    "imie": "Coll",
    "zawod": "mistrz garbarz w zaulku (starszy garbarzy)",
-   "nastawienie_do_gracza": 13,
-   "nota": "zyczliwy po sprawie Elny, ale twardy w cenie; sprzedal skory na umowe na przyszlosc; najlepsze gatunki ograniczone | m10d7: sprzedal Symonowi partie zimowych skor na flip po dobrej cenie (zyczliwosc trwa)"
+   "nastawienie_do_gracza": 16,
+   "nota": "zyczliwy po sprawie Elny, ale twardy w cenie; sprzedal skory na umowe na przyszlosc; najlepsze gatunki ograniczone | m10d7: sprzedal Symonowi partie zimowych skor na flip po dobrej cenie (zyczliwosc trwa)",
+   "ostatni_kontakt": "296-11-20",
+   "historia": [
+    "m11d20 (rzut 84): odbior zakontraktowanych skor gladki; Coll uczciwie dotrzymal zamrozonej ceny, skory dobrej jakosci; rad ze stalego interesu. Nast 13->16."
+   ]
   },
   {
    "id": "kupiec_osgar",

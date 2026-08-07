@@ -2375,3 +2375,6 @@ Symon idzie od zimnej Nesty prosto do Owena, po to drugie swiatlo. Septon nie ud
 
 ## 296-11-19 wieczor -> 11-20 — cwiczenia, sen
 Symon je, cwiczy i spi. Rano dwudziestego wypada odbior zakontraktowanych skor od garbarza Colla — noga wywozowa spolki. Opal wciaz 1.6x, alarm cichy.
+
+## 296-11-20 RANEK->POLUDNIE — odbior skor
+Symon idzie do garbarza Colla po zakontraktowane skory - i odbior wychodzi lepiej, niz mial prawo oczekiwac. Coll uczciwie dotrzymuje zamrozonej z gory ceny, a same skory sa dobrej jakosci, lepsze niz Symon zakladal. I tu widac madrosc, ktora wbila mu Nesta: zamrazajac cene tygodnie temu, Symon kupil teraz towar, ktory na zimowym, przetrzebionym rynku kosztowalby znacznie wiecej - lock-in okazal sie okazja. Placi doplate z zarezerwowanego na to kapitalu spolki, nie tykajac wlasnej sakiewki, i sortuje skory pod zaladunek do Braavos. Teraz czekaja tylko na okno wywozowe - zimowe szlaki sie zwezaja, wiec wyplyna z najblizsza bezpieczna noga, a wiesc o ich sprzedazy w Braavos przyjdzie, jak to zima, dopiero za jakis czas. Noga wywozowa spolki umocniona konkretnym, tanim, jakosciowym ladunkiem. Coll 13->16.

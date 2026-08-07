@@ -17,14 +17,6 @@
    "widoczny_graczowi": true
   },
   {
-   "id": "odbior_skor",
-   "typ": "okazja",
-   "opis": "Odbior zakontraktowanych skor od garbarza Colla (doplata ~7 jel), sortowanie pod zaladunek do Braavos",
-   "odlicza_do": "296-11-20",
-   "co_sie_stanie": "skory gotowe do zaladunku na powrot Vhassara (~11-25)",
-   "widoczny_graczowi": true
-  },
-  {
    "id": "zima_ubodzy",
    "odlicza_do": "296-11-05",
    "typ": "szansa/obowiazek",
@@ -60,6 +52,11 @@
    "id": "godric_rachunki_wyplata",
    "termin": "296-11-30",
    "opis": "Pierwsza cicha wyplata za prowadzenie/audyt rachunkow domu Godrica (braavijski standard), wg rachunku domu na koniec miesiaca. Recurring, dyskretny dochod — akumulacja."
+  },
+  {
+   "id": "skory_wywoz",
+   "termin": "296-11-??",
+   "opis": "Skory (jakosciowe, cena zamrozona) ZESTAGOWANE pod zaladunek do Braavos — czekaja na okno wywozowe/statek (zimowe szlaki sie zwezaja, Belarno ostrzegal). Wyplyna z najblizsza noga; wynik sprzedazy ksiezyce pozniej (jak futra)."
   }
  ]
 }

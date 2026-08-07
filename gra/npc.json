@@ -1129,6 +1129,22 @@
     "m12d04 4. lekcja (rzut 85): Donnel uznaje Symona za zaawansowanego - 'moglbys juz wytyczyc fundament'. Traktuje go niemal jak peer-in-training, cieszy sie taka nauka. Nast 27->30.",
     "m12d06 5. lekcja (rzut 79): praktyczne zastosowanie (wytyczanie/miernictwo na desce), Symon dobrze; Donnel podsuwa, ze taka wiedza to realna robota - wyceny budowli, oszacowanie kosztu budowy. Nast 30->31."
    ]
+  },
+  {
+   "id": "merek_prowiant",
+   "imie": "Merek",
+   "przydomek": null,
+   "wiek": 47,
+   "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
+   "mieszka": "Schody",
+   "nastawienie_do_gracza": 6,
+   "zaufanie": 0,
+   "wie_o_graczu": [
+    "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)"
+   ],
+   "ostatni_kontakt": "296-12-11",
+   "cechy_mowy": "gadatliwy, nerwowy gdy o pieniadzach",
+   "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane"
   }
  ],
  "orbita": [

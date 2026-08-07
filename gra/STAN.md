@@ -55,6 +55,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-12-29` petycja_lord_relief: PLAN (Owen rzut 97): petycja do lorda Wymana o wsparcie zimowego reliefu - framing PORZADEK+reputacja (nie lit
 - ◆ `296-12-31` poznanie_miry: Nesta aranzuje poznanie z MIRA - pretekst: pomoc jej z ksiegami po mezu + braavijskimi papierami handlowymi (z
 - ◆ `297-01-19` draw_nesta: Miesieczny DRAW wspolnika ~6 jeleni z kantoru Nesty (start 12-19). Recurring. + osobno: 1/3 netto z transakcji
+- ◆ `297-01-03` konsult_torren_mieszczanstwo: Konsultacja z Septonem Torrenem (neutralny znawca prawa miejskiego, wskazany przez Owena) - praktyka admisji m
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

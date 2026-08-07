@@ -1243,6 +1243,25 @@
    "ostatni_kontakt": "296-12-31",
    "cechy_mowy": "krotko, rzeczowo, chlodno; bystra, przenikliwa, malo daje z siebie; twarda niezaleznosc",
    "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA."
+  },
+  {
+   "id": "septon_torren",
+   "imie": "Torren",
+   "przydomek": "Septon",
+   "wiek": 58,
+   "stan": "duchowny (Wiara)",
+   "zawod": "septon uczony w prawie; prowadzi prawne/majatkowe sprawy Septy z miastem (zapisy, nadania, wlasnosc koscielna); zna praktyke rady i admisji mieszczanskiej",
+   "mieszka": "przy glownej Sepcie / Sept Sniegow",
+   "nastawienie_do_gracza": 0,
+   "zaufanie": 0,
+   "wie_o_graczu": [],
+   "potrzeby": [
+    "porzadek w sprawach Septy",
+    "posluszenstwo Wierze"
+   ],
+   "ostatni_kontakt": null,
+   "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
+   "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
   }
  ],
  "orbita": [

@@ -117,6 +117,14 @@
    "opis": "Miesieczny DRAW wspolnika ~6 jeleni z kantoru Nesty (start 12-19). Recurring. + osobno: 1/3 netto z transakcji Symona i rosnacy udzial w core-faktorii (prowadzone przez Nesta w ksiegach).",
    "co_sie_stanie": "~miesiecznie: kapie draw 6 jel; udzial/1/3 do rozliczenia z Nesta",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "konsult_torren_mieszczanstwo",
+   "typ": "okazja",
+   "odlicza_do": "297-01-03",
+   "opis": "Konsultacja z Septonem Torrenem (neutralny znawca prawa miejskiego, wskazany przez Owena) - praktyka admisji mieszczanskiej: droga kupiec-wspolnik, poreczenie Wiary+kupcow, minimalizacja glosu Cechu Pisarzy. Owen posyla slowo; spotkanie za dzien-dwa.",
+   "co_sie_stanie": "za ~dzien-dwa: Symon konsultuje Torrena - konkretna sciezka prawna do mieszczanstwa",
+   "widoczny_graczowi": true
   }
  ]
 }

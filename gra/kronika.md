@@ -2960,3 +2960,6 @@ Celniejsze życzenie zadziałało: Serla wygrzebała trop. Na skraju starej dzie
 
 ## 297-01-03 NOC / 01-04 RANEK — sen
 Symon domknął dzień i spał — z pierwszym tropem kamienia w głowie. Rankiem czwartego stycznia mróz trzyma, miasto ciche. Przed nim żywa sprawa: zweryfikować zaniedbany dom z ogródkiem, nim położy srebro — Donnel na remont, Torren na tytuł. W tle draw ~01-19, Godric ~01-30, Mira i wielkie wątki na cierpliwość i wiosnę.
+
+## 297-01-04 RANEK→POŁUDNIE — Donnel ogląda dom: bezdenna studnia
+Dobrze, że Symon go wziął — bez niego byłby kupił pułapkę. Donnel przeszedł kamień jak lekarz trupa i wydał wyrok bez ogródek: to nie kosmetyka, to bezdenna studnia. Główne belki przegniłe, ściana osiada na wilgotnym fundamencie, dach bardziej zapadły, niż wyglądał. „Ogród ładny i płot cały, ale sam dom trzeba by rozebrać i postawić od nowa; srebro i lata pójdą w to jak w bagno." Cena była niska dokładnie dlatego. Nie kupować na mieszkanie — chyba jako sam grunt z ogrodem pod przyszłą rozbiórkę, a to inny, większy projekt. Trop okazał się pułapką, ale ominiętą: Symon zrobił, co należało, sprowadził oko mistrza, nim położył srebro. Torrena z tytułem już nie było po co fatygować. Donnel, rad, że się przydał: „Poczekaj na zdrowszy. Wart jesteś zdrowszego." Szukają dalej.

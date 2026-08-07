@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-01-04 RANEK · zima nadeszla (Polnoc) — dlugie lato dogaslo
+- **Data:** 297-01-04 POŁUDNIE · zima nadeszla (Polnoc) — dlugie lato dogaslo
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
@@ -14,7 +14,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
 - PODRECZNIK PROCEDUR KANTORU (11-XII, rzut 97): KONTROLA DOKUMENTU (numerowane/przeszywane/pieczetowane karty; kopia umowy u obu stron+trzecia u depozytariusza; atrament trwaly, bez pustych miejsc, kwota slownie obok cyfry; poprawki tylko przekreslenie z parafa). KONTROLA LUDZI (rozdzial kasa/magazyn/ksiega; rotacja+przymusowa przerwa kasjera; dwa klucze+dwa podpisy powyzej progu; kaucja+poreczyciel przy zatrudnianiu) - CZESC skalowana: maly kantor nie ma 3 osob -> stosuje co pasuje + compensating controls. KONTROLA RZECZY (cechowanie towaru+pieczetowanie beczek; liczenie skladu w LOSOWYCH terminach; waga MIEJSKA nie wlasna; OSOBNY rejestr brakow/zwrotow - tam ucieka najwiecej). RAPORTY ZARZADCZE (klejnoty, sprzedawalne): WIEKOWANIE NALEZNOSCI (kto/ile/od kiedy); RENTOWNOSC per klient i per trasa (zwykle 1/3 interesow stratna); KALENDARZ ZOBOWIAZAN (czynsz/clo/podatek/dlug na jednej karcie); PROGI OSTRZEGAWCZE (jesli zapas<X kupuj; jesli dlug>Y wstrzymaj kredyt).
-- Zdrowie 85 · Sytosc 46 · Zmeczenie 5
+- Zdrowie 85 · Sytosc 41 · Zmeczenie 11
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -56,7 +56,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-12-31` poznanie_miry: Nesta aranzuje poznanie z MIRA - pretekst: pomoc jej z ksiegami po mezu + braavijskimi papierami handlowymi (z
 - ◆ `297-01-19` draw_nesta: Miesieczny DRAW wspolnika ~6 jeleni z kantoru Nesty (start 12-19). Recurring. + osobno: 1/3 netto z transakcji
 - ◆ `297-01-03` konsult_torren_mieszczanstwo: Konsultacja z Septonem Torrenem (neutralny znawca prawa miejskiego, wskazany przez Owena) - praktyka admisji m
-- ◆ `297-01-10` wech_wlasnosc: Serla+Nesta nasluchuja o TANIA PRZYMUSZONA sprzedaz domu Z OGRODKIEM ZA PLOTEM w murach (lokum+biuro+wlasnosc 
+- ◆ `297-02-XX` wech_wlasnosc: Serla+Nesta nasluchuja o TANIA PRZYMUSZONA sprzedaz domu Z OGRODKIEM ZA PLOTEM w murach (lokum+biuro+wlasnosc 
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

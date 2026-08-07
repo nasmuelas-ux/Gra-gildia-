@@ -1162,13 +1162,14 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 35,
+   "nastawienie_do_gracza": 36,
    "zaufanie": 10,
    "wie_o_graczu": [
     "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory",
-    "d25 (rzut 40): odwiedzil w bezczynna zime - Donnel rad z ciekawego, szczerze ceniacego ucznia; uczyl chetnie (luki, rozklady sil), opowiadal jak stawial Bialy Mur/czesc Nowego Zamku. Relacja odzyla (31->35). Geometria trafila w praktyczny SUFIT - Symon ma uzyteczna czesc (miara/przestrzen, geom4), mistrzowska reszta wrosnięta w lata pod kamieniem, nie do nadrobienia bystroscia. Wartosc Donnela = relacja/madrosc, nie dalszy grind."
+    "d25 (rzut 40): odwiedzil w bezczynna zime - Donnel rad z ciekawego, szczerze ceniacego ucznia; uczyl chetnie (luki, rozklady sil), opowiadal jak stawial Bialy Mur/czesc Nowego Zamku. Relacja odzyla (31->35). Geometria trafila w praktyczny SUFIT - Symon ma uzyteczna czesc (miara/przestrzen, geom4), mistrzowska reszta wrosnięta w lata pod kamieniem, nie do nadrobienia bystroscia. Wartosc Donnela = relacja/madrosc, nie dalszy grind.",
+    "297-01-04 (rzut 25): Symon zabral go obejrzec dom-trop. Donnel (mistrz) wyrok: NIE kosmetyka lecz BEZDENNA STUDNIA - przegnile belki, osiadajacy fundament na wilgoci, dach zapadly. 'Rozebrac i postawic od nowa; srebro i lata w bagno'. Nie kupowac na mieszkanie (chyba ze sam grunt+ogrod pod przyszla rozbiorke=inny wiekszy projekt). Uratowal Symona przed pulapka; rad ze sie przydal ('poczekaj na zdrowszy, wart jestes zdrowszego')."
    ],
-   "ostatni_kontakt": "296-12-25",
+   "ostatni_kontakt": "297-01-04",
    "cechy_mowy": "powolny, rzeczowy, mowi obrazami z rzemiosla; dumny z tego, co postawil",
    "sprawa": "zima go unieruchomila (nie muruje sie w mroz - zaprawa zamarza), wiec ma CZAS i chetnie dzieli sie geometria z kims, kto ja ceni; wspomina tez o zaprzyjaznionym zimujacym szyprze do reckoning/astronomii",
    "historia": [

@@ -2798,3 +2798,6 @@ Symon nie odkładał — usiadł i ustawił Harlonowi księgi zarządcze na miej
 
 ## 296-12-23 ZMIERZCH — szkic dla Godrica: przedwczesny
 Symon usiadł przy drogiej świecy do konkretu dla Godrica i trafił na ścianę: nie ma z czego złożyć propozycji. Wolumen i cena wiszą na terminach Halvarda, które Torsen dopnie na odwilż; wiosennych cen nikt nie zna; mechanika dworu mętna. Zmęczony po dniu dwóch ksiąg wydusił najwyżej szkielet umowy i listę tego, czego mu brakuje. Nie bezużytecznie — znać luki to połowa roboty — ale prawda jest taka, że spalił świecę i oczy na odkrycie, które mógł przewidzieć: konkret Godrica to zadanie na wiosnę. Najpierw wejścia, potem pismo.
+
+## 296-12-23 NOC / 12-24 RANEK — sen
+Symon padł bez czytania — dzień wyżął go do sucha (dwie księgi, relief kołodziejom, przedwczesny szkic). Spał twardo i długo. Rankiem dwudziestego czwartego wypoczęty; trzaskający mróz, miasto ciche pod zimą. Wypłata od Godrica ku końcowi miesiąca, reszta wielkiego śpi do wiosny.

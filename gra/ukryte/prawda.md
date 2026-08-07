@@ -181,3 +181,6 @@ Anulowane: NIE bylo przyciskania Gartha ani sugestywnego leadu. Poprawnie: Symon
 
 ## 296-12-17 (UKRYTE) kopie Mereka
 rzut 29: kopie Mereka faktycznie CZYSTE - bo skim (61) siedzi po stronie wspolnika, nie Mereka. Symon slusznie wnioskuje, ze jego strona czysta i manipulacja (jesli jest) jest po tamtej stronie - ale to zaden dowod. Trop nadal ukryty; jedyna realna droga = triangulacja przez strony trzecie.
+
+## 297-01-01 (grounding) reframe Owena
+Owen przestawil Symonowi rame na nazwisko/zone/mieszczanstwo: to nie lupy do zdobycia sprytem/tempem, lecz owoce bycia (dojrzewaja przez charakter+czas). Przestac chwytac, zyc prawo/cierpliwie. Pociecha na samotnosc: ma wiecej ludzi niz czuje; Septa/Owen jako rodzina dla bezrodzinnego. Grounding po dniu tacticznych scian (Mira/mieszczanstwo utknely).

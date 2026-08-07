@@ -520,8 +520,8 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 47,
-   "ostatni_kontakt": "296-12-15",
+   "nastawienie_do_gracza": 48,
+   "ostatni_kontakt": "296-12-30",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
     "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -536,7 +536,8 @@
     "audyt Symona wykryl PRECYZYJNIE, kto go skubie (nie dostawca, lecz posrednik/wewnetrzny skim) — ogromna wdziecznosc, glosno chwali",
     "potwierdzone: Symon to wspolnik Nesty; Vox go wspiera jako filar portowy",
     "slyszal o konsorcjum opalowym Symona (kupiecka gielda gada) — ceni go rosnaco; chce rozwazyc noge na przyszly polnocny rejs",
-    "d15: Symon dowiozl usluge zarzadcza (wiekowanie naleznosci + rentownosc per klient/trasa + kalendarz zobowiazan + progi) - czysto, Vox zachwycony, zaplacil 4 jelenie. KOMPLIKACJA (jego znana wada - glosno chwali): rozniosl 'cudowne ksiegi skryby' po kupieckiej gieldzie tak, ze zglosil sie NIEZNANY kupiec przez Voxa, chcac tez wejsc. Cichy/selektywny rollout (nakaz Nesty) zaczyna sie rwac - presja na wetting; widocznosc uslugi rosnie."
+    "d15: Symon dowiozl usluge zarzadcza (wiekowanie naleznosci + rentownosc per klient/trasa + kalendarz zobowiazan + progi) - czysto, Vox zachwycony, zaplacil 4 jelenie. KOMPLIKACJA (jego znana wada - glosno chwali): rozniosl 'cudowne ksiegi skryby' po kupieckiej gieldzie tak, ze zglosil sie NIEZNANY kupiec przez Voxa, chcac tez wejsc. Cichy/selektywny rollout (nakaz Nesty) zaczyna sie rwac - presja na wetting; widocznosc uslugi rosnie.",
+    "d30 (rzut 11): Symon pyta o mieszczanstwo. Vox trzezwo (zna od srodka): CECHY maja glos w dopuszczeniu do mieszczanstwa - Cech Pisarzy (wrog Symona) moze FORMALNIE ZABLOKOWAC admisje jako 'partacza' w ich rzemiosle. Cechowa wasn = bezposrednia przeszkoda ku nazwisku. Nitka-obejscie: ubiegac sie jako KUPIEC/wspolnik kantoru (nie skryba) - inna stopa, mniej glosu Cechu, poreczyliby osiadli kupcy (Vox/Aldous/Leona/Boren); ale szczegoly niepewne (Vox=sukiennik nie prawnik)."
    ],
    "potrzeby": [
     "dojsc, czy wspolnik go strzyze",

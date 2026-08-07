@@ -2996,3 +2996,6 @@ Symon poszedl do Owena 'pogadac' u schylku dnia, uzbrojony na jutrzejszy targ o 
 Noc cicha, sen odswiezyl. Symon zasnal z decyzja o kamieniczce odlozona na rano - fork Nesta(brac)/Owen(czekac) niezamkniety. Zegary spia (draw ~01-19). Rano glodny.
 ## 297-01-06 RANEK - posilek
 Symon zjadl wspolna owsianke w sepcie z ubogimi/sierotami (darmo pod dachem). Sytosc 22->55. Grunt wsrod ludu - echo wczorajszej rady Owena.
+
+## 297-01-06 RANEK - Nesta (rzut 64)
+Symon przyniosl Nescie przestroge Owena (dom=nieruchomy korzen przy zywej bombie). Nesta nie zlekcewazyla - ceni, ze przyszedl z kontrargumentem, nie pedem. Trzezwo: ryzyko realne, ale priceable nie binarne. Dom kupiony czysto trudno ZAJAC (trzeba wyroku przeciw Symonowi = przegranej Rymana; wtedy dom to drobiazg). Owen ma racje w jednym nie-prawnym: dom to nieruchomy cel dla najscia/podpalenia i topi plynny kapital. Synteza operacyjna (nie prawna): ODDZIELIC WLASNOSC OD ZAMIESZKANIA - kupic aktyw (korzen+dochod), ale nie wprowadzac sie; zostac w celi septy (tarcza Owena) az Ryman padnie; kamieniczka jako czysty wynajem+biuro. Koszt: marze ciensze (dom dzwiga dlug bez oszczednosci-na-czynszu) + ryzyko zimowego pustostanu. Werdykt: brac - jako wlasciciel-nie-lokator. Fork rozwiazany, obie troski uszanowane. Nesta nast 67->68.

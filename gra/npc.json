@@ -277,7 +277,7 @@
     "kontrola z zamku",
     "wlasny slaby wzrok do drobnego pisma"
    ],
-   "nastawienie_do_gracza": 22,
+   "nastawienie_do_gracza": 28,
    "zaufanie": 10,
    "wie_o_graczu": [
     "pisze szybko i czysto",
@@ -296,7 +296,7 @@
     "poprosil dyskretnie o cross-check frachtu/cla drewna dla kolodziejow — Garth pomaga cicho, ale ostrzega, ze to grubsza ryba (siec wielkich domow) i chce EKSTRA cicho",
     "Symon sprowadza opal/drewno Bialym Nozem (rejs ~11-09) — przejdzie przez clo Bramy Foki; interes legalny",
     "d14: Symon odswiezyl wiez po 22 dniach - cieplo, bez interesu, po ludzku; Garth rad, ze ktos przyszedl do niego, nie po cos. Rozmowa o pogodzie, mrozie, robocie. Jedyny realny watek: fracht drewna wciaz nierowny (audyt_frachtu_zbior) - Garth cicho akumuluje dalej. Nast 24->28.",
-    "d16 KOREKTA: Symon NIE wycofal sie - przycisnal Gartha o zimowe fragmenty celne mimo jego niechęci. Wyciagnal urywki (rzut 60), ale Garth spiety i teraz naprawde czujny: dzien po serdecznym pojednaniu poproszony o grzebanie w rejestrach dla nienazwanej sprawy - czuje hak za przyjaznia, ufa mniej (28->22). Asset nadwyrezony ale nie spalony; Garth z natury dyskretny, nie wygada, ale zapamietal."
+    "d16: Symon poprosil go po przyjacielsku o cichy cross-check zimowych manifestow prowiantu (dyskretnie, bez nazwisk). Garth pomogl chetnie - ale zimowy slad za cienki (port skuty, prowiant idzie malymi partiami/ladem), za malo danych na bilans masy. Bez napiecia, wiez ciepla (28)."
    ],
    "dlugi": [],
    "ostatni_kontakt": "296-12-16",

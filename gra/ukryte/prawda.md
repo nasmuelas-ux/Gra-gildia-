@@ -175,3 +175,6 @@ rzut prawdy 61 (>55): wspolnik Mereka RZECZYWISCIE lekko skima - nieduza, wiaryg
 
 ## 296-12-16 (UKRYTE) diligencja Mereka
 Symon przycisnal Gartha (rzut 60) i wydusil cienkie zimowe fragmenty celne. Luka w ilosciach, ktora zobaczyl, JEST realna (pokrywa sie z prawdziwym skimem wspolnika, 61) - ale Symon widzi ja tylko jako SUGESTYWNY trop, nie wie, ze to potwierdzenie. Koszt: Garth ufa mniej (22), zapamietal, ze przyjazn przyszla z hakiem - dyskretny, nie wygada.
+
+## 296-12-16 (UKRYTE) KOREKTA diligencji
+Anulowane: NIE bylo przyciskania Gartha ani sugestywnego leadu. Poprawnie: Symon poprosil Gartha po przyjacielsku, ten pomogl, ale zimowy slad celny za cienki na bilans masy - noga jalowa, NIC nie wyszlo, zero kosztu relacji (Garth 28). Prawda bazowa bez zmian: wspolnik Mereka lekko skima (61), ale ta noga tego NIE ujawnila. Symon nie ma jeszcze zadnego tropu.

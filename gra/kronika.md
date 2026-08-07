@@ -2774,3 +2774,6 @@ Symon wpadł wieczorem do Wendy i trafił na jej najlepszy humor. Dosadna przeku
 
 ## 296-12-21 NOC / 12-22 RANEK — prawo (przełom), sen; mróz się zaostrza
 Wieczór nad prawem wreszcie się przełamał: po jedenastu dniach niemal codziennego czytania coś w Symonie zaskoczyło głębiej — przepisy przestały być listą do pamiętania, a stały się narzędziem, którym myśli. Prawo 7→8, biegłość rzadka jak na człowieka bez maestera nad sobą. Spał dobrze. Rankiem dwudziestego drugiego mróz trzaska ostrzej — zima wchodzi w najgłębszą fazę, relief zbożowy powoli się przejada, chleb znów drożeje o grosz, a ubogim jest ciężej. Wielkie wątki śpią pod lodem do wiosny; żywy zostaje filar doradczy i cicha, twarda codzienność zimy.
+
+## 296-12-22 — KOREKTA (sezon)
+Sprostowanie ciągnącej się drift w nagłówkach: gra zaczęła się w schyłku długiego lata (~296-08), ale przez miesiące rozgrywki zima faktycznie zeszła (trzaskający mróz, Biały Nóż skuty, głód/relief od tygodni). To już nie „schyłek długiego lata", lecz PEŁNA ZIMA Północy. Etykieta sezonu poprawiona; nagłówki od teraz mówią „zima".

@@ -172,3 +172,6 @@ Symon spisal rzemioslo forensiczne, ale prawa pierwszej cyfry (Benford) NIE wyku
 
 ## 296-12-16 (UKRYTE) sprawa Mereka
 rzut prawdy 61 (>55): wspolnik Mereka RZECZYWISCIE lekko skima - nieduza, wiarygodnie zaprzeczalna nieprawidlowosc (nie rabunek, ale realne). Merek ma racje co do instynktu. rzut odpowiedzi 33: wspolnik hedguje/odwleka (bo ma co ukrywac) - probuje zyskac czas na ubranie ksiag. Symon tego NIE WIE na pewno - widzi tylko reluktancje jako miekki sygnal.
+
+## 296-12-16 (UKRYTE) diligencja Mereka
+Symon przycisnal Gartha (rzut 60) i wydusil cienkie zimowe fragmenty celne. Luka w ilosciach, ktora zobaczyl, JEST realna (pokrywa sie z prawdziwym skimem wspolnika, 61) - ale Symon widzi ja tylko jako SUGESTYWNY trop, nie wie, ze to potwierdzenie. Koszt: Garth ufa mniej (22), zapamietal, ze przyjazn przyszla z hakiem - dyskretny, nie wygada.

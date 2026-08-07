@@ -277,7 +277,7 @@
     "kontrola z zamku",
     "wlasny slaby wzrok do drobnego pisma"
    ],
-   "nastawienie_do_gracza": 28,
+   "nastawienie_do_gracza": 22,
    "zaufanie": 10,
    "wie_o_graczu": [
     "pisze szybko i czysto",
@@ -295,10 +295,11 @@
     "poprosil dyskretnie o zapisy dostaw wina i solonej ryby przez Brame Foki — Garth pomogl, nie wypytywal po co",
     "poprosil dyskretnie o cross-check frachtu/cla drewna dla kolodziejow — Garth pomaga cicho, ale ostrzega, ze to grubsza ryba (siec wielkich domow) i chce EKSTRA cicho",
     "Symon sprowadza opal/drewno Bialym Nozem (rejs ~11-09) — przejdzie przez clo Bramy Foki; interes legalny",
-    "d14: Symon odswiezyl wiez po 22 dniach - cieplo, bez interesu, po ludzku; Garth rad, ze ktos przyszedl do niego, nie po cos. Rozmowa o pogodzie, mrozie, robocie. Jedyny realny watek: fracht drewna wciaz nierowny (audyt_frachtu_zbior) - Garth cicho akumuluje dalej. Nast 24->28."
+    "d14: Symon odswiezyl wiez po 22 dniach - cieplo, bez interesu, po ludzku; Garth rad, ze ktos przyszedl do niego, nie po cos. Rozmowa o pogodzie, mrozie, robocie. Jedyny realny watek: fracht drewna wciaz nierowny (audyt_frachtu_zbior) - Garth cicho akumuluje dalej. Nast 24->28.",
+    "d16 KOREKTA: Symon NIE wycofal sie - przycisnal Gartha o zimowe fragmenty celne mimo jego niechęci. Wyciagnal urywki (rzut 60), ale Garth spiety i teraz naprawde czujny: dzien po serdecznym pojednaniu poproszony o grzebanie w rejestrach dla nienazwanej sprawy - czuje hak za przyjaznia, ufa mniej (28->22). Asset nadwyrezony ale nie spalony; Garth z natury dyskretny, nie wygada, ale zapamietal."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-12-14",
+   "ostatni_kontakt": "296-12-16",
    "cechy_mowy": "urzedowo, ostroznie, duzo 'wedle przepisu'; chrzaka",
    "historia": [
     "m11d22 (rzut 79): dyskretna ocena dojrzalosci danych. Garth przez tygodnie cicho nazbieral SOLIDNY, spojny obraz: deklaracje frachtu/cla drewna SYSTEMATYCZNIE zawyzone/niespojne, rozbieznosc DOKUMENTOWALNA. Wskazuje na szyprow w orbicie sieci Antaryona. Garth kooperuje, potwierdza, ale ma LIMITY (celnik ryzykuje - nie chce byc odslonietym zrodlem) i prosi o dalsza dyskrecje. Nast 22->24."

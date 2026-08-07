@@ -169,3 +169,6 @@ Faktor skladu Aurane'a skimuje przez FANTOMOWE ZEPSUCIE: zawyza spisy 'uszkodzon
 
 ## 296-11-29 Benford NIE odkryty (rzut 28)
 Symon spisal rzemioslo forensiczne, ale prawa pierwszej cyfry (Benford) NIE wykuł - to prawdziwe, nieoczywiste odkrycie statystyczne (XIX w.), poza zasiegiem rzutu 28. Zostal mu tylko FLICKER: mgliste, nieuchwytne wrazenie, ze uczciwe spisy 'ciazą' ku malym cyfrom (jedynki/dwojki), a fałszerze rozkladaja rowno albo tloczą sie w srodku - ale nie umie tego pinąc ani uzyc, odklada jak niejasne przeczucie. DORMANT: mozliwa przyszla 'eureka' przy wysokim rzucie / po latach wpatrywania sie w ksiegi. Nie dawac graczowi Benforda za darmo.
+
+## 296-12-16 (UKRYTE) sprawa Mereka
+rzut prawdy 61 (>55): wspolnik Mereka RZECZYWISCIE lekko skima - nieduza, wiarygodnie zaprzeczalna nieprawidlowosc (nie rabunek, ale realne). Merek ma racje co do instynktu. rzut odpowiedzi 33: wspolnik hedguje/odwleka (bo ma co ukrywac) - probuje zyskac czas na ubranie ksiag. Symon tego NIE WIE na pewno - widzi tylko reluktancje jako miekki sygnal.

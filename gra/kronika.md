@@ -2690,3 +2690,6 @@ Sprostowanie: spółka zbożowa jest zamknięta — zboże dawno wpłynęło i z
 
 ## 296-12-14 — KOREKTA (2): usunięcie wymyślonego Osgara
 Wątek „Osgar poluje na źródło zboża" wycofany w całości — nie napędzał go żaden zegar ani stan; był moim dorobionym dramatem. Wizyta u Gartha to po prostu ciepłe odświeżenie więzi po 22 dniach (nastawienie 24→28). Jedyny realny wątek, jaki przy okazji wypłynął, to trwający miękko fracht drewna (deklaracje wciąż nierówne, Garth zbiera cicho dalej). Żadnego zmyślonego intelu, żadnej reaktywacji zamkniętej spółki zbożowej.
+
+## 296-12-14 NOC / 12-15 RANEK — prawo i sen
+Symon domknął dzień nad prawem — solidna, spokojna sesja bez przełomu, litery już nie ciążyły, bo opuchlizna z ręki zeszła. Spał dobrze. Rankiem piętnastego ręka sprawna, mróz trzyma, śnieg sypie miękko. Miasto ciche. Submisja do Winterfell leży gdzieś w rękach Północy, ale odpowiedzi nie ma co wyglądać przez tygodnie — głucha zima, kanały wolne. Zwykły zimowy poranek.

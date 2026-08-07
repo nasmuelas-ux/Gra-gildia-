@@ -2426,3 +2426,6 @@ Symon staje do sluzby w szczycie mrozu, gdy septa pelna zziębnietych, a relief 
 
 ## 296-11-24 wieczor — wieczor z Branem
 Symon lapie Brana juz po robocie i siadaja na kufel tam, gdzie sluzy Alys, jego narzeczona. Nic wielkiego sie nie dzieje - i to jest dobre. Bran jest spokojny i cichy z siebie dumny: proba idzie mu dobrze, a on liczy dni do chwili, gdy bedzie mogl na tym oprzec wlasny kat i slub. Alys, przemykajac z dzbanami, rzuca im cieply usmiech; Symon widzi w tej dwojce zwykla, uczciwa przyszlosc, ktorej po cichu kibicuje. Zwyczajna wieczorna wizyta, ktora nic nie 'zalatwia', a jednak umacnia wiez z czlowiekiem, ktorego hoduje na swojego. Bran 43->44.
+
+## 296-11-24 wieczor -> 11-25 — sen
+Symon spi. Rano dwudziestego piatego wraca Vhassar z probna skrzynia barwnikow tyrijskich - noga importowa spolki egzotycznej. Sekwencja Antaryona w ruchu w tle (Nesta -> Ternesio ~w dni).

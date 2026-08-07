@@ -1100,14 +1100,17 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 18,
-   "zaufanie": 3,
+   "nastawienie_do_gracza": 21,
+   "zaufanie": 5,
    "wie_o_graczu": [
     "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory"
    ],
    "ostatni_kontakt": "296-11-30",
    "cechy_mowy": "powolny, rzeczowy, mowi obrazami z rzemiosla; dumny z tego, co postawil",
-   "sprawa": "zima go unieruchomila (nie muruje sie w mroz - zaprawa zamarza), wiec ma CZAS i chetnie dzieli sie geometria z kims, kto ja ceni; wspomina tez o zaprzyjaznionym zimujacym szyprze do reckoning/astronomii"
+   "sprawa": "zima go unieruchomila (nie muruje sie w mroz - zaprawa zamarza), wiec ma CZAS i chetnie dzieli sie geometria z kims, kto ja ceni; wspomina tez o zaprzyjaznionym zimujacym szyprze do reckoning/astronomii",
+   "historia": [
+    "m11d30 1. lekcja (rzut 82): Donnel ZACHWYCONY tempem Symona - mlody chlonie geometrie logika, nie rote; mistrz, przywykly do czeladnikow uczacych sie rekami, cieszy sie umyslem, ktory widzi zasade. Wiez grzeje, radosc nauczania w bezczynna zime. Nast 18->21."
+   ]
   }
  ],
  "orbita": [

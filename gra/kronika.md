@@ -2591,3 +2591,6 @@ Symon, rozpedzony sukcesem u Leony, probuje z ta sama usluga u Borena - i tu dos
 
 ## 296-12-07 wieczor — praca u Nesty
 Symon siada wieczorem do kantoru: ksiegi, papiery pilotazu ubezpieczen (rejestr wciaz czysty, wynik lada dzien). Przy okazji dzieli sie z Nesta lekcja od Borena, a Braavijka potwierdza zawezenie: usluga zarzadcza to towar dla kupcow ze zlozonymi, dalekimi przeplywami, nie dla prostych rzemieslnikow - wiec kolejnych klientow szukac przez referral Leony wsrod kupiectwa Schodow i portu. Zwykly, produktywny wieczor.
+
+## 296-12-07 wieczor -> 12-08 — ciezki wieczor w sepcie, cwiczenia, sen
+Symon idzie wieczorem pomoc i pogadac z Owenem - ale trafia septe w jednym z tych ciezkich, ciemnych wieczorow, jakie przynosi gleboka zima. Mroz zbiera swoje zniwo w dole miasta: przy kotle wiecej zziębnietych niz strawy, ktos kaszle krwia, gdzies w zaulku noc zabrala starca, ktorego relief nie zdazyl dosiegnac. Symon pomaga, ile moze - nosi, pisze, uklada - ale wieczor nie grzeje, tylko przygniata; obaj z Owenem robia swoje w milczeniu, bo slowa sa tu za male. To jedna z tych chwil, ktore trzezwo przypominaja, ze cala jego cicha maszyna dobra jest tylko kropla przeciw okrucienstwu zimy Polnocy. Wraca do celi ciezki na sercu, przecwiczy cialo niemal na zlosc, czyta prawo i spi. Zima trwa i zbiera swoje.

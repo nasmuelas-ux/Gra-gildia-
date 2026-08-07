@@ -1274,6 +1274,29 @@
    "ostatni_kontakt": "297-01-05",
    "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
    "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
+  },
+  {
+   "id": "ostyn_kupiec",
+   "imie": "Ostyn",
+   "przydomek": null,
+   "wiek": 44,
+   "stan": "mieszczanin (kupiec podupadly)",
+   "zawod": "kupiec - interes (sol/ryba) zszedl na psy; sprzedaje odziedziczona kamieniczke, by splacic wierzyciela",
+   "mieszka": "kamieniczka przy Schodach (do sprzedania) / potem do krewnych",
+   "nastawienie_do_gracza": 40,
+   "zaufanie": 8,
+   "wie_o_graczu": [
+    "297-01-06 (targ, rzut 71): Symon kupil od niego kamieniczke za 108 jeleni. Ostyn spodziewal sie duszenia (desperat=lup), a dostal ULGE: kupujacy z gotowka od reki, cicho, szybko, pozwolil odejsc z prosto trzymanym grzbietem (splaci wierzyciela+zostanie mu troche). Kotwica byla uczciwa (koszt dachu Donnela argumentowal cene, nie chlopak). Ostyn odetchnal - wdzieczny, nie upokorzony. Zapamietal Symona jako 'uczciwego mlodego, co nie kopie lezacego'."
+   ],
+   "dlugi": [
+    {
+     "wobec": "wierzyciel (splacany z ceny)",
+     "kwota_jel": "~95-100",
+     "termin": "pilny - stad sprzedaz"
+    }
+   ],
+   "ostatni_kontakt": "297-01-06",
+   "cechy_mowy": "zmeczony, godnosc pod presja; krotkie, rzeczowe zdania czlowieka co przelknal duma"
   }
  ],
  "orbita": [

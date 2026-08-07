@@ -1032,14 +1032,17 @@
    "id": "kupiec_denys",
    "imie": "Denys",
    "zawod": "handlarz woskiem i swiecami (Schody/port)",
-   "nastawienie_do_gracza": 18,
+   "nastawienie_do_gracza": 21,
    "zaufanie": 8,
-   "ostatni_kontakt": "296-11-04",
+   "ostatni_kontakt": "296-11-16",
    "wie_o_graczu": [
     "przyszedl do faktorii po dyskretny audyt swoich ksiag — niespokojny o dostawce; slyszal, ze 'ten pisarz' rzetelny i cichy (nisza/pewnie szept Aldousa)",
     "audyt obnazyl, ze dostawca go skraca — Symon uratowal mu grosz; wdzieczny, ufa; cichy i rzetelny"
    ],
-   "nota": "LEAD (od Aldousa, 11-01): wg Aldousa jego dostawca z sieci Antaryona zdaje sie go SKRACAC; towar (swiece/wosk) zima drogi = lakomy kas dla skimu. KANDYDAT-cegła bloku anty-Antaryon. NIEZWERYFIKOWANE — trzeba potwierdzic dyskretnie (najlepiej gdy sam najmie faktorie do ksiag, jak inni; NIE zaczepiac jawnie = ekspozycja). Symon niewidzialny."
+   "nota": "LEAD (od Aldousa, 11-01): wg Aldousa jego dostawca z sieci Antaryona zdaje sie go SKRACAC; towar (swiece/wosk) zima drogi = lakomy kas dla skimu. KANDYDAT-cegła bloku anty-Antaryon. NIEZWERYFIKOWANE — trzeba potwierdzic dyskretnie (najlepiej gdy sam najmie faktorie do ksiag, jak inni; NIE zaczepiac jawnie = ekspozycja). Symon niewidzialny.",
+   "historia": [
+    "m11d16 (rzut 40): kufel bez agendy. Denys zrazu zarezerwowany (pamieta, ze byl grany), ale szczere, o-nic-nieproszace podejscie Symona przy piwie powoli topi chlod. Gadka zwykla — wosk, zima, handel. Denys ocieplony o notch, czujnosc mieknie. Symon ZOSTAL szczery (nie wsunal sie w granie) — lekcja Nesty trzyma. Krok w cierpliwej odbudowie, nie przelom. Nast 18->21."
+   ]
   }
  ],
  "orbita": [

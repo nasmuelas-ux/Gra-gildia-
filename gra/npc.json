@@ -559,8 +559,8 @@
     "zweryfikowac braavijskie papiery dostawcow (podejrzewa, ze ja skrocono po smierci meza)",
     "nie dac sie potraktowac jak 'baba, co sie nie zna'"
    ],
-   "nastawienie_do_gracza": 50,
-   "zaufanie": 20,
+   "nastawienie_do_gracza": 52,
+   "zaufanie": 21,
    "wie_o_graczu": [
     "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
     "zachowal sie godnie, sluchal, nie sprzedawal sie tanio ani nie przechwalal — mieszczka to doceniła",
@@ -586,7 +586,8 @@
     "dostala konkretny kregoslup sprawy (celno-frachtowa krzywda uczciwych + okradanie lorda); firmuje jako wspolarchitekt",
     "zainteresowana polnocnym kanalem jako noga na przyszly rejs (welna/sukno/towar)",
     "d15: Symon przyszedl niefortunnie w zly dzien - Leone cisnie biezacy klopot na Schodach (dostawca/zima), harda i krotka. Jego probne dotkniecie tematu weryfikacji papierow dostawcow wpadlo nie w pore: dumna, nie chce wygladac na ratowana, gdy juz jest zestresowana; blysk czujnosci 'czemu ciśnie na moich dostawcow akurat dzis'. Bez zerwania - drzwi otwarte, ale nie dzis. Symon wycofal sie zrecznie, nauka: czytac JEJ dostepnosc nim przyniesie agende.",
-    "d21 (rzut 77): rozplatal zawile ksiegi po mezu - metodycznie, po braavijsku. ODKRYL niesciagniete naleznosci (kilku kontrahentow zalegalo nieżyjacemu mezowi, dlugi zapomniane w balaganie, wciaz waine/sciagalne) = znalazl wdowie pieniadze; + jasny obraz jej zdrowszej niz sie bala pozycji. Konkret nie pochlebstwo - dokladnie co ceni. Zaplacila fair 3 jel za sesje, chce dokonczenia reszty ksiag. Gleboki szacunek/zaufanie w gore."
+    "d21 (rzut 77): rozplatal zawile ksiegi po mezu - metodycznie, po braavijsku. ODKRYL niesciagniete naleznosci (kilku kontrahentow zalegalo nieżyjacemu mezowi, dlugi zapomniane w balaganie, wciaz waine/sciagalne) = znalazl wdowie pieniadze; + jasny obraz jej zdrowszej niz sie bala pozycji. Konkret nie pochlebstwo - dokladnie co ceni. Zaplacila fair 3 jel za sesje, chce dokonczenia reszty ksiag. Gleboki szacunek/zaufanie w gore.",
+    "d21 wieczor (rzut 43): domknal reszte ksiag - czyste gdzie papier pozwala; czesc nieodwracalnie utracona z mezem (kwity/ustne umowy). Symon NIE zgadywal/nie dopisywal - uczciwie OZNACZYL niedajace sie rozstrzygnac pozycje. Leona ceni szczerosc co do granic wiedzy (nie znosi gladkiej bajki) bardziej niz udawana pewnosc. Kilka braavijskich niejasnosci -> przechodzi do weryfikacji faktorii (Nesta), karmi most. Fee reszta 3 jel."
    ],
    "dlugi": [],
    "ostatni_kontakt": "296-12-21",

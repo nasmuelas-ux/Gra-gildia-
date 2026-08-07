@@ -3020,3 +3020,7 @@ Symon zaszedl sprawdzic ksiege reliefu. Ksiega czysta (Hal kompetentny), ale glo
 
 ## 297-01-08 RANEK
 Wieczorem Symon czytal prawo (prawo+1) i spal w celi. Noc cicha, cialo odpoczelo (drzazga tygodnia wciaz gdzies siedzi). Zegary: kamieniczka_zamkniecie ~01-09 (jutro), draw ~01-19. Rano glodny.
+
+## 297-01-08 - Bran (33) i Serla (72)
+BRAN (ranek, tanie piwo): pod smiechem wyczerpany i przestraszony - zimowy zastoj nabrzeza poglebil sie, proba w faktorii na wlosku, wesele z Alys sie oddala. Symon (wspolnik) ponowil slowo: trzyma go przez zime (skape scinki + ochrona probnego) + pcha ku stalej robocie na wiosne; zimy nie przeorganizuje. Ochrona kosztuje troche laski u Nesty. Bran lojalny, wdzieczny - ale to przetrwanie nie ratunek. nast 50->51.
+SERLA (popoludnie): PIERWSZY balsam ciezkiego tygodnia. Tom wylizal sie, dom lzejszy. Serla nakarmila, dala proste matczyne cieplo bez interesu; o zonie madrosc (echo Owena): nie traktuj jak targ, dobra kobieta widzi statecznego z czasem. Bez nowego tropu (jej swiat nie ma pismiennych kobiet). Symon wyszedl naprawde lzejszy. nast 35->37, zauf 7->8.

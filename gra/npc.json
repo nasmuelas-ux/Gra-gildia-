@@ -1169,16 +1169,17 @@
    "stan": "mieszczanin",
    "zawod": "kupiec suknem i prowiantem (Schody), sredniej reki, rosnacy",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 6,
-   "zaufanie": 2,
+   "nastawienie_do_gracza": 12,
+   "zaufanie": 5,
    "wie_o_graczu": [
-    "slyszal na kupieckiej gieldzie (od Voxa) o 'cudownych ksiegach skryby'; chce takiej samej uslugi"
+    "slyszal na kupieckiej gieldzie (od Voxa) o 'cudownych ksiegach skryby'; chce takiej samej uslugi",
+    "d15 (rzut 89): przyjety jako klient POD TWARDA KLAUZULA DYSKRECJI + slona cena. Symon sprzedal terminy jako PRESTIZ (usluga dyskretna i selektywna - cena i milczenie to bilet wstepu); dla status-climbera EKSKLUZYWNOSC pochlebia -> Wat przyjal ochoczo, zadatek 3 jel, reszta ~7 na dostawie. Gadula OKIELZNANY: milczenie = warunek bycia 'w srodku'. Widocznosc opanowana, kanal kontrolowany."
    ],
    "potrzeby": [
     "ogarnac ksiegi po szybkim rozroscie interesu",
     "nadazyc za wiekszymi graczami Schodow"
    ],
-   "ostatni_kontakt": null,
+   "ostatni_kontakt": "296-12-15",
    "cechy_mowy": "gadatliwy, serdeczny, sypie nazwiskami; lubi byc 'w kursie'",
    "_vetting_296-12-15_rzut91": "CZYSTY READ: uczciwy w handlu, placi dlugi, bez smrodu oszustwa - jako osoba BEZPIECZNY. ALE: (1) sam jest GADULA wpiety w plotkarska siec gieldy (stad w ogole slyszal) -> przyjecie go = jeszcze glosniejszy pilar, dokladnie odwrotnie niz 'cichy'; (2) wiekszy/lepiej wpiety niz Vox -> jego ksiegi dotykaja WIEKSZYCH kontrahentow (eskalacja ryzyka w gore, jak ostrzegala Nesta). DECYZJA: przyjac (wzrost+grosz, ale glosniej) / przyjac pod TWARDA klauzula dyskrecji + wysoka cena (spowolnic naplyw) / odmowic-odroczyc (chronic cisze). Symon czyta go dosc, by go OKIELZNAC jesli wezmie."
   }

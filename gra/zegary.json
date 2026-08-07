@@ -54,6 +54,14 @@
    "opis": "Merek proponuje wspolnikowi rutynowe wspolne pogodzenie ksiag (za rada Symona). Odpowiedz wspolnika: zgoda (audyt-de-facto rusza legalnie, jawnie) albo opor (sam opor bywa sygnalem). Otwarta forma = wspolnik ma czas ubrac ksiegi jesli krecil.",
    "co_sie_stanie": "za kilka dni: reakcja wspolnika Mereka - zgoda na pogodzenie ksiag albo wymowka/opor",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "wat_ksiegi",
+   "typ": "robota",
+   "odlicza_do": "296-12-18",
+   "opis": "Symon ma ulozyc ksiegi Wata (wiekszy kupiec, wieksi kontrahenci) - usluga zarzadcza premium pod klauzula dyskrecji. Reszta fee ~7 jel na dostawie.",
+   "co_sie_stanie": "dostarczenie uslugi Watowi - balans fee ~7 jel; test modelu premium+dyskrecja na wiekszym kliencie",
+   "widoczny_graczowi": true
   }
  ]
 }

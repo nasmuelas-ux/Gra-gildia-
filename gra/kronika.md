@@ -2438,3 +2438,6 @@ Symon przynosi Neście dobry pomysl: skoro z takiej dali nie da sie upewnic co d
 
 ## 296-11-25 wieczor -> 11-26 — prawo, sen
 Symon czyta prawo i spi. W tle najwazniejsze: Nesta lada dzien podejdzie do Ternesia z cichym lewarem. Symon czeka na wynik, trzymajac cisze i dyscypline.
+
+## 296-11-26 RANEK->POLUDNIE — sluzba w szczycie mrozu
+Symon staje do sluzby w najciezszym mrozie tej zimy. Septa pelna zziębnietych, kolejka po strawe i opal dluga, a relief - mimo calej roboty - ledwie nadaza za potrzeba. Ale sa i konkretne, domkniete dobra: rodzina, ktora wskazala mu na targu Wenda, trafia wreszcie na rozdzial i dostaje swoja czesc, chore dziecko cieplo pod koc. Hal prowadzi swoj kawalek ksiegi juz pewnie, bez pierwotnej goraczki. Symon i Owen pracuja ramie w ramie, i choc obaj wiedza, ze to wciaz kropla przeciw zimie, sa twarze, ktore dzis odejda ogrzane i najedzone, i to jest realne. Imie Symona u Siedmiu, ciche a mocne, znowu urado o wlos. Owen 58->59; reputacja u Wiary 47->48.

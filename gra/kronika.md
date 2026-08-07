@@ -2870,3 +2870,6 @@ Symon spytał Nestę o żonę piśmienną, obrotną, otwartą — a ona natychmi
 
 ## 296-12-27 ZMIERZCH — termin audiencji: d29 rano
 Symon spytał Owena, kiedy rusza. Septon posłał już do Nowego Zamku prośbę o posłuchanie w sprawie zimowego reliefu, i odpowiedź przyszła rzeczowo: lord przyjmie ich pojutrze, dwudziestego dziewiątego, na porannym posłuchaniu, gdy steward dworski zbiera sprawy miasta. Petycja gotowa, Symon pójdzie jako ręka Owena do pisma — nieść pergaminy, notować, milczeć, być meblem, gdy septon niesie głos. Termin stoi.
+
+## 296-12-27 NOC / 12-28 RANEK — gimnastyka, sen
+Symon domknął dzień ćwiczeniem ciała, ciepłą strawą i twardym snem. Rankiem dwudziestego ósmego wypoczęty; trzaskający mróz, miasto ciche. Jutro audiencja u lorda — dziś dzień na spokój przed dworem. W tle wypłata Godrica (~30), cieniejące zapasy reliefu (~31).

@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 19,
+  "dzien": 20,
   "era": "AC"
  },
- "pora": "POŁUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 22,
- "dzien_tygodnia_nr": 7,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "12-19 RANEK, glucha zima, rzeka skuta. Cicho. Zegary: futra z Braavos (~12-20, jutro), Godric wyplata (~12-30). TU-I-TERAZ: zima/ubodzy; Torsen stygnie.",
+ "nastroje_miasta": "12-20 RANEK, glucha zima. WIESC: wynik probnej partii futer/skor/bursztynu z Braavos wrocil SLABY (marza cienka/lekko na minus) - potwierdza trzezwa mape Nesty. Zegary: Godric wyplata (~12-30). TU-I-TERAZ: zima/ubodzy.",
  "ceny": {
   "chleb": {
    "baza": 3,

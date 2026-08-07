@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 85,
  "sytosc": 64,
- "zmeczenie": 22,
+ "zmeczenie": 6,
  "sakiewka": {
   "miedziaki": 10,
   "jelenie": 6,
@@ -133,13 +133,14 @@
   "konto": "CZYSTE (rozliczenie 12-30, rzut 93)"
  },
  "kamieniczka": {
-  "status": "ZAMKNIECIE W TOKU - papiery podpisane 297-01-06, fundusze zaangazowane; tytul/klucze po rejestracji ~297-01-09 (Torren nie sciga rejestru - czysto zamiast szybko)",
+  "status": "ZAREJESTROWANA - tytul wpisany pod imie Symona (297-01-09), KLUCZE ODEBRANE. Wlasnosc jawna. Pierwsza wlasnosc zycia. Pusta, zimna, do remontu (dach!).",
   "opis": "kamieniczka przy Schodach: 4 izby + murowany ogrodek za plotem; do remontu (dach do wymiany + 1 strop - Donnel)",
   "cena_jel": 108,
   "all_in_szac_jel": "~142 (108 cena + ~30 dach + ~4 oplaty Torrena/rejestr)",
   "finansowanie": "wklad Symona 85 jel (z depozytu, zostalo 37 jel rezerwy) + finansowanie kantoru ~27 jel teraz na cene/oplaty + linia ~30 jel na dach (ciagniona wg postepu Donnela); dlug obslugiwany CZYNSZEM z 3 izb",
   "plan_uzycia": "WLASCICIEL-NIE-LOKATOR: cialo Symona zostaje w celi Septy (tarcza Owena) az sprawa Rymana padnie; kamieniczka pracuje jako WYNAJEM (3 izby) + BIURO doradcze + KORZEN pod mieszczanstwo. 1 izba trzymana dla Symona na przyszlosc.",
-  "widocznosc": "po rejestracji ~01-09 JAWNA wlasnosc Symona - wzrost widocznosci (cech/Ryman moga zauwazyc obcego-'partacza' nabywajacego wlasnosc)"
+  "widocznosc": "po rejestracji ~01-09 JAWNA wlasnosc Symona - wzrost widocznosci (cech/Ryman moga zauwazyc obcego-'partacza' nabywajacego wlasnosc)",
+  "stan_fizyczny": "Pierwszy obchod jako wlasciciel (297-01-09): 4 puste izby, zimne, kurz; murowany ogrodek pod sniegiem za plotem. DACH widocznie zly od wewnatrz (zaciek, szpara ze swiatlem, prowis) - potwierdza wycene Donnela: wymiana dachu + 1 strop pierwsza robota, nim izby nadaja sie pod wynajem. HIS, ale na razie zimny shell/zobowiazanie, nie dochod - musi dojsc dach+lokatorzy."
  },
  "finansowanie_kamieniczki": {
   "wierzyciel": "kantor Nesty (warunki wspolnika)",

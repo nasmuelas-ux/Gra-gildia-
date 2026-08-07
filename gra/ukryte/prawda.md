@@ -166,3 +166,6 @@ Wick odszedl umyslem, potem zycia (natur.), zanim Symon wyjal prawomocne zeznani
 
 ## Audyt Aurane (11-19): PRAWDA
 Faktor skladu Aurane'a skimuje przez FANTOMOWE ZEPSUCIE: zawyza spisy 'uszkodzonego/zgnilego' towaru, a spisany towar sprzedaje poza ksiega i kasuje utarg. Symon (double-entry) domknal dowod 11-19 (rzut 89): kwota za okres oszacowana, ksiega zbilansowana=dowod. Faktor jeszcze nie wie. Po raporcie Aurane bedzie decydowal (zwolnienie/konfrontacja/sad); Symon = demaskator -> faktor mozliwym wrogiem.
+
+## 296-11-29 Benford NIE odkryty (rzut 28)
+Symon spisal rzemioslo forensiczne, ale prawa pierwszej cyfry (Benford) NIE wykuł - to prawdziwe, nieoczywiste odkrycie statystyczne (XIX w.), poza zasiegiem rzutu 28. Zostal mu tylko FLICKER: mgliste, nieuchwytne wrazenie, ze uczciwe spisy 'ciazą' ku malym cyfrom (jedynki/dwojki), a fałszerze rozkladaja rowno albo tloczą sie w srodku - ale nie umie tego pinąc ani uzyc, odklada jak niejasne przeczucie. DORMANT: mozliwa przyszla 'eureka' przy wysokim rzucie / po latach wpatrywania sie w ksiegi. Nie dawac graczowi Benforda za darmo.

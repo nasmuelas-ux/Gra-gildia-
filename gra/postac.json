@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 85,
  "sytosc": 44,
- "zmeczenie": 20,
+ "zmeczenie": 26,
  "sakiewka": {
   "miedziaki": 14,
   "jelenie": 6,
@@ -79,7 +79,7 @@
  "licznik_uzyc": {
   "pismo": 83,
   "rachunki": 108,
-  "prawo": 133,
+  "prawo": 134,
   "retoryka": 80,
   "jezyki": 69,
   "spryt_uliczny": 102,
@@ -113,7 +113,7 @@
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."
  },
- "depozyt_u_nesty_mied": 12200,
+ "depozyt_u_nesty_mied": 3700,
  "stany": [
   {
    "co": "knock w reke pisarska (pech w sparingu)",
@@ -131,5 +131,22 @@
   "uwaga": "wikt formalnie w bazie, ale Symon zywiony przez Septe (nie konsumuje). Nalezy wziac od Nesty PELNE rozliczenie partnerskie (draw+1/3+udzial) - Symon jako czlowiek liczb powinien miec wlasne konto czyste.",
   "1_3_rozpoznane_12_30": "~10 jel narosle, rozpoznane/wziete",
   "konto": "CZYSTE (rozliczenie 12-30, rzut 93)"
+ },
+ "kamieniczka": {
+  "status": "ZAMKNIECIE W TOKU - papiery podpisane 297-01-06, fundusze zaangazowane; tytul/klucze po rejestracji ~297-01-09 (Torren nie sciga rejestru - czysto zamiast szybko)",
+  "opis": "kamieniczka przy Schodach: 4 izby + murowany ogrodek za plotem; do remontu (dach do wymiany + 1 strop - Donnel)",
+  "cena_jel": 108,
+  "all_in_szac_jel": "~142 (108 cena + ~30 dach + ~4 oplaty Torrena/rejestr)",
+  "finansowanie": "wklad Symona 85 jel (z depozytu, zostalo 37 jel rezerwy) + finansowanie kantoru ~27 jel teraz na cene/oplaty + linia ~30 jel na dach (ciagniona wg postepu Donnela); dlug obslugiwany CZYNSZEM z 3 izb",
+  "plan_uzycia": "WLASCICIEL-NIE-LOKATOR: cialo Symona zostaje w celi Septy (tarcza Owena) az sprawa Rymana padnie; kamieniczka pracuje jako WYNAJEM (3 izby) + BIURO doradcze + KORZEN pod mieszczanstwo. 1 izba trzymana dla Symona na przyszlosc.",
+  "widocznosc": "po rejestracji ~01-09 JAWNA wlasnosc Symona - wzrost widocznosci (cech/Ryman moga zauwazyc obcego-'partacza' nabywajacego wlasnosc)"
+ },
+ "finansowanie_kamieniczki": {
+  "wierzyciel": "kantor Nesty (warunki wspolnika)",
+  "ciagniete_teraz_jel": 27,
+  "linia_dach_jel": 30,
+  "docelowy_dlug_szac_jel": "~57",
+  "obsluga": "czynsz z 3 wynajetych izb pokrywa rate; nadwyzka -> equity",
+  "uwaga": "aktyw ma splacac sie sam (income property = 'konto oszczednosciowe kupca'); rezerwa depozytu 37 jel nietknieta"
  }
 }

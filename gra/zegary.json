@@ -139,7 +139,7 @@
   },
   {
    "id": "kamieniczka_zamkniecie",
-   "opis": "Torren zamyka kupno kamieniczki: splata zastawu (srebro->wierzyciel->zdjecie zastawu), przeniesienie tytulu na Symona, uruchomienie finansowania kantoru (Nesta). Cena 108 jel + dach ~30 (Donnel) + oplaty; wklad Symona ~80-90 z depozytu, reszta finansowana czynszem. Po zamknieciu: kamieniczka JAWNIE wlasnoscia Symona (korzen mieszczanstwa) - wzrost widocznosci (cech/Ryman moga zauwazyc 'partacza' nabywajacego wlasnosc).",
+   "opis": "Torren FINALIZUJE kupno kamieniczki (papiery podpisane, fundusze zaangazowane 297-01-06): splata zastawu Ostyna->pisemne zwolnienie->przeniesienie tytulu na Symona->REJESTRACJA. Po odpaleniu: tytul czysty i JAWNY, klucze wydane, kamieniczka wlasnoscia Symona. Skutek: wzrost widocznosci (cech/Ryman moga zauwazyc obcego nabywajacego wlasnosc); nastepnie remont dachu (Donnel) + wynajem 3 izb + krok mieszczanstwa.",
    "odpala": "297-01-09",
    "typ": "transakcja"
   }

@@ -1261,17 +1261,18 @@
    "stan": "duchowny (Wiara)",
    "zawod": "septon uczony w prawie; prowadzi prawne/majatkowe sprawy Septy z miastem (zapisy, nadania, wlasnosc koscielna); zna praktyke rady i admisji mieszczanskiej",
    "mieszka": "przy glownej Sepcie / Sept Sniegow",
-   "nastawienie_do_gracza": 10,
-   "zaufanie": 4,
+   "nastawienie_do_gracza": 11,
+   "zaufanie": 5,
    "wie_o_graczu": [
     "297-01-03 (rzut 81): konsultacja o mieszczanstwie. Torren wylozyl czysta sciezke: ubiegac sie jako KUPIEC-wspolnik (nie skryba) -> Cech Pisarzy traci formalny grunt (nie wchodzi jako skryba, ich weto bezprzedmiotowe). Wymogi: WLASNOSC (dom w murach - brakujace ogniwo, sprawa na wiosne), standing kupiecki (udzial kantoru ✓), poreczyciele-kupcy (Vox/Aldous/Leona/Boren/Merek ✓), poreczenie Wiary ✓, wpis+oplata. Zlozone razem przygniata glos Pisarzy. Ryzyko: Harwin/Ryman moga zwlekac jesli znajda sojusznika w radzie (timing/gotowe poreczenia). DO WYGRANIA. Torren poprowadzi wniosek.",
-    "297-01-05 (rzut 53): sprawdzil tytul kamieniczki. Jest ZASTAW (dlug desperata pod dom), ale reszta tytulu czysta (prawdziwy wlasciciel, brak spornych spadkobiercow, podatki OK). Zastaw ULECZALNY przy transakcji: srebro najpierw splaca wierzyciela->zdjecie zastawu->czysty tytul (za pisemnym zwolnieniem). Torren poprowadzi krok po kroku. Zastaw = dodatkowa dzwignia (wierzyciel przyciska->latwiej zbic cene). Cenny sprawdzony sojusznik prawny."
+    "297-01-05 (rzut 53): sprawdzil tytul kamieniczki. Jest ZASTAW (dlug desperata pod dom), ale reszta tytulu czysta (prawdziwy wlasciciel, brak spornych spadkobiercow, podatki OK). Zastaw ULECZALNY przy transakcji: srebro najpierw splaca wierzyciela->zdjecie zastawu->czysty tytul (za pisemnym zwolnieniem). Torren poprowadzi krok po kroku. Zastaw = dodatkowa dzwignia (wierzyciel przyciska->latwiej zbic cene). Cenny sprawdzony sojusznik prawny.",
+    "297-01-06 POPOLUDNIE (zamkniecie, rzut 53): poprowadzil kupno kamieniczki. Symon podpisal, zaangazowal wklad 85 jel (z depozytu) + finansowanie kantoru. Torren zamyka po swojemu - PRECYZYJNIE nie szybko: splata zastawu (srebro->wierzyciel Ostyna->pisemne zwolnienie), przeniesienie tytulu, rejestracja - gotowe w kilka dni (~01-09), wtedy klucze. KOSZT: oplaty wyszly ciut wyzej (wierzyciel chcial czysto+szybko - drobny premium), rejestr ma swoje tempo (nie dzis). Czysta wspolna transakcja - profesjonalne zaufanie ku Symonowi rosnie (zauf 4->5). Torren jest teraz de facto jego prawnikiem od nieruchomosci."
    ],
    "potrzeby": [
     "porzadek w sprawach Septy",
     "posluszenstwo Wierze"
    ],
-   "ostatni_kontakt": "297-01-05",
+   "ostatni_kontakt": "297-01-06",
    "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
    "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
   },

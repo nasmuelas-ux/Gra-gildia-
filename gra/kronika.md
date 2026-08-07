@@ -2969,3 +2969,6 @@ Sieć odrobiła: drugi trop wygląda lepiej. Mały kamienny dom z murowanym ogr�
 
 ## 297-01-04 ZMIERZCH — drugi dom: zły grunt, drugi pass
 Donnel znów się przydał — złapał wadę, którą zima ukryła. Ściany proste, dach cały, ale mistrz, co stawiał na tej ziemi pół miasta, dotknął fundamentu i zmarzniętego gruntu ogrodu i pokręcił głową: dom siedzi na złym, mokrym gruncie, nisko przy wodzie. W mróz wygląda sucho, bo ziemia zamarznięta, ale wilgoć podchodzi pod fundament i za lata zacznie gnić od dołu jak tamten — powolna zgnilizna, walka bez końca. Płacić pełną cenę to kupować sobie przyszłe bagno, a wdowa, która nie tonie, ceny nie zbije. Drugi trop, drugi pass — ale znów ominięta pułapka, bo znów sprowadził oko mistrza. Szukanie zdrowego kamienia z ogrodem okazuje się cierpliwym polowaniem, nie jednym rzutem — dokładnie tak, jak Owen mówił: nie chwytaj, przyjdzie do cierpliwego.
+
+## 297-01-04 NOC / 01-05 RANEK — sen
+Symon domknął dzień i spał — dwa martwe tropy za sobą, węch założony, nauka Owena w głowie: nie chwytać, przyjdzie do cierpliwego. Rankiem piątego stycznia mróz trzyma, miasto ciche. Faza spokojna: nazwisko zmapowane (brak tylko kamienia), Mira na cierpliwość, wielkie wątki śpią do wiosny. Draw ~19, Godric ~30.

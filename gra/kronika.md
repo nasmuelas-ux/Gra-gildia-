@@ -2441,3 +2441,6 @@ Symon czyta prawo i spi. W tle najwazniejsze: Nesta lada dzien podejdzie do Tern
 
 ## 296-11-26 RANEK->POLUDNIE — sluzba w szczycie mrozu
 Symon staje do sluzby w najciezszym mrozie tej zimy. Septa pelna zziębnietych, kolejka po strawe i opal dluga, a relief - mimo calej roboty - ledwie nadaza za potrzeba. Ale sa i konkretne, domkniete dobra: rodzina, ktora wskazala mu na targu Wenda, trafia wreszcie na rozdzial i dostaje swoja czesc, chore dziecko cieplo pod koc. Hal prowadzi swoj kawalek ksiegi juz pewnie, bez pierwotnej goraczki. Symon i Owen pracuja ramie w ramie, i choc obaj wiedza, ze to wciaz kropla przeciw zimie, sa twarze, ktore dzis odejda ogrzane i najedzone, i to jest realne. Imie Symona u Siedmiu, ciche a mocne, znowu urado o wlos. Owen 58->59; reputacja u Wiary 47->48.
+
+## 296-11-26 POLUDNIE->ZMIERZCH — polityka Polnocy z Owenem
+Symon siada z Owenem nad mapa samej Polnocy - i septon, wypoczety i w swoim zywiole, rozklada ja jasno. Poglebia Symonowi obraz Starkow, lordow, Necku i Muru, roli Bialego Portu, starych bogow i Siedmiu; a nade wszystko daje uzyteczny odczyt pod ich wlasna submisje: dlaczego jest long-shotem i dlaczego skrojono ja wlasnie tak. Owen 59->60.

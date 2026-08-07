@@ -3027,3 +3027,6 @@ SERLA (popoludnie): PIERWSZY balsam ciezkiego tygodnia. Tom wylizal sie, dom lze
 
 ## 297-01-09 RANEK - KLUCZE (obchod rzut 53)
 Sniadanie, potem po klucze do Torrena - rejestracja domknieta, tytul pod imie Symona, klucze i kopia wpisu w reku. PIERWSZA WLASNOSC ZYCIA. Pierwszy obchod: duma zderzona z trzezwoscia - 4 puste zimne izby, dach zly od wewnatrz (zaciek/szpara/prowis), ogrodek pod sniegiem. Na razie zimny shell+zobowiazanie, nie dochod - musi dojsc dach+lokatorzy. Owner-not-occupant trzyma. Nowy zegar widocznosc_wlasnosci ~01-14 (publiczny rejestr -> szept: + standing mieszczanstwa, - uwaga cechu/Rymana).
+
+## 297-01-09 ZMIERZCH - Donnel na dach (rzut 52)
+Symon sciagnal Donnela na dach kamieniczki. Zima nie pozwala na pelny re-roof (zaprawa nie wiaze w mrozie) - Donnel zrobil patch zimowy (uszczelnienie zacieku, zabicie szpary, podbicie prowislego stropu; weathertight, ~9 jel z linii). Pelny dach na odwilz/wiosne (rezerwa ~21). Doradzil uczciwie: 2 suche izby lettable juz teraz, 3. czeka na wiosenny dach. Donnel rad z zimowej roboty (nast 38->40, zauf 10->11). Nowe zegary: dach_pelny ~wiosna, najem od ~01-13. organizacja+1.

@@ -142,6 +142,18 @@
    "opis": "Wpis do rejestru miasta jest aktem PUBLICZNYM - wiesc, ze obcy skryba/kupiec-wspolnik Symon nabyl kamieniczke, rozchodzi sie powoli przez krag mieszczan/cechow (rejestr, sasiedzi przy Schodach, plotka). DWOJAKI skutek: (+) buduje standing kupiecki/zakorzenienie pod wniosek MIESZCZANSTWA (Torren); (-) cech Pisarzy (Harwin) i Ryman moga zauwazyc, ze 'partacz'-obcy rosnie we wlasnosc - potencjalna zawisc/ruch. Na razie SZEPT, nie akcja. Odpala jako pierwszy pomruk ~01-14.",
    "odpala": "297-01-14",
    "typ": "plotka/reakcja"
+  },
+  {
+   "id": "kamieniczka_dach_pelny",
+   "opis": "Pelny re-roof kamieniczki przez Donnela - GATED NA POGODE (odwilz/wczesna wiosna, zaprawa musi wiazac). Rezerwa ~21 jel z linii. Po nim 3. izba pod wynajem = pelny dochod. Orientacyjnie ~wczesna wiosna 297.",
+   "odpala": "297-03-01",
+   "typ": "remont (weather-gated, soft)"
+  },
+  {
+   "id": "kamieniczka_najem",
+   "opis": "Szukanie lokatorow na 2 suche izby (teraz) - czynsz zaczyna obslugiwac dlug kantoru. Zrodla: Serla (zna okolice), Bran/lud, siec. Zimowy rynek najmu chudy (ludzie osiadli), ale ciepla sucha izba w mrozie ma wartosc. Aktywne od zaraz.",
+   "odpala": "297-01-13",
+   "typ": "dochod"
   }
  ]
 }

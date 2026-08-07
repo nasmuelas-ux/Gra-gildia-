@@ -2309,3 +2309,6 @@ Symon wraca do Torsena, ale tym razem na grunt, ktory kupca cieszy - czysty hand
 
 ## 296-11-14 POLUDNIE->ZMIERZCH — sluzba i Owen
 Symon staje do popoludniowej sluzby: rozdzial jalmuzny, Hal przy ksiedze, i drobne, konkretne dobro - rodzine, ktora wskazala mu na targu Wenda, dopisuje na liste najslabszych, zeby i do nich trafil relief. Z Owenem rozmowa spokojna, bez wielkich wiesci; fronty ciche jak byly. Ale septon, ktory obserwuje Symona cala te zime, mowi mu miedzy wierszami cos, co Symon slyszy: widzi, jak chlopak siega coraz dalej - kantor, kanaly, teraz ta nowa rzecz z rekojmiami frachtu - i tym bardziej ceni, ze mimo tego wszystkiego wciaz przychodzi kleczec przy sepckiej podlodze i liczyc miski dla ubogich. 'Czlowiek pokazuje, kim jest, nie tym, do czego siega, lecz tym, do czego wraca.' Symon wraca do tego samego progu. Owen 55->56.
+
+## 296-11-14 ZMIERZCH -> 11-15 — prawo, cwiczenia, walka, sen
+Symon czyta prawo, przecwiczy cialo i bron w celi i spi. Zdrowy rytm; rytm cierpliwosci trwa, najblizej odbior skor ~20.

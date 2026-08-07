@@ -2687,3 +2687,6 @@ Symon poszedł odświeżyć więź z Garthem, zanim wystygnie — dwadzieścia d
 
 ## 296-12-14 — KOREKTA (spójność: zboże już przyszło)
 Sprostowanie: spółka zbożowa jest zamknięta — zboże dawno wpłynęło i zrealizowało się, więc nie ma „przychodzącego" ładunku do pilnowania. To, co naprawdę zauważył Garth, jest spójniejsze i groźniejsze: pobity Osgar szuka wstecz źródła reliefu, który go przeeksponował — jego człowiek wypytywał w cle, którym statkiem i na czyje ręce przyszło tamto zboże. Osgar poluje na sprawcę swojej klęski, a trop może prowadzić do kantoru Nesty i do Symona. To jest wektor zemsty do pilnowania, nie alarm o wyładunku.
+
+## 296-12-14 — KOREKTA (2): usunięcie wymyślonego Osgara
+Wątek „Osgar poluje na źródło zboża" wycofany w całości — nie napędzał go żaden zegar ani stan; był moim dorobionym dramatem. Wizyta u Gartha to po prostu ciepłe odświeżenie więzi po 22 dniach (nastawienie 24→28). Jedyny realny wątek, jaki przy okazji wypłynął, to trwający miękko fracht drewna (deklaracje wciąż nierówne, Garth zbiera cicho dalej). Żadnego zmyślonego intelu, żadnej reaktywacji zamkniętej spółki zbożowej.

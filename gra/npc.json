@@ -1051,14 +1051,17 @@
    "wiek": 50,
    "zawod": "zamozny kupiec/wlasciciel skladow portowych (propertied)",
    "mieszka": "Schody/port",
-   "nastawienie_do_gracza": 5,
-   "zaufanie": 0,
+   "nastawienie_do_gracza": 12,
+   "zaufanie": 2,
    "wie_o_graczu": [
     "polecony przez Godrika jako dyskretny, biegly czlowiek od liczb"
    ],
    "ostatni_kontakt": "296-11-17",
    "cechy_mowy": "rzeczowy, ostrozny, mowi malo i po interesie",
-   "sprawa": "podejrzewa, ze jego FAKTOR/zarzadca skladu SKIMUJE (liczby dostaw vs sprzedazy nie graja); chce CICHEGO, bieglego audytu ZANIM kogokolwiek oskarzy — dokladnie wzor sprawy Godrica, wyzsza stawka/zaplata"
+   "sprawa": "podejrzewa, ze jego FAKTOR/zarzadca skladu SKIMUJE (liczby dostaw vs sprzedazy nie graja); chce CICHEGO, bieglego audytu ZANIM kogokolwiek oskarzy — dokladnie wzor sprawy Godrica, wyzsza stawka/zaplata",
+   "historia": [
+    "m11d17 wieczor (rzut 64): pierwsze spotkanie. Symon ustawil ramę dyskrecji (patrze tylko tam gdzie wskazesz, raportuje TYLKO tobie, cicho) - twardy, ostrozny Aurane uspokojony tym + slowem Godrica, z czujnego w ostroznie ufajacego. Zakres WASKI: ksiegi skladu, dostawy vs sprzedaze za okres, czy faktor skimuje. Stawka: ~6 jel na ukonczenie. Zaufanie prowizoryczne, zalezne od wyniku; Aurane wymagajacy na czas. Nast 5->12."
+   ]
   }
  ],
  "orbita": [

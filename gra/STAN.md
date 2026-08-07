@@ -53,6 +53,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `296-12-26` harlon_ksiegi: Ustawic ksiegi zarzadcze Harlona (solarz) - usluga premium pod dyskrecja. Reszta fee na dostawie.
 - ◆ `296-12-31` relief_zapasy_cienieja: Zapasy reliefu cienieja (gleboki mroz + dodatek kolodziejow, spad mrozu d25 popyt>podaz). Jesli zimowa fala po
 - ◆ `296-12-29` petycja_lord_relief: PLAN (Owen rzut 97): petycja do lorda Wymana o wsparcie zimowego reliefu - framing PORZADEK+reputacja (nie lit
+- ◆ `296-12-31` poznanie_miry: Nesta aranzuje poznanie z MIRA - pretekst: pomoc jej z ksiegami po mezu + braavijskimi papierami handlowymi (z
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

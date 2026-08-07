@@ -98,6 +98,14 @@
    "widoczny_graczowi": true,
    "ROZSTRZYGNIETY": "296-12-29 (rzut 82): UDANA - lord Wyman przyznal solidny dosyp na relief (zboze/opal/grosz) jako SWOJA hojnosc, pod zarzadem Wiary. Framing porzadek+reputacja zadzialal, liczby z ksiegi Hala uwiarygodnily. Owen glos, Symon niewidzialny architekt. Standing Wiary u lorda w gore.",
    "zamkniety": true
+  },
+  {
+   "id": "poznanie_miry",
+   "typ": "okazja",
+   "odlicza_do": "296-12-31",
+   "opis": "Nesta aranzuje poznanie z MIRA - pretekst: pomoc jej z ksiegami po mezu + braavijskimi papierami handlowymi (zywiol Symona). Symon przyjdzie jako fachowiec, NIE zalotnik. Podejscie: autentycznosc, cierpliwosc, zero pchania (wdowa wybredna, nie popchniesz). Nesta da znac gdy Mira sie zgodzi (~dzien-dwa).",
+   "co_sie_stanie": "za ~dzien-dwa: Symon poznaje Mire przez robote pisarska/ksiegowa - pierwsze wrazenie, poczatek (ew.) zalotow przez wartosc",
+   "widoczny_graczowi": true
   }
  ]
 }

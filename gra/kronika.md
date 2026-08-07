@@ -2534,3 +2534,6 @@ Symon idzie do Voxa i sklada mu propozycje nie jak sprzedawca, lecz jak sojuszni
 
 ## 296-12-03 POLUDNIE->ZMIERZCH — Torsen i wiesc z Polnocy
 Symon zaglada do Torsena, najdluzej niewidzianego z kanalowych ludzi - i kupiec drzewny wita go cieplo, bo interes ich laczy, a ten interes idzie. Ma tez dla Symona dobra wiesc, ktora dotarla z glebi Polnocy krotszym szlakiem niz sam towar: probna partia futer, skor i bursztynu DOTARLA do Braavos caلo. Najbardziej ryzykowna czesc - zimowy rejs przez zwezajace sie szlaki - powiodla sie; teraz zostaje juz tylko sprzedaz i wiesc o niej, ktora przyjdzie kolo dwudziestego. A Halvard, faktor w glebi, przesyla przez Torsena jeszcze jedno: wiosenny doplyw polnocnych towarow szykuje sie dobrze, jest z czego brac, gdy tylko puszcza lody - a wszystko to czeka na jeden znak, czy futra w Braavos pokaza realny popyt i marze. Torsen, widzac, jak rzecz sie klei, jest wyraznie bardziej zaangazowany niz przy pierwszej rozmowie - z zyczliwego posrednika robi sie chetny wspolnik. Symon wychodzi z kanalem cieplym i eksportowa noga spolki, ktora firming z dnia na dzien. Torsen 28->31.
+
+## 296-12-03 wieczor -> 12-04 — prawo, sen
+Symon czyta prawo i spi. Filary plyna cicho, eksport firming (futra w Braavos), usluga zarzadcza ruszyla (Vox). Wielkie watki dojrzewaja: ubezpieczenia ~12, Winterfell ~15, futra ~20.

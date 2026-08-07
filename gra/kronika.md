@@ -2843,3 +2843,6 @@ Symon wpadł na sposób, by być przy audiencji, nie łamiąc dyscypliny: pójdz
 
 ## 296-12-25 NOC / 12-26 RANEK — sen
 Symon domknął dzień pełen ciężaru i planów — twardy relief, rada Owena o petycji do lorda, pomysł, by pójść na audiencję jako skryba, i długa rozmowa o Theomorze. Spał twardo. Rankiem dwudziestego szóstego trzaskający mróz, miasto ciche, koniec miesiąca blisko. Przed nim: zaprimować Godrica pod petycję, wypłata ~30, cieniejące zapasy reliefu ~31. Zwykły zimowy poranek, dzień otwarty.
+
+## 296-12-26 RANEK→POŁUDNIE — Godric: powstrzymany manewr
+Symon doszedł do Godrica z planem na języku — i w porę go połknął. Przeczytał, że prowadzenie ostrożnego stewarda o płytkim zaufaniu ku lordowi pachniałoby manewrem, a orkiestracja to jego słaba strona; spalić tę cenną relację na jednym reliefie byłoby głupotą. Więc nie zagrał. Usiadł do ksiąg domu jak zawsze, ani słowem nie tknął petycji. Godric został niepolitykowany — patron od liczb, droga do dworu nienaruszona na wiosnę. Plan przekierowany: petycję poniesie Owen sam, na standingu Wiary, bez ogrzewania przez stewarda. Grunt mniej ciepły, ale nikt nie pachnie manewrem, Symon niewidzialny, a Godric czysty. Zagrał swoim edge'em — autentyczność, nie granie ludźmi.

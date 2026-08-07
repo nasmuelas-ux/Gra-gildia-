@@ -8,11 +8,11 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 85,
- "sytosc": 45,
- "zmeczenie": 5,
+ "sytosc": 40,
+ "zmeczenie": 12,
  "sakiewka": {
   "miedziaki": 14,
-  "jelenie": 20,
+  "jelenie": 30,
   "smoki": 0
  },
  "dobytek": [
@@ -77,7 +77,7 @@
  },
  "licznik_uzyc": {
   "pismo": 83,
-  "rachunki": 106,
+  "rachunki": 107,
   "prawo": 129,
   "retoryka": 80,
   "jezyki": 69,
@@ -89,7 +89,7 @@
   "geometria": 17,
   "czytanie_ludzi": 69,
   "organizacja": 52,
-  "audyt": 71
+  "audyt": 72
  },
  "jezyki_znane": [
   "mowa powszechna",
@@ -126,7 +126,9 @@
   "draw_ostatni": "296-12-19 (zaksiegowany 12-30 z opoznieniem)",
   "draw_nastepny": "297-01-19",
   "udzial_transakcje": "1/3 netto z transakcji ktore Symon sam zrodli/prowadzi",
-  "udzial_core": "maly rosnacy udzial w core-faktorii (na probe) - prowadzi Nesta w ksiegach kantoru",
-  "uwaga": "wikt formalnie w bazie, ale Symon zywiony przez Septe (nie konsumuje). Nalezy wziac od Nesty PELNE rozliczenie partnerskie (draw+1/3+udzial) - Symon jako czlowiek liczb powinien miec wlasne konto czyste."
+  "udzial_core": "PODNIESIONY 12-30 z proby na stale, rosnacy - realna wlasnosc (maly %, wartosc gotowkowa skromna bo kantor dzwiga dlug Antaryonow, ale equity=mieszczanska substancja/przyszle zyski)",
+  "uwaga": "wikt formalnie w bazie, ale Symon zywiony przez Septe (nie konsumuje). Nalezy wziac od Nesty PELNE rozliczenie partnerskie (draw+1/3+udzial) - Symon jako czlowiek liczb powinien miec wlasne konto czyste.",
+  "1_3_rozpoznane_12_30": "~10 jel narosle, rozpoznane/wziete",
+  "konto": "CZYSTE (rozliczenie 12-30, rzut 93)"
  }
 }

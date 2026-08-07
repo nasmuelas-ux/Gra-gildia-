@@ -2903,3 +2903,6 @@ Symon padł wyczerpany po dniu logistyki i spał twardo. Rankiem trzydziestego k
 
 ## 296-12-30 — KOREKTA księgowa: draw wspólnika
 Sprostowanie: draw wspólnika (~6 jeleni/miesiąc, start ~12-19) nie był osobno księgowany. Dopisany zaległy draw (+6 jel), sformalizowany jako recurring (jak wypłata Godrica). Warunki wspólnictwa spisane w karcie: baza(wikt)+draw + 1/3 netto z transakcji Symona + mały rosnący udział w core-faktorii (próba), prowadzony przez Nestę w księgach kantoru. Symon, człowiek liczb, powinien wziąć od Nesty pełne rozliczenie partnerskie, by mieć własne konto czyste.
+
+## 296-12-30 POŁUDNIE — pełne rozliczenie partnerskie
+Symon przeszedł swoje konto w kantorze jak audyt, a Nesta odwróciła ku niemu księgi bez zasłony. Draw bieżący. Z transakcji, które sam poprowadził przez kantor, narosło ~10 jeleni nierozpoznanego 1/3 — rozpoznał je. A udział w core-faktorii Nesta nie tylko wyjaśniła, lecz podniosła: „Zapracowałeś, chłopcze. Już nie na próbę — na serio." Mały procent, kantor dźwiga dług Antaryonów, więc wartość gotówkowa skromna — ale to prawdziwa własność, nie pensja; Symon jest współwłaścicielem. Dwie rzeczy zapadły mu głęboko: że equity to mieszczańska substancja, ta, która stoi za standingiem i nazwiskiem; i że ma wreszcie czyste konto partnerskie, wie co do miedziaka, kim jest w tej spółce.

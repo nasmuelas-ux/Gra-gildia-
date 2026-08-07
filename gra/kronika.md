@@ -2348,3 +2348,6 @@ Symon zjada cos cieplego, odsyla chlopca ze zgoda i, skoro rzecz pilna, idzie je
 
 ## 296-11-17 wieczor -> 11-18 — pomoc u Owena, cwiczenia, sen
 Symon zaglada wieczorem pomoc Owenowi przy sepckiej robocie, przecwiczy cialo i spi. Opal wciaz 1.5x, alarm cichy. Jutro rusza audyt skladu Aurane'a.
+
+## 296-11-18 RANEK->POLUDNIE — audyt Aurane'a: dym
+Symon je i siada do ksiag skladu. Braavijska metoda robi swoje juz przy pierwszym przejsciu: gdy zestawi dostawy przeciw sprzedazom i stanowi, liczby nie chca sie zejsc czysto - jest wyciek, saczący sie ubytek dokladnie tego rodzaju, jaki zostawia po sobie skimujacy faktor. Ale to dopiero dym, nie ogien. Symon widzi, ZE cos ucieka, nie widzi jeszcze DOKLADNIE jak i ile: czy faktor zanizal przyjecia dostaw, czy dopisywal fantomowe 'zepsucie' i ubytki, czy puszczal czesc towaru poza ksiega. Trop jest ostroznie zaciemniony - czlowiek, ktory kradnie z glowa, zaciera slady - wiec zeby dac Aurane'owi dowod nie do podwazenia, a nie samo przeczucie, potrzeba jeszcze sesji albo dwoch cierpliwego zestawiania. Symon pracuje cicho, tak by faktor nie zwietrzyl, ze ktos mu zaglada w ksiegi. Dobra, rzetelna robota w toku; ogien bedzie, gdy domknie rachunek.

@@ -2795,3 +2795,6 @@ Symon spędził ranek u Harlona — z tym rzeczowym, zrzędliwym o kosztach czł
 
 ## 296-12-23 POPOŁUDNIE — księgi Harlona domknięte od razu
 Symon nie odkładał — usiadł i ustawił Harlonowi księgi zarządcze na miejscu. Dla twardego solarza najcenniejsze było zobaczyć koszty rozłożone na czynniki: gdzie fracht i jego faktor ze sieci wielkich domów toczą mu grosz, i ile. Potwierdziło to i wyostrzyło dawny audyt. Harlon zapłacił saldo bez targu, dyskrecja trzyma się sama. Symon dorzucił sobie w głowie kolejny cichy klocek — faktor Harlona skraca go w tym samym wzorcu gougingu co paru innych; nic z tym teraz, ale wzór się zagęszcza w cieniu.
+
+## 296-12-23 ZMIERZCH — szkic dla Godrica: przedwczesny
+Symon usiadł przy drogiej świecy do konkretu dla Godrica i trafił na ścianę: nie ma z czego złożyć propozycji. Wolumen i cena wiszą na terminach Halvarda, które Torsen dopnie na odwilż; wiosennych cen nikt nie zna; mechanika dworu mętna. Zmęczony po dniu dwóch ksiąg wydusił najwyżej szkielet umowy i listę tego, czego mu brakuje. Nie bezużytecznie — znać luki to połowa roboty — ale prawda jest taka, że spalił świecę i oczy na odkrycie, które mógł przewidzieć: konkret Godrica to zadanie na wiosnę. Najpierw wejścia, potem pismo.

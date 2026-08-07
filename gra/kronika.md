@@ -2777,3 +2777,6 @@ Wieczór nad prawem wreszcie się przełamał: po jedenastu dniach niemal codzie
 
 ## 296-12-22 — KOREKTA (sezon)
 Sprostowanie ciągnącej się drift w nagłówkach: gra zaczęła się w schyłku długiego lata (~296-08), ale przez miesiące rozgrywki zima faktycznie zeszła (trzaskający mróz, Biały Nóż skuty, głód/relief od tygodni). To już nie „schyłek długiego lata", lecz PEŁNA ZIMA Północy. Etykieta sezonu poprawiona; nagłówki od teraz mówią „zima".
+
+## 296-12-22 RANEK — u Borena, zima dławi kołodziejów
+Symon poszedł odświeżyć Borena i trafił na złą porę roku dla jego fachu: głęboka zima to bezczynne koła i głodni bracia cechowi, bo nikt nie buduje wozów w mróz. Boren przyjął go ciepło — przysługa zabankowana, zaufanie trzyma — ale głowę miał zajętą przetrwaniem ludzi cechu, nie planami na wiosnę. Słowo o północnym drewnie odbiło się od jego trosk. Więź przestała stygnąć, ale nic nie ruszyło naprzód. Symon wyszedł z jedną myślą: kołodzieje cierpią tej zimy, a on akurat jest architektem reliefu — mógłby sięgnąć siecią ku ich potrzebującym braciom.

@@ -3033,3 +3033,6 @@ Symon sciagnal Donnela na dach kamieniczki. Zima nie pozwala na pelny re-roof (z
 
 ## 297-01-09 ZMIERZCH->noc / 297-01-10 RANEK
 Symon domknal dzien: czytal prawo (prawo+1) i pomagal wieczorem w sepcie (pismo+1, rep wiara 59->60, Owen 65->66). Tym razem sluzba GRUNTUJE, nie kluje - drzazga rozpuszczona po lazni. Spal spokojnie. Zegary: najem ~01-13, widocznosc ~01-14, draw ~01-19. Rano glodny.
+
+## 297-01-10 - Boren: pierwsze poreczenie (rzut 88)
+Symon ruszyl zbierac poreczenia kupcow pod mieszczanstwo, zaczal od Borena - CECHMISTRZA kolodziejow, lojalnego. PELNE TAK: nazwisko+standing cechu za Symonem jako kupcem-wspolnikiem, co podcina atak klasyfikacyjny Cechu Pisarzy. Dal insider-mape admisji: kilka solidnych poreczen+Wiara marginalizuja sprzeciw Pisarzy; jakosc>ilosc; TIMING - zbierac cicho, zlozyc szybko nim opozycja sie zorganizuje (wobec zegara widocznosc ~01-14). Zaoferowal wstawic slowo u rowiesnikow. Kotwica-poreczenie zebrana. Boren nast 53->56, zauf 11->13. Do zebrania: Leona/Aldous/Vox + Wiara. retoryka+1, czytanie_ludzi+1.

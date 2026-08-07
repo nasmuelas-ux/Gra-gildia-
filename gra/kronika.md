@@ -2621,3 +2621,6 @@ Symon je i staje do sluzby - dzien zwyczajny, spokojniejszy niz tamten ciezki wi
 
 ## 296-12-10 POLUDNIE->ZMIERZCH — Elna i Wenda
 Symon robi cieplą runde po ludzku. U Elny dobrze i cicho: wdowa bezpieczna pod kolodziejami, wdzieczna jak zawsze, i jak to ona - zaraz zaczyna oddawac, sadza go przy ogniu, karmi, blogoslawi; Symon wychodzi pokrzepiony (Elna 30->33). U Wendy dziekuje jej za obie skladki reliefowe, ktore skrzykiwala wsrod przekupek - stara sie usmiecha szorstko, rada, ze jej robota miala sens; przy okazji daje puls dolu: po drugiej fali w zaulkach nieco lzej, ale mroz nie odpuszcza i grudzien bedzie dlugi (Wenda 28->30). Zwykle, cieplе wizyty, ktore trzymaja go korzeniami w tym, co wazne.
+
+## 296-12-10 wieczor -> 12-11 — prawo, sen
+Symon czyta prawo i spi. Jutro-pojutrze wynik pilotazu ubezpieczen.

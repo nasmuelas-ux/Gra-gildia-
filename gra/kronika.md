@@ -2991,3 +2991,6 @@ Symon zdał sprawę z obu badań — kości zdrowe, tytuł czysty — a Nesta uc
 
 ## 297-01-05 ZMIERZCH — Owen (rzut 2)
 Symon poszedl do Owena 'pogadac' u schylku dnia, uzbrojony na jutrzejszy targ o kamieniczke - w gruncie po blogoslawienstwo. Owen, czytajac serca, zobaczyl glod i pospiech, nie spokoj, i odswiezyl stara przestroge z ostrzem: dom to korzen nieruchomy, a sprawa Rymana wciaz nierozstrzygnieta (inquiry Ansella w drodze, brak wyroku), cech niezamkniety. Kto raz uciekal przed najsciem w noc, kupuje sobie cel, ktorego nie porzuci w pore. Nie zakazal, ale i nie poblogoslawil. Symon zmeczony i przywiazany do planu lekko sie zjezyl - Owenowi zabrzmialo to jak pycha/mamona. Cieplo ostyglo (nast 66->64). Fork doszedl do decyzji: Nesta (brac deal teraz) vs Owen (korzen dopiero, gdy bezpiecznie).
+
+## 297-01-06 RANEK
+Noc cicha, sen odswiezyl. Symon zasnal z decyzja o kamieniczce odlozona na rano - fork Nesta(brac)/Owen(czekac) niezamkniety. Zegary spia (draw ~01-19). Rano glodny.

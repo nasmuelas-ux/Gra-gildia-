@@ -1047,9 +1047,9 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 43,
-   "zaufanie": 8,
-   "ostatni_kontakt": "296-11-13",
+   "nastawienie_do_gracza": 46,
+   "zaufanie": 10,
+   "ostatni_kontakt": "296-12-05",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
@@ -1059,7 +1059,8 @@
    "historia": [
     "m11d13: Symon wpadl po oddech, a zastal przyjaciela w dolku — zima dusi handel winem, a do tego konsygnacja wina UTKNELA gdzies na zamarzajacych szlakach (echo 'zwezania sie szlakow morskich'), Aldous martwi sie o gotowke. Rozmowa cieplo, ale ciezka; role sie odwrocily — to Symon sluchal i podnosil na duchu, nie odwrotnie. Bez recharge; wiez glebsza przez obecnosc w trudnej chwili. Nast 35->36. Mozliwy przyszly hook: pomoc przyjacielowi.",
     "m11d13: Symon uzyl dojsc (Garth-clo trace + Nesta-logistyka + port) i NAMIERZYL wino: nie zgubione/zajete/zepsute - bezpieczne, ale ZAMROZONE w srodladowej przeladowni na zamarznietym szlaku (barka/wozy stoja, dalsza noga skuta lodem). Panika -> ograniczony problem. Opcje: (a) czekac na okno/odwilz (niepewny czas), (b) oplacic zimowy transport ladem/saniami po ostatni odcinek (drogo, tnie marze, ale uwalnia grosz szybciej), (c) pod udokumentowana teraz konsygnacja latwiej pozyczyc. Symon gotow tez zmostkowac gotowke. Aldous ODCIAZONY (36->40).",
-    "m11d13: Symon zaaranzowal (rzut 61) UCZCIWY mostek: pozyczka przez kantor Nesty pod zastaw udokumentowanej konsygnacji wina, fair terms, Symon reczy. Aldous PLYNNY od zaraz, wino zostaje jego (dojdzie przy odwilzy, marza cala), zadnych lichwiarzy. Uratowany czysto. Nast 40->43. Dlug wdziecznosci gleboki."
+    "m11d13: Symon zaaranzowal (rzut 61) UCZCIWY mostek: pozyczka przez kantor Nesty pod zastaw udokumentowanej konsygnacji wina, fair terms, Symon reczy. Aldous PLYNNY od zaraz, wino zostaje jego (dojdzie przy odwilzy, marza cala), zadnych lichwiarzy. Uratowany czysto. Nast 40->43. Dlug wdziecznosci gleboki.",
+    "m12d05 rzut56: Symon zaproponowal usluge zarzadcza. Aldous - bez kupieckiej ostroznosci, totalne zaufanie do przyjaciela - otwiera ksiegi CHETNIE; narzedzie rezonuje z jego swieza przygoda (utknieta plynnosc): 'gdybym mial zobowiazania na jednej karcie, widzialbym ten kryzys z winem'. Symon ustawia mu cash-flow/kalendarz/wiekowanie - realnie pomaga zdrowiejacemu interesowi. 2. klient, cieply testimonial. Fee modest +3 jel (mniejszy kupiec). Nast 40->43."
    ]
   },
   {

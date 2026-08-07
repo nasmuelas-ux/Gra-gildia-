@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 28,
+  "dzien": 29,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "zima nadeszla (Polnoc) — dlugie lato dogaslo",
  "pogoda": 22,
- "dzien_tygodnia_nr": 2,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "12-28 RANEK, zima Polnocy, trzaskajacy mroz. Dzien przed audiencja u lorda (d29 rano, Owen+Symon-skryba). Zegary: Godric wyplata (~30), zapasy reliefu krucho (~31). Pilar doradczy zywy.",
+ "nastroje_miasta": "12-29 RANEK, zima Polnocy, trzaskajacy mroz. DZIS: AUDIENCJA u lorda Wymana (poranne posluchanie) - Owen niesie petycje o relief, Symon idzie jako skryba (obserwacja/milczenie; ryzyko Theomore). Przygotowanie znakomite (modyfikator+). Zegary: Godric wyplata (~30), zapasy reliefu krucho (~31).",
  "ceny": {
   "chleb": {
    "baza": 3,

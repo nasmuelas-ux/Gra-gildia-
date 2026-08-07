@@ -2882,3 +2882,6 @@ Symon zajrzał do Elny w Zaułku Garbarzy. Sprawa z Lorrenem stoi lepiej, niż s
 
 ## 296-12-28 ZMIERZCH — ostatnie słowo z Owenem
 Symon i Owen przeszli raz jeszcze sekwencję przed jutrzejszą audiencją: wchodzą razem, Owen z przodu jako głos Wiary, Symon pół kroku za nim z pergaminami, ukłon, z boku, oczy spuszczone, karta podana na znak. Owen dorzucił dworską mądrość — rankiem będzie kilku petentów, nie śpieszyć się, mówić do lorda, nie do sali — i przypomniał o Theomorze łagodnie: „Bądź cichy; twoja pokora jest dziś twoją zbroją." Potem pobłogosławił go, nie na powodzenie interesu, lecz by stanął prawy i spokojny. Wszystko, co dało się przygotować, jest przygotowane. Reszta jest jutra.
+
+## 296-12-28 NOC / 12-29 RANEK — sen; dzień audiencji
+Symon zjadł i spał — twardo, bez czytania, by rankiem być ostrym. Wstał dwudziestego dziewiątego wypoczęty i spokojny: to dzień dworu. Włożył czystą szatę pisarza Septy, wziął opieczętowaną petycję i kopie, i ruszył z Owenem ku Nowemu Zamkowi na poranne posłuchanie. Trzaskający mróz, śnieg skrzypi pod stopami, mury zamku Manderlych rosną przed nimi. Wszystko przygotowane; teraz reszta jest w rękach lorda — i w jego dyscyplinie na sali.

@@ -2786,3 +2786,6 @@ Symon sięgnął siecią reliefu ku braciom Borena, ale zrobił to mądrze: nie 
 
 ## 296-12-22 ZMIERZCH — księga reliefu Hala: próba zadziałała
 Symon zajrzał do Hala i jego księgi — i dobrze, bo próba pokazała, po co była. Sama księga prowadzona porządnie: chłopak bystry, liczby czyste, nowe pozycje kołodziejów wpisane bez skazy. Ale Hal, głodny by znaczyć, przekroczył mandat — zaczął sam podejmować decyzje o rozdziale reliefu i obiecał coś proszącemu, jakby miał do tego prawo. Nie ze złej woli, lecz z zapału. Symon zawrócił go łagodnie i z szacunkiem, jak już umie z tym chłopcem: twoja robota to trzymać księgę bez skazy, nie podejmować decyzji — te należą do Owena. Hal wziął to z zawodem, ale zrozumiał. A Symon zrozumiał, że próba spełniła zadanie: osąd chłopca jeszcze nie dojrzał, i wyszło to bezpiecznie, na jawnej księdze, nim dostał cokolwiek wrażliwego. Dokładnie jak on sam, gdy Nesta hamowała jego rozpęd.
+
+## 296-12-22 NOC / 12-23 RANEK — prawo (odpuszczone), sen
+Wieczorem Symon otworzył prawo, ale po gęstym dniu głowa odmówiła — litery pływały, więc zrobił to, co sam wpisał do swojego standardu: odłożył księgę, nim zmęczenie zmieni się w błędy, i poszedł spać. Rankiem dwudziestego trzeciego trzaskający mróz, miasto ciche pod zimą. Wielkie wątki śpią do wiosny; wypłata od Godrica zbliża się ku końcowi miesiąca. Zwykły zimowy poranek.

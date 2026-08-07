@@ -2321,3 +2321,6 @@ Symon siada z Nesta nie do zwyklej roboty, lecz do nauki - i to Braavijka jest t
 
 ## 296-11-15 ZMIERZCH -> 11-16 — domkniecie, alarm opalowy
 Symon spi po dniu, ktory dal mu braavijska ksiegowosc. Ustawia sobie w glowie cichy alarm cenowy na przetrzymany opal — sprzedac przy szczycie mrozu, transzami, wychodzac wczesnie nie chciwie. Opal wciaz 1.5x, mroz trzyma bez zmian; okno jeszcze nie teraz.
+
+## 296-11-16 RANEK->POLUDNIE — Bran na probie
+Symon je i idzie dogladac swojego czlowieka. Bran przyjmuje go z ta prosta wdziecznoscia kogos, komu dano szanse — i tej szansy nie marnuje: na probie w faktorii sprawdza sie rzetelnie, lojalnie, jeszcze zielony w niejednym, ale wyraznie rosnie w robocie. Symon czyta tez, na czym chlopakowi naprawde zalezy: Bran mysli o przyszlosci z Alys, swoja narzeczona, i te probe traktuje jak droge do slubu i wlasnego kata — dlatego tak sie przyklada. To dobra wiedza dla Symona, bo lojalnosc oparta na wspolnym interesie i wdziecznosci jest najtrwalsza. Zwykla, cieplа wizyta, ktora umacnia czlowieka, ktorego hoduje. Bran 41->43.

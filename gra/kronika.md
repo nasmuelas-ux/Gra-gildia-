@@ -2384,3 +2384,6 @@ Symon zaglada do Borena. Cechmistrz, choc zawsze w swoim humorze, wita go jak sw
 
 ## 296-11-20 wieczor — wieczorna praca z Nesta
 Symon wraca do kantoru na wieczorna robote przy swiecach z wlasnego zakupu. Nic nadzwyczajnego - ksiegi, papiery pilotazu ubezpieczen (skladki z bezpiecznych rekojmi cicho narastaja, model Symona chodzi rowno), zapis stagowanych skor pod Braavos. Ale ta zwykla praca ma swoja wartosc: po wczorajszym chlodnym, zaharowanym debriefie latwy rytm miedzy nimi wraca sam. Tamto nie bylo rysa, tylko zmeczeniem Nesty; dzis, siedzac obok siebie w ciszy przerywanej skrzypieniem piora, sa znowu po prostu wspolnikami, ktorzy sobie ufaja. Relacja na swoim miejscu, robota zrobiona.
+
+## 296-11-20 wieczor -> 11-21 — prawo, sen
+Symon czyta prawo i spi. Opal pnie sie dalej: 1.6->1.7, mroz glebszy, popyt ostry - okno sprzedazy juz blisko (cel ~1.8-2x). Alarm napiety.

@@ -2945,3 +2945,6 @@ Symon trafił na Gartha w martwym sercu zimy — wizyta płaska, choć nie zimna
 
 ## 297-01-02 POPOŁUDNIE — u Mereka, więź uczciwa
 Symon zajrzał do Mereka — spokojniejszego niż wtedy, gdy przychodził rozdygotany. Merek wziął jego radę do serca: wspólnika nie zaatakował, ale zacieśnił własne księgi i pilnuje ich sam, co dało mu i spokój, i grunt — czujny partner mniej kombinuje. Podejrzenie nie urosło, sprawa się uspokoiła, furtka do wąskiego potwierdzenia wciąż otwarta gdyby zaświerzbiło. Rozmowa serdeczna, bez interesu — dwaj ludzie związani uczciwą robotą. Merek, zamożny osiadły handlarz prowiantem, to człowiek, który kiedyś za Symona zaręczy, jeśli zajdzie potrzeba; ale o to nie prosił — dziś tylko podtrzymał ciepłą, uczciwą więź.
+
+## 297-01-02 NOC / 01-03 RANEK — trening, prawo, sen; Torren gotów
+Symon domknął dzień treningiem, prawem miejskim i snem. Rankiem trzeciego stycznia przyszło słowo od Owena: Septon Torren przyjmie go dziś — może iść na konsultację o mieszczaństwie. Mróz trzyma, miasto ciche. Przed nim konkretna rozmowa o ścieżce do nazwiska: droga kupiecka, poręczenie Wiary, jak obejść głos Cechu Pisarzy.

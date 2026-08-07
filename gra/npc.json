@@ -749,7 +749,7 @@
    "id": "corka_wendy_mella",
    "imie": "Mella",
    "zawod": "corka Wendy na wydaniu",
-   "nastawienie_do_gracza": 2
+   "nastawienie_do_gracza": 1
   },
   {
    "id": "wnuk_serli_tom",
@@ -1023,7 +1023,7 @@
    "przydomek": "",
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
-   "nastawienie_do_gracza": 25,
+   "nastawienie_do_gracza": 24,
    "zaufanie": 9,
    "wie_o_graczu": [
     "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca"
@@ -1136,7 +1136,7 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 32,
+   "nastawienie_do_gracza": 31,
    "zaufanie": 9,
    "wie_o_graczu": [
     "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory"

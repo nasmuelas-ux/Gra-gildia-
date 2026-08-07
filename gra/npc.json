@@ -1143,12 +1143,13 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 31,
-   "zaufanie": 9,
+   "nastawienie_do_gracza": 35,
+   "zaufanie": 10,
    "wie_o_graczu": [
-    "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory"
+    "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory",
+    "d25 (rzut 40): odwiedzil w bezczynna zime - Donnel rad z ciekawego, szczerze ceniacego ucznia; uczyl chetnie (luki, rozklady sil), opowiadal jak stawial Bialy Mur/czesc Nowego Zamku. Relacja odzyla (31->35). Geometria trafila w praktyczny SUFIT - Symon ma uzyteczna czesc (miara/przestrzen, geom4), mistrzowska reszta wrosnięta w lata pod kamieniem, nie do nadrobienia bystroscia. Wartosc Donnela = relacja/madrosc, nie dalszy grind."
    ],
-   "ostatni_kontakt": "296-12-09",
+   "ostatni_kontakt": "296-12-25",
    "cechy_mowy": "powolny, rzeczowy, mowi obrazami z rzemiosla; dumny z tego, co postawil",
    "sprawa": "zima go unieruchomila (nie muruje sie w mroz - zaprawa zamarza), wiec ma CZAS i chetnie dzieli sie geometria z kims, kto ja ceni; wspomina tez o zaprzyjaznionym zimujacym szyprze do reckoning/astronomii",
    "historia": [

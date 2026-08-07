@@ -98,21 +98,6 @@
    "dotarla_do_frakcji": [],
    "uwaga": "Puszczona NIEZDARNIE (tik 100) — zrodlo (ludzie Osgara) transparentne, wiarygodnosc niska; Symon ostrzezony wczesnie przez Wende.",
    "status": "ZDEMENTOWANA/ODWROCONA (d10, rzut 76): kontr-glos Leony+kupcow + widoczna normalnosc kantoru zdusily plotke; obrocila sie przeciw Osgarowi (jawne, gorzkie zrodlo). Wiara szczatkowa."
-  },
-  {
-   "id": "plotka_klerk_symon",
-   "tresc_prawdziwa": "Symon poprawil publicznie klerka faktora i probowal to zaladzic, nieskladnie",
-   "tresc_obiegowa": "ten braavijskojezyczny skryba Nesty - ostry, ale zadziera nosa nad naszych",
-   "prawdziwosc": 0.4,
-   "znieksztalcenie": 1,
-   "zna": [
-    "klerk_faktora_galery"
-   ],
-   "zasieg": [
-    "port_manderly"
-   ],
-   "tempo": "wolne",
-   "dotarla_do_frakcji": []
   }
  ],
  "aktywne": [

@@ -1160,6 +1160,27 @@
    "historia": [
     "m12d11 rzut16: Symon przyjmuje w zasadzie, ale kodeks oslony STALUJE start - spor WSPOLNIKOW to nie skladu-vs-faktor: (1) DOSTEP - ksiegi spolki WSPOLNE, Merek nie ma czystego dostepu do calosci bez wiedzy partnera; jak audytowac skrycie ksiegi wspolnika? (2) SWIADEK - regula kodeksu awkward gdy cel to wspolwlasciciel (Merek nerwowy, nie chce swiadkow swojej podejrzliwosci wobec partnera). Symon NIE brnie (kodeks dziala=nie bierze zle ustawionego ryzyka). Zlecenie ACCEPTED-IN-PRINCIPLE ale STALLED: trzeba najpierw rozwiazac dostep+swiadka. Merek nerwowy, sfrustrowany ze nie od razu, ale profesjonalizm Symona uspokaja. Bez fee. 6->8."
    ]
+  },
+  {
+   "id": "wat_kupiec",
+   "imie": "Wat",
+   "przydomek": null,
+   "wiek": 41,
+   "stan": "mieszczanin",
+   "zawod": "kupiec suknem i prowiantem (Schody), sredniej reki, rosnacy",
+   "mieszka": "Schody",
+   "nastawienie_do_gracza": 6,
+   "zaufanie": 2,
+   "wie_o_graczu": [
+    "slyszal na kupieckiej gieldzie (od Voxa) o 'cudownych ksiegach skryby'; chce takiej samej uslugi"
+   ],
+   "potrzeby": [
+    "ogarnac ksiegi po szybkim rozroscie interesu",
+    "nadazyc za wiekszymi graczami Schodow"
+   ],
+   "ostatni_kontakt": null,
+   "cechy_mowy": "gadatliwy, serdeczny, sypie nazwiskami; lubi byc 'w kursie'",
+   "_vetting_296-12-15_rzut91": "CZYSTY READ: uczciwy w handlu, placi dlugi, bez smrodu oszustwa - jako osoba BEZPIECZNY. ALE: (1) sam jest GADULA wpiety w plotkarska siec gieldy (stad w ogole slyszal) -> przyjecie go = jeszcze glosniejszy pilar, dokladnie odwrotnie niz 'cichy'; (2) wiekszy/lepiej wpiety niz Vox -> jego ksiegi dotykaja WIEKSZYCH kontrahentow (eskalacja ryzyka w gore, jak ostrzegala Nesta). DECYZJA: przyjac (wzrost+grosz, ale glosniej) / przyjac pod TWARDA klauzula dyskrecji + wysoka cena (spowolnic naplyw) / odmowic-odroczyc (chronic cisze). Symon czyta go dosc, by go OKIELZNAC jesli wezmie."
   }
  ],
  "orbita": [

@@ -2,11 +2,11 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-12-16 POŁUDNIE · schylek dlugiego lata
+- **Data:** 296-12-17 RANEK · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
-- **Nastroje:** 12-16 RANEK, glucha zima. Merek przynosi slowo: wspolnik OCIAGAL sie z pogodzeniem ksiag. Zegary: robota Wata (~12-18), futra (~12-20), Godric (~12-30). TU-I-TERAZ: zima/ubodzy, sprawa Mereka.
+- **Nastroje:** 12-17 RANEK, glucha zima, mroz zelzal. Cicho. Zegary: robota Wata (~12-18), futra (~12-20), Godric (~12-30). TU-I-TERAZ: zima/ubodzy; sprawa Mereka (nastepna noga = kopie Mereka).
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 15 jeleni + 14 mied + 0 smokow
@@ -14,7 +14,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
 - PODRECZNIK PROCEDUR KANTORU (11-XII, rzut 97): KONTROLA DOKUMENTU (numerowane/przeszywane/pieczetowane karty; kopia umowy u obu stron+trzecia u depozytariusza; atrament trwaly, bez pustych miejsc, kwota slownie obok cyfry; poprawki tylko przekreslenie z parafa). KONTROLA LUDZI (rozdzial kasa/magazyn/ksiega; rotacja+przymusowa przerwa kasjera; dwa klucze+dwa podpisy powyzej progu; kaucja+poreczyciel przy zatrudnianiu) - CZESC skalowana: maly kantor nie ma 3 osob -> stosuje co pasuje + compensating controls. KONTROLA RZECZY (cechowanie towaru+pieczetowanie beczek; liczenie skladu w LOSOWYCH terminach; waga MIEJSKA nie wlasna; OSOBNY rejestr brakow/zwrotow - tam ucieka najwiecej). RAPORTY ZARZADCZE (klejnoty, sprzedawalne): WIEKOWANIE NALEZNOSCI (kto/ile/od kiedy); RENTOWNOSC per klient i per trasa (zwykle 1/3 interesow stratna); KALENDARZ ZOBOWIAZAN (czynsz/clo/podatek/dlug na jednej karcie); PROGI OSTRZEGAWCZE (jesli zapas<X kupuj; jesli dlug>Y wstrzymaj kredyt).
-- Zdrowie 84 · Sytosc 37 · Zmeczenie 16
+- Zdrowie 84 · Sytosc 47 · Zmeczenie 7
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 7 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4

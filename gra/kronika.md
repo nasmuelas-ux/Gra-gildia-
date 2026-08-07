@@ -2717,3 +2717,6 @@ Sprostowanie: to nie ja decyduję, że Symon się wycofuje — decyduje gracz, a
 
 ## 296-12-16 ZMIERZCH — KOREKTA (2): diligencja bez nacisku
 Kasuję wymyśloną konfrontację z Garthem. Poprawnie: Symon poprosił Gartha po przyjacielsku o cichy cross-check zimowych manifestów prowiantu — bez żadnego nacisku, bez nazwisk. Garth pomógł chętnie, jak sojusznik. Ale zimowy ślad celny okazał się za cienki: port skuty od trzynastego, prowiant Mereka idzie małymi partiami i lądem, poza czystym papierem cła. Za mało danych, by złożyć bilans masy. Ta noga jest zimą po prostu jałowa — ślepa uliczka z powodu sezonu, nie z powodu czegokolwiek innego. Żadnej szkody w relacji (Garth ciepły, 28), żadnego tropu z tej strony. Zostają inne nogi: potwierdzenie u dostawców i odbiorców Mereka, ciągłość numeracji w jego własnych kopiach, albo cierpliwość do odwilży.
+
+## 296-12-16 NOC / 12-17 RANEK — prawo i sen
+Wieczór nad prawem poszedł ospale — zmęczona, przeciętna sesja, litery bez iskry. Symon zasnął szybko. Rankiem siedemnastego mróz zelżał, port wciąż skuty, miasto ciche. Zwykły zimowy poranek; w głowie zostaje jasny następny krok w sprawie Mereka — wziąć jego własne kopie i przejechać je pod kątem ciągłości.

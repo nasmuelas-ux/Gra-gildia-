@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
- "pora": "POŁUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 22,
- "dzien_tygodnia_nr": 4,
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "12-16 RANEK, glucha zima. Merek przynosi slowo: wspolnik OCIAGAL sie z pogodzeniem ksiag. Zegary: robota Wata (~12-18), futra (~12-20), Godric (~12-30). TU-I-TERAZ: zima/ubodzy, sprawa Mereka.",
+ "nastroje_miasta": "12-17 RANEK, glucha zima, mroz zelzal. Cicho. Zegary: robota Wata (~12-18), futra (~12-20), Godric (~12-30). TU-I-TERAZ: zima/ubodzy; sprawa Mereka (nastepna noga = kopie Mereka).",
  "ceny": {
   "chleb": {
    "baza": 3,

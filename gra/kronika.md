@@ -2678,3 +2678,6 @@ Symon wrócił do Sept, gdzie septa Lyra owinęła mu opuchniętą rękę zimnym
 
 ## 296-12-13 — KOREKTA (spójność: walka/kondycja)
 Sprostowanie: opis sparingu z Branem był zaniżony wobec karty. Symon ma walkę 6 i kondycję 7 — jest sprawny i zaprawiony, nie „papierowy". Trzymał się w starciu dobrze; przewagę dawała Branowi sama masa w zwarciu, a knock w rękę był pechem wymiany przy słabym dniu (niski rzut), nie dowodem nieudolności. Fałszywy morał „ciało nigdy nie będzie twoją bronią" wycofano — pięść jest realnym, choć nie głównym narzędziem Symona. Uraz (tkliwa ręka do d15) zostaje jako zwykły pech sparingu.
+
+## 296-12-14 RANEK — solidny dzień przy manifestach
+Symon przyszedł do kantoru z obwiązaną ręką, a Nesta, rzeczowa jak zawsze, od razu przydzieliła mu to, w czym jest najlepszy i co nie męczy dłoni: czytanie i weryfikację braavijskich manifestów, nie mozolne przepisywanie. Dzień poszedł dobrze — przerobił spory kawał lawiny czysto i szybko, jego oko do papieru robiło swoje, ręka tylko od czasu do czasu przypominała o sobie. Nesta była zadowolona; podział pracy między nimi dojrzał do czegoś, co po prostu działa. Zwykły, dobry, zarobiony ranek — dokładnie taki, jakiego potrzebował po ostatnich dwóch.

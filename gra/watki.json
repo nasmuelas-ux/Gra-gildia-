@@ -526,6 +526,11 @@
    "id": "ubezpieczenia_frachtu",
    "tytul": "Pilotaz ubezpieczen frachtu (cichy pilar)",
    "status": "URUCHOMIONY 11-14 (rzut 88): Nesta zatwierdzila OSTROZNY pilotaz ubezpieczen/pul ryzyka frachtu za parawanem kantoru ('rekojmie na ladunek'). STRUKTURA: male, znane ladunki + zaufani kapitanowie + trasy dajace sie wycenic; dywersyfikacja od zaraz (nigdy jeden statek); KAPITAL kantoru/pryncypala (nie sakiewka Symona); Symon = CICHY architekt + MODEL RYZYKA (rachunki8 + info-edge trasy/pogoda/kapitanowie) za cichy udzial w marzy; nazwisko Symona NIEWIDZIALNE (kamuflaz + postawa akumulacji). DOCHOD: skladki wplywaja przy pisaniu rekojmi; wyplata tylko przy stracie. CAP: skala mala poki (1) pryncypal nie da wiekszego kapitalu [chce dowodu/czystej struktury - patrz karta celna] i (2) zima najgorsza nie minie. RYZYKO: strata objetego statku boli (dlatego male+dywersyfikacja). Pierwszy netto-wynik ~mid XII. || 11-15: model ryzyka pilotazu wzmocniony braavijska ksiegowoscia (Symon rachunki->9) — czystsze wyceny/rezerwy."
+  },
+  {
+   "id": "alarm_opal",
+   "tytul": "ALARM CENOWY: opal (przetrzymany lot)",
+   "status": "AKTYWNY od 11-15. MG sledzi CO TURE mnoznik opalu (teraz 1.5x) + puls popytu (sept/mroz). SPRZEDAC gdy: mnoznik ~1.8-2x+ PRZY rozpaczliwym popycie (tuz PRZED szczytem, nie na nim), transzami; ALBO natychmiast przy 1. sygnale ODWROTU (odwilz / duza dostawa opalu / puszczajace lody). Lekcja Nesty: wyjsc wczesnie nie chciwie. Alert gdy okno sie otworzy. Lot: u kolodziejow, suchy plac."
   }
  ]
 }

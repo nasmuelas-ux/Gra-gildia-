@@ -2,19 +2,19 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-12-23 RANEK · zima nadeszla (Polnoc) — dlugie lato dogaslo
+- **Data:** 296-12-23 POŁUDNIE · zima nadeszla (Polnoc) — dlugie lato dogaslo
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
 - **Nastroje:** 12-23 RANEK, zima Polnocy, trzaskajacy mroz. Cicho, wielkie watki spia do wiosny. Zegary: Godric wyplata (~12-30). Pilar doradczy zywy; sojusz kolodziejow lojalny.
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 2 jeleni + 14 mied + 0 smokow
+- **Wolne:** 4 jeleni + 14 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
 - PODRECZNIK PROCEDUR KANTORU (11-XII, rzut 97): KONTROLA DOKUMENTU (numerowane/przeszywane/pieczetowane karty; kopia umowy u obu stron+trzecia u depozytariusza; atrament trwaly, bez pustych miejsc, kwota slownie obok cyfry; poprawki tylko przekreslenie z parafa). KONTROLA LUDZI (rozdzial kasa/magazyn/ksiega; rotacja+przymusowa przerwa kasjera; dwa klucze+dwa podpisy powyzej progu; kaucja+poreczyciel przy zatrudnianiu) - CZESC skalowana: maly kantor nie ma 3 osob -> stosuje co pasuje + compensating controls. KONTROLA RZECZY (cechowanie towaru+pieczetowanie beczek; liczenie skladu w LOSOWYCH terminach; waga MIEJSKA nie wlasna; OSOBNY rejestr brakow/zwrotow - tam ucieka najwiecej). RAPORTY ZARZADCZE (klejnoty, sprzedawalne): WIEKOWANIE NALEZNOSCI (kto/ile/od kiedy); RENTOWNOSC per klient i per trasa (zwykle 1/3 interesow stratna); KALENDARZ ZOBOWIAZAN (czynsz/clo/podatek/dlug na jednej karcie); PROGI OSTRZEGAWCZE (jesli zapas<X kupuj; jesli dlug>Y wstrzymaj kredyt).
-- Zdrowie 85 · Sytosc 47 · Zmeczenie 6
+- Zdrowie 85 · Sytosc 55 · Zmeczenie 15
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4
@@ -50,6 +50,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` godric_rachunki_wyplata: Kolejna cicha wyplata za ksiegi domu Godrica (recurring, ~miesiecznie).
 - ◆ `296-12-16` merek_wspolnik_odpowiedz: Merek proponuje wspolnikowi rutynowe wspolne pogodzenie ksiag (za rada Symona). Odpowiedz wspolnika: zgoda (au
 - ◆ `296-12-18` wat_ksiegi: Symon ma ulozyc ksiegi Wata (wiekszy kupiec, wieksi kontrahenci) - usluga zarzadcza premium pod klauzula dyskr
+- ◆ `296-12-26` harlon_ksiegi: Ustawic ksiegi zarzadcze Harlona (solarz) - usluga premium pod dyskrecja. Reszta fee na dostawie.
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

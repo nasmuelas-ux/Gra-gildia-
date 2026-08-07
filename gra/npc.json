@@ -1025,12 +1025,13 @@
    "przydomek": "",
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
-   "nastawienie_do_gracza": 24,
-   "zaufanie": 9,
+   "nastawienie_do_gracza": 30,
+   "zaufanie": 11,
    "wie_o_graczu": [
-    "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca"
+    "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca",
+    "d23 (rzut 71): reconnect na konkrecie (nie czulosci - twardy solarz). Audyt Symona (faktor go skracal) przekonal go na tyle, ze chce STALEJ uslugi zarzadczej - wziety jako zakotwiczony klient pod DYSKRECJA, za uczciwa cene. Zadatek 2 jel, robota przy ksiegach niebawem. Kontrolowany wzrost pilaru (znany/zaufany kontakt, nie glosny inbound)."
    ],
-   "ostatni_kontakt": "296-12-08",
+   "ostatni_kontakt": "296-12-23",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",
    "status": "BLOK anty-Antaryon: CEGLA 3 (potwierdzony d12, rzut 80 — faktor z sieci wielkich domow go skraca). SOLIDNY, zly-bez-strachu (odwrotnie niz Marlon) = wzmacnia kregoslup bloku. Ufa Symonowi, zaplacil.'",
    "historia": [

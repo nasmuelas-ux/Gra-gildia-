@@ -68,6 +68,14 @@
    "widoczny_graczowi": true,
    "ROZSTRZYGNIETY": "296-12-18 (rzut 60): dostarczone czysto, saldo 7 jel zaplacone, dyskrecja trzyma.",
    "zamkniety": true
+  },
+  {
+   "id": "harlon_ksiegi",
+   "typ": "robota",
+   "odlicza_do": "296-12-26",
+   "opis": "Ustawic ksiegi zarzadcze Harlona (solarz) - usluga premium pod dyskrecja. Reszta fee na dostawie.",
+   "co_sie_stanie": "dostarczenie uslugi Harlonowi - saldo fee",
+   "widoczny_graczowi": true
   }
  ]
 }

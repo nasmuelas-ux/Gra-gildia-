@@ -2789,3 +2789,6 @@ Symon zajrzał do Hala i jego księgi — i dobrze, bo próba pokazała, po co b
 
 ## 296-12-22 NOC / 12-23 RANEK — prawo (odpuszczone), sen
 Wieczorem Symon otworzył prawo, ale po gęstym dniu głowa odmówiła — litery pływały, więc zrobił to, co sam wpisał do swojego standardu: odłożył księgę, nim zmęczenie zmieni się w błędy, i poszedł spać. Rankiem dwudziestego trzeciego trzaskający mróz, miasto ciche pod zimą. Wielkie wątki śpią do wiosny; wypłata od Godrica zbliża się ku końcowi miesiąca. Zwykły zimowy poranek.
+
+## 296-12-23 RANEK→POŁUDNIE — u Harlona, twardy solarz zakotwiczony
+Symon spędził ranek u Harlona — z tym rzeczowym, zrzędliwym o kosztach człowiekiem nie zbliża się gadaniną, tylko wartością, którą kiedyś mu dostarczył, obnażając skracającego go faktora z zamorskiej sieci. Harlon to pamięta, i ta jedna robota przekonała go bardziej, niż Symon sądził: chce go na stałe. Nie jednorazowego oka, lecz tej usługi, o której szepcze giełda — żeby ktoś ustawił mu księgi tak, by wiedział, gdzie fracht i faktor toczą mu grosz. Symon wziął go, jak bierze teraz takich: pod dyskrecją, za uczciwą cenę. Twardy solarz stał się zakotwiczonym klientem — cicho, kontrolowanie. Dał dwa jelenie zadatku; robota przy jego księgach niebawem. Filar doradczy rośnie, ale kanałem premium i dyskrecji, nie rozgłosem.

@@ -70,7 +70,8 @@
   "rzemioslo": 1,
   "handel": 7,
   "walka": 6,
-  "geometria": 4
+  "geometria": 4,
+  "czytanie_ludzi": 4
  },
  "licznik_uzyc": {
   "pismo": 81,
@@ -83,7 +84,8 @@
   "rzemioslo": 0,
   "handel": 84,
   "walka": 41,
-  "geometria": 17
+  "geometria": 17,
+  "czytanie_ludzi": 22
  },
  "jezyki_znane": [
   "mowa powszechna",

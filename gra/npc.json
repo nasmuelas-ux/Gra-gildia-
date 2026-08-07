@@ -1254,14 +1254,16 @@
    "stan": "duchowny (Wiara)",
    "zawod": "septon uczony w prawie; prowadzi prawne/majatkowe sprawy Septy z miastem (zapisy, nadania, wlasnosc koscielna); zna praktyke rady i admisji mieszczanskiej",
    "mieszka": "przy glownej Sepcie / Sept Sniegow",
-   "nastawienie_do_gracza": 0,
-   "zaufanie": 0,
-   "wie_o_graczu": [],
+   "nastawienie_do_gracza": 8,
+   "zaufanie": 3,
+   "wie_o_graczu": [
+    "297-01-03 (rzut 81): konsultacja o mieszczanstwie. Torren wylozyl czysta sciezke: ubiegac sie jako KUPIEC-wspolnik (nie skryba) -> Cech Pisarzy traci formalny grunt (nie wchodzi jako skryba, ich weto bezprzedmiotowe). Wymogi: WLASNOSC (dom w murach - brakujace ogniwo, sprawa na wiosne), standing kupiecki (udzial kantoru ✓), poreczyciele-kupcy (Vox/Aldous/Leona/Boren/Merek ✓), poreczenie Wiary ✓, wpis+oplata. Zlozone razem przygniata glos Pisarzy. Ryzyko: Harwin/Ryman moga zwlekac jesli znajda sojusznika w radzie (timing/gotowe poreczenia). DO WYGRANIA. Torren poprowadzi wniosek."
+   ],
    "potrzeby": [
     "porzadek w sprawach Septy",
     "posluszenstwo Wierze"
    ],
-   "ostatni_kontakt": null,
+   "ostatni_kontakt": "297-01-03",
    "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
    "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
   }

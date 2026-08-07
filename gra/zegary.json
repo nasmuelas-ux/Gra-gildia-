@@ -125,7 +125,9 @@
    "opis": "Konsultacja z Septonem Torrenem (neutralny znawca prawa miejskiego, wskazany przez Owena) - praktyka admisji mieszczanskiej: droga kupiec-wspolnik, poreczenie Wiary+kupcow, minimalizacja glosu Cechu Pisarzy. Owen posyla slowo; spotkanie za dzien-dwa. || 01-03: GOTOWE - Owen poslal slowo, Torren przyjmie Symona. Konsultacja dostepna dzis.",
    "co_sie_stanie": "za ~dzien-dwa: Symon konsultuje Torrena - konkretna sciezka prawna do mieszczanstwa",
    "widoczny_graczowi": true,
-   "GOTOWE": true
+   "GOTOWE": true,
+   "ROZSTRZYGNIETY": "297-01-03 (rzut 81): sciezka zmapowana - droga kupiecka omija weto cechu; brakujace ogniwo=wlasnosc (wiosna); Torren poprowadzi wniosek.",
+   "zamkniety": true
   }
  ]
 }

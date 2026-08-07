@@ -47,7 +47,9 @@
   {
    "id": "godric_rachunki_wyplata",
    "termin": "296-12-30",
-   "opis": "Kolejna cicha wyplata za ksiegi domu Godrica (recurring, ~miesiecznie)."
+   "opis": "Kolejna cicha wyplata za ksiegi domu Godrica (recurring, ~miesiecznie).",
+   "ROZSTRZYGNIETY": "296-12-30: kapnela cicha miesieczna wyplata za ksiegi domu Godrica (+5 jel). Recurring dochod trwa.",
+   "odlicza_do": "297-01-30"
   },
   {
    "id": "merek_wspolnik_odpowiedz",

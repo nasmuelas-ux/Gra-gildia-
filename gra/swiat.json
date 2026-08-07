@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 29,
+  "dzien": 30,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "zima nadeszla (Polnoc) — dlugie lato dogaslo",
  "pogoda": 22,
- "dzien_tygodnia_nr": 3,
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": null,
- "nastroje_miasta": "12-29 POLUDNIE, zima Polnocy. AUDIENCJA UDANA: lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wiary) - relief zaopatrzony na reszte zimy. Theomore rozbrojony (rola bez skazy, sad zmiekl). Symon niewidzialny architekt. Zegary: Godric wyplata (~30).",
+ "nastroje_miasta": "12-30 RANEK, zima Polnocy. Koniec miesiaca. Kapnela cicha wyplata Godrica (+5 jel). Zegar: poznanie Miry (~12-31, Nesta aranzuje). Relief zaopatrzony (kryzys przelamany). Wielkie watki spia do wiosny.",
  "ceny": {
   "chleb": {
    "baza": 3,

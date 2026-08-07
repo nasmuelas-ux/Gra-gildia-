@@ -2897,3 +2897,6 @@ Dar Wymana przyszedł, a nagła obfitość po tygodniach niedostatku okazała si
 
 ## 296-12-29 ZMIERZCH — Nesta aranżuje poznanie Miry
 Symon poprosił Nestę, by ustawiła poznanie. Przyjęła to bez swatowskiego ceregielu i już miała haczyk: Mira ma resztkę mężowskich ksiąg i braavijskie papiery handlowe, których sama nie ogarnia — Nesta odeśle ją do „skryby, który zna braavijski i liczby lepiej niż ktokolwiek w porcie". Symon przyjdzie jako fachowa pomoc, nie zalotnik; zobaczy go przy robocie, uczciwego i sprawnego, zanim pomyśli o ręce. Spotkanie za dzień-dwa, gdy Mira się zgodzi. „Idziesz pomóc jej z księgami, nie zdobyć żonę. Reszta, jeśli ma być, przyjdzie sama." Wątek ruszył — cichy, naturalny, jedyny, jaki ma szansę u kobiety, której nie wolno popchnąć.
+
+## 296-12-29 NOC / 12-30 RANEK — sen; wypłata Godrica
+Symon padł wyczerpany po dniu logistyki i spał twardo. Rankiem trzydziestego kapnęła cicha miesięczna wypłata za księgi domu Godrica — pięć jeleni recurringu, spokojnego dochodu, który płynie sam. Koniec miesiąca, trzaskający mróz, relief zaopatrzony i przełamany, a za dzień-dwa Nesta ustawi poznanie z Mirą. Zwykły zimowy poranek — ale dobry.

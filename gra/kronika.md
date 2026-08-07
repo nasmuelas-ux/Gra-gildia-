@@ -2417,3 +2417,6 @@ Symon przynosi Neście gotowa kartę i razem ukladaja to, na co pracowali cala t
 
 ## 296-11-23 wieczor -> 11-24 — prawo, sen
 Symon czyta prawo i spi po wielkim dniu (karta wykuta, arcyplan gotowy). Sekwencja w ruchu: Nesta podejdzie do Ternesia na swoim tempie (~dni). Jutro Symon da cichy sygnal spinie bloku. Barwniki Vhassara ~25.
+
+## 296-11-24 RANEK->POLUDNIE — cichy sygnal spinie
+Symon obchodzi po cichu kregoslup bloku - Harlona, Voxa, Leone - i daje im to, czego brakowalo: konkretna, wiarygodna pewnosc. Nie pokazuje karty ani nie tlumaczy mechanizmu, nie pada zadne nazwisko celnika; mowi tyle, ile trzeba i ani slowa wiecej - ze sprawa naprawde sie laduje, ze to juz nie 'moze kiedys', lecz 'ladujemy, trzymajcie', a ruch przyjdzie wtedy, gdy nie bedzie mogl chybic. I to wystarcza. Vox i Leona, oboje szczwani, czytaja w jego spokoju, ze mowi prawde, i osiadaja. Harlon, z natury napalony, dociska o 'kiedy w koncu' - ale Symon trzyma linie, dajac mu pewnosc bez szczegolu, i twardy handlarz mruczac przyjmuje. Cohezja zatrzasnieta: spina utrzyma teraz slabsze cegly. Symon wychodzi z tego z jasnym zastrzezeniem w glowie - kupil oknо cierpliwosci, ale nie na zawsze; lewar Nesty na Ternesia powinien wyladowac w jakis tydzien, bo tyle mniej wiecej blok wytrzyma bez realnego ruchu. Dyskrecja caly czas nienaruszona.

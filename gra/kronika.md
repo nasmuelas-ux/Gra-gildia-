@@ -2939,3 +2939,6 @@ Owen wymienił imię: Septon Torren, starszy uczony brat w Wierze, który od lat
 
 ## 297-01-01 NOC / 01-02 RANEK — trening, sen
 Symon domknął pierwszy dzień roku ćwiczeniem ciała i twardym snem — lżejszy po zwierzeniu Owenowi, z konkretną ścieżką ku nazwiu przed sobą. Rankiem drugiego stycznia mróz trzyma, miasto ciche. Za dzień-dwa konsultacja u Septona Torrena o mieszczaństwie; z Mirą — cierpliwość i odpuszczenie nacisku; wielkie wątki śpią do wiosny.
+
+## 297-01-02 RANEK→POŁUDNIE — u Gartha, po ludzku
+Symon trafił na Gartha w martwym sercu zimy — wizyta płaska, choć nie zimna. Port skuty, cło bezczynne, Garth znudzony, zmarznięty, posępny nad pustym rejestrem; nie miał wiele do dania, sam był lichym towarzystwem. Ale Symon przyszedł bez sprawy, po ludzku — posiedzieli przy marnym piecyku, pogadali o niczym, jak dwóch znajomych w głuchą porę. Żadnego atutu z tego nie wyciągnął, i nie o to szło. Owen powiedziałby, że to dobrze zrobione: być z człowiekiem bez agendy, samo w sobie. Więź nie ostygła, drgnęła cieplej, a Symon wyszedł z niczym w rękach i czymś drobnym w piersi — genuine friendship, bez chwytania.

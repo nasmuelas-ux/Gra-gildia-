@@ -109,8 +109,8 @@
     "kontuzja plecow",
     "ze go ominie lepsza fucha"
    ],
-   "nastawienie_do_gracza": 44,
-   "zaufanie": 9,
+   "nastawienie_do_gracza": 47,
+   "zaufanie": 11,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
     "czyta mu listy od brata z Siostr",
@@ -129,11 +129,12 @@
     "Symon spisal umowe malzenska jego kuzynki Bess (corki Wendy) — rodzina wdzieczna"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-11-24",
+   "ostatni_kontakt": "296-12-05",
    "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
    "historia": [
     "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",
-    "m11d24 wieczor (rzut 27): Symon zlapal Brana po robocie, cieply zwyczajny wieczor przy kuflu; poznaje przelotnie Alys (narzeczona, sluzy w karczmie); Bran spokojny, dumny z proby, mysli o wspolnej przyszlosci. Wiez trzyma, nic wielkiego. Nast 43->44."
+    "m11d24 wieczor (rzut 27): Symon zlapal Brana po robocie, cieply zwyczajny wieczor przy kuflu; poznaje przelotnie Alys (narzeczona, sluzy w karczmie); Bran spokojny, dumny z proby, mysli o wspolnej przyszlosci. Wiez trzyma, nic wielkiego. Nast 43->44.",
+    "m12d05 rzut88: cieply wieczor; Bran ROZKWITL na probie - rzetelny, wyrosniety, zaufany w faktorii; praktycznie zapracowal na STALE miejsce (trajektoria off-probation), co czyni jego przyszlosc z Alys realna. Symon dumny, reczy/afirmuje. Gleboka lojalnosc scementowana; Bran = pewny, lojalny czlowiek/aktyw sieci. Nast 44->47 zauf+2."
    ]
   },
   {

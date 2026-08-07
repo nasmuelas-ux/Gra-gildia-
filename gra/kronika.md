@@ -2459,3 +2459,6 @@ Symon spedza popoludnie przy ksiegach domu, ciagnac swoja cicha, stala robote - 
 
 ## 296-11-27 wieczor — runda serca (Elna, Aldous, Wenda)
 Symon robi wieczorem obchod ludzki. U Elny cicho i cieplo: wdowa bezpieczna pod kolodziejami, wdzieczna jak zawsze, zostawia jej cos do garnka - zwyczajna, dobra chwila (28->30). U Wendy tylko przelotnie, bo targ juz zwiniety - krotki, serdeczny catch przy pakowaniu i strzep pulsu z dolu miasta (26->28). Ale wieczor rozjasnia sie u Aldousa. Winiarz, ktorego Symon zostawil niedawno w dolku, jest dzis calkiem innym czlowiekiem: mostek pod zastaw wina uratowal mu plynnosc, interes sie trzyma, a z pierwsza odwilza liczy na dojscie zamrozonych beczek. Siedza dlugo, smieja sie, gadaja o niczym i o wszystkim - i to Symon wreszcie dostaje to, po co kiedys przyszedl i czego nie bylo: prawdziwy oddech, cieplo przyjazni bez wyrachowania, ktore prostuje mu krege slup po tygodniach kombinacji. Wychodzi w mroz lzejszy na sercu. Aldous 36->40.
+
+## 296-11-27 wieczor -> 11-28 — prawo, sen
+Symon czyta prawo i spi po dobrym dniu (lewar zadzialal, blok pewny, Aldous pokrzepil serce). Lada dzien trial zelaza z Gulltown, wyplata Godrika ~30.

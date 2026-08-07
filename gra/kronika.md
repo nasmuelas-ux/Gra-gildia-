@@ -2900,3 +2900,6 @@ Symon poprosił Nestę, by ustawiła poznanie. Przyjęła to bez swatowskiego ce
 
 ## 296-12-29 NOC / 12-30 RANEK — sen; wypłata Godrica
 Symon padł wyczerpany po dniu logistyki i spał twardo. Rankiem trzydziestego kapnęła cicha miesięczna wypłata za księgi domu Godrica — pięć jeleni recurringu, spokojnego dochodu, który płynie sam. Koniec miesiąca, trzaskający mróz, relief zaopatrzony i przełamany, a za dzień-dwa Nesta ustawi poznanie z Mirą. Zwykły zimowy poranek — ale dobry.
+
+## 296-12-30 — KOREKTA księgowa: draw wspólnika
+Sprostowanie: draw wspólnika (~6 jeleni/miesiąc, start ~12-19) nie był osobno księgowany. Dopisany zaległy draw (+6 jel), sformalizowany jako recurring (jak wypłata Godrica). Warunki wspólnictwa spisane w karcie: baza(wikt)+draw + 1/3 netto z transakcji Symona + mały rosnący udział w core-faktorii (próba), prowadzony przez Nestę w księgach kantoru. Symon, człowiek liczb, powinien wziąć od Nesty pełne rozliczenie partnerskie, by mieć własne konto czyste.

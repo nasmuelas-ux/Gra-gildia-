@@ -108,6 +108,14 @@
    "opis": "Nesta aranzuje poznanie z MIRA - pretekst: pomoc jej z ksiegami po mezu + braavijskimi papierami handlowymi (zywiol Symona). Symon przyjdzie jako fachowiec, NIE zalotnik. Podejscie: autentycznosc, cierpliwosc, zero pchania (wdowa wybredna, nie popchniesz). Nesta da znac gdy Mira sie zgodzi (~dzien-dwa).",
    "co_sie_stanie": "za ~dzien-dwa: Symon poznaje Mire przez robote pisarska/ksiegowa - pierwsze wrazenie, poczatek (ew.) zalotow przez wartosc",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "draw_nesta",
+   "typ": "dochod",
+   "odlicza_do": "297-01-19",
+   "opis": "Miesieczny DRAW wspolnika ~6 jeleni z kantoru Nesty (start 12-19). Recurring. + osobno: 1/3 netto z transakcji Symona i rosnacy udzial w core-faktorii (prowadzone przez Nesta w ksiegach).",
+   "co_sie_stanie": "~miesiecznie: kapie draw 6 jel; udzial/1/3 do rozliczenia z Nesta",
+   "widoczny_graczowi": true
   }
  ]
 }

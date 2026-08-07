@@ -12,7 +12,7 @@
  "zmeczenie": 5,
  "sakiewka": {
   "miedziaki": 14,
-  "jelenie": 14,
+  "jelenie": 20,
   "smoki": 0
  },
  "dobytek": [
@@ -120,5 +120,13 @@
    "do_ok": "296-15",
    "efekt": "reka tkliwa/opuchnieta jeszcze rano d14; pismo niekomfortowe dzis, powinna zejsc do d15"
   }
- ]
+ ],
+ "wspolnictwo_nesta": {
+  "draw_jel_mies": 6,
+  "draw_ostatni": "296-12-19 (zaksiegowany 12-30 z opoznieniem)",
+  "draw_nastepny": "297-01-19",
+  "udzial_transakcje": "1/3 netto z transakcji ktore Symon sam zrodli/prowadzi",
+  "udzial_core": "maly rosnacy udzial w core-faktorii (na probe) - prowadzi Nesta w ksiegach kantoru",
+  "uwaga": "wikt formalnie w bazie, ale Symon zywiony przez Septe (nie konsumuje). Nalezy wziac od Nesty PELNE rozliczenie partnerskie (draw+1/3+udzial) - Symon jako czlowiek liczb powinien miec wlasne konto czyste."
+ }
 }

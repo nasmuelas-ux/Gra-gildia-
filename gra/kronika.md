@@ -3014,3 +3014,6 @@ Noc w celi Septy. Symon zasnal niespokojny (drzazga po sluzbie - sprzecznosc hip
 
 ## 297-01-07 RANEK->POPOLUDNIE - robota u Nesty (rzut 28)
 Sniadanie w sepcie (sytosc 30->55, darmo), potem po robote do Nesty. Lean winter - kantor cichy (egzotyczna zamrozona, zbozowa zamknieta, malo transakcji do zrodlenia, wiec malo 1/3). Nesta dala CORE grind: uzgodnienie zaleglych ksiag za keep. Uparta rozbieznosc zzarla ranek - wysledzil ja (mundane blad przepisania, poprawiony). Thankless slog; Nesta rzeczowa/przycisniona (dlug Antaryonow, zima chuda). Realia leniwego zimowego sezonu - earning cienki do wiosny. rachunki+1, audyt+1.
+
+## 297-01-07 POPOLUDNIE - Hal (rzut 39)
+Symon zaszedl sprawdzic ksiege reliefu. Ksiega czysta (Hal kompetentny), ale glod znaczenia znow gore: Hal zaczal decydowac na marginesie - skreslil petenta jako 'naciagacza', pokazal z duma. Symon przeczytal, ze to prawdziwa nedza pod wstydem (nie naciagacz), cicho przywrocil petenta i naprawil linie mandatu (liczysz, nie decydujesz). Korekta siegnela dumy Hala (nast 54->53), bez zerwania. Nauka: patience nie wykladem - Hal dojrzeje przez wlasne potkniecia; delegowanie wrazliwego wciaz nie ta zima. Thankless cierpliwosc mentora - grunt, ale nie balsam.

@@ -2852,3 +2852,6 @@ Symon ruszył sieć raz jeszcze — Voxa, Leonę, Aldousa, Wata, Harlona, ludzi 
 
 ## 296-12-26 ZMIERZCH — rozmowa z Nestą: ostrzejszy plan, cieplejsza nuta
 Symon rozłożył Neście dzień. Pochwaliła powstrzymanie Godrica — steward wart więcej czysty niż użyty raz, to gra pozycyjna, dojrzałość. Wyostrzyła petycję, bo władzę zna: Wyman Manderly lubi wyglądać na hojnego, więc prośba ma dać lordowi wyglądać wspaniałomyślnie, nie tylko trzymać porządek — skromna, twarz-zachowująca, z chwałą i zasługą po jego stronie; kosztuje nic, kupuje życzliwość. Przypomniała dyscyplinę wobec Theomore'a. A na koniec, ciszej: „Rok temu przyszedłeś zdesperowany i kruchy; dziś przynosisz mi strategię, którą sama bym ułożyła. Zrobił się z ciebie wspólnik." Wyszedł zmęczony, ale z planem ostrzejszym i czymś cieplejszym niż plan.
+
+## 296-12-26 NOC / 12-27 RANEK — sen
+Symon domknął dzień pełen kryzysu i planów — powstrzymany Godric, słaba trzecia zbiórka, ostrzejsza petycja z Nestą, drogi ku mieszczaństwu. Spał twardo. Rankiem dwudziestego siódmego trzaskający mróz, koniec miesiąca blisko. Przed nim: petycja Owena do lorda dojrzewa (~29), wypłata Godrica (~30), cieniejące zapasy na doraźnej łacie (~31). Zwykły zimowy poranek, dzień otwarty.

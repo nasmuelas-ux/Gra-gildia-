@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 26,
+  "dzien": 27,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "zima nadeszla (Polnoc) — dlugie lato dogaslo",
  "pogoda": 22,
- "dzien_tygodnia_nr": 7,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "12-26 RANEK, zima Polnocy, trzaskajacy mroz. Cicho. Zegary: petycja lord/relief (~29, sekwencja Godric->Owen->audiencja Symon-skryba), Godric wyplata (~30), zapasy reliefu cienieja (~31). Pilar doradczy zywy; wielkie watki spia do wiosny.",
+ "nastroje_miasta": "12-27 RANEK, zima Polnocy, trzaskajacy mroz. Koniec miesiaca blisko. Zegary: petycja lord/relief (~29, Owen solo), Godric wyplata (~30), zapasy reliefu cienieja (~31, dorazna lata). Pilar doradczy zywy.",
  "ceny": {
   "chleb": {
    "baza": 3,

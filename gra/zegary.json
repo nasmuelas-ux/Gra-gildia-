@@ -86,6 +86,14 @@
    "opis": "Zapasy reliefu cienieja (gleboki mroz + dodatek kolodziejow, spad mrozu d25 popyt>podaz). Jesli zimowa fala potrwa - trzeba resupply/nowych darczyncow albo racje beda ciac dalej.",
    "co_sie_stanie": "przy dalszej fali mrozu: relief moze nie starczyc - potrzeba mobilizacji nowych zrodel",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "petycja_lord_relief",
+   "typ": "plan/okazja",
+   "odlicza_do": "296-12-31",
+   "opis": "PLAN (Owen rzut 97): petycja do lorda Wymana o wsparcie zimowego reliefu - framing PORZADEK+reputacja (nie litosc), Wiara (Owen) firmuje, Godric podgrzewa dwor, Symon niewidzialny. Adresuje cieniejace zapasy. Timing sprzyja (nedza realna, wladza boi sie rozruchow). Caveat: nazwisko Symona off, skromny twarz-zachowujacy wklad jako 'hojnosc lorda'.",
+   "co_sie_stanie": "jesli uruchomiona: Owen petycjonuje, Godric grunt - mozliwy dosyp reliefu od lorda",
+   "widoczny_graczowi": true
   }
  ]
 }

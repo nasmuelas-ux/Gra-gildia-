@@ -2657,3 +2657,6 @@ Po ciężkiej zmianie Symon poszedł przez śnieg do Serli. W izbie było ciepł
 
 ## 296-12-12 ZMIERZCH — sondowanie o kąt (u Serli)
 Symon wysondował Serlę o wolne kąty w okolicy. Prawda okazała się chuda: głucha zima to najgorszy czas na przeprowadzkę — przyzwoite izby dawno zajęte, ludzie zaszyli się na mróz i nikt się nie rusza, a to, co wolne, to zimne poddasza albo kąt w zatłoczonym domu, przy gospodarzach zdzierających w chłodzie. Serla powiedziała wprost, że przyjęłaby go z powrotem — ale oboje wiedzą, czemu się od niej wyniósł: ściągnąć cechową uwagę i to, co poluje, pod jej dach, znaczyłoby narazić ją i chorego Toma. Najcieplejsza opcja jest zamknięta jego własnym odsłonięciem. Została prosta konkluzja: darmowa cela pod płaszczem Wiary bije każdy zimowy kąt. Rzecz odłożona do wiosny.
+
+## 296-12-12 NOC / 12-13 RANEK — sen w Sepcie
+Symon wrócił przez śnieg do celi przy Sepcie i padł bez czytania — dzień wyżął go do sucha: kocioł i śmierć starej duszy, Merek, pilot na minusie, Tom żywy, kąt niedostępny. Spał twardo, jak nie spał od dawna. Rankiem trzynastego mróz trzymał, śnieg z nocy przysypał zaułki, a miasto było ciche tą ciszą, jaka poprzedza sprawy dojrzewające na zegarach.

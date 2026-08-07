@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 12,
+  "dzien": 13,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 22,
- "dzien_tygodnia_nr": 7,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "12-12 RANEK, mrozno, glucha zima. Wieść z pilotazu ubezpieczen wraca DZIS - pierwszy netto-wynik. Zegary dalej: Winterfell ~12-15, futra ~12-20, Godric ~12-30. TU-I-TERAZ: septa/ubodzy pod zima, utkniety Merek (reframe Nesty).",
+ "nastroje_miasta": "12-13 RANEK, glucha zima, snieg z nocy. Cisza przed zdarzeniami: Merek czeka na odp. wspolnika (~12-16), Winterfell echo (~12-15), futra (~12-20), Godric wyplata (~12-30). Pilotaz ubezp. na minusie (zbierac cykle). TU-I-TERAZ: zima/ubodzy.",
  "ceny": {
   "chleb": {
    "baza": 3,

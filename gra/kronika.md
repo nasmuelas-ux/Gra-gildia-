@@ -2423,3 +2423,6 @@ Symon obchodzi po cichu kregoslup bloku - Harlona, Voxa, Leone - i daje im to, c
 
 ## 296-11-24 POLUDNIE->ZMIERZCH — sluzba i Owen
 Symon staje do sluzby w szczycie mrozu, gdy septa pelna zziębnietych, a relief ledwie nadaza za potrzeba. Robota ciezka i konkretna, jak zwykle po jego stronie. Z Owenem rozmowa spokojna, bez wielkich wiesci - fronty ciche, Winterfell milczy jak milczal. Ale septon, wyczuwajac, ile Symon teraz dzwiga naraz - kartę, sekwencje, audyty, interesy - cicho utwierdza go w tym, co najwazniejsze na ten goracy czas: nie dac dwom wielkim grom zderzyc sie, zostac niewidzialnym, i trzymac srodek, wracajac do tej samej sepckiej podlogi, ktora go ugruntowuje. Nic sie nie 'dzieje', a jednak Symon wychodzi mocniej osadzony. Owen 57->58.
+
+## 296-11-24 wieczor — wieczor z Branem
+Symon lapie Brana juz po robocie i siadaja na kufel tam, gdzie sluzy Alys, jego narzeczona. Nic wielkiego sie nie dzieje - i to jest dobre. Bran jest spokojny i cichy z siebie dumny: proba idzie mu dobrze, a on liczy dni do chwili, gdy bedzie mogl na tym oprzec wlasny kat i slub. Alys, przemykajac z dzbanami, rzuca im cieply usmiech; Symon widzi w tej dwojce zwykla, uczciwa przyszlosc, ktorej po cichu kibicuje. Zwyczajna wieczorna wizyta, ktora nic nie 'zalatwia', a jednak umacnia wiez z czlowiekiem, ktorego hoduje na swojego. Bran 43->44.

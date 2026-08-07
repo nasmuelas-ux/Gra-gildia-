@@ -36,14 +36,14 @@
    "opis": "Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zysk) czy ktorys ucierpial (wyplata). Testuje model ryzyka Symona i oplacalnosc cichego pilaru."
   },
   {
-   "id": "godric_rachunki_wyplata",
-   "termin": "296-11-30",
-   "opis": "Pierwsza cicha wyplata za prowadzenie/audyt rachunkow domu Godrica (braavijski standard), wg rachunku domu na koniec miesiaca. Recurring, dyskretny dochod — akumulacja."
-  },
-  {
    "id": "skory_wywoz",
    "termin": "296-11-??",
    "opis": "Skory (jakosciowe, cena zamrozona) ZESTAGOWANE pod zaladunek do Braavos — czekaja na okno wywozowe/statek (zimowe szlaki sie zwezaja, Belarno ostrzegal). Wyplyna z najblizsza noga; wynik sprzedazy ksiezyce pozniej (jak futra)."
+  },
+  {
+   "id": "godric_rachunki_wyplata",
+   "termin": "296-12-30",
+   "opis": "Kolejna cicha wyplata za ksiegi domu Godrica (recurring, ~miesiecznie)."
   }
  ]
 }

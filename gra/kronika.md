@@ -2312,3 +2312,6 @@ Symon staje do popoludniowej sluzby: rozdzial jalmuzny, Hal przy ksiedze, i drob
 
 ## 296-11-14 ZMIERZCH -> 11-15 — prawo, cwiczenia, walka, sen
 Symon czyta prawo, przecwiczy cialo i bron w celi i spi. Zdrowy rytm; rytm cierpliwosci trwa, najblizej odbior skor ~20.
+
+## 296-11-15 RANEK — materialy na Schodach
+Symon schodzi na Schody po to, co naprawde potrzebne, i nic ponadto. Targ w mrozie na wpol martwy, wiec sprzedawcy radzi platnikowi - kupuje bez targowania sie na noze: trzy arkusze pergaminu, kalamarz dobrego atramentu (braavijska dostawa swiezo w porcie, wiec cena znosna) i wiazke swiec, bo zimowe wieczory sa dlugie, a bez swiatla pioro lezy. Przy szewcu sprawdza buty - jeszcze sluzebne, wiec kaze je tylko natluscic i wymiane odklada; grosz zostaje w kieszeni, dokladnie po myśli cichej akumulacji. Wydaje w sumie okolo poltora jelenia na sam srodek produkcji, reszte trzyma plynna. Nic na pokaz, nic zbytecznego - pisarz uzupelnil warsztat i tyle.

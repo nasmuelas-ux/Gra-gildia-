@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 85,
- "sytosc": 74,
- "zmeczenie": 3,
+ "sytosc": 76,
+ "zmeczenie": 7,
  "sakiewka": {
   "miedziaki": 37,
   "jelenie": 21,
@@ -40,7 +40,8 @@
   "SZKIC 'STRUKTURY KONTENEROWANEJ' (11-10, rzut 86): plan oprawy karty celnej, gotowy przyjac dowod Gartha. RDZEN: proof framowany jako NEUTRALNA nieprawidlowosc celno-rachunkowa (deklaracje frachtu NIE schodza sie z faktycznym ladunkiem — fakt administracyjny, weryfikowalny), NIE jako imienne oskarzenie Antaryona; liczby mowia same, wniosek wyciaga urzednik lorda/cechu, nie Symon/pryncypal (deniowalne). DWIE TRASY: (A) do LORDA jako kwestia cla/dochodu — krzywdzony jest interes lorda (skim dochodu ALBO gouging kupcow pod pozorem cla); lord dziala wlasnym ramieniem, faktor Antaryona scisniety wladza lorda; Godric/standing jako kanal; (B) do KOLODZIEJOW po odzysk — jesli zawyzki gougowaly koszt drewna cechu, cech scia ga restytucje kanalem cechowo-prawnym (Boren, dlug wdziecznosci). SEKWENCJA kontrolowana: najpierw CICHY lewar (faktor curb-uje warunki dlugu Nesty pod grozba, ze rzecz zostanie administracyjna), eskalacja do lorda TYLKO gdy trzeba. DOVETAIL: nieprawidlowosc celna oslabia standing/lewar faktora dokladnie gdy renegocjacja dlugu Antaryonow na stole -> chirurgiczny nacisk zamiast publicznej wojny. PRYNCYPAL i Symon NIEWIDZIALNI. Czeka na dojrzaly dowod Gartha.",
   "MATERIALY PISARSKIE dokupione 11-15: 3 arkusze pergaminu, kalamarz atramentu, wiazka swiec (na zimowe wieczory) — srodek produkcji uzupelniony; buty sprawdzone: sluzebne, natluszczone, wymiana odlozona (dyscyplina)",
   "WIEDZA/DRZEWKO: PODWOJNA KSIEGOWOSC (metoda braavijska) + PRAWO KUPIECKIE BRAAVIJSKIE — opanowane 11-15 od Nesty (rzut 92). Kazda transakcja ksiegowana dwustronnie (winien/ma), ksiega MUSI sie bilansowac -> blad i oszustwo SAME wyskakuja z niezbilansowania. EFEKTY: (1) audyt Symona ostrzejszy (fraud widoczny), (2) MODEL RYZYKA pilotazu ubezpieczen mocniejszy, (3) karta celna = braavijski standard dowodu, ktorego chce pryncypal (zbilansowana ksiega=dowod nie plotka), (4) kantor sprawniejszy. To 'nowoczesna krawedz' z realnego frontu.",
-  "SKORY (spolka egzotyczna) odebrane 11-20 od Colla — jakosciowe, cena zamrozona (okazja vs zimowy rynek), zaplacone ~7 jel z rezerwy spolki (nie z sakiewki); ZESTAGOWANE pod wywoz do Braavos, czekaja na okno/statek"
+  "SKORY (spolka egzotyczna) odebrane 11-20 od Colla — jakosciowe, cena zamrozona (okazja vs zimowy rynek), zaplacone ~7 jel z rezerwy spolki (nie z sakiewki); ZESTAGOWANE pod wywoz do Braavos, czekaja na okno/statek",
+  "KARTA CELNA (zmontowana 11-23): zbilansowana rekoncyliacja celno-rachunkowa (double-entry) - deklaracje frachtu/cla drewna systematycznie ZAWYZONE, rozbieznosc SAMOBRONNA i NEUTRALNA (fakt administracyjny, nie imienne oskarzenie). Zrodlo (Garth) CHRONIONE: karta opiera sie glownie na WEWNETRZNYCH niespojnosciach deklaracji + publicznie-sprawdzalnych cross-refach; potwierdzenie 'faktycznego frachtu' zostawione WLADZY do weryfikacji jej wlasnym dostepem (burden-flip) - nie cytuje prywatnych liczb Gartha. KSZTALT = hook dosc mocny, by ZMUSIC oficjalna weryfikacje (jak submisja Winterfell), nie self-contained wyrok. GOTOWA do struktury kontenerowej (cichy lewar->lord/Godric lub kolodzieje). GORACY dokument - zabezpieczyc, kompartmentalizowac."
  ],
  "reputacja": {
   "port": 21,
@@ -63,8 +64,8 @@
   "walka": 6
  },
  "licznik_uzyc": {
-  "pismo": 68,
-  "rachunki": 72,
+  "pismo": 69,
+  "rachunki": 73,
   "prawo": 83,
   "retoryka": 65,
   "jezyki": 66,

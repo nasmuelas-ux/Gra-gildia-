@@ -75,7 +75,9 @@
    "odlicza_do": "296-12-26",
    "opis": "Ustawic ksiegi zarzadcze Harlona (solarz) - usluga premium pod dyskrecja. Reszta fee na dostawie.",
    "co_sie_stanie": "dostarczenie uslugi Harlonowi - saldo fee",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "ROZSTRZYGNIETY": "296-12-23 (rzut 60): dostarczone czysto od razu, saldo 5 jel, dyskrecja trzyma.",
+   "zamkniety": true
   }
  ]
 }

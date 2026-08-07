@@ -1025,11 +1025,12 @@
    "przydomek": "",
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
-   "nastawienie_do_gracza": 30,
-   "zaufanie": 11,
+   "nastawienie_do_gracza": 32,
+   "zaufanie": 12,
    "wie_o_graczu": [
     "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca",
-    "d23 (rzut 71): reconnect na konkrecie (nie czulosci - twardy solarz). Audyt Symona (faktor go skracal) przekonal go na tyle, ze chce STALEJ uslugi zarzadczej - wziety jako zakotwiczony klient pod DYSKRECJA, za uczciwa cene. Zadatek 2 jel, robota przy ksiegach niebawem. Kontrolowany wzrost pilaru (znany/zaufany kontakt, nie glosny inbound)."
+    "d23 (rzut 71): reconnect na konkrecie (nie czulosci - twardy solarz). Audyt Symona (faktor go skracal) przekonal go na tyle, ze chce STALEJ uslugi zarzadczej - wziety jako zakotwiczony klient pod DYSKRECJA, za uczciwa cene. Zadatek 2 jel, robota przy ksiegach niebawem. Kontrolowany wzrost pilaru (znany/zaufany kontakt, nie glosny inbound).",
+    "d23 wieczor (rzut 60): Symon dostarczyl ksiegi zarzadcze od razu - czysto; uwidocznil, gdzie fracht i faktor ze sieci wielkich domow tocza mu grosz (potwierdzil/wyostrzyl audyt). Zaplacil saldo 5 jel, dyskrecja trzyma. Zadowolony zakotwiczony klient."
    ],
    "ostatni_kontakt": "296-12-23",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",

@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 85,
- "sytosc": 74,
- "zmeczenie": 3,
+ "sytosc": 71,
+ "zmeczenie": 6,
  "sakiewka": {
   "miedziaki": 24,
   "jelenie": 21,
@@ -42,7 +42,8 @@
   "WIEDZA/DRZEWKO: PODWOJNA KSIEGOWOSC (metoda braavijska) + PRAWO KUPIECKIE BRAAVIJSKIE — opanowane 11-15 od Nesty (rzut 92). Kazda transakcja ksiegowana dwustronnie (winien/ma), ksiega MUSI sie bilansowac -> blad i oszustwo SAME wyskakuja z niezbilansowania. EFEKTY: (1) audyt Symona ostrzejszy (fraud widoczny), (2) MODEL RYZYKA pilotazu ubezpieczen mocniejszy, (3) karta celna = braavijski standard dowodu, ktorego chce pryncypal (zbilansowana ksiega=dowod nie plotka), (4) kantor sprawniejszy. To 'nowoczesna krawedz' z realnego frontu.",
   "SKORY (spolka egzotyczna) odebrane 11-20 od Colla — jakosciowe, cena zamrozona (okazja vs zimowy rynek), zaplacone ~7 jel z rezerwy spolki (nie z sakiewki); ZESTAGOWANE pod wywoz do Braavos, czekaja na okno/statek",
   "KARTA CELNA (zmontowana 11-23): zbilansowana rekoncyliacja celno-rachunkowa (double-entry) - deklaracje frachtu/cla drewna systematycznie ZAWYZONE, rozbieznosc SAMOBRONNA i NEUTRALNA (fakt administracyjny, nie imienne oskarzenie). Zrodlo (Garth) CHRONIONE: karta opiera sie glownie na WEWNETRZNYCH niespojnosciach deklaracji + publicznie-sprawdzalnych cross-refach; potwierdzenie 'faktycznego frachtu' zostawione WLADZY do weryfikacji jej wlasnym dostepem (burden-flip) - nie cytuje prywatnych liczb Gartha. KSZTALT = hook dosc mocny, by ZMUSIC oficjalna weryfikacje (jak submisja Winterfell), nie self-contained wyrok. GOTOWA do struktury kontenerowej (cichy lewar->lord/Godric lub kolodzieje). GORACY dokument - zabezpieczyc, kompartmentalizowac.",
-  "BARWNIKI TYRIJSKIE (proba, 11-25): PODRZEDNA JAKOSC / czesciowo cieta - purpura mizerna, NIE osiaga premium; Nesta oko zlapala. Proba = maly wash/strata (~5 jel netto z rezerwy spolki: 4 zadatek+~5 reszta za towar wart ~4-5). Import egzotyczny NIEDOWIEDZIONY. Skrzynia do uplynniania po ile sie da."
+  "BARWNIKI TYRIJSKIE (proba, 11-25): PODRZEDNA JAKOSC / czesciowo cieta - purpura mizerna, NIE osiaga premium; Nesta oko zlapala. Proba = maly wash/strata (~5 jel netto z rezerwy spolki: 4 zadatek+~5 reszta za towar wart ~4-5). Import egzotyczny NIEDOWIEDZIONY. Skrzynia do uplynniania po ile sie da.",
+  "SYSTEM RACHUNKOWOSCI ZARZADCZEJ (wdrozony w kantorze 11-28, rzut 91): (1) KOSZT JEDNOSTKOWY - ile kosztuje bochenek/arkusz/rejs z materialem+czasem+stratami -> wiadomo, ktore linie/zlecenia zywia, ktore sa stratne; (2) KOSZT ZAMROZONEGO KAPITALU / wartosc czasu - towar lezacy kosztuje choc nikt nie wystawil rachunku; (3) AMORTYZACJA - odkladac na zuzycie wozu/prasy/statku zamiast byc zaskoczonym; (4) PROGNOZA CASH-FLOW - 'czy w 3. tygodniu bede mial czym zaplacic' nie tylko 'ile mam'; (5) ROZPROSZONA REZERWA RYZYKA - % od kazdego rejsu na ten co nie wroci (komplement do pilotazu ubezpieczen=wersja zewnetrzna). DURABLE competitive EDGE: lepsze decyzje niz rywale ceniący 'jak wszyscy', przezycie zim, poprawna wycena ryzyka. Wzmacnia: model ryzyka ubezpieczen, audyty, cicha akumulacja. Nesta czesc znala braavijsko, ale SYSTEMOWE ujecie=wyprzedza nawet Braavos; przyjete z caveatem skali (nie zbiurokratyzowac nimble kantoru)."
  ],
  "reputacja": {
   "port": 21,
@@ -66,14 +67,14 @@
  },
  "licznik_uzyc": {
   "pismo": 71,
-  "rachunki": 75,
+  "rachunki": 76,
   "prawo": 91,
   "retoryka": 68,
   "jezyki": 66,
   "spryt_uliczny": 86,
   "kondycja": 79,
   "rzemioslo": 0,
-  "handel": 63,
+  "handel": 64,
   "walka": 40
  },
  "jezyki_znane": [

@@ -2330,3 +2330,6 @@ Symon wchodzi do Godrica dokladnie tak, jak go kiedys zdobyl: cicho, bez prosby,
 
 ## 296-11-16 wieczor — kufel z Denysem
 Symon lapie Denysa juz po zmierzchu, gdy kram wosku zwiniety, i ciagnie go nie do interesow, lecz na kufel. I robi jedyna rzecz, ktora z Denysem dziala: nic nie robi. Zadnego manewru, zadnego kata, zadnej prosby — po prostu siada, stawia piwo i rozmawia po ludzku. Woskarz zrazu jest zarezerwowany, bo pamieta, ze raz zostal rozegrany i poczul to; czujnosc siedzi mu w ramionach. Ale przy drugim kuflu, gdy widzi, ze Symon naprawde niczego nie podchodzi — gada o wosku, o mrozie, o tym, jak zima tnie handel — cos w nim mieknie. Nie jest to zadne wielkie pojednanie; to jeden szczery wieczor, jeden krok w powolnej odbudowie zaufania, ktore samo musi dojrzec. Wazne jest, ze Symon ani razu nie wsunal sie w granie — zostal soba, dokladnie tak, jak uczyla Nesta: z Denysem autentycznosc jest jedyna waluta, wlasnie dlatego, ze raz przylapal jej brak. Wychodzi nie z niczym w reku, lecz z relacja o notch cieplejsza i wlasnym sumieniem czystym. Denys 18->21.
+
+## 296-11-16 wieczor -> 11-17 — silownia, sen
+Symon wraca do septy, przecwiczy cialo i spi po dniu, ktory dal mu Godrica i szczery kufel z Denysem. Opal wciaz 1.5x; alarm cichy.

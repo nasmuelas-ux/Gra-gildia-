@@ -2387,3 +2387,6 @@ Symon wraca do kantoru na wieczorna robote przy swiecach z wlasnego zakupu. Nic 
 
 ## 296-11-20 wieczor -> 11-21 — prawo, sen
 Symon czyta prawo i spi. Opal pnie sie dalej: 1.6->1.7, mroz glebszy, popyt ostry - okno sprzedazy juz blisko (cel ~1.8-2x). Alarm napiety.
+
+## 296-11-21 RANEK->POLUDNIE — Harlon: spina niecierpliwa
+Symon je i idzie do Harlona, najdluzej niewidzianej cegly. Twardy handlarz sola przyjmuje go bez cienia chlodu - stoi w bloku jak stal, bez tego strachu, ktory paralizuje slabszych. Ale przy tej wizycie slychac nowa nute: nawet Harlon, z natury chetny do ruchu, zaczyna sie niecierpliwic. Standing przeciw Antaryonom wisi juz dlugo, a nic sie nie dzieje - 'kiedy w koncu ruszymy na te pijawki?', pyta wprost. To nie chwianie sie; to restlessness spiny, ktora chcialaby juz uderzyc. Symon uspokaja go tak, jak musi: ruch przyjdzie, gdy dojrzeje dowod, a przedwczesny cios bez twardej sprawy tylko by ich odslonil - trzeba jeszcze cierpliwosci. Harlon przyjmuje to, mruczac, ale Symon wychodzi z jasnym sygnalem: napiecie miedzy cierpliwoscia a spoistoscia bloku rosnie, i dane Gartha musza dojrzec, zanim niecierpliwosc zacznie ciazyc nawet najtwardszym. Harlon 16->18.

@@ -3005,3 +3005,6 @@ Symon poszedl na targ o kamieniczke z pelnym prepem Nesty. Zamknal desperat-sprz
 
 ## 297-01-06 POPOLUDNIE - Torren zamyka kamieniczke (rzut 53)
 Symon poszedl do Torrena zamknac transakcje. Podpisal papiery, zaangazowal wklad 85 jel (depozyt 122->37 jel rezerwy) + finansowanie kantoru (~27 teraz + linia ~30 na dach; dlug ~57 obslugiwany czynszem). Torren zamyka precyzyjnie, nie szybko: splata zastawu Ostyna->pisemne zwolnienie->przeniesienie tytulu->rejestracja, gotowe w kilka dni (~01-09), wtedy klucze. Koszt rzutu 53: oplaty ciut wyzsze (premium wierzyciela), rejestr swoim tempem. Pierwsza wlasnosc zycia Symona - na papierze, czeka na piecz. Torren zauf 4->5 (de facto jego prawnik od nieruchomosci).
+
+## 297-01-06 POPOLUDNIE - sluzba w sepcie (rzut 12)
+Tego samego dnia, gdy zaangazowal 85 jel i dlug w kamieniczke, Symon przyszedl sluzyc ubogim (listy jalmuzny, czytanie potrzeby). Czyn liczy sie u Owena - drobne ocieplenie po studzeniu (nast 64->65, rep wiara 58->59). ALE sluzba nie dala spokoju, po ktory przyszedl: zimowa nedza ciezka i poza zasiegiem piora, a on czul sprzecznosc - hipoteka w jednej rece, chuda polewka w drugiej. Owen zobaczyl niepokoj i nie wygladzil go - dal mu z tym posiedziec. Symon wyszedl ciezszy, nie lzejszy. Grunt okazal sie splintem.

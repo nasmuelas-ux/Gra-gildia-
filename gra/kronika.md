@@ -2660,3 +2660,6 @@ Symon wysondował Serlę o wolne kąty w okolicy. Prawda okazała się chuda: g�
 
 ## 296-12-12 NOC / 12-13 RANEK — sen w Sepcie
 Symon wrócił przez śnieg do celi przy Sepcie i padł bez czytania — dzień wyżął go do sucha: kocioł i śmierć starej duszy, Merek, pilot na minusie, Tom żywy, kąt niedostępny. Spał twardo, jak nie spał od dawna. Rankiem trzynastego mróz trzymał, śnieg z nocy przysypał zaułki, a miasto było ciche tą ciszą, jaka poprzedza sprawy dojrzewające na zegarach.
+
+## 296-12-13 RANEK — dzień pod górkę przy manifestach
+Symon zjadł owsiankę i poszedł do kantoru po robotę. Dzień trafił się kwaśny: duża konsygnacja nie chciała się zgodzić z tally — klerk faktora galery liczył niechlujnie. Symon miał rację co do joty, papier był po jego stronie; ale kiedy pokazał błąd, faktor się obruszył, że młody, obcojęzyczny skryba śmie go poprawiać. To znów była jego stara luka: bezbłędny na papierze, słaby na człowieku. Nesta wzięła ludzką stronę na siebie — ugładziła faktora paroma braavijskimi zdaniami i uśmiechem, którego Symon nie ma — a on dostarczył żelazną rachubę. Sprawę domknięto, ale kwaśno; klerk faktora wyszedł nadąsany, że go zawstydzono przy swoich. Drobny zadr, którego wolałby nie robić.

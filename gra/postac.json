@@ -67,7 +67,8 @@
   "kondycja": 7,
   "rzemioslo": 1,
   "handel": 7,
-  "walka": 6
+  "walka": 6,
+  "geometria": 3
  },
  "licznik_uzyc": {
   "pismo": 75,

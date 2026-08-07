@@ -17,7 +17,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Zdrowie 85 · Sytosc 50 · Zmeczenie 20
 
 ## UMIEJETNOSCI (0-10)
-pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 4
+pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6
 **Reputacja:** port 21 · schody_zamkowe 24 · cech_pisarzy -6 · wiara 55 · zamek 5 · cech_kolodziejow 27
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY
 

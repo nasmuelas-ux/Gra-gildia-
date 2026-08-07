@@ -2825,3 +2825,6 @@ Symon odwiedził Donnela w martwym zimowym miesiącu, gdy budowniczy siedzą bez
 
 ## 296-12-25 — META: umiejętność „czytanie ludzi"
 Sformalizowana nowa umiejętność: czytanie_ludzi = 4 (licznik 22). Do tej pory ta zdolność wisiała rozmyta między spryt_uliczny (cwaniactwo/sytuacje) a retoryką (perswazja) i była traktowana jako jakościowa słabość Symona. Wyodrębniona jako osobny, spójny wymiar — czytanie żywej twarzy, ukrytych motywów, negocjacja na gorąco — jego najsłabsza strona społeczna, z dużym miejscem do wzrostu. Nauczyciele: Owen (serca), Nesta (kupiecko). Rośnie przez realne stawki i potknięcia, nie przez wykład. Analogicznie do wcześniejszego wyodrębnienia geometrii.
+
+## 296-12-25 — META KOREKTA: czytanie_ludzi 4→6
+Poprawka wartości: 4 było zaniżone — przeważyło narracyjną „słabość" nad faktyczną praktyką i wygranymi (rozbrojenie Mereka, okiełznanie Wata rzut 89, Leona, godność kołodziejów, cały cast klientów i mentorów). Realne luki są wąskie: orkiestracja/manipulacja (Denys — świadomie nieuprawiana, edge to autentyczność) oraz zimny read wrogiego, zamkniętego profesjonalisty w twardej negocjacji (Coran, Ternesio). Uczciwa wartość: 6 — solidnie kompetentny z granicą na tych dwóch, poniżej spryt 8, wyraźnie powyżej „papierowego nieudacznika". licznik 58 (obfita praktyka).

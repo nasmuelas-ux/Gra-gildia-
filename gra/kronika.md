@@ -2333,3 +2333,6 @@ Symon lapie Denysa juz po zmierzchu, gdy kram wosku zwiniety, i ciagnie go nie d
 
 ## 296-11-16 wieczor -> 11-17 — silownia, sen
 Symon wraca do septy, przecwiczy cialo i spi po dniu, ktory dal mu Godrica i szczery kufel z Denysem. Opal wciaz 1.5x; alarm cichy.
+
+## 296-11-17 RANEK->POLUDNIE — ksiegi domu Godrica
+Symon je i siada do nowej, cichej roboty: rachunki domu Godrica. Pierwsza sesja idzie spokojnie i kompetentnie — poznaje uklad ksiag, zaczyna przekladac je na braavijska metode podwojnego zapisu, porzadkuje kilka luznych, niechlujnie prowadzonych pozycji. Nic dramatycznego, zadnego fraudu — po prostu solidne, wartosciowe sprzatanie liczb, ktore dom widzi i docenia. Symon trzyma sie przy tym zelaznej zasady, ktora go z Godrikiem zwiazala: patrzy tylko tam, gdzie mu zadano, i o reszcie milczy. Z kazda taka sesja jego znajomosc ksiag domu i cichy dostep rosną, a dochod narasta ku pierwszej wyplacie pod koniec miesiaca. Robota niepozorna, lecz dokladnie taka, jakiej chce cicha akumulacja: platna, dyskretna, osadzajaca go coraz glebiej przy dworze. Godric 42->43.

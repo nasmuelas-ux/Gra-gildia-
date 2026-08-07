@@ -2720,3 +2720,6 @@ Kasuję wymyśloną konfrontację z Garthem. Poprawnie: Symon poprosił Gartha p
 
 ## 296-12-16 NOC / 12-17 RANEK — prawo i sen
 Wieczór nad prawem poszedł ospale — zmęczona, przeciętna sesja, litery bez iskry. Symon zasnął szybko. Rankiem siedemnastego mróz zelżał, port wciąż skuty, miasto ciche. Zwykły zimowy poranek; w głowie zostaje jasny następny krok w sprawie Mereka — wziąć jego własne kopie i przejechać je pod kątem ciągłości.
+
+## 296-12-17 RANEK — kopie Mereka, czyste
+Symon zjadł, wziął od Mereka jego własne kopie i przejechał je pod kątem ciągłości: numeracja, czas, zgodność z tym, co Merek sam pamięta. I wyszły czyste. Numery idą po kolei, daty w rytmie, kwoty grają. To nie znaczy, że nic nie ma — znaczy, że jeśli coś jest, siedzi po stronie wspólnika, tam gdzie Merek nie sięga wzrokiem. Symon uczciwie zważył bilans wysiłku: dwie tanie nogi już suche — cło zamroziła zima, kopie okazały się bez skazy. Została jedna realna dźwignia, która potrafi sięgnąć na stronę wspólnika bez jego zgody: potwierdzenie stron trzecich — Merek prosi własnych dostawców czy odbiorców, by potwierdzili konkretne wspólne transakcje, i porównuje z tym, co w księgach. Ale to już robota z ludźmi, nie z papierem, i przy małym kliencie bez fee trzeba zważyć, ile jest warta.

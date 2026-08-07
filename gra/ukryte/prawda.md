@@ -178,3 +178,6 @@ Symon przycisnal Gartha (rzut 60) i wydusil cienkie zimowe fragmenty celne. Luka
 
 ## 296-12-16 (UKRYTE) KOREKTA diligencji
 Anulowane: NIE bylo przyciskania Gartha ani sugestywnego leadu. Poprawnie: Symon poprosil Gartha po przyjacielsku, ten pomogl, ale zimowy slad celny za cienki na bilans masy - noga jalowa, NIC nie wyszlo, zero kosztu relacji (Garth 28). Prawda bazowa bez zmian: wspolnik Mereka lekko skima (61), ale ta noga tego NIE ujawnila. Symon nie ma jeszcze zadnego tropu.
+
+## 296-12-17 (UKRYTE) kopie Mereka
+rzut 29: kopie Mereka faktycznie CZYSTE - bo skim (61) siedzi po stronie wspolnika, nie Mereka. Symon slusznie wnioskuje, ze jego strona czysta i manipulacja (jesli jest) jest po tamtej stronie - ale to zaden dowod. Trop nadal ukryty; jedyna realna droga = triangulacja przez strony trzecie.

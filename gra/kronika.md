@@ -2996,6 +2996,3 @@ Symon poszedl do Owena 'pogadac' u schylku dnia, uzbrojony na jutrzejszy targ o 
 Noc cicha, sen odswiezyl. Symon zasnal z decyzja o kamieniczce odlozona na rano - fork Nesta(brac)/Owen(czekac) niezamkniety. Zegary spia (draw ~01-19). Rano glodny.
 ## 297-01-06 RANEK - posilek
 Symon zjadl wspolna owsianke w sepcie z ubogimi/sierotami (darmo pod dachem). Sytosc 22->55. Grunt wsrod ludu - echo wczorajszej rady Owena.
-
-## 297-01-06 RANEK - Torren (rzut 17)
-Symon poszedl do Torrena szukac prawnej furtki: jak kupic kamieniczke tak, by byla aktywem pod mieszczanstwo, a zarazem trudna do zajecia. Torren zimna litera scial nadzieje - nie ma takiej drogi. Nieruchomosc w murach jest z natury w rejestrze, opodatkowana, osiagalna; kazdy wrapper co ja zaslania albo niweczy jej sens (nie da korzenia/standingu), albo jest kruchy i moze wysadzic wniosek albo sciagnac uwage. Nie oba naraz. To potwierdzilo instynkt Owena. Komplikacja: pytanie 'jak zrobic dom trudnym do zajecia' zabrzmialo czujnemu Torrenowi dziwnie - drobna rysa (zaufanie 4->3). Fork okazal sie prawdziwy i binarny: korzen z ekspozycja teraz, albo czekanie.

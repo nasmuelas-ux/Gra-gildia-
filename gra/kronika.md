@@ -3008,3 +3008,6 @@ Symon poszedl do Torrena zamknac transakcje. Podpisal papiery, zaangazowal wklad
 
 ## 297-01-06 POPOLUDNIE - sluzba w sepcie (rzut 12)
 Tego samego dnia, gdy zaangazowal 85 jel i dlug w kamieniczke, Symon przyszedl sluzyc ubogim (listy jalmuzny, czytanie potrzeby). Czyn liczy sie u Owena - drobne ocieplenie po studzeniu (nast 64->65, rep wiara 58->59). ALE sluzba nie dala spokoju, po ktory przyszedl: zimowa nedza ciezka i poza zasiegiem piora, a on czul sprzecznosc - hipoteka w jednej rece, chuda polewka w drugiej. Owen zobaczyl niepokoj i nie wygladzil go - dal mu z tym posiedziec. Symon wyszedl ciezszy, nie lzejszy. Grunt okazal sie splintem.
+
+## 297-01-07 RANEK
+Noc w celi Septy. Symon zasnal niespokojny (drzazga po sluzbie - sprzecznosc hipoteka-vs-nedza), ale cialo odpoczelo. Zegary spia: kamieniczka_zamkniecie ~01-09, draw ~01-19. Rano chlodny, glodny.

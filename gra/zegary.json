@@ -90,8 +90,8 @@
   {
    "id": "petycja_lord_relief",
    "typ": "plan/okazja",
-   "odlicza_do": "296-12-31",
-   "opis": "PLAN (Owen rzut 97): petycja do lorda Wymana o wsparcie zimowego reliefu - framing PORZADEK+reputacja (nie litosc), Wiara (Owen) firmuje, Godric podgrzewa dwor, Symon niewidzialny. Adresuje cieniejace zapasy. Timing sprzyja (nedza realna, wladza boi sie rozruchow). Caveat: nazwisko Symona off, skromny twarz-zachowujacy wklad jako 'hojnosc lorda'.",
+   "odlicza_do": "296-12-29",
+   "opis": "PLAN (Owen rzut 97): petycja do lorda Wymana o wsparcie zimowego reliefu - framing PORZADEK+reputacja (nie litosc), Wiara (Owen) firmuje, Godric podgrzewa dwor, Symon niewidzialny. Adresuje cieniejace zapasy. Timing sprzyja (nedza realna, wladza boi sie rozruchow). Caveat: nazwisko Symona off, skromny twarz-zachowujacy wklad jako 'hojnosc lorda'. || SYMON IDZIE jako SKRYBA Owena (przykrywka+obserwacja z bliska). Sekwencja: zaprimowac Godrica -> Owen prosi o audiencje -> Symon-skryba. Ryzyko: oko Theomore'a (grac mebla bez skazy). Termin audiencji ~kilka dni (dwor).",
    "co_sie_stanie": "jesli uruchomiona: Owen petycjonuje, Godric grunt - mozliwy dosyp reliefu od lorda",
    "widoczny_graczowi": true
   }

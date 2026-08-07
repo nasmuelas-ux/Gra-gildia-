@@ -1150,13 +1150,14 @@
    "wiek": 47,
    "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 11,
-   "zaufanie": 0,
+   "nastawienie_do_gracza": 15,
+   "zaufanie": 3,
    "wie_o_graczu": [
     "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)",
-    "Symon rozbroil jego strach uczciwie (nie manipulacja): wspolnicy godzacy ksiegi to porzadek, nie oskarzenie - jesli wszystko czyste, wspolnik odetchnie. Merek ulzony, zgadza sie zaproponowac RUTYNOWE wspolne pogodzenie ksiag, z Symonem jako neutralnym rachmistrzem. KOSZT: otwarta forma = utrata zaskoczenia (jesli wspolnik oszukuje, dostanie czas ubrac ksiegi). Zalezne od zgody wspolnika."
+    "Symon rozbroil jego strach uczciwie (nie manipulacja): wspolnicy godzacy ksiegi to porzadek, nie oskarzenie - jesli wszystko czyste, wspolnik odetchnie. Merek ulzony, zgadza sie zaproponowac RUTYNOWE wspolne pogodzenie ksiag, z Symonem jako neutralnym rachmistrzem. KOSZT: otwarta forma = utrata zaskoczenia (jesli wspolnik oszukuje, dostanie czas ubrac ksiegi). Zalezne od zgody wspolnika.",
+    "d17 (rzut 78): Symon domknal sprawe UCZCIWIE - powiedzial wprost: twoja strona czysta, wiec skim (jesli jest) po stronie wspolnika; bez jego ksiag/potwierdzenia kontrahenta nie ma czystego dowodu. Oddal decyzje. NIE milkowal, nie dorabial sprawy, nie topil fee - integrity. Merek ulzony i wdzieczny (prosto zamiast strachu i kosztow), wcisnal drobne honorarium 2 jel za czas/diligencje. Zdecydowal miekko (zgodnie z natura konfliktofoba): NIE konfrontowac ostro - pilnowac wspolnika, zaciesnic wlasna ksiegowosc, drzwi otwarte do waskiego potwierdzenia stron trzecich jesli podejrzenie urosnie. Bedzie mowil o Symonie jak o prostym, uczciwym czlowieku, co nie doi klienta."
    ],
-   "ostatni_kontakt": "296-12-12",
+   "ostatni_kontakt": "296-12-17",
    "cechy_mowy": "gadatliwy, nerwowy gdy o pieniadzach",
    "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane",
    "historia": [

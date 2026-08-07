@@ -261,7 +261,7 @@
     "kontrola z zamku",
     "wlasny slaby wzrok do drobnego pisma"
    ],
-   "nastawienie_do_gracza": 22,
+   "nastawienie_do_gracza": 24,
    "zaufanie": 10,
    "wie_o_graczu": [
     "pisze szybko i czysto",
@@ -281,8 +281,11 @@
     "Symon sprowadza opal/drewno Bialym Nozem (rejs ~11-09) — przejdzie przez clo Bramy Foki; interes legalny"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-11-13",
-   "cechy_mowy": "urzedowo, ostroznie, duzo 'wedle przepisu'; chrzaka"
+   "ostatni_kontakt": "296-11-22",
+   "cechy_mowy": "urzedowo, ostroznie, duzo 'wedle przepisu'; chrzaka",
+   "historia": [
+    "m11d22 (rzut 79): dyskretna ocena dojrzalosci danych. Garth przez tygodnie cicho nazbieral SOLIDNY, spojny obraz: deklaracje frachtu/cla drewna SYSTEMATYCZNIE zawyzone/niespojne, rozbieznosc DOKUMENTOWALNA. Wskazuje na szyprow w orbicie sieci Antaryona. Garth kooperuje, potwierdza, ale ma LIMITY (celnik ryzykuje - nie chce byc odslonietym zrodlem) i prosi o dalsza dyskrecje. Nast 22->24."
+   ]
   },
   {
    "id": "pate_skryba",

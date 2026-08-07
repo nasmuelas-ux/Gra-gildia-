@@ -2675,3 +2675,6 @@ Symon poszedł ćwiczyć z Branem na zapleczu, myśląc o Harwinie i o własnej 
 
 ## 296-12-13 NOC / 12-14 RANEK — opatrunek i sen
 Symon wrócił do Sept, gdzie septa Lyra owinęła mu opuchniętą rękę zimnym okładem i płótnem, a Owen, widząc siniejące palce, powiedział tylko cicho, że dłoń to jego chleb i żeby jej pilnował lepiej niż kiesy. Symon zasnął z ręką na piersi. Rankiem czternastego palce wciąż tkliwe i grube, pióro będzie dziś ciążyć — ale opuchlizna zaczyna schodzić, a reszta ciała wypoczęta. Mróz trzyma, miasto pod śniegiem czeka na sprawy dojrzewające na zegarach.
+
+## 296-12-13 — KOREKTA (spójność: walka/kondycja)
+Sprostowanie: opis sparingu z Branem był zaniżony wobec karty. Symon ma walkę 6 i kondycję 7 — jest sprawny i zaprawiony, nie „papierowy". Trzymał się w starciu dobrze; przewagę dawała Branowi sama masa w zwarciu, a knock w rękę był pechem wymiany przy słabym dniu (niski rzut), nie dowodem nieudolności. Fałszywy morał „ciało nigdy nie będzie twoją bronią" wycofano — pięść jest realnym, choć nie głównym narzędziem Symona. Uraz (tkliwa ręka do d15) zostaje jako zwykły pech sparingu.

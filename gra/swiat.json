@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 24,
+  "dzien": 25,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "zima nadeszla (Polnoc) — dlugie lato dogaslo",
  "pogoda": 22,
- "dzien_tygodnia_nr": 5,
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "12-24 RANEK, zima Polnocy, trzaskajacy mroz. Cicho. Zegary: Godric wyplata (~12-30). Pilar doradczy zywy; wielkie watki spia do wiosny.",
+ "nastroje_miasta": "12-25 RANEK, zima Polnocy, trzaskajacy mroz. Cicho, koniec miesiaca sie zbliza. Zegary: Godric wyplata (~12-30). Pilar doradczy zywy; wielkie watki spia do wiosny.",
  "ceny": {
   "chleb": {
    "baza": 3,

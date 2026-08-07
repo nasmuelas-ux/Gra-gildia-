@@ -2618,3 +2618,6 @@ Symon czyta prawo i spi. Lada dzien wynik pilotazu ubezpieczen (~12).
 
 ## 296-12-10 RANEK->POLUDNIE — cicha sluzba
 Symon je i staje do sluzby - dzien zwyczajny, spokojniejszy niz tamten ciezki wieczor, bo druga fala reliefu jeszcze grzeje: pod septa nieco mniej rozpaczy, wiecej strawy w garnkach. Owen wdzieczny i cieply, robota idzie rownym rytmem, Hal przy ksiedze. Nic wielkiego - po prostu kotwica, ktora trzyma. Winterfell wciaz milczy, okno dopiero za kilka dni.
+
+## 296-12-10 POLUDNIE->ZMIERZCH — Elna i Wenda
+Symon robi cieplą runde po ludzku. U Elny dobrze i cicho: wdowa bezpieczna pod kolodziejami, wdzieczna jak zawsze, i jak to ona - zaraz zaczyna oddawac, sadza go przy ogniu, karmi, blogoslawi; Symon wychodzi pokrzepiony (Elna 30->33). U Wendy dziekuje jej za obie skladki reliefowe, ktore skrzykiwala wsrod przekupek - stara sie usmiecha szorstko, rada, ze jej robota miala sens; przy okazji daje puls dolu: po drugiej fali w zaulkach nieco lzej, ale mroz nie odpuszcza i grudzien bedzie dlugi (Wenda 28->30). Zwykle, cieplе wizyty, ktore trzymaja go korzeniami w tym, co wazne.

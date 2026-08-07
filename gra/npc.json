@@ -68,7 +68,7 @@
     "konkurencja z drugiego konca targu",
     "poborca cechowy"
    ],
-   "nastawienie_do_gracza": 28,
+   "nastawienie_do_gracza": 30,
    "zaufanie": 10,
    "wie_o_graczu": [
     "pisze tanio",
@@ -81,11 +81,12 @@
     "spisal ZA DARMO umowe malzenska dla jej corki Bess i jego audytorskie oko wychwycilo, ze rodzina pana mlodego zanizala zwrot posagu — ochronil jej interes; ogromna wdziecznosc"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-11-27",
+   "ostatni_kontakt": "296-12-10",
    "cechy_mowy": "glosno, dosadnie, przeklina 'na siedmiu piekiel'; mowi 'chlopcze'",
    "historia": [
     "m11d13: cieply kontakt na gasnacym targu; Wenda rada (pamieta relief, skrzykiwala przekupki). Puls dolu: zima gryzie bieda mocno, ale sept-relief PAMIETANY, imie Symona ciche-dobre wsrod malych ludzi (baza realna). Nugget: Wenda flaguje potrzebujaca rodzine na liste jalmuzny (przekazac Owenowi). Nast 23->26.",
-    "m11d27 wieczor (rzut 24): przelotny, cieply dusk-catch przy zwijanym targu; krotki puls dolu; 26->28"
+    "m11d27 wieczor (rzut 24): przelotny, cieply dusk-catch przy zwijanym targu; krotki puls dolu; 26->28",
+    "m12d10 rzut37: podziekowanie za dwie skladki reliefowe, cieplo; puls dolu - biedota po drugiej fali nieco lzej, ale mroz nie odpuszcza. 28->30"
    ]
   },
   {
@@ -682,7 +683,7 @@
     "Lorren",
     "glod dzieci"
    ],
-   "nastawienie_do_gracza": 30,
+   "nastawienie_do_gracza": 33,
    "zaufanie": 7,
    "wie_o_graczu": [
     "skryba przejrzal drapiezna umowe Lorrena",
@@ -697,11 +698,12 @@
      "nota": "umowa NIEPODPISANA — dzieki Symonowi; pod ochrona cechu"
     }
    ],
-   "ostatni_kontakt": "296-11-27",
+   "ostatni_kontakt": "296-12-10",
    "cechy_mowy": "cicha, zmeczona, twarda; 'chlopcze'",
    "historia": [
     "m11d11: Symon wpadl po ludzku. Elna bezpieczna pod opieka kolodziejow (schronienie+robota przy cechu) i na liscie reliefu — radzi sobie, cieplo w izbie. Przyjmuje go z gleboka wdziecznoscia i ODDAJE cieplo: karmi go, ceruje mu plaszcz, blogoslawi. Czysta, wzajemna wiez. Nast 24->28.",
-    "m11d27 wieczor (rzut 24): cieply modest - Elna bezpieczna pod kolodziejami, wdzieczna; zostawil cos cieplego; zwyczajna dobra chwila. 28->30"
+    "m11d27 wieczor (rzut 24): cieply modest - Elna bezpieczna pod kolodziejami, wdzieczna; zostawil cos cieplego; zwyczajna dobra chwila. 28->30",
+    "m12d10 rzut55: cieply, szczery wieczor - Elna bezpieczna pod kolodziejami, wdzieczna, oddaje cieplem (strawa/blogoslawienstwo); recharge dla Symona. 30->33"
    ]
   }
  ],

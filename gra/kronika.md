@@ -2513,3 +2513,6 @@ Symon wraca do Donnela i druga lekcja idzie jeszcze lepiej. Miernictwo, proporcj
 
 ## 296-12-01 wieczor — praca u Nesty, system w praktyce
 Symon siada wieczorem do ksiag i pierwszy raz na powaznie przepuszcza kantor przez swoj nowy system. I metoda oddaje dokladnie to, po co powstala: przy kolumnie kosztu jednostkowego wychodzi, ktore z rutynowych linii interesu sa cieńsze, niz się wydawalo, a ktore po cichu niosą caly kantor. To znaczy, ze cos mozna przycenic, cos przyciac, i margines pojdzie w gore bez jednego nowego zlecenia - czysta przewaga z samego LICZENIA. Przy okazji zerkaja na mlody rejestr pilotazu ubezpieczen: skladki naplywaja rowno, a szkod dotad zero - wynik, ktory ma sie okazac kolo dwunastego, trenduje na plus, model Symona chodzi jak trzeba. Nesta patrzy na to z cichym zadowoleniem kogos, kto wie, ze zainwestowal w wlasciwego czlowieka. Kapie drobna dola z lepszego marginesu. Wieczor produktywny, przewaga realna. Nesta 59->60.
+
+## 296-12-01 wieczor -> 12-02 — prawo, cwiczenia, sen
+Symon czyta prawo, cwiczy cialo i spi. Zdrowy rytm w glebokiej zimie; wielkie watki dojrzewaja w tle (ubezpieczenia ~12, Winterfell ~15, futra ~20).

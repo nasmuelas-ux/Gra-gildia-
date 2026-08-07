@@ -2543,3 +2543,6 @@ Symon je i wraca do Donnela na czwarta lekcje - i to jest ta, na ktorej stary mi
 
 ## 296-12-04 POLUDNIE — Serla
 Symon zaglada do Serli z czyms cieplym do garnka. Zwyczajny, dobry kwadrans przy skapym ogniu w gleboki mroz - stara przyjaciolka wdzieczna, maly Tom chudy ale zywy, kilka slow o niczym. Nic wielkiego, po prostu wiez, ktora trzyma. Serla 31->33.
+
+## 296-12-04 POLUDNIE->ZMIERZCH — rozmowa z Owenem
+Symon siada z Owenem pogadac. Fronty stoja spokojnie: cech wciaz zimny, Harwin i Ryman cisi, tarcza Wiary trzyma jak trzymala - zaden ruch. O Winterfell na razie nic; kruk z Polnocy nie przylecial, a okno, w ktorym mogloby cos przyjsc, dopiero nadchodzi kolo polowy miesiaca - ale Owen, spokojny, przypomina, ze Polnoc jest wolna i daleka, wiec rownie dobrze moze odezwac sie pozniej albo wcale; ten kamien wciaz toczy sie poza ich reka, i pozostaje czuwac. A na koniec septon mowi Symonowi cos cieplego, jakby podsumowujac te zime: patrzyl, jak chlopak siega coraz szerzej - kantor, ubezpieczenia, teraz geometria u starego murarza - a mimo to nie oderwal sie od tego progu, przy ktorym kleczy z ubogimi. 'Rosniesz, Symonie, i to jest dobre - byle korzen zostal tam, gdzie jest.' Symon wychodzi pokrzepiony ta prosta prawda. Owen 60.

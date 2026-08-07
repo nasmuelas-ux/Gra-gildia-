@@ -2345,3 +2345,6 @@ Symon rozglada sie jeszcze za audytem — i choc zimowa nisza wciaz martwa dla k
 
 ## 296-11-17 wieczor — zlecenie Aurane'a wziete
 Symon zjada cos cieplego, odsyla chlopca ze zgoda i, skoro rzecz pilna, idzie jeszcze wieczorem obejrzec sprawe. Aurane okazuje sie kupcem twardym i ostroznym, z tych, co malo mowia i patrza spod brwi - ale Symon rozgrywa to tak, jak nauczyla go sprawa Godrica: od razu stawia ramę dyskrecji. Popatrze tylko tam, gdzie mi wskazesz; nie tkne reszty ksiag; wynik uslyszysz ty jeden i nikt wiecej. To, plus cieple slowo Godrica za plecami, przesuwa Aurane'a z czujnego w ostroznie ufajacego. Ustalaja waski zakres - ksiegi skladu, dostawy przeciw sprzedazom za pewien okres, zeby zobaczyc, czy jego faktor podbiera - i przyzwoita stawke, okolo szesciu jeleni na ukonczenie, po kupiecku placone po robocie. Braavijska metoda Symona jest do tego jak ulal: skim wyskoczy z niezbilansowania sam. Zaufanie na razie prowizoryczne, zalezne od wyniku, a Aurane wymagajacy co do czasu - ale zlecenie jest, dobre i dyskretne, kolejny cichy przeplyw i kolejny majetny czlowiek w sieci. Praca zacznie sie przy ksiegach nazajutrz. Aurane 5->12.
+
+## 296-11-17 wieczor -> 11-18 — pomoc u Owena, cwiczenia, sen
+Symon zaglada wieczorem pomoc Owenowi przy sepckiej robocie, przecwiczy cialo i spi. Opal wciaz 1.5x, alarm cichy. Jutro rusza audyt skladu Aurane'a.

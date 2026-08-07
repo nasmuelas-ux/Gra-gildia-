@@ -2840,3 +2840,6 @@ Symon zapytał, czy prosić lorda o pomoc dla reliefu. Owen, mimo zmęczenia, da
 
 ## 296-12-25 ZMIERZCH — plan: Symon na audiencji jako skryba Owena
 Symon wpadł na sposób, by być przy audiencji, nie łamiąc dyscypliny: pójdzie jako skryba septona — duchowny z pisarzem to widok zwyczajny, mebel, nie osoba, którą dwór odnotowuje, a z tego mebla widzi lorda i dwór z bliska. Owen zgodził się bez oporu (przyda się ręka do pisma i ciche oko), ale nazwał ryzyko: maester Theomore będzie na sali, wyczulony na piśmiennego obcego — więc Symon ma grać mebla bez skazy, milczeć, być niewidzialnym. Sekwencja: zaprimować Godrica, potem Owen prosi o audiencję, potem Symon idzie jako jego skryba; termin za kilka dni, gdy dwór da posłuchanie.
+
+## 296-12-25 NOC / 12-26 RANEK — sen
+Symon domknął dzień pełen ciężaru i planów — twardy relief, rada Owena o petycji do lorda, pomysł, by pójść na audiencję jako skryba, i długa rozmowa o Theomorze. Spał twardo. Rankiem dwudziestego szóstego trzaskający mróz, miasto ciche, koniec miesiąca blisko. Przed nim: zaprimować Godrica pod petycję, wypłata ~30, cieniejące zapasy reliefu ~31. Zwykły zimowy poranek, dzień otwarty.

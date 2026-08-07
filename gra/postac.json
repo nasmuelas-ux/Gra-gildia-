@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 85,
- "sytosc": 77,
- "zmeczenie": 6,
+ "sytosc": 73,
+ "zmeczenie": 9,
  "sakiewka": {
   "miedziaki": 24,
   "jelenie": 28,
@@ -46,7 +46,7 @@
   "SYSTEM RACHUNKOWOSCI ZARZADCZEJ (wdrozony w kantorze 11-28, rzut 91): (1) KOSZT JEDNOSTKOWY - ile kosztuje bochenek/arkusz/rejs z materialem+czasem+stratami -> wiadomo, ktore linie/zlecenia zywia, ktore sa stratne; (2) KOSZT ZAMROZONEGO KAPITALU / wartosc czasu - towar lezacy kosztuje choc nikt nie wystawil rachunku; (3) AMORTYZACJA - odkladac na zuzycie wozu/prasy/statku zamiast byc zaskoczonym; (4) PROGNOZA CASH-FLOW - 'czy w 3. tygodniu bede mial czym zaplacic' nie tylko 'ile mam'; (5) ROZPROSZONA REZERWA RYZYKA - % od kazdego rejsu na ten co nie wroci (komplement do pilotazu ubezpieczen=wersja zewnetrzna). DURABLE competitive EDGE: lepsze decyzje niz rywale ceniący 'jak wszyscy', przezycie zim, poprawna wycena ryzyka. Wzmacnia: model ryzyka ubezpieczen, audyty, cicha akumulacja. Nesta czesc znala braavijsko, ale SYSTEMOWE ujecie=wyprzedza nawet Braavos; przyjete z caveatem skali (nie zbiurokratyzowac nimble kantoru).",
   "STANDARD AUDYTU (spisany 11-28, rzut 34 - mocny roboczy szkic): (1) INWENTARYZACJA Z ZASKOCZENIA - policz towar bez uprzedzenia vs ksiega (najprostsze wykrycie kradziezy); (2) ROZDZIAL OBOWIAZKOW - kto liczy nie wydaje; kto prowadzi ksiege nie trzyma kasy (likwiduje wiekszosc defraudacji); (3) POTWIERDZENIE U KONTRAHENTA - pisz do dostawcy ile realnie wyslal (lapie fikcyjne dostawy/zawyzone rachunki - DOKLADNIE typ falszu R.C./Ryman i skim Aurane); (4) NUMEROWANE/PRZESZYWANE KARTY + BIEZACE SUMY (uniemozliwia wyrwanie kartki/dopisanie wiersza - zamienia ksiege w DOWOD); (5) ANALIZA ODCHYLEN - miesiac vs miesiac, szukaj co odstaje (najtansze wykrycie - nie trzeba sprawdzac wszystkiego). CAVEAT skali/zimy: confirmation wolne przy dalekich dostawcach; rozdzial obowiazkow trudny w malych operacjach; surprise count wymaga dostepu/autorytetu -> dostrajac per klient, nie sztywny kanon. WARTOSC: audyt Symona = POWTARZALNA, wyzsza metoda (referrale/fee/brand), wzmacnia kartę celna (odchylenia+confirmation), teachable (Hal pozniej). PROFIL: metodyczny audytor = mocniejsza marka ale i wiekszy known-threat dla skimujacych - stosowac dyskretnie.",
   "STANDARD AUDYTU - ARSENAL FORENSICZNY (dopisany 11-28/29, rzut 28): techniki EMPIRYCZNE (wypracowane z rzemiosla - Ryman/Aurane): (a) ZAOKRAGLENIA I PROGI (podejrzanie okragle / tuz pod progiem zgody '49 zam.50'); (b) TEST CIAGLOSCI (nieprzerwana numeracja+chronologia; dziura w numerach / dokument w niedziele/swieto/po zmroku/gdy skladu pusty = najczystszy sygnal falszu); (c) BILANS MASY (surowiec-in vs wyrob-out vs 'naturalny ubytek' - mlynarz/piekarz/celnik kradna w ubytku; porownaj z podobnym zakladem); (d) KONTRAHENT FIKCYJNY (czy dostawca ma adres/warsztat/sasiadow); (e) DUPLIKATY (ta sama kwota+dostawca dwa razy = podwojna zaplata); (f) NADMIERNA ROWNOSC (prawdziwe liczby sa nierowne; gladka kolumna=podejrzana); (g) OBSERWACJA ZACHOWANIA (nigdy nie bierze wolnego, nie da tknac ksiag, zyje ponad stan -> stad przymusowy urlop kasjera=zasada audytowa); (h) TEST WSTECZNY (od TOWARU do papieru, nie odwrotnie - kradziez ukrywa BRAK zapisu, nie zly zapis). CAVEAT skali/ery: mass-balance benchmark wymaga danych porownawczych; przymusowy urlop wymaga instytucji/personelu; test wsteczny wymaga dostepu/autorytetu -> dostrajac. WARTOSC: forensiczna metoda market-leading; wzmacnia audyty+kartę+brand; teachable.",
-  "GEOMETRIA STOSOWANA (zalazek nauki od 11-30, mistrz Donnel): miara, proporcja, statyka/obciazenia, sztuczki miernicze - matematyka PRZESTRZENNA (uzupelnia luke: Symon mial kupiecko-rachunkowa, nie przestrzenna). Kanal nauki ZYWY (kontrast do dead-endu u Nesty). || 11-30 1. lekcja (rzut 82): szybki, mocny start - umysl liczbowy Symona (rachunki9) przyspiesza chlonięcie proporcji/stosunkow/logiki miary i obciazenia. Fundament polozony; craft praktyczny (ciecie kamienia) wciaz przed nim, ale teoria wchodzi lotem."
+  "GEOMETRIA STOSOWANA (zalazek nauki od 11-30, mistrz Donnel): miara, proporcja, statyka/obciazenia, sztuczki miernicze - matematyka PRZESTRZENNA (uzupelnia luke: Symon mial kupiecko-rachunkowa, nie przestrzenna). Kanal nauki ZYWY (kontrast do dead-endu u Nesty). || 11-30 1. lekcja (rzut 82): szybki, mocny start - umysl liczbowy Symona (rachunki9) przyspiesza chlonięcie proporcji/stosunkow/logiki miary i obciazenia. Fundament polozony; craft praktyczny (ciecie kamienia) wciaz przed nim, ale teoria wchodzi lotem. || 12-01 2. lekcja (rzut 93): szybki dalszy skok - miernictwo, proporcje, geometria luku i obciazenia; PODSTAWOWA WORKABLE kompetencja przestrzenna emerguje (2 mocne lekcje 82/93). Fundament math Symona sie poszerza (kupiecki+przestrzenny); dormant: szersza baza = wieksza szansa na przyszly frontier-blysk."
  ],
  "reputacja": {
   "port": 21,
@@ -79,7 +79,7 @@
   "rzemioslo": 0,
   "handel": 66,
   "walka": 40,
-  "geometria": 2
+  "geometria": 5
  },
  "jezyki_znane": [
   "mowa powszechna",

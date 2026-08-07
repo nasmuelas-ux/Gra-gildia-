@@ -503,8 +503,8 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 45,
-   "ostatni_kontakt": "296-12-05",
+   "nastawienie_do_gracza": 47,
+   "ostatni_kontakt": "296-12-15",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
     "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -518,7 +518,8 @@
     "zaproponowal Symonowi audyt swojego podejrzanego dostawcy/wspolnika (platna robota)",
     "audyt Symona wykryl PRECYZYJNIE, kto go skubie (nie dostawca, lecz posrednik/wewnetrzny skim) — ogromna wdziecznosc, glosno chwali",
     "potwierdzone: Symon to wspolnik Nesty; Vox go wspiera jako filar portowy",
-    "slyszal o konsorcjum opalowym Symona (kupiecka gielda gada) — ceni go rosnaco; chce rozwazyc noge na przyszly polnocny rejs"
+    "slyszal o konsorcjum opalowym Symona (kupiecka gielda gada) — ceni go rosnaco; chce rozwazyc noge na przyszly polnocny rejs",
+    "d15: Symon dowiozl usluge zarzadcza (wiekowanie naleznosci + rentownosc per klient/trasa + kalendarz zobowiazan + progi) - czysto, Vox zachwycony, zaplacil 4 jelenie. KOMPLIKACJA (jego znana wada - glosno chwali): rozniosl 'cudowne ksiegi skryby' po kupieckiej gieldzie tak, ze zglosil sie NIEZNANY kupiec przez Voxa, chcac tez wejsc. Cichy/selektywny rollout (nakaz Nesty) zaczyna sie rwac - presja na wetting; widocznosc uslugi rosnie."
    ],
    "potrzeby": [
     "dojsc, czy wspolnik go strzyze",
@@ -529,7 +530,7 @@
     "rozglos/wstyd"
    ],
    "dlugi": [],
-   "zaufanie": 14,
+   "zaufanie": 15,
    "status": "ZAANGAZOWANY SOJUSZNIK: z kalkulujacego obserwatora przeszedl w aktywne poparcie — widzi wlasny interes (stabilny port; zly precedens, gdy obcy wierzyciel dusi kupca portowego). Publicznie stanal za kantorem = de facto pobłogoslawil partnerstwo Symon-Nesta. Uchylil drzwi do drobnego mostka kupieckiego na styk raty.",
    "historia": [
     "m11d11: cieply-dosc kontakt; Vox trzyma TWARDO (wlasny interes: stabilny port, zly na dystorsje sieci Antaryona). Ale szczwany kupiec potwierdza fray: miekcy kupcy nerwuja sie NIE tylko od zimy, lecz od PRZEDLUZAJACEGO SIE bezruchu — standing wisi dlugo bez rozstrzygniecia, tchorze zaczynaja watpic czy cos w ogole ruszy. Nast 37->39.",

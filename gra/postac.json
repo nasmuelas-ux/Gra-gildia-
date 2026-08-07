@@ -8,11 +8,11 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 84,
- "sytosc": 61,
- "zmeczenie": 14,
+ "sytosc": 54,
+ "zmeczenie": 22,
  "sakiewka": {
   "miedziaki": 14,
-  "jelenie": 8,
+  "jelenie": 12,
   "smoki": 0
  },
  "dobytek": [
@@ -73,7 +73,7 @@
  },
  "licznik_uzyc": {
   "pismo": 78,
-  "rachunki": 95,
+  "rachunki": 96,
   "prawo": 120,
   "retoryka": 74,
   "jezyki": 68,

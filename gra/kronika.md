@@ -2582,3 +2582,6 @@ Symon lapie Leone jeszcze przy zwijanym kramie - i tym razem jest zupelnie inacz
 
 ## 296-12-06 wieczor -> 12-07 — Owen, prawo, sen
 Symon zaglada wieczorem do Owena na krotko - zwyczajny, cichy kontakt, kilka slow, grunt bez wielkich wiesci; Winterfell wciaz milczy. Potem czyta prawo i spi. Wielkie watki dojrzewaja: ubezpieczenia ~12, Winterfell ~15, futra ~20.
+
+## 296-12-07 RANEK->POLUDNIE — geometria w terenie (mroz tnie)
+Symon je i idzie do Donnela, a ten postanawia wyjsc z teoria na dwor - zmierzyc cos naprawde. Ale gleboka zima szybko przypomina, dlaczego murarze zima nie robia: rece grabieja przy sznurze, snieg zasypuje punkty, dzien krotki i sinny. Uda im sie tyle, by Symon poczul realny smak rzeczy - jak przylozyc geometrie do zywej budowli, zmierzyc to, czego nie da sie zmierzyc wprost, przelozyc mury na liczby - i od razu widzi, jak to sie splata z jego usluga wyceny. Ale mroz tnie sesje krotko; wracaja do warsztatu dogrzac rece. Postep solidny, choc bez wielkiego skoku - praktyka w terenie poczeka na lagodniejsza pogode. Donnel 31->32.

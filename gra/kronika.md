@@ -2612,3 +2612,6 @@ Symon je i idzie do Donnela, a siodma lekcja pierwszy raz nie idzie lotem. Dotad
 
 ## 296-12-09 POLUDNIE->ZMIERZCH — Hal ku odciazeniu
 Symon siada do kantoru z Nesta i Halem, i pierwszy raz robi cos z tej mysli, ktora Braavijka rzucila poprzedniego wieczora: zaczyna szkolic Hala pod te czesci roboty, ktore kiedys moglyby zdjac z Symona ciezar czasu. Nie wrazliwe - te zostaja szczelnie odciete, jak zawsze - lecz bezpieczne, rutynowe: jak porzadnie poprowadzic prosta ksiege klienta, jak zestawic wiekowanie naleznosci na nie-goracym koncie, jak trzymac dyscypline zapisu. Hal, ktory ma juz w reku podstawy podwojnej ksiegowosci i przeszedl ciche lekcje dyskrecji, chlonie to dobrze - jeszcze daleko mu do prowadzenia klienta samemu, ale sciezka sie otwiera. Nesta patrzy na to z aprobata, bo to wlasnie jej plan: usluga rosnie szybciej niz nogi Symona, wiec albo sie ja oddaje w cudze rece, albo dusi. Symon widzi w tym cos jeszcze - ze buduje nie tylko interes, ale i czlowieka, ktory kiedys stanie obok niego. Zwykla, budujaca sesja. Hal 51->52.
+
+## 296-12-09 wieczor -> 12-10 — prawo, sen
+Symon czyta prawo i spi. Lada dzien wynik pilotazu ubezpieczen (~12).

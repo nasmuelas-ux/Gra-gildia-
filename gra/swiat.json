@@ -2,10 +2,10 @@
  "data": {
   "rok": 296,
   "miesiac": 11,
-  "dzien": 21,
+  "dzien": 22,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 22,
  "dzien_tygodnia_nr": 7,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.7,
-   "przyczyna": "gleboki mroz, popyt ostry — szczyt sie zbliza"
+   "mnoznik": 1.8,
+   "przyczyna": "szczyt mrozu blisko — popyt rozpaczliwy, opal drozeje ostro"
   },
   "wino_korzenne": {
    "baza": 5,

@@ -128,6 +128,14 @@
    "GOTOWE": true,
    "ROZSTRZYGNIETY": "297-01-03 (rzut 81): sciezka zmapowana - droga kupiecka omija weto cechu; brakujace ogniwo=wlasnosc (wiosna); Torren poprowadzi wniosek.",
    "zamkniety": true
+  },
+  {
+   "id": "wech_wlasnosc",
+   "typ": "proces",
+   "odlicza_do": "297-02-XX",
+   "opis": "Serla+Nesta nasluchuja o TANIA PRZYMUSZONA sprzedaz domu Z OGRODKIEM ZA PLOTEM w murach (lokum+biuro+wlasnosc pod mieszczanstwo). Konkret+taniosc rzadko naraz (ladny dom z ziemia trzyma wartosc); leady na tygodnie, moze do wiosny. Wybor gracza: trzymac ogrodek+czekac / odpuscic ogrod dla taniego golego lokalu / doplacic.",
+   "co_sie_stanie": "za tygodnie/wiosna: moze wyplynac lead (spadek/wdowa bez gotowki/kupiec uciekajacy) - okazja kupna",
+   "widoczny_graczowi": true
   }
  ]
 }

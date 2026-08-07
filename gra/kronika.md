@@ -2504,3 +2504,6 @@ Symon dziekuje mistrzowi szczerze i zostaje jeszcze chwile na rozmowe juz nie o 
 
 ## 296-11-30 wieczor -> 12-01 — koniec listopada, poczatek grudnia
 Symon je, cwiczy i spi. Listopad zamkniety pelen: lewar na Ternesia zadzialal, karta w rezerwie, blok pewny, cichy dochod plynie (Godric, ubezpieczenia), a on sam zaczal uczyc sie geometrii u Donnela. Grudzien niesie: wynik pilotazu ubezpieczen ~12, pierwsze echo z Winterfell ~15, wiesc o futrach z Braavos ~20. Gleboka zima trzyma miasto.
+
+## 296-12-01 RANEK->POLUDNIE — sluzba, pierwszy dzien grudnia
+Symon staje do sluzby w mrozie, ktory zdaje sie najciezszy z dotad - grudzien wchodzi ostro, septa pelna, kolejka po opal i strawe najdluzsza tej zimy. Robota ciezka, ale skuteczna: relief plynie, Hal prowadzi swoj kawalek pewnie, konkretne twarze odchodza ogrzane. Przy ksiegach Owen, spokojny jak zawsze, rzuca mu cicho jedno zdanie, ktore zostaje Symonowi w glowie: ze w najblizszych tygodniach powinni wreszcie uslyszec cos z Polnocy - okno, w ktorym submisja do Winterfell moglaby zadzialac, dojrzewa. Nic konkretnego jeszcze, zaden kruk nie przylecial; ale septon, ktory ten kamien puscil, zaczyna nasluchiwac. Symon notuje to z tylu glowy - grudzien bedzie miesiacem, w ktorym wiele rzeczy dojrzeje naraz - i wraca do misek i list. Reputacja u Wiary 48->49.

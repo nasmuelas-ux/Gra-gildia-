@@ -2372,3 +2372,6 @@ Symon idzie do Nesty przegadac ogon sprawy Aurane'a - licząc, ze braavijska glo
 
 ## 296-11-19 POLUDNIE->ZMIERZCH — grunt u Owena
 Symon idzie od zimnej Nesty prosto do Owena, po to drugie swiatlo. Septon nie udaje, ze rozwieje ryzyko - to nie jego rzemioslo - ale daje Symonowi grunt, ktorego Braavijka dzis nie dala. Przypomina mu, po ktorej stronie stoi ta robota: Symon nie skrzywdzil niewinnego, lecz ujawnil krzywde, bo Aurane byl okradany; to praca czysta, nie brudna. A czlowiek, ktory czyni dobrze i stoi pod tarcza Wiary, nie ma dac soba rzadzic strachowi. Ciezar cudzych sekretow trzeba niesc, mowi Owen, ale nie dac mu sie pozreć - trzymac rece czyste, nawyki skromne, sumienie jasne, a reszte znosic z pokora. To nie jest plan na faktora i niepokoj nie znika do konca; ale Symon wychodzi spokojniejszy, niz przyszedl, z ciezarem lzej ulozonym na barkach. Czasem grunt wystarczy za rozwiazanie. Owen 56->57.
+
+## 296-11-19 wieczor -> 11-20 — cwiczenia, sen
+Symon je, cwiczy i spi. Rano dwudziestego wypada odbior zakontraktowanych skor od garbarza Colla — noga wywozowa spolki. Opal wciaz 1.6x, alarm cichy.

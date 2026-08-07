@@ -2801,3 +2801,6 @@ Symon usiadł przy drogiej świecy do konkretu dla Godrica i trafił na ścianę
 
 ## 296-12-23 NOC / 12-24 RANEK — sen
 Symon padł bez czytania — dzień wyżął go do sucha (dwie księgi, relief kołodziejom, przedwczesny szkic). Spał twardo i długo. Rankiem dwudziestego czwartego wypoczęty; trzaskający mróz, miasto ciche pod zimą. Wypłata od Godrica ku końcowi miesiąca, reszta wielkiego śpi do wiosny.
+
+## 296-12-24 RANEK→POŁUDNIE — standard usługi doradczej
+Symon zjadł i spisał standard usługi doradczej: to, co robił od nowa za każdym razem, ujęte w jeden powtarzalny bieg — wejście (zaufani, wąski zakres, dyskrecja, cena premium), robota w stałej kolejności (wiekowanie należności, rentowność, kalendarz zobowiązań, progi, odchylenia), poufne wydanie do rąk klienta, osłona (tylko liczby, z dala od decyzji). Najważniejsze na przyszłość: rozdzielił to, co mechaniczne, od tego, co wymaga jego osądu — pierwsze da się kiedyś oddać wyćwiczonej ręce, drugie zostaje przy nim. Fundament pod bezpieczne delegowanie Halowi, gdy chłopiec dojrzeje. Wyszło solidnie: filar przestał zależeć od nastroju i pamięci, stał się narzędziem.

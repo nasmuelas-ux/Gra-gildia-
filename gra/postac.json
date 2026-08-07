@@ -71,7 +71,9 @@
   "handel": 7,
   "walka": 6,
   "geometria": 4,
-  "czytanie_ludzi": 6
+  "czytanie_ludzi": 6,
+  "organizacja": 6,
+  "audyt": 8
  },
  "licznik_uzyc": {
   "pismo": 81,
@@ -85,7 +87,9 @@
   "handel": 84,
   "walka": 41,
   "geometria": 17,
-  "czytanie_ludzi": 58
+  "czytanie_ludzi": 58,
+  "organizacja": 48,
+  "audyt": 70
  },
  "jezyki_znane": [
   "mowa powszechna",

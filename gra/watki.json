@@ -168,7 +168,8 @@
    "typ": "strategia/mapa",
    "termin": null,
    "wobec": "self",
-   "stan": "zmapowane — wybrac lead [d10: pojawil sie KONKRETNY kandydat-kanal: maester Theomore (lorda Wymana) — Owen wazy go dla Rymana. Theomore = maester (wiedza prawna) + ucho lorda (szczelina 'lord broni swoich') + droga ku Winterfell: potencjalnie JEDEN kanal dla obu spraw. Ale establishment/ryzyko, i niezabezpieczony. Aplikacja do dlugu Antaryonow — osobno/dyskretnie, gdyby dalo sie do niego dotrzec.] [d12: Theomore odpadl (odmowil, zada oryginalu). Zostaje: korroboracja/oryginal ze Starego Zamku albo wprost Winterfell/Starkowie.] [m9d6: Theomore jako KANAL NAUKI = ZAMKNIETY. Odprawil prostaka chlodno (brak precedensu, kasta). Wiedza w White Harbor jest gatekeepowana STANEM — maester nie uczy nisko urodzonego. => nauka musi isc innymi drogami: ksiazki Owena/septy, ksiegi Nesty, samouctwo; a prawdziwe otwarcie wiedzy dla takich jak on = BRAAVOS (Cytadela/maesterzy zamknieci kasta; Zelazny Bank ceni rachunek nie krew). Rebuff wzmacnia sufit White Harbor i horyzont Braavos.]"
+   "stan": "zmapowane — wybrac lead [d10: pojawil sie KONKRETNY kandydat-kanal: maester Theomore (lorda Wymana) — Owen wazy go dla Rymana. Theomore = maester (wiedza prawna) + ucho lorda (szczelina 'lord broni swoich') + droga ku Winterfell: potencjalnie JEDEN kanal dla obu spraw. Ale establishment/ryzyko, i niezabezpieczony. Aplikacja do dlugu Antaryonow — osobno/dyskretnie, gdyby dalo sie do niego dotrzec.] [d12: Theomore odpadl (odmowil, zada oryginalu). Zostaje: korroboracja/oryginal ze Starego Zamku albo wprost Winterfell/Starkowie.] [m9d6: Theomore jako KANAL NAUKI = ZAMKNIETY. Odprawil prostaka chlodno (brak precedensu, kasta). Wiedza w White Harbor jest gatekeepowana STANEM — maester nie uczy nisko urodzonego. => nauka musi isc innymi drogami: ksiazki Owena/septy, ksiegi Nesty, samouctwo; a prawdziwe otwarcie wiedzy dla takich jak on = BRAAVOS (Cytadela/maesterzy zamknieci kasta; Zelazny Bank ceni rachunek nie krew). Rebuff wzmacnia sufit White Harbor i horyzont Braavos.]",
+   "status": " || 12-21 (Wenda rzut 96): Wenda glosno RECZY za Symonem wsrod targowego/drobnego ludu (przekupki/tragarze/port) - reputacja u dolu w gore, obronczyni w sieci ludowej. Wesele Bess po nowym roku, Symon zaproszony."
   },
   {
    "id": "gdzie_trzymac_srebro",
@@ -234,7 +235,8 @@
    "typ": "okazja/rozwoj",
    "termin": null,
    "wobec": "wiara_siedmiu",
-   "stan": "ROSNIE. Dzien 14: Symon caly Dzien Matki pisal ubogim (listy, podania, czytanie kwitow) — za drobne datki/strawe, glownie posluga. Reputacja w porcie 5->7; ludzie_portu 4->7 (swoj, ufaja mu). Cwiczyl przy tym czytanie ludzi (want/fear klientow). Niszа 'skryby ludu' okrzepla — legalna baza wsrod smallfolk, wypelnia luke po Pacie."
+   "stan": "ROSNIE. Dzien 14: Symon caly Dzien Matki pisal ubogim (listy, podania, czytanie kwitow) — za drobne datki/strawe, glownie posluga. Reputacja w porcie 5->7; ludzie_portu 4->7 (swoj, ufaja mu). Cwiczyl przy tym czytanie ludzi (want/fear klientow). Niszа 'skryby ludu' okrzepla — legalna baza wsrod smallfolk, wypelnia luke po Pacie.",
+   "status": " || 12-21 (Wenda rzut 96): Wenda glosno RECZY za Symonem wsrod targowego/drobnego ludu (przekupki/tragarze/port) - reputacja u dolu w gore, obronczyni w sieci ludowej. Wesele Bess po nowym roku, Symon zaproszony."
   },
   {
    "id": "rosnaca_widocznosc",

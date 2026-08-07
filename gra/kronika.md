@@ -2768,3 +2768,6 @@ Symon domknął resztę. Większość poszła gładko, ale część rzeczy umar�
 
 ## 296-12-21 ZMIERZCH — depozyt 10 jeleni
 Symon zaniósł do kantoru dziesięć jeleni z fee od Leony i złożył za kwitem. Depozyt urósł do dziewięćdziesięciu ośmiu jeleni — blisko setki cichego, bezpiecznego kapitału, zbudowanego księga po księdze. W sakiewce zostały dwa jelenie na codzienność; reszta pracuje w cieniu. Nesta przyjęła kwit z tym samym milczącym uznaniem co zawsze.
+
+## 296-12-21 ZMIERZCH — u Wendy, ciepło i sieć
+Symon wpadł wieczorem do Wendy i trafił na jej najlepszy humor. Dosadna przekupka ma dla niego miejsce szczególne, odkąd spisał Bess umowę za darmo i wychwycił kombinowanie przy zwrocie posagu. Nakarmiła go, obwieściła, że wesele Bess stoi — data po nowym roku, kontrakt uczciwy dzięki niemu — i zaprosiła do rodzinnego stołu, co dla człowieka bez rodziny w mieście waży więcej, niż przyzna. A na odchodne dała mu coś cenniejszego niż rosół: słowo, że będzie za niego ręczyć wśród targowego ludu. „Kto krzywo patrzy na skrybę Wendy, patrzy krzywo na Wendę." Wśród przekupek, tragarzy i drobnego ludu portu Symon zyskał głośną, życzliwą obrończynię — a jego reputacja u dołu miasta cicho urosła.

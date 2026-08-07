@@ -2765,3 +2765,6 @@ Symon rozplątał zawiłe księgi po zmarłym mężu Leony — metodycznie, po b
 
 ## 296-12-21 POPOŁUDNIE — domknięcie ksiąg Leony
 Symon domknął resztę. Większość poszła gładko, ale część rzeczy umarła z mężem — kwity, których nie zachował, ustne umowy, płatności bez śladu na papierze. Zrobił jedyną uczciwą rzecz zgodną z własnym standardem: nie zgadywał, nie dopisywał dla ładnego obrazu, tylko wyraźnie oznaczył pozycje nierozstrzygalne. Leona, która nie znosi gładkich bajek, przyjęła tę szczerość lepiej niż udawaną pewność — wolała wiedzieć, gdzie kończy się wiedza. Kilka braavijskich niejasności przeszło naturalnie do weryfikacji faktorii, u Nesty, karmiąc most. Zapłaciła resztę, kontenta; reputacja Symona u matrony ugruntowana na tym, co ceni najbardziej: konkrecie i uczciwości co do granic.
+
+## 296-12-21 ZMIERZCH — depozyt 10 jeleni
+Symon zaniósł do kantoru dziesięć jeleni z fee od Leony i złożył za kwitem. Depozyt urósł do dziewięćdziesięciu ośmiu jeleni — blisko setki cichego, bezpiecznego kapitału, zbudowanego księga po księdze. W sakiewce zostały dwa jelenie na codzienność; reszta pracuje w cieniu. Nesta przyjęła kwit z tym samym milczącym uznaniem co zawsze.

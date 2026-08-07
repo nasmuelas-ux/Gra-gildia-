@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 13,
+  "dzien": 14,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 22,
- "dzien_tygodnia_nr": 1,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "12-13 RANEK, glucha zima, snieg z nocy. Cisza przed zdarzeniami: Merek czeka na odp. wspolnika (~12-16), Winterfell echo (~12-15), futra (~12-20), Godric wyplata (~12-30). Pilotaz ubezp. na minusie (zbierac cykle). TU-I-TERAZ: zima/ubodzy.",
+ "nastroje_miasta": "12-14 RANEK, glucha zima. Reka Symona opuchnieta (pismo niekomfortowe 1 dzien). Zegary: Winterfell echo (~12-15), Merek odp. wspolnika (~12-16), futra (~12-20), Godric (~12-30). TU-I-TERAZ: zima/ubodzy.",
  "ceny": {
   "chleb": {
    "baza": 3,

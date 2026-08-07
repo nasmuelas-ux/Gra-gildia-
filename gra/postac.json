@@ -7,9 +7,9 @@
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
- "zdrowie": 83,
- "sytosc": 52,
- "zmeczenie": 37,
+ "zdrowie": 84,
+ "sytosc": 46,
+ "zmeczenie": 7,
  "sakiewka": {
   "miedziaki": 14,
   "jelenie": 8,
@@ -111,7 +111,7 @@
    "co": "stluczona/opuchnieta reka pisarska",
    "od": "296-13",
    "do_ok": "296-15",
-   "efekt": "pismo/precyzja niekomfortowe, drobne minus do pisania na 1-2 dni"
+   "efekt": "reka tkliwa/opuchnieta jeszcze rano d14; pismo niekomfortowe dzis, powinna zejsc do d15"
   }
  ]
 }

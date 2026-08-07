@@ -3017,3 +3017,6 @@ Sniadanie w sepcie (sytosc 30->55, darmo), potem po robote do Nesty. Lean winter
 
 ## 297-01-07 POPOLUDNIE - Hal (rzut 39)
 Symon zaszedl sprawdzic ksiege reliefu. Ksiega czysta (Hal kompetentny), ale glod znaczenia znow gore: Hal zaczal decydowac na marginesie - skreslil petenta jako 'naciagacza', pokazal z duma. Symon przeczytal, ze to prawdziwa nedza pod wstydem (nie naciagacz), cicho przywrocil petenta i naprawil linie mandatu (liczysz, nie decydujesz). Korekta siegnela dumy Hala (nast 54->53), bez zerwania. Nauka: patience nie wykladem - Hal dojrzeje przez wlasne potkniecia; delegowanie wrazliwego wciaz nie ta zima. Thankless cierpliwosc mentora - grunt, ale nie balsam.
+
+## 297-01-08 RANEK
+Wieczorem Symon czytal prawo (prawo+1) i spal w celi. Noc cicha, cialo odpoczelo (drzazga tygodnia wciaz gdzies siedzi). Zegary: kamieniczka_zamkniecie ~01-09 (jutro), draw ~01-19. Rano glodny.

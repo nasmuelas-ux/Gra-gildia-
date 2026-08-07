@@ -658,17 +658,18 @@
    "leki": [
     "nierzetelni wspolnicy"
    ],
-   "nastawienie_do_gracza": 31,
-   "zaufanie": 4,
+   "nastawienie_do_gracza": 36,
+   "zaufanie": 5,
    "wie_o_graczu": [
     "dotrzymal slowa na umowie cechowej",
     "chce polnocnych futer/bursztynu na wywoz do Braavos",
     "Symon chce doladowac drewno opalowe na lodz futrzana; kupiec z glowa do interesu, nie desperat",
     "chcial sredniej partii opalu, nie tylko balastu — zorientowal sie, ze przy tej skali fracht przestaje byc darmowy",
-    "Symon prowadzi cechowe zamowienie na polnocne drewno — dla Torsena stały, powtarzalny odbiorca (marzenie faktora)"
+    "Symon prowadzi cechowe zamowienie na polnocne drewno — dla Torsena stały, powtarzalny odbiorca (marzenie faktora)",
+    "d19 (rzut 66): Symon odswiezyl stygnaca wiez pozycjonowaniem na WIOSNE - sygnal, ze rosnie staly polnocny popyt (cech proven + zamek zainteresowany na przyszly sezon). Dla Torsena to jego marzenie (staly, powtarzalny odbiorca) -> ociepl sie, gotow ULOZYC z Halvardem pojemnosc/warunki na wiosenna parcele zamkowa, gdy Bialy Noz ruszy. Teraz nic nie plynie (rzeka skuta). Wiez odswiezona (31->36, zauf +1). Krok po kroku, po jego chlodnemu."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-12-03",
+   "ostatni_kontakt": "296-12-19",
    "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'",
    "historia": [
     "m11d14: rozmowa o oknie na glebie Polnocy (rzut 36). Torsen cieplo (wiecej interesu), potwierdza: siec Halvarda SIEGA glebiej niz drewno/1 proba futer — futra/skory/bursztyn + loj, wosk, miod, rog/kosc, polnocne specjaly. ALE limity: ZIMA scina podaz glebi do zera (traperzy/klany/gora ruszą dopiero wiosną, Bialy Noz zamarza), i Torsen NIE zaangazuje Halvarda na wieksza skale, poki proba futer nie udowodni popytu/marzy w Braavos (~12-20). Timber jego priorytet -> facylitator nie driver. WNIOSEK: pipeline WIOSENNY zmapowany, teraz nic nie plynie. Torsen 26->28.",

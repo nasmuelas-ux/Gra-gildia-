@@ -2741,3 +2741,6 @@ Symon poszedł na Nowy Zamek do stewarda: naprzód księgi domu — sesja poszł
 
 ## 296-12-18 NOC / 12-19 RANEK — prawo (słabo), sen
 Wieczór nad prawem wyszedł kiepsko — Symon był zmęczony po dniu pełnym wizyt, litery pływały, niewiele weszło do głowy. Odłożył księgę i zasnął. Rankiem dziewiętnastego rzeka stoi skuta, mróz trzyma, miasto ciche. Jutro może przyjść wieść o futrach z Braavos — pierwszy sprawdzian nogi wywozowej. Na razie zwykły zimowy poranek.
+
+## 296-12-19 RANEK — u Torsena, grunt pod wiosnę
+Symon zjadł i poszedł odświeżyć Torsena, nim wystygnie na dobre. Rzeka stoi, więc nic teraz nie popłynie — ale rozmowa była o przyszłości, i to Torsena rozgrzało. Symon dał znać, że stały północny popyt rośnie: cechowe zamówienie się sprawdziło, a zamek jest zainteresowany na przyszły sezon. Dla faktora, który marzy o stałym, powtarzalnym odbiorcy, to najlepsza wiadomość zimy. Chłodny jak zawsze, „krok po kroku", ale wyraźnie ocieplony — gotów ułożyć z Halvardem w głębi Północy pojemność i warunki na wiosenną parcelę zamkową, żeby czekały gotowe, gdy Biały Nóż ruszy. Więź odświeżona, a Symon zyskał ważny klocek: kiedy przy odwilży wróci do Godrica „z konkretem przez dwór", będzie miał już podaż ułożoną po stronie Torsena. Nic nie płynie, ale wszystko jest ustawione.

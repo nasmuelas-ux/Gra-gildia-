@@ -2732,3 +2732,6 @@ Popołudnie zeszło Symonowi na zwykłej robocie i odpoczynku, wieczór na prawi
 
 ## 296-12-18 RANEK — księgi Wata dostarczone
 Symon zjadł i dowiózł Watowi pełną usługę — na większej, bardziej zawiłej księdze niż Voxowa, ale robota poszła czysto. Wiekowanie należności, rentowność per klient i trasa (pokazał Watowi, która noga cicho topi mu grosz), kalendarz zobowiązań, progi. Wat, który marzy, by nadążyć za większymi ze Schodów, oglądał to jak nowe narzędzie władzy i zapłacił siedem jeleni salda bez mrugnięcia. Klauzula dyskrecji trzyma się sama — gaduła pilnuje języka, bo cichość jest teraz jego prestiżem. Symon wyszedł z pełnym fee i czymś ważniejszym: dowodem, że model premium pod dyskrecją działa i na większym kliencie. Filar rośnie cicho i płatnie.
+
+## 296-12-18 POŁUDNIE — depozyt zysku u Nesty
+Symon zaniósł do kantoru osiemnaście jeleni — zysk z ostatnich fee doradczych (Vox, Wat, drobne od Mereka) — i złożył je do depozytu, zostawiając sobie tylko mały float na codzienność. Nesta przyjęła kwit bez słowa, ale w tym spojrzeniu było uznanie: uczeń odkłada, nie przepala. Depozyt urósł do osiemdziesięciu ośmiu jeleni. Cichy kapitał pęcznieje powoli, z płatnego filaru, który sam sobie zbudował.

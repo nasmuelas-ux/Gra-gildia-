@@ -176,7 +176,8 @@
    "typ": "praktyka/decyzja",
    "termin": null,
    "wobec": "self",
-   "stan": "do rozwazenia"
+   "stan": "do rozwazenia",
+   "status": " || 12-18: +18 jel zysku doradczego do depozytu u Nesty -> 88 jeleni (8800 mied). Float 6 jel. Cicha akumulacja rosnie z platnego pilaru doradczego."
   },
   {
    "id": "robota_w_cle",
@@ -558,7 +559,7 @@
   {
    "id": "strategia_kapitalu",
    "tytul": "Strategia rozmieszczenia kapitalu",
-   "status": "12-05 (Nesta rzut 79): GLEBOKA ZIMA = zly czas na NOWE deploymenty (szlaki zamrozone, rynki cienkie, ceny zaburzone; opal wyszedl bo SEZONOWO timed; nie gonic nowej zimowej spekulacji - lekcja dye). PLAN sygnalowo-bramkowany: (1) ADVISORY - capital-light, LEAN IN TERAZ (najlepszy risk-adjusted growth, czas nie kapital); (2) INSURANCE - grow stake MODESTNIE gdy wynik ~12-12 potwierdzi (skalowalny cichy pilar); (3) EXPORT (spring) - REALNY growth vector: gdy futra sprzedadza sie w Braavos (~12-20), skalowac polnocny kanal na wiosne (Torsen/Halvard pipeline); HOLD DRY POWDER na to; (4) NIE forsowac kapitalu bo sie go ma (akumulacja). BRAAVIJSKA RAMA: 'najlepiej miec kapital gotowy, gdy inni zamarznieci - trzymaj zima, a WIOSNA, gdy szlaki otwarte a tchorze cash-starved, deployuj z pozycji sily' (buy when others cant). WNIOSEK: cierpliwosc teraz, deploy na sygnaly (~12-12 ubezp, ~12-20 futra, wiosna export)."
+   "status": "12-05 (Nesta rzut 79): GLEBOKA ZIMA = zly czas na NOWE deploymenty (szlaki zamrozone, rynki cienkie, ceny zaburzone; opal wyszedl bo SEZONOWO timed; nie gonic nowej zimowej spekulacji - lekcja dye). PLAN sygnalowo-bramkowany: (1) ADVISORY - capital-light, LEAN IN TERAZ (najlepszy risk-adjusted growth, czas nie kapital); (2) INSURANCE - grow stake MODESTNIE gdy wynik ~12-12 potwierdzi (skalowalny cichy pilar); (3) EXPORT (spring) - REALNY growth vector: gdy futra sprzedadza sie w Braavos (~12-20), skalowac polnocny kanal na wiosne (Torsen/Halvard pipeline); HOLD DRY POWDER na to; (4) NIE forsowac kapitalu bo sie go ma (akumulacja). BRAAVIJSKA RAMA: 'najlepiej miec kapital gotowy, gdy inni zamarznieci - trzymaj zima, a WIOSNA, gdy szlaki otwarte a tchorze cash-starved, deployuj z pozycji sily' (buy when others cant). WNIOSEK: cierpliwosc teraz, deploy na sygnaly (~12-12 ubezp, ~12-20 futra, wiosna export). || 12-18: +18 jel zysku doradczego do depozytu u Nesty -> 88 jeleni (8800 mied). Float 6 jel. Cicha akumulacja rosnie z platnego pilaru doradczego."
   },
   {
    "id": "uslugi_rozjemstwo",

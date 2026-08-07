@@ -366,7 +366,7 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 64,
+   "nastawienie_do_gracza": 65,
    "zaufanie": 15,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
@@ -417,7 +417,7 @@
     "d25: Symon chce isc na audiencje u lorda jako SKRYBA Owena (legalna przykrywka - duchowny z pisarzem = zwyczajne; obserwacja lorda/dworu z bliska bez roli proszalnika). Owen zgodny (przyda sie reka+oko). Caveat Owena: Theomore (maester, wyczulony na pismiennego obcego) bedzie na sali - grac mebla bez skazy, milczec, byc niewidzialnym."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-12-28",
+   "ostatni_kontakt": "296-12-29",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },
@@ -491,13 +491,14 @@
    "id": "maester_theomore",
    "imie": "Theomore",
    "zawod": "maester lorda Wymana Manderly na Nowym Zamku; uczony, zna prawo i precedens, ma ucho lorda i drogi ku Cytadeli/Winterfell; ale sluzy establishmentowi (ryzyko) | OCENA OWENA: uczony i (wg Owena) osobiscie uczciwy — nie Ryman, zwiazany kodeksem Cytadeli; ALE lojalnosc nalezy do lorda Wymana, nie do sprawiedliwosci samej w sobie ani do obcego/wdowy. Ryzyko nie 'zdrada za srebro', lecz 'jego obowiazek biegnie ku establishmentowi' — co zrobi z rzecza, zalezy od interesu LORDA, nie Symona.",
-   "nastawienie_do_gracza": 2,
-   "ostatni_kontakt": "296-09-06",
+   "nastawienie_do_gracza": 5,
+   "ostatni_kontakt": "296-12-29",
    "cechy_mowy": "uczenie i wynioslo, poludniowy akcent; lubi slowa 'precyzyjnie' i 'wedle precedensu'",
    "zaufanie": 1,
    "wie_o_graczu": [
     "przedstawil sprawe Rymana jasno, jak rachmistrz — Theomore docenil klarownosc, ALE odmowil dzialania: to tylko kopia, brak oryginalu/korroboracji, oskarzenie tyczy szanowanego czlowieka u lorda; nie tknie bez ironclad proof",
-    "m9d6: prostak-skryba przyszedl PROSIC o nauke/dostep do wiedzy — Theomore odprawil go chlodno, z wynioslоscia: nie ma PRECEDENSU, by maester ksztalcil nisko urodzonego; jego obowiazek to lord, nie edukacja kupczykow. Symona widzi jako natreta, co znowu sie napraszania (po Rymanie). Braavijski Symona zbyl jako 'znosny jak na kramarza'"
+    "m9d6: prostak-skryba przyszedl PROSIC o nauke/dostep do wiedzy — Theomore odprawil go chlodno, z wynioslоscia: nie ma PRECEDENSU, by maester ksztalcil nisko urodzonego; jego obowiazek to lord, nie edukacja kupczykow. Symona widzi jako natreta, co znowu sie napraszania (po Rymanie). Braavijski Symona zbyl jako 'znosny jak na kramarza'",
+    "d29 (audiencja, rzut 83): widzial Symona jako SKRYBE Owena na posluchaniu - zagral role bez skazy (pokorny, sprawny, milczacy, zna miejsce). Dawny sad ('zuchwaly prostak') ZMIEKL ku 'zdatny, cichy, nieszkodliwy, na swoim miejscu'. Zero ciekawosci ku watkom Symona (Ryman/pochodzenie). Faint ziarno szacunku dla pokornej kompetencji. Ryzyko rozbrojone."
    ],
    "potrzeby": [],
    "leki": [],

@@ -2357,3 +2357,6 @@ Symon pracuje w kantorze z Nesta i bierze przy sobie Hala - ale pamieta regule B
 
 ## 296-11-18 wieczor — jedzenie dla Serli
 Symon niesie Serli i malemu Tomowi cos cieplego do garnka w mrozny wieczor. Nic nadzwyczajnego sie nie dzieje - i o to chodzi: stara przyjaciolka przyjmuje strawe z ta prosta wdziecznoscia, ktora jej zawsze towarzyszy, siedza chwile przy skapym ogniu, Tom, chudy ale zywy, je do syta choc raz. Zwyczajne, cieple dobro, ktore nie potrzebuje wielkich slow ani chwil. Symon wychodzi w mroz z lekkim sercem. Serla 29->31.
+
+## 296-11-18 wieczor -> 11-19 — silownia, lektura, sen
+Symon cwiczy cialo w sepcie, czyta i spi. Zima pełznie glebiej — opal drgnal z 1.5 na 1.6, popyt rosnie, ale to jeszcze nie okno sprzedazy (cel ~1.8-2x). Jutro odbior zakontraktowanych skor od Colla.

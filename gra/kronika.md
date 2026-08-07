@@ -2855,3 +2855,6 @@ Symon rozłożył Neście dzień. Pochwaliła powstrzymanie Godrica — steward 
 
 ## 296-12-26 NOC / 12-27 RANEK — sen
 Symon domknął dzień pełen kryzysu i planów — powstrzymany Godric, słaba trzecia zbiórka, ostrzejsza petycja z Nestą, drogi ku mieszczaństwu. Spał twardo. Rankiem dwudziestego siódmego trzaskający mróz, koniec miesiąca blisko. Przed nim: petycja Owena do lorda dojrzewa (~29), wypłata Godrica (~30), cieniejące zapasy na doraźnej łacie (~31). Zwykły zimowy poranek, dzień otwarty.
+
+## 296-12-27 RANEK→POŁUDNIE — dopracowanie petycji z Owenem
+Symon i Owen — pióro i głos — złożyli petycję ostrą jak brzytwa. Nie „zmiłuj się nad nędzarzami", lecz framing, który stawia lordowi rolę: porządek jego miasta zagrożony zimową desperacją, a droga wyjścia czyni go wspaniałomyślnym panem, którego miłosierdzie ucisza ulice i złoci imię. Wiara firmuje, lord zbiera chwałę. Kształt mistrzowski, ten sam co przy Winterfell — hak, nie żądanie; skromna, twarz-zachowująca prośba. I konkret, którego żebrania nie mają: prawdziwe liczby z księgi reliefu Hala — ilu nakarmionych, ile brakuje. Owen czytał to z nadzieją w oczach: „Z tym mogę stanąć przed lordem." Piękny splot — księga, którą Symon powierzył chłopcu, zasiliła petycję wiarygodnością.

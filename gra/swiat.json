@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 30,
+  "dzien": 31,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "zima nadeszla (Polnoc) — dlugie lato dogaslo",
  "pogoda": 22,
- "dzien_tygodnia_nr": 4,
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "12-30 RANEK, zima Polnocy. Koniec miesiaca. Kapnela cicha wyplata Godrica (+5 jel). Zegar: poznanie Miry (~12-31, Nesta aranzuje). Relief zaopatrzony (kryzys przelamany). Wielkie watki spia do wiosny.",
+ "nastroje_miasta": "12-31 RANEK, zima Polnocy, ostatni dzien roku 296. WIESC: Nesta dala znac - Mira sie zgodzila, pretekst gotowy (jej ksiegi/braavijskie papiery), mozna isc poznac ja DZIS. Relief zaopatrzony. Zegary: draw Nesta ~01-19, Godric ~01-30.",
  "ceny": {
   "chleb": {
    "baza": 3,

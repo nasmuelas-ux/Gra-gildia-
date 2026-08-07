@@ -105,9 +105,10 @@
    "id": "poznanie_miry",
    "typ": "okazja",
    "odlicza_do": "296-12-31",
-   "opis": "Nesta aranzuje poznanie z MIRA - pretekst: pomoc jej z ksiegami po mezu + braavijskimi papierami handlowymi (zywiol Symona). Symon przyjdzie jako fachowiec, NIE zalotnik. Podejscie: autentycznosc, cierpliwosc, zero pchania (wdowa wybredna, nie popchniesz). Nesta da znac gdy Mira sie zgodzi (~dzien-dwa).",
+   "opis": "Nesta aranzuje poznanie z MIRA - pretekst: pomoc jej z ksiegami po mezu + braavijskimi papierami handlowymi (zywiol Symona). Symon przyjdzie jako fachowiec, NIE zalotnik. Podejscie: autentycznosc, cierpliwosc, zero pchania (wdowa wybredna, nie popchniesz). Nesta da znac gdy Mira sie zgodzi (~dzien-dwa). || 12-31: NESTA DALA ZNAC - Mira sie zgodzila, pretekst gotowy (jej ksiegi po mezu + braavijskie papiery czekaja na fachowego skrybe). Mozna isc poznac ja DZIS. Podejscie: fachowiec nie zalotnik, autentycznosc, zero pchania.",
    "co_sie_stanie": "za ~dzien-dwa: Symon poznaje Mire przez robote pisarska/ksiegowa - pierwsze wrazenie, poczatek (ew.) zalotow przez wartosc",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "GOTOWE": true
   },
   {
    "id": "draw_nesta",

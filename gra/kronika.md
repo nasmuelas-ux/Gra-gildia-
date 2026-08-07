@@ -2912,3 +2912,6 @@ Symon poszedł do Voxa po realia mieszczaństwa, a osiadły sukiennik dał mu wi
 
 ## 296-12-30 ZMIERZCH — depozyt i Hal
 Symon zaniósł nadwyżkę do kantoru — dwadzieścia cztery jelenie za kwit, float cienki; depozyt urósł do stu dwudziestu dwóch jeleni. Potem zajrzał do Hala i zobaczył widok krzepiący: chłopak prowadzi rozrośniętą po darze lorda księgę reliefu czysto i sprawnie, a co ważniejsze — trzyma się swojego pasa: liczy, nie decyduje, po tamtej lekcji rozumie różnicę. Dojrzewa powoli, przez robotę, jak Symon przewidział. Docenił go wprost, bo tego chłopiec łaknie bardziej niż chleba, i zobaczył, jak mu to prostuje plecy. Próba zaufania idzie dobrze; delegowanie, mozolnie, zaczyna się zwracać.
+
+## 296-12-30 NOC / 12-31 RANEK — sen; wieść o Mirze
+Symon domknął dzień i spał — koniec dobrego tygodnia, koniec roku. Rankiem trzydziestego pierwszego, ostatniego dnia 296 roku, przyszła wieść od Nesty: Mira się zgodziła, pretekst gotowy — jej księgi po mężu i braavijskie papiery czekają na fachowego skrybę. Można iść poznać ją dziś. Trzaskający mróz, miasto ciche pod zimą, relief zaopatrzony. Przed Symonem pierwsza rozmowa z kobietą, która mogłaby być czymś więcej niż zleceniem.

@@ -619,7 +619,7 @@
    "leki": [
     "nierzetelni wspolnicy"
    ],
-   "nastawienie_do_gracza": 26,
+   "nastawienie_do_gracza": 28,
    "zaufanie": 4,
    "wie_o_graczu": [
     "dotrzymal slowa na umowie cechowej",
@@ -629,8 +629,11 @@
     "Symon prowadzi cechowe zamowienie na polnocne drewno — dla Torsena stały, powtarzalny odbiorca (marzenie faktora)"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-11-10",
-   "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'"
+   "ostatni_kontakt": "296-11-14",
+   "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'",
+   "historia": [
+    "m11d14: rozmowa o oknie na glebie Polnocy (rzut 36). Torsen cieplo (wiecej interesu), potwierdza: siec Halvarda SIEGA glebiej niz drewno/1 proba futer — futra/skory/bursztyn + loj, wosk, miod, rog/kosc, polnocne specjaly. ALE limity: ZIMA scina podaz glebi do zera (traperzy/klany/gora ruszą dopiero wiosną, Bialy Noz zamarza), i Torsen NIE zaangazuje Halvarda na wieksza skale, poki proba futer nie udowodni popytu/marzy w Braavos (~12-20). Timber jego priorytet -> facylitator nie driver. WNIOSEK: pipeline WIOSENNY zmapowany, teraz nic nie plynie. Torsen 26->28."
+   ]
   },
   {
    "id": "wdowa_elna",

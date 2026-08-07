@@ -2972,3 +2972,6 @@ Donnel znów się przydał — złapał wadę, którą zima ukryła. Ściany pro
 
 ## 297-01-04 NOC / 01-05 RANEK — sen
 Symon domknął dzień i spał — dwa martwe tropy za sobą, węch założony, nauka Owena w głowie: nie chwytać, przyjdzie do cierpliwego. Rankiem piątego stycznia mróz trzyma, miasto ciche. Faza spokojna: nazwisko zmapowane (brak tylko kamienia), Mira na cierpliwość, wielkie wątki śpią do wiosny. Draw ~19, Godric ~30.
+
+## 297-01-05 RANEK→POŁUDNIE — liczenie kamieniczki z Nestą
+Symon i Nesta rozłożyli kamieniczkę dochodową na czynniki — ich wspólny żywioł. Wniosek: sam z kiesy zdrowej wielopokojowej nie kupi (128 jeleni za mało), ale od tego są narzędzia kupca: wkład własny ~80-90 jeleni, resztę finansuje kantor na uczciwych warunkach wspólnika, a czynsz z 2-3 wynajętych izb obsługuje większość raty, dochód resztę — aktyw spłaca się w dużej części sam, jak „konto oszczędnościowe kupca". Rezerwa zostaje, pułap ceny do jakichś 150-180 jeleni all-in, kamieniczka do remontu; Donnel wyceni remont, Torren sprawdzi tytuł. Cztery pożytki w jednym kamieniu: lokum, biuro, własność pod nazwisko i czynsz. Nesta przyklasnęła — to myślenie kupca, jakiego chciała go nauczyć, a kantorowe finansowanie umacnia jego standing kupiecki pod wniosek mieszczański. Węch przestawiony na kamieniczkę do remontu z ogródkiem; przyjdzie z czyjegoś nieszczęścia, ku wiośnie.

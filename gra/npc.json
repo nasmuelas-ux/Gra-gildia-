@@ -166,7 +166,7 @@
     "strata 'Corki Tytana' z towarem",
     "oszustwo miejscowego notariusza"
    ],
-   "nastawienie_do_gracza": 65,
+   "nastawienie_do_gracza": 66,
    "zaufanie": 30,
    "wie_o_graczu": [
     "czyta braavijski lepiej, niz sie spodziewala",
@@ -253,10 +253,11 @@
     "d29 (rzut 88): Symon zdal sprawe z UDANEJ audiencji - framing Nesty ('lord ma wygladac hojny') zadzialal co do joty, Wyman sypnal na relief. Nesta gleboka duma ('poruszyles Wymana i wyszedles niewidzialny; rok temu nie wiedziales jak sie klania rycerzowi') - jej gra pozycyjna rozegrana na poziomie wielkiego lorda. Partnerstwo glebsze. + dala NITKE malzenska: Mira (wdowa po kupcu, pismienna/obrotna/niezalezna); znajdzie naturalny pretekst do poznania.",
     "d29: Symon poprosil, by zaaranzowala poznanie z Mira. Nesta ustawia naturalny pretekst: Mira ma resztke ksiag meza + braavijskie papiery handlowe, ktorych nie ogarnia - odesle ja do 'skryby co zna braavijski i liczby'. Symon przyjdzie jako FACHOWIEC nie zalotnik. Spotkanie za dzien-dwa (Nesta da znac). Rada: 'idziesz pomoc z ksiegami, nie zdobyc zone - reszta przyjdzie sama'.",
     "d30 (rzut 93): pelne rozliczenie partnerskie - Nesta otwarla ksiegi bez zaslony. Draw biezacy; ~10 jel 1/3 rozpoznane; UDZIAL CORE PODNIESIONY z proby na stale/rosnacy ('zapracowales, na serio') - Symon realnym wspolwlascicielem. Konto czyste. Partnerstwo glebsze.",
-    "297-01-01 (rzut 33): debrief Miry+prawo miejskie. MIRA: chlodny start nie dziwi, ALE pol-przejrzenie aranzacji martwi - garda na stale, pretekst CZESCIOWO SPALONY (nie da sie dokarmiac okazji, kazda potwierdzi swatanie). Rada: odpuscic nacisk, dac odetchnac, tylko niewymuszona prawdziwa potrzeba, nie gonic. PRAWO MIEJSKIE: Nesta obca, nie zna praktyki admisji; biegli problematyczni (notariusze cechowi=wrogowie, maester ryzykowny) - brak czystego znawcy, watek utknal. Zero czystych wygranych, ale szczera/ciepla."
+    "297-01-01 (rzut 33): debrief Miry+prawo miejskie. MIRA: chlodny start nie dziwi, ALE pol-przejrzenie aranzacji martwi - garda na stale, pretekst CZESCIOWO SPALONY (nie da sie dokarmiac okazji, kazda potwierdzi swatanie). Rada: odpuscic nacisk, dac odetchnac, tylko niewymuszona prawdziwa potrzeba, nie gonic. PRAWO MIEJSKIE: Nesta obca, nie zna praktyki admisji; biegli problematyczni (notariusze cechowi=wrogowie, maester ryzykowny) - brak czystego znawcy, watek utknal. Zero czystych wygranych, ale szczera/ciepla.",
+    "297-01-05 (rzut 61): policzyli kamieniczke dochodowa. Wniosek: sam z kiesy (128 jel) nie kupi zdrowej wielopokojowej, ale FINANSOWANIE KANTORU (warunki wspolnika) + czynsz z 2-3 izb obsluguje dlug + dochod reszte = aktyw splaca sie sam. Plan: wklad ~80-90 jel, reszta finansowana, rezerwa zostaje, pulap ~150-180 jel all-in (kamieniczka DO REMONTU), Donnel+Torren wetuja. Nesta OFERUJE finansowanie kantoru (umacnia standing kupiecki Symona pod mieszczanstwo). Wech przestawiony na kamieniczke do remontu z ogrodkiem."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-01-03",
+   "ostatni_kontakt": "297-01-05",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem",
    "historia": [
     "m11d14: Symon podsuwa pilotaz ubezpieczen/pul ryzyka frachtu (rzut 88). Nesta CHWYTA w lot (zna braavijskie zalazki: pozyczki bodmeryjne, dzielenie ryzyka), impressed regardem dla Symona jako partnera z wizja. Przycina po braavijsku: pilotaz TINY, dywersyfikacja od zaraz (nigdy jeden statek), znane male ladunki/kapitanowie/trasy ktore umieja wycenic; KAPITAL kantoru/pryncypala nie chuda sakiewka Symona; wklad Symona = MODEL RYZYKA (rachunki8+info-edge o trasach/pogodzie/kapitanach) za CICHY udzial; biegnie jako 'kantor daje rekojmie na ladunek' = kamuflaz, nazwisko Symona off. Cap: male poki pryncypal nie zatwierdzi wiekszego kapitalu (chce dowodu/czystej struktury) i poki zima najgorsza. Nesta 48->50.",

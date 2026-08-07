@@ -163,3 +163,6 @@ Wick, stary sluga Starego Zamku i jedyny zyjacy swiadek rejestru, ciezko zachoro
 
 ## Wick — deposycja przegrana (296-10-17)
 Wick odszedl umyslem, potem zycia (natur.), zanim Symon wyjal prawomocne zeznanie. Zyjaca noga korroboracji Rymana stracona. Zostaje: kopia + daleki rejestr Starego Zamku + zaginiona wdowa. Ryman NADAL nie wie o niczym (asymetria cala). Sprawa mocno oslabiona, ale kopia i inne (trudniejsze) legi zyja.
+
+## Audyt Aurane (11-19): PRAWDA
+Faktor skladu Aurane'a skimuje przez FANTOMOWE ZEPSUCIE: zawyza spisy 'uszkodzonego/zgnilego' towaru, a spisany towar sprzedaje poza ksiega i kasuje utarg. Symon (double-entry) domknal dowod 11-19 (rzut 89): kwota za okres oszacowana, ksiega zbilansowana=dowod. Faktor jeszcze nie wie. Po raporcie Aurane bedzie decydowal (zwolnienie/konfrontacja/sad); Symon = demaskator -> faktor mozliwym wrogiem.

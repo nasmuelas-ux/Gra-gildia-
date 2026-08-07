@@ -2729,3 +2729,6 @@ Symon poszedł do Mereka i powiedział prosto, jak jest. Twoje księgi są czyst
 
 ## 296-12-17 POPOŁUDNIE-NOC / 12-18 RANEK — zwykłe popołudnie, prawo, sen
 Popołudnie zeszło Symonowi na zwykłej robocie i odpoczynku, wieczór na prawie — przyzwoita sesja, powolne wspinanie się ku wyższej biegłości. Spał dobrze. Rankiem osiemnastego czeka konkret: obiecane księgi Wata, premium klient pod klauzulą dyskrecji, z siedmioma jeleniami salda na dostawie. Mróz zelżał, port wciąż skuty, miasto ciche.
+
+## 296-12-18 RANEK — księgi Wata dostarczone
+Symon zjadł i dowiózł Watowi pełną usługę — na większej, bardziej zawiłej księdze niż Voxowa, ale robota poszła czysto. Wiekowanie należności, rentowność per klient i trasa (pokazał Watowi, która noga cicho topi mu grosz), kalendarz zobowiązań, progi. Wat, który marzy, by nadążyć za większymi ze Schodów, oglądał to jak nowe narzędzie władzy i zapłacił siedem jeleni salda bez mrugnięcia. Klauzula dyskrecji trzyma się sama — gaduła pilnuje języka, bo cichość jest teraz jego prestiżem. Symon wyszedł z pełnym fee i czymś ważniejszym: dowodem, że model premium pod dyskrecją działa i na większym kliencie. Filar rośnie cicho i płatnie.

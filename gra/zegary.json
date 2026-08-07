@@ -63,7 +63,9 @@
    "odlicza_do": "296-12-18",
    "opis": "Symon ma ulozyc ksiegi Wata (wiekszy kupiec, wieksi kontrahenci) - usluga zarzadcza premium pod klauzula dyskrecji. Reszta fee ~7 jel na dostawie.",
    "co_sie_stanie": "dostarczenie uslugi Watowi - balans fee ~7 jel; test modelu premium+dyskrecja na wiekszym kliencie",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "ROZSTRZYGNIETY": "296-12-18 (rzut 60): dostarczone czysto, saldo 7 jel zaplacone, dyskrecja trzyma.",
+   "zamkniety": true
   }
  ]
 }

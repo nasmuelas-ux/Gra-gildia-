@@ -28,7 +28,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 67
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 30
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
-- **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 66
+- **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 64
 - **Lorren** (lorren_lichwiarz) — lichwiarz spod Wilczego Legu · nast -4
 - **Harwin** (poborca_harwin) — poborca Cechu Pisarzy (egzekutor) · nast -8
 - **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 5

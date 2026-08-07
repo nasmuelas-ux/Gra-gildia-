@@ -2693,3 +2693,6 @@ Wątek „Osgar poluje na źródło zboża" wycofany w całości — nie napędz
 
 ## 296-12-14 NOC / 12-15 RANEK — prawo i sen
 Symon domknął dzień nad prawem — solidna, spokojna sesja bez przełomu, litery już nie ciążyły, bo opuchlizna z ręki zeszła. Spał dobrze. Rankiem piętnastego ręka sprawna, mróz trzyma, śnieg sypie miękko. Miasto ciche. Submisja do Winterfell leży gdzieś w rękach Północy, ale odpowiedzi nie ma co wyglądać przez tygodnie — głucha zima, kanały wolne. Zwykły zimowy poranek.
+
+## 296-12-15 RANEK — u Leony, nie w porę
+Symon zjadł i poszedł na Schody do Leony, licząc, że ruszy jej książki i te braavijskie papiery dostawców, które ją gryzą. Trafił źle. Leona miała zły dzień — jakiś bieżący kłopot z dostawcą, zima dokładała swoje — i była twarda, krótka, bez cierpliwości do ksiąg. Kiedy ostrożnie dotknął tematu weryfikacji, nie wpadło to w porę: dumna kobieta, która za nic nie chce wyglądać na ratowaną akurat wtedy, gdy już jest przyparta, spięła się na moment — błysk czujności, po co on ciśnie na jej dostawców właśnie dziś. Nie było zerwania; drzwi zostały otwarte. Ale Symon wyczytał w porę, że pchanie agendy dziś kosztowałoby więcej, niż warte, więc wycofał się zręcznie. Nauka prosta: najpierw czyta się, czy człowiek jest na rozmowę gotów, potem przynosi się sprawę.

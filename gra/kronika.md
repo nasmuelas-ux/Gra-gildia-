@@ -2816,3 +2816,6 @@ Symon zapytał Owena wprost, czy jego imię już coś znaczy. Septon, czytając 
 
 ## 296-12-24 NOC / 12-25 RANEK — sen
 Symon domknął dzień i spał — po służbie i szczerej rozmowie z Owenem o imieniu i korzeniach głowa była pełna, ale spokojna. Rankiem dwudziestego piątego trzaskający mróz, miasto ciche pod zimą, koniec miesiąca się zbliża. Wypłata od Godrica ku trzydziestemu; reszta wielkiego śpi do wiosny. Zwykły zimowy poranek.
+
+## 296-12-25 RANEK→POŁUDNIE — u Nesty: praca i rozmowa o niej
+Zamarznięty port zdławił żeglugę, więc potop manifestów opadł i Symon zastał Nestę spokojniejszą niż od tygodni. Usiedli do roboty bez pośpiechu, a on zapytał nie o interes, lecz o nią. Odpuściła trochę gardę: zima to rzadki oddech, ale w ciszy wraca najcięższa myśl — dług u Antaryonów. Lewar na Ternesia złagodził jesienny nacisk, dał powietrze, lecz dziewięćdziesiąt smoków wciąż wiszą, a wyjście — refinansowanie przez Bank albo innego wierzyciela, przez pryncypała — to gra na wiosnę, bo listy idą wolno przez lód. Powiedziała to twardo, bez skargi, ale było w tym zmęczenie kobiety samej z dala od domu, dźwigającej cudzy dom. „Dobrze, że nie dźwigam tego już całkiem sama" — tyle czułości, ile sobie pozwala. Robota poszła czysto; oboje wiedzą, że zima to czekanie, a wielka rozgrywka czeka odwilży.

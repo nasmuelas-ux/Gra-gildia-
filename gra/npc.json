@@ -728,7 +728,11 @@
    "imie": "Vhassar",
    "zawod": "kapitan Corki Tytana (na morzu)",
    "nastawienie_do_gracza": 18,
-   "nota": "stały klient faktorii; ufa Symonowi (dwujęzyczne uczciwe umowy); wiezie próbną skrzynię barwników; poleca innym kapitanom"
+   "nota": "stały klient faktorii; ufa Symonowi (dwujęzyczne uczciwe umowy); wiezie próbną skrzynię barwników; poleca innym kapitanom",
+   "ostatni_kontakt": "296-11-25",
+   "historia": [
+    "m11d25 (rzut 16): przywiozl probna skrzynie barwnikow tyrijskich - ale towar PODRZEDNY/czesciowo ciety, mizerna purpura bez premium (Essosi rynek barwnikow burzy - fałsze/rozcienczenia; Vhassar moze sam dal sie nabrac u zrodla). Proba=wash. Bez rozejmu, ale osad: import egzotyczny ryzykowny. Nast bez zmian."
+   ]
   },
   {
    "id": "przekupka_rywalka",

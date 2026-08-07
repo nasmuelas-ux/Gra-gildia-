@@ -9,14 +9,6 @@
    "widoczny_graczowi": true
   },
   {
-   "id": "import_barwniki",
-   "typ": "okazja",
-   "opis": "Vhassar wraca z probna skrzynia barwnikow tyrijskich (noga importowa spolki egzotycznej); zaplata reszty przy odbiorze",
-   "odlicza_do": "296-11-25",
-   "co_sie_stanie": "przybycie skrzyni — test rynku importu; zysk maly, nauka szlaku",
-   "widoczny_graczowi": true
-  },
-  {
    "id": "zima_ubodzy",
    "odlicza_do": "296-11-05",
    "typ": "szansa/obowiazek",

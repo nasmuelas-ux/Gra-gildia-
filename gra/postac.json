@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 85,
- "sytosc": 74,
- "zmeczenie": 3,
+ "sytosc": 71,
+ "zmeczenie": 6,
  "sakiewka": {
   "miedziaki": 32,
   "jelenie": 21,
@@ -41,7 +41,8 @@
   "MATERIALY PISARSKIE dokupione 11-15: 3 arkusze pergaminu, kalamarz atramentu, wiazka swiec (na zimowe wieczory) — srodek produkcji uzupelniony; buty sprawdzone: sluzebne, natluszczone, wymiana odlozona (dyscyplina)",
   "WIEDZA/DRZEWKO: PODWOJNA KSIEGOWOSC (metoda braavijska) + PRAWO KUPIECKIE BRAAVIJSKIE — opanowane 11-15 od Nesty (rzut 92). Kazda transakcja ksiegowana dwustronnie (winien/ma), ksiega MUSI sie bilansowac -> blad i oszustwo SAME wyskakuja z niezbilansowania. EFEKTY: (1) audyt Symona ostrzejszy (fraud widoczny), (2) MODEL RYZYKA pilotazu ubezpieczen mocniejszy, (3) karta celna = braavijski standard dowodu, ktorego chce pryncypal (zbilansowana ksiega=dowod nie plotka), (4) kantor sprawniejszy. To 'nowoczesna krawedz' z realnego frontu.",
   "SKORY (spolka egzotyczna) odebrane 11-20 od Colla — jakosciowe, cena zamrozona (okazja vs zimowy rynek), zaplacone ~7 jel z rezerwy spolki (nie z sakiewki); ZESTAGOWANE pod wywoz do Braavos, czekaja na okno/statek",
-  "KARTA CELNA (zmontowana 11-23): zbilansowana rekoncyliacja celno-rachunkowa (double-entry) - deklaracje frachtu/cla drewna systematycznie ZAWYZONE, rozbieznosc SAMOBRONNA i NEUTRALNA (fakt administracyjny, nie imienne oskarzenie). Zrodlo (Garth) CHRONIONE: karta opiera sie glownie na WEWNETRZNYCH niespojnosciach deklaracji + publicznie-sprawdzalnych cross-refach; potwierdzenie 'faktycznego frachtu' zostawione WLADZY do weryfikacji jej wlasnym dostepem (burden-flip) - nie cytuje prywatnych liczb Gartha. KSZTALT = hook dosc mocny, by ZMUSIC oficjalna weryfikacje (jak submisja Winterfell), nie self-contained wyrok. GOTOWA do struktury kontenerowej (cichy lewar->lord/Godric lub kolodzieje). GORACY dokument - zabezpieczyc, kompartmentalizowac."
+  "KARTA CELNA (zmontowana 11-23): zbilansowana rekoncyliacja celno-rachunkowa (double-entry) - deklaracje frachtu/cla drewna systematycznie ZAWYZONE, rozbieznosc SAMOBRONNA i NEUTRALNA (fakt administracyjny, nie imienne oskarzenie). Zrodlo (Garth) CHRONIONE: karta opiera sie glownie na WEWNETRZNYCH niespojnosciach deklaracji + publicznie-sprawdzalnych cross-refach; potwierdzenie 'faktycznego frachtu' zostawione WLADZY do weryfikacji jej wlasnym dostepem (burden-flip) - nie cytuje prywatnych liczb Gartha. KSZTALT = hook dosc mocny, by ZMUSIC oficjalna weryfikacje (jak submisja Winterfell), nie self-contained wyrok. GOTOWA do struktury kontenerowej (cichy lewar->lord/Godric lub kolodzieje). GORACY dokument - zabezpieczyc, kompartmentalizowac.",
+  "BARWNIKI TYRIJSKIE (proba, 11-25): PODRZEDNA JAKOSC / czesciowo cieta - purpura mizerna, NIE osiaga premium; Nesta oko zlapala. Proba = maly wash/strata (~5 jel netto z rezerwy spolki: 4 zadatek+~5 reszta za towar wart ~4-5). Import egzotyczny NIEDOWIEDZIONY. Skrzynia do uplynniania po ile sie da."
  ],
  "reputacja": {
   "port": 21,
@@ -72,7 +73,7 @@
   "spryt_uliczny": 85,
   "kondycja": 79,
   "rzemioslo": 0,
-  "handel": 62,
+  "handel": 63,
   "walka": 40
  },
  "jezyki_znane": [

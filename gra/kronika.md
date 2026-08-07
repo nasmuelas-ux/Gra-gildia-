@@ -2759,3 +2759,6 @@ Symon poszedł odświeżyć Aldousa — wdzięcznego sojusznika, któremu kiedy�
 
 ## 296-12-20 NOC / 12-21 RANEK — trening, mycie, sen
 Symon domknął dzień po ludzku: ćwiczenie ciała, ciepła strawa, mycie w zimnej wodzie przy Sepcie, i twardy sen. Rankiem dwudziestego pierwszego czuł się czysty i wypoczęty — rzadki komfort w głuchej zimie. Rzeka stoi skuta, wszystkie wielkie interesy zamarznięte do wiosny, miasto ciche. Żywe zostaje to, co przynosi grosz tu i teraz: filar doradczy — Vox, Wat, teraz księgi Leony. Zwykły zimowy poranek, dzień otwarty.
+
+## 296-12-21 RANEK — księgi Leony po mężu: znalezione pieniądze
+Symon rozplątał zawiłe księgi po zmarłym mężu Leony — metodycznie, po braavijsku, kolumny winien i ma z bałaganu porzuconego w dniu, gdy zabrakło ręki, co je znała. I wyszło coś, co poderwało wdowę: nieściągnięte należności, długi zapisane i zapomniane, wciąż ważne i ściągalne. Znalazł jej pieniądze, o których nie wiedziała, i jasny obraz pozycji zdrowszej, niż się bała. Bez pochlebstwa, bez litości — tylko twarda robota i konkret, jedyne, co ta kobieta szanuje. Zapłaciła fair za sesję i chce, by dokończył resztę. Reputacja Symona u matrony Schodów skoczyła: z człowieka, którego wpuściła nieufnie, stał się kimś, kogo będzie polecać — potężny węzeł dla niszy weryfikacji.

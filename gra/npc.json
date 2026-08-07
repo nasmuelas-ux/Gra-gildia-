@@ -156,7 +156,7 @@
     "strata 'Corki Tytana' z towarem",
     "oszustwo miejscowego notariusza"
    ],
-   "nastawienie_do_gracza": 56,
+   "nastawienie_do_gracza": 57,
    "zaufanie": 28,
    "wie_o_graczu": [
     "czyta braavijski lepiej, niz sie spodziewala",
@@ -232,7 +232,7 @@
     "nie kupil opalu — ZBUDOWAL kanal (agregacja+brokerstwo); Nesta widzi w nim material na faktora, nie sklepikarza"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-11-25",
+   "ostatni_kontakt": "296-11-27",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem",
    "historia": [
     "m11d14: Symon podsuwa pilotaz ubezpieczen/pul ryzyka frachtu (rzut 88). Nesta CHWYTA w lot (zna braavijskie zalazki: pozyczki bodmeryjne, dzielenie ryzyka), impressed regardem dla Symona jako partnera z wizja. Przycina po braavijsku: pilotaz TINY, dywersyfikacja od zaraz (nigdy jeden statek), znane male ladunki/kapitanowie/trasy ktore umieja wycenic; KAPITAL kantoru/pryncypala nie chuda sakiewka Symona; wklad Symona = MODEL RYZYKA (rachunki8+info-edge o trasach/pogodzie/kapitanach) za CICHY udzial; biegnie jako 'kantor daje rekojmie na ladunek' = kamuflaz, nazwisko Symona off. Cap: male poki pryncypal nie zatwierdzi wiekszego kapitalu (chce dowodu/czystej struktury) i poki zima najgorsza. Nesta 48->50.",
@@ -827,7 +827,11 @@
    "status": "RATA WZIETA (d15, rzut 44): przyjal pelna zaplate; udokumentowana rezerwa nadwyzki przyjeta CHLODNO — rozumie, ze kantor ma na jego zawyzenie DOWOD na piśmie. Veiled jab (\"refinansowanie, jesli do niego dojdzie\"), ale ZERO re-eskalacji. Relacja: zimny, czujny rozejm; wie, ze kantor podparty i z kwitami.",
    "wie_o_graczu": [
     "kantor ma za soba port i sondaz Zelaznego Banku; nie oplaca sie dusic"
-   ]
+   ],
+   "historia": [
+    "m11d27 (lewar rzut 59): Nesta podeszla z deniowalnym sygnalem (administracyjna nieprawidlowosc celno-frachtowa 'wisi', rozsadna relacja > squeeze). Ternesio POLĄCZYL KROPKI i ZLAGODZIL nacisk na dlug kantoru (stop najostrzejszej egzekucji, oddech/umiarkowana restrukturyzacja) - ale OSTROZNIE, CZESCIOWO: szczwany, testuje czy lewar realny czy blef (karty nie widzial), moze PROBOWAC dojsc, co za tym stoi. Asymetria w duzej mierze cala (Symon/Garth niewidzialni), ale Ternesio ALERT/probing. Nast do gracza n/a (nie wie o Symonie)."
+   ],
+   "ostatni_kontakt": "296-11-27"
   },
   {
    "id": "alys_narzeczona_brana",

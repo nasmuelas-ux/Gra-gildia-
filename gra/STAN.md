@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 296-11-26 ZMIERZCH · schylek dlugiego lata
+- **Data:** 296-11-27 RANEK · schylek dlugiego lata
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
@@ -13,7 +13,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
-- Zdrowie 85 · Sytosc 67 · Zmeczenie 8
+- Zdrowie 85 · Sytosc 74 · Zmeczenie 4
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6
@@ -24,7 +24,7 @@ pismo 7 · rachunki 9 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 31
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 26
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 44
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 56
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 57
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 24
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 60
@@ -48,7 +48,6 @@ pismo 7 · rachunki 9 · prawo 6 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` ubezp_pilot_wynik: Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zy
 - ◆ `?` godric_rachunki_wyplata: Pierwsza cicha wyplata za prowadzenie/audyt rachunkow domu Godrica (braavijski standard), wg rachunku domu na 
 - ◆ `?` skory_wywoz: Skory (jakosciowe, cena zamrozona) ZESTAGOWANE pod zaladunek do Braavos — czekaja na okno wywozowe/statek (zim
-- ◆ `?` ternesio_lewar: Nesta podejdzie do Ternesia (faktor Antaryonow) z cichym lewarem karty (na swoim tempie, ~w ciagu dni) — rezul
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

@@ -1052,16 +1052,17 @@
    "wiek": 50,
    "zawod": "zamozny kupiec/wlasciciel skladow portowych (propertied)",
    "mieszka": "Schody/port",
-   "nastawienie_do_gracza": 12,
-   "zaufanie": 2,
+   "nastawienie_do_gracza": 18,
+   "zaufanie": 5,
    "wie_o_graczu": [
     "polecony przez Godrika jako dyskretny, biegly czlowiek od liczb"
    ],
-   "ostatni_kontakt": "296-11-17",
+   "ostatni_kontakt": "296-11-19",
    "cechy_mowy": "rzeczowy, ostrozny, mowi malo i po interesie",
    "sprawa": "podejrzewa, ze jego FAKTOR/zarzadca skladu SKIMUJE (liczby dostaw vs sprzedazy nie graja); chce CICHEGO, bieglego audytu ZANIM kogokolwiek oskarzy — dokladnie wzor sprawy Godrica, wyzsza stawka/zaplata",
    "historia": [
-    "m11d17 wieczor (rzut 64): pierwsze spotkanie. Symon ustawil ramę dyskrecji (patrze tylko tam gdzie wskazesz, raportuje TYLKO tobie, cicho) - twardy, ostrozny Aurane uspokojony tym + slowem Godrica, z czujnego w ostroznie ufajacego. Zakres WASKI: ksiegi skladu, dostawy vs sprzedaze za okres, czy faktor skimuje. Stawka: ~6 jel na ukonczenie. Zaufanie prowizoryczne, zalezne od wyniku; Aurane wymagajacy na czas. Nast 5->12."
+    "m11d17 wieczor (rzut 64): pierwsze spotkanie. Symon ustawil ramę dyskrecji (patrze tylko tam gdzie wskazesz, raportuje TYLKO tobie, cicho) - twardy, ostrozny Aurane uspokojony tym + slowem Godrica, z czujnego w ostroznie ufajacego. Zakres WASKI: ksiegi skladu, dostawy vs sprzedaze za okres, czy faktor skimuje. Stawka: ~6 jel na ukonczenie. Zaufanie prowizoryczne, zalezne od wyniku; Aurane wymagajacy na czas. Nast 5->12.",
+    "m11d19 (rzut 34): Symon dostarczyl dowod cicho, prywatnie, zbilansowana ksiega broni sie sama; Aurane w pelni przekonany, kontent z roboty, ZAPLACIL ~6 jel, dal slowo trzymac nazwisko audytora poza sprawa. ALE: twardy, wsciekly, ODRZUCIL rade o cichym rozwiazaniu - chce uderzyc na faktora MOCNO i widocznie. To zwieksza ryzyko, ze faktor wywietrzy, ze ktos przejrzal ksiegi, i zacznie szukac audytora. Niewidzialnosc Symona TYLKO czesciowa. Aurane 12->18, dobry nowy propertied kontakt/referrer, ale zostawil ogon ryzyka."
    ]
   }
  ],

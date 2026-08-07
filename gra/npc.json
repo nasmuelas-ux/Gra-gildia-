@@ -165,7 +165,7 @@
     "strata 'Corki Tytana' z towarem",
     "oszustwo miejscowego notariusza"
    ],
-   "nastawienie_do_gracza": 63,
+   "nastawienie_do_gracza": 64,
    "zaufanie": 30,
    "wie_o_graczu": [
     "czyta braavijski lepiej, niz sie spodziewala",
@@ -248,10 +248,11 @@
     "d21: zdeponowal kolejne 10 jeleni (fee od Leony za ksiegi po mezu) - depozyt do 98 jeleni. Cicha akumulacja z pilaru doradczego rosnie stabilnie; Nesta ceni dyscypline.",
     "d25 (rzut 54): zimowy oddech (port skuty, lawina manifestow opadla). Symon zapytal o NIA, nie interes - odpuscila garde: dlug Antaryonow (90 smokow) wciaz ciazy, lewar Ternesia dal powietrze ale wyjscie=refinansowanie (Bank/inny wierzyciel przez pryncypala) to gra na WIOSNE (listy wolno przez lod). Zmeczenie kobiety samej z dala od domu dzwigajacej cudzy dom; 'dobrze ze nie dzwigam tego juz calkiem sama' - tyle czulosci ile sobie pozwala. Wiez ludzka +1.",
     "d26 (rzut 75): debrief dnia. Nesta CHWALI powstrzymanie Godrica ('steward wart wiecej czysty niz uzyty raz' - gra pozycyjna, dojrzalosc). Wyostrza petycje: Wyman Manderly lubi WYGLADAC na hojnego (Manderly dbaja o wizerunek) -> prosba ma dac lordowi wygladac wspaniałomyslnie, skromna/twarz-zachowujaca, chwala i zasluga lordowi (kosztuje nic, kupuje zyczliwosc). Przypomina dyscypline wobec Theomore'a. Cieplo: 'rok temu przyszedles zdesperowany, dzis przynosisz strategie ktora sama bym ulozyla - zrobil sie z ciebie wspolnik'. Partnerstwo glebsze.",
-    "d27 (rzut 52): Symon pyta o zone pismienna/obrotna/otwarta. Nesta lapie ironie ('opisujesz kobiete jak ja') - sucho, pol-pochlebiona, ale STAWIA to na miejscu: wspolnik+mistrzyni, tak zostanie (bez romansu, cieplo bez ranienia). Rada: (1) braavijska co przeplynie morze = rzadka/splatana (wiara/obyczaj/dystans); (2) tutejsze pismienne corki/wdowy kupcow braavijskich sa, ale to nagrody dla osiadlych z nazwiskiem (twoj cech-wrog+rootless bramkuje u ojcow). WYOSTRZONY CEL: nie panna z domu (bramkuje ojciec+standing) lecz NIEZALEZNA PISMIENNA OBROTNA WDOWA - wybiera sama, otwarta z natury, ceni prospekt/charakter ponad rodowod. Nesta ma takie w polu widzenia, POPYTA CICHO w swojej sieci."
+    "d27 (rzut 52): Symon pyta o zone pismienna/obrotna/otwarta. Nesta lapie ironie ('opisujesz kobiete jak ja') - sucho, pol-pochlebiona, ale STAWIA to na miejscu: wspolnik+mistrzyni, tak zostanie (bez romansu, cieplo bez ranienia). Rada: (1) braavijska co przeplynie morze = rzadka/splatana (wiara/obyczaj/dystans); (2) tutejsze pismienne corki/wdowy kupcow braavijskich sa, ale to nagrody dla osiadlych z nazwiskiem (twoj cech-wrog+rootless bramkuje u ojcow). WYOSTRZONY CEL: nie panna z domu (bramkuje ojciec+standing) lecz NIEZALEZNA PISMIENNA OBROTNA WDOWA - wybiera sama, otwarta z natury, ceni prospekt/charakter ponad rodowod. Nesta ma takie w polu widzenia, POPYTA CICHO w swojej sieci.",
+    "d29 (rzut 88): Symon zdal sprawe z UDANEJ audiencji - framing Nesty ('lord ma wygladac hojny') zadzialal co do joty, Wyman sypnal na relief. Nesta gleboka duma ('poruszyles Wymana i wyszedles niewidzialny; rok temu nie wiedziales jak sie klania rycerzowi') - jej gra pozycyjna rozegrana na poziomie wielkiego lorda. Partnerstwo glebsze. + dala NITKE malzenska: Mira (wdowa po kupcu, pismienna/obrotna/niezalezna); znajdzie naturalny pretekst do poznania."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-12-27",
+   "ostatni_kontakt": "296-12-29",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem",
    "historia": [
     "m11d14: Symon podsuwa pilotaz ubezpieczen/pul ryzyka frachtu (rzut 88). Nesta CHWYTA w lot (zna braavijskie zalazki: pozyczki bodmeryjne, dzielenie ryzyka), impressed regardem dla Symona jako partnera z wizja. Przycina po braavijsku: pilotaz TINY, dywersyfikacja od zaraz (nigdy jeden statek), znane male ladunki/kapitanowie/trasy ktore umieja wycenic; KAPITAL kantoru/pryncypala nie chuda sakiewka Symona; wklad Symona = MODEL RYZYKA (rachunki8+info-edge o trasach/pogodzie/kapitanach) za CICHY udzial; biegnie jako 'kantor daje rekojmie na ladunek' = kamuflaz, nazwisko Symona off. Cap: male poki pryncypal nie zatwierdzi wiekszego kapitalu (chce dowodu/czystej struktury) i poki zima najgorsza. Nesta 48->50.",
@@ -1213,6 +1214,25 @@
    "ostatni_kontakt": "296-12-18",
    "cechy_mowy": "gadatliwy, serdeczny, sypie nazwiskami; lubi byc 'w kursie'",
    "_vetting_296-12-15_rzut91": "CZYSTY READ: uczciwy w handlu, placi dlugi, bez smrodu oszustwa - jako osoba BEZPIECZNY. ALE: (1) sam jest GADULA wpiety w plotkarska siec gieldy (stad w ogole slyszal) -> przyjecie go = jeszcze glosniejszy pilar, dokladnie odwrotnie niz 'cichy'; (2) wiekszy/lepiej wpiety niz Vox -> jego ksiegi dotykaja WIEKSZYCH kontrahentow (eskalacja ryzyka w gore, jak ostrzegala Nesta). DECYZJA: przyjac (wzrost+grosz, ale glosniej) / przyjac pod TWARDA klauzula dyskrecji + wysoka cena (spowolnic naplyw) / odmowic-odroczyc (chronic cisze). Symon czyta go dosc, by go OKIELZNAC jesli wezmie."
+  },
+  {
+   "id": "mira_wdowa",
+   "imie": "Mira",
+   "przydomek": null,
+   "wiek": 25,
+   "stan": "mieszczka (wdowa)",
+   "zawod": "wdowa po drobnym kupcu (handel z Braavos); sama ciagnie resztke interesu",
+   "mieszka": "Port_Manderly (okolice)",
+   "nastawienie_do_gracza": 0,
+   "zaufanie": 0,
+   "wie_o_graczu": [],
+   "potrzeby": [
+    "utrzymac resztke interesu meza",
+    "niezaleznosc/nie dac sie popchnac"
+   ],
+   "ostatni_kontakt": null,
+   "cechy_mowy": "(do ustalenia przy poznaniu) — wg Nesty: ostrozna, wybredna, samodzielna",
+   "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA."
   }
  ],
  "orbita": [

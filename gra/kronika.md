@@ -2501,3 +2501,6 @@ Symon siada do nauki u Donnela - i pierwszy raz od dawna jest uczniem, nie mistr
 
 ## 296-11-30 ZMIERZCH — na koniec z Donnelem
 Symon dziekuje mistrzowi szczerze i zostaje jeszcze chwile na rozmowe juz nie o geometrii, lecz po ludzku. Donnel, rozgadany, wskazuje mu przez okno odcinek bialego muru w dole - 'ten kawalek, chlopcze, jest moj; bedzie stal, gdy mnie dawno nie bedzie' - i w tej dumie slychac tez cichy smutek starego rzemieslnika, ktoremu zima odebrala robote, a moze i tego, ze nie ma juz komu przekazac fachu. Tym mocniej bierze do Symona. Na odchodne mowi mu wprost, zeby przychodzil - zimy jeszcze duzo, on siedzi bezczynny, a ucznia z prawdziwa glowa dawno nie mial. Tak zawiazuje sie ciche, stale: Symon bedzie uczyl sie geometrii u Donnela przez cala zime, a stary mistrz zyskuje sens w martwym sezonie i sluchacza swojej wiedzy. Dobra wymiana, ktora niczego nie kosztuje, a obu daje. Donnel 21->23; lekcje na stale.
+
+## 296-11-30 wieczor -> 12-01 — koniec listopada, poczatek grudnia
+Symon je, cwiczy i spi. Listopad zamkniety pelen: lewar na Ternesia zadzialal, karta w rezerwie, blok pewny, cichy dochod plynie (Godric, ubezpieczenia), a on sam zaczal uczyc sie geometrii u Donnela. Grudzien niesie: wynik pilotazu ubezpieczen ~12, pierwsze echo z Winterfell ~15, wiesc o futrach z Braavos ~20. Gleboka zima trzyma miasto.

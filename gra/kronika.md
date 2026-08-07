@@ -2615,3 +2615,6 @@ Symon siada do kantoru z Nesta i Halem, i pierwszy raz robi cos z tej mysli, kto
 
 ## 296-12-09 wieczor -> 12-10 — prawo, sen
 Symon czyta prawo i spi. Lada dzien wynik pilotazu ubezpieczen (~12).
+
+## 296-12-10 RANEK->POLUDNIE — cicha sluzba
+Symon je i staje do sluzby - dzien zwyczajny, spokojniejszy niz tamten ciezki wieczor, bo druga fala reliefu jeszcze grzeje: pod septa nieco mniej rozpaczy, wiecej strawy w garnkach. Owen wdzieczny i cieply, robota idzie rownym rytmem, Hal przy ksiedze. Nic wielkiego - po prostu kotwica, ktora trzyma. Winterfell wciaz milczy, okno dopiero za kilka dni.

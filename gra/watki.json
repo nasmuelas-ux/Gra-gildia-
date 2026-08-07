@@ -521,6 +521,11 @@
    "id": "pomoc_aldous_wino",
    "tytul": "Utkniete wino Aldousa",
    "status": "DOMKNIETY POZYTYWNIE (11-13, rzut 61): Symon rozwiazal problem plynnosci, NIE ruszajac bezpiecznego wina. Uczciwy mostek: pozyczka przez kantor Nesty pod zastaw udokumentowanej konsygnacji, fair merchant terms, Symon reczy standingiem. Aldous plynny od zaraz, wino jego (dojdzie przy odwilzy, marza cala), zero lichwiarzy. Symon nie tknal wlasnej sakiewki (17 jel cale) - rozwiazal dojsciami+zaufaniem (jego edge). Aldous 36->43 przez caly luk; Nesta +1 (dobry, niskiego ryzyka klient kredytowy + pokaz wartosci Symona jako brokera). Mozliwy przyszly: wino dojdzie ~przy odwilzy."
+  },
+  {
+   "id": "ubezpieczenia_frachtu",
+   "tytul": "Pilotaz ubezpieczen frachtu (cichy pilar)",
+   "status": "URUCHOMIONY 11-14 (rzut 88): Nesta zatwierdzila OSTROZNY pilotaz ubezpieczen/pul ryzyka frachtu za parawanem kantoru ('rekojmie na ladunek'). STRUKTURA: male, znane ladunki + zaufani kapitanowie + trasy dajace sie wycenic; dywersyfikacja od zaraz (nigdy jeden statek); KAPITAL kantoru/pryncypala (nie sakiewka Symona); Symon = CICHY architekt + MODEL RYZYKA (rachunki8 + info-edge trasy/pogoda/kapitanowie) za cichy udzial w marzy; nazwisko Symona NIEWIDZIALNE (kamuflaz + postawa akumulacji). DOCHOD: skladki wplywaja przy pisaniu rekojmi; wyplata tylko przy stracie. CAP: skala mala poki (1) pryncypal nie da wiekszego kapitalu [chce dowodu/czystej struktury - patrz karta celna] i (2) zima najgorsza nie minie. RYZYKO: strata objetego statku boli (dlatego male+dywersyfikacja). Pierwszy netto-wynik ~mid XII."
   }
  ]
 }

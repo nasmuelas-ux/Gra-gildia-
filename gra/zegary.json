@@ -50,6 +50,11 @@
    "id": "aldous_wino_dojdzie",
    "termin": "296-12-XX",
    "opis": "Wino Aldousa dojdzie z przeladowni przy oknie pogodowym/odwilzy (skute lodem od 11-13). Splaca pozyczke pod zastaw; domyka przysluge. Czas niepewny - zaleznie od mrozu."
+  },
+  {
+   "id": "ubezp_pilot_wynik",
+   "termin": "296-12-12",
+   "opis": "Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zysk) czy ktorys ucierpial (wyplata). Testuje model ryzyka Symona i oplacalnosc cichego pilaru."
   }
  ]
 }

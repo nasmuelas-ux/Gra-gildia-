@@ -303,7 +303,8 @@
    "typ": "rozwiazane",
    "termin": null,
    "wobec": "bran_tragarz",
-   "stan": "ROZWIAZANE (d25): Symon przyprowadzil Brana; Nesta wziela go NA PROBE do faktorii (tragarz/reka). Marzenie Brana o stalej robocie (ku weselu z Alys) spelnione na probie. Bran nast 17->19, zauf 9. UWAGA: Nesta bierze go na SLOWO Symona — reputacja Symona jako rekomendujacego ludzi teraz zalezy od tego, jak Bran sie spisze (drobna stawka)."
+   "stan": "ROZWIAZANE (d25): Symon przyprowadzil Brana; Nesta wziela go NA PROBE do faktorii (tragarz/reka). Marzenie Brana o stalej robocie (ku weselu z Alys) spelnione na probie. Bran nast 17->19, zauf 9. UWAGA: Nesta bierze go na SLOWO Symona — reputacja Symona jako rekomendujacego ludzi teraz zalezy od tego, jak Bran sie spisze (drobna stawka).",
+   "status": " || 12-31 (rzut 37): proba Brana chwieje sie w zimowym zastoju (martwe nabrzeze); bez stalej roboty nie poslubi Alys. Symon (wspolnik) wstawil sie, obiecal trzymac przez zime + pchac ku stalej posadzie na wiosne (nie da sie zimy przeorganizowac). Bran wdzieczny, anxious. Wiez 48->50."
   },
   {
    "id": "loj_kanal_sprzedazy",

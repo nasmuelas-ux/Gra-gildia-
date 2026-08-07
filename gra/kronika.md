@@ -3011,3 +3011,6 @@ Tego samego dnia, gdy zaangazowal 85 jel i dlug w kamieniczke, Symon przyszedl s
 
 ## 297-01-07 RANEK
 Noc w celi Septy. Symon zasnal niespokojny (drzazga po sluzbie - sprzecznosc hipoteka-vs-nedza), ale cialo odpoczelo. Zegary spia: kamieniczka_zamkniecie ~01-09, draw ~01-19. Rano chlodny, glodny.
+
+## 297-01-07 RANEK->POPOLUDNIE - robota u Nesty (rzut 28)
+Sniadanie w sepcie (sytosc 30->55, darmo), potem po robote do Nesty. Lean winter - kantor cichy (egzotyczna zamrozona, zbozowa zamknieta, malo transakcji do zrodlenia, wiec malo 1/3). Nesta dala CORE grind: uzgodnienie zaleglych ksiag za keep. Uparta rozbieznosc zzarla ranek - wysledzil ja (mundane blad przepisania, poprawiony). Thankless slog; Nesta rzeczowa/przycisniona (dlug Antaryonow, zima chuda). Realia leniwego zimowego sezonu - earning cienki do wiosny. rachunki+1, audyt+1.

@@ -2525,3 +2525,6 @@ Symon siada w kantorze i skladа w jeden dokument cala swoja dyscypline: podrecz
 
 ## 296-12-02 wieczor — ksiegi Godrica: glowa odmawia
 Symon siada wieczorem jeszcze do ksiag domu Godrica - ale po calym dniu, ktory zjadl mu geometria i wielki podrecznik procedur, glowa po prostu odmawia. Liczby zaczynaja mu plywac przed oczami, wers gubi sie w wersie, i po kwadransie widzi, ze nic sensownego z tego nie bedzie. I tu ratuje go wlasna nauka: przeciez sam wpisal do swojego standardu, ze zmeczony rachmistrz to bledy, a blad w cudzych, powierzonych ksiegach to rzecz, na ktora nie moze sobie pozwolic - ani wobec Godrica, ani wobec wlasnej marki dyskrecji. Wiec robi jedyna madra rzecz: odklada pioro, nim popelni pomylke, ktora potem trzeba by tlumaczyc. Sesja stracona, ale nic nie zepsute - ksiegi poczekaja do swiezej glowy. Dzien byl dlugi i gesty; cialo i umysl domagaja sie odpoczynku.
+
+## 296-12-02 wieczor -> 12-03 — prawo, sen
+Symon czyta prawo i spi, dajac glowie odpoczac po gestym dniu. Ksiegi Godrica dokonczy ze swieza glowa. Wielkie watki dojrzewaja: ubezpieczenia ~12, Winterfell ~15, futra ~20.

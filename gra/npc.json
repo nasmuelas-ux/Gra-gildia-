@@ -594,7 +594,7 @@
    "leki": [
     "obcy lichwiarze siegajacy po warsztaty cechowe"
    ],
-   "nastawienie_do_gracza": 44,
+   "nastawienie_do_gracza": 45,
    "zaufanie": 9,
    "wie_o_graczu": [
     "czyta umowy lepiej niz ten co je pisze",
@@ -608,10 +608,11 @@
     "Symon proponuje wspolny polnocny lot drewna/opalu — brokeruje, kolodzieje jako kotwica; laczy interes cechu z frachtem"
    ],
    "dlugi": [],
-   "ostatni_kontakt": "296-11-20",
+   "ostatni_kontakt": "296-11-29",
    "cechy_mowy": "krótko, prosto, wali piescia w stol; 'chlopcze'",
    "historia": [
-    "m11d20 (rzut 72): cieply kontakt; opal Symona bezpieczny/suchy na placu, Boren przyznaje ze przetrzymanie bylo madre (opal drozeje). Nugget: Boren (w branzy) czuje, ze POPYT na opal ostro rosnie z glebokim mrozem, cena pnie sie, szczyt sie zbliza. Przysluga zwrotna wciaz zabankowana (cieplo). Sojusz MOCNY. Nast 42->44."
+    "m11d20 (rzut 72): cieply kontakt; opal Symona bezpieczny/suchy na placu, Boren przyznaje ze przetrzymanie bylo madre (opal drozeje). Nugget: Boren (w branzy) czuje, ze POPYT na opal ostro rosnie z glebokim mrozem, cena pnie sie, szczyt sie zbliza. Przysluga zwrotna wciaz zabankowana (cieplo). Sojusz MOCNY. Nast 42->44.",
+    "m11d29 (rzut 30): kupil zelazo Symona na okucia/obrecze - potrzebowal, wzial chetnie, ale w swoim humorze PRZYCISNAL cene; przy okazji uznal DROBNA PRZYSLUGE zwrotna (za sklad opalu) za SKWITOWANA. Marza Symona cienka. Kanal zelaza mozliwy ale niezaklepany (za chuda marza by ekscytowac). Nast 44->45."
    ]
   },
   {

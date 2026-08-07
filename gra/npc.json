@@ -1138,12 +1138,13 @@
    "wiek": 47,
    "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 8,
+   "nastawienie_do_gracza": 11,
    "zaufanie": 0,
    "wie_o_graczu": [
-    "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)"
+    "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)",
+    "Symon rozbroil jego strach uczciwie (nie manipulacja): wspolnicy godzacy ksiegi to porzadek, nie oskarzenie - jesli wszystko czyste, wspolnik odetchnie. Merek ulzony, zgadza sie zaproponowac RUTYNOWE wspolne pogodzenie ksiag, z Symonem jako neutralnym rachmistrzem. KOSZT: otwarta forma = utrata zaskoczenia (jesli wspolnik oszukuje, dostanie czas ubrac ksiegi). Zalezne od zgody wspolnika."
    ],
-   "ostatni_kontakt": "296-12-11",
+   "ostatni_kontakt": "296-12-12",
    "cechy_mowy": "gadatliwy, nerwowy gdy o pieniadzach",
    "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane",
    "historia": [

@@ -46,6 +46,14 @@
    "id": "godric_rachunki_wyplata",
    "termin": "296-12-30",
    "opis": "Kolejna cicha wyplata za ksiegi domu Godrica (recurring, ~miesiecznie)."
+  },
+  {
+   "id": "merek_wspolnik_odpowiedz",
+   "typ": "proces",
+   "odlicza_do": "296-12-16",
+   "opis": "Merek proponuje wspolnikowi rutynowe wspolne pogodzenie ksiag (za rada Symona). Odpowiedz wspolnika: zgoda (audyt-de-facto rusza legalnie, jawnie) albo opor (sam opor bywa sygnalem). Otwarta forma = wspolnik ma czas ubrac ksiegi jesli krecil.",
+   "co_sie_stanie": "za kilka dni: reakcja wspolnika Mereka - zgoda na pogodzenie ksiag albo wymowka/opor",
+   "widoczny_graczowi": true
   }
  ]
 }

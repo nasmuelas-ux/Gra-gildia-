@@ -2873,3 +2873,6 @@ Symon spytał Owena, kiedy rusza. Septon posłał już do Nowego Zamku prośbę 
 
 ## 296-12-27 NOC / 12-28 RANEK — gimnastyka, sen
 Symon domknął dzień ćwiczeniem ciała, ciepłą strawą i twardym snem. Rankiem dwudziestego ósmego wypoczęty; trzaskający mróz, miasto ciche. Jutro audiencja u lorda — dziś dzień na spokój przed dworem. W tle wypłata Godrica (~30), cieniejące zapasy reliefu (~31).
+
+## 296-12-28 RANEK→POŁUDNIE — przygotowanie do dworu
+Symon przygotował się do jutrzejszej audiencji znakomicie. Dokumenty bez skazy — petycja, kopie, ponumerowane, opieczętowane, zindeksowane tak, by podać Owenowi dokładnie to, czego trzeba, w mgnieniu. Wygląd rozwiązała Wiara: Owen dał mu czystą szatę pisarza Septy, skromną i schludną — wygląda dokładnie tym, kim gra. Rolę przećwiczył na zimno: wejście, ukłon, gdzie stanąć, kiedy milczeć, jak nieść pergaminy i notować z oczami spuszczonymi; Owen podszkolił go w dworskiej etykiecie, a on rozrysował w głowie salę — gdzie lord, gdzie Theomore, jak być meblem, którego maester nie ma powodu odnotować. Wchodzi w jutro spokojny, ostry i niewidzialny — gotów być atutem Owena, nie będąc zauważonym.

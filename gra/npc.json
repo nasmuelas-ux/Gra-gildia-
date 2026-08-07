@@ -1137,14 +1137,17 @@
    "wiek": 47,
    "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 6,
+   "nastawienie_do_gracza": 8,
    "zaufanie": 0,
    "wie_o_graczu": [
     "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)"
    ],
    "ostatni_kontakt": "296-12-11",
    "cechy_mowy": "gadatliwy, nerwowy gdy o pieniadzach",
-   "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane"
+   "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane",
+   "historia": [
+    "m12d11 rzut16: Symon przyjmuje w zasadzie, ale kodeks oslony STALUJE start - spor WSPOLNIKOW to nie skladu-vs-faktor: (1) DOSTEP - ksiegi spolki WSPOLNE, Merek nie ma czystego dostepu do calosci bez wiedzy partnera; jak audytowac skrycie ksiegi wspolnika? (2) SWIADEK - regula kodeksu awkward gdy cel to wspolwlasciciel (Merek nerwowy, nie chce swiadkow swojej podejrzliwosci wobec partnera). Symon NIE brnie (kodeks dziala=nie bierze zle ustawionego ryzyka). Zlecenie ACCEPTED-IN-PRINCIPLE ale STALLED: trzeba najpierw rozwiazac dostep+swiadka. Merek nerwowy, sfrustrowany ze nie od razu, ale profesjonalizm Symona uspokaja. Bez fee. 6->8."
+   ]
   }
  ],
  "orbita": [

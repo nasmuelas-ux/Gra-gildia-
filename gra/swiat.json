@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 22,
- "dzien_tygodnia_nr": 6,
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "12-18 RANEK, glucha zima, mroz zelzal. DZIS: robota dla Wata (ksiegi premium, ~7 jel salda na dostawie). Zegary: futra (~12-20), Godric (~12-30). TU-I-TERAZ: zima/ubodzy.",
+ "nastroje_miasta": "12-19 RANEK, glucha zima, rzeka skuta. Cicho. Zegary: futra z Braavos (~12-20, jutro), Godric wyplata (~12-30). TU-I-TERAZ: zima/ubodzy; Torsen stygnie.",
  "ceny": {
   "chleb": {
    "baza": 3,

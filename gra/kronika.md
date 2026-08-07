@@ -2738,3 +2738,6 @@ Symon zaniósł do kantoru osiemnaście jeleni — zysk z ostatnich fee doradczy
 
 ## 296-12-18 POPOŁUDNIE — u Godrica: księgi i cichy zasiew wiosny
 Symon poszedł na Nowy Zamek do stewarda: naprzód księgi domu — sesja poszła czysto, kompetentnie, embed trzyma, cicha wypłata ku końcowi miesiąca na torze. Potem, ostrożnie, zasiał wiosnę: gdy Biały Nóż ruszy po odwilży, wróci z większą, może stałą parcelą. Godric wysłuchał po swojemu — drewniana powściągliwość, parę słów — i nie odmówił, ale też nie dał się przypiąć tak daleko naprzód. Większe zamówienie i tak musiałoby przejść przez dwór, zima jest zmienna, a jego zaufanie do Symona, choć realne, jest jeszcze płytkie na forward-commit. Re-parkował rzecz spokojnie: „Przyjdź z konkretem, jak rzeka ruszy, to się pogada." Prowiantu to nie posunęło — ale drzwi zostały ciepłe, i Symon wie już jasno, że wiosenny kontrakt trzeba będzie zarobić konkretną propozycją przez dwór, nie wyprosić teraz.
+
+## 296-12-18 NOC / 12-19 RANEK — prawo (słabo), sen
+Wieczór nad prawem wyszedł kiepsko — Symon był zmęczony po dniu pełnym wizyt, litery pływały, niewiele weszło do głowy. Odłożył księgę i zasnął. Rankiem dziewiętnastego rzeka stoi skuta, mróz trzyma, miasto ciche. Jutro może przyjść wieść o futrach z Braavos — pierwszy sprawdzian nogi wywozowej. Na razie zwykły zimowy poranek.

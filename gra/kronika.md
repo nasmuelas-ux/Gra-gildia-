@@ -2624,3 +2624,6 @@ Symon robi cieplą runde po ludzku. U Elny dobrze i cicho: wdowa bezpieczna pod 
 
 ## 296-12-10 wieczor -> 12-11 — prawo, sen
 Symon czyta prawo i spi. Jutro-pojutrze wynik pilotazu ubezpieczen.
+
+## 296-12-11 RANEK->POLUDNIE — praca w kantorze
+Symon je i robi solidny dzien roboty: ksiegi kantoru, papiery czterech klientow uslugi zarzadczej, kawalek szkolenia Hala przy bezpiecznych kontach. Rejestr pilotazu ubezpieczen wciaz czysty - wynik ma sie okazac lada dzien. Zwykly, produktywny rytm; kapie dola wspolnika. Nesta obok, maszyna chodzi rowno.

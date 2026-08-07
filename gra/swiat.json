@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 17,
+  "dzien": 18,
   "era": "AC"
  },
- "pora": "POŁUDNIE",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 22,
- "dzien_tygodnia_nr": 5,
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "12-17 RANEK, glucha zima, mroz zelzal. Cicho. Zegary: robota Wata (~12-18), futra (~12-20), Godric (~12-30). TU-I-TERAZ: zima/ubodzy; sprawa Mereka (nastepna noga = kopie Mereka).",
+ "nastroje_miasta": "12-18 RANEK, glucha zima, mroz zelzal. DZIS: robota dla Wata (ksiegi premium, ~7 jel salda na dostawie). Zegary: futra (~12-20), Godric (~12-30). TU-I-TERAZ: zima/ubodzy.",
  "ceny": {
   "chleb": {
    "baza": 3,

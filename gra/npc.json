@@ -491,8 +491,8 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 41,
-   "ostatni_kontakt": "296-11-27",
+   "nastawienie_do_gracza": 43,
+   "ostatni_kontakt": "296-12-03",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
     "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -517,10 +517,11 @@
     "rozglos/wstyd"
    ],
    "dlugi": [],
-   "zaufanie": 11,
+   "zaufanie": 12,
    "status": "ZAANGAZOWANY SOJUSZNIK: z kalkulujacego obserwatora przeszedl w aktywne poparcie — widzi wlasny interes (stabilny port; zly precedens, gdy obcy wierzyciel dusi kupca portowego). Publicznie stanal za kantorem = de facto pobłogoslawil partnerstwo Symon-Nesta. Uchylil drzwi do drobnego mostka kupieckiego na styk raty.",
    "historia": [
-    "m11d11: cieply-dosc kontakt; Vox trzyma TWARDO (wlasny interes: stabilny port, zly na dystorsje sieci Antaryona). Ale szczwany kupiec potwierdza fray: miekcy kupcy nerwuja sie NIE tylko od zimy, lecz od PRZEDLUZAJACEGO SIE bezruchu — standing wisi dlugo bez rozstrzygniecia, tchorze zaczynaja watpic czy cos w ogole ruszy. Nast 37->39."
+    "m11d11: cieply-dosc kontakt; Vox trzyma TWARDO (wlasny interes: stabilny port, zly na dystorsje sieci Antaryona). Ale szczwany kupiec potwierdza fray: miekcy kupcy nerwuja sie NIE tylko od zimy, lecz od PRZEDLUZAJACEGO SIE bezruchu — standing wisi dlugo bez rozstrzygniecia, tchorze zaczynaja watpic czy cos w ogole ruszy. Nast 37->39.",
+    "m12d03 rzut43: Symon zaproponowal usluge zarzadcza. Vox kupuje IDEE (widzi wartosc: kto zalega, ktora trasa zarabia), ufa Symonowi - ale jak kupiec strzegacy ksiag zgadza sie na PROBE: jeden kawalek (wiekowanie naleznosci), nie pelne ksiegi. Proba od razu WYKAZUJE konkret (klient, co go po cichu przeciaga na platnosci) -> Vox pod wrazeniem, sciezka do rozszerzenia+testimonial. Maly fee +2 jel. Nast 41->43."
    ]
   },
   {

@@ -1043,6 +1043,22 @@
    "historia": [
     "m11d16 (rzut 40): kufel bez agendy. Denys zrazu zarezerwowany (pamieta, ze byl grany), ale szczere, o-nic-nieproszace podejscie Symona przy piwie powoli topi chlod. Gadka zwykla — wosk, zima, handel. Denys ocieplony o notch, czujnosc mieknie. Symon ZOSTAL szczery (nie wsunal sie w granie) — lekcja Nesty trzyma. Krok w cierpliwej odbudowie, nie przelom. Nast 18->21."
    ]
+  },
+  {
+   "id": "klient_audyt_referral",
+   "imie": "Aurane",
+   "przydomek": "Soltys składów",
+   "wiek": 50,
+   "zawod": "zamozny kupiec/wlasciciel skladow portowych (propertied)",
+   "mieszka": "Schody/port",
+   "nastawienie_do_gracza": 5,
+   "zaufanie": 0,
+   "wie_o_graczu": [
+    "polecony przez Godrika jako dyskretny, biegly czlowiek od liczb"
+   ],
+   "ostatni_kontakt": "296-11-17",
+   "cechy_mowy": "rzeczowy, ostrozny, mowi malo i po interesie",
+   "sprawa": "podejrzewa, ze jego FAKTOR/zarzadca skladu SKIMUJE (liczby dostaw vs sprzedazy nie graja); chce CICHEGO, bieglego audytu ZANIM kogokolwiek oskarzy — dokladnie wzor sprawy Godrica, wyzsza stawka/zaplata"
   }
  ],
  "orbita": [

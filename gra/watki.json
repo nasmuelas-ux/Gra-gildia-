@@ -531,6 +531,11 @@
    "id": "alarm_opal",
    "tytul": "ALARM CENOWY: opal (przetrzymany lot)",
    "status": "AKTYWNY od 11-15. MG sledzi CO TURE mnoznik opalu (teraz 1.5x) + puls popytu (sept/mroz). SPRZEDAC gdy: mnoznik ~1.8-2x+ PRZY rozpaczliwym popycie (tuz PRZED szczytem, nie na nim), transzami; ALBO natychmiast przy 1. sygnale ODWROTU (odwilz / duza dostawa opalu / puszczajace lody). Lekcja Nesty: wyjsc wczesnie nie chciwie. Alert gdy okno sie otworzy. Lot: u kolodziejow, suchy plac."
+  },
+  {
+   "id": "audyt_referral_aurane",
+   "tytul": "Referral audytowy (przez Godrika)",
+   "status": "LEAD 11-17 (rzut 91): mimo martwej zimowej niszy — REFERRAL. Godric, kontent z Symona, cicho polecil go zamoznemu wlascicielowi skladow portowych (Aurane), ktory podejrzewa, ze jego faktor/zarzadca SKIMUJE (dostawy vs sprzedaze nie graja) i chce CICHEGO, bieglego audytu ZANIM kogos oskarzy — wzor sprawy Godrica, wyzsza stawka. WARTOSC: dochod (akumulacja) + siec propertied + glebszy embed + praktyka double-entry. CIEN: kolejny zestaw cudzych sekretow = ryzyko 'niewygodnego swiadka'; + ostrzezenie Nesty o AGREGACIE widocznosci. DECYZJA gracza czy/jak wziac. Nie zobowiazany — to na razie slowo/oferta."
   }
  ]
 }

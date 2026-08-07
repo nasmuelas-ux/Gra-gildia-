@@ -2354,3 +2354,6 @@ Symon je i siada do ksiag skladu. Braavijska metoda robi swoje juz przy pierwszy
 
 ## 296-11-18 POLUDNIE->ZMIERZCH — kantor z Nesta, nauka Hala
 Symon pracuje w kantorze z Nesta i bierze przy sobie Hala - ale pamieta regule Braawijki: chlopak trzyma sie z dala od wszystkiego goracego, wrazliwe watki zostaja poza jego zasiegiem. Dla Hala jest inny, bezpieczny material: neutralne rachunki cwiczebne, na ktorych Symon uczy go podstaw braavijskiej podwojnej ksiegowosci. I chlopak, bystry jak zawsze, chlonie fundament - winien i ma, ksiega, ktora sama sie sprawdza - z ta glodna radoscia kogos, kto wie, ze uczy sie fachu, ktory go podniesie. Symon lapie sie na tym, ze jest teraz po drugiej stronie tego, co Nesta zrobila jemu: oddaje narzedzie dalej, w dol. Reszta sesji schodzi na ksiegach i przygotowaniu odbioru skor spod dwudziestego. Hal 49->51.
+
+## 296-11-18 wieczor — jedzenie dla Serli
+Symon niesie Serli i malemu Tomowi cos cieplego do garnka w mrozny wieczor. Nic nadzwyczajnego sie nie dzieje - i o to chodzi: stara przyjaciolka przyjmuje strawe z ta prosta wdziecznoscia, ktora jej zawsze towarzyszy, siedza chwile przy skapym ogniu, Tom, chudy ale zywy, je do syta choc raz. Zwyczajne, cieple dobro, ktore nie potrzebuje wielkich slow ani chwil. Symon wychodzi w mroz z lekkim sercem. Serla 29->31.

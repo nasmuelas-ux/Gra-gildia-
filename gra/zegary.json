@@ -33,7 +33,9 @@
   {
    "id": "ubezp_pilot_wynik",
    "termin": "296-12-12",
-   "opis": "Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zysk) czy ktorys ucierpial (wyplata). Testuje model ryzyka Symona i oplacalnosc cichego pilaru."
+   "opis": "Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zysk) czy ktorys ucierpial (wyplata). Testuje model ryzyka Symona i oplacalnosc cichego pilaru.",
+   "ROZSTRZYGNIETY": "296-12-12: rzut 27 - jeden z objetych malych ladunkow ucierpial w zimowym sztormie; WYPLATA zjadla skladki, cykl netto LEKKO NA MINUS. ALE: mala skala + dywersyfikacja ZAWEZILY strate (zero blowupu) - dyscyplina Nesty sie sprawdzila, teza zysku NIE. Pierwszy trzezwy dowod: zimowe ryzyko realne, model strukturalnie trzyma, ale nie skalowac dopoki nie udowodni zysku w lagodniejszym oknie.",
+   "zamkniety": true
   },
   {
    "id": "skory_wywoz",

@@ -2,15 +2,15 @@
  "data": {
   "rok": 296,
   "miesiac": 12,
-  "dzien": 11,
+  "dzien": 12,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "schylek dlugiego lata",
  "pogoda": 22,
  "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "Ranek d19, mrozno ku zimie. LULL trwa: wielkie watki na zegarach (Bank ~30, pryncypal ~11-10, spolka egzotyczna ~11-10/20/25, Winterfell ~zima). Zywe TU-I-TERAZ: septa/ubodzy pod zima (wezwanie ~11-05), koalicja/clo dokumentowana cicho, Hal mocno na plus. Symon wyspany po przemeczeniu (zmeczenie 2, zdrowie 88).",
+ "nastroje_miasta": "12-12 RANEK, mrozno, glucha zima. Wieść z pilotazu ubezpieczen wraca DZIS - pierwszy netto-wynik. Zegary dalej: Winterfell ~12-15, futra ~12-20, Godric ~12-30. TU-I-TERAZ: septa/ubodzy pod zima, utkniety Merek (reframe Nesty).",
  "ceny": {
   "chleb": {
    "baza": 3,

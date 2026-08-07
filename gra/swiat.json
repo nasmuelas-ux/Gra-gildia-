@@ -1,16 +1,16 @@
 {
  "data": {
-  "rok": 296,
-  "miesiac": 12,
-  "dzien": 31,
+  "rok": 297,
+  "miesiac": 1,
+  "dzien": 1,
   "era": "AC"
  },
- "pora": "ZMIERZCH",
+ "pora": "RANEK",
  "sezon": "zima nadeszla (Polnoc) — dlugie lato dogaslo",
  "pogoda": 22,
- "dzien_tygodnia_nr": 5,
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "12-31 RANEK, zima Polnocy, ostatni dzien roku 296. WIESC: Nesta dala znac - Mira sie zgodzila, pretekst gotowy (jej ksiegi/braavijskie papiery), mozna isc poznac ja DZIS. Relief zaopatrzony. Zegary: draw Nesta ~01-19, Godric ~01-30.",
+ "nastroje_miasta": "297-01-01 RANEK, NOWY ROK 297 AC, zima Polnocy. Symon: z zdesperowanego skryby (rok temu) do wspolwlasciciela kantoru, architekta reliefu, respektowanego w miescie. Zegary: draw Nesta ~01-19, Godric ~01-30. Watki: Mira (chlodny start, dluga gra), mieszczanstwo (rafa cechowa, obejscie=kupiec), wielkie spia do wiosny (Winterfell/Antaryon/kanal polnoc/spolka egzot).",
  "ceny": {
   "chleb": {
    "baza": 3,

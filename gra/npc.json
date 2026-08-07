@@ -1072,13 +1072,14 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 46,
-   "zaufanie": 10,
-   "ostatni_kontakt": "296-12-05",
+   "nastawienie_do_gracza": 50,
+   "zaufanie": 11,
+   "ostatni_kontakt": "296-12-20",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
-    "chce pewniejszego/tanszego zrodla wina; wie, ze Symon ma kanal braavijski"
+    "chce pewniejszego/tanszego zrodla wina; wie, ze Symon ma kanal braavijski",
+    "d20 (rzut 58): cieply reconnect po 15 dniach. Pending wino (dojdzie przy odwilzy, splaca pozyczke) na torze. Wine ANCHOR: Aldous chetny byc pewnym odbiorca braavijskiej nogi WINNEJ, gdy Symon zdola sprowadzic (wiosna) - de-risk jak zelazo Borena (gwarantowany offtake, consignment/niski cash). Dal tez uzyteczny odczyt wina (jakie gatunki/ceny moze ruszyc) do sprawdzenia spreadu. Nic nie plynie teraz (zima) - plan wiosenny firmed."
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
    "historia": [

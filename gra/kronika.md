@@ -3411,3 +3411,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-19 RANEK: Symon zjadl i wplacil 11 jeleni z sakiewki do depozytu u Nesty (za kwitem). Sakiewka 14->3 jel; depozyt 2900->4000 mied (29->40 jel). Konsolidacja oszczednosci po zimowych wydatkach - bufor odbudowany do 40 jel zabezpieczonych.
 
 297-02-19 RANEK: Symon wrocil do traktatu z Halem, pokorna skala (rzut 41 - tuz ponizej, mozolny ale realny postep). Robota wreszcie WYKONALNA: spisali pierwsza keepable sekcje (kregoslup podwojnej ksiegi + pierwsze zasady, pytania jako checki). Przyrostowo, grind, ale fundament kodeksu-podrecznika polozony. Hal produktywny. Projekt z zablokowanego -> W TOKU. nast Hal 66->67.
+
+297-02-19 POPOLUDNIE/NOC: Symon domknal dzien lzej - jedzenie, sen. Traktat ruszyl (fundament), draw wplynal, oszczednosci skonsolidowane (40 jel depozyt). Noc spokojna.
+297-02-20 RANEK: Wypoczety. Cicho. Harwin ~02-25 (za 5 dni). Mroz trzyma.

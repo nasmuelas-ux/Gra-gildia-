@@ -3335,3 +3335,6 @@ Wieczorem cwiczenia (kondycja+1), sen. DZIS w kalendarzu: wrocic do Miry z pisme
 
 ## 297-02-13 - Mira przyjela trial partnerstwa (rzut 87)
 Symon przyniosl pismo (czyste warunki, autonomia, trial). Mira przeswietlila - brak sidla; czysty kontrakt=dowod interesu nie zalotow; Bran potwierdza realnosc. PRZYJELA TRIAL (miesiac zarzadu czynszami/lokatorami kamieniczki, prowizja, jej pole). Zywe zawodowe partnerstwo na gruncie szacunku. nast 14->24, zauf 4->7. Kamieniczka=male przedsiebiorstwo (Mira/Bran/Symon). 'Zobaczymy czy dowieziesz.' retoryka+1, handel+1.
+
+## 297-02-13 - uruchomienie operacji kamieniczki (rzut 42)
+Symon przekazal Mirze zarzad (chlonie po fachowemu) i skojarzyl ja z Branem. Drobne tarcie glowa-rece (dumny Bran vs Mira-koordynuje); Symon ustawil role jasno (Mira glowa/Bran rece, wzajemny szacunek) - dogaduje sie roboczo, potrzebuje dotarcia. Operacja rusza, funkcjonalna. Mira wyrok wstrzymany (trial). organizacja+1, czytanie_ludzi+1.

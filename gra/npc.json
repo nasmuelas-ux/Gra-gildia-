@@ -22,7 +22,7 @@
     "eksmisja przez wlasciciela kamienicy"
    ],
    "nastawienie_do_gracza": 38,
-   "zaufanie": 8,
+   "zaufanie": 9,
    "wie_o_graczu": [
     "umie pisac",
     "nie ma tu rodziny",
@@ -40,7 +40,8 @@
     "d27 (rzut 16): pyta jak wzenic sie w osiadla rodzine mieszczanska. Serla szczerze (nie pochlebstwo): dobre domy ZA WCZESNIE - wydaja corke za bezpieczenstwo/standing, a Symon niesie brak nazwiska/krwi/wlasnosci + METNE pochodzenie + WROGA W CECHU = obiecujacy ale ryzykowny (ojciec woli pewnego). Nie 'nigdy', 'nie teraz'. Dwie drogi: (a) najpierw ZAKORZENIC (wlasnosc+standing+cech wygasly -> dobre domy sie otworza); (b) wzenic NIZEJ w prostsza rodzine ceniaca prospekt (np. Mella corka Wendy - krew/cieplo, nie standing). Tom trzyma sie nieźle.",
     "d27 (rzut 16): Symon precyzuje - nie standing lecz zona PISMIENNA, obrotna, otwarta (partnerka). Serla trzezwo: taka kobieta rzadka - w jej swiecie (lud/rzemioslo) niemal nieobecna (piśmienne albo zamezne/w Wierze/za zamozne). Lagodne 'wysoko celujesz jak na twoja stope'. KIERUNEK: takie kobiety w swiecie kupieckim/braavijskim -> pytac NESTY nie Serli.",
     "297-01-08 POPOLUDNIE (rzut 72): cieply anchor - PIERWSZY prawdziwy balsam w ciezkim tygodniu Symona. Tom (wnuk) wylizal sie, dom lzejszy. Serla (szrewd, matczyna) wyczula, ze Symon zmeczony/rozdarty i dala mu proste, nieoceniajace cieplo: nakarmila, posadzila przy ogniu, bez interesu. Na temat zony madrosc (echo Owena): 'przestan traktowac to jak targ, synku - dobra kobieta widzi statecznego czlowieka z czasem, nie z pospiechu'. BEZ nowego tropu (jej swiat lud/rzemioslo nie ma pismiennych obrotnych kobiet - potwierdzone; te sa w swiecie kupieckim/Nesty). Symon wyszedl NAPRAWDE lzejszy - grunt ktory wreszcie ukoil.",
-    "297-01-20: przyslala choremu Symonowi garnek rosolu i matczyne slowo ('jedz, synku, nie rob z siebie meczennika'). Troska bez interesu. nast 37->38."
+    "297-01-20: przyslala choremu Symonowi garnek rosolu i matczyne slowo ('jedz, synku, nie rob z siebie meczennika'). Troska bez interesu. nast 37->38.",
+    "297-01-20: Symon odeslal garnek z groszem i obietnica, ze stanie na nogi i przyjdzie z wlasnej woli, nie po interes. Docenil troske sercem."
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-01-20",
@@ -117,7 +118,7 @@
     "ze go ominie lepsza fucha"
    ],
    "nastawienie_do_gracza": 55,
-   "zaufanie": 12,
+   "zaufanie": 13,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
     "czyta mu listy od brata z Siostr",
@@ -138,7 +139,8 @@
     "d31 (rzut 37): cieplа wizyta, ale pod smiechem troska - proba w faktorii chwieje sie w zimowym zastoju (martwe nabrzeze, malo do dzwigania, probnego latwo puscic), a bez stalej roboty nie poslubi Alys; Harwin w tyle glowy. Symon (WSPOLNIK) wstawil sie, obiecal trzymac go przez zime + pchac ku stalej robocie na wiosne - ale zimy nie przeorganizuje (roboty brak). Bran wdzieczny (lojalnosc wrocila), wciaz anxious. Soft: podeprzec ku stalej posadzie/weselu na wiosne.",
     "297-01-08 RANEK (rzut 33): cieple spotkanie (wspolne tanie piwo), ale pod smiechem Bran wyczerpany i przestraszony - zimowy zastoj nabrzeza sie POGLEBIL (martwy dok, prawie nic do dzwigania, kantor sam przycisniety dlugiem Antaryonow), proba w faktorii wisi na wlosku, a bez stalej roboty wesele z Alys sie oddala (i moze niecierpliwosc jej bliskich). Symon przeczytal strach pod gwara. Jako WSPOLNIK PONOWIL slowo: trzyma Brana przez zime (routuje mu te skape scinki dzwigania co sa, chroni probnego) + pcha ku stalej robocie na wiosne. NIE moze przeorganizowac zimy (roboty po prostu brak) - to holding-on nie thriving. Chronienie probnego przy braku pracy KOSZTUJE Symona troche kapitalu laski u Nesty (wydaje go swiadomie na lojalnosc). Bran gleboko wdzieczny, lojalnosc poglebiona - ale obaj wiedza, ze to przetrwanie, nie ratunek.",
     "297-01-16 ZMIERZCH (rzut 89): cieply wieczor bez interesu. Do portu wszedl rzadki zimowy statek - Bran mial kilka dni prawdziwej roboty i grosz do garsci (na wesele z Alys); nie ratunek, ale ODDECH - proba w faktorii juz nie sama przepasc. W dobrym humorze, pierwszy raz TO ON postawil piwo. Gadali o Alys, wiosnie, glupstwach. Przyjazn pogłębiona (lubi Symona nie za to, ze rosnie, lecz ze byl przy nim, gdy bylo krucho). nast 51->54.",
-    "297-01-20: przyszedl do chorego Symona z piwem i smiechem, nie dal mu sie uzalac - przyszedl, bo LUBI, nie bo Symon rosnie. Przyjazn potwierdzona w probie. nast 54->55."
+    "297-01-20: przyszedl do chorego Symona z piwem i smiechem, nie dal mu sie uzalac - przyszedl, bo LUBI, nie bo Symon rosnie. Przyjazn potwierdzona w probie. nast 54->55.",
+    "297-01-20: Symon podziekowal mu szczerze ('zes przyszedl, choc nic ci z tego - nie zapomne') - siadlo. Wiez bez interesu."
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-01-20",
@@ -1336,11 +1338,12 @@
    "stan": "mieszczka (wdowa)",
    "zawod": "wdowa, drobne szycie/przedzenie; szukala ciepla izby na zime",
    "mieszka": "kamieniczka Symona przy Schodach (izba 1, od 297-01-12)",
-   "nastawienie_do_gracza": 15,
+   "nastawienie_do_gracza": 17,
    "zaufanie": 6,
    "wie_o_graczu": [
     "297-01-12: wynajela ciepla izbe od Symona (~1 jel/mies) po tym, jak zrobil ja do zycia (wczesniej sie wycofala - zimna/gola). Referral Leony. Cicha, wyplacalna, wdzieczna za godne cieplo w mroz. Idealny stabilny lokator.",
-    "297-01-20: przyslala choremu gospodarzowi miod na gardlo - wdzieczna lokatorka."
+    "297-01-20: przyslala choremu gospodarzowi miod na gardlo - wdzieczna lokatorka.",
+    "297-01-20: gospodarz podziekowal za miod i rozmawial z nia jak z sasiadka, nie lokatorka - cieplo."
    ],
    "ostatni_kontakt": "297-01-20",
    "cechy_mowy": "cicho, uprzejmie, mowi 'synku'; oszczedna w slowach"

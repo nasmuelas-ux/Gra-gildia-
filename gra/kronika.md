@@ -3120,3 +3120,6 @@ Napar pomogl (zdrowie 64->68). Ale rozmowa z Owenem krotka/nie balsam - Owen zaj
 
 ## 297-01-20 ZMIERZCH - odwiedziny (rzut 42)
 Do chorego Symona przyszli CI WLASCIWI: Bran (piwo, smiech, nie dal sie uzalac - przyszedl bo lubi), Serla (rosol + matczyne slowo), wdowa Jonna (miod). NIE przyszli: Nesta/Godric/poreczyciele-kupcy (uzyteczni nie bliscy). Nauka: roznica miedzy siecia (narzedzia) a ludzmi (serce) - jego ludzie: Bran, Serla, Wiara. Bran 54->55, Serla 37->38. zdrowie 68->70 (towarzystwo+rosol). Korzen mlody, ale trzyma.
+
+## 297-01-20 ZMIERZCH - podziekowania
+Symon szczerze podziekowal tym, co przyszli: Branowi (siadlo), Serli (odeslal garnek z groszem+obietnica wizyty bez interesu), Jonnie (rozmowa jak z sasiadka). Odwdzieczyl sie sercem, nie kalkulacja - nauka, ze ludzie to nie pozycje w ksiedze. Bran/Serla zaufanie +1, Jonna nast +2. Korzen sie umacnia.

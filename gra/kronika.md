@@ -3323,3 +3323,6 @@ Harwin NIE sprezyl pulapki (ostrozny, jak Nesta przewidziala). Cichy probe w POC
 
 ## 297-02-12 - domena przez siec (rzut 18)
 Network sourcing wzorowe, ale ZERO bankowalnych klientow teraz - wina zimy nie metody (wszyscy trzymaja srebro, czekaja na odwilz; resztki=ryzyko). Potwierdzenie (spojne z Garth/Godric): wiosenny pipeline sie napelnia (zamowienia dworu/floty/kapital czekaja na lod). Domena naladowana, spring-gated. spryt_uliczny+1.
+
+## 297-02-12 - ksiegi domeny (rzut 31)
+Cicha robota-maintenance: porzadek rejestru weksla-pilota, standardy w czyste wzory, prep pod wiosenny pipeline. Bez rozwoju (zima=ostrzenie narzedzi). Partnerstwo z Nesta cicho normalnieje (solidna robota bez dramatu). rachunki+1, organizacja+1.

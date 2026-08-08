@@ -3398,3 +3398,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-18 RANEK: Wypoczety. Jutro draw ~02-19. Cicho, mroz trzyma.
 
 297-02-18 RANEK: Symon zjadl i ruszyl traktat z szkieletem+Halem (rzut 4 - frustrujaca sesja, okolicznosciowa). Lista pytan na papierze wyszla martwa: biegłosc to nie same pytania, lecz OSAD (ktore pytanie kiedy, wech) - nowicjusz z lista wciaz nie zobaczy. Przepasc checklista vs widzenie. TWARDA LEKCJA: podrecznik uczy rusztowania, nie intuicji (ta z robienia/lat/spraw) -> dojrzewa model stajni (ksiazka+terminowanie+sprawy, nie ksiazka sama). Maly output, projekt upokorzony co do zakresu, nie wykolejony. Hal caly.
+
+297-02-18 POPOLUDNIE: Symon odpoczal i spotkal sie z Branem (rzut 81, cieplo). Bran rozkwitl jako dozorca, robota z Mira plynie (role jasne), dom trzyma sie, lokatorzy zadowoleni, waitlist na izbe 3. LUDZKI KAMIEN: Bran i Alys zamierzaja sie POBRAC (~wiosna) - staly grosz od Symona uczynil to realnym. Wiez glebnie, nast 64->66. Nowy watek slub_brana_alys (wiosna).

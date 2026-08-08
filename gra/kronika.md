@@ -3420,3 +3420,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-20 POLUDNIE: Symon wrocil do traktatu z Halem (rzut 18 - sesja stracona okolicznosciowo). Hala wezwano do posługi w Sepcie (zima/ubodzy, Owen przygnieciony, potrzeba rak przy jalmuznie). Symon pchal solo na knotty sekcji (skim rozlozony na wiele ksiag) - bez drugiej reki malo. Sesja stracona, projekt bez szkody. REALIZACJA: Hal dzieli sie z Septa - stajnia wymaga rak naprawde jego / koordynacji z Owenem. Constraint nazwany.
 
 297-02-20 POPOLUDNIE: Symon poszedl do Owena i pomogl przy reliefie (rzut 87). RESET Z OWENEM DOMKNIETY przez prawdziwy moment sluzby (bez agendy) obok Owena i Hala. Friction z 02-16 rozpuszczony - Owen zobaczyl, ze gorliwosc Symona nie stala sie orezem; powietrze czyste, wiez glebsza. Dobro realne, rep Wiary w gore. nast 72->75, zauf 19->21.
+
+297-02-20 NOC: Symon domknal dzien - jedzenie, sen. Dzien dobry: Wenda (aktyw obronny/dol), traktat sesja stracona (Hal do septy), ale RESET z Owenem domkniety przez sluzbe. Noc spokojna.
+297-02-21 RANEK: Wypoczety. Harwin ~02-25 (za 4 dni). Mroz.

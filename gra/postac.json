@@ -120,7 +120,7 @@
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."
  },
- "depozyt_u_nesty_mied": 3800,
+ "depozyt_u_nesty_mied": 2300,
  "stany": [],
  "wspolnictwo_nesta": {
   "draw_jel_mies": 6,
@@ -135,7 +135,7 @@
   "sukcesja": "Nesta prowadzi Symona ku SUKCESJI - z czasem wspolnik-nastepca, nie podwladny ('starzeje sie')."
  },
  "kamieniczka": {
-  "status": "ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe.",
+  "status": "ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe. || 297-02-14: budzet dachu ROZWIAZANY - pelny re-roof ~35 jel (linia ~21 + ~15 z depozytu), naprawa krytyczna porzadnie przy odwilzy (bez ryzyka fazowania). Bufor Symona: depozyt 38->23 jel + sakiewka 14 jel.",
   "opis": "kamieniczka przy Schodach: 4 izby + murowany ogrodek za plotem; do remontu (dach do wymiany + 1 strop - Donnel)",
   "cena_jel": 108,
   "all_in_szac_jel": "~142 (108 cena + ~30 dach + ~4 oplaty Torrena/rejestr)",
@@ -159,7 +159,8 @@
   "dach_pelny_wiosna_rezerwa_jel": "~21 (reszta linii ~30 na pelny re-roof przy odwilzy)",
   "fit_out_izba_jel": 5,
   "fit_out_izba2_jel": 5,
-  "dach_pelny_wiosna_rewizja": "297-02-14 (Donnel): zgnilizna siega stropu/belek dalej niz pierwsza ocena -> pelny re-roof ~35+ jel (nie ~21 rezerwy). PRZEKROCZENIE BUDZETU ~15+ jel. Kosci zdrowe, ale remont glebsza studnia. Do rozwiazania: wiecej finansowania/re-scope. Izba 3 opozniona/drozsza."
+  "dach_pelny_wiosna_rewizja": "297-02-14 (Donnel): zgnilizna siega stropu/belek dalej niz pierwsza ocena -> pelny re-roof ~35+ jel (nie ~21 rezerwy). PRZEKROCZENIE BUDZETU ~15+ jel. Kosci zdrowe, ale remont glebsza studnia. Do rozwiazania: wiecej finansowania/re-scope. Izba 3 opozniona/drozsza.",
+  "dach_pelny_wiosna_finansowanie": "ZDECYDOWANO 297-02-14: pelny re-roof ~35 jel sfinansowany = ~21 jel linia kantoru + ~15 jel z DEPOZYTU Symona (earmarked; spend przy odwilzy). Naprawa KRYTYCZNEJ struktury (dach+strop+belki) porzadnie, bez fazowania/ryzyka rot-spread. Izba 3 na tor po wiosennym dachu."
  },
  "mieszczanstwo": {
   "status": "✅ PELNOPRAWNY MIESZCZANIN (przysiega zlozona 297-01-27, oplata ~12 jel zaplacona). Veto Pisarzy pobite. Korzen w miescie prawnie zapuszczony.",

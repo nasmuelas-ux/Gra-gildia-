@@ -3353,3 +3353,6 @@ Hal wylapal prawdziwa rozbieznosc standardami audytu JAK NALEZY (we wlasciwej ro
 
 ## 297-02-14 ZMIERZCH - Donnel: zla wiesc o dachu (rzut 11)
 Donnel (lekko chlodny po 35 dniach) dal zla wiesc: latajac dach zima zobaczyl wiecej - zgnilizna siega stropu/belek; wiosenny remont grubszy/drozszy (~35+ jel vs ~21 rezerwy). Kosci zdrowe, ale remont glebsza studnia; przekroczenie budzetu ~15+ jel, izba 3 opozniona/drozsza. Do rozwiazania: finansowanie/re-scope (Nesta/Mira). czytanie_ludzi+1.
+
+## 297-02-14 - decyzja budzet dachu (z depozytu)
+Symon zdecydowal OSTROZNIE: pokryc luke ~15 jel z DEPOZYTU (38->23 jel), naprawic krytyczna strukture dachu PORZADNIE przy odwilzy (bez fazowania/ryzyka rot-spread; za rada Miry). Pelny re-roof ~35 jel sfinansowany (linia ~21 + depozyt ~15). Bufor chudszy, ale wlasnosc na torze. Mira dowiozla na trialu (kompetentny odczyt). Donnel zrobi przy odwilzy.

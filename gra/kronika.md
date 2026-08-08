@@ -3087,3 +3087,6 @@ Obchod kregu dal 3 leady mimo lean winter (reputacja: uczciwe ksiegi/forensic au
 
 ## 297-01-15 POPOLUDNIE - zlecenia A i C (83 / 41)
 A (rzut 83): sukiennik Colm (referral Leony) - uzgodnil ksiegi + spisal umowe wiosenna, uczciwy fee ~3 jel (sakiewka->11 jel), goodwill/repeat; Leona +1 (referral sie oplacil). B odpuszczone swiadomie (sekret). C (rzut 41): faktor Rollam sondowal o cos wiekszego, ale ostrozny - powazny faktor nie ufa niesprawdzonemu mlodzikowi od reki; drzwi uchylone (cultivate/proving/cierpliwosc), nie szybki skok. rachunki+1, prawo+1, czytanie_ludzi+1.
+
+## 297-01-15 ZMIERZCH - wplata na depozyt
+Symon wplacil 10 jel na DEPOZYT u Nesty (za kwitem, oszczednosci - NIE wkład w spolke/equity). Sakiewka 11->1 jel (+10 mied), depozyt 3700->4700 mied (37->47 jel). Plynnosc w kieszeni teraz chuda (1 jel+10 mied) - swiadomy wybor konsolidacji; depozyt wyjmowalny.

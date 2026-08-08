@@ -12,7 +12,7 @@
  "zmeczenie": 16,
  "sakiewka": {
   "miedziaki": 10,
-  "jelenie": 11,
+  "jelenie": 1,
   "smoki": 0
  },
  "dobytek": [
@@ -113,7 +113,7 @@
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."
  },
- "depozyt_u_nesty_mied": 3700,
+ "depozyt_u_nesty_mied": 4700,
  "stany": [
   {
    "co": "knock w reke pisarska (pech w sparingu)",

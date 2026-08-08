@@ -3069,3 +3069,6 @@ Symon szukal drugiego lokatora - poszlo znakomicie. Izba 2 wynajeta Osricowi, ml
 
 ## 297-01-13 ZMIERZCH - ksiegi Godrica (rzut 86)
 Swietna sesja: Symon poprowadzil ksiegi dostaw czysto I wypatrzyl recurring przeplate u dostawcy Nowego Zamku (staly wyciek), oznaczyl -> oszczednosc dla Godrica. Przesuwa go z najmity ku zaufanemu doradcy. Godric zauf 7->9, nast 46->49; wyplata ~01-30 na torze. Spring-ask wciaz na odwilz, ale kredyt wiarygodnosci urosl. rachunki+1, audyt+1.
+
+## 297-01-13 ZMIERZCH - Owen: lustro pychy (rzut 7)
+Symon przyszedl kopiowac ksiegi i pogadac - po grunt, a dostal lustro. Wieczor krzywy: glowa pelna czynszow/wniosku/patrona, omsknal pioro (kleks, przepisywal). Owen uslyszal nute pychy (przed ktora ostrzegal, kladac imie Matki 3 dni temu) - cicha powaga: 'reczylem za czlowieka znad kotla, a tobie pioro sie omsklo, boś liczyl izby'. Ostrzegl: miasto zaczyna szeptac imie Symona (juz slyszal o kamieniczce) - czy glowa tam, gdzie trzeba. Pastoralny check, nie zerwanie. Owen nast 67->65. pismo+1.

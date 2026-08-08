@@ -3150,3 +3150,6 @@ Wieczorem cwiczenia fizyczne (odbudowa po febrze, kondycja+1), sen, pelnia sil (
 
 ## 297-01-29 - podzieka Borenowi (rzut 44)
 Symon podziekowal Borenowi szczerze (+dzban, -6 mied). Boren gruf-cieplo, deflektowal, ale rad. Sober: on tez zaplacil (backing Symona = pomogl upokorzyc Pisarzy, Harwin nie zapomina). Sojusz z przysługi w mutual loyalty pod wspolnym ryzykiem - Symon winien wsparcie. nast 56->57, zauf 13->14. czytanie_ludzi+1. Harwin grozny tez backerom.
+
+## 297-01-29 ZMIERZCH - podzieka Voxowi (rzut 18)
+Symon podziekowal Voxowi (mowil za nim na sali; nast 52->53, wdzieczny). ALE Vox nieostroznie rozglasza go jako 'skrybe co wywecha zlodzieja' - dwusieczna slawa; a wylany po audycie posrednik obwinia SYMONA (drobny cichy wrog). Nauka: reputacja forensyczna tnie w dwie strony (niewygodny swiadek - Owen/Nesta); dozowac. czytanie_ludzi+1.

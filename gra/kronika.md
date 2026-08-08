@@ -3207,3 +3207,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Pelnia sil. Zegary: harwin ~02-09, podate
 
 ## 297-02-04 RANEK - Nesta: LANDMARK (rzut 99)
 Nesta zlozyla Symonowi propozycje: (1) podnosi udzial core (realna wlasnosc), (2) oddaje mu RAMIE KREDYTU I UBEZPIECZEN jako jego domene (buduje/prowadzi, udzial w marzy), (3) prowadzi ku SUKCESJI (wspolnik-nastepca, 'starzeje sie'). Skok z mlodszego najmity na partnera z wlasnym filarem + dziedzica fachu. Caveat: wiecej equity=wiecej ryzyka/widocznosci; wartosc future-weighted; domene trzeba zbudowac (spring-gated). nast 71->73, zauf 33->35. handel+1.
+
+## 297-02-04 ZMIERZCH - wybadanie Merka (rzut 76)
+Symon wybadal realny bol Merka: PRZEKREDYTOWANIE zimowe (kapital rozsypany po cudzych kieszeniach na krechu, naleznosci nieśledzone, ekspozycja niepewna). Idealne wejscie: usluga zarzadcza (wiekowanie naleznosci) -> potem weksle/rozproszenie ryzyka. Obowiazek + klient domeny w jednym. czytanie_ludzi+1.

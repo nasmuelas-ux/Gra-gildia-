@@ -3290,3 +3290,6 @@ Symon poznal nowozencow (Bess, corka Wendy + jej maz Dake, mlody rybak) z darem,
 
 ## 297-02-10 RANEK
 Wieczorem cwiczenia (kondycja+1), sen. Kalendarz: harwin ~02-12, podatek ~02-15, draw ~02-19, pilot ~03-10.
+
+## 297-02-10 - Godric audyt+rozmowa (rzut 49)
+Audyt-maintenance czysto (standing zaufanego doradcy trzyma), patron odgrzany (nast 49->52, zauf 9->10), oplata +3 jel (sakiewka->14). Info-edge: dwor/zamek szykuja wieksze wiosenne zamowienia (spojne z Garthem) - wiosna otworzy popyt. Spring-parcela: kredyt cieply, czeka na odwilz. rachunki+1, audyt+1.

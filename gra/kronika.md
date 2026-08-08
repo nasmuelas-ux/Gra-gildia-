@@ -3376,3 +3376,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-16 RANEK: Symon odwiedzil Gartha (rzut 78, czysto). Cieplo, po ludzku. JASNOSC strategiczna: dowod frachtowy juz solidny - waskie gardlo to OSLONA GORNA (Garth koroboruje tylko gdy lord/Winterfell pcha z oslona, nie chce byc pierwszy). Karta sklada sie przez top-cover, nie akumulacje. + SPRING INFO-EDGE: zapowiedz braavijskiej flotylli sukna + wino/sol po odwilzy (przewaga pod weksle/ubezpieczenia). nast 33->36, zauf 11->12.
 
 297-02-16 POLUDNIE: Symon do Owena (rzut 24 - miss, zla chwila/rejestr). Czesc ludzka cieplа, ale zaczepienie o fracht jako kanal Wiary/lorda trafilo zle: Owen (swiezy po eskalacji Harwina) lagodnie przyhamował - by gorliwosc nie stala sie nawykiem zaciagania Wiary w bitwy Symona. NAUKA: top-cover nie przez pchanie Owena; osłona gorna musi przyjsc organicznie (interes lorda/inkwizycja Winterfell). Symon wycofal sie dojrzale. nast 73->72.
+
+297-02-16 ZMIERZCH/NOC: Symon domknal dzien lzej - chleb i odpoczynek. Bankuje lekcje frachtowa (top-cover przez interes lorda, wiosna; nie przez Wiare). Noc spokojna.
+297-02-17 RANEK: Wypoczety. Cicho, mroz trzyma. Zegary: draw ~02-19, Harwin ~02-25.

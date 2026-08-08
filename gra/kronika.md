@@ -3264,3 +3264,6 @@ Wieczorem cwiczenia (kondycja+1), sen po wielkim dniu. Cel: chronic slabszych ma
 
 ## 297-02-08 - obrona przed odwetem Harwina (rzut 100, KRYT)
 Mistrzowski dzien przygotowan: sekret zabezpieczony (list w Sepcie), pozycja prawna ZELAZNA z Torrenem (obywatelstwo/tytul/papiery ponad podwazenie - falszywy cios nie przyklei sie I wysadzi nadawcę), sojusznicy=tarcza szybkiego reagowania. ODWROCENIE: odwet Harwina/Rymana (~02-12) z zagrozenia stal sie potencjalna PULAPKA (pochopny falszywy cios = dowod korupcji dla Winterfell + koniec Harwina). Obrona=zastawiona pulapka. prawo+1, spryt+1, organizacja+1.
+
+## 297-02-08 ZMIERZCH - Nesta: lodowaty rebuke (rzut 1, KRYT)
+Symon przyszedl pewny pochwaly za pulapke; dostal najzimniejsze spojrzenie od miesiecy. Nesta: wasn=koszt bez zysku; z pychy szept->krwawa wojna z frakcja Rymana; WCIAGNAL ja+kantor bez zgody (naraził). Celna pointa: ostrozny Harwin nie skoczy w pulapke - uderzy gdzie brak pancerza (sojusznicy/kantor/imie, wyniszczenie). Partnerstwo trzeszczy (nast 74->66, zauf 36->31). Boli, bo prawda i bo mowi ONA. czytanie_ludzi+1.

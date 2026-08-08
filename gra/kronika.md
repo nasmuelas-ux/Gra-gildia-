@@ -3222,3 +3222,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Pelnia sil. Zegary: harwin ~02-09, podate
 
 ## 297-02-05 - Harlon: wycinek uslugi (rzut 26)
 Symon dolozyl Harlonowi wycinek uslugi zarzadczej na splate przysługi - MALEJACE ZWROTY (wielki wyciek zlapany wczesniej, teraz okruchy). Harlon nieswoj, ze Symon zna jego ksiegi zbyt dobrze (witness-risk od strony klienta, 'dosc zagladania'). Przysluga splacona cienko (nast 33 letnio), ledger ledwo wyrownany. Nauka: powtorka u obsluzonego klienta daje malo + dawkowac gleboki wglad. rachunki+1, audyt+1, czytanie_ludzi+1.
+
+## 297-02-05 ZMIERZCH - lowy na cash-gapy (rzut 19)
+Dziur gotowkowych mnostwo, bankowalnych prawie zero (zimowa rozpacz=zly dlug, nie luka). Negatywna selekcja: sława brokera sciaga desperatow, solidni nie potrzebuja. Dyscyplina odsiala wszystkie - 0 weksli. Nauka: domena rosnie wolno/wybiorczo, nie na wolumenie; mowic NIE = chronic ksiege+nazwisko. spryt+1, czytanie_ludzi+1.

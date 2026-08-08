@@ -3308,3 +3308,6 @@ Symon zajrzal do Hala (konsekwentna obecnosc). Hal wgryza sie w ksiazke+standard
 
 ## 297-02-11 RANEK
 Sen po robotnym dniu (3 cieple relacje: Bran x2, Hal). Kalendarz: harwin ~02-12 (jutro), podatek ~02-15, draw ~02-19, pilot ~03-10.
+
+## 297-02-11 - pomoc w sepcie + sprawa Harwina (rzut 34)
+Sluzba grunt bez blasku (rep wiara 65->66, wiez z Owenem trzyma). Cicho dotkneli sprawy Harwina: sciana strachu stoi - nikt jeszcze nie gotow stanac (dobrowolni swiadkowie). Owen: cierpliwosc, dojrzewa wolno/przez Winterfell. pismo+1, czytanie_ludzi+1.

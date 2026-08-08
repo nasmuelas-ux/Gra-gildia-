@@ -3329,3 +3329,6 @@ Cicha robota-maintenance: porzadek rejestru weksla-pilota, standardy w czyste wz
 
 ## 297-02-12 ZMIERZCH - Serla (rzut 73)
 Cieply gruntujacy wieczor. Serla dumna (mieszczanin, co wciaz przychodzi; pnie sie nie deptajac swoich), Tom zdrow. Potwierdzila rooting: lud z zaulkow mowi o Symonie dobrze (uczciwy, swoich pamieta - Bran-dozorca sie rozniosl). Imie u dolu = korzen, ktorego Harwin szeptem nie wyrwie. nast 39->41.
+
+## 297-02-13 RANEK
+Wieczorem cwiczenia (kondycja+1), sen. DZIS w kalendarzu: wrocic do Miry z pismem (warunki partnerstwa). Zegary: podatek ~02-15, draw ~02-19, harwin ~02-25, pilot ~03-10.

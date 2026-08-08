@@ -3180,3 +3180,6 @@ Symon+Nesta ustrukturyzowali pilot weksel (mala kwota/krotki termin/oplata za ry
 
 ## 297-02-01 ZMIERZCH - Nesta o pilotazu ubezpieczen (forward)
 Symon dopytal, jak dziala dalej pilotaz ubezpieczen frachtu. Nesta: model trzyma (pierwszy wynik lekko na minus - zima=sztormy, zero blowupu), teza zysku niepotwierdzona. Plan: HOLD maly przez zime -> SKALOWAC z wiosna (siada morze=uczciwy test+zysk). Ubezpieczenia+weksle = dwa skrzydla brokera kredytu i pewnosci; wiosna: ubezpieczyc ladunek spolki+eksport. handel+1.
+
+## 297-02-02 RANEK
+Wieczorem cwiczenia (kondycja+1), sen, pelnia sil. Do zrobienia: przedlozyc pilot weksel stronom. Zegary: harwin ~02-10, podatek ~02-15, draw ~02-19.

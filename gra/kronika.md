@@ -3320,3 +3320,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Dzien okna odwetu Harwina - pulapka zasta
 
 ## 297-02-12 - okno odwetu Harwina (rzut 55)
 Harwin NIE sprezyl pulapki (ostrozny, jak Nesta przewidziala). Cichy probe w POCHODZENIE Symona (kopie w przeszlosc) - Boren wylapal wczesnie, ZERO szkody (sekret zabezpieczony), Harwin cofnal sie czekac. Wektor potwierdzony: origins ku sekretowi (Stary Zamek/Ryman). Zagrozenie odroczone, patient dig; trzymac sekret zelazny+czujnosc. Przygotowanie zadzialalo. czytanie_ludzi+1.
+
+## 297-02-12 - domena przez siec (rzut 18)
+Network sourcing wzorowe, ale ZERO bankowalnych klientow teraz - wina zimy nie metody (wszyscy trzymaja srebro, czekaja na odwilz; resztki=ryzyko). Potwierdzenie (spojne z Garth/Godric): wiosenny pipeline sie napelnia (zamowienia dworu/floty/kapital czekaja na lod). Domena naladowana, spring-gated. spryt_uliczny+1.

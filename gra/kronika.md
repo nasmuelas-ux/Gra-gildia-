@@ -3114,3 +3114,6 @@ Symon lezy twardo, czyta prawo na wpol (gorączkowo, prawo+1); septa/Owen donosz
 
 ## 297-01-19->20 - braawijskie ksiegi (rzut 96)
 Rekonwalescencyjna lektura ksiag kupieckich Nesty dala silny insight: braawijskie instrumenty kredytowe (weksle/listy kredytowe, ubezpieczenie, commenda) - przenoszenie wartosci bez gotowki przez dystans/czas. Latentna przewaga leverujaca pismiennosc+rachunki Symona w gotowkowo-ubogim rynku; narzedzie, ktorego partacze nie maja. Do wdrozenia gdy zdrowy+siec (czesc spring-gated); buduje kompetencje sciagajaca faktorow (Rollam). handel+1, jezyki+1. Zdrowie 58->64 (febra schodzi).
+
+## 297-01-20 - Owen zajechany (rzut 26)
+Napar pomogl (zdrowie 64->68). Ale rozmowa z Owenem krotka/nie balsam - Owen zajechany zimowa febra przytulku (Symon jeden z wielu chorych). Poradzil: oddaj rade (nie w twoich rekach, slate stoi), zdrowiej - i poszedl do nastepnego. Symon zostal z wlasna niecierpliwoscia; lekcja: swiat nie kreci sie wokol niego. Owen nast 68 (bez zmian). czytanie_ludzi+1.

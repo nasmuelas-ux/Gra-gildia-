@@ -3195,3 +3195,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Dzien targu rybnego. Pelnia sil. Zegary: 
 
 ## 297-02-03 - cichy wywiad o Harwinie (rzut 29)
 Symon zbieral cicho (Boren+ulica). CIENKO: Harwin ostrozny gracz (czyste powierzchnie, brak latwego brudu - sam zyje z cudzych sekretow). Zdobyte: odczyt (wkopany w przegrana krucjate -> mozliwa nieostroznosc/zajadla cierpliwosc) + potwierdzenie: opiera sie o frakcje RYMANA. Ryzyko: pytanie otarlo sie za blisko - Harwin lekko czujniejszy (zegar ->02-09). Twardej dzwigni brak; stawiac na obrone+rezerwe Ryman. spryt_uliczny+1, czytanie_ludzi+1.
+
+## 297-02-03 ZMIERZCH - Merek (rzut 3, KRYT)
+Follow-up u Merka wyszedl odwrotnie: odmowa jego tropu B kosztowala GO twarz (recza za Symona przed tamtym kupcem, Symon odpuscil), a tlumaczenie Symona (dyskrecja/selekcja) zabrzmialo jak wyzszosc. Merek urazony ('wybierasz komu pomozesz. Zapamietam.'), nast 18->9, zauf 4->3. Reputacja-nick: szept wsrod sredniaka, ze Symon 'przebiera i zadziera nosa'. Faint ripple ku Harlonowi. Nauka: odmowa referralu ma koszt spoleczny. czytanie_ludzi+1.

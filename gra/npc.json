@@ -21,7 +21,7 @@
     "ze wnuk umrze jak jej corka",
     "eksmisja przez wlasciciela kamienicy"
    ],
-   "nastawienie_do_gracza": 41,
+   "nastawienie_do_gracza": 38,
    "zaufanie": 9,
    "wie_o_graczu": [
     "umie pisac",
@@ -43,10 +43,11 @@
     "297-01-20: przyslala choremu Symonowi garnek rosolu i matczyne slowo ('jedz, synku, nie rob z siebie meczennika'). Troska bez interesu. nast 37->38.",
     "297-01-20: Symon odeslal garnek z groszem i obietnica, ze stanie na nogi i przyjdzie z wlasnej woli, nie po interes. Docenil troske sercem.",
     "297-02-04 (rzut 59): cieply grounding wieczor. Tom zdrow (struga przy stole), dom lzejszy. Serla dumna z 'pana Tally' po swojemu, ale trzyma go przy ziemi smiechem ('nie zadzieraj nosa, pamietam cie glodnego') - jego ziemska kotwica, miejsce bez interesu. nast 38->39.",
-    "297-02-12 (rzut 73): cieply gruntujacy wieczor. Serla dumna po swojemu (mieszczanin, co wciaz przychodzi do jej kuchni, nie nosi juz jesiennego ciezaru); 'dobrze robisz, synku' - o ludziach (Wenda/Bran, pnie sie nie deptajac swoich). Tom zdrow. Potwierdzila rooting: lud z zaulkow mowi o Symonie DOBRZE (uczciwy, swoich pamieta - Bran-dozorca sie rozniosl, nie zadziera nosa). nast 39->41."
+    "297-02-12 (rzut 73): cieply gruntujacy wieczor. Serla dumna po swojemu (mieszczanin, co wciaz przychodzi do jej kuchni, nie nosi juz jesiennego ciezaru); 'dobrze robisz, synku' - o ludziach (Wenda/Bran, pnie sie nie deptajac swoich). Tom zdrow. Potwierdzila rooting: lud z zaulkow mowi o Symonie DOBRZE (uczciwy, swoich pamieta - Bran-dozorca sie rozniosl, nie zadziera nosa). nast 39->41.",
+    "297-02-17 (rzut 10, daleko ponizej - KOMPLIKACJA okolicznosciowa, NIE wina/niekompetencja Symona): Symon wpadl w cieplych zamiarach, ale trafil na TWARDY, zimny, chudy poranek Serli - zmeczona, przygaszona, poddasze puste (brak zimowego lokatora = brak grosza), ogien skapy. Na jej gorszy dzien zagral zle KONTRAST STATUSU: chlopak, ktorego karmila glodnego, dzis mieszczanin z domem/nazwiskiem, przychodzi w cieple i syty - a jej duma (uboga, ale harda) zjezyla sie na cien litosci/dystansu. Blysk \"latwo ci teraz, synku\" - nie zlosc, ale zraniona godnosc + zmeczenie. Wizyta NIE zaiskrzyla, cieplo nie chwycilo. To NIE zerwanie i NIE wina Symona - zbieg jej ciezkiego dnia + optyki statusu (echo dumy Leony: nie chce wygladac na ratowana). Wiez zdrowa u korzenia, ale dzis bruzda. SCENA OTWARTA - jak Symon zareaguje zadecyduje, czy zostanie rysa czy naprawa. nast 41->38 (prowizorycznie, do reakcji gracza)."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-02-12",
+   "ostatni_kontakt": "297-02-17",
    "cechy_mowy": "cieplo, ale zaraz o pieniadzach; mowi 'synku', wzdycha",
    "nota": "DAWNA gospodyni Symona (już u niej nie mieszka — przeniósł się do Septy); nadal przyjaciółka, wnuk chorowity",
    "historia": [

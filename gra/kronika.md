@@ -3381,3 +3381,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-17 RANEK: Wypoczety. Cicho, mroz trzyma. Zegary: draw ~02-19, Harwin ~02-25.
 
 297-02-17 RANEK: Symon najadl sie w pelni i pil herbate u Nesty - po ludzku. Nesta z aprobata (przetrzymuje zamiast blyszczy - dojrzewa). Forward: Symon podzielil sie spring info-edge od Gartha (braavijska flotylla sukna+wino/sol po odwilzy) jako wspolnik - kapital dla kantoru pod wiosenne pozycjonowanie (sukno/Leona, weksle/ubezpieczenia pod znane przyjscia). Wiez partnerska glebnie. nast 75->76.
+
+297-02-17 RANEK: Symon odwiedzil Serle (rzut 10, komplikacja okolicznosciowa). Trafil na jej ciezki zimny poranek (poddasze puste=brak grosza, ogien skapy, zmeczona). Kontrast statusu zagral zle na jej gorszy dzien - duma uboga zjezyla sie na cien litosci; "latwo ci teraz, synku". NIE wina Symona, NIE zerwanie - zbieg jej dnia + optyki. Wiez zdrowa, ale dzis bruzda. SCENA OTWARTA (reakcja Symona zadecyduje). nast 41->38 prowiz.

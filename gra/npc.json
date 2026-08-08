@@ -500,7 +500,7 @@
    "leki": [
     "ostra reprymenda od starszego"
    ],
-   "nastawienie_do_gracza": -8,
+   "nastawienie_do_gracza": -11,
    "zaufanie": 0,
    "wie_o_graczu": [
     "pisze jawnie przy Bramie Foki bez licencji",
@@ -508,7 +508,8 @@
     "probowal targowac sie o wpisowe — potraktowalem to jak zniewage, ukaralem publicznie",
     "zszedl z Bramy — zwinal stolik; teraz go szukam, wypytuje w porcie",
     "o switie naszedl zaulek w deszczu — Symona juz nie ma, Serla milczy; teraz pyta szerzej: dokad poszedl, czy nie schronil sie u Wiary",
-    "naszedl septe po Symona — Wiara (Owen) go twardo odprawila; teraz WIE, ze Symon jest pod oslona Wiary; standoff cech-vs-Wiara"
+    "naszedl septe po Symona — Wiara (Owen) go twardo odprawila; teraz WIE, ze Symon jest pod oslona Wiary; standoff cech-vs-Wiara",
+    "297-01-22: jego Cech Pisarzy PRZEGRAL publicznie protest przeciw admisji Symona - upokorzenie na oczach rady. Uraza Harwina zaostrzona (wrog zajadlejszy); mozliwa ostatnia zaczepka/sabotaz przy przysiedze lub zemsta pozniej."
    ],
    "dlugi": [],
    "ostatni_kontakt": "296-08-11",
@@ -1289,7 +1290,7 @@
    "stan": "duchowny (Wiara)",
    "zawod": "septon uczony w prawie; prowadzi prawne/majatkowe sprawy Septy z miastem (zapisy, nadania, wlasnosc koscielna); zna praktyke rady i admisji mieszczanskiej",
    "mieszka": "przy glownej Sepcie / Sept Sniegow",
-   "nastawienie_do_gracza": 12,
+   "nastawienie_do_gracza": 13,
    "zaufanie": 6,
    "wie_o_graczu": [
     "297-01-03 (rzut 81): konsultacja o mieszczanstwie. Torren wylozyl czysta sciezke: ubiegac sie jako KUPIEC-wspolnik (nie skryba) -> Cech Pisarzy traci formalny grunt (nie wchodzi jako skryba, ich weto bezprzedmiotowe). Wymogi: WLASNOSC (dom w murach - brakujace ogniwo, sprawa na wiosne), standing kupiecki (udzial kantoru ✓), poreczyciele-kupcy (Vox/Aldous/Leona/Boren/Merek ✓), poreczenie Wiary ✓, wpis+oplata. Zlozone razem przygniata glos Pisarzy. Ryzyko: Harwin/Ryman moga zwlekac jesli znajda sojusznika w radzie (timing/gotowe poreczenia). DO WYGRANIA. Torren poprowadzi wniosek.",
@@ -1297,13 +1298,14 @@
     "297-01-06 POPOLUDNIE (zamkniecie, rzut 53): poprowadzil kupno kamieniczki. Symon podpisal, zaangazowal wklad 85 jel (z depozytu) + finansowanie kantoru. Torren zamyka po swojemu - PRECYZYJNIE nie szybko: splata zastawu (srebro->wierzyciel Ostyna->pisemne zwolnienie), przeniesienie tytulu, rejestracja - gotowe w kilka dni (~01-09), wtedy klucze. KOSZT: oplaty wyszly ciut wyzej (wierzyciel chcial czysto+szybko - drobny premium), rejestr ma swoje tempo (nie dzis). Czysta wspolna transakcja - profesjonalne zaufanie ku Symonowi rosnie (zauf 4->5). Torren jest teraz de facto jego prawnikiem od nieruchomosci.",
     "297-01-09 RANEK: rejestracja domkniela - Torren wydal Symonowi klucze i kopie wpisu. Transakcja czysta, poprowadzona porzadnie. Relacja robocza ugruntowana.",
     "297-01-11 ZMIERZCH: z poreczeniem Wiary (Owen) zestaw KOMPLETNY (4 kupcy + Wiara). Torren sframuje endorsement Wiary precyzyjnie (poboznosc/sluzba, nie komercja) i poprowadzi ZLOZENIE wniosku o mieszczanstwo. Wciaga tez solidne poreczenia (Boren/Leona/Aldous/Vox). Gotow skladac - szybko, wg strategii cicho->szybko.",
-    "297-01-12 RANEK (rzut 84): Torren dopracowal pismo w noc i ZLOZYL wniosek o mieszczanstwo pierwszy o otwarciu ratusza - czysto, przed wyciekiem. Pelny slate (4 kupcy + Wiara). Sprawa wciagnieta do rejestru rady, decyzja ~01-22. Wsp0lna robota na wysokim poziomie - relacja robocza mocna."
+    "297-01-12 RANEK (rzut 84): Torren dopracowal pismo w noc i ZLOZYL wniosek o mieszczanstwo pierwszy o otwarciu ratusza - czysto, przed wyciekiem. Pelny slate (4 kupcy + Wiara). Sprawa wciagnieta do rejestru rady, decyzja ~01-22. Wsp0lna robota na wysokim poziomie - relacja robocza mocna.",
+    "297-01-22: przyniosl choremu Symonowi wiesc - RADA PRZYZNALA mieszczanstwo (warunkowo: wyzsza oplata ~12 jel + osobista przysiega ~01-27). Slate poreczen wytrzymal, Vox zabral glos, Pisarze bez sojusznika przegrali. Torren poprowadzi ceremonie/oplate. Satysfakcja z dobrze poprowadzonej sprawy."
    ],
    "potrzeby": [
     "porzadek w sprawach Septy",
     "posluszenstwo Wierze"
    ],
-   "ostatni_kontakt": "297-01-12",
+   "ostatni_kontakt": "297-01-22",
    "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
    "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
   },

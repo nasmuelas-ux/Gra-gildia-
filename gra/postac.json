@@ -7,9 +7,9 @@
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
- "zdrowie": 70,
+ "zdrowie": 82,
  "sytosc": 58,
- "zmeczenie": 14,
+ "zmeczenie": 12,
  "sakiewka": {
   "miedziaki": 10,
   "jelenie": 1,
@@ -118,10 +118,10 @@
  "depozyt_u_nesty_mied": 5000,
  "stany": [
   {
-   "co": "ZIMOWA FEBRA - w odwrocie (twarde lezenie)",
+   "co": "rekonwalescencja po zimowej febrze",
    "od": "297-01-17",
-   "do_ok": "~01-23/24 przy dalszym lezeniu",
-   "efekt": "zdrowie 58 i rosnie; febra schodzi. Dalej GATED na odpoczynek; przedwczesny wysilek/zimno = ryzyko nawrotu."
+   "do_ok": "~01-24 (slabosc ustepuje)",
+   "efekt": "zdrowie 82 i rosnie; febra zeszla, nogi jeszcze miekkie. Lekka aktywnosc OK, ciezki wysilek jeszcze nie. Fit do przysiegi ~01-27."
   }
  ],
  "wspolnictwo_nesta": {
@@ -157,5 +157,10 @@
   "dach_pelny_wiosna_rezerwa_jel": "~21 (reszta linii ~30 na pelny re-roof przy odwilzy)",
   "fit_out_izba_jel": 5,
   "fit_out_izba2_jel": 5
+ },
+ "mieszczanstwo": {
+  "status": "PRZYZNANE WARUNKOWO (297-01-22, rzut 51) - veto Cechu Pisarzy pobite (slate Boren/Leona/Aldous/Vox + Wiara; Vox zabral glos na sali; Pisarze bez sojusznika w radzie).",
+  "warunki": "(1) wyzsza oplata wpisowa ~12 jel (rada, by wygladac sprawiedliwie wobec cechu), (2) OSOBISTA PRZYSIEGA mieszczanska przed rada ~01-27 - Symon musi stanac zdrow i zlozyc sam.",
+  "koszt_uboczny": "Cech Pisarzy/Harwin przegrali PUBLICZNIE -> uraza zaostrzona, wrog zajadlejszy (przyszly watek)."
  }
 }

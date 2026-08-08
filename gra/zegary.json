@@ -142,12 +142,6 @@
    "typ": "dochod (do wiosny)"
   },
   {
-   "id": "rada_mieszczanstwo_decyzja",
-   "opis": "Rada miejska rozpatruje wniosek Symona o mieszczanstwo (zlozony 01-12, kupiec-wspolnik). Konsultuje cechy - Cech Pisarzy (Harwin) ZAPROTESTUJE (partacz), ale przeciw murowi: cechmistrz Boren + Leona + Aldous + Vox + poreczenie Wiary (poboznosc/sluzba). Pisarze bez sojusznika w radzie = slaby glos; Symon zlozyl PRZED wyciekiem (opozycja reaguje za pozno). Vox oferuje glos w radzie gdyby trzeba. Rozstrzygniecie ~01-22. Wynik NIEPRZESADZONY - mocna pozycja, nie pewnik.",
-   "odpala": "297-01-22",
-   "typ": "decyzja instytucjonalna"
-  },
-  {
    "id": "zlecenia_krag_okno",
    "opis": "A (sukiennik Colm) ZROBIONE (fee ~3 jel, goodwill). B (delikatny/sekret) ODPUSZCZONE swiadomie (ryzyko sekretu - Owen/Nesta). C (faktor Rollam) UCHYLONE - cultivate/proving, nie szybki skok. Aktywne tylko C jako dlugofalowa relacja do budowy.",
    "odpala": "297-01-29",
@@ -155,8 +149,8 @@
   },
   {
    "id": "choroba_zdrowienie",
-   "opis": "01-20: febra dalej schodzi (zdrowie 64, lezenie dziala). Powrot ~01-23 przy odpoczynku; przedwczesny wysilek/zimno = ryzyko nawrotu.",
-   "odpala": "297-01-23",
+   "opis": "01-22: febra zeszla, zdrowie 82, slabosc ustepuje (~01-24). Fit do przysiegi ~01-27.",
+   "odpala": "297-01-24",
    "typ": "zdrowie"
   },
   {
@@ -164,6 +158,12 @@
    "opis": "Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt.",
    "odpala": "297-02-19",
    "typ": "dochod cykliczny"
+  },
+  {
+   "id": "przysiega_mieszczanska",
+   "opis": "Osobista przysiega mieszczanska przed rada + oplata wpisowa ~12 jel. Symon musi stanac zdrow i zlozyc sam. Po niej: PELNOPRAWNY MIESZCZANIN Bialego Portu. UWAGA: Harwin/Pisarze upokorzeni - moga probowac ostatniej zaczepki/sabotazu przy ceremonii lub potem.",
+   "odpala": "297-01-27",
+   "typ": "ceremonia/kamien milowy"
   }
  ]
 }

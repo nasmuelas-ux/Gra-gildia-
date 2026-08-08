@@ -3123,3 +3123,6 @@ Do chorego Symona przyszli CI WLASCIWI: Bran (piwo, smiech, nie dal sie uzalac -
 
 ## 297-01-20 ZMIERZCH - podziekowania
 Symon szczerze podziekowal tym, co przyszli: Branowi (siadlo), Serli (odeslal garnek z groszem+obietnica wizyty bez interesu), Jonnie (rozmowa jak z sasiadka). Odwdzieczyl sie sercem, nie kalkulacja - nauka, ze ludzie to nie pozycje w ksiedze. Bran/Serla zaufanie +1, Jonna nast +2. Korzen sie umacnia.
+
+## 297-01-22 RANEK - DECYZJA RADY: MIESZCZANSTWO PRZYZNANE (rzut 51)
+Torren przyniosl choremu Symonowi wiesc: rada PRZYZNALA mieszczanstwo. Slate (Boren/Leona/Aldous/Vox + Wiara) i glos Voxa na sali pobily veto Cechu Pisarzy (bez sojusznika w radzie). WARUNKOWO: wyzsza oplata ~12 jel + osobista przysiega ~01-27. Cena uboczna: Harwin/Pisarze przegrali publicznie -> uraza zaostrzona (Harwin nast -3, wrog zajadlejszy). Zdrowie 70->82 (febra zeszla). Zostaje przysiega+oplata -> pelnoprawny mieszczanin.

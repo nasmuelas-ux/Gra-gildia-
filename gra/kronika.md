@@ -3404,3 +3404,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-18 POPOLUDNIE/ZMIERZCH: Symon u Godrica pracowal nad ksiegami (staly angaz, rzut 48 - tuz powyzej). Czysto, ale zima chuda - skromny fee ~2 jel (sakiewka 12->14). Court-conduit trzyma, nast 52->53. AMBIENT: Nowy Zamek szykuje wiosenne zaopatrzenie (spojne ze spring pipeline) - Symon zanotowal cicho jako info-edge, NIE forsujac frachtu (dyscyplina). Jeden z niewielu zimowych strumieni dochodu.
 
 297-02-18 ZMIERZCH: Symon do Owena bez agendy (reset po 02-16, rzut 29 - miss okolicznosciowy). Owen przygnieciony zimowym ciezarem parafii (ubodzy/jalmuzna), brak przestrzeni na osobisty moment; cień z 02-16 wisi lekko. Symon nie forsowal - cicho pomogl przy robocie (agenda-less sluzba). Reset nie domkniety, ale nie pogorszony. NAUKA: reset potrzebuje prawdziwego momentu, zima go nie daje - cierpliwosc. nast trzyma 72.
+
+297-02-18 NOC: Symon wypoczal i spal - dzien pelny (traktat sesja2 jalowa+lekcja, Bran rozkwitl/slub, Godric ksiegi +2jel, Owen reset niedomkniety). Noc spokojna.
+297-02-19 RANEK: DRAW od Nesty wplynal - 6 jel do depozytu (23->29 jel). Cicho, mroz trzyma. Nastepny draw ~03-19; Harwin ~02-25.

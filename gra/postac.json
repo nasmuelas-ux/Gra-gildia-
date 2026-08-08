@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 40,
- "zmeczenie": 6,
+ "zmeczenie": 12,
  "sakiewka": {
   "miedziaki": 0,
   "jelenie": 9,
@@ -85,7 +85,7 @@
   "spryt_uliczny": 105,
   "kondycja": 92,
   "rzemioslo": 0,
-  "handel": 99,
+  "handel": 100,
   "walka": 41,
   "geometria": 20,
   "czytanie_ludzi": 101,
@@ -125,10 +125,12 @@
   "draw_ostatni": "297-01-19",
   "draw_nastepny": "297-02-19",
   "udzial_transakcje": "1/3 netto z transakcji ktore Symon sam zrodli/prowadzi",
-  "udzial_core": "PODNIESIONY 12-30 z proby na stale, rosnacy - realna wlasnosc (maly %, wartosc gotowkowa skromna bo kantor dzwiga dlug Antaryonow, ale equity=mieszczanska substancja/przyszle zyski)",
+  "udzial_core": "PODNIESIONY 297-02-04 (rzut 99) - realnie, nie na probe: twardsza wlasnosc, wieksza czesc przyszlych zyskow. Wartosc gotowkowa wciaz future-weighted (kantor dzwiga dlug Antaryonow), ale equity=mieszczanska substancja + rosnace zyski.",
   "uwaga": "wikt formalnie w bazie, ale Symon zywiony przez Septe (nie konsumuje). Nalezy wziac od Nesty PELNE rozliczenie partnerskie (draw+1/3+udzial) - Symon jako czlowiek liczb powinien miec wlasne konto czyste.",
   "1_3_rozpoznane_12_30": "~10 jel narosle, rozpoznane/wziete",
-  "konto": "CZYSTE (rozliczenie 12-30, rzut 93)"
+  "konto": "CZYSTE (rozliczenie 12-30, rzut 93)",
+  "domena_symona": "RAMIE KREDYTU I UBEZPIECZEN oddane Symonowi jako JEGO domena (297-02-04): buduje i prowadzi (weksle+ubezpieczenia frachtu), okreslony udzial w marzy. Nie pomaga - jego filar.",
+  "sukcesja": "Nesta prowadzi Symona ku SUKCESJI - z czasem wspolnik-nastepca, nie podwladny ('starzeje sie')."
  },
  "kamieniczka": {
   "status": "ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe.",

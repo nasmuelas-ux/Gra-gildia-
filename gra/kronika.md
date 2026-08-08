@@ -3204,3 +3204,6 @@ Symon wszedl do Merka przez intro Harlona z wartoscia/wzajemnoscia (nie tlumacze
 
 ## 297-02-04 RANEK
 Wieczorem cwiczenia (kondycja+1), sen. Pelnia sil. Zegary: harwin ~02-09, podatek ~02-15, draw ~02-19. Zobowiazania: dowiezc Merkowi turn/usluge, dbalosc o Harlona.
+
+## 297-02-04 RANEK - Nesta: LANDMARK (rzut 99)
+Nesta zlozyla Symonowi propozycje: (1) podnosi udzial core (realna wlasnosc), (2) oddaje mu RAMIE KREDYTU I UBEZPIECZEN jako jego domene (buduje/prowadzi, udzial w marzy), (3) prowadzi ku SUKCESJI (wspolnik-nastepca, 'starzeje sie'). Skok z mlodszego najmity na partnera z wlasnym filarem + dziedzica fachu. Caveat: wiecej equity=wiecej ryzyka/widocznosci; wartosc future-weighted; domene trzeba zbudowac (spring-gated). nast 71->73, zauf 33->35. handel+1.

@@ -3153,3 +3153,6 @@ Symon podziekowal Borenowi szczerze (+dzban, -6 mied). Boren gruf-cieplo, deflek
 
 ## 297-01-29 ZMIERZCH - podzieka Voxowi (rzut 18)
 Symon podziekowal Voxowi (mowil za nim na sali; nast 52->53, wdzieczny). ALE Vox nieostroznie rozglasza go jako 'skrybe co wywecha zlodzieja' - dwusieczna slawa; a wylany po audycie posrednik obwinia SYMONA (drobny cichy wrog). Nauka: reputacja forensyczna tnie w dwie strony (niewygodny swiadek - Owen/Nesta); dozowac. czytanie_ludzi+1.
+
+## 297-01-30 RANEK - wyplata Godrica + gimnastyka
+Wieczorem gimnastyka (kondycja+1). Rano wyplata Godrica: +6 jel (sakiewka 1->7), patron zadowolony (czysta robota + wylapana przeplata). Zegary: podatek ~02-15, harwin ~02-10, draw ~02-19.

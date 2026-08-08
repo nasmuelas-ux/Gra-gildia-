@@ -3192,3 +3192,6 @@ Symon probowal odgrzac polnocny kanal pozycjonowaniem na wiosne - wyszlo zimno. 
 
 ## 297-02-03 RANEK
 Wieczorem cwiczenia (kondycja+1), sen. Dzien targu rybnego. Pelnia sil. Zegary: harwin ~02-10, podatek ~02-15, draw ~02-19.
+
+## 297-02-03 - cichy wywiad o Harwinie (rzut 29)
+Symon zbieral cicho (Boren+ulica). CIENKO: Harwin ostrozny gracz (czyste powierzchnie, brak latwego brudu - sam zyje z cudzych sekretow). Zdobyte: odczyt (wkopany w przegrana krucjate -> mozliwa nieostroznosc/zajadla cierpliwosc) + potwierdzenie: opiera sie o frakcje RYMANA. Ryzyko: pytanie otarlo sie za blisko - Harwin lekko czujniejszy (zegar ->02-09). Twardej dzwigni brak; stawiac na obrone+rezerwe Ryman. spryt_uliczny+1, czytanie_ludzi+1.

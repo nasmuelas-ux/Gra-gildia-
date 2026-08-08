@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 54,
- "zmeczenie": 32,
+ "zmeczenie": 30,
  "sakiewka": {
   "miedziaki": 0,
   "jelenie": 14,
@@ -88,7 +88,7 @@
   "handel": 103,
   "walka": 41,
   "geometria": 20,
-  "czytanie_ludzi": 120,
+  "czytanie_ludzi": 121,
   "organizacja": 68,
   "audyt": 83
  },
@@ -158,7 +158,8 @@
   "dach_patch_zima_jel": 9,
   "dach_pelny_wiosna_rezerwa_jel": "~21 (reszta linii ~30 na pelny re-roof przy odwilzy)",
   "fit_out_izba_jel": 5,
-  "fit_out_izba2_jel": 5
+  "fit_out_izba2_jel": 5,
+  "dach_pelny_wiosna_rewizja": "297-02-14 (Donnel): zgnilizna siega stropu/belek dalej niz pierwsza ocena -> pelny re-roof ~35+ jel (nie ~21 rezerwy). PRZEKROCZENIE BUDZETU ~15+ jel. Kosci zdrowe, ale remont glebsza studnia. Do rozwiazania: wiecej finansowania/re-scope. Izba 3 opozniona/drozsza."
  },
  "mieszczanstwo": {
   "status": "✅ PELNOPRAWNY MIESZCZANIN (przysiega zlozona 297-01-27, oplata ~12 jel zaplacona). Veto Pisarzy pobite. Korzen w miescie prawnie zapuszczony.",

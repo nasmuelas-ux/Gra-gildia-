@@ -3350,3 +3350,6 @@ Symon przyszedl z konkretem (wiosenne zamowienia dworu/zamku od Godrica + celna 
 
 ## 297-02-14 ZMIERZCH - Hal PRZELOM (rzut 96)
 Hal wylapal prawdziwa rozbieznosc standardami audytu JAK NALEZY (we wlasciwej roli); glod->mistrzostwo. Konsekwentna obecnosc+inwestycja zwrocily sie: Hal oddany, osadzony, na drodze do realnego drugiego pisarza. Mozna powierzac wiecej pod okiem - z ciezaru w atut. nast 58->62, zauf+2. organizacja+1.
+
+## 297-02-14 ZMIERZCH - Donnel: zla wiesc o dachu (rzut 11)
+Donnel (lekko chlodny po 35 dniach) dal zla wiesc: latajac dach zima zobaczyl wiecej - zgnilizna siega stropu/belek; wiosenny remont grubszy/drozszy (~35+ jel vs ~21 rezerwy). Kosci zdrowe, ale remont glebsza studnia; przekroczenie budzetu ~15+ jel, izba 3 opozniona/drozsza. Do rozwiazania: finansowanie/re-scope (Nesta/Mira). czytanie_ludzi+1.

@@ -3054,3 +3054,6 @@ Symon poprosil Owena o poreczenie Wiary - ostatni fundament. Owen nie odmowil (s
 
 ## 297-01-12 RANEK - WNIOSEK ZLOZONY (rzut 84)
 Torren dopracowal pismo w noc i zlozyl wniosek o mieszczanstwo pierwszy o otwarciu ratusza - czysto, przed wyciekiem. Slate: Boren(cechmistrz)+Leona+Aldous+Vox+poreczenie Wiary (poboznosc/sluzba). Symon przed plotka - opozycja bedzie reagowac, nie uprzedzac. Decyzja rady ~01-22 (zegar). Pozycja mocna, wynik nieprzesadzony. prawo+1, organizacja+1.
+
+## 297-01-12 - najem (rzut 18)
+Sniadanie, potem do kamieniczki dogladac najmu. Kandydatka Leony (porzadna wdowa) obejrzala i grzecznie sie wycofala - izby suche, ale zimne/gole/w remoncie; w mroz lokator chce ciepla i gotowosci. Nauka: lettable != rentable. Prerekwizyt: minimalny fit-out 1 izby (palenisko, szczelne okiennice) nim czynsz ruszy. Dochod opozniony (~01-16), soft lead zachowany. handel+1.

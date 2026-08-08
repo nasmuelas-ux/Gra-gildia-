@@ -3234,3 +3234,6 @@ Syty posilek, wczesny sen, pelnia sil. Zegary: harwin ~02-09, podatek ~02-15, dr
 
 ## 297-02-06 - Garth (rzut 62)
 Cieply reconnect z Garthem (pisarz celny, znudzony w zimowej komorze). Info-edge: pierwsze wiosenne zapowiedzi zeglugi saczą sie do cla (sukno/wino/sol po odwilzy). Garth = rura informacyjna na wiosne (co plynie/co rzadkie -> handel/weksle/ubezpieczenia). nast 30->33, zauf 10->11. czytanie_ludzi+1.
+
+## 297-02-06 ZMIERZCH - Hal (rzut 6, KRYT)
+Symon zajrzal po 3 tyg. nieobecnosci. Podwojny balagan: ksiega reliefu poplatana (Hal nadmandatowo poprzesuwal/osadzil - naprawialne) + ocieplenie cofniete (Hal zimny, czuje sie porzucony: 'dales mi ksiege i zniknales'). Uraza po czesci zasluzona (nieobecnosc Symona). Nauka na Symona: nie mentoruje sie przez nieobecnosc. nast 54->46. Do zrobienia: rozsupłać ksiege + odbudowac chlopaka. czytanie_ludzi+1, organizacja+1.

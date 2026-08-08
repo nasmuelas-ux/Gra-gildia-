@@ -742,7 +742,7 @@
    "leki": [
     "nierzetelni wspolnicy"
    ],
-   "nastawienie_do_gracza": 34,
+   "nastawienie_do_gracza": 41,
    "zaufanie": 5,
    "wie_o_graczu": [
     "dotrzymal slowa na umowie cechowej",
@@ -751,10 +751,11 @@
     "chcial sredniej partii opalu, nie tylko balastu — zorientowal sie, ze przy tej skali fracht przestaje byc darmowy",
     "Symon prowadzi cechowe zamowienie na polnocne drewno — dla Torsena stały, powtarzalny odbiorca (marzenie faktora)",
     "d19 (rzut 66): Symon odswiezyl stygnaca wiez pozycjonowaniem na WIOSNE - sygnal, ze rosnie staly polnocny popyt (cech proven + zamek zainteresowany na przyszly sezon). Dla Torsena to jego marzenie (staly, powtarzalny odbiorca) -> ociepl sie, gotow ULOZYC z Halvardem pojemnosc/warunki na wiosenna parcele zamkowa, gdy Bialy Noz ruszy. Teraz nic nie plynie (rzeka skuta). Wiez odswiezona (31->36, zauf +1). Krok po kroku, po jego chlodnemu.",
-    "297-02-02 (rzut 10): Symon probowal odgrzac kanal pozycjonowaniem na wiosne. Torsen ZIMNO/zniechecony (6 tyg ciszy + zimowa posepnosc): dosc 'sygnalow', chce TWARDEGO ZAMOWIENIA nie nadziei ('obietnicami nie nakarmie ludzi'). + Zla wiesc z glebi Polnocy (Bialy Noz): sroga zima jak od lat, od faktora HALVARDA ANI SLOWA OD TYGODNI (rzeka skuta=blackout info+towar); stan drewna/Halvarda nieznany do odwilzy. nast 36->34."
+    "297-02-02 (rzut 10): Symon probowal odgrzac kanal pozycjonowaniem na wiosne. Torsen ZIMNO/zniechecony (6 tyg ciszy + zimowa posepnosc): dosc 'sygnalow', chce TWARDEGO ZAMOWIENIA nie nadziei ('obietnicami nie nakarmie ludzi'). + Zla wiesc z glebi Polnocy (Bialy Noz): sroga zima jak od lat, od faktora HALVARDA ANI SLOWA OD TYGODNI (rzeka skuta=blackout info+towar); stan drewna/Halvarda nieznany do odwilzy. nast 36->34.",
+    "297-02-14 (rzut 79): Symon przyszedl z KONKRETEM (nie mglistymi sygnalami): dwor/Nowy Zamek szykuja wieksze wiosenne zamowienia (Godric) + celna fala (Garth) - kto/co/kiedy kupuje. Torsen (pragmatyk) odgrzal sie na konkret. PLAN: pozycjonowanie na wiosne - Torsen dogaduje z Halvardem pojemnosc/warunki (gdy Bialy Noz puści), gotowi wypelnic zamowienia dworu; Symon=OGNIWO/BROKER (strona popytu dwor <-> strona podazy drewno, za prowizje - brokerage na wiedzy wg Nesty). ALE Halvard wciaz milczy (deep-North), strona podazy krucha do odwilzy. nast 34->41."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-02-02",
+   "ostatni_kontakt": "297-02-14",
    "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'",
    "historia": [
     "m11d14: rozmowa o oknie na glebie Polnocy (rzut 36). Torsen cieplo (wiecej interesu), potwierdza: siec Halvarda SIEGA glebiej niz drewno/1 proba futer — futra/skory/bursztyn + loj, wosk, miod, rog/kosc, polnocne specjaly. ALE limity: ZIMA scina podaz glebi do zera (traperzy/klany/gora ruszą dopiero wiosną, Bialy Noz zamarza), i Torsen NIE zaangazuje Halvarda na wieksza skale, poki proba futer nie udowodni popytu/marzy w Braavos (~12-20). Timber jego priorytet -> facylitator nie driver. WNIOSEK: pipeline WIOSENNY zmapowany, teraz nic nie plynie. Torsen 26->28.",

@@ -3344,3 +3344,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Jutro pierwszy podatek miejski (~02-15). 
 
 ## 297-02-14 - robota u Nesty (rzut 20)
 Slamazarny dzien + trzezwy wglad: kantor napiety tej zimy (dlug Antaryonow dzwigany jak kamien + cienkie przychody; rdzen stoi ciasno). Nesta rzeczowa/przycisniona. Wniosek: kapitalo-lekki filar (kredyt/ubezp/doradztwo) to wlasciwy wektor - fach na wiedzy nie dzwiga kamienia jak dzwignia na cudzym dlugu; udzial realny ale obciazony. rachunki+1, audyt+1.
+
+## 297-02-14 - Torsen: re-aktywacja kanalu (rzut 79)
+Symon przyszedl z konkretem (wiosenne zamowienia dworu/zamku od Godrica + celna fala Garth) zamiast mglistych sygnalow - Torsen odgrzal sie (nast 34->41). Plan: pozycjonowanie na wiosne (Torsen<->Halvard pojemnosc gdy Biały Noz puści; Symon=broker dwor-popyt<->drewno-podaz za prowizje). Halvard wciaz milczy - podaz krucha do odwilzy. Brokerage na wiedzy (Nesta). retoryka+1, handel+1.

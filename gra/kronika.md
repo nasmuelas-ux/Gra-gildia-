@@ -3299,3 +3299,6 @@ Symon zlozyl Mirze ofNerte partnerstwa (kamieniczka+ksiega doradcza, udzial, aut
 
 ## 297-02-10 ZMIERZCH - podzieka Branowi (rzut 36)
 Symon podziekowal Branowi za wizyte w chorobie - wzruszony, przyjazn pogleboila sie (nast 55->57). Ale zima go zjada (dok martwy, proba chwiejna, Alys sie oddala, zniechecony). Zalazek: dac Branowi realna robote przy kamieniczce (dozorca/tragarz) - staly grosz + pewna reka, nie jalmuzna. czytanie_ludzi+1.
+
+## 297-02-10 ZMIERZCH - Bran dozorca kamieniczki (rzut 81)
+Symon dal Branowi DOZORSTWO kamieniczki (realna robota: utrzymanie/opal lokatorom/remont dachu wiosna; ~2 jel/mies z czynszu) - nie jalmuzna, godnosc cala. Bran wzial z ulga (staly grosz zima+wiosna, wesele z Alys znow realne), 'nie zawiodę cie'. nast 57->64, zauf+2. Symon zyskal lojalna reke + on-site pancerz vs najscie Harwina. Dobre uzycie sojusznika (zgoda/korzysc/godnosc - przeciwienstwo bledu z Nesta). Kamieniczka->male przedsiebiorstwo (Bran+Mira). czytanie_ludzi+1.

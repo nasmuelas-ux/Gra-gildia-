@@ -106,7 +106,7 @@
    "przydomek": null,
    "wiek": 23,
    "stan": "pospolity",
-   "zawod": "tragarz/reka faktorii Nesty (NA PROBIE, od d25)",
+   "zawod": "dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/proba faktorii Nesty)",
    "mieszka": "Rybi_Zaulek",
    "harmonogram": {
     "ranek": "port/nabrzeze",
@@ -121,8 +121,8 @@
     "kontuzja plecow",
     "ze go ominie lepsza fucha"
    ],
-   "nastawienie_do_gracza": 57,
-   "zaufanie": 13,
+   "nastawienie_do_gracza": 64,
+   "zaufanie": 15,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
     "czyta mu listy od brata z Siostr",
@@ -145,7 +145,8 @@
     "297-01-16 ZMIERZCH (rzut 89): cieply wieczor bez interesu. Do portu wszedl rzadki zimowy statek - Bran mial kilka dni prawdziwej roboty i grosz do garsci (na wesele z Alys); nie ratunek, ale ODDECH - proba w faktorii juz nie sama przepasc. W dobrym humorze, pierwszy raz TO ON postawil piwo. Gadali o Alys, wiosnie, glupstwach. Przyjazn pogłębiona (lubi Symona nie za to, ze rosnie, lecz ze byl przy nim, gdy bylo krucho). nast 51->54.",
     "297-01-20: przyszedl do chorego Symona z piwem i smiechem, nie dal mu sie uzalac - przyszedl, bo LUBI, nie bo Symon rosnie. Przyjazn potwierdzona w probie. nast 54->55.",
     "297-01-20: Symon podziekowal mu szczerze ('zes przyszedl, choc nic ci z tego - nie zapomne') - siadlo. Wiez bez interesu.",
-    "297-02-10 (rzut 36): Symon podziekowal Branowi szczerze, ze przyszedl do chorego (febra). Bran wzruszony (nie przywykl do podziek), przyjazn pogleboila sie (nast 55->57). ALE pod smiechem zima go zjada: statek dal kilka dni tygodnie temu i tyle, nabrzeze znow martwe, proba w faktorii na wlosku, wesele z Alys sie oddala, zniechecony (nie skarzy sie, ale strach w oczach). ZALAZEK: kamieniczka potrzebuje rak (dozorca/tragarz przy remoncie dachu wiosna/utrzymanie/opal lokatorom) - realna robota dla Brana (nie jalmuzna), staly grosz zima+wiosna, a Symon zyskuje pewna reke. Mysl na jutro, nierzucona."
+    "297-02-10 (rzut 36): Symon podziekowal Branowi szczerze, ze przyszedl do chorego (febra). Bran wzruszony (nie przywykl do podziek), przyjazn pogleboila sie (nast 55->57). ALE pod smiechem zima go zjada: statek dal kilka dni tygodnie temu i tyle, nabrzeze znow martwe, proba w faktorii na wlosku, wesele z Alys sie oddala, zniechecony (nie skarzy sie, ale strach w oczach). ZALAZEK: kamieniczka potrzebuje rak (dozorca/tragarz przy remoncie dachu wiosna/utrzymanie/opal lokatorom) - realna robota dla Brana (nie jalmuzna), staly grosz zima+wiosna, a Symon zyskuje pewna reke. Mysl na jutro, nierzucona.",
+    "297-02-10 (rzut 81): Symon zaproponowal Branowi DOZORSTWO kamieniczki (utrzymanie/opal lokatorom/oko na budynek/remont dachu wiosna) - jako REALNA robota, nie jalmuzna (znajac jego dume). Bran zrazu drgnal (litosc?), ale zobaczyl, ze to prawda (realna potrzeba+zaufanie) i wzial z ulga. Staly grosz zima+wiosna -> wesele z Alys znow realne; duma cala (zarabia). 'Nie zawiodę cie, Symon.' Oddana pewna reka. nast 57->64, zauf +2. Dla Symona: lojalny dozorca + on-site=pancerz vs najscie/pochodnia Harwina. Dobre uzycie sojusznika (realna robota/zgoda/obopolna korzysc/godnosc - przeciwienstwo bledu z Nesta)."
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-02-10",

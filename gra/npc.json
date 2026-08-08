@@ -75,8 +75,8 @@
     "konkurencja z drugiego konca targu",
     "poborca cechowy"
    ],
-   "nastawienie_do_gracza": 31,
-   "zaufanie": 12,
+   "nastawienie_do_gracza": 38,
+   "zaufanie": 13,
    "wie_o_graczu": [
     "pisze tanio",
     "obcy, uczony",
@@ -88,7 +88,8 @@
     "spisal ZA DARMO umowe malzenska dla jej corki Bess i jego audytorskie oko wychwycilo, ze rodzina pana mlodego zanizala zwrot posagu — ochronil jej interes; ogromna wdziecznosc",
     "d21 (rzut 96): cieplа, niemal rodzinna wizyta. Wesele Bess stoi (data po nowym roku, kontrakt uczciwy dzieki Symonowi) - zaprosila go do rodzinnego stolu (waine dla bezrodzinnego Symona). Zadeklarowala, ze RECZY za niego wsrod targowego ludu ('kto krzywo patrzy na skrybe Wendy...') - jej oko/jezyk/siec jego, glosna obronczyni wsrod przekupek/tragarzy/drobnego ludu portu.",
     "297-02-09 (rzut 8, KRYT): Symon zaszedl po 7 tyg. nieobecnosci. Wenda ZIMNO ('pan Tally se przypomnial'). Przespal WESELE BESS (jej corki, 'po nowym roku'=tygodnie temu) - przy rodzinnym stole bylo miejsce dla bezrodzinnego Symona, a jego NIE BYLO, ni slowa. Wenda zraniona (cicho, gorzej niz krzyk): wziela go jak rodzine, reczyla za niego u ryb ('nie obcy z fumami'), a on wszedl w mieszczanstwo i zapomnial ('za wielki na Rybi Zaulek?'). Nieprawda, ale jego NIEOBECNOSC to powiedziala; nadszarpnela jej targowa porękę za niego. nast ~29->22 (zraniona, nie zerwanie). WZORZEC (3. raz: Nesta-blindspot, Hal-neglect, Wenda): awans zaniedbuje korzenie - te, co mialy trzymac i bronic.",
-    "297-02-09 KOREKTA: Symon wyjasnil, ze przespal wesele Bess bo LEZAL W ZIMOWEJ FEBRZE (17-27, o krok od smierci, uzdrowicielka) - realny honorowy powod, nie 'za wielki na Rybi Zaulek'. Wenda NIE WIEDZIALA, ze chorowal (on zamkniety w Sepcie, ona po drugiej stronie miasta) - jej chlod byl z DOMYSLU, nie z serca. Prawda rozbroila krzywdę: zmiekla, wstydzi sie wlasnego chlodu ('czemus nie poslal slowa? myslalam zes... a ty lezales'). Rana zagojona w wiekszosci. Zostaje maly uczciwy okruch: od wyzdrowienia (~2 tyg) mogl poslac slowo - Symon przyznal bez oporu, jej wystarcza. Wiez niemal-rodziny wraca. nast 22->31."
+    "297-02-09 KOREKTA: Symon wyjasnil, ze przespal wesele Bess bo LEZAL W ZIMOWEJ FEBRZE (17-27, o krok od smierci, uzdrowicielka) - realny honorowy powod, nie 'za wielki na Rybi Zaulek'. Wenda NIE WIEDZIALA, ze chorowal (on zamkniety w Sepcie, ona po drugiej stronie miasta) - jej chlod byl z DOMYSLU, nie z serca. Prawda rozbroila krzywdę: zmiekla, wstydzi sie wlasnego chlodu ('czemus nie poslal slowa? myslalam zes... a ty lezales'). Rana zagojona w wiekszosci. Zostaje maly uczciwy okruch: od wyzdrowienia (~2 tyg) mogl poslac slowo - Symon przyznal bez oporu, jej wystarcza. Wiez niemal-rodziny wraca. nast 22->31.",
+    "297-02-09 (rzut 99): Symon przyszedl poznac nowozencow (Bess+Dake) z darem, jak swoj nie laskawca - wrosl w rodzine Wendy (miejsce przy stole dla bezrodzinnego). Wieczor cieply/rodzinny. Wenda promienieje; jej targowa porękа za Symona UMOCNIONA (Rybi Zaulek widzi, ze uczcil rodzine). nast 31->38, wiez glebsza niz przed rana. Zakorzenienie przezyte, nie kupione."
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-02-09",
@@ -1486,6 +1487,38 @@
    ],
    "ostatni_kontakt": "297-02-02",
    "cechy_mowy": "zywy, troche nerwowy o pieniadze"
+  },
+  {
+   "id": "bess_corka_wendy",
+   "imie": "Bess",
+   "przydomek": "corka Wendy",
+   "wiek": 19,
+   "stan": "mieszczka (lud)",
+   "zawod": "nowozamezna, corka przekupki Wendy",
+   "mieszka": "Rybi Zaulek",
+   "nastawienie_do_gracza": 20,
+   "zaufanie": 5,
+   "wie_o_graczu": [
+    "297-02-09: poznala Symona (mama go 'adoptowala'); bystra/cieta jak Wenda; cieply rodzinny wieczor - przyjela go jak swojego."
+   ],
+   "ostatni_kontakt": "297-02-09",
+   "cechy_mowy": "bystro, cieto, jak matka"
+  },
+  {
+   "id": "dake_rybak",
+   "imie": "Dake",
+   "przydomek": null,
+   "wiek": 22,
+   "stan": "pospolstwo (rybak)",
+   "zawod": "mlody rybak, maz Bess",
+   "mieszka": "Rybi Zaulek",
+   "nastawienie_do_gracza": 16,
+   "zaufanie": 4,
+   "wie_o_graczu": [
+    "297-02-09: poznal Symona - zrazu ostrozny (obcy pan Tally), ale gdy Symon siadl bez fumow, jak swoj, lod pekl. Twarde rece, prosty, uczciwy."
+   ],
+   "ostatni_kontakt": "297-02-09",
+   "cechy_mowy": "malomowny, prosto, rybacki"
   }
  ],
  "orbita": [

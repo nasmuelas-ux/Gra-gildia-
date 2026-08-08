@@ -3284,3 +3284,6 @@ Symon zaszedl po 7 tyg. - Wenda zimno. Przespal WESELE BESS (jej corki) + zanied
 
 ## 297-02-09 KOREKTA - Wenda (febra jako powod)
 Sprostowanie: wesele Bess wypadlo w oknie febry Symona (17-27, o krok od smierci) - realny honorowy powod, Wenda nie wiedziala, ze chorowal. Prawda rozbroila krzywdę: Wenda zmiekla (chlod byl z domyslu nie z serca), nast 22->31, wiez niemal-rodziny wraca. Maly okruch: od wyzdrowienia mogl poslac slowo (przyznal). Wenda WYPADA z wzorca zaniedbania (to byl chory); punkty Nesta/Hal stoja osobno.
+
+## 297-02-09 ZMIERZCH - nowozency + kalendarz (rzut 99)
+Symon poznal nowozencow (Bess, corka Wendy + jej maz Dake, mlody rybak) z darem, jak swoj nie laskawca - wrosl w rodzine Wendy (miejsce przy stole dla bezrodzinnego). Cieply rodzinny wieczor. Wenda nast 31->38, wiez glebsza niz przed rana; targowa porękа umocniona (rooting wsrod ludu=ziemia+tarcza). Dar -3 jel (sakiewka->11). ZALOZONY kalendarz_symona (pilnowanie terminow; narrator surface'uje). Bess+Dake -> orbita (niemal-rodzina).

@@ -3272,3 +3272,6 @@ Symon spytal Neste (nie zalozyl) o pomoc, framing kupiecki: bezpieczenstwo inter
 
 ## 297-02-09 RANEK
 Wieczorem cwiczenia (kondycja+1), sen. Sojusze cale (Nesta 75, Owen 73). Zegary: harwin ~02-12 (pulapka), podatek ~02-15, draw ~02-19.
+
+## 297-02-09 - DD weksla dla Merka (rzut 41)
+Symon sprawdzil weksel-follow-on wg standardu PRZED oferta. Nie pasuje: Merek=wierzyciel, wiec faktoring pod jego naleznosci = ryzyko niewycenialnych zimowych dluznikow (lending w mgle, lamie bar). WERDYKT: szeroki weksel NIE (dyscyplina). Czystsze: maly zabezpieczony wycinek pod 1 pewny dlug LUB kontynuacja uslugi zarzadczej. Merek docenil brak wciskania (nast+1). audyt+1, rachunki+1.

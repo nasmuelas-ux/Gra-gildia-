@@ -635,10 +635,11 @@
     "d21 wieczor (rzut 43): domknal reszte ksiag - czyste gdzie papier pozwala; czesc nieodwracalnie utracona z mezem (kwity/ustne umowy). Symon NIE zgadywal/nie dopisywal - uczciwie OZNACZYL niedajace sie rozstrzygnac pozycje. Leona ceni szczerosc co do granic wiedzy (nie znosi gladkiej bajki) bardziej niz udawana pewnosc. Kilka braavijskich niejasnosci -> przechodzi do weryfikacji faktorii (Nesta), karmi most. Fee reszta 3 jel.",
     "297-01-10 (rzut 97): Symon - po 3 tyg. nieobecnosci - przyszedl po PORECZENIE mieszczanstwa. Otworzyl uczciwie (przyznal absencje, nie udawal), co Leona ceni najbardziej. Dala PELNE TAK - i jej poreczenie jest najmocniejszego rodzaju: SWIADECTWO KLIENTA O CHARAKTERZE. Reczy, ze prowadzil jej ksiegi UCZCIWIE - oznaczyl pozycje niedajace sie rozstrzygnac zamiast dopisywac gladka bajke; taki czlowiek jest wiarygodny. Widowa-kupcowa nie daje nazwiska lekko, wiec jej slowo waży. BONUS (97): dala trop pod NAJEM - zna przez trade szanowana osobe/rodzine szukajaca suchej izby na zime, podesle/wskaze (rusza czynsz). Cieplo mimo absencji (zajeci ludzie rozumieja zajetych). nast 52->55, zauf 21->22.",
     "297-01-12: jej kandydatka (porzadna wdowa) obejrzala izbe, ale wycofala sie - za zimno/gole/w remoncie na zimowego lokatora. Bez urazy (referral w dobrej wierze); Leona pewnie podeśle znow, gdy izba bedzie gotowa/cieplа.",
-    "297-01-15: jej referral (sukiennik Colm) oplacil sie - Symon zrobil robote czysto; drobne wzajemne dobro cementuje relacje."
+    "297-01-15: jej referral (sukiennik Colm) oplacil sie - Symon zrobil robote czysto; drobne wzajemne dobro cementuje relacje.",
+    "297-01-30 (rzut 22): Symon przyszedl podziekowac - nazbyt gladko. Leona (ceni prosta prawde, nie znosi bajki) sucho: 'nie rob przedstawienia'. Pointed: reczyla za jego UCZCIWOSC, nie bogactwo/mieszczanstwo - bedzie patrzec, czy nowy pan z domem i nazwiskiem nie zgubi skryby, co nie klamal w ksiegach. Strazniczka jego charakteru; nast 55 bez zmian."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-01-10",
+   "ostatni_kontakt": "297-01-30",
    "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem",
    "status": "WSPOLARCHITEKT CZYNNY (d16, rzut 74): dostala KONKRETNY kregoslup — krzywda celno-frachtowa dusi uczciwe rzemiosło (kupcy+kolodzieje) I okrada lorda. Zapala sie, laczy Schody z cechami, pomoze wywechac wiecej dotknietych bran (masa); gotowa byc twarza, gdy przyjdzie czas. Zrodla (manifesty) NIE zna — Symon oprawil jako wzor, ktory czuja wszyscy uczciwi.",
    "historia": [
@@ -1138,16 +1139,17 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 53,
-   "zaufanie": 13,
-   "ostatni_kontakt": "297-01-11",
+   "nastawienie_do_gracza": 55,
+   "zaufanie": 14,
+   "ostatni_kontakt": "297-01-30",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
     "chce pewniejszego/tanszego zrodla wina; wie, ze Symon ma kanal braavijski",
     "d20 (rzut 58): cieply reconnect po 15 dniach. Pending wino (dojdzie przy odwilzy, splaca pozyczke) na torze. Wine ANCHOR: Aldous chetny byc pewnym odbiorca braavijskiej nogi WINNEJ, gdy Symon zdola sprowadzic (wiosna) - de-risk jak zelazo Borena (gwarantowany offtake, consignment/niski cash). Dal tez uzyteczny odczyt wina (jakie gatunki/ceny moze ruszyc) do sprawdzenia spreadu. Nic nie plynie teraz (zima) - plan wiosenny firmed.",
     "297-01-10 ZMIERZCH (rzut 53): zlapany przy dzbanie w karczmie portowej. Na prosbe o PORECZENIE mieszczanstwa - natychmiastowe cieple TAK ('za ciebie recze choćby jutro'), bo widzi w Symonie swojego braawijskiego czlowieka od wina (wine-anchor). MIEKKIE: obietnica przy winie, luzna - Symon (ostroznie) wie, ze trzeba ja potwierdzic na trzezwo/wciagnac przez Torrena, nim zaważy w radzie. RYZYKO: Aldous gadatliwy - moze wygadac przy nastepnym dzbanie (prosto pod 'cicho' Borena); Symon poprosil o dyskrecje do zlozenia papierow (zlagodzone, kiwnal). Wine-anchor wiosennej spolki wciaz na torze. nast 50->52, zauf 11->12.",
-    "297-01-11 RANEK (rzut 82): Symon zlapal go NA TRZEZWO przy porannym inwentarzu, dokrecic wczorajsza karczmowa obietnice. Aldous stanal za slowem twardo i jasno - poreczenie z miekkiego -> SOLIDNE, do wciagniecia przez Torrena. Na trzezwo sam pojal wage dyskrecji (cicho do zlozenia papierow) - ryzyko gadatliwosci zdjete. nast 52->53, zauf 12->13."
+    "297-01-11 RANEK (rzut 82): Symon zlapal go NA TRZEZWO przy porannym inwentarzu, dokrecic wczorajsza karczmowa obietnice. Aldous stanal za slowem twardo i jasno - poreczenie z miekkiego -> SOLIDNE, do wciagniecia przez Torrena. Na trzezwo sam pojal wage dyskrecji (cicho do zlozenia papierow) - ryzyko gadatliwosci zdjete. nast 52->53, zauf 12->13.",
+    "297-01-30 (rzut 67): Symon podziekowal cieplo (+drobny token). Aldous z radoscia, od razu ku przyszlosci: wiosna = on pewnym odbiorca braawijskiego wina (wine-anchor spolki reaffirmed). Przyjazn+interes plyna razem. Wznieśli kubek za wiosne. nast 53->55, zauf 13->14."
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
    "historia": [

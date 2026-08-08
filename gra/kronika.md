@@ -3156,3 +3156,6 @@ Symon podziekowal Voxowi (mowil za nim na sali; nast 52->53, wdzieczny). ALE Vox
 
 ## 297-01-30 RANEK - wyplata Godrica + gimnastyka
 Wieczorem gimnastyka (kondycja+1). Rano wyplata Godrica: +6 jel (sakiewka 1->7), patron zadowolony (czysta robota + wylapana przeplata). Zegary: podatek ~02-15, harwin ~02-10, draw ~02-19.
+
+## 297-01-30 - podzieki: Leona (22) i Aldous (67)
+LEONA: przyjela sucho (nie znosi fussu); pointed reminder - reczyla za UCZCIWOSC nie bogactwo, bedzie patrzec, czy burgher nie zgubi honestego skryby (strazniczka charakteru; nast 55). ALDOUS: ciepla podzieka, wine-anchor wiosennej spolki reaffirmed; wznieśli kubek za wiosne (nast 53->55, zauf 13->14). Wszystkie 4 podzieki splacone. czytanie_ludzi+1.

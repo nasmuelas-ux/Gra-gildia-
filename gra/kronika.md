@@ -3243,3 +3243,6 @@ Symon zagral jak Owen: chleb+wspolne rozsupłanie ksiegi, przyznal wlasny blad n
 
 ## 297-02-07 RANEK - dzien Matki
 Wieczorem cwiczenia (kondycja+1), sen. Dzien Matki (handel zamkniety, miasto w Sepcie); Symon jako skryba Septy ma tu jasne miejsce. Zegary: harwin ~02-09, podatek ~02-15, draw ~02-19.
+
+## 297-02-07 dzien Matki - Harwin rusza (rzut 27)
+Symon sluzyl szczerze, ale Harwin obecny zagral PUBLICZNYM SZEPTEM ('obcy gra swietego dla statusu') przy kupieckim sredniaku. Taktyka odsloniena: whisper-warfare w miejscach publicznych (brak brudu->trucie imienia). Owen po stronie Symona, ale szeptu nie rozbroi. rep wiara 65 (netto plasko). Kontra: byc niezaprzeczalnie prawdziwym, czyn>szept, nie prowokowac sie. pismo+1, czytanie_ludzi+1.

@@ -3429,3 +3429,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-21 POPOLUDNIE: Symon poszedl do Miry (mid-trial, rzut 18 - miss). Dobra intencja (partner nie inspektor), ale dla Miry-strazniczki-autonomii sam akt wizyty w polowie proby zagral jako zagladanie/distrust. Ochlodla ("nie potrzebuje dozoru"). Symon przeczytal, wycofal grzecznie (contained). NAUKA: Mira = tendowac NIEOBECNOSCIA, ufac kontraktowi, osadzic na koncu; hover=distrust. nast 31->29, zauf hold 9.
 
 297-02-21 ZMIERZCH: Symon zaszedl do Nesty (rzut 45). Podzielil sie potknieciem z Mira; Nesta (sama niezalezna wdowa) potwierdzila nauke: niezalezna kobieta czyta zagladanie jako smycz - zostaw jej pole, ufaj umowie, osadzaj na koncu, zaufanie=nieobecnosc. Dogryzла o tempo (nie zapychac kazdej godziny). Grounding. Relacja trzyma (77/36).
+
+297-02-21 NOC: Symon domknal dzien - jedzenie, sen. Dzien: traktat->slow-burn, Mira potkniecie+nauka (zaufanie=nieobecnosc), Nesta grounding. Noc spokojna.
+297-02-22 RANEK: Wypoczety. Harwin ~02-25 (za 3 dni). Mroz ostry.

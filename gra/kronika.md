@@ -3423,3 +3423,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-20 NOC: Symon domknal dzien - jedzenie, sen. Dzien dobry: Wenda (aktyw obronny/dol), traktat sesja stracona (Hal do septy), ale RESET z Owenem domkniety przez sluzbe. Noc spokojna.
 297-02-21 RANEK: Wypoczety. Harwin ~02-25 (za 4 dni). Mroz.
+
+297-02-21 RANEK: Symon wrocil do traktatu z Halem (rzut 16 - diminishing returns). Piata sesja w garstce dni - slowa nie ida, staly na materiale, grind jalowy. REALIZACJA: kodeks to SLOW-BURN na miesiace, mierzonymi dawkami, nie codzienny mlot; forsowanie kontrproduktywne. Pacing zmieniony: traktat = tlo/slow-burn, inne dni inna robota. Projekt bez szkody. Maly output.

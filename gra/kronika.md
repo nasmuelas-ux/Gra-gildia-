@@ -3198,3 +3198,6 @@ Symon zbieral cicho (Boren+ulica). CIENKO: Harwin ostrozny gracz (czyste powierz
 
 ## 297-02-03 ZMIERZCH - Harlon: intro do Merka (rzut 39)
 Symon poprosil Harlona o biznesowe wprowadzenie do Merka. Harlon polowicznie - otworzy drzwi, mocno nie zawetuje ('grasz sam'); ostrzegl, ze Merek kwasny o odpuszczony trop; chce przysługi za przysługę (dbalosc o jego znajomosc). nast 32->33. Wniosek: do Merka wejsc z wartoscia/wzajemnoscia (interes), nie kurtuazja. czytanie_ludzi+1.
+
+## 297-02-03 ZMIERZCH - Merek z interesem (rzut 66)
+Symon wszedl do Merka przez intro Harlona z wartoscia/wzajemnoscia (nie tlumaczenia): spłacil przysługe w naturze (dobry trop) + zaproponowal weksel/usluge zarzadcza pod jego cash-gapy. Merek (pragmatyk) odmieknął - footing rownych, ledger wyrownany, potencjalny klient kredytowy. nast 18->24, zauf 4->5. Kosztem: dowiezc obiecany turn+usluge; winien Harlonowi dbalosc. handel+1, retoryka+1. (Kontrast do cofnietego rzutu 3 - wejscie z interesem stawia mosty.)

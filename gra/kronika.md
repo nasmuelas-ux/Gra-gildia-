@@ -3379,3 +3379,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-16 ZMIERZCH/NOC: Symon domknal dzien lzej - chleb i odpoczynek. Bankuje lekcje frachtowa (top-cover przez interes lorda, wiosna; nie przez Wiare). Noc spokojna.
 297-02-17 RANEK: Wypoczety. Cicho, mroz trzyma. Zegary: draw ~02-19, Harwin ~02-25.
+
+297-02-17 RANEK: Symon najadl sie w pelni i pil herbate u Nesty - po ludzku. Nesta z aprobata (przetrzymuje zamiast blyszczy - dojrzewa). Forward: Symon podzielil sie spring info-edge od Gartha (braavijska flotylla sukna+wino/sol po odwilzy) jako wspolnik - kapital dla kantoru pod wiosenne pozycjonowanie (sukno/Leona, weksle/ubezpieczenia pod znane przyjscia). Wiez partnerska glebnie. nast 75->76.

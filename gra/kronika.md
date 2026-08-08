@@ -3201,3 +3201,6 @@ Symon poprosil Harlona o biznesowe wprowadzenie do Merka. Harlon polowicznie - o
 
 ## 297-02-03 ZMIERZCH - Merek z interesem (rzut 66)
 Symon wszedl do Merka przez intro Harlona z wartoscia/wzajemnoscia (nie tlumaczenia): spłacil przysługe w naturze (dobry trop) + zaproponowal weksel/usluge zarzadcza pod jego cash-gapy. Merek (pragmatyk) odmieknął - footing rownych, ledger wyrownany, potencjalny klient kredytowy. nast 18->24, zauf 4->5. Kosztem: dowiezc obiecany turn+usluge; winien Harlonowi dbalosc. handel+1, retoryka+1. (Kontrast do cofnietego rzutu 3 - wejscie z interesem stawia mosty.)
+
+## 297-02-04 RANEK
+Wieczorem cwiczenia (kondycja+1), sen. Pelnia sil. Zegary: harwin ~02-09, podatek ~02-15, draw ~02-19. Zobowiazania: dowiezc Merkowi turn/usluge, dbalosc o Harlona.

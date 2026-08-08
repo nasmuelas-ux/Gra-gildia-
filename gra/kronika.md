@@ -3132,3 +3132,6 @@ Symon odpoczywal, zdrowial (zdrowie 82->92, febra minela, choroba rozwiazana). O
 
 ## 297-01-27 - PRZYSIEGA MIESZCZANSKA (rzut 38): SYMON MIESZCZANINEM
 Symon zlozyl przysiege przed rada i zostal PELNOPRAWNYM MIESZCZANINEM Bialego Portu (oplata ~12 jel, depozyt 50->38 jel). Rok temu obcy z Polnocy bez rodziny - dzis z prawem miejskim, wlasnoscia, korzeniem. Rep schody_zamkowe +4, port +3. KOSZT (38): Harwin przy ceremonii rzucil publiczny cierpki cien - zawoalowana grozba, ze cech pilnuje 'obcego', ze przysiega nie wymaze pochodzenia. Wrog skrystalizowany (aktywny, czujny, celuje w origins - ryzyko dla sekretu Rymana). Triumf w cieniu. Watek budowania podstaw zamkniety sukcesem.
+
+## 297-01-27 - NAZWISKO: SYMON TALLY
+Symon przyjal nazwisko TALLY (rachunek/rozliczenie - 'czlowiek, u ktorego liczby wychodza prawdziwe'; echo poreczenia Leony o jego uczciwych ksiegach). Nie od pochodzenia (bezpieczne wobec Harwina/sekretu), lecz od rdzennego ostrza. Po raz pierwszy podpisal umowe 'Symon Tally'. Ziarno nazwiska/domu, stwardnieje przez lata (madrosc Owena).

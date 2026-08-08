@@ -1,8 +1,8 @@
 {
  "imie": "Symon",
- "przydomek": null,
+ "przydomek": "Tally",
  "wiek": 21,
- "stan": "MIESZCZANIN Bialego Portu (od 297-01-27) - kupiec-wspolnik; wczesniej obcy z Polnocy bez rodziny. Wciaz bez rodu/koligacji, ale JUZ z prawem miejskim, wlasnoscia i korzeniem.",
+ "stan": "MIESZCZANIN Bialego Portu - SYMON TALLY (nazwisko przyjete 297-01-27, od 'tally'=rachunek/rozliczenie: czlowiek, u ktorego liczby wychodza prawdziwe). Kupiec-wspolnik z wlasnoscia. Jeszcze nie rod/dom - ziarno nazwiska, ktore stwardnieje przez lata (wg madrosci Owena).",
  "pochodzenie": "wychowany na poslugach w Starym Zamku rodu Locke na Polnocy; liter i rachunkow nauczyl go stary maester Aemon Rivers (zmarl); braavijskiej mowy douczyl sie na nabrzezach Bialego Portu",
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
@@ -156,5 +156,6 @@
   "warunki": "(1) wyzsza oplata wpisowa ~12 jel (rada, by wygladac sprawiedliwie wobec cechu), (2) OSOBISTA PRZYSIEGA mieszczanska przed rada ~01-27 - Symon musi stanac zdrow i zlozyc sam.",
   "koszt_uboczny": "Cech Pisarzy/Harwin przegrali PUBLICZNIE -> uraza zaostrzona, wrog zajadlejszy (przyszly watek).",
   "cien": "Przy ceremonii Harwin (Cech Pisarzy) rzucil publiczny cierpki cień - zawoalowana grozba, ze cech bedzie pilnowal 'obcego', ze przysiega nie wymaze, SKAD czlowiek pochodzi. Nie wie o sekrecie (list/Stary Zamek), ale jego zloba celuje DOKLADNIE w ta strone (origins) - Harwin teraz aktywny, zmotywowany, czujny wrog. Ryzyko: gdyby kopal w pochodzenie Symona, moze natrafic na nitki ku sprawie Rymana."
- }
+ },
+ "nazwisko": "Tally"
 }

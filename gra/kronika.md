@@ -3225,3 +3225,6 @@ Symon dolozyl Harlonowi wycinek uslugi zarzadczej na splate przysługi - MALEJAC
 
 ## 297-02-05 ZMIERZCH - lowy na cash-gapy (rzut 19)
 Dziur gotowkowych mnostwo, bankowalnych prawie zero (zimowa rozpacz=zly dlug, nie luka). Negatywna selekcja: sława brokera sciaga desperatow, solidni nie potrzebuja. Dyscyplina odsiala wszystkie - 0 weksli. Nauka: domena rosnie wolno/wybiorczo, nie na wolumenie; mowic NIE = chronic ksiege+nazwisko. spryt+1, czytanie_ludzi+1.
+
+## 297-02-05 ZMIERZCH - standardy domeny (Nesta rzut 86)
+Symon+Nesta spisali STANDARDY+PLAYBOOK domeny kredytu i pewnosci: kryteria bankowalnosci, menu produktow, go-to-market z anty-negatywna-selekcja. Braavijskie wzory weksla + limity od Nesty. Uznanie Nesty: 'budujesz fach, nie deale - roznica miedzy kupcem a nastepca'. ASSET/MOAT. nast 73->74, zauf 35->36. organizacja+1, handel+1.

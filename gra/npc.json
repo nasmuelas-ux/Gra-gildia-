@@ -174,8 +174,8 @@
     "strata 'Corki Tytana' z towarem",
     "oszustwo miejscowego notariusza"
    ],
-   "nastawienie_do_gracza": 73,
-   "zaufanie": 35,
+   "nastawienie_do_gracza": 74,
+   "zaufanie": 36,
    "wie_o_graczu": [
     "czyta braavijski lepiej, niz sie spodziewala",
     "uczciwy co do granic",
@@ -271,10 +271,11 @@
     "297-01-30 (rzut 85): Symon przyniosl Nescie insight z jej braawijskich ksiag - instrumenty kredytowe (weksle/listy/commenda) jako dzwignia. Nesta pierwszy raz spojrzala jak na ROWNEGO (zrozumial, nie tylko przeczytal). Prawda: instrumenty zyja zaufaniem+wyplacalnym drugim koncem+egzekwowalnoscia (cienko w prowincji vs Braavos), ALE Symon ma teraz kawalki: burgher (egzekucja+wiarygodnosc), pismiennosc+rachunki (pisac/sprawdzac), Nesta=braavijski koniec. Zaczac MALO (prosty weksel miedzy ufajacymi), dowiesc mechanizmu, rosnac. Widzi w Symonie kupiecki umysl. nast 69->70, zauf 31->32.",
     "297-01-30 (rzut 19): Symon pytal Nesty o Mire. Nesta - sama niezalezna wdowa co nigdy nie wyszla powtornie - dala twarda wgladowa prawde: Symon czyta chlod Miry jak niedomkniety targ, a to moze byc ODPOWIEDZ. Kobieta pismienna/obrotna, co wdowienstwem wyrwala sobie WOLNOSC, ma powody NIE chciec meza (malzenstwo = oddac autonomie/majatek/osobe). Jej zimno moze byc genuine, nie murem do przebicia cierpliwoscia. 'Przestan rozgryzac ja jak zamek; jak nie chce, twoja cierpliwosc czeka na statek, co nie przyplynie.' Szczera, nie okrutna (nast 70). Deflacja hope Symona ws. Miry.",
     "297-02-01 (rzut 90): Symon+Nesta ustrukturyzowali PILOT WEKSEL (mala kwota, krotki termin z twarda data, oplata za ryzyko, towar w zastaw, CZESCIOWE podparcie kantoru - Symon twarza, Nesta cichy filar). Nesta dala tez lekcje UBEZPIECZEN (rozproszenie ryzyka - pod wiosenna spolke i pule weksli). Nazwala nisze Symona wprost: BROKER KREDYTU I PEWNOSCI (kredyt+ubezpieczenie), ktorego lokalnie nikt procz niej nie zna - 'a ja sie starzeje' (sugestia sukcesji/przejecia jej miejsca). nast 70->71, zauf 32->33.",
-    "297-02-04 (rzut 99): LANDMARK. Nesta, po tym jak Symon wyszedl na mieszczanina, zrozumial weksle 'z krwi' i ustawil pilotaz jak kupiec, zlozyla propozycje: (1) PODNOSI jego udzial core (realnie, twardsza wlasnosc/wieksza czesc zyskow); (2) oddaje mu RAMIE KREDYTU I UBEZPIECZEN jako JEGO domene (buduje/prowadzi, udzial w marzy); (3) prowadzi go ku SUKCESJI (wspolnik-nastepca, 'starzeje sie'). Skok z mlodszego wspolnika-najmity na partnera z wlasnym filarem wzrostu + dziedzica fachu. nast 71->73, zauf 33->35."
+    "297-02-04 (rzut 99): LANDMARK. Nesta, po tym jak Symon wyszedl na mieszczanina, zrozumial weksle 'z krwi' i ustawil pilotaz jak kupiec, zlozyla propozycje: (1) PODNOSI jego udzial core (realnie, twardsza wlasnosc/wieksza czesc zyskow); (2) oddaje mu RAMIE KREDYTU I UBEZPIECZEN jako JEGO domene (buduje/prowadzi, udzial w marzy); (3) prowadzi go ku SUKCESJI (wspolnik-nastepca, 'starzeje sie'). Skok z mlodszego wspolnika-najmity na partnera z wlasnym filarem wzrostu + dziedzica fachu. nast 71->73, zauf 33->35.",
+    "297-02-05 (rzut 86): Symon+Nesta spisali STANDARDY+PLAYBOOK domeny kredytu i pewnosci (kryteria bankowalnosci, menu produktow, go-to-market z anty-negatywna-selekcja - wprost z lekcji lowow). Nesta dala braavijskie wzory weksla + trzezwe limity (malo az sie udowodni, dyscyplina kapitalu). Uznanie: 'deale robi kazdy glupi z srebrem; ty budujesz FACH - to roznica miedzy kupcem a moim nastepca'. nast 73->74, zauf 35->36."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-02-04",
+   "ostatni_kontakt": "297-02-05",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem",
    "historia": [
     "m11d14: Symon podsuwa pilotaz ubezpieczen/pul ryzyka frachtu (rzut 88). Nesta CHWYTA w lot (zna braavijskie zalazki: pozyczki bodmeryjne, dzielenie ryzyka), impressed regardem dla Symona jako partnera z wizja. Przycina po braavijsku: pilotaz TINY, dywersyfikacja od zaraz (nigdy jeden statek), znane male ladunki/kapitanowie/trasy ktore umieja wycenic; KAPITAL kantoru/pryncypala nie chuda sakiewka Symona; wklad Symona = MODEL RYZYKA (rachunki8+info-edge o trasach/pogodzie/kapitanach) za CICHY udzial; biegnie jako 'kantor daje rekojmie na ladunek' = kamuflaz, nazwisko Symona off. Cap: male poki pryncypal nie zatwierdzi wiekszego kapitalu (chce dowodu/czystej struktury) i poki zima najgorsza. Nesta 48->50.",

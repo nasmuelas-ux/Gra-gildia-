@@ -3219,3 +3219,6 @@ Cieply grounding wieczor u Serli. Tom zdrow, dom lzejszy. Serla dumna po swojemu
 
 ## 297-02-05 RANEK
 Wieczorem cwiczenia (kondycja+1), sen. Pelnia sil. Zegary: harwin ~02-09, podatek ~02-15, draw ~02-19. Do zrobienia: dbalosc Harlonowi, budowa domeny kredytu/ubezpieczen.
+
+## 297-02-05 - Harlon: wycinek uslugi (rzut 26)
+Symon dolozyl Harlonowi wycinek uslugi zarzadczej na splate przysługi - MALEJACE ZWROTY (wielki wyciek zlapany wczesniej, teraz okruchy). Harlon nieswoj, ze Symon zna jego ksiegi zbyt dobrze (witness-risk od strony klienta, 'dosc zagladania'). Przysluga splacona cienko (nast 33 letnio), ledger ledwo wyrownany. Nauka: powtorka u obsluzonego klienta daje malo + dawkowac gleboki wglad. rachunki+1, audyt+1, czytanie_ludzi+1.

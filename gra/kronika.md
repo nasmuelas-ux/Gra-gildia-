@@ -3441,3 +3441,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-22 NOC: Symon domknal dobry dzien - jedzenie, sen. Dwa udane zwiady-przed-krokiem (Torsen ustatkowany 41->46; Merek watek zarzadczy otwarty 31->35) + chleb u Nesty. Noc spokojna.
 297-02-23 RANEK: Wypoczety. Harwin ~02-25 (za 2 dni). Mroz.
+
+297-02-23 RANEK: Symon zjadl, mala dawka traktatu z Halem (rzut 25 - mozolnie, malo nowego). Silver: Hal zastosowal metode audytu na wlasnym drafcie, wychwycil niespojnosc w fundamencie (draft cisniejszy, Hal internalizuje rzemioslo). Slow-burn=niski koszt, slaba sesja nie wypalila. nast Hal 67->68.

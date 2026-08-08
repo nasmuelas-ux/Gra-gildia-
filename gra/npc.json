@@ -1389,6 +1389,22 @@
    ],
    "ostatni_kontakt": "297-01-16",
    "cechy_mowy": "powsciagliwy, mierzy dlugo, malo slow"
+  },
+  {
+   "id": "uzdrowicielka_wiedzaca",
+   "imie": "wiedzaca kobieta",
+   "przydomek": "z zaulka za laznia",
+   "wiek": 57,
+   "stan": "pospolstwo",
+   "zawod": "wiedzaca/uzdrowicielka - zna sie na febrach i ziolach (nie maester)",
+   "mieszka": "zaulek za laznia",
+   "nastawienie_do_gracza": 10,
+   "zaufanie": 5,
+   "wie_o_graczu": [
+    "297-01-18: leczyla Symona z zimowej febry (~3 jel). Zatrzymala ja, kazala twardo lezec kilka dni. Rzeczowa, bez ogrodek."
+   ],
+   "ostatni_kontakt": "297-01-18",
+   "cechy_mowy": "szorstko, prosto, bez ogrodek"
   }
  ],
  "orbita": [

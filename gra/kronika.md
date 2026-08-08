@@ -3105,3 +3105,6 @@ Symon sluzyl w przytulku (dobra sluzba, rep wiara 62->63, pismo+1), ale zaharowa
 
 ## 297-01-18 RANEK - POGORSZENIE (lek rzut 1)
 Napar septy zawiodl (nie utrzymal go), noc rozkrecila febre zamiast ja zbic. Nad ranem jasne: to powazna zimowa febra, nie przeziebienie - zdrowie 70->50, realnie niebezpieczna. Owen niepokoja sie, radzi poslac po prawdziwego uzdrowiciela (~3 jel) + twarde lezenie; zdrowienie niepewne (~01-24+ z opieka). Decyzja rady ~01-22 wypadnie, gdy chory - ale slate poreczen stoi bez niego.
+
+## 297-01-18 - uzdrowicielka (rzut 39)
+Wiedzaca kobieta z zaulka za laznia leczyla Symona (~3 jel z depozytu, 47->44 jel): gorzki napar (utrzymal), ocet, oklad, cos na sen. Febra ZATRZYMANA nie zlamana - zdrowie 50->52, koniec osuwania. Kazala twardo lezec kilka dni (~01-23/24); wstanie za wczesnie = nawrot gorszy. Decyzja rady ~01-22 w chorobie - slate stoi bez niego.

@@ -7,7 +7,7 @@
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
- "zdrowie": 50,
+ "zdrowie": 52,
  "sytosc": 52,
  "zmeczenie": 62,
  "sakiewka": {
@@ -113,13 +113,13 @@
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."
  },
- "depozyt_u_nesty_mied": 4700,
+ "depozyt_u_nesty_mied": 4400,
  "stany": [
   {
-   "co": "ZIMOWA FEBRA (powaznie) - napar septy zawiodl (rzut 1)",
+   "co": "ZIMOWA FEBRA - zatrzymana przez uzdrowicielke (rzut 39), nie zlamana",
    "od": "297-01-17",
-   "do_ok": "NIEPEWNE (~01-24+ przy uzdrowicielu+lezeniu; bez opieki grozi pogorszeniem/gorzej)",
-   "efekt": "zdrowie 50, wysoka goraczka/dreszcze/majaki; realnie niebezpieczna (zabiera slabych). WYMAGA: prawdziwy uzdrowiciel (~3 jel) + twarde lezenie. Wysilek/zimno/zwloka -> ryzyko dalszego spadku. Kondycja 7 i mlodosc sprzyjaja, ale nie gwarantuja."
+   "do_ok": "~01-23/24 przy TWARDYM lezeniu (SLOW)",
+   "efekt": "zdrowie 52, febra osiadla (koniec osuwania). Powrot slow, GATED na plaskie lezenie/odpoczynek. Wstanie za wczesnie/wysilek/zimno -> NAWROT gorszy. Kondycja 7 + mlodosc sprzyjaja."
   }
  ],
  "wspolnictwo_nesta": {

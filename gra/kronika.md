@@ -3246,3 +3246,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Dzien Matki (handel zamkniety, miasto w S
 
 ## 297-02-07 dzien Matki - Harwin rusza (rzut 27)
 Symon sluzyl szczerze, ale Harwin obecny zagral PUBLICZNYM SZEPTEM ('obcy gra swietego dla statusu') przy kupieckim sredniaku. Taktyka odsloniena: whisper-warfare w miejscach publicznych (brak brudu->trucie imienia). Owen po stronie Symona, ale szeptu nie rozbroi. rep wiara 65 (netto plasko). Kontra: byc niezaprzeczalnie prawdziwym, czyn>szept, nie prowokowac sie. pismo+1, czytanie_ludzi+1.
+
+## 297-02-07 ZMIERZCH - counter szeptu (rzut 19)
+Symon nie dal sie sprowokowac, sluzyl godnie caly dzien - wygral rozsadnych+Owena. ALE lepki szept Harwina pol-chwycil u zawistnego kupieckiego sredniaka (rep Schody 28->27); brak reakcji=brak kosztu dla Harwina (emboldened). Nauka: autentycznosc sama=obrona wolna/czesciowa; whisper-war wymaga tez ruchu aktywnego. czytanie_ludzi+1, kondycja+1.

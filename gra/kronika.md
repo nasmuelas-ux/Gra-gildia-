@@ -3060,3 +3060,6 @@ Sniadanie, potem do kamieniczki dogladac najmu. Kandydatka Leony (porzadna wdowa
 
 ## 297-01-12 ZMIERZCH - fit-out izby (rzut 61)
 Symon zrobil 1 izbe do zycia: tania uzywana koza (cieplo), uszczelnione okiennice, uprzatnieta - teraz RENTABLE. Koszt ~5 jel z linii (self-liquidating). Najem odblokowany - mozna zapraszac wdowe Leony/siec, czynsz moze ruszyc (~01-14). organizacja+1.
+
+## 297-01-12 ZMIERZCH - PIERWSZY LOKATOR (wdowa rzut 85)
+Symon przez Leone sprowadzil wdowe z powrotem - ciepla gotowa izba to bylo to, czego brakowalo. Wzięla od reki: izba 1 wynajeta wdowie Jonnie ~1 jel/mies, pierwszy miesiac z gory. PIERWSZY CZYNSZ = pierwszy dochod z aktywu. Idealny lokator (cicha/wyplacalna). Kamieniczka zaczela zarabiac: izba1 LET, izba2 do fit-out, izba3 po wiosnie. sakiewka +1 jel. handel+1.

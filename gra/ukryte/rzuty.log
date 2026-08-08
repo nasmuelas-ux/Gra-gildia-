@@ -592,3 +592,4 @@ FLAGA: dwie porazki z rzedu w sprawie Leona-weryfikacja (32,4) -> nastepny rzut 
 297-01-12 | zlozenie wniosku o mieszczanstwo (Torren) | prog ~40 | 84 | SUKCES+: zlozone czysto pierwsze o otwarciu ratusza, PRZED wyciekiem; slate 4 kupcy+Wiara; opozycja reaguje po fakcie; zegar decyzja rady ~01-22
 297-01-12 | najem (kandydatka Leony) | prog ~50 | 18 | SLABO: wdowa sie wycofala (izba zimna/gola/w remoncie na zimowego lokatora); nauka lettable!=rentable; prerekwizyt fit-out 1 izby; czynsz opozniony ~01-16; handel+1
 297-01-12 | fit-out 1 izby (koza+okiennice+sprzatanie) | prog ~40 | 61 | SUKCES: izba rentable (ciepla/szczelna/czysta), ~5 jel z linii; najem odblokowany; organizacja+1
+297-01-12 | wdowa - najem izby 1 (izba juz ciepla) | prog ~40 | 85 | SUKCES+: izba 1 wynajeta wdowie Jonnie ~1 jel/mies (pierwszy z gory); idealny lokator; aktyw zaczal zarabiac; +1 jel; handel+1

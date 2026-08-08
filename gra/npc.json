@@ -1314,6 +1314,22 @@
    ],
    "ostatni_kontakt": "297-01-06",
    "cechy_mowy": "zmeczony, godnosc pod presja; krotkie, rzeczowe zdania czlowieka co przelknal duma"
+  },
+  {
+   "id": "wdowa_jonna",
+   "imie": "Jonna",
+   "przydomek": "wdowa",
+   "wiek": 49,
+   "stan": "mieszczka (wdowa)",
+   "zawod": "wdowa, drobne szycie/przedzenie; szukala ciepla izby na zime",
+   "mieszka": "kamieniczka Symona przy Schodach (izba 1, od 297-01-12)",
+   "nastawienie_do_gracza": 15,
+   "zaufanie": 6,
+   "wie_o_graczu": [
+    "297-01-12: wynajela ciepla izbe od Symona (~1 jel/mies) po tym, jak zrobil ja do zycia (wczesniej sie wycofala - zimna/gola). Referral Leony. Cicha, wyplacalna, wdzieczna za godne cieplo w mroz. Idealny stabilny lokator."
+   ],
+   "ostatni_kontakt": "297-01-12",
+   "cechy_mowy": "cicho, uprzejmie, mowi 'synku'; oszczedna w slowach"
   }
  ],
  "orbita": [

@@ -151,8 +151,8 @@
   },
   {
    "id": "kamieniczka_najem",
-   "opis": "Szukanie lokatorow na 2 suche izby (teraz) - czynsz zaczyna obslugiwac dlug kantoru. Zrodla: Serla (zna okolice), Bran/lud, siec. Zimowy rynek najmu chudy (ludzie osiadli), ale ciepla sucha izba w mrozie ma wartosc. Aktywne od zaraz. || 297-01-10: LEONA da trop - zna przez trade szanowana osobe/rodzine szukajaca suchej izby na zime; podesle/wskaze. Pierwszy realny lokator na horyzoncie. || 297-01-12 (rzut 18): kandydat Leony (porzadna wdowa) obejrzal i sie WYCOFAL - izby suche ale zimne/gole/w remoncie, w mroz lokator chce ciepla i gotowosci. NAUKA: lettable != rentable. PREREKWIZYT: minimalny fit-out 1 izby (palenisko/koza, szczelne okiennice, sprzatanie) nim czynsz ruszy. Wdowa: 'gdy bedzie cieple i gotowe, przyjdz' - soft lead zachowany. Najem przesuniety. || 297-01-12: 1 izba PO FIT-OUT rentable (ciepla/szczelna/czysta). Odblokowane - zaprosic z powrotem wdowe Leony / szukac lokatora. Czynsz moze ruszyc.",
-   "odpala": "297-01-14",
+   "opis": "IZBA 1 WYNAJETA (wdowa Jonna, ~1 jel/mies, od 01-12) - pierwszy czynsz plynie. DALEJ: fit-out izby 2 pod drugiego lokatora (tania koza+okiennice), potem szukac najemcy (siec/Leona). Izba 3 po wiosennym dachu = pelny dochod.",
+   "odpala": "297-01-20",
    "typ": "dochod"
   },
   {

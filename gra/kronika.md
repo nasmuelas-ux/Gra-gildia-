@@ -3305,3 +3305,6 @@ Symon dal Branowi DOZORSTWO kamieniczki (realna robota: utrzymanie/opal lokatoro
 
 ## 297-02-10 ZMIERZCH - Hal obecnosc (rzut 51)
 Symon zajrzal do Hala (konsekwentna obecnosc). Hal wgryza sie w ksiazke+standardy audytu - glod znaczenia przekierowany w mistrzostwo, pokazal wychwycony blad (dobra duma). Obecnosc procentuje - nast 56->58, osadzony. organizacja+1. (Dzien: 3 cieple rzeczy dla ludzi - Bran podziekowany+zatrudniony dozorca, Hal doglednięty.)
+
+## 297-02-11 RANEK
+Sen po robotnym dniu (3 cieple relacje: Bran x2, Hal). Kalendarz: harwin ~02-12 (jutro), podatek ~02-15, draw ~02-19, pilot ~03-10.

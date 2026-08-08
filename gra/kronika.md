@@ -3129,3 +3129,6 @@ Torren przyniosl choremu Symonowi wiesc: rada PRZYZNALA mieszczanstwo. Slate (Bo
 
 ## 297-01-22->27 - rekonwalescencja -> dzien przysiegi
 Symon odpoczywal, zdrowial (zdrowie 82->92, febra minela, choroba rozwiazana). Owen usiadl z nim raz spokojnie po ludzku. 27-go: dzien PRZYSIEGI mieszczanskiej. Wstal zdrow, oplata ~12 jel w depozycie, Torren gotow poprowadzic przed rade. Uwaga na ostatnia zaczepke Harwina/Pisarzy.
+
+## 297-01-27 - PRZYSIEGA MIESZCZANSKA (rzut 38): SYMON MIESZCZANINEM
+Symon zlozyl przysiege przed rada i zostal PELNOPRAWNYM MIESZCZANINEM Bialego Portu (oplata ~12 jel, depozyt 50->38 jel). Rok temu obcy z Polnocy bez rodziny - dzis z prawem miejskim, wlasnoscia, korzeniem. Rep schody_zamkowe +4, port +3. KOSZT (38): Harwin przy ceremonii rzucil publiczny cierpki cien - zawoalowana grozba, ze cech pilnuje 'obcego', ze przysiega nie wymaze pochodzenia. Wrog skrystalizowany (aktywny, czujny, celuje w origins - ryzyko dla sekretu Rymana). Triumf w cieniu. Watek budowania podstaw zamkniety sukcesem.

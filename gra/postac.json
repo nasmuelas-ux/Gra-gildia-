@@ -2,14 +2,14 @@
  "imie": "Symon",
  "przydomek": null,
  "wiek": 21,
- "stan": "pospolity, obcy w miescie (bez rodziny)",
+ "stan": "MIESZCZANIN Bialego Portu (od 297-01-27) - kupiec-wspolnik; wczesniej obcy z Polnocy bez rodziny. Wciaz bez rodu/koligacji, ale JUZ z prawem miejskim, wlasnoscia i korzeniem.",
  "pochodzenie": "wychowany na poslugach w Starym Zamku rodu Locke na Polnocy; liter i rachunkow nauczyl go stary maester Aemon Rivers (zmarl); braavijskiej mowy douczyl sie na nabrzezach Bialego Portu",
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 92,
  "sytosc": 58,
- "zmeczenie": 6,
+ "zmeczenie": 14,
  "sakiewka": {
   "miedziaki": 10,
   "jelenie": 1,
@@ -53,8 +53,8 @@
   "REFRAME OWENA (297-01-01): nazwisko, zona, przynaleznosc to nie lupy do zdobycia srebrem/sprytem/tempem - to OWOCE BYCIA, dojrzewaja przez charakter i czas. Chwytane - uciekaja; zapracowane prawoscia i cierpliwoscia - przychodza same. Kontrapunkt dla strategiczno-kupieckiego chwytania. + prawda: Symon ma wiecej przynaleznosci niz czuje (Wiara/Nesta/Wenda/lud/Bran/Serla/Hal); Septa=dom dla bezrodzinnego."
  ],
  "reputacja": {
-  "port": 21,
-  "schody_zamkowe": 24,
+  "port": 24,
+  "schody_zamkowe": 28,
   "cech_pisarzy": -6,
   "wiara": 63,
   "zamek": 5,
@@ -115,7 +115,7 @@
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."
  },
- "depozyt_u_nesty_mied": 5000,
+ "depozyt_u_nesty_mied": 3800,
  "stany": [],
  "wspolnictwo_nesta": {
   "draw_jel_mies": 6,
@@ -152,8 +152,9 @@
   "fit_out_izba2_jel": 5
  },
  "mieszczanstwo": {
-  "status": "PRZYZNANE WARUNKOWO (297-01-22, rzut 51) - veto Cechu Pisarzy pobite (slate Boren/Leona/Aldous/Vox + Wiara; Vox zabral glos na sali; Pisarze bez sojusznika w radzie).",
+  "status": "✅ PELNOPRAWNY MIESZCZANIN (przysiega zlozona 297-01-27, oplata ~12 jel zaplacona). Veto Pisarzy pobite. Korzen w miescie prawnie zapuszczony.",
   "warunki": "(1) wyzsza oplata wpisowa ~12 jel (rada, by wygladac sprawiedliwie wobec cechu), (2) OSOBISTA PRZYSIEGA mieszczanska przed rada ~01-27 - Symon musi stanac zdrow i zlozyc sam.",
-  "koszt_uboczny": "Cech Pisarzy/Harwin przegrali PUBLICZNIE -> uraza zaostrzona, wrog zajadlejszy (przyszly watek)."
+  "koszt_uboczny": "Cech Pisarzy/Harwin przegrali PUBLICZNIE -> uraza zaostrzona, wrog zajadlejszy (przyszly watek).",
+  "cien": "Przy ceremonii Harwin (Cech Pisarzy) rzucil publiczny cierpki cień - zawoalowana grozba, ze cech bedzie pilnowal 'obcego', ze przysiega nie wymaze, SKAD czlowiek pochodzi. Nie wie o sekrecie (list/Stary Zamek), ale jego zloba celuje DOKLADNIE w ta strone (origins) - Harwin teraz aktywny, zmotywowany, czujny wrog. Ryzyko: gdyby kopal w pochodzenie Symona, moze natrafic na nitki ku sprawie Rymana."
  }
 }

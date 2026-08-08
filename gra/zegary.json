@@ -154,10 +154,10 @@
    "typ": "dochod cykliczny"
   },
   {
-   "id": "przysiega_mieszczanska",
-   "opis": "Osobista przysiega mieszczanska przed rada + oplata wpisowa ~12 jel. Symon musi stanac zdrow i zlozyc sam. Po niej: PELNOPRAWNY MIESZCZANIN Bialego Portu. UWAGA: Harwin/Pisarze upokorzeni - moga probowac ostatniej zaczepki/sabotazu przy ceremonii lub potem.",
-   "odpala": "297-01-27",
-   "typ": "ceremonia/kamien milowy"
+   "id": "harwin_zemsta_czujnosc",
+   "opis": "Harwin/Cech Pisarzy przegrali publicznie i zostali upokorzeni; przy przysiedze Harwin rzucil zawoalowana grozbe (bedzie pilnowal 'obcego', przysiega nie wymaze pochodzenia). Aktywny, zmotywowany wrog - moze kopac w origins Symona (ryzyko natrafienia na nitki ku sprawie Rymana/Stary Zamek), szukac zaczepki, sabotowac. Slow-burn zagrozenie - obserwowac.",
+   "odpala": "297-02-10",
+   "typ": "zagrozenie (slow-burn)"
   }
  ]
 }

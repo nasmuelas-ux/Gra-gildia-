@@ -3287,3 +3287,6 @@ Sprostowanie: wesele Bess wypadlo w oknie febry Symona (17-27, o krok od smierci
 
 ## 297-02-09 ZMIERZCH - nowozency + kalendarz (rzut 99)
 Symon poznal nowozencow (Bess, corka Wendy + jej maz Dake, mlody rybak) z darem, jak swoj nie laskawca - wrosl w rodzine Wendy (miejsce przy stole dla bezrodzinnego). Cieply rodzinny wieczor. Wenda nast 31->38, wiez glebsza niz przed rana; targowa porękа umocniona (rooting wsrod ludu=ziemia+tarcza). Dar -3 jel (sakiewka->11). ZALOZONY kalendarz_symona (pilnowanie terminow; narrator surface'uje). Bess+Dake -> orbita (niemal-rodzina).
+
+## 297-02-10 RANEK
+Wieczorem cwiczenia (kondycja+1), sen. Kalendarz: harwin ~02-12, podatek ~02-15, draw ~02-19, pilot ~03-10.

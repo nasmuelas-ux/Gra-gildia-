@@ -139,7 +139,7 @@
   },
   {
    "id": "widocznosc_wlasnosci",
-   "opis": "Wpis do rejestru miasta jest aktem PUBLICZNYM - wiesc, ze obcy skryba/kupiec-wspolnik Symon nabyl kamieniczke, rozchodzi sie powoli przez krag mieszczan/cechow (rejestr, sasiedzi przy Schodach, plotka). DWOJAKI skutek: (+) buduje standing kupiecki/zakorzenienie pod wniosek MIESZCZANSTWA (Torren); (-) cech Pisarzy (Harwin) i Ryman moga zauwazyc, ze 'partacz'-obcy rosnie we wlasnosc - potencjalna zawisc/ruch. Na razie SZEPT, nie akcja. Odpala jako pierwszy pomruk ~01-14.",
+   "opis": "Wpis do rejestru miasta jest aktem PUBLICZNYM - wiesc, ze obcy skryba/kupiec-wspolnik Symon nabyl kamieniczke, rozchodzi sie powoli przez krag mieszczan/cechow (rejestr, sasiedzi przy Schodach, plotka). DWOJAKI skutek: (+) buduje standing kupiecki/zakorzenienie pod wniosek MIESZCZANSTWA (Torren); (-) cech Pisarzy (Harwin) i Ryman moga zauwazyc, ze 'partacz'-obcy rosnie we wlasnosc - potencjalna zawisc/ruch. Na razie SZEPT, nie akcja. Odpala jako pierwszy pomruk ~01-14. || 297-01-12: wniosek JUZ ZLOZONY przed wyciekiem - gdy szept dojdzie (~01-14), karmi OPOZYCJE (Pisarze/Ryman) PO fakcie: reaguja na zlozony wniosek, nie uprzedzaja. Moga probowac lobbowac rade w oknie do decyzji ~01-22.",
    "odpala": "297-01-14",
    "typ": "plotka/reakcja"
   },
@@ -154,6 +154,12 @@
    "opis": "Szukanie lokatorow na 2 suche izby (teraz) - czynsz zaczyna obslugiwac dlug kantoru. Zrodla: Serla (zna okolice), Bran/lud, siec. Zimowy rynek najmu chudy (ludzie osiadli), ale ciepla sucha izba w mrozie ma wartosc. Aktywne od zaraz. || 297-01-10: LEONA da trop - zna przez trade szanowana osobe/rodzine szukajaca suchej izby na zime; podesle/wskaze. Pierwszy realny lokator na horyzoncie.",
    "odpala": "297-01-12",
    "typ": "dochod"
+  },
+  {
+   "id": "rada_mieszczanstwo_decyzja",
+   "opis": "Rada miejska rozpatruje wniosek Symona o mieszczanstwo (zlozony 01-12, kupiec-wspolnik). Konsultuje cechy - Cech Pisarzy (Harwin) ZAPROTESTUJE (partacz), ale przeciw murowi: cechmistrz Boren + Leona + Aldous + Vox + poreczenie Wiary (poboznosc/sluzba). Pisarze bez sojusznika w radzie = slaby glos; Symon zlozyl PRZED wyciekiem (opozycja reaguje za pozno). Vox oferuje glos w radzie gdyby trzeba. Rozstrzygniecie ~01-22. Wynik NIEPRZESADZONY - mocna pozycja, nie pewnik.",
+   "odpala": "297-01-22",
+   "typ": "decyzja instytucjonalna"
   }
  ]
 }

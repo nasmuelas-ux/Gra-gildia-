@@ -3051,3 +3051,6 @@ Symon domknal kupiecki zestaw u Voxa (autora drogi kupiec-wspolnik). Pelne swiad
 
 ## 297-01-11 ZMIERZCH - poreczenie Wiary (Owen rzut 56)
 Symon poprosil Owena o poreczenie Wiary - ostatni fundament. Owen nie odmowil (sam wskazal te droge), ale dal je z pastoralna powaga: Wiara reczy za charakterem i sluzba (pioro co karmilo glodnych), nie za handlem. Charge: 'niech piecz obywatelstwa nie stanie sie pieczecia pychy'. Torren sframuje endorsement precyzyjnie (poboznosc/sluzba, nie komercja) i poprowadzi zlozenie. ZESTAW KOMPLETNY: 4 kupcy + Wiara. Zostaje tylko Torren sklada wniosek - szybko. Owen nast 66->67, zauf 15->16. retoryka+1, czytanie_ludzi+1.
+
+## 297-01-12 RANEK - WNIOSEK ZLOZONY (rzut 84)
+Torren dopracowal pismo w noc i zlozyl wniosek o mieszczanstwo pierwszy o otwarciu ratusza - czysto, przed wyciekiem. Slate: Boren(cechmistrz)+Leona+Aldous+Vox+poreczenie Wiary (poboznosc/sluzba). Symon przed plotka - opozycja bedzie reagowac, nie uprzedzac. Decyzja rady ~01-22 (zegar). Pozycja mocna, wynik nieprzesadzony. prawo+1, organizacja+1.

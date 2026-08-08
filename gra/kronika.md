@@ -3302,3 +3302,6 @@ Symon podziekowal Branowi za wizyte w chorobie - wzruszony, przyjazn pogleboila 
 
 ## 297-02-10 ZMIERZCH - Bran dozorca kamieniczki (rzut 81)
 Symon dal Branowi DOZORSTWO kamieniczki (realna robota: utrzymanie/opal lokatorom/remont dachu wiosna; ~2 jel/mies z czynszu) - nie jalmuzna, godnosc cala. Bran wzial z ulga (staly grosz zima+wiosna, wesele z Alys znow realne), 'nie zawiodę cie'. nast 57->64, zauf+2. Symon zyskal lojalna reke + on-site pancerz vs najscie Harwina. Dobre uzycie sojusznika (zgoda/korzysc/godnosc - przeciwienstwo bledu z Nesta). Kamieniczka->male przedsiebiorstwo (Bran+Mira). czytanie_ludzi+1.
+
+## 297-02-10 ZMIERZCH - Hal obecnosc (rzut 51)
+Symon zajrzal do Hala (konsekwentna obecnosc). Hal wgryza sie w ksiazke+standardy audytu - glod znaczenia przekierowany w mistrzostwo, pokazal wychwycony blad (dobra duma). Obecnosc procentuje - nast 56->58, osadzony. organizacja+1. (Dzien: 3 cieple rzeczy dla ludzi - Bran podziekowany+zatrudniony dozorca, Hal doglednięty.)

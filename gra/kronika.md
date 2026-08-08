@@ -3432,3 +3432,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-21 NOC: Symon domknal dzien - jedzenie, sen. Dzien: traktat->slow-burn, Mira potkniecie+nauka (zaufanie=nieobecnosc), Nesta grounding. Noc spokojna.
 297-02-22 RANEK: Wypoczety. Harwin ~02-25 (za 3 dni). Mroz ostry.
+
+297-02-22 RANEK: Symon do Torsena (rzut 3, crit-low okolicznosciowy). Przyszedl z demand-intel (popyt dworu firmuje), ale Torsen zimny/zniechecony - grim szepty z glebi Polnocy (sroga zima inland) spietrzyly go (kruchy pod supply-lekiem). Demand-optymizm odczytal jako naiwny. Wizyta ochlodzila (nie verdykt - Halvard wciaz ~03-15, tylko podniesione ryzyko). Symon wycofal. NAUKA: kruchy partner, broker-plan na chwiejnej nodze podazy. nast 41->37.

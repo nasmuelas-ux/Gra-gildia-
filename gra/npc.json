@@ -1287,8 +1287,8 @@
    "wiek": 47,
    "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 31,
-   "zaufanie": 6,
+   "nastawienie_do_gracza": 35,
+   "zaufanie": 8,
    "wie_o_graczu": [
     "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)",
     "Symon rozbroil jego strach uczciwie (nie manipulacja): wspolnicy godzacy ksiegi to porzadek, nie oskarzenie - jesli wszystko czyste, wspolnik odetchnie. Merek ulzony, zgadza sie zaproponowac RUTYNOWE wspolne pogodzenie ksiag, z Symonem jako neutralnym rachmistrzem. KOSZT: otwarta forma = utrata zaskoczenia (jesli wspolnik oszukuje, dostanie czas ubrac ksiegi). Zalezne od zgody wspolnika.",
@@ -1300,11 +1300,12 @@
     "297-02-09 (DD rzut 41): Symon sprawdzil weksel-follow-on dla Merka wg standardu PRZED oferta. Weksel nie pasuje gladko - Merek jest WIERZYCIELEM (nie potrzebuje mostka), wiec bylby to FAKTORING (zaliczka pod jego naleznosci, ryzyko sciagniecia na Symona/kantor). Bar bije alarm: dluznicy Merka to drobni, rozproszeni zimowi petenci - NIEWYCENIALNI zima; lending w mgle lamie standard. WERDYKT: szeroki weksel NIE. Czystsze drogi: (a) malutki zabezpieczony wycinek pod 1 najtwardszy dlug, (b) kontynuacja uslugi zarzadczej (pomoc Merkowi samemu sciagnac/zrestrukturyzowac/spisac martwe). Merek docenil, ze Symon NIE wciska produktu (buduje zaufanie).",
     "297-02-09 (usluga rzut 19): Symon poprowadzil Merkowi triage tick - robota czysta, ale DIAGNOZA GRIM: zimowy tick w wiekszosci NIESCIAGALNY teraz (dluznicy=biedota realnie bez grosza; naleznosci zamrozone, odzyja z odwilza; kilka martwych). Do wziecia teraz niewiele. Rada: triage (spisac martwe/przytrzymac zamrozone/chronic pewne) + NIE sciskac zima (nie wycisniesz + zszargasz imie wsrod ludu). Merek sobered (liczyl na odzysk, dostal 'poczekaj do wiosny') ale ceni prawde>bajke. Oplata skromna +2 jel. Wartosc=klarownosc+plan, nie cud."
    ],
-   "ostatni_kontakt": "297-02-09",
+   "ostatni_kontakt": "297-02-22",
    "cechy_mowy": "gadatliwy, nerwowy gdy o pieniadzach",
    "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane",
    "historia": [
-    "m12d11 rzut16: Symon przyjmuje w zasadzie, ale kodeks oslony STALUJE start - spor WSPOLNIKOW to nie skladu-vs-faktor: (1) DOSTEP - ksiegi spolki WSPOLNE, Merek nie ma czystego dostepu do calosci bez wiedzy partnera; jak audytowac skrycie ksiegi wspolnika? (2) SWIADEK - regula kodeksu awkward gdy cel to wspolwlasciciel (Merek nerwowy, nie chce swiadkow swojej podejrzliwosci wobec partnera). Symon NIE brnie (kodeks dziala=nie bierze zle ustawionego ryzyka). Zlecenie ACCEPTED-IN-PRINCIPLE ale STALLED: trzeba najpierw rozwiazac dostep+swiadka. Merek nerwowy, sfrustrowany ze nie od razu, ale profesjonalizm Symona uspokaja. Bez fee. 6->8."
+    "m12d11 rzut16: Symon przyjmuje w zasadzie, ale kodeks oslony STALUJE start - spor WSPOLNIKOW to nie skladu-vs-faktor: (1) DOSTEP - ksiegi spolki WSPOLNE, Merek nie ma czystego dostepu do calosci bez wiedzy partnera; jak audytowac skrycie ksiegi wspolnika? (2) SWIADEK - regula kodeksu awkward gdy cel to wspolwlasciciel (Merek nerwowy, nie chce swiadkow swojej podejrzliwosci wobec partnera). Symon NIE brnie (kodeks dziala=nie bierze zle ustawionego ryzyka). Zlecenie ACCEPTED-IN-PRINCIPLE ale STALLED: trzeba najpierw rozwiazac dostep+swiadka. Merek nerwowy, sfrustrowany ze nie od razu, ale profesjonalizm Symona uspokaja. Bez fee. 6->8.",
+    "297-02-22 (rzut 73 po wywiadzie 59): Symon przyszedl z framem PREPARE-NOT-SQUEEZE. Zaproponowal usluge zarzadcza na zime: zmapowac dluznikow (kto/ile/warunki/priorytet), przygotowac plan restrukturyzacji/zbiorki TERAZ, wykonac przy odwilzy gdy wroci plynnosc - zamiast wyciskac zamrozonych zimowych dluznikow (co ubiloby relacje Mereka). Merek (juz cenil brak wciskania z 02-09) przyjal ZNAKOMICIE: mierzone, profesjonalne, chroni jego kontakty, daje mu POCZUCIE KONTROLI nad zimowym lekiem (ma PLAN na wiosne). Drobny fee za prep ~2 jel, balans na wiosennej egzekucji. Relacja poglebiona, domena (usluga zarzadcza premium+dyskrecja) ugruntowana. nast 31->35, zauf +2."
    ]
   },
   {

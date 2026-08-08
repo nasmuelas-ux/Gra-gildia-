@@ -154,9 +154,10 @@
   },
   {
    "id": "podatek_miejski",
-   "opis": "Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg majatku/wlasnosci; termin wg kalendarza podatkowego miasta. Nesta uprzedzila - planowac.",
+   "opis": "Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg majatku/wlasnosci; termin wg kalendarza podatkowego miasta. Nesta uprzedzila - planowac. || 297-02-15: TERMIN DZIS - danina miejska nalezna. Grosz odlozony. Symon musi zaplacic (ratusz/pobornik).",
    "odpala": "297-02-15",
-   "typ": "koszt/obowiazek cykliczny"
+   "typ": "koszt/obowiazek cykliczny",
+   "STATUS": "DUE_DZIS"
   },
   {
    "id": "weksel_pilot_wynik",

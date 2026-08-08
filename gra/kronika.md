@@ -3356,3 +3356,7 @@ Donnel (lekko chlodny po 35 dniach) dal zla wiesc: latajac dach zima zobaczyl wi
 
 ## 297-02-14 - decyzja budzet dachu (z depozytu)
 Symon zdecydowal OSTROZNIE: pokryc luke ~15 jel z DEPOZYTU (38->23 jel), naprawic krytyczna strukture dachu PORZADNIE przy odwilzy (bez fazowania/ryzyka rot-spread; za rada Miry). Pelny re-roof ~35 jel sfinansowany (linia ~21 + depozyt ~15). Bufor chudszy, ale wlasnosc na torze. Mira dowiozla na trialu (kompetentny odczyt). Donnel zrobi przy odwilzy.
+
+
+## 297-02-15 RANEK
+Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyzji budzetowej. Rankiem: pierwszy mrozny dzien poboru - danina miejska nalezna DZIS (grosz odlozony). Termin podatku miejskiego (~02-15) odpalil.

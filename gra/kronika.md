@@ -3036,3 +3036,6 @@ Symon domknal dzien: czytal prawo (prawo+1) i pomagal wieczorem w sepcie (pismo+
 
 ## 297-01-10 - Boren: pierwsze poreczenie (rzut 88)
 Symon ruszyl zbierac poreczenia kupcow pod mieszczanstwo, zaczal od Borena - CECHMISTRZA kolodziejow, lojalnego. PELNE TAK: nazwisko+standing cechu za Symonem jako kupcem-wspolnikiem, co podcina atak klasyfikacyjny Cechu Pisarzy. Dal insider-mape admisji: kilka solidnych poreczen+Wiara marginalizuja sprzeciw Pisarzy; jakosc>ilosc; TIMING - zbierac cicho, zlozyc szybko nim opozycja sie zorganizuje (wobec zegara widocznosc ~01-14). Zaoferowal wstawic slowo u rowiesnikow. Kotwica-poreczenie zebrana. Boren nast 53->56, zauf 11->13. Do zebrania: Leona/Aldous/Vox + Wiara. retoryka+1, czytanie_ludzi+1.
+
+## 297-01-10 ZMIERZCH - Leona: poreczenie #2 (rzut 97)
+Po Borenie Symon poszedl do Leony (po 3 tyg. absencji - otworzyl uczciwie, co ona ceni). PELNE TAK - poreczenie najmocniejszego rodzaju: swiadectwo klienta o charakterze (reczy, ze prowadzil jej ksiegi uczciwie, oznaczal niepewne zamiast zmyslac; wdowa nie daje nazwiska lekko). Bonus: trop pod najem - zna szanowana osobe szukajaca suchej izby (rusza czynsz). Poreczenia: Boren ✓, Leona ✓. Do zebrania: Aldous, Vox + Wiara. Leona nast 52->55, zauf 21->22. retoryka+1, czytanie_ludzi+1.

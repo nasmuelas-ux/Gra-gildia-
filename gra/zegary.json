@@ -151,8 +151,8 @@
   },
   {
    "id": "kamieniczka_najem",
-   "opis": "Szukanie lokatorow na 2 suche izby (teraz) - czynsz zaczyna obslugiwac dlug kantoru. Zrodla: Serla (zna okolice), Bran/lud, siec. Zimowy rynek najmu chudy (ludzie osiadli), ale ciepla sucha izba w mrozie ma wartosc. Aktywne od zaraz.",
-   "odpala": "297-01-13",
+   "opis": "Szukanie lokatorow na 2 suche izby (teraz) - czynsz zaczyna obslugiwac dlug kantoru. Zrodla: Serla (zna okolice), Bran/lud, siec. Zimowy rynek najmu chudy (ludzie osiadli), ale ciepla sucha izba w mrozie ma wartosc. Aktywne od zaraz. || 297-01-10: LEONA da trop - zna przez trade szanowana osobe/rodzine szukajaca suchej izby na zime; podesle/wskaze. Pierwszy realny lokator na horyzoncie.",
+   "odpala": "297-01-12",
    "typ": "dochod"
   }
  ]

@@ -3447,3 +3447,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-23 POLUDNIE: Symon wybadal zlecenie weryfikacyjne blizej dworu (rzut 16 - miss). Court-adjacent leadow brak od reki: domy przy dworze strzezone, uzywaja wlasnych ludzi, niechetne obcemu; cold-hunting przy zamku konspicuous (oko Theomore'a) - Symon przezornie nie pchal. NAUKA: court-adjacent standing nie do kupienia zleceniem na zimno, akumuluje sie organicznie (Godric+reputacja z czasem). Zwykle leady niszy wciaz sa. Dojscie=hodowane nie zamawiane.
 
 297-02-23 POPOLUDNIE: Symon wzial zwykle zlecenie w niszy (rzut 92 - mistrzowsko). Skupiona premium weryfikacja: udokumentowana rozbieznosc, czysto+z autorytetem, klient zachwycony, flywheel przyspiesza (poleci dalej). Fee ~4 jel (sakiewka 6->10). Imie "skryby co dowozi" niesie sie cudzymi ustami. Nisza=najpewniejszy zimowy strumien.
+
+297-02-23 NOC: Symon domknal dochodowy dzien - jedzenie, sen. Nisza dowiozla (+4 jel), majatek plynny ~50 jel. Noc spokojna.
+297-02-24 RANEK: Wypoczety. Harwin ~02-25 (JUTRO okno czujnosci). Mroz.

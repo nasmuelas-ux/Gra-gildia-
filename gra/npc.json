@@ -404,7 +404,7 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 73,
+   "nastawienie_do_gracza": 72,
    "zaufanie": 19,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
@@ -467,10 +467,11 @@
     "297-02-07: Symon publicznie odbil szept Harwina w Sepcie (rzut 71) - Owen dumny, ze charge stanal w PRAWDZIE, ale ZANIEPOKOJONY: Septa Matki to nie pole bitwy, a Symon podniosl stawke (eskalacja jawnej wojny z Harwinem).",
     "297-02-07 (rzut 23): Symon przyszedl po nazwiska ofiar Harwina do sprawy. Owen ODMOWIL - z zasady i troski: krzywdy przyniesione do Septy sa w ZAUFANIU, nie orez (weaponizacja zdradzilaby skrzywdzonych + wystawila ich na odwet Harwina; Wiara nie zbrojownia). Pastoralny check: dzien po publicznym ciosie Symon zbiera armie = wojna i pycha, nie sprawiedliwosc. KLUCZOWE: Owen JUZ ciagnie nitke Ryman/Harwin ku Winterfell (Ansell/kruk) cierpliwie z cienia; gorąca lokalna wojna Symona moze SPLOSZYC sfore i WYSADZIC to sledztwo (jego jedyna prawdziwa bron). Rada: cierpliwosc, niech wolna sprawiedliwosc Polnocy zrobi swoje; nie robic z Wiary wojennej kancelarii, nie narazac ofiar/sledztwa. nast 71->70 (troska nie zerwanie).",
     "297-02-07 (apel Symona rzut 71): Symon przekonal Owena mowiac jego wlasna wiara (Siedmiu zada sprawiedliwosci; ochrona slabszych jako POWINNOSC bogatszego, nie vendetta; kwestionuje metode zbira, nie prawo cechu). Owen PRZYZNAL, ze mis-odczytal (to powinnosc, nie pycha) - 'mowisz jak czlowiek Matki, nie mysciciel'. SYNTEZA: chronic slabych, ale MADRZE - nie hot war (splosza sfore/wysadzi Winterfell), nie weaponizacja zaufania/spowiedzi; DOBROWOLNI swiadkowie, protekcja Wiary dla tych co stana, sprawa WPLECIONA w cierpliwe rozliczenie Polnocy. Owen -> warunkowy SOJUSZNIK (pomoze dotrzec do chetnych swiadkow, zgra wzor z inquiry Winterfell, uzyczy protekcji). Glebszy szacunek - uczen stanal jak rowny moralnie. nast 70->73, zauf +1.",
-    "297-02-11 (rzut 34): pomoc w przytulku (grunt, bez blasku; zima miele ubogich; rep wiara 65->66, wiez z Owenem trzyma). Cicho dotkneli sprawy Harwina (droga dobrowolnych swiadkow): SCIANA STOI - strach pieczetuje usta, nikt jeszcze nie gotow stanac (stanac przeciw gnebiacemu cechowemu=narazic siebie/swoich). Owen: cierpliwosc, dojrzewa wolno lub wcale/przez Winterfell; nie popedzisz strwozonego nie krzywdzac go."
+    "297-02-11 (rzut 34): pomoc w przytulku (grunt, bez blasku; zima miele ubogich; rep wiara 65->66, wiez z Owenem trzyma). Cicho dotkneli sprawy Harwina (droga dobrowolnych swiadkow): SCIANA STOI - strach pieczetuje usta, nikt jeszcze nie gotow stanac (stanac przeciw gnebiacemu cechowemu=narazic siebie/swoich). Owen: cierpliwosc, dojrzewa wolno lub wcale/przez Winterfell; nie popedzisz strwozonego nie krzywdzac go.",
+    "297-02-16 (rzut 24): Ludzka czesc wizyty cieplа (Symon przyszedl doglądać patrona/dachu). ALE gdy Symon - nawet ostroznie, w jezyku sprawiedliwosci/porzadku - zaczepil o sprawe frachtowa jako mozliwy przyszly kanal Wiary/lorda, TRAFIL W ZLA CHWILE i zly rejestr: Owen, wciaz swiezy po eskalacji wojny z Harwinem (Septa=nie pole bitwy), uslyszal Symona SIEGAJACEGO PO KOLEJNA sprawe - i pastoralnie, lagodnie lecz stanowczo przyhamował: ostrzegl, by gorliwosc o sprawiedliwosc nie stala sie NAWYKIEM zaciagania Wiary w jego bitwy; Wiara nie jest orężem ani dzwignia, choćby sprawa byla sluszna. To nie potepienie (kocha Symona), to troska/przestroga - ale realna. NAUKA: sciezki TOP-COVER dla frachtu NIE wolno pchac przez Owena; Owen nie jest instrumentem. Osłona gorna musi przyjsc inaczej/organicznie (interes lorda okradanego na cle, wlasna inkwizycja Winterfell) - Symon niewidzialny architekt, NIE czlowiek napierajacy na septona. Symon przeczytal to i wycofal sie (dojrzale, bez sporu). nast 73->72, zauf 19 bez zmian."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-02-11",
+   "ostatni_kontakt": "297-02-16",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },

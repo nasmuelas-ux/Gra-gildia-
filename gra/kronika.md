@@ -3338,3 +3338,6 @@ Symon przyniosl pismo (czyste warunki, autonomia, trial). Mira przeswietlila - b
 
 ## 297-02-13 - uruchomienie operacji kamieniczki (rzut 42)
 Symon przekazal Mirze zarzad (chlonie po fachowemu) i skojarzyl ja z Branem. Drobne tarcie glowa-rece (dumny Bran vs Mira-koordynuje); Symon ustawil role jasno (Mira glowa/Bran rece, wzajemny szacunek) - dogaduje sie roboczo, potrzebuje dotarcia. Operacja rusza, funkcjonalna. Mira wyrok wstrzymany (trial). organizacja+1, czytanie_ludzi+1.
+
+## 297-02-14 RANEK
+Wieczorem cwiczenia (kondycja+1), sen. Jutro pierwszy podatek miejski (~02-15). Zegary: draw ~02-19, harwin ~02-25, pilot ~03-10.

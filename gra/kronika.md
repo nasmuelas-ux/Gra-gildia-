@@ -3141,3 +3141,6 @@ Symon (mieszczanin, jeszcze slaby po febrze) wrocil do ksiag - sesja slamazarna 
 
 ## 297-01-28 RANEK
 Pelnia sil wrocila (zdrowie 98). Symon Tally, mieszczanin, pierwszy pelny dzien zdrowia. Zegary: Godric ~01-30, podatek ~02-15, harwin czujnosc ~02-10, draw ~02-19.
+
+## 297-01-28 - pomoc Owenowi (rzut 73)
+Symon (zdrowy, mieszczanin) przyszedl pomoc zajechanemu Owenowi. Wniosl porzadek w przytulek (ksiega chorych/zapasow, rozdzial rowno, listy) - zdjal ciezar; Owen pierwszy raz od tygodnia odetchnal ('Matka mi ciebie zeslala', bez troski o mamone - rownowaga zobaczona cala). Owen nast 68->71, zauf 17->18; rep wiara 63->65. organizacja+1, pismo+1.

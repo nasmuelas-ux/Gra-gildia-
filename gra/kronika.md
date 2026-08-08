@@ -3425,3 +3425,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-21 RANEK: Wypoczety. Harwin ~02-25 (za 4 dni). Mroz.
 
 297-02-21 RANEK: Symon wrocil do traktatu z Halem (rzut 16 - diminishing returns). Piata sesja w garstce dni - slowa nie ida, staly na materiale, grind jalowy. REALIZACJA: kodeks to SLOW-BURN na miesiace, mierzonymi dawkami, nie codzienny mlot; forsowanie kontrproduktywne. Pacing zmieniony: traktat = tlo/slow-burn, inne dni inna robota. Projekt bez szkody. Maly output.
+
+297-02-21 POPOLUDNIE: Symon poszedl do Miry (mid-trial, rzut 18 - miss). Dobra intencja (partner nie inspektor), ale dla Miry-strazniczki-autonomii sam akt wizyty w polowie proby zagral jako zagladanie/distrust. Ochlodla ("nie potrzebuje dozoru"). Symon przeczytal, wycofal grzecznie (contained). NAUKA: Mira = tendowac NIEOBECNOSCIA, ufac kontraktowi, osadzic na koncu; hover=distrust. nast 31->29, zauf hold 9.

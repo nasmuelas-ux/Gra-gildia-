@@ -3364,3 +3364,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-15 RANEK: Symon zjadl syto, poszedl do stolu poborcy na placu i zaplacil pierwsza daninę miejska (~3 jel, rzut 64 - czysto). Wpisany do rejestru jako mieszczanin-wlasciciel. Sakiewka 14->11 jel. Danina = staly koszt statusu, ale tez OFICJALNY slad legalnosci (armor vs szept Harwina o obcym).
 
 297-02-15 RANEK: Symon poszedl do Miry domknac petle budzetowa (rzut 84). Uczciwe uznanie (nie pochlebstwo): jej odczyt o rot byl sluszny, poszedl za rada. Potwierdzil jej remit zarzadczyni z autonomia; ulozyl czysto dynamike Mira(glowa)-Bran(rece). Trial wyraznie na plus, wyrok formalny do konca miesiaca. Zywe partnerstwo zawodowe glebnie. nast 24->31, zauf 7->9.
+
+297-02-15 POLUDNIE: Symon poszedl do Leony z konkretem (sprawa celno-frachtowa, rzut 49 - tuz ponizej). Uczciwie, bez bajki - ale Leona preswietlila slabosc: to wzor, nie karta; nie postawi nazwiska za niedokonczona sprawa. Bez zerwania (rejestr uczciwy), bez gruntu (konkret przedwczesny). NAUKA: nie aktywowac fronta zanim sprawa=karta (zbiezne z Garthem). nast/zauf bez zmian (56/22).

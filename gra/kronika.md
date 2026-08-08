@@ -3407,3 +3407,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-18 NOC: Symon wypoczal i spal - dzien pelny (traktat sesja2 jalowa+lekcja, Bran rozkwitl/slub, Godric ksiegi +2jel, Owen reset niedomkniety). Noc spokojna.
 297-02-19 RANEK: DRAW od Nesty wplynal - 6 jel do depozytu (23->29 jel). Cicho, mroz trzyma. Nastepny draw ~03-19; Harwin ~02-25.
+
+297-02-19 RANEK: Symon zjadl i wplacil 11 jeleni z sakiewki do depozytu u Nesty (za kwitem). Sakiewka 14->3 jel; depozyt 2900->4000 mied (29->40 jel). Konsolidacja oszczednosci po zimowych wydatkach - bufor odbudowany do 40 jel zabezpieczonych.

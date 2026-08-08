@@ -3117,3 +3117,6 @@ Rekonwalescencyjna lektura ksiag kupieckich Nesty dala silny insight: braawijski
 
 ## 297-01-20 - Owen zajechany (rzut 26)
 Napar pomogl (zdrowie 64->68). Ale rozmowa z Owenem krotka/nie balsam - Owen zajechany zimowa febra przytulku (Symon jeden z wielu chorych). Poradzil: oddaj rade (nie w twoich rekach, slate stoi), zdrowiej - i poszedl do nastepnego. Symon zostal z wlasna niecierpliwoscia; lekcja: swiat nie kreci sie wokol niego. Owen nast 68 (bez zmian). czytanie_ludzi+1.
+
+## 297-01-20 ZMIERZCH - odwiedziny (rzut 42)
+Do chorego Symona przyszli CI WLASCIWI: Bran (piwo, smiech, nie dal sie uzalac - przyszedl bo lubi), Serla (rosol + matczyne slowo), wdowa Jonna (miod). NIE przyszli: Nesta/Godric/poreczyciele-kupcy (uzyteczni nie bliscy). Nauka: roznica miedzy siecia (narzedzia) a ludzmi (serce) - jego ludzie: Bran, Serla, Wiara. Bran 54->55, Serla 37->38. zdrowie 68->70 (towarzystwo+rosol). Korzen mlody, ale trzyma.

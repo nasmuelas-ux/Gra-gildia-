@@ -3450,3 +3450,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-23 NOC: Symon domknal dochodowy dzien - jedzenie, sen. Nisza dowiozla (+4 jel), majatek plynny ~50 jel. Noc spokojna.
 297-02-24 RANEK: Wypoczety. Harwin ~02-25 (JUTRO okno czujnosci). Mroz.
+
+297-02-24 RANEK: Symon zjadl i szukal kolejnych zlecen (rzut 21 - sucho). Dzien po duzym kliencie studnia chuda; jedyny marginalny lead ponizej standardu (audyt-na-kredyt/messy) - Symon odpuscil (dyscyplina). Brak nowego dochodu, ale zero zlej roboty. Nauka: nisza=struzka nie faucet, nie codziennie.

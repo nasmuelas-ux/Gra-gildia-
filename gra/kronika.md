@@ -3240,3 +3240,6 @@ Symon zajrzal po 3 tyg. nieobecnosci. Podwojny balagan: ksiega reliefu poplatana
 
 ## 297-02-06 ZMIERZCH - naprawa Hala (rzut 81)
 Symon zagral jak Owen: chleb+wspolne rozsupłanie ksiegi, przyznal wlasny blad nieobecnosci, pozyczyl ksiazke o rachunkach + standardy audytu. Glod znaczenia Hala przekierowany ku legalnemu mistrzostwu fachu; wzruszony (wart inwestycji), lod pekl glebiej niz przed potknieciem. nast 46->56, zauf+2. Nauka: mentorstwo obecnoscia. organizacja+1, czytanie_ludzi+1.
+
+## 297-02-07 RANEK - dzien Matki
+Wieczorem cwiczenia (kondycja+1), sen. Dzien Matki (handel zamkniety, miasto w Sepcie); Symon jako skryba Septy ma tu jasne miejsce. Zegary: harwin ~02-09, podatek ~02-15, draw ~02-19.

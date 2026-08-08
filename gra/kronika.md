@@ -3341,3 +3341,6 @@ Symon przekazal Mirze zarzad (chlonie po fachowemu) i skojarzyl ja z Branem. Dro
 
 ## 297-02-14 RANEK
 Wieczorem cwiczenia (kondycja+1), sen. Jutro pierwszy podatek miejski (~02-15). Zegary: draw ~02-19, harwin ~02-25, pilot ~03-10.
+
+## 297-02-14 - robota u Nesty (rzut 20)
+Slamazarny dzien + trzezwy wglad: kantor napiety tej zimy (dlug Antaryonow dzwigany jak kamien + cienkie przychody; rdzen stoi ciasno). Nesta rzeczowa/przycisniona. Wniosek: kapitalo-lekki filar (kredyt/ubezp/doradztwo) to wlasciwy wektor - fach na wiedzy nie dzwiga kamienia jak dzwignia na cudzym dlugu; udzial realny ale obciazony. rachunki+1, audyt+1.

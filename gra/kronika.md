@@ -3144,3 +3144,6 @@ Pelnia sil wrocila (zdrowie 98). Symon Tally, mieszczanin, pierwszy pelny dzien 
 
 ## 297-01-28 - pomoc Owenowi (rzut 73)
 Symon (zdrowy, mieszczanin) przyszedl pomoc zajechanemu Owenowi. Wniosl porzadek w przytulek (ksiega chorych/zapasow, rozdzial rowno, listy) - zdjal ciezar; Owen pierwszy raz od tygodnia odetchnal ('Matka mi ciebie zeslala', bez troski o mamone - rownowaga zobaczona cala). Owen nast 68->71, zauf 17->18; rep wiara 63->65. organizacja+1, pismo+1.
+
+## 297-01-29 RANEK
+Wieczorem cwiczenia fizyczne (odbudowa po febrze, kondycja+1), sen, pelnia sil (zdrowie 100). Jutro wyplata Godrica. Zegary: Godric ~01-30, podatek ~02-15, harwin ~02-10, draw ~02-19.

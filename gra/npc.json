@@ -1427,6 +1427,38 @@
    ],
    "ostatni_kontakt": "297-01-18",
    "cechy_mowy": "szorstko, prosto, bez ogrodek"
+  },
+  {
+   "id": "prowiantnik_garrik",
+   "imie": "Garrik",
+   "przydomek": "prowiantnik",
+   "wiek": 46,
+   "stan": "mieszczanin (kupiec)",
+   "zawod": "prowiantnik - zimowe zapasy (sol/mieso/susz)",
+   "mieszka": "Schody",
+   "nastawienie_do_gracza": 14,
+   "zaufanie": 6,
+   "wie_o_graczu": [
+    "297-02-02: przyjal weksel Symona (rekojmia+podparcie kantoru) zamiast martwego dealu - sprzedal lot, zaplata pewna na wiosne. Zadowolony; poznal, ze Symon umie ozywic interes."
+   ],
+   "ostatni_kontakt": "297-02-02",
+   "cechy_mowy": "rzeczowy, ostrozny z groszem"
+  },
+  {
+   "id": "kupiec_wend",
+   "imie": "Wend",
+   "przydomek": null,
+   "wiek": 34,
+   "stan": "mieszczanin (drobny kupiec)",
+   "zawod": "drobny kupiec/handlarz - krotki w kiesie do wiosny (naleznosci)",
+   "mieszka": "port",
+   "nastawienie_do_gracza": 15,
+   "zaufanie": 5,
+   "wie_o_graczu": [
+    "297-02-02: wzial zapasy na weksel Symona (placi gdy wroca naleznosci wiosna, oplata+towar w zastaw). Wdzieczny - inaczej deal by przepadl. DLUZNIK weksla: musi splacic na termin (amber - naleznosci prawdopodobne nie pewne)."
+   ],
+   "ostatni_kontakt": "297-02-02",
+   "cechy_mowy": "zywy, troche nerwowy o pieniadze"
   }
  ],
  "orbita": [

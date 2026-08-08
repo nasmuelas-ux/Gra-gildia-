@@ -2,19 +2,19 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-02-02 RANEK · zima nadeszla (Polnoc) — dlugie lato dogaslo
+- **Data:** 297-02-02 POPOLUDNIE · zima nadeszla (Polnoc) — dlugie lato dogaslo
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 7 jeleni + 0 mied + 0 smokow
+- **Wolne:** 9 jeleni + 0 mied + 0 smokow
 - SPOLKA ZBOZOWA ZAMKNIETA: 300 mied wkladu zwrocone + zysk (relief miasta, hoarderzy Osgara przeeksponowani) — zrealizowane do gotowki/depozytu
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
 - PODRECZNIK PROCEDUR KANTORU (11-XII, rzut 97): KONTROLA DOKUMENTU (numerowane/przeszywane/pieczetowane karty; kopia umowy u obu stron+trzecia u depozytariusza; atrament trwaly, bez pustych miejsc, kwota slownie obok cyfry; poprawki tylko przekreslenie z parafa). KONTROLA LUDZI (rozdzial kasa/magazyn/ksiega; rotacja+przymusowa przerwa kasjera; dwa klucze+dwa podpisy powyzej progu; kaucja+poreczyciel przy zatrudnianiu) - CZESC skalowana: maly kantor nie ma 3 osob -> stosuje co pasuje + compensating controls. KONTROLA RZECZY (cechowanie towaru+pieczetowanie beczek; liczenie skladu w LOSOWYCH terminach; waga MIEJSKA nie wlasna; OSOBNY rejestr brakow/zwrotow - tam ucieka najwiecej). RAPORTY ZARZADCZE (klejnoty, sprzedawalne): WIEKOWANIE NALEZNOSCI (kto/ile/od kiedy); RENTOWNOSC per klient i per trasa (zwykle 1/3 interesow stratna); KALENDARZ ZOBOWIAZAN (czynsz/clo/podatek/dlug na jednej karcie); PROGI OSTRZEGAWCZE (jesli zapas<X kupuj; jesli dlug>Y wstrzymaj kredyt).
-- Zdrowie 100 · Sytosc 40 · Zmeczenie 6
+- Zdrowie 100 · Sytosc 54 · Zmeczenie 16
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -61,6 +61,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` draw_nesta: Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt.
 - ◆ `?` harwin_zemsta_czujnosc: Harwin/Cech Pisarzy przegrali publicznie i zostali upokorzeni; przy przysiedze Harwin rzucil zawoalowana grozb
 - ◆ `?` podatek_miejski: Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg maj
+- ◆ `?` weksel_pilot_wynik: Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli spl
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

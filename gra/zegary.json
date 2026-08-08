@@ -157,6 +157,12 @@
    "opis": "Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg majatku/wlasnosci; termin wg kalendarza podatkowego miasta. Nesta uprzedzila - planowac.",
    "odpala": "297-02-15",
    "typ": "koszt/obowiazek cykliczny"
+  },
+  {
+   "id": "weksel_pilot_wynik",
+   "opis": "Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli splaci - MECHANIZM DOWIEDZIONY (pelny sukces + reputacja brokera); jesli nie - Symon egzekwuje zastaw (towar) + kantor podpiera (ryzyko male, ograniczone). Ostateczny dowod uslug kredytowych.",
+   "odpala": "297-03-10",
+   "typ": "kredyt/wynik"
   }
  ]
 }

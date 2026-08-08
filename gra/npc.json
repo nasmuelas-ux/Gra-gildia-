@@ -121,7 +121,7 @@
     "kontuzja plecow",
     "ze go ominie lepsza fucha"
    ],
-   "nastawienie_do_gracza": 55,
+   "nastawienie_do_gracza": 57,
    "zaufanie": 13,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
@@ -144,10 +144,11 @@
     "297-01-08 RANEK (rzut 33): cieple spotkanie (wspolne tanie piwo), ale pod smiechem Bran wyczerpany i przestraszony - zimowy zastoj nabrzeza sie POGLEBIL (martwy dok, prawie nic do dzwigania, kantor sam przycisniety dlugiem Antaryonow), proba w faktorii wisi na wlosku, a bez stalej roboty wesele z Alys sie oddala (i moze niecierpliwosc jej bliskich). Symon przeczytal strach pod gwara. Jako WSPOLNIK PONOWIL slowo: trzyma Brana przez zime (routuje mu te skape scinki dzwigania co sa, chroni probnego) + pcha ku stalej robocie na wiosne. NIE moze przeorganizowac zimy (roboty po prostu brak) - to holding-on nie thriving. Chronienie probnego przy braku pracy KOSZTUJE Symona troche kapitalu laski u Nesty (wydaje go swiadomie na lojalnosc). Bran gleboko wdzieczny, lojalnosc poglebiona - ale obaj wiedza, ze to przetrwanie, nie ratunek.",
     "297-01-16 ZMIERZCH (rzut 89): cieply wieczor bez interesu. Do portu wszedl rzadki zimowy statek - Bran mial kilka dni prawdziwej roboty i grosz do garsci (na wesele z Alys); nie ratunek, ale ODDECH - proba w faktorii juz nie sama przepasc. W dobrym humorze, pierwszy raz TO ON postawil piwo. Gadali o Alys, wiosnie, glupstwach. Przyjazn pogłębiona (lubi Symona nie za to, ze rosnie, lecz ze byl przy nim, gdy bylo krucho). nast 51->54.",
     "297-01-20: przyszedl do chorego Symona z piwem i smiechem, nie dal mu sie uzalac - przyszedl, bo LUBI, nie bo Symon rosnie. Przyjazn potwierdzona w probie. nast 54->55.",
-    "297-01-20: Symon podziekowal mu szczerze ('zes przyszedl, choc nic ci z tego - nie zapomne') - siadlo. Wiez bez interesu."
+    "297-01-20: Symon podziekowal mu szczerze ('zes przyszedl, choc nic ci z tego - nie zapomne') - siadlo. Wiez bez interesu.",
+    "297-02-10 (rzut 36): Symon podziekowal Branowi szczerze, ze przyszedl do chorego (febra). Bran wzruszony (nie przywykl do podziek), przyjazn pogleboila sie (nast 55->57). ALE pod smiechem zima go zjada: statek dal kilka dni tygodnie temu i tyle, nabrzeze znow martwe, proba w faktorii na wlosku, wesele z Alys sie oddala, zniechecony (nie skarzy sie, ale strach w oczach). ZALAZEK: kamieniczka potrzebuje rak (dozorca/tragarz przy remoncie dachu wiosna/utrzymanie/opal lokatorom) - realna robota dla Brana (nie jalmuzna), staly grosz zima+wiosna, a Symon zyskuje pewna reke. Mysl na jutro, nierzucona."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-01-20",
+   "ostatni_kontakt": "297-02-10",
    "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
    "historia": [
     "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",

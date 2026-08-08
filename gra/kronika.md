@@ -3296,3 +3296,6 @@ Audyt-maintenance czysto (standing zaufanego doradcy trzyma), patron odgrzany (n
 
 ## 297-02-10 ZMIERZCH - Mira: oferta partnerstwa (rzut 55)
 Symon zlozyl Mirze ofNerte partnerstwa (kamieniczka+ksiega doradcza, udzial, autonomia) - czysto, bez zalotow. Preswietlila na ploy->szczera; rozbroil ja SZACUNEK (rowne partnerstwo+pole, nie klatka). REFRAME: martwy zalot -> zywy grunt zawodowy. Ostrozna/niezobowiazujaca (warunki, autonomia nienaruszalna, obserwuje szczerosc). nast 2->14, zauf 2->4. Fundament pod organiczne pozniej. retoryka+1, czytanie_ludzi+1.
+
+## 297-02-10 ZMIERZCH - podzieka Branowi (rzut 36)
+Symon podziekowal Branowi za wizyte w chorobie - wzruszony, przyjazn pogleboila sie (nast 55->57). Ale zima go zjada (dok martwy, proba chwiejna, Alys sie oddala, zniechecony). Zalazek: dac Branowi realna robote przy kamieniczce (dozorca/tragarz) - staly grosz + pewna reka, nie jalmuzna. czytanie_ludzi+1.

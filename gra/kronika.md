@@ -3039,3 +3039,6 @@ Symon ruszyl zbierac poreczenia kupcow pod mieszczanstwo, zaczal od Borena - CEC
 
 ## 297-01-10 ZMIERZCH - Leona: poreczenie #2 (rzut 97)
 Po Borenie Symon poszedl do Leony (po 3 tyg. absencji - otworzyl uczciwie, co ona ceni). PELNE TAK - poreczenie najmocniejszego rodzaju: swiadectwo klienta o charakterze (reczy, ze prowadzil jej ksiegi uczciwie, oznaczal niepewne zamiast zmyslac; wdowa nie daje nazwiska lekko). Bonus: trop pod najem - zna szanowana osobe szukajaca suchej izby (rusza czynsz). Poreczenia: Boren ✓, Leona ✓. Do zebrania: Aldous, Vox + Wiara. Leona nast 52->55, zauf 21->22. retoryka+1, czytanie_ludzi+1.
+
+## 297-01-10 ZMIERZCH - Aldous: poreczenie #3 miekkie (rzut 53)
+Symon zlapal Aldousa przy dzbanie w karczmie. Natychmiastowe cieple TAK, ale luzne (obietnica przy winie - dokrecic na trzezwo/Torren). Ryzyko gadatliwosci vs 'cicho' - Symon poprosil o dyskrecje (zlagodzone). Poreczenia: Boren✓ Leona✓ Aldous✓(miekkie). Zostaje Vox (rano) + Wiara. Aldous nast 50->52, zauf 11->12. czytanie_ludzi+1. Symon zmeczony (3. podryw dnia).

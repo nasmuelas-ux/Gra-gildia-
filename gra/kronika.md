@@ -3231,3 +3231,6 @@ Symon+Nesta spisali STANDARDY+PLAYBOOK domeny kredytu i pewnosci: kryteria banko
 
 ## 297-02-06 RANEK
 Syty posilek, wczesny sen, pelnia sil. Zegary: harwin ~02-09, podatek ~02-15, draw ~02-19.
+
+## 297-02-06 - Garth (rzut 62)
+Cieply reconnect z Garthem (pisarz celny, znudzony w zimowej komorze). Info-edge: pierwsze wiosenne zapowiedzi zeglugi saczą sie do cla (sukno/wino/sol po odwilzy). Garth = rura informacyjna na wiosne (co plynie/co rzadkie -> handel/weksle/ubezpieczenia). nast 30->33, zauf 10->11. czytanie_ludzi+1.

@@ -3045,3 +3045,6 @@ Symon zlapal Aldousa przy dzbanie w karczmie. Natychmiastowe cieple TAK, ale luz
 
 ## 297-01-11 RANEK - Aldous dokrecony (rzut 82)
 Sniadanie, potem Symon zlapal Aldousa na trzezwo przy porannym inwentarzu i dokrecil karczmowa obietnice: poreczenie z miekkiego na solidne, do wciagniecia przez Torrena; Aldous sam pojal wage dyskrecji. Poreczenia: Boren✓ Leona✓ Aldous✓. Zostaje Vox + Wiara. Aldous nast 52->53, zauf 12->13.
+
+## 297-01-11 ZMIERZCH - Vox: poreczenia kupieckie KOMPLETNE (rzut 97)
+Symon domknal kupiecki zestaw u Voxa (autora drogi kupiec-wspolnik). Pelne swiadome tak, framowane pod klasyfikacje lamiaca weto Pisarzy; oferta glosu w radzie. Werdykt Voxa: zestaw mocny (Boren/Leona/Aldous/Vox), teraz szybko Wiara i ZLOZYC nim wiesc wycieknie. 4 poreczenia kupieckie ✓. Zostaje poreczenie Wiary (Owen/Torren) -> Torren sklada wniosek. Vox nast 48->52, zauf 15->17. retoryka+1, czytanie_ludzi+1.

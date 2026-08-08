@@ -3370,3 +3370,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-15 POPOLUDNIE: Symon usiadl do robota u Nesty - ksiegi/rachunki kantoru (rzut 58, czysto). Popoludnie solidnej roboty, bilanse zeszly, drobna zaplata (+1 jel -> 12). Nesta potwierdzila: draw wspolnika ~02-19 na torze; faza cichej konsolidacji trzyma, zima chuda ale kantor stabilny. Praktyka rachunki/audyt/organizacja. Zmeczenie rosnie.
 
 297-02-16 RANEK: Noc spokojna w celi przy Sepcie. Dzien 15 domkniety (podatek zaplacony, Mira domknieta, Leona - lekcja o timingu, robota u Nesty). Rankiem cicho, mroz trzyma. Zegary: draw ~02-19, Harwin ~02-25.
+
+297-02-16 RANEK: Symon zjadl i poszedl do Hala (rzut 92 - wybitnie). Nazajutrz po przelomie - konsekwentna obecnosc. Powierzyl wiekszy niewrazliwy kawalek roboty pod lzejszym okiem; Hal wzial jak rzemieslnik. Dream-wound goi sie dalej (sam przyznaje ze ktos jak on moze znaczyc). Hal z ciezaru = ATUT, realny drugi pisarz do niewrazliwej roboty (odciaza Symona). nast 62->66, zauf 25->27. Wrazliwe wciaz odciete.

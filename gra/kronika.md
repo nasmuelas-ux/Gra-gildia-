@@ -3177,3 +3177,6 @@ Symon sprawdzil obie strony pilota kredytowego. Prowiantnik GREEN (solidny, real
 
 ## 297-02-01 ZMIERZCH - Nesta: struktura weksla + ubezpieczenia (rzut 90)
 Symon+Nesta ustrukturyzowali pilot weksel (mala kwota/krotki termin/oplata za ryzyko/towar w zastaw/czesciowe podparcie kantoru - Symon twarza, Nesta filar). Lekcja ubezpieczen (rozproszenie ryzyka - wiosenna spolka, pula weksli). Nesta nazwala nisze: BROKER KREDYTU I PEWNOSCI (nikt lokalnie tego nie zna procz niej - 'starzeje sie', sugestia sukcesji). nast 70->71, zauf 32->33. handel+1, prawo+1, wiedza+.
+
+## 297-02-01 ZMIERZCH - Nesta o pilotazu ubezpieczen (forward)
+Symon dopytal, jak dziala dalej pilotaz ubezpieczen frachtu. Nesta: model trzyma (pierwszy wynik lekko na minus - zima=sztormy, zero blowupu), teza zysku niepotwierdzona. Plan: HOLD maly przez zime -> SKALOWAC z wiosna (siada morze=uczciwy test+zysk). Ubezpieczenia+weksle = dwa skrzydla brokera kredytu i pewnosci; wiosna: ubezpieczyc ladunek spolki+eksport. handel+1.

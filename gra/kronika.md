@@ -3066,3 +3066,6 @@ Symon przez Leone sprowadzil wdowe z powrotem - ciepla gotowa izba to bylo to, c
 
 ## 297-01-13 - DRUGI LOKATOR (rzut 96)
 Symon szukal drugiego lokatora - poszlo znakomicie. Izba 2 wynajeta Osricowi, mlodemu czeladnikowi (referral z kregu Borena, cementuje sojusz), ~1 jel/mies; szybki rutynowy fit-out (druga koza, ~5 jel z linii). Dochod ~2 jel/mies (izby 1+2). Bonus: dobra slawa domu (cieply/suchy/uczciwy gospodarz) rozchodzi sie -> soft waitlist na izbe 3 na wiosne. Aktyw pracuje i ma renome. sakiewka +1 jel. handel+1, organizacja+1.
+
+## 297-01-13 ZMIERZCH - ksiegi Godrica (rzut 86)
+Swietna sesja: Symon poprowadzil ksiegi dostaw czysto I wypatrzyl recurring przeplate u dostawcy Nowego Zamku (staly wyciek), oznaczyl -> oszczednosc dla Godrica. Przesuwa go z najmity ku zaufanemu doradcy. Godric zauf 7->9, nast 46->49; wyplata ~01-30 na torze. Spring-ask wciaz na odwilz, ale kredyt wiarygodnosci urosl. rachunki+1, audyt+1.

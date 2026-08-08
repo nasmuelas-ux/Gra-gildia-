@@ -7,9 +7,9 @@
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
- "zdrowie": 70,
+ "zdrowie": 50,
  "sytosc": 52,
- "zmeczenie": 48,
+ "zmeczenie": 62,
  "sakiewka": {
   "miedziaki": 10,
   "jelenie": 1,
@@ -116,10 +116,10 @@
  "depozyt_u_nesty_mied": 4700,
  "stany": [
   {
-   "co": "zimowa zaraza (z przytulku)",
+   "co": "ZIMOWA FEBRA (powaznie) - napar septy zawiodl (rzut 1)",
    "od": "297-01-17",
-   "do_ok": "~297-01-21/22 (gated na odpoczynek)",
-   "efekt": "goraczka/dreszcze/bol; oslabiony, zdrowie 85->70; wymaga LEZENIA/odpoczynku; kondycja 7 pomaga wyzdrowiec; praca/wysilek przedluza chorobe"
+   "do_ok": "NIEPEWNE (~01-24+ przy uzdrowicielu+lezeniu; bez opieki grozi pogorszeniem/gorzej)",
+   "efekt": "zdrowie 50, wysoka goraczka/dreszcze/majaki; realnie niebezpieczna (zabiera slabych). WYMAGA: prawdziwy uzdrowiciel (~3 jel) + twarde lezenie. Wysilek/zimno/zwloka -> ryzyko dalszego spadku. Kondycja 7 i mlodosc sprzyjaja, ale nie gwarantuja."
   }
  ],
  "wspolnictwo_nesta": {

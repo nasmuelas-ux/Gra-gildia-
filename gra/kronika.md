@@ -3102,3 +3102,6 @@ Cieply wieczor bez interesu. Rzadki zimowy statek dal Branowi kilka dni roboty +
 
 ## 297-01-17 - choroba (rzut 10)
 Symon sluzyl w przytulku (dobra sluzba, rep wiara 62->63, pismo+1), ale zaharowany i wsrod chorych zlapal zimowa zaraze. Pod wieczor goraczka/dreszcze/bol: zdrowie 85->70. Owen wygnal go do lozka. Zdrowienie ~3-5 dni GATED na odpoczynek (do ~01-21/22), praca przedluza. Pada w okno przed decyzja rady ~01-22.
+
+## 297-01-18 RANEK - POGORSZENIE (lek rzut 1)
+Napar septy zawiodl (nie utrzymal go), noc rozkrecila febre zamiast ja zbic. Nad ranem jasne: to powazna zimowa febra, nie przeziebienie - zdrowie 70->50, realnie niebezpieczna. Owen niepokoja sie, radzi poslac po prawdziwego uzdrowiciela (~3 jel) + twarde lezenie; zdrowienie niepewne (~01-24+ z opieka). Decyzja rady ~01-22 wypadnie, gdy chory - ale slate poreczen stoi bez niego.

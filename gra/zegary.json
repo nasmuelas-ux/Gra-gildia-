@@ -163,8 +163,8 @@
   },
   {
    "id": "choroba_zdrowienie",
-   "opis": "Symon zlapal zimowa zaraze w przytulku (01-17). Zdrowie 70, goraczka. Zdrowienie GATED na ODPOCZYNEK - lezenie skraca, praca/wysilek/zimno przedluza i ryzykuje pogorszenie. Kondycja 7 sprzyja. Orientacyjnie zdrowy ~01-21/22, jesli odpoczywa. Pada w okno przed decyzja rady ~01-22.",
-   "odpala": "297-01-21",
+   "opis": "POGORSZENIE 01-18: napar septy zawiodl (rzut 1), febra sie rozkrecila - zdrowie 50, powazna zimowa febra (niebezpieczna). Zdrowienie NIEPEWNE i GATED na: (a) prawdziwy uzdrowiciel (~3 jel) + (b) twarde lezenie. Z opieka+odpoczynkiem orientacyjnie ~01-24+; bez - ryzyko dalszego spadku/krytycznego. Decyzja rady ~01-22 wypadnie, gdy chory - ale slate poreczen stoi bez niego.",
+   "odpala": "297-01-20",
    "typ": "zdrowie"
   }
  ]

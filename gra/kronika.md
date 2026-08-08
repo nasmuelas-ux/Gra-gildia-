@@ -3267,3 +3267,6 @@ Mistrzowski dzien przygotowan: sekret zabezpieczony (list w Sepcie), pozycja pra
 
 ## 297-02-08 ZMIERZCH - Nesta: lodowaty rebuke (rzut 1, KRYT)
 Symon przyszedl pewny pochwaly za pulapke; dostal najzimniejsze spojrzenie od miesiecy. Nesta: wasn=koszt bez zysku; z pychy szept->krwawa wojna z frakcja Rymana; WCIAGNAL ja+kantor bez zgody (naraził). Celna pointa: ostrozny Harwin nie skoczy w pulapke - uderzy gdzie brak pancerza (sojusznicy/kantor/imie, wyniszczenie). Partnerstwo trzeszczy (nast 74->66, zauf 36->31). Boli, bo prawda i bo mowi ONA. czytanie_ludzi+1.
+
+## 297-02-08 ZMIERZCH - spor z Nesta (rzut 61)
+Symon odbil rebuke ('to nie moja wojna, mam sie chowac?'). Nesta zbila slomianego wroga (nie kazala sie chowac; sama wyrabala kantor), przyznala prawo do obrony (pulapka=madra), ale trzyma: publiczny cios=pyszna eskalacja + werbowanie jej/kantoru bez zgody. Rozroznienie: obrona madra=tak, pyszna eskalacja+cudze rece bez zgody=nie. Czujny rozejm, czesciowa naprawa (nast 66->69, zauf 31->33). retoryka+1, czytanie_ludzi+1.

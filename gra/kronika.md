@@ -3372,3 +3372,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-16 RANEK: Noc spokojna w celi przy Sepcie. Dzien 15 domkniety (podatek zaplacony, Mira domknieta, Leona - lekcja o timingu, robota u Nesty). Rankiem cicho, mroz trzyma. Zegary: draw ~02-19, Harwin ~02-25.
 
 297-02-16 RANEK: Symon zjadl i poszedl do Hala (rzut 92 - wybitnie). Nazajutrz po przelomie - konsekwentna obecnosc. Powierzyl wiekszy niewrazliwy kawalek roboty pod lzejszym okiem; Hal wzial jak rzemieslnik. Dream-wound goi sie dalej (sam przyznaje ze ktos jak on moze znaczyc). Hal z ciezaru = ATUT, realny drugi pisarz do niewrazliwej roboty (odciaza Symona). nast 62->66, zauf 25->27. Wrazliwe wciaz odciete.
+
+297-02-16 RANEK: Symon odwiedzil Gartha (rzut 78, czysto). Cieplo, po ludzku. JASNOSC strategiczna: dowod frachtowy juz solidny - waskie gardlo to OSLONA GORNA (Garth koroboruje tylko gdy lord/Winterfell pcha z oslona, nie chce byc pierwszy). Karta sklada sie przez top-cover, nie akumulacje. + SPRING INFO-EDGE: zapowiedz braavijskiej flotylli sukna + wino/sol po odwilzy (przewaga pod weksle/ubezpieczenia). nast 33->36, zauf 11->12.

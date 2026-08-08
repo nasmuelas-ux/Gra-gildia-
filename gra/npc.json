@@ -320,8 +320,8 @@
     "kontrola z zamku",
     "wlasny slaby wzrok do drobnego pisma"
    ],
-   "nastawienie_do_gracza": 33,
-   "zaufanie": 11,
+   "nastawienie_do_gracza": 36,
+   "zaufanie": 12,
    "wie_o_graczu": [
     "pisze szybko i czysto",
     "siedzi tuz obok, przy bramie",
@@ -341,10 +341,11 @@
     "d14: Symon odswiezyl wiez po 22 dniach - cieplo, bez interesu, po ludzku; Garth rad, ze ktos przyszedl do niego, nie po cos. Rozmowa o pogodzie, mrozie, robocie. Jedyny realny watek: fracht drewna wciaz nierowny (audyt_frachtu_zbior) - Garth cicho akumuluje dalej. Nast 24->28.",
     "d16: Symon poprosil go po przyjacielsku o cichy cross-check zimowych manifestow prowiantu (dyskretnie, bez nazwisk). Garth pomogl chetnie - ale zimowy slad za cienki (port skuty, prowiant idzie malymi partiami/ladem), za malo danych na bilans masy. Bez napiecia, wiez ciepla (28).",
     "297-01-02 (rzut 34): wizyta w martwa zime - Garth znudzony/zmarzniety/posepny (port skuty, clo bezczynne), liche towarzystwo, zero nowin/ruchow. ALE Symon przyszedl BEZ SPRAWY, po ludzku - posiedzieli przy piecyku o niczym; agenda-less obecnosc zatrzymala stygniecie (28->30). Zero atutu, i o to szlo (genuine friendship, spojne z reframe Owena).",
-    "297-02-06 (rzut 62): cieply reconnect (Garth znudzony/zmarzniety w zimowej komorze, rad z towarzystwa bez sprawy). Jako pisarz celny = INFO-PIPE: do komory zaczynaja saczyc sie pierwsze wiosenne zapowiedzi zeglugi (kto spodziewa sie jakiej floty po odwilzy - sukno/wino/sol). Cenny info-edge pod handel/weksle/ubezpieczenia. Symon pielegnuje go jako rure informacyjna na wiosne. nast 30->33, zauf 10->11."
+    "297-02-06 (rzut 62): cieply reconnect (Garth znudzony/zmarzniety w zimowej komorze, rad z towarzystwa bez sprawy). Jako pisarz celny = INFO-PIPE: do komory zaczynaja saczyc sie pierwsze wiosenne zapowiedzi zeglugi (kto spodziewa sie jakiej floty po odwilzy - sukno/wino/sol). Cenny info-edge pod handel/weksle/ubezpieczenia. Symon pielegnuje go jako rure informacyjna na wiosne. nast 30->33, zauf 10->11.",
+    "297-02-16 (rzut 78): Symon wpadl cieplo, po ludzku (jak zawsze - to trzyma Gartha), i przy piecyku spokojnie zorientowal sie w stanie sprawy frachtowej BEZ pchania go na wlocznika (co by go sploszylo). KLUCZOWA JASNOSC: dowod frachtowo-celny jest juz w duzej mierze SOLIDNY/DOKUMENTOWALNY (Garth ma spojny obraz od dawna) - waskim gardlem NIE jest wiecej danych, tylko OSLONA GORNA: Garth skorroboruje TYLKO jesli sprawe pcha ktos z gory (lord/Winterfell) z oslona, zeby nie byl PIERWSZY, co wystawia kark. To reframuje sciezke: karta sklada sie nie przez akumulacje, lecz przez zbudowanie mechanizmu TOP-COVER (lacznik: submisja Rymana do Winterfell + interes lorda okradanego na cle). Garth spokojny (Symon nie zada od niego bohaterstwa). SPRING INFO-EDGE: do komory saczy sie pierwsza zapowiedz - po odwilzy spodziewana braavijska flotylla sukna + partia wina/soli; Symon dostaje wczesny cynk (przewaga pod weksle/ubezpieczenia/brokerke wiosna). nast 33->36, zauf 11->12."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-02-06",
+   "ostatni_kontakt": "297-02-16",
    "cechy_mowy": "urzedowo, ostroznie, duzo 'wedle przepisu'; chrzaka",
    "historia": [
     "m11d22 (rzut 79): dyskretna ocena dojrzalosci danych. Garth przez tygodnie cicho nazbieral SOLIDNY, spojny obraz: deklaracje frachtu/cla drewna SYSTEMATYCZNIE zawyzone/niespojne, rozbieznosc DOKUMENTOWALNA. Wskazuje na szyprow w orbicie sieci Antaryona. Garth kooperuje, potwierdza, ale ma LIMITY (celnik ryzykuje - nie chce byc odslonietym zrodlem) i prosi o dalsza dyskrecje. Nast 22->24."

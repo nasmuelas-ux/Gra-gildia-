@@ -7,9 +7,9 @@
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
- "zdrowie": 58,
- "sytosc": 52,
- "zmeczenie": 30,
+ "zdrowie": 64,
+ "sytosc": 58,
+ "zmeczenie": 24,
  "sakiewka": {
   "miedziaki": 10,
   "jelenie": 1,
@@ -81,11 +81,11 @@
   "rachunki": 112,
   "prawo": 139,
   "retoryka": 84,
-  "jezyki": 69,
+  "jezyki": 70,
   "spryt_uliczny": 103,
   "kondycja": 87,
   "rzemioslo": 0,
-  "handel": 92,
+  "handel": 93,
   "walka": 41,
   "geometria": 20,
   "czytanie_ludzi": 92,
@@ -108,7 +108,8 @@
   "PRAWO HANDLOWE W PRAKTYCE (od Nesty, d29): co WIAZE umowe tutaj = swiadkowie + pieczec notariusza + slowo stron POPARTE ich pozycja. Umowa nieszlachcica trzyma, jesli stoi za nia ktos, kto sie liczy (stad pieczec/kantor Nesty daje wage pismu Symona). DLUG: brak szybkiego sadu dla smallfolk — egzekwuje sie naciskiem, zajeciem, sprawiedliwoscia cechu/lorda JESLI masz pozycje, albo polamanymi palcami lichwiarza jesli nie (patrz Antaryon: wielki dom przyciska; patrz Elna: lichwiarz Lorren). SPORY: arbitraz cechu w sprawach fachu, sad lorda w wiekszych, apelacja do Starka w najciezszych — ale DOSTEP do sprawiedliwosci skaluje sie ze statusem; nieszlachcic 'wygrywa' glownie majac patrona/sojusznika, ktory za nim przemowi. SEDNO: papier wazy mniej niz to, KTO za nim stoi — perfekcyjna umowa dla nikogo jest egzekwowana przez nikogo. PRZEWAGA SYMONA: pisze bezbledny papier I buduje pozycje, ktora sprawia, ze papier trzyma.",
   "CZYTANIE DUSZ (od Owena, 11-02, rzut 95): przelom w luce Symona — dotad mial SPRYT (czytanie ludzi pod KATEM przewagi/podstepu), brakowalo mu czytania serc pod katem ZROZUMIENIA. Owen, pasterz dusz (spowiedz, ubodzy, trzoda), uczy go w sepcie na zywych twarzach: odroznic wstyd od roszczenia, prawdziwa nedze od gry na litosc, czlowieka, ktory klamie ze strachu, od tego, co z chciwosci; widziec POTRZEBE za slowami. Nie po to, by wykorzystac, lecz by trafnie POMOC i nie dac sie oszukac. Luka zaczyna sie domykac.",
   "PRAWO A DUSZE (od Owena, 11-02): moralno-wiarowa strona prawa — sanktuarium, przysiegi przed Siedmioma, rola septona w sporach, prawo jako to, co ma sluzyc slabym a czesto ich miele; jak laczyc litere z sumieniem. Domyka prawnicze drzewko Symona o wymiar etyczny/wiarowy.",
-  "ZIMA I UBODZY POLNOCY (od Owena, 11-04, urywkowo): zima to egzystencjalna proba Polnocy — co roku smallfolk umieraja z zimna/glodu/chorob; dlugosc lata zwiastuje surowosc zimy (dlugie lato -> lek przed dluga zima; maesterzy czekaja bialego kruka Cytadeli). Lord (Manderly, najbogatszy pol. rod, port) NAPELNIA spichrze i prowiantuje — ale wg powinnosci prioryzuje UZYTECZNYCH (garnizon, rzemieslnicy, sluzba); sam dol (zebracy, sieroty, samotne wdowy) zawsze wypada poza to i tam lata Wiara/sasiedzi, i tak nie doganiajac wszystkich. UWAGA: to wpis URYWKOWY — Owen dal gorzka prawde emocjonalna, nie jasna mape ani zadnej dzwigni; strategiczny kat (czy da sie ruszyc zamek/lorda ku wsparciu reliefu) NIE zostal odkryty w tej rozmowie."
+  "ZIMA I UBODZY POLNOCY (od Owena, 11-04, urywkowo): zima to egzystencjalna proba Polnocy — co roku smallfolk umieraja z zimna/glodu/chorob; dlugosc lata zwiastuje surowosc zimy (dlugie lato -> lek przed dluga zima; maesterzy czekaja bialego kruka Cytadeli). Lord (Manderly, najbogatszy pol. rod, port) NAPELNIA spichrze i prowiantuje — ale wg powinnosci prioryzuje UZYTECZNYCH (garnizon, rzemieslnicy, sluzba); sam dol (zebracy, sieroty, samotne wdowy) zawsze wypada poza to i tam lata Wiara/sasiedzi, i tak nie doganiajac wszystkich. UWAGA: to wpis URYWKOWY — Owen dal gorzka prawde emocjonalna, nie jasna mape ani zadnej dzwigni; strategiczny kat (czy da sie ruszyc zamek/lorda ku wsparciu reliefu) NIE zostal odkryty w tej rozmowie.",
+  "BRAAWIJSKIE INSTRUMENTY KREDYTOWE (z ksiag Nesty, 297-01-19, rzut 96): jak przenosic WARTOSC bez fizycznej gotowki przez dystans i czas - WEKSLE/listy kredytowe (zaplac tu, wyplac tam za pismem+pieczecia+zaufaniem), ubezpieczenie/rozproszenie ryzyka, commenda/consignment. To braawijska przewaga w GOTOWKOWO-UBOGIM rynku (gdzie 'brak plynnosci' dusi handel): kto umie CZYTAC, RACHOWAC i pisac takie instrumenty - a to dokladnie edge Symona - ma narzedzie, ktorego zaden lokalny partacz nie ma. LATENTNA PRZEWAGA do wdrozenia, gdy zdrowy + jest siec zaufania/kontrahenci (czesc spring/Braavos-gated). Uwaga: to tez rodzaj kompetencji, ktora sciaga powaznych faktorow (Rollam) - competence draws the fish (indirect path)."
  ],
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."

@@ -3111,3 +3111,6 @@ Wiedzaca kobieta z zaulka za laznia leczyla Symona (~3 jel z depozytu, 47->44 je
 
 ## 297-01-19 RANEK - lezenie/lektura + draw
 Symon lezy twardo, czyta prawo na wpol (gorączkowo, prawo+1); septa/Owen donosza strawe. Febra schodzi: zdrowie 52->58. DRAW NESTY odpalil: +6 jel do depozytu (44->50 jel), nastepny ~02-19 - srebro wpada mimo choroby (wspolnik nie najmita). Powrot gated na dalsze lezenie (~01-23/24). Decyzja rady ~01-22 - slate stoi bez niego.
+
+## 297-01-19->20 - braawijskie ksiegi (rzut 96)
+Rekonwalescencyjna lektura ksiag kupieckich Nesty dala silny insight: braawijskie instrumenty kredytowe (weksle/listy kredytowe, ubezpieczenie, commenda) - przenoszenie wartosci bez gotowki przez dystans/czas. Latentna przewaga leverujaca pismiennosc+rachunki Symona w gotowkowo-ubogim rynku; narzedzie, ktorego partacze nie maja. Do wdrozenia gdy zdrowy+siec (czesc spring-gated); buduje kompetencje sciagajaca faktorow (Rollam). handel+1, jezyki+1. Zdrowie 58->64 (febra schodzi).

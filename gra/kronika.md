@@ -3081,3 +3081,6 @@ Dzien po lustrze pychy Symon sluzyl ubogim z wlasciwego miejsca (bez winy/pychy)
 
 ## 297-01-14 ZMIERZCH - robota u Nesty (rzut 83)
 Solidna sesja ksiegowa (lean winter, keep). Nesta dala kupiecka aprobate tygodnia (kontra do checku Owena): kupno+2 lokatorow+zlozenie wniosku cicho->szybko przed wyciekiem = kupiec nie gracz; wyraznie dumna. Bonus-inteligencja: szept o kamieniczce laduje wsrod mieszczan glownie jako legitymacja (pomaga wnioskowi); opozycja wciaz bez sojusznika w radzie; pozycja przed ~01-22 mocna. Nesta nast 68->69, zauf 30->31. rachunki+1, audyt+1.
+
+## 297-01-15 - zlecenia z kregu (rzut 89)
+Obchod kregu dal 3 leady mimo lean winter (reputacja: uczciwe ksiegi/forensic audit/relief/kupiec-wlasciciel): (A) solidny fee-job przez Leone (ksiegi+umowa sukiennika), (B) delikatny premium przez Harlon/Merek (podejrzenie okradania przez magazyniera, forensic audit pod dyskrecja), (C) wieksza ryba nibble - powazniejszy kupiec/faktor sonduje 'skrybe co wypatruje wycieki'. Okno ~tydzien. UWAGA: wiecej klientow=wiecej sekretow (Owen/Nesta) - byc selektywnym. spryt_uliczny+1.

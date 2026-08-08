@@ -154,6 +154,12 @@
    "opis": "Rada miejska rozpatruje wniosek Symona o mieszczanstwo (zlozony 01-12, kupiec-wspolnik). Konsultuje cechy - Cech Pisarzy (Harwin) ZAPROTESTUJE (partacz), ale przeciw murowi: cechmistrz Boren + Leona + Aldous + Vox + poreczenie Wiary (poboznosc/sluzba). Pisarze bez sojusznika w radzie = slaby glos; Symon zlozyl PRZED wyciekiem (opozycja reaguje za pozno). Vox oferuje glos w radzie gdyby trzeba. Rozstrzygniecie ~01-22. Wynik NIEPRZESADZONY - mocna pozycja, nie pewnik.",
    "odpala": "297-01-22",
    "typ": "decyzja instytucjonalna"
+  },
+  {
+   "id": "zlecenia_krag_okno",
+   "opis": "Trzy leady doradcze z kregu (rzut 89, 01-15). Nie czekaja wiecznie - jesli Symon nie ruszy, klienci pojda gdzie indziej albo sprawa przygasnie ~tydzien.",
+   "odpala": "297-01-22",
+   "typ": "okazja (okno)"
   }
  ]
 }

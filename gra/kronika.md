@@ -3293,3 +3293,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Kalendarz: harwin ~02-12, podatek ~02-15,
 
 ## 297-02-10 - Godric audyt+rozmowa (rzut 49)
 Audyt-maintenance czysto (standing zaufanego doradcy trzyma), patron odgrzany (nast 49->52, zauf 9->10), oplata +3 jel (sakiewka->14). Info-edge: dwor/zamek szykuja wieksze wiosenne zamowienia (spojne z Garthem) - wiosna otworzy popyt. Spring-parcela: kredyt cieply, czeka na odwilz. rachunki+1, audyt+1.
+
+## 297-02-10 ZMIERZCH - Mira: oferta partnerstwa (rzut 55)
+Symon zlozyl Mirze ofNerte partnerstwa (kamieniczka+ksiega doradcza, udzial, autonomia) - czysto, bez zalotow. Preswietlila na ploy->szczera; rozbroil ja SZACUNEK (rowne partnerstwo+pole, nie klatka). REFRAME: martwy zalot -> zywy grunt zawodowy. Ostrozna/niezobowiazujaca (warunki, autonomia nienaruszalna, obserwuje szczerosc). nast 2->14, zauf 2->4. Fundament pod organiczne pozniej. retoryka+1, czytanie_ludzi+1.

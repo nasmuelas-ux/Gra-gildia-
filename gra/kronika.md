@@ -3147,3 +3147,6 @@ Symon (zdrowy, mieszczanin) przyszedl pomoc zajechanemu Owenowi. Wniosl porzadek
 
 ## 297-01-29 RANEK
 Wieczorem cwiczenia fizyczne (odbudowa po febrze, kondycja+1), sen, pelnia sil (zdrowie 100). Jutro wyplata Godrica. Zegary: Godric ~01-30, podatek ~02-15, harwin ~02-10, draw ~02-19.
+
+## 297-01-29 - podzieka Borenowi (rzut 44)
+Symon podziekowal Borenowi szczerze (+dzban, -6 mied). Boren gruf-cieplo, deflektowal, ale rad. Sober: on tez zaplacil (backing Symona = pomogl upokorzyc Pisarzy, Harwin nie zapomina). Sojusz z przysługi w mutual loyalty pod wspolnym ryzykiem - Symon winien wsparcie. nast 56->57, zauf 13->14. czytanie_ludzi+1. Harwin grozny tez backerom.

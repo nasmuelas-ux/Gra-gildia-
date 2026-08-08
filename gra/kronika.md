@@ -3138,3 +3138,6 @@ Symon przyjal nazwisko TALLY (rachunek/rozliczenie - 'czlowiek, u ktorego liczby
 
 ## 297-01-27 ZMIERZCH - robota u Nesty (rzut 35)
 Symon (mieszczanin, jeszcze slaby po febrze) wrocil do ksiag - sesja slamazarna (niedoleczony, rachunki+1, zdrowie->95). Nesta pogratulowala krotko, ale wycenila CIEZARY mieszczanstwa: podatki miejskie/pobor, powinnosci (straz/daniny/rada), widzialnosc/rozliczalnosc; + upokorzony Harwin to grozba ('upokorzony pies gryzie'). Nowy zegar podatek_miejski ~02-15. Nagroda z rachunkiem w malym druku.
+
+## 297-01-28 RANEK
+Pelnia sil wrocila (zdrowie 98). Symon Tally, mieszczanin, pierwszy pelny dzien zdrowia. Zegary: Godric ~01-30, podatek ~02-15, harwin czujnosc ~02-10, draw ~02-19.

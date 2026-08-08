@@ -3099,3 +3099,6 @@ Symon probowal cultivate faktora bezposrednio (bez napierania). Rollam uprzejmy,
 
 ## 297-01-16 ZMIERZCH - Bran (rzut 89)
 Cieply wieczor bez interesu. Rzadki zimowy statek dal Branowi kilka dni roboty + grosz na wesele (oddech, nie ratunek - proba mniej jak przepasc). W dobrym humorze, pierwszy raz TO ON postawil piwo; gadali o Alys/wiosnie. Przyjazn pogłębiona (nast 51->54). Symon wyszedl lzejszy - prawdziwy grunt/odpoczynek.
+
+## 297-01-17 - choroba (rzut 10)
+Symon sluzyl w przytulku (dobra sluzba, rep wiara 62->63, pismo+1), ale zaharowany i wsrod chorych zlapal zimowa zaraze. Pod wieczor goraczka/dreszcze/bol: zdrowie 85->70. Owen wygnal go do lozka. Zdrowienie ~3-5 dni GATED na odpoczynek (do ~01-21/22), praca przedluza. Pada w okno przed decyzja rady ~01-22.

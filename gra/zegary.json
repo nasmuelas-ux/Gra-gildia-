@@ -160,6 +160,12 @@
    "opis": "A (sukiennik Colm) ZROBIONE (fee ~3 jel, goodwill). B (delikatny/sekret) ODPUSZCZONE swiadomie (ryzyko sekretu - Owen/Nesta). C (faktor Rollam) UCHYLONE - cultivate/proving, nie szybki skok. Aktywne tylko C jako dlugofalowa relacja do budowy.",
    "odpala": "297-01-29",
    "typ": "relacja/cultivate (C)"
+  },
+  {
+   "id": "choroba_zdrowienie",
+   "opis": "Symon zlapal zimowa zaraze w przytulku (01-17). Zdrowie 70, goraczka. Zdrowienie GATED na ODPOCZYNEK - lezenie skraca, praca/wysilek/zimno przedluza i ryzykuje pogorszenie. Kondycja 7 sprzyja. Orientacyjnie zdrowy ~01-21/22, jesli odpoczywa. Pada w okno przed decyzja rady ~01-22.",
+   "odpala": "297-01-21",
+   "typ": "zdrowie"
   }
  ]
 }

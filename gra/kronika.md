@@ -3162,3 +3162,6 @@ LEONA: przyjela sucho (nie znosi fussu); pointed reminder - reczyla za UCZCIWOSC
 
 ## 297-01-30 ZMIERZCH - Nesta: nowy horyzont uslug kredytowych (rzut 85)
 Symon przyniosl Nescie insight z jej braawijskich ksiag (weksle/listy/commenda jako dzwignia). Nesta spojrzala jak na rownego; dala grunt: instrumenty zyja zaufaniem+wyplacalnym koncem+egzekwowalnoscia (cienko lokalnie), ale Symon ma teraz kawalki (burgher, pismo+rachunki, Nesta=braavijski koniec). Plan: zaczac malo (prosty weksel), dowiesc mechanizmu, rosnac. Nowy watek uslugi_kredytowe (handel zaufaniem i pismem - 3 ostrza Symona). nast 69->70, zauf 31->32. handel+1.
+
+## 297-01-30 ZMIERZCH - Nesta o Mirze (rzut 19)
+Symon pytal Nesty o Mire. Nesta (sama niezalezna wdowa) twarda prawda: chlod Miry moze byc GENUINE brakiem checi do malzenstwa (wolna pismienna wdowa ma powody nie oddawac autonomii/majatku), nie 'jeszcze niezdobyta'. Symon czyta to jak niedomkniety targ - moze slepy trop. 'Przestan rozgryzac ja jak zamek.' Deflacja, ale trzezwa (echo Owena/Serli). Nowy watek zona_partnerka. czytanie_ludzi+1. Nesta nast 70.

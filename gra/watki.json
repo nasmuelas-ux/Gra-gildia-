@@ -594,6 +594,13 @@
    "typ": "cel_strategiczny/horyzont",
    "stan": "297-01-30 ZASIANE (Nesta rzut 85): insight z choroby + grunt od Nesty. Warunki: zaufanie, wyplacalni kontrahenci, egzekwowalnosc (cienko lokalnie vs Braavos). Atuty Symona: burgher (egzekucja/wiarygodnosc), pismo+rachunki (pisac/sprawdzac), Nesta (braavijski koniec), reputacja uczciwosci. Ryzyko: reputacja forensyczna dwusieczna, Harwin. PLAN: START MALY - prosty weksel miedzy dwojgiem ufajacych, dowiesc mechanizmu, rosnac stopniowo. Czesc spring/network-gated.",
    "nastepne": "Gdy zdrowy/gotowy: znalezc PIERWSZA prosta parę (dwoje ufajacych sobie, realna potrzeba przeniesienia wartosci bez gotowki) i wystawic pilotazowy weksel - dowod mechanizmu. Konsultowac z Nesta (braavijski koniec/wzory). Budowac powoli reputacje wiarygodnego brokera kredytu."
+  },
+  {
+   "id": "zona_partnerka",
+   "opis": "Poszukiwanie zony-PARTNERKI (pismiennej, obrotnej, niezaleznej) w swiecie kupieckim/braavijskim (nie w swiecie Serli/ludu, gdzie takich nie ma). Glowny trop: Mira. Madrosc Owena/Serli/Nesty: nazwisko i zona to owoce BYCIA, nie lupy do targu; nie traktowac jak deal.",
+   "typ": "aspiracja/relacja",
+   "stan": "297-01-30 (Nesta rzut 19): REFRAME. Nesta (sama niezalezna wdowa) ostrzegla: chlod Miry moze byc GENUINE brakiem checi do malzenstwa (wolna wdowa ma powody nie oddawac autonomii/majatku mezowi), nie 'jeszcze niezdobyta'. Symon czytal to jak niedomkniety targ - moze slepy trop niezaleznie od cierpliwosci. Lekcja (echo Owena/Serli): przestac rozgryzac jak zamek, nie projektowac pragnienia na jej milczenie. Mira: nast ~2, drift ku 0.",
+   "nastepne": "NIE napierac na Mire. Jesli w ogole - podejsc nie jak zalotnik/kupiec, lecz z szacunkiem dla jej niezaleznosci (jesli mialoby cokolwiek byc, to jako partnerstwo rownych, nie akwizycja). Rozwazyc, ze to moze byc slepy trop; nie robic z tego obsesji. Ewentualnie z czasem inne znajomosci w swiecie kupieckim. Priorytet: byc, nie zdobywac."
   }
  ]
 }

@@ -755,7 +755,7 @@
    "leki": [
     "nierzetelni wspolnicy"
    ],
-   "nastawienie_do_gracza": 37,
+   "nastawienie_do_gracza": 41,
    "zaufanie": 5,
    "wie_o_graczu": [
     "dotrzymal slowa na umowie cechowej",
@@ -768,12 +768,11 @@
     "297-02-14 (rzut 79): Symon przyszedl z KONKRETEM (nie mglistymi sygnalami): dwor/Nowy Zamek szykuja wieksze wiosenne zamowienia (Godric) + celna fala (Garth) - kto/co/kiedy kupuje. Torsen (pragmatyk) odgrzal sie na konkret. PLAN: pozycjonowanie na wiosne - Torsen dogaduje z Halvardem pojemnosc/warunki (gdy Bialy Noz puści), gotowi wypelnic zamowienia dworu; Symon=OGNIWO/BROKER (strona popytu dwor <-> strona podazy drewno, za prowizje - brokerage na wiedzy wg Nesty). ALE Halvard wciaz milczy (deep-North), strona podazy krucha do odwilzy. nast 34->41."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-02-22",
+   "ostatni_kontakt": "297-02-14",
    "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'",
    "historia": [
     "m11d14: rozmowa o oknie na glebie Polnocy (rzut 36). Torsen cieplo (wiecej interesu), potwierdza: siec Halvarda SIEGA glebiej niz drewno/1 proba futer — futra/skory/bursztyn + loj, wosk, miod, rog/kosc, polnocne specjaly. ALE limity: ZIMA scina podaz glebi do zera (traperzy/klany/gora ruszą dopiero wiosną, Bialy Noz zamarza), i Torsen NIE zaangazuje Halvarda na wieksza skale, poki proba futer nie udowodni popytu/marzy w Braavos (~12-20). Timber jego priorytet -> facylitator nie driver. WNIOSEK: pipeline WIOSENNY zmapowany, teraz nic nie plynie. Torsen 26->28.",
-    "m12d03 rzut81: cieply kontakt, kanal utrzymany. Wiesc z glebi: FUTRA DOTARLY DO BRAAVOS bezpiecznie (rejs - ryzykowna czesc - udal sie; sprzedaz/wynik pending ~12-20). Halvard sygnalizuje, ze WIOSENNY pipeline polnocny (futra/skory/bursztyn/loj) szykuje sie DOBRZE - gated na to, czy futra pokaza popyt/marze. Torsen bardziej zaangazowany (facilitator->cieplejszy). Nast 28->31.",
-    "297-02-22 (rzut 3, crit-low - okolicznosciowy, nie verdykt Halvarda): Symon przyszedl POZYTYWNIE - z demand-intel (Nowy Zamek szykuje wiosenne zaopatrzenie/Godric, popyt dworu firmuje) by wzmocnic broker-plan. ALE trafil na Torsena ZIMNEGO i ZNIECHECONEGO: do portu saczą sie GRIM szepty z glebi Polnocy - tegoroczna zima INLAND wyjatkowo sroga (rzeki skute twardziej/dluzej, ciezar w glebi), i Torsen (kruchy, wobbluje gdy podaz drzy - wzorzec z 02-02) spietrzyl sie: jego demand-optymizm Symona odczytal jako NAIWNY wobec podazy, ktora moze paść. Wizyta NIE zbudowala partnerstwa - obnazyla krucosc Torsena, ochlodzila. Symon przeczytal (spryt), nie pchal, wycofal. WAZNE: to NIE verdykt kanalu (zegar polnoc_halvard wciaz ~03-15; Halvard nie potwierdzony stracony) - to podniesione RYZYKO+emocjonalny chlod. NAUKA: Torsen to kruchy partner co wobbluje pod supply-lekiem; broker-plan stoi na chwiejnej nodze podazy. nast 41->37, zauf 5 hold."
+    "m12d03 rzut81: cieply kontakt, kanal utrzymany. Wiesc z glebi: FUTRA DOTARLY DO BRAAVOS bezpiecznie (rejs - ryzykowna czesc - udal sie; sprzedaz/wynik pending ~12-20). Halvard sygnalizuje, ze WIOSENNY pipeline polnocny (futra/skory/bursztyn/loj) szykuje sie DOBRZE - gated na to, czy futra pokaza popyt/marze. Torsen bardziej zaangazowany (facilitator->cieplejszy). Nast 28->31."
    ]
   },
   {

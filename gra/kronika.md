@@ -3093,3 +3093,6 @@ Symon wplacil 10 jel na DEPOZYT u Nesty (za kwitem, oszczednosci - NIE wkład w 
 
 ## 297-01-16 RANEK - Hal (rzut 43)
 Symon zaszedl zalagodzic. Ksiega czysta, bez samowoli (lekcja przyjeta), ale Hal wciaz lekko zraniony/chlodnawy. Symon nie karcil - dal wazna niewrazliwa robote (podsumowanie miesiaca reliefu) = zaufanie bez ryzyka; lod peka troche (nast 53->54). Pelny powrot potrzebuje czasu. Symon w roli Owena. czytanie_ludzi+1, organizacja+1.
+
+## 297-01-16 POPOLUDNIE - cultivate Rollama (rzut 41)
+Symon probowal cultivate faktora bezposrednio (bez napierania). Rollam uprzejmy, ale sie nie ruszyl - druga wizyta w tydzien sygnalizuje potrzebe, co studzi ostroznego. Symon przeczytal: tej ryby nie lowi sie chodzeniem do niej; przyjdzie sam, gdy reputacja dotrze cudzymi ustami. Drobny plus (nast 6->8) + nauka: nie kurtyzowac wprost, budowac imie gdzie indziej. czytanie_ludzi+1.

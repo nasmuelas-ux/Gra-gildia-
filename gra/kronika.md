@@ -3090,3 +3090,6 @@ A (rzut 83): sukiennik Colm (referral Leony) - uzgodnil ksiegi + spisal umowe wi
 
 ## 297-01-15 ZMIERZCH - wplata na depozyt
 Symon wplacil 10 jel na DEPOZYT u Nesty (za kwitem, oszczednosci - NIE wkład w spolke/equity). Sakiewka 11->1 jel (+10 mied), depozyt 3700->4700 mied (37->47 jel). Plynnosc w kieszeni teraz chuda (1 jel+10 mied) - swiadomy wybor konsolidacji; depozyt wyjmowalny.
+
+## 297-01-16 RANEK - Hal (rzut 43)
+Symon zaszedl zalagodzic. Ksiega czysta, bez samowoli (lekcja przyjeta), ale Hal wciaz lekko zraniony/chlodnawy. Symon nie karcil - dal wazna niewrazliwa robote (podsumowanie miesiaca reliefu) = zaufanie bez ryzyka; lod peka troche (nast 53->54). Pelny powrot potrzebuje czasu. Symon w roli Owena. czytanie_ludzi+1, organizacja+1.

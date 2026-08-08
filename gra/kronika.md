@@ -3168,3 +3168,6 @@ Symon pytal Nesty o Mire. Nesta (sama niezalezna wdowa) twarda prawda: chlod Mir
 
 ## 297-02-01 RANEK - nowy miesiac, Wielki Targ
 Symon spal, obudzil sie w nowym miesiacu jako Symon Tally, mieszczanin. Wielki Targ pierwszego dnia (Schody/port). Rozdzial 'od nedzy do korzenia' domkniety; przed nim faza budowania. Zegary: harwin ~02-10, podatek miejski ~02-15, draw ~02-19.
+
+## 297-02-01 - Wielki Targ (rzut 68)
+Symon rozejrzal sie po targu okiem kupca: intel (sol/opal/mieso drogie, zamorskie sukno), burgher-standing potwierdzony (klaniaja sie). KLUCZOWE: zlokalizowal PILOT uslug kredytowych - deal wiszacy na braku gotowki (prowiantnik ↔ kupiec krotki-w-kiesie do wiosny), idealny na prosty datowany weksel. Nastepne: sprawdzic strony + ustawic z Nesta -> pilotaz. spryt_uliczny+1, handel+1.

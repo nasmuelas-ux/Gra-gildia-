@@ -3252,3 +3252,6 @@ Symon publicznie odbil szept Harwina na dniu Matki - nazwal go zbirem sączacym 
 
 ## 297-02-07 ZMIERZCH - Torren: forum i litera na Harwina (rzut 54)
 Torren dal mape: forum=skarga do rady jako obrona porzadku (nie vendetta), standard=potwierdzony WZOR kilku wiarygodnych chetnych swiadkow pod przysiega (bar wysoki). Caveaty: crux=strwozeni swiadkowie musza zechciec stanac; Ryman-entanglement (gleboka woda/Winterfell); ekspozycja Symona; Torren kompas nie taran. Nastepne: cichy wywiad o innych ofiarach + czy ktos stanie. prawo+1.
+
+## 297-02-07 ZMIERZCH - Owen: hamulec ws. ofiar Harwina (rzut 23)
+Symon przyszedl po ofiary Harwina; Owen ODMOWIL - krzywdy w Sepcie sa w zaufaniu, nie orez (chroni ofiary+zasade Wiary). Check: wojna/pycha nie sprawiedliwosc. KLUCZOWE: gorąca lokalna wojna moze SPLOSZYC sfore i wysadzic cierpliwe sledztwo Winterfell, ktore Owen juz prowadzi (Ansell/kruk) - jedyna prawdziwa bron. Rada: cierpliwosc. Zrodlo Faith zamkniete. nast 71->70. czytanie_ludzi+1.

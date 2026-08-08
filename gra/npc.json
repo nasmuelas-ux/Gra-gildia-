@@ -392,7 +392,7 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 71,
+   "nastawienie_do_gracza": 70,
    "zaufanie": 18,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
@@ -452,10 +452,11 @@
     "297-01-18: napar septy nie pomogl, u Symona rozkrecila sie powazna zimowa febra (zdrowie 50). Owen szczerze zaniepokojony, dotyka czola, radzi POSLAC PO PRAWDZIWEGO UZDROWICIELA - to juz nie kwestia lezenia. Pastoralna troska/czuwanie nad chorym charge.",
     "297-01-20 (rzut 26): Symon chory, wiercacy sie (niecierpliwosc - decyzja rady za 2 dni, on bezradny) sciagnal Owena na dluzsza rozmowe/otuche. Owen ZAJECHANY - zimowa febra idzie przez caly przytulek, Symon jeden z wielu. Dotknal czola (rad, ze schodzi), ale slowa krotkie, zmeczone: 'rada rozstrzygnie beze mnie i bez ciebie; zostawiles mur poreczen, reszta nie w twoich rekach - oddaj to i zdrowiej' - i poszedl do nastepnego chorego. Symon zostal z wlasna niecierpliwoscia i lekcja, ze swiat nie kreci sie wokol niego. Bez urazy (nast 68), tylko cienki moment.",
     "297-01-28 (rzut 73): Symon - juz zdrowy, swiezo mieszczanin Symon Tally - przyszedl POMOC zajechanemu Owenowi, nie po rade. Wniosl porzadek w przeciazony przytulek (ksiega chorych/zapasow, rozdzial strawy rowno, listy do rodzin); sam niedawno w tej febrze - wie, czego chory potrzebuje. Przytulek zaczal chodzic jak dobra faktoria; Owen pierwszy raz od tygodnia usiadl odetchnac. 'Matka mi ciebie zeslala' - bez cienia troski o mamone: charge z nazwiskiem/domem kleczy przy kotle ubogich i dzwiga cudzy ciezar = rownowaga, o ktora sie bal, zobaczona cala. nast 68->71, zauf 17->18.",
-    "297-02-07: Symon publicznie odbil szept Harwina w Sepcie (rzut 71) - Owen dumny, ze charge stanal w PRAWDZIE, ale ZANIEPOKOJONY: Septa Matki to nie pole bitwy, a Symon podniosl stawke (eskalacja jawnej wojny z Harwinem)."
+    "297-02-07: Symon publicznie odbil szept Harwina w Sepcie (rzut 71) - Owen dumny, ze charge stanal w PRAWDZIE, ale ZANIEPOKOJONY: Septa Matki to nie pole bitwy, a Symon podniosl stawke (eskalacja jawnej wojny z Harwinem).",
+    "297-02-07 (rzut 23): Symon przyszedl po nazwiska ofiar Harwina do sprawy. Owen ODMOWIL - z zasady i troski: krzywdy przyniesione do Septy sa w ZAUFANIU, nie orez (weaponizacja zdradzilaby skrzywdzonych + wystawila ich na odwet Harwina; Wiara nie zbrojownia). Pastoralny check: dzien po publicznym ciosie Symon zbiera armie = wojna i pycha, nie sprawiedliwosc. KLUCZOWE: Owen JUZ ciagnie nitke Ryman/Harwin ku Winterfell (Ansell/kruk) cierpliwie z cienia; gorąca lokalna wojna Symona moze SPLOSZYC sfore i WYSADZIC to sledztwo (jego jedyna prawdziwa bron). Rada: cierpliwosc, niech wolna sprawiedliwosc Polnocy zrobi swoje; nie robic z Wiary wojennej kancelarii, nie narazac ofiar/sledztwa. nast 71->70 (troska nie zerwanie)."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-01-28",
+   "ostatni_kontakt": "297-02-07",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },

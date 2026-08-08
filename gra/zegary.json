@@ -111,14 +111,6 @@
    "GOTOWE": true
   },
   {
-   "id": "draw_nesta",
-   "typ": "dochod",
-   "odlicza_do": "297-01-19",
-   "opis": "Miesieczny DRAW wspolnika ~6 jeleni z kantoru Nesty (start 12-19). Recurring. + osobno: 1/3 netto z transakcji Symona i rosnacy udzial w core-faktorii (prowadzone przez Nesta w ksiegach).",
-   "co_sie_stanie": "~miesiecznie: kapie draw 6 jel; udzial/1/3 do rozliczenia z Nesta",
-   "widoczny_graczowi": true
-  },
-  {
    "id": "konsult_torren_mieszczanstwo",
    "typ": "okazja",
    "odlicza_do": "297-01-03",
@@ -163,9 +155,15 @@
   },
   {
    "id": "choroba_zdrowienie",
-   "opis": "01-18: uzdrowicielka ZATRZYMALA febre (rzut 39), nie zlamala - zdrowie 52, stabilizacja. Powrot SLOW, GATED na twarde plaskie lezenie (~01-23/24). Wstanie za wczesnie/wysilek/zimno = NAWROT gorszy. Kondycja 7 + mlodosc sprzyjaja. Decyzja rady ~01-22 wypadnie w chorobie - slate stoi bez Symona.",
+   "opis": "01-19: febra w odwrocie (zdrowie 58, twarde lezenie dziala). Powrot ~01-23/24 przy dalszym odpoczynku. Przedwczesny wysilek/zimno = ryzyko nawrotu.",
    "odpala": "297-01-23",
    "typ": "zdrowie"
+  },
+  {
+   "id": "draw_nesta",
+   "opis": "Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt.",
+   "odpala": "297-02-19",
+   "typ": "dochod cykliczny"
   }
  ]
 }

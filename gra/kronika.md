@@ -3108,3 +3108,6 @@ Napar septy zawiodl (nie utrzymal go), noc rozkrecila febre zamiast ja zbic. Nad
 
 ## 297-01-18 - uzdrowicielka (rzut 39)
 Wiedzaca kobieta z zaulka za laznia leczyla Symona (~3 jel z depozytu, 47->44 jel): gorzki napar (utrzymal), ocet, oklad, cos na sen. Febra ZATRZYMANA nie zlamana - zdrowie 50->52, koniec osuwania. Kazala twardo lezec kilka dni (~01-23/24); wstanie za wczesnie = nawrot gorszy. Decyzja rady ~01-22 w chorobie - slate stoi bez niego.
+
+## 297-01-19 RANEK - lezenie/lektura + draw
+Symon lezy twardo, czyta prawo na wpol (gorączkowo, prawo+1); septa/Owen donosza strawe. Febra schodzi: zdrowie 52->58. DRAW NESTY odpalil: +6 jel do depozytu (44->50 jel), nastepny ~02-19 - srebro wpada mimo choroby (wspolnik nie najmita). Powrot gated na dalsze lezenie (~01-23/24). Decyzja rady ~01-22 - slate stoi bez niego.

@@ -3281,3 +3281,6 @@ Symon poprowadzil triage tick Merka - czysto, ale diagnoza grim: zimowy tick w w
 
 ## 297-02-09 ZMIERZCH - Wenda (rzut 8, KRYT)
 Symon zaszedl po 7 tyg. - Wenda zimno. Przespal WESELE BESS (jej corki) + zaniedbal ja (wziela go jak rodzine, reczyla u ludu). Zraniona ('za wielki na Rybi Zaulek?'); nast ~29->22, porękа nadszarpnieta. WZORZEC (3. raz: Nesta/Hal/Wenda): awans zaniedbuje korzenie, co mialy trzymac i bronic. Lustro: pnac sie, gubi ludzi u dolu, co go podnieśli. czytanie_ludzi+1.
+
+## 297-02-09 KOREKTA - Wenda (febra jako powod)
+Sprostowanie: wesele Bess wypadlo w oknie febry Symona (17-27, o krok od smierci) - realny honorowy powod, Wenda nie wiedziala, ze chorowal. Prawda rozbroila krzywdę: Wenda zmiekla (chlod byl z domyslu nie z serca), nast 22->31, wiez niemal-rodziny wraca. Maly okruch: od wyzdrowienia mogl poslac slowo (przyznal). Wenda WYPADA z wzorca zaniedbania (to byl chory); punkty Nesta/Hal stoja osobno.

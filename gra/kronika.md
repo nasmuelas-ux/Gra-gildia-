@@ -3213,3 +3213,6 @@ Symon wybadal realny bol Merka: PRZEKREDYTOWANIE zimowe (kapital rozsypany po cu
 
 ## 297-02-04 ZMIERZCH - usluga zarzadcza dla Merka (rzut 77)
 Symon zaproponowal usluge trafiajac w bol Merka. Merek wzial na probe (wycinek: wiekowanie/ekspozycja) - od razu pokazal wartosc (ekspozycja, 2 martwe ryzyka). Obowiazek splacony czynem, drugi klient domeny, oplata +3 jel (sakiewka->12). nast 24->30, zauf 5->6. Follow-on: weksle/rozproszenie. Wciaz winien dbalosc Harlonowi. rachunki+1, audyt+1.
+
+## 297-02-04 ZMIERZCH - Serla (rzut 59)
+Cieply grounding wieczor u Serli. Tom zdrow, dom lzejszy. Serla dumna po swojemu, ale trzyma Symona przy ziemi smiechem ('nie zadzieraj nosa, pamietam cie glodnego') - ziemska kotwica bez interesu. Symon wyszedl lzejszy. nast 38->39.

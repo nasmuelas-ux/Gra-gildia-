@@ -3414,3 +3414,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-19 POPOLUDNIE/NOC: Symon domknal dzien lzej - jedzenie, sen. Traktat ruszyl (fundament), draw wplynal, oszczednosci skonsolidowane (40 jel depozyt). Noc spokojna.
 297-02-20 RANEK: Wypoczety. Cicho. Harwin ~02-25 (za 5 dni). Mroz trzyma.
+
+297-02-20 RANEK: Symon zjadl i odwiedzil Wende na Targu Rybnym (rzut 95, wybitnie). Cieplo, febra-nieporozumienie za nimi; Bess+Dake dobrze. STRATEGICZNY NUGGET: dol (przekupki/tragarze/biedota) ODPORNY na szept Harwina - pamietaja relief, kontrują slander instynktownie; realny rezerwuar obronny (deed>whisper wcielone w warstwe). Wenda=wezel counter-whisper. nast 38->43, zauf 13->14.

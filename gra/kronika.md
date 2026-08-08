@@ -3042,3 +3042,6 @@ Po Borenie Symon poszedl do Leony (po 3 tyg. absencji - otworzyl uczciwie, co on
 
 ## 297-01-10 ZMIERZCH - Aldous: poreczenie #3 miekkie (rzut 53)
 Symon zlapal Aldousa przy dzbanie w karczmie. Natychmiastowe cieple TAK, ale luzne (obietnica przy winie - dokrecic na trzezwo/Torren). Ryzyko gadatliwosci vs 'cicho' - Symon poprosil o dyskrecje (zlagodzone). Poreczenia: Boren✓ Leona✓ Aldous✓(miekkie). Zostaje Vox (rano) + Wiara. Aldous nast 50->52, zauf 11->12. czytanie_ludzi+1. Symon zmeczony (3. podryw dnia).
+
+## 297-01-11 RANEK - Aldous dokrecony (rzut 82)
+Sniadanie, potem Symon zlapal Aldousa na trzezwo przy porannym inwentarzu i dokrecil karczmowa obietnice: poreczenie z miekkiego na solidne, do wciagniecia przez Torrena; Aldous sam pojal wage dyskrecji. Poreczenia: Boren✓ Leona✓ Aldous✓. Zostaje Vox + Wiara. Aldous nast 52->53, zauf 12->13.

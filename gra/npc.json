@@ -1113,15 +1113,16 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 52,
-   "zaufanie": 12,
-   "ostatni_kontakt": "297-01-10",
+   "nastawienie_do_gracza": 53,
+   "zaufanie": 13,
+   "ostatni_kontakt": "297-01-11",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
     "chce pewniejszego/tanszego zrodla wina; wie, ze Symon ma kanal braavijski",
     "d20 (rzut 58): cieply reconnect po 15 dniach. Pending wino (dojdzie przy odwilzy, splaca pozyczke) na torze. Wine ANCHOR: Aldous chetny byc pewnym odbiorca braavijskiej nogi WINNEJ, gdy Symon zdola sprowadzic (wiosna) - de-risk jak zelazo Borena (gwarantowany offtake, consignment/niski cash). Dal tez uzyteczny odczyt wina (jakie gatunki/ceny moze ruszyc) do sprawdzenia spreadu. Nic nie plynie teraz (zima) - plan wiosenny firmed.",
-    "297-01-10 ZMIERZCH (rzut 53): zlapany przy dzbanie w karczmie portowej. Na prosbe o PORECZENIE mieszczanstwa - natychmiastowe cieple TAK ('za ciebie recze choćby jutro'), bo widzi w Symonie swojego braawijskiego czlowieka od wina (wine-anchor). MIEKKIE: obietnica przy winie, luzna - Symon (ostroznie) wie, ze trzeba ja potwierdzic na trzezwo/wciagnac przez Torrena, nim zaważy w radzie. RYZYKO: Aldous gadatliwy - moze wygadac przy nastepnym dzbanie (prosto pod 'cicho' Borena); Symon poprosil o dyskrecje do zlozenia papierow (zlagodzone, kiwnal). Wine-anchor wiosennej spolki wciaz na torze. nast 50->52, zauf 11->12."
+    "297-01-10 ZMIERZCH (rzut 53): zlapany przy dzbanie w karczmie portowej. Na prosbe o PORECZENIE mieszczanstwa - natychmiastowe cieple TAK ('za ciebie recze choćby jutro'), bo widzi w Symonie swojego braawijskiego czlowieka od wina (wine-anchor). MIEKKIE: obietnica przy winie, luzna - Symon (ostroznie) wie, ze trzeba ja potwierdzic na trzezwo/wciagnac przez Torrena, nim zaważy w radzie. RYZYKO: Aldous gadatliwy - moze wygadac przy nastepnym dzbanie (prosto pod 'cicho' Borena); Symon poprosil o dyskrecje do zlozenia papierow (zlagodzone, kiwnal). Wine-anchor wiosennej spolki wciaz na torze. nast 50->52, zauf 11->12.",
+    "297-01-11 RANEK (rzut 82): Symon zlapal go NA TRZEZWO przy porannym inwentarzu, dokrecic wczorajsza karczmowa obietnice. Aldous stanal za slowem twardo i jasno - poreczenie z miekkiego -> SOLIDNE, do wciagniecia przez Torrena. Na trzezwo sam pojal wage dyskrecji (cicho do zlozenia papierow) - ryzyko gadatliwosci zdjete. nast 52->53, zauf 12->13."
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
    "historia": [

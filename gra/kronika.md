@@ -3416,3 +3416,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-20 RANEK: Wypoczety. Cicho. Harwin ~02-25 (za 5 dni). Mroz trzyma.
 
 297-02-20 RANEK: Symon zjadl i odwiedzil Wende na Targu Rybnym (rzut 95, wybitnie). Cieplo, febra-nieporozumienie za nimi; Bess+Dake dobrze. STRATEGICZNY NUGGET: dol (przekupki/tragarze/biedota) ODPORNY na szept Harwina - pamietaja relief, kontrują slander instynktownie; realny rezerwuar obronny (deed>whisper wcielone w warstwe). Wenda=wezel counter-whisper. nast 38->43, zauf 13->14.
+
+297-02-20 POLUDNIE: Symon wrocil do traktatu z Halem (rzut 18 - sesja stracona okolicznosciowo). Hala wezwano do posługi w Sepcie (zima/ubodzy, Owen przygnieciony, potrzeba rak przy jalmuznie). Symon pchal solo na knotty sekcji (skim rozlozony na wiele ksiag) - bez drugiej reki malo. Sesja stracona, projekt bez szkody. REALIZACJA: Hal dzieli sie z Septa - stajnia wymaga rak naprawde jego / koordynacji z Owenem. Constraint nazwany.

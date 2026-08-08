@@ -3237,3 +3237,6 @@ Cieply reconnect z Garthem (pisarz celny, znudzony w zimowej komorze). Info-edge
 
 ## 297-02-06 ZMIERZCH - Hal (rzut 6, KRYT)
 Symon zajrzal po 3 tyg. nieobecnosci. Podwojny balagan: ksiega reliefu poplatana (Hal nadmandatowo poprzesuwal/osadzil - naprawialne) + ocieplenie cofniete (Hal zimny, czuje sie porzucony: 'dales mi ksiege i zniknales'). Uraza po czesci zasluzona (nieobecnosc Symona). Nauka na Symona: nie mentoruje sie przez nieobecnosc. nast 54->46. Do zrobienia: rozsupłać ksiege + odbudowac chlopaka. czytanie_ludzi+1, organizacja+1.
+
+## 297-02-06 ZMIERZCH - naprawa Hala (rzut 81)
+Symon zagral jak Owen: chleb+wspolne rozsupłanie ksiegi, przyznal wlasny blad nieobecnosci, pozyczyl ksiazke o rachunkach + standardy audytu. Glod znaczenia Hala przekierowany ku legalnemu mistrzostwu fachu; wzruszony (wart inwestycji), lod pekl glebiej niz przed potknieciem. nast 46->56, zauf+2. Nauka: mentorstwo obecnoscia. organizacja+1, czytanie_ludzi+1.

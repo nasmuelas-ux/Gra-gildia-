@@ -3126,3 +3126,6 @@ Symon szczerze podziekowal tym, co przyszli: Branowi (siadlo), Serli (odeslal ga
 
 ## 297-01-22 RANEK - DECYZJA RADY: MIESZCZANSTWO PRZYZNANE (rzut 51)
 Torren przyniosl choremu Symonowi wiesc: rada PRZYZNALA mieszczanstwo. Slate (Boren/Leona/Aldous/Vox + Wiara) i glos Voxa na sali pobily veto Cechu Pisarzy (bez sojusznika w radzie). WARUNKOWO: wyzsza oplata ~12 jel + osobista przysiega ~01-27. Cena uboczna: Harwin/Pisarze przegrali publicznie -> uraza zaostrzona (Harwin nast -3, wrog zajadlejszy). Zdrowie 70->82 (febra zeszla). Zostaje przysiega+oplata -> pelnoprawny mieszczanin.
+
+## 297-01-22->27 - rekonwalescencja -> dzien przysiegi
+Symon odpoczywal, zdrowial (zdrowie 82->92, febra minela, choroba rozwiazana). Owen usiadl z nim raz spokojnie po ludzku. 27-go: dzien PRZYSIEGI mieszczanskiej. Wstal zdrow, oplata ~12 jel w depozycie, Torren gotow poprowadzic przed rade. Uwaga na ostatnia zaczepke Harwina/Pisarzy.

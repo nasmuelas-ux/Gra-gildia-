@@ -7,9 +7,9 @@
  "miasto": "Bialy Port",
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
- "zdrowie": 82,
+ "zdrowie": 92,
  "sytosc": 58,
- "zmeczenie": 12,
+ "zmeczenie": 6,
  "sakiewka": {
   "miedziaki": 10,
   "jelenie": 1,
@@ -116,14 +116,7 @@
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."
  },
  "depozyt_u_nesty_mied": 5000,
- "stany": [
-  {
-   "co": "rekonwalescencja po zimowej febrze",
-   "od": "297-01-17",
-   "do_ok": "~01-24 (slabosc ustepuje)",
-   "efekt": "zdrowie 82 i rosnie; febra zeszla, nogi jeszcze miekkie. Lekka aktywnosc OK, ciezki wysilek jeszcze nie. Fit do przysiegi ~01-27."
-  }
- ],
+ "stany": [],
  "wspolnictwo_nesta": {
   "draw_jel_mies": 6,
   "draw_ostatni": "297-01-19",

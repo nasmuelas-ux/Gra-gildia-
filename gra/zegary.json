@@ -148,12 +148,6 @@
    "typ": "relacja/cultivate (C)"
   },
   {
-   "id": "choroba_zdrowienie",
-   "opis": "01-22: febra zeszla, zdrowie 82, slabosc ustepuje (~01-24). Fit do przysiegi ~01-27.",
-   "odpala": "297-01-24",
-   "typ": "zdrowie"
-  },
-  {
    "id": "draw_nesta",
    "opis": "Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt.",
    "odpala": "297-02-19",

@@ -3311,3 +3311,6 @@ Sen po robotnym dniu (3 cieple relacje: Bran x2, Hal). Kalendarz: harwin ~02-12 
 
 ## 297-02-11 - pomoc w sepcie + sprawa Harwina (rzut 34)
 Sluzba grunt bez blasku (rep wiara 65->66, wiez z Owenem trzyma). Cicho dotkneli sprawy Harwina: sciana strachu stoi - nikt jeszcze nie gotow stanac (dobrowolni swiadkowie). Owen: cierpliwosc, dojrzewa wolno/przez Winterfell. pismo+1, czytanie_ludzi+1.
+
+## 297-02-11 - Boren (rzut 73)
+Sojusz podlany (nast 57->59, mutual loyalty). Insider-intel: Cech Pisarzy nie stoi murem za Harwinem (frakcja Rymana + osobista krucjata; reszta skrybow zmeczona, patrzy krzywo na niego po wpadkach dnia Matki) - Harwin bardziej isolowany, 'uczynic nieistotnym' dziala. Boren = wczesne ostrzezenie (ucho w cechu). czytanie_ludzi+1.

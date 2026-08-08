@@ -3171,3 +3171,6 @@ Symon spal, obudzil sie w nowym miesiacu jako Symon Tally, mieszczanin. Wielki T
 
 ## 297-02-01 - Wielki Targ (rzut 68)
 Symon rozejrzal sie po targu okiem kupca: intel (sol/opal/mieso drogie, zamorskie sukno), burgher-standing potwierdzony (klaniaja sie). KLUCZOWE: zlokalizowal PILOT uslug kredytowych - deal wiszacy na braku gotowki (prowiantnik ↔ kupiec krotki-w-kiesie do wiosny), idealny na prosty datowany weksel. Nastepne: sprawdzic strony + ustawic z Nesta -> pilotaz. spryt_uliczny+1, handel+1.
+
+## 297-02-01 ZMIERZCH - due diligence stron (rzut 66)
+Symon sprawdzil obie strony pilota kredytowego. Prowiantnik GREEN (solidny, realnie musi sprzedac). Kupiec AMBER (uczciwy, ale wiosenne naleznosci = prawdopodobienstwo, nie pewnik - wisza na statku+dluzniku). Werdykt: proceed roztropnie (mala kwota, krotki termin, oplata za ryzyko, lekkie zabezpieczenie; ekspozycja ograniczona). Nastepne: ustawic z Nesta + zaproponowac. audyt+1, czytanie_ludzi+1.

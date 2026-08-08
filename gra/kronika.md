@@ -3246,3 +3246,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Dzien Matki (handel zamkniety, miasto w S
 
 ## 297-02-07 dzien Matki - Harwin rusza (rzut 27)
 Symon sluzyl szczerze, ale Harwin obecny zagral PUBLICZNYM SZEPTEM ('obcy gra swietego dla statusu') przy kupieckim sredniaku. Taktyka odsloniena: whisper-warfare w miejscach publicznych (brak brudu->trucie imienia). Owen po stronie Symona, ale szeptu nie rozbroi. rep wiara 65 (netto plasko). Kontra: byc niezaprzeczalnie prawdziwym, czyn>szept, nie prowokowac sie. pismo+1, czytanie_ludzi+1.
+
+## 297-02-07 ZMIERZCH - publiczna riposta Harwinowi (rzut 71)
+Symon publicznie odbil szept Harwina na dniu Matki - nazwal go zbirem sączacym jad i sciagajacym ludzi ze strachu, co poucza w Sepcie o dobru i zlu. Frame odwrocony (tlum pamieta najscie), Harwin wystawiony jako przesladowca-hipokryta, pierwszy raz ON placi koszt przy swiadkach (rep Schody 28->30). KOSZT: wojna jawna/osobista, Harwin wsciekly szykuje odwet twardszy (cios, nie plotka). Owen dumny z prawdy, ale zaniepokojony eskalacja. retoryka+1, czytanie_ludzi+1.

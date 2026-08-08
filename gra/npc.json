@@ -451,7 +451,8 @@
     "297-01-17: Symon zaharowany i ocierajacy sie o chorych zlapal zimowa zaraze przy sluzbie w przytulku. Owen dotknal czola, wygnal go do lozka ('Matka nie chce, bys padl karmiac jej owieczki') - pastoralna troska, kaze mu odpoczac. Sluzba doceniona, ale cialo placi.",
     "297-01-18: napar septy nie pomogl, u Symona rozkrecila sie powazna zimowa febra (zdrowie 50). Owen szczerze zaniepokojony, dotyka czola, radzi POSLAC PO PRAWDZIWEGO UZDROWICIELA - to juz nie kwestia lezenia. Pastoralna troska/czuwanie nad chorym charge.",
     "297-01-20 (rzut 26): Symon chory, wiercacy sie (niecierpliwosc - decyzja rady za 2 dni, on bezradny) sciagnal Owena na dluzsza rozmowe/otuche. Owen ZAJECHANY - zimowa febra idzie przez caly przytulek, Symon jeden z wielu. Dotknal czola (rad, ze schodzi), ale slowa krotkie, zmeczone: 'rada rozstrzygnie beze mnie i bez ciebie; zostawiles mur poreczen, reszta nie w twoich rekach - oddaj to i zdrowiej' - i poszedl do nastepnego chorego. Symon zostal z wlasna niecierpliwoscia i lekcja, ze swiat nie kreci sie wokol niego. Bez urazy (nast 68), tylko cienki moment.",
-    "297-01-28 (rzut 73): Symon - juz zdrowy, swiezo mieszczanin Symon Tally - przyszedl POMOC zajechanemu Owenowi, nie po rade. Wniosl porzadek w przeciazony przytulek (ksiega chorych/zapasow, rozdzial strawy rowno, listy do rodzin); sam niedawno w tej febrze - wie, czego chory potrzebuje. Przytulek zaczal chodzic jak dobra faktoria; Owen pierwszy raz od tygodnia usiadl odetchnac. 'Matka mi ciebie zeslala' - bez cienia troski o mamone: charge z nazwiskiem/domem kleczy przy kotle ubogich i dzwiga cudzy ciezar = rownowaga, o ktora sie bal, zobaczona cala. nast 68->71, zauf 17->18."
+    "297-01-28 (rzut 73): Symon - juz zdrowy, swiezo mieszczanin Symon Tally - przyszedl POMOC zajechanemu Owenowi, nie po rade. Wniosl porzadek w przeciazony przytulek (ksiega chorych/zapasow, rozdzial strawy rowno, listy do rodzin); sam niedawno w tej febrze - wie, czego chory potrzebuje. Przytulek zaczal chodzic jak dobra faktoria; Owen pierwszy raz od tygodnia usiadl odetchnac. 'Matka mi ciebie zeslala' - bez cienia troski o mamone: charge z nazwiskiem/domem kleczy przy kotle ubogich i dzwiga cudzy ciezar = rownowaga, o ktora sie bal, zobaczona cala. nast 68->71, zauf 17->18.",
+    "297-02-07: Symon publicznie odbil szept Harwina w Sepcie (rzut 71) - Owen dumny, ze charge stanal w PRAWDZIE, ale ZANIEPOKOJONY: Septa Matki to nie pole bitwy, a Symon podniosl stawke (eskalacja jawnej wojny z Harwinem)."
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-01-28",
@@ -509,7 +510,7 @@
    "leki": [
     "ostra reprymenda od starszego"
    ],
-   "nastawienie_do_gracza": -11,
+   "nastawienie_do_gracza": -14,
    "zaufanie": 0,
    "wie_o_graczu": [
     "pisze jawnie przy Bramie Foki bez licencji",
@@ -521,7 +522,8 @@
     "297-01-22: jego Cech Pisarzy PRZEGRAL publicznie protest przeciw admisji Symona - upokorzenie na oczach rady. Uraza Harwina zaostrzona (wrog zajadlejszy); mozliwa ostatnia zaczepka/sabotaz przy przysiedze lub zemsta pozniej.",
     "297-01-27 (przysiega, rzut 38): przegrany publicznie, przy ceremonii rzucil Symonowi cierpki cien - zawoalowana grozba, ze cech bedzie pilnowal 'obcego', ze przysiega nie wymaze SKAD ktos pochodzi. Enmity skrystalizowana: aktywny, zmotywowany, czujny wrog. Nie wie o sekrecie, ale zloba celuje w origins - niebezpieczny kierunek.",
     "297-02-03 (wywiad Symona rzut 29): PROFIL - ostrozny gracz (czyste powierzchnie, brak latwego brudu/dlugow), wkopany osobista duma w przegrana krucjate anty-Symon (piecze go -> mozliwa nieostroznosc LUB zajadla cierpliwosc), opiera sie o frakcje RYMANA w cechu (pies+patron=jedna sfora). RYZYKO: jedno pytanie Symona otarlo sie za blisko krego Harwina - Harwin moze byc LEKKO czujniejszy (zwietrzyl, ze ktos wecha). Twardej dzwigni brak.",
-    "297-02-07 dzien Matki (rzut 27): Symon sluzyl szczerze ubogim, ale Harwin OBECNY w tlumie zagral PUBLICZNYM SZEPTEM (deniable, holy-day-constrained): 'obcy pan Tally gra swietego przy kotle dla statusu/wspinaczki' - na tyle glosno, by dosłyszal kupiecki sredniak. Taktyka Harwina ODSLONIETA: nie znalazl brudu -> truje IMIE Symona w miejscach publicznych (whisper-warfare), maluje szczera sluzbe jako pokaz. Owen po stronie Symona (widzi szczerosc), ale szeptu nie rozbroi za niego. Kontra: byc niezaprzeczalnie prawdziwym, czyn ponad szept, nie prowokowac sie publicznie."
+    "297-02-07 dzien Matki (rzut 27): Symon sluzyl szczerze ubogim, ale Harwin OBECNY w tlumie zagral PUBLICZNYM SZEPTEM (deniable, holy-day-constrained): 'obcy pan Tally gra swietego przy kotle dla statusu/wspinaczki' - na tyle glosno, by dosłyszal kupiecki sredniak. Taktyka Harwina ODSLONIETA: nie znalazl brudu -> truje IMIE Symona w miejscach publicznych (whisper-warfare), maluje szczera sluzbe jako pokaz. Owen po stronie Symona (widzi szczerosc), ale szeptu nie rozbroi za niego. Kontra: byc niezaprzeczalnie prawdziwym, czyn ponad szept, nie prowokowac sie publicznie.",
+    "297-02-07 (Symon riposta rzut 71): na jego publiczny szept na dniu Matki Symon ODPOWIEDZIAL GLOSNO przy calym tlumie - nazwal Harwina zbirem, co sączy jad i ze strachu sciga ludzi, a poucza w Sepcie o dobru i zlu. Frame sie ODWROCIL (tlum pamieta najscie na zaulek): 'cechowy przesladowca smaruje czlowieka co karmi ubogich'. Harwin PUBLICZNIE wystawiony/pobity DRUGI raz, cofnal sie, pierwszy raz to ON zaplacil koszt przy swiadkach. WSCIEKLY - wojna teraz JAWNA/osobista; bedzie szukal odwetu TWARDSZEGO (nie plotka, lecz cios). 'Upokorzony pies kasa.'"
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-02-07",

@@ -3084,3 +3084,6 @@ Solidna sesja ksiegowa (lean winter, keep). Nesta dala kupiecka aprobate tygodni
 
 ## 297-01-15 - zlecenia z kregu (rzut 89)
 Obchod kregu dal 3 leady mimo lean winter (reputacja: uczciwe ksiegi/forensic audit/relief/kupiec-wlasciciel): (A) solidny fee-job przez Leone (ksiegi+umowa sukiennika), (B) delikatny premium przez Harlon/Merek (podejrzenie okradania przez magazyniera, forensic audit pod dyskrecja), (C) wieksza ryba nibble - powazniejszy kupiec/faktor sonduje 'skrybe co wypatruje wycieki'. Okno ~tydzien. UWAGA: wiecej klientow=wiecej sekretow (Owen/Nesta) - byc selektywnym. spryt_uliczny+1.
+
+## 297-01-15 POPOLUDNIE - zlecenia A i C (83 / 41)
+A (rzut 83): sukiennik Colm (referral Leony) - uzgodnil ksiegi + spisal umowe wiosenna, uczciwy fee ~3 jel (sakiewka->11 jel), goodwill/repeat; Leona +1 (referral sie oplacil). B odpuszczone swiadomie (sekret). C (rzut 41): faktor Rollam sondowal o cos wiekszego, ale ostrozny - powazny faktor nie ufa niesprawdzonemu mlodzikowi od reki; drzwi uchylone (cultivate/proving/cierpliwosc), nie szybki skok. rachunki+1, prawo+1, czytanie_ludzi+1.

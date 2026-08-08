@@ -3269,3 +3269,6 @@ Mistrzowski dzien przygotowan: sekret zabezpieczony (list w Sepcie), pozycja pra
 
 ## 297-02-08 ZMIERZCH - Nesta o obronie (po zgode, rzut 39)
 Symon spytal Neste (nie zalozyl) o pomoc, framing kupiecki: bezpieczenstwo interesu, nie wojna. Nesta zaaprobowala + cenila, ze spytal (relacja nietknieta, nast 74->75). Trzezwa rada: brak gotowej 'pomocy'; ostrozny wrog nie skacze w pulapke; trwaly spokoj=zakorzenienie+uczynienie Harwina nieistotnym, nie wojna. Jej pomoc bounded (rada/wech/dyskretne wsparcie gdyby atak; nie feud; jawne zaangazowanie=kantor celem). czytanie_ludzi+1.
+
+## 297-02-09 RANEK
+Wieczorem cwiczenia (kondycja+1), sen. Sojusze cale (Nesta 75, Owen 73). Zegary: harwin ~02-12 (pulapka), podatek ~02-15, draw ~02-19.

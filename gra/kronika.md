@@ -3443,3 +3443,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-23 RANEK: Wypoczety. Harwin ~02-25 (za 2 dni). Mroz.
 
 297-02-23 RANEK: Symon zjadl, mala dawka traktatu z Halem (rzut 25 - mozolnie, malo nowego). Silver: Hal zastosowal metode audytu na wlasnym drafcie, wychwycil niespojnosc w fundamencie (draft cisniejszy, Hal internalizuje rzemioslo). Slow-burn=niski koszt, slaba sesja nie wypalila. nast Hal 67->68.
+
+297-02-23 POLUDNIE: Symon wybadal zlecenie weryfikacyjne blizej dworu (rzut 16 - miss). Court-adjacent leadow brak od reki: domy przy dworze strzezone, uzywaja wlasnych ludzi, niechetne obcemu; cold-hunting przy zamku konspicuous (oko Theomore'a) - Symon przezornie nie pchal. NAUKA: court-adjacent standing nie do kupienia zleceniem na zimno, akumuluje sie organicznie (Godric+reputacja z czasem). Zwykle leady niszy wciaz sa. Dojscie=hodowane nie zamawiane.

@@ -3216,3 +3216,6 @@ Symon zaproponowal usluge trafiajac w bol Merka. Merek wzial na probe (wycinek: 
 
 ## 297-02-04 ZMIERZCH - Serla (rzut 59)
 Cieply grounding wieczor u Serli. Tom zdrow, dom lzejszy. Serla dumna po swojemu, ale trzyma Symona przy ziemi smiechem ('nie zadzieraj nosa, pamietam cie glodnego') - ziemska kotwica bez interesu. Symon wyszedl lzejszy. nast 38->39.
+
+## 297-02-05 RANEK
+Wieczorem cwiczenia (kondycja+1), sen. Pelnia sil. Zegary: harwin ~02-09, podatek ~02-15, draw ~02-19. Do zrobienia: dbalosc Harlonowi, budowa domeny kredytu/ubezpieczen.

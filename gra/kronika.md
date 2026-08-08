@@ -3048,3 +3048,6 @@ Sniadanie, potem Symon zlapal Aldousa na trzezwo przy porannym inwentarzu i dokr
 
 ## 297-01-11 ZMIERZCH - Vox: poreczenia kupieckie KOMPLETNE (rzut 97)
 Symon domknal kupiecki zestaw u Voxa (autora drogi kupiec-wspolnik). Pelne swiadome tak, framowane pod klasyfikacje lamiaca weto Pisarzy; oferta glosu w radzie. Werdykt Voxa: zestaw mocny (Boren/Leona/Aldous/Vox), teraz szybko Wiara i ZLOZYC nim wiesc wycieknie. 4 poreczenia kupieckie ✓. Zostaje poreczenie Wiary (Owen/Torren) -> Torren sklada wniosek. Vox nast 48->52, zauf 15->17. retoryka+1, czytanie_ludzi+1.
+
+## 297-01-11 ZMIERZCH - poreczenie Wiary (Owen rzut 56)
+Symon poprosil Owena o poreczenie Wiary - ostatni fundament. Owen nie odmowil (sam wskazal te droge), ale dal je z pastoralna powaga: Wiara reczy za charakterem i sluzba (pioro co karmilo glodnych), nie za handlem. Charge: 'niech piecz obywatelstwa nie stanie sie pieczecia pychy'. Torren sframuje endorsement precyzyjnie (poboznosc/sluzba, nie komercja) i poprowadzi zlozenie. ZESTAW KOMPLETNY: 4 kupcy + Wiara. Zostaje tylko Torren sklada wniosek - szybko. Owen nast 66->67, zauf 15->16. retoryka+1, czytanie_ludzi+1.

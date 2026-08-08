@@ -3278,3 +3278,6 @@ Symon sprawdzil weksel-follow-on wg standardu PRZED oferta. Nie pasuje: Merek=wi
 
 ## 297-02-09 ZMIERZCH - usluga zarzadcza Merek (rzut 19)
 Symon poprowadzil triage tick Merka - czysto, ale diagnoza grim: zimowy tick w wiekszosci niesciagalny teraz (dluznicy bez grosza, zamrozone do odwilzy). Rada: triage + nie sciskac zima (nie wycisniesz+zszargasz imie). Merek sobered ale ceni prawde>bajke. Oplata +2 jel (sakiewka->14). Wartosc=klarownosc+plan. rachunki+1, audyt+1, organizacja+1.
+
+## 297-02-09 ZMIERZCH - Wenda (rzut 8, KRYT)
+Symon zaszedl po 7 tyg. - Wenda zimno. Przespal WESELE BESS (jej corki) + zaniedbal ja (wziela go jak rodzine, reczyla u ludu). Zraniona ('za wielki na Rybi Zaulek?'); nast ~29->22, porękа nadszarpnieta. WZORZEC (3. raz: Nesta/Hal/Wenda): awans zaniedbuje korzenie, co mialy trzymac i bronic. Lustro: pnac sie, gubi ludzi u dolu, co go podnieśli. czytanie_ludzi+1.

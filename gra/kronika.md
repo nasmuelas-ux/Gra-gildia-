@@ -3057,3 +3057,6 @@ Torren dopracowal pismo w noc i zlozyl wniosek o mieszczanstwo pierwszy o otwarc
 
 ## 297-01-12 - najem (rzut 18)
 Sniadanie, potem do kamieniczki dogladac najmu. Kandydatka Leony (porzadna wdowa) obejrzala i grzecznie sie wycofala - izby suche, ale zimne/gole/w remoncie; w mroz lokator chce ciepla i gotowosci. Nauka: lettable != rentable. Prerekwizyt: minimalny fit-out 1 izby (palenisko, szczelne okiennice) nim czynsz ruszy. Dochod opozniony (~01-16), soft lead zachowany. handel+1.
+
+## 297-01-12 ZMIERZCH - fit-out izby (rzut 61)
+Symon zrobil 1 izbe do zycia: tania uzywana koza (cieplo), uszczelnione okiennice, uprzatnieta - teraz RENTABLE. Koszt ~5 jel z linii (self-liquidating). Najem odblokowany - mozna zapraszac wdowe Leony/siec, czynsz moze ruszyc (~01-14). organizacja+1.

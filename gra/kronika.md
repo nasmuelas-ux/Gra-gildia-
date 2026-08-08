@@ -3228,3 +3228,6 @@ Dziur gotowkowych mnostwo, bankowalnych prawie zero (zimowa rozpacz=zly dlug, ni
 
 ## 297-02-05 ZMIERZCH - standardy domeny (Nesta rzut 86)
 Symon+Nesta spisali STANDARDY+PLAYBOOK domeny kredytu i pewnosci: kryteria bankowalnosci, menu produktow, go-to-market z anty-negatywna-selekcja. Braavijskie wzory weksla + limity od Nesty. Uznanie Nesty: 'budujesz fach, nie deale - roznica miedzy kupcem a nastepca'. ASSET/MOAT. nast 73->74, zauf 35->36. organizacja+1, handel+1.
+
+## 297-02-06 RANEK
+Syty posilek, wczesny sen, pelnia sil. Zegary: harwin ~02-09, podatek ~02-15, draw ~02-19.

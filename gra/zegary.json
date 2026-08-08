@@ -151,9 +151,9 @@
   },
   {
    "id": "kamieniczka_najem",
-   "opis": "IZBA 1 WYNAJETA (wdowa Jonna, ~1 jel/mies, od 01-12) - pierwszy czynsz plynie. DALEJ: fit-out izby 2 pod drugiego lokatora (tania koza+okiennice), potem szukac najemcy (siec/Leona). Izba 3 po wiosennym dachu = pelny dochod.",
-   "odpala": "297-01-20",
-   "typ": "dochod"
+   "opis": "IZBY 1+2 WYNAJETE (wdowa Jonna + czeladnik Osric, ~2 jel/mies lacznie). Dobra slawa domu rozchodzi sie -> soft waitlist na izbe 3 (wiosna, po pelnym dachu = pelny dochod ~3 jel/mies). Najem jako aktywny watek zamkniety do wiosny.",
+   "odpala": "297-03-05",
+   "typ": "dochod (do wiosny)"
   },
   {
    "id": "rada_mieszczanstwo_decyzja",

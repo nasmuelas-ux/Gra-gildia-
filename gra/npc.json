@@ -664,7 +664,8 @@
     "Symon proponuje wspolny polnocny lot drewna/opalu — brokeruje, kolodzieje jako kotwica; laczy interes cechu z frachtem",
     "d22 (rzut 24): wizyta w zla pore - gleboka zima dlawi kolodziejow (nikt nie buduje wozow w mroz, bracia bez roboty/krotko z groszem). Boren przyjal cieplo (przysluga zabankowana, zaufanie trzyma) ale glowa zajeta przetrwaniem cechu; wiosenne pozycjonowanie drewna odbiło sie od trosk. Wiez ledwie odswiezona. HOOK: relief-siec Symona moglaby pomoc potrzebującym braciom kolodziejom.",
     "d22 (rzut 67): Symon siegnal siecia reliefu ku braciom kolodziejom - MADRZE: nie odjal reliefu nedzarzom, lecz ROBOTA (naprawy/ciesielka przy reliefie + drobne zlecenia u kupcow sieci) + celowana pomoc rodzinom PRZEZ Borena (solidarnosc cechu, godnosc rzemieslnika, nie jalmuzna). Sojusz z transakcyjnego w LOJALNY; Boren gleboko wdzieczny. Przysluga wciaz zabankowana + nowa wiez.",
-    "297-01-10 (rzut 88): Symon poprosil o PORECZENIE pod wniosek o mieszczanstwo (droga kupiec-wspolnik). Boren - CECHMISTRZ kolodziejow, lojalny (relief-solidarnosc) - dal PELNE TAK: kladzie nazwisko i standing cechu za Symonem jako legalnym kupcem-wspolnikiem (nie partaczem-skryba). To BEZPOSREDNIO podcina atak Cechu Pisarzy (klasyfikacja): gdy JEDEN cechmistrz reczy za tob jako kupca, weto Pisarzy wyglada na samotna wasn, nie realny glos cechu. NADTO (rzut 88) dal INSIDER-MAPE polityki admisji: (1) rada konsultuje cechy; kilka solidnych poreczen mieszczan+Wiara zmarginalizuje pojedynczy sprzeciw Pisarzy; (2) doradzil sekwencje/framing - Leona (Schody, solidna), Aldous, Vox; jakosc>ilosc (kilka szanowanych bije stos slabych - nie wygladaj, jakbys kupowal miasto); (3) TIMING (kluczowe wobec zegara widocznosc ~01-14): zebrac poreczenia CICHO, potem zlozyc SZYBKO, nim Pisarze/Ryman zdolaja zorganizowac opozycje. Zaoferowal wstawic slowo u szanowanych rowiesnikow. Sojusz gleboko lojalny (nast 53->56, zauf 11->13)."
+    "297-01-10 (rzut 88): Symon poprosil o PORECZENIE pod wniosek o mieszczanstwo (droga kupiec-wspolnik). Boren - CECHMISTRZ kolodziejow, lojalny (relief-solidarnosc) - dal PELNE TAK: kladzie nazwisko i standing cechu za Symonem jako legalnym kupcem-wspolnikiem (nie partaczem-skryba). To BEZPOSREDNIO podcina atak Cechu Pisarzy (klasyfikacja): gdy JEDEN cechmistrz reczy za tob jako kupca, weto Pisarzy wyglada na samotna wasn, nie realny glos cechu. NADTO (rzut 88) dal INSIDER-MAPE polityki admisji: (1) rada konsultuje cechy; kilka solidnych poreczen mieszczan+Wiara zmarginalizuje pojedynczy sprzeciw Pisarzy; (2) doradzil sekwencje/framing - Leona (Schody, solidna), Aldous, Vox; jakosc>ilosc (kilka szanowanych bije stos slabych - nie wygladaj, jakbys kupowal miasto); (3) TIMING (kluczowe wobec zegara widocznosc ~01-14): zebrac poreczenia CICHO, potem zlozyc SZYBKO, nim Pisarze/Ryman zdolaja zorganizowac opozycje. Zaoferowal wstawic slowo u szanowanych rowiesnikow. Sojusz gleboko lojalny (nast 53->56, zauf 11->13).",
+    "297-01-13: podeslal Symonowi mlodego czeladnika (Osric) jako lokatora do izby 2 - drobna wzajemna przysluga, cementuje sojusz; Boren rad, ze jego krag i kamieniczka Symona sobie sluza."
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-01-10",
@@ -1330,6 +1331,22 @@
    ],
    "ostatni_kontakt": "297-01-12",
    "cechy_mowy": "cicho, uprzejmie, mowi 'synku'; oszczedna w slowach"
+  },
+  {
+   "id": "osric_czeladnik",
+   "imie": "Osric",
+   "przydomek": null,
+   "wiek": 22,
+   "stan": "czeladnik",
+   "zawod": "mlody czeladnik (rzemioslo, krag kolodziejow/Borena); potrzebowal wlasnego kata",
+   "mieszka": "kamieniczka Symona przy Schodach (izba 2, od 297-01-13)",
+   "nastawienie_do_gracza": 16,
+   "zaufanie": 5,
+   "wie_o_graczu": [
+    "297-01-13: wynajal ciepla izbe od Symona (~1 jel/mies), referral z kregu Borena. Mlody, pracowity, rad z wlasnego godnego kata. Stabilny lokator."
+   ],
+   "ostatni_kontakt": "297-01-13",
+   "cechy_mowy": "prosto, mlodzienczo, z szacunkiem do majstrow"
   }
  ],
  "orbita": [

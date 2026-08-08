@@ -9,10 +9,10 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 85,
  "sytosc": 55,
- "zmeczenie": 24,
+ "zmeczenie": 16,
  "sakiewka": {
   "miedziaki": 10,
-  "jelenie": 7,
+  "jelenie": 8,
   "smoki": 0
  },
  "dobytek": [
@@ -85,11 +85,11 @@
   "spryt_uliczny": 102,
   "kondycja": 87,
   "rzemioslo": 0,
-  "handel": 91,
+  "handel": 92,
   "walka": 41,
   "geometria": 20,
   "czytanie_ludzi": 88,
-  "organizacja": 56,
+  "organizacja": 57,
   "audyt": 74
  },
  "jezyki_znane": [
@@ -133,7 +133,7 @@
   "konto": "CZYSTE (rozliczenie 12-30, rzut 93)"
  },
  "kamieniczka": {
-  "status": "ZAREJESTROWANA/twoja; patch dachu; IZBA 1 WYNAJETA (wdowa Jonna, ~1 jel/mies); izba 2 do fit-out; izba 3 czeka na wiosenny dach. Aktyw zaczal zarabiac.",
+  "status": "ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe.",
   "opis": "kamieniczka przy Schodach: 4 izby + murowany ogrodek za plotem; do remontu (dach do wymiany + 1 strop - Donnel)",
   "cena_jel": 108,
   "all_in_szac_jel": "~142 (108 cena + ~30 dach + ~4 oplaty Torrena/rejestr)",
@@ -142,17 +142,18 @@
   "widocznosc": "po rejestracji ~01-09 JAWNA wlasnosc Symona - wzrost widocznosci (cech/Ryman moga zauwazyc obcego-'partacza' nabywajacego wlasnosc)",
   "stan_fizyczny": "297-01-09: Donnel wzial dach. ZIMA nie pozwala na pelny re-roof (zaprawa nie wiaze w mrozie, snieg, krotkie dni) -> PATCH ZIMOWY: uszczelnienie zacieku, zabicie szpary, podbicie prowislego stropu - weathertight, przestaje gnic. PELNY re-roof czeka na ODWILZ/wiosne (wtedy izby w pelni pod wynajem). Donnel ocenil: 2 suche izby (z dala od uszkodzonego przesla) NADAJA SIE POD WYNAJEM juz teraz (zimne ale zdrowe); 3. izba czeka na wiosenny dach. Ogrodek pod sniegiem.",
   "najem_nauka": "297-01-12: 2 izby SA suche/zdrowe (Donnel), ale NIE rentable jeszcze - zimne, gole, budynek widocznie w remoncie. Kandydat od Leony (porzadna wdowa) obejrzal i grzecznie sie WYCOFAL: w mroz lokator chce CIEPLA i gotowosci teraz, nie skorupy. NAUKA: structurally-lettable != rentable. Trzeba minimalny FIT-OUT choc 1 izby (dzialajace palenisko/koza, szczelne okiennice, uprzatniete/cieple) NIM lokatorzy wezma. Czynsz opozniony; drobny dodatkowy koszt fit-out przed dochodem. || 297-01-12 FIT-OUT (rzut 61): 1 izba zrobiona DO ZYCIA - tania uzywana koza (cieplo), uszczelnione okiennice, uprzatnieta. Teraz RENTABLE (ciepla/sucha/szczelna/czysta). Koszt ~5 jel z linii (self-liquidating). Mozna zapraszac lokatora (wdowa Leony wroci / siec).",
-  "najem_stan": "297-01-12: IZBA 1 WYNAJETA - wdowa Jonna (porzadna, cicha, wyplacalna, dlugoterminowa - idealny lokator), ~1 jeleń/miesiac, pierwszy miesiac zaplacony z gory. PIERWSZY CZYNSZ = pierwszy dochod z aktywu. Izba 2: do fit-out pod drugiego lokatora. Izba 3: po wiosennym dachu."
+  "najem_stan": "297-01-12: IZBA 1 WYNAJETA - wdowa Jonna (porzadna, cicha, wyplacalna, dlugoterminowa - idealny lokator), ~1 jeleń/miesiac, pierwszy miesiac zaplacony z gory. PIERWSZY CZYNSZ = pierwszy dochod z aktywu. Izba 2: do fit-out pod drugiego lokatora. Izba 3: po wiosennym dachu. || 297-01-13 (rzut 96): IZBA 2 WYNAJETA - Osric, mlody czeladnik (referral z kregu Borena), ~1 jel/mies, pierwszy z gory. Szybki fit-out izby 2 (druga koza+okiennice, ~5 jel z linii, rutyna). DOCHOD ~2 jel/mies (izby 1+2). BONUS: dobra slawa domu (cieply/suchy/uczciwy gospodarz) rozchodzi sie przez wdowe+Leone+Borena -> soft WAITLIST na izbe 3 na wiosne (popyt zapewniony). Izba 3 po wiosennym dachu = pelny dochod ~3 jel/mies."
  },
  "finansowanie_kamieniczki": {
   "wierzyciel": "kantor Nesty (warunki wspolnika)",
-  "ciagniete_teraz_jel": 41,
+  "ciagniete_teraz_jel": 46,
   "linia_dach_jel": 30,
   "docelowy_dlug_szac_jel": "~57 (po pelnym dachu wiosna)",
   "obsluga": "czynsz z 3 wynajetych izb pokrywa rate; nadwyzka -> equity",
   "uwaga": "aktyw ma splacac sie sam (income property = 'konto oszczednosciowe kupca'); rezerwa depozytu 37 jel nietknieta",
   "dach_patch_zima_jel": 9,
   "dach_pelny_wiosna_rezerwa_jel": "~21 (reszta linii ~30 na pelny re-roof przy odwilzy)",
-  "fit_out_izba_jel": 5
+  "fit_out_izba_jel": 5,
+  "fit_out_izba2_jel": 5
  }
 }

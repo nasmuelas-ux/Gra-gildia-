@@ -3063,3 +3063,6 @@ Symon zrobil 1 izbe do zycia: tania uzywana koza (cieplo), uszczelnione okiennic
 
 ## 297-01-12 ZMIERZCH - PIERWSZY LOKATOR (wdowa rzut 85)
 Symon przez Leone sprowadzil wdowe z powrotem - ciepla gotowa izba to bylo to, czego brakowalo. Wzięla od reki: izba 1 wynajeta wdowie Jonnie ~1 jel/mies, pierwszy miesiac z gory. PIERWSZY CZYNSZ = pierwszy dochod z aktywu. Idealny lokator (cicha/wyplacalna). Kamieniczka zaczela zarabiac: izba1 LET, izba2 do fit-out, izba3 po wiosnie. sakiewka +1 jel. handel+1.
+
+## 297-01-13 - DRUGI LOKATOR (rzut 96)
+Symon szukal drugiego lokatora - poszlo znakomicie. Izba 2 wynajeta Osricowi, mlodemu czeladnikowi (referral z kregu Borena, cementuje sojusz), ~1 jel/mies; szybki rutynowy fit-out (druga koza, ~5 jel z linii). Dochod ~2 jel/mies (izby 1+2). Bonus: dobra slawa domu (cieply/suchy/uczciwy gospodarz) rozchodzi sie -> soft waitlist na izbe 3 na wiosne. Aktyw pracuje i ma renome. sakiewka +1 jel. handel+1, organizacja+1.

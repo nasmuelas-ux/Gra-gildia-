@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 54,
- "zmeczenie": 22,
+ "zmeczenie": 28,
  "sakiewka": {
   "miedziaki": 0,
   "jelenie": 7,
@@ -79,13 +79,13 @@
  "licznik_uzyc": {
   "pismo": 89,
   "rachunki": 113,
-  "prawo": 139,
+  "prawo": 140,
   "retoryka": 84,
   "jezyki": 70,
   "spryt_uliczny": 104,
   "kondycja": 89,
   "rzemioslo": 0,
-  "handel": 95,
+  "handel": 96,
   "walka": 41,
   "geometria": 20,
   "czytanie_ludzi": 98,
@@ -112,7 +112,8 @@
   "BRAAWIJSKIE INSTRUMENTY KREDYTOWE (z ksiag Nesty, 297-01-19, rzut 96): jak przenosic WARTOSC bez fizycznej gotowki przez dystans i czas - WEKSLE/listy kredytowe (zaplac tu, wyplac tam za pismem+pieczecia+zaufaniem), ubezpieczenie/rozproszenie ryzyka, commenda/consignment. To braawijska przewaga w GOTOWKOWO-UBOGIM rynku (gdzie 'brak plynnosci' dusi handel): kto umie CZYTAC, RACHOWAC i pisac takie instrumenty - a to dokladnie edge Symona - ma narzedzie, ktorego zaden lokalny partacz nie ma. LATENTNA PRZEWAGA do wdrozenia, gdy zdrowy + jest siec zaufania/kontrahenci (czesc spring/Braavos-gated). Uwaga: to tez rodzaj kompetencji, ktora sciaga powaznych faktorow (Rollam) - competence draws the fish (indirect path).",
   "LUDZIE vs SIEC (nauka z choroby 297-01-20): gdy padl chory, przyszli Bran (piwo/smiech), Serla (rosol), lokatorka Jonna (miod) - a NIE Nesta/Godric/poreczyciele-kupcy (uzyteczni, nie bliscy). Rozroznienie: kto jest NARZEDZIEM (interes), a kto CZLOWIEKIEM (serce). Jego ludzie: Bran, Serla, Wiara. Reszta to uklad - cenny, ale nie mylic z bliskoscia.",
   "CIEZARY MIESZCZANSTWA (od Nesty 297-01-27): status to nie sam splendor - dochodza MIEJSKIE PODATKI/pobor (juz nie omijany), POWINNOSCI (straz, daniny, oczekiwania rady), WIDZIALNOSC i ROZLICZALNOSC. Plus: upokorzony Harwin to realna grozba ('upokorzony pies gryzie'). Nagroda z rachunkiem w malym druku - planowac te koszty/obowiazki.",
-  "REPUTACJA FORENSYCZNA TNIE W DWIE STRONY (uswiadomione 297-01-29 u Voxa): slawa 'skryby co wywecha zlodzieja' przynosi robote, ALE robi z Symona NIEWYGODNEGO SWIADKA dla kazdego z sekretem (echo Owena+Nesty). Kazdy wykryty skim = wrog, co pamieta imie. Vox rozglasza go nieostroznie; wylany posrednik z audytu obwinia Symona. WNIOSEK: dozowac te robote i te slawe; nie byc znanym jako czlowiek, przed ktorym nic sie nie ukryje - to sciaga strach/wrogosc, nie tylko zlecenia."
+  "REPUTACJA FORENSYCZNA TNIE W DWIE STRONY (uswiadomione 297-01-29 u Voxa): slawa 'skryby co wywecha zlodzieja' przynosi robote, ALE robi z Symona NIEWYGODNEGO SWIADKA dla kazdego z sekretem (echo Owena+Nesty). Kazdy wykryty skim = wrog, co pamieta imie. Vox rozglasza go nieostroznie; wylany posrednik z audytu obwinia Symona. WNIOSEK: dozowac te robote i te slawe; nie byc znanym jako czlowiek, przed ktorym nic sie nie ukryje - to sciaga strach/wrogosc, nie tylko zlecenia.",
+  "UBEZPIECZENIE/ROZPROSZENIE RYZYKA (od Nesty 297-02-01): braawijska zasada - nie stawiac wszystkiego na jeden statek; ubezpieczyc ladunek, dzielic strate na wielu, by jedno zatoniecie nie rujnowalo. Zastosowanie: wiosenna spolka egzotyczna (ubezpieczyc ladunek), pula weksli (rozlozyc ryzyko na wiele drobnych, nie jeden gruby). Komplementarne do uslug kredytowych - razem: BROKER KREDYTU I PEWNOSCI."
  ],
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."

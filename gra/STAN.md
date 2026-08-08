@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-01-14 POPOLUDNIE · zima nadeszla (Polnoc) — dlugie lato dogaslo
+- **Data:** 297-01-14 ZMIERZCH · zima nadeszla (Polnoc) — dlugie lato dogaslo
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
@@ -14,7 +14,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - depozyt u Nesty: 2300 miedziakow (23 jelenie, za kwitem) — oszczednosci (podniesiony o 20 jel z wolnej gotowki d23)
 - SPOLKA EGZOTYCZNA (Braavos, dwukierunkowa): ZAANGAZOWANE 20 jeleni Symona — wyplacone: 4 zadatek Vhassarowi (barwniki) + 3 zadatek garbarzom (skory, umowa na przyszlosc); 13 jeleni ZAREZERWOWANE (odbior skor ~7 + reszta importu); NIE lezy w sakiewce
 - PODRECZNIK PROCEDUR KANTORU (11-XII, rzut 97): KONTROLA DOKUMENTU (numerowane/przeszywane/pieczetowane karty; kopia umowy u obu stron+trzecia u depozytariusza; atrament trwaly, bez pustych miejsc, kwota slownie obok cyfry; poprawki tylko przekreslenie z parafa). KONTROLA LUDZI (rozdzial kasa/magazyn/ksiega; rotacja+przymusowa przerwa kasjera; dwa klucze+dwa podpisy powyzej progu; kaucja+poreczyciel przy zatrudnianiu) - CZESC skalowana: maly kantor nie ma 3 osob -> stosuje co pasuje + compensating controls. KONTROLA RZECZY (cechowanie towaru+pieczetowanie beczek; liczenie skladu w LOSOWYCH terminach; waga MIEJSKA nie wlasna; OSOBNY rejestr brakow/zwrotow - tam ucieka najwiecej). RAPORTY ZARZADCZE (klejnoty, sprzedawalne): WIEKOWANIE NALEZNOSCI (kto/ile/od kiedy); RENTOWNOSC per klient i per trasa (zwykle 1/3 interesow stratna); KALENDARZ ZOBOWIAZAN (czynsz/clo/podatek/dlug na jednej karcie); PROGI OSTRZEGAWCZE (jesli zapas<X kupuj; jesli dlug>Y wstrzymaj kredyt).
-- Zdrowie 85 · Sytosc 60 · Zmeczenie 8
+- Zdrowie 85 · Sytosc 60 · Zmeczenie 14
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -25,7 +25,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 37
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 36
 - **Bran** (bran_tragarz) — tragarz/reka faktorii Nesty (NA PROBIE, od d25) · nast 51
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 68
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 69
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 30
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 68

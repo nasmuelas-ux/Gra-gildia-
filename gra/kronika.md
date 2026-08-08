@@ -3078,3 +3078,6 @@ Symon spal gleboko, wypoczety do dna; lustro Owena przyjal jako kotwice (trzymac
 
 ## 297-01-14 - sluzba w sepcie (rzut 91)
 Dzien po lustrze pychy Symon sluzyl ubogim z wlasciwego miejsca (bez winy/pychy) - Owen zobaczyl charge zamkniety czynem, pojal ze Symon trzyma rownowage (mieszczanin z dochodem I czlowiek znad kotla). Cieplo wrocilo mocniej. Owen nast 65->68, zauf 16->17, rep wiara 60->62. pismo+1, czytanie_ludzi+1. Pride-arc zamkniety pozytywnie.
+
+## 297-01-14 ZMIERZCH - robota u Nesty (rzut 83)
+Solidna sesja ksiegowa (lean winter, keep). Nesta dala kupiecka aprobate tygodnia (kontra do checku Owena): kupno+2 lokatorow+zlozenie wniosku cicho->szybko przed wyciekiem = kupiec nie gracz; wyraznie dumna. Bonus-inteligencja: szept o kamieniczce laduje wsrod mieszczan glownie jako legitymacja (pomaga wnioskowi); opozycja wciaz bez sojusznika w radzie; pozycja przed ~01-22 mocna. Nesta nast 68->69, zauf 30->31. rachunki+1, audyt+1.

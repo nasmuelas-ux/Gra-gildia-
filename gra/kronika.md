@@ -3255,3 +3255,6 @@ Torren dal mape: forum=skarga do rady jako obrona porzadku (nie vendetta), stand
 
 ## 297-02-07 ZMIERZCH - Owen: hamulec ws. ofiar Harwina (rzut 23)
 Symon przyszedl po ofiary Harwina; Owen ODMOWIL - krzywdy w Sepcie sa w zaufaniu, nie orez (chroni ofiary+zasade Wiary). Check: wojna/pycha nie sprawiedliwosc. KLUCZOWE: gorąca lokalna wojna moze SPLOSZYC sfore i wysadzic cierpliwe sledztwo Winterfell, ktore Owen juz prowadzi (Ansell/kruk) - jedyna prawdziwa bron. Rada: cierpliwosc. Zrodlo Faith zamkniete. nast 71->70. czytanie_ludzi+1.
+
+## 297-02-07 ZMIERZCH - apel do Owena (rzut 71)
+Symon przekonal Owena mowiac jego wiara (ochrona slabszych=powinnosc bogatszego, nie vendetta; metoda zbira, nie prawo cechu; wiara zada sprawiedliwosci). Owen przyznal, ze mis-odczytal ('mowisz jak czlowiek Matki'). SYNTEZA: sprawiedliwosc I roztropnosc - dobrowolni swiadkowie, protekcja Wiary, sprawa wpleciona w rozliczenie Winterfell (nie hot war). Owen -> warunkowy sojusznik. Glebszy szacunek. nast 70->73, zauf+1. retoryka+1, czytanie_ludzi+1. Etyka Symona (ochrona slabszych) zapisana.

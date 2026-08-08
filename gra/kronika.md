@@ -3326,3 +3326,6 @@ Network sourcing wzorowe, ale ZERO bankowalnych klientow teraz - wina zimy nie m
 
 ## 297-02-12 - ksiegi domeny (rzut 31)
 Cicha robota-maintenance: porzadek rejestru weksla-pilota, standardy w czyste wzory, prep pod wiosenny pipeline. Bez rozwoju (zima=ostrzenie narzedzi). Partnerstwo z Nesta cicho normalnieje (solidna robota bez dramatu). rachunki+1, organizacja+1.
+
+## 297-02-12 ZMIERZCH - Serla (rzut 73)
+Cieply gruntujacy wieczor. Serla dumna (mieszczanin, co wciaz przychodzi; pnie sie nie deptajac swoich), Tom zdrow. Potwierdzila rooting: lud z zaulkow mowi o Symonie dobrze (uczciwy, swoich pamieta - Bran-dozorca sie rozniosl). Imie u dolu = korzen, ktorego Harwin szeptem nie wyrwie. nast 39->41.

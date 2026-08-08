@@ -1315,18 +1315,19 @@
    "stan": "mieszczka (wdowa)",
    "zawod": "wdowa po drobnym kupcu (handel z Braavos); sama ciagnie resztke interesu",
    "mieszka": "Port_Manderly (okolice)",
-   "nastawienie_do_gracza": 14,
-   "zaufanie": 4,
+   "nastawienie_do_gracza": 24,
+   "zaufanie": 7,
    "wie_o_graczu": [
     "d31 (rzut 11): pierwsze spotkanie przy jej ksiegach. Symon pomogl KOMPETENTNIE (wskazal niedowazenie w kontrakcie meza) - przyjela rzeczowo. ALE pol-przejrzala pretekst (bystra: 'po co Nesta przysyla akurat takiego skrybe?') - garda w gore, chlodna, transakcyjna, zero ciepla/sparku, nic z siebie nie dala. Nast 0->2 (za kompetencje, ale wary). Symon zagral dobrze (fachowiec nie zalotnik, zero pchania) - ale to dopiero poczatek dlugiej gry.",
     "297-01-30 (read Nesty, nie potwierdzone przez Mire): jej chlod moze byc GENUINE brakiem checi do malzenstwa (niezalezna pismienna wdowa - malzenstwo=utrata autonomii/majatku), nie 'jeszcze niezdobyta'. Hipoteza: trop moze byc slepy niezaleznie od cierpliwosci Symona. Nie napierac; nie projektowac wlasnego pragnienia na jej milczenie.",
-    "297-02-10 (rzut 55): Symon zlozyl Mirze OFERTE PARTNERSTWA (remit: zarzad kamieniczki + kawalek ksiegi doradczej, na udziale, jej pole, partnerka nie klerk) - czysto, bez zalotow. Mira (bystra) najpierw preswietlila na ploy; oferta prawdziwa/skrojona -> przeszla probe. Rozbroil ja SZACUNEK (rowne partnerstwo + autonomia, nie klatka - rzadkie dla zdolnej kobiety), nie zaloty. REFRAME: relacja z martwego zalotu -> ZYWY grunt zawodowy. Ostrozna/niezobowiazujaca: draly warunki, autonomia NIENARUSZALNA, obserwuje szczerosc (wyczuje podchody=zniknie); moze trial/'przemysle'. nast 2->14, zauf 2->4. Fundament pod cokolwiek organicznego pozniej."
+    "297-02-10 (rzut 55): Symon zlozyl Mirze OFERTE PARTNERSTWA (remit: zarzad kamieniczki + kawalek ksiegi doradczej, na udziale, jej pole, partnerka nie klerk) - czysto, bez zalotow. Mira (bystra) najpierw preswietlila na ploy; oferta prawdziwa/skrojona -> przeszla probe. Rozbroil ja SZACUNEK (rowne partnerstwo + autonomia, nie klatka - rzadkie dla zdolnej kobiety), nie zaloty. REFRAME: relacja z martwego zalotu -> ZYWY grunt zawodowy. Ostrozna/niezobowiazujaca: draly warunki, autonomia NIENARUSZALNA, obserwuje szczerosc (wyczuje podchody=zniknie); moze trial/'przemysle'. nast 2->14, zauf 2->4. Fundament pod cokolwiek organicznego pozniej.",
+    "297-02-13 (rzut 87): Symon przyniosl Mirze PISMO (czyste warunki: remit kamieniczka+wycinek doradczy, prowizja, autonomia ironclad, miesiac trial). Przeswietlila - brak sidla; czysty kontrakt zamiast komplementow = dowod, ze interes nie zaloty (traktuje ja jak fachowca/rowna); Bran-dozorca potwierdza realnosc operacji. PRZYJELA TRIAL: miesiac zarzadu czynszami/lokatorami na prowizje, jej pole. Ostrzyla 1 klauzule (fachowiec). 'Nie dlatego zes prosil ladnie - dlatego ze to uczciwy uklad; zobaczymy czy dowieziesz.' ZYWE ZAWODOWE PARTNERSTWO rozpoczete na gruncie szacunku. nast 14->24, zauf 4->7. Warunek: dowiezc przez trial, zero presji; cokolwiek wiecej=nieforsowane/pozniej."
    ],
    "potrzeby": [
     "utrzymac resztke interesu meza",
     "niezaleznosc/nie dac sie popchnac"
    ],
-   "ostatni_kontakt": "297-02-10",
+   "ostatni_kontakt": "297-02-13",
    "cechy_mowy": "krotko, rzeczowo, chlodno; bystra, przenikliwa, malo daje z siebie; twarda niezaleznosc",
    "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA."
   },

@@ -3332,3 +3332,6 @@ Cieply gruntujacy wieczor. Serla dumna (mieszczanin, co wciaz przychodzi; pnie s
 
 ## 297-02-13 RANEK
 Wieczorem cwiczenia (kondycja+1), sen. DZIS w kalendarzu: wrocic do Miry z pismem (warunki partnerstwa). Zegary: podatek ~02-15, draw ~02-19, harwin ~02-25, pilot ~03-10.
+
+## 297-02-13 - Mira przyjela trial partnerstwa (rzut 87)
+Symon przyniosl pismo (czyste warunki, autonomia, trial). Mira przeswietlila - brak sidla; czysty kontrakt=dowod interesu nie zalotow; Bran potwierdza realnosc. PRZYJELA TRIAL (miesiac zarzadu czynszami/lokatorami kamieniczki, prowizja, jej pole). Zywe zawodowe partnerstwo na gruncie szacunku. nast 14->24, zauf 4->7. Kamieniczka=male przedsiebiorstwo (Mira/Bran/Symon). 'Zobaczymy czy dowieziesz.' retoryka+1, handel+1.

@@ -3261,3 +3261,6 @@ Symon przekonal Owena mowiac jego wiara (ochrona slabszych=powinnosc bogatszego,
 
 ## 297-02-08 RANEK
 Wieczorem cwiczenia (kondycja+1), sen po wielkim dniu. Cel: chronic slabszych madrze, wpleciony w rozliczenie Polnocy. UWAGA: odwet Harwina ~02-12 (twardszy). Zegary: harwin ~02-12, podatek ~02-15, draw ~02-19.
+
+## 297-02-08 - obrona przed odwetem Harwina (rzut 100, KRYT)
+Mistrzowski dzien przygotowan: sekret zabezpieczony (list w Sepcie), pozycja prawna ZELAZNA z Torrenem (obywatelstwo/tytul/papiery ponad podwazenie - falszywy cios nie przyklei sie I wysadzi nadawcę), sojusznicy=tarcza szybkiego reagowania. ODWROCENIE: odwet Harwina/Rymana (~02-12) z zagrozenia stal sie potencjalna PULAPKA (pochopny falszywy cios = dowod korupcji dla Winterfell + koniec Harwina). Obrona=zastawiona pulapka. prawo+1, spryt+1, organizacja+1.

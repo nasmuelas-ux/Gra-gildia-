@@ -3275,3 +3275,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Sojusze cale (Nesta 75, Owen 73). Zegary:
 
 ## 297-02-09 - DD weksla dla Merka (rzut 41)
 Symon sprawdzil weksel-follow-on wg standardu PRZED oferta. Nie pasuje: Merek=wierzyciel, wiec faktoring pod jego naleznosci = ryzyko niewycenialnych zimowych dluznikow (lending w mgle, lamie bar). WERDYKT: szeroki weksel NIE (dyscyplina). Czystsze: maly zabezpieczony wycinek pod 1 pewny dlug LUB kontynuacja uslugi zarzadczej. Merek docenil brak wciskania (nast+1). audyt+1, rachunki+1.
+
+## 297-02-09 ZMIERZCH - usluga zarzadcza Merek (rzut 19)
+Symon poprowadzil triage tick Merka - czysto, ale diagnoza grim: zimowy tick w wiekszosci niesciagalny teraz (dluznicy bez grosza, zamrozone do odwilzy). Rada: triage + nie sciskac zima (nie wycisniesz+zszargasz imie). Merek sobered ale ceni prawde>bajke. Oplata +2 jel (sakiewka->14). Wartosc=klarownosc+plan. rachunki+1, audyt+1, organizacja+1.

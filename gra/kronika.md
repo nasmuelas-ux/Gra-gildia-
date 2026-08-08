@@ -3072,3 +3072,6 @@ Swietna sesja: Symon poprowadzil ksiegi dostaw czysto I wypatrzyl recurring prze
 
 ## 297-01-13 ZMIERZCH - Owen: lustro pychy (rzut 7)
 Symon przyszedl kopiowac ksiegi i pogadac - po grunt, a dostal lustro. Wieczor krzywy: glowa pelna czynszow/wniosku/patrona, omsknal pioro (kleks, przepisywal). Owen uslyszal nute pychy (przed ktora ostrzegal, kladac imie Matki 3 dni temu) - cicha powaga: 'reczylem za czlowieka znad kotla, a tobie pioro sie omsklo, boś liczyl izby'. Ostrzegl: miasto zaczyna szeptac imie Symona (juz slyszal o kamieniczce) - czy glowa tam, gdzie trzeba. Pastoralny check, nie zerwanie. Owen nast 67->65. pismo+1.
+
+## 297-01-14 RANEK
+Symon spal gleboko, wypoczety do dna; lustro Owena przyjal jako kotwice (trzymac glowe gdzie trzeba mimo wygranych), nie rane. ZEGAR widocznosc_wlasnosci ODPALIL: wiesc o kamieniczce saczy sie przez miasto; opozycja uslyszy po fakcie (wniosek zlozony), moze lobbowac rade do decyzji ~01-22. Zegary: draw ~01-19, decyzja rady ~01-22, Godric ~01-30.

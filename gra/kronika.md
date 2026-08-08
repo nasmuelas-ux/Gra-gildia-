@@ -3270,3 +3270,6 @@ Symon przyszedl pewny pochwaly za pulapke; dostal najzimniejsze spojrzenie od mi
 
 ## 297-02-08 ZMIERZCH - spor z Nesta (rzut 61)
 Symon odbil rebuke ('to nie moja wojna, mam sie chowac?'). Nesta zbila slomianego wroga (nie kazala sie chowac; sama wyrabala kantor), przyznala prawo do obrony (pulapka=madra), ale trzyma: publiczny cios=pyszna eskalacja + werbowanie jej/kantoru bez zgody. Rozroznienie: obrona madra=tak, pyszna eskalacja+cudze rece bez zgody=nie. Czujny rozejm, czesciowa naprawa (nast 66->69, zauf 31->33). retoryka+1, czytanie_ludzi+1.
+
+## 297-02-08 ZMIERZCH - rozejm z Nesta peka (rzut 2, KRYT)
+Symon napar indignanie 'jak ciebie uzywam?!' - zabrzmialo jak roszczenie. Nesta ostatecznie: uczynil kantor tarcza bez slowa (jej srebro/pozycja rzucone w jego wojne; sfora Rymana widzi teraz i ja); 'jesli musisz pytac jak - nie rozumiesz, czym jest wspolnik; martwi mnie to bardziej niz Harwin'. Zamknela rozmowe. Odslonila slepy punkt: instrumentalizacja sojusznikow (Owen/Boren/Nesta). Partnerstwo najnizej (nast 69->60, zauf 33->27). Naprawa = zmienione zachowanie, nie spor. czytanie_ludzi+1.

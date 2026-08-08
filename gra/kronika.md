@@ -3165,3 +3165,6 @@ Symon przyniosl Nescie insight z jej braawijskich ksiag (weksle/listy/commenda j
 
 ## 297-01-30 ZMIERZCH - Nesta o Mirze (rzut 19)
 Symon pytal Nesty o Mire. Nesta (sama niezalezna wdowa) twarda prawda: chlod Miry moze byc GENUINE brakiem checi do malzenstwa (wolna pismienna wdowa ma powody nie oddawac autonomii/majatku), nie 'jeszcze niezdobyta'. Symon czyta to jak niedomkniety targ - moze slepy trop. 'Przestan rozgryzac ja jak zamek.' Deflacja, ale trzezwa (echo Owena/Serli). Nowy watek zona_partnerka. czytanie_ludzi+1. Nesta nast 70.
+
+## 297-02-01 RANEK - nowy miesiac, Wielki Targ
+Symon spal, obudzil sie w nowym miesiacu jako Symon Tally, mieszczanin. Wielki Targ pierwszego dnia (Schody/port). Rozdzial 'od nedzy do korzenia' domkniety; przed nim faza budowania. Zegary: harwin ~02-10, podatek miejski ~02-15, draw ~02-19.

@@ -3159,3 +3159,6 @@ Wieczorem gimnastyka (kondycja+1). Rano wyplata Godrica: +6 jel (sakiewka 1->7),
 
 ## 297-01-30 - podzieki: Leona (22) i Aldous (67)
 LEONA: przyjela sucho (nie znosi fussu); pointed reminder - reczyla za UCZCIWOSC nie bogactwo, bedzie patrzec, czy burgher nie zgubi honestego skryby (strazniczka charakteru; nast 55). ALDOUS: ciepla podzieka, wine-anchor wiosennej spolki reaffirmed; wznieśli kubek za wiosne (nast 53->55, zauf 13->14). Wszystkie 4 podzieki splacone. czytanie_ludzi+1.
+
+## 297-01-30 ZMIERZCH - Nesta: nowy horyzont uslug kredytowych (rzut 85)
+Symon przyniosl Nescie insight z jej braawijskich ksiag (weksle/listy/commenda jako dzwignia). Nesta spojrzala jak na rownego; dala grunt: instrumenty zyja zaufaniem+wyplacalnym koncem+egzekwowalnoscia (cienko lokalnie), ale Symon ma teraz kawalki (burgher, pismo+rachunki, Nesta=braavijski koniec). Plan: zaczac malo (prosty weksel), dowiesc mechanizmu, rosnac. Nowy watek uslugi_kredytowe (handel zaufaniem i pismem - 3 ostrza Symona). nast 69->70, zauf 31->32. handel+1.

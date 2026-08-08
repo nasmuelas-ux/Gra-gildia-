@@ -3438,3 +3438,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-22 POLUDNIE/POPOLUDNIE: Symon robota u Nesty - ksiegi kantoru (rzut 44, tuz powyzej). Solidnie, chudo (zima), drobna zaplata +1 jel (sakiewka 3->4). Praktyka rachunki/audyt. Chleb powszedni.
 
 297-02-22 POPOLUDNIE: Symon odpoczal, zjadl, wybadal Mereka (rzut 59 - warto, prepare-not-squeeze), poszedl (rzut 73). Zaproponowal zimowa usluge zarzadcza: mapa dluznikow + plan restrukturyzacji teraz, egzekucja przy odwilzy (nie wyciskac zamrozonych). Merek przyjal znakomicie (poczucie kontroli, plan na wiosne). Fee prep ~2 jel (sakiewka 4->6), balans na wiosne. nast 31->35, zauf +2. Domena zarzadcza rosnie.
+
+297-02-22 NOC: Symon domknal dobry dzien - jedzenie, sen. Dwa udane zwiady-przed-krokiem (Torsen ustatkowany 41->46; Merek watek zarzadczy otwarty 31->35) + chleb u Nesty. Noc spokojna.
+297-02-23 RANEK: Wypoczety. Harwin ~02-25 (za 2 dni). Mroz.

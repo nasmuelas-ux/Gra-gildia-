@@ -3432,3 +3432,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-21 NOC: Symon domknal dzien - jedzenie, sen. Dzien: traktat->slow-burn, Mira potkniecie+nauka (zaufanie=nieobecnosc), Nesta grounding. Noc spokojna.
 297-02-22 RANEK: Wypoczety. Harwin ~02-25 (za 3 dni). Mroz ostry.
+
+297-02-22 RANEK: Symon NAJPIERW wybadal nastroje z Polnocy (rzut 93 - kalibracja: panika=inflowana plotka, brak potwierdzenia o Halvardzie, verdykt ~03-15), potem poszedl do Torsena (rzut 81). Skalibrowany, ustatkowal spietrzonego Torsena (oddzielil panike od faktu), demand-intel wpadl wlasciwie oprawiony (pozycjonowac sie by ruszyc pierwsi po odwilzy). Torsen odtajal, partnerstwo poglebione, broker-plan ustawiony. Symon=steady glowa. nast 41->46, zauf 5->7. (Wywiad-najpierw zamienil crit-fail w sukces.)

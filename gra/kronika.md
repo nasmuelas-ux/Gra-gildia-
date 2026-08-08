@@ -3347,3 +3347,6 @@ Slamazarny dzien + trzezwy wglad: kantor napiety tej zimy (dlug Antaryonow dzwig
 
 ## 297-02-14 - Torsen: re-aktywacja kanalu (rzut 79)
 Symon przyszedl z konkretem (wiosenne zamowienia dworu/zamku od Godrica + celna fala Garth) zamiast mglistych sygnalow - Torsen odgrzal sie (nast 34->41). Plan: pozycjonowanie na wiosne (Torsen<->Halvard pojemnosc gdy Biały Noz puści; Symon=broker dwor-popyt<->drewno-podaz za prowizje). Halvard wciaz milczy - podaz krucha do odwilzy. Brokerage na wiedzy (Nesta). retoryka+1, handel+1.
+
+## 297-02-14 ZMIERZCH - Hal PRZELOM (rzut 96)
+Hal wylapal prawdziwa rozbieznosc standardami audytu JAK NALEZY (we wlasciwej roli); glod->mistrzostwo. Konsekwentna obecnosc+inwestycja zwrocily sie: Hal oddany, osadzony, na drodze do realnego drugiego pisarza. Mozna powierzac wiecej pod okiem - z ciezaru w atut. nast 58->62, zauf+2. organizacja+1.

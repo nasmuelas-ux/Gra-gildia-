@@ -1330,13 +1330,14 @@
     "297-01-11 ZMIERZCH: z poreczeniem Wiary (Owen) zestaw KOMPLETNY (4 kupcy + Wiara). Torren sframuje endorsement Wiary precyzyjnie (poboznosc/sluzba, nie komercja) i poprowadzi ZLOZENIE wniosku o mieszczanstwo. Wciaga tez solidne poreczenia (Boren/Leona/Aldous/Vox). Gotow skladac - szybko, wg strategii cicho->szybko.",
     "297-01-12 RANEK (rzut 84): Torren dopracowal pismo w noc i ZLOZYL wniosek o mieszczanstwo pierwszy o otwarciu ratusza - czysto, przed wyciekiem. Pelny slate (4 kupcy + Wiara). Sprawa wciagnieta do rejestru rady, decyzja ~01-22. Wsp0lna robota na wysokim poziomie - relacja robocza mocna.",
     "297-01-22: przyniosl choremu Symonowi wiesc - RADA PRZYZNALA mieszczanstwo (warunkowo: wyzsza oplata ~12 jel + osobista przysiega ~01-27). Slate poreczen wytrzymal, Vox zabral glos, Pisarze bez sojusznika przegrali. Torren poprowadzi ceremonie/oplate. Satysfakcja z dobrze poprowadzonej sprawy.",
-    "297-01-27: poprowadzil Symona przez przysiege mieszczanska - sprawa domknieta czysto mimo cierpkiego Harwina. Symon pelnoprawny mieszczanin."
+    "297-01-27: poprowadzil Symona przez przysiege mieszczanska - sprawa domknieta czysto mimo cierpkiego Harwina. Symon pelnoprawny mieszczanin.",
+    "297-02-07 (rzut 54): Symon pytal o forum i litere na powstrzymanie Harwina. Torren dal mape z ostroznoscia: FORUM = formalna skarga do RADY, ujeta jako obrona porzadku miasta przed urzednikiem wymuszajacym strachem (nie vendetta Symona); Harwin bez sojusznika w radzie = gra na korzysc. STANDARD = potwierdzony WZOR kilku wiarygodnych, chetnych swiadkow pod przysiega/na pismie (bar WYSOKI; jeden = slowo p. slowu). CAVEATY: (1) crux = swiadkowie sie boja (strach=jego wladza), moze nie do przejscia; (2) RYMAN - pociagniesz Harwina, pociagniesz Rymana -> gleboka woda, walka z chronionymi, moze materia dla Winterfell; (3) ekspozycja Symona (Harwin pozna kto ruszyl); (4) Torren doradza/prowadzi z DYSTANSEM (kompas nie taran, wazy ekspozycje Wiary)."
    ],
    "potrzeby": [
     "porzadek w sprawach Septy",
     "posluszenstwo Wierze"
    ],
-   "ostatni_kontakt": "297-01-27",
+   "ostatni_kontakt": "297-02-07",
    "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
    "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
   },

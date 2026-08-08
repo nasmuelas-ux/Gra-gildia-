@@ -3249,3 +3249,6 @@ Symon sluzyl szczerze, ale Harwin obecny zagral PUBLICZNYM SZEPTEM ('obcy gra sw
 
 ## 297-02-07 ZMIERZCH - publiczna riposta Harwinowi (rzut 71)
 Symon publicznie odbil szept Harwina na dniu Matki - nazwal go zbirem sączacym jad i sciagajacym ludzi ze strachu, co poucza w Sepcie o dobru i zlu. Frame odwrocony (tlum pamieta najscie), Harwin wystawiony jako przesladowca-hipokryta, pierwszy raz ON placi koszt przy swiadkach (rep Schody 28->30). KOSZT: wojna jawna/osobista, Harwin wsciekly szykuje odwet twardszy (cios, nie plotka). Owen dumny z prawdy, ale zaniepokojony eskalacja. retoryka+1, czytanie_ludzi+1.
+
+## 297-02-07 ZMIERZCH - Torren: forum i litera na Harwina (rzut 54)
+Torren dal mape: forum=skarga do rady jako obrona porzadku (nie vendetta), standard=potwierdzony WZOR kilku wiarygodnych chetnych swiadkow pod przysiega (bar wysoki). Caveaty: crux=strwozeni swiadkowie musza zechciec stanac; Ryman-entanglement (gleboka woda/Winterfell); ekspozycja Symona; Torren kompas nie taran. Nastepne: cichy wywiad o innych ofiarach + czy ktos stanie. prawo+1.

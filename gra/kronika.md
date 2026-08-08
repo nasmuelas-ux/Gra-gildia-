@@ -3258,3 +3258,6 @@ Symon przyszedl po ofiary Harwina; Owen ODMOWIL - krzywdy w Sepcie sa w zaufaniu
 
 ## 297-02-07 ZMIERZCH - apel do Owena (rzut 71)
 Symon przekonal Owena mowiac jego wiara (ochrona slabszych=powinnosc bogatszego, nie vendetta; metoda zbira, nie prawo cechu; wiara zada sprawiedliwosci). Owen przyznal, ze mis-odczytal ('mowisz jak czlowiek Matki'). SYNTEZA: sprawiedliwosc I roztropnosc - dobrowolni swiadkowie, protekcja Wiary, sprawa wpleciona w rozliczenie Winterfell (nie hot war). Owen -> warunkowy sojusznik. Glebszy szacunek. nast 70->73, zauf+1. retoryka+1, czytanie_ludzi+1. Etyka Symona (ochrona slabszych) zapisana.
+
+## 297-02-08 RANEK
+Wieczorem cwiczenia (kondycja+1), sen po wielkim dniu. Cel: chronic slabszych madrze, wpleciony w rozliczenie Polnocy. UWAGA: odwet Harwina ~02-12 (twardszy). Zegary: harwin ~02-12, podatek ~02-15, draw ~02-19.

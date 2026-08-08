@@ -3096,3 +3096,6 @@ Symon zaszedl zalagodzic. Ksiega czysta, bez samowoli (lekcja przyjeta), ale Hal
 
 ## 297-01-16 POPOLUDNIE - cultivate Rollama (rzut 41)
 Symon probowal cultivate faktora bezposrednio (bez napierania). Rollam uprzejmy, ale sie nie ruszyl - druga wizyta w tydzien sygnalizuje potrzebe, co studzi ostroznego. Symon przeczytal: tej ryby nie lowi sie chodzeniem do niej; przyjdzie sam, gdy reputacja dotrze cudzymi ustami. Drobny plus (nast 6->8) + nauka: nie kurtyzowac wprost, budowac imie gdzie indziej. czytanie_ludzi+1.
+
+## 297-01-16 ZMIERZCH - Bran (rzut 89)
+Cieply wieczor bez interesu. Rzadki zimowy statek dal Branowi kilka dni roboty + grosz na wesele (oddech, nie ratunek - proba mniej jak przepasc). W dobrym humorze, pierwszy raz TO ON postawil piwo; gadali o Alys/wiosnie. Przyjazn pogłębiona (nast 51->54). Symon wyszedl lzejszy - prawdziwy grunt/odpoczynek.

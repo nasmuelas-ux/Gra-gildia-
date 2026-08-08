@@ -3075,3 +3075,6 @@ Symon przyszedl kopiowac ksiegi i pogadac - po grunt, a dostal lustro. Wieczor k
 
 ## 297-01-14 RANEK
 Symon spal gleboko, wypoczety do dna; lustro Owena przyjal jako kotwice (trzymac glowe gdzie trzeba mimo wygranych), nie rane. ZEGAR widocznosc_wlasnosci ODPALIL: wiesc o kamieniczce saczy sie przez miasto; opozycja uslyszy po fakcie (wniosek zlozony), moze lobbowac rade do decyzji ~01-22. Zegary: draw ~01-19, decyzja rady ~01-22, Godric ~01-30.
+
+## 297-01-14 - sluzba w sepcie (rzut 91)
+Dzien po lustrze pychy Symon sluzyl ubogim z wlasciwego miejsca (bez winy/pychy) - Owen zobaczyl charge zamkniety czynem, pojal ze Symon trzyma rownowage (mieszczanin z dochodem I czlowiek znad kotla). Cieplo wrocilo mocniej. Owen nast 65->68, zauf 16->17, rep wiara 60->62. pismo+1, czytanie_ludzi+1. Pride-arc zamkniety pozytywnie.

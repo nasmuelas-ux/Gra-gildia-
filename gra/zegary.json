@@ -163,6 +163,12 @@
    "opis": "Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli splaci - MECHANIZM DOWIEDZIONY (pelny sukces + reputacja brokera); jesli nie - Symon egzekwuje zastaw (towar) + kantor podpiera (ryzyko male, ograniczone). Ostateczny dowod uslug kredytowych.",
    "odpala": "297-03-10",
    "typ": "kredyt/wynik"
+  },
+  {
+   "id": "polnoc_halvard_wiesci",
+   "opis": "Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym Nozu) milczy od tygodni (rzeka skuta). Wiesci/stan drewna dopiero przy ODWILZY. Wplyw na wiosenny eksport (kluczowa deska planu). Moze byc: drewno OK / stracone / Halvard w tarapatach. Obserwowac przy roztopach.",
+   "odpala": "297-03-15",
+   "typ": "tlo/ryzyko (weather-gated)"
   }
  ]
 }

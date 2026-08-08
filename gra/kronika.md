@@ -3186,3 +3186,6 @@ Wieczorem cwiczenia (kondycja+1), sen, pelnia sil. Do zrobienia: przedlozyc pilo
 
 ## 297-02-02 - PILOT WEKSEL URUCHOMIONY (rzut 88)
 Symon przedlozyl weksel obu stronom (prowiantnik Garrik + kupiec Wend) - obaj przyjeli, weksel spisany, martwy interes ozywiony. Symon jako most (pismo+rachunek+uczciwe imie+burgher+kantor). Oplata +2 jel (sakiewka 7->9) - pierwszy zarobek z uslug kredytowych. Mechanizm dowiedziony w zasadzie; ostateczny dowod na wiosne (Wend splaca - zegar ~03-10). Ziarno reputacji brokera (cicho). handel+1, retoryka+1.
+
+## 297-02-02 ZMIERZCH - Torsen (rzut 10)
+Symon probowal odgrzac polnocny kanal pozycjonowaniem na wiosne - wyszlo zimno. Torsen zniechecony, chce TWARDEGO zamowienia nie 'sygnalow' (nast 36->34). Zla wiesc: sroga zima w glebi Polnocy, Halvard milczy od tygodni (rzeka skuta=blackout), stan drewna nieznany do odwilzy (zegar ~03-15). Wiosenne zalozenie eksportowe zachwiane - miec plan B, do reaktywacji trzeba konkretu. czytanie_ludzi+1.

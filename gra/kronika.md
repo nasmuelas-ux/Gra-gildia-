@@ -3195,3 +3195,6 @@ Wieczorem cwiczenia (kondycja+1), sen. Dzien targu rybnego. Pelnia sil. Zegary: 
 
 ## 297-02-03 - cichy wywiad o Harwinie (rzut 29)
 Symon zbieral cicho (Boren+ulica). CIENKO: Harwin ostrozny gracz (czyste powierzchnie, brak latwego brudu - sam zyje z cudzych sekretow). Zdobyte: odczyt (wkopany w przegrana krucjate -> mozliwa nieostroznosc/zajadla cierpliwosc) + potwierdzenie: opiera sie o frakcje RYMANA. Ryzyko: pytanie otarlo sie za blisko - Harwin lekko czujniejszy (zegar ->02-09). Twardej dzwigni brak; stawiac na obrone+rezerwe Ryman. spryt_uliczny+1, czytanie_ludzi+1.
+
+## 297-02-03 ZMIERZCH - Harlon: intro do Merka (rzut 39)
+Symon poprosil Harlona o biznesowe wprowadzenie do Merka. Harlon polowicznie - otworzy drzwi, mocno nie zawetuje ('grasz sam'); ostrzegl, ze Merek kwasny o odpuszczony trop; chce przysługi za przysługę (dbalosc o jego znajomosc). nast 32->33. Wniosek: do Merka wejsc z wartoscia/wzajemnoscia (interes), nie kurtuazja. czytanie_ludzi+1.

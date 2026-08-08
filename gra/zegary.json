@@ -154,10 +154,11 @@
   },
   {
    "id": "podatek_miejski",
-   "opis": "Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg majatku/wlasnosci; termin wg kalendarza podatkowego miasta. Nesta uprzedzila - planowac. || 297-02-15: TERMIN DZIS - danina miejska nalezna. Grosz odlozony. Symon musi zaplacic (ratusz/pobornik).",
+   "opis": "Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg majatku/wlasnosci; termin wg kalendarza podatkowego miasta. Nesta uprzedzila - planowac. || 297-02-15: TERMIN DZIS - danina miejska nalezna. Grosz odlozony. Symon musi zaplacic (ratusz/pobornik). || 297-02-15 (rzut 64): ZAPLACONE czysto ~3 jelenie (danina od wlasnosci+statusu mieszczanskiego). Symon wpisany do rejestru poborcy jako mieszczanin-wlasciciel placacy daninę - status OFICJALNY, na ksiegach. To ARMOR wobec szeptu Harwina o obcym: zarejestrowany, oplacony, legalny mieszczanin z wlasnoscia to nie obcy. Nastepna danina wg cyklu podatkowego miasta.",
    "odpala": "297-02-15",
    "typ": "koszt/obowiazek cykliczny",
-   "STATUS": "DUE_DZIS"
+   "STATUS": "ZAPLACONE_CYKL1",
+   "ROZSTRZYGNIETY": "297-02-15 (rzut 64): zaplacone ~3 jel, wpis do rejestru, status oficjalny"
   },
   {
    "id": "weksel_pilot_wynik",

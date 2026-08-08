@@ -3360,3 +3360,5 @@ Symon zdecydowal OSTROZNIE: pokryc luke ~15 jel z DEPOZYTU (38->23 jel), naprawi
 
 ## 297-02-15 RANEK
 Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyzji budzetowej. Rankiem: pierwszy mrozny dzien poboru - danina miejska nalezna DZIS (grosz odlozony). Termin podatku miejskiego (~02-15) odpalil.
+
+297-02-15 RANEK: Symon zjadl syto, poszedl do stolu poborcy na placu i zaplacil pierwsza daninę miejska (~3 jel, rzut 64 - czysto). Wpisany do rejestru jako mieszczanin-wlasciciel. Sakiewka 14->11 jel. Danina = staly koszt statusu, ale tez OFICJALNY slad legalnosci (armor vs szept Harwina o obcym).

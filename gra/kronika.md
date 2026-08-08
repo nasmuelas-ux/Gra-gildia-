@@ -3189,3 +3189,6 @@ Symon przedlozyl weksel obu stronom (prowiantnik Garrik + kupiec Wend) - obaj pr
 
 ## 297-02-02 ZMIERZCH - Torsen (rzut 10)
 Symon probowal odgrzac polnocny kanal pozycjonowaniem na wiosne - wyszlo zimno. Torsen zniechecony, chce TWARDEGO zamowienia nie 'sygnalow' (nast 36->34). Zla wiesc: sroga zima w glebi Polnocy, Halvard milczy od tygodni (rzeka skuta=blackout), stan drewna nieznany do odwilzy (zegar ~03-15). Wiosenne zalozenie eksportowe zachwiane - miec plan B, do reaktywacji trzeba konkretu. czytanie_ludzi+1.
+
+## 297-02-03 RANEK
+Wieczorem cwiczenia (kondycja+1), sen. Dzien targu rybnego. Pelnia sil. Zegary: harwin ~02-10, podatek ~02-15, draw ~02-19.

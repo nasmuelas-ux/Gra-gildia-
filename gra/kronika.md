@@ -3368,3 +3368,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-15 POLUDNIE: Symon poszedl do Leony z konkretem (sprawa celno-frachtowa, rzut 49 - tuz ponizej). Uczciwie, bez bajki - ale Leona preswietlila slabosc: to wzor, nie karta; nie postawi nazwiska za niedokonczona sprawa. Bez zerwania (rejestr uczciwy), bez gruntu (konkret przedwczesny). NAUKA: nie aktywowac fronta zanim sprawa=karta (zbiezne z Garthem). nast/zauf bez zmian (56/22).
 
 297-02-15 POPOLUDNIE: Symon usiadl do robota u Nesty - ksiegi/rachunki kantoru (rzut 58, czysto). Popoludnie solidnej roboty, bilanse zeszly, drobna zaplata (+1 jel -> 12). Nesta potwierdzila: draw wspolnika ~02-19 na torze; faza cichej konsolidacji trzyma, zima chuda ale kantor stabilny. Praktyka rachunki/audyt/organizacja. Zmeczenie rosnie.
+
+297-02-16 RANEK: Noc spokojna w celi przy Sepcie. Dzien 15 domkniety (podatek zaplacony, Mira domknieta, Leona - lekcja o timingu, robota u Nesty). Rankiem cicho, mroz trzyma. Zegary: draw ~02-19, Harwin ~02-25.

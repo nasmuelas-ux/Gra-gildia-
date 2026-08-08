@@ -3396,3 +3396,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-17 ZMIERZCH/NOC: Symon zjadl porzadnie i odpoczal - dzien pelny (Mira, Leona-lekcja, Nesta, Hal-przelom, Garth-reframe, Owen-przestroga, Serla-bruzda, Boren-cech suchy, 3 pomysly zapisane, Harwin-analiza kapeluszy, traktat start+rama Nesty). Noc spokojna.
 297-02-18 RANEK: Wypoczety. Jutro draw ~02-19. Cicho, mroz trzyma.
+
+297-02-18 RANEK: Symon zjadl i ruszyl traktat z szkieletem+Halem (rzut 4 - frustrujaca sesja, okolicznosciowa). Lista pytan na papierze wyszla martwa: biegłosc to nie same pytania, lecz OSAD (ktore pytanie kiedy, wech) - nowicjusz z lista wciaz nie zobaczy. Przepasc checklista vs widzenie. TWARDA LEKCJA: podrecznik uczy rusztowania, nie intuicji (ta z robienia/lat/spraw) -> dojrzewa model stajni (ksiazka+terminowanie+sprawy, nie ksiazka sama). Maly output, projekt upokorzony co do zakresu, nie wykolejony. Hal caly.

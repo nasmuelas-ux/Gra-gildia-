@@ -3210,3 +3210,6 @@ Nesta zlozyla Symonowi propozycje: (1) podnosi udzial core (realna wlasnosc), (2
 
 ## 297-02-04 ZMIERZCH - wybadanie Merka (rzut 76)
 Symon wybadal realny bol Merka: PRZEKREDYTOWANIE zimowe (kapital rozsypany po cudzych kieszeniach na krechu, naleznosci nieśledzone, ekspozycja niepewna). Idealne wejscie: usluga zarzadcza (wiekowanie naleznosci) -> potem weksle/rozproszenie ryzyka. Obowiazek + klient domeny w jednym. czytanie_ludzi+1.
+
+## 297-02-04 ZMIERZCH - usluga zarzadcza dla Merka (rzut 77)
+Symon zaproponowal usluge trafiajac w bol Merka. Merek wzial na probe (wycinek: wiekowanie/ekspozycja) - od razu pokazal wartosc (ekspozycja, 2 martwe ryzyka). Obowiazek splacony czynem, drugi klient domeny, oplata +3 jel (sakiewka->12). nast 24->30, zauf 5->6. Follow-on: weksle/rozproszenie. Wciaz winien dbalosc Harlonowi. rachunki+1, audyt+1.

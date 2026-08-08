@@ -3314,3 +3314,9 @@ Sluzba grunt bez blasku (rep wiara 65->66, wiez z Owenem trzyma). Cicho dotkneli
 
 ## 297-02-11 - Boren (rzut 73)
 Sojusz podlany (nast 57->59, mutual loyalty). Insider-intel: Cech Pisarzy nie stoi murem za Harwinem (frakcja Rymana + osobista krucjata; reszta skrybow zmeczona, patrzy krzywo na niego po wpadkach dnia Matki) - Harwin bardziej isolowany, 'uczynic nieistotnym' dziala. Boren = wczesne ostrzezenie (ucho w cechu). czytanie_ludzi+1.
+
+## 297-02-12 RANEK
+Wieczorem cwiczenia (kondycja+1), sen. Dzien okna odwetu Harwina - pulapka zastawiona, Boren=wczesne ostrzezenie, Symon opancerzony.
+
+## 297-02-12 - okno odwetu Harwina (rzut 55)
+Harwin NIE sprezyl pulapki (ostrozny, jak Nesta przewidziala). Cichy probe w POCHODZENIE Symona (kopie w przeszlosc) - Boren wylapal wczesnie, ZERO szkody (sekret zabezpieczony), Harwin cofnal sie czekac. Wektor potwierdzony: origins ku sekretowi (Stary Zamek/Ryman). Zagrozenie odroczone, patient dig; trzymac sekret zelazny+czujnosc. Przygotowanie zadzialalo. czytanie_ludzi+1.

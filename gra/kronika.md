@@ -3450,3 +3450,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-23 NOC: Symon domknal dochodowy dzien - jedzenie, sen. Nisza dowiozla (+4 jel), majatek plynny ~50 jel. Noc spokojna.
 297-02-24 RANEK: Wypoczety. Harwin ~02-25 (JUTRO okno czujnosci). Mroz.
+
+297-02-24 RANEK: Symon zjadl, poszedl do Borena badac nastroje wokol Harwina (rzut 1 CRIT-FAIL scouta). Boren nic nowego (Harwin cichy), ALE dopytywanie Symona pechowo otarlo sie o orbite Harwina - ktos wychwycil, ze obcy AKTYWNIE wypytuje = sygnal wrogowi ze Symon obserwuje/nerwowy. Podniesiona czujnosc Harwina (NIE atak, zwiekszone ryzyko w oknie ~02-25). Boren przygana: nie TY wypytuj, ja obserwuje, zostan czysty. NAUKA (3 kapelusze potwierdzone twardo): Harwina nie scoutuje sie zaczepkami - czyni cie widocznym. nast Boren trzyma 60.

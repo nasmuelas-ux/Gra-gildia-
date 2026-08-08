@@ -158,6 +158,12 @@
    "opis": "Harwin/Cech Pisarzy przegrali publicznie i zostali upokorzeni; przy przysiedze Harwin rzucil zawoalowana grozbe (bedzie pilnowal 'obcego', przysiega nie wymaze pochodzenia). Aktywny, zmotywowany wrog - moze kopac w origins Symona (ryzyko natrafienia na nitki ku sprawie Rymana/Stary Zamek), szukac zaczepki, sabotowac. Slow-burn zagrozenie - obserwowac.",
    "odpala": "297-02-10",
    "typ": "zagrozenie (slow-burn)"
+  },
+  {
+   "id": "podatek_miejski",
+   "opis": "Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg majatku/wlasnosci; termin wg kalendarza podatkowego miasta. Nesta uprzedzila - planowac.",
+   "odpala": "297-02-15",
+   "typ": "koszt/obowiazek cykliczny"
   }
  ]
 }

@@ -3135,3 +3135,6 @@ Symon zlozyl przysiege przed rada i zostal PELNOPRAWNYM MIESZCZANINEM Bialego Po
 
 ## 297-01-27 - NAZWISKO: SYMON TALLY
 Symon przyjal nazwisko TALLY (rachunek/rozliczenie - 'czlowiek, u ktorego liczby wychodza prawdziwe'; echo poreczenia Leony o jego uczciwych ksiegach). Nie od pochodzenia (bezpieczne wobec Harwina/sekretu), lecz od rdzennego ostrza. Po raz pierwszy podpisal umowe 'Symon Tally'. Ziarno nazwiska/domu, stwardnieje przez lata (madrosc Owena).
+
+## 297-01-27 ZMIERZCH - robota u Nesty (rzut 35)
+Symon (mieszczanin, jeszcze slaby po febrze) wrocil do ksiag - sesja slamazarna (niedoleczony, rachunki+1, zdrowie->95). Nesta pogratulowala krotko, ale wycenila CIEZARY mieszczanstwa: podatki miejskie/pobor, powinnosci (straz/daniny/rada), widzialnosc/rozliczalnosc; + upokorzony Harwin to grozba ('upokorzony pies gryzie'). Nowy zegar podatek_miejski ~02-15. Nagroda z rachunkiem w malym druku.

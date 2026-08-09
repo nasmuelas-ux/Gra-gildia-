@@ -172,6 +172,12 @@
    "opis": "Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym Nozu) milczy od tygodni (rzeka skuta). Wiesci/stan drewna dopiero przy ODWILZY. Wplyw na wiosenny eksport (kluczowa deska planu). Moze byc: drewno OK / stracone / Halvard w tarapatach. Obserwowac przy roztopach. || 297-02-22 (WYWIAD rzut 93): Symon PRZED wizyta u Torsena wybadal nastroje z Polnocy (docker/zeglarze/targ/siec Nesty). KALIBRACJA: krążą anxious szepty o srogiej zimie w glebi - ALE Symon oddzielil sygnal od szumu: to glownie PORT-PESYMIZM/inflacja plotki (second-hand, mgliste, zwykly zimowy strach spuchniety), BRAK twardego potwierdzenia o Halvardzie/kanale Bialego Noza konkretnie. Grounded punkt przeciw panice: swiezy przekaz z gory rzeki sugeruje, ze szlak jest CIEZKI ale nie katastroficznie gorszy niz normalna sroga zima. FEAR OUTRUNNING KNOWLEDGE. Realny status wciaz nieznany (verdykt ~03-15), ale obecna panika = vibes nie verdykt. Symon idzie do Torsena SKALIBROWANY (nie sploszony), moze go USTATKOWAC.",
    "odpala": "297-03-15",
    "typ": "tlo/ryzyko (weather-gated)"
+  },
+  {
+   "id": "wesele_bran_alys",
+   "opis": "Wesele Brana (dozorca kamieniczki) i Alys - Symon proszony jako swiadek/pisarz (spisac-odczytac slowa, stanac przy nim). Marker przynaleznosci Symona w miescie.",
+   "odpala": "297-04-07",
+   "typ": "ludzkie/wydarzenie"
   }
  ]
 }

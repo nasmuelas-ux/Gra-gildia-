@@ -3560,3 +3560,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-05 NOC: Symon wrocil do septy, czytal, jem, sen. Bufor ~69 jel. Noc spokojna.
 297-03-06 RANEK: Wypoczety. Lull do weksla ~03-10 (za ~4 dni). Przedwiosnie, cieplej.
+
+297-03-06 RANEK: Symon odwiedzil Brana (rzut 87) - cieplo, Bran kwitnie. WESELE z Alys: data ustalona ~297-04-07 (dzien Matki, wiosna). Bran POPROSIL Symona by byl czescia (swiadek/pisarz/stanac przy nim) - marker przynaleznosci. Do harmonogramu. nast 66->69.

@@ -3801,3 +3801,6 @@ Symon odwiedzil Wende po ludzku (14 dni). U ciepłej duszy agenda-less gra piekn
 
 ## 297-03-21 RANEK — korekta opalu (odczyt zwalidowany)
 Symon zmyl dzien w lazni, zjadl, pocwiczyl i przespal noc (zmeczenie 5). Rano dokonala sie KOREKTA OPALU: cena osiadla 1.9->1.25 (odwilz + podaz Polnocy cala). Jego odczyt sprzed tygodnia (03-15, rzut 99) w pelni zwalidowany - opal byl spadajacym nozem. Kto trzymal go kupiony u szczytu, podtopil sie (kandydaci na mostowy kredyt - okno otwarte, ale Symon kapital-light + quiet-pivot, wiec obserwuje, nie rzuca sie). Kolodzieje/rzemioslo dostaja tanszy wsad - materializuje sie pozytywne spoiwo bloku (ktore kupil Boren). Sytosc 55.
+
+## 297-03-21 RANEK — wywiad o zlecenia w sieci
+Symon obszedl dojscia szukajac platnej roboty (rzut 64). Wyplynal LEAD PREMIUM: AURANE - zamozny wlasciciel skladow portowych, ktorego Godric polecil w 11-19 jako dyskretnego czlowieka od liczb, a Symon nigdy nie podjal (zimowy natlok). Teraz idealna pora: wiosna rusza zegluge, sklady pecznieja ladunkiem = wlasciciel potrzebuje ogarnietych ksiag/inwentarza/przeplywu. Klient premium+dyskretny (pasuje do pivotu ciszy), cieply referral od Godrica. Zaniedbany 4 miesiace - warto ruszyc. Plus drobne zlecenia weryfikacyjne z flywheela niszy (wiosenne papiery). Baseline: listy/umowy. Sytosc 64, zmeczenie 12.

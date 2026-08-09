@@ -2,12 +2,12 @@
  "data": {
   "rok": 297,
   "miesiac": 3,
-  "dzien": 20,
+  "dzien": 21,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja",
- "pogoda": 55,
+ "pogoda": 56,
  "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
  "nastroje_miasta": "297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien). Wielkie watki do wiosny.",
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.4,
-   "przyczyna": "odwilz - opal blisko normy (korekta ~03-21)"
+   "mnoznik": 1.25,
+   "przyczyna": "KOREKTA: opal osiadl u dolu (odwilz + podaz Polnocy cala) - zimowy szczyt zszedl, kto trzymal drogo podtopil sie"
   },
   "wino_korzenne": {
    "baza": 5,

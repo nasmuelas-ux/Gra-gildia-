@@ -233,7 +233,9 @@
    "odlicza_do": "297-03-21",
    "opis": "Cena opalu/drewna opalowego spada z zimowego szczytu (odwilz + potwierdzona podaz Polnocy). Kto przetrzymal opal kupiony u szczytu - podtapia sie; kandydaci na mostowy kredyt/plynnosc. Kolodzieje/rzemioslo: tanszy wsad.",
    "co_sie_stanie": "opal osiada ku ~1.2-1.3x; odslania przetrzymujacych (weksle selektywnie) i ulZa konsumentom drewna (kolodzieje - kapital relacyjny przez Borena)",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "ODPALIL": "297-03-21: KOREKTA DOKONANA - opal osiadl 1.9->1.25 (odwilz + potwierdzona podaz Polnocy). Odczyt Symona (03-15, rzut 99) w pelni zwalidowany. Kto trzymal opal kupiony u szczytu = podtopiony (kandydaci na mostowy kredyt - okno OTWARTE, ale Symon kapital-light + quiet-pivot, wiec obserwuje nie rzuca sie). Kolodzieje/rzemioslo: TANSZY WSAD materializuje sie (pozytywne spoiwo bloku, ktore kupil Boren).",
+   "zamkniety": true
   },
   {
    "id": "braavijska_flotylla_sukna",

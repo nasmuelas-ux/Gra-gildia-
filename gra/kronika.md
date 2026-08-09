@@ -3798,3 +3798,6 @@ Symon dostarczyl triaz czysto (trojkoszowy rejestr). Dwa odkrycia: (1) dlugi bie
 
 ## 297-03-20 POPOLUDNIE — Wenda: cieplo, ktore naprawia dzien
 Symon odwiedzil Wende po ludzku (14 dni). U ciepłej duszy agenda-less gra pieknie (kontrast z dzisiejszym Harlonem). 'A jest i moj chlopiec!' - miejsce przy straganie dla swojego. Rodzina: Dake wraca na wode (ryba z wiosna), mlodym sie uklada, Mella zdrowa. Wenda (ucho dolu miasta) sypnela pulsem: kto wraca do roboty z odwilza, komu ciezko - zywy obraz tego, co Symon zlozyl nad ksiegami Merka. Rooting poglebiony: na dole mowia o Symonie dobrze (uczciwy, swoich pamieta) - korzen anti-whisper. Rzut 86. Zly dzien domkniety po ludzku. Wenda nast 47->51, zauf 15->16. Sytosc 58, zmeczenie 36.
+
+## 297-03-21 RANEK — korekta opalu (odczyt zwalidowany)
+Symon zmyl dzien w lazni, zjadl, pocwiczyl i przespal noc (zmeczenie 5). Rano dokonala sie KOREKTA OPALU: cena osiadla 1.9->1.25 (odwilz + podaz Polnocy cala). Jego odczyt sprzed tygodnia (03-15, rzut 99) w pelni zwalidowany - opal byl spadajacym nozem. Kto trzymal go kupiony u szczytu, podtopil sie (kandydaci na mostowy kredyt - okno otwarte, ale Symon kapital-light + quiet-pivot, wiec obserwuje, nie rzuca sie). Kolodzieje/rzemioslo dostaja tanszy wsad - materializuje sie pozytywne spoiwo bloku (ktore kupil Boren). Sytosc 55.

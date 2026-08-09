@@ -3733,3 +3733,8 @@ Symon poszedl popracowac przy ksiegach Godrica - ale trafil na wir: Nowy Zamek b
 
 ## 297-03-17 POLUDNIE — Aldous: wino doszlo, przyjazn odswiezona
 Symon odwiedzil Aldousa (handlarz winem, 20 dni bez kontaktu). Dobra nowina: partia wina skuta lodem od 11-13 splynela z odwilza; Aldous uregulowal co mial pod zastaw, zobowiazanie/przysluga domknieta czysto ('kamien z serca'). Reszta to przyjazn - reaffirmowal sie jako pewny odbiorca braawijskiego wina (wine-anchor spolki trzyma, sezon otwiera sie z galerami). Wcisnal Symonowi dzban 'na probe'. Wiez mocna - 20 dni zeszlo w kwadrans. Rzut 53. Aldous nast 59->63, zauf 15->16. Zegar aldous_wino_dojdzie zamkniety. Sytosc 68, zmeczenie 36.
+
+## 297-03-17 POLUDNIE — Owen: zima puszcza, tend patrona
+Symon odwiedzil Owena (11 dni). Owen wyraznie lzejszy - zima puszcza, kolejka reliefu krotsza, ludzie wracaja do roboty, galery przywoza; 'przetrwalismy najgorsze'. Fala rozpaczy, ktora dzwigal miesiacami, opada. Owen nie prosi o nic dla siebie, ale przy pytaniu wspomnial: koniec zimowego reliefu = trzeba rozliczyc rachunki wsparcia (co rozdano/z czego/ile zostalo pod wiosne) - robota wprost dla Symona. Ryman/Winterfell wciaz cicho w drodze (miesiace). Wiez najglebsza. Rzut 70. Owen nast 78->80, zauf 24->25.
+KSIEGOWO (domkniecie mostka Aldousa): wino doszlo z odwilza, Aldous splaca mostek do kantoru Nesty (kapital + uczciwe odsetki). Symon jako wspolnik kantoru ma udzial w odsetkach (zysk w kantorze, sakiewka bez zmian). Kredyt pod zastaw splacony CZYSTO - filar kredytowy zwalidowany (zastaw > miekkie zaufanie, kontrast z wekslem Wendy).
+Sytosc 62, zmeczenie 40.

@@ -3697,3 +3697,7 @@ Rzut 55. Leona nast 61->63, zauf 24->25. Nowy zegar: braavijska_flotylla_sukna ~
 
 ## 297-03-16 POPOLUDNIE — Grunt pod zamowienie Leony (bramka danych)
 Symon siadl w kantorze faktorii do przygotowania gruntu pod pierwsze wiosenne zamowienie sukna Leony. Szablon prawny wyszedl gladko: szkielet umowy, terminy, gatunki, klauzule ochronne przeciw skracaniu miary. ALE sedno - weryfikacja konkretnego dostawcy z nadchodzacej flotylli - okazalo sie bramkowane na manifestach: faktoria nie ma swiezych braavijskich danych po zimie (korespondencja stala z galerami), kto plynie i na jakich papierach wyjdzie dopiero z przyjsciem statkow. Symon skonczyl szablon i odlozyl porzadna DD na dzien flotylli (~03-27) - trzezwo, zamiast budowac na piasku. Rzut 26 (ponizej z powodu bramki danych, nie nieudolnosci). Sytosc 48, zmeczenie 38.
+
+## 297-03-16 WIECZOR — Torsen: wiesc juz znana, wartosc = popyt nie podaz
+Symon zjadl, odpoczal i poszedl do Torsena z dobra wiescia o Halvardzie/Polnocy. Ale Torsen JUZ WIEDZIAL - to jego faktor, poslaniec doszedl 03-15; o swoim slyszy pierwszy, nie z portowej plotki. Wiesc nie byla nowina, wiec wizyta odswiezyla wiez tylko umiarkowanie. Torsen (pragmatyk) mierzy ta sama miara co zima: nie sygnaly, twarde zamowienia. Nauka wieczoru: wartosc Symona dla Torsena to nie przekaz o PODAZY (ma z pierwszej reki), lecz agregacja POPYTU - tanszy wsad z odwilzy ozywi zamowienia kolodziejow (Boren), dwor szykuje wieksze wiosenne zakupy (Godric). 'Przynies mi odbiorcow, mlody.'
+Rzut 31. Torsen nast 48->50, zauf 7->8. Sytosc 62, zmeczenie 36.

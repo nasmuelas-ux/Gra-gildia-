@@ -3544,3 +3544,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-03 NOC: Symon domknal dzien - jem, sen. Serla naprawiona+lokator w toku, chleb u Nesty (sakiewka 26). Noc spokojna.
 297-03-04 RANEK: Wypoczety. Lull do weksla ~03-10.
+
+297-03-04 RANEK: Symon zjadl i pracowal w Sepcie (rzut 14 - mozolnie, nie zmeczenie/pora lecz sama robota). Zimowe ksiegi reliefu okazaly sie PLATANINA po chaotycznych rozdzialach (wiele rak, dosyp lorda, robota Hala) - zamkniecie ich czysto to slog na kilka sesji, nie jeden ranek; dzis maly klarowny postep. Bez szkody; Owen docenia trud. Flag: relief-books do porzadnego domkniecia (moze z Halem).

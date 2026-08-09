@@ -3619,3 +3619,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-11 RANEK: Symon odwiedzil Torsena, spytal o pomoc (rzut 50). Spokojniejszy, czeka na Halvarda (~03-15). Pomoc=steady glowa+potwierdzony popyt (dwor/zamek) gotowy do startu; Torsen ustatkowany, partnerstwo utrzymane, spozycjonowani na okno odwilzowe. nast 46->48.
 
 297-03-11 POLUDNIE: Symon do Torrena - pomoc + prosba o nauke prawa (rzut 66). UKLAD MENTORSTWA: Torren uczy prawa w zamian za pomoc pisarska przy sprawach prawnych Septy. Wartosc: nauczyciel (osad z mentora+spraw), tarcza prawna, grunt pod sprawe celna, Wiara legal work. nast 13->18, zauf 6->8. Nowy watek nauka_prawa_torren.
+
+297-03-11 POPOLUDNIE: Symon zjadl i pracowal przy sprawach prawnych Septy z Torrenem (rzut 56) - pierwsza sesja mentorstwa, produktywna. Odciazyl Torrena, uczyl sie prawa na realnych sprawach (osad od mistrza). Praktyka prawo. nast 18->20.

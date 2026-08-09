@@ -3510,3 +3510,8 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-28 POPOLUDNIE: Symon zjadl, odpoczal, potem drugi klient niszy przez referral Denysa (rzut 77) - flywheel surge, premium weryfikacja czysto, fee ~4 jel (sakiewka 18->22). Denys rad. Dwa premium w dzien=gora okna niszy (nie oczekiwac trzeciego). Bufor ~62 jel plynne przed wiosna. Denys nast +2.
 
 297-02-28 ZMIERZCH/NOC: Symon poszedl jeszcze popracowac u Nesty przy swiecy (rzut 41 marginal - krotka wieczorna sesja ksiegowa). Nesta pol-przygania (dobry dzien, nie zaharowuj sie), robota keep. Praktyka rachunki. Zmeczenie realne (dlugi dochodowy dzien).
+
+297-02-28 NOC: Symon domknal dzien - jedzenie, sen. Bardzo dochodowy koniec zimy (~62 jel plynne). Noc spokojna.
+
+## 297-03-01 RANEK - PIERWSZY DZIEN MIESIACA (przedwiosnie)
+Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pierwszego dnia miesiaca - miasto zywsze, kupcy, tlum. Okno dachu kamieniczki zaczyna sie otwierac (Donnel oceni odwilz). Wiosenny klaster startuje: weksel-pilot ~03-10, Halvard ~03-15, draw ~03-19.

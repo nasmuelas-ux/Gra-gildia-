@@ -3712,3 +3712,6 @@ Rzut 77. Nesta nast 79->80, zauf 39->40. Sytosc 50, zmeczenie 42.
 
 ## 297-03-17 RANEK — noc spokojna, pelny odpoczynek
 Symon zjadl i polozyl sie wczesnie; przespal noc w pelni (zmeczenie 5). Odwilz trzyma, opal osiada dalej (1.6->1.55, korekta blisko). Nic pilnego nie odpalilo. Sytosc 55.
+
+## 297-03-17 RANEK — Serla: szary poranek, dana obecnosc
+Symon wpadl do Serli po ludzku (14 dni bez kontaktu), ale trafil na jej chudy, zgryziony poranek: poddasze wciaz puste, podsuniety lokator sie nie zdecydowal (waha sie, oglada inne izby), a pusty pokoj przy odwilzy to dla wdowy cichy niepokoj o grosz. Symon nie napieral z 'pomoca' (nauka z 02-17) - usiadl, sluchal, spokojnie przypomnial, ze lokator wciaz realny (odwilz dopiero ruszyla). Nie usunelo trosk, ale rozrzedzilo; sama obecnosc wazy u niej wiecej niz rada. Rzut 23 (ponizej okolicznosciowo, nie wina). Serla nast 46->47, zauf 11 hold. Lokator: lead zywy, niedomkniety - do potwierdzenia gdy czlowiek zdecyduje. Sytosc 64, zmeczenie 12.

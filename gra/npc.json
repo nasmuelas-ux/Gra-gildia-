@@ -1549,9 +1549,10 @@
    "nastawienie_do_gracza": 15,
    "zaufanie": 5,
    "wie_o_graczu": [
-    "297-02-02: wzial zapasy na weksel Symona (placi gdy wroca naleznosci wiosna, oplata+towar w zastaw). Wdzieczny - inaczej deal by przepadl. DLUZNIK weksla: musi splacic na termin (amber - naleznosci prawdopodobne nie pewne)."
+    "297-02-02: wzial zapasy na weksel Symona (placi gdy wroca naleznosci wiosna, oplata+towar w zastaw). Wdzieczny - inaczej deal by przepadl. DLUZNIK weksla: musi splacic na termin (amber - naleznosci prawdopodobne nie pewne).",
+    "297-03-10 (rzut 17): NIE splacil weksla w terminie - default z TIMINGU (wiosenne naleznosci opoznione wolna odwilzia, statek/dluznik w drodze; zgnebiony, zawstydzony, NIE oszust). Zastaw(towar) chroni Symona. Decyzja Symona: egzekucja zastawu vs restrukturyzacja/przedluzenie."
    ],
-   "ostatni_kontakt": "297-02-02",
+   "ostatni_kontakt": "297-03-10",
    "cechy_mowy": "zywy, troche nerwowy o pieniadze"
   },
   {

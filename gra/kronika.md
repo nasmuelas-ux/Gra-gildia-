@@ -3601,3 +3601,8 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-09 POPOLUDNIE: Symon odswiezyl Colla (wywiad 69, wizyta 57) - dostawca skor po ~109d. Relacja utrzymana, spozycjonowana na wiosenna dostawe (noga wywozowa spolki egz.); Coll moze dac wiecej. Ekonomia egz. wywozu niepotwierdzona - nie skalowac, ale opcja trzymana. nast 16->20.
 
 297-03-09 ZMIERZCH: Symon zajrzal do Ostyna spytac jak idzie (rzut 51). Wierzyciel splacony (sprzedaz uratowala go), stoi na nogach, sol/ryba slaba/odbudowuje sie; wdzieczny ze zapytal. Goodwill=imie przyzwoitego czlowieka; drobny kontakt na przyszlosc. nast 40->43.
+
+297-03-09 NOC: Symon domknal dzien tendow (Elna,Wat,Coll,Ostyn - stygnacy odswiezeni). Noc spokojna.
+297-03-10 RANEK: WEKSEL-PILOT dojrzewa dzis - pierwszy twardy wynik wiosennego klastra (kupiec Wend splaca gdy wroca wiosenne naleznosci, albo egzekucja zastawu). Odwilz.
+
+297-03-10 RANEK: WEKSEL-PILOT (rzut 17) - Wend NIE splacil w terminie: default z TIMINGU (naleznosci opoznione wolna odwilzia, nie oszustwo). Mechanizm zadzialal jako ubezpieczenie (zastaw+kantor=ryzyko ograniczone, Symon nie traci) - domena sprawdzona przez bezpieczne przetrwanie defaultu, ale czysty dochodowy pilot niepotwierdzony (workout). DECYZJA PENDING: egzekwowac zastaw vs restrukturyzowac/przedluzyc vs pośrednie.

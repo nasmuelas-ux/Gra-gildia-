@@ -163,9 +163,10 @@
   },
   {
    "id": "weksel_pilot_wynik",
-   "opis": "Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli splaci - MECHANIZM DOWIEDZIONY (pelny sukces + reputacja brokera); jesli nie - Symon egzekwuje zastaw (towar) + kantor podpiera (ryzyko male, ograniczone). Ostateczny dowod uslug kredytowych.",
+   "opis": "Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli splaci - MECHANIZM DOWIEDZIONY (pelny sukces + reputacja brokera); jesli nie - Symon egzekwuje zastaw (towar) + kantor podpiera (ryzyko male, ograniczone). Ostateczny dowod uslug kredytowych. || 297-03-10 (rzut 17): Wend NIE splacil w terminie - DEFAULT Z TIMINGU (wiosenne naleznosci opoznione wolna odwilzia, statek/dluznik w drodze; NIE oszustwo). MECHANIZM ZADZIALAL jako ubezpieczenie: zastaw(towar)+kantor=ryzyko Symona OGRANICZONE, nie traci. Dowod: domena sprawdzona nie brakiem defaultow lecz bezpiecznym przetrwaniem defaultu. ALE czysty dochodowy pilot NIEpotwierdzony -> workout. DECYZJA PENDING: (1) egzekwowac zastaw (szybko/czysto/deterrent, ale twardy cios w zdesperowanego, ryzyko reputacji twardego wierzyciela) vs (2) restrukturyzowac/przedluzyc (przyzwoite, imie sprawiedliwego, ale kapital zamrozony dluzej) vs pośrednie (przedluzyc pod warunkiem/drobna oplata).",
    "odpala": "297-03-10",
-   "typ": "kredyt/wynik"
+   "typ": "kredyt/wynik",
+   "ROZSTRZYGNIETY": "297-03-10 (rzut 17): default z timingu, zastaw chroni Symona (nie traci); decyzja seize vs restructure PENDING"
   },
   {
    "id": "polnoc_halvard_wiesci",

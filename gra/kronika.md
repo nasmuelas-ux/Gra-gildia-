@@ -3532,3 +3532,6 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-02 POPOLUDNIE: Symon popracowal nad ksiegami Godrica (rzut 56, maintenance) - czysto, modest fee ~2 jel (sakiewka 22->24). Court-conduit trzyma; ambient: zamek dalej ramp-uje wiosenne zaopatrzenie. Godric 56->57. Praktyka rachunki.
 
 297-03-02 ZMIERZCH/NOC: Symon poszedl jeszcze pracowac w Sepcie (rzut 24 - jalowo). Za pozno, swieca skapa/droga, a Symon zmeczony po pelnym dniu (Donnel, Nesta, Godric) - ksiegi jalmuzny szly wolno, malo postepu, oczy meczy. Zdrowy rozsadek (echo rady Nesty): grinding kazdej godziny = diminishing returns; lepiej odpoczac. Bez szkody, bez zysku. Zmeczenie wysokie.
+
+297-03-02 NOC: Symon domknal dzien - jem, sen. Nauka: nie grindowac kazdej godziny. Noc spokojna.
+297-03-03 RANEK: Wypoczety. Przedwiosnie, cieplej. Lull do weksla ~03-10. Wszystko pre-pozycjonowane.

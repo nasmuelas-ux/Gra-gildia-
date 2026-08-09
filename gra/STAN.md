@@ -32,7 +32,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 55
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 61
-- **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 68
+- **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 69
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 48
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 37
 

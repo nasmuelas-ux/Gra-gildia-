@@ -179,6 +179,14 @@
    "opis": "Wesele Brana (dozorca kamieniczki) i Alys - Symon proszony jako swiadek/pisarz (spisac-odczytac slowa, stanac przy nim). Marker przynaleznosci Symona w miescie.",
    "odpala": "297-04-07",
    "typ": "ludzkie/wydarzenie"
+  },
+  {
+   "id": "wat_ksiegi_wiosna",
+   "typ": "robota",
+   "odlicza_do": "297-03-17",
+   "opis": "Wiosenny refresh ksiag premium Wata (rosnacy kupiec, wiecej kontrahentow/tras). Zadatek 4 jel wziety, saldo ~9 jel na dostawie.",
+   "co_sie_stanie": "dostarczenie pelnych ksiag zarzadczych Watowi -> saldo ~9 jel; utrwalenie marki premium+dyskrecja",
+   "widoczny_graczowi": true
   }
  ]
 }

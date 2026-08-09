@@ -1346,19 +1346,20 @@
    "stan": "mieszczanin",
    "zawod": "kupiec suknem i prowiantem (Schody), sredniej reki, rosnacy",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 20,
-   "zaufanie": 9,
+   "nastawienie_do_gracza": 26,
+   "zaufanie": 10,
    "wie_o_graczu": [
     "slyszal na kupieckiej gieldzie (od Voxa) o 'cudownych ksiegach skryby'; chce takiej samej uslugi",
     "d15 (rzut 89): przyjety jako klient POD TWARDA KLAUZULA DYSKRECJI + slona cena. Symon sprzedal terminy jako PRESTIZ (usluga dyskretna i selektywna - cena i milczenie to bilet wstepu); dla status-climbera EKSKLUZYWNOSC pochlebia -> Wat przyjal ochoczo, zadatek 3 jel, reszta ~7 na dostawie. Gadula OKIELZNANY: milczenie = warunek bycia 'w srodku'. Widocznosc opanowana, kanal kontrolowany.",
     "d18 (rzut 60): Symon dostarczyl pelne ksiegi premium czysto - wiekowanie naleznosci, rentownosc per klient/trasa (pokazal Watowi ktora noga cicho topi grosz), kalendarz zobowiazan, progi. Wat pod wrazeniem, zaplacil 7 jel salda; klauzula dyskrecji trzyma (duma z ekskluzywnosci). Solidny anchor premium; model premium+dyskrecja zwalidowany na wiekszym kliencie.",
-    "297-03-09 (wywiad 16 slaby; wizyta rzut 53): reconnect cooling-klienta (~81d). Premium-marka+tamta czysta robota trzymaja; Wat ROSNIE (sredni ale pnie sie) -> rosnaca potrzeba ksiag = perspektywa powtornej premium roboty na wiosne. Solidnie, nie olsniewajaco (wszedl bez wyczucia). NUGGET: Wat handluje prowiantem = wozi frachtem = potencjalny przyszly wektor sprawy celnej (nie forsowac, zanotowane). nast 16->20, zauf 8->9."
+    "297-03-09 (wywiad 16 slaby; wizyta rzut 53): reconnect cooling-klienta (~81d). Premium-marka+tamta czysta robota trzymaja; Wat ROSNIE (sredni ale pnie sie) -> rosnaca potrzeba ksiag = perspektywa powtornej premium roboty na wiosne. Solidnie, nie olsniewajaco (wszedl bez wyczucia). NUGGET: Wat handluje prowiantem = wozi frachtem = potencjalny przyszly wektor sprawy celnej (nie forsowac, zanotowane). nast 16->20, zauf 8->9.",
+    "297-03-14 (kontrakt 98, jakosc 92): Symon wpadl w idealny moment - Wat urosl przez zime (wiecej kontrahentow, wieksze trasy) i sam czul, ze stare ksiegi mu nie nadazaja. Symon zaproponowal WIOSENNY refresh premium (pelne ksiegi zarzadcze: wiekowanie naleznosci, rentownosc per klient/trasa, kalendarz zobowiazan) - Wat przyjal ochoczo, dumny z ekskluzywnosci (dyskrecja=bilet do bycia 'w srodku'). Zadatek 4 jel, saldo ~9 na dostawie (~03-17). NUGGET (Wat gadula, sam sypnal, bez pchania): wozi prowiant frachtem i marudzil, ze na cle przy Bramie Foki 'znowu inaczej licza' po odwilzy - mimochodem potwierdza nierowny fracht z INNEGO zrodla niz Garth (koroboracja, zrodlo nieswiadome; NIE forsowac, zanotowane). Model premium+dyskrecja zwalidowany na powtornym, rosnacym kliencie. nast 20->26, zauf 9->10."
    ],
    "potrzeby": [
     "ogarnac ksiegi po szybkim rozroscie interesu",
     "nadazyc za wiekszymi graczami Schodow"
    ],
-   "ostatni_kontakt": "297-03-09",
+   "ostatni_kontakt": "297-03-14",
    "cechy_mowy": "gadatliwy, serdeczny, sypie nazwiskami; lubi byc 'w kursie'",
    "_vetting_296-12-15_rzut91": "CZYSTY READ: uczciwy w handlu, placi dlugi, bez smrodu oszustwa - jako osoba BEZPIECZNY. ALE: (1) sam jest GADULA wpiety w plotkarska siec gieldy (stad w ogole slyszal) -> przyjecie go = jeszcze glosniejszy pilar, dokladnie odwrotnie niz 'cichy'; (2) wiekszy/lepiej wpiety niz Vox -> jego ksiegi dotykaja WIEKSZYCH kontrahentow (eskalacja ryzyka w gore, jak ostrzegala Nesta). DECYZJA: przyjac (wzrost+grosz, ale glosniej) / przyjac pod TWARDA klauzula dyskrecji + wysoka cena (spowolnic naplyw) / odmowic-odroczyc (chronic cisze). Symon czyta go dosc, by go OKIELZNAC jesli wezmie."
   },

@@ -3652,3 +3652,9 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-14 RANEK: Wypoczety. Odwilz pelna (pogoda 33). KLASTER jutro ~03-15: Halvard/Polnoc, dach rusza, rynek stabilizuje sie.
 
 297-03-14 RANEK: Symon do Gartha (wywiad 4, wizyta 13 - zla pora). Odwilz ozywila komore celna (statki/oczy/oko zamku), zimowa prywatnosc znikla; Garth rozdygotany, obecnosc Symona konspicuous przy zrodle - wycofal sie. NAUKA spring-OPSEC: Gartha grzac dyskretnie/na uboczu, nie przy publicznej lawie. nast 37->36, bez zagrozenia.
+
+## 297-03-14 POPOLUDNIE — Wat kupiec: wiosenny refresh ksiag premium
+Symon poszedl na Schody do Wata (sredniej reki kupiec suknem i prowiantem, powracajacy klient premium). Trafil idealny moment: przez zime Wat urosl - wiecej kontrahentow, wieksze trasy - i sam czul, ze zimowe ksiegi mu nie nadazaja. Symon zaproponowal wiosenny refresh: pelne ksiegi zarzadcze (wiekowanie naleznosci, rentownosc per klient/trasa, kalendarz zobowiazan, progi). Wat przyjal ochoczo - duma z ekskluzywnosci (dyskrecja to bilet do bycia "w srodku"). Zadatek 4 jel, saldo ~9 na dostawie (~03-17).
+Przy okazji Wat, gadula, sam sypnal nugget: wozi prowiant frachtem i marudzil, ze na cle przy Bramie Foki "znowu inaczej licza" po odwilzy - mimochodem koroborujac nierowny fracht z innego zrodla niz Garth (zrodlo nieswiadome; nie forsowane, zanotowane).
+Rzuty: kontrakt 98, jakosc 92 - czysty sukces bez komplikacji (chleb powszedni Symona, idealny timing). Model premium+dyskrecja zwalidowany jako POWRACAJACY przychod.
+Zmiany: sakiewka 10->14 jel (zadatek). Wat nast 20->26, zauf 9->10. Nowy zegar: dostawa ~03-17 (saldo ~9 jel). Sytosc 58, zmeczenie 24.

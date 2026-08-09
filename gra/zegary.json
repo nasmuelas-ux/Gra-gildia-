@@ -242,6 +242,14 @@
    "co_sie_stanie": "flotylla dobija -> realizacja pierwszego wiosennego zamowienia sukna: weryfikacja + prowizja Symona; reaktywacja stalej linii",
    "widoczny_graczowi": true,
    "przygotowanie": "Szablon prawny/struktura zamowienia GOTOWE (03-16). Na przyjscie zostaje weryfikacja dostawcy z manifestow + pieczec + prowizja."
+  },
+  {
+   "id": "zelazo_offtake",
+   "typ": "biznes",
+   "odlicza_do": "297-03-24",
+   "opis": "Zebrac PODPISANY off-take na zelazo z Gulltown (Boren + kowale, kazdy wlasne zamowienie, kompartmentalizacja). Po komplecie: kantor puszcza JEDNA skromna proba-partie (Nesta: korespondent+spedycja). Kapital-light, pre-sold, undercut frachtowego gougera.",
+   "co_sie_stanie": "komplet off-take -> commit pierwszej proby-partii zelaza; tansze zelazo rzemieslnikom + cienka dzialka + zasila blok",
+   "widoczny_graczowi": true
   }
  ]
 }

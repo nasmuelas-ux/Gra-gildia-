@@ -11,7 +11,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 23 jeleni + 0 mied + 0 smokow
 - kwit depozytowy u Nesty (65 jel)
-- Zdrowie 100 · Sytosc 55 · Zmeczenie 6
+- Zdrowie 100 · Sytosc 48 · Zmeczenie 14
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -22,7 +22,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 47
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 47
 - **Bran** (bran_tragarz) — dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/ · nast 72
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 80
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 81
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 36
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 80
@@ -67,6 +67,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-03-18` nesta_ubezp_apetyt: Nesta sonduje braavijskie kontakty co do apetytu na ubezpieczenie frachtu wiosennego (czy jest popyt/po jakiej
 - ◆ `297-03-21` opal_korekta: Cena opalu/drewna opalowego spada z zimowego szczytu (odwilz + potwierdzona podaz Polnocy). Kto przetrzymal op
 - ◆ `297-03-27` braavijska_flotylla_sukna: Braavijska flotylla sukna spodziewana z pierwszym oknem pogodowym po odwilzy (cynk od Gartha + Leona). Na przy
+- ◆ `297-03-24` zelazo_offtake: Zebrac PODPISANY off-take na zelazo z Gulltown (Boren + kowale, kazdy wlasne zamowienie, kompartmentalizacja).
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

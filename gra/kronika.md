@@ -3553,3 +3553,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-05 RANEK: Wypoczety. Lull do weksla ~03-10.
 
 297-03-05 RANEK: Symon umyl sie, zjadl, szukal zlecenia w sieci (rzut 16 - sucho). Cale miasto w PRE-ODWILZOWYM holding-patternie: kupcy TRZYMAJA srebro, odkladaja robote uznaniowa (audyty/deale) az wroci zegluga - nie wina Symona, rynek PAUZUJE czekajac na statki. Marginalny lead odpuszczony (dyscyplina). Brak dochodu, zero zlej roboty. Sygnal: miasto czeka na to samo co Symon - odwilz/klaster.
+
+297-03-05 POLUDNIE: Symon zajal sie ksiegami Godrica (rzut 81) - i wlasnie TU jest robota, gdy reszta miasta pauzuje: dom Godrica (dostawca Nowego Zamku) BUSY, bo zamek rampuje wiosenne zaopatrzenie. Solidna sesja, fee ~3 jel (sakiewka 26->29). Court-conduit glebnie (57->59). AMBIENT/info-edge: konkret o wolumenach zaopatrzenia zamku (drewno/prowiant) - karmi wiedze-jako-towar + demand-side polnocnej brokerki (dwor firmuje popyt). Godric zauf 12->13.

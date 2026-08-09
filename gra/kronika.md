@@ -3623,3 +3623,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-11 POPOLUDNIE: Symon zjadl i pracowal przy sprawach prawnych Septy z Torrenem (rzut 56) - pierwsza sesja mentorstwa, produktywna. Odciazyl Torrena, uczyl sie prawa na realnych sprawach (osad od mistrza). Praktyka prawo. nast 18->20.
 
 297-03-11 ZMIERZCH: Symon poszedl pomoc Godricowi (rzut 38) - niewiele do roboty (ksiegi biezace, czesta uwaga je nadrobila), cienka sesja; prawdziwa robota z wiosna (zamek). Relacja bez zmian (61). Kanal chwilowo przerobiony.
+
+297-03-11 (korekta karty): dobytek zaktualizowany do stanu faktycznego (byl stale) - porzadny zestaw pisarski (inkausty/zapasowe pioro/kosciany nozyk/pergamin/kaseta), soczewka, stroj mieszczanski, noz roboczy, standardy audytu+ksiazka rachunkow, kwit depozytu. Potwierdzone: Symon dawno kupil lepsze narzedzia pracy (kronika ~1073). Samoobrona: walka 6 + noz + kondycja 7 + spryt 8 = adekwatna; temat miecza zamkniety (pulapka wojownika).

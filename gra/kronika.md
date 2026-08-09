@@ -3495,3 +3495,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-27 RANEK: Symon do Gartha, agenda-less (wywiad 10 thin, wizyta 48 marginal). Cieply-znosny kwadrans przy piecyku, bez substancji - Garth ostrozny, dokumentacja celna cicho w tle (bez pushu), zima martwa. Relacja utrzymana/lekko ogrzana. nast 36->37. Higiena rdzeniowego zrodla.
 
 297-02-27 POLUDNIE: Symon zjadl z Bess i Dake (rzut 34 marginal) - goscinnosc, cieplo, ale mlodzi jeszcze niesmiali wobec skryby-mieszczanina (drobny status gap). NiC rodzinna (krag Wendy/dol) pogrubila sie skromnie. Bess 20->22, Dake 16->18.
+
+297-02-27 POPOLUDNIE: Symon popracowal dla Godrica (rzut 82) - mocna sesja, wypatrzyl oszczednosc (ku zaufanemu doradcy), fee ~3 jel (sakiewka 10->13). FOOTHOLD: Godric sygnalizuje wiosenne zapotrzebowanie zamku na rzetelne rece ksiegowe - pozycjonuje Symona jako dyskretnego kandydata; organiczne dojscie do lorda rośnie (dyscyplina, zero forsowania frachtu). nast 53->56, zauf 10->12.

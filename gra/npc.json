@@ -1068,9 +1068,9 @@
    "id": "zarzadca_godric",
    "imie": "Godric",
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
-   "nastawienie_do_gracza": 53,
+   "nastawienie_do_gracza": 56,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-   "zaufanie": 10,
+   "zaufanie": 12,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
     "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
@@ -1083,11 +1083,12 @@
     "297-01-30: rozliczyl sie z Symonem za okres ksiag (~6 jel) - zadowolony z czystej roboty i wylapanej przeplaty. Relacja doradcza trzyma; wiosenny ask (parcela przez dwor) wciaz na odwilz.",
     "297-02-10 (rzut 49): audyt-maintenance ksiag dostaw czysto (standing zaufanego doradcy trzyma); patron ostygl przez tygodnie, odgrzany rozmowa (nast 49->52, zauf 9->10). Oplata +3 jel. INFO-EDGE: Godric (blisko dworu) - dwor/Nowy Zamek szykuja WIEKSZE wiosenne zamowienia zaopatrzenia (spojne z celnymi zapowiedziami Gartha) -> wiosna otworzy popyt. Spring-parcela ask (przez dwor): kredyt wiarygodnosci cieply, czeka na odwilz."
    ],
-   "ostatni_kontakt": "297-02-18",
+   "ostatni_kontakt": "297-02-27",
    "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",
    "historia": [
     "m11d16 (rzut 97): Symon wchodzi cicho, bez prosby, z oferta wartosci — braavijska ksiegowosc dla domu. Godric (ceni go za dyskrecje-lojalnosc) przyjmuje idealnie i POWIERZA staly, cichy angaz: prowadzenie/audyt czesci rachunkow domu do wyzszego, braavijskiego standardu, regularnie, dyskretnie, platnie. Symon = odtad ZAUFANY CZLOWIEK OD LICZB DOMU (nie jednorazowy audytor). Zaufanie mocno w gore. Nast 38->42. Zero ekspozycji karty.",
-    "297-02-18 (rzut 48, tuz powyzej): Symon poprowadzil czesc rachunkow domu Godrica (staly cichy angaz) - zrobione czysto, ale zima przyduszyla wydatki dworskiego domu, wiec robota chuda i platnosc skromna (~2 jel). Solidna, nieefektowna, dochodowa sesja - jeden z niewielu zimowych strumieni. Relacja court-conduit trzyma (nast 52->53). AMBIENT (niesolicytowany, Symon NIE forsuje niczego - dyscyplina 3 kapeluszy/przestroga Owena): Godric napomknal, ze Nowy Zamek zaczyna szykowac WIOSENNE zaopatrzenie (dwor planuje z wyprzedzeniem) - spojne ze spring pipeline (popyt na drewno/prowiant). Symon zanotowal cicho jako info-edge, bez zaczepiania o fracht/osłone. Zauf 10 bez zmian."
+    "297-02-18 (rzut 48, tuz powyzej): Symon poprowadzil czesc rachunkow domu Godrica (staly cichy angaz) - zrobione czysto, ale zima przyduszyla wydatki dworskiego domu, wiec robota chuda i platnosc skromna (~2 jel). Solidna, nieefektowna, dochodowa sesja - jeden z niewielu zimowych strumieni. Relacja court-conduit trzyma (nast 52->53). AMBIENT (niesolicytowany, Symon NIE forsuje niczego - dyscyplina 3 kapeluszy/przestroga Owena): Godric napomknal, ze Nowy Zamek zaczyna szykowac WIOSENNE zaopatrzenie (dwor planuje z wyprzedzeniem) - spojne ze spring pipeline (popyt na drewno/prowiant). Symon zanotowal cicho jako info-edge, bez zaczepiania o fracht/osłone. Zauf 10 bez zmian.",
+    "297-02-27 (rzut 82): mocna sesja ksiegowa - Symon znowu wypatrzyl oszczednosc dla Godrica (recurring/przeplata), przesuwa sie z najmity ku ZAUFANEMU DORADCY. Fee ~3 jel. FOOTHOLD ku lordowi (organiczny, dyscyplina - zero forsowania frachtu): Godric pod wrazeniem sygnalizuje, ze na wiosne dwor/zamek bedzie potrzebowal wiecej rzetelnych rak ksiegowych (spring provisioning ramp) - pozycjonuje Symona jako dyskretnego, kompetentnego kandydata, ktorego zamek MOZE siegnac. Dojscie do lorda HODOWANE, nie forsowane - dokladnie sciezka keystone (Godric=niewidzialny konduit). nast 53->56, zauf 10->12."
    ]
   },
   {

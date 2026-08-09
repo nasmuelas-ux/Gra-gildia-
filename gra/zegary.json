@@ -267,7 +267,9 @@
    "odlicza_do": "297-03-24",
    "opis": "Triaz odmarzajacych zimowych naleznosci Merka: wiekowanie + 3 kosze (sciagac / rozlozyc-darowac / odpisac). Humanitarnie (chroni reputacje Merka, nie miazdzy biedoty). Zadatek 2 jel wziety, saldo ~4 jel na dostawie.",
    "co_sie_stanie": "dostarczenie triazu naleznosci - saldo ~4 jel; Merek odzyskuje sciagalne, oszczedza reputacje; relacja+",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "ROZSTRZYGNIETY": "297-03-20 (rzut 72): triaz dostarczony czysto, saldo ~4 jel zaplacone. Odkrycie: realny pieniadz w kilku wiekszych kontach nie biedocie; rachunek wspolnika Merka kluje (niespojny) - ziarno zasiane, do przyjrzenia.",
+   "zamkniety": true
   }
  ]
 }

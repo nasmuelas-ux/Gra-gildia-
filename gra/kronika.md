@@ -3606,3 +3606,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-10 RANEK: WEKSEL-PILOT dojrzewa dzis - pierwszy twardy wynik wiosennego klastra (kupiec Wend splaca gdy wroca wiosenne naleznosci, albo egzekucja zastawu). Odwilz.
 
 297-03-10 RANEK: WEKSEL-PILOT (rzut 17) - Wend NIE splacil w terminie: default z TIMINGU (naleznosci opoznione wolna odwilzia, nie oszustwo). Mechanizm zadzialal jako ubezpieczenie (zastaw+kantor=ryzyko ograniczone, Symon nie traci) - domena sprawdzona przez bezpieczne przetrwanie defaultu, ale czysty dochodowy pilot niepotwierdzony (workout). DECYZJA PENDING: egzekwowac zastaw vs restrukturyzowac/przedluzyc vs pośrednie.
+
+297-03-10 POLUDNIE: Symon wybral restrukturyzacje weksla (przyzwoicie), za korekta Nesty przedluzenie Z WARUNKAMI (oplata+zaostrzone+zastaw zelazny) - decent+zdyscyplinowane. Wend wdzieczny (+3), nie tracisz (zastaw), ale ryzyko dluzej (recovery Wenda mniej pewne). NAUKA: miekki kredyt=adverse selection, domena wymaga STANDARDOW. Nesta uneasy o kapital ale zgodna na warunki. Clean-profit pilot niepotwierdzony; dyscyplina/risk-controls=rdzen domeny.

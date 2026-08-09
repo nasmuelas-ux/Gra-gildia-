@@ -3615,3 +3615,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-10 NOC: Symon poszedl spac. Dzien: weksel restrukturyzowany, oba skrzydla domeny (kredyt+ubezp) skodyfikowane, tendy stygnacych. Noc spokojna.
 297-03-11 RANEK: Wypoczety. Odwilz. Mira wyrok ~03-13, dach+Halvard ~03-15.
+
+297-03-11 RANEK: Symon odwiedzil Torsena, spytal o pomoc (rzut 50). Spokojniejszy, czeka na Halvarda (~03-15). Pomoc=steady glowa+potwierdzony popyt (dwor/zamek) gotowy do startu; Torsen ustatkowany, partnerstwo utrzymane, spozycjonowani na okno odwilzowe. nast 46->48.

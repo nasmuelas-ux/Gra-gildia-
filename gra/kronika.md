@@ -3768,3 +3768,6 @@ Symon odpoczal, zjadl i siadl do wyceny ryzyka na znanym ladunku (skory->Braavos
 
 ## 297-03-19 RANEK — noc, cwiczenie, draw
 Symon zjadl, pocwiczyl przed snem (kondycja utrzymana) i przespal noc (zmeczenie 6). Rano wplynal miesieczny draw wspolnika +6 jel (depozyt 50->56 jel). Opal osiada dalej (1.5->1.45, korekta ~03-21). Nic pilnego. Sytosc 52.
+
+## 297-03-19 RANEK — Nesta: kalibracja pilotazu + plan na Voxa
+Symon do kantoru z dwoma sprawami (rzut 50). UBEZPIECZENIA: Nesta dolozyla stawki bazowe - przyblizenia z jej sieci, szeroki margines (nikt nie ma dokladnych czestosci strat na trasie Braavos). Metoda: wyceniac konserwatywnie (poduszka na niepewnosc), uplasowac MALE ryzyko, uczyc sie na wyniku. Szablon teraz PLACEABLE. Decyzja pierwszego strzalu: wlasny wywoz (dowod) lub drobny ladunek zaufanego (prowizja). VOX: Nesta - nie uciszac, PRZEKIEROWAC narracje; podsunac bezpieczna opowiesc (porzadny rachmistrz/dobre ksiegi) zamiast forensic (wywecha zlodzieja); zagrac na jego interesie (dyskrecja=wieksza wartosc, ekskluzywnosc=prestiz jak Wat). Ongoing management, nie jednorazowy fix. Nesta nast 81 hold, zauf 40. Sytosc 64, zmeczenie 14.

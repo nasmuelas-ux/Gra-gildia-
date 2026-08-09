@@ -3562,3 +3562,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-06 RANEK: Wypoczety. Lull do weksla ~03-10 (za ~4 dni). Przedwiosnie, cieplej.
 
 297-03-06 RANEK: Symon odwiedzil Brana (rzut 87) - cieplo, Bran kwitnie. WESELE z Alys: data ustalona ~297-04-07 (dzien Matki, wiosna). Bran POPROSIL Symona by byl czescia (swiadek/pisarz/stanac przy nim) - marker przynaleznosci. Do harmonogramu. nast 66->69.
+
+297-03-06 POLUDNIE: Symon do Wendy (rzut 16, zla pora) - zaharowana na targu (przedwiosnie ozywilo handel), wizyta krotka/harried, nie zaiskrzyla. Pomoc zbyta krotko (busy+dol-duma, bez urazy). Strzep pulsu dolu. Relacja zdrowa (43, bez szkody) - lapac ja poza szczytem targu. Bez zysku/straty.

@@ -34,17 +34,17 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.9,
-   "przyczyna": "trzaskajacy mroz trzyma opal u szczytu"
+   "mnoznik": 1.7,
+   "przyczyna": "odwilz lamie zimowy szczyt - opal zaczyna spadac (podaz Polnocy nienaruszona)"
   },
   "wino_korzenne": {
    "baza": 5,
-   "mnoznik": 1.1,
+   "mnoznik": 1.05,
    "przyczyna": "wino przyplynelo galera"
   },
   "sol": {
    "baza": 45,
-   "mnoznik": 1.1,
+   "mnoznik": 1.05,
    "przyczyna": "dostawy wrocily po burzy"
   }
  },

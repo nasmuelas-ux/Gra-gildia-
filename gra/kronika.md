@@ -3822,3 +3822,6 @@ Symon naradzil sie z Nesta o kolejnych krokach (rzut 71). Uporzadkowala: nie sza
 
 ## 297-03-22 RANEK — noc spokojna
 Symon zjadl, pocwiczyl, przespal noc (zmeczenie 5). Nic pilnego nie odpalilo. Cichy dzien przed wiosennym skrzyzowaniem (~03-24 off-take zelaza, ~03-25 dach, ~03-27 flotylla). Opal stabilnie 1.25. Sytosc 54.
+
+## 297-03-22 DZIEN — Hal: formatywna sesja (stajnia staje sie realna)
+Symon poswiecil cichy dzien na rozwoj Hala - uczyl go METODY zarzadczej (wiekowanie, rentownosc per klient/trasa, kalendarz, progi) na zywych przykladach. Hal chlonie jak gabka i sam widzi (wylapal trase topiaca grosz nim wskazano) - juz nie kopista, przyszly obslugujacy prostych klientow pod marka Symona. Nakreslili konkretna droge ku wlasnemu standingowi: najblizszy krok - Hal wejdzie w nadchodzaca wiosenna robote (weryfikacje/proste ksiegi ze skrzydla flotylli) jako terminator pod okiem Symona, budujac wlasne imie. Rdzen wrazliwy za firewallem; glod 'wiekszych spraw' karmiony rosnaca odpowiedzialnoscia, nie tajemnicami. Rzut 93. Hal o glowe wyzszy. Stajnia z idei staje sie realna + Symon zyskuje dzwignie na gesty tydzien. Hal nast 77->81, zauf 32->35. Sytosc 46, zmeczenie 16.

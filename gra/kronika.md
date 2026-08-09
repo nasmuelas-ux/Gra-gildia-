@@ -3645,3 +3645,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-13 RANEK: WYROK Miry - dowiozla, ale cofnela sie od formalizacji (zacieta niezaleznosc jak Nesta). Symon reframe (wolnosc/wspolniczka-nie-podwladna/jej wizja, autentycznie) = wlasciwy grunt, zarejestrowala szacunek, ale nie otworzyla sie ('musze przemyslec', zauf 9 za plytkie). Seed zasiany, drzwi uchylone, kamieniczka luzno. nast 28->30. Lekcja: gleboka garda nie peka w 1 rozmowie, cierpliwosc.
 
 297-03-13 POLUDNIE: Symon pomogl Torrenowi przy sprawach prawnych Septy (rzut 65) - produktywnie: odciazyl septona, uczyl sie prawa na realnych sprawach (osad od mistrza). Prawo praktyka (mentor-quality). Torren 20->23.
+
+297-03-13 POPOLUDNIE: Symon sluzyl w Sepcie (rzut 80) - szczera robota Wiary (listy dla wiernych, jalmuzna, obrzed) jako reka Owena. Rep Wiary 71->73, osadzenie/przynaleznosc glebnie, deed>whisper wzmocnione. Dobro realne (ubodzy).

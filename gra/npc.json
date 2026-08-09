@@ -1482,10 +1482,11 @@
    "stan": "czeladnik",
    "zawod": "mlody czeladnik (rzemioslo, krag kolodziejow/Borena); potrzebowal wlasnego kata",
    "mieszka": "kamieniczka Symona przy Schodach (izba 2, od 297-01-13)",
-   "nastawienie_do_gracza": 16,
+   "nastawienie_do_gracza": 19,
    "zaufanie": 5,
    "wie_o_graczu": [
-    "297-01-13: wynajal ciepla izbe od Symona (~1 jel/mies), referral z kregu Borena. Mlody, pracowity, rad z wlasnego godnego kata. Stabilny lokator."
+    "297-01-13: wynajal ciepla izbe od Symona (~1 jel/mies), referral z kregu Borena. Mlody, pracowity, rad z wlasnego godnego kata. Stabilny lokator.",
+    "297-03-17: wlasciciel (Symon, przez Brana) zgodzil sie, by Osric trzymal skrzynie narzedzi w sieni - drobny znak szacunku dla mlodego czeladnika; goodwill (Osric w kregu kolodziejow, swiat Borena)."
    ],
    "ostatni_kontakt": "297-01-13",
    "cechy_mowy": "prosto, mlodzienczo, z szacunkiem do majstrow"

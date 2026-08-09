@@ -3724,3 +3724,6 @@ Rzut 45. Mira nast 30->32, zauf 9->10. Zarzad kamieniczki: Symon+Bran. Sytosc 58
 ## 297-03-17 RANEK — Bran: zyczenia lokatorow + tani fix dla Jonny
 Symon zapytal Brana (teraz jedyne rece zarzadu po wyjsciu Miry, lzejszy bez 'kobieta mowi co i kiedy') o potrzeby lokatorow. JONNA: zlota, cicha, placi w pore - jedno: sciana ciagnie wilgocia (potwierdza Mire). Bran rozwiazal od reki - ekipa Donnela i tak na dachu do ~03-25, kaze zajrzec w strop nad Jonna (pol dnia, prawie darmo): zaciek zalatwiony przy okazji re-roofu, trzyma dobra lokatorke (rada Miry + wykonanie Brana). OSRIC: porzadny, mlody/glosny wieczorem, raz spozniony z czynszem ale nadrobil; prosi o kat na narzedzia (skrzynia w sieni), wybaduje czy zostanie gdy sie wybije. Bran za nim przepada, wzial dopilnowanie na siebie, dumny z zaufania. Przypomnial o weselu z Alys (~04-07, prosi na swiadka).
 Rzut 85. Bran nast 69->72, zauf 15->17. Sytosc 52, zmeczenie 24.
+
+## 297-03-17 — zgoda na skrzynie Osrica, ranek domkniety
+Symon (przez Brana) zgodzil sie na skrzynie narzedzi Osrica w sieni - drobny goodwill wobec mlodego czeladnika z kregu kolodziejow. Ranek domkniety (Serla, Mira-poprawiona, Bran). Poludnie przed nim.

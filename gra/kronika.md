@@ -3625,3 +3625,8 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-11 ZMIERZCH: Symon poszedl pomoc Godricowi (rzut 38) - niewiele do roboty (ksiegi biezace, czesta uwaga je nadrobila), cienka sesja; prawdziwa robota z wiosna (zamek). Relacja bez zmian (61). Kanal chwilowo przerobiony.
 
 297-03-11 (korekta karty): dobytek zaktualizowany do stanu faktycznego (byl stale) - porzadny zestaw pisarski (inkausty/zapasowe pioro/kosciany nozyk/pergamin/kaseta), soczewka, stroj mieszczanski, noz roboczy, standardy audytu+ksiazka rachunkow, kwit depozytu. Potwierdzone: Symon dawno kupil lepsze narzedzia pracy (kronika ~1073). Samoobrona: walka 6 + noz + kondycja 7 + spryt 8 = adekwatna; temat miecza zamkniety (pulapka wojownika).
+
+297-03-11 NOC: Symon spal. Noc spokojna.
+297-03-12 RANEK: Wypoczety. Odwilz pelna (pogoda 32). Wyrok Miry ~03-13 (jutro), dach+Halvard ~03-15.
+
+297-03-12 RANEK: Symon odwiedzil Colma (wywiad 88, wizyta 50) - reconnect po 56d, relacja odswiezona, spozycjonowany na wiosenna robote suknem. Nugget: Colm=sukiennik=wektor sprawy celnej (przez Leone, nie bezposrednio). nast 18->23.

@@ -1482,12 +1482,13 @@
    "stan": "mieszczanin (kupiec)",
    "zawod": "kupiec suknem ze Schodow (referral Leony)",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 18,
+   "nastawienie_do_gracza": 23,
    "zaufanie": 6,
    "wie_o_graczu": [
-    "297-01-15: Symon uzgodnil mu zimowe ksiegi i spisal umowe na wiosenna dostawe - czysto, sprawnie, uczciwy fee (~3 jel). Zadowolony, potencjalny repeat/referral. Referral Leony sie oplacil."
+    "297-01-15: Symon uzgodnil mu zimowe ksiegi i spisal umowe na wiosenna dostawe - czysto, sprawnie, uczciwy fee (~3 jel). Zadowolony, potencjalny repeat/referral. Referral Leony sie oplacil.",
+    "297-03-12 (wywiad 88 swietny; wizyta 50): reconnect po ~56d. Colm zyczliwy (pamieta czysta robote, referral Leony). Relacja odswiezona, spozycjonowany na wiosenna robote suknem (ksiegi/weryfikacja gdy handel ruszy). Nugget keystone: Colm=sukiennik=wozi frachtem=potencjalny wektor sprawy celnej; routowac PRZEZ Leone (jej kontakt), nie bezposrednio (kompartmentalizacja). nast 18->23."
    ],
-   "ostatni_kontakt": "297-01-15",
+   "ostatni_kontakt": "297-03-12",
    "cechy_mowy": "rzeczowy, praktyczny"
   },
   {

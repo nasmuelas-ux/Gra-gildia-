@@ -1338,8 +1338,8 @@
    "wiek": 47,
    "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 35,
-   "zaufanie": 8,
+   "nastawienie_do_gracza": 41,
+   "zaufanie": 10,
    "wie_o_graczu": [
     "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)",
     "Symon rozbroil jego strach uczciwie (nie manipulacja): wspolnicy godzacy ksiegi to porzadek, nie oskarzenie - jesli wszystko czyste, wspolnik odetchnie. Merek ulzony, zgadza sie zaproponowac RUTYNOWE wspolne pogodzenie ksiag, z Symonem jako neutralnym rachmistrzem. KOSZT: otwarta forma = utrata zaskoczenia (jesli wspolnik oszukuje, dostanie czas ubrac ksiegi). Zalezne od zgody wspolnika.",
@@ -1349,9 +1349,10 @@
     "297-02-04 (rzut 76): Symon wybadal realny bol Merka - PRZEKREDYTOWANIE zimowe: prowiantnik rozdal kredyt na kreche wyglodnialym/drobnym handlarzom, kapital rozsypany po cudzych kieszeniach, naleznosci nieśledzone, nie wie kto ile winien/kto zaplaci/jak gleboka ekspozycja. Zamozny a nerwowy (lata na slepo). IDEALNE wejscie: usluga zarzadcza (wiekowanie naleznosci/ekspozycja) -> potem weksle/rozproszenie ryzyka. Realna potrzeba dopasowana do domeny Symona.",
     "297-02-04 (rzut 77): Symon zaproponowal usluge zarzadcza trafiajac w bol Merka (przekredytowanie/ekspozycja). Merek wzial na PROBE (wycinek: wiekowanie naleznosci+ekspozycja) - ostroznie, jak kupiec pilnujacy ksiag. Wycinek OD RAZU pokazal wartosc: realna ekspozycja, kto placi/kto zwodzi, 2 martwe ryzyka (ktorych Merek wolal nie widziec). Ulzylo mu - pierwszy raz widzi zime w liczbach. OBOWIAZEK SPLACONY czynem; drugi klient domeny; oplata +3 jel. Follow-on: przekuc martwe ryzyka/kreche w weksle/rozproszenie. nast 24->30, zauf 5->6.",
     "297-02-09 (DD rzut 41): Symon sprawdzil weksel-follow-on dla Merka wg standardu PRZED oferta. Weksel nie pasuje gladko - Merek jest WIERZYCIELEM (nie potrzebuje mostka), wiec bylby to FAKTORING (zaliczka pod jego naleznosci, ryzyko sciagniecia na Symona/kantor). Bar bije alarm: dluznicy Merka to drobni, rozproszeni zimowi petenci - NIEWYCENIALNI zima; lending w mgle lamie standard. WERDYKT: szeroki weksel NIE. Czystsze drogi: (a) malutki zabezpieczony wycinek pod 1 najtwardszy dlug, (b) kontynuacja uslugi zarzadczej (pomoc Merkowi samemu sciagnac/zrestrukturyzowac/spisac martwe). Merek docenil, ze Symon NIE wciska produktu (buduje zaufanie).",
-    "297-02-09 (usluga rzut 19): Symon poprowadzil Merkowi triage tick - robota czysta, ale DIAGNOZA GRIM: zimowy tick w wiekszosci NIESCIAGALNY teraz (dluznicy=biedota realnie bez grosza; naleznosci zamrozone, odzyja z odwilza; kilka martwych). Do wziecia teraz niewiele. Rada: triage (spisac martwe/przytrzymac zamrozone/chronic pewne) + NIE sciskac zima (nie wycisniesz + zszargasz imie wsrod ludu). Merek sobered (liczyl na odzysk, dostal 'poczekaj do wiosny') ale ceni prawde>bajke. Oplata skromna +2 jel. Wartosc=klarownosc+plan, nie cud."
+    "297-02-09 (usluga rzut 19): Symon poprowadzil Merkowi triage tick - robota czysta, ale DIAGNOZA GRIM: zimowy tick w wiekszosci NIESCIAGALNY teraz (dluznicy=biedota realnie bez grosza; naleznosci zamrozone, odzyja z odwilza; kilka martwych). Do wziecia teraz niewiele. Rada: triage (spisac martwe/przytrzymac zamrozone/chronic pewne) + NIE sciskac zima (nie wycisniesz + zszargasz imie wsrod ludu). Merek sobered (liczyl na odzysk, dostal 'poczekaj do wiosny') ale ceni prawde>bajke. Oplata skromna +2 jel. Wartosc=klarownosc+plan, nie cud.",
+    "297-03-20 POLUDNIE (rzut 78): Symon spytal o robote w idealnym momencie - odwilz odmraza zimowe naleznosci Merka (kredyt rozdany biedocie), ale on nie wie KTORE scigac. Symon wzial TRIAZ: rozpisac wg wieku i sciagalnosci, 3 kosze - stanal-na-nogi (sciagac), jeszcze-goly (rozlozyc/darowac, bo wyciskanie kamienia = strata czasu+imienia), stracony (odpisac). Podejscie CHRONI TEZ reputacje Merka (nie miazdzy biedoty wiosna). Merek z ulga, wzial ochoczo: zadatek 2 jel, reszta na dostawie. Relacja odbita po 26 dniach. nast 35->41, zauf 8->10."
    ],
-   "ostatni_kontakt": "297-02-22",
+   "ostatni_kontakt": "297-03-20",
    "cechy_mowy": "gadatliwy, nerwowy gdy o pieniadzach",
    "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane",
    "historia": [

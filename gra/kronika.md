@@ -3680,3 +3680,6 @@ Ceny: opal 1.9->1.7 (odwilz lamie szczyt), sol 1.1->1.05, wino 1.1->1.05. Nowy z
 ## 297-03-15 POPOLUDNIE — Boren: dobra nowina trafila na zla pore
 Symon poszedl do domu cechu kolodziejow z bezpiecznie sframowana dobra wiescia (drewno Polnocy cale, opal zaraz siadzie, nie wiazac dlugich kontraktow po zimowej cenie) - jako prezent bez haczyka, chroniac zrodlo. Ale wiosna obudzila cech: dom wrzal zamowieniami i awanturami, Boren sluchal pol uchem, wzial cynk z roztargnieniem i zaraz go odciagnieto. Rzut 18 - porazka bez komplikacji (zla pora, nie nieudolnosc). Wiesc dostarczona (drobny goodwill), ale zero glebszej wymiany - nie bylo chwili na blok/szkutnikow/Harwina, a Symon slusznie nie napieral. Nauka: wiosna cech zajety, lapac Borena wieczorem/w domu na realna rozmowe.
 Boren nast 68->69, zauf 16 hold. Sytosc 58, zmeczenie 28.
+
+## 297-03-15 WIECZOR — praca nad ksiegami Wata (2. sesja)
+Symon odpoczal, zjadl i siadl przy swiecy do wiosennego refreshu ksiag Wata. Pchnal robote z ~1/3 do ~3/4: wiekowanie naleznosci gotowe, rentownosc per klient/trasa rozpisana (widac ktora z nowych trass Wata cicho topi grosz), zostaje kalendarz zobowiazan i czystopis. Dostawa ~03-17 spokojnie w zasiegu. Bez komplikacji - czysta robota. Sytosc 72, zmeczenie 31.

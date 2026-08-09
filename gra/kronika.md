@@ -3474,3 +3474,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-26 RANEK: Wypoczety. Zima dogasa - wiosenny klaster za ~tydzien (dach ~03-01, weksel ~03-10). Mroz.
 
 297-02-26 RANEK: Symon do Harlona (wywiad 27 thin, wizyta 28 miss). Wszedl na zimno, trafil w restlessness Harlona (spina bloku, action-man: "kiedy ruszymy na pijawki?"). Plan patient/wiosenny=nie to, co chce slyszec; wizyta niezreczna, Harlon bardziej zniecierpliwiony (NIE defekcja). FLAG ryzyka bloku: cierpliwosc linchpina skonczona - zarzadzac (poczucie ruchu/rola), by nie ostygl/nie ruszyl pochopnie. nast 33->31.
+
+297-02-26 POLUDNIE: Symon wrocil do Harlona z zadaniem+reframe (wywiad 16 thin, wizyta 95 - oferta trafila na merit). Reframe "ladujemy zabojczy cios" + zadanie (dokumentuj wlasny gouging frachtu, wywech innych ofiar) skanalizowaly restlessness w oddana energie. Harlon z ryzyka bloku -> AKTYWNY kontrybutor dowodu celnego (jego faktor=siec wielkich domow=cenny wektor). nast 31->41, zauf 12->14. Poranny flop naprawiony z nawiazka.

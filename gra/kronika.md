@@ -3638,3 +3638,6 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-12 POPOLUDNIE: Symon+Hal ksiegi Wiary (rzut 22) - jalowo, glod znaczenia Hala blysnal (chce wiecej, wyczul wieksze sprawy); Symon lagodnie przytrzymal linie (wrazliwy rdzen odciety - dyskrecja pod presja niesprawdzona). Bez szkody (nast 72). Przypomnienie: kompetencja != zaufanie do sekretu; mur stoi do czasu/dowiedzionej dyskrecji.
 
 297-03-12 ZMIERZCH: Symon spytal Hala o przyszlosc (rzut 58). Hal PIERWSZY RAZ nazwal marzenie: prawdziwy skryba z wlasnym standingiem, 'cos znaczyc'; wdzieczny Sepcie ale nie na zawsze, kiedys wlasna izba/robota. Dream-wound zabliezniony (milestone). Kierunek mentorstwa: prowadzic ku wlasnemu standingowi=stajnia pisarzy (Hal pierwszy). Symon obiecal droge. nast 72->74, zauf+1.
+
+297-03-12 NOC: Symon domknal dzien - jem, sen. Dzien: korekty (Wick zmarly), Colm/Torren-mentorstwo prawa, plan na wyrok Miry, Hal-marzenie nazwane. Noc spokojna.
+297-03-13 RANEK: WYROK MIRY dzis (koniec miesiaca proby). Odwilz pelna. Dach+Halvard ~03-15.

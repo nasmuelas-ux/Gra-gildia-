@@ -184,3 +184,5 @@ rzut 29: kopie Mereka faktycznie CZYSTE - bo skim (61) siedzi po stronie wspolni
 
 ## 297-01-01 (grounding) reframe Owena
 Owen przestawil Symonowi rame na nazwisko/zone/mieszczanstwo: to nie lupy do zdobycia sprytem/tempem, lecz owoce bycia (dojrzewaja przez charakter+czas). Przestac chwytac, zyc prawo/cierpliwie. Pociecha na samotnosc: ma wiecej ludzi niz czuje; Septa/Owen jako rodzina dla bezrodzinnego. Grounding po dniu tacticznych scian (Mira/mieszczanstwo utknely).
+
+297-03-07: TLO NESTY (odslonione czesciowo Symonowi): Braavijka, owdowiala mlodo (kochany maz-kupiec, strata=zostala z niczym), wybrala droge faktorki z dala od domu by odbudowac sie sama. Niezaleznosc=co jej zostalo, przekute w zasade. Nie osiada bo: sluzy pryncypalowi (tozsamosc Braavos), niezaleznosc krepowana przez osiadanie, dlug Antaryonow=smycz (refi=jej osobista droga do wolnosci). Najglebsza rana (smierc meza szczegoly) wciaz zamknieta. To zrodlo jej ostrzezenia o Mirze (projekcja).

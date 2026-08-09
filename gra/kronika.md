@@ -3612,3 +3612,6 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-10 POLUDNIE: Symon+Nesta skodyfikowali standardy kredytowe (rzut 41) - szkielet (zastaw/limity ekspozycji/bankowalnosc/przesiew adverse-selection/warunki). Nierozstrzygniety wezel: przyzwoitosc vs dyscyplina (kalibruje sie sprawa-po-sprawie); napiecie Symon-Nesta otwarte. Fundament domeny polozony, niedomkniety (spring-iterowany). Porazka pilota przekuta w rusztowanie.
 
 297-03-10 POPOLUDNIE: Symon+Nesta skodyfikowali standardy ubezpieczen (rzut 40, w parze z kredytem) - szkielet (dywersyfikacja/model trasa×pogoda×kapitan/limity/rezerwy/przesiew). Wezel: wycena ogona ryzyka (za malo danych, wolumen wiosenny dowiedzie); napiecie Symon-Nesta o skladke/rezerwe. KAMIEN MILOWY: oba skrzydla (kredyt+ubezpieczenia) skodyfikowane, jedna dyscyplina -> 'broker ryzyka' spisany framework domeny, gotowy na wiosne.
+
+297-03-10 NOC: Symon poszedl spac. Dzien: weksel restrukturyzowany, oba skrzydla domeny (kredyt+ubezp) skodyfikowane, tendy stygnacych. Noc spokojna.
+297-03-11 RANEK: Wypoczety. Odwilz. Mira wyrok ~03-13, dach+Halvard ~03-15.

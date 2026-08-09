@@ -3647,3 +3647,6 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-13 POLUDNIE: Symon pomogl Torrenowi przy sprawach prawnych Septy (rzut 65) - produktywnie: odciazyl septona, uczyl sie prawa na realnych sprawach (osad od mistrza). Prawo praktyka (mentor-quality). Torren 20->23.
 
 297-03-13 POPOLUDNIE: Symon sluzyl w Sepcie (rzut 80) - szczera robota Wiary (listy dla wiernych, jalmuzna, obrzed) jako reka Owena. Rep Wiary 71->73, osadzenie/przynaleznosc glebnie, deed>whisper wzmocnione. Dobro realne (ubodzy).
+
+297-03-13 NOC: Symon spal. Dzien: wyrok Miry (dowiozla ale cofnela sie, grunt zasiany), prawo z Torrenem, sluzba w Sepcie. Noc spokojna.
+297-03-14 RANEK: Wypoczety. Odwilz pelna (pogoda 33). KLASTER jutro ~03-15: Halvard/Polnoc, dach rusza, rynek stabilizuje sie.

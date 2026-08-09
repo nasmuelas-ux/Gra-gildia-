@@ -151,7 +151,8 @@
    "opis": "Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt. || 297-02-19: ODPALIL - draw wspolnika 6 jel wplynal do depozytu (2300->2900 mied = 29 jel). Nastepny cykl ~03-19.",
    "odpala": "297-03-19",
    "typ": "dochod cykliczny",
-   "ROZSTRZYGNIETY_CYKL": "297-02-19: +6 jel do depozytu"
+   "ROZSTRZYGNIETY_CYKL": "297-02-19: +6 jel do depozytu",
+   "ostatni": "297-03-19: draw +6 jel do depozytu (depozyt -> 56 jel). Nastepny ~04-19."
   },
   {
    "id": "harwin_zemsta_czujnosc",

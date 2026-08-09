@@ -3765,3 +3765,6 @@ Symon odswiezyl Voxa - przyjazn trzyma (nast 55->56), ALE Vox znow GLOSNO chwali
 
 ## 297-03-18 WIECZOR — pierwsza wycena ryzyka (pilotaz ubezpieczen)
 Symon odpoczal, zjadl i siadl do wyceny ryzyka na znanym ladunku (skory->Braavos, ktory sam dzis sortowal). Polowa jego OSTRA: wartosc ladunku, warunki, papiery, ryzyka idiosynkratyczne - forensic edge, wycenia lepiej niz generyk bo CZYTA ladunek. Polowa druga (jak czesto rejs na Braavos traci ladunek ta wiosna, historia galery Vhassara, RYNKOWA stawka skladki) = sciana: wiedza rynku/base-rates, ktorej nie ma, a maja korespondenci Nesty. Wycena sama pokazala, DLACZEGO podzial "Symon wycenia specyficzne / Nesta base-rates+rynek+plasowanie" jest sluszny. Szablon wyceny gotowy (polowa Symona), do kalibracji z Nesta przed uplasowaniem. Rzut 44. Sytosc 64, zmeczenie 40.
+
+## 297-03-19 RANEK — noc, cwiczenie, draw
+Symon zjadl, pocwiczyl przed snem (kondycja utrzymana) i przespal noc (zmeczenie 6). Rano wplynal miesieczny draw wspolnika +6 jel (depozyt 50->56 jel). Opal osiada dalej (1.5->1.45, korekta ~03-21). Nic pilnego. Sytosc 52.

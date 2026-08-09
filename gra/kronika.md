@@ -3526,3 +3526,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-02 RANEK: Wypoczety. Przedwiosnie, cieplej. Klaster: weksel-pilot ~03-10, Halvard ~03-15, draw ~03-19.
 
 297-03-02 RANEK/POLUDNIE: Symon do Donnela ocenic dach (rzut 61). Werdykt: jeszcze za wczesnie (noce marzna, zaprawa by spekla), bezpieczne okno ~03-15. Donnel USTAWIL wszystko na teraz (materialy/ekipa/sekwencja zabukowane) - zero opoznienia gdy pogoda pusci. Rezerwa ~35 jel trzyma. START ~03-15, izba 3 potem. Donnel 40->42.
+
+297-03-02 POLUDNIE: Symon poszedl do Nesty planowac wiosne/alokacje kapitalu (rzut 25 - jalowo). Nesta trzezwo uciela: planujemy NA PIASKU - polowa zalezy od weksla (~03-10), Halvarda (~03-15), czy Antaryon naprawde krotki. Nie da sie sensownie alokowac kapitalu ani sekwencjonowac, gdy kluczowe inputy wciaz gated/nieznane. Nauka: plan JUZ ustawiony na tyle, na ile sie da; dalsze planowanie na nieznanych = kręcenie sie. Czekac na WYNIKI klastra, potem planowac z danymi. Bez zmian relacji (78). Redirect ku przewinieciu do ~03-10.

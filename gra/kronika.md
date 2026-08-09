@@ -3472,3 +3472,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-25 NOC: Symon domknal ciezki dzien - cwiczenie fizyczne (kondycja+1), jedzenie, sen. Sombre popoludnie sluzby przy Owenie. Noc spokojna.
 297-02-26 RANEK: Wypoczety. Zima dogasa - wiosenny klaster za ~tydzien (dach ~03-01, weksel ~03-10). Mroz.
+
+297-02-26 RANEK: Symon do Harlona (wywiad 27 thin, wizyta 28 miss). Wszedl na zimno, trafil w restlessness Harlona (spina bloku, action-man: "kiedy ruszymy na pijawki?"). Plan patient/wiosenny=nie to, co chce slyszec; wizyta niezreczna, Harlon bardziej zniecierpliwiony (NIE defekcja). FLAG ryzyka bloku: cierpliwosc linchpina skonczona - zarzadzac (poczucie ruchu/rola), by nie ostygl/nie ruszyl pochopnie. nast 33->31.

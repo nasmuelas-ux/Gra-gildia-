@@ -1125,7 +1125,7 @@
    "przydomek": "",
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
-   "nastawienie_do_gracza": 33,
+   "nastawienie_do_gracza": 31,
    "zaufanie": 12,
    "wie_o_graczu": [
     "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca",
@@ -1135,12 +1135,13 @@
     "297-02-03: jego intro do Merka zadzialalo (Symon naprawil relacje przez interes). Symon winien mu dbalosc (przysluga za przysluge).",
     "297-02-05 (rzut 26): Symon dolozyl Harlonowi wycinek uslugi zarzadczej na splate przysługi. MALEJACE ZWROTY - wielki wyciek (fracht/faktor) juz zlapany przy 1. podejsciu, drugie przejscie=okruchy ('tos mi juz mowil'). + Harlon nieswoj, ze Symon zna jego ksiegi ZBYT dobrze - powiernik cudzych liczb budzi czujnosc klienta (witness-risk od strony klienta); grzbiet sie usztywnil ('dosc zagladania'). Przysluga spłacona CIENKO (nie krzywda, nie cieplo); ledger ledwo wyrownany. nast 33 (bez zmian, letnio)."
    ],
-   "ostatni_kontakt": "297-02-05",
+   "ostatni_kontakt": "297-02-26",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",
    "status": "BLOK anty-Antaryon: CEGLA 3 (potwierdzony d12, rzut 80 — faktor z sieci wielkich domow go skraca). SOLIDNY, zly-bez-strachu (odwrotnie niz Marlon) = wzmacnia kregoslup bloku. Ufa Symonowi, zaplacil.'",
    "historia": [
     "m11d21 (rzut 24): Harlon twardo w bloku (spina, bez strachu), ale zaczyna sie NIECIERPLIWIC - standing wisi dlugo bez ruchu, a on jest z tych, co chca DZIALAC ('kiedy ruszymy na te pijawki?'). Nie defekcja - restlessness spiny. Symon uspokaja: ruch, gdy dojrzeje dowod; trzymac dyscypline. Potwierdza tensje cierpliwosc vs cohezja. Nast 16->18.",
-    "m12d08 rzut96: SPINA ROCK-SOLID - lewar zadzialal (squeeze zelżał), Harlon pewny i cieply, zadowolony ze standing przyniosl owoc; jego pewnosc stabilizuje caly blok. USLUGA: sol/zapasy = ZLOZONE PRZEPLYWY (masowe stockowanie, sezonowy popyt, wielu drobnych dluznikow, trasy) -> pasuje idealnie (MERCHANT nie rzemieslnik jak Boren); bierze z entuzjazmem, 4. klient (fee modest bo twardy negocjator ~2 jel). BONUS: dobrze wpiety w kupiectwo zapasowe Schodow/portu -> 2. WEZEL REFERENCJI (jak Leona) + jego respektowana twarda pozycja dodaje uslu dze credibility. Nast 20->24 zauf+2."
+    "m12d08 rzut96: SPINA ROCK-SOLID - lewar zadzialal (squeeze zelżał), Harlon pewny i cieply, zadowolony ze standing przyniosl owoc; jego pewnosc stabilizuje caly blok. USLUGA: sol/zapasy = ZLOZONE PRZEPLYWY (masowe stockowanie, sezonowy popyt, wielu drobnych dluznikow, trasy) -> pasuje idealnie (MERCHANT nie rzemieslnik jak Boren); bierze z entuzjazmem, 4. klient (fee modest bo twardy negocjator ~2 jel). BONUS: dobrze wpiety w kupiectwo zapasowe Schodow/portu -> 2. WEZEL REFERENCJI (jak Leona) + jego respektowana twarda pozycja dodaje uslu dze credibility. Nast 20->24 zauf+2.",
+    "297-02-26 (wywiad rzut 27 - thin/brak pre-readu; wizyta rzut 28 - miss): Symon poszedl do Harlona nie mogac go wczesniej wybadac (winter, cisza), wiec wszedl na zimno. Trafil w jego RESTLESSNESS (znany rys: spina bloku, rock-solid, ale czlowiek CZYNU - \"kiedy ruszymy na te pijawki?\"). 21 dni ciszy, blok wisi bez ruchu, a plan jest CIERPLIWY/wiosenny/niewidzialny - wiec Harlon napiera: \"na co czekamy?\". Symon na zimno nie ulagodzil tego gladko; szczera odpowiedz (\"wiosna, cierpliwie, po cichu\") to dokladnie to, czego action-man nie chce slyszec. Wizyta niezreczna/frustrujaca; Harlon NIE defektuje (wciaz oddany), ale bardziej zniecierpliwiony/gburowaty po kolejnym \"czekaj\". FLAG (realne ryzyko kampanii wiosennej): cierpliwosc Harlona jest SKONCZONA - trzeba zarzadzac jego niecierpliwoscia, by (a) nie ostygl, (b) nie ruszyl POCHOPNIE i nie wysadzil niewidzialnego timingu. Zadanie na wiosne: dac mu poczucie ruchu/rolę, nie tylko \"czekaj\". nast 33->31."
    ]
   },
   {

@@ -3456,3 +3456,8 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-24 POLUDNIE: Symon przeanalizowal dlug kantoru wobec Antaryonow METODA 3 KAPELUSZY. Zbiezna konkluzja: LEK=refinansowanie przez alternatywnego wierzyciela (Bank braavijski) - zlamac single-source zaleznosc, ktora daje Antaryonowi sile zawyzania. Overcharge-na-record+koalicja=dzwignia na dobre warunki (niewidzialnie, cierpliwie). NIE frontem w napieta zime (ryzyko zadania splaty). Timing=wiosna (Bank ~d30, plynnosc, customs). NOWA teza: sama wiarygodna GROZBA refi moze wymusic fair rate bez palenia kart. Link: dlug i fracht=jeden korzen (Antaryon-nexus). Decyzje Nesty, spring-gated. Synteza w watku refinansowanie_dlugu.
 
 297-02-24 POPOLUDNIE: Symon odpoczal w pelni w lazni (rzut 97). Pelna regeneracja (zmeczenie 0). PASYWNY intel bez ekspozycji: gadanina kupcow mimochodem zdradzila, ze Harwin cichy i nisko tez wsrod sredniaka (nie tylko dol), przygaszony/izolowany po 2 upokorzeniach, szepty nie chwytaja. Pozycja obronna jeszcze mocniejsza; okno ~02-25 spokojne. Wlasciwa droga do wiedzy o Harwinie=byc i sluchac, nie polowac.
+
+297-02-24 NOC: Symon domknal dzien - jedzenie, sen, pelnia wypoczety po lazni. Noc spokojna.
+297-02-25 RANEK: Okno czujnosci Harwina (~02-25) - dzien obserwacji.
+
+297-02-25 RANEK: Okno czujnosci Harwina (rzut 52) PRZESZLO SPOKOJNIE - zero ruchu przeciw Symonowi (spojne z pasywnym intelem: przygaszony/izolowany). Harwin dormant slow-burn; Boren czuwa; zegar re-arm ~03-25. Zima cicha dalej.

@@ -3504,3 +3504,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-27 NOC: Symon domknal dzien - jedzenie, sen. Dzien: Garth tend, posilek z Bess/Dake, praca dla Godrica (foothold ku dworowi), konsolidacja cechow (crit-fail->nauka), model zelaza zrefinowany (pre-sold off-take aggregation). Noc spokojna.
 297-02-28 RANEK: Wypoczety. Wiosenny klaster tuz-tuz (dach ~03-01, targ ~03-01). Mroz zelzal odrobine.
+
+297-02-28 RANEK/POPOLUDNIE: Symon zlecenie w niszy przez Leone (rzut 99) - mocny referral, mistrzowska premium weryfikacja, klient zachwycony, flywheel surge, fee ~5 jel (sakiewka 13->18). Relacja z Leona wyraznie ogrzana (rezyduum frachtowe zniklo). Premium-imie rozchodzi sie wsrod powaznych kupcow = organiczny silnik ku wiekszym patronom. Leona 56->61, zauf 22->24.

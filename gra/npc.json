@@ -642,8 +642,8 @@
     "zweryfikowac braavijskie papiery dostawcow (podejrzewa, ze ja skrocono po smierci meza)",
     "nie dac sie potraktowac jak 'baba, co sie nie zna'"
    ],
-   "nastawienie_do_gracza": 56,
-   "zaufanie": 22,
+   "nastawienie_do_gracza": 61,
+   "zaufanie": 24,
    "wie_o_graczu": [
     "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
     "zachowal sie godnie, sluchal, nie sprzedawal sie tanio ani nie przechwalal — mieszczka to doceniła",
@@ -678,13 +678,14 @@
     "297-02-15 (rzut 49, tuz ponizej): Symon przyszedl z KONKRETEM (nie gestem) - przedlozyl sprawe celno-frachtowa jako wspolarchitektce, uczciwie, bez bajki. Leona (bystra, niecierpliwa wobec niedokonczonych rzeczy) od razu preswietlila slabosc: \"to wciaz nie jest karta - masz WZOR, nie dowod. Czego ode mnie chcesz - zebym postawila nazwisko za sprawa, ktora jeszcze nie stoi?\" Nie zerwala (rejestr uczciwy - Symon nie sprzedawal bajki, przyznal ze rzecz akumuluje sie), ale NIE dala gruntu: swoje standing i siec zaangazuje dopiero, gdy bedzie twardy dowod, nie wzor. Lekki cien czujnosci (echo d15: \"czemu ciśnie akurat teraz na niedokonczonej rzeczy\"). NAUKA dla Symona (zbieznа z Garthem): fronta NIE aktywuje sie zanim sprawa jest KARTA; przyniesc jej to, gdy dowod stoi, nie wczesniej. Symon przeczytal w pore, nie pchal, wycofal grzecznie. nast 56 bez zmian, zauf 22 bez zmian - relacja caly, ale konkret byl przedwczesny."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-02-15",
+   "ostatni_kontakt": "297-02-28",
    "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem",
    "status": "WSPOLARCHITEKT CZYNNY (d16, rzut 74): dostala KONKRETNY kregoslup — krzywda celno-frachtowa dusi uczciwe rzemiosło (kupcy+kolodzieje) I okrada lorda. Zapala sie, laczy Schody z cechami, pomoze wywechac wiecej dotknietych bran (masa); gotowa byc twarza, gdy przyjdzie czas. Zrodla (manifesty) NIE zna — Symon oprawil jako wzor, ktory czuja wszyscy uczciwi.",
    "historia": [
     "m11d11: Symon wpadl po 12 dniach — trafil na zly moment: Leona zaharowana, handel suknem przyduszony gluchym mrozem (martwy rynek), o cien opryskliwa . Wizyta nie iskrzyla. Symon (spryt) nie pchal, skrocil. Nast bez zmian (42, solidna). Nugget: pod zimowym naciskiem MIEKSZE brzegi koalicji sie nerwuja/chwieja (nie Leona — ona twarda — ale flaguje fray; tchorze typu Marlon podatni).",
     "KOREKTA meta (uwaga gracza): 12 dni przerwy to NIE powod chlodu — dryf tylko -1/tydz (~-1.7). Klapa wizyty = sytuacja Leony (zaharowana, martwy zimowy handel), NIE zaniedbanie ze strony Symona. Nie przypisywac ochłodzenia krótkim nieobecnościom.",
-    "m12d06 rzut79: Symon zaproponowal usluge zarzadcza - i tym razem (inaczej niz flop 11-11) TRAFIL: referencje Voxa+Aldousa (respektowani peers=social proof) + jej wlasna zimowa bieda czynia narzedzie realnym ratunkiem. Otwiera ksiegi (ostrozniej, ale realnie), 3. platny klient; narzedzie wykazuje uzyteczny insight. Relacja z flopa w value-based wiez. Leona (respektowana, well-connected) OFERUJE niesc slowo dalej wsrod zaufanych kupcow Schodow -> organiczny referral engine. Sojusz koalicji glebnie. Fee +3 jel. Nast 44->47 zauf+2."
+    "m12d06 rzut79: Symon zaproponowal usluge zarzadcza - i tym razem (inaczej niz flop 11-11) TRAFIL: referencje Voxa+Aldousa (respektowani peers=social proof) + jej wlasna zimowa bieda czynia narzedzie realnym ratunkiem. Otwiera ksiegi (ostrozniej, ale realnie), 3. platny klient; narzedzie wykazuje uzyteczny insight. Relacja z flopa w value-based wiez. Leona (respektowana, well-connected) OFERUJE niesc slowo dalej wsrod zaufanych kupcow Schodow -> organiczny referral engine. Sojusz koalicji glebnie. Fee +3 jel. Nast 44->47 zauf+2.",
+    "297-02-28 (rzut 99): Symon przyszedl po referral do niszy - konkretny biznesowy ask (jej rejestr) + dostarczona mistrzowska premium weryfikacja. Leona skierowala do MOCNEGO klienta (jej najlepszy referral), robota czysto/z autorytetem, klient zachwycony -> flywheel SURGE. Rezyduum z przedwczesnego pitchu frachtowego (02-15) zniklo - konkret+dostawa=dokladnie co ceni; relacja WYRAZNIE ogrzana. Fee ~5 jel. WAZNE: premium-imie Symona rozchodzi sie teraz realnie wsrod POWAZNYCH kupcow Schodow cudzymi ustami - organiczny silnik reputacji, ktory z czasem dosiegnie wiekszych patronow (Rollam) BEZ zabiegania. nast 56->61, zauf 22->24."
    ]
   },
   {

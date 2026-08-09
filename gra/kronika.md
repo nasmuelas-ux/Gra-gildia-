@@ -3537,3 +3537,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-03 RANEK: Wypoczety. Przedwiosnie, cieplej. Lull do weksla ~03-10. Wszystko pre-pozycjonowane.
 
 297-03-03 RANEK: Symon odwiedzil Serle podejsciem 3+1 (rzut 72). Wszedl jako chlopak, dal sie nakarmic/matkowac (odwrocil pride-wound) - bruzda z 02-17 zagojona. Bokiem, nie jak jalmuzna: referral LOKATORA na puste poddasze (przysluga nie ratunek; duma nietknieta, jej brak grosza rozwiazany godnie). Serla wdzieczna bez umniejszenia, dumna po swojemu. Wiez odbita: nast 38->46, zauf +2. Nowy watek poddasze_serli_lokator (~wiosna).
+
+297-03-03 POLUDNIE: Symon szukal najemcy dla Serli (rzut 46 marginal). Przez siec namierzyl plauzybilnego kandydata (porzadny pracujacy, wzialby poddasze przy odwilzy ~03-15). Lekko zvettował (nie podsylac zlego). Lead zabezpieczony, do potwierdzenia ~odwilz. Godny dochod dla Serli na torze.

@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 58,
- "zmeczenie": 32,
+ "sytosc": 52,
+ "zmeczenie": 38,
  "sakiewka": {
   "miedziaki": 0,
   "jelenie": 23,
@@ -51,9 +51,9 @@
  "licznik_uzyc": {
   "pismo": 105,
   "rachunki": 157,
-  "prawo": 155,
+  "prawo": 156,
   "retoryka": 93,
-  "jezyki": 71,
+  "jezyki": 72,
   "spryt_uliczny": 120,
   "kondycja": 105,
   "rzemioslo": 0,
@@ -87,7 +87,8 @@
   "REPUTACJA FORENSYCZNA TNIE W DWIE STRONY (uswiadomione 297-01-29 u Voxa): slawa 'skryby co wywecha zlodzieja' przynosi robote, ALE robi z Symona NIEWYGODNEGO SWIADKA dla kazdego z sekretem (echo Owena+Nesty). Kazdy wykryty skim = wrog, co pamieta imie. Vox rozglasza go nieostroznie; wylany posrednik z audytu obwinia Symona. WNIOSEK: dozowac te robote i te slawe; nie byc znanym jako czlowiek, przed ktorym nic sie nie ukryje - to sciaga strach/wrogosc, nie tylko zlecenia.",
   "UBEZPIECZENIE/ROZPROSZENIE RYZYKA (od Nesty 297-02-01): braawijska zasada - nie stawiac wszystkiego na jeden statek; ubezpieczyc ladunek, dzielic strate na wielu, by jedno zatoniecie nie rujnowalo. Zastosowanie: wiosenna spolka egzotyczna (ubezpieczyc ladunek), pula weksli (rozlozyc ryzyko na wiele drobnych, nie jeden gruby). Komplementarne do uslug kredytowych - razem: BROKER KREDYTU I PEWNOSCI.",
   "STANDARDY DOMENY KREDYTU I PEWNOSCI (z Nesta 297-02-05, rzut 86): (1) KRYTERIA BANKOWALNOSCI weksla - wyplacalny platnik(DD)+realna naleznosc(nie nadzieja)+luka CZASOWA(nie chroniczna nedza)+maly rozmiar+zabezpieczenie+oplata za ryzyko+LIMITY ekspozycji(max/deal, max lacznie, dywersyfikacja). (2) MENU: weksle/rekojmie, usluga zarzadcza, audyt forensyczny, (wiosna)ubezpieczenia frachtu - z zakresem/cena. (3) PLAYBOOK: zrodlo=zaufana siec(referrale) NIE desperaci(anty-neg-selekcja); twarda kwalifikacja przed oferta; jak mowic NIE(przekierowac odrzuconego ku usludze zarzadczej); dyskrecja+dawkowanie wgladu(lekcja Harlona); kantor-kapital vs solo; kadencja zima=budowac/siac cicho, wiosna=skalowac. Braavijskie wzory weksla od Nesty. MOAT/fach, nie pojedyncze deale.",
-  "ETYKA SYMONA (wyartykulowana 297-02-07): miara wplywu = ODPOWIEDZIALNOSC za ochrone slabszych; wiara nie zabrania bogactwa, lecz zada SPRAWIEDLIWOSCI. 'Chronic slabych, bo mi sie udalo.' Nie vendetta, lecz powinnosc; nie kwestionuje prawa cechu do licencji, lecz METODE zbira. Przekonal tym Owena - jego wlasna wiara. Rdzen tozsamosci kupca-sprawiedliwego, nie tylko dorobkiewicza."
+  "ETYKA SYMONA (wyartykulowana 297-02-07): miara wplywu = ODPOWIEDZIALNOSC za ochrone slabszych; wiara nie zabrania bogactwa, lecz zada SPRAWIEDLIWOSCI. 'Chronic slabych, bo mi sie udalo.' Nie vendetta, lecz powinnosc; nie kwestionuje prawa cechu do licencji, lecz METODE zbira. Przekonal tym Owena - jego wlasna wiara. Rdzen tozsamosci kupca-sprawiedliwego, nie tylko dorobkiewicza.",
+  "BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO (od Nesty): interes ubezpieczalny (tylko realny tracacy), indemnizacja do wysokosci szkody (nie wzbogacenie), wyzwalacz+dowod straty (calkowita/czesciowa/awaria wspolna), forma zwyczajowa braawijska. Odroznia ubezpieczenie od zakladu. Grunt solidny, mistrzostwo przez praktyke."
  ],
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."

@@ -3452,3 +3452,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-24 RANEK: Wypoczety. Harwin ~02-25 (JUTRO okno czujnosci). Mroz.
 
 297-02-24 RANEK: Symon zjadl i szukal kolejnych zlecen (rzut 21 - sucho). Dzien po duzym kliencie studnia chuda; jedyny marginalny lead ponizej standardu (audyt-na-kredyt/messy) - Symon odpuscil (dyscyplina). Brak nowego dochodu, ale zero zlej roboty. Nauka: nisza=struzka nie faucet, nie codziennie.
+
+297-02-24 POLUDNIE: Symon przeanalizowal dlug kantoru wobec Antaryonow METODA 3 KAPELUSZY. Zbiezna konkluzja: LEK=refinansowanie przez alternatywnego wierzyciela (Bank braavijski) - zlamac single-source zaleznosc, ktora daje Antaryonowi sile zawyzania. Overcharge-na-record+koalicja=dzwignia na dobre warunki (niewidzialnie, cierpliwie). NIE frontem w napieta zime (ryzyko zadania splaty). Timing=wiosna (Bank ~d30, plynnosc, customs). NOWA teza: sama wiarygodna GROZBA refi moze wymusic fair rate bez palenia kart. Link: dlug i fracht=jeden korzen (Antaryon-nexus). Decyzje Nesty, spring-gated. Synteza w watku refinansowanie_dlugu.

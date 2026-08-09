@@ -3546,3 +3546,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-04 RANEK: Wypoczety. Lull do weksla ~03-10.
 
 297-03-04 RANEK: Symon zjadl i pracowal w Sepcie (rzut 14 - mozolnie, nie zmeczenie/pora lecz sama robota). Zimowe ksiegi reliefu okazaly sie PLATANINA po chaotycznych rozdzialach (wiele rak, dosyp lorda, robota Hala) - zamkniecie ich czysto to slog na kilka sesji, nie jeden ranek; dzis maly klarowny postep. Bez szkody; Owen docenia trud. Flag: relief-books do porzadnego domkniecia (moze z Halem).
+
+297-03-04 POLUDNIE: Symon sciagnal Hala do rozplatania ksiag reliefu (rzut 94, wybitnie). Dwie rece+metoda audytu na realnej messy sprawie=wielki kawal domkniety, ksiegi bliskie czystego zamkniecia. FULL-CIRCLE: te same ksiegi, ktore Hal kiedys fumblowal (nadmandat) - dzis dojrzale (liczy nie decyduje). Model stajni dowiedziony (nauka przez wspolna robote). Bonus: czyste relief-books=accountability Wiary, Symon+Hal jako scribe-team. nast 68->71, zauf +2.

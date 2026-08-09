@@ -3709,3 +3709,6 @@ Boren nast 69->73, zauf 16->18. Sytosc 56, zmeczenie 44 (dlugi dzien).
 ## 297-03-16 pozny WIECZOR — Nesta: trzy tropy w jedna teze
 Symon zreferowal Nescie dzien (Boren/blok-zysk, Torsen/popyt, Leona/sukno). Nesta spiela to w jedna teze: to ten sam ruch - faktoria jako zaufany srodek, ktory laczy+sprawdza+bierze dzialke, bez kapitalu na towar (kapitalowo-lekka brokerka; 'kup polaczenie, strzyz z niego'). Drewno i sukno = dwa wcielenia jednej dzwigni. CAUTION Nesty: nie stac sie WIDOCZNYM wezlem ciagnacym za sznurki - wygladalby jak drugi kartel, a ma sprawe celna przeciw pierwszemu; zysk ma byc prawdziwy i ROZLOZONY (wspolny stol, nie tron), by nie sciagnac tego samego oka, ktore chce zwrocic na Antaryona. Sondaz Braavos pending (~03-18), grosza nie ruszaja.
 Rzut 77. Nesta nast 79->80, zauf 39->40. Sytosc 50, zmeczenie 42.
+
+## 297-03-17 RANEK — noc spokojna, pelny odpoczynek
+Symon zjadl i polozyl sie wczesnie; przespal noc w pelni (zmeczenie 5). Odwilz trzyma, opal osiada dalej (1.6->1.55, korekta blisko). Nic pilnego nie odpalilo. Sytosc 55.

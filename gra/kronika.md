@@ -3557,3 +3557,6 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-05 POLUDNIE: Symon zajal sie ksiegami Godrica (rzut 81) - i wlasnie TU jest robota, gdy reszta miasta pauzuje: dom Godrica (dostawca Nowego Zamku) BUSY, bo zamek rampuje wiosenne zaopatrzenie. Solidna sesja, fee ~3 jel (sakiewka 26->29). Court-conduit glebnie (57->59). AMBIENT/info-edge: konkret o wolumenach zaopatrzenia zamku (drewno/prowiant) - karmi wiedze-jako-towar + demand-side polnocnej brokerki (dwor firmuje popyt). Godric zauf 12->13.
 
 297-03-05 ZMIERZCH: Symon wplacil 25 jel do depozytu u Nesty (za kwitem) - sakiewka 29->4, depozyt 40->65 jel. Przy okazji cieplo pogadali. Nesta: zostaw working float (masz ~4 jel plynne), ale depozyt do wyjecia; aprobuje dyscypline oszczedzania. Rozmowa o nadchodzacej wiosnie - kantor gotowy, klaster tuz-tuz. Wiez partnerska trzyma.
+
+297-03-05 NOC: Symon wrocil do septy, czytal, jem, sen. Bufor ~69 jel. Noc spokojna.
+297-03-06 RANEK: Wypoczety. Lull do weksla ~03-10 (za ~4 dni). Przedwiosnie, cieplej.

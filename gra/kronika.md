@@ -3579,3 +3579,6 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-07 POPOLUDNIE: Symon zjadl, odpoczal, poszedl do Nesty (rzut 27) - dzien Matki, Nesta subdued/zajeta swietem, krotka nieproduktywna wizyta, bez zysku. Relacja caly (78). Lull trwa - nic sie nie dzieje, miasto czeka na klaster (weksel ~03-10 za 3 dni).
 
 297-03-07 ZMIERZCH: Symon spytal Neste prywatnie (z outem) o ustatkowanie/obywatelstwo i o meza (rzut 57). Szacunek+ufnosc+cichy dzien Matki odblokowaly mierzone otwarcie: owdowiala mlodo w Braavos, wybrala droge faktorki by odbudowac sie sama; nie osiada bo sluzy pryncypalowi(tozsamosc Braavos)+strzeze niezaleznosci+dlug Antaryonow=smycz(refi osobiste). Najglebsza rana zostawiona zamknieta. Wiez: partnerstwo->prawdziwa przyjazn. zauf 36->38.
+
+297-03-07 NOC: Symon poszedl spac po cichym, glebokim wieczorze z Nesta (poznal jej tlo). Noc spokojna.
+297-03-08 RANEK: Wypoczety. Przedwiosnie, coraz cieplej (pogoda 30). Lull do weksla ~03-10 (za 2 dni).

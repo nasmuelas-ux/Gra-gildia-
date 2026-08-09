@@ -3643,3 +3643,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-13 RANEK: WYROK MIRY dzis (koniec miesiaca proby). Odwilz pelna. Dach+Halvard ~03-15.
 
 297-03-13 RANEK: WYROK Miry - dowiozla, ale cofnela sie od formalizacji (zacieta niezaleznosc jak Nesta). Symon reframe (wolnosc/wspolniczka-nie-podwladna/jej wizja, autentycznie) = wlasciwy grunt, zarejestrowala szacunek, ale nie otworzyla sie ('musze przemyslec', zauf 9 za plytkie). Seed zasiany, drzwi uchylone, kamieniczka luzno. nast 28->30. Lekcja: gleboka garda nie peka w 1 rozmowie, cierpliwosc.
+
+297-03-13 POLUDNIE: Symon pomogl Torrenowi przy sprawach prawnych Septy (rzut 65) - produktywnie: odciazyl septona, uczyl sie prawa na realnych sprawach (osad od mistrza). Prawo praktyka (mentor-quality). Torren 20->23.

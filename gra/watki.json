@@ -646,6 +646,12 @@
   {
    "id": "nauka_prawa_torren",
    "stan": "ZAWARTE (297-03-11, rzut 66): uklad mentorstwa - Torren (septon uczony w prawie) uczy Symona PRAWA w zamian za pomoc pisarska przy sprawach prawnych/majatkowych Septy. Akceleruje prawo poza samoukiem (osad z mentora+realnych spraw). Wartosc: tarcza prawna, grunt pod sprawe celno-frachtowa (neutralny jurysta), Wiara legal work. Do rozwijania sesjami. || 297-03-11 (rzut 56): pierwsza sesja - produktywna. Symon odciazyl Torrena przy sprawach Septy (zapisy/nadania/wlasnosc koscielna), uczyl sie prawa na realnych sprawach (osad od mistrza, nie ksiega). Praktyka prawo, Torren zadowolony. nast 18->20."
+  },
+  {
+   "id": "aurane_sklady",
+   "opis": "Aurane (zamozny wlasciciel skladow portowych, referral Godrica 11-19) - lead premium na ksiegi/inwentarz skladowe. 297-03-21 (rzut 39): wysluchal (marka+Godric), NIE wzial - wiosenny natlok ladunku + ostroznosc (chce dowodu/referencji nie slowa). Drzwi uchylone. SLOW-BURN: wrocic z konkretnym dowodem kompetencji/referencja (np. testimonial klienta) LUB w spokojniejszej porze (po wiosennym mlynie). Dyskretny, propertied klient = wart cierpliwosci, pasuje do quiet-pivotu.",
+   "typ": "okazja/slow-burn",
+   "widoczny_graczowi": true
   }
  ]
 }

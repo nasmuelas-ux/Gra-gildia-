@@ -3515,3 +3515,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 ## 297-03-01 RANEK - PIERWSZY DZIEN MIESIACA (przedwiosnie)
 Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pierwszego dnia miesiaca - miasto zywsze, kupcy, tlum. Okno dachu kamieniczki zaczyna sie otwierac (Donnel oceni odwilz). Wiosenny klaster startuje: weksel-pilot ~03-10, Halvard ~03-15, draw ~03-19.
+
+297-03-01 RANEK: Symon poszedl na wielki targ (rzut 51). Miasto zywe po zimie - pierwszy real bustle; ceny zimowo-deficytowe (opal/staple) zaczynaja luzniec ku odwilzy, ale import wciaz ciasny (szlaki ledwie puszczaja). Puls przedwiosnia: ulga, kupcy patrza ku wiosennej zegludze. Nugget: gadaja, ze lod w porcie zaczyna pekac, pierwsze statki spodziewane wkrotce (spojne z Halvard ~03-15 + flotylla sukna). Drobny beat: Symon-mieszczanin porusza sie po targu inaczej niz rok temu - znany, witany 'pan Tally' (cichy marker awansu). Bez wielkiego wydarzenia; ambient+puls. spryt+1.

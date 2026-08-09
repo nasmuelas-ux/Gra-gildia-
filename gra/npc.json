@@ -723,7 +723,7 @@
    "leki": [
     "obcy lichwiarze siegajacy po warsztaty cechowe"
    ],
-   "nastawienie_do_gracza": 73,
+   "nastawienie_do_gracza": 72,
    "zaufanie": 18,
    "wie_o_graczu": [
     "czyta umowy lepiej niz ten co je pisze",
@@ -743,10 +743,11 @@
     "297-02-03: pomogl Symonowi w cichym odczycie Harwina - Harwin to ostrozny cech-gracz (czyste powierzchnie, brak latwego brudu/dlugow; sam szuka sladow u innych). Nic latwego do zlapania.",
     "297-02-11 (rzut 73): sojusz podlany (mutual loyalty). Boren (cechmistrz) dal insider-intel: Cech Pisarzy NIE stoi murem za Harwinem - to glownie frakcja Rymana + osobista krucjata Harwina; reszta skrybow ZMECZONA waśnia, po jego publicznych wpadkach (dzien Matki) patrzy krzywo raczej na NIEGO. Harwin bardziej ISOLOWANY we wlasnym cechu niz sie zdawalo ('uczynic nieistotnym' dziala). Boren oferuje WCZESNE OSTRZEZENIE - trzyma ucho w kregach cechu, da znac o ruchu Harwina (cenne, ruch ~02-12). nast 57->59.",
     "297-03-15 POPOLUDNIE (rzut 18, zla pora): Symon przyszedl z dobra nowina bez haczyka - drewno Polnocy cale, opal zaraz siadzie, nie wiazac cechu dlugim kontraktem po zimowej cenie. ALE dom cechu wrzal wiosennym rozruchem (zamowienia z zimy, czeladnicy, awantury) - Boren sluchal pol uchem, wzial cynk z roztargnieniem i zaraz go odciagnieto. Wiesc DOSTARCZONA (drobny goodwill), ale ZERO glebszej wymiany - blok/szkutnicy/Harwin nie ruszone, Symon slusznie nie napieral. NAUKA: wiosna cech zajety - lapac Borena wieczorem/w domu. nast 68->69, zauf 16 hold.",
-    "297-03-16 WIECZOR (rzut 95, u niego w domu - wlasciwa pora): odrobiona rozmowa z wczoraj, pelny kontakt. BLOK: podchody do szkutnikow/kowali/bednarzy CHWYTAJA (wspolna oslona przekonuje), ale ta sama rysa - ludzie pytaja KIEDY ruszy, samym czekaniem cechu nie utrzymac. Symon wniosl PRZELOM: spoiwo pozytywne (zysk) zamiast tylko strachu - tanszy wsad z odwilzy + agregacja popytu (kolodzieje, dwor/Godric) zwiaza blok WSPOLNYM GROSZEM. Boren kupil to ('ludzie znosza czekanie, jak w miedzyczasie im sie przelewa'). HARWIN: cicho, dalej lize rany, Cech sie za nim NIE zwiera (krucjata jego+frakcji Rymana), Boren trzyma ucho. nast 69->73, zauf 16->18."
+    "297-03-16 WIECZOR (rzut 95, u niego w domu - wlasciwa pora): odrobiona rozmowa z wczoraj, pelny kontakt. BLOK: podchody do szkutnikow/kowali/bednarzy CHWYTAJA (wspolna oslona przekonuje), ale ta sama rysa - ludzie pytaja KIEDY ruszy, samym czekaniem cechu nie utrzymac. Symon wniosl PRZELOM: spoiwo pozytywne (zysk) zamiast tylko strachu - tanszy wsad z odwilzy + agregacja popytu (kolodzieje, dwor/Godric) zwiaza blok WSPOLNYM GROSZEM. Boren kupil to ('ludzie znosza czekanie, jak w miedzyczasie im sie przelewa'). HARWIN: cicho, dalej lize rany, Cech sie za nim NIE zwiera (krucjata jego+frakcji Rymana), Boren trzyma ucho. nast 69->73, zauf 16->18.",
+    "297-03-18 RANEK (rzut 5, zla pora + komplikacja): Symon przyszedl po podpisany off-take zelaza - trafil warsztat w szczycie wiosennego chaosu (zalegle zamowienia, awantura, Boren obie rece pelne). Papieru nie podpisze, nie ma jak go posadzic. Gdy Symon zarysowal szerszy plan (off-take tez od KOWALI), Boren zestresowany otrzezwił: kowale to OSOBNY cech, wlasne zrodla zelaza (czesc zwiazana ze starymi sprzedawcami), nie podpisza skrybie papieru na slowo; on nie bedzie zaganial obcego cechu mid-rush. Rzucil tez klujaco: \"ludzie zaczna pytac, coś ty za jeden, ze spinasz zelazo przez pol Schodow\" - echo przestrogi Nesty o widocznym wezle. NAUKA: sell-side \"locked\" dotyczyl BORENA nie kowali; agregacja przez cechy = powolna robota relacyjna, nie zbieranie podpisow, i nie w porze gdy warsztaty ploną. nast 73->72 (stres/friction, nie zerwanie)."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-03-16",
+   "ostatni_kontakt": "297-03-18",
    "cechy_mowy": "krótko, prosto, wali piescia w stol; 'chlopcze'",
    "historia": [
     "m11d20 (rzut 72): cieply kontakt; opal Symona bezpieczny/suchy na placu, Boren przyznaje ze przetrzymanie bylo madre (opal drozeje). Nugget: Boren (w branzy) czuje, ze POPYT na opal ostro rosnie z glebokim mrozem, cena pnie sie, szczyt sie zbliza. Przysluga zwrotna wciaz zabankowana (cieplo). Sojusz MOCNY. Nast 42->44.",

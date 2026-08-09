@@ -3584,3 +3584,7 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-08 RANEK: Wypoczety. Przedwiosnie, coraz cieplej (pogoda 30). Lull do weksla ~03-10 (za 2 dni).
 
 297-03-08 RANEK: Symon ksiegi Godrica (rzut 50, maintenance) - czysto, fee ~2 jel (sakiewka 4->6). Kanal dworski stabilny (najpewniejszy w lull). Zamek dalej rampuje wiosenne zaopatrzenie. Praktyka rachunki.
+
+297-03-08 POLUDNIE: Symon zapisal linie komunikacji z pozostalymi cechami (przez Borena/peer, wspolna krzywda nie rekrutacja, kompartmentalizacja/source-protected, dwustronnie nie kolektyw, card-first, tanie zelazo=przykrywka wejscia). Uruchamia przez Borena (wczesniej badajac).
+
+297-03-08 POLUDNIE: Symon uruchomil outreach do pozostalych cechow przez Borena (wywiad 45, wizyta 93). Wlasciwie tym razem: Boren peer-most, wspolna krzywda nie rekrutacja, tanie zelazo=przykrywka, kazdy cech osobno, kompartmentalizacja. Boren obejmuje swoja wlasciwa role, zaczyna dzialac (szkutnicy/kowale/bednarze jako peer). Guild-side mass-building organicznie w ruchu, source-protected. nast 65->68.

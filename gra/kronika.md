@@ -3469,3 +3469,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-25 POLUDNIE: Symon odwiedzil Aldousa (rzut 70) - cieply reconnect po ~25 dniach, oddech od polityki. Aldous znowu soba (mostek plynnosciowy dal powietrze, wino czeka na odwilz, wdzieczny). Przyjazn odbita. nast 55->59, zauf 14->15.
 
 297-02-25 POPOLUDNIE/ZMIERZCH: Symon poszedl pogadac+pomoc Owenowi (rzut 28 - miss okolicznosciowy). Ciezki sombre dzien parafii: zima wziela uboga dusze z kolejki reliefu; popoludnie na pauper-pogrzebie/pocieszaniu/ksiedze jalmuzny. Owen pochloniety - brak momentu na rozmowe. Sluzba prawdziwa (Symon dawal rece), ciche dobro w grim robocie. Bez warm-connect (zla pora), bez szkody; Symon otrzezwiony nie recharged. nast trzyma 75.
+
+297-02-25 NOC: Symon domknal ciezki dzien - cwiczenie fizyczne (kondycja+1), jedzenie, sen. Sombre popoludnie sluzby przy Owenie. Noc spokojna.
+297-02-26 RANEK: Wypoczety. Zima dogasa - wiosenny klaster za ~tydzien (dach ~03-01, weksel ~03-10). Mroz.

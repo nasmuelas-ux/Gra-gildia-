@@ -3588,3 +3588,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-08 POLUDNIE: Symon zapisal linie komunikacji z pozostalymi cechami (przez Borena/peer, wspolna krzywda nie rekrutacja, kompartmentalizacja/source-protected, dwustronnie nie kolektyw, card-first, tanie zelazo=przykrywka wejscia). Uruchamia przez Borena (wczesniej badajac).
 
 297-03-08 POLUDNIE: Symon uruchomil outreach do pozostalych cechow przez Borena (wywiad 45, wizyta 93). Wlasciwie tym razem: Boren peer-most, wspolna krzywda nie rekrutacja, tanie zelazo=przykrywka, kazdy cech osobno, kompartmentalizacja. Boren obejmuje swoja wlasciwa role, zaczyna dzialac (szkutnicy/kowale/bednarze jako peer). Guild-side mass-building organicznie w ruchu, source-protected. nast 65->68.
+
+297-03-08 POPOLUDNIE: Symon odwiedzil Voxa (wywiad 26, wizyta 57) - splacic dlug lojalnosci (stanal za kantorem, Symon znikl ~38 dni). Vox cieplo ale z lekka suchoscia o przerwe; genuine tend+uznanie poparcia naprawilo adekwatnie. Dlug uznany/czesciowo splacony, stygniecie odwrocone, Vox znow czynny sojusznik. nast 53->55, zauf 17->18.

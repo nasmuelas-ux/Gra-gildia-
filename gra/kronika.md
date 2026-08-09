@@ -3582,3 +3582,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-07 NOC: Symon poszedl spac po cichym, glebokim wieczorze z Nesta (poznal jej tlo). Noc spokojna.
 297-03-08 RANEK: Wypoczety. Przedwiosnie, coraz cieplej (pogoda 30). Lull do weksla ~03-10 (za 2 dni).
+
+297-03-08 RANEK: Symon ksiegi Godrica (rzut 50, maintenance) - czysto, fee ~2 jel (sakiewka 4->6). Kanal dworski stabilny (najpewniejszy w lull). Zamek dalej rampuje wiosenne zaopatrzenie. Praktyka rachunki.

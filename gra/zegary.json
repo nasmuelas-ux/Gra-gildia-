@@ -134,7 +134,8 @@
    "id": "kamieniczka_najem",
    "opis": "IZBY 1+2 WYNAJETE (wdowa Jonna + czeladnik Osric, ~2 jel/mies lacznie). Dobra slawa domu rozchodzi sie -> soft waitlist na izbe 3 (wiosna, po pelnym dachu = pelny dochod ~3 jel/mies). Najem jako aktywny watek zamkniety do wiosny.",
    "odpala": "297-03-05",
-   "typ": "dochod (do wiosny)"
+   "typ": "dochod (do wiosny)",
+   "intel_0317": "Zarzad wrocil do Symona+Brana (Mira wyszla z remitu 03-17). Lokatorzy: Jonna (stabilna, trzymac izbe sucha), Osric (ok, planowac rotacje gdy zostanie majstrem). Izba 3 po dachu: wziac stabilnego jak Jonna, nie max czynsz. Zyczen lokatorow dopytac przez Brana."
   },
   {
    "id": "zlecenia_krag_okno",

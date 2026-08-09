@@ -3819,3 +3819,6 @@ Symon uczyl sie prawa z Torrenem (uklad mentorski: pomogl przy majatkowych spraw
 
 ## 297-03-21 WIECZOR — Nesta: mapa tygodnia (sekwencja pipeline)
 Symon naradzil sie z Nesta o kolejnych krokach (rzut 71). Uporzadkowala: nie szarpac niedojrzalego - wiosna niesie zniwo za tydzien, byc gotowym gdy statki dobija. SEKWENCJA: ~03-25 dach gotowy -> izba 3 najem (pelny dochod kamieniczki); ~03-27 flotylla sukna -> 1. zamowienie Leony przez faktorie (weryfikacja+prowizja); ~03-28 Nesta plasuje pilotaz ubezpieczen u braawijskiego kapitalu; Aurane DOPIERO po slowie Leony + przetarciu mlyna skladow. Wolny ogien (nie szarp): keystone spring-gated, zelazo-kowale relacyjnie, ziarno wspolnika Merka (obserwuj), niecierpliwosc koalicji (podlac Borena tanim wsadem gdy luzny). Kazala mu isc spac (tydzien ostry, przyjsc swiezym). Partnerstwo dojrzale. Sytosc 52, zmeczenie 40.
+
+## 297-03-22 RANEK — noc spokojna
+Symon zjadl, pocwiczyl, przespal noc (zmeczenie 5). Nic pilnego nie odpalilo. Cichy dzien przed wiosennym skrzyzowaniem (~03-24 off-take zelaza, ~03-25 dach, ~03-27 flotylla). Opal stabilnie 1.25. Sytosc 54.

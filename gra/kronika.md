@@ -3783,3 +3783,6 @@ Po botched drafcie Symon poszedl do Nesty nie spisywac, lecz NAUCZYC sie. Nesta 
 
 ## 297-03-20 RANEK — laznia, sen, nowy dzien
 Symon zmyl ciezki dzien w lazni, zjadl i przespal noc (zmeczenie 6). Odwilz trzyma, opal blisko normy (1.45->1.4, korekta ~03-21). Nic pilnego nie odpalilo. Sytosc 55.
+
+## 297-03-20 RANEK — Re-draft instrumentu ubezpieczen (udany)
+Symon spisal instrument ponownie, tym razem uzbrojony w konwencje od Nesty. Interes ubezpieczalny (realny tytul do ladunku), indemnizacja z pulapem na wartosci skor (znanej co do sztuki z sortowania), jasne wyzwalacze+dowod straty, braawijska forma zwyczajowa. Forensic Symona swieci (zna ladunek+forme) - opis ryzyka ostrzejszy niz generyk, profesjonalny. Dokument PLACEABLE, nie wstyd przed braawijskim kapitalem. Rzut 79. Luk odrobiony: botch(1)->nauka(62)->re-draft(79) - modelowa reakcja na porazke. Zostaje: Nesta plasuje u kapitalu (~przy flotylli). Nowy zegar: ubezp_pilot_plasowanie ~03-28. Sytosc 48, zmeczenie 14.

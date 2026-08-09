@@ -252,6 +252,14 @@
    "co_sie_stanie": "komplet off-take -> commit pierwszej proby-partii zelaza; tansze zelazo rzemieslnikom + cienka dzialka + zasila blok",
    "widoczny_graczowi": true,
    "obstacle": "297-03-18: off-take kowali TRUDNIEJSZY niz zakladano (osobny cech, wlasne zrodla, nie na slowo; Boren nie zagoni ich mid-rush; flaga widocznosci). Sell-side \"locked\" dotyczyl tylko Borena. Wymaga wolniejszego, relacyjnego podejscia do kowali + spokojniejszej pory. Boren-wlasny off-take wciaz do domkniecia."
+  },
+  {
+   "id": "ubezp_pilot_plasowanie",
+   "typ": "biznes",
+   "odlicza_do": "297-03-28",
+   "opis": "Nesta plasuje pierwszy pilotaz ubezpieczenia (wlasny wywoz skor -> Braavos) u braawijskiego kapitalu - zalezne od dostepnosci kapitalu/korespondentow (~przy flotylli ~03-27). Wynik: czy kapital przyjmuje ryzyko i na jakich stawkach; test mechanizmu broker-plasowanie.",
+   "co_sie_stanie": "kapital przyjmuje/odrzuca pilotaz -> mechanizm broker-plasowanie potwierdzony lub do korekty",
+   "widoczny_graczowi": true
   }
  ]
 }

@@ -11,7 +11,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 23 jeleni + 0 mied + 0 smokow
 - kwit depozytowy u Nesty (65 jel)
-- Zdrowie 100 · Sytosc 55 · Zmeczenie 6
+- Zdrowie 100 · Sytosc 48 · Zmeczenie 14
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -68,6 +68,7 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-03-21` opal_korekta: Cena opalu/drewna opalowego spada z zimowego szczytu (odwilz + potwierdzona podaz Polnocy). Kto przetrzymal op
 - ◆ `297-03-27` braavijska_flotylla_sukna: Braavijska flotylla sukna spodziewana z pierwszym oknem pogodowym po odwilzy (cynk od Gartha + Leona). Na przy
 - ◆ `297-03-24` zelazo_offtake: Zebrac PODPISANY off-take na zelazo z Gulltown (Boren + kowale, kazdy wlasne zamowienie, kompartmentalizacja).
+- ◆ `297-03-28` ubezp_pilot_plasowanie: Nesta plasuje pierwszy pilotaz ubezpieczenia (wlasny wywoz skor -> Braavos) u braawijskiego kapitalu - zalezne
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

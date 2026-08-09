@@ -1229,9 +1229,9 @@
    "id": "kupiec_denys",
    "imie": "Denys",
    "zawod": "handlarz woskiem i swiecami (Schody/port)",
-   "nastawienie_do_gracza": 21,
+   "nastawienie_do_gracza": 23,
    "zaufanie": 8,
-   "ostatni_kontakt": "296-11-16",
+   "ostatni_kontakt": "297-02-28",
    "wie_o_graczu": [
     "przyszedl do faktorii po dyskretny audyt swoich ksiag — niespokojny o dostawce; slyszal, ze 'ten pisarz' rzetelny i cichy (nisza/pewnie szept Aldousa)",
     "audyt obnazyl, ze dostawca go skraca — Symon uratowal mu grosz; wdzieczny, ufa; cichy i rzetelny"
@@ -1599,7 +1599,9 @@
    "zawod": "znaczny kupiec ze Schodow (braavijskie towary zbytku)",
    "skad": "referral niszy m9d3; dostawcy zvettowani bezpieczni",
    "nast": 9,
-   "nota": "skupiona premium weryfikacja mu wybitna — znaleziono udokumentowane skrocenie u jednego dostawcy; ZACHWYCONY, bedzie polecac dalej (flywheel przyspiesza); premium-imie faktorii/Symona na Schodach ugruntowane || m9d6: Symon probowal przekuc zachwyt w aktywne patronackie wyniesienie — grajac na ambicji Denysa + saczac 'most' do jego znajomych. Ale wykonanie (slabosc ludzka Symona) BYLO ZA WIDOCZNE: Denys, bystry, wyczul KALKULACJE pod uprzejmoscia; zostal kordialny ale OSTROZNIEJSZY (czyta Symona jako ambitnego, grajacego angle). Latwy zapal 'powiem swoim' OSTYGL. Nie wrog, lecz chlodniejszy klient; brak wyniesienia w gore."
+   "nota": "skupiona premium weryfikacja mu wybitna — znaleziono udokumentowane skrocenie u jednego dostawcy; ZACHWYCONY, bedzie polecac dalej (flywheel przyspiesza); premium-imie faktorii/Symona na Schodach ugruntowane || m9d6: Symon probowal przekuc zachwyt w aktywne patronackie wyniesienie — grajac na ambicji Denysa + saczac 'most' do jego znajomych. Ale wykonanie (slabosc ludzka Symona) BYLO ZA WIDOCZNE: Denys, bystry, wyczul KALKULACJE pod uprzejmoscia; zostal kordialny ale OSTROZNIEJSZY (czyta Symona jako ambitnego, grajacego angle). Latwy zapal 'powiem swoim' OSTYGL. Nie wrog, lecz chlodniejszy klient; brak wyniesienia w gore.",
+   "nastawienie_do_gracza": 23,
+   "ostatni_kontakt": "297-02-28"
   },
   {
    "id": "klika_zbozowa",

@@ -3506,3 +3506,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-28 RANEK: Wypoczety. Wiosenny klaster tuz-tuz (dach ~03-01, targ ~03-01). Mroz zelzal odrobine.
 
 297-02-28 RANEK/POPOLUDNIE: Symon zlecenie w niszy przez Leone (rzut 99) - mocny referral, mistrzowska premium weryfikacja, klient zachwycony, flywheel surge, fee ~5 jel (sakiewka 13->18). Relacja z Leona wyraznie ogrzana (rezyduum frachtowe zniklo). Premium-imie rozchodzi sie wsrod powaznych kupcow = organiczny silnik ku wiekszym patronom. Leona 56->61, zauf 22->24.
+
+297-02-28 POPOLUDNIE: Symon zjadl, odpoczal, potem drugi klient niszy przez referral Denysa (rzut 77) - flywheel surge, premium weryfikacja czysto, fee ~4 jel (sakiewka 18->22). Denys rad. Dwa premium w dzien=gora okna niszy (nie oczekiwac trzeciego). Bufor ~62 jel plynne przed wiosna. Denys nast +2.

@@ -3593,3 +3593,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-08 NOC: Symon domknal dzien - jem, sen. Dzien: guild-outreach uruchomiony przez Borena, Vox (dlug lojalnosci splacony), Serla+Tom (cieplo ale nie sentymentalnie). Noc spokojna.
 297-03-09 RANEK: Wypoczety. Odwilz przyspiesza (pogoda 31). Weksel-pilot JUTRO (~03-10).
+
+297-03-09 RANEK: Symon ksiegi Godrica (rzut 85) - ksiegi dobrze dogonione, wiec wartosc relacyjna: Godric poda nazwisko Symona STEWARDOWI ZAMKU pod wiosenne ksiegi zaopatrzenia (reczy). Awans 'bede pamietal'->realne organiczne dojscie ku zamkowi/lordowi (legalne, osobne od frachtu). Fee ~2 jel (sakiewka 6->8). nast 59->61, zauf ->14.

@@ -3571,3 +3571,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-06 NOC: Symon poszedl spac. Dzien tendow: Bran(wesele~04-07,swiadek), Wenda(po targu,cieplo), Owen(wiez nowy poziom,zaufana reka Wiary). Noc spokojna.
 297-03-07 RANEK: Wypoczety. Dzien Matki (co 7 dni). Lull do weksla ~03-10 (za ~3 dni).
+
+297-03-07 RANEK: Symon zjadl i sluzyl w sepcie na dzien Matki (rzut 98, wybitnie). Pelna septa - szczera, umiejetna sluzba (pismo dla wiernych, ubodzy, obrzed) obok Owena. Cala spolecznosc widzi prawde: szept Harwina 'gra swietego dla statusu' DOBITNIE zdementowany czynem (deed>whisper, poswiadczone przez tlum). Rep Wiary surge, osada/przynaleznosc scementowana, whisper Harwina martwy wsrod kongregacji. Belonging: Symon prawdziwie OF tej spolecznosci.

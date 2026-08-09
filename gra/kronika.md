@@ -3690,3 +3690,7 @@ Symon odlozyl pioro (ksiegi Wata ~3/4) i przespal noc bez zaklocen. Odwilz trzym
 ## 297-03-16 RANEK — Wat: dokonczone i dostarczone ksiegi (saldo ~9 jel)
 Symon zjadl, domknal ksiegi Wata (kalendarz zobowiazan + czystopis) i zaniosl je na Schody. Dostarczone czysto: wiekowanie naleznosci, rentownosc per klient/trasa, progi. Pokazal Watowi konkret, ktory go olsnil - chwalona nowa trasa na Sisterton cicho topi grosz (fracht drozszy niz utarg). Wat wdzieczny (za twarda wiedze placi, nie za ladne kolumny), zaplacil saldo ~9 jel, klauzula dyskrecji trzyma. Model premium+dyskrecja potwierdzony jako powracajacy przychod (drugi obrot Wata).
 Sakiewka 14->23 jel. Wat nast 26->30, zauf 10->11. Zegar wat_ksiegi_wiosna zamkniety. Sytosc 64, zmeczenie 22.
+
+## 297-03-16 RANEK — Leona: sezon sukna sie budzi
+Symon zajrzal do Leony z prostym 'masz cos nowego' (bez bajki - ona to ceni). Trafil w pore: odwilz -> braavijska flotylla sukna przyjdzie z pierwszym oknem pogodowym, wiec stala linia (braavijskie sukno przez faktorie Nesty, Symon broker) sie budzi. Leona chce byc gotowa zawczasu - poprosila Symona, by z gory przygotowal grunt (weryfikacja dostawcy + struktura pierwszego wiosennego zamowienia), by w dniu przyjscia flotylli wystarczylo przylozyc pieczec. Prowizja brokerska + obrot faktorii dojda przy realizacji (~03-27). 'Dobrze, ze zajrzal, w pore.'
+Rzut 55. Leona nast 61->63, zauf 24->25. Nowy zegar: braavijska_flotylla_sukna ~03-27. Sytosc 56, zmeczenie 28.

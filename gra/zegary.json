@@ -226,6 +226,14 @@
    "opis": "Cena opalu/drewna opalowego spada z zimowego szczytu (odwilz + potwierdzona podaz Polnocy). Kto przetrzymal opal kupiony u szczytu - podtapia sie; kandydaci na mostowy kredyt/plynnosc. Kolodzieje/rzemioslo: tanszy wsad.",
    "co_sie_stanie": "opal osiada ku ~1.2-1.3x; odslania przetrzymujacych (weksle selektywnie) i ulZa konsumentom drewna (kolodzieje - kapital relacyjny przez Borena)",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "braavijska_flotylla_sukna",
+   "typ": "okazja/tlo",
+   "odlicza_do": "297-03-27",
+   "opis": "Braavijska flotylla sukna spodziewana z pierwszym oknem pogodowym po odwilzy (cynk od Gartha + Leona). Na przyjscie: pierwsze wiosenne zamowienie Leony przez faktorie Nesty -> weryfikacja papierow dostawcy (Symon) + prowizja brokerska (stala linia budzi sie na sezon).",
+   "co_sie_stanie": "flotylla dobija -> realizacja pierwszego wiosennego zamowienia sukna: weryfikacja + prowizja Symona; reaktywacja stalej linii",
+   "widoczny_graczowi": true
   }
  ]
 }

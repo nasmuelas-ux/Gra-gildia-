@@ -3491,3 +3491,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 
 297-02-26 NOC: Symon domknal bardzo owocny dzien - jedzenie, sen. Reorganizacja koalicji: Harlon obrocony w atut, Boren w pelni oddany+guild-side mass-builder (szkutnicy/kowale/bednarze), plan taskingu+OPSEC, linia Merka, zelazo->wiosenny pipeline ulgi. Noc spokojna.
 297-02-27 RANEK: Wypoczety. Wiosenny klaster za ~kilka dni (dach ~03-01). Mroz.
+
+297-02-27 RANEK: Symon do Gartha, agenda-less (wywiad 10 thin, wizyta 48 marginal). Cieply-znosny kwadrans przy piecyku, bez substancji - Garth ostrozny, dokumentacja celna cicho w tle (bez pushu), zima martwa. Relacja utrzymana/lekko ogrzana. nast 36->37. Higiena rdzeniowego zrodla.

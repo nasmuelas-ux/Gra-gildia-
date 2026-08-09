@@ -3741,3 +3741,6 @@ Sytosc 62, zmeczenie 40.
 
 ## 297-03-17 POPOLUDNIE — Symon+Hal: rachunki wsparcia + kamien milowy delegacji
 Symon wzial Hala do rozliczenia zimowych rachunkow wsparcia Owena (apprenticeship, niewrazliwa robota). KAMIEN MILOWY: Symon odsunal sie i dal Halowi caly dzial (rozdania 2. polowy zimy) do prowadzenia SAM - Hal zastosowal metode Symona samodzielnie (uzgodnil rozchod ze stanem, oddzielil udokumentowane od 'na slowo', zamknal na poziomie sum tam gdzie ziarnisty zapis nie istnieje - obeszli data-ogon z 03-07 liczac masa). Radzi sobie (Symon poprawil 2 rzeczy). Czysty obraz dla Owena: ile rozdano/z czego/ile zostalo. Hal pierwszy raz NIOSL kawalek SAM - droga do wlasnego standingu realna, obietnica dotrzymana. Dla Symona cichy kamien milowy: umie ODDAC robote = dzwignia poza wlasne dwie rece dziala. Rzut 87. Hal nast 74->77, zauf 30->32. Sytosc 56, zmeczenie 48.
+
+## 297-03-17 WIECZOR — laznia, odpoczynek
+Symon poszedl do lazni po gestym dniu. Goraca woda zmyla zmeczenie (48->22). Ambient: portowcy gadaja o wiosnie - sol/wino przy normie, opal 'wreszcie leci w dol' (jego odczyt sprzed 2 dni juz jako powszechna prawda ludu - przewaga informacyjna spowszedniala, jak przewidziala Nesta). Sytosc 52.

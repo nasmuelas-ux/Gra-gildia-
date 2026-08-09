@@ -3641,3 +3641,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-12 NOC: Symon domknal dzien - jem, sen. Dzien: korekty (Wick zmarly), Colm/Torren-mentorstwo prawa, plan na wyrok Miry, Hal-marzenie nazwane. Noc spokojna.
 297-03-13 RANEK: WYROK MIRY dzis (koniec miesiaca proby). Odwilz pelna. Dach+Halvard ~03-15.
+
+297-03-13 RANEK: WYROK Miry - dowiozla, ale cofnela sie od formalizacji (zacieta niezaleznosc jak Nesta). Symon reframe (wolnosc/wspolniczka-nie-podwladna/jej wizja, autentycznie) = wlasciwy grunt, zarejestrowala szacunek, ale nie otworzyla sie ('musze przemyslec', zauf 9 za plytkie). Seed zasiany, drzwi uchylone, kamieniczka luzno. nast 28->30. Lekcja: gleboka garda nie peka w 1 rozmowie, cierpliwosc.

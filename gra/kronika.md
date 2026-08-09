@@ -3524,3 +3524,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-01 NOC: Symon domknal pierwszy dzien miesiaca - jem, sen. Swiadomie ZOSTAWIA Mire do konca proby (~03-13, tend przez nieobecnosc). Noc spokojna.
 297-03-02 RANEK: Wypoczety. Przedwiosnie, cieplej. Klaster: weksel-pilot ~03-10, Halvard ~03-15, draw ~03-19.
+
+297-03-02 RANEK/POLUDNIE: Symon do Donnela ocenic dach (rzut 61). Werdykt: jeszcze za wczesnie (noce marzna, zaprawa by spekla), bezpieczne okno ~03-15. Donnel USTAWIL wszystko na teraz (materialy/ekipa/sekwencja zabukowane) - zero opoznienia gdy pogoda pusci. Rezerwa ~35 jel trzyma. START ~03-15, izba 3 potem. Donnel 40->42.

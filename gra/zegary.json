@@ -124,8 +124,8 @@
   },
   {
    "id": "kamieniczka_dach_pelny",
-   "opis": "Pelny re-roof kamieniczki przez Donnela - GATED NA POGODE (odwilz/wczesna wiosna, zaprawa musi wiazac). Rezerwa ~21 jel z linii. Po nim 3. izba pod wynajem = pelny dochod. Orientacyjnie ~wczesna wiosna 297. || 297-02-14 REWIZJA (Donnel): remont grubszy/drozszy niz szacowano (~35+ jel vs ~21 rezerwy; zgnilizna siega stropu/belek). Przekroczenie budzetu ~15+ jel do pokrycia. Izba 3 opozniona/drozsza. || 297-03-01: OKNO OTWIERA SIE - zima puszcza (pogoda cieplej), ale to dopiero POCZATEK odwilzy; Donnel oceni, kiedy zaprawa bezpiecznie zwiaze (pelna odwilz blizej ~03-15 z Halvardem). Rezerwa+depozyt na re-roof gotowe (~35 jel). Wkrotce actionable.",
-   "odpala": "297-03-01",
+   "opis": "Pelny re-roof kamieniczki przez Donnela - GATED NA POGODE (odwilz/wczesna wiosna, zaprawa musi wiazac). Rezerwa ~21 jel z linii. Po nim 3. izba pod wynajem = pelny dochod. Orientacyjnie ~wczesna wiosna 297. || 297-02-14 REWIZJA (Donnel): remont grubszy/drozszy niz szacowano (~35+ jel vs ~21 rezerwy; zgnilizna siega stropu/belek). Przekroczenie budzetu ~15+ jel do pokrycia. Izba 3 opozniona/drozsza. || 297-03-01: OKNO OTWIERA SIE - zima puszcza (pogoda cieplej), ale to dopiero POCZATEK odwilzy; Donnel oceni, kiedy zaprawa bezpiecznie zwiaze (pelna odwilz blizej ~03-15 z Halvardem). Rezerwa+depozyt na re-roof gotowe (~35 jel). Wkrotce actionable. || 297-03-02 (Donnel rzut 61): OCENA - jeszcze za wczesnie (noce marzna, zaprawa by spekla), pelne bezpieczne okno ~03-15 (odwilz). ALE Donnel USTAWIL wszystko na TERAZ: materialy zarezerwowane, ekipa zabukowana, sekwencja (dach+strop/belki wg rotu) zaplanowana - ZERO opoznienia gdy pogoda pusci. Rezerwa ~35 jel trzyma (bez overrunu, Donnel po przyjacielsku tnie). START = pierwsze bezpieczne cieple okno (~03-15). Po robocie: izba 3 pod wynajem (~late III) = pelny dochod.",
+   "odpala": "297-03-15",
    "typ": "remont (weather-gated, soft)"
   },
   {

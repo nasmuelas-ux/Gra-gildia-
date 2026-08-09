@@ -1423,10 +1423,11 @@
    "stan": "mieszczanin (kupiec podupadly)",
    "zawod": "kupiec - interes (sol/ryba) zszedl na psy; sprzedaje odziedziczona kamieniczke, by splacic wierzyciela",
    "mieszka": "kamieniczka przy Schodach (do sprzedania) / potem do krewnych",
-   "nastawienie_do_gracza": 40,
+   "nastawienie_do_gracza": 43,
    "zaufanie": 8,
    "wie_o_graczu": [
-    "297-01-06 (targ, rzut 71): Symon kupil od niego kamieniczke za 108 jeleni. Ostyn spodziewal sie duszenia (desperat=lup), a dostal ULGE: kupujacy z gotowka od reki, cicho, szybko, pozwolil odejsc z prosto trzymanym grzbietem (splaci wierzyciela+zostanie mu troche). Kotwica byla uczciwa (koszt dachu Donnela argumentowal cene, nie chlopak). Ostyn odetchnal - wdzieczny, nie upokorzony. Zapamietal Symona jako 'uczciwego mlodego, co nie kopie lezacego'."
+    "297-01-06 (targ, rzut 71): Symon kupil od niego kamieniczke za 108 jeleni. Ostyn spodziewal sie duszenia (desperat=lup), a dostal ULGE: kupujacy z gotowka od reki, cicho, szybko, pozwolil odejsc z prosto trzymanym grzbietem (splaci wierzyciela+zostanie mu troche). Kotwica byla uczciwa (koszt dachu Donnela argumentowal cene, nie chlopak). Ostyn odetchnal - wdzieczny, nie upokorzony. Zapamietal Symona jako 'uczciwego mlodego, co nie kopie lezacego'.",
+    "297-03-09 (rzut 51): Symon zajrzal spytac jak mu idzie - rzadkosc (malo kto pyta upadlego). Ostyn pamieta ulge (Symon go NIE zdusil przy sprzedazy kamieniczki, dal godnosc). Teraz: wierzyciel splacony (sprzedaz uratowala go, uniknal upadku), stoi na nogach, ale sol/ryba wciaz slaba, odbudowuje malymi krokami. Wdzieczny ze zapytal. Goodwill warm=imie czlowieka przyzwoitego (deed>whisper); drobny zyczliwy kontakt sol/ryba na przyszlosc. nast 40->43."
    ],
    "dlugi": [
     {
@@ -1435,7 +1436,7 @@
      "termin": "pilny - stad sprzedaz"
     }
    ],
-   "ostatni_kontakt": "297-01-06",
+   "ostatni_kontakt": "297-03-09",
    "cechy_mowy": "zmeczony, godnosc pod presja; krotkie, rzeczowe zdania czlowieka co przelknal duma"
   },
   {

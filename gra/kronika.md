@@ -3599,3 +3599,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-09 POPOLUDNIE: Symon sprawdzil Wata (wywiad 16, wizyta 53) - reconnect cooling-klienta (rosnacy kupiec suknem/prowiantem). Relacja utrzymana/ogrzana, perspektywa powtornej premium roboty na wiosne. Nugget: prowiant=fracht=potencjalny wektor sprawy celnej (nie forsowac). nast 16->20, zauf 8->9.
 
 297-03-09 POPOLUDNIE: Symon odswiezyl Colla (wywiad 69, wizyta 57) - dostawca skor po ~109d. Relacja utrzymana, spozycjonowana na wiosenna dostawe (noga wywozowa spolki egz.); Coll moze dac wiecej. Ekonomia egz. wywozu niepotwierdzona - nie skalowac, ale opcja trzymana. nast 16->20.
+
+297-03-09 ZMIERZCH: Symon zajrzal do Ostyna spytac jak idzie (rzut 51). Wierzyciel splacony (sprzedaz uratowala go), stoi na nogach, sol/ryba slaba/odbudowuje sie; wdzieczny ze zapytal. Goodwill=imie przyzwoitego czlowieka; drobny kontakt na przyszlosc. nast 40->43.

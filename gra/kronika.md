@@ -3541,3 +3541,6 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-03 POLUDNIE: Symon szukal najemcy dla Serli (rzut 46 marginal). Przez siec namierzyl plauzybilnego kandydata (porzadny pracujacy, wzialby poddasze przy odwilzy ~03-15). Lekko zvettował (nie podsylac zlego). Lead zabezpieczony, do potwierdzenia ~odwilz. Godny dochod dla Serli na torze.
 
 297-03-03 POPOLUDNIE: Symon zjadl i popracowal u Nesty (rzut 74) - solidna sesja ksiegowa, czysto, +2 jel (sakiewka 24->26). Kantor szykuje sie na wiosne; Antaryon-watch/market-intel toczy sie w tle. Praktyka rachunki/audyt. Chleb powszedni.
+
+297-03-03 NOC: Symon domknal dzien - jem, sen. Serla naprawiona+lokator w toku, chleb u Nesty (sakiewka 26). Noc spokojna.
+297-03-04 RANEK: Wypoczety. Lull do weksla ~03-10.

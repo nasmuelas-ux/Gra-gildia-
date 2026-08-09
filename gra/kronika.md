@@ -3461,3 +3461,5 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-25 RANEK: Okno czujnosci Harwina (~02-25) - dzien obserwacji.
 
 297-02-25 RANEK: Okno czujnosci Harwina (rzut 52) PRZESZLO SPOKOJNIE - zero ruchu przeciw Symonowi (spojne z pasywnym intelem: przygaszony/izolowany). Harwin dormant slow-burn; Boren czuwa; zegar re-arm ~03-25. Zima cicha dalej.
+
+297-02-25 KOREKTA (na wskazanie gracza): wyprostowano stan refinansowania. Zelazny Bank JUZ odpowiedzial (296-10-30: ODMOWA "za mali", drzwi uchylone gdy wieksi, zegar zamkniety). Pryncypal Nesty (296-11-10): warunkowo, chce TWARDEGO DOWODU przed postawieniem pieniadza. Wczesniejsze notki "Bank ~d30 czekajacy" byly STALE (~30=296-10-30, za nami). Prawdziwa mapa: Bank odpadl na teraz; refi zywe TYLKO przez pryncypala, gated na sprawe celno-frachtowa (Garth). Keystone: sprawa cla = jedna karta na lorda I na refi.

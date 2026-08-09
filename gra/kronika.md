@@ -3683,3 +3683,6 @@ Boren nast 68->69, zauf 16 hold. Sytosc 58, zmeczenie 28.
 
 ## 297-03-15 WIECZOR — praca nad ksiegami Wata (2. sesja)
 Symon odpoczal, zjadl i siadl przy swiecy do wiosennego refreshu ksiag Wata. Pchnal robote z ~1/3 do ~3/4: wiekowanie naleznosci gotowe, rentownosc per klient/trasa rozpisana (widac ktora z nowych trass Wata cicho topi grosz), zostaje kalendarz zobowiazan i czystopis. Dostawa ~03-17 spokojnie w zasiegu. Bez komplikacji - czysta robota. Sytosc 72, zmeczenie 31.
+
+## 297-03-16 RANEK — noc spokojna
+Symon odlozyl pioro (ksiegi Wata ~3/4) i przespal noc bez zaklocen. Odwilz trzyma, opal osiada dalej (1.7->1.6). Nowy dzien: nic pilnego nie odpalilo. Zmeczenie 8, sytosc 50.

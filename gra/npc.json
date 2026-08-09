@@ -1209,9 +1209,11 @@
    "wie_o_graczu": [
     "mlody Symon uczyl sie u maestera Aemona"
    ],
-   "ostatni_kontakt": "296-10-17",
+   "ostatni_kontakt": "296-10-17 (zmarl)",
    "cechy_mowy": "stary, gadatliwy, myli watki; slaby glos",
-   "status": "POZA ZEZNANIEM, UMIERA (d17, rzut 5): umysl odplynal zanim Symon wyjal czyste zeznanie — mylil wdowe z inna, wolal Symona imieniem zmarlego maestera, zasnal. Tylko fragmenty/majaki, nic prawomocnego. Owen daje ostatnie namaszczenie; starzec dogorywa. Zyjaca noga korroboracji STRACONA."
+   "status": "POZA ZEZNANIEM, UMIERA (d17, rzut 5): umysl odplynal zanim Symon wyjal czyste zeznanie — mylil wdowe z inna, wolal Symona imieniem zmarlego maestera, zasnal. Tylko fragmenty/majaki, nic prawomocnego. Owen daje ostatnie namaszczenie; starzec dogorywa. Zyjaca noga korroboracji STRACONA.",
+   "NIE_ZYJE": true,
+   "stan": "ZMARL 296-10-17 (starosc+chlod celi, naturalnie); pochowany przez Owena. Byl jedynym zyjacym swiadkiem rejestru; depozycja przegrana (umysl odplynal przed spisaniem). NIE liczyc jako kontakt."
   },
   {
    "id": "kupiec_aldous",

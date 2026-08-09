@@ -3630,3 +3630,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-12 RANEK: Wypoczety. Odwilz pelna (pogoda 32). Wyrok Miry ~03-13 (jutro), dach+Halvard ~03-15.
 
 297-03-12 RANEK: Symon odwiedzil Colma (wywiad 88, wizyta 50) - reconnect po 56d, relacja odswiezona, spozycjonowany na wiosenna robote suknem. Nugget: Colm=sukiennik=wektor sprawy celnej (przez Leone, nie bezposrednio). nast 18->23.
+
+297-03-12 (KOREKTA GM na wskazanie gracza): Wick NIE ZYJE od 296-10-17 (starosc+zima, depozycja przegrana rzut5). Poprzednia odpowiedz MG (jakoby zywy, do spisania depozycji) byla DRYFEM - naprawione. NPC Wick oznaczony jako zmarly (nie kontakt). Stan sprawy Rymana: zywa noga (Wick) przepadla; korroboracja=kopia+daleki rejestr Starego Zamku(moze zmieniony)+zaginiona wdowa; sciezka=HOOK do WINTERFELL (kopia+swiadectwo Owena+rama 'maester Aemon uciszony przed eskalacja'), submisja zlozona, odpowiedz Polnocy ~miesiace (long shot). Ryman nadal nieswiadom (asymetria cala).

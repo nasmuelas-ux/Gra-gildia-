@@ -3650,3 +3650,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 
 297-03-13 NOC: Symon spal. Dzien: wyrok Miry (dowiozla ale cofnela sie, grunt zasiany), prawo z Torrenem, sluzba w Sepcie. Noc spokojna.
 297-03-14 RANEK: Wypoczety. Odwilz pelna (pogoda 33). KLASTER jutro ~03-15: Halvard/Polnoc, dach rusza, rynek stabilizuje sie.
+
+297-03-14 RANEK: Symon do Gartha (wywiad 4, wizyta 13 - zla pora). Odwilz ozywila komore celna (statki/oczy/oko zamku), zimowa prywatnosc znikla; Garth rozdygotany, obecnosc Symona konspicuous przy zrodle - wycofal sie. NAUKA spring-OPSEC: Gartha grzac dyskretnie/na uboczu, nie przy publicznej lawie. nast 37->36, bez zagrozenia.

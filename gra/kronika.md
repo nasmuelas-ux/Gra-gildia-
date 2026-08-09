@@ -3686,3 +3686,7 @@ Symon odpoczal, zjadl i siadl przy swiecy do wiosennego refreshu ksiag Wata. Pch
 
 ## 297-03-16 RANEK — noc spokojna
 Symon odlozyl pioro (ksiegi Wata ~3/4) i przespal noc bez zaklocen. Odwilz trzyma, opal osiada dalej (1.7->1.6). Nowy dzien: nic pilnego nie odpalilo. Zmeczenie 8, sytosc 50.
+
+## 297-03-16 RANEK — Wat: dokonczone i dostarczone ksiegi (saldo ~9 jel)
+Symon zjadl, domknal ksiegi Wata (kalendarz zobowiazan + czystopis) i zaniosl je na Schody. Dostarczone czysto: wiekowanie naleznosci, rentownosc per klient/trasa, progi. Pokazal Watowi konkret, ktory go olsnil - chwalona nowa trasa na Sisterton cicho topi grosz (fracht drozszy niz utarg). Wat wdzieczny (za twarda wiedze placi, nie za ladne kolumny), zaplacil saldo ~9 jel, klauzula dyskrecji trzyma. Model premium+dyskrecja potwierdzony jako powracajacy przychod (drugi obrot Wata).
+Sakiewka 14->23 jel. Wat nast 26->30, zauf 10->11. Zegar wat_ksiegi_wiosna zamkniety. Sytosc 64, zmeczenie 22.

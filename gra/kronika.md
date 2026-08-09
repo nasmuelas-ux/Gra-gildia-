@@ -3744,3 +3744,6 @@ Symon wzial Hala do rozliczenia zimowych rachunkow wsparcia Owena (apprenticeshi
 
 ## 297-03-17 WIECZOR — laznia, odpoczynek
 Symon poszedl do lazni po gestym dniu. Goraca woda zmyla zmeczenie (48->22). Ambient: portowcy gadaja o wiosnie - sol/wino przy normie, opal 'wreszcie leci w dol' (jego odczyt sprzed 2 dni juz jako powszechna prawda ludu - przewaga informacyjna spowszedniala, jak przewidziala Nesta). Sytosc 52.
+
+## 297-03-17 WIECZOR — domkniety lokator dla Serli
+Symon domknal wiszacy watek: wieczorem znalazl kandydata (Tobb, robotnik portowych magazynow) i zamknal rzecz bezposrednio (nie przez Serle). Tobb wahal sie tylko dlatego, ze przy odwilzy oglada kilka izb - Symon przewazyl szale uczciwym poreczeniem (jego marka 'nie klamie w interesach': izba dobra, dach sie porzadkuje na wiosne, Serla uczciwa i nie oszuka). Tobb bierze poddasze, wprowadza sie w najblizszych dniach. Serla dostaje stalego lokatora + grosz - godnie (deed w cieniu, nie jalmuzna); dowie sie od Tobba w progu. Rzut 83. Watek poddasze_serli_lokator zamkniety. Serla-wdziecznosc pending (gdy sie dowie). Sytosc 48, zmeczenie 28.

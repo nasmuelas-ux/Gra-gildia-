@@ -208,6 +208,14 @@
    "opis": "Pierwsze wiosenne tratwy Halvarda w dol Bialego Noza (drewno/skory/futra) gdy rzeka pusci calkiem. Podaz nienaruszona - istotne dla cen, kolodziejow i ewentualnej brokerki. Raw eksport wciaz cienka marza (12-20), wiec grac na stabilnosci/edge, nie na wolumenie surowca.",
    "co_sie_stanie": "naplyw polnocnego towaru; okno pod handel/ceny/kolodziejow",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "nesta_ubezp_apetyt",
+   "typ": "biznes/info",
+   "odlicza_do": "297-03-18",
+   "opis": "Nesta sonduje braavijskie kontakty co do apetytu na ubezpieczenie frachtu wiosennego (czy jest popyt/po jakiej cenie). Wynik ustali, czy filar ubezpieczen skalowac na wiosne.",
+   "co_sie_stanie": "odpowiedz o popycie na ubezpieczenia frachtu -> decyzja skalowania filaru",
+   "widoczny_graczowi": true
   }
  ]
 }

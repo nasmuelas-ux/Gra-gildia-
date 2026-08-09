@@ -718,8 +718,8 @@
    "leki": [
     "obcy lichwiarze siegajacy po warsztaty cechowe"
    ],
-   "nastawienie_do_gracza": 69,
-   "zaufanie": 16,
+   "nastawienie_do_gracza": 73,
+   "zaufanie": 18,
    "wie_o_graczu": [
     "czyta umowy lepiej niz ten co je pisze",
     "poreczyl za skarge wdowy Elny",
@@ -737,10 +737,11 @@
     "297-01-29 (rzut 44): Symon przyszedl podziekowac szczerze (+ skromny dzban). Boren gruf-cieplo, deflektowal ('tys robote zrobil, ja podpis'), ale rad, ze przyszedl (wielu by nie). Sober: ON TEZ zaplacil - stajac za Symonem pomogl publicznie upokorzyc Pisarzy, a Harwin nie zapomina, kto trzymal z 'obcym'. 'Zrobilbym znow, ale teraz jestesmy w tym po trosze razem - patrz na Pisarzy za ciebie i za mnie'. Sojusz z przysługi w MUTUAL loyalty pod wspolnym ryzykiem - Symon winien mu teraz wsparcie. nast 56->57, zauf 13->14.",
     "297-02-03: pomogl Symonowi w cichym odczycie Harwina - Harwin to ostrozny cech-gracz (czyste powierzchnie, brak latwego brudu/dlugow; sam szuka sladow u innych). Nic latwego do zlapania.",
     "297-02-11 (rzut 73): sojusz podlany (mutual loyalty). Boren (cechmistrz) dal insider-intel: Cech Pisarzy NIE stoi murem za Harwinem - to glownie frakcja Rymana + osobista krucjata Harwina; reszta skrybow ZMECZONA waśnia, po jego publicznych wpadkach (dzien Matki) patrzy krzywo raczej na NIEGO. Harwin bardziej ISOLOWANY we wlasnym cechu niz sie zdawalo ('uczynic nieistotnym' dziala). Boren oferuje WCZESNE OSTRZEZENIE - trzyma ucho w kregach cechu, da znac o ruchu Harwina (cenne, ruch ~02-12). nast 57->59.",
-    "297-03-15 POPOLUDNIE (rzut 18, zla pora): Symon przyszedl z dobra nowina bez haczyka - drewno Polnocy cale, opal zaraz siadzie, nie wiazac cechu dlugim kontraktem po zimowej cenie. ALE dom cechu wrzal wiosennym rozruchem (zamowienia z zimy, czeladnicy, awantury) - Boren sluchal pol uchem, wzial cynk z roztargnieniem i zaraz go odciagnieto. Wiesc DOSTARCZONA (drobny goodwill), ale ZERO glebszej wymiany - blok/szkutnicy/Harwin nie ruszone, Symon slusznie nie napieral. NAUKA: wiosna cech zajety - lapac Borena wieczorem/w domu. nast 68->69, zauf 16 hold."
+    "297-03-15 POPOLUDNIE (rzut 18, zla pora): Symon przyszedl z dobra nowina bez haczyka - drewno Polnocy cale, opal zaraz siadzie, nie wiazac cechu dlugim kontraktem po zimowej cenie. ALE dom cechu wrzal wiosennym rozruchem (zamowienia z zimy, czeladnicy, awantury) - Boren sluchal pol uchem, wzial cynk z roztargnieniem i zaraz go odciagnieto. Wiesc DOSTARCZONA (drobny goodwill), ale ZERO glebszej wymiany - blok/szkutnicy/Harwin nie ruszone, Symon slusznie nie napieral. NAUKA: wiosna cech zajety - lapac Borena wieczorem/w domu. nast 68->69, zauf 16 hold.",
+    "297-03-16 WIECZOR (rzut 95, u niego w domu - wlasciwa pora): odrobiona rozmowa z wczoraj, pelny kontakt. BLOK: podchody do szkutnikow/kowali/bednarzy CHWYTAJA (wspolna oslona przekonuje), ale ta sama rysa - ludzie pytaja KIEDY ruszy, samym czekaniem cechu nie utrzymac. Symon wniosl PRZELOM: spoiwo pozytywne (zysk) zamiast tylko strachu - tanszy wsad z odwilzy + agregacja popytu (kolodzieje, dwor/Godric) zwiaza blok WSPOLNYM GROSZEM. Boren kupil to ('ludzie znosza czekanie, jak w miedzyczasie im sie przelewa'). HARWIN: cicho, dalej lize rany, Cech sie za nim NIE zwiera (krucjata jego+frakcji Rymana), Boren trzyma ucho. nast 69->73, zauf 16->18."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-03-15",
+   "ostatni_kontakt": "297-03-16",
    "cechy_mowy": "krótko, prosto, wali piescia w stol; 'chlopcze'",
    "historia": [
     "m11d20 (rzut 72): cieply kontakt; opal Symona bezpieczny/suchy na placu, Boren przyznaje ze przetrzymanie bylo madre (opal drozeje). Nugget: Boren (w branzy) czuje, ze POPYT na opal ostro rosnie z glebokim mrozem, cena pnie sie, szczyt sie zbliza. Przysluga zwrotna wciaz zabankowana (cieplo). Sojusz MOCNY. Nast 42->44.",

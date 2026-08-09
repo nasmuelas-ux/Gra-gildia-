@@ -3658,3 +3658,6 @@ Symon poszedl na Schody do Wata (sredniej reki kupiec suknem i prowiantem, powra
 Przy okazji Wat, gadula, sam sypnal nugget: wozi prowiant frachtem i marudzil, ze na cle przy Bramie Foki "znowu inaczej licza" po odwilzy - mimochodem koroborujac nierowny fracht z innego zrodla niz Garth (zrodlo nieswiadome; nie forsowane, zanotowane).
 Rzuty: kontrakt 98, jakosc 92 - czysty sukces bez komplikacji (chleb powszedni Symona, idealny timing). Model premium+dyskrecja zwalidowany jako POWRACAJACY przychod.
 Zmiany: sakiewka 10->14 jel (zadatek). Wat nast 20->26, zauf 9->10. Nowy zegar: dostawa ~03-17 (saldo ~9 jel). Sytosc 58, zmeczenie 24.
+
+## 297-03-14 WIECZOR — cela przy Sepcie: jedzenie, odpoczynek, praca nad ksiegami Wata
+Symon zjadl w Sepcie (kasza, solona ryba, chleb), chwile odpoczal przy kominie, po czym siadl przy swiecy do robotu Wata. Pierwsza sesja: zalozyl szkielet ksiegi zarzadczej (rejestry, kolumny, wstepne wiekowanie naleznosci) - ~1/3 gotowe, dostawa ~03-17 spokojnie w zasiegu. Bez komplikacji. Sytosc 78, zmeczenie 26.

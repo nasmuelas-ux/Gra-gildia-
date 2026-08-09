@@ -3636,3 +3636,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-12 POPOLUDNIE: Symon praca u Nesty (+2 jel) + plan na jutrzejszy wyrok Miry (rzut 79). Podejscie: rowny do rownej (nie 'zdalas test'), uklad dziala->sformalizowac+rozszerzyc na wspolnych warunkach, niech ona prowadzi/zwazy; dwustronne (ona sadzi tez jego); osobiste nieforsowane. Nesta: niezalezna kobieta potwierdza partnerstwo ktore wybrala.
 
 297-03-12 POPOLUDNIE: Symon+Hal ksiegi Wiary (rzut 22) - jalowo, glod znaczenia Hala blysnal (chce wiecej, wyczul wieksze sprawy); Symon lagodnie przytrzymal linie (wrazliwy rdzen odciety - dyskrecja pod presja niesprawdzona). Bez szkody (nast 72). Przypomnienie: kompetencja != zaufanie do sekretu; mur stoi do czasu/dowiedzionej dyskrecji.
+
+297-03-12 ZMIERZCH: Symon spytal Hala o przyszlosc (rzut 58). Hal PIERWSZY RAZ nazwal marzenie: prawdziwy skryba z wlasnym standingiem, 'cos znaczyc'; wdzieczny Sepcie ale nie na zawsze, kiedys wlasna izba/robota. Dream-wound zabliezniony (milestone). Kierunek mentorstwa: prowadzic ku wlasnemu standingowi=stajnia pisarzy (Hal pierwszy). Symon obiecal droge. nast 72->74, zauf+1.

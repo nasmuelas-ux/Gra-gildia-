@@ -30,7 +30,9 @@
   {
    "id": "aldous_wino_dojdzie",
    "termin": "296-12-XX",
-   "opis": "Wino Aldousa dojdzie z przeladowni przy oknie pogodowym/odwilzy (skute lodem od 11-13). Splaca pozyczke pod zastaw; domyka przysluge. Czas niepewny - zaleznie od mrozu."
+   "opis": "Wino Aldousa dojdzie z przeladowni przy oknie pogodowym/odwilzy (skute lodem od 11-13). Splaca pozyczke pod zastaw; domyka przysluge. Czas niepewny - zaleznie od mrozu.",
+   "ROZSTRZYGNIETY": "297-03-17: wino doszlo z odwilza (skute od 11-13), Aldous uregulowal zastaw/pozyczke, przysluga domknieta czysto; wine-anchor na wiosne reaffirmed.",
+   "zamkniety": true
   },
   {
    "id": "ubezp_pilot_wynik",

@@ -3780,3 +3780,6 @@ Symon pewny siebie (spisywanie umow = jego chleb) szybko spisal pierwszy instrum
 
 ## 297-03-19 POPOLUDNIE — Nauka morskiego instrumentu od Nesty
 Po botched drafcie Symon poszedl do Nesty nie spisywac, lecz NAUCZYC sie. Nesta z uznaniem ('amator mysli ze wie; fachowiec wie czego nie wie') rozlozyla instrument od srodka: interes ubezpieczalny (tylko realny tracacy - sedno odrozniajace indemnizacje od zakladu), struktura indemnizacji (wyplata do wysokosci szkody, nie wzbogacenie), wyzwalacz+dowod straty (calkowita/czesciowa/awaria wspolna), braawijska forma zwyczajowa (czego kapital oczekuje). Symon chlonie szybko (jezyki/prawo), choc pelne mistrzostwo przez praktyke. Grunt solidny - instrument teraz re-draftable wlasciwie; filar wraca na tory uczciwa droga (rzemioslo->papier). Rzut 62 (przelamanie zimnej serii dnia). Nesta zauf 40->41. Dodano do wiedzy: braawijski instrument ubezpieczenia morskiego. Sytosc 52, zmeczenie 38.
+
+## 297-03-20 RANEK — laznia, sen, nowy dzien
+Symon zmyl ciezki dzien w lazni, zjadl i przespal noc (zmeczenie 6). Odwilz trzyma, opal blisko normy (1.45->1.4, korekta ~03-21). Nic pilnego nie odpalilo. Sytosc 55.

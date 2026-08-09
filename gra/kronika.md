@@ -3597,3 +3597,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-09 RANEK: Symon ksiegi Godrica (rzut 85) - ksiegi dobrze dogonione, wiec wartosc relacyjna: Godric poda nazwisko Symona STEWARDOWI ZAMKU pod wiosenne ksiegi zaopatrzenia (reczy). Awans 'bede pamietal'->realne organiczne dojscie ku zamkowi/lordowi (legalne, osobne od frachtu). Fee ~2 jel (sakiewka 6->8). nast 59->61, zauf ->14.
 
 297-03-09 POPOLUDNIE: Symon sprawdzil Wata (wywiad 16, wizyta 53) - reconnect cooling-klienta (rosnacy kupiec suknem/prowiantem). Relacja utrzymana/ogrzana, perspektywa powtornej premium roboty na wiosne. Nugget: prowiant=fracht=potencjalny wektor sprawy celnej (nie forsowac). nast 16->20, zauf 8->9.
+
+297-03-09 POPOLUDNIE: Symon odswiezyl Colla (wywiad 69, wizyta 57) - dostawca skor po ~109d. Relacja utrzymana, spozycjonowana na wiosenna dostawe (noga wywozowa spolki egz.); Coll moze dac wiecej. Ekonomia egz. wywozu niepotwierdzona - nie skalowac, ale opcja trzymana. nast 16->20.

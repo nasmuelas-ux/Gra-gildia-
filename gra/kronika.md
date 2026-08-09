@@ -3661,3 +3661,10 @@ Zmiany: sakiewka 10->14 jel (zadatek). Wat nast 20->26, zauf 9->10. Nowy zegar: 
 
 ## 297-03-14 WIECZOR — cela przy Sepcie: jedzenie, odpoczynek, praca nad ksiegami Wata
 Symon zjadl w Sepcie (kasza, solona ryba, chleb), chwile odpoczal przy kominie, po czym siadl przy swiecy do robotu Wata. Pierwsza sesja: zalozyl szkielet ksiegi zarzadczej (rejestry, kolumny, wstepne wiekowanie naleznosci) - ~1/3 gotowe, dostawa ~03-17 spokojnie w zasiegu. Bez komplikacji. Sytosc 78, zmeczenie 26.
+
+## 297-03-15 RANEK — Wiosenne skrzyzowanie: dach rusza, Polnoc przetrwala
+Noc: Symon pocwiczyl fizycznie w celi (rutyna, kondycja utrzymana) i przespal sie dobrze (zmeczenie 6).
+Rano wiosna weszla z odwilza - rzeki puszczaja, z okapow leje.
+DACH: pelne cieple okno przyszlo, Donnel ruszyl z ekipa (rzut 60, czysty start). Materialy zabukowane wczesniej, wymiana zgnilych belek/stropu w planie. Zadatek materialowy ~15 jel poszedl z depozytu (depozyt 65->50 jel), saldo ~20 jel na ukonczeniu (~03-25). Potem izba 3 pod wynajem = pelny dochod z kamieniczki.
+POLNOC: werdykt zszedl w koncu rzeka (rzut 93) - kanal przetrwal zime DOBRZE, lepiej niz port wyszeptal. Halvard caly i zdrowy, zapasy drewna/skor/futer w dobrym stanie, pierwsze tratwy w dol Bialego Noza ~04. Zimowa panika okazala sie fear-outran-knowledge - dokladnie jak Symon skalibrowal 02-22. Podaz polnocnego towaru nienaruszona; Symon (i Nesta) mieli racje trzymajac spokoj gdy port panikowal - info-edge zwalidowany. UWAGA: nie zmienia to tezy, ze raw eksport futer->Braavos ma cienka marze (12-20) - grac na stabilnosci/edge, nie wolumenie surowca.
+Zmiany: depozyt 6500->5000 mied. Nowe zegary: dach_ukonczenie ~03-25, polnoc_pierwsze_tratwy ~04-05. Sytosc 52, zmeczenie 6.

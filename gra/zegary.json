@@ -126,7 +126,9 @@
    "id": "kamieniczka_dach_pelny",
    "opis": "Pelny re-roof kamieniczki przez Donnela - GATED NA POGODE (odwilz/wczesna wiosna, zaprawa musi wiazac). Rezerwa ~21 jel z linii. Po nim 3. izba pod wynajem = pelny dochod. Orientacyjnie ~wczesna wiosna 297. || 297-02-14 REWIZJA (Donnel): remont grubszy/drozszy niz szacowano (~35+ jel vs ~21 rezerwy; zgnilizna siega stropu/belek). Przekroczenie budzetu ~15+ jel do pokrycia. Izba 3 opozniona/drozsza. || 297-03-01: OKNO OTWIERA SIE - zima puszcza (pogoda cieplej), ale to dopiero POCZATEK odwilzy; Donnel oceni, kiedy zaprawa bezpiecznie zwiaze (pelna odwilz blizej ~03-15 z Halvardem). Rezerwa+depozyt na re-roof gotowe (~35 jel). Wkrotce actionable. || 297-03-02 (Donnel rzut 61): OCENA - jeszcze za wczesnie (noce marzna, zaprawa by spekla), pelne bezpieczne okno ~03-15 (odwilz). ALE Donnel USTAWIL wszystko na TERAZ: materialy zarezerwowane, ekipa zabukowana, sekwencja (dach+strop/belki wg rotu) zaplanowana - ZERO opoznienia gdy pogoda pusci. Rezerwa ~35 jel trzyma (bez overrunu, Donnel po przyjacielsku tnie). START = pierwsze bezpieczne cieple okno (~03-15). Po robocie: izba 3 pod wynajem (~late III) = pelny dochod.",
    "odpala": "297-03-15",
-   "typ": "remont (weather-gated, soft)"
+   "typ": "remont (weather-gated, soft)",
+   "ODPALIL": "297-03-15 (start 60): pelne cieple okno przyszlo - Donnel ruszyl z ekipa. Materialy zabukowane wczesniej, sekwencja (dach + wymiana zgnilych belek/stropu) zaplanowana, zaprawa bezpiecznie zwiaze. Czysty start bez opoznien. Zadatek materialowy ~15 jel poszedl z depozytu; saldo ~20 jel na ukonczeniu. Robota ~10 dni -> izba 3 pod wynajem ~late III = pelny dochod z kamieniczki.",
+   "zamkniety": false
   },
   {
    "id": "kamieniczka_najem",
@@ -172,7 +174,9 @@
    "id": "polnoc_halvard_wiesci",
    "opis": "Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym Nozu) milczy od tygodni (rzeka skuta). Wiesci/stan drewna dopiero przy ODWILZY. Wplyw na wiosenny eksport (kluczowa deska planu). Moze byc: drewno OK / stracone / Halvard w tarapatach. Obserwowac przy roztopach. || 297-02-22 (WYWIAD rzut 93): Symon PRZED wizyta u Torsena wybadal nastroje z Polnocy (docker/zeglarze/targ/siec Nesty). KALIBRACJA: krążą anxious szepty o srogiej zimie w glebi - ALE Symon oddzielil sygnal od szumu: to glownie PORT-PESYMIZM/inflacja plotki (second-hand, mgliste, zwykly zimowy strach spuchniety), BRAK twardego potwierdzenia o Halvardzie/kanale Bialego Noza konkretnie. Grounded punkt przeciw panice: swiezy przekaz z gory rzeki sugeruje, ze szlak jest CIEZKI ale nie katastroficznie gorszy niz normalna sroga zima. FEAR OUTRUNNING KNOWLEDGE. Realny status wciaz nieznany (verdykt ~03-15), ale obecna panika = vibes nie verdykt. Symon idzie do Torsena SKALIBROWANY (nie sploszony), moze go USTATKOWAC.",
    "odpala": "297-03-15",
-   "typ": "tlo/ryzyko (weather-gated)"
+   "typ": "tlo/ryzyko (weather-gated)",
+   "ODPALIL": "297-03-15 WERDYKT (rzut 93): kanal Polnocy PRZETRWAL zime DOBRZE - lepiej niz port wyszeptal. Wiesc w koncu zeszla rzeka: Halvard caly i zdrowy, zapasy drewna/skor/futer w dobrym stanie, ruszy je w dol Bialego Noza gdy rzeka pusci calkiem (~pierwsze tratwy ~04). Zimowa panika = FEAR OUTRAN KNOWLEDGE (dokladnie jak kalibracja Symona 02-22). Podaz polnocnego towaru na wiosne NIENARUSZONA. Symon mial racje gdy port panikowal - info-edge zwalidowany (on i Nesta pozycjonowani spokojnie).",
+   "zamkniety": true
   },
   {
    "id": "wesele_bran_alys",
@@ -188,6 +192,22 @@
    "co_sie_stanie": "dostarczenie pelnych ksiag zarzadczych Watowi -> saldo ~9 jel; utrwalenie marki premium+dyskrecja",
    "widoczny_graczowi": true,
    "postep": "297-03-14 wieczor: pierwsza sesja przy swiecy - szkielet ksiegi zalozony (rejestry, kolumny, wstepne wiekowanie naleznosci). Solidny start, ~1/3 gotowe; do dostawy ~03-17 spokojnie."
+  },
+  {
+   "id": "dach_ukonczenie",
+   "typ": "remont",
+   "odlicza_do": "297-03-25",
+   "opis": "Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Saldo ~20 jel do doplaty na odbiorze.",
+   "co_sie_stanie": "odbior dachu; doplata ~20 jel; izba 3 wystawiona pod najem",
+   "widoczny_graczowi": true
+  },
+  {
+   "id": "polnoc_pierwsze_tratwy",
+   "typ": "okazja/tlo",
+   "odlicza_do": "297-04-05",
+   "opis": "Pierwsze wiosenne tratwy Halvarda w dol Bialego Noza (drewno/skory/futra) gdy rzeka pusci calkiem. Podaz nienaruszona - istotne dla cen, kolodziejow i ewentualnej brokerki. Raw eksport wciaz cienka marza (12-20), wiec grac na stabilnosci/edge, nie na wolumenie surowca.",
+   "co_sie_stanie": "naplyw polnocnego towaru; okno pod handel/ceny/kolodziejow",
+   "widoczny_graczowi": true
   }
  ]
 }

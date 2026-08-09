@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-03-14 WIECZOR · przedwiosnie (Polnoc) - zima puszcza powoli
+- **Data:** 297-03-15 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
@@ -11,7 +11,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 14 jeleni + 0 mied + 0 smokow
 - kwit depozytowy u Nesty (65 jel)
-- Zdrowie 100 · Sytosc 78 · Zmeczenie 26
+- Zdrowie 100 · Sytosc 52 · Zmeczenie 6
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -62,6 +62,8 @@ pismo 7 · rachunki 9 · prawo 8 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` polnoc_halvard_wiesci: Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym 
 - ◆ `?` wesele_bran_alys: Wesele Brana (dozorca kamieniczki) i Alys - Symon proszony jako swiadek/pisarz (spisac-odczytac slowa, stanac 
 - ◆ `297-03-17` wat_ksiegi_wiosna: Wiosenny refresh ksiag premium Wata (rosnacy kupiec, wiecej kontrahentow/tras). Zadatek 4 jel wziety, saldo ~9
+- ◆ `297-03-25` dach_ukonczenie: Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Sal
+- ◆ `297-04-05` polnoc_pierwsze_tratwy: Pierwsze wiosenne tratwy Halvarda w dol Bialego Noza (drewno/skory/futra) gdy rzeka pusci calkiem. Podaz niena
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

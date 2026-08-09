@@ -3566,3 +3566,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-06 POLUDNIE: Symon do Wendy (rzut 16, zla pora) - zaharowana na targu (przedwiosnie ozywilo handel), wizyta krotka/harried, nie zaiskrzyla. Pomoc zbyta krotko (busy+dol-duma, bez urazy). Strzep pulsu dolu. Relacja zdrowa (43, bez szkody) - lapac ja poza szczytem targu. Bez zysku/straty.
 
 297-03-06 POPOLUDNIE/ZMIERZCH: Symon wrocil do Wendy PO targu (rzut 74, nauka odrobiona). Zwija stragan, ma czas - cieplo zaiskrzylo. Pomoc zbyta ale szczere pytanie docenione. Puls dolu: dol solidny za Symonem, biedota czeka na wiosne. Bess+Dake dobrze. nast 43->47, zauf +1.
+
+297-03-06 ZMIERZCH/NOC: Symon do Owena bez agendy, spytac czego trzeba (rzut 97). Gleboko cieply wieczor, wiez na nowym poziomie. Zaoferowal porzadkowanie ksiag reliefu (z Halem) - Owen rad (accountability Wiary przed lordem). Owen powierza wiecej: Symon=zaufana swiecka reka Wiary do ksiag/charytatywy (Symon+Hal=pisarze septy). Osada w Wierze glebnie=mocniejsza tarcza+standing. Ryman/Winterfell: zlozone, nic jeszcze (cierpliwie). nast 75->78, zauf 21->24.

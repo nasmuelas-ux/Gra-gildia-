@@ -1544,12 +1544,13 @@
    "stan": "mieszczka (lud)",
    "zawod": "nowozamezna, corka przekupki Wendy",
    "mieszka": "Rybi Zaulek",
-   "nastawienie_do_gracza": 20,
+   "nastawienie_do_gracza": 22,
    "zaufanie": 5,
    "wie_o_graczu": [
-    "297-02-09: poznala Symona (mama go 'adoptowala'); bystra/cieta jak Wenda; cieply rodzinny wieczor - przyjela go jak swojego."
+    "297-02-09: poznala Symona (mama go 'adoptowala'); bystra/cieta jak Wenda; cieply rodzinny wieczor - przyjela go jak swojego.",
+    "297-02-27 (rzut 34 marginal): Symon zjadl z mlodymi malzonkami - goscinnosc (lamanie chleba wiaze). Cieplo, ale mlodzi jeszcze niesmiali/lekko sztywni wobec 'waznego' skryby-mieszczanina przyjaciela matki (drobny status/familiarity gap). NiC pogrubila sie skromnie; szczere ludzkie ciepło bez przelomu. nast 20->22."
    ],
-   "ostatni_kontakt": "297-02-09",
+   "ostatni_kontakt": "297-02-27",
    "cechy_mowy": "bystro, cieto, jak matka"
   },
   {
@@ -1560,12 +1561,13 @@
    "stan": "pospolstwo (rybak)",
    "zawod": "mlody rybak, maz Bess",
    "mieszka": "Rybi Zaulek",
-   "nastawienie_do_gracza": 16,
+   "nastawienie_do_gracza": 18,
    "zaufanie": 4,
    "wie_o_graczu": [
-    "297-02-09: poznal Symona - zrazu ostrozny (obcy pan Tally), ale gdy Symon siadl bez fumow, jak swoj, lod pekl. Twarde rece, prosty, uczciwy."
+    "297-02-09: poznal Symona - zrazu ostrozny (obcy pan Tally), ale gdy Symon siadl bez fumow, jak swoj, lod pekl. Twarde rece, prosty, uczciwy.",
+    "297-02-27: wspolny posilek z Symonem (z Bess) - cieplo, mlody+niesmialy, niC sie zawiazuje powoli. nast 16->18."
    ],
-   "ostatni_kontakt": "297-02-09",
+   "ostatni_kontakt": "297-02-27",
    "cechy_mowy": "malomowny, prosto, rybacki"
   }
  ],

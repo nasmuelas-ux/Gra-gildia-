@@ -3573,3 +3573,5 @@ Miesiac sie przewinal. Zima puszcza powoli (pogoda cieplej ~24). WIELKI TARG pie
 297-03-07 RANEK: Wypoczety. Dzien Matki (co 7 dni). Lull do weksla ~03-10 (za ~3 dni).
 
 297-03-07 RANEK: Symon zjadl i sluzyl w sepcie na dzien Matki (rzut 98, wybitnie). Pelna septa - szczera, umiejetna sluzba (pismo dla wiernych, ubodzy, obrzed) obok Owena. Cala spolecznosc widzi prawde: szept Harwina 'gra swietego dla statusu' DOBITNIE zdementowany czynem (deed>whisper, poswiadczone przez tlum). Rep Wiary surge, osada/przynaleznosc scementowana, whisper Harwina martwy wsrod kongregacji. Belonging: Symon prawdziwie OF tej spolecznosci.
+
+297-03-07 POLUDNIE: Symon+Hal dalej nad ksiegami jalmuzny (rzut 24 - twardy limit danych, nie brak umiejetnosci). Nieusuwalny ogon: czesc zimowych zapisow NIE ISTNIEJE (chaos/ustne/nadmandat Hala). Nie da sie zamknac idealnie. LEKCJA: integralnosc audytora - Hal chcial wygladzic, Symon nauczyl OZNACZAC luki nie dopisywac bajki (etyka co ceni Leona). Ksiegi zamkniete uczciwie (luki jawne) - Owen uszanuje prawde. Hal urosl o etyke. nast 71->72.

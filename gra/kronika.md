@@ -3488,3 +3488,6 @@ Noc w celi przy Sepcie Sniegow - spokojna, bez zdarzen. Symon spal syto po decyz
 297-02-26 NOC: Symon do Borena z zobowiazaniem (wywiad 61 dobry pre-read, wizyta 80). Konkret+ton (uznanie troski o cech, potem deed: wiosenny pipeline taniego zelaza pod cech). Boren ODTAJAL W PELNI - z polowicznego -> solidne oddanie; troska uslyszana i odpowiedziana czynem; dokumentacje zrobi z sercem. Duty-impatience zdefusowany. nast 60->66, zauf 14->16. Nauka: dopasuj podejscie do czlowieka (Boren=deed+uznanie, nie sam reframe jak Harlon).
 
 297-02-26 NOC: Symon spytal Borena o inne skubane cechy (rzut 90). Boren wskazal: SZKUTNICY (najwazniejsi - interes lorda, krwiobieg portu), KOWALE, BEDNARZE - i OFERUJE byc MOSTEM (cechmistrz->cechmistrzom, peer-credibility). Boren=guild-side mass-builder rownolegly do Leony (merchant-side). Masa keystone rosnie po stronie rzemiosla + wzmacnia kat 'lord okradany na cle' (port/statki). Cicho/card-first. nast 66->67.
+
+297-02-26 NOC: Symon domknal bardzo owocny dzien - jedzenie, sen. Reorganizacja koalicji: Harlon obrocony w atut, Boren w pelni oddany+guild-side mass-builder (szkutnicy/kowale/bednarze), plan taskingu+OPSEC, linia Merka, zelazo->wiosenny pipeline ulgi. Noc spokojna.
+297-02-27 RANEK: Wypoczety. Wiosenny klaster za ~kilka dni (dach ~03-01). Mroz.

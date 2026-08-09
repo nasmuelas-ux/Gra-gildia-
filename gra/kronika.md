@@ -3727,3 +3727,6 @@ Rzut 85. Bran nast 69->72, zauf 15->17. Sytosc 52, zmeczenie 24.
 
 ## 297-03-17 — zgoda na skrzynie Osrica, ranek domkniety
 Symon (przez Brana) zgodzil sie na skrzynie narzedzi Osrica w sieni - drobny goodwill wobec mlodego czeladnika z kregu kolodziejow. Ranek domkniety (Serla, Mira-poprawiona, Bran). Poludnie przed nim.
+
+## 297-03-17 POLUDNIE — Godric: zla pora (wiosenny rozruch zamku)
+Symon poszedl popracowac przy ksiegach Godrica - ale trafil na wir: Nowy Zamek budzi sie z zimy, Godric (zarzadca+dostawca dworu) rozrywany wiosennymi kontraktami i poslancami z zamku. Zlapal Symona w przelocie ('nie dzis, chlopcze, zamek mnie rozrywa') i znikl. Sesji brak, Symon wycofal sie bez urazy - pchanie na sile byloby niezreczne. Rzut 12 (zla pora, nie wina). NAUKA: wiosna czlowiek przy dworze nalezy do dworu; kanal ku lordowi (przez Godrica) bramkowany jego kalendarzem - lapac w spokojniejszym oknie. Oslona gorna pod sprawe celna spring-gated (jak Garth). Godric nast 61 hold. Sytosc 46, zmeczenie 30.

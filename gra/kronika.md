@@ -3999,3 +3999,6 @@ Oglada rynku (46) przed Watem: odwilz puszcza zimowe ceny, sukno zaraz zgesnieje
 
 ### 297-04-02 WIECZOR
 Wizyta u Denysa (znaczny kupiec zbytku, rzut 44). Bez kata, bez prosby - naprawa rezerwy zasianej wlasna przesada (m9d6). Chlod cofnal sie na wlos, zaczyna ufac ze nie sam angle. nast 23->27, zauf ->3. [Naprawiono kolizje id: luksusowy Denys -> kupiec_denys_zbytek, osobno od woskowego kupiec_denys].
+
+### 297-04-02 WIECZOR (intel)
+Wieczorny wywiad (92): (1) tratwy Halvarda dni od miasta + flotylla sukna blisko - towar zaraz zaleje port (potwierdza rade dla Wata, dotknac Torsena). (2) Sprawa celna/Garth: CISZA na ulicy - firewall trzyma (dobra wiesc przed osadem Theomore 04-03). (3) Swiezy trop: nowo przybyly faktor szuka dyskretnego czlowieka od liczb (lead_nowy_faktor, tlo). Bez grosza, intel.

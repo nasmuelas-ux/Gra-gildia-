@@ -9,9 +9,9 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 52 jeleni + 66 mied + 0 smokow
+- **Wolne:** 2 jeleni + 66 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 40 · Zmeczenie 30
+- Zdrowie 100 · Sytosc 35 · Zmeczenie 35
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 8 · organizacja 7 · audyt 8
@@ -72,6 +72,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `None` wyllam_proba: 297-05-04: list polecajacy Rollama do faktora Wyllama (zboze/skora, Solne Nabrzeze). Trial na reczeniu - pozna
 - ◆ `None` owen_studzi_gartha: 297-05-06 (Nesta+Owen, rzut 56): plan na Gartha (dziura w murze przy Banku). Owen GENUINNIE (jako septon, niew
 - ◆ `None` torhen_audyt: 297-05-09 (rzut 65): lead klient-establishment ZYWY, namierzony - zarzadca TORHEN (dom zaopatrujacy Nowy Zamek
+- ◆ `297-06-05` ksiega_kredytowa_zwrot: 297-05-14: Symon ulokowal 50 jel jako DWA WEKSLE (solidni dluznicy, dobry zastaw, dochodowy procent; podporka 
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

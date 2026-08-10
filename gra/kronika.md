@@ -4576,3 +4576,6 @@ Do Wyllama dowiezc probe (rzut 87). Dowiozl czysto, wyprostowal rzeczy bez poucz
 
 ## 297-05-14 POPOLUDNIE — Godric: praca (filar mieli)
 (Mira ANULOWANA - rzut 16 przerwany interruptem; gracz wstrzymal sie madrze, 2 dni to znow blisko tloczenia - dal jej oddech). Zamiast: praca u Godrica (rzut 45). Ksiegi domu + parcela odrobione (recurring), prowizja rozliczona, tranzyt-skim compound kumuluje sie cicho. Kanal mieli, sol Harlona tez tedy = ciezar Antaryonowi. +3 jel (-> 52 jel), Godric nast 70. Liczniki rachunki+1 (194), organizacja+1 (101). -> WIECZOR.
+
+## 297-05-14 WIECZOR — Ksiega kredytowa ruszyla (50 jel w wekslach)
+Symon wybral WEKSEL - ulokowal 50 jel jako ksiege kredytowa (rzut 87). Z zimna glowa: czytal dluznikow (edge), odsial naciaganych, wzial solidnych z zastawem; Nesta podparla warunki+imie. Dwa czyste weksle, dochodowy procent. 50 jel z sakiewki -> weksle (pracuja, wroca grubsze ~06-05). Popyt > kapital w gotowkowo-ubogim porcie = ksiega SKALOWALNA (rosnie ile dolozy). Wolne cienko: 2 jel + 66 mied (reszta weksle/depozyt 200). Zostal WIERZYCIELEM. Nowy zegar ksiega_kredytowa_zwrot (~06-05). Liczniki prawo+1 (171), czyt+1 (155). -> wieczor/noc.

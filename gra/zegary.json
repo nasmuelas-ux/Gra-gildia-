@@ -294,6 +294,14 @@
    "co_sie_stanie": "gdy Symon umowi spotkanie: poznanie zakresu audytu -> decyzja czy brac (mind firewall/Ulric)",
    "widoczny_graczowi": true,
    "status": "dostarczony (droga B)"
+  },
+  {
+   "id": "ksiega_kredytowa_zwrot",
+   "typ": "kredyt/zwrot",
+   "opis": "297-05-14: Symon ulokowal 50 jel jako DWA WEKSLE (solidni dluznicy, dobry zastaw, dochodowy procent; podporka Nesty; rzut 87). Kapital+procent wracaja po terminie (~kilka tygodni). Popyt > kapital (ksiega skalowalna - moze rosnac ile dolozy). Filar kredytowy ruszyl czysto. Zwrot ~197-06 (drobny procent ponad 50).",
+   "odlicza_do": "297-06-05",
+   "co_sie_stanie": "po terminie: kapital 50 jel + procent wraca (jesli default - egzekucja zastawu + kantor); ksiega moze byc reinwestowana/rozszerzona",
+   "widoczny_graczowi": true
   }
  ]
 }

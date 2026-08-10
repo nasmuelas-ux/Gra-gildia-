@@ -76,18 +76,6 @@
    "co": "odezwie sie za poleceniem Rollama (intro do ksiag) - jego ruch",
    "kiedy": "~dni",
    "zywy_watek": "rollam_grubszy_wycinek flywheel"
-  },
-  {
-   "kto": "wenda_rybia",
-   "co": "moze przyjsc w sprawie wesela Bess (jej potrzeba) lub miejsca na targu",
-   "kiedy": "~dni",
-   "zywy_watek": "wenda potrzeby"
-  },
-  {
-   "kto": "aurane",
-   "co": "odezwie sie gdy strawi dowod skimu (wdziecznosc albo rezerwa) - jego ruch",
-   "kiedy": "~dni",
-   "zywy_watek": "aurane_trawi_skim"
   }
  ]
 }

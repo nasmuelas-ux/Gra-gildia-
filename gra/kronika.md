@@ -4417,3 +4417,6 @@ Praca w kantorze (nawal faktorii, +2 jel -> 21) + narada (rzut 57). Symon polozy
 
 ## 297-05-03 POPOLUDNIE — Hal: stajnia realna, dzwignia
 Praca z Halem (rzut 54). Port rozbudzony odwilza - wiecej zlecen (listy/umowy/rachunki). Hal wzial klienta SOLO (ugoda niepismiennego tragarza) czysto i spokojnie - drugi pisarz, nie uczen. Utarg +150 mied (-> 354 mied). DZWIGNIA (nauka Nesty): skoro Hal udzwignie rutyne, godziny Symona zwalniaja sie na audyty/ksiegi faktorii/brokerke - przestac sprzedawac wlasne rece, sprzedawac stajnie. Hal nast 87->88, zauf 45. Liczniki pismo+1 (116), rachunki+1 (181). -> WIECZOR.
+
+## 297-05-03 WIECZOR — Inbound: chlodne slowo Aurane
+Cicho (goscie zero, wszystko czeka na pogode) - poza Aurane. Sluga przyniosl HONORARIUM za wiosenne ksiegi (+6 jel -> 27 jel, uczciwie co do miedziaka) ale z chlodnym slowem: 'dziekuje za ksiegi; stacje poprowadze sam, nie ruszaj dalej', zero wdziecznosci za wykrycie skimu. Aurane strawil dowod po swojemu: zaplacil (nie mssciwy) i odsunal na dystans (woli sam zalatwic Hobba bez swiadka). Rezerwa nie cieplo, relacja przystygla (nast 41). Symon czysty - a i tak troche chlodu, cena prawdy ktorej nie chciano. Aurane/Wenda zdjeci z inbound. Watek aurane_trawi_skim -> rezerwa.

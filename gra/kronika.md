@@ -4098,3 +4098,6 @@ Gracz znow sluznie: Symon NIE zamknal ceny z Godrikiem (angaz co do zasady, waru
 
 ### 297-04-09 KOREKTA#3 - bez winy
 Usunieto wszelka rame winy/nauki. Symon zrobil wszystko dobrze (przyniosl odbiorce wg modelu Torsena); zadnej ceny nie ustalano. Jedyny fakt: wiosenny szczyt kosztu drewna vs skromny budzet dworu = spread cienki TERAZ (czysta okolicznosc rynku). Kanal solidny, cena do ustalenia.
+
+### 297-04-10 RANEK - struktura brokerska z Godrikiem
+Symon o swicie domknal z Godrikiem STRUKTURE BROKERSKA (rzut 71): zamek placi rynek za drewno, Symon prowizja na wierzchu za skojarzenie+koordynacje (recurring, kapital-light, zero ryzyka zapasu/spreadu). Godric targowal twardo ale wzial (pewnosc+dyskrecja). Problem cienkiego spreadu znika - broker nie kupiec. Pierwsza dostawa z nastepnej parceli (Torsen/Halvard). nast 66->68, zauf 13. Sytosc 22 (glodny).

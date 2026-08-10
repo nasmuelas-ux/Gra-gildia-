@@ -4029,3 +4029,6 @@ Symon poprowadzil jawne pogodzenie (rzut 79, czysto). Rama bezstronna utrzymana.
 
 ### 297-04-04 POLUDNIE->WIECZOR - PIERWSZE WLASNE LOKUM
 Symon wprowadzil sie do wlasnej izby 4 swojej kamieniczki przy Schodach. Fit-out ~5 jel (koza, okiennice, prycza, stol) - z zimnego shell habitable. Bran (dozorca on-site) przywital gospodarza z duma, pomogl. PIERWSZY WLASNY PROG W ZYCIU - mieszczanin pod wlasna belka, obok swoich lokatorow (Jonna/Osric/Hal), ogrodek za plotem. Nadal pisarz septy / pod oslona Wiary (warunek Owena). Milestone. mieszka zaktualizowane. Sakiewka 26->21 jel.
+
+### 297-04-04 WIECZOR - ogrod
+Symon wyszedl na chwile na wlasny murowany ogrodek - pusty jeszcze, mokry od roztopow, ale JEGO (wpisany pod nazwisko). Cichy moment ugruntowania po gorzkim dniu osadu Theomore. Mysl: gdy ziemia obeschnie, cos posadzic (kapusta/zioła, Jonna doglada). Korzen. Pierwszy wieczor na wlasnym gruncie.

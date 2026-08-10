@@ -3954,3 +3954,6 @@ Symon odpoczal, zjadl i siadl do ksiag skladu Aurane. Chaos po flotylli uporzadk
 
 ## 297-03-29 WIECZOR — ksiegi Aurane gotowe
 Symon odpoczal chwile i domknal ksiegi Aurane: czystopis, uporzadkowany rejestr, osobno przygotowany wykaz znalezisk (niezafakturowane skladowe, rozbieznosc inwentarza) do fachowej, nie-alarmistycznej prezentacji. Gotowe. Zostaje dostarczyc - saldo premium + prezentacja znalezisk (~04-02 lub wczesniej). Modelowy dzien domkniety (Aurane zdobyty + broker ubezpieczen + ksiegi gotowe). Sytosc 56, zmeczenie 28.
+
+## 297-03-30 RANEK
+Noc przespana czysto w celi przy Sepcie Sniegow. Zmeczenie zeszlo, sytosc spadla. Dzien roboczy: ksiegi Aurane gotowe do dostarczenia (~04-02), broker ubezpieczen w toku u Nesty (~04-05), osad Theomore w tle (~04-03). Poranek spokojny, faza wyczekiwania na dojrzewajace zegary.

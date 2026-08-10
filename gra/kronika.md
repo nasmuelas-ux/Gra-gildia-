@@ -3963,3 +3963,6 @@ Wizyta u Serli w Rybim Zaulku (rzut 88, czysto). Poddasze wreszcie wynajete - lo
 
 ### 297-03-30 WIECZOR
 Symon z Halem do kantoru Nesty na sesje ksiegowa - trafili w pierwszy dzien pelnej odwilzy: port ruszyl, kantor w chaosie, Nesta zawalona i oschla z pospiechu (rzut 3, okolicznosciowo). Zamiast mentoringu - gaszenie pozaru: rozbieznosc tally/manifest pod presja. Symon uczciwie oflagowal zamiast naciagac liczbe (Hal zobaczyl wzor integralnosci). Popoludnie zjedzone bez czystego wyniku i bez grosza; rozbieznosc do rozdzielenia w spokoju. Zmeczenie w gore.
+
+### 297-03-30 WIECZOR (2)
+Symon zjadl, odpoczal chwile i na spokojnie rozdzielil oflagowana rozbieznosc (rzut 77, czysto): NIEDOWAGA DOSTAWCY - jedna pozycja swiezej dostawy przyszla lzejsza niz manifest, nie blad kopisty. Mundane, udokumentowane z dowodem dla Nesty. Chaotyczny dzien zamkniety czystym forensic-lapem - realna oszczednosc dla klienta kantoru, cichy plus do reputacji. nast Nesta 82->84.

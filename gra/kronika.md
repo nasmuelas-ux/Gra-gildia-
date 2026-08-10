@@ -4441,3 +4441,6 @@ Odpoczynek chwile (zmecz ->15). Wieczorem do Rollama domknac 'znam czlowieka' (r
 
 ## 297-05-04 WIECZOR — Mira: slow-burn dwustronny
 Kolejna wizyta po ludzku (rzut 64). Zero sprawdzania 'po co przyszedl' - wie ze po nic, i to powod. Cisza wygodna. CICHY PRZELOM: Mira pierwszy raz pyta o SYMONA (skad, czego chce, czy mysli dalej) - jednostronne staje sie DWUSTRONNE, ona z wlasnej woli zaczyna go czytac. Bez deklaracji (napor=regres), rosnie staloscia. nast 51->55, zauf 17->19. Licznik czyt+1 (144). -> noc.
+
+## 297-05-05 RANEK — OKNO DOWIOZLO: zelazo, flotylla, Belarno WESZLY
+Sen. Przejscie 05-05 RANEK. Okno utrzymalo - cala weather-bound flota dobila naraz: ZELAZO z Gulltown (rzut 78) - coalition-glue DOWIEZIONE (cech relief, Boren dowiozl przed braćmi, Harlon zobaczy proof w kolumnie); FLOTYLLA sukna (rzut 90) - weszla bezpiecznie (ubezpieczenia moot, gamble Corla wyszedl, port zalany suknem); GALERA BELARNA (rzut 85) - Zelazny Bank w zasiegu. Boren przyśle/przyjdzie z wescia (inbound). Wielki poranek okazji: koordynacja zelaza+Harlon proof / Belarno-Zelazny Bank / rynek sukna.

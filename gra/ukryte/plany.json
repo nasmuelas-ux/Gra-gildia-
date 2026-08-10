@@ -60,12 +60,6 @@
  ],
  "inbound_kolejka": [
   {
-   "kto": "boren_koladziej",
-   "co": "przysle wiesc gdy partia zelaza z Gulltown bedzie blisko/wejdzie (coalition glue)",
-   "kiedy": "gdy zelazo_gulltown_partia dojrzeje",
-   "zywy_watek": "zelazo_gulltown_partia"
-  },
-  {
    "kto": "godric (zarzadca)",
    "co": "przysle po Symona gdy Bialy Noz sie ustatkuje i mozna pinac nastepna parcele",
    "kiedy": "gdy rzeki stabilne",

@@ -4306,3 +4306,6 @@ Harlon (rzut 12) WYSTYGL/ZWATPIL - twarda cegla co chciala ruchu, sprawa milczy 
 
 ### 297-04-25 WIECZOR (2) - Harlon odzyskany konkretem
 Symon wrocil do Harlona z przygotowanym katem (przyg 64 + rzut 62): uczciwe zlevel-owanie + KONKRET (tanie zelazo idzie, podcina fracht Antaryona) + reframe (cichy bleed vs samobojczy front). Harlon re-osadzony na stopie 'pokaz mi', erozja zatrzymana. NAUKA: blok w uspieniu karmic konkretem nie cierpliwoscia; zelazo landing = spoiwo koalicji. nast 30->37.
+
+## 297-04-26 RANEK
+Noc przespana. Faza cichej konsolidacji. Nowa waga: dojscie zelaza Gulltown = spoiwo koalicji (Harlon 'pokaz mi'). W tle: kanal drewna huczy, Aurane/Rollam/uzgodnienia, Wick uczy sie, Mira slow-burn, ogrod kielkuje, Ulric czeka na okazje. Zwornik zaparkowany (koszt: erozja koalicji - karmic konkretem). Depozyt 140 jel.

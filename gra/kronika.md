@@ -4261,3 +4261,6 @@ Sluzba w sepcie + lekcja Wicka (rzut 45) - Wick napisal swoje imie, dumny (pierw
 
 ### 297-04-21 WIECZOR - Serla i Tom
 Cieply grounding wieczor u Serli (rzut 82). Tom zdrow/urosl (struga konika), goraczka przeszloscia. Serla nakarmila, trzymala przy ziemi. Matczyna kotwica, Symon po prostu czlowiek (echo Owena: kochaja za to kim jest). Serla 49->52, Tom 7->10. Niskoprofilowe/ludzkie.
+
+## 297-04-22 RANEK
+Noc przespana. Faza cichej konsolidacji. W tle: zelazo Gulltown w drodze (tygodnie), kanal zamkowy recurring, Wick uczy sie (napisal imie), Mira slow-burn cieply, ogrod obsiany, Ulric czeka na okazje. Zwornik zaparkowany.

@@ -4047,3 +4047,6 @@ Symon powiedzial Aldousowi ze wino kryte (rzut 94). Gleboka ulga/wdziecznosc, zo
 
 ### 297-04-05 WIECZOR (2) - Torsen naprawiony
 Symon wrocil wieczorem do Torsena inaczej niz 04-02 (najedzony, konkret). Pierwsze tratwy Halvarda zeszly. Zaoferowal rece do liczb/kontraktow sezonu drewna (nie relacjonowal nowin). Chwycil - kanal drewna ciepło re-otwarty (rzut 61), follow-up gdy zwal zejdzie. nast 50->53, zauf 9. Naprawil wieczor z 04-02.
+
+## 297-04-06 RANEK
+Wieczorem wczesna kolacja + lazienka (~5 mied), noc przespana we wlasnej izbie. RANO 04-06: jutro (04-07) wesele Brana i Alys (Symon swiadek). Dzis wolne - moze ruszyc trop brokera (kupiec od Aldousa), doglad Gartha za dnia, albo drobne.

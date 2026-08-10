@@ -290,11 +290,12 @@
   {
    "id": "izba3_najem",
    "typ": "dochod",
-   "odlicza_do": "297-04-02",
+   "odlicza_do": "297-03-27",
    "opis": "Izba 3 kamieniczki gotowa pod najem (po re-roofie). Znalezc STABILNEGO lokatora (rada Miry: dobry dlugoterminowy > max czynsz; jak Jonna). Przez Brana + siec/waitlist. Po wynajeciu = pelny dochod kamieniczki.",
    "co_sie_stanie": "izba 3 wynajeta stabilnemu lokatorowi -> pelny dochod z kamieniczki",
    "widoczny_graczowi": true,
-   "nota_0325": "297-03-25 (rzut 36): brak stabilnego kandydata dzis (chetni rotacyjni - sezonowy/niepewny); Symon NIE wzial (zasada Miry: stabilny>max, pusty tydzien<zly lokator rok). Bran trzyma siec, czeka na dobrego (jak Jonna). Wiosna=przeprowadzki, znajdzie sie."
+   "nota_0325": "297-03-25 (rzut 36): brak stabilnego kandydata dzis (chetni rotacyjni - sezonowy/niepewny); Symon NIE wzial (zasada Miry: stabilny>max, pusty tydzien<zly lokator rok). Bran trzyma siec, czeka na dobrego (jak Jonna). Wiosna=przeprowadzki, znajdzie sie.",
+   "plan_lokator": "297-03-25: PLAN - izba 3 zarezerwowana dla HALA (pakiet ~03-27, po keystone): (a) Symon zaczyna placic Halowi skromna dniowke/dzialke za realna robote pipeline (weryfikacje/proste ksiegi ze skrzydla flotylli); (b) Hal bierze izbe 3 na skromny czynsz z tego; (c) blogoslawienstwo Owena na wyprowadzke z przytulku. Stabilny lokator + oplacany terminator + dotrzymana obietnica + ukojony niepokoj Hala (03-23). Nie jalmuzna - ekonomicznie realne."
   }
  ]
 }

@@ -71,7 +71,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-03-28` ubezp_pilot_plasowanie: Nesta plasuje pierwszy pilotaz ubezpieczenia (wlasny wywoz skor -> Braavos) u braawijskiego kapitalu - zalezne
 - ◆ `297-03-24` merek_naleznosci_triage: Triaz odmarzajacych zimowych naleznosci Merka: wiekowanie + 3 kosze (sciagac / rozlozyc-darowac / odpisac). Hu
 - ◆ `297-03-26` owen_wprowadzenie_theomore: Owen aranzuje wprowadzenie Symona (pod poreczeniem Wiary) do maestera Theomore - by przedlozyc dossier celne j
-- ◆ `297-04-02` izba3_najem: Izba 3 kamieniczki gotowa pod najem (po re-roofie). Znalezc STABILNEGO lokatora (rada Miry: dobry dlugotermino
+- ◆ `297-03-27` izba3_najem: Izba 3 kamieniczki gotowa pod najem (po re-roofie). Znalezc STABILNEGO lokatora (rada Miry: dobry dlugotermino
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

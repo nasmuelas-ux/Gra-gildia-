@@ -3870,3 +3870,6 @@ Symon wyspany. Rano Bran przyniosl dobra wiesc: DACH SKONCZONY - Donnel dowiozl 
 
 ## 297-03-25 RANEK — izba 3: dyscyplina zamiast pochopnego najmu
 Symon z Branem szukal lokatora do izby 3. Chetni sa, ale rotacyjni nie stabilni (sezonowy robotnik / niepewny placacy wiecej) - kandydaci na rotacje nie stabilnosc. Symon (rada Miry + nauka z lokatorem Serli: pusty pokoj tydzien tanszy niz zly lokator rok) NIE wzial; kazal Branowi trzymac siec i czekac na dobrego jak Jonna. Wiosna=pora przeprowadzek, znajdzie sie, bez pospiechu. Izba postoi pare dni - ochrona aktywu przed rotacja to decyzja zarzadcza, nie bezczynnosc. Rzut 36. Bran nast 72 hold. Zegar izba3_najem przesuniety ~04-02. Sytosc 46, zmeczenie 12.
+
+## 297-03-25 — PLAN: pakiet Hala za 2 dni (~03-27)
+Decyzja: pakiet Hal-lokator odlozony na ~03-27 (po keystone, gdy Hal wejdzie w robote flotylli). Izba 3 zarezerwowana dla Hala. Skladniki: (a) Symon zaczyna placic Halowi za realna prace pipeline; (b) Hal bierze izbe 3 na skromny czynsz z tego dochodu; (c) blogoslawienstwo Owena na wyprowadzke z przytulku. Stabilny lokator + oplacany terminator + dotrzymana obietnica + ukojony niepokoj z 03-23. Ekonomicznie realne, nie jalmuzna.

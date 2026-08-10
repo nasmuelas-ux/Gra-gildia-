@@ -751,9 +751,9 @@
   },
   {
    "id": "kantor_kontrahent_rozbieznosc",
-   "status": "otwarty",
+   "status": "rozwiazany",
    "priorytet": "sredni",
-   "opis": "297-04-19 (rzut 6): przy uzgodnieniach kantoru Hal wypatrzyl anomalie - jeden POWTARZALNY kontrahent kantoru moze systematycznie skracac na drobnych pozycjach (sugestywne, NIEROZSTRZYGNIETE: moze skim, moze lancuch bledow/metne warunki). Konfrontacja bez pewnosci = ryzyko spalenia zywej relacji; ignorowanie = dalej krwawic. DO ZROBIENIA: (a) zebrac WIECEJ DANYCH na spokojnie (rozstrzygnac skim vs blad, po nitce - zywiol Symona), (b) przemyslec z Nesta jak z powtarzalnym partnerem (dyplomacja vs twardo). Klopot na kantor, nie grosz."
+   "opis": "297-04-19 (rzut 6): przy uzgodnieniach kantoru Hal wypatrzyl anomalie - jeden POWTARZALNY kontrahent kantoru moze systematycznie skracac na drobnych pozycjach (sugestywne, NIEROZSTRZYGNIETE: moze skim, moze lancuch bledow/metne warunki). Konfrontacja bez pewnosci = ryzyko spalenia zywej relacji; ignorowanie = dalej krwawic. DO ZROBIENIA: (a) zebrac WIECEJ DANYCH na spokojnie (rozstrzygnac skim vs blad, po nitce - zywiol Symona), (b) przemyslec z Nesta jak z powtarzalnym partnerem (dyplomacja vs twardo). Klopot na kantor, nie grosz. || 297-04-20 (rzut 55): ROZPLATANE - sharp-practice na luznych warunkach kantoru (nie dowodliwa kradziez, wina rozmyta). FIX: dokrecic warunki/fakturowanie (prawo umow od Torrena), przeciek zatkany BEZ konfrontacji, relacja z powtarzalnym partnerem nietknieta. Nesta uznanie. Kantor przestaje krwawic."
   }
  ]
 }

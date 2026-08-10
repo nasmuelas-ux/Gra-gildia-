@@ -4240,3 +4240,6 @@ Uzgodnienia kantoru z Halem (rzut 6): Hal wypatrzyl anomalie (oko warte miejsca)
 
 ## 297-04-20 RANEK
 Noc przespana. Rano jedzenie, potem z Halem powrot do metnej rozbieznosci kantoru (na swieza glowe - rozstrzygnac skim vs blad).
+
+### 297-04-20 RANEK->POLUDNIE - rozbieznosc rozplatana (fix przez prawo umow)
+Na swiezo z Halem (rzut 55) rozplatana rozbieznosc: sharp-practice na luznych warunkach (nie dowodliwa kradziez). Fix przez PRAWO UMOW (dokrecic warunki/fakturowanie) - przeciek zatkany bez konfrontacji, relacja nietknieta. Nesta uznanie, Hal nauka. Synergia ze studium u Torrena. Watek rozwiazany.

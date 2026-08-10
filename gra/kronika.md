@@ -3864,3 +3864,6 @@ Symon oczyscil i ocerowal stroj mieszczanski, umyl sie, przygladnal sobie. Trafi
 
 ## 297-03-24 POPOLUDNIE — Torren/Septa: PRAWO 8->9 (kamien milowy)
 Symon myl sie, zjadl i pracowal z Torrenem nad REALNYMI sprawami prawnymi Septy (sporny zapis, granica posiadlosci, zawilosc w nadaniu) - nie dryl. Dal Sepcie wartosc (zapisy uporzadkowane, pulapka w nadaniu wylapana), Torren coraz czesciej pytal o jego zdanie (i Symon mial racje). KAMIEN MILOWY: na trudnych realnych sprawach + swiezej glowie Symon przebil sufit - PRAWO 8->9 (dokladnie jak Torren radzil 03-21: trudne sprawy, nie dryl, swieza glowa). Poziom elitarny dla nieszlachcica. Timing idealny - prawo 9 tuz przed spotkaniem z maesterem Theomore. Uklad mentorski dostarcza dwustronnie. Rzut 78. Torren nast 25->28, zauf 9->10. Sytosc 68, zmeczenie 22.
+
+## 297-03-25 RANEK — dach GOTOWY, izba 3 pod najem
+Symon wyspany. Rano Bran przyniosl dobra wiesc: DACH SKONCZONY - Donnel dowiozl na czas (nowe poszycie, belki/strop wymienione, kat Jonny suchy). Saldo ~20 jel doplacone z depozytu (56->36 jel). Izba 3 stoi gotowa pod najem = kamieniczka zarobi pelnia (rada Miry: stabilny lokator jak Jonna, nie max stawka). Harwin: watch re-arm, ale dalej cicho, Cech sie nie zwiera, Boren trzyma ucho - uspiony. Nowy zegar: izba3_najem ~03-30. Jutro keystone (wprowadzenie Owena->Theomore). Sytosc 52, zmeczenie 5.

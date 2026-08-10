@@ -3996,3 +3996,6 @@ Noc przespana. Poranek: osad Theomore ~04-03, pogodzenie ksiag Merka ~04-04, bro
 
 ### 297-04-02 POLUDNIE
 Oglada rynku (46) przed Watem: odwilz puszcza zimowe ceny, sukno zaraz zgesnieje (flotylla). Wizyta Wat (35): refresh juz zrobiony 03-16; check-in doradczy - Sisterton przyciety polowicznie, Symon doradzil upplynnic zimowy zapas przed flotylla (wziete ostroznie). Bez grosza, pozycjonowanie doradcze. nast 30->33. Stale zegary Wata sprzatniete.
+
+### 297-04-02 WIECZOR
+Wizyta u Denysa (znaczny kupiec zbytku, rzut 44). Bez kata, bez prosby - naprawa rezerwy zasianej wlasna przesada (m9d6). Chlod cofnal sie na wlos, zaczyna ufac ze nie sam angle. nast 23->27, zauf ->3. [Naprawiono kolizje id: luksusowy Denys -> kupiec_denys_zbytek, osobno od woskowego kupiec_denys].

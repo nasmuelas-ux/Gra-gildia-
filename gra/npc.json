@@ -1684,14 +1684,18 @@
    "status": "BLOK anty-Antaryon: CEGLA 1 (potwierdzony m10d2, rzut 55 — dostawca wina afiliowany z Antaryonem go skubie). Ufa Symonowi. Dowod nie ironclad sam vs wielki dom => logika bloku."
   },
   {
-   "id": "kupiec_denys",
+   "id": "kupiec_denys_zbytek",
    "imie": "Denys",
    "zawod": "znaczny kupiec ze Schodow (braavijskie towary zbytku)",
    "skad": "referral niszy m9d3; dostawcy zvettowani bezpieczni",
    "nast": 9,
    "nota": "skupiona premium weryfikacja mu wybitna — znaleziono udokumentowane skrocenie u jednego dostawcy; ZACHWYCONY, bedzie polecac dalej (flywheel przyspiesza); premium-imie faktorii/Symona na Schodach ugruntowane || m9d6: Symon probowal przekuc zachwyt w aktywne patronackie wyniesienie — grajac na ambicji Denysa + saczac 'most' do jego znajomych. Ale wykonanie (slabosc ludzka Symona) BYLO ZA WIDOCZNE: Denys, bystry, wyczul KALKULACJE pod uprzejmoscia; zostal kordialny ale OSTROZNIEJSZY (czyta Symona jako ambitnego, grajacego angle). Latwy zapal 'powiem swoim' OSTYGL. Nie wrog, lecz chlodniejszy klient; brak wyniesienia w gore.",
-   "nastawienie_do_gracza": 23,
-   "ostatni_kontakt": "297-02-28"
+   "nastawienie_do_gracza": 27,
+   "ostatni_kontakt": "297-04-02",
+   "zaufanie": 3,
+   "wie_o_graczu": [
+    "297-04-02 (rzut 44, skromny pas): Symon wrocil po ~33d - tym razem BEZ KATA, bez prosby, bez 'mostu'. Zwykla bezinteresowna wizyta rozbroila rezerwe, ktora sam zasial (m9d6 przesada). Denys, ktory spodziewal sie zagrania, dostal czyste 'nic nie biore' - chlod cofnal sie na wlos. Nie wrocil dawny zachwyt, ale zaczyna czytac Symona jako moze-jednak-nie-sam-angle. NAUKA Symona: z czlowiekiem czytajacym katy jedyny ruch to NAPRAWDE zaden kat. nast 23->27, zauf ->3 (poczatek)."
+   ]
   },
   {
    "id": "klika_zbozowa",

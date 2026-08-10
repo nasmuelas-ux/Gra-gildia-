@@ -4209,3 +4209,6 @@ Sesja prawa (rzut 68): pogłebione prawo umow handlowych+arbitrazu - formalny gr
 
 ## 297-04-17 RANEK
 Symon rozmyslil sie ws. poznej wizyty u Nesty (madrze - zmeczony) i domknal dzien snem. RANO 04-17: Donnel na fundament za dnia, zelazo Gulltown w drodze, kanal zamkowy recurring. Faza cichej konsolidacji. Zwornik zaparkowany.
+
+### 297-04-17 RANEK->POLUDNIE - Donnel fundament (spring-busy)
+Symon czekal na fundament - Donnel w biegu (szczyt sezonu), szybki rzut oka: 'to odwilz nie kamien, suchy, stoi'. Pelny oglad znow odlozony. 2. fachowe 'to nic' - niepokoj praktycznie zdjety; goni pewnosc na nie-problemie. Donnel 46 hold. Zmeczenie 12.

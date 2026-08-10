@@ -634,8 +634,8 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 56,
-   "ostatni_kontakt": "297-03-19",
+   "nastawienie_do_gracza": 58,
+   "ostatni_kontakt": "297-04-15",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
     "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -655,7 +655,8 @@
     "297-01-11 (rzut 97): Symon poprosil o PORECZENIE - domykajace kupiecki zestaw. Vox (ktory PIERWSZY narysowal droge kupiec-wspolnik, zna admisje od srodka) pojal w pol slowa i dal PELNE, SWIADOME TAK: reczy za Symonem PRECYZYJNIE jako legalnym kupcem-wspolnikiem - dokladnie ta klasyfikacja, co lamie weto Cechu Pisarzy. BONUS (97) - WERDYKT STRATEGICZNY insidera: zestaw (Boren-cechmistrz + Leona-charakter + Aldous-port + Vox-sukno + Wiara) jest juz DOSC MOCNY; teraz szybko poreczenie Wiary i ZLOZYC, nim wieść wycieknie (Harwin/Pisarze bez sojusznika w radzie maja slaby glos - SZYBKOSC wygrywa). Zaoferowal dorzucic wlasny glos w radzie, gdyby trzeba. nast 48->52, zauf 15->17.",
     "297-01-29 (rzut 18): Symon przyszedl podziekowac (Vox mowil za nim na sali). Vox cieplo, wdzieczny (nast 52->53), ALE nieostroznie ROZGLASZA Symona po Schodach jako 'skrybe co wywecha zlodzieja' - dwusieczna slawa. Wspomnial tez, ze wylany po audycie posrednik mruczy po katach i obwinia SYMONA ('sepciarski skryba co go wystawil'). Symon uswiadomil sobie koszt: reputacja forensyczna = niewygodny swiadek, kazdy skim to wrog pamietajacy imie.",
     "297-03-18 POLUDNIE (rzut 12, komplikacja OPSEC): cieply refresh, ALE Vox znow GLOSNO chwalil Symona - przy obcym kliencie przy ladzie - jako \"skryba co w kazdych ksiegach zlodzieja wywecha\". Dumny, przekonany ze robi przysluge/reklame. Dzis to acute: 2x w 2 dni ostrzezenie o widocznosci (Nesta, Boren), a cech tropi Symona pytaniem \"co ten skryba czyta\" - kazda glosna pochwala Voxa = oliwa do ognia. Najzyczliwszy sojusznik = najwiekszy przeciek. Symon nie moze go ostro uciszyc (dumny, hojny, mysli ze pomaga). PROBLEM DO ROZWIAZANIA: delikatnie okielznac jezyk Voxa bez zranienia/utraty przyjaciela, zanim doniesie cechowi. nast 55->56 (cieply), zauf 18 hold.",
-    "297-03-19 RANEK (rzut 16, dobra droga a i tak miss): Symon zrobil dobrze - prywatnie, ekskluzywnosc+cech, bezpieczna linia. Vox NIE zrazil sie (relacja cala), kiwal na logike rzadkosci, przyjal - ALE to sie w nim NIE utrzyma: Vox wylewny z NATURY, nie z wyboru; za tydzien w zapale znow wyrwie sie glosna pochwala. Nie da sie kupieckim argumentem przerobic temperamentu. LEWAR SLEPY. NAUKA/PIVOT: nie kontrolowac ust Voxa - kontrolowac wlasna widocznosc (mniej forensic na pokaz, opisywac wlasna robote nudno, zero publicznych \"odkryc\"). Naprawa po stronie Symona. nast 56 hold, zauf 18."
+    "297-03-19 RANEK (rzut 16, dobra droga a i tak miss): Symon zrobil dobrze - prywatnie, ekskluzywnosc+cech, bezpieczna linia. Vox NIE zrazil sie (relacja cala), kiwal na logike rzadkosci, przyjal - ALE to sie w nim NIE utrzyma: Vox wylewny z NATURY, nie z wyboru; za tydzien w zapale znow wyrwie sie glosna pochwala. Nie da sie kupieckim argumentem przerobic temperamentu. LEWAR SLEPY. NAUKA/PIVOT: nie kontrolowac ust Voxa - kontrolowac wlasna widocznosc (mniej forensic na pokaz, opisywac wlasna robote nudno, zero publicznych \"odkryc\"). Naprawa po stronie Symona. nast 56 hold, zauf 18.",
+    "297-04-15 (rzut 47, czesciowy): Symon zagral 1+2 - przekierowanie narracji (nudny dyskretny rachmistrz, dyskrecja=prestiz/wyzsza cena uslugi) + ally-apel (twoja glosna chwala sciaga oko cechu, POMOZ mi byc cichym=moje bezpieczenstwo, prosba nie nagana). Vox wzial szczerze ('nie pomyslalem, bede trzymal jezyk - porzadny rachmistrz'). ALE to NUDGE nie FIX (wylewny z natury - potrzyma tydzien-dwa, potem serce rozwiaze usta). Kupiona cisza+lepsza narracja. POTWIERDZONE: trwaly fix = wlasna widocznosc Symona (mniej spektakularnego forensic). nast 56->58."
    ],
    "potrzeby": [
     "dojsc, czy wspolnik go strzyze",

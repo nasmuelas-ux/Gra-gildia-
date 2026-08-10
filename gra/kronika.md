@@ -4188,3 +4188,6 @@ Kolacja w gospodzie, noc przespana. RANO 04-15: pipeline zelaza Gulltown w toku 
 
 ### 297-04-15 RANEK->POLUDNIE - Ostyn (upadly, wdzieczny)
 Symon zajrzal do upadlego Ostyna po ludzku (rzut 85, drugi raz) - poruszyl go gleboko. Reputacja 'porzadny, nie zapomina swoich w dol' cicho rosnie (niski-profil kapital). Ostyn na odchodne (do krewnych) dal mape insidera sol/ryba/fracht (fracht zjada drobnych=racket, gracze/luki). Niskoprofilowe dobro budujace lepiej niz interes. nast 43->50, zauf 10. Watek mapa_sol_ryba_ostyn.
+
+### 297-04-15 POLUDNIE->WIECZOR - Vox stonowany (czesciowo)
+Symon zagral 1+2 u Voxa (rzut 47): przekierowanie narracji (nudny dyskretny rachmistrz, dyskrecja=prestiz) + ally-apel (pomoz mi byc cichym=bezpieczenstwo). Vox wzial szczerze, ale to NUDGE nie FIX (wylewny). Kupiona cisza+lepsza narracja; trwaly fix=wlasna widocznosc Symona. Vox 56->58.

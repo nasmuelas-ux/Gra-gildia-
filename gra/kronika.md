@@ -3981,3 +3981,6 @@ Nowy miesiac, czwarty. Noc przespana. Poranek: dzis/jutro dostarczyc Aurane (~04
 
 ### 297-04-01 POLUDNIE
 Dostawa ksiag Aurane (rzut 41). Czysto, pelne saldo premium +9 jel (~12 z zadatkiem = najgrubsze zlecenie). Znaleziska: niezafakturowane oplaty skladowe (do odzysku) + rozbieznosc inwentarza (ubytek/podbieranie). Aurane po swojemu - z rezerwa, przetestowal pytaniem, Symon obronil dowodem; przyjal chlodno-rzeczowo, ZAREJESTROWAL wartosc. Recurring uchylone na jego warunkach. nast 28->34, zauf 9->11. Sakiewka 8->17 jel.
+
+### 297-04-01 WIECZOR (2)
+Symon umowil z Merkiem termin i szczegoly pogodzenia ksiag spolki: ~04-04, kantor Merka. Framing bezstronny ('rutynowe wiosenne pogodzenie OBU wspolnikow', nie audyt jednego) - legalny, jawny, nie ploszy wspolnika, chroni relacje. Zakres: wiekowanie + uzgodnienie zaznaczonego konta wspolnika ze zrodlami. Dyskrecja: znaleziska najpierw Merkowi. Zadatek 2 jel juz w kieszeni, saldo na dostawie. Stare zegary triazu/oczekiwania sprzatniete.

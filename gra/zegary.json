@@ -48,16 +48,6 @@
    "opis": "Skory (jakosciowe, cena zamrozona) ZESTAGOWANE pod zaladunek do Braavos — czekaja na okno wywozowe/statek (zimowe szlaki sie zwezaja, Belarno ostrzegal). Wyplyna z najblizsza noga; wynik sprzedazy ksiezyce pozniej (jak futra)."
   },
   {
-   "id": "merek_wspolnik_odpowiedz",
-   "typ": "proces",
-   "odlicza_do": "296-12-16",
-   "opis": "Merek proponuje wspolnikowi rutynowe wspolne pogodzenie ksiag (za rada Symona). Odpowiedz wspolnika: zgoda (audyt-de-facto rusza legalnie, jawnie) albo opor (sam opor bywa sygnalem). Otwarta forma = wspolnik ma czas ubrac ksiegi jesli krecil.",
-   "co_sie_stanie": "za kilka dni: reakcja wspolnika Mereka - zgoda na pogodzenie ksiag albo wymowka/opor",
-   "widoczny_graczowi": true,
-   "ROZSTRZYGNIETY": "296-16: wspolnik OCIAGAL sie - nie odmowil wprost, ale hedgowal (po co nagla formalnosc, moze po odwilzy/jak ksiegi sie ustala). Reluktancja = miekki sygnal (nie dowod). Merek rozdygotany. Otwarta forma juz zadziala na jego niekorzysc, jesli wspolnik ubiera ksiegi.",
-   "zamkniety": true
-  },
-  {
    "id": "wat_ksiegi",
    "typ": "robota",
    "odlicza_do": "296-12-18",
@@ -275,16 +265,6 @@
    "zamkniety": true
   },
   {
-   "id": "merek_naleznosci_triage",
-   "typ": "robota",
-   "odlicza_do": "297-03-24",
-   "opis": "Triaz odmarzajacych zimowych naleznosci Merka: wiekowanie + 3 kosze (sciagac / rozlozyc-darowac / odpisac). Humanitarnie (chroni reputacje Merka, nie miazdzy biedoty). Zadatek 2 jel wziety, saldo ~4 jel na dostawie.",
-   "co_sie_stanie": "dostarczenie triazu naleznosci - saldo ~4 jel; Merek odzyskuje sciagalne, oszczedza reputacje; relacja+",
-   "widoczny_graczowi": true,
-   "ROZSTRZYGNIETY": "297-03-20 (rzut 72): triaz dostarczony czysto, saldo ~4 jel zaplacone. Odkrycie: realny pieniadz w kilku wiekszych kontach nie biedocie; rachunek wspolnika Merka kluje (niespojny) - ziarno zasiane, do przyjrzenia.",
-   "zamkniety": true
-  },
-  {
    "id": "owen_wprowadzenie_theomore",
    "typ": "keystone",
    "odlicza_do": "297-03-26",
@@ -325,6 +305,11 @@
    "co_sie_stanie": "pierwsze brokerskie uplasowanie ryzyka -> prowizja + start reputacji brokera ubezpieczen",
    "widoczny_graczowi": true,
    "postep": "297-03-29 (rzut 96): pierwszy ladunek ZDOBYTY i zwettowany (wino Aldousa, forensic mistrzowski). Zostaje uplasowanie przez Neste u ustalonego ubezpieczyciela ~04-05 -> prowizja + dowod modelu."
+  },
+  {
+   "id": "merek_pogodzenie_ksiag",
+   "termin": "297-04-04",
+   "opis": "UMOWIONE (04-01): jawne pogodzenie ksiag spolki Merka, ~04-04 w kantorze Merka. FRAMING kluczowy (rada Symona): NIE 'audyt wspolnika' lecz 'rutynowe wiosenne pogodzenie ksiag OBU wspolnikow' - rowne, bezstronne, legalne/jawne (chroni relacje Merka + nie plosze wspolnika). ZAKRES: zwiekowac wspolne konta, uzgodnic zaznaczone zalegle/niespojne konto wspolnika ze zrodlami - rozdzielic czy to blad/timing czy odplyw. DYSKRECJA: znaleziska najpierw prywatnie Merkowi (firewall - sluzy pryncypalowi), zadnych otwartych oskarzen. Zadatek 2 jel wziety, saldo ~4-5 jel na dostawie."
   }
  ]
 }

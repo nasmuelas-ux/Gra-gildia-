@@ -4321,3 +4321,6 @@ Naprawa zaniedbania: liczniki_uzyc rosly, ale nie zamienialy sie na awanse. Scal
 
 ### 297-04-26 WIECZOR - Wenda (folk-standing mocny)
 Wizyta u Wendy (rzut 76, czytanie ludzi 8). Read folk-pulse: wsrod ludu imie Symona ciepłe ('swoj co nie zapomnial') - tarcza u dolu mocna (baza murem, cenne przy widocznosci). Druga warstwa: kupieckie jezyki pytaja 'cos ty za jeden' - widocznosc w sferze kupcow/cechu nie u ludu. Mapa: dol murem, gora czujna. rep port +2. Wenda 53->56.
+
+## 297-04-27 RANEK
+Wieczorem cwiczenia (kondycja/walka - liczniki+1, progi sprawdzone: bez awansu). Noc przespana. Faza konsolidacji. W tle: zelazo Gulltown w drodze (=spoiwo koalicji), kanal drewna huczy, Aurane/Rollam/uzgodnienia, Wick uczy sie, Mira slow-burn plateau, ogrod kielkuje, Ulric czeka na okazje. Zwornik zaparkowany.

@@ -3984,3 +3984,6 @@ Dostawa ksiag Aurane (rzut 41). Czysto, pelne saldo premium +9 jel (~12 z zadatk
 
 ### 297-04-01 WIECZOR (2)
 Symon umowil z Merkiem termin i szczegoly pogodzenia ksiag spolki: ~04-04, kantor Merka. Framing bezstronny ('rutynowe wiosenne pogodzenie OBU wspolnikow', nie audyt jednego) - legalny, jawny, nie ploszy wspolnika, chroni relacje. Zakres: wiekowanie + uzgodnienie zaznaczonego konta wspolnika ze zrodlami. Dyskrecja: znaleziska najpierw Merkowi. Zadatek 2 jel juz w kieszeni, saldo na dostawie. Stare zegary triazu/oczekiwania sprzatniete.
+
+### 297-04-01 WIECZOR (3)
+Symon wieczorem do kantoru pomoc przy backlogu uzgodnien (rzut 69). W ciszy po dziennym mlynie przeczescil spory kawal czysto, drobna oplata 2 jel. Strumien od Nesty ruszyl i dziala - staly drobny dochod sezonowy, najlepszy wieczorami. nast Nesta 85->86. Dzien pracowity i owocny zamkniety.

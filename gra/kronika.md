@@ -4143,3 +4143,6 @@ Symon prospektowal wychodzace ladunki do ubezpieczenia (rzut 48) - zlapal 1 soli
 
 ### 297-04-12 POLUDNIE->WIECZOR - Leona (brak roboty + sygnal widocznosci)
 Symon wpadl po robote do Leony (rzut 12) - nic teraz (jej ksiegi ok, wiosna rowna). Przy pozegnaniu przyjazny sygnal: ludzie zauwazaja ile Symon spina naraz. TRZECI glos (Nesta+Boren+Leona) o aggregate visibility. Watek aggregate_visibility. Dyscyplina: rozkladac, cicho. Leona 67 hold.
+
+### 297-04-12 WIECZOR - Mira (genuine, slow-burn posuwa sie)
+Symon zbadal grunt (wywiad 63) i wszedl do Miry bez agendy/targu (wizyta 85) - pytal o resztke interesu meza, sluchal jak rowny rowna, rzucil uwage jako kolega po fachu. Gard opadl, szacunek gestnieje. Bez przelomu (napor=regres), ale foundation posuwa sie sama. Doktryna 'byc nie targowac' dziala. nast 32->38, zauf 12. Niskoprofilowe.

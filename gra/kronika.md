@@ -4516,3 +4516,6 @@ Symon namierzyl niepewny lead (rzut 65) - ZYWY. Klient = zarzadca TORHEN, prawa 
 
 ## 297-05-10 RANEK — Noc
 Sen. Przejscie 05-10 RANEK. Plan: umowic sie ostroznie z zarzadca Torhenem, wybadac zakres audytu (mind Antaryon-mur/Ulric). Weksel Wenda ~05-12.
+
+## 297-05-10 POPOLUDNIE — Godric wybadal Torhena
+Do Godrica po intel o Torhenie (rzut 41). Godric (z deferencja - Torhen wyzej): Torhen = wyzsza polka, prosty/serio, NIE krętacz - klient bezpieczny. Ale reczy za CZLOWIEKA nie za wnetrze ksiag (to nie jego szczebel); slowo w gore da, ogr. wagi. ULRIC-ADJACENCY POTWIERDZONA konkretnie: dom Torhena rozlicza sie wprost z magazynami zamku = styk z rejestrami szafarza. REFRAME: ryzyko = tez OKAZJA dac Ulricowi face-saving win, zamknac uraze (ulric_urazony). Godric ciepły, ost 05-10. Decyzja gracza: brac Torhena (ostroznie/jako okazje na Ulrica) vs odpuscic. Liczniki czyt+1, spryt+1. -> POPOLUDNIE.

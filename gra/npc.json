@@ -1324,9 +1324,9 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 70,
-   "zaufanie": 18,
-   "ostatni_kontakt": "297-04-05",
+   "nastawienie_do_gracza": 60,
+   "zaufanie": 16,
+   "ostatni_kontakt": "297-04-29",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
@@ -1338,7 +1338,8 @@
     "297-03-17 POLUDNIE (rzut 53): cieply reconnect po 20 dniach. Dobra nowina - WINO DOSZLO (partia skuta od 11-13 splynela z odwilza), Aldous uregulowal co mial pod zastaw, przysluga/zobowiazanie DOMKNIETE czysto ('kamien z serca'). Reszta = przyjazn: reaffirmowal sie jako PEWNY ODBIORCA braawijskiego wina (wine-anchor spolki trzyma; sezon otwiera sie z galerami). Wcisnal Symonowi dzban 'na probe'. Wiez mocna, 20 dni zeszlo w kwadrans. nast 59->63, zauf 15->16.",
     "297-03-26 POLUDNIE (rzut 12): Symon przyszedl po balsam, ale nie mogl sie rozluznic - glowa wciaz na Nowym Zamku (Theomore, ostrzezenia Nesty w kolko). Aldous serdeczny, ale bystry, zauwazyl \"siedzisz tu a glowa gdzie indziej, co cie gryzie\". SYMON NIE MOGL POWIEDZIEC (keystone=tajemnica tylko z Nesta/Owenem; Aldous nie wtajemniczony), zbyl polprawda. Balsam nie zadzialal - wyszedl ciezszy nie lzejszy. NAUKA/THEME: samotnosc sekret-keepera - im wyzej w grze cieni, tym wiecej nosi SAM; sukces ma cene placona w izolacji (firewall odcina nawet od cieplych przyjaciol). Aldous cieply, zatroskany, bez szkody. nast 63 hold.",
     "297-03-29 POLUDNIE (rzut 96): PIERWSZY klient brokera ubezpieczen. Symon zaproponowal Aldousowi ochrone jego ladunku (partia braawijskiego wina w drodze) - broker: wycena+uplasowanie u ustalonego kapitalu. Forensic wycena mistrzowska (wartosc, trasa, sezon, historia galery/szypra, okna sztormowe) = ryzyko dobrze przesiane, jakiego underwriter chce. Aldous (ufa bezgranicznie, po zimowym koszmarze z utkniętym winem ceni spokoj) wzial od reki: \"ubezpiecz mi to, spac bede spokojniej\". Deal gotowy do uplasowania przez Neste ~04-05, prowizja. Relacja poszerzona (mostek plynnosci -> broker ubezpieczen). nast 63->65, zauf 16->17.",
-    "297-04-05 WIECZOR (rzut 94): Symon przyniosl wiesc, ze wino Aldousa KRYTE (uplasowane). Aldous gleboko ulzony/wdzieczny - zobaczyl konkretnie wartosc uslugi (spokojny sen+chroniony grosz), nie abstrakcje. OWOC: (1) chce puszczac KOLEJNE ladunki przez Symona (repeat), (2) CIEPLE POLECENIE - kupiec ze Schodow z partia na skrzydle flotylli, drzacy o ryzyko = naturalny broker-prospekt, Aldous posle Symona z dobrym slowem. Flywheel filaru krecil sie idealnie (zadowolony klient->repeat+referral->nastepny). nast 65->70, zauf 17->18."
+    "297-04-05 WIECZOR (rzut 94): Symon przyniosl wiesc, ze wino Aldousa KRYTE (uplasowane). Aldous gleboko ulzony/wdzieczny - zobaczyl konkretnie wartosc uslugi (spokojny sen+chroniony grosz), nie abstrakcje. OWOC: (1) chce puszczac KOLEJNE ladunki przez Symona (repeat), (2) CIEPLE POLECENIE - kupiec ze Schodow z partia na skrzydle flotylli, drzacy o ryzyko = naturalny broker-prospekt, Aldous posle Symona z dobrym slowem. Flywheel filaru krecil sie idealnie (zadowolony klient->repeat+referral->nastepny). nast 65->70, zauf 17->18.",
+    "297-04-29 WIECZOR (rzut 1, KRYT): Symon przyszedl odnowic po 24 dniach. Poszlo ZLE - Aldous, par kubkow w reku, wypuscil urazke: Symon przyszedl 03-29, sprzedal mu ubezpieczenie, wzial cieple polecenie 04-05 - i ZNIKNAL na trzy tygodnie. Poczul sie jak MARK, nie przyjaciel ('przychodzisz kiedy chcesz cos sprzedac, a potem cie nie ma'). Polecenie do kupca ze Schodow: WYCOFANE/zamrozone ('po co slac przyjaciela do kogos, kto zapomina o mnie gdy atrament wyschnie'). Kolejne ladunki (repeat): PAUZA - nie bo ubezpieczenie zawiodlo (nie zawiodlo), lecz bo relacja zeszla do rurociagu. Boli Symona bo to PRAWDA - odpuscil cieplego przyjaciela dla transakcji. Zaden manufaktura wroga - czysty koszt zaniedbania. Odbudowa = przychodzic po ludzku, stale, nie transakcyjnie. nast 70->60, zauf 18->16."
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
    "historia": [

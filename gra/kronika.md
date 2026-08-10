@@ -4215,3 +4215,6 @@ Symon czekal na fundament - Donnel w biegu (szczyt sezonu), szybki rzut oka: 'to
 
 ### 297-04-17 POLUDNIE->WIECZOR - sync z Nesta (portfel)
 Sync na swiezo (rzut 80). Nesta klasnela na dyscypline konsolidacji ('umiesz przestac'). Przeglad portfela: silnik=recurring kapital-light (zamek/Rollam/uzgodnienia/kantor/Godric), zelazo=klej koalicji, ubezpieczenia=celowac w apetyt. Dodatki: pilnowac Ulrica (nie prowokowac/udobruchac); cichy compounding=ubezpieczenie tranzytu wlasnej podazy (synergia filarow, watek ubezp_tranzyt_wlasna_podaz). nast 89->90.
+
+### 297-04-17 WIECZOR - Owen o Winterfell (ciezka prawda)
+Symon po szeroki obraz do Owena (rzut 8) - dostal prawde zamiast pociechy: Winterfell=kamien w studnie bez dna, daleki long-shot prawdopodobnie NIEMY, poza reka Symona (miesiace albo nigdy). Owen z wlasnym niepokojem: puscili rzecz niebezpieczna/nieodwolywalna (Aemon/Starkowie), na sumieniu obu. Samotnosc sekretu zabolala - Symon wyszedl CIEZSZY. Owen 86 hold. Zmeczenie 30.

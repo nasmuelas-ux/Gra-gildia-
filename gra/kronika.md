@@ -4426,3 +4426,6 @@ Symon do Voxa (rzut 86). Tym razem nie zimowa paranoja - swiezy wiosenny materia
 
 ## 297-05-03 poany WIECZOR — Nesta: drabina kapitalu (50/100/200)
 Odpoczynek+herbata (zmecz 40->20). Potem do Nesty: co da sie znalezc za 50/100/200 jel. Nesta rozlozyla drabine przez ryzyko: 50=ucz sie byc pryncypalem (wspol-underwriting/weksel), 100=realny plaster underwritingu na flotylli / ksiega kredytowa / grubszy udzial spolki egzotycznej, 200=commenda/kotwiczny underwriter (nie skakac). REKOMENDACJA: edge Symona=wyceniac ryzyko lepiej niz underwriter, wiec klasc grosz gdzie glowa juz pracuje - 50-100 wlasnego jako wspol-underwriter na fali flotylli = strzyc skladke nie prowizje. Do ruchu ~172 jel. Nowy watek drabina_kapitalu. Licznik handel+1 (117). Late night.
+
+## 297-05-04 RANEK — OKNO POGODOWE OTWARTE
+Sen. Przejscie 05-04 RANEK. Rzut 73: OKNO OTWARTE - wiatr ustal, morze plaskie, statki co czekaly ruszaja. Flotylla sukna / partia zelaza / galera Belarna w koncowym podejsciu (wejda w ciagu dnia-dwoch przez wciaz ryzykowna wode). KUPCY Z LADUNKIEM DRZA = FALA UBEZPIECZEN LIVE. Symon ma gotowy aparat (nauka Nesty procentuje) - czas strzyc skladke jako wspol-underwriter, nie prowizje. Belarno=Zelazny Bank w zasiegu.

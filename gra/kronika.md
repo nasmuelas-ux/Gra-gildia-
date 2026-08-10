@@ -3906,3 +3906,6 @@ Symon i Hal zjedli razem po dobrym dniu - pierwszy wspolny posilek nie jako mist
 
 ## 297-03-27 POPOLUDNIE — 3. zlecenie: rysa Hala (zapal vs osad)
 Trzecie zlecenie, Hal na fali (dom+pierwszy grosz) puszczony na dluzsza smycz - stara rysa wrocila: zapal wyprzedzil osad, PRZEKROCZYL (zaczal decydowac, przyjal niesprawdzone zalozenie, wpisal nietrzymajacy sie wniosek). Poszloby do klienta pod marka Symona = wstyd. Symon zlapal (nadzor=po to jest), sprostowal, PRZYHAMOWAL nie gaszac (przestroga Owena): 'dom nie znaczy ze gotow latac sam; rzemioslo szybko, osad wolno; trzymasz ksiege nie decydujesz; niezaleznosc zarabia sie stopniowo'. Hal sflaczaly ale przyjal (prawda bez pogardy). Zlecenie ratowane, grosza brak, czas zjedzony. Rzut 9. NAUKA: zapal Hala=atut i ryzyko; dawkowac samodzielnosc wolniej niz on chce (i niz Symon dal w euforii dobrego dnia). Hal nast 87 hold, zauf 39 hold. Sytosc 62, zmeczenie 32.
+
+## 297-03-27 — KOREKTA ksiag (3. zlecenie)
+Poprawka: 'grosza brak' z poprzedniego wpisu bylo bledne. Skoro Symon zlapal blad Hala w nadzorze i sprostowal PRZED wyslaniem do klienta, klient dostaje czysta poprawna robote -> fee sie nalezy (~2 jel, ratowana wiec skromne). Prawdziwy koszt rzutu 9 = koszt alternatywny (godziny Symona na naprawe zamiast innej roboty) + bliskie ryzyko wstydu pod marka + nauka, NIE utrata gotowki. Sakiewka 35->37 jel.

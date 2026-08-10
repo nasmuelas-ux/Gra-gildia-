@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 32 jeleni + 0 mied + 0 smokow
+- **Wolne:** 34 jeleni + 0 mied + 0 smokow
 - kwit depozytowy u Nesty (65 jel)
 - Zdrowie 100 · Sytosc 62 · Zmeczenie 32
 

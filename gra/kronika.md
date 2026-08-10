@@ -4146,3 +4146,6 @@ Symon wpadl po robote do Leony (rzut 12) - nic teraz (jej ksiegi ok, wiosna rown
 
 ### 297-04-12 WIECZOR - Mira (genuine, slow-burn posuwa sie)
 Symon zbadal grunt (wywiad 63) i wszedl do Miry bez agendy/targu (wizyta 85) - pytal o resztke interesu meza, sluchal jak rowny rowna, rzucil uwage jako kolega po fachu. Gard opadl, szacunek gestnieje. Bez przelomu (napor=regres), ale foundation posuwa sie sama. Doktryna 'byc nie targowac' dziala. nast 32->38, zauf 12. Niskoprofilowe.
+
+### 297-04-12 WIECZOR - Owen (flat, zajety chorym)
+Symon do Owena po narade (rzut 25) - Owen zajety pastoralnie (ranny czeladnik z cechu pod dachem Wiary, Colen opatruje; wczorajsza pomoc Symona uratowala chlopcu dlon). Krotko: Theomore nic nowego (cierpliwie, tygodnie); widocznosc 'wiesz sam, badz cichy'. Symon nie napieral. Cichy owoc pomocy w tle. Owen 86 hold. Zmeczenie 40.

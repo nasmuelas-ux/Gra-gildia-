@@ -4444,3 +4444,6 @@ Kolejna wizyta po ludzku (rzut 64). Zero sprawdzania 'po co przyszedl' - wie ze 
 
 ## 297-05-05 RANEK — OKNO DOWIOZLO: zelazo, flotylla, Belarno WESZLY
 Sen. Przejscie 05-05 RANEK. Okno utrzymalo - cala weather-bound flota dobila naraz: ZELAZO z Gulltown (rzut 78) - coalition-glue DOWIEZIONE (cech relief, Boren dowiozl przed braćmi, Harlon zobaczy proof w kolumnie); FLOTYLLA sukna (rzut 90) - weszla bezpiecznie (ubezpieczenia moot, gamble Corla wyszedl, port zalany suknem); GALERA BELARNA (rzut 85) - Zelazny Bank w zasiegu. Boren przyśle/przyjdzie z wescia (inbound). Wielki poranek okazji: koordynacja zelaza+Harlon proof / Belarno-Zelazny Bank / rynek sukna.
+
+## 297-05-05 POPOLUDNIE — Zelazo dowiezione: coalition cementowana
+Do Borena po zelazo (rzut 87). Sztaby zeszly z galery; Symon spial landing/rozdzial czysto - off-take DOMKNIETY, cech dostal tanie zelazo bez laski Antaryonow. Boren ULGA+TWARZ: reczyl przed braćmi, dowiozl; slowo w cechu uroslo, a z nim Symona (cech wie przez czyja glowe: 'gadales prosto, przyniosles zelazo - nie zapomna'). +4 jel cienka marza (-> 36 jel), cech_kol rep 27->30, Boren nast 81->85 zauf 24. Pasywny bleed lewaru Antaryona (nie wojna - kropla). Proof dla Harlona gotowy (oszczednosc frachtu w kolumnie). Liczniki organizacja+1 (96), handel+1 (120). -> POPOLUDNIE.

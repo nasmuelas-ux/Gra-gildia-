@@ -4197,3 +4197,6 @@ Symon spytal Voxa o pomoc (rzut 19) - nic pilnego (ksiegi ustawione). Prawie pod
 
 ## 297-04-16 RANEK
 Noc przespana. Faza cichej konsolidacji (niski profil po 3 sygnalach + Ulric). W toku: pipeline zelaza Gulltown (proba-partia), Donnel na fundament za dnia, kanal zamkowy recurring na normie, Wick uczy sie liter. Zwornik zaparkowany.
+
+### 297-04-16 - Bran/Alys przyduszeni groszem, Symon ogarnia godnie
+Check-in 'jak zona' (rzut 5) ujawnil: Bran+Alys z milosci ale PRZYDUSZENI groszem (dozorcowa pensja+koszt startu). Symon: sprawdzil ksiegi kamienicy, podniosl pensje Brana 2->3 jel jako ZASLUZONA (dom pelny+rola urosla, nie jalmuzna); skojarzyl Alys zarobek u Jonny (szycie/przedzenie, rzut 46, pod dachem). Dom oddycha. Wiez -> rodzinna. Bran 78->81 zauf 19. Koszt ~+1 jel/mies dla Symona.

@@ -4279,3 +4279,6 @@ Noc przespana. Faza cichej konsolidacji trwa (silnik mieli, ludzkie kotwice mocn
 
 ### 297-04-23 RANEK->POLUDNIE - Merek: sprawa wspolnika poszla zle
 Symon sprawdzil sprawe wspolnika Merka (rzut 13) - poszla ZLE: konfrontacja->wspolnik sie zjezyl/awantura->GORZKI ROZLAM spolki. Merek potrzasniety (zdrada), nie wini Symona ('lepiej wiedziec, ale gorzko'). CIEN: wyrzucony wspolnik mamrocze 'skad wywechal' = faint wektor widocznosci (zrodlo oslonione, nie twarda ekspozycja). Forensyka tnie w dwie strony. Merek 50 hold.
+
+### 297-04-23 POLUDNIE->WIECZOR - Merek: igla przewleczona
+Symon zawrocil po nieudanym wycofaniu (rzut 70) - siadl jako przyjaciel nie audytor, podzielil bol bez wchodzenia w spor (firewall trzyma). Chlod rozpuszczony, 'dobrze zes wrocil'. Przyjazn naprawiona+glebsza. Nauka: obecny sercem, poza sporem rekami - dyscyplina+czlowieczenstwo pogodzone. Merek 44->52.

@@ -244,6 +244,14 @@
    "odlicza_do": "297-04-30",
    "co_sie_stanie": "wieczor 04-30: Aldous u Symona - pojednanie, mozliwy powrot referrala/repeat",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "aurane_trawi_skim",
+   "typ": "relacja/nastepstwo",
+   "opis": "297-04-30: Aurane dostal twardy dowod skimu na stacji przyjec (bez nazwiska, czysto). Nie chcial wierzyc - stacja to jego zaufany czlowiek. Musi to STRAWIC i zdecydowac: (a) sam po cichu zwazy nastepna partie/przycisnie swojego czlowieka, (b) bedzie zaprzeczal/zwlekal (przywiazanie), (c) moze wrocic do Symona - z wdziecznoscia gdy ochlonie ALBO z podejrzliwoscia. Symon czysty (nie nazwal, nie splaszyl). NEXT (inbound): Aurane sie odezwie gdy strawi - jego ruch. Nie pchac.",
+   "odlicza_do": null,
+   "co_sie_stanie": "Aurane, gdy strawi, wroci do Symona (wdziecznosc lub rezerwa) i/lub sam zadziala na stacji",
+   "widoczny_graczowi": true
   }
  ]
 }

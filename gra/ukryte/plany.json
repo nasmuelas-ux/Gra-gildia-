@@ -88,6 +88,12 @@
    "co": "MOZE po trzezwemu sam sie ruszyc/przeprosic (jego czesc rachunku) - reciprocity test",
    "kiedy": "~dni",
    "zywy_watek": "aldous dwustronnosc"
+  },
+  {
+   "kto": "aurane",
+   "co": "odezwie sie gdy strawi dowod skimu (wdziecznosc albo rezerwa) - jego ruch",
+   "kiedy": "~dni",
+   "zywy_watek": "aurane_trawi_skim"
   }
  ]
 }

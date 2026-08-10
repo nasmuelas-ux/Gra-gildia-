@@ -1379,7 +1379,7 @@
    "wiek": 50,
    "zawod": "zamozny kupiec/wlasciciel skladow portowych (propertied)",
    "mieszka": "Schody/port",
-   "nastawienie_do_gracza": 44,
+   "nastawienie_do_gracza": 42,
    "zaufanie": 14,
    "wie_o_graczu": [
     "polecony przez Godrika jako dyskretny, biegly czlowiek od liczb",
@@ -1387,7 +1387,8 @@
     "297-03-29 RANEK (rzut 87): re-approach z referencja Leony - ZDOBYTY. Leona dotrzymala slowa (rzucila Aurane cichy komentarz, nazwisko juz nie obce); Symon potwierdzil, \"po interesie\" czlowiek dostal dowod od kogo uznaje. Flotylla dala potrzebe (sklady w chaosie po galerach). Aurane wzial: \"Leona nie rzuca slow na wiatr; mam ksiegi skladu w nieladzie - uporzadkuj\". Zadatek +3 jel, reszta na dostawie. Klient PREMIUM z wyzszej polki (wlasciciel skladow portowych, dyskretny, recurring). Modelowy sukces: dowod+cierpliwosc, nie napor (nie forsowal 03-21). nast 20->28, zauf 5->9.",
     "297-04-01 POLUDNIE (rzut 41, solidny pas): Symon dostarczyl gotowe ksiegi/inwentarz skladu - czysto, na czas. Zaplacil pelne saldo premium (+9 jel; z zadatkiem ~12 jel = jego najgrubsze pojedyncze zlecenie). Znaleziska: (1) NIEZAFAKTUROWANE OPLATY SKLADOWE - Aurane moze teraz DOFAKTUROWAC klientom (bezposredni odzysk grosza); (2) ROZBIEZNOSC INWENTARZA - brakuje towaru wzgledem ksiag (ubytek/mozliwe podbieranie w magazynie). Aurane po swojemu - bez zachwytu, z rezerwa 'po interesie'; PRZETESTOWAL Symona pytaniem o rozbieznosc, Symon obronil znalezisko dowodem (nie cofnal sie, nie przesadzil). Aurane przyjal chlodno-rzeczowo, ale ZAREJESTROWAL wartosc: dyskretny czlowiek, ktory znajduje mu przecieki i placi za siebie wielokrotnie. Recurring uchylone na JEGO ostroznych warunkach (nie entuzjazm, lecz 'bede pamietal, przydasz sie znowu'). nast 28->34, zauf 9->11.",
     "297-04-23 WIECZOR (rzut 60): recurring PREMIUM potwierdzony - wiosna zawalila mu sklady, sam podsunal robote ('policzysz i przemilczysz, wez to'). Kolejny angaz ksiegi/inwentarz wiosennego wolumenu, dyskretnie, zadatek +3 jel, saldo na dostawie. Premium klient wraca sam (znaleziska zaplacily za siebie). Niskoprofilowe/recurring. nast 34->40, zauf 11->13.",
-    "297-04-24 (rzut 63): ksiegi wiosenne dowiezione czysto z Halem (Symon reczyl za dyskrecje ucznia, trzyma). Znaleziska: kolejne niezafakturowane skladowe + rozbieznosc rotacji (placa za siebie). Aurane po swojemu: 'dobrze, i dwoch was a cicho'. Saldo +7 jel. Recurring premium poglebiony. nast 40->44, zauf 13->14."
+    "297-04-24 (rzut 63): ksiegi wiosenne dowiezione czysto z Halem (Symon reczyl za dyskrecje ucznia, trzyma). Znaleziska: kolejne niezafakturowane skladowe + rozbieznosc rotacji (placa za siebie). Aurane po swojemu: 'dobrze, i dwoch was a cicho'. Saldo +7 jel. Recurring premium poglebiony. nast 40->44, zauf 13->14.",
+    "297-04-30 (rzut 27): Symon podal DYSKRETNIE, czysto, twardy dowod skimu na stacji przyjec (wagi dokowe vs tally) - bez nazwiska. Fakt niepodwazalny, Aurane WIE. ALE reakcja bokiem: nie chcial wierzyc (stacja to jego zaufany czlowiek od lat), siegnal po wymowki, na sekunde ZMIERZYL posłańca ('a tyś jak do moich wag doszedl?'). Nie gniew na Symona - dyskomfort czlowieka, ktoremu pokazano zdrade bliskiego. 'Zostaw mi to, musze pomyslec.' Wdziecznosci brak dzis. nast 44->42."
    ],
    "ostatni_kontakt": "297-04-30",
    "cechy_mowy": "rzeczowy, ostrozny, mowi malo i po interesie",

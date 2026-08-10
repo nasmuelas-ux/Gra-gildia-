@@ -269,7 +269,9 @@
    "odlicza_do": "297-03-28",
    "opis": "Nesta plasuje pierwszy pilotaz ubezpieczenia (wlasny wywoz skor -> Braavos) u braawijskiego kapitalu - zalezne od dostepnosci kapitalu/korespondentow (~przy flotylli ~03-27). Wynik: czy kapital przyjmuje ryzyko i na jakich stawkach; test mechanizmu broker-plasowanie.",
    "co_sie_stanie": "kapital przyjmuje/odrzuca pilotaz -> mechanizm broker-plasowanie potwierdzony lub do korekty",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "ROZSTRZYGNIETY": "297-03-28 (rzut 17): NIE uplasowany. Braawijski kapital nie bierze pojedynczego drobnego ryzyka od niesprawdzonego gracza (bez historii jako ubezpieczyciele; kapital gra w skali/ksiegach nie jednej polisie; konserwatywna wycena mniej atrakcyjna; konkurencja istnieje). Strukturalna sciana, nie wina papieru.",
+   "zamkniety": true
   },
   {
    "id": "merek_naleznosci_triage",

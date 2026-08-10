@@ -3918,3 +3918,6 @@ Symon odprowadzil Hala do kamieniczki, przedstawil Branowi (dozorcy). Bran serde
 
 ## 297-03-27 WIECZOR — wplata 34 jel do depozytu u Nesty
 Symon skoczyl szybko do kantoru i wplacil 34 jel do depozytu. Sakiewka 37->3 jel, depozyt 36->70 jel. Grosz z dobrego dnia schowany bezpiecznie (preserve, nie martwo w sakiewce; dostepny na kazde zawolanie w kantorze). Cienki float gotowkowy (3 jel), ale depozyt na wyciagniecie reki.
+
+## 297-03-28 RANEK — pilotaz ubezpieczen NIE uplasowany (reality-check)
+Nesta probowala uplasowac pilotaz u braawijskiego kapitalu (z flotylla) - odbila sie od sciany (rzut 17). Kapital nie bierze pojedynczego drobnego ryzyka od NIESPRAWDZONEGO gracza (mały kantor+mlody skryba bez historii jako ubezpieczyciele; kapital gra w skali/ksiegach nie jednej polisie; konserwatywna wycena mniej atrakcyjna; konkurencja istnieje). Powod strukturalny, nie w papierze Symona. NAUKA: ubezpieczenia = gra PORTFELA/SKALI/TRACK-RECORDU, nie da sie zbootstrapowac jednym strzalem; TRUDNIEJSZY filar niz kredyt (kredyt niosl bo pod twardy zastaw). Potwierdza przestroge Nesty ze sondazu. PIVOT (do obgadania): agregowac ksiege drobnych ryzyk / wyrobic track-record na mikro-ryzykach / czysty broker do istniejacych ubezpieczycieli. Filar zywy ale wolniejszy. Sytosc 52, zmeczenie 5.

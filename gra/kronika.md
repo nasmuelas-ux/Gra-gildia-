@@ -4507,3 +4507,6 @@ Sniadanie. Wplata 6 jel do Nesty -> depozyt 20088 mied = 200 jel = PRZEKROCZONY 
 
 ## 297-05-09 RANEK — Wick: przelom (nadzieja stala sie faktem)
 Do Wicka uczyc (rzut 94, przelom). Cwiczyl sam lewa reka: pisze CZYTELNIE (koslawo ale pismo, nie bazgroly), czyta plynnie z modlitewnika, napisal swoje imie caly lewa. Nadzieja stala sie faktem - zycie nie skonczylo sie pod kolem tokarskim. Spytal czy moglby z pisania zyc - MOGLBY, bystry, aptytuda realna: przyszly pisarz/klerk (jak Hal - drugi mlody podniesiony do pisma, moze kiedys u Symona). Ripple: Boren (druga droga dana kalekiemu chlopcu - kolodziej nie zapomina). Temat: pismo jako DAR nie oreż. nast 33->46, zauf+. Liczniki pismo+1 (118), czyt+1 (151). -> POPOLUDNIE.
+
+## 297-05-09 POPOLUDNIE — Cech koladziejow: stala robota skryby wzieta
+Do cechu po stala robote (rzut 43). Boren wprowadzil jak swojego (po zelazie nikt nie dyskutuje). Jeden starszy nieufny ('obcy w ksiegach?'), Boren uciol: 'przyniosl tanie zelazo i umie milczec'. WZIETA: ksiegi cechu/umowy/rejestry czeladnikow. Dochod SKROMNY ale pewny/recurring (cech placi rzemieslniczo), +2 jel zaliczka (-> 8 jel). Glabszy embed w cechu-sojuszniku (anti-Antaryon), cicho/wewnetrznie - nie drazni cechu pisarzy. Kolejny cichy filar dochodu. Boren nast 85. Liczniki rachunki+1 (186), prawo+1 (168). -> WIECZOR.

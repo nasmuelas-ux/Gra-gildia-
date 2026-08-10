@@ -4573,3 +4573,6 @@ Sen. Przejscie 05-14 RANEK. Faza rozkwitu: filary mielą, nisza=usluga, kredyt f
 
 ## 297-05-14 RANEK — Wyllam: proving -> staly klient
 Do Wyllama dowiezc probe (rzut 87). Dowiozl czysto, wyprostowal rzeczy bez pouczania - podejrzliwosc twardego zmiekla ('Rollam nie klamal, prosta robote robisz'). Wyllam OTWIERA WIECEJ ksiag, z proby na STALE - trzeci top-tier filar zakotwiczony (nie prospekt, klient). +5 jel (-> 49 jel), nast 22->32, zauf 10. Flywheel rowiesnikow mieli: Rollam reczy, Wyllam potwierdza, krag faktorow przyjal Symona za swojego. Dyscyplina widocznosci (3 faktorzy). Liczniki rachunki+1 (193), audyt+1 (135). -> POPOLUDNIE.
+
+## 297-05-14 POPOLUDNIE — Godric: praca (filar mieli)
+(Mira ANULOWANA - rzut 16 przerwany interruptem; gracz wstrzymal sie madrze, 2 dni to znow blisko tloczenia - dal jej oddech). Zamiast: praca u Godrica (rzut 45). Ksiegi domu + parcela odrobione (recurring), prowizja rozliczona, tranzyt-skim compound kumuluje sie cicho. Kanal mieli, sol Harlona tez tedy = ciezar Antaryonowi. +3 jel (-> 52 jel), Godric nast 70. Liczniki rachunki+1 (194), organizacja+1 (101). -> WIECZOR.

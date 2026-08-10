@@ -1626,16 +1626,17 @@
    "stan": "mieszczanin (zamozny kupiec-faktor)",
    "zawod": "powazny kupiec-faktor (wiekszy obrot, port); slyszal o 'skrybie co wypatruje wycieki'",
    "mieszka": "port/Schody",
-   "nastawienie_do_gracza": 36,
-   "zaufanie": 11,
+   "nastawienie_do_gracza": 40,
+   "zaufanie": 13,
    "wie_o_graczu": [
     "297-01-15 (rzut 41): sondowal Symona o cos wiekszego (slyszal historie z Godrikiem/relief). Zainteresowany, ale OSTROZNY/niezobowiazujacy - powazny faktor nie daje duzej roboty niesprawdzonemu, swiezo-widocznemu mlodzikowi na pierwszym spotkaniu. Drzwi UCHYLONE, nie otwarte: chce zobaczyc wiecej, nim zaufa czyms substancjalnym. Symon przeczytal: to cultivate+proving+cierpliwosc, nie szybki skok.",
     "297-01-16 (rzut 41): Symon probowal cultivate bezposrednio (nie napierajac na robote, tylko pokazac wartosc). Rollam uprzejmy, ale sie NIE ruszyl - dla ostroznego czlowieka druga wizyta w tydzien sygnalizuje zainteresowanie/potrzebe, a potrzeba u mlodego = znak, ze jeszcze nie stoi twardo. Symon przeczytal to w pore: tej ryby nie lowi sie chodzeniem do niej; im bardziej zabiegana, tym bardziej sie cofa. Rollam przyjdzie sam, gdy reputacja Symona dotrze do niego cudzymi ustami. Drobny plus (nast 6->8), ale glowna nauka: NIE kurtyzowac bezposrednio - budowac imie gdzie indziej, pozwolic mu znalezc.",
     "297-04-08 POLUDNIE (rzut 87): ZDOBYTY po 82 dniach. W styczniu zbyl Symona (obcy na slowo), dzis DOWOD go poruszyl: referencja Leony + Aurane (peer, ktorego szanuje) powierzyl ksiegi + broker uplasowany + marka forensyka na nabrzezu. Symon NIE napieral (dowod+cisza, po kupiecku). Ostrozny czlowiek wierzy dowodowi nie urokowi -> ruszyl sie. Timing: wiosenny wolumen dusi tez Rollama. Dal REALNY KES PROBNY: wycinek wiekszego obrotu (wiekowanie+uzgodnienie) pod dyskrecja, zadatek 4 jel, saldo grubsze na dostawie. NAJWIEKSZA RYBA dotad (powazny faktor > drobni kupcy Schodow). Metoda dowod+cierpliwosc potwierdzona (Aurane->Rollam). nast 8->24, zauf 2->6.",
     "297-04-08 WIECZOR (rzut 49): Symon dowiozl wycinek ksiag - czysto, dyskretnie, ale bez fajerwerkow (Rollam prowadzi CIASNY interes, brak spektakularnego wycieku). Wartosc: uporzadkowane wiekowanie, 2-3 wolnych platnikow do przycisniecia, drobne niełady. PROBA ZALICZONA: 'czysto, i trzymales jezyk za zebami'. Zaufanie NA RATY - dal NASTEPNY wycinek gdy ten wyszedl (nie cala ksiega od razu). Foot in door u najwiekszej ryby, kanal otwiera sie stopniowo dowozeniem. Saldo +8 jel. nast 24->30, zauf 6->8.",
-    "297-04-11 WIECZOR (rzut 75): drugi wycinek ksiag - czysto I z realnym catchem: kontrahent systematycznie niedoplaca na drobnych + naleznosc starzejaca sie gorzej niz Rollam sadzil (grosz do odzysku). Udokumentowane, dyskretnie. Przechyla szale u ostroznego czlowieka mocniej niz czyste ksiegi - 'placisz za siebie'. Zaufanie na raty +rata: grubszy wycinek nastepnym razem + wisi 'pogadam o tobie z paroma ludzmi' (drzwi do peerow). Saldo +5 jel. nast 30->36, zauf 8->11."
+    "297-04-11 WIECZOR (rzut 75): drugi wycinek ksiag - czysto I z realnym catchem: kontrahent systematycznie niedoplaca na drobnych + naleznosc starzejaca sie gorzej niz Rollam sadzil (grosz do odzysku). Udokumentowane, dyskretnie. Przechyla szale u ostroznego czlowieka mocniej niz czyste ksiegi - 'placisz za siebie'. Zaufanie na raty +rata: grubszy wycinek nastepnym razem + wisi 'pogadam o tobie z paroma ludzmi' (drzwi do peerow). Saldo +5 jel. nast 30->36, zauf 8->11.",
+    "297-04-22 (rzut 54): grubszy wycinek dowieziony solidnie (wiecej kont, glebiej w obrot) - czysto/dyskretnie, bez fajerwerkow (ciasny interes). Zaufanie na raty +rata: coraz glebszy dostep, saldo +7 jel. Polecenie do peerow gestnieje ale jeszcze nie padlo twardo. Symon = 'czlowiek od liczb ktoremu duzy faktor ufa', nie 'na probie'. nast 36->40, zauf 11->13."
    ],
-   "ostatni_kontakt": "297-04-11",
+   "ostatni_kontakt": "297-04-22",
    "cechy_mowy": "powsciagliwy, mierzy dlugo, malo slow"
   },
   {

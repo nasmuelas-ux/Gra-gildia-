@@ -4264,3 +4264,6 @@ Cieply grounding wieczor u Serli (rzut 82). Tom zdrow/urosl (struga konika), gor
 
 ## 297-04-22 RANEK
 Noc przespana. Faza cichej konsolidacji. W tle: zelazo Gulltown w drodze (tygodnie), kanal zamkowy recurring, Wick uczy sie (napisal imie), Mira slow-burn cieply, ogrod obsiany, Ulric czeka na okazje. Zwornik zaparkowany.
+
+### 297-04-22 RANEK->POLUDNIE - Rollam grubszy wycinek
+Dowieziony grubszy wycinek ksiag Rollama (rzut 54) - czysto/dyskretnie, saldo +7 jel. Zaufanie na raty rosnie (glebszy dostep). Polecenie do peerow gestnieje, jeszcze nie padlo. Symon=czlowiek ktoremu duzy faktor ufa. Filar recurring, niskoprofilowe. nast 36->40, zauf 13. Sakiewka 26 jel.

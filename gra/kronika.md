@@ -4225,3 +4225,6 @@ Noc przespana (ciezar rozmowy o Winterfell rozrzedzony snem). RANO 04-18: faza c
 ### 297-04-18 RANEK - przeglad kalendarza + sprzatanie zegarow
 Sprzatniete martwe/rozwiazane zegary (futra_wiesc, aldous_wino, ubezp_pilot_wynik/plasowanie, skory_wywoz, nesta_ubezp_apetyt, owen_wprowadzenie_theomore, zelazo_offtake, zamek_pierwsza_dostawa). Przeglad kalendarza w fazie cichej konsolidacji.
 ### 297-04-18 - scalenie duplikatow Aldous i Denys w npc.json (2 duplikaty usuniete, historie zlane)
+
+### 297-04-18 POLUDNIE->WIECZOR - ksiegi Godrica + czytanie Ulrica
+Ksiegi domu (rzut 18) - plasko pod okiem Ulrica, +3 jel. Czytanie Ulrica (rzut 37, polowa mapy): rana=utracona twarz, wrogosc obronna, podejscie wprost spali. Kierunek (zgodny z Nesta): dac mu wygrana - forensic-znalezisko na jego konto (dostawca oszukujacy sklady), Symon niewidzialny. Brak okazji, wypatrywac. Sakiewka 15 jel.

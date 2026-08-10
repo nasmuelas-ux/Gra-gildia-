@@ -4471,3 +4471,6 @@ Rada Nesty+Owena (rzut 56). Owen: nie 'rozwiazuj' Gartha jak rachunek - przestan
 
 ## 297-05-06 WIECZOR — Aurane: frost zszedl
 Odpoczynek+jedzenie (zmecz 20, syt 60). Do Aurane lekko, bez Hobba, po ludzku (rzut 86). Dal mu dokladnie to o co prosil - przestrzen+szacunek; rozbroilo mocniej niz przeprosiny. Aurane sam zmiekl: 'bylem opryskliwy nie na ciebie; czlowiek jak mu pokazac ze go swoj okrada kopie posłańca; miales racje żes przyszedl - i dzis nie po nic'. Hobb=jego sprawa (prowadzi po swojemu, spokojny), Symon NIE pytal. Frost zszedl - reciprocity/obecnosc-bez-haka jak przy Aldousie. nast 41->52, zauf 18. Licznik czyt+1 (149). -> noc.
+
+## 297-05-07 RANEK — Noc
+Sen. Przejscie 05-07 RANEK. W tle: Owen studzi Gartha (plan Banku na cierpliwym holdzie), Wyllam z listem Rollama czeka na poznanie, weksel Wenda ~05-12, rynek sukna po flotylli, Aurane ocieplony.

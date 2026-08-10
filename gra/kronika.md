@@ -4191,3 +4191,6 @@ Symon zajrzal do upadlego Ostyna po ludzku (rzut 85, drugi raz) - poruszyl go gl
 
 ### 297-04-15 POLUDNIE->WIECZOR - Vox stonowany (czesciowo)
 Symon zagral 1+2 u Voxa (rzut 47): przekierowanie narracji (nudny dyskretny rachmistrz, dyskrecja=prestiz) + ally-apel (pomoz mi byc cichym=bezpieczenstwo). Vox wzial szczerze, ale to NUDGE nie FIX (wylewny). Kupiona cisza+lepsza narracja; trwaly fix=wlasna widocznosc Symona. Vox 56->58.
+
+### 297-04-15 WIECZOR - Vox: brak roboty (restraint)
+Symon spytal Voxa o pomoc (rzut 19) - nic pilnego (ksiegi ustawione). Prawie podsunal re-audyt, ale Symon odpuscil (okruchy+witness-fatigue, nie busy-work). Restraint > spinanie roboty bez wartosci (spojne z niskim profilem). Vox 58 hold.

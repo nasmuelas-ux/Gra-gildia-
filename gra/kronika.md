@@ -4336,3 +4336,6 @@ Odpoczynek + herbata (zmecz 35->15, syt 45->40). Potem do Nesty. Rozmowa przekuw
 
 ## 297-04-28 RANEK — Noc
 Powrot na Schody, noc przespana. Zmeczenie 0, syt 0 (rano glodny). Faza konsolidacji trwa.
+
+## 297-04-28 RANEK — Praca z Halem
+Sniadanie (syt 0->). Poranne zlecenia pisarskie z Halem (rzut 39). Wolny odwilzowy poranek - malo klientow (bloto, port dopiero budzi sie po zimie), skromny utarg ~2 jel brutto, netto +120 mied po dzialce Hala. Za to Hal jedno zlecenie poprowadzil solo i pewnie - mentoring procentuje, stajnia pisarzy realna. Hal zaufanie +1 -> 44, ostatni 04-28. Liczniki pismo+1 (114), rachunki+1 (176); progi sprawdzone - bez awansu. -> POPOLUDNIE.

@@ -22,32 +22,6 @@
    "opis": "CZESCIOWY CZYT (11-05, rzut 39): dane Gartha pokazuja, ze deklaracje frachtu/cla drewna sa ZAWYZONE/niespojne (gouging prawdopodobny), z CIENIEM mozliwego linku do szyprow z sieci wielkiego domu (Antaryon?) — ALE nie dowod, nie karta jeszcze. Garth: extra cicho, AKUMULOWAC dalej; potrzeba wiecej, zanim da sie zaniesc kolodziejom (odzysk) albo lordowi (clo). Soft clock trwa. || 297-02-15: potwierdzone od strony Leony - dopoki sprawa to WZOR a nie KARTA (twardy dowod), Leona-wspolarchitektka NIE postawi nazwiska/sieci za nia (rozsadnie: chroni standing). Front (Leona+masa dotknietych bran) aktywuje sie DOPIERO gdy Garth zbierze dowod. Zbiezne z rada Gartha (akumulowac). Nie forsowac fronta przedwczesnie. || 297-02-16 (rzut 78) REFRAME: dowod juz w duzej mierze SOLIDNY/dokumentowalny (Garth ma spojny obraz). Waskie gardlo = OSLONA GORNA, nie wiecej danych: Garth skorroboruje tylko gdy sprawe pcha lord/Winterfell z oslona (nie chce byc pierwszy, co wystawia kark). SCIEZKA DO KARTY: zbudowac top-cover (submisja Rymana->Winterfell inkwizycja ORAZ/LUB interes lorda okradanego na cle) -> wtedy Garth koroboruje + Leona fronton masy dotknietych. Nie forsowac Gartha na wlocznika. || 297-02-16 (rzut 24): NAUKA - top-cover NIE przez pchanie Owena (Owen przyhamował: Wiara to nie oręż, sprawa choćby sluszna nie moze byc kolejna bitwa zaciagajaca septona). Osłona gorna musi przyjsc INACZEJ: interes wlasny lorda (okradany na cle) albo inkwizycja Winterfell z wlasnej woli. Symon=niewidzialny architekt, nie lobbysta u Wiary. Cierpliwie, organicznie."
   },
   {
-   "id": "futra_wiesc",
-   "termin": "296-12-20",
-   "opis": "Wiesc z Braavos o sprzedazy probnej partii futer/skor/bursztynu (noga wywozowa spolki egzotycznej, wyplyneła 11-10). Zimowy round-trip: rejs + sprzedaz + odzew ~5-6 tyg. Wynik testuje kanal wywozowy i marze.",
-   "ROZSTRZYGNIETY": "296-12-20 (rzut 19): probna partia futer/skor/bursztynu doszla do Braavos i SIE SPRZEDALA - kanal wywozowy dziala LOGISTYCZNIE. ALE marza slaba: po frachcie zimowym + doli faktora + miekkim rynku wyszlo ~break-even / lekko na minus. TEZA marzy na tych towarach (futra/bursztyn->Braavos) NIEPOTWIERDZONA. Potwierdza trzezwa mape Nesty (Polnoc eksportuje surowe/tanie/ciezkie). Kanal proven, ekonomia nie.",
-   "zamkniety": true
-  },
-  {
-   "id": "aldous_wino_dojdzie",
-   "termin": "296-12-XX",
-   "opis": "Wino Aldousa dojdzie z przeladowni przy oknie pogodowym/odwilzy (skute lodem od 11-13). Splaca pozyczke pod zastaw; domyka przysluge. Czas niepewny - zaleznie od mrozu.",
-   "ROZSTRZYGNIETY": "297-03-17: wino doszlo z odwilza (skute od 11-13), Aldous uregulowal zastaw/pozyczke, przysluga domknieta czysto; wine-anchor na wiosne reaffirmed.",
-   "zamkniety": true
-  },
-  {
-   "id": "ubezp_pilot_wynik",
-   "termin": "296-12-12",
-   "opis": "Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zysk) czy ktorys ucierpial (wyplata). Testuje model ryzyka Symona i oplacalnosc cichego pilaru.",
-   "ROZSTRZYGNIETY": "296-12-12: rzut 27 - jeden z objetych malych ladunkow ucierpial w zimowym sztormie; WYPLATA zjadla skladki, cykl netto LEKKO NA MINUS. ALE: mala skala + dywersyfikacja ZAWEZILY strate (zero blowupu) - dyscyplina Nesty sie sprawdzila, teza zysku NIE. Pierwszy trzezwy dowod: zimowe ryzyko realne, model strukturalnie trzyma, ale nie skalowac dopoki nie udowodni zysku w lagodniejszym oknie.",
-   "zamkniety": true
-  },
-  {
-   "id": "skory_wywoz",
-   "termin": "296-11-??",
-   "opis": "Skory (jakosciowe, cena zamrozona) ZESTAGOWANE pod zaladunek do Braavos — czekaja na okno wywozowe/statek (zimowe szlaki sie zwezaja, Belarno ostrzegal). Wyplyna z najblizsza noga; wynik sprzedazy ksiezyce pozniej (jak futra)."
-  },
-  {
    "id": "harlon_ksiegi",
    "typ": "robota",
    "odlicza_do": "296-12-26",
@@ -187,16 +161,6 @@
    "widoczny_graczowi": true
   },
   {
-   "id": "nesta_ubezp_apetyt",
-   "typ": "biznes/info",
-   "odlicza_do": "297-03-18",
-   "opis": "Nesta sonduje braavijskie kontakty co do apetytu na ubezpieczenie frachtu wiosennego (czy jest popyt/po jakiej cenie). Wynik ustali, czy filar ubezpieczen skalowac na wiosne.",
-   "co_sie_stanie": "odpowiedz o popycie na ubezpieczenia frachtu -> decyzja skalowania filaru",
-   "widoczny_graczowi": true,
-   "ROZSTRZYGNIETY": "297-03-18 (rzut 50, qualified yes): POPYT REALNY na ubezpieczenie frachtu wiosennego (zegluga wraca, hedge ladunku), ALE brac ryzyko = kapital ktorego brak (lekcy). Ksztalt: BROKER ryzyka (kojarzyc ladunek z braavijskim kapitalem za dzialke) lub mikro-pilotaz na drobnych. Braavijczycy chetni jako kapital/reasekuracja PRZY ciasnych standardach; edge Symona = forensic wycena (czyta papiery/trasy). Zaczac wasko (konkurencja+wiarygodnosc). Decyzja ksztaltu z Nesta.",
-   "zamkniety": true
-  },
-  {
    "id": "opal_korekta",
    "typ": "rynek",
    "odlicza_do": "297-03-21",
@@ -215,36 +179,6 @@
    "widoczny_graczowi": true,
    "przygotowanie": "Szablon prawny/struktura zamowienia GOTOWE (03-16). Na przyjscie zostaje weryfikacja dostawcy z manifestow + pieczec + prowizja.",
    "ODPALIL": "297-03-27: FLOTYLLA PRZYSZLA - braavijskie galery z suknem dobily. Linia sukna Leony aktywna (1. wiosenne zamowienie przez faktorie: weryfikacja papierow dostawcy + prowizja brokerska Symona). Grunt z 03-16 gotowy. Robota na dzis.",
-   "zamkniety": true
-  },
-  {
-   "id": "zelazo_offtake",
-   "typ": "biznes",
-   "odlicza_do": "297-03-24",
-   "opis": "Zebrac PODPISANY off-take na zelazo z Gulltown (Boren + kowale, kazdy wlasne zamowienie, kompartmentalizacja). Po komplecie: kantor puszcza JEDNA skromna proba-partie (Nesta: korespondent+spedycja). Kapital-light, pre-sold, undercut frachtowego gougera.",
-   "co_sie_stanie": "komplet off-take -> commit pierwszej proby-partii zelaza; tansze zelazo rzemieslnikom + cienka dzialka + zasila blok",
-   "widoczny_graczowi": true,
-   "obstacle": "297-03-18: off-take kowali TRUDNIEJSZY niz zakladano (osobny cech, wlasne zrodla, nie na slowo; Boren nie zagoni ich mid-rush; flaga widocznosci). Sell-side \"locked\" dotyczyl tylko Borena. Wymaga wolniejszego, relacyjnego podejscia do kowali + spokojniejszej pory. Boren-wlasny off-take wciaz do domkniecia.",
-   "nota_0324": "297-03-24 (termin): off-take NIE domkniety - kowale to powolna robota relacyjna (nie wiosenny mlyn); Boren-wlasny off-take wciaz do zlapania w spokojniejszej porze. Parked, nie event."
-  },
-  {
-   "id": "ubezp_pilot_plasowanie",
-   "typ": "biznes",
-   "odlicza_do": "297-03-28",
-   "opis": "Nesta plasuje pierwszy pilotaz ubezpieczenia (wlasny wywoz skor -> Braavos) u braawijskiego kapitalu - zalezne od dostepnosci kapitalu/korespondentow (~przy flotylli ~03-27). Wynik: czy kapital przyjmuje ryzyko i na jakich stawkach; test mechanizmu broker-plasowanie.",
-   "co_sie_stanie": "kapital przyjmuje/odrzuca pilotaz -> mechanizm broker-plasowanie potwierdzony lub do korekty",
-   "widoczny_graczowi": true,
-   "ROZSTRZYGNIETY": "297-03-28 (rzut 17): NIE uplasowany. Braawijski kapital nie bierze pojedynczego drobnego ryzyka od niesprawdzonego gracza (bez historii jako ubezpieczyciele; kapital gra w skali/ksiegach nie jednej polisie; konserwatywna wycena mniej atrakcyjna; konkurencja istnieje). Strukturalna sciana, nie wina papieru.",
-   "zamkniety": true
-  },
-  {
-   "id": "owen_wprowadzenie_theomore",
-   "typ": "keystone",
-   "odlicza_do": "297-03-26",
-   "opis": "Owen aranzuje wprowadzenie Symona (pod poreczeniem Wiary) do maestera Theomore - by przedlozyc dossier celne jako interes lorda (kradziony grosz). Cel: sprawa dociera do lorda Wymana zaufanym kanalem, Symon osloniety. Otwiera keystone (lord+refi+koalicja).",
-   "co_sie_stanie": "wprowadzenie do Theomore ustalone -> Symon przedklada dossier pod tarcza Wiary; start realnego ruchu keystone",
-   "widoczny_graczowi": true,
-   "ODPALIL": "297-03-26: Owen DOPIAL wprowadzenie - maester Theomore zgodzil sie przyjac Symona DZIS, pod poreczeniem Wiary. Symon wchodzi jako czlowiek Wiary niosacy maesterowi sprawe grosza lorda. Spotkanie = dzis. Gotowosc kompletna (dossier/rola/firewall/oslona/prawo9/wyglad).",
    "zamkniety": true
   },
   {
@@ -274,11 +208,6 @@
    "id": "zamek_dostawa_stala",
    "termin": null,
    "opis": "297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) przez Godrica. URUCHOMIC: skoordynowac PIERWSZA dostawe - podaz przez Torsena/Halvarda (kanal re-otwarty 04-05), popyt zamku (Godric). Symon = polaczenie/koordynator, marza+ksiegi domu. Recurring dochod + glebszy embed przy lordzie (cicho wzmacnia parked lord-route). || 297-04-10 (rzut 71): STRUKTURA BROKERSKA DOMKNIETA z Godrikiem. Zamek placi rynek za drewno; Symon bierze PROWIZJE per dostawa (skojarzenie+koordynacja, kapital-light, recurring). Brak ryzyka spreadu (broker nie kupiec). URUCHOMIC: skoordynowac pierwsza parcele przez Torsena/Halvarda (nastepna parcela, lead-time); prowizja poplynie z dostaw. || 297-04-10: URUCHOMIONY - pierwsza parcela skoordynowana (rzut 82), dostawa ~04-13, prowizja recurring rusza. Kanal operacyjny. || NORMA GRADU wpisana 04-13 (obiektywne sorty/grad-u-zrodla/tranzyt-ubezpieczenie/Symon-arbiter) - kanal to teraz zdyscyplinowany biznes, prowizja recurring."
-  },
-  {
-   "id": "zamek_pierwsza_dostawa",
-   "termin": null,
-   "opis": "297-04-13 DOMKNIETE (rzut 87): spor o grad rozwiazany sprawiedliwie (uczciwy markdown na mokrym, fair na reszcie), prowizja +2 jel zainkasowana. NORMA GRADU wpisana na stale z Godrikiem I Torsenem (obiektywne sorty, grad-u-zrodla+tally, regula tranzytu/ubezpieczenie, Symon-arbiter). Kanal upgraded z przyslugi w biznes. Przyszle dostawy: prowizja recurring na twardej normie. Synergia: rozwazyc formalne ubezpieczenie transit-ryzyka wlasnej podazy."
   },
   {
    "id": "rollam_grubszy_wycinek",

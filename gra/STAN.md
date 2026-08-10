@@ -11,7 +11,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 12 jeleni + 84 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 14 · Zmeczenie 0
+- Zdrowie 100 · Sytosc 52 · Zmeczenie 0
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -40,10 +40,6 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark
 - ◆ `296-11-05` zima_ubodzy: ODPALIL (11-05): pierwszy twardy mroz uderzyl w ubogich Bialego Portu. Relief z 11-04 czesciowo zlagodzil (Eln
 - ◆ `296-11-05` audyt_frachtu_zbior: CZESCIOWY CZYT (11-05, rzut 39): dane Gartha pokazuja, ze deklaracje frachtu/cla drewna sa ZAWYZONE/niespojne 
-- ◆ `?` futra_wiesc: Wiesc z Braavos o sprzedazy probnej partii futer/skor/bursztynu (noga wywozowa spolki egzotycznej, wyplyneła 1
-- ◆ `?` aldous_wino_dojdzie: Wino Aldousa dojdzie z przeladowni przy oknie pogodowym/odwilzy (skute lodem od 11-13). Splaca pozyczke pod za
-- ◆ `?` ubezp_pilot_wynik: Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zy
-- ◆ `?` skory_wywoz: Skory (jakosciowe, cena zamrozona) ZESTAGOWANE pod zaladunek do Braavos — czekaja na okno wywozowe/statek (zim
 - ◆ `296-12-26` harlon_ksiegi: Ustawic ksiegi zarzadcze Harlona (solarz) - usluga premium pod dyskrecja. Reszta fee na dostawie.
 - ◆ `296-12-31` relief_zapasy_cienieja: Zapasy reliefu cienieja (gleboki mroz + dodatek kolodziejow, spad mrozu d25 popyt>podaz). Jesli zimowa fala po
 - ◆ `296-12-29` petycja_lord_relief: PLAN (Owen rzut 97): petycja do lorda Wymana o wsparcie zimowego reliefu - framing PORZADEK+reputacja (nie lit
@@ -60,17 +56,12 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` polnoc_halvard_wiesci: Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym 
 - ◆ `297-03-25` dach_ukonczenie: Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Sal
 - ◆ `297-04-05` polnoc_pierwsze_tratwy: Pierwsze wiosenne tratwy Halvarda w dol Bialego Noza (drewno/skory/futra) gdy rzeka pusci calkiem. Podaz niena
-- ◆ `297-03-18` nesta_ubezp_apetyt: Nesta sonduje braavijskie kontakty co do apetytu na ubezpieczenie frachtu wiosennego (czy jest popyt/po jakiej
 - ◆ `297-03-21` opal_korekta: Cena opalu/drewna opalowego spada z zimowego szczytu (odwilz + potwierdzona podaz Polnocy). Kto przetrzymal op
 - ◆ `297-03-27` braavijska_flotylla_sukna: Braavijska flotylla sukna spodziewana z pierwszym oknem pogodowym po odwilzy (cynk od Gartha + Leona). Na przy
-- ◆ `297-03-24` zelazo_offtake: Zebrac PODPISANY off-take na zelazo z Gulltown (Boren + kowale, kazdy wlasne zamowienie, kompartmentalizacja).
-- ◆ `297-03-28` ubezp_pilot_plasowanie: Nesta plasuje pierwszy pilotaz ubezpieczenia (wlasny wywoz skor -> Braavos) u braawijskiego kapitalu - zalezne
-- ◆ `297-03-26` owen_wprowadzenie_theomore: Owen aranzuje wprowadzenie Symona (pod poreczeniem Wiary) do maestera Theomore - by przedlozyc dossier celne j
 - ◆ `297-03-27` izba3_najem: Izba 3 kamieniczki gotowa pod najem (po re-roofie). Znalezc STABILNEGO lokatora (rada Miry: dobry dlugotermino
 - ◆ `?` keystone_korroboracja_frachtu: 297-04-03: Theomore ODROCZYL droge lorda (rzut 39) - zada niezaleznej korroboracji frachtu (rzeczywisty ladune
 - ◆ `?` owen_grzeje_theomore: 297-04-03: Owen bierze relacje z maesterem Theomore na wlasna cierpliwa koscielna droge (tygodniami, Symon nie
 - ◆ `?` zamek_dostawa_stala: 297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) prze
-- ◆ `?` zamek_pierwsza_dostawa: 297-04-13 DOMKNIETE (rzut 87): spor o grad rozwiazany sprawiedliwie (uczciwy markdown na mokrym, fair na reszc
 - ◆ `?` rollam_grubszy_wycinek: 297-04-11: 2. wycinek dowieziony z realnym catchem (rzut 75) - Rollam da GRUBSZY wycinek nastepnym razem + wis
 - ◆ `?` zelazo_gulltown_partia: 297-04-14: off-take Borena PODPISANY -> pipeline zelaza Gulltown rusza. Kantor Nesty puszcza skromna proba-par
 

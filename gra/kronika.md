@@ -4221,3 +4221,6 @@ Symon po szeroki obraz do Owena (rzut 8) - dostal prawde zamiast pociechy: Winte
 
 ## 297-04-18 RANEK
 Noc przespana (ciezar rozmowy o Winterfell rozrzedzony snem). RANO 04-18: faza cichej konsolidacji. W tle: zelazo Gulltown w drodze, kanal zamkowy recurring, Wick uczy sie liter, Donnel/fundament (niepilne). Zwornik zaparkowany, Winterfell=long-shot poza reka.
+
+### 297-04-18 RANEK - przeglad kalendarza + sprzatanie zegarow
+Sprzatniete martwe/rozwiazane zegary (futra_wiesc, aldous_wino, ubezp_pilot_wynik/plasowanie, skory_wywoz, nesta_ubezp_apetyt, owen_wprowadzenie_theomore, zelazo_offtake, zamek_pierwsza_dostawa). Przeglad kalendarza w fazie cichej konsolidacji.

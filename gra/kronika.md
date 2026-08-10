@@ -4200,3 +4200,6 @@ Noc przespana. Faza cichej konsolidacji (niski profil po 3 sygnalach + Ulric). W
 
 ### 297-04-16 - Bran/Alys przyduszeni groszem, Symon ogarnia godnie
 Check-in 'jak zona' (rzut 5) ujawnil: Bran+Alys z milosci ale PRZYDUSZENI groszem (dozorcowa pensja+koszt startu). Symon: sprawdzil ksiegi kamienicy, podniosl pensje Brana 2->3 jel jako ZASLUZONA (dom pelny+rola urosla, nie jalmuzna); skojarzyl Alys zarobek u Jonny (szycie/przedzenie, rzut 46, pod dachem). Dom oddycha. Wiez -> rodzinna. Bran 78->81 zauf 19. Koszt ~+1 jel/mies dla Symona.
+
+### 297-04-16 WIECZOR - Elna (powrot po 110 dniach)
+Symon wreszcie odwiedzil Elne (rzut 74) - bez urazy, sama radosc, nakarmila/ocerowala/poblogoslawila. Wie o wszystkim (pod opieka kolodziejow): Wick, ze Symon poslal uzdrowiciela+uczy liter - 'caly cech mowi o tobie dobrze'. Grunt: sila Symona=szczerosc nie schematy. Najlepsza kotwica po pelnym tygodniu. nast 37->43. Zmeczenie 20.

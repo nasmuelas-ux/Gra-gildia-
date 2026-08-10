@@ -873,13 +873,14 @@
     "Lorren",
     "glod dzieci"
    ],
-   "nastawienie_do_gracza": 37,
+   "nastawienie_do_gracza": 43,
    "zaufanie": 8,
    "wie_o_graczu": [
     "skryba przejrzal drapiezna umowe Lorrena",
     "spisal jej skarge do cechu/strazy",
     "Symon zajrzal pod zime — pamieta o niej mimo swoich spraw",
-    "d28 (rzut 53): Symon zajrzal - sprawa Lorrena stoi lepiej: jego skarga+zaangazowanie (pismienny pilnuje, udokumentowana skarga) dzialaja jak ODSTRASZACZ, Lorren odpuscil najostrzejsza sciagalnosc (nie chce skrutynu drapieznego papieru). Warsztat syna na razie bezpieczny. Wzmocnil oslone: kolodzieje (winni Symonowi zyczliwosc po reliefie) mocniej kryja wdowe. Dlug trwa, zima gryzie, ale bezposrednia grozba odsunieta. Wdzieczna ('nie zapomniales, malo kto pamieta o wdowie')."
+    "d28 (rzut 53): Symon zajrzal - sprawa Lorrena stoi lepiej: jego skarga+zaangazowanie (pismienny pilnuje, udokumentowana skarga) dzialaja jak ODSTRASZACZ, Lorren odpuscil najostrzejsza sciagalnosc (nie chce skrutynu drapieznego papieru). Warsztat syna na razie bezpieczny. Wzmocnil oslone: kolodzieje (winni Symonowi zyczliwosc po reliefie) mocniej kryja wdowe. Dlug trwa, zima gryzie, ale bezposrednia grozba odsunieta. Wdzieczna ('nie zapomniales, malo kto pamieta o wdowie').",
+    "297-04-16 (rzut 74): Symon wreszcie odwiedzil po 110 dniach - Elna BEZ urazy, sama radosc ('gdzies ty sie podziewal'). Jak zawsze DAJE: nakarmila, ocerowala plaszcz, poblogoslawila (jej lek 'nie zostac sama' odgoniony obecnoscia). Wie o wszystkim (pod opieka kolodziejow): o wypadku Wicka i ze Symon poslal uzdrowiciela+uczy go liter - 'caly cech mowi o tobie, nie z tych co sie wspieli i zapomnieli'. Grunt dla Symona: sila=szczerosc nie schematy. Niskoprofilowe, ludzkie. nast 37->43."
    ],
    "dlugi": [
     {
@@ -889,7 +890,7 @@
      "nota": "umowa NIEPODPISANA — dzieki Symonowi; pod ochrona cechu"
     }
    ],
-   "ostatni_kontakt": "296-12-28",
+   "ostatni_kontakt": "297-04-16",
    "cechy_mowy": "cicha, zmeczona, twarda; 'chlopcze'",
    "historia": [
     "m11d11: Symon wpadl po ludzku. Elna bezpieczna pod opieka kolodziejow (schronienie+robota przy cechu) i na liscie reliefu — radzi sobie, cieplo w izbie. Przyjmuje go z gleboka wdziecznoscia i ODDAJE cieplo: karmi go, ceruje mu plaszcz, blogoslawi. Czysta, wzajemna wiez. Nast 24->28.",

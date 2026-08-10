@@ -668,7 +668,7 @@
     "zweryfikowac braavijskie papiery dostawcow (podejrzewa, ze ja skrocono po smierci meza)",
     "nie dac sie potraktowac jak 'baba, co sie nie zna'"
    ],
-   "nastawienie_do_gracza": 65,
+   "nastawienie_do_gracza": 66,
    "zaufanie": 26,
    "wie_o_graczu": [
     "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
@@ -1201,8 +1201,8 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "izba_3_kamieniczki_Symona (od 297-03-27; wyprowadzil sie z przytulku Septy)",
-   "nastawienie_do_gracza": 86,
-   "zaufanie": 38,
+   "nastawienie_do_gracza": 87,
+   "zaufanie": 39,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
     "pierwsza rozmowa cierpka — poczul sie poprawiany/protekcjonowany przez waznego pisarza",
@@ -1229,7 +1229,8 @@
     "297-03-17 (rzut 87): Symon wzial Hala do rozliczenia rachunkow wsparcia Owena (apprenticeship, niewrazliwa robota). KAMIEN MILOWY: Symon odsunal sie i dal Halowi CALY dzial (rozdania 2. polowy zimy) do PROWADZENIA SAM - Hal zastosowal metode Symona samodzielnie (uzgodnil rozchod ze stanem, oddzielil udokumentowane od 'na slowo', zamknal na poziomie sum tam gdzie ziarnisty zapis nie istnieje - obeszli ogon z 03-07 liczac masa). Radzi sobie (Symon poprawil 2 rzeczy). Hal pierwszy raz NIOSL kawalek SAM - o cal wyzszy, droga do wlasnego standingu realna. Delegacja ZWALIDOWANA. nast 74->77, zauf 30->32.",
     "297-03-22 (rzut 93): FORMATYWNA sesja - Symon uczyl Hala METODY zarzadczej (wiekowanie, rentownosc per klient/trasa, kalendarz, progi) na zywych przykladach, nie regulkach. Hal chlonie jak gabka i sam WIDZI (wylapal trase topiaca grosz nim mu wskazano) - juz nie kopista, przyszly obslugujacy prostych klientow pod marka Symona. Nakreslili KONKRETNA droge ku wlasnemu standingowi: najblizszy krok - Hal wejdzie w nadchodzaca wiosenna robote (weryfikacje/proste ksiegi ze skrzydla flotylli) jako terminator niosacy warstwe rutynowo-fachowa pod okiem Symona, uczac sie na realnych sprawach + budujac WLASNE imie. Rdzen wrazliwy za firewallem; glod \"wiekszych spraw\" karmiony rosnaca odpowiedzialnoscia, nie tajemnicami. Hal o glowe wyzszy (pewnosc kierunku). nast 77->81, zauf 32->35.",
     "297-03-23 POLUDNIE (rzut 18): brief pod pipeline (weryfikacje/proste ksiegi) - ale iskra z wczoraj przygasla. Hal (dzien po nazwaniu marzenia \"cos znaczyc\") dostaje RUTYNE i uwiera go to; wyczul tez, ze Symon caly tydzien siedzi nad czyms DUZYM (keystone - nie wie nad czym) i probuje: \"widze ze z czyms waznym chodzicie, czemu nie ja? juz mi ufacie\". Glod wiekszych spraw znow blysnal. Symon musial cicho przytrzymac firewall (rdzen=manifesty/sprawa celna nie dla chlopaka - jego bezpieczenstwo+OPSEC), tlumaczyl ze rutyna JEST droga do wlasnego imienia - Hal przyjal ale nie kupil sercem, a zmeczony Symon nie mial ognia by go na nowo zapalic. Zostal niespokojny/niedosycony. NAUKA: ambicja Hala obosieczna - firewall ma koszt emocjonalny, wymaga regularnego re-motywowania (swieza glowa, nie kazanie). nast 81->80, zauf 35 hold.",
-    "297-03-27 RANEK (rzut 86, KAMIEN MILOWY): Symon zlozyl caly pakiet - placa za realna robote pipeline (weryfikacje/ksiegi flotylli), izba 3 na skromny czynsz z tego, wyprowadzka z przytulku (blogoslawienstwo Owena). Wlasny dach+grosz+imie. Hal (bezimienna sierota, pytal czy taki moze dojsc wyzej) - ODPOWIEDZ w cegle i groszu. Nie litosc lecz ZAPLATA+ZAUFANIE (zasluzone). Zaniemowil, walczyl z twarza (duma vs wzruszenie), po swojemu twardo: \"nie zawiode pana, slowo\". Niepokoj z d23 (glod znaczenia) ROZPUSCIL sie w CEL - juz nie wychowanek czekajacy na laske, lecz platny terminator z wlasnym katem i droga. Lancuch Owen->Symon->Hal przedluzony. Lojalnosc poglebiona ogromnie. nast 80->86, zauf 35->38. Wprowadza sie do izby 3, wchodzi w pipeline."
+    "297-03-27 RANEK (rzut 86, KAMIEN MILOWY): Symon zlozyl caly pakiet - placa za realna robote pipeline (weryfikacje/ksiegi flotylli), izba 3 na skromny czynsz z tego, wyprowadzka z przytulku (blogoslawienstwo Owena). Wlasny dach+grosz+imie. Hal (bezimienna sierota, pytal czy taki moze dojsc wyzej) - ODPOWIEDZ w cegle i groszu. Nie litosc lecz ZAPLATA+ZAUFANIE (zasluzone). Zaniemowil, walczyl z twarza (duma vs wzruszenie), po swojemu twardo: \"nie zawiode pana, slowo\". Niepokoj z d23 (glod znaczenia) ROZPUSCIL sie w CEL - juz nie wychowanek czekajacy na laske, lecz platny terminator z wlasnym katem i droga. Lancuch Owen->Symon->Hal przedluzony. Lojalnosc poglebiona ogromnie. nast 80->86, zauf 35->38. Wprowadza sie do izby 3, wchodzi w pipeline.",
+    "297-03-27 POLUDNIE (rzut 72): PIERWSZY DZIEN Hala jako platnego terminatora - weryfikacja dostawcy Leony. Hal stosuje metode Symona, niesie warstwe fachowa kompetentnie, SAM wskazuje niespojnosc; zarobil PIERWSZY GROSZ w zyciu (nie jalmuzna - zarobil). Duma ukrywana. Model terminatora zwalidowany na zywej robocie. Rano dom, po poludniu pierwszy grosz nan. nast 86->87, zauf 38->39."
    ],
    "ostatni_kontakt": "297-03-27",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",

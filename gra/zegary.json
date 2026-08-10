@@ -274,6 +274,14 @@
    "odlicza_do": null,
    "co_sie_stanie": "gdy Symon pojdzie do Wyllama z listem: proba ksiag -> jesli czysto, nowy recurring top-tier klient",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "owen_studzi_gartha",
+   "typ": "proces/firewall",
+   "opis": "297-05-06 (Nesta+Owen, rzut 56): plan na Gartha (dziura w murze przy Banku). Owen GENUINNIE (jako septon, niewidzialnie, zero nici do Symona/Antaryona) studzi splloszonego Gartha - daje ucho+osłone Wiary, redukuje strach. Uspokojony czlowiek nie zdradza. Glaboki mur = POZYCJA Symona (pisarz pod opieka Wiary vs slowo splloszonego celnika bez papieru = szept vs mur). Czas sojusznikiem: wiosenne oko zamku ma zejsc z Gartha samo; nie palic lontu. Plan Banku CIERPLIWY HOLD az Garth ostygnie. Owen zasygnalizuje.",
+   "odlicza_do": null,
+   "co_sie_stanie": "gdy Garth ostygnie (Owen studzi + oko zamku zejdzie): dziura zamknieta, plan Banku moze ruszyc",
+   "widoczny_graczowi": true
   }
  ]
 }

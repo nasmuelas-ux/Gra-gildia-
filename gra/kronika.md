@@ -4224,3 +4224,4 @@ Noc przespana (ciezar rozmowy o Winterfell rozrzedzony snem). RANO 04-18: faza c
 
 ### 297-04-18 RANEK - przeglad kalendarza + sprzatanie zegarow
 Sprzatniete martwe/rozwiazane zegary (futra_wiesc, aldous_wino, ubezp_pilot_wynik/plasowanie, skory_wywoz, nesta_ubezp_apetyt, owen_wprowadzenie_theomore, zelazo_offtake, zamek_pierwsza_dostawa). Przeglad kalendarza w fazie cichej konsolidacji.
+### 297-04-18 - scalenie duplikatow Aldous i Denys w npc.json (2 duplikaty usuniete, historie zlane)

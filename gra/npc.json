@@ -1331,14 +1331,16 @@
   {
    "id": "kupiec_denys",
    "imie": "Denys",
-   "zawod": "handlarz woskiem i swiecami (Schody/port)",
+   "zawod": "handlarz ze Schodow - wosk/swiece + braawijskie towary (audytowany przez Symona, cegla bloku anty-Antaryon)",
    "nastawienie_do_gracza": 28,
    "zaufanie": 9,
-   "ostatni_kontakt": "297-03-24",
+   "ostatni_kontakt": "297-04-02",
    "wie_o_graczu": [
     "przyszedl do faktorii po dyskretny audyt swoich ksiag — niespokojny o dostawce; slyszal, ze 'ten pisarz' rzetelny i cichy (nisza/pewnie szept Aldousa)",
     "audyt obnazyl, ze dostawca go skraca — Symon uratowal mu grosz; wdzieczny, ufa; cichy i rzetelny",
-    "297-03-24 RANEK (rzut 55): Symon wpadl po ludzku (swiezy) - Denys (wdzieczny, ze Symon uratowal mu grosz) przyjal jak dobrodzieja, bez podejrzliwosci (kontrast z Harlonem/Aurane). Gadka o wiosnie (galery wracaja, wosk/knoty plyna, interes sie prostuje). Cegla CICHA i LOJALNA - nie dopytuje o zadna sprawe, wdzieczny i spokojny = stabilny rdzen bloku (vs twarde niecierpliwe ogniwa). Podsunal wiazke dobrych swiec po przyjacielskiej cenie (narzedzie pracy Symona - drobny pozytek). Ciepla, lekka wizyta. nast 23->28, zauf 8->9."
+    "297-03-24 RANEK (rzut 55): Symon wpadl po ludzku (swiezy) - Denys (wdzieczny, ze Symon uratowal mu grosz) przyjal jak dobrodzieja, bez podejrzliwosci (kontrast z Harlonem/Aurane). Gadka o wiosnie (galery wracaja, wosk/knoty plyna, interes sie prostuje). Cegla CICHA i LOJALNA - nie dopytuje o zadna sprawe, wdzieczny i spokojny = stabilny rdzen bloku (vs twarde niecierpliwe ogniwa). Podsunal wiazke dobrych swiec po przyjacielskiej cenie (narzedzie pracy Symona - drobny pozytek). Ciepla, lekka wizyta. nast 23->28, zauf 8->9.",
+    "297-04-02 (rzut 44, skromny pas): Symon wrocil po ~33d - tym razem BEZ KATA, bez prosby, bez 'mostu'. Zwykla bezinteresowna wizyta rozbroila rezerwe, ktora sam zasial (m9d6 przesada). Denys, ktory spodziewal sie zagrania, dostal czyste 'nic nie biore' - chlod cofnal sie na wlos. Nie wrocil dawny zachwyt, ale zaczyna czytac Symona jako moze-jednak-nie-sam-angle. NAUKA Symona: z czlowiekiem czytajacym katy jedyny ruch to NAPRAWDE zaden kat. nast 23->27, zauf ->3 (poczatek).",
+    "[SCALENIE 297-04-18: rekord 'kupiec_denys_zbytek' zlany tutaj - to ten sam Denys ze Schodow, tylko rozjechany na dwa wpisy przez kolizje id 04-02. Zawod=wosk/swiece+braawijskie towary.]"
    ],
    "nota": "LEAD (od Aldousa, 11-01): wg Aldousa jego dostawca z sieci Antaryona zdaje sie go SKRACAC; towar (swiece/wosk) zima drogi = lakomy kas dla skimu. KANDYDAT-cegła bloku anty-Antaryon. NIEZWERYFIKOWANE — trzeba potwierdzic dyskretnie (najlepiej gdy sam najmie faktorie do ksiag, jak inni; NIE zaczepiac jawnie = ekspozycja). Symon niewidzialny.",
    "historia": [
@@ -1750,35 +1752,6 @@
    "rola": "drobni wrogowie od d27",
    "nast": -6,
    "nota": "zmuszeni do restytucji przez kolektyw wykryty przez Symona; resentful, beda pluc jadem/obgadywac, ale slabi i skurczeni; mozliwe drobne odwety/aliansы z anty-Symon mruczeniem"
-  },
-  {
-   "id": "kupiec_aldous",
-   "imie": "Aldous",
-   "zawod": "kupiec (braavijskie wino i barwniki) na Schodach",
-   "skad": "d29 — przyslany word-of-mouth/Leona po sprawie oszustwa; boi sie, ze jego braavijskie papiery tez skrocone",
-   "nast": 9,
-   "nota": "d29: Symon wrocil i ZAMKNAL wino pewnym, prawdziwym werdyktem (wielki dom nie skraca miary; barwniki uczciwe; jestes czysty) — Aldous USPOKOJONY i zadowolony; pending rozpuszczony, Antaryonow nie tknieto. Z letniego -> kontent; mozliwy skromny referrer. Zaplacone.",
-   "nastawienie_do_gracza": 70,
-   "zaufanie": 18,
-   "status": "BLOK anty-Antaryon: CEGLA 1 (potwierdzony m10d2, rzut 55 — dostawca wina afiliowany z Antaryonem go skubie). Ufa Symonowi. Dowod nie ironclad sam vs wielki dom => logika bloku.",
-   "ostatni_kontakt": "297-04-05",
-   "wie_o_graczu": [
-    "297-04-05 WIECZOR (rzut 94): Symon przyniosl wiesc, ze wino Aldousa KRYTE (uplasowane). Aldous gleboko ulzony/wdzieczny - zobaczyl konkretnie wartosc uslugi (spokojny sen+chroniony grosz), nie abstrakcje. OWOC: (1) chce puszczac KOLEJNE ladunki przez Symona (repeat), (2) CIEPLE POLECENIE - kupiec ze Schodow z partia na skrzydle flotylli, drzacy o ryzyko = naturalny broker-prospekt, Aldous posle Symona z dobrym slowem. Flywheel filaru krecil sie idealnie (zadowolony klient->repeat+referral->nastepny). nast 65->70, zauf 17->18."
-   ]
-  },
-  {
-   "id": "kupiec_denys_zbytek",
-   "imie": "Denys",
-   "zawod": "znaczny kupiec ze Schodow (braavijskie towary zbytku)",
-   "skad": "referral niszy m9d3; dostawcy zvettowani bezpieczni",
-   "nast": 9,
-   "nota": "skupiona premium weryfikacja mu wybitna — znaleziono udokumentowane skrocenie u jednego dostawcy; ZACHWYCONY, bedzie polecac dalej (flywheel przyspiesza); premium-imie faktorii/Symona na Schodach ugruntowane || m9d6: Symon probowal przekuc zachwyt w aktywne patronackie wyniesienie — grajac na ambicji Denysa + saczac 'most' do jego znajomych. Ale wykonanie (slabosc ludzka Symona) BYLO ZA WIDOCZNE: Denys, bystry, wyczul KALKULACJE pod uprzejmoscia; zostal kordialny ale OSTROZNIEJSZY (czyta Symona jako ambitnego, grajacego angle). Latwy zapal 'powiem swoim' OSTYGL. Nie wrog, lecz chlodniejszy klient; brak wyniesienia w gore.",
-   "nastawienie_do_gracza": 27,
-   "ostatni_kontakt": "297-04-02",
-   "zaufanie": 3,
-   "wie_o_graczu": [
-    "297-04-02 (rzut 44, skromny pas): Symon wrocil po ~33d - tym razem BEZ KATA, bez prosby, bez 'mostu'. Zwykla bezinteresowna wizyta rozbroila rezerwe, ktora sam zasial (m9d6 przesada). Denys, ktory spodziewal sie zagrania, dostal czyste 'nic nie biore' - chlod cofnal sie na wlos. Nie wrocil dawny zachwyt, ale zaczyna czytac Symona jako moze-jednak-nie-sam-angle. NAUKA Symona: z czlowiekiem czytajacym katy jedyny ruch to NAPRAWDE zaden kat. nast 23->27, zauf ->3 (poczatek)."
-   ]
   },
   {
    "id": "klika_zbozowa",

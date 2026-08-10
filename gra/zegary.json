@@ -244,6 +244,14 @@
    "odlicza_do": "297-04-30",
    "co_sie_stanie": "wieczor 04-30: Aldous u Symona - pojednanie, mozliwy powrot referrala/repeat",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "hobb_zaalarmowany",
+   "typ": "zagrozenie/okno",
+   "opis": "297-04-30: Hobb (zlodziej-brygadzista) ZAALARMOWANY - zlapal Symona przy swoich kwitach, wyczul ze pisarz cos wietrzy. Nie wie o komplecie dowodow, ale czujny. RYZYKA (nie manufaktura - emergentne z crit-7): moze (a) zaczac zacierac slady/niszczyc tally, (b) uprzedzic Aurane wlasna wersja (oczernic Symona - obcy skryba grzebie), (c) ruszyc fizycznie/przez dokowych na niewygodnego swiadka (Symon walka 6, bez oslony). CZYSTE OKNO Symona sie ZAMYKA - im dluzej zwleka z podaniem Aurane, tym gorzej. Odczyt kim Hobb jest dla Aurane pozostal NIEPELNY (dlugo osadzony, Aurane polega na nim mocno - naming bedzie ciosem w ktory Aurane nie zechce uwierzyc).",
+   "odlicza_do": "297-05-01",
+   "co_sie_stanie": "jesli Symon zwleka: Hobb zaciera slady albo uprzedza Aurane wlasna wersja - dowod slabnie, ryzyko rosnie",
+   "widoczny_graczowi": true
   }
  ]
 }

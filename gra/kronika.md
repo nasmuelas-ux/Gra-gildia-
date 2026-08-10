@@ -3939,3 +3939,6 @@ Symon spytal Owena o submisje do Winterfell. Owen z kanalow Wiary (cicha siec ku
 
 ## 297-03-29 RANEK — noc spokojna
 Symon pocwiczyl i przespal noc (zmeczenie 5). Nic pilnego nie odpalilo. Nadchodzace: osad Theomore ~04-03, pierwszy ladunek brokerski ubezp ~04-05, tratwy Halvarda ~04-05, wesele Brana ~04-07. Sytosc 52.
+
+## 297-03-29 RANEK — wetting: brak czystej roboty (fala sie wyczerpuje)
+Symon (nauka z wczoraj) wettowal PRZED wzieciem - i czyste roboty z flotylli okazaly sie juz wybrane (peak przeszedl); reszta dregsy albo klienci nie do czystego przeczytania dzis. Dyscyplina od drugiej strony: NIE wziete nic (pusty poranek tanszy niz zly klient). Odwrotnosc wczoraj (zly rzut=wzieta zla robota; dzis zly rzut=trzezwe 'nic czystego, odpusc'). Hal znow widzi, ze czasem wlasciwy ruch to NIE wziac. Sygnal: fala flotylli sie wyczerpuje -> przekierowac focus z grindu weryfikacji (broker ubezp ~04-05, sieci/zrodlo, Aurane z referencja Leony). Rzut 11. Sytosc 64, zmeczenie 12.

@@ -4002,3 +4002,6 @@ Wizyta u Denysa (znaczny kupiec zbytku, rzut 44). Bez kata, bez prosby - naprawa
 
 ### 297-04-02 WIECZOR (intel)
 Wieczorny wywiad (92): (1) tratwy Halvarda dni od miasta + flotylla sukna blisko - towar zaraz zaleje port (potwierdza rade dla Wata, dotknac Torsena). (2) Sprawa celna/Garth: CISZA na ulicy - firewall trzyma (dobra wiesc przed osadem Theomore 04-03). (3) Swiezy trop: nowo przybyly faktor szuka dyskretnego czlowieka od liczb (lead_nowy_faktor, tlo). Bez grosza, intel.
+
+### 297-04-02 WIECZOR (domkniecie)
+Symon rozwazyl wieczorna wizyte u Torsena, ale sie ROZMYSLIL (madrze - dzien juz pelny, Torsena lepiej na jasny poranek z konkretem). Zjadl, odpoczal. Torsen nietkniety (nast 50, ost 03-16). Dzien zamkniety: Aurane dostarczony (+9), Merek umowiony, Wat/Denys doradczo/naprawczo, intel 92.

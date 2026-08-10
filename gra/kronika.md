@@ -4393,3 +4393,6 @@ Symon wrocil tego samego dnia z faktem od Nesty (rzut 84): zelazo zywe, schronio
 
 ## 297-05-01 WIECZOR — Wenda: Bess i flotylla
 Wieczorna wizyta u Wendy w Rybim Zaulku (rzut 49). Cieplo, dosadnie. Bess wesele IDZIE - uczciwa umowa Symona rozbroila teschow (zapowiedzi puszczone), Wenda wdzieczna po swojemu. Lead z targu: braavijska flotylla sukna BLISKO, lada dzien wejdzie, kupcy drza o ladunek = leady pod broker ubezpieczen (m.in. Corl z polecenia Aldousa). nast 56->58, zauf 17. Flotylla-zegar podbity jako bliski. Licznik czyt+1 (140). Dzien 05-01 pelny (Boren/Nesta/Boren/Wenda).
+
+## 297-05-02 RANEK — Noc
+Sen po pelnym dniu. Bez dryfu wiezi (trwale). Przejscie 05-02 RANEK. W tle: flotylla sukna blisko (leady ubezpieczen), zelazo weather-bound na Bicie, Aurane trawi skim.

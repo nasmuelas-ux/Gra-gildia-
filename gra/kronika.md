@@ -4140,3 +4140,6 @@ Wieczorem kolacja + lekkie cwiczenia (kondycja/walka), wczesny dlugi sen. RANO 0
 
 ### 297-04-12 RANEK->POLUDNIE - broker frachtu: prospecting
 Symon prospektowal wychodzace ladunki do ubezpieczenia (rzut 48) - zlapal 1 solidny zawczasu (futra->Braavos flotylla), zwettowal, teed dla Nesty ~04-14 (3. cegla po Aldous/Rennick). Kilka 'pomysle' zasianych. Wybieral ryzyka (dyscyplina visibility). Placement RENNICKA poszedl - prowizja +2 jel (sakiewka 7). Track-record brokera rosnie.
+
+### 297-04-12 POLUDNIE->WIECZOR - Leona (brak roboty + sygnal widocznosci)
+Symon wpadl po robote do Leony (rzut 12) - nic teraz (jej ksiegi ok, wiosna rowna). Przy pozegnaniu przyjazny sygnal: ludzie zauwazaja ile Symon spina naraz. TRZECI glos (Nesta+Boren+Leona) o aggregate visibility. Watek aggregate_visibility. Dyscyplina: rozkladac, cicho. Leona 67 hold.

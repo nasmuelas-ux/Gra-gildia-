@@ -3972,3 +3972,6 @@ Wieczorem lazienka (~5 mied, rozmienil jelena) po dlugim zygzakowatym dniu - zmy
 
 ### 297-03-31 POLUDNIE
 Symon dostarczyl Nescie gotowy dowod niedowagi (rzut 30, skromny pas). Praca bez zarzutu, uznanie dla dyscypliny - ale suma mala, dostawca powtarzalny, wiec Nesta zabankowala korekte jako cicha dzwignie, nie gotowke. Lekcja: nie kazdy lap to grosz; buduje zaufanie. Upside: przy odwilzy kantor tonie w wolumenie, Nesta bedzie kierowac wiecej takich uzgodnien do Symona (staly strumien). nast 84->85.
+
+### 297-03-31 WIECZOR
+Po posilku i chwili odpoczynku Symon pomogl w sepcie (rzut 43) - spisywal za darmo prosby ubogich przygnietych odwilza (przednowek, zalane piwnice, chorzy). Zwyczajne dobro, standing Wiary cieply (73->74). Dzien pracowity zamkniety cicho i porzadnie.

@@ -65,6 +65,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` rollam_grubszy_wycinek: 297-04-11: 2. wycinek dowieziony z realnym catchem (rzut 75) - Rollam da GRUBSZY wycinek nastepnym razem + wis
 - ◆ `?` zelazo_gulltown_partia: 297-04-14: off-take Borena PODPISANY -> pipeline zelaza Gulltown rusza. Kantor Nesty puszcza skromna proba-par
 - ◆ `None` ubezp_tranzyt_wlasna_podaz: 297-04-27 (Nesta, wieczor, rzut 79): STRUKTURA UZGODNIONA. Odwilz uwidocznila ryzyko wodne tranzytu drewna na 
+- ◆ `None` aurane_przyslal_po_ksiegi: 297-04-29 WIECZOR: Aurane (klient premium z polecenia) PRZYSLAL sluzacego pod kamieniczke, gdy Symon byl u Ald
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

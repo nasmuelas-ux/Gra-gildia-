@@ -228,6 +228,14 @@
    "odlicza_do": null,
    "co_sie_stanie": "gdy rzeki stabilne: uruchomienie cienkiej skladki tranzytowej na parcelach zamkowych - recurring compound",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "aurane_przyslal_po_ksiegi",
+   "typ": "inbound/okazja",
+   "opis": "297-04-29 WIECZOR: Aurane (klient premium z polecenia) PRZYSLAL sluzacego pod kamieniczke, gdy Symon byl u Aldousa - wiosenne ksiegi gotowe do przejrzenia, prosi zeby Symon wpadl. INBOUND (swiat sam sie przypomnial). Recurring fee.",
+   "odlicza_do": null,
+   "co_sie_stanie": "gdy Symon pojdzie do Aurane: wiosenne ksiegi + recurring fee",
+   "widoczny_graczowi": true
   }
  ]
 }

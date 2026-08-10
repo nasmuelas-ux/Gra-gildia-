@@ -4363,3 +4363,6 @@ Wizyta odnawiajaca po 24 dniach poszla ZLE (rzut 1, kryt). Aldous, par kubkow w 
 
 ## 297-04-29 — KOREKTA (dwustronnosc Aldousa)
 Gracz slusznie: relacja w dwie strony. Urazka Aldousa autentyczna ale JEDNOSTRONNA - on tez nie ruszyl sie do Symona przez 24 dni; dwoch dumnych czekalo na pierwszy krok, wino sprawilo ze Aldous powiedzial pierwszy. Symon nie jest zlym przyjacielem; asymetria wizyt czesciowo strukturalna (Symon buduje/zarabia na sieci), ale nast 70 = przyjazn, reciprocity w obie strony. Droga: dac odetchnac, nie kajac sie - zobaczyc czy Aldous po trzezwemu sam zrobi ruch (dodana potrzeba po jego stronie). nast/zauf bez zmiany (wieczor byl realnie kwasny - rzut 1 stoi), tylko FRAMING wyprostowany.
+
+## 297-04-29 — SILNIK: mechanika INBOUND (korekta gracza)
+Gracz: "w tej grze ja musze do wszystkich chodzic, nikt sie nie przypomina - tak to nie wyglada w zyciu". SLUSZNE - lamalo zasade, ze NPC maja wlasna agency i dzialaja pod nieobecnosc gracza. FIX na stale: co ture sprawdzac INBOUND (kto sam przychodzi/przysyla poslanca/dopomina sie/przynosi robote), zakotwiczony w zywych watkach. Doktryna w swiat.json (mechanika_inbound), kolejka w ukryte/plany.json. DEMONSTRACJA: wieczorem gdy Symon byl u Aldousa, Aurane przyslal sluzacego - wiosenne ksiegi gotowe, prosi zeby wpadl (recurring fee). Swiat zapukal pierwszy.

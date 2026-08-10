@@ -57,5 +57,37 @@
  ],
  "sygnaly": [
   "12-23: faktor Harlona ze sieci wielkich domow skraca go w tym samym wzorcu gougingu co Aldous/Vox/fracht drewna - kolejny cichy klocek wzoru; nic nie ruszane, dane akumuluja"
+ ],
+ "inbound_kolejka": [
+  {
+   "kto": "boren_koladziej",
+   "co": "przysle wiesc gdy partia zelaza z Gulltown bedzie blisko/wejdzie (coalition glue)",
+   "kiedy": "gdy zelazo_gulltown_partia dojrzeje",
+   "zywy_watek": "zelazo_gulltown_partia"
+  },
+  {
+   "kto": "godric (zarzadca)",
+   "co": "przysle po Symona gdy Bialy Noz sie ustatkuje i mozna pinac nastepna parcele",
+   "kiedy": "gdy rzeki stabilne",
+   "zywy_watek": "zamek_dostawa_stala"
+  },
+  {
+   "kto": "rollam-peer (nowy faktor)",
+   "co": "odezwie sie za poleceniem Rollama (intro do ksiag) - jego ruch",
+   "kiedy": "~dni",
+   "zywy_watek": "rollam_grubszy_wycinek flywheel"
+  },
+  {
+   "kto": "wenda_rybia",
+   "co": "moze przyjsc w sprawie wesela Bess (jej potrzeba) lub miejsca na targu",
+   "kiedy": "~dni",
+   "zywy_watek": "wenda potrzeby"
+  },
+  {
+   "kto": "aldous",
+   "co": "MOZE po trzezwemu sam sie ruszyc/przeprosic (jego czesc rachunku) - reciprocity test",
+   "kiedy": "~dni",
+   "zywy_watek": "aldous dwustronnosc"
+  }
  ]
 }

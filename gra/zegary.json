@@ -302,6 +302,14 @@
    "odlicza_do": "297-06-05",
    "co_sie_stanie": "po terminie: kapital 50 jel + procent wraca (jesli default - egzekucja zastawu + kantor); ksiega moze byc reinwestowana/rozszerzona",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "kanal_polnoc_capacity",
+   "typ": "ograniczenie/decyzja",
+   "opis": "297-05-15 (Torsen, rzut 39): KANAL POLNOCNY NEAR CAPACITY - sukces przeciazyl podaz. Sol Harlona + drewno na zamek napina Halvarda/trakt (Polnoc daje tyle ile na sezon). Reliability=cala wartosc kanalu, peknie pierwsza jak przeladowac. Popyt (inni chca graded-supply) > podaz. FORK: (a) TEMPOWAC ekspansje (nie dokladac az podaz nadąży), (b) ZAINWESTOWAC w skalowanie gory (rece/tratwy/partnerzy u Halvarda - kapital, glebszy korzen polnocny). Torsen chce rozwiazac z Symonem. NIE przeladowac (bo reliability).",
+   "odlicza_do": null,
+   "co_sie_stanie": "decyzja: tempo vs inwestycja w podaz polnocna; przeladowanie = jam + utrata reliability",
+   "widoczny_graczowi": true
   }
  ]
 }

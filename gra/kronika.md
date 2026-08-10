@@ -4588,3 +4588,6 @@ Sen. Przejscie 05-15 RANEK. Filary mielą, weksle pracuja (zwrot ~06-05), Bank b
 
 ## 297-05-15 RANEK — Mira: prog przekroczony (pierwszy dotyk)
 Wizyta po ludzku w dobrym rytmie (rzut 65). Jak w dom, zero napiecia. Przy jej papierach reka Symona znalazla jej dlon - NIE COFNELA, zostawila; spojrzenie dluzsze niz miedzy obcymi. Bez wielkiego slowa (u Miry przychodza ostatnie nie pierwsze), ale PROG PRZEKROCZONY: niewypowiedziane-ale-pewne -> DOTKNIETE (gest, nie deklaracja). nast 65->69, zauf 24->26. Cos sie ulozylo na dobre. Staloscia+cierpliwoscia. Licznik czyt+1 (156). -> POPOLUDNIE.
+
+## 297-05-15 POPOLUDNIE — Torsen: kanal uderzyl w sufit podazy
+Reconnect z Torsenem (rzut 39). Cieply, ale szczery: kanal NEAR CAPACITY - dokladanie soli Harlona do drewna na zamek napina Halvarda/trakt polnocny ponad miare (Polnoc daje tyle ile na sezon). Reliability (cala wartosc kanalu) peknie pierwsza jak przeladowac. Inni tez chca graded-supply. Problem sukcesu: Symon spina popyt szybciej niz podaz rosnie. FORK: tempowac ekspansje ALBO zainwestowac w skalowanie gory (rece/tratwy/partnerzy u Halvarda - kapital, glebszy korzen polnocny). Torsen chce rozwiazac razem, zauf 13->14. Dobrze ze wyszlo teraz (przed jamem). Nowy zegar kanal_polnoc_capacity. Liczniki czyt+1 (157), organizacja+1 (102). -> WIECZOR.

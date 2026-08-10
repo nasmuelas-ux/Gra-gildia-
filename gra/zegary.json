@@ -267,16 +267,6 @@
    "zamkniety": true
   },
   {
-   "id": "theomore_osad",
-   "typ": "keystone",
-   "odlicza_do": "297-04-03",
-   "opis": "Maester Theomore bada dossier celne - decyduje, czy i jak zaniesc je lordowi Wymanowi jako jego interes (kradziony grosz). Ostrozny/establishmentowi lojalny, ale rama grosza lorda go boksuje (zbyć nie moze). Wynik: podejmuje sprawe -> oslona lorda -> keystone otwiera lord+refi+koalicja; albo zwleka/rozmydla.",
-   "co_sie_stanie": "osad Theomore -> keystone rusza (lord podejmuje) lub grzeznie na ostroznosci maestera",
-   "widoczny_graczowi": true,
-   "ryzyka_Nesty": "297-03-26 (Nesta): TAIL-RYZYKA foothold - (a) burial (establishment-lojalny maester odklada donikad); (b) slow leak istnienia dossier ku wielkiemu domu (kopia poza reka Symona; tarcza chroni jego, nie dokument); (c) refi zakladnikiem osadu Theomore (poza kontrola). Watch, nie swietowac. Master copy u Nesty zabezpieczyc.",
-   "ryzyko_zrodla": "297-03-28 (rzut 16): ZRODLO (Garth) KRUCHE - nerwowy tej wiosny (oko zamku wrocilo), a Symon nie moze go uspokoic prawda (firewall). Slaby punkt keystone: jesli sprawa wyplynie publicznie a Garth spanikuje -> moze sie zamknac/odciac/zrobic cos w strachu. Do zarzadzania: steady obecnosc, drobne dobra, gotowosc reagowania gdy sprawa pek-nie; NIE forsowac, NIE zdradzic. Czujnosc Nesty potwierdzona."
-  },
-  {
    "id": "ubezp_broker_pierwszy",
    "typ": "biznes",
    "odlicza_do": "297-04-05",
@@ -289,6 +279,11 @@
    "id": "merek_pogodzenie_ksiag",
    "termin": "297-04-04",
    "opis": "UMOWIONE (04-01): jawne pogodzenie ksiag spolki Merka, ~04-04 w kantorze Merka. FRAMING kluczowy (rada Symona): NIE 'audyt wspolnika' lecz 'rutynowe wiosenne pogodzenie ksiag OBU wspolnikow' - rowne, bezstronne, legalne/jawne (chroni relacje Merka + nie plosze wspolnika). ZAKRES: zwiekowac wspolne konta, uzgodnic zaznaczone zalegle/niespojne konto wspolnika ze zrodlami - rozdzielic czy to blad/timing czy odplyw. DYSKRECJA: znaleziska najpierw prywatnie Merkowi (firewall - sluzy pryncypalowi), zadnych otwartych oskarzen. Zadatek 2 jel wziety, saldo ~4-5 jel na dostawie."
+  },
+  {
+   "id": "keystone_korroboracja_frachtu",
+   "termin": null,
+   "opis": "297-04-03: Theomore ODROCZYL droge lorda (rzut 39) - zada niezaleznej korroboracji frachtu (rzeczywisty ladunek vs deklaracje) SPOZA audytu, zanim poniesie do Wymana. WYZWANIE: niezalezny dowod frachtu = wiecej od Gartha (kruche zrodlo, wieksza ekspozycja) ALBO bok, ktory Torsen zamknal (zbyt spleciony). Do przemyslenia z Nesta/Owenem: (a) jak zdobyc korroboracje bez spalenia Gartha, (b) czy w ogole isc droga lorda teraz, czy oprzec keystone na dzialajacych torach (cichy lewar dal juz ulge dlugu Nesty 11-27; koalicja; re-approach pryncypala z demonstrowana wygrana). Droga lorda NIE zamknieta, lecz gated na dowod frachtu."
   }
  ]
 }

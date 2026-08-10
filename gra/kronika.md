@@ -4005,3 +4005,6 @@ Wieczorny wywiad (92): (1) tratwy Halvarda dni od miasta + flotylla sukna blisko
 
 ### 297-04-02 WIECZOR (domkniecie)
 Symon rozwazyl wieczorna wizyte u Torsena, ale sie ROZMYSLIL (madrze - dzien juz pelny, Torsena lepiej na jasny poranek z konkretem). Zjadl, odpoczal. Torsen nietkniety (nast 50, ost 03-16). Dzien zamkniety: Aurane dostarczony (+9), Merek umowiony, Wat/Denys doradczo/naprawczo, intel 92.
+
+## 297-04-03 RANEK - OSAD THEOMORE
+Owen przyniosl slowo z zamku: Theomore NIE zaniosl sprawy lordowi (rzut 39). Ocenil dossier wysoko (kompetencja), ale zada niezaleznej korroboracji frachtu spoza audytu, zanim postawi imie przeciw domowi cenionemu przez lorda. BEZ przecieku/wrogosci - dokument lezy cicho, droga gated nie zamknieta. Ryzyko Nesty (maester zwleka) zmaterializowane lagodnie. Ciezar wraca na dzialajace tory (cichy lewar/koalicja/pryncypal); korroboracja = nacisk na kruchego Gartha. Do strategii z Nesta/Owenem. Theomore 10->11.

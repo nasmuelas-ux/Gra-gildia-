@@ -275,7 +275,7 @@
   },
   {
    "id": "refinansowanie_dlugu",
-   "opis": "CEL STRATEGICZNY (od d20): wyjsc spod Antaryonow nie przez outright splate (~90 smokow = niemozliwe/dekapitalizuje faktorie), lecz przez REFINANSOWANIE dlugu do niedrapieznego wierzyciela (ideal: Zelazny Bank Braavos — ceni czysta ksiege; realniej: mniejszy kanal / urosly wlasny kapital / Lorren lichwiarz). Nowy wierzyciel splaca Antaryonow -> traca smycz na Neste. WARUNEK WSTEPNY: standing + wiarygodnosc kredytowa (czysta ksiega, urosla, respektowana faktoria) = to samo 'stac mocniej', ktorego dzis braklo. HACZYK: Antaryonowie moga bronic dlugu (hak do przejecia jej) — exit ich sprowokuje. To dlugofalowe (sezony).",
+   "opis": "CEL STRATEGICZNY (od d20): wyjsc spod Antaryonow nie przez outright splate (~90 smokow = niemozliwe/dekapitalizuje faktorie), lecz przez REFINANSOWANIE dlugu do niedrapieznego wierzyciela (ideal: Zelazny Bank Braavos — ceni czysta ksiege; realniej: mniejszy kanal / urosly wlasny kapital / Lorren lichwiarz). Nowy wierzyciel splaca Antaryonow -> traca smycz na Neste. WARUNEK WSTEPNY: standing + wiarygodnosc kredytowa (czysta ksiega, urosla, respektowana faktoria) = to samo 'stac mocniej', ktorego dzis braklo. HACZYK: Antaryonowie moga bronic dlugu (hak do przejecia jej) — exit ich sprowokuje. To dlugofalowe (sezony). || 297-04-03: droga LORDA (Theomore->Wyman) ODROCZONA - maester zada korroboracji frachtu spoza audytu (rzut 39). Keystone-eskalacja do lorda gated. Ciezar wraca na dzialajace tory: cichy lewar (dal juz partial ulge dlugu Nesty), koalicja, re-approach pryncypala z wygrana. Korroboracja = napiecie na Garcie (kruche zrodlo) - do strategii z Nesta.",
    "typ": "cel_strategiczny",
    "termin": null,
    "wobec": "nesta_braavijka",

@@ -4447,3 +4447,6 @@ Sen. Przejscie 05-05 RANEK. Okno utrzymalo - cala weather-bound flota dobila nar
 
 ## 297-05-05 POPOLUDNIE — Zelazo dowiezione: coalition cementowana
 Do Borena po zelazo (rzut 87). Sztaby zeszly z galery; Symon spial landing/rozdzial czysto - off-take DOMKNIETY, cech dostal tanie zelazo bez laski Antaryonow. Boren ULGA+TWARZ: reczyl przed braćmi, dowiozl; slowo w cechu uroslo, a z nim Symona (cech wie przez czyja glowe: 'gadales prosto, przyniosles zelazo - nie zapomna'). +4 jel cienka marza (-> 36 jel), cech_kol rep 27->30, Boren nast 81->85 zauf 24. Pasywny bleed lewaru Antaryona (nie wojna - kropla). Proof dla Harlona gotowy (oszczednosc frachtu w kolumnie). Liczniki organizacja+1 (96), handel+1 (120). -> POPOLUDNIE.
+
+## 297-05-05 POPOLUDNIE — Harlon: 'pokaz mi' -> pokazane
+Do Harlona z proofem (rzut 57). Oszczednosc frachtu (Gulltown vs Antaryon) czarno na bialym w kolumnie, ktora Symon celowo zbudowal. Twardy przekonany konkretem ('no. widze. tanieje.') - z brick-luzem na SOLIDNY sojusznik. Zloto: sam chce puszczac SOL tanszym kanalem = +wolumen kanalu, +bleed Antaryona, koalicja re-cementowana KONKRETEM nie cierpliwoscia. Zaplacil reszte fee bez zrzedzenia (+3 jel -> 39 jel). Erozja koalicji (parked keystone) ODWROCONA. nast 40->46, zauf 17. Liczniki rachunki+1 (182), retoryka+1 (108). -> WIECZOR.

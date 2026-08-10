@@ -1233,8 +1233,8 @@
    "przydomek": "",
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
-   "nastawienie_do_gracza": 40,
-   "zaufanie": 15,
+   "nastawienie_do_gracza": 46,
+   "zaufanie": 17,
    "wie_o_graczu": [
     "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca",
     "d23 (rzut 71): reconnect na konkrecie (nie czulosci - twardy solarz). Audyt Symona (faktor go skracal) przekonal go na tyle, ze chce STALEJ uslugi zarzadczej - wziety jako zakotwiczony klient pod DYSKRECJA, za uczciwa cene. Zadatek 2 jel, robota przy ksiegach niebawem. Kontrolowany wzrost pilaru (znany/zaufany kontakt, nie glosny inbound).",
@@ -1245,9 +1245,10 @@
     "297-03-20 RANEK (rzut 5, cienki scout->wejscie na slepo): Symon wpadl po ludzku, bez interesu - ale trafil Harlona w paskudnym humorze (frachtowy faktor Antaryona przycisnal go tej wiosny mocniej, liczy straty). Dla twardego pragmatyka bezinteresowna pogawedka to zgrzyt: \"czego chcesz, na gadanie nie mam glowy\". Wyplynela frustracja czesciowo NA Symona: \"wywęszyles gdzie mnie okradaja, i co z tego? dalej krwawie, a wasza sprawa spi - duzo gadania, malo sie dzieje\". Bez atutu/konkretu Symon nie rozbroil tego, wycofal sie - sojusznik bardziej podrazniony niz ogrzany. NAUKI: (1) agenda-less wizyty grają u cieplych sentymentalistow (Garth/Aldous), NIE u zimnych pragmatykow mid-frustracji; (2) twarde cegly koalicji SIE NIECIERPLIWIA - stala sprawa spi, keystone spring-gated, a oni dalej krwawia. nast 41->37, zauf 14 hold.",
     "297-04-25 (rzut 12): Harlon WYSTYGL/ZWATPIL - twarda cegla co chciala RUCHU, a sprawa Antaryona milczy od zimy (miesiace ciszy) + Symon zniknal na 36 dni. 'Bylo minelo, wielki dom dalej robi swoje, nikt go nie ruszyl; ja handluje sola nie obietnicami'. Nie wrogi, ale cegla POLUZOWALA. Linia 'cierpliwosc/pozycja' brzmi cienko po miesiacach. KOSZT PARKOWANIA ZWORNIKA: koalicja ma date waznosci, twarde cegly luzuja w uspieniu (Harlon=kanarek). nast 37->30.",
     "297-04-25 WIECZOR (przygotowanie 64 + rzut 62): Symon wrocil z KONKRETEM (nie cierpliwoscia). Uczciwe zlevel-owanie ('zniknalem za dlugo, cisza slusznie cie zniechecila' - twardy szanuje rownanie) + konkret (tanie zelazo Gulltown idzie, podcina fracht Antaryona, zobaczysz w kosztach) + reframe (frontalny atak=samobojstwo, cichy bleed=dziala). Harlon RE-OSADZONY na stopie 'pokaz mi': 'zelazo uwierze jak zobacze w ksiedze, ale to wiecej niz gadanie; ze gadales prosto - doceniam'. Erozja ZATRZYMANA. NAUKA: blok w uspieniu karmic KONKRETEM (spoiwo-zysk), nie cierpliwoscia. nast 30->37.",
-    "297-05-02 (rzut 50): Symon ustawil ksiegi zarzadcze premium - czysto, kolumna do kolumny, fracht ROZBITY OSOBNO (celowo: tam iron-oszczednosc Antaryona bedzie widoczna gdy partia wejdzie). Harlon zrzedzi o koszcie ale docenil fach ('porzadniej niz mialem'), zaplacil czesc (+4 jel), reszta na dostawie. Premium/dyskretne/recurring. Spoiwo koalicji czeka w kolumnie frachtu. nast 37->40, zauf 14->15."
+    "297-05-02 (rzut 50): Symon ustawil ksiegi zarzadcze premium - czysto, kolumna do kolumny, fracht ROZBITY OSOBNO (celowo: tam iron-oszczednosc Antaryona bedzie widoczna gdy partia wejdzie). Harlon zrzedzi o koszcie ale docenil fach ('porzadniej niz mialem'), zaplacil czesc (+4 jel), reszta na dostawie. Premium/dyskretne/recurring. Spoiwo koalicji czeka w kolumnie frachtu. nast 37->40, zauf 14->15.",
+    "297-05-05 (rzut 57): PROOF POKAZANY - oszczednosc frachtu (Gulltown vs Antaryon) czarno na bialym w jego wlasnej kolumnie. Twardy przekonany konkretem ('no. widze. tanieje.') - z brick-luzem na SOLIDNY sojusznik. Sam chce puszczac SOL tanszym kanalem (=+wolumen kanalu, +bleed Antaryona). Zaplacil reszte fee bez zrzedzenia (+3 jel). Erozja koalicji odwrocona konkretem. nast 40->46, zauf 15->17."
    ],
-   "ostatni_kontakt": "297-05-02",
+   "ostatni_kontakt": "297-05-05",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",
    "status": "BLOK anty-Antaryon: CEGLA 3 (potwierdzony d12, rzut 80 — faktor z sieci wielkich domow go skraca). SOLIDNY, zly-bez-strachu (odwrotnie niz Marlon) = wzmacnia kregoslup bloku. Ufa Symonowi, zaplacil.'",
    "historia": [

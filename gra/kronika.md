@@ -3909,3 +3909,6 @@ Trzecie zlecenie, Hal na fali (dom+pierwszy grosz) puszczony na dluzsza smycz - 
 
 ## 297-03-27 — KOREKTA ksiag (3. zlecenie)
 Poprawka: 'grosza brak' z poprzedniego wpisu bylo bledne. Skoro Symon zlapal blad Hala w nadzorze i sprostowal PRZED wyslaniem do klienta, klient dostaje czysta poprawna robote -> fee sie nalezy (~2 jel, ratowana wiec skromne). Prawdziwy koszt rzutu 9 = koszt alternatywny (godziny Symona na naprawe zamiast innej roboty) + bliskie ryzyko wstydu pod marka + nauka, NIE utrata gotowki. Sakiewka 35->37 jel.
+
+## 297-03-27 — UZGODNIENIE SAKIEWKI
+Wykryty blad ksiegowy: fee ~3 jel z 2. zlecenia (rzut 57) bylo narrowane (32->35) ale nie zapisane do plikow. Dopisane. Bilans dnia: 29 (start) +3 (Leona) +3 (2. zlecenie) +2 (3. zlecenie ratowane) = 37 jel. Sakiewka teraz 37 jel.

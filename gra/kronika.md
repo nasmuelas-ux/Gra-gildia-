@@ -4300,3 +4300,6 @@ Kanal zamkowy huczy (rzut 88) - dostawy na normie, spory zniknely, prowizja nara
 
 ## 297-04-25 RANEK
 Noc przespana. Faza cichej konsolidacji, silnik huczy (kanal drewna, Aurane, Rollam, uzgodnienia). W tle: zelazo Gulltown w drodze, Wick uczy sie, Mira slow-burn, ogrod kielkuje, Ulric czeka na okazje. Zwornik zaparkowany. Depozyt 140 jel.
+
+### 297-04-25 WIECZOR - Harlon wystygl (koszt parkowania)
+Harlon (rzut 12) WYSTYGL/ZWATPIL - twarda cegla co chciala ruchu, sprawa milczy od zimy (miesiace) + 36 dni neglect. 'Handluje sola nie obietnicami'. Cegla poluzowala (nie odlamana). KOSZT PARKOWANIA ZWORNIKA: koalicja ma date waznosci, twarde cegly luzuja w uspieniu. Do przemyslenia (tending/spoiwo-zysk/sygnal). nast 37->30.

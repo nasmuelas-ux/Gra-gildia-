@@ -1227,7 +1227,7 @@
    "przydomek": "",
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
-   "nastawienie_do_gracza": 37,
+   "nastawienie_do_gracza": 30,
    "zaufanie": 14,
    "wie_o_graczu": [
     "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca",
@@ -1236,9 +1236,10 @@
     "297-02-03 (rzut 39): Symon poprosil o wprowadzenie do Merka z interesem. Harlon (zadowolony klient, ale ostygl 6 tyg, pragmatyk) zgodzil sie POLOWICZNIE - otworzy drzwi+dobre slowo, ale mocno nie zawetuje ('grasz to sam'). Ostrzegl: Merek KWASNY o odpuszczony trop (gada). Chce przysługi za przysługę (trzymac jego znajomosc ciepla, dalsza dbalosc). nast 32->33.",
     "297-02-03: jego intro do Merka zadzialalo (Symon naprawil relacje przez interes). Symon winien mu dbalosc (przysluga za przysluge).",
     "297-02-05 (rzut 26): Symon dolozyl Harlonowi wycinek uslugi zarzadczej na splate przysługi. MALEJACE ZWROTY - wielki wyciek (fracht/faktor) juz zlapany przy 1. podejsciu, drugie przejscie=okruchy ('tos mi juz mowil'). + Harlon nieswoj, ze Symon zna jego ksiegi ZBYT dobrze - powiernik cudzych liczb budzi czujnosc klienta (witness-risk od strony klienta); grzbiet sie usztywnil ('dosc zagladania'). Przysluga spłacona CIENKO (nie krzywda, nie cieplo); ledger ledwo wyrownany. nast 33 (bez zmian, letnio).",
-    "297-03-20 RANEK (rzut 5, cienki scout->wejscie na slepo): Symon wpadl po ludzku, bez interesu - ale trafil Harlona w paskudnym humorze (frachtowy faktor Antaryona przycisnal go tej wiosny mocniej, liczy straty). Dla twardego pragmatyka bezinteresowna pogawedka to zgrzyt: \"czego chcesz, na gadanie nie mam glowy\". Wyplynela frustracja czesciowo NA Symona: \"wywęszyles gdzie mnie okradaja, i co z tego? dalej krwawie, a wasza sprawa spi - duzo gadania, malo sie dzieje\". Bez atutu/konkretu Symon nie rozbroil tego, wycofal sie - sojusznik bardziej podrazniony niz ogrzany. NAUKI: (1) agenda-less wizyty grają u cieplych sentymentalistow (Garth/Aldous), NIE u zimnych pragmatykow mid-frustracji; (2) twarde cegly koalicji SIE NIECIERPLIWIA - stala sprawa spi, keystone spring-gated, a oni dalej krwawia. nast 41->37, zauf 14 hold."
+    "297-03-20 RANEK (rzut 5, cienki scout->wejscie na slepo): Symon wpadl po ludzku, bez interesu - ale trafil Harlona w paskudnym humorze (frachtowy faktor Antaryona przycisnal go tej wiosny mocniej, liczy straty). Dla twardego pragmatyka bezinteresowna pogawedka to zgrzyt: \"czego chcesz, na gadanie nie mam glowy\". Wyplynela frustracja czesciowo NA Symona: \"wywęszyles gdzie mnie okradaja, i co z tego? dalej krwawie, a wasza sprawa spi - duzo gadania, malo sie dzieje\". Bez atutu/konkretu Symon nie rozbroil tego, wycofal sie - sojusznik bardziej podrazniony niz ogrzany. NAUKI: (1) agenda-less wizyty grają u cieplych sentymentalistow (Garth/Aldous), NIE u zimnych pragmatykow mid-frustracji; (2) twarde cegly koalicji SIE NIECIERPLIWIA - stala sprawa spi, keystone spring-gated, a oni dalej krwawia. nast 41->37, zauf 14 hold.",
+    "297-04-25 (rzut 12): Harlon WYSTYGL/ZWATPIL - twarda cegla co chciala RUCHU, a sprawa Antaryona milczy od zimy (miesiace ciszy) + Symon zniknal na 36 dni. 'Bylo minelo, wielki dom dalej robi swoje, nikt go nie ruszyl; ja handluje sola nie obietnicami'. Nie wrogi, ale cegla POLUZOWALA. Linia 'cierpliwosc/pozycja' brzmi cienko po miesiacach. KOSZT PARKOWANIA ZWORNIKA: koalicja ma date waznosci, twarde cegly luzuja w uspieniu (Harlon=kanarek). nast 37->30."
    ],
-   "ostatni_kontakt": "297-03-20",
+   "ostatni_kontakt": "297-04-25",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",
    "status": "BLOK anty-Antaryon: CEGLA 3 (potwierdzony d12, rzut 80 — faktor z sieci wielkich domow go skraca). SOLIDNY, zly-bez-strachu (odwrotnie niz Marlon) = wzmacnia kregoslup bloku. Ufa Symonowi, zaplacil.'",
    "historia": [

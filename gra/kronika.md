@@ -4504,3 +4504,6 @@ Wieczorem cwiczenia (kondycja/walka liczniki+1, progi: kondycja 114<125 hold 7, 
 
 ## 297-05-09 RANEK — ZLOTY SMOK (kamien milowy)
 Sniadanie. Wplata 6 jel do Nesty -> depozyt 20088 mied = 200 jel = PRZEKROCZONY 1 ZLOTY SMOK (kurs 1 smok=200 jel). Symon spytal czy ma smoka - Nesta potwierdzila: chlopak co zaczynal od miedziakow ma teraz zlotego smoka (rzecz, ktorej wielu smallfolk nie widzi w zyciu). Kamien milowy. Wolne przy sobie: 6 jel + 66 mied.
+
+## 297-05-09 RANEK — Wick: przelom (nadzieja stala sie faktem)
+Do Wicka uczyc (rzut 94, przelom). Cwiczyl sam lewa reka: pisze CZYTELNIE (koslawo ale pismo, nie bazgroly), czyta plynnie z modlitewnika, napisal swoje imie caly lewa. Nadzieja stala sie faktem - zycie nie skonczylo sie pod kolem tokarskim. Spytal czy moglby z pisania zyc - MOGLBY, bystry, aptytuda realna: przyszly pisarz/klerk (jak Hal - drugi mlody podniesiony do pisma, moze kiedys u Symona). Ripple: Boren (druga droga dana kalekiemu chlopcu - kolodziej nie zapomina). Temat: pismo jako DAR nie oreż. nast 33->46, zauf+. Liczniki pismo+1 (118), czyt+1 (151). -> POPOLUDNIE.

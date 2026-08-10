@@ -1787,15 +1787,16 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 33,
-   "zaufanie": 8,
-   "ostatni_kontakt": "297-04-27",
+   "nastawienie_do_gracza": 46,
+   "zaufanie": 12,
+   "ostatni_kontakt": "297-05-09",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
     "297-04-14: Symon zaczal uczyc go liter (zdrowa reka) - Wick chlonie z celem w oczach, robi cos zamiast czekac czy dlon wroci. Chain Owen->Symon->Wick zywy. Druga droga sie zaczyna.",
     "297-04-21: kolejna lekcja - Wick robi postepy (zdrowa reka kresli cale slowa), NAPISAL SWOJE IMIE ('WICK'), dumny jak nigdy. Pierwszy kamien drugiej drogi. Cel zamiast rozpaczy.",
-    "uczy go liter mimo zmiazdzonej dloni"
+    "uczy go liter mimo zmiazdzonej dloni",
+    "297-05-09 RANEK (rzut 94): PRZELOM. Wick cwiczyl sam lewa reka - pisze CZYTELNIE (koslawo ale to pismo, nie bazgroly), czyta plynnie z modlitewnika. Napisal swoje imie caly, lewa. Nadzieja stala sie faktem: zycie nie skonczylo sie pod kolem. Spytal: mogl by z pisania zyc? MOGLBY - bystry, aptytuda realna (przyszly pisarz/klerk jak Hal - drugi mlody ktorego Symon podniosl do pisma). nast 33->46, zauf +."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   },

@@ -4074,3 +4074,6 @@ Symon zostal i swietowal z ludem jak swoj (tanczyl niezdarnie, pil, jadl). Zaule
 
 ### 297-04-07 WIECZOR - trzezwe rozmowy na uczcie
 Symon odstawil piwo, wytrzezwial, zostal do konca ROZMAWIAJAC z ludem portu (rzut 68). Poglebil wiezi + wychwycil pluls nabrzeza: kupcy duszeni wolumenem (leady forensyka/uzgodnienia) + ladunki do zlapania zawczasu (broker, nauka po Rennicku). Reputacja statecznego/trzezwego. Watek nabrzeze_tropy_wiosna. Zmeczenie w gore (dlugi dzien).
+
+## 297-04-08 RANEK
+Noc przespana po weselu. RANO 04-08: zwornik zaparkowany (Owen grzeje Theomore), Garth na dystansie, filary (broker/forensyka/uzgodnienia) do rozwijania; tropy z nabrzeza. Dzien otwarty.

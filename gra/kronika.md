@@ -4113,3 +4113,6 @@ Symon dal Halowi waski mandat na drobne uzgodnienie (rzut 15) - Hal NIE przeholo
 
 ### 297-04-10 - ksiegowo: fee zlecenia Hala
 Drobne uzgodnienie: fee klienta ~2 jel DO ZEBRANIA na dostawie ~04-11 (nie zebrane wieczorem). Model Hala (platny terminator): fee do Symona, Hal bierze mala dzialke (~1 jel), Symon netto ~1 jel. Nieefektywnosc (Symon domykal) = swiadomy koszt mentoringu. Nalezność zapisana (hal_zlecenie_fee ~04-11), by nie zawisla.
+
+## 297-04-11 RANEK
+Noc przespana. DZIS: zebrac fee zlecenia Hala (~2 jel, dostawa). Jutro (~04-12) Nesta plasuje ubezpieczenie Rennicka. ~04-13 pierwsza dostawa zamkowa + prowizja. Zwornik zaparkowany (Owen grzeje Theomore), Garth na dystansie.

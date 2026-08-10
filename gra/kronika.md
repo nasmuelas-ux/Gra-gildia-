@@ -4194,3 +4194,6 @@ Symon zagral 1+2 u Voxa (rzut 47): przekierowanie narracji (nudny dyskretny rach
 
 ### 297-04-15 WIECZOR - Vox: brak roboty (restraint)
 Symon spytal Voxa o pomoc (rzut 19) - nic pilnego (ksiegi ustawione). Prawie podsunal re-audyt, ale Symon odpuscil (okruchy+witness-fatigue, nie busy-work). Restraint > spinanie roboty bez wartosci (spojne z niskim profilem). Vox 58 hold.
+
+## 297-04-16 RANEK
+Noc przespana. Faza cichej konsolidacji (niski profil po 3 sygnalach + Ulric). W toku: pipeline zelaza Gulltown (proba-partia), Donnel na fundament za dnia, kanal zamkowy recurring na normie, Wick uczy sie liter. Zwornik zaparkowany.

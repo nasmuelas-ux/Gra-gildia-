@@ -21,7 +21,7 @@
     "ze wnuk umrze jak jej corka",
     "eksmisja przez wlasciciela kamienicy"
    ],
-   "nastawienie_do_gracza": 49,
+   "nastawienie_do_gracza": 52,
    "zaufanie": 11,
    "wie_o_graczu": [
     "umie pisac",
@@ -49,10 +49,11 @@
     "297-03-17 RANEK (rzut 23, jej chudy poranek): Symon wpadl po ludzku, ale trafil Serle zgryziona - poddasze WCIAZ PUSTE, podsuniety lokator sie NIE ZDECYDOWAL (waha sie, oglada inne izby), a pusty pokoj przy odwilzy to dla wdowy cichy niepokoj o grosz. Symon NIE napieral z 'pomoca' (nauka z 02-17) - usiadl, sluchal, spokojnie przypomnial, ze lokator wciaz realny (odwilz dopiero ruszyla, wroci). Nie usunelo trosk, ale rozrzedzilo. 'Dobrze, ze przyszedl, synku' - obecnosc wazy u niej wiecej niz rada. Kontakt odswiezony, nast 46->47, zauf 11 hold.",
     "297-03-30 POLUDNIE (rzut 88, czysty): Symon wpadl po ludzku w poranek pelnej odwilzy. DOBRA WIESC u Serli - poddasze WRESZCIE WYNAJETE: podsuniety przez Symona lokator (porzadny, czekal na wiosne) w koncu sie wprowadzil, wlasny czynsz, wlasny uklad. Cichy niepokoj o grosz z 03-17 ZDJETY - dom lzejszy, ogien szczodrzejszy. Tom (wnuk) zdrowy, struga przy stole. Serla dumna 'po swojemu', nakarmila Symona (goscinnosc), trzymala przy ziemi cieplym smiechem ('siadaj, synku, wychudl znowu'). Balsam bez interesu - jego ziemska kotwica. nast 47->49, zauf 11 hold.",
     "297-04-07 RANEK (rzut 8, zla pora): Symon wpadl po trzezwe slowo przed weselem Brana - ale trafil Serle w weselnym rozgardiaszu (rece w ciescie, Tom pod nogami, sasiadki wolaja). Cieplo jak zawsze, ale NIE MA JAK - odeslala go lagodnie 'nie dzis synku, o swoim pomyslisz jak kurz opadnie, nie w dzien gdy inni tancza'. Brak rady, ZERO szkody (wiez solidna). Nauka: wesela nie sa na wlasne rozmyslania. nast 49 hold.",
-    "297-04-07 (wesele): Serla, poupychawszy garnki, siadla obok Symona z kubkiem - matczyna duma po swojemu. Cieply wspolny moment na uczcie (naprawia poranna zla pore). nast hold cieplo."
+    "297-04-07 (wesele): Serla, poupychawszy garnki, siadla obok Symona z kubkiem - matczyna duma po swojemu. Cieply wspolny moment na uczcie (naprawia poranna zla pore). nast hold cieplo.",
+    "297-04-21 WIECZOR (rzut 82): cieply grounding wieczor. Tom zdrow/urosl (struga konika), zimowa goraczka przeszloscia. Serla nakarmila, trzymala przy ziemi smiechem ('nie zadzieraj nosa, pamietam cie glodnego'). Matczyna kotwica - Symon po prostu czlowiek. Grunt (echo Owena: kochaja go za to kim jest). nast 49->52."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-04-07",
+   "ostatni_kontakt": "297-04-21",
    "cechy_mowy": "cieplo, ale zaraz o pieniadzach; mowi 'synku', wzdycha",
    "nota": "DAWNA gospodyni Symona (już u niej nie mieszka — przeniósł się do Septy); nadal przyjaciółka, wnuk chorowity",
    "historia": [
@@ -933,9 +934,12 @@
    "id": "wnuk_serli_tom",
    "imie": "Tom",
    "zawod": "chorowity wnuk Serli (8 lat)",
-   "nastawienie_do_gracza": 7,
+   "nastawienie_do_gracza": 10,
    "nota": "URATOWANY WCZESNIEJ (m8d30): gorączka pekla dzieki uzdrowicielce+lekom, ktore Symon oplacil ANONIMOWO przez Wiare; Serla wierzy, ze uratowala go Matka + nieznany dobroczynca — NIE WIE, ze to Symon (godnosc). Watek ROZWIAZANY pozytywnie. Odtad: dziecko FRAJLE/chorowite z natury, ale ZYWE i zdrowiejace; ostatni ze krwi Serli (corka=matka Toma zmarla, ojciec przepadl). [KOREKTA: moje 'chory gorzej, ratuj od nowa' m10d4 = DRYF, uniewazniony]",
-   "ostatni_kontakt": "296-12-12"
+   "ostatni_kontakt": "297-04-21",
+   "wie_o_graczu": [
+    "297-04-21: zdrow, rumiany, urosl - struga drewnianego konika, pokazal Symonowi z duma. Zimowa goraczka przeszloscia."
+   ]
   },
   {
    "id": "kapitan_braavijski",

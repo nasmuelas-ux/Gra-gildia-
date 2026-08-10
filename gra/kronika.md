@@ -4258,3 +4258,6 @@ Symon obsial ogrodek (rzut 78) z Jonna (zna sie na roli, doglada za dzielenie pl
 
 ### 297-04-21 POLUDNIE->WIECZOR - sluzba + lekcja Wicka + Owen
 Sluzba w sepcie + lekcja Wicka (rzut 45) - Wick napisal swoje imie, dumny (pierwszy kamien drugiej drogi). Owen lekka gruntujaca rozmowa (kontrast do Winterfell): uznanie dla cichego dobra Symona ('pamietasz skad przyszedles, przedluzasz lancuch - to zostaje'). Symon lzejszy, na wlasciwym torze. Wick 28->31. Owen 86 hold.
+
+### 297-04-21 WIECZOR - Serla i Tom
+Cieply grounding wieczor u Serli (rzut 82). Tom zdrow/urosl (struga konika), goraczka przeszloscia. Serla nakarmila, trzymala przy ziemi. Matczyna kotwica, Symon po prostu czlowiek (echo Owena: kochaja za to kim jest). Serla 49->52, Tom 7->10. Niskoprofilowe/ludzkie.

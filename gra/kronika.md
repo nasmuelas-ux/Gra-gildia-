@@ -4342,3 +4342,6 @@ Sniadanie (syt 0->). Poranne zlecenia pisarskie z Halem (rzut 39). Wolny odwilzo
 
 ## 297-04-28 POPOLUDNIE — Rollam, polecenie pada
 Do Rollama po nastepny wycinek (rzut 77, czysty). Rollam kontent z czystej, dyskretnej roboty w koncu DAJE INTRO do peera - drugiego faktora swojego poziomu. Top-tier flywheel odpalil. +5 jel rozliczone (-> 23 jel wolne), nowy wycinek ksiag w reku. Nast 43, zauf 14. CIEN: Symon prowadzi juz dwa top-tier faktory - aggregate visibility gestnieje, dyscyplina (nudno, rozkladac, cicho). Liczniki rachunki+1 (177), audyt+1 (124), czyt_ludzi+1 (133); progi sprawdzone - bez awansu. -> WIECZOR.
+
+## 297-04-28 WIECZOR — Weksel Wenda: droga posrednia
+Wend (statek wszedl 3 dni temu, dluznik oddal polowe) klada czesc srebra - to timing, nie oszustwo. Symon wybiera DROGE POSREDNIA: bierze czesc teraz, reszte przedluza POD DROBNA OPLATA za zwloke, zastaw trzyma do pelnej splaty. Sprawiedliwy-a-nie-miekki. +3 jel marza brokerska (-> 26 jel). Port rep +2 -> 30 (imie brokera, co pracuje z toba I zarabia). Wend wdzieczny: nast +8 -> 26, zauf +3. MECHANIZM KREDYTOWY DOWIEDZIONY JAKO DOCHODOWY - ostatni brakujacy element pilota domkniety. Reszta+oplata do nowiu (~05-12). Liczniki prawo+1 (166), handel+1 (114), czyt_ludzi+1 (134); progi sprawdzone - bez awansu.

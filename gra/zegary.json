@@ -261,10 +261,11 @@
   {
    "id": "belarno_okno",
    "typ": "okazja",
-   "opis": "297-05-02: galera Belarna (linia pryncypala Nesty; dojscie do agenta/klucznika Zelaznego Banku, uznal Symona za rzetelnego audytora 296-11) jest wsrod weather-bound, wejdzie z oknem pogodowym. Gdy wejdzie = w zasiegu wraca angle Zelaznego Banku. Symon zasial sie na przystani, mowi po braavijsku (zyczliwosc zalogi). NEXT: zlapac Belarna gdy galera wejdzie. || 297-05-04: okno otwarte - galera Belarna wejdzie w ciagu dnia-dwoch (Zelazny Bank w zasiegu). || 297-05-05 (rzut 85): GALERA BELARNA WESZLA. Belarno w porcie - dojscie do agenta/klucznika ZELAZNEGO BANKU w zasiegu, uznal Symona za rzetelnego audytora. NEXT: zlapac Belarna, angle Zelaznego Banku.",
+   "opis": "297-05-02: galera Belarna (linia pryncypala Nesty; dojscie do agenta/klucznika Zelaznego Banku, uznal Symona za rzetelnego audytora 296-11) jest wsrod weather-bound, wejdzie z oknem pogodowym. Gdy wejdzie = w zasiegu wraca angle Zelaznego Banku. Symon zasial sie na przystani, mowi po braavijsku (zyczliwosc zalogi). NEXT: zlapac Belarna gdy galera wejdzie. || 297-05-04: okno otwarte - galera Belarna wejdzie w ciagu dnia-dwoch (Zelazny Bank w zasiegu). || 297-05-05 (rzut 85): GALERA BELARNA WESZLA. Belarno w porcie - dojscie do agenta/klucznika ZELAZNEGO BANKU w zasiegu, uznal Symona za rzetelnego audytora. NEXT: zlapac Belarna, angle Zelaznego Banku. || 297-05-05 (rzut 67): reconnect udany, Belarno PORECZY do agenta Zelaznego Banku na slowo Symona. Angle otwarty (watek zelazny_bank_angle). Zdefiniowac ask z Nesta zanim zapukac.",
    "odlicza_do": null,
    "co_sie_stanie": "Belarno w porcie - kontakt + Zelazny Bank w zasiegu",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "status": "reconnect - angle otwarty"
   },
   {
    "id": "wyllam_proba",

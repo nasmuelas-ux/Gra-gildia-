@@ -4399,3 +4399,6 @@ Sen po pelnym dniu. Bez dryfu wiezi (trwale). Przejscie 05-02 RANEK. W tle: flot
 
 ## 297-05-02 RANEK — Port: za wczesnie na leady
 Symon zszedl na doki spinac ubezpieczenia flotylli (rzut 12). Plotka Wendy wyprzedzila prawde: wiatr sie przekrecil, flotylla NIE u wejscia, grzeznie na tej samej wiosennej wodzie co zelazo, ETA niepewne. Kupcy wyczekuja (nie drza=nie kupuja), ryzyka statku o niepewnym statusie nie wycenisz. Corl (polecenie Aldousa) poznany, ale slowo winiarza jeszcze nie dotarlo - grzeczny-wymijajacy, SEED nie deal. Stracony poranek, zero szkody (rynek nie dojrzal - byl za wczesnie). Nowy NPC Corl (orbita). Leady dojrzeja gdy flotylla realnie blisko. Liczniki handel+1 (115), spryt+1 (122). -> POPOLUDNIE.
+
+## 297-05-02 POPOLUDNIE — Harlon: ksiegi zarzadcze
+Symon ustawil Harlonowi (solarz) ksiegi zarzadcze premium (rzut 50). Czysto, kolumna do kolumny; fracht ROZBITY OSOBNO - celowo, bo tam iron-oszczednosc Antaryona bedzie widoczna gdy partia wejdzie ('pokaz mi' dostaje miejsce gdzie sie pokaze). Harlon zrzedzi o koszcie ale docenil fach ('porzadniej niz mialem'), zaplacil czesc (+4 jel -> 19 jel), reszta na dostawie. Premium/dyskretne/recurring, spoiwo koalicji czeka w kolumnie. nast 37->40, zauf 15. Liczniki rachunki+1 (179), organizacja+1 (95). -> WIECZOR.

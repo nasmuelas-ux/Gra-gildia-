@@ -2,16 +2,16 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-05-02 POPOLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-05-02 WIECZOR · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 15 jeleni + 204 mied + 0 smokow
+- **Wolne:** 19 jeleni + 204 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 50 · Zmeczenie 15
+- Zdrowie 100 · Sytosc 40 · Zmeczenie 30
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 8 · organizacja 7 · audyt 8
@@ -40,7 +40,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark
 - ◆ `296-11-05` zima_ubodzy: ODPALIL (11-05): pierwszy twardy mroz uderzyl w ubogich Bialego Portu. Relief z 11-04 czesciowo zlagodzil (Eln
 - ◆ `296-11-05` audyt_frachtu_zbior: CZESCIOWY CZYT (11-05, rzut 39): dane Gartha pokazuja, ze deklaracje frachtu/cla drewna sa ZAWYZONE/niespojne 
-- ◆ `296-12-26` harlon_ksiegi: Ustawic ksiegi zarzadcze Harlona (solarz) - usluga premium pod dyskrecja. Reszta fee na dostawie.
+- ◆ `296-12-26` harlon_ksiegi: Ustawic ksiegi zarzadcze Harlona (solarz) - usluga premium pod dyskrecja. Reszta fee na dostawie. || 297-05-02
 - ◆ `296-12-31` relief_zapasy_cienieja: Zapasy reliefu cienieja (gleboki mroz + dodatek kolodziejow, spad mrozu d25 popyt>podaz). Jesli zimowa fala po
 - ◆ `296-12-29` petycja_lord_relief: PLAN (Owen rzut 97): petycja do lorda Wymana o wsparcie zimowego reliefu - framing PORZADEK+reputacja (nie lit
 - ◆ `296-12-31` poznanie_miry: Nesta aranzuje poznanie z MIRA - pretekst: pomoc jej z ksiegami po mezu + braavijskimi papierami handlowymi (z

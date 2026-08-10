@@ -4107,3 +4107,6 @@ Symon skoordynowal z Torsenem pierwsza parcele zamkowa (rzut 82) - gladko, czyst
 
 ### 297-04-10 POLUDNIE->WIECZOR - broker: Rennick zawczasu
 Symon zlapal Rennicka ZAWCZASU (rzut 85) - ladunek outbound jeszcze na kei, podszedl przed rejsem (nauka z 04-06). Rennick zrozumial wartosc, konwersja na klienta. Zwettowany forensic, teed dla Nesty do uplasowania ~04-12. 2. transakcja brokerska po Aldousie - track-record rosnie. nast 8->20, zauf 6. Prowizja z uplasowania.
+
+### 297-04-10 WIECZOR - Hal (przekorygowany ku bojazliwosci)
+Symon dal Halowi waski mandat na drobne uzgodnienie (rzut 15) - Hal NIE przeholowal (dyscyplina trzyma), ale przekorygowany ku BOJAZLIWOSCI: grzeznie, pyta o kazdy krok, zamiera na wezle ponad poziom, niedoholowal. Mentoring flip 180: odbudowac pewnosc+doloc rzemiosla (nie sciagac, dodac luzu). Symon domknal z nim spokojnie bez gniewu. nast 83 hold. Nauka: po smyczy - luz.

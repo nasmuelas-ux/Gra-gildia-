@@ -4125,3 +4125,6 @@ Symon po off-take zelaza Gulltown (cech Borena) - midday warsztat (rzut 34): Bor
 
 ### 297-04-11 WIECZOR - Rollam 2. wycinek
 Symon dowiozl 2. wycinek ksiag Rollama (rzut 75) - czysto + realny catch (kontrahent niedoplaca + naleznosc starzejaca sie). 'Placisz za siebie' - zaufanie na raty rosnie, grubszy wycinek dalej + mozliwe polecenie do peerow. Saldo +5 jel (sakiewka 42). nast 30->36, zauf 11. UWAGA: off-take Borena wciaz czeka na wieczor.
+
+### 297-04-11 WIECZOR - wypadek w cechu (off-take odlozony)
+Symon przyszedl wieczorem po podpis off-take (dobra pora) - ale rzut 1: WYPADEK w cechu (czeladnik zmiazdzyl reke pod kolem tokarskim). Boren przy chlopcu. Symon nie wyciagal interesu - schowal papier, ZOSTAL i pomogl (pismo po uzdrowiciela, pare jeleni na lek, uzyteczne rece). Deed>paper: wiez stwardniala mimo przepadlego interesu. Boren 74->76, zauf 20. Off-take poczeka az cech ochlonie. Sakiewka 40 jel. Swiat ma wlasne sprawy.

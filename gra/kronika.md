@@ -4218,3 +4218,6 @@ Sync na swiezo (rzut 80). Nesta klasnela na dyscypline konsolidacji ('umiesz prz
 
 ### 297-04-17 WIECZOR - Owen o Winterfell (ciezka prawda)
 Symon po szeroki obraz do Owena (rzut 8) - dostal prawde zamiast pociechy: Winterfell=kamien w studnie bez dna, daleki long-shot prawdopodobnie NIEMY, poza reka Symona (miesiace albo nigdy). Owen z wlasnym niepokojem: puscili rzecz niebezpieczna/nieodwolywalna (Aemon/Starkowie), na sumieniu obu. Samotnosc sekretu zabolala - Symon wyszedl CIEZSZY. Owen 86 hold. Zmeczenie 30.
+
+## 297-04-18 RANEK
+Noc przespana (ciezar rozmowy o Winterfell rozrzedzony snem). RANO 04-18: faza cichej konsolidacji. W tle: zelazo Gulltown w drodze, kanal zamkowy recurring, Wick uczy sie liter, Donnel/fundament (niepilne). Zwornik zaparkowany, Winterfell=long-shot poza reka.

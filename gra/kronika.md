@@ -4071,3 +4071,6 @@ Slub zawarty (Owen udzielil). Bran stanal prosto (dzieki przeprowadzeniu Symona 
 
 ### 297-04-07 POLUDNIE->WIECZOR - uczta weselna
 Symon zostal i swietowal z ludem jak swoj (tanczyl niezdarnie, pil, jadl). Zaulek widzi mieszczanina, co nie zadziera nosa. Wenda dumna, rozglasza 'swoich pamieta'; Serla siadla obok (naprawa porannej zlej pory). Standing u ludu w gore (rep port +2). Czyste dobro, wrosniecie w zaulek. Sytosc/zmeczenie w gore (podpity, najedzony).
+
+### 297-04-07 WIECZOR - trzezwe rozmowy na uczcie
+Symon odstawil piwo, wytrzezwial, zostal do konca ROZMAWIAJAC z ludem portu (rzut 68). Poglebil wiezi + wychwycil pluls nabrzeza: kupcy duszeni wolumenem (leady forensyka/uzgodnienia) + ladunki do zlapania zawczasu (broker, nauka po Rennicku). Reputacja statecznego/trzezwego. Watek nabrzeze_tropy_wiosna. Zmeczenie w gore (dlugi dzien).

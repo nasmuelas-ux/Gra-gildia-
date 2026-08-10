@@ -3849,3 +3849,6 @@ Symon briefowal Hala pod wiosenny pipeline (weryfikacje/proste ksiegi) - ale isk
 
 ## 297-03-23 WIECZOR — rodzina Wendy: przeholowanie (jedynka)
 Symon wpadl do Bess i Dake'a po ludzku, ale na resztkach sil po gestym dniu (dossier, Owen, Nesta, Donnel, Hal). Dake na wodzie (wiosna, ryba - wroci pozno), Bess sama zmeczona. Symon wyzety - mamrotal, gubil watek, nie byl soba; balsam wyszedl niezreczny, bo przyszedl PUSTY. Bess z troska (nie uraza): 'wygladacie jakbyscie trzy noce nie spali, idzcie do domu, zajdziecie na swiezo'. Nic zepsute, nic zyskane. Rzut 1. LEKCJA DNIA: Symon przeholowal (Boren 5, Hal 18, teraz 1) - za duzo tur, za malo snu; przekraczanie granic = straty nie zysk. Czas domknac dzien. Bess nast 22 hold, Dake nieobecny. Sytosc 50, zmeczenie 48.
+
+## 297-03-24 RANEK — laznia, sen, pelny odpoczynek
+Symon zmyl dlugi dzien w lazni i przespal noc gleboko (zmeczenie 4) - wreszcie posluchal ciala. Off-take zelaza (~03-24 termin) NIE domkniety - kowale to powolna robota relacyjna, parked (nie event). Nic pilnego nie odpalilo. Przed skrzyzowaniem (~03-25 dach, ~03-26 Theomore, ~03-27 flotylla). Sytosc 54.

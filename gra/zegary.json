@@ -255,7 +255,8 @@
    "opis": "Zebrac PODPISANY off-take na zelazo z Gulltown (Boren + kowale, kazdy wlasne zamowienie, kompartmentalizacja). Po komplecie: kantor puszcza JEDNA skromna proba-partie (Nesta: korespondent+spedycja). Kapital-light, pre-sold, undercut frachtowego gougera.",
    "co_sie_stanie": "komplet off-take -> commit pierwszej proby-partii zelaza; tansze zelazo rzemieslnikom + cienka dzialka + zasila blok",
    "widoczny_graczowi": true,
-   "obstacle": "297-03-18: off-take kowali TRUDNIEJSZY niz zakladano (osobny cech, wlasne zrodla, nie na slowo; Boren nie zagoni ich mid-rush; flaga widocznosci). Sell-side \"locked\" dotyczyl tylko Borena. Wymaga wolniejszego, relacyjnego podejscia do kowali + spokojniejszej pory. Boren-wlasny off-take wciaz do domkniecia."
+   "obstacle": "297-03-18: off-take kowali TRUDNIEJSZY niz zakladano (osobny cech, wlasne zrodla, nie na slowo; Boren nie zagoni ich mid-rush; flaga widocznosci). Sell-side \"locked\" dotyczyl tylko Borena. Wymaga wolniejszego, relacyjnego podejscia do kowali + spokojniejszej pory. Boren-wlasny off-take wciaz do domkniecia.",
+   "nota_0324": "297-03-24 (termin): off-take NIE domkniety - kowale to powolna robota relacyjna (nie wiosenny mlyn); Boren-wlasny off-take wciaz do zlapania w spokojniejszej porze. Parked, nie event."
   },
   {
    "id": "ubezp_pilot_plasowanie",

@@ -4059,3 +4059,6 @@ Symon podszedl do Gartha idealnie (za dnia, puste rece, sprawa odlozona) - ale r
 
 ### 297-04-06 WIECZOR - Bran w przeddzien slubu
 Symon zastal Brana przerazonego obrzedem (nie slubem) - przeprowadzil go przez caly rytual, SPISAL akt malzenski (godnosc/pioro zamiast grosza) i dorzucil 3 jel do stolu. Bran przytloczony, 'nie zawiodę cie nigdy' - wiez ku rodzinnej. Czyste dobro po cierpkim dniu. nast 74->78, zauf 18. Sakiewka 20 jel. Jutro slub (Symon swiadek).
+
+## 297-04-07 RANEK - DZIEN SLUBU
+Noc przespana. Dzis wesele Brana i Alys - Symon swiadek. Pogodny wiosenny dzien.

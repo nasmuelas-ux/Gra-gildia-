@@ -4525,3 +4525,6 @@ Jedzenie+odpoczynek, potem wziety audyt Torhena (rzut 70, Godrikowe slowo). Pier
 
 ## 297-05-10 NOC — WHO na intake: sciana (systematyczny=proces, za murem zamku)
 Poglebienie po WHO (rzut 39). Wynik: ubytek SYSTEMATYCZNY - nie chciwy urzednik lecz cos wpisanego w PROCES przyjecia (metoda ważenia/zapisu), poziom nadzoru. Ale to ani oczyszcza ani skazuje Ulrica (proces=jego domena). WHO NIEROZSTRZYGNIETE z ksiag Torhena - odpowiedz w rejestrach zamku, za murem szafarza. WNIOSEK strategiczny: droga do WHO = droga do mostu - ostrozne podejscie do Ulrica jako NIOSACEGO-PROBLEM w jego skladach (probe=bridge; niewinny->face-saving win+strona zamkowa; winny->reakcja zdradzi ale go uprzedzasz). Liczniki audyt+1 (131), rachunki+1 (188). Glaboka noc.
+
+## 297-05-11 RANEK — Noc
+Sen. Przejscie 05-11 RANEK. Na stole: podejscie do Ulrica (probe+most) w sprawie skracania na intake zamku (audyt Torhena). Weksel Wenda ~05-12 (jutro).

@@ -4324,3 +4324,6 @@ Wizyta u Wendy (rzut 76, czytanie ludzi 8). Read folk-pulse: wsrod ludu imie Sym
 
 ## 297-04-27 RANEK
 Wieczorem cwiczenia (kondycja/walka - liczniki+1, progi sprawdzone: bez awansu). Noc przespana. Faza konsolidacji. W tle: zelazo Gulltown w drodze (=spoiwo koalicji), kanal drewna huczy, Aurane/Rollam/uzgodnienia, Wick uczy sie, Mira slow-burn plateau, ogrod kielkuje, Ulric czeka na okazje. Zwornik zaparkowany.
+
+## 297-04-27 RANEK — Wick i Septa
+Sniadanie (syt 0->65). Lekcja z Wickiem: zmiazdzona prawa dlon nie utrzymuje rylca (rzut 41/~45) - litery jak bazgroly, chlopak sie wstydzi. Symon (czyt_ludzi 8) lapie wstyd zanim przejdzie w rezygnacje, przekierowuje: najpierw czytanie, pisanie leva reka - wolno, bez pospiechu. Wick nast +2 -> 33. Potem sluzba w Sepcie pod publiczna opieka Owena (rzut 55) - spokojnie, rep wiara +1 -> 76. Liczniki: pismo+1 (113), czyt+1 (132), retoryka+1 (102); progi sprawdzone - bez awansu. Owen ostatni kontakt 04-27. Faza konsolidacji. -> POPOLUDNIE.

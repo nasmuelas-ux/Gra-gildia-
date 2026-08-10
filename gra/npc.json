@@ -535,7 +535,7 @@
     "297-04-21 WIECZOR (rzut 45): lekka gruntujaca rozmowa (kontrast do ciezkiej Winterfell). Owen uznanie dla cichego dobra Symona: 'dobrze robisz - nie tym co spinasz, lecz ze pamietasz skad przyszedles i przedluzasz lancuch; to zostaje po czlowieku nie prowizje'. Symon wyszedl lzejszy, ugruntowany. nast 86 hold."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-04-21",
+   "ostatni_kontakt": "297-04-27",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },
@@ -1763,14 +1763,15 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 31,
+   "nastawienie_do_gracza": 33,
    "zaufanie": 8,
-   "ostatni_kontakt": "297-04-21",
+   "ostatni_kontakt": "297-04-27",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
     "297-04-14: Symon zaczal uczyc go liter (zdrowa reka) - Wick chlonie z celem w oczach, robi cos zamiast czekac czy dlon wroci. Chain Owen->Symon->Wick zywy. Druga droga sie zaczyna.",
-    "297-04-21: kolejna lekcja - Wick robi postepy (zdrowa reka kresli cale slowa), NAPISAL SWOJE IMIE ('WICK'), dumny jak nigdy. Pierwszy kamien drugiej drogi. Cel zamiast rozpaczy."
+    "297-04-21: kolejna lekcja - Wick robi postepy (zdrowa reka kresli cale slowa), NAPISAL SWOJE IMIE ('WICK'), dumny jak nigdy. Pierwszy kamien drugiej drogi. Cel zamiast rozpaczy.",
+    "uczy go liter mimo zmiazdzonej dloni"
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   }

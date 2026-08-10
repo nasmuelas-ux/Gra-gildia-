@@ -249,7 +249,9 @@
    "opis": "Braavijska flotylla sukna spodziewana z pierwszym oknem pogodowym po odwilzy (cynk od Gartha + Leona). Na przyjscie: pierwsze wiosenne zamowienie Leony przez faktorie Nesty -> weryfikacja papierow dostawcy (Symon) + prowizja brokerska (stala linia budzi sie na sezon).",
    "co_sie_stanie": "flotylla dobija -> realizacja pierwszego wiosennego zamowienia sukna: weryfikacja + prowizja Symona; reaktywacja stalej linii",
    "widoczny_graczowi": true,
-   "przygotowanie": "Szablon prawny/struktura zamowienia GOTOWE (03-16). Na przyjscie zostaje weryfikacja dostawcy z manifestow + pieczec + prowizja."
+   "przygotowanie": "Szablon prawny/struktura zamowienia GOTOWE (03-16). Na przyjscie zostaje weryfikacja dostawcy z manifestow + pieczec + prowizja.",
+   "ODPALIL": "297-03-27: FLOTYLLA PRZYSZLA - braavijskie galery z suknem dobily. Linia sukna Leony aktywna (1. wiosenne zamowienie przez faktorie: weryfikacja papierow dostawcy + prowizja brokerska Symona). Grunt z 03-16 gotowy. Robota na dzis.",
+   "zamkniety": true
   },
   {
    "id": "zelazo_offtake",

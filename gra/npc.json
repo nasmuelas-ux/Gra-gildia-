@@ -1788,6 +1788,19 @@
     "uczy go liter mimo zmiazdzonej dloni"
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
+  },
+  {
+   "id": "kupiec_corl",
+   "imie": "Corl",
+   "stan": "mieszczanin",
+   "zawod": "kupiec ze Schodow - partia sukna na skrzydle braavijskiej flotylli",
+   "nastawienie_do_gracza": 0,
+   "zaufanie": 0,
+   "ostatni_kontakt": "297-05-02",
+   "wie_o_graczu": [
+    "297-05-02: poznany na dokach. Aldous obiecal polecenie ale jeszcze nie dotarlo. Corl grzeczny-wymijajacy: 'pogadamy jak flotylla blizej albo jak mi kto reczy'. Seed pod ubezpieczenia, nie deal. Drzy o ladunek sukna (na tej samej niepewnej wiosennej wodzie)."
+   ],
+   "cechy_mowy": "ostrozny, kupiecki, waha sie"
   }
  ],
  "orbita": [

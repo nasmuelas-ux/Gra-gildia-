@@ -4396,3 +4396,6 @@ Wieczorna wizyta u Wendy w Rybim Zaulku (rzut 49). Cieplo, dosadnie. Bess wesele
 
 ## 297-05-02 RANEK — Noc
 Sen po pelnym dniu. Bez dryfu wiezi (trwale). Przejscie 05-02 RANEK. W tle: flotylla sukna blisko (leady ubezpieczen), zelazo weather-bound na Bicie, Aurane trawi skim.
+
+## 297-05-02 RANEK — Port: za wczesnie na leady
+Symon zszedl na doki spinac ubezpieczenia flotylli (rzut 12). Plotka Wendy wyprzedzila prawde: wiatr sie przekrecil, flotylla NIE u wejscia, grzeznie na tej samej wiosennej wodzie co zelazo, ETA niepewne. Kupcy wyczekuja (nie drza=nie kupuja), ryzyka statku o niepewnym statusie nie wycenisz. Corl (polecenie Aldousa) poznany, ale slowo winiarza jeszcze nie dotarlo - grzeczny-wymijajacy, SEED nie deal. Stracony poranek, zero szkody (rynek nie dojrzal - byl za wczesnie). Nowy NPC Corl (orbita). Leady dojrzeja gdy flotylla realnie blisko. Liczniki handel+1 (115), spryt+1 (122). -> POPOLUDNIE.

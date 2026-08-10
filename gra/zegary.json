@@ -324,6 +324,14 @@
    "opis": "Pierwszy realny ladunek zwettowany przez Symona i uplasowany przez Neste u USTALONEGO braawijskiego ubezpieczyciela za prowizje (model broker-nie-underwriter). Buduje reputacje brokera dobrze-przesianych ryzyk. Znalezc zaufanego kupca z ladunkiem (skrzydlo flotylli).",
    "co_sie_stanie": "pierwsze brokerskie uplasowanie ryzyka -> prowizja + start reputacji brokera ubezpieczen",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "aurane_ksiegi",
+   "typ": "robota",
+   "odlicza_do": "297-04-02",
+   "opis": "Uporzadkowac ksiegi/inwentarz skladu Aurane (premium, dyskretny klient portowy; recurring). Zadatek 3 jel wziety, saldo (grubsze, wyzsza liga) na dostawie.",
+   "co_sie_stanie": "dostarczenie uporzadkowanych ksiag skladu -> saldo premium + recurring relacja + wejscie na poziom nabrzeza-magazynow",
+   "widoczny_graczowi": true
   }
  ]
 }

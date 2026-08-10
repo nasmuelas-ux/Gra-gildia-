@@ -4498,3 +4498,6 @@ Do Leony (rzut 76). Miala robote: bala sie ze dostawcy ja skracaja jako wdowe. W
 
 ## 297-05-08 WIECZOR — Godric: ksiegi + parcela + compound tranzytu
 Do Godrica (rzut 78). Ksiegi domu czysto (recurring). Biale Noz wrocil do rozsadku po oknie - NASTEPNA PARCELA drewna SPIETA (popyt Godric/podaz Torsen-Halvard/Symon koordynator), kanal znow mieli. Dodatkowo URUCHOMIONE ubezpieczenie tranzytu wlasnej podazy (cienki skim przez linie Nesty - compound Nesty zrealizowany: koordynacja + skim ryzyka wody z powrotem). +5 jel (-> 12 jel). Sol Harlona tez tym kanalem = bleed Antaryona; glabszy embed przy dworze (cicho wzmacnia lord-route). Godric nast 70. Liczniki rachunki+1 (185), organizacja+1 (99). -> noc.
+
+## 297-05-09 RANEK — Cwiczenia + noc
+Wieczorem cwiczenia (kondycja/walka liczniki+1, progi: kondycja 114<125 hold 7, walka 51<90 hold 6 - bez awansu). Sen. Przejscie 05-09 RANEK. Weksel Wenda ~05-12 (blisko).

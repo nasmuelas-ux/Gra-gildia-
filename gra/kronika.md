@@ -4173,3 +4173,6 @@ Noc przespana. DZIS: Nesta plasuje 3. ladunek brokerski (futra->Braavos) -> prow
 
 ### 297-04-14 RANEK->POLUDNIE - 3. ladunek nie poszedl
 Symon poszedl po prowizje z 3. ladunku (futra->Braavos) - NIE uplasowany (rzut 19): ubezpieczyciel grymasny (futra kradliwe/trasa daleka/straty wiosna), odmowa/skladka za wysoka, deal przepadl, prowizji brak. NIE blad wyceny - APETYT KAPITALU. NAUKA: broker ma pudla; dopasowac ladunek do apetytu (czyste/znane > egzotyczne/dalekie). Nesta 89 hold. Wolne 9 jel.
+
+### 297-04-14 POLUDNIE->WIECZOR - ksiegi domu + cichy koszt (Ulric)
+Symon robil ksiegi domu Godrica (rzut 12) - czysto, drobny grosz +3 jel. ALE cichy koszt wczorajszej wygranej o grad: ULRIC-SZAFARZ (jego over-grading skorygowany 04-13) URAZONY, patrzy spode łba - nieprzyjazne oko wewnatrz zamku z bliskim dostepem (visibility/witness-risk). Symon nie prowokuje, trzyma mandat, notuje wroga. Godric 70 hold. Ulric ustanowiony (nast -8). Watek ulric_urazony.

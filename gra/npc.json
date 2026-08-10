@@ -1774,6 +1774,15 @@
    "rola": "wielcy kupcy zbozowi (hoarderzy) — przyszli wrogowie",
    "nast": -4,
    "nota": "m9d8 rozpoznani na wylot (rzut 99): klika ~3-4 wielkich kupcow zbozowych pod Osgarem; POSTAWILI WSZYSTKO na to, ze niedobor potrwa — skupili/trzymaja ogromne zapasy, CZESC NA POZYCZONYM srebrze, licząc na glodowe ceny. SLABOSC: sa PRZEEKSPONOWANI — duza swieza dostawa zboza CRASHNIE cene i ich ZRUJNUJE (siedza na drogim/pozyczonym ziarnie). Zboze Symona = BRON, ktora moze ich zlamac (finansowo). REPUTACYJNIE: pala goodwill glodzac biedote — gdy przyjdzie relief pod egida Wiary, sa czarnymi charakterami. PEKNIECIE: jeden z kliki (mniejszy, nerwowy) mocno przeexponowany — mozliwy do odlamania. RYZYKO: potezni/ustawieni; JAK odkryja przychodzace zboze Nesty (ich zgube), beda probowac je SABOTOWAC / uderzyc w Neste/Symona -> TRZYMAC ZAMOWIENIE W SEKRECIE."
+  },
+  {
+   "id": "ulric_szafarz",
+   "imie": "Ulric",
+   "zawod": "szafarz domu lorda (Nowy Zamek) - podlegly Godricowi",
+   "nastawienie_do_gracza": -8,
+   "ostatni_kontakt": "297-04-14",
+   "nota": "URAZONY: 04-13 jego twardy grad pierwszej dostawy zamkowej zostal publicznie skorygowany papierem Symona + autorytetem Godrica - stracil twarz przez 'obcego skrybe'. 04-14: patrzy spode łba gdy Symon robi ksiegi domu ('co ten pismak tak gleboko w ksiegach'). NIEPRZYJAZNE OKO WEWNATRZ ZAMKU z bliskim dostepem = realny visibility/witness-risk przy niskim profilu Symona. Nie zaczepia, ale obserwuje/uraza. Do zarzadzenia: nie prowokowac, moze z czasem udobruchac/zneutralizowac, pilnowac by nie polaczyl sil z wrogami (cech?).",
+   "cechy_mowy": "oschly, urzedowy, urazona godnosc"
   }
  ]
 }

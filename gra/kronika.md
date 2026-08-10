@@ -4128,3 +4128,6 @@ Symon dowiozl 2. wycinek ksiag Rollama (rzut 75) - czysto + realny catch (kontra
 
 ### 297-04-11 WIECZOR - wypadek w cechu (off-take odlozony)
 Symon przyszedl wieczorem po podpis off-take (dobra pora) - ale rzut 1: WYPADEK w cechu (czeladnik zmiazdzyl reke pod kolem tokarskim). Boren przy chlopcu. Symon nie wyciagal interesu - schowal papier, ZOSTAL i pomogl (pismo po uzdrowiciela, pare jeleni na lek, uzyteczne rece). Deed>paper: wiez stwardniala mimo przepadlego interesu. Boren 74->76, zauf 20. Off-take poczeka az cech ochlonie. Sakiewka 40 jel. Swiat ma wlasne sprawy.
+
+### 297-04-11 WIECZOR - sync z Nesta
+Nesta (rzut 89) klasnela na strukture brokerska zamku (doktryna w reku Symona). SYNTEZA: kanaly Symona (drewno polnoc->zamek + zelazo Gulltown->cechy) omijaja frachtowy rackiet Antaryona = bierna presja parujaca jego dzwignie, zero ryzyka, spojne z parked keystone. Caution: aggregate visibility/widoczny wezel - rozkladac, cicho. nast 87->88. Zmeczenie 48, pora spac.

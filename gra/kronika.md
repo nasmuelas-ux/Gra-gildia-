@@ -4246,3 +4246,6 @@ Na swiezo z Halem (rzut 55) rozplatana rozbieznosc: sharp-practice na luznych wa
 
 ### 297-04-20 POLUDNIE->WIECZOR - narada 'nastepny ruch' (hamulec)
 Symon po nastepny ruch do Nesty (rzut 25) - dostal HAMULEC nie plan. Nesta wyczula niepokoj czlowieka na fali; 'nic nie jest teraz nastepne', dyscyplina=przestac siegac (garnek za duzo sciaga oko). Jedyny ruch: cichy compounding (ubezp tranzytu). Reszta: trwac/czekac na okazje. Cierpliwosc=ruch, niepokoj=do okielznania. Nesta 90 hold.
+
+### 297-04-20 WIECZOR - Mira (jakosciowy przeskok)
+Symon do Miry po ludzku (rzut 94) - najlepszy wieczor dotad. Rozmowa o zyciu, latwosc, smiech, 'dobrze razem'. Mira: 'dziwny czlowiek co nic nie chce' (=lubi). Slow-burn z peer-a w cieplo z ISKRA. Bez deklaracji, rosnie samo. Doktryna byc-nie-targowac wygrywa. nast 38->45, zauf 15. Niskoprofilowe/ludzkie.

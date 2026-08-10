@@ -4348,3 +4348,6 @@ Wend (statek wszedl 3 dni temu, dluznik oddal polowe) klada czesc srebra - to ti
 
 ## 297-04-29 RANEK — Noc
 Kolacja i sen. Pelny, ruchliwy dzien za soba (Godric/Hal/Rollam/Wend). Zmecz 0, syt 0. Faza konsolidacji - siec pracuje.
+
+## 297-04-29 RANEK — Wplata do Nesty
+Wplata 13 jel do depozytu u Nesty (14000 -> 15300 mied = 153 jel). Wolne: 13 jel + 204 mied. Poranek nadal otwarty; Symon glodny (syt 0). Nesta ostatni 04-29.

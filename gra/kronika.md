@@ -4152,3 +4152,6 @@ Symon do Owena po narade (rzut 25) - Owen zajety pastoralnie (ranny czeladnik z 
 
 ### 297-04-12 WIECZOR - rozmowa z Wickiem
 Symon usiadl przy rannym Wicku (czeladnik kolodziejow, rzut 74). Chlopak bez rodziny boi sie jutra (kolodziej bez reki=nikt). Symon dal mu wlasna droge: 'reka co nie utoczy kola utrzyma pioro' - zaproponowal nauke liter/rachunkow podczas rekonwalescencji (druga droga). Rozpacz->krucha nadzieja. Lancuch Owen->Symon->dalej, niskoprofilowe dobro. Wick w orbicie, watek wick_nauka. Zmeczenie 46, pora spac.
+
+## 297-04-13 RANEK
+Noc przespana. DZIS: pierwsza dostawa zamkowa (Halvard->Torsen->Symon broker->zamek) + PIERWSZA PROWIZJA z kanalu dworskiego. Jutro (~04-14) Nesta plasuje 3. ladunek brokerski. Off-take Borena czeka az cech ochlonie. Dyscyplina: aggregate visibility - cicho/rozkladac (3 sygnaly).

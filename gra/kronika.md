@@ -4044,3 +4044,6 @@ Nesta uplasowala ladunek wina Aldousa (zwettowany przez Symona) u ustalonego bra
 
 ### 297-04-05 WIECZOR - Aldous: wino kryte
 Symon powiedzial Aldousowi ze wino kryte (rzut 94). Gleboka ulga/wdziecznosc, zobaczyl wartosc uslugi. OWOC: repeat (kolejne ladunki przez Symona) + CIEPLE POLECENIE (kupiec ze Schodow z partia na skrzydle flotylli). Flywheel brokera kreci sie. nast 65->70, zauf 18. Nowy trop lead_broker_kupiec_flotylla.
+
+### 297-04-05 WIECZOR (2) - Torsen naprawiony
+Symon wrocil wieczorem do Torsena inaczej niz 04-02 (najedzony, konkret). Pierwsze tratwy Halvarda zeszly. Zaoferowal rece do liczb/kontraktow sezonu drewna (nie relacjonowal nowin). Chwycil - kanal drewna ciepło re-otwarty (rzut 61), follow-up gdy zwal zejdzie. nast 50->53, zauf 9. Naprawil wieczor z 04-02.

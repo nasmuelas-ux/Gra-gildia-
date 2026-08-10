@@ -271,11 +271,6 @@
    "opis": "297-04-03: Owen bierze relacje z maesterem Theomore na wlasna cierpliwa koscielna droge (tygodniami, Symon niewidoczny). Cel: dac szacunkowi maestera dojrzec / czekac az korroboracja frachtu przyjdzie z boku sama, BEZ palenia Gartha. Slow-burn, zero presji. Owen zasygnalizuje, jesli cos drgnie."
   },
   {
-   "id": "rollam_kolejny_wycinek",
-   "termin": null,
-   "opis": "297-04-08: proba zaliczona - Rollam dal NASTEPNY wycinek ksiag (zaufanie na raty). Dowozic czysto+dyskretnie by stopniowo otworzyc pelny premium kanal do niego i jego peerow. Pilnowac aggregate visibility (OPSEC)."
-  },
-  {
    "id": "zamek_dostawa_stala",
    "termin": null,
    "opis": "297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) przez Godrica. URUCHOMIC: skoordynowac PIERWSZA dostawe - podaz przez Torsena/Halvarda (kanal re-otwarty 04-05), popyt zamku (Godric). Symon = polaczenie/koordynator, marza+ksiegi domu. Recurring dochod + glebszy embed przy lordzie (cicho wzmacnia parked lord-route). || 297-04-10 (rzut 71): STRUKTURA BROKERSKA DOMKNIETA z Godrikiem. Zamek placi rynek za drewno; Symon bierze PROWIZJE per dostawa (skojarzenie+koordynacja, kapital-light, recurring). Brak ryzyka spreadu (broker nie kupiec). URUCHOMIC: skoordynowac pierwsza parcele przez Torsena/Halvarda (nastepna parcela, lead-time); prowizja poplynie z dostaw. || 297-04-10: URUCHOMIONY - pierwsza parcela skoordynowana (rzut 82), dostawa ~04-13, prowizja recurring rusza. Kanal operacyjny."
@@ -294,6 +289,11 @@
    "id": "boren_offtake_wieczor",
    "termin": "297-04-11",
    "opis": "297-04-11: Boren zgodzil sie co do zasady na off-take zelaza swojego cechu; PODPIS wieczorem u niego w domu (rozpisze ile/czego). Po podpisie: kantor (Nesta) puszcza skromna proba-partie z Gulltown (korespondent+spedycja), pre-sold, kapital-light, undercut gougera. Kowale osobno/powoli."
+  },
+  {
+   "id": "rollam_grubszy_wycinek",
+   "termin": null,
+   "opis": "297-04-11: 2. wycinek dowieziony z realnym catchem (rzut 75) - Rollam da GRUBSZY wycinek nastepnym razem + wisi polecenie do jego peerow (top-tier flywheel). Dowozic czysto+dyskretnie. Pilnowac aggregate visibility."
   }
  ]
 }

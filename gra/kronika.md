@@ -4122,3 +4122,6 @@ Symon z Halem dostarczyl+zebral fee drobnego zlecenia (rzut 91). Puscil Hala na 
 
 ### 297-04-11 POLUDNIE - Boren: off-take zelaza (zgoda, papier wieczorem)
 Symon po off-take zelaza Gulltown (cech Borena) - midday warsztat (rzut 34): Boren cieplo i w zasadzie ZA, ale podpis nie w biegu - 'przyjdz wieczorem, siadziemy porzadnie'. Zgoda co do zasady, papier wieczorem (Boren=dom/wieczor). Kowale osobno. nast 74 hold. Zegar boren_offtake_wieczor 04-11.
+
+### 297-04-11 WIECZOR - Rollam 2. wycinek
+Symon dowiozl 2. wycinek ksiag Rollama (rzut 75) - czysto + realny catch (kontrahent niedoplaca + naleznosc starzejaca sie). 'Placisz za siebie' - zaufanie na raty rosnie, grubszy wycinek dalej + mozliwe polecenie do peerow. Saldo +5 jel (sakiewka 42). nast 30->36, zauf 11. UWAGA: off-take Borena wciaz czeka na wieczor.

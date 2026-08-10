@@ -9,9 +9,9 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 37 jeleni + 90 mied + 0 smokow
+- **Wolne:** 42 jeleni + 90 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 40 · Zmeczenie 14
+- Zdrowie 100 · Sytosc 36 · Zmeczenie 22
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -69,11 +69,11 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-03-27` izba3_najem: Izba 3 kamieniczki gotowa pod najem (po re-roofie). Znalezc STABILNEGO lokatora (rada Miry: dobry dlugotermino
 - ◆ `?` keystone_korroboracja_frachtu: 297-04-03: Theomore ODROCZYL droge lorda (rzut 39) - zada niezaleznej korroboracji frachtu (rzeczywisty ladune
 - ◆ `?` owen_grzeje_theomore: 297-04-03: Owen bierze relacje z maesterem Theomore na wlasna cierpliwa koscielna droge (tygodniami, Symon nie
-- ◆ `?` rollam_kolejny_wycinek: 297-04-08: proba zaliczona - Rollam dal NASTEPNY wycinek ksiag (zaufanie na raty). Dowozic czysto+dyskretnie b
 - ◆ `?` zamek_dostawa_stala: 297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) prze
 - ◆ `?` zamek_pierwsza_dostawa: 297-04-10: pierwsza parcela zamkowa skoordynowana (Halvard->Torsen->Symon broker->zamek). Spływa Bialym Nozem,
 - ◆ `?` broker_rennick_plasowanie: 297-04-10: 2. ladunek brokerski (Rennick, outbound, zwettowany forensic) teed dla Nesty do uplasowania u ustal
 - ◆ `?` boren_offtake_wieczor: 297-04-11: Boren zgodzil sie co do zasady na off-take zelaza swojego cechu; PODPIS wieczorem u niego w domu (r
+- ◆ `?` rollam_grubszy_wycinek: 297-04-11: 2. wycinek dowieziony z realnym catchem (rzut 75) - Rollam da GRUBSZY wycinek nastepnym razem + wis
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

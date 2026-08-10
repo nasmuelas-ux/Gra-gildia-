@@ -4270,3 +4270,6 @@ Dowieziony grubszy wycinek ksiag Rollama (rzut 54) - czysto/dyskretnie, saldo +7
 
 ### 297-04-22 POLUDNIE->WIECZOR - zlecenie z Halem
 Kolejne uzgodnienie z Halem (rzut 50) - czysto, rutynowo, netto +3 jel. Hal prowadzi wiekszosc sam, coraz mniej asysty. Cichy silnik mieli. zauf ->43. Sakiewka 29 jel.
+
+### 297-04-22 WIECZOR - Bran i Alys (ulga chwycila)
+Wizyta u Brana (rzut 58) - 6 dni po pomocy dom oddycha: Alys zarabia u Jonny (igla), Bran z podniesiona pensja, wrocila lekkosc. Alys cieplejsza/smielsza. Rodzina stanela na nogi. Nakarmili Symona. Bran 81 hold. Niskoprofilowe/ludzkie.

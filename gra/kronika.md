@@ -4537,3 +4537,6 @@ Do Rollama po recurring (rzut 59). Wycinek dowieziony czysto (+6 jel -> 25 jel),
 
 ## 297-05-11 WIECZOR — Cech koladziejow: z protegowanego na pisarza cechu
 Praca w cechu (rzut 96). Procz zwyklej roboty Symon wylapal cichy PRZECIEK w ksiegach cechu - stara umowa na material, na ktorej cech od lat przeplaca; pokazal i zaproponowal jak zalatac, oszczedzil cechowi grosz. Nawet zadziorny starszy przekonany. Z 'protegowanego Borena' -> PISARZ CECHU ktoremu ufaja; caly cech kolodziejow (liczne, zakorzenione rzemioslo) = solidny sojusznik, cicha sila w koalicji anty-Antaryon. +3 jel (-> 28 jel), rep cech_kolodziejow 30->32. Intel przy pulpicie: rzemieslnicy klna na fracht Antaryona, tanie zelazo twoim kanalem = ulga (woda na mlyn). Liczniki rachunki+1 (190), prawo+1 (169). -> noc.
+
+## 297-05-11 WIECZOR — Kantor: praca + Hal sie broni
+Odpoczynek+herbata (zmecz 20), potem wieczorna praca w kantorze Nesty (rzut 74). Nawal faktorii - weryfikacje braavijskich papierow odrobione (+3 jel -> 31 jel), nisza weryfikacyjna mieli (Leona i inni plyna przez kantor, kawalek Symona jako wspolnika). HAL zadomowil sie w kantorze - chlonie od calego kantoru, mniej sie boi; Nesta: 'dobry chlopak i szybki, dobrześ go tu poslal' - delegacja sie broni. nast Hala ->89. Cicha dobra praca wspolnikow. Liczniki rachunki+1 (191), audyt+1 (133). -> noc.

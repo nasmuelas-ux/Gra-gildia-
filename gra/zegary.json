@@ -218,6 +218,14 @@
    "id": "zelazo_gulltown_partia",
    "termin": null,
    "opis": "297-04-14: off-take Borena PODPISANY -> pipeline zelaza Gulltown rusza. Kantor Nesty puszcza skromna proba-partie (korespondent Gulltown+spedycja), pre-sold pod off-take Borena, kapital-light, undercut frachtowego gougera Antaryona = tanie zelazo/ulga dla cechu kolodziejow. Rejs wschodnia trasa (Bite/Gulltown) - okno pogodowe (wiosna lepsza niz zima). Wynik: dostawa+ulga cechu; marza cienka (coalition-glue nie filar). Kowale osobno/powoli. Bierna presja na Antaryona (spojne z parked keystone)."
+  },
+  {
+   "id": "ubezp_tranzyt_wlasna_podaz",
+   "typ": "okazja",
+   "opis": "297-04-27 (Nesta, wieczor, rzut 79): STRUKTURA UZGODNIONA. Odwilz uwidocznila ryzyko wodne tranzytu drewna na zamek - Nesta (braavijska) przekuwa to w cichy compound: cienka warstwa UBEZPIECZENIA TRANZYTU na wlasnej podazy zamkowej. Zamek placi rynek, Symon koordynuje, a od ryzyka wody idzie chudy skim skladki (kapital-light, kumuluje sie po cichu). URUCHOMIC gdy: kanal Bialego Noza sie ustabilizuje po odwilzy + counterparty na underwriting (principal Nesty albo pool). Teraz: projekt gotowy, egzekucja po stabilizacji rzek.",
+   "odlicza_do": null,
+   "co_sie_stanie": "gdy rzeki stabilne: uruchomienie cienkiej skladki tranzytowej na parcelach zamkowych - recurring compound",
+   "widoczny_graczowi": true
   }
  ]
 }

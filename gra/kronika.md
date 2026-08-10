@@ -4330,3 +4330,6 @@ Sniadanie (syt 0->65). Lekcja z Wickiem: zmiazdzona prawa dlon nie utrzymuje ryl
 
 ## 297-04-27 POPOLUDNIE — Praca u Godrica
 Theomore zostawiony Owenowi (grzanie, cierpliwosc). Popoludnie u Godrica: ksiegi domu czyste (rachunki 9 niesie rutyne), prowizja z parceli 04-13 rozliczona (+4 jel -> 18 jel wolne). Koordynacja NASTEPNEJ parceli miekka (rzut 38) - pelna odwilz rozbila rzeki, kanal Bialego Noza chaotyczny, Torsen/Halvard bez twardej daty; okolicznosc odwilzy, nie blad Symona. Data plynna. Rep schody_zamkowe +1 -> 31. Liczniki rachunki+1 (174), organizacja+1 (94); progi sprawdzone - bez awansu. Godric ostatni 04-27. -> WIECZOR.
+
+## 297-04-27 WIECZOR — Herbata i Nesta
+Odpoczynek + herbata (zmecz 35->15, syt 45->40). Potem do Nesty. Rozmowa przekuwa dzisiejsza odwilzowa ekspozycje tranzytu w cichy ruch: cienka warstwa UBEZPIECZENIA TRANZYTU na wlasnej podazy zamkowej (rzut 79, czysty). Nesta (braavijka) uczy compoundu - zamek placi rynek, Symon koordynuje, od ryzyka wody idzie chudy skim skladki, kumuluje sie po cichu. Struktura uzgodniona; egzekucja gdy Bialy Noz sie ustabilizuje + counterparty na underwriting. Nowy zegar ubezp_tranzyt_wlasna_podaz. Nesta zaufanie +1 -> 43, ostatni 04-27. Liczniki handel+1 (113), rachunki+1 (175); progi sprawdzone - bez awansu.

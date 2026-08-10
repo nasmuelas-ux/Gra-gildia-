@@ -4164,3 +4164,6 @@ Symon skonsultowal z Nesta jak ustawic norme gradu (rzut 90). Kompletny szkielet
 
 ### 297-04-13 WIECZOR - domkniety grad + norma wpisana
 Symon domknal spor o grad (rzut 87) - przyniosl strukture Nesty. Sam przyznal uczciwy markdown na mokrym drewnie (integralnosc!), poprawil over-grading szafarza papierem+autorytetem Godrica. Prowizja +2 jel (cieńsza, uczciwa). WPISALI NORME GRADU na stale z Godrikiem I Torsenem (obiektywne sorty, grad-u-zrodla+tally, regula tranzytu/ubezpieczenie, Symon-arbiter). Crit-6 -> strukturalna wygrana; kanal z przyslugi w BIZNES. Godric 68->70 zauf 14, Torsen 57->59 zauf 11, rep zamek 8->9. Sakiewka 9 jel.
+
+### 297-04-13 WIECZOR - Donnel o fundamencie
+Symon spytal Donnela o fundament (rzut 37) - mistrz uspokoil w zasadzie ('to odwilz gada, fundament suchy/grunt wysoki, rysa w zaprawie nie w kamieniu'), ale wieczor/zmeczony - umowili wlasciwy oglad za dnia dla pewnosci. Amatorski niepokoj ostudzony, definitywne za dnia. Donnel 46 hold. Zmeczenie 46.

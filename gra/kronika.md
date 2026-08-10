@@ -4378,3 +4378,9 @@ Odpoczynek+prep popoludnie (zmecz 40->10, syt ->60). Wieczorem Aldous PRZYSZEDL 
 
 ## 297-05-01 RANEK — Nowy miesiac (tik szeroki)
 Noc przespana po dobrym dniu. Przejscie 04-30 -> 05-01, nowy miesiac (5). Dochod miesieczny kamieniczki netto ~+2 jel (czynsze izb 1-3 minus pensja Brana/utrzymanie) -> 15 jel wolne. TIK SZEROKI: nastawienie dryfuje -1 u cieplych, dawno niewidzianych (Boren 78, Leona 66, Vox 57, Merek 51, Serla 51, Ostyn 49, Donnel 45, Elna 42, Wat 32, Garth 32, Torren 29, Denys 27 i in.) - siec stygnie bez doglądania (temat gracza: trzeba tendowac). Domownicy (Bran/Jonna/Osric) bez dryfu (kontakt codzienny). draw_nesta nie w terminie (~05-19).
+
+## 297-05-01 — POPRAWKA: wiezi sa trwale (cofniety dryf)
+Gracz (powtornie): 'w sredniowieczu ludzie nie widzieli sie co tydzien'. SLUSZNE - cofnieto tik-szeroki dryf -1 (przywrocone nastawienia z npc.json sprzed tiku). Nowa doktryna w swiat.json (mechanika_wiezi): NIE ma cotygodniowego dryfu; nastawienie spada tylko przez ZDARZENIA (afront/zaniedbana obietnica/rywal), nie od kalendarza; cieple/glebokie wiezi lepkie. Domownicy ostatni_kontakt 05-01.
+
+## 297-05-01 RANEK — Boren: cieplo odbite od niepokoju o zelazo
+Symon przyszedl dogrzac przed dostawa (rzut 11). Trafil na Borena zzartego: proba-partia zelaza z Gulltown OPOZNIONA/zagrozona (przedwiosnie na Bite - sztormy/kra/przestoj w Gulltown; okolicznosc, nie wina). Boren rekczyl off-take przed cechem, dni mijaja, cieplo sie nie przyjelo, wiesc o Wicku kwitnie kiwnieciem. Symon nie pchal goodwillu - przyznal wlasny niepokoj, obiecal sprawdzic realny status u Nesty (fakt>plotka). Wiez cala (nast 79 hold), coalition-glue pod naciskiem. Licznik czyt+1. -> POPOLUDNIE.

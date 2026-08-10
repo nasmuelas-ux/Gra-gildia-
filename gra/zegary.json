@@ -219,7 +219,8 @@
   {
    "id": "zelazo_gulltown_partia",
    "termin": null,
-   "opis": "297-04-14: off-take Borena PODPISANY -> pipeline zelaza Gulltown rusza. Kantor Nesty puszcza skromna proba-partie (korespondent Gulltown+spedycja), pre-sold pod off-take Borena, kapital-light, undercut frachtowego gougera Antaryona = tanie zelazo/ulga dla cechu kolodziejow. Rejs wschodnia trasa (Bite/Gulltown) - okno pogodowe (wiosna lepsza niz zima). Wynik: dostawa+ulga cechu; marza cienka (coalition-glue nie filar). Kowale osobno/powoli. Bierna presja na Antaryona (spojne z parked keystone)."
+   "opis": "297-04-14: off-take Borena PODPISANY -> pipeline zelaza Gulltown rusza. Kantor Nesty puszcza skromna proba-partie (korespondent Gulltown+spedycja), pre-sold pod off-take Borena, kapital-light, undercut frachtowego gougera Antaryona = tanie zelazo/ulga dla cechu kolodziejow. Rejs wschodnia trasa (Bite/Gulltown) - okno pogodowe (wiosna lepsza niz zima). Wynik: dostawa+ulga cechu; marza cienka (coalition-glue nie filar). Kowale osobno/powoli. Bierna presja na Antaryona (spojne z parked keystone). || 297-05-01: proba-partia OPOZNIONA/zagrozona - wiesc do cechu ze ugrzezla (przedwiosnie na Bite: sztormy/kra/przestoj w Gulltown). Boren zzarty niepokojem (rekczyl przed cechem). Coalition-glue pod naciskiem. NEXT: Symon sprawdzi u Nesty (prowadzi spedycje) gdzie REALNIE partia - fakt vs plotka portowa.",
+   "co_sie_stanie": "sprawdzic u Nesty realny status partii; jesli utknela - zarzadzac oczekiwaniem cechu/Borena, nie obiecywac"
   },
   {
    "id": "ubezp_tranzyt_wlasna_podaz",

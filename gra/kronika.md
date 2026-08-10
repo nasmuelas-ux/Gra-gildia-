@@ -4303,3 +4303,6 @@ Noc przespana. Faza cichej konsolidacji, silnik huczy (kanal drewna, Aurane, Rol
 
 ### 297-04-25 WIECZOR - Harlon wystygl (koszt parkowania)
 Harlon (rzut 12) WYSTYGL/ZWATPIL - twarda cegla co chciala ruchu, sprawa milczy od zimy (miesiace) + 36 dni neglect. 'Handluje sola nie obietnicami'. Cegla poluzowala (nie odlamana). KOSZT PARKOWANIA ZWORNIKA: koalicja ma date waznosci, twarde cegly luzuja w uspieniu. Do przemyslenia (tending/spoiwo-zysk/sygnal). nast 37->30.
+
+### 297-04-25 WIECZOR (2) - Harlon odzyskany konkretem
+Symon wrocil do Harlona z przygotowanym katem (przyg 64 + rzut 62): uczciwe zlevel-owanie + KONKRET (tanie zelazo idzie, podcina fracht Antaryona) + reframe (cichy bleed vs samobojczy front). Harlon re-osadzony na stopie 'pokaz mi', erozja zatrzymana. NAUKA: blok w uspieniu karmic konkretem nie cierpliwoscia; zelazo landing = spoiwo koalicji. nast 30->37.

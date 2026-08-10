@@ -3828,3 +3828,6 @@ Symon poswiecil cichy dzien na rozwoj Hala - uczyl go METODY zarzadczej (wiekowa
 
 ## 297-03-22 WIECZOR — Boren: spoiwo przylozone, ale zegar cierpliwosci tyka
 Symon przyniosl Borenowi (u niego w domu, dobra pora) dobra nowine: korekta opalu/drewna -> tanszy wsad dla cechu wiosna. Boren rad ('to dobre, ludzie to poczuja'), spoiwo-zysk sie materializuje, przekaze blokowi. ALE uczciwy o niecierpliwosci: to PLASTER nie lekarstwo - twardzi (Harlon) chca widziec ze SPRAWA SIE RUSZA, nie tylko ze deska staniala; grosz kupuje cierpliwosc tydzien-dwa, nie na wieczność. Symon zrobil wlasciwa rzecz we wlasciwej porze (blok podlany, Boren cieplejszy), ale zegar cierpliwosci twardych cegieł tyka - keystone (spring-gated) musi w koncu drgnac. Rzut 43. Boren nast 72->74, zauf 18->19. Sytosc 42, zmeczenie 24.
+
+## 297-03-23 RANEK — noc spokojna, decyzja zapadla
+Symon zjadl i przespal noc (zmeczenie 5). DECYZJA: nie zwlekac dluzej z keystone - ruszyc sprawe celna. Sekwencja: (a) spakowac dossier (swieza glowa - precyzyjna, ryzykowna robota; zrodlo za firewallem, uramowane jako skradziony grosz lorda), potem (b) szukac wprowadzenia do oslony (lord przez Wylisa/Godrica, albo Wiara/Winterfell). Zelazna zasada: osloniac PRZED oskarżeniem. Cichy dzien - czas ruszyc. Sytosc 50.

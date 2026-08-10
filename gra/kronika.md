@@ -4291,3 +4291,6 @@ Symon wplacil 29 jel do depozytu u Nesty (akumulacja). Sakiewka 32->3 jel, depoz
 
 ## 297-04-24 RANEK
 Noc przespana. Faza cichej konsolidacji. W tle: zelazo Gulltown w drodze, kanal zamkowy recurring, Aurane ksiegi wiosny do zrobienia, Wick uczy sie, Mira slow-burn cieply, ogrod obsiany, Ulric czeka na okazje, Merek naprawiony. Zwornik zaparkowany. Depozyt 140 jel.
+
+### 297-04-24 RANEK->POLUDNIE - ksiegi Aurane z Halem
+Ksiegi wiosenne Aurane z Halem (rzut 63) - czysto + znaleziska (niezafakturowane skladowe, rozbieznosc rotacji), saldo +7 jel. Hal wszedl w premium/dyskretne zlecenia (trzymal milczenie), kolejny szczebel. Aurane 40->44 zauf 14. Recurring premium poglebiony. Sakiewka 9 jel.

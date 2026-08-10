@@ -4065,3 +4065,6 @@ Noc przespana. Dzis wesele Brana i Alys - Symon swiadek. Pogodny wiosenny dzien.
 
 ### 297-04-07 RANEK - Serla (zla pora)
 Symon (najedzony/umyty/w kaftanie) wpadl po rade do Serli przed weselem - zla pora (weselny rozgardiasz, rzut 8). Cieplo, ale nie ma jak; odeslala lagodnie 'o swoim pomyslisz jak kurz opadnie'. Brak rady, bez szkody. Nauka: nie dzien na wlasne rozmyslania. Serla 49 hold. Naprzod: slub pod septa.
+
+### 297-04-07 POLUDNIE - SLUB Brana i Alys
+Slub zawarty (Owen udzielil). Bran stanal prosto (dzieki przeprowadzeniu Symona 04-06). Symon swiadek, wpisal akt. Krotkie slowo: szczere ale sztywne (rzut 25 - pisarski zywiol nie mostek); zaulek cieplo bez porwania. Bran uslyszal serce. Czyny > toast; standing u ludu cichy plus z obecnosci jako swiadek. Uczta rusza. Bran 78 hold.

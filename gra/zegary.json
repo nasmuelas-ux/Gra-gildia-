@@ -167,12 +167,6 @@
    "zamkniety": true
   },
   {
-   "id": "wesele_bran_alys",
-   "opis": "Wesele Brana (dozorca kamieniczki) i Alys - Symon proszony jako swiadek/pisarz (spisac-odczytac slowa, stanac przy nim). Marker przynaleznosci Symona w miescie.",
-   "odpala": "297-04-07",
-   "typ": "ludzkie/wydarzenie"
-  },
-  {
    "id": "dach_ukonczenie",
    "typ": "remont",
    "odlicza_do": "297-03-25",

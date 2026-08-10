@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-04-07 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-04-07 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -58,7 +58,6 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` podatek_miejski: Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg maj
 - ◆ `?` weksel_pilot_wynik: Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli spl
 - ◆ `?` polnoc_halvard_wiesci: Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym 
-- ◆ `?` wesele_bran_alys: Wesele Brana (dozorca kamieniczki) i Alys - Symon proszony jako swiadek/pisarz (spisac-odczytac slowa, stanac 
 - ◆ `297-03-25` dach_ukonczenie: Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Sal
 - ◆ `297-04-05` polnoc_pierwsze_tratwy: Pierwsze wiosenne tratwy Halvarda w dol Bialego Noza (drewno/skory/futra) gdy rzeka pusci calkiem. Podaz niena
 - ◆ `297-03-18` nesta_ubezp_apetyt: Nesta sonduje braavijskie kontakty co do apetytu na ubezpieczenie frachtu wiosennego (czy jest popyt/po jakiej

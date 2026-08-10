@@ -4501,3 +4501,6 @@ Do Godrica (rzut 78). Ksiegi domu czysto (recurring). Biale Noz wrocil do rozsad
 
 ## 297-05-09 RANEK — Cwiczenia + noc
 Wieczorem cwiczenia (kondycja/walka liczniki+1, progi: kondycja 114<125 hold 7, walka 51<90 hold 6 - bez awansu). Sen. Przejscie 05-09 RANEK. Weksel Wenda ~05-12 (blisko).
+
+## 297-05-09 RANEK — ZLOTY SMOK (kamien milowy)
+Sniadanie. Wplata 6 jel do Nesty -> depozyt 20088 mied = 200 jel = PRZEKROCZONY 1 ZLOTY SMOK (kurs 1 smok=200 jel). Symon spytal czy ma smoka - Nesta potwierdzila: chlopak co zaczynal od miedziakow ma teraz zlotego smoka (rzecz, ktorej wielu smallfolk nie widzi w zyciu). Kamien milowy. Wolne przy sobie: 6 jel + 66 mied.

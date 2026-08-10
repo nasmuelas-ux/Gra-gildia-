@@ -4158,3 +4158,6 @@ Noc przespana. DZIS: pierwsza dostawa zamkowa (Halvard->Torsen->Symon broker->za
 
 ### 297-04-13 RANEK->POLUDNIE - pierwsza dostawa zamkowa (spor o grad)
 Symon (z Halem-obserwatorem) odbieral pierwsza parcele zamkowa (rzut 6) - Godrica brak, szafarz gradzil twardo (drewno podmokle po spywie, opal kwestionowany), wycena nizej; czlowiek Torsena protestuje. Symon nie tracil glowy - spisal sporne sorty pozycja-po-pozycji (prawo/forensyka), nie dal railroadowac zadnej strony. Ale dzis nie domkniete - prowizja wisi do powrotu Godrica (jedna miara gradu). NAUKA BROKERA: spinaj NORME JAKOSCI/grad, nie tylko podaz-popyt (szczelina). Hal widzial mistrza metodycznego w chaosie. Reputacja bez rupture.
+
+### 297-04-13 POLUDNIE->WIECZOR - Nesta: szkielet normy gradu
+Symon skonsultowal z Nesta jak ustawic norme gradu (rzut 90). Kompletny szkielet: obiektywne sorty uzgodnione z gory, grad-u-zrodla spisany (tally jedzie z parcela), regula ryzyka tranzytu=UBEZPIECZENIE (synergia filarow!), Symon=udokumentowany arbiter (fosa), wpisac raz w umowe. Spor -> struktura czyniaca kanal biznesem. Uzbrojony na Godrica+Torsena. nast 88->89.

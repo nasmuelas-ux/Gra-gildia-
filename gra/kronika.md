@@ -4276,3 +4276,6 @@ Wizyta u Brana (rzut 58) - 6 dni po pomocy dom oddycha: Alys zarabia u Jonny (ig
 
 ## 297-04-23 RANEK
 Noc przespana. Faza cichej konsolidacji trwa (silnik mieli, ludzkie kotwice mocne). W tle: zelazo Gulltown w drodze (~tygodnie od 04-14), kanal zamkowy recurring, Wick uczy sie, Mira slow-burn cieply, ogrod obsiany, Ulric czeka na okazje. Zwornik zaparkowany.
+
+### 297-04-23 RANEK->POLUDNIE - Merek: sprawa wspolnika poszla zle
+Symon sprawdzil sprawe wspolnika Merka (rzut 13) - poszla ZLE: konfrontacja->wspolnik sie zjezyl/awantura->GORZKI ROZLAM spolki. Merek potrzasniety (zdrada), nie wini Symona ('lepiej wiedziec, ale gorzko'). CIEN: wyrzucony wspolnik mamrocze 'skad wywechal' = faint wektor widocznosci (zrodlo oslonione, nie twarda ekspozycja). Forensyka tnie w dwie strony. Merek 50 hold.

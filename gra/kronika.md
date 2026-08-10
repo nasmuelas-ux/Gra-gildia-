@@ -3912,3 +3912,6 @@ Poprawka: 'grosza brak' z poprzedniego wpisu bylo bledne. Skoro Symon zlapal bla
 
 ## 297-03-27 — UZGODNIENIE SAKIEWKI
 Wykryty blad ksiegowy: fee ~3 jel z 2. zlecenia (rzut 57) bylo narrowane (32->35) ale nie zapisane do plikow. Dopisane. Bilans dnia: 29 (start) +3 (Leona) +3 (2. zlecenie) +2 (3. zlecenie ratowane) = 37 jel. Sakiewka teraz 37 jel.
+
+## 297-03-27 WIECZOR — Symon odprowadza Hala do Brana (kamieniczka=dom)
+Symon odprowadzil Hala do kamieniczki, przedstawil Branowi (dozorcy). Bran serdecznie ('nowy lokator, czlowiek pana Tally'ego!'), wzial chlopaka pod skrzydlo - pokazal dom, rytm, gdzie Jonna/Osric. Hal pierwszy raz ma drzwi, ktore zamyka jako GOSPODARZ nie sierota z przydzialu. Zawiazuje sie siec: ludzie Symona (Bran, Jonna, Osric, teraz Hal) = mala spolecznosc pod jednym dachem, spieta nie kontraktem lecz tym, ze sa 'jego' i traktowani po ludzku. Kamieniczka to juz nie tylko aktyw - to DOM. Symon wrocil ku Sepcie lzejszy. Dlugi, gesty, bardzo dobry dzien. Sytosc 58, zmeczenie 34.

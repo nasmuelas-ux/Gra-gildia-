@@ -4546,3 +4546,6 @@ Do Aldousa nie w interesie, odpoczac (rzut 65). Cieplo, przyjazn mocniejsza niz 
 
 ## 297-05-12 RANEK — Noc
 Sen. Przejscie 05-12 RANEK. DZIS termin weksla Wenda (reszta + oplata za zwloke, do nowiu). Filary mielą, Torhen zamkniety, cech sojusznikiem.
+
+## 297-05-12 RANEK — Weksel Wenda domkniety (kredyt zaplacil)
+Do Wenda po weksel (rzut 73). Statek/dluznik wrocili - Wend domknal: reszta + oplata za zwloke, uczciwie, bez marudzenia (pamieta ze Symon nie dusil lecz rozlozyl po ludzku). Zastaw zwrocony. MECHANIZM DOWIEDZIONY JAKO DOCHODOWY - pilot pelne kolo (przetrwal default zimą bez straty + teraz zaplacil). +7 jel (-> 38 jel), port rep 30->31 (sprawiedliwy-i-placony wierzyciel). Wend nast 26->31, wroci przy chudym miesiacu. Otwiera USLUGI KREDYTOWE jako sprawdzony filar (weksle/listy kredytowe - edge Symona + braavijski koniec Nesty). Liczniki prawo+1 (170), handel+1 (121). -> POPOLUDNIE.

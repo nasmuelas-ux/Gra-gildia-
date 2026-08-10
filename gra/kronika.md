@@ -4119,3 +4119,6 @@ Noc przespana. DZIS: zebrac fee zlecenia Hala (~2 jel, dostawa). Jutro (~04-12) 
 
 ### 297-04-11 RANEK - Hal odzyskuje nerw
 Symon z Halem dostarczyl+zebral fee drobnego zlecenia (rzut 91). Puscil Hala na front bezpiecznego zadania - Hal rozkwitl, nerw wrocil (mentoring flip udany po wczorajszej bojazliwosci). Wahadlo do srodka: spokojna kompetencja. Fee ~2 jel, netto +1 (dzialka Hala wyplacona). nast 83->85, zauf 41. Sakiewka 37 jel.
+
+### 297-04-11 POLUDNIE - Boren: off-take zelaza (zgoda, papier wieczorem)
+Symon po off-take zelaza Gulltown (cech Borena) - midday warsztat (rzut 34): Boren cieplo i w zasadzie ZA, ale podpis nie w biegu - 'przyjdz wieczorem, siadziemy porzadnie'. Zgoda co do zasady, papier wieczorem (Boren=dom/wieczor). Kowale osobno. nast 74 hold. Zegar boren_offtake_wieczor 04-11.

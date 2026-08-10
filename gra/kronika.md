@@ -4228,3 +4228,6 @@ Sprzatniete martwe/rozwiazane zegary (futra_wiesc, aldous_wino, ubezp_pilot_wyni
 
 ### 297-04-18 POLUDNIE->WIECZOR - ksiegi Godrica + czytanie Ulrica
 Ksiegi domu (rzut 18) - plasko pod okiem Ulrica, +3 jel. Czytanie Ulrica (rzut 37, polowa mapy): rana=utracona twarz, wrogosc obronna, podejscie wprost spali. Kierunek (zgodny z Nesta): dac mu wygrana - forensic-znalezisko na jego konto (dostawca oszukujacy sklady), Symon niewidzialny. Brak okazji, wypatrywac. Sakiewka 15 jel.
+
+## 297-04-19 RANEK
+Kolacja + cwiczenia + sen. DRAW wspolnika (miesieczny +6 jel) -> depozyt (105->111 jel). Faza cichej konsolidacji. W tle: zelazo Gulltown, kanal zamkowy recurring, Ulric (czekac na okazje), Wick uczy sie.

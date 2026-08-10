@@ -21,7 +21,7 @@
     "ze wnuk umrze jak jej corka",
     "eksmisja przez wlasciciela kamienicy"
    ],
-   "nastawienie_do_gracza": 52,
+   "nastawienie_do_gracza": 51,
    "zaufanie": 11,
    "wie_o_graczu": [
     "umie pisac",
@@ -172,7 +172,7 @@
     "297-04-22 WIECZOR (rzut 58): ULGA CHWYCILA - 6 dni po pomocy dom oddycha. Alys zarabia u Jonny (igla), Bran z podniesiona pensja nie liczy kazdego miedziaka; wrocila lekkosc. Alys cieplejsza/smielsza wobec Symona (nie groźny dobroczynca, lecz czlowiek co ogarnal po sasiedzku). Nakarmili go. Rodzina stanela na nogi. nast 81 hold."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-04-22",
+   "ostatni_kontakt": "297-05-01",
    "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
    "historia": [
     "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",
@@ -366,7 +366,7 @@
     "kontrola z zamku",
     "wlasny slaby wzrok do drobnego pisma"
    ],
-   "nastawienie_do_gracza": 33,
+   "nastawienie_do_gracza": 32,
    "zaufanie": 12,
    "wie_o_graczu": [
     "pisze szybko i czysto",
@@ -615,7 +615,7 @@
    "id": "maester_theomore",
    "imie": "Theomore",
    "zawod": "maester lorda Wymana Manderly na Nowym Zamku; uczony, zna prawo i precedens, ma ucho lorda i drogi ku Cytadeli/Winterfell; ale sluzy establishmentowi (ryzyko) | OCENA OWENA: uczony i (wg Owena) osobiscie uczciwy — nie Ryman, zwiazany kodeksem Cytadeli; ALE lojalnosc nalezy do lorda Wymana, nie do sprawiedliwosci samej w sobie ani do obcego/wdowy. Ryzyko nie 'zdrada za srebro', lecz 'jego obowiazek biegnie ku establishmentowi' — co zrobi z rzecza, zalezy od interesu LORDA, nie Symona.",
-   "nastawienie_do_gracza": 11,
+   "nastawienie_do_gracza": 10,
    "ostatni_kontakt": "297-04-03",
    "cechy_mowy": "uczenie i wynioslo, poludniowy akcent; lubi slowa 'precyzyjnie' i 'wedle precedensu'",
    "zaufanie": 1,
@@ -643,7 +643,7 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 58,
+   "nastawienie_do_gracza": 57,
    "ostatni_kontakt": "297-04-15",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
@@ -703,7 +703,7 @@
     "zweryfikowac braavijskie papiery dostawcow (podejrzewa, ze ja skrocono po smierci meza)",
     "nie dac sie potraktowac jak 'baba, co sie nie zna'"
    ],
-   "nastawienie_do_gracza": 67,
+   "nastawienie_do_gracza": 66,
    "zaufanie": 26,
    "wie_o_graczu": [
     "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
@@ -772,7 +772,7 @@
    "leki": [
     "obcy lichwiarze siegajacy po warsztaty cechowe"
    ],
-   "nastawienie_do_gracza": 79,
+   "nastawienie_do_gracza": 78,
    "zaufanie": 21,
    "wie_o_graczu": [
     "czyta umowy lepiej niz ten co je pisze",
@@ -882,7 +882,7 @@
     "Lorren",
     "glod dzieci"
    ],
-   "nastawienie_do_gracza": 43,
+   "nastawienie_do_gracza": 42,
    "zaufanie": 8,
    "wie_o_graczu": [
     "skryba przejrzal drapiezna umowe Lorrena",
@@ -937,7 +937,7 @@
    "id": "wnuk_serli_tom",
    "imie": "Tom",
    "zawod": "chorowity wnuk Serli (8 lat)",
-   "nastawienie_do_gracza": 10,
+   "nastawienie_do_gracza": 9,
    "nota": "URATOWANY WCZESNIEJ (m8d30): gorączka pekla dzieki uzdrowicielce+lekom, ktore Symon oplacil ANONIMOWO przez Wiare; Serla wierzy, ze uratowala go Matka + nieznany dobroczynca — NIE WIE, ze to Symon (godnosc). Watek ROZWIAZANY pozytywnie. Odtad: dziecko FRAJLE/chorowite z natury, ale ZYWE i zdrowiejace; ostatni ze krwi Serli (corka=matka Toma zmarla, ojciec przepadl). [KOREKTA: moje 'chory gorzej, ratuj od nowa' m10d4 = DRYF, uniewazniony]",
    "ostatni_kontakt": "297-04-21",
    "wie_o_graczu": [
@@ -948,7 +948,7 @@
    "id": "kapitan_braavijski",
    "imie": "Vhassar",
    "zawod": "kapitan Corki Tytana (na morzu)",
-   "nastawienie_do_gracza": 18,
+   "nastawienie_do_gracza": 17,
    "nota": "stały klient faktorii; ufa Symonowi (dwujęzyczne uczciwe umowy); wiezie próbną skrzynię barwników; poleca innym kapitanom",
    "ostatni_kontakt": "296-11-25",
    "historia": [
@@ -1044,7 +1044,7 @@
    "id": "faktor_duzego_domu",
    "imie": "Ternesio",
    "zawod": "faktor braavijskiego domu Antaryon (flota galer) w Bialym Porcie; swiezo bez czytacza, placi dobrze i stale — potencjalny silny patron — teraz PYTA O SYMONA PO IMIENIU w porcie (uslyszal, ze to on jest braavijskim czytaczem)",
-   "nastawienie_do_gracza": 2,
+   "nastawienie_do_gracza": 1,
    "status": "RATA WZIETA (d15, rzut 44): przyjal pelna zaplate; udokumentowana rezerwa nadwyzki przyjeta CHLODNO — rozumie, ze kantor ma na jego zawyzenie DOWOD na piśmie. Veiled jab (\"refinansowanie, jesli do niego dojdzie\"), ale ZERO re-eskalacji. Relacja: zimny, czujny rozejm; wie, ze kantor podparty i z kwitami.",
    "wie_o_graczu": [
     "kantor ma za soba port i sondaz Zelaznego Banku; nie oplaca sie dusic"
@@ -1058,7 +1058,7 @@
    "id": "alys_narzeczona_brana",
    "imie": "Alys",
    "zawod": "narzeczona Brana, sluzy w karczmie Pod Syrenim Ogonem",
-   "nastawienie_do_gracza": 8,
+   "nastawienie_do_gracza": 7,
    "ostatni_kontakt": "297-04-22",
    "wie_o_graczu": [
     "297-04-22: cieplejsza/smielsza wobec Symona - zarabia u Jonny (igla), dom oddycha; widzi w Symonie czlowieka co ogarnal po sasiedzku, nie grozdnego dobroczynce."
@@ -1114,7 +1114,7 @@
    "id": "garbarz_coll",
    "imie": "Coll",
    "zawod": "mistrz garbarz w zaulku (starszy garbarzy)",
-   "nastawienie_do_gracza": 20,
+   "nastawienie_do_gracza": 19,
    "nota": "zyczliwy po sprawie Elny, ale twardy w cenie; sprzedal skory na umowe na przyszlosc; najlepsze gatunki ograniczone | m10d7: sprzedal Symonowi partie zimowych skor na flip po dobrej cenie (zyczliwosc trwa)",
    "ostatni_kontakt": "297-03-18",
    "historia": [
@@ -1147,7 +1147,7 @@
    "id": "kupiec_marlon",
    "imie": "Marlon",
    "zawod": "kupiec (dealings z sieci Antaryona)",
-   "nastawienie_do_gracza": 18,
+   "nastawienie_do_gracza": 17,
    "nota": "m10d6: audyt POTWIERDZIL, ze partner z sieci Antaryona go skubie; wdzieczny, zaplacil, ufa Symonowi. ALE BOJAZLIWY wobec wielkiego domu — potencjalny 2. czlonek bloku, lecz SLABE OGNIWO: sam nie ruszy, moze zwlekac/zloamac sie/tipnac Antaryona ze strachu; wejdzie tylko pod zbiorowa oslona",
    "zaufanie": 5,
    "status": "BLOK anty-Antaryon: CEGLA 2 (potwierdzony m10d6, rzut 53 — partner z sieci Antaryona go skubie). Ufa, ale BOJAZLIWY = slabe ogniwo; wejdzie tylko pod zbiorowa oslona; ryzyko: zwleka/lamie sie/tipnie ze strachu.",
@@ -1208,7 +1208,7 @@
    "przydomek": "kapitan",
    "zawod": "kapitan braavijskiej galery (linia handlowa domu pryncypala Nesty); ma dojscie do agenta/klucznika Zelaznego Banku",
    "mieszka": "galera_w_porcie",
-   "nastawienie_do_gracza": 11,
+   "nastawienie_do_gracza": 10,
    "zaufanie": 4,
    "wie_o_graczu": [
     "braavijczyk z mowy (zaskoczony plynnoscia Symona)",
@@ -1358,7 +1358,7 @@
    "id": "kupiec_denys",
    "imie": "Denys",
    "zawod": "handlarz ze Schodow - wosk/swiece + braawijskie towary (audytowany przez Symona, cegla bloku anty-Antaryon)",
-   "nastawienie_do_gracza": 28,
+   "nastawienie_do_gracza": 27,
    "zaufanie": 9,
    "ostatni_kontakt": "297-04-02",
    "wie_o_graczu": [
@@ -1406,7 +1406,7 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 46,
+   "nastawienie_do_gracza": 45,
    "zaufanie": 12,
    "wie_o_graczu": [
     "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory",
@@ -1440,7 +1440,7 @@
    "wiek": 47,
    "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 52,
+   "nastawienie_do_gracza": 51,
    "zaufanie": 14,
    "wie_o_graczu": [
     "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)",
@@ -1475,7 +1475,7 @@
    "stan": "mieszczanin",
    "zawod": "kupiec suknem i prowiantem (Schody), sredniej reki, rosnacy",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 33,
+   "nastawienie_do_gracza": 32,
    "zaufanie": 12,
    "wie_o_graczu": [
     "slyszal na kupieckiej gieldzie (od Voxa) o 'cudownych ksiegach skryby'; chce takiej samej uslugi",
@@ -1536,7 +1536,7 @@
    "stan": "duchowny (Wiara)",
    "zawod": "septon uczony w prawie; prowadzi prawne/majatkowe sprawy Septy z miastem (zapisy, nadania, wlasnosc koscielna); zna praktyke rady i admisji mieszczanskiej",
    "mieszka": "przy glownej Sepcie / Sept Sniegow",
-   "nastawienie_do_gracza": 30,
+   "nastawienie_do_gracza": 29,
    "zaufanie": 10,
    "wie_o_graczu": [
     "297-01-03 (rzut 81): konsultacja o mieszczanstwie. Torren wylozyl czysta sciezke: ubiegac sie jako KUPIEC-wspolnik (nie skryba) -> Cech Pisarzy traci formalny grunt (nie wchodzi jako skryba, ich weto bezprzedmiotowe). Wymogi: WLASNOSC (dom w murach - brakujace ogniwo, sprawa na wiosne), standing kupiecki (udzial kantoru ✓), poreczyciele-kupcy (Vox/Aldous/Leona/Boren/Merek ✓), poreczenie Wiary ✓, wpis+oplata. Zlozone razem przygniata glos Pisarzy. Ryzyko: Harwin/Ryman moga zwlekac jesli znajda sojusznika w radzie (timing/gotowe poreczenia). DO WYGRANIA. Torren poprowadzi wniosek.",
@@ -1570,7 +1570,7 @@
    "stan": "mieszczanin (kupiec podupadly)",
    "zawod": "kupiec - interes (sol/ryba) zszedl na psy; sprzedaje odziedziczona kamieniczke, by splacic wierzyciela",
    "mieszka": "kamieniczka przy Schodach (do sprzedania) / potem do krewnych",
-   "nastawienie_do_gracza": 50,
+   "nastawienie_do_gracza": 49,
    "zaufanie": 10,
    "wie_o_graczu": [
     "297-01-06 (targ, rzut 71): Symon kupil od niego kamieniczke za 108 jeleni. Ostyn spodziewal sie duszenia (desperat=lup), a dostal ULGE: kupujacy z gotowka od reki, cicho, szybko, pozwolil odejsc z prosto trzymanym grzbietem (splaci wierzyciela+zostanie mu troche). Kotwica byla uczciwa (koszt dachu Donnela argumentowal cene, nie chlopak). Ostyn odetchnal - wdzieczny, nie upokorzony. Zapamietal Symona jako 'uczciwego mlodego, co nie kopie lezacego'.",
@@ -1604,7 +1604,7 @@
     "297-04-16: Symon skojarzyl jej Alys (zona Brana) do pomocy przy wiosennym szyciu/przedzeniu (dniowkowo) - Jonnie przyda sie para rak, Alys ma zarobek. Obu na dobre, pod jednym dachem.",
     "297-04-21: wspolnie z Symonem obsiali jego ogrodek (kapusta/zioła/rzepa) - Jonna zna sie na roli, pokazywala; doglada za dzielenie plonu. Cicha sasiedzka spolka, cieplo."
    ],
-   "ostatni_kontakt": "297-04-21",
+   "ostatni_kontakt": "297-05-01",
    "cechy_mowy": "cicho, uprzejmie, mowi 'synku'; oszczedna w slowach"
   },
   {
@@ -1621,7 +1621,7 @@
     "297-01-13: wynajal ciepla izbe od Symona (~1 jel/mies), referral z kregu Borena. Mlody, pracowity, rad z wlasnego godnego kata. Stabilny lokator.",
     "297-03-17: wlasciciel (Symon, przez Brana) zgodzil sie, by Osric trzymal skrzynie narzedzi w sieni - drobny znak szacunku dla mlodego czeladnika; goodwill (Osric w kregu kolodziejow, swiat Borena)."
    ],
-   "ostatni_kontakt": "297-01-13",
+   "ostatni_kontakt": "297-05-01",
    "cechy_mowy": "prosto, mlodzienczo, z szacunkiem do majstrow"
   },
   {
@@ -1632,7 +1632,7 @@
    "stan": "mieszczanin (kupiec)",
    "zawod": "kupiec suknem ze Schodow (referral Leony)",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 23,
+   "nastawienie_do_gracza": 22,
    "zaufanie": 6,
    "wie_o_graczu": [
     "297-01-15: Symon uzgodnil mu zimowe ksiegi i spisal umowe na wiosenna dostawe - czysto, sprawnie, uczciwy fee (~3 jel). Zadowolony, potencjalny repeat/referral. Referral Leony sie oplacil.",
@@ -1670,7 +1670,7 @@
    "stan": "pospolstwo",
    "zawod": "wiedzaca/uzdrowicielka - zna sie na febrach i ziolach (nie maester)",
    "mieszka": "zaulek za laznia",
-   "nastawienie_do_gracza": 10,
+   "nastawienie_do_gracza": 9,
    "zaufanie": 5,
    "wie_o_graczu": [
     "297-01-18: leczyla Symona z zimowej febry (~3 jel). Zatrzymala ja, kazala twardo lezec kilka dni. Rzeczowa, bez ogrodek."
@@ -1686,7 +1686,7 @@
    "stan": "mieszczanin (kupiec)",
    "zawod": "prowiantnik - zimowe zapasy (sol/mieso/susz)",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 14,
+   "nastawienie_do_gracza": 13,
    "zaufanie": 6,
    "wie_o_graczu": [
     "297-02-02: przyjal weksel Symona (rekojmia+podparcie kantoru) zamiast martwego dealu - sprzedal lot, zaplata pewna na wiosne. Zadowolony; poznal, ze Symon umie ozywic interes."
@@ -1723,7 +1723,7 @@
    "stan": "mieszczka (lud)",
    "zawod": "nowozamezna, corka przekupki Wendy",
    "mieszka": "Rybi Zaulek",
-   "nastawienie_do_gracza": 22,
+   "nastawienie_do_gracza": 21,
    "zaufanie": 5,
    "wie_o_graczu": [
     "297-02-09: poznala Symona (mama go 'adoptowala'); bystra/cieta jak Wenda; cieply rodzinny wieczor - przyjela go jak swojego.",
@@ -1741,7 +1741,7 @@
    "stan": "pospolstwo (rybak)",
    "zawod": "mlody rybak, maz Bess",
    "mieszka": "Rybi Zaulek",
-   "nastawienie_do_gracza": 18,
+   "nastawienie_do_gracza": 17,
    "zaufanie": 4,
    "wie_o_graczu": [
     "297-02-09: poznal Symona - zrazu ostrozny (obcy pan Tally), ale gdy Symon siadl bez fumow, jak swoj, lod pekl. Twarde rece, prosty, uczciwy.",
@@ -1757,7 +1757,7 @@
    "stan": "mieszczanin",
    "zawod": "kupiec ze Schodow (wozi rozny towar morzem)",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 20,
+   "nastawienie_do_gracza": 19,
    "zaufanie": 6,
    "ostatni_kontakt": "297-04-10",
    "wie_o_graczu": [

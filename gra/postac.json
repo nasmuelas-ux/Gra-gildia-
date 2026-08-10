@@ -46,25 +46,9 @@
   "handel": 7,
   "walka": 6,
   "geometria": 4,
-  "czytanie_ludzi": 6,
-  "organizacja": 6,
+  "czytanie_ludzi": 8,
+  "organizacja": 7,
   "audyt": 8
- },
- "licznik_uzyc": {
-  "pismo": 106,
-  "rachunki": 164,
-  "prawo": 162,
-  "retoryka": 99,
-  "jezyki": 73,
-  "spryt_uliczny": 120,
-  "kondycja": 108,
-  "rzemioslo": 0,
-  "handel": 112,
-  "walka": 46,
-  "geometria": 20,
-  "czytanie_ludzi": 127,
-  "organizacja": 89,
-  "audyt": 111
  },
  "jezyki_znane": [
   "mowa powszechna",
@@ -146,15 +130,20 @@
  },
  "nazwisko": "Tally",
  "liczniki_uzyc": {
-  "rachunki": 9,
-  "audyt": 12,
-  "pismo": 6,
-  "organizacja": 4,
-  "kondycja": 2,
-  "walka": 2,
-  "prawo": 3,
-  "retoryka": 2,
-  "czytanie_ludzi": 3,
-  "rzemioslo": 1
- }
+  "rachunki": 173,
+  "audyt": 123,
+  "pismo": 112,
+  "organizacja": 93,
+  "kondycja": 110,
+  "walka": 48,
+  "prawo": 165,
+  "retoryka": 101,
+  "czytanie_ludzi": 130,
+  "rzemioslo": 1,
+  "jezyki": 73,
+  "spryt_uliczny": 120,
+  "handel": 112,
+  "geometria": 20
+ },
+ "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika."
 }

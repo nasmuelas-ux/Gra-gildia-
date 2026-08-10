@@ -4315,3 +4315,6 @@ Genuine wizyta u Miry (rzut 37) - latwosc trzyma, ale przymknela sie o pol kroku
 
 ### 297-04-26 POLUDNIE->WIECZOR - robota z Halem (rutynowo)
 Sesja z Halem (rzut 34) - rutynowo, +2 jel. Cichy silnik mieli. Zaproponowany przeskok do dojscia zelaza/nastepnego zdarzenia.
+
+### 297-04-26 - KOREKTA PROGRESJI UMIEJETNOSCI (na sluszna uwage gracza)
+Naprawa zaniedbania: liczniki_uzyc rosly, ale nie zamienialy sie na awanse. Scalono 2 rozjechane dicty (liczniki_uzyc + licznik_uzyc) w jeden. AWANSE wg progow: czytanie_ludzi 6->8 (130 praktyki=8-tier, zanizone), organizacja 6->7 (93=7-tier). Reszta spojna. Progi zapisane (_progi_umiejetnosci); od teraz sprawdzac przy kazdym przyroscie.

@@ -4185,3 +4185,6 @@ Symon do Borena (rzut 48) - cech przygaszony po wypadku. Wiesc o Wicku (zyje + S
 
 ## 297-04-15 RANEK
 Kolacja w gospodzie, noc przespana. RANO 04-15: pipeline zelaza Gulltown w toku (proba-partia), Donnel wpadnie za dnia na fundament, kanal zamkowy na twardej normie (prowizja recurring). Dyscyplina: niski profil (3 sygnaly + Ulric-szafarz). Zwornik zaparkowany.
+
+### 297-04-15 RANEK->POLUDNIE - Ostyn (upadly, wdzieczny)
+Symon zajrzal do upadlego Ostyna po ludzku (rzut 85, drugi raz) - poruszyl go gleboko. Reputacja 'porzadny, nie zapomina swoich w dol' cicho rosnie (niski-profil kapital). Ostyn na odchodne (do krewnych) dal mape insidera sol/ryba/fracht (fracht zjada drobnych=racket, gracze/luki). Niskoprofilowe dobro budujace lepiej niz interes. nast 43->50, zauf 10. Watek mapa_sol_ryba_ostyn.

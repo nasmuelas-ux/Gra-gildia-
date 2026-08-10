@@ -1526,11 +1526,12 @@
    "stan": "mieszczanin (kupiec podupadly)",
    "zawod": "kupiec - interes (sol/ryba) zszedl na psy; sprzedaje odziedziczona kamieniczke, by splacic wierzyciela",
    "mieszka": "kamieniczka przy Schodach (do sprzedania) / potem do krewnych",
-   "nastawienie_do_gracza": 43,
-   "zaufanie": 8,
+   "nastawienie_do_gracza": 50,
+   "zaufanie": 10,
    "wie_o_graczu": [
     "297-01-06 (targ, rzut 71): Symon kupil od niego kamieniczke za 108 jeleni. Ostyn spodziewal sie duszenia (desperat=lup), a dostal ULGE: kupujacy z gotowka od reki, cicho, szybko, pozwolil odejsc z prosto trzymanym grzbietem (splaci wierzyciela+zostanie mu troche). Kotwica byla uczciwa (koszt dachu Donnela argumentowal cene, nie chlopak). Ostyn odetchnal - wdzieczny, nie upokorzony. Zapamietal Symona jako 'uczciwego mlodego, co nie kopie lezacego'.",
-    "297-03-09 (rzut 51): Symon zajrzal spytac jak mu idzie - rzadkosc (malo kto pyta upadlego). Ostyn pamieta ulge (Symon go NIE zdusil przy sprzedazy kamieniczki, dal godnosc). Teraz: wierzyciel splacony (sprzedaz uratowala go, uniknal upadku), stoi na nogach, ale sol/ryba wciaz slaba, odbudowuje malymi krokami. Wdzieczny ze zapytal. Goodwill warm=imie czlowieka przyzwoitego (deed>whisper); drobny zyczliwy kontakt sol/ryba na przyszlosc. nast 40->43."
+    "297-03-09 (rzut 51): Symon zajrzal spytac jak mu idzie - rzadkosc (malo kto pyta upadlego). Ostyn pamieta ulge (Symon go NIE zdusil przy sprzedazy kamieniczki, dal godnosc). Teraz: wierzyciel splacony (sprzedaz uratowala go, uniknal upadku), stoi na nogach, ale sol/ryba wciaz slaba, odbudowuje malymi krokami. Wdzieczny ze zapytal. Goodwill warm=imie czlowieka przyzwoitego (deed>whisper); drobny zyczliwy kontakt sol/ryba na przyszlosc. nast 40->43.",
+    "297-04-15 (rzut 85): Symon (dzis 'na wozie') zajrzal do upadlego Ostyna po ludzku, drugi raz - poruszyl go gleboko ('ty jeden pamietasz, kupiles mnie godnie i jeszcze przychodzisz'). Cicha reputacja Symona 'porzadny, nie zapomina swoich nawet w dol' rosnie wsrod kupcow (kapital niski-profil). Ostyn na odchodne (jedzie do krewnych) dal WIEDZE upadlego insidera sol/ryba: jak fracht zjada drobnych (potwierdza racket Antaryona), ktorzy kupcy krusi, gdzie luki - mapa trade'u do kieszeni Symona. Ostyn odchodzi jako wdzieczny czlowiek. nast 43->50, zauf 8->10."
    ],
    "dlugi": [
     {
@@ -1539,7 +1540,7 @@
      "termin": "pilny - stad sprzedaz"
     }
    ],
-   "ostatni_kontakt": "297-03-09",
+   "ostatni_kontakt": "297-04-15",
    "cechy_mowy": "zmeczony, godnosc pod presja; krotkie, rzeczowe zdania czlowieka co przelknal duma"
   },
   {

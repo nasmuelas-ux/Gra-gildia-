@@ -4014,3 +4014,6 @@ Zimna narada o stallu Theomore (rzut 14/43, cierpka). Brak czystego planu - korr
 
 ### 297-04-03 WIECZOR - ROZMOWA z Owenem
 Symon po niepokoju 'czy mozemy czekac' poszedl do Owena (rzut 64). Owen zdjal falszywy zegar: acute clock zimy minal (dlug ulzony, koalicja zwarta, kantor stoi) - nacisk z dumy nie z glodu. Czekanie=dyscyplina. Owen bierze Theomore'a na cierpliwa koscielna droge (owen_grzeje_theomore), Garth nietkniety, sumienie czyste. Symon spokojniejszy. Owen 84->85. Dzien zamkniety godnie mimo cierpkiego poranka.
+
+### 297-04-03 REKONCYLIACJA - IZBA 4
+Gracz sluznie wychwycil: kamieniczka ma 4 izby (kanon 01-05/01-06/01-09), nie 3. Sledzenie zsunelo sie do 3 (izby 1+2 zima, izba3 Hal wiosna), izba 4 wypadla z ksiag. Izba 4 = ta z najglebszym remontem (strop+podloga), domknieta pelnym re-roofem, obecnie WOLNA/nieobsadzona. Poprawione: zegar kamieniczka_najem + nowy watek izba4_wlasne_lokum. SKUTEK: Symon MA wolna wlasna izbe - moze sie wprowadzic bez wysiedlania lokatora (odpada obstrukcja 'nie ma gdzie').

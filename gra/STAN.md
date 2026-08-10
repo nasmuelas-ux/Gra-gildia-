@@ -51,7 +51,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-01-03` konsult_torren_mieszczanstwo: Konsultacja z Septonem Torrenem (neutralny znawca prawa miejskiego, wskazany przez Owena) - praktyka admisji m
 - ◆ `297-01-08` wech_wlasnosc: Serla+Nesta nasluchuja o TANIA PRZYMUSZONA sprzedaz domu Z OGRODKIEM ZA PLOTEM w murach (lokum+biuro+wlasnosc 
 - ◆ `?` kamieniczka_dach_pelny: Pelny re-roof kamieniczki przez Donnela - GATED NA POGODE (odwilz/wczesna wiosna, zaprawa musi wiazac). Rezerw
-- ◆ `?` kamieniczka_najem: IZBY 1+2 WYNAJETE (wdowa Jonna + czeladnik Osric, ~2 jel/mies lacznie). Dobra slawa domu rozchodzi sie -> soft
+- ◆ `?` kamieniczka_najem: KAMIENICZKA = 4 IZBY (kanon 01-05/01-06) + murowany ogrodek. STAN 297-04-03: izba1 wdowa Jonna (od 01-12), izb
 - ◆ `?` zlecenia_krag_okno: A (sukiennik Colm) ZROBIONE (fee ~3 jel, goodwill). B (delikatny/sekret) ODPUSZCZONE swiadomie (ryzyko sekretu
 - ◆ `?` draw_nesta: Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt. || 297-02-19: ODPALIL - draw wspolnika 6 jel wpl
 - ◆ `?` harwin_zemsta_czujnosc: Harwin/Cech Pisarzy przegrali publicznie i zostali upokorzeni; przy przysiedze Harwin rzucil zawoalowana grozb

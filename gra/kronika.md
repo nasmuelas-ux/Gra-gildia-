@@ -4243,3 +4243,6 @@ Noc przespana. Rano jedzenie, potem z Halem powrot do metnej rozbieznosci kantor
 
 ### 297-04-20 RANEK->POLUDNIE - rozbieznosc rozplatana (fix przez prawo umow)
 Na swiezo z Halem (rzut 55) rozplatana rozbieznosc: sharp-practice na luznych warunkach (nie dowodliwa kradziez). Fix przez PRAWO UMOW (dokrecic warunki/fakturowanie) - przeciek zatkany bez konfrontacji, relacja nietknieta. Nesta uznanie, Hal nauka. Synergia ze studium u Torrena. Watek rozwiazany.
+
+### 297-04-20 POLUDNIE->WIECZOR - narada 'nastepny ruch' (hamulec)
+Symon po nastepny ruch do Nesty (rzut 25) - dostal HAMULEC nie plan. Nesta wyczula niepokoj czlowieka na fali; 'nic nie jest teraz nastepne', dyscyplina=przestac siegac (garnek za duzo sciaga oko). Jedyny ruch: cichy compounding (ubezp tranzytu). Reszta: trwac/czekac na okazje. Cierpliwosc=ruch, niepokoj=do okielznania. Nesta 90 hold.

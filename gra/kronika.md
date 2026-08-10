@@ -4170,3 +4170,6 @@ Symon spytal Donnela o fundament (rzut 37) - mistrz uspokoil w zasadzie ('to odw
 
 ## 297-04-14 RANEK
 Noc przespana. DZIS: Nesta plasuje 3. ladunek brokerski (futra->Braavos) -> prowizja. Donnel wpadnie za dnia obejrzec fundament. Off-take Borena czeka az cech ochlonie. Dyscyplina: niski profil (3 sygnaly o widocznosci).
+
+### 297-04-14 RANEK->POLUDNIE - 3. ladunek nie poszedl
+Symon poszedl po prowizje z 3. ladunku (futra->Braavos) - NIE uplasowany (rzut 19): ubezpieczyciel grymasny (futra kradliwe/trasa daleka/straty wiosna), odmowa/skladka za wysoka, deal przepadl, prowizji brak. NIE blad wyceny - APETYT KAPITALU. NAUKA: broker ma pudla; dopasowac ladunek do apetytu (czyste/znane > egzotyczne/dalekie). Nesta 89 hold. Wolne 9 jel.

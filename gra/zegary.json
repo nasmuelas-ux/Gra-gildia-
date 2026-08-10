@@ -267,15 +267,6 @@
    "zamkniety": true
   },
   {
-   "id": "ubezp_broker_pierwszy",
-   "typ": "biznes",
-   "odlicza_do": "297-04-05",
-   "opis": "Pierwszy realny ladunek zwettowany przez Symona i uplasowany przez Neste u USTALONEGO braawijskiego ubezpieczyciela za prowizje (model broker-nie-underwriter). Buduje reputacje brokera dobrze-przesianych ryzyk. Znalezc zaufanego kupca z ladunkiem (skrzydlo flotylli).",
-   "co_sie_stanie": "pierwsze brokerskie uplasowanie ryzyka -> prowizja + start reputacji brokera ubezpieczen",
-   "widoczny_graczowi": true,
-   "postep": "297-03-29 (rzut 96): pierwszy ladunek ZDOBYTY i zwettowany (wino Aldousa, forensic mistrzowski). Zostaje uplasowanie przez Neste u ustalonego ubezpieczyciela ~04-05 -> prowizja + dowod modelu."
-  },
-  {
    "id": "keystone_korroboracja_frachtu",
    "termin": null,
    "opis": "297-04-03: Theomore ODROCZYL droge lorda (rzut 39) - zada niezaleznej korroboracji frachtu (rzeczywisty ladunek vs deklaracje) SPOZA audytu, zanim poniesie do Wymana. WYZWANIE: niezalezny dowod frachtu = wiecej od Gartha (kruche zrodlo, wieksza ekspozycja) ALBO bok, ktory Torsen zamknal (zbyt spleciony). Do przemyslenia z Nesta/Owenem: (a) jak zdobyc korroboracje bez spalenia Gartha, (b) czy w ogole isc droga lorda teraz, czy oprzec keystone na dzialajacych torach (cichy lewar dal juz ulge dlugu Nesty 11-27; koalicja; re-approach pryncypala z demonstrowana wygrana). Droga lorda NIE zamknieta, lecz gated na dowod frachtu."

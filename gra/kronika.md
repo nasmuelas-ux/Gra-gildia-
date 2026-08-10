@@ -4038,3 +4038,6 @@ Poprawka (gracz sluznie): Mira NIE zarzadza juz kamieniczka - trial skonczyl sie
 
 ### 297-04-04 WIECZOR (2) + 297-04-05 RANEK
 Symon zanotowal, by przy okazji poprosic Donnela o spokojne zerkniecie na fundament (najpewniej nic - odwilzowa wilgoc; Donnel juz orzekl solidny). Pierwsza noc pod wlasna belka przespana. RANO 04-05: dojrzewaja broker Aldousa (Nesta plasuje) i pierwsze tratwy Halvarda.
+
+### 297-04-05 POLUDNIE - BROKER UBEZPIECZEN dowiedziony
+Nesta uplasowala ladunek wina Aldousa (zwettowany przez Symona) u ustalonego braawijskiego ubezpieczyciela (rzut 64). Prowizja +2 jel. MODEL BROKER-NIE-UNDERWRITER DOWIEDZIONY w realu - ubezpieczyciel wzial bez marudzenia (dobrze przesiane ryzyko), otwarty na kolejne = flywheel. Filar stanal we wlasciwej formie. Sakiewka 23 jel. Nesta 86->87. Do zrobienia: powiedziec Aldousowi ze wino kryte.

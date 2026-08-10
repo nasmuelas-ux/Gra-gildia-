@@ -2,16 +2,16 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-04-05 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-04-05 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 21 jeleni + 95 mied + 0 smokow
+- **Wolne:** 23 jeleni + 95 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 40 · Zmeczenie 2
+- Zdrowie 100 · Sytosc 50 · Zmeczenie 10
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -22,7 +22,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 49
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 51
 - **Bran** (bran_tragarz) — dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/ · nast 74
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 86
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 87
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 35
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 86
@@ -68,7 +68,6 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-03-28` ubezp_pilot_plasowanie: Nesta plasuje pierwszy pilotaz ubezpieczenia (wlasny wywoz skor -> Braavos) u braawijskiego kapitalu - zalezne
 - ◆ `297-03-26` owen_wprowadzenie_theomore: Owen aranzuje wprowadzenie Symona (pod poreczeniem Wiary) do maestera Theomore - by przedlozyc dossier celne j
 - ◆ `297-03-27` izba3_najem: Izba 3 kamieniczki gotowa pod najem (po re-roofie). Znalezc STABILNEGO lokatora (rada Miry: dobry dlugotermino
-- ◆ `297-04-05` ubezp_broker_pierwszy: Pierwszy realny ladunek zwettowany przez Symona i uplasowany przez Neste u USTALONEGO braawijskiego ubezpieczy
 - ◆ `?` keystone_korroboracja_frachtu: 297-04-03: Theomore ODROCZYL droge lorda (rzut 39) - zada niezaleznej korroboracji frachtu (rzeczywisty ladune
 - ◆ `?` owen_grzeje_theomore: 297-04-03: Owen bierze relacje z maesterem Theomore na wlasna cierpliwa koscielna droge (tygodniami, Symon nie
 

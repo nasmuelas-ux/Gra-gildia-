@@ -4041,3 +4041,6 @@ Symon zanotowal, by przy okazji poprosic Donnela o spokojne zerkniecie na fundam
 
 ### 297-04-05 POLUDNIE - BROKER UBEZPIECZEN dowiedziony
 Nesta uplasowala ladunek wina Aldousa (zwettowany przez Symona) u ustalonego braawijskiego ubezpieczyciela (rzut 64). Prowizja +2 jel. MODEL BROKER-NIE-UNDERWRITER DOWIEDZIONY w realu - ubezpieczyciel wzial bez marudzenia (dobrze przesiane ryzyko), otwarty na kolejne = flywheel. Filar stanal we wlasciwej formie. Sakiewka 23 jel. Nesta 86->87. Do zrobienia: powiedziec Aldousowi ze wino kryte.
+
+### 297-04-05 WIECZOR - Aldous: wino kryte
+Symon powiedzial Aldousowi ze wino kryte (rzut 94). Gleboka ulga/wdziecznosc, zobaczyl wartosc uslugi. OWOC: repeat (kolejne ladunki przez Symona) + CIEPLE POLECENIE (kupiec ze Schodow z partia na skrzydle flotylli). Flywheel brokera kreci sie. nast 65->70, zauf 18. Nowy trop lead_broker_kupiec_flotylla.

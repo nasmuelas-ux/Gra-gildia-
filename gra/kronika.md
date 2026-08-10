@@ -3969,3 +3969,6 @@ Symon zjadl, odpoczal chwile i na spokojnie rozdzielil oflagowana rozbieznosc (r
 
 ## 297-03-31 RANEK
 Wieczorem lazienka (~5 mied, rozmienil jelena) po dlugim zygzakowatym dniu - zmyl port z siebie, rozluznil kark. Noc przespana. Poranek: Aurane do dostarczenia ~04-02, osad Theomore ~04-03 w tle, broker/tratwy ~04-05.
+
+### 297-03-31 POLUDNIE
+Symon dostarczyl Nescie gotowy dowod niedowagi (rzut 30, skromny pas). Praca bez zarzutu, uznanie dla dyscypliny - ale suma mala, dostawca powtarzalny, wiec Nesta zabankowala korekte jako cicha dzwignie, nie gotowke. Lekcja: nie kazdy lap to grosz; buduje zaufanie. Upside: przy odwilzy kantor tonie w wolumenie, Nesta bedzie kierowac wiecej takich uzgodnien do Symona (staly strumien). nast 84->85.

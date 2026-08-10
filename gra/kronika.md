@@ -4011,3 +4011,6 @@ Owen przyniosl slowo z zamku: Theomore NIE zaniosl sprawy lordowi (rzut 39). Oce
 
 ### 297-04-03 POLUDNIE - NARADA z Nesta
 Zimna narada o stallu Theomore (rzut 14/43, cierpka). Brak czystego planu - korroboracja frachtu prowadzi przez kruchego Gartha/zamknietego Torsena/ekspozycje. Friction bez klotni. Guardrail utrzymany: NIE palic Gartha, droga lorda zaparkowana jako uspiona rezerwa. Ciezar na dzialajace tory, ale 'jak docisnac' nierozegrane. Symon bez jasnosci. Nesta 86 hold.
+
+### 297-04-03 WIECZOR - ROZMOWA z Owenem
+Symon po niepokoju 'czy mozemy czekac' poszedl do Owena (rzut 64). Owen zdjal falszywy zegar: acute clock zimy minal (dlug ulzony, koalicja zwarta, kantor stoi) - nacisk z dumy nie z glodu. Czekanie=dyscyplina. Owen bierze Theomore'a na cierpliwa koscielna droge (owen_grzeje_theomore), Garth nietkniety, sumienie czyste. Symon spokojniejszy. Owen 84->85. Dzien zamkniety godnie mimo cierpkiego poranka.

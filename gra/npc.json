@@ -1783,20 +1783,6 @@
     "uczy go liter mimo zmiazdzonej dloni"
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
-  },
-  {
-   "id": "magazynier_hobb",
-   "imie": "Hobb",
-   "wiek": 41,
-   "stan": "czeladz",
-   "zawod": "brygadzista/magazynier skladow Aurane (trzyma tally przyjec) - zaufany od lat",
-   "nastawienie_do_gracza": 0,
-   "zaufanie": 0,
-   "wie_o_graczu": [
-    "297-04-30: NIE WIE jeszcze o Symonie. Symon wykryl i POTWIERDZIL (rzut 68) ze Hobb skimuje sklady Aurane: under-loguje slice kazdej wiekszej partii przy przyjeciu, roznice bierze fizycznie; ksiegi wewnetrznie sie zgadzaja (oplaty+wyjscie licza z zanizonego intake), tylko gleboki cross-check z dowodem wagi/tally dokowego to lapie. Symon ma DOKUMENTACJE. Hobb = potencjalny przyszly wrog-insider gdy zostanie nazwany."
-   ],
-   "ostatni_kontakt": null,
-   "cechy_mowy": "szorstki, dokowa gwara, pewny siebie u Aurane"
   }
  ],
  "orbita": [

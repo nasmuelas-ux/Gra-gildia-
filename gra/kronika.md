@@ -4351,3 +4351,6 @@ Kolacja i sen. Pelny, ruchliwy dzien za soba (Godric/Hal/Rollam/Wend). Zmecz 0, 
 
 ## 297-04-29 RANEK — Wplata do Nesty
 Wplata 13 jel do depozytu u Nesty (14000 -> 15300 mied = 153 jel). Wolne: 13 jel + 204 mied. Poranek nadal otwarty; Symon glodny (syt 0). Nesta ostatni 04-29.
+
+## 297-04-29 RANEK — Ogrodek
+Sniadanie (syt ->). Poranek w ogrodku za kamieniczka (rzut 53). Przedwiosnie - jeszcze za wczesnie na wiekszosc, ale grzadki przekopane, zimowe resztki uprzatniete, najtwardsze zasiane (groch, cebula). Cichy, gruntujacy poranek - Symon reka w wlasnej ziemi. Liczniki kondycja+1 (112), rzemioslo+1 (2); progi sprawdzone - bez awansu. -> POPOLUDNIE.

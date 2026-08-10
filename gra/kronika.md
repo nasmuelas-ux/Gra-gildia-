@@ -4327,3 +4327,6 @@ Wieczorem cwiczenia (kondycja/walka - liczniki+1, progi sprawdzone: bez awansu).
 
 ## 297-04-27 RANEK — Wick i Septa
 Sniadanie (syt 0->65). Lekcja z Wickiem: zmiazdzona prawa dlon nie utrzymuje rylca (rzut 41/~45) - litery jak bazgroly, chlopak sie wstydzi. Symon (czyt_ludzi 8) lapie wstyd zanim przejdzie w rezygnacje, przekierowuje: najpierw czytanie, pisanie leva reka - wolno, bez pospiechu. Wick nast +2 -> 33. Potem sluzba w Sepcie pod publiczna opieka Owena (rzut 55) - spokojnie, rep wiara +1 -> 76. Liczniki: pismo+1 (113), czyt+1 (132), retoryka+1 (102); progi sprawdzone - bez awansu. Owen ostatni kontakt 04-27. Faza konsolidacji. -> POPOLUDNIE.
+
+## 297-04-27 POPOLUDNIE — Praca u Godrica
+Theomore zostawiony Owenowi (grzanie, cierpliwosc). Popoludnie u Godrica: ksiegi domu czyste (rachunki 9 niesie rutyne), prowizja z parceli 04-13 rozliczona (+4 jel -> 18 jel wolne). Koordynacja NASTEPNEJ parceli miekka (rzut 38) - pelna odwilz rozbila rzeki, kanal Bialego Noza chaotyczny, Torsen/Halvard bez twardej daty; okolicznosc odwilzy, nie blad Symona. Data plynna. Rep schody_zamkowe +1 -> 31. Liczniki rachunki+1 (174), organizacja+1 (94); progi sprawdzone - bez awansu. Godric ostatni 04-27. -> WIECZOR.

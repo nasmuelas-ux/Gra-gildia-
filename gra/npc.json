@@ -581,14 +581,15 @@
    "id": "maester_theomore",
    "imie": "Theomore",
    "zawod": "maester lorda Wymana Manderly na Nowym Zamku; uczony, zna prawo i precedens, ma ucho lorda i drogi ku Cytadeli/Winterfell; ale sluzy establishmentowi (ryzyko) | OCENA OWENA: uczony i (wg Owena) osobiscie uczciwy — nie Ryman, zwiazany kodeksem Cytadeli; ALE lojalnosc nalezy do lorda Wymana, nie do sprawiedliwosci samej w sobie ani do obcego/wdowy. Ryzyko nie 'zdrada za srebro', lecz 'jego obowiazek biegnie ku establishmentowi' — co zrobi z rzecza, zalezy od interesu LORDA, nie Symona.",
-   "nastawienie_do_gracza": 5,
-   "ostatni_kontakt": "296-12-29",
+   "nastawienie_do_gracza": 10,
+   "ostatni_kontakt": "297-03-26",
    "cechy_mowy": "uczenie i wynioslo, poludniowy akcent; lubi slowa 'precyzyjnie' i 'wedle precedensu'",
    "zaufanie": 1,
    "wie_o_graczu": [
     "przedstawil sprawe Rymana jasno, jak rachmistrz — Theomore docenil klarownosc, ALE odmowil dzialania: to tylko kopia, brak oryginalu/korroboracji, oskarzenie tyczy szanowanego czlowieka u lorda; nie tknie bez ironclad proof",
     "m9d6: prostak-skryba przyszedl PROSIC o nauke/dostep do wiedzy — Theomore odprawil go chlodno, z wynioslоscia: nie ma PRECEDENSU, by maester ksztalcil nisko urodzonego; jego obowiazek to lord, nie edukacja kupczykow. Symona widzi jako natreta, co znowu sie napraszania (po Rymanie). Braavijski Symona zbyl jako 'znosny jak na kramarza'",
-    "d29 (audiencja, rzut 83): widzial Symona jako SKRYBE Owena na posluchaniu - zagral role bez skazy (pokorny, sprawny, milczacy, zna miejsce). Dawny sad ('zuchwaly prostak') ZMIEKL ku 'zdatny, cichy, nieszkodliwy, na swoim miejscu'. Zero ciekawosci ku watkom Symona (Ryman/pochodzenie). Faint ziarno szacunku dla pokornej kompetencji. Ryzyko rozbrojone."
+    "d29 (audiencja, rzut 83): widzial Symona jako SKRYBE Owena na posluchaniu - zagral role bez skazy (pokorny, sprawny, milczacy, zna miejsce). Dawny sad ('zuchwaly prostak') ZMIEKL ku 'zdatny, cichy, nieszkodliwy, na swoim miejscu'. Zero ciekawosci ku watkom Symona (Ryman/pochodzenie). Faint ziarno szacunku dla pokornej kompetencji. Ryzyko rozbrojone.",
+    "297-03-26 POLUDNIE (KEYSTONE, rzut 45): przyjal Symona pod poreczeniem Owena/Wiary. Symon przedlozyl dossier jako zalegalizowany AUDYTOR (wielu kupcow niezaleznie -> ten sam wzor -> okrada cło lorda). Rama \"grosz lorda\" trzyma - Theomore NIE MOZE zbyć (ignorowac kradziezy grosza lorda=zaniedbanie). Drazyl (skad wiesz gdzie patrzec, jak poskladane, pewnosc przypisania) - ale FIREWALL WYTRZYMAL (audytor widzi wzor w ksiegach najmujacych; zero manifestow). Blysk zawodowego szacunku (piśmienny mieszczanin, dokument maesterskiej klasy) + ostroznosc. NIE zadeklarowal sie: establishmentowi lojalny, ostrozny wobec ciezaru oskarżenia wielkiego domu (Antaryon=ceniony partner lorda). \"Zbadam. Jesli sie trzyma - zaniose Wymanowi. Nie pospiesznie, na wlasny osad.\" Wzial dossier. PRZYCZOLEK: sprawa wewnatrz zamku, w wiarygodnych rekach, serio; Symon osloniety (miekkosci pochlonela tarcza Wiary+rola). Wynik wisi na ostroznej rozwadze maestera - rama grosza lorda go BOKSUJE (zbyć nie moze, zwlekać sie boi). nast 5->10."
    ],
    "potrzeby": [],
    "leki": [],

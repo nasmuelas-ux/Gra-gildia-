@@ -11,11 +11,11 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 29 jeleni + 0 mied + 0 smokow
 - kwit depozytowy u Nesty (65 jel)
-- Zdrowie 100 · Sytosc 52 · Zmeczenie 5
+- Zdrowie 100 · Sytosc 44 · Zmeczenie 16
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
-**Reputacja:** port 24 · schody_zamkowe 30 · cech_pisarzy -6 · wiara 73 · zamek 5 · cech_kolodziejow 27
+**Reputacja:** port 24 · schody_zamkowe 30 · cech_pisarzy -6 · wiara 73 · zamek 6 · cech_kolodziejow 27
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -28,7 +28,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 82
 - **Lorren** (lorren_lichwiarz) — lichwiarz spod Wilczego Legu · nast -4
 - **Harwin** (poborca_harwin) — poborca Cechu Pisarzy (egzekutor) · nast -14
-- **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 5
+- **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 10
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 56
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 65
@@ -72,6 +72,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `297-03-24` merek_naleznosci_triage: Triaz odmarzajacych zimowych naleznosci Merka: wiekowanie + 3 kosze (sciagac / rozlozyc-darowac / odpisac). Hu
 - ◆ `297-03-26` owen_wprowadzenie_theomore: Owen aranzuje wprowadzenie Symona (pod poreczeniem Wiary) do maestera Theomore - by przedlozyc dossier celne j
 - ◆ `297-03-27` izba3_najem: Izba 3 kamieniczki gotowa pod najem (po re-roofie). Znalezc STABILNEGO lokatora (rada Miry: dobry dlugotermino
+- ◆ `297-04-03` theomore_osad: Maester Theomore bada dossier celne - decyduje, czy i jak zaniesc je lordowi Wymanowi jako jego interes (kradz
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

@@ -4339,3 +4339,6 @@ Powrot na Schody, noc przespana. Zmeczenie 0, syt 0 (rano glodny). Faza konsolid
 
 ## 297-04-28 RANEK — Praca z Halem
 Sniadanie (syt 0->). Poranne zlecenia pisarskie z Halem (rzut 39). Wolny odwilzowy poranek - malo klientow (bloto, port dopiero budzi sie po zimie), skromny utarg ~2 jel brutto, netto +120 mied po dzialce Hala. Za to Hal jedno zlecenie poprowadzil solo i pewnie - mentoring procentuje, stajnia pisarzy realna. Hal zaufanie +1 -> 44, ostatni 04-28. Liczniki pismo+1 (114), rachunki+1 (176); progi sprawdzone - bez awansu. -> POPOLUDNIE.
+
+## 297-04-28 POPOLUDNIE — Rollam, polecenie pada
+Do Rollama po nastepny wycinek (rzut 77, czysty). Rollam kontent z czystej, dyskretnej roboty w koncu DAJE INTRO do peera - drugiego faktora swojego poziomu. Top-tier flywheel odpalil. +5 jel rozliczone (-> 23 jel wolne), nowy wycinek ksiag w reku. Nast 43, zauf 14. CIEN: Symon prowadzi juz dwa top-tier faktory - aggregate visibility gestnieje, dyscyplina (nudno, rozkladac, cicho). Liczniki rachunki+1 (177), audyt+1 (124), czyt_ludzi+1 (133); progi sprawdzone - bez awansu. -> WIECZOR.

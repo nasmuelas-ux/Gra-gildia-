@@ -4237,3 +4237,6 @@ Batch drobnych zlecen z Halem (rzut 75) - czysto, netto +4 jel, niskoprofilowe. 
 
 ### 297-04-19 POLUDNIE->WIECZOR - kantor: metna rozbieznosc
 Uzgodnienia kantoru z Halem (rzut 6): Hal wypatrzyl anomalie (oko warte miejsca), ale finding=zgryzota - kontrahent moze skracac kantor (sugestywne nie rozstrzygajace, powtarzalny partner). Nie domkniete czysto - klopot do rozplatania (wiecej danych + narada z Nesta), nie grosz. Zelazo Gulltown w drodze. Zmeczenie 28. Watek kantor_kontrahent_rozbieznosc.
+
+## 297-04-20 RANEK
+Noc przespana. Rano jedzenie, potem z Halem powrot do metnej rozbieznosci kantoru (na swieza glowe - rozstrzygnac skim vs blad).

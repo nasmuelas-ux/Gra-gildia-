@@ -313,7 +313,8 @@
    "opis": "Maester Theomore bada dossier celne - decyduje, czy i jak zaniesc je lordowi Wymanowi jako jego interes (kradziony grosz). Ostrozny/establishmentowi lojalny, ale rama grosza lorda go boksuje (zbyć nie moze). Wynik: podejmuje sprawe -> oslona lorda -> keystone otwiera lord+refi+koalicja; albo zwleka/rozmydla.",
    "co_sie_stanie": "osad Theomore -> keystone rusza (lord podejmuje) lub grzeznie na ostroznosci maestera",
    "widoczny_graczowi": true,
-   "ryzyka_Nesty": "297-03-26 (Nesta): TAIL-RYZYKA foothold - (a) burial (establishment-lojalny maester odklada donikad); (b) slow leak istnienia dossier ku wielkiemu domu (kopia poza reka Symona; tarcza chroni jego, nie dokument); (c) refi zakladnikiem osadu Theomore (poza kontrola). Watch, nie swietowac. Master copy u Nesty zabezpieczyc."
+   "ryzyka_Nesty": "297-03-26 (Nesta): TAIL-RYZYKA foothold - (a) burial (establishment-lojalny maester odklada donikad); (b) slow leak istnienia dossier ku wielkiemu domu (kopia poza reka Symona; tarcza chroni jego, nie dokument); (c) refi zakladnikiem osadu Theomore (poza kontrola). Watch, nie swietowac. Master copy u Nesty zabezpieczyc.",
+   "ryzyko_zrodla": "297-03-28 (rzut 16): ZRODLO (Garth) KRUCHE - nerwowy tej wiosny (oko zamku wrocilo), a Symon nie moze go uspokoic prawda (firewall). Slaby punkt keystone: jesli sprawa wyplynie publicznie a Garth spanikuje -> moze sie zamknac/odciac/zrobic cos w strachu. Do zarzadzania: steady obecnosc, drobne dobra, gotowosc reagowania gdy sprawa pek-nie; NIE forsowac, NIE zdradzic. Czujnosc Nesty potwierdzona."
   },
   {
    "id": "ubezp_broker_pierwszy",

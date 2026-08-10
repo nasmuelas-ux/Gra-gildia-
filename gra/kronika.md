@@ -4345,3 +4345,6 @@ Do Rollama po nastepny wycinek (rzut 77, czysty). Rollam kontent z czystej, dysk
 
 ## 297-04-28 WIECZOR — Weksel Wenda: droga posrednia
 Wend (statek wszedl 3 dni temu, dluznik oddal polowe) klada czesc srebra - to timing, nie oszustwo. Symon wybiera DROGE POSREDNIA: bierze czesc teraz, reszte przedluza POD DROBNA OPLATA za zwloke, zastaw trzyma do pelnej splaty. Sprawiedliwy-a-nie-miekki. +3 jel marza brokerska (-> 26 jel). Port rep +2 -> 30 (imie brokera, co pracuje z toba I zarabia). Wend wdzieczny: nast +8 -> 26, zauf +3. MECHANIZM KREDYTOWY DOWIEDZIONY JAKO DOCHODOWY - ostatni brakujacy element pilota domkniety. Reszta+oplata do nowiu (~05-12). Liczniki prawo+1 (166), handel+1 (114), czyt_ludzi+1 (134); progi sprawdzone - bez awansu.
+
+## 297-04-29 RANEK — Noc
+Kolacja i sen. Pelny, ruchliwy dzien za soba (Godric/Hal/Rollam/Wend). Zmecz 0, syt 0. Faza konsolidacji - siec pracuje.

@@ -240,10 +240,11 @@
   {
    "id": "aldous_wieczerza_pojednanie",
    "typ": "inbound/relacja",
-   "opis": "297-04-30: Aldous PRZYJDZIE dzis wieczorem do Symona (przyjal zaproszenie, kryt 100, wzial swoja czesc winy, przyslal dzban wina). Wieczorem: pelne pojednanie przy kubku, prawdopodobny powrot polecenia do Corla + repeat ubezpieczen. Reciprocity domkniete - to ON przeszedl Schody.",
-   "odlicza_do": "297-04-30",
+   "opis": "297-04-30: Aldous PRZYJDZIE dzis wieczorem do Symona (przyjal zaproszenie, kryt 100, wzial swoja czesc winy, przyslal dzban wina). Wieczorem: pelne pojednanie przy kubku, prawdopodobny powrot polecenia do Corla + repeat ubezpieczen. Reciprocity domkniete - to ON przeszedl Schody. || 297-04-30 WIECZOR: DOMKNIETE - Aldous przyszedl, pojednanie pelne, wzial swoja czesc winy, polecenie do Corla PRZYWROCONE + cieplejsze, repeat ubezpieczen otwarty. nast 66->74. Reciprocity dowiedzione: to ON przeszedl Schody.",
+   "odlicza_do": null,
    "co_sie_stanie": "wieczor 04-30: Aldous u Symona - pojednanie, mozliwy powrot referrala/repeat",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "status": "domkniete"
   },
   {
    "id": "aurane_trawi_skim",

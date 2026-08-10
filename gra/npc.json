@@ -1790,13 +1790,12 @@
    "wiek": 41,
    "stan": "czeladz",
    "zawod": "brygadzista/magazynier skladow Aurane (trzyma tally przyjec) - zaufany od lat",
-   "nastawienie_do_gracza": -6,
+   "nastawienie_do_gracza": 0,
    "zaufanie": 0,
    "wie_o_graczu": [
-    "297-04-30: NIE WIE jeszcze o Symonie. Symon wykryl i POTWIERDZIL (rzut 68) ze Hobb skimuje sklady Aurane: under-loguje slice kazdej wiekszej partii przy przyjeciu, roznice bierze fizycznie; ksiegi wewnetrznie sie zgadzaja (oplaty+wyjscie licza z zanizonego intake), tylko gleboki cross-check z dowodem wagi/tally dokowego to lapie. Symon ma DOKUMENTACJE. Hobb = potencjalny przyszly wrog-insider gdy zostanie nazwany.",
-    "297-04-30 RANEK (rzut 7, dyskrecja zawiodla): Hobb ZLAPAL Symona jak grzebie w jego kwitach przewoznikow/wagach dokowych. Nie wie ze Symon ma dowod, ale WYCZUL heat - ostry, pewny siebie, rzucil zimne 'czego szukasz w moich kwitach, pisarzu?'. Symon (spryt 8) wycofal sie gladko (nie zdradzil ze ma komplet), ale Hobb ZAALARMOWANY - teraz obserwuje Symona jak wroga. Reka na tally = moze zaczac zacierac slady / uprzedzic Aurane wlasna wersja / ruszyc na niewygodnego swiadka."
+    "297-04-30: NIE WIE jeszcze o Symonie. Symon wykryl i POTWIERDZIL (rzut 68) ze Hobb skimuje sklady Aurane: under-loguje slice kazdej wiekszej partii przy przyjeciu, roznice bierze fizycznie; ksiegi wewnetrznie sie zgadzaja (oplaty+wyjscie licza z zanizonego intake), tylko gleboki cross-check z dowodem wagi/tally dokowego to lapie. Symon ma DOKUMENTACJE. Hobb = potencjalny przyszly wrog-insider gdy zostanie nazwany."
    ],
-   "ostatni_kontakt": "297-04-30",
+   "ostatni_kontakt": null,
    "cechy_mowy": "szorstki, dokowa gwara, pewny siebie u Aurane"
   }
  ],

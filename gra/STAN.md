@@ -11,7 +11,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 13 jeleni + 204 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 50 · Zmeczenie 30
+- Zdrowie 100 · Sytosc 55 · Zmeczenie 20
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 8 · organizacja 7 · audyt 8
@@ -67,7 +67,6 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `None` ubezp_tranzyt_wlasna_podaz: 297-04-27 (Nesta, wieczor, rzut 79): STRUKTURA UZGODNIONA. Odwilz uwidocznila ryzyko wodne tranzytu drewna na 
 - ◆ `None` aurane_przyslal_po_ksiegi: 297-04-29 WIECZOR: Aurane (klient premium z polecenia) PRZYSLAL sluzacego pod kamieniczke, gdy Symon byl u Ald
 - ◆ `297-04-30` aldous_wieczerza_pojednanie: 297-04-30: Aldous PRZYJDZIE dzis wieczorem do Symona (przyjal zaproszenie, kryt 100, wzial swoja czesc winy, p
-- ◆ `297-05-01` hobb_zaalarmowany: 297-04-30: Hobb (zlodziej-brygadzista) ZAALARMOWANY - zlapal Symona przy swoich kwitach, wyczul ze pisarz cos 
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

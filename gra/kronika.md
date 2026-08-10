@@ -4489,3 +4489,6 @@ Symon wplacil 90% wolnych srodkow do depozytu: +41 jel (4188 mied) -> depozyt 19
 
 ## 297-05-08 RANEK — Noc
 Sen. Przejscie 05-08 RANEK. W tle: Owen studzi Gartha (plan Banku hold), Winterfell uspiony, weksel Wenda ~05-12, Wyllam/Rollam/Harlon recurring, depozyt 194 jel.
+
+## 297-05-08 RANEK — Mira: bariera zniknela
+Wizyta po ludzku (rzut 80). Bariera zniknela - wam ze soba po prostu dobrze; smiech sam, latwo. Mira dolozyla chleba bez pytania (u strzegacej swego znaczy wiele) i powiedziala WPROST: 'nauczylam sie nie czekac na nikogo, a na ciebie jakos czekam ze wpadniesz'; zawiesila wzrok o sekunde za dlugo. Symon NIE przyspieszyl/nie nazwal (napor=regres) - trzymal spojrzenie, zostal chwile. To co rosnie: niewypowiedziane ale PEWNE dla obojga. Staloscia nie pościgiem. nast 55->61, zauf 19->22. Licznik czyt+1 (150). -> POPOLUDNIE.

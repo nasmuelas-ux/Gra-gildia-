@@ -4438,3 +4438,6 @@ Symon pivotowal na bardziej wystraszonych kupcow z drozszym ladunkiem (rzut 10).
 
 ## 297-05-04 WIECZOR — Rollam: peer-referral domkniety (Wyllam)
 Odpoczynek chwile (zmecz ->15). Wieczorem do Rollama domknac 'znam czlowieka' (rzut 76). Rollam napisal LIST POLECAJACY do faktora WYLLAMA (zboze/skora, Solne Nabrzeze): 'prowadzi moje ksiegi dyskretnie i uczciwie; przyjmie na probe jak ja recze, reszte dowieziesz sam'. Flywheel KONWERTUJE - trzeci top-tier prospekt, wspinaczka reputacja nie kapitalem (model Symona). Nowy NPC faktor_wyllam (orbita) + zegar wyllam_proba. Rollam nast 43->46, zauf 15. CIEN: 3 faktorzy w orbicie - aggregate visibility gestnieje, dyscyplina. Po jalowych dokach cos co konwertuje. Liczniki czyt+1, handel+1 (119). -> noc.
+
+## 297-05-04 WIECZOR — Mira: slow-burn dwustronny
+Kolejna wizyta po ludzku (rzut 64). Zero sprawdzania 'po co przyszedl' - wie ze po nic, i to powod. Cisza wygodna. CICHY PRZELOM: Mira pierwszy raz pyta o SYMONA (skad, czego chce, czy mysli dalej) - jednostronne staje sie DWUSTRONNE, ona z wlasnej woli zaczyna go czytac. Bez deklaracji (napor=regres), rosnie staloscia. nast 51->55, zauf 17->19. Licznik czyt+1 (144). -> noc.

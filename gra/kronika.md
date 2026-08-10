@@ -3957,3 +3957,6 @@ Symon odpoczal chwile i domknal ksiegi Aurane: czystopis, uporzadkowany rejestr,
 
 ## 297-03-30 RANEK
 Noc przespana czysto w celi przy Sepcie Sniegow. Zmeczenie zeszlo, sytosc spadla. Dzien roboczy: ksiegi Aurane gotowe do dostarczenia (~04-02), broker ubezpieczen w toku u Nesty (~04-05), osad Theomore w tle (~04-03). Poranek spokojny, faza wyczekiwania na dojrzewajace zegary.
+
+### 297-03-30 POLUDNIE
+Wizyta u Serli w Rybim Zaulku (rzut 88, czysto). Poddasze wreszcie wynajete - lokator podsuniety przez Symona wprowadzil sie z odwilza; jej niepokoj o grosz zdjety godnie. Tom zdrowy. Cieply, nieoceniajacy kwadrans przy ogniu, nakarmila go. Kotwica. nast 47->49.

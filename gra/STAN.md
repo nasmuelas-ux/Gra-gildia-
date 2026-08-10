@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-03-30 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-03-30 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
@@ -11,7 +11,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 9 jeleni + 0 mied + 0 smokow
 - kwit depozytowy u Nesty (65 jel)
-- Zdrowie 100 · Sytosc 44 · Zmeczenie 8
+- Zdrowie 100 · Sytosc 60 · Zmeczenie 14
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -19,7 +19,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO
 
 ## LUDZIE NA SCENIE (nast. do gracza)
-- **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 47
+- **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 49
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 51
 - **Bran** (bran_tragarz) — dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/ · nast 72
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 82

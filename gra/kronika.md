@@ -4411,3 +4411,6 @@ Wieczorna sluzba w sepcie (rzut 70): spis jalmuzny, kopiowanie. Rep wiara 76->77
 
 ## 297-05-03 RANEK — Cwiczenia + noc
 Wieczorem cwiczenia (kondycja/walka - liczniki+1, progi: kondycja 113<125 hold 7, walka 50<90 hold 6, bez awansu). Noc przespana. Przejscie 05-03 RANEK. Faza konsolidacji; w tle wszystko weather-bound (zelazo/flotylla/Belarno), Aurane trawi skim.
+
+## 297-05-03 RANEK — Nesta: gotowosc pod fale ubezpieczen
+Praca w kantorze (nawal faktorii, +2 jel -> 21) + narada (rzut 57). Symon polozyl wczorajszy poranny wash; Nesta: 'gonisz fale, a fale sie czeka gotowym'. Zbudowali APARAT zanim przyjdzie popyt: staly szablon wyceny ryzyka (trasa/sezon/historia galery/szypra/okna sztormowe - ten sam forensic co wino Aldousa) + LINIA UNDERWRITINGU potwierdzona (pryncypal/pool) = uplasowanie od reki gdy kupiec zadrzy. Belarno/Zelazny Bank z oknem pogodowym. Gdy flotylla wejdzie: broker z gotowym produktem, nie lata po dokach. Nesta zauf 43->44. Liczniki rachunki+1 (180), handel+1 (116). -> POPOLUDNIE.

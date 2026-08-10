@@ -4080,3 +4080,6 @@ Noc przespana po weselu. RANO 04-08: zwornik zaparkowany (Owen grzeje Theomore),
 
 ### 297-04-08 POLUDNIE - ROLLAM zdobyty
 Symon podszedl do Rollama (duzy faktor, styczniowy odmowca) z DOWODEM (Leona+Aurane+broker+marka), bez naporu (rzut 87). Ostrozny czlowiek ruszyl sie - dal wycinek ksiag na probe pod dyskrecja, zadatek 4 jel, saldo grubsze na dostawie. Najwieksza ryba dotad; metoda dowod+cierpliwosc potwierdzona (Aurane->Rollam). Sakiewka 24 jel. nast 8->24, zauf 6. Robota: rollam_ksiegi_wycinek.
+
+### 297-04-08 WIECZOR - ksiegi Rollama (proba zaliczona)
+Symon dowiozl wycinek ksiag Rollama czysto+dyskretnie (rzut 49), ale bez fajerwerkow (ciasny interes, brak wycieku). Proba zaliczona ('czysto, trzymales jezyk'). Zaufanie na raty - dal nastepny wycinek. Saldo +8 jel (sakiewka 32). Kanal top-tier otwiera sie stopniowo. Dyscyplina: rosnaca aggregate visibility. nast 24->30, zauf 8.

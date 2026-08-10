@@ -4176,3 +4176,6 @@ Symon poszedl po prowizje z 3. ladunku (futra->Braavos) - NIE uplasowany (rzut 1
 
 ### 297-04-14 POLUDNIE->WIECZOR - ksiegi domu + cichy koszt (Ulric)
 Symon robil ksiegi domu Godrica (rzut 12) - czysto, drobny grosz +3 jel. ALE cichy koszt wczorajszej wygranej o grad: ULRIC-SZAFARZ (jego over-grading skorygowany 04-13) URAZONY, patrzy spode łba - nieprzyjazne oko wewnatrz zamku z bliskim dostepem (visibility/witness-risk). Symon nie prowokuje, trzyma mandat, notuje wroga. Godric 70 hold. Ulric ustanowiony (nast -8). Watek ulric_urazony.
+
+### 297-04-14 WIECZOR - sluzba w sepcie + pierwsza lekcja Wicka
+Symon sluzyl w sepcie (rzut 68, pismo dla ubogich, wiara 74->75) i zaczal uczyc Wicka liter - chlopak chlonie z celem, druga droga rusza. Chain Owen->Symon->Wick. Niskoprofilowe dobro (spojne z dyscyplina widocznosci), grzeje tarcze Wiary (wazne przy Ulricu). Cech kolodziejow zapamieta. Zmeczenie 36.

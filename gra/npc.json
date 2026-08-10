@@ -1721,12 +1721,13 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 22,
-   "zaufanie": 5,
-   "ostatni_kontakt": "297-04-12",
+   "nastawienie_do_gracza": 28,
+   "zaufanie": 8,
+   "ostatni_kontakt": "297-04-14",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
-    "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro."
+    "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
+    "297-04-14: Symon zaczal uczyc go liter (zdrowa reka) - Wick chlonie z celem w oczach, robi cos zamiast czekac czy dlon wroci. Chain Owen->Symon->Wick zywy. Druga droga sie zaczyna."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   }

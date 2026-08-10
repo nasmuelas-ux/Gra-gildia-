@@ -449,11 +449,12 @@
   },
   {
    "id": "audyt_dostawcy_voxa",
-   "opis": "Vox podejrzewa, ze jego dostawca/wspolnik go oszukuje; ufa Symonowi (uczciwy pisarz, pisarz Septy) i proponuje mu AUDYT jego papierow — platna robota",
+   "opis": "Vox podejrzewa, ze jego dostawca/wspolnik go oszukuje; ufa Symonowi (uczciwy pisarz, pisarz Septy) i proponuje mu AUDYT jego papierow — platna robota || 297-05-03 (rzut 86): DOWIEZIONE - wspolnik skimuje krotka miara, udokumentowane; Vox ma pewnosc, docisnie prywatnie (nie do cechu). Symon czysty, +5 jel, jezyk Voxa re-uszczelniony. Zamkniete.",
    "typ": "okazja",
    "termin": null,
    "wobec": "kupiec_vox",
-   "stan": "WYKONANE (m10d2, rzut 84): audyt mistrzowski — Vox BYL skubany, ale NIE przez dostawce, ktorego podejrzewal, lecz przez POSREDNIKA/wewnetrzny skim (Symon wskazal precyzyjnie mechanizm i sprawce). Vox ogromnie wdzieczny (+4 jel), glosno chwali. Osobne od Antaryona. Renoma Symona jako OSTREGO, UCZCIWEGO audytora SKACZE = kontra na smear + naplyw pracy. || 297-01-29 (rzut 18): fallout - wylany posrednik (nakryty w audycie Voxa) zgorzknialy, obwinia SYMONA (nie Voxa) - drobny cichy wrog. Vox nieostroznie rozglasza Symona jako 'lowce zlodziei'. NAUKA: reputacja forensyczna tnie w dwie strony (niewygodny swiadek - Owen/Nesta); dozowac te robote/slawe."
+   "stan": "WYKONANE (m10d2, rzut 84): audyt mistrzowski — Vox BYL skubany, ale NIE przez dostawce, ktorego podejrzewal, lecz przez POSREDNIKA/wewnetrzny skim (Symon wskazal precyzyjnie mechanizm i sprawce). Vox ogromnie wdzieczny (+4 jel), glosno chwali. Osobne od Antaryona. Renoma Symona jako OSTREGO, UCZCIWEGO audytora SKACZE = kontra na smear + naplyw pracy. || 297-01-29 (rzut 18): fallout - wylany posrednik (nakryty w audycie Voxa) zgorzknialy, obwinia SYMONA (nie Voxa) - drobny cichy wrog. Vox nieostroznie rozglasza Symona jako 'lowce zlodziei'. NAUKA: reputacja forensyczna tnie w dwie strony (niewygodny swiadek - Owen/Nesta); dozowac te robote/slawe.",
+   "status": "rozwiazany"
   },
   {
    "id": "robota_koladzieje",

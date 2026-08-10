@@ -4420,3 +4420,6 @@ Praca z Halem (rzut 54). Port rozbudzony odwilza - wiecej zlecen (listy/umowy/ra
 
 ## 297-05-03 WIECZOR — Inbound: chlodne slowo Aurane
 Cicho (goscie zero, wszystko czeka na pogode) - poza Aurane. Sluga przyniosl HONORARIUM za wiosenne ksiegi (+6 jel -> 27 jel, uczciwie co do miedziaka) ale z chlodnym slowem: 'dziekuje za ksiegi; stacje poprowadze sam, nie ruszaj dalej', zero wdziecznosci za wykrycie skimu. Aurane strawil dowod po swojemu: zaplacil (nie mssciwy) i odsunal na dystans (woli sam zalatwic Hobba bez swiadka). Rezerwa nie cieplo, relacja przystygla (nast 41). Symon czysty - a i tak troche chlodu, cena prawdy ktorej nie chciano. Aurane/Wenda zdjeci z inbound. Watek aurane_trawi_skim -> rezerwa.
+
+## 297-05-03 WIECZOR — Vox: audyt dowieziony, sprawa zamknieta
+Symon do Voxa (rzut 86). Tym razem nie zimowa paranoja - swiezy wiosenny material: audyt zlapal REALNY skim wspolnika (KROTKA MIARA - sukno ponizej lokcia, konsekwentnie na duzych belach), udokumentowany. Vox dostal PEWNOSC. Rada czysta (doktryna jak przy Aurane): docisnac prywatnie/zwazyc przy swiadku, NIE do cechu (jego potrzeba) - Symon narzedzie nie oskarzyciel. Jezyk Voxa RE-USZCZELNIONY 2. raz mocniej (dyskrecja=prestiz - dyscyplina widocznosci). +5 jel -> 32 jel. nast 58->63, zauf 20. Watek audyt_dostawcy_voxa ZAMKNIETY. Liczniki audyt+1 (127), czyt+1. -> noc.

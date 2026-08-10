@@ -4459,3 +4459,6 @@ Gracz: B-jako-schody-do-A, ale NAJPIERW rozpoznanie kogo Bank pilnuje. Rozpoznan
 
 ## 297-05-06 RANEK — Noc
 Sen po dniu zniw (zelazo/Harlon/Belarno/przelom Bankowy). Przejscie 05-06 RANEK. Wielki watek na stole: plan Zelazny Bank (B-schody-do-A) do dopiecia na chlodno z Nesta zanim rzucic imie Belarnowi. Flotylla w porcie (rynek sukna), Aurane w rezerwie, weksel Wenda ~05-12.
+
+## 297-05-06 RANEK — Plan Banku dopiety na chlodno
+Do Nesty dopiac plan (rzut 68). Wyszlo czysto: ASK do Belarna WASKI - tylko "sprawdzona dyskretna reka do wynajecia gdyby Bank chcial uczciwe oko", ZERO o Antaryonie. Agent (juz niespokojny o przeplyw) sam naprowadzi na fracht - on przynosi sprawe, nie Symon. Sekwencja: Belarno reczy ogolnie -> agent daje probe -> uczciwa weryfikacja -> palce Antaryona z ROBOTY -> fakt bez nazwiska -> Bank sam nazywa i rusza waga. FIREWALL: audytor nie lowca; ODCIAC stara zimowa robote na Antaryona (mur - inaczej "niewinny audytor" peka); Belarno zna tylko B; krag Nesta/Owen; powoli. Nesta: 'jak Bank przycisnie Antaryona, ten poszuka kto podlozyl ogien - mur musi wytrzymac jego wzrok'. Gotowe do ruchu. Liczniki prawo+1 (167), spryt+1 (125). -> POPOLUDNIE.

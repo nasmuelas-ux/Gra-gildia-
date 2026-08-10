@@ -284,6 +284,11 @@
    "id": "zamek_pierwsza_dostawa",
    "termin": "297-04-13",
    "opis": "297-04-10: pierwsza parcela zamkowa skoordynowana (Halvard->Torsen->Symon broker->zamek). Spływa Bialym Nozem, dostawa do zamku ~04-13. Na dostawie: potwierdzenie gradacji/odbioru + PIERWSZA PROWIZJA BROKERSKA Symona z tego kanalu (recurring). Pilnowac odbioru/jakosci (reputacja kanalu)."
+  },
+  {
+   "id": "broker_rennick_plasowanie",
+   "termin": "297-04-12",
+   "opis": "297-04-10: 2. ladunek brokerski (Rennick, outbound, zwettowany forensic) teed dla Nesty do uplasowania u ustalonego ubezpieczyciela ~04-12. Na uplasowaniu: prowizja Symona (~2 jel) + track-record brokera (2. deal). Buduje fose reputacji dobrze-przesianych ryzyk."
   }
  ]
 }

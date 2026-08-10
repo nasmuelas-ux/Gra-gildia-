@@ -4104,3 +4104,6 @@ Symon o swicie domknal z Godrikiem STRUKTURE BROKERSKA (rzut 71): zamek placi ry
 
 ### 297-04-10 POLUDNIE - pierwsza parcela zamkowa skoordynowana
 Symon skoordynowal z Torsenem pierwsza parcele zamkowa (rzut 82) - gladko, czysta struktura brokerska. Torsen uloz z Halvardem pojemnosc; kontent (dostal stalego odbiorce - marzenie faktora). Luk operacyjny Halvard->Torsen->Symon(broker)->zamek. Dostawa ~04-13 + pierwsza prowizja. Kanal ku dworowi domkniety i zarabiajacy. nast Torsen 53->57. Sakiewka 36 jel.
+
+### 297-04-10 POLUDNIE->WIECZOR - broker: Rennick zawczasu
+Symon zlapal Rennicka ZAWCZASU (rzut 85) - ladunek outbound jeszcze na kei, podszedl przed rejsem (nauka z 04-06). Rennick zrozumial wartosc, konwersja na klienta. Zwettowany forensic, teed dla Nesty do uplasowania ~04-12. 2. transakcja brokerska po Aldousie - track-record rosnie. nast 8->20, zauf 6. Prowizja z uplasowania.

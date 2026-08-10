@@ -1691,12 +1691,13 @@
    "stan": "mieszczanin",
    "zawod": "kupiec ze Schodow (wozi rozny towar morzem)",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 8,
-   "zaufanie": 3,
-   "ostatni_kontakt": "297-04-06",
+   "nastawienie_do_gracza": 20,
+   "zaufanie": 6,
+   "ostatni_kontakt": "297-04-10",
    "wie_o_graczu": [
     "polecony przez Aldousa jako dyskretny czlowiek od liczb/ubezpieczen",
-    "297-04-06: Symon przyszedl z poleceniem Aldousa uplasowac ubezpieczenie jego ladunku - ale ZA POZNO: ladunek juz schodzil na lad bezpieczny, ryzyko rejsu minelo, wiec ubezpieczac nie ma czego. Rennick cieply (Aldous reczyl) ale trzezwy: 'po co kryc rejs, ktory sie udal'. Drzwi otwarte na NASTEPNY ladunek - podejsc ZAWCZASU. Prospekt brokera na przyszlosc."
+    "297-04-06: Symon przyszedl z poleceniem Aldousa uplasowac ubezpieczenie jego ladunku - ale ZA POZNO: ladunek juz schodzil na lad bezpieczny, ryzyko rejsu minelo, wiec ubezpieczac nie ma czego. Rennick cieply (Aldous reczyl) ale trzezwy: 'po co kryc rejs, ktory sie udal'. Drzwi otwarte na NASTEPNY ladunek - podejsc ZAWCZASU. Prospekt brokera na przyszlosc.",
+    "297-04-10 (rzut 85): ZLAPANY ZAWCZASU. Rennick ladowal ladunek DO WYSLANIA (wiosenny rejs, jeszcze na kei) - Symon podszedl PRZED rejsem (nauka z 04-06 zastosowana). Rennick zrozumial wartosc ('teraz rozumiem, dobra pora'). Symon wettowal forensic, teed dla Nesty do uplasowania (~04-12). Z niedoszlego prospektu -> klient brokera. 2. transakcja brokerska po Aldousie (track-record rosnie). nast 8->20, zauf 3->6."
    ],
    "cechy_mowy": "rzeczowy, portowy, mowi 'chlopcze'"
   }

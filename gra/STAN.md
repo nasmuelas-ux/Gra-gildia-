@@ -10,7 +10,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 21 jeleni + 95 mied + 0 smokow
-- kwit depozytowy u Nesty (65 jel)
+- kwit depozytowy u Nesty (70 jel)
 - Zdrowie 100 · Sytosc 52 · Zmeczenie 20
 
 ## UMIEJETNOSCI (0-10)

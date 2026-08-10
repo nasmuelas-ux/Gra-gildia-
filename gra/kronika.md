@@ -4267,3 +4267,6 @@ Noc przespana. Faza cichej konsolidacji. W tle: zelazo Gulltown w drodze (tygodn
 
 ### 297-04-22 RANEK->POLUDNIE - Rollam grubszy wycinek
 Dowieziony grubszy wycinek ksiag Rollama (rzut 54) - czysto/dyskretnie, saldo +7 jel. Zaufanie na raty rosnie (glebszy dostep). Polecenie do peerow gestnieje, jeszcze nie padlo. Symon=czlowiek ktoremu duzy faktor ufa. Filar recurring, niskoprofilowe. nast 36->40, zauf 13. Sakiewka 26 jel.
+
+### 297-04-22 POLUDNIE->WIECZOR - zlecenie z Halem
+Kolejne uzgodnienie z Halem (rzut 50) - czysto, rutynowo, netto +3 jel. Hal prowadzi wiekszosc sam, coraz mniej asysty. Cichy silnik mieli. zauf ->43. Sakiewka 29 jel.

@@ -4155,3 +4155,6 @@ Symon usiadl przy rannym Wicku (czeladnik kolodziejow, rzut 74). Chlopak bez rod
 
 ## 297-04-13 RANEK
 Noc przespana. DZIS: pierwsza dostawa zamkowa (Halvard->Torsen->Symon broker->zamek) + PIERWSZA PROWIZJA z kanalu dworskiego. Jutro (~04-14) Nesta plasuje 3. ladunek brokerski. Off-take Borena czeka az cech ochlonie. Dyscyplina: aggregate visibility - cicho/rozkladac (3 sygnaly).
+
+### 297-04-13 RANEK->POLUDNIE - pierwsza dostawa zamkowa (spor o grad)
+Symon (z Halem-obserwatorem) odbieral pierwsza parcele zamkowa (rzut 6) - Godrica brak, szafarz gradzil twardo (drewno podmokle po spywie, opal kwestionowany), wycena nizej; czlowiek Torsena protestuje. Symon nie tracil glowy - spisal sporne sorty pozycja-po-pozycji (prawo/forensyka), nie dal railroadowac zadnej strony. Ale dzis nie domkniete - prowizja wisi do powrotu Godrica (jedna miara gradu). NAUKA BROKERA: spinaj NORME JAKOSCI/grad, nie tylko podaz-popyt (szczelina). Hal widzial mistrza metodycznego w chaosie. Reputacja bez rupture.

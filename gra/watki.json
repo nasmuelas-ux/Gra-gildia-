@@ -344,7 +344,7 @@
   },
   {
    "id": "nisza_weryfikacji",
-   "opis": "NISZA WERYFIKACJI rusza (flywheel Nesty). d29: pierwszy inbound poza Leona — kupiec ALDOUS (braavijskie wino/barwniki, Schody), przyslany word-of-mouth po sprawie oszustwa dostawcow; boi sie, ze jego braavijskie papiery tez skrocone, chce zlecic faktorii sprawdzenie. To POWTARZALNY przychod + standing Schody + potwierdzenie, ze uslugi 'sprzedawaj wiedze/weryfikacje' ma rynek. Robota faktorii (Symon czyta, 1/3), niskoprofilowo. CAUTION (Nesta/Owen): skalowanie widocznosci — trzymac przez faktorie, nie jako 'Symon-lowca', by nie karmic cechu.",
+   "opis": "NISZA WERYFIKACJI rusza (flywheel Nesty). d29: pierwszy inbound poza Leona — kupiec ALDOUS (braavijskie wino/barwniki, Schody), przyslany word-of-mouth po sprawie oszustwa dostawcow; boi sie, ze jego braavijskie papiery tez skrocone, chce zlecic faktorii sprawdzenie. To POWTARZALNY przychod + standing Schody + potwierdzenie, ze uslugi 'sprzedawaj wiedze/weryfikacje' ma rynek. Robota faktorii (Symon czyta, 1/3), niskoprofilowo. CAUTION (Nesta/Owen): skalowanie widocznosci — trzymac przez faktorie, nie jako 'Symon-lowca', by nie karmic cechu.  ||  297-05-13 (rzut 97): SFORMALIZOWANA jako USLUGA faktorii (propozycja Nesty) - Symon forensic-glowa, Hal junior (bierze skomplikowana weryfikacje SOLO - drugi forensic), cena/recurring. Fach przekuty w PRODUKT (leverage, nie godziny - nauka Nesty zrealizowana). +4 jel. BONUS: aggregate view papierow portu = kszalt frachtu (kto z kim, stawki, gdzie fracht dusi) - cichy edge na koalicje/Bank.",
    "typ": "okazja/rozwoj",
    "termin": null,
    "wobec": "self",
@@ -644,7 +644,8 @@
    "postep_0314": "297-03-14: WALIDACJA na powtornym kliencie - Wat (rosnacy kupiec Schodow) wraca po WIOSENNY refresh ksiag premium. Model dziala nie tylko jako jednorazowa sprzedaz prestizu, ale jako POWRACAJACY przychod: klient rosnie -> jego ksiegi rosna -> potrzebuje mnie cyklicznie. Kapitalo-lekki filar (czas+glowa, zero zapasu) z rekurencja. Dyskrecja=fosa marki.",
    "postep_0316": "297-03-16: przychod ZREALIZOWANY - Wat zaplacil saldo ~9 jel za wiosenny refresh (drugi obrot tego samego klienta). Dowod, ze filar daje rekurencje: rosnacy kupiec wraca cyklicznie. Wartosc = twarda diagnoza (trasa topiaca grosz), nie estetyka ksiag.",
    "postep_0328": " || 297-03-28 (rzut 18): NAUKA o INTAKE - dzwignia (Hal) kusi brac WSZYSTKO, ale vetting stron zostaje. Wzieli zlecenie bez sprawdzenia -> zle (trudny klient/bagno/entanglement); Symon wycofal sie (czas stracony, fee brak, gorsze ominiete). Zasada \"malo+bezblednie > duzo+byle jak\" na nowo. Moc przerobowa NIE zwalnia z obowiazku WYBIERANIA co sie bierze. Hal widzial lekcje osadu w intake (odmowa zlej roboty > grosz).",
-   "postep_0329b": " || 297-03-29 (Aurane, rzut 77): premium-klient wyzszej ligi obslugiwany - forensic znajduje mu grosz (niezafakturowane skladowe + rozbieznosc inwentarza), nie tylko porzadek. To model lojalizowania zamoznych: po wizycie sa BOGATSI. Nabrzeze-magazyny to nowy, wyzszy pulap."
+   "postep_0329b": " || 297-03-29 (Aurane, rzut 77): premium-klient wyzszej ligi obslugiwany - forensic znajduje mu grosz (niezafakturowane skladowe + rozbieznosc inwentarza), nie tylko porzadek. To model lojalizowania zamoznych: po wizycie sa BOGATSI. Nabrzeze-magazyny to nowy, wyzszy pulap.",
+   "opis": "  ||  297-05-13: aggregate view faktorii - z cudzych papierow Symon widzi ksztalt frachtu portu (edge na koalicje/Bank)."
   },
   {
    "id": "slub_brana_alys",

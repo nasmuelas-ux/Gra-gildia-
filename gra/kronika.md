@@ -4089,3 +4089,6 @@ Symon wrocil o swicie (dobre okno, nie wieczor) z konkretem (rzeka ruszyla, trat
 
 ### 297-04-09 POLUDNIE->WIECZOR - koordynacja utknela
 Symon poszedl skoordynowac pierwsza dostawe do zamku przez Torsena (rzut 2) - sciana: pierwsze tratwy w wiekszosci zaklepane (Halvard stali odbiorcy), wolne drogie, marza ~zero. NAUKA: sprzedal polaczenie Godricowi nim zabezpieczyl podaz = blad posrednika (trzymaj oba konce). Torsen warm/uczciwy, wiez stoi. Opcje: szukac podazy / loss-leader / reset z Godrikiem. Zobowiazanie wisi.
+
+### 297-04-09 KOREKTA - model Torsena (popyt-najpierw)
+Gracz sluznie wychwycil niespojnosc: Torsen (02-14/03-16) ustalil model POPYT-NAJPIERW ('przynies odbiorcow, ja z Halvardem uloze podaz'). Wiec zdobycie zamowienia zamku najpierw bylo POPRAWNE, nie 'blad posrednika'. Poprawiono wpis Torsena i zegar. REALNA komplikacja rzutu 2 = EKONOMIA: Symon zafiksowal cene zamku z Godrikiem nim poznal wiosenny koszt drewna (popyt windowal) -> marza cienka/ujemna. Torsen MOZE ulozyc podaz. Nauka poprawiona: znaj koszt nim zafiksujesz cene sprzedazy.

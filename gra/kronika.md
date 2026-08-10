@@ -4032,3 +4032,6 @@ Symon wprowadzil sie do wlasnej izby 4 swojej kamieniczki przy Schodach. Fit-out
 
 ### 297-04-04 WIECZOR - ogrod
 Symon wyszedl na chwile na wlasny murowany ogrodek - pusty jeszcze, mokry od roztopow, ale JEGO (wpisany pod nazwisko). Cichy moment ugruntowania po gorzkim dniu osadu Theomore. Mysl: gdy ziemia obeschnie, cos posadzic (kapusta/zioła, Jonna doglada). Korzen. Pierwszy wieczor na wlasnym gruncie.
+
+### 297-04-04 REKONCYLIACJA - zarzad kamieniczki
+Poprawka (gracz sluznie): Mira NIE zarzadza juz kamieniczka - trial skonczyl sie 03-13/03-17, cofnela sie od stalej roli (niezaleznosc, granica). Pole 'zarzad' aktualizowane: kamieniczka prowadzona przez samego Symona (mieszkaniec on-site) + Bran (dozorca). Mira = kontakt zawodowy / watek osobisty, nie zarzadczyni.

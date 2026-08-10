@@ -4252,3 +4252,6 @@ Symon do Miry po ludzku (rzut 94) - najlepszy wieczor dotad. Rozmowa o zyciu, la
 
 ## 297-04-21 RANEK
 Noc przespana. Faza cichej konsolidacji (Nesta: cierpliwosc=ruch). W tle: zelazo Gulltown w drodze, kanal zamkowy recurring, Ulric (czekac na okazje), Wick uczy sie, Mira slow-burn ciepły. Zwornik zaparkowany.
+
+### 297-04-21 RANEK->POLUDNIE - grzadki w ogrodzie
+Symon obsial ogrodek (rzut 78) z Jonna (zna sie na roli, doglada za dzielenie plonu) - kapusta/zioła/rzepa. Grunt zyje. Najglebszy dowod jak daleko zaszedl: wlasna ziemia, dach, sasiadka do dzielenia plonu. Rok temu obcy bez nikogo. Niskoprofilowe/zakorzeniajace. rzemioslo praktyka. Jonna 17->19.

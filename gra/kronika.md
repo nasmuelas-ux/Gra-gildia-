@@ -3990,3 +3990,6 @@ Symon wieczorem do kantoru pomoc przy backlogu uzgodnien (rzut 69). W ciszy po d
 
 ### 297-04-01 REKONCYLIACJA
 Korekta ksiegowa: zadatek 2 jel od Merka (narrowany 2x, niezapisany) dopisany do sakiewki -> 21 jel. Merek npc doprowadzony do stanu narracji: nast 44->47, zauf 12->13, ost 04-01, pamiec 04-01 dopisana.
+
+## 297-04-02 RANEK
+Noc przespana. Poranek: osad Theomore ~04-03, pogodzenie ksiag Merka ~04-04, broker Aldous ~04-05, slub Brana 04-07.

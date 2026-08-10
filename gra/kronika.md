@@ -4429,3 +4429,6 @@ Odpoczynek+herbata (zmecz 40->20). Potem do Nesty: co da sie znalezc za 50/100/2
 
 ## 297-05-04 RANEK — OKNO POGODOWE OTWARTE
 Sen. Przejscie 05-04 RANEK. Rzut 73: OKNO OTWARTE - wiatr ustal, morze plaskie, statki co czekaly ruszaja. Flotylla sukna / partia zelaza / galera Belarna w koncowym podejsciu (wejda w ciagu dnia-dwoch przez wciaz ryzykowna wode). KUPCY Z LADUNKIEM DRZA = FALA UBEZPIECZEN LIVE. Symon ma gotowy aparat (nauka Nesty procentuje) - czas strzyc skladke jako wspol-underwriter, nie prowizje. Belarno=Zelazny Bank w zasiegu.
+
+## 297-05-04 RANEK — Corl: nie kupil (okno ugasilo strach)
+Sniadanie porzadne. Do Corla (rzut 14). Slowo Aldousa dotarlo - Corl sluchal wyceny z uznaniem, ale NIE KUPIL: plaskie spokojne morze samo mu odebralo strach ('wejda lada dzien, po co placic'), skapy+ostrozny gra na spokoj. 'Jak sztorm wroci albo jak inni placa - przyjde pierwszy.' Znajomosc ocieplona (nast 0->8, przyszly prospekt). IRONIA/nauka: to samo okno co przywiozlo flotylle ugasilo strach, z ktorego zyje broker - miekszy popyt. Fala WCIAZ live u bardziej struchlałych (drozszy/wrazliwszy ladunek). Corl=twardy pierwszy typ, nie regula. Liczniki retoryka+1 (107), handel+1 (118). -> POPOLUDNIE.

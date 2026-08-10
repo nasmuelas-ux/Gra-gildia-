@@ -1797,11 +1797,12 @@
    "imie": "Corl",
    "stan": "mieszczanin",
    "zawod": "kupiec ze Schodow - partia sukna na skrzydle braavijskiej flotylli",
-   "nastawienie_do_gracza": 0,
+   "nastawienie_do_gracza": 8,
    "zaufanie": 0,
-   "ostatni_kontakt": "297-05-02",
+   "ostatni_kontakt": "297-05-04",
    "wie_o_graczu": [
-    "297-05-02: poznany na dokach. Aldous obiecal polecenie ale jeszcze nie dotarlo. Corl grzeczny-wymijajacy: 'pogadamy jak flotylla blizej albo jak mi kto reczy'. Seed pod ubezpieczenia, nie deal. Drzy o ladunek sukna (na tej samej niepewnej wiosennej wodzie)."
+    "297-05-02: poznany na dokach. Aldous obiecal polecenie ale jeszcze nie dotarlo. Corl grzeczny-wymijajacy: 'pogadamy jak flotylla blizej albo jak mi kto reczy'. Seed pod ubezpieczenia, nie deal. Drzy o ladunek sukna (na tej samej niepewnej wiosennej wodzie).",
+    "297-05-04 RANEK (rzut 14): slowo Aldousa dotarlo - Corl sluchal wyceny z uznaniem, ale NIE KUPIL: patrzy na plaskie morze i sam sobie odbiera strach ('wejda lada dzien, po co placic'). Skapy+ostrozny, woli zaryzykowac. 'Jak sztorm wroci albo jak inni placa - przyjde pierwszy.' Znajomosc ocieplona (przyszly prospekt), ale deal nie. IRONIA: otwarte okno lagodzi strach z ktorego zyje broker."
    ],
    "cechy_mowy": "ostrozny, kupiecki, waha sie"
   }

@@ -4552,3 +4552,9 @@ Do Wenda po weksel (rzut 73). Statek/dluznik wrocili - Wend domknal: reszta + op
 
 ## 297-05-12 POPOLUDNIE — Mira: oddech odczytany jako zrozumienie
 Wizyta po ludzku w dobrym rytmie (rzut 59) - Symon dal 4 dni oddechu po odsłonieciu (05-08), nie przylecial nazajutrz. Mira ZAUWAZYLA i doceniła: 'dales mi oddech' = ten czlowiek mnie ROZUMIE (u niej glebsze niz wyznanie). Latwo, cieplo, zero pol-kroku. Opowiedziala o wlasnym planie (resztka interesu meza w nowym kierunku), spytala o zdanie jak PARTNERA-w-zyciu nie skrybe. Nie nazwane, nie trzeba - tak blisko jak dwoje ostroznych bez slow. Staloscia+cierpliwoscia. nast 61->65, zauf 22->24. Licznik czyt+1 (154). -> WIECZOR.
+
+## 297-05-12 WIECZOR — Septa: sluzba + Garth stygnie
+(Harlon/sol ANULOWANY - crit 2 przerwany interruptem, gracz przekierowal). Zamiast: sluzba w sepcie (rzut 58). Rep wiara 78->79. Owen: Garth mniej zaszczuty, wiosenne oko zamku z niego schodzi - dziura w murze sie zabliznia, plan Banku o krok blizej zielonego (wciaz cierpliwy hold). Sen.
+
+## 297-05-13 RANEK — Noc
+Przejscie 05-13 RANEK.

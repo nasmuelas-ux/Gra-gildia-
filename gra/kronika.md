@@ -3852,3 +3852,6 @@ Symon wpadl do Bess i Dake'a po ludzku, ale na resztkach sil po gestym dniu (dos
 
 ## 297-03-24 RANEK — laznia, sen, pelny odpoczynek
 Symon zmyl dlugi dzien w lazni i przespal noc gleboko (zmeczenie 4) - wreszcie posluchal ciala. Off-take zelaza (~03-24 termin) NIE domkniety - kowale to powolna robota relacyjna, parked (nie event). Nic pilnego nie odpalilo. Przed skrzyzowaniem (~03-25 dach, ~03-26 Theomore, ~03-27 flotylla). Sytosc 54.
+
+## 297-03-24 RANEK — Denys: ciepłe, lekkie odswiezenie (stabilna cegla)
+Symon wpadl do Denysa po ludzku (swiezy, zmeczenie 4). Denys (wdzieczny, ze Symon uratowal mu grosz) przyjal jak dobrodzieja, bez podejrzliwosci (kontrast z Harlonem/Aurane). Gadka o wiosnie (galery, wosk/knoty, interes sie prostuje). Cegla cicha i lojalna - nie dopytuje o zadna sprawe, wdzieczny i spokojny = stabilny rdzen bloku (vs twarde niecierpliwe ogniwa). Podsunal wiazke dobrych swiec po przyjacielskiej cenie (narzedzie pracy Symona). Ciepla, lekka wizyta - taki dzien, jakiego trzeba po wczorajszym przeholowaniu. Rzut 55. Denys nast 23->28, zauf 8->9. Sytosc 64, zmeczenie 10.

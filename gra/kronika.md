@@ -4585,3 +4585,6 @@ Odpoczynek+jedzenie, potem wieczorna praca w faktorii (rzut 64). Weryfikacje odr
 
 ## 297-05-15 RANEK — Noc
 Sen. Przejscie 05-15 RANEK. Filary mielą, weksle pracuja (zwrot ~06-05), Bank blizej gotowosci (Garth stygnie), Mira blisko (dac rytm).
+
+## 297-05-15 RANEK — Mira: prog przekroczony (pierwszy dotyk)
+Wizyta po ludzku w dobrym rytmie (rzut 65). Jak w dom, zero napiecia. Przy jej papierach reka Symona znalazla jej dlon - NIE COFNELA, zostawila; spojrzenie dluzsze niz miedzy obcymi. Bez wielkiego slowa (u Miry przychodza ostatnie nie pierwsze), ale PROG PRZEKROCZONY: niewypowiedziane-ale-pewne -> DOTKNIETE (gest, nie deklaracja). nast 65->69, zauf 24->26. Cos sie ulozylo na dobre. Staloscia+cierpliwoscia. Licznik czyt+1 (156). -> POPOLUDNIE.

@@ -4255,3 +4255,6 @@ Noc przespana. Faza cichej konsolidacji (Nesta: cierpliwosc=ruch). W tle: zelazo
 
 ### 297-04-21 RANEK->POLUDNIE - grzadki w ogrodzie
 Symon obsial ogrodek (rzut 78) z Jonna (zna sie na roli, doglada za dzielenie plonu) - kapusta/zioła/rzepa. Grunt zyje. Najglebszy dowod jak daleko zaszedl: wlasna ziemia, dach, sasiadka do dzielenia plonu. Rok temu obcy bez nikogo. Niskoprofilowe/zakorzeniajace. rzemioslo praktyka. Jonna 17->19.
+
+### 297-04-21 POLUDNIE->WIECZOR - sluzba + lekcja Wicka + Owen
+Sluzba w sepcie + lekcja Wicka (rzut 45) - Wick napisal swoje imie, dumny (pierwszy kamien drugiej drogi). Owen lekka gruntujaca rozmowa (kontrast do Winterfell): uznanie dla cichego dobra Symona ('pamietasz skad przyszedles, przedluzasz lancuch - to zostaje'). Symon lzejszy, na wlasciwym torze. Wick 28->31. Owen 86 hold.

@@ -528,10 +528,11 @@
     "297-04-03 WIECZOR (rzut 64): Symon przyszedl z niepokojem 'nie wiem czy mozemy czekac' po stallu Theomore. Owen ZDJAL FALSZYWY ZEGAR: pokazal, ze acute clock zimy MINAL (dlug ulzony przez Ternesia, koalicja zwarta na dobre, kantor stoi) - nacisk jest z DUMY Symona (inwestycja w droge lorda), nie z zewnetrznego glodu. Reframe: czekanie = dyscyplina, nie slabosc. THEOMORE: Owen bierze relacje na SWOJA cierpliwa koscielna droge (tygodniami, bez Symona na widoku) - moze szacunek dojrzeje / korroboracja przyjdzie z boku sama. Sumienie (11-13 echo): sprawiedliwa sprawa moze poczekac na czysta sciezke; NIE placic Gartem (niewinny) za pospiech. Symon wyszedl spokojniejszy, dume okielznal. Owen 84->85.",
     "297-04-03 WIECZOR (rzut 51): Symon powiedzial Owenowi, ze chce wreszcie zamieszkac u siebie (izba 4 wlasnej kamieniczki). Owen czytal serce - i tym razem (po dzisiejszym pokornym dniu) znalazl je BARDZIEJ osiadle niz przy kupnie (01-05, gdy byl glod/pospiech/pycha). Nie trzyma juz Symona w pozyczonej celi ze STRACHU: zagrozenie fizyczne przygaslo (Harwin dormant), Symon ma wlasny uczciwy dach + Brana on-site (pancerz). 'Czlowiek powinien spac pod wlasna belka.' BLOGOSLAWIENSTWO MIERZONE (nie entuzjazm): warunek-madrosc - ZACHOWAC wiez z septa (zostac jej pisarzem, trzymac publiczne skojarzenie z Wiara), by NIE zdjac oslony firewalla, poki karta Antaryona lezy w grze; i nie dac, by nowy dach znow obudzil pyche. Symon moze sie wprowadzic. Owen 85->86.",
     "297-04-12 WIECZOR (rzut 25, flat): Symon przyszedl po narade, ale Owen ZAJETY pastoralnie - ranny czeladnik kolodziejow (z wczorajszego wypadku) lezy pod dachem Wiary, Colen opatruje zmiazdzona dlon; wczorajsze pismo+grosz Symona trafily tu (chlopak zyje, dlon moze uratuja). Owen cieplo ale krotko: Theomore NIC NOWEGO (grzeje cierpliwie, tygodnie); na widocznosc tylko 'wiesz sam - badz cichy, badz pokorny, nie potrzebujesz starca'. Symon nie napieral, zostawil go przy chorym. Swiat ma swoje ciezsze sprawy. nast 86 hold.",
-    "297-04-17 WIECZOR (rzut 8, ciezka prawda): Symon przyszedl po szeroki obraz (Winterfell/Ryman/zwornik). Owen dal PRAWDE zamiast pociechy: submisja Rymana=kamien w studnie bez dna; Winterfell daleko/powolne/nikomu nie winne odpowiedzi - moze wszczac inkwizycje, ale MILCZENIE prawdopodobniejsze; poza reka Symona (wroci za miesiace albo nigdy). Owen z cieniem wlasnego niepokoju: puscili rzecz niebezpieczna (smierc Aemona, prowokacja Starkow) nieodwolywalna, nosi to na sumieniu z Symonem. SAMOTNOSC SEKRETU zabolala - rozmowa o mrocznych sprawach nie rozjasnila, przypomniala izolacje. Symon wyszedl CIEZSZY, nie lzejszy. Owen 86 hold (wiez stoi)."
+    "297-04-17 WIECZOR (rzut 8, ciezka prawda): Symon przyszedl po szeroki obraz (Winterfell/Ryman/zwornik). Owen dal PRAWDE zamiast pociechy: submisja Rymana=kamien w studnie bez dna; Winterfell daleko/powolne/nikomu nie winne odpowiedzi - moze wszczac inkwizycje, ale MILCZENIE prawdopodobniejsze; poza reka Symona (wroci za miesiace albo nigdy). Owen z cieniem wlasnego niepokoju: puscili rzecz niebezpieczna (smierc Aemona, prowokacja Starkow) nieodwolywalna, nosi to na sumieniu z Symonem. SAMOTNOSC SEKRETU zabolala - rozmowa o mrocznych sprawach nie rozjasnila, przypomniala izolacje. Symon wyszedl CIEZSZY, nie lzejszy. Owen 86 hold (wiez stoi).",
+    "297-04-21 WIECZOR (rzut 45): lekka gruntujaca rozmowa (kontrast do ciezkiej Winterfell). Owen uznanie dla cichego dobra Symona: 'dobrze robisz - nie tym co spinasz, lecz ze pamietasz skad przyszedles i przedluzasz lancuch; to zostaje po czlowieku nie prowizje'. Symon wyszedl lzejszy, ugruntowany. nast 86 hold."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-04-17",
+   "ostatni_kontakt": "297-04-21",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },
@@ -1741,13 +1742,14 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 28,
+   "nastawienie_do_gracza": 31,
    "zaufanie": 8,
-   "ostatni_kontakt": "297-04-14",
+   "ostatni_kontakt": "297-04-21",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
-    "297-04-14: Symon zaczal uczyc go liter (zdrowa reka) - Wick chlonie z celem w oczach, robi cos zamiast czekac czy dlon wroci. Chain Owen->Symon->Wick zywy. Druga droga sie zaczyna."
+    "297-04-14: Symon zaczal uczyc go liter (zdrowa reka) - Wick chlonie z celem w oczach, robi cos zamiast czekac czy dlon wroci. Chain Owen->Symon->Wick zywy. Druga droga sie zaczyna.",
+    "297-04-21: kolejna lekcja - Wick robi postepy (zdrowa reka kresli cale slowa), NAPISAL SWOJE IMIE ('WICK'), dumny jak nigdy. Pierwszy kamien drugiej drogi. Cel zamiast rozpaczy."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   }

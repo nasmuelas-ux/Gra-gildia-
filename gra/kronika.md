@@ -4212,3 +4212,6 @@ Symon rozmyslil sie ws. poznej wizyty u Nesty (madrze - zmeczony) i domknal dzie
 
 ### 297-04-17 RANEK->POLUDNIE - Donnel fundament (spring-busy)
 Symon czekal na fundament - Donnel w biegu (szczyt sezonu), szybki rzut oka: 'to odwilz nie kamien, suchy, stoi'. Pelny oglad znow odlozony. 2. fachowe 'to nic' - niepokoj praktycznie zdjety; goni pewnosc na nie-problemie. Donnel 46 hold. Zmeczenie 12.
+
+### 297-04-17 POLUDNIE->WIECZOR - sync z Nesta (portfel)
+Sync na swiezo (rzut 80). Nesta klasnela na dyscypline konsolidacji ('umiesz przestac'). Przeglad portfela: silnik=recurring kapital-light (zamek/Rollam/uzgodnienia/kantor/Godric), zelazo=klej koalicji, ubezpieczenia=celowac w apetyt. Dodatki: pilnowac Ulrica (nie prowokowac/udobruchac); cichy compounding=ubezpieczenie tranzytu wlasnej podazy (synergia filarow, watek ubezp_tranzyt_wlasna_podaz). nast 89->90.

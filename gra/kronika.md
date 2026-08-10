@@ -4486,3 +4486,6 @@ Sluzba w sepcie (rep wiara 77->78). Potem dluga rozmowa z Owenem (wewnatrz muru)
 
 ## 297-05-07 poany WIECZOR — Wplata 90% + rozmowa z Nesta
 Symon wplacil 90% wolnych srodkow do depozytu: +41 jel (4188 mied) -> depozyt 194 jel (19488 mied). Przy sobie zostalo 4 jel + 66 mied. Nesta: 'chlopiec z miedziakami stal sie chlopcem z kapitalem' + rada braavijska: srebro w skrzyni sie nie mnozy; masz juz miesien na POWAZNE ruchy (100 na underwriting gdy sztorm, kawalek na weksle, commenda z pewnym kupcem) - gdy przyjdzie wlasciwe ryzyko, nie chowac sie za prowizja. Cicha dobra rozmowa wspolnikow (Wyllam, Hal do kantoru, fronty sie zamykaja). Nesta ostatni 05-07.
+
+## 297-05-08 RANEK — Noc
+Sen. Przejscie 05-08 RANEK. W tle: Owen studzi Gartha (plan Banku hold), Winterfell uspiony, weksel Wenda ~05-12, Wyllam/Rollam/Harlon recurring, depozyt 194 jel.

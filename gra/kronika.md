@@ -3966,3 +3966,6 @@ Symon z Halem do kantoru Nesty na sesje ksiegowa - trafili w pierwszy dzien peln
 
 ### 297-03-30 WIECZOR (2)
 Symon zjadl, odpoczal chwile i na spokojnie rozdzielil oflagowana rozbieznosc (rzut 77, czysto): NIEDOWAGA DOSTAWCY - jedna pozycja swiezej dostawy przyszla lzejsza niz manifest, nie blad kopisty. Mundane, udokumentowane z dowodem dla Nesty. Chaotyczny dzien zamkniety czystym forensic-lapem - realna oszczednosc dla klienta kantoru, cichy plus do reputacji. nast Nesta 82->84.
+
+## 297-03-31 RANEK
+Wieczorem lazienka (~5 mied, rozmienil jelena) po dlugim zygzakowatym dniu - zmyl port z siebie, rozluznil kark. Noc przespana. Poranek: Aurane do dostarczenia ~04-02, osad Theomore ~04-03 w tle, broker/tratwy ~04-05.

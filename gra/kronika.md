@@ -4282,3 +4282,6 @@ Symon sprawdzil sprawe wspolnika Merka (rzut 13) - poszla ZLE: konfrontacja->wsp
 
 ### 297-04-23 POLUDNIE->WIECZOR - Merek: igla przewleczona
 Symon zawrocil po nieudanym wycofaniu (rzut 70) - siadl jako przyjaciel nie audytor, podzielil bol bez wchodzenia w spor (firewall trzyma). Chlod rozpuszczony, 'dobrze zes wrocil'. Przyjazn naprawiona+glebsza. Nauka: obecny sercem, poza sporem rekami - dyscyplina+czlowieczenstwo pogodzone. Merek 44->52.
+
+### 297-04-23 WIECZOR - Aurane recurring
+Wizyta u Aurane (rzut 60) - recurring premium potwierdzony: wiosna zawalila sklady, sam podsunal robote (ksiegi/inwentarz), zadatek +3 jel, saldo na dostawie. Premium klient wraca sam. Niskoprofilowe. nast 34->40, zauf 13. Sakiewka 32 jel. Zegar aurane_wiosna_ksiegi.

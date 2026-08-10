@@ -3867,3 +3867,6 @@ Symon myl sie, zjadl i pracowal z Torrenem nad REALNYMI sprawami prawnymi Septy 
 
 ## 297-03-25 RANEK — dach GOTOWY, izba 3 pod najem
 Symon wyspany. Rano Bran przyniosl dobra wiesc: DACH SKONCZONY - Donnel dowiozl na czas (nowe poszycie, belki/strop wymienione, kat Jonny suchy). Saldo ~20 jel doplacone z depozytu (56->36 jel). Izba 3 stoi gotowa pod najem = kamieniczka zarobi pelnia (rada Miry: stabilny lokator jak Jonna, nie max stawka). Harwin: watch re-arm, ale dalej cicho, Cech sie nie zwiera, Boren trzyma ucho - uspiony. Nowy zegar: izba3_najem ~03-30. Jutro keystone (wprowadzenie Owena->Theomore). Sytosc 52, zmeczenie 5.
+
+## 297-03-25 RANEK — izba 3: dyscyplina zamiast pochopnego najmu
+Symon z Branem szukal lokatora do izby 3. Chetni sa, ale rotacyjni nie stabilni (sezonowy robotnik / niepewny placacy wiecej) - kandydaci na rotacje nie stabilnosc. Symon (rada Miry + nauka z lokatorem Serli: pusty pokoj tydzien tanszy niz zly lokator rok) NIE wzial; kazal Branowi trzymac siec i czekac na dobrego jak Jonna. Wiosna=pora przeprowadzek, znajdzie sie, bez pospiechu. Izba postoi pare dni - ochrona aktywu przed rotacja to decyzja zarzadcza, nie bezczynnosc. Rzut 36. Bran nast 72 hold. Zegar izba3_najem przesuniety ~04-02. Sytosc 46, zmeczenie 12.

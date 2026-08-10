@@ -288,10 +288,11 @@
   {
    "id": "torhen_audyt",
    "typ": "okazja/robota",
-   "opis": "297-05-09 (rzut 65): lead klient-establishment ZYWY, namierzony - zarzadca TORHEN (dom zaopatrujacy Nowy Zamek), szuka dyskretnego audytu od uczciwego pisarza Septy. Skok w gore (renoma+dwor+grosz). PRUDENCJA: nie wiadomo czego audyt dotyka - swiat dostaw zamku ociera sie o Antaryona/MUR i o Ulrica (wrog-szafarz). Na 1. spotkaniu WYBADAC ZAKRES nim sie zwiazac (nie kompromitowac firewalla Banku). Droga otwarta.  ||  297-05-10 (Godric, rzut 41): Torhen PROSTY/SERIO, wyzsza polka - klient bezpieczny (Godric reczy za czlowieka nie za ksiegi, moze dac slowo w gore ogr. wagi). ULRIC-ADJACENCY POTWIERDZONA: audyt styka sie z rejestrami magazynow zamku = domena Ulrica. REFRAME: ryzyko = tez OKAZJA dac Ulricowi face-saving win (ulric_urazony). DECYZJA gracza: brac (z Godrikowym slowem, ostroznie/jako okazje na Ulrica) vs odpuscic.",
+   "opis": "297-05-09 (rzut 65): lead klient-establishment ZYWY, namierzony - zarzadca TORHEN (dom zaopatrujacy Nowy Zamek), szuka dyskretnego audytu od uczciwego pisarza Septy. Skok w gore (renoma+dwor+grosz). PRUDENCJA: nie wiadomo czego audyt dotyka - swiat dostaw zamku ociera sie o Antaryona/MUR i o Ulrica (wrog-szafarz). Na 1. spotkaniu WYBADAC ZAKRES nim sie zwiazac (nie kompromitowac firewalla Banku). Droga otwarta.  ||  297-05-10 (Godric, rzut 41): Torhen PROSTY/SERIO, wyzsza polka - klient bezpieczny (Godric reczy za czlowieka nie za ksiegi, moze dac slowo w gore ogr. wagi). ULRIC-ADJACENCY POTWIERDZONA: audyt styka sie z rejestrami magazynow zamku = domena Ulrica. REFRAME: ryzyko = tez OKAZJA dac Ulricowi face-saving win (ulric_urazony). DECYZJA gracza: brac (z Godrikowym slowem, ostroznie/jako okazje na Ulrica) vs odpuscic.  ||  297-05-10 (rzut 70): WZIETY. Pierwszy pas: Torhen SKRACANY na INTAKE magazynow zamku (jego strona czysta) = domena Ulrica. FORK zalezy od WHO: Ulric-zlodziej=noz (wrog glebszy) / Ulric-ofiara(podwladny/blad)=most (face-saving win, wrog->dluznik). NEXT: zweryfikowac KTO szapie na intake nim podac Torhenowi/Ulricowi. +4 jel zaliczka.",
    "odlicza_do": null,
    "co_sie_stanie": "gdy Symon umowi spotkanie: poznanie zakresu audytu -> decyzja czy brac (mind firewall/Ulric)",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "status": "wziety - pierwszy pas"
   }
  ]
 }

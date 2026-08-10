@@ -4203,3 +4203,6 @@ Check-in 'jak zona' (rzut 5) ujawnil: Bran+Alys z milosci ale PRZYDUSZENI grosze
 
 ### 297-04-16 WIECZOR - Elna (powrot po 110 dniach)
 Symon wreszcie odwiedzil Elne (rzut 74) - bez urazy, sama radosc, nakarmila/ocerowala/poblogoslawila. Wie o wszystkim (pod opieka kolodziejow): Wick, ze Symon poslal uzdrowiciela+uczy liter - 'caly cech mowi o tobie dobrze'. Grunt: sila Symona=szczerosc nie schematy. Najlepsza kotwica po pelnym tygodniu. nast 37->43. Zmeczenie 20.
+
+### 297-04-16 WIECZOR - nauka prawa u Torrena
+Sesja prawa (rzut 68): pogłebione prawo umow handlowych+arbitrazu - formalny grunt pod broker-arbiter (grad/norma robione instynktem 04-13). Wiedza dodana. Prawo ku 10 (powoli). Niskoprofilowe. Torren 28->30. Zmeczenie 30.

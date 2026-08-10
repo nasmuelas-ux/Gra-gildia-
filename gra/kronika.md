@@ -4092,3 +4092,6 @@ Symon poszedl skoordynowac pierwsza dostawe do zamku przez Torsena (rzut 2) - sc
 
 ### 297-04-09 KOREKTA - model Torsena (popyt-najpierw)
 Gracz sluznie wychwycil niespojnosc: Torsen (02-14/03-16) ustalil model POPYT-NAJPIERW ('przynies odbiorcow, ja z Halvardem uloze podaz'). Wiec zdobycie zamowienia zamku najpierw bylo POPRAWNE, nie 'blad posrednika'. Poprawiono wpis Torsena i zegar. REALNA komplikacja rzutu 2 = EKONOMIA: Symon zafiksowal cene zamku z Godrikiem nim poznal wiosenny koszt drewna (popyt windowal) -> marza cienka/ujemna. Torsen MOZE ulozyc podaz. Nauka poprawiona: znaj koszt nim zafiksujesz cene sprzedazy.
+
+### 297-04-09 KOREKTA#2 - zadna cena nie zamknieta
+Gracz znow sluznie: Symon NIE zamknal ceny z Godrikiem (angaz co do zasady, warunki per dostawa jak zimowa parcela). Usunieto bledna rame 'zafiksowal cene za nisko'. ZADEN blad Symona. Rzut 2 = czysta ekonomia rynku TERAZ: wiosenny szczyt kosztu drewna vs skromny budzet dworu = spread cienki/zerowy w tym momencie. Nic nie podpisane pod kreska; kanal solidny, tylko moment cenowy zly. Cena zamku wciaz DO USTALENIA (pelna swoboda).

@@ -214,7 +214,7 @@
   {
    "id": "rollam_grubszy_wycinek",
    "termin": null,
-   "opis": "297-04-11: 2. wycinek dowieziony z realnym catchem (rzut 75) - Rollam da GRUBSZY wycinek nastepnym razem + wisi polecenie do jego peerow (top-tier flywheel). Dowozic czysto+dyskretnie. Pilnowac aggregate visibility. || 297-04-22 (rzut 54): grubszy wycinek dowieziony czysto (+7 jel), zaufanie na raty rosnie (nast 40, zauf 13). Polecenie do peerow gestnieje, jeszcze nie padlo. Filar recurring mieli. || 297-04-28 (rzut 77): PADLO POLECENIE. Rollam kontent z czystej dyskretnej roboty daje intro do PEERA (drugi faktor jego poziomu) - flywheel odpalil. +5 jel rozliczone, nowy wycinek w reku. Nast 43, zauf 14. NEXT: dowiezc czysto peerowi gdy sie umowia, PILNOWAC aggregate visibility (juz dwa top-tier faktory na ksiegach Symona)."
+   "opis": "297-04-11: 2. wycinek dowieziony z realnym catchem (rzut 75) - Rollam da GRUBSZY wycinek nastepnym razem + wisi polecenie do jego peerow (top-tier flywheel). Dowozic czysto+dyskretnie. Pilnowac aggregate visibility. || 297-04-22 (rzut 54): grubszy wycinek dowieziony czysto (+7 jel), zaufanie na raty rosnie (nast 40, zauf 13). Polecenie do peerow gestnieje, jeszcze nie padlo. Filar recurring mieli. || 297-04-28 (rzut 77): PADLO POLECENIE. Rollam kontent z czystej dyskretnej roboty daje intro do PEERA (drugi faktor jego poziomu) - flywheel odpalil. +5 jel rozliczone, nowy wycinek w reku. Nast 43, zauf 14. NEXT: dowiezc czysto peerowi gdy sie umowia, PILNOWAC aggregate visibility (juz dwa top-tier faktory na ksiegach Symona). || 297-05-04 (rzut 76): PEER-REFERRAL DOMKNIETY - list polecajacy Rollama do faktora WYLLAMA (zboze/skora, Solne Nabrzeze), trial na reczeniu. Trzeci top-tier prospekt. NEXT: poznac Wyllama, dowiezc probe czysto."
   },
   {
    "id": "zelazo_gulltown_partia",
@@ -262,6 +262,14 @@
    "opis": "297-05-02: galera Belarna (linia pryncypala Nesty; dojscie do agenta/klucznika Zelaznego Banku, uznal Symona za rzetelnego audytora 296-11) jest wsrod weather-bound, wejdzie z oknem pogodowym. Gdy wejdzie = w zasiegu wraca angle Zelaznego Banku. Symon zasial sie na przystani, mowi po braavijsku (zyczliwosc zalogi). NEXT: zlapac Belarna gdy galera wejdzie. || 297-05-04: okno otwarte - galera Belarna wejdzie w ciagu dnia-dwoch (Zelazny Bank w zasiegu).",
    "odlicza_do": null,
    "co_sie_stanie": "gdy pogoda puosci: galera Belarna wchodzi -> kontakt + angle Zelaznego Banku w zasiegu",
+   "widoczny_graczowi": true
+  },
+  {
+   "id": "wyllam_proba",
+   "typ": "okazja",
+   "opis": "297-05-04: list polecajacy Rollama do faktora Wyllama (zboze/skora, Solne Nabrzeze). Trial na reczeniu - poznac, dowiezc probe czysto+dyskretnie jak Rollama/Aurane. Trzeci top-tier klient jesli dowiezie. Pilnowac aggregate visibility.",
+   "odlicza_do": null,
+   "co_sie_stanie": "gdy Symon pojdzie do Wyllama z listem: proba ksiag -> jesli czysto, nowy recurring top-tier klient",
    "widoczny_graczowi": true
   }
  ]

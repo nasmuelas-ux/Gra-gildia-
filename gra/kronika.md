@@ -4179,3 +4179,6 @@ Symon robil ksiegi domu Godrica (rzut 12) - czysto, drobny grosz +3 jel. ALE cic
 
 ### 297-04-14 WIECZOR - sluzba w sepcie + pierwsza lekcja Wicka
 Symon sluzyl w sepcie (rzut 68, pismo dla ubogich, wiara 74->75) i zaczal uczyc Wicka liter - chlopak chlonie z celem, druga droga rusza. Chain Owen->Symon->Wick. Niskoprofilowe dobro (spojne z dyscyplina widocznosci), grzeje tarcze Wiary (wazne przy Ulricu). Cech kolodziejow zapamieta. Zmeczenie 36.
+
+### 297-04-14 WIECZOR - Boren: off-take podpisany (przez czlowieczenstwo)
+Symon do Borena (rzut 48) - cech przygaszony po wypadku. Wiesc o Wicku (zyje + Symon uczy go liter=druga droga) gleboko poruszyla Borena ('dales mu przyszlosc, nie zapomne'). W tym cieple, bez targu, Boren PODPISAL off-take zelaza Gulltown. Pipeline rusza (kantor proba-partie, undercut gougera, ulga cechu, bierna presja na Antaryona). Deed>paper. nast 76->79, zauf 21. Zegar zelazo_gulltown_partia.

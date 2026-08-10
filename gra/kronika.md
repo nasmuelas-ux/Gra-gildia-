@@ -4131,3 +4131,6 @@ Symon przyszedl wieczorem po podpis off-take (dobra pora) - ale rzut 1: WYPADEK 
 
 ### 297-04-11 WIECZOR - sync z Nesta
 Nesta (rzut 89) klasnela na strukture brokerska zamku (doktryna w reku Symona). SYNTEZA: kanaly Symona (drewno polnoc->zamek + zelazo Gulltown->cechy) omijaja frachtowy rackiet Antaryona = bierna presja parujaca jego dzwignie, zero ryzyka, spojne z parked keystone. Caution: aggregate visibility/widoczny wezel - rozkladac, cicho. nast 87->88. Zmeczenie 48, pora spac.
+
+### 297-04-11 WIECZOR - wplata do depozytu
+Symon wplacil 35 jel do depozytu u Nesty (postawa akumulacji). Sakiewka 40->5 jel, depozyt 70->105 jel.

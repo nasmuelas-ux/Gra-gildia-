@@ -4167,3 +4167,6 @@ Symon domknal spor o grad (rzut 87) - przyniosl strukture Nesty. Sam przyznal uc
 
 ### 297-04-13 WIECZOR - Donnel o fundamencie
 Symon spytal Donnela o fundament (rzut 37) - mistrz uspokoil w zasadzie ('to odwilz gada, fundament suchy/grunt wysoki, rysa w zaprawie nie w kamieniu'), ale wieczor/zmeczony - umowili wlasciwy oglad za dnia dla pewnosci. Amatorski niepokoj ostudzony, definitywne za dnia. Donnel 46 hold. Zmeczenie 46.
+
+## 297-04-14 RANEK
+Noc przespana. DZIS: Nesta plasuje 3. ladunek brokerski (futra->Braavos) -> prowizja. Donnel wpadnie za dnia obejrzec fundament. Off-take Borena czeka az cech ochlonie. Dyscyplina: niski profil (3 sygnaly o widocznosci).

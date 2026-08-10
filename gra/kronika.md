@@ -4558,3 +4558,6 @@ Wizyta po ludzku w dobrym rytmie (rzut 59) - Symon dal 4 dni oddechu po odsłoni
 
 ## 297-05-13 RANEK — Noc
 Przejscie 05-13 RANEK.
+
+## 297-05-13 POPOLUDNIE — Nesta: struktura frachtu soli Harlona
+Do Nesty najpierw (nie do Harlona wprost - nauka po crit-2) dopiac JAK puscic sol Harlona tanszym frachtem (rzut 68). Czysta struktura: sol idzie dzis frachtem Antaryona (zdziercza stawka); podstawiaja tansza - braavijskie polaczenia Nesty + kanal koalicji (jak tanie zelazo). Symon = broker-koordynator KAPITAL-LIGHT, prowizja od partii, zero towaru/ryzyka. Nesta: kanal sol udzwignie, marza Harlona nizsza, prowizja Symona chuda ale recurring. Ostrzezenie: kazda partia = kropla z lewaru Antaryona, ale rosnie konkurencyjna siec frachtowa pod jego nosem - cicho jako handel, wojna na koncu przez Bank. Gotowe wejsc do Harlona ze stawkami/trasa/prowizja. Liczniki handel+1 (122), organizacja+1 (100). -> POPOLUDNIE.

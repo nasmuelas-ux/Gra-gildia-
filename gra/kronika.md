@@ -4567,3 +4567,6 @@ Do Harlona PRZYGOTOWANY (rzut 91) - nie pomysl lecz komplet: kolumna (stawka Ant
 
 ## 297-05-13 WIECZOR — Faktoria: nisza -> skalowalna usluga
 Wieczorna praca (rzut 97). Weryfikacje mielą (Leona/Schody/proba Harlona). HAL wzial skomplikowana braawijska weryfikacje SOLO, czysto - drugi forensic, nie uczen. Nesta: 'to juz nie robota dorywcza, to usluga' - propozycja domkniecia strukturalnie: staly nazwany serwis faktorii, Symon forensic-glowa, Hal junior, cena/recurring. Fach przekuty w PRODUKT = leverage nie godziny (nauka Nesty 'przestan sprzedawac wlasne godziny' zrealizowana). +4 jel (-> 44 jel), Hal nast 90. BONUS: aggregate view cudzych papierow = Symon widzi ksztalt frachtu portu (kto z kim, stawki, gdzie dusi) - cichy analityczny edge na koalicje/Bank. Liczniki audyt+1 (134), rachunki+1 (192). -> noc.
+
+## 297-05-14 RANEK — Noc
+Sen. Przejscie 05-14 RANEK. Faza rozkwitu: filary mielą, nisza=usluga, kredyt filar, koalicja rosnie (sol Harlona), Bank blizej gotowosci (Garth stygnie), Mira blisko.

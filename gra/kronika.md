@@ -4053,3 +4053,6 @@ Wieczorem wczesna kolacja + lazienka (~5 mied), noc przespana we wlasnej izbie. 
 
 ### 297-04-06 POLUDNIE - trop Rennicka (za pozno)
 Symon poszedl za poleceniem Aldousa do kupca Rennicka - ale ZA POZNO (rzut 26): ladunek juz schodzil bezpieczny, ryzyko rejsu minelo, nie ma czego ubezpieczac. Rennick cieply (Aldous reczyl) ale trzezwy. Drzwi na NASTEPNY ladunek (podejsc zawczasu). NAUKA domenowa: ubezpieczenie=przed rejsem; ped 'zalatwie dzis wszystko' pchnal za pozno. Rennick w orbicie jako prospekt.
+
+### 297-04-06 POLUDNIE - Garth (kontakt zaszkodzil)
+Symon podszedl do Gartha idealnie (za dnia, puste rece, sprawa odlozona) - ale rzut 12: Garth za wystraszony (wiosenne oko zamku na komorze) by przyjac; sama obecnosc go ploszy. Zero przecieku/zdrady, ale troska zaszkodzila. NAUKA: sploszone zrodlo pod okiem = kontakt jatrzy, lek=DYSTANS. Decyzja: odpuscic Gartha, dac przestrzen (watek garth_dystans), monitorowac z dystansu. nast 35->33 (strach), zauf 12.

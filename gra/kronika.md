@@ -4020,3 +4020,6 @@ Gracz sluznie wychwycil: kamieniczka ma 4 izby (kanon 01-05/01-06/01-09), nie 3.
 
 ### 297-04-03 WIECZOR - Owen o izbie 4
 Symon powiedzial Owenowi, ze chce zamieszkac u siebie (izba 4). Owen (rzut 51) - serce bardziej osiadle niz przy kupnie; nie trzyma go w celi ze strachu (Harwin dormant, wlasny dach+Bran). MIERZONE blogoslawienstwo: 'czlowiek spi pod wlasna belka', ale ZACHOWAC wiez z septa (oslona firewalla przy zywej karcie), nie dac dachowi obudzic pychy. Przeprowadzka odblokowana. Owen 85->86.
+
+### 297-04-03 WIECZOR (2) - sluzba + 297-04-04 RANEK
+Symon ostatni wieczor pod dachem septy spedzil sluzac (rzut 56, pismo dla ubogich) - honorujac warunek Owena (trzymac wiez z Wiara). Noc przespana. RANO 04-04: przeprowadzka do wlasnej izby 4. Dzis tez ~04-04 pogodzenie ksiag wspolnika Merka. Wiara trzyma (74, czeste - diminishing).

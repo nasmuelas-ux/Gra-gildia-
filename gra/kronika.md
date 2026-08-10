@@ -4285,3 +4285,6 @@ Symon zawrocil po nieudanym wycofaniu (rzut 70) - siadl jako przyjaciel nie audy
 
 ### 297-04-23 WIECZOR - Aurane recurring
 Wizyta u Aurane (rzut 60) - recurring premium potwierdzony: wiosna zawalila sklady, sam podsunal robote (ksiegi/inwentarz), zadatek +3 jel, saldo na dostawie. Premium klient wraca sam. Niskoprofilowe. nast 34->40, zauf 13. Sakiewka 32 jel. Zegar aurane_wiosna_ksiegi.
+
+### 297-04-23 WIECZOR - wplata do depozytu
+Symon wplacil 29 jel do depozytu u Nesty (akumulacja). Sakiewka 32->3 jel, depozyt 111->140 jel.

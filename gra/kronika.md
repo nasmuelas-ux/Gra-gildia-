@@ -4387,3 +4387,6 @@ Symon przyszedl dogrzac przed dostawa (rzut 11). Trafil na Borena zzartego: prob
 
 ## 297-05-01 POPOLUDNIE — Nesta: prawda o zelazie
 Symon do Nesty po realny status (rzut 33). Prawda vs plotka: partia INTAKTNA, nie przepadla - statek schronil sie na Bicie przed wiosennym sztormem, weather-bound, BRAK twardego ETA (~1-2 tyg bez gwarancji). Ryzyko=czas nie strata; cienka marza podgryziona postojem. Rada Nesty: NIE obiecywac cechowi daty, kandor uspokaja lepiej niz portowe 'ugrzezlo', klej zostanie klejem bez dramatu. Symon ma teraz fakt na panike Borena. Nesta ostatni 05-01. -> wieczor.
+
+## 297-05-01 WIECZOR — Boren uspokojony prawda
+Symon wrocil tego samego dnia z faktem od Nesty (rzut 84): zelazo zywe, schronione na Bicie, bez daty ('nie bede ci zmyslal'). Boren uspokojony - nie przez date (brak), lecz przez prawde zdobyta u zrodla i przyniesiona prosto. 'Poszedles, dowiedziales sie, wrociles prosto - to ja cechowi powiem tak samo.' Coalition-glue trzyma na kandorze; cech dostanie prawde Borena ustami. Wiez pogłebiona (prawda>glaskanie): nast 79->81, zauf 22. Rano cieplo sie odbilo, wieczorem fakt dowiozl. Liczniki retoryka+1 (105), czyt+1 (139). -> wieczor/noc.

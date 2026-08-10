@@ -4182,3 +4182,6 @@ Symon sluzyl w sepcie (rzut 68, pismo dla ubogich, wiara 74->75) i zaczal uczyc 
 
 ### 297-04-14 WIECZOR - Boren: off-take podpisany (przez czlowieczenstwo)
 Symon do Borena (rzut 48) - cech przygaszony po wypadku. Wiesc o Wicku (zyje + Symon uczy go liter=druga droga) gleboko poruszyla Borena ('dales mu przyszlosc, nie zapomne'). W tym cieple, bez targu, Boren PODPISAL off-take zelaza Gulltown. Pipeline rusza (kantor proba-partie, undercut gougera, ulga cechu, bierna presja na Antaryona). Deed>paper. nast 76->79, zauf 21. Zegar zelazo_gulltown_partia.
+
+## 297-04-15 RANEK
+Kolacja w gospodzie, noc przespana. RANO 04-15: pipeline zelaza Gulltown w toku (proba-partia), Donnel wpadnie za dnia na fundament, kanal zamkowy na twardej normie (prowizja recurring). Dyscyplina: niski profil (3 sygnaly + Ulric-szafarz). Zwornik zaparkowany.

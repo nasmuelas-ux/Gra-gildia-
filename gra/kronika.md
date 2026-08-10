@@ -4402,3 +4402,6 @@ Symon zszedl na doki spinac ubezpieczenia flotylli (rzut 12). Plotka Wendy wyprz
 
 ## 297-05-02 POPOLUDNIE — Harlon: ksiegi zarzadcze
 Symon ustawil Harlonowi (solarz) ksiegi zarzadcze premium (rzut 50). Czysto, kolumna do kolumny; fracht ROZBITY OSOBNO - celowo, bo tam iron-oszczednosc Antaryona bedzie widoczna gdy partia wejdzie ('pokaz mi' dostaje miejsce gdzie sie pokaze). Harlon zrzedzi o koszcie ale docenil fach ('porzadniej niz mialem'), zaplacil czesc (+4 jel -> 19 jel), reszta na dostawie. Premium/dyskretne/recurring, spoiwo koalicji czeka w kolumnie. nast 37->40, zauf 15. Liczniki rachunki+1 (179), organizacja+1 (95). -> WIECZOR.
+
+## 297-05-02 WIECZOR — Przystan: kapitanow brak, ale seed
+Symon szukal braavijskich kapitanow (rzut 34). Prawdziwych brak - galery linii i flotylla weather-bound na wiosennej wodzie (Vhassar na morzu, Belarno nie wszedl). Ale wieczor nie na marne: zagadal braavijska zaloge w ich jezyku (jezyki 8), pol godziny gadki, zyczliwosc. Intel: galera BELARNA wsrod czekajacych na okno - wejdzie gdy pogoda puosci, a z nim w zasieg wraca dojscie do ZELAZNEGO BANKU. Nowy zegar belarno_okno. Liczniki jezyki+1 (74), spryt+1 (123). -> noc.

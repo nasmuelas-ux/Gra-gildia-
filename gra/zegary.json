@@ -254,6 +254,14 @@
    "odlicza_do": null,
    "co_sie_stanie": "Aurane, gdy strawi, wroci do Symona (wdziecznosc lub rezerwa) i/lub sam zadziala na stacji",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "belarno_okno",
+   "typ": "okazja",
+   "opis": "297-05-02: galera Belarna (linia pryncypala Nesty; dojscie do agenta/klucznika Zelaznego Banku, uznal Symona za rzetelnego audytora 296-11) jest wsrod weather-bound, wejdzie z oknem pogodowym. Gdy wejdzie = w zasiegu wraca angle Zelaznego Banku. Symon zasial sie na przystani, mowi po braavijsku (zyczliwosc zalogi). NEXT: zlapac Belarna gdy galera wejdzie.",
+   "odlicza_do": null,
+   "co_sie_stanie": "gdy pogoda puosci: galera Belarna wchodzi -> kontakt + angle Zelaznego Banku w zasiegu",
+   "widoczny_graczowi": true
   }
  ]
 }

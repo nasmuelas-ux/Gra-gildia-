@@ -8,8 +8,8 @@
  "mieszka": "cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 60,
- "zmeczenie": 14,
+ "sytosc": 50,
+ "zmeczenie": 32,
  "sakiewka": {
   "miedziaki": 0,
   "jelenie": 9,
@@ -141,5 +141,8 @@
   "koszt_uboczny": "Cech Pisarzy/Harwin przegrali PUBLICZNIE -> uraza zaostrzona, wrog zajadlejszy (przyszly watek).",
   "cien": "Przy ceremonii Harwin (Cech Pisarzy) rzucil publiczny cierpki cień - zawoalowana grozba, ze cech bedzie pilnowal 'obcego', ze przysiega nie wymaze, SKAD czlowiek pochodzi. Nie wie o sekrecie (list/Stary Zamek), ale jego zloba celuje DOKLADNIE w ta strone (origins) - Harwin teraz aktywny, zmotywowany, czujny wrog. Ryzyko: gdyby kopal w pochodzenie Symona, moze natrafic na nitki ku sprawie Rymana."
  },
- "nazwisko": "Tally"
+ "nazwisko": "Tally",
+ "liczniki_uzyc": {
+  "rachunki": 1
+ }
 }

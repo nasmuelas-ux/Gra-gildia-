@@ -662,6 +662,12 @@
    "opis": "THEME/koszt (297-03-26): im wyzej Symon wspina sie w grze cieni (keystone, firewall), tym bardziej JEST SAM z tym, co wie. Wizyta u Aldousa (rzut 12) obnazyla to: przyszedl po ludzkie cieplo, ale nie mogl podzielic sie ciezarem nawet z cieplym przyjacielem-cegla (nie wtajemniczony). Sukces w cieniu placi sie w izolacji. Pelny ciezar dziela tylko Nesta+Owen. Do pilnowania: nie zgorzkniec, nie odciac sie od ludzi calkiem; balans miedzy sekretem a wiezia.",
    "typ": "charakter/koszt",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "rozbieznosc_ladunku_odwilz",
+   "status": "otwarty",
+   "priorytet": "niski",
+   "opis": "297-03-30: w chaosie pierwszej odwilzy, przy dorywczym uzgadnianiu swiezej dostawy w kantorze Nesty, tally nie zgodzil sie z manifestem. Symon oflagowal zamiast naciagac. Do rozdzielenia w SPOKOJU: blad kopisty / niedowaga dostawcy / cos wiecej. Najpewniej mundane, ale niedomkniete - do wroci przy spokojnym stole."
   }
  ]
 }

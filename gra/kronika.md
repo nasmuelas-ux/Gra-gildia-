@@ -3960,3 +3960,6 @@ Noc przespana czysto w celi przy Sepcie Sniegow. Zmeczenie zeszlo, sytosc spadla
 
 ### 297-03-30 POLUDNIE
 Wizyta u Serli w Rybim Zaulku (rzut 88, czysto). Poddasze wreszcie wynajete - lokator podsuniety przez Symona wprowadzil sie z odwilza; jej niepokoj o grosz zdjety godnie. Tom zdrowy. Cieply, nieoceniajacy kwadrans przy ogniu, nakarmila go. Kotwica. nast 47->49.
+
+### 297-03-30 WIECZOR
+Symon z Halem do kantoru Nesty na sesje ksiegowa - trafili w pierwszy dzien pelnej odwilzy: port ruszyl, kantor w chaosie, Nesta zawalona i oschla z pospiechu (rzut 3, okolicznosciowo). Zamiast mentoringu - gaszenie pozaru: rozbieznosc tally/manifest pod presja. Symon uczciwie oflagowal zamiast naciagac liczbe (Hal zobaczyl wzor integralnosci). Popoludnie zjedzone bez czystego wyniku i bez grosza; rozbieznosc do rozdzielenia w spokoju. Zmeczenie w gore.

@@ -306,7 +306,8 @@
    "odlicza_do": "297-04-03",
    "opis": "Maester Theomore bada dossier celne - decyduje, czy i jak zaniesc je lordowi Wymanowi jako jego interes (kradziony grosz). Ostrozny/establishmentowi lojalny, ale rama grosza lorda go boksuje (zbyć nie moze). Wynik: podejmuje sprawe -> oslona lorda -> keystone otwiera lord+refi+koalicja; albo zwleka/rozmydla.",
    "co_sie_stanie": "osad Theomore -> keystone rusza (lord podejmuje) lub grzeznie na ostroznosci maestera",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "ryzyka_Nesty": "297-03-26 (Nesta): TAIL-RYZYKA foothold - (a) burial (establishment-lojalny maester odklada donikad); (b) slow leak istnienia dossier ku wielkiemu domu (kopia poza reka Symona; tarcza chroni jego, nie dokument); (c) refi zakladnikiem osadu Theomore (poza kontrola). Watch, nie swietowac. Master copy u Nesty zabezpieczyc."
   }
  ]
 }

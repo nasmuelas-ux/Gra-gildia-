@@ -4017,3 +4017,6 @@ Symon po niepokoju 'czy mozemy czekac' poszedl do Owena (rzut 64). Owen zdjal fa
 
 ### 297-04-03 REKONCYLIACJA - IZBA 4
 Gracz sluznie wychwycil: kamieniczka ma 4 izby (kanon 01-05/01-06/01-09), nie 3. Sledzenie zsunelo sie do 3 (izby 1+2 zima, izba3 Hal wiosna), izba 4 wypadla z ksiag. Izba 4 = ta z najglebszym remontem (strop+podloga), domknieta pelnym re-roofem, obecnie WOLNA/nieobsadzona. Poprawione: zegar kamieniczka_najem + nowy watek izba4_wlasne_lokum. SKUTEK: Symon MA wolna wlasna izbe - moze sie wprowadzic bez wysiedlania lokatora (odpada obstrukcja 'nie ma gdzie').
+
+### 297-04-03 WIECZOR - Owen o izbie 4
+Symon powiedzial Owenowi, ze chce zamieszkac u siebie (izba 4). Owen (rzut 51) - serce bardziej osiadle niz przy kupnie; nie trzyma go w celi ze strachu (Harwin dormant, wlasny dach+Bran). MIERZONE blogoslawienstwo: 'czlowiek spi pod wlasna belka', ale ZACHOWAC wiez z septa (oslona firewalla przy zywej karcie), nie dac dachowi obudzic pychy. Przeprowadzka odblokowana. Owen 85->86.

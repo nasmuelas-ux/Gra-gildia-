@@ -4297,3 +4297,6 @@ Ksiegi wiosenne Aurane z Halem (rzut 63) - czysto + znaleziska (niezafakturowane
 
 ### 297-04-24 POLUDNIE->WIECZOR - Torsen: kanal drewna huczy
 Kanal zamkowy huczy (rzut 88) - dostawy na normie, spory zniknely, prowizja narasta (+3 jel). Torsen kontent (spelnione marzenie faktora). Upside: inni odbiorcy chcieliby graded-supply przez Symona (ekspansja zbankowana, dyscyplina). Torsen 59->63 zauf 13. Sakiewka 12 jel. Watek ekspansja_graded_drewno.
+
+## 297-04-25 RANEK
+Noc przespana. Faza cichej konsolidacji, silnik huczy (kanal drewna, Aurane, Rollam, uzgodnienia). W tle: zelazo Gulltown w drodze, Wick uczy sie, Mira slow-burn, ogrod kielkuje, Ulric czeka na okazje. Zwornik zaparkowany. Depozyt 140 jel.

@@ -4035,3 +4035,6 @@ Symon wyszedl na chwile na wlasny murowany ogrodek - pusty jeszcze, mokry od roz
 
 ### 297-04-04 REKONCYLIACJA - zarzad kamieniczki
 Poprawka (gracz sluznie): Mira NIE zarzadza juz kamieniczka - trial skonczyl sie 03-13/03-17, cofnela sie od stalej roli (niezaleznosc, granica). Pole 'zarzad' aktualizowane: kamieniczka prowadzona przez samego Symona (mieszkaniec on-site) + Bran (dozorca). Mira = kontakt zawodowy / watek osobisty, nie zarzadczyni.
+
+### 297-04-04 WIECZOR (2) + 297-04-05 RANEK
+Symon zanotowal, by przy okazji poprosic Donnela o spokojne zerkniecie na fundament (najpewniej nic - odwilzowa wilgoc; Donnel juz orzekl solidny). Pierwsza noc pod wlasna belka przespana. RANO 04-05: dojrzewaja broker Aldousa (Nesta plasuje) i pierwsze tratwy Halvarda.

@@ -3975,3 +3975,6 @@ Symon dostarczyl Nescie gotowy dowod niedowagi (rzut 30, skromny pas). Praca bez
 
 ### 297-03-31 WIECZOR
 Po posilku i chwili odpoczynku Symon pomogl w sepcie (rzut 43) - spisywal za darmo prosby ubogich przygnietych odwilza (przednowek, zalane piwnice, chorzy). Zwyczajne dobro, standing Wiary cieply (73->74). Dzien pracowity zamkniety cicho i porzadnie.
+
+## 297-04-01 RANEK
+Nowy miesiac, czwarty. Noc przespana. Poranek: dzis/jutro dostarczyc Aurane (~04-02), osad Theomore (~04-03), broker Aldous (~04-05), slub Brana (04-07).

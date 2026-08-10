@@ -4528,3 +4528,6 @@ Poglebienie po WHO (rzut 39). Wynik: ubytek SYSTEMATYCZNY - nie chciwy urzednik 
 
 ## 297-05-11 RANEK — Noc
 Sen. Przejscie 05-11 RANEK. Na stole: podejscie do Ulrica (probe+most) w sprawie skracania na intake zamku (audyt Torhena). Weksel Wenda ~05-12 (jutro).
+
+## 297-05-11 POPOLUDNIE — Audyt Torhena dostarczony (droga B, czysto)
+Gracz wybral B (bezpieczenstwo). Symon dostarczyl Torhenowi wynik czysto: strona Torhena czysta, przeciek na intake zamku, udokumentowany wzorzec. Torhen zwindykowany (nie okradany przez swoich, nie pan-co-sie-nie-zna). Symon doradzil cicho (dostawca ma standing zapytac zamek) i ZSZEDL Z LINII - w podworko szafarza sie nie pcha. +7 jel reszta fee (-> 19 jel), PATRON przy dworze zdobyty (Torhen nast 15->30, zauf 10), rep schody_zamkowe 31->32. Ulric-bonus (face-saving win) ODLOZONY swiadomie - zero sladu na Symonie, moze wrocic pozniej/innym kanalem. Dwa crit-lowe (Ulric 1, Godric 8) na blindowych podejsciach ANULOWANE interruptami gracza (madra ostroznosc). Torhen moze sam podniesc z zamkiem (poza talerzem Symona). Liczniki retoryka+1 (110), czyt+1 (153). -> POPOLUDNIE.

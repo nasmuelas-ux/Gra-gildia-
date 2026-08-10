@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 26,
- "zmeczenie": 34,
+ "zmeczenie": 0,
  "sakiewka": {
   "miedziaki": 90,
   "jelenie": 5,
@@ -148,6 +148,8 @@
   "rachunki": 3,
   "audyt": 6,
   "pismo": 4,
-  "organizacja": 1
+  "organizacja": 1,
+  "kondycja": 1,
+  "walka": 1
  }
 }

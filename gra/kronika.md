@@ -4134,3 +4134,6 @@ Nesta (rzut 89) klasnela na strukture brokerska zamku (doktryna w reku Symona). 
 
 ### 297-04-11 WIECZOR - wplata do depozytu
 Symon wplacil 35 jel do depozytu u Nesty (postawa akumulacji). Sakiewka 40->5 jel, depozyt 70->105 jel.
+
+## 297-04-12 RANEK
+Wieczorem kolacja + lekkie cwiczenia (kondycja/walka), wczesny dlugi sen. RANO 04-12: dzis Nesta plasuje ubezpieczenie Rennicka (prowizja). Jutro (~04-13) pierwsza dostawa zamkowa + prowizja. Off-take Borena czeka az cech ochlonie po wypadku.

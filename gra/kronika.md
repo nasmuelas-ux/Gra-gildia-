@@ -4390,3 +4390,6 @@ Symon do Nesty po realny status (rzut 33). Prawda vs plotka: partia INTAKTNA, ni
 
 ## 297-05-01 WIECZOR — Boren uspokojony prawda
 Symon wrocil tego samego dnia z faktem od Nesty (rzut 84): zelazo zywe, schronione na Bicie, bez daty ('nie bede ci zmyslal'). Boren uspokojony - nie przez date (brak), lecz przez prawde zdobyta u zrodla i przyniesiona prosto. 'Poszedles, dowiedziales sie, wrociles prosto - to ja cechowi powiem tak samo.' Coalition-glue trzyma na kandorze; cech dostanie prawde Borena ustami. Wiez pogłebiona (prawda>glaskanie): nast 79->81, zauf 22. Rano cieplo sie odbilo, wieczorem fakt dowiozl. Liczniki retoryka+1 (105), czyt+1 (139). -> wieczor/noc.
+
+## 297-05-01 WIECZOR — Wenda: Bess i flotylla
+Wieczorna wizyta u Wendy w Rybim Zaulku (rzut 49). Cieplo, dosadnie. Bess wesele IDZIE - uczciwa umowa Symona rozbroila teschow (zapowiedzi puszczone), Wenda wdzieczna po swojemu. Lead z targu: braavijska flotylla sukna BLISKO, lada dzien wejdzie, kupcy drza o ladunek = leady pod broker ubezpieczen (m.in. Corl z polecenia Aldousa). nast 56->58, zauf 17. Flotylla-zegar podbity jako bliski. Licznik czyt+1 (140). Dzien 05-01 pelny (Boren/Nesta/Boren/Wenda).

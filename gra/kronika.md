@@ -4206,3 +4206,6 @@ Symon wreszcie odwiedzil Elne (rzut 74) - bez urazy, sama radosc, nakarmila/ocer
 
 ### 297-04-16 WIECZOR - nauka prawa u Torrena
 Sesja prawa (rzut 68): pogłebione prawo umow handlowych+arbitrazu - formalny grunt pod broker-arbiter (grad/norma robione instynktem 04-13). Wiedza dodana. Prawo ku 10 (powoli). Niskoprofilowe. Torren 28->30. Zmeczenie 30.
+
+## 297-04-17 RANEK
+Symon rozmyslil sie ws. poznej wizyty u Nesty (madrze - zmeczony) i domknal dzien snem. RANO 04-17: Donnel na fundament za dnia, zelazo Gulltown w drodze, kanal zamkowy recurring. Faza cichej konsolidacji. Zwornik zaparkowany.

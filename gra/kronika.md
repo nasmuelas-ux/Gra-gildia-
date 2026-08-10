@@ -4492,3 +4492,6 @@ Sen. Przejscie 05-08 RANEK. W tle: Owen studzi Gartha (plan Banku hold), Winterf
 
 ## 297-05-08 RANEK — Mira: bariera zniknela
 Wizyta po ludzku (rzut 80). Bariera zniknela - wam ze soba po prostu dobrze; smiech sam, latwo. Mira dolozyla chleba bez pytania (u strzegacej swego znaczy wiele) i powiedziala WPROST: 'nauczylam sie nie czekac na nikogo, a na ciebie jakos czekam ze wpadniesz'; zawiesila wzrok o sekunde za dlugo. Symon NIE przyspieszyl/nie nazwal (napor=regres) - trzymal spojrzenie, zostal chwile. To co rosnie: niewypowiedziane ale PEWNE dla obojga. Staloscia nie pościgiem. nast 55->61, zauf 19->22. Licznik czyt+1 (150). -> POPOLUDNIE.
+
+## 297-05-08 POPOLUDNIE — Leona: papiery czyste, duma odzyskana + read widocznosci
+Do Leony (rzut 76). Miala robote: bala sie ze dostawcy ja skracaja jako wdowe. Weryfikacja: w WIEKSZOSCI czysto - dostawcy uczciwi, jej ksiegi dobre; NIE 'baba co sie nie zna' - radzi sobie lepiej niz sadzi (duma odzyskana, jej potrzeba #3 spelniona). Jeden tkacz lapany na cichej podwyzce stawki od zimy - ma go. +3 jel (-> 7 jel). Read sojuszniczki: gadanie o 'palcach w garnkach' PRZYCICHLO odkad Symon zszedl z publicznego pulpitu (konsolidacja/low-profile dziala - aggregate_visibility). nast 67->70, zauf 26->28. Liczniki audyt+1 (129), rachunki+1 (184). -> WIECZOR.

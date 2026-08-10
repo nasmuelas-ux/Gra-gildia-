@@ -4495,3 +4495,6 @@ Wizyta po ludzku (rzut 80). Bariera zniknela - wam ze soba po prostu dobrze; smi
 
 ## 297-05-08 POPOLUDNIE — Leona: papiery czyste, duma odzyskana + read widocznosci
 Do Leony (rzut 76). Miala robote: bala sie ze dostawcy ja skracaja jako wdowe. Weryfikacja: w WIEKSZOSCI czysto - dostawcy uczciwi, jej ksiegi dobre; NIE 'baba co sie nie zna' - radzi sobie lepiej niz sadzi (duma odzyskana, jej potrzeba #3 spelniona). Jeden tkacz lapany na cichej podwyzce stawki od zimy - ma go. +3 jel (-> 7 jel). Read sojuszniczki: gadanie o 'palcach w garnkach' PRZYCICHLO odkad Symon zszedl z publicznego pulpitu (konsolidacja/low-profile dziala - aggregate_visibility). nast 67->70, zauf 26->28. Liczniki audyt+1 (129), rachunki+1 (184). -> WIECZOR.
+
+## 297-05-08 WIECZOR — Godric: ksiegi + parcela + compound tranzytu
+Do Godrica (rzut 78). Ksiegi domu czysto (recurring). Biale Noz wrocil do rozsadku po oknie - NASTEPNA PARCELA drewna SPIETA (popyt Godric/podaz Torsen-Halvard/Symon koordynator), kanal znow mieli. Dodatkowo URUCHOMIONE ubezpieczenie tranzytu wlasnej podazy (cienki skim przez linie Nesty - compound Nesty zrealizowany: koordynacja + skim ryzyka wody z powrotem). +5 jel (-> 12 jel). Sol Harlona tez tym kanalem = bleed Antaryona; glabszy embed przy dworze (cicho wzmacnia lord-route). Godric nast 70. Liczniki rachunki+1 (185), organizacja+1 (99). -> noc.

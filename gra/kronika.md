@@ -4384,3 +4384,6 @@ Gracz (powtornie): 'w sredniowieczu ludzie nie widzieli sie co tydzien'. SLUSZNE
 
 ## 297-05-01 RANEK — Boren: cieplo odbite od niepokoju o zelazo
 Symon przyszedl dogrzac przed dostawa (rzut 11). Trafil na Borena zzartego: proba-partia zelaza z Gulltown OPOZNIONA/zagrozona (przedwiosnie na Bite - sztormy/kra/przestoj w Gulltown; okolicznosc, nie wina). Boren rekczyl off-take przed cechem, dni mijaja, cieplo sie nie przyjelo, wiesc o Wicku kwitnie kiwnieciem. Symon nie pchal goodwillu - przyznal wlasny niepokoj, obiecal sprawdzic realny status u Nesty (fakt>plotka). Wiez cala (nast 79 hold), coalition-glue pod naciskiem. Licznik czyt+1. -> POPOLUDNIE.
+
+## 297-05-01 POPOLUDNIE — Nesta: prawda o zelazie
+Symon do Nesty po realny status (rzut 33). Prawda vs plotka: partia INTAKTNA, nie przepadla - statek schronil sie na Bicie przed wiosennym sztormem, weather-bound, BRAK twardego ETA (~1-2 tyg bez gwarancji). Ryzyko=czas nie strata; cienka marza podgryziona postojem. Rada Nesty: NIE obiecywac cechowi daty, kandor uspokaja lepiej niz portowe 'ugrzezlo', klej zostanie klejem bez dramatu. Symon ma teraz fakt na panike Borena. Nesta ostatni 05-01. -> wieczor.

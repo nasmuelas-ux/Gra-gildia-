@@ -4050,3 +4050,6 @@ Symon wrocil wieczorem do Torsena inaczej niz 04-02 (najedzony, konkret). Pierws
 
 ## 297-04-06 RANEK
 Wieczorem wczesna kolacja + lazienka (~5 mied), noc przespana we wlasnej izbie. RANO 04-06: jutro (04-07) wesele Brana i Alys (Symon swiadek). Dzis wolne - moze ruszyc trop brokera (kupiec od Aldousa), doglad Gartha za dnia, albo drobne.
+
+### 297-04-06 POLUDNIE - trop Rennicka (za pozno)
+Symon poszedl za poleceniem Aldousa do kupca Rennicka - ale ZA POZNO (rzut 26): ladunek juz schodzil bezpieczny, ryzyko rejsu minelo, nie ma czego ubezpieczac. Rennick cieply (Aldous reczyl) ale trzezwy. Drzwi na NASTEPNY ladunek (podejsc zawczasu). NAUKA domenowa: ubezpieczenie=przed rejsem; ped 'zalatwie dzis wszystko' pchnal za pozno. Rennick w orbicie jako prospekt.

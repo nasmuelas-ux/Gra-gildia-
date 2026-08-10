@@ -1671,6 +1671,22 @@
    ],
    "ostatni_kontakt": "297-02-27",
    "cechy_mowy": "malomowny, prosto, rybacki"
+  },
+  {
+   "id": "kupiec_rennick",
+   "imie": "Rennick",
+   "wiek": 40,
+   "stan": "mieszczanin",
+   "zawod": "kupiec ze Schodow (wozi rozny towar morzem)",
+   "mieszka": "Schody",
+   "nastawienie_do_gracza": 8,
+   "zaufanie": 3,
+   "ostatni_kontakt": "297-04-06",
+   "wie_o_graczu": [
+    "polecony przez Aldousa jako dyskretny czlowiek od liczb/ubezpieczen",
+    "297-04-06: Symon przyszedl z poleceniem Aldousa uplasowac ubezpieczenie jego ladunku - ale ZA POZNO: ladunek juz schodzil na lad bezpieczny, ryzyko rejsu minelo, wiec ubezpieczac nie ma czego. Rennick cieply (Aldous reczyl) ale trzezwy: 'po co kryc rejs, ktory sie udal'. Drzwi otwarte na NASTEPNY ladunek - podejsc ZAWCZASU. Prospekt brokera na przyszlosc."
+   ],
+   "cechy_mowy": "rzeczowy, portowy, mowi 'chlopcze'"
   }
  ],
  "orbita": [

@@ -1709,6 +1709,22 @@
     "297-04-10 (rzut 85): ZLAPANY ZAWCZASU. Rennick ladowal ladunek DO WYSLANIA (wiosenny rejs, jeszcze na kei) - Symon podszedl PRZED rejsem (nauka z 04-06 zastosowana). Rennick zrozumial wartosc ('teraz rozumiem, dobra pora'). Symon wettowal forensic, teed dla Nesty do uplasowania (~04-12). Z niedoszlego prospektu -> klient brokera. 2. transakcja brokerska po Aldousie (track-record rosnie). nast 8->20, zauf 3->6."
    ],
    "cechy_mowy": "rzeczowy, portowy, mowi 'chlopcze'"
+  },
+  {
+   "id": "wick_czeladnik",
+   "imie": "Wick",
+   "wiek": 15,
+   "stan": "sierota/czeladnik",
+   "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
+   "mieszka": "cela septy (rekonwalescencja)",
+   "nastawienie_do_gracza": 22,
+   "zaufanie": 5,
+   "ostatni_kontakt": "297-04-12",
+   "wie_o_graczu": [
+    "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
+    "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro."
+   ],
+   "cechy_mowy": "niesmialy, cichy, 'panie'"
   }
  ],
  "orbita": [

@@ -4149,3 +4149,6 @@ Symon zbadal grunt (wywiad 63) i wszedl do Miry bez agendy/targu (wizyta 85) - p
 
 ### 297-04-12 WIECZOR - Owen (flat, zajety chorym)
 Symon do Owena po narade (rzut 25) - Owen zajety pastoralnie (ranny czeladnik z cechu pod dachem Wiary, Colen opatruje; wczorajsza pomoc Symona uratowala chlopcu dlon). Krotko: Theomore nic nowego (cierpliwie, tygodnie); widocznosc 'wiesz sam, badz cichy'. Symon nie napieral. Cichy owoc pomocy w tle. Owen 86 hold. Zmeczenie 40.
+
+### 297-04-12 WIECZOR - rozmowa z Wickiem
+Symon usiadl przy rannym Wicku (czeladnik kolodziejow, rzut 74). Chlopak bez rodziny boi sie jutra (kolodziej bez reki=nikt). Symon dal mu wlasna droge: 'reka co nie utoczy kola utrzyma pioro' - zaproponowal nauke liter/rachunkow podczas rekonwalescencji (druga droga). Rozpacz->krucha nadzieja. Lancuch Owen->Symon->dalej, niskoprofilowe dobro. Wick w orbicie, watek wick_nauka. Zmeczenie 46, pora spac.

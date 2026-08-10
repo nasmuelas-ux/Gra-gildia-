@@ -285,7 +285,9 @@
    "odlicza_do": "297-03-26",
    "opis": "Owen aranzuje wprowadzenie Symona (pod poreczeniem Wiary) do maestera Theomore - by przedlozyc dossier celne jako interes lorda (kradziony grosz). Cel: sprawa dociera do lorda Wymana zaufanym kanalem, Symon osloniety. Otwiera keystone (lord+refi+koalicja).",
    "co_sie_stanie": "wprowadzenie do Theomore ustalone -> Symon przedklada dossier pod tarcza Wiary; start realnego ruchu keystone",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "ODPALIL": "297-03-26: Owen DOPIAL wprowadzenie - maester Theomore zgodzil sie przyjac Symona DZIS, pod poreczeniem Wiary. Symon wchodzi jako czlowiek Wiary niosacy maesterowi sprawe grosza lorda. Spotkanie = dzis. Gotowosc kompletna (dossier/rola/firewall/oslona/prawo9/wyglad).",
+   "zamkniety": true
   },
   {
    "id": "izba3_najem",

@@ -4312,3 +4312,6 @@ Noc przespana. Faza cichej konsolidacji. Nowa waga: dojscie zelaza Gulltown = sp
 
 ### 297-04-26 RANEK->POLUDNIE - Mira (plateau)
 Genuine wizyta u Miry (rzut 37) - latwosc trzyma, ale przymknela sie o pol kroku (odruch po odslonieciu 04-20). PLATEAU nie krok w tyl. Symon zagral wlasciwie: nie gonił, staly/spokojny. Stalosc wygrywa nie poscig. nast 45 hold. Niskoprofilowe.
+
+### 297-04-26 POLUDNIE->WIECZOR - robota z Halem (rutynowo)
+Sesja z Halem (rzut 34) - rutynowo, +2 jel. Cichy silnik mieli. Zaproponowany przeskok do dojscia zelaza/nastepnego zdarzenia.

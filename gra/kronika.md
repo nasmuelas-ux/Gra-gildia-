@@ -3987,3 +3987,6 @@ Symon umowil z Merkiem termin i szczegoly pogodzenia ksiag spolki: ~04-04, kanto
 
 ### 297-04-01 WIECZOR (3)
 Symon wieczorem do kantoru pomoc przy backlogu uzgodnien (rzut 69). W ciszy po dziennym mlynie przeczescil spory kawal czysto, drobna oplata 2 jel. Strumien od Nesty ruszyl i dziala - staly drobny dochod sezonowy, najlepszy wieczorami. nast Nesta 85->86. Dzien pracowity i owocny zamkniety.
+
+### 297-04-01 REKONCYLIACJA
+Korekta ksiegowa: zadatek 2 jel od Merka (narrowany 2x, niezapisany) dopisany do sakiewki -> 21 jel. Merek npc doprowadzony do stanu narracji: nast 44->47, zauf 12->13, ost 04-01, pamiec 04-01 dopisana.

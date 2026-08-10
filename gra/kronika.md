@@ -4137,3 +4137,6 @@ Symon wplacil 35 jel do depozytu u Nesty (postawa akumulacji). Sakiewka 40->5 je
 
 ## 297-04-12 RANEK
 Wieczorem kolacja + lekkie cwiczenia (kondycja/walka), wczesny dlugi sen. RANO 04-12: dzis Nesta plasuje ubezpieczenie Rennicka (prowizja). Jutro (~04-13) pierwsza dostawa zamkowa + prowizja. Off-take Borena czeka az cech ochlonie po wypadku.
+
+### 297-04-12 RANEK->POLUDNIE - broker frachtu: prospecting
+Symon prospektowal wychodzace ladunki do ubezpieczenia (rzut 48) - zlapal 1 solidny zawczasu (futra->Braavos flotylla), zwettowal, teed dla Nesty ~04-14 (3. cegla po Aldous/Rennick). Kilka 'pomysle' zasianych. Wybieral ryzyka (dyscyplina visibility). Placement RENNICKA poszedl - prowizja +2 jel (sakiewka 7). Track-record brokera rosnie.

@@ -281,11 +281,6 @@
    "opis": "297-04-10: pierwsza parcela zamkowa skoordynowana (Halvard->Torsen->Symon broker->zamek). Spływa Bialym Nozem, dostawa do zamku ~04-13. Na dostawie: potwierdzenie gradacji/odbioru + PIERWSZA PROWIZJA BROKERSKA Symona z tego kanalu (recurring). Pilnowac odbioru/jakosci (reputacja kanalu)."
   },
   {
-   "id": "broker_rennick_plasowanie",
-   "termin": "297-04-12",
-   "opis": "297-04-10: 2. ladunek brokerski (Rennick, outbound, zwettowany forensic) teed dla Nesty do uplasowania u ustalonego ubezpieczyciela ~04-12. Na uplasowaniu: prowizja Symona (~2 jel) + track-record brokera (2. deal). Buduje fose reputacji dobrze-przesianych ryzyk."
-  },
-  {
    "id": "boren_offtake_wieczor",
    "termin": null,
    "opis": "297-04-11: PODPIS ODLOZONY - wieczor derailed wypadkiem w cechu (czeladnik ranny). Boren w zasadzie ZA (off-take jego cechu), papier gdy cech ochlonie po wypadku (~pare dni). Symon pomogl w kryzysie (wiez stwardniala). Po podpisie: kantor puszcza proba-partie z Gulltown. Kowale osobno/powoli."
@@ -294,6 +289,11 @@
    "id": "rollam_grubszy_wycinek",
    "termin": null,
    "opis": "297-04-11: 2. wycinek dowieziony z realnym catchem (rzut 75) - Rollam da GRUBSZY wycinek nastepnym razem + wisi polecenie do jego peerow (top-tier flywheel). Dowozic czysto+dyskretnie. Pilnowac aggregate visibility."
+  },
+  {
+   "id": "broker_3ladunek_plasowanie",
+   "termin": "297-04-14",
+   "opis": "297-04-12: 3. ladunek brokerski (kupiec futra/polnocne dobra -> Braavos flotylla, zwettowany zawczasu) teed dla Nesty do uplasowania ~04-14. Prowizja na uplasowaniu. Track-record brokera rosnie (Aldous+Rennick+ten)."
   }
  ]
 }

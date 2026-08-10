@@ -4543,3 +4543,6 @@ Odpoczynek+herbata (zmecz 20), potem wieczorna praca w kantorze Nesty (rzut 74).
 
 ## 297-05-11 poany WIECZOR — Aldous: ludzki oddech
 Do Aldousa nie w interesie, odpoczac (rzut 65). Cieplo, przyjazn mocniejsza niz przed sprzeczka - nic od siebie nawzajem nie chca, gadka o glupstwach, smiech, wino, ciezar dnia schodzi (zmecz 30->10). Aldous rozgrzany szturcha: 'chlopcze zatrzymaj sie kiedys, znajdz se kogo, zaloz rodzine, bo mlodosc zleci na cudzych ksiegach' - Symon mysli o Mirze, nie mowi. Przy przyjacielu (choc niewtajemniczonym) samotnosc sekretu na wieczor odpuszcza. nast 74->76, zauf+. -> noc.
+
+## 297-05-12 RANEK — Noc
+Sen. Przejscie 05-12 RANEK. DZIS termin weksla Wenda (reszta + oplata za zwloke, do nowiu). Filary mielą, Torhen zamkniety, cech sojusznikiem.

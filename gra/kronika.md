@@ -4318,3 +4318,6 @@ Sesja z Halem (rzut 34) - rutynowo, +2 jel. Cichy silnik mieli. Zaproponowany pr
 
 ### 297-04-26 - KOREKTA PROGRESJI UMIEJETNOSCI (na sluszna uwage gracza)
 Naprawa zaniedbania: liczniki_uzyc rosly, ale nie zamienialy sie na awanse. Scalono 2 rozjechane dicty (liczniki_uzyc + licznik_uzyc) w jeden. AWANSE wg progow: czytanie_ludzi 6->8 (130 praktyki=8-tier, zanizone), organizacja 6->7 (93=7-tier). Reszta spojna. Progi zapisane (_progi_umiejetnosci); od teraz sprawdzac przy kazdym przyroscie.
+
+### 297-04-26 WIECZOR - Wenda (folk-standing mocny)
+Wizyta u Wendy (rzut 76, czytanie ludzi 8). Read folk-pulse: wsrod ludu imie Symona ciepłe ('swoj co nie zapomnial') - tarcza u dolu mocna (baza murem, cenne przy widocznosci). Druga warstwa: kupieckie jezyki pytaja 'cos ty za jeden' - widocznosc w sferze kupcow/cechu nie u ludu. Mapa: dol murem, gora czujna. rep port +2. Wenda 53->56.

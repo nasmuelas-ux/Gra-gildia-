@@ -4354,3 +4354,6 @@ Wplata 13 jel do depozytu u Nesty (14000 -> 15300 mied = 153 jel). Wolne: 13 jel
 
 ## 297-04-29 RANEK — Ogrodek
 Sniadanie (syt ->). Poranek w ogrodku za kamieniczka (rzut 53). Przedwiosnie - jeszcze za wczesnie na wiekszosc, ale grzadki przekopane, zimowe resztki uprzatniete, najtwardsze zasiane (groch, cebula). Cichy, gruntujacy poranek - Symon reka w wlasnej ziemi. Liczniki kondycja+1 (112), rzemioslo+1 (2); progi sprawdzone - bez awansu. -> POPOLUDNIE.
+
+## 297-04-29 POPOLUDNIE — Mira po ludzku
+Wizyta po ludzku trzy dni po plateau (rzut 61). Symon spokojny, staly, zero pogoni/agendy, nie odtwarzal szczytu z 04-20 - to byla ODPOWIEDZ na jej test staloscii. Cieplo okazalo sie STALE, nie fluke; garda opadla z powrotem, plateau rozwiazane w gore. Mira odslonila cos wlasnego bez pytania - drzwi o ulamek szerzej. Staloscia, nie poscigiem. Bez deklaracji (napor=regres). nast 45->51, zauf 15->17. Licznik czyt_ludzi+1 (135); prog sprawdzony - bez awansu. -> WIECZOR.

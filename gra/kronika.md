@@ -4540,3 +4540,6 @@ Praca w cechu (rzut 96). Procz zwyklej roboty Symon wylapal cichy PRZECIEK w ksi
 
 ## 297-05-11 WIECZOR — Kantor: praca + Hal sie broni
 Odpoczynek+herbata (zmecz 20), potem wieczorna praca w kantorze Nesty (rzut 74). Nawal faktorii - weryfikacje braavijskich papierow odrobione (+3 jel -> 31 jel), nisza weryfikacyjna mieli (Leona i inni plyna przez kantor, kawalek Symona jako wspolnika). HAL zadomowil sie w kantorze - chlonie od calego kantoru, mniej sie boi; Nesta: 'dobry chlopak i szybki, dobrześ go tu poslal' - delegacja sie broni. nast Hala ->89. Cicha dobra praca wspolnikow. Liczniki rachunki+1 (191), audyt+1 (133). -> noc.
+
+## 297-05-11 poany WIECZOR — Aldous: ludzki oddech
+Do Aldousa nie w interesie, odpoczac (rzut 65). Cieplo, przyjazn mocniejsza niz przed sprzeczka - nic od siebie nawzajem nie chca, gadka o glupstwach, smiech, wino, ciezar dnia schodzi (zmecz 30->10). Aldous rozgrzany szturcha: 'chlopcze zatrzymaj sie kiedys, znajdz se kogo, zaloz rodzine, bo mlodosc zleci na cudzych ksiegach' - Symon mysli o Mirze, nie mowi. Przy przyjacielu (choc niewtajemniczonym) samotnosc sekretu na wieczor odpuszcza. nast 74->76, zauf+. -> noc.

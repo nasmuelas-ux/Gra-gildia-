@@ -284,6 +284,14 @@
    "odlicza_do": null,
    "co_sie_stanie": "gdy Garth ostygnie (Owen studzi + oko zamku zejdzie): dziura zamknieta, plan Banku moze ruszyc",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "torhen_audyt",
+   "typ": "okazja/robota",
+   "opis": "297-05-09 (rzut 65): lead klient-establishment ZYWY, namierzony - zarzadca TORHEN (dom zaopatrujacy Nowy Zamek), szuka dyskretnego audytu od uczciwego pisarza Septy. Skok w gore (renoma+dwor+grosz). PRUDENCJA: nie wiadomo czego audyt dotyka - swiat dostaw zamku ociera sie o Antaryona/MUR i o Ulrica (wrog-szafarz). Na 1. spotkaniu WYBADAC ZAKRES nim sie zwiazac (nie kompromitowac firewalla Banku). Droga otwarta.",
+   "odlicza_do": null,
+   "co_sie_stanie": "gdy Symon umowi spotkanie: poznanie zakresu audytu -> decyzja czy brac (mind firewall/Ulric)",
+   "widoczny_graczowi": true
   }
  ]
 }

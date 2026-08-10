@@ -520,11 +520,12 @@
   },
   {
    "id": "klient_establishment_d8",
-   "opis": "Renoma wspina sie wyzej: klient ZE ZNACZENIEM — zarzadca/faktor domu blisko establishmentu / dostawca Nowego Zamku — szuka 'uczciwego pisarza Septy' do dyskretnego audytu",
+   "opis": "Renoma wspina sie wyzej: klient ZE ZNACZENIEM — zarzadca/faktor domu blisko establishmentu / dostawca Nowego Zamku — szuka 'uczciwego pisarza Septy' do dyskretnego audytu  ||  297-05-09 (rzut 65): NAMIERZONY = zarzadca TORHEN (dom zaopatrujacy Nowy Zamek). Lead zywy, droga otwarta na spotkanie. Prudencja: wybadac zakres (mind Antaryon-mur/Ulric) nim brac.",
    "typ": "okazja",
    "termin": null,
    "wobec": null,
-   "stan": "ROBOTA ZAWARTA (m10d8, rzut 53): zarzadca GODRIC pod wrazeniem oglady+renomy Symona; zlecil dyskretny audyt (+3 jel retainer). CAVEAT: rezerwa — pelne wejscie w gore NIE dane, trzeba DOWIESC na tej robocie. Pierwszy (ostrozny) RUNG ku kregowi dworu/Nowego Zamku. RYZYKO: rosnac w kregach establishmentu = widocznosc dla dworu (a cech wlasnie tam sie umizga) — dwuznaczne."
+   "stan": "ROBOTA ZAWARTA (m10d8, rzut 53): zarzadca GODRIC pod wrazeniem oglady+renomy Symona; zlecil dyskretny audyt (+3 jel retainer). CAVEAT: rezerwa — pelne wejscie w gore NIE dane, trzeba DOWIESC na tej robocie. Pierwszy (ostrozny) RUNG ku kregowi dworu/Nowego Zamku. RYZYKO: rosnac w kregach establishmentu = widocznosc dla dworu (a cech wlasnie tam sie umizga) — dwuznaczne.",
+   "status": "namierzony - zarzadca Torhen"
   },
   {
    "id": "opal_zima",

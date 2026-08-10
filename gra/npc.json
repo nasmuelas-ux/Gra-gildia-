@@ -1827,6 +1827,19 @@
     "297-05-07 RANEK (rzut 55): poznany, list Rollama zadzialal (Rollam glupi nie jest). Dal PROBE - kawalek ksiag zbozowych; Symon zrobil czysto, wyprostowal niespojnosci, pokazal wyciek marzy na rotacji. Proba ZDANA, relacja rusza na raty (proving jak Rollam). Trzeci top-tier klient. nast 10->22, zauf 3->6, +4 jel."
    ],
    "cechy_mowy": "podejrzliwy, kupiecki, wazy slowa"
+  },
+  {
+   "id": "zarzadca_torhen",
+   "imie": "Torhen",
+   "stan": "mieszczanin/sluzba wyzsza",
+   "zawod": "zarzadca domu zaopatrujacego Nowy Zamek (blisko establishmentu)",
+   "nastawienie_do_gracza": 0,
+   "zaufanie": 0,
+   "ostatni_kontakt": null,
+   "wie_o_graczu": [
+    "297-05-09: NIE poznany. Szuka dyskretnego audytu od uczciwego pisarza Septy (cicho, z dala od cechu/plotki). Imie Symona do niego dotarlo. Droga otwarta na pierwsze spotkanie. Figura wyzej/blizej dworu niz dotychczasowi klienci."
+   ],
+   "cechy_mowy": "powsciagliwy, dworski, ostrozny w slowach"
   }
  ],
  "orbita": [

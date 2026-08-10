@@ -4023,3 +4023,6 @@ Symon powiedzial Owenowi, ze chce zamieszkac u siebie (izba 4). Owen (rzut 51) -
 
 ### 297-04-03 WIECZOR (2) - sluzba + 297-04-04 RANEK
 Symon ostatni wieczor pod dachem septy spedzil sluzac (rzut 56, pismo dla ubogich) - honorujac warunek Owena (trzymac wiez z Wiara). Noc przespana. RANO 04-04: przeprowadzka do wlasnej izby 4. Dzis tez ~04-04 pogodzenie ksiag wspolnika Merka. Wiara trzyma (74, czeste - diminishing).
+
+### 297-04-04 POLUDNIE - pogodzenie ksiag Merka
+Symon poprowadzil jawne pogodzenie (rzut 79, czysto). Rama bezstronna utrzymana. Wynik: wspolnik podbieral z kasy spolki na wlasny uzytek (udokumentowane) - podduszony gotowka, nie zbrodnia z nienawisci. Zero oskarzenia przy stole; finding prywatnie Merkowi z dowodem, bez werdyktu. Merek gorzka ulga, wdzieczny. Saldo +5 jel (sakiewka 26). Dyskrecja/firewall held. Co dalej z tym = decyzja Merka. nast 47->50, zauf 14.

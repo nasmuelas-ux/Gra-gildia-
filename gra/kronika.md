@@ -4534,3 +4534,6 @@ Gracz wybral B (bezpieczenstwo). Symon dostarczyl Torhenowi wynik czysto: strona
 
 ## 297-05-11 POPOLUDNIE — Rollam: nastepny wycinek
 Do Rollama po recurring (rzut 59). Wycinek dowieziony czysto (+6 jel -> 25 jel), filar mieli. Rollam wspomnial ze Wyllam dobrze o Symonie mowil - flywheel rowiesnikow cieplejszy, imie chodzi miedzy faktorami. nast 46->47, zauf 16. Liczniki rachunki+1 (189), audyt+1 (132). -> WIECZOR.
+
+## 297-05-11 WIECZOR — Cech koladziejow: z protegowanego na pisarza cechu
+Praca w cechu (rzut 96). Procz zwyklej roboty Symon wylapal cichy PRZECIEK w ksiegach cechu - stara umowa na material, na ktorej cech od lat przeplaca; pokazal i zaproponowal jak zalatac, oszczedzil cechowi grosz. Nawet zadziorny starszy przekonany. Z 'protegowanego Borena' -> PISARZ CECHU ktoremu ufaja; caly cech kolodziejow (liczne, zakorzenione rzemioslo) = solidny sojusznik, cicha sila w koalicji anty-Antaryon. +3 jel (-> 28 jel), rep cech_kolodziejow 30->32. Intel przy pulpicie: rzemieslnicy klna na fracht Antaryona, tanie zelazo twoim kanalem = ulga (woda na mlyn). Liczniki rachunki+1 (190), prawo+1 (169). -> noc.

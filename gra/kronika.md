@@ -4414,3 +4414,6 @@ Wieczorem cwiczenia (kondycja/walka - liczniki+1, progi: kondycja 113<125 hold 7
 
 ## 297-05-03 RANEK — Nesta: gotowosc pod fale ubezpieczen
 Praca w kantorze (nawal faktorii, +2 jel -> 21) + narada (rzut 57). Symon polozyl wczorajszy poranny wash; Nesta: 'gonisz fale, a fale sie czeka gotowym'. Zbudowali APARAT zanim przyjdzie popyt: staly szablon wyceny ryzyka (trasa/sezon/historia galery/szypra/okna sztormowe - ten sam forensic co wino Aldousa) + LINIA UNDERWRITINGU potwierdzona (pryncypal/pool) = uplasowanie od reki gdy kupiec zadrzy. Belarno/Zelazny Bank z oknem pogodowym. Gdy flotylla wejdzie: broker z gotowym produktem, nie lata po dokach. Nesta zauf 43->44. Liczniki rachunki+1 (180), handel+1 (116). -> POPOLUDNIE.
+
+## 297-05-03 POPOLUDNIE — Hal: stajnia realna, dzwignia
+Praca z Halem (rzut 54). Port rozbudzony odwilza - wiecej zlecen (listy/umowy/rachunki). Hal wzial klienta SOLO (ugoda niepismiennego tragarza) czysto i spokojnie - drugi pisarz, nie uczen. Utarg +150 mied (-> 354 mied). DZWIGNIA (nauka Nesty): skoro Hal udzwignie rutyne, godziny Symona zwalniaja sie na audyty/ksiegi faktorii/brokerke - przestac sprzedawac wlasne rece, sprzedawac stajnie. Hal nast 87->88, zauf 45. Liczniki pismo+1 (116), rachunki+1 (181). -> WIECZOR.

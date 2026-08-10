@@ -3978,3 +3978,6 @@ Po posilku i chwili odpoczynku Symon pomogl w sepcie (rzut 43) - spisywal za dar
 
 ## 297-04-01 RANEK
 Nowy miesiac, czwarty. Noc przespana. Poranek: dzis/jutro dostarczyc Aurane (~04-02), osad Theomore (~04-03), broker Aldous (~04-05), slub Brana (04-07).
+
+### 297-04-01 POLUDNIE
+Dostawa ksiag Aurane (rzut 41). Czysto, pelne saldo premium +9 jel (~12 z zadatkiem = najgrubsze zlecenie). Znaleziska: niezafakturowane oplaty skladowe (do odzysku) + rozbieznosc inwentarza (ubytek/podbieranie). Aurane po swojemu - z rezerwa, przetestowal pytaniem, Symon obronil dowodem; przyjal chlodno-rzeczowo, ZAREJESTROWAL wartosc. Recurring uchylone na jego warunkach. nast 28->34, zauf 9->11. Sakiewka 8->17 jel.

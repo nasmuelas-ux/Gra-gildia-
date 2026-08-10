@@ -4062,3 +4062,6 @@ Symon zastal Brana przerazonego obrzedem (nie slubem) - przeprowadzil go przez c
 
 ## 297-04-07 RANEK - DZIEN SLUBU
 Noc przespana. Dzis wesele Brana i Alys - Symon swiadek. Pogodny wiosenny dzien.
+
+### 297-04-07 RANEK - Serla (zla pora)
+Symon (najedzony/umyty/w kaftanie) wpadl po rade do Serli przed weselem - zla pora (weselny rozgardiasz, rzut 8). Cieplo, ale nie ma jak; odeslala lagodnie 'o swoim pomyslisz jak kurz opadnie'. Brak rady, bez szkody. Nauka: nie dzien na wlasne rozmyslania. Serla 49 hold. Naprzod: slub pod septa.

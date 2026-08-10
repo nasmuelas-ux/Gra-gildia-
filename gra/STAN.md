@@ -2,20 +2,20 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-04-08 WIECZOR · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-04-09 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 32 jeleni + 90 mied + 0 smokow
+- **Wolne:** 36 jeleni + 90 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 50 · Zmeczenie 24
+- Zdrowie 100 · Sytosc 38 · Zmeczenie 8
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
-**Reputacja:** port 26 · schody_zamkowe 30 · cech_pisarzy -6 · wiara 74 · zamek 6 · cech_kolodziejow 27
+**Reputacja:** port 26 · schody_zamkowe 30 · cech_pisarzy -6 · wiara 74 · zamek 8 · cech_kolodziejow 27
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -70,6 +70,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` keystone_korroboracja_frachtu: 297-04-03: Theomore ODROCZYL droge lorda (rzut 39) - zada niezaleznej korroboracji frachtu (rzeczywisty ladune
 - ◆ `?` owen_grzeje_theomore: 297-04-03: Owen bierze relacje z maesterem Theomore na wlasna cierpliwa koscielna droge (tygodniami, Symon nie
 - ◆ `?` rollam_kolejny_wycinek: 297-04-08: proba zaliczona - Rollam dal NASTEPNY wycinek ksiag (zaufanie na raty). Dowozic czysto+dyskretnie b
+- ◆ `?` zamek_dostawa_stala: 297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) prze
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

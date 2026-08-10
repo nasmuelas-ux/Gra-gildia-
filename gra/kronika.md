@@ -4083,3 +4083,6 @@ Symon podszedl do Rollama (duzy faktor, styczniowy odmowca) z DOWODEM (Leona+Aur
 
 ### 297-04-08 WIECZOR - ksiegi Rollama (proba zaliczona)
 Symon dowiozl wycinek ksiag Rollama czysto+dyskretnie (rzut 49), ale bez fajerwerkow (ciasny interes, brak wycieku). Proba zaliczona ('czysto, trzymales jezyk'). Zaufanie na raty - dal nastepny wycinek. Saldo +8 jel (sakiewka 32). Kanal top-tier otwiera sie stopniowo. Dyscyplina: rosnaca aggregate visibility. nast 24->30, zauf 8.
+
+### 297-04-09 RANEK - GODRIC: staly angaz zaopatrzenia zamku
+Symon wrocil o swicie (dobre okno, nie wieczor) z konkretem (rzeka ruszyla, tratwy zeszly) - DOMKNAL staly sezonowy angaz zaopatrzenia zamku drewnem/opalem kanalem polnocnym + wrocil do ksiag domu (+4 jel). Zbieznosc: Torsen/Halvard (podaz) + zamek (popyt), Symon=polaczenie. Cichy embed pod lord-route. Metoda cierpliwosc+konkret+okno. nast 60->66, zauf 12, rep zamek 6->8. Uruchomic pierwsza dostawe (zamek_dostawa_stala).

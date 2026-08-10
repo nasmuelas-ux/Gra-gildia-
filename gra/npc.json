@@ -1324,9 +1324,9 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 60,
-   "zaufanie": 16,
-   "ostatni_kontakt": "297-04-29",
+   "nastawienie_do_gracza": 66,
+   "zaufanie": 17,
+   "ostatni_kontakt": "297-04-30",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
@@ -1340,7 +1340,8 @@
     "297-03-29 POLUDNIE (rzut 96): PIERWSZY klient brokera ubezpieczen. Symon zaproponowal Aldousowi ochrone jego ladunku (partia braawijskiego wina w drodze) - broker: wycena+uplasowanie u ustalonego kapitalu. Forensic wycena mistrzowska (wartosc, trasa, sezon, historia galery/szypra, okna sztormowe) = ryzyko dobrze przesiane, jakiego underwriter chce. Aldous (ufa bezgranicznie, po zimowym koszmarze z utkniętym winem ceni spokoj) wzial od reki: \"ubezpiecz mi to, spac bede spokojniej\". Deal gotowy do uplasowania przez Neste ~04-05, prowizja. Relacja poszerzona (mostek plynnosci -> broker ubezpieczen). nast 63->65, zauf 16->17.",
     "297-04-05 WIECZOR (rzut 94): Symon przyniosl wiesc, ze wino Aldousa KRYTE (uplasowane). Aldous gleboko ulzony/wdzieczny - zobaczyl konkretnie wartosc uslugi (spokojny sen+chroniony grosz), nie abstrakcje. OWOC: (1) chce puszczac KOLEJNE ladunki przez Symona (repeat), (2) CIEPLE POLECENIE - kupiec ze Schodow z partia na skrzydle flotylli, drzacy o ryzyko = naturalny broker-prospekt, Aldous posle Symona z dobrym slowem. Flywheel filaru krecil sie idealnie (zadowolony klient->repeat+referral->nastepny). nast 65->70, zauf 17->18.",
     "297-04-29 WIECZOR (rzut 1, KRYT): Symon przyszedl odnowic po 24 dniach. Poszlo ZLE - Aldous, par kubkow w reku, wypuscil urazke: Symon przyszedl 03-29, sprzedal mu ubezpieczenie, wzial cieple polecenie 04-05 - i ZNIKNAL na trzy tygodnie. Poczul sie jak MARK, nie przyjaciel ('przychodzisz kiedy chcesz cos sprzedac, a potem cie nie ma'). Polecenie do kupca ze Schodow: WYCOFANE/zamrozone ('po co slac przyjaciela do kogos, kto zapomina o mnie gdy atrament wyschnie'). Kolejne ladunki (repeat): PAUZA - nie bo ubezpieczenie zawiodlo (nie zawiodlo), lecz bo relacja zeszla do rurociagu. Boli Symona bo to PRAWDA - odpuscil cieplego przyjaciela dla transakcji. Zaden manufaktura wroga - czysty koszt zaniedbania. Odbudowa = przychodzic po ludzku, stale, nie transakcyjnie. nast 70->60, zauf 18->16.",
-    "297-04-29 KOREKTA (dwustronnosc): urazka Aldousa autentyczna ale JEDNOSTRONNA - on tez nie ruszyl sie do Symona przez 24 dni. Dwoch dumnych czekalo na pierwszy krok; wino sprawilo ze Aldous powiedzial glosno pierwszy. Symon NIE jest zlym przyjacielem - asymetria wizyt ma czesc strukturalna (Symon buduje siec/zarabia na wiezi), ale nast 70 to przyjazn nie klient, wiec reciprocity nalezy sie w obie strony. Wlasciwa droga: DAC ODETCHNAC, nie kajac sie - zobaczyc czy Aldous po trzezwemu sam sie ruszy (ma teraz swoja czesc rachunku). Jesli wiez warta 70, spotkaja sie w pol drogi."
+    "297-04-29 KOREKTA (dwustronnosc): urazka Aldousa autentyczna ale JEDNOSTRONNA - on tez nie ruszyl sie do Symona przez 24 dni. Dwoch dumnych czekalo na pierwszy krok; wino sprawilo ze Aldous powiedzial glosno pierwszy. Symon NIE jest zlym przyjacielem - asymetria wizyt ma czesc strukturalna (Symon buduje siec/zarabia na wiezi), ale nast 70 to przyjazn nie klient, wiec reciprocity nalezy sie w obie strony. Wlasciwa droga: DAC ODETCHNAC, nie kajac sie - zobaczyc czy Aldous po trzezwemu sam sie ruszy (ma teraz swoja czesc rachunku). Jesli wiez warta 70, spotkaja sie w pol drogi.",
+    "297-04-30 RANEK (rzut 100, KRYT): Bran doreczyl zaproszenie o swicie - trzezwy Aldous zareagowal PIEKNIE. Wstyd za pijackie slowa, odpisal OD RAZU: przyjdzie wieczorem, i SAM WZIAL swoja czesc winy ('twoj pan ma racje, siedzialem na tylku trzy tygodnie tez'). Przyslal z Branem dzban swojego najlepszego jako gest. Reciprocity zadzialalo: Symon wyciagnal reke+poprosil o pol drogi, Aldous przeszedl swoja. Pojednanie ~domkniete (pelnia wieczorem przy kubku); polecenie do Corla prawdopodobnie wroci gdy pogadaja. nast 60->66 (wiekszosc spadku odrobiona), reszta+referral wieczorem."
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
    "historia": [
@@ -1350,9 +1351,7 @@
     "m12d05 rzut56: Symon zaproponowal usluge zarzadcza. Aldous - bez kupieckiej ostroznosci, totalne zaufanie do przyjaciela - otwiera ksiegi CHETNIE; narzedzie rezonuje z jego swieza przygoda (utknieta plynnosc): 'gdybym mial zobowiazania na jednej karcie, widzialbym ten kryzys z winem'. Symon ustawia mu cash-flow/kalendarz/wiekowanie - realnie pomaga zdrowiejacemu interesowi. 2. klient, cieply testimonial. Fee modest +3 jel (mniejszy kupiec). Nast 40->43.",
     "297-02-25 (rzut 70): cieply reconnect po ~25 dniach - Symon przyszedl po ludzku, po oddech od polityki (to jego \"recharge\" przyjaciel). Aldous ZNOWU SOBA (inaczej niz dolek z 11-13): mostek plynnosciowy (pozyczka pod zamrozone wino przez kantor Nesty) dal mu powietrze - nie panikuje, wino czeka na odwilz (aldous_wino_dojdzie), marza zachowana. Wdzieczny Symonowi. Cieply, ludzki kwadrans przy kielichu, przyjazn odbita w gore. nast 55->59, zauf 14->15."
    ],
-   "potrzeby": [
-    "pogodzic sie z Symonem (po trzezwemu) - jego ruch"
-   ]
+   "potrzeby": []
   },
   {
    "id": "kupiec_denys",

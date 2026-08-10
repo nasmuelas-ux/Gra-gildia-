@@ -4366,3 +4366,6 @@ Gracz slusznie: relacja w dwie strony. Urazka Aldousa autentyczna ale JEDNOSTRON
 
 ## 297-04-29 — SILNIK: mechanika INBOUND (korekta gracza)
 Gracz: "w tej grze ja musze do wszystkich chodzic, nikt sie nie przypomina - tak to nie wyglada w zyciu". SLUSZNE - lamalo zasade, ze NPC maja wlasna agency i dzialaja pod nieobecnosc gracza. FIX na stale: co ture sprawdzac INBOUND (kto sam przychodzi/przysyla poslanca/dopomina sie/przynosi robote), zakotwiczony w zywych watkach. Doktryna w swiat.json (mechanika_inbound), kolejka w ukryte/plany.json. DEMONSTRACJA: wieczorem gdy Symon byl u Aldousa, Aurane przyslal sluzacego - wiosenne ksiegi gotowe, prosi zeby wpadl (recurring fee). Swiat zapukal pierwszy.
+
+## 297-04-30 RANEK — Odpowiedz Aldousa (kryt 100)
+Bran doreczyl zaproszenie o swicie. Trzezwy Aldous zareagowal PIEKNIE (rzut 100, kryt - lustro wczorajszego 1): wstyd za pijackie slowa, odpisal od razu ze przyjdzie wieczorem, SAM wzial swoja czesc winy ('siedzialem na tylku trzy tygodnie tez'), przyslal z Branem dzban swojego najlepszego. Reciprocity zadzialalo w pelni: Symon wyciagnal reke i poprosil o pol drogi, Aldous ja przeszedl. nast 60->66, pelne pojednanie + prawdopodobny powrot referrala do Corla wieczorem przy kubku. INBOUND/relacja - to ON idzie na Schody. Wpiety zegar aldous_wieczerza_pojednanie na wieczor.

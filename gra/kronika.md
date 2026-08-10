@@ -4513,3 +4513,6 @@ Do cechu po stala robote (rzut 43). Boren wprowadzil jak swojego (po zelazie nik
 
 ## 297-05-09 WIECZOR — Namierzony klient z establishmentu: zarzadca Torhen
 Symon namierzyl niepewny lead (rzut 65) - ZYWY. Klient = zarzadca TORHEN, prawa reka domu zaopatrujacego Nowy Zamek (figura blizej dworu niz dotychczasowi). Szuka dyskretnego audytu od uczciwego pisarza Septy (cicho, z dala od cechu/plotki); imie Symona do niego dotarlo. Droga otwarta na pierwsze spotkanie - skok w gore (renoma+dwor+grosz). PRUDENCJA: nie wiadomo czego audyt dotyka; swiat dostaw zamku ociera sie o Antaryona/MUR i o Ulrica (wrog-szafarz) - na spotkaniu WYBADAC ZAKRES nim sie zwiazac (nie kompromitowac firewalla Banku). Nowy NPC Torhen + zegar torhen_audyt. Liczniki spryt+1 (127), czyt+1 (152). -> noc.
+
+## 297-05-10 RANEK — Noc
+Sen. Przejscie 05-10 RANEK. Plan: umowic sie ostroznie z zarzadca Torhenem, wybadac zakres audytu (mind Antaryon-mur/Ulric). Weksel Wenda ~05-12.

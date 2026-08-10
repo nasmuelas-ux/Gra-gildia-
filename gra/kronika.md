@@ -3915,3 +3915,6 @@ Wykryty blad ksiegowy: fee ~3 jel z 2. zlecenia (rzut 57) bylo narrowane (32->35
 
 ## 297-03-27 WIECZOR — Symon odprowadza Hala do Brana (kamieniczka=dom)
 Symon odprowadzil Hala do kamieniczki, przedstawil Branowi (dozorcy). Bran serdecznie ('nowy lokator, czlowiek pana Tally'ego!'), wzial chlopaka pod skrzydlo - pokazal dom, rytm, gdzie Jonna/Osric. Hal pierwszy raz ma drzwi, ktore zamyka jako GOSPODARZ nie sierota z przydzialu. Zawiazuje sie siec: ludzie Symona (Bran, Jonna, Osric, teraz Hal) = mala spolecznosc pod jednym dachem, spieta nie kontraktem lecz tym, ze sa 'jego' i traktowani po ludzku. Kamieniczka to juz nie tylko aktyw - to DOM. Symon wrocil ku Sepcie lzejszy. Dlugi, gesty, bardzo dobry dzien. Sytosc 58, zmeczenie 34.
+
+## 297-03-27 WIECZOR — wplata 34 jel do depozytu u Nesty
+Symon skoczyl szybko do kantoru i wplacil 34 jel do depozytu. Sakiewka 37->3 jel, depozyt 36->70 jel. Grosz z dobrego dnia schowany bezpiecznie (preserve, nie martwo w sakiewce; dostepny na kazde zawolanie w kantorze). Cienki float gotowkowy (3 jel), ale depozyt na wyciagniecie reki.

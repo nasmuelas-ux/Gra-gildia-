@@ -9,13 +9,13 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 7 jeleni + 90 mied + 0 smokow
+- **Wolne:** 9 jeleni + 90 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 18 · Zmeczenie 16
+- Zdrowie 100 · Sytosc 12 · Zmeczenie 28
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
-**Reputacja:** port 26 · schody_zamkowe 30 · cech_pisarzy -6 · wiara 74 · zamek 8 · cech_kolodziejow 27
+**Reputacja:** port 26 · schody_zamkowe 30 · cech_pisarzy -6 · wiara 74 · zamek 9 · cech_kolodziejow 27
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -33,7 +33,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 56
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 67
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 76
-- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 57
+- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 59
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 37
 
 ## ZEGARY (odliczaja)
@@ -70,7 +70,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` keystone_korroboracja_frachtu: 297-04-03: Theomore ODROCZYL droge lorda (rzut 39) - zada niezaleznej korroboracji frachtu (rzeczywisty ladune
 - ◆ `?` owen_grzeje_theomore: 297-04-03: Owen bierze relacje z maesterem Theomore na wlasna cierpliwa koscielna droge (tygodniami, Symon nie
 - ◆ `?` zamek_dostawa_stala: 297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) prze
-- ◆ `?` zamek_pierwsza_dostawa: 297-04-13 (rzut 6): pierwsza dostawa ZASNELA na sporze o GRAD - Godrica brak, szafarz gradzil twardo (drewno p
+- ◆ `?` zamek_pierwsza_dostawa: 297-04-13 DOMKNIETE (rzut 87): spor o grad rozwiazany sprawiedliwie (uczciwy markdown na mokrym, fair na reszc
 - ◆ `?` boren_offtake_wieczor: 297-04-11: PODPIS ODLOZONY - wieczor derailed wypadkiem w cechu (czeladnik ranny). Boren w zasadzie ZA (off-ta
 - ◆ `?` rollam_grubszy_wycinek: 297-04-11: 2. wycinek dowieziony z realnym catchem (rzut 75) - Rollam da GRUBSZY wycinek nastepnym razem + wis
 - ◆ `?` broker_3ladunek_plasowanie: 297-04-12: 3. ladunek brokerski (kupiec futra/polnocne dobra -> Braavos flotylla, zwettowany zawczasu) teed dl

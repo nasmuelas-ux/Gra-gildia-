@@ -822,8 +822,8 @@
    "leki": [
     "nierzetelni wspolnicy"
    ],
-   "nastawienie_do_gracza": 57,
-   "zaufanie": 10,
+   "nastawienie_do_gracza": 59,
+   "zaufanie": 11,
    "wie_o_graczu": [
     "dotrzymal slowa na umowie cechowej",
     "chce polnocnych futer/bursztynu na wywoz do Braavos",
@@ -836,10 +836,11 @@
     "297-03-16 WIECZOR (rzut 31): Symon przyszedl z dobra wiescia o Halvardzie/Polnocy - ale Torsen JUZ WIEDZIAL (jego faktor, poslaniec doszedl 03-15; o swoim slyszy pierwszy, nie z plotki). Wiesc nie byla nowina, wiec wizyta odswiezyla wiez umiarkowanie (pragmatyk mierzy ta sama miara: nie sygnaly, TWARDE ZAMOWIENIA). NAUKA/REFRAME: wartosc Symona dla Torsena = nie przekaz o PODAZY (ma z pierwszej reki), lecz agregacja POPYTU/odbiorcow - tanszy wsad ozywi zamowienia kolodziejow (Boren), dwor szykuje wieksze wiosenne zakupy (Godric). 'Przynies mi odbiorcow, mlody.' nast 48->50, zauf 7->8.",
     "297-04-05 WIECZOR (rzut 61): Symon wrocil wieczorem - ale inaczej niz 04-02 (najedzony, nie zajechany, KONKRET). Torsen zmordowany DOBRYM dniem (pierwsze tratwy Halvarda zeszly, sezon ruszyl). Symon NIE relacjonowal nowin (Torsen wie pierwszy), lecz zaoferowal wartosc, ktorej Torsen nie ma: rece do liczb/kontraktow/rozliczen gdy wolumen drewna wejdzie. Chwycil: 'przydadza mi sie takie rece, pogadamy jak zwal zejdzie z nabrzeza'. Nie podpis, ale KANAL DREWNA CIEPLO RE-OTWARTY na wlasciwej nodze (czlowiek od liczb sezonu, nie plotkarz). Naprawil wieczor z 04-02. NAUKA: ten sam czlowiek, inna pora+konkret=inny wynik. nast 50->53, zauf 8->9.",
     "297-04-09: Symon zrobil wszystko dobrze - przyniosl Torsenowi twarde zamowienie (zamek), wg modelu Torsena (popyt-najpierw). Torsen POTWIERDZA: uloz z Halvardem pojemnosc na zamek. Zadnej ceny z Godrikiem NIE ustalano (warunki per dostawa). JEDYNY fakt: wiosenny popyt wywindowal koszt drewna TERAZ (szczyt), a dwor placi skromnie -> spread w tej chwili cienki. To czysta okolicznosc rynku, ZERO winy/bledu Symona. Kanal solidny i staly; cena zamku do ustalenia (pelna swoboda). Ruch: ustalic cene pokrywajaca koszt, albo ruszyc pierwsza dostawe pozniej, gdy drewno stanieje. nast 53 hold.",
-    "297-04-10 POLUDNIE (rzut 82): koordynacja pierwszej parceli zamkowej GLADKO - czysta struktura (zamek placi rynek, Symon na prowizji, nikt nie eatuje spreadu). Torsen uloz z Halvardem pojemnosc: wolumen+gradacja(twardy opal/drewno)+termin spywu. Torsen KONTENT - dostal marzenie faktora: STALEGO powtarzalnego odbiorce (zamek). 'O to chodzilo, przynies takich wiecej.' Luk operacyjny: Halvard->Torsen->Symon(broker)->zamek. Pierwsza dostawa za pare dni + pierwsza prowizja Symona. nast 53->57, zauf 9->10."
+    "297-04-10 POLUDNIE (rzut 82): koordynacja pierwszej parceli zamkowej GLADKO - czysta struktura (zamek placi rynek, Symon na prowizji, nikt nie eatuje spreadu). Torsen uloz z Halvardem pojemnosc: wolumen+gradacja(twardy opal/drewno)+termin spywu. Torsen KONTENT - dostal marzenie faktora: STALEGO powtarzalnego odbiorce (zamek). 'O to chodzilo, przynies takich wiecej.' Luk operacyjny: Halvard->Torsen->Symon(broker)->zamek. Pierwsza dostawa za pare dni + pierwsza prowizja Symona. nast 53->57, zauf 9->10.",
+    "297-04-13 WIECZOR (rzut 87): Symon domknal spor o grad i WPISAL z Torsenem norme na stale (obiektywne sorty, grad-u-zrodla ze spisanym tally jadacym z parcela, regula ryzyka tranzytu kryta ubezpieczeniem, Symon-arbiter). Torsen widzi ze jego stały odbiorca (zamek) jest teraz na twardej, uczciwej normie - pewnosc dla podazy. Symon = udokumentowany arbiter (fosa). Kanal z przyslugi w biznes. nast 57->59, zauf 10->11."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-04-10",
+   "ostatni_kontakt": "297-04-13",
    "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'",
    "historia": [
     "m11d14: rozmowa o oknie na glebie Polnocy (rzut 36). Torsen cieplo (wiecej interesu), potwierdza: siec Halvarda SIEGA glebiej niz drewno/1 proba futer — futra/skory/bursztyn + loj, wosk, miod, rog/kosc, polnocne specjaly. ALE limity: ZIMA scina podaz glebi do zera (traperzy/klany/gora ruszą dopiero wiosną, Bialy Noz zamarza), i Torsen NIE zaangazuje Halvarda na wieksza skale, poki proba futer nie udowodni popytu/marzy w Braavos (~12-20). Timber jego priorytet -> facylitator nie driver. WNIOSEK: pipeline WIOSENNY zmapowany, teraz nic nie plynie. Torsen 26->28.",
@@ -1138,9 +1139,9 @@
    "id": "zarzadca_godric",
    "imie": "Godric",
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
-   "nastawienie_do_gracza": 68,
+   "nastawienie_do_gracza": 70,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-   "zaufanie": 13,
+   "zaufanie": 14,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
     "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
@@ -1155,9 +1156,10 @@
     "297-03-17 POLUDNIE (rzut 12, zla pora): Symon przyszedl popracowac przy ksiegach - ale trafil na wir: Nowy Zamek budzi sie z zimy, Godric (zarzadca+dostawca dworu) w oku burzy (wiosenne kontrakty ruszaja naraz, poslancy z zamku). Zlapal Symona w przelocie ('nie dzis, chlopcze, zamek mnie rozrywa') i znikl. Sesji brak, Symon wycofal sie bez urazy. NAUKA: wiosna czlowiek przy dworze nalezy do dworu - kanal ku lordowi (przez Godrica) bramkowany jego kalendarzem; lapac w spokojniejszym oknie, nie w szczycie rozruchu zamku. nast 61 hold (zla pora, nie zerwanie).",
     "297-03-21 RANEK (rzut 28): Symon chcial krotkiego potwierdzenia referralu do Aurane - ale Godric wciaz pod korcem wiosennego mlyna zamku. Zlapal go w przelocie, dostal roztargnione \"Aurane? tak, tak, idz smialo\" jednym uchem, nie solidne cieple poparcie. Cien zniecierpliwienia (prywatna przysluga mid-rush). Mętne zielone swiatlo. Kanal ku dworowi zatloczony ta wiosna - wszystko przez Godrica idzie metnie/wolno. nast 61->60.",
     "297-04-09 RANEK (rzut 86): Symon wrocil o swicie (nie wieczorem - nauka) w DOBRYM oknie (pierwszy szal wiosenny opadl) z KONKRETEM o ktory Godric prosil ('przyjdz jak rzeka ruszy'): kanal polnocny plynie, tratwy Halvarda zeszly, drewno/opal dowiozalne. DOMKNIETY STALY SEZONOWY ANGAZ: Symon koordynuje+dostarcza zamkowi drewno/opal kanalem polnocnym, regularnie; + wrocil do ksiag domu (rozliczyl zalegle +4 jel). ZBIEZNOSC: Symon ma oba konce luku - Torsen/Halvard (podaz) + zamek (popyt) = jest polaczeniem ('kup polaczenie strzyz z niego'). Cichy bonus: glebszy embed pod przyszla karte/lord-route. Metoda cierpliwosc+konkret+wlasciwe okno potwierdzona. nast 60->66, zauf 10->12, rep zamek 6->8.",
-    "297-04-10 RANEK (rzut 71): Symon domknal z Godrikiem STRUKTURE BROKERSKA (nie kupiec-pryncypal): zamek placi UCZCIWA CENE RYNKOWA za wsad drewna (drogie wiosna - sprawdzalne, Godric wie), a Symon bierze PROWIZJE na wierzchu za skojarzenie+koordynacje+gradowanie+dyskrecje (pewna, stala dostawa kanalem polnocnym, dom ma to z glowy). Godric targowal twardo o dzialke Symona, ale wzial (wartosc=pewnosc+jedno zmartwienie mniej w szczycie sezonu). Symon: kapital nietkniety, towaru nie dzwiga, ryzyka zapasu zero, dochod recurring. Problem 'cienkiego spreadu' znika (broker nie kupiec). Pierwsza dostawa z nastepnej parceli (Torsen/Halvard). nast 66->68, zauf 12->13."
+    "297-04-10 RANEK (rzut 71): Symon domknal z Godrikiem STRUKTURE BROKERSKA (nie kupiec-pryncypal): zamek placi UCZCIWA CENE RYNKOWA za wsad drewna (drogie wiosna - sprawdzalne, Godric wie), a Symon bierze PROWIZJE na wierzchu za skojarzenie+koordynacje+gradowanie+dyskrecje (pewna, stala dostawa kanalem polnocnym, dom ma to z glowy). Godric targowal twardo o dzialke Symona, ale wzial (wartosc=pewnosc+jedno zmartwienie mniej w szczycie sezonu). Symon: kapital nietkniety, towaru nie dzwiga, ryzyka zapasu zero, dochod recurring. Problem 'cienkiego spreadu' znika (broker nie kupiec). Pierwsza dostawa z nastepnej parceli (Torsen/Halvard). nast 66->68, zauf 12->13.",
+    "297-04-13 WIECZOR (rzut 87): Symon domknal spor o grad pierwszej dostawy - przyniosl STRUKTURE nie zadanie. SAM przyznal uczciwy markdown na prawdziwie mokrym drewnie (nie naciaga na wlasna korzysc!), na reszcie papier+autorytet Godrica poprawil over-grading szafarza. Sprawiedliwy grad, prowizja cieńsza ale zainkasowana. WPISALI NORME GRADU na stale (obiektywne sorty, grad-u-zrodla+tally, regula tranzytu/ubezpieczenie, Symon-arbiter). Godric widzi to co ceni najbardziej: czlowiek co nie naciaga nawet na wlasna korzysc. Kanal z przyslugi w BIZNES. nast 68->70, zauf 13->14."
    ],
-   "ostatni_kontakt": "297-04-10",
+   "ostatni_kontakt": "297-04-13",
    "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",
    "historia": [
     "m11d16 (rzut 97): Symon wchodzi cicho, bez prosby, z oferta wartosci — braavijska ksiegowosc dla domu. Godric (ceni go za dyskrecje-lojalnosc) przyjmuje idealnie i POWIERZA staly, cichy angaz: prowadzenie/audyt czesci rachunkow domu do wyzszego, braavijskiego standardu, regularnie, dyskretnie, platnie. Symon = odtad ZAUFANY CZLOWIEK OD LICZB DOMU (nie jednorazowy audytor). Zaufanie mocno w gore. Nast 38->42. Zero ekspozycji karty.",

@@ -4161,3 +4161,6 @@ Symon (z Halem-obserwatorem) odbieral pierwsza parcele zamkowa (rzut 6) - Godric
 
 ### 297-04-13 POLUDNIE->WIECZOR - Nesta: szkielet normy gradu
 Symon skonsultowal z Nesta jak ustawic norme gradu (rzut 90). Kompletny szkielet: obiektywne sorty uzgodnione z gory, grad-u-zrodla spisany (tally jedzie z parcela), regula ryzyka tranzytu=UBEZPIECZENIE (synergia filarow!), Symon=udokumentowany arbiter (fosa), wpisac raz w umowe. Spor -> struktura czyniaca kanal biznesem. Uzbrojony na Godrica+Torsena. nast 88->89.
+
+### 297-04-13 WIECZOR - domkniety grad + norma wpisana
+Symon domknal spor o grad (rzut 87) - przyniosl strukture Nesty. Sam przyznal uczciwy markdown na mokrym drewnie (integralnosc!), poprawil over-grading szafarza papierem+autorytetem Godrica. Prowizja +2 jel (cieńsza, uczciwa). WPISALI NORME GRADU na stale z Godrikiem I Torsenem (obiektywne sorty, grad-u-zrodla+tally, regula tranzytu/ubezpieczenie, Symon-arbiter). Crit-6 -> strukturalna wygrana; kanal z przyslugi w BIZNES. Godric 68->70 zauf 14, Torsen 57->59 zauf 11, rep zamek 8->9. Sakiewka 9 jel.

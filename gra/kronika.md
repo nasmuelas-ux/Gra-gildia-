@@ -3951,3 +3951,6 @@ Symon ruszyl model brokera. Pierwszy klient: Aldous (zaufany przyjaciel, realny 
 
 ## 297-03-29 POPOLUDNIE — ksiegi Aurane (forensic znajduje mu grosz)
 Symon odpoczal, zjadl i siadl do ksiag skladu Aurane. Chaos po flotylli uporzadkowany (inwentarz uzgodniony ze stanem, przeplyw, naleznosci skladowe). Forensic znaleziska (za co premium-klient kocha): NIEZAFAKTUROWANE naleznosci za skladowanie (grosz Aurane niezebrany, sam sie nie upomnial) + drobna rozbieznosc inwentarza (przeciek/niedbala miara). Pokazujesz mu gdzie mu ucieka i lezy niezebrane srebro - dla wlasciciela skladow zloto; cementuje premium recurring klienta. ~3/4 gotowe, dostawa ~04-02 spokojnie; zostaje czystopis + jak przedstawic znaleziska. Rzut 77. Model lojalizowania zamoznych: po wizycie sa bogatsi. Sytosc 62, zmeczenie 26.
+
+## 297-03-29 WIECZOR — ksiegi Aurane gotowe
+Symon odpoczal chwile i domknal ksiegi Aurane: czystopis, uporzadkowany rejestr, osobno przygotowany wykaz znalezisk (niezafakturowane skladowe, rozbieznosc inwentarza) do fachowej, nie-alarmistycznej prezentacji. Gotowe. Zostaje dostarczyc - saldo premium + prezentacja znalezisk (~04-02 lub wczesniej). Modelowy dzien domkniety (Aurane zdobyty + broker ubezpieczen + ksiegi gotowe). Sytosc 56, zmeczenie 28.

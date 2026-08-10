@@ -4116,3 +4116,6 @@ Drobne uzgodnienie: fee klienta ~2 jel DO ZEBRANIA na dostawie ~04-11 (nie zebra
 
 ## 297-04-11 RANEK
 Noc przespana. DZIS: zebrac fee zlecenia Hala (~2 jel, dostawa). Jutro (~04-12) Nesta plasuje ubezpieczenie Rennicka. ~04-13 pierwsza dostawa zamkowa + prowizja. Zwornik zaparkowany (Owen grzeje Theomore), Garth na dystansie.
+
+### 297-04-11 RANEK - Hal odzyskuje nerw
+Symon z Halem dostarczyl+zebral fee drobnego zlecenia (rzut 91). Puscil Hala na front bezpiecznego zadania - Hal rozkwitl, nerw wrocil (mentoring flip udany po wczorajszej bojazliwosci). Wahadlo do srodka: spokojna kompetencja. Fee ~2 jel, netto +1 (dzialka Hala wyplacona). nast 83->85, zauf 41. Sakiewka 37 jel.

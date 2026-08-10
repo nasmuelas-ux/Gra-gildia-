@@ -4582,3 +4582,6 @@ Symon wybral WEKSEL - ulokowal 50 jel jako ksiege kredytowa (rzut 87). Z zimna g
 
 ## 297-05-14 WIECZOR — Faktoria: praca (usluga mieli)
 Odpoczynek+jedzenie, potem wieczorna praca w faktorii (rzut 64). Weryfikacje odrobione (+3 jel -> 5 jel wolne - przyda sie do cienkiej sakiewki po wekslach), usluga chodzi, Hal pewny. Aggregate view ksztaltu frachtu portu ostrzejszy. Nesta/Hal ost 05-14. Liczniki audyt+1 (136), rachunki+1 (195). -> noc.
+
+## 297-05-15 RANEK — Noc
+Sen. Przejscie 05-15 RANEK. Filary mielą, weksle pracuja (zwrot ~06-05), Bank blizej gotowosci (Garth stygnie), Mira blisko (dac rytm).

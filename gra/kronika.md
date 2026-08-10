@@ -4110,3 +4110,6 @@ Symon zlapal Rennicka ZAWCZASU (rzut 85) - ladunek outbound jeszcze na kei, pods
 
 ### 297-04-10 WIECZOR - Hal (przekorygowany ku bojazliwosci)
 Symon dal Halowi waski mandat na drobne uzgodnienie (rzut 15) - Hal NIE przeholowal (dyscyplina trzyma), ale przekorygowany ku BOJAZLIWOSCI: grzeznie, pyta o kazdy krok, zamiera na wezle ponad poziom, niedoholowal. Mentoring flip 180: odbudowac pewnosc+doloc rzemiosla (nie sciagac, dodac luzu). Symon domknal z nim spokojnie bez gniewu. nast 83 hold. Nauka: po smyczy - luz.
+
+### 297-04-10 - ksiegowo: fee zlecenia Hala
+Drobne uzgodnienie: fee klienta ~2 jel DO ZEBRANIA na dostawie ~04-11 (nie zebrane wieczorem). Model Hala (platny terminator): fee do Symona, Hal bierze mala dzialke (~1 jel), Symon netto ~1 jel. Nieefektywnosc (Symon domykal) = swiadomy koszt mentoringu. Nalezność zapisana (hal_zlecenie_fee ~04-11), by nie zawisla.

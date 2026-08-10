@@ -289,6 +289,11 @@
    "id": "broker_rennick_plasowanie",
    "termin": "297-04-12",
    "opis": "297-04-10: 2. ladunek brokerski (Rennick, outbound, zwettowany forensic) teed dla Nesty do uplasowania u ustalonego ubezpieczyciela ~04-12. Na uplasowaniu: prowizja Symona (~2 jel) + track-record brokera (2. deal). Buduje fose reputacji dobrze-przesianych ryzyk."
+  },
+  {
+   "id": "hal_zlecenie_fee",
+   "termin": "297-04-11",
+   "opis": "297-04-10: drobne uzgodnienie (Hal niedoholowal, Symon domknal) - fee klienta ~2 jel DO ZEBRANIA na dostawie ~04-11. Hal bierze mala dzialke terminatorska (~1 jel), Symon netto ~1 jel. Nieefektywnosc (czas Symona na dokonczenie) = koszt mentoringu, swiadomie absorbowany."
   }
  ]
 }

@@ -73,6 +73,7 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` zamek_dostawa_stala: 297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) prze
 - ◆ `?` zamek_pierwsza_dostawa: 297-04-10: pierwsza parcela zamkowa skoordynowana (Halvard->Torsen->Symon broker->zamek). Spływa Bialym Nozem,
 - ◆ `?` broker_rennick_plasowanie: 297-04-10: 2. ladunek brokerski (Rennick, outbound, zwettowany forensic) teed dla Nesty do uplasowania u ustal
+- ◆ `?` hal_zlecenie_fee: 297-04-10: drobne uzgodnienie (Hal niedoholowal, Symon domknal) - fee klienta ~2 jel DO ZEBRANIA na dostawie ~
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

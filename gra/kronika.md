@@ -4056,3 +4056,6 @@ Symon poszedl za poleceniem Aldousa do kupca Rennicka - ale ZA POZNO (rzut 26): 
 
 ### 297-04-06 POLUDNIE - Garth (kontakt zaszkodzil)
 Symon podszedl do Gartha idealnie (za dnia, puste rece, sprawa odlozona) - ale rzut 12: Garth za wystraszony (wiosenne oko zamku na komorze) by przyjac; sama obecnosc go ploszy. Zero przecieku/zdrady, ale troska zaszkodzila. NAUKA: sploszone zrodlo pod okiem = kontakt jatrzy, lek=DYSTANS. Decyzja: odpuscic Gartha, dac przestrzen (watek garth_dystans), monitorowac z dystansu. nast 35->33 (strach), zauf 12.
+
+### 297-04-06 WIECZOR - Bran w przeddzien slubu
+Symon zastal Brana przerazonego obrzedem (nie slubem) - przeprowadzil go przez caly rytual, SPISAL akt malzenski (godnosc/pioro zamiast grosza) i dorzucil 3 jel do stolu. Bran przytloczony, 'nie zawiodę cie nigdy' - wiez ku rodzinnej. Czyste dobro po cierpkim dniu. nast 74->78, zauf 18. Sakiewka 20 jel. Jutro slub (Symon swiadek).

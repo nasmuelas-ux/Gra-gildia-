@@ -760,6 +760,12 @@
    "status": "otwarty",
    "priorytet": "niski",
    "opis": "297-04-21: ogrodek Symona obsiany (kapusta/zioła/rzepa) z Jonna (doglada za dzielenie plonu). Plon za tygodnie - drobne swieze jarzyny + zakorzenienie. Niskoprofilowe, ludzkie."
+  },
+  {
+   "id": "ekspansja_graded_drewno",
+   "status": "zbankowany",
+   "priorytet": "niski",
+   "opis": "297-04-24 (Torsen rzut 88): kanal graded-supply drewna (norma+Symon-arbiter) dziala tak gladko, ze INNI odbiorcy (kupcy/warsztaty biegajacy za pewnym drewnem) chcieliby takiego ukladu. Realna ekspansja poza zamek. ZBANKOWANE jako potencjal (dyscyplina niskiego profilu - nie otwierac nowego garnka z rozpedu; deepowac zamek). Rozwazyc gdy faza ekspansji / okazja."
   }
  ]
 }

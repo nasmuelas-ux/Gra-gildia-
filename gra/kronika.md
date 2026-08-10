@@ -4294,3 +4294,6 @@ Noc przespana. Faza cichej konsolidacji. W tle: zelazo Gulltown w drodze, kanal 
 
 ### 297-04-24 RANEK->POLUDNIE - ksiegi Aurane z Halem
 Ksiegi wiosenne Aurane z Halem (rzut 63) - czysto + znaleziska (niezafakturowane skladowe, rozbieznosc rotacji), saldo +7 jel. Hal wszedl w premium/dyskretne zlecenia (trzymal milczenie), kolejny szczebel. Aurane 40->44 zauf 14. Recurring premium poglebiony. Sakiewka 9 jel.
+
+### 297-04-24 POLUDNIE->WIECZOR - Torsen: kanal drewna huczy
+Kanal zamkowy huczy (rzut 88) - dostawy na normie, spory zniknely, prowizja narasta (+3 jel). Torsen kontent (spelnione marzenie faktora). Upside: inni odbiorcy chcieliby graded-supply przez Symona (ekspansja zbankowana, dyscyplina). Torsen 59->63 zauf 13. Sakiewka 12 jel. Watek ekspansja_graded_drewno.

@@ -4068,3 +4068,6 @@ Symon (najedzony/umyty/w kaftanie) wpadl po rade do Serli przed weselem - zla po
 
 ### 297-04-07 POLUDNIE - SLUB Brana i Alys
 Slub zawarty (Owen udzielil). Bran stanal prosto (dzieki przeprowadzeniu Symona 04-06). Symon swiadek, wpisal akt. Krotkie slowo: szczere ale sztywne (rzut 25 - pisarski zywiol nie mostek); zaulek cieplo bez porwania. Bran uslyszal serce. Czyny > toast; standing u ludu cichy plus z obecnosci jako swiadek. Uczta rusza. Bran 78 hold.
+
+### 297-04-07 POLUDNIE->WIECZOR - uczta weselna
+Symon zostal i swietowal z ludem jak swoj (tanczyl niezdarnie, pil, jadl). Zaulek widzi mieszczanina, co nie zadziera nosa. Wenda dumna, rozglasza 'swoich pamieta'; Serla siadla obok (naprawa porannej zlej pory). Standing u ludu w gore (rep port +2). Czyste dobro, wrosniecie w zaulek. Sytosc/zmeczenie w gore (podpity, najedzony).

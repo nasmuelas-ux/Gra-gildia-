@@ -748,6 +748,12 @@
    "status": "otwarty",
    "priorytet": "niski",
    "opis": "297-04-17 (Nesta): cichy compounding - sformalizowac ubezpieczenie tranzytu na wlasnym kanale zamkowym (drewno/opal Bialym Nozem). Filar ubezpieczen Symona kryje jego wlasna podaz -> synergia filarow, chroni przed transit-ryzykiem (mokre drewno=spor gradu 04-13), rosnie bez podnoszenia profilu. Do zrobienia gdy dogodnie (niskoprofilowe, kapital-light)."
+  },
+  {
+   "id": "kantor_kontrahent_rozbieznosc",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "opis": "297-04-19 (rzut 6): przy uzgodnieniach kantoru Hal wypatrzyl anomalie - jeden POWTARZALNY kontrahent kantoru moze systematycznie skracac na drobnych pozycjach (sugestywne, NIEROZSTRZYGNIETE: moze skim, moze lancuch bledow/metne warunki). Konfrontacja bez pewnosci = ryzyko spalenia zywej relacji; ignorowanie = dalej krwawic. DO ZROBIENIA: (a) zebrac WIECEJ DANYCH na spokojnie (rozstrzygnac skim vs blad, po nitce - zywiol Symona), (b) przemyslec z Nesta jak z powtarzalnym partnerem (dyplomacja vs twardo). Klopot na kantor, nie grosz."
   }
  ]
 }

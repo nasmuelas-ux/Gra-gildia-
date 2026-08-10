@@ -4234,3 +4234,6 @@ Kolacja + cwiczenia + sen. DRAW wspolnika (miesieczny +6 jel) -> depozyt (105->1
 
 ### 297-04-19 RANEK->POLUDNIE - praca z Halem (milestone)
 Batch drobnych zlecen z Halem (rzut 75) - czysto, netto +4 jel, niskoprofilowe. Hal MILESTONE: zdyscyplinowana pewnosc, bierze wiecej solo, rzetelna para rak (nie uczen-na-smyczy). Odciazenie Symona, Hal ku wlasnemu standingowi. nast 85->87, zauf 42. Sakiewka 19 jel.
+
+### 297-04-19 POLUDNIE->WIECZOR - kantor: metna rozbieznosc
+Uzgodnienia kantoru z Halem (rzut 6): Hal wypatrzyl anomalie (oko warte miejsca), ale finding=zgryzota - kontrahent moze skracac kantor (sugestywne nie rozstrzygajace, powtarzalny partner). Nie domkniete czysto - klopot do rozplatania (wiecej danych + narada z Nesta), nie grosz. Zelazo Gulltown w drodze. Zmeczenie 28. Watek kantor_kontrahent_rozbieznosc.

@@ -4273,3 +4273,6 @@ Kolejne uzgodnienie z Halem (rzut 50) - czysto, rutynowo, netto +3 jel. Hal prow
 
 ### 297-04-22 WIECZOR - Bran i Alys (ulga chwycila)
 Wizyta u Brana (rzut 58) - 6 dni po pomocy dom oddycha: Alys zarabia u Jonny (igla), Bran z podniesiona pensja, wrocila lekkosc. Alys cieplejsza/smielsza. Rodzina stanela na nogi. Nakarmili Symona. Bran 81 hold. Niskoprofilowe/ludzkie.
+
+## 297-04-23 RANEK
+Noc przespana. Faza cichej konsolidacji trwa (silnik mieli, ludzkie kotwice mocne). W tle: zelazo Gulltown w drodze (~tygodnie od 04-14), kanal zamkowy recurring, Wick uczy sie, Mira slow-burn cieply, ogrod obsiany, Ulric czeka na okazje. Zwornik zaparkowany.

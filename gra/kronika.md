@@ -4101,3 +4101,6 @@ Usunieto wszelka rame winy/nauki. Symon zrobil wszystko dobrze (przyniosl odbior
 
 ### 297-04-10 RANEK - struktura brokerska z Godrikiem
 Symon o swicie domknal z Godrikiem STRUKTURE BROKERSKA (rzut 71): zamek placi rynek za drewno, Symon prowizja na wierzchu za skojarzenie+koordynacje (recurring, kapital-light, zero ryzyka zapasu/spreadu). Godric targowal twardo ale wzial (pewnosc+dyskrecja). Problem cienkiego spreadu znika - broker nie kupiec. Pierwsza dostawa z nastepnej parceli (Torsen/Halvard). nast 66->68, zauf 13. Sytosc 22 (glodny).
+
+### 297-04-10 POLUDNIE - pierwsza parcela zamkowa skoordynowana
+Symon skoordynowal z Torsenem pierwsza parcele zamkowa (rzut 82) - gladko, czysta struktura brokerska. Torsen uloz z Halvardem pojemnosc; kontent (dostal stalego odbiorce - marzenie faktora). Luk operacyjny Halvard->Torsen->Symon(broker)->zamek. Dostawa ~04-13 + pierwsza prowizja. Kanal ku dworowi domkniety i zarabiajacy. nast Torsen 53->57. Sakiewka 36 jel.

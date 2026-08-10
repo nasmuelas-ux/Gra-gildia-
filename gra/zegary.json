@@ -278,7 +278,12 @@
   {
    "id": "zamek_dostawa_stala",
    "termin": null,
-   "opis": "297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) przez Godrica. URUCHOMIC: skoordynowac PIERWSZA dostawe - podaz przez Torsena/Halvarda (kanal re-otwarty 04-05), popyt zamku (Godric). Symon = polaczenie/koordynator, marza+ksiegi domu. Recurring dochod + glebszy embed przy lordzie (cicho wzmacnia parked lord-route). || 297-04-10 (rzut 71): STRUKTURA BROKERSKA DOMKNIETA z Godrikiem. Zamek placi rynek za drewno; Symon bierze PROWIZJE per dostawa (skojarzenie+koordynacja, kapital-light, recurring). Brak ryzyka spreadu (broker nie kupiec). URUCHOMIC: skoordynowac pierwsza parcele przez Torsena/Halvarda (nastepna parcela, lead-time); prowizja poplynie z dostaw."
+   "opis": "297-04-09: DOMKNIETY staly sezonowy angaz zaopatrzenia zamku (drewno/opal kanalem polnocnym Bialego Noza) przez Godrica. URUCHOMIC: skoordynowac PIERWSZA dostawe - podaz przez Torsena/Halvarda (kanal re-otwarty 04-05), popyt zamku (Godric). Symon = polaczenie/koordynator, marza+ksiegi domu. Recurring dochod + glebszy embed przy lordzie (cicho wzmacnia parked lord-route). || 297-04-10 (rzut 71): STRUKTURA BROKERSKA DOMKNIETA z Godrikiem. Zamek placi rynek za drewno; Symon bierze PROWIZJE per dostawa (skojarzenie+koordynacja, kapital-light, recurring). Brak ryzyka spreadu (broker nie kupiec). URUCHOMIC: skoordynowac pierwsza parcele przez Torsena/Halvarda (nastepna parcela, lead-time); prowizja poplynie z dostaw. || 297-04-10: URUCHOMIONY - pierwsza parcela skoordynowana (rzut 82), dostawa ~04-13, prowizja recurring rusza. Kanal operacyjny."
+  },
+  {
+   "id": "zamek_pierwsza_dostawa",
+   "termin": "297-04-13",
+   "opis": "297-04-10: pierwsza parcela zamkowa skoordynowana (Halvard->Torsen->Symon broker->zamek). Spływa Bialym Nozem, dostawa do zamku ~04-13. Na dostawie: potwierdzenie gradacji/odbioru + PIERWSZA PROWIZJA BROKERSKA Symona z tego kanalu (recurring). Pilnowac odbioru/jakosci (reputacja kanalu)."
   }
  ]
 }

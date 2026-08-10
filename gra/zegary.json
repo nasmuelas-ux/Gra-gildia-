@@ -272,11 +272,11 @@
   {
    "id": "wyllam_proba",
    "typ": "okazja",
-   "opis": "297-05-04: list polecajacy Rollama do faktora Wyllama (zboze/skora, Solne Nabrzeze). Trial na reczeniu - poznac, dowiezc probe czysto+dyskretnie jak Rollama/Aurane. Trzeci top-tier klient jesli dowiezie. Pilnowac aggregate visibility. || 297-05-07 (rzut 55): PROBA ZDANA - Wyllam dal kawalek ksiag zbozowych, Symon czysto (niespojnosci+wyciek marzy na rotacji). Relacja na raty (proving). +4 jel. Trzeci top-tier klient. NEXT: dowozic czysto, budowac jak Rollama.",
+   "opis": "297-05-04: list polecajacy Rollama do faktora Wyllama (zboze/skora, Solne Nabrzeze). Trial na reczeniu - poznac, dowiezc probe czysto+dyskretnie jak Rollama/Aurane. Trzeci top-tier klient jesli dowiezie. Pilnowac aggregate visibility. || 297-05-07 (rzut 55): PROBA ZDANA - Wyllam dal kawalek ksiag zbozowych, Symon czysto (niespojnosci+wyciek marzy na rotacji). Relacja na raty (proving). +4 jel. Trzeci top-tier klient. NEXT: dowozic czysto, budowac jak Rollama.  ||  297-05-14 (rzut 87): proba dowieziona czysto - Wyllam z proving na STALE (otwiera wiecej ksiag). Trzeci top-tier zakotwiczony, +5 jel. Flywheel rowiesnikow mieli (Rollam reczy, Wyllam potwierdza).",
    "odlicza_do": null,
    "co_sie_stanie": "gdy Symon pojdzie do Wyllama z listem: proba ksiag -> jesli czysto, nowy recurring top-tier klient",
    "widoczny_graczowi": true,
-   "status": "proba zdana - relacja na raty"
+   "status": "staly klient"
   },
   {
    "id": "owen_studzi_gartha",

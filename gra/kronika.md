@@ -4570,3 +4570,6 @@ Wieczorna praca (rzut 97). Weryfikacje mielą (Leona/Schody/proba Harlona). HAL 
 
 ## 297-05-14 RANEK — Noc
 Sen. Przejscie 05-14 RANEK. Faza rozkwitu: filary mielą, nisza=usluga, kredyt filar, koalicja rosnie (sol Harlona), Bank blizej gotowosci (Garth stygnie), Mira blisko.
+
+## 297-05-14 RANEK — Wyllam: proving -> staly klient
+Do Wyllama dowiezc probe (rzut 87). Dowiozl czysto, wyprostowal rzeczy bez pouczania - podejrzliwosc twardego zmiekla ('Rollam nie klamal, prosta robote robisz'). Wyllam OTWIERA WIECEJ ksiag, z proby na STALE - trzeci top-tier filar zakotwiczony (nie prospekt, klient). +5 jel (-> 49 jel), nast 22->32, zauf 10. Flywheel rowiesnikow mieli: Rollam reczy, Wyllam potwierdza, krag faktorow przyjal Symona za swojego. Dyscyplina widocznosci (3 faktorzy). Liczniki rachunki+1 (193), audyt+1 (135). -> POPOLUDNIE.

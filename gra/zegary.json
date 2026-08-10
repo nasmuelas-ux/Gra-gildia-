@@ -272,6 +272,14 @@
    "widoczny_graczowi": true,
    "ROZSTRZYGNIETY": "297-03-20 (rzut 72): triaz dostarczony czysto, saldo ~4 jel zaplacone. Odkrycie: realny pieniadz w kilku wiekszych kontach nie biedocie; rachunek wspolnika Merka kluje (niespojny) - ziarno zasiane, do przyjrzenia.",
    "zamkniety": true
+  },
+  {
+   "id": "owen_wprowadzenie_theomore",
+   "typ": "keystone",
+   "odlicza_do": "297-03-26",
+   "opis": "Owen aranzuje wprowadzenie Symona (pod poreczeniem Wiary) do maestera Theomore - by przedlozyc dossier celne jako interes lorda (kradziony grosz). Cel: sprawa dociera do lorda Wymana zaufanym kanalem, Symon osloniety. Otwiera keystone (lord+refi+koalicja).",
+   "co_sie_stanie": "wprowadzenie do Theomore ustalone -> Symon przedklada dossier pod tarcza Wiary; start realnego ruchu keystone",
+   "widoczny_graczowi": true
   }
  ]
 }

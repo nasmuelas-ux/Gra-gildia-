@@ -131,7 +131,8 @@
    "typ": "remont (weather-gated, soft)",
    "ODPALIL": "297-03-15 (start 60): pelne cieple okno przyszlo - Donnel ruszyl z ekipa. Materialy zabukowane wczesniej, sekwencja (dach + wymiana zgnilych belek/stropu) zaplanowana, zaprawa bezpiecznie zwiaze. Czysty start bez opoznien. Zadatek materialowy ~15 jel poszedl z depozytu; saldo ~20 jel na ukonczeniu. Robota ~10 dni -> izba 3 pod wynajem ~late III = pelny dochod z kamieniczki.",
    "zamkniety": false,
-   "dodatek_jonna": "Przy re-roofie Donnel ma zajrzec w wilgotny strop/sciane nad izba Jonny (zaciek) - pol dnia, w ramach ekipy juz na miejscu. Tani fix trzymajacy dobra lokatorke (rada Miry + wykonanie Brana)."
+   "dodatek_jonna": "Przy re-roofie Donnel ma zajrzec w wilgotny strop/sciane nad izba Jonny (zaciek) - pol dnia, w ramach ekipy juz na miejscu. Tani fix trzymajacy dobra lokatorke (rada Miry + wykonanie Brana).",
+   "postep_0323": "297-03-23: potwierdzone przez Donnela - re-roof rowno, w terminie ~03-25; zgnile belki/strop wymienione; fix wilgoci Jonny w planie (pol dnia przy okazji)."
   },
   {
    "id": "kamieniczka_najem",
@@ -207,7 +208,8 @@
    "opis": "Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Saldo ~20 jel do doplaty na odbiorze.",
    "co_sie_stanie": "odbior dachu; doplata ~20 jel; izba 3 wystawiona pod najem",
    "widoczny_graczowi": true,
-   "dodatek_jonna": "Przy re-roofie Donnel ma zajrzec w wilgotny strop/sciane nad izba Jonny (zaciek) - pol dnia, w ramach ekipy juz na miejscu. Tani fix trzymajacy dobra lokatorke (rada Miry + wykonanie Brana)."
+   "dodatek_jonna": "Przy re-roofie Donnel ma zajrzec w wilgotny strop/sciane nad izba Jonny (zaciek) - pol dnia, w ramach ekipy juz na miejscu. Tani fix trzymajacy dobra lokatorke (rada Miry + wykonanie Brana).",
+   "postep_0323": "297-03-23: potwierdzone przez Donnela - re-roof rowno, w terminie ~03-25; zgnile belki/strop wymienione; fix wilgoci Jonny w planie (pol dnia przy okazji)."
   },
   {
    "id": "polnoc_pierwsze_tratwy",

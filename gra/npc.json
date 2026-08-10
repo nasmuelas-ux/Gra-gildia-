@@ -1316,8 +1316,8 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 42,
-   "zaufanie": 11,
+   "nastawienie_do_gracza": 46,
+   "zaufanie": 12,
    "wie_o_graczu": [
     "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory",
     "d25 (rzut 40): odwiedzil w bezczynna zime - Donnel rad z ciekawego, szczerze ceniacego ucznia; uczyl chetnie (luki, rozklady sil), opowiadal jak stawial Bialy Mur/czesc Nowego Zamku. Relacja odzyla (31->35). Geometria trafila w praktyczny SUFIT - Symon ma uzyteczna czesc (miara/przestrzen, geom4), mistrzowska reszta wrosnięta w lata pod kamieniem, nie do nadrobienia bystroscia. Wartosc Donnela = relacja/madrosc, nie dalszy grind.",
@@ -1326,9 +1326,10 @@
     "297-01-05 (rzut 14): oglada kamieniczke. KOSCI ZDROWE (sciany proste, fundament suchy/grunt wysoki, brak przegnilych belek/bezdennej studni - 'stac bedzie i po tobie'). ALE remont ciezszy niz kosmetyka: DACH DO WYMIANY calego + strop/podloga w 1 izbie = realny koszt, wypycha all-in ku gornej granicy pulapu/ponad. Nie dealbreaker - dobry dom. Dal TWARDA WYCENE remontu (do negocjacji ceny). Zaoferowal DOPILNOWAC dach po przyjacielsku (zima bezczynny) - przytnie koszt.",
     "297-01-09 (rzut 52): Symon sciagnal go na dach nabytej kamieniczki. Donnel (zimowo bezczynny - RAD z roboty w martwym sezonie) ocenil z dostepem: pelny re-roof NIEMOZLIWY zima (zaprawa nie wiaze, mroz/snieg) -> zrobil PATCH ZIMOWY (uszczelnienie, zabicie szpary, podbicie stropu) - weathertight; pelny dach na odwilz/wiosne. Doradzil uczciwie: 2 suche izby lettable juz teraz, 3. czeka na wiosenny dach. Robota po przyjacielsku - przycial koszt (patch ~9 jel). Rzetelny, dumny z fachu. Relacja ociepla (dales mu godna robote zima + zaufanie do jego reki).",
     "297-02-14 (rzut 11): Donnel (praktyk, lekko chlodny po 35 dniach ciszy) dal ZLA WIESC: latajac dach zima zobaczyl WIECEJ - zgnilizna siega stropu/belek dalej niz pierwsza ocena; wiosenny pelny remont grubszy/drozszy (~35+ jel zamiast ~21 rezerwy). Kosci budynku zdrowe (DD trzyma), ale remont=glebsza studnia -> przekroczenie budzetu, izba 3 opozniona/drozsza. Do rozwiazania: wiecej finansowania/re-scope.",
-    "297-02-14: Symon zamowil pelny wiosenny re-roof PORZADNIE (naprawa krytycznej struktury: dach+strop+belki), sfinansowany (~35 jel: linia+depozyt). Bez fazowania/ryzyka - Donnel dopilnuje przy odwilzy."
+    "297-02-14: Symon zamowil pelny wiosenny re-roof PORZADNIE (naprawa krytycznej struktury: dach+strop+belki), sfinansowany (~35 jel: linia+depozyt). Bez fazowania/ryzyka - Donnel dopilnuje przy odwilzy.",
+    "297-03-23 POLUDNIE (rzut 54): Symon odwiedzil postep dachu (21 dni). Donnel (dumny praktyk) oprowadzil - re-roof rowno, w terminie (~03-25 trzyma), zgnile belki/strop wymienione porzadnie (\"kosc zdrowa\"). Fix wilgoci Jonny na jego liscie (Bran dobrze zagral): \"ten kat nad wdowa mam, zalatwie przy okazji, pol dnia\". Wiez sie grzeje - Symon przyszedl docenic robote i zadbac o lokatorke, nie strofowac (dla praktyka wazne). Dach na czas -> izba 3 wkrotce pod najem. nast 42->46, zauf 11->12."
    ],
-   "ostatni_kontakt": "297-03-02",
+   "ostatni_kontakt": "297-03-23",
    "cechy_mowy": "powolny, rzeczowy, mowi obrazami z rzemiosla; dumny z tego, co postawil",
    "sprawa": "zima go unieruchomila (nie muruje sie w mroz - zaprawa zamarza), wiec ma CZAS i chetnie dzieli sie geometria z kims, kto ja ceni; wspomina tez o zaprzyjaznionym zimujacym szyprze do reckoning/astronomii",
    "historia": [

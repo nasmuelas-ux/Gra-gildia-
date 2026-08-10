@@ -1585,13 +1585,14 @@
    "stan": "mieszczanin (zamozny kupiec-faktor)",
    "zawod": "powazny kupiec-faktor (wiekszy obrot, port); slyszal o 'skrybie co wypatruje wycieki'",
    "mieszka": "port/Schody",
-   "nastawienie_do_gracza": 8,
-   "zaufanie": 2,
+   "nastawienie_do_gracza": 24,
+   "zaufanie": 6,
    "wie_o_graczu": [
     "297-01-15 (rzut 41): sondowal Symona o cos wiekszego (slyszal historie z Godrikiem/relief). Zainteresowany, ale OSTROZNY/niezobowiazujacy - powazny faktor nie daje duzej roboty niesprawdzonemu, swiezo-widocznemu mlodzikowi na pierwszym spotkaniu. Drzwi UCHYLONE, nie otwarte: chce zobaczyc wiecej, nim zaufa czyms substancjalnym. Symon przeczytal: to cultivate+proving+cierpliwosc, nie szybki skok.",
-    "297-01-16 (rzut 41): Symon probowal cultivate bezposrednio (nie napierajac na robote, tylko pokazac wartosc). Rollam uprzejmy, ale sie NIE ruszyl - dla ostroznego czlowieka druga wizyta w tydzien sygnalizuje zainteresowanie/potrzebe, a potrzeba u mlodego = znak, ze jeszcze nie stoi twardo. Symon przeczytal to w pore: tej ryby nie lowi sie chodzeniem do niej; im bardziej zabiegana, tym bardziej sie cofa. Rollam przyjdzie sam, gdy reputacja Symona dotrze do niego cudzymi ustami. Drobny plus (nast 6->8), ale glowna nauka: NIE kurtyzowac bezposrednio - budowac imie gdzie indziej, pozwolic mu znalezc."
+    "297-01-16 (rzut 41): Symon probowal cultivate bezposrednio (nie napierajac na robote, tylko pokazac wartosc). Rollam uprzejmy, ale sie NIE ruszyl - dla ostroznego czlowieka druga wizyta w tydzien sygnalizuje zainteresowanie/potrzebe, a potrzeba u mlodego = znak, ze jeszcze nie stoi twardo. Symon przeczytal to w pore: tej ryby nie lowi sie chodzeniem do niej; im bardziej zabiegana, tym bardziej sie cofa. Rollam przyjdzie sam, gdy reputacja Symona dotrze do niego cudzymi ustami. Drobny plus (nast 6->8), ale glowna nauka: NIE kurtyzowac bezposrednio - budowac imie gdzie indziej, pozwolic mu znalezc.",
+    "297-04-08 POLUDNIE (rzut 87): ZDOBYTY po 82 dniach. W styczniu zbyl Symona (obcy na slowo), dzis DOWOD go poruszyl: referencja Leony + Aurane (peer, ktorego szanuje) powierzyl ksiegi + broker uplasowany + marka forensyka na nabrzezu. Symon NIE napieral (dowod+cisza, po kupiecku). Ostrozny czlowiek wierzy dowodowi nie urokowi -> ruszyl sie. Timing: wiosenny wolumen dusi tez Rollama. Dal REALNY KES PROBNY: wycinek wiekszego obrotu (wiekowanie+uzgodnienie) pod dyskrecja, zadatek 4 jel, saldo grubsze na dostawie. NAJWIEKSZA RYBA dotad (powazny faktor > drobni kupcy Schodow). Metoda dowod+cierpliwosc potwierdzona (Aurane->Rollam). nast 8->24, zauf 2->6."
    ],
-   "ostatni_kontakt": "297-01-16",
+   "ostatni_kontakt": "297-04-08",
    "cechy_mowy": "powsciagliwy, mierzy dlugo, malo slow"
   },
   {

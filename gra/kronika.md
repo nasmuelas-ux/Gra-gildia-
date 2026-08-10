@@ -4077,3 +4077,6 @@ Symon odstawil piwo, wytrzezwial, zostal do konca ROZMAWIAJAC z ludem portu (rzu
 
 ## 297-04-08 RANEK
 Noc przespana po weselu. RANO 04-08: zwornik zaparkowany (Owen grzeje Theomore), Garth na dystansie, filary (broker/forensyka/uzgodnienia) do rozwijania; tropy z nabrzeza. Dzien otwarty.
+
+### 297-04-08 POLUDNIE - ROLLAM zdobyty
+Symon podszedl do Rollama (duzy faktor, styczniowy odmowca) z DOWODEM (Leona+Aurane+broker+marka), bez naporu (rzut 87). Ostrozny czlowiek ruszyl sie - dal wycinek ksiag na probe pod dyskrecja, zadatek 4 jel, saldo grubsze na dostawie. Najwieksza ryba dotad; metoda dowod+cierpliwosc potwierdzona (Aurane->Rollam). Sakiewka 24 jel. nast 8->24, zauf 6. Robota: rollam_ksiegi_wycinek.

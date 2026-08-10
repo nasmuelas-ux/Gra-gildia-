@@ -3993,3 +3993,6 @@ Korekta ksiegowa: zadatek 2 jel od Merka (narrowany 2x, niezapisany) dopisany do
 
 ## 297-04-02 RANEK
 Noc przespana. Poranek: osad Theomore ~04-03, pogodzenie ksiag Merka ~04-04, broker Aldous ~04-05, slub Brana 04-07.
+
+### 297-04-02 POLUDNIE
+Oglada rynku (46) przed Watem: odwilz puszcza zimowe ceny, sukno zaraz zgesnieje (flotylla). Wizyta Wat (35): refresh juz zrobiony 03-16; check-in doradczy - Sisterton przyciety polowicznie, Symon doradzil upplynnic zimowy zapas przed flotylla (wziete ostroznie). Bez grosza, pozycjonowanie doradcze. nast 30->33. Stale zegary Wata sprzatniete.

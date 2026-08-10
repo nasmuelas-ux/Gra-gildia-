@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-04-02 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-04-02 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** cela/prycza przy Sepcie Śniegów (w pieczy septona Owena) — PRZENIÓSŁ SIĘ TU PO NAJŚCIU HARWINA NA ZAUŁEK (plotka_003); u Serli już nie mieszka (dawna gospodyni/przyjaciółka)
@@ -11,7 +11,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 21 jeleni + 95 mied + 0 smokow
 - kwit depozytowy u Nesty (65 jel)
-- Zdrowie 100 · Sytosc 76 · Zmeczenie 6
+- Zdrowie 100 · Sytosc 70 · Zmeczenie 16
 
 ## UMIEJETNOSCI (0-10)
 pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 7 · walka 6 · geometria 4 · czytanie_ludzi 6 · organizacja 6 · audyt 8
@@ -44,7 +44,6 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` aldous_wino_dojdzie: Wino Aldousa dojdzie z przeladowni przy oknie pogodowym/odwilzy (skute lodem od 11-13). Splaca pozyczke pod za
 - ◆ `?` ubezp_pilot_wynik: Pierwszy netto-wynik pilotazu ubezpieczen frachtu: czy objete male ladunki doszly bez strat (skladki=czysty zy
 - ◆ `?` skory_wywoz: Skory (jakosciowe, cena zamrozona) ZESTAGOWANE pod zaladunek do Braavos — czekaja na okno wywozowe/statek (zim
-- ◆ `296-12-18` wat_ksiegi: Symon ma ulozyc ksiegi Wata (wiekszy kupiec, wieksi kontrahenci) - usluga zarzadcza premium pod klauzula dyskr
 - ◆ `296-12-26` harlon_ksiegi: Ustawic ksiegi zarzadcze Harlona (solarz) - usluga premium pod dyskrecja. Reszta fee na dostawie.
 - ◆ `296-12-31` relief_zapasy_cienieja: Zapasy reliefu cienieja (gleboki mroz + dodatek kolodziejow, spad mrozu d25 popyt>podaz). Jesli zimowa fala po
 - ◆ `296-12-29` petycja_lord_relief: PLAN (Owen rzut 97): petycja do lorda Wymana o wsparcie zimowego reliefu - framing PORZADEK+reputacja (nie lit
@@ -60,7 +59,6 @@ pismo 7 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - ◆ `?` weksel_pilot_wynik: Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli spl
 - ◆ `?` polnoc_halvard_wiesci: Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym 
 - ◆ `?` wesele_bran_alys: Wesele Brana (dozorca kamieniczki) i Alys - Symon proszony jako swiadek/pisarz (spisac-odczytac slowa, stanac 
-- ◆ `297-03-17` wat_ksiegi_wiosna: Wiosenny refresh ksiag premium Wata (rosnacy kupiec, wiecej kontrahentow/tras). Zadatek 4 jel wziety, saldo ~9
 - ◆ `297-03-25` dach_ukonczenie: Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Sal
 - ◆ `297-04-05` polnoc_pierwsze_tratwy: Pierwsze wiosenne tratwy Halvarda w dol Bialego Noza (drewno/skory/futra) gdy rzeka pusci calkiem. Podaz niena
 - ◆ `297-03-18` nesta_ubezp_apetyt: Nesta sonduje braavijskie kontakty co do apetytu na ubezpieczenie frachtu wiosennego (czy jest popyt/po jakiej

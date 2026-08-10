@@ -4231,3 +4231,6 @@ Ksiegi domu (rzut 18) - plasko pod okiem Ulrica, +3 jel. Czytanie Ulrica (rzut 3
 
 ## 297-04-19 RANEK
 Kolacja + cwiczenia + sen. DRAW wspolnika (miesieczny +6 jel) -> depozyt (105->111 jel). Faza cichej konsolidacji. W tle: zelazo Gulltown, kanal zamkowy recurring, Ulric (czekac na okazje), Wick uczy sie.
+
+### 297-04-19 RANEK->POLUDNIE - praca z Halem (milestone)
+Batch drobnych zlecen z Halem (rzut 75) - czysto, netto +4 jel, niskoprofilowe. Hal MILESTONE: zdyscyplinowana pewnosc, bierze wiecej solo, rzetelna para rak (nie uczen-na-smyczy). Odciazenie Symona, Hal ku wlasnemu standingowi. nast 85->87, zauf 42. Sakiewka 19 jel.

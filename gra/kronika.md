@@ -4249,3 +4249,6 @@ Symon po nastepny ruch do Nesty (rzut 25) - dostal HAMULEC nie plan. Nesta wyczu
 
 ### 297-04-20 WIECZOR - Mira (jakosciowy przeskok)
 Symon do Miry po ludzku (rzut 94) - najlepszy wieczor dotad. Rozmowa o zyciu, latwosc, smiech, 'dobrze razem'. Mira: 'dziwny czlowiek co nic nie chce' (=lubi). Slow-burn z peer-a w cieplo z ISKRA. Bez deklaracji, rosnie samo. Doktryna byc-nie-targowac wygrywa. nast 38->45, zauf 15. Niskoprofilowe/ludzkie.
+
+## 297-04-21 RANEK
+Noc przespana. Faza cichej konsolidacji (Nesta: cierpliwosc=ruch). W tle: zelazo Gulltown w drodze, kanal zamkowy recurring, Ulric (czekac na okazje), Wick uczy sie, Mira slow-burn ciepły. Zwornik zaparkowany.

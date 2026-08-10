@@ -4008,3 +4008,6 @@ Symon rozwazyl wieczorna wizyte u Torsena, ale sie ROZMYSLIL (madrze - dzien juz
 
 ## 297-04-03 RANEK - OSAD THEOMORE
 Owen przyniosl slowo z zamku: Theomore NIE zaniosl sprawy lordowi (rzut 39). Ocenil dossier wysoko (kompetencja), ale zada niezaleznej korroboracji frachtu spoza audytu, zanim postawi imie przeciw domowi cenionemu przez lorda. BEZ przecieku/wrogosci - dokument lezy cicho, droga gated nie zamknieta. Ryzyko Nesty (maester zwleka) zmaterializowane lagodnie. Ciezar wraca na dzialajace tory (cichy lewar/koalicja/pryncypal); korroboracja = nacisk na kruchego Gartha. Do strategii z Nesta/Owenem. Theomore 10->11.
+
+### 297-04-03 POLUDNIE - NARADA z Nesta
+Zimna narada o stallu Theomore (rzut 14/43, cierpka). Brak czystego planu - korroboracja frachtu prowadzi przez kruchego Gartha/zamknietego Torsena/ekspozycje. Friction bez klotni. Guardrail utrzymany: NIE palic Gartha, droga lorda zaparkowana jako uspiona rezerwa. Ciezar na dzialajace tory, ale 'jak docisnac' nierozegrane. Symon bez jasnosci. Nesta 86 hold.

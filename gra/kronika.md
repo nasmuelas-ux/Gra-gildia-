@@ -4474,3 +4474,6 @@ Odpoczynek+jedzenie (zmecz 20, syt 60). Do Aurane lekko, bez Hobba, po ludzku (r
 
 ## 297-05-07 RANEK — Noc
 Sen. Przejscie 05-07 RANEK. W tle: Owen studzi Gartha (plan Banku na cierpliwym holdzie), Wyllam z listem Rollama czeka na poznanie, weksel Wenda ~05-12, rynek sukna po flotylli, Aurane ocieplony.
+
+## 297-05-07 RANEK — Wyllam: proba zdana (3. faktor)
+Sniadanie. Na Solne Nabrzeze do Wyllama z listem Rollama (rzut 55). Wyllam podejrzliwy ale poreczenie zadzialalo ('Rollam glupi nie jest'). Dal probe - kawalek ksiag zbozowych; Symon czysto, wyprostowal niespojnosci, pokazal wyciek marzy na rotacji. PROBA ZDANA, relacja rusza na raty (proving jak Rollam). Trzeci top-tier klient wspiety czystym imieniem. +4 jel (-> 43). nast 10->22, zauf 6. Aggregate visibility: 3. aktywny faktor - dyscyplina. Liczniki rachunki+1 (183), audyt+1 (128). -> POPOLUDNIE.

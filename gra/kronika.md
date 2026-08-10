@@ -3936,3 +3936,6 @@ Symon podszedl dyskretnie (nie przy komorze) uspokoic zrodlo - trafil Gartha NER
 
 ## 297-03-28 WIECZOR — Owen: submisja Rymana/Winterfell zywa (drgnienie, wciaz miesiace)
 Symon spytal Owena o submisje do Winterfell. Owen z kanalow Wiary (cicha siec ku Polnocy): PISMO DOSZLO we wlasciwe rece (niebanalne przy dlugim strzale), pierwsze slabe drgnienie - sprawa NIE ZBYTA, ktos na Polnocy patrzy (burden-flip nie w koszu). ALE wciaz miesiace i dlugi strzal: Polnoc rusza we wlasnym tempie, Starkowie niechetni mieszac sie w cechowe sprawy wasala Manderlych. 'Zasialismy najlepiej, teraz musi dojrzec w ICH czasie; kanal Wiary delikatny, pchac=blad, cierpliwosc.' Zywe nie zbyte, ale daleko - flicker nie werdykt. THEME: przy Owenie Symon nie chowa sekretu (dzieli pelen ciezar) - antidotum na samotnosc dnia (Aldous/Garth). Rzut 57. Owen nast 84 hold. Sytosc 66, zmeczenie 36.
+
+## 297-03-29 RANEK — noc spokojna
+Symon pocwiczyl i przespal noc (zmeczenie 5). Nic pilnego nie odpalilo. Nadchodzace: osad Theomore ~04-03, pierwszy ladunek brokerski ubezp ~04-05, tratwy Halvarda ~04-05, wesele Brana ~04-07. Sytosc 52.

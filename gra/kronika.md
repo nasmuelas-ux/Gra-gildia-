@@ -4408,3 +4408,6 @@ Symon szukal braavijskich kapitanow (rzut 34). Prawdziwych brak - galery linii i
 
 ## 297-05-02 WIECZOR — Owen/septa: sluzba + sygnal Theomore
 Wieczorna sluzba w sepcie (rzut 70): spis jalmuzny, kopiowanie. Rep wiara 76->77. Przy Owenie ciezar sekretu lzejszy (wewnatrz firewalla - nie trzeba udawac jak przy Aldousie). SYGNAL: Theomore MIEKNIE koscielna droga, szacunek maestera dojrzewa - nie wyrok/przelom, ruch naprzod. Owen: 'nie pchaj, rosnie samo'. Slow-burn dziala. Owen ostatni 05-02. Liczniki pismo+1 (115), retoryka+1 (106). Symon glodny (syt 25). -> noc.
+
+## 297-05-03 RANEK — Cwiczenia + noc
+Wieczorem cwiczenia (kondycja/walka - liczniki+1, progi: kondycja 113<125 hold 7, walka 50<90 hold 6, bez awansu). Noc przespana. Przejscie 05-03 RANEK. Faza konsolidacji; w tle wszystko weather-bound (zelazo/flotylla/Belarno), Aurane trawi skim.

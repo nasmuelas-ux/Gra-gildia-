@@ -4309,3 +4309,6 @@ Symon wrocil do Harlona z przygotowanym katem (przyg 64 + rzut 62): uczciwe zlev
 
 ## 297-04-26 RANEK
 Noc przespana. Faza cichej konsolidacji. Nowa waga: dojscie zelaza Gulltown = spoiwo koalicji (Harlon 'pokaz mi'). W tle: kanal drewna huczy, Aurane/Rollam/uzgodnienia, Wick uczy sie, Mira slow-burn, ogrod kielkuje, Ulric czeka na okazje. Zwornik zaparkowany (koszt: erozja koalicji - karmic konkretem). Depozyt 140 jel.
+
+### 297-04-26 RANEK->POLUDNIE - Mira (plateau)
+Genuine wizyta u Miry (rzut 37) - latwosc trzyma, ale przymknela sie o pol kroku (odruch po odslonieciu 04-20). PLATEAU nie krok w tyl. Symon zagral wlasciwie: nie gonił, staly/spokojny. Stalosc wygrywa nie poscig. nast 45 hold. Niskoprofilowe.

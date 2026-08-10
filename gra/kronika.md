@@ -4026,3 +4026,6 @@ Symon ostatni wieczor pod dachem septy spedzil sluzac (rzut 56, pismo dla ubogic
 
 ### 297-04-04 POLUDNIE - pogodzenie ksiag Merka
 Symon poprowadzil jawne pogodzenie (rzut 79, czysto). Rama bezstronna utrzymana. Wynik: wspolnik podbieral z kasy spolki na wlasny uzytek (udokumentowane) - podduszony gotowka, nie zbrodnia z nienawisci. Zero oskarzenia przy stole; finding prywatnie Merkowi z dowodem, bez werdyktu. Merek gorzka ulga, wdzieczny. Saldo +5 jel (sakiewka 26). Dyskrecja/firewall held. Co dalej z tym = decyzja Merka. nast 47->50, zauf 14.
+
+### 297-04-04 POLUDNIE->WIECZOR - PIERWSZE WLASNE LOKUM
+Symon wprowadzil sie do wlasnej izby 4 swojej kamieniczki przy Schodach. Fit-out ~5 jel (koza, okiennice, prycza, stol) - z zimnego shell habitable. Bran (dozorca on-site) przywital gospodarza z duma, pomogl. PIERWSZY WLASNY PROG W ZYCIU - mieszczanin pod wlasna belka, obok swoich lokatorow (Jonna/Osric/Hal), ogrodek za plotem. Nadal pisarz septy / pod oslona Wiary (warunek Owena). Milestone. mieszka zaktualizowane. Sakiewka 26->21 jel.

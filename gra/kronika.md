@@ -4086,3 +4086,6 @@ Symon dowiozl wycinek ksiag Rollama czysto+dyskretnie (rzut 49), ale bez fajerwe
 
 ### 297-04-09 RANEK - GODRIC: staly angaz zaopatrzenia zamku
 Symon wrocil o swicie (dobre okno, nie wieczor) z konkretem (rzeka ruszyla, tratwy zeszly) - DOMKNAL staly sezonowy angaz zaopatrzenia zamku drewnem/opalem kanalem polnocnym + wrocil do ksiag domu (+4 jel). Zbieznosc: Torsen/Halvard (podaz) + zamek (popyt), Symon=polaczenie. Cichy embed pod lord-route. Metoda cierpliwosc+konkret+okno. nast 60->66, zauf 12, rep zamek 6->8. Uruchomic pierwsza dostawe (zamek_dostawa_stala).
+
+### 297-04-09 POLUDNIE->WIECZOR - koordynacja utknela
+Symon poszedl skoordynowac pierwsza dostawe do zamku przez Torsena (rzut 2) - sciana: pierwsze tratwy w wiekszosci zaklepane (Halvard stali odbiorcy), wolne drogie, marza ~zero. NAUKA: sprzedal polaczenie Godricowi nim zabezpieczyl podaz = blad posrednika (trzymaj oba konce). Torsen warm/uczciwy, wiez stoi. Opcje: szukac podazy / loss-leader / reset z Godrikiem. Zobowiazanie wisi.

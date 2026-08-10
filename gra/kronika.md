@@ -3873,3 +3873,6 @@ Symon z Branem szukal lokatora do izby 3. Chetni sa, ale rotacyjni nie stabilni 
 
 ## 297-03-25 — PLAN: pakiet Hala za 2 dni (~03-27)
 Decyzja: pakiet Hal-lokator odlozony na ~03-27 (po keystone, gdy Hal wejdzie w robote flotylli). Izba 3 zarezerwowana dla Hala. Skladniki: (a) Symon zaczyna placic Halowi za realna prace pipeline; (b) Hal bierze izbe 3 na skromny czynsz z tego dochodu; (c) blogoslawienstwo Owena na wyprowadzke z przytulku. Stabilny lokator + oplacany terminator + dotrzymana obietnica + ukojony niepokoj z 03-23. Ekonomicznie realne, nie jalmuzna.
+
+## 297-03-25 POLUDNIE — wywiad o zlecenia: fala wiosennej roboty
+Symon obszedl siec (rzut 94). Fala wiosennej roboty: nisza weryfikacji w szczycie (flotylla tuz, kupcy chca sprawdzac swieze braawijskie/dostawcze papiery przed sezonem - drobne-srednie zlecenia po pare jeleni); kupcy Schodow chca ogarniete ksiegi/umowy dostaw (fee-joby); baseline obfity. KLUCZOWE: ta fala to surowiec pod pipeline Hala (~03-27) - pakiet Hal-lokator (praca za grosz->czynsz) ma twarde paliwo, billable roboty az nadto. Timing: jutro keystone, wiec nie brac duzego commitmentu (Nesta: nie rozpraszaj sie) - albo jedno drobne teraz, albo zbankowac fale pod Hala. Sytosc 42, zmeczenie 18.

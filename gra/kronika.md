@@ -5136,3 +5136,6 @@ Dzień legitymacji: własna analiza (charter=pismo, audyt poza monopolem), Torre
 
 ## 297-06-17 RANEK — Aurane (rzut 69, bez łowienia)
 Symon wszedł BEZ łowienia roboty, czysto po ludzku, szacunek+przestrzeń (register-correct — nauka z 05-28/05-06). Rozbroił dumnego prywatnego propertied (paradoks: bo nie łowił, sam rzucił) — Aurane cieplej, SAM zasygnalizował przyślе po Symona gdy wiosenne księgi składów urosną (przyszła robota premium na JEGO warunkach). Goodwill propertied człowieka solidnieje (cenne dla frontu cechu — świadek charakteru, godnością nie prośbą). Drobny intel z nabrzeża. Nast 60→63, zauf 21→23. Nauka: u Aurane mniej znaczy więcej.
+
+## 297-06-17 POŁUDNIE — księgi cechu (rzut 69)
+Czysta sesja ksiąg cechu kołodziejów, dalsza optymalizacja graded-drewna + drobny catch, +5 jel. Wartość dla cechu potwierdzona (goodwill/świadek charakteru solidnieje — podwójna waga po froncie cechu pisarzy). Boren: rozgląda się za lokalnym drewnem — jeden mglisty trop (pomniejszy posiadacz z borem bez dojścia do zamku), sprawdza. Wolne 61 jel.

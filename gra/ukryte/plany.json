@@ -84,12 +84,6 @@
    "zywy_watek": "inwestycja_faktoria_rotacja"
   },
   {
-   "kto": "harmen_lead",
-   "co": "Harmen (polecony przez Merka) przyslal sluge - prosi, bys zerknal na jego ksiegi (nowy prospekt)",
-   "kiedy": "297-05-29",
-   "zywy_watek": "nowy_klient_harmen"
-  },
-  {
    "kto": "mira_slowo",
    "co": "Mira moze przyslac drobne cieple slowo/znak - PO PRZELOMIE to ona pierwszy raz inicjuje kontakt",
    "kiedy": "~06-01",

@@ -1952,11 +1952,12 @@
    "imie": "Harmen",
    "zawod": "kupiec suchym towarem i zapasami (Schody) - sredni obrot",
    "stan": "mieszczanin",
-   "nastawienie_do_gracza": 0,
-   "zaufanie": 0,
+   "nastawienie_do_gracza": 28,
+   "zaufanie": 11,
    "ostatni_kontakt": "297-05-29",
    "wie_o_graczu": [
-    "297-05-29: NIE poznany osobiscie. Przyslal SLUGE z wiadomoscia - Merek porecyzl mu Symona (\"skryba co wypatruje wycieki, trzyma jezyk\"). Prosi, by Symon wpadl zerknac na jego ksiegi. NOWY prospekt (proving-arc jak Wyllam/Rollam): przyjdzie na reczeniu Merka, ale reszte Symon dowiezie sam. Sredni obrot - nie premium jak Aurane, ale realny nowy recurring jak sie sprawdzi."
+    "297-05-29: NIE poznany osobiscie. Przyslal SLUGE z wiadomoscia - Merek porecyzl mu Symona (\"skryba co wypatruje wycieki, trzyma jezyk\"). Prosi, by Symon wpadl zerknac na jego ksiegi. NOWY prospekt (proving-arc jak Wyllam/Rollam): przyjdzie na reczeniu Merka, ale reszte Symon dowiezie sam. Sredni obrot - nie premium jak Aurane, ale realny nowy recurring jak sie sprawdzi.",
+    "297-05-29 POPOLUDNIE (rzut 100, KRYTYK): proving-arc PRZESKOCZONY. Na PIERWSZY rzut oka Symon znalazl SYSTEMATYCZNY wyciek - dostawca konsekwentnie przebijal rachunki (nadplata na powtarzalnych pozycjach), realny grosz uciekal miesiacami. Nie do podwazenia. Harmen z podejrzliwego prospekta w mgnieniu = solidny klient (vouch Merka + niezaprzeczalny catch od reki). +9 jel. Poreczenie Merka SPEKTAKULARNIE potwierdzone -> Harmen sam bedzie polecal. CICHO (aggregate/firewall): jego fracht echem tego samego przebicia co siec Antaryona - Symon ZANOTOWAL, nie ruszyl. nast 0->28, zauf 0->11."
    ],
    "uwaga": "lead z polecenia Merka (05-28). Inbound - SWIAT zapukal. Do rozegrania: isc, sprawdzic sie."
   }

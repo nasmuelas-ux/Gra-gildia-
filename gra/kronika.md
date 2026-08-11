@@ -4857,3 +4857,6 @@ Symon śpi po dobrym dniu: przełom z Mirą (jej krok), kantor, i najtłustszy z
 
 ## 297-05-29 RANEK — Wyllam (thin, rzut 23)
 Księgi robione świeżo 05-21 (8 dni), tydzień chudy w jego obrocie — ledwie drobny wpis, +2 jel. Relacja durable trzyma. Nauka emergentna: sieć przerobiona świeżo (Rollam, Vox, Merek, Aurane, Wyllam ostatnio) → codzienne polowanie na zarobek daje malejący zwrot krótkoterminowo; robota musi narosnąć.
+
+## 297-05-29 POPOŁUDNIE — Harmen (lead Merka, rzut 100 KRYTYK)
+Proving-arc przeskoczony. Na pierwszy rzut oka Symon znalazł systematyczny wyciek — dostawca konsekwentnie przebijał rachunki (nadpłata na powtarzalnych pozycjach), realny grosz uciekał miesiącami. Nie do podważenia. Harmen z podejrzliwego prospekta w mgnieniu → solidny klient (vouch Merka + niezaprzeczalny catch). +9 jel, rep schody 33→34. Poręczenie Merka spektakularnie potwierdzone → Harmen sam będzie polecał. Cicho (aggregate/firewall): jego fracht echem tego samego przebicia co sieć Antaryona — Symon zanotował, nie ruszył. Nast 0→28, zauf 0→11.

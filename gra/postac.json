@@ -8,8 +8,8 @@
  "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 55,
- "zmeczenie": 12,
+ "sytosc": 45,
+ "zmeczenie": 22,
  "sakiewka": {
   "miedziaki": 54,
   "jelenie": 6,
@@ -35,7 +35,7 @@
   "cech_kolodziejow": 34
  },
  "umiejetnosci": {
-  "pismo": 7,
+  "pismo": 8,
   "rachunki": 9,
   "prawo": 9,
   "retoryka": 7,
@@ -133,8 +133,8 @@
  "liczniki_uzyc": {
   "rachunki": 211,
   "audyt": 147,
-  "pismo": 123,
-  "organizacja": 113,
+  "pismo": 125,
+  "organizacja": 114,
   "kondycja": 115,
   "walka": 51,
   "prawo": 177,

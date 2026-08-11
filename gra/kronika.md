@@ -4771,3 +4771,6 @@ Symon usiadł jeszcze nad pergaminem (pismo 123/125), ale po długim dniu, zmęc
 
 ## 297-05-25 RANEK — Mira (po ludzku, rzut 42)
 7 dni oddechu po cofnięciu z 05-18. Wizyta bez agendy, zero nacisku — i to zadziałało: ostrożny flinch z 05-18 rozpuścił się, wróciła wygodna łatwość. Bez kroku naprzód (nie jest gotowa; Symon mądrze nie pcha), ale Mira uchyliła okno — opowiedziała, czemu tak strzeże niezależności (raz zależała od cudzego dachu, źle się skończyło). Symon słuchał. Postęp w zrozumieniu, nie w romansie. Grunt znów stabilny. Nast 69→71, zauf 26→27.
+
+## 297-05-25 RANEK — pomoc Halowi + PISMO 7→8 (rzut 81)
+Symon przyszedł pomóc Halowi (rozciągniętemu wolumenem) i zrobił więcej niż odjął roboty: nauczył go STRUKTUROWAĆ przeciążony talerz — priorytety, kolejność, co odłożyć — nie tylko harować. Stretch zluzowany, Hal spokojniejszy. Łańcuch Owen→Symon→Hal mocnieje. Zauf 45→47. Przy okazji, pisząc całe rano na świeżą rękę, Symon dobił wprawkę: PISMO 7→8 (licznik 125). Pierwszy awans od dawna — na jasną głowę, nie na dogasającą świecę.

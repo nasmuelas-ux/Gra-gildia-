@@ -5054,3 +5054,6 @@ Ciepły, restauracyjny kubek po kilku dniach intensywnego dawania (Elna/Wick/Hal
 
 ## 297-06-10 WIECZÓR/NOC — powrót do siebie, sen (za zgodą gracza)
 Symon wrócił do swojej izby, posiedział chwilę z pytaniem Aldousa („a kto leje w ciebie?"). Cichy, reflektywny domysł: jest studnią, z której wszyscy czerpią — a rzadko staje przy cudzym wiadrze. Może dlatego Mira. Dzień 06-10 zamknięty (Bran/Vox/Aldous — same relacje, żadnego kryzysu). → 297-06-11 RANEK.
+
+## 297-06-11 RANEK — Mira: Symon ODKŁADA (po rzucie 2)
+Symon przyszedł SOBĄ (bez strategii — dobry wybór), ale kość padła na JEJ ranę (spłoszyła się, zły dla niej poranek, guarded flinch na nagą szczerość — nie wina Symona). DECYZJA: Symon odkłada temat Miry — przestaje wkładać wysiłek, NIE inicjuje, wraca TYLKO jeśli ONA się odezwie. Żyje swoim, obraca energię na własną studnię (Aldous: „kto leje w ciebie"). Bez goryczy, z jasnością — rzeczy rosną jak chcą. Mira nast 84→82, zauf 37→33, flaga: ODŁOŻONE_piłka_po_jej_stronie. GM: nie podpowiadać wizyt u Miry, nie liczyć w scan zaniedbanych jako cel.

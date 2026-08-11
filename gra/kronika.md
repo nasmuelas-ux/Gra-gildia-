@@ -5100,3 +5100,6 @@ Symon świadomie zszedł na port popatrzeć na wodę. Dzień osiadł dobrze: obe
 
 ## 297-06-14 WIECZÓR/NOC — Septa+Owen, sen (dzień dobry i mądry)
 Septa: księgi jałmużny coraz cięższe (przednówek gryzie). Owen (rzut 29): „większa miara" — serce dobre, ale głód>sakiewka + WIDOCZNOŚĆ (nisko urodzony jawny dobroczyńca ściąga oczy, ryzyko firewalla). Seed: pomóc DYSKRETNIE/strukturą, nie jako twarz. Dzień mądry: obejście drewna przez cech (class-safe), Vox retainer, kapitał w rotację, majątek >2 smoki. → 297-06-15 RANEK (pilot-ext termin).
+
+## 297-06-15 RANEK — pilot-extension przedłużony
+Dłużnik pilotażowego mostka (10 jel) krótki na wiosnę (norma przednówka, nie flaga) wrócił przedłużyć — Symon zrolował: 10 jel dalej deployed + drobna opłata (+1 jel). Pilot UDOWODNIONY → skalowalny (mostek-kredyt działa, dłużnicy pewni). Relacja utrzymana.

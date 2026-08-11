@@ -5094,3 +5094,6 @@ Sakiewka po dzisiejszym dochodzie: 41 jel + 6 mied. Rachunki licznik ~241 (9 od 
 
 ## 297-06-14 POŁUDNIE — realokacja kapitału (z Nestą)
 Symon: 200 jel (1 smok) z depozytu → rotacja faktorii (50→250). 6 jel reszty depozytu → kieszeń. Depozyt wyzerowany. (Dach ogarnięty — rezerwa niepotrzebna; Nesta zaznaczyła, że własna księga kredytowa Symona bije jej rotację, ale Symon wybrał rotację — jego decyzja.) Nowy bilans: wolne 47 jel + 6 mied · rotacja 250 · weksle 110 · depozyt 0 · razem ~407 jel.
+
+## 297-06-14 POPOŁUDNIE — port, woda (świadoma praktyka)
+Symon świadomie zszedł na port popatrzeć na wodę. Dzień osiadł dobrze: obejście ściany drewna bokiem (cech jako tarcza, class-safe), Vox retainer po cichu, własna księga rośnie, majątek >2 smoki, kapitał przerzucony w rotację. Mądry dzień, nie siłowy. Studnia napełniona. syt 62, zmecz 14.

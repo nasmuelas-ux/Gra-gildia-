@@ -5233,3 +5233,6 @@ Torren zatrzymał się z rozmysłem: charteru cechu nie wyciąga się z półki 
 
 ## 297-06-22 POPOŁUDNIE — Nesta: projekt firmy, twardy węzeł (rzut 16)
 Zaczęli budować, trafili REALNY constraint (postęp, nie kręcenie): „linia usług kantoru" ma fatalną wadę — wartość Symona = NEUTRALNA dyskrecja; praktyka jako ramię faktorii Nesty (rywala wielu klientów) = nikt nie da ksiąg rachmistrzowi związanemu z rywalem → parasol instytucjonalny (legalność) ZABIJA neutralność (wartość). + formalizacja = większa widoczność (cech). + Nesta chce Symona wplecionego vs praktyka potrzebuje dystansu. CONSTRAINT: legalność + neutralność + niska widoczność w napięciu. KIERUNEK ROZWIĄZANIA: firma WŁASNA, niezależna, NEUTRALNA (twarz Symona), Nesta CICHY backer za kulisami (kapitał+mentorstwo+charter zaplecze, nie publiczny rodzic). Do dopięcia.
+
+## 297-06-22 NOC — sen (dzień knotliwy ale konstruktywny)
+Rotacja rozliczona (+22 plon, re-roll 290), kantor jałowy (rzut 18 — wyschnięta studnia), Torren charter=ślepy zaułek (rzut 3, nie oświetlaj się), Nesta projekt firmy (rzut 16 — twardy węzeł neutralność-vs-legalność, kierunek: własna firma + Nesta cichy backer). PRZEŁOM MYŚLOWY: nie bronić się przed cechem, lecz BUDOWAĆ jawne przedsiębiorstwo kupieckie (legalne z natury, poza ich jurysdykcją). → 297-06-23 RANEK (firma do dopięcia; batch3 ~06-27; drewno/sól/Bank dojrzewają).

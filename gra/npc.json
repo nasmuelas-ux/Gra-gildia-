@@ -1181,9 +1181,9 @@
    "id": "zarzadca_godric",
    "imie": "Godric",
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
-   "nastawienie_do_gracza": 79,
+   "nastawienie_do_gracza": 83,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-   "zaufanie": 20,
+   "zaufanie": 23,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
     "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
@@ -1203,7 +1203,8 @@
     "297-05-23 POPOLUDNIE (rzut 1, krytyk): sesja poszla bokiem - nie z winy Symona. Przy zamykaniu ksiag zamkowego drewna wyszla NIEZGODNOSC: intake Nowego Zamku zaksiegowal jedna dostawe KROCEJ niz rejestr Godrica. Nie domklo sie dzis. Godric zaniepokojony - to JEGO kark przed zamkiem (albo blad intake, albo realny niedobor). Zaden czysty zysk, atmosfera napieta. Symon problem znalazl, nie spowodowal (zauf trzyma), ale wyszedl z klopotem w rekach. nast 70, zauf 14.",
     "297-05-23 POPOLUDNIE (rzut 41, po odpoczynku): Symon odbudowal STRONE GODRICA airtight - rejestr zgadza sie z tally i znakiem karczmarza/woznicy; PELNA dostawa udokumentowana po jego stronie. Godric ODETCHNAL: ma czym pokazac zamkowi, ze wyslal ile trzeba. Wniosek: rozjazd wszedl PO stronie intake zamku (blad urzednika najpewniej, ale NIEPOTWIERDZONE). Domkniecie wymaga wgladu w rejestr intake - delikatne. nast 70->72, zauf 14->15.",
     "297-05-24 RANEK (rzut 58): Symon zagral MADRZE - NIE coachingowal (stan!), tylko dal airtight jednostronicowe wyrownanie + JEDNA rowna sugestie (podac jako rutynowe wyrownanie, nie skarge) i ZAPYTAL Godrica o ludzi intake. Godric, potraktowany jak ekspert ktorym jest, wzial sprawe na siebie z nienaruszona duma i sie otworzyl: dostawe przyjmowal GOWEN (skryba intake Nowego Zamku) - porzadny ale zaharowany, przy trzech wozach na raz myli pnie, poprawi cicho jak sie go nie przyprze. Intake podlega urzedowi SZAFARZA (Ulric) - wiec trzymac na poziomie skryby, nie dawac temu wejsc na biurko Ulrica. Godric poniesie kartke do Gowena jako rutyne. nast 72->75, zauf 15->17.",
-    "297-05-27 RANEK (rzut 83): RAPORT z zamku - plan zadzialal wzorcowo. Godric poniosl jednostronicowke do Gowena jako rutynowe wyrownanie, bez oskarzenia, z drabina. Gowen (potraktowany godnie) sam znalazl swoj miscount (trzy wozy na raz), poprawil CICHO, wdzieczny ze bez awantury. Ksiegi Godrica wytrowane, kark przed zamkiem czysty. NIE weszlo na biuro Ulrica - firewall caly, Symon niewidzialny. Godric gleboko wdzieczny: strach zamienil sie w czysta wygrana, w ktorej WYSZEDL na sumiennego dostawce. Zaplacil zalegle za robote. nast 75->79, zauf 17->20."
+    "297-05-27 RANEK (rzut 83): RAPORT z zamku - plan zadzialal wzorcowo. Godric poniosl jednostronicowke do Gowena jako rutynowe wyrownanie, bez oskarzenia, z drabina. Gowen (potraktowany godnie) sam znalazl swoj miscount (trzy wozy na raz), poprawil CICHO, wdzieczny ze bez awantury. Ksiegi Godrica wytrowane, kark przed zamkiem czysty. NIE weszlo na biuro Ulrica - firewall caly, Symon niewidzialny. Godric gleboko wdzieczny: strach zamienil sie w czysta wygrana, w ktorej WYSZEDL na sumiennego dostawce. Zaplacil zalegle za robote. nast 75->79, zauf 17->20.",
+    "297-05-27 RANEK (rzut 88): Symon przyszedl PODZIEKOWAC po ludzku - i zamiast przypisac sobie wygrana, oddal ja Godricowi (jego twarz, jego ton, jego zaufanie zrobily robote). Godric - czlowiek wyzszego stanu, przywykly byc pryncypalem - rozbrojony, ze mlodszy oddaje mu splendor zamiast go szukac. Relacja przeszla z klient/skryba w GENUINE SOJUSZ/szacunek. Godric otworzyl swoj rog: \"czego bys nie potrzebowal z mojej strony - domu przy dworze - masz mnie\". Cenny sojusznik blisko dworu (ostroznie, firewall). nast 79->83, zauf 20->23."
    ],
    "ostatni_kontakt": "297-05-27",
    "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",

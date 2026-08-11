@@ -4818,3 +4818,6 @@ Symon w końcu posłuchał ciała i poszedł spać po długim dniu doglądania s
 
 ## 297-05-27 RANEK — RAPORT Godrica: intake domknięty (rzut 83)
 Plan zadziałał wzorcowo. Godric poniósł jednostronicówkę do Gowena jako rutynowe wyrównanie (bez oskarżenia, z drabiną). Gowen — potraktowany godnie — sam znalazł swój miscount (trzy wozy naraz), poprawił cicho, wdzięczny. Księgi Godrica wytrowane, kark przed zamkiem czysty. NIE weszło na biuro Ulrica — firewall cały, Symon niewidzialny. Godric głęboko wdzięczny (strach → czysta wygrana, wyszedł na sumiennego). +5 jel zaległe za robotę. Nast 75→79, zauf 17→20. Drobny goodwill: Gowen (0→8, zdobyty bez tykania Ulrica). Wątek godric_intake_niezgodnosc ZAMKNIĘTY.
+
+## 297-05-27 RANEK — podziękowanie Godricowi (rzut 88)
+Symon poszedł podziękować po ludzku — i zamiast przypisać sobie wygraną, oddał ją Godricowi (jego twarz, ton, zaufanie robiły robotę). Godric, człowiek wyższego stanu przywykły być pryncypałem, rozbrojony, że młodszy oddaje splendor zamiast go szukać. Relacja: klient/skryba → genuine SOJUSZ. Godric otworzył swój róg: „czego byś nie potrzebował z mojej strony — domu przy dworze — masz mnie". Cenny sojusznik blisko dworu (ostrożnie, firewall). Nast 79→83, zauf 20→23.

@@ -4624,3 +4624,6 @@ Do Harlona dopilnowac probe (rzut 58). Pierwsza partia soli przeszla tanszym kan
 
 ## 297-05-17 poany WIECZOR — Torsen: nadmiar popytu, fork mostka
 Do Torsena dorzucic cech (rzut 83). Pool zamknietego odbioru teraz WIEKSZY niz gora dogoni sama w sezon (dobry problem: nadmiar popytu, nie brak). FORK: (1) WOLNO sekwencja (Donnel+zamek teraz, cech przez lato; zero kapitalu, wolniej, ryzyko ze czesc popytu ostygnie), (2) PRZYSPIESZYC cienkim ZABEZPIECZONYM mostkiem Nesty (dolozyc Halvardowi na start = wiecej rak/tratw od razu, lapie caly popyt; bezpieczne bo popyt zamkniety, splacany z pewnego wolumenu - nie srebro Symona). Torsen: 'nie hazard, inwestycja pod pewny odbior'. Decyzja gracza, mostek uzgodnic z Nesta. nast 68->70, zauf 17. Liczniki handel+1 (129), organizacja+1 (106). -> noc.
+
+## 297-05-17 WIECZOR — Faktoria: praca (mostek czeka)
+Odpoczynek, potem praca w faktorii (rzut 60). Weryfikacje odrobione (+3 jel -> 16 jel), usluga mieli, Hal pewny. Nesta nie naciska ws mostka dla Halvarda ('jak zechcesz pogadac o tym srebrze na gore - jestem, ale nie ucieknie do rana'). Decyzja mostek vs wolno wciaz otwarta. Liczniki audyt+1 (137), rachunki+1 (198). -> noc.

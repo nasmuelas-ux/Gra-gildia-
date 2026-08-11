@@ -4639,3 +4639,6 @@ Przejscie 05-18 RANEK. Lekka glowa, pogodzony. Kanal rosnie w tempie Polnocy (po
 
 ## 297-05-18 RANEK — Mira: plateau (jej prog autonomii)
 Wizyta po ludzku 3 dni po dotyku (rzut 33, plateau). Cieplo ale OSTROZNE COFNIECIE W SIEBIE - nie o Symona, o nia: pozwolila trzymac dlon, a strzegaca niezaleznosci przestraszyla sie wlasnego pozwolenia. Jej PRAWDZIWY prog: autonomia vs bliskosc (jesli urosnie - czy strace siebie? raz zalezala od cudzego dachu, przysiegla nigdy). Glebszy niz dotyk, nie do przeskoczenia srebrem/czuloscia. Symon NIE napieral (zero o dotyku/pytan) - staly, obecnoscia dal znac ze cofniecie != odrzucenie. Bez straty, bez kroku naprzod - ona rozwiaze SAMA w swoim czasie. nast 69 hold. Znow cierpliwosc. Licznik czyt+1 (160). -> POPOLUDNIE.
+
+## 297-05-18 POPOLUDNIE — Rollam: recurring wycinek
+Do Rollama (rzut 76). Wycinek dowieziony czysto (+6 jel -> 22 jel), filar mieli. Rollam: imie Symona w kregu faktorow coraz pewniej (Wyllam zadowolony, inni pytaja). nast 47->48. Liczniki rachunki+1 (199), audyt+1 (138). -> WIECZOR.

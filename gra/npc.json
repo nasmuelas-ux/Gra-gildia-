@@ -1671,7 +1671,7 @@
    "stan": "mieszczanin (zamozny kupiec-faktor)",
    "zawod": "powazny kupiec-faktor (wiekszy obrot, port); slyszal o 'skrybie co wypatruje wycieki'",
    "mieszka": "port/Schody",
-   "nastawienie_do_gracza": 47,
+   "nastawienie_do_gracza": 48,
    "zaufanie": 16,
    "wie_o_graczu": [
     "297-01-15 (rzut 41): sondowal Symona o cos wiekszego (slyszal historie z Godrikiem/relief). Zainteresowany, ale OSTROZNY/niezobowiazujacy - powazny faktor nie daje duzej roboty niesprawdzonemu, swiezo-widocznemu mlodzikowi na pierwszym spotkaniu. Drzwi UCHYLONE, nie otwarte: chce zobaczyc wiecej, nim zaufa czyms substancjalnym. Symon przeczytal: to cultivate+proving+cierpliwosc, nie szybki skok.",
@@ -1682,7 +1682,7 @@
     "297-04-22 (rzut 54): grubszy wycinek dowieziony solidnie (wiecej kont, glebiej w obrot) - czysto/dyskretnie, bez fajerwerkow (ciasny interes). Zaufanie na raty +rata: coraz glebszy dostep, saldo +7 jel. Polecenie do peerow gestnieje ale jeszcze nie padlo twardo. Symon = 'czlowiek od liczb ktoremu duzy faktor ufa', nie 'na probie'. nast 36->40, zauf 11->13.",
     "297-05-04 WIECZOR (rzut 76): Symon domknal peer-referral - Rollam napisal LIST POLECAJACY do faktora Wyllama (zboze/skora, Solne Nabrzeze): 'prowadzi moje ksiegi dyskretnie i uczciwie, wart zaufania; przyjmie cie na probe jak ja recze, reszte dowieziesz sam'. Flywheel konwertuje. nast 43->46, zauf 15."
    ],
-   "ostatni_kontakt": "297-05-11",
+   "ostatni_kontakt": "297-05-18",
    "cechy_mowy": "powsciagliwy, mierzy dlugo, malo slow"
   },
   {

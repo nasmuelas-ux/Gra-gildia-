@@ -4720,3 +4720,6 @@ Symon wszedł cichym udziałem 50 jel w stałą rotację faktorii (staple/zboże
 
 ## 297-05-22 POPOŁUDNIE — Septa + Wick
 Po odpoczynku i posiłku: dyżur pisarza w sepcie oraz lekcja z Wickiem. Po zniechęceniu z 05-18 mocna sesja (rzut 85) — Wick lewą ręką napisał czystą linijkę i kolumnę rachunków bez błędu, funk odpuścił („może jednak się nadaję"). Symon trafił z metodą i otuchą. Nast 47→51, zauf →14. Noc → 297-05-23.
+
+## ZASADA (05-22) — koniec dnia tylko za zgodą gracza
+Cofnięto automatyczne przejście w noc po Septa+Wick. Nowa twarda zasada: nie zamykam pół-dnia ani nie przechodzę w noc/nową porę bez wyraźnej zgody gracza. Stan: 05-22 POPOŁUDNIE, wieczór wciąż w grze.

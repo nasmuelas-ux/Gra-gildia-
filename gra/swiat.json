@@ -2,10 +2,10 @@
  "data": {
   "rok": 297,
   "miesiac": 5,
-  "dzien": 23,
+  "dzien": 22,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POPOLUDNIE",
  "sezon": "przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja",
  "pogoda": 83,
  "dzien_tygodnia_nr": 3,
@@ -61,5 +61,6 @@
   "zasada": "WIEZI SA TRWALE (poprawka gracza, powtorzona). NIE ma cotygodniowego dryfu nastawienia. W sredniowiecznym miescie ludzie widuja sie tygodniami/miesiacami z przerwami i podejmuja znajomosc gdzie ja zostawili. Nastawienie NIE stygnie od kalendarza.",
   "kiedy_spada": "Tylko przez ZDARZENIA (afront, zaniedbanie konkretnej obietnicy/obowiazku, konkurencyjny patron, uraza), NIE przez sam uplyw czasu. Ewentualny bardzo powolny dryf dopiero po DLUGIEJ nieobecnosci (miesiace), i cieple/glebokie wiezi (wysoki nast+zauf) sa lepkie - prawie nie erodują.",
   "od": "297-05-01 (poprawka gracza: 'w sredniowieczu ludzie nie widzieli sie co tydzien, juz o tym rozmawialismy'). Cofnieto tik-szeroki dryf -1."
- }
+ },
+ "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia."
 }

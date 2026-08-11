@@ -4933,3 +4933,6 @@ Symon przyniósł gruby book popytu (Donnel+zamek+cech+teraz Harlon). Puls: Halv
 
 ## 297-06-03 POPOŁUDNIE — oferta pomocy Sepcie (rzut 63)
 Symon sam przyszedł ofiarować pomoc: audyt księgi jałmużny (by charytatywne srebro docierało dalej) + tańsze zaopatrzenie ubogich przez jego sieć/kanał (chudy przednówek — ulży m.in. Elnie). Owen głęboko poruszony (wychowanek wzmacnia Wiarę, która go podniosła — łańcuch wraca), przyznał dostęp, powitał pomoc. Rep wiara 80→82, Owen 88→90, zauf 28→29. Nowy wątek septa_pomoc_jalmuzna. → POPOŁUDNIE trwa.
+
+## 297-06-03 POPOŁUDNIE — audyt księgi jałmużny (rzut 82)
+Realne znaleziska (nie korupcja — septoni to nie ludzie liczb): dostawcy przebijają Sepcie ceny (ziarno/świece drogo, bo Wiara nie targuje się jak kupiec) + trochę marnotrawstwa/złej alokacji. Uszczelnienie + tańsze zaopatrzenie przez sieć Symona = ta sama jałmużna nakarmi znacznie więcej ubogich (ulga na przednówek, m.in. Elna). Owen/Septa wdzięczni — konkretny dowód, że pomoc Symona waży. Rep wiara 82→84. NEXT: załatwić pierwszą tańszą dostawę.

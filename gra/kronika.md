@@ -5172,3 +5172,6 @@ Ostyn (ukryte źródło mapy rynku) WYJECHAŁ z miasta — niedostępny do wizyt
 
 ## 297-06-19 RANEK — Godric księgi drewna (rzut 44)
 Kra tnie BIEŻĄCY strumień drewna na zamek (dostawy spóźnione/chudsze, marża cieńsza — potwierdza ryzyko 06-13). Godric spięty (zamek oczekuje). Symon steady-doradca: udokumentował opóźnienie jako siłę wyższą (kra, nie zaniedbanie stewarda), papier airtight by winy nie zwalono na Godrica, obiecał wznowienie + early-warning. Godric ukojony. +3 jel. Gra drewniana (bieżąca+przyszła) gated thaw; Symon trzyma trakt na oku (Godric+Harlon).
+
+## 297-06-19 POŁUDNIE — kantor księgi z Nestą (rzut 81)
+Mistrzowska sesja (rachunki 10) — wyłapana optymalizacja (cykl rozliczeń kontrahenta), kantor obraca kapitałem szybciej, marża lepsza, spółka mocniej. +3 jel. Rotacja/faktoria silna wiosna, ~06-22 rozliczenie dobre. Ciepły moment: Nesta „wychowałam mistrza". Wolne 19 jel.

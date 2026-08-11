@@ -4984,3 +4984,6 @@ Ciepły reconnect po 36 dniach — bez urazy (folk nie chowa), głośno o rodzin
 
 ## 297-06-06 NOC — sen (za zgodą gracza)
 Symon śpi po dniu-milestone: Theo krytyk (kanał zamkowy otwarty), Donnel (fundament put to rest), Wenda (ciepły reconnect, folk-pulse). Dzień 06-06 zamknięty. → 297-06-07 RANEK.
+
+## 297-06-07 RANEK — Elna CHORA (rzut 2, krytyk w dół)
+Symon przyszedł zajrzeć — i zamiast Elny u progu z „gdzieś ty się podziewał" zastał ją chorą: gorączka, kaszel/piersi, osłabiona chudym przednówkiem (niedojadała), UKRYWAŁA to z dumy (nie chciała obciążać cechu ani jego). Stara uboga wdowa z gorączką w wilgotnym chłodzie = realne zagrożenie. Jest okno na pomoc. Wątek elna_chora (wysoki). Symon ma środki: Wick (uczeń-medyk), Septa/Wiara, leki maestera Theo (świeży kanał), jedzenie/pieniądze, cech kołodziejów.

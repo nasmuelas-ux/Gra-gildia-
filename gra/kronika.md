@@ -5060,3 +5060,6 @@ Symon przyszedł SOBĄ (bez strategii — dobry wybór), ale kość padła na JE
 
 ## 297-06-11 WIECZÓR/NOC — powrót, sen (dzień dobry)
 Dzień „dla siebie" z niespodziewanym łukiem: cierń (Mira, rzut 2 → odłożone, piłka po jej stronie), fałszywy trop (kantor rzut 12 — praca to kran nie studnia), i mały cud zwyczajności (port rzut 84 — studnia napełniona: woda, statki, bycie-nie-robienie). Symon nauczył się, co go NAPRAWDĘ karmi (obecność i szerokość świata, nie kompetencja). Wrócił lekki. → 297-06-12 RANEK.
+
+## 297-06-12 WIECZÓR — powrót, woda, audyt umiejętności
+Symon wrócił do siebie, chwila nad wodą (stosuje naukę dnia). Dokładny audyt skilli wg progów praktyki: RETORYKA 7→8 (licznik 128 przekroczył próg 125) — realny awans z tygodni rozmów/reframe'ów. Blisko progów: audyt (za 7 do 9), rachunki (za 17 do MISTRZOSTWA 10). Jezyki 8 to backstory (licznik 75 dopiero). Rzemiosło zostaje 1.

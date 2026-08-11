@@ -4800,3 +4800,6 @@ Symon od razu wziął się za głębsze przejście księgi — realny catch: nal
 ## 297-05-26 WIECZÓR — Serla (rada ws. Miry, rzut 42)
 Symon poprosił Serlę — starą wdowę — o radę w zalotach do Miry (też wdowy). Poruszona szacunkiem. Earthy widow-wisdom: wdowa, która stała sama, nie boi się być kochana — boi się być wciśnięta w kąt przez czyjąś potrzebę. „Bądź chłopem, od którego mogłaby odejść, a wybiera zostać — nie takim, którego nie może zostawić." Nie naprawiaj jej życia. Cierpliwość. Potwierdza kierunek Nesty z cieplejszej strony. Nast 56→58, zauf 11→13.
 Uwaga: pełny re-roof kamieniczki wg ksiąg NIE odebrany — gated na odwilż (teraz przyszła), ~20 jel salda do dopłaty. Wątek dach_domkniecie do zamknięcia z Donnelem.
+
+## KOREKTA 297-05-26 — dach BYŁ zrobiony (błąd MG)
+Gracz słusznie zaprotestował. Pełny re-roof kamieniczki UKOŃCZONY 297-03-25 (Donnel; nowe poszycie, belki/strop, saldo ~20 jel dopłacone z depozytu 56→36) — kronika to potwierdza. Mylące pole stan_fizyczny (zamrożone na zimowym patchu 01-09) + niezaktualizowane zegary sprawiły, że MG błędnie uznał dach za niezrobiony i założył fałszywy wątek „~20 jel do dopłaty". Naprawione: stan_fizyczny zaktualizowany (dach zrobiony+opłacony), wątek dach_domkniecie usunięty, zegary dachu zamknięte. Żadne pieniądze nie ruszone (saldo zapłacone w marcu).

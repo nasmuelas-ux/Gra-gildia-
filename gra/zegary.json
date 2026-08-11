@@ -87,7 +87,8 @@
    "ODPALIL": "297-03-25: DACH GOTOWY - Donnel dowiozl na czas (nowe poszycie, belki/strop wymienione, kat Jonny suchy). Saldo ~20 jel doplacone z depozytu. Izba 3 pod najem = pelny dochod kamieniczki. Rada Miry: stabilny lokator jak Jonna, nie max stawka.",
    "zamkniety": true,
    "dodatek_jonna": "Przy re-roofie Donnel ma zajrzec w wilgotny strop/sciane nad izba Jonny (zaciek) - pol dnia, w ramach ekipy juz na miejscu. Tani fix trzymajacy dobra lokatorke (rada Miry + wykonanie Brana).",
-   "postep_0323": "297-03-23: potwierdzone przez Donnela - re-roof rowno, w terminie ~03-25; zgnile belki/strop wymienione; fix wilgoci Jonny w planie (pol dnia przy okazji)."
+   "postep_0323": "297-03-23: potwierdzone przez Donnela - re-roof rowno, w terminie ~03-25; zgnile belki/strop wymienione; fix wilgoci Jonny w planie (pol dnia przy okazji).",
+   "status": "ZAMKNIETY - dach ukonczony i oplacony 297-03-25 (Donnel, saldo ~20 jel z depozytu). NIE aktywny."
   },
   {
    "id": "kamieniczka_najem",
@@ -153,7 +154,8 @@
    "dodatek_jonna": "Przy re-roofie Donnel ma zajrzec w wilgotny strop/sciane nad izba Jonny (zaciek) - pol dnia, w ramach ekipy juz na miejscu. Tani fix trzymajacy dobra lokatorke (rada Miry + wykonanie Brana).",
    "postep_0323": "297-03-23: potwierdzone przez Donnela - re-roof rowno, w terminie ~03-25; zgnile belki/strop wymienione; fix wilgoci Jonny w planie (pol dnia przy okazji).",
    "ODPALIL": "297-03-25: DACH GOTOWY - Donnel dowiozl na czas (nowe poszycie, belki/strop wymienione, kat Jonny suchy). Saldo ~20 jel doplacone z depozytu. Izba 3 pod najem = pelny dochod kamieniczki. Rada Miry: stabilny lokator jak Jonna, nie max stawka.",
-   "zamkniety": true
+   "zamkniety": true,
+   "status": "ZAMKNIETY - dach ukonczony i oplacony 297-03-25 (Donnel, saldo ~20 jel z depozytu). NIE aktywny."
   },
   {
    "id": "polnoc_pierwsze_tratwy",
@@ -196,7 +198,8 @@
    "plan_lokator": "297-03-25: PLAN - izba 3 zarezerwowana dla HALA (pakiet ~03-27, po keystone): (a) Symon zaczyna placic Halowi skromna dniowke/dzialke za realna robote pipeline (weryfikacje/proste ksiegi ze skrzydla flotylli); (b) Hal bierze izbe 3 na skromny czynsz z tego; (c) blogoslawienstwo Owena na wyprowadzke z przytulku. Stabilny lokator + oplacany terminator + dotrzymana obietnica + ukojony niepokoj Hala (03-23). Nie jalmuzna - ekonomicznie realne.",
    "owen_blogoslawienstwo": "297-03-26: Owen POBLOGOSLAWIL pakiet Hala (wyprowadzka z przytulku do izby 3). Green light - zostaje wykonac ~03-27 (oferta Halowi: placa za pipeline + izba 3 na czynsz).",
    "ROZSTRZYGNIETY": "297-03-27: izba 3 WYNAJETA HALOWI - idealny stabilny lokator (platny terminator Symona). Kamieniczka w pelni obsadzona = pelny dochod. Czynsz skromny z zarobku Hala; net rougly washes z jego placa, ale leverage+dobro+stabilnosc bezcenne.",
-   "zamkniety": true
+   "zamkniety": true,
+   "status": "ZAMKNIETY - izba3 = Hal (od 03-27), kamieniczka w pelni obsadzona."
   },
   {
    "id": "keystone_korroboracja_frachtu",

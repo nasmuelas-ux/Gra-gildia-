@@ -5279,3 +5279,6 @@ Symon zaniósł do kantoru wykrojone przez Torrena papiery firmy cichego wspóln
 
 ## 297-06-25 WIECZÓR/NOC — jadło i sen (dzień domknął firmę i drewno)
 Symon zjadł prosto u siebie w izbie 4 (koza, ciepła strawa; -2 mied), zwalił zmęczenie snem. Dzień zamknięty mocno: rano podpisy drewna (Bennet+Godric, kanał żywy/legalny), popołudniem podpis Nesty pod firmę (oba podpisy zebrane). Syt 75, zmęcz 10, zdrowie 100. → 297-06-26 RANEK (pogodny dzień odwilży). Otwarte: staranna rejestracja rady firmy; batch3 ~06-27.
+
+## 297-06-26 RANEK — u maestera Theomore (wizyta, przyjęcie rzut 54)
+Symon wszedł po Schodach do Nowego Zamku — kanałem Wiary (gość Owena), cicho od strony biblioteki, z dala od Ulrica (firewall). Zamek budzi się z zimy: odwilż, kurierzy, dwór wraca do spraw. Theomore przyjął go ciepło — kanał żywy, tekst z poprzedniego spotkania dawno przegadany, teraz to regularna wymiana uczonych (samotny maester rad równemu umysłowi, który nic nie chce). Przyjęcie solidne (54), dyskrecja utrzymana, choć zamek ruchliwszy niż zimą. Rozmowa otwarta — do odegrania. Zmęcz 14 (marsz pod górę). Theo ostatni kontakt 06-26.

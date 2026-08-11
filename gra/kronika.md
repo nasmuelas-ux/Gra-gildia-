@@ -4881,3 +4881,6 @@ Misfire. Symon przedstawił formalny układ myśląc, że uczci Hala — a trafi
 
 ## 297-05-30 POPOŁUDNIE — naprawa z Halem (po ludzku, rzut 36)
 Symon odłożył papier, mówił po ludzku: łańcuch (Owen wziął mnie z niczego nie z litości, bo widział kim będę — ja z tobą tak samo), „break-even? każdy mistrz był raz break-even — to inwestycja, bo jesteś wart, nie jałmużna; bierzesz ciężar, którego ja nie udźwignę, trzymasz język — to człowiek, który rośnie, nie utrzymanek". Hal zmiękł, ostry ból odpuścił, zaufanie wraca — ale nie do końca w jednej rozmowie (duma jeszcze obolała, papier odłożony na później). Naprawa realna, niepełna. Nast 85→88, zauf 46→47. Podejście potwierdzone dobre; domknąć gdy Hal steadier (układ jako floor+wzrost, nie klatka).
+
+## 297-05-30 NOC — sen (za zgodą gracza)
+Symon śpi po dniu formalizacji Hala (misfire i naprawa po ludzku). Dzień 05-30 zamknięty. → 297-05-31 RANEK. (Jutro 06-01: nowy miesiąc — czynsz kamieniczki, wznowiony draw 6 jel; Mira może się odezwać.)

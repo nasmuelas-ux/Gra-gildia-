@@ -5236,3 +5236,6 @@ Zaczęli budować, trafili REALNY constraint (postęp, nie kręcenie): „linia 
 
 ## 297-06-22 NOC — sen (dzień knotliwy ale konstruktywny)
 Rotacja rozliczona (+22 plon, re-roll 290), kantor jałowy (rzut 18 — wyschnięta studnia), Torren charter=ślepy zaułek (rzut 3, nie oświetlaj się), Nesta projekt firmy (rzut 16 — twardy węzeł neutralność-vs-legalność, kierunek: własna firma + Nesta cichy backer). PRZEŁOM MYŚLOWY: nie bronić się przed cechem, lecz BUDOWAĆ jawne przedsiębiorstwo kupieckie (legalne z natury, poza ich jurysdykcją). → 297-06-23 RANEK (firma do dopięcia; batch3 ~06-27; drewno/sól/Bank dojrzewają).
+
+## 297-06-23 RANEK — Nesta cichy wspólnik: warunki (rzut 48, krok ①)
+Wynegocjowana rama silent-partnera firmy: Nesta ~⅓ zysku (kapitał+charter-zaplecze+mentorstwo), ZERO publicznej twarzy, backer/doradca nie decydent; jej kapitał zabezpieczony/priorytetowy + przegląd okresowy. Symon ~⅔ + KONTROLA + neutralna publiczna twarz + decyzje (możliwa ścieżka odkupu później). Napięcie „blisko vs niezależnie" wywietrzone (Nesta: „nie stawiam za tobą by cię stracić") — pogodzone. Give-and-take realny. KROK ① odhaczony. Następne: ② Torren legalnie ukonstytuuje, ③ Hal ścieżka udziału, ④ nazwa/produkt.

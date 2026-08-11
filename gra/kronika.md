@@ -4990,3 +4990,6 @@ Symon przyszedł zajrzeć — i zamiast Elny u progu z „gdzieś ty się podzie
 
 ## 297-06-07 RANEK — Wick ratuje Elnę (rzut 89)
 Symon rozpalił ogień, nakarmił rosołem, ściągnął Wicka. Wick przybiegł od razu, ocenił sprawnie (gorączka piersiowa, złapana w porę — nie jeszcze zapalenie), przygotował leki (okład, napar), poradził opiekę. NIE trzeba maestera — Wick dał radę sam. PEŁNE KOŁO mentorstwa: chłopak, którego Symon uczył liter (czyta teraz teksty medyczne), uratował życie. Elna poza zagrożeniem, na mendzie przy opiece. Nast Elna 45→52, Wick 53→57. Wątek elna_chora → średni (NEXT: sustained care przez dni rekonwalescencji — cech/Septa/Symon; Wick dogląda).
+
+## 297-06-07 — KOREKTA (błąd skryby)
+Gracz słusznie zakwestionował: żaden „Wick" nie jest uzdrowicielem. Wick świadek zmarł 296-10-17 (umysł odpłynął); Wick czeladnik to ranny kołodziej-uczeń liter. Scena „Wick leczy Elnę" (rzut 89) COFNIĘTA jako błąd. Stan naprawiony: Elna USTABILIZOWANA doraźnie (ogień+rosół+ciepło), ale gorączka piersiowa NIELECZONA — trzeba prawdziwego uzdrowiciela. Wątek elna_chora → wysoki. Sakiewka: cofnięto 3 mied za nieistniejące zioła (→9 mied).

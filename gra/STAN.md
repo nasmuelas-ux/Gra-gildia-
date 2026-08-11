@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 14 jeleni + 6 mied + 0 smokow
+- **Wolne:** 14 jeleni + 9 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
 - Zdrowie 100 · Sytosc 52 · Zmeczenie 22
 
@@ -34,7 +34,7 @@ pismo 8 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 74
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 87
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 72
-- **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 52
+- **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 48
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

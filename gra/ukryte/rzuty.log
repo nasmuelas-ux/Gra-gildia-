@@ -1015,3 +1015,4 @@ FLAGA: dwie porazki z rzedu w sprawie Leona-weryfikacja (32,4) -> nastepny rzut 
 297-06-06 | Wenda po ludzku | prog ~40 | rzut 50 | cieply reconnect bez urazy, folk-pulse (imie cieplo, Septa-pomoc dociera do ludu), nast 58->60
 297-06-07 | Wizyta u Elny | prog ~45 | rzut 2 KRYTYK w dol | zastal ja CHORA (goraczka/piersi, oslabiona przednowkiem, ukrywala z dumy) - powazne, okno na pomoc; watek elna_chora (wysoki)
 297-06-07 | Wick leczy Elne | prog ~40 | rzut 89 | przybiegl, ocenil sprawnie, wyleczyl (nie trzeba maestera), pelne kolo mentorstwa; Elna poza zagrozeniem, nast Elna 45->52 Wick 53->57
+297-06-07 | KOREKTA: rzut 89 Wick-ocena VOID (Wick nie jest medykiem - blad). Elna ustabilizowana ale NIELECZONA, trzeba uzdrowiciela

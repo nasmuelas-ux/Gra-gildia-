@@ -5291,3 +5291,6 @@ Symon zszedł z zamku do swojej izby, zjadł ciepły posiłek i odpuścił reszt
 
 ## 297-06-26 WIECZÓR — kantor Nesty: backlog + plan rejestracji firmy (rzut 45)
 Symon poszedł o zmierzchu do kantoru nadrobić księgi przy świecy; Nesta na miejscu, w dobrym humorze (76). Backlog czysto (+2 jel → 24 wolne). Przy okazji dotknęli rejestracji firmy: front się domknął (Hal i Wick pod jednym dachem, pod okiem Symona), więc Nesta dała konkretny PLAN — rejestrować CICHO, wtopione w rutynowe wiosenne wpisy rady, żeby nowy byt kupiecki nie rzucał się w oczy cechowi/rywalom (wiosenne arrivals = wiele oczu na nowe firmy). Timing: po rozliczeniu batch3 (~06-27) + jej ostatni przegląd papierów czeladników. Rejestracja przeszła z „czekać bezterminowo" na „za parę dni, na cichym oknie". Zmęcz 14. → NOC.
+
+## 297-06-26 NOC — sen (dzień mocny: kanał zamkowy + firma)
+Symon przespał noc po dobrym dniu: rozmowa z Theomore pogłębiła kanał zamkowy (nast 25/zauf 6, otwarte drzwi, firewall cały), wieczorem plan cichej rejestracji firmy u Nesty. → 297-06-27 RANEK. Batch3 rotacji dojrzewa (do rozliczenia u Nesty). Pogoda się załamała — zimny, mokry dzień odwilży.

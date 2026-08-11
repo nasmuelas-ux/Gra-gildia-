@@ -4793,3 +4793,6 @@ Po 2+ tyg. Roboty audytowej brak (jej księgi ciasne po 05-08, wiosna równa). W
 
 ## 297-05-26 RANEK — Rollam (reconnection, rzut 46)
 Po tyg+. Rollam (większy obrót) miał toczący się wycinek ksiąg — Symon sprawdził czysto, dyskretnie, bez fajerwerków (stały rytm). +4 jel. Relacja rośnie na raty. Nast 48→51, zauf 16→17. → POPOŁUDNIE.
+
+## 297-05-26 POPOŁUDNIE — głębsza księga Rollama (rzut 68)
+Symon od razu wziął się za głębsze przejście księgi — realny catch: należność od jednego kontrahenta starzeje się za daleko (blisko granicy łatwej ściągalności). Oznaczył, by Rollam ścigał ją teraz, póki zbieralna. Ochroniona realna kasa. Poważny operator ceni catch wysoko — zaufanie skoczyło. +6 jel. Nast 51→55, zauf 17→19.

@@ -5245,3 +5245,6 @@ Czysta sesja, +4 jel, pozycja/goodwill u cechu potwierdzone (cichy filar frontu 
 
 ## 297-06-23 KOREKTA (gracz) — lokalne drewno = OKAZJA teraz (nie „na później")
 Boren „bez pośpiechu, kra dusi zamek" BŁĘDNE — lokalne drewno idzie LĄDEM, kra go nie dotyczy (jego sens od 06-14). Odwrotnie: kra zamroziła rzekę → zamek KRÓTKI na drewno TERAZ → lokalny bór (kra-odporny) może wypełnić dziurę, gdy rzeka nie wozi = TIMELY OKAZJA. Spina: Godric (zamek krótki) + trop Borena (pomniejszy posiadacz) + Symon broker. Ruszać JUŻ, nie czekać.
+
+## 297-06-23 POPOŁUDNIE/WIECZÓR — mocny odpoczynek (zioła, jadło)
+Symon odpoczął mocno, zioła regeneracyjne + porządny posiłek. Zmęczenie zbite (28→6), syt 70, zdrowie 100. Zadbany na świeżą głowę pod jutrzejsze ruszenie lokalnego drewna.

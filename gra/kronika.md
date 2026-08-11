@@ -5239,3 +5239,6 @@ Rotacja rozliczona (+22 plon, re-roll 290), kantor jałowy (rzut 18 — wyschni�
 
 ## 297-06-23 RANEK — Nesta cichy wspólnik: warunki (rzut 48, krok ①)
 Wynegocjowana rama silent-partnera firmy: Nesta ~⅓ zysku (kapitał+charter-zaplecze+mentorstwo), ZERO publicznej twarzy, backer/doradca nie decydent; jej kapitał zabezpieczony/priorytetowy + przegląd okresowy. Symon ~⅔ + KONTROLA + neutralna publiczna twarz + decyzje (możliwa ścieżka odkupu później). Napięcie „blisko vs niezależnie" wywietrzone (Nesta: „nie stawiam za tobą by cię stracić") — pogodzone. Give-and-take realny. KROK ① odhaczony. Następne: ② Torren legalnie ukonstytuuje, ③ Hal ścieżka udziału, ④ nazwa/produkt.
+
+## 297-06-23 POŁUDNIE — Boren księgi cechu (rzut 50)
+Czysta sesja, +4 jel, pozycja/goodwill u cechu potwierdzone (cichy filar frontu cechu pisarzy). LOKALNE DREWNO: Boren firmuje trop — konkretny POMNIEJSZY POSIADACZ (drobny właściciel ziemi z borem pod miastem, cuttable drewno ale zero kanału do zamku, „uczciwy ale bez głowy do handlu"). Oferuje PRZEDSTAWIĆ Symona (bez pośpiechu, kra dusi zamek). Lokalny kra-odporny kanał drewna dostał pierwszy realny adres. Wolne 15 jel.

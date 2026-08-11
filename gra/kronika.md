@@ -4741,3 +4741,6 @@ Po odpoczynku Symon odbudował stronę Godrica airtight: rejestr = tally = znak 
 
 ## 297-05-23 ZMIERZCH — Nesta (praca, rzut 20)
 Symon przyszedł popracować o zmierzchu, na końcu długiego dnia. Sesja chuda — słabe światło, głowa wpół przy niezgodności intake'u zamku. Nesta to wyczuła („coś niesiesz, skrybo") — nie drążyła, dała znać, że jest, jak zechce rady. Rutyna, zero przełomu. Zmęczenie rośnie.
+
+## 297-05-23 ZMIERZCH — rada Nesty ws. intake'u (rzut 25)
+Nesta od ręki dała kierunek: to nie robota Symona do kopania — Godric niesie własny czysty papier do zamku i prosi o rutynowe wyrównanie ksiąg, bez oskarżeń; Symon niewidzialny. Założyć błąd urzędnika, dać mu drabinę do zejścia; jeśli to nie błąd — pokaże się samo, bez odcisków Symona. Ale capnęła zmęczonego: „to robota na zimno, przespij się, naostrzymy z jasną głową". Kierunek jest, plan do dopracowania. NIE zakładać malice.

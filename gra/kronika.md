@@ -4906,3 +4906,6 @@ Przyszedł ostrożnie w odpowiedzi na jej pierwszy gest — i podwójnie ją por
 
 ## 297-06-01 POPOŁUDNIE (c.d.) — zostaje z Mirą
 Został jeszcze — łatwe, wspólne popołudnie. Na jej zaproszenie zerknął lekko w jej księgi/interes (jako równy, pomocnie, nie przejmująco) — partnerstwo w praktyce, na jej warunkach. Konsolidacja. Nast 84→85, zauf 36→37.
+
+## 297-06-01 WIECZÓR — praca u Nesty (rzut 58)
+Solidna wieczorna sesja przy księgach kantoru, wiosenny wolumen podciągnięty, bez przełomu. Organizacja 124/125 — o krok od poziomu 8. Wieź 90.

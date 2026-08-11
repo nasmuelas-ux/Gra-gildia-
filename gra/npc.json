@@ -712,8 +712,8 @@
    "potrzeby": [
     "uporzadkowac zagmatwane ksiegi po mezu"
    ],
-   "nastawienie_do_gracza": 70,
-   "zaufanie": 28,
+   "nastawienie_do_gracza": 72,
+   "zaufanie": 29,
    "wie_o_graczu": [
     "poznany przez poreke Voxa; pod wrazeniem z Dnia Matki (poboznosc) i burzy (opanowanie)",
     "zachowal sie godnie, sluchal, nie sprzedawal sie tanio ani nie przechwalal — mieszczka to doceniła",
@@ -749,10 +749,11 @@
     "297-03-16 RANEK (rzut 55): Symon zajrzal z prostym 'masz cos nowego' - bez bajki, sam konkret (Leona to ceni). Trafil w sezon: odwilz -> braavijska flotylla sukna przyjdzie z pierwszym oknem, wiec STALA LINIA (sukno przez faktorie Nesty, Symon broker) sie budzi. Leona chce byc gotowa zawczasu: poprosila Symona, by z gory przygotowal grunt (weryfikacja dostawcy + struktura pierwszego wiosennego zamowienia), by w dniu przyjscia flotylli wystarczylo przylozyc pieczec. 'Dobrze, ze zajrzal, w pore.' nast 61->63, zauf 24->25.",
     "297-03-21 POLUDNIE (rzut 67): Symon poprosil prosto (bez bajki) o poreczenie dla Aurane (premium prospekt, wlasciciel skladow, chce dowodu). Leona zgodzila sie PO SWOJEMU - nie gardluje, mowi tylko prawdziwe (\"rozplatales mi ksiegi czysto, znalazles grosz, trzymasz jezyk za zebami - za tyle recze, tyle powiem jak spyta\"); jej skapstwo w pochwalach czyni to poreczenie MOCNIEJSZYM. Dala zgode na powolanie sie + rzuci Aurane ciche slowo przy okazji (oboje na Schodach). To twardy dowod, ktorego Aurane zadal. Przy okazji: potwierdzila, ze linia sukna tuz (flotylla ~03-27, grunt z 03-16 sie uruchomi). nast 63->65, zauf 25->26.",
     "297-04-12 (rzut 12, flat): Symon wpadl po nowa robote - Leona cieplo, ale NIC teraz nie ma (jej ksiegi w porzadku, wiosna rowna, brak dziury). Nie kazda wizyta rodzi zlecenie. PRZY POZEGNANIU przyjazny sygnal (nie atak): 'slyszalam, jak jeden i drugi pyta, w co ten mlody skryba sie nie wkreca - ludzie zauwazaja ile masz palcow w ilu garnkach'. TRZECI glos (po Nescie i Borenie) o AGGREGATE VISIBILITY. nast 67 hold.",
-    "297-05-08 (rzut 76): Symon zweryfikowal wiosenne papiery dostawcow (Leona bala sie ze ja skracaja jako wdowe). Wynik: w WIEKSZOSCI czysto - dostawcy uczciwi, jej ksiegi dobre; NIE baba-co-sie-nie-zna, radzi sobie lepiej niz sadzi (duma odzyskana). Jeden tkacz lapany na cichej podwyzce stawki od zimy. +3 jel. Przy pozegnaniu read: gadanie o palcach-w-garnkach PRZYCICHLO odkad Symon zszedl z publicznego pulpitu. nast 67->70, zauf 26->28."
+    "297-05-08 (rzut 76): Symon zweryfikowal wiosenne papiery dostawcow (Leona bala sie ze ja skracaja jako wdowe). Wynik: w WIEKSZOSCI czysto - dostawcy uczciwi, jej ksiegi dobre; NIE baba-co-sie-nie-zna, radzi sobie lepiej niz sadzi (duma odzyskana). Jeden tkacz lapany na cichej podwyzce stawki od zimy. +3 jel. Przy pozegnaniu read: gadanie o palcach-w-garnkach PRZYCICHLO odkad Symon zszedl z publicznego pulpitu. nast 67->70, zauf 26->28.",
+    "297-05-26 RANEK (rzut 41): reconnection po 2+ tyg. Roboty audytowej NIE ma teraz (jej ksiegi ciasne po weryfikacji z 05-08, wiosna rowna). Ale wizyta ciepla, wiez durable - i wymiana market-readu o wiosennym zalewie sukna (braavijska flotylla zatopila cene sukna; ona trzyma welne, patrzy na przetrzebiony rynek sukienny). Trzyma Symona w pamieci na przyszla robote. nast 70->72, zauf 28->29."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-05-08",
+   "ostatni_kontakt": "297-05-26",
    "cechy_mowy": "rzeczowo, chlodno w interesach, mierzy wzrokiem; szanuje konkret, gardzi pochlebstwem",
    "status": "WSPOLARCHITEKT CZYNNY (d16, rzut 74): dostala KONKRETNY kregoslup — krzywda celno-frachtowa dusi uczciwe rzemiosło (kupcy+kolodzieje) I okrada lorda. Zapala sie, laczy Schody z cechami, pomoze wywechac wiecej dotknietych bran (masa); gotowa byc twarza, gdy przyjdzie czas. Zrodla (manifesty) NIE zna — Symon oprawil jako wzor, ktory czuja wszyscy uczciwi.",
    "historia": [

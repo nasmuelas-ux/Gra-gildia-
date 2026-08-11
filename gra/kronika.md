@@ -4787,3 +4787,6 @@ Symon oddał kupon dobrego sukna (dar Voxa) Branowi dla jego żony Alys. Gest go
 
 ## 297-05-25 NOC — sen (za zgodą gracza)
 Symon śpi po dniu wdzięczności (Mira, Hal+pismo 8, Owen, Wick, Vox, dar sukna). Dzień 05-25 zamknięty. → 297-05-26 RANEK. Jutro (~05-27) spodziewany raport Godrica z zamku.
+
+## 297-05-26 RANEK — Leona (reconnection, rzut 41)
+Po 2+ tyg. Roboty audytowej brak (jej księgi ciasne po 05-08, wiosna równa). Wizyta ciepła, więź durable — wymiana market-readu o wiosennym zalewie sukna (braavijska flotylla zatopiła cenę; Leona trzyma wełnę, patrzy na przetrzebiony rynek sukienny). Trzyma Symona w pamięci na przyszłą robotę. Nast 70→72, zauf 28→29.

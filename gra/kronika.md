@@ -4803,3 +4803,6 @@ Uwaga: pełny re-roof kamieniczki wg ksiąg NIE odebrany — gated na odwilż (t
 
 ## KOREKTA 297-05-26 — dach BYŁ zrobiony (błąd MG)
 Gracz słusznie zaprotestował. Pełny re-roof kamieniczki UKOŃCZONY 297-03-25 (Donnel; nowe poszycie, belki/strop, saldo ~20 jel dopłacone z depozytu 56→36) — kronika to potwierdza. Mylące pole stan_fizyczny (zamrożone na zimowym patchu 01-09) + niezaktualizowane zegary sprawiły, że MG błędnie uznał dach za niezrobiony i założył fałszywy wątek „~20 jel do dopłaty". Naprawione: stan_fizyczny zaktualizowany (dach zrobiony+opłacony), wątek dach_domkniecie usunięty, zegary dachu zamknięte. Żadne pieniądze nie ruszone (saldo zapłacone w marcu).
+
+## 297-05-26 WIECZÓR — Torren (septon-prawnik, rzut 25)
+Reconnect po miesiącu, ale wieczorem krótko — Torren zajęty obowiązkami. Zdawkowa wymiana o punkcie prawnym, bez głębszej sesji. Relacja durable trzyma i lekko rośnie od doglądania. Nast 30→32, zauf 10→11.

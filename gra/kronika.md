@@ -4696,3 +4696,6 @@ Praca z Halem (rzut 13). Nie zla robota - Symon NIE JADL (syt niska), dzien dlug
 
 ## 297-05-21 RANEK — Noc
 Kolacja (nadrobiony glod) i sen. Przejscie 05-21 RANEK. Inbound zywe: Torsen/Halvard (skalowanie ~tygodnie), weksle ~06-05, Bank (zegar Banku). Mira - przestrzen.
+
+## 297-05-21 — ZASADA: dzienna ramka WIADOMOSCI (prosba gracza)
+Od teraz kazdego ranka osobna ramka INBOUND ('WIADOMOSCI') - kto sie odezwal/zapukal/przyslal/co dojrzalo; jak nic - 'cisza'. Zapisane w swiat.json (mechanika_inbound.ramka_dzienna).

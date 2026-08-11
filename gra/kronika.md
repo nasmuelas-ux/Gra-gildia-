@@ -4996,3 +4996,6 @@ Gracz słusznie zakwestionował: żaden „Wick" nie jest uzdrowicielem. Wick ś
 
 ## 297-06-07 RANEK — Septa dla Elny (rzut 20)
 Symon poszedł do Septy. Wola pomocy była (chora uboga = rdzeń pracy Wiary, imię Symona niesie), ALE alms stretched w przednówku (dużo ubogich chorych tej chudej wiosny). Senior septa wysłała siostrę pielęgniarkę z lekami — LECZENIE zabezpieczone (siostra dozuje/dogląda wstępnie) — ale z uwagą: Faith nie jest studnią bez dna, a Elna jest pod formalną opieką CECHU KOŁODZIEJÓW; to oni winni nieść sustained care/koszt. NEXT: ściągnąć kołodziejów do obowiązku (rekonwalescencja przez dni). Wiara rep 84 trzyma. Elna nast 48→50.
+
+## 297-06-07 RANEK/POŁUDNIE — Cech kołodziejów podejmuje opiekę (rzut 68)
+Symon przycisnął starszego cechu — honorowe wyjście („nie wiedzieliście, ukrywała → teraz wiecie; kołodzieje swoich nie zostawiają"). Zadziałało. Elder potwierdził, że Elna to prawdziwa cechowa wdowa (mąż był kołodziejem — podstawa obowiązku pewna), podjął sustained care na dni rekonwalescencji (jadło/opał/rota zaglądająca), przyjął ofertę Symona, by to spisać (jak przy Lorrenie — żeby nie zlapsowało). Rep cech 38→40 (Symon jako człowiek gminy, co dba + uczy ich rannego Wicka). ELNA ZABEZPIECZONA NA 3 FRONTACH: Symon (nagłe) + Septa (leczenie) + cech (opieka). Zdrowieje. Wątek → niski (tylko doglądać). Nast Elna 50→52.

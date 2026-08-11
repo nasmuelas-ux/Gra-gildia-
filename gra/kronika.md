@@ -5251,3 +5251,6 @@ Symon odpoczął mocno, zioła regeneracyjne + porządny posiłek. Zmęczenie zb
 
 ## 297-06-23 NOC — sen (dzień dobry i regenerujący)
 Nesta cichy wspólnik (krok ①, rama ⅓/⅔), Boren księgi + lokalne drewno trop (KOREKTA: kra-odporne = okazja TERAZ bo rzeka stoi), status Banku (waiting, cierpliwość), mocny odpoczynek (zioła). → 297-06-24 RANEK (ruszyć lokalne drewno przez Borena; firma ② Torren; batch3 ~06-27).
+
+## 297-06-24 RANEK — bór Benneta: kanał lokalny OTWARTY (rzut 93)
+Boren przedstawił Symona Bennetowi (pomniejszy posiadacz, bór pod miastem, ziemia-bogaty/grosz-chudy, uczciwy, bez głowy do handlu). Ocena boru: realna DOBRA podaż (ilość, część strukturalna, prawa CZYSTE=własna ziemia, ludzie do ścinki, LĄDEM/kra-immune). Deal: uczciwa cena Bennetowi, Symon spina (ścinka/zwózka/odbiór) + marża < wartość, przez standing cechu (class-safe). Bennet chętny/wdzięczny/ufa (nast 55). SPINA się z kra-dziurą Godrica (zamek krótki bo rzeka stoi). Lokalny kra-odporny kanał REALNY. NASTĘPNE: domknąć popyt u Godrica + sformalizować prawa/umowę.

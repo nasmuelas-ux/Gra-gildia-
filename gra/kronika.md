@@ -5051,3 +5051,6 @@ Ciepły reconnect po 16 dniach + zarządzony OPSEC. Probe: Vox przez 16 dni gada
 
 ## 297-06-10 POPOŁUDNIE — Aldous, przyjaciel przy kubku (rzut 56)
 Ciepły, restauracyjny kubek po kilku dniach intensywnego dawania (Elna/Wick/Hal). Firewall UTRZYMANY (wino się lało, Antaryon zapieczętowany). Symon ostrożnie się odciążył (Wick — chłopcu dane całe nowe życie). Aldous przeczytał nastrój i dał mądrość przyjaciela: zauważył, że Symon LEJE w każdego — i spytał cicho „a kto leje w CIEBIE?". Mira: patrz mądrze, rzeczy rosną jak chcą, cierpliwość. Symon wyszedł lżejszy, dolany przyjaźnią. Nast 83→84, zauf 21→22.
+
+## 297-06-10 WIECZÓR/NOC — powrót do siebie, sen (za zgodą gracza)
+Symon wrócił do swojej izby, posiedział chwilę z pytaniem Aldousa („a kto leje w ciebie?"). Cichy, reflektywny domysł: jest studnią, z której wszyscy czerpią — a rzadko staje przy cudzym wiadrze. Może dlatego Mira. Dzień 06-10 zamknięty (Bran/Vox/Aldous — same relacje, żadnego kryzysu). → 297-06-11 RANEK.

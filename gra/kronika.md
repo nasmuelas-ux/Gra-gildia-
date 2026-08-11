@@ -4693,3 +4693,6 @@ Praca u Godrica (rzut 40, marginal). Ksiegi domu odrobione, prowizja+transit-com
 
 ## 297-05-20 WIECZOR — Faktoria: jalowy wieczor (glod/zmeczenie)
 Praca z Halem (rzut 13). Nie zla robota - Symon NIE JADL (syt niska), dzien dlugi, cialo wzielo swoje: litery plywaly, weryfikacja sie plątala, Hal slip zlapany dopiero za drugim spojrzeniem. Nesta: 'idz jesc i spac, glodny zrobisz wiecej szkody niz pozytku'. Zwinal sie, niewiele zdzialawszy. Syt 30->20, zmecz 35. Nauka: pusty brzuch tepi nawet mistrza rachunkow. Licznik audyt+1 (142). -> noc.
+
+## 297-05-21 RANEK — Noc
+Kolacja (nadrobiony glod) i sen. Przejscie 05-21 RANEK. Inbound zywe: Torsen/Halvard (skalowanie ~tygodnie), weksle ~06-05, Bank (zegar Banku). Mira - przestrzen.

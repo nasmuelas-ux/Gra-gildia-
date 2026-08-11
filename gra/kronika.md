@@ -4774,3 +4774,7 @@ Symon usiadł jeszcze nad pergaminem (pismo 123/125), ale po długim dniu, zmęc
 
 ## 297-05-25 RANEK — pomoc Halowi + PISMO 7→8 (rzut 81)
 Symon przyszedł pomóc Halowi (rozciągniętemu wolumenem) i zrobił więcej niż odjął roboty: nauczył go STRUKTUROWAĆ przeciążony talerz — priorytety, kolejność, co odłożyć — nie tylko harować. Stretch zluzowany, Hal spokojniejszy. Łańcuch Owen→Symon→Hal mocnieje. Zauf 45→47. Przy okazji, pisząc całe rano na świeżą rękę, Symon dobił wprawkę: PISMO 7→8 (licznik 125). Pierwszy awans od dawna — na jasną głowę, nie na dogasającą świecę.
+
+## 297-05-25 POPOŁUDNIE — Owen (podziękowanie) + Wick (off-day)
+Owen (rzut 51): Symon szczerze podziękował za naukę — akurat gdy sam dobił pismo 8 i przekazuje metodę dalej. Owen cicho poruszony, widzi łańcuch Owen→Symon→Hal. Więź patrona-Wiary wzmocniona. Nast 86→88, zauf 27→28.
+Wick (rzut 14, off-day fizyczny): odwilżowa wilgoć rozbolała zmiażdżoną dłoń/ramię — dziś nie o pisanie chodziło. Symon nie cisnął nauki, był obok, czytał mu, trzymał na duchu. Zero postępu, ale morale trzyma. Nast 51→52, zauf 14→15.

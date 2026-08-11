@@ -461,8 +461,8 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 86,
-   "zaufanie": 27,
+   "nastawienie_do_gracza": 88,
+   "zaufanie": 28,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
     "dobra, pewna reka do pisma",
@@ -539,10 +539,11 @@
     "297-04-03 WIECZOR (rzut 51): Symon powiedzial Owenowi, ze chce wreszcie zamieszkac u siebie (izba 4 wlasnej kamieniczki). Owen czytal serce - i tym razem (po dzisiejszym pokornym dniu) znalazl je BARDZIEJ osiadle niz przy kupnie (01-05, gdy byl glod/pospiech/pycha). Nie trzyma juz Symona w pozyczonej celi ze STRACHU: zagrozenie fizyczne przygaslo (Harwin dormant), Symon ma wlasny uczciwy dach + Brana on-site (pancerz). 'Czlowiek powinien spac pod wlasna belka.' BLOGOSLAWIENSTWO MIERZONE (nie entuzjazm): warunek-madrosc - ZACHOWAC wiez z septa (zostac jej pisarzem, trzymac publiczne skojarzenie z Wiara), by NIE zdjac oslony firewalla, poki karta Antaryona lezy w grze; i nie dac, by nowy dach znow obudzil pyche. Symon moze sie wprowadzic. Owen 85->86.",
     "297-04-12 WIECZOR (rzut 25, flat): Symon przyszedl po narade, ale Owen ZAJETY pastoralnie - ranny czeladnik kolodziejow (z wczorajszego wypadku) lezy pod dachem Wiary, Colen opatruje zmiazdzona dlon; wczorajsze pismo+grosz Symona trafily tu (chlopak zyje, dlon moze uratuja). Owen cieplo ale krotko: Theomore NIC NOWEGO (grzeje cierpliwie, tygodnie); na widocznosc tylko 'wiesz sam - badz cichy, badz pokorny, nie potrzebujesz starca'. Symon nie napieral, zostawil go przy chorym. Swiat ma swoje ciezsze sprawy. nast 86 hold.",
     "297-04-17 WIECZOR (rzut 8, ciezka prawda): Symon przyszedl po szeroki obraz (Winterfell/Ryman/zwornik). Owen dal PRAWDE zamiast pociechy: submisja Rymana=kamien w studnie bez dna; Winterfell daleko/powolne/nikomu nie winne odpowiedzi - moze wszczac inkwizycje, ale MILCZENIE prawdopodobniejsze; poza reka Symona (wroci za miesiace albo nigdy). Owen z cieniem wlasnego niepokoju: puscili rzecz niebezpieczna (smierc Aemona, prowokacja Starkow) nieodwolywalna, nosi to na sumieniu z Symonem. SAMOTNOSC SEKRETU zabolala - rozmowa o mrocznych sprawach nie rozjasnila, przypomniala izolacje. Symon wyszedl CIEZSZY, nie lzejszy. Owen 86 hold (wiez stoi).",
-    "297-04-21 WIECZOR (rzut 45): lekka gruntujaca rozmowa (kontrast do ciezkiej Winterfell). Owen uznanie dla cichego dobra Symona: 'dobrze robisz - nie tym co spinasz, lecz ze pamietasz skad przyszedles i przedluzasz lancuch; to zostaje po czlowieku nie prowizje'. Symon wyszedl lzejszy, ugruntowany. nast 86 hold."
+    "297-04-21 WIECZOR (rzut 45): lekka gruntujaca rozmowa (kontrast do ciezkiej Winterfell). Owen uznanie dla cichego dobra Symona: 'dobrze robisz - nie tym co spinasz, lecz ze pamietasz skad przyszedles i przedluzasz lancuch; to zostaje po czlowieku nie prowizje'. Symon wyszedl lzejszy, ugruntowany. nast 86 hold.",
+    "297-05-25 POPOLUDNIE (rzut 51): Symon przyszedl SZCZERZE PODZIEKOWAC za nauke - akurat gdy sam dobil pismo na 8 i przekazuje metode dalej (Hal, Wick). Owen cicho poruszony: widzi swoja nauke owocujaca w dol lancucha (Owen->Symon->Hal->...). Wiez patrona-Wiary wzmocniona. nast 86->88, zauf 27->28."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-05-18",
+   "ostatni_kontakt": "297-05-25",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },
@@ -1825,9 +1826,9 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 51,
-   "zaufanie": 14,
-   "ostatni_kontakt": "297-05-22",
+   "nastawienie_do_gracza": 52,
+   "zaufanie": 15,
+   "ostatni_kontakt": "297-05-25",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
@@ -1836,7 +1837,8 @@
     "uczy go liter mimo zmiazdzonej dloni",
     "297-05-09 RANEK (rzut 94): PRZELOM. Wick cwiczyl sam lewa reka - pisze CZYTELNIE (koslawo ale to pismo, nie bazgroly), czyta plynnie z modlitewnika. Napisal swoje imie caly, lewa. Nadzieja stala sie faktem: zycie nie skonczylo sie pod kolem. Spytal: mogl by z pisania zyc? MOGLBY - bystry, aptytuda realna (przyszly pisarz/klerk jak Hal - drugi mlody ktorego Symon podniosl do pisma). nast 33->46, zauf +.",
     "297-05-18 (rzut 27, off-day): grind srodka drogi - postep lewa reka wolny, Wick zniechecony (\"moze sie nie nadaje, pisze jak dziecko\"). Symon: nie brak talentu, zmeczenie ucznia w martwym srodku; przypomnial skad wyszedl, ze wolno != nigdy. Nie rzucil tabliczki (podtrzymany), ale postoj nie krok. Cierpliwosc.",
-    "297-05-22 POPOLUDNIE (rzut 85): po zniecheceniu z 05-18 - MOCNA lekcja. Wick lewa reka napisal cala czysta linijke i zrobil kolumne rachunkow bez bledu; funk odpuscil (\"moze jednak sie nadaje\"). Symon trafil z metoda i otucha. Postep realny, morale wrocilo. nast 47->51, zauf 12->14."
+    "297-05-22 POPOLUDNIE (rzut 85): po zniecheceniu z 05-18 - MOCNA lekcja. Wick lewa reka napisal cala czysta linijke i zrobil kolumne rachunkow bez bledu; funk odpuscil (\"moze jednak sie nadaje\"). Symon trafil z metoda i otucha. Postep realny, morale wrocilo. nast 47->51, zauf 12->14.",
+    "297-05-25 POPOLUDNIE (rzut 14, off-day fizyczny): odwilzowa wilgoc rozbolala zmiazdzona dlon/ramie - dzis nie o pisanie chodzilo, reka sztywna i obolala, lewa tez nie slucha przy takim bolu. Symon NIE cisnal nauki - byl, czytal mu, trzymal na duchu, przyjal ze cialo ma gorsze dni. Zero postepu w pismie, ale morale trzyma bo Symon nie zrobil z tego porazki. nast 51->52, zauf 14->15."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   },

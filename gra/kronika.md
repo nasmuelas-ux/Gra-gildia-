@@ -4714,3 +4714,6 @@ Dołożenie 50 jel do depozytu w kantorze. Rozmowa krótka, ciepła — Nesta za
 
 ## KOREKTA (05-23) — cofnięcie do 05-22 POPOŁUDNIE
 Za szybki przeskok do poranka 05-23 cofnięty na życzenie gracza. Wpłata u Nesty przemyślana: gracz chce REALNIE zainwestować 50 jel (nie bierny depozyt). Stan przywrócony do 05-22 POPOŁUDNIE (po pracy w cechu), decyzja o wehikule inwestycji przed graczem.
+
+## 297-05-22 POPOŁUDNIE — Nesta (inwestycja 50 jel, opcja B)
+Symon wszedł cichym udziałem 50 jel w stałą rotację faktorii (staple/zboże-sól, niskie ryzyko — Nesta dźwiga). Uczciwe, zwykłe warunki wspólnika milczącego (rzut 50). Mały pewny zwrot; rozliczenie na zamknięcie cyklu ~06-22. Wolne: 1 jel + 66 mied. Nesta: „kupiec się w tobie budzi". Zgodne z doktryną kapitał-light.

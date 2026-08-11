@@ -76,6 +76,12 @@
    "co": "odpowiedz Banku wroci na jego zegarze (tygodnie/niepewne) na temat intelu o Antaryonie",
    "kiedy": "~tygodnie",
    "zywy_watek": "zelazny_bank_angle"
+  },
+  {
+   "kto": "nesta_rozliczenie",
+   "co": "Nesta rozliczy cichy udzial w rotacji (zwrot kapitalu + maly plon) na zamkniecie cyklu",
+   "kiedy": "~06-22",
+   "zywy_watek": "inwestycja_faktoria_rotacja"
   }
  ]
 }

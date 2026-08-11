@@ -4845,3 +4845,6 @@ Symon został po pocałunku zamiast wyjść triumfalnie — znów dokładnie to,
 
 ## 297-05-28 RANEK — praca w kantorze (rzut 47)
 Solidna rutynowa sesja przy wiosennym wolumenie kantoru. Podciągnięty backlog, kantor huczy, Hal obok radzi sobie. Bez przełomu. → POPOŁUDNIE.
+
+## 297-05-28 POPOŁUDNIE — Aurane (drop-in, rzut 18)
+Symon wpadł nieproszony licząc na największy zarobek — trafił pusto. Księgi składów świeże (05-19, nic nowego), a Aurane (propertied, particular) summonuje na własnych warunkach, nie przyjmuje drop-inu po zlecenie. Cordialnie, ale zero roboty dziś. Symon odczytał, wyszedł gładko — bez szkody dla relacji (60/21). Nauka: najgrubsza ryba przychodzi na swoim zegarze, nie twoim.

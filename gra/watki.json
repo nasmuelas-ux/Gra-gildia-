@@ -769,9 +769,9 @@
   },
   {
    "id": "ekspansja_graded_drewno",
-   "status": "zbankowany",
+   "status": "uruchomiona",
    "priorytet": "niski",
-   "opis": "297-04-24 (Torsen rzut 88): kanal graded-supply drewna (norma+Symon-arbiter) dziala tak gladko, ze INNI odbiorcy (kupcy/warsztaty biegajacy za pewnym drewnem) chcieliby takiego ukladu. Realna ekspansja poza zamek. ZBANKOWANE jako potencjal (dyscyplina niskiego profilu - nie otwierac nowego garnka z rozpedu; deepowac zamek). Rozwazyc gdy faza ekspansji / okazja.  ||  297-05-15: SUFIT PODAZY - kanal near capacity (Torsen), sol+drewno napina Halvarda. Ekspansja graded-supply do innych WYMAGA najpierw skalowania gory (Halvard) albo tempowania. Reliability nie przeladowac.  ||  297-05-15: sposob na sufit podazy = POPYT-NAJPIERW (nie inwestycja Symona): zamknac popyt innych -> Halvard skaluje sam na pewnosci -> Symon koordynuje kapital-light. Tempowac.  ||  297-05-16: Donnel = pierwsza zamknieta kotwica popytu graded-drewna (buduje duzo). Nastepny krok: przyniesc te pewnosc Torsenowi/Halvardowi (skalowanie popyt-najpierw), tempowac."
+   "opis": "297-04-24 (Torsen rzut 88): kanal graded-supply drewna (norma+Symon-arbiter) dziala tak gladko, ze INNI odbiorcy (kupcy/warsztaty biegajacy za pewnym drewnem) chcieliby takiego ukladu. Realna ekspansja poza zamek. ZBANKOWANE jako potencjal (dyscyplina niskiego profilu - nie otwierac nowego garnka z rozpedu; deepowac zamek). Rozwazyc gdy faza ekspansji / okazja.  ||  297-05-15: SUFIT PODAZY - kanal near capacity (Torsen), sol+drewno napina Halvarda. Ekspansja graded-supply do innych WYMAGA najpierw skalowania gory (Halvard) albo tempowania. Reliability nie przeladowac.  ||  297-05-15: sposob na sufit podazy = POPYT-NAJPIERW (nie inwestycja Symona): zamknac popyt innych -> Halvard skaluje sam na pewnosci -> Symon koordynuje kapital-light. Tempowac.  ||  297-05-16: Donnel = pierwsza zamknieta kotwica popytu graded-drewna (buduje duzo). Nastepny krok: przyniesc te pewnosc Torsenowi/Halvardowi (skalowanie popyt-najpierw), tempowac.  ||  297-05-16: URUCHOMIONA popyt-najpierw - Halvard skaluje na zamknietym popycie (Donnel+zamek+2), Symon kapital-light koordynuje/skimuje, tempowane. Bleed Antaryona rosnie."
   },
   {
    "id": "drabina_kapitalu",

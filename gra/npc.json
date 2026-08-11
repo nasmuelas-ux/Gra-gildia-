@@ -838,8 +838,8 @@
    "leki": [
     "nierzetelni wspolnicy"
    ],
-   "nastawienie_do_gracza": 63,
-   "zaufanie": 14,
+   "nastawienie_do_gracza": 68,
+   "zaufanie": 16,
    "wie_o_graczu": [
     "dotrzymal slowa na umowie cechowej",
     "chce polnocnych futer/bursztynu na wywoz do Braavos",
@@ -855,10 +855,11 @@
     "297-04-10 POLUDNIE (rzut 82): koordynacja pierwszej parceli zamkowej GLADKO - czysta struktura (zamek placi rynek, Symon na prowizji, nikt nie eatuje spreadu). Torsen uloz z Halvardem pojemnosc: wolumen+gradacja(twardy opal/drewno)+termin spywu. Torsen KONTENT - dostal marzenie faktora: STALEGO powtarzalnego odbiorce (zamek). 'O to chodzilo, przynies takich wiecej.' Luk operacyjny: Halvard->Torsen->Symon(broker)->zamek. Pierwsza dostawa za pare dni + pierwsza prowizja Symona. nast 53->57, zauf 9->10.",
     "297-04-13 WIECZOR (rzut 87): Symon domknal spor o grad i WPISAL z Torsenem norme na stale (obiektywne sorty, grad-u-zrodla ze spisanym tally jadacym z parcela, regula ryzyka tranzytu kryta ubezpieczeniem, Symon-arbiter). Torsen widzi ze jego stały odbiorca (zamek) jest teraz na twardej, uczciwej normie - pewnosc dla podazy. Symon = udokumentowany arbiter (fosa). Kanal z przyslugi w biznes. nast 57->59, zauf 10->11.",
     "297-04-24 (rzut 88): kanal zamkowy HUCZY - dostawy plyna na normie, spory zniknely (szafarz sprawdza wobec papieru), prowizja narasta (+3 jel accrued Symonowi). Torsen kontent (spelnione marzenie faktora: staly odbiorca czyste warunki). UPSIDE: reliability=magnes, INNI ODBIORCY chcieliby graded-supply przez Symona (ekspansja poza zamek). Symon zbankowal jako potencjal (dyscyplina Nesty: nie siegac po nowy garnek), deepuje co huczy. nast 59->63, zauf 11->13.",
-    "297-05-15 (rzut 39): reconnect cieply, ale Torsen szczery: kanal NEAR CAPACITY - dokladanie soli Harlona do drewna na zamek napina Halvarda/trakt polnocny ponad miare (Polnoc daje tyle ile na sezon). Reliability (cala wartosc kanalu) peknie pierwsza jak przeladowac. Inni tez chca graded-supply. Trzeba ROZBUDOWAC gore (rece/tratwy u Halvarda) zanim wiecej naladowac. Chce z Symonem rozwiazac capacity. zauf 13->14."
+    "297-05-15 (rzut 39): reconnect cieply, ale Torsen szczery: kanal NEAR CAPACITY - dokladanie soli Harlona do drewna na zamek napina Halvarda/trakt polnocny ponad miare (Polnoc daje tyle ile na sezon). Reliability (cala wartosc kanalu) peknie pierwsza jak przeladowac. Inni tez chca graded-supply. Trzeba ROZBUDOWAC gore (rece/tratwy u Halvarda) zanim wiecej naladowac. Chce z Symonem rozwiazac capacity. zauf 13->14.",
+    "297-05-16 (rzut 86): Symon przyniosl ZAMKNIETY POPYT (Donnel+apetyt zamku+2 leady) - rozwiazanie wczorajszego sufitu. Torsen zachwycony: tak sie to robi; pojdzie do Halvarda, ktory na PEWNYM odbiorze dolozy rak/tratw (zero srebra Symona - pewnosc popytu = waluta). Tempo: Donnel/zamek najpierw, 2 leady w miare. Kanal skaluje sie sam, reliability chroniona. nast 63->68, zauf 14->16."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-05-15",
+   "ostatni_kontakt": "297-05-16",
    "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'",
    "historia": [
     "m11d14: rozmowa o oknie na glebie Polnocy (rzut 36). Torsen cieplo (wiecej interesu), potwierdza: siec Halvarda SIEGA glebiej niz drewno/1 proba futer — futra/skory/bursztyn + loj, wosk, miod, rog/kosc, polnocne specjaly. ALE limity: ZIMA scina podaz glebi do zera (traperzy/klany/gora ruszą dopiero wiosną, Bialy Noz zamarza), i Torsen NIE zaangazuje Halvarda na wieksza skale, poki proba futer nie udowodni popytu/marzy w Braavos (~12-20). Timber jego priorytet -> facylitator nie driver. WNIOSEK: pipeline WIOSENNY zmapowany, teraz nic nie plynie. Torsen 26->28.",

@@ -5266,3 +5266,7 @@ Symon przyszedł NIE dumpować 2 spraw na zmęczonego, lecz POMÓC — odciąży
 
 ## 297-06-24 NOC — sen (dzień mocny i dobry)
 Kanał lokalnego drewna zbudowany (Bennet→broker→zamek, kra-odporny, standing contract wraca), Torren pomoc+slot rano. → 297-06-25 RANEK: Torren obie sprawy (firma ② + prawa drewna). batch3 ~06-27.
+
+## 297-06-25 RANEK — Torren: formalizacja firmy + drewna (rzut 58)
+FIRMA: forma prawna szkielet gotowy (usługa kupiecko-faktorska, poza cechem z natury, fundament obywatelstwo-kupca; umowa cichego wspólnika Nesty spisana ⅓/⅔ ukryta; czeladnicy Hal/Wick). Rejestracja w radzie ~parę dni. Do dopięcia: PODPIS NESTY. DREWNO: umowy nakreślone czysto (Bennet-podaż + Symon-broker marża<wartość + zamek-odbiór przez Godrica, egzekwowalne z arbitrażem, feudalnie czyste). Do wykonania: PODPISY Benneta + zamku (Godric). Reciprocity. -2 jel rejestracja. Nast 37→39.
+STATUS: firma i kanał drewna = byty prawne w szkielecie, czekają na podpisy + proces rejestracji.

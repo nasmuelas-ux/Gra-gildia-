@@ -4897,3 +4897,6 @@ Symon zajrzał jak troskliwy gospodarz — o Brana i lokatorów. Ciepły raport:
 ## 297-05-31 NOC — sen; 06-01 nowy miesiąc
 Symon śpi. → 297-06-01 RANEK, nowy miesiąc (6). MIESIĘCZNY TIK: czynsz kamieniczki netto +2 jel (→ wolne 7), draw kantoru wznowiony +6 jel (→ depozyt 206 jel). Relacje BEZ dryfu (durable, zgodnie z zasadą).
 INBOUND 06-01: Mira SAMA się odezwała (rzut 62) — przysłała chłopca z prostą wiadomością „niech wpadnie, jak będzie miał chwilę". Pierwszy raz to ONA przyciąga, nie on przychodzi. Cichy wielki krok po przełomie. Nast 78→79.
+
+## 297-06-01 RANEK — ogród + sąsiedzi (rzut 77)
+Symon pracował w ogródku razem z Jonną (zna się na roli) — dosiali (rzepa/bób do kapusty i ziół), grunt żyje. Ciepła, sąsiedzka wspólnota na Schodach; człowiek, który rok temu był obcym-podejrzanym, dziś kopie własną ziemię obok sąsiadów, co go znają. Najgłębszy dowód zakorzenienia. Rzemiosło praktyka. Jonna 19→21. → POPOŁUDNIE.

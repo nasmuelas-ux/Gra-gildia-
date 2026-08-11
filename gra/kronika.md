@@ -4927,3 +4927,6 @@ Symon śpi po dniu (Denys firewall-clean C2+C3, organizacja 8, Aldous, septa-kry
 
 ## 297-06-03 RANEK — Harlon (przygotowany, rzut 97 KRYTYK)
 Symon wszedł z gotową kolumną oszczędności z przejścia na tani kanał. Twardy Harlon zobaczył twarde liczby = w pełni przekonany. Nie dołożył trochę — ZAMKNĄŁ DUŻY wolumen soli/zapasów na tani ubezpieczony kanał (decydujące przejście). Premium +8 jel. Solidny sojusznik z przekonania. Nast 61→69, zauf 23→27. Duża nowa kotwica POPYTU dla kanału Północ (feeds Torsen/Halvard) + więcej marży dla ramienia ubezpieczeń. Cicho: duży kawał frachtu opuszcza sieć Antaryona — bleed rośnie znacząco, firewall cały (Harlon widzi tylko dobry interes). → POPOŁUDNIE.
+
+## 297-06-03 POPOŁUDNIE — Torsen (puls kanału, rzut 62)
+Symon przyniósł gruby book popytu (Donnel+zamek+cech+teraz Harlon). Puls: Halvard skaluje organicznie, stopniowo (tempo Północy). Popyt teraz wyraźnie przed zdolnością (dobry problem) → sekwencjonować do realnej zdolności (reliability>szybkość), zero srebra-mostka (pamięć 05-19). Torsen szanuje dyscyplinę. Kanał zdrowy, na zegarze Północy. Nast 70→72. → POPOŁUDNIE trwa.

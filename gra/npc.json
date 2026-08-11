@@ -857,8 +857,8 @@
    "leki": [
     "nierzetelni wspolnicy"
    ],
-   "nastawienie_do_gracza": 70,
-   "zaufanie": 17,
+   "nastawienie_do_gracza": 72,
+   "zaufanie": 18,
    "wie_o_graczu": [
     "dotrzymal slowa na umowie cechowej",
     "chce polnocnych futer/bursztynu na wywoz do Braavos",
@@ -876,10 +876,11 @@
     "297-04-24 (rzut 88): kanal zamkowy HUCZY - dostawy plyna na normie, spory zniknely (szafarz sprawdza wobec papieru), prowizja narasta (+3 jel accrued Symonowi). Torsen kontent (spelnione marzenie faktora: staly odbiorca czyste warunki). UPSIDE: reliability=magnes, INNI ODBIORCY chcieliby graded-supply przez Symona (ekspansja poza zamek). Symon zbankowal jako potencjal (dyscyplina Nesty: nie siegac po nowy garnek), deepuje co huczy. nast 59->63, zauf 11->13.",
     "297-05-15 (rzut 39): reconnect cieply, ale Torsen szczery: kanal NEAR CAPACITY - dokladanie soli Harlona do drewna na zamek napina Halvarda/trakt polnocny ponad miare (Polnoc daje tyle ile na sezon). Reliability (cala wartosc kanalu) peknie pierwsza jak przeladowac. Inni tez chca graded-supply. Trzeba ROZBUDOWAC gore (rece/tratwy u Halvarda) zanim wiecej naladowac. Chce z Symonem rozwiazac capacity. zauf 13->14.",
     "297-05-16 (rzut 86): Symon przyniosl ZAMKNIETY POPYT (Donnel+apetyt zamku+2 leady) - rozwiazanie wczorajszego sufitu. Torsen zachwycony: tak sie to robi; pojdzie do Halvarda, ktory na PEWNYM odbiorze dolozy rak/tratw (zero srebra Symona - pewnosc popytu = waluta). Tempo: Donnel/zamek najpierw, 2 leady w miare. Kanal skaluje sie sam, reliability chroniona. nast 63->68, zauf 14->16.",
-    "297-05-17 (rzut 83): Symon dorzucil popyt CECHU - pool zamkniety teraz WIEKSZY niz gora dogoni sam w sezon (dobry problem: nadmiar popytu). Fork: (1) wolno sekwencja (zero kapitalu, wolniej, popyt moze ostygnac), (2) cienki zabezpieczony MOSTEK Nesty na start Halvarda (rosnie szybciej, lapie caly popyt - bezpieczne bo popyt zamkniety). nast 68->70, zauf 17."
+    "297-05-17 (rzut 83): Symon dorzucil popyt CECHU - pool zamkniety teraz WIEKSZY niz gora dogoni sam w sezon (dobry problem: nadmiar popytu). Fork: (1) wolno sekwencja (zero kapitalu, wolniej, popyt moze ostygnac), (2) cienki zabezpieczony MOSTEK Nesty na start Halvarda (rosnie szybciej, lapie caly popyt - bezpieczne bo popyt zamkniety). nast 68->70, zauf 17.",
+    "297-06-03 (rzut 62): Symon przyniosl gruby book popytu (Donnel+zamek+cech+TERAZ Harlon duzy wolumen). Puls: Halvard skaluje ORGANICZNIE, stopniowo (tempo Polnocy, odwilz, rece w pole) - realny postep, mierzony. Popyt teraz WYRAZNIE przed zdolnoscia (dobry problem). Zgodnie z dyscyplina: SEKWENCJONOWAC do realnej zdolnosci (reliability>szybkosc), czesc w kolejce, ZERO srebra-mostka (pamiec porazki 05-19). Torsen szanuje dyscypline. Kanal zdrowy, rosnie na zegarze Polnocy. nast 70->72."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-05-17",
+   "ostatni_kontakt": "297-06-03",
    "cechy_mowy": "chlodny, rzeczowy, 'krok po kroku'; 'mlody'",
    "historia": [
     "m11d14: rozmowa o oknie na glebie Polnocy (rzut 36). Torsen cieplo (wiecej interesu), potwierdza: siec Halvarda SIEGA glebiej niz drewno/1 proba futer — futra/skory/bursztyn + loj, wosk, miod, rog/kosc, polnocne specjaly. ALE limity: ZIMA scina podaz glebi do zera (traperzy/klany/gora ruszą dopiero wiosną, Bialy Noz zamarza), i Torsen NIE zaangazuje Halvarda na wieksza skale, poki proba futer nie udowodni popytu/marzy w Braavos (~12-20). Timber jego priorytet -> facylitator nie driver. WNIOSEK: pipeline WIOSENNY zmapowany, teraz nic nie plynie. Torsen 26->28.",

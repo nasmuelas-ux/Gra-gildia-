@@ -5145,3 +5145,6 @@ Czysta sesja ksiąg cechu kołodziejów, dalsza optymalizacja graded-drewna + dr
 
 ## 297-06-17 WIECZÓR — inwestycja 50 jel w weksle
 Symon ulokował 50 jel w nową partię weksli/mostka-kredyt (wiosenny popyt realny, dobór dłużników okiem — rachunki 10). Weksle 110→160, wolne 61→11. Płynność chwilowo cienka (11 jel) ale batch2 (~50 jel z marżą) wraca jutro ~06-18. Kapitał rozstawiony agresywnie.
+
+## 297-06-17 NOC — sen (dzień dobry i pracowity)
+Aurane (rzut 69, bez łowienia — rozbrojony, przyszła robota), księgi cechu (+5 jel, Boren szuka lokalnego drewna), Elna (zdrowieje, ratunek potwierdzony), +50 jel w weksle (160). Majątek ~421 jel (2,11 smoka). → 297-06-18 RANEK (weksle batch2 wracają).

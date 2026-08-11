@@ -4969,3 +4969,6 @@ Symon wziął ofertę — Owen ponowił ciepłe poręczenie do Theomore na neutr
 
 ## 297-06-05 WIECZÓR — praca w kantorze (rzut 60)
 Po odpoczynku i posiłku solidna wieczorna sesja przy księgach kantoru, wiosenny wolumen podciągnięty. Bez przełomu, steady.
+
+## 297-06-05 NOC — sen (za zgodą gracza)
+Symon śpi po pełnym dniu (weksle wróciły, lokata z dyscypliną, Wat, re-entry do Theo przez Owena, kantor). Dzień 06-05 zamknięty. → 297-06-06 RANEK.

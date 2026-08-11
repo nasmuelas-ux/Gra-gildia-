@@ -5206,3 +5206,6 @@ Ciepły kubek po humbling dniu, ale wieczór zwyczajny (Aldous w kubkach, głęb
 
 ## 297-06-20 NOC — sen (dzień pokorny ale dobry)
 Septa crit (deflacja: została tylko lekcja o granicy liczydła = człowiek), kobieta przywrócona przez siostrę (metoda skorygowana: przy Wierze liczydło za kotarą), woda, Aldous (zwyczajny kubek, firewall held z wysiłkiem). Lekcja dnia: miłosierdzia nie optymalizuj; ręka w cieniu. → 297-06-21 RANEK (rotacja ~06-22 jutro, batch3 ~06-27, Torren charter, drewno gated krą).
+
+## 297-06-21 RANEK — kantor: mistrzowski read (rzut 95)
+Symon połączył agregatowy read (sukno-glut + sól-squeeze przez kra+połów + port) w konkretną POZYCJĘ faktorii na SOLI (jego teza, którą Harlon zbył — kantor gra sam). Nesta pod wrażeniem: „widzisz jak faktor z Żelaznego Miasta. Bierzemy." +6 jel + pozycja dojrzewa ku plonowi. Bookend: narzędzie we właściwym polu (rynek) genialne, po wczorajszej lekcji o granicy (miłosierdzie). Wolne 25 jel.

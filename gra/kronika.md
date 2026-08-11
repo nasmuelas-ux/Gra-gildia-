@@ -5124,3 +5124,9 @@ Mapa rady trzeźwa: cech pisarzy WPLECIONY, ma sojuszników — realny spór, Sy
 ## 297-06-16 POŁUDNIE — Boren: guild-vs-guild ODRZUCONY (rzut 29 + korekta świata)
 KANON: CECHY NIE NAPADAJĄ NA SIEBIE. System guild stoi na wzajemnym poszanowaniu charterów/tradycji — podważyć monopol pisarzy = podważyć zasadę chroniącą własny monopol kołodziejów. Żaden cechmistrz nie będzie taranem na inny cech. Boren gently odrzucił „guild-vs-guild mur" (naiwny), ale z sympatii dał: (1) PORĘCZENIE ZA CHARAKTER (świadek, nie wojna); (2) MĄDROŚĆ: nie walcz z ich prawem — bądź jawnie POZA nim (faktor-rachmistrz=zwyczaj kupiecki, nie skryba); trzymaj Wiarę. Relacja cała (90/28).
 PRZEFORMUŁOWANA OBRONA (z ziarnem tradycji): ① pozycjonuj się jawnie POZA charterem pisarzy (faktor nie skryba) ② tarcza Wiary ③ indywidualna dobra wola kupców = świadkowie charakteru NIE frakcja ④ nie prowokuj. „Deterrence wall z cechów" = martwy.
+
+## 297-06-16 POPOŁUDNIE — Leona (rzut 27, płasko ale bez rysy)
+Symon plain/po ludzku (ceni to). Zły dzień: jej zatarg z drapieżnym wielkim domem PRZYCISKA — harda, krótka. „Potrzebujesz pomocy?" brushnęło jej dumną niezależność (nie wdowa do ratowania). Symon MĄDRZE cofnął pomoc, został po ludzku, cicho solidarność równych — nie pchał. Więź trzyma (74/30), robota brak. LIVE THREAD: nacisk wielkiego domu na Leonę się nasila (ten sam wzór co blok uczciwych kupców). Lekcja: dumna niezależna → SOLIDARNOŚĆ nie RATUNEK.
+
+## 297-06-16 WIECZÓR — kantor, spokojna sesja ksiąg (rzut 38)
+Szara solidna sesja spring volume (rachunki 10 = bez wysiłku), +2 jel. Wick dzień 7 — wrósł w fach, pewny (Hal go pilnuje). Cichy wieczór po dniu polityki charterów. → wolne 56 jel.

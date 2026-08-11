@@ -4872,3 +4872,6 @@ Nesta szczerze, krótko (spita, późno): „lepiej w ruchu — nie w kościach,
 
 ## 297-05-29 NOC — sen (za zgodą gracza)
 Symon śpi po długim, mocnym dniu (Mira przełom, Harmen krytyk-nowy klient, cech krytyk, kredyt +50) i nocnym rozmyślaniu z Nestą o wielkich kamieniach (dług Antaryonów ~90 smoków = refinans nie spłata; Winterfell ślepy; Ryman uśpiony; dwór przez Theo/Godrica cicho; Hal jako dźwignia). Postanowienie na rano: sformalizować rolę/udział Hala. Dzień 05-29 zamknięty. → 297-05-30 RANEK.
+
+## 297-05-30 RANEK — formalizacja Hala z Nestą (rzut 39)
+Symon+Nesta rozpisali rolę Hala (Nesta groomuje Symona na patrona — lustro tego, co zrobiła jemu). Struktura: jasny udział/płaca + ścieżka wzrostu udziału z kompetencją + izba3. Legible finding (rozmyty, rzut 39): na czystej ekonomii Hal dziś ~break-even/lekko plus (wciąż się uczy); zysk NIE w spreadzie teraz, lecz forward (inwestycja) + intangible (lojalność, dyskrecja=firewall, dźwignia). Do domknięcia: przedstawić Halowi + wycena jego premium roboty. Zauf 45→46. → POPOŁUDNIE.

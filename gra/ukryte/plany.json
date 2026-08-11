@@ -60,12 +60,6 @@
  ],
  "inbound_kolejka": [
   {
-   "kto": "weksle_dluznicy",
-   "co": "dluznik(cy) moga przyslac przed terminem ~06-05 (splata/prosba)",
-   "kiedy": "~06-05",
-   "zywy_watek": "ksiega_kredytowa_zwrot"
-  },
-  {
    "kto": "torsen/halvard",
    "co": "Torsen przysle wiesc gdy Halvard organicznie dolozy zdolnosci (skalowanie)",
    "kiedy": "~tygodnie",
@@ -87,6 +81,12 @@
    "kto": "weksle_batch2",
    "co": "druga partia weksli (50 jel, ulokowana 05-29) wraca z marza",
    "kiedy": "~06-18",
+   "zywy_watek": "ksiega_kredytowa"
+  },
+  {
+   "kto": "pilot_extension",
+   "co": "przedluzona czesc pilota (10 jel + drobna oplata) - dluznik krotki na wiosne, wraca",
+   "kiedy": "~06-15",
    "zywy_watek": "ksiega_kredytowa"
   }
  ]

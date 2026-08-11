@@ -4954,3 +4954,6 @@ Symon upewnił się z Owenem PRZED ruchem (deferencja — dobrze). Owen pochwali
 
 ## 297-06-04 POPOŁUDNIE — Owen o maestrze (rzut 86)
 Ostra rada: keystone nie był porażką — Theo przyjął Symona, ocenił pracę maesterskiej klasy, RELACJA istnieje (przyczółek realny). Nie zaniósł dossieru lordowi = jego ostrożność, nie werdykt. NIE wracać z dossierem (agenda-look). Zamiast: budować Theo jako czystą relację — być mu użytecznym cicho (maester = samotny uczony w zamku mieczy; dać mu staranny umysł, uczciwą robotę, zero agendy), niech uzna za wartego trzymania blisko. A że Bank niesie teraz rackiet — Teo można zalecać się CZYSTO (firewall). Dossier=drzwi zamknięte; człowiek=drzwi wciąż otwarte. Owen ponowi ciepłe poręczenie na neutralnym gruncie. Wieź 90, zauf 29→30.
+
+## 297-06-04 NOC — sen; 06-05 WEKSLE WRACAJĄ
+Symon śpi. → 297-06-05 RANEK. WEKSLE (pilot 50 jel, rzut 49): mechanizm DZIAŁA — 40 jel principal + 3 jel marża wróciły do kieszeni (+43), ale jeden dłużnik krótki na wiosnę → 10 jel przedłużone (short extension + drobna opłata, ~06-15). Nie strata (dobry zastaw), lekcja: kredyt = timing-ryzyko kontrahenta, zabezpieczenie trzyma. Księga kredytowa dowiozła pierwszy realny (skromny) plon. Weksle out: 100→60.

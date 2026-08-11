@@ -4765,3 +4765,6 @@ Pierwsze pełne rozliczenie partnerskie od 296-12-30. Symon poprosił o wytrowan
 
 ## KOREKTA 297-05-24 — rozliczenie: całość do equity
 Symon zdecydował: nie ciągnie srebra. Całe ~50 jel z rozliczenia zostaje jako EQUITY FUTURE-WEIGHTED w kantorze (kapitał-light, niech pracuje jako udział; kantor cash-tight). Wolne bez zmian (6 jel + 54 mied), depozyt bez zmian (200 jel = 1 smok). Nowa pozycja: equity kantoru future-weighted +50 jel (uznane, nieplynne). Draw wznowiony na przyszłość. Nesta: ruch dojrzałego wspólnika-następcy.
+
+## 297-05-24 NOC — wprawka pisma + sen (rzut 4, krytyk)
+Symon usiadł jeszcze nad pergaminem (pismo 123/125), ale po długim dniu, zmęczony i przy dogasającej świecy, ręka drżała — litery wyszły koślawo, zmarnował róg arkusza. Wprawka bez wartości (pismo bez zmian, 123). Nauka powtórzona przez dzień trzeci raz: subtelnej roboty nie robi się wyczerpanym. Zdmuchnął świecę, śpi. → 297-05-25 RANEK.

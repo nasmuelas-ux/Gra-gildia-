@@ -4642,3 +4642,6 @@ Wizyta po ludzku 3 dni po dotyku (rzut 33, plateau). Cieplo ale OSTROZNE COFNIEC
 
 ## 297-05-18 POPOLUDNIE — Rollam: recurring wycinek
 Do Rollama (rzut 76). Wycinek dowieziony czysto (+6 jel -> 22 jel), filar mieli. Rollam: imie Symona w kregu faktorow coraz pewniej (Wyllam zadowolony, inni pytaja). nast 47->48. Liczniki rachunki+1 (199), audyt+1 (138). -> WIECZOR.
+
+## 297-05-18 WIECZOR — Faktoria: mapa frachtu Antaryona (aggregate edge)
+Praca z Halem (rzut 93). Usluga mieli, Hal pewny (+4 jel -> 26). Aggregate view OSTRZEJSZY: z cudzych papierow Symon uklada MAPE FRACHTU ANTARYONA - ktorych dostawcow strzyze najgorzej (cele koalicji do przeciagniecia), gdzie lewar gruby vs cienki od jego kropli. Cichy edge: wie kogo dogrzac nastepnego i gdzie fracht najlatwiej podciac. Trzyma OSOBNO/cicho (firewall - niewinny audytor przy grze z Bankiem). Liczniki audyt+1 (139), rachunki+1 (200). -> noc.

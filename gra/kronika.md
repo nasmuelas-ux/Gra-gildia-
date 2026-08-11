@@ -4981,3 +4981,6 @@ Szczyt sezonu, Donnel w biegu — krótka ciepła wizyta. FUNDAMENT: dał wreszc
 
 ## 297-06-06 POPOŁUDNIE — Wenda (po ludzku, rzut 50)
 Ciepły reconnect po 36 dniach — bez urazy (folk nie chowa), głośno o rodzinie i targu, Symon jak swój. Folk-pulse (modest): imię niesie się ciepło wśród ludu, stabilnie; w Zaułku mówią, że Septa daje ostatnio lepsze sukno/tańsze — lud po cichu kredytuje „tego skrybę od Septy" (pomoc jałmużnie DOCIERA do realnych ludzi). Nast 58→60, zauf 17→18.
+
+## 297-06-06 NOC — sen (za zgodą gracza)
+Symon śpi po dniu-milestone: Theo krytyk (kanał zamkowy otwarty), Donnel (fundament put to rest), Wenda (ciepły reconnect, folk-pulse). Dzień 06-06 zamknięty. → 297-06-07 RANEK.

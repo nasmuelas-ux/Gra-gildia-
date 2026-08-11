@@ -4821,3 +4821,6 @@ Plan zadziałał wzorcowo. Godric poniósł jednostronicówkę do Gowena jako ru
 
 ## 297-05-27 RANEK — podziękowanie Godricowi (rzut 88)
 Symon poszedł podziękować po ludzku — i zamiast przypisać sobie wygraną, oddał ją Godricowi (jego twarz, ton, zaufanie robiły robotę). Godric, człowiek wyższego stanu przywykły być pryncypałem, rozbrojony, że młodszy oddaje splendor zamiast go szukać. Relacja: klient/skryba → genuine SOJUSZ. Godric otworzył swój róg: „czego byś nie potrzebował z mojej strony — domu przy dworze — masz mnie". Cenny sojusznik blisko dworu (ostrożnie, firewall). Nast 79→83, zauf 20→23.
+
+## 297-05-27 POPOŁUDNIE — księgi zamku z Godrikiem (rzut 68)
+Solidna sesja — już jako sojusznik. Symon przeszedł bieżące i ustawił rejestr tak, by przyszłe rozjazdy z intake wychodziły wcześnie (systemowe wzmocnienie po nauce z niezgodności). +5 jel. Relacja mocna, zauf 23→24. → POPOŁUDNIE.

@@ -4744,3 +4744,6 @@ Symon przyszedł popracować o zmierzchu, na końcu długiego dnia. Sesja chuda 
 
 ## 297-05-23 ZMIERZCH — rada Nesty ws. intake'u (rzut 25)
 Nesta od ręki dała kierunek: to nie robota Symona do kopania — Godric niesie własny czysty papier do zamku i prosi o rutynowe wyrównanie ksiąg, bez oskarżeń; Symon niewidzialny. Założyć błąd urzędnika, dać mu drabinę do zejścia; jeśli to nie błąd — pokaże się samo, bez odcisków Symona. Ale capnęła zmęczonego: „to robota na zimno, przespij się, naostrzymy z jasną głową". Kierunek jest, plan do dopracowania. NIE zakładać malice.
+
+## 297-05-23 NOC — sen (za zgodą gracza)
+Symon kładzie się po ciężkim, pełnym dniu (targ, Harlon-mapa, krytyk u Godrica, rozplątanie, rada Nesty). Dzień 05-23 zamknięty. → 297-05-24 RANEK. Do zrobienia: naostrzyć i przeprowadzić przez Godrica plan wyrównania intake'u.

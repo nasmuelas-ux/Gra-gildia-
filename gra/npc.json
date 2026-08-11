@@ -1546,7 +1546,7 @@
    "wiek": 47,
    "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 68,
+   "nastawienie_do_gracza": 69,
    "zaufanie": 23,
    "wie_o_graczu": [
     "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)",
@@ -1567,9 +1567,10 @@
     "297-05-19 (rzut 88): cieplo, przyjazn glebsza (Symon wrocil gdy bylo gorzko - zamozny nie zapomina). Merek SAM otworzyl drzwi: ufa jak malo komu, po zdradzie partnera chce pewnosci ze nikt go nie strzyze - poprosil Symona o audyt/ksiegi (zaufaniowa czysta robota, zaplaci). Nowy potencjalny filar wziety przyzwoitoscia nie targiem. nast 52->58, zauf 14->17.",
     "297-05-20 (rzut 62): Symon zrobil audyt ksiag - CZYSTE, nikt go nie strzyze (zdrada partnera byla rana nie regula, zabliznila sie); jeden drobiazg wyprostowany. Merek: peace of mind, \"spie spokojniej, dziekuje ze po ludzku\". Premium +5 jel, nowy premium klient (peace-of-mind audyty). nast 58->62, zauf +2.",
     "297-05-28 POPOLUDNIE (rzut 88): Merek nie dal rutyny - dal WAZNA robote: rozwija prowiant na wiosne (rzeki puszczaja, nowa linia dostaw) i powierzyl Symonowi ustawienie czystych ksiag NOWEGO przedsiewziecia + WERYFIKACJE warunkow umowy z nowym dostawca (rachunki+prawo). Deep trust: powaza go do rzeczy waznych, nie tylko rutyny. Symon dowiozl czysto. Premium +8 jel. nast 62->66, zauf 19->21.",
-    "297-06-13 (rzut 62): cieply reconnect (16 dni) + realna robota. Symon ustawil/pchnal CZYSTE ksiegi nowej wiosennej linii dostaw Merka - solidnie, jeden pozyteczny catch/struktura. Motyw: Merek, raz sparzony zdrada wspolnika, buduje teraz CZYSTO OD STARTU z Symonem jako zaufanym okiem - zero miejsca na skim od pierwszego dnia. Peace of mind dostarczony. +5 jel. Harlon wspomniany lekko (weze zl sieci - nienaciskane). nast 66->68, zauf 21->23."
+    "297-06-13 (rzut 62): cieply reconnect (16 dni) + realna robota. Symon ustawil/pchnal CZYSTE ksiegi nowej wiosennej linii dostaw Merka - solidnie, jeden pozyteczny catch/struktura. Motyw: Merek, raz sparzony zdrada wspolnika, buduje teraz CZYSTO OD STARTU z Symonem jako zaufanym okiem - zero miejsca na skim od pierwszego dnia. Peace of mind dostarczony. +5 jel. Harlon wspomniany lekko (weze zl sieci - nienaciskane). nast 66->68, zauf 21->23.",
+    "297-06-21 (rzut 42): czysta sesja ksiag nowej linii, +4 jel, peace of mind. INTEL: Merek (prowiantnik) potwierdza SOL-SQUEEZE (\"sol w gore, trudno o nia, drozeje, cos zatkalo na polnocy\") - waliduje wczorajsza pozycje Symona na soli (Symon nie zdradzil ze na to postawil). Glos z pierwszej reki potwierdza jego teze. nast 68->69."
    ],
-   "ostatni_kontakt": "297-06-13",
+   "ostatni_kontakt": "297-06-21",
    "cechy_mowy": "gadatliwy, nerwowy gdy o pieniadzach",
    "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane",
    "historia": [

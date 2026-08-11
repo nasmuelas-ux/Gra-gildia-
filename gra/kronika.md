@@ -5209,3 +5209,6 @@ Septa crit (deflacja: została tylko lekcja o granicy liczydła = człowiek), ko
 
 ## 297-06-21 RANEK — kantor: mistrzowski read (rzut 95)
 Symon połączył agregatowy read (sukno-glut + sól-squeeze przez kra+połów + port) w konkretną POZYCJĘ faktorii na SOLI (jego teza, którą Harlon zbył — kantor gra sam). Nesta pod wrażeniem: „widzisz jak faktor z Żelaznego Miasta. Bierzemy." +6 jel + pozycja dojrzewa ku plonowi. Bookend: narzędzie we właściwym polu (rynek) genialne, po wczorajszej lekcji o granicy (miłosierdzie). Wolne 25 jel.
+
+## 297-06-21 POŁUDNIE — Merek księgi (rzut 42)
+Czysta sesja nowej linii, +4 jel, peace of mind. INTEL: Merek (prowiantnik) potwierdza sól-squeeze („sól w górę, trudno o nią, coś zatkało na północy") — WALIDUJE wczorajszą pozycję Symona na soli (nie zdradził, że postawił). Nast 68→69. Wolne 29 jel.

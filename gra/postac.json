@@ -12,7 +12,7 @@
  "zmeczenie": 20,
  "sakiewka": {
   "miedziaki": 6,
-  "jelenie": 25,
+  "jelenie": 29,
   "smoki": 0
  },
  "dobytek": [
@@ -135,10 +135,10 @@
  },
  "nazwisko": "Tally",
  "liczniki_uzyc": {
-  "rachunki": 259,
+  "rachunki": 260,
   "audyt": 162,
   "pismo": 133,
-  "organizacja": 145,
+  "organizacja": 146,
   "kondycja": 115,
   "walka": 51,
   "prawo": 190,

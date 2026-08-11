@@ -4768,3 +4768,6 @@ Symon zdecydował: nie ciągnie srebra. Całe ~50 jel z rozliczenia zostaje jako
 
 ## 297-05-24 NOC — wprawka pisma + sen (rzut 4, krytyk)
 Symon usiadł jeszcze nad pergaminem (pismo 123/125), ale po długim dniu, zmęczony i przy dogasającej świecy, ręka drżała — litery wyszły koślawo, zmarnował róg arkusza. Wprawka bez wartości (pismo bez zmian, 123). Nauka powtórzona przez dzień trzeci raz: subtelnej roboty nie robi się wyczerpanym. Zdmuchnął świecę, śpi. → 297-05-25 RANEK.
+
+## 297-05-25 RANEK — Mira (po ludzku, rzut 42)
+7 dni oddechu po cofnięciu z 05-18. Wizyta bez agendy, zero nacisku — i to zadziałało: ostrożny flinch z 05-18 rozpuścił się, wróciła wygodna łatwość. Bez kroku naprzód (nie jest gotowa; Symon mądrze nie pcha), ale Mira uchyliła okno — opowiedziała, czemu tak strzeże niezależności (raz zależała od cudzego dachu, źle się skończyło). Symon słuchał. Postęp w zrozumieniu, nie w romansie. Grunt znów stabilny. Nast 69→71, zauf 26→27.

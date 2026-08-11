@@ -4930,3 +4930,6 @@ Symon wszedł z gotową kolumną oszczędności z przejścia na tani kanał. Twa
 
 ## 297-06-03 POPOŁUDNIE — Torsen (puls kanału, rzut 62)
 Symon przyniósł gruby book popytu (Donnel+zamek+cech+teraz Harlon). Puls: Halvard skaluje organicznie, stopniowo (tempo Północy). Popyt teraz wyraźnie przed zdolnością (dobry problem) → sekwencjonować do realnej zdolności (reliability>szybkość), zero srebra-mostka (pamięć 05-19). Torsen szanuje dyscyplinę. Kanał zdrowy, na zegarze Północy. Nast 70→72. → POPOŁUDNIE trwa.
+
+## 297-06-03 POPOŁUDNIE — oferta pomocy Sepcie (rzut 63)
+Symon sam przyszedł ofiarować pomoc: audyt księgi jałmużny (by charytatywne srebro docierało dalej) + tańsze zaopatrzenie ubogich przez jego sieć/kanał (chudy przednówek — ulży m.in. Elnie). Owen głęboko poruszony (wychowanek wzmacnia Wiarę, która go podniosła — łańcuch wraca), przyznał dostęp, powitał pomoc. Rep wiara 80→82, Owen 88→90, zauf 28→29. Nowy wątek septa_pomoc_jalmuzna. → POPOŁUDNIE trwa.

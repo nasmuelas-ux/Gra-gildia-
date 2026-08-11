@@ -469,8 +469,8 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 88,
-   "zaufanie": 28,
+   "nastawienie_do_gracza": 90,
+   "zaufanie": 29,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
     "dobra, pewna reka do pisma",
@@ -548,10 +548,11 @@
     "297-04-12 WIECZOR (rzut 25, flat): Symon przyszedl po narade, ale Owen ZAJETY pastoralnie - ranny czeladnik kolodziejow (z wczorajszego wypadku) lezy pod dachem Wiary, Colen opatruje zmiazdzona dlon; wczorajsze pismo+grosz Symona trafily tu (chlopak zyje, dlon moze uratuja). Owen cieplo ale krotko: Theomore NIC NOWEGO (grzeje cierpliwie, tygodnie); na widocznosc tylko 'wiesz sam - badz cichy, badz pokorny, nie potrzebujesz starca'. Symon nie napieral, zostawil go przy chorym. Swiat ma swoje ciezsze sprawy. nast 86 hold.",
     "297-04-17 WIECZOR (rzut 8, ciezka prawda): Symon przyszedl po szeroki obraz (Winterfell/Ryman/zwornik). Owen dal PRAWDE zamiast pociechy: submisja Rymana=kamien w studnie bez dna; Winterfell daleko/powolne/nikomu nie winne odpowiedzi - moze wszczac inkwizycje, ale MILCZENIE prawdopodobniejsze; poza reka Symona (wroci za miesiace albo nigdy). Owen z cieniem wlasnego niepokoju: puscili rzecz niebezpieczna (smierc Aemona, prowokacja Starkow) nieodwolywalna, nosi to na sumieniu z Symonem. SAMOTNOSC SEKRETU zabolala - rozmowa o mrocznych sprawach nie rozjasnila, przypomniala izolacje. Symon wyszedl CIEZSZY, nie lzejszy. Owen 86 hold (wiez stoi).",
     "297-04-21 WIECZOR (rzut 45): lekka gruntujaca rozmowa (kontrast do ciezkiej Winterfell). Owen uznanie dla cichego dobra Symona: 'dobrze robisz - nie tym co spinasz, lecz ze pamietasz skad przyszedles i przedluzasz lancuch; to zostaje po czlowieku nie prowizje'. Symon wyszedl lzejszy, ugruntowany. nast 86 hold.",
-    "297-05-25 POPOLUDNIE (rzut 51): Symon przyszedl SZCZERZE PODZIEKOWAC za nauke - akurat gdy sam dobil pismo na 8 i przekazuje metode dalej (Hal, Wick). Owen cicho poruszony: widzi swoja nauke owocujaca w dol lancucha (Owen->Symon->Hal->...). Wiez patrona-Wiary wzmocniona. nast 86->88, zauf 27->28."
+    "297-05-25 POPOLUDNIE (rzut 51): Symon przyszedl SZCZERZE PODZIEKOWAC za nauke - akurat gdy sam dobil pismo na 8 i przekazuje metode dalej (Hal, Wick). Owen cicho poruszony: widzi swoja nauke owocujaca w dol lancucha (Owen->Symon->Hal->...). Wiez patrona-Wiary wzmocniona. nast 86->88, zauf 27->28.",
+    "297-06-03 (rzut 63): Symon SAM przyszedl OFEROWAC pomoc Sepcie - audyt ksiegi jalmuzny (by charytatywne srebro docieralo dalej) + tansze zaopatrzenie ubogich przez jego siec/kanal (chudy przednowek). Owen gleboko poruszony: wychowanek wzmacnia Wiare, ktora go podniosla - lancuch wraca. Przyznal dostep do jalmuzny, powital pomoc. nast 88->90, zauf 28->29."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-05-25",
+   "ostatni_kontakt": "297-06-03",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },

@@ -4842,3 +4842,6 @@ Po całej cierpliwości i zrozumieniu — MIRA SAMA zrobiła krok. Z własnej wo
 
 ## 297-05-28 RANEK (c.d.) — zostaje z Mirą
 Symon został po pocałunku zamiast wyjść triumfalnie — znów dokładnie to, czego jej trzeba (to nie zdobycz, on po prostu chce być). Siedzieli, gadali o drobnych prawdziwych rzeczach jak równi. Konsolidacja przełomu, nie napieranie. Zauf 32→33.
+
+## 297-05-28 RANEK — praca w kantorze (rzut 47)
+Solidna rutynowa sesja przy wiosennym wolumenie kantoru. Podciągnięty backlog, kantor huczy, Hal obok radzi sobie. Bez przełomu. → POPOŁUDNIE.

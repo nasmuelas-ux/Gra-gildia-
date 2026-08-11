@@ -81,9 +81,9 @@
   },
   {
    "id": "kamieniczka_dach_pelny",
-   "opis": "Pelny re-roof kamieniczki przez Donnela - GATED NA POGODE (odwilz/wczesna wiosna, zaprawa musi wiazac). Rezerwa ~21 jel z linii. Po nim 3. izba pod wynajem = pelny dochod. Orientacyjnie ~wczesna wiosna 297. || 297-02-14 REWIZJA (Donnel): remont grubszy/drozszy niz szacowano (~35+ jel vs ~21 rezerwy; zgnilizna siega stropu/belek). Przekroczenie budzetu ~15+ jel do pokrycia. Izba 3 opozniona/drozsza. || 297-03-01: OKNO OTWIERA SIE - zima puszcza (pogoda cieplej), ale to dopiero POCZATEK odwilzy; Donnel oceni, kiedy zaprawa bezpiecznie zwiaze (pelna odwilz blizej ~03-15 z Halvardem). Rezerwa+depozyt na re-roof gotowe (~35 jel). Wkrotce actionable. || 297-03-02 (Donnel rzut 61): OCENA - jeszcze za wczesnie (noce marzna, zaprawa by spekla), pelne bezpieczne okno ~03-15 (odwilz). ALE Donnel USTAWIL wszystko na TERAZ: materialy zarezerwowane, ekipa zabukowana, sekwencja (dach+strop/belki wg rotu) zaplanowana - ZERO opoznienia gdy pogoda pusci. Rezerwa ~35 jel trzyma (bez overrunu, Donnel po przyjacielsku tnie). START = pierwsze bezpieczne cieple okno (~03-15). Po robocie: izba 3 pod wynajem (~late III) = pelny dochod.",
+   "opis": "Pelny re-roof kamieniczki przez Donnela - GATED NA POGODE (odwilz/wczesna wiosna, zaprawa musi wiazac). Rezerwa ~21 jel z linii. Po nim 3. izba pod wynajem = pelny dochod. Orientacyjnie ~wczesna wiosna 297. || 297-02-14 REWIZJA (Donnel): remont grubszy/drozszy niz szacowano (~35+ jel vs ~21 rezerwy; zgnilizna siega stropu/belek). Przekroczenie budzetu ~15+ jel do pokrycia. Izba 3 opozniona/drozsza. || 297-03-01: OKNO OTWIERA SIE - zima puszcza (pogoda cieplej), ale to dopiero POCZATEK odwilzy; Donnel oceni, kiedy zaprawa bezpiecznie zwiaze (pelna odwilz blizej ~03-15 z Halvardem). Rezerwa+depozyt na re-roof gotowe (~35 jel). Wkrotce actionable. || 297-03-02 (Donnel rzut 61): OCENA - jeszcze za wczesnie (noce marzna, zaprawa by spekla), pelne bezpieczne okno ~03-15 (odwilz). ALE Donnel USTAWIL wszystko na TERAZ: materialy zarezerwowane, ekipa zabukowana, sekwencja (dach+strop/belki wg rotu) zaplanowana - ZERO opoznienia gdy pogoda pusci. Rezerwa ~35 jel trzyma (bez overrunu, Donnel po przyjacielsku tnie). START = pierwsze bezpieczne cieple okno (~03-15). Po robocie: izba 3 pod wynajem (~late III) = pelny dochod. || 297-06-26 ZAMKNIETY (rekoncyliacja): re-roof Donnela ukonczony juz wiosna (izba3 wynajeta 03-27 po re-roofie, izba4 domknieta pelnym re-roofem, saldo doplacone na odbiorze). Zegar byl stala resztka - dach ROBIONY. Nie wskrzeszac.",
    "odpala": "297-03-15",
-   "typ": "remont (weather-gated, soft)",
+   "typ": "ZAMKNIETY",
    "ODPALIL": "297-03-25: DACH GOTOWY - Donnel dowiozl na czas (nowe poszycie, belki/strop wymienione, kat Jonny suchy). Saldo ~20 jel doplacone z depozytu. Izba 3 pod najem = pelny dochod kamieniczki. Rada Miry: stabilny lokator jak Jonna, nie max stawka.",
    "zamkniety": true,
    "dodatek_jonna": "Przy re-roofie Donnel ma zajrzec w wilgotny strop/sciane nad izba Jonny (zaciek) - pol dnia, w ramach ekipy juz na miejscu. Tani fix trzymajacy dobra lokatorke (rada Miry + wykonanie Brana).",
@@ -146,9 +146,9 @@
   },
   {
    "id": "dach_ukonczenie",
-   "typ": "remont",
+   "typ": "ZAMKNIETY",
    "odlicza_do": "297-03-25",
-   "opis": "Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Saldo ~20 jel do doplaty na odbiorze.",
+   "opis": "Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Saldo ~20 jel do doplaty na odbiorze. || 297-06-26 ZAMKNIETY (rekoncyliacja): re-roof Donnela ukonczony juz wiosna (izba3 wynajeta 03-27 po re-roofie, izba4 domknieta pelnym re-roofem, saldo doplacone na odbiorze). Zegar byl stala resztka - dach ROBIONY. Nie wskrzeszac.",
    "co_sie_stanie": "odbior dachu; doplata ~20 jel; izba 3 wystawiona pod najem",
    "widoczny_graczowi": true,
    "dodatek_jonna": "Przy re-roofie Donnel ma zajrzec w wilgotny strop/sciane nad izba Jonny (zaciek) - pol dnia, w ramach ekipy juz na miejscu. Tani fix trzymajacy dobra lokatorke (rada Miry + wykonanie Brana).",

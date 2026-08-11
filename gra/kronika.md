@@ -4890,3 +4890,6 @@ Na świeżą głowę: dyżur pisarza odsłużony czysto (podania dla ubogich, ks
 
 ## 297-05-31 POPOŁUDNIE — praca w kantorze obok Hala (rzut 61)
 Solidna sesja przy wiosennym wolumenie. Symon pracował obok Hala normalnie, jak kolega — i ta zwykła wspólna orka bez Wielkiej Rozmowy dokończyła to, czego naprawa nie domknęła: przez normalność lód stopniał. Relacja praktycznie wróciła (nast 88→90, zauf 47→48). Papier o formalizacji wciąż odłożony — domknąć gdy Hal sam będzie gotów, jako floor+wzrost.
+
+## 297-05-31 WIECZÓR — Bran (check-in gospodarza, rzut 60)
+Symon zajrzał jak troskliwy gospodarz — o Brana i lokatorów. Ciepły raport: dom w porządku (dach solidny), Jonna/Osric osadzeni, czynsze idą (cykl zamyka się 06-01), Alys promienieje od sukna, ogródek wschodzi (Jonna: kapusta/zioła). Drobiazg: rynna od podwórka do przejrzenia (Bran pilnuje). Bran kontent, lojalny. Kapitał „porządny gospodarz, dba o swoich". Nast 84→86.

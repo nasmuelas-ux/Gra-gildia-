@@ -55,12 +55,10 @@
     "straznik_bramy",
     "rybak_stary_edd"
    ],
-   "zasieg": [
-    "port",
-    "zaulek"
-   ],
-   "tempo": "szybkie",
-   "dotarla_do_frakcji": []
+   "zasieg": null,
+   "tempo": null,
+   "dotarla_do_frakcji": [],
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. "
   },
   {
    "id": "plotka_004",
@@ -72,13 +70,12 @@
     "czeladnik_pate",
     "handlarz_ryb_solonych"
    ],
-   "zasieg": [
-    "port"
-   ],
-   "tempo": "srednie",
+   "zasieg": null,
+   "tempo": null,
    "dotarla_do_frakcji": [
     "cech_pisarzy"
-   ]
+   ],
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. "
   },
   {
    "id": "plotka_osgar_kantor",
@@ -90,14 +87,11 @@
    "zna": [
     "wenda_rybia"
    ],
-   "zasieg": [
-    "port",
-    "schody_zamkowe"
-   ],
-   "tempo": "srednie",
+   "zasieg": null,
+   "tempo": null,
    "dotarla_do_frakcji": [],
    "uwaga": "Puszczona NIEZDARNIE (tik 100) — zrodlo (ludzie Osgara) transparentne, wiarygodnosc niska; Symon ostrzezony wczesnie przez Wende.",
-   "status": "ZDEMENTOWANA/ODWROCONA (d10, rzut 76): kontr-glos Leony+kupcow + widoczna normalnosc kantoru zdusily plotke; obrocila sie przeciw Osgarowi (jawne, gorzkie zrodlo). Wiara szczatkowa."
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ZDEMENTOWANA/ODWROCONA (d10, rzut 76): kontr-glos Leony+kupcow + widoczna normalnosc kantoru zdusily plotke; obrocila sie przeciw Osgarowi (jawne, gorzkie zrodlo). Wiara szczatkowa."
   }
  ],
  "aktywne": [
@@ -107,7 +101,10 @@
    "sfera": "port, tragarze, lichtarze; wolniej na Schody",
    "znak": "+ (kontra na smear cechu 'partacz')",
    "od_dnia": "296-08-18",
-   "sila": "swieza, mocna u zrodla"
+   "sila": "swieza, mocna u zrodla",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "skryba spod Wiary i braavijska faktorka nakarmili miasto tanim ziarnem w glod — Wiara rozdala biednym, hoarderzy oberwali po kieszeni",
@@ -115,7 +112,10 @@
    "sfera": "cale miasto, najmocniej dol i port",
    "znak": "++ (imie 'skryby, co sluzyl glodnym'; kontra na smear cechu)",
    "od_dnia": "296-09-24",
-   "sila": "swieza, mocna"
+   "sila": "swieza, mocna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "ludzie Osgara wypytuja po nabrzezu, kto stal za tanim ziarnem",
@@ -123,7 +123,10 @@
    "sfera": "port",
    "znak": "- (cichy cien, uraza hoarderow)",
    "od_dnia": "296-09-27",
-   "sila": "swieza, slaba"
+   "sila": "swieza, slaba",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "Mennard (starszy cechu) gada kupcom na Schodach, ze braavijski skryba to partacz bez licencji — nie ufac mu ksiag",
@@ -131,7 +134,10 @@
    "sfera": "kupcy Schodow, rada",
    "znak": "-- (atak na reputacje kupiecka Symona)",
    "od_dnia": "296-09-28",
-   "sila": "rosnie powoli (kolejny kupiec slyszal)"
+   "sila": "rosnie powoli (kolejny kupiec slyszal)",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "braavijska faktorka trzyma przy ksiegach tego nielicencjonowanego skrybe — obcy kryje partacza",
@@ -139,7 +145,10 @@
    "sfera": "kupcy, cech",
    "znak": "- (karmi smear cechu; wiaze Symona z faktoria w oczach wrogow)",
    "od_dnia": "296-09-28",
-   "sila": "slaba, swieza"
+   "sila": "slaba, swieza",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "kupcy Schodow chlodna wobec braavijskiego skryby — 'cech mowi, ze partacz, po co ryzykowac'",
@@ -147,7 +156,10 @@
    "sfera": "kupcy Schodow",
    "znak": "-- (smear laduje: klienci odplywaja, dochod Symona chudnie)",
    "od_dnia": "296-09-29",
-   "sila": "rosnie"
+   "sila": "rosnie",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "Septa wzięla pod opieke tego skrybe, co nakarmil glodnych — teraz PISARZ SEPTY; a cech go zwie partaczem? To juz na Wiare pyskuja",
@@ -155,7 +167,10 @@
    "sfera": "cale miasto, mocno u pobożnych i dolu",
    "znak": "+++ (legitymacja; obraca smear cechu w atak na Wiare)",
    "od_dnia": "296-09-29",
-   "sila": "swieza, bardzo mocna"
+   "sila": "swieza, bardzo mocna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "Vox, respektowany suknik, otwarcie recze za tego pisarza Septy — 'jego ksiegom ufam, sam go biore'",
@@ -163,7 +178,10 @@
    "sfera": "kupcy Schodow",
    "znak": "++ (kontra na smear cechu u zrodla)",
    "od_dnia": "296-09-30",
-   "sila": "swieza, mocna"
+   "sila": "swieza, mocna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "cechmistrz koladziejow reczy za pisarza Septy — caly cech go zna i lubi; a Pisarze? coraz bardziej osamotnieni w tym skrzeczeniu",
@@ -171,7 +189,10 @@
    "sfera": "cechy, kupcy Schodow",
    "znak": "++ (waga guild-to-guild; izoluje Pisarzy)",
    "od_dnia": "296-09-30",
-   "sila": "mocna"
+   "sila": "mocna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "Pisarze wsciekli, ze obcy skryba montuje przeciw nim Wiare i inne cechy — szykuja cos ostrzejszego",
@@ -179,7 +200,10 @@
    "sfera": "cech, Schody",
    "znak": "- (eskalacja: cech szuka brudniejszego kata)",
    "od_dnia": "296-09-30",
-   "sila": "rosnie cicho"
+   "sila": "rosnie cicho",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "nawet Leona, ta co sama prowadzi handel po mezu, reczy za pisarza Septy — Pisarze zostaja sami w tym skrzeczeniu",
@@ -187,7 +211,10 @@
    "sfera": "kupcy Schodow (kobiety w handlu tez)",
    "znak": "++ (trzecie poreczenie; smear cechu obsypuje sie)",
    "od_dnia": "296-09-30",
-   "sila": "mocna"
+   "sila": "mocna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "ten pisarz Septy ma oko — Aldousowi wyniuchal, ze dostawca go skubie; widzi w papierach, czego inni nie",
@@ -195,7 +222,10 @@
    "sfera": "kupcy (drobna)",
    "znak": "+/- (renoma audytora ROSNIE = dochod; ale 'widzi w papierach' moze karmic sondaz cechu 'co on czyta')",
    "od_dnia": "296-10-02",
-   "sila": "slaba, dwuznaczna"
+   "sila": "slaba, dwuznaczna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "pisarz Septy zrobil Voxowi audyt i wskazal palcem, kto go okradal — trafnie, uczciwie; kto ma podejrzenia w ksiegach, idzie teraz do niego",
@@ -203,7 +233,10 @@
    "sfera": "kupcy Schodow",
    "znak": "+++ (renoma audytora; kontra na smear; naplyw pracy)",
    "od_dnia": "296-10-02",
-   "sila": "mocna, rosnie"
+   "sila": "mocna, rosnie",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "ktos po cichu wypytuje na Targu/porcie o tego pisarza Septy — skad przyszedl, czyj byl, zanim tu trafil",
@@ -211,7 +244,10 @@
    "sfera": "port, Targ Rybny",
    "znak": "- (sondaz pochodzenia Symona pelznie — cel: cos, co da sie zaniesc wyzej)",
    "od_dnia": "296-10-03",
-   "sila": "slaba, cicha, uporczywa"
+   "sila": "slaba, cicha, uporczywa",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "pisarz Septy znow zrobil robote czysto — kupcy juz go polecaja jeden drugiemu; smear cechu to przeszlosc",
@@ -219,7 +255,10 @@
    "sfera": "kupcy",
    "znak": "++ (renoma/dochod ustabilizowane)",
    "od_dnia": "296-10-04",
-   "sila": "mocna"
+   "sila": "mocna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "a ten skryba? sierota, maester go liter nauczyl, przyszedl z piorem na poludnie — biedny chlopak, dobry",
@@ -227,7 +266,10 @@
    "sfera": "port, Targ, karczma (wezly Gunthora)",
    "znak": "+++ (defuzuje sondaz cechu: Gunthor dostaje wszedzie ten sam dead-end)",
    "od_dnia": "296-10-05",
-   "sila": "rozchodzi sie, celna"
+   "sila": "rozchodzi sie, celna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "pisarz Septy znow wyniuchal komus, ze go skubia — kupcy pchaja sie do niego z ksiegami",
@@ -235,7 +277,10 @@
    "sfera": "kupcy",
    "znak": "++ (renoma/dochod)",
    "od_dnia": "296-10-06",
-   "sila": "mocna"
+   "sila": "mocna",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   },
   {
    "tresc": "ten pisarz Septy audytuje juz i domom blisko dworu — obyty, uczciwy; renoma pnie sie ku gornym kregom",
@@ -243,7 +288,10 @@
    "sfera": "zamozniejsi, establishment-adjacent",
    "znak": "+ (renoma w gore; ale widocznosc dla dworu=dwuznaczne)",
    "od_dnia": "296-10-08",
-   "sila": "swieza"
+   "sila": "swieza",
+   "status": "ARCHIWUM (rozwiazana/wygasla) - NIE traktowac jako zywa. ",
+   "zasieg": null,
+   "tempo": null
   }
  ]
 }

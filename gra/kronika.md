@@ -4854,3 +4854,6 @@ Po pustej sieci u Aurane — Merek płaci za drogę. Nie dał rutyny, tylko WAŻ
 
 ## 297-05-28 NOC — sen (za zgodą gracza)
 Symon śpi po dobrym dniu: przełom z Mirą (jej krok), kantor, i najtłustszy zarobek u Merka (nowa linia + umowa, +8 jel) po pustej sieci u Aurane. Dzień 05-28 zamknięty. → 297-05-29 RANEK.
+
+## 297-05-29 RANEK — Wyllam (thin, rzut 23)
+Księgi robione świeżo 05-21 (8 dni), tydzień chudy w jego obrocie — ledwie drobny wpis, +2 jel. Relacja durable trzyma. Nauka emergentna: sieć przerobiona świeżo (Rollam, Vox, Merek, Aurane, Wyllam ostatnio) → codzienne polowanie na zarobek daje malejący zwrot krótkoterminowo; robota musi narosnąć.

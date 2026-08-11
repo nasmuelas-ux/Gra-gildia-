@@ -1882,12 +1882,13 @@
    "zawod": "faktor handlowy (zboze/skora) przy Solnym Nabrzezu; rowiesnik-peer Rollama",
    "nastawienie_do_gracza": 32,
    "zaufanie": 10,
-   "ostatni_kontakt": "297-05-21",
+   "ostatni_kontakt": "297-05-29",
    "wie_o_graczu": [
     "297-05-04: NIE poznany jeszcze osobiscie. Ma list polecajacy Rollama (Symon=dyskretny/uczciwy pisarz ksiag). Przyjmie na PROBE na reczeniu Rollama; podejrzliwy jak kazdy faktor, reszte Symon dowiezie sam. Trzeci top-tier prospekt (aggregate visibility!).",
     "297-05-07 RANEK (rzut 55): poznany, list Rollama zadzialal (Rollam glupi nie jest). Dal PROBE - kawalek ksiag zbozowych; Symon zrobil czysto, wyprostowal niespojnosci, pokazal wyciek marzy na rotacji. Proba ZDANA, relacja rusza na raty (proving jak Rollam). Trzeci top-tier klient. nast 10->22, zauf 3->6, +4 jel.",
     "297-05-14 (rzut 87): Symon dowiozl probe czysto (wyprostowal rzeczy bez pouczania). Podejrzliwosc zmiekla: Rollam nie klamal, prosta robote robisz. Wyllam otwiera WIECEJ ksiag - z proby na STALE. Trzeci top-tier klient zakotwiczony. nast 22->32, zauf 10.",
-    "297-05-21 POPOLUDNIE (rzut 32): rutynowa sesja ksiag zbozowych - tydzien chudy, nic do prostowania, robota czysta ale bez fajerwerkow. Relacja trzyma sie mocno (staly klient). +3 jel za robote. nast 32, zauf 10."
+    "297-05-21 POPOLUDNIE (rzut 32): rutynowa sesja ksiag zbozowych - tydzien chudy, nic do prostowania, robota czysta ale bez fajerwerkow. Relacja trzyma sie mocno (staly klient). +3 jel za robote. nast 32, zauf 10.",
+    "297-05-29 RANEK (rzut 23): thin - ksiegi robione swiezo 05-21 (8 dni), tydzien chudy w jego obrocie, ledwie drobny wpis. +2 jel za drobiazg. Relacja durable trzyma (staly klient). NAUKA (emergentna): siec przerobiona swiezo - codzienne polowanie na zarobek daje malejacy zwrot krotkoterminowo, robota musi narosnac."
    ],
    "cechy_mowy": "podejrzliwy, kupiecki, wazy slowa"
   },

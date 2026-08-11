@@ -4924,3 +4924,6 @@ Nie zmęczenie tym razem — zwykły pech ręki. Przy przepisywaniu TESTAMENTU d
 
 ## 297-06-02 NOC — sen (za zgodą gracza)
 Symon śpi po dniu (Denys firewall-clean C2+C3, organizacja 8, Aldous, septa-krytyk). Dzień 06-02 zamknięty. → 297-06-03 RANEK. (Weksle wracają ~06-05.)
+
+## 297-06-03 RANEK — Harlon (przygotowany, rzut 97 KRYTYK)
+Symon wszedł z gotową kolumną oszczędności z przejścia na tani kanał. Twardy Harlon zobaczył twarde liczby = w pełni przekonany. Nie dołożył trochę — ZAMKNĄŁ DUŻY wolumen soli/zapasów na tani ubezpieczony kanał (decydujące przejście). Premium +8 jel. Solidny sojusznik z przekonania. Nast 61→69, zauf 23→27. Duża nowa kotwica POPYTU dla kanału Północ (feeds Torsen/Halvard) + więcej marży dla ramienia ubezpieczeń. Cicho: duży kawał frachtu opuszcza sieć Antaryona — bleed rośnie znacząco, firewall cały (Harlon widzi tylko dobry interes). → POPOŁUDNIE.

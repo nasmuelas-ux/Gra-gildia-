@@ -1266,8 +1266,8 @@
    "przydomek": "",
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
-   "nastawienie_do_gracza": 61,
-   "zaufanie": 23,
+   "nastawienie_do_gracza": 69,
+   "zaufanie": 27,
    "wie_o_graczu": [
     "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca",
     "d23 (rzut 71): reconnect na konkrecie (nie czulosci - twardy solarz). Audyt Symona (faktor go skracal) przekonal go na tyle, ze chce STALEJ uslugi zarzadczej - wziety jako zakotwiczony klient pod DYSKRECJA, za uczciwa cene. Zadatek 2 jel, robota przy ksiegach niebawem. Kontrolowany wzrost pilaru (znany/zaufany kontakt, nie glosny inbound).",
@@ -1282,9 +1282,10 @@
     "297-05-05 (rzut 57): PROOF POKAZANY - oszczednosc frachtu (Gulltown vs Antaryon) czarno na bialym w jego wlasnej kolumnie. Twardy przekonany konkretem ('no. widze. tanieje.') - z brick-luzem na SOLIDNY sojusznik. Sam chce puszczac SOL tanszym kanalem (=+wolumen kanalu, +bleed Antaryona). Zaplacil reszte fee bez zrzedzenia (+3 jel). Erozja koalicji odwrocona konkretem. nast 40->46, zauf 15->17.",
     "297-05-13 (rzut 91): Symon wszedl PRZYGOTOWANY (kolumna+mala proba+tranzyt-insured+cicho). Kolumna rozbroila Harlona (netto taniej nawet po prowizji, nie do podwazenia). Wzial PROBE soli tanszym kanalem (partia-dwie). Raz przekonany myśli dalej: jak chodzi jak piszesz to nie tylko sol tedy puszcze. Sojusznik sam ciagnie woz. +2 jel prowizja recurring. nast 46->52.",
     "297-05-17 (rzut 58): proba soli dopilnowana - pierwsza partia dowieziona tanszym kanalem (taniej w kolumnie + tranzyt-insured). Kanal ciasny przed skalowaniem Halvarda, Symon pilnowal osobiscie (wcisnac sol miedzy drewno bez zatoru) - wcisnelo sie. Harlon bardziej wciagniety, puosci wiecej jak gora urosnie. Sol na razie odmierzana (tempo/reliability). nast 52->55, +2 jel prowizja.",
-    "297-05-23 RANEK (rzut 82): Symon przyniosl READ rynku sol/ryba/fracht jako WLASNY (zrodlo - mapa Ostyna - ukryte, firewall): gdzie luka po kruchym kupcu, gdzie prices miekna teraz (rynek kupujacego po galerze), gdzie fracht wielkich domow bije najmocniej. Twardy Harlon dostal KONKRET - kupil. Postanowil dobrac soli tanio teraz + przesunac wiecej wolumenu na tanszy insured kanal. +4 jel doradcze. nast 55->61, zauf 20->23."
+    "297-05-23 RANEK (rzut 82): Symon przyniosl READ rynku sol/ryba/fracht jako WLASNY (zrodlo - mapa Ostyna - ukryte, firewall): gdzie luka po kruchym kupcu, gdzie prices miekna teraz (rynek kupujacego po galerze), gdzie fracht wielkich domow bije najmocniej. Twardy Harlon dostal KONKRET - kupil. Postanowil dobrac soli tanio teraz + przesunac wiecej wolumenu na tanszy insured kanal. +4 jel doradcze. nast 55->61, zauf 20->23.",
+    "297-06-03 (rzut 97, KRYTYK): Symon wszedl przygotowany - polozyl KOLUMNE oszczednosci z przejscia na tani kanal. Twardy Harlon zobaczyl twarde liczby ile zaoszczedzil = w pelni przekonany, pod wrazeniem. Nie dolozyl troche - ZAMKNAL DUZY wolumen soli/zapasow na tani ubezpieczony kanal (decydujace przejscie). Premium +8 jel. Solidny sojusznik-oredownik z przekonania. nast 61->69, zauf 23->27. (cicho: duzy kawal frachtu opuszcza siec Antaryona - bleed rosnie znaczaco, firewall caly, Harlon widzi tylko dobry interes.)"
    ],
-   "ostatni_kontakt": "297-05-23",
+   "ostatni_kontakt": "297-06-03",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",
    "status": "BLOK anty-Antaryon: CEGLA 3 (potwierdzony d12, rzut 80 — faktor z sieci wielkich domow go skraca). SOLIDNY, zly-bez-strachu (odwrotnie niz Marlon) = wzmacnia kregoslup bloku. Ufa Symonowi, zaplacil.'",
    "historia": [

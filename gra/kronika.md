@@ -5106,3 +5106,7 @@ Dłużnik pilotażowego mostka (10 jel) krótki na wiosnę (norma przednówka, n
 
 ## 297-06-15 RANEK — Harlon (rzut 26 + uczciwy close)
 Symon przyniósł grę cenową na soli (kra dławi podaż + wiosenny połów podbija popyt = cena w górę), firewall trzymał — ale trafił w ZŁĄ oś: acute pain Harlona to LOGISTYKA (jego duży wolumen soli tkwi za zatorem kry, kapitał zamrożony), nie cena. Konkret = zimna pociecha. ALE uczciwy close: „logistyki nie rozwiążę, nie ściemniam; mam trakt na oku, dam znać w godzinie gdy kra puści i sól ruszy". Twardziel docenił prawdę nad sprzedażą. Nast 68→69, zauf 27→28. USTALONE: Symon = trakt early-warning Harlona. PLANT: teza cenowa zasiana. Lekcja: z twardym spanikowanym spryt < rozwiązanie acute bólu; uczciwość ratuje więź.
+
+## 297-06-15 POŁUDNIE — ⭐ RACHUNKI 9→10 MISTRZOSTWO
+Rollam (rzut 72): słuchanie-first — przerwa zagojona, jego catch odzyskany, nowa oś (wzrost interesu = ryzyko przecieku) → zaoferowany samosygnalizujący system, +4 jel. Nast 55→58, zauf 19→21.
+Sesja ksiąg (rzut 35, szara) domknęła RACHUNKI do 10 — PIERWSZA umiejętność na suficie. Chłopak z łatanym płaszczem dobił szczytu rzemiosła: „nie liczy już — widzi". +2 jel. Następne ku 10: czytanie_ludzi 210, prawo 188. Lekcja dnia (Harlon vs Rollam): najlepsze narzędzie rachmistrza to PYTANIE, nie kolumna.

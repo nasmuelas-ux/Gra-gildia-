@@ -4615,3 +4615,6 @@ Sen. Przejscie 05-17 RANEK. Skalowanie kanalu uruchomione (popyt-najpierw), fila
 
 ## 297-05-17 POPOLUDNIE — Harlon: proba soli dopilnowana
 Do Harlona dopilnowac probe (rzut 58). Pierwsza partia soli przeszla tanszym kanalem - taniej niz Antaryon (kolumna) + tranzyt-insured. Kanal ciasny przed rozbudowa Halvarda, Symon pilnowal osobiscie (wcisnac sol miedzy drewno na zamek bez zatoru) - wcisnelo sie. Harlon: 'chodzi jakes pisal' - bardziej wciagniety, puosci wiecej jak gora urosnie. Do tego czasu sol ODMIERZANA nie wolumenem (tempo/reliability). nast 52->55, +2 jel prowizja (-> 10 jel). Liczniki organizacja+1 (105), handel+1 (128). -> POPOLUDNIE.
+
+## 297-05-17 POPOLUDNIE — Ogrod sam (grunt)
+(Zaproszenie Miry ANULOWANE - rzut 14 przerwany interruptem; gracz wstrzymal sie madrze, 2 dni po progu to znow za szybko - dal jej okrzepnac). Zamiast: praca w ogrodzie sam (rzut 53). Grzadki doglednięte, plon idzie (groch/cebula wyrosly w rzedy, kapusta/rzepa z Jonna). Cisza, grunt - godzina, w ktorej Symon nie broker/wspolnik/pisarz, lecz chlopak w wlasnej ziemi (jak Serla wczoraj - potrzebne mlodemu co za szybko rosnie). Mira nast 69 nietknieta (dana przestrzen po progu). Liczniki kondycja+1 (115), rzemioslo+1 (3). -> WIECZOR.

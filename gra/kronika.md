@@ -5178,3 +5178,6 @@ Mistrzowska sesja (rachunki 10) — wyłapana optymalizacja (cykl rozliczeń kon
 
 ## 297-06-19 POPOŁUDNIE/WIECZÓR — odpoczynek, woda
 Symon obrządkowo popatrzył na wodę (studnia napełniona). Dzień dobry i cichy: Serla-arrangement, Godric (kra tnie bieżące drewno, kryje stewarda), kantor (mistrzowska optymalizacja, +3 jel, duma Nesty). → wieczór.
+
+## 297-06-19 WIECZÓR — Septa, pomoc strukturą ciągnięta (rzut 47)
+Symon ciągnie cichą pomoc Wierze strukturą (konsolidacja zakupów, rejestr jałmużny, timing opału) — chude zapasy stretchowane dalej, więcej głodnych najedzonych. Owen (zmęczony) RAD: „tak się to robi, cichym porządkiem nie workiem grosza na widoku; wziąłeś radę o cieniu głębiej niż myślałem". Poręka drogi. Wiara 84 trzyma.

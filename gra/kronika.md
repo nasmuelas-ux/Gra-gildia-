@@ -5103,3 +5103,6 @@ Septa: księgi jałmużny coraz cięższe (przednówek gryzie). Owen (rzut 29): 
 
 ## 297-06-15 RANEK — pilot-extension przedłużony
 Dłużnik pilotażowego mostka (10 jel) krótki na wiosnę (norma przednówka, nie flaga) wrócił przedłużyć — Symon zrolował: 10 jel dalej deployed + drobna opłata (+1 jel). Pilot UDOWODNIONY → skalowalny (mostek-kredyt działa, dłużnicy pewni). Relacja utrzymana.
+
+## 297-06-15 RANEK — Harlon (rzut 26 + uczciwy close)
+Symon przyniósł grę cenową na soli (kra dławi podaż + wiosenny połów podbija popyt = cena w górę), firewall trzymał — ale trafił w ZŁĄ oś: acute pain Harlona to LOGISTYKA (jego duży wolumen soli tkwi za zatorem kry, kapitał zamrożony), nie cena. Konkret = zimna pociecha. ALE uczciwy close: „logistyki nie rozwiążę, nie ściemniam; mam trakt na oku, dam znać w godzinie gdy kra puści i sól ruszy". Twardziel docenił prawdę nad sprzedażą. Nast 68→69, zauf 27→28. USTALONE: Symon = trakt early-warning Harlona. PLANT: teza cenowa zasiana. Lekcja: z twardym spanikowanym spryt < rozwiązanie acute bólu; uczciwość ratuje więź.

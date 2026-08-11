@@ -1293,7 +1293,7 @@
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
    "nastawienie_do_gracza": 69,
-   "zaufanie": 27,
+   "zaufanie": 28,
    "wie_o_graczu": [
     "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca",
     "d23 (rzut 71): reconnect na konkrecie (nie czulosci - twardy solarz). Audyt Symona (faktor go skracal) przekonal go na tyle, ze chce STALEJ uslugi zarzadczej - wziety jako zakotwiczony klient pod DYSKRECJA, za uczciwa cene. Zadatek 2 jel, robota przy ksiegach niebawem. Kontrolowany wzrost pilaru (znany/zaufany kontakt, nie glosny inbound).",
@@ -1309,9 +1309,10 @@
     "297-05-13 (rzut 91): Symon wszedl PRZYGOTOWANY (kolumna+mala proba+tranzyt-insured+cicho). Kolumna rozbroila Harlona (netto taniej nawet po prowizji, nie do podwazenia). Wzial PROBE soli tanszym kanalem (partia-dwie). Raz przekonany myśli dalej: jak chodzi jak piszesz to nie tylko sol tedy puszcze. Sojusznik sam ciagnie woz. +2 jel prowizja recurring. nast 46->52.",
     "297-05-17 (rzut 58): proba soli dopilnowana - pierwsza partia dowieziona tanszym kanalem (taniej w kolumnie + tranzyt-insured). Kanal ciasny przed skalowaniem Halvarda, Symon pilnowal osobiscie (wcisnac sol miedzy drewno bez zatoru) - wcisnelo sie. Harlon bardziej wciagniety, puosci wiecej jak gora urosnie. Sol na razie odmierzana (tempo/reliability). nast 52->55, +2 jel prowizja.",
     "297-05-23 RANEK (rzut 82): Symon przyniosl READ rynku sol/ryba/fracht jako WLASNY (zrodlo - mapa Ostyna - ukryte, firewall): gdzie luka po kruchym kupcu, gdzie prices miekna teraz (rynek kupujacego po galerze), gdzie fracht wielkich domow bije najmocniej. Twardy Harlon dostal KONKRET - kupil. Postanowil dobrac soli tanio teraz + przesunac wiecej wolumenu na tanszy insured kanal. +4 jel doradcze. nast 55->61, zauf 20->23.",
-    "297-06-03 (rzut 97, KRYTYK): Symon wszedl przygotowany - polozyl KOLUMNE oszczednosci z przejscia na tani kanal. Twardy Harlon zobaczyl twarde liczby ile zaoszczedzil = w pelni przekonany, pod wrazeniem. Nie dolozyl troche - ZAMKNAL DUZY wolumen soli/zapasow na tani ubezpieczony kanal (decydujace przejscie). Premium +8 jel. Solidny sojusznik-oredownik z przekonania. nast 61->69, zauf 23->27. (cicho: duzy kawal frachtu opuszcza siec Antaryona - bleed rosnie znaczaco, firewall caly, Harlon widzi tylko dobry interes.)"
+    "297-06-03 (rzut 97, KRYTYK): Symon wszedl przygotowany - polozyl KOLUMNE oszczednosci z przejscia na tani kanal. Twardy Harlon zobaczyl twarde liczby ile zaoszczedzil = w pelni przekonany, pod wrazeniem. Nie dolozyl troche - ZAMKNAL DUZY wolumen soli/zapasow na tani ubezpieczony kanal (decydujace przejscie). Premium +8 jel. Solidny sojusznik-oredownik z przekonania. nast 61->69, zauf 23->27. (cicho: duzy kawal frachtu opuszcza siec Antaryona - bleed rosnie znaczaco, firewall caly, Harlon widzi tylko dobry interes.)",
+    "297-06-15 (rzut 26 + uczciwy close): Symon przyniosl grе cenowa na soli (kra dlawi podaz + wiosenny polow podbija popyt = cena w gore) - firewall trzymal, ale trafil w ZLA os: acute pain Harlona to LOGISTYKA (jego duzy wolumen soli tkwi za zatorem kry w gorze rzeki, kapital zamrozony), nie cena. Konkret = zimna pociecha. ALE Symon zagral UCZCIWY close: \"logistyki ci nie rozwiaze, nie bede sciemniac; ale mam trakt na oku - dam znac w godzinie gdy kra puści i sol ruszy, bys byl pierwszy\". Twardziel docenil PRAWDE nad sprzedaza (nie ufa gawedziarzom). nast 68->69, zauf 27->28. USTALONE: Symon = trakt early-warning Harlona. PLANT: teza cenowa zasiana (jak sol podrozeje, Symon prescient)."
    ],
-   "ostatni_kontakt": "297-06-03",
+   "ostatni_kontakt": "297-06-15",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",
    "status": "BLOK anty-Antaryon: CEGLA 3 (potwierdzony d12, rzut 80 — faktor z sieci wielkich domow go skraca). SOLIDNY, zly-bez-strachu (odwrotnie niz Marlon) = wzmacnia kregoslup bloku. Ufa Symonowi, zaplacil.'",
    "historia": [

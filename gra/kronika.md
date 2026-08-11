@@ -5091,3 +5091,6 @@ Vox (rzut 59): domknięty stały dyskretny audyt (retainer ~3 jel/przegląd, +3 
 Księga kredytowa (rzut 86): zdrowa, dobór dłużników się opłacił, +5 jel marży, popyt na kapitał = miejsce na wzrost.
 Kantor sesja (rzut 47): solidnie bez catcha, +2 jel, spring volume podciągnięty. Wick dzień 5 — złapał rytm.
 Sakiewka po dzisiejszym dochodzie: 41 jel + 6 mied. Rachunki licznik ~241 (9 od mistrzostwa).
+
+## 297-06-14 POŁUDNIE — realokacja kapitału (z Nestą)
+Symon: 200 jel (1 smok) z depozytu → rotacja faktorii (50→250). 6 jel reszty depozytu → kieszeń. Depozyt wyzerowany. (Dach ogarnięty — rezerwa niepotrzebna; Nesta zaznaczyła, że własna księga kredytowa Symona bije jej rotację, ale Symon wybrał rotację — jego decyzja.) Nowy bilans: wolne 47 jel + 6 mied · rotacja 250 · weksle 110 · depozyt 0 · razem ~407 jel.

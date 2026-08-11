@@ -5148,3 +5148,6 @@ Symon ulokował 50 jel w nową partię weksli/mostka-kredyt (wiosenny popyt real
 
 ## 297-06-17 NOC — sen (dzień dobry i pracowity)
 Aurane (rzut 69, bez łowienia — rozbrojony, przyszła robota), księgi cechu (+5 jel, Boren szuka lokalnego drewna), Elna (zdrowieje, ratunek potwierdzony), +50 jel w weksle (160). Majątek ~421 jel (2,11 smoka). → 297-06-18 RANEK (weksle batch2 wracają).
+
+## 297-06-18 RANEK — weksle batch2 zwrot
+Batch2 (50 jel, ulokowana 05-29) wróciła: 50 principal + ~6 jel marży = +56 jel. Weksle 160→110, wolne 11→67. Mostek-kredyt działa jak ma. Płynność wróciła.

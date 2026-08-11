@@ -5142,3 +5142,6 @@ Czysta sesja ksiąg cechu kołodziejów, dalsza optymalizacja graded-drewna + dr
 
 ## 297-06-17 POPOŁUDNIE — Elna (rzut 58, ludzka wizyta)
 10 dni po ratunku. Elna ZDROWIEJE dobrze — na nogach, gorączka minęła, leki siostry + cechowa rota działają, je. Znów sobą — giver: nakarmiła, ceruje rękaw, błogosławi. Symon pozwolił jej dawać (godność) pilnując czujnie, że sama zadbana (nie chowa braku). Lorren odstraszony, o warsztat spokojniej. Ratunek 06-07 potwierdzony jako realne dobro. Nast 52→55.
+
+## 297-06-17 WIECZÓR — inwestycja 50 jel w weksle
+Symon ulokował 50 jel w nową partię weksli/mostka-kredyt (wiosenny popyt realny, dobór dłużników okiem — rachunki 10). Weksle 110→160, wolne 61→11. Płynność chwilowo cienka (11 jel) ale batch2 (~50 jel z marżą) wraca jutro ~06-18. Kapitał rozstawiony agresywnie.

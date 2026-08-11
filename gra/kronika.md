@@ -5066,3 +5066,6 @@ Symon wrócił do siebie, chwila nad wodą (stosuje naukę dnia). Dokładny audy
 
 ## 297-06-12 NOC — sen (dzień dobry)
 Symon świadomie patrzył chwilę na wodę (stosuje naukę), przeliczył skille (retoryka 7→8). Dzień lekcji o puszczaniu: Mira odłożona, Braavos = cierpliwość (Nesta), praca ≠ studnia (kantor/Boren szary grind), a Theo (rzut 89) sam uchylił drzwi wiedzy — bo Symon przestał grasować. → 297-06-13 RANEK.
+
+## 297-06-13 RANEK — Merek (rzut 62)
+Ciepły reconnect (16 dni) + realna robota: Symon ustawił/pchnął czyste księgi nowej wiosennej linii dostaw Merka — solidnie, jeden pożyteczny catch/struktura. Motyw: Merek, raz sparzony zdradą wspólnika, buduje teraz CZYSTO OD STARTU z Symonem jako zaufanym okiem — zero miejsca na skim od pierwszego dnia. Peace of mind dostarczony. +5 jel. Harlon wspomniany lekko (węzeł sieci — nienaciskane). Nast 66→68, zauf 21→23. Rachunki licznik 236 (14 od mistrzostwa).

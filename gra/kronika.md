@@ -5242,3 +5242,6 @@ Wynegocjowana rama silent-partnera firmy: Nesta ~⅓ zysku (kapitał+charter-zap
 
 ## 297-06-23 POŁUDNIE — Boren księgi cechu (rzut 50)
 Czysta sesja, +4 jel, pozycja/goodwill u cechu potwierdzone (cichy filar frontu cechu pisarzy). LOKALNE DREWNO: Boren firmuje trop — konkretny POMNIEJSZY POSIADACZ (drobny właściciel ziemi z borem pod miastem, cuttable drewno ale zero kanału do zamku, „uczciwy ale bez głowy do handlu"). Oferuje PRZEDSTAWIĆ Symona (bez pośpiechu, kra dusi zamek). Lokalny kra-odporny kanał drewna dostał pierwszy realny adres. Wolne 15 jel.
+
+## 297-06-23 KOREKTA (gracz) — lokalne drewno = OKAZJA teraz (nie „na później")
+Boren „bez pośpiechu, kra dusi zamek" BŁĘDNE — lokalne drewno idzie LĄDEM, kra go nie dotyczy (jego sens od 06-14). Odwrotnie: kra zamroziła rzekę → zamek KRÓTKI na drewno TERAZ → lokalny bór (kra-odporny) może wypełnić dziurę, gdy rzeka nie wozi = TIMELY OKAZJA. Spina: Godric (zamek krótki) + trop Borena (pomniejszy posiadacz) + Symon broker. Ruszać JUŻ, nie czekać.

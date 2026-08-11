@@ -5276,3 +5276,6 @@ Bennet podpisał (lojalny dostawca, idle wood→grosz, traktowany uczciwie). God
 
 ## 297-06-25 POPOŁUDNIE — Nesta podpisała: firma domknięta na papierze (rzut 47)
 Symon zaniósł do kantoru wykrojone przez Torrena papiery firmy cichego wspólnika. Terminy pre-uzgodnione (⅓/⅔ + kontrola Symona, Nesta silent backer), więc nie było targu — było CZYTANIE i podpis. Nesta (ostrożna o kapitał) dopięła: zabezpieczenie/priorytet jej wkładu, ZERO publicznej twarzy (jej imię NIGDY na rejestrze rady — tylko Symon), i doradziła NIE spieszyć rejestracji rady w tym tygodniu — zrobić czysto DOPIERO gdy front czeladników (Hal/Wick) zweryfikowany i firewall od cechu/Antaryona szczelny, bo rejestracja = publiczna widoczność firmy. OBAJ pryncypałowie związani na papierze. Zostało: staranna rejestracja rady. Zauf Nesty 48→49; syt 40, zmęcz 39. Wieczór wolny; batch3 ~06-27.
+
+## 297-06-25 WIECZÓR/NOC — jadło i sen (dzień domknął firmę i drewno)
+Symon zjadł prosto u siebie w izbie 4 (koza, ciepła strawa; -2 mied), zwalił zmęczenie snem. Dzień zamknięty mocno: rano podpisy drewna (Bennet+Godric, kanał żywy/legalny), popołudniem podpis Nesty pod firmę (oba podpisy zebrane). Syt 75, zmęcz 10, zdrowie 100. → 297-06-26 RANEK (pogodny dzień odwilży). Otwarte: staranna rejestracja rady firmy; batch3 ~06-27.

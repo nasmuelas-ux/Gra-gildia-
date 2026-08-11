@@ -4939,3 +4939,6 @@ Realne znaleziska (nie korupcja — septoni to nie ludzie liczb): dostawcy przeb
 
 ## 297-06-03 NOC — sen (za zgodą gracza)
 Symon śpi po dobrym dniu (Harlon krytyk-kanał, Torsen puls, oferta+audyt jałmużny Sepcie). Dzień 06-03 zamknięty. → 297-06-04 RANEK. (Weksle wracają ~06-05; do zrobienia: tańsza dostawa dla Septy.)
+
+## 297-06-04 RANEK — wywiad: kto/jak zaopatruje Septę (rzut 66)
+Przed podmianą: sukno i ziarno — dostawcy zwyczajni, bez klutu, bezpiecznie podmienialni. ALE świece/wosk — obecny dostawca to wieloletni provider z osobistą więzią goodwillu do jednego ze STARSZYCH septonów (stara lojalność). Podmiana na Denysa na ostro ukłułaby tego septona i wyglądałaby jak Symon rzuca ciężarem wewnątrz Wiary. Wniosek: zacząć od sukna (Leona, tanio teraz), potem ziarno; świece delikatnie/face-saving albo odłożyć.

@@ -4603,3 +4603,6 @@ Wizyta po ludzku u Serli (rzut 69). Nakarmila, trzymala przy ziemi po swojemu ('
 
 ## 297-05-16 POPOLUDNIE — Donnel: pierwsza kotwica popytu (graded-drewno)
 Do Donnela (rzut 60) - reconnect cieply (szczyt sezonu, znalazl chwile). Graded-drewno trafilo w jego bol (drewno jak popadnie, krzywe/mokre psuje robote). ZAMKNAL staly odbior graded-drewna na normie ('stala jakosc do ktorej nie musze zagladac - biore'). PIERWSZA gruba kotwica popytu pod skalowanie gory (Donnel buduje duzo - Bialy Mur, czesc Nowego Zamku). Feeds plan popyt-najpierw: przyniesc te pewnosc Torsenowi/Halvardowi -> skaluja sami; tempowac (1 kotwica, nie przeladowac). nast 46->52, zauf 14. UMIEJETNOSC HANDEL 7->8 (licznik 125, praktyka brokera/kanalow/kredytu). Liczniki handel+1 (125), czyt+1 (159). -> WIECZOR.
+
+## 297-05-16 WIECZOR — Godric: popyt graded-supply rosnie
+Ksiegi Godrica (+3 jel -> 8 jel) + wypytanie o graded-supply (rzut 64). Godric (insider dostaw zamku): zamek wzialby WIECEJ graded-drewna gdyby szlo pewnie (kanal/prowizja Symona) + wskazal DWA DOMY klnace na niepewna jakosc jak Donnel = naturalni chetni. Aggregate popyt: Donnel(zamkniety)+apetyt zamku+2 leady - dosc pod skalowanie gory. NEXT: przyniesc te pewnosc Torsenowi/Halvardowi (popyt-najpierw), TEMPOWAC do pojemnosci sezonu (reliability). Godric nast 70. Liczniki rachunki+1 (196), handel+1 (126). -> noc.

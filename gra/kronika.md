@@ -4839,3 +4839,6 @@ Decyzja o kamieniczce: B — zostawić dług, niech czynsz niesie (kapitał-ligh
 
 ## 297-05-28 RANEK — Mira: PRZEŁOM (rzut 93)
 Po całej cierpliwości i zrozumieniu — MIRA SAMA zrobiła krok. Z własnej woli wzięła jego dłoń (odwrócenie 05-15), nie puściła; powiedziała wprost, że przestała się go bać, bo POKAZAŁ jej (nie obiecał), że bycie z nim nie zrobi jej mniejszą. Pierwszy pocałunek — z jej inicjatywy. Próg przekroczony na JEJ warunkach: ze slow-burn w wzajemnie uznaną wczesną bliskość. Nie zaślubiny (to lata), ale to już jest — realne, wybrane przez nią. Metoda Nesty+Serli (cierpliwość + równość + zero nacisku) dowiozła. Nast 71→78, zauf 27→32.
+
+## 297-05-28 RANEK (c.d.) — zostaje z Mirą
+Symon został po pocałunku zamiast wyjść triumfalnie — znów dokładnie to, czego jej trzeba (to nie zdobycz, on po prostu chce być). Siedzieli, gadali o drobnych prawdziwych rzeczach jak równi. Konsolidacja przełomu, nie napieranie. Zauf 32→33.

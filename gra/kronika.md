@@ -5033,3 +5033,6 @@ Symon przyprowadził Wicka. Boren przed majstrami formalnie zwolnił go z błogo
 
 ## 297-06-09 POŁUDNIE — Hal przyjmuje Wicka, Symon honoruje dar
 Hal zgodził się dzielić izbę 3 z Wickiem (dar — jego pierwszy własny kąt). Symon uhonorował mądrze (lekcja 05-30): NIE jałmużna — obniżka czynszu jako ZAPŁATA ZA USŁUGĘ goszczenia klerka („nie bierzesz, DAJESZ") + szczere po ludzku dzięki. Trafił w oba nerwy: uhonorowany jako dający, nie żałowany jako biorący. Hal zaoferował uczyć Wicka liter wieczorami. Nast 90→92, zauf 48→49. Czynsz Hala ~2→~1 jel/mies. WICK: dach solved (izba 3 z Halem + korepetytor czytania). Cały łuk Wicka domknięty: fach + pensja 3 jel + zwolnienie/benedykcja + dach + nauczyciel liter.
+
+## 297-06-09 POŁUDNIE — Kantor, nowy skład (rzut 68)
+Symon+Nesta (biznes), Hal (realna robota), Wick (pierwszy dzień, podstawy — Hal wprowadza). Nesta praktycznie zaakceptowała Wicka (długi rozbieg, ale ufa osądowi Symona; koszt 3 jel/mies to jego strona). Wiosenny wolumen podciągnięty większą liczbą rąk. Ciepły, produktywny zespół. Dla Wicka: humbling, ale JEST częścią czegoś — po wczorajszej rozpaczy to dużo.

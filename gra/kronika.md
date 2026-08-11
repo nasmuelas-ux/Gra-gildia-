@@ -5048,3 +5048,6 @@ Symon przyszedł dograć Wicka — właściwie: nie dekret nad głową, lecz „
 
 ## 297-06-10 POŁUDNIE — Vox (rzut 61)
 Ciepły reconnect po 16 dniach + zarządzony OPSEC. Probe: Vox przez 16 dni gadał (duma/wdzięczność) — sława „dyskretnego rachmistrza" rozeszła się wśród kilku kupców sukna (benign channel, potencjalni klienci), ale BRAK śladu dojścia do cechu pisarzy (groźny wektor czysty). Reframe zadziałał lepiej (pełniejszy plan): dyskrecja=wspólny sekret przewagi + konkretny dyskretny sposób wdzięczności (cicha rekomendacja tylko zaufanym, framing „dyskretny rachmistrz" nie „łowca złodziei") → steruje ku KONTROLOWANEJ pozytywnej ramie (Faza B spójne). Supplier gap: Symon pomógł OKIEM (jak sprawdzić miarę/umowę) nie ręczeniem. Cloth intel: glut trwa, wełna>sukno. +2 jel. Nast 68→70, zauf 23→24.
+
+## 297-06-10 POPOŁUDNIE — Aldous, przyjaciel przy kubku (rzut 56)
+Ciepły, restauracyjny kubek po kilku dniach intensywnego dawania (Elna/Wick/Hal). Firewall UTRZYMANY (wino się lało, Antaryon zapieczętowany). Symon ostrożnie się odciążył (Wick — chłopcu dane całe nowe życie). Aldous przeczytał nastrój i dał mądrość przyjaciela: zauważył, że Symon LEJE w każdego — i spytał cicho „a kto leje w CIEBIE?". Mira: patrz mądrze, rzeczy rosną jak chcą, cierpliwość. Symon wyszedł lżejszy, dolany przyjaźnią. Nast 83→84, zauf 21→22.

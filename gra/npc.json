@@ -1397,9 +1397,9 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 83,
-   "zaufanie": 21,
-   "ostatni_kontakt": "297-06-02",
+   "nastawienie_do_gracza": 84,
+   "zaufanie": 22,
+   "ostatni_kontakt": "297-06-10",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
@@ -1417,7 +1417,8 @@
     "297-04-30 RANEK (rzut 100, KRYT): Bran doreczyl zaproszenie o swicie - trzezwy Aldous zareagowal PIEKNIE. Wstyd za pijackie slowa, odpisal OD RAZU: przyjdzie wieczorem, i SAM WZIAL swoja czesc winy ('twoj pan ma racje, siedzialem na tylku trzy tygodnie tez'). Przyslal z Branem dzban swojego najlepszego jako gest. Reciprocity zadzialalo: Symon wyciagnal reke+poprosil o pol drogi, Aldous przeszedl swoja. Pojednanie ~domkniete (pelnia wieczorem przy kubku); polecenie do Corla prawdopodobnie wroci gdy pogadaja. nast 60->66 (wiekszosc spadku odrobiona), reszta+referral wieczorem.",
     "297-04-30 WIECZOR: przyszedl na Schody DO Symona (jego ruch domkniety) - pojednanie pelne. Wstyd za pijacki wieczor, wzial swoja czesc winy szczerze; obejrzal nowe lokum, siedzieli przy jego winie jak dawni przyjaciele. POLECENIE do Corla PRZYWROCONE (nawet cieplejsze - 'poślę, i powiem mu ze jesteś porzadny'), kolejne ladunki ubezpieczen znow otwarte. Wiez glebsza niz przed sprzeczka (przeszli przez tarcie i wyszli mocniejsi). nast 66->74, zauf 17->19.",
     "297-05-17 NOC (rzut 96): pozny kubek po frustrujacym dniu. Aldous (bez szczegolow - firewall) czyta nastroj i daje madrosc: rzeczy rosna jak chca (drzewo/dziecko/przyjazn/Polnoc), nie przyspieszysz krzykiem/smokami; masz dach/imie/kogo co nalewa o polnocy. Sciana przekuta w tempo Polnocy nie porazke. Przyjazn najglebsza dotad (przetestowana klotnia+naprawiona). Znowu szturchnal \"znajdz se kogo\" - Symon mysli o Mirze, nie mowi. Samotnosc sekretu mocno lzejsza. nast 76->81.",
-    "297-06-02 (rzut 63): cieplа przyjacielska wizyta. Symon podzielil sie (ostroznie, bez bloku - Aldous czyta nastroj nie szczegoly) wiescia o MIRZE - Aldous, ktory mowil mu \"znajdz se kogo\", uradowany (\"a nie mowilem\"). Grounding, najgleбsza przyjazn, samotnosc sekretu jeszcze lzejsza. nast 81->83."
+    "297-06-02 (rzut 63): cieplа przyjacielska wizyta. Symon podzielil sie (ostroznie, bez bloku - Aldous czyta nastroj nie szczegoly) wiescia o MIRZE - Aldous, ktory mowil mu \"znajdz se kogo\", uradowany (\"a nie mowilem\"). Grounding, najgleбsza przyjazn, samotnosc sekretu jeszcze lzejsza. nast 81->83.",
+    "297-06-10 (rzut 56): cieply, restauracyjny kubek - Symon przyszedl jak przyjaciel po kilku dniach intensywnego dawania (Elna/Wick/Hal). Firewall UTRZYMANY (wino sie lalo, Antaryon zapieczetowany). Symon ostroznie odciazyl sie (Wick - chlopcu dane cale nowe zycie). Aldous przeczytal nastroj i dal madrosc przyjaciela: zauwazyl, ze Symon LEJE w kazdego - i spytal cicho \"a kto leje w CIEBIE?\". Mira: patrzcie madrze, rzeczy rosna jak chca, cierpliwosc. Symon wyszedl lzejszy, dolany przyjaznia. nast 83->84."
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
    "historia": [

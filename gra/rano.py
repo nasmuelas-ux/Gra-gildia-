@@ -69,8 +69,9 @@ def main():
     dep_mied = p.get('depozyt_u_nesty_mied', 0)
     inwest = p.get('inwestycja_faktoria_jel', 0)
     weksle = p.get('weksle_wystawione_jel', 0)
+    zabezp = p.get('pozyczka_zabezpieczona_jel', 0)
     dep_jel = dep_mied / 100.0
-    razem_jel = jel + mied/100.0 + dep_jel + inwest + weksle
+    razem_jel = jel + mied/100.0 + dep_jel + inwest + weksle + zabezp
     wolne = f"{jel} jel + {mied} mied" + (f" + {smoki} smok" if smoki else "")
     out.append("")
     out.append(f"💰 HAJS   wolne: {wolne}")
@@ -78,6 +79,7 @@ def main():
     if dep_mied: skrot.append(f"depozyt {dep_jel:.2f} jel")
     if inwest:   skrot.append(f"rotacja {inwest} jel (~zwrot)")
     if weksle:   skrot.append(f"weksle {weksle} jel")
+    if zabezp:   skrot.append(f"pozyczka zabezp. {zabezp} jel")
     if skrot:
         out.append("          " + " · ".join(skrot))
     out.append(f"          razem ≈ {razem_jel:.2f} jel ≈ {razem_jel/200:.2f} smoka")

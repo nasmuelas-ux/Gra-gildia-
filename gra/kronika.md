@@ -5151,3 +5151,6 @@ Aurane (rzut 69, bez łowienia — rozbrojony, przyszła robota), księgi cechu 
 
 ## 297-06-18 RANEK — weksle batch2 zwrot
 Batch2 (50 jel, ulokowana 05-29) wróciła: 50 principal + ~6 jel marży = +56 jel. Weksle 160→110, wolne 11→67. Mostek-kredyt działa jak ma. Płynność wróciła.
+
+## 297-06-18 RANEK — inwestycja 50 jel w mostek ZABEZPIECZONY
+Symon ulokował 50 jel w pożyczkę zabezpieczoną (pod zastaw/kolaterał) — bezpieczniejsze niż niezabezpieczone weksle, mniejsza marża za mniejsze ryzyko. Nowa pozycja bilansu: pozyczka_zabezpieczona_jel=50. Wolne 67→17. (rano.py zaktualizowany o tę linię). Kapitał bezpieczniej rozstawiony po agresywnej fazie.

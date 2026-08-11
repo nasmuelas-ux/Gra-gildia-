@@ -4942,3 +4942,6 @@ Symon śpi po dobrym dniu (Harlon krytyk-kanał, Torsen puls, oferta+audyt jałm
 
 ## 297-06-04 RANEK — wywiad: kto/jak zaopatruje Septę (rzut 66)
 Przed podmianą: sukno i ziarno — dostawcy zwyczajni, bez klutu, bezpiecznie podmienialni. ALE świece/wosk — obecny dostawca to wieloletni provider z osobistą więzią goodwillu do jednego ze STARSZYCH septonów (stara lojalność). Podmiana na Denysa na ostro ukłułaby tego septona i wyglądałaby jak Symon rzuca ciężarem wewnątrz Wiary. Wniosek: zacząć od sukna (Leona, tanio teraz), potem ziarno; świece delikatnie/face-saving albo odłożyć.
+
+## 297-06-04 RANEK — Leona: sukno dla Septy (rzut 63)
+Symon przyniósł Leonie odbiór sukna dla Septy jako fair interes (stała Wiara-custom + dobre imię, ona daje uczciwą cenę z zalewu — tanio). Wzięła chętnie, wygrana obopólna. Stary dostawca cicho odpuszczony („Septa znalazła lepszą cenę") — zero wroga. Septa ubiera biednych taniej. Nast 72→74, zauf 29→30. NEXT: ziarno (faktoria), świece (Denys — delikatnie). → POPOŁUDNIE.

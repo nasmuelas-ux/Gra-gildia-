@@ -4796,3 +4796,7 @@ Po tyg+. Rollam (większy obrót) miał toczący się wycinek ksiąg — Symon s
 
 ## 297-05-26 POPOŁUDNIE — głębsza księga Rollama (rzut 68)
 Symon od razu wziął się za głębsze przejście księgi — realny catch: należność od jednego kontrahenta starzeje się za daleko (blisko granicy łatwej ściągalności). Oznaczył, by Rollam ścigał ją teraz, póki zbieralna. Ochroniona realna kasa. Poważny operator ceni catch wysoko — zaufanie skoczyło. +6 jel. Nast 51→55, zauf 17→19.
+
+## 297-05-26 WIECZÓR — Serla (rada ws. Miry, rzut 42)
+Symon poprosił Serlę — starą wdowę — o radę w zalotach do Miry (też wdowy). Poruszona szacunkiem. Earthy widow-wisdom: wdowa, która stała sama, nie boi się być kochana — boi się być wciśnięta w kąt przez czyjąś potrzebę. „Bądź chłopem, od którego mogłaby odejść, a wybiera zostać — nie takim, którego nie może zostawić." Nie naprawiaj jej życia. Cierpliwość. Potwierdza kierunek Nesty z cieplejszej strony. Nast 56→58, zauf 11→13.
+Uwaga: pełny re-roof kamieniczki wg ksiąg NIE odebrany — gated na odwilż (teraz przyszła), ~20 jel salda do dopłaty. Wątek dach_domkniecie do zamknięcia z Donnelem.

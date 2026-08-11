@@ -173,7 +173,7 @@
     "297-04-22 WIECZOR (rzut 58): ULGA CHWYCILA - 6 dni po pomocy dom oddycha. Alys zarabia u Jonny (igla), Bran z podniesiona pensja nie liczy kazdego miedziaka; wrocila lekkosc. Alys cieplejsza/smielsza wobec Symona (nie groźny dobroczynca, lecz czlowiek co ogarnal po sasiedzku). Nakarmili go. Rodzina stanela na nogi. nast 81 hold."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-05-01",
+   "ostatni_kontakt": "297-05-19",
    "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
    "historia": [
     "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",
@@ -1065,8 +1065,8 @@
    "id": "alys_narzeczona_brana",
    "imie": "Alys",
    "zawod": "ZONA Brana (slub 297-04-07, Symon swiadek); sluzy w karczmie Pod Syrenim Ogonem + szyje u Jonny",
-   "nastawienie_do_gracza": 8,
-   "ostatni_kontakt": "297-04-22",
+   "nastawienie_do_gracza": 10,
+   "ostatni_kontakt": "297-05-19",
    "wie_o_graczu": [
     "297-04-22: cieplejsza/smielsza wobec Symona - zarabia u Jonny (igla), dom oddycha; widzi w Symonie czlowieka co ogarnal po sasiedzku, nie grozdnego dobroczynce.",
     "KOREKTA 297-05-19: Alys jest ZONA Brana od slubu 297-04-07 (Symon byl swiadkiem), nie narzeczona. Pole zawodu bylo stale."

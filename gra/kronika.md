@@ -4675,3 +4675,6 @@ Odpoczynek, potem do Aurane (inbound - przyslal po ksiegi; rzut 84). Wiosenne ks
 
 ## 297-05-19 — KOREKTA (wylap gracza): Bran i Alys SA po slubie (04-07)
 Gracz slusznie: 'oni sa juz po weselu'. Kanon: 297-04-07 SLUB Brana i Alys, Symon swiadek; od 04-16/04-22 zyja jako rodzina. Kartoteka Alys byla STALA ('narzeczona') - poprawione na ZONA Brana. Moje 'grosz na wesele co sie zbieral' bylo bledem ze starego pola. Wizyta u Brana grana odtad poprawnie (malzenstwo, osiedli).
+
+## 297-05-19 poany WIECZOR — Bran i Alys: cicha rodzinna chwila
+Wizyta u Brana (rzut 20, low-key). Osiedli w malzenstwie (slub 04-07), zmeczeni (dozorstwo+praca+swieze malzenstwo) ale SPOKOJNI - podniesiona pensja Brana + zarobek Alys trzymaja dom nad woda. Nic wielkiego, cicha ciasna kolacja, Symon przy nich. 'Dobrze zes jest panie, nie zapominasz o swoich.' Grunt: za ksiegami/gra cieni zwykle cieple zycie ludzi co lubia Symona za to kim jest. Bran 81 hold, Alys 8->10. Licznik czyt+1 (166; poziom 9, do 10 prog 250). -> noc.

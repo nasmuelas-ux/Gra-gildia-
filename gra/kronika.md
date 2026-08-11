@@ -4690,3 +4690,6 @@ Audyt ksiag Mereka (rzut 62). CZYSTE - nikt go nie strzyze (zdrada partnera byla
 
 ## 297-05-20 WIECZOR — Godric: ksiegi (filar)
 Praca u Godrica (rzut 40, marginal). Ksiegi domu odrobione, prowizja+transit-compound kapie, +3 jel (-> 43). Kanal mieli w tempie Polnocy (Halvard organicznie, popyt zamkniety w kolejce). Godric nast 70. Liczniki rachunki+1 (203), organizacja+1 (108). -> noc.
+
+## 297-05-20 WIECZOR — Faktoria: jalowy wieczor (glod/zmeczenie)
+Praca z Halem (rzut 13). Nie zla robota - Symon NIE JADL (syt niska), dzien dlugi, cialo wzielo swoje: litery plywaly, weryfikacja sie plątala, Hal slip zlapany dopiero za drugim spojrzeniem. Nesta: 'idz jesc i spac, glodny zrobisz wiecej szkody niz pozytku'. Zwinal sie, niewiele zdzialawszy. Syt 30->20, zmecz 35. Nauka: pusty brzuch tepi nawet mistrza rachunkow. Licznik audyt+1 (142). -> noc.

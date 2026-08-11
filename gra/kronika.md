@@ -4738,3 +4738,6 @@ Praca nad księgami drewna zamkowego poszła bokiem — nie z winy Symona. Przy 
 
 ## 297-05-23 POPOŁUDNIE — rozplątywanie niezgodności (rzut 41, częściowo)
 Po odpoczynku Symon odbudował stronę Godrica airtight: rejestr = tally = znak woźnicy, pełna dostawa udokumentowana. Godric odetchnął — ma czym pokazać zamkowi. Wniosek: rozjazd wszedł PO stronie intake Nowego Zamku (najpewniej błąd urzędnika, ale niepotwierdzone). Domknięcie wymaga wglądu w rejestr intake — delikatne. Nast 70→72, zauf 14→15.
+
+## 297-05-23 ZMIERZCH — Nesta (praca, rzut 20)
+Symon przyszedł popracować o zmierzchu, na końcu długiego dnia. Sesja chuda — słabe światło, głowa wpół przy niezgodności intake'u zamku. Nesta to wyczuła („coś niesiesz, skrybo") — nie drążyła, dała znać, że jest, jak zechce rady. Rutyna, zero przełomu. Zmęczenie rośnie.

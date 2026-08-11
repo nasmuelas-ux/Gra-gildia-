@@ -5130,3 +5130,6 @@ Symon plain/po ludzku (ceni to). Zły dzień: jej zatarg z drapieżnym wielkim d
 
 ## 297-06-16 WIECZÓR — kantor, spokojna sesja ksiąg (rzut 38)
 Szara solidna sesja spring volume (rachunki 10 = bez wysiłku), +2 jel. Wick dzień 7 — wrósł w fach, pewny (Hal go pilnuje). Cichy wieczór po dniu polityki charterów. → wolne 56 jel.
+
+## 297-06-16 NOC — sen (dzień długi i polityczny)
+Dzień legitymacji: własna analiza (charter=pismo, audyt poza monopolem), Torren potwierdził+tempered (klauzula workowata, rada=polityka, skala wzmacnia ich naciąganie), Nesta architektura (cel=ODSTRASZENIE), Boren ODRZUCIŁ guild-vs-guild (kanon: cechy nie napadają na siebie) ale poręczy za charakter + mądrość „bądź poza ich charterem". Leona (już kotwica bloku) — zły dzień, jej nacisk wielkiego domu rośnie. Obrona przeformułowana: poza charterem pisarzy (faktor nie skryba) + Wiara + goodwill kupców. → 297-06-17 RANEK (Torren dowiezie charter; weksle batch2 ~06-18).

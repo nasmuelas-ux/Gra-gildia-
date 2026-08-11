@@ -4863,3 +4863,6 @@ Proving-arc przeskoczony. Na pierwszy rzut oka Symon znalazł systematyczny wyci
 
 ## 297-05-29 POPOŁUDNIE — cech kołodziejów (rzut 96 KRYTYK)
 Sesja nad księgami/umowami cechu wyszła wybitnie: Symon przestrukturyzował umowy graded-drewna (oszczędność dla cechu) + wyłapał słabą klauzulę. Starszyzna — dawniej podejrzliwa wobec obcego w księgach — w końcu w PEŁNI kupiła; cały cech go teraz przyjmuje, nie tylko Boren. Cech dołożył więcej wolumenu graded-drewna (POPYT dla kanału Północ). +6 jel. Rep cech_kolodziejow 34→38. Boren 85→87, zauf 24→25. (Kontrapunkt: cech kołodziejów kocha outsidera, którego cech pisarzy nienawidzi.)
+
+## 297-05-29 WIECZÓR — 50 jel w księgę kredytową (rada Nesty, rzut 55)
+Symon wziął radę Nesty: 50 jel we własną księgę kredytową (nie jej rotację). Ulokował solidnie — wiosenny popyt na mostek-kredyt realny, wybrał dobrych dłużników (czytanie+prawo), uczciwe warunki. Ramię kredytu podwoiło się do 100 jel out. Nesta rada — rośnie w partnera-następcę z własnym filarem. Wolne: 5 jel + 14 mied. Zauf 44→45. (Ekspozycja większa: 100 jel w kredycie — dyscyplina doboru dłużników.) Druga partia wraca ~06-18.

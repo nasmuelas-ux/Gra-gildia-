@@ -94,6 +94,12 @@
    "co": "Denys (wosk/swiece, cegla; 57 dni) niespokojny o dostawce - moze sam przyslac po audyt (jak wczesniej do faktorii)",
    "kiedy": "~06-02",
    "zywy_watek": "blok_anty_antaryon"
+  },
+  {
+   "kto": "weksle_batch2",
+   "co": "druga partia weksli (50 jel, ulokowana 05-29) wraca z marza",
+   "kiedy": "~06-18",
+   "zywy_watek": "ksiega_kredytowa"
   }
  ]
 }

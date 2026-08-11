@@ -5069,3 +5069,7 @@ Symon świadomie patrzył chwilę na wodę (stosuje naukę), przeliczył skille 
 
 ## 297-06-13 RANEK — Merek (rzut 62)
 Ciepły reconnect (16 dni) + realna robota: Symon ustawił/pchnął czyste księgi nowej wiosennej linii dostaw Merka — solidnie, jeden pożyteczny catch/struktura. Motyw: Merek, raz sparzony zdradą wspólnika, buduje teraz CZYSTO OD STARTU z Symonem jako zaufanym okiem — zero miejsca na skim od pierwszego dnia. Peace of mind dostarczony. +5 jel. Harlon wspomniany lekko (węzeł sieci — nienaciskane). Nast 66→68, zauf 21→23. Rachunki licznik 236 (14 od mistrzostwa).
+
+## 297-06-13 POŁUDNIE — Godric (rzut 89) — DEMAND-side odblokowany
+Złapany w dobrym oknie (nie w wiosennym młynie). Ciepła sesja sojusznika. Kanał drewna-na-zamek zdrowy, ogon po 06-08 czysto zamknięty. KLUCZOWE: Godric SAM otworzył rosnący apetyt zamku — Nowy Zamek budzi się pełnią, prowiantura Lorda Wymana w górę, popyt na drewno realny i ROŚNIE. Godric gotów na WIĘKSZĄ/STAŁĄ umowę drewna, JEŚLI kanał Symona niezawodnie dowiezie. Godność/dyskrecja/firewall trzymane. +3 jel. Nast 86→88, zauf 26→28.
+STRATEGIA: drewno-na-zamek dojrzewa — DEMAND unlocked (Godric standing-ready); ograniczenie = PODAŻ (Halvard organicznie + Harlon wolumen seed). Wszystko się zbiega.

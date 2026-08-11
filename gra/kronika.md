@@ -4759,3 +4759,6 @@ Zwykła, ciężka sesja — wiosenny wolumen dusi kantor. Hal miele robotę komp
 
 ## 297-05-24 WIECZÓR — praca u Nesty (rzut 30)
 Po jedzeniu i odpoczynku solidna wieczorna sesja przy księgach kantoru. Bez błysku, ale Symon podciągnął zaległy wiosenny wolumen — zdjął trochę ciężaru z tonącego kantoru (i pośrednio z rozciągniętego Hala). Rutyna, która się liczy. Wieź 90.
+
+## 297-05-24 WIECZÓR — pełne rozliczenie z Nestą (rzut 55)
+Pierwsze pełne rozliczenie partnerskie od 296-12-30. Symon poprosił o wytrowanie konta; Nesta pochwaliła (wspólnik trzyma czyste księgi — wzmocnienie ścieżki sukcesji). Wytrowali ~52 jel zaległości (draw zaległy + 1/3 netto + marża ramienia kredyt/ubezpieczenia): 14 jel liquid do sakiewki + 30 jel do depozytu + ~8 jel jako equity future-weighted (kantor cash-tight przez dług Antaryonów). Draw wznowiony (6 jel/mies), by konto nie dryfowało. Konto Symona CZYSTE. Wolne: 20 jel + 54 mied · depozyt 230 jel. Razem ≈ 350 jel ≈ 1,75 smoka.

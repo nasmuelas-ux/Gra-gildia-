@@ -8,11 +8,11 @@
  "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 48,
- "zmeczenie": 28,
+ "sytosc": 42,
+ "zmeczenie": 35,
  "sakiewka": {
   "miedziaki": 54,
-  "jelenie": 6,
+  "jelenie": 20,
   "smoki": 0
  },
  "dobytek": [
@@ -80,19 +80,20 @@
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."
  },
- "depozyt_u_nesty_mied": 20000,
+ "depozyt_u_nesty_mied": 23000,
  "stany": [],
  "wspolnictwo_nesta": {
   "draw_jel_mies": 6,
-  "draw_ostatni": "297-01-19",
-  "draw_nastepny": "297-02-19",
+  "draw_ostatni": "297-05-24",
+  "draw_nastepny": "297-06-24",
   "udzial_transakcje": "1/3 netto z transakcji ktore Symon sam zrodli/prowadzi",
   "udzial_core": "PODNIESIONY 297-02-04 (rzut 99) - realnie, nie na probe: twardsza wlasnosc, wieksza czesc przyszlych zyskow. Wartosc gotowkowa wciaz future-weighted (kantor dzwiga dlug Antaryonow), ale equity=mieszczanska substancja + rosnace zyski.",
   "uwaga": "wikt formalnie w bazie, ale Symon zywiony przez Septe (nie konsumuje). Nalezy wziac od Nesty PELNE rozliczenie partnerskie (draw+1/3+udzial) - Symon jako czlowiek liczb powinien miec wlasne konto czyste.",
   "1_3_rozpoznane_12_30": "~10 jel narosle, rozpoznane/wziete",
-  "konto": "CZYSTE (rozliczenie 12-30, rzut 93)",
+  "konto": "CZYSTE (rozliczenie 297-05-24, rzut 55). Wytrowano ~52 jel zaleglosci: draw zalegly (~02-19..05-19) + 1/3 netto z transakcji Symona + marza ramienia (weksle/ubezpieczenia). Podzial: 14 jel liquid do sakiewki + 30 jel do depozytu + ~8 jel zostaje jako equity future-weighted (pipeline, kantor cash-tight przez dlug Antaryonow). DRAW WZNOWIONY (6 jel/mies), zeby konto nie dryfowalo znow.",
   "domena_symona": "RAMIE KREDYTU I UBEZPIECZEN oddane Symonowi jako JEGO domena (297-02-04): buduje i prowadzi (weksle+ubezpieczenia frachtu), okreslony udzial w marzy. Nie pomaga - jego filar.",
-  "sukcesja": "Nesta prowadzi Symona ku SUKCESJI - z czasem wspolnik-nastepca, nie podwladny ('starzeje sie')."
+  "sukcesja": "Nesta prowadzi Symona ku SUKCESJI - z czasem wspolnik-nastepca, nie podwladny ('starzeje sie').",
+  "draw_status": "WZNOWIONY 297-05-24 (6 jel/mies -> depozyt)"
  },
  "kamieniczka": {
   "status": "ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe. || 297-02-14: budzet dachu ROZWIAZANY - pelny re-roof ~35 jel (linia ~21 + ~15 z depozytu), naprawa krytyczna porzadnie przy odwilzy (bez ryzyka fazowania). Bufor Symona: depozyt 38->23 jel + sakiewka 14 jel.",
@@ -130,15 +131,15 @@
  },
  "nazwisko": "Tally",
  "liczniki_uzyc": {
-  "rachunki": 210,
-  "audyt": 146,
+  "rachunki": 211,
+  "audyt": 147,
   "pismo": 123,
   "organizacja": 113,
   "kondycja": 115,
   "walka": 51,
   "prawo": 177,
   "retoryka": 115,
-  "czytanie_ludzi": 176,
+  "czytanie_ludzi": 177,
   "rzemioslo": 3,
   "jezyki": 75,
   "spryt_uliczny": 129,

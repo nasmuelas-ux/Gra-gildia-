@@ -4884,3 +4884,6 @@ Symon odłożył papier, mówił po ludzku: łańcuch (Owen wziął mnie z nicze
 
 ## 297-05-30 NOC — sen (za zgodą gracza)
 Symon śpi po dniu formalizacji Hala (misfire i naprawa po ludzku). Dzień 05-30 zamknięty. → 297-05-31 RANEK. (Jutro 06-01: nowy miesiąc — czynsz kamieniczki, wznowiony draw 6 jel; Mira może się odezwać.)
+
+## 297-05-31 RANEK — praca w sepcie (rzut 41)
+Na świeżą głowę: dyżur pisarza odsłużony czysto (podania dla ubogich, księga jałmużny, list parafialny, przerobiony arkusz z 05-26). Rutyna, ale to jego tarcza — więź z Wiarą trzymana (warunek Owena, firewall). Rep wiara 80 hold. → POPOŁUDNIE.

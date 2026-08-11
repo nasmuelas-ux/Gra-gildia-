@@ -5157,3 +5157,6 @@ Symon ulokował 50 jel w pożyczkę zabezpieczoną (pod zastaw/kolaterał) — b
 
 ## 297-06-18 RANEK — Serla (rzut 37, ciepło z cieniem)
 Przyziemna matczyna wizyta (trzyma Symona u ziemi). Tom zdrów, urósł (jasny punkt). ALE Serla chudsza — przednówek zjadł zapasy, ciągnie siebie+Toma przez głód, duma, nakarmiła Symona ostatkiem. Mira: Symon uczciwie „odłożone"; Serla grounding wisdom („nie zdobywa się szturmem, rośnie samo, rób swoje" — jak Aldous). QUIET CARE: dyskretnie zadbać by Tom przetrwał przednówek najedzony, bez urażenia dumy Serli. Nast 58→60.
+
+## 297-06-18 POŁUDNIE — Serla: dignified care (rzut 62)
+Symon rozwiązał jej przednówkowy głód GODNIE — nie datek, lecz PRACA: Serla gotuje/dogląda Hala i Wicka (sieroty, izba 3) za uczciwą zapłatę. Framing: ONA wyświadcza Symonowi przysługę (chłopcy jedzą źle). Przyjęła z godnością (zarobek+garnek dla Toma+matkowanie = koniec samotności), nie litość. Niepisane porozumienie. Rozwiązane naraz: jej głód/grosz/samotność + Tom najedzony + Hal/Wick nakarmieni/doglądani. -4 jel start, ongoing modest. Nast 60→64. Dobro z cienia (Owen by przyklasnął).

@@ -5042,3 +5042,6 @@ SEPTA: księgi jałmużny czyste, ale Wiara STRETCHED w przednówku (puchnące r
 
 ## 297-06-09 NOC — sen (za zgodą gracza)
 Dzień domknięcia łuku Wicka: zwolnienie/benedykcja u Borena, dach u Hala (czynsz uhonorowany), kantor nowy skład, Septa/Owen (Wiara stretched przednówek, Elna zdrowieje). Dzień 06-09 zamknięty. → 297-06-10 RANEK.
+
+## 297-06-10 RANEK — Bran: dograć Wicka w izbie 3 (rzut 66)
+Symon przyszedł dograć Wicka — właściwie: nie dekret nad głową, lecz „twój teren, dograjmy razem", pytał o zdanie. Bran (dumny, zasłużony) uhonorowany jako gospodarz. Dograne: opał na dwóch w izbie 3, czynsz Hala obniżony (do wiedzy Brana), Symon poręczył za Wicka — Bran (sam podniesiony z tragarza) przyjął chłopaka jak swojego, benevolent oko nie czujne. Zapytał o Brana i Alys. Nast 86→87. -3 mied (siennik/posłanie dla Wicka). Wick w izbie 3 w pełni osadzony.

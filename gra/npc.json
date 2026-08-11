@@ -536,7 +536,7 @@
     "297-04-21 WIECZOR (rzut 45): lekka gruntujaca rozmowa (kontrast do ciezkiej Winterfell). Owen uznanie dla cichego dobra Symona: 'dobrze robisz - nie tym co spinasz, lecz ze pamietasz skad przyszedles i przedluzasz lancuch; to zostaje po czlowieku nie prowizje'. Symon wyszedl lzejszy, ugruntowany. nast 86 hold."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-05-12",
+   "ostatni_kontakt": "297-05-18",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },
@@ -1798,16 +1798,17 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 46,
+   "nastawienie_do_gracza": 47,
    "zaufanie": 12,
-   "ostatni_kontakt": "297-05-09",
+   "ostatni_kontakt": "297-05-18",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
     "297-04-14: Symon zaczal uczyc go liter (zdrowa reka) - Wick chlonie z celem w oczach, robi cos zamiast czekac czy dlon wroci. Chain Owen->Symon->Wick zywy. Druga droga sie zaczyna.",
     "297-04-21: kolejna lekcja - Wick robi postepy (zdrowa reka kresli cale slowa), NAPISAL SWOJE IMIE ('WICK'), dumny jak nigdy. Pierwszy kamien drugiej drogi. Cel zamiast rozpaczy.",
     "uczy go liter mimo zmiazdzonej dloni",
-    "297-05-09 RANEK (rzut 94): PRZELOM. Wick cwiczyl sam lewa reka - pisze CZYTELNIE (koslawo ale to pismo, nie bazgroly), czyta plynnie z modlitewnika. Napisal swoje imie caly, lewa. Nadzieja stala sie faktem: zycie nie skonczylo sie pod kolem. Spytal: mogl by z pisania zyc? MOGLBY - bystry, aptytuda realna (przyszly pisarz/klerk jak Hal - drugi mlody ktorego Symon podniosl do pisma). nast 33->46, zauf +."
+    "297-05-09 RANEK (rzut 94): PRZELOM. Wick cwiczyl sam lewa reka - pisze CZYTELNIE (koslawo ale to pismo, nie bazgroly), czyta plynnie z modlitewnika. Napisal swoje imie caly, lewa. Nadzieja stala sie faktem: zycie nie skonczylo sie pod kolem. Spytal: mogl by z pisania zyc? MOGLBY - bystry, aptytuda realna (przyszly pisarz/klerk jak Hal - drugi mlody ktorego Symon podniosl do pisma). nast 33->46, zauf +.",
+    "297-05-18 (rzut 27, off-day): grind srodka drogi - postep lewa reka wolny, Wick zniechecony (\"moze sie nie nadaje, pisze jak dziecko\"). Symon: nie brak talentu, zmeczenie ucznia w martwym srodku; przypomnial skad wyszedl, ze wolno != nigdy. Nie rzucil tabliczki (podtrzymany), ale postoj nie krok. Cierpliwosc."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   },

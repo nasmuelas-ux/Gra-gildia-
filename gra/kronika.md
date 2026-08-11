@@ -4645,3 +4645,6 @@ Do Rollama (rzut 76). Wycinek dowieziony czysto (+6 jel -> 22 jel), filar mieli.
 
 ## 297-05-18 WIECZOR — Faktoria: mapa frachtu Antaryona (aggregate edge)
 Praca z Halem (rzut 93). Usluga mieli, Hal pewny (+4 jel -> 26). Aggregate view OSTRZEJSZY: z cudzych papierow Symon uklada MAPE FRACHTU ANTARYONA - ktorych dostawcow strzyze najgorzej (cele koalicji do przeciagniecia), gdzie lewar gruby vs cienki od jego kropli. Cichy edge: wie kogo dogrzac nastepnego i gdzie fracht najlatwiej podciac. Trzyma OSOBNO/cicho (firewall - niewinny audytor przy grze z Bankiem). Liczniki audyt+1 (139), rachunki+1 (200). -> noc.
+
+## 297-05-18 WIECZOR — Wick off-day + GARTH OSTYGL (Bank moze ruszyc)
+Septa. WICK (rzut 27): grind srodka drogi po przelomie - postep lewa reka wolny, zniechecony ('moze sie nie nadaje'). Symon podtrzymal (nie brak talentu, zmeczenie ucznia; wolno != nigdy) - nie rzucil tabliczki, ale postoj nie krok. Cierpliwosc z uczniem. OWEN/GARTH (rzut 80): GARTH OSTYGL - kosc. cicha reka + wiosenne oko zamku z niego zeszlo; juz nie splloszony. DZIURA W MURZE ZAMKNIETA, warunek planu Banku SPELNIONY. Plan (B-schody-do-A) MOZE RUSZYC - Belarno na slowo Symona. Owen: 'tak bezpiecznie jak bedzie; najglebsza woda, pamietaj w co wchodzisz'. Wielkie ostrze przestalo czekac. Rep wiara 79->80. Liczniki pismo+1 (120), czyt+1 (161). -> noc.

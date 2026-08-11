@@ -5203,3 +5203,6 @@ Symon nad wodą, pokorny po porannej lekcji (liczydło ma granicę = człowiek; 
 
 ## 297-06-20 POPOŁUDNIE — Aldous (rzut 36, zwyczajny kubek)
 Ciepły kubek po humbling dniu, ale wieczór zwyczajny (Aldous w kubkach, głęboka mądrość się nie zapaliła). Symon ostrożnie podzielił się lekcją (liczydło ma granicę = człowiek). Aldous: „każde narzędzie ma tępy koniec, znalazłeś swój — to mapa nie klęska". Firewall HELD ale z wysiłkiem (wino+pokora kusiły). Ukojony, nie odmieniony. Więź ciepła (84).
+
+## 297-06-20 NOC — sen (dzień pokorny ale dobry)
+Septa crit (deflacja: została tylko lekcja o granicy liczydła = człowiek), kobieta przywrócona przez siostrę (metoda skorygowana: przy Wierze liczydło za kotarą), woda, Aldous (zwyczajny kubek, firewall held z wysiłkiem). Lekcja dnia: miłosierdzia nie optymalizuj; ręka w cieniu. → 297-06-21 RANEK (rotacja ~06-22 jutro, batch3 ~06-27, Torren charter, drewno gated krą).

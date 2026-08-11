@@ -4762,3 +4762,6 @@ Po jedzeniu i odpoczynku solidna wieczorna sesja przy księgach kantoru. Bez bł
 
 ## 297-05-24 WIECZÓR — pełne rozliczenie z Nestą (rzut 55)
 Pierwsze pełne rozliczenie partnerskie od 296-12-30. Symon poprosił o wytrowanie konta; Nesta pochwaliła (wspólnik trzyma czyste księgi — wzmocnienie ścieżki sukcesji). Wytrowali ~52 jel zaległości (draw zaległy + 1/3 netto + marża ramienia kredyt/ubezpieczenia): 14 jel liquid do sakiewki + 30 jel do depozytu + ~8 jel jako equity future-weighted (kantor cash-tight przez dług Antaryonów). Draw wznowiony (6 jel/mies), by konto nie dryfowało. Konto Symona CZYSTE. Wolne: 20 jel + 54 mied · depozyt 230 jel. Razem ≈ 350 jel ≈ 1,75 smoka.
+
+## KOREKTA 297-05-24 — rozliczenie: całość do equity
+Symon zdecydował: nie ciągnie srebra. Całe ~50 jel z rozliczenia zostaje jako EQUITY FUTURE-WEIGHTED w kantorze (kapitał-light, niech pracuje jako udział; kantor cash-tight). Wolne bez zmian (6 jel + 54 mied), depozyt bez zmian (200 jel = 1 smok). Nowa pozycja: equity kantoru future-weighted +50 jel (uznane, nieplynne). Draw wznowiony na przyszłość. Nesta: ruch dojrzałego wspólnika-następcy.

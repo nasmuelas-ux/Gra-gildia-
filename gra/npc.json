@@ -919,7 +919,7 @@
     "Lorren",
     "glod dzieci"
    ],
-   "nastawienie_do_gracza": 48,
+   "nastawienie_do_gracza": 50,
    "zaufanie": 10,
    "wie_o_graczu": [
     "skryba przejrzal drapiezna umowe Lorrena",
@@ -946,7 +946,7 @@
     "m11d27 wieczor (rzut 24): cieply modest - Elna bezpieczna pod kolodziejami, wdzieczna; zostawil cos cieplego; zwyczajna dobra chwila. 28->30",
     "m12d10 rzut55: cieply, szczery wieczor - Elna bezpieczna pod kolodziejami, wdzieczna, oddaje cieplem (strawa/blogoslawienstwo); recharge dla Symona. 30->33"
    ],
-   "status": "CHORA (297-06-07): goraczka piersiowa, oslabiona przednowkiem/niedojadaniem, ukrywala z dumy. Symon USTABILIZOWAL doraznie (rozpalil ogien, nakarmil rosolem, ogrzal izbe) ALE choroba NIELECZONA - potrzeba PRAWDZIWEGO uzdrowiciela. Powazne, okno wciaz otwarte."
+   "status": "CHORA, LECZONA (297-06-07): goraczka piersiowa. Symon ustabilizowal (ogien+rosol), Septa wyslala siostre pielegniarke z lekami - LECZENIE zabezpieczone (siostra dozuje/doglada wstepnie). Poza szczytem zagrozenia przy opiece. Sustained care przez dni -> powinien wziac cech kolodziejow (jej formalna opieka)."
   }
  ],
  "w_orbicie": [

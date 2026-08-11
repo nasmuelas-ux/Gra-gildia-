@@ -4993,3 +4993,6 @@ Symon rozpalił ogień, nakarmił rosołem, ściągnął Wicka. Wick przybiegł 
 
 ## 297-06-07 — KOREKTA (błąd skryby)
 Gracz słusznie zakwestionował: żaden „Wick" nie jest uzdrowicielem. Wick świadek zmarł 296-10-17 (umysł odpłynął); Wick czeladnik to ranny kołodziej-uczeń liter. Scena „Wick leczy Elnę" (rzut 89) COFNIĘTA jako błąd. Stan naprawiony: Elna USTABILIZOWANA doraźnie (ogień+rosół+ciepło), ale gorączka piersiowa NIELECZONA — trzeba prawdziwego uzdrowiciela. Wątek elna_chora → wysoki. Sakiewka: cofnięto 3 mied za nieistniejące zioła (→9 mied).
+
+## 297-06-07 RANEK — Septa dla Elny (rzut 20)
+Symon poszedł do Septy. Wola pomocy była (chora uboga = rdzeń pracy Wiary, imię Symona niesie), ALE alms stretched w przednówku (dużo ubogich chorych tej chudej wiosny). Senior septa wysłała siostrę pielęgniarkę z lekami — LECZENIE zabezpieczone (siostra dozuje/dogląda wstępnie) — ale z uwagą: Faith nie jest studnią bez dna, a Elna jest pod formalną opieką CECHU KOŁODZIEJÓW; to oni winni nieść sustained care/koszt. NEXT: ściągnąć kołodziejów do obowiązku (rekonwalescencja przez dni). Wiara rep 84 trzyma. Elna nast 48→50.

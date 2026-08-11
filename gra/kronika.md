@@ -4918,3 +4918,6 @@ Symon uspokoił (zwalidował instynkt), wąski spot-check tylko linii dostawcy (
 
 ## 297-06-02 POPOŁUDNIE — Aldous (pogadać, rzut 63)
 Ciepła przyjacielska wizyta. Symon podzielił się (ostrożnie, bez bloku — Aldous czyta nastrój nie szczegóły) wieścią o Mirze — Aldous, który mówił „znajdź se kogo", uradowany („a nie mówiłem"). Grounding, najgłębsza przyjaźń, samotność sekretu jeszcze lżejsza. Nast 81→83.
+
+## 297-06-02 POPOŁUDNIE — praca w sepcie (rzut 8, KRYTYK)
+Nie zmęczenie tym razem — zwykły pech ręki. Przy przepisywaniu TESTAMENTU dla septy Symon przekręcił szczegół (imię/zapis), z tych, co w ostatniej woli mogą wywołać spór. Złapane, zanim wyszło (przez niego/septona), zero szkody na zewnątrz — ale wpadka przy septonie, koszmar skryby: to właśnie DOKŁADNOŚĆ jest całą jego marką i tarczą. Upokarzająca chwila „nawet on się myli". Przepisał od nowa poprawnie. Rep wiara 80 hold (zbyt zakorzeniony, wpadka wyłapana), ale bez blasku — pokorna lekcja: jego rdzeń nie jest nieomylny, a na nim stoi cała pozycja.

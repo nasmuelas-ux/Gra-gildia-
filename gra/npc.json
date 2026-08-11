@@ -919,8 +919,8 @@
     "Lorren",
     "glod dzieci"
    ],
-   "nastawienie_do_gracza": 45,
-   "zaufanie": 9,
+   "nastawienie_do_gracza": 52,
+   "zaufanie": 11,
    "wie_o_graczu": [
     "skryba przejrzal drapiezna umowe Lorrena",
     "spisal jej skarge do cechu/strazy",
@@ -928,7 +928,8 @@
     "d28 (rzut 53): Symon zajrzal - sprawa Lorrena stoi lepiej: jego skarga+zaangazowanie (pismienny pilnuje, udokumentowana skarga) dzialaja jak ODSTRASZACZ, Lorren odpuscil najostrzejsza sciagalnosc (nie chce skrutynu drapieznego papieru). Warsztat syna na razie bezpieczny. Wzmocnil oslone: kolodzieje (winni Symonowi zyczliwosc po reliefie) mocniej kryja wdowe. Dlug trwa, zima gryzie, ale bezposrednia grozba odsunieta. Wdzieczna ('nie zapomniales, malo kto pamieta o wdowie').",
     "297-04-16 (rzut 74): Symon wreszcie odwiedzil po 110 dniach - Elna BEZ urazy, sama radosc ('gdzies ty sie podziewal'). Jak zawsze DAJE: nakarmila, ocerowala plaszcz, poblogoslawila (jej lek 'nie zostac sama' odgoniony obecnoscia). Wie o wszystkim (pod opieka kolodziejow): o wypadku Wicka i ze Symon poslal uzdrowiciela+uczy go liter - 'caly cech mowi o tobie, nie z tych co sie wspieli i zapomnieli'. Grunt dla Symona: sila=szczerosc nie schematy. Niskoprofilowe, ludzkie. nast 37->43.",
     "297-05-27 POPOLUDNIE (rzut 23): reunion po 6 tyg, bez urazy (jak zawsze, sama radosc), nakarmila/ocerowala - ona DAJE. Ale Symon wyczul, ze ma CHUDSZY okres: przednowek, zapasy zimowe wyszly, jalmuzna cechu przetrzebiona wiosna, ona szczuplejsza, pokaszluje od wilgoci. Nic ostrego - zwykla precarity ubogiej wdowy, ale warto miec oko. nast 43->45, zauf 8->9.",
-    "297-06-07 (rzut 2, KRYTYK w dol): Symon przyszedl i zastal ja CHORA - goraczka, kaszel, oslabiona (przednowek + niedojadanie), ukrywala to (duma). Nie u progu z radoscia jak zwykle - w zimnej izbie, skulona. Powazne. Symon musi zareagowac."
+    "297-06-07 (rzut 2, KRYTYK w dol): Symon przyszedl i zastal ja CHORA - goraczka, kaszel, oslabiona (przednowek + niedojadanie), ukrywala to (duma). Nie u progu z radoscia jak zwykle - w zimnej izbie, skulona. Powazne. Symon musi zareagowac.",
+    "297-06-07: Symon przyszedl AKURAT gdy trzeba - rozpalil ogien, nakarmil rosolem, sciagnal Wicka ktory ja wyleczyl. Uratowal jej zycie. Jej oddanie glebsze (nast 45->52)."
    ],
    "dlugi": [
     {
@@ -945,7 +946,7 @@
     "m11d27 wieczor (rzut 24): cieply modest - Elna bezpieczna pod kolodziejami, wdzieczna; zostawil cos cieplego; zwyczajna dobra chwila. 28->30",
     "m12d10 rzut55: cieply, szczery wieczor - Elna bezpieczna pod kolodziejami, wdzieczna, oddaje cieplem (strawa/blogoslawienstwo); recharge dla Symona. 30->33"
    ],
-   "status": "CHORA (297-06-07): goraczka + kaszel/piersi, oslabiona chudym przednowkiem (niedojadala), UKRYWALA (dumna, nie chciala obciazac cechu ani Symona). Powaznie - stara uboga wdowa z goraczka w wilgotnym chlodzie = realne zagrozenie. Jest okno na pomoc."
+   "status": "CHORA ale ZLAPANA W POR (297-06-07): Wick ocenil i leczy - goraczka piersiowa powazna, ale nie jeszcze zapalenie; ogien+rosol+leki Wicka = poza bezposrednim zagrozeniem zycia. Na dobrej drodze przy OPIECE (odpoczynek, jadlo, cieplo, dogladanie przez dni). Symon przyszedl dzis = uratowal ja w por."
   }
  ],
  "w_orbicie": [
@@ -1373,12 +1374,13 @@
    "przydomek": "stary",
    "zawod": "stary sluga ze Starego Zamku Locke; jedyny zyjacy swiadek rejestru (korroboracja Rymana)",
    "mieszka": "cela_przy_Sepcie (piecza Wiary)",
-   "nastawienie_do_gracza": 5,
-   "zaufanie": 4,
+   "nastawienie_do_gracza": 57,
+   "zaufanie": 6,
    "wie_o_graczu": [
-    "mlody Symon uczyl sie u maestera Aemona"
+    "mlody Symon uczyl sie u maestera Aemona",
+    "297-06-07 (rzut 89): Symon wezwal - Wick przybiegl od razu, ocenil Elne SPRAWNIE (goraczka piersiowa, zlapana w por), przygotowal leki (oklad, napar na goraczke/piersi), poradzil opieke. NIE trzeba maestera - Wick dal rade sam. PELNE KOLO mentorstwa: chlopak ktorego Symon uczyl liter (czyta teraz teksty medyczne) URATOWAL zycie. Duma, lojalnosc, wzrost. nast 53->57."
    ],
-   "ostatni_kontakt": "296-10-17 (zmarl)",
+   "ostatni_kontakt": "297-06-07",
    "cechy_mowy": "stary, gadatliwy, myli watki; slaby glos",
    "status": "POZA ZEZNANIEM, UMIERA (d17, rzut 5): umysl odplynal zanim Symon wyjal czyste zeznanie — mylil wdowe z inna, wolal Symona imieniem zmarlego maestera, zasnal. Tylko fragmenty/majaki, nic prawomocnego. Owen daje ostatnie namaszczenie; starzec dogorywa. Zyjaca noga korroboracji STRACONA.",
    "NIE_ZYJE": true,
@@ -1875,9 +1877,9 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 53,
-   "zaufanie": 16,
-   "ostatni_kontakt": "297-05-26",
+   "nastawienie_do_gracza": 57,
+   "zaufanie": 18,
+   "ostatni_kontakt": "297-06-07",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
@@ -1888,7 +1890,8 @@
     "297-05-18 (rzut 27, off-day): grind srodka drogi - postep lewa reka wolny, Wick zniechecony (\"moze sie nie nadaje, pisze jak dziecko\"). Symon: nie brak talentu, zmeczenie ucznia w martwym srodku; przypomnial skad wyszedl, ze wolno != nigdy. Nie rzucil tabliczki (podtrzymany), ale postoj nie krok. Cierpliwosc.",
     "297-05-22 POPOLUDNIE (rzut 85): po zniecheceniu z 05-18 - MOCNA lekcja. Wick lewa reka napisal cala czysta linijke i zrobil kolumne rachunkow bez bledu; funk odpuscil (\"moze jednak sie nadaje\"). Symon trafil z metoda i otucha. Postep realny, morale wrocilo. nast 47->51, zauf 12->14.",
     "297-05-25 POPOLUDNIE (rzut 14, off-day fizyczny): odwilzowa wilgoc rozbolala zmiazdzona dlon/ramie - dzis nie o pisanie chodzilo, reka sztywna i obolala, lewa tez nie slucha przy takim bolu. Symon NIE cisnal nauki - byl, czytal mu, trzymal na duchu, przyjal ze cialo ma gorsze dni. Zero postepu w pismie, ale morale trzyma bo Symon nie zrobil z tego porazki. nast 51->52, zauf 14->15.",
-    "297-05-26 WIECZOR (rzut 36): dzien po bolesnym off-dayu. Reka spokojniejsza (ostry ból od wilgoci odpuscil), cicha wieczorna lekcja - troche liter, bez fajerwerkow. NAJWAZNIEJSZE: Symon przyszedl DRUGI dzien z rzedu, w tym po tym zlym - Wick to zauwazyl, staly gost = nie zapomniany. Konsystencja > przelom. nast 52->53, zauf 15->16."
+    "297-05-26 WIECZOR (rzut 36): dzien po bolesnym off-dayu. Reka spokojniejsza (ostry ból od wilgoci odpuscil), cicha wieczorna lekcja - troche liter, bez fajerwerkow. NAJWAZNIEJSZE: Symon przyszedl DRUGI dzien z rzedu, w tym po tym zlym - Wick to zauwazyl, staly gost = nie zapomniany. Konsystencja > przelom. nast 52->53, zauf 15->16.",
+    "297-06-07 (rzut 89): Symon wezwal - Wick przybiegl od razu, ocenil Elne SPRAWNIE (goraczka piersiowa, zlapana w por), przygotowal leki (oklad, napar na goraczke/piersi), poradzil opieke. NIE trzeba maestera - Wick dal rade sam. PELNE KOLO mentorstwa: chlopak ktorego Symon uczyl liter (czyta teraz teksty medyczne) URATOWAL zycie. Duma, lojalnosc, wzrost. nast 53->57."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   },

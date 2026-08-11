@@ -4987,3 +4987,6 @@ Symon śpi po dniu-milestone: Theo krytyk (kanał zamkowy otwarty), Donnel (fund
 
 ## 297-06-07 RANEK — Elna CHORA (rzut 2, krytyk w dół)
 Symon przyszedł zajrzeć — i zamiast Elny u progu z „gdzieś ty się podziewał" zastał ją chorą: gorączka, kaszel/piersi, osłabiona chudym przednówkiem (niedojadała), UKRYWAŁA to z dumy (nie chciała obciążać cechu ani jego). Stara uboga wdowa z gorączką w wilgotnym chłodzie = realne zagrożenie. Jest okno na pomoc. Wątek elna_chora (wysoki). Symon ma środki: Wick (uczeń-medyk), Septa/Wiara, leki maestera Theo (świeży kanał), jedzenie/pieniądze, cech kołodziejów.
+
+## 297-06-07 RANEK — Wick ratuje Elnę (rzut 89)
+Symon rozpalił ogień, nakarmił rosołem, ściągnął Wicka. Wick przybiegł od razu, ocenił sprawnie (gorączka piersiowa, złapana w porę — nie jeszcze zapalenie), przygotował leki (okład, napar), poradził opiekę. NIE trzeba maestera — Wick dał radę sam. PEŁNE KOŁO mentorstwa: chłopak, którego Symon uczył liter (czyta teraz teksty medyczne), uratował życie. Elna poza zagrożeniem, na mendzie przy opiece. Nast Elna 45→52, Wick 53→57. Wątek elna_chora → średni (NEXT: sustained care przez dni rekonwalescencji — cech/Septa/Symon; Wick dogląda).

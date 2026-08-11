@@ -5085,3 +5085,9 @@ Symon zmordowany (2 kraksy po południu: Torsen 6, Donnel 2 — młócenie w zar
 Symon guild-forward: cech jako pojazd. Rama: pewne drewno dla rzemiosła cechu + cech jako DOSTAWCA ZAMKU (prestiż+dochód). Boren chętny (jak przy żelazie). MAPA: rdzeń zamku = lasy lorda przez leśniczego (nie tykać); LUKA = pomniejsi posiadacze (cuttable bór bez kanału do zamku, idzie lądem = kra-odporne); jakość przez fach cechu. STANDING cechu = legalna tarcza dla nisko urodzonego Symona (ukryty architekt za cechem). Boren rozezna tropy, wróci. Firewall/lord czysto.
 STRATEGIA drewno: POPYT(Godric)✅ · river-SUPPLY⏸(kra) · local-SUPPLY🔓(cech, kra-odporne) · POJAZD=cech(standing) · Symon ukryty/class-safe. Piłka po Borenie (tropy posiadaczy).
 Przegląd dochodu: ~397 łącznie, zdrowe linie. Vox retainer wisi niedokończony; rachunki 14 od mistrzostwa.
+
+## 297-06-14 (reconcile dochodu) — Vox retainer + księga kredytowa + kantor
+Vox (rzut 59): domknięty stały dyskretny audyt (retainer ~3 jel/przegląd, +3 od ręki), po cichu — wzmacnia ramę „dyskretny rachmistrz". Nast 70→71, zauf 24→25.
+Księga kredytowa (rzut 86): zdrowa, dobór dłużników się opłacił, +5 jel marży, popyt na kapitał = miejsce na wzrost.
+Kantor sesja (rzut 47): solidnie bez catcha, +2 jel, spring volume podciągnięty. Wick dzień 5 — złapał rytm.
+Sakiewka po dzisiejszym dochodzie: 41 jel + 6 mied. Rachunki licznik ~241 (9 od mistrzostwa).

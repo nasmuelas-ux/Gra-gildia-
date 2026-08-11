@@ -12,7 +12,7 @@
  "zmeczenie": 12,
  "sakiewka": {
   "miedziaki": 6,
-  "jelenie": 31,
+  "jelenie": 41,
   "smoki": 0
  },
  "dobytek": [
@@ -135,19 +135,19 @@
  },
  "nazwisko": "Tally",
  "liczniki_uzyc": {
-  "rachunki": 238,
-  "audyt": 158,
+  "rachunki": 243,
+  "audyt": 159,
   "pismo": 130,
-  "organizacja": 134,
+  "organizacja": 135,
   "kondycja": 115,
   "walka": 51,
   "prawo": 188,
-  "retoryka": 129,
-  "czytanie_ludzi": 211,
+  "retoryka": 130,
+  "czytanie_ludzi": 213,
   "rzemioslo": 4,
   "jezyki": 75,
   "spryt_uliczny": 129,
-  "handel": 145,
+  "handel": 146,
   "geometria": 20
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",

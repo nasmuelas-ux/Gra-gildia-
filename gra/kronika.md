@@ -4909,3 +4909,6 @@ Został jeszcze — łatwe, wspólne popołudnie. Na jej zaproszenie zerknął l
 
 ## 297-06-01 WIECZÓR — praca u Nesty (rzut 58)
 Solidna wieczorna sesja przy księgach kantoru, wiosenny wolumen podciągnięty, bez przełomu. Organizacja 124/125 — o krok od poziomu 8. Wieź 90.
+
+## 297-06-01 NOC — sen; 06-02 INBOUND Denys
+Symon śpi. → 297-06-02 RANEK. INBOUND (rzut 38): Denys (wosk/świece, cegła bloku, 57+ dni) sam przysłał słowo — niespokojny o dostawcę z sieci Antaryona, prosi o audyt ksiąg. Grosz + cicha korroboracja bloku (firewall).

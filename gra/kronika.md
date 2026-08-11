@@ -4866,3 +4866,6 @@ Sesja nad księgami/umowami cechu wyszła wybitnie: Symon przestrukturyzował um
 
 ## 297-05-29 WIECZÓR — 50 jel w księgę kredytową (rada Nesty, rzut 55)
 Symon wziął radę Nesty: 50 jel we własną księgę kredytową (nie jej rotację). Ulokował solidnie — wiosenny popyt na mostek-kredyt realny, wybrał dobrych dłużników (czytanie+prawo), uczciwe warunki. Ramię kredytu podwoiło się do 100 jel out. Nesta rada — rośnie w partnera-następcę z własnym filarem. Wolne: 5 jel + 14 mied. Zauf 44→45. (Ekspozycja większa: 100 jel w kredycie — dyscyplina doboru dłużników.) Druga partia wraca ~06-18.
+
+## 297-05-29 WIECZÓR — pytanie o kondycję faktorii (rzut 28)
+Nesta szczerze, krótko (spita, późno): „lepiej w ruchu — nie w kościach, jeszcze nie". Wiosenny wolumen mocny, ramię kredytu/ubezpieczeń Symona dokłada odpornej marży, renoma rośnie. ALE młyński kamień Antaryonów (~90 smoków długu) wciąż wisi — marża cienka mimo wolumenu. Prawdziwe wyjście = refinansowanie przez Bank (wolny zegar). Głębsza strategia „na jasną głowę".

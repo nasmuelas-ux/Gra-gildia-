@@ -5215,3 +5215,6 @@ Czysta sesja nowej linii, +4 jel, peace of mind. INTEL: Merek (prowiantnik) potw
 
 ## 297-06-21 POPOŁUDNIE — Septa, metoda skorygowana (rzut 54)
 Symon = zaplecze (zapasy/zamówienia/rachuba), septa/siostra = osąd ludzki (kto/ile/komu). Szepcze septie na ucho, ona decyduje/kupuje, ręka niewidzialna. Zapasy stretchowane dalej BEZ rany i BEZ widoczności. Podział pracy się ułożył — cicha redempcja crit-failu. Wiara 84 trzyma (tarcza czysto).
+
+## 297-06-21 NOC — sen (dzień dobry i czysty)
+Kantor mistrzowski read (rzut 95, pozycja na soli, +6 jel), Merek (+4, sól-squeeze potwierdzony), Septa metoda skorygowana (rzut 54, dobro z cienia jak należy). → 297-06-22 RANEK (rotacja się rozlicza).

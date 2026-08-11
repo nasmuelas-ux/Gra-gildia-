@@ -5024,3 +5024,6 @@ Odpowiedź na poranne zwątpienie Wicka. Symon wrócił wieczorem i zaoferował 
 
 ## 297-06-08 NOC — sen (za zgodą gracza)
 Dzień pełny: Godric (kryzys→sojusznik+szczebel dworski, Faza B), Boren (+5 jel, więź 89), Wick (fach — uczeń-pisarz), Owen (rada: ambicja vs Antaryon). Dzień 06-08 zamknięty. → 297-06-09 RANEK.
+
+## 297-06-09 RANEK — Boren zgadza się na zwolnienie Wicka (rzut 78)
+Symon zagrał ramą, która osiodłała „chronić braci": zwolnienie do fachu = najwyższa ochrona brata, nie porzucenie; ręczył na papierze; chluba dla imienia cechu; skrybów z dala; zapytał o właściwą procedurę. Boren przekonany i wzruszony — zgodził się na formalne, błogosławione, udokumentowane zwolnienie (w jego gestii jako cechmistrza, dogląda properly). Pobłogosławi Wicka OSOBIŚCIE. Nast 89→90, zauf 26→27. NEXT: przyprowadzić Wicka na benedykcję + spisać oba papiery + wdrożyć cicho.

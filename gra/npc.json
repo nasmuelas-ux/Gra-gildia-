@@ -1554,8 +1554,8 @@
    "stan": "mieszczka (wdowa)",
    "zawod": "wdowa po drobnym kupcu (handel z Braavos); sama ciagnie resztke interesu",
    "mieszka": "Port_Manderly (okolice)",
-   "nastawienie_do_gracza": 71,
-   "zaufanie": 27,
+   "nastawienie_do_gracza": 78,
+   "zaufanie": 32,
    "wie_o_graczu": [
     "d31 (rzut 11): pierwsze spotkanie przy jej ksiegach. Symon pomogl KOMPETENTNIE (wskazal niedowazenie w kontrakcie meza) - przyjela rzeczowo. ALE pol-przejrzala pretekst (bystra: 'po co Nesta przysyla akurat takiego skrybe?') - garda w gore, chlodna, transakcyjna, zero ciepla/sparku, nic z siebie nie dala. Nast 0->2 (za kompetencje, ale wary). Symon zagral dobrze (fachowiec nie zalotnik, zero pchania) - ale to dopiero poczatek dlugiej gry.",
     "297-01-30 (read Nesty, nie potwierdzone przez Mire): jej chlod moze byc GENUINE brakiem checi do malzenstwa (niezalezna pismienna wdowa - malzenstwo=utrata autonomii/majatku), nie 'jeszcze niezdobyta'. Hipoteza: trop moze byc slepy niezaleznie od cierpliwosci Symona. Nie napierac; nie projektowac wlasnego pragnienia na jej milczenie.",
@@ -1576,13 +1576,14 @@
     "297-05-12 POPOLUDNIE (rzut 59): dobry rytm - Symon dal jej 4 dni oddechu po odsłonieciu (05-08), nie przylecial nazajutrz. Mira to ZAUWAZYLA i doceniła: dales mi oddech = ten czlowiek mnie ROZUMIE (u niej glebsze niz wyznanie). Wizyta latwa, cieplo, zero pol-kroku. Opowiedziala mu o wlasnym planie (pchnac resztke interesu meza w nowym kierunku) i spytala o zdanie jak PARTNERA-w-zyciu, nie skrybe. Nie nazwane, nie trzeba - tak blisko jak dwoje ostroznych moze bez slow. nast 61->65, zauf 22->24.",
     "297-05-15 RANEK (rzut 65): dobry rytm (3 dni). Jak w dom, zero napiecia/sprawdzania. Przy jej papierach reka Symona znalazla jej dlon - NIE COFNELA, zostawila; spojrzenie dluzsze niz miedzy obcymi. Bez wielkiego slowa (u Miry przychodza ostatnie), ale PROG PRZEKROCZONY: niewypowiedziane-ale-pewne -> DOTKNIETE (gest nie deklaracja). nast 65->69, zauf 24->26.",
     "297-05-18 RANEK (rzut 33, plateau): 3 dni po dotyku. Cieplo ale OSTROZNE COFNIECIE W SIEBIE - nie o Symona, o NIA: pozwolila trzymac dlon, a strzegaca niezaleznosci (raz zalezala od cudzego dachu, przysiegla nigdy) przestraszyla sie wlasnego pozwolenia. Jej PRAWDZIWY prog: autonomia vs bliskosc (jesli to urosnie - czy strace siebie?). Glebszy niz dotyk, nie do przeskoczenia srebrem/czuloscia. Symon NIE napieral (zero o dotyku, zero pytan) - staly, obecnoscia dal znac ze cofniecie != odrzucenie. Bez straty, bez kroku naprzod - ona rozwiaze sama w swoim czasie. nast 69 hold.",
-    "297-05-25 RANEK (rzut 42): 7 dni oddechu po cofnieciu z 05-18. Wizyta po ludzku, bez agendy, zero nacisku - i to zadzialalo: ostrozny flinch z 05-18 ROZPUSCIL sie, wrocila wygodna latwosc. Bez kroku naprzod (nie jest gotowa, Symon MADRZE nie pchа) - ale Mira uchylila okno: opowiedziala kawalek o tym, czemu tak strzeze niezaleznosci (raz zalezala od cudzego dachu i to sie zle skonczylo). Symon tylko sluchal. Postep w ZROZUMIENIU, nie w romansie - i to tez rodzaj bliskosci. Grunt znow stabilny. nast 69->71, zauf 26->27."
+    "297-05-25 RANEK (rzut 42): 7 dni oddechu po cofnieciu z 05-18. Wizyta po ludzku, bez agendy, zero nacisku - i to zadzialalo: ostrozny flinch z 05-18 ROZPUSCIL sie, wrocila wygodna latwosc. Bez kroku naprzod (nie jest gotowa, Symon MADRZE nie pchа) - ale Mira uchylila okno: opowiedziala kawalek o tym, czemu tak strzeze niezaleznosci (raz zalezala od cudzego dachu i to sie zle skonczylo). Symon tylko sluchal. Postep w ZROZUMIENIU, nie w romansie - i to tez rodzaj bliskosci. Grunt znow stabilny. nast 69->71, zauf 26->27.",
+    "297-05-28 RANEK (rzut 93, PRZELOM): dobry 3-dniowy rytm. Po calej cierpliwosci i zrozumieniu (nie napieral, dal oddech, poznal jej lek o niezaleznosc) - MIRA SAMA zrobila krok. Z wlasnej woli wziela JEGO dlon (odwrocenie 05-15) i nie puscila; powiedziala wprost, ze przestala sie go bac - ze POKAZAL jej, nie obiecal, ze bycie z nim nie zrobi jej mniejsza. Pierwszy pocalunek - z JEJ inicjatywy. Prog przekroczony na JEJ warunkach: z slow-burn-niepewnosci w wzajemnie uznana wczesna bliskosc. Nie zaslubiny (to lata), ale to JUZ jest - realne, wybrane przez nia. nast 71->78, zauf 27->32."
    ],
    "potrzeby": [
     "utrzymac resztke interesu meza",
     "niezaleznosc/nie dac sie popchnac"
    ],
-   "ostatni_kontakt": "297-05-25",
+   "ostatni_kontakt": "297-05-28",
    "cechy_mowy": "krotko, rzeczowo, chlodno; bystra, przenikliwa, malo daje z siebie; twarda niezaleznosc",
    "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA."
   },

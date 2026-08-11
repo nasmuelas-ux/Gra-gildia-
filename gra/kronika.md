@@ -4836,3 +4836,6 @@ Wieczorna wspólna praca. Hal stosuje już strukturę z 05-25 (priorytety, kolej
 
 ## 297-05-27 NOC — wprawka + sen (rzut 42)
 Decyzja o kamieniczce: B — zostawić dług, niech czynsz niesie (kapitał-light). Przed snem wprawka pisma — zmęczony, więc skromna, ale tym razem bez zmarnowania (pismo licznik 126, do 9 daleko: 165). Sen. → 297-05-28 RANEK.
+
+## 297-05-28 RANEK — Mira: PRZEŁOM (rzut 93)
+Po całej cierpliwości i zrozumieniu — MIRA SAMA zrobiła krok. Z własnej woli wzięła jego dłoń (odwrócenie 05-15), nie puściła; powiedziała wprost, że przestała się go bać, bo POKAZAŁ jej (nie obiecał), że bycie z nim nie zrobi jej mniejszą. Pierwszy pocałunek — z jej inicjatywy. Próg przekroczony na JEJ warunkach: ze slow-burn w wzajemnie uznaną wczesną bliskość. Nie zaślubiny (to lata), ale to już jest — realne, wybrane przez nią. Metoda Nesty+Serli (cierpliwość + równość + zero nacisku) dowiozła. Nast 71→78, zauf 27→32.

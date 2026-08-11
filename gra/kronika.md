@@ -5200,3 +5200,6 @@ Symon przywrócił kobietę PRZEZ SIOSTRĘ (ręka w cieniu), wpis „potrzeba pr
 
 ## 297-06-20 POPOŁUDNIE — woda (po nauczce)
 Symon nad wodą, pokorny po porannej lekcji (liczydło ma granicę = człowiek; kolumna nie widzi chorej sąsiadki za „bierze dwakroć"). Studnia napełniona, lekcja osiadła. Wrócił lżejszy i pokorniejszy.
+
+## 297-06-20 POPOŁUDNIE — Aldous (rzut 36, zwyczajny kubek)
+Ciepły kubek po humbling dniu, ale wieczór zwyczajny (Aldous w kubkach, głęboka mądrość się nie zapaliła). Symon ostrożnie podzielił się lekcją (liczydło ma granicę = człowiek). Aldous: „każde narzędzie ma tępy koniec, znalazłeś swój — to mapa nie klęska". Firewall HELD ale z wysiłkiem (wino+pokora kusiły). Ukojony, nie odmieniony. Więź ciepła (84).

@@ -5263,3 +5263,6 @@ Symon odpoczął po dużym dniu (kanał drewna domknięty). PLAN NA JUTRO (06-25
 
 ## 297-06-24 WIECZÓR — Torren: pomoc + slot rano (rzut 38)
 Symon przyszedł NIE dumpować 2 spraw na zmęczonego, lecz POMÓC — odciążył Torrena przy zaległościach Septy (reciprocity). Modest tired session, ale zdjął mu brzemię. Torren: „nie każdy przychodzi DAĆ gdy mógłby brać". SLOT NA RANO dograny: firma ② + prawa drewna „na świeżo". Nast 35→37.
+
+## 297-06-24 NOC — sen (dzień mocny i dobry)
+Kanał lokalnego drewna zbudowany (Bennet→broker→zamek, kra-odporny, standing contract wraca), Torren pomoc+slot rano. → 297-06-25 RANEK: Torren obie sprawy (firma ② + prawa drewna). batch3 ~06-27.

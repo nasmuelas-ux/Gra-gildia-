@@ -4594,3 +4594,6 @@ Reconnect z Torsenem (rzut 39). Cieply, ale szczery: kanal NEAR CAPACITY - dokla
 
 ## 297-05-15 WIECZOR — Nesta: skalowac gore cudza pewnoscia (nie srebrem)
 Konsultacja capacity (rzut 63). Nesta prostuje: ty SPINASZ nie dzwigasz - nie wsadzaj srebra w daleka podaz Halvarda (grosz bez kontroli, nie twoj styl). PLAN popyt-najpierw (wlasna doktryna): przynies GORZE PEWNOSC - zamknij popyt "innych" (graded-supply) jak norme zamkowa; z zamknietym popytem Halvard SAM dolozy rak/tratw (bo bedzie na co); Symon koordynuje/skimuje, grosz lekki. Opcjonalny cienki ZABEZPIECZONY mostek (kapital Nesty) tylko jak Halvard potrzebuje startu, na twardych warunkach. TEMPOWAC do realnej pojemnosci sezonu (reliability). NEXT: pozyskac+zamknac popyt odbiorcow graded-supply. Znow Nesta uchronila przed zbednym wsadzeniem grosza. Liczniki handel+1 (124), organizacja+1 (103). -> noc.
+
+## 297-05-16 RANEK — Noc
+Sen. Przejscie 05-16 RANEK. Plan: zamknac popyt graded-supply (skalowac gore popytem-najpierw). Filary mielą, weksle pracuja, Mira (prog przekroczony), Bank blizej gotowosci.

@@ -5175,3 +5175,6 @@ Kra tnie BIEŻĄCY strumień drewna na zamek (dostawy spóźnione/chudsze, marż
 
 ## 297-06-19 POŁUDNIE — kantor księgi z Nestą (rzut 81)
 Mistrzowska sesja (rachunki 10) — wyłapana optymalizacja (cykl rozliczeń kontrahenta), kantor obraca kapitałem szybciej, marża lepsza, spółka mocniej. +3 jel. Rotacja/faktoria silna wiosna, ~06-22 rozliczenie dobre. Ciepły moment: Nesta „wychowałam mistrza". Wolne 19 jel.
+
+## 297-06-19 POPOŁUDNIE/WIECZÓR — odpoczynek, woda
+Symon obrządkowo popatrzył na wodę (studnia napełniona). Dzień dobry i cichy: Serla-arrangement, Godric (kra tnie bieżące drewno, kryje stewarda), kantor (mistrzowska optymalizacja, +3 jel, duma Nesty). → wieczór.

@@ -4912,3 +4912,6 @@ Solidna wieczorna sesja przy księgach kantoru, wiosenny wolumen podciągnięty,
 
 ## 297-06-01 NOC — sen; 06-02 INBOUND Denys
 Symon śpi. → 297-06-02 RANEK. INBOUND (rzut 38): Denys (wosk/świece, cegła bloku, 57+ dni) sam przysłał słowo — niespokojny o dostawcę z sieci Antaryona, prosi o audyt ksiąg. Grosz + cicha korroboracja bloku (firewall).
+
+## 297-06-02 RANEK — Denys (C2+C3, rzut 61) + ORGANIZACJA 7→8
+Symon uspokoił (zwalidował instynkt), wąski spot-check tylko linii dostawcy (skim stały, nie gorszy — Symon nie kopał głęboko), nauczył Denysa prostej wędki (tally/waga przy przyjęciu → sam łapie drift, sprawczość, Symon wychodzi z pętli). +3 jel. Firewall cały — dostawca/sieć nic nie czuje (skim zostawiony, zero konfrontacji). Nast 28→31, zauf 9→11. Cicho: wzór Antaryona potwierdzony stały (blok/aggregate), lont nietknięty. Przy okazji ORGANIZACJA 7→8 (licznik 125). → POPOŁUDNIE.

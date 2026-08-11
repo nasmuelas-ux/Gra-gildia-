@@ -1409,8 +1409,8 @@
    "id": "kupiec_denys",
    "imie": "Denys",
    "zawod": "handlarz ze Schodow - wosk/swiece + braawijskie towary (audytowany przez Symona, cegla bloku anty-Antaryon)",
-   "nastawienie_do_gracza": 28,
-   "zaufanie": 9,
+   "nastawienie_do_gracza": 31,
+   "zaufanie": 11,
    "ostatni_kontakt": "297-06-02",
    "wie_o_graczu": [
     "przyszedl do faktorii po dyskretny audyt swoich ksiag — niespokojny o dostawce; slyszal, ze 'ten pisarz' rzetelny i cichy (nisza/pewnie szept Aldousa)",
@@ -1418,7 +1418,8 @@
     "297-03-24 RANEK (rzut 55): Symon wpadl po ludzku (swiezy) - Denys (wdzieczny, ze Symon uratowal mu grosz) przyjal jak dobrodzieja, bez podejrzliwosci (kontrast z Harlonem/Aurane). Gadka o wiosnie (galery wracaja, wosk/knoty plyna, interes sie prostuje). Cegla CICHA i LOJALNA - nie dopytuje o zadna sprawe, wdzieczny i spokojny = stabilny rdzen bloku (vs twarde niecierpliwe ogniwa). Podsunal wiazke dobrych swiec po przyjacielskiej cenie (narzedzie pracy Symona - drobny pozytek). Ciepla, lekka wizyta. nast 23->28, zauf 8->9.",
     "297-04-02 (rzut 44, skromny pas): Symon wrocil po ~33d - tym razem BEZ KATA, bez prosby, bez 'mostu'. Zwykla bezinteresowna wizyta rozbroila rezerwe, ktora sam zasial (m9d6 przesada). Denys, ktory spodziewal sie zagrania, dostal czyste 'nic nie biore' - chlod cofnal sie na wlos. Nie wrocil dawny zachwyt, ale zaczyna czytac Symona jako moze-jednak-nie-sam-angle. NAUKA Symona: z czlowiekiem czytajacym katy jedyny ruch to NAPRAWDE zaden kat. nast 23->27, zauf ->3 (poczatek).",
     "[SCALENIE 297-04-18: rekord 'kupiec_denys_zbytek' zlany tutaj - to ten sam Denys ze Schodow, tylko rozjechany na dwa wpisy przez kolizje id 04-02. Zawod=wosk/swiece+braawijskie towary.]",
-    "297-06-02 (inbound rzut 38): Denys SAM przyslal slowo (bojazliwy, wiec nie summons lecz niespokojny feeler) - prosi, by Symon zajrzal w jego ksiegi. Niepokoj o dostawce z sieci Antaryona (wiosna, swiece?). Grosz + cicha korroboracja bloku (firewall - rutyna, nie zapala lontu)."
+    "297-06-02 (inbound rzut 38): Denys SAM przyslal slowo (bojazliwy, wiec nie summons lecz niespokojny feeler) - prosi, by Symon zajrzal w jego ksiegi. Niepokoj o dostawce z sieci Antaryona (wiosna, swiece?). Grosz + cicha korroboracja bloku (firewall - rutyna, nie zapala lontu).",
+    "297-06-02 (rzut 61, C2+C3): Symon uspokoil (zwalidowal instynkt: \"dobrze zes zawolal, mam to na oku\") - bojazliwy siadl spokojny, sam NIC nie robi. Waski spot-check TYLKO linii dostawcy: skim STALY, nie gorszy - dobra wiesc, i Symon nie kopal gleboko (mala ekspozycja). Nauczyl Denysa prostej WEDKI (tally/waga przy przyjeciu) - sam lapie drift, sprawczosc, i Symon WYCHODZI Z PETLI (mniej wizyt/sladow). +3 jel. Firewall CALY, dostawca/siec nic nie czuje (skim zostawiony, zero konfrontacji). nast 28->31, zauf 9->11."
    ],
    "nota": "LEAD (od Aldousa, 11-01): wg Aldousa jego dostawca z sieci Antaryona zdaje sie go SKRACAC; towar (swiece/wosk) zima drogi = lakomy kas dla skimu. KANDYDAT-cegła bloku anty-Antaryon. NIEZWERYFIKOWANE — trzeba potwierdzic dyskretnie (najlepiej gdy sam najmie faktorie do ksiag, jak inni; NIE zaczepiac jawnie = ekspozycja). Symon niewidzialny.",
    "historia": [

@@ -5163,3 +5163,6 @@ Symon rozwiązał jej przednówkowy głód GODNIE — nie datek, lecz PRACA: Ser
 
 ## 297-06-18 POPOŁUDNIE — służba w Sepcie (rzut 52)
 Dutyful służba (rejestry jałmużny, korespondencja) — wiara 84 trzyma (tarcza). ZACZĄŁ dyskretną pomoc strukturą: reckoner's eye na jałmużnę/zaopatrzenie Wiary — wyłapał przecieki (podwójne zakupy u drożejącego przekupnia, jałmużna bez rejestru = ci sami biorą dwakroć, opał w złym momencie), prostuje po cichu by z tych samych zapasów wyżywić więcej głodnych. „Większa miara" z CIENIA (per Owen 06-14), strukturą nie twarzą. Starsza septa wdzięczna. Pierwszy krok pomocy Wierze w przednówku.
+
+## 297-06-18 NOC — sen (dzień cichego dobra)
+Serla (dignified care — gotuje dla Hala/Wicka za zapłatę), służba w Sepcie (pomoc strukturą, większa miara z cienia). Wcześniej: weksle batch2 +56, mostek zabezpieczony +50. Majątek ~427 jel. → 297-06-19 RANEK (rotacja ~06-22, batch3 ~06-27, Torren charter, Boren drewno).

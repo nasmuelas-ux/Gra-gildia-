@@ -5027,3 +5027,6 @@ Dzień pełny: Godric (kryzys→sojusznik+szczebel dworski, Faza B), Boren (+5 j
 
 ## 297-06-09 RANEK — Boren zgadza się na zwolnienie Wicka (rzut 78)
 Symon zagrał ramą, która osiodłała „chronić braci": zwolnienie do fachu = najwyższa ochrona brata, nie porzucenie; ręczył na papierze; chluba dla imienia cechu; skrybów z dala; zapytał o właściwą procedurę. Boren przekonany i wzruszony — zgodził się na formalne, błogosławione, udokumentowane zwolnienie (w jego gestii jako cechmistrza, dogląda properly). Pobłogosławi Wicka OSOBIŚCIE. Nast 89→90, zauf 26→27. NEXT: przyprowadzić Wicka na benedykcję + spisać oba papiery + wdrożyć cicho.
+
+## 297-06-09 RANEK — Benedykcja Wicka (domknięcie)
+Symon przyprowadził Wicka. Boren przed majstrami formalnie zwolnił go z błogosławieństwem: „nie wyrzucamy cię — wyprawiamy w nowe... bratem zostajesz, choćbyś pióro trzymał zamiast kielni. Idź z Siedmioma." Przemieniło Wicka inaczej niż wczoraj — nie jałmużna z ręki, lecz HONOR od cechmistrza przed majstrami; stanął prościej, niewiara osiadła. Symon spisał oba papiery (zwolnienie z pieczęcią + prywatna nauka). Wick teraz uczeń-klerk Symona, z fachem przed sobą i cechem za plecami. Łańcuch Owen→Symon→Wick spełniony w fach. Nast 63→67, zauf 20→22. Wątek → niski (bieżące: wdrożyć w robotę, pierwsza wypłata, cicho wobec skrybów).

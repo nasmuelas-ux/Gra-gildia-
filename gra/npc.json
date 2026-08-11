@@ -1883,9 +1883,9 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 63,
-   "zaufanie": 20,
-   "ostatni_kontakt": "297-06-08",
+   "nastawienie_do_gracza": 67,
+   "zaufanie": 22,
+   "ostatni_kontakt": "297-06-09",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
@@ -1898,10 +1898,11 @@
     "297-05-25 POPOLUDNIE (rzut 14, off-day fizyczny): odwilzowa wilgoc rozbolala zmiazdzona dlon/ramie - dzis nie o pisanie chodzilo, reka sztywna i obolala, lewa tez nie slucha przy takim bolu. Symon NIE cisnal nauki - byl, czytal mu, trzymal na duchu, przyjal ze cialo ma gorsze dni. Zero postepu w pismie, ale morale trzyma bo Symon nie zrobil z tego porazki. nast 51->52, zauf 14->15.",
     "297-05-26 WIECZOR (rzut 36): dzien po bolesnym off-dayu. Reka spokojniejsza (ostry ból od wilgoci odpuscil), cicha wieczorna lekcja - troche liter, bez fajerwerkow. NAJWAZNIEJSZE: Symon przyszedl DRUGI dzien z rzedu, w tym po tym zlym - Wick to zauwazyl, staly gost = nie zapomniany. Konsystencja > przelom. nast 52->53, zauf 15->16.",
     "297-06-08 (rzut 26): gorszy dzien - wilgoc w zmiazdzonej dloni (bol) + zwatpienie (\"a jesli na darmo? kolodziej zaden, skryba niepewny - czy ty mnie tylko zajmujesz?\"). Bez przelomu w literach. Symon go UTRZYMAL cierpliwie: pokazal ile juz umie, przypomnial ze Boren ceni, ze to REALNA droga nie pocieszenie. Ledwie, ale nie dal mu spasc. nast 53->54.",
-    "297-06-08 (rzut 11): Symon wrocil wieczorem i ZATRUDNIL go jako ucznia-pisarza - odpowiedz na poranne zwatpienie. Wick pekl ze wstydu/dumy (\"nie moge brac com nie zarobil, zmarnujesz grosz na kaleke\"), Symon przeparl twardo (robota nie litosc, zarobisz). Chlopiec z \"czekania az dlon wroci\" dostal FACH i przyszlosc. Kiwnal, nie na slowa go bylo stac. nast 54->63."
+    "297-06-08 (rzut 11): Symon wrocil wieczorem i ZATRUDNIL go jako ucznia-pisarza - odpowiedz na poranne zwatpienie. Wick pekl ze wstydu/dumy (\"nie moge brac com nie zarobil, zmarnujesz grosz na kaleke\"), Symon przeparl twardo (robota nie litosc, zarobisz). Chlopiec z \"czekania az dlon wroci\" dostal FACH i przyszlosc. Kiwnal, nie na slowa go bylo stac. nast 54->63.",
+    "297-06-09: benedykcja - Boren przed majstrami zwolnil go z blogoslawienstwem (\"nie wyrzucamy, wyprawiamy w nowe... bratem zostajesz\"). Przemienilo go inaczej niz wczoraj: nie jalmuzna z reki, lecz HONOR od cechmistrza. Stanal prosciej. Fach przed nim, cech za plecami. nast 63->67."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'",
-   "status": "PRZYJETY na nauke pisarska u Symona (297-06-08) - realna praca+grosz co rosnie z reka, nie jalmuzna. Landing twardy (wstyd/duma jak u Elny, rzut 11) - Symon przeparl (\"to robota nie litosc, zarobisz kazdy miedziak\"). Niewiara osiadzie z czasem (uwierzy wlasnej wyplacie). DO ZALATWIENIA: czyste zwolnienie z czeladnictwa kolodziejow z blogoslawienstwem Borena (nie podbieranie)."
+   "status": "ZWOLNIONY z czeladnictwa kolodziejow (297-06-09, formalnie/jawnie/z blogoslawienstwem Borena przed majstrami) -> UCZEN-KLERK Symona (prywatna nauka pisarska, poza cechem skrybow, cicho). Papiery spisane (zwolnienie z pieczecia + uklad nauki). Benedykcja Borena dala mu GODNOSC/domkniecie kolodziejstwa - niewiara z 06-08 osiadla (oficjalne, jawne). Odszedl jako brat wyprawiony w nowe, nie odpadly kaleka. NEXT: wdrozyc w realna robote, pierwsza wyplata utrwali wiare."
   },
   {
    "id": "kupiec_corl",

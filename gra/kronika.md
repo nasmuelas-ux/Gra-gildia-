@@ -4815,3 +4815,6 @@ Symon, wyczerpany po pełnym dniu, siadł do skryby w sepcie po nocy — i podł
 
 ## 297-05-26 NOC — sen (za zgodą gracza)
 Symon w końcu posłuchał ciała i poszedł spać po długim dniu doglądania sieci (i krytyku w skryptorium). Dzień 05-26 zamknięty. → 297-05-27 RANEK. Dziś spodziewany raport Godrica z zamku (intake/Gowen).
+
+## 297-05-27 RANEK — RAPORT Godrica: intake domknięty (rzut 83)
+Plan zadziałał wzorcowo. Godric poniósł jednostronicówkę do Gowena jako rutynowe wyrównanie (bez oskarżenia, z drabiną). Gowen — potraktowany godnie — sam znalazł swój miscount (trzy wozy naraz), poprawił cicho, wdzięczny. Księgi Godrica wytrowane, kark przed zamkiem czysty. NIE weszło na biuro Ulrica — firewall cały, Symon niewidzialny. Godric głęboko wdzięczny (strach → czysta wygrana, wyszedł na sumiennego). +5 jel zaległe za robotę. Nast 75→79, zauf 17→20. Drobny goodwill: Gowen (0→8, zdobyty bez tykania Ulrica). Wątek godric_intake_niezgodnosc ZAMKNIĘTY.

@@ -82,12 +82,6 @@
    "co": "Nesta rozliczy cichy udzial w rotacji (zwrot kapitalu + maly plon) na zamkniecie cyklu",
    "kiedy": "~06-22",
    "zywy_watek": "inwestycja_faktoria_rotacja"
-  },
-  {
-   "kto": "godric_raport_intake",
-   "co": "Godric wroci z wiescia jak poszlo rutynowe wyrownanie u Gowena (intake zamku)",
-   "kiedy": "~05-27",
-   "zywy_watek": "godric_intake_niezgodnosc"
   }
  ]
 }

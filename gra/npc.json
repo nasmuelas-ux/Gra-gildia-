@@ -1181,9 +1181,9 @@
    "id": "zarzadca_godric",
    "imie": "Godric",
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
-   "nastawienie_do_gracza": 75,
+   "nastawienie_do_gracza": 79,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-   "zaufanie": 17,
+   "zaufanie": 20,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
     "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
@@ -1202,9 +1202,10 @@
     "297-04-13 WIECZOR (rzut 87): Symon domknal spor o grad pierwszej dostawy - przyniosl STRUKTURE nie zadanie. SAM przyznal uczciwy markdown na prawdziwie mokrym drewnie (nie naciaga na wlasna korzysc!), na reszcie papier+autorytet Godrica poprawil over-grading szafarza. Sprawiedliwy grad, prowizja cieńsza ale zainkasowana. WPISALI NORME GRADU na stale (obiektywne sorty, grad-u-zrodla+tally, regula tranzytu/ubezpieczenie, Symon-arbiter). Godric widzi to co ceni najbardziej: czlowiek co nie naciaga nawet na wlasna korzysc. Kanal z przyslugi w BIZNES. nast 68->70, zauf 13->14.",
     "297-05-23 POPOLUDNIE (rzut 1, krytyk): sesja poszla bokiem - nie z winy Symona. Przy zamykaniu ksiag zamkowego drewna wyszla NIEZGODNOSC: intake Nowego Zamku zaksiegowal jedna dostawe KROCEJ niz rejestr Godrica. Nie domklo sie dzis. Godric zaniepokojony - to JEGO kark przed zamkiem (albo blad intake, albo realny niedobor). Zaden czysty zysk, atmosfera napieta. Symon problem znalazl, nie spowodowal (zauf trzyma), ale wyszedl z klopotem w rekach. nast 70, zauf 14.",
     "297-05-23 POPOLUDNIE (rzut 41, po odpoczynku): Symon odbudowal STRONE GODRICA airtight - rejestr zgadza sie z tally i znakiem karczmarza/woznicy; PELNA dostawa udokumentowana po jego stronie. Godric ODETCHNAL: ma czym pokazac zamkowi, ze wyslal ile trzeba. Wniosek: rozjazd wszedl PO stronie intake zamku (blad urzednika najpewniej, ale NIEPOTWIERDZONE). Domkniecie wymaga wgladu w rejestr intake - delikatne. nast 70->72, zauf 14->15.",
-    "297-05-24 RANEK (rzut 58): Symon zagral MADRZE - NIE coachingowal (stan!), tylko dal airtight jednostronicowe wyrownanie + JEDNA rowna sugestie (podac jako rutynowe wyrownanie, nie skarge) i ZAPYTAL Godrica o ludzi intake. Godric, potraktowany jak ekspert ktorym jest, wzial sprawe na siebie z nienaruszona duma i sie otworzyl: dostawe przyjmowal GOWEN (skryba intake Nowego Zamku) - porzadny ale zaharowany, przy trzech wozach na raz myli pnie, poprawi cicho jak sie go nie przyprze. Intake podlega urzedowi SZAFARZA (Ulric) - wiec trzymac na poziomie skryby, nie dawac temu wejsc na biurko Ulrica. Godric poniesie kartke do Gowena jako rutyne. nast 72->75, zauf 15->17."
+    "297-05-24 RANEK (rzut 58): Symon zagral MADRZE - NIE coachingowal (stan!), tylko dal airtight jednostronicowe wyrownanie + JEDNA rowna sugestie (podac jako rutynowe wyrownanie, nie skarge) i ZAPYTAL Godrica o ludzi intake. Godric, potraktowany jak ekspert ktorym jest, wzial sprawe na siebie z nienaruszona duma i sie otworzyl: dostawe przyjmowal GOWEN (skryba intake Nowego Zamku) - porzadny ale zaharowany, przy trzech wozach na raz myli pnie, poprawi cicho jak sie go nie przyprze. Intake podlega urzedowi SZAFARZA (Ulric) - wiec trzymac na poziomie skryby, nie dawac temu wejsc na biurko Ulrica. Godric poniesie kartke do Gowena jako rutyne. nast 72->75, zauf 15->17.",
+    "297-05-27 RANEK (rzut 83): RAPORT z zamku - plan zadzialal wzorcowo. Godric poniosl jednostronicowke do Gowena jako rutynowe wyrownanie, bez oskarzenia, z drabina. Gowen (potraktowany godnie) sam znalazl swoj miscount (trzy wozy na raz), poprawil CICHO, wdzieczny ze bez awantury. Ksiegi Godrica wytrowane, kark przed zamkiem czysty. NIE weszlo na biuro Ulrica - firewall caly, Symon niewidzialny. Godric gleboko wdzieczny: strach zamienil sie w czysta wygrana, w ktorej WYSZEDL na sumiennego dostawce. Zaplacil zalegle za robote. nast 75->79, zauf 17->20."
    ],
-   "ostatni_kontakt": "297-05-24",
+   "ostatni_kontakt": "297-05-27",
    "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",
    "historia": [
     "m11d16 (rzut 97): Symon wchodzi cicho, bez prosby, z oferta wartosci — braavijska ksiegowosc dla domu. Godric (ceni go za dyskrecje-lojalnosc) przyjmuje idealnie i POWIERZA staly, cichy angaz: prowadzenie/audyt czesci rachunkow domu do wyzszego, braavijskiego standardu, regularnie, dyskretnie, platnie. Symon = odtad ZAUFANY CZLOWIEK OD LICZB DOMU (nie jednorazowy audytor). Zaufanie mocno w gore. Nast 38->42. Zero ekspozycji karty.",
@@ -1927,11 +1928,12 @@
    "imie": "Gowen",
    "zawod": "skryba intake (przyjecia dostaw) Nowego Zamku",
    "stan": "sluzba zamkowa",
-   "nastawienie_do_gracza": 0,
+   "nastawienie_do_gracza": 8,
    "zaufanie": 0,
-   "ostatni_kontakt": null,
+   "ostatni_kontakt": "297-05-27",
    "wie_o_graczu": [
-    "297-05-24: NIE zna Symona osobiscie. Przyjmowal dostawe drewna Godrica, zaksiegowal KROCEJ (pewnie miscount przy natloku). Porzadny, zaharowany; poprawi cicho jak sie go nie przyprze. Podlega szafarzowi Ulrikowi."
+    "297-05-24: NIE zna Symona osobiscie. Przyjmowal dostawe drewna Godrica, zaksiegowal KROCEJ (pewnie miscount przy natloku). Porzadny, zaharowany; poprawi cicho jak sie go nie przyprze. Podlega szafarzowi Ulrikowi.",
+    "297-05-27: potraktowany godnie przez Godrica (nie przyparty) - sam poprawil swoj miscount, wdzieczny. Ciepnie wobec Godrica/jego dostaw. Nie wie o Symonie. Drobny goodwill przy intake zamku - zdobyty BEZ tykania Ulrica."
    ],
    "uwaga": "minor/orbita. Intake pod urzedem szafarza Ulrica (parked enemy) - trzymac sprawe na poziomie Gowena, nie eskalowac do Ulrica."
   }

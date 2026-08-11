@@ -4781,3 +4781,6 @@ Wick (rzut 14, off-day fizyczny): odwilżowa wilgoć rozbolała zmiażdżoną d�
 
 ## 297-05-25 WIECZÓR — Vox (follow-up, rzut 85)
 3 tyg po catchu krótkiej miary. Vox poszedł za tym — odprawił oszukującego wspólnika/dostawcę, odzyskał miarę i grosz. Głęboko wdzięczny: audyt Symona realnie go ochronił. Jeszcze mocniej w jego rogu (jawny orędownik + prywatnie ufający). +4 jel honorarium + kupon dobrego sukna. Nast 63→68, zauf 20→23. Rep schody_zamkowe 32→33.
+
+## 297-05-25 WIECZÓR — dar sukna dla Brana/Alys
+Symon oddał kupon dobrego sukna (dar Voxa) Branowi dla jego żony Alys. Gest gospodarza, który dzieli się dobrym losem ze swoimi — kapitał „porządny, dba o swoich". Bran nast 81→84, Alys 10→18.

@@ -5063,3 +5063,6 @@ Dzień „dla siebie" z niespodziewanym łukiem: cierń (Mira, rzut 2 → odło�
 
 ## 297-06-12 WIECZÓR — powrót, woda, audyt umiejętności
 Symon wrócił do siebie, chwila nad wodą (stosuje naukę dnia). Dokładny audyt skilli wg progów praktyki: RETORYKA 7→8 (licznik 128 przekroczył próg 125) — realny awans z tygodni rozmów/reframe'ów. Blisko progów: audyt (za 7 do 9), rachunki (za 17 do MISTRZOSTWA 10). Jezyki 8 to backstory (licznik 75 dopiero). Rzemiosło zostaje 1.
+
+## 297-06-12 NOC — sen (dzień dobry)
+Symon świadomie patrzył chwilę na wodę (stosuje naukę), przeliczył skille (retoryka 7→8). Dzień lekcji o puszczaniu: Mira odłożona, Braavos = cierpliwość (Nesta), praca ≠ studnia (kantor/Boren szary grind), a Theo (rzut 89) sam uchylił drzwi wiedzy — bo Symon przestał grasować. → 297-06-13 RANEK.

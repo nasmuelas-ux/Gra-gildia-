@@ -4960,3 +4960,6 @@ Symon śpi. → 297-06-05 RANEK. WEKSLE (pilot 50 jel, rzut 49): mechanizm DZIA�
 
 ## 297-06-05 RANEK — lokowanie w weksle (rzut 46)
 Chciał ulokować 60 — ulokował 50 na przyzwoitych warunkach, ale ostatnie 10 WSTRZYMAŁ: jedyni chętni na tę resztę byli zbyt słabi, więc nie pożyczył byle komu tylko po to, by wydać (dyscyplina doboru dłużników). Skutek uboczny: żyletkowy bufor odbudowany do 11 jel. Ramię kredytu: weksle out 60→110 (spora ekspozycja — pilnować jakości). Trzecia partia wraca ~06-27.
+
+## 297-06-05 RANEK — Wat (market-read, rzut 54)
+Świeży aggregate read: zalew sukna trwa (wełna lepsza niż sukno — nie hoardować sukna), staple/sól schodzą z zimowego szczytu, rzeki otwarte = wiosenny handel płynie, góra zgłodniała (upriver popyt). Użyteczne, Wat jako doradca ceni. +3 jel. Nast 40→43. → POPOŁUDNIE.

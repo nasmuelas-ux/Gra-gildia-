@@ -4900,3 +4900,6 @@ INBOUND 06-01: Mira SAMA się odezwała (rzut 62) — przysłała chłopca z pro
 
 ## 297-06-01 RANEK — ogród + sąsiedzi (rzut 77)
 Symon pracował w ogródku razem z Jonną (zna się na roli) — dosiali (rzepa/bób do kapusty i ziół), grunt żyje. Ciepła, sąsiedzka wspólnota na Schodach; człowiek, który rok temu był obcym-podejrzanym, dziś kopie własną ziemię obok sąsiadów, co go znają. Najgłębszy dowód zakorzenienia. Rzemiosło praktyka. Jonna 19→21. → POPOŁUDNIE.
+
+## 297-06-01 POPOŁUDNIE — Mira (odpowiedź na jej wezwanie, rzut 89)
+Przyszedł ostrożnie w odpowiedzi na jej pierwszy gest — i podwójnie ją poruszył: że przyszedł I że wciąż nie zakłada niczego z góry mimo przełomu. Głęboka, wygodna bliskość; nakarmiła go tym co sama zrobiła (jej dawanie, na jej ziemi), gadali otwarcie, wpuściła go głębiej w swój świat (spytała o jego oko na swój interes, jak równa równego). Wzajemna czułość. Wątek solidnie w: wybrane, wzajemne, równe wczesne partnerstwo — na jej warunkach. Nast 79→84, zauf 33→36.

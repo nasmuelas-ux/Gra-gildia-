@@ -1564,8 +1564,8 @@
    "stan": "mieszczka (wdowa)",
    "zawod": "wdowa po drobnym kupcu (handel z Braavos); sama ciagnie resztke interesu",
    "mieszka": "Port_Manderly (okolice)",
-   "nastawienie_do_gracza": 79,
-   "zaufanie": 33,
+   "nastawienie_do_gracza": 84,
+   "zaufanie": 36,
    "wie_o_graczu": [
     "d31 (rzut 11): pierwsze spotkanie przy jej ksiegach. Symon pomogl KOMPETENTNIE (wskazal niedowazenie w kontrakcie meza) - przyjela rzeczowo. ALE pol-przejrzala pretekst (bystra: 'po co Nesta przysyla akurat takiego skrybe?') - garda w gore, chlodna, transakcyjna, zero ciepla/sparku, nic z siebie nie dala. Nast 0->2 (za kompetencje, ale wary). Symon zagral dobrze (fachowiec nie zalotnik, zero pchania) - ale to dopiero poczatek dlugiej gry.",
     "297-01-30 (read Nesty, nie potwierdzone przez Mire): jej chlod moze byc GENUINE brakiem checi do malzenstwa (niezalezna pismienna wdowa - malzenstwo=utrata autonomii/majatku), nie 'jeszcze niezdobyta'. Hipoteza: trop moze byc slepy niezaleznie od cierpliwosci Symona. Nie napierac; nie projektowac wlasnego pragnienia na jej milczenie.",
@@ -1589,13 +1589,14 @@
     "297-05-25 RANEK (rzut 42): 7 dni oddechu po cofnieciu z 05-18. Wizyta po ludzku, bez agendy, zero nacisku - i to zadzialalo: ostrozny flinch z 05-18 ROZPUSCIL sie, wrocila wygodna latwosc. Bez kroku naprzod (nie jest gotowa, Symon MADRZE nie pchа) - ale Mira uchylila okno: opowiedziala kawalek o tym, czemu tak strzeze niezaleznosci (raz zalezala od cudzego dachu i to sie zle skonczylo). Symon tylko sluchal. Postep w ZROZUMIENIU, nie w romansie - i to tez rodzaj bliskosci. Grunt znow stabilny. nast 69->71, zauf 26->27.",
     "297-05-28 RANEK (rzut 93, PRZELOM): dobry 3-dniowy rytm. Po calej cierpliwosci i zrozumieniu (nie napieral, dal oddech, poznal jej lek o niezaleznosc) - MIRA SAMA zrobila krok. Z wlasnej woli wziela JEGO dlon (odwrocenie 05-15) i nie puscila; powiedziala wprost, ze przestala sie go bac - ze POKAZAL jej, nie obiecal, ze bycie z nim nie zrobi jej mniejsza. Pierwszy pocalunek - z JEJ inicjatywy. Prog przekroczony na JEJ warunkach: z slow-burn-niepewnosci w wzajemnie uznana wczesna bliskosc. Nie zaslubiny (to lata), ale to JUZ jest - realne, wybrane przez nia. nast 71->78, zauf 27->32.",
     "297-05-28 RANEK (c.d.): Symon ZOSTAL po pocalunku zamiast wyjsc triumfalnie - i to znowu dokladnie to, czego jej trzeba: to nie zdobycz, on po prostu chce byc. Siedzieli, gadali o drobnych, prawdziwych rzeczach (jej interes, jej dzien) - jak rowni. Consolidacja przelomu, nie napieranie na wiecej. Ona to zauwazyla. zauf 32->33.",
-    "297-06-01 (rzut 62): MIRA SAMA SIE ODEZWALA - pierwszy raz. Przyslala sasiada-chlopca z krotka, prosta wiadomoscia (bez kwiecistosci, po jej): \"niech wpadnie, jak bedzie mial chwile\". Kobieta, ktora zawsze CZEKALA az on przyjdzie, teraz sama go PRZYCIAGA - na swoich warunkach, ale przyciaga. Cichy, wielki krok po przelomie: nie tylko pozwala byc blisko, chce go blisko. nast 78->79."
+    "297-06-01 (rzut 62): MIRA SAMA SIE ODEZWALA - pierwszy raz. Przyslala sasiada-chlopca z krotka, prosta wiadomoscia (bez kwiecistosci, po jej): \"niech wpadnie, jak bedzie mial chwile\". Kobieta, ktora zawsze CZEKALA az on przyjdzie, teraz sama go PRZYCIAGA - na swoich warunkach, ale przyciaga. Cichy, wielki krok po przelomie: nie tylko pozwala byc blisko, chce go blisko. nast 78->79.",
+    "297-06-01 POPOLUDNIE (rzut 89): przyszedl OSTROZNIE w odpowiedzi na jej wezwanie - i to podwojnie ja poruszylo: ze przyszedl I ze wciaz nie zaklada niczego z gory, mimo przelomu. Gleboka, wygodna bliskosc; nakarmila go tym co sama zrobila (jej dawanie, na jej ziemi), gadali otwarcie, wpuscila go glebiej w swoj swiat - spytala nawet o jego oko na swoj drobny interes, jak rowna rownego (nie \"zarzadzaj mna\", lecz \"cenie twoj wzrok\"). Wzajemna czulosc. Watek solidnie w: WYBRANE, wzajemne, rowne wczesne partnerstwo - na jej warunkach. nast 79->84, zauf 33->36."
    ],
    "potrzeby": [
     "utrzymac resztke interesu meza",
     "niezaleznosc/nie dac sie popchnac"
    ],
-   "ostatni_kontakt": "297-05-28",
+   "ostatni_kontakt": "297-06-01",
    "cechy_mowy": "krotko, rzeczowo, chlodno; bystra, przenikliwa, malo daje z siebie; twarda niezaleznosc",
    "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA."
   },

@@ -5212,3 +5212,6 @@ Symon połączył agregatowy read (sukno-glut + sól-squeeze przez kra+połów +
 
 ## 297-06-21 POŁUDNIE — Merek księgi (rzut 42)
 Czysta sesja nowej linii, +4 jel, peace of mind. INTEL: Merek (prowiantnik) potwierdza sól-squeeze („sól w górę, trudno o nią, coś zatkało na północy") — WALIDUJE wczorajszą pozycję Symona na soli (nie zdradził, że postawił). Nast 68→69. Wolne 29 jel.
+
+## 297-06-21 POPOŁUDNIE — Septa, metoda skorygowana (rzut 54)
+Symon = zaplecze (zapasy/zamówienia/rachuba), septa/siostra = osąd ludzki (kto/ile/komu). Szepcze septie na ucho, ona decyduje/kupuje, ręka niewidzialna. Zapasy stretchowane dalej BEZ rany i BEZ widoczności. Podział pracy się ułożył — cicha redempcja crit-failu. Wiara 84 trzyma (tarcza czysto).

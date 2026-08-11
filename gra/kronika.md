@@ -4612,3 +4612,6 @@ Do Torsena z ZAMKNIETYM POPYTEM (Donnel+apetyt zamku+2 leady) - rozwiazanie wczo
 
 ## 297-05-17 RANEK — Noc
 Sen. Przejscie 05-17 RANEK. Skalowanie kanalu uruchomione (popyt-najpierw), filary mielą, weksle pracuja (~06-05), Bank dojrzewa (Garth stygnie), Mira (prog przekroczony).
+
+## 297-05-17 POPOLUDNIE — Harlon: proba soli dopilnowana
+Do Harlona dopilnowac probe (rzut 58). Pierwsza partia soli przeszla tanszym kanalem - taniej niz Antaryon (kolumna) + tranzyt-insured. Kanal ciasny przed rozbudowa Halvarda, Symon pilnowal osobiscie (wcisnac sol miedzy drewno na zamek bez zatoru) - wcisnelo sie. Harlon: 'chodzi jakes pisal' - bardziej wciagniety, puosci wiecej jak gora urosnie. Do tego czasu sol ODMIERZANA nie wolumenem (tempo/reliability). nast 52->55, +2 jel prowizja (-> 10 jel). Liczniki organizacja+1 (105), handel+1 (128). -> POPOLUDNIE.

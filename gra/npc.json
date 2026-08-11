@@ -1235,8 +1235,8 @@
    "przydomek": "",
    "zawod": "handlarz sola i zapasami (Schody/port); jego faktor spedycyjny z sieci wielkich domow",
    "mieszka": "Schody_Zamkowe",
-   "nastawienie_do_gracza": 52,
-   "zaufanie": 19,
+   "nastawienie_do_gracza": 55,
+   "zaufanie": 20,
    "wie_o_graczu": [
     "ostry, uczciwy audytor faktorii; wykryl, ze faktor go skraca",
     "d23 (rzut 71): reconnect na konkrecie (nie czulosci - twardy solarz). Audyt Symona (faktor go skracal) przekonal go na tyle, ze chce STALEJ uslugi zarzadczej - wziety jako zakotwiczony klient pod DYSKRECJA, za uczciwa cene. Zadatek 2 jel, robota przy ksiegach niebawem. Kontrolowany wzrost pilaru (znany/zaufany kontakt, nie glosny inbound).",
@@ -1249,9 +1249,10 @@
     "297-04-25 WIECZOR (przygotowanie 64 + rzut 62): Symon wrocil z KONKRETEM (nie cierpliwoscia). Uczciwe zlevel-owanie ('zniknalem za dlugo, cisza slusznie cie zniechecila' - twardy szanuje rownanie) + konkret (tanie zelazo Gulltown idzie, podcina fracht Antaryona, zobaczysz w kosztach) + reframe (frontalny atak=samobojstwo, cichy bleed=dziala). Harlon RE-OSADZONY na stopie 'pokaz mi': 'zelazo uwierze jak zobacze w ksiedze, ale to wiecej niz gadanie; ze gadales prosto - doceniam'. Erozja ZATRZYMANA. NAUKA: blok w uspieniu karmic KONKRETEM (spoiwo-zysk), nie cierpliwoscia. nast 30->37.",
     "297-05-02 (rzut 50): Symon ustawil ksiegi zarzadcze premium - czysto, kolumna do kolumny, fracht ROZBITY OSOBNO (celowo: tam iron-oszczednosc Antaryona bedzie widoczna gdy partia wejdzie). Harlon zrzedzi o koszcie ale docenil fach ('porzadniej niz mialem'), zaplacil czesc (+4 jel), reszta na dostawie. Premium/dyskretne/recurring. Spoiwo koalicji czeka w kolumnie frachtu. nast 37->40, zauf 14->15.",
     "297-05-05 (rzut 57): PROOF POKAZANY - oszczednosc frachtu (Gulltown vs Antaryon) czarno na bialym w jego wlasnej kolumnie. Twardy przekonany konkretem ('no. widze. tanieje.') - z brick-luzem na SOLIDNY sojusznik. Sam chce puszczac SOL tanszym kanalem (=+wolumen kanalu, +bleed Antaryona). Zaplacil reszte fee bez zrzedzenia (+3 jel). Erozja koalicji odwrocona konkretem. nast 40->46, zauf 15->17.",
-    "297-05-13 (rzut 91): Symon wszedl PRZYGOTOWANY (kolumna+mala proba+tranzyt-insured+cicho). Kolumna rozbroila Harlona (netto taniej nawet po prowizji, nie do podwazenia). Wzial PROBE soli tanszym kanalem (partia-dwie). Raz przekonany myśli dalej: jak chodzi jak piszesz to nie tylko sol tedy puszcze. Sojusznik sam ciagnie woz. +2 jel prowizja recurring. nast 46->52."
+    "297-05-13 (rzut 91): Symon wszedl PRZYGOTOWANY (kolumna+mala proba+tranzyt-insured+cicho). Kolumna rozbroila Harlona (netto taniej nawet po prowizji, nie do podwazenia). Wzial PROBE soli tanszym kanalem (partia-dwie). Raz przekonany myśli dalej: jak chodzi jak piszesz to nie tylko sol tedy puszcze. Sojusznik sam ciagnie woz. +2 jel prowizja recurring. nast 46->52.",
+    "297-05-17 (rzut 58): proba soli dopilnowana - pierwsza partia dowieziona tanszym kanalem (taniej w kolumnie + tranzyt-insured). Kanal ciasny przed skalowaniem Halvarda, Symon pilnowal osobiscie (wcisnac sol miedzy drewno bez zatoru) - wcisnelo sie. Harlon bardziej wciagniety, puosci wiecej jak gora urosnie. Sol na razie odmierzana (tempo/reliability). nast 52->55, +2 jel prowizja."
    ],
-   "ostatni_kontakt": "297-05-13",
+   "ostatni_kontakt": "297-05-17",
    "cechy_mowy": "rzeczowy, zrzedzi o kosztach, twardy nie tchorzliwy",
    "status": "BLOK anty-Antaryon: CEGLA 3 (potwierdzony d12, rzut 80 — faktor z sieci wielkich domow go skraca). SOLIDNY, zly-bez-strachu (odwrotnie niz Marlon) = wzmacnia kregoslup bloku. Ufa Symonowi, zaplacil.'",
    "historia": [

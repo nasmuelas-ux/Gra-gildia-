@@ -4851,3 +4851,6 @@ Symon wpadł nieproszony licząc na największy zarobek — trafił pusto. Księ
 
 ## 297-05-28 POPOŁUDNIE — Merek (rzut 88)
 Po pustej sieci u Aurane — Merek płaci za drogę. Nie dał rutyny, tylko WAŻNĄ robotę: rozwija prowiant na wiosnę (nowa linia dostaw), powierzył Symonowi ustawienie czystych ksiąg nowego przedsięwzięcia + weryfikację warunków umowy z nowym dostawcą (rachunki+prawo). Deep trust — poważa go do rzeczy ważnych. Premium +8 jel. Nast 62→66, zauf 19→21.
+
+## 297-05-28 NOC — sen (za zgodą gracza)
+Symon śpi po dobrym dniu: przełom z Mirą (jej krok), kantor, i najtłustszy zarobek u Merka (nowa linia + umowa, +8 jel) po pustej sieci u Aurane. Dzień 05-28 zamknięty. → 297-05-29 RANEK.

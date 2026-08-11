@@ -4812,3 +4812,6 @@ Dzień po bolesnym off-dayu. Ręka spokojniejsza (ostry ból od wilgoci odpuści
 
 ## 297-05-26 PÓŹNY WIECZÓR — praca w Sepcie (rzut 1, krytyk)
 Symon, wyczerpany po pełnym dniu, siadł do skryby w sepcie po nocy — i podłożył się: błąd w kopiowanym dokumencie, zmarnowany arkusz dobrego pergaminu i świeca (−40 mied). Septon łagodnie odesłał go do łóżka („żaden z ciebie pożytek dla Matki na wpół śpiąc"). Robota do przerobienia jutro na świeżo. Bez postępu. Reputacja Wiary bez szwanku (wpadka wyłapana, Symon zbyt zakorzeniony). TRZECI raz tego dnia świat powtórzył: subtelnej roboty nie robi się wyczerpanym.
+
+## 297-05-26 NOC — sen (za zgodą gracza)
+Symon w końcu posłuchał ciała i poszedł spać po długim dniu doglądania sieci (i krytyku w skryptorium). Dzień 05-26 zamknięty. → 297-05-27 RANEK. Dziś spodziewany raport Godrica z zamku (intake/Gowen).

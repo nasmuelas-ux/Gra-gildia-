@@ -1299,8 +1299,8 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy",
    "mieszka": "izba_3_kamieniczki_Symona (od 297-03-27; wyprowadzil sie z przytulku Septy)",
-   "nastawienie_do_gracza": 85,
-   "zaufanie": 46,
+   "nastawienie_do_gracza": 88,
+   "zaufanie": 47,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
     "pierwsza rozmowa cierpka — poczul sie poprawiany/protekcjonowany przez waznego pisarza",
@@ -1343,7 +1343,8 @@
     "297-05-24 POPOLUDNIE (rzut 26): zwykla, ciezka sesja w kantorze - wiosenny wolumen dusi. Hal miele robote kompetentnie, ale Symon widzi, ze jest ROZCIAGNIETY (delegacja do kantoru + premium go rozpycha). Bez przelomu, Symon pomogl/ustabilizowal, drobny moment nauki. Trzymac oko, zeby nie przeciazyc podopiecznego. Wiez 90, zauf 45.",
     "297-05-25 RANEK (rzut 81): Symon przyszedl POMOC - i zrobil wiecej niz odjal roboty: NAUCZYL Hala STRUKTUROWAC przeciazony talerz (priorytety, kolejnosc, co odlozyc), nie tylko harowac. Stretch z 05-24 zluzowany, Hal spokojniejszy i madrzejszy o metode. Lancuch Owen->Symon->Hal mocnieje. Wiez 90, zauf 45->47.",
     "297-05-27 WIECZOR (rzut 50): wieczorna wspolna praca. Hal STOSUJE juz strukture z 05-25 (priorytety, kolejnosc) - mniej tonie, radzi sobie sprawniej. Symon widzi, ze lekcja sie przyjela. Steady, bez przelomu. Wiez 90, zauf 47->48.",
-    "297-05-30 POPOLUDNIE (rzut 8, KRYTYK - misfire): Symon przedstawil formalny uklad (udzial+placa+sciezka) myslac ze uczci Hala. Ale trafil w NAJSUROWSZY nerw: Hal (sierota, glod znaczenia, miesiacami bojacy sie ze jest jalmuzna) uslyszal formalny kontrakt + szczera ekonomie (\"jestes ~break-even, inwestycja\") jako: JESTEM ZARZADZANYM KOSZTEM/utrzymankiem, nie kims kto zarabia na siebie. Duma ukluta. Poszedl w cichy, twardy cofniecie - nie zlosc, uraza. Uklad NIE przyjety. Symon (czyt 9) WIDZIAL jak to lądowalo zle, choc nie zapobiegl (zly moment+jego raw nerve, nie glupota Symona). Do NAPRAWY: przeramowac tak, by uslyszal \"wierze w ciebie/rosniesz\", nie \"jestes na moim garnuszku\". nast 90->85, zauf 48->46."
+    "297-05-30 POPOLUDNIE (rzut 8, KRYTYK - misfire): Symon przedstawil formalny uklad (udzial+placa+sciezka) myslac ze uczci Hala. Ale trafil w NAJSUROWSZY nerw: Hal (sierota, glod znaczenia, miesiacami bojacy sie ze jest jalmuzna) uslyszal formalny kontrakt + szczera ekonomie (\"jestes ~break-even, inwestycja\") jako: JESTEM ZARZADZANYM KOSZTEM/utrzymankiem, nie kims kto zarabia na siebie. Duma ukluta. Poszedl w cichy, twardy cofniecie - nie zlosc, uraza. Uklad NIE przyjety. Symon (czyt 9) WIDZIAL jak to lądowalo zle, choc nie zapobiegl (zly moment+jego raw nerve, nie glupota Symona). Do NAPRAWY: przeramowac tak, by uslyszal \"wierze w ciebie/rosniesz\", nie \"jestes na moim garnuszku\". nast 90->85, zauf 48->46.",
+    "297-05-30 POPOLUDNIE (naprawa, rzut 36): Symon odlozyl papier i mowil PO LUDZKU - lancuch: \"Owen wzial mnie gdy bylem niczym, nie z litosci, bo widzial kim bede; ja z toba tak samo. Break-even? Kazdy mistrz byl raz break-even - to nie jalmuzna, to inwestycja, bo jestes tego wart. Bierzesz ciezar, ktorego JA nie udzwigne, trzymasz jezyk gdy trzeba - to nie utrzymanek, to czlowiek, ktory rosnie.\" Hal ZMIEKL - ostry bol odpuscil, zaufanie wraca. Ale (rzut 36) nie do konca w jednej rozmowie - duma jeszcze troche obolala, papier odlozony na pozniej. Naprawa realna, niepelna. nast 85->88, zauf 46->47."
    ],
    "ostatni_kontakt": "297-05-30",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",

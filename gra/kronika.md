@@ -4699,3 +4699,6 @@ Kolacja (nadrobiony glod) i sen. Przejscie 05-21 RANEK. Inbound zywe: Torsen/Hal
 
 ## 297-05-21 — ZASADA: dzienna ramka WIADOMOSCI (prosba gracza)
 Od teraz kazdego ranka osobna ramka INBOUND ('WIADOMOSCI') - kto sie odezwal/zapukal/przyslal/co dojrzalo; jak nic - 'cisza'. Zapisane w swiat.json (mechanika_inbound.ramka_dzienna).
+
+## 297-05-21 POPOLUDNIE — Wat: read potwierdzony, pisarz -> doradca
+(Harlon ANULOWANY - crit 6 przerwany interruptem, gracz przekierowal). Wizyta u Wata (rzut 65). Market-read Symona z wiosny POTWIERDZONY - flotylla zalala sukno/ceny spadly, jakes mowil; Wat wzial polowicznie, teraz zaluje ('trzeba bylo sluchac do konca'). Relacja przeskoczyla pisarz -> DORADCA. Symon dorzucil swiezy odczyt (aggregate-view edge z faktorii). Rosnacy kupiec slucha uwaznie - recurring advisory wart wiecej niz zlecenie. nast 33->40, zauf 12->14. Liczniki czyt+1 (168), handel+1 (133). -> POPOLUDNIE.

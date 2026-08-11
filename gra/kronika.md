@@ -5227,3 +5227,6 @@ Symon re-rollował 290 jel w rotację faktorii (0→290). Wolne 301→11 (cienko
 
 ## 297-06-22 RANEK — kantor jałowa sesja (rzut 18)
 4. raz nad tymi samymi księgami w tygodniu — kantor uporządkowany, wielki read wyciągnięty wczoraj, nic nowego, grosza brak. Pompuje z wyschniętej studni (echo: praca to kran nie studnia). Trzeźwa myśl: pozycja na soli potrzebuje CIERPLIWOŚCI (firmuje się tygodniami, nie dłub codziennie). Znak by robić coś innego niż kolejne księgi kantoru.
+
+## 297-06-22 POŁUDNIE — Torren: charter = ślepy zaułek (rzut 3)
+Torren zatrzymał się z rozmysłem: charteru cechu nie wyciąga się z półki — oficjalny wgląd = formalne zapytanie do registratora, LOGOWANE → sygnalizuje cechowi (nitka do Symona/Septy), że badasz jego granice = że budujesz obronę = uwaga, której nie możesz mieć (cech węszy + Antaryon). RYZYKO BEZ NAGRODY. PIVOT: nie potrzebujesz litery (wiesz z ich zachowania — smear zamiast pozwu — że grunt słaby); trzymaj się JAWNIE POZA ich terenem (faktor nie skryba) + goodwill kupców + Wiara, NIE oświetlaj się. „Potwierdź charter" = MARTWA ścieżka. Torren (35) ochronił Symona przed głupstwem.

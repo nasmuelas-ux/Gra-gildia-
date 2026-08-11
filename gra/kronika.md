@@ -5294,3 +5294,6 @@ Symon poszedł o zmierzchu do kantoru nadrobić księgi przy świecy; Nesta na m
 
 ## 297-06-26 NOC — sen (dzień mocny: kanał zamkowy + firma)
 Symon przespał noc po dobrym dniu: rozmowa z Theomore pogłębiła kanał zamkowy (nast 25/zauf 6, otwarte drzwi, firewall cały), wieczorem plan cichej rejestracji firmy u Nesty. → 297-06-27 RANEK. Batch3 rotacji dojrzewa (do rozliczenia u Nesty). Pogoda się załamała — zimny, mokry dzień odwilży.
+
+## 297-06-27 RANEK — plon batch3: rotacja usiadła mocno (rzut 91)
+Symon zjadł i przebrnął błotem do kantoru po plon. Rotacja zboże-sól złapała dobry spread przednówkowy (staple trzyma cenę przed żniwami), Nesta poprowadziła czysto — dystrybucja +48 jel: 8 zostało wolne (→32), 40 do depozytu (kwit 70→110). Kapitał dalej rotuje na kolejny batch. Cichy filar kapitał-light dowiedziony po raz kolejny. Ubocznie: WARUNEK „po batch3" dla rejestracji firmy SPEŁNIONY — zostaje już tylko przegląd papierów czeladników przez Nestę + wybór cichego okna wśród wiosennych wpisów rady. Zmęcz 10, syt 70. → POŁUDNIE (paskudny mokry dzień).

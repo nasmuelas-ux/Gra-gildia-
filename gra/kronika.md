@@ -5160,3 +5160,6 @@ Przyziemna matczyna wizyta (trzyma Symona u ziemi). Tom zdrów, urósł (jasny p
 
 ## 297-06-18 POŁUDNIE — Serla: dignified care (rzut 62)
 Symon rozwiązał jej przednówkowy głód GODNIE — nie datek, lecz PRACA: Serla gotuje/dogląda Hala i Wicka (sieroty, izba 3) za uczciwą zapłatę. Framing: ONA wyświadcza Symonowi przysługę (chłopcy jedzą źle). Przyjęła z godnością (zarobek+garnek dla Toma+matkowanie = koniec samotności), nie litość. Niepisane porozumienie. Rozwiązane naraz: jej głód/grosz/samotność + Tom najedzony + Hal/Wick nakarmieni/doglądani. -4 jel start, ongoing modest. Nast 60→64. Dobro z cienia (Owen by przyklasnął).
+
+## 297-06-18 POPOŁUDNIE — służba w Sepcie (rzut 52)
+Dutyful służba (rejestry jałmużny, korespondencja) — wiara 84 trzyma (tarcza). ZACZĄŁ dyskretną pomoc strukturą: reckoner's eye na jałmużnę/zaopatrzenie Wiary — wyłapał przecieki (podwójne zakupy u drożejącego przekupnia, jałmużna bez rejestru = ci sami biorą dwakroć, opał w złym momencie), prostuje po cichu by z tych samych zapasów wyżywić więcej głodnych. „Większa miara" z CIENIA (per Owen 06-14), strukturą nie twarzą. Starsza septa wdzięczna. Pierwszy krok pomocy Wierze w przednówku.

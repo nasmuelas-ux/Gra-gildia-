@@ -60,12 +60,6 @@
  ],
  "inbound_kolejka": [
   {
-   "kto": "obcy_kupiec_prospekt",
-   "co": "pytal o Symona przez krag Schodow (uczciwy pisarz Rollama/Wyllama) - nowy prospekt do namierzenia",
-   "kiedy": "live 05-19",
-   "zywy_watek": "word-of-mouth faktorzy"
-  },
-  {
    "kto": "weksle_dluznicy",
    "co": "dluznik(cy) moga przyslac przed terminem ~06-05 (splata/prosba)",
    "kiedy": "~06-05",

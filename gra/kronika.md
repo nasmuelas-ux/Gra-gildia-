@@ -4681,3 +4681,6 @@ Wizyta u Brana (rzut 20, low-key). Osiedli w malzenstwie (slub 04-07), zmeczeni 
 
 ## 297-05-20 RANEK — Noc
 Sen. Przejscie 05-20 RANEK. Inbound zywe: obcy kupiec pyta o Symona (prospekt) + Merek czeka po ksiegi. Bank na zegarze (tygodnie), kanal rosnie w tempie Polnocy, weksle ~06-05, Mira (jej prog autonomii - przestrzen).
+
+## 297-05-20 RANEK — Rennick: repeat (staly klient od liczb+ubezpieczen)
+Do Rennicka Pod Kotwice (inbound 'obcy kupiec' - okazal sie NIE obcy: klient Aldousa, repeat po udanym ubezpieczeniu 04-10; imie Symona po faktorach go utwierdzilo). Rzut 58. Chce Symona jako STALEGO czlowieka od liczb+ryzyka: ubezpieczenie regularnych rejsow (prawdziwe ryzyko wody - prowizja/partia, nie plaska flotylla) + oko na ksiegi. Nowy recurring strumien wziety renoma. +3 jel (-> 35 jel), nast 20->30, zauf +3. Inbound odpowiedziany/zdjety. Liczniki handel+1 (132), czyt+1 (167). -> POPOLUDNIE.

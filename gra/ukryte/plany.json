@@ -72,12 +72,6 @@
    "zywy_watek": "kanal_polnoc_capacity"
   },
   {
-   "kto": "merek",
-   "co": "czeka az Symon przyjdzie po jego ksiegi (sam poprosil 05-19)",
-   "kiedy": "~dni",
-   "zywy_watek": "merek_ksiegi"
-  },
-  {
    "kto": "bank/belarno",
    "co": "odpowiedz Banku wroci na jego zegarze (tygodnie/niepewne) na temat intelu o Antaryonie",
    "kiedy": "~tygodnie",

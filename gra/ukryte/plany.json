@@ -60,16 +60,46 @@
  ],
  "inbound_kolejka": [
   {
-   "kto": "godric (zarzadca)",
-   "co": "przysle po Symona gdy Bialy Noz sie ustatkuje i mozna pinac nastepna parcele",
-   "kiedy": "gdy rzeki stabilne",
-   "zywy_watek": "zamek_dostawa_stala"
+   "kto": "aurane",
+   "co": "przyslal po Symona - wiosenne ksiegi skladow, recurring premium (frost zszedl do zera)",
+   "kiedy": "live 05-19",
+   "zywy_watek": "aurane recurring"
   },
   {
-   "kto": "rollam-peer (nowy faktor)",
-   "co": "odezwie sie za poleceniem Rollama (intro do ksiag) - jego ruch",
+   "kto": "obcy_kupiec_prospekt",
+   "co": "pytal o Symona przez krag Schodow (uczciwy pisarz Rollama/Wyllama) - nowy prospekt do namierzenia",
+   "kiedy": "live 05-19",
+   "zywy_watek": "word-of-mouth faktorzy"
+  },
+  {
+   "kto": "wenda/wesele_bess",
+   "co": "wesele Bess naznaczone ~05-27, Wenda liczy na Symona",
+   "kiedy": "~05-27",
+   "zywy_watek": "wenda/bess"
+  },
+  {
+   "kto": "weksle_dluznicy",
+   "co": "dluznik(cy) moga przyslac przed terminem ~06-05 (splata/prosba)",
+   "kiedy": "~06-05",
+   "zywy_watek": "ksiega_kredytowa_zwrot"
+  },
+  {
+   "kto": "torsen/halvard",
+   "co": "Torsen przysle wiesc gdy Halvard organicznie dolozy zdolnosci (skalowanie)",
+   "kiedy": "~tygodnie",
+   "zywy_watek": "kanal_polnoc_capacity"
+  },
+  {
+   "kto": "merek",
+   "co": "czeka az Symon przyjdzie po jego ksiegi (sam poprosil 05-19)",
    "kiedy": "~dni",
-   "zywy_watek": "rollam_grubszy_wycinek flywheel"
+   "zywy_watek": "merek_ksiegi"
+  },
+  {
+   "kto": "bank/belarno",
+   "co": "odpowiedz Banku wroci na jego zegarze (tygodnie/niepewne) na temat intelu o Antaryonie",
+   "kiedy": "~tygodnie",
+   "zywy_watek": "zelazny_bank_angle"
   }
  ]
 }

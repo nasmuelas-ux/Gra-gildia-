@@ -53,7 +53,8 @@
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
-  "od": "297-04-29 (korekta gracza: 'w tej grze ja musze do wszystkich chodzic, nikt sie nie przypomina - tak to nie wyglada w zyciu')."
+  "od": "297-04-29 (korekta gracza: 'w tej grze ja musze do wszystkich chodzic, nikt sie nie przypomina - tak to nie wyglada w zyciu').",
+  "przypomnienie_05_19": "REAKTYWOWANE 05-19 (gracz zauwazyl ze lapse). SPRAWDZAC INBOUND CO TURE: na starcie tury zerknij w inbound_kolejka + zywe zegary/potrzeby, i jesli cos dojrzalo, NIECH SWIAT ZAPUKA (Bran melduje goscia/poslanca, przychodzi wiesc, klient sam sie odzywa). Nie tylko gracz->swiat."
  },
  "mechanika_wiezi": {
   "zasada": "WIEZI SA TRWALE (poprawka gracza, powtorzona). NIE ma cotygodniowego dryfu nastawienia. W sredniowiecznym miescie ludzie widuja sie tygodniami/miesiacami z przerwami i podejmuja znajomosc gdzie ja zostawili. Nastawienie NIE stygnie od kalendarza.",

@@ -1487,8 +1487,8 @@
    "wiek": 47,
    "zawod": "zamozny handlarz prowiantem/zapasami (Schody/port), znajomy Harlona",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 62,
-   "zaufanie": 19,
+   "nastawienie_do_gracza": 66,
+   "zaufanie": 21,
    "wie_o_graczu": [
     "polecony przez Harlona jako dyskretny, biegly czlowiek od liczb (usluga zarzadcza+audyt)",
     "Symon rozbroil jego strach uczciwie (nie manipulacja): wspolnicy godzacy ksiegi to porzadek, nie oskarzenie - jesli wszystko czyste, wspolnik odetchnie. Merek ulzony, zgadza sie zaproponowac RUTYNOWE wspolne pogodzenie ksiag, z Symonem jako neutralnym rachmistrzem. KOSZT: otwarta forma = utrata zaskoczenia (jesli wspolnik oszukuje, dostanie czas ubrac ksiegi). Zalezne od zgody wspolnika.",
@@ -1506,9 +1506,10 @@
     "297-04-23 (rzut 13): sprawa wspolnika poszla ZLE. Merek skonfrontowal cicho (papier w reku), ale tamten sie ZJEZYL - zaprzeczyl, obrocil oskarzenie, awantura -> GORZKI ROZLAM (spolka sie rozpada, dziela towar, uraza). Merek POTRZASNIETY (nie grosz - zdrada zaufanego czlowieka). 'Wolalbym nie wiedziec... nie, lepiej wiedziec, ale gorzko.' NIE wini Symona. CIEN: wyrzucany wspolnik mamrocze 'skad on to wywechal' - faint wektor podejrzenia ku Symonowi (Merek oslonil zrodlo, nie twarda ekspozycja). nast 50 hold.",
     "297-04-23 WIECZOR (rzut 70): Symon ZAWROCIL po nieudanym wycofaniu - siadl bez papieru, jako PRZYJACIEL nie audytor. Zero slowa o ksiegach/rozlamie/sporze (nie wszedl w wojne=firewall trzyma), ale podzielil BOL (sluchal o zdradzie). Chlod sprzed godziny rozpuszczony. 'Myslalem zes odszedl, dobrze zes wrocil'. Przyjazn NAPRAWIONA i GLEBSZA (wrocil gdy gorzko). NAUKA: byc obecnym sercem, poza sporem rekami - dyscyplina+czlowieczenstwo pogodzone. nast 44->52.",
     "297-05-19 (rzut 88): cieplo, przyjazn glebsza (Symon wrocil gdy bylo gorzko - zamozny nie zapomina). Merek SAM otworzyl drzwi: ufa jak malo komu, po zdradzie partnera chce pewnosci ze nikt go nie strzyze - poprosil Symona o audyt/ksiegi (zaufaniowa czysta robota, zaplaci). Nowy potencjalny filar wziety przyzwoitoscia nie targiem. nast 52->58, zauf 14->17.",
-    "297-05-20 (rzut 62): Symon zrobil audyt ksiag - CZYSTE, nikt go nie strzyze (zdrada partnera byla rana nie regula, zabliznila sie); jeden drobiazg wyprostowany. Merek: peace of mind, \"spie spokojniej, dziekuje ze po ludzku\". Premium +5 jel, nowy premium klient (peace-of-mind audyty). nast 58->62, zauf +2."
+    "297-05-20 (rzut 62): Symon zrobil audyt ksiag - CZYSTE, nikt go nie strzyze (zdrada partnera byla rana nie regula, zabliznila sie); jeden drobiazg wyprostowany. Merek: peace of mind, \"spie spokojniej, dziekuje ze po ludzku\". Premium +5 jel, nowy premium klient (peace-of-mind audyty). nast 58->62, zauf +2.",
+    "297-05-28 POPOLUDNIE (rzut 88): Merek nie dal rutyny - dal WAZNA robote: rozwija prowiant na wiosne (rzeki puszczaja, nowa linia dostaw) i powierzyl Symonowi ustawienie czystych ksiag NOWEGO przedsiewziecia + WERYFIKACJE warunkow umowy z nowym dostawca (rachunki+prawo). Deep trust: powaza go do rzeczy waznych, nie tylko rutyny. Symon dowiozl czysto. Premium +8 jel. nast 62->66, zauf 19->21."
    ],
-   "ostatni_kontakt": "297-05-20",
+   "ostatni_kontakt": "297-05-28",
    "cechy_mowy": "gadatliwy, nerwowy gdy o pieniadzach",
    "sprawa": "podejrzewa, ze WSPOLNIK/partner w interesie prowiantowym go OSKUBUJE (zyski nie schodza sie z obrotem); chce CICHEGO audytu ZANIM zerwie spolke/oskarzy; wyzsza stawka, prominentniejszy niz Aurane",
    "historia": [

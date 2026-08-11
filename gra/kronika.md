@@ -4848,3 +4848,6 @@ Solidna rutynowa sesja przy wiosennym wolumenie kantoru. Podciągnięty backlog,
 
 ## 297-05-28 POPOŁUDNIE — Aurane (drop-in, rzut 18)
 Symon wpadł nieproszony licząc na największy zarobek — trafił pusto. Księgi składów świeże (05-19, nic nowego), a Aurane (propertied, particular) summonuje na własnych warunkach, nie przyjmuje drop-inu po zlecenie. Cordialnie, ale zero roboty dziś. Symon odczytał, wyszedł gładko — bez szkody dla relacji (60/21). Nauka: najgrubsza ryba przychodzi na swoim zegarze, nie twoim.
+
+## 297-05-28 POPOŁUDNIE — Merek (rzut 88)
+Po pustej sieci u Aurane — Merek płaci za drogę. Nie dał rutyny, tylko WAŻNĄ robotę: rozwija prowiant na wiosnę (nowa linia dostaw), powierzył Symonowi ustawienie czystych ksiąg nowego przedsięwzięcia + weryfikację warunków umowy z nowym dostawcą (rachunki+prawo). Deep trust — poważa go do rzeczy ważnych. Premium +8 jel. Nast 62→66, zauf 19→21.

@@ -5005,3 +5005,6 @@ Symon przyszedł (najedzony, wypoczęty, otwarcie — dobre) opowiedzieć Mirze 
 
 ## 297-06-07 POPOŁUDNIE — Mira: naprawa ③+④ (rzut 24, częściowo)
 Symon zagrał właściwie — z siły, bez obrony i korzenia się: odróżnił Mirę od Elny tak, że JĄ afirmował („ty jesteś przeciwieństwem — stoisz sama, ratunku nie potrzebujesz, po to przychodzę"), potem pivot do jej świata jak równy. NIE pogorszył. Mira usłyszała prawdę i wielkoduszność, zmiękła odrobinę — ale rana głębsza niż jedna mowa. Residual chłód został (odpowiedziała gardowo, wieczór o stopień za chłodny) — bo nawet zgrabna naprawa to wciąż ON steruje chwilą emocjonalną, co u niej lekko drażni. Wniosek: pełna naprawa = nie słowa, lecz CZAS + pokazane przez dni (być równym obok, nie zarządzać). Nast 82→83.
+
+## 297-06-07 WIECZÓR/NOC — spokojne wyjście, sen
+Symon został u Miry chwilę zwyczajnie (bez więcej słów o ranie), wyszedł spokojnie, nie wymuszał cieplejszego pożegnania niż miała — zostawił jej oddech. Pierwszy kamyk prawdziwej naprawy: pokazane, nie mówione. Nast 83→84. Potem do domu, sen. Dzień 06-07 (Elna uratowana 3 fronty; Mira misfire+częściowa naprawa) zamknięty. → 297-06-08 RANEK.

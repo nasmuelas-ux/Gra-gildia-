@@ -5057,3 +5057,6 @@ Symon wrócił do swojej izby, posiedział chwilę z pytaniem Aldousa („a kto 
 
 ## 297-06-11 RANEK — Mira: Symon ODKŁADA (po rzucie 2)
 Symon przyszedł SOBĄ (bez strategii — dobry wybór), ale kość padła na JEJ ranę (spłoszyła się, zły dla niej poranek, guarded flinch na nagą szczerość — nie wina Symona). DECYZJA: Symon odkłada temat Miry — przestaje wkładać wysiłek, NIE inicjuje, wraca TYLKO jeśli ONA się odezwie. Żyje swoim, obraca energię na własną studnię (Aldous: „kto leje w ciebie"). Bez goryczy, z jasnością — rzeczy rosną jak chcą. Mira nast 84→82, zauf 37→33, flaga: ODŁOŻONE_piłka_po_jej_stronie. GM: nie podpowiadać wizyt u Miry, nie liczyć w scan zaniedbanych jako cel.
+
+## 297-06-11 WIECZÓR/NOC — powrót, sen (dzień dobry)
+Dzień „dla siebie" z niespodziewanym łukiem: cierń (Mira, rzut 2 → odłożone, piłka po jej stronie), fałszywy trop (kantor rzut 12 — praca to kran nie studnia), i mały cud zwyczajności (port rzut 84 — studnia napełniona: woda, statki, bycie-nie-robienie). Symon nauczył się, co go NAPRAWDĘ karmi (obecność i szerokość świata, nie kompetencja). Wrócił lekki. → 297-06-12 RANEK.

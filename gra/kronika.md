@@ -4636,3 +4636,6 @@ Pozny kubek u Aldousa po frustrujacym dniu (rzut 96). Aldous (bez szczegolow-fir
 
 ## 297-05-18 RANEK — Noc
 Przejscie 05-18 RANEK. Lekka glowa, pogodzony. Kanal rosnie w tempie Polnocy (popyt zamkniety), filary mielą, Mira (prog).
+
+## 297-05-18 RANEK — Mira: plateau (jej prog autonomii)
+Wizyta po ludzku 3 dni po dotyku (rzut 33, plateau). Cieplo ale OSTROZNE COFNIECIE W SIEBIE - nie o Symona, o nia: pozwolila trzymac dlon, a strzegaca niezaleznosci przestraszyla sie wlasnego pozwolenia. Jej PRAWDZIWY prog: autonomia vs bliskosc (jesli urosnie - czy strace siebie? raz zalezala od cudzego dachu, przysiegla nigdy). Glebszy niz dotyk, nie do przeskoczenia srebrem/czuloscia. Symon NIE napieral (zero o dotyku/pytan) - staly, obecnoscia dal znac ze cofniecie != odrzucenie. Bez straty, bez kroku naprzod - ona rozwiaze SAMA w swoim czasie. nast 69 hold. Znow cierpliwosc. Licznik czyt+1 (160). -> POPOLUDNIE.

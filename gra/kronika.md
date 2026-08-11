@@ -4784,3 +4784,6 @@ Wick (rzut 14, off-day fizyczny): odwilżowa wilgoć rozbolała zmiażdżoną d�
 
 ## 297-05-25 WIECZÓR — dar sukna dla Brana/Alys
 Symon oddał kupon dobrego sukna (dar Voxa) Branowi dla jego żony Alys. Gest gospodarza, który dzieli się dobrym losem ze swoimi — kapitał „porządny, dba o swoich". Bran nast 81→84, Alys 10→18.
+
+## 297-05-25 NOC — sen (za zgodą gracza)
+Symon śpi po dniu wdzięczności (Mira, Hal+pismo 8, Owen, Wick, Vox, dar sukna). Dzień 05-25 zamknięty. → 297-05-26 RANEK. Jutro (~05-27) spodziewany raport Godrica z zamku.

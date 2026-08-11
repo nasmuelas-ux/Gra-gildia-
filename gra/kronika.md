@@ -5097,3 +5097,6 @@ Symon: 200 jel (1 smok) z depozytu → rotacja faktorii (50→250). 6 jel reszty
 
 ## 297-06-14 POPOŁUDNIE — port, woda (świadoma praktyka)
 Symon świadomie zszedł na port popatrzeć na wodę. Dzień osiadł dobrze: obejście ściany drewna bokiem (cech jako tarcza, class-safe), Vox retainer po cichu, własna księga rośnie, majątek >2 smoki, kapitał przerzucony w rotację. Mądry dzień, nie siłowy. Studnia napełniona. syt 62, zmecz 14.
+
+## 297-06-14 WIECZÓR/NOC — Septa+Owen, sen (dzień dobry i mądry)
+Septa: księgi jałmużny coraz cięższe (przednówek gryzie). Owen (rzut 29): „większa miara" — serce dobre, ale głód>sakiewka + WIDOCZNOŚĆ (nisko urodzony jawny dobroczyńca ściąga oczy, ryzyko firewalla). Seed: pomóc DYSKRETNIE/strukturą, nie jako twarz. Dzień mądry: obejście drewna przez cech (class-safe), Vox retainer, kapitał w rotację, majątek >2 smoki. → 297-06-15 RANEK (pilot-ext termin).

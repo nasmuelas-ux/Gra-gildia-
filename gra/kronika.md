@@ -5248,3 +5248,6 @@ Boren „bez pośpiechu, kra dusi zamek" BŁĘDNE — lokalne drewno idzie LĄDE
 
 ## 297-06-23 POPOŁUDNIE/WIECZÓR — mocny odpoczynek (zioła, jadło)
 Symon odpoczął mocno, zioła regeneracyjne + porządny posiłek. Zmęczenie zbite (28→6), syt 70, zdrowie 100. Zadbany na świeżą głowę pod jutrzejsze ruszenie lokalnego drewna.
+
+## 297-06-23 NOC — sen (dzień dobry i regenerujący)
+Nesta cichy wspólnik (krok ①, rama ⅓/⅔), Boren księgi + lokalne drewno trop (KOREKTA: kra-odporne = okazja TERAZ bo rzeka stoi), status Banku (waiting, cierpliwość), mocny odpoczynek (zioła). → 297-06-24 RANEK (ruszyć lokalne drewno przez Borena; firma ② Torren; batch3 ~06-27).

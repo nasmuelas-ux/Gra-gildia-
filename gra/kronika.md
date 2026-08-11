@@ -5008,3 +5008,6 @@ Symon zagrał właściwie — z siły, bez obrony i korzenia się: odróżnił M
 
 ## 297-06-07 WIECZÓR/NOC — spokojne wyjście, sen
 Symon został u Miry chwilę zwyczajnie (bez więcej słów o ranie), wyszedł spokojnie, nie wymuszał cieplejszego pożegnania niż miała — zostawił jej oddech. Pierwszy kamyk prawdziwej naprawy: pokazane, nie mówione. Nast 83→84. Potem do domu, sen. Dzień 06-07 (Elna uratowana 3 fronty; Mira misfire+częściowa naprawa) zamknięty. → 297-06-08 RANEK.
+
+## 297-06-08 RANEK/POŁUDNIE — Godric uspokojony DUMNĄ RAMĄ (rzut 92, Faza B)
+Symon wszedł jako skała, zdjął panikę dumną ramą: „twoja staranność (niezależna weryfikacja ksiąg, zamiast wierzyć szafarzowi co raz zawyżył) to CHLUBA, nie wstyd; ja = rozważnie zasięgnięty ekspert, nie obca ręka". Podziałało wzorcowo — Godric z zawstydzonego → pewny, kręgosłup wrócił, zrozumiał że trzyma wysokie karty. Postanowił załatwić Ulrica SAM z pozycji siły. Wdzięczność+lojalność głębsza. Ulric zdławiony u źródła (pewny Godric głodzi szept). FAZA 2 zasiana: Godric skłonny kredytować/mówić dobrze o Symonie — pierwszy szczebel ku dobrej uwadze dworu na miejscu. Firewall zimny. Nast 83→86, zauf 24→26. KRYZYS (rzut 1) obrócony w OKAZJĘ przez namysł gracza + strategię B. Wątek Ulric → niski; dodany wątek dwor_pozytywna_rama.

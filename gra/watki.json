@@ -734,8 +734,8 @@
   {
    "id": "ulric_urazony",
    "status": "otwarty",
-   "priorytet": "sredni",
-   "opis": "SKORYGOWANE 297-06-08 (po slusznym zakwestionowaniu przez gracza - poprzednia wersja \"Ulric atakuje formalnie\" byla NIESPOJNA: podwladny z udokumentowanym wlasnym bledem nie zaatakuje merytorycznie, bo re-audyt grzebie JEGO). SPOJNA WERSJA: Ulric (szafarz podlegly Godricowi, nast -8, over-gradowal, skorygowany 04-13 - stracil twarz) NIE moze tknac liczb (jego blad udokumentowany = TARCZA Symona). Robi wiec smear na innej osi: szepce o PRZYZWOITOSCI/DOSTEPIE (\"czemu miejski skryba macza palce w ksiegach lorda\"), podpytuje/drazni Godrica, truje imie Symona przy dworze plotka - bez kosztu, bez re-audytu. Godric (tchorzliwy, wlasny dawny blad w tle) ROZDMUCHAL to w panice do \"Ulric atakuje\". REALNE zagrozenie: whisper o przyzwoitosci + rozdygotany sojusznik + spikла widocznosc Symona przy dworze (Theo+Godric w 2 dni). NIE formalna matnia. ODPOWIEDZ: zdjac panike z Godrica + nudna pewna linia, recede z widoku, stapac ciszej przy dworze, Ulrica zostawic (udobruchac kiedys z pozycji sily). Firewall Antaryona zimny."
+   "priorytet": "niski",
+   "opis": "SKORYGOWANE 297-06-08 (po slusznym zakwestionowaniu przez gracza - poprzednia wersja \"Ulric atakuje formalnie\" byla NIESPOJNA: podwladny z udokumentowanym wlasnym bledem nie zaatakuje merytorycznie, bo re-audyt grzebie JEGO). SPOJNA WERSJA: Ulric (szafarz podlegly Godricowi, nast -8, over-gradowal, skorygowany 04-13 - stracil twarz) NIE moze tknac liczb (jego blad udokumentowany = TARCZA Symona). Robi wiec smear na innej osi: szepce o PRZYZWOITOSCI/DOSTEPIE (\"czemu miejski skryba macza palce w ksiegach lorda\"), podpytuje/drazni Godrica, truje imie Symona przy dworze plotka - bez kosztu, bez re-audytu. Godric (tchorzliwy, wlasny dawny blad w tle) ROZDMUCHAL to w panice do \"Ulric atakuje\". REALNE zagrozenie: whisper o przyzwoitosci + rozdygotany sojusznik + spikла widocznosc Symona przy dworze (Theo+Godric w 2 dni). NIE formalna matnia. ODPOWIEDZ: zdjac panike z Godrica + nudna pewna linia, recede z widoku, stapac ciszej przy dworze, Ulrica zostawic (udobruchac kiedys z pozycji sily). Firewall Antaryona zimny. || 297-06-08 (rzut 92): ZDUSZONE U ZRODLA. Symon uspokoil Godrica dumna rama - pewny, kregoslupny Godric GLODZI szept (na kazde podpytanie odpowie nudną pewnoscia, a Ulric nie tknie merytoryki bo grzebie siebie). Godric zalatwi swojego szafarza SAM z pozycji sily. Whisper wiednie. Zostaje tylko: Symon stapa przy dworze rozsadnie + kiedys udobruchac Ulrica z pozycji sily."
   },
   {
    "id": "mapa_sol_ryba_ostyn",
@@ -820,6 +820,12 @@
    "priorytet": "sredni",
    "status": "otwarty",
    "opis": "297-06-07: historia ratunku Elny otarla sie o lek Miry przed zaleznoscia (nast 85->82). Symon zagral naprawe wlasciwie (③+④, z sily) - CZESCIOWO zadzialalo (rzut 24): nie pogorszyl, zmiekla odrobine (82->83), ale residual chlod zostal. WNIOSEK: pelna naprawa to nie slowa lecz CZAS + pokazane przez dni - byc rownym obok, nie zarzadzac nia, nie napierac. Glęboka wiez amortyzuje. Cierpliwosc jak zawsze u niej."
+  },
+  {
+   "id": "dwor_pozytywna_rama",
+   "priorytet": "sredni",
+   "status": "otwarty",
+   "opis": "297-06-08 (Faza B): dluga gra ku DOBREJ uwadze dworu przez KONTROLOWANA pozytywna rame. Zasada: kredyt plynie w glosie legalnych insiderow (Godric-zarzadca=pierwszy szczebel zasiany, Wiara/Owen-Septa, z czasem Theo-maester), nie jako prosba Symona; tresc ramy=\"dyskretny, uczciwy, pewny, o nic nie prosi\" (pokora jako strategia); zbiezne poreczenia=pancerz; czekac na WLASCIWY moment, nie wypad. Metoda: dawac realna wartosc + ODDAWAC zasluge (jak 05-27) - wdziecznosc urasta w rzecznictwo. NAPIECIE: im wyzej sięgasz, tym GROZNIEJSZA karta Antaryona (pozytywna uwaga=blizsze przyjrzenie) - firewall tym zimniejszy. Cierpliwie, tygodnie."
   }
  ]
 }

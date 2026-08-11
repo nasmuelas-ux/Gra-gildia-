@@ -1203,9 +1203,9 @@
    "id": "zarzadca_godric",
    "imie": "Godric",
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
-   "nastawienie_do_gracza": 83,
+   "nastawienie_do_gracza": 86,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-   "zaufanie": 24,
+   "zaufanie": 26,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
     "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
@@ -1227,9 +1227,10 @@
     "297-05-24 RANEK (rzut 58): Symon zagral MADRZE - NIE coachingowal (stan!), tylko dal airtight jednostronicowe wyrownanie + JEDNA rowna sugestie (podac jako rutynowe wyrownanie, nie skarge) i ZAPYTAL Godrica o ludzi intake. Godric, potraktowany jak ekspert ktorym jest, wzial sprawe na siebie z nienaruszona duma i sie otworzyl: dostawe przyjmowal GOWEN (skryba intake Nowego Zamku) - porzadny ale zaharowany, przy trzech wozach na raz myli pnie, poprawi cicho jak sie go nie przyprze. Intake podlega urzedowi SZAFARZA (Ulric) - wiec trzymac na poziomie skryby, nie dawac temu wejsc na biurko Ulrica. Godric poniesie kartke do Gowena jako rutyne. nast 72->75, zauf 15->17.",
     "297-05-27 RANEK (rzut 83): RAPORT z zamku - plan zadzialal wzorcowo. Godric poniosl jednostronicowke do Gowena jako rutynowe wyrownanie, bez oskarzenia, z drabina. Gowen (potraktowany godnie) sam znalazl swoj miscount (trzy wozy na raz), poprawil CICHO, wdzieczny ze bez awantury. Ksiegi Godrica wytrowane, kark przed zamkiem czysty. NIE weszlo na biuro Ulrica - firewall caly, Symon niewidzialny. Godric gleboko wdzieczny: strach zamienil sie w czysta wygrana, w ktorej WYSZEDL na sumiennego dostawce. Zaplacil zalegle za robote. nast 75->79, zauf 17->20.",
     "297-05-27 RANEK (rzut 88): Symon przyszedl PODZIEKOWAC po ludzku - i zamiast przypisac sobie wygrana, oddal ja Godricowi (jego twarz, jego ton, jego zaufanie zrobily robote). Godric - czlowiek wyzszego stanu, przywykly byc pryncypalem - rozbrojony, ze mlodszy oddaje mu splendor zamiast go szukac. Relacja przeszla z klient/skryba w GENUINE SOJUSZ/szacunek. Godric otworzyl swoj rog: \"czego bys nie potrzebowal z mojej strony - domu przy dworze - masz mnie\". Cenny sojusznik blisko dworu (ostroznie, firewall). nast 79->83, zauf 20->23.",
-    "297-05-27 POPOLUDNIE (rzut 68): solidna sesja nad ksiegami drewna zamkowego - juz jako sojusznik. Symon nie tylko przeszedl biezace, ale USTAWIL rejestr tak, by przyszle rozjazdy z intake wychodzily wczesnie (systemowe wzmocnienie po nauce z niezgodnosci). +5 jel. Relacja mocna. zauf 23->24."
+    "297-05-27 POPOLUDNIE (rzut 68): solidna sesja nad ksiegami drewna zamkowego - juz jako sojusznik. Symon nie tylko przeszedl biezace, ale USTAWIL rejestr tak, by przyszle rozjazdy z intake wychodzily wczesnie (systemowe wzmocnienie po nauce z niezgodnosci). +5 jel. Relacja mocna. zauf 23->24.",
+    "297-06-08 (rzut 92): Symon przyszedl jako SKALA - zdjal panike DUMNA RAMA: \"twoja staranność (kazales niezaleznie zweryfikowac ksiegi, zamiast wierzyc szafarzowi co raz zawyzyl) to CHLUBA, nie wstyd; ja = rozważnie zasiegniety ekspert, nie obca reka\". Podzialalo wzorcowo: Godric z zawstydzonego->PEWNY, kregoslup wrocil, zrozumial ze trzyma wysokie karty (czyste liczby, jego podpis, ranga nad Ulrikiem, deterrent ze re-audyt grzebie Ulrica). Postanowil zalatwic Ulrica SAM z pozycji sily (jego podwladny). Wdziecznosc+lojalnosc glebsza (Symon nie panikowal, nie robil o siebie, oddal mu godnosc). FAZA 2 zasiana naturalnie: Godric sklonny kredytowac/mowic dobrze o Symonie - pierwszy szczebel ku dobrej uwadze dworu na miejscu. Firewall zimny, Symon recede czysto. nast 83->86."
    ],
-   "ostatni_kontakt": "297-05-27",
+   "ostatni_kontakt": "297-06-08",
    "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",
    "historia": [
     "m11d16 (rzut 97): Symon wchodzi cicho, bez prosby, z oferta wartosci — braavijska ksiegowosc dla domu. Godric (ceni go za dyskrecje-lojalnosc) przyjmuje idealnie i POWIERZA staly, cichy angaz: prowadzenie/audyt czesci rachunkow domu do wyzszego, braavijskiego standardu, regularnie, dyskretnie, platnie. Symon = odtad ZAUFANY CZLOWIEK OD LICZB DOMU (nie jednorazowy audytor). Zaufanie mocno w gore. Nast 38->42. Zero ekspozycji karty.",

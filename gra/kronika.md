@@ -5181,3 +5181,6 @@ Symon obrządkowo popatrzył na wodę (studnia napełniona). Dzień dobry i cich
 
 ## 297-06-19 WIECZÓR — Septa, pomoc strukturą ciągnięta (rzut 47)
 Symon ciągnie cichą pomoc Wierze strukturą (konsolidacja zakupów, rejestr jałmużny, timing opału) — chude zapasy stretchowane dalej, więcej głodnych najedzonych. Owen (zmęczony) RAD: „tak się to robi, cichym porządkiem nie workiem grosza na widoku; wziąłeś radę o cieniu głębiej niż myślałem". Poręka drogi. Wiara 84 trzyma.
+
+## 297-06-19 NOC — sen (dzień dobry i cichy)
+Godric (kra tnie bieżące drewno, kryje stewarda +3), kantor (mistrzowska optymalizacja +3, duma Nesty), woda, Septa (pomoc strukturą, Owen aprobuje). → 297-06-20 RANEK (rotacja ~06-22, batch3 ~06-27, Torren charter, Boren drewno, kra ~tyg).

@@ -4747,3 +4747,6 @@ Nesta od ręki dała kierunek: to nie robota Symona do kopania — Godric niesie
 
 ## 297-05-23 NOC — sen (za zgodą gracza)
 Symon kładzie się po ciężkim, pełnym dniu (targ, Harlon-mapa, krytyk u Godrica, rozplątanie, rada Nesty). Dzień 05-23 zamknięty. → 297-05-24 RANEK. Do zrobienia: naostrzyć i przeprowadzić przez Godrica plan wyrównania intake'u.
+
+## 297-05-24 RANEK — naostrzenie planu z Nestą (rzut 44)
+Na trzeźwo dopracowali plan intake do wersji wykonawczej: Godric idzie sam z jednostronicowym czystym wyrównaniem, jako własna staranność (nie skarga), zakłada błąd + daje urzędnikowi drabinę; Symon buduje papier i szlifuje słowa, niewidzialny. Caveat Nesty: kluczowy ton Godrica i trafienie właściwej osoby/momentu przy intake (mało wiedzy o ludziach intake). Solidny plan, gotowy do przeprowadzenia przez Godrica.

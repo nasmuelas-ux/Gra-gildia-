@@ -4726,3 +4726,6 @@ Cofnięto automatyczne przejście w noc po Septa+Wick. Nowa twarda zasada: nie z
 
 ## 297-05-22 NOC — sen (za zgodą gracza)
 Symon kładzie się spać. Dzień 05-22 zamknięty. Noc spokojna. → 297-05-23 RANEK.
+
+## 297-05-23 RANEK — Targ (nasłuch, rzut 30)
+Symon (na czczo) przeszedł targ słuchając. Łapie to, co GŁOŚNE: ceny miękną (galera wpłynęła, panika była na wyrost; sól/wino/opał schodzą z zimowego szczytu). Pate podobno umiera — ława przy Schodach się zwolni. Cech pisarzy AKTYWNIE go szuka po porcie (pyta, czy nie uciekł do septy/z miasta) — szybkie tempo, ale to bardziej nękanie niż groźba (jest pod opieką Wiary, poręczają Vox/Boren/Leona). Whiff plotki, że kantor Nesty rzekomo na skraju upadku / nie spłaci długu Antaryonom — usłyszał, ale ŹRÓDŁA nie namierzył (rzut zbyt niski). Skill: spryt_uliczny +1, czytanie_ludzi +1.

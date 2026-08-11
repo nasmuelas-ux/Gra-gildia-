@@ -4936,3 +4936,6 @@ Symon sam przyszedł ofiarować pomoc: audyt księgi jałmużny (by charytatywne
 
 ## 297-06-03 POPOŁUDNIE — audyt księgi jałmużny (rzut 82)
 Realne znaleziska (nie korupcja — septoni to nie ludzie liczb): dostawcy przebijają Sepcie ceny (ziarno/świece drogo, bo Wiara nie targuje się jak kupiec) + trochę marnotrawstwa/złej alokacji. Uszczelnienie + tańsze zaopatrzenie przez sieć Symona = ta sama jałmużna nakarmi znacznie więcej ubogich (ulga na przednówek, m.in. Elna). Owen/Septa wdzięczni — konkretny dowód, że pomoc Symona waży. Rep wiara 82→84. NEXT: załatwić pierwszą tańszą dostawę.
+
+## 297-06-03 NOC — sen (za zgodą gracza)
+Symon śpi po dobrym dniu (Harlon krytyk-kanał, Torsen puls, oferta+audyt jałmużny Sepcie). Dzień 06-03 zamknięty. → 297-06-04 RANEK. (Weksle wracają ~06-05; do zrobienia: tańsza dostawa dla Septy.)

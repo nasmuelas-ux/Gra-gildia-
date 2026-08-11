@@ -933,7 +933,7 @@
     "Lorren",
     "glod dzieci"
    ],
-   "nastawienie_do_gracza": 52,
+   "nastawienie_do_gracza": 55,
    "zaufanie": 10,
    "wie_o_graczu": [
     "skryba przejrzal drapiezna umowe Lorrena",
@@ -943,7 +943,8 @@
     "297-04-16 (rzut 74): Symon wreszcie odwiedzil po 110 dniach - Elna BEZ urazy, sama radosc ('gdzies ty sie podziewal'). Jak zawsze DAJE: nakarmila, ocerowala plaszcz, poblogoslawila (jej lek 'nie zostac sama' odgoniony obecnoscia). Wie o wszystkim (pod opieka kolodziejow): o wypadku Wicka i ze Symon poslal uzdrowiciela+uczy go liter - 'caly cech mowi o tobie, nie z tych co sie wspieli i zapomnieli'. Grunt dla Symona: sila=szczerosc nie schematy. Niskoprofilowe, ludzkie. nast 37->43.",
     "297-05-27 POPOLUDNIE (rzut 23): reunion po 6 tyg, bez urazy (jak zawsze, sama radosc), nakarmila/ocerowala - ona DAJE. Ale Symon wyczul, ze ma CHUDSZY okres: przednowek, zapasy zimowe wyszly, jalmuzna cechu przetrzebiona wiosna, ona szczuplejsza, pokaszluje od wilgoci. Nic ostrego - zwykla precarity ubogiej wdowy, ale warto miec oko. nast 43->45, zauf 8->9.",
     "297-06-07 (rzut 2, KRYTYK w dol): Symon przyszedl i zastal ja CHORA - goraczka, kaszel, oslabiona (przednowek + niedojadanie), ukrywala to (duma). Nie u progu z radoscia jak zwykle - w zimnej izbie, skulona. Powazne. Symon musi zareagowac.",
-    "297-06-07: Symon przyszedl akurat gdy trzeba - rozpalil wygasle palenisko, nakarmil rosolem, ogrzal. Doraznie uratowal ja od zimna/glodu, ale goraczka piersiowa wciaz NIELECZONA - trzeba uzdrowiciela. nast 45->48."
+    "297-06-07: Symon przyszedl akurat gdy trzeba - rozpalil wygasle palenisko, nakarmil rosolem, ogrzal. Doraznie uratowal ja od zimna/glodu, ale goraczka piersiowa wciaz NIELECZONA - trzeba uzdrowiciela. nast 45->48.",
+    "297-06-17 (rzut 58): ludzka wizyta 10 dni po ratunku. Elna ZDROWIEJE dobrze - na nogach, blada/watla ale goraczka minela, leki siostry + cechowa rota (jadlo/opal spisane przez Symona) dzialaja, JE (garnek nie pusty). Znow soba - GIVER: nakarmila, ceruje rekaw, blogoslawi (jej sposob odwdzieczenia). Symon pozwolil jej dawac (godnosc) czujnie pilnujac ze SAMA zadbana, nie chowa braku z dumy (tym razem nie chowa). Lorren dalej odstraszony; o warsztat syna martwi sie spokojniej. Ratunek 06-07 potwierdzony jako realne dobro - zywa. nast 52->55."
    ],
    "dlugi": [
     {
@@ -953,7 +954,7 @@
      "nota": "umowa NIEPODPISANA — dzieki Symonowi; pod ochrona cechu"
     }
    ],
-   "ostatni_kontakt": "297-06-07",
+   "ostatni_kontakt": "297-06-17",
    "cechy_mowy": "cicha, zmeczona, twarda; 'chlopcze'",
    "historia": [
     "m11d11: Symon wpadl po ludzku. Elna bezpieczna pod opieka kolodziejow (schronienie+robota przy cechu) i na liscie reliefu — radzi sobie, cieplo w izbie. Przyjmuje go z gleboka wdziecznoscia i ODDAJE cieplo: karmi go, ceruje mu plaszcz, blogoslawi. Czysta, wzajemna wiez. Nast 24->28.",

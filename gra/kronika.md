@@ -5139,3 +5139,6 @@ Symon wszedł BEZ łowienia roboty, czysto po ludzku, szacunek+przestrzeń (regi
 
 ## 297-06-17 POŁUDNIE — księgi cechu (rzut 69)
 Czysta sesja ksiąg cechu kołodziejów, dalsza optymalizacja graded-drewna + drobny catch, +5 jel. Wartość dla cechu potwierdzona (goodwill/świadek charakteru solidnieje — podwójna waga po froncie cechu pisarzy). Boren: rozgląda się za lokalnym drewnem — jeden mglisty trop (pomniejszy posiadacz z borem bez dojścia do zamku), sprawdza. Wolne 61 jel.
+
+## 297-06-17 POPOŁUDNIE — Elna (rzut 58, ludzka wizyta)
+10 dni po ratunku. Elna ZDROWIEJE dobrze — na nogach, gorączka minęła, leki siostry + cechowa rota działają, je. Znów sobą — giver: nakarmiła, ceruje rękaw, błogosławi. Symon pozwolił jej dawać (godność) pilnując czujnie, że sama zadbana (nie chowa braku). Lorren odstraszony, o warsztat spokojniej. Ratunek 06-07 potwierdzony jako realne dobro. Nast 52→55.

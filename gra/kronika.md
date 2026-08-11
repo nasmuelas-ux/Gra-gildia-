@@ -4672,3 +4672,6 @@ Gracz slusznie: 'czy to wesele jej drugiej corki?'. Sprawdzone - BESS jest juz o
 
 ## 297-05-19 WIECZOR — Aurane: ksiegi + petla Hobba domknieta (pelnia)
 Odpoczynek, potem do Aurane (inbound - przyslal po ksiegi; rzut 84). Wiosenne ksiegi skladow czysto (recurring premium, +6 jel -> 46 jel). PELNIA relacji: Aurane domknal petle Hobba sam ('zalatwilem po swojemu, cicho, bez cechu; miales racje co do joty, powinienem byl podziekowac od razu a nie kopac poslańca'). Ufa GLEBIEJ niz przed sprawa. nast 52->60, zauf +3. aurane_trawi_skim DOMKNIETE. Inbound Aurane odpowiedziany. Liczniki audyt+1 (140), rachunki+1 (201). -> noc.
+
+## 297-05-19 — KOREKTA (wylap gracza): Bran i Alys SA po slubie (04-07)
+Gracz slusznie: 'oni sa juz po weselu'. Kanon: 297-04-07 SLUB Brana i Alys, Symon swiadek; od 04-16/04-22 zyja jako rodzina. Kartoteka Alys byla STALA ('narzeczona') - poprawione na ZONA Brana. Moje 'grosz na wesele co sie zbieral' bylo bledem ze starego pola. Wizyta u Brana grana odtad poprawnie (malzenstwo, osiedli).

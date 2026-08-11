@@ -5021,3 +5021,6 @@ OWEN: ciepły, mądry wieczór. Rad z Theo (poręczenie chwyciło) i Elny (Wiara
 
 ## 297-06-08 WIECZÓR — Symon zatrudnia Wicka jako ucznia-pisarza (rzut 11)
 Odpowiedź na poranne zwątpienie Wicka. Symon wrócił wieczorem i zaoferował realną pracę (nie jałmużnę): „rosnę, roboty pisarskiej mam ponad dwie ręce; do pióra trzeba jednej zdrowej dłoni i rozumu — twoja krzywda tu nie wadzi; nowy cech". Landing twardy (rzut 11) — Wick pękł ze wstydu/dumy („nie mogę brać com nie zarobił, zmarnujesz grosz na kalekę"), Symon przeparł twardo (robota nie litość, zarobisz każdy miedziak). Chłopiec z „czekania aż dłoń wróci" dostał fach i przyszłość. Nast 54→63, zauf 16→20. Łańcuch Owen→Symon→Wick spełniony w fach. NEXT: czyste zwolnienie z czeladnictwa kołodziejów przez Borena (properly), wdrożenie w robotę. Zysk Symona: ręce do skalowania + uczciwe imię (Faza B).
+
+## 297-06-08 NOC — sen (za zgodą gracza)
+Dzień pełny: Godric (kryzys→sojusznik+szczebel dworski, Faza B), Boren (+5 jel, więź 89), Wick (fach — uczeń-pisarz), Owen (rada: ambicja vs Antaryon). Dzień 06-08 zamknięty. → 297-06-09 RANEK.

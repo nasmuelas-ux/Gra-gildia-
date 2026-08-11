@@ -5133,3 +5133,6 @@ Szara solidna sesja spring volume (rachunki 10 = bez wysiłku), +2 jel. Wick dzi
 
 ## 297-06-16 NOC — sen (dzień długi i polityczny)
 Dzień legitymacji: własna analiza (charter=pismo, audyt poza monopolem), Torren potwierdził+tempered (klauzula workowata, rada=polityka, skala wzmacnia ich naciąganie), Nesta architektura (cel=ODSTRASZENIE), Boren ODRZUCIŁ guild-vs-guild (kanon: cechy nie napadają na siebie) ale poręczy za charakter + mądrość „bądź poza ich charterem". Leona (już kotwica bloku) — zły dzień, jej nacisk wielkiego domu rośnie. Obrona przeformułowana: poza charterem pisarzy (faktor nie skryba) + Wiara + goodwill kupców. → 297-06-17 RANEK (Torren dowiezie charter; weksle batch2 ~06-18).
+
+## 297-06-17 RANEK — Aurane (rzut 69, bez łowienia)
+Symon wszedł BEZ łowienia roboty, czysto po ludzku, szacunek+przestrzeń (register-correct — nauka z 05-28/05-06). Rozbroił dumnego prywatnego propertied (paradoks: bo nie łowił, sam rzucił) — Aurane cieplej, SAM zasygnalizował przyślе po Symona gdy wiosenne księgi składów urosną (przyszła robota premium na JEGO warunkach). Goodwill propertied człowieka solidnieje (cenne dla frontu cechu — świadek charakteru, godnością nie prośbą). Drobny intel z nabrzeża. Nast 60→63, zauf 21→23. Nauka: u Aurane mniej znaczy więcej.

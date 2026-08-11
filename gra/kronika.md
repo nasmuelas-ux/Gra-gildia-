@@ -4824,3 +4824,6 @@ Symon poszedł podziękować po ludzku — i zamiast przypisać sobie wygraną, 
 
 ## 297-05-27 POPOŁUDNIE — księgi zamku z Godrikiem (rzut 68)
 Solidna sesja — już jako sojusznik. Symon przeszedł bieżące i ustawił rejestr tak, by przyszłe rozjazdy z intake wychodziły wcześnie (systemowe wzmocnienie po nauce z niezgodności). +5 jel. Relacja mocna, zauf 23→24. → POPOŁUDNIE.
+
+## 297-05-27 POPOŁUDNIE — Elna (reunion, rzut 23)
+Po 6 tyg. Bez urazy (jak zawsze sama radość), nakarmiła/ocerowała — ona daje. Ale Symon wyczuł chudszy okres: przednówek, zapasy zimowe wyszły, jałmużna cechu przetrzebiona, Elna szczuplejsza, pokaszluje od wilgoci. Nic ostrego — zwykła precarity ubogiej wdowy, warto mieć oko. Nast 43→45, zauf 8→9.

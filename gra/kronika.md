@@ -5073,3 +5073,7 @@ Ciepły reconnect (16 dni) + realna robota: Symon ustawił/pchnął czyste księ
 ## 297-06-13 POŁUDNIE — Godric (rzut 89) — DEMAND-side odblokowany
 Złapany w dobrym oknie (nie w wiosennym młynie). Ciepła sesja sojusznika. Kanał drewna-na-zamek zdrowy, ogon po 06-08 czysto zamknięty. KLUCZOWE: Godric SAM otworzył rosnący apetyt zamku — Nowy Zamek budzi się pełnią, prowiantura Lorda Wymana w górę, popyt na drewno realny i ROŚNIE. Godric gotów na WIĘKSZĄ/STAŁĄ umowę drewna, JEŚLI kanał Symona niezawodnie dowiezie. Godność/dyskrecja/firewall trzymane. +3 jel. Nast 86→88, zauf 26→28.
 STRATEGIA: drewno-na-zamek dojrzewa — DEMAND unlocked (Godric standing-ready); ograniczenie = PODAŻ (Halvard organicznie + Harlon wolumen seed). Wszystko się zbiega.
+
+## 297-06-13 POPOŁUDNIE — Torsen: puls podaży (rzut 6, realia rozejścia lodu)
+Symon przyszedł po świeży puls PRZED obietnicą zamkowi — i trafił w rozejście lodu (pełna odwilż = najgroźniejszy tydzień północnego traktu). Zator kry, część wyrębu Halvarda utknęła/rozniesiona, wieści z Północy milkną. ŻADNEJ pewnej przepustowości. Podaż rozchwiana i nieczytelna. WNIOSEK: NIE obiecywać zamkowi stałej umowy teraz — wrócić po liczby gdy kra się ułoży (dni/tygodnie). Dyscyplina (sprawdził przed obietnicą) ocaliła od over-commitu. RYZYKO: bieżący strumień drewna na zamek też może się opóźnić (marża+niezawodność u Godrica) — mieć oko.
+STATUS drewno-na-zamek: DEMAND unlocked (Godric) · SUPPLY disrupted (break-up) → contract ON HOLD, wrócić po ułożeniu kry.

@@ -4687,3 +4687,6 @@ Do Rennicka Pod Kotwice (inbound 'obcy kupiec' - okazal sie NIE obcy: klient Ald
 
 ## 297-05-20 POPOLUDNIE — Merek: ksiegi czyste (peace of mind)
 Audyt ksiag Mereka (rzut 62). CZYSTE - nikt go nie strzyze (zdrada partnera byla rana nie regula, zabliznila sie); jeden drobiazg wyprostowany. Merek peace of mind ('spie spokojniej, dziekuje ze po ludzku nie po naciagaczowsku'). Premium +5 jel (-> 40 jel), nowy premium klient. nast 58->62, zauf +2. merek_ksiegi zrobione. Inbound Merek zdjety. Liczniki audyt+1 (141), rachunki+1 (202). -> WIECZOR.
+
+## 297-05-20 WIECZOR — Godric: ksiegi (filar)
+Praca u Godrica (rzut 40, marginal). Ksiegi domu odrobione, prowizja+transit-compound kapie, +3 jel (-> 43). Kanal mieli w tempie Polnocy (Halvard organicznie, popyt zamkniety w kolejce). Godric nast 70. Liczniki rachunki+1 (203), organizacja+1 (108). -> noc.

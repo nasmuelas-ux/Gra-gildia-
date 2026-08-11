@@ -8,8 +8,8 @@
  "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 48,
- "zmeczenie": 26,
+ "sytosc": 44,
+ "zmeczenie": 30,
  "sakiewka": {
   "miedziaki": 9,
   "jelenie": 19,
@@ -96,7 +96,7 @@
   "draw_status": "WZNOWIONY 297-05-24 (6 jel/mies -> depozyt)"
  },
  "kamieniczka": {
-  "status": "ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe. || 297-02-14: budzet dachu ROZWIAZANY - pelny re-roof ~35 jel (linia ~21 + ~15 z depozytu), naprawa krytyczna porzadnie przy odwilzy (bez ryzyka fazowania). Bufor Symona: depozyt 38->23 jel + sakiewka 14 jel.",
+  "status": "ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe. || 297-02-14: budzet dachu ROZWIAZANY - pelny re-roof ~35 jel (linia ~21 + ~15 z depozytu), naprawa krytyczna porzadnie przy odwilzy (bez ryzyka fazowania). Bufor Symona: depozyt 38->23 jel + sakiewka 14 jel. || 297-06-09: izba 3 (Hal) goscsi tez Wicka (klerk Symona); czynsz Hala OBNIZONY (~2->~1 jel/mies) jako zaplata za usluge goszczenia (nie jalmuzna). Wick housing solved.",
   "opis": "kamieniczka przy Schodach: 4 izby + murowany ogrodek za plotem; do remontu (dach do wymiany + 1 strop - Donnel)",
   "cena_jel": 108,
   "all_in_szac_jel": "~142 (108 cena + ~30 dach + ~4 oplaty Torrena/rejestr)",

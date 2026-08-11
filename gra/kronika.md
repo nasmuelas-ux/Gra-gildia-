@@ -4723,3 +4723,6 @@ Po odpoczynku i posiłku: dyżur pisarza w sepcie oraz lekcja z Wickiem. Po znie
 
 ## ZASADA (05-22) — koniec dnia tylko za zgodą gracza
 Cofnięto automatyczne przejście w noc po Septa+Wick. Nowa twarda zasada: nie zamykam pół-dnia ani nie przechodzę w noc/nową porę bez wyraźnej zgody gracza. Stan: 05-22 POPOŁUDNIE, wieczór wciąż w grze.
+
+## 297-05-22 NOC — sen (za zgodą gracza)
+Symon kładzie się spać. Dzień 05-22 zamknięty. Noc spokojna. → 297-05-23 RANEK.

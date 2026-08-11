@@ -4756,3 +4756,6 @@ Symon zagrał mądrze: nie coaching (stan!), tylko airtight jednostronicowe wyr�
 
 ## 297-05-24 POPOŁUDNIE — kantor z Halem (rzut 26)
 Zwykła, ciężka sesja — wiosenny wolumen dusi kantor. Hal miele robotę kompetentnie, ale Symon widzi, że jest rozciągnięty (delegacja + premium go rozpycha). Bez przełomu; Symon pomógł, drobny moment nauki. Do obserwacji: nie przeciążyć podopiecznego. Wieź 90, zauf 45.
+
+## 297-05-24 WIECZÓR — praca u Nesty (rzut 30)
+Po jedzeniu i odpoczynku solidna wieczorna sesja przy księgach kantoru. Bez błysku, ale Symon podciągnął zaległy wiosenny wolumen — zdjął trochę ciężaru z tonącego kantoru (i pośrednio z rozciągniętego Hala). Rutyna, która się liczy. Wieź 90.

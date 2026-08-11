@@ -5197,3 +5197,6 @@ GM nadmuchał crit-5. NIEREALNE: plotka po całym nabrzeżu w jeden ranek. REALN
 
 ## 297-06-20 POŁUDNIE — domknięcie: kobieta przywrócona
 Symon przywrócił kobietę PRZEZ SIOSTRĘ (ręka w cieniu), wpis „potrzeba prawdziwa", oddał osąd ludzki siostrze/septie, sobie zostawił tylko zaplecze (store/rachuby). Metoda skorygowana: przy Wierze = liczydło za kotarą. Sprawa zamknięta cicho. Lekcja odłożona: miłosierdzia nie optymalizuj.
+
+## 297-06-20 POPOŁUDNIE — woda (po nauczce)
+Symon nad wodą, pokorny po porannej lekcji (liczydło ma granicę = człowiek; kolumna nie widzi chorej sąsiadki za „bierze dwakroć"). Studnia napełniona, lekcja osiadła. Wrócił lżejszy i pokorniejszy.

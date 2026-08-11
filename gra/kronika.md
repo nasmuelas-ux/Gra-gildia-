@@ -5194,3 +5194,6 @@ NAPRAWA: ① przywrócić kobietę/litość ② schować rękę (advise septę p
 
 ## 297-06-20 KOREKTA — deflacja przesady (za uwagą gracza)
 GM nadmuchał crit-5. NIEREALNE: plotka po całym nabrzeżu w jeden ranek. REALNIE zostaje TYLKO: zaostrzona reguła jałmużny zawróciła kobietę biorącą podwójnie z potrzeby (chora sąsiadka) — mała, ludzka, naprawialna nauczka (siostra sprostowała od razu). Odcięty dostawca = ziarenko na przyszłość (straci custom przy następnym cyklu, może być niezadowolony), NIE pożar/wróg/rozeszła się plotka. Owenowa rada = mądrość NA PRZÓD (ręka w cieniu, miłosierdzia nie optymalizuj), nie „przestroga się ziściła". Do naprawy: przywrócić kobietę + zapamiętać zasadę. Sytuacja SPOKOJNA.
+
+## 297-06-20 POŁUDNIE — domknięcie: kobieta przywrócona
+Symon przywrócił kobietę PRZEZ SIOSTRĘ (ręka w cieniu), wpis „potrzeba prawdziwa", oddał osąd ludzki siostrze/septie, sobie zostawił tylko zaplecze (store/rachuby). Metoda skorygowana: przy Wierze = liczydło za kotarą. Sprawa zamknięta cicho. Lekcja odłożona: miłosierdzia nie optymalizuj.

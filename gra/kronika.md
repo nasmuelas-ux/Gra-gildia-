@@ -5080,3 +5080,8 @@ STATUS drewno-na-zamek: DEMAND unlocked (Godric) · SUPPLY disrupted (break-up) 
 
 ## 297-06-13 WIECZÓR/NOC — odpoczynek, sen (za zgodą gracza)
 Symon zmordowany (2 kraksy po południu: Torsen 6, Donnel 2 — młócenie w zaryglowaną krą podaż) odłożył drewno i odpoczął. Dzień był treściwy: Merek (62, +5 jel), Godric (89, DEMAND zamku odblokowany), potem ściana podaży (kra). NOWY POMYSŁ (gracz): drewno LOKALNE/lądem = kanał odporny na krę; klucz = PRAWA DO WYRĘBU (lasy lorda/włości). Plan: jutro rano świeży Godric — wybadać lokalne źródła/prawa wyrębu (framing: pewna podaż pod stałą umowę zamku; firewall na lorda). → 297-06-14 RANEK.
+
+## 297-06-14 RANEK — Boren: cech jako pojazd lokalnego drewna (rzut 88) — LOCAL-SUPPLY unlocked
+Symon guild-forward: cech jako pojazd. Rama: pewne drewno dla rzemiosła cechu + cech jako DOSTAWCA ZAMKU (prestiż+dochód). Boren chętny (jak przy żelazie). MAPA: rdzeń zamku = lasy lorda przez leśniczego (nie tykać); LUKA = pomniejsi posiadacze (cuttable bór bez kanału do zamku, idzie lądem = kra-odporne); jakość przez fach cechu. STANDING cechu = legalna tarcza dla nisko urodzonego Symona (ukryty architekt za cechem). Boren rozezna tropy, wróci. Firewall/lord czysto.
+STRATEGIA drewno: POPYT(Godric)✅ · river-SUPPLY⏸(kra) · local-SUPPLY🔓(cech, kra-odporne) · POJAZD=cech(standing) · Symon ukryty/class-safe. Piłka po Borenie (tropy posiadaczy).
+Przegląd dochodu: ~397 łącznie, zdrowe linie. Vox retainer wisi niedokończony; rachunki 14 od mistrzostwa.

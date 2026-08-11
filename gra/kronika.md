@@ -4750,3 +4750,6 @@ Symon kładzie się po ciężkim, pełnym dniu (targ, Harlon-mapa, krytyk u Godr
 
 ## 297-05-24 RANEK — naostrzenie planu z Nestą (rzut 44)
 Na trzeźwo dopracowali plan intake do wersji wykonawczej: Godric idzie sam z jednostronicowym czystym wyrównaniem, jako własna staranność (nie skarga), zakłada błąd + daje urzędnikowi drabinę; Symon buduje papier i szlifuje słowa, niewidzialny. Caveat Nesty: kluczowy ton Godrica i trafienie właściwej osoby/momentu przy intake (mało wiedzy o ludziach intake). Solidny plan, gotowy do przeprowadzenia przez Godrica.
+
+## 297-05-24 RANEK — Godric (equip + defer, rzut 58)
+Symon zagrał mądrze: nie coaching (stan!), tylko airtight jednostronicowe wyrównanie + jedna równa sugestia + PYTANIE o ludzi intake. Godric, potraktowany jak ekspert, wziął sprawę z nienaruszoną dumą i się otworzył: dostawę przyjmował GOWEN (skryba intake — porządny, zaharowany, poprawi cicho jak się go nie przyprze). Intake podlega szafarzowi Ulrikowi → trzymać na poziomie Gowena, nie eskalować. Godric poniesie kartkę jako rutynowe wyrównanie. Nast 72→75, zauf 15→17. Nowy minor NPC: Gowen. Inbound: raport Godrica ~05-27. → POPOŁUDNIE.

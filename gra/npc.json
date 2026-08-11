@@ -651,8 +651,8 @@
    "id": "kupiec_vox",
    "imie": "Vox",
    "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-   "nastawienie_do_gracza": 63,
-   "ostatni_kontakt": "297-05-03",
+   "nastawienie_do_gracza": 68,
+   "ostatni_kontakt": "297-05-25",
    "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
    "wie_o_graczu": [
     "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -675,7 +675,8 @@
     "297-03-19 RANEK (rzut 16, dobra droga a i tak miss): Symon zrobil dobrze - prywatnie, ekskluzywnosc+cech, bezpieczna linia. Vox NIE zrazil sie (relacja cala), kiwal na logike rzadkosci, przyjal - ALE to sie w nim NIE utrzyma: Vox wylewny z NATURY, nie z wyboru; za tydzien w zapale znow wyrwie sie glosna pochwala. Nie da sie kupieckim argumentem przerobic temperamentu. LEWAR SLEPY. NAUKA/PIVOT: nie kontrolowac ust Voxa - kontrolowac wlasna widocznosc (mniej forensic na pokaz, opisywac wlasna robote nudno, zero publicznych \"odkryc\"). Naprawa po stronie Symona. nast 56 hold, zauf 18.",
     "297-04-15 (rzut 47, czesciowy): Symon zagral 1+2 - przekierowanie narracji (nudny dyskretny rachmistrz, dyskrecja=prestiz/wyzsza cena uslugi) + ally-apel (twoja glosna chwala sciaga oko cechu, POMOZ mi byc cichym=moje bezpieczenstwo, prosba nie nagana). Vox wzial szczerze ('nie pomyslalem, bede trzymal jezyk - porzadny rachmistrz'). ALE to NUDGE nie FIX (wylewny z natury - potrzyma tydzien-dwa, potem serce rozwiaze usta). Kupiona cisza+lepsza narracja. POTWIERDZONE: trwaly fix = wlasna widocznosc Symona (mniej spektakularnego forensic). nast 56->58.",
     "297-04-15 (rzut 19): Symon spytal czy Vox potrzebuje pomocy - nic pilnego (ksiegi juz ustawione, wiosna rowna). Vox prawie podsunal re-audyt 'dla pewnosci', ale Symon grzecznie odpuscil (re-audyt=okruchy+witness-fatigue, nie busy-work dla grosza). Ciepla wiez podtrzymana, restraint zamiast spinania roboty bez wartosci (spojne z niskim profilem). nast 58 hold.",
-    "297-05-03 WIECZOR (rzut 86): Symon audytowal wiosenne dostawy - REALNY catch: wspolnik dowozi KROTKA MIARE (sukno ponizej lokcia, konsekwentnie na duzych belach) - cienki skim, udokumentowany. Vox dostal PEWNOSC (nie zimowa paranoja - swiezy material). Rada czysta: docisnac prywatnie/zwazyc przy swiadku, NIE do cechu (jego potrzeba); Symon narzedzie nie oskarzyciel. Jezyk Voxa RE-USZCZELNIONY (2. raz, mocniej - dyskrecja=prestiz). +5 jel fee. nast 58->63, zauf 18->20."
+    "297-05-03 WIECZOR (rzut 86): Symon audytowal wiosenne dostawy - REALNY catch: wspolnik dowozi KROTKA MIARE (sukno ponizej lokcia, konsekwentnie na duzych belach) - cienki skim, udokumentowany. Vox dostal PEWNOSC (nie zimowa paranoja - swiezy material). Rada czysta: docisnac prywatnie/zwazyc przy swiadku, NIE do cechu (jego potrzeba); Symon narzedzie nie oskarzyciel. Jezyk Voxa RE-USZCZELNIONY (2. raz, mocniej - dyskrecja=prestiz). +5 jel fee. nast 58->63, zauf 18->20.",
+    "297-05-25 WIECZOR (rzut 85): 3 tyg po catchu krotkiej miary. Vox POSZEDL za tym - odprawil oszukujacego wspolnika/dostawce, odzyskal miare i grosz, oszczedza dalej. Gleboko wdzieczny: audyt Symona realnie go ochronil. Jeszcze mocniej w jego rogu - i jawny orednik, i prywatnie ufajacy. Zaplacil uczciwe honorarium + wcisnal odciety kupon dobrego sukna. nast 63->68, zauf 20->23."
    ],
    "potrzeby": [
     "docisnac wspolnika na osobności (krotka miara udokumentowana)",
@@ -686,7 +687,7 @@
     "rozglos/wstyd"
    ],
    "dlugi": [],
-   "zaufanie": 20,
+   "zaufanie": 23,
    "status": "ZAANGAZOWANY SOJUSZNIK: z kalkulujacego obserwatora przeszedl w aktywne poparcie — widzi wlasny interes (stabilny port; zly precedens, gdy obcy wierzyciel dusi kupca portowego). Publicznie stanal za kantorem = de facto pobłogoslawil partnerstwo Symon-Nesta. Uchylil drzwi do drobnego mostka kupieckiego na styk raty.",
    "historia": [
     "m11d11: cieply-dosc kontakt; Vox trzyma TWARDO (wlasny interes: stabilny port, zly na dystorsje sieci Antaryona). Ale szczwany kupiec potwierdza fray: miekcy kupcy nerwuja sie NIE tylko od zimy, lecz od PRZEDLUZAJACEGO SIE bezruchu — standing wisi dlugo bez rozstrzygniecia, tchorze zaczynaja watpic czy cos w ogole ruszy. Nast 37->39.",

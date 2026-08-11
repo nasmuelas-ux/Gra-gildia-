@@ -8,11 +8,11 @@
  "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 35,
- "zmeczenie": 32,
+ "sytosc": 48,
+ "zmeczenie": 26,
  "sakiewka": {
   "miedziaki": 54,
-  "jelenie": 6,
+  "jelenie": 10,
   "smoki": 0
  },
  "dobytek": [
@@ -24,11 +24,12 @@
   "spisane STANDARDY AUDYTU + pozyczona ksiazka o rachunkach (od/z Nesta)",
   "kwit depozytowy u Nesty (70 jel)",
   "WYPOSAZENIE IZBY 4 (wlasne lokum, fit-out 297-04-04 ~5 jel): uzywana zelazna koza (cieplo), uszczelnione okiennice, prosta prycza ze slomiankiem, stol pod oknem do pisania + stolek; skromnie, ale cieplo/sucho/wlasne",
-  "KOPIA WPISU REJESTRU (tytul wlasnosci kamieniczki pod nazwisko Symon Tally) - od Torrena, 297-01-09"
+  "KOPIA WPISU REJESTRU (tytul wlasnosci kamieniczki pod nazwisko Symon Tally) - od Torrena, 297-01-09",
+  "kupon dobrego sukna (dar Voxa, 297-05-25)"
  ],
  "reputacja": {
   "port": 31,
-  "schody_zamkowe": 32,
+  "schody_zamkowe": 33,
   "cech_pisarzy": -6,
   "wiara": 80,
   "zamek": 9,
@@ -131,15 +132,15 @@
  },
  "nazwisko": "Tally",
  "liczniki_uzyc": {
-  "rachunki": 211,
-  "audyt": 147,
+  "rachunki": 212,
+  "audyt": 148,
   "pismo": 125,
   "organizacja": 114,
   "kondycja": 115,
   "walka": 51,
   "prawo": 177,
   "retoryka": 116,
-  "czytanie_ludzi": 179,
+  "czytanie_ludzi": 180,
   "rzemioslo": 3,
   "jezyki": 75,
   "spryt_uliczny": 129,

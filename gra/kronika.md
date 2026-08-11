@@ -4778,3 +4778,6 @@ Symon przyszedł pomóc Halowi (rozciągniętemu wolumenem) i zrobił więcej ni
 ## 297-05-25 POPOŁUDNIE — Owen (podziękowanie) + Wick (off-day)
 Owen (rzut 51): Symon szczerze podziękował za naukę — akurat gdy sam dobił pismo 8 i przekazuje metodę dalej. Owen cicho poruszony, widzi łańcuch Owen→Symon→Hal. Więź patrona-Wiary wzmocniona. Nast 86→88, zauf 27→28.
 Wick (rzut 14, off-day fizyczny): odwilżowa wilgoć rozbolała zmiażdżoną dłoń/ramię — dziś nie o pisanie chodziło. Symon nie cisnął nauki, był obok, czytał mu, trzymał na duchu. Zero postępu, ale morale trzyma. Nast 51→52, zauf 14→15.
+
+## 297-05-25 WIECZÓR — Vox (follow-up, rzut 85)
+3 tyg po catchu krótkiej miary. Vox poszedł za tym — odprawił oszukującego wspólnika/dostawcę, odzyskał miarę i grosz. Głęboko wdzięczny: audyt Symona realnie go ochronił. Jeszcze mocniej w jego rogu (jawny orędownik + prywatnie ufający). +4 jel honorarium + kupon dobrego sukna. Nast 63→68, zauf 20→23. Rep schody_zamkowe 32→33.

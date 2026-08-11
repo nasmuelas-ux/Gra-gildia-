@@ -4597,3 +4597,6 @@ Konsultacja capacity (rzut 63). Nesta prostuje: ty SPINASZ nie dzwigasz - nie ws
 
 ## 297-05-16 RANEK — Noc
 Sen. Przejscie 05-16 RANEK. Plan: zamknac popyt graded-supply (skalowac gore popytem-najpierw). Filary mielą, weksle pracuja, Mira (prog przekroczony), Bank blizej gotowosci.
+
+## 297-05-16 RANEK — Serla: ludzka kotwica (grunt)
+Wizyta po ludzku u Serli (rzut 69). Nakarmila, trzymala przy ziemi po swojemu ('slyszalam ze ci sie wiedzie, ale dalej jestes ten sam goludupiec co przylazl zima z jednym plaszczem - nie zadzieraj nosa'). Po grunt, nie interes - w swiecie gdzie wszyscy widza brokera/wezel, Serla widzi CZLOWIEKA. Tom zdrow/rumiany, pokazal wystruganego konika. Hubris chlopca-na-fali przygaszony, przywrocony do rozmiaru. nast 52->56, Tom 10->13. Licznik czyt+1 (158). -> POPOLUDNIE.

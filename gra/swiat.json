@@ -63,5 +63,6 @@
   "od": "297-05-01 (poprawka gracza: 'w sredniowieczu ludzie nie widzieli sie co tydzien, juz o tym rozmawialismy'). Cofnieto tik-szeroki dryf -1."
  },
  "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia.",
- "zasada_rano": "Kazdego ranka renderowac: 📬 WIADOMOSCI (inbox, cisza jesli nic) + krotki STATUS = JEDZENIE (sytosc/zmeczenie/zdrowie) i HAJS (wolne + skrot: depozyt/inwestycje/weksle). Pelna tablica umiejetnosci TYLKO na zadanie."
+ "zasada_rano": "Kazdego ranka renderowac: 📬 WIADOMOSCI (inbox, cisza jesli nic) + krotki STATUS = JEDZENIE (sytosc/zmeczenie/zdrowie) i HAJS (wolne + skrot: depozyt/inwestycje/weksle). Pelna tablica umiejetnosci TYLKO na zadanie.",
+ "zasada_format": "Ramki mechaniczne (naglowek kreskowy, WIADOMOSCI, status jedzenie/hajs, menu opcji) renderowac w BLOKU KODU monospace, jak output rano.py. Scene opisowa - zwykly tekst."
 }

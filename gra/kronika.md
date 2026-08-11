@@ -4875,3 +4875,6 @@ Symon śpi po długim, mocnym dniu (Mira przełom, Harmen krytyk-nowy klient, ce
 
 ## 297-05-30 RANEK — formalizacja Hala z Nestą (rzut 39)
 Symon+Nesta rozpisali rolę Hala (Nesta groomuje Symona na patrona — lustro tego, co zrobiła jemu). Struktura: jasny udział/płaca + ścieżka wzrostu udziału z kompetencją + izba3. Legible finding (rozmyty, rzut 39): na czystej ekonomii Hal dziś ~break-even/lekko plus (wciąż się uczy); zysk NIE w spreadzie teraz, lecz forward (inwestycja) + intangible (lojalność, dyskrecja=firewall, dźwignia). Do domknięcia: przedstawić Halowi + wycena jego premium roboty. Zauf 45→46. → POPOŁUDNIE.
+
+## 297-05-30 POPOŁUDNIE — prezentacja układu Halowi (rzut 8, KRYTYK)
+Misfire. Symon przedstawił formalny układ myśląc, że uczci Hala — a trafił w jego najsurowszy nerw. Hal (sierota, głód znaczenia, miesiącami bojący się, że jest jałmużną) usłyszał formalny kontrakt + szczerą ekonomię („~break-even, inwestycja") jako: jestem zarządzanym kosztem, utrzymankiem, nie kimś kto zarabia na siebie. Duma ukłuta, cichy uraz, układ NIE przyjęty. Symon widział, jak ląduje źle (zły moment + jego raw nerve, nie głupota Symona). Nast 90→85, zauf 48→46. Do naprawy: przeramować na „wierzę w ciebie / rośniesz", nie liczby, które go redukują.

@@ -5224,3 +5224,6 @@ Cykl rotacji faktorii domknięty: Nesta oddała kapitał 250 jel + plon 22 jel (
 
 ## 297-06-22 RANEK — re-roll 290 jel w rotację
 Symon re-rollował 290 jel w rotację faktorii (0→290). Wolne 301→11 (cienko, ale batch3 ~50 wraca ~06-27). Kapitał znów agresywnie w rotacji (powiększony udział vs poprzednie 250). Silna wiosna + pozycja na soli.
+
+## 297-06-22 RANEK — kantor jałowa sesja (rzut 18)
+4. raz nad tymi samymi księgami w tygodniu — kantor uporządkowany, wielki read wyciągnięty wczoraj, nic nowego, grosza brak. Pompuje z wyschniętej studni (echo: praca to kran nie studnia). Trzeźwa myśl: pozycja na soli potrzebuje CIERPLIWOŚCI (firmuje się tygodniami, nie dłub codziennie). Znak by robić coś innego niż kolejne księgi kantoru.

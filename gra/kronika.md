@@ -4903,3 +4903,6 @@ Symon pracował w ogródku razem z Jonną (zna się na roli) — dosiali (rzepa/
 
 ## 297-06-01 POPOŁUDNIE — Mira (odpowiedź na jej wezwanie, rzut 89)
 Przyszedł ostrożnie w odpowiedzi na jej pierwszy gest — i podwójnie ją poruszył: że przyszedł I że wciąż nie zakłada niczego z góry mimo przełomu. Głęboka, wygodna bliskość; nakarmiła go tym co sama zrobiła (jej dawanie, na jej ziemi), gadali otwarcie, wpuściła go głębiej w swój świat (spytała o jego oko na swój interes, jak równa równego). Wzajemna czułość. Wątek solidnie w: wybrane, wzajemne, równe wczesne partnerstwo — na jej warunkach. Nast 79→84, zauf 33→36.
+
+## 297-06-01 POPOŁUDNIE (c.d.) — zostaje z Mirą
+Został jeszcze — łatwe, wspólne popołudnie. Na jej zaproszenie zerknął lekko w jej księgi/interes (jako równy, pomocnie, nie przejmująco) — partnerstwo w praktyce, na jej warunkach. Konsolidacja. Nast 84→85, zauf 36→37.

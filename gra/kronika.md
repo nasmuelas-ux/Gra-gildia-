@@ -4806,3 +4806,6 @@ Gracz słusznie zaprotestował. Pełny re-roof kamieniczki UKOŃCZONY 297-03-25 
 
 ## 297-05-26 WIECZÓR — Torren (septon-prawnik, rzut 25)
 Reconnect po miesiącu, ale wieczorem krótko — Torren zajęty obowiązkami. Zdawkowa wymiana o punkcie prawnym, bez głębszej sesji. Relacja durable trzyma i lekko rośnie od doglądania. Nast 30→32, zauf 10→11.
+
+## 297-05-26 WIECZÓR — Wick (rzut 36)
+Dzień po bolesnym off-dayu. Ręka spokojniejsza (ostry ból od wilgoci odpuścił), cicha wieczorna lekcja — trochę liter, bez fajerwerków. Najważniejsze: Symon przyszedł drugi dzień z rzędu (w tym po tym złym) — Wick zauważył, stały gość = nie zapomniany. Konsystencja > przełom. Nast 52→53, zauf 15→16.

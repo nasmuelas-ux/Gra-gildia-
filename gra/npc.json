@@ -1834,9 +1834,9 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 52,
-   "zaufanie": 15,
-   "ostatni_kontakt": "297-05-25",
+   "nastawienie_do_gracza": 53,
+   "zaufanie": 16,
+   "ostatni_kontakt": "297-05-26",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
@@ -1846,7 +1846,8 @@
     "297-05-09 RANEK (rzut 94): PRZELOM. Wick cwiczyl sam lewa reka - pisze CZYTELNIE (koslawo ale to pismo, nie bazgroly), czyta plynnie z modlitewnika. Napisal swoje imie caly, lewa. Nadzieja stala sie faktem: zycie nie skonczylo sie pod kolem. Spytal: mogl by z pisania zyc? MOGLBY - bystry, aptytuda realna (przyszly pisarz/klerk jak Hal - drugi mlody ktorego Symon podniosl do pisma). nast 33->46, zauf +.",
     "297-05-18 (rzut 27, off-day): grind srodka drogi - postep lewa reka wolny, Wick zniechecony (\"moze sie nie nadaje, pisze jak dziecko\"). Symon: nie brak talentu, zmeczenie ucznia w martwym srodku; przypomnial skad wyszedl, ze wolno != nigdy. Nie rzucil tabliczki (podtrzymany), ale postoj nie krok. Cierpliwosc.",
     "297-05-22 POPOLUDNIE (rzut 85): po zniecheceniu z 05-18 - MOCNA lekcja. Wick lewa reka napisal cala czysta linijke i zrobil kolumne rachunkow bez bledu; funk odpuscil (\"moze jednak sie nadaje\"). Symon trafil z metoda i otucha. Postep realny, morale wrocilo. nast 47->51, zauf 12->14.",
-    "297-05-25 POPOLUDNIE (rzut 14, off-day fizyczny): odwilzowa wilgoc rozbolala zmiazdzona dlon/ramie - dzis nie o pisanie chodzilo, reka sztywna i obolala, lewa tez nie slucha przy takim bolu. Symon NIE cisnal nauki - byl, czytal mu, trzymal na duchu, przyjal ze cialo ma gorsze dni. Zero postepu w pismie, ale morale trzyma bo Symon nie zrobil z tego porazki. nast 51->52, zauf 14->15."
+    "297-05-25 POPOLUDNIE (rzut 14, off-day fizyczny): odwilzowa wilgoc rozbolala zmiazdzona dlon/ramie - dzis nie o pisanie chodzilo, reka sztywna i obolala, lewa tez nie slucha przy takim bolu. Symon NIE cisnal nauki - byl, czytal mu, trzymal na duchu, przyjal ze cialo ma gorsze dni. Zero postepu w pismie, ale morale trzyma bo Symon nie zrobil z tego porazki. nast 51->52, zauf 14->15.",
+    "297-05-26 WIECZOR (rzut 36): dzien po bolesnym off-dayu. Reka spokojniejsza (ostry ból od wilgoci odpuscil), cicha wieczorna lekcja - troche liter, bez fajerwerkow. NAJWAZNIEJSZE: Symon przyszedl DRUGI dzien z rzedu, w tym po tym zlym - Wick to zauwazyl, staly gost = nie zapomniany. Konsystencja > przelom. nast 52->53, zauf 15->16."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   },

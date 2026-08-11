@@ -5166,3 +5166,6 @@ Dutyful służba (rejestry jałmużny, korespondencja) — wiara 84 trzyma (tarc
 
 ## 297-06-18 NOC — sen (dzień cichego dobra)
 Serla (dignified care — gotuje dla Hala/Wicka za zapłatę), służba w Sepcie (pomoc strukturą, większa miara z cienia). Wcześniej: weksle batch2 +56, mostek zabezpieczony +50. Majątek ~427 jel. → 297-06-19 RANEK (rotacja ~06-22, batch3 ~06-27, Torren charter, Boren drewno).
+
+## 297-06-19 — korekta: Ostyn POZA MIASTEM
+Ostyn (ukryte źródło mapy rynku) WYJECHAŁ z miasta — niedostępny do wizyty (stąd 65 dni). Oznaczony flaga_postawa=POZA_MIASTEM, żeby skan zaniedbanych go nie podrzucał jako lokalny cel. Wróci kiedyś; wtedy źródło znów w grze (firewall).

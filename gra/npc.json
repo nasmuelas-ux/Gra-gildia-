@@ -1709,8 +1709,9 @@
    ],
    "ostatni_kontakt": "297-04-15",
    "cechy_mowy": "zmeczony, godnosc pod presja; krotkie, rzeczowe zdania czlowieka co przelknal duma",
-   "status": "WYJECHAL Z MIASTA (297-04-15) do krewnych - nieobecny. Mapa sol/ryba/fracht zostala u Symona jako aktyw. Ostyn NIE jest kontaktem do odwiedzenia w Bialym Porcie.",
-   "gdzie": "poza miastem (u krewnych)"
+   "status": "POZA MIASTEM (wyjechal ~04-15) - niedostepny do wizyty; wroci kiedys. Ukryte zrodlo mapy rynku (firewall).",
+   "gdzie": "poza miastem (u krewnych)",
+   "flaga_postawa": "POZA_MIASTEM"
   },
   {
    "id": "wdowa_jonna",

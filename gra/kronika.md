@@ -5120,3 +5120,7 @@ NOWY WIELKI WĄTEK: legitymacja/tarcza dla FIRMY (nie tylko osoby) przed skalowa
 
 ## 297-06-16 POŁUDNIE — Nesta: architektura pleców (rzut 51)
 Mapa rady trzeźwa: cech pisarzy WPLECIONY, ma sojuszników — realny spór, Symon nisko urodzony nowicjusz. Kupcy: cicha sympatia łatwa, JAWNE głosy trudne (boją się odwetu). KLUCZOWY REFRAME: cel = ODSTRASZYĆ od złożenia skargi (nie wygrać przy radzie) — mur na który się nie porywają (cech Borena + poważani kupcy + Wiara = atak zbyt kosztowny → zostaną przy słabym smearze). Sekwencja: Boren pierwszy (guild-vs-guild) → poważani niezależni. LATENT/cicho. Nesta za kulisami (słowo zdyskontowane jako wspólniczki). Równolegle: charter od Torrena. Cel kampanii = DETERRENCE.
+
+## 297-06-16 POŁUDNIE — Boren: guild-vs-guild ODRZUCONY (rzut 29 + korekta świata)
+KANON: CECHY NIE NAPADAJĄ NA SIEBIE. System guild stoi na wzajemnym poszanowaniu charterów/tradycji — podważyć monopol pisarzy = podważyć zasadę chroniącą własny monopol kołodziejów. Żaden cechmistrz nie będzie taranem na inny cech. Boren gently odrzucił „guild-vs-guild mur" (naiwny), ale z sympatii dał: (1) PORĘCZENIE ZA CHARAKTER (świadek, nie wojna); (2) MĄDROŚĆ: nie walcz z ich prawem — bądź jawnie POZA nim (faktor-rachmistrz=zwyczaj kupiecki, nie skryba); trzymaj Wiarę. Relacja cała (90/28).
+PRZEFORMUŁOWANA OBRONA (z ziarnem tradycji): ① pozycjonuj się jawnie POZA charterem pisarzy (faktor nie skryba) ② tarcza Wiary ③ indywidualna dobra wola kupców = świadkowie charakteru NIE frakcja ④ nie prowokuj. „Deterrence wall z cechów" = martwy.

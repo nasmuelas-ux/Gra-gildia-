@@ -4708,3 +4708,6 @@ Sesja ksiąg zbożowych u faktora Wyllama przy Solnym Nabrzeżu. Tydzień chudy 
 
 ## 297-05-22 RANEK — Cech kołodziejów (praca)
 Sesja nad księgami i umowami cechu u Borena. Czysto, sprawnie — stały dochód skryby działa jak trzeba. +5 jel. Rep cech_kolodziejow 33→34. Boren mocny (85/24).
+
+## 297-05-22 POPOŁUDNIE — Nesta (depozyt +50 jel)
+Dołożenie 50 jel do depozytu w kantorze. Rozmowa krótka, ciepła — Nesta zajęta bieżącym obrotem faktorii, nic nowego (Bank i tak na swoim zegarze). Wiedź trzyma (90). Depozyt: 250,88 jel. Wolne: 1 jel + 66 mied. Noc → 297-05-23.

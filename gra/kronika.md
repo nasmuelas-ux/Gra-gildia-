@@ -5270,3 +5270,6 @@ Kanał lokalnego drewna zbudowany (Bennet→broker→zamek, kra-odporny, standin
 ## 297-06-25 RANEK — Torren: formalizacja firmy + drewna (rzut 58)
 FIRMA: forma prawna szkielet gotowy (usługa kupiecko-faktorska, poza cechem z natury, fundament obywatelstwo-kupca; umowa cichego wspólnika Nesty spisana ⅓/⅔ ukryta; czeladnicy Hal/Wick). Rejestracja w radzie ~parę dni. Do dopięcia: PODPIS NESTY. DREWNO: umowy nakreślone czysto (Bennet-podaż + Symon-broker marża<wartość + zamek-odbiór przez Godrica, egzekwowalne z arbitrażem, feudalnie czyste). Do wykonania: PODPISY Benneta + zamku (Godric). Reciprocity. -2 jel rejestracja. Nast 37→39.
 STATUS: firma i kanał drewna = byty prawne w szkielecie, czekają na podpisy + proces rejestracji.
+
+## 297-06-25 POŁUDNIE — podpisy drewna: KANAŁ ŻYWY (rzut 93)
+Bennet podpisał (lojalny dostawca, idle wood→grosz, traktowany uczciwie). Godric podpisał za zamek (procurement) — drewno płynie lądem gdy rzeka leży. KANAŁ DREWNA ŻYWY I LEGALNY (Bennet→Symon broker→zamek, egzekwowalny). +6 jel wstępnie + marża narasta. KLUCZOWE: Godric SAM PCHA ku STAŁEJ UMOWIE („dowieziesz gdy inni nie mogą; siądźmy do stałej umowy, stały strumień") — wielki prospekt dojrzewa mocno. Bennet nast 62, Godric zauf 31. Feudalna ostrożność cała. Kamień milowy domknięty. Zostało: podpis Nesty pod firmę + rejestracja rady.

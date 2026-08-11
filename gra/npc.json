@@ -979,16 +979,17 @@
    "id": "posiadacz_bennet",
    "imie": "Bennet",
    "zawod": "pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia-bogaty/grosz-chudy, uczciwy, bez glowy do handlu",
-   "nastawienie_do_gracza": 58,
-   "zaufanie": 12,
-   "ostatni_kontakt": "297-06-24",
+   "nastawienie_do_gracza": 62,
+   "zaufanie": 18,
+   "ostatni_kontakt": "297-06-25",
    "potrzeby": [
     "zamienic bezczynne drewno w grosz",
     "ktos kto zorganizuje scinke/zwozke/sprzedaz"
    ],
    "wie_o_graczu": [
     "297-06-24 (rzut 93): Boren przedstawil (slowo cechmistrza ręczy). Symon ocenil bor - realna dobra podaz (ilosc, czesc strukturalna, prawa CZYSTE=wlasna ziemia, ludzie do scinki, LADEM/kra-immune). Symon gral prosto (uczciwa cena, on spina scinke/zwozke/odbior + marza < wartosc). Bennet chetny/wdzieczny/ufa - martwy majatek moze stac sie groszem. Kanal lokalny kra-odporny OTWARTY, spina sie z kra-dziura zamku Godrica.",
-    "297-06-24 POLUDNIE: Symon domknal odbior u zamku (przez Godrica) - drewno Benneta idzie na zamek wypelnic kra-dziure. Jego bezczynne kloody staja sie groszem. Kanal zywy."
+    "297-06-24 POLUDNIE: Symon domknal odbior u zamku (przez Godrica) - drewno Benneta idzie na zamek wypelnic kra-dziure. Jego bezczynne kloody staja sie groszem. Kanal zywy.",
+    "297-06-25 (rzut 93): podpisal umowe podazy - jego bezczynne kloody staja sie pewnym groszem, Symon traktowal uczciwie. Lojalny dostawca. \"nie wiedzialem ze da sie z tego lasu zyc dopoki zes nie przyszedl\". Drewno plynie."
    ]
   }
  ],
@@ -1248,7 +1249,7 @@
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
    "nastawienie_do_gracza": 90,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-   "zaufanie": 30,
+   "zaufanie": 31,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
     "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
@@ -1274,9 +1275,10 @@
     "297-06-08 (rzut 92): Symon przyszedl jako SKALA - zdjal panike DUMNA RAMA: \"twoja staranność (kazales niezaleznie zweryfikowac ksiegi, zamiast wierzyc szafarzowi co raz zawyzyl) to CHLUBA, nie wstyd; ja = rozważnie zasiegniety ekspert, nie obca reka\". Podzialalo wzorcowo: Godric z zawstydzonego->PEWNY, kregoslup wrocil, zrozumial ze trzyma wysokie karty (czyste liczby, jego podpis, ranga nad Ulrikiem, deterrent ze re-audyt grzebie Ulrica). Postanowil zalatwic Ulrica SAM z pozycji sily (jego podwladny). Wdziecznosc+lojalnosc glebsza (Symon nie panikowal, nie robil o siebie, oddal mu godnosc). FAZA 2 zasiana naturalnie: Godric sklonny kredytowac/mowic dobrze o Symonie - pierwszy szczebel ku dobrej uwadze dworu na miejscu. Firewall zimny, Symon recede czysto. nast 83->86.",
     "297-06-13 (rzut 89): zlapany w DOBRYM oknie (nie w wiosennym mlynie). Cieпla sesja sojusznika. Kanal drewna-na-zamek zdrowy, ogon po 06-08 (niezgodnosc intake) czysto zamkniety. KLUCZOWE: przy delikatnym sondazu Godric SAM otworzyl rosnacy apetyt zamku - Nowy Zamek budzi sie pelnia, prowiantura Lorda Wymana w gore, popyt na drewno realny i ROSNIE. Godric gotow na WIEKSZA/STALA umowe JESLI kanal Symona niezawodnie dowiezie. DEMAND-side odblokowany. Godnosc/dyskrecja/firewall trzymane. +3 jel.",
     "297-06-19 (rzut 44): sesja ksiag drewna - KRA tnie BIEZACY strumien (dostawy przez polnocny kanal spoznione/chudsze, marza ciensza; potwierdza ryzyko z 06-13). Godric spiety (zamek oczekuje drewna, on odpowiada). Symon steady-doradca: udokumentowal opoznienie CZYSTO jako sile wyzsza (kra, zewnetrzna/przejsciowa, NIE zaniedbanie stewarda), papier airtight by zamek nie zwalil winy na Godrica, obiecal wznowienie gdy lod puszcza + early-warning. Godric ukojony. +3 jel. Cala gra drewniana (biezaca i przyszla) gated thaw. Symon trzyma trakt na oku (Godric+Harlon).",
-    "297-06-24 (rzut 93): Symon domknal POPYT lokalnego drewna - przyniosl ROZWIAZANIE kra-dziury (drewno Benneta, lokalne/ladem/kra-odporne) gdy rzeka stoi. Godric ULZONY (mial tlumaczyc zamkowi pustke, ma czym wypelnic). Symon zagral bezblednie: TWARZ GODRICA (on zabezpiecza drewno, Symon niewidzialny), broker nie pryncypal, przez standing cechu + WLASNA ziemia Benneta (zaden las lorda/lesniczy - czysto), marza < wartosc. KLUCZOWE: Godric \"to dokladnie o czym mowilem w maju\" - chcial stalej umowy JESLI dowieziesz PEWNIE; rzeka=niepewna, lokalne=niezawodne -> STANDING CONTRACT PROSPEKT WRACA na twardszym gruncie. \"Kto dowozi gdy inni nie moga, z takim siada sie do umowy.\" nast 88->90, zauf 28->30."
+    "297-06-24 (rzut 93): Symon domknal POPYT lokalnego drewna - przyniosl ROZWIAZANIE kra-dziury (drewno Benneta, lokalne/ladem/kra-odporne) gdy rzeka stoi. Godric ULZONY (mial tlumaczyc zamkowi pustke, ma czym wypelnic). Symon zagral bezblednie: TWARZ GODRICA (on zabezpiecza drewno, Symon niewidzialny), broker nie pryncypal, przez standing cechu + WLASNA ziemia Benneta (zaden las lorda/lesniczy - czysto), marza < wartosc. KLUCZOWE: Godric \"to dokladnie o czym mowilem w maju\" - chcial stalej umowy JESLI dowieziesz PEWNIE; rzeka=niepewna, lokalne=niezawodne -> STANDING CONTRACT PROSPEKT WRACA na twardszym gruncie. \"Kto dowozi gdy inni nie moga, z takim siada sie do umowy.\" nast 88->90, zauf 28->30.",
+    "297-06-25 (rzut 93): podpisal umowe drewna za zamek (procurement). Drewno Benneta plynie ladem gdy rzeka leży. KLUCZOWE: reliability udowodniona -> Godric SAM PCHA ku STALEJ UMOWIE (\"pokazales com chcial - dowieziesz gdy inni nie moga; siadzmy niedlugo do stalej umowy, staly strumien nie latka\"). Wielki prospekt dojrzewa mocno. zauf 30->31."
    ],
-   "ostatni_kontakt": "297-06-24",
+   "ostatni_kontakt": "297-06-25",
    "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",
    "historia": [
     "m11d16 (rzut 97): Symon wchodzi cicho, bez prosby, z oferta wartosci — braavijska ksiegowosc dla domu. Godric (ceni go za dyskrecje-lojalnosc) przyjmuje idealnie i POWIERZA staly, cichy angaz: prowadzenie/audyt czesci rachunkow domu do wyzszego, braavijskiego standardu, regularnie, dyskretnie, platnie. Symon = odtad ZAUFANY CZLOWIEK OD LICZB DOMU (nie jednorazowy audytor). Zaufanie mocno w gore. Nast 38->42. Zero ekspozycji karty.",

@@ -4702,3 +4702,6 @@ Od teraz kazdego ranka osobna ramka INBOUND ('WIADOMOSCI') - kto sie odezwal/zap
 
 ## 297-05-21 POPOLUDNIE — Wat: read potwierdzony, pisarz -> doradca
 (Harlon ANULOWANY - crit 6 przerwany interruptem, gracz przekierowal). Wizyta u Wata (rzut 65). Market-read Symona z wiosny POTWIERDZONY - flotylla zalala sukno/ceny spadly, jakes mowil; Wat wzial polowicznie, teraz zaluje ('trzeba bylo sluchac do konca'). Relacja przeskoczyla pisarz -> DORADCA. Symon dorzucil swiezy odczyt (aggregate-view edge z faktorii). Rosnacy kupiec slucha uwaznie - recurring advisory wart wiecej niz zlecenie. nast 33->40, zauf 12->14. Liczniki czyt+1 (168), handel+1 (133). -> POPOLUDNIE.
+
+## 297-05-21 POPOŁUDNIE — Wyllam (rutyna)
+Sesja ksiąg zbożowych u faktora Wyllama przy Solnym Nabrzeżu. Tydzień chudy — nic do prostowania, robota czysta lecz bez momentu. Relacja stałego klienta trzyma się mocno. +3 jel. Nast 32, zauf 10. Noc → 297-05-22.

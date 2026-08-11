@@ -8,8 +8,8 @@
  "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 45,
- "zmeczenie": 35,
+ "sytosc": 0,
+ "zmeczenie": 0,
  "sakiewka": {
   "miedziaki": 14,
   "jelenie": 30,
@@ -124,7 +124,8 @@
   "dach_pelny_wiosna_rewizja": "297-02-14 (Donnel): zgnilizna siega stropu/belek dalej niz pierwsza ocena -> pelny re-roof ~35+ jel (nie ~21 rezerwy). PRZEKROCZENIE BUDZETU ~15+ jel. Kosci zdrowe, ale remont glebsza studnia. Do rozwiazania: wiecej finansowania/re-scope. Izba 3 opozniona/drozsza.",
   "dach_pelny_wiosna_finansowanie": "ZDECYDOWANO 297-02-14: pelny re-roof ~35 jel sfinansowany = ~21 jel linia kantoru + ~15 jel z DEPOZYTU Symona (earmarked; spend przy odwilzy). Naprawa KRYTYCZNEJ struktury (dach+strop+belki) porzadnie, bez fazowania/ryzyka rot-spread. Izba 3 na tor po wiosennym dachu.",
   "dlug_wytrowany_297_05_27_jel": 52,
-  "stan_297_05_27": "WYTROWANE (rzut 81, praca z Nesta): dlug wobec kantoru = 52 jel czysto (bylo fuzzy 46-57; czesc dachu ~20 jel poszla z depozytu Symona, nie z linii, wiec udzial kantoru mniejszy niz pulap ~57). Amortyzowany czynszem 3 izb (rate pokryta, nadwyzka->equity). Twoj wklad equity ~105 jel (85 kupno + ~20 dach z depozytu). Kantor = WIERZYCIEL na 52 jel, nie wspolwlasciciel."
+  "stan_297_05_27": "WYTROWANE (rzut 81, praca z Nesta): dlug wobec kantoru = 52 jel czysto (bylo fuzzy 46-57; czesc dachu ~20 jel poszla z depozytu Symona, nie z linii, wiec udzial kantoru mniejszy niz pulap ~57). Amortyzowany czynszem 3 izb (rate pokryta, nadwyzka->equity). Twoj wklad equity ~105 jel (85 kupno + ~20 dach z depozytu). Kantor = WIERZYCIEL na 52 jel, nie wspolwlasciciel.",
+  "decyzja_297_05_27": "B - ZOSTAWIC dlug, niech czynsz go niesie (najtanszy dlug, kapital-light). NIE splacac z depozytu teraz."
  },
  "mieszczanstwo": {
   "status": "✅ PELNOPRAWNY MIESZCZANIN (przysiega zlozona 297-01-27, oplata ~12 jel zaplacona). Veto Pisarzy pobite. Korzen w miescie prawnie zapuszczony.",
@@ -136,7 +137,7 @@
  "liczniki_uzyc": {
   "rachunki": 217,
   "audyt": 152,
-  "pismo": 125,
+  "pismo": 126,
   "organizacja": 117,
   "kondycja": 115,
   "walka": 51,

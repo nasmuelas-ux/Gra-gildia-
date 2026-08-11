@@ -4833,3 +4833,6 @@ Solidna sesja (wypoczęty, nie jak wczorajszy krytyk). Przy okazji wytrowali fuz
 
 ## 297-05-27 WIECZÓR — praca z Halem (rzut 50)
 Wieczorna wspólna praca. Hal stosuje już strukturę z 05-25 (priorytety, kolejność) — mniej tonie, sprawniej. Lekcja się przyjęła. Steady, bez przełomu. Wieź 90, zauf 47→48.
+
+## 297-05-27 NOC — wprawka + sen (rzut 42)
+Decyzja o kamieniczce: B — zostawić dług, niech czynsz niesie (kapitał-light). Przed snem wprawka pisma — zmęczony, więc skromna, ale tym razem bez zmarnowania (pismo licznik 126, do 9 daleko: 165). Sen. → 297-05-28 RANEK.

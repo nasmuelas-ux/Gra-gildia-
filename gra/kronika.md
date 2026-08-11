@@ -5288,3 +5288,6 @@ Symon zostawił dwór i wciągnął Theo w czystą materię uczoną: gospodarka 
 
 ## 297-06-26 POPOŁUDNIE — powrót i odpoczynek
 Symon zszedł z zamku do swojej izby, zjadł ciepły posiłek i odpuścił resztę dnia po intensywnej rozmowie z Theomore. Cicho — dozorca Bran przy ogródku, lokatorzy w swoich izbach. Zmęczenie zbite (14→6), syt 60. Dzień domknięty dobrze: kanał zamkowy pogłębiony, firewall cały. → 297-06-26 WIECZÓR. Batch3 faktorii wraca ~06-27.
+
+## 297-06-26 WIECZÓR — kantor Nesty: backlog + plan rejestracji firmy (rzut 45)
+Symon poszedł o zmierzchu do kantoru nadrobić księgi przy świecy; Nesta na miejscu, w dobrym humorze (76). Backlog czysto (+2 jel → 24 wolne). Przy okazji dotknęli rejestracji firmy: front się domknął (Hal i Wick pod jednym dachem, pod okiem Symona), więc Nesta dała konkretny PLAN — rejestrować CICHO, wtopione w rutynowe wiosenne wpisy rady, żeby nowy byt kupiecki nie rzucał się w oczy cechowi/rywalom (wiosenne arrivals = wiele oczu na nowe firmy). Timing: po rozliczeniu batch3 (~06-27) + jej ostatni przegląd papierów czeladników. Rejestracja przeszła z „czekać bezterminowo" na „za parę dni, na cichym oknie". Zmęcz 14. → NOC.

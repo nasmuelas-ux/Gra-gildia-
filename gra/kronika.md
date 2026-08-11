@@ -5045,3 +5045,6 @@ Dzień domknięcia łuku Wicka: zwolnienie/benedykcja u Borena, dach u Hala (czy
 
 ## 297-06-10 RANEK — Bran: dograć Wicka w izbie 3 (rzut 66)
 Symon przyszedł dograć Wicka — właściwie: nie dekret nad głową, lecz „twój teren, dograjmy razem", pytał o zdanie. Bran (dumny, zasłużony) uhonorowany jako gospodarz. Dograne: opał na dwóch w izbie 3, czynsz Hala obniżony (do wiedzy Brana), Symon poręczył za Wicka — Bran (sam podniesiony z tragarza) przyjął chłopaka jak swojego, benevolent oko nie czujne. Zapytał o Brana i Alys. Nast 86→87. -3 mied (siennik/posłanie dla Wicka). Wick w izbie 3 w pełni osadzony.
+
+## 297-06-10 POŁUDNIE — Vox (rzut 61)
+Ciepły reconnect po 16 dniach + zarządzony OPSEC. Probe: Vox przez 16 dni gadał (duma/wdzięczność) — sława „dyskretnego rachmistrza" rozeszła się wśród kilku kupców sukna (benign channel, potencjalni klienci), ale BRAK śladu dojścia do cechu pisarzy (groźny wektor czysty). Reframe zadziałał lepiej (pełniejszy plan): dyskrecja=wspólny sekret przewagi + konkretny dyskretny sposób wdzięczności (cicha rekomendacja tylko zaufanym, framing „dyskretny rachmistrz" nie „łowca złodziei") → steruje ku KONTROLOWANEJ pozytywnej ramie (Faza B spójne). Supplier gap: Symon pomógł OKIEM (jak sprawdzić miarę/umowę) nie ręczeniem. Cloth intel: glut trwa, wełna>sukno. +2 jel. Nast 68→70, zauf 23→24.

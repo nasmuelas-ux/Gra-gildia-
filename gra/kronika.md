@@ -4753,3 +4753,6 @@ Na trzeźwo dopracowali plan intake do wersji wykonawczej: Godric idzie sam z je
 
 ## 297-05-24 RANEK — Godric (equip + defer, rzut 58)
 Symon zagrał mądrze: nie coaching (stan!), tylko airtight jednostronicowe wyrównanie + jedna równa sugestia + PYTANIE o ludzi intake. Godric, potraktowany jak ekspert, wziął sprawę z nienaruszoną dumą i się otworzył: dostawę przyjmował GOWEN (skryba intake — porządny, zaharowany, poprawi cicho jak się go nie przyprze). Intake podlega szafarzowi Ulrikowi → trzymać na poziomie Gowena, nie eskalować. Godric poniesie kartkę jako rutynowe wyrównanie. Nast 72→75, zauf 15→17. Nowy minor NPC: Gowen. Inbound: raport Godrica ~05-27. → POPOŁUDNIE.
+
+## 297-05-24 POPOŁUDNIE — kantor z Halem (rzut 26)
+Zwykła, ciężka sesja — wiosenny wolumen dusi kantor. Hal miele robotę kompetentnie, ale Symon widzi, że jest rozciągnięty (delegacja + premium go rozpycha). Bez przełomu; Symon pomógł, drobny moment nauki. Do obserwacji: nie przeciążyć podopiecznego. Wieź 90, zauf 45.

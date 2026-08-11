@@ -5169,3 +5169,6 @@ Serla (dignified care — gotuje dla Hala/Wicka za zapłatę), służba w Sepcie
 
 ## 297-06-19 — korekta: Ostyn POZA MIASTEM
 Ostyn (ukryte źródło mapy rynku) WYJECHAŁ z miasta — niedostępny do wizyty (stąd 65 dni). Oznaczony flaga_postawa=POZA_MIASTEM, żeby skan zaniedbanych go nie podrzucał jako lokalny cel. Wróci kiedyś; wtedy źródło znów w grze (firewall).
+
+## 297-06-19 RANEK — Godric księgi drewna (rzut 44)
+Kra tnie BIEŻĄCY strumień drewna na zamek (dostawy spóźnione/chudsze, marża cieńsza — potwierdza ryzyko 06-13). Godric spięty (zamek oczekuje). Symon steady-doradca: udokumentował opóźnienie jako siłę wyższą (kra, nie zaniedbanie stewarda), papier airtight by winy nie zwalono na Godrica, obiecał wznowienie + early-warning. Godric ukojony. +3 jel. Gra drewniana (bieżąca+przyszła) gated thaw; Symon trzyma trakt na oku (Godric+Harlon).

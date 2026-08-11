@@ -1337,9 +1337,9 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 76,
-   "zaufanie": 20,
-   "ostatni_kontakt": "297-05-11",
+   "nastawienie_do_gracza": 81,
+   "zaufanie": 21,
+   "ostatni_kontakt": "297-05-17",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
@@ -1355,7 +1355,8 @@
     "297-04-29 WIECZOR (rzut 1, KRYT): Symon przyszedl odnowic po 24 dniach. Poszlo ZLE - Aldous, par kubkow w reku, wypuscil urazke: Symon przyszedl 03-29, sprzedal mu ubezpieczenie, wzial cieple polecenie 04-05 - i ZNIKNAL na trzy tygodnie. Poczul sie jak MARK, nie przyjaciel ('przychodzisz kiedy chcesz cos sprzedac, a potem cie nie ma'). Polecenie do kupca ze Schodow: WYCOFANE/zamrozone ('po co slac przyjaciela do kogos, kto zapomina o mnie gdy atrament wyschnie'). Kolejne ladunki (repeat): PAUZA - nie bo ubezpieczenie zawiodlo (nie zawiodlo), lecz bo relacja zeszla do rurociagu. Boli Symona bo to PRAWDA - odpuscil cieplego przyjaciela dla transakcji. Zaden manufaktura wroga - czysty koszt zaniedbania. Odbudowa = przychodzic po ludzku, stale, nie transakcyjnie. nast 70->60, zauf 18->16.",
     "297-04-29 KOREKTA (dwustronnosc): urazka Aldousa autentyczna ale JEDNOSTRONNA - on tez nie ruszyl sie do Symona przez 24 dni. Dwoch dumnych czekalo na pierwszy krok; wino sprawilo ze Aldous powiedzial glosno pierwszy. Symon NIE jest zlym przyjacielem - asymetria wizyt ma czesc strukturalna (Symon buduje siec/zarabia na wiezi), ale nast 70 to przyjazn nie klient, wiec reciprocity nalezy sie w obie strony. Wlasciwa droga: DAC ODETCHNAC, nie kajac sie - zobaczyc czy Aldous po trzezwemu sam sie ruszy (ma teraz swoja czesc rachunku). Jesli wiez warta 70, spotkaja sie w pol drogi.",
     "297-04-30 RANEK (rzut 100, KRYT): Bran doreczyl zaproszenie o swicie - trzezwy Aldous zareagowal PIEKNIE. Wstyd za pijackie slowa, odpisal OD RAZU: przyjdzie wieczorem, i SAM WZIAL swoja czesc winy ('twoj pan ma racje, siedzialem na tylku trzy tygodnie tez'). Przyslal z Branem dzban swojego najlepszego jako gest. Reciprocity zadzialalo: Symon wyciagnal reke+poprosil o pol drogi, Aldous przeszedl swoja. Pojednanie ~domkniete (pelnia wieczorem przy kubku); polecenie do Corla prawdopodobnie wroci gdy pogadaja. nast 60->66 (wiekszosc spadku odrobiona), reszta+referral wieczorem.",
-    "297-04-30 WIECZOR: przyszedl na Schody DO Symona (jego ruch domkniety) - pojednanie pelne. Wstyd za pijacki wieczor, wzial swoja czesc winy szczerze; obejrzal nowe lokum, siedzieli przy jego winie jak dawni przyjaciele. POLECENIE do Corla PRZYWROCONE (nawet cieplejsze - 'poślę, i powiem mu ze jesteś porzadny'), kolejne ladunki ubezpieczen znow otwarte. Wiez glebsza niz przed sprzeczka (przeszli przez tarcie i wyszli mocniejsi). nast 66->74, zauf 17->19."
+    "297-04-30 WIECZOR: przyszedl na Schody DO Symona (jego ruch domkniety) - pojednanie pelne. Wstyd za pijacki wieczor, wzial swoja czesc winy szczerze; obejrzal nowe lokum, siedzieli przy jego winie jak dawni przyjaciele. POLECENIE do Corla PRZYWROCONE (nawet cieplejsze - 'poślę, i powiem mu ze jesteś porzadny'), kolejne ladunki ubezpieczen znow otwarte. Wiez glebsza niz przed sprzeczka (przeszli przez tarcie i wyszli mocniejsi). nast 66->74, zauf 17->19.",
+    "297-05-17 NOC (rzut 96): pozny kubek po frustrujacym dniu. Aldous (bez szczegolow - firewall) czyta nastroj i daje madrosc: rzeczy rosna jak chca (drzewo/dziecko/przyjazn/Polnoc), nie przyspieszysz krzykiem/smokami; masz dach/imie/kogo co nalewa o polnocy. Sciana przekuta w tempo Polnocy nie porazke. Przyjazn najglebsza dotad (przetestowana klotnia+naprawiona). Znowu szturchnal \"znajdz se kogo\" - Symon mysli o Mirze, nie mowi. Samotnosc sekretu mocno lzejsza. nast 76->81."
    ],
    "nota": "CEGLA 1 bloku anty-Antaryon (potwierdzony skubany), wdzieczny, cichy punkt do wylawiania kolejnych ofiar sieci Antaryona; handlarz winem = potencjalny ANCHOR-BUYER braavijskiej nogi winnej",
    "historia": [

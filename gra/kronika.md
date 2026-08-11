@@ -4630,3 +4630,9 @@ Odpoczynek, potem praca w faktorii (rzut 60). Weryfikacje odrobione (+3 jel -> 1
 
 ## 297-05-17 NOC — Mostek snagged (Polnoc nie kupi sie srebrem) - nauka bez straty
 Uruchomienie mostka (rzut 13). Zanim srebro ruszylo, uderzyla reszta prawdy Polnocy (Torsen): wiosna WSZYSTKIE RECE IDA W POLE (sieja albo zima mrze), rebaczy/flisakow nie ma na zawolanie choćby sypnac smokami - gora rosnie w TEMPIE POLNOCY nie kapitalu. Halvard wrogi wobec braavijskiej zabezpieczonej smyczy od obcych. ALE staging OCHRONIL kapital - nic nie wyplynelo, nic nie przepadlo (ostroznosc Nesty sie oplacila). Nesta: 'gora nie kupi sie srebrem - czasem i zaufaniem Halvarda; mostek jesli w ogole maly/miekki przez Torsena po ludzku'. RIGHT-SIZE: powrot ku wolniejszej organicznej sciezce (popyt zamkniety, sekwencjonowac wolniej). Nauka bez straty: waskie gardlo gory = ludzie+sezon, nie kapital. Liczniki organizacja+1 (107), prawo+1 (173). Glaboka noc.
+
+## 297-05-17 NOC — Aldous: wino gojace (pogodzony ze swiatem)
+Pozny kubek u Aldousa po frustrujacym dniu (rzut 96). Aldous (bez szczegolow-firewall, czyta nastroj) daje madrosc: rzeczy rosna jak chca (drzewo/dziecko/przyjazn/Polnoc), nie przyspieszysz krzykiem/smokami; masz dach/imie/przyjaciela co nalewa o polnocy. Sciana (mostek) PRZEKUTA w tempo Polnocy - nie porazka, nie wina Symona. Przyjazn najglebsza dotad (przetestowana klotnia, naprawiona z obu stron). 'Znajdz se kogo' - Symon mysli o Mirze (dlon nie cofnieta), nie mowi. Samotnosc sekretu mocno lzejsza. nast 76->81. Sen twardy, pogodzony.
+
+## 297-05-18 RANEK — Noc
+Przejscie 05-18 RANEK. Lekka glowa, pogodzony. Kanal rosnie w tempie Polnocy (popyt zamkniety), filary mielą, Mira (prog).

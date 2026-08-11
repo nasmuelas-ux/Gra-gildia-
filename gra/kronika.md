@@ -4790,3 +4790,6 @@ Symon śpi po dniu wdzięczności (Mira, Hal+pismo 8, Owen, Wick, Vox, dar sukna
 
 ## 297-05-26 RANEK — Leona (reconnection, rzut 41)
 Po 2+ tyg. Roboty audytowej brak (jej księgi ciasne po 05-08, wiosna równa). Wizyta ciepła, więź durable — wymiana market-readu o wiosennym zalewie sukna (braavijska flotylla zatopiła cenę; Leona trzyma wełnę, patrzy na przetrzebiony rynek sukienny). Trzyma Symona w pamięci na przyszłą robotę. Nast 70→72, zauf 28→29.
+
+## 297-05-26 RANEK — Rollam (reconnection, rzut 46)
+Po tyg+. Rollam (większy obrót) miał toczący się wycinek ksiąg — Symon sprawdził czysto, dyskretnie, bez fajerwerków (stały rytm). +4 jel. Relacja rośnie na raty. Nast 48→51, zauf 16→17. → POPOŁUDNIE.

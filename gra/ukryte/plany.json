@@ -88,6 +88,12 @@
    "co": "przedluzona czesc pilota (10 jel + drobna oplata) - dluznik krotki na wiosne, wraca",
    "kiedy": "~06-15",
    "zywy_watek": "ksiega_kredytowa"
+  },
+  {
+   "kto": "weksle_batch3",
+   "co": "trzecia partia weksli (50 jel, ulokowana 06-05) wraca z marza",
+   "kiedy": "~06-27",
+   "zywy_watek": "ksiega_kredytowa"
   }
  ]
 }

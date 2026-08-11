@@ -4957,3 +4957,6 @@ Ostra rada: keystone nie był porażką — Theo przyjął Symona, ocenił prac�
 
 ## 297-06-04 NOC — sen; 06-05 WEKSLE WRACAJĄ
 Symon śpi. → 297-06-05 RANEK. WEKSLE (pilot 50 jel, rzut 49): mechanizm DZIAŁA — 40 jel principal + 3 jel marża wróciły do kieszeni (+43), ale jeden dłużnik krótki na wiosnę → 10 jel przedłużone (short extension + drobna opłata, ~06-15). Nie strata (dobry zastaw), lekcja: kredyt = timing-ryzyko kontrahenta, zabezpieczenie trzyma. Księga kredytowa dowiozła pierwszy realny (skromny) plon. Weksle out: 100→60.
+
+## 297-06-05 RANEK — lokowanie w weksle (rzut 46)
+Chciał ulokować 60 — ulokował 50 na przyzwoitych warunkach, ale ostatnie 10 WSTRZYMAŁ: jedyni chętni na tę resztę byli zbyt słabi, więc nie pożyczył byle komu tylko po to, by wydać (dyscyplina doboru dłużników). Skutek uboczny: żyletkowy bufor odbudowany do 11 jel. Ramię kredytu: weksle out 60→110 (spora ekspozycja — pilnować jakości). Trzecia partia wraca ~06-27.

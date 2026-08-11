@@ -5257,3 +5257,6 @@ Boren przedstawił Symona Bennetowi (pomniejszy posiadacz, bór pod miastem, zie
 
 ## 297-06-24 POŁUDNIE — Godric: kanał lokalny DOMKNIĘTY (rzut 93) — kamień milowy
 Symon domknął POPYT: przyniósł Godricowi ROZWIĄZANIE kra-dziury (drewno Benneta, lokalne/lądem/kra-odporne) gdy rzeka stoi. Godric ULŻONY, pod wrażeniem. Zagrane bezbłędnie: TWARZ GODRICA, broker nie pryncypał, przez standing cechu + własna ziemia Benneta (żaden las lorda — czysto), marża < wartość, firewall. KLUCZOWE: Godric „to dokładnie o czym mówiłem w maju" — chciał stałej umowy JEŚLI dowieziesz PEWNIE; rzeka=niepewna, lokalne=niezawodne → STANDING CONTRACT PROSPEKT WRACA na twardszym gruncie. Nast 88→90, zauf 28→30. +3 jel + marża accruing. KANAŁ LOKALNY DREWNA ŻYWY (Bennet→Symon→zamek). Największy interes: gated krą → żywy i rosnący. NASTĘPNE: sformalizować prawa/umowę (Torren).
+
+## 297-06-24 POPOŁUDNIE/WIECZÓR — odpoczynek; plan na jutro
+Symon odpoczął po dużym dniu (kanał drewna domknięty). PLAN NA JUTRO (06-25): domknąć u Torrena OBIE sprawy — ② legalne ukonstytuowanie FIRMY (usługa kupiecka, własna neutralna, Nesta cichy backer) + formalizacja PRAW/UMOWY lokalnego drewna (Bennet→zamek). Na świeżą głowę.

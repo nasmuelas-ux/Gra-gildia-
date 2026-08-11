@@ -62,5 +62,6 @@
   "kiedy_spada": "Tylko przez ZDARZENIA (afront, zaniedbanie konkretnej obietnicy/obowiazku, konkurencyjny patron, uraza), NIE przez sam uplyw czasu. Ewentualny bardzo powolny dryf dopiero po DLUGIEJ nieobecnosci (miesiace), i cieple/glebokie wiezi (wysoki nast+zauf) sa lepkie - prawie nie erodują.",
   "od": "297-05-01 (poprawka gracza: 'w sredniowieczu ludzie nie widzieli sie co tydzien, juz o tym rozmawialismy'). Cofnieto tik-szeroki dryf -1."
  },
- "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia."
+ "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia.",
+ "zasada_rano": "Kazdego ranka renderowac DWIE ramki: 📬 WIADOMOSCI (inbox, cisza jesli nic) ORAZ 📋 pelne STATY (umiejetnosci, blisko-awansu, reputacja, majatek, zdrowie)."
 }

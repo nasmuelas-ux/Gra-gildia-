@@ -5036,3 +5036,6 @@ Hal zgodził się dzielić izbę 3 z Wickiem (dar — jego pierwszy własny kąt
 
 ## 297-06-09 POŁUDNIE — Kantor, nowy skład (rzut 68)
 Symon+Nesta (biznes), Hal (realna robota), Wick (pierwszy dzień, podstawy — Hal wprowadza). Nesta praktycznie zaakceptowała Wicka (długi rozbieg, ale ufa osądowi Symona; koszt 3 jel/mies to jego strona). Wiosenny wolumen podciągnięty większą liczbą rąk. Ciepły, produktywny zespół. Dla Wicka: humbling, ale JEST częścią czegoś — po wczorajszej rozpaczy to dużo.
+
+## 297-06-09 WIECZÓR — Septa (rzut 37) + Owen (rzut 26)
+SEPTA: księgi jałmużny czyste, ale Wiara STRETCHED w przednówku (puchnące rejestry ubogich, cieniejące zapasy leków/ziarna). Elna ZDROWIEJE (siostra melduje — poranny ratunek trzyma). OWEN: krótko, zmęczony sezonową falą ubogich; rad z Wicka; „więcej głodnych niż chleba; Wiara daje ile ma, ale ma coraz mniej". Seed: wiara_przednowek_ciezar (Symon ma środki+imię+oko — mógłby pomóc większą miarą). Nast Owen zauf 31 trzyma.

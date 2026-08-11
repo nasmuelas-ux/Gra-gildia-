@@ -4600,3 +4600,6 @@ Sen. Przejscie 05-16 RANEK. Plan: zamknac popyt graded-supply (skalowac gore pop
 
 ## 297-05-16 RANEK — Serla: ludzka kotwica (grunt)
 Wizyta po ludzku u Serli (rzut 69). Nakarmila, trzymala przy ziemi po swojemu ('slyszalam ze ci sie wiedzie, ale dalej jestes ten sam goludupiec co przylazl zima z jednym plaszczem - nie zadzieraj nosa'). Po grunt, nie interes - w swiecie gdzie wszyscy widza brokera/wezel, Serla widzi CZLOWIEKA. Tom zdrow/rumiany, pokazal wystruganego konika. Hubris chlopca-na-fali przygaszony, przywrocony do rozmiaru. nast 52->56, Tom 10->13. Licznik czyt+1 (158). -> POPOLUDNIE.
+
+## 297-05-16 POPOLUDNIE — Donnel: pierwsza kotwica popytu (graded-drewno)
+Do Donnela (rzut 60) - reconnect cieply (szczyt sezonu, znalazl chwile). Graded-drewno trafilo w jego bol (drewno jak popadnie, krzywe/mokre psuje robote). ZAMKNAL staly odbior graded-drewna na normie ('stala jakosc do ktorej nie musze zagladac - biore'). PIERWSZA gruba kotwica popytu pod skalowanie gory (Donnel buduje duzo - Bialy Mur, czesc Nowego Zamku). Feeds plan popyt-najpierw: przyniesc te pewnosc Torsenowi/Halvardowi -> skaluja sami; tempowac (1 kotwica, nie przeladowac). nast 46->52, zauf 14. UMIEJETNOSC HANDEL 7->8 (licznik 125, praktyka brokera/kanalow/kredytu). Liczniki handel+1 (125), czyt+1 (159). -> WIECZOR.

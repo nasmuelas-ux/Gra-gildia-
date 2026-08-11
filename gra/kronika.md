@@ -4945,3 +4945,6 @@ Przed podmianą: sukno i ziarno — dostawcy zwyczajni, bez klutu, bezpiecznie p
 
 ## 297-06-04 RANEK — Leona: sukno dla Septy (rzut 63)
 Symon przyniósł Leonie odbiór sukna dla Septy jako fair interes (stała Wiara-custom + dobre imię, ona daje uczciwą cenę z zalewu — tanio). Wzięła chętnie, wygrana obopólna. Stary dostawca cicho odpuszczony („Septa znalazła lepszą cenę") — zero wroga. Septa ubiera biednych taniej. Nast 72→74, zauf 29→30. NEXT: ziarno (faktoria), świece (Denys — delikatnie). → POPOŁUDNIE.
+
+## 297-06-04 POPOŁUDNIE — Nesta: ziarno dla Septy (rzut 99 KRYTYK)
+Symon zaproponował ziarno uwzględniając realia kantoru — faktoria wygrywa custom na uczciwej marży (nie datek), Septa i tak taniej niż u gougera. Nesta zachwycona i rozwinęła: to nie tylko sprzedaż — braavijska faktoria karmiąca ubogich przez Wiarę = LOKALNA STANDING, która miękczy podejrzliwość wobec obcych I czyni kantor bardziej BANKOWALNYM (feeds Bank angle!). Sformalizowała faktorię jako dostawcę ziarna Septy (durable); widzi drzwi: custom instytucjonalny/charytatywny jako linia reputacji+przychodu. Duma z Symona. Nast 90, zauf 46→48. Ziarno załatwione — zostają tylko świece (Denys, delikatnie).

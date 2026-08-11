@@ -472,7 +472,7 @@
     "herezje z Wolnych Miast w porcie"
    ],
    "nastawienie_do_gracza": 90,
-   "zaufanie": 30,
+   "zaufanie": 31,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
     "dobra, pewna reka do pisma",
@@ -556,10 +556,11 @@
     "297-06-04 (rzut 25): Symon upewnil sie z Owenem ws. swiec/Denysa PRZED ruchem (deferencja - dobrze). Owen POCHWALIL, ze pyta, ale WAVED HIM OFF: starszy septon i jego swiecarz ida 30 lat, dla septona to nie CENA lecz WIERNOSC (swiecarz kiedys wspomogl Septe w biedzie). Pchac to = wygrac pare miedziakow, stracic pokoj domu. \"Zrobiles dosc suknem i ziarnem. Zostaw swiece.\" Cichy cień: Owen ciut nieswoj, ze Symon w ogole zerkal na wewnetrzne uklady Wiary - delikatne przypomnienie granicy: jestes pod dachem Matki pisarzem/pod oslona, nie reformatorem domu. Symon madry - odpuscil. Wiez 90 hold, zauf 29 hold.",
     "297-06-04 (rzut 86): Symon spytal Owena o maestra. Ostra rada: keystone NIE byl porazka - Theo przyjal cie, ocenil prace maesterskiej klasy, RELACJA istnieje (przyczolek realny). Nie zaniosl dossieru lordowi = jego OSTROZNOSC, nie werdykt o tobie. NIE wracac z dossierem (wygladasz jak czlowiek z siekiera/agenda). Zamiast tego: BUDOWAC TEO jako czysta relacje - byc mu uzytecznym cicho (maester=samotny uczony w zamku pelnym mieczy; daj mu to, co dales Owenowi: staranny umysl, uczciwa robota, ZERO agendy), niech uzna cie za wartego trzymania blisko. A ze Bank niesie teraz sprawe rackietu - mozesz zalecac sie do Teo CZYSTO, dla relacji nie dla dossieru (firewall). Dossier=drzwi ktore sie nie otwarly; czlowiek=drzwi ktore wciaz moga. Owen moze ponowic cieple poreczenie na neutralnym gruncie. Wiez 90, zauf 29->30.",
     "297-06-05 (rzut 58): Symon wzial oferte - Owen PONOWIL cieple poreczenie do Theomore na NEUTRALNYM gruncie: cieple slowo/list, ze to godny, uczony czlowiek wart towarzystwa, ktory NIC nie chce (zero dossieru). Czysta re-entry ustawiona. Rada Owena: Theo ceni staranny umysl + dyskrecje; wejdz jak rowny, badz uzyteczny, cierpliwie. Wiez 90, zauf 30.",
-    "297-06-06: poreczenie Owena do Theo POTWIERDZONE - Theo przyjal Symona cieplo, kanal sie otworzyl. Owen mial racje (czlowiek, nie papier)."
+    "297-06-06: poreczenie Owena do Theo POTWIERDZONE - Theo przyjal Symona cieplo, kanal sie otworzyl. Owen mial racje (czlowiek, nie papier).",
+    "297-06-08 (rzut 73): cieply, madry wieczor. Owen rad: poreczenie do Theo chwycilo (kanal otwarty), i przy Elnie Symon zagral Wiara jak uczony (w zyciu, nie kolumnach). KLUCZOWA RADA na droge o ambicji dworskiej (Faza B): droga do oka lorda prawdziwa i uczciwa jesli brukowana sluzba - ALE im wyzej w pole widzenia wielkich, tym bacznniej obejrza (oni I wrogowie), a Symon NIESIE cos co oglądania nie przetrwa (Antaryon). Ambicja i sekret ida obok czas, ale NIE do konca blisko tronu - kiedys jedno ustapi: albo utnie wspinaczke, albo ROZWIAZE to co za nim wlecze. Buduj imie, ale firewall zimny jak lod. zauf 30->31."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-06-05",
+   "ostatni_kontakt": "297-06-08",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },
@@ -1881,9 +1882,9 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "cela septy (rekonwalescencja)",
-   "nastawienie_do_gracza": 53,
+   "nastawienie_do_gracza": 54,
    "zaufanie": 16,
-   "ostatni_kontakt": "297-05-26",
+   "ostatni_kontakt": "297-06-08",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
@@ -1894,7 +1895,8 @@
     "297-05-18 (rzut 27, off-day): grind srodka drogi - postep lewa reka wolny, Wick zniechecony (\"moze sie nie nadaje, pisze jak dziecko\"). Symon: nie brak talentu, zmeczenie ucznia w martwym srodku; przypomnial skad wyszedl, ze wolno != nigdy. Nie rzucil tabliczki (podtrzymany), ale postoj nie krok. Cierpliwosc.",
     "297-05-22 POPOLUDNIE (rzut 85): po zniecheceniu z 05-18 - MOCNA lekcja. Wick lewa reka napisal cala czysta linijke i zrobil kolumne rachunkow bez bledu; funk odpuscil (\"moze jednak sie nadaje\"). Symon trafil z metoda i otucha. Postep realny, morale wrocilo. nast 47->51, zauf 12->14.",
     "297-05-25 POPOLUDNIE (rzut 14, off-day fizyczny): odwilzowa wilgoc rozbolala zmiazdzona dlon/ramie - dzis nie o pisanie chodzilo, reka sztywna i obolala, lewa tez nie slucha przy takim bolu. Symon NIE cisnal nauki - byl, czytal mu, trzymal na duchu, przyjal ze cialo ma gorsze dni. Zero postepu w pismie, ale morale trzyma bo Symon nie zrobil z tego porazki. nast 51->52, zauf 14->15.",
-    "297-05-26 WIECZOR (rzut 36): dzien po bolesnym off-dayu. Reka spokojniejsza (ostry ból od wilgoci odpuscil), cicha wieczorna lekcja - troche liter, bez fajerwerkow. NAJWAZNIEJSZE: Symon przyszedl DRUGI dzien z rzedu, w tym po tym zlym - Wick to zauwazyl, staly gost = nie zapomniany. Konsystencja > przelom. nast 52->53, zauf 15->16."
+    "297-05-26 WIECZOR (rzut 36): dzien po bolesnym off-dayu. Reka spokojniejsza (ostry ból od wilgoci odpuscil), cicha wieczorna lekcja - troche liter, bez fajerwerkow. NAJWAZNIEJSZE: Symon przyszedl DRUGI dzien z rzedu, w tym po tym zlym - Wick to zauwazyl, staly gost = nie zapomniany. Konsystencja > przelom. nast 52->53, zauf 15->16.",
+    "297-06-08 (rzut 26): gorszy dzien - wilgoc w zmiazdzonej dloni (bol) + zwatpienie (\"a jesli na darmo? kolodziej zaden, skryba niepewny - czy ty mnie tylko zajmujesz?\"). Bez przelomu w literach. Symon go UTRZYMAL cierpliwie: pokazal ile juz umie, przypomnial ze Boren ceni, ze to REALNA droga nie pocieszenie. Ledwie, ale nie dal mu spasc. nast 53->54."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'"
   },

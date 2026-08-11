@@ -5014,3 +5014,7 @@ Symon wszedł jako skała, zdjął panikę dumną ramą: „twoja staranność (
 
 ## 297-06-08 POPOŁUDNIE — Boren + księgi cechu (rzut 84)
 Ciepły reconnect + solidna sesja nad księgami cechu (dalsza optymalizacja graded-drewna, +5 jel). Wypłynęło naturalnie: Symon dziś rano zabezpieczył opiekę cechu nad Elną (ich wdowa) i uczy Wicka (ich rannego) — Boren (cechmistrz, potrzeba: chronić braci) głęboko poruszony/wdzięczny: Symon zrobił dla słabych cechu to, czego cechmistrz zawsze pragnie dopilnować. Więź pogłębiona. Faza B: Boren jako cechmistrz z głosem w gminie — jeszcze cieplejszy rzecznik („człowiek, co dba o naszych"). Nast 87→89, zauf 25→26.
+
+## 297-06-08 WIECZÓR — Wick (rzut 26) + Owen (rzut 73)
+WICK: gorszy dzień — ból zmiażdżonej dłoni (wilgoć) + zwątpienie („a jeśli na darmo?"). Bez przełomu; Symon utrzymał go cierpliwie (pokazał ile umie, że Boren ceni, że to realna droga). Nast 53→54.
+OWEN: ciepły, mądry wieczór. Rad z Theo (poręczenie chwyciło) i Elny (Wiara w życiu). KLUCZOWA RADA na Fazę B: droga do oka lorda prawdziwa i uczciwa jeśli brukowana służbą — ALE ambicja dworska i karta Antaryona na KURSIE KOLIZYJNYM; im wyżej sięgasz, tym bliżej cię obejrzą, a sekret tego nie przetrwa blisko tronu. Kiedyś jedno ustąpi: uciąć wspinaczkę albo rozwiązać Antaryon. Buduj imię, firewall zimny jak lód. Zauf 30→31.

@@ -4732,3 +4732,6 @@ Symon (na czczo) przeszedł targ słuchając. Łapie to, co GŁOŚNE: ceny mięk
 
 ## 297-05-23 RANEK — Harlon (mapa jako read, opcja 1)
 Symon zjadł i poszedł do Harlona. Przyniósł READ rynku sól/ryba/fracht jako WŁASNY (źródło = mapa Ostyna ukryte, firewall cały): luka po kruchym kupcu, ceny miękną teraz po galerze (rynek kupującego), gdzie fracht wielkich domów bije najmocniej. Twardy Harlon dostał KONKRET — kupił: dobiera sól tanio teraz + przesuwa więcej wolumenu na tańszy insured kanał. +4 jel doradcze. Nast 55→61, zauf 20→23. Wątek mapa_sol_ryba_ostyn: pierwsze realne wykorzystanie, firewall intact. Cichy plus dla bloku (kolejny wyłom w frachcie Antaryona), bez zapalania lontu. → POPOŁUDNIE.
+
+## 297-05-23 POPOŁUDNIE — Godric (krytyk, rzut 1)
+Praca nad księgami drewna zamkowego poszła bokiem — nie z winy Symona. Przy domykaniu wyszła NIEZGODNOŚĆ: intake Nowego Zamku zaksięgował jedną dostawę krócej niż rejestr Godrica. Nie domknęło się. Godric zaniepokojony — to jego kark przed zamkiem. Żadnego czystego zysku, atmosfera napięta. Symon problem znalazł, nie spowodował (zauf trzyma), ale wyszedł z kłopotem w rękach. Nowy wątek: godric_intake_niezgodnosc (średni). NIE łączyć pochopnie z Ulrikiem/Antaryonem.

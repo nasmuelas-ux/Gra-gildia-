@@ -84,12 +84,6 @@
    "zywy_watek": "inwestycja_faktoria_rotacja"
   },
   {
-   "kto": "mira_slowo",
-   "co": "Mira moze przyslac drobne cieple slowo/znak - PO PRZELOMIE to ona pierwszy raz inicjuje kontakt",
-   "kiedy": "~06-01",
-   "zywy_watek": "zona_partnerka"
-  },
-  {
    "kto": "denys_audyt",
    "co": "Denys (wosk/swiece, cegla; 57 dni) niespokojny o dostawce - moze sam przyslac po audyt (jak wczesniej do faktorii)",
    "kiedy": "~06-02",

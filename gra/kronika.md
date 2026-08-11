@@ -4893,3 +4893,7 @@ Solidna sesja przy wiosennym wolumenie. Symon pracował obok Hala normalnie, jak
 
 ## 297-05-31 WIECZÓR — Bran (check-in gospodarza, rzut 60)
 Symon zajrzał jak troskliwy gospodarz — o Brana i lokatorów. Ciepły raport: dom w porządku (dach solidny), Jonna/Osric osadzeni, czynsze idą (cykl zamyka się 06-01), Alys promienieje od sukna, ogródek wschodzi (Jonna: kapusta/zioła). Drobiazg: rynna od podwórka do przejrzenia (Bran pilnuje). Bran kontent, lojalny. Kapitał „porządny gospodarz, dba o swoich". Nast 84→86.
+
+## 297-05-31 NOC — sen; 06-01 nowy miesiąc
+Symon śpi. → 297-06-01 RANEK, nowy miesiąc (6). MIESIĘCZNY TIK: czynsz kamieniczki netto +2 jel (→ wolne 7), draw kantoru wznowiony +6 jel (→ depozyt 206 jel). Relacje BEZ dryfu (durable, zgodnie z zasadą).
+INBOUND 06-01: Mira SAMA się odezwała (rzut 62) — przysłała chłopca z prostą wiadomością „niech wpadnie, jak będzie miał chwilę". Pierwszy raz to ONA przyciąga, nie on przychodzi. Cichy wielki krok po przełomie. Nast 78→79.

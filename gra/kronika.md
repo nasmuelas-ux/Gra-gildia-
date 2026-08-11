@@ -4887,3 +4887,6 @@ Symon śpi po dniu formalizacji Hala (misfire i naprawa po ludzku). Dzień 05-30
 
 ## 297-05-31 RANEK — praca w sepcie (rzut 41)
 Na świeżą głowę: dyżur pisarza odsłużony czysto (podania dla ubogich, księga jałmużny, list parafialny, przerobiony arkusz z 05-26). Rutyna, ale to jego tarcza — więź z Wiarą trzymana (warunek Owena, firewall). Rep wiara 80 hold. → POPOŁUDNIE.
+
+## 297-05-31 POPOŁUDNIE — praca w kantorze obok Hala (rzut 61)
+Solidna sesja przy wiosennym wolumenie. Symon pracował obok Hala normalnie, jak kolega — i ta zwykła wspólna orka bez Wielkiej Rozmowy dokończyła to, czego naprawa nie domknęła: przez normalność lód stopniał. Relacja praktycznie wróciła (nast 88→90, zauf 47→48). Papier o formalizacji wciąż odłożony — domknąć gdy Hal sam będzie gotów, jako floor+wzrost.

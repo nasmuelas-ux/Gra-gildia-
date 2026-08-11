@@ -4711,3 +4711,6 @@ Sesja nad księgami i umowami cechu u Borena. Czysto, sprawnie — stały dochó
 
 ## 297-05-22 POPOŁUDNIE — Nesta (depozyt +50 jel)
 Dołożenie 50 jel do depozytu w kantorze. Rozmowa krótka, ciepła — Nesta zajęta bieżącym obrotem faktorii, nic nowego (Bank i tak na swoim zegarze). Wiedź trzyma (90). Depozyt: 250,88 jel. Wolne: 1 jel + 66 mied. Noc → 297-05-23.
+
+## KOREKTA (05-23) — cofnięcie do 05-22 POPOŁUDNIE
+Za szybki przeskok do poranka 05-23 cofnięty na życzenie gracza. Wpłata u Nesty przemyślana: gracz chce REALNIE zainwestować 50 jel (nie bierny depozyt). Stan przywrócony do 05-22 POPOŁUDNIE (po pracy w cechu), decyzja o wehikule inwestycji przed graczem.

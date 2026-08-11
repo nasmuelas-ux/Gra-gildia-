@@ -4966,3 +4966,6 @@ Chciał ulokować 60 — ulokował 50 na przyzwoitych warunkach, ale ostatnie 10
 
 ## 297-06-05 POPOŁUDNIE — Owen ponawia poręczenie do Theo (rzut 58)
 Symon wziął ofertę — Owen ponowił ciepłe poręczenie do Theomore na neutralnym gruncie: słowo/list, że to godny, uczony człowiek wart towarzystwa, który nic nie chce (zero dossieru). Czysta re-entry ustawiona. Rada: Theo ceni staranny umysł + dyskrecję; wejdź jak równy, bądź użyteczny, cierpliwie. NEXT (opcjonalny): wejść do Theo z ciepłym słowem Owena, bez papieru — cicho (Ulric/widoczność). Wieź 90, zauf 30.
+
+## 297-06-05 WIECZÓR — praca w kantorze (rzut 60)
+Po odpoczynku i posiłku solidna wieczorna sesja przy księgach kantoru, wiosenny wolumen podciągnięty. Bez przełomu, steady.

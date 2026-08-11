@@ -5184,3 +5184,6 @@ Symon ciągnie cichą pomoc Wierze strukturą (konsolidacja zakupów, rejestr ja
 
 ## 297-06-19 NOC — sen (dzień dobry i cichy)
 Godric (kra tnie bieżące drewno, kryje stewarda +3), kantor (mistrzowska optymalizacja +3, duma Nesty), woda, Septa (pomoc strukturą, Owen aprobuje). → 297-06-20 RANEK (rotacja ~06-22, batch3 ~06-27, Torren charter, Boren drewno, kra ~tyg).
+
+## 297-06-20 RANEK — Septa pomoc: KRYTYK (rzut 5)
+Symon rozpędzony pochwałą Owena pchnął optymalizację za mocno/szybko — dwa fronty: (1) CIEŃ PĘKŁ — odcięty dostawca Septy grzmi „skryba miesza w handlu, wyjmuje chleb uczciwym", szept po nabrzeżu = nowy drobny wróg + widoczność (dokładnie ostrzeżenie Owena 06-14); (2) ZIMNA REGUŁA ZRANIŁA — domknięty rejestr jałmużny zawrócił kobietę biorącą podwójnie z MIŁOSIERDZIA (karmiła chorą sąsiadkę), efektywność zabiła litość; siostra skorygowała „jałmużna to nie księga, część 'marnotrawstwa' była litością". LEKCJA: charytatywność opiera się czystej logice księgi (miłosierdzie ma własną logikę); rosnący ślad Symona w sprawach Wiary ściąga oczy. Wiara 84 trzyma (naprawialne). DO NAPRAWY: przywrócić litość+tę kobietę; schować rękę (udobruchać dostawcę, zejść z widoku).

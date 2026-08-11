@@ -4669,3 +4669,6 @@ Gracz zauwazyl, ze mechanika inbound przestala dzialac (~2 tyg bez pukania swiat
 
 ## 297-05-19 — KOREKTA (wylap gracza): Bess JUZ zamezna, nie ma jej wesela
 Gracz slusznie: 'czy to wesele jej drugiej corki?'. Sprawdzone - BESS jest juz od dawna ZAMEZNA (wyszla za Dake'a, mlodego rybaka, poczatek 297; Symon PRZESPAL to wesele przez febre 17-27). Bess = 'nowozamezna' w kartotece. Wiec 'wesele Bess ~05-27' bylo MOJA FABRYKACJA w inbound - WYCOFANE. Jedyna corka Wendy na wydaniu to MELLA (niezamezna), ale ZADNE wesele Melli nie jest ustalone w kanonie - nie zmyslam drugiego by zalatac pierwsze. Zostaja dwa prawdziwe inbound: Aurane po ksiegi (recurring, ocieplony) + obcy kupiec pyta o Symona (prospekt). Fabrykacja usunieta z inbound_kolejka.
+
+## 297-05-19 WIECZOR — Aurane: ksiegi + petla Hobba domknieta (pelnia)
+Odpoczynek, potem do Aurane (inbound - przyslal po ksiegi; rzut 84). Wiosenne ksiegi skladow czysto (recurring premium, +6 jel -> 46 jel). PELNIA relacji: Aurane domknal petle Hobba sam ('zalatwilem po swojemu, cicho, bez cechu; miales racje co do joty, powinienem byl podziekowac od razu a nie kopac poslańca'). Ufa GLEBIEJ niz przed sprawa. nast 52->60, zauf +3. aurane_trawi_skim DOMKNIETE. Inbound Aurane odpowiedziany. Liczniki audyt+1 (140), rachunki+1 (201). -> noc.

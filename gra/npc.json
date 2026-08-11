@@ -1396,8 +1396,8 @@
    "wiek": 50,
    "zawod": "zamozny kupiec/wlasciciel skladow portowych (propertied)",
    "mieszka": "Schody/port",
-   "nastawienie_do_gracza": 52,
-   "zaufanie": 18,
+   "nastawienie_do_gracza": 60,
+   "zaufanie": 21,
    "wie_o_graczu": [
     "polecony przez Godrika jako dyskretny, biegly czlowiek od liczb",
     "297-03-21 RANEK (rzut 39): Symon wszedl na wlasnych nogach + lekka wzmianka o listopadowym referralu Godrica + oferta ksiag skladowych. Aurane (zamozny, ostrozny, mowi malo po interesie) WYSLUCHAL (marka+Godric daly posluch), ale NIE wzial: (1) wiosna wepchnela mu gore ladunku, zajety, brak glowy na wdrazanie nowego czlowieka; (2) nie ufa na slowo - chce DOWODU/referencji, nie zaslyszanej reputacji. Rzeczowe \"moze, przyslij slowo pozniej jak sie przetrze mlyn, pomysle\". Drzwi UCHYLONE nie otwarte. Symon nie napieral (twardy sell odstrasza ten typ). SLOW-BURN premium: wroci z konkretnym dowodem/referencja lub w spokojniejszej porze. nast 18->20, zauf 5 hold.",
@@ -1407,9 +1407,10 @@
     "297-04-24 (rzut 63): ksiegi wiosenne dowiezione czysto z Halem (Symon reczyl za dyskrecje ucznia, trzyma). Znaleziska: kolejne niezafakturowane skladowe + rozbieznosc rotacji (placa za siebie). Aurane po swojemu: 'dobrze, i dwoch was a cicho'. Saldo +7 jel. Recurring premium poglebiony. nast 40->44, zauf 13->14.",
     "297-04-30 (rzut 27): Symon podal DYSKRETNIE, czysto, twardy dowod skimu na stacji przyjec (wagi dokowe vs tally) - bez nazwiska. Fakt niepodwazalny, Aurane WIE. ALE reakcja bokiem: nie chcial wierzyc (stacja to jego zaufany czlowiek od lat), siegnal po wymowki, na sekunde ZMIERZYL posłańca ('a tyś jak do moich wag doszedl?'). Nie gniew na Symona - dyskomfort czlowieka, ktoremu pokazano zdrade bliskiego. 'Zostaw mi to, musze pomyslec.' Wdziecznosci brak dzis. nast 44->42.",
     "297-05-03 WIECZOR (inbound, rzut 7 - rezerwa): Aurane przyslal sluge z HONORARIUM za wiosenne ksiegi (+6 jel, uczciwie co do miedziaka - nie mssciwy) ALE ton chlodny: 'dziekuje za ksiegi; sprawe stacji poprowadze sam, nie ruszaj dalej', zero wdziecznosci za wykrycie skimu. Strawil dowod po swojemu - zaplacil, odsunal na dystans, woli sam zalatwic Hobba bez swiadka. Rezerwa nie cieplo. nast 42->41.",
-    "297-05-06 WIECZOR (rzut 86): Symon przyszedl lekko, bez Hobba, po ludzku - przestrzen+szacunek o ktore prosil, rozbroilo mocniej niz przeprosiny. Aurane sam zmiekl, belated uznanie (mial racje ze przyszedl, i dzis nie po nic). Hobb jego sprawa (prowadzi po swojemu, spokojny), Symon nie pytal. Frost zszedl. nast 41->52, zauf 16->18."
+    "297-05-06 WIECZOR (rzut 86): Symon przyszedl lekko, bez Hobba, po ludzku - przestrzen+szacunek o ktore prosil, rozbroilo mocniej niz przeprosiny. Aurane sam zmiekl, belated uznanie (mial racje ze przyszedl, i dzis nie po nic). Hobb jego sprawa (prowadzi po swojemu, spokojny), Symon nie pytal. Frost zszedl. nast 41->52, zauf 16->18.",
+    "297-05-19 (rzut 84): przyslal po ksiegi - Symon dowiozl wiosenne ksiegi skladow czysto (recurring premium, +6 jel). PELNIA relacji: Aurane domknal petle Hobba sam (\"zalatwilem po swojemu, cicho, bez cechu; miales racje co do joty, powinienem byl podziekowac od razu a nie kopac poslańca\"). Ufa GLEBIEJ niz przed sprawa (Symon przeszedl przez jego opryskliwosc z klasa+mial slusznosc). nast 52->60, zauf +3."
    ],
-   "ostatni_kontakt": "297-05-06",
+   "ostatni_kontakt": "297-05-19",
    "cechy_mowy": "rzeczowy, ostrozny, mowi malo i po interesie",
    "sprawa": "podejrzewa, ze jego FAKTOR/zarzadca skladu SKIMUJE (liczby dostaw vs sprzedazy nie graja); chce CICHEGO, bieglego audytu ZANIM kogokolwiek oskarzy — dokladnie wzor sprawy Godrica, wyzsza stawka/zaplata",
    "historia": [

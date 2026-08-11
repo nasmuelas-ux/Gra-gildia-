@@ -254,11 +254,11 @@
   {
    "id": "aurane_trawi_skim",
    "typ": "relacja/nastepstwo",
-   "opis": "297-04-30: Aurane dostal twardy dowod skimu na stacji przyjec (bez nazwiska, czysto). Nie chcial wierzyc - stacja to jego zaufany czlowiek. Musi to STRAWIC i zdecydowac: (a) sam po cichu zwazy nastepna partie/przycisnie swojego czlowieka, (b) bedzie zaprzeczal/zwlekal (przywiazanie), (c) moze wrocic do Symona - z wdziecznoscia gdy ochlonie ALBO z podejrzliwoscia. Symon czysty (nie nazwal, nie splaszyl). NEXT (inbound): Aurane sie odezwie gdy strawi - jego ruch. Nie pchac. || 297-05-03 (rzut 7, REZERWA): Aurane rozliczyl ksiegi (+6 jel, uczciwie) ale chlodno - poprowadzi Hobba SAM, prosi nie ruszac dalej stacji, zero podziekowan. Strawil po swojemu: zaplacil i odsunal na dystans. Symon czysty, relacja przystygla (nast 41). NIE pchac - jego sprawa, jego dach.",
+   "opis": "297-04-30: Aurane dostal twardy dowod skimu na stacji przyjec (bez nazwiska, czysto). Nie chcial wierzyc - stacja to jego zaufany czlowiek. Musi to STRAWIC i zdecydowac: (a) sam po cichu zwazy nastepna partie/przycisnie swojego czlowieka, (b) bedzie zaprzeczal/zwlekal (przywiazanie), (c) moze wrocic do Symona - z wdziecznoscia gdy ochlonie ALBO z podejrzliwoscia. Symon czysty (nie nazwal, nie splaszyl). NEXT (inbound): Aurane sie odezwie gdy strawi - jego ruch. Nie pchac. || 297-05-03 (rzut 7, REZERWA): Aurane rozliczyl ksiegi (+6 jel, uczciwie) ale chlodno - poprowadzi Hobba SAM, prosi nie ruszac dalej stacji, zero podziekowan. Strawil po swojemu: zaplacil i odsunal na dystans. Symon czysty, relacja przystygla (nast 41). NIE pchac - jego sprawa, jego dach.  ||  297-05-19 (rzut 84): DOMKNIETE - Aurane zalatwil Hobba po swojemu (cicho, bez cechu), belated szczere podziekowanie, ufa Symonowi glebiej niz przed sprawa. Petla zamknieta cieplo.",
    "odlicza_do": null,
    "co_sie_stanie": "Aurane, gdy strawi, wroci do Symona (wdziecznosc lub rezerwa) i/lub sam zadziala na stacji",
    "widoczny_graczowi": true,
-   "status": "rezerwa - Aurane prowadzi sam"
+   "status": "domkniete - Hobb zalatwiony przez Aurane, relacja pelnia"
   },
   {
    "id": "belarno_okno",

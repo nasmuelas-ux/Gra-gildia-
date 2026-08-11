@@ -4705,3 +4705,6 @@ Od teraz kazdego ranka osobna ramka INBOUND ('WIADOMOSCI') - kto sie odezwal/zap
 
 ## 297-05-21 POPOŁUDNIE — Wyllam (rutyna)
 Sesja ksiąg zbożowych u faktora Wyllama przy Solnym Nabrzeżu. Tydzień chudy — nic do prostowania, robota czysta lecz bez momentu. Relacja stałego klienta trzyma się mocno. +3 jel. Nast 32, zauf 10. Noc → 297-05-22.
+
+## 297-05-22 RANEK — Cech kołodziejów (praca)
+Sesja nad księgami i umowami cechu u Borena. Czysto, sprawnie — stały dochód skryby działa jak trzeba. +5 jel. Rep cech_kolodziejow 33→34. Boren mocny (85/24).

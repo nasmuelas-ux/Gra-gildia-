@@ -4809,3 +4809,6 @@ Reconnect po miesiącu, ale wieczorem krótko — Torren zajęty obowiązkami. Z
 
 ## 297-05-26 WIECZÓR — Wick (rzut 36)
 Dzień po bolesnym off-dayu. Ręka spokojniejsza (ostry ból od wilgoci odpuścił), cicha wieczorna lekcja — trochę liter, bez fajerwerków. Najważniejsze: Symon przyszedł drugi dzień z rzędu (w tym po tym złym) — Wick zauważył, stały gość = nie zapomniany. Konsystencja > przełom. Nast 52→53, zauf 15→16.
+
+## 297-05-26 PÓŹNY WIECZÓR — praca w Sepcie (rzut 1, krytyk)
+Symon, wyczerpany po pełnym dniu, siadł do skryby w sepcie po nocy — i podłożył się: błąd w kopiowanym dokumencie, zmarnowany arkusz dobrego pergaminu i świeca (−40 mied). Septon łagodnie odesłał go do łóżka („żaden z ciebie pożytek dla Matki na wpół śpiąc"). Robota do przerobienia jutro na świeżo. Bez postępu. Reputacja Wiary bez szwanku (wpadka wyłapana, Symon zbyt zakorzeniony). TRZECI raz tego dnia świat powtórzył: subtelnej roboty nie robi się wyczerpanym.

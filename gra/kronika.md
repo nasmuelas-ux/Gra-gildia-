@@ -4975,3 +4975,6 @@ Symon śpi po pełnym dniu (weksle wróciły, lokata z dyscypliną, Wat, re-entr
 
 ## 297-06-06 RANEK — MAESTER THEO (rzut 97 KRYTYK): kanał zamkowy otwarty
 Symon wszedł doskonale — list Owena, zero prośby, nazwał słonia („tamto jako audytor; dziś jako gość Owena, niczego nie chcę"), pokazał umysł równy w rozmowie (prawo/rachunki/tekst), cicho od biblioteki (z dala od Ulrica), dyskretnie. Theo — samotny uczony w zamku mieczy, zgłodniały równego umysłu, który NIC nie chce — genuine taken: nieufność się rozpuściła, rozmowę polubił, sam nie chciał by się skończyła, OTWORZYŁ drzwi (zaprosił znowu, dał tekst do obgadania). Kanał zamkowy realnie OTWARTY na czystym fundamencie. Firewall/Ulric czysto. Zaufanie maestera rośnie wolno, ale trajektoria realna. Nast 11→22, zauf 1→4. Rep zamek 9→10 (cichy toehold przez maestra). Poręczenie Owena potwierdzone. → POPOŁUDNIE.
+
+## 297-06-06 POPOŁUDNIE — Donnel: rynna + fundament (rzut 31)
+Szczyt sezonu, Donnel w biegu — krótka ciepła wizyta. FUNDAMENT: dał wreszcie stanowczy werdykt („to wilgoć/odwilż, nie kamień; suchy, stoi, rękę bym dał uciąć") — amatorski niepokój Symona PUT TO REST (jego słowo eksperta, powtórzone, wystarcza; wątek zamknięty). RYNNA: pośle chłopaka na patch (drobiazg, ally-goodwill). Graded-drewno idzie mu dobrze. Nast 52→53.

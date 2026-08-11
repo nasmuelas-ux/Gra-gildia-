@@ -1475,7 +1475,7 @@
    "wiek": 58,
    "zawod": "mistrz budowlany/murarz (stawial bialy mur i czesc Nowego Zamku), zima bezczynny",
    "mieszka": "warsztat/dom przy murach",
-   "nastawienie_do_gracza": 52,
+   "nastawienie_do_gracza": 53,
    "zaufanie": 14,
    "wie_o_graczu": [
     "pisarz Wiary, bystry, SZCZERZE ciekaw fachu (rzadkosc) - traktuje z szacunkiem, nie z gory",
@@ -1489,9 +1489,10 @@
     "297-03-23 POLUDNIE (rzut 54): Symon odwiedzil postep dachu (21 dni). Donnel (dumny praktyk) oprowadzil - re-roof rowno, w terminie (~03-25 trzyma), zgnile belki/strop wymienione porzadnie (\"kosc zdrowa\"). Fix wilgoci Jonny na jego liscie (Bran dobrze zagral): \"ten kat nad wdowa mam, zalatwie przy okazji, pol dnia\". Wiez sie grzeje - Symon przyszedl docenic robote i zadbac o lokatorke, nie strofowac (dla praktyka wazne). Dach na czas -> izba 3 wkrotce pod najem. nast 42->46, zauf 11->12.",
     "297-04-13 WIECZOR (rzut 37, flat): Symon spytal o fundament (mokry kamien/rysa w zaprawie/strużka - jego amatorski niepokoj z 04-04). Donnel po majstersku macha reka: 'ten fundament stawialem w glowie od nowa - suchy, grunt wysoki; to odwilz gada, rysa w zaprawie to nie rysa w kamieniu'. W zasadzie uspokaja, ale wieczor/zmeczony - umowili WLASCIWY oglad za dnia dla pewnosci ('wpadne, przyloze oko, bedziesz spal spokojnie; ale glowy bym nie zawracal'). Niepokoj ostudzony, definitywne domkniecie za dnia. nast 46 hold.",
     "297-04-17 (rzut 29, spring-busy): Symon czekal na fundament - Donnel zjawil sie w biegu (szczyt sezonu budowlanego), szybki rzut oka: 'to odwilz nie kamien, suchy, stoi; rysa w zaprawie do przetarcia kiedys, zaden pospiech'. Pelnego dokladnego ogladu NIE zrobil (brak czasu). 2. fachowe 'to nic' - niepokoj praktycznie zdjety, definitywny oglad znow odlozony (Donnela w sezonie nie przypiac do niepilnej sprawy). nast 46 hold.",
-    "297-05-16 (rzut 60): reconnect cieply (szczyt sezonu, ale znalazl chwile - dach stawial). Symon rzucil graded-drewno z kanalu - trafil w bol Donnela (drewno jak popadnie, krzywe/mokre psuje robote). Donnel ZAMKNAL staly odbior graded-drewna na normie (\"stala jakosc do ktorej nie musze zagladac - biore\"). PIERWSZA gruba kotwica popytu pod skalowanie gory. nast 46->52, zauf 12->14."
+    "297-05-16 (rzut 60): reconnect cieply (szczyt sezonu, ale znalazl chwile - dach stawial). Symon rzucil graded-drewno z kanalu - trafil w bol Donnela (drewno jak popadnie, krzywe/mokre psuje robote). Donnel ZAMKNAL staly odbior graded-drewna na normie (\"stala jakosc do ktorej nie musze zagladac - biore\"). PIERWSZA gruba kotwica popytu pod skalowanie gory. nast 46->52, zauf 12->14.",
+    "297-06-06 (rzut 31): szczyt sezonu, Donnel w biegu - krotka cieplа wizyta. FUNDAMENT: dal wreszcie stanowczy werdykt (\"to wilgoc/odwilz, nie kamien; suchy, stoi, reke bym dal uciac\") - amatorski niepokoj Symona PUT TO REST, choc bez formalnego pelnego ogladu (jego slowo eksperta, powtorzone, wystarcza). RYNNA: podle chlopaka zalatwic patch (drobiazg, ally-goodwill). Graded-drewno idzie mu dobrze. nast 52->53."
    ],
-   "ostatni_kontakt": "297-05-16",
+   "ostatni_kontakt": "297-06-06",
    "cechy_mowy": "powolny, rzeczowy, mowi obrazami z rzemiosla; dumny z tego, co postawil",
    "sprawa": "zima go unieruchomila (nie muruje sie w mroz - zaprawa zamarza), wiec ma CZAS i chetnie dzieli sie geometria z kims, kto ja ceni; wspomina tez o zaprzyjaznionym zimujacym szyprze do reckoning/astronomii",
    "historia": [

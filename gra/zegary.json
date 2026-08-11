@@ -305,7 +305,7 @@
   {
    "id": "ksiega_kredytowa_zwrot",
    "typ": "kredyt/zwrot",
-   "opis": "297-05-14: Symon ulokowal 50 jel jako DWA WEKSLE (solidni dluznicy, dobry zastaw, dochodowy procent; podporka Nesty; rzut 87). Kapital+procent wracaja po terminie (~kilka tygodni). Popyt > kapital (ksiega skalowalna - moze rosnac ile dolozy). Filar kredytowy ruszyl czysto. Zwrot ~197-06 (drobny procent ponad 50).",
+   "opis": "297-05-14: Symon ulokowal 50 jel jako DWA WEKSLE (solidni dluznicy, dobry zastaw, dochodowy procent; podporka Nesty; rzut 87). Kapital+procent wracaja po terminie (~kilka tygodni). Popyt > kapital (ksiega skalowalna - moze rosnac ile dolozy). Filar kredytowy ruszyl czysto. Zwrot ~197-06 (drobny procent ponad 50). || 297-06-27: 3. partia rozliczona (rzut 42) - +45 do kieszeni, 10 jel extension. Weksle out 110->70.",
    "odlicza_do": "297-06-05",
    "co_sie_stanie": "po terminie: kapital 50 jel + procent wraca (jesli default - egzekucja zastawu + kantor); ksiega moze byc reinwestowana/rozszerzona",
    "widoczny_graczowi": true

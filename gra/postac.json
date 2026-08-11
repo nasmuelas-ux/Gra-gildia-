@@ -8,11 +8,11 @@
  "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 50,
- "zmeczenie": 22,
+ "sytosc": 48,
+ "zmeczenie": 25,
  "sakiewka": {
   "miedziaki": 14,
-  "jelenie": 49,
+  "jelenie": 55,
   "smoki": 0
  },
  "dobytek": [
@@ -32,7 +32,7 @@
   "cech_pisarzy": -6,
   "wiara": 80,
   "zamek": 9,
-  "cech_kolodziejow": 34
+  "cech_kolodziejow": 38
  },
  "umiejetnosci": {
   "pismo": 8,
@@ -135,13 +135,13 @@
  },
  "nazwisko": "Tally",
  "liczniki_uzyc": {
-  "rachunki": 221,
+  "rachunki": 222,
   "audyt": 154,
   "pismo": 126,
-  "organizacja": 118,
+  "organizacja": 119,
   "kondycja": 115,
   "walka": 51,
-  "prawo": 179,
+  "prawo": 180,
   "retoryka": 118,
   "czytanie_ludzi": 186,
   "rzemioslo": 3,

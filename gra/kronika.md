@@ -4860,3 +4860,6 @@ Księgi robione świeżo 05-21 (8 dni), tydzień chudy w jego obrocie — ledwie
 
 ## 297-05-29 POPOŁUDNIE — Harmen (lead Merka, rzut 100 KRYTYK)
 Proving-arc przeskoczony. Na pierwszy rzut oka Symon znalazł systematyczny wyciek — dostawca konsekwentnie przebijał rachunki (nadpłata na powtarzalnych pozycjach), realny grosz uciekał miesiącami. Nie do podważenia. Harmen z podejrzliwego prospekta w mgnieniu → solidny klient (vouch Merka + niezaprzeczalny catch). +9 jel, rep schody 33→34. Poręczenie Merka spektakularnie potwierdzone → Harmen sam będzie polecał. Cicho (aggregate/firewall): jego fracht echem tego samego przebicia co sieć Antaryona — Symon zanotował, nie ruszył. Nast 0→28, zauf 0→11.
+
+## 297-05-29 POPOŁUDNIE — cech kołodziejów (rzut 96 KRYTYK)
+Sesja nad księgami/umowami cechu wyszła wybitnie: Symon przestrukturyzował umowy graded-drewna (oszczędność dla cechu) + wyłapał słabą klauzulę. Starszyzna — dawniej podejrzliwa wobec obcego w księgach — w końcu w PEŁNI kupiła; cały cech go teraz przyjmuje, nie tylko Boren. Cech dołożył więcej wolumenu graded-drewna (POPYT dla kanału Północ). +6 jel. Rep cech_kolodziejow 34→38. Boren 85→87, zauf 24→25. (Kontrapunkt: cech kołodziejów kocha outsidera, którego cech pisarzy nienawidzi.)

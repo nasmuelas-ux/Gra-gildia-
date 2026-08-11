@@ -5039,3 +5039,6 @@ Symon+Nesta (biznes), Hal (realna robota), Wick (pierwszy dzień, podstawy — H
 
 ## 297-06-09 WIECZÓR — Septa (rzut 37) + Owen (rzut 26)
 SEPTA: księgi jałmużny czyste, ale Wiara STRETCHED w przednówku (puchnące rejestry ubogich, cieniejące zapasy leków/ziarna). Elna ZDROWIEJE (siostra melduje — poranny ratunek trzyma). OWEN: krótko, zmęczony sezonową falą ubogich; rad z Wicka; „więcej głodnych niż chleba; Wiara daje ile ma, ale ma coraz mniej". Seed: wiara_przednowek_ciezar (Symon ma środki+imię+oko — mógłby pomóc większą miarą). Nast Owen zauf 31 trzyma.
+
+## 297-06-09 NOC — sen (za zgodą gracza)
+Dzień domknięcia łuku Wicka: zwolnienie/benedykcja u Borena, dach u Hala (czynsz uhonorowany), kantor nowy skład, Septa/Owen (Wiara stretched przednówek, Elna zdrowieje). Dzień 06-09 zamknięty. → 297-06-10 RANEK.

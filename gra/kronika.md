@@ -4978,3 +4978,6 @@ Symon wszedł doskonale — list Owena, zero prośby, nazwał słonia („tamto 
 
 ## 297-06-06 POPOŁUDNIE — Donnel: rynna + fundament (rzut 31)
 Szczyt sezonu, Donnel w biegu — krótka ciepła wizyta. FUNDAMENT: dał wreszcie stanowczy werdykt („to wilgoć/odwilż, nie kamień; suchy, stoi, rękę bym dał uciąć") — amatorski niepokój Symona PUT TO REST (jego słowo eksperta, powtórzone, wystarcza; wątek zamknięty). RYNNA: pośle chłopaka na patch (drobiazg, ally-goodwill). Graded-drewno idzie mu dobrze. Nast 52→53.
+
+## 297-06-06 POPOŁUDNIE — Wenda (po ludzku, rzut 50)
+Ciepły reconnect po 36 dniach — bez urazy (folk nie chowa), głośno o rodzinie i targu, Symon jak swój. Folk-pulse (modest): imię niesie się ciepło wśród ludu, stabilnie; w Zaułku mówią, że Septa daje ostatnio lepsze sukno/tańsze — lud po cichu kredytuje „tego skrybę od Septy" (pomoc jałmużnie DOCIERA do realnych ludzi). Nast 58→60, zauf 17→18.

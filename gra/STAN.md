@@ -11,7 +11,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 14 jeleni + 14 mied + 0 smokow
 - kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 42 · Zmeczenie 25
+- Zdrowie 100 · Sytosc 35 · Zmeczenie 30
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -20,7 +20,7 @@ pismo 8 · rachunki 9 · prawo 9 · retoryka 7 · jezyki 8 · spryt_uliczny 8 ·
 
 ## LUDZIE NA SCENIE (nast. do gracza)
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 58
-- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 58
+- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 60
 - **Bran** (bran_tragarz) — dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/ · nast 86
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 90
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 33

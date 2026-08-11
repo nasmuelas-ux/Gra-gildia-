@@ -4827,3 +4827,6 @@ Solidna sesja — już jako sojusznik. Symon przeszedł bieżące i ustawił rej
 
 ## 297-05-27 POPOŁUDNIE — Elna (reunion, rzut 23)
 Po 6 tyg. Bez urazy (jak zawsze sama radość), nakarmiła/ocerowała — ona daje. Ale Symon wyczuł chudszy okres: przednówek, zapasy zimowe wyszły, jałmużna cechu przetrzebiona, Elna szczuplejsza, pokaszluje od wilgoci. Nic ostrego — zwykła precarity ubogiej wdowy, warto mieć oko. Nast 43→45, zauf 8→9.
+
+## 297-05-27 WIECZÓR — praca u Nesty + trued dług kamieniczki (rzut 81)
+Solidna sesja (wypoczęty, nie jak wczorajszy krytyk). Przy okazji wytrowali fuzzy dług kamieniczki: kantor = wierzyciel na 52 jel czysto (część dachu ~20 jel poszła z depozytu Symona, nie z linii, więc udział kantoru mniejszy niż pułap ~57). Twój equity ~105 jel. Księgi znów zgadzają się co do jelenia. Wieź 90.

@@ -4609,3 +4609,6 @@ Ksiegi Godrica (+3 jel -> 8 jel) + wypytanie o graded-supply (rzut 64). Godric (
 
 ## 297-05-16 WIECZOR — Torsen: skalowanie gory uruchomione (popyt-najpierw)
 Do Torsena z ZAMKNIETYM POPYTEM (Donnel+apetyt zamku+2 leady) - rozwiazanie wczorajszego sufitu (rzut 86). Torsen zachwycony ('tak sie to robi'); pojdzie do Halvarda, ktory na PEWNYM odbiorze dolozy rak/tratw - ZERO srebra Symona (pewnosc popytu=waluta). Tempo trzezwe: Donnel/zamek najpierw, 2 leady w miare jak Halvard dogoni (reliability). Kanal SKALUJE SIE SAM cudza pewnoscia i cudzymi rekami, Symon kapital-light spina/skimuje z rosnacego wolumenu. Model popyt-najpierw dowiozl: sufit wczoraj -> dzis podniesiony bez grosza. Wiecej graded-supply off Antaryona = bleed rosnie. nast 63->68, zauf 16. Liczniki handel+1 (127), organizacja+1 (104). -> noc.
+
+## 297-05-17 RANEK — Noc
+Sen. Przejscie 05-17 RANEK. Skalowanie kanalu uruchomione (popyt-najpierw), filary mielą, weksle pracuja (~06-05), Bank dojrzewa (Garth stygnie), Mira (prog przekroczony).

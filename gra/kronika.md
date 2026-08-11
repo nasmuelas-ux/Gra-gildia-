@@ -5221,3 +5221,6 @@ Kantor mistrzowski read (rzut 95, pozycja na soli, +6 jel), Merek (+4, sól-sque
 
 ## 297-06-22 RANEK — rozliczenie rotacji
 Cykl rotacji faktorii domknięty: Nesta oddała kapitał 250 jel + plon 22 jel (silna wiosna, uczciwie). Rotacja→0, wolne 29→301 jel. Duża płynność do realokacji. (Pozycja na soli osobna, dojrzewa później. Weksle 110, pożyczka zabezp. 50 pracują dalej.)
+
+## 297-06-22 RANEK — re-roll 290 jel w rotację
+Symon re-rollował 290 jel w rotację faktorii (0→290). Wolne 301→11 (cienko, ale batch3 ~50 wraca ~06-27). Kapitał znów agresywnie w rotacji (powiększony udział vs poprzednie 250). Silna wiosna + pozycja na soli.

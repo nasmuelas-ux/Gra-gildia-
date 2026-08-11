@@ -5218,3 +5218,6 @@ Symon = zaplecze (zapasy/zamówienia/rachuba), septa/siostra = osąd ludzki (kto
 
 ## 297-06-21 NOC — sen (dzień dobry i czysty)
 Kantor mistrzowski read (rzut 95, pozycja na soli, +6 jel), Merek (+4, sól-squeeze potwierdzony), Septa metoda skorygowana (rzut 54, dobro z cienia jak należy). → 297-06-22 RANEK (rotacja się rozlicza).
+
+## 297-06-22 RANEK — rozliczenie rotacji
+Cykl rotacji faktorii domknięty: Nesta oddała kapitał 250 jel + plon 22 jel (silna wiosna, uczciwie). Rotacja→0, wolne 29→301 jel. Duża płynność do realokacji. (Pozycja na soli osobna, dojrzewa później. Weksle 110, pożyczka zabezp. 50 pracują dalej.)

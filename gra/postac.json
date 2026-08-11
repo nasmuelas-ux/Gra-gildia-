@@ -12,7 +12,7 @@
  "zmeczenie": 0,
  "sakiewka": {
   "miedziaki": 6,
-  "jelenie": 29,
+  "jelenie": 301,
   "smoki": 0
  },
  "dobytek": [
@@ -147,12 +147,12 @@
   "rzemioslo": 4,
   "jezyki": 75,
   "spryt_uliczny": 129,
-  "handel": 152,
+  "handel": 153,
   "geometria": 20
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
  "weksle_wystawione_jel": 110,
- "inwestycja_faktoria_jel": 250,
+ "inwestycja_faktoria_jel": 0,
  "equity_kantor_future_jel": 50,
  "pozyczka_zabezpieczona_jel": 50
 }

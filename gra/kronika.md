@@ -4869,3 +4869,6 @@ Symon wziął radę Nesty: 50 jel we własną księgę kredytową (nie jej rotac
 
 ## 297-05-29 WIECZÓR — pytanie o kondycję faktorii (rzut 28)
 Nesta szczerze, krótko (spita, późno): „lepiej w ruchu — nie w kościach, jeszcze nie". Wiosenny wolumen mocny, ramię kredytu/ubezpieczeń Symona dokłada odpornej marży, renoma rośnie. ALE młyński kamień Antaryonów (~90 smoków długu) wciąż wisi — marża cienka mimo wolumenu. Prawdziwe wyjście = refinansowanie przez Bank (wolny zegar). Głębsza strategia „na jasną głowę".
+
+## 297-05-29 NOC — sen (za zgodą gracza)
+Symon śpi po długim, mocnym dniu (Mira przełom, Harmen krytyk-nowy klient, cech krytyk, kredyt +50) i nocnym rozmyślaniu z Nestą o wielkich kamieniach (dług Antaryonów ~90 smoków = refinans nie spłata; Winterfell ślepy; Ryman uśpiony; dwór przez Theo/Godrica cicho; Hal jako dźwignia). Postanowienie na rano: sformalizować rolę/udział Hala. Dzień 05-29 zamknięty. → 297-05-30 RANEK.

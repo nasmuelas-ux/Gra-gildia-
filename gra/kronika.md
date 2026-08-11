@@ -4627,3 +4627,6 @@ Do Torsena dorzucic cech (rzut 83). Pool zamknietego odbioru teraz WIEKSZY niz g
 
 ## 297-05-17 WIECZOR — Faktoria: praca (mostek czeka)
 Odpoczynek, potem praca w faktorii (rzut 60). Weryfikacje odrobione (+3 jel -> 16 jel), usluga mieli, Hal pewny. Nesta nie naciska ws mostka dla Halvarda ('jak zechcesz pogadac o tym srebrze na gore - jestem, ale nie ucieknie do rana'). Decyzja mostek vs wolno wciaz otwarta. Liczniki audyt+1 (137), rachunki+1 (198). -> noc.
+
+## 297-05-17 NOC — Mostek snagged (Polnoc nie kupi sie srebrem) - nauka bez straty
+Uruchomienie mostka (rzut 13). Zanim srebro ruszylo, uderzyla reszta prawdy Polnocy (Torsen): wiosna WSZYSTKIE RECE IDA W POLE (sieja albo zima mrze), rebaczy/flisakow nie ma na zawolanie choćby sypnac smokami - gora rosnie w TEMPIE POLNOCY nie kapitalu. Halvard wrogi wobec braavijskiej zabezpieczonej smyczy od obcych. ALE staging OCHRONIL kapital - nic nie wyplynelo, nic nie przepadlo (ostroznosc Nesty sie oplacila). Nesta: 'gora nie kupi sie srebrem - czasem i zaufaniem Halvarda; mostek jesli w ogole maly/miekki przez Torsena po ludzku'. RIGHT-SIZE: powrot ku wolniejszej organicznej sciezce (popyt zamkniety, sekwencjonowac wolniej). Nauka bez straty: waskie gardlo gory = ludzie+sezon, nie kapital. Liczniki organizacja+1 (107), prawo+1 (173). Glaboka noc.

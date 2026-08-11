@@ -5154,3 +5154,6 @@ Batch2 (50 jel, ulokowana 05-29) wróciła: 50 principal + ~6 jel marży = +56 j
 
 ## 297-06-18 RANEK — inwestycja 50 jel w mostek ZABEZPIECZONY
 Symon ulokował 50 jel w pożyczkę zabezpieczoną (pod zastaw/kolaterał) — bezpieczniejsze niż niezabezpieczone weksle, mniejsza marża za mniejsze ryzyko. Nowa pozycja bilansu: pozyczka_zabezpieczona_jel=50. Wolne 67→17. (rano.py zaktualizowany o tę linię). Kapitał bezpieczniej rozstawiony po agresywnej fazie.
+
+## 297-06-18 RANEK — Serla (rzut 37, ciepło z cieniem)
+Przyziemna matczyna wizyta (trzyma Symona u ziemi). Tom zdrów, urósł (jasny punkt). ALE Serla chudsza — przednówek zjadł zapasy, ciągnie siebie+Toma przez głód, duma, nakarmiła Symona ostatkiem. Mira: Symon uczciwie „odłożone"; Serla grounding wisdom („nie zdobywa się szturmem, rośnie samo, rób swoje" — jak Aldous). QUIET CARE: dyskretnie zadbać by Tom przetrwał przednówek najedzony, bez urażenia dumy Serli. Nast 58→60.

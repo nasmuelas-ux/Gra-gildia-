@@ -1689,7 +1689,7 @@
    "stan": "duchowny (Wiara)",
    "zawod": "septon uczony w prawie; prowadzi prawne/majatkowe sprawy Septy z miastem (zapisy, nadania, wlasnosc koscielna); zna praktyke rady i admisji mieszczanskiej",
    "mieszka": "przy glownej Sepcie / Sept Sniegow",
-   "nastawienie_do_gracza": 32,
+   "nastawienie_do_gracza": 37,
    "zaufanie": 11,
    "wie_o_graczu": [
     "297-01-03 (rzut 81): konsultacja o mieszczanstwie. Torren wylozyl czysta sciezke: ubiegac sie jako KUPIEC-wspolnik (nie skryba) -> Cech Pisarzy traci formalny grunt (nie wchodzi jako skryba, ich weto bezprzedmiotowe). Wymogi: WLASNOSC (dom w murach - brakujace ogniwo, sprawa na wiosne), standing kupiecki (udzial kantoru ✓), poreczyciele-kupcy (Vox/Aldous/Leona/Boren/Merek ✓), poreczenie Wiary ✓, wpis+oplata. Zlozone razem przygniata glos Pisarzy. Ryzyko: Harwin/Ryman moga zwlekac jesli znajda sojusznika w radzie (timing/gotowe poreczenia). DO WYGRANIA. Torren poprowadzi wniosek.",
@@ -1707,13 +1707,14 @@
     "297-03-24 POPOL (rzut 78): praca nad REALNYMI sprawami prawnymi Septy (sporny zapis, granica, zawilosc w nadaniu) - nie dryl. Symon dal Sepcie wartosc (zapisy uporzadkowane, pulapka w nadaniu wylapana), Torren coraz czesciej pyta o jego zdanie (i Symon ma racje). KAMIEN MILOWY: na trudnych realnych sprawach + swiezej glowie Symon przebil sufit - PRAWO 8->9 (dokladnie jak Torren radzil 03-21: trudne sprawy nie dryl). Uklad mentorski dostarcza po obu stronach. nast 25->28, zauf 9->10.",
     "297-04-16 (rzut 68): sesja prawa - pogłebione prawo umow handlowych+arbitrazu (co czyni umowe egzekwowalna, mechanizm sporu, waga udokumentowanego arbitrazu). Podklada formalny grunt pod to, co Symon zrobil instynktem przy gradzie zamkowym (04-13). Szlifuje fose broker-arbiter. Prawo Symona wysokie, dalej ku 10 (powoli). nast 28->30.",
     "297-05-26 WIECZOR (rzut 25): reconnect po miesiacu, ale wieczorem krotko - Torren zajety obowiazkami (pora). Zdawkowa wymiana o punkcie prawnym, bez glebszej sesji. Relacja durable trzyma i lekko rosnie od samego dogladania. nast 30->32, zauf 10->11.",
-    "297-06-22 (rzut 3, slepy zaulek bez dramatu): Symon przyszedl po tekst charteru. Torren ZATRZYMAL sie z rozmyslem - charteru cechu nie wyciaga sie z polki: oficjalny wglad = formalne zapytanie do registratora, KTORE JEST LOGOWANE -> ktos zyczliwy cechowi zobaczy ze ktos (nitka do Symona/Septy) grzebie w prawnych granicach cechu pisarzy = sygnal ze Symon buduje obrone = uwaga ktorej nie moze miec (cech wezszy + Antaryon). RYZYKO BEZ NAGRODY. Torren doradza PIVOT: nie potrzebujesz litery - wiesz z ich zachowania (smear zamiast pozwu) ze grunt slaby; trzymaj sie JAWNIE POZA ich terenem (faktor nie skryba) + goodwill kupcow + tarcza Wiary, NIE oswietlaj sie. Mentor ochronil Symona przed glupstwem. Torren zmeczony przednowkiem. \"Potwierdz charter\" = martwa sciezka."
+    "297-06-22 (rzut 3, slepy zaulek bez dramatu): Symon przyszedl po tekst charteru. Torren ZATRZYMAL sie z rozmyslem - charteru cechu nie wyciaga sie z polki: oficjalny wglad = formalne zapytanie do registratora, KTORE JEST LOGOWANE -> ktos zyczliwy cechowi zobaczy ze ktos (nitka do Symona/Septy) grzebie w prawnych granicach cechu pisarzy = sygnal ze Symon buduje obrone = uwaga ktorej nie moze miec (cech wezszy + Antaryon). RYZYKO BEZ NAGRODY. Torren doradza PIVOT: nie potrzebujesz litery - wiesz z ich zachowania (smear zamiast pozwu) ze grunt slaby; trzymaj sie JAWNIE POZA ich terenem (faktor nie skryba) + goodwill kupcow + tarcza Wiary, NIE oswietlaj sie. Mentor ochronil Symona przed glupstwem. Torren zmeczony przednowkiem. \"Potwierdz charter\" = martwa sciezka.",
+    "297-06-24 WIECZOR (rzut 38): Symon przyszedl wieczorem NIE dumpowac swoich 2 spraw na zmeczonego, lecz POMOC - odciazyl Torrena przy zaleglych sprawach Septy (zapisy/nadania/majatkowe, wasza reciprocity: on uczy prawa, Symon odciaza Septe). Modest tired session, ale realnie zdjal mu brzemie. Torren docenil: \"nie kazdy przychodzi DAC gdy moglby brac\". SLOT NA RANO dograny: obie sprawy Symona (firma ② + prawa drewna Bennet->zamek) \"na swiezo, bede mial glowe\". nast 35->37."
    ],
    "potrzeby": [
     "porzadek w sprawach Septy",
     "posluszenstwo Wierze"
    ],
-   "ostatni_kontakt": "297-06-22",
+   "ostatni_kontakt": "297-06-24",
    "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
    "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
   },

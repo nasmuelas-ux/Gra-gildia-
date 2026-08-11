@@ -5260,3 +5260,6 @@ Symon domknął POPYT: przyniósł Godricowi ROZWIĄZANIE kra-dziury (drewno Ben
 
 ## 297-06-24 POPOŁUDNIE/WIECZÓR — odpoczynek; plan na jutro
 Symon odpoczął po dużym dniu (kanał drewna domknięty). PLAN NA JUTRO (06-25): domknąć u Torrena OBIE sprawy — ② legalne ukonstytuowanie FIRMY (usługa kupiecka, własna neutralna, Nesta cichy backer) + formalizacja PRAW/UMOWY lokalnego drewna (Bennet→zamek). Na świeżą głowę.
+
+## 297-06-24 WIECZÓR — Torren: pomoc + slot rano (rzut 38)
+Symon przyszedł NIE dumpować 2 spraw na zmęczonego, lecz POMÓC — odciążył Torrena przy zaległościach Septy (reciprocity). Modest tired session, ale zdjął mu brzemię. Torren: „nie każdy przychodzi DAĆ gdy mógłby brać". SLOT NA RANO dograny: firma ② + prawa drewna „na świeżo". Nast 35→37.

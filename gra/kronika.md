@@ -4972,3 +4972,6 @@ Po odpoczynku i posiłku solidna wieczorna sesja przy księgach kantoru, wiosenn
 
 ## 297-06-05 NOC — sen (za zgodą gracza)
 Symon śpi po pełnym dniu (weksle wróciły, lokata z dyscypliną, Wat, re-entry do Theo przez Owena, kantor). Dzień 06-05 zamknięty. → 297-06-06 RANEK.
+
+## 297-06-06 RANEK — MAESTER THEO (rzut 97 KRYTYK): kanał zamkowy otwarty
+Symon wszedł doskonale — list Owena, zero prośby, nazwał słonia („tamto jako audytor; dziś jako gość Owena, niczego nie chcę"), pokazał umysł równy w rozmowie (prawo/rachunki/tekst), cicho od biblioteki (z dala od Ulrica), dyskretnie. Theo — samotny uczony w zamku mieczy, zgłodniały równego umysłu, który NIC nie chce — genuine taken: nieufność się rozpuściła, rozmowę polubił, sam nie chciał by się skończyła, OTWORZYŁ drzwi (zaprosił znowu, dał tekst do obgadania). Kanał zamkowy realnie OTWARTY na czystym fundamencie. Firewall/Ulric czysto. Zaufanie maestera rośnie wolno, ale trajektoria realna. Nast 11→22, zauf 1→4. Rep zamek 9→10 (cichy toehold przez maestra). Poręczenie Owena potwierdzone. → POPOŁUDNIE.

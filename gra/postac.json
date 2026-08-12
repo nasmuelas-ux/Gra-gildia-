@@ -8,11 +8,11 @@
  "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 60,
- "zmeczenie": 12,
+ "sytosc": 52,
+ "zmeczenie": 16,
  "sakiewka": {
   "miedziaki": 4,
-  "jelenie": 56,
+  "jelenie": 26,
   "smoki": 0
  },
  "dobytek": [
@@ -156,7 +156,7 @@
  "equity_kantor_future_jel": 50,
  "pozyczka_zabezpieczona_jel": 50,
  "pozycje": {
-  "weksle_out": "Weksle / mostek-kredyt (niezabezp.): 70 jel u dluznikow (10 jel na przedluzeniu ~2 tyg); procent dochodowy",
+  "weksle_out": "Weksle / mostek-kredyt (niezabezp.): 100 jel u dluznikow (30 swiezo ulokowane 06-28 + 10 na przedluzeniu); procent dochodowy",
   "pozyczka_zabezpieczona": "Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18)",
   "rotacja_faktorii": "Rotacja faktorii Nesty (zboze-sol): ~250 jel w obrocie, plon per cykl",
   "drewno_marza_narasta": "Drewno-marza (Bennet->broker->zamek): ~2 jel naliczone dotad, NARASTA per dostawa; rozliczac przy dostawach / w stalej umowie (spotk. ~06-29)",

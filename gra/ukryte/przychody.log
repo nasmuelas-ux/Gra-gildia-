@@ -1,2 +1,3 @@
 # KSIEGA PRZYCHODOW - slad audytowy. Format: data | zrodlo | kwota | do_kasy/reinwest | nota
 297-07-18 | BASELINE | - | - | System zalozony. Dzien Bilansu=1. miesiaca. Nastepny 08-01. Strumienie zdefiniowane w postac.json.przychody
+297-07-18 | STAWKI ZALOZONE | czynsz 3jel/izba->9 brutto/7 netto; retainery 11 brutto (Aur4/Blok3/Fakt2/Torh2); firma netto 6, udzial Symona 4; draw 6 | baseline 17 jel/mies do kasy

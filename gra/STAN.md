@@ -26,16 +26,16 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-08-01 (ostatni: 297-07-18 (baseline zalozony))
 - _Cykliczne (zmiatane w Dniu Bilansu):_
-    - draw_wspolnika_nesta: 6 jel/mies (spolka Nesty) - KANON pewny; historycznie do depozytu, teraz do kasy w Dniu Bilansu
-    - czynsz_kamieniczki: izba1 Jonna + izba2 Osric wynajete (czynsz szac. ~2 jel/izba/mies = ~4 jel); izba3 Hal = ulga/w pakiecie wychowanka (czesc wynagrodzenia); izba4 = Symon. Netto po utrzymaniu (dozorca Bran) szac. ~3-4 jel/mies. DO POTWIERDZENIA stawek w grze
-    - oplaty_retainerow: Aurane(premium)+faktoria+blok+Torhen - staly przychod firmy per okres; Hal prowadzi rutyne. Kwota szac. do ustalenia per retainer (rozliczenie miesieczne)
+    - draw_wspolnika_nesta: 6 jel/mies (spolka Nesty) - KANON. Do kasy w Dniu Bilansu
+    - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
+    - oplaty_retainerow_udzial_symona: Retainery firmy 11 jel/mies brutto (Aurane 4 + Blok 3 + Faktoria 2 + Torhen 2) - 5 jel place juniorow (Hal~3/Wick~2) = firma netto 6 jel; UDZIAL SYMONA 2/3 = 4 jel/mies (+ zmienne per-zlecenie)
 - _Per-zdarzenie (ksiegowane przy zdarzeniu):_
     - drewno_marza: NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)
     - weksle_procent_i_zwrot: 100 jel niezab.(procent) + 50 jel zab.(kapital+procent, term ~06-05+). Wend/pilot: kapital+procent gdy wroca wiosenne naleznosci. Ksieguj w terminie zapadalnosci/rolowania
     - plon_rotacji_faktorii: ~250 jel w obrocie zboze-sol; plon per ZAMKNIETY cykl/batch. Ksieguj przy zamknieciu batcha
     - underwriting_skladka: 65 jel na ryzyku + skim ubezp-tranzytu (compound). Skladka realizowana gdy ladunek dobije bezpiecznie; skim narasta cicho
     - sol_spekulacja: parcela solna w kufrze Nesty - jednorazowa sprzedaz przy dobrym oknie cenowym
-- _Koszty (dla netto):_ Dla NETTO pamietaj o kosztach: podatek_miejski (nowy staly koszt statusu, kwota/termin wg kalendarza), utrzymanie dozorcy Brana, place juniorow (Hal/Wick), wlasne utrzymanie Symona. Bilans miesieczny = przychody - koszty.
+- _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
 - Zdrowie 100 · Sytosc 28 · Zmeczenie 6
 
 ## UMIEJETNOSCI (0-10)

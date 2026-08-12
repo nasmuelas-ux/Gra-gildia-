@@ -1,68 +1,68 @@
 {
- "data": {
-  "rok": 297,
-  "miesiac": 7,
-  "dzien": 14,
-  "era": "AC"
- },
- "pora": "POLUDNIE",
- "sezon": "przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja",
- "pogoda": 96,
- "dzien_tygodnia_nr": 7,
- "dzien_targowy": null,
- "nastroje_miasta": "297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowek dusi ubogich/Septe. Symon: kanal zamkowy (Theo) otwarty, firma o krok od cichej rejestracji, kapital 121 jel bezczynny. Zegary: batch3 rozliczony, weksle 70 out, rotacja ~250.",
- "ceny": {
-  "chleb": {
-   "baza": 3,
-   "mnoznik": 1.0,
-   "przyczyna": "relief sie przejada, zima glebsza"
+  "data": {
+    "rok": 297,
+    "miesiac": 7,
+    "dzien": 14,
+    "era": "AC"
   },
-  "ryba": {
-   "baza": 2,
-   "mnoznik": 1.0,
-   "przyczyna": "nie dzien targowy"
+  "pora": "POPOLUDNIE",
+  "sezon": "przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja",
+  "pogoda": 96,
+  "dzien_tygodnia_nr": 7,
+  "dzien_targowy": null,
+  "nastroje_miasta": "297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowek dusi ubogich/Septe. Symon: kanal zamkowy (Theo) otwarty, firma o krok od cichej rejestracji, kapital 121 jel bezczynny. Zegary: batch3 rozliczony, weksle 70 out, rotacja ~250.",
+  "ceny": {
+    "chleb": {
+      "baza": 3,
+      "mnoznik": 1.0,
+      "przyczyna": "relief sie przejada, zima glebsza"
+    },
+    "ryba": {
+      "baza": 2,
+      "mnoznik": 1.0,
+      "przyczyna": "nie dzien targowy"
+    },
+    "pergamin": {
+      "baza": 40,
+      "mnoznik": 1.0,
+      "przyczyna": null
+    },
+    "atrament": {
+      "baza": 12,
+      "mnoznik": 1.0,
+      "przyczyna": "braavijska dostawa w porcie"
+    },
+    "opal": {
+      "baza": 8,
+      "mnoznik": 1.25,
+      "przyczyna": "KOREKTA: opal osiadl u dolu (odwilz + podaz Polnocy cala) - zimowy szczyt zszedl, kto trzymal drogo podtopil sie"
+    },
+    "wino_korzenne": {
+      "baza": 5,
+      "mnoznik": 1.05,
+      "przyczyna": "wino przyplynelo galera"
+    },
+    "sol": {
+      "baza": 45,
+      "mnoznik": 1.05,
+      "przyczyna": "dostawy wrocily po burzy"
+    }
   },
-  "pergamin": {
-   "baza": 40,
-   "mnoznik": 1.0,
-   "przyczyna": null
+  "swieto": null,
+  "dzien": 19,
+  "mechanika_inbound": {
+    "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
+    "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
+    "od": "297-04-29 (korekta gracza: 'w tej grze ja musze do wszystkich chodzic, nikt sie nie przypomina - tak to nie wyglada w zyciu').",
+    "przypomnienie_05_19": "REAKTYWOWANE 05-19 (gracz zauwazyl ze lapse). SPRAWDZAC INBOUND CO TURE: na starcie tury zerknij w inbound_kolejka + zywe zegary/potrzeby, i jesli cos dojrzalo, NIECH SWIAT ZAPUKA (Bran melduje goscia/poslanca, przychodzi wiesc, klient sam sie odzywa). Nie tylko gracz->swiat.",
+    "ramka_dzienna": "ZASADA (od 297-05-21, prosba gracza): KAZDEGO RANKA renderuj osobna ramke \"WIADOMOSCI\"/INBOUND - kto sie odezwal/zapukal/przyslal poslanca/jaka wiesc przyszla/co dojrzalo (z inbound_kolejka + zywych zegarow). Jak nic - napisz \"cisza\". Ramka osobna, zawsze, przy porannym renderze."
   },
-  "atrament": {
-   "baza": 12,
-   "mnoznik": 1.0,
-   "przyczyna": "braavijska dostawa w porcie"
+  "mechanika_wiezi": {
+    "zasada": "WIEZI SA TRWALE (poprawka gracza, powtorzona). NIE ma cotygodniowego dryfu nastawienia. W sredniowiecznym miescie ludzie widuja sie tygodniami/miesiacami z przerwami i podejmuja znajomosc gdzie ja zostawili. Nastawienie NIE stygnie od kalendarza.",
+    "kiedy_spada": "Tylko przez ZDARZENIA (afront, zaniedbanie konkretnej obietnicy/obowiazku, konkurencyjny patron, uraza), NIE przez sam uplyw czasu. Ewentualny bardzo powolny dryf dopiero po DLUGIEJ nieobecnosci (miesiace), i cieple/glebokie wiezi (wysoki nast+zauf) sa lepkie - prawie nie erodują.",
+    "od": "297-05-01 (poprawka gracza: 'w sredniowieczu ludzie nie widzieli sie co tydzien, juz o tym rozmawialismy'). Cofnieto tik-szeroki dryf -1."
   },
-  "opal": {
-   "baza": 8,
-   "mnoznik": 1.25,
-   "przyczyna": "KOREKTA: opal osiadl u dolu (odwilz + podaz Polnocy cala) - zimowy szczyt zszedl, kto trzymal drogo podtopil sie"
-  },
-  "wino_korzenne": {
-   "baza": 5,
-   "mnoznik": 1.05,
-   "przyczyna": "wino przyplynelo galera"
-  },
-  "sol": {
-   "baza": 45,
-   "mnoznik": 1.05,
-   "przyczyna": "dostawy wrocily po burzy"
-  }
- },
- "swieto": null,
- "dzien": 19,
- "mechanika_inbound": {
-  "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
-  "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
-  "od": "297-04-29 (korekta gracza: 'w tej grze ja musze do wszystkich chodzic, nikt sie nie przypomina - tak to nie wyglada w zyciu').",
-  "przypomnienie_05_19": "REAKTYWOWANE 05-19 (gracz zauwazyl ze lapse). SPRAWDZAC INBOUND CO TURE: na starcie tury zerknij w inbound_kolejka + zywe zegary/potrzeby, i jesli cos dojrzalo, NIECH SWIAT ZAPUKA (Bran melduje goscia/poslanca, przychodzi wiesc, klient sam sie odzywa). Nie tylko gracz->swiat.",
-  "ramka_dzienna": "ZASADA (od 297-05-21, prosba gracza): KAZDEGO RANKA renderuj osobna ramke \"WIADOMOSCI\"/INBOUND - kto sie odezwal/zapukal/przyslal poslanca/jaka wiesc przyszla/co dojrzalo (z inbound_kolejka + zywych zegarow). Jak nic - napisz \"cisza\". Ramka osobna, zawsze, przy porannym renderze."
- },
- "mechanika_wiezi": {
-  "zasada": "WIEZI SA TRWALE (poprawka gracza, powtorzona). NIE ma cotygodniowego dryfu nastawienia. W sredniowiecznym miescie ludzie widuja sie tygodniami/miesiacami z przerwami i podejmuja znajomosc gdzie ja zostawili. Nastawienie NIE stygnie od kalendarza.",
-  "kiedy_spada": "Tylko przez ZDARZENIA (afront, zaniedbanie konkretnej obietnicy/obowiazku, konkurencyjny patron, uraza), NIE przez sam uplyw czasu. Ewentualny bardzo powolny dryf dopiero po DLUGIEJ nieobecnosci (miesiace), i cieple/glebokie wiezi (wysoki nast+zauf) sa lepkie - prawie nie erodują.",
-  "od": "297-05-01 (poprawka gracza: 'w sredniowieczu ludzie nie widzieli sie co tydzien, juz o tym rozmawialismy'). Cofnieto tik-szeroki dryf -1."
- },
- "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia.",
- "zasada_rano": "Kazdego ranka renderowac: 📬 WIADOMOSCI (inbox, cisza jesli nic) + krotki STATUS = JEDZENIE (sytosc/zmeczenie/zdrowie) i HAJS (wolne + skrot: depozyt/inwestycje/weksle). Pelna tablica umiejetnosci TYLKO na zadanie.",
- "zasada_format": "Ramki mechaniczne (naglowek kreskowy, WIADOMOSCI, status jedzenie/hajs, menu opcji) renderowac w BLOKU KODU monospace, jak output rano.py. Scene opisowa - zwykly tekst."
+  "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia.",
+  "zasada_rano": "Kazdego ranka renderowac: 📬 WIADOMOSCI (inbox, cisza jesli nic) + krotki STATUS = JEDZENIE (sytosc/zmeczenie/zdrowie) i HAJS (wolne + skrot: depozyt/inwestycje/weksle). Pelna tablica umiejetnosci TYLKO na zadanie.",
+  "zasada_format": "Ramki mechaniczne (naglowek kreskowy, WIADOMOSCI, status jedzenie/hajs, menu opcji) renderowac w BLOKU KODU monospace, jak output rano.py. Scene opisowa - zwykly tekst."
 }

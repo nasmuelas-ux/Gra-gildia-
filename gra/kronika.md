@@ -5948,3 +5948,6 @@ Symon odwiedzil Elne (wdowa, ktora osłonil przed Lorrenem, bezpieczna pod kolod
 
 ## 297-08-10 POPOLUDNIE - wizyta u Miry (rzut 23, zwykla)
 Symon wpadl znow do Miry - wlasciwie, lekko, bez zawlaszczania (NIE jego blad tym razem). Rzut 23: warsztat PELEN ludzi (klientka + krewna z sasiedztwa), brak przestrzeni na chwile sam na sam - slow-burn bez skoku dzis. Symon nie forsowal/nie marudzil, pomogl odwinac bel, odszedl spokojnie gdy zobaczyl ze ma pelne rece. ODKLADA sie kropla: jego STALA niewymagajaca obecnosc (raz po raz bez zadania) buduje po cichu - wdowa strzegaca niezaleznosci ceni stalosc>zar; zaleca sie cierpliwoscia nie naporem. Flame trzyma, bez szkody. HOLD 94/64. sytosc 52->44, zmeczenie 22->28.
+
+## 297-08-11 RANEK - sen -> ranek (TIK SWIATA)
+Symon przespal noc: zmeczenie 28->4, sytosc 44->26, zdrowie 100. Ranek deszczowy (wiosenna slota, wiatr, nabrzeza mokre, logistyka wolniejsza - nic zlamanego, kapital-light trzyma). PRZYCHODZACE (inbound 46): HAL melduje - nowe pasma zamkowe (ekspansja 08-09) rusza; 1. drobna marza OKUC (przedluzenie filaru zelaznego, najszybsze do produkcji) zaksiegowana PRZEZ FIRME +4 jel (nazwisko Symona off - grey-play dziala, dochod plynie). Sakiewka 51->55. Bank - cicho (mieli tempem swoim). Bursztyn - czeka na kolejny splyw (set-aside Torsen/Halvard).

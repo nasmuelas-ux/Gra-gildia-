@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-20 NOC · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-21 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -39,11 +39,11 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - prowiant_marza: Marza koordynacyjna z dostaw prowiantu Merek->zamek (sezon budowlany). Ksieguj per dostawa. Recurring, cienszy niz drewno.
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 34 · Zmeczenie 34
+- Zdrowie 100 · Sytosc 18 · Zmeczenie 8
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
-**Reputacja:** port 33 · schody_zamkowe 38 · cech_pisarzy -6 · wiara 88 · zamek 13 · cech_kolodziejow 40
+**Reputacja:** port 33 · schody_zamkowe 38 · cech_pisarzy -6 · wiara 90 · zamek 13 · cech_kolodziejow 40
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU; LICZBY UCZCIWE vs ZMYSLONE
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -53,7 +53,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 90
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 37
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
-- **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 90
+- **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 93
 - **Lorren** (lorren_lichwiarz) — lichwiarz spod Wilczego Legu · nast -4
 - **Harwin** (poborca_harwin) — poborca Cechu Pisarzy (egzekutor) · nast -14
 - **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 52
@@ -103,10 +103,10 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `None` torhen_audyt: 297-05-09 (rzut 65): lead klient-establishment ZYWY, namierzony - zarzadca TORHEN (dom zaopatrujacy Nowy Zamek
 - ◆ `297-06-05` ksiega_kredytowa_zwrot: 297-05-14: Symon ulokowal 50 jel jako DWA WEKSLE (solidni dluznicy, dobry zastaw, dochodowy procent; podporka 
 - ◆ `None` kanal_polnoc_capacity: 297-05-15 (Torsen, rzut 39): KANAL POLNOCNY NEAR CAPACITY - sukces przeciazyl podaz. Sol Harlona + drewno na z
-- ◆ `WNIESIONA-czeka na Wymana` petycja_lord_przednowek: 297-06-26 ZAWIAZANY: PRZEDNOWEK dusi Septe - rejestry ubogich pecznieja, zapasy lekow/ziarna cienieja, prywatn
+- ◆ `PRZYZNANE 07-21` petycja_lord_przednowek: 297-06-26 ZAWIAZANY: PRZEDNOWEK dusi Septe - rejestry ubogich pecznieja, zapasy lekow/ziarna cienieja, prywatn
 - ◆ `?` bank_wazy_antaryon: 297-07-11: machina Banku URUCHOMIONA (spust pociagniety, nieodwracalne). Bank ostrozny - Antaryon to i jego kl
 - ◆ `297-07-2X` agregat_dowodowy_zbieranie: Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/prze
-- ◆ `297-07-1X/2X` lord_odpowiedz_petycja: Petycja przednowkowa WNIESIONA przez Owena (glos Wiary) do lorda Wymana, wsparta cicho przez Godrica. Odpowied
+- ◆ `ODPALIL-przyznane` lord_odpowiedz_petycja: Petycja przednowkowa WNIESIONA przez Owena (glos Wiary) do lorda Wymana, wsparta cicho przez Godrica. Odpowied
 - ◆ `otwarty` logistyka_ladowa_bennet_pulap: 297-07-18 (SKORYGOWANY): po skalowaniu dostaw zamkowych sufit wolumenu = POJEMNOSC SCINKI BENNETA + PRZEWOZ LA
 - ◆ `otwarty` torhen_kanal_zamkowy_zaopatrzenie: 297-07-18 (rzut 87): Torhen ocieplony (41->60/16->28) - z chlodnego retainera w sojusznika. Jako zarzadca domu
 - ◆ `ZLOZONY - dostawy sezonu` most_merek_zamek_prowiant: 297-07-18 (rzut 95): LEAD zbiegajacy dwa swieze watki - Torhen otworzyl intel procurementowy zamku (zamek potr

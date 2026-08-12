@@ -384,6 +384,12 @@
       "odlicza_do": "297-08-XX (~kilka tyg)",
       "typ": "proces",
       "opis": "297-07-24 (rzut 67): ekspansja dostaw drewna na zamek na ZDROWEJ bazie. Bennet sam dobiera rece + zaprzeg przeciw gwarantowanemu off-take zamku (kapital-light dla Symona). Pojemnosc narasta kilka tyg (rekrutacja/wozy/schniecie drog po nawrocie). Gdy online -> filar drewna rosnie dalej. Symon: koordynacja + STALY kontakt z Bennetem (nie znikac - lekcja bazy). Bennet 68->72/20->23."
+    },
+    {
+      "id": "sztorm_0730_ekspozycja",
+      "odlicza_do": "dni (szkody sie licza)",
+      "typ": "zagrozenie",
+      "opis": "297-07-30: gwaltowny sztorm (pogoda 1) bije w port. EKSPOZYCJA Symona: (1) POOL UNDERWRITINGU 115 jel na ryzyku - sztorm=moment roszczen jesli objety ladunek oberwal (downside modelu, ktory bral skladke w ciszy); rozlozony/dywersyfikowany wiec nie wipe, ale test. (2) ZELAZO GULLTOWN w tranzycie trasa wschodnia (Bite) - morze sie wsciekа, ryzyko opoznienia/straty. (3) korytarz/galery/arrivals - ruch wstrzymany, terminy posypane. Skala nieznana. NIE ambush - pogoda (TIK swiata) trafiajaca w pozycje ryzyka; gracz moze dzialac zanim szkody stwardnieja (Nesta/pool, iron, mitygacja)."
     }
   ]
 }

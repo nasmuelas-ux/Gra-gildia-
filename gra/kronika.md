@@ -5660,3 +5660,6 @@ Zagrałem 1+2, plan niezależny od Voxa. Handoff czysty: dałem Voxowi dowód ja
 
 ## 297-07-23 NOC — Do Nesty dać znać (rzut 34)
 Powiedziałem Neście: poszło, Bank ma dowód, firewall cały. Pozwoliła sobie na rzadką u niej chwilę cichego uznania — zbudowaliśmy to razem, od triggera przez firewall po agregat. A potem, jak zawsze, ostudziła: teraz zaczyna się najtrudniejsze, czekanie. Bank może się dogadać z Antaryonem zamiast go tłuc, Antaryon może zacząć szukać ręki, Garth wciąż kruchy, szum Voxa się toczy. Ludzie nie wpadają na wielkim ruchu — wpadają potem, z ulgi, robiąc coś głupiego. Counsel: trzymać mur ciaśniej niż kiedykolwiek, zostać duchem, nie świętować, nie sięgać po renomę, pilnować Gartha — aż Bank się ruszy. Zostaję cichym pisarzem, który handluje drewnem. Zmęczenie 30, noc.
+
+## 297-07-24 RANEK — Sen; limbo, i Mira się odzywa
+Symon przespał się (zmęczenie 6, sytość 14). Zimny mokry nawrót, deszcz — pogoda pod nastrój napiętego czekania (Bank waży w tle, firewall ciaśniej wg rady Nesty). PRZYCHODZĄCE: posłaniec od Miry — przemyślała korytarz sukna, leans in, chce usiąść i dopiąć JAK (terminy na jej warunkach), nie „czy". Sama się odezwała — jej własny krok. W tle: Hal do awansu, żelazo w drodze (~08-03), Dzień Bilansu 08-01, ruch Banku dojrzewa.

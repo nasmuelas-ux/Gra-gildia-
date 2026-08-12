@@ -172,5 +172,24 @@
     "rachunki": 2,
     "pismo": 1,
     "handel": 1
+  },
+  "przychody": {
+    "zasada": "KSIEGA PRZYCHODOW - jedyne miejsce na wplywy. GDZIE: tu (postac.json.przychody) + render STAN.md + slad w ukryte/przychody.log. KIEDY: (a) per-zdarzenie ksiegowane gdy zdarzenie odpala; (b) cykliczne miesieczne zmiatane w DZIEN BILANSU (1. dnia miesiaca). W Dniu Bilansu: zlicz miesiac -> gotowka do sakiewki, wpis kronika+log. Kwoty oznaczone 'szac.' do potwierdzenia w grze.",
+    "dzien_bilansu": "1. dnia miesiaca",
+    "nastepny_bilans": "297-08-01",
+    "ostatni_bilans": "297-07-18 (baseline zalozony)",
+    "strumienie_cykliczne_miesieczne": {
+      "draw_wspolnika_nesta": "6 jel/mies (spolka Nesty) - KANON pewny; historycznie do depozytu, teraz do kasy w Dniu Bilansu",
+      "czynsz_kamieniczki": "izba1 Jonna + izba2 Osric wynajete (czynsz szac. ~2 jel/izba/mies = ~4 jel); izba3 Hal = ulga/w pakiecie wychowanka (czesc wynagrodzenia); izba4 = Symon. Netto po utrzymaniu (dozorca Bran) szac. ~3-4 jel/mies. DO POTWIERDZENIA stawek w grze",
+      "oplaty_retainerow": "Aurane(premium)+faktoria+blok+Torhen - staly przychod firmy per okres; Hal prowadzi rutyne. Kwota szac. do ustalenia per retainer (rozliczenie miesieczne)"
+    },
+    "strumienie_per_zdarzenie": {
+      "drewno_marza": "NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)",
+      "weksle_procent_i_zwrot": "100 jel niezab.(procent) + 50 jel zab.(kapital+procent, term ~06-05+). Wend/pilot: kapital+procent gdy wroca wiosenne naleznosci. Ksieguj w terminie zapadalnosci/rolowania",
+      "plon_rotacji_faktorii": "~250 jel w obrocie zboze-sol; plon per ZAMKNIETY cykl/batch. Ksieguj przy zamknieciu batcha",
+      "underwriting_skladka": "65 jel na ryzyku + skim ubezp-tranzytu (compound). Skladka realizowana gdy ladunek dobije bezpiecznie; skim narasta cicho",
+      "sol_spekulacja": "parcela solna w kufrze Nesty - jednorazowa sprzedaz przy dobrym oknie cenowym"
+    },
+    "koszty_cykliczne_uwaga": "Dla NETTO pamietaj o kosztach: podatek_miejski (nowy staly koszt statusu, kwota/termin wg kalendarza), utrzymanie dozorcy Brana, place juniorow (Hal/Wick), wlasne utrzymanie Symona. Bilans miesieczny = przychody - koszty."
   }
 }

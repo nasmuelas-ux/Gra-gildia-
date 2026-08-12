@@ -33,6 +33,22 @@ if poz:
     out.append("\n## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)")
     for k, v in poz.items():
         out.append(f"- {v}")
+prz = p.get("przychody", {})
+if prz:
+    out.append("\n## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)")
+    out.append(f"- **Dzien Bilansu:** {prz.get('dzien_bilansu','?')} · nastepny {prz.get('nastepny_bilans','?')} (ostatni: {prz.get('ostatni_bilans','?')})")
+    cyk = prz.get("strumienie_cykliczne_miesieczne", {})
+    if cyk:
+        out.append("- _Cykliczne (zmiatane w Dniu Bilansu):_")
+        for k, v in cyk.items():
+            out.append(f"    - {k}: {v}")
+    pz = prz.get("strumienie_per_zdarzenie", {})
+    if pz:
+        out.append("- _Per-zdarzenie (ksiegowane przy zdarzeniu):_")
+        for k, v in pz.items():
+            out.append(f"    - {k}: {v}")
+    if prz.get("koszty_cykliczne_uwaga"):
+        out.append(f"- _Koszty (dla netto):_ {prz['koszty_cykliczne_uwaga']}")
 out.append(f"- Zdrowie {p.get('zdrowie','?')} · Sytosc {p.get('sytosc','?')} · Zmeczenie {p.get('zmeczenie','?')}")
 
 um = p.get("umiejetnosci", {})

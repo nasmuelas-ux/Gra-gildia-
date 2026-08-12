@@ -22,6 +22,20 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia.
 - Retainery firmy (staly przychod, Hal rutyna + pieczec Symona): AURANE (premium) + FAKTORIA Nesty (weryfikacja, pole rampu Hala) + BLOK-RDZEN (Aldous+Harlon, weryfikacja=grosz+cement obrony; rosnie od jadra). Firewall-czyste. Dochod niezalezny od godzin.
 - Udzial w wykupie dlugu Aldousa (~28 jel, blok): fair refinance - Aldous winien blokowi na przyjacielskich warunkach (odzyskiwalne, nie strata).
+
+## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
+- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-08-01 (ostatni: 297-07-18 (baseline zalozony))
+- _Cykliczne (zmiatane w Dniu Bilansu):_
+    - draw_wspolnika_nesta: 6 jel/mies (spolka Nesty) - KANON pewny; historycznie do depozytu, teraz do kasy w Dniu Bilansu
+    - czynsz_kamieniczki: izba1 Jonna + izba2 Osric wynajete (czynsz szac. ~2 jel/izba/mies = ~4 jel); izba3 Hal = ulga/w pakiecie wychowanka (czesc wynagrodzenia); izba4 = Symon. Netto po utrzymaniu (dozorca Bran) szac. ~3-4 jel/mies. DO POTWIERDZENIA stawek w grze
+    - oplaty_retainerow: Aurane(premium)+faktoria+blok+Torhen - staly przychod firmy per okres; Hal prowadzi rutyne. Kwota szac. do ustalenia per retainer (rozliczenie miesieczne)
+- _Per-zdarzenie (ksiegowane przy zdarzeniu):_
+    - drewno_marza: NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)
+    - weksle_procent_i_zwrot: 100 jel niezab.(procent) + 50 jel zab.(kapital+procent, term ~06-05+). Wend/pilot: kapital+procent gdy wroca wiosenne naleznosci. Ksieguj w terminie zapadalnosci/rolowania
+    - plon_rotacji_faktorii: ~250 jel w obrocie zboze-sol; plon per ZAMKNIETY cykl/batch. Ksieguj przy zamknieciu batcha
+    - underwriting_skladka: 65 jel na ryzyku + skim ubezp-tranzytu (compound). Skladka realizowana gdy ladunek dobije bezpiecznie; skim narasta cicho
+    - sol_spekulacja: parcela solna w kufrze Nesty - jednorazowa sprzedaz przy dobrym oknie cenowym
+- _Koszty (dla netto):_ Dla NETTO pamietaj o kosztach: podatek_miejski (nowy staly koszt statusu, kwota/termin wg kalendarza), utrzymanie dozorcy Brana, place juniorow (Hal/Wick), wlasne utrzymanie Symona. Bilans miesieczny = przychody - koszty.
 - Zdrowie 100 · Sytosc 28 · Zmeczenie 6
 
 ## UMIEJETNOSCI (0-10)

@@ -6,7 +6,7 @@ Jeśli nie wiesz czegoś o świecie — OTWÓRZ plik, nie zgaduj. Rozmowa się s
 
 ## PĘTLA TURY (bez skrótów, w tej kolejności)
 1. **WCZYTAJ** `STAN.md` (dashboard) + w razie potrzeby `postac.json`, `swiat.json`, `zegary.json`, `watki.json`, NPC na scenie, ostatnie ~40 linii `kronika.md`.
-2. **TIK ŚWIATA** (przed akcją gracza): zegary odliczają (te co doszły do 0 — odpalają); NPC na scenie robią krok z `ukryte/plany.json`; plotki +1 krok obiegu (rośnie zniekształcenie); przelicz ceny; nastawienia dryfują ku 0 przy braku kontaktu (−1/tydzień); pogoda wg sezonu.
+2. **TIK ŚWIATA** (przed akcją gracza): zegary odliczają (te co doszły do 0 — odpalają); NPC na scenie robią krok z `ukryte/plany.json`; plotki +1 krok obiegu (rośnie zniekształcenie); przelicz ceny; nastawienia dryfują ku 0 przy braku kontaktu (−1/tydzień); pogoda wg sezonu. **PRZYCHODY:** jeśli tik przekroczył Dzień Bilansu (1. dnia miesiąca) → zlicz cykliczne (draw 6 jel, czynsz, retainery) do sakiewki + wpis `ukryte/przychody.log`; jeśli odpaliło zdarzenie dochodowe (dostawa zamkowa=marża, weksel w terminie, ładunek dobił=składka, batch rotacji zamknięty, sprzedaż soli) → zaksięguj kwotę do kasy i zaloguj. Księga: `postac.json.przychody`.
 3. **ROZSTRZYGNIJ** deklarację. Sprawdź wykonalność (pora, miejsce, pogoda, ciało). Rzut wg niżej.
 4. **SKUTKI UBOCZNE**: kto widział? kto się dowie i kiedy? która frakcja reaguje? → dopisz plotki/zegary.
 5. **ZAPISZ** wszystkie zmienione pliki → `python3 gra/stan.py` (regeneruj STAN.md) → dopisz turę do `kronika.md`. **Zapisuj PRZED renderem.**

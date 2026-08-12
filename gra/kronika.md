@@ -5888,3 +5888,6 @@ Symon odpoczal chwile (zmeczenie 38->28) i poszedl do Nesty. Rzut 32 - sesja spo
 
 ## 297-08-06 WIECZOR - meldunek u Torhena (3 filary plyna)
 Symon poszedl do Torhena (mol/czlowiek w srodku) zameldowac prywatnie ze zelazo zeszlo, drewno plynie, prowiant idzie - wszystkie 3 filary miela. Rzut 67 - solidnie. Torhen DOCENIONY (przyszedl go poinformowac, nie tylko wyciagnac - partner w petli), lojalnosc glebsza (65->68/32->34). Odwzajemnil: (a) intel procurementowy naprzod - sezon zejdzie wiecej wapna/plotna/okuc (lead pod wiekszy wolumen); (b) POGODA ESTABLISHMENTU teraz KONKRETNA - 1-2 ustalonych dostawcow zauwazylo 'nowe nazwisko' biorace ich dawne kontrakty; jeszcze nie wrogosc, ale szemranie przy stole. Rada: wiedz kto patrzy, graj szaro (echo Nesty). Mglista przestroga -> konkretna mapa. Firewall czysty. sytosc 26->22, zmeczenie 34->40. Wieczor pozny.
+
+## 297-08-06 WIECZOR - wieczerza + odpoczynek
+Symon zjadl porzadna wieczerze i odpoczal przed noca (sytosc 22->58, zmeczenie 40->30). Spokojny koniec dlugiego, tlustego dnia.

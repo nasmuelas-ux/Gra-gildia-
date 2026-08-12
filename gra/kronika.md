@@ -5345,3 +5345,6 @@ Zamiast przyjąć gest i odetchnąć, Symon POSTAWIŁ WŁASNE WARUNKI — z pewn
 
 ## 297-06-29 POPOŁUDNIE/WIECZÓR — powrót do domu, odpoczynek po wielkim dniu
 Symon wrócił do siebie, zjadł, odpoczął po dniu, który ułożył się dobrze na obu frontach: rano STAŁA UMOWA DREWNA z Godrikiem (największy interes, uzgodniony — czeka bieg prowiantury), w południe PAKT RÓWNYCH z Mirą (chłód zagojony jej krokiem, jasne warunki obu stron). Zmęcz 18→8, syt 66. → WIECZÓR. Otwarte: formalny bieg umowy drewna (parę dni), rejestracja firmy (front gotowy, czeka ciche okno rady + przegląd papierów przez Nestę), underwriting/weksle pracują, drewno-marża narasta.
+
+## 297-06-29 WIECZÓR — brulion petycji do lorda (rzut 90)
+Symon przy świecy naszkicował mocny brulion petycji do lorda Wymana ws. przednówka. Trzy nogi: moralna waga Wiary (pobożny Manderly winien ludowi opiekę), TWARDE LICZBY z ksiąg jałmużny Septy (jego edge — konkret nie do zbycia: o ile więcej gęb, jak nisko zapasy, ilu chorych, jak cienieje prywatna studnia), północny honor (dobry lord karmi w chudy przednówek, lud pamięta). Ask konkretny: ziarno/opał/ręka organizacyjna do żniw. Firewall: sprawa Wiary, Symon pokorne pióro. NEXT: dograć z Owenem ton/timing, potem droga steward→lord. Trudny do odrzucenia. Zmęcz 16. → NOC.

@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-17 WIECZOR · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-18 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -16,13 +16,13 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Weksle / mostek-kredyt (niezabezp.): 100 jel u dluznikow (30 swiezo ulokowane 06-28 + 10 na przedluzeniu); procent dochodowy
 - Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18)
 - Rotacja faktorii Nesty (zboze-sol): ~250 jel w obrocie, plon per cykl
-- Drewno-marza (Bennet->broker->zamek): STALA UMOWA przeszla prowianture+stewarda 07-01, pieczec lada dzien = SECURED co do istoty. Staly strumien marzy z regularnych dostaw - najwiekszy filar dochodowy; marza narasta per dostawa.
+- Drewno-marza (Bennet->broker->zamek): STALA UMOWA OPIECZETOWANA 07-18 (pieczec zamku zlozona) = FORMALNIE SECURED, nie tylko co do istoty. Najwiekszy filar dochodowy zablokowany na staly strumien marzy per dostawa. NOWE: Godric sygnalizuje, ze przy wiosenno-letnim sezonie budowlanym zamek chce ROZMAWIAC O SKALOWANIU wolumenu - okazja rozbudowy filaru (decyzja: podaz/logistyka Bennet).
 - Pozycja na soli: parcela spekulacyjna w kufrze Nesty (do sprzedania przy dobrym oknie)
 - Firma faktorska ZAREJESTROWANA (07-01): legalny byt, Symon 2/3 udzialu + kontrola + neutralna twarz; Nesta cichy backer (1/3, imienia brak na rejestrze); czeladnicy Hal/Wick. +1/3 z transakcji w kantorze.
 - Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia.
 - Retainery firmy (staly przychod, Hal rutyna + pieczec Symona): AURANE (premium) + FAKTORIA Nesty (weryfikacja, pole rampu Hala) + BLOK-RDZEN (Aldous+Harlon, weryfikacja=grosz+cement obrony; rosnie od jadra). Firewall-czyste. Dochod niezalezny od godzin.
 - Udzial w wykupie dlugu Aldousa (~28 jel, blok): fair refinance - Aldous winien blokowi na przyjacielskich warunkach (odzyskiwalne, nie strata).
-- Zdrowie 100 · Sytosc 46 · Zmeczenie 20
+- Zdrowie 100 · Sytosc 28 · Zmeczenie 6
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8

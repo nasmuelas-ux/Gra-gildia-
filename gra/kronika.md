@@ -5561,3 +5561,6 @@ Odsapnąłem chwilę, potem wszedłem na Nowy Zamek do Theomore — nie z intere
 
 ## 297-07-17 — KOREKTA CANONU (Theomore, na prośbę gracza)
 Audyt śladu w kronice: Theomore to ustanowiona ciepła więź uczona (keystone 03-26, kryt-97 06-06 otwierający kanał zamkowy, regularne wymiany 06-26), nie chłodny prawie-pierwszy kontakt. Liczba 25 zaniżała historię. Korekta: nastawienie → 52 (under-tracking + skok 07-17), zaufanie → 16 (zostaje umiarkowane: dystans klasowy + cień dossieru — pierwszy raz przyszedł jako audytor-oskarżyciel, więc zaufanie legalnie w tyle za sympatią). Nie konfident, ale ciepły dworsko-uczony kanał.
+
+## 297-07-18 RANEK — Sen; pieczęć zamku na stałej umowie
+Symon spał (zmęczenie 6, sytość 28 — głodny). Sztorm przeszedł, niebo się przeciera, mgła nad wysoką rzeką, wraca wiosna. PRZYCHODZĄCE (mocne): broker przysłał wieść — na stałą umowę zaopatrzenia zamku w drewno ZŁOŻONO PIECZĘĆ. Największy filar dochodowy formalnie zabezpieczony (nie tylko co do istoty). Dodatkowo Godric sygnalizuje: przy wiosenno-letnim sezonie budowlanym zamek chce rozmawiać o SKALOWANIU wolumenu — okazja rozbudowy filaru, ale z hakiem (większa podaż = zobowiązanie po stronie Benneta/logistyki). Petycja u dworu jeszcze nie wróciła (dojrzewa). Agregat zbiera się w rytm faktorii.

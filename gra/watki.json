@@ -905,6 +905,12 @@
       "status": "DOMKNIETY POZYTYWNIE 07-25 (rzut 89) - partnerstwo skladowe zawarte; Aurane z klienta->partner",
       "priorytet": "sredni-niski",
       "opis": "SYNERGIA: Aurane (wlasciciel skladow portowych) <-> rosnaca operacja Symona lakniaca magazynowania (3 filary zamkowe: drewno/prowiant/zelazo do sztauowania; korytarz sukna in/out; arrivals). Tie biznesowy = pelne magazyny+staly grosz dla Aurane, pojemnosc logistyczna dla Symona; przestawia relacje z audyt->partner. 07-25: pitch IMPROWIZOWANY spadl flat - Aurane szczwany, chce KONKRETU (wolumeny/stawki/okres), zauwazyl tez ze Symon spread thin. Bez szkody (hold 66/25). NEXT: wrocic z PRZYGOTOWANA propozycja (realne wolumeny zamkowe+korytarzowe, stawki, struktura wzajemnej korzysci) -> wtedy laduje. Lekcja: przygotowanie obniza prog (jak Vox). || 07-25 (rzut 84): z Nesta PRZYGOTOWANA konkretna propozycja - realne wolumeny sztauowania (3 filary zamkowe + korytarz sukna in/out + arrivals), proponowane stawki, struktura wzajemnej korzysci. GOTOWE dossier do wrocenia do Aurane'a (improwizacja -> przygotowanie). NEXT: przedstawic Aurane'owi z konkretem. || 07-25 (rzut 89): PROPOZYCJA KONKRETNA WYGRALA - Aurane sold ('twoj towar, moje mury, bierzemy'). Skladki=kregoslup logistyczny operacji (filary+korytarz+arrivals). Aurane pelne magazyny+dochod, Symon pojemnosc. BONUS: Aurane dzieli sie wgladem w przeplywy portu. Relacja audyt->PARTNER (66->75/25->32). Poranny flat naprawiony przygotowaniem."
+    },
+    {
+      "id": "aldous_wino_w_siec",
+      "status": "MOZLIWOSC (07-27) - Aldous floatowal wpiecie swojego wina w siec logistyczna Symona (Aurane/linia Nesty/Braavos), gdy przyjdzie pora",
+      "priorytet": "niski",
+      "opis": "297-07-27: Aldous (winiarz, lojalny) rzucil jako mozliwosc dla obu: wpiac jego handel winem w rosnaca siec Symona - lepsze zrodla braawijskie, skladowanie u Aurane'a, moze eksport. Nie napiera, kladzie na przyszlosc. Opcja do wykorzystania, gdy bedzie pojemnosc/pora. Firewall: wino Aldousa mialo dostawce afiliowanego z Antaryonem (audyt_wina) - ostroznie przy Braavos."
     }
   ]
 }

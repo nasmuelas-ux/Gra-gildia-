@@ -5714,3 +5714,6 @@ Zaszedłem do Wendy — przekupki rybnej, mojego głosu wśród drobnego ludu. C
 
 ## 297-07-27 RANEK — Sen; sygnał Belarna: machina się obraca
 Symon przespał się (zmęczenie 6, sytość 16). PRZYCHODZĄCE (dyskretnie, kanałem Belarna): (1) Bank się rusza — agent zaangażował się w dostarczony dowód, machina się obraca (bez werdyktu, powolne bankowe ważenie, ale dzieje się). (2) Agent, uderzony jakością, znów dopytał czyja to ręka; Belarno odbił, ale nacisk o źródło realny — firewall pressure jak przewidziano 07-23. Zostać duchem (rada Nesty). W tle: awans Hala, żelazo w drodze (~08-03), Dzień Bilansu 08-01.
+
+## 297-07-27 POŁUDNIE — Odwiedzam Aldousa (rzut 63)
+Zaszedłem do Aldousa — winiarza, lojalnego druha. W pełni odbity po kryzysie, interes zdrowy, wita jak brata. Ciepły reconnect bez ciężaru; głęboko lojalny, nie kryje: „moje księgi, mój głos w bloku, moja piwnica — twoje". Przy winie rzucił jako możliwość dla obu: skoro rozkręcam linie za wodę i mam mury Aurane'a, to może jego wino dałoby się wpiąć w ten krwiobieg — lepsze braawijskie źródła, składowanie, kiedyś eksport. Nie napiera, kładzie na przyszłość (ostrożnie z Braavos, bo jego dostawca był afiliowany z Antaryonem). Grounding w limbo: lojalny druh, twardo po mojej stronie, między nami żaden hak. Aldous zaufanie 40→43. Zmęczenie 20, popołudnie.

@@ -5723,3 +5723,6 @@ Przyszedłem bez interesu, choć interes nas teraz wiąże — i to ją rozluźn
 
 ## 297-07-27 WIECZÓR/NOC — Dyskurs z Theomore: władza na Północy (rzut 43)
 Odpocząłem przy herbacie, potem wszedłem cicho na Nowy Zamek do Theomore z tematem polityczno-społecznym: jak miasto monety mieści się w Północy mieczy. Rozkwitł. Miecz albo srebro to fałszywy wybór — Manderly'owie są potęgą, bo splatają oba (wygnańcy z Reach obdarowani przez Starków, więc wierni Winterfell tym głębiej; bogaci w krainie włóczni, więc niezastąpieni). Lord z samą stalą to tyran do nieurodzaju, z samym srebrem — łup; Wyman ma oba. Co wiąże lud z panem: strach, honor, wiara, moneta — wszystko naraz, nic z osobna. I docenił (mrugając „o której nie mówimy, że twoja"), że petycja zagrała, bo dotknęła trzech strun naraz — honoru pana, sumienia Wiary, chleba ludu. Wyszedłem bogatszy o perspektywę, jak myśli dwór i czym rządzi się władza na Północy. Kanał pogłębiony o cal, firewall cały — sprawa idei, nie interesów. Theomore 52→56, zaufanie 16→18. Zmęczenie 28, noc.
+
+## 297-07-28 RANEK — Sen; piękny cichy poranek
+Symon przespał się (zmęczenie 6, sytość 18). Pełna wiosna, słonecznie, port tętni. PRZYCHODZĄCE: cicho. Dojrzewa: awans Hala + 3. ręka (długo pending, dojrzałe), korytarz działa, Bank (machina się obraca), żelazo w drodze (~08-03), Dzień Bilansu 08-01 (za 4 dni).

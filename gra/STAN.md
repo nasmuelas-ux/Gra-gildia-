@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-18 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-18 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -16,7 +16,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Weksle / mostek-kredyt (niezabezp.): 100 jel u dluznikow (30 swiezo ulokowane 06-28 + 10 na przedluzeniu); procent dochodowy
 - Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18)
 - Rotacja faktorii Nesty (zboze-sol): ~250 jel w obrocie, plon per cykl
-- Drewno-marza (Bennet->broker->zamek): STALA UMOWA OPIECZETOWANA 07-18 (pieczec zamku zlozona) = FORMALNIE SECURED, nie tylko co do istoty. Najwiekszy filar dochodowy zablokowany na staly strumien marzy per dostawa. NOWE: Godric sygnalizuje, ze przy wiosenno-letnim sezonie budowlanym zamek chce ROZMAWIAC O SKALOWANIU wolumenu - okazja rozbudowy filaru (decyzja: podaz/logistyka Bennet).
+- Drewno-marza (Bennet->broker->zamek): umowa OPIECZETOWANA 07-18, SKALOWANA 07-18 (rzut 63). Godric zakontraktowal WIEKSZY wolumen budowlany na sezon; Bennet podniosl podaz. Przepustowosc filaru ~1.5x - najwiekszy strumien marzy (per dostawa) rosnie. CONSTRAINT: pulap wyznacza teraz PRZEWOZ RZECZNY (kanal Bialego Noza, Torsen/Halvard - skonczona pojemnosc, pogoda) => zaleznosc glebsza + compound ubezp-tranzytu BARDZIEJ wartosciowy (wiecej wartosci na wodzie). Kapital-light (pre-sold off-take zamku). Ksieguj marze per dostawa.
 - Pozycja na soli: parcela spekulacyjna w kufrze Nesty (do sprzedania przy dobrym oknie)
 - Firma faktorska ZAREJESTROWANA (07-01): legalny byt, Symon 2/3 udzialu + kontrola + neutralna twarz; Nesta cichy backer (1/3, imienia brak na rejestrze); czeladnicy Hal/Wick. +1/3 z transakcji w kantorze.
 - Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia.
@@ -36,7 +36,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - underwriting_skladka: 65 jel na ryzyku + skim ubezp-tranzytu (compound). Skladka realizowana gdy ladunek dobije bezpiecznie; skim narasta cicho
     - sol_spekulacja: parcela solna w kufrze Nesty - jednorazowa sprzedaz przy dobrym oknie cenowym
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 28 · Zmeczenie 6
+- Zdrowie 100 · Sytosc 58 · Zmeczenie 14
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -104,6 +104,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `?` bank_wazy_antaryon: 297-07-11: machina Banku URUCHOMIONA (spust pociagniety, nieodwracalne). Bank ostrozny - Antaryon to i jego kl
 - ◆ `297-07-2X` agregat_dowodowy_zbieranie: Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/prze
 - ◆ `297-07-1X/2X` lord_odpowiedz_petycja: Petycja przednowkowa WNIESIONA przez Owena (glos Wiary) do lorda Wymana, wsparta cicho przez Godrica. Odpowied
+- ◆ `otwarty` logistyka_przewoz_pulap: 297-07-18: po skalowaniu dostaw zamkowych PRZEWOZ RZECZNY (kanal Bialego Noza, Torsen/Halvard) staje sie wiaza
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

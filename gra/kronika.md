@@ -5405,3 +5405,6 @@ Symon poszedł do Miry — najpierw szczera radość, że jej sprawa z suknem wy
 
 ## 297-07-03 NOC — sen; 297-07-04 RANEK — Aldous wzywa (inbound)
 Symon został jeszcze chwilę u Miry (cicha bliskość dwojga równych), wrócił, przespał noc (zmęcz 20→4). RANO 07-04 (szaro, sucho po deszczu): inbound — Aldous (handlarz winem, ciepły sojusznik i cegła bloku anty-Antaryon, ~13 dni bez kontaktu) przysłał chłopca: chce, by Symon wpadł, „ma coś do obgadania". Aldous głęboko w kupieckiej gadce i wyczulony na Antaryonów — możliwa nitka do fixer_czyja_reka albo zwykły kubek + interes. Syt 28, zmęcz 4.
+
+## 297-07-04 RANEK/POŁUDNIE — Nesta: praca + fixer (rzuty 52 / 14)
+Symon popracował u Nesty — backlog czysto, +2 jel (→40). Położył jej sprawę fixera. Nesta, która zna każdą regularną galerę i ludzi na niej, NIE umie go umiejscowić — a że ONA nie może, to znak grubej, ukrytej ręki (Braavos? wielki dom? nieznane). Werdykt Nesty (zbieżny z Mirą): odstraszony = dobrze, ale NIE drążyć dalej — gonić cień, którego nawet Nesta nie widzi, to oświetlać się przed kimś, kto woli ciemność. Postawa: czujność + szczelny firewall; Mira niech popyta cicho, ale nikt niech nie SZUKA; niech fixer popełni następny błąd. Fixer_czyja_reka → czujne czekanie, nie polowanie. Nesta ost 07-04. Wisi zaproszenie od Aldousa. Syt 55, zmęcz 12. → POŁUDNIE.

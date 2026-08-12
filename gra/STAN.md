@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-18 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-18 POPOLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -28,7 +28,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - _Cykliczne (zmiatane w Dniu Bilansu):_
     - draw_wspolnika_nesta: 6 jel/mies (spolka Nesty) - KANON. Do kasy w Dniu Bilansu
     - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
-    - oplaty_retainerow_udzial_symona: Retainery firmy 11 jel/mies brutto (Aurane 4 + Blok 3 + Faktoria 2 + Torhen 2) - 5 jel place juniorow (Hal~3/Wick~2) = firma netto 6 jel; UDZIAL SYMONA 2/3 = 4 jel/mies (+ zmienne per-zlecenie)
+    - oplaty_retainerow_udzial_symona: Retainery firmy 12 jel/mies brutto (Aurane 4 + Blok 3 + Faktoria 2 + Torhen 3) - 5 jel place juniorow = firma netto 7 jel; UDZIAL SYMONA 2/3 = ~5 jel/mies (+ zmienne per-zlecenie)
 - _Per-zdarzenie (ksiegowane przy zdarzeniu):_
     - drewno_marza: NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)
     - weksle_procent_i_zwrot: 100 jel niezab.(procent) + 50 jel zab.(kapital+procent, term ~06-05+). Wend/pilot: kapital+procent gdy wroca wiosenne naleznosci. Ksieguj w terminie zapadalnosci/rolowania
@@ -36,7 +36,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - underwriting_skladka: 65 jel na ryzyku + skim ubezp-tranzytu (compound). Skladka realizowana gdy ladunek dobije bezpiecznie; skim narasta cicho
     - sol_spekulacja: parcela solna w kufrze Nesty - jednorazowa sprzedaz przy dobrym oknie cenowym
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 58 · Zmeczenie 14
+- Zdrowie 100 · Sytosc 50 · Zmeczenie 20
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -105,6 +105,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `297-07-2X` agregat_dowodowy_zbieranie: Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/prze
 - ◆ `297-07-1X/2X` lord_odpowiedz_petycja: Petycja przednowkowa WNIESIONA przez Owena (glos Wiary) do lorda Wymana, wsparta cicho przez Godrica. Odpowied
 - ◆ `otwarty` logistyka_ladowa_bennet_pulap: 297-07-18 (SKORYGOWANY): po skalowaniu dostaw zamkowych sufit wolumenu = POJEMNOSC SCINKI BENNETA + PRZEWOZ LA
+- ◆ `otwarty` torhen_kanal_zamkowy_zaopatrzenie: 297-07-18 (rzut 87): Torhen ocieplony (41->60/16->28) - z chlodnego retainera w sojusznika. Jako zarzadca domu
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

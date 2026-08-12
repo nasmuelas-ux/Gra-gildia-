@@ -5702,3 +5702,6 @@ Zaplanowałem korytarz z Nestą na trzeźwo — i większość się złożyła: 
 
 ## 297-07-26 RANEK — Sen; piękny wiosenny poranek
 Symon przespał się (zmęczenie 8, sytość 10 — głodny). Pełna wiosna, pięknie, drogi suche (dobrze dla ekspansji Benneta). PRZYCHODZĄCE: cicho. Dojrzewa: zbrokerować pasy Leona/Mira (ostatni hurdle korytarza), awans Hala + 3. ręka, Bank (limbo), żelazo w drodze (~08-03), Dzień Bilansu 08-01.
+
+## 297-07-26 POŁUDNIE — Brokeruję pasy Leona/Mira (rzut 24)
+Zbrokerowałem to prawie do końca. Komplementarne pasy jako idea lądują u obu — bo są uczciwe. Mirę mam: zyskuje najwięcej (mniejsza, wchodzi w większy obieg na swoich braawijskich dojściach), więc weszła z ochotą. Zgrzyt, przewidywalnie, po stronie Leony — większego gracza z większą stawką. Nie jest przeciw, ale jako kupcowa nie wpuści rywalki do „swojego" kanału bez konkretnej osłony na papierze: pierwszeństwo/pierwokup na wolumenowym suknie i twarda gwarancja, że Mira zostaje w niszy (cienkie/specjalne tkaniny, dojścia, weryfikacja) i nie podskubuje jej rdzennych klientów. „Daj mi to na papierze, to wchodzę." Rozsądny warunek, spełnialny — pasy naprawdę są komplementarne, trzeba to tylko twardo zapisać. Nie domknąłem w jednym posiedzeniu, ale jestem o jedną koncesję od startu. Relacje z obiema całe. Zmęczenie 16, popołudnie.

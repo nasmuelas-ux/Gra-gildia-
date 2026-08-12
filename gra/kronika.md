@@ -5579,3 +5579,6 @@ Odsapnąłem chwilę, potem zaszedłem do Mereka — durable premium klient, pra
 
 ## 297-07-19 RANEK — Sen; szary nawrót, flotylla czeka
 Symon spał (zmęczenie 8, sytość 22 — głodny). Przednówek kąsa ostatni raz: szary, zimny, mokry dzień, siąpi, wiatr od morza. PRZYCHODZĄCE: słowo od Nesty — braavijska flotylla sukna weather-held na redzie, zamówienie Leony i prowizja brokerska ślizgają się o dni (bez straty, tylko zwłoka). Petycja u dworu jeszcze bez słowa (dojrzewa). Agregat zbiera się w rytm faktorii.
+
+## 297-07-19 POŁUDNIE — Praca w Sepcie (rzut 87)
+Poszedłem popracować do Septy — moja stała rola, pisarz pod publiczną opieką Wiary, a przy żywej karcie Antaryona to także tarcza: widoczne, pobożne dobro trzyma mnie tam, gdzie mam być. Sesja wyszła wzorowo: rejestry jałmużny przednówkowej — spuchnięte, bo bieda realna — uporządkowałem tak, że starszy brat mruknął, że nigdy nie były tak czytelne. To mój żywioł. Ktoś podzielił się chlebem, więc i głód odpuścił (sytość 34). Owen zajęty — niesie petycję, która jest już przed lordem; ze szeptów w Sepcie wynika, że idzie dobrze, choć werdyktu nie ma. Reputacja u Wiary 86→88. Zmęczenie 14, południe.

@@ -12,7 +12,7 @@
   "zmeczenie": 8,
   "sakiewka": {
     "miedziaki": 4,
-    "jelenie": 100,
+    "jelenie": 103,
     "smoki": 0
   },
   "dobytek": [
@@ -195,7 +195,8 @@
       "underwriting_skladka": "Skim skladki z pool'u underwritingu (115 jel na ryzyku po 07-22). Recurring premia per cykl zeglugowy; realizuje sie gdy ladunki dobijaja bezpiecznie. Ryzyko: claim przy stracie (rozłożone).",
       "sol_spekulacja": "parcela solna w kufrze Nesty - jednorazowa sprzedaz przy dobrym oknie cenowym",
       "prowiant_marza": "Marza koordynacyjna z dostaw prowiantu Merek->zamek (sezon budowlany). Ksieguj per dostawa. Recurring, cienszy niz drewno.",
-      "zelazo_okucia_marza": "Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant."
+      "zelazo_okucia_marza": "Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.",
+      "korytarz_sukna": "Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie."
     },
     "koszty_cykliczne_uwaga": "Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.",
     "baseline_miesieczny_do_kasy": "OD 09-01 WYZSZY: czynsz netto 7 + draw 6 + udzial firmy ~9-10 (6 retainerow pelny miesiac) = ~22-23 CYKLICZNE; + per-zdarzenie: DREWNO-marza (flagowy, ~25+/mies), PROWIANT (pelny miesiac, rosnie), ZELAZO (od dostawy ~08-03), weksle procent, korytarz; - podatek_miejski. Materialy (prowiant+zelazo) dolozą grubiej w sierpniu (07: prowiant pol miesiaca, zelazo 0-w-tranzycie).",

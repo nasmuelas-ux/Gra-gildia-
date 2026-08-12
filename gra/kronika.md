@@ -5789,3 +5789,6 @@ Slusznie zlapane: (1) drewno-marza byla zanizona - to flagowy filar (skalowany 1
 
 ## 297-08-01 - KOREKTA 2 DNIA BILANSU (gracz: udzial u Nesty nie jest staly)
 Slusznie: udzial u Nesty to nie flat 6 jel. Struktura: (1) baza+draw 6 [staly], (2) 1/3 netto z transakcji Symona [skaluje], (3) rosnacy udzial w core-faktorii = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Bilans liczyl sam draw i uznal plon rotacji za w calosci reinwestowany - blad, czesc plonu to zwrot Symona z equity. Rozpoznano +10 jel udzialu partnerskiego (equity+1/3 nie-w-kasie) -> sakiewka 90->100. Na przyszlosc Bilans rozpoznaje pelny udzial partnerski, nie tylko flat draw.
+
+## 297-08-01 - KOREKTA 3 (gracz: import sukna/korytarz)
+Korytarz wydzielony z lumpu. LIPIEC uczciwie MALY, bo ozyl dopiero 07-26 (~5 dni): prowizja brokerska +5 (07-21) + ~3 marza koordynacyjna niedolumpowana = ~8 jel korytarza. Bursztyn/futra do Braavos = 0 w lipcu (50 jel poszly w underwriting nie w bursztyn, edge rozruchowy; zysk Braavos dojrzewa tygodniami). +3 -> sakiewka 100->103. OD SIERPNIA korytarz = pelny filar (caly miesiac importu sukna + pierwsze zwroty bursztynu/futer + nisza Miry).

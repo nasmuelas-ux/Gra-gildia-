@@ -51,7 +51,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 
 ## LUDZIE NA SCENIE (nast. do gracza)
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 70
-- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 73
+- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 75
 - **Bran** (bran_tragarz) — dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/ · nast 89
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 90
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 37

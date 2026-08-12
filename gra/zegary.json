@@ -384,6 +384,12 @@
       "odlicza_do": "297-08-XX (~kilka tyg)",
       "typ": "proces",
       "opis": "297-07-24 (rzut 67): ekspansja dostaw drewna na zamek na ZDROWEJ bazie. Bennet sam dobiera rece + zaprzeg przeciw gwarantowanemu off-take zamku (kapital-light dla Symona). Pojemnosc narasta kilka tyg (rekrutacja/wozy/schniecie drog po nawrocie). Gdy online -> filar drewna rosnie dalej. Symon: koordynacja + STALY kontakt z Bennetem (nie znikac - lekcja bazy). Bennet 68->72/20->23."
+    },
+    {
+      "id": "aldous_zapal_wino_firewall",
+      "odlicza_do": "dni",
+      "typ": "zagrozenie",
+      "opis": "297-07-29: Aldous (lojalny, chce sie odwdzieczyc) SAM rusza z pomyslem wina-w-siec - notka, ze pogada ze SWOIM DOSTAWCA (=orbita Antaryona) o wiekszych partiach i przyniesie gotowe. Kieruje sie prosto tam, gdzie firewall zakazuje mid-limbo. TRZEBA GLADKO POWSTRZYMAC bez wyjasniania (nie mozna zdradzic Antaryona/Banku). Ryzyko: Aldous entangluje sie/Symona z orbita wlasnie gdy machina Banku ja szturmuje. Do opanowania dyskretnie."
     }
   ]
 }

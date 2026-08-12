@@ -357,9 +357,9 @@
     },
     {
       "id": "zamek_zaopatrzenie_ekspansja_lead",
-      "odlicza_do": "LEAD - inbound 08-09 (Godric: wiecej wolumenu sezonu)",
-      "typ": "okazja",
-      "opis": "297-08-09 RANEK (inbound 68): Godric (zarzadca zamku, 92/38) przez kanal brokerski przyslal slowo - sezon budowlany wchodzi w faze wiekszego zapotrzebowania: WAPNO, PLOTNO/plotno zaglowe, dodatkowe OKUCIA. Zaprasza operacje Symona do pokrycia INKREMENTU (spojne z intelem Torhena 08-07). OKAZJA: rozszerzyc zaopatrzenie zamku poza 3 obecne filary (drewno/prowiant/zelazo) o nowe pasma. Kapital-light (off-take zamku). FIREWALL/OPSEC: rosnie profil u dworu - grac szaro, rozwazyc puszczenie czesci przez firme/Hala (rada Nesty/Torhena o widocznosci). Zawisc ustalonych dostawcow (1-2 szemrza, Torhen 08-07). NEXT: decyzja gracza - podjac/skalowac ktore pasmo, jak dyskretnie."
+      "odlicza_do": "URUCHOMIONE 08-09 przez firme/Hala (4. pasmo zamkowe, recurring ramp)",
+      "typ": "filar/proces",
+      "opis": "297-08-09 RANEK (inbound 68): Godric (zarzadca zamku, 92/38) przez kanal brokerski - sezon budowlany wchodzi w faze wiekszego zapotrzebowania: WAPNO, PLOTNO zaglowe, dodatkowe OKUCIA. Zaprasza operacje Symona. || 297-08-09 POLUDNIE (rzut 87, przez HALA): URUCHOMIONE CZYSTO. Pasma: (a) OKUCIA = przedluzenie filaru zelaznego (Boren/kolodzieje juz kuja, podniesc wolumen budowlany); (b) PLOTNO ZAGLOWE = w kanal sukienny (wolumen LEONY, inne pasmo niz delikatne sukno korytarza -> NIE dotyka klopotu Miry); (c) WAPNO = jedyne nowe pasmo, Hal sam domknal dostawce (wapiennik za miastem), Symon cicho doradzil miare/umowe. HAL FRONTS jako FIRMA (neutralne biuro) do Godrica - nazwisko Symona NIE na nowych ksiegach zamku (przyrost lapie 'firma' nie 'ten skryba'). PODWOJNA WYGRANA: 4. pasmo zaopatrzenia + profil Symona u dworu SZARY (grey-play dziala; szemrzacym trudniej celowac w mgle firmy niz w jedno nazwisko). Kapital-light (off-take Godrica). Marze per dostawa (recurring, wejda przy ramp). HAL: awans w praktyce - fronts ekspansje, pewnosc/kompetencja rosna (dzwignia mistrza przez ucznia). NEXT: marze ksieguja sie per dostawa gdy pasma rusza."
     },
     {
       "id": "most_merek_zamek_prowiant",

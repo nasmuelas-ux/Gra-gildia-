@@ -335,7 +335,7 @@
       "id": "agregat_dowodowy_zbieranie",
       "odlicza_do": "297-07-2X",
       "typ": "proces",
-      "opis": "Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/przekrawanie, Symon doglada z boku. Pasma gestnieja z kazda ksiega; przy bankowej gestosci -> produkt gotowy do Belarna. Dni-tygodnie, w rytmie splywajacych retainerow. Firewall caly. || 297-07-16 POPOL (rzut 37, doglad): Hal trzyma rytm - kilka ksiag retainerowych zlozonych, metoda na nowej granulacji dziala, pasma gestnieja. WRINKLE dobrze obsluzony: jedna ksiega z LUKA (kupiec niepelny), Hal NIE zgadl - zaflagowal; Symon: uzyc tylko czystego, nie forsowac (luka nie zaklamie wzoru). Postep solidny, NA TORZE, ale bankowa gestosc dopiero za DNI zbierania. Hal dojrzewa. || 07-18: ksiegi Mereka (dostawca nadbijal - echo wzoru Antaryona) to material zrodlowy do gestosci agregatu; Symon notuje cicho, chroni zrodlo (firewall). || 07-21: Hal melduje - gestosc pasm rosnie stabilnie (kolejne ksiegi retainerowe zlozone); metoda dziala, do bankowej gestosci jeszcze dni zbierania."
+      "opis": "Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/przekrawanie, Symon doglada z boku. Pasma gestnieja z kazda ksiega; przy bankowej gestosci -> produkt gotowy do Belarna. Dni-tygodnie, w rytmie splywajacych retainerow. Firewall caly. || 297-07-16 POPOL (rzut 37, doglad): Hal trzyma rytm - kilka ksiag retainerowych zlozonych, metoda na nowej granulacji dziala, pasma gestnieja. WRINKLE dobrze obsluzony: jedna ksiega z LUKA (kupiec niepelny), Hal NIE zgadl - zaflagowal; Symon: uzyc tylko czystego, nie forsowac (luka nie zaklamie wzoru). Postep solidny, NA TORZE, ale bankowa gestosc dopiero za DNI zbierania. Hal dojrzewa. || 07-18: ksiegi Mereka (dostawca nadbijal - echo wzoru Antaryona) to material zrodlowy do gestosci agregatu; Symon notuje cicho, chroni zrodlo (firewall). || 07-21: Hal melduje - gestosc pasm rosnie stabilnie (kolejne ksiegi retainerowe zlozone); metoda dziala, do bankowej gestosci jeszcze dni zbierania. || 07-22: skupiona sesja (Symon+juniorzy) - metoda dociagnieta, gestosc pasm wyraznie w gore; do bankowej gestosci jeszcze troche wolumenu (kilka dni ksiag), ale blisko."
     },
     {
       "id": "lord_odpowiedz_petycja",
@@ -383,7 +383,7 @@
       "id": "firma_capacity_3reka",
       "odlicza_do": "otwarty",
       "typ": "decyzja",
-      "opis": "297-07-22: firma NAPELNIONA - 6 retainerow (Aurane/Blok/Faktoria/Torhen/Rollam/Harlon) + 3 filary zamkowe + agregat + follow-upy (Vox). Hal/Wick AT CAPACITY. Dalszy wzrost = SUFIT CZASU (czas Symona/juniorow). DECYZJA dojrzewa: 3. reka (promowac/najac juniora, wiazac UDZIALEM nie pensja wg Nesty) albo trzymac tempo. Model dzwigni na progu skalowania."
+      "opis": "297-07-22: firma NAPELNIONA - 6 retainerow (Aurane/Blok/Faktoria/Torhen/Rollam/Harlon) + 3 filary zamkowe + agregat + follow-upy (Vox). Hal/Wick AT CAPACITY. Dalszy wzrost = SUFIT CZASU (czas Symona/juniorow). DECYZJA dojrzewa: 3. reka (promowac/najac juniora, wiazac UDZIALEM nie pensja wg Nesty) albo trzymac tempo. Model dzwigni na progu skalowania. || 07-22 (rzut 86): ROZWIAZANIE SKRYSTALIZOWANE - pracujac ramie w ramie Symon zobaczyl, ze HAL GOTOWY do awansu (pewnie ogarnia zlozonosc). PLAN: promowac HALA na prowadzacego rutynowe biurko (wiazac UDZIALEM per Nesta), NAJAC swiezego juniora POD NIEGO. Lepsze niz obcy - mistrz mnozy sie przez ucznia (jak Nesta->Symon). NEXT: dopiac awans Hala + rekrutacja."
     }
   ]
 }

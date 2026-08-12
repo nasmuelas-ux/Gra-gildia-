@@ -5894,3 +5894,6 @@ Symon zjadl porzadna wieczerze i odpoczal przed noca (sytosc 22->58, zmeczenie 4
 
 ## 297-08-07 RANEK - sen -> ranek (TIK SWIATA)
 Symon przespal spokojna noc: zmeczenie 30->6, sytosc 58->38, zdrowie 100. Ranek pogodny/cieply po wczorajszym szkwale, port nadrabia zaleglosc wyladunkow. PRZYCHODZACE: cicho (inbound 31) - drobne echo: reszta zelaza rozladowana czysto, Boren zaczal obrobke okuc dla zamku. Sprawa wdowy: w rekach Torrena/Wiary, tempem Wiary (rzut 38 - Torren przedstawil karte, lichwiarz przyparty, domkniecie sie zblizA bez dramatu). Bank limbo - cicho. 3 filary miela.
+
+## 297-08-07 POLUDNIE - sprawa wdowy ZAMKNIETA POZYTYWNIE
+Symon zjadl (sytosc 38->58) i poszedl do Torrena domknac wdowe. Rzut 66. Lichwiarz zwlekał (liczyl ze Wiara odpusci/wdowa sie zlamie), ale Symon przyszedl z PELNA KARTA + planem: udokumentowane pierwotne warunki + zywy swiadek + wzor recydywy -> lichwiarz SKLADA SIE. Restrukturyzacja dlugu do uczciwej kwoty na prosty procent, doklejony nadmiar DAROWANY. Wdowa placi tylko realny dlug meza, zatrzymuje dach; nie wie czyje pioro ja ocalilo (Symon niewidzialny architekt). Oslona Wiary wzmocniona. Prawo w sluzbie slabszemu = etyka Symona. prawo 198->199. sytosc 58->50, zmeczenie 6->14. Pora RANEK->POLUDNIE. Zegar sprawa_wdowy_rybi_zaulek ZAMKNIETY.

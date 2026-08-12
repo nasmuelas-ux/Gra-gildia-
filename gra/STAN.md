@@ -2,14 +2,14 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-22 POPOLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-22 WIECZOR · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
 - **Nastroje:** 297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowe
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 52 jeleni + 4 mied + 0 smokow
+- **Wolne:** 57 jeleni + 4 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -21,7 +21,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia.
 - Retainery firmy (staly przychod, Hal rutyna + pieczec Symona): AURANE (premium) + FAKTORIA Nesty (weryfikacja, pole rampu Hala) + BLOK-RDZEN (Aldous+Harlon, weryfikacja=grosz+cement obrony; rosnie od jadra). Firewall-czyste. Dochod niezalezny od godzin.
 - Udzial w wykupie dlugu Aldousa (~28 jel, blok): fair refinance - Aldous winien blokowi na przyjacielskich warunkach (odzyskiwalne, nie strata).
-- Prowiant-marza (Merek->broker->zamek): DRUGI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 66). Merek dostarcza, Symon koordynuje, zamek bierze INKREMENT SEZONU BUDOWLANEGO (prowiant dla ekip - baseline zamku zostaje u obecnych, Symon lapie sezonowy surge). Marza per dostawa (cienszy staple niz drewno, ale recurring), kapital-light (pre-sold). Roznicznik Symona = oko jakosci/pewnosc (graded, niezawodny prowiant dla budowy). Ksieguj marze per dostawa.
+- Prowiant-marza (Merek->broker->zamek): DRUGI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 66). Merek dostarcza, Symon koordynuje, zamek bierze INKREMENT SEZONU BUDOWLANEGO (prowiant dla ekip - baseline zamku zostaje u obecnych, Symon lapie sezonowy surge). Marza per dostawa (cienszy staple niz drewno, ale recurring), kapital-light (pre-sold). Roznicznik Symona = oko jakosci/pewnosc (graded, niezawodny prowiant dla budowy). Ksieguj marze per dostawa. [07-22: HARLON (solarz/zapasy) dodany jako 2. wezel podazy obok Mereka - sol+suchy prowiant, filar robustniejszy/skalowalny]
 - Zelazo/okucia-marza (Gulltown->Boren->zamek): TRZECI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 82). Popyt: zamek na budowe (gwozdzie/okucia/zelazo, Torhen/Godric); Zrodlo: korespondent Gulltown (tanie u zrodla, trasa wschodnia Bite/Gulltown); Obrobka: Boren/kolodzieje (raw->okucia, zyskuja tanie zelazo); Symon koordynuje/skim. KAPITAL-LIGHT: off-take zamku (pre-commit) + komis/kredyt korespondenta = niski cash Symona. Marza per partia (grubsza niz prowiant/staple). 1. partia = LEAD TIME ~1-2 tyg (trasa wschodnia, zalezna od pogody - wiosna lepsza). Pasywny bleed Antaryona trwa (graded supply off jego frachtu).
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
@@ -29,7 +29,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - _Cykliczne (zmiatane w Dniu Bilansu):_
     - draw_wspolnika_nesta: 6 jel/mies (spolka Nesty) - KANON. Do kasy w Dniu Bilansu
     - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
-    - oplaty_retainerow_udzial_symona: Retainery firmy 15 jel/mies brutto (Aurane 4 + Blok 3 + Faktoria 2 + Torhen 3 + Rollam 3) - 5 jel place juniorow = firma netto 10 jel; UDZIAL SYMONA 2/3 = ~7 jel/mies (+ zmienne per-zlecenie)
+    - oplaty_retainerow_udzial_symona: Retainery firmy 18 jel/mies brutto (Aurane 4 + Blok 3 + Faktoria 2 + Torhen 3 + Rollam 3 + Harlon 3) - 5 jel place juniorow = firma netto 13; UDZIAL SYMONA 2/3 = ~9 jel/mies. UWAGA: juniorzy Hal/Wick AT CAPACITY - dalszy wzrost wymaga 3. reki
 - _Per-zdarzenie (ksiegowane przy zdarzeniu):_
     - drewno_marza: NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)
     - weksle_procent_i_zwrot: 100 jel niezab.(procent) + 50 jel zab.(kapital+procent, term ~06-05+). Wend/pilot: kapital+procent gdy wroca wiosenne naleznosci. Ksieguj w terminie zapadalnosci/rolowania
@@ -39,7 +39,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - prowiant_marza: Marza koordynacyjna z dostaw prowiantu Merek->zamek (sezon budowlany). Ksieguj per dostawa. Recurring, cienszy niz drewno.
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 38 · Zmeczenie 20
+- Zdrowie 100 · Sytosc 32 · Zmeczenie 26
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -113,6 +113,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `297-08-0X (~1-2 tyg)` zelazo_gulltown_budowlane_partia: 297-07-20: 1. partia zelaza/okuc pod sezon budowlany zamku zamowiona u korespondenta Gulltown (off-take zamku 
 - ◆ `do zniw (tygodnie)` relief_rozdzial_przednowek: 297-07-21: rozdzial reliefu lorda (ziarno/opal) administruje Wiara; Symon ustawil CZYSTY SYSTEM dystrybucji (r
 - ◆ `otwarty` vox_audyt_follow: 297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atr
+- ◆ `otwarty` firma_capacity_3reka: 297-07-22: firma NAPELNIONA - 6 retainerow (Aurane/Blok/Faktoria/Torhen/Rollam/Harlon) + 3 filary zamkowe + ag
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

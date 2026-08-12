@@ -8,11 +8,11 @@
   "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
-  "sytosc": 38,
-  "zmeczenie": 20,
+  "sytosc": 32,
+  "zmeczenie": 26,
   "sakiewka": {
     "miedziaki": 4,
-    "jelenie": 52,
+    "jelenie": 57,
     "smoki": 0
   },
   "dobytek": [
@@ -165,12 +165,12 @@
     "wspol_underwriting": "Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia.",
     "retainery_firmy": "Retainery firmy (staly przychod, Hal rutyna + pieczec Symona): AURANE (premium) + FAKTORIA Nesty (weryfikacja, pole rampu Hala) + BLOK-RDZEN (Aldous+Harlon, weryfikacja=grosz+cement obrony; rosnie od jadra). Firewall-czyste. Dochod niezalezny od godzin.",
     "udzial_wykup_aldous": "Udzial w wykupie dlugu Aldousa (~28 jel, blok): fair refinance - Aldous winien blokowi na przyjacielskich warunkach (odzyskiwalne, nie strata).",
-    "prowiant_marza_zamek": "Prowiant-marza (Merek->broker->zamek): DRUGI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 66). Merek dostarcza, Symon koordynuje, zamek bierze INKREMENT SEZONU BUDOWLANEGO (prowiant dla ekip - baseline zamku zostaje u obecnych, Symon lapie sezonowy surge). Marza per dostawa (cienszy staple niz drewno, ale recurring), kapital-light (pre-sold). Roznicznik Symona = oko jakosci/pewnosc (graded, niezawodny prowiant dla budowy). Ksieguj marze per dostawa.",
+    "prowiant_marza_zamek": "Prowiant-marza (Merek->broker->zamek): DRUGI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 66). Merek dostarcza, Symon koordynuje, zamek bierze INKREMENT SEZONU BUDOWLANEGO (prowiant dla ekip - baseline zamku zostaje u obecnych, Symon lapie sezonowy surge). Marza per dostawa (cienszy staple niz drewno, ale recurring), kapital-light (pre-sold). Roznicznik Symona = oko jakosci/pewnosc (graded, niezawodny prowiant dla budowy). Ksieguj marze per dostawa. [07-22: HARLON (solarz/zapasy) dodany jako 2. wezel podazy obok Mereka - sol+suchy prowiant, filar robustniejszy/skalowalny]",
     "zelazo_okucia_marza_zamek": "Zelazo/okucia-marza (Gulltown->Boren->zamek): TRZECI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 82). Popyt: zamek na budowe (gwozdzie/okucia/zelazo, Torhen/Godric); Zrodlo: korespondent Gulltown (tanie u zrodla, trasa wschodnia Bite/Gulltown); Obrobka: Boren/kolodzieje (raw->okucia, zyskuja tanie zelazo); Symon koordynuje/skim. KAPITAL-LIGHT: off-take zamku (pre-commit) + komis/kredyt korespondenta = niski cash Symona. Marza per partia (grubsza niz prowiant/staple). 1. partia = LEAD TIME ~1-2 tyg (trasa wschodnia, zalezna od pogody - wiosna lepsza). Pasywny bleed Antaryona trwa (graded supply off jego frachtu)."
   },
   "licznik_uzyc": {
-    "audyt": 6,
-    "rachunki": 6,
+    "audyt": 7,
+    "rachunki": 7,
     "pismo": 4,
     "handel": 6,
     "organizacja": 4
@@ -183,7 +183,7 @@
     "strumienie_cykliczne_miesieczne": {
       "draw_wspolnika_nesta": "6 jel/mies (spolka Nesty) - KANON. Do kasy w Dniu Bilansu",
       "czynsz_kamieniczki": "9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies",
-      "oplaty_retainerow_udzial_symona": "Retainery firmy 15 jel/mies brutto (Aurane 4 + Blok 3 + Faktoria 2 + Torhen 3 + Rollam 3) - 5 jel place juniorow = firma netto 10 jel; UDZIAL SYMONA 2/3 = ~7 jel/mies (+ zmienne per-zlecenie)"
+      "oplaty_retainerow_udzial_symona": "Retainery firmy 18 jel/mies brutto (Aurane 4 + Blok 3 + Faktoria 2 + Torhen 3 + Rollam 3 + Harlon 3) - 5 jel place juniorow = firma netto 13; UDZIAL SYMONA 2/3 = ~9 jel/mies. UWAGA: juniorzy Hal/Wick AT CAPACITY - dalszy wzrost wymaga 3. reki"
     },
     "strumienie_per_zdarzenie": {
       "drewno_marza": "NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)",
@@ -195,13 +195,14 @@
       "zelazo_okucia_marza": "Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant."
     },
     "koszty_cykliczne_uwaga": "Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.",
-    "baseline_miesieczny_do_kasy": "~20 jel/mies (czynsz netto 7 + udzial firmy ~7 + draw 6) + per-zdarzenie upside - podatek_miejski",
+    "baseline_miesieczny_do_kasy": "~22 jel/mies (czynsz netto 7 + udzial firmy ~9 + draw 6) + per-zdarzenie upside - podatek_miejski. CAPACITY: 6 retainerow+filary+agregat = firma pelna, Hal/Wick napieci",
     "retainery_szczegol": {
       "Aurane": "4 jel/mies (premium)",
       "Blok": "3 jel/mies (pula kupcow)",
       "Faktoria": "2 jel/mies (w sieci)",
       "Torhen": "3 jel/mies (UPGRADE 07-18 z 2 - Torhen ocieplony, pelniejszy angaz)",
-      "Rollam": "3 jel/mies (NOWY 07-22 - konwersja z one-off na retainer, wiekszy faktor)"
+      "Rollam": "3 jel/mies (NOWY 07-22 - konwersja z one-off na retainer, wiekszy faktor)",
+      "Harlon": "3 jel/mies (NOWY 07-22 - solarz/zapasy, ceni prawde; TEZ wezel podazy prowiantu/soli dla filaru zamkowego)"
     }
   }
 }

@@ -335,7 +335,7 @@
       "id": "agregat_dowodowy_zbieranie",
       "odlicza_do": "297-07-2X",
       "typ": "proces",
-      "opis": "Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/przekrawanie, Symon doglada z boku. Pasma gestnieja z kazda ksiega; przy bankowej gestosci -> produkt gotowy do Belarna. Dni-tygodnie, w rytmie splywajacych retainerow. Firewall caly."
+      "opis": "Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/przekrawanie, Symon doglada z boku. Pasma gestnieja z kazda ksiega; przy bankowej gestosci -> produkt gotowy do Belarna. Dni-tygodnie, w rytmie splywajacych retainerow. Firewall caly. || 297-07-16 POPOL (rzut 37, doglad): Hal trzyma rytm - kilka ksiag retainerowych zlozonych, metoda na nowej granulacji dziala, pasma gestnieja. WRINKLE dobrze obsluzony: jedna ksiega z LUKA (kupiec niepelny), Hal NIE zgadl - zaflagowal; Symon: uzyc tylko czystego, nie forsowac (luka nie zaklamie wzoru). Postep solidny, NA TORZE, ale bankowa gestosc dopiero za DNI zbierania. Hal dojrzewa."
     },
     {
       "id": "lord_odpowiedz_petycja",

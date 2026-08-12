@@ -19,7 +19,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Drewno-marza (Bennet->broker->zamek): ~2 jel naliczone dotad, NARASTA per dostawa; rozliczac przy dostawach / w stalej umowie (spotk. ~06-29)
 - Pozycja na soli: parcela spekulacyjna w kufrze Nesty (do sprzedania przy dobrym oknie)
 - Firma faktorska: 2/3 udzialu + kontrola (rejestracja rady w toku); +1/3 z transakcji w kantorze
-- Zdrowie 100 · Sytosc 58 · Zmeczenie 12
+- Zdrowie 100 · Sytosc 50 · Zmeczenie 18
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8

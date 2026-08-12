@@ -9,10 +9,10 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 50,
- "zmeczenie": 18,
+ "zmeczenie": 22,
  "sakiewka": {
   "miedziaki": 4,
-  "jelenie": 121,
+  "jelenie": 56,
   "smoki": 0
  },
  "dobytek": [
@@ -161,6 +161,7 @@
   "rotacja_faktorii": "Rotacja faktorii Nesty (zboze-sol): ~250 jel w obrocie, plon per cykl",
   "drewno_marza_narasta": "Drewno-marza (Bennet->broker->zamek): ~2 jel naliczone dotad, NARASTA per dostawa; rozliczac przy dostawach / w stalej umowie (spotk. ~06-29)",
   "pozycja_soli": "Pozycja na soli: parcela spekulacyjna w kufrze Nesty (do sprzedania przy dobrym oknie)",
-  "firma_udzial": "Firma faktorska: 2/3 udzialu + kontrola (rejestracja rady w toku); +1/3 z transakcji w kantorze"
+  "firma_udzial": "Firma faktorska: 2/3 udzialu + kontrola (rejestracja rady w toku); +1/3 z transakcji w kantorze",
+  "wspol_underwriting": "Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia."
  }
 }

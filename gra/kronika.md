@@ -5792,3 +5792,6 @@ Slusznie: udzial u Nesty to nie flat 6 jel. Struktura: (1) baza+draw 6 [staly], 
 
 ## 297-08-01 - KOREKTA 3 (gracz: import sukna/korytarz)
 Korytarz wydzielony z lumpu. LIPIEC uczciwie MALY, bo ozyl dopiero 07-26 (~5 dni): prowizja brokerska +5 (07-21) + ~3 marza koordynacyjna niedolumpowana = ~8 jel korytarza. Bursztyn/futra do Braavos = 0 w lipcu (50 jel poszly w underwriting nie w bursztyn, edge rozruchowy; zysk Braavos dojrzewa tygodniami). +3 -> sakiewka 100->103. OD SIERPNIA korytarz = pelny filar (caly miesiac importu sukna + pierwsze zwroty bursztynu/futer + nisza Miry).
+
+## 297-08-01 - Inwestycje: underwriting ->150, rotacja ->302
+Symon zdeploylowal plynnosc z Bilansu: podniesienie underwritingu ~105->150 (+45) i rotacji ~262->302 (+40) = -85 jel z kasy, sakiewka 103->18. Underwriting: model zdal severe storm, premia wraca w spokojne miesiace - Nesta: 150 wciaz roztropny lewar przy cash-flow, ale nie pchac wyzej bez wiekszego bufora (nauka po czerwonym sztormie). Rotacja ->302 = grubszy plon per cykl. Wolne 18 jel (cienko, ale cash-flow ~22+/mies utrzyma; majatek agresywnie w pozycjach).

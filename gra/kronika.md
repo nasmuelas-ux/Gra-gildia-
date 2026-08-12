@@ -5528,3 +5528,6 @@ Zjadłem, siadłem z Halem nad księgami. Przekrawanie agregatu na nową granula
 
 ## 297-07-15 POŁUDNIE (b) — Puszczam agregat w rytm faktorii, sam wolny
 Symon oddał zbieranie i przekrawanie ksiąg Halowi — faktoria robi to w swoim rytmie, retainer po retainerze, on tylko dogląda z boku. Uwolnił sobie czas na inne fronty. (Zegar tła: agregat_dowodowy_zbieranie.)
+
+## 297-07-15 POPOŁUDNIE — Doglądam Aldousa (rzut 82)
+Zastałem Aldousa na nogach — bledszy niż zwykle, ale interes ustał się pod tarczą bloku, wykup długu trzyma, pętla zerwana. Przyjął mnie jak wybawcę: wie już dokładnie, że to blok (i moja ręka za nim) wyciągnął go z dławienia. Wdzięczność szczera, głęboka — i rozwiązała mu język. Sam, bez pytania, opisał, **kto** wykupił jego stary weksel i jak ściągał: broker-front z zasięgiem, terminy i metoda, które kładą się jeden w jeden na wzór orbity Antaryona konsolidującej smycz na kupcach. Nie ma czystego nazwiska — front zasłonięty — ale kierunek Nesty potwierdził się teraz niezależnie, z drugiej strony. Aldous ślubował lojalność, ofiarował swoje księgi i pozycję do naszego kręgu. Ja zebrałem, uspokoiłem, o Banku i agregacie ani słowa. Zaufanie Aldousa 26→40, nastawienie 92→93. Zmęczenie 24, popołudnie.

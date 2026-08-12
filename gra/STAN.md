@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowe
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 31 jeleni + 4 mied + 0 smokow
+- **Wolne:** 34 jeleni + 4 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -83,7 +83,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `?` draw_nesta: Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt. || 297-02-19: ODPALIL - draw wspolnika 6 jel wpl
 - ◆ `?` harwin_zemsta_czujnosc: Harwin/Cech Pisarzy przegrali publicznie i zostali upokorzeni; przy przysiedze Harwin rzucil zawoalowana grozb
 - ◆ `?` podatek_miejski: Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg maj
-- ◆ `None` weksel_pilot_wynik: Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli spl
+- ◆ `SPLACONY (wiosenne naleznosci Wenda weszly)` weksel_pilot_wynik: SPLACONY - PELNY SUKCES (07-31 reconciliacja): Wend splacil pilotazowy weksel gdy wroly jego wiosenne naleznos
 - ◆ `?` polnoc_halvard_wiesci: Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym 
 - ◆ `297-03-25` dach_ukonczenie: Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Sal
 - ◆ `297-04-05` polnoc_pierwsze_tratwy: Pierwsze wiosenne tratwy Halvarda w dol Bialego Noza (drewno/skory/futra) gdy rzeka pusci calkiem. Podaz niena

@@ -128,12 +128,12 @@
     },
     {
       "id": "weksel_pilot_wynik",
-      "opis": "Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli splaci - MECHANIZM DOWIEDZIONY (pelny sukces + reputacja brokera); jesli nie - Symon egzekwuje zastaw (towar) + kantor podpiera (ryzyko male, ograniczone). Ostateczny dowod uslug kredytowych. || 297-03-10 (rzut 17): Wend NIE splacil w terminie - DEFAULT Z TIMINGU (wiosenne naleznosci opoznione wolna odwilzia, statek/dluznik w drodze; NIE oszustwo). MECHANIZM ZADZIALAL jako ubezpieczenie: zastaw(towar)+kantor=ryzyko Symona OGRANICZONE, nie traci. Dowod: domena sprawdzona nie brakiem defaultow lecz bezpiecznym przetrwaniem defaultu. ALE czysty dochodowy pilot NIEpotwierdzony -> workout. DECYZJA PENDING: (1) egzekwowac zastaw (szybko/czysto/deterrent, ale twardy cios w zdesperowanego, ryzyko reputacji twardego wierzyciela) vs (2) restrukturyzowac/przedluzyc (przyzwoite, imie sprawiedliwego, ale kapital zamrozony dluzej) vs pośrednie (przedluzyc pod warunkiem/drobna oplata). || 297-04-28 (decyzja gracza: POSREDNIO): Wend splaca czesc teraz, reszta przedluzona POD DROBNA OPLATA za zwloke, zastaw trzymany do pelnej splaty. Symon marza brokerska +3 jel zrealizowana. MECHANIZM DOWIEDZIONY JAKO DOCHODOWY (ostatni brakujacy element pilota - kredyt broni sie I placi). Sprawiedliwy-a-nie-miekki wierzyciel: port rep +2 -> 30, Wend wdzieczny (nast +8). NEXT: reszta+oplata do nowiu (~05-12).  ||  297-05-12 (rzut 73): DOMKNIETY - Wend zaplacil reszte + oplate za zwloke, zastaw zwrocony. MECHANIZM DOWIEDZIONY JAKO DOCHODOWY (pilot pelne kolo: przetrwal default zimą bez straty + teraz zaplacil). +7 jel, port rep 31. Otwiera uslugi_kredytowe jako sprawdzony filar. || 297-06-26 ZAMKNIETY (rekoncyliacja grupa A): sprawa rozliczona miesiace temu, zegar byl martwa resztka. Nie wskrzeszac.",
+      "opis": "SPLACONY - PELNY SUKCES (07-31 reconciliacja): Wend splacil pilotazowy weksel gdy wroly jego wiosenne naleznosci (jak zaprojektowano). Kapital+procent wrocily; procent ~+3 jel do kasy, kapital w rotujaca ksiege wekslowa. MECHANIZM BROKERSKI DOWIEDZIONY: mostek-kredyt pod zastaw dziala end-to-end -> mozna SKALOWAC ksiege kredytowa z pewnoscia. Reputacja brokera +.",
       "odpala": "297-03-10",
       "typ": "ZAMKNIETY",
       "ROZSTRZYGNIETY": "297-03-10 (rzut 17): default z timingu, zastaw chroni Symona (nie traci); decyzja seize vs restructure PENDING",
       "co_sie_stanie": "do nowiu (~05-12): Wend domyka reszte weksla + drobna oplata za zwloke; pelny dochodowy dowod uslug kredytowych",
-      "odlicza_do": null,
+      "odlicza_do": "SPLACONY (wiosenne naleznosci Wenda weszly)",
       "status": "domkniety - dochodowy"
     },
     {

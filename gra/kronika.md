@@ -5774,3 +5774,6 @@ Trafilem na zly dzien: Serla zmeczona, przygaszona, przednowek ja zjada, a wczor
 
 ## 297-07-31 - KOREKTA (gracz): Serla samodzielna
 Cofniete cierpietnictwo Serli. Fakty: karmi chlopakow Symona (dochod) + ma lokatora, ktorego Symon jej znalazl (czynsz) = radzi sobie, NIE w potrzebie. Wizyta 07-31 (rzut 5) = po prostu flat/niska wartosc (zla godzina), bez hardshipu, bez nadziei na jalmuzne, bez szkody. Anty-dryf.
+
+## 297-07-31 - Reconciliacja: weksel pilotazowy Wenda SPLACONY
+Odhaczone (na sluszna uwage gracza): Wend splacil pilotazowy weksel, gdy wrocily jego wiosenne naleznosci - jak zaprojektowano. Kapital+procent wrocily; procent ~+3 jel do kasy (31->34), kapital w rotujaca ksiege wekslowa. MECHANIZM BROKERSKI DOWIEDZIONY end-to-end (mostek-kredyt pod zastaw dziala) -> ksiege kredytowa mozna skalowac z pewnoscia. Reszta weksli (drabinka) - rozliczenie procentu i zapadlych transz jutro na Dniu Bilansu.

@@ -5786,3 +5786,6 @@ Sztorm minal, siadlem z ksiega na pierwszy miesieczny bilans (07-01->08-01). CYK
 
 ## 297-08-01 - KOREKTA DNIA BILANSU (gracz: retainery + marza drewna)
 Slusznie zlapane: (1) drewno-marza byla zanizona - to flagowy filar (skalowany 1.5x, stala umowa, regularne dostawy), 12->25 jel za miesiac. (2) retainery rosly w trakcie (4->6) - per-sesje juz wpadly do kasy w miesiacu, cykliczny udzial firmy 7->8, a od 09-01 baseline wyzszy (6 retainerow pelny miesiac). Prowiant dolozy od nowego (wpiety 07-20), zelazo od dostawy ~08-03. POPRAWIONY Bilans: +56 do kasy (nie 42), sakiewka 34->90. Materialy dolozą grubiej w sierpniu.
+
+## 297-08-01 - KOREKTA 2 DNIA BILANSU (gracz: udzial u Nesty nie jest staly)
+Slusznie: udzial u Nesty to nie flat 6 jel. Struktura: (1) baza+draw 6 [staly], (2) 1/3 netto z transakcji Symona [skaluje], (3) rosnacy udzial w core-faktorii = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Bilans liczyl sam draw i uznal plon rotacji za w calosci reinwestowany - blad, czesc plonu to zwrot Symona z equity. Rozpoznano +10 jel udzialu partnerskiego (equity+1/3 nie-w-kasie) -> sakiewka 90->100. Na przyszlosc Bilans rozpoznaje pelny udzial partnerski, nie tylko flat draw.

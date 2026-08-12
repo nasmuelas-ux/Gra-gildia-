@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowe
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 90 jeleni + 4 mied + 0 smokow
+- **Wolne:** 100 jeleni + 4 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -29,7 +29,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-09-01 (ostatni: 297-08-01 (wykonany))
 - _Cykliczne (zmiatane w Dniu Bilansu):_
-    - draw_wspolnika_nesta: 6 jel/mies (spolka Nesty) - KANON. Do kasy w Dniu Bilansu
+    - draw_wspolnika_nesta: Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.
     - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
     - oplaty_retainerow_udzial_symona: Retainery firmy 18 jel/mies brutto (6 retainerow) - place/udzialy zespolu (Wick wage + TAM nowy junior wage + HAL teraz na UDZIALE nie pensji) ~ firma netto; UDZIAL SYMONA ~7 jel/mies. STRUKTURA od 07-28: Hal PROWADZI biurko na UDZIALE (fosa=interes wspolny, per Nesta), Tam junior pod Halem. Capacity odblokowane - firma moze brac wiecej retainerow.
 - _Per-zdarzenie (ksiegowane przy zdarzeniu):_

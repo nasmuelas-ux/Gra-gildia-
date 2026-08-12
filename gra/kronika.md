@@ -5855,3 +5855,6 @@ Symon poszedl cicho w Rybi Zaulek (Wenda + drobni ludzie) po to, czego rano brak
 
 ## 297-08-05 RANEK - sen -> ranek (TIK SWIATA)
 Symon przespal noc (wczesny sen z popoludnia): zmeczenie 36->6, sytosc 34->16 (skromna wieczerza + nocny spadek), zdrowie 100. Ranek pogodny, cieplo, stabilnie. PRZYCHODZACE: CISZA (inbound rzut 3) - nikt nie puka, spokojny poczatek dnia. Zelazo z Gulltown wciaz ~08-06 (jutro). Sprawa wdowy: karta w reku, ruch Wiary/Torrena dojrzewa (rzut 15 - jeszcze nie domkniete, dzien-dwa; bez komplikacji). Bank limbo - cicho.
+
+## 297-08-05 RANEK - jedzenie + rozmowa z Branem
+Symon zjadl porzadne sniadanie (sytosc 16->55) i zszedl pogadac z Branem po ludzku (jeden z jego prawdziwych ludzi, nie narzedzi). Rzut 37 - cieplo, spokojnie. Dom zdrowy (dach trzyma, ogrodek odbil). TEKSTURA: Osric (izba2, czeladnik) coraz blizej wyzwolin na majstra - za pare miesiecy pewnie ruszy na swoje -> wolna izba na horyzoncie, planowac stabilnego nastepce (zasada Miry: staly>max czynsz). Jonna wrosla/wdzieczna, Hal dokłada spokoju. Bran: podniesiona pensja wystarcza, w zaulku wiedza ze u Symona sluzba nie gloduje (cichy kapital dobrego imienia). zmeczenie 6->10.

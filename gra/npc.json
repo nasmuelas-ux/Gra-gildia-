@@ -686,8 +686,8 @@
       "id": "kupiec_vox",
       "imie": "Vox",
       "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
-      "nastawienie_do_gracza": 71,
-      "ostatni_kontakt": "297-06-14",
+      "nastawienie_do_gracza": 76,
+      "ostatni_kontakt": "297-07-22",
       "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
       "wie_o_graczu": [
         "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -724,7 +724,7 @@
         "rozglos/wstyd"
       ],
       "dlugi": [],
-      "zaufanie": 25,
+      "zaufanie": 30,
       "status": "ZAANGAZOWANY SOJUSZNIK: z kalkulujacego obserwatora przeszedl w aktywne poparcie — widzi wlasny interes (stabilny port; zly precedens, gdy obcy wierzyciel dusi kupca portowego). Publicznie stanal za kantorem = de facto pobłogoslawil partnerstwo Symon-Nesta. Uchylil drzwi do drobnego mostka kupieckiego na styk raty.",
       "historia": [
         "m11d11: cieply-dosc kontakt; Vox trzyma TWARDO (wlasny interes: stabilny port, zly na dystorsje sieci Antaryona). Ale szczwany kupiec potwierdza fray: miekcy kupcy nerwuja sie NIE tylko od zimy, lecz od PRZEDLUZAJACEGO SIE bezruchu — standing wisi dlugo bez rozstrzygniecia, tchorze zaczynaja watpic czy cos w ogole ruszy. Nast 37->39.",

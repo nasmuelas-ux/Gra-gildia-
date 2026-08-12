@@ -372,6 +372,12 @@
       "odlicza_do": "do zniw (tygodnie)",
       "typ": "proces",
       "opis": "297-07-21: rozdzial reliefu lorda (ziarno/opal) administruje Wiara; Symon ustawil CZYSTY SYSTEM dystrybucji (rejestry potrzebujacych, przydzialy, kontrola przeciw skim/faworyzacji - jego edge). Ongoing przez tygodnie do zniw. Czyste dobro, wzmacnia cover/Wiare. Symon doglada rejestrow z boku (nie codziennie)."
+    },
+    {
+      "id": "vox_audyt_follow",
+      "odlicza_do": "otwarty",
+      "typ": "okazja",
+      "opis": "297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atrybucje (ktory dostawca/wspolnik) + dowod do restytucji. Zamkniecie = wdzieczny klient + fee + referrer. Mozliwe echo wzoru sukna (firewall/agregat - cicho)."
     }
   ]
 }

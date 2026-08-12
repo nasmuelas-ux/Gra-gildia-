@@ -5846,3 +5846,6 @@ Symon przespal noc w izbie 4 (zmeczenie 30->6, sytosc 30->14, zdrowie 100). Rane
 
 ## 297-08-04 RANEK - jedzenie
 Symon zjadl spokojne poranne sniadanie (chleb, ryba z targu/Septy), sytosc 14->58. Bez zdarzen - cichy poczatek dnia.
+
+## 297-08-04 POLUDNIE - pomoc Torrenowi (prawo Septy) + sprawa wdowy
+Poranek: Symon u Torrena uporzadkowal prawno-ksiegowa strone reliefu lorda (rejestry/przydzialy/pokwitowania, anty-skim) - rzut 57, czyste dobro, wzmacnia oslone Wiary. Poludnie: wzial pod pioro sprawe ubogiej wdowy z Rybiego Zaulka (metny dlug po mezu u lichwiarza) - rzut 27. Odczyt ostry: procent PODBITY (zdzierstwo realne), ALE nie czysta karta - pierwotny dlug prawdziwy, nadmiar owiniety celowo krzywa reka; bez oryginalnych warunkow/swiadka/sladu w ksiedze trudno rozdzielic uczciwy dlug od zdzierstwa. Gdyby Wiara stanela dzis, lichwiarz wyciagnie 'podpisany' papier -> szkoda kobiecie i Septy. Roztropnosc: nie forsowac; Symon popyta cicho przez siec o pierwotne warunki, Torren przygotuje wdowe ze potrwa dzien-dwa. Echo lekcji wzor!=karta. Symon: prawo 197->198, audyt 163->164. zmeczenie 18->28, sytosc 48->42. Zegar sprawa_wdowy_rybi_zaulek zawiazany.

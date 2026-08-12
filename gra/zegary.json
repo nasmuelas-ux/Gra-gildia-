@@ -380,6 +380,12 @@
       "opis": "297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atrybucje (ktory dostawca/wspolnik) + dowod do restytucji. Zamkniecie = wdzieczny klient + fee + referrer. Mozliwe echo wzoru sukna (firewall/agregat - cicho). || 07-23 (przygotowanie+weryfikacja, rzut 24 sukces z kosztem): Symon PRZYGOTOWAL SIE i SAM POTWIERDZIL finding ZANIM cokolwiek zrobil z Voxem. ATRYBUCJA NAILED: to DOSTAWCA SUKNA Voxa systematycznie zanizal miare/gatunek; dowod dosc twardy na restytucje+ciecie. KOSZT/KOMPLIKACJA (prywatnie zauwazona przez Symona, Vox NIE wie): ten dostawca to ZNAJOMY KSZTALT - to samo strzyzenie miary co w szerszym WZORZE SUKNA, ktory Symon sledzi ku BANKOWI. Puszczenie Voxa GLOSNO/publicznie = szarpniecie nitka firewalla. DECYZJA WSTRZYMANA - gracz trzyma finding, jeszcze NIC nie powiedzial Voxowi, czeka na wlasna decyzje jak to rozegrac. Fee NIE pobrane (przed rozstrzygnieciem)."
     },
     {
+      "id": "sprawa_wdowy_rybi_zaulek",
+      "odlicza_do": "otwarta (dni)",
+      "typ": "sprawa/dobro",
+      "opis": "297-08-04 (rzut 27): Torren podsunal sprawe ubogiej wdowy z Rybiego Zaulka - metny dlug po mezu u drobnego lichwiarza. Symon przejrzal papier: procent PODBITY (skladany gdzie prawo pozwala tylko prosty) = zdzierstwo realne, ALE nie czysta karta - pierwotny dlug wyglada na prawdziwy (maz cos pozyczyl), nadmiar owiniety celowo krzywa reka; bez ORYGINALNYCH WARUNKOW / sladu w ksiedze pozyczkodawcy / swiadka spisania trudno rozdzielic uczciwy dlug od zdzierstwa jednym pociagnieciem. RYZYKO gdyby Wiara stanela dzis: lichwiarz wyciaga 'podpisany' papier -> Septa=tarcza dla dluzniczki co nie placi (szkoda kobiecie I oslonie Wiary). Echo: wzor != karta (fracht/Elna/Lorren). PLAN: Symon popyta cicho przez siec o pierwotny dlug/warunki; Torren przygotuje kobiete ze potrwa dzien-dwa. Nie forsowac. Czyste dobro, firewall-neutralne."
+    },
+    {
       "id": "bennet_ekspansja_ramp",
       "odlicza_do": "297-08-XX (~kilka tyg)",
       "typ": "proces",

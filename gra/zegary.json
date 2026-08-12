@@ -360,6 +360,12 @@
       "odlicza_do": "ZLOZONY - dostawy sezonu",
       "typ": "okazja",
       "opis": "297-07-18 (rzut 95): LEAD zbiegajacy dwa swieze watki - Torhen otworzyl intel procurementowy zamku (zamek potrzebuje na sezon: wapno/gwozdzie/sol/plotno/PROWIANT), a Merek to zamozny handlarz PROWIANTEM. MOST: Merek dostarcza, Symon koordynuje (jak przy drewnie Benneta), popyt zamku. Merek zainteresowany. OKAZJA: zbudowac 2. filar zaopatrzeniowy zamku (prowiant) obok drewna. Firewall: czysto komercyjnie. || 297-07-20 (rzut 66): MOST ZLOZONY - drugi filar zaopatrzeniowy zamku (prowiant, inkrement sezonu budowlanego). Merek dostarcza, Symon koordynuje/skim, zamek bierze surge. Kapital-light. Marza per dostawa."
+    },
+    {
+      "id": "zelazo_gulltown_budowlane_partia",
+      "odlicza_do": "297-08-0X (~1-2 tyg)",
+      "typ": "proces",
+      "opis": "297-07-20: 1. partia zelaza/okuc pod sezon budowlany zamku zamowiona u korespondenta Gulltown (off-take zamku + komis, kapital-light). Trasa wschodnia Bite/Gulltown - lead ~1-2 tyg, zalezna od pogody (wiosna lepsza niz zima). Boren/kolodzieje obrabiaja po przybyciu. Marza ksieguje sie przy dostawie. Resztkowe ryzyko trasy - obserwowac."
     }
   ]
 }

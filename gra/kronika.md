@@ -5843,3 +5843,6 @@ Domknalem dobry dzien u Nesty przy ksiegach. Pierwszy cykl korytarza zdrowy (suk
 
 ## 297-08-04 RANEK - sen -> ranek (TIK SWIATA)
 Symon przespal noc w izbie 4 (zmeczenie 30->6, sytosc 30->14, zdrowie 100). Ranek pelnej wiosny - cieplo, pogodnie, wiatr od morza, port w pelnym rytmie sezonu budowlanego. PRZYCHODZACE (inbound rzut 94): slowo od korespondenta z Gulltown - 1. partia zelaza/okuc przetrwala sztorm 07-30, znow w ruchu na trasie wschodniej, ETA firmuje sie na ~08-06. Boren i kolodzieje gotowi do obrobki. Trzeci filar zamkowy o pare dni od pierwszej marzy. Bez straty. Bank w limbo (duch), reszta filarow mieli. Zegar zelazo_gulltown_budowlane_partia zaktualizowany na 'w ruchu, ETA ~08-06'.
+
+## 297-08-04 RANEK - jedzenie
+Symon zjadl spokojne poranne sniadanie (chleb, ryba z targu/Septy), sytosc 14->58. Bez zdarzen - cichy poczatek dnia.

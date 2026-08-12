@@ -5663,3 +5663,6 @@ Powiedziałem Neście: poszło, Bank ma dowód, firewall cały. Pozwoliła sobie
 
 ## 297-07-24 RANEK — Sen; limbo, i Mira się odzywa
 Symon przespał się (zmęczenie 6, sytość 14). Zimny mokry nawrót, deszcz — pogoda pod nastrój napiętego czekania (Bank waży w tle, firewall ciaśniej wg rady Nesty). PRZYCHODZĄCE: posłaniec od Miry — przemyślała korytarz sukna, leans in, chce usiąść i dopiąć JAK (terminy na jej warunkach), nie „czy". Sama się odezwała — jej własny krok. W tle: Hal do awansu, żelazo w drodze (~08-03), Dzień Bilansu 08-01, ruch Banku dojrzewa.
+
+## 297-07-24 POŁUDNIE — Dopinam korytarz z Mirą (rzut 40)
+Poszedłem do Miry dopiąć „jak". Wyszła struktura, z którą może żyć, bo zostaje sobą: handel, księgi, ręka nietknięte. Do korytarza wnosi braawijskie dojścia i wiedzę — kontakty po mężu, oko na tamtejsze papiery, znajomość rynku — jako węzeł z agencją za uczciwy wycinek, nie najęta pomoc. Struktura się złożyła: Mira (dojścia+wiedza), Leona (wolumen), Nesta (faktoruje), ja spinam; bursztyn/futra w jedną stronę, sukno w drugą. Postawiła żelazną granicę — może się wycofać, kiedy zechce — i dlatego właśnie weszła. A pod spodem to ciche: wybrała wspólne przedsięwzięcie ze mną jak równa z równym. Bez wielkiego słowa, ale patrzy inaczej. Zaufanie 52→55. Zmęczenie 14, południe.

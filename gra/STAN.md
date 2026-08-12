@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-20 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-20 POPOLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -21,6 +21,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia.
 - Retainery firmy (staly przychod, Hal rutyna + pieczec Symona): AURANE (premium) + FAKTORIA Nesty (weryfikacja, pole rampu Hala) + BLOK-RDZEN (Aldous+Harlon, weryfikacja=grosz+cement obrony; rosnie od jadra). Firewall-czyste. Dochod niezalezny od godzin.
 - Udzial w wykupie dlugu Aldousa (~28 jel, blok): fair refinance - Aldous winien blokowi na przyjacielskich warunkach (odzyskiwalne, nie strata).
+- Prowiant-marza (Merek->broker->zamek): DRUGI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 66). Merek dostarcza, Symon koordynuje, zamek bierze INKREMENT SEZONU BUDOWLANEGO (prowiant dla ekip - baseline zamku zostaje u obecnych, Symon lapie sezonowy surge). Marza per dostawa (cienszy staple niz drewno, ale recurring), kapital-light (pre-sold). Roznicznik Symona = oko jakosci/pewnosc (graded, niezawodny prowiant dla budowy). Ksieguj marze per dostawa.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-08-01 (ostatni: 297-07-18 (baseline zalozony))
@@ -34,8 +35,9 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - plon_rotacji_faktorii: ~250 jel w obrocie zboze-sol; plon per ZAMKNIETY cykl/batch. Ksieguj przy zamknieciu batcha
     - underwriting_skladka: 65 jel na ryzyku + skim ubezp-tranzytu (compound). Skladka realizowana gdy ladunek dobije bezpiecznie; skim narasta cicho
     - sol_spekulacja: parcela solna w kufrze Nesty - jednorazowa sprzedaz przy dobrym oknie cenowym
+    - prowiant_marza: Marza koordynacyjna z dostaw prowiantu Merek->zamek (sezon budowlany). Ksieguj per dostawa. Recurring, cienszy niz drewno.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 52 · Zmeczenie 16
+- Zdrowie 100 · Sytosc 46 · Zmeczenie 22
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -105,7 +107,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `297-07-1X/2X` lord_odpowiedz_petycja: Petycja przednowkowa WNIESIONA przez Owena (glos Wiary) do lorda Wymana, wsparta cicho przez Godrica. Odpowied
 - ◆ `otwarty` logistyka_ladowa_bennet_pulap: 297-07-18 (SKORYGOWANY): po skalowaniu dostaw zamkowych sufit wolumenu = POJEMNOSC SCINKI BENNETA + PRZEWOZ LA
 - ◆ `otwarty` torhen_kanal_zamkowy_zaopatrzenie: 297-07-18 (rzut 87): Torhen ocieplony (41->60/16->28) - z chlodnego retainera w sojusznika. Jako zarzadca domu
-- ◆ `otwarty` most_merek_zamek_prowiant: 297-07-18 (rzut 95): LEAD zbiegajacy dwa swieze watki - Torhen otworzyl intel procurementowy zamku (zamek potr
+- ◆ `ZLOZONY - dostawy sezonu` most_merek_zamek_prowiant: 297-07-18 (rzut 95): LEAD zbiegajacy dwa swieze watki - Torhen otworzyl intel procurementowy zamku (zamek potr
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

@@ -5681,3 +5681,6 @@ Skoro filar stoi mocno, pogadaliśmy o dalszym wzroście — i tym razem mądrze
 
 ## 297-07-25 RANEK — Sen; spokojny poranek, pogoda się poprawia
 Symon przespał się (zmęczenie 6, sytość 12). Nawrót chłodu odpuszcza, pogodniej, drogi zaczynają obsychać (dobrze dla ekspansji Benneta i arrivali). PRZYCHODZĄCE: cicho — spokojny poranek. W tle dojrzewa: awans Hala + 3. ręka, uruchomienie korytarza, ruch Banku (limbo), żelazo w drodze (~08-03), Dzień Bilansu 08-01.
+
+## 297-07-25 POŁUDNIE — Odwiedzam Aurane (rzut 13)
+Zjadłem i wpadłem do Aurane'a — premium retainera, którego zaniedbałem 19 dni. Bez kryzysu (bo gdyby coś piszczało, przysłałby słowo — cisza znaczyła OK), ale wizyta wyszła flat: jego księgi bieżące, żadnego pożaru, więc improwizowany touch bez konkretnego powodu do zajętego, zamożnego człowieka nie przyniósł nic poza samym utrzymaniem relacji przy życiu. Aurane kurtuazyjny, nie ciepły; honorarium żadne, robota żadna. „Jak będzie coś większego, dam znać." To znajoma „wyschnięta studnia" — do premium klienta bez żywej potrzeby częste zaglądanie daje malejący zwrot. Dryf zatrzymany, relacja hold (66/25), ale nauka: takich trzymać kadencją i konkretem, nie wizytą na wszelki wypadek. Zmęczenie 14, południe.

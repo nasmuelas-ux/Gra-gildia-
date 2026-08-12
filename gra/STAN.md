@@ -2,28 +2,29 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-06-27 WIECZOR · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-02 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
 - **Nastroje:** 297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowe
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 121 jeleni + 4 mied + 0 smokow
+- **Wolne:** 32 jeleni + 4 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
-- Weksle / mostek-kredyt (niezabezp.): 70 jel u dluznikow (10 jel na przedluzeniu ~2 tyg); procent dochodowy
+- Weksle / mostek-kredyt (niezabezp.): 100 jel u dluznikow (30 swiezo ulokowane 06-28 + 10 na przedluzeniu); procent dochodowy
 - Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18)
 - Rotacja faktorii Nesty (zboze-sol): ~250 jel w obrocie, plon per cykl
-- Drewno-marza (Bennet->broker->zamek): ~2 jel naliczone dotad, NARASTA per dostawa; rozliczac przy dostawach / w stalej umowie (spotk. ~06-29)
+- Drewno-marza (Bennet->broker->zamek): STALA UMOWA przeszla prowianture+stewarda 07-01, pieczec lada dzien = SECURED co do istoty. Staly strumien marzy z regularnych dostaw - najwiekszy filar dochodowy; marza narasta per dostawa.
 - Pozycja na soli: parcela spekulacyjna w kufrze Nesty (do sprzedania przy dobrym oknie)
-- Firma faktorska: 2/3 udzialu + kontrola (rejestracja rady w toku); +1/3 z transakcji w kantorze
-- Zdrowie 100 · Sytosc 50 · Zmeczenie 18
+- Firma faktorska ZAREJESTROWANA (07-01): legalny byt, Symon 2/3 udzialu + kontrola + neutralna twarz; Nesta cichy backer (1/3, imienia brak na rejestrze); czeladnicy Hal/Wick. +1/3 z transakcji w kantorze.
+- Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia.
+- Zdrowie 100 · Sytosc 58 · Zmeczenie 10
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
-**Reputacja:** port 31 · schody_zamkowe 34 · cech_pisarzy -6 · wiara 84 · zamek 10 · cech_kolodziejow 40
+**Reputacja:** port 32 · schody_zamkowe 36 · cech_pisarzy -6 · wiara 85 · zamek 12 · cech_kolodziejow 40
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -43,7 +44,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 90
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 72
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 55
-- **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 62
+- **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 65
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

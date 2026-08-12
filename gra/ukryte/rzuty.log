@@ -1222,3 +1222,6 @@ drazie), zawrocil od antaryonskiego dostawcy, re-sourcuje; wczorajsze zdziwienie
 297-08-05 RANEK | rozmowa z Branem (cieple, ludzkie) | bez progu (relacja) | rzut 37 | spokojna rozmowa, drobna tekstura: Osric ku wyzwolinom (wolna izba za pare mies.), dom zdrowy, dobre imie gospodarza
 297-08-05 POLUDNIE | szukanie zlecenia premium W SIECI (Aurane/Rollam/Nesta) | prog 50 -mod(siec) | rzut 45 | sukces z kosztem: lead premium (importer wina, Gorne Nabrzeze) przez Aurane, ale wymaga wybadania zakresu (widocznosc+firewall) przed zwiazaniem
 297-08-05 POLUDNIE | wybadanie zakresu (importer wina, Gorne Nabrzeze) | prog 50 -mod(czyt9/audyt8/przygotowanie) | rzut 94 | czysty: zakres firewall-bezpieczny (skim wewnetrzny, nie kanaly wielkich domow); klient prominentny lecz do ogarniecia terminami; do wziecia na swoich warunkach
+297-08-05 POLUDNIE | audyt importera wina - podejscie surowe | prog 50 | rzut 17 SKASOWANY (gracz poprosil o dostrojenie przed rozstrzygnieciem)
+297-08-05 POPOLUDNIE | audyt importera wina - DOSTROJONY (metoda na zimno + triangulacja Aurane) | prog 50 -~20(2 przygotowania) | rzut 59 | czysty: skim wykryty (co/ile) + atrybucja domknieta (dostawca korka/beczek) na 2 nogach; firewall czysty; zaliczka +6 jel
+297-08-05 | AWANS: audyt 8->9 (licznik 165, prog 9~165) - lata forensyki dojrzaly

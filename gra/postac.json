@@ -12,7 +12,7 @@
   "zmeczenie": 8,
   "sakiewka": {
     "miedziaki": 4,
-    "jelenie": 76,
+    "jelenie": 90,
     "smoki": 0
   },
   "dobytek": [
@@ -198,7 +198,7 @@
       "zelazo_okucia_marza": "Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant."
     },
     "koszty_cykliczne_uwaga": "Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.",
-    "baseline_miesieczny_do_kasy": "~20 jel/mies (czynsz netto 7 + udzial firmy ~7 + draw 6) + per-zdarzenie upside - podatek_miejski. Capacity ODBLOKOWANE (Hal lead+udzial, Tam junior) - miejsce na wzrost.",
+    "baseline_miesieczny_do_kasy": "OD 09-01 WYZSZY: czynsz netto 7 + draw 6 + udzial firmy ~9-10 (6 retainerow pelny miesiac) = ~22-23 CYKLICZNE; + per-zdarzenie: DREWNO-marza (flagowy, ~25+/mies), PROWIANT (pelny miesiac, rosnie), ZELAZO (od dostawy ~08-03), weksle procent, korytarz; - podatek_miejski. Materialy (prowiant+zelazo) dolozą grubiej w sierpniu (07: prowiant pol miesiaca, zelazo 0-w-tranzycie).",
     "retainery_szczegol": {
       "Aurane": "4 jel/mies (premium)",
       "Blok": "3 jel/mies (pula kupcow)",

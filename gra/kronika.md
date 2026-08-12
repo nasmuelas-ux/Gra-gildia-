@@ -5783,3 +5783,6 @@ Reszta lodzi wrocila, policzone na czysto - na gorszym koncu nadziei. Roszczenia
 
 ## 297-08-01 RANEK - DZIEN BILANSU (pierwszy miesieczny)
 Sztorm minal, siadlem z ksiega na pierwszy miesieczny bilans (07-01->08-01). CYKLICZNE zmieciete do kasy: draw wspolnika 6 + czynsz netto 7 + udzial firmy z retainerow 7 = +20. PER-ZDARZENIE narosle zaksiegowane: drewno-marza (miesiac dostaw zamkowych) +12 (reszta narasta dalej), weksle procent (drabinka, ex-Wend) +6, prowiant-marza+korytarz +4. RAZEM +42 do kasy: sakiewka 34->76 jel. Rotacja faktorii: plon cyklu reinwestowany (~250->262). Jedyny minus: underwriting -10 (czerwony sztorm, w pozycji 115->105). Miesiac mocno na plus mimo sztormu - operacja wielofilarowa dostarcza. Nastepny Bilans 09-01. Zmeczenie 8, sytosc 20.
+
+## 297-08-01 - KOREKTA DNIA BILANSU (gracz: retainery + marza drewna)
+Slusznie zlapane: (1) drewno-marza byla zanizona - to flagowy filar (skalowany 1.5x, stala umowa, regularne dostawy), 12->25 jel za miesiac. (2) retainery rosly w trakcie (4->6) - per-sesje juz wpadly do kasy w miesiacu, cykliczny udzial firmy 7->8, a od 09-01 baseline wyzszy (6 retainerow pelny miesiac). Prowiant dolozy od nowego (wpiety 07-20), zelazo od dostawy ~08-03. POPRAWIONY Bilans: +56 do kasy (nie 42), sakiewka 34->90. Materialy dolozą grubiej w sierpniu.

@@ -687,7 +687,7 @@
       "imie": "Vox",
       "zawod": "miejscowy kupiec suknem, respektowany; podejrzewa, ze wspolnik/dostawca go oszukuje",
       "nastawienie_do_gracza": 76,
-      "ostatni_kontakt": "297-07-23",
+      "ostatni_kontakt": "297-07-22",
       "cechy_mowy": "rzeczowo, po mieszczansku, ostroznie o pieniadzach; zwraca sie per panie skryba",
       "wie_o_graczu": [
         "przyjal go cieplo, z szacunkiem, dal promocje na pierwsze zlecenie — Vox rozluzniony, ufa bardziej",
@@ -731,8 +731,7 @@
         "m12d03 rzut43: Symon zaproponowal usluge zarzadcza. Vox kupuje IDEE (widzi wartosc: kto zalega, ktora trasa zarabia), ufa Symonowi - ale jak kupiec strzegacy ksiag zgadza sie na PROBE: jeden kawalek (wiekowanie naleznosci), nie pelne ksiegi. Proba od razu WYKAZUJE konkret (klient, co go po cichu przeciaga na platnosci) -> Vox pod wrazeniem, sciezka do rozszerzenia+testimonial. Maly fee +2 jel. Nast 41->43.",
         "m12d05 rzut44: Symon dowiozl na probie - pelniejsze wiekowanie naleznosci + slice rentownosci per klient/trasa; wykazal konkretne insighty (ktore linie zarabiaja, timing plynnosci). Vox pod wrazeniem, ROZSZERZYL angaz do prawdziwego platnego klienta (fee +4 jel), ale jak kupiec wciaz przyrostowo (nie od razu cale ksiegi). Testimonial dla kolejnych. Nast 43->45 zauf+2.",
         "297-03-08 (wywiad 26 slaby pre-read; wizyta rzut 57): Symon przyszedl SPLACIC dlug lojalnosci - Vox stanal publicznie za kantorem, a Symon zniknal na ~38 dni. Szczwany Vox przyjal cieplo, ale z lekka SUCHOSCIA o przerwe ('myslalem, zes zapomnial, kto z toba stanal'). Genuine tend + Symon jawnie uznal jego poparcie i zaoferowal wsparcie/osłone -> naprawilo adekwatnie (nie spektakularnie - wszedl na zimno). Dlug lojalnosci UZNANY/czesciowo splacony, stygniecie odwrocone. Vox znow cieply czynny sojusznik (respektowany kupiec = potencjalny korroborant keystone, ale nie forsowane). nast 53->55, zauf 17->18. NAUKA: nie zaniedbywac tych, co sie za ciebie wychylili."
-      ],
-      "nota": "07-23: dwie proby uciszenia z rzedu (26, 14) NIE POWIODLY sie. Vox dumny/wsciekly, nie da sie okielznac ('niech probuja'). GORZEJ: wzmianka o 'moznych za plecami dostawcy' + druga proba ciszy WZBUDZILA W NIM PODEJRZENIE WOBEC SYMONA - bystry, wylowil ze rachmistrz wie/zalezy mu za bardzo. NIE wie o Banku/Antaryonie, ale antena w gore. NIE naciskac dalej (kopiesz glebiej). +15 na ew. kolejna probe, ale LEKCJA: przestac zarzadzac Voxem."
+      ]
     },
     {
       "id": "leona_wdowa",

@@ -5678,3 +5678,6 @@ Kryzys podaży Benneta (rzut 18) COFNIĘTY jako (1) niekanoniczny — Bennet mia
 
 ## 297-07-24 NOC — Rozmowa z Bennetem o powiększeniu dostaw (rzut 67)
 Skoro filar stoi mocno, pogadaliśmy o dalszym wzroście — i tym razem mądrzej. Zamiast dorzucić Bennetowi zobowiązanie i zniknąć, usiedliśmy nad podstawą: więcej pewnego wolumenu = więcej rąk do ścinki i wozów. Bennet, widząc gwarantowany off-take zamku, sam zainwestuje we własną pojemność (dobierze ludzi, dołoży zaprzęg) — to jego zysk, więc nie muszę topić cienkiej gotówki. Mój wkład: koordynacja i obietnica, że tym razem nie przepadnę — regularny kontakt. „O to mi chodziło od początku — żebyśmy to ciągnęli razem." Ekspansja rusza na zdrowym fundamencie: pojemność narośnie przez kilka tygodni (rekrutacja, wozy, aż drogi obeschną), a wtedy filar urośnie dalej — kapitał-light, reliability chroniona, baza pielęgnowana. Bennet nast 68→72, zaufanie 20→23. Zmęczenie 30, noc.
+
+## 297-07-25 RANEK — Sen; spokojny poranek, pogoda się poprawia
+Symon przespał się (zmęczenie 6, sytość 12). Nawrót chłodu odpuszcza, pogodniej, drogi zaczynają obsychać (dobrze dla ekspansji Benneta i arrivali). PRZYCHODZĄCE: cicho — spokojny poranek. W tle dojrzewa: awans Hala + 3. ręka, uruchomienie korytarza, ruch Banku (limbo), żelazo w drodze (~08-03), Dzień Bilansu 08-01.

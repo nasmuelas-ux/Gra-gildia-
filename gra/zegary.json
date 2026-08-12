@@ -334,8 +334,8 @@
     {
       "id": "agregat_dowodowy_zbieranie",
       "odlicza_do": "297-07-2X",
-      "typ": "proces",
-      "opis": "Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/przekrawanie, Symon doglada z boku. Pasma gestnieja z kazda ksiega; przy bankowej gestosci -> produkt gotowy do Belarna. Dni-tygodnie, w rytmie splywajacych retainerow. Firewall caly. || 297-07-16 POPOL (rzut 37, doglad): Hal trzyma rytm - kilka ksiag retainerowych zlozonych, metoda na nowej granulacji dziala, pasma gestnieja. WRINKLE dobrze obsluzony: jedna ksiega z LUKA (kupiec niepelny), Hal NIE zgadl - zaflagowal; Symon: uzyc tylko czystego, nie forsowac (luka nie zaklamie wzoru). Postep solidny, NA TORZE, ale bankowa gestosc dopiero za DNI zbierania. Hal dojrzewa. || 07-18: ksiegi Mereka (dostawca nadbijal - echo wzoru Antaryona) to material zrodlowy do gestosci agregatu; Symon notuje cicho, chroni zrodlo (firewall). || 07-21: Hal melduje - gestosc pasm rosnie stabilnie (kolejne ksiegi retainerowe zlozone); metoda dziala, do bankowej gestosci jeszcze dni zbierania. || 07-22: skupiona sesja (Symon+juniorzy) - metoda dociagnieta, gestosc pasm wyraznie w gore; do bankowej gestosci jeszcze troche wolumenu (kilka dni ksiag), ale blisko."
+      "typ": "inbound",
+      "opis": "Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/przekrawanie, Symon doglada z boku. Pasma gestnieja z kazda ksiega; przy bankowej gestosci -> produkt gotowy do Belarna. Dni-tygodnie, w rytmie splywajacych retainerow. Firewall caly. || 297-07-16 POPOL (rzut 37, doglad): Hal trzyma rytm - kilka ksiag retainerowych zlozonych, metoda na nowej granulacji dziala, pasma gestnieja. WRINKLE dobrze obsluzony: jedna ksiega z LUKA (kupiec niepelny), Hal NIE zgadl - zaflagowal; Symon: uzyc tylko czystego, nie forsowac (luka nie zaklamie wzoru). Postep solidny, NA TORZE, ale bankowa gestosc dopiero za DNI zbierania. Hal dojrzewa. || 07-18: ksiegi Mereka (dostawca nadbijal - echo wzoru Antaryona) to material zrodlowy do gestosci agregatu; Symon notuje cicho, chroni zrodlo (firewall). || 07-21: Hal melduje - gestosc pasm rosnie stabilnie (kolejne ksiegi retainerowe zlozone); metoda dziala, do bankowej gestosci jeszcze dni zbierania. || 07-22: skupiona sesja (Symon+juniorzy) - metoda dociagnieta, gestosc pasm wyraznie w gore; do bankowej gestosci jeszcze troche wolumenu (kilka dni ksiag), ale blisko. || 07-23: gracz prosi o SYGNAL - gdy agregat osiagnie bankowa gestosc, GM zglasza jako PRZYCHODZACE (Hal/Nesta melduja gotowosc do dostarczenia Belarnem). Nie wymagac pytania gracza."
     },
     {
       "id": "lord_odpowiedz_petycja",
@@ -375,9 +375,9 @@
     },
     {
       "id": "vox_audyt_follow",
-      "odlicza_do": "otwarty",
+      "odlicza_do": "FINDING POTWIERDZONY - decyzja gracza pending",
       "typ": "okazja",
-      "opis": "297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atrybucje (ktory dostawca/wspolnik) + dowod do restytucji. Zamkniecie = wdzieczny klient + fee + referrer. Mozliwe echo wzoru sukna (firewall/agregat - cicho)."
+      "opis": "297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atrybucje (ktory dostawca/wspolnik) + dowod do restytucji. Zamkniecie = wdzieczny klient + fee + referrer. Mozliwe echo wzoru sukna (firewall/agregat - cicho). || 07-23 (przygotowanie+weryfikacja, rzut 24 sukces z kosztem): Symon PRZYGOTOWAL SIE i SAM POTWIERDZIL finding ZANIM cokolwiek zrobil z Voxem. ATRYBUCJA NAILED: to DOSTAWCA SUKNA Voxa systematycznie zanizal miare/gatunek; dowod dosc twardy na restytucje+ciecie. KOSZT/KOMPLIKACJA (prywatnie zauwazona przez Symona, Vox NIE wie): ten dostawca to ZNAJOMY KSZTALT - to samo strzyzenie miary co w szerszym WZORZE SUKNA, ktory Symon sledzi ku BANKOWI. Puszczenie Voxa GLOSNO/publicznie = szarpniecie nitka firewalla. DECYZJA WSTRZYMANA - gracz trzyma finding, jeszcze NIC nie powiedzial Voxowi, czeka na wlasna decyzje jak to rozegrac. Fee NIE pobrane (przed rozstrzygnieciem)."
     },
     {
       "id": "firma_capacity_3reka",

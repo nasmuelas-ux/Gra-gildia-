@@ -5642,3 +5642,6 @@ Najpierw skłoniłem się ku bursztynowi, ale w porę się rozmyśliłem — spe
 
 ## 297-07-23 RANEK — Sen; spokojny wiosenny poranek
 Symon przespał się (zmęczenie 6, sytość 12 — głodny). Wiosna łagodnie, trochę chmur, port w ruchu. PRZYCHODZĄCE: cicho. W tle dojrzewa: awans Hala + rekrutacja (do dopięcia), follow-up Voxa (domknąć oszustwo), agregat blisko bankowej gęstości, żelazo w drodze (~08-03), korytarz czeka na Mirę, Dzień Bilansu 08-01 (pierwsze zmiecenie cyklicznych + narosła marża).
+
+## 297-07-23 POŁUDNIE — Vox: przygotowanie i samodzielna weryfikacja (rzut 24, decyzja wstrzymana)
+Przygotowałem się porządnie i przekopałem to SAM, zanim cokolwiek powiedziałem Voxowi. Finding potwierdzony: to jego DOSTAWCA SUKNA systematycznie zaniża miarę i gatunek; mam dowód dość twardy na restytucję i ucięcie. Ale przy okazji zobaczyłem coś, o czym Vox nie wie: ten dostawca to znajomy kształt — to samo strzyżenie miary co w szerszym wzorze sukna, który cicho śledzę ku Bankowi. Więc trzymam finding w ręku i NIE ruszam — bo to, jak rozegram sprawę Voxa (głośno vs cicho), dotyka firewalla. Nic nie powiedziałem, fee nie pobrane. Czekam z decyzją. Zmęczenie 14, południe.

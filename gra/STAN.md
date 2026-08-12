@@ -2,11 +2,11 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-08-03 NOC · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-08-04 RANEK · pelna wiosna (Polnoc) - drogi obeschly, rzeki plyna, sezon budowlany zamku w toku
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
-- **Nastroje:** 297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowe
+- **Nastroje:** 297-08-04 RANEK, pelna wiosna: sezon budowlany zamku w toku (drewno/prowiant/zelazo plyna), port tetni arrivals, przednowkowy ucisk ZDJETY (relief lorda administruje Wiara). Symon: 3 filary zamkowe + 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 29 jeleni + 4 mied + 0 smokow
@@ -42,7 +42,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 30 · Zmeczenie 30
+- Zdrowie 100 · Sytosc 14 · Zmeczenie 6
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -113,7 +113,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `otwarty` logistyka_ladowa_bennet_pulap: 297-07-18 (SKORYGOWANY): po skalowaniu dostaw zamkowych sufit wolumenu = POJEMNOSC SCINKI BENNETA + PRZEWOZ LA
 - ◆ `otwarty` torhen_kanal_zamkowy_zaopatrzenie: 297-07-18 (rzut 87): Torhen ocieplony (41->60/16->28) - z chlodnego retainera w sojusznika. Jako zarzadca domu
 - ◆ `ZLOZONY - dostawy sezonu` most_merek_zamek_prowiant: 297-07-18 (rzut 95): LEAD zbiegajacy dwa swieze watki - Torhen otworzyl intel procurementowy zamku (zamek potr
-- ◆ `OPOZNIONE (~08-06+, sztorm na trasie wschodniej)` zelazo_gulltown_budowlane_partia: 297-07-20: 1. partia zelaza/okuc pod sezon budowlany zamku zamowiona u korespondenta Gulltown (off-take zamku 
+- ◆ `W RUCHU (ETA ~08-06, potwierdzone 08-04)` zelazo_gulltown_budowlane_partia: 297-07-20: 1. partia zelaza/okuc pod sezon budowlany zamku zamowiona u korespondenta Gulltown (off-take zamku 
 - ◆ `do zniw (tygodnie)` relief_rozdzial_przednowek: 297-07-21: rozdzial reliefu lorda (ziarno/opal) administruje Wiara; Symon ustawil CZYSTY SYSTEM dystrybucji (r
 - ◆ `FINDING POTWIERDZONY - decyzja gracza pending` vox_audyt_follow: 297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atr
 - ◆ `297-08-XX (~kilka tyg)` bennet_ekspansja_ramp: 297-07-24 (rzut 67): ekspansja dostaw drewna na zamek na ZDROWEJ bazie. Bennet sam dobiera rece + zaprzeg prze

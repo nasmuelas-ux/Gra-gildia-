@@ -5522,3 +5522,6 @@ Zmęczony, ale nie odpuściłem — i to ta sama wada wskazała wyjście. Nesta 
 
 ## 297-07-15 RANEK — Sen; nowy dzień
 Symon spał po nocnym przełomie. Rano: zmęczenie 9, sytość 33 (głodny). Szary ranek odwilży, mżawka ustaje, błoto na Schodach, rzeka wysoka. PRZYCHODZĄCE: z faktorii/Hala — księgi sezonowe jednego z kupców bloku (retainer) dotarły do przejrzenia; rutynowa robota audytowa, która zarazem jest przykrywką i źródłem do przekrojenia agregacji na nową granulację.
+
+## 297-07-15 POŁUDNIE — Jem, biorę się za przekrojenie agregacji (rzut 33)
+Zjadłem, siadłem z Halem nad księgami. Przekrawanie agregatu na nową granulację — trasa × okres × pasmo — rusza dobrze: metoda **działa**. Pierwsze przełożenia wychodzą czysto, wzór składa się w kotwice, które Bank sprawdzi u siebie, a których nikt nie namierzy wstecz. Proof-of-concept piękny. Ale wyszedł koszt, którego się spodziewałem: **robust agregat na tej granulacji potrzebuje wolumenu.** Z jednej-dwóch ksiąg pasma są za rzadkie — Bank musi zobaczyć gęstość na wielu trasach i okresach, żeby to było niepodważalne. Trzeba dosypać więcej ksiąg źródłowych, a te spływają po jednej, retainer po retainerze, przez dni. Szkielet gotowy, metoda pewna — domknięcie to jeszcze kilka sesji zbierania i przekrawania. Zmęczenie 18, sytość 48, południe.

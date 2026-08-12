@@ -28,6 +28,11 @@ out.append(f"- **Wolne:** {sk.get('jelenie',0)} jeleni + {sk.get('miedziaki',0)}
 for it in p.get("dobytek", []):
     if any(k in it for k in ("depozyt", "SPOLKA", "ZADATEK", "udzial")):
         out.append(f"- {it}")
+poz = p.get("pozycje", {})
+if poz:
+    out.append("\n## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)")
+    for k, v in poz.items():
+        out.append(f"- {v}")
 out.append(f"- Zdrowie {p.get('zdrowie','?')} · Sytosc {p.get('sytosc','?')} · Zmeczenie {p.get('zmeczenie','?')}")
 
 um = p.get("umiejetnosci", {})

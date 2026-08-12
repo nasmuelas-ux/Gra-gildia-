@@ -5621,3 +5621,6 @@ Wróciłem do Owena po ludzku i do roboty naraz — pomóc rozdzielić to, co lo
 
 ## 297-07-21 NOC — Praca w kantorze z Nestą, Halem, Wickiem (rzut 43)
 Przyjąłem radę Owena i poszedłem robić cicho to, co robię najlepiej — z zespołem. Flotylla weszła, więc pierwsza realna rzecz: zamówienie sukna Leony przez faktorię. Zweryfikowaliśmy braawijskie papiery, towar schodzi, prowizja brokerska wpadła — **+5 jel (39→44)**, kolejny czysty wpis w Księdze Przychodów. Hal zameldował postęp na agregacie: gęstość pasm rośnie stabilnie, kolejne księgi retainerowe złożone, do bankowej gęstości jeszcze dni. Ale najlepsze było patrzeć, jak to chodzi: Hal prowadzi rutynę pewną ręką, Wick przy nim, Nesta partneruje, a ja projektuję i doglądam — dokładnie ten model, który obmyśliłem, mistrz zwielokrotniony przez uczniów. Firma działa beze mnie w każdym pojedynczym ruchu, a mimo to jest moja. Hal zaufanie +1. Zmęczenie 30, noc.
+
+## 297-07-22 RANEK — Sen; cichy, piękny poranek
+Symon przespał się porządnie (zmęczenie 6, sytość 12 — głodny). Pełna wiosna, pięknie: ciepło, bezchmurnie, port w pełnym ruchu (flotylla rozładowuje, wiosenne arrivals). PRZYCHODZĄCE: cisza — spokojny poranek. W tle dojrzewa: żelazo w drodze (~08-03), agregat gęstnieje, relief się rozdziela, korytarz sukna czeka na słowo Miry, Vox jako ripe prospekt.

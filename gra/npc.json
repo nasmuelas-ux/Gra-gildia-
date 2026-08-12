@@ -1643,7 +1643,7 @@
       "przydomek": null,
       "wiek": 25,
       "stan": "mieszczka (wdowa)",
-      "zawod": "wdowa po drobnym kupcu (handel z Braavos); sama ciagnie resztke interesu",
+      "zawod": "wdowa po kupcu Braavos-adjacent (Rovan, zm. febra); ciagnie sama DROBNY HANDEL SUKNEM/PLOTNEM z Braavos (cienkie plotna, welna czesankowa) - maly obrot, ale ZNA szlak+ludzi w Braavos",
       "mieszka": "Port_Manderly (okolice)",
       "nastawienie_do_gracza": 94,
       "zaufanie": 51,
@@ -1685,7 +1685,8 @@
       "ostatni_kontakt": "297-07-21",
       "cechy_mowy": "krotko, rzeczowo, chlodno; bystra, przenikliwa, malo daje z siebie; twarda niezaleznosc",
       "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA.",
-      "flaga_postawa": "ODLOZONE_pilka_po_jej_stronie"
+      "flaga_postawa": "ODLOZONE_pilka_po_jej_stronie",
+      "nota": "HANDLUJE: sukno/plotno braawijskie (drobno, 1-2 bele/sezon, kontakty po mezu). SIEDZI w tym samym korytarzu co Leona (sukno) i Nesta (faktoria braawijska) + bursztyn/futra out. Jej wartosc = WIEDZA+DOJSCIA w Braavos, nie wolumen. SYNERGIA do zbudowania: Mira/Leona/Nesta w jednej rzece towaru, Symon zna wszystkie trzy."
     },
     {
       "id": "septon_torren",

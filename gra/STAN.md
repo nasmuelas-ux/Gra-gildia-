@@ -2,14 +2,14 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-08-06 POLUDNIE · pelna wiosna (Polnoc) - drogi obeschly, rzeki plyna, sezon budowlany zamku w toku
+- **Data:** 297-08-06 POPOLUDNIE · pelna wiosna (Polnoc) - drogi obeschly, rzeki plyna, sezon budowlany zamku w toku
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
 - **Nastroje:** 297-08-04 RANEK, pelna wiosna: sezon budowlany zamku w toku (drewno/prowiant/zelazo plyna), port tetni arrivals, przednowkowy ucisk ZDJETY (relief lorda administruje Wiara). Symon: 3 filary zamkowe + 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 35 jeleni + 4 mied + 0 smokow
+- **Wolne:** 43 jeleni + 4 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -42,7 +42,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 48 · Zmeczenie 20
+- Zdrowie 100 · Sytosc 42 · Zmeczenie 28
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9
@@ -116,7 +116,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `NA PODEJSCIU - wyladunek wstrzymany szkwalem, ~08-07 gdy pogoda pusci (bez straty)` zelazo_gulltown_budowlane_partia: 297-07-20: 1. partia zelaza/okuc pod sezon budowlany zamku zamowiona u korespondenta Gulltown (off-take zamku 
 - ◆ `do zniw (tygodnie)` relief_rozdzial_przednowek: 297-07-21: rozdzial reliefu lorda (ziarno/opal) administruje Wiara; Symon ustawil CZYSTY SYSTEM dystrybucji (r
 - ◆ `FINDING POTWIERDZONY - decyzja gracza pending` vox_audyt_follow: 297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atr
-- ◆ `WYKONANY - wynik gotowy, oddanie/restytucja pending (reszta fee ~8 jel)` premium_audyt_importer_wina: 297-08-05 (rzut 45, przez siec/Aurane): premium lead audytowy - zamozny importer wina/towarow zbytku z Gornego
+- ◆ `ZAMKNIETY 08-06 - oddany, oplacony (14 jel razem); koszt: widocznosc forensyczna +` premium_audyt_importer_wina: 297-08-05 (rzut 45, przez siec/Aurane): premium lead audytowy - zamozny importer wina/towarow zbytku z Gornego
 - ◆ `KARTA ZDOBYTA - gotowe do domkniecia przez Wiare` sprawa_wdowy_rybi_zaulek: 297-08-04 (rzut 27): Torren podsunal sprawe ubogiej wdowy z Rybiego Zaulka - metny dlug po mezu u drobnego lic
 - ◆ `297-08-XX (~kilka tyg)` bennet_ekspansja_ramp: 297-07-24 (rzut 67): ekspansja dostaw drewna na zamek na ZDROWEJ bazie. Bennet sam dobiera rece + zaprzeg prze
 

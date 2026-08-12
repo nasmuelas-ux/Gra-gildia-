@@ -1307,8 +1307,8 @@
    "przydomek": "kapitan",
    "zawod": "kapitan braavijskiej galery (linia handlowa domu pryncypala Nesty); ma dojscie do agenta/klucznika Zelaznego Banku",
    "mieszka": "galera_w_porcie",
-   "nastawienie_do_gracza": 23,
-   "zaufanie": 6,
+   "nastawienie_do_gracza": 26,
+   "zaufanie": 8,
    "wie_o_graczu": [
     "braavijczyk z mowy (zaskoczony plynnoscia Symona)",
     "wspolnik Nesty",
@@ -1317,7 +1317,7 @@
     "297-05-18 NOC (rzut 33): Symon przyszedl z waskim askiem (reka do wynajecia dla Banku, zero o Antaryonie). Belarno NIE poniosl w ciemno - bystry, jego imie u Banku za cenne; wyczul agende (\"ty czegos chcesz, nie poloze imienia poki nie wiem pod co\"). Sciana biznesowo-ostrozna nie wroga. Symon NIE wygadal sie (firewall caly), wycofal gladko (\"przemysl, wroce\"). Launch stalled - bystry czlowiek to nie slepy kanal.",
     "297-05-19 (rzut 22): reframe zadzialal - Belarno slyszac OFERTE USLUGI faktorii + imie Nesty za nia poniesie bez oporu (kanal naprawiony). ALE wyplywa (galera zaladowana, przyplyw), a agent nie lokalny - slowo idzie w wolna machine Banku, odpowiedz tygodnie/niepewna. Nast +3 (relacja/biznes ok). Firewall caly."
    ],
-   "ostatni_kontakt": "297-05-19",
+   "ostatni_kontakt": "297-07-10",
    "cechy_mowy": "rzeczowy, morski, braavijskie wtracenia; liczy czas i grosz",
    "status": "PRZYJAL DOSSIER (rzut 44): uznal sprawe za solidna, niesie ja ze swoim nazwiskiem do agenta Banku. Bez obietnic (Bank ma swoj zegar i grosz), ale sprawa dostanie realne posluchanie. Wyplywa ~10-12.",
    "historia": [

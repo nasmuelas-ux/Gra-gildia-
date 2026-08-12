@@ -71,6 +71,8 @@ Miejsce · jedna linia atmosfery (pogoda / zapach / dźwięk)
 - **Wezwanie/obowiązek** — Septa, cech, poborca, steward lorda.
 - **Plotka, która GO dosięgła** — tylko tam, gdzie fizycznie bywa i od ludzi, co z nim gadają (nie „miasto się dowiedziało").
 
+**ZASADA ANTY-ZASADZKA (twarda):** realne problemy docierają do Symona PRZEZ PRZYCHODZĄCE (posłaniec/wiadomość/wezwanie) ZANIM dojrzeją — świat sam się kontaktuje. Jeśli coś się psuje u kontrahenta/sojusznika, on WYŚLE SŁOWO. CISZA = jest dobrze. NIE wolno wyprodukować kryzysu jako niespodzianki przy wizycie (zwł. gdy gracz sam pyta „kto zaniedbany" — pytanie o stan sieci NIE tworzy problemów, inaczej karzemy dbałość). Słaby rzut na wizytę podtrzymującą u ciepłego kontaktu daje NAJWYŻEJ drobną teksturę (chłodniejszy ton, drobna prośba), NIGDY canon-sprzecznej katastrofy. Problem pojawia się tylko, jeśli był wcześniej zasygnalizowany przychodzącym/zegarem.
+
 Zasady przychodzącego:
 - NPC kontaktują się z WŁASNYCH pobudek (ich cel/potrzeba/lęk), nie po to, by obsłużyć gracza. Inbound ma KOSZT albo HAK po ich stronie (czegoś chcą, coś niosą).
 - Nie każda tura ma przychodzące. Gdy jest cicho — cisza (to też informacja). Częstotliwość rośnie z siecią Symona i liczbą żywych wątków/zegarów `inbound`.

@@ -5873,3 +5873,6 @@ Symon przespal noc (wczesny sen): zmeczenie 40->10, sytosc 34->16, zdrowie 100. 
 
 ## 297-08-06 RANEK - jedzenie + przygotowanie oddania audytu
 Symon zjadl (sytosc 16->55) i - nie wychodzac w szkwal - przygotowal ODDANIE audytu importera wina. Nie robota od nowa (wynik gotowy), lecz oprawa: (1) czysty dossier do prywatnych rak (co/ile/od kiedy/kto=dostawca korka+beczek, liczby wprost pod restytucje, bez zbednych nazwisk na wedrujacym papierze); (2) rama dyskrecji (oddanie w 4 oczy przez oslone Aurane'a, bez 'widowiska' - przyciety koszt widocznosci, echo Voxa/ostrzezenie Torhena); (3) ask restytucyjny gotowy (jak docisnac dostawce czysto). PREP BONUS zabankowany na oddanie. zmeczenie 10->16. NEXT: isc oddac (Gorne Nabrzeze, w deszcz) / czekac az szkwal zelzy.
+
+## 297-08-06 POLUDNIE - przeczekanie szkwalu
+Symon NIE poszedl w ulewe (rzut na oddanie skasowany) - przeczekal szkwal przy oknie. Rzut 94: wiosenny szkwal puszcza szybko, ku poludniu niebo przeciera sie, port znow czynny. Podwojnie dobre: Symon pojdzie oddac w suchym plaszczu, a zelazo dostaje okno na bezpieczny wyladunek (lada godzina-dzien). Prep na oddanie wciaz w kieszeni. sytosc 55->48, zmeczenie 16->20. Pora RANEK->POLUDNIE. NEXT: isc oddac audyt (pogodnie).

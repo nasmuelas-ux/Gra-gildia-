@@ -88,6 +88,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `None` kanal_polnoc_capacity: 297-05-15 (Torsen, rzut 39): KANAL POLNOCNY NEAR CAPACITY - sukces przeciazyl podaz. Sol Harlona + drewno na z
 - ◆ `?` petycja_lord_przednowek: 297-06-26 ZAWIAZANY: PRZEDNOWEK dusi Septe - rejestry ubogich pecznieja, zapasy lekow/ziarna cienieja, prywatn
 - ◆ `?` bank_wazy_antaryon: 297-07-11: machina Banku URUCHOMIONA (spust pociagniety, nieodwracalne). Bank ostrozny - Antaryon to i jego kl
+- ◆ `297-07-2X` agregat_dowodowy_zbieranie: Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/prze
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

@@ -5525,3 +5525,6 @@ Symon spał po nocnym przełomie. Rano: zmęczenie 9, sytość 33 (głodny). Sza
 
 ## 297-07-15 POŁUDNIE — Jem, biorę się za przekrojenie agregacji (rzut 33)
 Zjadłem, siadłem z Halem nad księgami. Przekrawanie agregatu na nową granulację — trasa × okres × pasmo — rusza dobrze: metoda **działa**. Pierwsze przełożenia wychodzą czysto, wzór składa się w kotwice, które Bank sprawdzi u siebie, a których nikt nie namierzy wstecz. Proof-of-concept piękny. Ale wyszedł koszt, którego się spodziewałem: **robust agregat na tej granulacji potrzebuje wolumenu.** Z jednej-dwóch ksiąg pasma są za rzadkie — Bank musi zobaczyć gęstość na wielu trasach i okresach, żeby to było niepodważalne. Trzeba dosypać więcej ksiąg źródłowych, a te spływają po jednej, retainer po retainerze, przez dni. Szkielet gotowy, metoda pewna — domknięcie to jeszcze kilka sesji zbierania i przekrawania. Zmęczenie 18, sytość 48, południe.
+
+## 297-07-15 POŁUDNIE (b) — Puszczam agregat w rytm faktorii, sam wolny
+Symon oddał zbieranie i przekrawanie ksiąg Halowi — faktoria robi to w swoim rytmie, retainer po retainerze, on tylko dogląda z boku. Uwolnił sobie czas na inne fronty. (Zegar tła: agregat_dowodowy_zbieranie.)

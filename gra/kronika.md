@@ -5891,3 +5891,6 @@ Symon poszedl do Torhena (mol/czlowiek w srodku) zameldowac prywatnie ze zelazo 
 
 ## 297-08-06 WIECZOR - wieczerza + odpoczynek
 Symon zjadl porzadna wieczerze i odpoczal przed noca (sytosc 22->58, zmeczenie 40->30). Spokojny koniec dlugiego, tlustego dnia.
+
+## 297-08-07 RANEK - sen -> ranek (TIK SWIATA)
+Symon przespal spokojna noc: zmeczenie 30->6, sytosc 58->38, zdrowie 100. Ranek pogodny/cieply po wczorajszym szkwale, port nadrabia zaleglosc wyladunkow. PRZYCHODZACE: cicho (inbound 31) - drobne echo: reszta zelaza rozladowana czysto, Boren zaczal obrobke okuc dla zamku. Sprawa wdowy: w rekach Torrena/Wiary, tempem Wiary (rzut 38 - Torren przedstawil karte, lichwiarz przyparty, domkniecie sie zblizA bez dramatu). Bank limbo - cicho. 3 filary miela.

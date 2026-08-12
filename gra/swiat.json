@@ -2,13 +2,13 @@
   "data": {
     "rok": 297,
     "miesiac": 8,
-    "dzien": 6,
+    "dzien": 7,
     "era": "AC"
   },
-  "pora": "WIECZOR",
+  "pora": "RANEK",
   "sezon": "pelna wiosna (Polnoc) - drogi obeschly, rzeki plyna, sezon budowlany zamku w toku",
-  "pogoda": "szkwal przeszedl - niebo sie przetarlo, pogodnie, port znow czynny (okno na wyladunki otwarte)",
-  "dzien_tygodnia_nr": 3,
+  "pogoda": "pogodnie i cieplo po szkwale - port w pelnym rytmie, wyladunki nadrabiaja zaleglosc",
+  "dzien_tygodnia_nr": 4,
   "dzien_targowy": null,
   "nastroje_miasta": "297-08-04 RANEK, pelna wiosna: sezon budowlany zamku w toku (drewno/prowiant/zelazo plyna), port tetni arrivals, przednowkowy ucisk ZDJETY (relief lorda administruje Wiara). Symon: 3 filary zamkowe + korytarz sukna + logistyka Aurane + ksiega kredytowa + underwriting 150 (hard market po sztormie 07-30). Bank wazy Antaryona w limbo (duch, firewall ciasny). Sakiewka ~29 jel wolne, kapital w robocie (rotacja ~302, weksle 150, underwriting 150).",
   "ceny": {

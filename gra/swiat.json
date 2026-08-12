@@ -1,14 +1,14 @@
 {
  "data": {
   "rok": 297,
-  "miesiac": 6,
-  "dzien": 30,
+  "miesiac": 7,
+  "dzien": 1,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja",
- "pogoda": 61,
- "dzien_tygodnia_nr": 1,
+ "pogoda": 65,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
  "nastroje_miasta": "297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowek dusi ubogich/Septe. Symon: kanal zamkowy (Theo) otwarty, firma o krok od cichej rejestracji, kapital 121 jel bezczynny. Zegary: batch3 rozliczony, weksle 70 out, rotacja ~250.",
  "ceny": {

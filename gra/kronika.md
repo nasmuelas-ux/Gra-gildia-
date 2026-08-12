@@ -5726,3 +5726,6 @@ Odpocząłem przy herbacie, potem wszedłem cicho na Nowy Zamek do Theomore z te
 
 ## 297-07-28 RANEK — Sen; piękny cichy poranek
 Symon przespał się (zmęczenie 6, sytość 18). Pełna wiosna, słonecznie, port tętni. PRZYCHODZĄCE: cicho. Dojrzewa: awans Hala + 3. ręka (długo pending, dojrzałe), korytarz działa, Bank (machina się obraca), żelazo w drodze (~08-03), Dzień Bilansu 08-01 (za 4 dni).
+
+## 297-07-28 POŁUDNIE — Szukam trzeciej ręki do Hala (rzut 98 — perła)
+Poszedłem po trzecią rękę tam, skąd sam wyrosłem — do Owena, bo przy mojej robocie dyskrecja i lojalność ważą więcej niż sam talent. Owen czekał na to: „mam takiego, trzymałem go dla ciebie". Tam — sierota może trzynastoletni, cichy, o oczach, które wszystko notują, szybki z literami i liczbami tak, że trzeba go było hamować. A najlepsze: „ten się nie wygada, widzi wszystko, pamięta wszystko, mówi tyle co musi — cichy jak grób i wierny jak pies". Dyskrecja i lojalność ponad talent — dostałem wszystko naraz. Domknąłem sufit jak należy: awansowałem Hala na prowadzącego biurko i związałem go udziałem (nie pensją, jak radziła Nesta — fosą ma być wspólny interes), a Tam idzie pod niego. Łańcuch brania-pod-skrzydło ciągnie się dalej: Aemon→ja, Owen→ja, ja→Hal, a teraz Hal→Tam. Firma przestaje uderzać w sufit mojego czasu — mnożę się przez uczniów. Capacity odblokowane. Zmęczenie 14, południe.

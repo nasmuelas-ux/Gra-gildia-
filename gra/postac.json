@@ -8,8 +8,8 @@
   "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
-  "sytosc": 18,
-  "zmeczenie": 6,
+  "sytosc": 40,
+  "zmeczenie": 14,
   "sakiewka": {
     "miedziaki": 4,
     "jelenie": 22,
@@ -186,7 +186,7 @@
     "strumienie_cykliczne_miesieczne": {
       "draw_wspolnika_nesta": "6 jel/mies (spolka Nesty) - KANON. Do kasy w Dniu Bilansu",
       "czynsz_kamieniczki": "9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies",
-      "oplaty_retainerow_udzial_symona": "Retainery firmy 18 jel/mies brutto (Aurane 4 + Blok 3 + Faktoria 2 + Torhen 3 + Rollam 3 + Harlon 3) - 5 jel place juniorow = firma netto 13; UDZIAL SYMONA 2/3 = ~9 jel/mies. UWAGA: juniorzy Hal/Wick AT CAPACITY - dalszy wzrost wymaga 3. reki"
+      "oplaty_retainerow_udzial_symona": "Retainery firmy 18 jel/mies brutto (6 retainerow) - place/udzialy zespolu (Wick wage + TAM nowy junior wage + HAL teraz na UDZIALE nie pensji) ~ firma netto; UDZIAL SYMONA ~7 jel/mies. STRUKTURA od 07-28: Hal PROWADZI biurko na UDZIALE (fosa=interes wspolny, per Nesta), Tam junior pod Halem. Capacity odblokowane - firma moze brac wiecej retainerow."
     },
     "strumienie_per_zdarzenie": {
       "drewno_marza": "NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)",
@@ -198,7 +198,7 @@
       "zelazo_okucia_marza": "Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant."
     },
     "koszty_cykliczne_uwaga": "Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.",
-    "baseline_miesieczny_do_kasy": "~22 jel/mies (czynsz netto 7 + udzial firmy ~9 + draw 6) + per-zdarzenie upside - podatek_miejski. CAPACITY: 6 retainerow+filary+agregat = firma pelna, Hal/Wick napieci",
+    "baseline_miesieczny_do_kasy": "~20 jel/mies (czynsz netto 7 + udzial firmy ~7 + draw 6) + per-zdarzenie upside - podatek_miejski. Capacity ODBLOKOWANE (Hal lead+udzial, Tam junior) - miejsce na wzrost.",
     "retainery_szczegol": {
       "Aurane": "4 jel/mies (premium)",
       "Blok": "3 jel/mies (pula kupcow)",

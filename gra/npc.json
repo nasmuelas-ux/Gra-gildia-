@@ -1817,8 +1817,8 @@
       "stan": "mieszczanin (zamozny kupiec-faktor)",
       "zawod": "powazny kupiec-faktor (wiekszy obrot, port); slyszal o 'skrybie co wypatruje wycieki'",
       "mieszka": "port/Schody",
-      "nastawienie_do_gracza": 58,
-      "zaufanie": 21,
+      "nastawienie_do_gracza": 63,
+      "zaufanie": 24,
       "wie_o_graczu": [
         "297-01-15 (rzut 41): sondowal Symona o cos wiekszego (slyszal historie z Godrikiem/relief). Zainteresowany, ale OSTROZNY/niezobowiazujacy - powazny faktor nie daje duzej roboty niesprawdzonemu, swiezo-widocznemu mlodzikowi na pierwszym spotkaniu. Drzwi UCHYLONE, nie otwarte: chce zobaczyc wiecej, nim zaufa czyms substancjalnym. Symon przeczytal: to cultivate+proving+cierpliwosc, nie szybki skok.",
         "297-01-16 (rzut 41): Symon probowal cultivate bezposrednio (nie napierajac na robote, tylko pokazac wartosc). Rollam uprzejmy, ale sie NIE ruszyl - dla ostroznego czlowieka druga wizyta w tydzien sygnalizuje zainteresowanie/potrzebe, a potrzeba u mlodego = znak, ze jeszcze nie stoi twardo. Symon przeczytal to w pore: tej ryby nie lowi sie chodzeniem do niej; im bardziej zabiegana, tym bardziej sie cofa. Rollam przyjdzie sam, gdy reputacja Symona dotrze do niego cudzymi ustami. Drobny plus (nast 6->8), ale glowna nauka: NIE kurtyzowac bezposrednio - budowac imie gdzie indziej, pozwolic mu znalezc.",
@@ -1831,7 +1831,7 @@
         "297-05-26 POPOLUDNIE (rzut 68): Symon od razu zajal sie glebszym przejsciem ksiegi - i doszlo do REALNEGO catchu: naleznosc od jednego kontrahenta STARZEJE sie za daleko (blisko granicy latwej sciagalnosci) - Symon oznaczyl, by Rollam scigal ja TERAZ, poki zbieralna. Ochroniona realna kasa. Powazny operator ceni catch wysoko - zaufanie skoczylo. +6 jel. nast 51->55, zauf 17->19.",
         "297-06-15 (rzut 72, sluchanie-first): Symon wszedl BEZ agendy - \"co nowego, jak interes?\". Rozbroil ostroznego (nie sprzedaje=rozluznia). Przerwa 20 dni rozmyla sie (wizyta nie transakcja). Stara nalezność (flag 05-26): Rollam POSLUCHAL, ruszyl w porе, odzyskal wiekszosc - wartosc Symona potwierdzona. NOWA OS (przez pytanie): interes ROSNIE wiosna (wiecej kont/wolumen) -> lek ze cos sie przeslizgnie. Symon zaoferowal (w odp na jego lek) SAMOSYGNALIZUJACY system (jak Godricowi) + stale oko nad skalowaniem - welcomed, renews value ponad leak-hunting. +4 jel wycinek. nast 55->58, zauf 19->21. Zaufanie wznawia raty."
       ],
-      "ostatni_kontakt": "297-06-15",
+      "ostatni_kontakt": "297-07-22",
       "cechy_mowy": "powsciagliwy, mierzy dlugo, malo slow"
     },
     {

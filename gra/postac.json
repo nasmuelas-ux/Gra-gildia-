@@ -8,8 +8,8 @@
   "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
-  "sytosc": 55,
-  "zmeczenie": 18,
+  "sytosc": 46,
+  "zmeczenie": 20,
   "sakiewka": {
     "miedziaki": 4,
     "jelenie": 12,
@@ -75,7 +75,8 @@
     "STANDARDY DOMENY KREDYTU I PEWNOSCI (z Nesta 297-02-05, rzut 86): (1) KRYTERIA BANKOWALNOSCI weksla - wyplacalny platnik(DD)+realna naleznosc(nie nadzieja)+luka CZASOWA(nie chroniczna nedza)+maly rozmiar+zabezpieczenie+oplata za ryzyko+LIMITY ekspozycji(max/deal, max lacznie, dywersyfikacja). (2) MENU: weksle/rekojmie, usluga zarzadcza, audyt forensyczny, (wiosna)ubezpieczenia frachtu - z zakresem/cena. (3) PLAYBOOK: zrodlo=zaufana siec(referrale) NIE desperaci(anty-neg-selekcja); twarda kwalifikacja przed oferta; jak mowic NIE(przekierowac odrzuconego ku usludze zarzadczej); dyskrecja+dawkowanie wgladu(lekcja Harlona); kantor-kapital vs solo; kadencja zima=budowac/siac cicho, wiosna=skalowac. Braavijskie wzory weksla od Nesty. MOAT/fach, nie pojedyncze deale.",
     "ETYKA SYMONA (wyartykulowana 297-02-07): miara wplywu = ODPOWIEDZIALNOSC za ochrone slabszych; wiara nie zabrania bogactwa, lecz zada SPRAWIEDLIWOSCI. 'Chronic slabych, bo mi sie udalo.' Nie vendetta, lecz powinnosc; nie kwestionuje prawa cechu do licencji, lecz METODE zbira. Przekonal tym Owena - jego wlasna wiara. Rdzen tozsamosci kupca-sprawiedliwego, nie tylko dorobkiewicza.",
     "BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO (od Nesty): interes ubezpieczalny (tylko realny tracacy), indemnizacja do wysokosci szkody (nie wzbogacenie), wyzwalacz+dowod straty (calkowita/czesciowa/awaria wspolna), forma zwyczajowa braawijska. Odroznia ubezpieczenie od zakladu. Grunt solidny, mistrzostwo przez praktyke.",
-    "PRAWO UMOW HANDLOWYCH I ARBITRAZU"
+    "PRAWO UMOW HANDLOWYCH I ARBITRAZU",
+    "LICZBY UCZCIWE vs ZMYSLONE (wlasna obserwacja Symona, NIENAZWANA): w naturalnych ksiegach WIODACE CYFRY sum nie sa rowne - jedynki wioda daleko czesciej niz dziewiatki, w gladkim opadajacym zboczu; liczby ZMYSLONE (falszerstwo) lamia to zbocze (za rowne / zle skupione). Narzedzie forensyczne do wykrywania cooked books. Empiryczne, bez nazwy - swiat nie zna 'prawa'. Prywatny edge Symona (audyt 8/rachunki 10). FIREWALL: ostrożnie komu pokazywane."
   ],
   "postawy": {
     "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku."
@@ -167,7 +168,7 @@
     "udzial_wykup_aldous": "Udzial w wykupie dlugu Aldousa (~28 jel, blok): fair refinance - Aldous winien blokowi na przyjacielskich warunkach (odzyskiwalne, nie strata)."
   },
   "licznik_uzyc": {
-    "audyt": 2,
+    "audyt": 3,
     "rachunki": 2,
     "pismo": 1,
     "handel": 1

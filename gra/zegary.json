@@ -366,6 +366,12 @@
       "odlicza_do": "297-08-0X (~1-2 tyg)",
       "typ": "proces",
       "opis": "297-07-20: 1. partia zelaza/okuc pod sezon budowlany zamku zamowiona u korespondenta Gulltown (off-take zamku + komis, kapital-light). Trasa wschodnia Bite/Gulltown - lead ~1-2 tyg, zalezna od pogody (wiosna lepsza niz zima). Boren/kolodzieje obrabiaja po przybyciu. Marza ksieguje sie przy dostawie. Resztkowe ryzyko trasy - obserwowac."
+    },
+    {
+      "id": "relief_rozdzial_przednowek",
+      "odlicza_do": "do zniw (tygodnie)",
+      "typ": "proces",
+      "opis": "297-07-21: rozdzial reliefu lorda (ziarno/opal) administruje Wiara; Symon ustawil CZYSTY SYSTEM dystrybucji (rejestry potrzebujacych, przydzialy, kontrola przeciw skim/faworyzacji - jego edge). Ongoing przez tygodnie do zniw. Czyste dobro, wzmacnia cover/Wiare. Symon doglada rejestrow z boku (nie codziennie)."
     }
   ]
 }

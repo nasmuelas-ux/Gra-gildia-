@@ -335,7 +335,7 @@
       "id": "agregat_dowodowy_zbieranie",
       "odlicza_do": "297-07-2X",
       "typ": "proces",
-      "opis": "Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/przekrawanie, Symon doglada z boku. Pasma gestnieja z kazda ksiega; przy bankowej gestosci -> produkt gotowy do Belarna. Dni-tygodnie, w rytmie splywajacych retainerow. Firewall caly. || 297-07-16 POPOL (rzut 37, doglad): Hal trzyma rytm - kilka ksiag retainerowych zlozonych, metoda na nowej granulacji dziala, pasma gestnieja. WRINKLE dobrze obsluzony: jedna ksiega z LUKA (kupiec niepelny), Hal NIE zgadl - zaflagowal; Symon: uzyc tylko czystego, nie forsowac (luka nie zaklamie wzoru). Postep solidny, NA TORZE, ale bankowa gestosc dopiero za DNI zbierania. Hal dojrzewa."
+      "opis": "Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/przekrawanie, Symon doglada z boku. Pasma gestnieja z kazda ksiega; przy bankowej gestosci -> produkt gotowy do Belarna. Dni-tygodnie, w rytmie splywajacych retainerow. Firewall caly. || 297-07-16 POPOL (rzut 37, doglad): Hal trzyma rytm - kilka ksiag retainerowych zlozonych, metoda na nowej granulacji dziala, pasma gestnieja. WRINKLE dobrze obsluzony: jedna ksiega z LUKA (kupiec niepelny), Hal NIE zgadl - zaflagowal; Symon: uzyc tylko czystego, nie forsowac (luka nie zaklamie wzoru). Postep solidny, NA TORZE, ale bankowa gestosc dopiero za DNI zbierania. Hal dojrzewa. || 07-18: ksiegi Mereka (dostawca nadbijal - echo wzoru Antaryona) to material zrodlowy do gestosci agregatu; Symon notuje cicho, chroni zrodlo (firewall)."
     },
     {
       "id": "lord_odpowiedz_petycja",
@@ -354,6 +354,12 @@
       "odlicza_do": "otwarty",
       "typ": "okazja",
       "opis": "297-07-18 (rzut 87): Torhen ocieplony (41->60/16->28) - z chlodnego retainera w sojusznika. Jako zarzadca domu zaopatrujacego Nowy Zamek OTWORZYL kanal INTELU PROCUREMENTOWEGO: rytm zakupow zamku, kto co dostarcza, NADCHODZACE potrzeby sezonu budowlanego (lead na wiecej biznesu zaopatrzeniowego poza drewnem). Retainer upgrade 2->3 jel. FIREWALL: trzymac czysto komercyjnie (establishment - zero cienia Antaryona). OKAZJA: rozwinac role zaopatrzeniowa zamku przez Torhena."
+    },
+    {
+      "id": "most_merek_zamek_prowiant",
+      "odlicza_do": "otwarty",
+      "typ": "okazja",
+      "opis": "297-07-18 (rzut 95): LEAD zbiegajacy dwa swieze watki - Torhen otworzyl intel procurementowy zamku (zamek potrzebuje na sezon: wapno/gwozdzie/sol/plotno/PROWIANT), a Merek to zamozny handlarz PROWIANTEM. MOST: Merek dostarcza, Symon koordynuje (jak przy drewnie Benneta), popyt zamku. Merek zainteresowany. OKAZJA: zbudowac 2. filar zaopatrzeniowy zamku (prowiant) obok drewna. Firewall: czysto komercyjnie."
     }
   ]
 }

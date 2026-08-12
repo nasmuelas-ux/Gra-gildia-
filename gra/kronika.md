@@ -5771,3 +5771,6 @@ Firma pokazala, po co ja zbudowalem. Ratowany wczoraj towar w murach Aurane'a dz
 
 ## 297-07-31 POPOLUDNIE - Wizyta u Serli (rzut 5, drobna rysa)
 Trafilem na zly dzien: Serla zmeczona, przygaszona, przednowek ja zjada, a wczorajszy sztorm dolozyl przeciek w kacie dachu (miska lapie krople). Rozmowa sie nie kleila, ona myslami gdzie indziej, a miedzy nami cicha niezrecznosc - patrzy na mnie, wschodzacego zamoznego kupca, z niewypowiedziana nadzieja na ulge, ale duma nie pozwala prosic. Wizyta flat, nasluch zaden, ciepla niewiele - ale nic zepsute (lubi mnie, relacja trzyma). Wyszedlem z jednym: swiadomoscia, ze stara wdowa, co dala mi kiedys dach, sama ledwo wiaze koniec z koncem, z dziura w tym dachu po sztormie. Co z tym zrobie - moj wybor, nie jej prosba. Zmeczenie 28, sytosc 42.
+
+## 297-07-31 - KOREKTA (gracz): Serla samodzielna
+Cofniete cierpietnictwo Serli. Fakty: karmi chlopakow Symona (dochod) + ma lokatora, ktorego Symon jej znalazl (czynsz) = radzi sobie, NIE w potrzebie. Wizyta 07-31 (rzut 5) = po prostu flat/niska wartosc (zla godzina), bez hardshipu, bez nadziei na jalmuzne, bez szkody. Anty-dryf.

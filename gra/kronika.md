@@ -5348,3 +5348,6 @@ Symon wrócił do siebie, zjadł, odpoczął po dniu, który ułożył się dobr
 
 ## 297-06-29 WIECZÓR — brulion petycji do lorda (rzut 90)
 Symon przy świecy naszkicował mocny brulion petycji do lorda Wymana ws. przednówka. Trzy nogi: moralna waga Wiary (pobożny Manderly winien ludowi opiekę), TWARDE LICZBY z ksiąg jałmużny Septy (jego edge — konkret nie do zbycia: o ile więcej gęb, jak nisko zapasy, ilu chorych, jak cienieje prywatna studnia), północny honor (dobry lord karmi w chudy przednówek, lud pamięta). Ask konkretny: ziarno/opał/ręka organizacyjna do żniw. Firewall: sprawa Wiary, Symon pokorne pióro. NEXT: dograć z Owenem ton/timing, potem droga steward→lord. Trudny do odrzucenia. Zmęcz 16. → NOC.
+
+## 297-06-29 NOC — sen; 297-06-30 RANEK — nowy prospekt puka (inbound rzut 15)
+Symon przespał noc po wielkim dniu. RANO 06-30 (ostatni dzień miesiąca): silny inbound — nowy prospekt zmaterializował się konkretnie. Kupiec z „zaplątanym interesem" przysłał słowo wprost (posłaniec, bez nazwiska), prosi o spotkanie — potrzebuje dyskretnego piśmiennego rachmistrza, słyszał o Symonie (rosnące nazwisko, krąg Schodów). Płatne, ale „zaplątany interes" = wywęszyć, kto zacz i w co wciąga, PRZED spotkaniem (firewall — może powiązany z kimś). Plan dnia też: Owen + petycja (gotowa do biegu). Pogoda: łagodny mglisty poranek, drogi obeschły. Syt 38, zmęcz 4.

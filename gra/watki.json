@@ -692,9 +692,9 @@
   },
   {
    "id": "lead_nowy_faktor",
-   "status": "otwarty",
+   "status": "INBOUND — prosi o spotkanie (06-30), wywęszyć kto zacz",
    "priorytet": "niski",
-   "opis": "297-04-02 (wywiad 92): swiezo przybyly faktor (wiosenne arrivals) rozpytuje po cichu o piśmiennego, dyskretnego czlowieka od liczb - ma zaplatany interes. Nieznany jeszcze, tlo-level. Trop od kola zamachowego marki Symona. Do namierzenia/sprawdzenia gdy Symon zechce (przez garkuchnie/siec portowa). || 297-06-27 INBOUND (rzut 20): przez krag Schodow (word-of-mouth Rollam/Wyllam) ktos - nieznany jeszcze kupiec - znowu wypytuje o \"dyskretnego czlowieka od liczb\". Twarzy brak, trop zywy do namierzenia gdy Symon zechce."
+   "opis": "297-04-02 (wywiad 92): swiezo przybyly faktor (wiosenne arrivals) rozpytuje po cichu o piśmiennego, dyskretnego czlowieka od liczb - ma zaplatany interes. Nieznany jeszcze, tlo-level. Trop od kola zamachowego marki Symona. Do namierzenia/sprawdzenia gdy Symon zechce (przez garkuchnie/siec portowa). || 297-06-27 INBOUND (rzut 20): przez krag Schodow (word-of-mouth Rollam/Wyllam) ktos - nieznany jeszcze kupiec - znowu wypytuje o \"dyskretnego czlowieka od liczb\". Twarzy brak, trop zywy do namierzenia gdy Symon zechce. || 297-06-30 RANEK (inbound rzut 15): prospekt ZMATERIALIZOWAL sie - kupiec z \"zaplatanym interesem\" przyslal slowo wprost, prosi o spotkanie, chce dyskretnego pismiennego rachmistrza (slyszal o Symonie - rosnace nazwisko/Schody). Platne. HAK: \"zaplatany interes\" = wyweszyc kto zacz + w co wciaga PRZED spotkaniem (firewall, moze powiazany z kims - Antaryon? cech? sprawdzic przez siec)."
   },
   {
    "id": "izba4_wlasne_lokum",

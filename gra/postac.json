@@ -8,8 +8,8 @@
   "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
-  "sytosc": 42,
-  "zmeczenie": 16,
+  "sytosc": 30,
+  "zmeczenie": 36,
   "sakiewka": {
     "miedziaki": 4,
     "jelenie": 26,
@@ -27,7 +27,7 @@
     "KOPIA WPISU REJESTRU (tytul wlasnosci kamieniczki pod nazwisko Symon Tally) - od Torrena, 297-01-09"
   ],
   "reputacja": {
-    "port": 33,
+    "port": 35,
     "schody_zamkowe": 38,
     "cech_pisarzy": -6,
     "wiara": 90,
@@ -176,7 +176,7 @@
     "rachunki": 11,
     "pismo": 7,
     "handel": 11,
-    "organizacja": 6
+    "organizacja": 7
   },
   "przychody": {
     "zasada": "KSIEGA PRZYCHODOW - jedyne miejsce na wplywy. GDZIE: tu (postac.json.przychody) + render STAN.md + slad w ukryte/przychody.log. KIEDY: (a) per-zdarzenie ksiegowane gdy zdarzenie odpala; (b) cykliczne miesieczne zmiatane w DZIEN BILANSU (1. dnia miesiaca). W Dniu Bilansu: zlicz miesiac -> gotowka do sakiewki, wpis kronika+log. Kwoty oznaczone 'szac.' do potwierdzenia w grze.",

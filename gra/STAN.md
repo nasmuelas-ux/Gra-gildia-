@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-16 RANEK · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-16 POLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -22,7 +22,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Wspol-underwriting wiosennego ladunku: 65 jel na ryzyku (czysty/znany ladunek, tlusta skladka przeplacona przez rynek); skladka rozliczy sie na bezpiecznym dotarciu (~kilka tyg). Edge: realne ryzyko < premia.
 - Retainery firmy (staly przychod, Hal rutyna + pieczec Symona): AURANE (premium) + FAKTORIA Nesty (weryfikacja, pole rampu Hala) + BLOK-RDZEN (Aldous+Harlon, weryfikacja=grosz+cement obrony; rosnie od jadra). Firewall-czyste. Dochod niezalezny od godzin.
 - Udzial w wykupie dlugu Aldousa (~28 jel, blok): fair refinance - Aldous winien blokowi na przyjacielskich warunkach (odzyskiwalne, nie strata).
-- Zdrowie 100 · Sytosc 20 · Zmeczenie 8
+- Zdrowie 100 · Sytosc 50 · Zmeczenie 16
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -86,9 +86,10 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `None` torhen_audyt: 297-05-09 (rzut 65): lead klient-establishment ZYWY, namierzony - zarzadca TORHEN (dom zaopatrujacy Nowy Zamek
 - ◆ `297-06-05` ksiega_kredytowa_zwrot: 297-05-14: Symon ulokowal 50 jel jako DWA WEKSLE (solidni dluznicy, dobry zastaw, dochodowy procent; podporka 
 - ◆ `None` kanal_polnoc_capacity: 297-05-15 (Torsen, rzut 39): KANAL POLNOCNY NEAR CAPACITY - sukces przeciazyl podaz. Sol Harlona + drewno na z
-- ◆ `?` petycja_lord_przednowek: 297-06-26 ZAWIAZANY: PRZEDNOWEK dusi Septe - rejestry ubogich pecznieja, zapasy lekow/ziarna cienieja, prywatn
+- ◆ `WNIESIONA-czeka na Wymana` petycja_lord_przednowek: 297-06-26 ZAWIAZANY: PRZEDNOWEK dusi Septe - rejestry ubogich pecznieja, zapasy lekow/ziarna cienieja, prywatn
 - ◆ `?` bank_wazy_antaryon: 297-07-11: machina Banku URUCHOMIONA (spust pociagniety, nieodwracalne). Bank ostrozny - Antaryon to i jego kl
 - ◆ `297-07-2X` agregat_dowodowy_zbieranie: Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/prze
+- ◆ `297-07-1X/2X` lord_odpowiedz_petycja: Petycja przednowkowa WNIESIONA przez Owena (glos Wiary) do lorda Wymana, wsparta cicho przez Godrica. Odpowied
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

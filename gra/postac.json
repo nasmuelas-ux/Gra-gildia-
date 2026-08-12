@@ -174,7 +174,7 @@
     "rachunki": 10,
     "pismo": 5,
     "handel": 9,
-    "organizacja": 5
+    "organizacja": 6
   },
   "przychody": {
     "zasada": "KSIEGA PRZYCHODOW - jedyne miejsce na wplywy. GDZIE: tu (postac.json.przychody) + render STAN.md + slad w ukryte/przychody.log. KIEDY: (a) per-zdarzenie ksiegowane gdy zdarzenie odpala; (b) cykliczne miesieczne zmiatane w DZIEN BILANSU (1. dnia miesiaca). W Dniu Bilansu: zlicz miesiac -> gotowka do sakiewki, wpis kronika+log. Kwoty oznaczone 'szac.' do potwierdzenia w grze.",

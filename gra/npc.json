@@ -574,7 +574,7 @@
     "297-06-20 POLUDNIE: Symon domknal - przywrocil kobiete PRZEZ SIOSTRE (reka w cieniu), wpisal \"potrzeba prawdziwa\", oddal OSAD LUDZKI siostrze/septie (kto jest kim), a sobie zostawil tylko zaplecze (store/rachuby). Metoda skorygowana wlasciwie: przy Wierze = liczydlo za kotara, nie reka na jalmuznie. Sprawa zamknieta cicho."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-06-30",
+   "ostatni_kontakt": "297-07-08",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
   },
@@ -2014,6 +2014,19 @@
     "297-05-11 (rzut 68): Symon dostarczyl wynik czysto - strona Torhena czysta, przeciek na intake zamku, udokumentowane. Torhen zwindykowany (nie okradany przez swoich, nie pan-co-sie-nie-zna). Symon radzil cicho, ZSZEDL z linii (nie pcha sie w podworko szafarza). Zaplacil reszte fee bez targu. PATRON przy dworze zdobyty. nast 15->30, zauf 10."
    ],
    "cechy_mowy": "powsciagliwy, dworski, ostrozny w slowach"
+  },
+  {
+   "id": "starszy_wystan",
+   "imie": "Wystan",
+   "zawod": "cechmistrz cechu pisarzy - rozsadny, kupiecki (nie zajadly jak Mennard); grosz wazy wiecej niz animozja",
+   "nastawienie_do_gracza": 5,
+   "zaufanie": 0,
+   "ostatni_kontakt": "297-07-08 (przez Owena, posrednio)",
+   "wie_o_graczu": [
+    "przez Owena: godny kupiec-faktor (wpisany, poza charterem pisarzy), woli cech KARMIC robota niz z nim wojowac - slucha ostroznie",
+    "Mennard szczeka na Symona; Wystan nie poda reki jawnie poki tak, ale interes go interesuje"
+   ],
+   "cechy_mowy": "rzeczowy, kupiecki, wazy slowa; mierzy interes nie honor"
   }
  ],
  "orbita": [

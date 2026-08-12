@@ -2,14 +2,14 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-26 POPOLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-26 WIECZOR · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
 - **Nastroje:** 297-06-27 POPOLUDNIE, przedwiosnie/pelna odwilz (nawrot chlodu - zimny deszcz ze sniegiem). Miasto budzi sie z zimy: rzeki puszczaja, dwor wraca do spraw, wiosenne arrivals (kupcy/faktorzy). Przednowe
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 17 jeleni + 4 mied + 0 smokow
+- **Wolne:** 22 jeleni + 4 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -24,6 +24,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Prowiant-marza (Merek->broker->zamek): DRUGI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 66). Merek dostarcza, Symon koordynuje, zamek bierze INKREMENT SEZONU BUDOWLANEGO (prowiant dla ekip - baseline zamku zostaje u obecnych, Symon lapie sezonowy surge). Marza per dostawa (cienszy staple niz drewno, ale recurring), kapital-light (pre-sold). Roznicznik Symona = oko jakosci/pewnosc (graded, niezawodny prowiant dla budowy). Ksieguj marze per dostawa. [07-22: HARLON (solarz/zapasy) dodany jako 2. wezel podazy obok Mereka - sol+suchy prowiant, filar robustniejszy/skalowalny]
 - Zelazo/okucia-marza (Gulltown->Boren->zamek): TRZECI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 82). Popyt: zamek na budowe (gwozdzie/okucia/zelazo, Torhen/Godric); Zrodlo: korespondent Gulltown (tanie u zrodla, trasa wschodnia Bite/Gulltown); Obrobka: Boren/kolodzieje (raw->okucia, zyskuja tanie zelazo); Symon koordynuje/skim. KAPITAL-LIGHT: off-take zamku (pre-commit) + komis/kredyt korespondenta = niski cash Symona. Marza per partia (grubsza niz prowiant/staple). 1. partia = LEAD TIME ~1-2 tyg (trasa wschodnia, zalezna od pogody - wiosna lepsza). Pasywny bleed Antaryona trwa (graded supply off jego frachtu).
 - Logistyka/sztauowanie: skladki portowe AURANE'A jako kregoslup operacji (07-25) - miejsce sztauowania 3 filarow zamkowych (drewno/prowiant/zelazo) + przeladunek korytarza sukna + bufor arrivals. Aurane pelne magazyny+dochod, Symon pojemnosc (de-ryzykuje filary+korytarz). Bonus: Aurane dzieli sie wgladem w przeplywy portu (kto co magazynuje). Partnerstwo, nie audyt.
+- Korytarz braawijski (ZYWY 07-26): zintegrowany kanal - sukno IN (Leona wolumen+klienci / Mira nisza+dojscia+weryfikacja, oslona Leony spisana) -> Nesta faktoruje -> skladki Aurane; bursztyn/futra OUT do Braavos (zysk dojrzewa tyg). Symon spina+marza koordynacyjna. Recurring. Pierwsza prowizja +5 jel.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-08-01 (ostatni: 297-07-18 (baseline zalozony))
@@ -40,7 +41,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - prowiant_marza: Marza koordynacyjna z dostaw prowiantu Merek->zamek (sezon budowlany). Ksieguj per dostawa. Recurring, cienszy niz drewno.
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 44 · Zmeczenie 16
+- Zdrowie 100 · Sytosc 38 · Zmeczenie 22
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -60,7 +61,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 52
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 80
-- **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 85
+- **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 87
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 90
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 77
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 60

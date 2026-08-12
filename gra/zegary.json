@@ -328,7 +328,7 @@
   {
    "id": "bank_wazy_antaryon",
    "typ": "proces/endgame (nieodwracalny)",
-   "opis": "297-07-11: machina Banku URUCHOMIONA (spust pociagniety, nieodwracalne). Bank ostrozny - Antaryon to i jego klient; wazy skim-vs-wartosc-partnera; zada korroboracji ZELAZNEJ domknietej przed ruchem, moze renegocjowac zamiast niszczyc. Proces toczy sie WOLNO, po bankowemu, poza kontrola Symona. Zalezy od: (a) korroboracji Gartha bez skazy pod bankowym zapytaniem, (b) decyzji Banku ze skim>wartosc-partnera. RYZYKO: bufor napiety (agent dociska o zrodlo); Garth kruchy pod zapytaniem. Odpowiedz/ruch Banku realnie za dni-tygodnie."
+   "opis": "297-07-11: machina Banku URUCHOMIONA (spust pociagniety, nieodwracalne). Bank ostrozny - Antaryon to i jego klient; wazy skim-vs-wartosc-partnera; zada korroboracji ZELAZNEJ domknietej przed ruchem, moze renegocjowac zamiast niszczyc. Proces toczy sie WOLNO, po bankowemu, poza kontrola Symona. Zalezy od: (a) korroboracji Gartha bez skazy pod bankowym zapytaniem, (b) decyzji Banku ze skim>wartosc-partnera. RYZYKO: bufor napiety (agent dociska o zrodlo); Garth kruchy pod zapytaniem. Odpowiedz/ruch Banku realnie za dni-tygodnie. || 297-07-13 (siec, wczesne ostrzezenie): MACHINA RUSZYLA - Bank wyslal ZAPYTANIE o korroboracje do cla Bramy Foki (\"w interesie wierzyciela\", o antaryonskie fracht/clo), z bankowego kata (firewall trzyma). PUNKT ZWROTNY. ALE Garth ROZTRZESIONY (zapytanie o antaryonskie cedule go sploszylo). Wisi na: Garth potwierdzi spokojnie nie pekajac/nie ujawniajac zrodla. Symon NIE wprost (firewall) - stabilizowac posrednio przez siec."
   }
  ]
 }

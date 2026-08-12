@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-07-24 POPOLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-07-24 WIECZOR · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -16,7 +16,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Weksle / mostek-kredyt (niezabezp.): 100 jel u dluznikow (30 swiezo ulokowane 06-28 + 10 na przedluzeniu); procent dochodowy
 - Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18)
 - Rotacja faktorii Nesty (zboze-sol): ~250 jel w obrocie, plon per cykl
-- Drewno-marza (Bennet->broker->zamek): umowa OPIECZETOWANA 07-18, SKALOWANA 07-18 (rzut 63). Godric zakontraktowal wiekszy wolumen budowlany na sezon; Bennet podniosl scinke. Przepustowosc filaru ~1.5x - najwiekszy strumien marzy (per dostawa). DOSTAWA BENNETA = BEZPOSREDNIO LADEM (dostawca lokalny), BEZ WODY - NIE zalezy od kanalu Bialego Noza ani przewozu rzecznego. REALNY SUFIT SKALOWANIA = pojemnosc scinki Benneta + przewoz LADOWY (wozy/woly, stan drog; wiosenne bloto obsycha = lepiej). Kapital-light (pre-sold off-take zamku). Ksieguj marze per dostawa. [UWAGA: ubezp-tranzyt WODNY dotyczy rotacji faktorii, nie tego filaru]
+- Drewno-marza (Bennet->broker->zamek): umowa OPIECZETOWANA 07-18, SKALOWANA 07-18 (rzut 63). Godric zakontraktowal wiekszy wolumen budowlany na sezon; Bennet podniosl scinke. Przepustowosc filaru ~1.5x - najwiekszy strumien marzy (per dostawa). DOSTAWA BENNETA = BEZPOSREDNIO LADEM (dostawca lokalny), BEZ WODY - NIE zalezy od kanalu Bialego Noza ani przewozu rzecznego. REALNY SUFIT SKALOWANIA = pojemnosc scinki Benneta + przewoz LADOWY (wozy/woly, stan drog; wiosenne bloto obsycha = lepiej). Kapital-light (pre-sold off-take zamku). Ksieguj marze per dostawa. [UWAGA: ubezp-tranzyt WODNY dotyczy rotacji faktorii, nie tego filaru] [07-24 rzut 18: PODAZ NAPIETA - skalowanie 1.5x przeciazylo Benneta (scinka+przewoz ladowy nie nadąza; brak rak-wiosna/pole; zimny nawrot rozmiekczyl drogi=wozy grzezna). Symon zaniedbal baze (26 dni). Reliability NAJGRUBSZEGO filaru CHWIEJE SIE u zrodla. Do ratowania.]
 - Firma faktorska ZAREJESTROWANA (07-01): legalny byt, Symon 2/3 udzialu + kontrola + neutralna twarz; Nesta cichy backer (1/3, imienia brak na rejestrze); czeladnicy Hal/Wick. +1/3 z transakcji w kantorze.
 - Wspol-underwriting tranzytu (compound Nesty): 115 jel na ryzyku (65 + 50 dolozone 07-22). Model ZWALIDOWANY sztormem 07-17. Wiosenny sezon zeglugowy = duzy wolumen skladek do obpisania -> recurring SKIM SKLADKI rosnie proporcjonalnie. Ryzyko wody realne ale ROZLOZONE/strukturowane (nie na jeden kadlub). Zwrot: recurring premia per cykl. Kapital PLYNNIE zamrozony (na ryzyku).
 - Retainery firmy (staly przychod, Hal rutyna + pieczec Symona): AURANE (premium) + FAKTORIA Nesty (weryfikacja, pole rampu Hala) + BLOK-RDZEN (Aldous+Harlon, weryfikacja=grosz+cement obrony; rosnie od jadra). Firewall-czyste. Dochod niezalezny od godzin.
@@ -39,7 +39,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - prowiant_marza: Marza koordynacyjna z dostaw prowiantu Merek->zamek (sezon budowlany). Ksieguj per dostawa. Recurring, cienszy niz drewno.
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 38 · Zmeczenie 20
+- Zdrowie 100 · Sytosc 32 · Zmeczenie 26
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
@@ -63,7 +63,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 90
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 77
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 60
-- **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 65
+- **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 58
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark
@@ -114,6 +114,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `do zniw (tygodnie)` relief_rozdzial_przednowek: 297-07-21: rozdzial reliefu lorda (ziarno/opal) administruje Wiara; Symon ustawil CZYSTY SYSTEM dystrybucji (r
 - ◆ `FINDING POTWIERDZONY - decyzja gracza pending` vox_audyt_follow: 297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atr
 - ◆ `otwarty` firma_capacity_3reka: 297-07-22: firma NAPELNIONA - 6 retainerow (Aurane/Blok/Faktoria/Torhen/Rollam/Harlon) + 3 filary zamkowe + ag
+- ⚠ `dni (zamek czeka)` bennet_podaz_napieta: 297-07-24 (rzut 18): NAJGRUBSZY FILAR (drewno na zamek) CHWIEJE SIE U ZRODLA. Skalowanie 1.5x przeciazylo Benn
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

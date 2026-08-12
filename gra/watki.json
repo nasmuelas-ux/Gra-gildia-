@@ -104,7 +104,7 @@
   },
   {
    "id": "pioro_dla_wiary",
-   "opis": "Pomagajac w Dzien Matki, Symon uzyl pisma dla Wiary — spisywal listy jalmuzny, czytal/pisal modlitwy dla niepismiennych. Owen dostrzegl, ze jego pioro sluzy septie. To ZALAZEK waskiej sciezki: pismiennosc jako USLUGA dla Wiary (legalna, ortodoksyjna) zamiast heretyckiej roboty u kupcow — mozliwy sposob pogodzenia nogi Wiary z jego fachem (choc bez srebra).",
+   "opis": "Pomagajac w Dzien Matki, Symon uzyl pisma dla Wiary — spisywal listy jalmuzny, czytal/pisal modlitwy dla niepismiennych. Owen dostrzegl, ze jego pioro sluzy septie. To ZALAZEK waskiej sciezki: pismiennosc jako USLUGA dla Wiary (legalna, ortodoksyjna) zamiast heretyckiej roboty u kupcow — mozliwy sposob pogodzenia nogi Wiary z jego fachem (choc bez srebra). || 297-07-12: Symon sluzyl w Sepcie (ksiegi jalmuzny, racje) - przednowek jeszcze dusi ale ziarno faktorii+Owen trzymaja kociol. rep wiara 86.",
    "typ": "okazja",
    "termin": null,
    "wobec": "wiara_siedmiu",
@@ -235,7 +235,7 @@
   },
   {
    "id": "skryba_ludu",
-   "opis": "Po smierci Pate i przy pustej lawie cechu, ubodzy portu coraz czesciej przychodza do Symona — skryby WIARY, uczciwego, dostepnego pod dachem Matki — po listy/podania/modlitwy. Organicznie rosnie jego rola 'skryby ludu': legalna (Faith-charity, cech trudno to zablokowac), buduje baze/standing wsrod smallfolk, i wypelnia luke po Pate. Chip przy problemie legitymacji. || 297-07-02: lud portu DUMNY z \"ich\" skryby (firma+zamek); Wenda glosno podsyca (nast 68). Standing smallfolk mocny/rosnie = kapital spoleczny nie do odebrania przez cech/dwor. rep port 33.",
+   "opis": "Po smierci Pate i przy pustej lawie cechu, ubodzy portu coraz czesciej przychodza do Symona — skryby WIARY, uczciwego, dostepnego pod dachem Matki — po listy/podania/modlitwy. Organicznie rosnie jego rola 'skryby ludu': legalna (Faith-charity, cech trudno to zablokowac), buduje baze/standing wsrod smallfolk, i wypelnia luke po Pate. Chip przy problemie legitymacji. || 297-07-02: lud portu DUMNY z \"ich\" skryby (firma+zamek); Wenda glosno podsyca (nast 68). Standing smallfolk mocny/rosnie = kapital spoleczny nie do odebrania przez cech/dwor. rep port 33. || 297-07-12: Symon sluzyl w Sepcie (ksiegi jalmuzny, racje) - przednowek jeszcze dusi ale ziarno faktorii+Owen trzymaja kociol. rep wiara 86.",
    "typ": "okazja/rozwoj",
    "termin": null,
    "wobec": "wiara_siedmiu",
@@ -675,7 +675,7 @@
   },
   {
    "id": "samotnosc_sekretu",
-   "opis": "THEME/koszt (297-03-26): im wyzej Symon wspina sie w grze cieni (keystone, firewall), tym bardziej JEST SAM z tym, co wie. Wizyta u Aldousa (rzut 12) obnazyla to: przyszedl po ludzkie cieplo, ale nie mogl podzielic sie ciezarem nawet z cieplym przyjacielem-cegla (nie wtajemniczony). Sukces w cieniu placi sie w izolacji. Pelny ciezar dziela tylko Nesta+Owen. Do pilnowania: nie zgorzkniec, nie odciac sie od ludzi calkiem; balans miedzy sekretem a wiezia.",
+   "opis": "THEME/koszt (297-03-26): im wyzej Symon wspina sie w grze cieni (keystone, firewall), tym bardziej JEST SAM z tym, co wie. Wizyta u Aldousa (rzut 12) obnazyla to: przyszedl po ludzkie cieplo, ale nie mogl podzielic sie ciezarem nawet z cieplym przyjacielem-cegla (nie wtajemniczony). Sukces w cieniu placi sie w izolacji. Pelny ciezar dziela tylko Nesta+Owen. Do pilnowania: nie zgorzkniec, nie odciac sie od ludzi calkiem; balans miedzy sekretem a wiezia. || 297-07-12: po dniach w cieniu (Antaryon/Bank/spust) Symon wrocil do Septy sluzyc - kotwica. Owen wyczul ciezar (nie zna specyfiki, firewall trzyma), uziemil: \"chodzic po cieniu i nie zgubic duszy poki wiesz gdzie wracasz; tu wracasz, to jestes ty prawdziwy\". Samotnosc sekretu LZEJSZA - Wiara/Owen jako grunt moralny przy grze cieni.",
    "typ": "charakter/koszt",
    "widoczny_graczowi": true
   },
@@ -833,7 +833,7 @@
    "id": "wiara_przednowek_ciezar",
    "priorytet": "niski",
    "status": "otwarty",
-   "opis": "297-06-09: Wiara/Septa OBLEZONA chudym przednowkiem - puchnace rejestry ubogich, cieniejace zapasy lekow/ziarna, rosnace wydatki na chorych. Owen zmeczony. Ksiegi jalmuzny (Symon prowadzi) to potwierdzaja. CICHY ZEW/HOOK: Symon ma srodki (~385 jel majatku), imie (wiara 84), i biegle oko - moglby pomoc wiekszа miarą (dostawa taniego ziarna/opalu jak zima? organizacja? datek? pomysl kupiecki na tanie zaopatrzenie ubogich?). Nie pilne, ale Faith pod realnym ciezarem. Elna zdrowieje (dowod ze pomoc dziala)."
+   "opis": "297-06-09: Wiara/Septa OBLEZONA chudym przednowkiem - puchnace rejestry ubogich, cieniejace zapasy lekow/ziarna, rosnace wydatki na chorych. Owen zmeczony. Ksiegi jalmuzny (Symon prowadzi) to potwierdzaja. CICHY ZEW/HOOK: Symon ma srodki (~385 jel majatku), imie (wiara 84), i biegle oko - moglby pomoc wiekszа miarą (dostawa taniego ziarna/opalu jak zima? organizacja? datek? pomysl kupiecki na tanie zaopatrzenie ubogich?). Nie pilne, ale Faith pod realnym ciezarem. Elna zdrowieje (dowod ze pomoc dziala). || 297-07-12: Symon sluzyl w Sepcie (ksiegi jalmuzny, racje) - przednowek jeszcze dusi ale ziarno faktorii+Owen trzymaja kociol. rep wiara 86."
   },
   {
    "id": "firma_faktorska",

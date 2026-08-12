@@ -5639,3 +5639,6 @@ Odsapnąłem chwilę i zamiast dokładać firmie kolejny ciężar — pomogłem 
 
 ## 297-07-22 NOC — Inwestuję 50 jel w underwriting (rzut 59; bursztyn cofnięty)
 Najpierw skłoniłem się ku bursztynowi, ale w porę się rozmyśliłem — spekulacja, niepewny yield, kapitał zamrożony za wodą do sprzedaży. Wybrałem pewniejsze i bliższe mojemu sprawdzonemu modelowi: **50 jel w pool underwritingu tranzytu**, ten sam compound, który tydzień temu zdał test sztormu. Nesta rozłożyła kapitał czysto — pool urósł z 65 do **115 jel na ryzyku**, a wiosenny sezon żeglugowy daje spory wolumen składek do obpisania, więc recurring skim rośnie proporcjonalnie. Ryzyko wody realne, ale rozłożone, nie na jeden kadłub. Świadomy tradeoff: gotówka wolna spadła z 57 do **7 jel** — znów cienko płynnie, ale majątek pracuje, a cash-flow ~22 jel/mies mnie utrzyma. Zmęczenie 26, noc.
+
+## 297-07-23 RANEK — Sen; spokojny wiosenny poranek
+Symon przespał się (zmęczenie 6, sytość 12 — głodny). Wiosna łagodnie, trochę chmur, port w ruchu. PRZYCHODZĄCE: cicho. W tle dojrzewa: awans Hala + rekrutacja (do dopięcia), follow-up Voxa (domknąć oszustwo), agregat blisko bankowej gęstości, żelazo w drodze (~08-03), korytarz czeka na Mirę, Dzień Bilansu 08-01 (pierwsze zmiecenie cyklicznych + narosła marża).

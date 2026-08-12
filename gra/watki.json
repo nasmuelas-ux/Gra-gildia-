@@ -520,12 +520,12 @@
   },
   {
    "id": "klient_establishment_d8",
-   "opis": "Renoma wspina sie wyzej: klient ZE ZNACZENIEM — zarzadca/faktor domu blisko establishmentu / dostawca Nowego Zamku — szuka 'uczciwego pisarza Septy' do dyskretnego audytu  ||  297-05-09 (rzut 65): NAMIERZONY = zarzadca TORHEN (dom zaopatrujacy Nowy Zamek). Lead zywy, droga otwarta na spotkanie. Prudencja: wybadac zakres (mind Antaryon-mur/Ulric) nim brac.",
+   "opis": "Renoma wspina sie wyzej: klient ZE ZNACZENIEM — zarzadca/faktor domu blisko establishmentu / dostawca Nowego Zamku — szuka 'uczciwego pisarza Septy' do dyskretnego audytu  ||  297-05-09 (rzut 65): NAMIERZONY = zarzadca TORHEN (dom zaopatrujacy Nowy Zamek). Lead zywy, droga otwarta na spotkanie. Prudencja: wybadac zakres (mind Antaryon-mur/Ulric) nim brac. || 297-07-02 RANEK (inbound rzut 25): TORHEN przyslal slowo - teraz gdy Symon wpisany kupiec-faktor + dostawca zamku (drewno), chce go do liczb/weryfikacji. Establishment klient, dobra robota. HAK: wybadac ZAKRES ostroznie nim wezmie (blisko muru Antaryona / oko Ulrica - firewall). NIE jak klapa 06-30 - przez wiarygodnych, dyskretnie, albo wybadac na samym spotkaniu (oslona audytora).",
    "typ": "okazja",
    "termin": null,
    "wobec": null,
    "stan": "ROBOTA ZAWARTA (m10d8, rzut 53): zarzadca GODRIC pod wrazeniem oglady+renomy Symona; zlecil dyskretny audyt (+3 jel retainer). CAVEAT: rezerwa — pelne wejscie w gore NIE dane, trzeba DOWIESC na tej robocie. Pierwszy (ostrozny) RUNG ku kregowi dworu/Nowego Zamku. RYZYKO: rosnac w kregach establishmentu = widocznosc dla dworu (a cech wlasnie tam sie umizga) — dwuznaczne.",
-   "status": "namierzony - zarzadca Torhen"
+   "status": "INBOUND (07-02) — Torhen szuka Symona; wybadać zakres (firewall)"
   },
   {
    "id": "opal_zima",

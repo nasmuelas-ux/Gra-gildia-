@@ -5999,3 +5999,6 @@ Symon odwiedzil Serle (waski krag prawdziwych ludzi: Bran/Serla/Wiara). Rzut 70 
 
 ## 297-08-13 WIECZOR - laznia (rzut 36, odpoczynek + ulica cicha)
 Symon poszedl do lazni wygrzac sie po ciezkim dniu (duch zyje zwyczajnie). Rzut 36 - glownie ODPOCZYNEK (zmeczenie 30->10, tydzien zszedl w parze). Lowil sale uchem: port gada o zwyklych rzeczach (polow, sol, klotnia na nabrzezu, wiosna) - o ANTARYONIE ANI SLOWA. Cicha ulga: ruch Banku byl sprawa wysoka/dyskretna, na ulice jeszcze nie sciekl, zero przedwczesnego szumu co moglby nakrecic polowanie na zdrajce; dyskrecja trzyma na kazdym pietrze, kurz opada cicho (jak chce Nesta). Wyszedl rozluzniony, mur nietkniety. -3 miedziaki (laznia). sytosc 58->52, zmeczenie 30->10.
+
+## 297-08-14 RANEK - sen -> ranek (TIK SWIATA)
+Symon przespal noc: zmeczenie 10->2, sytosc 52->34, zdrowie 100. Ranek pochmurny/lagodny. PRZYCHODZACE: GLEBOKA CISZA (inbound 9) - nikt nie puka. Dzien po kulminacji Banku aftermath simmering NIEWIDZIALNIE (ripple relief Nesty rozwija sie tygodniami/dyskretnie; Antaryon szuka zdrajcy ale brak nitki do Symona; ulica cicha; kurz opada jak chce Nesta). Zostac duchem, nie drgnac. Bursztyn czeka na splyw; procesy firmy dojrzewaja przez codzienne uzycie. 3 filary + 4. pasmo + ekspansja Benneta na obrotach.

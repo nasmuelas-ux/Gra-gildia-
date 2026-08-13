@@ -949,7 +949,7 @@
         "Lorren",
         "glod dzieci"
       ],
-      "nastawienie_do_gracza": 60,
+      "nastawienie_do_gracza": 61,
       "zaufanie": 13,
       "wie_o_graczu": [
         "skryba przejrzal drapiezna umowe Lorrena",
@@ -970,7 +970,7 @@
           "nota": "umowa NIEPODPISANA — dzieki Symonowi; pod ochrona cechu"
         }
       ],
-      "ostatni_kontakt": "297-08-10 POPOLUDNIE - Symon wpadl; Elna BEZPIECZNA (kolodzieje/relief/syn spokojny, deterrent Lorrena trwa) ale dzis PRZYGASZONA (wdowia samotnosc, nie bieda). Role odwrocone: Symon dal pociechę/obecnosc (odgania jej lek nie-zostac-sama), przypomnial ze syn bezpieczny. Dal wiecej niz wzial. Pelne kolo: krzywda Elny nauczyla go rzemiosla, ktorym ocalil wdowe z Rybiego Zaulka. Nast 60 hold, zauf 12->13.",
+      "ostatni_kontakt": "297-08-27 POPOLUDNIE (rzut 18) - Symon wpadl w mrozny, krotki dzien. Elna nadal BEZPIECZNA materialnie (nie bieda), ale przygaszona - wdowia samotnosc, ktora pierwszy chlod i wczesniejszy zmrok tylko poglebiaja (cien zimy ciazy najbardziej samotnym). Niski rzut = wizyta cicha, niewiele 'sie dzieje'. Symon NIE probuje naprawiac ani narzucac - po prostu daje OBECNOSC: siada, slucha, pobyl. Godnosc uszanowana (lekcja tarcza-godnosc). Docenila towarzystwo, choc skapa w slowach. nast 60->61, zauf 13 hold (guarded, wolno ufa). Ludzka cieplota bez ceny.",
       "cechy_mowy": "cicha, zmeczona, twarda; 'chlopcze'",
       "historia": [
         "m11d11: Symon wpadl po ludzku. Elna bezpieczna pod opieka kolodziejow (schronienie+robota przy cechu) i na liscie reliefu — radzi sobie, cieplo w izbie. Przyjmuje go z gleboka wdziecznoscia i ODDAJE cieplo: karmi go, ceruje mu plaszcz, blogoslawi. Czysta, wzajemna wiez. Nast 24->28.",

@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-08-21 WIECZOR · pelna wiosna (Polnoc) - drogi obeschly, rzeki plyna, sezon budowlany zamku w toku
+- **Data:** 297-08-22 RANEK · pelna wiosna (Polnoc) - drogi obeschly, rzeki plyna, sezon budowlany zamku w toku
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -42,7 +42,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 40 · Zmeczenie 34
+- Zdrowie 100 · Sytosc 20 · Zmeczenie 10
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9
@@ -123,7 +123,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `WSPOLPRACA KRZEPNIE - krok do stewarda GATED (dojrzec: cykle+wyniki+przygotowanie)` theomore_prowiantowanie_zamku_zaproszenie: 297-08-16 RANEK (inbound 73): Theomore, wciaz obracajac wczorajsza rozmowe (rzut 96), przyslal note przez sluz
 - ⚠ `PRZETRWANY DOBRZE 08-17 (rzut 85)` sztorm_0817_ekspozycja: 297-08-17 RANEK (pogoda 2 + inbound 88): CIEZKI wiosenny SZTORM uderza w wybrzeze/tory zeglugowe. EKSPOZYCJE S
 - ◆ `ROZWIAZANE PRZEZ ZAULEK 08-18 (biedni zadbali o biednych)` dake_lodz_pomoc: 297-08-17: sztorm rozbil lodz Dake (mlody rybak, maz Bess=wnuczka Wendy). Symon chcial pomoc jako WEDKA nie ja
-- ◆ `dni-tygodnie (przyjdzie jako wezwanie, nie znienacka)` podatek_miejski_inbound: 297-08-19 (audyt gracza): podatek miejski to periodyczny obowiazek mieszczanina (kwota/termin wg kalendarza), 
+- ◆ `ODPALIL 08-22 - wezwanie (pobor ~8 jel, termin za pare dni)` podatek_miejski_inbound: 297-08-19 (audyt gracza): podatek miejski to periodyczny obowiazek mieszczanina (kwota/termin wg kalendarza), 
 - ◆ `ZAMKNIETY 08-20 (rekoncyliacja dostarczona, +7 jel)` aurane_audyt_posztormowy: 297-08-20 RANEK (inbound 71): AURANE przyslal sluzacego - po sztormie jego sklady to chaos ksiegowy (masa ladu
 
 ## WATKI OTWARTE (najwazniejsze u gory)

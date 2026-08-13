@@ -423,9 +423,9 @@
     },
     {
       "id": "podatek_miejski_inbound",
-      "odlicza_do": "dni-tygodnie (przyjdzie jako wezwanie, nie znienacka)",
+      "odlicza_do": "ODPALIL 08-22 - wezwanie (pobor ~8 jel, termin za pare dni)",
       "typ": "inbound/obowiazek",
-      "opis": "297-08-19 (audyt gracza): podatek miejski to periodyczny obowiazek mieszczanina (kwota/termin wg kalendarza), NIE naliczony w sierpniu. USTAWIONE by przyszedl jako PRZYCHODZACE (wezwanie od poborcy / ser Wylis-celnik) gdy dojrzeje - anty-zasadzka (nie ambush). Kwota MODEST (mieszczanski pobor; wpisowe bylo ~12 jel 01-27, pobor biezacy pewnie mniejszy/periodyczny). Symon: trzymac REZERWE, nie wydawac sie do zera. Gdy wezwanie padnie -> zaplacic z kasy, zaksiegowac wydatek. Do odpalenia w ciagu dni-tygodni (GM: gdy pasuje, jako spokojny inbound; da sie zaplacic z biezacej kasy/Dnia Bilansu)."
+      "opis": "297-08-19 (audyt gracza): podatek miejski to periodyczny obowiazek mieszczanina (kwota/termin wg kalendarza), NIE naliczony w sierpniu. USTAWIONE by przyszedl jako PRZYCHODZACE (wezwanie od poborcy / ser Wylis-celnik) gdy dojrzeje - anty-zasadzka (nie ambush). Kwota MODEST (mieszczanski pobor; wpisowe bylo ~12 jel 01-27, pobor biezacy pewnie mniejszy/periodyczny). Symon: trzymac REZERWE, nie wydawac sie do zera. Gdy wezwanie padnie -> zaplacic z kasy, zaksiegowac wydatek. Do odpalenia w ciagu dni-tygodni (GM: gdy pasuje, jako spokojny inbound; da sie zaplacic z biezacej kasy/Dnia Bilansu). || 297-08-22 RANEK (inbound 62): ODPALIL jako WEZWANIE (poborca ser Wylis-celnik przyslal cedule) - sezonowy pobor mieszczanski ~8 jel, termin za parę dni (soft). Nie ambush (zapowiedziane/zegar). Symon ma bufor (43 jel) - platne z kasy (43->35), zostanie zaksiegowane jako wydatek gdy zaplaci. Foresight gracza (kazal ustawic zegar+bufor) sie oplacil. NEXT: zaplacic (kiedy gracz zechce, w terminie)."
     },
     {
       "id": "aurane_audyt_posztormowy",

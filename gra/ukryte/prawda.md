@@ -199,3 +199,6 @@ Rozpoznanie Nesty: agent/klucznik Zelaznego Banku w Bialym Porcie niespokojnie p
 
 ## 297-07-17: LATENTNE RYZYKO (Theomore + Benford)
 Symon pokazal lordowskiemu maesterowi (ktory TRZYMA dossier zmyslonych deklaracji Antaryona) swoja metode wykrywania cooked books. Framing byl abstrakcyjny (firewall trzymany TERAZ), ale ziarno zasiane: perceptywny maester MOZE kiedys polaczyc 'czlowiek co pokazal mi jak widziec falszywe liczby' z 'dossier falszywych liczb'. Nie odpalone. Trzymac w tyle glowy przy kolejnych kontaktach Theomore <-> Antaryon.
+
+### 297-08-13 - KULMINACJA ANTARYONA (rzut 100)
+Zelazny Bank uderzyl decydujaco. Miesiace gry Symona z cienia (dowod trojstronny weryfikowalny wzgledem ksiag Banku = 'jego odkrycie') zaowocowaly: Antaryon skonfrontowany, aparat frachtowego zdzierstwa rozbity, dom ujarzmiony przez wierzyciela na karzacych warunkach. Firewall PERFEKCYJNY - Bank ruszyl na wlasny rachunek, pytanie o zrodlo upadlo, Symon niewidzialny (max 3 knowerzy: Symon/Nesta/Owen; Garth/Belarno bufory czyste). Symon UDERZYL wielki dom nie dotykajac go - zemsta liczb, sprawiedliwosc z cienia. NADAL: zostac duchem (ulga=moment potkniecia); mozliwy slepy odwet Antaryona szukajacego winowajcy (NIE ma nitki do Symona).

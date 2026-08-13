@@ -8,11 +8,11 @@
   "mieszka": "ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
-  "sytosc": 42,
-  "zmeczenie": 22,
+  "sytosc": 32,
+  "zmeczenie": 2,
   "sakiewka": {
     "miedziaki": 1,
-    "jelenie": 58,
+    "jelenie": 108,
     "smoki": 0
   },
   "dobytek": [
@@ -180,7 +180,7 @@
     "prowiant_marza_zamek": "Prowiant-marza (Merek->broker->zamek): DRUGI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 66). Merek dostarcza, Symon koordynuje, zamek bierze INKREMENT SEZONU BUDOWLANEGO (prowiant dla ekip - baseline zamku zostaje u obecnych, Symon lapie sezonowy surge). Marza per dostawa (cienszy staple niz drewno, ale recurring), kapital-light (pre-sold). Roznicznik Symona = oko jakosci/pewnosc (graded, niezawodny prowiant dla budowy). Ksieguj marze per dostawa. [07-22: HARLON (solarz/zapasy) dodany jako 2. wezel podazy obok Mereka - sol+suchy prowiant, filar robustniejszy/skalowalny]",
     "zelazo_okucia_marza_zamek": "Zelazo/okucia-marza (Gulltown->Boren->zamek): TRZECI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 82). Popyt: zamek na budowe (gwozdzie/okucia/zelazo, Torhen/Godric); Zrodlo: korespondent Gulltown (tanie u zrodla, trasa wschodnia Bite/Gulltown); Obrobka: Boren/kolodzieje (raw->okucia, zyskuja tanie zelazo); Symon koordynuje/skim. KAPITAL-LIGHT: off-take zamku (pre-commit) + komis/kredyt korespondenta = niski cash Symona. Marza per partia (grubsza niz prowiant/staple). 1. partia = LEAD TIME ~1-2 tyg (trasa wschodnia, zalezna od pogody - wiosna lepsza). Pasywny bleed Antaryona trwa (graded supply off jego frachtu).",
     "logistyka_sklady_aurane": "Logistyka/sztauowanie: skladki portowe AURANE'A jako kregoslup operacji (07-25) - miejsce sztauowania 3 filarow zamkowych (drewno/prowiant/zelazo) + przeladunek korytarza sukna + bufor arrivals. Aurane pelne magazyny+dochod, Symon pojemnosc (de-ryzykuje filary+korytarz). Bonus: Aurane dzieli sie wgladem w przeplywy portu (kto co magazynuje). Partnerstwo, nie audyt.",
-    "korytarz_sukna": "Korytarz braawijski (ZYWY 07-26): zintegrowany kanal - sukno IN (Leona wolumen+klienci / Mira nisza+dojscia+weryfikacja, oslona Leony spisana) -> Nesta faktoruje -> skladki Aurane; bursztyn/futra OUT do Braavos (zysk dojrzewa tyg). Symon spina+marza koordynacyjna. Recurring. Pierwsza prowizja +5 jel.",
+    "korytarz_sukna": "Korytarz braawijski (ZYWY 07-26): zintegrowany kanal - sukno IN (Leona wolumen+klienci / Mira nisza+dojscia+weryfikacja, oslona Leony spisana) -> Nesta faktoruje -> skladki Aurane; bursztyn/futra OUT do Braavos (zysk dojrzewa tyg). Symon spina+marza koordynacyjna. Recurring. Pierwsza prowizja +5 jel. || 09-09: ZYSK DOJRZAL - partia bursztynu/futer OUT do Braavos sprzedana (przez kanal Nesty), payout ~50 jel do kasy (58->108). Grey, firewall-czyste.",
     "zrodlo_zimowe_merrek": "ZRODLO ZIMOWE MERREK: lot (koszt 90 = 35 zadatek + 55 saldo) sprzedany w prowiantowanie zamku przez Hala 09-07 za ~112 (koszt 90 + marza 22, uczciwa zimowa stawka). KOREKTA 09-07 WIECZOR: pierwotnie zaksiegowalem tylko +22 marzy, gubiac 90 zwrotu kosztu; poprawione +90 do kasy. Merrek=pewne zrodlo na przyszle zimy. Papier Godrica pokryty realnym towarem.",
     "klient_cichy_stream": "CICHY KLIENT (od 09-05, przez Hala/firme): grubszy dom handlowy - Symon wykryl przeciek w ich zimowych kontraktach zaopatrzeniowych, odzyskal marze. Tlusta zaplata 32 jel + STALA cicha obsluga ksiag (powracajacy grey-stream). Blask bierze HAL (jego imie rosnie jako operator - bezpiecznie); Symon banknuje niewidzialnie. Dowod: prosperuje w cieniu bez podnoszenia sie. || 09-06: cykl obslugi rzut 64 - spokojna zaplata ~12 jel (kasa 125->137). Hal ogarnia coraz wiecej sam (reka Symona coraz krocej potrzebna). Strumien kapie niewidzialnie."
   },

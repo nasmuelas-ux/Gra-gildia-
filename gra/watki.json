@@ -931,6 +931,18 @@
       "stan": "UMOWIONY",
       "priorytet": "sredni",
       "opis": "297-08-24: kupiec Aldous (94/48, ciepla wiez, wdzieczny) przyslal poslanca - polecil Symona rowiesnikowi/kupcowi, ktory potrzebuje audytu ksiag przed rozliczeniem sezonu. Robota przyszla SAMA (inbound 94). Kanal: firma/Hal jako neutralna twarz (grey-play, Symon duch w tle). Platny lead przed Dniem Bilansu 09-01. Do podjecia gdy Symon zechce. | 08-24: PODJETY. Hal wzial intake jako twarz firmy (grey-play, Symon duch), klient umowiony pewnie i sam - audyt ksiag przed rozliczeniem sezonu zaplanowany. Fee splynie po sesji (przed lub okolo Bilansu 09-01)."
+    },
+    {
+      "id": "lead_godric_4pasmo_zaopatrzenie_08_25",
+      "stan": "AKTYWNY",
+      "priorytet": "sredni-wysoki",
+      "opis": "297-08-25: Godric (zarzadca, 92/41) przyslal poslanca z zamku (inbound 95) - kolejne pasmo zaopatrzenia zamkowego (okucia/prowiant, ekspansja) dostaje zielone swiatlo; chce, by firma Symona znow poprowadzila ksiegi/koordynacje. KANAL GREY-PLAY IDEALNY: Godric jako twarz co nosi papier w gore (bufor), Hal jako operacyjna twarz firmy, Symon niewidzialna reka za kulisami - DOKLADNIE doktryna Nesty (badz reka, ktorej wielki dom nie widzi; nie wchodz osobiscie na scene zamku poki Antaryon weszy). Recurring dochod + Manderly-indispensability pod cel doradcy. Do podjecia."
+    },
+    {
+      "id": "tally_dostawcy_zamkniete_08_25",
+      "stan": "ZAMKNIETE",
+      "priorytet": "niski",
+      "opis": "297-08-25 (inbound 39): dostawca odeslal skorygowana tally z krotkim przeprosinami - podwojny demurrage usuniety, pare miedzi sie zgadza. Petla zamknieta pozytywnie, drobna dobra wola. Reputacja dokladnosci potwierdzona."
     }
   ]
 }

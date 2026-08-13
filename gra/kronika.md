@@ -6167,3 +6167,6 @@ Symon przyszedl do Godrica przygotowany - stare ksiegi zrekoncyliowane, szablony
 
 ## 297-08-25 POPOLUDNIE — Maester Theomore: metodyki audytu (cichy pomost)
 Symon odwiedzil maestra i zaprezentowal wlasne metodyki - podwojna rekoncyliacja, tropienie rozbieznosci do zrodla, wiekowanie naleznosci i rentownosc linii, logika poolingu ryzyka w underwritingu. Theomore, czlowiek Cytadeli, uznal to za rygor godny szkoly i byl pod wrazeniem, ze samouk-mieszczanin sam doszedl do systemu. Rozmowa peer-to-peer, obopolny szacunek. Kluczowe: Symon trzymal ja przy RZEMIOSLE - ani slowa o zamku, ambicji czy pozycji. To wlasnie legalny, cichy pomost ku dworowi: maester jako most, nie scena, budowany na kompetencji a nie na pchaniu sie. nast 66->68, zauf 31->35.
+
+## 297-08-25 NOC — U Miry: dom przestaje byc mrzonka
+Symon wrocil do Miry na koniec dnia i tym razem wieczor byl cieply i pelny (rzut 81), nie zmeczony jak ostatnie. Rozmowa plynela naprawde - i pierwszy raz mowili o wspolnym domu jak o rzeczy DO ZROBIENIA, nie 'kiedys': warsztat i kantor pod jednym dachem, dach do polatania, jedno palenisko. Nie wesele jutro - oboje trzezwi, bez pospiechu - ale plan przestal byc mrzonka. Partnerstwo rownych dojrzewa ku wspolnemu gospodarstwu. zauf 82->83.

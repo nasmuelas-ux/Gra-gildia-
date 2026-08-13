@@ -6161,3 +6161,6 @@ Umyty, Symon poszedl na zaproszenie Miry. Pokazala mu z duma nowo ufarbowana bel
 
 ## 297-08-24 NOC — Pytanie i noc u Miry
 Symon spytal wprost, czy moze zostac. Nie wzial za pewnik - spytal, z szacunkiem. Mira przyjela cieplo, na wlasnych warunkach: obok, nie narzucony. Wspolna noc jako wybrani partnerzy, cichy prog bliskosci. Bez wielkich slow, z zaufaniem. zauf 81->82. [godnie]
+
+## 297-08-25 POLUDNIE — Godric: 4. pasmo zaopatrzenia (turnkey, grey-play)
+Symon przyszedl do Godrica przygotowany - stare ksiegi zrekoncyliowane, szablony, plan gotowy (rzut 80 + przygotowanie). Zaproponowal turnkey: firma pod Halem prowadzi ksiegi i koordynacje 4. pasma zaopatrzenia, Godric nosi papier w gore i jest widoczna reka zamku, Symon zostaje za ksiegami. Godric, rozrywany kontraktami, chwycil od reki - zaufany operator zdejmuje mu ciezar. Przygotowanie zamienilo "moze pozniej" w natychmiastowe tak. Przy okazji rzucil cenny morsel: zamek chce w tym roku WCZESNIEJ domknac zimowe zapasy, bo maesterzy wietrza twarda zime. Symon zanotowal w glowie - i ani kroku na scene. Recurring dochod, Manderly-indispensability, firewall czysty (Godric = bufor). zauf 41->43.

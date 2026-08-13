@@ -936,13 +936,19 @@
       "id": "lead_godric_4pasmo_zaopatrzenie_08_25",
       "stan": "URUCHOMIONE (recurring)",
       "priorytet": "sredni-wysoki",
-      "opis": "297-08-25: Godric (zarzadca, 92/41) przyslal poslanca z zamku (inbound 95) - kolejne pasmo zaopatrzenia zamkowego (okucia/prowiant, ekspansja) dostaje zielone swiatlo; chce, by firma Symona znow poprowadzila ksiegi/koordynacje. KANAL GREY-PLAY IDEALNY: Godric jako twarz co nosi papier w gore (bufor), Hal jako operacyjna twarz firmy, Symon niewidzialna reka za kulisami - DOKLADNIE doktryna Nesty (badz reka, ktorej wielki dom nie widzi; nie wchodz osobiscie na scene zamku poki Antaryon weszy). Recurring dochod + Manderly-indispensability pod cel doradcy. Do podjecia. || 08-25 POLUDNIE (rzut 80+przygot.): UKLAD ZAMKNIETY. Firma prowadzi ksiegi/koordynacje 4. pasma; Hal=twarz, Godric nosi papier w gore (bufor), Symon niewidzialna reka. Marza splynie per partia (~Bilans+). Godric zdradzil: zamek chce wczesniej domknac ZIMOWE ZAPASY (maesterzy wietrza twarda zime) - cichy seed pod GATED pakiet zimowy (intel, bez wchodzenia na scene). || 08-25: papiery 4. pasma czekaja na kontrasygnate od strony zamku - domkniecie ksiag wstrzymane do jej otrzymania (to-do)."
+      "opis": "297-08-25: Godric (zarzadca, 92/41) przyslal poslanca z zamku (inbound 95) - kolejne pasmo zaopatrzenia zamkowego (okucia/prowiant, ekspansja) dostaje zielone swiatlo; chce, by firma Symona znow poprowadzila ksiegi/koordynacje. KANAL GREY-PLAY IDEALNY: Godric jako twarz co nosi papier w gore (bufor), Hal jako operacyjna twarz firmy, Symon niewidzialna reka za kulisami - DOKLADNIE doktryna Nesty (badz reka, ktorej wielki dom nie widzi; nie wchodz osobiscie na scene zamku poki Antaryon weszy). Recurring dochod + Manderly-indispensability pod cel doradcy. Do podjecia. || 08-25 POLUDNIE (rzut 80+przygot.): UKLAD ZAMKNIETY. Firma prowadzi ksiegi/koordynacje 4. pasma; Hal=twarz, Godric nosi papier w gore (bufor), Symon niewidzialna reka. Marza splynie per partia (~Bilans+). Godric zdradzil: zamek chce wczesniej domknac ZIMOWE ZAPASY (maesterzy wietrza twarda zime) - cichy seed pod GATED pakiet zimowy (intel, bez wchodzenia na scene). || 08-25: papiery 4. pasma czekaja na kontrasygnate od strony zamku - domkniecie ksiag wstrzymane do jej otrzymania (to-do). || 08-26 (inbound 61): kontrasygnata od strony zamku PRZYSZLA - Hal moze domknac ksiegi 4. pasma; blokada zdjeta."
     },
     {
       "id": "tally_dostawcy_zamkniete_08_25",
       "stan": "ZAMKNIETE",
       "priorytet": "niski",
       "opis": "297-08-25 (inbound 39): dostawca odeslal skorygowana tally z krotkim przeprosinami - podwojny demurrage usuniety, pare miedzi sie zgadza. Petla zamknieta pozytywnie, drobna dobra wola. Reputacja dokladnosci potwierdzona."
+    },
+    {
+      "id": "okazja_theomore_zapasy_zimowe_08_26",
+      "stan": "AKTYWNY (DECYZJA GRACZA)",
+      "priorytet": "WYSOKI (i wrazliwy)",
+      "opis": "297-08-26 (inbound 100, crit): maester Theomore - pod wrazeniem wczorajszej prezentacji metodyk - przyslal note. Rozwaza uporzadkowanie ZAMKOWEJ rachunkowosci zapasow zimowych (rejestry w nieladzie, prowiantowanie trzeba domknac WCZESNIE - maesterzy wietrza twarda zime, zbiega sie z morselem Godrica). Chce metody/oka Symona - zaproszenie do KONSULTACJI, nieformalnie, przy castle-adjacent robocie rejestrowej. **KONWERGENCJA WATKOW**: maester-pomost + pakiet zimowy + seed Godrica + cel doradcy Starkow - wszystko wskazuje na gwiazde. **ALE TO STREFA GATED**: Nesta (08-21) ostrzegla - NIE wchodz na scene zamku poki kurz po Antaryonie nie osiadzie; kazdy krok=nowe oczy. Zarazem to moze byc NAJBEZPIECZNIEJSZY sposob dotkniecia gwiazdy: przez METODE/rejestry, jako intelektualny peer maestra (nie publiczny 'doradca zamku'). DECYZJA SYMONA: przyjac (i jak - grey?), odlozyc grzecznie, czy skonsultowac z Nesta/Owenem najpierw. Nie rozstrzygac pochopnie - to prog."
     }
   ]
 }

@@ -1003,6 +1003,12 @@
       "stan": "AKTYWNY (cichy atut/motyw)",
       "priorytet": "niski",
       "opis": "297-09-04: kamieniczka Symona = jego GWIAZDA W MINIATURZE. Bran (wzorowy, lojalny dozorca, sam przygotowal dom na zime) + lokatorzy Jonna/Osric/Hal zawiazali mala wspolnote (wspolne drewno, wspolne posilki), czynsze biezace, 0 pustostanow. Dom SPRAWIEDLIWIE prowadzony trzyma sie - dowod, ze wizja 'sprawiedliwy zarzadca przeprowadza ludzi przez zime' juz dziala naprawde, w malej skali. Zrodlo sensu/tozsamosci + stabilny dochod z czynszow. Bran zauf +3. || 09-06: Symon oddal Branowi (23l) i zonie ALYS IZBE 4 na mieszkanie - mlode malzenstwo dostaje pierwsza wlasna prawdziwa izbe, by budowac zycie; dozorca wzruszony do lez. Lojalnosc absolutna. Sprawiedliwosc w ciele, konkretnemu czlowiekowi. Gwiazda w miniaturze jasnieje. Bran zauf 23->30."
+    },
+    {
+      "id": "dostawa_merrek_09_07",
+      "stan": "GOTOWA do odbioru - saldo ~55 jel",
+      "priorytet": "wysoki",
+      "opis": "297-09-07 (inbound 62): lot soli/zboza od Merreka GOTOWY do dostawy. Saldo ~55 jel platne przy odbiorze (zadatek 35 juz wplacony). Dowoz LOKALNY w porcie - i wlasnie dlatego idzie mimo powrotu mrozu (rzeka blisko stania, trakt ryzykowny; lokalne zrodlo=przewaga wciaz sie oplaca). Odbior domyka pojemnosc prowiantowania. NEXT: zaplacic saldo, odebrac, wciagnac w podaz."
     }
   ]
 }

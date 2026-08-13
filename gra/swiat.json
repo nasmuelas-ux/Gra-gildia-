@@ -6,7 +6,7 @@
     "era": "AC"
   },
   "pora": "POLUDNIE",
-  "sezon": "pelna wiosna (Polnoc) - drogi obeschly, rzeki plyna, sezon budowlany zamku w toku",
+  "sezon": "wiosna na Polnocy PRZECHYLAJACA SIE ku jesieni/przedzimiu - dobra dluga pora sie przelamuje: dnie krotsze, pierwsze ostre chlody od wody, sezon budowlany zamku jeszcze w toku ale konczy sie okno. Maesterzy z Cytadeli odczytuja TURN ku zimie (cien twardej zimy) - Polnoc szykuje spichrze z wyprzedzeniem.",
   "pogoda": "przejrzysty, ale surowo zimny ranek - ostry wiatr od wody, pierwszy taki chlod; jakby zima juz slala zwiady (maesterzy nie klamali)",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
@@ -64,5 +64,11 @@
   },
   "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia.",
   "zasada_rano": "Kazdego ranka renderowac: 📬 WIADOMOSCI (inbox, cisza jesli nic) + krotki STATUS = JEDZENIE (sytosc/zmeczenie/zdrowie) i HAJS (wolne + skrot: depozyt/inwestycje/weksle). Pelna tablica umiejetnosci TYLKO na zadanie.",
-  "zasada_format": "Ramki mechaniczne (naglowek kreskowy, WIADOMOSCI, status jedzenie/hajs, menu opcji) renderowac w BLOKU KODU monospace, jak output rano.py. Scene opisowa - zwykly tekst."
+  "zasada_format": "Ramki mechaniczne (naglowek kreskowy, WIADOMOSCI, status jedzenie/hajs, menu opcji) renderowac w BLOKU KODU monospace, jak output rano.py. Scene opisowa - zwykly tekst.",
+  "model_por_roku": {
+    "zasada": "Pory roku w tym swiecie (ASOIAF) NIE sa roczne - trwaja LATAMI, sa nieregularne, ogłaszane przez maesterow Cytadeli (biale kruki na zime). Istnieja wszystkie cztery: lato, jesien, zima, wiosna. Zima na Polnocy zabojcza (glod, moze trwac lata) - stad obsesja zapasow.",
+    "stan_teraz_297": "Wiosna na Polnocy zaczyna sie przechylac ku jesieni/przedzimiu. To WOLNY, wieloturowy TURN, nie przelacznik - nikt nie budzi sie nagle w sniegu. Maesterski cien zimy = realna instytucjonalna wiesc (nie pogoda), naped prowiantowania.",
+    "skutki_mechaniczne": "Stopniowo (przez wiele dni gry): dnie krotsze (sesje robocze uciete), ceny opalu/prowiantu/soli drga w gore, ludzie kalkuluja zapasy. To scena, na ktorej przewaga Symona (prowiantowanie, underwriting, ksiegi zapasow, pakiet zimowy) ROSNIE.",
+    "ustanowiono": "297-08-27 (na prosbe gracza - porzadkowanie spojnosci: 'czyli jest tylko wiosna i zima?'). Poprawka: miedzy wiosna a zima jest jesien; nie przeskakujemy wiosna->zima."
+  }
 }

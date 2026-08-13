@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-08-27 POLUDNIE · pelna wiosna (Polnoc) - drogi obeschly, rzeki plyna, sezon budowlany zamku w toku
+- **Data:** 297-08-27 POLUDNIE · wiosna na Polnocy PRZECHYLAJACA SIE ku jesieni/przedzimiu - dobra dluga pora sie przelamuje: dnie krotsze, pierwsze ostre chlody od wody, sezon budowlany zamku jeszcze w toku ale konczy sie okno. Maesterzy z Cytadeli odczytuja TURN ku zimie (cien twardej zimy) - Polnoc szykuje spichrze z wyprzedzeniem.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).

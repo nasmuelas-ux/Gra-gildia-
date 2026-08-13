@@ -42,12 +42,12 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 36 · Zmeczenie 28
+- Zdrowie 100 · Sytosc 30 · Zmeczenie 30
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9
 **Reputacja:** port 35 · schody_zamkowe 38 · cech_pisarzy -6 · wiara 91 · zamek 13 · cech_kolodziejow 42
-**Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU; LICZBY UCZCIWE vs ZMYSLONE; JEDNOSTKA WOBEC KROLESTWA + POGODA POLITYCZNA; WLADZA NA POLNOCY / BIALY PORT; GOSPODARKA POLNOCY
+**Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU; LICZBY UCZCIWE vs ZMYSLONE; JEDNOSTKA WOBEC KROLESTWA + POGODA POLITYCZNA; WLADZA NA POLNOCY / BIALY PORT; GOSPODARKA POLNOCY; TARCZA SLABYCH A ICH GODNOSC
 
 ## LUDZIE NA SCENIE (nast. do gracza)
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 70
@@ -122,7 +122,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `WCHODZI NA OBROTY (08-13) - druga druzyna/wozy online, pojemnosc up` bennet_ekspansja_ramp: 297-07-24 (rzut 67): ekspansja dostaw drewna na zamek na ZDROWEJ bazie. Bennet sam dobiera rece + zaprzeg prze
 - ◆ `WSPOLPRACA KRZEPNIE - krok do stewarda GATED (dojrzec: cykle+wyniki+przygotowanie)` theomore_prowiantowanie_zamku_zaproszenie: 297-08-16 RANEK (inbound 73): Theomore, wciaz obracajac wczorajsza rozmowe (rzut 96), przyslal note przez sluz
 - ⚠ `PRZETRWANY DOBRZE 08-17 (rzut 85)` sztorm_0817_ekspozycja: 297-08-17 RANEK (pogoda 2 + inbound 88): CIEZKI wiosenny SZTORM uderza w wybrzeze/tory zeglugowe. EKSPOZYCJE S
-- ◆ `ODLOZONE (wrocic gdy ostygnie, przez Wende, rama ryzyko-dzielone)` dake_lodz_pomoc: 297-08-17: sztorm rozbil lodz Dake (mlody rybak, maz Bess=wnuczka Wendy). Symon chcial pomoc jako WEDKA nie ja
+- ◆ `ROZWIAZANE PRZEZ ZAULEK 08-18 (biedni zadbali o biednych)` dake_lodz_pomoc: 297-08-17: sztorm rozbil lodz Dake (mlody rybak, maz Bess=wnuczka Wendy). Symon chcial pomoc jako WEDKA nie ja
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

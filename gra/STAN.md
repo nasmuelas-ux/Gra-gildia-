@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-08-04 RANEK, pelna wiosna: sezon budowlany zamku w toku (drewno/prowiant/zelazo plyna), port tetni arrivals, przednowkowy ucisk ZDJETY (relief lorda administruje Wiara). Symon: 3 filary zamkowe + 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 113 jeleni + 1 mied + 0 smokow
+- **Wolne:** 203 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -25,7 +25,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Zelazo/okucia-marza (Gulltown->Boren->zamek): TRZECI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 82). Popyt: zamek na budowe (gwozdzie/okucia/zelazo, Torhen/Godric); Zrodlo: korespondent Gulltown (tanie u zrodla, trasa wschodnia Bite/Gulltown); Obrobka: Boren/kolodzieje (raw->okucia, zyskuja tanie zelazo); Symon koordynuje/skim. KAPITAL-LIGHT: off-take zamku (pre-commit) + komis/kredyt korespondenta = niski cash Symona. Marza per partia (grubsza niz prowiant/staple). 1. partia = LEAD TIME ~1-2 tyg (trasa wschodnia, zalezna od pogody - wiosna lepsza). Pasywny bleed Antaryona trwa (graded supply off jego frachtu).
 - Logistyka/sztauowanie: skladki portowe AURANE'A jako kregoslup operacji (07-25) - miejsce sztauowania 3 filarow zamkowych (drewno/prowiant/zelazo) + przeladunek korytarza sukna + bufor arrivals. Aurane pelne magazyny+dochod, Symon pojemnosc (de-ryzykuje filary+korytarz). Bonus: Aurane dzieli sie wgladem w przeplywy portu (kto co magazynuje). Partnerstwo, nie audyt.
 - Korytarz braawijski (ZYWY 07-26): zintegrowany kanal - sukno IN (Leona wolumen+klienci / Mira nisza+dojscia+weryfikacja, oslona Leony spisana) -> Nesta faktoruje -> skladki Aurane; bursztyn/futra OUT do Braavos (zysk dojrzewa tyg). Symon spina+marza koordynacyjna. Recurring. Pierwsza prowizja +5 jel.
-- ZRODLO ZIMOWE MERREK: lot wciagniety w prowiantowanie zamku przez Hala/firme (09-07). Sprzedany po UCZCIWEJ zimowej stawce (Symon NIE zdzieral mimo glodu) - marza skromna ~22 jel (kasa 82->104), ale reputacja: dostawca co dostarcza prawdziwy towar na czas w mroz po uczciwej cenie. Papier Godrica pokryty workami. Merrek=pewne zrodlo na przyszle zimy.
+- ZRODLO ZIMOWE MERREK: lot (koszt 90 = 35 zadatek + 55 saldo) sprzedany w prowiantowanie zamku przez Hala 09-07 za ~112 (koszt 90 + marza 22, uczciwa zimowa stawka). KOREKTA 09-07 WIECZOR: pierwotnie zaksiegowalem tylko +22 marzy, gubiac 90 zwrotu kosztu; poprawione +90 do kasy. Merrek=pewne zrodlo na przyszle zimy. Papier Godrica pokryty realnym towarem.
 - CICHY KLIENT (od 09-05, przez Hala/firme): grubszy dom handlowy - Symon wykryl przeciek w ich zimowych kontraktach zaopatrzeniowych, odzyskal marze. Tlusta zaplata 32 jel + STALA cicha obsluga ksiag (powracajacy grey-stream). Blask bierze HAL (jego imie rosnie jako operator - bezpiecznie); Symon banknuje niewidzialnie. Dowod: prosperuje w cieniu bez podnoszenia sie. || 09-06: cykl obslugi rzut 64 - spokojna zaplata ~12 jel (kasa 125->137). Hal ogarnia coraz wiecej sam (reka Symona coraz krocej potrzebna). Strumien kapie niewidzialnie.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)

@@ -1,7 +1,7 @@
 {
   "imie": "Symon",
   "przydomek": "Tally",
-  "wiek": 21,
+  "wiek": 22,
   "stan": "MIESZCZANIN Bialego Portu - SYMON TALLY (nazwisko przyjete 297-01-27, od 'tally'=rachunek/rozliczenie: czlowiek, u ktorego liczby wychodza prawdziwe). Kupiec-wspolnik z wlasnoscia. Jeszcze nie rod/dom - ziarno nazwiska, ktore stwardnieje przez lata (wg madrosci Owena).",
   "pochodzenie": "wychowany na poslugach w Starym Zamku rodu Locke na Polnocy; liter i rachunkow nauczyl go stary maester Aemon Rivers (zmarl); braavijskiej mowy douczyl sie na nabrzezach Bialego Portu",
   "miasto": "Bialy Port",
@@ -230,5 +230,11 @@
     "dzwignia_nesta_08_15": "Nesta wyostrzyla (08-15): (a) SUKCESJA kantoru = launchpad (pan monety Bialego Portu -> niezbedny Manderlym -> imie w gore); nie przeskakiwac drabiny. (b) UNIKALNA DZWIGNIA ku Winterfell = braavijski kredyt/prowiant/instrumenty na ZIME Polnocy - Warden rzadzacy wielka biedna kraina w cieniu glodu potrzebuje czlowieka co umie POLICZYC jak przetrwac zime, nie kolejnego rycerza; tego zaden polnocny lord nie ma pod reka, a Nesta dala to Symonowi w rece (jej rzemioslo=jego drabina do Starkow). (c) Cena: dekady; drzwi Starka=dowiedziony nieprzekupny honor budowany NA WIDOKU nie w cieniu.",
     "kotwica_owen_08_15": "Owen (08-15, rzut 26 - nie pochwalil, otrzezwil) postawil sumienie na strazy celu: (1) ma ZAWSZE sluzyc slabym, NIGDY wlasnej pysze - w dniu gdy zacznie karmic Symona zamiast ubogich, jest zgnily choćby u boku Starka; (2) PRAWDZIWY EGZAMIN = gdy sprawiedliwosc dla bezimiennej wdowy bedzie kosztowac LASKE pana - co wybierze? tamten dzien powie kim sie stal (watek Rymana=ta proba); (3) wladza przerabia dzierzacego - trzymac sie BLISKO twarzy ubogich (kuchnia Serli, stragan Wendy), by nie stali sie liczba; (4) bogowie waza mniej niz czysta dusza - sluzyc sprawiedliwosci i krainie. Owen=STRAZNIK-SUMIENIE gwiazdy (challenge z milosci nie pochlebstwo).",
     "mira_partnerka": "297-08-21: Mira = WZAJEMNY WYBOR/partnerstwo rownych (nie tylko 'dom potrzebuje krwi'). Gwiazda DZIELONA - Symon nie wspina sie sam; ambicja zestrojona z sercem (Owen). Odpowiedz na cien ambicji: 'obok nie za, rosnij jako rowna'. Mira ze swoim fachem/niezaleznoscia u boku (nie dekoracja). Fundament: kocha ja."
-  }
+  },
+  "rok_urodzenia": 275,
+  "data_urodzin": {
+    "miesiac": 8,
+    "dzien": 3
+  },
+  "_uwaga_wiek": "Urodzony 275 AC, 8. miesiac, dzien 3. Gra ruszyla 296-08-03 = jego 21. urodziny. 297-08-03 skonczyl 22. Wiek przeliczac przy TIK: wiek = rok - 275 (minus 1 jesli przed data_urodzin w danym roku)."
 }

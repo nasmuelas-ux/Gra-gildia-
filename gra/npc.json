@@ -141,7 +141,7 @@
         "ze go ominie lepsza fucha"
       ],
       "nastawienie_do_gracza": 89,
-      "zaufanie": 23,
+      "zaufanie": 30,
       "wie_o_graczu": [
         "pije z nim czasem piwo",
         "czyta mu listy od brata z Siostr",
@@ -179,7 +179,7 @@
         "297-06-10 (rzut 66): Symon przyszedl dograc Wicka w izbie 3 - i zrobil to WLASCIWIE: nie dekret nad glowa, lecz \"twoj teren, dograjmy razem\", pytal o zdanie. Bran (dumny, zasluzony) uhonorowany jako gospodarz. Dograne: opal na dwoch w izbie 3, czynsz Hala obnizony (do wiedzy Brana), Symon POREczyl za Wicka - Bran (sam podniesiony z tragarza) przyjal chlopaka jak swojego, benevolent oko nie czujne. Zapytal o niego i Alys (zone). Wiez ciepla. nast 86->87."
       ],
       "dlugi": [],
-      "ostatni_kontakt": "297-09-04 POLUDNIE (rzut 92) - Symon odwiedzil dom. Bran Z WLASNEJ GLOWY przygotowal kamieniczke na zime: drewno pod okapem, szpary zabite pakulami, dach polatany w 2 miejscach nim przeciek sie zrobil. Wzruszajace wyznanie: 'nikt mi wczesniej nie ufal z kluczami; pilnuje jak swojego, pierwszy raz mam cos jakby moje'. Godnosc, ktora dal mu Symon, odplacana duma i lojalnoscia. Wzorowy dozorca = realny atut.",
+      "ostatni_kontakt": "297-09-06 WIECZOR (rzut 86) - Symon (wyprowadzony do Miry, izba 4 pusta) zaoferowal Branowi IZBE 4 na mieszkanie Z ZONA (Wenda). Bran nie wierzyl ('to izba dla placacego lokatora, za wiele'), Symon nie ustapil. Stary tragarz odwrocil twarz ze wzruszenia; Wenda (prala cudze koszule cale zycie) bedzie miala izbe z OKNEM pierwszy raz po 60 latach. Bran: 'bede pilnowal jak oka w glowie, jak grobu matki; Wenda wam upiecze; jestescie inny pan; bogowie dali mi na starosc dobrego pana'. LOJALNOSC ABSOLUTNA - dozorca ktory przejdzie przez ogien. Sprawiedliwosc w ciele, odruch nie kalkulacja. zauf 23->30, nast wzrosla.",
       "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
       "historia": [
         "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",
@@ -2054,6 +2054,14 @@
       "nastawienie": 70,
       "zaufanie": 40,
       "ostatni_kontakt": "297-09-02 WIECZOR (rzut 74) - PIERWSZY deal. Przycisniety gotowka przed zima, sprzedal Symonowi (przez Mire, ktorej ufa) nadwyzke soli/zboza za UCZCIWA cene - Symon nie wycisnal przycisnietego. Wdzieczny; potencjalne ZRODLO ZIMOWE NA LATA. Zadatek 35 wziety, saldo ~55 przy dostawie (lokalnie). nast 70, zauf 40 (nowy, cieplo-neutralny, wdzieczny)."
+    },
+    {
+      "id": "wenda_zona_brana",
+      "imie": "Wenda",
+      "rola": "zona dozorcy Brana; cale zycie prala cudze koszule; od 09-06 mieszka z Branem w izbie 4 kamieniczki Symona",
+      "nastawienie": 75,
+      "zaufanie": 20,
+      "ostatni_kontakt": "297-09-06 - dzieki Symonowi pierwszy raz w zyciu (po 60 latach) ma izbe z oknem. Wdzieczna; obiecala piec/gotowac. Ciepla, lojalna czescia domu-wspolnoty."
     }
   ],
   "orbita": [

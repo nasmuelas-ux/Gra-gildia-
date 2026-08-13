@@ -6071,3 +6071,6 @@ Symon przyszedl do Wendy z planem pomocy Dake (ryzyko-dzielone przez nia). Rzut 
 
 ## 297-08-18 - NAUKA SYMONA (prosba gracza): duma a pomoc
 Codyfikacja (postawa duma_i_pomoc): LUDZIE SA DUMNI - nie proponowac pomocy W TEN SPOSOB (bezposrednio/papierem/dealem w godzinie wstydu; dumnemu w momencie straty rani zamiast pomoc). ZASADA: najpierw czytac godnosc nie tylko potrzebe; pomoc ma zachowac twarz (przez zaufany most, rama zdejmujaca strach, cichy gest jako podkladka pod ICH wysilek - nigdy jawna jalmuzna/deal z gory); czasem najwiekszy szacunek=nie pomagac. Krytyczne dla celu tarcza slabych: tarcza ktora upokarza nie jest tarcza.
+
+## 297-08-18 WIECZOR - kolacja u Miry (rzut 31, zwyczajnosc)
+Symon poszedl do Miry na kolacje. Rzut 31 - cichy zwykly cieply wieczor, i po wczorajszym progu wlasnie taki najlepszy. Bez wielkich slow (przelom byl wczoraj) - za to ZWYCZAJNOSC: gotowali razem przy jednym ogniu, jedli przy jej stole, rozmowa o drobiazgach, milczenie bez skrepowania; male domowe gesty (nakladala wiecej niz prosil, on dokladal drew bez pytania - ludzie co przestali sie mierzyc). Pierwszy wieczor co smakuje jak WSPOLNE ZYCIE nie zaloty; konsolidacja bliskosci. Po dniu sztormu/biedy/nauk - koi do dna. sytosc 30->60 (najedzony jej strawa, bardziej jej obecnoscia). Plomien grzeje rowno (nie musi buchac). HOLD 94/71. Pora WIECZOR (pozny).

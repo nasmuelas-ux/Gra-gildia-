@@ -2,14 +2,14 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-09-07 POLUDNIE · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
+- **Data:** 297-09-07 POPOLUDNIE · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** 297-08-04 RANEK, pelna wiosna: sezon budowlany zamku w toku (drewno/prowiant/zelazo plyna), port tetni arrivals, przednowkowy ucisk ZDJETY (relief lorda administruje Wiara). Symon: 3 filary zamkowe + 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 82 jeleni + 1 mied + 0 smokow
+- **Wolne:** 104 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -25,7 +25,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Zelazo/okucia-marza (Gulltown->Boren->zamek): TRZECI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 82). Popyt: zamek na budowe (gwozdzie/okucia/zelazo, Torhen/Godric); Zrodlo: korespondent Gulltown (tanie u zrodla, trasa wschodnia Bite/Gulltown); Obrobka: Boren/kolodzieje (raw->okucia, zyskuja tanie zelazo); Symon koordynuje/skim. KAPITAL-LIGHT: off-take zamku (pre-commit) + komis/kredyt korespondenta = niski cash Symona. Marza per partia (grubsza niz prowiant/staple). 1. partia = LEAD TIME ~1-2 tyg (trasa wschodnia, zalezna od pogody - wiosna lepsza). Pasywny bleed Antaryona trwa (graded supply off jego frachtu).
 - Logistyka/sztauowanie: skladki portowe AURANE'A jako kregoslup operacji (07-25) - miejsce sztauowania 3 filarow zamkowych (drewno/prowiant/zelazo) + przeladunek korytarza sukna + bufor arrivals. Aurane pelne magazyny+dochod, Symon pojemnosc (de-ryzykuje filary+korytarz). Bonus: Aurane dzieli sie wgladem w przeplywy portu (kto co magazynuje). Partnerstwo, nie audyt.
 - Korytarz braawijski (ZYWY 07-26): zintegrowany kanal - sukno IN (Leona wolumen+klienci / Mira nisza+dojscia+weryfikacja, oslona Leony spisana) -> Nesta faktoruje -> skladki Aurane; bursztyn/futra OUT do Braavos (zysk dojrzewa tyg). Symon spina+marza koordynacyjna. Recurring. Pierwsza prowizja +5 jel.
-- ZRODLO ZIMOWE MERREK (odebrane 09-07): lot soli+zboza W RECE (saldo 55 jel zaplacone, dowoz lokalny dotarl mimo mrozu/stajacej rzeki). Towar pelny i dobry (Merrek dotrzymal co do ziarna - pewny dostawca na przyszle zimy). POJEMNOSC realna do prowiantowania zamku (przez firme/Godrica). Odsprzedaz w prowiant po uczciwej marzy.
+- ZRODLO ZIMOWE MERREK: lot wciagniety w prowiantowanie zamku przez Hala/firme (09-07). Sprzedany po UCZCIWEJ zimowej stawce (Symon NIE zdzieral mimo glodu) - marza skromna ~22 jel (kasa 82->104), ale reputacja: dostawca co dostarcza prawdziwy towar na czas w mroz po uczciwej cenie. Papier Godrica pokryty workami. Merrek=pewne zrodlo na przyszle zimy.
 - CICHY KLIENT (od 09-05, przez Hala/firme): grubszy dom handlowy - Symon wykryl przeciek w ich zimowych kontraktach zaopatrzeniowych, odzyskal marze. Tlusta zaplata 32 jel + STALA cicha obsluga ksiag (powracajacy grey-stream). Blask bierze HAL (jego imie rosnie jako operator - bezpiecznie); Symon banknuje niewidzialnie. Dowod: prosperuje w cieniu bez podnoszenia sie. || 09-06: cykl obslugi rzut 64 - spokojna zaplata ~12 jel (kasa 125->137). Hal ogarnia coraz wiecej sam (reka Symona coraz krocej potrzebna). Strumien kapie niewidzialnie.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
@@ -44,7 +44,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 58 · Zmeczenie 8
+- Zdrowie 100 · Sytosc 52 · Zmeczenie 14
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9

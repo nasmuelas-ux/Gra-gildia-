@@ -21,7 +21,7 @@
         "eksmisja przez wlasciciela kamienicy"
       ],
       "nastawienie_do_gracza": 70,
-      "zaufanie": 15,
+      "zaufanie": 17,
       "wie_o_graczu": [
         "umie pisac",
         "nie ma tu rodziny",
@@ -55,7 +55,7 @@
         "297-06-18 POLUDNIE (rzut 62): Symon rozwiazal jej przednowkowy glod GODNIE - nie datek, lecz PRACA: gotuje/doglada Hala i Wicka (sieroty w izbie 3) za uczciwa zaplate. Framing: ONA wyswiadcza Symonowi przysluge (chlopcy jedza zle). Przyjela z godnoscia (zarobek+garnek dla Toma+dwoch chlopakow do matkowania = koniec samotnosci), nie litosc. Niepisane porozumienie: oboje wiedza, nikt nie mowi. Rozwiazane naraz: jej glod/grosz/samotnosc + Tom najedzony + Hal/Wick nakarmieni/dogladani. -4 jel start, ongoing modest. nast 60->64."
       ],
       "dlugi": [],
-      "ostatni_kontakt": "297-07-31",
+      "ostatni_kontakt": "297-08-13 WIECZOR - ciepla domowa wizyta; Serla samodzielna (lokator placi, spizarnia pelna, nie potrzebuje pomocy), nakarmila bez pytania (jej natura); gadka o chlopakach ktorych dokarmia (syci/grzeczni), zaulku; traktuje Symona jak swojego (mlody chlopak nie kupiec/duch/mistrz). Ludzkie uziemienie po dniu triumfu Banku (jedna z prawdziwych ludzi, przyszla z rosolem gdy chory). Nast 70 hold, zauf 15->17.",
       "cechy_mowy": "cieplo, ale zaraz o pieniadzach; mowi 'synku', wzdycha",
       "nota": "SAMODZIELNA: ma lokatora (czynsz z poddasza, Symon jej go znalazl) + karmi chlopakow Symona (platna rola/dochod) = radzi sobie. NIE w potrzebie. 07-31: wizyta wyszla po prostu FLAT/niska-wartosc (zla godzina/zajeta, rzut 5) - nasluch zaden, nic zyskane, ale zero hardshipu i zero szkody (70/15). Kanal nasluchu wlasnosci pozostaje noisy (filtrowac).",
       "historia": [

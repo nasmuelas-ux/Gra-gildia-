@@ -2,7 +2,7 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-08-30 POPOLUDNIE · wiosna na Polnocy PRZECHYLAJACA SIE ku jesieni/przedzimiu - dobra dluga pora sie przelamuje: dnie krotsze, pierwsze ostre chlody od wody, sezon budowlany zamku jeszcze w toku ale konczy sie okno. Maesterzy z Cytadeli odczytuja TURN ku zimie (cien twardej zimy) - Polnoc szykuje spichrze z wyprzedzeniem.
+- **Data:** 297-08-30 WIECZOR · wiosna na Polnocy PRZECHYLAJACA SIE ku jesieni/przedzimiu - dobra dluga pora sie przelamuje: dnie krotsze, pierwsze ostre chlody od wody, sezon budowlany zamku jeszcze w toku ale konczy sie okno. Maesterzy z Cytadeli odczytuja TURN ku zimie (cien twardej zimy) - Polnoc szykuje spichrze z wyprzedzeniem.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
@@ -42,7 +42,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 42 · Zmeczenie 22
+- Zdrowie 100 · Sytosc 36 · Zmeczenie 28
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9
@@ -61,7 +61,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Harwin** (poborca_harwin) — poborca Cechu Pisarzy (egzekutor) · nast -14
 - **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 70
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
-- **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 80
+- **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 81
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 88
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 90
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 77

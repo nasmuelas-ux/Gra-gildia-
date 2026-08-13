@@ -420,6 +420,12 @@
       "odlicza_do": "ROZWIAZANE PRZEZ ZAULEK 08-18 (biedni zadbali o biednych)",
       "typ": "sprawa/dobro",
       "opis": "297-08-17: sztorm rozbil lodz Dake (mlody rybak, maz Bess=wnuczka Wendy). Symon chcial pomoc jako WEDKA nie jalmuzna: pozyczka na naprawe (prosty procent, lodz zastaw, splata z polowu). Rzut 11 - Dake ODMOWIL (duma po stracie + STRACH przed dlugiem: Rybi Zaulek pamieta Lorrena; boi sie ze zly polow=dlug jak Elna). Nie warunki, lecz brak zaufania ze to nie pulapka. Symon przeczytal trafnie, ODPUSCIL z gracja - sasiad nie pozyczkodawca (pomogl przy kadlubie, ludzkie slowo). Dake mur o pol tonu nizej. DROGA OTWARTA lepiej: wrocic gdy ostygnie przez WENDE, rama RYZYKO DZIELONE (splata tylko z dobrego polowu, umorzenie jesli morze zawiedzie, zero procentu skladanego) = zdejmuje strach; przyjmie z godnoscia. Symon nie traci (kapital wraca+goodwill), sieje reputacje sprawiedliwego kredytu (anty-Lorren) = feeds cel tarcza slabych. NEXT: kiedy/jak wrocic. || 297-08-18 WIECZOR (rzut 9): Symon przyszedl do Wendy z planem - ale ZAULEK JUZ ZWARL SZEREGI (rybacy deski/rece, Edd pozyczyl zapasowa lodke; biedni zadbali o biednych bez papieru/procentu). Plan Symona ZBEDNY, kasa nietknieta. Wenda dala nauke: nie kazdego ratowac srebrem, dumny woli wisiec swoim; ubodzy nie projekt (echo Owena). Wenda cieplej (za to ze POSLUCHAL, nie za chec dawania) zauf 25->27. Wiedza TARCZA SLABYCH A ICH GODNOSC dopisana. Opcja: cichy gest (uczciwa cena desek/smoly przez siec - podkladka nie ratunek). ZAMKNIETE (dobro sie stalo, bez Symona)."
+    },
+    {
+      "id": "podatek_miejski_inbound",
+      "odlicza_do": "dni-tygodnie (przyjdzie jako wezwanie, nie znienacka)",
+      "typ": "inbound/obowiazek",
+      "opis": "297-08-19 (audyt gracza): podatek miejski to periodyczny obowiazek mieszczanina (kwota/termin wg kalendarza), NIE naliczony w sierpniu. USTAWIONE by przyszedl jako PRZYCHODZACE (wezwanie od poborcy / ser Wylis-celnik) gdy dojrzeje - anty-zasadzka (nie ambush). Kwota MODEST (mieszczanski pobor; wpisowe bylo ~12 jel 01-27, pobor biezacy pewnie mniejszy/periodyczny). Symon: trzymac REZERWE, nie wydawac sie do zera. Gdy wezwanie padnie -> zaplacic z kasy, zaksiegowac wydatek. Do odpalenia w ciagu dni-tygodni (GM: gdy pasuje, jako spokojny inbound; da sie zaplacic z biezacej kasy/Dnia Bilansu)."
     }
   ]
 }

@@ -123,6 +123,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `WSPOLPRACA KRZEPNIE - krok do stewarda GATED (dojrzec: cykle+wyniki+przygotowanie)` theomore_prowiantowanie_zamku_zaproszenie: 297-08-16 RANEK (inbound 73): Theomore, wciaz obracajac wczorajsza rozmowe (rzut 96), przyslal note przez sluz
 - ⚠ `PRZETRWANY DOBRZE 08-17 (rzut 85)` sztorm_0817_ekspozycja: 297-08-17 RANEK (pogoda 2 + inbound 88): CIEZKI wiosenny SZTORM uderza w wybrzeze/tory zeglugowe. EKSPOZYCJE S
 - ◆ `ROZWIAZANE PRZEZ ZAULEK 08-18 (biedni zadbali o biednych)` dake_lodz_pomoc: 297-08-17: sztorm rozbil lodz Dake (mlody rybak, maz Bess=wnuczka Wendy). Symon chcial pomoc jako WEDKA nie ja
+- ◆ `dni-tygodnie (przyjdzie jako wezwanie, nie znienacka)` podatek_miejski_inbound: 297-08-19 (audyt gracza): podatek miejski to periodyczny obowiazek mieszczanina (kwota/termin wg kalendarza), 
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

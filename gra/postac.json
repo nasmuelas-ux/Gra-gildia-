@@ -8,11 +8,11 @@
   "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
-  "sytosc": 64,
-  "zmeczenie": 8,
+  "sytosc": 56,
+  "zmeczenie": 16,
   "sakiewka": {
     "miedziaki": 1,
-    "jelenie": 93,
+    "jelenie": 125,
     "smoki": 0
   },
   "dobytek": [
@@ -180,7 +180,8 @@
     "zelazo_okucia_marza_zamek": "Zelazo/okucia-marza (Gulltown->Boren->zamek): TRZECI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 82). Popyt: zamek na budowe (gwozdzie/okucia/zelazo, Torhen/Godric); Zrodlo: korespondent Gulltown (tanie u zrodla, trasa wschodnia Bite/Gulltown); Obrobka: Boren/kolodzieje (raw->okucia, zyskuja tanie zelazo); Symon koordynuje/skim. KAPITAL-LIGHT: off-take zamku (pre-commit) + komis/kredyt korespondenta = niski cash Symona. Marza per partia (grubsza niz prowiant/staple). 1. partia = LEAD TIME ~1-2 tyg (trasa wschodnia, zalezna od pogody - wiosna lepsza). Pasywny bleed Antaryona trwa (graded supply off jego frachtu).",
     "logistyka_sklady_aurane": "Logistyka/sztauowanie: skladki portowe AURANE'A jako kregoslup operacji (07-25) - miejsce sztauowania 3 filarow zamkowych (drewno/prowiant/zelazo) + przeladunek korytarza sukna + bufor arrivals. Aurane pelne magazyny+dochod, Symon pojemnosc (de-ryzykuje filary+korytarz). Bonus: Aurane dzieli sie wgladem w przeplywy portu (kto co magazynuje). Partnerstwo, nie audyt.",
     "korytarz_sukna": "Korytarz braawijski (ZYWY 07-26): zintegrowany kanal - sukno IN (Leona wolumen+klienci / Mira nisza+dojscia+weryfikacja, oslona Leony spisana) -> Nesta faktoruje -> skladki Aurane; bursztyn/futra OUT do Braavos (zysk dojrzewa tyg). Symon spina+marza koordynacyjna. Recurring. Pierwsza prowizja +5 jel.",
-    "zrodlo_zimowe_merrek": "ZRODLO ZIMOWE (Merrek, przez Mire, 09-02): zaklepany lot SOLI+ZBOZA (nadwyzka poboczna kupca Merrek, przycisniety gotowka). Uczciwa cena. Zadatek 35 jel wplacony (kasa 112->77); saldo ~55 jel platne PRZY DOSTAWIE (dowoz lokalny w porcie, ryzyko rzeki ODPADA). Daje POJEMNOSC = wiekszy zelazny przyrost dla prowiantowania Godrica/stewarda. Odsprzedaz w prowiant zamku po uczciwej marzy (prawdziwy zysk=pojemnosc+trwaly dostawca+charakter, nie spekulacja). Merrek wdzieczny za uczciwosc pod przymusem = zrodlo NA LATA."
+    "zrodlo_zimowe_merrek": "ZRODLO ZIMOWE (Merrek, przez Mire, 09-02): zaklepany lot SOLI+ZBOZA (nadwyzka poboczna kupca Merrek, przycisniety gotowka). Uczciwa cena. Zadatek 35 jel wplacony (kasa 112->77); saldo ~55 jel platne PRZY DOSTAWIE (dowoz lokalny w porcie, ryzyko rzeki ODPADA). Daje POJEMNOSC = wiekszy zelazny przyrost dla prowiantowania Godrica/stewarda. Odsprzedaz w prowiant zamku po uczciwej marzy (prawdziwy zysk=pojemnosc+trwaly dostawca+charakter, nie spekulacja). Merrek wdzieczny za uczciwosc pod przymusem = zrodlo NA LATA.",
+    "klient_cichy_stream": "CICHY KLIENT (od 09-05, przez Hala/firme): grubszy dom handlowy - Symon wykryl przeciek w ich zimowych kontraktach zaopatrzeniowych, odzyskal marze. Tlusta zaplata 32 jel + STALA cicha obsluga ksiag (powracajacy grey-stream). Blask bierze HAL (jego imie rosnie jako operator - bezpiecznie); Symon banknuje niewidzialnie. Dowod: prosperuje w cieniu bez podnoszenia sie."
   },
   "licznik_uzyc": {
     "audyt": 11,

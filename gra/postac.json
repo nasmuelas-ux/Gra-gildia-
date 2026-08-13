@@ -8,8 +8,8 @@
   "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
-  "sytosc": 46,
-  "zmeczenie": 14,
+  "sytosc": 38,
+  "zmeczenie": 24,
   "sakiewka": {
     "miedziaki": 1,
     "jelenie": 40,
@@ -216,6 +216,7 @@
     "dlaczego_realne": "Polnoc ceni DOKLADNIE to czym Symon jest: honor/wiernosc/prawda/sprawiedliwosc ponad poludniowy blichtr. Starkowie trzymaja lowborn wiernych/uzytecznych; maesterowie-doradcy czesto lowborn. NIE musi byc szlachcicem by sluzyc Starkowi - musi byc niezastapiony i nieskazitelny. Gra na jego zasadach.",
     "droga_lata_dekady": "(1) NAJPIERW MANDERLY - stac sie niezbednym czlowiekiem lorda Wymana (liczby/cla/zaopatrzenie/sprawiedliwosc), glosno zasluzonym by imie nioslo w gore (drabina: smallfolk->Manderly->Stark, nie przeskoczyc); (2) SPRAWIEDLIWOSC KU WINTERFELL - watek Rymana to most (apel do senioralnej sprawiedliwosci Starkow ponad lokalna zmowa; wskrzesic gdy firewall Antaryona calkiem opadnie) - realizuje etyke I droge naraz; (3) SLUZYC POTRZEBIE POLNOCY - kraina uboga w monete w cieniu ZIMY; braavijski kredyt/rachunki/prowiantowanie = unikalny towar dla Wardena (juz karmi zamek); (4) REPUTACJA NIESKAZITELNEJ PRAWDY - jedyny klucz do drzwi Starka (nie majatek/pochlebstwo ktorymi gardza, lecz dowiedziony honor: liczby prawdziwe + oslona slabych) - wyniesc z cienia na SWIATLO CNOTY; (5) LANCUCH PATRONOW: Theomore (maester - korespondencja miedzy zamkami, szacunek wedruje) -> dwor Wymana -> Winterfell.",
     "cena": "Najambitniejsza droga - siega PONAD wlasnego lorda ku Wardenowi. Wymaga wyjscia z cienia, ale na swiatlo CNOTY (nie majatku) - pasuje mu. Karta Antaryona domykajac sie zdejmuje kajdany ktore to blokowaly. Firewall/dyskrecja ustepuja miejsca budowanej-jawnie reputacji sprawiedliwego.",
-    "wiaze_watki": "Ryman/Aemon->Winterfell (most sprawiedliwosci), Theomore (uczony patron/pomost), dwor Manderly (Godric/petycja/zaopatrzenie), etyka Symona (chronic slabych), sukcesja kantoru Nesty, wolny plomien Mira (dom potrzebuje krwi by trwac - syn na giermka, kobieta u boku)."
+    "wiaze_watki": "Ryman/Aemon->Winterfell (most sprawiedliwosci), Theomore (uczony patron/pomost), dwor Manderly (Godric/petycja/zaopatrzenie), etyka Symona (chronic slabych), sukcesja kantoru Nesty, wolny plomien Mira (dom potrzebuje krwi by trwac - syn na giermka, kobieta u boku).",
+    "dzwignia_nesta_08_15": "Nesta wyostrzyla (08-15): (a) SUKCESJA kantoru = launchpad (pan monety Bialego Portu -> niezbedny Manderlym -> imie w gore); nie przeskakiwac drabiny. (b) UNIKALNA DZWIGNIA ku Winterfell = braavijski kredyt/prowiant/instrumenty na ZIME Polnocy - Warden rzadzacy wielka biedna kraina w cieniu glodu potrzebuje czlowieka co umie POLICZYC jak przetrwac zime, nie kolejnego rycerza; tego zaden polnocny lord nie ma pod reka, a Nesta dala to Symonowi w rece (jej rzemioslo=jego drabina do Starkow). (c) Cena: dekady; drzwi Starka=dowiedziony nieprzekupny honor budowany NA WIDOKU nie w cieniu."
   }
 }

@@ -6152,3 +6152,6 @@ Symon (po jedzeniu/odpoczynku) poszedl do Miry - teraz do partnerki. Rzut 12 - w
 
 ## 297-08-23 WIECZOR — Narada u Nesty (pakiet do szuflady, aftermath Banku)
 Symon poszedl do Nesty w mokry zmierzch. Wieczor strategiczny (rzut 84). Zlozyl pakiet zimowy do szuflady — Nesta przyjela tempo: gotowy, ciasny, ale LEZY, dopoki kurz po Antaryonie nie osiadzie caly. Odczytala ripple: fracht stanial (gouge pekl), ulga w jej wlasnym dlugu rusza, firewall trzyma, zadnej nitki do Symona; Antaryon szuka zdrajcy we WLASNYCH szeregach. Dala doktryne doradcy — wielki dom nie bierze tego, kto wchodzi na scene, lecz reke, ktorej nie widzi, az nie moze bez niej zyc; wiec badz ta reka po cichu, Godric niech nosi papier (bufor), Symon duch. Kurz osiada w tygodniach, nie miesiacach — ale niech osiadzie caly. Zaufanie 50->51.
+
+## 297-08-24 POPOLUDNIE — Tally dostawcy dopytane
+Symon wrocil do rozbieznosci w tally dostawcy (rzut 89, jego forte). Wytropil zrodlo w minute: podwojnie wpisana linijka postojowego po stronie dostawcy - stad brakujace pare miedzi. Napisal precyzyjny, uprzejmy list; dostawca skoryguje. Grosza z tego nie ma, ale to wlasnie te drobiazgi buduja jego imie - Tally, czlowiek u ktorego liczby wychodza prawdziwe. Cichy kapital pod gwiazde polnocna.

@@ -6086,3 +6086,6 @@ Symon PRZYGOTOWAL sie i poszedl do Aurane'a (sklady go uratowaly 2. raz w sztorm
 
 ## 297-08-19 WIECZOR - Godric: ksiega najpierw, potem zima (rzut 57, gracz dostroil z 9)
 Symon mial isc do Godrica z konkretem NA ZIMNO (surowy rzut 9 - VOID, gracz dostroil): najpierw POMOC z ksiega, potem rozmowa. Rzut 57. Symon poporzadkowal Godricowi ksiege zamkowa (procurement, czysta wartosc, oszczedzil mu godzin) - grunt cieply, dostał wartosc nie prosbe. Z SAMYCH LICZB wyplynela rozmowa o zimie (nie pitch od progu): kupowac prowiant z wyprzedzeniem w dolku/skladowac taniej u Aurane/rozlozyc ryzyko/zgrac z ostrzezeniami maestra - Godric sluchal jak RADY od kogos co juz pomaga (nie oferty obcego), 'to ma rece i nogi, za duzo marnujemy po staremu'. Bez wielkiego przelomu (Godric to nie steward, drabiny nie przeskakiwac) ale TWARDY WYNIK: konkretny plan winter-readiness oparty na REALNYCH ksiegach zamku, wspoltworzony z Godrikiem (ma go za swoj tak jak Symona) - ten wynik ktorego Theomore chcial; Godric moze poniesc stewardowi wlasciwym kanalem. Nauka w akcji: sluzba przed prosba, nie pchac. Godric +2. rachunki/organizacja+1. sytosc 38->30, zmeczenie 22->30. Pora POPOLUDNIE->WIECZOR.
+
+## 297-08-19 WIECZOR - dopisek: fee za ksiege Godrica
+Godric zaplacil za pomoc z ksiega zamkowa (zawsze placi - to platna robota, nie darmowa/jalmuzna): +4 jel. sakiewka 32->36.

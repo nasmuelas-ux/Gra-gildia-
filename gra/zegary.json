@@ -402,6 +402,12 @@
       "odlicza_do": "WCHODZI NA OBROTY (08-13) - druga druzyna/wozy online, pojemnosc up",
       "typ": "proces",
       "opis": "297-07-24 (rzut 67): ekspansja dostaw drewna na zamek na ZDROWEJ bazie. Bennet sam dobiera rece + zaprzeg przeciw gwarantowanemu off-take zamku (kapital-light dla Symona). Pojemnosc narasta kilka tyg (rekrutacja/wozy/schniecie drog po nawrocie). Gdy online -> filar drewna rosnie dalej. Symon: koordynacja + STALY kontakt z Bennetem (nie znikac - lekcja bazy). Bennet 68->72/20->23. || 297-08-13 (rzut 68, wizyta): EKSPANSJA WCHODZI NA OBROTY - Bennet dobral rece, druga druzyna scinki dociera sie, wozy/zaprzeg gotowe, drogi po odwilzy twarde. Pojemnosc wyraznie up -> flagowy filar drewna udzwignie wiekszy wolumen budowlany (kapital-light, reliability chroniona, wyrab odnawialny). Baza pielegnowana (Symon przyjechal sam) - Bennet 72->75/23->25."
+    },
+    {
+      "id": "theomore_prowiantowanie_zamku_zaproszenie",
+      "odlicza_do": "HOOK - inbound 08-16 (zaproszenie Theomore, decyzja gracza)",
+      "typ": "okazja/cel",
+      "opis": "297-08-16 RANEK (inbound 73): Theomore, wciaz obracajac wczorajsza rozmowe (rzut 96), przyslal note przez sluzacego. Jako maester zamku ma pomoc przemyslec PROWIANTOWANIE/zapasy nadchodzacego sezonu (winter-readiness); braavijski kat Symona zaintrygowal go dosc, by NIEFORMALNIE zaprosic jego oko - jako dalszy ciag rozmowy rownych umyslow. To PIERWSZY foothold w sprawach zamku ponad zwykla dostawe, przez maestra, NA DZWIGNI ZIMY (rdzen celu doradca Starkow: pokazac ze umie liczyc przetrwanie zimy tam gdzie sie liczy). BRAMKA: nieformalne, wczesne (nie skok do Winterfell) - ale realny szczebel Manderly-niezbednosci + ocieplenie mostu Theomore. OPSEC: podnosi profil u dworu - ale to teraz ZGODNE z celem (widocznosc-dla-cnoty). NEXT: decyzja gracza - podjac (przygotowac sie / isc) / odlozyc."
     }
   ]
 }

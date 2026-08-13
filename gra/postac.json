@@ -8,8 +8,8 @@
   "mieszka": "WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
-  "sytosc": 52,
-  "zmeczenie": 14,
+  "sytosc": 46,
+  "zmeczenie": 22,
   "sakiewka": {
     "miedziaki": 1,
     "jelenie": 38,
@@ -87,7 +87,8 @@
   "postawy": {
     "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku.",
     "pokora_w_sukcesie": "PRZYJETA 297-08-07 (po dwoch lekcjach jednego dnia: Nesta o dawkowaniu forensyki/zostaniu szarym, Mira o 'naprawiaczu'). SUKCES UDERZA DO GLOWY - pasmo wygranych (zelazo, audyt, 3 filary) rozgrzewa ego i ped. TRZYMAC KROTKO: (1) w interesie - dawkowac renome, puszczac przez firme/Hala nie wlasne nazwisko, grac SZARO (zwl. w Bank-limbo; oczy drozsze niz jelenie); (2) w relacjach - BLISKICH SIE NIE URZADZA. Mira/Nesta to niezalezne kobiety z wlasnym fachem, NIE pozycje do wpiecia/skalowania; przyjda na wlasnych warunkach albo wcale. Odruch 'zalatwie/poprowadze/wepne' = blad; ofiarowac UCHO nie zarzad. Rdzen: potega rosnie cicho, a nie na pokaz i nie przez zawlaszczanie ludzi.",
-    "duma_i_pomoc": "PRZYJETA 297-08-18 (nauka Symona po Dake/Wendzie): LUDZIE SA DUMNI - nie proponowac im pomocy W TEN SPOSOB (bezposrednio, papierem/dealem, w ich godzinie wstydu). Zwlaszcza dumnemu czlowiekowi w momencie straty oferta pozyczki/ukladu, choćby najuczciwsza, rani zamiast pomoc (czyta sie jako lask/litosc bogatego + strach dlugu). ZASADA: (1) najpierw czytac GODNOSC czlowieka, nie tylko jego potrzebe; (2) pomoc ma zachowac jego twarz - przez zaufany most (nie ty), rama ktora zdejmuje strach, albo cichy niewidzialny gest (podkladka pod JEGO wlasny wysilek), NIGDY jawna jalmuzna/deal z gory; (3) czasem najwiekszy szacunek = NIE pomagac (dumny woli wisiec swoim niz byc winien bogatemu; ubodzy maja wlasna sile). Krytyczne dla celu TARCZA SLABYCH: tarcza, ktora upokarza, nie jest tarcza."
+    "duma_i_pomoc": "PRZYJETA 297-08-18 (nauka Symona po Dake/Wendzie): LUDZIE SA DUMNI - nie proponowac im pomocy W TEN SPOSOB (bezposrednio, papierem/dealem, w ich godzinie wstydu). Zwlaszcza dumnemu czlowiekowi w momencie straty oferta pozyczki/ukladu, choćby najuczciwsza, rani zamiast pomoc (czyta sie jako lask/litosc bogatego + strach dlugu). ZASADA: (1) najpierw czytac GODNOSC czlowieka, nie tylko jego potrzebe; (2) pomoc ma zachowac jego twarz - przez zaufany most (nie ty), rama ktora zdejmuje strach, albo cichy niewidzialny gest (podkladka pod JEGO wlasny wysilek), NIGDY jawna jalmuzna/deal z gory; (3) czasem najwiekszy szacunek = NIE pomagac (dumny woli wisiec swoim niz byc winien bogatemu; ubodzy maja wlasna sile). Krytyczne dla celu TARCZA SLABYCH: tarcza, ktora upokarza, nie jest tarcza.",
+    "odmawianie_dobrze_08_26": "odmawianie_dobrze (297-08-26, od Owena): czlowiek sprawiedliwy poznawany jest po tym, czego ODMAWIA, nie tylko po tym, co czyni. Chwycenie okazji w zlej godzinie, z glodu bycia widzianym, psuje to, o co sie walczy. Prawdziwa okazja wraca, bo jest ZASLUZONA, nie porwana. Sprawdzac MOTYW: czy to sprawa (nakarmic slabych przez twarda zime = sprawiedliwosc), czy proznosc wspinaczki. Kontekst: prog Theomore/zamek."
   },
   "depozyt_u_nesty_mied": 0,
   "stany": [],

@@ -1009,6 +1009,12 @@
       "stan": "ZAMKNIETE - lot w prowiantowaniu, marza ~22",
       "priorytet": "wysoki",
       "opis": "297-09-07 (inbound 62): lot soli/zboza od Merreka GOTOWY do dostawy. Saldo ~55 jel platne przy odbiorze (zadatek 35 juz wplacony). Dowoz LOKALNY w porcie - i wlasnie dlatego idzie mimo powrotu mrozu (rzeka blisko stania, trakt ryzykowny; lokalne zrodlo=przewaga wciaz sie oplaca). Odbior domyka pojemnosc prowiantowania. NEXT: zaplacic saldo, odebrac, wciagnac w podaz. || 09-07 POLUDNIE (rzut 57): ODEBRANE. Towar pelny/dobry, saldo 55 zaplacone (kasa 137->82). Pojemnosc realna do prowiantowania. Merrek pewny dostawca (zauf ->43). Kolo od crit-fail pustej pojemnosci ZAMKNIETE."
+    },
+    {
+      "id": "odbior_polowu_dake_09_08",
+      "stan": "OBIECANE - wstawic slowo o staly odbior",
+      "priorytet": "niski",
+      "opis": "297-09-08: Symon obiecal Dake'owi (mez Bess, mlody rybak) wstawic slowo o STALY skromny odbior zimowego polowu przez swoja siec (karczma Pod Syrenim Ogonem gdzie sluzy Alys / drobni odbiorcy) - dzwignia nie jalmuzna, pewny kupiec zamiast loterii targu. NEXT: domknac (slowo w karczmie/u odbiorcy). Wzmacnia pajeczyne Wendy=najbezpieczniejsza tarcza dolu."
     }
   ]
 }

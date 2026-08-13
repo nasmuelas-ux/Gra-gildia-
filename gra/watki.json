@@ -982,15 +982,21 @@
     },
     {
       "id": "godric_supply_ramp_sponsor_09_02",
-      "stan": "AKTYWNY (dochod + sponsor)",
+      "stan": "AKTYWNY (sponsor poglebiony; wolumen gated na pojemnosci)",
       "priorytet": "wysoki",
-      "opis": "297-09-02 (inbound 99, crit): poslaniec od Godrica - dwor Wymana ZBIERA sie nad zimowym prowiantowaniem, provisioning rampuje. Godric chce OPRZEC sie mocniej na firmie Symona (wiekszy udzial w podazy/ksiegach) - dochod + Manderly-indispensability rosna. KLUCZOWE dla climbu: Godric SAM, z wlasnej woli, mowil o Symonie STEWARDOWI dobrze ('czlowiek za ksiegami podazy, ktore nie zawodza') - SPONSOR advancing ORGANICZNIE, dokladnie strategia Nesty. I firewall-BEZPIECZNE: to usta Godrica w gore, nie twarz Symona na scenie (Symon wciaz duch, brake nienaruszony). 2. noga sponsorska (Godric) zaczyna stac - po Owenie. Nagroda za cierpliwosc: case buduje sie SAM, gdy Symon czeka na all-clear. NEXT: przyjac wiekszy udzial podazy (grey, przez Hala), podtrzymac Godrica."
+      "opis": "297-09-02 (inbound 99, crit): poslaniec od Godrica - dwor Wymana ZBIERA sie nad zimowym prowiantowaniem, provisioning rampuje. Godric chce OPRZEC sie mocniej na firmie Symona (wiekszy udzial w podazy/ksiegach) - dochod + Manderly-indispensability rosna. KLUCZOWE dla climbu: Godric SAM, z wlasnej woli, mowil o Symonie STEWARDOWI dobrze ('czlowiek za ksiegami podazy, ktore nie zawodza') - SPONSOR advancing ORGANICZNIE, dokladnie strategia Nesty. I firewall-BEZPIECZNE: to usta Godrica w gore, nie twarz Symona na scenie (Symon wciaz duch, brake nienaruszony). 2. noga sponsorska (Godric) zaczyna stac - po Owenie. Nagroda za cierpliwosc: case buduje sie SAM, gdy Symon czeka na all-clear. NEXT: przyjac wiekszy udzial podazy (grey, przez Hala), podtrzymac Godrica. || 09-02 POLUDNIE: crit-fail pojemnosci (Hal rzut 2) - realna wolna pojemnosc zimowa CIENKA (faktor sprzedal nadwyzke, mroz=ryzyko dowozu). Symon dal Godricowi MALY ZELAZNY przyrost + uczciwosc zamiast przeobietnicy. Godric UJETY (zauf 43->45), niesie stewardowi 'czyja reka liczyla' - sponsor poglebiony na INTEGRITCIE, ale WOLUMEN/dochod skromny (right-sized). NEXT do wzrostu roli: ZABEZPIECZYC upstream pojemnosc zimowa (zaklepac faktora/zrodlo zanim rywale) - to odblokuje wiekszy udzial = wiekszy stage gdy przyjdzie all-clear."
     },
     {
       "id": "lead_leona_ksiega_09_02",
       "stan": "AKTYWNY (drobny)",
       "priorytet": "niski",
       "opis": "297-09-02 (inbound 89): Leona (88/48, cieplo) prosi o drobna pomoc z ksiega linii sukna - chlod nakreca popyt, chce wiedziec, ktora linia rentowna przed zimowym szczytem. Drobny cieply zlecenie, do podjecia."
+    },
+    {
+      "id": "zabezpieczyc_pojemnosc_zimowa_09_02",
+      "stan": "AKTYWNY (klucz do wzrostu roli podazowej)",
+      "priorytet": "wysoki",
+      "opis": "297-09-02: crit-fail ujawnil, ze firma jest bliska pulapu na czwartym pasmie - kluczowy faktor soli/zboza sprzedal nadwyzke rywalowi, realnie wolne cienkie. By UROSNAC w prowiantowaniu (i dac Godricowi/stewardowi wiekszy przyrost), Symon musi ZABEZPIECZYC nowe upstream zrodlo zimowe zanim inni je zgarna - lock faktora/dostawce, uwzgledniajac ryzyko dowozu przy zamarzajacej rzece. To realny NEXT wehikulu climbu."
     }
   ]
 }

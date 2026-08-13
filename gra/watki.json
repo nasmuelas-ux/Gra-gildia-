@@ -1009,6 +1009,12 @@
       "stan": "ZAMKNIETE - lot w prowiantowaniu, marza ~22",
       "priorytet": "wysoki",
       "opis": "297-09-07 (inbound 62): lot soli/zboza od Merreka GOTOWY do dostawy. Saldo ~55 jel platne przy odbiorze (zadatek 35 juz wplacony). Dowoz LOKALNY w porcie - i wlasnie dlatego idzie mimo powrotu mrozu (rzeka blisko stania, trakt ryzykowny; lokalne zrodlo=przewaga wciaz sie oplaca). Odbior domyka pojemnosc prowiantowania. NEXT: zaplacic saldo, odebrac, wciagnac w podaz. || 09-07 POLUDNIE (rzut 57): ODEBRANE. Towar pelny/dobry, saldo 55 zaplacone (kasa 137->82). Pojemnosc realna do prowiantowania. Merrek pewny dostawca (zauf ->43). Kolo od crit-fail pustej pojemnosci ZAMKNIETE."
+    },
+    {
+      "id": "wesele_bess_09_11",
+      "stan": "ZAPROSZENIE - wesele za ~3 dni (09-11)",
+      "priorytet": "sredni",
+      "opis": "297-09-08 (inbound 89): przez Wende (rybia, 44) przyszlo cieple ZAPROSZENIE na wesele jej corki BESS (19). Termin ~09-11 (za 3 dni), we wspolnocie Schodow/portu. Bess to kuzynka Brana (Wenda=ciotka Brana). Symon zaproszony jako 'swoj' + gospodarz-pracodawca Brana. WYDARZENIE WSPOLNOTOWE cieple i FIREWALL-BEZPIECZNE (smallfolk, nie scena zamku; low Antaryona szuka wsrod wznoszacych sie elit, nie na weselu tragarzy - a obecnosc wzmacnia obraz zakorzenionego commonera=dobra oslona). NEXT: przygotowac dar/obecnosc; iSC 09-11."
     }
   ]
 }

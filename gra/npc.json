@@ -1700,7 +1700,7 @@
       "zawod": "septon uczony w prawie; prowadzi prawne/majatkowe sprawy Septy z miastem (zapisy, nadania, wlasnosc koscielna); zna praktyke rady i admisji mieszczanskiej",
       "mieszka": "przy glownej Sepcie / Sept Sniegow",
       "nastawienie_do_gracza": 41,
-      "zaufanie": 12,
+      "zaufanie": 13,
       "wie_o_graczu": [
         "297-01-03 (rzut 81): konsultacja o mieszczanstwie. Torren wylozyl czysta sciezke: ubiegac sie jako KUPIEC-wspolnik (nie skryba) -> Cech Pisarzy traci formalny grunt (nie wchodzi jako skryba, ich weto bezprzedmiotowe). Wymogi: WLASNOSC (dom w murach - brakujace ogniwo, sprawa na wiosne), standing kupiecki (udzial kantoru ✓), poreczyciele-kupcy (Vox/Aldous/Leona/Boren/Merek ✓), poreczenie Wiary ✓, wpis+oplata. Zlozone razem przygniata glos Pisarzy. Ryzyko: Harwin/Ryman moga zwlekac jesli znajda sojusznika w radzie (timing/gotowe poreczenia). DO WYGRANIA. Torren poprowadzi wniosek.",
         "297-01-05 (rzut 53): sprawdzil tytul kamieniczki. Jest ZASTAW (dlug desperata pod dom), ale reszta tytulu czysta (prawdziwy wlasciciel, brak spornych spadkobiercow, podatki OK). Zastaw ULECZALNY przy transakcji: srebro najpierw splaca wierzyciela->zdjecie zastawu->czysty tytul (za pisemnym zwolnieniem). Torren poprowadzi krok po kroku. Zastaw = dodatkowa dzwignia (wierzyciel przyciska->latwiej zbic cene). Cenny sprawdzony sojusznik prawny.",
@@ -1725,7 +1725,7 @@
         "porzadek w sprawach Septy",
         "posluszenstwo Wierze"
       ],
-      "ostatni_kontakt": "297-08-14 POPOLUDNIE - pomoc przy zapisie poboznym dla Septy (bezdzietny kupiec zostawia alms ubogim; Symon spial szczelnie: swiadkowie/pieczec/zabezpieczenie przed spadkobiercami); ciche dobro, tarcza Wiary; szacunek Torrena roscie",
+      "ostatni_kontakt": "297-08-23 POPOLUDNIE (rzut 55) - praca prawa Wiary: umocnili fundament prawno-administracyjny reliefu (grant lorda + rozdzial nienaruszalnie, czyste rejestry/przydzialy/anty-faworyzacja) + drobne sprawy Septy (pokwitowania/umowa/zapis). Splot prawa+rachunkow Symona szczelny. Ciche dobro, tarcza mocna, grey-safe. Torren coraz mocniej widzi w Symonie czlowieka prawa/liczb Wiary. Zauf +1.",
       "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
       "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
     },

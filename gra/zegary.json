@@ -429,9 +429,9 @@
     },
     {
       "id": "aurane_audyt_posztormowy",
-      "odlicza_do": "HOOK - inbound 08-20 (Aurane prosi o rekoncyliacje ksiag po sztormie)",
+      "odlicza_do": "ZAMKNIETY 08-20 (rekoncyliacja dostarczona, +7 jel)",
       "typ": "okazja",
-      "opis": "297-08-20 RANEK (inbound 71): AURANE przyslal sluzacego - po sztormie jego sklady to chaos ksiegowy (masa ladunku wchodzila/wychodzila w salvage, swojego i cudzego), prosi Symona o rekoncyliacje (co weszlo/wyszlo/czyje/ile). Premium klient, swiezo poglebiony partner, potrzeba realna zrodzona z burzy (nie ambush). Firewall-czyste, warm. Fee premium. Bonus: jeszcze mocniej cementuje kregoslup magazynow + wglad w przeplywy. Swiat sam zapukal (opcja z 08-19 oferowana). NEXT: decyzja gracza (podjac/przygotowac)."
+      "opis": "297-08-20 RANEK (inbound 71): AURANE przyslal sluzacego - po sztormie jego sklady to chaos ksiegowy (masa ladunku wchodzila/wychodzila w salvage, swojego i cudzego), prosi Symona o rekoncyliacje (co weszlo/wyszlo/czyje/ile). Premium klient, swiezo poglebiony partner, potrzeba realna zrodzona z burzy (nie ambush). Firewall-czyste, warm. Fee premium. Bonus: jeszcze mocniej cementuje kregoslup magazynow + wglad w przeplywy. Swiat sam zapukal (opcja z 08-19 oferowana). NEXT: decyzja gracza (podjac/przygotowac). || 297-08-20 POLUDNIE (rzut 50): DOSTARCZONA. Ksiegi rozplatane (co czyje/in/out/lezy); audyt wylapal 1 rozjazd (lot przemokl/nie tam - liability do rozstrzygniecia przez Aurane). Fee +7 jel, partnerstwo cementowane, wglad w przeplywy (bonus). Zamkniete."
     }
   ]
 }

@@ -1649,7 +1649,7 @@
       "zawod": "wdowa po kupcu Braavos-adjacent (Rovan, zm. febra); ciagnie sama DROBNY HANDEL SUKNEM/PLOTNEM z Braavos (cienkie plotna, welna czesankowa) - maly obrot, ale ZNA szlak+ludzi w Braavos",
       "mieszka": "Port_Manderly (okolice)",
       "nastawienie_do_gracza": 94,
-      "zaufanie": 83,
+      "zaufanie": 84,
       "wie_o_graczu": [
         "d31 (rzut 11): pierwsze spotkanie przy jej ksiegach. Symon pomogl KOMPETENTNIE (wskazal niedowazenie w kontrakcie meza) - przyjela rzeczowo. ALE pol-przejrzala pretekst (bystra: 'po co Nesta przysyla akurat takiego skrybe?') - garda w gore, chlodna, transakcyjna, zero ciepla/sparku, nic z siebie nie dala. Nast 0->2 (za kompetencje, ale wary). Symon zagral dobrze (fachowiec nie zalotnik, zero pchania) - ale to dopiero poczatek dlugiej gry.",
         "297-01-30 (read Nesty, nie potwierdzone przez Mire): jej chlod moze byc GENUINE brakiem checi do malzenstwa (niezalezna pismienna wdowa - malzenstwo=utrata autonomii/majatku), nie 'jeszcze niezdobyta'. Hipoteza: trop moze byc slepy niezaleznie od cierpliwosci Symona. Nie napierac; nie projektowac wlasnego pragnienia na jej milczenie.",
@@ -1685,7 +1685,7 @@
         "utrzymac resztke interesu meza",
         "niezaleznosc/nie dac sie popchnac"
       ],
-      "ostatni_kontakt": "297-08-25 NOC (rzut 81) - CIEPLY, DOBRY wieczor (nie zmeczony jak ostatnie). Symon wrocil do niej na koniec dnia; rozmowa plynela naprawde - o przyszlosci konkretnie: WSPOLNY DOM zaczyna byc planem nie mrzonka (warsztat+kantor pod jednym dachem, dach do polatania, wspolne palenisko). Nie wesele jutro - oboje trzezwi - ale pierwszy raz mowia o tym jak o rzeczy DO ZROBIENIA, nie 'kiedys'. Cieplo, blisko, wybrani. zauf 82->83, nast 94 hold. Partnerstwo rownych dojrzewa ku wspolnemu gospodarstwu.",
+      "ostatni_kontakt": "297-08-26 WIECZOR (rzut 37) - Symon PRZYNIOSL JEJ decyzje ws. zaproszenia maestra/zamku. Rozmowa krotka, powszednia (ona miedzy klientami i belami), ale gest ogromny: pytajac ja o wlasny climb ku dworowi ODPOWIEDZIAL na jej dawny lek (08-20: czy w wspinaczce zostaje miejsce dla niej) - jest W decyzjach, nie obok. Jej odczyt prosty, przyziemny: nie musisz porywac pierwszych drzwi; budujemy cos wolno i prawdziwie, a wolno-i-prawdziwie nie potrzebuje wskakiwac na scene, ktora moze cie spalic. Wolalaby cie bezpiecznego i obecnego niz olsniewajacego i wystawionego - ale bez smyczy, szanuje ambicje. TRZECI GLOS ku sredniej drodze (po Nescie i Owenie). Gest wlaczenia jej pogłębił zaufanie: zauf 83->84, nast 94 hold.",
       "cechy_mowy": "krotko, rzeczowo, chlodno; bystra, przenikliwa, malo daje z siebie; twarda niezaleznosc",
       "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA.",
       "flaga_postawa": "AKTYWNE PARTNERSTWO (07-24) - korytarz sukna DOPIETY na jej warunkach: zostaje soba (handel/ksiegi/reka nietkniete), wnosi braawijskie dojscia+wiedze jako WEZEL Z AGENCJA za uczciwy wycinek, moze sie wycofac (autonomia zelazna). Wybrala wspolne przedsiewziecie z Symonem jak rowna. Bond poglebia sie przez wspolna prace, nie deklaracje. NIE napierac personal - rosnie samo.",

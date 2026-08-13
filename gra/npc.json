@@ -1014,7 +1014,9 @@
       "id": "kasztelan_wylis",
       "imie": "ser Wylis",
       "zawod": "oficer Manderlych, poborca cel",
-      "nastawienie_do_gracza": 0
+      "nastawienie_do_gracza": 12,
+      "zaufanie": 4,
+      "ostatni_kontakt": "297-08-22 POLUDNIE (rzut 65) - Symon zaplacil pobor ~8 jel W TERMINIE, uprzejmie, bez grymasu. Ser Wylis (celnik nawykly do zrzedzenia) uznanie - punktualny/dobrze mowiacy platnik rzadkosc. Kurtuazja o niczym (wiosna/port), Symon SWIADOMIE zero wscibstwa o clo/fracht (grey play). Dobre 1. wrazenie: kojarzy Symona z wlasciwej polki (dostawca zamku, pisarz Wiary, czyste ksiegi, w terminie). Nowy cichy kontakt ku dworowi (drabina), firewall-czyste. Nast 0->12, zauf ->4."
     },
     {
       "id": "corka_wendy_mella",

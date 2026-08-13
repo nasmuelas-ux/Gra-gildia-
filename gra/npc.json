@@ -1015,7 +1015,8 @@
       "id": "karczmarz_dobb",
       "imie": "Dobb",
       "zawod": "karczmarz Pod Syrenim Ogonem",
-      "nastawienie_do_gracza": 5
+      "nastawienie_do_gracza": 8,
+      "ostatni_kontakt": "297-09-08 WIECZOR (rzut 56) - Symon zaaranzowal skromny STALY odbior polowu Dake'a przez kuchnie karczmy (pewna zimowa ryba > loteria targu; Alys reczyla z boku). Dobb praktyczny, przybil rekę ('wole pewna rybe niz tania'). Nowy praktyczny kontakt. nast 5->8."
     },
     {
       "id": "starszy_mennard",
@@ -1162,8 +1163,8 @@
       "id": "alys_narzeczona_brana",
       "imie": "Alys",
       "zawod": "ZONA Brana (slub 297-04-07, Symon swiadek); sluzy w karczmie Pod Syrenim Ogonem + szyje u Jonny",
-      "nastawienie_do_gracza": 32,
-      "ostatni_kontakt": "297-09-06 WIECZOR - Symon oddal Branowi i Alys izbe 4 w swojej kamieniczce na mieszkanie. Mlode malzenstwo dostaje pierwsza wlasna prawdziwa przestrzen. Alys (juz wczesniej wzruszona darem sukna 05-25) teraz gleboko wdzieczna - gospodarz-pracodawca meza dal im DOM. nast 18->32.",
+      "nastawienie_do_gracza": 34,
+      "ostatni_kontakt": "297-09-08 WIECZOR - Symon zalatwil w jej karczmie staly odbior polowu Dake'a (rodzina Wendy); Alys reczyla z boku, uradowana ze Symon pomaga swoim dzwignia nie jalmuzna. nast 32->34.",
       "wie_o_graczu": [
         "297-04-22: cieplejsza/smielsza wobec Symona - zarabia u Jonny (igla), dom oddycha; widzi w Symonie czlowieka co ogarnal po sasiedzku, nie grozdnego dobroczynce.",
         "KOREKTA 297-05-19: Alys jest ZONA Brana od slubu 297-04-07 (Symon byl swiadkiem), nie narzeczona. Pole zawodu bylo stale.",
@@ -1954,7 +1955,7 @@
         "297-02-09: poznal Symona - zrazu ostrozny (obcy pan Tally), ale gdy Symon siadl bez fumow, jak swoj, lod pekl. Twarde rece, prosty, uczciwy.",
         "297-02-27: wspolny posilek z Symonem (z Bess) - cieplo, mlody+niesmialy, niC sie zawiazuje powoli. nast 16->18."
       ],
-      "ostatni_kontakt": "297-09-08 POPOLUDNIE (rzut 67) - Symon obiecal wstawic slowo o staly skromny odbior jego zimowego polowu (przez siec: karczma/drobni odbiorcy) - dzwignia nie jalmuzna, pewny kupiec zamiast loterii targu. Pierwszy raz patrzy na Symona jak na swojego co podaje reke, nie obcego pana. nast 18->26, zauf 4->9. [NEXT: domknac odbior - slowo w karczmie/u odbiorcy.]",
+      "ostatni_kontakt": "297-09-08 POPOLUDNIE (rzut 67) - Symon obiecal wstawic slowo o staly skromny odbior jego zimowego polowu (przez siec: karczma/drobni odbiorcy) - dzwignia nie jalmuzna, pewny kupiec zamiast loterii targu. Pierwszy raz patrzy na Symona jak na swojego co podaje reke, nie obcego pana. nast 18->26, zauf 4->9. [NEXT: domknac odbior - slowo w karczmie/u odbiorcy.] || 09-08 WIECZOR: OBIETNICA DOMKNIETA - Dobb (karczma) bierze staly skromny odbior polowu Dake'a. Pewny zimowy kupiec zalatwiony. Dake bedzie glęboko wdzieczny gdy sie dowie.",
       "cechy_mowy": "malomowny, prosto, rybacki",
       "rok_urodzenia": 275
     },

@@ -2,14 +2,14 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-09-06 RANEK · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
+- **Data:** 297-09-06 POLUDNIE · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
 - **Nastroje:** 297-08-04 RANEK, pelna wiosna: sezon budowlany zamku w toku (drewno/prowiant/zelazo plyna), port tetni arrivals, przednowkowy ucisk ZDJETY (relief lorda administruje Wiara). Symon: 3 filary zamkowe + 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 125 jeleni + 1 mied + 0 smokow
+- **Wolne:** 137 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -26,7 +26,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - Logistyka/sztauowanie: skladki portowe AURANE'A jako kregoslup operacji (07-25) - miejsce sztauowania 3 filarow zamkowych (drewno/prowiant/zelazo) + przeladunek korytarza sukna + bufor arrivals. Aurane pelne magazyny+dochod, Symon pojemnosc (de-ryzykuje filary+korytarz). Bonus: Aurane dzieli sie wgladem w przeplywy portu (kto co magazynuje). Partnerstwo, nie audyt.
 - Korytarz braawijski (ZYWY 07-26): zintegrowany kanal - sukno IN (Leona wolumen+klienci / Mira nisza+dojscia+weryfikacja, oslona Leony spisana) -> Nesta faktoruje -> skladki Aurane; bursztyn/futra OUT do Braavos (zysk dojrzewa tyg). Symon spina+marza koordynacyjna. Recurring. Pierwsza prowizja +5 jel.
 - ZRODLO ZIMOWE (Merrek, przez Mire, 09-02): zaklepany lot SOLI+ZBOZA (nadwyzka poboczna kupca Merrek, przycisniety gotowka). Uczciwa cena. Zadatek 35 jel wplacony (kasa 112->77); saldo ~55 jel platne PRZY DOSTAWIE (dowoz lokalny w porcie, ryzyko rzeki ODPADA). Daje POJEMNOSC = wiekszy zelazny przyrost dla prowiantowania Godrica/stewarda. Odsprzedaz w prowiant zamku po uczciwej marzy (prawdziwy zysk=pojemnosc+trwaly dostawca+charakter, nie spekulacja). Merrek wdzieczny za uczciwosc pod przymusem = zrodlo NA LATA.
-- CICHY KLIENT (od 09-05, przez Hala/firme): grubszy dom handlowy - Symon wykryl przeciek w ich zimowych kontraktach zaopatrzeniowych, odzyskal marze. Tlusta zaplata 32 jel + STALA cicha obsluga ksiag (powracajacy grey-stream). Blask bierze HAL (jego imie rosnie jako operator - bezpiecznie); Symon banknuje niewidzialnie. Dowod: prosperuje w cieniu bez podnoszenia sie.
+- CICHY KLIENT (od 09-05, przez Hala/firme): grubszy dom handlowy - Symon wykryl przeciek w ich zimowych kontraktach zaopatrzeniowych, odzyskal marze. Tlusta zaplata 32 jel + STALA cicha obsluga ksiag (powracajacy grey-stream). Blask bierze HAL (jego imie rosnie jako operator - bezpiecznie); Symon banknuje niewidzialnie. Dowod: prosperuje w cieniu bez podnoszenia sie. || 09-06: cykl obslugi rzut 64 - spokojna zaplata ~12 jel (kasa 125->137). Hal ogarnia coraz wiecej sam (reka Symona coraz krocej potrzebna). Strumien kapie niewidzialnie.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-09-01 (ostatni: 297-08-01 (wykonany))
@@ -44,7 +44,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 46 · Zmeczenie 1
+- Zdrowie 100 · Sytosc 40 · Zmeczenie 8
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9

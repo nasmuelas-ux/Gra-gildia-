@@ -19,3 +19,11 @@
    sasiedzi i cechy pomocnicze udzielaja pomocy wzajemnej — to realizm epoki, nie
    ulga dla gracza. Pomoc ma swoja cene (zobowiazanie, wdziecznosc, przynaleznosc),
    ale ISTNIEJE.
+
+## STARZENIE (mechanika wieku) — dodane 297-09-06
+- **Nie trzymamy sztywnego wieku.** Każda postać (Symon + NPC) ma `rok_urodzenia`; wiek WYLICZA się z kalendarza świata.
+- `stan.py` przy każdym odświeżeniu przelicza `wiek = rok_biezacy - rok_urodzenia` (minus 1, jeśli `data_urodzin` w tym roku jeszcze nie minęła) i zapisuje do JSON. Dzięki temu wszyscy starzeją się sami z upływem lat — działa w nieskończoność (grasz 50 lat → wszyscy +50).
+- **Symon:** ur. 275 AC, 8. miesiąc, dzień 3 (start gry 296-08-03 = jego 21. urodziny). Ma pełną `data_urodzin` (precyzja co do dnia).
+- **NPC:** mają `rok_urodzenia` (dodane hurtem 297-09-06 = 297 − ówczesny wiek). Bez `data_urodzin` → wiek roczny/przybliżony (wystarcza). Można dopisać `data_urodzin` komukolwiek, gdy fabuła tego zażąda.
+- **Nowy NPC:** nadawaj `rok_urodzenia` (= rok bieżący − wiek), nie sztywny `wiek`.
+- **Przyszłe:** przy bardzo długiej grze dojdzie ŚMIERTELNOŚĆ (starość/choroba) — do rozpisania osobno, gdy nadejdzie czas.

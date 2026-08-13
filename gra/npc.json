@@ -63,7 +63,8 @@
         "m11d18 wieczor: Symon przyniosl jedzenie Serli i Tomowi w mroz. Cieply, zwyczajny wieczor przy skapym ogniu - wdziecznosc, troche cichej rozmowy, Tom najedzony (kruchy ale zywy). Bez wielkich chwil, po prostu dobro. Serla 29->31.",
         "m12d04 rzut24: cieply zwyczajny kwadrans z jedzeniem w gleboki mroz; Tom kruchy ale zywy; wiez trzyma. 31->33",
         "297-03-03 (rzut 72, podejscie 3+1): Symon wrocil WLASCIWIE po bruzdzie z 02-17. Wszedl jako CHLOPAK nie pan - pokornie, bez dostatku, pozwolil sie NAKARMIC/matkowac (oddal jej role, odwrocil pride-wound: ona daje=zachowuje godnosc). Bruzda z 02-17 ZAGOJONA. Potem BOKIEM, nie jak jalmuzna: referral LOKATORA na jej puste poddasze ('znam kogos porzadnego, co szuka izby na wiosne') - zwykla przysluga, nie ratunek; duma NIETKNIETA, a jej realny kłopot (brak grosza z pustego poddasza) ROZWIAZANY godnie (wlasny czynsz, wlasny uklad). Serla wdzieczna bez bycia umniejszona; dumna z niego 'po swojemu', trzyma go przy ziemi. Wiez odbita mocno. nast 38->46, zauf +2. LODGER-referral: Symon skojarzy porzadnego najemce (~wiosna, gdy ludzie sie przeprowadzaja)."
-      ]
+      ],
+      "rok_urodzenia": 246
     },
     {
       "id": "wenda_rybia",
@@ -117,7 +118,8 @@
         "297-02-20 (rzut 95): wybitnie cieply reconnect na Targu Rybnym - nieporozumienie febrowe calkiem za nimi, Wenda serdeczna. LUDZKIE: Bess i Dake (nowozency) dobrze sie trzymaja, Wenda dumna/wdzieczna. PULS DOLU + STRATEGICZNY NUGGET: potwierdzone mocno - wsrod MALYCH LUDZI (przekupki/tragarze/biedota) imie Symona jest CICHE-DOBRE i TWARDE, bo pamietaja relief (jedli dzieki niemu). Szept Harwina (\"obcy gra swietego dla statusu\") NIE CHWYTA sie w dole - ludzie, ktorych nakarmil, odruchowo go bronia; Wenda i przekupki instynktownie kontrują jad (\"ten chlopak nas ratowal, a ten drugi co zrobil?\"). To REALNY rezerwuar obronny: deed>whisper wcielone w cala warstwe, ODPORNA na slander Harwina (baza, ktorej cech/Harwin nie dosiegna). nast 38->43, zauf 13->14.",
         "297-03-06 (rzut 16 - miss okolicznosciowy, zla pora): Symon wpadl z dobra intencja (pomoc+rozmowa), ale trafil Wende ZAHARWANA na targu - przedwiosnie ozywilo handel, ma rece pelne roboty. Wizyta krotka/harried, nie zaiskrzyla. 'Czy potrzebujesz pomocy' zbyta krotko ('dam rade, chlopcze, nie ta pora') - busy + dol-duma, bez urazy. Zlapal tylko strzep pulsu dolu (biedota lzej z cieplem, ale czeka na powrot zeglugi jak wszyscy). Relacja zdrowa (43, bez szkody), po prostu zla pora - lapac ja poza szczytem targu. Bez zysku, bez straty.",
         "297-03-06 ZMIERZCH (rzut 74): Symon wrocil PO targu (nauka odrobiona - poza szczytem) - i teraz zaiskrzylo. Wenda zmeczona ale rozluzniona, zwija stragan, ma czas. Ciepla, prawdziwa rozmowa. Pomoc zbyla ('dam rade'), ale UJETA szczera pytaniem (nie litosc - docenila). PULS DOLU wlasciwie odczytany: dol solidny za Symonem (imie twarde-dobre), biedota liczy na wiosne/powrot zeglugi. Cieply beat rodzinny - Bess i Dake dobrze. nast 43->47, zauf +1."
-      ]
+      ],
+      "rok_urodzenia": 253
     },
     {
       "id": "bran_tragarz",
@@ -188,7 +190,8 @@
         "297-02-15: role przy kamieniczce ustawione czysto przez Symona - Mira glowa (co/kiedy), Bran rece (jak), wzajemny szacunek. Tarcie glowa-rece opada, dumny dokowiec pracuje bo wie gdzie stoi. Operacja plynie.",
         "297-02-18 (rzut 81): cieply wieczor z Branem - odpocznienie po jalowej sesji traktatu. Bran ROZKWITL: dozorca kamieniczki, robota z Mira plynie gladko odkad role jasne (glowa/rece), dumny i pewny. RAPORT dozorcy: dom trzyma sie, lokatorzy (Jonna+Osric) zadowoleni, miekki waitlist na izbe 3 (wiosna po dachu). Operacja sama chodzi - potwierdza pozycje Symona \"wlasciciel nie dozorca\" (aktyw pracuje bez niego). LUDZKI KAMIEN MILOWY: staly grosz+godnosc pracy uczynily przyszlosc z Alys REALNA - Bran z duma dzieli sie, ze zamierzaja sie POBRAC (~po odwilzy/wiosna). Dziekuje Symonowi po swojemu (bez tego zimowego miejsca nie moglby). Symon=architekt cudzego szczescia (zima ubodzy vs to: dobro ktore zbudowal). Wiez glebnie. nast 64->66, zauf +1.",
         "297-03-06 (rzut 87): cieply reconnect po ~18 dniach - Bran kwitnie jako dozorca. WESELE Z ALYS: podal konkretna date - na WIOSNE po odwilzy, na DZIEN MATKI w przyszlym miesiacu (~297-04-07). BONUS: Bran POPROSIL Symona, by byl czescia wesela - swiadek/zeby spisal-odczytal slowa (Symon=pisarz) i stanal przy nim. Dla Symona (kiedys bez nikogo w miescie) proszony na wesele = marker PRZYNALEZNOSCI. Wzruszajacy, ludzki moment. nast 66->69."
-      ]
+      ],
+      "rok_urodzenia": 274
     },
     {
       "id": "nesta_braavijka",
@@ -367,7 +370,8 @@
         "m12d05 rzut49: Symon wnosi kodeks zawodowy (oslona audytora+metoda+rozszerzenie+ROZJEMSTWO). Nesta: oslona audytora = madre, wprost hartuje jego slabosc. Rozjemstwo GENIALNE i historycznie trafne (lex mercatoria obok sadu), ALE 2 bramki: (1) STANDING - 21-latek, nie starszyzna; merchant submituje do arbitra ktoremu UFA -> na razie tylko MALE spory wsrod zaufanych-adjacent (krag Voxa/Schody); rosnie z reputacja; (2) REWIR CECHU/NOTARIUSZY - rozjemstwo+zapis polubowny ociera sie o to, co robia notariusze Cechu Pisarzy (RYMAN!), a Harwin poluje -> ryzyko re-zapalenia zamrozonego frontu cechu. Robic w prywatnej niszy merchant-to-merchant pod oslona Wiary, cicho, malo, pilnujac Ryman/Harwin. Bezpieczne uslugi (audyt-hardened/wycena/counterparty/rejs) - launchable. Partnerstwo.",
         "297-03-07 (rzut 57, dzien Matki, prywatnie): Symon spytal delikatnie - z jawnym OUTem ('jesli nie chcesz, nie mow') - czemu sie nie ustatkuje/nie zostanie obywatelka, i o meza. Wlasnie ten szacunek (out) + gleboka ufnosc + cichy holy day odblokowaly MIERZONE otwarcie. Nesta podzielila sie KSZTALTEM (nie kazda rana): owdowiala mlodo w Braavos (kochany maz-kupiec), strata zostawila ja z niczym; wybrala droge faktorki-z-dala-od-domu, by odbudowac sie SAMA. Czemu nie osiada/nie zostaje obywatelka BP: (1) sluzy PRYNCYPALOWI, jej wiez/tozsamosc=Braavos, obywatelstwo BP=przyznanie ze nie wraca + ciecie tej wiezi(=bezpieczenstwo); (2) NIEZALEZNOSC dearly bought - osiasc znaczyloby re-uwiklac sie w struktury, co kobiete krepuja (to samo, przed czym ostrzegala o Mirze - projekcja z wlasnego zycia!); (3) dlug Antaryonow=smycz - nie jest w pelni SWOJA poki nieściety (dlatego refi jest dla niej OSOBISTE - droga powrotu do bycia wlasna). Najglebsza rana (jak umarl maz) ZOSTAWILA zamknieta. Wiez: z partnerstwa -> prawdziwe zaufanie/przyjazn. zauf 36->38."
       ],
-      "tlo_osobiste": "Braavijka. Owdowiala mlodo w Braavos (maz - kupiec, ktorego kochala; strata zostawila ja z niczym / w slabej pozycji wdowy). Zamiast zalezec od cudzej laski wybrala TWARDA droge: zostala FAKTORKA pryncypala, wyslana prowadzic kantor w zimnym polnocnym porcie, z dala od domu, by odbudowac sie WLASNYMI rekami. Niezaleznosc to nie romantyzm - to co jej ZOSTALO, przekute w zasade: zaufanie tylko wlasnym rekom, bo zaleznosc raz kosztowala ja wszystko."
+      "tlo_osobiste": "Braavijka. Owdowiala mlodo w Braavos (maz - kupiec, ktorego kochala; strata zostawila ja z niczym / w slabej pozycji wdowy). Zamiast zalezec od cudzej laski wybrala TWARDA droge: zostala FAKTORKA pryncypala, wyslana prowadzic kantor w zimnym polnocnym porcie, z dala od domu, by odbudowac sie WLASNYMI rekami. Niezaleznosc to nie romantyzm - to co jej ZOSTALO, przekute w zasade: zaufanie tylko wlasnym rekom, bo zaleznosc raz kosztowala ja wszystko.",
+      "rok_urodzenia": 258
     },
     {
       "id": "garth_celnik",
@@ -425,7 +429,8 @@
         "m11d22 (rzut 79): dyskretna ocena dojrzalosci danych. Garth przez tygodnie cicho nazbieral SOLIDNY, spojny obraz: deklaracje frachtu/cla drewna SYSTEMATYCZNIE zawyzone/niespojne, rozbieznosc DOKUMENTOWALNA. Wskazuje na szyprow w orbicie sieci Antaryona. Garth kooperuje, potwierdza, ale ma LIMITY (celnik ryzykuje - nie chce byc odslonietym zrodlem) i prosi o dalsza dyskrecje. Nast 22->24.",
         "297-02-27 (wywiad rzut 10 thin - slaby pre-read; wizyta rzut 48 marginal): agenda-less tend rdzeniowego zrodla - Symon wpadl po czlowieka, nie po sprawe (wlasciwa higiena wobec skittish Gartha). Cieply-znosny kwadrans przy piecyku, ale bez substancji: Garth ostrozny jak zawsze, dokumentacja celna toczy sie cicho w tle (bez pushu Symona - dobrze), zima martwa, zero nowin. Relacja UTRZYMANA/lekko ogrzana (przychodzi nie po cos). nast 36->37, zauf 12 hold. Nic wyciagnietego, nic zepsutego - czysta higiena kontaktu.",
         "297-03-14 (wywiad 4, wizyta 13 - zla pora/okolicznosciowo): odwilz OZYWILA komore celna (statki/manifesty/inni urzednicy + wraca oko zamku) - zimowa prywatnosc ZNIKLA. Garth rozdygotany (nagla robota+oczy); wizyta nie zagrzala, a obecnosc Symona przy lawie stala sie KONSPICUOUS (whiff widocznosci przy rdzeniowym zrodle keystone). Symon wycofal sie. NAUKA spring-OPSEC: kontakt z Garthem odtad DYSKRETNIE, nie przy publicznej lawie; zrodlo chronic mocniej gdy port zyje. nast 37->36 (zla pora, nie zerwanie); bez twardego zagrozenia."
-      ]
+      ],
+      "rok_urodzenia": 251
     },
     {
       "id": "pate_skryba",
@@ -457,7 +462,8 @@
       ],
       "dlugi": [],
       "ostatni_kontakt": "296-08-13",
-      "cechy_mowy": "zrzedliwie, urwane zdania przez kaszel; mowi 'partaczu'"
+      "cechy_mowy": "zrzedliwie, urwane zdania przez kaszel; mowi 'partaczu'",
+      "rok_urodzenia": 236
     },
     {
       "id": "septon_owen",
@@ -577,7 +583,8 @@
       "dlugi": [],
       "ostatni_kontakt": "297-09-05 POLUDNIE (rzut 5, crit-low = ALARMUJACY GLEBSZY SYGNAL, nie szkoda wiezi) - Symon przyszedl po glebszy odczyt lowow Antaryona przed puszczeniem Godrica. Owen (Wiary uszy glebiej niz kupiecka pajeczyna) PRZECZY interimowi: Antaryon NIE odpuscil, lowy zrobily sie ROZPACZLIWE - nie znalazlszy obcej reki, rzucaja siec szerzej, szukaja juz nie sprawcy lecz WZORU: kogokolwiek kto zyskal na upadku / kto sie NAGLE PODNIOSL / zmienil sposob bycia w tamtym czasie. DANGER: Symon wlasnie sie podnosi (sponsorzy niosa imie, rola rosnie) = idealny 'wzor' dla oslepłego z wsciekłosci lowcy. Owen TWARDO: 'schowaj reke, zgas swiatelko Nesty na razie; rozpaczliwy low najgrozniejszy gdy nic nie znajduje bo chwyta byle co; przeczekaj az sie wypali (glodny low w koncu pada), czekaj na PELNY list - on zobaczy czy pies zdechl czy przysnal'. EFEKT: schodek 'ciche uznanie' RE-GATED (interim otworzyl, gleboki odczyt zamknal). Nie puszczac Godrica z imieniem teraz. Wiez 93/38 hold (troska ochronna, nie ochlodzenie).",
       "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
-      "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25)."
+      "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25).",
+      "rok_urodzenia": 243
     },
     {
       "id": "lorren_lichwiarz",
@@ -608,7 +615,8 @@
       ],
       "dlugi": [],
       "ostatni_kontakt": "nigdy",
-      "cechy_mowy": "cicho, uprzejmie, grozba pod jedwabiem; nigdy nie podnosi glosu"
+      "cechy_mowy": "cicho, uprzejmie, grozba pod jedwabiem; nigdy nie podnosi glosu",
+      "rok_urodzenia": 249
     },
     {
       "id": "poborca_harwin",
@@ -649,7 +657,8 @@
       "dlugi": [],
       "ostatni_kontakt": "297-02-12",
       "cechy_mowy": "cedzi slowa, urzedowa grzeczosc z grozba pod spodem; mowi 'przyjacielu'",
-      "status": "BEZ AMUNICJI (d17): ostatnie pchniecie origin do establishmentu NIE chwycilo (filar Wiary); angol origin martwy. Wciaz wrogi (nast -8), uraza osobista, ale bez pretekstu — musi szukac calkiem nowego kata albo odpuscic."
+      "status": "BEZ AMUNICJI (d17): ostatnie pchniecie origin do establishmentu NIE chwycilo (filar Wiary); angol origin martwy. Wciaz wrogi (nast -8), uraza osobista, ale bez pretekstu — musi szukac calkiem nowego kata albo odpuscic.",
+      "rok_urodzenia": 259
     },
     {
       "id": "maester_theomore",
@@ -800,7 +809,8 @@
         "KOREKTA meta (uwaga gracza): 12 dni przerwy to NIE powod chlodu — dryf tylko -1/tydz (~-1.7). Klapa wizyty = sytuacja Leony (zaharowana, martwy zimowy handel), NIE zaniedbanie ze strony Symona. Nie przypisywac ochłodzenia krótkim nieobecnościom.",
         "m12d06 rzut79: Symon zaproponowal usluge zarzadcza - i tym razem (inaczej niz flop 11-11) TRAFIL: referencje Voxa+Aldousa (respektowani peers=social proof) + jej wlasna zimowa bieda czynia narzedzie realnym ratunkiem. Otwiera ksiegi (ostrozniej, ale realnie), 3. platny klient; narzedzie wykazuje uzyteczny insight. Relacja z flopa w value-based wiez. Leona (respektowana, well-connected) OFERUJE niesc slowo dalej wsrod zaufanych kupcow Schodow -> organiczny referral engine. Sojusz koalicji glebnie. Fee +3 jel. Nast 44->47 zauf+2.",
         "297-02-28 (rzut 99): Symon przyszedl po referral do niszy - konkretny biznesowy ask (jej rejestr) + dostarczona mistrzowska premium weryfikacja. Leona skierowala do MOCNEGO klienta (jej najlepszy referral), robota czysto/z autorytetem, klient zachwycony -> flywheel SURGE. Rezyduum z przedwczesnego pitchu frachtowego (02-15) zniklo - konkret+dostawa=dokladnie co ceni; relacja WYRAZNIE ogrzana. Fee ~5 jel. WAZNE: premium-imie Symona rozchodzi sie teraz realnie wsrod POWAZNYCH kupcow Schodow cudzymi ustami - organiczny silnik reputacji, ktory z czasem dosiegnie wiekszych patronow (Rollam) BEZ zabiegania. nast 56->61, zauf 22->24."
-      ]
+      ],
+      "rok_urodzenia": 250
     },
     {
       "id": "boren_koladziej",
@@ -874,7 +884,8 @@
         "297-02-26 NOC (rzut 90): Symon spytal przy okazji o INNE skubane cechy. Boren (cechmistrz, teraz w pelni oddany) wskazal konkretnie: SZKUTNICY/ciesle okretowi (drewno, smola, okucia okrętowe - najbardziej frachto-zalezni, a ich cierpienie tyka INTERESU LORDA bo to zycie portu) + KOWALE (zelazo, naturalny sojusznik kolodziejow) + prawdopodobnie BEDNARZE (drewno/obrecze). WIEKSZE: Boren OFERUJE byc MOSTEM - cechmistrz reczacy innym cechmistrzom ma peer-credibility, ktorej Symon (obcy skryba) nie ma. Boren staje sie GUILD-SIDE mass-builder NODE, rownolegly do Leony (merchant-side). Keystone-masa rosnie po stronie rzemiosla + wzmacnia sie kat 'interes lorda' (szkutnicy=krwiobieg portu). Dyscyplina: cicho identyfikowac/grzac, NIE rekrutowac widocznego ruchu (patient, card-first), source-protected. nast 66->67.",
         "297-02-27 NOC (rzut 3 CRIT-FAIL - okolicznosciowy, NIE zla idea/niekompetencja): Symon (bez wczesniejszego badania, na zapale eleganckiej ekonomii) zaproponowal Borenowi KONSOLIDACJE zamowien zelaza miedzy cechami (wolumen->taniej dla wszystkich). Ekonomia sluszna, ale trafil w TWARDA SCIANE realiow spolecznych, ktorej nie doczytal: cechy sa ZAZDROSNE, RYWALIZUJACE, zazdrosnie strzega AUTONOMII i wlasnych relacji dostawcow - nie 'poolują' bo tak taniej. Gorzej: proszenie Borena, by HERDOWAL rywalizujacych cechmistrzow, to naruszenie - inni cechmistrze by go zresztili ('a co kolodziej bedzie mi mowil, jak kupowac zelazo do KUZNI?'), a Boren czuje, ze to NIE jego miejsce. Boren sceptyczny/niekomfortowy, lekkie tarcie; whiff 'nie rozumiesz, jak dzialaja cechy'. NAUKA (recurring dla Symona): czysta ekonomia != feasibility spoleczna; cechy to nie arkusz kalkulacyjny; czytaj teren spoleczny PRZED sprytnym schematem (wszedl na zimno bez scoutu). SKUTEK: WLASNY wiosenny pipeline zelaza dla cechu Borena STOI (to bez zmian); ale CROSS-GUILD konsolidacja ZABLOKOWANA duma/rywalizacja - potrzeba innego podejscia (kazdy cech kupuje osobno przez kanal / neutralny broker / wcale). nast 67->65.",
         "297-03-08 (wywiad 45; wizyta rzut 93): Symon uruchomil outreach do pozostalych cechow PRZEZ Borena - tym razem WLASCIWIE (kontrast z porazka konsolidacji): Boren jako peer-most, rama wspolnej krzywdy (nie herding/rekrutacja), kazdy cech OSOBNO, tanie zelazo jako niewinna przykrywka wejscia, kompartmentalizacja. Boren TERAZ rozumie model i go OBEJMUJE - to jego wlasciwa rola (cechmistrz wsrod rownych, chroni rzemioslo, z konkretem=tania stal otwiera drzwi). Zaczyna dzialac: podejdzie do szkutnikow/kowali/bednarzy jako PEER, poprowadzi tanim zelazem, pozwoli krzywdzie frachtowej wyplynac sama. Peer-credibility otwiera drzwi, ktorych obcy skryba nigdy. Guild-side mass-building ORGANICZNIE W RUCHU, niewidzialnie, source-protected. Boren zna paru najglosniej narzekajacych (cieply pierwszy trop). nast 65->68."
-      ]
+      ],
+      "rok_urodzenia": 245
     },
     {
       "id": "torsen_drwal",
@@ -926,7 +937,8 @@
         "m11d14: rozmowa o oknie na glebie Polnocy (rzut 36). Torsen cieplo (wiecej interesu), potwierdza: siec Halvarda SIEGA glebiej niz drewno/1 proba futer — futra/skory/bursztyn + loj, wosk, miod, rog/kosc, polnocne specjaly. ALE limity: ZIMA scina podaz glebi do zera (traperzy/klany/gora ruszą dopiero wiosną, Bialy Noz zamarza), i Torsen NIE zaangazuje Halvarda na wieksza skale, poki proba futer nie udowodni popytu/marzy w Braavos (~12-20). Timber jego priorytet -> facylitator nie driver. WNIOSEK: pipeline WIOSENNY zmapowany, teraz nic nie plynie. Torsen 26->28.",
         "m12d03 rzut81: cieply kontakt, kanal utrzymany. Wiesc z glebi: FUTRA DOTARLY DO BRAAVOS bezpiecznie (rejs - ryzykowna czesc - udal sie; sprzedaz/wynik pending ~12-20). Halvard sygnalizuje, ze WIOSENNY pipeline polnocny (futra/skory/bursztyn/loj) szykuje sie DOBRZE - gated na to, czy futra pokaza popyt/marze. Torsen bardziej zaangazowany (facilitator->cieplejszy). Nast 28->31.",
         "297-02-22 (rzut 81 po wywiadzie rzut 93 - +mod): Symon przyszedl SKALIBROWANY (najpierw wybadal nastroje z Polnocy). Torsen jak zwykle spietrzony supply-lekiem (grim szepty), ALE Symon NIE dal sie zarazic ani nie lobbowal naiwnego optymizmu - spotkal lek TRZEZWYM readem: oddzielil port-panike (inflowana plotka, second-hand) od faktu (BRAK potwierdzenia, ze Halvard w tarapatach; szlak ciezki nie katastroficzny; verdykt realnie ~03-15). To USTATKOWALO Torsena - kruchy partner potrzebowal wlasnie kogos, kto nie flinchuje. Potem demand-intel wpadl WLASCIWIE oprawiony: \"verdykt podazy przy odwilzy; TYMCZASEM pozycjonujmy sie, by ruszyc PIERWSI gdy Bialy Noz puści, bo popyt dworu realny i firmuje\". Torsen ODTAJAL, partnerstwo poglebione, broker-plan ustawiony (contingent na 03-15). Symon dowiodl sie jako STEADY glowa (nie wobbler). NAUKA: z krucym partnerem wygrywa sie spokojem+kalibracja, nie optymizmem. nast 41->46, zauf 5->7."
-      ]
+      ],
+      "rok_urodzenia": 247
     },
     {
       "id": "wdowa_elna",
@@ -977,7 +989,8 @@
         "m11d27 wieczor (rzut 24): cieply modest - Elna bezpieczna pod kolodziejami, wdzieczna; zostawil cos cieplego; zwyczajna dobra chwila. 28->30",
         "m12d10 rzut55: cieply, szczery wieczor - Elna bezpieczna pod kolodziejami, wdzieczna, oddaje cieplem (strawa/blogoslawienstwo); recharge dla Symona. 30->33"
       ],
-      "status": "ZDROWIEJE (297-06-07): goraczka piersiowa leczona. LECZENIE: siostra Septy (leki). SUSTAINED CARE: cech kolodziejow podjal obowiazek (jadlo/opal/rota zagladajaca przez dni rekonwalescencji, spisane przez Symona). Prawdziwa cechowa wdowa (maz byl kolodziejem - podstawa obowiazku pewna). Rekonwalescencja przez dni, ale zabezpieczona na wszystkich frontach."
+      "status": "ZDROWIEJE (297-06-07): goraczka piersiowa leczona. LECZENIE: siostra Septy (leki). SUSTAINED CARE: cech kolodziejow podjal obowiazek (jadlo/opal/rota zagladajaca przez dni rekonwalescencji, spisane przez Symona). Prawdziwa cechowa wdowa (maz byl kolodziejem - podstawa obowiazku pewna). Rekonwalescencja przez dni, ale zabezpieczona na wszystkich frontach.",
+      "rok_urodzenia": 263
     },
     {
       "id": "posiadacz_bennet",
@@ -1424,7 +1437,8 @@
       ],
       "ostatni_kontakt": "297-09-05 POPOLUDNIE (rzut 99) - Hal jako TWARZ poprowadzil duzy audyt grubszego domu handlowego; Symon zza kulis wykryl przeciek w zimowych kontraktach klienta, odzyskal marze. Klient zachwycony, stala obsluga. Blask/reputacja rosnie HALOWI (bezpiecznie - on tarcza), Symon banknuje niewidzialnie. Hal rosnie w cenionego operatora. zauf 66->67.",
       "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
-      "status": "NA PROBIE — IDZIE DOBRZE (d16, rzut 92): Hal ZASTOSOWAL zasade — trafil na zamazane slowo i SPYTAL zamiast zgadywac; dokladnosc rosnie, ciecie-rogow ustepuje. Blysnal talentem (szybka trafna suma, bystra uwaga), otworzyl sie przez ROBOTE (nie litosc) — nawet spytal Symona o fach i wlasna przyszlosc. Wiez glebsza (nast 23->27), zaufanie ro snie. Trial wyraznie na plus; zblizamy sie do momentu na drobna probe dyskrecji + stopniowe poszerzanie NIE-wrazliwej odpowiedzialnosci. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d18 (rzut 30): dzien plaski — solidna rutyna, lekcje trzymaja (bez regresu), ale bez skoku; chlopiec glodny WIECEJ (dopytuje o powazniejsza robote), Symon lagodnie trzyma go na rutynie (zielony jeszcze). Nast 27 (bez zmian). Poszerzanie odpowiedzialnosci + proba dyskrecji: nieco pozniej. || d18 (rzut 78): zaawansowana lekcja teoretyczna (struktury umow, logika audytu, braavijska podwojna ksiegowosc) NAKARMILA jego glod BEZPIECZNIE (teoria, zero sekretow); szybki, bystre pytania. Zapytal, czy ktos jak on moze naprawde dojsc wyzej — Symon widzi w nim mlodszego siebie. Wiez glebnie (nast ->31). Trial mocno na plus. || d18 (rzut 58): zobaczyl, jak Symon karmi ubuga wdowe i chore dziecko nie oczekujac nic, i uslyszal nauke: mysl o innych, pomagaj otoczeniu; oszusci/tnacy rogi przegrywaja na dluzsza mete; spryt != oszukiwanie. Lekcja PADLA (bo najpierw zobaczyl) — u korzenia jego ciecia-rogow. Nast ->34. || d19 (rzut 47): ciepłe zapytanie 'jak ci się pracuje' — nie o los, o ROBOTĘ. Hal odpowiedział szczerze: robota go trzyma, lubi gdy suma się zgadza i gdy wie PO CO liczy; przyznał, że najlepiej mu idzie odkąd Symon pyta o jego zdanie zamiast dyktować. Bez hardości tym razem — zaufanie robocze osiadło (nast 34->35). Nadal głodny 'poważniejszej' roboty, ale spokojniejszy — czuje, że idzie w dobrą stronę. Wrażliwe wciąż odcięte. || d23 (rzut 17): sesja ksiegowa plaska — Hal rozkojarzony, robi drobne bledy, lekko prickly. Symon CZYTA przyczyne (spryt): chlopak zmarzniety i glodny, sierociniec pod zima krotki na opal/jadlo (zegar zima_ubodzy). Zamiast dryllowac — odpuszcza lekcje, grzeje go i karmi. Lekcja odlozona, ale wiez trzyma przez troske (nie litosc — praktyczna pomoc). Nast 35 bez zmian. Podkreśla, PO CO opal dla Septy. Wrazliwe wciaz odciete. || d23 (rzut 69): Symon zaprasza go do roboty W SEPCIE — w rejestrze PRACY (cieplo, realna robota pisarska dla Owena, strawa z uczciwego trudu), NIE litosci. Hal lapie roznice i przyjmuje chetnie: godnosc caly, glod-by-znaczyc nakarmiony. Wiez odbita po wczorajszym dolku i glebnie (nast 35->37, zaufanie +2). BONUS: septa zyskuje pismienna reke pod zimowy nawał (ksiegi jalmuzny/listy ubogich) — Owen rad. Wrazliwe wciaz odciete; ksiegi septy to bezpieczna robota. || d23 POLUDNIE (rzut 45): solidna nauka przy ksiegach jalmuzny — najedzony/rozgrzany pracuje dokladnie i z uwaga. Symon wplata PIERWSZA CICHA LEKCJE DYSKRECJI w bezpiecznym polu: nazwiska na liscie jalmuzny to czyjas bieda i wstyd; skryba, ktory trzyma jezyk za zebami i twarz zyczliwa, wart wiecej niz szybki gadula. Hal lapie (dyskrecja = znak prawdziwego fachowca, karmi jego glod-by-znaczyc). Nast 37->38. Proba dyskrecji: trend dobry, pole bezpieczne. || d26 (rzut 70): Symon NAJPIERW nakarmil (nauka po tamtym zmarznietym dniu), potem pokazal zaawansowane ciekawostki (glebsza braavijska podwojna ksiegowosc, logika audytu, jak liczby odslaniaja prawde) — TEORIA, zero sekretow. Najedzony Hal blyszczy: chlonie szybko, sypie trafnymi pytaniami, glod-by-znaczyc nasycony przez prawdziwa nauke. Wiez i zaufanie glebnie (nast 38->40, zauf +2). Trial wyraznie mocny — zbliza sie moment na POSZERZENIE NIE-wrazliwej odpowiedzialnosci (wlasne prowadzenie fragmentu ksiag septy/kantoru pod okiem). Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d27: bierze udzial w rundzie reliefowej — patrzy i pomaga, jak Symon SPINA cudze zasoby w dobro przez Wiare (ten sam model co opal, ale dla glodnych). Lekcja: organizowanie > wlasna kieszen; dobro tez sie 'brokeruje'. Nast ->41. || d29 (rzut 4): Symon spytal, czym chcialby sie kiedys zajmowac — i trafil w RANE, nie w marzenie. Dla sieroty bez nazwiska/ojca 'kim chcesz byc' to nie zaproszenie, lecz przypomnienie, czego miec nie moze; MARZENIE jest dla niego zakazanym luksusem, hope wybita. Hal spial sie, blysnal stara hardoscia ('a co to komu, ludzie jak ja nie wybieraja'), zamknal sie. Symon (spryt8, sam nosil te rane) PRZECZYTAL to i NIE naciskal — zostawil, rzucil tylko jedno ciche prawdziwe zdanie (ze chciec nie jest glupie; ze sam byl nikim, co chcial) i zostawil drzwi uchylone. Nast 42 bez zmian (obszedl sie z tym dobrze, brak szkody). WAZNA WIEDZA O HALU: jego glod-by-znaczyc jest SPLECIONY z lekiem/wstydem, ze w ogole wolno mu czegos chciec — do marzenia trzeba go dopiero DOPUSCIC powoli, nie wyciagac na sile. || 11-03 (rzut 94): wybitna sesja prawa — Hal chlonie logike umow blyskotliwie, widzi, jak prawo moze CHRONIC slabych (spina sie z wartosciami Symona). I rzecz wazna: przez ROBOTE, nie wypytywanie, chlopak SAM uchyla drzwi z d29 — mid-lekcja pyta cos, co zdradza, ze zaczyna wyobrazac SIEBIE jako kogos, kto moglby tym wladac ('a taki spis... moglby spisac ktos jak ja?'). Dream-wound zaczyna sie goic NA JEGO warunkach, przez kompetencje nie litosc. Wiez/zaufanie mocno w gore (nast 42->45, zauf+2). GOTOWY na wlasny fragment NIE-wrazliwej odpowiedzialnosci pod okiem. Wrazliwe wciaz odciete. || 11-04 (rzut 37): dostal WLASNY fragment ksiegi jalmuzny septy pod okiem (Symon+Owen) — bezpieczna, odcieta domena (wg rady Nesty; NIE kantor). Wzial to dumny i pilny, ale z goraczkowym przejeciem nowicjusza (drobna rysa pierwszego dnia, prowadzona) — wlasnie dlatego nadzor. Milestone ZREALIZOWANY: pierwsza prawdziwa odpowiedzialnosc, glod-by-znaczyc karmiony realnie. Nast 45->47, zauf+2. Proba dyskrecji trwa w bezpiecznym polu. Wrazliwe wciaz odciete."
+      "status": "NA PROBIE — IDZIE DOBRZE (d16, rzut 92): Hal ZASTOSOWAL zasade — trafil na zamazane slowo i SPYTAL zamiast zgadywac; dokladnosc rosnie, ciecie-rogow ustepuje. Blysnal talentem (szybka trafna suma, bystra uwaga), otworzyl sie przez ROBOTE (nie litosc) — nawet spytal Symona o fach i wlasna przyszlosc. Wiez glebsza (nast 23->27), zaufanie ro snie. Trial wyraznie na plus; zblizamy sie do momentu na drobna probe dyskrecji + stopniowe poszerzanie NIE-wrazliwej odpowiedzialnosci. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d18 (rzut 30): dzien plaski — solidna rutyna, lekcje trzymaja (bez regresu), ale bez skoku; chlopiec glodny WIECEJ (dopytuje o powazniejsza robote), Symon lagodnie trzyma go na rutynie (zielony jeszcze). Nast 27 (bez zmian). Poszerzanie odpowiedzialnosci + proba dyskrecji: nieco pozniej. || d18 (rzut 78): zaawansowana lekcja teoretyczna (struktury umow, logika audytu, braavijska podwojna ksiegowosc) NAKARMILA jego glod BEZPIECZNIE (teoria, zero sekretow); szybki, bystre pytania. Zapytal, czy ktos jak on moze naprawde dojsc wyzej — Symon widzi w nim mlodszego siebie. Wiez glebnie (nast ->31). Trial mocno na plus. || d18 (rzut 58): zobaczyl, jak Symon karmi ubuga wdowe i chore dziecko nie oczekujac nic, i uslyszal nauke: mysl o innych, pomagaj otoczeniu; oszusci/tnacy rogi przegrywaja na dluzsza mete; spryt != oszukiwanie. Lekcja PADLA (bo najpierw zobaczyl) — u korzenia jego ciecia-rogow. Nast ->34. || d19 (rzut 47): ciepłe zapytanie 'jak ci się pracuje' — nie o los, o ROBOTĘ. Hal odpowiedział szczerze: robota go trzyma, lubi gdy suma się zgadza i gdy wie PO CO liczy; przyznał, że najlepiej mu idzie odkąd Symon pyta o jego zdanie zamiast dyktować. Bez hardości tym razem — zaufanie robocze osiadło (nast 34->35). Nadal głodny 'poważniejszej' roboty, ale spokojniejszy — czuje, że idzie w dobrą stronę. Wrażliwe wciąż odcięte. || d23 (rzut 17): sesja ksiegowa plaska — Hal rozkojarzony, robi drobne bledy, lekko prickly. Symon CZYTA przyczyne (spryt): chlopak zmarzniety i glodny, sierociniec pod zima krotki na opal/jadlo (zegar zima_ubodzy). Zamiast dryllowac — odpuszcza lekcje, grzeje go i karmi. Lekcja odlozona, ale wiez trzyma przez troske (nie litosc — praktyczna pomoc). Nast 35 bez zmian. Podkreśla, PO CO opal dla Septy. Wrazliwe wciaz odciete. || d23 (rzut 69): Symon zaprasza go do roboty W SEPCIE — w rejestrze PRACY (cieplo, realna robota pisarska dla Owena, strawa z uczciwego trudu), NIE litosci. Hal lapie roznice i przyjmuje chetnie: godnosc caly, glod-by-znaczyc nakarmiony. Wiez odbita po wczorajszym dolku i glebnie (nast 35->37, zaufanie +2). BONUS: septa zyskuje pismienna reke pod zimowy nawał (ksiegi jalmuzny/listy ubogich) — Owen rad. Wrazliwe wciaz odciete; ksiegi septy to bezpieczna robota. || d23 POLUDNIE (rzut 45): solidna nauka przy ksiegach jalmuzny — najedzony/rozgrzany pracuje dokladnie i z uwaga. Symon wplata PIERWSZA CICHA LEKCJE DYSKRECJI w bezpiecznym polu: nazwiska na liscie jalmuzny to czyjas bieda i wstyd; skryba, ktory trzyma jezyk za zebami i twarz zyczliwa, wart wiecej niz szybki gadula. Hal lapie (dyskrecja = znak prawdziwego fachowca, karmi jego glod-by-znaczyc). Nast 37->38. Proba dyskrecji: trend dobry, pole bezpieczne. || d26 (rzut 70): Symon NAJPIERW nakarmil (nauka po tamtym zmarznietym dniu), potem pokazal zaawansowane ciekawostki (glebsza braavijska podwojna ksiegowosc, logika audytu, jak liczby odslaniaja prawde) — TEORIA, zero sekretow. Najedzony Hal blyszczy: chlonie szybko, sypie trafnymi pytaniami, glod-by-znaczyc nasycony przez prawdziwa nauke. Wiez i zaufanie glebnie (nast 38->40, zauf +2). Trial wyraznie mocny — zbliza sie moment na POSZERZENIE NIE-wrazliwej odpowiedzialnosci (wlasne prowadzenie fragmentu ksiag septy/kantoru pod okiem). Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d27: bierze udzial w rundzie reliefowej — patrzy i pomaga, jak Symon SPINA cudze zasoby w dobro przez Wiare (ten sam model co opal, ale dla glodnych). Lekcja: organizowanie > wlasna kieszen; dobro tez sie 'brokeruje'. Nast ->41. || d29 (rzut 4): Symon spytal, czym chcialby sie kiedys zajmowac — i trafil w RANE, nie w marzenie. Dla sieroty bez nazwiska/ojca 'kim chcesz byc' to nie zaproszenie, lecz przypomnienie, czego miec nie moze; MARZENIE jest dla niego zakazanym luksusem, hope wybita. Hal spial sie, blysnal stara hardoscia ('a co to komu, ludzie jak ja nie wybieraja'), zamknal sie. Symon (spryt8, sam nosil te rane) PRZECZYTAL to i NIE naciskal — zostawil, rzucil tylko jedno ciche prawdziwe zdanie (ze chciec nie jest glupie; ze sam byl nikim, co chcial) i zostawil drzwi uchylone. Nast 42 bez zmian (obszedl sie z tym dobrze, brak szkody). WAZNA WIEDZA O HALU: jego glod-by-znaczyc jest SPLECIONY z lekiem/wstydem, ze w ogole wolno mu czegos chciec — do marzenia trzeba go dopiero DOPUSCIC powoli, nie wyciagac na sile. || 11-03 (rzut 94): wybitna sesja prawa — Hal chlonie logike umow blyskotliwie, widzi, jak prawo moze CHRONIC slabych (spina sie z wartosciami Symona). I rzecz wazna: przez ROBOTE, nie wypytywanie, chlopak SAM uchyla drzwi z d29 — mid-lekcja pyta cos, co zdradza, ze zaczyna wyobrazac SIEBIE jako kogos, kto moglby tym wladac ('a taki spis... moglby spisac ktos jak ja?'). Dream-wound zaczyna sie goic NA JEGO warunkach, przez kompetencje nie litosc. Wiez/zaufanie mocno w gore (nast 42->45, zauf+2). GOTOWY na wlasny fragment NIE-wrazliwej odpowiedzialnosci pod okiem. Wrazliwe wciaz odciete. || 11-04 (rzut 37): dostal WLASNY fragment ksiegi jalmuzny septy pod okiem (Symon+Owen) — bezpieczna, odcieta domena (wg rady Nesty; NIE kantor). Wzial to dumny i pilny, ale z goraczkowym przejeciem nowicjusza (drobna rysa pierwszego dnia, prowadzona) — wlasnie dlatego nadzor. Milestone ZREALIZOWANY: pierwsza prawdziwa odpowiedzialnosc, glod-by-znaczyc karmiony realnie. Nast 45->47, zauf+2. Proba dyskrecji trwa w bezpiecznym polu. Wrazliwe wciaz odciete.",
+      "rok_urodzenia": 283
     },
     {
       "id": "wick_swiadek",
@@ -1532,7 +1546,8 @@
       "historia": [
         "m11d17 wieczor (rzut 64): pierwsze spotkanie. Symon ustawil ramę dyskrecji (patrze tylko tam gdzie wskazesz, raportuje TYLKO tobie, cicho) - twardy, ostrozny Aurane uspokojony tym + slowem Godrica, z czujnego w ostroznie ufajacego. Zakres WASKI: ksiegi skladu, dostawy vs sprzedaze za okres, czy faktor skimuje. Stawka: ~6 jel na ukonczenie. Zaufanie prowizoryczne, zalezne od wyniku; Aurane wymagajacy na czas. Nast 5->12.",
         "m11d19 (rzut 34): Symon dostarczyl dowod cicho, prywatnie, zbilansowana ksiega broni sie sama; Aurane w pelni przekonany, kontent z roboty, ZAPLACIL ~6 jel, dal slowo trzymac nazwisko audytora poza sprawa. ALE: twardy, wsciekly, ODRZUCIL rade o cichym rozwiazaniu - chce uderzyc na faktora MOCNO i widocznie. To zwieksza ryzyko, ze faktor wywietrzy, ze ktos przejrzal ksiegi, i zacznie szukac audytora. Niewidzialnosc Symona TYLKO czesciowa. Aurane 12->18, dobry nowy propertied kontakt/referrer, ale zostawil ogon ryzyka."
-      ]
+      ],
+      "rok_urodzenia": 247
     },
     {
       "id": "mistrz_donnel",
@@ -1568,7 +1583,8 @@
         "m12d02 3. lekcja (rzut 24): solidny-skromny postep. O KSIEGI glucho - Donnel czlowiek kamienia nie liter; wiedza masonow ORALNA/rzemieslnicza, guild-lore, nie w ksiazkach; ew. jego wlasne surowe notatki/wzorniki (marginalne). Prawdziwe teksty geometrii = Cytadela/maesterzy (strzezone, nie pozyczaja) -> petla do Theomore-odlozone. Nast 26->27.",
         "m12d04 4. lekcja (rzut 85): Donnel uznaje Symona za zaawansowanego - 'moglbys juz wytyczyc fundament'. Traktuje go niemal jak peer-in-training, cieszy sie taka nauka. Nast 27->30.",
         "m12d06 5. lekcja (rzut 79): praktyczne zastosowanie (wytyczanie/miernictwo na desce), Symon dobrze; Donnel podsuwa, ze taka wiedza to realna robota - wyceny budowli, oszacowanie kosztu budowy. Nast 30->31."
-      ]
+      ],
+      "rok_urodzenia": 239
     },
     {
       "id": "merek_prowiant",
@@ -1610,7 +1626,8 @@
       ],
       "potrzeby": [
         "pewnosc ze nikt go nie strzyze (po zdradzie partnera)"
-      ]
+      ],
+      "rok_urodzenia": 250
     },
     {
       "id": "wat_kupiec",
@@ -1638,7 +1655,8 @@
       ],
       "ostatni_kontakt": "297-05-21",
       "cechy_mowy": "gadatliwy, serdeczny, sypie nazwiskami; lubi byc 'w kursie'",
-      "_vetting_296-12-15_rzut91": "CZYSTY READ: uczciwy w handlu, placi dlugi, bez smrodu oszustwa - jako osoba BEZPIECZNY. ALE: (1) sam jest GADULA wpiety w plotkarska siec gieldy (stad w ogole slyszal) -> przyjecie go = jeszcze glosniejszy pilar, dokladnie odwrotnie niz 'cichy'; (2) wiekszy/lepiej wpiety niz Vox -> jego ksiegi dotykaja WIEKSZYCH kontrahentow (eskalacja ryzyka w gore, jak ostrzegala Nesta). DECYZJA: przyjac (wzrost+grosz, ale glosniej) / przyjac pod TWARDA klauzula dyskrecji + wysoka cena (spowolnic naplyw) / odmowic-odroczyc (chronic cisze). Symon czyta go dosc, by go OKIELZNAC jesli wezmie."
+      "_vetting_296-12-15_rzut91": "CZYSTY READ: uczciwy w handlu, placi dlugi, bez smrodu oszustwa - jako osoba BEZPIECZNY. ALE: (1) sam jest GADULA wpiety w plotkarska siec gieldy (stad w ogole slyszal) -> przyjecie go = jeszcze glosniejszy pilar, dokladnie odwrotnie niz 'cichy'; (2) wiekszy/lepiej wpiety niz Vox -> jego ksiegi dotykaja WIEKSZYCH kontrahentow (eskalacja ryzyka w gore, jak ostrzegala Nesta). DECYZJA: przyjac (wzrost+grosz, ale glosniej) / przyjac pod TWARDA klauzula dyskrecji + wysoka cena (spowolnic naplyw) / odmowic-odroczyc (chronic cisze). Symon czyta go dosc, by go OKIELZNAC jesli wezmie.",
+      "rok_urodzenia": 256
     },
     {
       "id": "mira_wdowa",
@@ -1690,7 +1708,8 @@
       "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA.",
       "flaga_postawa": "AKTYWNE PARTNERSTWO (07-24) - korytarz sukna DOPIETY na jej warunkach: zostaje soba (handel/ksiegi/reka nietkniete), wnosi braawijskie dojscia+wiedze jako WEZEL Z AGENCJA za uczciwy wycinek, moze sie wycofac (autonomia zelazna). Wybrala wspolne przedsiewziecie z Symonem jak rowna. Bond poglebia sie przez wspolna prace, nie deklaracje. NIE napierac personal - rosnie samo.",
       "nota": "HANDLUJE: sukno/plotno braawijskie (drobno, 1-2 bele/sezon, kontakty po mezu). SIEDZI w tym samym korytarzu co Leona (sukno) i Nesta (faktoria braawijska) + bursztyn/futra out. Jej wartosc = WIEDZA+DOJSCIA w Braavos, nie wolumen. SYNERGIA do zbudowania: Mira/Leona/Nesta w jednej rzece towaru, Symon zna wszystkie trzy.",
-      "nastawienie": 95
+      "nastawienie": 95,
+      "rok_urodzenia": 272
     },
     {
       "id": "septon_torren",
@@ -1728,7 +1747,8 @@
       ],
       "ostatni_kontakt": "297-08-23 POPOLUDNIE (rzut 55) - praca prawa Wiary: umocnili fundament prawno-administracyjny reliefu (grant lorda + rozdzial nienaruszalnie, czyste rejestry/przydzialy/anty-faworyzacja) + drobne sprawy Septy (pokwitowania/umowa/zapis). Splot prawa+rachunkow Symona szczelny. Ciche dobro, tarcza mocna, grey-safe. Torren coraz mocniej widzi w Symonie czlowieka prawa/liczb Wiary. Zauf +1.",
       "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
-      "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY."
+      "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY.",
+      "rok_urodzenia": 239
     },
     {
       "id": "ostyn_kupiec",
@@ -1756,7 +1776,8 @@
       "cechy_mowy": "zmeczony, godnosc pod presja; krotkie, rzeczowe zdania czlowieka co przelknal duma",
       "status": "POZA MIASTEM (wyjechal ~04-15) - niedostepny do wizyty; wroci kiedys. Ukryte zrodlo mapy rynku (firewall).",
       "gdzie": "poza miastem (u krewnych)",
-      "flaga_postawa": "POZA_MIASTEM"
+      "flaga_postawa": "POZA_MIASTEM",
+      "rok_urodzenia": 253
     },
     {
       "id": "wdowa_jonna",
@@ -1777,7 +1798,8 @@
         "297-06-01 (rzut 77): Symon pracowal w ogrodku RAZEM z Jonna (zna sie na roli) - dosiali (rzepa/bob do kapusty/ziol), grunt zyje. Ciepla, sasiedzka wspolnota. nast 19->21."
       ],
       "ostatni_kontakt": "297-09-04 POLUDNIE - lokator w kamieniczce Symona; mala wspolnota pod dachem: zlozyli sie na wspolny stos drewna na zime, jedza czasem razem, pilnuja izb. Czynsz biezacy. Dom sprawiedliwie prowadzony = stabilny, 0 pustostanow.",
-      "cechy_mowy": "cicho, uprzejmie, mowi 'synku'; oszczedna w slowach"
+      "cechy_mowy": "cicho, uprzejmie, mowi 'synku'; oszczedna w slowach",
+      "rok_urodzenia": 248
     },
     {
       "id": "osric_czeladnik",
@@ -1794,7 +1816,8 @@
         "297-03-17: wlasciciel (Symon, przez Brana) zgodzil sie, by Osric trzymal skrzynie narzedzi w sieni - drobny znak szacunku dla mlodego czeladnika; goodwill (Osric w kregu kolodziejow, swiat Borena)."
       ],
       "ostatni_kontakt": "297-09-04 POLUDNIE - lokator w kamieniczce Symona; mala wspolnota pod dachem: zlozyli sie na wspolny stos drewna na zime, jedza czasem razem, pilnuja izb. Czynsz biezacy. Dom sprawiedliwie prowadzony = stabilny, 0 pustostanow.",
-      "cechy_mowy": "prosto, mlodzienczo, z szacunkiem do majstrow"
+      "cechy_mowy": "prosto, mlodzienczo, z szacunkiem do majstrow",
+      "rok_urodzenia": 275
     },
     {
       "id": "sukiennik_colm",
@@ -1811,7 +1834,8 @@
         "297-03-12 (wywiad 88 swietny; wizyta 50): reconnect po ~56d. Colm zyczliwy (pamieta czysta robote, referral Leony). Relacja odswiezona, spozycjonowany na wiosenna robote suknem (ksiegi/weryfikacja gdy handel ruszy). Nugget keystone: Colm=sukiennik=wozi frachtem=potencjalny wektor sprawy celnej; routowac PRZEZ Leone (jej kontakt), nie bezposrednio (kompartmentalizacja). nast 18->23."
       ],
       "ostatni_kontakt": "297-03-12",
-      "cechy_mowy": "rzeczowy, praktyczny"
+      "cechy_mowy": "rzeczowy, praktyczny",
+      "rok_urodzenia": 256
     },
     {
       "id": "faktor_rollam",
@@ -1836,7 +1860,8 @@
         "297-06-15 (rzut 72, sluchanie-first): Symon wszedl BEZ agendy - \"co nowego, jak interes?\". Rozbroil ostroznego (nie sprzedaje=rozluznia). Przerwa 20 dni rozmyla sie (wizyta nie transakcja). Stara nalezność (flag 05-26): Rollam POSLUCHAL, ruszyl w porе, odzyskal wiekszosc - wartosc Symona potwierdzona. NOWA OS (przez pytanie): interes ROSNIE wiosna (wiecej kont/wolumen) -> lek ze cos sie przeslizgnie. Symon zaoferowal (w odp na jego lek) SAMOSYGNALIZUJACY system (jak Godricowi) + stale oko nad skalowaniem - welcomed, renews value ponad leak-hunting. +4 jel wycinek. nast 55->58, zauf 19->21. Zaufanie wznawia raty."
       ],
       "ostatni_kontakt": "297-07-22",
-      "cechy_mowy": "powsciagliwy, mierzy dlugo, malo slow"
+      "cechy_mowy": "powsciagliwy, mierzy dlugo, malo slow",
+      "rok_urodzenia": 245
     },
     {
       "id": "uzdrowicielka_wiedzaca",
@@ -1852,7 +1877,8 @@
         "297-01-18: leczyla Symona z zimowej febry (~3 jel). Zatrzymala ja, kazala twardo lezec kilka dni. Rzeczowa, bez ogrodek."
       ],
       "ostatni_kontakt": "297-01-18",
-      "cechy_mowy": "szorstko, prosto, bez ogrodek"
+      "cechy_mowy": "szorstko, prosto, bez ogrodek",
+      "rok_urodzenia": 240
     },
     {
       "id": "prowiantnik_garrik",
@@ -1868,7 +1894,8 @@
         "297-02-02: przyjal weksel Symona (rekojmia+podparcie kantoru) zamiast martwego dealu - sprzedal lot, zaplata pewna na wiosne. Zadowolony; poznal, ze Symon umie ozywic interes."
       ],
       "ostatni_kontakt": "297-02-02",
-      "cechy_mowy": "rzeczowy, ostrozny z groszem"
+      "cechy_mowy": "rzeczowy, ostrozny z groszem",
+      "rok_urodzenia": 251
     },
     {
       "id": "kupiec_wend",
@@ -1890,7 +1917,8 @@
       "cechy_mowy": "zywy, troche nerwowy o pieniadze",
       "potrzeby": [
         "splacic reszte weksla do nowiu"
-      ]
+      ],
+      "rok_urodzenia": 263
     },
     {
       "id": "bess_corka_wendy",
@@ -1908,7 +1936,8 @@
         "297-03-23 WIECZOR (rzut 1, przeholowanie): Symon wpadl po ludzku, ale na resztkach sil po gestym dniu. Dake na wodzie (wiosna, ryba - wroci pozno), Bess sama zmeczona. Symon wyzety - mamrotal, gubil watek, nie byl soba; balsam wyszedl niezreczny, bo przyszedl pusty. Bess z TROSKA (nie uraza): \"wygladacie jakbyscie trzy noce nie spali, idzcie do domu, zajdziecie na swiezo\". Nic zepsute, nic zyskane. NAUKA DNIA: Symon przeholowal (Boren 5, Hal 18, teraz 1) - za duzo tur, za malo snu; przekraczanie granic = straty nie zysk. nast 22 hold."
       ],
       "ostatni_kontakt": "297-03-23",
-      "cechy_mowy": "bystro, cieto, jak matka"
+      "cechy_mowy": "bystro, cieto, jak matka",
+      "rok_urodzenia": 278
     },
     {
       "id": "dake_rybak",
@@ -1925,7 +1954,8 @@
         "297-02-27: wspolny posilek z Symonem (z Bess) - cieplo, mlody+niesmialy, niC sie zawiazuje powoli. nast 16->18."
       ],
       "ostatni_kontakt": "297-02-27",
-      "cechy_mowy": "malomowny, prosto, rybacki"
+      "cechy_mowy": "malomowny, prosto, rybacki",
+      "rok_urodzenia": 275
     },
     {
       "id": "kupiec_rennick",
@@ -1943,7 +1973,8 @@
         "297-04-10 (rzut 85): ZLAPANY ZAWCZASU. Rennick ladowal ladunek DO WYSLANIA (wiosenny rejs, jeszcze na kei) - Symon podszedl PRZED rejsem (nauka z 04-06 zastosowana). Rennick zrozumial wartosc ('teraz rozumiem, dobra pora'). Symon wettowal forensic, teed dla Nesty do uplasowania (~04-12). Z niedoszlego prospektu -> klient brokera. 2. transakcja brokerska po Aldousie (track-record rosnie). nast 8->20, zauf 3->6.",
         "297-05-20 (rzut 58): NIE obcy - wrocil (klient Aldousa, repeat po udanym ubezpieczeniu 04-10; imie Symona po faktorach utwierdzilo). Chce Symona jako STALEGO czlowieka od liczb+ryzyka: ubezpieczenie regularnych rejsow (prawdziwe ryzyko wody, prowizja/partia) + oko na ksiegi. Nowy recurring strumien, +3 jel pierwsza prowizja. nast 20->30, zauf +3."
       ],
-      "cechy_mowy": "rzeczowy, portowy, mowi 'chlopcze'"
+      "cechy_mowy": "rzeczowy, portowy, mowi 'chlopcze'",
+      "rok_urodzenia": 257
     },
     {
       "id": "wick_czeladnik",
@@ -1974,7 +2005,8 @@
         "297-06-18: Symon zaaranzowal, ze Serla (cooper-wdowa, matczyna) gotuje im i doglada za zaplate - koniec jedzenia jak popadnie, matczyna obecnosc w izbie 3."
       ],
       "cechy_mowy": "niesmialy, cichy, 'panie'",
-      "status": "ZWOLNIONY z czeladnictwa kolodziejow (297-06-09, formalnie/jawnie/z blogoslawienstwem Borena przed majstrami) -> UCZEN-KLERK Symona (prywatna nauka pisarska, poza cechem skrybow, cicho). Papiery spisane (zwolnienie z pieczecia + uklad nauki). Benedykcja Borena dala mu GODNOSC/domkniecie kolodziejstwa - niewiara z 06-08 osiadla (oficjalne, jawne). Odszedl jako brat wyprawiony w nowe, nie odpadly kaleka. NEXT: wdrozyc w realna robote, pierwsza wyplata utrwali wiare. || DACH ROZWIAZANY 297-06-09: izba 3 kamieniczki Symona, dzieli z Halem (piszmienny - uczy go liter wieczorami). Housing solved + korepetytor czytania."
+      "status": "ZWOLNIONY z czeladnictwa kolodziejow (297-06-09, formalnie/jawnie/z blogoslawienstwem Borena przed majstrami) -> UCZEN-KLERK Symona (prywatna nauka pisarska, poza cechem skrybow, cicho). Papiery spisane (zwolnienie z pieczecia + uklad nauki). Benedykcja Borena dala mu GODNOSC/domkniecie kolodziejstwa - niewiara z 06-08 osiadla (oficjalne, jawne). Odszedl jako brat wyprawiony w nowe, nie odpadly kaleka. NEXT: wdrozyc w realna robote, pierwsza wyplata utrwali wiare. || DACH ROZWIAZANY 297-06-09: izba 3 kamieniczki Symona, dzieli z Halem (piszmienny - uczy go liter wieczorami). Housing solved + korepetytor czytania.",
+      "rok_urodzenia": 282
     },
     {
       "id": "kupiec_corl",
@@ -2045,7 +2077,8 @@
       "nastawienie_do_gracza": 70,
       "zaufanie": 24,
       "ostatni_kontakt": "297-08-20 POPOLUDNIE (rzut 95) - PRZELOM Tama: ucząc sie naturalnie w tempie praktyki (nie forsownym drylem), SAM wychwycil rozjazd w ksiegach - lapie OSAD, wyrasta na weryfikatora. Cierpliwosc/narzedzia zaplacily nie napor. Nast 66->70, zauf 19->24.",
-      "nota": "Perla (rzut 98). Sierota jak Hal/Symon. Lancuch mentorstwa: Hal go uczy. Dyskrecja>talent - kluczowe przy firewallu."
+      "nota": "Perla (rzut 98). Sierota jak Hal/Symon. Lancuch mentorstwa: Hal go uczy. Dyskrecja>talent - kluczowe przy firewallu.",
+      "rok_urodzenia": 284
     },
     {
       "id": "kupiec_merrek",

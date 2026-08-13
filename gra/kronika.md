@@ -6155,3 +6155,6 @@ Symon poszedl do Nesty w mokry zmierzch. Wieczor strategiczny (rzut 84). Zlozyl 
 
 ## 297-08-24 POPOLUDNIE — Tally dostawcy dopytane
 Symon wrocil do rozbieznosci w tally dostawcy (rzut 89, jego forte). Wytropil zrodlo w minute: podwojnie wpisana linijka postojowego po stronie dostawcy - stad brakujace pare miedzi. Napisal precyzyjny, uprzejmy list; dostawca skoryguje. Grosza z tego nie ma, ale to wlasnie te drobiazgi buduja jego imie - Tally, czlowiek u ktorego liczby wychodza prawdziwe. Cichy kapital pod gwiazde polnocna.
+
+## 297-08-24 WIECZOR — U Miry (nowa bela, mala proba)
+Umyty, Symon poszedl na zaproszenie Miry. Pokazala mu z duma nowo ufarbowana bele sukna - nowy kolor, celuje w lepsza klientele. Symon prawie zsunal sie w tryb doradcy (cena, klientela) - i zlapal sie w pol slowa (lekcja z 08-18: ludzie sa dumni, nie narzucaj pomocy). Zamiast naprawiac - podziwil i spytal, co ona o tym mysli. Spotkal ja jak partner, nie jak konsultant. Wieczor skromny, bez przelomu (niski rzut), ale przeszedl te cicha probe: byc obok, na jej warunkach. zauf 80->81.

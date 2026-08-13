@@ -6158,3 +6158,6 @@ Symon wrocil do rozbieznosci w tally dostawcy (rzut 89, jego forte). Wytropil zr
 
 ## 297-08-24 WIECZOR — U Miry (nowa bela, mala proba)
 Umyty, Symon poszedl na zaproszenie Miry. Pokazala mu z duma nowo ufarbowana bele sukna - nowy kolor, celuje w lepsza klientele. Symon prawie zsunal sie w tryb doradcy (cena, klientela) - i zlapal sie w pol slowa (lekcja z 08-18: ludzie sa dumni, nie narzucaj pomocy). Zamiast naprawiac - podziwil i spytal, co ona o tym mysli. Spotkal ja jak partner, nie jak konsultant. Wieczor skromny, bez przelomu (niski rzut), ale przeszedl te cicha probe: byc obok, na jej warunkach. zauf 80->81.
+
+## 297-08-24 NOC — Pytanie i noc u Miry
+Symon spytal wprost, czy moze zostac. Nie wzial za pewnik - spytal, z szacunkiem. Mira przyjela cieplo, na wlasnych warunkach: obok, nie narzucony. Wspolna noc jako wybrani partnerzy, cichy prog bliskosci. Bez wielkich slow, z zaufaniem. zauf 81->82. [godnie]

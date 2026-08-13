@@ -27,3 +27,9 @@
 - **NPC:** mają `rok_urodzenia` (dodane hurtem 297-09-06 = 297 − ówczesny wiek). Bez `data_urodzin` → wiek roczny/przybliżony (wystarcza). Można dopisać `data_urodzin` komukolwiek, gdy fabuła tego zażąda.
 - **Nowy NPC:** nadawaj `rok_urodzenia` (= rok bieżący − wiek), nie sztywny `wiek`.
 - **Przyszłe:** przy bardzo długiej grze dojdzie ŚMIERTELNOŚĆ (starość/choroba) — do rozpisania osobno, gdy nadejdzie czas.
+
+## KANON-GUARD: NIE fabrykowac wesela Bess (powtarzajacy sie blad 3x)
+- **Bess (corka Wendy) jest ZAMEZNA** z Dake'em (mlody rybak) od poczatku 297. Symon przespal jej wesele przez febre (02, o krok od smierci).
+- Wymyslilem jej "przyszle wesele" TRZY razy (05-19, 08-27, 09-08) jako inbound. To BLAD CIAGLOSCI. Nigdy wiecej.
+- Jedyna niezamezna corka Wendy to MELLA - ale ZADNE jej wesele nie jest ustalone w kanonie; nie zmyslac drugiego, by zalatac.
+- OGOLNA ZASADA: przed wprowadzeniem "wydarzenia z zycia NPC" (slub/narodziny/smierc) SPRAWDZ kartoteke i kronike, czy to juz sie nie odbylo.

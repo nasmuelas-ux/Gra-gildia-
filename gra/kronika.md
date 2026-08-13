@@ -6089,3 +6089,6 @@ Symon mial isc do Godrica z konkretem NA ZIMNO (surowy rzut 9 - VOID, gracz dost
 
 ## 297-08-19 WIECZOR - dopisek: fee za ksiege Godrica
 Godric zaplacil za pomoc z ksiega zamkowa (zawsze placi - to platna robota, nie darmowa/jalmuzna): +4 jel. sakiewka 32->36.
+
+## 297-08-19 WIECZOR - roster retainerowy delegowany Halowi
+Symon (wieczorem, krotko) przekazal Halowi CALY cykl retainerowy: przeglady Voxa/Rollama/Wyllama/Torhena/bloku(Aldous+Harlon)/Mereka. Hal (pewny/wyposazony/wyszlifowany proces) bierze bez mrugniecia. Rutyna idzie jego reka i firmowa twarza = grosz bez godzin Symona i bez podnoszenia profilu (grey play); Symon wolny na goal-work (Aurane/winter-readiness/dwor). Model potwierdzony rano (maszyna mieli sama). Dochod retainerow recurring - zmiecie sie 09-01 (Dzien Bilansu). Hal rosnie o oczko odpowiedzialnosci. Bez zmian w kasie teraz.

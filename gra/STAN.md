@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-08-04 RANEK, pelna wiosna: sezon budowlany zamku w toku (drewno/prowiant/zelazo plyna), port tetni arrivals, przednowkowy ucisk ZDJETY (relief lorda administruje Wiara). Symon: 3 filary zamkowe + 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 88 jeleni + 1 mied + 0 smokow
+- **Wolne:** 112 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

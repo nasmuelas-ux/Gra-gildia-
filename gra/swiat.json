@@ -2,20 +2,20 @@
   "data": {
     "rok": 297,
     "miesiac": 9,
-    "dzien": 23,
+    "dzien": 24,
     "era": "AC"
   },
   "pora": "RANEK",
   "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
-  "pogoda": "SZTORM ODPUSCIL (rzut 94) - 3. dnia burza zeszla w noc, ranek wstaje mroźny, jasny i CICHY. Miasto odkopuje sie ze sniegu; rzeka wciaz skuta, ale trakty zaczynaja odmarzac, port budzi sie do zycia. Po dwoch dobach oblezenia lodu - ulga.",
+  "pogoda": "MARTWA ZABIJAJACA ZMARZ (rzut 2) - po sztormie zeszla w bezruchu gleboka, cicha, zabojcza zmarz. Zaden wiatr - tylko powietrze tnace pluca, niebo twarde jak stal, rzeka peka i zastyga na glucho. Maesterski cien prawdziwej zimy PRZESTAL byc cieniem: Polnoc wchodzi w mroz, ktory zabija. Opal/prowiant = zycie liczone na dni, nie towar. To scena, na ktorej wszystko, co Symon zbudowal (pewna podaz, relief, ksiega zapasow), staje sie centralne - i na ktorej pierscien glodowy ma swoja dzwignie.",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
-  "nastroje_miasta": "297-09-23 RANEK, po sztormie: Bialy Port odkopuje sie z dwoch dob lodu. W jasnym swietle widac wyraznie, KTO dowiozl a kto nie - rywal prowiantowy zawiodl na calej linii (szlak z daleka stanal), a FIRMA Symona/Miry dostarczyla i gorze (kasztel), i dolowi (biedota) mimo wszystko. Wsrod kupiectwa i w porcie standing 'pewnej reki' rosnie (INBOUND 75). NA DWORZE/w kregu Godrica (INBOUND2 34) zywe cicho pytanie o LOJALNOSC firmy - 'czyja ta reka, nasza czy uliczna?' - lekki nacisk, ktos podszczuwa gorszy sens (cien Roldana). Wymaga czystego domkniecia dzis. Symon: 3 filary + korytarz sukna + logistyka Aurane + ksiega + underwriting; przemarzniecie skasowane, swiezy. Sakiewka 129 jel wolne, kapital w robocie.",
+  "nastroje_miasta": "297-09-24 RANEK, MROZ KTORY ZABIJA: Bialy Port zamiera w martwej zmarzi, rzeka skuta na glucho. Opal i prowiant staja sie zyciem. INBOUND 88: miasto i port CISNA do firmy - 'pewna reka' po sztormie to teraz jedyny adres na zime; kupcy, drobni i sredni, chca zapasow pod dach i dostaw; strumien skladowania/podazy pecznieje. INBOUND2 73: z kregu Godrica dobra wiesc - jego narracja 'firma co nakarmila zamek i miasto naraz' POSZLA W GORE do wyzszych uszu Manderly, a kasztel (rywal padl calkowicie) chce OPRZEC sie na firmie mocniej w prowiantowaniu zimowym. Doktryna warstwy 2 (stanac jawnie jako uczciwa podaz) sama sie otwiera. Symon: 128 jel wolne, Owen zauf 52, Godric zauf 54, Mira 96/96; nitka Nesty po principalu pierscienia bije w tle (~10-10). 19 dni do slubu.",
   "ceny": {
     "chleb": {
       "baza": 3,
-      "mnoznik": 1.0,
-      "przyczyna": "relief sie przejada, zima glebsza"
+      "mnoznik": 1.3,
+      "przyczyna": "mroz + panika zapasowa, zboze drozeje"
     },
     "ryba": {
       "baza": 2,
@@ -34,8 +34,8 @@
     },
     "opal": {
       "baza": 8,
-      "mnoznik": 1.35,
-      "przyczyna": "turn ku zimie - opal zaczyna piac w gore (Polnoc szykuje sie na chlod, popyt rosnie)"
+      "mnoznik": 1.7,
+      "przyczyna": "MROZ KTORY ZABIJA - opal to zycie, cena skoczyla; popyt rozpaczliwy"
     },
     "wino_korzenne": {
       "baza": 5,
@@ -44,8 +44,8 @@
     },
     "sol": {
       "baza": 45,
-      "mnoznik": 1.05,
-      "przyczyna": "dostawy wrocily po burzy"
+      "mnoznik": 1.2,
+      "przyczyna": "konserwacja na zime, popyt rosnie"
     },
     "prowiant_uwaga": null
   },

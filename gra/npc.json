@@ -1008,6 +1008,17 @@
         "297-06-24 POLUDNIE: Symon domknal odbior u zamku (przez Godrica) - drewno Benneta idzie na zamek wypelnic kra-dziure. Jego bezczynne kloody staja sie groszem. Kanal zywy.",
         "297-06-25 (rzut 93): podpisal umowe podazy - jego bezczynne kloody staja sie pewnym groszem, Symon traktowal uczciwie. Lojalny dostawca. \"nie wiedzialem ze da sie z tego lasu zyc dopoki zes nie przyszedl\". Drewno plynie."
       ]
+    },
+    {
+      "id": "kupiec_rennifer",
+      "imie": "Rennifer",
+      "zawod": "gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiezi poza Bialym Portem (spekulant, kupuje panike)",
+      "wiek": 41,
+      "rok_urodzenia": 256,
+      "nastawienie_do_gracza": 58,
+      "zaufanie": 10,
+      "ostatni_kontakt": "297-09-23 RANEK (HACZYK rzut 10) - podszedl na nabrzezu z NAJLUKRATYWNIEJSZA oferta dnia, owinieta w pochlebstwo ('jestes teraz pewna reka, zbijmy na tym naprawde'): GRA NA GLOD - wykupic prowiant/opal TERAZ w posztormowej panice, zamknac w magazynie, wypuscic po cenach glodowych, gdy zima chwyci za gardlo. Ogromna marza. TRUCIZNA: zdradza wszystko, czym Symon jest (tarcza slabych), i gdyby wyszlo - spalilaby reputacje wygrana wlasnie u Godrica. Decyzja gracza otwarta.",
+      "notatka": "KUSICIEL. Nie wrog wprost - test gwiazdy polnocnej. Moze miec cien wiezi z Roldanem/spekulantami (do ujawnienia). Odrzucenie czyste = wolne; ale to czlowiek ustosunkowany, warto odrzucic MADRZE."
     }
   ],
   "w_orbicie": [

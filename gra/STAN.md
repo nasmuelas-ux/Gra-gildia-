@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-09-23 RANEK, po sztormie: Bialy Port odkopuje sie z dwoch dob lodu. W jasnym swietle widac wyraznie, KTO dowiozl a kto nie - rywal prowiantowy zawiodl na calej linii (szlak z daleka stanal), a FIR
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 129 jeleni + 1 mied + 0 smokow
+- **Wolne:** 137 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -32,11 +32,12 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - DRUGIE ZRODLO ZIMOWE (Torwyn, holder zboza, 09-19): przez polecenie Merreka ('ci was nie scisna')+siec Miry, uczciwe warunki. Zadatek ~15 jel (kasa 154->139). REDUNDANCJA: dwa lokalne zrodla pod gwarancja z kara = nie single-point-of-failure + pojemnosc DO SKALOWANIA (wchlonac polowe rywala gdy padnie). Reputacja uczciwa=przewaga w zaopatrzeniu w glodowa zime.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
-- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-09-01 (ostatni: 297-08-01 (wykonany))
+- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-10-01 (ostatni: 297-08-01 (wykonany))
 - _Cykliczne (zmiatane w Dniu Bilansu):_
     - draw_wspolnika_nesta: Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.
     - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
     - oplaty_retainerow_udzial_symona: Retainery firmy 18 jel/mies brutto (6 retainerow) - place/udzialy zespolu (Wick wage + TAM nowy junior wage + HAL teraz na UDZIALE nie pensji) ~ firma netto; UDZIAL SYMONA ~7 jel/mies. STRUKTURA od 07-28: Hal PROWADZI biurko na UDZIALE (fosa=interes wspolny, per Nesta), Tam junior pod Halem. Capacity odblokowane - firma moze brac wiecej retainerow.
+    - skladowanie_zimowe_kupcy: NOWY (297-09-23, owoc reputacji posztormowej, rzut 71): 3 porzadnych kupcow (2 drobnych + 1 sredni faktor solno-zbozowy) zlozylo zapasy pod rygor firmy w magazynach Aurane'a. Zadatki wziete od reki (+8 jel 09-23). Recurring ~12 jel/mies UDZIAL SYMONA (szac., po odcieciu doli Aurane'a), pierwszy pelny na Bilansie. Skaluje sie jesli reputacja 'pewnej reki' rosnie.
 - _Per-zdarzenie (ksiegowane przy zdarzeniu):_
     - drewno_marza: NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)
     - weksle_procent_i_zwrot: 200 jel niezab.(procent) + 50 jel zab.(kapital+procent). Procent per cykl; kapital gdy dluznik splaca zamiast rollowac.
@@ -48,7 +49,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
     - prowiantowanie_udzial_zima: Udzial w zimowym prowiantowaniu zamku (od 09-19, Mira-pryncypal/firma): margin per dostawa. Pierwsze partie bezbledne. Ksieguj per dostawa; rosnie, a przy klesce rywala moze wchlonac calosc.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 99 · Sytosc 72 · Zmeczenie 2
+- Zdrowie 99 · Sytosc 86 · Zmeczenie 2
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9
@@ -73,6 +74,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 77
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 61
 - **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
+- **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 58
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

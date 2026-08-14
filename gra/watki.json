@@ -1115,6 +1115,16 @@
       "id": "godric_pytanie_lojalnosc_09_22",
       "stan": "ZAMKNIETE i PRZEKUTE (09-23, rzut 88 / szept 56): Symon przeramowal 'rozdzielona lojalnosc' -> 'jedna reka, na ktorej Manderly moze polegac; laska panska splywajaca w dol'. Godric kupil w calosci, wziął narracje w gore jako WLASNA ('nakarmila zamek i miasto naraz'). Bonus: Godric rozpoznal zrodlo szeptu (Roldan) i odlozyl sobie - spin rykoszetem w Roldana. Rysa -> ATUT.",
       "priorytet": "zamkniete"
+    },
+    {
+      "id": "skladowanie_zimowe_start_09_23",
+      "stan": "URUCHOMIONE (rzut 71): 3 porzadnych kupcow zlozylo zapasy pod rygor firmy (magazyny Aurane'a) po posztormowej reputacji. Zadatki +8 jel, recurring ~12 jel/mies udzial Symona od Bilansu. Nowy zimowy strumien; skaluje sie z 'pewna reka'.",
+      "priorytet": "aktywny"
+    },
+    {
+      "id": "oferta_gra_na_glod_rennifer_09_23",
+      "stan": "FORK OTWARTY (HACZYK rzut 10): kupiec Rennifer proponuje gre na glod - wykup prowiant/opal w panice, zamknac, sprzedac po cenach glodowych zima. Ogromna marza, TRUCIZNA dla gwiazdy Symona (tarcza slabych) i dla reputacji wygranej u Godrica. Opcje gracza: (a) odrzucic czysto/madrze, (b) odrzucic i obrocic w atut (zdemaskowac/uprzedzic), (c) rozwazyc. NIE zaksiegowane. Mozliwy cien wiezi Rennifer<->Roldan/spekulanci.",
+      "priorytet": "wysoki"
     }
   ]
 }

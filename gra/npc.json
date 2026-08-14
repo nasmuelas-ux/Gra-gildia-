@@ -127,7 +127,7 @@
    "przydomek": null,
    "wiek": 23,
    "stan": "pospolity",
-   "zawod": "dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/proba faktorii Nesty)",
+   "zawod": "ZAUFANY ZARZADCA-SPINACZ Symona (majordomus): zarzadca domu+kamieniczki, lacznik/kurier (spina firme/relief/port/zamek/Septe), glowa logistyki reliefu na ziemi (dowozi, Mira dyryguje), oczy w dole/porcie (ludzki wywiad nie szpieg), opiekun korzeni (relacje z dolem)",
    "mieszka": "Rybi_Zaulek",
    "harmonogram": {
     "ranek": "port/nabrzeze",
@@ -142,8 +142,8 @@
     "kontuzja plecow",
     "ze go ominie lepsza fucha"
    ],
-   "nastawienie_do_gracza": 95,
-   "zaufanie": 53,
+   "nastawienie_do_gracza": 97,
+   "zaufanie": 56,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
     "czyta mu listy od brata z Siostr",
@@ -178,7 +178,8 @@
     "297-04-22 WIECZOR (rzut 58): ULGA CHWYCILA - 6 dni po pomocy dom oddycha. Alys zarabia u Jonny (igla), Bran z podniesiona pensja nie liczy kazdego miedziaka; wrocila lekkosc. Alys cieplejsza/smielsza wobec Symona (nie groźny dobroczynca, lecz czlowiek co ogarnal po sasiedzku). Nakarmili go. Rodzina stanela na nogi. nast 81 hold.",
     "297-05-25 WIECZOR: Symon oddal Branowi kupon dobrego sukna (dar Voxa) dla ZONY, Alys. Gest gospodarza, ktory dzieli sie dobrym losem ze swoimi. Bran poruszony/jeszcze bardziej lojalny. nast 81->84.",
     "297-05-31 WIECZOR (rzut 60): Symon zajrzal jak troskliwy gospodarz - spytal o Brana i lokatorow. Cieply, dobry raport: dom w porzadku (dach solidny, wiosna), Jonna(szyje, Alys z nia zarabia)/Osric osadzeni, czynsze ida, cykl zamyka sie 06-01. Alys promienieje od sukna. Ogrodek wschodzi (Jonna: kapusta/zioła). Jeden drobiazg: rynna od podworka do przejrzenia (Bran juz pilnuje, wiosna - Donnel jak bedzie mial chwile). Bran kontent, lojalny, duma z roli. Kapital \"porzadny gospodarz, dba o swoich\". nast 84->86.",
-    "297-06-10 (rzut 66): Symon przyszedl dograc Wicka w izbie 3 - i zrobil to WLASCIWIE: nie dekret nad glowa, lecz \"twoj teren, dograjmy razem\", pytal o zdanie. Bran (dumny, zasluzony) uhonorowany jako gospodarz. Dograne: opal na dwoch w izbie 3, czynsz Hala obnizony (do wiedzy Brana), Symon POREczyl za Wicka - Bran (sam podniesiony z tragarza) przyjal chlopaka jak swojego, benevolent oko nie czujne. Zapytal o niego i Alys (zone). Wiez ciepla. nast 86->87."
+    "297-06-10 (rzut 66): Symon przyszedl dograc Wicka w izbie 3 - i zrobil to WLASCIWIE: nie dekret nad glowa, lecz \"twoj teren, dograjmy razem\", pytal o zdanie. Bran (dumny, zasluzony) uhonorowany jako gospodarz. Dograne: opal na dwoch w izbie 3, czynsz Hala obnizony (do wiedzy Brana), Symon POREczyl za Wicka - Bran (sam podniesiony z tragarza) przyjal chlopaka jak swojego, benevolent oko nie czujne. Zapytal o niego i Alys (zone). Wiez ciepla. nast 86->87.",
+    "297-10-06: Symon FORMALNIE nazwal jego role - zaufany zarzadca-spinacz (majordomus): dom+kamieniczka, lacznik, relief-logistyka, oczy w dole, opiekun korzeni. Bran wzruszony po swojemu (praktyczny): \"dajesz mi imie do roboty, ktora i tak bym dla ciebie robil\". Lane czyste vs Hal(biurko)/Garrick(bezpieczenstwo)."
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-10-06",
@@ -1197,14 +1198,16 @@
   {
    "id": "alys_narzeczona_brana",
    "imie": "Alys",
-   "zawod": "ZONA Brana (slub 297-04-07, Symon swiadek); sluzy w karczmie Pod Syrenim Ogonem + szyje u Jonny",
-   "nastawienie_do_gracza": 36,
+   "zawod": "ZAUFANY ZARZADCA-SPINACZ Symona (majordomus): zarzadca domu+kamieniczki, lacznik/kurier (spina firme/relief/port/zamek/Septe), glowa logistyki reliefu na ziemi (dowozi, Mira dyryguje), oczy w dole/porcie (ludzki wywiad nie szpieg), opiekun korzeni (relacje z dolem)",
+   "nastawienie_do_gracza": 38,
    "ostatni_kontakt": "297-10-06",
    "wie_o_graczu": [
     "297-04-22: cieplejsza/smielsza wobec Symona - zarabia u Jonny (igla), dom oddycha; widzi w Symonie czlowieka co ogarnal po sasiedzku, nie grozdnego dobroczynce.",
     "KOREKTA 297-05-19: Alys jest ZONA Brana od slubu 297-04-07 (Symon byl swiadkiem), nie narzeczona. Pole zawodu bylo stale.",
-    "297-05-25: Symon (gospodarz, pracodawca meza) podarowal jej kupon dobrego sukna - realny dar dla zony sluzacego (suknia). Szczerze wzruszona; Symon urasta jako porzadny czlowiek. nast 10->18."
-   ]
+    "297-05-25: Symon (gospodarz, pracodawca meza) podarowal jej kupon dobrego sukna - realny dar dla zony sluzacego (suknia). Szczerze wzruszona; Symon urasta jako porzadny czlowiek. nast 10->18.",
+    "297-10-06: Symon FORMALNIE nazwal jego role - zaufany zarzadca-spinacz (majordomus): dom+kamieniczka, lacznik, relief-logistyka, oczy w dole, opiekun korzeni. Bran wzruszony po swojemu (praktyczny): \"dajesz mi imie do roboty, ktora i tak bym dla ciebie robil\". Lane czyste vs Hal(biurko)/Garrick(bezpieczenstwo)."
+   ],
+   "zaufanie": 63
   },
   {
    "id": "siostra_lyra",

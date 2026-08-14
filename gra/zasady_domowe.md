@@ -46,3 +46,10 @@
 - TA SAMA KARTA dla SIECI RELIEFU (sanie Brana do zaulkow) - jeden rygor chroni zysk i biednych.
 - NIKT SAM w najgorszy mroz: para wozow albo czlowiek z tylu na linie (dzis to uratowalo furmana - od teraz regula, nie szczescie).
 - Zasada nadrzedna: katastrofie zapobiega sie miesiacami wczesniej (przezornosc), nie w dniu uderzenia. Roznica miedzy dobrym sercem a dobrym rzadem.
+
+## REGULA RELIEFU — karmic z owocu, nie z korzenia (od 297-09-27)
+1. Relief WYLACZNIE z ODPISU NADWYZKI: na kazdym Bilansie stala czesc NETTO miesiaca (odpis) -> rezerwa reliefu. Reszta nigdy.
+2. NIGDY z kapitalu obrotowego: rotacja (400), weksle, principal underwritingu = NIETYKALNE (krew firmy).
+3. Miesiac bez nadwyzki = relief kurczy sie do tego co na reku; nie zadluzac gwiazdy.
+4. Wspolfinansowanie Wiary (Owen) odciaza rezerwe.
+Zasada nadrzedna: dawac z owocu nie z korzenia; drzewo co zjada wlasny korzen nie karmi nikogo. Trwalosc to tez milosierdzie. (Decyzja gracza 09-27 po uczciwym rachunku: relief nie oplaca sie kupcowi, oplaca sie czlowiekowi rady - ale tylko karmiony zyskiem, nie zamiast niego.)

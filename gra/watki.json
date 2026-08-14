@@ -1160,6 +1160,11 @@
       "id": "sojusz_theomore_09_26",
       "stan": "ZAWIAZANY (rzut 76): maester Theomore = sojusznik na szczeblu Aldrica - recze za firme w domu lorda, dyskretne oko/ucho, pokrewienstwo prawdy-liczonej. Pierwszy przyjaciel Symona na gorze (przeciwwaga dla Aldrica). Firewall nietkniety (dostal tylko czysta prawde firmy). Pielegnowac ostroznie.",
       "priorytet": "aktywny"
+    },
+    {
+      "id": "mroz_test_operacji_09_26",
+      "stan": "ZDANY z kosztem (kryt 5): gleboki mroz zalamal konwoj Torwyna (skrot przez przymarznięte oczko), furman ocalony (Symon+Bran), czesc batcha zboza przepadla. Castle-dostawa PRZERZUCONA na Merreka - SERIA BEZBLEDNA STOI (Aldric nic nie dostal). REDUNDANCJA Merrek+Torwyn zaplacila sama za siebie: jedno zrodlo padloby dzis przed kasztelem. Koszt -14 jel + batch. Nauka wpisana w rygor: pewne szlaki w mroz. Obecnosc Symona (wybor gracza 'do firmy') zlapala wiesc, ktora inaczej trafilaby w pustke.",
+      "priorytet": "tlo"
     }
   ]
 }

@@ -1183,8 +1183,13 @@
     },
     {
       "id": "aldric_preempcja_sledztwo_09_29",
-      "stan": "PILNE (INBOUND2 12 kryt): Aldric - nie mogac podpalic (bron zatruta) - uderza URZEDEM: preemptywnie podniosl do kasztelana/domu lorda 'obawe bezpieczenstwa' o OBCY braavijski pieniadz za firma wdowy, pchajac ku SLEDZTWU kto kontroluje firme zaopatrujaca zamek. Cios w JEDYNA szczeline frontu (obcy kapital/nitka Nesty). WYSCIG: sledztwo Aldrica vs principal Nesty(~10-04)+kontrcios Symona - kto uderzy pierwszy. ATUTY: front wzmocniony (68), Theomore RECZY za firme (primed), Godric po stronie, prawda-nudna gotowa, slub za 14 dni=zwornik. Aldric atakujac ODSLANIA sie (bought insider chroni pierscien=wiecej dowodu). Wiesc przyszla przez primed sojusznikow - oslona sie oplacila.",
+      "stan": "DEFANGED czesciowo (pre-brief rzut 46): Theomore+Godric wyprzedzili rame u kasztelana - ten NIE mrozi firmy ani nie odsyla Aldrica, zarzadzil SLEDZTWO UCZCIWE+SPOKOJNE+MIERZONE (nie nagonke z zamrozeniem). Aldric chcial rygla+podejrzenia, dostal procedure ktora go nie nasyci; sledztwo w nudna-prawde nie znajdzie nic. KUPIONY CZAS+uczciwe warunki. Mira odpowie z czystymi rekami (papiery gotowe). RESIDUUM: sledztwo zywe, sliver ryzyka przy szczelinie obcego kapitalu (pilny badacz), kasztelan patrzy neutralnie-uwaznie. WYSCIG: badanie (wolne) vs principal Nesty ~10-04 - uderzyc NIM badanie dojdzie do szczeliny. PLUS: kasztelan zna firme z porecze maestera = stopa we drzwiach o szczebel wyzej Aldrica; Aldric przegral nadgorliwosc.",
       "priorytet": "wysoki"
+    },
+    {
+      "id": "kasztelan_radar_09_29",
+      "stan": "NOWE (pre-brief 46): kasztelan domu lorda (szczebel nad Aldrikiem) teraz ZNA firme - z porecze Theomore+Godrica, neutralnie-uwaznie. Firma w lagodnym oficjalnym swietle (sledztwo). ALE: stopa we drzwiach o szczebel wyzej Aldrica; to te same drzwi, przez ktore Symon wejdzie z pierscieniem gdy Nesta da principala (kanal Aldrica przejety). Kasztelan = przyszly adresat ciosu na caly lancuch.",
+      "priorytet": "sredni"
     }
   ]
 }

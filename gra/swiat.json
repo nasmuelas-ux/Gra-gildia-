@@ -2,15 +2,15 @@
   "data": {
     "rok": 297,
     "miesiac": 10,
-    "dzien": 1,
+    "dzien": 2,
     "era": "AC"
   },
   "pora": "RANEK",
   "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
-  "pogoda": "MROZ NAJCZARNIEJSZY (rzut 8, kryt) - rdzen zabojczej zimy: powietrze jak noz, rzeka skuta na kamien, trakty martwe. Opal/prowiant = zycie liczone na godziny dla nieprzezornych. Ale Symon: warrant lorda, redundantne zrodla, dojrzala siec reliefu - najlepiej ustawiony w miescie.",
+  "pogoda": "MROZ ZELZAL z rdzenia (rzut 46) - wciaz twarda zima, ale nie zabojcza; najczarniejsze przeszlo, trakty znosne.",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
-  "nastroje_miasta": "297-10-01 RANEK, Dzien Bilansu, nowy miesiac po przelomowej nocy: MROZ najczarniejszy (kryt 8), ale swiat TWARZA do Symona Tally. INBOUND 79 - miasto lgnie do firmy pod pieczecia lorda (jedyny pewny adres w rdzeniu zimy, po rozbiciu pierscienia ceny opadaja bo zajete zapasy w obiegu). INBOUND2 65 - krag cieply: lord zna imie, Theomore/Godric/Owen dumni, Merrek+Torwyn wolni i lojalni na zawsze. Symon 121 jel (Bilans dzis ~+147 -> ~268), rola zimowa warrant lorda, ucho lorda, 12 dni do slubu. Pierscien rozbity, firewall bezpieczny.",
+  "nastroje_miasta": "297-10-02 RANEK: INBOUND2 91 (blisko kryt) - WEZWANIE LORDA. Wyman Manderly przyslal po Symona Tally, tak jak zapowiedzial ('przyjdziesz gdy po ciebie posle'). Household lorda okrojony (Aldric w celi, Helyard zhanbiony - luki w zaopatrzeniu/nadzorze), a lord chce RADY czlowieka co odslonil zdrade i liczy uczciwiej niz jego oficerowie: jak naprawic prowiantowanie, co z zajetymi zapasami. Sciezka czlowieka rady OTWIERA sie w praktyce. INBOUND 31 - port cichy. Symon 280 jel, warrant lorda, 11 dni do slubu, mroz zelzal.",
   "ceny": {
     "chleb": {
       "baza": 3,

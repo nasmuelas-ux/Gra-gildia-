@@ -2,15 +2,15 @@
   "data": {
     "rok": 297,
     "miesiac": 9,
-    "dzien": 27,
+    "dzien": 28,
     "era": "AC"
   },
   "pora": "RANEK",
   "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
-  "pogoda": "MROZ ZELZAL (rzut 74) - najostrzejsza zmarz puscila w nocy; wciaz zima, ale powietrze nie tnie, trakty nieco przejezdne, port oddycha. Chwila luzu w twardym uscisku - okno logistyczne.",
+  "pogoda": "MROZ WROCIL Z ZLOSCIA (rzut 11) - okno luzu zamknelo sie w nocy, zabojcza zmarz znowu bije, rzeka skuta, trakty znowu zdradliwe. Krotki oddech skonczony.",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
-  "nastroje_miasta": "297-09-27 RANEK, mroz zelzal: INBOUND 79 - miasto mocno z firma, strumien plynie, lzejszy mroz otwiera trakty (zalegle dostawy do nadrobienia, rezerwa reliefu do odbudowy). INBOUND2 62 - krag spokojny: Theomore reczy, Godric po stronie Symona, Aldric cicho (sonda ostudzona frontem). Rzadki dzien bez pozaru. Symon 94 jel, siec reliefu dojrzala pod Wiara (rezerwa nadszczerbiona ~tydzien do odbudowy), prep weselny domkniety (16 dni), rygor szlakow zakuty. BILANS za 4 dni (10-01). Nitka Nesty po principalu ~10-10.",
+  "nastroje_miasta": "297-09-28 RANEK, mroz wrocil: INBOUND 10 (kryt) - PIERSCIEN ESCALUJE NA PODAZ. Przegrywajac wojne publiczna/moralna (port Miry, relief), syndykat przeszedl na WOJNE EKONOMICZNA: poludniowi kupcy agresywnie wykupuja prowiant/opal, windujac ceny, i UDERZAJA W ZRODLA SYMONA - Merrek przyslal pilnego poslanca ze ktos oferuje mu za zboze DUZO ponad rynek i naciska, by sprzedal im zamiast Symonowi. Jesli zrodla Symona zostana wykupione, cala jego niezastepowalnosc (i zdolnosc dostawy) pada, a pierscien dostaje swoj glod. Zagrozenie u KORZENIA - ale tez pierscien odslania reke i test lojalnosci dostawcow ('ci was nie scisna' - Torwyn). INBOUND2 64 - krag stabilny (Theomore/Godric po stronie). Symon 90 jel, rezerwa reliefu ~pol, Bilans za 3 dni, nitka Nesty ~10-10, 15 dni do slubu.",
   "ceny": {
     "chleb": {
       "baza": 3,

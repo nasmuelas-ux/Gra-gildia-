@@ -2,15 +2,15 @@
   "data": {
     "rok": 297,
     "miesiac": 9,
-    "dzien": 26,
+    "dzien": 27,
     "era": "AC"
   },
   "pora": "RANEK",
   "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
-  "pogoda": "MROZ GLEBOKI TRZYMA (rzut 19) - zabojcza zima nie odpuszcza, rzeka skuta na glucho, opal/prowiant wciaz zycie liczone na dni. Polnoc w twardym uscisku.",
+  "pogoda": "MROZ ZELZAL (rzut 74) - najostrzejsza zmarz puscila w nocy; wciaz zima, ale powietrze nie tnie, trakty nieco przejezdne, port oddycha. Chwila luzu w twardym uscisku - okno logistyczne.",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
-  "nastroje_miasta": "297-09-26 RANEK, mroz gleboki: INBOUND 86 - miasto MOCNO z firma, pozycja uczciwej reki pracuje pelna para, skladowanie/podaz plyna, zimowa rola utrwalona; firma = adres na zime. INBOUND2 74 - CIEPLE poruszenie w kregu: maester Theomore (autor rachunku ryzyka) przyslal slowo - doslyszal pytania Ser Aldrica o firme i UPRZEDZAJACO sygnalizuje, ze gotow poreczyc legalnosc/wartosc firmy w domu lorda; jego rachunek ryzyka jest cytowany z uznaniem w kregach maesterskich/household. Moze sie tworzyc PRZECIWWAGA dla Aldrica - przyjaciel na gorze. Symon: 108 jel, siec reliefu dojrzala pod Wiara, prep weselny domkniety (17 dni do slubu), Owen 54/Godric 56/Bran 53/Mira 96-96/Theomore ciepnie; nitka Nesty po principalu ~10-10.",
+  "nastroje_miasta": "297-09-27 RANEK, mroz zelzal: INBOUND 79 - miasto mocno z firma, strumien plynie, lzejszy mroz otwiera trakty (zalegle dostawy do nadrobienia, rezerwa reliefu do odbudowy). INBOUND2 62 - krag spokojny: Theomore reczy, Godric po stronie Symona, Aldric cicho (sonda ostudzona frontem). Rzadki dzien bez pozaru. Symon 94 jel, siec reliefu dojrzala pod Wiara (rezerwa nadszczerbiona ~tydzien do odbudowy), prep weselny domkniety (16 dni), rygor szlakow zakuty. BILANS za 4 dni (10-01). Nitka Nesty po principalu ~10-10.",
   "ceny": {
     "chleb": {
       "baza": 3,

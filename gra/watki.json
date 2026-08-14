@@ -1138,13 +1138,18 @@
     },
     {
       "id": "siec_reliefu_zimowa_09_24",
-      "stan": "POSTAWIONA (rzut 61): stala zimowa siec reliefu - Bran foreman (dowoz) + septy Owena (mapa kranców) + wydzielona nietykalna rezerwa (osobna ksiega, tylko biedni). Realizuje warstwe 2 doktryny + guardrail anty-pierscien. Mloda, kryje znane krańce, wzmacnia sie z domapowaniem; wymaga stalego pleca (zapasy+grosz). Instytucja z nazwiskiem Symona i reka Wiary.",
+      "stan": "DZIALA W NOWYM MODELU (pierwszy obieg 9->opanowany 47): otwarty woz splodzil tlum (skutek sygnalu Miry), Symon opanowal bo tlum go POZNAL (Merys), narzucil dyscypline (slabi pierwsi). Model naprawiony: DOWOZ-DO-DOMOW z listy sept, stala porcja, zero otwartego wozu. Koszt: rezerwa nadszczerbiona ~tydzien (odbudowa), ziarno urazy odprawionych silnych, latentny spin pierscienia. Nauka: dobroczynnosc=administracja. Nikt nie zginal - siec pobila wczorajszy poranek nawet zawodząc.",
       "priorytet": "aktywny"
     },
     {
       "id": "warstwa2_uczciwa_podaz_09_24",
       "stan": "WCIELONA OD DOLU (rzut Mira 93): firma jawnie = uczciwa podaz miasta (Mira pryncypal w porcie, 'nie gramy na glod'), + siec reliefu + jawna rezerwa. Publiczna kontra pierscieniowi zbudowana od DOLU (miasto/biedota/kupiectwo), bo GORA (kasztel-formalizacja) przytrzymana przez protektora pierscienia (rzut Godric 17). Doktryna: budowac dom tak wielki, ze zablokowane drzwi na gorze przestana miec znaczenie; aż gora nie bedzie mogla udawac ze nie widzi.",
       "priorytet": "aktywny"
+    },
+    {
+      "id": "relief_uraza_i_spin_ryzyko_09_24",
+      "stan": "LATENTNE (residuum obiegu 47): (a) kilku odprawionych silnych mlodych wyszlo z uraza - drobne ziarno; (b) obraz tloku/awantury przy relief moze byc przekrecony przez pierscien/Roldana ('dobroczynnosc firmy rodzi zamet'). Kontrowane przez: nowy model dowoz-do-domow (brak tlumu) + fakt ze Symona tlum SZANUJE (Merys). Do obserwacji.",
+      "priorytet": "tlo"
     }
   ]
 }

@@ -2169,6 +2169,51 @@
    ],
    "cechy_mowy": "gladki, kupiecki, duzo nazwisk i koneksji w zdaniu - siła i ryzyko naraz",
    "flaga": "ODPRAWIONY_URAZONY: duma zadraśnieta, mruczy w kregach kupieckich; kontakt wystudzony (nie wrog, ale zadraśniety)"
+  },
+  {
+   "id": "deman_klerk",
+   "imie": "Deman",
+   "wiek": 26,
+   "zawod": "klerk-analityk (desk jawnych danych rynku)",
+   "nastawienie_do_gracza": 20,
+   "zaufanie": 10,
+   "cechy_mowy": "rzeczowy, cyfry przed slowami",
+   "flaga": "STAFF: analityk, kompartmentowany (jawne dane); Wenda docelowo pod nim",
+   "ostatni_kontakt": "297-10-06",
+   "stan": "mieszczanin",
+   "wie_o_graczu": [
+    "297-10-06: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda)."
+   ]
+  },
+  {
+   "id": "lorren_agent",
+   "imie": "Lorren",
+   "wiek": 33,
+   "zawod": "agent handlowy na prowizji (pozyskiwanie/obsluga klientow)",
+   "nastawienie_do_gracza": 18,
+   "zaufanie": 10,
+   "cechy_mowy": "towarzyski, lekki, latwo nawiazuje",
+   "flaga": "STAFF: platny agent-prowizja, nie pryncypal",
+   "ostatni_kontakt": "297-10-06",
+   "stan": "mieszczanin",
+   "wie_o_graczu": [
+    "297-10-06: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda)."
+   ]
+  },
+  {
+   "id": "garrick_straznik",
+   "imie": "Garrick",
+   "wiek": 44,
+   "zawod": "straznik/steward bezpieczenstwa domu (b. serzant strazy)",
+   "nastawienie_do_gracza": 22,
+   "zaufanie": 12,
+   "cechy_mowy": "malomowny, krotkie zdania, patrzy zanim powie",
+   "flaga": "STAFF: ochrona+threat-reader, kilka pewnych rak; dyskretny nie widoczny egzekutor",
+   "ostatni_kontakt": "297-10-06",
+   "stan": "mieszczanin",
+   "wie_o_graczu": [
+    "297-10-06: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda)."
+   ]
   }
  ],
  "orbita": [

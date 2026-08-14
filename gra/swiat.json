@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 5,
+  "dzien": 6,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 31,
- "dzien_tygodnia_nr": 2,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-05 NOC (narada z Mira o sieci, rzut 96 KRYT - problem handlowca ROZWIAZANY reframingiem): Symon wrocil, przyznal ze miala racje (szmer=jego ped), i zamiast dasu zamienili to w przelom. REFRAME Miry: 'nie potrzebujesz TWARZY - potrzebujesz otwartych drzwi, a klucze juz masz, tylko tydzien temu nie mogles ich przekrecic, bo nie miales pieczeci lorda.' Zasieg, ktory oferowal Holt (kregi ponad gburem), Symon TERAZ ROSNIE SAM: pieczec lorda + czyste imie otwieraja wyzsze domy organicznie. A reszte niesie WLASNA SIEC, kazdy w swojej alei, po cichu: MIRA (dekada handlu + standing wdowy-kupcowej + dojscia sukienne/zamiejskie; a za 8 dni jako ZONA jej siec staje sie domowa LEGALNIE - partner nie najety akwizytor), AURANE (relacje portowe, dyskretny wprowadzajacy per-klient), TORREN (notariusz zna kontrakty wszystkich = cichy referrer), NESTA (za firewallem, karmi wlasciwych klientow jak dotad przez Hala). WNIOSEK: rola handlowca jako HIRE = ROZPUSZCZONA - funkcja obsluzona lepiej/taniej/dyskretniej przez zaufana siec + wlasny rosnacy standing; zaden Holt, zero attack surface. To tez tlumaczy czemu open search bolal: handlowiec byl rozwiazaniem problemu ktorego firma NIE MA (odsyla klientow); brakowало nie akwizytora lecz STANDINGU (ktorego sie nie kupuje - zdobywa u lorda / posluбia przez slub / pozycza dyskretnie). PLAN NA SZMER: zejsc z widoku, niech nudna robota mowi, drobny gest ku dumie Holta by ostygl. 3 ROLE dojrzaly: analityk=wychowac Wende, handlowiec=SIEC+standing (bez hire), ochrona=wciaz otwarta. Growth engine=PARTNERSTWO (partner byl po drugiej stronie stolu). Mira nast 95->97, frykcja w pelni zagojona. 296 jel, 8 dni do slubu. -> 10-06 RANEK.",
+ "nastroje_miasta": "297-10-06 POLUDNIE (KOMPLETOWANIE ZALOGI, rzut 66 sprawnie): Symon przestal filozofowac nad kazdym najmem - Nesta (braavijski faktor) przypieczetowala oczywistosc: 'dom naszej wielkosci PO PROSTU najmuje pisarza, agenta i straznika i robi swoje; wy z Mira zrobiliscie z trzech zwyklych posad seminarium'. Zatrudnili NORMALNIE, jak kazda prosperujaca firma: (1) DEMAN - kompetentny pismienny+liczacy klerk na desk analityczny (jawne dane portu->prognozy); kompartmentacja standardowa (widzi jawne, wrazliwa synteza u Symona/Nesty - to higiena nie dramat); Wenda docelowo terminuje pod nim. (2) LORREN - obrotny agent na prowizji, pozyskuje/obsluguje klientow (zwykly platny agent, nie sterujacy pryncypal). (3) GARRICK - emerytowany serzant strazy jako straznik/steward bezpieczenstwa domu + czyta zagrozenia, trzyma kilka pewnych rak (dom kupiecki ze straznikiem=norma, nie prywatna armia). Koszt: normalny WAGE LINE (place miesieczne, ~ zmiesc w Bilansie) + -8 jel zaliczki/setup. Firma PROFESJONALNIE OBSADZONA, Symon uwolniony od operacyjnego dlubania = wolny na sciezke rady. Szmer sprzed dnia gasnie sam (ciche normalne najmy pod pieczecia lorda sa nudne=bez paliwa). 3 role OBSADZONE. 288 jel, 7 dni do slubu. Firma weszla na wyzszy poziom organizacyjny.",
  "ceny": {
   "chleb": {
    "baza": 3,

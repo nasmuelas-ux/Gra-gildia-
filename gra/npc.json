@@ -142,7 +142,7 @@
     "kontuzja plecow",
     "ze go ominie lepsza fucha"
    ],
-   "nastawienie_do_gracza": 93,
+   "nastawienie_do_gracza": 95,
    "zaufanie": 53,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
@@ -181,7 +181,7 @@
     "297-06-10 (rzut 66): Symon przyszedl dograc Wicka w izbie 3 - i zrobil to WLASCIWIE: nie dekret nad glowa, lecz \"twoj teren, dograjmy razem\", pytal o zdanie. Bran (dumny, zasluzony) uhonorowany jako gospodarz. Dograne: opal na dwoch w izbie 3, czynsz Hala obnizony (do wiedzy Brana), Symon POREczyl za Wicka - Bran (sam podniesiony z tragarza) przyjal chlopaka jak swojego, benevolent oko nie czujne. Zapytal o niego i Alys (zone). Wiez ciepla. nast 86->87."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-10-01 - dowozil relief (zajete zboze pierscienia) po pewnych szlakach w rdzeniu zimy z Mira; foreman pewny, siec trzyma.",
+   "ostatni_kontakt": "297-10-06",
    "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
    "historia": [
     "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",
@@ -1198,8 +1198,8 @@
    "id": "alys_narzeczona_brana",
    "imie": "Alys",
    "zawod": "ZONA Brana (slub 297-04-07, Symon swiadek); sluzy w karczmie Pod Syrenim Ogonem + szyje u Jonny",
-   "nastawienie_do_gracza": 34,
-   "ostatni_kontakt": "297-09-08 WIECZOR - Symon zalatwil w jej karczmie staly odbior polowu Dake'a (rodzina Wendy); Alys reczyla z boku, uradowana ze Symon pomaga swoim dzwignia nie jalmuzna. nast 32->34.",
+   "nastawienie_do_gracza": 36,
+   "ostatni_kontakt": "297-10-06",
    "wie_o_graczu": [
     "297-04-22: cieplejsza/smielsza wobec Symona - zarabia u Jonny (igla), dom oddycha; widzi w Symonie czlowieka co ogarnal po sasiedzku, nie grozdnego dobroczynce.",
     "KOREKTA 297-05-19: Alys jest ZONA Brana od slubu 297-04-07 (Symon byl swiadkiem), nie narzeczona. Pole zawodu bylo stale.",
@@ -1421,7 +1421,7 @@
    "wiek": 14,
    "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy [07-28: AWANSOWANY - prowadzi rutynowe biurko na UDZIALE (nie pensji); mentoruje Tama]",
    "mieszka": "izba_3_kamieniczki_Symona (od 297-03-27; wyprowadzil sie z przytulku Septy)",
-   "nastawienie_do_gracza": 96,
+   "nastawienie_do_gracza": 97,
    "zaufanie": 72,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
@@ -1472,7 +1472,7 @@
     "297-06-18: Symon zaaranzowal, ze Serla (cooper-wdowa, matczyna) gotuje im i doglada za zaplate - koniec jedzenia jak popadnie, matczyna obecnosc w izbie 3.",
     "297-10-02 (rzut 100 KRYT): Symon zaszedl sprawdzic operacjonalizacje warrantu prowiantowego lorda - Hal PRZEWIDZIAL i przygotowal WSZYSTKO sam: ksiegi pod pieczecia Manderly'ego gotowe, dostawcy (Merrek/Torwyn) i sztauowanie (Aurane) zgrane, plan lorda plynie od dnia pierwszego - nic do poprawy. Biurko pociagnelo bez Symona przez cala wojne z pierscieniem; linia audytow domknela tluste zlecenie (+22 jel). Tam ronie pod Halem (junior). Chlopiec przestal byc czeladnikiem - jest OPERATOREM. Lancuch Owena spelniony: sierota wyrosla w niezaleznosc. nast 94->96, zauf 67->72."
    ],
-   "ostatni_kontakt": "297-10-02",
+   "ostatni_kontakt": "297-10-06",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
    "status": "NA PROBIE — IDZIE DOBRZE (d16, rzut 92): Hal ZASTOSOWAL zasade — trafil na zamazane slowo i SPYTAL zamiast zgadywac; dokladnosc rosnie, ciecie-rogow ustepuje. Blysnal talentem (szybka trafna suma, bystra uwaga), otworzyl sie przez ROBOTE (nie litosc) — nawet spytal Symona o fach i wlasna przyszlosc. Wiez glebsza (nast 23->27), zaufanie ro snie. Trial wyraznie na plus; zblizamy sie do momentu na drobna probe dyskrecji + stopniowe poszerzanie NIE-wrazliwej odpowiedzialnosci. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d18 (rzut 30): dzien plaski — solidna rutyna, lekcje trzymaja (bez regresu), ale bez skoku; chlopiec glodny WIECEJ (dopytuje o powazniejsza robote), Symon lagodnie trzyma go na rutynie (zielony jeszcze). Nast 27 (bez zmian). Poszerzanie odpowiedzialnosci + proba dyskrecji: nieco pozniej. || d18 (rzut 78): zaawansowana lekcja teoretyczna (struktury umow, logika audytu, braavijska podwojna ksiegowosc) NAKARMILA jego glod BEZPIECZNIE (teoria, zero sekretow); szybki, bystre pytania. Zapytal, czy ktos jak on moze naprawde dojsc wyzej — Symon widzi w nim mlodszego siebie. Wiez glebnie (nast ->31). Trial mocno na plus. || d18 (rzut 58): zobaczyl, jak Symon karmi ubuga wdowe i chore dziecko nie oczekujac nic, i uslyszal nauke: mysl o innych, pomagaj otoczeniu; oszusci/tnacy rogi przegrywaja na dluzsza mete; spryt != oszukiwanie. Lekcja PADLA (bo najpierw zobaczyl) — u korzenia jego ciecia-rogow. Nast ->34. || d19 (rzut 47): ciepłe zapytanie 'jak ci się pracuje' — nie o los, o ROBOTĘ. Hal odpowiedział szczerze: robota go trzyma, lubi gdy suma się zgadza i gdy wie PO CO liczy; przyznał, że najlepiej mu idzie odkąd Symon pyta o jego zdanie zamiast dyktować. Bez hardości tym razem — zaufanie robocze osiadło (nast 34->35). Nadal głodny 'poważniejszej' roboty, ale spokojniejszy — czuje, że idzie w dobrą stronę. Wrażliwe wciąż odcięte. || d23 (rzut 17): sesja ksiegowa plaska — Hal rozkojarzony, robi drobne bledy, lekko prickly. Symon CZYTA przyczyne (spryt): chlopak zmarzniety i glodny, sierociniec pod zima krotki na opal/jadlo (zegar zima_ubodzy). Zamiast dryllowac — odpuszcza lekcje, grzeje go i karmi. Lekcja odlozona, ale wiez trzyma przez troske (nie litosc — praktyczna pomoc). Nast 35 bez zmian. Podkreśla, PO CO opal dla Septy. Wrazliwe wciaz odciete. || d23 (rzut 69): Symon zaprasza go do roboty W SEPCIE — w rejestrze PRACY (cieplo, realna robota pisarska dla Owena, strawa z uczciwego trudu), NIE litosci. Hal lapie roznice i przyjmuje chetnie: godnosc caly, glod-by-znaczyc nakarmiony. Wiez odbita po wczorajszym dolku i glebnie (nast 35->37, zaufanie +2). BONUS: septa zyskuje pismienna reke pod zimowy nawał (ksiegi jalmuzny/listy ubogich) — Owen rad. Wrazliwe wciaz odciete; ksiegi septy to bezpieczna robota. || d23 POLUDNIE (rzut 45): solidna nauka przy ksiegach jalmuzny — najedzony/rozgrzany pracuje dokladnie i z uwaga. Symon wplata PIERWSZA CICHA LEKCJE DYSKRECJI w bezpiecznym polu: nazwiska na liscie jalmuzny to czyjas bieda i wstyd; skryba, ktory trzyma jezyk za zebami i twarz zyczliwa, wart wiecej niz szybki gadula. Hal lapie (dyskrecja = znak prawdziwego fachowca, karmi jego glod-by-znaczyc). Nast 37->38. Proba dyskrecji: trend dobry, pole bezpieczne. || d26 (rzut 70): Symon NAJPIERW nakarmil (nauka po tamtym zmarznietym dniu), potem pokazal zaawansowane ciekawostki (glebsza braavijska podwojna ksiegowosc, logika audytu, jak liczby odslaniaja prawde) — TEORIA, zero sekretow. Najedzony Hal blyszczy: chlonie szybko, sypie trafnymi pytaniami, glod-by-znaczyc nasycony przez prawdziwa nauke. Wiez i zaufanie glebnie (nast 38->40, zauf +2). Trial wyraznie mocny — zbliza sie moment na POSZERZENIE NIE-wrazliwej odpowiedzialnosci (wlasne prowadzenie fragmentu ksiag septy/kantoru pod okiem). Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d27: bierze udzial w rundzie reliefowej — patrzy i pomaga, jak Symon SPINA cudze zasoby w dobro przez Wiare (ten sam model co opal, ale dla glodnych). Lekcja: organizowanie > wlasna kieszen; dobro tez sie 'brokeruje'. Nast ->41. || d29 (rzut 4): Symon spytal, czym chcialby sie kiedys zajmowac — i trafil w RANE, nie w marzenie. Dla sieroty bez nazwiska/ojca 'kim chcesz byc' to nie zaproszenie, lecz przypomnienie, czego miec nie moze; MARZENIE jest dla niego zakazanym luksusem, hope wybita. Hal spial sie, blysnal stara hardoscia ('a co to komu, ludzie jak ja nie wybieraja'), zamknal sie. Symon (spryt8, sam nosil te rane) PRZECZYTAL to i NIE naciskal — zostawil, rzucil tylko jedno ciche prawdziwe zdanie (ze chciec nie jest glupie; ze sam byl nikim, co chcial) i zostawil drzwi uchylone. Nast 42 bez zmian (obszedl sie z tym dobrze, brak szkody). WAZNA WIEDZA O HALU: jego glod-by-znaczyc jest SPLECIONY z lekiem/wstydem, ze w ogole wolno mu czegos chciec — do marzenia trzeba go dopiero DOPUSCIC powoli, nie wyciagac na sile. || 11-03 (rzut 94): wybitna sesja prawa — Hal chlonie logike umow blyskotliwie, widzi, jak prawo moze CHRONIC slabych (spina sie z wartosciami Symona). I rzecz wazna: przez ROBOTE, nie wypytywanie, chlopak SAM uchyla drzwi z d29 — mid-lekcja pyta cos, co zdradza, ze zaczyna wyobrazac SIEBIE jako kogos, kto moglby tym wladac ('a taki spis... moglby spisac ktos jak ja?'). Dream-wound zaczyna sie goic NA JEGO warunkach, przez kompetencje nie litosc. Wiez/zaufanie mocno w gore (nast 42->45, zauf+2). GOTOWY na wlasny fragment NIE-wrazliwej odpowiedzialnosci pod okiem. Wrazliwe wciaz odciete. || 11-04 (rzut 37): dostal WLASNY fragment ksiegi jalmuzny septy pod okiem (Symon+Owen) — bezpieczna, odcieta domena (wg rady Nesty; NIE kantor). Wzial to dumny i pilny, ale z goraczkowym przejeciem nowicjusza (drobna rysa pierwszego dnia, prowadzona) — wlasnie dlatego nadzor. Milestone ZREALIZOWANY: pierwsza prawdziwa odpowiedzialnosc, glod-by-znaczyc karmiony realnie. Nast 45->47, zauf+2. Proba dyskrecji trwa w bezpiecznym polu. Wrazliwe wciaz odciete.",
    "rok_urodzenia": 283
@@ -1483,12 +1483,12 @@
    "przydomek": "stary",
    "zawod": "stary sluga ze Starego Zamku Locke; jedyny zyjacy swiadek rejestru (korroboracja Rymana)",
    "mieszka": "cela_przy_Sepcie (piecza Wiary)",
-   "nastawienie_do_gracza": 5,
+   "nastawienie_do_gracza": 7,
    "zaufanie": 4,
    "wie_o_graczu": [
     "mlody Symon uczyl sie u maestera Aemona"
    ],
-   "ostatni_kontakt": "296-10-17 (zmarl)",
+   "ostatni_kontakt": "297-10-06",
    "cechy_mowy": "stary, gadatliwy, myli watki; slaby glos",
    "status": "POZA ZEZNANIEM, UMIERA/ZMARL (296-10-17, rzut 5): umysl odplynal zanim Symon zdazyl. Martwy watek.",
    "NIE_ZYJE": true,
@@ -2025,9 +2025,9 @@
    "stan": "sierota/czeladnik",
    "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
    "mieszka": "izba_3_kamieniczki_Symona — dokwaterowany do Hala (\"za Halem\"), od ~297-06 (przeprowadzka z celi septy). Dwaj czeladnicy-klerkowie Symona (Hal+Wick) pod jednym dachem, pod jego okiem.",
-   "nastawienie_do_gracza": 73,
+   "nastawienie_do_gracza": 75,
    "zaufanie": 27,
-   "ostatni_kontakt": "297-08-12 - dostal profesjonalne narzedzia (08-11) + wspol-udoskonalil proces firmy (08-12); ceniony i wyposazony, lojalnosc rosnie. Nast 70->73, zauf 25->27.",
+   "ostatni_kontakt": "297-10-06",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
@@ -2116,9 +2116,9 @@
    "wiek": 13,
    "stan": "sierota (szkolka Owena)",
    "zawod": "NOWY junior firmy Symona (od 07-28, pod Halem) - bystry z literami/liczbami, cichy, wszystko-notujacy, DYSKRETNY+LOJALNY (Owen: 'nie wygada sie, cichy jak grob'). Idealny do wrazliwej roboty.",
-   "nastawienie_do_gracza": 70,
+   "nastawienie_do_gracza": 72,
    "zaufanie": 24,
-   "ostatni_kontakt": "297-08-20 POPOLUDNIE (rzut 95) - PRZELOM Tama: ucząc sie naturalnie w tempie praktyki (nie forsownym drylem), SAM wychwycil rozjazd w ksiegach - lapie OSAD, wyrasta na weryfikatora. Cierpliwosc/narzedzia zaplacily nie napor. Nast 66->70, zauf 19->24.",
+   "ostatni_kontakt": "297-10-06",
    "nota": "Perla (rzut 98). Sierota jak Hal/Symon. Lancuch mentorstwa: Hal go uczy. Dyskrecja>talent - kluczowe przy firewallu.",
    "rok_urodzenia": 284
   },

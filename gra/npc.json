@@ -2107,8 +2107,9 @@
       "imie": "Merrek",
       "rola": "kupiec Bialego Portu (glowny towar poboczny; nadwyzka soli/zboza)",
       "nastawienie": 70,
-      "zaufanie": 43,
-      "ostatni_kontakt": "297-09-07 POLUDNIE (rzut 57) - dostarczyl lot soli/zboza PELNY I DOBRY, co do ziarna (dowoz lokalny mimo mrozu). Symon zaplacil saldo 55 jel, sprawdzil sam. Merrek dotrzymal pod przymusem = PEWNY dostawca na przyszle zimy. Relacja umocniona. zauf 40->43. || 09-19: Merrek POLECIL firme drugiemu lokalnemu holderowi (Torwyn) - 'ci was nie scisna'. Fair-dealt dostawca stal sie PORECZYCIELEM. Reputacja uczciwa procentuje w sieci dostaw."
+      "zaufanie": 60,
+      "ostatni_kontakt": "297-09-28 (rzut 22->23->59) - pierscien probowal wykupic Merreka GROZBA (podpalenie skladu, 'szkoda by bylo gdyby czworgu dzieci cos sie przytrafilo'). Merrek przyszedl do Symona pierwszy (lojalnosc), ale strach > 2 dobre oferty; pekl i wyznal grozbe dopiero gdy Symon dal dosc zaufania. Symon obronil pelnym pakietem: udzial w podazy + underwriting + oslona widocznoscia ('samotny plonie po cichu, wspolnik firmy pod okiem Wiary - to skandal sciagajacy oczy kasztelu; oni tuczą sie na samotnych, ja sprawie ze przestaniesz byc samotny'). Merrek ODMOWIL pierscieniowi, zostal WSPOLNIKIEM, zwiazany wdziecznoscia gleboka. SWIADEK wymuszenia. nast 70->80, zauf 43->60.",
+      "nastawienie_do_gracza": 80
     },
     {
       "id": "ser_roldan_patron",

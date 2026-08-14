@@ -39,3 +39,10 @@
 - Rozszerzenie dzialajacego ukladu (np. wpiecie prowiantowania w skladki Aurane'a, ktory JUZ jest kregoslupem logistyki) => po prostu SUNIE do przodu, bez adwersaryjnego rzutu.
 - NIE karac gracza za dokladnosc/dodatkowe rozsadne kroki losowym negatywem. Dorzucenie sensownego kroku != trigger na zly rzut.
 - Sprawdzac CONTINUITY (co juz ustalone w plikach) zanim wygeneruje sie komplikacje sprzeczne ze stanem.
+
+## RYGOR ZIMOWYCH SZLAKOW (od 297-09-26, po kryt-mrozie zalamania konwoju Torwyna)
+- ZERO SKROTOW w mroz: 'twarda' droga klamie (przymarznięte oczka, podmokle laki, podmyty lod). Woz jedzie TYLKO trasa z zatwierdzonej listy, choćby dluzszej.
+- LISTA ZATWIERDZONYCH TRAS do kazdego zrodla (Merrek, Torwyn) i do kasztelu; Bran (zna doki/drogi) nanosi pewne/zakazane, Hal papieruje, kazdy furman dostaje.
+- TA SAMA KARTA dla SIECI RELIEFU (sanie Brana do zaulkow) - jeden rygor chroni zysk i biednych.
+- NIKT SAM w najgorszy mroz: para wozow albo czlowiek z tylu na linie (dzis to uratowalo furmana - od teraz regula, nie szczescie).
+- Zasada nadrzedna: katastrofie zapobiega sie miesiacami wczesniej (przezornosc), nie w dniu uderzenia. Roznica miedzy dobrym sercem a dobrym rzadem.

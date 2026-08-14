@@ -6531,3 +6531,6 @@ NOWY WAGE LINE ~17 jel/mies (bez prowizji Lorrena). Payroll firmy ~PODWAJA sie (
 
 ## 297-10-05 NOC — sen u Miry (dzien zamkniety spokojnie)
 Dzien profesjonalizacji domkniety: firma OBSADZONA (Deman/Lorren/Garrick, realny payroll ~17 jel/mies, setup -18, kasa 278), rysa z Wystanem/szmerem zagojona narada z Mira (growth=partnerstwo, siec+standing), lekcja pedu przyswojona za trzecim razem. Symon spi u Miry spokojnie, pierwszy raz od tygodnia nad niczym nie czuwajac. 8 dni do slubu. -> 297-10-06 RANEK.
+
+## KOREKTA CIAGLOSCI (imie) — sierota-analityczka to NYRA, nie Wenda
+Blad MG: na 297-10-04/05 nazwalem 12-letnia sierote-kandydatke na analityka 'Wenda' - koliduje z ustalona Wenda (44, przekupka rybna z Targu Rybnego, obronczyni Symona, wezel counter-whisper w dole, rodzina Bess/Dake, gosc na weselu). POPRAWKA: sierota-analityczka = NYRA (~12, sierota z sierocinca Owena, bystra w cyfrach, dyskretna; lead Owena z 10-04, do wychowania model-Hala, docelowo pod Demanem). Wszystkie forward-facing odniesienia (swiat, npc Deman) juz poprawione na Nyra. Wpisy historyczne 10-04/10-05 zawieraja stare imie 'Wenda' w kontekscie analityka - czytac jako NYRA.

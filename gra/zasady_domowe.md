@@ -53,3 +53,10 @@
 3. Miesiac bez nadwyzki = relief kurczy sie do tego co na reku; nie zadluzac gwiazdy.
 4. Wspolfinansowanie Wiary (Owen) odciaza rezerwe.
 Zasada nadrzedna: dawac z owocu nie z korzenia; drzewo co zjada wlasny korzen nie karmi nikogo. Trwalosc to tez milosierdzie. (Decyzja gracza 09-27 po uczciwym rachunku: relief nie oplaca sie kupcowi, oplaca sie czlowiekowi rady - ale tylko karmiony zyskiem, nie zamiast niego.)
+
+## GALKA DRAMATYZMU — operacyjne w tle, stawka pelnymi turami (od 297-10-05, decyzja gracza)
+- SPRAWY OPERACYJNE (najmy staffu, rutynowe ksiegi, dostawy, drobne zakupy, rozszerzenia zespolu) => ROZSTRZYGAC LEKKO: jeden akapit/montaz, minimum kosci, koszt+efekt i dalej. NIE robic z tego wielosceniowego luku fabularnego.
+- SPRAWY O STAWCE (polityka/lord, zagrozenia zycia/reputacji, relacje-progi, slub, karta Antaryona/firewall, wielkie interesy) => pelne prowadzenie turowe z rzutami.
+- NIE naciagac motywow gry (firewall, 'niewygodny swiadek', widocznosc, zawisc) na KAZDY drobiazg. Zwykly klerk to zwykly klerk. Czasem najem to tylko najem.
+- Nie mnozyc rzutow per pod-krok rutyny; jeden rzut na sprawe albo zero. Skrajne kosci przy rzeczach blahych = rozstrzygac proporcjonalnie, nie rozdmuchiwac do sagi.
+- Kontekst: 10-05 profesjonalizacja firmy (analityk/handlowiec/ochrona) urosla do 'wydarzenia miesiaca' przez rozbicie na 6-8 scen z kostka kazda; korekta na przyszlosc.

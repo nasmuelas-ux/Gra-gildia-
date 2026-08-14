@@ -2158,14 +2158,15 @@
     "popoludnie": "kontrakty",
     "wieczor": "dom"
    },
-   "nastawienie_do_gracza": 0,
-   "zaufanie": 0,
+   "nastawienie_do_gracza": 15,
+   "zaufanie": 8,
    "ostatni_kontakt": "297-10-05",
    "wie_o_graczu": [
-    "297-10-05: WYPLYNAL jako prospekt na handlowca-twarz firmy Symona. Szanowany, dobry zasieg (kregi ponad gburem: wyzsi kupcy/domy zamiejskie/drobne rody), ale jego kanal szedl przez dom zwiazany z upadlym pierscieniem (handlowo) i teraz dryfuje - uczciwie dostepny, szuka bezpiecznej przystani. NIE poznany jeszcze bezposrednio; do VETu (taint?) i do zaprojektowania terms (chce glosu nie tylko udzialu)."
+    "297-10-05: WYPLYNAL jako prospekt na handlowca-twarz firmy Symona. Szanowany, dobry zasieg (kregi ponad gburem: wyzsi kupcy/domy zamiejskie/drobne rody), ale jego kanal szedl przez dom zwiazany z upadlym pierscieniem (handlowo) i teraz dryfuje - uczciwie dostepny, szuka bezpiecznej przystani. NIE poznany jeszcze bezposrednio; do VETu (taint?) i do zaprojektowania terms (chce glosu nie tylko udzialu).",
+    "297-10-05 (Symon read rzut 67): spotkali sie osobiscie. Symon przeczytal: Wystan czysty od zbrodni (splot z upadlymi handlowy nie spiskowy, rachunek o sobie spina sie), zasieg realny (kregi ponad gburem), glod uczciwy (bez berthu, przestraszony, ceni solidny alignment=motywowany). RYZYKO: kupiec do szpiku, lojalnosc transakcyjna, mysli jak pryncypal - wpuszczony bedzie sterowal; gladkosc kontra cichy brand firmy. Wystan tez audytuje Symona (okret warty wejscia?). Werdykt: yes-ostroznie, terms musza go trzymac. nast 0->15 zauf 0->8."
    ],
    "cechy_mowy": "gladki, kupiecki, duzo nazwisk i koneksji w zdaniu - siła i ryzyko naraz",
-   "flaga": "PROSPEKT_HANDLOWIEC_niesprawdzony"
+   "flaga": "PROSPEKT_HANDLOWIEC_przeczytany: czysty od zbrodni pierscienia, zasieg realny, lojalnosc TRANSAKCYJNA, STEERING risk, styl-blysk vs brand-dyskrecja"
   }
  ],
  "orbita": [

@@ -1,16 +1,16 @@
 {
   "data": {
     "rok": 297,
-    "miesiac": 9,
-    "dzien": 30,
+    "miesiac": 10,
+    "dzien": 1,
     "era": "AC"
   },
   "pora": "RANEK",
   "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
-  "pogoda": "MROZ TRZYMA (rzut 29) - gleboka zima niezmienna, rzeka skuta, chlod zabojczy.",
+  "pogoda": "MROZ NAJCZARNIEJSZY (rzut 8, kryt) - rdzen zabojczej zimy: powietrze jak noz, rzeka skuta na kamien, trakty martwe. Opal/prowiant = zycie liczone na godziny dla nieprzezornych. Ale Symon: warrant lorda, redundantne zrodla, dojrzala siec reliefu - najlepiej ustawiony w miescie.",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
-  "nastroje_miasta": "297-09-30 NOC PRZELOMOWA: pierscien glodowy ROZBITY reka lorda Wymana (Aldric pojmany, Roldan/Rennifer zwinieci, Helyard zhanbiony, Pryor zbanowany, zapasy zajete->relief). Symon TALLY rozpoznany przez lorda Polnocy - ucho lorda, formalna rola zimowa pieczecia, wezwanie na przyszlosc, +50 jel. Gwiazda polnocna z marzenia w droge (pierwszy szczebel do Starkow przez Manderly'ego). Zdobyte czysto, w cieniu, przez maestera; firewall Antaryona nietkniety. Merrek+Torwyn wolni. Bilans jutro (~145-150+50=grubszy). Slub za 13 dni - teraz z triumfem w tle. Zima trzyma, ale miasto je (zajete zapasy w relief).",
+  "nastroje_miasta": "297-10-01 RANEK, Dzien Bilansu, nowy miesiac po przelomowej nocy: MROZ najczarniejszy (kryt 8), ale swiat TWARZA do Symona Tally. INBOUND 79 - miasto lgnie do firmy pod pieczecia lorda (jedyny pewny adres w rdzeniu zimy, po rozbiciu pierscienia ceny opadaja bo zajete zapasy w obiegu). INBOUND2 65 - krag cieply: lord zna imie, Theomore/Godric/Owen dumni, Merrek+Torwyn wolni i lojalni na zawsze. Symon 121 jel (Bilans dzis ~+147 -> ~268), rola zimowa warrant lorda, ucho lorda, 12 dni do slubu. Pierscien rozbity, firewall bezpieczny.",
   "ceny": {
     "chleb": {
       "baza": 3,

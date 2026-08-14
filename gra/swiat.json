@@ -2,20 +2,20 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 2,
+  "dzien": 3,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": "MROZ ZELZAL z rdzenia (rzut 46) - wciaz twarda zima, ale nie zabojcza; najczarniejsze przeszlo, trakty znosne.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": 6,
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-02 NOC (koniec dnia, rzut 36): Symon wrocil do Miry i opowiedzial dzien jako 'MY' - audiencja u lorda (plan prowiantu zaadoptowany, zboze pierscienia w relief pod hojnoscia lorda, sciezka rady faktem) + firma (Hal stal sie operatorem, instytucja samodzielna, +22 jel). Wieczor cieply-zwyczajny (married grounding, nie prog): Mira uziemila ('nic sie nie zmienilo, wyszlam za CIEBIE'), wychwycila cien zawisci dworu (oczy ocalalych oficerow) - przestroga: 'badz uczciwy i nudny, nie daj im historii'. Dzien mocny i dobry domkniety we dwoje. 11 dni do slubu, mroz zelzal. -> 297-10-03 RANEK. Bilans byl 10-01 (nastepny 11-01). Watki zywe: sciezka rady (dowiedziona), zawisc dworu (nowe ziarno), slub 10-13, karta Antaryona/Bank (firewall), submisja Winterfell (uspiona).",
+ "nastroje_miasta": "297-10-03 RANEK (tik: POGODA 6 - ODWILZ SKONCZONA, mroz wrocil ZABOJCZY, jeden z najczarniejszych; INBOUND 46/45 - nic nie dobija do drzwi, sam mroz jest wydarzeniem). Krotka odwilz byla oddechem, nie wiosna - teraz zima uderza z powrotem pelna sila akurat gdy Symon dokonczyl fortyfikacje. TEST tego co zbudowal: dwa zrodla, rygor szlakow, rezerwa reliefu (nadszarpnieta), biurko Hala, warrant lorda plynacy. Systemy huczą ale mroz gryzie: rzeka znow twardo skuta, trakty niebezpieczne (rygor obowiazuje), popyt na zboze/opal/prowiant skacze, biedota w rdzeniu zimy zagrozona. Doktryna z wczoraj (Mira): 'uczciwy i nudny, nie daj dworowi historii'. Port cichy (mroz). Symon 302 jel, warrant lorda, 10 dni do slubu (10-13). Zywe: sciezka rady (dowiedziona), zawisc ocalalych oficerow (ziarno), firewall Antaryona, submisja Winterfell (uspiona), Bilans 11-01.",
  "ceny": {
   "chleb": {
    "baza": 3,
-   "mnoznik": 1.3,
-   "przyczyna": "mroz + panika zapasowa, zboze drozeje"
+   "mnoznik": 1.25,
+   "przyczyna": "gleboki mroz, logistyka zboza dlawiona kra"
   },
   "ryba": {
    "baza": 2,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.7,
-   "przyczyna": "MROZ KTORY ZABIJA - opal to zycie, cena skoczyla; popyt rozpaczliwy"
+   "mnoznik": 1.6,
+   "przyczyna": "mroz wrocil zabojczy - popyt na opal skacze"
   },
   "wino_korzenne": {
    "baza": 5,

@@ -2,40 +2,87 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-06-25 POPOLUDNIE · przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja
+- **Data:** 297-10-02 RANEK · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
-- **Postac:** Symon, l.21 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
-- **Mieszka:** WLASNA izba 4 w swojej kamieniczce przy Schodach (od 297-04-04) - PIERWSZE WLASNE LOKUM. Dozorca Bran on-site, lokatorzy: Jonna(izba1)/Osric(izba2)/Hal(izba3); ogrodek. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (warunek Owena: trzymac wiez, oslona firewalla przy zywej karcie Antaryona).
-- **Nastroje:** 297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien
+- **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
+- **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
+- **Nastroje:** 297-10-02 RANEK: INBOUND2 91 (blisko kryt) - WEZWANIE LORDA. Wyman Manderly przyslal po Symona Tally, tak jak zapowiedzial ('przyjdziesz gdy po ciebie posle'). Household lorda okrojony (Aldric w celi,
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 22 jeleni + 6 mied + 0 smokow
-- kwit depozytowy u Nesty (70 jel)
-- Zdrowie 100 · Sytosc 46 · Zmeczenie 30
+- **Wolne:** 280 jeleni + 1 mied + 0 smokow
+- depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
+
+## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
+- Weksle / mostek-kredyt NIEZABEZPIECZONE: 200 jel u dluznikow (DOLOZONE +100 dnia 09-07; wczesniej ~100). Procent dochodowy, popyt na mostek staly przed zima; rolluja/splacaja. [ODREBNIE: pozyczka ZABEZPIECZONA 50 jel pod zastaw - patrz pozyczka_zabezpieczona.]
+- Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18). INTAKT - oddzielna od weksli niezabezpieczonych.
+- Rotacja faktorii Nesty (zboze-sol): 400 jel w obrocie (DOLADOWANE 09-07 do pelnej 400 z ~357, +43 z kasy; reconcile dryfu 335/347/357 -> 400 twarde). W wiekszosci kapital Symona + equity core-faktorii. Plon per zamkniety cykl (~15-25 jel, czesc do kasy jako zwrot wlascicielski, czesc reinwest). Sprawdzony filar kapital-light-ish. Zimowy popyt tailwind. || 09-18: cykl rzut 40 - popyt wysoki (mroz) ale zamarznieta logistyka zjada czesc premii; plon ~18 jel: 14 do kasy (140->154), 4 reinwest (rotacja ~404). Lokalne zrodlo=przewaga gdy inne stoja.
+- Drewno-marza (Bennet->broker->zamek): umowa OPIECZETOWANA 07-18, SKALOWANA 07-18 (rzut 63). Godric zakontraktowal wiekszy wolumen budowlany na sezon; Bennet podniosl scinke. Przepustowosc filaru ~1.5x - najwiekszy strumien marzy (per dostawa). DOSTAWA BENNETA = BEZPOSREDNIO LADEM (dostawca lokalny), BEZ WODY - NIE zalezy od kanalu Bialego Noza ani przewozu rzecznego. REALNY SUFIT SKALOWANIA = pojemnosc scinki Benneta + przewoz LADOWY (wozy/woly, stan drog; wiosenne bloto obsycha = lepiej). Kapital-light (pre-sold off-take zamku). Ksieguj marze per dostawa. [UWAGA: ubezp-tranzyt WODNY dotyczy rotacji faktorii, nie tego filaru] [07-24 rzut 67: EKSPANSJA na ZDROWEJ bazie - Bennet SAM inwestuje w pojemnosc (rece+zaprzeg) przeciw gwarantowanemu off-take zamku; Symon koordynuje + obiecuje staly kontakt (lekcja: pielegnowac baze). Pojemnosc narasta ~kilka tyg (rece/wozy/schniecie drog) -> filar rosnie dalej, kapital-light, reliability chroniona.]
+- Firma faktorska ZAREJESTROWANA (07-01): legalny byt, Symon 2/3 udzialu + kontrola + neutralna twarz; Nesta cichy backer (1/3, imienia brak na rejestrze); czeladnicy Hal/Wick. +1/3 z transakcji w kantorze.
+- Wspol-underwriting tranzytu (compound Nesty): ~185 jel na ryzyku (podniesione 08-18 z 150 o +35 - KROK nie sus, sierpniowy plan wykonany). Z NAROSLYCH SKLADEK (compound skim=rezerwa) + kapital pool Nesty, LEKKO dla wolnej kasy Symona. Model DWUKROTNI || 09-29 SZKODA (rzut 17): zima zatopila ubezpieczona barke pod lodem - wyplata ~50 (skladka okresu ~30, netto ~-20). Pula ~185 dented ale zywa, model dziala dalej. Szkoda zaplacona uczciwie od reki = reputacja underwritera co dotrzymuje. Rozliczenie w Bilansie 10-01.
+- Retainery firmy (staly przychod, Hal rutyna + pieczec Symona): AURANE (premium) + FAKTORIA Nesty (weryfikacja, pole rampu Hala) + BLOK-RDZEN (Aldous+Harlon, weryfikacja=grosz+cement obrony; rosnie od jadra). Firewall-czyste. Dochod niezalezny od godzin.
+- Udzial w wykupie dlugu Aldousa (~28 jel, blok): fair refinance - Aldous winien blokowi na przyjacielskich warunkach (odzyskiwalne, nie strata).
+- Prowiant-marza (Merek->broker->zamek): DRUGI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 66). Merek dostarcza, Symon koordynuje, zamek bierze INKREMENT SEZONU BUDOWLANEGO (prowiant dla ekip - baseline zamku zostaje u obecnych, Symon lapie sezonowy surge). Marza per dostawa (cienszy staple niz drewno, ale recurring), kapital-light (pre-sold). Roznicznik Symona = oko jakosci/pewnosc (graded, niezawodny prowiant dla budowy). Ksieguj marze per dostawa. [07-22: HARLON (solarz/zapasy) dodany jako 2. wezel podazy obok Mereka - sol+suchy prowiant, filar robustniejszy/skalowalny]
+- Zelazo/okucia-marza (Gulltown->Boren->zamek): TRZECI filar zaopatrzeniowy zamku ZLOZONY 07-20 (rzut 82). Popyt: zamek na budowe (gwozdzie/okucia/zelazo, Torhen/Godric); Zrodlo: korespondent Gulltown (tanie u zrodla, trasa wschodnia Bite/Gulltown); Obrobka: Boren/kolodzieje (raw->okucia, zyskuja tanie zelazo); Symon koordynuje/skim. KAPITAL-LIGHT: off-take zamku (pre-commit) + komis/kredyt korespondenta = niski cash Symona. Marza per partia (grubsza niz prowiant/staple). 1. partia = LEAD TIME ~1-2 tyg (trasa wschodnia, zalezna od pogody - wiosna lepsza). Pasywny bleed Antaryona trwa (graded supply off jego frachtu).
+- Logistyka/sztauowanie: skladki portowe AURANE'A jako kregoslup operacji (07-25) - miejsce sztauowania 3 filarow zamkowych (drewno/prowiant/zelazo) + przeladunek korytarza sukna + bufor arrivals. Aurane pelne magazyny+dochod, Symon pojemnosc (de-ryzykuje filary+korytarz). Bonus: Aurane dzieli sie wgladem w przeplywy portu (kto co magazynuje). Partnerstwo, nie audyt. || 09-19: wpieto PROWIANTOWANIE (sol Merreka + zboze Torwyna) w istniejaca pojemnosc Aurane'a - gladkie rozszerzenie kregoslupa (partner, retainer). Stock zesztauowany W PORCIE, gotowy do wydania = dostawa zelazna, mimo skutej rzeki. Pojemnosc starcza na biezaca polowe I zapas pod SKALOWANIE (wchlonac polowe rywala gdy padnie). Storage ROZWIAZANE.
+- Korytarz braawijski (ZYWY 07-26): zintegrowany kanal - sukno IN (Leona wolumen+klienci / Mira nisza+dojscia+weryfikacja, oslona Leony spisana) -> Nesta faktoruje -> skladki Aurane; bursztyn/futra OUT do Braavos (zysk dojrzewa tyg). Symon spina+marza koordynacyjna. Recurring. Pierwsza prowizja +5 jel. || 09-09: ZYSK DOJRZAL - partia bursztynu/futer OUT do Braavos sprzedana (przez kanal Nesty), payout ~50 jel do kasy (58->108). Grey, firewall-czyste.
+- ZRODLO ZIMOWE MERREK: lot (koszt 90 = 35 zadatek + 55 saldo) sprzedany w prowiantowanie zamku przez Hala 09-07 za ~112 (koszt 90 + marza 22, uczciwa zimowa stawka). KOREKTA 09-07 WIECZOR: pierwotnie zaksiegowalem tylko +22 marzy, gubiac 90 zwrotu kosztu; poprawione +90 do kasy. Merrek=pewne zrodlo n || 09-28: pierscien probowal wykupic Merreka GROZBA (podpalenie skladu, krzywda 4 dzieci). Symon obronil PELNYM PAKIETEM (udzial w podazy + underwriting + oslona widocznoscia: ludzie Brana pilnuja skladu, oko Wiary). Merrek ODMOWIL pierscieniowi, zostal WSPOLNIKIEM zimowej podazy (nie dostawca). SWIADEK wymuszenia. nast 70->80, zauf 43->60.
+- CICHY KLIENT (od 09-05, przez Hala/firme): grubszy dom handlowy - Symon wykryl przeciek w ich zimowych kontraktach zaopatrzeniowych, odzyskal marze. Tlusta zaplata 32 jel + STALA cicha obsluga ksiag (powracajacy grey-stream). Blask bierze HAL (jego imie rosnie jako operator - bezpiecznie); Symon banknuje niewidzialnie. Dowod: prosperuje w cieniu bez podnoszenia sie. || 09-06: cykl obslugi rzut 64 - spokojna zaplata ~12 jel (kasa 125->137). Hal ogarnia coraz wiecej sam (reka Symona coraz krocej potrzebna). Strumien kapie niewidzialnie. || 09-14: crit dzien (rzut 90) - strumien + kolejne polecenie przez Hala, tlusta partia +28 jel (kasa 112->140). Reputacja firmy w cieniu procentuje sama; blask na Halu.
+- OPIECZETOWANE WARUNKI warrantu prowiantowania (09-13, rzut 95 KRYT): majstersztyk - wolumen co do worka pod pojemnosc (Merrek za nim), uczciwa zimowa cena (dobrze dla zamku, marza dla firmy), terminy z zapasem na mroz+kontyngencja (lokalne zrodlo dowozi gdy trakt staje), klauzula etapowania de-ryzykujaca obie strony=firma niezastapiona. GOTOWE, silny atut. Do przedstawienia przez Mire u stewarda. || 09-15 (rzut 94 KRYT): GWARANCJA DOSTAWY zaszyta jako BRON - harmonogram etapowy z KARA NA SIEBIE (firma placi/przepada jesli nie dowiezie w oknie) + klauzula pochodzenia (towar lokalny nazwany) + kontyngencja przedluzonego mrozu. Rywal NIE moze skopiowac (kara na dostawe zza skutej rzeki=samobojstwo). Kontrakt=pulapka na rywala. Killer-linia: 'spytajcie ich czy podpisza kare za niedostarczenie; my podpiszemy'.
+- ATUT KONTRY (09-17): niezalezny maesterski rachunek ryzyka Theomore - kwantyfikuje, ze dostawa zza skutej rzeki utyka/niepewna a lokalna pewna; wniosek: tylko pewna lokalna reka zabezpieczy zimowy chleb Polnocy. Neutralny=wiarygodny. Daje stewardowi face-saving ('poszedlem za maestrem'), grunt pod prong Godrica (nosic wyzej) i Owena (Wiara).
+- DRUGIE ZRODLO ZIMOWE (Torwyn, holder zboza, 09-19): przez polecenie Merreka ('ci was nie scisna')+siec Miry, uczciwe warunki. Zadatek ~15 jel (kasa 154->139). REDUNDANCJA: dwa lokalne zrodla pod gwarancja z kara = nie single-point-of-failure + pojemnosc DO SKALOWANIA (wchlonac polowe rywala gdy padn || 09-28: pierscien grozil Torwynowi (jak Merrekowi); slabsza wiez (zauf25, tydzien) - PEKL czesciowo NIM Symon dojechal: wzial zaliczke, obiecal im 1/3 zboza (stracone, nie cofniesz slowa danego podpalaczom). Symon uratowal RESZTE (2/3) + Torwyna wzorem Merreka: wspolnik/underwriting/ochrona. nast 60->68, zauf 25->42, pierwszy korzen lojalnosci. Oba zrodla utrzymane, cieńsze o 1/3. DRUGI swiadek wymuszenia.
+- SIEC RELIEFU ZIMOWA - DOJRZALA (09-24, domowiona z Owenem): model = REJESTR POTRZEBY septy (triaz: kto najslabszy, nie kto pierwszy) -> Bran DOWOZI DO DRZWI cicho, stala porcja, z listy (zaden woz na widoku, brak kolejki=brak tloku). Rezerwa pod PODWOJNYM OKIEM (Symon+Wiara), osobna ksiega, odbudowywana stopniowo, nietykalna. KLUCZ: caly relief pod MANTIA WIARY - 'Wiara karmi ubogich, wspierana przez godnych ludzi miasta', nie 'firma rozdaje'. To (a) rozbraja spin pierscienia (cichej koscielnej jalmuzny nikt nie przekreci w 'awanture firmy'), (b) +1 warstwa firewalla (uczynki tarczy slabych pl || 09-27: rezerwa ODBUDOWANA ~w POLOWIE (dokup od Merrek+Torwyn, wolne szlaki=jedno okno=pol tego c || 10-01 REZERWA doładowana z ODPISU NADWYZKI Bil || 10-01 (Mira+Bran, rzut 78, mroz kryt-8): siec trzyma jak nigdy - plynie przez nia ZAJETE ZBOZE PIERSCIENIA (glodowy skup obrocony w chleb), dociera do kranców, NIKT OSIAGALNY NIE MARZNIE w rdzeniu zimy (Osfryd/praczka bezpieczni). Instytucja nakarmiona lupem pokonanego wroga; Mira dyryguje, Bran dowozi. Trzy mogile byly rana, dzis system ratuje.
+- DOWOD WARTOSCI REDUNDANCJI (09-26, kryt 5): mroz zalamal konwoj Torwyna, ale drugie zrodlo (Merrek) przejelo castle-dostawe - seria bezbledna trzyma. Operacja jednego zrodla PADLABY dzis przed kasztelem (dowod dla Aldrica). Dwa zrodla = roznica miedzy niezastepowalnoscia a upadkiem, zobaczona na zywo. Koszt -14 jel + czesc batcha. RYGOR: furmani trzymaja pewne szlaki w mroz, choćby dluzsze. || RYGOR SZLAKOW spisany 09-26 (zasady_domowe): zero skrotow, lista tras, para/lina, ta sama karta dla dostaw i reliefu. Nauka zakuta w system.
+- MERREK WSPOLNIK ZIMOWEJ PODAZY (od 09-28): z dostawcy w udzialowca - udzial w podazy + underwriting jego bytu + ochrona (widocznosc: ludzie Brana na skladzie, oko Wiary/firmy). Zwiazany wdziecznoscia (Symon stanal miedzy jego rodzina a grozba pierscienia). SWIADEK: pierscien grozil mu podpaleniem i krzywda dzieci. Koszt: udzial+underwriting exposure+ -8 jel oslona.
+- OSLONA (postawiona 09-28, rzut 81): warta ludzi Brana NOCA na skladach Merreka+Torwyna + fire-prewencja (woda/piasek, uprzatniete podpalki), oko Wiary (septy=obcy nie przejdzie), zyczliwosc portu. KLUCZ: pre-zatrucie broni - Godric i Theomore UPRZEDZENI ze dostawcy grozeni i 'wypadek'=pierscien; podpalenie staje sie samobojstwem (spodziewana zbrodnia wskazuje na nich u uszu ktore zaczynaja sluchac). Deterrent wysoki, prawdopodobny cios (pozar u wspolnika) WPOL ROZBROJONY zanim padnie. Symon+Mira: czujnosc, ludzie Brana blisko, nie sami po zmroku. Trwa do dnia ciosu.
+- PROWIANTOWANIE ZIMOWE ZAMKU - FORMALIZOWANE PIECZECIA LORDA MANDERLY (297-09-30): to co Aldric blokowal, lord nadal sam pelnym warrantem; firma bierze zimowe prowiantowanie zamku pod pieczecia Manderly'ego. Drzwi, ktore wrog trzymal, otworzyl LORD. Niezastepowalnosc formalna, nie tylko de facto.
+- UCHO LORDA WYMANA MANDERLY (od 297-09-30): lord zna imie Symon Tally DOBRZE i z szacunkiem (rozdal chwale zamiast zagarnac); drzwi domu lorda uchylone dla nieszlachcica; wezwanie 'przyjdziesz gdy po ciebie posle'. PIERWSZY prawdziwy szczebel drabiny do rady Starkow (Manderly=najpotezniejszy chorazy Starkow). Gwiazda polnocna z marzenia w droge.
+
+## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
+- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-11-01 (ostatni: 10-01 (WYKONANY: domkniecie 08-01->10-01, 2 mies; brutto ~185, minus podatek ~18, minus odpis reliefu ~20 -> netto do kasy +147))
+- _Cykliczne (zmiatane w Dniu Bilansu):_
+    - draw_wspolnika_nesta: Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.
+    - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
+    - oplaty_retainerow_udzial_symona: Retainery firmy 18 jel/mies brutto (6 retainerow) - place/udzialy zespolu (Wick wage + TAM nowy junior wage + HAL teraz na UDZIALE nie pensji) ~ firma netto; UDZIAL SYMONA ~7 jel/mies. STRUKTURA od 07-28: Hal PROWADZI biurko na UDZIALE (fosa=interes wspolny, per Nesta), Tam junior pod Halem. Capacity odblokowane - firma moze brac wiecej retainerow.
+    - skladowanie_zimowe_kupcy: NOWY (297-09-23, owoc reputacji posztormowej, rzut 71): 3 porzadnych kupcow (2 drobnych + 1 sredni faktor solno-zbozowy) zlozylo zapasy pod rygor firmy w magazynach Aurane'a. Zadatki wziete od reki (+ || 10-01 (rzut 64, pod PIECZECIA LORDA): napor miasta = firma WYBIERA kogo obsluzyc; nikt nie podcina (podciac firme pod pieczecia lorda=narazic sie lordowi). Niezastepowalnosc FORMALNA. Nowe zimowe kontrakty, +12 jel zaliczki, skala rosnie dominujaco.
+- _Per-zdarzenie (ksiegowane przy zdarzeniu):_
+    - drewno_marza: NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)
+    - weksle_procent_i_zwrot: 200 jel niezab.(procent) + 50 jel zab.(kapital+procent). Procent per cykl; kapital gdy dluznik splaca zamiast rollowac.
+    - plon_rotacji_faktorii: 400 jel w obrocie zboze-sol; plon per ZAMKNIETY cykl/batch. Ksieguj przy zamknieciu batcha (zimowy popyt tailwind).
+    - underwriting_skladka: Skim skladki z pool'u underwritingu (~185 jel na ryzyku po 08-18). Recurring premia per cykl zeglugowy; realizuje sie gdy cykl domyka.
+    - sol_spekulacja: parcela solna w kufrze Nesty - jednorazowa sprzedaz przy dobrym oknie cenowym
+    - prowiant_marza: Marza koordynacyjna z dostaw prowiantu Merek->zamek (sezon budowlany). Ksieguj per dostawa. Recurring, cienszy niz drewno.
+    - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
+    - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
+    - prowiantowanie_udzial_zima: Udzial w zimowym prowiantowaniu zamku (od 09-19, Mira-pryncypal/firma): margin per dostawa. Pierwsze partie bezbledne. Ksieguj per dostawa; rosnie, a przy klesce rywala moze wchlonac calosc.
+- _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
+- Zdrowie 99 · Sytosc 68 · Zmeczenie 0
 
 ## UMIEJETNOSCI (0-10)
-pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 8
-**Reputacja:** port 31 · schody_zamkowe 34 · cech_pisarzy -6 · wiara 84 · zamek 10 · cech_kolodziejow 40
-**Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU
+pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9
+**Reputacja:** port 35 · schody_zamkowe 38 · cech_pisarzy -6 · wiara 91 · zamek 13 · cech_kolodziejow 42
+**Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU; LICZBY UCZCIWE vs ZMYSLONE; JEDNOSTKA WOBEC KROLESTWA + POGODA POLITYCZNA; WLADZA NA POLNOCY / BIALY PORT; GOSPODARKA POLNOCY; TARCZA SLABYCH A ICH GODNOSC; POLNOC W KONTRZE DO REGIONOW / TRANSPORT; METODYKA AUDYTU JAKO POMOST; GRANICA PRAWA / SPRAWIEDLIWOSC BEZ DZWIGNI
 
 ## LUDZIE NA SCENIE (nast. do gracza)
-- **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 64
-- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 60
-- **Bran** (bran_tragarz) — dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/ · nast 87
+- **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 70
+- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 77
+- **Bran** (bran_tragarz) — dozorca kamieniczki Symona (od 297-02-10; wczesniej tragarz/ · nast 93
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 90
-- **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 33
+- **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 37
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
-- **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 90
+- **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 93
 - **Lorren** (lorren_lichwiarz) — lichwiarz spod Wilczego Legu · nast -4
 - **Harwin** (poborca_harwin) — poborca Cechu Pisarzy (egzekutor) · nast -14
-- **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 22
+- **Theomore** (maester_theomore) — maester lorda Wymana Manderly na Nowym Zamku; uczony, zna pr · nast 75
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
-- **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 71
-- **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 74
+- **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 81
+- **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 88
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 90
-- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 72
-- **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 55
-- **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 62
+- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 77
+- **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 61
+- **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
+- **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 0
+- **Ser Aldric** (ser_aldric_oficer) — oficer zaopatrzenia domu lorda Manderly (szczebel nad Godrik · nast 0
+- **Lord Wyman Manderly** (lord_wyman_manderly) — Lord Bialego Portu, najpotezniejszy chorazy Starkow; pozorni · nast 72
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark
@@ -53,12 +100,12 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `?` draw_nesta: Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt. || 297-02-19: ODPALIL - draw wspolnika 6 jel wpl
 - ◆ `?` harwin_zemsta_czujnosc: Harwin/Cech Pisarzy przegrali publicznie i zostali upokorzeni; przy przysiedze Harwin rzucil zawoalowana grozb
 - ◆ `?` podatek_miejski: Pierwsza miejska danina/podatek naleznny Symonowi jako mieszczaninowi (nowy staly koszt statusu). Kwota wg maj
-- ◆ `None` weksel_pilot_wynik: Termin pilotazowego weksla: kupiec Wend splaca, gdy wroca jego wiosenne naleznosci (statek+dluznik). Jesli spl
+- ◆ `SPLACONY (wiosenne naleznosci Wenda weszly)` weksel_pilot_wynik: SPLACONY - PELNY SUKCES (07-31 reconciliacja): Wend splacil pilotazowy weksel gdy wroly jego wiosenne naleznos
 - ◆ `?` polnoc_halvard_wiesci: Stan polnocnego kanalu (drewno/futra) niepewny: sroga zima w glebi Polnocy, Halvard (faktor Torsena na Bialym 
 - ◆ `297-03-25` dach_ukonczenie: Ukonczenie re-roofu kamieniczki przez Donnela (~10 dni roboty). Po nim: izba 3 pod wynajem = pelny dochod. Sal
 - ◆ `297-04-05` polnoc_pierwsze_tratwy: Pierwsze wiosenne tratwy Halvarda w dol Bialego Noza (drewno/skory/futra) gdy rzeka pusci calkiem. Podaz niena
 - ◆ `297-03-21` opal_korekta: Cena opalu/drewna opalowego spada z zimowego szczytu (odwilz + potwierdzona podaz Polnocy). Kto przetrzymal op
-- ◆ `297-03-27` braavijska_flotylla_sukna: Braavijska flotylla sukna spodziewana z pierwszym oknem pogodowym po odwilzy (cynk od Gartha + Leona). Na przy
+- ◆ `WESZLA 07-21` braavijska_flotylla_sukna: Braavijska flotylla sukna spodziewana z pierwszym oknem pogodowym po odwilzy (cynk od Gartha + Leona). Na przy
 - ◆ `297-03-27` izba3_najem: Izba 3 kamieniczki gotowa pod najem (po re-roofie). Znalezc STABILNEGO lokatora (rada Miry: dobry dlugotermino
 - ◆ `?` keystone_korroboracja_frachtu: 297-04-03: Theomore ODROCZYL droge lorda (rzut 39) - zada niezaleznej korroboracji frachtu (rzeczywisty ladune
 - ◆ `?` owen_grzeje_theomore: 297-04-03: Owen bierze relacje z maesterem Theomore na wlasna cierpliwa koscielna droge (tygodniami, Symon nie
@@ -75,6 +122,27 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `None` torhen_audyt: 297-05-09 (rzut 65): lead klient-establishment ZYWY, namierzony - zarzadca TORHEN (dom zaopatrujacy Nowy Zamek
 - ◆ `297-06-05` ksiega_kredytowa_zwrot: 297-05-14: Symon ulokowal 50 jel jako DWA WEKSLE (solidni dluznicy, dobry zastaw, dochodowy procent; podporka 
 - ◆ `None` kanal_polnoc_capacity: 297-05-15 (Torsen, rzut 39): KANAL POLNOCNY NEAR CAPACITY - sukces przeciazyl podaz. Sol Harlona + drewno na z
+- ◆ `PRZYZNANE 07-21` petycja_lord_przednowek: 297-06-26 ZAWIAZANY: PRZEDNOWEK dusi Septe - rejestry ubogich pecznieja, zapasy lekow/ziarna cienieja, prywatn
+- ◆ `?` bank_wazy_antaryon: 297-07-11: machina Banku URUCHOMIONA (spust pociagniety, nieodwracalne). Bank ostrozny - Antaryon to i jego kl
+- ◆ `UKONCZONY+DOSTARCZONY 07-23` agregat_dowodowy_zbieranie: Faktoria zbiera ksiegi retainerowe do agregatu dowodowego (trasa x okres x pasmo). Hal prowadzi zbieranie/prze
+- ◆ `ODPALIL-przyznane` lord_odpowiedz_petycja: Petycja przednowkowa WNIESIONA przez Owena (glos Wiary) do lorda Wymana, wsparta cicho przez Godrica. Odpowied
+- ◆ `otwarty` logistyka_ladowa_bennet_pulap: 297-07-18 (SKORYGOWANY): po skalowaniu dostaw zamkowych sufit wolumenu = POJEMNOSC SCINKI BENNETA + PRZEWOZ LA
+- ◆ `otwarty` torhen_kanal_zamkowy_zaopatrzenie: 297-07-18 (rzut 87): Torhen ocieplony (41->60/16->28) - z chlodnego retainera w sojusznika. Jako zarzadca domu
+- ◆ `URUCHOMIONE 08-09 przez firme/Hala (4. pasmo zamkowe, recurring ramp)` zamek_zaopatrzenie_ekspansja_lead: 297-08-09 RANEK (inbound 68): Godric (zarzadca zamku, 92/38) przez kanal brokerski - sezon budowlany wchodzi w
+- ◆ `ZLOZONY - dostawy sezonu` most_merek_zamek_prowiant: 297-07-18 (rzut 95): LEAD zbiegajacy dwa swieze watki - Torhen otworzyl intel procurementowy zamku (zamek potr
+- ◆ `DOSTARCZONA 08-06 - trzeci filar ZYWY, recurring; 1. marza +5 jel (cieńsza: demurrage+tlok)` zelazo_gulltown_budowlane_partia: 297-07-20: 1. partia zelaza/okuc pod sezon budowlany zamku zamowiona u korespondenta Gulltown (off-take zamku 
+- ◆ `do zniw (tygodnie)` relief_rozdzial_przednowek: 297-07-21: rozdzial reliefu lorda (ziarno/opal) administruje Wiara; Symon ustawil CZYSTY SYSTEM dystrybucji (r
+- ◆ `FINDING POTWIERDZONY - decyzja gracza pending` vox_audyt_follow: 297-07-22: audyt Voxa - potwierdzone ze strzyzony (sukno, miara/gatunek). NEXT: follow-up sesja domykajaca atr
+- ◆ `ZAMKNIETY 08-06 - oddany, oplacony (14 jel razem); koszt: widocznosc forensyczna +` premium_audyt_importer_wina: 297-08-05 (rzut 45, przez siec/Aurane): premium lead audytowy - zamozny importer wina/towarow zbytku z Gornego
+- ◆ `ZAMKNIETA POZYTYWNIE 08-07 - dlug zrestrukturyzowany, nadmiar darowany, wdowa bezpieczna` sprawa_wdowy_rybi_zaulek: 297-08-04 (rzut 27): Torren podsunal sprawe ubogiej wdowy z Rybiego Zaulka - metny dlug po mezu u drobnego lic
+- ◆ `WCHODZI NA OBROTY (08-13) - druga druzyna/wozy online, pojemnosc up` bennet_ekspansja_ramp: 297-07-24 (rzut 67): ekspansja dostaw drewna na zamek na ZDROWEJ bazie. Bennet sam dobiera rece + zaprzeg prze
+- ◆ `WSPOLPRACA KRZEPNIE - krok do stewarda GATED (dojrzec: cykle+wyniki+przygotowanie)` theomore_prowiantowanie_zamku_zaproszenie: 297-08-16 RANEK (inbound 73): Theomore, wciaz obracajac wczorajsza rozmowe (rzut 96), przyslal note przez sluz
+- ⚠ `PRZETRWANY DOBRZE 08-17 (rzut 85)` sztorm_0817_ekspozycja: 297-08-17 RANEK (pogoda 2 + inbound 88): CIEZKI wiosenny SZTORM uderza w wybrzeze/tory zeglugowe. EKSPOZYCJE S
+- ◆ `ROZWIAZANE PRZEZ ZAULEK 08-18 (biedni zadbali o biednych)` dake_lodz_pomoc: 297-08-17: sztorm rozbil lodz Dake (mlody rybak, maz Bess=wnuczka Wendy). Symon chcial pomoc jako WEDKA nie ja
+- ◆ `ZAPLACONY 08-22 (-8 jel, w terminie)` podatek_miejski_inbound: 297-08-19 (audyt gracza): podatek miejski to periodyczny obowiazek mieszczanina (kwota/termin wg kalendarza), 
+- ◆ `ZAMKNIETY 08-20 (rekoncyliacja dostarczona, +7 jel)` aurane_audyt_posztormowy: 297-08-20 RANEK (inbound 71): AURANE przyslal sluzacego - po sztormie jego sklady to chaos ksiegowy (masa ladu
+- ◆ `297-10-13` wesele_symon_mira: WESELE Symona i Miry - Dzien Matki, udziela Owen; swiadek Aldous; wspolnota dol+krag+partnerzy+Serla. Marriage
+- ◆ `297-09-30` trop_principal_pierscien: DOJRZALY WCZESNIEJ (INBOUND2 96): agresywny skup pierscienia rozswietlil slad; Nesta PRZELAMALA low i ma IMIE 
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

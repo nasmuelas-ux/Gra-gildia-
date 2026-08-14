@@ -14,6 +14,39 @@ npc, wa = L("npc.json"), L("watki.json")
 
 d = s.get("data", {})
 data = f"{d.get('rok','?')}-{d.get('miesiac','?'):0>2}-{d.get('dzien','?'):0>2} {s.get('pora','?')}"
+
+# --- STARZENIE: wiek wyliczany z kalendarza (rok_urodzenia + data_urodzin) ---
+# Dzieki temu wszyscy starzeja sie sami z uplywem lat gry, w nieskonczonosc.
+def _wiek(rok, mies, dzien, rok_ur, data_ur):
+    if rok_ur is None or not isinstance(rok, int):
+        return None
+    w = rok - rok_ur
+    if data_ur:
+        bm, bd = data_ur.get("miesiac"), data_ur.get("dzien")
+        if bm is not None and bd is not None and isinstance(mies, int) and isinstance(dzien, int):
+            if (mies, dzien) < (bm, bd):
+                w -= 1  # urodziny w tym roku jeszcze nie minely
+    return w
+
+_rok, _mc, _dz = d.get("rok"), d.get("miesiac"), d.get("dzien")
+# Symon
+_nw = _wiek(_rok, _mc, _dz, p.get("rok_urodzenia"), p.get("data_urodzin"))
+if _nw is not None and _nw != p.get("wiek"):
+    p["wiek"] = _nw
+    json.dump(p, open(os.path.join(D, "postac.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+# NPC (rok_urodzenia u kazdego; data_urodzin opcjonalna — bez niej wiek roczny/przyblizony)
+_ch = False
+for _sect in ("na_scenie", "w_orbicie", "orbita"):
+    _v = npc.get(_sect)
+    for _x in (_v if isinstance(_v, list) else []):
+        if isinstance(_x, dict) and _x.get("rok_urodzenia") is not None:
+            _w = _wiek(_rok, _mc, _dz, _x.get("rok_urodzenia"), _x.get("data_urodzin"))
+            if _w is not None and _w != _x.get("wiek"):
+                _x["wiek"] = _w
+                _ch = True
+if _ch:
+    json.dump(npc, open(os.path.join(D, "npc.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+# --- koniec starzenia ---
 out = []
 out.append(f"# STAN GRY — regenerowany z JSON (NIE edytuj recznie)")
 out.append(f"_Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._\n")
@@ -28,6 +61,27 @@ out.append(f"- **Wolne:** {sk.get('jelenie',0)} jeleni + {sk.get('miedziaki',0)}
 for it in p.get("dobytek", []):
     if any(k in it for k in ("depozyt", "SPOLKA", "ZADATEK", "udzial")):
         out.append(f"- {it}")
+poz = p.get("pozycje", {})
+if poz:
+    out.append("\n## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)")
+    for k, v in poz.items():
+        out.append(f"- {v}")
+prz = p.get("przychody", {})
+if prz:
+    out.append("\n## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)")
+    out.append(f"- **Dzien Bilansu:** {prz.get('dzien_bilansu','?')} · nastepny {prz.get('nastepny_bilans','?')} (ostatni: {prz.get('ostatni_bilans','?')})")
+    cyk = prz.get("strumienie_cykliczne_miesieczne", {})
+    if cyk:
+        out.append("- _Cykliczne (zmiatane w Dniu Bilansu):_")
+        for k, v in cyk.items():
+            out.append(f"    - {k}: {v}")
+    pz = prz.get("strumienie_per_zdarzenie", {})
+    if pz:
+        out.append("- _Per-zdarzenie (ksiegowane przy zdarzeniu):_")
+        for k, v in pz.items():
+            out.append(f"    - {k}: {v}")
+    if prz.get("koszty_cykliczne_uwaga"):
+        out.append(f"- _Koszty (dla netto):_ {prz['koszty_cykliczne_uwaga']}")
 out.append(f"- Zdrowie {p.get('zdrowie','?')} · Sytosc {p.get('sytosc','?')} · Zmeczenie {p.get('zmeczenie','?')}")
 
 um = p.get("umiejetnosci", {})

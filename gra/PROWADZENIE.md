@@ -6,7 +6,7 @@ Jeśli nie wiesz czegoś o świecie — OTWÓRZ plik, nie zgaduj. Rozmowa się s
 
 ## PĘTLA TURY (bez skrótów, w tej kolejności)
 1. **WCZYTAJ** `STAN.md` (dashboard) + w razie potrzeby `postac.json`, `swiat.json`, `zegary.json`, `watki.json`, NPC na scenie, ostatnie ~40 linii `kronika.md`.
-2. **TIK ŚWIATA** (przed akcją gracza): zegary odliczają (te co doszły do 0 — odpalają); NPC na scenie robią krok z `ukryte/plany.json`; plotki +1 krok obiegu (rośnie zniekształcenie); przelicz ceny; nastawienia dryfują ku 0 przy braku kontaktu (−1/tydzień); pogoda wg sezonu.
+2. **TIK ŚWIATA** (przed akcją gracza): zegary odliczają (te co doszły do 0 — odpalają); NPC na scenie robią krok z `ukryte/plany.json`; plotki +1 krok obiegu (rośnie zniekształcenie); przelicz ceny; nastawienia dryfują ku 0 przy braku kontaktu (−1/tydzień); pogoda wg sezonu. **PRZYCHODY:** jeśli tik przekroczył Dzień Bilansu (1. dnia miesiąca) → zlicz cykliczne (draw 6 jel, czynsz, retainery) do sakiewki + wpis `ukryte/przychody.log`; jeśli odpaliło zdarzenie dochodowe (dostawa zamkowa=marża, weksel w terminie, ładunek dobił=składka, batch rotacji zamknięty, sprzedaż soli) → zaksięguj kwotę do kasy i zaloguj. Księga: `postac.json.przychody`.
 3. **ROZSTRZYGNIJ** deklarację. Sprawdź wykonalność (pora, miejsce, pogoda, ciało). Rzut wg niżej.
 4. **SKUTKI UBOCZNE**: kto widział? kto się dowie i kiedy? która frakcja reaguje? → dopisz plotki/zegary.
 5. **ZAPISZ** wszystkie zmienione pliki → `python3 gra/stan.py` (regeneruj STAN.md) → dopisz turę do `kronika.md`. **Zapisuj PRZED renderem.**
@@ -29,7 +29,56 @@ Jeśli nie wiesz czegoś o świecie — OTWÓRZ plik, nie zgaduj. Rozmowa się s
 
 ## TWARDE FAKTY (nie dryfować)
 - Miasto: **Biały Port** (White Harbor), ród Manderly, Wiara Siedmiu (Manderly z Reach).
-- Postać: **Symon**, 21, pisarz, uczył go maester Aemon Rivers (Stary Zamek rodu Locke). Mieszka **przy Sepcie Śniegów** (uciekł tam przed Harwinem). Zna braavijski.
+- Postać: **Symon Tally**, 21, pisarz/kupiec-wspólnik. Uczył go maester Aemon Rivers (Stary Zamek rodu Locke). Zna braavijski. Mieszka **we własnej izbie 4 swojej kamieniczki przy Schodach** (od 297-04-04; wcześniej zbiegł do Septy przed Harwinem — to już przeszłość). Nadal pisarz Septy pod publiczną opieką Wiary.
 - Waluta: **1 jeleń = 100 miedziaków; 1 smok = 200 jeleni.**
 - Owen = **septon** (nie marynarz). Ryman Ćwiakel = **notariusz** cechu (cel sprawy). Vox/Leona = suknicy. Lorren = lichwiarz. Garth = celnik. Wenda = przekupka rybia. Pate = wrogi skryba cechu (choruje na płuca).
 - Główne żywe napięcia: **Antaryon** (dług Nesty + cło), **Harwin/cech** (poluje, smear Mennarda), **Ryman→Winterfell** (Theomore odmówił, gra długa), **Osgar** (uraza po reliefie).
+
+## RENDER — KANONICZNY SZKIELET TURY (trzymać co turę)
+
+Każda tura kończy się w TYM układzie. Elementy pustе (nic nie drgnęło) — pomijać, nie pisać „bez zmian".
+
+```
+── DATA · sezon · PORA ──
+Miejsce · jedna linia atmosfery (pogoda / zapach / dźwięk)
+
+[PRZYCHODZĄCE — jeśli są: patrz niżej]
+
+[3–6 zdań sceny — akcja gracza, jej skutek, jeden konkretny detal świata]
+
+┌─ ZMIANY ─────────────────────
+│ • Ciało/kasa: tylko to, co drgnęło (sytość / zmęczenie / zdrowie / sakiewka)
+│ • Relacje: kto ± i dlaczego (jednym słowem)
+│ • Świat: cena / plotka / ruch frakcji, jeśli się ruszył
+│ • Dojrzewa: co puka do drzwi — W JĘZYKU ŚWIATA, nie zegarów
+└──────────────────────────────
+
+[Pytanie „co robisz" — bez listy opcji; przy wąskiej sytuacji 2–3 kierunki + „albo co innego"]
+```
+
+**Zasady stałe renderu:**
+- ZERO liczb-szans i ZERO nazw zegarów/wątków w raporcie. „Godric czeka na słowo o stałej umowie", nie „`zamek_dostawa_stala` T-2".
+- Efekt rzutu widać JAKOŚCIOWO w scenie — koszt/komplikacja jest opisana, nie ukryta (sukces z kosztem ≠ czysty sukces w tonie sceny).
+- Ramka „ZMIANY" tylko z tym, co faktycznie się zmieniło tej tury.
+
+## PRZYCHODZĄCE — świat sam puka (część TIK ŚWIATA, pkt 2)
+
+Świat nie czeka, aż gracz zacznie. Na TIKU, ZANIM gracz zadeklaruje akcję, sprawdź, czy ktoś/coś dociera do Symona SAM Z SIEBIE — i jeśli tak, pokaż to na górze tury (przed sceną), w bloku PRZYCHODZĄCE.
+
+Źródła przychodzącego (wg planów NPC z `ukryte/plany.json`, ich `potrzeby`, `harmonogram`, oraz zegarów typu `inbound/okazja`):
+- **List / gonieć / posłaniec** — ktoś przysłał słowo, sługę pod kamieniczkę, wezwanie (klient, Nesta, dwór, Septa, rodzina lokatorów).
+- **Wizyta** — ktoś przyszedł osobiście (interes, prośba, pojednanie, groźba, plotka).
+- **Wezwanie/obowiązek** — Septa, cech, poborca, steward lorda.
+- **Plotka, która GO dosięgła** — tylko tam, gdzie fizycznie bywa i od ludzi, co z nim gadają (nie „miasto się dowiedziało").
+
+**ZASADA ANTY-ZASADZKA (twarda):** realne problemy docierają do Symona PRZEZ PRZYCHODZĄCE (posłaniec/wiadomość/wezwanie) ZANIM dojrzeją — świat sam się kontaktuje. Jeśli coś się psuje u kontrahenta/sojusznika, on WYŚLE SŁOWO. CISZA = jest dobrze. NIE wolno wyprodukować kryzysu jako niespodzianki przy wizycie (zwł. gdy gracz sam pyta „kto zaniedbany" — pytanie o stan sieci NIE tworzy problemów, inaczej karzemy dbałość). Słaby rzut na wizytę podtrzymującą u ciepłego kontaktu daje NAJWYŻEJ drobną teksturę (chłodniejszy ton, drobna prośba), NIGDY canon-sprzecznej katastrofy. Problem pojawia się tylko, jeśli był wcześniej zasygnalizowany przychodzącym/zegarem.
+
+Zasady przychodzącego:
+- NPC kontaktują się z WŁASNYCH pobudek (ich cel/potrzeba/lęk), nie po to, by obsłużyć gracza. Inbound ma KOSZT albo HAK po ich stronie (czegoś chcą, coś niosą).
+- Nie każda tura ma przychodzące. Gdy jest cicho — cisza (to też informacja). Częstotliwość rośnie z siecią Symona i liczbą żywych wątków/zegarów `inbound`.
+- Przychodzące, którego Symon nie podejmie, ŻYJE DALEJ: posłaniec wróci, klient pójdzie do konkurencji, wezwanie stwardnieje w nakaz, plotka spuchnie. Dopisz zegar/plotkę.
+- Format w renderze:
+```
+✉ PRZYCHODZĄCE
+  • [kto/skąd] — [co niesie / czego chce], jednym–dwoma zdaniami świata
+```

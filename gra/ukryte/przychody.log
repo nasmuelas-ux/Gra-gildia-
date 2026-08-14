@@ -1,0 +1,46 @@
+# KSIEGA PRZYCHODOW - slad audytowy. Format: data | zrodlo | kwota | do_kasy/reinwest | nota
+297-07-18 | BASELINE | - | - | System zalozony. Dzien Bilansu=1. miesiaca. Nastepny 08-01. Strumienie zdefiniowane w postac.json.przychody
+297-07-18 | STAWKI ZALOZONE | czynsz 3jel/izba->9 brutto/7 netto; retainery 11 brutto (Aur4/Blok3/Fakt2/Torh2); firma netto 6, udzial Symona 4; draw 6 | baseline 17 jel/mies do kasy
+297-07-18 | Merek - premium audyt linii prowiantu (per-zlecenie firmy) | +7 jel | do kasy | sakiewka 12->19 jel. Pierwszy zaksiegowany wplyw per-zdarzenie od zalozenia ksiegi
+297-07-20 | SOL - sprzedaz pozycji w szczycie squeeze do spichrzy zamku (kanal Torhena), udzial Symona z plonu | +20 jel | do kasy | sakiewka 19->39. Pozycja soli ZAMKNIETA. Faktoria tez zyskala
+297-07-21 | SUKNO - prowizja brokerska (zamowienie Leony przez faktorie, 1. tranza) | +5 jel | do kasy | sakiewka 39->44
+297-07-22 | VOX - wstepny audyt (potwierdzenie strzyzenia) | +4 jel | do kasy | sakiewka 44->48
+297-07-22 | ROLLAM - sesja + konwersja na retainer | +4 jel sesja; retainer +3 jel/mies dodany | do kasy | sakiewka 48->52; baseline ~20 jel/mies
+297-07-22 | HARLON - sesja + retainer + wezel podazy filaru | +5 jel sesja; retainer +3 jel/mies | do kasy | sakiewka 52->57; baseline ~22 jel/mies
+297-07-22 NOC | INWESTYCJA underwriting | -50 jel | z kasy w pozycje | sakiewka 57->7; pool underwritingu 65->115 na ryzyku
+297-07-23 | VOX - fee za domkniecie findingu | +6 jel | do kasy | sakiewka 7->13
+297-07-23 | VOID (retcon): wpis +6 jel fee Vox (opcja 4) COFNIETY - beat nie mial miejsca; sakiewka wraca do 7 jel
+297-07-23 | VOX - fee za domkniecie (czysty handoff) | +6 jel | do kasy | sakiewka 7->13
+297-07-25 | FIRMA - per-zlecenie (sesja kantoru) | +4 jel | do kasy | sakiewka 13->17
+297-07-26 | KORYTARZ - 1. prowizja z ruszajacego sukna | +5 jel | do kasy | sakiewka 17->22. Korytarz ZYWY (recurring)
+297-07-28 | FIRMA - per-zlecenie (sesja grupowa) | +4 jel | do kasy | sakiewka 22->26
+297-07-31 | FIRMA - per-zlecenie (sesja po sztormie, rozliczenie salvage+pool) | +5 jel | do kasy | sakiewka 26->31
+297-07-31 | WEKSEL PILOT (Wend) - SPLACONY, procent | +3 jel | do kasy | sakiewka 31->34. Kapital wrocil w rotujaca ksiege. MECHANIZM BROKERSKI DOWIEDZIONY
+297-08-01 DZIEN BILANSU | cykliczne (draw 6 + czynsz netto 7 + udzial firmy 7 = 20) + drewno-marza 12 + weksle procent 6 + prowiant/korytarz 4 = +42 do kasy | sakiewka 34->76 | rotacja plon reinwest (~262); underwriting -10 (w pozycji, czerwony sztorm); nastepny Bilans 09-01
+297-08-01 KOREKTA BILANSU (gracz): drewno-marza 12->25 (flagowy filar zanizony), firma 7->8 (retainery rosly, per-sesje juz w kasie). Cykliczne 20->21, per-zdarzenie 22->35. RAZEM +56 do kasy (nie 42): sakiewka 34->90. Baseline od 09-01 wyzszy (6 retainerow + prowiant pelny + zelazo od dostawy)
+297-08-01 KOREKTA 2 (gracz): udzial u Nesty NIE flat - baza+draw 6 + 1/3 netto transakcji + rosnacy equity core-faktorii (udzial w plonie rotacji). Rozpoznano +10 jel udzialu partnerskiego (equity+1/3) -> sakiewka 90->100. Bilans na przyszlosc liczy udzial partnerski nie tylko draw
+297-08-01 KOREKTA 3 (gracz): korytarz sukna wydzielony - LIPIEC maly (~5 dni, ozyl 07-26): +5 brokerska (07-21) + ~3 koordynacyjna niedolumpowana = ~8 jel. Bursztyn 0 (edge rozruchowy, zysk Braavos tygodniami). +3 -> sakiewka 100->103. OD SIERPNIA pelny filar (caly miesiac sukna + zwroty bursztynu)
+297-08-01 | INWESTYCJE: underwriting 105->150 (+45) + rotacja 262->302 (+40) | -85 jel | z kasy w pozycje | sakiewka 103->18
+297-08-03 | GODRIC - drobne honorarium za pomoc z ksiega castle-supply | +4 jel | do kasy | sakiewka 18->22
+297-08-03 | BOREN/CECH - honorarium za ksiegi cechu kolodziejow | +4 jel | do kasy | sakiewka 22->26
+297-08-03 | FIRMA/faktoria - drobne rozliczenie (sesja z Nesta) | +3 jel | do kasy | sakiewka 26->29
+297-08-06 | audyt premium importer wina - reszta fee | +8 jel (zaliczka 6 wczesniej; razem 14) | sakiewka 35->43
+297-08-06 | zelazo/okucia - 1. marza (3. filar zamkowy, per partia) | +5 jel (cieńsza: demurrage+tlok sztormowy) | sakiewka 43->48
+297-08-07 | korytarz sukna - marza koordynacyjna (biezacy cykl) | +3 jel | sakiewka 48->51
+297-08-11 | ekspansja zamkowa (pasmo OKUC, przez firme/Hal) - 1. drobna marza | +4 jel | sakiewka 51->55
+297-08-11 | WYDATEK: profesjonalne narzedzia dla ekipy firmy (kity+ksiegi/szablony+lupa+standardy) | -15 jel | sakiewka 55->40 | inwestycja w wydajnosc/lojalnosc
+297-08-17 | WYDATEK: postojowe/demurrage sztorm | -4 jel | sakiewka 40->36 (roszczenia underwritingu pokryte ze skladek, nie z wolnej kasy)
+297-08-19 | WYDATEK: zakup surowca bursztyn jewelry-grade (probna partia) | -4 jel | sakiewka 36->32 | parcela w drodze do Braavos (pending zwrot z marza, tygodnie)
+297-08-19 | fee za ksiege zamkowa (Godric, jak zawsze placi) | +4 jel | sakiewka 32->36
+297-08-05 | KOREKTA LOGU (audyt gracza 08-19): brakujaca linia - audyt premium importer wina, ZALICZKA +6 jel (08-05) byla wliczona do kasy (sakiewka 29->35) ale nie zalogowana osobno. Dopisano dla czystosci sladu. [reszta +8 zalogowana 08-06; razem fee 14]
+297-08-20 | Aurane - rekoncyliacja skladow po sztormie (premium) | +7 jel | sakiewka 36->43
+297-08-22 | WYDATEK: podatek miejski (sezonowy pobor, ser Wylis, w terminie) | -8 jel | sakiewka 43->35
+297-08-22 | Leona - drobne za pomoc z ksiega (wiekowanie/rentownosc linii sukna) | +3 jel | sakiewka 35->38
+297-08-27 | 4. pasmo zaopatrzenia zamkowego (przez firme/Hal) - 1. drobna marza | +4 jel | do kasy | sakiewka 38->42. Pasmo recurring uruchomione (Godric bufor, Symon duch)
+297-08-28 | audyt Aldousowego klienta (przez firme/Hal, sesja) - fee | +7 jel | do kasy | sakiewka 42->49. Referral Aldousa domkniety czysto (rzut 82+prep). Grey-play: Hal twarz, Symon za ksiegami
+297-08-28 | DOPLATA rotacja faktorii (przechylenie ku zimie: sol/zboze) | -45 jel | z kasy w pozycje | sakiewka 49->4. inwestycja_faktoria_jel 290->335 (rotacja ~302->~347 w obrocie). Kasa cienka (4 jel) przed Bilansem 09-01 za 4 dni - kapital w robocie, plon wraca z batchem
+297-08-29 | WEKSEL - splata z procentem (kapital rotuje w mostku-kredycie) | +4 jel | do kasy | sakiewka 4->8. Cienka kasa lekko podreperowana; principal wraca w ksiege
+297-08-29 | Premium audyt przedzimowy skladnika (przez Aurane'a/firme) - ZALICZKA | +5 jel | do kasy | sakiewka 8->13. Reszta ~10 po sesji (fee premium ~15 razem). Cienka kasa podreperowana przed Bilansem
+297-08-31 | Premium audyt przedzimowy skladnika - RESZTA fee po sesji | +10 jel | do kasy | sakiewka 13->23. Razem fee 15 (5 zaliczka 08-29 + 10 teraz). Audyt wykonany, prawda podana prosto (niedobory zimowe skladnika). Grey-play (Hal twarz)
+297-09-01 DZIEN BILANSU | cykliczne (draw 6 + czynsz netto 7 + udzial firmy+equity partnerski 17 = 30) + drewno-marza 16 (TAPERUJE - sezon budowy sie domyka, mroz wstrzymuje) + 4. pasmo zaopatrzenia 6 (nowy filar, czesc miesiaca) + korytarz sukna 6 (pelny miesiac) + weksle procent 7 = +65 do kasy | sakiewka 23->88. Rotacja: plon REINWESTOWANY ten cykl (przechylenie ku zimowym staplom, sol/zboze - rosnie, 0 do kasy). Underwriting: skladki narastaja NA RYZYKU (hard market zimowy, w pozycji, nierealizowane). Per-event juz w kasie w sierpniu (audyty Aldous/skladnik/wino, Aurane, zelazo, weksel) NIE liczone ponownie. Nastepny Bilans 10-01. BASELINE ROSNIE: 4. pasmo pelne + korytarz pelny; drewno taperuje dalej ku zimie, podaz/underwriting rosna
+297-09-01 KOREKTA BILANSU (gracz - sluszna uwaga: pasma/drewno maja dawac ZNACZNIE wiecej): przeliczono filary podazowe wlasciwie. DREWNO: nie taper 16, lecz PIVOT na opal (zimowy popyt eksploduje) -> filar ROSNIE do 26. PASMA ZAOPATRZENIA: nie tylko 6 (4.pasmo), lecz caly kompleks - 3 filary zamkowe (drewno juz osobno / prowiant-linia + zelazo-okucia) + 4. pasmo, w ZIMOWYM RAMPIE (zamek laduje spichrze wczesnie, morsel Godrica) = razem 20 (prowiant ~8 + zelazo/okucia ~6 + 4.pasmo ~6, narosle ponad per-event juz w kasie). Nowe linie: cykliczne 30 + drewno 26 + pasma 20 + korytarz 6 + weksle 7 = +89 (nie 65). DELTA +24 do kasy: sakiewka 88->112. Filary podazowe = SILNIK WZROSTU; baseline 10-01 dalej rosnie z zima

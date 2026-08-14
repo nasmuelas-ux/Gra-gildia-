@@ -1,68 +1,75 @@
 {
- "data": {
-  "rok": 297,
-  "miesiac": 6,
-  "dzien": 25,
-  "era": "AC"
- },
- "pora": "POPOLUDNIE",
- "sezon": "przedwiosnie (Polnoc) - PELNA ODWILZ, rzeki puszczaja",
- "pogoda": 83,
- "dzien_tygodnia_nr": 3,
- "dzien_targowy": null,
- "nastroje_miasta": "297-01-05 RANEK, zima Polnocy. Cicho, faza konsolidacji. Wech wlasnosc zalozony (siec nasluchuje, ~wiosna). Zegary: draw ~01-19, Godric ~01-30. Mira: cierpliwosc. Mieszczanstwo zmapowane (brak: kamien). Wielkie watki do wiosny.",
- "ceny": {
-  "chleb": {
-   "baza": 3,
-   "mnoznik": 1.0,
-   "przyczyna": "relief sie przejada, zima glebsza"
+  "data": {
+    "rok": 297,
+    "miesiac": 10,
+    "dzien": 2,
+    "era": "AC"
   },
-  "ryba": {
-   "baza": 2,
-   "mnoznik": 1.0,
-   "przyczyna": "nie dzien targowy"
+  "pora": "RANEK",
+  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
+  "pogoda": "MROZ ZELZAL z rdzenia (rzut 46) - wciaz twarda zima, ale nie zabojcza; najczarniejsze przeszlo, trakty znosne.",
+  "dzien_tygodnia_nr": 6,
+  "dzien_targowy": null,
+  "nastroje_miasta": "297-10-02 RANEK: INBOUND2 91 (blisko kryt) - WEZWANIE LORDA. Wyman Manderly przyslal po Symona Tally, tak jak zapowiedzial ('przyjdziesz gdy po ciebie posle'). Household lorda okrojony (Aldric w celi, Helyard zhanbiony - luki w zaopatrzeniu/nadzorze), a lord chce RADY czlowieka co odslonil zdrade i liczy uczciwiej niz jego oficerowie: jak naprawic prowiantowanie, co z zajetymi zapasami. Sciezka czlowieka rady OTWIERA sie w praktyce. INBOUND 31 - port cichy. Symon 280 jel, warrant lorda, 11 dni do slubu, mroz zelzal.",
+  "ceny": {
+    "chleb": {
+      "baza": 3,
+      "mnoznik": 1.3,
+      "przyczyna": "mroz + panika zapasowa, zboze drozeje"
+    },
+    "ryba": {
+      "baza": 2,
+      "mnoznik": 1.0,
+      "przyczyna": "nie dzien targowy"
+    },
+    "pergamin": {
+      "baza": 40,
+      "mnoznik": 1.0,
+      "przyczyna": null
+    },
+    "atrament": {
+      "baza": 12,
+      "mnoznik": 1.0,
+      "przyczyna": "braavijska dostawa w porcie"
+    },
+    "opal": {
+      "baza": 8,
+      "mnoznik": 1.7,
+      "przyczyna": "MROZ KTORY ZABIJA - opal to zycie, cena skoczyla; popyt rozpaczliwy"
+    },
+    "wino_korzenne": {
+      "baza": 5,
+      "mnoznik": 1.05,
+      "przyczyna": "wino przyplynelo galera"
+    },
+    "sol": {
+      "baza": 45,
+      "mnoznik": 1.2,
+      "przyczyna": "konserwacja na zime, popyt rosnie"
+    },
+    "prowiant_uwaga": null
   },
-  "pergamin": {
-   "baza": 40,
-   "mnoznik": 1.0,
-   "przyczyna": null
+  "swieto": null,
+  "dzien": 19,
+  "mechanika_inbound": {
+    "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
+    "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
+    "od": "297-04-29 (korekta gracza: 'w tej grze ja musze do wszystkich chodzic, nikt sie nie przypomina - tak to nie wyglada w zyciu').",
+    "przypomnienie_05_19": "REAKTYWOWANE 05-19 (gracz zauwazyl ze lapse). SPRAWDZAC INBOUND CO TURE: na starcie tury zerknij w inbound_kolejka + zywe zegary/potrzeby, i jesli cos dojrzalo, NIECH SWIAT ZAPUKA (Bran melduje goscia/poslanca, przychodzi wiesc, klient sam sie odzywa). Nie tylko gracz->swiat.",
+    "ramka_dzienna": "ZASADA (od 297-05-21, prosba gracza): KAZDEGO RANKA renderuj osobna ramke \"WIADOMOSCI\"/INBOUND - kto sie odezwal/zapukal/przyslal poslanca/jaka wiesc przyszla/co dojrzalo (z inbound_kolejka + zywych zegarow). Jak nic - napisz \"cisza\". Ramka osobna, zawsze, przy porannym renderze."
   },
-  "atrament": {
-   "baza": 12,
-   "mnoznik": 1.0,
-   "przyczyna": "braavijska dostawa w porcie"
+  "mechanika_wiezi": {
+    "zasada": "WIEZI SA TRWALE (poprawka gracza, powtorzona). NIE ma cotygodniowego dryfu nastawienia. W sredniowiecznym miescie ludzie widuja sie tygodniami/miesiacami z przerwami i podejmuja znajomosc gdzie ja zostawili. Nastawienie NIE stygnie od kalendarza.",
+    "kiedy_spada": "Tylko przez ZDARZENIA (afront, zaniedbanie konkretnej obietnicy/obowiazku, konkurencyjny patron, uraza), NIE przez sam uplyw czasu. Ewentualny bardzo powolny dryf dopiero po DLUGIEJ nieobecnosci (miesiace), i cieple/glebokie wiezi (wysoki nast+zauf) sa lepkie - prawie nie erodują.",
+    "od": "297-05-01 (poprawka gracza: 'w sredniowieczu ludzie nie widzieli sie co tydzien, juz o tym rozmawialismy'). Cofnieto tik-szeroki dryf -1."
   },
-  "opal": {
-   "baza": 8,
-   "mnoznik": 1.25,
-   "przyczyna": "KOREKTA: opal osiadl u dolu (odwilz + podaz Polnocy cala) - zimowy szczyt zszedl, kto trzymal drogo podtopil sie"
-  },
-  "wino_korzenne": {
-   "baza": 5,
-   "mnoznik": 1.05,
-   "przyczyna": "wino przyplynelo galera"
-  },
-  "sol": {
-   "baza": 45,
-   "mnoznik": 1.05,
-   "przyczyna": "dostawy wrocily po burzy"
+  "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia.",
+  "zasada_rano": "Kazdego ranka renderowac: 📬 WIADOMOSCI (inbox, cisza jesli nic) + krotki STATUS = JEDZENIE (sytosc/zmeczenie/zdrowie) i HAJS (wolne + skrot: depozyt/inwestycje/weksle). Pelna tablica umiejetnosci TYLKO na zadanie.",
+  "zasada_format": "Ramki mechaniczne (naglowek kreskowy, WIADOMOSCI, status jedzenie/hajs, menu opcji) renderowac w BLOKU KODU monospace, jak output rano.py. Scene opisowa - zwykly tekst.",
+  "model_por_roku": {
+    "zasada": "Pory roku w tym swiecie (ASOIAF) NIE sa roczne - trwaja LATAMI, sa nieregularne, ogłaszane przez maesterow Cytadeli (biale kruki na zime). Istnieja wszystkie cztery: lato, jesien, zima, wiosna. Zima na Polnocy zabojcza (glod, moze trwac lata) - stad obsesja zapasow.",
+    "stan_teraz_297": "Wiosna na Polnocy zaczyna sie przechylac ku jesieni/przedzimiu. To WOLNY, wieloturowy TURN, nie przelacznik - nikt nie budzi sie nagle w sniegu. Maesterski cien zimy = realna instytucjonalna wiesc (nie pogoda), naped prowiantowania.",
+    "skutki_mechaniczne": "Stopniowo (przez wiele dni gry): dnie krotsze (sesje robocze uciete), ceny opalu/prowiantu/soli drga w gore, ludzie kalkuluja zapasy. To scena, na ktorej przewaga Symona (prowiantowanie, underwriting, ksiegi zapasow, pakiet zimowy) ROSNIE.",
+    "ustanowiono": "297-08-27 (na prosbe gracza - porzadkowanie spojnosci: 'czyli jest tylko wiosna i zima?'). Poprawka: miedzy wiosna a zima jest jesien; nie przeskakujemy wiosna->zima."
   }
- },
- "swieto": null,
- "dzien": 19,
- "mechanika_inbound": {
-  "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
-  "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
-  "od": "297-04-29 (korekta gracza: 'w tej grze ja musze do wszystkich chodzic, nikt sie nie przypomina - tak to nie wyglada w zyciu').",
-  "przypomnienie_05_19": "REAKTYWOWANE 05-19 (gracz zauwazyl ze lapse). SPRAWDZAC INBOUND CO TURE: na starcie tury zerknij w inbound_kolejka + zywe zegary/potrzeby, i jesli cos dojrzalo, NIECH SWIAT ZAPUKA (Bran melduje goscia/poslanca, przychodzi wiesc, klient sam sie odzywa). Nie tylko gracz->swiat.",
-  "ramka_dzienna": "ZASADA (od 297-05-21, prosba gracza): KAZDEGO RANKA renderuj osobna ramke \"WIADOMOSCI\"/INBOUND - kto sie odezwal/zapukal/przyslal poslanca/jaka wiesc przyszla/co dojrzalo (z inbound_kolejka + zywych zegarow). Jak nic - napisz \"cisza\". Ramka osobna, zawsze, przy porannym renderze."
- },
- "mechanika_wiezi": {
-  "zasada": "WIEZI SA TRWALE (poprawka gracza, powtorzona). NIE ma cotygodniowego dryfu nastawienia. W sredniowiecznym miescie ludzie widuja sie tygodniami/miesiacami z przerwami i podejmuja znajomosc gdzie ja zostawili. Nastawienie NIE stygnie od kalendarza.",
-  "kiedy_spada": "Tylko przez ZDARZENIA (afront, zaniedbanie konkretnej obietnicy/obowiazku, konkurencyjny patron, uraza), NIE przez sam uplyw czasu. Ewentualny bardzo powolny dryf dopiero po DLUGIEJ nieobecnosci (miesiace), i cieple/glebokie wiezi (wysoki nast+zauf) sa lepkie - prawie nie erodują.",
-  "od": "297-05-01 (poprawka gracza: 'w sredniowieczu ludzie nie widzieli sie co tydzien, juz o tym rozmawialismy'). Cofnieto tik-szeroki dryf -1."
- },
- "zasada_konca_dnia": "Dzien/pol-dnia konczy sie WYLACZNIE na wyrazna zgode gracza. Nigdy nie przechodzic w noc ani nowa pore bez potwierdzenia.",
- "zasada_rano": "Kazdego ranka renderowac: 📬 WIADOMOSCI (inbox, cisza jesli nic) + krotki STATUS = JEDZENIE (sytosc/zmeczenie/zdrowie) i HAJS (wolne + skrot: depozyt/inwestycje/weksle). Pelna tablica umiejetnosci TYLKO na zadanie.",
- "zasada_format": "Ramki mechaniczne (naglowek kreskowy, WIADOMOSCI, status jedzenie/hajs, menu opcji) renderowac w BLOKU KODU monospace, jak output rano.py. Scene opisowa - zwykly tekst."
 }

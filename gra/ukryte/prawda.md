@@ -196,3 +196,21 @@ Symon poprosil Aurane o wlasne wagi dokowe ostatniej duzej partii (framing: domk
 
 ## 297-05-05 NOC — Zelazny Bank a Antaryon TO JEDNA SPRAWA (kryt 100)
 Rozpoznanie Nesty: agent/klucznik Zelaznego Banku w Bialym Porcie niespokojnie pilnuje przeplywu frachtowego (braavijsko-wspierany interes, Bank ma grosz) opartego na DEKLARACJACH FRACHTU/CLA ANTARYONA - czuje ubytek, brak dowodu/uczciwego oka na miejscu. => fraud Antaryona (tropiony od zimy) OKRADA NIE TYLKO LORDA LECZ ZELAZNY BANK. Bank tego nie WIE (czuje). To oslona z gory, ktorej keystone nie mial. PLAN B-schody-do-A: Belarno zaniesie ask B (Symon zweryfikuje przeplyw); robota uczciwa wyprowadzi Antaryona; potem Bank sam uzna go za swoj problem. RYZYKO MAX: Symon staje miedzy Bankiem a Antaryonem trzymajac wiedze ktora ich laczy = najniebezpieczniejszy swiadek. Dyskrecja absolutna, tempo powolne, firewall (Owen/Nesta krag). Nie rzucac imienia Belarnowi poki plan nie dopiety.
+
+## 297-07-17: LATENTNE RYZYKO (Theomore + Benford)
+Symon pokazal lordowskiemu maesterowi (ktory TRZYMA dossier zmyslonych deklaracji Antaryona) swoja metode wykrywania cooked books. Framing byl abstrakcyjny (firewall trzymany TERAZ), ale ziarno zasiane: perceptywny maester MOZE kiedys polaczyc 'czlowiek co pokazal mi jak widziec falszywe liczby' z 'dossier falszywych liczb'. Nie odpalone. Trzymac w tyle glowy przy kolejnych kontaktach Theomore <-> Antaryon.
+
+### 297-08-13 - KULMINACJA ANTARYONA (rzut 100)
+Zelazny Bank uderzyl decydujaco. Miesiace gry Symona z cienia (dowod trojstronny weryfikowalny wzgledem ksiag Banku = 'jego odkrycie') zaowocowaly: Antaryon skonfrontowany, aparat frachtowego zdzierstwa rozbity, dom ujarzmiony przez wierzyciela na karzacych warunkach. Firewall PERFEKCYJNY - Bank ruszyl na wlasny rachunek, pytanie o zrodlo upadlo, Symon niewidzialny (max 3 knowerzy: Symon/Nesta/Owen; Garth/Belarno bufory czyste). Symon UDERZYL wielki dom nie dotykajac go - zemsta liczb, sprawiedliwosc z cienia. NADAL: zostac duchem (ulga=moment potkniecia); mozliwy slepy odwet Antaryona szukajacego winowajcy (NIE ma nitki do Symona).
+
+
+## 297-09-10 — FIREWALL 3->4 (Mira wie), ale STRAIN
+Symon wyznal Mirze cala prawde (czysto, propozycja frontu jako wolny wybor). Rzut 10: prawda spadla kamieniem. Mira wie TERAZ (4. knower, nieodwracalnie), ale przyjela z lekiem+rana: (1) 'nie dales mi wyboru ZE wiem - nie moge od-wiedziec; ciezar nazwany prezentem'; (2) timing - powiedzial po wprowadzce/zwiazaniu zycia = 'partnerka czy zwerbowana?'. Cofnela sie (guarded), poprosila o PRZESTRZEN, nie rozstrzygnela frontu. Wiez nie zerwana (kocha) ale STRAIN. Owen (rzut 24, 09-09) validated: jej zgoda nie zdjela ciezaru, ciezar spadl na nia. NAPRAWA: cierpliwosc, przestrzen, stalosc (jego mistrzostwo z nia); NIE naciskac frontu.
+
+
+## 297-09-10 NOC — Mira: przez rowny konflikt do rownosci
+Symon odbil z sily (milczenie=tarcza bo grozila smierc; ona sama strzegla swego zycia miesiacami, on dal jej tempo bez nazywania zdrada => rowne prawo do czasu odsloniecia). Mira przyznala racje, postawila swoja prawde (roznica stawek: jego sekret stawia JA przed lwem, nie boi sie jego lecz tego co za nim). Powietrze oczyszczone - pierwsza prawdziwie rowna rozmowa. Mira=4. knower, wiez silniejsza/rowna. Front=jej wybor (nienaciskany). Strach 'maska/uzytecznosc' rozwiazany.
+
+
+## 297-09-13 — ALL-CLEAR: low Antaryona zdechl
+Konwergencja sygnalow: Antaryon zapadl sie dalej (karzace warunki Banku + nieudany wewnetrzny low), pochlonieci przetrwaniem/wierzycielami, porzucili low za zewnetrznym sprawca. Nesta+Owen potwierdzaja: hunt martwy (lowca skonczony, nie tylko usnal). Nikt nie laczy uderzenia Banku z Symonem/kimkolwiek. FIREWALL bezpieczny; gate na climb ZDJETY. Caveat: upadly dom=dluga pamiec, prudence. Faza-duch moze sie konczyc; climb rusza schodkowo, decyzje WSPOLNE z Mira (4. knower, wspolniczka).

@@ -2,20 +2,20 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 3,
+  "dzien": 4,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 6,
- "dzien_tygodnia_nr": 7,
+ "pogoda": 84,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-03 WIECZOR (2. podejscie - WYJASNIENIE, rzut 43 solidny): Symon zobaczyl alarm Miry i sie ZATRZYMAL - 'nie zrozumielismy sie', wytlumaczyl INTENCJE. Mira, sprawiedliwa, przyznala ze reagowala na SLOWA (fixer/szpieg/hustler) nie na sens, i zaangazowala PRAWDZIWE propozycje - z aprobata. (1) HANDLOWIEC/ROZWOJ: zgoda co do zasady - firma nie moze wiecznie stac na pedzie Symona, ON ma isc W GORE (rada), firmie trzeba TWARZY co nie jest nim; w tym swiecie to nie akwizytor na prowizji lecz SZANOWANY czlowiek interesu budujacy relacje przez standing/patronat (pick wazniejszy niz rola - ktos czyj wlasny reputacja wzmacnia dyskrecje). (2) ANALITYK jawnych info: MOCNE tak - to edge Symona zinstytucjonalizowany, 'nudne i czyste' (sama to zalecala), wartosc z jawnych danych portu/prognoz; wrazliwa synteza zostaje u Symona/Nesty; szukac rzadkiego pismiennego+liczacego+dyskretnego umyslu. (3) OCHRONA/threat-reader: potrzeba REALNA (gra ze szlachta co moze zgniesc, wojna z pierscieniem dowiodla ze improwizacja nie starczy); dom kupiecki ich rangi z zaufanym czlowiekiem od bezpieczenstwa=NORMALNE nie prywatna armia. JEDYNE trwale zastrzezenie (residuum 43): FRAMING+DYSKRECJA - ma czytac zagrozenia i trzymac kilka pewnych rak CICHO, nigdy widoczny egzekutor ze stali (to byla by 'historia' dworu). SYNTEZA: kierunek SLUSZNY - profesjonalizacja by firma stala na strukturze+reputacji nie tylko pedzie Symona; robic z NESTA (wspolnik), sekwencyjnie, dyskretnie. Rysa sie GOI (nast 93->95) - to robia partnerzy: gadaja obok siebie, potem sie znajduja. 3 WATKI REKRUTACYJNE otwarte. 296 jel, 10 dni do slubu. -> NOC -> 10-04.",
+ "nastroje_miasta": "297-10-04 POLUDNIE (mroz zelzal znow POGODA 84 - spike minal, dzien znosny, trakty lepsze; resupply-z-wyprzedzeniem wczoraj OKAZAL SIE MADRY). Rano Symon zaniosl Nescie pomysl ANALITYKA (1. z 3 rol profesjonalizacji, wybor gracza: najczystszy/najwyzszej wartosci). NESTA SESJA rzut 61 solidny: faktor, ktory nauczyl go czytac rynek, od razu ZLAPAL - to rzemioslo faktorii zamkniete w rolę. Zaprojektowali: DESK MARKET-INTELLIGENCE z JAWNYCH danych (przyplywy/ladunki/ceny/zbiory->prognozy/pozycje); TWARDY PODZIAL: analityk robi czysta jawna obrobke (nudne/bezpieczne), WRAZLIWA SYNTEZA (pozycje, co-z-tego-dla-nas, brzegi przy Braavos/Antaryon) zostaje u Symona+Nesty - analityk NIGDY nie widzi calej planszy (firewall). Nesta wspolfinansuje (jej firma 1/3), desk placi sam za siebie gdy ostrzy pozycje (jak sol-squeeze). LEAD: szukac rzadkiego umyslu pismienny+liczacy+DYSKRETNY bez standingu (wdzieczny/lojalny/niewidoczny); Nesta lean na LOKALNEGO dyskretnego (Braavijczyk=blizej geografii firewalla), da namiar/profil; VET TWARDO (pierscien sadzi ludzi). Rola ZAPROJEKTOWANA, rekrut do znalezienia/sprawdzenia. Nesta nast 90->92 zauf 58->60. 296 jel, 9 dni do slubu. Zostaja watki: handlowiec-twarz, ochrona-dyskretna (kolejne).",
  "ceny": {
   "chleb": {
    "baza": 3,
-   "mnoznik": 1.25,
-   "przyczyna": "gleboki mroz, logistyka zboza dlawiona kra"
+   "mnoznik": 1.1,
+   "przyczyna": "ocieplenie, trakty lepsze"
   },
   "ryba": {
    "baza": 2,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.6,
-   "przyczyna": "mroz wrocil zabojczy - popyt na opal skacze"
+   "mnoznik": 1.3,
+   "przyczyna": "mroz zelzal znow (POGODA 84) - opal schodzi z piku"
   },
   "wino_korzenne": {
    "baza": 5,

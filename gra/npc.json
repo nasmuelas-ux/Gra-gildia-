@@ -664,10 +664,10 @@
       "id": "maester_theomore",
       "imie": "Theomore",
       "zawod": "maester lorda Wymana Manderly na Nowym Zamku; uczony, zna prawo i precedens, ma ucho lorda i drogi ku Cytadeli/Winterfell; ale sluzy establishmentowi (ryzyko) | OCENA OWENA: uczony i (wg Owena) osobiscie uczciwy — nie Ryman, zwiazany kodeksem Cytadeli; ALE lojalnosc nalezy do lorda Wymana, nie do sprawiedliwosci samej w sobie ani do obcego/wdowy. Ryzyko nie 'zdrada za srebro', lecz 'jego obowiazek biegnie ku establishmentowi' — co zrobi z rzecza, zalezy od interesu LORDA, nie Symona.",
-      "nastawienie_do_gracza": 70,
-      "ostatni_kontakt": "297-09-17 POPOLUDNIE (rzut 55) - PRONG 1 kontry: Symon przyniosl (papierem, peer-channel) prawdziwe maesterskie pytanie - ktora oferta zabezpieczy zimowy chleb Polnocy przy skutej rzece. Theomore wyczul stawke Symona ('nie jestem glupi, pytasz gdy twoja firma stoi do konkursu') ALE pytanie uczciwe+zima pilna -> ocenil RZETELNIE/niezaleznie ('jesli twoja wyjdzie na wierzch to liczby nie laska'). Napisal chlodny NEUTRALNY rachunek ryzyka (kwantyfikuje: dostawa zza skutej rzeki=utyka/niepewna vs lokalna=pewna); wniosek uczciwie: tylko pewna lokalna reka zabezpieczy Polnoc. NIE bedzie wymachiwal (nie politykuje) ale poda zdanie gdy pytany + polozy ocene tam gdzie maesterskie trafiaja. Niezaleznosc=moc dokumentu. Dokument=oslona stewarda ('poszedlem za maestrem') + grunt pod prongi 2-3. zauf 42->43.",
+      "nastawienie_do_gracza": 75,
+      "ostatni_kontakt": "297-09-26 RANEK (rzut 76) - Symon przyjal wyciagnieta reke, poglebiil sojusz jak dwaj ludzie ufajacy cyfrom nad usmiechami; dal CZYSTA prawde firmy (nic o Nescie ponad 'faktor', nic o cieniu/firewallu - jawnosc=zbroja). Theomore: 'recze za fakt nie za czlowieka, choc czlowiek tez mi sie podoba; twoje liczby sie zgadzaja, w mroz to roznica miedzy pelnym a pustym spichrzem lorda'. UPROSZCZE dal wiecej niz proszono: ze swojego kata widzial u Ser Aldrica GOSCIA KUPCA Z POLUDNIA (jesienia przed mrozami) + zbyt regularne listy, a 'roztropnosc' Aldrica ROZDRABNIA zaopatrzenie zamiast zabezpieczac - 'rachunek Aldrica sie nie spina, chyba ze komus na rozdrobnieniu zalezy'. nast 70->75, zauf 43->50. Sojusznik + dyskretne oko przy Aldricu, pokrewienstwo prawdy-liczonej.",
       "cechy_mowy": "uczenie i wynioslo, poludniowy akcent; lubi slowa 'precyzyjnie' i 'wedle precedensu'",
-      "zaufanie": 43,
+      "zaufanie": 50,
       "wie_o_graczu": [
         "przedstawil sprawe Rymana jasno, jak rachmistrz — Theomore docenil klarownosc, ALE odmowil dzialania: to tylko kopia, brak oryginalu/korroboracji, oskarzenie tyczy szanowanego czlowieka u lorda; nie tknie bez ironclad proof",
         "m9d6: prostak-skryba przyszedl PROSIC o nauke/dostep do wiedzy — Theomore odprawil go chlodno, z wynioslоscia: nie ma PRECEDENSU, by maester ksztalcil nisko urodzonego; jego obowiazek to lord, nie edukacja kupczykow. Symona widzi jako natreta, co znowu sie napraszania (po Rymanie). Braavijski Symona zbyl jako 'znosny jak na kramarza'",
@@ -1026,8 +1026,8 @@
       "zawod": "oficer zaopatrzenia domu lorda Manderly (szczebel nad Godrikiem); trzyma pieczec/formalizacje firmy, pyta kto stoi za 'firma wdowy Miry'",
       "nastawienie_do_gracza": 40,
       "zaufanie": 10,
-      "ostatni_kontakt": "297-09-25 (przez Godrica, nie bezposrednio) - NAMIERZONY jako szczebel trzymajacy drzwi: 'nie opierajmy zimy na jednej firmie' + sonda 'kto stoi za wdowa'. WYROWNANIE NIEZNANE: kupiony slug pierscienia czy ostrozny establishment? Klucz: czy poludniowe zloto pierscienia go dotyka (do zszycia z lowem Nesty).",
-      "notatka": "Srodkowe ogniwo? Jesli poludniowy kapital dotyka Aldrica -> Roldan/Aldric/principal = jeden lancuch, Aldric ogniwo srodkowe. Jesli nie -> zwykla zamkowa zawisc do przeczekania (dostawa+slub). NIE konfrontowac wprost - najpierw ustalic wyrownanie przez Neste."
+      "ostatni_kontakt": "297-09-25 (przez Godrica, nie bezposrednio) - NAMIERZONY jako szczebel trzymajacy drzwi: 'nie opierajmy zimy na jednej firmie' + sonda 'kto stoi za wdowa'. WYROWNANIE NIEZNANE: kupiony slug pierscienia czy ostrozny establishment? Klucz: czy poludniowe zloto pierscienia go dotyka (do zszycia z lowem Nesty). || 09-26 POSZLAKA (Theomore, niewiadomy swiadek): Aldric mial GOSCIA kupca z poludnia (jesien, przed mrozami) + zbyt regularne listy; jego 'roztropnosc' ROZDRABNIA zaopatrzenie (dokladnie jak potrzebuje ktos zostawiajacy luke pod glodowe zloto). PRAWIE NA PEWNO srodkowe ogniwo pierscienia - poludniowy pieniadz go dotyka. Nie dowod (principala nazwie Nesta), ale mocna poszlaka od swiadka wewnatrz zamku.",
+      "notatka": "Prawie na pewno srodkowe ogniwo pierscienia (poszlaka Theomore: poludniowy kupiec+listy+rozdrabnianie dostaw). Czekac na principala od Nesty, wtedy lancuch domkniety. NIE konfrontowac wprost."
     }
   ],
   "w_orbicie": [

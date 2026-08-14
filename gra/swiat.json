@@ -2,15 +2,15 @@
   "data": {
     "rok": 297,
     "miesiac": 9,
-    "dzien": 25,
+    "dzien": 26,
     "era": "AC"
   },
   "pora": "RANEK",
   "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
-  "pogoda": "MROZ TRZYMA (rzut 32) - zabojcza zmarz nie puszcza, nieco lagodniej niz szczyt, ale rzeka skuta, opal/prowiant wciaz liczone na dni. Zima trzyma Polnoc.",
+  "pogoda": "MROZ GLEBOKI TRZYMA (rzut 19) - zabojcza zima nie odpuszcza, rzeka skuta na glucho, opal/prowiant wciaz zycie liczone na dni. Polnoc w twardym uscisku.",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
-  "nastroje_miasta": "297-09-25 RANEK, mroz trzyma: INBOUND 66 - pozycja uczciwej reki firmy pracuje, staly naplyw, skladowanie/podaz plyna, zimowa rola sie utrwala. INBOUND2 27 CHLODNY WIATR Z GORY: Godric przyslal poslanca (niechetnie, jak ostrzezenie sprzymierzenca) - 'wyzsza reka' co trzyma drzwi zaczela zadawac pytania NIE o dostawy lecz KTO stoi za 'firma wdowy Miry', kto finansuje, czyja glowa. Establishment zjezyl sie na publiczny wzrost firmy i dlubie przy FRONCIE (Mira pryncypal / Symon w cieniu / Nesta cichy backer). Sonda, nie cios - ale w niewlasciwym miejscu. Symon: 128 jel, siec reliefu dojrzala pod mantia Wiary, Owen 54/Godric 55/Bran 53/Mira 96-96; nitka Nesty po principalu ~10-10. 18 dni do slubu.",
+  "nastroje_miasta": "297-09-26 RANEK, mroz gleboki: INBOUND 86 - miasto MOCNO z firma, pozycja uczciwej reki pracuje pelna para, skladowanie/podaz plyna, zimowa rola utrwalona; firma = adres na zime. INBOUND2 74 - CIEPLE poruszenie w kregu: maester Theomore (autor rachunku ryzyka) przyslal slowo - doslyszal pytania Ser Aldrica o firme i UPRZEDZAJACO sygnalizuje, ze gotow poreczyc legalnosc/wartosc firmy w domu lorda; jego rachunek ryzyka jest cytowany z uznaniem w kregach maesterskich/household. Moze sie tworzyc PRZECIWWAGA dla Aldrica - przyjaciel na gorze. Symon: 108 jel, siec reliefu dojrzala pod Wiara, prep weselny domkniety (17 dni do slubu), Owen 54/Godric 56/Bran 53/Mira 96-96/Theomore ciepnie; nitka Nesty po principalu ~10-10.",
   "ceny": {
     "chleb": {
       "baza": 3,

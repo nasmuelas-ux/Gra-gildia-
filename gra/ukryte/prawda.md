@@ -202,3 +202,7 @@ Symon pokazal lordowskiemu maesterowi (ktory TRZYMA dossier zmyslonych deklaracj
 
 ### 297-08-13 - KULMINACJA ANTARYONA (rzut 100)
 Zelazny Bank uderzyl decydujaco. Miesiace gry Symona z cienia (dowod trojstronny weryfikowalny wzgledem ksiag Banku = 'jego odkrycie') zaowocowaly: Antaryon skonfrontowany, aparat frachtowego zdzierstwa rozbity, dom ujarzmiony przez wierzyciela na karzacych warunkach. Firewall PERFEKCYJNY - Bank ruszyl na wlasny rachunek, pytanie o zrodlo upadlo, Symon niewidzialny (max 3 knowerzy: Symon/Nesta/Owen; Garth/Belarno bufory czyste). Symon UDERZYL wielki dom nie dotykajac go - zemsta liczb, sprawiedliwosc z cienia. NADAL: zostac duchem (ulga=moment potkniecia); mozliwy slepy odwet Antaryona szukajacego winowajcy (NIE ma nitki do Symona).
+
+
+## 297-09-10 — FIREWALL 3->4 (Mira wie), ale STRAIN
+Symon wyznal Mirze cala prawde (czysto, propozycja frontu jako wolny wybor). Rzut 10: prawda spadla kamieniem. Mira wie TERAZ (4. knower, nieodwracalnie), ale przyjela z lekiem+rana: (1) 'nie dales mi wyboru ZE wiem - nie moge od-wiedziec; ciezar nazwany prezentem'; (2) timing - powiedzial po wprowadzce/zwiazaniu zycia = 'partnerka czy zwerbowana?'. Cofnela sie (guarded), poprosila o PRZESTRZEN, nie rozstrzygnela frontu. Wiez nie zerwana (kocha) ale STRAIN. Owen (rzut 24, 09-09) validated: jej zgoda nie zdjela ciezaru, ciezar spadl na nia. NAPRAWA: cierpliwosc, przestrzen, stalosc (jego mistrzostwo z nia); NIE naciskac frontu.

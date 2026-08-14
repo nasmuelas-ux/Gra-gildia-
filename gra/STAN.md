@@ -131,6 +131,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `ROZWIAZANE PRZEZ ZAULEK 08-18 (biedni zadbali o biednych)` dake_lodz_pomoc: 297-08-17: sztorm rozbil lodz Dake (mlody rybak, maz Bess=wnuczka Wendy). Symon chcial pomoc jako WEDKA nie ja
 - ◆ `ZAPLACONY 08-22 (-8 jel, w terminie)` podatek_miejski_inbound: 297-08-19 (audyt gracza): podatek miejski to periodyczny obowiazek mieszczanina (kwota/termin wg kalendarza), 
 - ◆ `ZAMKNIETY 08-20 (rekoncyliacja dostarczona, +7 jel)` aurane_audyt_posztormowy: 297-08-20 RANEK (inbound 71): AURANE przyslal sluzacego - po sztormie jego sklady to chaos ksiegowy (masa ladu
+- ◆ `297-10-13` wesele_symon_mira: WESELE Symona i Miry - Dzien Matki, udziela Owen; swiadek Aldous; wspolnota dol+krag+partnerzy+Serla. Marriage
 
 ## WATKI OTWARTE (najwazniejsze u gory)
 - **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 

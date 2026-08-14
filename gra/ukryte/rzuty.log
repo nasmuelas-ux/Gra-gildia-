@@ -1483,3 +1483,14 @@ drazie), zawrocil od antaryonskiego dostawcy, re-sourcuje; wczorajsze zdziwienie
 297-09-21 NOC | Zamkniecie dnia (rozmowa o jedzeniu/budzecie wesela + zaproszenie Elny) | bez rzutu - cieplo. Elna+rodzina+przyjaciele zaproszeni. Mira 'sala pelna wdziecznosci'.
 297-09-22 RANEK | TIK SWIATA | inbound 56 (biedota/relief przeciazony) / inbound2 58 (sztorm odcial rywala, zamek leje sie na firme) / pogoda 14 (SROGI SZTORM najgorszy dotad) | REGEN zmeczenie 4, sytosc 40. Sztorm gryzie: (1) rywal calkowicie odciety->firma de facto jedyna reka, petla przyspiesza; (2) biedota marznie/glodna, relief Wiary przeciazony (szansa sluzby, tarcza slabych, Faza 2). Watki dodane. NEXT gracza: provisioning crunch / relief biednych / wesele-prep / Bilans 10-01.
 297-09-22 RANEK | Zaproszenie rodziny+przyjaciol MIRY na wesele | bez rzutu - cieplo, honoruje rownosc. Mira poruszona (jej swiat rowno z jego; 'wyjsc za maz nie znikajac'). Wesele=spotkanie dwoch swiatow. Mira 96/96.
+
+=== 297-09-22 RANEK->DZIEN — SZTORM, druga doba, gra "jedno i drugie ta sama reka" ===
+EGZEKUCJA (logistyka rozdarta na dwa fronty w sztorm): 1 (KRYT-PORAZKA)
+  -> nie lancuch pada (assety trzymaja), pada AMBICJA jednej reki na dwa fronty. Druga fala sztormu: barka staje, woz grzeznie. Dwaj poslancy naraz (Godric + septa). Wymuszony triaz.
+OKO (kto zauwaza / ekspozycja): 46 (srednie)
+  -> kasztel widzi zawrocony woz; pytanie o lojalnosc firmy (residuum -> godric_pytanie_lojalnosc_09_22).
+DECYZJA GRACZA: "Znalezc druga reke teraz" (nie wybierac, ratowac oba).
+DRUGA REKA (zdazyc sciagnac+zgrac drugi front mimo stojacego szlaku): 59 (SUKCES-Z-KOSZTEM)
+  -> Symon sam w sztorm: Bran+2 tragarzy = lancuch przez zaspe; Mira trzyma front septy. OBA fronty pokryte.
+  -> KOSZT: zmecz 4->7, sytosc 40->28, flaga przemarzniety_ryzyko_choroby; czesc reliefu z wlasnych zapasow.
+  -> ZYSK: Bran nast89->93 zauf30->48; Mira proba ognia jako rowny wspolnik; Owen zauf42->45 (ziarno Fazy 2 widziane); doktryna "druga reka z gory".

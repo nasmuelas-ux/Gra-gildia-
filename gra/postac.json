@@ -8,8 +8,8 @@
   "mieszka": "ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).",
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 99,
-  "sytosc": 40,
-  "zmeczenie": 4,
+  "sytosc": 28,
+  "zmeczenie": 7,
   "sakiewka": {
     "miedziaki": 1,
     "jelenie": 132,
@@ -94,7 +94,9 @@
     "sumienie_przy_wladzy_08_30": "SUMIENIE PRZY WLADZY W CIENIU (297-08-30, z Owenem): w miare jak rosnie cicha moc Symona (Bank/firewall, siec, climb), Owen pilnuje nie taktyki lecz DUSZY - czy sprawiedliwosc byla czynem, nie upojeniem; czy nie ma dumy z ruiny wroga ani skazy pychy. Byc reka, ktora obala niesprawiedliwosc BEZ rozkoszy z niszczenia i bez potrzeby uznania. Znac granice wlasnego rzemiosla (jak w septcie) - i uczciwie kierowac tam, gdzie jest pomoc. Doradca sprawiedliwy zna tez granice WLADZY. Dusza czysta wazniejsza niz kolejny szczebel."
   },
   "depozyt_u_nesty_mied": 0,
-  "stany": [],
+  "stany": [
+    "przemarzniety_ryzyko_choroby (297-09-22): caly dzien w sztormie, przemoczony i niejadly. Jak sie nie ogrzeje+wyspi porzadnie do rana, rzut na chorobe zimowa. Odpoczynek+cieplo+jedzenie kasuje flage."
+  ],
   "wspolnictwo_nesta": {
     "draw_jel_mies": 6,
     "draw_ostatni": "297-05-24",

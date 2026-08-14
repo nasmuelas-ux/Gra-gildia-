@@ -1036,7 +1036,7 @@
     },
     {
       "id": "faza2_wyjscie_symona_z_cienia",
-      "stan": "DROGA ZASIANA (Owen, rzut 99): emergencja przez sprawiedliwosc widziana + reka Wiary",
+      "stan": "ZIARNO WSIANE W ZYWEJ GLEBIE (sztorm 09-22): Owen i biedota widzieli Symona-pisarza karmiacego wlasnymi rekami przez zaspe w najgorsza noc. Czyn widziany, tarcza slabych - jeszcze CICHA LOKALNA opowiesc (nie miejska legenda), ale prawdziwa i wsiana. Droga Owena (sprawiedliwosc widziana + reka Wiary) potwierdzona w ogniu.",
       "priorytet": "NADRZEDNY",
       "opis": "297-09-13 (nazwane przez Mire): SZEW frontu - Mira jako twarz dostaje standing/oko lorda, Symon zostaje duchem. Ale gwiazda Symona=byc WIDZIANYM osobiscie (doradca Starkow/Winterfell). Pytanie FAZY 2: JAK Symon wychodzi z cienia i staje sie SEEN/doradca, NIE walac firewalla (Antaryon=dluga pamiec) i NIE czyniac Miry jedynie beneficjentka jego drabiny? Mozliwe drogi (do rozwazenia): legit publiczna tozsamosc via kompetencja pokazana lordowi / kredyt Theomore(intelekt) / reka Owena(Wiara) / 'mozg za sukcesem firmy' jako szanowany jawny sekret. NIE rozwiazane; trzymac z tylu glowy przy kazdym kroku Fazy 1. || 09-14 OWEN (rzut 99): DROGA FAZY 2 - nie gonic bycia widzianym; stac sie niezaprzeczalnym przez CZYN (nakarmic Polnoc ta zima wlasna glowa), Wiara zareczy CHARAKTER (nie ambicje) -> stanac przed lordem jako CZLOWIEK SPRAWIEDLIWY (takich biora do rady). Byc widzianym=byc dobrym, JEDNO; czyni widzialnym bez tykania firewalla (pokazuje prawde nie kryje klamstwa). Vehicle: zimowe karmienie biednych + moralna reka Owena/Wiary. To spina tarcze+gwiazde+sumienie w jedno. Zgodne z cel_zyciowy (doradca sprawiedliwosci, tarcza slabych). || 09-16: potwierdzone ziarno - Godric/Theomore JUZ znaja Symona jako mozg = latentna sciezka emergencji (sponsorzy niosa imie), ale dzis trzymac front (nie eksponowac)."
     },
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "rywal_pierwsza_rysa_09_20",
-      "stan": "POGLEBIA SIE - rywal zawodzi POWAZNIE, luka prowiantowa, zamek patrzy na firme",
+      "stan": "POGLEBIA SIE (09-22 sztorm): rywal odciety calkowicie, luke prowiantowa kasztelu pokryla FIRMA (Symon osobiscie, mimo triazu). Petla niezastepowalnosci zaciska sie - ale z rysa (patrz godric_pytanie_lojalnosc).",
       "priorytet": "wysoki",
       "opis": "297-09-20 (inbound 57): pierwsza RYSA na rywalu - jego klient SPOZNIL/nie dowiozl pierwszych partii (towar utknal zza skutej rzeki, dokladnie jak przewidziano). Grapevine/dol niesie kontrast: firma dowozi bezblednie, rywal stoi. Zamek zauwaza. To POCZATEK klieski rywala (dluga gra Miry zaczyna procentowac) - nie pelny kolaps jeszcze, lecz pierwszy widzialny pekniecie. Firma GOTOWA wchlonac (redundancja+pojemnosc skalowania staged). NEXT: dowozic dalej bezblednie, byc gotowym gdy zamek zwroci sie po calosc; nie gloatowac (doktryna Roldan). || 09-21 (inbound 94 KRYT): kleska rywala POWAZNIEJE - kolejne partie nie dojechaly, otwiera sie realna LUKA prowiantowa (zamek w niedoborze). Steward/dom PATRZA na firme, by wskoczyla/rozszerzyla udzial. DLUGA GRA PLACI - firma GOTOWA (redundancja Merrek+Torwyn + pojemnosc staged Aurane). Okazja do wchloniecia calosci/wiekszego udzialu nadchodzi. NEXT: byc gotowym gdy zamek poprosi (nie gloatowac). || 09-21 WIECZOR (rzut 44): zamek poprosil firme o pokrycie luki DORAZNIE ('tymczasowe wsparcie') - steward tchorzy formalnie (Roldan), nie przepisuje roli. Firma powiedziala TAK od reki (redundancja Torwyn+Aurane WALIDOWANA=scaling dziala). Wiecej dostaw+dowodu+niezastapionosci; petla sie zaciska (firma de facto jedyna pewna reka). Formalne przejecie odlozone ale nieuniknione. Stopgap margin +8 jel (kasa 149->157). || 09-22 (inbound 58, sztorm pogoda 14): sztorm CALKOWICIE odcial dalek dostawe - rywal nie dowiezie NIC, zamek w ostrym niedoborze, leje sie na firme o coraz wiecej emergency-coverage. Dluga gra PRZYSPIESZA - firma de facto jedyna reka karmiaca zamek. Petla mocno sie zaciska."
     },
@@ -1102,9 +1102,19 @@
     },
     {
       "id": "biedota_sztorm_relief_09_22",
-      "stan": "NOWE - sroga zima bije w biedote, relief Wiary przeciazony",
+      "stan": "ROZWIAZANE (09-22, rzut 59): relief nie padl - Symon+Mira+Bran dowiezli worki pod scianę przytulku ostatnia reka. Nikt tej nocy nie zamarzl. Czesc z wlasnych zapasow Symona.",
       "priorytet": "sredni",
       "opis": "297-09-22 (inbound 56, sztorm): najsrozszy mroz uderza w najbiedniejszych - zaulki marzna/glodna, septa/relief Wiary przeciazony. Owen/Wiara potrzebuja rak i zasobow. Szansa dla Symona (tarcza slabych): sluzyc (racje, opal, jego rachunkowa glowa do rozlozenia pomocy) - zgodne z charakterem + droga Owena (Faza 2, sprawiedliwy widziany przez czyn). Moze wesprzec kasa/prowiantem/koordynacja. NEXT: ew. pomoc w reliefie."
+    },
+    {
+      "id": "sztorm_dwie_rece_09_22",
+      "stan": "ROZEGRANE (EGZ kryt-1 -> triaz -> DRUGA REKA rzut 59 sukces-z-kosztem): Symon nie wybral, sciagnal druga reke SAM w sztorm. Bran+2 tragarzy = lancuch przez zaspe (gora i dol), Mira trzymala front septy. OBA fronty pokryte: kasztel dostal prowiant (spoznione, dowiezione), biedota przetrwala noc. KOSZT: Symon przemarzniety (zmecz 7, sytosc 28, flaga ryzyka choroby), czesc reliefu z wlasnych zapasow (swiadomy datek Fazy 2). NAUKA: brakowalo DRUGIEJ REKI postawionej z gory -> doktryna: deputat gotowy ZANIM uderzy fala.",
+      "priorytet": "zamkniete"
+    },
+    {
+      "id": "godric_pytanie_lojalnosc_09_22",
+      "stan": "NOWE (OKO 46, residuum sztormu): kasztel zauwazyl, ze woz firmy zawrocil ku biedocie w dniu, gdy kuchnie czekaly. Pytanie wisi: 'czyja ta reka jest - nasza czy uliczna?'. Zmieklo dzieki temu, ze Symon SAM dowiozl gorze. RYZYKO: Roldan moze to spinowac na 'lojalnosc firmy podzielona'. AKCJA: domknac na czysto jutro (Godric cieplo+fakt: gora dostala swoje, dol tez, jedna reka pewna) zanim nabierze gorszego sensu.",
+      "priorytet": "wysoki"
     }
   ]
 }

@@ -142,8 +142,8 @@
         "kontuzja plecow",
         "ze go ominie lepsza fucha"
       ],
-      "nastawienie_do_gracza": 89,
-      "zaufanie": 30,
+      "nastawienie_do_gracza": 93,
+      "zaufanie": 48,
       "wie_o_graczu": [
         "pije z nim czasem piwo",
         "czyta mu listy od brata z Siostr",
@@ -181,7 +181,7 @@
         "297-06-10 (rzut 66): Symon przyszedl dograc Wicka w izbie 3 - i zrobil to WLASCIWIE: nie dekret nad glowa, lecz \"twoj teren, dograjmy razem\", pytal o zdanie. Bran (dumny, zasluzony) uhonorowany jako gospodarz. Dograne: opal na dwoch w izbie 3, czynsz Hala obnizony (do wiedzy Brana), Symon POREczyl za Wicka - Bran (sam podniesiony z tragarza) przyjal chlopaka jak swojego, benevolent oko nie czujne. Zapytal o niego i Alys (zone). Wiez ciepla. nast 86->87."
       ],
       "dlugi": [],
-      "ostatni_kontakt": "297-09-06 WIECZOR (rzut 86) - Symon (wyprowadzony do Miry, izba 4 pusta) oddal Branowi IZBE 4 na mieszkanie z zona ALYS (slub 297-04-07, Symon byl swiadkiem). Bran (23 l.) nie wierzyl ('to izba dla placacego lokatora, za wiele'), Symon nie ustapil. Mlode malzenstwo - Bran i Alys - dostaje pierwsza wlasna prawdziwa izbe, by budowac zycie/rodzine (Bran odkladal kiedys na wesele; teraz maja DOM). Bran wzruszony: 'bede pilnowal jak oka w glowie; jestescie inny pan; bogowie dali mi dobrego pana'. LOJALNOSC ABSOLUTNA - dozorca ktory przejdzie przez ogien. Sprawiedliwosc odruchem nie kalkulacja. zauf 23->30.",
+      "ostatni_kontakt": "297-09-22 (sztorm, rzut 59) - Symon przyszedl po niego w srodku burzy: 'ludzie umra, teraz'. Bran poszedl BEZ pytania o zaplate, sciagnal 2 tragarzy, tworzyl lancuch ludzi przez zaspe od skladu Aurane'a. Przelom: z dozorcy w ZAUFANEGO CZLOWIEKA Symona. Lojalnosc dowiedziona ciałem.",
       "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
       "historia": [
         "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",
@@ -487,7 +487,7 @@
         "herezje z Wolnych Miast w porcie"
       ],
       "nastawienie_do_gracza": 93,
-      "zaufanie": 42,
+      "zaufanie": 45,
       "wie_o_graczu": [
         "obcy z Polnocy, uczony przez maestera",
         "dobra, pewna reka do pisma",
@@ -581,7 +581,7 @@
         "297-06-20 POLUDNIE: Symon domknal - przywrocil kobiete PRZEZ SIOSTRE (reka w cieniu), wpisal \"potrzeba prawdziwa\", oddal OSAD LUDZKI siostrze/septie (kto jest kim), a sobie zostawil tylko zaplecze (store/rachuby). Metoda skorygowana wlasciwie: przy Wierze = liczydlo za kotara, nie reka na jalmuznie. Sprawa zamknieta cicho."
       ],
       "dlugi": [],
-      "ostatni_kontakt": "297-09-21 WIECZOR - Symon poprosil Owena o UDZIELENIE SLUBU. Owen gleboko wzruszony (twarz zmiekla): 'przyszedles rok temu z sekretem co mogl cie pozrec, balem sie o twoja dusze; patrzylem jak zamiast zgnic w cieniu karmiles ubogich, podnosiles slabych, powiedziales prawde ukochanej, wyszedles z ognia czystszy; udzielic ci slubu to zaszczyt, nie obowiazek'. ZGODA. Wybral date: DZIEN MATKI (bogini milosci/malzenstwa/rodziny) za ~3 tygodnie = 297-10-13. Wiara laczy (bezpieczna brama prawna + radosc). nast 93, zauf 41->42.",
+      "ostatni_kontakt": "297-09-22 (sztorm) - Owen widzial, jak Symon-pisarz w najgorsza noc karmil biednych WLASNYMI REKAMI, przez zaspe, nie znikajac. Ziarno Fazy 2 wsiane w zywej glebie - jeszcze cicha lokalna opowiesc, ale prawdziwa. zauf 42->45.",
       "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
       "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25).",
       "rok_urodzenia": 243
@@ -1298,7 +1298,7 @@
         "297-06-24 (rzut 93): Symon domknal POPYT lokalnego drewna - przyniosl ROZWIAZANIE kra-dziury (drewno Benneta, lokalne/ladem/kra-odporne) gdy rzeka stoi. Godric ULZONY (mial tlumaczyc zamkowi pustke, ma czym wypelnic). Symon zagral bezblednie: TWARZ GODRICA (on zabezpiecza drewno, Symon niewidzialny), broker nie pryncypal, przez standing cechu + WLASNA ziemia Benneta (zaden las lorda/lesniczy - czysto), marza < wartosc. KLUCZOWE: Godric \"to dokladnie o czym mowilem w maju\" - chcial stalej umowy JESLI dowieziesz PEWNIE; rzeka=niepewna, lokalne=niezawodne -> STANDING CONTRACT PROSPEKT WRACA na twardszym gruncie. \"Kto dowozi gdy inni nie moga, z takim siada sie do umowy.\" nast 88->90, zauf 28->30.",
         "297-06-25 (rzut 93): podpisal umowe drewna za zamek (procurement). Drewno Benneta plynie ladem gdy rzeka leży. KLUCZOWE: reliability udowodniona -> Godric SAM PCHA ku STALEJ UMOWIE (\"pokazales com chcial - dowieziesz gdy inni nie moga; siadzmy niedlugo do stalej umowy, staly strumien nie latka\"). Wielki prospekt dojrzewa mocno. zauf 30->31."
       ],
-      "ostatni_kontakt": "297-09-21 WIECZOR (rzut 44) - Symon dal przez Godrica cichy sygnal gotowosci (pokryc lukE, bez gloatu). Dom chce firme (oczywista odpowiedz) ale steward TCHORZY formalnie: prosi o pokrycie doraznie ('tymczasowe wsparcie'), NIE przepisuje roli (dobicie klienta Roldana=za wiele dla niego). Godric sfrustrowany tchorzostwem stewarda, ale niesie. Kazda dorazna dostawa zaciska petlE (firma=de facto jedyna pewna reka). 49.",
+      "ostatni_kontakt": "297-09-22 (sztorm, OKO 46) - na kasztelu ZAUWAZONO, ze woz firmy zawrocil w strone biedoty, gdy kuchnie czekaly. ALE widziano tez, ze Symon SAM stal w zaspie i dowiozl gorze mimo wszystko (spoznione, ale dostarczone). Pytanie wisi: 'czyja ta reka jest - nasza czy uliczna?'. Zmieklo z 'firma zawiodla' do 'ten czlowiek probowal uniesc wszystkich'. WYMAGA czystego domkniecia jutro, zanim ktos (Roldan) nada gorszy sens.",
       "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",
       "historia": [
         "m11d16 (rzut 97): Symon wchodzi cicho, bez prosby, z oferta wartosci — braavijska ksiegowosc dla domu. Godric (ceni go za dyskrecje-lojalnosc) przyjmuje idealnie i POWIERZA staly, cichy angaz: prowadzenie/audyt czesci rachunkow domu do wyzszego, braavijskiego standardu, regularnie, dyskretnie, platnie. Symon = odtad ZAUFANY CZLOWIEK OD LICZB DOMU (nie jednorazowy audytor). Zaufanie mocno w gore. Nast 38->42. Zero ekspozycji karty.",
@@ -1704,7 +1704,7 @@
         "utrzymac resztke interesu meza",
         "niezaleznosc/nie dac sie popchnac"
       ],
-      "ostatni_kontakt": "297-09-20 POLUDNIE (rzut 97 KRYT) - SYMON OSWIADCZYL SIE: slub, by partnerstwo bylo niepodwazalne TAKZE prawnie. Uderzyl w jej najglebszy lek (wdowa: malzenstwo=utrata autonomii/gruntu), ALE od razu przeramowal jak czlowiek-od-kontraktow: 'nie znikniesz we mnie; spisze umowe zostawiajaca ci twoj grunt/udzial/odrebnosc nienaruszalne; rowni albo wcale przypieczetowane prawem, nikt nie podwazy nas ani twojego miejsca'. Jej fear spotkal odpowiedz w calym roku (zatrzymal kamieniczke by ona miala grunt, klocil sie jak z rowna, oddal prawde, uczynil wspolpryncypalem nie maska). Mira: 'prosisz o reke I podajesz umowE co trzyma mnie soba; moj pierwszy maz ozenil sie by mnie zlozyc w sobie, ty zenisz sie by nas uczynic nie do zlamania i zostawiasz mnie CALA - cala roznica'. TAK - na ich warunkach, na pismie, jako rowna ('raz wychodze za maz nie tracac siebie'). KULMINACJA luku Miry (od 'malzenstwo=utrata siebie' do slubu-rownych). Wiez PEAK zauf 94->96, nast 95->96. Partnerstwo prawnie niepodwazalne (chroni jej udzial+struktura firmy koherentna vs probing). || 09-22 RANEK: Symon dopilnowal zaproszenia RODZINY I PRZYJACIOL MIRY (jej swiat rowno z jego) - poruszona, honoruje jej rownosc takze w weselu. 'Chce, zeby zobaczyli, ze mozna wyjsc za maz nie znikajac'. 96/96.",
+      "ostatni_kontakt": "297-09-22 (sztorm, rzut 59) - Symon posłał ją trzymac drugi front: septa/przytulek Owena. Mira udzwignela polowe roboty jak ROWNY WSPOLNIK - rozdzielala relief, dyrygowala wdowami z sukiennego kregu. Dzien przed slubem proba ognia zdala sie sama: nie 'zona pomogla', partnerka uniosla pol miasta obok Symona.",
       "cechy_mowy": "krotko, rzeczowo, chlodno; bystra, przenikliwa, malo daje z siebie; twarda niezaleznosc",
       "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA.",
       "flaga_postawa": "AKTYWNE PARTNERSTWO (07-24) - korytarz sukna DOPIETY na jej warunkach: zostaje soba (handel/ksiegi/reka nietkniete), wnosi braawijskie dojscia+wiedze jako WEZEL Z AGENCJA za uczciwy wycinek, moze sie wycofac (autonomia zelazna). Wybrala wspolne przedsiewziecie z Symonem jak rowna. Bond poglebia sie przez wspolna prace, nie deklaracje. NIE napierac personal - rosnie samo.",

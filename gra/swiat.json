@@ -2,15 +2,15 @@
   "data": {
     "rok": 297,
     "miesiac": 9,
-    "dzien": 24,
+    "dzien": 25,
     "era": "AC"
   },
   "pora": "RANEK",
   "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
-  "pogoda": "MARTWA ZABIJAJACA ZMARZ (rzut 2) - po sztormie zeszla w bezruchu gleboka, cicha, zabojcza zmarz. Zaden wiatr - tylko powietrze tnace pluca, niebo twarde jak stal, rzeka peka i zastyga na glucho. Maesterski cien prawdziwej zimy PRZESTAL byc cieniem: Polnoc wchodzi w mroz, ktory zabija. Opal/prowiant = zycie liczone na dni, nie towar. To scena, na ktorej wszystko, co Symon zbudowal (pewna podaz, relief, ksiega zapasow), staje sie centralne - i na ktorej pierscien glodowy ma swoja dzwignie.",
+  "pogoda": "MROZ TRZYMA (rzut 32) - zabojcza zmarz nie puszcza, nieco lagodniej niz szczyt, ale rzeka skuta, opal/prowiant wciaz liczone na dni. Zima trzyma Polnoc.",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
-  "nastroje_miasta": "297-09-24 RANEK, MROZ KTORY ZABIJA: Bialy Port zamiera w martwej zmarzi, rzeka skuta na glucho. Opal i prowiant staja sie zyciem. INBOUND 88: miasto i port CISNA do firmy - 'pewna reka' po sztormie to teraz jedyny adres na zime; kupcy, drobni i sredni, chca zapasow pod dach i dostaw; strumien skladowania/podazy pecznieje. INBOUND2 73: z kregu Godrica dobra wiesc - jego narracja 'firma co nakarmila zamek i miasto naraz' POSZLA W GORE do wyzszych uszu Manderly, a kasztel (rywal padl calkowicie) chce OPRZEC sie na firmie mocniej w prowiantowaniu zimowym. Doktryna warstwy 2 (stanac jawnie jako uczciwa podaz) sama sie otwiera. Symon: 128 jel wolne, Owen zauf 52, Godric zauf 54, Mira 96/96; nitka Nesty po principalu pierscienia bije w tle (~10-10). 19 dni do slubu.",
+  "nastroje_miasta": "297-09-25 RANEK, mroz trzyma: INBOUND 66 - pozycja uczciwej reki firmy pracuje, staly naplyw, skladowanie/podaz plyna, zimowa rola sie utrwala. INBOUND2 27 CHLODNY WIATR Z GORY: Godric przyslal poslanca (niechetnie, jak ostrzezenie sprzymierzenca) - 'wyzsza reka' co trzyma drzwi zaczela zadawac pytania NIE o dostawy lecz KTO stoi za 'firma wdowy Miry', kto finansuje, czyja glowa. Establishment zjezyl sie na publiczny wzrost firmy i dlubie przy FRONCIE (Mira pryncypal / Symon w cieniu / Nesta cichy backer). Sonda, nie cios - ale w niewlasciwym miejscu. Symon: 128 jel, siec reliefu dojrzala pod mantia Wiary, Owen 54/Godric 55/Bran 53/Mira 96-96; nitka Nesty po principalu ~10-10. 18 dni do slubu.",
   "ceny": {
     "chleb": {
       "baza": 3,

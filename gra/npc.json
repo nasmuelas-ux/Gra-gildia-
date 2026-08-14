@@ -665,9 +665,9 @@
       "imie": "Theomore",
       "zawod": "maester lorda Wymana Manderly na Nowym Zamku; uczony, zna prawo i precedens, ma ucho lorda i drogi ku Cytadeli/Winterfell; ale sluzy establishmentowi (ryzyko) | OCENA OWENA: uczony i (wg Owena) osobiscie uczciwy — nie Ryman, zwiazany kodeksem Cytadeli; ALE lojalnosc nalezy do lorda Wymana, nie do sprawiedliwosci samej w sobie ani do obcego/wdowy. Ryzyko nie 'zdrada za srebro', lecz 'jego obowiazek biegnie ku establishmentowi' — co zrobi z rzecza, zalezy od interesu LORDA, nie Symona.",
       "nastawienie_do_gracza": 75,
-      "ostatni_kontakt": "297-09-29 - na prosbe Symona poszedl (z Godrikiem) pre-briefowac kasztelana czystym bona fide firmy, wyprzedzajac 'obawe' Aldrica. Wydal kapital reczac. Efekt czesciowy (46): sledztwo defanged w uczciwe+wolne. Sojusz dziala.",
+      "ostatni_kontakt": "297-09-30 - poprowadzil chlodna sekwencje przed lordem Wymanem (rzut 79), oskarzyl w imieniu prawdy, dostep maestera przebil sciane Helyarda. Sojusz przypieczetowany ogniem. Symon oddal mu publicznie zasluge przed lordem. zauf 50->58.",
       "cechy_mowy": "uczenie i wynioslo, poludniowy akcent; lubi slowa 'precyzyjnie' i 'wedle precedensu'",
-      "zaufanie": 50,
+      "zaufanie": 58,
       "wie_o_graczu": [
         "przedstawil sprawe Rymana jasno, jak rachmistrz — Theomore docenil klarownosc, ALE odmowil dzialania: to tylko kopia, brak oryginalu/korroboracji, oskarzenie tyczy szanowanego czlowieka u lorda; nie tknie bez ironclad proof",
         "m9d6: prostak-skryba przyszedl PROSIC o nauke/dostep do wiedzy — Theomore odprawil go chlodno, z wynioslоscia: nie ma PRECEDENSU, by maester ksztalcil nisko urodzonego; jego obowiazek to lord, nie edukacja kupczykow. Symona widzi jako natreta, co znowu sie napraszania (po Rymanie). Braavijski Symona zbyl jako 'znosny jak na kramarza'",
@@ -1015,19 +1015,27 @@
       "zawod": "gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiezi poza Bialym Portem (spekulant, kupuje panike)",
       "wiek": 41,
       "rok_urodzenia": 256,
-      "nastawienie_do_gracza": 55,
+      "nastawienie_do_gracza": 0,
       "zaufanie": 10,
-      "ostatni_kontakt": "297-09-23 RANEK (ODMOWA 52 / WYWIAD 76) - Symon odmowil JEZYKIEM KUPCA nie kaplana ('moja wartosc to czysta reka; wasza marza nie pokrywa mojego ryzyka'). Rennifer kupil, odlozyl Symona jako 'zasadniczy, bezuzyteczny' - most caly, nie wrog. ALE rozluzniony odslonil brzeg planszy: Rennifer to TWARZ SYNDYKATU (kapital z poludnia przez Gulltown), ktory JUZ cicho skupuje prowiant/opal po panicznych cenach = pierscien glodowy. Nitka syndykatu biegnie do kregu SER ROLDANA. Glowny pieniadz = nieznany (do wysledzenia). nast 58->55.",
+      "ostatni_kontakt": "297-09-30 UPADL: zwiniety jako twarz skupu pierscienia. Gladki faktor syndykatu - skonczony.",
       "notatka": "Twarz syndykatu glodowego (nie principal). Nie wrog wprost - spisal Symona na straty. Klucz: laczy szept-o-lojalnosci Roldana z gra na glod w JEDNA gre."
     },
     {
       "id": "ser_aldric_oficer",
       "imie": "Ser Aldric",
       "zawod": "oficer zaopatrzenia domu lorda Manderly (szczebel nad Godrikiem); trzyma pieczec/formalizacje firmy, pyta kto stoi za 'firma wdowy Miry'",
-      "nastawienie_do_gracza": 38,
+      "nastawienie_do_gracza": 0,
       "zaufanie": 10,
-      "ostatni_kontakt": "297-09-25 (przez Godrica, nie bezposrednio) - NAMIERZONY jako szczebel trzymajacy drzwi: 'nie opierajmy zimy na jednej firmie' + sonda 'kto stoi za wdowa'. WYROWNANIE NIEZNANE: kupiony slug pierscienia czy ostrozny establishment? Klucz: czy poludniowe zloto pierscienia go dotyka (do zszycia z lowem Nesty). || 09-26 POSZLAKA (Theomore, niewiadomy swiadek): Aldric mial GOSCIA kupca z poludnia (jesien, przed mrozami) + zbyt regularne listy; jego 'roztropnosc' ROZDRABNIA zaopatrzenie (dokladnie jak potrzebuje ktos zostawiajacy luke pod glodowe zloto). PRAWIE NA PEWNO srodkowe ogniwo pierscienia - poludniowy pieniadz go dotyka. Nie dowod (principala nazwie Nesta), ale mocna poszlaka od swiadka wewnatrz zamku. || 09-28 POTWIERDZONY (Nesta, slad zlota): pieniadz agresywnych skupow pierscienia DOTYKA Aldrica (wspolny kanal/faktor). Operacyjnie KUPIONY - srodkowe ogniwo pierscienia, nie ostrozny zawistnik. Brak jeszcze pieczeci do sedziego, ale flow jasny.",
+      "ostatni_kontakt": "297-09-30 UPADL: pojmany tej nocy nim go ostrzezono (papiery zajete), zdrada w domu lorda udowodniona. Kupione ogniwo pierscienia skonczone.",
       "notatka": "Prawie na pewno srodkowe ogniwo pierscienia (poszlaka Theomore: poludniowy kupiec+listy+rozdrabnianie dostaw). Czekac na principala od Nesty, wtedy lancuch domkniety. NIE konfrontowac wprost."
+    },
+    {
+      "id": "lord_wyman_manderly",
+      "imie": "Lord Wyman Manderly",
+      "zawod": "Lord Bialego Portu, najpotezniejszy chorazy Starkow; pozornie senny grubas o bystrych oczach, lojalny Polnocy, cunning",
+      "nastawienie_do_gracza": 72,
+      "zaufanie": 40,
+      "ostatni_kontakt": "297-09-30 (cios rzut 79) - Theomore chlodna sekwencja odslonila pierscien glodowy; Wyman ruszyl tej nocy (Aldric pojmany, Roldan/Rennifer zwinieci, Helyard zhanbiony za tuszowanie, Pryor obnazony/zbanowany, zapasy zajete->relief). Spytal o architekta w cieniu; Symon podal imie SYMON TALLY i ROZDAL zasluge (Theomore/Merrek/Torwyn/Nesta/Owen). Wyman: 'czlowiek co dzieli chwale gdy mogl ja zagarnac to czlowiek ktorego mozna postawic nad innymi; zapamietam to imie'. NADAL: uznanie+ucho lorda, formalizacje roli zimowej pieczecia, wezwanie na przyszlosc, 50 jel token. Szacunek prawdziwy - rzadki u Wymana."
     }
   ],
   "w_orbicie": [
@@ -2115,9 +2123,9 @@
       "id": "ser_roldan_patron",
       "imie": "Ser Roldan",
       "rola": "dworzanin w otoczeniu Manderlych, ma ucho stewarda; PATRON rywala prowiantowego (rywal=jego klient, ciagnie z sadzania swojego na intratnej roli)",
-      "nastawienie_do_gracza": null,
+      "nastawienie_do_gracza": 0,
       "zaufanie": null,
-      "ostatni_kontakt": "297-09-23 (rykoszet): spin Roldana o 'rozdzielonej lojalnosci' firmy odbil sie - Godric rozpoznal, ze szczuje ten, ktoremu prowiant utknal w sniegu, na firme co ocalila kasztel. Drobny ubytek wiarygodnosci Roldana u Godrica. Symon nie ruszyl palcem (doktryna: nie walczyc, outlast). Roldan sam sobie zaszkodzil."
+      "ostatni_kontakt": "297-09-30 UPADL: zwiniety jako agent pierscienia (linia frontu przez patrona-czlowieka Pryora). Wojna z firma skonczona jego kleska - nie ambicja rywala, awangarda pierscienia, zmiazdzona reka lorda."
     },
     {
       "id": "kupiec_torwyn",

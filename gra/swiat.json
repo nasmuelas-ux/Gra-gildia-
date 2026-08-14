@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 4,
+  "dzien": 5,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 84,
- "dzien_tygodnia_nr": 1,
+ "pogoda": 31,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-04 WIECZOR (Owen: mlody umysl na analityka, rzut 48 solidny): Symon przyszedl model-Hala - po czysty mlody rozum do wychowania, nie kupienia. Owen (jego misja: sieroty w dobre rece) RAD co do zasady - Hal=dowod ze dziala. Ale 48 nie kryt: Owen, trzezwy, przyłozyl LUSTRO do MOTYWU (jak Mira do strategii, tak on do duszy): 'wychowujesz analityka czy dziecko? Jesli bierzesz go, by liczyl dla ciebie a nie by wyrosl - to nie to, co ja zrobilem tobie ani ty Halowi.' Zaszczepil warunek: rosc PERSON nie narzedzie, dac czas, dziecko tez wybiera. LEAD: wskazal WENDE (~12, sierota, cicha, bystra w cyfrach jak malo kto; swiat i tak nie da dziewczynie liczyc jawnie = idealnie DYSKRETNA/niewidoczna/lojalna za szanse - jak Mira handluje bo ja nie doceniaja). Owen delikatniej: dziewczyne wychowac to jeszcze wieksza odpowiedzialnosc (jej przyszlosc, przyzwoitosc). Sciezka analityka-przez-wychowanie OTWARTA i czysta, ale WOLNA (dziecko rosnie miesiacami/latami; interim synteza u Symona+Nesty). Owen ugruntował lekko Symonowy ped od strony duszy (echo Miry). 9 dni do slubu (Owen laczy). Owen nast+. 296 jel. -> NOC -> 10-05.",
+ "nastroje_miasta": "297-10-05 POLUDNIE (handlowiec, POGODA 31 zima wroci umiarkowanie / INBOUND 66 / HANDLOWIEC 41 partial): Symon zaczal skopowac role handlowca i od razu trafil na jej rdzeń: to nie analityk (dyskretny nikt do wychowania) - to ODWROTNIE: publiczna TWARZ ze standingiem i siecia, siegajaca w kregi, do ktorych gbur nie wejdzie (wyzsi kupcy, domy zamiejskie, drobne rody). PROBLEM KLASOWY: czlowiek z prawdziwym zasiegiem zwykle NIE zwiaze swojego standingu z firma mlodego gbura jako podwladny (status plynie zle). Ale reshuffle po pierscieniu OTWORZYL okno (inbound): WYSTAN HOLT - szanowany kupiec sredni (towary regionalne, dojscia w gore rzeki i do domow zamiejskich/drobnej szlachty = zasieg ktorego Symon nie ma), jego glowny kanal szedl przez dom zwiazany z upadlymi (Aldric/Roldan) - handlowo, nie kryminalnie - i teraz DRYFUJE bez alignmentu = uczciwie DOSTEPNY, a firma Symona pod pieczecia lorda to bezpieczna przystan. HANDLOWIEC 41 (obiecujacy PROSPEKT nie deal): CATCH = (1) VET twardo (splot z upadlymi czysto handlowy czy z taintem?), (2) GOVERNANCE - czlowiek ze standingiem chce GLOSU nie tylko udzialu; strukturowac terms tak by jego zasieg SLUZYL firmie nie STEROWAL nia (domena Nesty). Next: vet Wystana + zaprojektowac terms z Nesta. Rola handlowca = zywy prospekt, nie zamkniety. 296 jel, 8 dni do slubu.",
  "ceny": {
   "chleb": {
    "baza": 3,

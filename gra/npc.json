@@ -2145,6 +2145,27 @@
    "nastawienie_do_gracza": 68,
    "zaufanie": 48,
    "ostatni_kontakt": "297-09-30 - Symon podpierl go UCZCIWIE przed zeznaniem (nie ustawil): uspokoil (oslona realna, po ciosie strach sie konczy), przygotowal (mow prosto jak bylo), a zaliczke kazal ZASZCZEPIC prawda - 'powiedz o niej pierwszy sam: wzialem srebro bo grozili dzieciom i sie balem; prawda wyjeta z rekawa obrony nie ma ostrza'. Torwyn siadl na miejsce - nie odwaga Merreka, ale ulga ze nie musi klamac by byc bezpieczny; kruchy ale prawdziwy i przygotowany, wektor obrony (zaliczka) rozbrojony jego ustami. zauf 42->48."
+  },
+  {
+   "id": "wystan_holt",
+   "imie": "Wystan",
+   "przydomek": "Holt",
+   "wiek": 47,
+   "stan": "mieszczanin",
+   "zawod": "kupiec sredni (towary regionalne, dojscia w gore rzeki i do domow zamiejskich/drobnej szlachty)",
+   "harmonogram": {
+    "ranek": "kantor/port",
+    "popoludnie": "kontrakty",
+    "wieczor": "dom"
+   },
+   "nastawienie_do_gracza": 0,
+   "zaufanie": 0,
+   "ostatni_kontakt": "297-10-05",
+   "wie_o_graczu": [
+    "297-10-05: WYPLYNAL jako prospekt na handlowca-twarz firmy Symona. Szanowany, dobry zasieg (kregi ponad gburem: wyzsi kupcy/domy zamiejskie/drobne rody), ale jego kanal szedl przez dom zwiazany z upadlym pierscieniem (handlowo) i teraz dryfuje - uczciwie dostepny, szuka bezpiecznej przystani. NIE poznany jeszcze bezposrednio; do VETu (taint?) i do zaprojektowania terms (chce glosu nie tylko udzialu)."
+   ],
+   "cechy_mowy": "gladki, kupiecki, duzo nazwisk i koneksji w zdaniu - siła i ryzyko naraz",
+   "flaga": "PROSPEKT_HANDLOWIEC_niesprawdzony"
   }
  ],
  "orbita": [

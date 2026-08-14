@@ -1072,7 +1072,7 @@
     },
     {
       "id": "roldan_przeciwnik_09_18",
-      "stan": "DOKTRYNA DZIALA (09-23): nie walczyc, outlast+wynik. Roldan szczul na 'rozdzielona lojalnosc' - odbilo sie: Godric widzi, ze szczuje ten, ktorego prowiant utknal, na firme co ocalila kasztel. Drobny ubytek wiarygodnosci Roldana u zarzadcy. Symon bez ruchu - przeciwnik sam sie oslabia gdy firma dostarcza a jego szlak stoi.",
+      "stan": "DOKTRYNA DZIALA (09-23): nie walczyc, outlast+wynik. Roldan szczul na 'rozdzielona lojalnosc' - odbilo sie: Godric widzi, ze szczuje ten, ktorego prowiant utknal, na firme co ocalila kasztel. Drobny ubytek wiarygodnosci Roldana u zarzadcy. Symon bez ruchu - przeciwnik sam sie oslabia gdy firma dostarcza a jego szlak stoi. || 09-23 REWELACJA: wojna Roldana z firma to NIE ambicja jednego rywala - to awangarda PIERSCIENIA GLODOWEGO (syndykat spekulantow, Rennifer=twarz, kapital z poludnia). Roldan mial zrobic miejsce pierscieniowi. Symon zna to spiecie, Roldan nie wie ze Symon wie.",
       "priorytet": "wysoki",
       "opis": "297-09-18: Ser Roldan (patron) wie, ze go wymanewrowano; szepcze 'ustawka', trzyma urazE. ZYWY przeciwnik dworski. RYZYKA: (1) moze grzebac 'kto naprawde stoi za ta firma / kto zorganizowal maester+Wiara' -> probowanie ku Symonowi/firewallowi; (2) moze mscic sie politycznie. ZARZADZANIE (do narady): nie eskalowac/nie atakowac, nie dac mu grievance do uzycia, dostarczyc bezblednie, pozwolic klesce jego klienta zdefangowac jego uraze; trzymac firewall (front Miry musi trzymac przy jego weszeniu). NEXT: narada. || 09-18 NARADA (rzut 63): DOKTRYNA - nie walka lecz przetrwanie: (1) dowiezc polowe bezblednie+cicho (wynik mowi); (2) pozwolic zimie zdyskredytowac rywala->Roldan traci twarz sam; (3) strzec firewalla (front trzyma, Symon glęboki cien, dol czuwa na feelery Roldana); (4) ZOSTAC CZYSTYM - zero knucia przeciw niemu (Owen: nakarmiona uraza=wojna=droga Antaryona); (5) zostawic furtke (Mira: nie zapedzac dumnego w kat). Cierpliwosc+wynik+dyscyplina bija urazE. Kluczowe ryzyko: Roldan grzebie 'kto za firma' -> obrona firewalla."
     },
@@ -1123,7 +1123,12 @@
     },
     {
       "id": "oferta_gra_na_glod_rennifer_09_23",
-      "stan": "FORK OTWARTY (HACZYK rzut 10): kupiec Rennifer proponuje gre na glod - wykup prowiant/opal w panice, zamknac, sprzedac po cenach glodowych zima. Ogromna marza, TRUCIZNA dla gwiazdy Symona (tarcza slabych) i dla reputacji wygranej u Godrica. Opcje gracza: (a) odrzucic czysto/madrze, (b) odrzucic i obrocic w atut (zdemaskowac/uprzedzic), (c) rozwazyc. NIE zaksiegowane. Mozliwy cien wiezi Rennifer<->Roldan/spekulanci.",
+      "stan": "ODRZUCONE MADRZE (ODMOWA 52 / WYWIAD 76): Symon odmowil jezykiem kupca (czysta reka > marza), bez robienia wroga, i WYCIAGNAL wywiad. Fork zamkniety czysto; owoc = mapa pola (patrz pierscien_glodowy_syndykat_09_23).",
+      "priorytet": "zamkniete"
+    },
+    {
+      "id": "pierscien_glodowy_syndykat_09_23",
+      "stan": "ODKRYTE (WYWIAD 76): Rennifer = twarz SYNDYKATU spekulantow (kapital z poludnia przez Gulltown), ktory JUZ cicho skupuje prowiant/opal po posztormowych panicznych cenach - PIERSCIEN GLODOWY (przeczekac, sprzedac Polnocy po cenach glodowych zima). KLUCZ: nitka syndykatu -> krag SER ROLDANA. Szept o 'rozdzielonej lojalnosci' firmy + oferta Rennifera = DWA RAMIONA JEDNEJ GRY (Roldan mial wytracic firme z prowiantowania, by zrobic miejsce pierscieniowi; gdy firma nie padla, syndykat probowal kupic Symona od srodka). NIEZNANE: glowny kapital/principal (Rennifer to twarz). DO WYSLEDZENIA: braavijska siec Nesty umie tropic poludniowy pieniadz. Symon wie to, czego Roldan nie wie, ze wie. Karta strategiczna.",
       "priorytet": "wysoki"
     }
   ]

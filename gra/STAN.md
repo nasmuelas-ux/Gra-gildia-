@@ -74,7 +74,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 77
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 61
 - **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
-- **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 58
+- **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 55
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

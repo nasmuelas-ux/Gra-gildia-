@@ -206,3 +206,7 @@ Zelazny Bank uderzyl decydujaco. Miesiace gry Symona z cienia (dowod trojstronny
 
 ## 297-09-10 — FIREWALL 3->4 (Mira wie), ale STRAIN
 Symon wyznal Mirze cala prawde (czysto, propozycja frontu jako wolny wybor). Rzut 10: prawda spadla kamieniem. Mira wie TERAZ (4. knower, nieodwracalnie), ale przyjela z lekiem+rana: (1) 'nie dales mi wyboru ZE wiem - nie moge od-wiedziec; ciezar nazwany prezentem'; (2) timing - powiedzial po wprowadzce/zwiazaniu zycia = 'partnerka czy zwerbowana?'. Cofnela sie (guarded), poprosila o PRZESTRZEN, nie rozstrzygnela frontu. Wiez nie zerwana (kocha) ale STRAIN. Owen (rzut 24, 09-09) validated: jej zgoda nie zdjela ciezaru, ciezar spadl na nia. NAPRAWA: cierpliwosc, przestrzen, stalosc (jego mistrzostwo z nia); NIE naciskac frontu.
+
+
+## 297-09-10 NOC — Mira: przez rowny konflikt do rownosci
+Symon odbil z sily (milczenie=tarcza bo grozila smierc; ona sama strzegla swego zycia miesiacami, on dal jej tempo bez nazywania zdrada => rowne prawo do czasu odsloniecia). Mira przyznala racje, postawila swoja prawde (roznica stawek: jego sekret stawia JA przed lwem, nie boi sie jego lecz tego co za nim). Powietrze oczyszczone - pierwsza prawdziwie rowna rozmowa. Mira=4. knower, wiez silniejsza/rowna. Front=jej wybor (nienaciskany). Strach 'maska/uzytecznosc' rozwiazany.

@@ -2088,7 +2088,7 @@
       "rola": "kupiec Bialego Portu (glowny towar poboczny; nadwyzka soli/zboza)",
       "nastawienie": 70,
       "zaufanie": 43,
-      "ostatni_kontakt": "297-09-07 POLUDNIE (rzut 57) - dostarczyl lot soli/zboza PELNY I DOBRY, co do ziarna (dowoz lokalny mimo mrozu). Symon zaplacil saldo 55 jel, sprawdzil sam. Merrek dotrzymal pod przymusem = PEWNY dostawca na przyszle zimy. Relacja umocniona. zauf 40->43."
+      "ostatni_kontakt": "297-09-07 POLUDNIE (rzut 57) - dostarczyl lot soli/zboza PELNY I DOBRY, co do ziarna (dowoz lokalny mimo mrozu). Symon zaplacil saldo 55 jel, sprawdzil sam. Merrek dotrzymal pod przymusem = PEWNY dostawca na przyszle zimy. Relacja umocniona. zauf 40->43. || 09-19: Merrek POLECIL firme drugiemu lokalnemu holderowi (Torwyn) - 'ci was nie scisna'. Fair-dealt dostawca stal sie PORECZYCIELEM. Reputacja uczciwa procentuje w sieci dostaw."
     },
     {
       "id": "ser_roldan_patron",
@@ -2097,6 +2097,14 @@
       "nastawienie_do_gracza": null,
       "zaufanie": null,
       "ostatni_kontakt": "297-09-16 - ROZPOZNANY (rzut 79, Godric+Nesta) jako patron rywala. Steward mu winien wzgledy/boi sie podpasc. Uklad KLIENTELISTYCZNY (nie merit). SLABOSC: hazarduje - wpycha klienta co NIE DOWIEZIE w mroz; gdy rywal zawiedzie, patron wear glodowa zime. Nie znamy go osobiscie. Do potraktowania OSTROZNIE (potezny) - nie atakowac wprost, lecz przeramowac decyzje ponad stewarda."
+    },
+    {
+      "id": "kupiec_torwyn",
+      "imie": "Torwyn",
+      "rola": "lokalny holder zboza (Bialy Port); 2. zimowe zrodlo firmy od 09-19 (polecenie Merreka)",
+      "nastawienie_do_gracza": 60,
+      "zaufanie": 25,
+      "ostatni_kontakt": "297-09-19 - zaklepany jako 2. lokalne zrodlo zboza (polecenie Merreka 'ci was nie scisna' + siec Miry). Uczciwe warunki, zadatek ~15. Redundancja+skalowanie dla prowiantowania. Nowy, cieplo-neutralny, ufa przez reputacje firmy."
     }
   ],
   "orbita": [

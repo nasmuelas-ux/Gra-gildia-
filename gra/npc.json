@@ -1198,16 +1198,16 @@
   {
    "id": "alys_narzeczona_brana",
    "imie": "Alys",
-   "zawod": "ZAUFANY ZARZADCA-SPINACZ Symona (majordomus): zarzadca domu+kamieniczki, lacznik/kurier (spina firme/relief/port/zamek/Septe), glowa logistyki reliefu na ziemi (dowozi, Mira dyryguje), oczy w dole/porcie (ludzki wywiad nie szpieg), opiekun korzeni (relacje z dolem)",
+   "zawod": "zona Brana (slub 297-04-07, Symon swiadkiem); mieszka w kamieniczce (izba 4); zarabia u Jonny (igla/szycie)",
    "nastawienie_do_gracza": 38,
    "ostatni_kontakt": "297-10-06",
    "wie_o_graczu": [
     "297-04-22: cieplejsza/smielsza wobec Symona - zarabia u Jonny (igla), dom oddycha; widzi w Symonie czlowieka co ogarnal po sasiedzku, nie grozdnego dobroczynce.",
     "KOREKTA 297-05-19: Alys jest ZONA Brana od slubu 297-04-07 (Symon byl swiadkiem), nie narzeczona. Pole zawodu bylo stale.",
     "297-05-25: Symon (gospodarz, pracodawca meza) podarowal jej kupon dobrego sukna - realny dar dla zony sluzacego (suknia). Szczerze wzruszona; Symon urasta jako porzadny czlowiek. nast 10->18.",
-    "297-10-06: Symon FORMALNIE nazwal jego role - zaufany zarzadca-spinacz (majordomus): dom+kamieniczka, lacznik, relief-logistyka, oczy w dole, opiekun korzeni. Bran wzruszony po swojemu (praktyczny): \"dajesz mi imie do roboty, ktora i tak bym dla ciebie robil\". Lane czyste vs Hal(biurko)/Garrick(bezpieczenstwo)."
+    "297-10-06: obecna, gdy Symon nazwal role Brana (zarzadca-spinacz) - wzruszona, ze maz doceniony i nazwany; Symon urasta jako czlowiek, ktory swoich podnosi. nast lekko w gore."
    ],
-   "zaufanie": 63
+   "zaufanie": 60
   },
   {
    "id": "siostra_lyra",

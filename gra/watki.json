@@ -1165,6 +1165,11 @@
       "id": "mroz_test_operacji_09_26",
       "stan": "ZDANY z kosztem (kryt 5): gleboki mroz zalamal konwoj Torwyna (skrot przez przymarznięte oczko), furman ocalony (Symon+Bran), czesc batcha zboza przepadla. Castle-dostawa PRZERZUCONA na Merreka - SERIA BEZBLEDNA STOI (Aldric nic nie dostal). REDUNDANCJA Merrek+Torwyn zaplacila sama za siebie: jedno zrodlo padloby dzis przed kasztelem. Koszt -14 jel + batch. Nauka wpisana w rygor: pewne szlaki w mroz. Obecnosc Symona (wybor gracza 'do firmy') zlapala wiesc, ktora inaczej trafilaby w pustke.",
       "priorytet": "tlo"
+    },
+    {
+      "id": "okno_logistyczne_09_27",
+      "stan": "WYKORZYSTANE czesciowo (rzut 32): lzejszy mroz -> najpilniejsze dostawy nadrobione (kasztel bezbledny, zaleglosci skrocone nie zdjete - pelne nadrobienie = drugie okno), rezerwa reliefu odbudowana ~w polowie (do pelnej drugie okno). Nowy rygor WOLNIEJSZY (pewne szlaki/para/lina) = cena w tempie, ale ZERO incydentow. Gros miesiecznego wplywu accrue na Bilans 10-01. Restock -12 +zaliczki +8 = -4 jel (90).",
+      "priorytet": "tlo"
     }
   ]
 }

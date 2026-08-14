@@ -1267,9 +1267,9 @@
       "id": "zarzadca_godric",
       "imie": "Godric",
       "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
-      "nastawienie_do_gracza": 92,
+      "nastawienie_do_gracza": 93,
       "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-      "zaufanie": 48,
+      "zaufanie": 54,
       "wie_o_graczu": [
         "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
         "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
@@ -1298,7 +1298,7 @@
         "297-06-24 (rzut 93): Symon domknal POPYT lokalnego drewna - przyniosl ROZWIAZANIE kra-dziury (drewno Benneta, lokalne/ladem/kra-odporne) gdy rzeka stoi. Godric ULZONY (mial tlumaczyc zamkowi pustke, ma czym wypelnic). Symon zagral bezblednie: TWARZ GODRICA (on zabezpiecza drewno, Symon niewidzialny), broker nie pryncypal, przez standing cechu + WLASNA ziemia Benneta (zaden las lorda/lesniczy - czysto), marza < wartosc. KLUCZOWE: Godric \"to dokladnie o czym mowilem w maju\" - chcial stalej umowy JESLI dowieziesz PEWNIE; rzeka=niepewna, lokalne=niezawodne -> STANDING CONTRACT PROSPEKT WRACA na twardszym gruncie. \"Kto dowozi gdy inni nie moga, z takim siada sie do umowy.\" nast 88->90, zauf 28->30.",
         "297-06-25 (rzut 93): podpisal umowe drewna za zamek (procurement). Drewno Benneta plynie ladem gdy rzeka leży. KLUCZOWE: reliability udowodniona -> Godric SAM PCHA ku STALEJ UMOWIE (\"pokazales com chcial - dowieziesz gdy inni nie moga; siadzmy niedlugo do stalej umowy, staly strumien nie latka\"). Wielki prospekt dojrzewa mocno. zauf 30->31."
       ],
-      "ostatni_kontakt": "297-09-22 (sztorm, OKO 46) - na kasztelu ZAUWAZONO, ze woz firmy zawrocil w strone biedoty, gdy kuchnie czekaly. ALE widziano tez, ze Symon SAM stal w zaspie i dowiozl gorze mimo wszystko (spoznione, ale dostarczone). Pytanie wisi: 'czyja ta reka jest - nasza czy uliczna?'. Zmieklo z 'firma zawiodla' do 'ten czlowiek probowal uniesc wszystkich'. WYMAGA czystego domkniecia jutro, zanim ktos (Roldan) nada gorszy sens.",
+      "ostatni_kontakt": "297-09-23 RANEK (rzut 88) - Symon NIE tlumaczyl sie, PRZERAMOWAL: 'ta sama reka, co karmila kasztel, nie dala zamarznac smallfolkowi lorda - to nie reka rozdzielona, to jedna reka, na ktorej Manderly moze polegac, i wasza laska splywajaca w dol; ja tylko dowiozlem, milosierdzie bylo panskie'. Godric KUPIL calkowicie - narracja Symona stala sie JEGO narracja w gore ('firma, ktora w mroz nakarmila zamek i miasto naraz'). Dorzucil ciszej: 'wiem skad wiatr wial - czlowiek, ktoremu prowiant utknal, pyta o cudza lojalnosc, niedobrze o nim swiadczy' - odlozyl sobie Roldana. nast 92->93, zauf 48->54.",
       "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",
       "historia": [
         "m11d16 (rzut 97): Symon wchodzi cicho, bez prosby, z oferta wartosci — braavijska ksiegowosc dla domu. Godric (ceni go za dyskrecje-lojalnosc) przyjmuje idealnie i POWIERZA staly, cichy angaz: prowadzenie/audyt czesci rachunkow domu do wyzszego, braavijskiego standardu, regularnie, dyskretnie, platnie. Symon = odtad ZAUFANY CZLOWIEK OD LICZB DOMU (nie jednorazowy audytor). Zaufanie mocno w gore. Nast 38->42. Zero ekspozycji karty.",
@@ -2096,7 +2096,7 @@
       "rola": "dworzanin w otoczeniu Manderlych, ma ucho stewarda; PATRON rywala prowiantowego (rywal=jego klient, ciagnie z sadzania swojego na intratnej roli)",
       "nastawienie_do_gracza": null,
       "zaufanie": null,
-      "ostatni_kontakt": "297-09-16 - ROZPOZNANY (rzut 79, Godric+Nesta) jako patron rywala. Steward mu winien wzgledy/boi sie podpasc. Uklad KLIENTELISTYCZNY (nie merit). SLABOSC: hazarduje - wpycha klienta co NIE DOWIEZIE w mroz; gdy rywal zawiedzie, patron wear glodowa zime. Nie znamy go osobiscie. Do potraktowania OSTROZNIE (potezny) - nie atakowac wprost, lecz przeramowac decyzje ponad stewarda."
+      "ostatni_kontakt": "297-09-23 (rykoszet): spin Roldana o 'rozdzielonej lojalnosci' firmy odbil sie - Godric rozpoznal, ze szczuje ten, ktoremu prowiant utknal w sniegu, na firme co ocalila kasztel. Drobny ubytek wiarygodnosci Roldana u Godrica. Symon nie ruszyl palcem (doktryna: nie walczyc, outlast). Roldan sam sobie zaszkodzil."
     },
     {
       "id": "kupiec_torwyn",

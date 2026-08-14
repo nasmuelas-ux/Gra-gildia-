@@ -1072,7 +1072,7 @@
     },
     {
       "id": "roldan_przeciwnik_09_18",
-      "stan": "DOKTRYNA USTALONA (narada rzut 63) - nie walczyc, przetrwac+wynik",
+      "stan": "DOKTRYNA DZIALA (09-23): nie walczyc, outlast+wynik. Roldan szczul na 'rozdzielona lojalnosc' - odbilo sie: Godric widzi, ze szczuje ten, ktorego prowiant utknal, na firme co ocalila kasztel. Drobny ubytek wiarygodnosci Roldana u zarzadcy. Symon bez ruchu - przeciwnik sam sie oslabia gdy firma dostarcza a jego szlak stoi.",
       "priorytet": "wysoki",
       "opis": "297-09-18: Ser Roldan (patron) wie, ze go wymanewrowano; szepcze 'ustawka', trzyma urazE. ZYWY przeciwnik dworski. RYZYKA: (1) moze grzebac 'kto naprawde stoi za ta firma / kto zorganizowal maester+Wiara' -> probowanie ku Symonowi/firewallowi; (2) moze mscic sie politycznie. ZARZADZANIE (do narady): nie eskalowac/nie atakowac, nie dac mu grievance do uzycia, dostarczyc bezblednie, pozwolic klesce jego klienta zdefangowac jego uraze; trzymac firewall (front Miry musi trzymac przy jego weszeniu). NEXT: narada. || 09-18 NARADA (rzut 63): DOKTRYNA - nie walka lecz przetrwanie: (1) dowiezc polowe bezblednie+cicho (wynik mowi); (2) pozwolic zimie zdyskredytowac rywala->Roldan traci twarz sam; (3) strzec firewalla (front trzyma, Symon glęboki cien, dol czuwa na feelery Roldana); (4) ZOSTAC CZYSTYM - zero knucia przeciw niemu (Owen: nakarmiona uraza=wojna=droga Antaryona); (5) zostawic furtke (Mira: nie zapedzac dumnego w kat). Cierpliwosc+wynik+dyscyplina bija urazE. Kluczowe ryzyko: Roldan grzebie 'kto za firma' -> obrona firewalla."
     },
@@ -1113,8 +1113,8 @@
     },
     {
       "id": "godric_pytanie_lojalnosc_09_22",
-      "stan": "NOWE (OKO 46, residuum sztormu): kasztel zauwazyl, ze woz firmy zawrocil ku biedocie w dniu, gdy kuchnie czekaly. Pytanie wisi: 'czyja ta reka jest - nasza czy uliczna?'. Zmieklo dzieki temu, ze Symon SAM dowiozl gorze. RYZYKO: Roldan moze to spinowac na 'lojalnosc firmy podzielona'. AKCJA: domknac na czysto jutro (Godric cieplo+fakt: gora dostala swoje, dol tez, jedna reka pewna) zanim nabierze gorszego sensu.",
-      "priorytet": "wysoki"
+      "stan": "ZAMKNIETE i PRZEKUTE (09-23, rzut 88 / szept 56): Symon przeramowal 'rozdzielona lojalnosc' -> 'jedna reka, na ktorej Manderly moze polegac; laska panska splywajaca w dol'. Godric kupil w calosci, wziął narracje w gore jako WLASNA ('nakarmila zamek i miasto naraz'). Bonus: Godric rozpoznal zrodlo szeptu (Roldan) i odlozyl sobie - spin rykoszetem w Roldana. Rysa -> ATUT.",
+      "priorytet": "zamkniete"
     }
   ]
 }

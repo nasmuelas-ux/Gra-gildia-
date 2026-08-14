@@ -5,12 +5,12 @@
   "dzien": 2,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "NOC",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": "MROZ ZELZAL z rdzenia (rzut 46) - wciaz twarda zima, ale nie zabojcza; najczarniejsze przeszlo, trakty znosne.",
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-02 POPOLUDNIE: PO FIRMIE (rzut 100 KRYT). Symon zaszedl do Hala sprawdzic operacjonalizacje warrantu lorda - i zastal INSTYTUCJE, ktora go nie potrzebuje. Hal (14l, wychowanek) PRZEWIDZIAL warrant: ksiegi prowiantu pod pieczecia lorda gotowe zanim Symon wrocil, Merrek/Torwyn/Aurane zgrani, plan lorda PLYNIE od pierwszego dnia - zimowa przepustowosc firmy zaryglowana, marza skaluje (Bilans). Linia audytow Hala domknela tluste zlecenie (+22 jel, kasa 280->302). Tam ronie pod Halem (lancuch Owena sie przedluza), blask na Halu (bezpiecznie), Symon banknuje niewidzialnie. SENS: bliznięcza lekcja reliefu po stronie ZYSKU - reka co siega dalej niz Symon; wychowal operatora, instytucja stoi bez niego = WOLNY na sciezke rady. Hal nast 94->96, zauf 67->72. Firewall czysty. 11 dni do slubu.",
+ "nastroje_miasta": "297-10-02 NOC (koniec dnia, rzut 36): Symon wrocil do Miry i opowiedzial dzien jako 'MY' - audiencja u lorda (plan prowiantu zaadoptowany, zboze pierscienia w relief pod hojnoscia lorda, sciezka rady faktem) + firma (Hal stal sie operatorem, instytucja samodzielna, +22 jel). Wieczor cieply-zwyczajny (married grounding, nie prog): Mira uziemila ('nic sie nie zmienilo, wyszlam za CIEBIE'), wychwycila cien zawisci dworu (oczy ocalalych oficerow) - przestroga: 'badz uczciwy i nudny, nie daj im historii'. Dzien mocny i dobry domkniety we dwoje. 11 dni do slubu, mroz zelzal. -> 297-10-03 RANEK. Bilans byl 10-01 (nastepny 11-01). Watki zywe: sciezka rady (dowiedziona), zawisc dworu (nowe ziarno), slub 10-13, karta Antaryona/Bank (firewall), submisja Winterfell (uspiona).",
  "ceny": {
   "chleb": {
    "baza": 3,

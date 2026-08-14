@@ -5,12 +5,12 @@
   "dzien": 3,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 6,
  "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-03 RANEK (tik: POGODA 6 - ODWILZ SKONCZONA, mroz wrocil ZABOJCZY, jeden z najczarniejszych; INBOUND 46/45 - nic nie dobija do drzwi, sam mroz jest wydarzeniem). Krotka odwilz byla oddechem, nie wiosna - teraz zima uderza z powrotem pelna sila akurat gdy Symon dokonczyl fortyfikacje. TEST tego co zbudowal: dwa zrodla, rygor szlakow, rezerwa reliefu (nadszarpnieta), biurko Hala, warrant lorda plynacy. Systemy huczą ale mroz gryzie: rzeka znow twardo skuta, trakty niebezpieczne (rygor obowiazuje), popyt na zboze/opal/prowiant skacze, biedota w rdzeniu zimy zagrozona. Doktryna z wczoraj (Mira): 'uczciwy i nudny, nie daj dworowi historii'. Port cichy (mroz). Symon 302 jel, warrant lorda, 10 dni do slubu (10-13). Zywe: sciezka rady (dowiedziona), zawisc ocalalych oficerow (ziarno), firewall Antaryona, submisja Winterfell (uspiona), Bilans 11-01.",
+ "nastroje_miasta": "297-10-03 POLUDNIE (relief w zabojczym mrozie, rzut 53 / Osfryd 66): siatka TRZYMA pod POGODA 6 ale strzepi sie na brzegach. Rygor szlakow zdal (para sani, pewne trasy - ani jeden dowozca pod lod), ale WOLNIEJ - najdalsze krance obsluzone z opoznieniem. REZERWA (polowa + zboze lorda) DRENUJE szybciej niz mysleli: zabojczy mroz podwaja popyt, kociol chudnie - starczy jeszcze KILKA DNI, nie tygodnie; jesli ziab potrwa dlugo, potrzeba resupply (echo zimowych zegarow). OSFRYD ZYJE - byl na liscie, chlopak Brana dowiozl opal+chleb+goracy war, starzec na wpol slepy zmarzniety ale oddycha - system siegnal go DRUGI raz gdzie dwa tyg temu Merys umarla bo nikt nie wiedzial. SOBER: w najczarniejszym mrozie siatka ma dziury na samym skraju - sluch o kims poza lista dalej na krancu (relief=pomoc nie ratunek, jedna dusza moze nie dotrwac). Wszystko pod mantia Wiary (Symon niewidzialny, doktryna Miry 'uczciwy i nudny' trzyma - dwor nie ma historii). Symon dorzucil ~4 jel pocket na doraz opal. 298 jel, 10 dni do slubu.",
  "ceny": {
   "chleb": {
    "baza": 3,

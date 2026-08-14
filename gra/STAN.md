@@ -36,7 +36,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - OSLONA (postawiona 09-28, rzut 81): warta ludzi Brana NOCA na skladach Merreka+Torwyna + fire-prewencja (woda/piasek, uprzatniete podpalki), oko Wiary (septy=obcy nie przejdzie), zyczliwosc portu. KLUCZ: pre-zatrucie broni - Godric i Theomore UPRZEDZENI ze dostawcy grozeni i 'wypadek'=pierscien; podpalenie staje sie samobojstwem (spodziewana zbrodnia wskazuje na nich u uszu ktore zaczynaja sluchac). Deterrent wysoki, prawdopodobny cios (pozar u wspolnika) WPOL ROZBROJONY zanim padnie. Symon+Mira: czujnosc, ludzie Brana blisko, nie sami po zmroku. Trwa do dnia ciosu.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
-- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-10-01 (ostatni: 297-08-01 (wykonany))
+- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-10-01 (ostatni: 08-01 (wykonany); 09-01 NIE domkniety w gorączce - 10-01 = PODWOJNE zliczenie 08-01->10-01)
 - _Cykliczne (zmiatane w Dniu Bilansu):_
     - draw_wspolnika_nesta: Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.
     - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies

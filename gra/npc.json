@@ -2089,6 +2089,14 @@
       "nastawienie": 70,
       "zaufanie": 43,
       "ostatni_kontakt": "297-09-07 POLUDNIE (rzut 57) - dostarczyl lot soli/zboza PELNY I DOBRY, co do ziarna (dowoz lokalny mimo mrozu). Symon zaplacil saldo 55 jel, sprawdzil sam. Merrek dotrzymal pod przymusem = PEWNY dostawca na przyszle zimy. Relacja umocniona. zauf 40->43."
+    },
+    {
+      "id": "ser_roldan_patron",
+      "imie": "Ser Roldan",
+      "rola": "dworzanin w otoczeniu Manderlych, ma ucho stewarda; PATRON rywala prowiantowego (rywal=jego klient, ciagnie z sadzania swojego na intratnej roli)",
+      "nastawienie_do_gracza": null,
+      "zaufanie": null,
+      "ostatni_kontakt": "297-09-16 - ROZPOZNANY (rzut 79, Godric+Nesta) jako patron rywala. Steward mu winien wzgledy/boi sie podpasc. Uklad KLIENTELISTYCZNY (nie merit). SLABOSC: hazarduje - wpycha klienta co NIE DOWIEZIE w mroz; gdy rywal zawiedzie, patron wear glodowa zime. Nie znamy go osobiscie. Do potraktowania OSTROZNIE (potezny) - nie atakowac wprost, lecz przeramowac decyzje ponad stewarda."
     }
   ],
   "orbita": [

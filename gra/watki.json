@@ -1036,7 +1036,7 @@
     },
     {
       "id": "faza2_wyjscie_symona_z_cienia",
-      "stan": "PRAWDA, NIE STRATEGIA (09-23 poludnie): po sztormie Symon wrocil w zaulki, pochowal 3 zmarlych biedakow wlasnym kosztem z imieniem i obrzedem ('czlowiek Siedmiu' zamiast 'nieznany'), stanal z Owenem w zalobie nie naprawiajac. Zaulki widzialy nie kupca co rozdal worki i poszedl, lecz czlowieka co wrocil pochowac ich zmarlych. Faza 2 jako prawda o Symonie, ktora sama sie rozejdzie - cicha, prawdziwa opowiesc miasta. Owen: 'nie musze sie juz bac o twoja dusze'.",
+      "stan": "PRAWDA, NIE STRATEGIA (09-23 poludnie): po sztormie Symon wrocil w zaulki, pochowal 3 zmarlych biedakow wlasnym kosztem z imieniem i obrzedem ('czlowiek Siedmiu' zamiast 'nieznany'), stanal z Owenem w zalobie nie naprawiajac. Zaulki widzialy nie kupca co rozdal worki i poszedl, lecz czlowieka co wrocil pochowac ich zmarlych. Faza 2 jako prawda o Symonie, ktora sama sie rozejdzie - cicha, prawdziwa opowiesc miasta. Owen: 'nie musze sie juz bac o twoja dusze'. || 09-24: z CZYNU w INSTYTUCJE - Symon postawil stala zimowa siec reliefu (Bran+septy Owena+rezerwa). Tarcza slabych przestala byc jednorazowym gestem, stala sie systemem z jego nazwiskiem i reka Wiary. Cicha reputacja kumuluje sie strukturalnie; publiczna kontra do pierscienia glodowego.",
       "priorytet": "NADRZEDNY",
       "opis": "297-09-13 (nazwane przez Mire): SZEW frontu - Mira jako twarz dostaje standing/oko lorda, Symon zostaje duchem. Ale gwiazda Symona=byc WIDZIANYM osobiscie (doradca Starkow/Winterfell). Pytanie FAZY 2: JAK Symon wychodzi z cienia i staje sie SEEN/doradca, NIE walac firewalla (Antaryon=dluga pamiec) i NIE czyniac Miry jedynie beneficjentka jego drabiny? Mozliwe drogi (do rozwazenia): legit publiczna tozsamosc via kompetencja pokazana lordowi / kredyt Theomore(intelekt) / reka Owena(Wiara) / 'mozg za sukcesem firmy' jako szanowany jawny sekret. NIE rozwiazane; trzymac z tylu glowy przy kazdym kroku Fazy 1. || 09-14 OWEN (rzut 99): DROGA FAZY 2 - nie gonic bycia widzianym; stac sie niezaprzeczalnym przez CZYN (nakarmic Polnoc ta zima wlasna glowa), Wiara zareczy CHARAKTER (nie ambicje) -> stanac przed lordem jako CZLOWIEK SPRAWIEDLIWY (takich biora do rady). Byc widzianym=byc dobrym, JEDNO; czyni widzialnym bez tykania firewalla (pokazuje prawde nie kryje klamstwa). Vehicle: zimowe karmienie biednych + moralna reka Owena/Wiary. To spina tarcze+gwiazde+sumienie w jedno. Zgodne z cel_zyciowy (doradca sprawiedliwosci, tarcza slabych). || 09-16: potwierdzone ziarno - Godric/Theomore JUZ znaja Symona jako mozg = latentna sciezka emergencji (sponsorzy niosa imie), ale dzis trzymac front (nie eksponowac)."
     },
@@ -1135,6 +1135,11 @@
       "id": "sztorm_ofiary_pochowek_09_23",
       "stan": "ZAMKNIETE godnie: 3 ofiary sztormu na krancach sieci reliefu (Stara Merys, zebrak='czlowiek Siedmiu', chlopiec praczki) pochowane wlasnym kosztem Symona (-9 jel). Zywe residuum: OBIETNICA matce chlopca (praczka spod Schodow) - 'zima nie bedziesz sama glodna' (dolaczyc do reliefu/oka firmy). Motyw: nastepnym razem siec ma siegnac dalej (warstwa 2 doktryny osobista).",
       "priorytet": "tlo"
+    },
+    {
+      "id": "siec_reliefu_zimowa_09_24",
+      "stan": "POSTAWIONA (rzut 61): stala zimowa siec reliefu - Bran foreman (dowoz) + septy Owena (mapa kranców) + wydzielona nietykalna rezerwa (osobna ksiega, tylko biedni). Realizuje warstwe 2 doktryny + guardrail anty-pierscien. Mloda, kryje znane krańce, wzmacnia sie z domapowaniem; wymaga stalego pleca (zapasy+grosz). Instytucja z nazwiskiem Symona i reka Wiary.",
+      "priorytet": "aktywny"
     }
   ]
 }

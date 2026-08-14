@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-09-24 RANEK, MROZ KTORY ZABIJA: Bialy Port zamiera w martwej zmarzi, rzeka skuta na glucho. Opal i prowiant staja sie zyciem. INBOUND 88: miasto i port CISNA do firmy - 'pewna reka' po sztormie to
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 128 jeleni + 1 mied + 0 smokow
+- **Wolne:** 122 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -30,6 +30,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - OPIECZETOWANE WARUNKI warrantu prowiantowania (09-13, rzut 95 KRYT): majstersztyk - wolumen co do worka pod pojemnosc (Merrek za nim), uczciwa zimowa cena (dobrze dla zamku, marza dla firmy), terminy z zapasem na mroz+kontyngencja (lokalne zrodlo dowozi gdy trakt staje), klauzula etapowania de-ryzykujaca obie strony=firma niezastapiona. GOTOWE, silny atut. Do przedstawienia przez Mire u stewarda. || 09-15 (rzut 94 KRYT): GWARANCJA DOSTAWY zaszyta jako BRON - harmonogram etapowy z KARA NA SIEBIE (firma placi/przepada jesli nie dowiezie w oknie) + klauzula pochodzenia (towar lokalny nazwany) + kontyngencja przedluzonego mrozu. Rywal NIE moze skopiowac (kara na dostawe zza skutej rzeki=samobojstwo). Kontrakt=pulapka na rywala. Killer-linia: 'spytajcie ich czy podpisza kare za niedostarczenie; my podpiszemy'.
 - ATUT KONTRY (09-17): niezalezny maesterski rachunek ryzyka Theomore - kwantyfikuje, ze dostawa zza skutej rzeki utyka/niepewna a lokalna pewna; wniosek: tylko pewna lokalna reka zabezpieczy zimowy chleb Polnocy. Neutralny=wiarygodny. Daje stewardowi face-saving ('poszedlem za maestrem'), grunt pod prong Godrica (nosic wyzej) i Owena (Wiara).
 - DRUGIE ZRODLO ZIMOWE (Torwyn, holder zboza, 09-19): przez polecenie Merreka ('ci was nie scisna')+siec Miry, uczciwe warunki. Zadatek ~15 jel (kasa 154->139). REDUNDANCJA: dwa lokalne zrodla pod gwarancja z kara = nie single-point-of-failure + pojemnosc DO SKALOWANIA (wchlonac polowe rywala gdy padnie). Reputacja uczciwa=przewaga w zaopatrzeniu w glodowa zime.
+- SIEC RELIEFU ZIMOWA (postawiona 09-24, rzut 61): stala reka zasiegu na mroz. Bran=FOREMAN (dowozi rezerwe tam gdzie trzeba, zanim za pozno; placony uczciwie) + septy Owena=OCZY (lista kranców: kto sam/chory/czyja przybudowka nie utrzyma sniegu - mapa tych ktorych nikt nie liczy). REZERWA RELIEFU wydzielona z gory, OSOBNA KSIEGA, nietykalna dla zamku/miasta - idzie do biednych i tylko biednych. To tarcza slabych jako SYSTEM + guardrail anty-pierscien (firma z jawna rezerwa dla ubogich nie bedzie pomylona z grajacymi na glod). Mloda: kryje znane krańce, wzmacnia sie gdy septy domapowuja; wymaga stalego pleca (zapasy+grosz na furmanow). Instytucja z nazwiskiem Symona i reka Wiary = warstwa 2 doktryny wcielona.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-10-01 (ostatni: 297-08-01 (wykonany))

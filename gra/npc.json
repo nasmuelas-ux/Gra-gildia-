@@ -143,7 +143,7 @@
         "ze go ominie lepsza fucha"
       ],
       "nastawienie_do_gracza": 93,
-      "zaufanie": 50,
+      "zaufanie": 52,
       "wie_o_graczu": [
         "pije z nim czasem piwo",
         "czyta mu listy od brata z Siostr",
@@ -181,7 +181,7 @@
         "297-06-10 (rzut 66): Symon przyszedl dograc Wicka w izbie 3 - i zrobil to WLASCIWIE: nie dekret nad glowa, lecz \"twoj teren, dograjmy razem\", pytal o zdanie. Bran (dumny, zasluzony) uhonorowany jako gospodarz. Dograne: opal na dwoch w izbie 3, czynsz Hala obnizony (do wiedzy Brana), Symon POREczyl za Wicka - Bran (sam podniesiony z tragarza) przyjal chlopaka jak swojego, benevolent oko nie czujne. Zapytal o niego i Alys (zone). Wiez ciepla. nast 86->87."
       ],
       "dlugi": [],
-      "ostatni_kontakt": "297-09-22 NOC - po sztormie Symon nakarmil ekipe gorаca strawa i grzanym u siebie, podniosl kubek: 'nikt nie zamarzl, bo wyscie przyszli, tego sie nie zapomina'. Nie zaplata - stol. Bran zauf 48->50, w porcie urosl czlowiek, po ktorego sie idzie w snieg.",
+      "ostatni_kontakt": "297-09-24 RANEK - Symon dal Branowi nie robote lecz FUNKCJE: foreman zimowej sieci reliefu (poprowadzic rozdzial zapasow dla biednych przez cala zime, dowozic zanim za pozno; placony uczciwie). Bran wyprostowal sie - godnosc kogos komu zaufano rzecz wieksza niz dzwiganie: 'nie zawiode, panie Symonie'. zauf 50->52. Tragarz->dozorca->czlowiek co ma pod soba sprawe.",
       "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
       "historia": [
         "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",
@@ -487,7 +487,7 @@
         "herezje z Wolnych Miast w porcie"
       ],
       "nastawienie_do_gracza": 93,
-      "zaufanie": 52,
+      "zaufanie": 53,
       "wie_o_graczu": [
         "obcy z Polnocy, uczony przez maestera",
         "dobra, pewna reka do pisma",
@@ -581,7 +581,7 @@
         "297-06-20 POLUDNIE: Symon domknal - przywrocil kobiete PRZEZ SIOSTRE (reka w cieniu), wpisal \"potrzeba prawdziwa\", oddal OSAD LUDZKI siostrze/septie (kto jest kim), a sobie zostawil tylko zaplecze (store/rachuby). Metoda skorygowana wlasciwie: przy Wierze = liczydlo za kotara, nie reka na jalmuznie. Sprawa zamknieta cicho."
       ],
       "dlugi": [],
-      "ostatni_kontakt": "297-09-23 POLUDNIE - sztorm zabral 3 na krancach sieci (Stara Merys/dach sie zlozyl, zebrak spod mostu, chory chlopiec praczki - strawa doszla, byl za slaby by ja utrzymac). Owen zdruzgotany ('licze tych trzech, nie tamtych stu'). Symon NIE naprawial - stanal z nim w zalobie, pochowal wszystkich TROJE wlasnym kosztem (groby w zmarznietej ziemi, caluny, swiece), kazal zapisac zebraka nie 'nieznany' lecz 'czlowiek Siedmiu', dal plaszcz matce chlopca+obietnice ze zima nie bedzie glodna. Owen: 'rok temu balem sie o twoja dusze, dzis chowasz z imieniem zebraka ktorego nikt nie liczyl - nie musze sie juz bac'. zauf 45->52, wiez moralnej kotwicy pogłębiona najgłębiej.",
+      "ostatni_kontakt": "297-09-24 RANEK - Symon+Owen postawili STALA SIEC RELIEFU: septy=oczy (lista kranców, kto sam/chory - 'to czego zabraklo przy Merys: nie strawy, wiedzy ze ona tam jeszcze jest'), Bran=dowoz. Wiara+Symon buduja trwale, nie na jedna noc. zauf 52->53.",
       "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
       "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25).",
       "rok_urodzenia": 243

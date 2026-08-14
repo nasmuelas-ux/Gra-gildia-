@@ -60,3 +60,13 @@ Zasada nadrzedna: dawac z owocu nie z korzenia; drzewo co zjada wlasny korzen ni
 - NIE naciagac motywow gry (firewall, 'niewygodny swiadek', widocznosc, zawisc) na KAZDY drobiazg. Zwykly klerk to zwykly klerk. Czasem najem to tylko najem.
 - Nie mnozyc rzutow per pod-krok rutyny; jeden rzut na sprawe albo zero. Skrajne kosci przy rzeczach blahych = rozstrzygac proporcjonalnie, nie rozdmuchiwac do sagi.
 - Kontekst: 10-05 profesjonalizacja firmy (analityk/handlowiec/ochrona) urosla do 'wydarzenia miesiaca' przez rozbicie na 6-8 scen z kostka kazda; korekta na przyszlosc.
+
+## KANON DWORU NOWEGO ZAMKU — kasztelan-steward = JEDNA funkcja (locked 297-10-06, decyzja gracza)
+- Nowy Zamek (Manderly) ma JEDNA polaczona funkcje: KASZTELAN-STEWARD - dowodzi zamkiem I zarzadza gospodarstwem/prowiantem/rachunkami (nie dwa osobne urzedy; w tym domu skumulowane w jeden). Terminy 'kasztelan' i 'steward' = TA SAMA osoba/urzad.
+- Trzymal ja HELYARD -> ZLOZONY Z URZEDU 30-09 (tuszowal zdrade pierscienia przed lordem). Urzad WAKUJE.
+- PO UPADKU PIERSCIENIA — 2 WAKATY na szczeblu nadzoru dworu (zrodlo 'luk w nadzorze', o ktorych mowil Wyman):
+  1. KASZTELAN-STEWARD (Helyard, zlozony) - najwyzszy urzad domowy zamku, PUSTY.
+  2. OFICER (Aldric, w celi - byl oficerem od nadzoru prowiantu/procurement, kupiony przez pierscien) - drugi urzad nadzorczy, PUSTY.
+  (Dodatkowo poza urzedami zamku: Roldan/Rennifer zwinieci - to byli gracze pierscienia, nie formalne urzedy zamkowe.)
+- GODRIC = zarzadca PRYWATNEGO domu blisko dworu + DOSTAWCA zamku (kanal Symona). Torhen = drugi zarzadca-dostawca. To NIE urzedy zamkowe, lecz zewnetrzni kontrahenci.
+- LIVE THREAD: lord Wyman predzej czy pozniej OBSADZI wakaty (kasztelan-steward + oficer). Kto obejmie kasztelanie-stewardie WAZY dla dworu i sciezki rady Symona (nowy kasztelan moze byc sojusznikiem albo nowym zrodlem tarcia; zawisc ocalalych oficerow zyje). Swiat ma to rozegrac - nie zmyslac obsady z gory, niech przyjdzie jako wydarzenie.

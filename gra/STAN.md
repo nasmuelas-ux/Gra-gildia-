@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-09-25 RANEK, mroz trzyma: INBOUND 66 - pozycja uczciwej reki firmy pracuje, staly naplyw, skladowanie/podaz plyna, zimowa rola sie utrwala. INBOUND2 27 CHLODNY WIATR Z GORY: Godric przyslal poslan
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 128 jeleni + 1 mied + 0 smokow
+- **Wolne:** 125 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

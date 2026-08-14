@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-09-24 RANEK, MROZ KTORY ZABIJA: Bialy Port zamiera w martwej zmarzi, rzeka skuta na glucho. Opal i prowiant staja sie zyciem. INBOUND 88: miasto i port CISNA do firmy - 'pewna reka' po sztormie to
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 122 jeleni + 1 mied + 0 smokow
+- **Wolne:** 132 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -38,7 +38,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - draw_wspolnika_nesta: Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.
     - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
     - oplaty_retainerow_udzial_symona: Retainery firmy 18 jel/mies brutto (6 retainerow) - place/udzialy zespolu (Wick wage + TAM nowy junior wage + HAL teraz na UDZIALE nie pensji) ~ firma netto; UDZIAL SYMONA ~7 jel/mies. STRUKTURA od 07-28: Hal PROWADZI biurko na UDZIALE (fosa=interes wspolny, per Nesta), Tam junior pod Halem. Capacity odblokowane - firma moze brac wiecej retainerow.
-    - skladowanie_zimowe_kupcy: NOWY (297-09-23, owoc reputacji posztormowej, rzut 71): 3 porzadnych kupcow (2 drobnych + 1 sredni faktor solno-zbozowy) zlozylo zapasy pod rygor firmy w magazynach Aurane'a. Zadatki wziete od reki (+8 jel 09-23). Recurring ~12 jel/mies UDZIAL SYMONA (szac., po odcieciu doli Aurane'a), pierwszy pelny na Bilansie. Skaluje sie jesli reputacja 'pewnej reki' rosnie.
+    - skladowanie_zimowe_kupcy: NOWY (297-09-23, owoc reputacji posztormowej, rzut 71): 3 porzadnych kupcow (2 drobnych + 1 sredni faktor solno-zbozowy) zlozylo zapasy pod rygor firmy w magazynach Aurane'a. Zadatki wziete od reki (+8 jel 09-23). Recurring ~12 jel/mies UDZIAL SYMONA (szac., po odcieciu doli Aurane'a), pierwszy pelny na Bilansie. Skaluje sie jesli reputacja 'pewnej reki' rosnie. || 09-24 ROZSZERZONE (Mira port, rzut 93): firma = adres UCZCIWEJ PODAZY miasta ('uczciwa cena, pelny magazyn, pewna dostawa, nie gramy na glod'). Napor INBOUND 88 przekuty; zadatki +10 jel (09-24); strumien pecznieje, skaluje sie z mrozem. Publiczna kontra pierscieniowi + front Miry lsni.
 - _Per-zdarzenie (ksiegowane przy zdarzeniu):_
     - drewno_marza: NAJWIEKSZY filar. Marza per DOSTAWA zamkowa (umowa opieczetowana 07-18). Ksieguj przy kazdej dostawie. Narosle od 07-01 (kilka dostaw) NIEZAKSIEGOWANE - zmiesc w Dniu Bilansu 08-01 (szac.)
     - weksle_procent_i_zwrot: 200 jel niezab.(procent) + 50 jel zab.(kapital+procent). Procent per cykl; kapital gdy dluznik splaca zamiast rollowac.

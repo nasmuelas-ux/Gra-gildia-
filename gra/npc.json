@@ -216,7 +216,7 @@
         "oszustwo miejscowego notariusza"
       ],
       "nastawienie_do_gracza": 90,
-      "zaufanie": 55,
+      "zaufanie": 58,
       "wie_o_graczu": [
         "czyta braavijski lepiej, niz sie spodziewala",
         "uczciwy co do granic",
@@ -358,7 +358,7 @@
         "297-06-23 (rzut 48): wynegocjowali WARUNKI CICHEGO WSPOLNIKA firmy Symona (krok ①). Rama uzgodniona: Nesta cichy udzial ~1/3 zysku (za kapital+charter-zaplecze+mentorstwo), ZERO publicznej twarzy, backer/doradca NIE decydent; jej kapital zabezpieczony/priorytetowy + klauzula okresowego przegladu. Symon ~2/3 + KONTROLA + neutralna publiczna twarz + wladza decyzji (mozliwa sciezka odkupu jej udzialu z czasem - do dopiecia). Napiecie \"blisko vs niezaleznie\" wywietrzone: Nesta wprost \"nie stawiam za toba by cie stracic, chce cie blisko\" - Symon pogodzil (cichy udzial splata was, firma publicznie jego/neutralna). Give-and-take realny. Rama gotowa dla Torrena (krok ②)."
       ],
       "dlugi": [],
-      "ostatni_kontakt": "297-09-25 RANEK - poprowadzila narade frontu jak partie prawa: nie budowac sprytnej zaslony (pachnie), lecz 'prawde tak nudna ze pytajacy sie znudzi'. Mira=pryncypal naprawde, Symon=jawny narzeczony/koordynator (jawnosc=zaslona), Nesta=zwykly braavijski faktor (papier=uczciwe przeplywy). Dolozyla zbroje z papieru (czysty tytul Miry, udokumentowane przeplywy). 'Ozen sie, a wiekszosc sondy umrze sama'. Residuum: obcy kapital = jedyna szczelina (nitka Nesty do odciecia po slubie). Koszt papieru -3 jel.",
+      "ostatni_kontakt": "297-09-28 - Symon przyniosl 2 swiadectwa wymuszenia (Merrek+Torwyn) + swiezy slad zlota. Nesta skrystalizowala CASE: zbrodnia=wymuszenie groźba (2 swiadkow=wzor=dowod, zmienia sprawe ze 'skupu' w przestepstwo), agent lokalny Rennifer+Aldric, a KLUCZ: pieniadz agresywnych skupow DOTYKA ALDRICA (kanal/faktor wspolny) - Aldric operacyjnie KUPIONY, srodkowe ogniwo. Swieze zloto przyspieszylo low: principal za ~5-6 dni (zegar ~10-04). Doktryna: uderzyc NAD glowami prosto do lorda calym lancuchem naraz. Ostrzezenie: ranny waz kasa - pilnowac wspolnikow i siebie. zauf 55->58.",
       "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem",
       "historia": [
         "m11d14: Symon podsuwa pilotaz ubezpieczen/pul ryzyka frachtu (rzut 88). Nesta CHWYTA w lot (zna braavijskie zalazki: pozyczki bodmeryjne, dzielenie ryzyka), impressed regardem dla Symona jako partnera z wizja. Przycina po braavijsku: pilotaz TINY, dywersyfikacja od zaraz (nigdy jeden statek), znane male ladunki/kapitanowie/trasy ktore umieja wycenic; KAPITAL kantoru/pryncypala nie chuda sakiewka Symona; wklad Symona = MODEL RYZYKA (rachunki8+info-edge o trasach/pogodzie/kapitanach) za CICHY udzial; biegnie jako 'kantor daje rekojmie na ladunek' = kamuflaz, nazwisko Symona off. Cap: male poki pryncypal nie zatwierdzi wiekszego kapitalu (chce dowodu/czystej struktury) i poki zima najgorsza. Nesta 48->50.",
@@ -1024,9 +1024,9 @@
       "id": "ser_aldric_oficer",
       "imie": "Ser Aldric",
       "zawod": "oficer zaopatrzenia domu lorda Manderly (szczebel nad Godrikiem); trzyma pieczec/formalizacje firmy, pyta kto stoi za 'firma wdowy Miry'",
-      "nastawienie_do_gracza": 40,
+      "nastawienie_do_gracza": 38,
       "zaufanie": 10,
-      "ostatni_kontakt": "297-09-25 (przez Godrica, nie bezposrednio) - NAMIERZONY jako szczebel trzymajacy drzwi: 'nie opierajmy zimy na jednej firmie' + sonda 'kto stoi za wdowa'. WYROWNANIE NIEZNANE: kupiony slug pierscienia czy ostrozny establishment? Klucz: czy poludniowe zloto pierscienia go dotyka (do zszycia z lowem Nesty). || 09-26 POSZLAKA (Theomore, niewiadomy swiadek): Aldric mial GOSCIA kupca z poludnia (jesien, przed mrozami) + zbyt regularne listy; jego 'roztropnosc' ROZDRABNIA zaopatrzenie (dokladnie jak potrzebuje ktos zostawiajacy luke pod glodowe zloto). PRAWIE NA PEWNO srodkowe ogniwo pierscienia - poludniowy pieniadz go dotyka. Nie dowod (principala nazwie Nesta), ale mocna poszlaka od swiadka wewnatrz zamku.",
+      "ostatni_kontakt": "297-09-25 (przez Godrica, nie bezposrednio) - NAMIERZONY jako szczebel trzymajacy drzwi: 'nie opierajmy zimy na jednej firmie' + sonda 'kto stoi za wdowa'. WYROWNANIE NIEZNANE: kupiony slug pierscienia czy ostrozny establishment? Klucz: czy poludniowe zloto pierscienia go dotyka (do zszycia z lowem Nesty). || 09-26 POSZLAKA (Theomore, niewiadomy swiadek): Aldric mial GOSCIA kupca z poludnia (jesien, przed mrozami) + zbyt regularne listy; jego 'roztropnosc' ROZDRABNIA zaopatrzenie (dokladnie jak potrzebuje ktos zostawiajacy luke pod glodowe zloto). PRAWIE NA PEWNO srodkowe ogniwo pierscienia - poludniowy pieniadz go dotyka. Nie dowod (principala nazwie Nesta), ale mocna poszlaka od swiadka wewnatrz zamku. || 09-28 POTWIERDZONY (Nesta, slad zlota): pieniadz agresywnych skupow pierscienia DOTYKA Aldrica (wspolny kanal/faktor). Operacyjnie KUPIONY - srodkowe ogniwo pierscienia, nie ostrozny zawistnik. Brak jeszcze pieczeci do sedziego, ale flow jasny.",
       "notatka": "Prawie na pewno srodkowe ogniwo pierscienia (poszlaka Theomore: poludniowy kupiec+listy+rozdrabnianie dostaw). Czekac na principala od Nesty, wtedy lancuch domkniety. NIE konfrontowac wprost."
     }
   ],

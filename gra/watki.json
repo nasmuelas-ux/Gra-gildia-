@@ -1175,6 +1175,11 @@
       "id": "pierscien_atak_na_zrodla_09_28",
       "stan": "ODPARTY w wiekszosci (Merrek 59 pelna obrona / Torwyn 33 czesciowa): pierscien probowal wykupic OBA zrodla GROZBA. Merrek: obroniony w pelni, wspolnik+swiadek. Torwyn: pekl czesciowo nim Symon dojechal (slabsza wiez) - pierscien urwal 1/3 jego zboza (maly lup), ale Symon uratowal 2/3 + Torwyna jako wspolnika. OBA zrodla UTRZYMANE (cieńsze o 1/3 Torwyna). DWAJ swiadkowie wymuszenia (case potrojony). Koszt lacznie -14 jel dzis + udzialy/underwriting. Grozba pierscienia ZYWA. Nastepne: zabezpieczyc obu przed pozarem, spiac swiadectwa z lowem Nesty.",
       "priorytet": "wysoki"
+    },
+    {
+      "id": "case_na_pierscien_09_28",
+      "stan": "SKRYSTALIZOWANY (rzut 83): CASE na lorda = ZBRODNIA wymuszenie (2 swiadkow Merrek+Torwyn, wzor=dowod) + SCHEMAT korner na glod + AGENT Rennifer(twarz)+Aldric(kanal, zloto go DOTYKA=kupiony) + PRINCIPAL poludniowy (Nesta ~5-6 dni, zegar ~10-04) + brak: TWARDY PAPIER przeplywu do sedziego (z principalem). PLAN: gdy komplet - uderzyc NAD glowami Aldrica/Roldana prosto do LORDA/kasztelana calym lancuchem naraz. OSTRZEZENIE Nesty: ranny waz kasa - pilnowac wspolnikow i siebie do ciosu.",
+      "priorytet": "wysoki"
     }
   ]
 }

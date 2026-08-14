@@ -2,15 +2,15 @@
   "data": {
     "rok": 297,
     "miesiac": 9,
-    "dzien": 29,
+    "dzien": 30,
     "era": "AC"
   },
   "pora": "RANEK",
   "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
-  "pogoda": "MROZ TRZYMA (rzut 22) - gleboka zima dalej, rzeka skuta, chlod zabojczy niezmienny.",
+  "pogoda": "MROZ TRZYMA (rzut 29) - gleboka zima niezmienna, rzeka skuta, chlod zabojczy.",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": null,
-  "nastroje_miasta": "297-09-29 RANEK: INBOUND2 12 (kryt) - RANNY WAZ KASA PRZEZ URZAD. Pierscien nie moze podpalic (Symon zatrul te bron), wiec ALDRIC uderza swoim urzedem: PREEMPTYWNIE podniosl do kasztelana/domu lorda 'obawe bezpieczenstwa' o firme - konkretnie o OBCY braavijski pieniadz za 'firma wdowy Miry', pchajac ku SLEDZTWU/audytowi, kto naprawde kontroluje firme zaopatrujaca zamek. Cios w JEDYNA szczeline frontu (obcy kapital/nitka Nesty), przez dwor (nie thugow), reka kupionego Aldrica - PREEMPCJA nim Symon uderzy. WYSCIG: sledztwo Aldrica vs principal Nesty (~10-04) + kontrcios Symona. Silver lining: wiesc przyszla przez Theomore/Godrica (primed=oplacilo sie); Aldric atakujac ODSLANIA sie bardziej. INBOUND 43 - port cichszy, nic dramatycznego. Symon 71 jel, front wzmocniony (68) ale szczelina obcego kapitalu zywa, oslona wspolnikow (81), 14 dni do slubu.",
+  "nastroje_miasta": "297-09-30 RANEK (przeddzien Bilansu): INBOUND2 96 (blisko kryt) - NESTA PRZELAMALA LOW WCZESNIEJ. Agresywny skup pierscienia rozswietlil slad tak, ze braavijska siec skrocila termin: Nesta przyslala o SWICIE pilne slowo - MA IMIE PRINCIPALA, przyjdz natychmiast. Zegar ~10-04 zbity do DZIS. To ostatni kawalek ukladanki - z nim case na lorda kompletny (zbrodnia+swiadkowie+ogniwo Aldric+principal). INBOUND 57 - port cichy, nic pilnego. Symon 71 jel (Bilans jutro ~145-150 do kasy), front examination-proof, oslona wspolnikow, 13 dni do slubu. Decyzja nadchodzi: kiedy i jak uderzyc calym lancuchem.",
   "ceny": {
     "chleb": {
       "baza": 3,

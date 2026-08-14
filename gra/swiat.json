@@ -5,12 +5,12 @@
   "dzien": 2,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": "MROZ ZELZAL z rdzenia (rzut 46) - wciaz twarda zima, ale nie zabojcza; najczarniejsze przeszlo, trakty znosne.",
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-02 POLUDNIE: PO AUDIENCJI U LORDA (rzut 45, solidne wejscie na wlasnym gruncie). Symon stanal przed Wymanem Manderly z gotowym rachunkiem prowiantowania - lord przyjal rade, plan naprawy prowiantu ZAADOPTOWANY (dwa lokalne zrodla, rygor szlakow, etapowanie z kara na siebie). Zajete zboze pierscienia: Symon skierowal je (twarz lorda, nie 'moja operacja') w relief pod mantia Wiary = hojnosc Manderly'ego -> wzmacnia siec reliefu + firewall + optyke lorda. SCIEZKA CZLOWIEKA RADY awansuje KONKRETNIE (nie tylko ucho - dowiedziony doradca). Firewall (Antaryon/Braavos) trzymany z wysilkiem (rozmowa o podazy ociera sie o watki Nesty - trzymane w mroku, jawnosc=zbroja). RESIDUUM: okrojony dwor patrzy - gbur doradza lordowi tam gdzie rycerze polegli (ziarno zawisci wsrod ocalalych oficerow). zamek rep 13->18, Wyman nast 72->76/zauf 40->46, Theomore koroboruje (zauf 58->60). 11 dni do slubu, mroz zelzal.",
+ "nastroje_miasta": "297-10-02 POPOLUDNIE: PO FIRMIE (rzut 100 KRYT). Symon zaszedl do Hala sprawdzic operacjonalizacje warrantu lorda - i zastal INSTYTUCJE, ktora go nie potrzebuje. Hal (14l, wychowanek) PRZEWIDZIAL warrant: ksiegi prowiantu pod pieczecia lorda gotowe zanim Symon wrocil, Merrek/Torwyn/Aurane zgrani, plan lorda PLYNIE od pierwszego dnia - zimowa przepustowosc firmy zaryglowana, marza skaluje (Bilans). Linia audytow Hala domknela tluste zlecenie (+22 jel, kasa 280->302). Tam ronie pod Halem (lancuch Owena sie przedluza), blask na Halu (bezpiecznie), Symon banknuje niewidzialnie. SENS: bliznięcza lekcja reliefu po stronie ZYSKU - reka co siega dalej niz Symon; wychowal operatora, instytucja stoi bez niego = WOLNY na sciezke rady. Hal nast 94->96, zauf 67->72. Firewall czysty. 11 dni do slubu.",
  "ceny": {
   "chleb": {
    "baza": 3,

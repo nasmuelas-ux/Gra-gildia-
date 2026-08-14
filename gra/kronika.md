@@ -6528,3 +6528,6 @@ Gracz slusznie wytknal, ze osiem jeleni na trzech wykwalifikowanych ludzi to nie
 - LORREN (agent): ~3 jel/mies BAZA + PROWIZJA per pozyskany interes (samofinansujaca sie - agent placi za siebie z tego co przyniesie).
 - GARRICK (straznik/steward bezp., b. serzant) + 2 pewne rece: ~9 jel/mies (Garrick 5 + 2x2).
 NOWY WAGE LINE ~17 jel/mies (bez prowizji Lorrena). Payroll firmy ~PODWAJA sie (istniejace retainery 18 jel + nowe 17) - realny, znaczacy recurring koszt, ktory zmieści sie w Bilansie 11-01 i przyciśnie wolna kase oraz odpis reliefu. SETUP jednorazowy ~18 jel (ekwipunek Garricka i jego ludzi, material analitycznego desku Demana, zaliczki na start) - kasa 296->278 (bylo blednie -8, teraz realne -18). To jest wlasciwy ciezar profesjonalizacji: nie dramat, lecz LISTA PLAC. Firma na wyzszym poziomie kosztuje wiecej miesiecznie i to normalne - staffed house ma payroll. [korekta ekonomiczna, realny wage line ~17 jel/mies, setup -18]
+
+## 297-10-05 NOC — sen u Miry (dzien zamkniety spokojnie)
+Dzien profesjonalizacji domkniety: firma OBSADZONA (Deman/Lorren/Garrick, realny payroll ~17 jel/mies, setup -18, kasa 278), rysa z Wystanem/szmerem zagojona narada z Mira (growth=partnerstwo, siec+standing), lekcja pedu przyswojona za trzecim razem. Symon spi u Miry spokojnie, pierwszy raz od tygodnia nad niczym nie czuwajac. 8 dni do slubu. -> 297-10-06 RANEK.

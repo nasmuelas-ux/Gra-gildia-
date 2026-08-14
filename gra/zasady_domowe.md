@@ -33,3 +33,9 @@
 - Wymyslilem jej "przyszle wesele" TRZY razy (05-19, 08-27, 09-08) jako inbound. To BLAD CIAGLOSCI. Nigdy wiecej.
 - Jedyna niezamezna corka Wendy to MELLA - ale ZADNE jej wesele nie jest ustalone w kanonie; nie zmyslac drugiego, by zalatac.
 - OGOLNA ZASADA: przed wprowadzeniem "wydarzenia z zycia NPC" (slub/narodziny/smierc) SPRAWDZ kartoteke i kronike, czy to juz sie nie odbylo.
+
+## PROWADZENIE: nie rzucac adwersaryjnie na rutyne/rozszerzenia ustalonego (dodane 09-19)
+- Rzuty sa od rzeczy NIEPEWNYCH/spornych/o realnej stawce - NIE od dopinania czegos, co gracz juz ma ustalone (istniejacy partner/pojemnosc/relacja).
+- Rozszerzenie dzialajacego ukladu (np. wpiecie prowiantowania w skladki Aurane'a, ktory JUZ jest kregoslupem logistyki) => po prostu SUNIE do przodu, bez adwersaryjnego rzutu.
+- NIE karac gracza za dokladnosc/dodatkowe rozsadne kroki losowym negatywem. Dorzucenie sensownego kroku != trigger na zly rzut.
+- Sprawdzac CONTINUITY (co juz ustalone w plikach) zanim wygeneruje sie komplikacje sprzeczne ze stanem.

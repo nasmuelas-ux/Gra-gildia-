@@ -1180,6 +1180,11 @@
       "id": "case_na_pierscien_09_28",
       "stan": "SKRYSTALIZOWANY (rzut 83): CASE na lorda = ZBRODNIA wymuszenie (2 swiadkow Merrek+Torwyn, wzor=dowod) + SCHEMAT korner na glod + AGENT Rennifer(twarz)+Aldric(kanal, zloto go DOTYKA=kupiony) + PRINCIPAL poludniowy (Nesta ~5-6 dni, zegar ~10-04) + brak: TWARDY PAPIER przeplywu do sedziego (z principalem). PLAN: gdy komplet - uderzyc NAD glowami Aldrica/Roldana prosto do LORDA/kasztelana calym lancuchem naraz. OSTRZEZENIE Nesty: ranny waz kasa - pilnowac wspolnikow i siebie do ciosu.",
       "priorytet": "wysoki"
+    },
+    {
+      "id": "aldric_preempcja_sledztwo_09_29",
+      "stan": "PILNE (INBOUND2 12 kryt): Aldric - nie mogac podpalic (bron zatruta) - uderza URZEDEM: preemptywnie podniosl do kasztelana/domu lorda 'obawe bezpieczenstwa' o OBCY braavijski pieniadz za firma wdowy, pchajac ku SLEDZTWU kto kontroluje firme zaopatrujaca zamek. Cios w JEDYNA szczeline frontu (obcy kapital/nitka Nesty). WYSCIG: sledztwo Aldrica vs principal Nesty(~10-04)+kontrcios Symona - kto uderzy pierwszy. ATUTY: front wzmocniony (68), Theomore RECZY za firme (primed), Godric po stronie, prawda-nudna gotowa, slub za 14 dni=zwornik. Aldric atakujac ODSLANIA sie (bought insider chroni pierscien=wiecej dowodu). Wiesc przyszla przez primed sojusznikow - oslona sie oplacila.",
+      "priorytet": "wysoki"
     }
   ]
 }

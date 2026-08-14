@@ -210,3 +210,7 @@ Symon wyznal Mirze cala prawde (czysto, propozycja frontu jako wolny wybor). Rzu
 
 ## 297-09-10 NOC — Mira: przez rowny konflikt do rownosci
 Symon odbil z sily (milczenie=tarcza bo grozila smierc; ona sama strzegla swego zycia miesiacami, on dal jej tempo bez nazywania zdrada => rowne prawo do czasu odsloniecia). Mira przyznala racje, postawila swoja prawde (roznica stawek: jego sekret stawia JA przed lwem, nie boi sie jego lecz tego co za nim). Powietrze oczyszczone - pierwsza prawdziwie rowna rozmowa. Mira=4. knower, wiez silniejsza/rowna. Front=jej wybor (nienaciskany). Strach 'maska/uzytecznosc' rozwiazany.
+
+
+## 297-09-13 — ALL-CLEAR: low Antaryona zdechl
+Konwergencja sygnalow: Antaryon zapadl sie dalej (karzace warunki Banku + nieudany wewnetrzny low), pochlonieci przetrwaniem/wierzycielami, porzucili low za zewnetrznym sprawca. Nesta+Owen potwierdzaja: hunt martwy (lowca skonczony, nie tylko usnal). Nikt nie laczy uderzenia Banku z Symonem/kimkolwiek. FIREWALL bezpieczny; gate na climb ZDJETY. Caveat: upadly dom=dluga pamiec, prudence. Faza-duch moze sie konczyc; climb rusza schodkowo, decyzje WSPOLNE z Mira (4. knower, wspolniczka).

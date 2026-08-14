@@ -2,20 +2,20 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-09-18 POLUDNIE · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
+- **Data:** 297-09-18 WIECZOR · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** 297-08-04 RANEK, pelna wiosna: sezon budowlany zamku w toku (drewno/prowiant/zelazo plyna), port tetni arrivals, przednowkowy ucisk ZDJETY (relief lorda administruje Wiara). Symon: 3 filary zamkowe + 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 140 jeleni + 1 mied + 0 smokow
+- **Wolne:** 154 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
 - Weksle / mostek-kredyt NIEZABEZPIECZONE: 200 jel u dluznikow (DOLOZONE +100 dnia 09-07; wczesniej ~100). Procent dochodowy, popyt na mostek staly przed zima; rolluja/splacaja. [ODREBNIE: pozyczka ZABEZPIECZONA 50 jel pod zastaw - patrz pozyczka_zabezpieczona.]
 - Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18). INTAKT - oddzielna od weksli niezabezpieczonych.
-- Rotacja faktorii Nesty (zboze-sol): 400 jel w obrocie (DOLADOWANE 09-07 do pelnej 400 z ~357, +43 z kasy; reconcile dryfu 335/347/357 -> 400 twarde). W wiekszosci kapital Symona + equity core-faktorii. Plon per zamkniety cykl (~15-25 jel, czesc do kasy jako zwrot wlascicielski, czesc reinwest). Sprawdzony filar kapital-light-ish. Zimowy popyt tailwind.
+- Rotacja faktorii Nesty (zboze-sol): 400 jel w obrocie (DOLADOWANE 09-07 do pelnej 400 z ~357, +43 z kasy; reconcile dryfu 335/347/357 -> 400 twarde). W wiekszosci kapital Symona + equity core-faktorii. Plon per zamkniety cykl (~15-25 jel, czesc do kasy jako zwrot wlascicielski, czesc reinwest). Sprawdzony filar kapital-light-ish. Zimowy popyt tailwind. || 09-18: cykl rzut 40 - popyt wysoki (mroz) ale zamarznieta logistyka zjada czesc premii; plon ~18 jel: 14 do kasy (140->154), 4 reinwest (rotacja ~404). Lokalne zrodlo=przewaga gdy inne stoja.
 - Drewno-marza (Bennet->broker->zamek): umowa OPIECZETOWANA 07-18, SKALOWANA 07-18 (rzut 63). Godric zakontraktowal wiekszy wolumen budowlany na sezon; Bennet podniosl scinke. Przepustowosc filaru ~1.5x - najwiekszy strumien marzy (per dostawa). DOSTAWA BENNETA = BEZPOSREDNIO LADEM (dostawca lokalny), BEZ WODY - NIE zalezy od kanalu Bialego Noza ani przewozu rzecznego. REALNY SUFIT SKALOWANIA = pojemnosc scinki Benneta + przewoz LADOWY (wozy/woly, stan drog; wiosenne bloto obsycha = lepiej). Kapital-light (pre-sold off-take zamku). Ksieguj marze per dostawa. [UWAGA: ubezp-tranzyt WODNY dotyczy rotacji faktorii, nie tego filaru] [07-24 rzut 67: EKSPANSJA na ZDROWEJ bazie - Bennet SAM inwestuje w pojemnosc (rece+zaprzeg) przeciw gwarantowanemu off-take zamku; Symon koordynuje + obiecuje staly kontakt (lekcja: pielegnowac baze). Pojemnosc narasta ~kilka tyg (rece/wozy/schniecie drog) -> filar rosnie dalej, kapital-light, reliability chroniona.]
 - Firma faktorska ZAREJESTROWANA (07-01): legalny byt, Symon 2/3 udzialu + kontrola + neutralna twarz; Nesta cichy backer (1/3, imienia brak na rejestrze); czeladnicy Hal/Wick. +1/3 z transakcji w kantorze.
 - Wspol-underwriting tranzytu (compound Nesty): ~185 jel na ryzyku (podniesione 08-18 z 150 o +35 - KROK nie sus, sierpniowy plan wykonany). Z NAROSLYCH SKLADEK (compound skim=rezerwa) + kapital pool Nesty, LEKKO dla wolnej kasy Symona. Model DWUKROTNIE zwalidowany na zywym ogniu (07-30 + 08-17 - oba przetrwaly bez ruiny: dywersyfikacja+salvage+sklady Aurane). Hard market BIALY ZAR po 2 sztormach - skladki tluste, dochod z ksiegi skacze; lapiesz szczyt okna. Ryzyko 3. sztormu realne ale zarzadzone (bufor/dywersyfikacja). Doktryna kapitalem-nie-strachem zrealizowana.
@@ -46,7 +46,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - zelazo_okucia_marza: Marza koordynacyjna z partii zelaza/okuc Gulltown->Boren->zamek (sezon budowlany). Ksieguj per partia. Grubsza niz prowiant.
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 99 · Sytosc 38 · Zmeczenie 10
+- Zdrowie 99 · Sytosc 26 · Zmeczenie 22
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9

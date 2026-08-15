@@ -6825,3 +6825,10 @@ Głęboka Północ (Halvard) dalej frozen-out — realnie, zima trzyma rzekę sk
 
 ## 297-10-18 WIECZÓR — Wieczorna sesja zarobkowa (rzut 17, chudo)
 Symon odpoczął, zjadł i wcisnął jeszcze wieczorną sesję — ale zmęczony po ciężkim dniu, przy mrozie i skulonym mieście maszyna zmieliła leniwie (retainery, drobiazg). +3 jel (37→40). Dzień był długi: dostawa uratowana w mrozie, bufor odbudowany, dywersyfikacja północna domknięta.
+
+## 297-10-19 DZIEŃ MATKI, RANEK→POŁUDNIE — Służba w Sepie (bez rzutu; uznanie, nie przestroga)
+Symon został służyć na Dzień Matki — pokorna robota przy pokornej ławie po tygodniu ratowania dostaw i budowania maszyny. Mróz napełnił Sepę biednymi; Symon siadł do tego, co umie i co go gruntuje: spis jałmużny, rejestry potrzebujących, czysty rozdział opału/chleba pod mantią Wiary — wśród nich, ramię w ramię z Owenem, nie z góry.
+
+**Owen dał mu UZNANIE, nie przestrogę** (ewolucja gruntowania w czynie): „rok temu bałem się o twoją duszę; dziś to nie ja cię pilnuję — TY siebie pilnujesz; służysz ze szczytu, nie z potrzeby, i dlatego twoja gwiazda jest prawdziwa — takich biorą do rady dla charakteru." Najgłębsze słowo Owena do tej pory: znaczy, że Symon **pojął** to, o co Owen się bał — grounding przestał być drutem, stał się tym, kim Symon jest.
+
+Filar #4 celu (nieskazitelna prawda/charakter — jedyny klucz do drzwi Starka) + kotwica Owena spełnione w czynie; Faith-tie głębsza (Owen zauf +1). W tle Elna w wełnianej chuście z reliefu, mniej sinа — lód wokół niej puszcza przy cierpliwej Mirze. Karmi Północ cicho pod płaszczem Wiary — dokładnie droga do rady przez czyn, nie autopromocję. Pora RANEK→POŁUDNIE.

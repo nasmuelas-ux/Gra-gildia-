@@ -6832,3 +6832,6 @@ Symon został służyć na Dzień Matki — pokorna robota przy pokornej ławie 
 **Owen dał mu UZNANIE, nie przestrogę** (ewolucja gruntowania w czynie): „rok temu bałem się o twoją duszę; dziś to nie ja cię pilnuję — TY siebie pilnujesz; służysz ze szczytu, nie z potrzeby, i dlatego twoja gwiazda jest prawdziwa — takich biorą do rady dla charakteru." Najgłębsze słowo Owena do tej pory: znaczy, że Symon **pojął** to, o co Owen się bał — grounding przestał być drutem, stał się tym, kim Symon jest.
 
 Filar #4 celu (nieskazitelna prawda/charakter — jedyny klucz do drzwi Starka) + kotwica Owena spełnione w czynie; Faith-tie głębsza (Owen zauf +1). W tle Elna w wełnianej chuście z reliefu, mniej sinа — lód wokół niej puszcza przy cierpliwej Mirze. Karmi Północ cicho pod płaszczem Wiary — dokładnie droga do rady przez czyn, nie autopromocję. Pora RANEK→POŁUDNIE.
+
+## 297-10-19 POŁUDNIE→POPOŁUDNIE — Cicha robota w dzień Matki (rzut 57, przycięte świętem)
+Symon wziął cichą robotę wewnętrzną (księgi, rekonsyliacja retainerów z Halem) — targi zamknięte na Dzień Matki, więc bez rynku. Dobra sesja jak na dzień Wiary, ale grosz skromny (handel przygaszony): +5 jel (40→45). Pora POŁUDNIE→POPOŁUDNIE.

@@ -6,7 +6,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
-- **Nastroje:** 297-10-15 POLUDNIE (Mira u Elny, rzut 13 porazka stanu Elny nie bledu Miry): Mira zagrala bezblednie (wdowa-od-wdowy, godnosc nie jalmuzna) ale Elna dzis na twardym, dumnym dnie - i wyszlo, ze nie tyl
+- **Nastroje:** 297-10-15 POPOLUDNIE (wizyta u Aurane'a, rzut 6 - KOREKTA: pusta wizyta, bez winy Symona): Symon wszedl po ludzku bez lowienia (wlasciwy rejestr Aurane'a). rzut 6 = wizyta sie po prostu NIE ZAISKRZYLA
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 126 jeleni + 1 mied + 0 smokow

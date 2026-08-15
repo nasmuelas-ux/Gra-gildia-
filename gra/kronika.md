@@ -6738,3 +6738,11 @@ Dwa ciche plony, oba zaparkowane nie dobite (rzut 25):
 - **Elna:** Symon cicho skoordynował z Borenem (cech ją chroni) — Boren potwierdził, że trzymają jej dach, ale sam zauważył, że niedomaga i trzyma się na uboczu (zgodne z diagnozą Miry). Boren będzie mieć oko, Mira dochodzić. Kanał opieki bez wystawiania Elny.
 
 Niezawodna obecność pogłębia sojusz: Boren nast 90 hold, zauf 40→41. Cech kołodziejów = lepki, wartościowy sojusznik (tarcza, żelazo, drewno, teraz i troska o Elnę).
+
+## 297-10-15 POPOŁUDNIE — Pomoc prawnikowi Sepy (Torren; bez rzutu, ciepła kompetentna robota)
+Symon zaszedł pomóc Torrenowi — septonowi-prawnikowi Sepy — z prawno-majątkowymi sprawami kościoła (rejestry własności, zapisy, nadania). Zgodnie z zasadą „rozmowa nie jest pułapką": to jego żywioł (rachunki + rosnące prawo), więc bez rzutu z downside — solidna, porządkująca robota. Papiery Sepy wyczyszczone; Symon NIE wziął grosza (służba Wierze — ewentualne honorarium przekierował ku zimowej biedzie, echo porannego groundingu Owena).
+
+Trzy ciche plony, wszystkie na plus:
+- **Więź Faith-legal głębsza:** Torren (mierzony, uczony, ostrożny w zaufaniu) docenił rzecz rzadką po korupcji, na którą patrzył — wschodzący mieszczanin daje Wierze fach za darmo. nast 44→46, zauf 15→17.
+- **Prawo rośnie:** realna praktyka u prawnika (licznik 201→204; do poziomu 10 trzeba 250) — miejskie prawo własności, które przyda się jego własnemu rosnącemu majątkowi.
+- **Grounding w czynie:** dokładnie to, o czym mówił rano Owen — rosnący, który wciąż schyla się służyć. Faith-tie = jego tarcza (opieka Wiary/firewall) i fundament gwiazdy.

@@ -1793,8 +1793,8 @@
    "stan": "duchowny (Wiara)",
    "zawod": "septon uczony w prawie; prowadzi prawne/majatkowe sprawy Septy z miastem (zapisy, nadania, wlasnosc koscielna); zna praktyke rady i admisji mieszczanskiej",
    "mieszka": "przy glownej Sepcie / Sept Sniegow",
-   "nastawienie_do_gracza": 44,
-   "zaufanie": 15,
+   "nastawienie_do_gracza": 46,
+   "zaufanie": 17,
    "wie_o_graczu": [
     "297-01-03 (rzut 81): konsultacja o mieszczanstwie. Torren wylozyl czysta sciezke: ubiegac sie jako KUPIEC-wspolnik (nie skryba) -> Cech Pisarzy traci formalny grunt (nie wchodzi jako skryba, ich weto bezprzedmiotowe). Wymogi: WLASNOSC (dom w murach - brakujace ogniwo, sprawa na wiosne), standing kupiecki (udzial kantoru ✓), poreczyciele-kupcy (Vox/Aldous/Leona/Boren/Merek ✓), poreczenie Wiary ✓, wpis+oplata. Zlozone razem przygniata glos Pisarzy. Ryzyko: Harwin/Ryman moga zwlekac jesli znajda sojusznika w radzie (timing/gotowe poreczenia). DO WYGRANIA. Torren poprowadzi wniosek.",
     "297-01-05 (rzut 53): sprawdzil tytul kamieniczki. Jest ZASTAW (dlug desperata pod dom), ale reszta tytulu czysta (prawdziwy wlasciciel, brak spornych spadkobiercow, podatki OK). Zastaw ULECZALNY przy transakcji: srebro najpierw splaca wierzyciela->zdjecie zastawu->czysty tytul (za pisemnym zwolnieniem). Torren poprowadzi krok po kroku. Zastaw = dodatkowa dzwignia (wierzyciel przyciska->latwiej zbic cene). Cenny sprawdzony sojusznik prawny.",
@@ -1814,13 +1814,14 @@
     "297-06-22 (rzut 3, slepy zaulek bez dramatu): Symon przyszedl po tekst charteru. Torren ZATRZYMAL sie z rozmyslem - charteru cechu nie wyciaga sie z polki: oficjalny wglad = formalne zapytanie do registratora, KTORE JEST LOGOWANE -> ktos zyczliwy cechowi zobaczy ze ktos (nitka do Symona/Septy) grzebie w prawnych granicach cechu pisarzy = sygnal ze Symon buduje obrone = uwaga ktorej nie moze miec (cech wezszy + Antaryon). RYZYKO BEZ NAGRODY. Torren doradza PIVOT: nie potrzebujesz litery - wiesz z ich zachowania (smear zamiast pozwu) ze grunt slaby; trzymaj sie JAWNIE POZA ich terenem (faktor nie skryba) + goodwill kupcow + tarcza Wiary, NIE oswietlaj sie. Mentor ochronil Symona przed glupstwem. Torren zmeczony przednowkiem. \"Potwierdz charter\" = martwa sciezka.",
     "297-06-24 WIECZOR (rzut 38): Symon przyszedl wieczorem NIE dumpowac swoich 2 spraw na zmeczonego, lecz POMOC - odciazyl Torrena przy zaleglych sprawach Septy (zapisy/nadania/majatkowe, wasza reciprocity: on uczy prawa, Symon odciaza Septe). Modest tired session, ale realnie zdjal mu brzemie. Torren docenil: \"nie kazdy przychodzi DAC gdy moglby brac\". SLOT NA RANO dograny: obie sprawy Symona (firma ② + prawa drewna Bennet->zamek) \"na swiezo, bede mial glowe\". nast 35->37.",
     "297-06-25 (rzut 58): sformalizowal OBIE sprawy. FIRMA: forma prawna szkielet gotowy (usluga kupiecko-faktorska, jawnie nie-skrybowska, poza cechem z natury, fundament obywatelstwo-kupca; umowa cichego wspolnika Nesty spisana ⅓/⅔ ukryta; struktura czeladnikow Hal/Wick). Rejestracja w radzie = proces ~pare dni. Do dopiecia: PODPIS NESTY. DREWNO: umowy nakreslone czysto (Bennet-podaz + Symon-broker marza zdefiniowana<wartosc + zamek-odbior przez Godrica, egzekwowalne z arbitrazem, feudalnie czyste zero lasu lorda). Do wykonania: PODPISY Benneta + zamku. Reciprocity trwa. -2 jel oplata rejestracyjna. nast 37->39.",
-    "297-10-09: Symon przyszedl spisac umowe malzenska (4 dni przed slubem). Torren zredagowal wedle dom.md: osobne grunty + korytarz 50/50 + wzajemne dziedziczenie, wazne wobec miasta i Wiary. Z wlasnej glowy dorzucil AUTONOMIE HANDLOWA MIRY wpisana wprost (tarcza: zeby dwor/wrog nie wmowil ze jej sukno przeszlo pod meza). Reciprocity pogłębiona. nast 41->44 zauf 13->15."
+    "297-10-09: Symon przyszedl spisac umowe malzenska (4 dni przed slubem). Torren zredagowal wedle dom.md: osobne grunty + korytarz 50/50 + wzajemne dziedziczenie, wazne wobec miasta i Wiary. Z wlasnej glowy dorzucil AUTONOMIE HANDLOWA MIRY wpisana wprost (tarcza: zeby dwor/wrog nie wmowil ze jej sukno przeszlo pod meza). Reciprocity pogłębiona. nast 41->44 zauf 13->15.",
+    "297-10-15 POPOLUDNIE (bez rzutu - cieple kompetentne zaangazowanie): Symon wpadl pomoc Torrenowi z prawno-majatkowymi sprawami Sepy (rejestry wlasnosci koscielnej/zapisy/nadania). Jego rachunki+rosnace prawo bardzo pomogly - uporzadkowali papiery czysto. Symon NIE wzial grosza (sluzba Wierze; ew. honorarium przekierowal ku zimowej biedzie). Torren (mierzony uczony) ceni: wschodzacy mieszczanin daje Wierze fach ZA DARMO = rzadka rzecz po korupcji, na ktora patrzyl. Symon przy okazji uczyl sie miejskiego prawa wlasnosci (przyda sie jego rosnacemu majatkowi). Wiez Faith-legal glebsza (ochrona/firewall/grounding). nast 44->46, zauf 15->17."
    ],
    "potrzeby": [
     "porzadek w sprawach Septy",
     "posluszenstwo Wierze"
    ],
-   "ostatni_kontakt": "297-10-09",
+   "ostatni_kontakt": "297-10-15 POPOLUDNIE",
    "cechy_mowy": "suchy, drobiazgowy, precyzyjny; uczciwy",
    "_profil": "Neutralny znawca prawa miejskiego wskazany przez Owena (297-01-01). Poradzi Symonowi po praktyce admisji mieszczanskiej: droga kupiec-wspolnik (nie skryba), zlozenie poreczenia Wiary + poreczycieli-kupcow, jak zminimalizowac glos Cechu Pisarzy. Winny posluszenstwo Wierze, nie cechowi. Spotkanie za dzien-dwa (Owen posyla slowo). JESZCZE NIEPOZNANY.",
    "rok_urodzenia": 239

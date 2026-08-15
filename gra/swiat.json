@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 20,
+  "dzien": 21,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 28,
- "dzien_tygodnia_nr": 1,
- "dzien_targowy": null,
- "nastroje_miasta": "297-10-20 POPOLUDNIE (prospekty, rzut 48 solidny): Lorren wyciagnal cieply referral -> NOWY KLIENT kupiec DORYAN (suchy towar, Schody) z dyskretna potrzeba forensyczna (skim dostawcy). Symon wziął audyt+retainer, domknal czysto: +5 jel initial (kasa 47->52) + ~3 jel/mies retainer. Cicha firma rosnie WLASCIWIE - przez zaufany kanal, nie glosne lowy (lekcja Wystana zastosowana); maszyna dziala (Lorren robi swoje), brand premium glebszy. Underwriting zimowy odrzucony/dostepny na pozniej (RZUT 2 void, przerwane). Reszta: maszyna prowiantowa twarda+zdywersyfikowana, Wylis nast 21, refi zegar zimowy, relief napelniony/Elna odtaja, dziecko-nadzieja. Kasa 52.",
+ "pogoda": 78,
+ "dzien_tygodnia_nr": 2,
+ "dzien_targowy": "targ rybny (dzien podzielny przez 3)",
+ "nastroje_miasta": "297-10-21 RANEK (mroz zelzal, jasniejszy chlodny dzien, pogoda 78; targ rybny): spokojny poranek. Milsza pogoda=trakty przejezdne, gladkie operacje dla zdywersyfikowanej maszyny. Inbound spokojny (52). WCZORAJ: rozmowa o przeprowadzce -> wniosek: serce na Polnocy (gwiazda=rada Starkow biegnie przez Bialy Port/Manderlych), macki firmy ku Braavos bez wyrywania korzeni. Reszta: maszyna prowiantowa twarda+zdywersyfikowana, bufor odbudowany, Wylis nast 21 (stala umowa: 1 czysta zima), nowy klient Doryan, refi zegar zimowy, relief napelniony/Elna odtaja, dziecko-nadzieja. biały kruk Cytadeli ~297-11 (zbliza sie). Kasa 52.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 20,
+ "dzien": 21,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

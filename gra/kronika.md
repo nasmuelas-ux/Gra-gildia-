@@ -6864,3 +6864,9 @@ Maester ceni Symona coraz mocniej jako **umysł** — waluta tego kanału (pomos
 Symon chciał uczyć się braavijskiej matematyki od Nesty — ale (spójnie z 09-30: „nauczyłam cię wszystkiego, co umiem, poszedłeś dalej") Nesta nie może być tu nauczycielką: głęboka matematyka monety/ryzyka/procentu (poziom Żelaznego Banku) jest ponad nią (faktor, nie bank-quant), tak jak ponad Cytadelą. Rola Nesty = **drzwi, nie mistrz**: daje braavijskie księgi, które ma pod ręką (jak te, z których Symon sam wyczytał weksle/commendę 01-30), i pośle do Braavos po traktaty (moneta/ryzyko, krąg Banku przez Belarna). Symon uczy się **sam z tekstu** (jego natura) + wynajduje metodę na froncie.
 
 **Nowa umiejętność: `finanse`** (matematyka finansowa/braavijska) — odrębna zaawansowana dyscyplina ponad rachunkami; start 4 (mocny fundament z rachunków 10 + instrumentów). Haczyk: Braavos zamarznięty — grubsze traktaty przypłyną wolno, gdy lód puści; dziś fundament z ksiąg na ręce. To „żywa granica zza morza" Theomore'a — część drogi Symon robi jako pierwszy. Duma Nesty: uczeń przerósł mistrza. Pora POPOŁUDNIE→WIECZÓR.
+
+## 297-10-21 (meta) — Nowe umiejętności: FINANSE i WŁODARSTWO (doprecyzowanie taksonomii)
+Na uwagę gracza doprecyzowano skille (organizacja była za ogólna):
+- **finanse** (start 4) — matematyka finansowa/braavijska (moneta/kredyt/ryzyko, poziom Banku); self-study z tekstów, Nesta=drzwi nie mistrz.
+- **wlodarstwo** (start 6) — ekonomia i zarządzanie domeną/lennem: stewardstwo, prowiantowanie, zapasy, logistyka skali, gospodarka sezonowa, prowadzenie wielkiego gospodarstwa/Północy. RDZEŃ gwiazdy (człowiek rady Starków = włodarz Północy). Start 6 bo Symon praktykuje to de facto (castle-provisioning, relief, łańcuch logistyczny).
+Rozróżnienie: organizacja (ogólna koordynacja) · rachunki (księgowość) · finanse (matematyka monety) · handel (kupno/sprzedaż) · włodarstwo (gospodarka domeny). Glosariusz zapisany w postac.json.

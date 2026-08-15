@@ -50,7 +50,8 @@
   "czytanie_ludzi": 9,
   "organizacja": 8,
   "audyt": 9,
-  "finanse": 4
+  "finanse": 4,
+  "wlodarstwo": 6
  },
  "jezyki_znane": [
   "mowa powszechna",
@@ -163,7 +164,8 @@
   "spryt_uliczny": 130,
   "handel": 157,
   "geometria": 22,
-  "finanse": 8
+  "finanse": 8,
+  "wlodarstwo": 55
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
  "weksle_wystawione_jel": 200,
@@ -252,5 +254,9 @@
   "dzien": 3
  },
  "_uwaga_wiek": "Urodzony 275 AC, 8. miesiac, dzien 3. Gra ruszyla 296-08-03 = jego 21. urodziny. 297-08-03 skonczyl 22. Wiek przeliczac przy TIK: wiek = rok - 275 (minus 1 jesli przed data_urodzin w danym roku).",
- "stan_cywilny": "ZONATY (Mira, od 297-10-13 Dzien Matki; slub przez Owena, umowa u Torrena)"
+ "stan_cywilny": "ZONATY (Mira, od 297-10-13 Dzien Matki; slub przez Owena, umowa u Torrena)",
+ "_umiejetnosci_glosariusz": {
+  "wlodarstwo": "ekonomia i zarzadzanie domena/lennem: stewardstwo, prowiantowanie, spichrze/zapasy, logistyka skali, gospodarka sezonowa, prowadzenie wielkiego gospodarstwa/lenna/Polnocy. Odrozniac od: organizacja(ogolna koordynacja proces/ludzie), rachunki(ksiegowosc), finanse(matematyka monety/ryzyka Bank-level), handel(kupno/sprzedaz). RDZEN gwiazdy (czlowiek rady Starkow=wlodarz Polnocy). Symon praktykuje de facto: castle-provisioning/relief/lancuch logistyczny.",
+  "finanse": "matematyka finansowa/braavijska: procent skladany, kredyt, wycena ryzyka (poziom Zelaznego Banku). Frontier ponad rachunkami; uczony self-study z braavijskich tekstow (Nesta=drzwi nie mistrz)."
+ }
 }

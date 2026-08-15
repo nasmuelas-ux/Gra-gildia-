@@ -5,12 +5,12 @@
   "dzien": 6,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 31,
  "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-07 POLUDNIE: DRUGA LINIA ZELAZA URUCHOMIONA (dzwignia 2, bez rzutu - kanal sprawdzony). Boren off-take zamkniety, korespondent Gulltown kredyt/komis pod off-take, Nesta kapitan trasa wschodnia, Deman ksiegi/Hal papier. Kapital-lekko (~3 jel zadatek, kasa 120->117; baza z wczorajszego +50). DOSTAWA na zegarze ~10-18/21 (trasa wschodnia zima), RESZTKOWE ryzyko morza rozstrzyga PRZY DOSTAWIE (rzut wtedy). Sukces=gruba marza+kanal pod wiosne; klapa=ograniczona przezywalna. || W TLE: WAKAT KASZTELANA (lord obsadza, nazwiska m.in. ser Wylis, wazy dla zaopatrzenia zamku/kontraktu/rady - Symon bez czytania ich nastawienia); spread zelaza potwierdzony. 6 dni do slubu.",
+ "nastroje_miasta": "297-10-07 POLUDNIE: DRUGA LINIA ZELAZA URUCHOMIONA (dzwignia 2, bez rzutu - kanal sprawdzony). Boren off-take zamkniety, korespondent Gulltown kredyt/komis pod off-take, Nesta kapitan trasa wschodnia, Deman ksiegi/Hal papier. Kapital-lekko (~3 jel zadatek, kasa 120->117; baza z wczorajszego +50). DOSTAWA na zegarze ~10-18/21 (trasa wschodnia zima), RESZTKOWE ryzyko morza rozstrzyga PRZY DOSTAWIE (rzut wtedy). Sukces=gruba marza+kanal pod wiosne; klapa=ograniczona przezywalna. || W TLE: WAKAT KASZTELANA (lord obsadza, nazwiska m.in. ser Wylis, wazy dla zaopatrzenia zamku/kontraktu/rady - Symon bez czytania ich nastawienia); spread zelaza potwierdzony. 6 dni do slubu. || 297-10-07 POPOLUDNIE: Symon NIE miesza sie w sukcesje kasztelana - earning przez KOMPETENCJE nie intryge. Cel: firma=oczywisty wybor ciaglosci dla kazdego nowego kasztelana (staly kontrakt czeka na nowa glowe), argument zastanymi faktami (filary drewno/prowiant/zelazo bezbledne). Lorren sciagnal audyt od obecnego klienta (plan w dzialaniu) +7 jel (kasa 117->124). Firewall/standing czyste, zero dworskiej ekspozycji. Doktryna: pozycji nie kupisz ani wyszeptasz, buduje sie bezbledna dostawa. 6 dni do slubu.",
  "ceny": {
   "chleb": {
    "baza": 3,

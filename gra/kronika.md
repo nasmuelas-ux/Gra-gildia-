@@ -6835,3 +6835,6 @@ Filar #4 celu (nieskazitelna prawda/charakter — jedyny klucz do drzwi Starka) 
 
 ## 297-10-19 POŁUDNIE→POPOŁUDNIE — Cicha robota w dzień Matki (rzut 57, przycięte świętem)
 Symon wziął cichą robotę wewnętrzną (księgi, rekonsyliacja retainerów z Halem) — targi zamknięte na Dzień Matki, więc bez rynku. Dobra sesja jak na dzień Wiary, ale grosz skromny (handel przygaszony): +5 jel (40→45). Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-20 RANEK→POŁUDNIE — Zarobkowanie (rzut 80, tłusto)
+Symon zjadł i wcisnął sesję — maszyna huczy: Corliss+Symon domknęli premium audyt, Lorren wyciągnął dobrą robotę od stałego klienta. Solidny utarg, kasa się odbudowuje po tygodniu inwestycji/mrozu. +12 jel (35→47). Pora RANEK→POŁUDNIE.

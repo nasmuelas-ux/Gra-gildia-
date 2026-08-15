@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 35,
- "dzien_tygodnia_nr": 4,
+ "pogoda": 100,
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-16 POPOLUDNIE (relief na zime - resupply, rzut 59 solidny): Symon skoordynowal sprawdzona maszyne reliefu (mantia Wiary/Owen + Mira dyryguje + Bran dowozi + warstwa uczciwej podazy) + dolozyl ~15 jel opal/zywnosc + zmobilizowal darczyncow + earmark zbozowy lorda. RELIEF DOBRZE ZAOPATRZONY na nadchodzacy twardy odcinek zimy; biedni pokryci; Elna pokryta w reliefie dyskretnie (godnosc). Standing obywatelski Symona rosnie POD MANTIA WIARY (niewidzialnie); grounding Owena spelniony w czynie. Solidnie nie na cala zime - dluga zima poprosi o top-up. Kasa 126->111. Reszta: Wylis wolumen skalowany (stala umowa blizej, rzut 90); refi zegar zimowy; dziecko-nadzieja z Mira. Wylis nast 20, rep zamek 24.",
+ "nastroje_miasta": "297-10-17 RANEK (3. poranek malzenstwa; RZADKI DAR pogody: pogoda 100 - niebo czyste jak szklo, mroz odpuscil, jasny lagodny dzien, przedzimowa respite): OKNO LOGISTYCZNE - piekna pogoda otwiera dobry moment na ruch (przewoz zapasow nim zima wroci): skalowany prowiant Wylisa moze plynac gladko (sklad Aurane -> wozy Borena -> zamek), dostawa pod okiem = paliwo do stalej umowy. Inbound spokojny (55). Reszta w tle: refi zegar zimowy (Bank uderzyl 08-13); relief napelniony (Elna powoli odtaja przy Mirze); dziecko-nadzieja z Mira. Wylis nast 20 (stala umowa: 1 czysta zima), rep zamek 24. Kasa 111.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 16,
+ "dzien": 17,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

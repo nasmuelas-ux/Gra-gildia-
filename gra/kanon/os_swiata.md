@@ -90,3 +90,17 @@ latami tur naprzód. Wybór trybu = decyzja gracza (patrz niżej), NIE forsować
 5. **Tempo** — gra idzie ~pół dnia/turę; do 298/299 jest DUŻO tur. Bliskie beaty
    (kruki sezonowe, słabe plotki) żyją teraz; wielkie wstrząsy dojrzewają, gdy
    kalendarz tam dojdzie. Nie forsować przeskoków czasu.
+
+## SKALA BRAAVOS (robocza — kanon gry, 297-10-20)
+Kanon PLIO nie podaje dokładnej cyfry; skala jednoznaczna. USTALENIE ROBOCZE:
+- **Braavos ~300–400 tys. mieszkańców** (kilkaset tys.) — najbogatsze i jedno z
+  najludniejszych Wolnych Miast; „Tajemne Miasto" na lagunie stu wysp; dom Żelaznego Banku.
+- **~15–20× większe niż Biały Port** (~25 tys.). Dla mieszczanina z BP = niemal
+  niewyobrażalna metropolia (morze ludzi, kanałów, banków, galer).
+
+**Znaczenie dla łuku (dlaczego Braavos waży tyle):**
+- Nesta = faktorka TEGO świata → jej kapitał/korytarz/Bank ważą w historii Symona.
+- Żelazny Bank (nagiął Antaryonów) = potęga z miasta wielokrotnie większego niż jedyne
+  miasto Północy → asymetria, którą Symon wygrał (sprowadzenie większej siły, nie srebro).
+- Firewall / refi / zależność od Braavos = grawitacja strategiczna stąd, że backend firmy
+  to metropolia zza wąskiego morza, sezonowo odcięta lodem zimą (stąd hook: północna głębia).

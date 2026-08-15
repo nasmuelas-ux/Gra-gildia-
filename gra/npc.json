@@ -358,10 +358,11 @@
     "297-06-21 (rzut 95): MISTRZOWSKA sesja - Symon polaczyl agregatowy read (sukno-glut od Voxa + sol-squeeze przez kre+wiosenny polow + ruch portu od Aurane) w konkretna POZYCJE faktorii na SOLI (jego wlasna teza, ktora Harlon zbyl - kantor gra na niej sam). Nesta zlapala logike w pol zdania, pod wrazeniem: \"widzisz jak faktor z Zelaznego Miasta, nie skryba znad Bialego Noza. Bierzemy.\" +6 jel udzial + pozycja dojrzewa ku plonowi gdy cena pofirmuje. Thematic bookend: narzedzie (liczydlo) we WLASCIWYM polu (rynek) = genialne, po wczorajszej lekcji o jego granicy (milosierdzie).",
     "297-06-22 (rzut 16): projekt struktury firmy - trafili TWARDY WEZEL (nie deferral, realna decyzja inzynierska). Oczywiste \"linia uslug kantoru\" ma FATALNA WADE: wartosc Symona = NEUTRALNA dyskrecja; jesli praktyka jest widocznie ramieniem faktorii Nesty (rywala/kontrahenta wielu klientow), nikt nie da ksiag rachmistrzowi zwiazanemu z rywalem - parasol instytucjonalny (legalnosc) ZABIJA neutralnosc (wartosc). Drugi wezel: formalizacja = wieksza widocznosc (cech). Trzeci: Nesta chce Symona wplecionego (bezcenny) vs praktyka potrzebuje od niej DYSTANSU by byc niczyja. CONSTRAINT: legalnosc + neutralnosc + niska widocznosc w napieciu. KIERUNEK: firma = WLASNA, niezalezna, NEUTRALNA (twarz Symona), Nesta CICHY backer/wspolnik za kulisami (kapital+mentorstwo+charter jako zaplecze, NIE publiczny rodzic). Do dopiecia.",
     "297-06-23 (rzut 48): wynegocjowali WARUNKI CICHEGO WSPOLNIKA firmy Symona (krok ①). Rama uzgodniona: Nesta cichy udzial ~1/3 zysku (za kapital+charter-zaplecze+mentorstwo), ZERO publicznej twarzy, backer/doradca NIE decydent; jej kapital zabezpieczony/priorytetowy + klauzula okresowego przegladu. Symon ~2/3 + KONTROLA + neutralna publiczna twarz + wladza decyzji (mozliwa sciezka odkupu jej udzialu z czasem - do dopiecia). Napiecie \"blisko vs niezaleznie\" wywietrzone: Nesta wprost \"nie stawiam za toba by cie stracic, chce cie blisko\" - Symon pogodzil (cichy udzial splata was, firma publicznie jego/neutralna). Give-and-take realny. Rama gotowa dla Torrena (krok ②).",
-    "297-10-04 (rzut 61): Symon przyniosl pomysl ANALITYKA (market-intelligence z jawnych danych) jako 1. krok profesjonalizacji firmy. Nesta (faktor) od razu zlapala - to rzemioslo faktorii w roli. Zaprojektowali desk: czysta jawna obrobka u analityka, WRAZLIWA SYNTEZA (pozycje/brzegi Braavos-Antaryon) u Symona+Nesty, analityk nie widzi calej planszy (firewall). Nesta wspolfinansuje (1/3). Lead: umysl pismienny+liczacy+dyskretny bez standingu, lean lokalny (nie Braavijczyk=firewall), vet twardo (pierscien sadzi ludzi). Rola zaprojektowana, rekrut do znalezienia."
+    "297-10-04 (rzut 61): Symon przyniosl pomysl ANALITYKA (market-intelligence z jawnych danych) jako 1. krok profesjonalizacji firmy. Nesta (faktor) od razu zlapala - to rzemioslo faktorii w roli. Zaprojektowali desk: czysta jawna obrobka u analityka, WRAZLIWA SYNTEZA (pozycje/brzegi Braavos-Antaryon) u Symona+Nesty, analityk nie widzi calej planszy (firewall). Nesta wspolfinansuje (1/3). Lead: umysl pismienny+liczacy+dyskretny bez standingu, lean lokalny (nie Braavijczyk=firewall), vet twardo (pierscien sadzi ludzi). Rola zaprojektowana, rekrut do znalezienia.",
+    "297-10-06: ZMIANA MODELU - Nesta przestaje prowadzic faktorie SAMA (byla waskim gardlem). Nowy proces: intel=Deman, decyzja=Symon+Nesta (wielkie calle), wykonanie/rozliczenia=biurko Hala. Nesta z operatorki -> STRATEG (kapital/Braavos/wielkie decyzje). Faktoria skaluje sie na wiecej cykli."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-10-04",
+   "ostatni_kontakt": "297-10-06",
    "cechy_mowy": "chlodno, precyzyjnie, wtracenia po braavijsku; mierzy rozmowce wzrokiem",
    "historia": [
     "m11d14: Symon podsuwa pilotaz ubezpieczen/pul ryzyka frachtu (rzut 88). Nesta CHWYTA w lot (zna braavijskie zalazki: pozyczki bodmeryjne, dzielenie ryzyka), impressed regardem dla Symona jako partnera z wizja. Przycina po braavijsku: pilotaz TINY, dywersyfikacja od zaraz (nigdy jeden statek), znane male ladunki/kapitanowie/trasy ktore umieja wycenic; KAPITAL kantoru/pryncypala nie chuda sakiewka Symona; wklad Symona = MODEL RYZYKA (rachunki8+info-edge o trasach/pogodzie/kapitanach) za CICHY udzial; biegnie jako 'kantor daje rekojmie na ladunek' = kamuflaz, nazwisko Symona off. Cap: male poki pryncypal nie zatwierdzi wiekszego kapitalu (chce dowodu/czystej struktury) i poki zima najgorsza. Nesta 48->50.",
@@ -2178,30 +2179,32 @@
    "id": "deman_klerk",
    "imie": "Deman",
    "wiek": 26,
-   "zawod": "klerk-analityk (desk jawnych danych rynku)",
+   "zawod": "klerk-analityk (desk jawnych danych) - kaskada intelu: 1.klient 2.sprzedaz Arkusz 3.zasila wlasna faktorie (odciaza Neste)",
    "nastawienie_do_gracza": 20,
    "zaufanie": 10,
    "cechy_mowy": "rzeczowy, cyfry przed slowami",
    "flaga": "STAFF: analityk, kompartmentowany (jawne dane); Nyra docelowo pod nim",
-   "ostatni_kontakt": "297-10-05",
+   "ostatni_kontakt": "297-10-06",
    "stan": "mieszczanin",
    "wie_o_graczu": [
-    "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda)."
+    "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda).",
+    "297-10-06: rola doprecyzowana - buduje intel z jawnych danych, kaskada: dzieli z klientami -> sprzedaje (Arkusz Portowy) -> fallback zasila transakcje faktorii (odciaza Neste, ktora dotad czytala rynek sama). Krawedz zostaje u Symona/Nesty."
    ]
   },
   {
    "id": "lorren_agent",
    "imie": "Lorren",
    "wiek": 33,
-   "zawod": "agent handlowy na prowizji (pozyskiwanie/obsluga klientow)",
+   "zawod": "agent handlowy - relacje klienckie: podtrzymuje obecnych + POWOLI nowych; TERAZ priorytet=audyty/zlecenia od OBECNYCH klientow",
    "nastawienie_do_gracza": 18,
    "zaufanie": 10,
    "cechy_mowy": "towarzyski, lekki, latwo nawiazuje",
    "flaga": "STAFF: platny agent-prowizja, nie pryncypal",
-   "ostatni_kontakt": "297-10-05",
+   "ostatni_kontakt": "297-10-06",
    "stan": "mieszczanin",
    "wie_o_graczu": [
-    "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda)."
+    "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda).",
+    "297-10-06: rola doprecyzowana - (1) podtrzymuje relacje z obecnymi, (2) pozyskuje nowych bardzo powoli (ciepłe wprowadzenia, nie hustle), (3) TERAZ priorytet: wyciagac audyty/zlecenia od obecnych klientow. Ma arkusz uslug/cen. Budowa machiny."
    ]
   },
   {

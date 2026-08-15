@@ -5,12 +5,12 @@
   "dzien": 16,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 35,
  "dzien_tygodnia_nr": 4,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-16 RANEK (przygotowanie oferty skalowania prowiantu dla Wylisa/zamku; bez rzutu - prep z Nesta/firma): Zbudowana MOCNA oferta wolumenowa z liczb: PODAZ Merek+Harlon (dwa wezly, skalowalne), SKLAD Aurane (bufor sztauowany, dostawa mimo skutej rzeki), OFF-TAKE zamku (Godric), BUFOR FROST-PROOF dowiedziony (to co ujelo Wylisa: dwa zrodla, kara-na-siebie, klauzula nigdy nie odpalona), CZYSTA KSIEGA co do miedziaka. AKTYWOWANA SYNERGIA: skalowanie dostawy pod zamek potrzebuje HAULINGU -> wozy cechu Borena (wczorajszy parked seed) wpiete jako moc przewozowa (Boren sojusznik, sezon mu sprzyja). Lancuch: podaz->sklad Aurane->wozy Borena->zamek. STRATEGIA Nesty: struktura ma DOWODZIC pewnosci dostawy pod okiem Wylisa (nie grab/pchanie - on wietrzy pospiech), to sciezka do stalej umowy. FIREWALL: oferta czysta/weryfikowalna po stronie prowiantu, zaplecze Braavos/Antaryon ANI SLOWA (Wylis ciekaw zaplecza - nie karmic). Symon idzie do zamku uzbrojony w liczby. Reszta w tle: refi zegar zimowy, Elna opieka Miry/Borena, dziecko-nadzieja. Kasa 126.",
+ "nastroje_miasta": "297-10-16 POLUDNIE (Wylis: skalowanie wolumenu prowiantu, rzut 90 mocny sukces): Symon zaproszony (Godric) domknal SKALOWANIE prowiantu zimowego oferta-lancuchem (podaz Merek/Harlon->sklad Aurane->wozy Borena->zamek + bufor frost-proof + czysta ksiega), dowodzic-nie-pchac. Wylis (numeryczny celnik) pod wrazeniem kompletnosci=pewnosc dostawy na gleboka zime. WOLUMEN SKALOWANY (filar prowiantowy rosnie, wiecej zimowej marzy). STALA UMOWA wyraznie blizej: jedna czysta zima dowozu pod okiem Wylisa = jego do podpisu (nie dzis - optyka 1. miesiaca; near-certain jak dostawa trzyma). Firewall HELD (nie dopytywal o zaplecze). Symon coraz bardziej NIEZBEDNY dla zimowego przetrwania zamku (gwiazda rosnie). Wylis nast 17->20 zauf 13->16, rep zamek 22->24. Konkret pobil improwizacje. Reszta w tle: refi zegar zimowy (Bank uderzyl 08-13); Elna opieka Miry/Borena; dziecko-nadzieja. Kasa 126.",
  "ceny": {
   "chleb": {
    "baza": 3,

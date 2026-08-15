@@ -1048,7 +1048,8 @@
    "zaufanie": 46,
    "ostatni_kontakt": "297-10-02",
    "wie_o_graczu": [
-    "297-10-02 (rzut 45): wezwal Symona po radzie ws. prowiantowania po upadku pierscienia. Symon przyszedl z GOTOWYM czystym rachunkiem prowiantu (nie z prosba - z rozwiazaniem). Lord ZAADOPTOWAL plan: dwa lokalne zrodla+rygor szlakow+etapowanie z kara-na-siebie (to co Aldric blokowal - lord bierze pelnym warrantem). Zajete zboze: Symon oddal je lordowi jako JEGO hojnosc przez Wiare (relief), nie zagarnal zaslugi - Wyman zauwazyl (znow rozdal chwale). Kompetencja+pokora potwierdzone praktyka; 'czlowiek rady' z obietnicy staje sie faktem. Wyman testowal czy gbur chwyci za duzo - nie chwycil. nast 72->76, zauf 40->46."
+    "297-10-02 (rzut 45): wezwal Symona po radzie ws. prowiantowania po upadku pierscienia. Symon przyszedl z GOTOWYM czystym rachunkiem prowiantu (nie z prosba - z rozwiazaniem). Lord ZAADOPTOWAL plan: dwa lokalne zrodla+rygor szlakow+etapowanie z kara-na-siebie (to co Aldric blokowal - lord bierze pelnym warrantem). Zajete zboze: Symon oddal je lordowi jako JEGO hojnosc przez Wiare (relief), nie zagarnal zaslugi - Wyman zauwazyl (znow rozdal chwale). Kompetencja+pokora potwierdzone praktyka; 'czlowiek rady' z obietnicy staje sie faktem. Wyman testowal czy gbur chwyci za duzo - nie chwycil. nast 72->76, zauf 40->46.",
+    "297-10-12: Wyman przyslal Symonowi dar weselny (beczka wina + slowo laski) - nieslychane dla gbura. Symon przyjal z godnoscia i ODDAL wino biednym (cichy rozdzial Dnia Matki, hojnosc lorda przez Wiare) zamiast na pokaz. Gdy slowo dojdzie do Wymana - potwierdzi to co ceni: czlowiek co nie chwyta zaszczytu dla siebie lecz obraca w dobro. Regard poglębi sie."
    ]
   }
  ],
@@ -2275,12 +2276,13 @@
    "wiek": 46,
    "stan": "mieszczka",
    "zawod": "starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczka) - przyjechala na slub",
-   "nastawienie_do_gracza": 1,
+   "nastawienie_do_gracza": 8,
    "zaufanie": 3,
-   "ostatni_kontakt": "297-10-11",
+   "ostatni_kontakt": "297-10-12",
    "wie_o_graczu": [
     "297-10-11: poznala Symona przed slubem. CZUJNA STRAZNICZKA siostry (Mira grzebala meza i syna, sama trzymala dom) - spytala wprost 'zona czy szczebel? jak zajdziesz wyzej wdowa moze ci ciazyc'. Symon odpowiedzial prawda (dom nie dziedzic; umowa=autonomia Miry wpisana; gwiazda dzielona) - zarejestrowala nie ustapila: 'ladnie mowisz, zobacze czy tak robisz, bede patrzec, nie mam nikogo procz niej'. Do wygrania czynem/latami, nie slowem. Nie wrogosc - sluszna ochrona.",
-    "297-10-11 WIECZOR: widziala Symona wsrod goscia - gbura o ktorym mowia ze lord zna imie, jak siedzi z tragarzami, nosi drwa, dogadza ciotce; i Mire smiejaca sie prawdziwie (dawno takiej nie widziala). Zmiekla ODROBINE: dawno jej takiej nie widzialam. Pierwszy grosz na rachunku - do wygrania czynem, nie slowem. nast -2->1."
+    "297-10-11 WIECZOR: widziala Symona wsrod goscia - gbura o ktorym mowia ze lord zna imie, jak siedzi z tragarzami, nosi drwa, dogadza ciotce; i Mire smiejaca sie prawdziwie (dawno takiej nie widziala). Zmiekla ODROBINE: dawno jej takiej nie widzialam. Pierwszy grosz na rachunku - do wygrania czynem, nie slowem. nast -2->1.",
+    "297-10-12: uslyszala co Symon zrobil z darem lorda - dostal wino od pana Polnocy i zaniosl je biednym zamiast na wlasny stol. Deed nie slowo: gbur co obraca zaszczyt w milosierdzie nie jest lowca statusu. Pierwszy raz bez strazy w oczach: 'moze twoja siostra wybrala lepiej niz myslalam'. nast 1->8 (mieknie meaningfully)."
    ],
    "cechy_mowy": "twarda, bezposrednia, chroni swoich; ocenia po czynach nie slowach",
    "flaga": "czujna strazniczka Miry - holdout, do wygrania czynem/latami (nie wrogosc, ochrona)"

@@ -2275,11 +2275,12 @@
    "wiek": 46,
    "stan": "mieszczka",
    "zawod": "starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczka) - przyjechala na slub",
-   "nastawienie_do_gracza": -2,
+   "nastawienie_do_gracza": 1,
    "zaufanie": 3,
    "ostatni_kontakt": "297-10-11",
    "wie_o_graczu": [
-    "297-10-11: poznala Symona przed slubem. CZUJNA STRAZNICZKA siostry (Mira grzebala meza i syna, sama trzymala dom) - spytala wprost 'zona czy szczebel? jak zajdziesz wyzej wdowa moze ci ciazyc'. Symon odpowiedzial prawda (dom nie dziedzic; umowa=autonomia Miry wpisana; gwiazda dzielona) - zarejestrowala nie ustapila: 'ladnie mowisz, zobacze czy tak robisz, bede patrzec, nie mam nikogo procz niej'. Do wygrania czynem/latami, nie slowem. Nie wrogosc - sluszna ochrona."
+    "297-10-11: poznala Symona przed slubem. CZUJNA STRAZNICZKA siostry (Mira grzebala meza i syna, sama trzymala dom) - spytala wprost 'zona czy szczebel? jak zajdziesz wyzej wdowa moze ci ciazyc'. Symon odpowiedzial prawda (dom nie dziedzic; umowa=autonomia Miry wpisana; gwiazda dzielona) - zarejestrowala nie ustapila: 'ladnie mowisz, zobacze czy tak robisz, bede patrzec, nie mam nikogo procz niej'. Do wygrania czynem/latami, nie slowem. Nie wrogosc - sluszna ochrona.",
+    "297-10-11 WIECZOR: widziala Symona wsrod goscia - gbura o ktorym mowia ze lord zna imie, jak siedzi z tragarzami, nosi drwa, dogadza ciotce; i Mire smiejaca sie prawdziwie (dawno takiej nie widziala). Zmiekla ODROBINE: dawno jej takiej nie widzialam. Pierwszy grosz na rachunku - do wygrania czynem, nie slowem. nast -2->1."
    ],
    "cechy_mowy": "twarda, bezposrednia, chroni swoich; ocenia po czynach nie slowach",
    "flaga": "czujna strazniczka Miry - holdout, do wygrania czynem/latami (nie wrogosc, ochrona)"

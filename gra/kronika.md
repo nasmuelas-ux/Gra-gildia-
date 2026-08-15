@@ -6751,3 +6751,16 @@ Trzy ciche plony, wszystkie na plus:
 Wieczorem pierwszego dnia małżeństwa Symon przyszedł do Miry z najgłębszą nadzieją — dziecko, pusta izdebka na górze. Dla Miry to miejsce starej rany: urodziła Rovanowi syna, pochowała przed jego pierwszą zimą; potem dzieci nie przyszły; „nie młoda, poród ryzykowny". Wyznała wprost strach — bać się mieć nadzieję, którą najciężej stracić; że ciało już nie da; że będzie żoną, co „nie może dać tego jednego". Symon nie dał jej dokończyć: „nie ożeniłem się, żebyś mi coś dała; cokolwiek Bogowie zechcą, poniesiemy oboje, nigdy sama, jakeś była". Coś w niej puściło — łzy i uśmiech przez nie.
 
 Zaczęli starać się o dziecko — nie z rozpaczy, z miłości dwojga z niczego. **Nie rozstrzyga się jednej nocy** (ani tak, ani nie): to żywa nadzieja niesiona oboje, cierpliwie, w rękach czasu i Bogów; u Miry może być trudno/wolno/niepewnie. Pusta izdebka z żalu staje się wspólną nadzieją. Nowy wątek: dziecko_nadzieja_starania (prowadzić tkliwie, realistycznie, bez mechanicznego rzutu poczęcia). Partnerstwo najgłębsze do tej pory.
+
+## 297-10-16 RANEK — Przygotowanie oferty skalowania prowiantu (z Nestą/firmą; bez rzutu)
+Po śniadaniu (sytość 40→58) Symon siadł z Nestą i firmą zbudować ofertę wolumenową dla Wylisa/zamku — z liczbami, nie z pomysłem (konkret bije improwizację; celnik słucha tylko liczb). Prep, nie hazard — jego żywioł.
+
+**Oferta (mocna, firewall-zdyscyplinowana):**
+- PODAŻ: Merek + Harlon — dwa węzły, skalowalne.
+- SKŁAD: Aurane — bufor sztauowany, dostawa mimo skutej rzeki.
+- HAULING: **wozy cechu Borena** — wczorajszy parked seed aktywowany jako moc przewozowa (skalowanie dostawy pod zamek potrzebuje wozów; Boren sojusznik, sezon mu sprzyja). Łańcuch: podaż → skład Aurane → wozy Borena → zamek.
+- BUFOR FROST-PROOF dowiedziony (dwa źródła, kara-na-siebie, klauzula nigdy nie odpalona) + czysta księga co do miedziaka.
+- STRATEGIA (Nesta): struktura ma DOWODZIĆ pewności dostawy pod okiem Wylisa — nie grab, nie pośpiech (celnik to wietrzy). To ścieżka do stałej umowy.
+- FIREWALL: czysto/weryfikowalnie po stronie prowiantu; zaplecze Braavos/Antaryon ani słowa (Wylis ciekaw zaplecza — nie karmić).
+
+Symon idzie do zamku uzbrojony w liczby. Pora RANEK.

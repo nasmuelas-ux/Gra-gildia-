@@ -6688,3 +6688,18 @@ Symon wybrał opcję 2: nie czekać na dossier, lecz uderzyć do pryncypała **o
 **Potwierdzone (na plus):** standing Symona faktycznie urósł i podniósł jego wiarygodność kredytową — warunek „urosnąć dość" jest w oczach kapitana spełniony. **Ale to nie zastępuje** drugiego warunku pryncypała: twardego dowodu ograniczającego ryzyko. Dossier celne okazuje się **prawdziwym kluczem** — nie opcjonalną papierologią, którą da się przeskoczyć samym nazwiskiem. To dokładnie opcja 1, która była fundamentem.
 
 **Lekcja (znajoma):** znowu **pyszny pęd** — sięgnięcie po wynik przed położeniem fundamentu. Ta sama struna, którą szarpnęli Mira, Owen i port przy głośnym szukaniu handlowca. Nesta łapie to łagodnie, bez urazy; Belarno biznesowo konsekwentny (nast 26 hold), drzwi pryncypała nietknięte i ciepłe. **Właściwy NEXT:** domknąć dossier celne (Deman + audyt Symona), potem re-approach z pełną ręką.
+
+## 297-10-14 POŁUDNIE — KOREKTA: dowód już istniał (VOID rzutu 32, re-adjudykacja)
+Gracz słusznie: **twardy dowód już był**. Kanon **07-23 (rzut 100, kryt):** trójnożny dossier bankowej gęstości — deklaracje Antaryona + korroboracja cła Gartha + agregat buyer-side kupców — **domknięty i dostarczony Belarnem** do Żelaznego Banku, „dokładnie czego żądał ostrożny Bank". Bank wszedł w **fazę decyzji** (~08, renegocjacja-albo-cios). **Détente 10-06 = wczesny owoc tego dowodu.** Belarno **sam go niósł** — więc gate „przynieś dowód" (wczoraj) był niespójny. **Unieważniono rzut 32.**
+
+**Re-adjudykacja na prawdziwej przesłance:**
+- **Proof-gate pryncypała (twardy dowód) JUŻ SPEŁNIONY.** Re-approach na standingu + istniejącym dowodzie jest uzasadniony, nie przedwczesny. Instynkt gracza (opcja 2, teraz) — słuszny.
+- **Endgame jest dużo dalej, niż „zbuduj dossier".** Maszyna dowodowa pracuje od lipca — przez **Bank**, z Symonem jako niewidzialnym źródłem. Smycz już się **poluzowała** (détente), bo dowód zadziałał.
+- **Prawdziwa żywa kwestia (nie gate):**
+  1. **Bank** już porusza tą samą bronią — ale może **renegocjować** z Antaryonem (swoim klientem) zamiast go tłuc = tor miękki, spójny z détente (smycz poluzowana, nie zerwana; dług wciąż ~90 smoków).
+  2. **Principal-refi** = drugi, **aktywny** lewar, który realnie **wykupuje** Nestę spod Antaryonów — vs bierne czekanie, aż Bank sam coś zrobi. Jego gate spełniony.
+  3. **Firewall:** jawne imię Symona na refi (decyzja 10-14) musi zostać **oddzielone** od niewidzialnego-źródła dowodu (dossier = „własne odkrycie Banku"). „Imię na pożyczce, nie na nożu."
+
+**Charakter:** pyszny pęd Symona wczoraj to było zapomnienie, że **połowę bitwy już wygrał** — dowód gotowy od lipca, Bank w ruchu. Gonił całość, nie widząc, jak blisko jest końca. Belarno nast 26 / zauf 8 hold (gate był artefaktem, nie frykcją).
+
+**DECYZJA (właściwa):** ridować ruch Banku (może sam poluzuje/zerwie smycz) · pchać principal-refi jako szybszy pewny wykup · koordynować oba.

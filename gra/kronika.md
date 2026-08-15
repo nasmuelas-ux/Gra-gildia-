@@ -6729,3 +6729,12 @@ Ale łatwy plan („kosz + robota = załatwione") **nie wystarcza.** To głębsz
 
 ## 297-10-15 POŁUDNIE→POPOŁUDNIE — Zarobkowanie (rzut 56, solidna sesja)
 Po chudym wczoraj — porządny utarg. Lorren wyciągnął audyt od stałego klienta, Corliss domknął premium księgę, Symon wziął jedną sesję własną ręką. Nic spektakularnego, uczciwa tłusta robota; maszyna miele, Symon bankuje niewidzialnie. **+8 jel (118→126).** Firma bez potknięć, brand premium stoi. Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-15 POPOŁUDNIE — Księga cechu kołodziejów u Borena (rzut 25, cichy check-in)
+Symon wpadł pomóc Borenowi (cechmistrz kołodziejów, sojusznik) z księgą cechu. Niski rzut jak ostatnio: księgi w dobrym stanie — jego dawna robota trzyma — więc porządkujący, przyjacielski check-in, nie duża robota. **Bez fee** (nic istotnego do rozliczenia; uczciwie). Sezon sprzyja Borenowi: zimowy hauling = koła i wozy w cenie, cech kwitnie (Północ wozi zapasy do spichrzy).
+
+Dwa ciche plony, oba zaparkowane nie dobite (rzut 25):
+- **Seed synergii:** pojemność wozów cechu ↔ logistyka lądowa Symona (drewno Benneta, prowiant na zamek) — kołodzieje mają moce, Symon ma ładunki; kiedyś warte spięcia.
+- **Elna:** Symon cicho skoordynował z Borenem (cech ją chroni) — Boren potwierdził, że trzymają jej dach, ale sam zauważył, że niedomaga i trzyma się na uboczu (zgodne z diagnozą Miry). Boren będzie mieć oko, Mira dochodzić. Kanał opieki bez wystawiania Elny.
+
+Niezawodna obecność pogłębia sojusz: Boren nast 90 hold, zauf 40→41. Cech kołodziejów = lepki, wartościowy sojusznik (tarcza, żelazo, drewno, teraz i troska o Elnę).

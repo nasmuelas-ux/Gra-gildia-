@@ -6677,3 +6677,14 @@ Doktryna niewidzialności **nie upada — ewoluuje**: dotyczyła covert-ataku s�
 **Koszt świadomy** (Nesta ostrzy): imię Symona to jego najcenniejszy atut — klucz do drzwi Winterfell (nieskazitelność). Wiążąc je z braavijskim kredytem, wystawia się na smear („uczciwy pisarz lorda uwikłany w obcy dług") i na ranę, jeśli refi się poślizgnie. Zarządzalne, nie zerowe.
 
 **Realna mapa refi (kanon, nie reset):** pryncypał Nesty = realna droga, **gated na twardy dowód** (dossier celne); Żelazny Bank raz już odmówił (296-10, „za mali", drzwi uchylone) — dziś standing Symona podnosi wiarygodność kredytową; Belarno = żywy bufor. **Nesta zauf 60→62** (głębszy szacunek). NEXT: domknąć dossier celne + re-approach pryncypała, teraz gdy standing jest.
+
+## 297-10-14 POŁUDNIE — Re-approach pryncypała TERAZ (rzut 32, porażka proporcjonalna)
+Symon wybrał opcję 2: nie czekać na dossier, lecz uderzyć do pryncypała **od razu** — na standingu, zmienionym klimacie i własnym nazwisku na obligacji. Nesta, lojalna decyzji wspólnika, poniosła re-approach do **Belarna** (kapitan linii pryncypała, w porcie).
+
+**Belarno zagatował na nabrzeżu** — dokładnie tak, jak w maju (05-18: „nie poniósł w ciemno"). Sharp i chroniący własnego imienia, nie położy przed swoim pryncypałem pół-ręki:
+
+> „Twoje imię urosło, kapitanie — widzę to, i szanuję. Ucho lorda, żona z pozycją, czysta karta. Ale mój pryncypał to kupiec, nie przyjaciel robiący przysługi. Da srebro na *sprawę*, nie na reputację i pogodę — a już zwłaszcza, gdy ma wejść na dłużnika innego braavijskiego domu. Spyta mnie: *gdzie dowód?* I to moje imię będzie stało bez odpowiedzi. Przynieś domkniętą sprawę — a poniosę ją **mocno**."
+
+**Potwierdzone (na plus):** standing Symona faktycznie urósł i podniósł jego wiarygodność kredytową — warunek „urosnąć dość" jest w oczach kapitana spełniony. **Ale to nie zastępuje** drugiego warunku pryncypała: twardego dowodu ograniczającego ryzyko. Dossier celne okazuje się **prawdziwym kluczem** — nie opcjonalną papierologią, którą da się przeskoczyć samym nazwiskiem. To dokładnie opcja 1, która była fundamentem.
+
+**Lekcja (znajoma):** znowu **pyszny pęd** — sięgnięcie po wynik przed położeniem fundamentu. Ta sama struna, którą szarpnęli Mira, Owen i port przy głośnym szukaniu handlowca. Nesta łapie to łagodnie, bez urazy; Belarno biznesowo konsekwentny (nast 26 hold), drzwi pryncypała nietknięte i ciepłe. **Właściwy NEXT:** domknąć dossier celne (Deman + audyt Symona), potem re-approach z pełną ręką.

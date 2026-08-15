@@ -45,3 +45,11 @@ intel z jawnych danych --> [1] klient (retencja/wartosc) --> [2] sprzedaz (Arkus
 - **(a)** Info-produkt: Deman rusza z budowa Arkusza Portowego + kaskada (klient->sprzedaz->faktoria). Launch klienta/sprzedazy dojrzewa z track-recordem celnosci.
 - **(b)** Lorren: arkusz uslug+cen gotowy; pierwszy ruch = obchod OBECNYCH klientow po audyty/zlecenia; nowych powoli.
 - **(c)** Feedy danych Demana sformalizowane: przeplywy portu (Aurane) + uliczne oczy (Bran) + manifesty + ogolny wech Nesty -> jeden strumien do desku.
+
+## FAKTORIA — WLASNOSC I SCIEZKA UDZIALU (od 297-10-06, rozmowa Symon-Nesta)
+- **NESTA**: przechodzi z operatorki -> STRATEG/DORADCA + kapital + brama Braavos + mentor. Wita to (dzwigala sama, dumna z Symona). Zachowuje udzial + glos w wielkich decyzjach; oddaje wykonanie maszynie.
+- **UDZIAL SYMONA rosnie 3 sciezkami:**
+  1. **Kapital + reinwestycja plonu** — doklada kapital do rotacji + reinwestuje swoj plon zamiast brac gotowka -> equity sie sklada.
+  2. **Wartosc/infrastruktura** — firma daje intel (Deman) + ksiegi (Hal) + decyzje (Symon) = Symon jest SILNIKIEM wzrostu, nie mlodszym wspolnikiem -> udzial rosnie z wkladu.
+  3. **Sciezka odkupu** — w miare jak Nesta schodzi do doradztwa, zdefiniowana droga stopniowego odkupu czesci jej AKTYWNEGO udzialu (ona monetyzuje, on konsoliduje).
+- **NIEZASTEPOWALNE NESTY (zostaje jej na zawsze):** brama Braavos (korytarz = jej relacja/nazwisko/ludzie) + kapital + backer firewalla. Nie "Symon przejmuje wszystko" - Symon bierze wykonanie + rosnace equity; Nesta = filar kapitalowo-strategiczny + Braavos. Oboje wygrywaja.

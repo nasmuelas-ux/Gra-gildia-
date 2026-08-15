@@ -6746,3 +6746,8 @@ Trzy ciche plony, wszystkie na plus:
 - **Więź Faith-legal głębsza:** Torren (mierzony, uczony, ostrożny w zaufaniu) docenił rzecz rzadką po korupcji, na którą patrzył — wschodzący mieszczanin daje Wierze fach za darmo. nast 44→46, zauf 15→17.
 - **Prawo rośnie:** realna praktyka u prawnika (licznik 201→204; do poziomu 10 trzeba 250) — miejskie prawo własności, które przyda się jego własnemu rosnącemu majątkowi.
 - **Grounding w czynie:** dokładnie to, o czym mówił rano Owen — rosnący, który wciąż schyla się służyć. Faith-tie = jego tarcza (opieka Wiary/firewall) i fundament gwiazdy.
+
+## 297-10-15 WIECZÓR — Starania o dziecko (bez rzutu; tkliwy rdzeń małżeństwa)
+Wieczorem pierwszego dnia małżeństwa Symon przyszedł do Miry z najgłębszą nadzieją — dziecko, pusta izdebka na górze. Dla Miry to miejsce starej rany: urodziła Rovanowi syna, pochowała przed jego pierwszą zimą; potem dzieci nie przyszły; „nie młoda, poród ryzykowny". Wyznała wprost strach — bać się mieć nadzieję, którą najciężej stracić; że ciało już nie da; że będzie żoną, co „nie może dać tego jednego". Symon nie dał jej dokończyć: „nie ożeniłem się, żebyś mi coś dała; cokolwiek Bogowie zechcą, poniesiemy oboje, nigdy sama, jakeś była". Coś w niej puściło — łzy i uśmiech przez nie.
+
+Zaczęli starać się o dziecko — nie z rozpaczy, z miłości dwojga z niczego. **Nie rozstrzyga się jednej nocy** (ani tak, ani nie): to żywa nadzieja niesiona oboje, cierpliwie, w rękach czasu i Bogów; u Miry może być trudno/wolno/niepewnie. Pusta izdebka z żalu staje się wspólną nadzieją. Nowy wątek: dziecko_nadzieja_starania (prowadzić tkliwie, realistycznie, bez mechanicznego rzutu poczęcia). Partnerstwo najgłębsze do tej pory.

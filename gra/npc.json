@@ -2115,12 +2115,13 @@
    "id": "starszy_wystan",
    "imie": "Wystan",
    "zawod": "cechmistrz cechu pisarzy - rozsadny, kupiecki (nie zajadly jak Mennard); grosz wazy wiecej niz animozja",
-   "nastawienie_do_gracza": 35,
+   "nastawienie_do_gracza": 38,
    "zaufanie": 15,
-   "ostatni_kontakt": "297-07-16",
+   "ostatni_kontakt": "297-10-09",
    "wie_o_graczu": [
     "przez Owena: godny kupiec-faktor (wpisany, poza charterem pisarzy), woli cech KARMIC robota niz z nim wojowac - slucha ostroznie",
-    "Mennard szczeka na Symona; Wystan nie poda reki jawnie poki tak, ale interes go interesuje"
+    "Mennard szczeka na Symona; Wystan nie poda reki jawnie poki tak, ale interes go interesuje",
+    "297-10-09 (rzut 39): Symon sprawdzil kooperacje - potwierdzona/pogłębiona (firma odsyla robote notarialna->cech grosz+legitymacja, Symon przykrywka; Wystan ceni). Wystan uznaje ze standing Symona urosl (lord/pierscien/firma)=Harwin traci grunt. Pokoj wciaz miekki (nie ruszy Harwina bez wiekszosci). GEST: przestroga ze Harwin/Gunthor WCIAZ wesza pochodzenie Symona (trop origin zywy, ~10-17) - duszony pies gryzie mocniej. nast 35->38."
    ],
    "cechy_mowy": "rzeczowy, kupiecki, wazy slowa; mierzy interes nie honor"
   },
@@ -2162,8 +2163,8 @@
    "ostatni_kontakt": "297-09-30 - Symon podpierl go UCZCIWIE przed zeznaniem (nie ustawil): uspokoil (oslona realna, po ciosie strach sie konczy), przygotowal (mow prosto jak bylo), a zaliczke kazal ZASZCZEPIC prawda - 'powiedz o niej pierwszy sam: wzialem srebro bo grozili dzieciom i sie balem; prawda wyjeta z rekawa obrony nie ma ostrza'. Torwyn siadl na miejsce - nie odwaga Merreka, ale ulga ze nie musi klamac by byc bezpieczny; kruchy ale prawdziwy i przygotowany, wektor obrony (zaliczka) rozbrojony jego ustami. zauf 42->48."
   },
   {
-   "id": "wystan_holt",
-   "imie": "Wystan",
+   "id": "doran_holt",
+   "imie": "Doran",
    "przydomek": "Holt",
    "wiek": 47,
    "stan": "mieszczanin",
@@ -2179,7 +2180,8 @@
    "wie_o_graczu": [
     "297-10-05: WYPLYNAL jako prospekt na handlowca-twarz firmy Symona. Szanowany, dobry zasieg (kregi ponad gburem: wyzsi kupcy/domy zamiejskie/drobne rody), ale jego kanal szedl przez dom zwiazany z upadlym pierscieniem (handlowo) i teraz dryfuje - uczciwie dostepny, szuka bezpiecznej przystani. NIE poznany jeszcze bezposrednio; do VETu (taint?) i do zaprojektowania terms (chce glosu nie tylko udzialu).",
     "297-10-05 (Symon read rzut 67): spotkali sie osobiscie. Symon przeczytal: Wystan czysty od zbrodni (splot z upadlymi handlowy nie spiskowy, rachunek o sobie spina sie), zasieg realny (kregi ponad gburem), glod uczciwy (bez berthu, przestraszony, ceni solidny alignment=motywowany). RYZYKO: kupiec do szpiku, lojalnosc transakcyjna, mysli jak pryncypal - wpuszczony bedzie sterowal; gladkosc kontra cichy brand firmy. Wystan tez audytuje Symona (okret warty wejscia?). Werdykt: yes-ostroznie, terms musza go trzymac. nast 0->15 zauf 0->8.",
-    "297-10-05 WIECZOR: Symon go ODPRAWIL (grzecznie, nie palac) - ale Wystan, gladki i dumny, odczytal 'zwazony i odrzucony przez mlodego gbura', uraza; mruczy 'lorda rachmistrz sie panoszy'. nast 15->5. Kontakt wystudzony."
+    "297-10-05 WIECZOR: Symon go ODPRAWIL (grzecznie, nie palac) - ale Wystan, gladki i dumny, odczytal 'zwazony i odrzucony przez mlodego gbura', uraza; mruczy 'lorda rachmistrz sie panoszy'. nast 15->5. Kontakt wystudzony.",
+    "KOREKTA imienia 10-09: przemianowany z Wystan Holt na DORAN Holt (kolizja z cechmistrzem Wystanem cechu pisarzy)."
    ],
    "cechy_mowy": "gladki, kupiecki, duzo nazwisk i koneksji w zdaniu - siła i ryzyko naraz",
    "flaga": "ODPRAWIONY_URAZONY: duma zadraśnieta, mruczy w kregach kupieckich; kontakt wystudzony (nie wrog, ale zadraśniety)"

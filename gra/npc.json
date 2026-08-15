@@ -2227,6 +2227,21 @@
    "wie_o_graczu": [
     "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda)."
    ]
+  },
+  {
+   "id": "ser_bertram",
+   "imie": "ser Bertram",
+   "wiek": 52,
+   "stan": "rycerz",
+   "zawod": "stary gwardyjny rycerz dworu Manderlych; KANDYDAT na wakat kasztelana",
+   "nastawienie_do_gracza": -15,
+   "zaufanie": 0,
+   "ostatni_kontakt": "297-10-08",
+   "wie_o_graczu": [
+    "297-10-08: obecny na audiencji, gdy lord pytal Symona (gbura) o rade ws. prowiantu i kasztelanii. Niechec starego rycerza do parweniusza-faworyta lorda STWARDNIALA w konkretna wrogosc. Jesli zostanie kasztelanem = wrogi nadzorca nad zaopatrzeniem zamku (filary firmy)."
+   ],
+   "cechy_mowy": "chlodny, wynioslny, rycerska pogarda dla nisko urodzonych",
+   "flaga": "WROGOSC do Symona (gbur-faworyt); kandydat na kasztelana = potencjalny wrogi nadzorca castle-biznesu"
   }
  ],
  "orbita": [

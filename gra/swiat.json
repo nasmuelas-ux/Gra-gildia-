@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 15,
+  "dzien": 16,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 43,
- "dzien_tygodnia_nr": 3,
- "dzien_targowy": "targ rybny (dzien podzielny przez 3)",
- "nastroje_miasta": "297-10-15 POPOLUDNIE (wizyta u Aurane'a, rzut 6 - KOREKTA: pusta wizyta, bez winy Symona): Symon wszedl po ludzku bez lowienia (wlasciwy rejestr Aurane'a). rzut 6 = wizyta sie po prostu NIE ZAISKRZYLA - Aurane mial zajety/oschly wlasny dzien (jego sprawy), cieplo nie chwycilo, Symon przeczytal to i nie pchal. ZERO szkody, ZERO dorabianej komplikacji, istniejacy uklad (partner+retainer+sztauowanie) STOI, relacja HOLD (Aurane nast 76, zauf 33). Skromne/zadne plony - pusta wizyta sie zdarza. (Poprzednie framingi 'Symon z agenda' i 'crunch grozi pojemnosci' - oba zdjete jako niesluszne: intencja gracza byla czysta, a stan swiata niezalezny od jego mysli.) Reszta: refi na zegarze zimowym, Bank uderzyl 08-13, Wylis dowoz-przez-zime, Elna pod opieka Miry/Borena. Kasa 126, POPOLUDNIE 1. pelnego dnia malzenstwa.",
+ "pogoda": 35,
+ "dzien_tygodnia_nr": 4,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-10-16 RANEK (2. poranek malzenstwa; szaro, zimno, wilgotno, pogoda 35): INBOUND 90 - swiat puka mocno, zakotwiczone w sezonie. Godric (zarzadca zamku, 93/56) przyslal slowo: gleboka zima blizej, zamek SKALUJE prowiantowanie zimowe (spichrze pelna para) - Wylis (kasztelan-celnik nad zaopatrzeniem) chce rozmawiac o WOLUMENIE i pewnosci dostawy z operacja Symona. To WPROST sciezka Wylisa (dowoz pod jego okiem przez zime -> stala umowa dojrzewa): okazja UDOWODNIC dostawe na skali = paliwo do stalej umowy. Filary (Merek/Harlon podaz, Aurane sklad, off-take zamku) gotowe. Reszta w tle: refi na zegarze zimowym (Bank uderzyl 08-13); Elna pod cicha opieka Miry/Borena; starania o dziecko (nadzieja niesiona oboje). Kasa 126.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 15,
+ "dzien": 16,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

@@ -2367,6 +2367,21 @@
     "297-05-29 POPOLUDNIE (rzut 100, KRYTYK): proving-arc PRZESKOCZONY. Na PIERWSZY rzut oka Symon znalazl SYSTEMATYCZNY wyciek - dostawca konsekwentnie przebijal rachunki (nadplata na powtarzalnych pozycjach), realny grosz uciekal miesiacami. Nie do podwazenia. Harmen z podejrzliwego prospekta w mgnieniu = solidny klient (vouch Merka + niezaprzeczalny catch od reki). +9 jel. Poreczenie Merka SPEKTAKULARNIE potwierdzone -> Harmen sam bedzie polecal. CICHO (aggregate/firewall): jego fracht echem tego samego przebicia co siec Antaryona - Symon ZANOTOWAL, nie ruszyl. nast 0->28, zauf 0->11."
    ],
    "uwaga": "lead z polecenia Merka (05-28). Inbound - SWIAT zapukal. Do rozegrania: isc, sprawdzic sie."
+  },
+  {
+   "id": "kupiec_doryan",
+   "imie": "Doryan",
+   "przydomek": null,
+   "wiek": null,
+   "stan": "mieszczanin-kupiec",
+   "zawod": "kupiec suchym towarem/zapasami (Schody), sredni obrot",
+   "mieszka": "Schody",
+   "nastawienie_do_gracza": 58,
+   "zaufanie": 15,
+   "ostatni_kontakt": "297-10-20",
+   "wie_o_graczu": [
+    "297-10-20 (rzut 48): NOWY KLIENT przez cieply referral Lorrena (od zadowolonego klienta). Podejrzewal skim dostawcy - Symon wziął audyt+retainer, domknal czysto (+5 jel initial + ~3 jel/mies). Ceni dyskretnego rzetelnego reckonera lord-connected. Cicha, wlasciwa akwizycja (zaufany kanal, nie glosne lowy)."
+   ]
   }
  ]
 }

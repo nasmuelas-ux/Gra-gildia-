@@ -6838,3 +6838,8 @@ Symon wziął cichą robotę wewnętrzną (księgi, rekonsyliacja retainerów z 
 
 ## 297-10-20 RANEK→POŁUDNIE — Zarobkowanie (rzut 80, tłusto)
 Symon zjadł i wcisnął sesję — maszyna huczy: Corliss+Symon domknęli premium audyt, Lorren wyciągnął dobrą robotę od stałego klienta. Solidny utarg, kasa się odbudowuje po tygodniu inwestycji/mrozu. +12 jel (35→47). Pora RANEK→POŁUDNIE.
+
+## 297-10-20 POŁUDNIE→POPOŁUDNIE — Prospekty: nowy klient przez ciepły kanał (rzut 48)
+(Underwriting zimowy odpuszczony przed rozegraniem — dostępny na później.) Symon poszedł w prospekty właściwą drogą: cicho, przez ciepłe wprowadzenia. Lorren (agent — jego funkcja) wyciągnął **ciepły referral** od zadowolonego klienta → nowy szanowany klient, **kupiec Doryan** (suchy towar/zapasy, Schody), z realną dyskretną potrzebą forensyczną (podejrzewa skim dostawcy — rdzenna nisza Symona). Garrick lekko zvettował, Symon domknął czysto.
+
+**Nowy durable klient + retainer:** +5 jel initial (kasa 47→52) + ~3 jel/mies retainer. Cicha firma rośnie **właściwie** — przez zaufany kanał, nie głośne łowy (lekcja Wystana zastosowana), maszyna działa (Lorren robi swoje), brand premium głębszy. Pora POŁUDNIE→POPOŁUDNIE.

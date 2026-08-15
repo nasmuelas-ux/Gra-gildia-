@@ -6846,3 +6846,6 @@ Symon zjadł i wcisnął sesję — maszyna huczy: Corliss+Symon domknęli premi
 
 ## 297-10-20 WIECZÓR — Rozmowa o przeprowadzce + domknięcie dnia
 Symon spytał Mirę, czy myślała o przeniesieniu centrum z Białego Portu. Mira — zakorzeniona (dom obroniony sama, 10 lat handlu), ale jako równy strateg — ułożyła trzeźwą mapę: gwiazda Symona (człowiek rady Starków) biegnie PRZEZ Północ (Manderly→Winterfell); wyprowadzka = porzucenie drabiny, tarczy Wiary, ucha lorda, a w Braavos byliby nikim (25k→400k). **Wniosek: nie przenosić serca** — serce na Północy, firma wyciąga macki za morze (korytarz/węzeł Braavos/import) bez wyrywania korzeni; Braavos „na serio" = rezerwa, gdyby Północ kiedyś zamknęła drzwi. Głęboka narada strategiczna, partnerstwo mocne. Spać. → 297-10-21 RANEK.
+
+## 297-10-21 RANEK→POŁUDNIE — Prospekty + zarobek (rzut 10, cichy dzień)
+Symon zjadł i zrobił podwójną sesję (cicha budowa prospektów przez ciepłe kanały + zwykły zarobek). Chudo: Lorren pracował kanały, ale nic dziś nie dojrzało (cicha akwizycja jest cierpliwa — bywają puste dni), robota zmieliła leniwie. +3 jel (52→55). Bez szkody — pipeline ciepły, maszyna zdrowa, po prostu spokojny dzień. Pora RANEK→POŁUDNIE.

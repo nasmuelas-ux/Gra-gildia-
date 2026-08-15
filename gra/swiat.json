@@ -5,12 +5,12 @@
   "dzien": 17,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 100,
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-17 POLUDNIE (ruszony prowiant przez okno pogodowe, rzut 28 = solidna dostawa z kosztem): skalowany wolumen DOSZEDL na zamek pod okiem Wylisa (proof-of-delivery zaiscial, modestly+). FRICTION realny (Bran zapowiadal): piekny dzien=cala Polnoc rusza zapasy naraz -> WOZY na wage zlota (peak demand), trakty/brama zatloczone; Symon skrobal o haulage+premium, push solidny nie showcase. Margin ~pokryl premium (net neutral dzis; realny zysk=skalowany strumien zimowy pillara plynie na wiekszym wolumenie). LEKCJA/HOOK: waskie gardlo=wozy w szczycie -> warto ZARYGLOWAC pojemnosc Borena formalnie (parked synergia). Wylis nast 20 hold (proof stalej umowy tyka), rep zamek 24. Reszta: refi zegar zimowy, relief napelniony, dziecko-nadzieja. Kasa 111.",
+ "nastroje_miasta": "297-10-17 POPOLUDNIE (zaryglowany haul z Borenem, rzut 52 solidny): STANDING HAUL zawarty - priorytet wozow cechu Borena pod prowiant Symona (uczciwe stawki, retainer ~6 jel/mies); Boren dostaje pewny staly dochod dla kolodziejow caly sezon + sojusz. WASKIE GARDLO ROZWIAZANE: lancuch logistyczny KOMPLETNY end-to-end (podaz Merek/Harlon -> sklad Aurane -> HAUL Boren zaryglowany -> zamek) = pewna dostawa na skali, wzmacnia case stalej umowy Wylisa. Symon buduje maszyne (skrobanie->trwala infrastruktura). Boren nast 90 zauf 41->43. Koszt ~6 jel setup (kasa 111->105) + ~6 jel/mies. Reszta: Wylis wolumen (stala umowa 1 czysta zima), refi zegar zimowy, relief napelniony, dziecko-nadzieja. Kasa 105.",
  "ceny": {
   "chleb": {
    "baza": 3,

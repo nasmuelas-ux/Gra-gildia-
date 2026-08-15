@@ -86,3 +86,10 @@ DWA OSOBNE PRZEDSIEBIORSTWA z udzialami w obie strony:
 - Symon w firmie Nesty: ~47% equity + ~82% plonu rotacji + 6 jel/mies draw.
 - Nesta w firmie Symona: 1/3 (cichy backer) -> 1/3 zysku netto.
 - BRAMA BRAAVOS + DLUG 90 smokow = poza tym, swiat Nesty (nie udzial Symona).
+
+## NATURA DLUGU ANTARYONA I EKSPOZYCJA SYMONA (locked 297-10-06)
+- **NIE osobisto-konsumpcyjny** - to dlug BIZNESOWY/STRUKTURALNY faktorii Nesty. Cytat z kroniki (d20): "outright splata ~90 smokow = niemozliwa/samobojcza - faktor obraca CUDZYM kapitalem; wyzerowanie = smierc faktorii".
+- Faktor operuje pozyczonym/cudzym kapitalem. Antaryonowie = WIERZYCIEL, ktorego pieniadz/kredyt PODPIERA operacje. Dlug to nie rachunek do splaty lecz KAPITAL OBROTOWY/DZWIGNIA wbudowana w biznes -> "nie da sie po prostu splacic" (wyzerowanie=zabicie faktorii). Wylacznosc Nesty wobec Antaryonow = czesciowo obrona atutu przed wierzycielem (smycz w obie strony).
+- **CZYJA ODPOWIEDZIALNOSC:** dlug jest NESTY (jej obligacja, na jej nazwisko, po JEJ stronie faktorii = jej ~53%/rdzen/relacja z Antaryonami). NIE jest dlugiem: firmy Symona, wspolnych przedsiewziec, ani osobistym Symona. Kapital Symona w rotacji (~450 jel) i jego ~47% equity = jego, NIEOBCIAZONE tym dlugiem.
+- **EKSPOZYCJA POSREDNIA SYMONA:** dlug wisi nad faktoria, ktorej Symon ma 47%. Gdyby Antaryonowie ja przejeli (hak dlugu), padlby caly byt - lacznie z udzialem Symona i korytarzem. DLATEGO pomoc w refi to nie tylko szlachetnosc, lecz OBRONA WARTOSCI 47% Symona. Interes zbiezny.
+- SKROT: dlug personalny w sensie "czyja obligacja" (Nesty), ale biznesowy w naturze (kapital faktorii nie konsumpcja); nie siedzi na udziale Symona, lecz wisi nad wspolnym bytem.

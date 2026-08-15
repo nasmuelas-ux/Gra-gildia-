@@ -5,12 +5,12 @@
   "dzien": 18,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 16,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": "targ rybny (polow chudy, port przymarza)",
- "nastroje_miasta": "297-10-18 POPOLUDNIE (odbudowa bufora frost-proof, rzut 56 solidny): bufor ODBUDOWANY do solidnego poziomu mimo mrozu. KLUCZ: relacje sie oplacily - Merek/Harlon priorytetowali Symona stockiem w scarce markecie (lojalnosc wobec rzetelnego lord-connected kupca), haul Borena dowiozl, sklad Aurane przyjal. Zaplacil zimowy premium (~20 jel, kasa 62->42). VULNERABILITY ZAMKNIETA: maszyna znow robustna na zime, reliability Wylisa utrzymywalna (proof stalej umowy trzyma). Temat: relacje=edge, oplacaja sie w pinchu. Reszta: Wylis nast 21 (dostawa w mrozie=sukces w jego oczach), refi zegar zimowy, korytarz throttled (welny=next), relief napelniony, dziecko-nadzieja. Kasa 42.",
+ "nastroje_miasta": "297-10-18 WIECZOR (dywersyfikacja zrodel, rzut 87 mocny sukces): przez Leone+siec Miry pozyskane mimo zimy: NOWY WEZEL PROWIANTU near-North (niezalezny od zamarznietego szlaku glebokiej Polnocy) + WELNA polnocna (odtyka korytarz OBOK Braavos, B synergia) + ALT TRASY (redundancja - zaden pojedynczy zamarzniety szlak nie zerwie dostawy). STRUCTURAL WIN: prowiant multi-sourced+multi-route (frost vulnerability mocno de-risked), korytarz z polnocna noga (mniej Braavos-hostage), PIERWSZE PIETRO C (polnocna glebia) polozone. Wzmacnia case Wylisa. Gleboka Polnoc (Halvard) dalej frozen-out (zima) ale near-North wystarcza. Leona zauf +1. Koszt ~5 jel (kasa 42->37). Reszta: bufor odbudowany, Wylis nast 21 (dostawa w mrozie), refi zegar zimowy, relief napelniony, dziecko-nadzieja. Kasa 37.",
  "ceny": {
   "chleb": {
    "baza": 3,

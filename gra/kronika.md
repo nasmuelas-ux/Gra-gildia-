@@ -6812,3 +6812,13 @@ Ironia dnia: **Wylis widzi sukces** — rzetelna dostawa w mrozie, co zatrzymał
 Symon ruszył pilnie odbudować spalony bufor, póki mróz nie zamknął wszystkiego — i mimo scarce marketu (mróz dławi podaż, wszyscy walczą o zimowy towar) **odbudował go do solidnego poziomu**. Klucz: jego relacje zapłaciły w pinchu. Merek i Harlon — ciepłe filary podaży — **priorytetowali go** stockiem, gdy innym odmawiali (lojalność wobec rzetelnego, uczciwego, lord-connected kupca); haul Borena dowiózł, gdy inni skrobali, skład Aurane'a przyjął rezerwę. Zapłacił zimowy premium (~20 jel, kasa 62→42), ale **zabezpieczył się**.
 
 **Vulnerability z rzutu 7 zamknięta:** maszyna znów robustna na zimę, niezawodność pod okiem Wylisa utrzymywalna (proof stałej umowy trzyma). Temat dnia: **relacje to edge** — budowane latami uczciwie, opłacają się dokładnie wtedy, gdy rynek się zaciska i inni zostają z pustymi rękami. Merek zauf +1. Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-18 POPOŁUDNIE→WIECZÓR — Dywersyfikacja północna (rzut 87, mocny strukturalny win)
+Ruszyliście torem A (z B na tym samym wozie): przez Leonę i sieć Miry Symon pozyskał — mimo zimy — realną głębię północną:
+- **Nowy węzeł prowiantu near-North** (zboże/sól z bliższego źródła, NIE zależny od zamarzniętego szlaku głębokiej Północy — dokładnie dziura, co dziś rano omal nie zerwała dostawy).
+- **Wełna północna/lokalna** → odtyka korytarz sukna OBOK Braavos (synergia B — ten sam kanał służy prowiantowi i suknu naraz).
+- **Alternatywne trasy** zmapowane (lokalne trakty + elastyczność zaryglowanego haulu Borena) = redundancja, żaden pojedynczy zamarznięty szlak nie zerwie już dostawy.
+
+**Strukturalny win:** prowiant teraz **multi-sourced + multi-route** (frost-vulnerability mocno de-risked), korytarz z północną nogą (mniej hostage wobec Braavos), i to jest **pierwsze piętro C** — północna głębia, która z czasem uwolni firmę od zależności od pogody na Wąskim Morzu (dokładnie, o czym mówiła Nesta). Wzmacnia też case Wylisa (multi-source = jeszcze robustniejsza dostawa = mocniejszy proof stałej umowy).
+
+Głęboka Północ (Halvard) dalej frozen-out — realnie, zima trzyma rzekę skutą — ale near-North to dokładnie to, czego było trzeba. Leona brokerowała: jej dojścia okazały się kluczem, więź rośnie (zauf +1). Koszt ~5 jel (kasa 42→37). Dojrzały strateg nagrodzony — proaktywne de-ryzykowanie zwróciło się z nawiązką. Pora POPOŁUDNIE→WIECZÓR.

@@ -62,3 +62,27 @@ WAZNE dla rozumienia udzialu Symona - sa TRZY rozne skale, udzial Symona siedzi 
 => "Symon ~47% faktorii" = 47% MALEGO wspolnego mlyna zboze-sol, NIE 47% swiata Nesty (agencja + dlug = jej, rzedy wielkosci wiecej).
 
 DLUG - DÉTENTE (od 297-10-06, po upadku pierscienia): Antaryonowie odpuscili nacisk (klimat anty-fraud lorda + karta celna Symona zyskala oslone przez ucho lorda + plynnosc Antaryona). Duze odsetki ZDJETE, rata uczciwa, przejecie OFF. Dlug ~90 smokow NADAL istnieje - detente nie refi. ENDGAME (scięcie: karta celna + refi do Banku/pryncypala) teraz realniejszy, bo oslona (ucho lorda) wreszcie istnieje. Firewall dalej wazny.
+
+## WZAJEMNE UDZIALY — ZESTAWIENIE KANONICZNE (locked 297-10-06)
+DWA OSOBNE PRZEDSIEBIORSTWA z udzialami w obie strony:
+
+### (1) FIRMA FAKTORSKA (firma SYMONA - uslugi: biurko/audyty/analityka/agent/info-produkt)
+- SYMON: 2/3 (~67%) + KONTROLA + publiczna twarz.
+- NESTA: 1/3 (~33%) - cichy backer (kapital-zaplecze, charter, mentorstwo; imienia brak na rejestrze).
+- Przychod Nesty stad: 1/3 zysku netto firmy (w tym 1/3 z marz transakcyjnych kantoru).
+- Przychod Symona stad: 2/3 zysku netto - retainery (18 jel/mies brutto, udzial Symona ~7 jel/mies netto) + audyty + cichy klient; info-produkt dojrzewa.
+
+### (2) FAKTORIA / KANTOR NESTY (zboze-sol + agencja pryncypala + korytarz)
+- NESTA: ~53% + BRAMA BRAAVOS (osobno, jej, niezastapiona) + kontrola strategiczna.
+- SYMON: ~47% (po +150 jel dnia 10-06; wczesniej 40%).
+- Kapital obrotowy rotacji 550 jel: Symon ~450 (82%) / Nesta ~100 (18%).
+- Przychod Symona z faktorii - 3 strumienie:
+  1. PLON ROTACJI: ~82% plonu (proporcjonalnie do kapitalu). Plon ~15-25 jel/cykl -> ~12-20 jel/cykl dla Symona, czesciej po dzwigni 1.
+  2. BAZA WSPOLNIKA: ~6 jel/mies (stala).
+  3. ZYSK STRUKTURALNY (prowizja agencji/korytarz): udzial Symona ~47%.
+- DLACZEGO 82% kapitalu ale 47% wlasnosci: wartosc faktorii to nie 550 jel gotowki, lecz brama Braavos + relacje agencyjne + kantor (swiat Nesty). Symon finansuje 82% malego mlyna obrotowego = 47% calego przedsiebiorstwa (rdzen Braavos jest jej).
+
+### PODSUMOWANIE
+- Symon w firmie Nesty: ~47% equity + ~82% plonu rotacji + 6 jel/mies draw.
+- Nesta w firmie Symona: 1/3 (cichy backer) -> 1/3 zysku netto.
+- BRAMA BRAAVOS + DLUG 90 smokow = poza tym, swiat Nesty (nie udzial Symona).

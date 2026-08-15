@@ -6771,3 +6771,8 @@ Za sygnałem Brana Symon uprzedził mróz — zajął się reliefem, nim głębo
 **Wynik (rzut 59):** relief **dobrze zaopatrzony** na nadchodzący twardy odcinek zimy. Biedni pokryci, gdy mróz gryzie; rejestry obsłużone; sieć huczy. **Elna pokryta w reliefie** dyskretnie — ciepło i żywność przez sieć, godność zachowana (nie wystawiona jako „przypadek"). Solidnie, choć nie na całą zimę — długa zima poprosi o kolejny top-up (realnie).
 
 To dokładnie grounding, o którym mówił rano Owen: rosnący, który wciąż schyla się służyć. Standing obywatelski Symona rośnie **pod mantią Wiary** (niewidzialnie — bez optyki „gbur sięga ponad stan"), a imię i tak niesie się ciepło na kejach (jak meldował Bran). Owen zauf +1, Bran zauf →57, więź z Mirą (dyryguje) głęboka. Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-16 POPOŁUDNIE — U Aldousa: pytanie o rodzinę (bez rzutu, ciepła więź)
+Symon wpadł do Aldousa (kupiec winny, świadek ślubu) i zamiast o interes spytał o rodzinę — wzruszył starego, bo rzadko kto pyta o *niego*. Aldous otworzył się z dumą (ustalona rodzina, kanon): żona **Marra** (30 lat małżeństwa, trzyma dom), syn **Willem** (uczy się handlu winem, nos do wina, przyszły dziedzic fachu), córka **Jonelle** (za bednarzem spod Schodów), wnuk **Tobas** (~3 lata, oczko w głowie).
+
+Głębia: przy dawnym ataku dłużnym Aldous trząsł się nie o siebie, lecz o NICH — że Marra straci dach, Willem fach, Tobas wychowa się w nędzy. To źródło jego mądrości spod ślubu („trzymaj mocniej to, do czego wracasz, niż to, po co się wspinasz"). Symon — świeżo żonaty, od wczoraj z nadzieją o dziecko — zrozumiał go głębiej; więź pogłębiona. Autentyczne ludzkie zainteresowanie = jego znak firmowy (jak przy Leonie, Serli). nast 94 hold, zauf 53→55. POPOŁUDNIE.

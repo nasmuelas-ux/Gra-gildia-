@@ -1524,8 +1524,8 @@
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
    "nastawienie_do_gracza": 94,
-   "zaufanie": 53,
-   "ostatni_kontakt": "297-10-09",
+   "zaufanie": 55,
+   "ostatni_kontakt": "297-10-16 POPOLUDNIE",
    "wie_o_graczu": [
     "audytor, ktory obnazyl, ze dostawca z sieci Antaryona go skubie — uratowal mu grosz",
     "cichy sojusznik; CEGLA 1 bloku anty-Antaryon; wdzieczny",
@@ -1547,7 +1547,8 @@
     "297-06-10 (rzut 56): cieply, restauracyjny kubek - Symon przyszedl jak przyjaciel po kilku dniach intensywnego dawania (Elna/Wick/Hal). Firewall UTRZYMANY (wino sie lalo, Antaryon zapieczetowany). Symon ostroznie odciazyl sie (Wick - chlopcu dane cale nowe zycie). Aldous przeczytal nastroj i dal madrosc przyjaciela: zauwazyl, ze Symon LEJE w kazdego - i spytal cicho \"a kto leje w CIEBIE?\". Mira: patrzcie madrze, rzeczy rosna jak chca, cierpliwosc. Symon wyszedl lzejszy, dolany przyjaznia. nast 83->84.",
     "297-06-20 (rzut 36): cieply kubek po humbling dniu Symona, ale wieczor ZWYCZAJNY - Aldous bardziej w kubkach niz w madrosci, gleboka rozmowa sie nie zapalila. Symon podzielil sie ostroznie lekcja (liczydlo zranilo czlowieka bo nie widzi za cyfra). Aldous przyzwoite grounding: \"kazde narzedzie ma tepy koniec, znalazles swoj - to mapa nie kleska\", ale bez zwyklego blysku. FIREWALL HELD ale z WYSILKIEM (wino + pokorny/zmeczony nastroj kusily wygadac wiecej - Symon zlapal sie w pol zdania). Ukojony, nie odmieniony. Wiez ciepla.",
     "297-07-10: ocalony przez blok (dlug wykupiony) ale NAZNACZONY - swiadom ze wrog wie ze to on byl przykladem co sie wywinal; roztrzesiony, kruche nerwy, boi sie odwetu",
-    "297-10-09 WIECZOR: Symon wpadl przed snem, 4 dni przed slubem. Aldous (swiadek) wzruszony (pamieta go z rogu przy Bramie Foki), dal glebsza madrosc: trzymaj mocniej to do czego wracasz (Mira, dol) niz ksiegi i ucho lorda - interes odbudujesz, tego drugi raz nie znajdziesz; nie badz glupcem co ma wszystko i gubi jedyne co sie liczy. Toast za Mire. Firewall held. Wiez ciepla."
+    "297-10-09 WIECZOR: Symon wpadl przed snem, 4 dni przed slubem. Aldous (swiadek) wzruszony (pamieta go z rogu przy Bramie Foki), dal glebsza madrosc: trzymaj mocniej to do czego wracasz (Mira, dol) niz ksiegi i ucho lorda - interes odbudujesz, tego drugi raz nie znajdziesz; nie badz glupcem co ma wszystko i gubi jedyne co sie liczy. Toast za Mire. Firewall held. Wiez ciepla.",
+    "297-10-16 POPOLUDNIE (bez rzutu, ciepla ludzka wizyta): Symon zamiast o interes spytal Aldousa O RODZINE - wzruszyl starego (rzadko kto pyta o NIEGO). Aldous otworzyl sie z duma: zona Marra (30 lat), syn Willem (uczen fachu/dziedzic), corka Jonelle (za bednarzem), wnuk TOBAS (~3l, oczko w glowie). GLEBIA: przy ataku dlugowym trzasl sie nie o siebie lecz o NICH (Marra bez dachu, Willem bez fachu, Tobas w nedzy) - to zrodlo jego madrosci 'trzymaj mocniej to do czego wracasz niz to po co sie wspinasz'. Symon (swiezo zonaty, nadzieja o dziecko) zrozumial go glebiej, wiez pogłebiona. Autentycznosc=edge Symona. nast 94 hold, zauf 53->55."
    ],
    "nota": "07-29 ZAMKNIETE POZYTYWNIE: Symon dostarczyl czyste braawijskie zrodlo wina (Nesta) - Aldous zawrocony calkiem z antaryonskiego dostawcy, wdzieczny podwojnie, wczorajsza dziwnosc zniknela ('trzymaj sie z dala' -> nazajutrz lepsze wino taniej). Fragment (Symon w cichym sporze z moznymi) siedzi wygodnie/lojalnie ('oslania mnie, ja jego'). Firewall szczelny, przyjazn mocniejsza. 94/47.",
    "historia": [
@@ -1557,7 +1558,8 @@
     "m12d05 rzut56: Symon zaproponowal usluge zarzadcza. Aldous - bez kupieckiej ostroznosci, totalne zaufanie do przyjaciela - otwiera ksiegi CHETNIE; narzedzie rezonuje z jego swieza przygoda (utknieta plynnosc): 'gdybym mial zobowiazania na jednej karcie, widzialbym ten kryzys z winem'. Symon ustawia mu cash-flow/kalendarz/wiekowanie - realnie pomaga zdrowiejacemu interesowi. 2. klient, cieply testimonial. Fee modest +3 jel (mniejszy kupiec). Nast 40->43.",
     "297-02-25 (rzut 70): cieply reconnect po ~25 dniach - Symon przyszedl po ludzku, po oddech od polityki (to jego \"recharge\" przyjaciel). Aldous ZNOWU SOBA (inaczej niz dolek z 11-13): mostek plynnosciowy (pozyczka pod zamrozone wino przez kantor Nesty) dal mu powietrze - nie panikuje, wino czeka na odwilz (aldous_wino_dojdzie), marza zachowana. Wdzieczny Symonowi. Cieply, ludzki kwadrans przy kielichu, przyjazn odbita w gore. nast 55->59, zauf 14->15."
    ],
-   "potrzeby": []
+   "potrzeby": [],
+   "rodzina": "zona MARRA (30 lat malzenstwa, trzyma dom); syn WILLEM (uczy sie handlu winem przy nim, nos do wina, przyszly dziedzic fachu); corka JONELLE (wydana za bednarza spod Schodow); wnuk TOBAS (~3 lata, oczko w glowie Aldousa). USTALONE 297-10-16."
   },
   {
    "id": "kupiec_denys",

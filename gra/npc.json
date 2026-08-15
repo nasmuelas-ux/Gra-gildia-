@@ -2253,6 +2253,21 @@
    ],
    "cechy_mowy": "chlodny, wynioslny, rycerska pogarda dla nisko urodzonych",
    "flaga": "WROG HONOROWY (duma klasowa nie spisek) + OGRANICZONY (zolnierz nie zarzadca). Kandydatura niepewna (Wylis numerata lepszy na stewarda). Broc: nienaganna uzytecznosc, nie intryga; jego duty/honor + potrzeba lorda graja za Symonem."
+  },
+  {
+   "id": "corliss_rachmistrz",
+   "imie": "Corliss",
+   "wiek": 34,
+   "stan": "mieszczanin",
+   "zawod": "doswiadczony rachmistrz/klerk - backstop desku Hala (linia premium audyt)",
+   "nastawienie_do_gracza": 15,
+   "zaufanie": 10,
+   "ostatni_kontakt": "297-10-10",
+   "wie_o_graczu": [
+    "297-10-10: zatrudniony gdy premium-audyt nasycil desk (2. doswiadczony klerk, per narada 10-06). Vetted przez zaufany kanal (NIE tainted posztormowa pula - lekcja planta). Backstop Hala, podnosi sufit wydolnosci."
+   ],
+   "cechy_mowy": "rzeczowy, dokladny",
+   "flaga": "STAFF: doswiadczony rachmistrz, backstop Hala, linia premium; vetted czysto"
   }
  ],
  "orbita": [

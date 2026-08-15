@@ -5,12 +5,12 @@
   "dzien": 18,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 16,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": "targ rybny (polow chudy, port przymarza)",
- "nastroje_miasta": "297-10-18 RANEK (twardy powrot mrozu: pogoda 16 - siny, przenikliwy dzien, port przymarza; dar jasnej pogody minal): Mroz WALIDUJE wczorajszy pospiech (dobrze, ze ruszyliscie prowiant w oknie); teraz trakty twardą, ale HAUL BORENA ZARYGLOWANY = Symon kryty gdy inni skrobia. Zimowe lody trzymaja braavijska flotylle/listy zamkniete (korytarz sukna + refi dalej throttled - stad hook lokalne welny). Biedni marzna - relief napelniony wczoraj DZIALA (Elna+ubodzy pokryci); jak mroz potrwa, przyjdzie top-up. Inbound cisza (25). Reszta: Wylis wolumen (stala umowa: 1 czysta zima dowozu - a mroz to test), rep zamek 24, dziecko-nadzieja z Mira. Kasa 70.",
+ "nastroje_miasta": "297-10-18 POLUDNIE (zabezpieczanie dostawy w mrozie, rzut 7 = porazka z komplikacja ale prep uratowal): gleboki mroz (16) uderzyl mocniej niz bufor zakladal - trakt zamarzl/jedno zrodlo zasypane w gorze, grozila luka dostawy. Symon (przyszedl z wyprzedzeniem) zlapal w pore i URATOWAL: wypuscil rezerwe bufora Aurane, przekierowal zaryglowanym haulem Borena, dociagnal z 2. zrodla. DOSTAWA UTRZYMANA (zamek dostal, reliability pod okiem Wylisa zachowana - z jego strony to SUKCES, nast 20->21). KOSZT: bufor frost-proof WYPALONY/cienki + ~8 jel scramble (kasa 70->62); bylo blisko. Maszyna zdala pod maks stresem ale napieta. HOOK/vulnerability: ODBUDOWAC bufor (edge teraz cienki); jak mroz potrwa Symon odsloniety az odbuduje. Reszta: refi zegar zimowy, korytarz throttled (welny=next), relief napelniony, dziecko-nadzieja. Kasa 62.",
  "ceny": {
   "chleb": {
    "baza": 3,

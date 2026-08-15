@@ -6798,3 +6798,12 @@ Wybraliście A — skalować wspólny korytarz sukna (grube ciepłe na zimę, 50
 Ale rzut niski, i z prawdziwego, nie dorobionego powodu: **te same zimowe lody, co duszą listy do Braavos (refi), duszą braavijską flotyllę sukna.** Podaż grubego sukna przez korytarz jest teraz cienka/opóźniona, więc zamiast wielkiego zimowego runu wyszedł **modest run** — 40 jel siedzi jako working capital korytarza (aktywo, nie strata), skromny zwrot nad zimą.
 
 **Lekcja/hook (rozwiązanie):** żeby realnie skalować sukno zimą, trzeba **dywersyfikować źródła** — lokalne/północne wełny przez Leonę — bo Braavos zimą się zatyka. Mira jako równy strateg (bez gruntowania — po prostu współpraca): rzeczowo o pinchu podaży i wprost o lokalnych wełnach. Partnerstwo ciepłe. Kasa 70. Pora WIECZÓR.
+
+## 297-10-18 RANEK→POŁUDNIE — Zabezpieczanie dostawy w mrozie (rzut 7, uratowane skórą prepu)
+Symon poszedł proaktywnie zabezpieczyć dostawę w mrozie — i dobrze, bo mróz (pogoda 16) uderzył twardziej, niż zakładał bufor: trakt zamarzł, jedno źródło zasypane w górze kraju, groziła **luka dostawy do zamku** akurat gdy mróz podbił potrzebę. Rzut daleko poniżej — komplikacja realna.
+
+**Ale prep uratował, nie został zanegowany.** Bo przyszedł z wyprzedzeniem, Symon złapał to w porę i wyciągnął dokładnie to, co zbudował na taki dzień: wypuścił **rezerwę bufora** ze składów Aurane'a (to jej funkcja), przekierował **zaryglowanym haulem Borena** (był gotowy, gdy inni skrobali), dociągnął z drugiego źródła. **Dostawa utrzymana** — zamek dostał swoje, niezawodność pod okiem Wylisa zachowana.
+
+Ironia dnia: **Wylis widzi sukces** — rzetelna dostawa w mrozie, co zatrzymał innych, dokładnie dowód, jakiego chce (nast 20→21) — a Symon wie, **jak blisko było** i co go to kosztowało. Bufor frost-proof **wypalony/cienki**, ~8 jel awaryjnego scramble'u (kasa 70→62). Maszyna zdała pod maksymalnym stresem, ale jest napięta.
+
+**Hook/vulnerability:** pilnie **odbudować bufor** — jego edge jest teraz cienki; jeśli mróz potrwa, Symon jest odsłonięty, aż odbuduje rezerwę. Zima testuje maszynę do granic. Pora RANEK→POŁUDNIE.

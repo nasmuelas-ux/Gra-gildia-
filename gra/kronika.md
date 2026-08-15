@@ -6764,3 +6764,10 @@ Po śniadaniu (sytość 40→58) Symon siadł z Nestą i firmą zbudować ofert�
 - FIREWALL: czysto/weryfikowalnie po stronie prowiantu; zaplecze Braavos/Antaryon ani słowa (Wylis ciekaw zaplecza — nie karmić).
 
 Symon idzie do zamku uzbrojony w liczby. Pora RANEK.
+
+## 297-10-16 POŁUDNIE→POPOŁUDNIE — Relief na zimę: resupply (rzut 59, solidnie)
+Za sygnałem Brana Symon uprzedził mróz — zajął się reliefem, nim głęboka zima przyciśnie. Uruchomił sprawdzoną maszynę: mantia Wiary (Owen administruje), Mira dyryguje, Bran dowozi na ziemi, warstwa uczciwej podaży — dołożył ~15 jel (opał + żywność, kasa 126→111), zmobilizował sieć darczyńców i wsparł się ziarnem z earmarku lorda.
+
+**Wynik (rzut 59):** relief **dobrze zaopatrzony** na nadchodzący twardy odcinek zimy. Biedni pokryci, gdy mróz gryzie; rejestry obsłużone; sieć huczy. **Elna pokryta w reliefie** dyskretnie — ciepło i żywność przez sieć, godność zachowana (nie wystawiona jako „przypadek"). Solidnie, choć nie na całą zimę — długa zima poprosi o kolejny top-up (realnie).
+
+To dokładnie grounding, o którym mówił rano Owen: rosnący, który wciąż schyla się służyć. Standing obywatelski Symona rośnie **pod mantią Wiary** (niewidzialnie — bez optyki „gbur sięga ponad stan"), a imię i tak niesie się ciepło na kejach (jak meldował Bran). Owen zauf +1, Bran zauf →57, więź z Mirą (dyryguje) głęboka. Pora POŁUDNIE→POPOŁUDNIE.

@@ -144,7 +144,7 @@
     "ze go ominie lepsza fucha"
    ],
    "nastawienie_do_gracza": 97,
-   "zaufanie": 56,
+   "zaufanie": 57,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
     "czyta mu listy od brata z Siostr",
@@ -184,7 +184,7 @@
     "297-10-06: Symon podniosl mu pensje 4->8 jel/mies wraz z nazwaniem roli senior-zarzadcy - place jak na czlowieka, ktory spina pol jego spraw. Lojalnosc gleboka."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-10-06",
+   "ostatni_kontakt": "297-10-16",
    "cechy_mowy": "prosto, serdecznie, gwara portowa; smieje sie duzo",
    "historia": [
     "m11d16: Symon doglada podopiecznego. Bran SPRAWDZA sie na probie — rzetelny, lojalny, wdzieczny za szanse, jeszcze zielony ale rosnie. Osobista stawka: chce zrobic dobre wrazenie, bo mysli o przyszlosci z Alys (narzeczona, sluzy w karczmie) — probe traktuje jak droge do slubu/stabilizacji. Symonowa inwestycja placi lojalnoscia. Nast 41->43.",
@@ -495,7 +495,7 @@
     "herezje z Wolnych Miast w porcie"
    ],
    "nastawienie_do_gracza": 94,
-   "zaufanie": 56,
+   "zaufanie": 57,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
     "dobra, pewna reka do pisma",
@@ -590,10 +590,11 @@
     "297-10-03 (rzut 73): w zabojczym mrozie Symon przyszedl UPRZEDZIC wyczerpanie rezerwy reliefu (nie po kryzysie - przed). Przez Owena/Wiare cicha prosba do lorda o rozszerzenie earmarku zajetego zboza pierscienia na relief (hojnosc Manderly'ego); Owen niesie, bo to porzadek+milosierdzie razem. Rezerwa buforowana na tygodnie. Symon niewidzialny.",
     "297-10-04 WIECZOR (rzut 48): Symon przyszedl model-Hala po mlody umysl na wychowanie (analityk firmy) zamiast kupic z skazonej post-pierscien puli. Owen rad (sieroty w dobre rece, Hal=dowod), ale przyłozyl lustro do MOTYWU: 'wychowujesz analityka czy dziecko?' - rosc person nie narzedzie, dac czas. Wskazal WENDE (~12, sierota bystra w cyfrach, dyskretna bo swiat dziewczynie liczyc nie da). Ugruntował ped Symona od strony duszy. 9 dni do slubu.",
     "297-10-06 WIECZOR: Symon przyszedl sluzyc w Sepcie po dniu wielkich interesow (udzialy/dlug/skalowanie) - grounding. Owen wzruszony ze mimo awansu wraca do pokornej lawy (spis jalmuzny) - to go trzyma spokojnym o Symona. 7 dni do slubu.",
-    "297-10-13 DZIEN MATKI: udzielil slubu Symon+Mira (rok temu bal sie o dusze Symona, dzis laczyl go z dobrym czlowiekiem). Wesele=milosc/malzenstwo/milosierdzie naraz (wino lorda->biedni). Blogoslawil."
+    "297-10-13 DZIEN MATKI: udzielil slubu Symon+Mira (rok temu bal sie o dusze Symona, dzis laczyl go z dobrym czlowiekiem). Wesele=milosc/malzenstwo/milosierdzie naraz (wino lorda->biedni). Blogoslawil.",
+    "297-10-16: Symon zajal sie RELIEFEM na zime (resupply zanim mroz przycisnie) - skoordynowal siec pod mantia Wiary + dolozyl grosz+opal. Dokladnie grounding z rana w czynie (rosnacy schyla sie sluzyc). Elna pokryta w reliefie dyskretnie. Owen kontent - gwiazda sluzy slabym. zauf +1."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-10-06",
+   "ostatni_kontakt": "297-10-16",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25).",
    "rok_urodzenia": 243

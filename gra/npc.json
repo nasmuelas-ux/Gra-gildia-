@@ -2238,10 +2238,11 @@
    "zaufanie": 0,
    "ostatni_kontakt": "297-10-08",
    "wie_o_graczu": [
-    "297-10-08: obecny na audiencji, gdy lord pytal Symona (gbura) o rade ws. prowiantu i kasztelanii. Niechec starego rycerza do parweniusza-faworyta lorda STWARDNIALA w konkretna wrogosc. Jesli zostanie kasztelanem = wrogi nadzorca nad zaopatrzeniem zamku (filary firmy)."
+    "297-10-08: obecny na audiencji, gdy lord pytal Symona (gbura) o rade ws. prowiantu i kasztelanii. Niechec starego rycerza do parweniusza-faworyta lorda STWARDNIALA w konkretna wrogosc. Jesli zostanie kasztelanem = wrogi nadzorca nad zaopatrzeniem zamku (filary firmy).",
+    "297-10-08 (intel Symona rzut 67): wrog honorowy nie zdradliwy (zamrozilby/snil, nie uknulby klamstwa); zolnierz nie zarzadca (slaby na ksiegach=slabszy kandydat niz staz sugeruje); kandydatura niepewna vs Wylis. Handle: kompetencja nie intryga."
    ],
    "cechy_mowy": "chlodny, wynioslny, rycerska pogarda dla nisko urodzonych",
-   "flaga": "WROGOSC do Symona (gbur-faworyt); kandydat na kasztelana = potencjalny wrogi nadzorca castle-biznesu"
+   "flaga": "WROG HONOROWY (duma klasowa nie spisek) + OGRANICZONY (zolnierz nie zarzadca). Kandydatura niepewna (Wylis numerata lepszy na stewarda). Broc: nienaganna uzytecznosc, nie intryga; jego duty/honor + potrzeba lorda graja za Symonem."
   }
  ],
  "orbita": [

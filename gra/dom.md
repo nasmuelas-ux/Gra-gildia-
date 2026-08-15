@@ -21,3 +21,15 @@ _Ustalone 7 dni przed slubem (10-13). Zrodlo prawdy o majatku malzenskim._
 - Siec Miry staje sie "domowa legalnie" — jako malzonce jej dojscia/koneksje sluza domowi i firmie legitymnie, nie jako "najeta twarz".
 - Wzajemne dziedziczenie wchodzi w moc.
 - Wspolny standing malzenski.
+
+## DOM MIRY (dom malzenski) — OPIS (kanon, ustalony 297-10-06)
+Porzadna DWUKONDYGNACYJNA kamienica kupiecka w okolicach portu (Port Manderly), na przyzwoitej cichszej uliczce (nie nabrzeze, ale blisko). Kupil ja nieboszczyk maz ROVAN (braavijski handel suknem), Mira utrzymala SAMA przez lata wdowienstwa - solidna, ciepla, oszczednie ale z godnoscia.
+PARTER:
+- Sien (wejscie, kolki na plaszcze, skrzynia na obuwie)
+- Izba glowna/kuchnia - serce domu: palenisko, debowy stol z lawami, kredens z cyna, suszone ziola u belki, braavijska lampa (po Rovanie)
+- Izdebka handlowa/sklad - warsztat Miry: bele sukna (cienkie plotno, welna czesankowa), stol rachunkowy z karbami/ksiega, polki, kufry, nozyce/miary, okienko-lada na uliczke
+PIETRO:
+- Komnata sypialna - rzezbione loze (jej i Rovana, dobra posciel), kufry na bielizne/odziez, krzeslo, male braavijskie lusterko (zbytek)
+- Druga izdebka - mniejsza, dzis PUSTA (sklad/goscinna; 'kiedys sie zapelni jak Bogowie dadza' - Mira)
+STRYCH - schowek na towar/zapasy. TYL - maly ogrodek/podworko; studnia na rogu uliczki.
+WYPOSAZENIE: solidne, kupieckie, nie zbytkowne; braavijskie akcenty z handlu Rovana (myrijska koronka, lampa, dobre plotna); pachnie welna/dymem/gotowaniem. Dom, ktory jedna kobieta obronila przez chude zimy, nie sprzedajac mimo naciskow. Symon wchodzi jako wspoldzielacy (nie lokator, nie pan dachu). ~4-5 izb + strych; realny majatek mieszczanski (wiecej niz izby kamieniczki Symona).

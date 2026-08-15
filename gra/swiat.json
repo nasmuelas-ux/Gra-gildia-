@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 17,
+  "dzien": 18,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 100,
- "dzien_tygodnia_nr": 5,
- "dzien_targowy": null,
- "nastroje_miasta": "297-10-17 WIECZOR (inwestycja: skalowanie korytarza sukna 50/50 z Mira, rzut 14 = solidne-ale-throttled): deploy ~40 jel (kasa 110->70) w gruby zimowy towar. KAPITAL BEZPIECZNY (Mira miala racje - sukno realny towar, sprzeda sie 50/50), ale SKALA sie dzis nie rozwinela: zimowe lody dusza braavijska flotylle sukna (te same co listy refi) -> supply grubego sukna z Braavos cienki/opozniony, wiec modest run zamiast wielkiego. 40 jel=working capital korytarza (aktywo), skromny zwrot nad zima. HOOK: by realnie skalowac zima -> dywersyfikowac zrodla (lokalne/polnocne welny przez Leone), bo Braavos zima sie zatyka. Mira=rowny strateg. Reszta: Wylis wolumen (stala umowa blizej), haul Borena zaryglowany, relief napelniony, refi zegar zimowy, dziecko-nadzieja. Kasa 70.",
+ "pogoda": 16,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": "targ rybny (polow chudy, port przymarza)",
+ "nastroje_miasta": "297-10-18 RANEK (twardy powrot mrozu: pogoda 16 - siny, przenikliwy dzien, port przymarza; dar jasnej pogody minal): Mroz WALIDUJE wczorajszy pospiech (dobrze, ze ruszyliscie prowiant w oknie); teraz trakty twardą, ale HAUL BORENA ZARYGLOWANY = Symon kryty gdy inni skrobia. Zimowe lody trzymaja braavijska flotylle/listy zamkniete (korytarz sukna + refi dalej throttled - stad hook lokalne welny). Biedni marzna - relief napelniony wczoraj DZIALA (Elna+ubodzy pokryci); jak mroz potrwa, przyjdzie top-up. Inbound cisza (25). Reszta: Wylis wolumen (stala umowa: 1 czysta zima dowozu - a mroz to test), rep zamek 24, dziecko-nadzieja z Mira. Kasa 70.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 17,
+ "dzien": 18,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

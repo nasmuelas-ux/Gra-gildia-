@@ -6776,3 +6776,10 @@ To dokładnie grounding, o którym mówił rano Owen: rosnący, który wciąż s
 Symon wpadł do Aldousa (kupiec winny, świadek ślubu) i zamiast o interes spytał o rodzinę — wzruszył starego, bo rzadko kto pyta o *niego*. Aldous otworzył się z dumą (ustalona rodzina, kanon): żona **Marra** (30 lat małżeństwa, trzyma dom), syn **Willem** (uczy się handlu winem, nos do wina, przyszły dziedzic fachu), córka **Jonelle** (za bednarzem spod Schodów), wnuk **Tobas** (~3 lata, oczko w głowie).
 
 Głębia: przy dawnym ataku dłużnym Aldous trząsł się nie o siebie, lecz o NICH — że Marra straci dach, Willem fach, Tobas wychowa się w nędzy. To źródło jego mądrości spod ślubu („trzymaj mocniej to, do czego wracasz, niż to, po co się wspinasz"). Symon — świeżo żonaty, od wczoraj z nadzieją o dziecko — zrozumiał go głębiej; więź pogłębiona. Autentyczne ludzkie zainteresowanie = jego znak firmowy (jak przy Leonie, Serli). nast 94 hold, zauf 53→55. POPOŁUDNIE.
+
+## 297-10-17 RANEK→POŁUDNIE — Prowiant przez okno pogodowe (rzut 28, solidna dostawa z kosztem)
+Symon wykorzystał dar pogody (pogoda 100) i pchnął skalowany prowiant: skład Aurane'a → wozy Borena → brama zamku, dostawa pod okiem Wylisa. Dostawa **doszła** — wolumen dotarł, proof-of-delivery zaistniał (modestnie na plus; stała umowa tyka dalej).
+
+Ale rzut tuż poniżej progu, i friction był prawdziwy — dokładnie ten, który zapowiadał Bran: **piękny dzień = cała Północ rusza zapasy naraz.** Wozy nagle na wagę złota (szczyt popytu), trakty i brama zatłoczone. Symon musiał skrobać o dość haulage i dopłacić premium; push wyszedł solidny, nie jako bezbłędny popis. Margin dostawy z grubsza pokrył premium (dziś ~neutralnie w kasie; realny zysk to skalowany strumień zimowy filaru, teraz płynący na większym wolumenie).
+
+**Lekcja/hook (rozwiązanie, nie problem):** wąskim gardłem są **wozy w szczycie sezonu**. Warto zaryglować pojemność przewozową cechu Borena formalnie (parked synergia z 10-15/10-16) — mieć pewny haul przy każdym oknie, zamiast konkurować o wozy z całą Północą. Łańcuch działa; słabe ogniwo = haul capacity w peaku. Wylis nast 20 hold, rep zamek 24. Kasa ~111. Pora RANEK→POŁUDNIE.

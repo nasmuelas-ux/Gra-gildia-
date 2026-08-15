@@ -5,12 +5,12 @@
   "dzien": 17,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 100,
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-17 RANEK (3. poranek malzenstwa; RZADKI DAR pogody: pogoda 100 - niebo czyste jak szklo, mroz odpuscil, jasny lagodny dzien, przedzimowa respite): OKNO LOGISTYCZNE - piekna pogoda otwiera dobry moment na ruch (przewoz zapasow nim zima wroci): skalowany prowiant Wylisa moze plynac gladko (sklad Aurane -> wozy Borena -> zamek), dostawa pod okiem = paliwo do stalej umowy. Inbound spokojny (55). Reszta w tle: refi zegar zimowy (Bank uderzyl 08-13); relief napelniony (Elna powoli odtaja przy Mirze); dziecko-nadzieja z Mira. Wylis nast 20 (stala umowa: 1 czysta zima), rep zamek 24. Kasa 111.",
+ "nastroje_miasta": "297-10-17 POLUDNIE (ruszony prowiant przez okno pogodowe, rzut 28 = solidna dostawa z kosztem): skalowany wolumen DOSZEDL na zamek pod okiem Wylisa (proof-of-delivery zaiscial, modestly+). FRICTION realny (Bran zapowiadal): piekny dzien=cala Polnoc rusza zapasy naraz -> WOZY na wage zlota (peak demand), trakty/brama zatloczone; Symon skrobal o haulage+premium, push solidny nie showcase. Margin ~pokryl premium (net neutral dzis; realny zysk=skalowany strumien zimowy pillara plynie na wiekszym wolumenie). LEKCJA/HOOK: waskie gardlo=wozy w szczycie -> warto ZARYGLOWAC pojemnosc Borena formalnie (parked synergia). Wylis nast 20 hold (proof stalej umowy tyka), rep zamek 24. Reszta: refi zegar zimowy, relief napelniony, dziecko-nadzieja. Kasa 111.",
  "ceny": {
   "chleb": {
    "baza": 3,

@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 12,
+  "dzien": 13,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 81,
  "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-12 POLUDNIE (dar lorda -> biedni): Lord Wyman przyslal DAR WESELNY (beczka wina z zamku + slowo laski) - nieslychany zaszczyt dla gbura. Symon przyjal z godnoscia (poslal wlasciwe podziekowanie), a WINO SKIEROWAL na cichy rozdzial dla biednych (Dzien Matki) - nie na swoj stol/pokaz. Framing: 'wino z piwnic lorda Wymana ogrzalo biedote gdy Wiara ja nakarmila' = hojnosc Manderlych przez Wiare, bez trabienia o Symonie. Zaszczyt obrocony w milosierdzie (gwiazda w czynie), unassailable dla wrogow. Owen wzruszony. RHONA meaningfully zmiekla (deed nie slowo): 'moze twoja siostra wybrala lepiej niz myslalam'. Lord relationship poglębi sie gdy slowo dojdzie (Symon nie chwyta zaszczytu=co Wyman ceni). Firewall czysty. 1 dzien do slubu, pogodnie. Kasa 158 (wino=dar). || 297-10-12 NOC: ostatni wieczor przed slubem we dwoje (cichy, gleboki). Symon: dwa lata temu dorsz za 2 mied bez dachu/nazwiska/nikogo, jutro biore ciebie w twoim domu; boje sie ze to sen. Mira: to nie sen to robota twoja i moja; nie laczymy majatkow lecz dwoje co stali o wlasnych silach nim stanely razem; nie zapomnij chlopca z rogu bo to on w tobie najlepszy. Wiez na najczystszym gruncie. Sen. JUTRO Dzien Matki 10-13 = SLUB. -> 297-10-13 RANEK (dzien slubu).",
+ "nastroje_miasta": "297-10-13 DZIEN MATKI - SLUB ZAWARTY: Symon (l.22) + Mira polaczeni przed Siedmioma (Owen udzielil, Aldous swiadek). Dwa swiaty pod jednym dachem Septy (dol: Wenda/Rybi Zaulek/tragarze/Bran-Alys/Dake-Bess/lokatorzy; krag: Nesta/Leona/Hal/Wick/Tam/Corliss; rodzina Miry+Rhona). Mira w godnej szacie z wlasnego plotna, Symon szata pisarza, stanęli jako ROWNI. Umowa malzenska podpisana i W MOCY (osobne grunty/korytarz 50-50/wzajemne dziedziczenie/autonomia Miry). Uczta swoich (Aldousowa beczka) + CICHY ROZDZIAL dla biednych (wino lorda) - nikt osiagalny nie glodny w miescie (gwiazda w czynie). RHONA w pelni zjednana: 'masz we mnie siostre nie strazniczke' (deed nie slowo). Owen blogoslawi. Koszt wesela ~-40 jel (kasa 158->118; wino lorda=dar). Prog zycia: gbur bez dachu 1.5 roku temu -> maz rownej partnerki, imie zna lord, firma karmi zamek i miasto. Pierwszy prawdziwy dom. -> zycie malzenskie.",
  "ceny": {
   "chleb": {
    "baza": 3,

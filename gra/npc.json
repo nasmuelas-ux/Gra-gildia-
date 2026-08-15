@@ -588,7 +588,8 @@
     "297-06-20 POLUDNIE: Symon domknal - przywrocil kobiete PRZEZ SIOSTRE (reka w cieniu), wpisal \"potrzeba prawdziwa\", oddal OSAD LUDZKI siostrze/septie (kto jest kim), a sobie zostawil tylko zaplecze (store/rachuby). Metoda skorygowana wlasciwie: przy Wierze = liczydlo za kotara, nie reka na jalmuznie. Sprawa zamknieta cicho.",
     "297-10-03 (rzut 73): w zabojczym mrozie Symon przyszedl UPRZEDZIC wyczerpanie rezerwy reliefu (nie po kryzysie - przed). Przez Owena/Wiare cicha prosba do lorda o rozszerzenie earmarku zajetego zboza pierscienia na relief (hojnosc Manderly'ego); Owen niesie, bo to porzadek+milosierdzie razem. Rezerwa buforowana na tygodnie. Symon niewidzialny.",
     "297-10-04 WIECZOR (rzut 48): Symon przyszedl model-Hala po mlody umysl na wychowanie (analityk firmy) zamiast kupic z skazonej post-pierscien puli. Owen rad (sieroty w dobre rece, Hal=dowod), ale przyłozyl lustro do MOTYWU: 'wychowujesz analityka czy dziecko?' - rosc person nie narzedzie, dac czas. Wskazal WENDE (~12, sierota bystra w cyfrach, dyskretna bo swiat dziewczynie liczyc nie da). Ugruntował ped Symona od strony duszy. 9 dni do slubu.",
-    "297-10-06 WIECZOR: Symon przyszedl sluzyc w Sepcie po dniu wielkich interesow (udzialy/dlug/skalowanie) - grounding. Owen wzruszony ze mimo awansu wraca do pokornej lawy (spis jalmuzny) - to go trzyma spokojnym o Symona. 7 dni do slubu."
+    "297-10-06 WIECZOR: Symon przyszedl sluzyc w Sepcie po dniu wielkich interesow (udzialy/dlug/skalowanie) - grounding. Owen wzruszony ze mimo awansu wraca do pokornej lawy (spis jalmuzny) - to go trzyma spokojnym o Symona. 7 dni do slubu.",
+    "297-10-13 DZIEN MATKI: udzielil slubu Symon+Mira (rok temu bal sie o dusze Symona, dzis laczyl go z dobrym czlowiekiem). Wesele=milosc/malzenstwo/milosierdzie naraz (wino lorda->biedni). Blogoslawil."
    ],
    "dlugi": [],
    "ostatni_kontakt": "297-10-06",
@@ -1713,7 +1714,7 @@
   {
    "id": "mira_wdowa",
    "imie": "Mira",
-   "przydomek": null,
+   "przydomek": "zona Symona",
    "wiek": 25,
    "stan": "mieszczka (wdowa)",
    "zawod": "wdowa po kupcu Braavos-adjacent (Rovan, zm. febra); ciagnie sama DROBNY HANDEL SUKNEM/PLOTNEM z Braavos (cienkie plotna, welna czesankowa) - maly obrot, ale ZNA szlak+ludzi w Braavos",
@@ -1756,7 +1757,8 @@
     "297-10-06 NOC (rzut 96 KRYT): Symon przyznal jej racje ws. szmeru (jego ped) - i zamiast dasu zrobili przelom. Mira zreframowala handlowca: nie twarz-hire lecz OTWARTE DRZWI, ktore Symon juz ma (pieczec lorda) + WLASNA SIEC po cichu (jej dekada handlu+standing wdowy, LEGALNIE domowe po slubie; Aurane/Torren dyskretni referrerzy; Nesta za firewallem). Rola handlowca-hire ROZPUSZCZONA. Growth engine=partnerstwo. Frykcja zagojona w pelni. nast 95->97.",
     "297-10-06 WIECZOR: opisala Symonowi dom (dom malzenski) - kupiona przez Rovana, obroniona przez nia sama przez chude zimy mimo naciskow by sprzedac. Symon wchodzi jako wspoldzielacy nie lokator. 2. izdebka pusta: \"kiedys sie zapelni jak Bogowie dadza\".",
     "297-10-07 (kanon): wyznala Symonowi historie - z Rovanem urodzila SYNA, zmarl przed 1. rokiem (gorączka ta sama zima co potem Rovan 2 lata pozniej); potem dzieci nie przyszly; nie mloda, poród ryzykowny. Pusta izdebka=jej wieloletni zal (kolyske oddala). Symon przyjal ja taka jaka jest (dzieci dar nie dlug, szukal domu nie dziedzica) - wiez przypieczetowana na calej prawdzie, lzy przez usmiech.",
-    "297-10-10: Symon wypowiedzial jej WPROST swoja gwiazde - czlowiek rady Starkow (liczby prawdziwe+tarcza slabych, trwalosc/ochrona/prawda nie srebro), dla ochrony jej/dzieci/slabych, gwiazda dzielona jako rowni. Mira: wiedzialam ze siegasz wysoko, nie ze tak CZYSTO; pojde z toba jako rowna ze swoim suknem/zdaniem, a gdy zaczniesz gnic w pyche powiem ci pierwsza twardziej niz Owen. Wiez na najglebszym gruncie."
+    "297-10-10: Symon wypowiedzial jej WPROST swoja gwiazde - czlowiek rady Starkow (liczby prawdziwe+tarcza slabych, trwalosc/ochrona/prawda nie srebro), dla ochrony jej/dzieci/slabych, gwiazda dzielona jako rowni. Mira: wiedzialam ze siegasz wysoko, nie ze tak CZYSTO; pojde z toba jako rowna ze swoim suknem/zdaniem, a gdy zaczniesz gnic w pyche powiem ci pierwsza twardziej niz Owen. Wiez na najglebszym gruncie.",
+    "297-10-13 DZIEN MATKI: SLUB. Mira i Symon polaczeni przed Siedmioma przez Owena, jako rowni; umowa (osobne grunty/korytarz 50-50/dziedziczenie/autonomia) w mocy. Zona."
    ],
    "potrzeby": [
     "utrzymac resztke interesu meza",
@@ -1769,7 +1771,8 @@
    "nota": "HANDLUJE: sukno/plotno braawijskie (drobno, 1-2 bele/sezon, kontakty po mezu). SIEDZI w tym samym korytarzu co Leona (sukno) i Nesta (faktoria braawijska) + bursztyn/futra out. Jej wartosc = WIEDZA+DOJSCIA w Braavos, nie wolumen. SYNERGIA do zbudowania: Mira/Leona/Nesta w jednej rzece towaru, Symon zna wszystkie trzy.",
    "nastawienie": 95,
    "rok_urodzenia": 272,
-   "backstory_dzieci": "syn z Rovanem zmarl przed 1. rokiem (gorączka); Rovan zmarl 2 lata pozniej; potem dzieci nie przyszly; nie mloda - dzieci mozliwe ale niepewne, poród ryzykowny"
+   "backstory_dzieci": "syn z Rovanem zmarl przed 1. rokiem (gorączka); Rovan zmarl 2 lata pozniej; potem dzieci nie przyszly; nie mloda - dzieci mozliwe ale niepewne, poród ryzykowny",
+   "flaga": "ZONA Symona (od 297-10-13). Rowna partnerka, wlasny grunt (sukno/dom/autonomia), gwiazda dzielona."
   },
   {
    "id": "septon_torren",
@@ -2276,13 +2279,14 @@
    "wiek": 46,
    "stan": "mieszczka",
    "zawod": "starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczka) - przyjechala na slub",
-   "nastawienie_do_gracza": 8,
-   "zaufanie": 3,
-   "ostatni_kontakt": "297-10-12",
+   "nastawienie_do_gracza": 35,
+   "zaufanie": 20,
+   "ostatni_kontakt": "297-10-13",
    "wie_o_graczu": [
     "297-10-11: poznala Symona przed slubem. CZUJNA STRAZNICZKA siostry (Mira grzebala meza i syna, sama trzymala dom) - spytala wprost 'zona czy szczebel? jak zajdziesz wyzej wdowa moze ci ciazyc'. Symon odpowiedzial prawda (dom nie dziedzic; umowa=autonomia Miry wpisana; gwiazda dzielona) - zarejestrowala nie ustapila: 'ladnie mowisz, zobacze czy tak robisz, bede patrzec, nie mam nikogo procz niej'. Do wygrania czynem/latami, nie slowem. Nie wrogosc - sluszna ochrona.",
     "297-10-11 WIECZOR: widziala Symona wsrod goscia - gbura o ktorym mowia ze lord zna imie, jak siedzi z tragarzami, nosi drwa, dogadza ciotce; i Mire smiejaca sie prawdziwie (dawno takiej nie widziala). Zmiekla ODROBINE: dawno jej takiej nie widzialam. Pierwszy grosz na rachunku - do wygrania czynem, nie slowem. nast -2->1.",
-    "297-10-12: uslyszala co Symon zrobil z darem lorda - dostal wino od pana Polnocy i zaniosl je biednym zamiast na wlasny stol. Deed nie slowo: gbur co obraca zaszczyt w milosierdzie nie jest lowca statusu. Pierwszy raz bez strazy w oczach: 'moze twoja siostra wybrala lepiej niz myslalam'. nast 1->8 (mieknie meaningfully)."
+    "297-10-12: uslyszala co Symon zrobil z darem lorda - dostal wino od pana Polnocy i zaniosl je biednym zamiast na wlasny stol. Deed nie slowo: gbur co obraca zaszczyt w milosierdzie nie jest lowca statusu. Pierwszy raz bez strazy w oczach: 'moze twoja siostra wybrala lepiej niz myslalam'. nast 1->8 (mieknie meaningfully).",
+    "297-10-13 SLUB: w pelni zjednana. Widziala jak Symon niesie wino lorda glodnym, stoi z Mira jako rowny, i twarz siostry szczesliwa. 'Bylam gotowa cie nie polubic skrybo, nie dales mi tego zrobic; dbaj o nia a masz we mnie siostre nie strazniczke'. Deed nie slowo wygral. nast 8->35 (siostra Symona teraz)."
    ],
    "cechy_mowy": "twarda, bezposrednia, chroni swoich; ocenia po czynach nie slowach",
    "flaga": "czujna strazniczka Miry - holdout, do wygrania czynem/latami (nie wrogosc, ochrona)"

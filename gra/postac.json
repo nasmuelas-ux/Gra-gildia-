@@ -12,7 +12,7 @@
  "zmeczenie": 0,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 158,
+  "jelenie": 118,
   "smoki": 0
  },
  "dobytek": [
@@ -249,5 +249,6 @@
   "miesiac": 8,
   "dzien": 3
  },
- "_uwaga_wiek": "Urodzony 275 AC, 8. miesiac, dzien 3. Gra ruszyla 296-08-03 = jego 21. urodziny. 297-08-03 skonczyl 22. Wiek przeliczac przy TIK: wiek = rok - 275 (minus 1 jesli przed data_urodzin w danym roku)."
+ "_uwaga_wiek": "Urodzony 275 AC, 8. miesiac, dzien 3. Gra ruszyla 296-08-03 = jego 21. urodziny. 297-08-03 skonczyl 22. Wiek przeliczac przy TIK: wiek = rok - 275 (minus 1 jesli przed data_urodzin w danym roku).",
+ "stan_cywilny": "ZONATY (Mira, od 297-10-13 Dzien Matki; slub przez Owena, umowa u Torrena)"
 }

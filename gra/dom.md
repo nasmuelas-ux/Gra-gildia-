@@ -33,3 +33,11 @@ PIETRO:
 - Druga izdebka - mniejsza, dzis PUSTA (sklad/goscinna; 'kiedys sie zapelni jak Bogowie dadza' - Mira)
 STRYCH - schowek na towar/zapasy. TYL - maly ogrodek/podworko; studnia na rogu uliczki.
 WYPOSAZENIE: solidne, kupieckie, nie zbytkowne; braavijskie akcenty z handlu Rovana (myrijska koronka, lampa, dobre plotna); pachnie welna/dymem/gotowaniem. Dom, ktory jedna kobieta obronila przez chude zimy, nie sprzedajac mimo naciskow. Symon wchodzi jako wspoldzielacy (nie lokator, nie pan dachu). ~4-5 izb + strych; realny majatek mieszczanski (wiecej niz izby kamieniczki Symona).
+
+## UMOWA MALZENSKA — SPISANA PRAWNIE (297-10-09, u Torrena, septon-prawnik Septy)
+Zakuta w prawo (wazne wobec miasta i Wiary; swiadkowie: Owen udzielajacy + Torren spisujacy):
+- OSOBNE GRUNTY (firma/faktoria Symona jego; sukno/dom Miry jej; zadne nie bierze equity drugiego).
+- KORYTARZ BRAAVIJSKI wspolny 50/50 (jedyny formalnie laczony interes).
+- WZAJEMNE DZIEDZICZENIE (jedno umiera -> drugie dziedziczy wszystko).
+- AUTONOMIA HANDLOWA MIRY wpisana WPROST (dodane przez Torrena jako tarcza: zeby dwor/wrog jak Bertram nie wmowil kiedys, ze sukno Miry przeszlo pod meza; prawo lubi jasnosc, Symon ma wrogow co lubia metna wode).
+Papiery gotowe, do podpisu przy slubie 10-13.

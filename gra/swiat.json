@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 19,
+  "dzien": 20,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 35,
- "dzien_tygodnia_nr": 7,
+ "pogoda": 28,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-19 POLUDNIE (Dzien Matki - sluzba w Sepie): Symon sluzyl pokornie (spis jalmuzny, rozdzial reliefu wsrod biednych, ramie w ramie z Owenem) mimo awansu/maszyny. Owen dal UZNANIE nie przestroge (ewolucja gruntowania): 'to nie ja cie pilnuje - TY siebie; sluzysz ze szczytu nie z potrzeby, dlatego gwiazda prawdziwa'. Najglebsze slowo Owena - grounding zinternalizowany, Symon nim sie stal. Filar charakteru (droga do rady Starkow) spelniony w czynie; Faith-tie glebsza (Owen zauf +1). Elna w chuscie z reliefu mniej sinа (lod puszcza przy cierpliwej Mirze). Reszta: maszyna twarda+zdywersyfikowana, Wylis nast 21, refi zegar zimowy, dziecko-nadzieja. Kasa 40.",
+ "nastroje_miasta": "297-10-20 RANEK (szaro, zimno, pogoda 28; nowy tydzien): CLO PORTOWE - miesieczna danina Manderlych (kolo 20. dnia) nalezna od portowego handlu firmy (import zelaza Gulltown / sukno). Symon placi CZYSTO i w pore jak zawsze (jego znak: ksiega co do miedziaka) - ~10 jel (kasa 45->35). To NIE cios lecz atut: pod okiem Wylisa (kasztelan-celnik) uczciwy prompt platnik = kolejny cichy proof rzetelnosci (kontrast do oszustow ktorych Wylis tepi). Reszta: maszyna prowiantowa twarda+zdywersyfikowana, Wylis nast 21 (stala umowa: 1 czysta zima), refi zegar zimowy, relief napelniony/Elna odtaja, dziecko-nadzieja. Kasa 35.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki (7. dzien tygodnia - dzien Wiary; handel przygaszony, ludzie w Sepie Sniegow; nieobecnosc bywa zauwazona)",
- "dzien": 19,
+ "swieto": null,
+ "dzien": 20,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

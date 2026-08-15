@@ -6807,3 +6807,8 @@ Symon poszedł proaktywnie zabezpieczyć dostawę w mrozie — i dobrze, bo mró
 Ironia dnia: **Wylis widzi sukces** — rzetelna dostawa w mrozie, co zatrzymał innych, dokładnie dowód, jakiego chce (nast 20→21) — a Symon wie, **jak blisko było** i co go to kosztowało. Bufor frost-proof **wypalony/cienki**, ~8 jel awaryjnego scramble'u (kasa 70→62). Maszyna zdała pod maksymalnym stresem, ale jest napięta.
 
 **Hook/vulnerability:** pilnie **odbudować bufor** — jego edge jest teraz cienki; jeśli mróz potrwa, Symon jest odsłonięty, aż odbuduje rezerwę. Zima testuje maszynę do granic. Pora RANEK→POŁUDNIE.
+
+## 297-10-18 POŁUDNIE→POPOŁUDNIE — Odbudowa bufora frost-proof (rzut 56, relacje się opłaciły)
+Symon ruszył pilnie odbudować spalony bufor, póki mróz nie zamknął wszystkiego — i mimo scarce marketu (mróz dławi podaż, wszyscy walczą o zimowy towar) **odbudował go do solidnego poziomu**. Klucz: jego relacje zapłaciły w pinchu. Merek i Harlon — ciepłe filary podaży — **priorytetowali go** stockiem, gdy innym odmawiali (lojalność wobec rzetelnego, uczciwego, lord-connected kupca); haul Borena dowiózł, gdy inni skrobali, skład Aurane'a przyjął rezerwę. Zapłacił zimowy premium (~20 jel, kasa 62→42), ale **zabezpieczył się**.
+
+**Vulnerability z rzutu 7 zamknięta:** maszyna znów robustna na zimę, niezawodność pod okiem Wylisa utrzymywalna (proof stałej umowy trzyma). Temat dnia: **relacje to edge** — budowane latami uczciwie, opłacają się dokładnie wtedy, gdy rynek się zaciska i inni zostają z pustymi rękami. Merek zauf +1. Pora POŁUDNIE→POPOŁUDNIE.

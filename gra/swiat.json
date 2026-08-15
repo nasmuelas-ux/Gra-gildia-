@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 14,
+  "dzien": 15,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 56,
- "dzien_tygodnia_nr": 2,
- "dzien_targowy": null,
- "nastroje_miasta": "297-10-14 POLUDNIE (KOREKTA: Bank JUZ UDERZYL 08-13; opcja B pchac refi - rzut 17 porazka dystansu/pory): Gracz slusznie 'bank przeciez juz ruszyl' - kanon 08-13 (rzut 100): ZELAZNY BANK UDERZYL DECYDUJACO: skonfrontowal Antaryona oszustwem frachtowym (jako 'wlasny audyt'), zrestrukturyzowal jego zobowiazania na karzacych warunkach, ROZBIL aparat zdzierstwa; Antaryon upokorzony/na smyczy (nie unicestwiony - Bank trzyma ujarzmionego klienta); pytanie 'czyja reka' UPADLO, Symon niewidzialny (firewall kryt-100). DÉTENTE 10-06 = OWOC tego uderzenia (presja dlugu Nesty zelzala). (Moje wczorajsze 'Bank w fazie decyzji' bylo beatem z 08-08; 5 dni pozniej juz uderzyl.) ENDGAME ~90% wygrany. Zostaje MOP-UP: wykup ~90 smokow dlugu spod (oslabionego) Antaryona = pelne oczyszczenie zaplecza (odblokowuje Wylisa) + wolnosc Nesty. OPCJA B (aktywny wykup przez pryncypala) wybrana. Re-approach gotowy i sluszny (proof-gate spelniony, Antaryon oslabiony=wykup latwy) ALE rzut 17=porazka DYSTANSU/PORY nie meritu: przedzimie zamyka szlaki morskie do Braavos (linia Belarna held, korespondencja pryncypala wolna przez lod); Belarno radzi wyslac OSTROZNIE (imie Symona nowo-jawne tak swiezo po zlamaniu Antaryona - dyscyplina firewalla, 'imie na pozyczce nie na nozu'). WYNIK: refi w drodze ale na zegarze braavijsko-zimowym (tygodnie-miesiace, pewne przejscie moze czekac na okno/odwilz); brak domkniecia dzis. Lekcja: ostatni krok idzie tempem Braavos i zimy. Belarno nast 26/zauf 8 hold. Kasa 118, 1. dzien malzenstwa.",
+ "pogoda": 43,
+ "dzien_tygodnia_nr": 3,
+ "dzien_targowy": "targ rybny (dzien podzielny przez 3)",
+ "nastroje_miasta": "297-10-15 RANEK (pierwszy ranek malzenstwa; szary chlodny przedzimie, pogoda 43): dzien po slubie, spokojnie. REFI w drodze na zegarze braavijsko-zimowym (odpowiedz pryncypala tygodnie-miesiace, moze na okno/odwilz) - Bank juz uderzyl 08-13 (Antaryon na smyczy), zostaje mop-up wykupu; endgame ~90% wygrany. WYLIS: stala umowa odroczona, dowoz pod okiem przez zime->revisit; firma dowozi bezblednie. Maszyna firmy miele czysto (Hal/Corliss/Deman/Lorren/Garrick), Symon banknuje niewidzialnie. Firewall czysty (imie Symona nowo-jawne na stronie kredytowej refi - trzymac oddzielnie od zrodla). Kasa 121, majatek z Mira ustalony, dom cichy i pelny soba. Targ rybny (polow zimowy chudy).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 19,
+ "dzien": 15,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

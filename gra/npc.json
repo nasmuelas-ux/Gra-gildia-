@@ -1070,10 +1070,13 @@
    "id": "kasztelan_wylis",
    "imie": "ser Wylis",
    "zawod": "KASZTELAN-STEWARD Nowego Zamku (od 297-10-09; wczesniej poborca cel) - nad calym zaopatrzeniem zamku",
-   "nastawienie_do_gracza": 12,
-   "zaufanie": 4,
-   "ostatni_kontakt": "297-10-09",
-   "flaga": "NOWY KASZTELAN (od 10-09). Numerata/celnik - sadzi po ksiedze nie krwi (dobre dla Symona). Nastawienie do Symona NIEZNANE. Firewall: byl przy aparacie celnym gdzie Antaryon oszukuje - moze uczciwy (przyszly sojusznik refi) albo kupiony (zagrozenie); poznac/przeczytac PIERWEJ, karta celna w mroku. Read: pewnosc dostawy=uczciwy / kontrola-ciecia=kupiony."
+   "nastawienie_do_gracza": 18,
+   "zaufanie": 12,
+   "ostatni_kontakt": "297-10-10",
+   "flaga": "KASZTELAN (od 10-09). READ 10-10: UCZCIWY (skupiony na pewnosci dostawy, nie kontroli/cieciach) - potencjalny sojusznik nie kupiony. Ceni firme (ksiega prześwietlona jak celnik, wytrzymala co do miedziaka; uczciwa ksiega=luk czystej wody po korupcji pierscienia). Stały kontrakt prospekt ODŻYWA. Seed: uczciwy celnik-kasztelan=mozliwy przyszly sojusznik karty celnej Antaryona/refi (NIE ruszac, poznac glebiej). Firewall: Antaryon/clo w mroku.",
+   "wie_o_graczu": [
+    "297-10-10 (rzut 81): pierwszy kontakt jako kasztelan. Symon zagral liczbami (czysta ksiega, bufor frost-proof, klauzula kary nigdy nie odpalona). Wylis przeswietlil ksiege jak celnik - wytrzymala co do miedziaka; docenil uczciwa ksiege po korupcji pierscienia. Skupiony na PEWNOSCI dostawy=uczciwy. Ceni firme jako niezawodna reke, stały kontrakt odzywa. nast 0->18 zauf 0->12."
+   ]
   },
   {
    "id": "corka_wendy_mella",

@@ -6791,3 +6791,10 @@ Poranna dostawa wskazała wąskie gardło (wozy w szczycie), więc Symon rozwią
 
 ## 297-10-17 POPOŁUDNIE→WIECZÓR — Jeszcze sesja zarobkowa (rzut 33, skromnie)
 Symon zjadł i wcisnął jeszcze jedną sesję: maszyna miele spokojnie (retainery z Halem, drobne zlecenie), nic wielkiego. +5 jel (105→110). Dzień pełny: dostawa prowiantu, zaryglowany haul, dwie sesje. Pora ku wieczorowi.
+
+## 297-10-17 WIECZÓR — Inwestycja: skalowanie korytarza sukna (rzut 14, solidne-ale-throttled)
+Wybraliście A — skalować wspólny korytarz sukna (grube ciepłe na zimę, 50/50). Symon deployował ~40 jel (kasa 110→70) w zimowy towar. Mira miała rację co do bezpieczeństwa: **kapitał nie przepadł** — sukno to realny towar, sprzeda się w zimowy popyt, po połowie.
+
+Ale rzut niski, i z prawdziwego, nie dorobionego powodu: **te same zimowe lody, co duszą listy do Braavos (refi), duszą braavijską flotyllę sukna.** Podaż grubego sukna przez korytarz jest teraz cienka/opóźniona, więc zamiast wielkiego zimowego runu wyszedł **modest run** — 40 jel siedzi jako working capital korytarza (aktywo, nie strata), skromny zwrot nad zimą.
+
+**Lekcja/hook (rozwiązanie):** żeby realnie skalować sukno zimą, trzeba **dywersyfikować źródła** — lokalne/północne wełny przez Leonę — bo Braavos zimą się zatyka. Mira jako równy strateg (bez gruntowania — po prostu współpraca): rzeczowo o pinchu podaży i wprost o lokalnych wełnach. Partnerstwo ciepłe. Kasa 70. Pora WIECZÓR.

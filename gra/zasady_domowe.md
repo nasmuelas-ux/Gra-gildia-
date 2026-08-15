@@ -94,3 +94,16 @@ społecznego. NAPRAWA:
 5. **Efekt docelowy:** rozmawianie z ludźmi jest domyślnie NEUTRALNE-DO-POZYTYWNEGO
    (relacje, ciepło, czasem okazja). Angażowanie się NIGDY nie może być w
    oczekiwaniu gorsze niż siedzenie w domu.
+
+## ZASADA: EWOLUCJA GRUNTOWANIA (od 297-10-17, słuszna uwaga gracza)
+Gracz zauważył, że „nie zadzieraj nosa" stało się refrenem u wielu NPC. Prawda:
+theme jest REALNY (pyszny pęd Symona + niebezpieczna pozycja szybko wschodzącego
+nieszlachcica; „gbur sięga ponad stan" raz go realnie kosztowało — smear po głośnym
+szukaniu handlowca). ALE ostatnio Symon ŻYJE lekcją (prep nie pchanie, służba
+biednym, maszyna metodycznie, pyta o ludzi, sam się gruntuje). KOREKTA PROWADZENIA:
+1. Grunt ma EWOLUOWAĆ z ostrzeżenia -> w UZNANIE ("widzimy, żeś to pojął") w miarę
+   jak Symon dowodzi lekcji. Nie karać go ciągłym echem za flaw, którego już pilnuje.
+2. NIE wszyscy NPC walą w ten sam bęben. Różnicować: jedni gruntują, inni już ufają/
+   chwalą/idą dalej. Owen/Serla/Mira/Nesta mają RÓŻNE głosy, nie jeden refren.
+3. Grunt wraca jako żywa korekta TYLKO gdy Symon faktycznie znów pcha/pyszni się —
+   nie jako domyślny warm-NPC beat. Zasłużone uznanie > odruchowa przestroga.

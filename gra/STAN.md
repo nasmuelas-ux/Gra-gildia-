@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-10-08 POLUDNIE (audiencja u lorda, rzut 33 sukces ze sladem kosztu): lord chcial PROWIANTU w zabojczym mrozie - Symon na wlasnym gruncie zaadoptowany plan (2 zrodla, rygor szlakow, etapowanie, zbo
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 116 jeleni + 1 mied + 0 smokow
+- **Wolne:** 108 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

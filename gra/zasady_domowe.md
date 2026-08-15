@@ -70,3 +70,27 @@ Zasada nadrzedna: dawac z owocu nie z korzenia; drzewo co zjada wlasny korzen ni
   (Dodatkowo poza urzedami zamku: Roldan/Rennifer zwinieci - to byli gracze pierscienia, nie formalne urzedy zamkowe.)
 - GODRIC = zarzadca PRYWATNEGO domu blisko dworu + DOSTAWCA zamku (kanal Symona). Torhen = drugi zarzadca-dostawca. To NIE urzedy zamkowe, lecz zewnetrzni kontrahenci.
 - LIVE THREAD: lord Wyman predzej czy pozniej OBSADZI wakaty (kasztelan-steward + oficer). Kto obejmie kasztelanie-stewardie WAZY dla dworu i sciezki rady Symona (nowy kasztelan moze byc sojusznikiem albo nowym zrodlem tarcia; zawisc ocalalych oficerow zyje). Swiat ma to rozegrac - nie zmyslac obsady z gory, niech przyjdzie jako wydarzenie.
+
+## ZASADA: ROZMOWA NIE JEST PUŁAPKĄ (od 297-10-15, słuszna korekta gracza)
+Gracz wskazał realną wadę: jeśli odwiedziny/rozmowy generują komplikacje, to gra
+KARZE angażowanie się i opłaca się z nikim nie gadać. To odwrotność symulatora
+społecznego. NAPRAWA:
+
+1. **Ciepłe wizyty/rozmowy z sojusznikami i znajomymi = BEZ downside.** Dolny
+   wynik takiej wizyty to „miło, choć bez wielkich wydarzeń" — NIGDY „pojawia się
+   nowa komplikacja". Zwykle DOMYŚLNIE nie rzucaj na sam akt odwiedzin.
+2. **Komplikacje/problemy przychodzą z WŁASNEGO PĘDU ŚWIATA** (inbound, zegary
+   dojrzewające, NPC z własną agencją) — NIE są spawnowane jako kara za to, że
+   gracz z kimś porozmawiał. Gdyby NPC miał realny problem, świat i tak by go
+   wypchnął (inbound), niezależnie od tego, czy gracz wpadł powiedzieć „cześć".
+   Problem NIE materializuje się dlatego, że gracz „zaczął temat".
+3. **RZUTY (z możliwym kosztem) rezerwuj dla realnie NIEPEWNYCH, KONSEKWENTNYCH
+   działań:** negocjacja o stawkę/warunki, audyt co może znaleźć albo nie,
+   konfrontacja, przekonanie opornego do czegoś ważnego, ryzykowny ruch. NIE dla
+   samego aktu odwiedzin/rozmowy/check-inu.
+4. **Nawet gdy rzut jest zasadny: niski wynik = „nie osiągnąłeś celu / skromny
+   plon", a nie „wymierzam ci nowy problem".** Framing: propozycje i rozwiązania,
+   nie problemy (spójne z GAŁKĄ DRAMATYZMU).
+5. **Efekt docelowy:** rozmawianie z ludźmi jest domyślnie NEUTRALNE-DO-POZYTYWNEGO
+   (relacje, ciepło, czasem okazja). Angażowanie się NIGDY nie może być w
+   oczekiwaniu gorsze niż siedzenie w domu.

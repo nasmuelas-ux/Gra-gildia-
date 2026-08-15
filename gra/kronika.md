@@ -6788,3 +6788,6 @@ Ale rzut tuż poniżej progu, i friction był prawdziwy — dokładnie ten, któ
 Poranna dostawa wskazała wąskie gardło (wozy w szczycie), więc Symon rozwiązał je u źródła: zawarł z Borenem **standing haul arrangement**. Symon dostaje priorytet/pierwsze wołanie pojemności wozów cechu + uczciwe stawki; Boren daje swoim kołodziejom pewny, stały dochód przez cały sezon (nie tylko piki) + sojusz z lord-trusted człowiekiem. Lekki retainer ~6 jel/mies (setup ~6 jel dziś, kasa 111→105).
 
 **Wąskie gardło rozwiązane — łańcuch logistyczny kompletny end-to-end:** podaż (Merek/Harlon) → skład (Aurane) → **haul (Boren zaryglowany)** → zamek. To pewna dostawa na skali — dokładnie fundament pod stałą umowę Wylisa (dowóz bez potknięcia przez zimę). Symon znów zrobił to, co umie: zamienił jednorazowe skrobanie w trwałą infrastrukturę (buduje maszynę). Boren bardzo rad (steady work = marzenie cechmistrza) — sojusz głębszy, teraz i biznesowo spleceni. nast 90 hold, zauf 41→43. Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-17 POPOŁUDNIE→WIECZÓR — Jeszcze sesja zarobkowa (rzut 33, skromnie)
+Symon zjadł i wcisnął jeszcze jedną sesję: maszyna miele spokojnie (retainery z Halem, drobne zlecenie), nic wielkiego. +5 jel (105→110). Dzień pełny: dostawa prowiantu, zaryglowany haul, dwie sesje. Pora ku wieczorowi.

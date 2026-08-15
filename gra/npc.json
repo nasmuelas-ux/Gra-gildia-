@@ -2268,6 +2268,21 @@
    ],
    "cechy_mowy": "rzeczowy, dokladny",
    "flaga": "STAFF: doswiadczony rachmistrz, backstop Hala, linia premium; vetted czysto"
+  },
+  {
+   "id": "rhona_siostra_miry",
+   "imie": "Rhona",
+   "wiek": 46,
+   "stan": "mieszczka",
+   "zawod": "starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczka) - przyjechala na slub",
+   "nastawienie_do_gracza": -2,
+   "zaufanie": 3,
+   "ostatni_kontakt": "297-10-11",
+   "wie_o_graczu": [
+    "297-10-11: poznala Symona przed slubem. CZUJNA STRAZNICZKA siostry (Mira grzebala meza i syna, sama trzymala dom) - spytala wprost 'zona czy szczebel? jak zajdziesz wyzej wdowa moze ci ciazyc'. Symon odpowiedzial prawda (dom nie dziedzic; umowa=autonomia Miry wpisana; gwiazda dzielona) - zarejestrowala nie ustapila: 'ladnie mowisz, zobacze czy tak robisz, bede patrzec, nie mam nikogo procz niej'. Do wygrania czynem/latami, nie slowem. Nie wrogosc - sluszna ochrona."
+   ],
+   "cechy_mowy": "twarda, bezposrednia, chroni swoich; ocenia po czynach nie slowach",
+   "flaga": "czujna strazniczka Miry - holdout, do wygrania czynem/latami (nie wrogosc, ochrona)"
   }
  ],
  "orbita": [

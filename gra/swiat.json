@@ -71,5 +71,12 @@
   "stan_teraz_297": "Wiosna na Polnocy zaczyna sie przechylac ku jesieni/przedzimiu. To WOLNY, wieloturowy TURN, nie przelacznik - nikt nie budzi sie nagle w sniegu. Maesterski cien zimy = realna instytucjonalna wiesc (nie pogoda), naped prowiantowania.",
   "skutki_mechaniczne": "Stopniowo (przez wiele dni gry): dnie krotsze (sesje robocze uciete), ceny opalu/prowiantu/soli drga w gore, ludzie kalkuluja zapasy. To scena, na ktorej przewaga Symona (prowiantowanie, underwriting, ksiegi zapasow, pakiet zimowy) ROSNIE.",
   "ustanowiono": "297-08-27 (na prosbe gracza - porzadkowanie spojnosci: 'czyli jest tylko wiosna i zima?'). Poprawka: miedzy wiosna a zima jest jesien; nie przeskakujemy wiosna->zima."
+ },
+ "mechanika_kanon_swiata": {
+  "wlaczone": "297-10-15 (prosba gracza: wplatac szersze wydarzenia kanonu PLIO)",
+  "zasada": "Szersze wydarzenia Westeros (dwor, Namiestnik, krol, wojna) docieraja do Bialego Portu REALISTYCZNIE - spozniona wiesc/plotka/echo/drganie cen przez wiarygodny kanal (kruk Cytadeli/statek/Braavos-Nesta/Theomore/Wiara/dwor Manderlych), NIGDY jako wszechwiedza. Symulacja zostaje LOKALNA; kanon=tlo co czasem puka.",
+  "kalibracja": "297 AC = cisza przed AGOT (~298). Nie odpalac wydarzenia przed jego oknem kanonu. Bliskie beaty zyja teraz (biale kruki sezonowe=imminentne, slabe plotki dworskie); wielkie wstrzasy (smierc Jona Arryna, krol do Winterfell ~298; Wojna Pieciu Krolow/mobilizacja Manderlych ~299) dojrzewaja gdy kalendarz tam dojdzie.",
+  "rola_w_luku": "Robic z kanonu PALIWO+ZAGROZENIE dla gwiazdy polnocnej: drabina Manderly->Stark->Winterfell (przejazd krola 298), eksplozja prowiantowania/logistyki wojennej (299=dokladny atut Symona). Bez railroadingu, firewall i fokus lokalny stoja.",
+  "zrodlo": "Pelna os + timing + kanaly w gra/kanon/os_swiata.md (referencja prowadzenia)."
  }
 }

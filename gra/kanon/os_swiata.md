@@ -1,0 +1,69 @@
+# OŚ ŚWIATA — kanon Westeros wplatany w grę (od 297-10-15)
+
+_Reguła włączona na prośbę gracza. Szersze wydarzenia kanonu PLIO docierają do
+Białego Portu REALISTYCZNIE — jako spóźniona wieść, plotka, echo i drganie cen —
+nigdy jako wszechwiedząca kronika. Symulacja zostaje LOKALNA (świat Symona);
+kanon świata jest TŁEM, które czasem puka do portu._
+
+## GDZIE JESTEŚMY (kotwica czasu)
+- **Rok gry: 297 AC** (żywa data w swiat.json rządzi; `kalendarz.md` ma starą
+  kotwicę „296 AC" — to nieodświeżony napis, nie prawda).
+- To **spokój przed „Grą o tron"** (wydarzenia AGOT ~298 AC). Królestwo w pokoju
+  pod **królem Robertem I Baratheonem**. **Jon Arryn** = Namiestnik w Królewskiej
+  Przystani. **Eddard (Ned) Stark** = Namiestnik Północy, Winterfell = suzeren
+  Manderlych. Balonowy bunt Greyjoyów (289) dawno zdławiony. Daenerys Targaryen =
+  dziecko na wygnaniu w Wolnych Miastach (za wąskim morzem — echo dla kanałów
+  braavijskich Nesty).
+
+## KANAŁY, KTÓRYMI WIEŚĆ DOCIERA (filtr realizmu)
+- **Białe kruki Cytadeli** — tylko wielkie/sezonowe wieści (ogłoszenie pór roku),
+  maester→maester; Symon słyszy przez Theomore / Wiarę / plotkę portu.
+- **Statki** — polityka z południa dociera z prędkością żagla: wieść z Królewskiej
+  Przystani jest w Białym Porcie o TYGODNIE spóźniona.
+- **Korespondencja braavijska (Nesta/Belarno)** — echa zza wąskiego morza.
+- **Drganie rynku** — wojna/kryzys = skok cen zboża/żelaza/prowiantu, popyt się
+  przesuwa, ludzie znikają na wojnę, szlaki się rwą. Symon czyta to PIERWSZY (jego
+  atut: manifesty, ceny, zapasy).
+- **Dwór Manderlych** — Biały Port to najbogatszy chorąży Starków; wieści z
+  Winterfell docierają tu szybciej i ważą więcej.
+
+## OŚ WYDARZEŃ (przybliżona; NIE odpalać przed oknem kanonu)
+### 297 AC (TERAZ) — cisza przed burzą
+- Długie lato gaśnie; jesień/przedzimie osiada na Północy; Cytadela wypatruje zimy.
+- **NAJBLIŻSZY BEAT (imminentny): biały kruk Cytadeli** — oficjalne ogłoszenie
+  końca lata / jesieni w całym Królestwie. Bezpośrednio dotyka Symona (jego przewaga
+  = prowiantowanie zimy). Może dotrzeć w najbliższych tygodniach gry jako poranny
+  inbound (przez Theomore/Wiarę).
+- Poza tym: dalekie, słabe plotki dworskie (król tonie w długach u Lannisterów i
+  Żelaznego Banku; turnieje; nuda pokoju). Bez wstrząsów.
+
+### ~298 AC — wydarzenia „Gry o tron" (kilka mies.–rok naprzód w tempie gry)
+- **Śmierć Namiestnika Jona Arryna** — dociera jako wieść „Namiestnik Króla nie
+  żyje"; polityczna niepewność, spekulacje kto następny.
+- **Król Robert jedzie na Północ do Winterfell** mianować Neda Starka Namiestnikiem.
+  OGROMNE dla Północy — król u Starków. Biały Port (Manderly) żywo zaangażowany:
+  możliwe wezwania, żądania prowiantu/prestiżu, przejazdy. → potencjalny SZCZEBEL
+  drabiny Symona (Manderly→Stark→Winterfell).
+- Ned rusza na południe z córkami; Bran spada; Catelyn jedzie do KP. Wewnętrzne dla
+  Winterfell — do portu jako „wieści z Północy".
+
+### ~299 AC — Wojna Pięciu Królów (rok+ naprzód; największe przecięcie z łukiem)
+- **Śmierć króla Roberta; upadek Neda Starka; Robb Stark ogłoszony Królem Północy —
+  ZWOŁUJE CHORĄGWIE.** **Biały Port MOBILIZUJE** — Wyman Manderly, najbogatszy
+  chorąży Starków, śle ludzi, okręty, srebro i PROWIANT na wojnę. To przewraca
+  świat Symona: prowiantowanie/logistyka/finanse wojenne (jego dokładny atut) rosną
+  do skali i grozy; Północ w wojnie; szlaki rwane; okazja i śmiertelne ryzyko naraz.
+- (Dalej, ~299–300: Theon bierze Winterfell; Krwawe Gody; mroczny łuk samego
+  Manderly'ego. Odległe — wplatać dopiero gdy gra tam dojdzie.)
+
+## REGUŁA WPLATANIA (jak prowadzić)
+1. **Kalibruj do daty gry** — nie odpalaj wydarzenia przed jego oknem kanonu.
+2. **Dostarczaj realistycznie** — spóźnione, przez wiarygodny kanał (kruk/statek/
+   plotka/Braavos/Theomore/Wiara), nie jako wszechwiedza.
+3. **Rób z tego PALIWO i ZAGROŻENIE** dla łuku Symona — zwłaszcza drabina
+   Manderly→Stark→Winterfell (298) i eksplozja prowiantowania wojennego (299) —
+   ale BEZ railroadingu; Symon ma agency, reaguje na to, co doń dotarło.
+4. **Firewall i fokus lokalny stoją** — kanon świata to tło, nie przejęcie gry.
+5. **Tempo** — gra idzie ~pół dnia/turę; do 298/299 jest DUŻO tur. Bliskie beaty
+   (kruki sezonowe, słabe plotki) żyją teraz; wielkie wstrząsy dojrzewają, gdy
+   kalendarz tam dojdzie. Nie forsować przeskoków czasu.

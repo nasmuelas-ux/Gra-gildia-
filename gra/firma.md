@@ -53,3 +53,12 @@ intel z jawnych danych --> [1] klient (retencja/wartosc) --> [2] sprzedaz (Arkus
   2. **Wartosc/infrastruktura** — firma daje intel (Deman) + ksiegi (Hal) + decyzje (Symon) = Symon jest SILNIKIEM wzrostu, nie mlodszym wspolnikiem -> udzial rosnie z wkladu.
   3. **Sciezka odkupu** — w miare jak Nesta schodzi do doradztwa, zdefiniowana droga stopniowego odkupu czesci jej AKTYWNEGO udzialu (ona monetyzuje, on konsoliduje).
 - **NIEZASTEPOWALNE NESTY (zostaje jej na zawsze):** brama Braavos (korytarz = jej relacja/nazwisko/ludzie) + kapital + backer firewalla. Nie "Symon przejmuje wszystko" - Symon bierze wykonanie + rosnace equity; Nesta = filar kapitalowo-strategiczny + Braavos. Oboje wygrywaja.
+
+## SKALA I DLUG NESTY (kanon, doprecyzowane 297-10-06)
+WAZNE dla rozumienia udzialu Symona - sa TRZY rozne skale, udzial Symona siedzi w najmniejszej:
+1. **FAKTORIA JAKO AGENCJA** - Nesta faktoruje ladunki/statki swojego DOMU-PRYNCYPALA (Braavos) za PROWIZJE. Obraca duzymi sumami, ale to CUDZY kapital. = swiat Nesty.
+2. **DLUG ANTARYONSKI** - ~90 zlotych smokow (18 000 jel), OSOBISTY dlug Nesty wobec Antaryonow, firewall. = swiat Nesty.
+3. **WSPOLNE PRZEDSIEWZIECIA** (tu Twoje ~47%): rotacja zboze-sol (~550 jel) + firma faktorska (2/3) + korytarz + druga linia. SKALA setek jeleni.
+=> "Symon ~47% faktorii" = 47% MALEGO wspolnego mlyna zboze-sol, NIE 47% swiata Nesty (agencja + dlug = jej, rzedy wielkosci wiecej).
+
+DLUG - DÉTENTE (od 297-10-06, po upadku pierscienia): Antaryonowie odpuscili nacisk (klimat anty-fraud lorda + karta celna Symona zyskala oslone przez ucho lorda + plynnosc Antaryona). Duze odsetki ZDJETE, rata uczciwa, przejecie OFF. Dlug ~90 smokow NADAL istnieje - detente nie refi. ENDGAME (scięcie: karta celna + refi do Banku/pryncypala) teraz realniejszy, bo oslona (ucho lorda) wreszcie istnieje. Firewall dalej wazny.

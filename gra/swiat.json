@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 13,
+  "dzien": 14,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 81,
+ "pogoda": 56,
  "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-13 DZIEN MATKI - SLUB ZAWARTY: Symon (l.22) + Mira polaczeni przed Siedmioma (Owen udzielil, Aldous swiadek). Dwa swiaty pod jednym dachem Septy (dol: Wenda/Rybi Zaulek/tragarze/Bran-Alys/Dake-Bess/lokatorzy; krag: Nesta/Leona/Hal/Wick/Tam/Corliss; rodzina Miry+Rhona). Mira w godnej szacie z wlasnego plotna, Symon szata pisarza, stanęli jako ROWNI. Umowa malzenska podpisana i W MOCY (osobne grunty/korytarz 50-50/wzajemne dziedziczenie/autonomia Miry). Uczta swoich (Aldousowa beczka) + CICHY ROZDZIAL dla biednych (wino lorda) - nikt osiagalny nie glodny w miescie (gwiazda w czynie). RHONA w pelni zjednana: 'masz we mnie siostre nie strazniczke' (deed nie slowo). Owen blogoslawi. Koszt wesela ~-40 jel (kasa 158->118; wino lorda=dar). Prog zycia: gbur bez dachu 1.5 roku temu -> maz rownej partnerki, imie zna lord, firma karmi zamek i miasto. Pierwszy prawdziwy dom. -> zycie malzenskie. || 297-10-13 WIECZOR: TOAST Symona za tych ktorych podniosl - obrocony w PODNIESLISMY SIE RAZEM. Nazwal ich: Serla (izba gdy byl nikim), Wenda (stala na targu), tragarze (prawda), Bran (utonalby zima, dzis prowadzi dom), Hal/Wick/Tam (nikt ich nie liczyl, dzis licza), Nesta (rzemioslo), Owen (dusza). Rdzen doktryny publicznie: dom buduje sie rekami nie jedna reka; wszystko mam bo WY widzieliscie we mnie cos nim ktos z gory; jesli zajde dokad mierze to na waszych barkach pamietajac czyje sa. Izba huknela (tupot/wiwat/lzy Serli/Wendy, Owen plakal, Nesta nieoslonity usmiech). Mira scisnela reke - uslyszala czlowieka za ktorego wyszla (dzieli chwale). Gwiazda dzielona potwierdzona publicznie. Chwala rozdana u wlasnego wesela = najczystszy wyraz gwiazdy Symona. || 297-10-13 NOC: noc poslubna - goscie rozeszli sie, zostali sami jako maz i zona w domu ktory od dzis wspolny. Czulosc dwojga co znali sie dlugo, wybrali swiadomie, doszli z niczego o wlasnych silach obok siebie. Symon (1.5 roku temu spal sam bez nikogo) zasnal przy zonie pod wlasna belka; nad nimi pusta izdebka nazwana otwarta dlonia. Matka dostala tego dnia wszystko naraz (milosc/malzenstwo/milosierdzie). DZIEN MATKI ZAMKNIETY - SLUB skonsumowany, zycie malzenskie zaczete. -> 297-10-14 RANEK (pierwszy dzien malzenstwa).",
+ "nastroje_miasta": "297-10-14 POLUDNIE (negocjacja stalej umowy z Wylisem, rzut 7 setback): STALA UMOWA ODROCZONA - Wylis skrupulatny celnik-kasztelan 2 tyg po objeciu, wyczulony na optyke po pierscieniu; nie zarygluje stalej umowy w 1. miesiac choćby najczystszej (wygladalby jak zgnili poprzednicy od przytulnych umow z dostawcami). Sciezka: dowoz pod jego okiem przez zime -> revisit po glebokiej zimie (proven delivery > pchanie). RYSY (rzut 7): (1) pospiech Symona ku zaryglowaniu odczytany lekko samolubnie (Wylis nast 18->16); (2) FIREWALL PRESSURE - celnik zaczal WESZYC zaplecze firmy (skad kapital/czyje pieniadze), Symon zdeflektowal ale Wylis zapamietal luke - pilnowac (Antaryon/Braavos). Odmowa uczciwa/rozsadna nie wroga. Lekcja: cierpliwosc+dostawa pod okiem skrupulanta, nie pospiech. Kasa 118, 1. dzien malzenstwa, firma dowozi dalej na biezaco.",
  "ceny": {
   "chleb": {
    "baza": 3,

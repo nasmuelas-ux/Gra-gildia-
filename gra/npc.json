@@ -1072,13 +1072,14 @@
    "id": "kasztelan_wylis",
    "imie": "ser Wylis",
    "zawod": "KASZTELAN-STEWARD Nowego Zamku (od 297-10-09; wczesniej poborca cel) - nad calym zaopatrzeniem zamku",
-   "nastawienie_do_gracza": 16,
+   "nastawienie_do_gracza": 17,
    "zaufanie": 12,
    "ostatni_kontakt": "297-10-14",
-   "flaga": "KASZTELAN skrupulatny (celnik). Stala umowa ODROCZONA (nie w 1. miesiac urzedu, optyka post-pierscien; dowoz pod jego okiem->revisit po glebokiej zimie). Nast 16. FIREWALL: zaczal weszyc zaplecze firmy (kapital/czyje pieniadze) - pilnowac. Read wczesniej: uczciwy/pewnosc dostawy. Refi-seed: dlugofalowo mozliwy sojusznik ale najpierw dowiedziona dostawa+ostroznosc z ciekawoscia o zaplecze.",
+   "flaga": "KASZTELAN skrupulatny (celnik). Stala umowa ODROCZONA - REALNY obstacle=FIREWALL/opaczne zaplecze firmy (Wylis due-diligence tknela kapital/czyje pieniadze; post-pierscien nie rygluje z niejasnym backingiem). NIE wina Symona (Wylis zaprosil). Nast 17. Sciezka: dowiedziona dostawa + rozjasnic/oczyscic zaplecze (refi Antaryon) = stala umowa dojrzeje. Firewall=tarcza I kajdany.",
    "wie_o_graczu": [
     "297-10-10 (rzut 81): pierwszy kontakt jako kasztelan. Symon zagral liczbami (czysta ksiega, bufor frost-proof, klauzula kary nigdy nie odpalona). Wylis przeswietlil ksiege jak celnik - wytrzymala co do miedziaka; docenil uczciwa ksiege po korupcji pierscienia. Skupiony na PEWNOSCI dostawy=uczciwy. Ceni firme jako niezawodna reke, stały kontrakt odzywa. nast 0->18 zauf 0->12.",
-    "297-10-14 (rzut 7): Symon przyszedl domknac stala umowe prowiantowa. Wylis ODROCZYL - skrupulatny celnik-kasztelan 2 tyg po objeciu, wyczulony na optyke po pierscieniu (przytulne umowy z dostawcami=jak zgnili poprzednicy); nie zaryglowa stalej umowy w 1. miesiac choćby najczystszej. Sciezka: dowoz pod moim okiem przez zime, wtedy pogadamy. DWA ukłucia (rzut 7): (1) pospiech Symona ku zaryglowaniu odczytany lekko samolubnie (czemu ci spieszno) - nast 18->16; (2) celnik zaczal WESZYC ZAPLECZE firmy (skad kapital/czyje pieniadze za tak pewna reka), Symon zdeflektowal ale Wylis zapamietal luke - FIREWALL do pilnowania (Antaryon/Braavos). Odmowa uczciwa/rozsadna nie wroga."
+    "297-10-14 (rzut 7): Symon przyszedl domknac stala umowe prowiantowa. Wylis ODROCZYL - skrupulatny celnik-kasztelan 2 tyg po objeciu, wyczulony na optyke po pierscieniu (przytulne umowy z dostawcami=jak zgnili poprzednicy); nie zaryglowa stalej umowy w 1. miesiac choćby najczystszej. Sciezka: dowoz pod moim okiem przez zime, wtedy pogadamy. DWA ukłucia (rzut 7): (1) pospiech Symona ku zaryglowaniu odczytany lekko samolubnie (czemu ci spieszno) - nast 18->16; (2) celnik zaczal WESZYC ZAPLECZE firmy (skad kapital/czyje pieniadze za tak pewna reka), Symon zdeflektowal ale Wylis zapamietal luke - FIREWALL do pilnowania (Antaryon/Braavos). Odmowa uczciwa/rozsadna nie wroga.",
+    "KOREKTA 10-14: to WYLIS zaprosil do stalej umowy, nie Symon sie pchal - wiec zdjeta falszywa rysa pospiechu. Spojnie: Wylis chcial formalizowac, ale jego celnicza due-diligence siegnela po ZAPLECZE (skad kapital za kara-na-siebie/buforem), a opaczne firewallowane zaplecze zaniepokoilo skrupulanta - po pierscieniu nie zarygluje stalej umowy z firma ktorej backingu nie przejrzy. To JEGO ostroznosc nie blad Symona (nast 18->17, dynamika ostygla od kwestii zaplecza). REALNY OBSTACLE: firewall chroni Symona ale i OGRANICZA (uczciwy celnik nie da stalej umowy firmie z backingiem w mroku) - wiaze sie z refi/Antaryonem (czyste zaplecze=znika przeszkoda)."
    ]
   },
   {

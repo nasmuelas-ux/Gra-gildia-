@@ -49,7 +49,8 @@
   "geometria": 4,
   "czytanie_ludzi": 9,
   "organizacja": 8,
-  "audyt": 9
+  "audyt": 9,
+  "finanse": 4
  },
  "jezyki_znane": [
   "mowa powszechna",
@@ -161,7 +162,8 @@
   "jezyki": 75,
   "spryt_uliczny": 130,
   "handel": 157,
-  "geometria": 22
+  "geometria": 22,
+  "finanse": 8
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
  "weksle_wystawione_jel": 200,

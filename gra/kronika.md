@@ -6859,3 +6859,8 @@ MAPA nauki (jego, świat-spójna):
 - **Ostrze monety/kredytu/ryzyka = BRAAVOS** (Żelazny Bank liczy jak nikt), drzwi przez Nestę/Mirę. Klasyczny fundament od Theomore; żywa granica zza morza.
 
 Maester ceni Symona coraz mocniej jako **umysł** — waluta tego kanału (pomost ku uchu lorda / Winterfell). Nowy wątek: nauka_liczenia_frontier. Theomore nast+2/zauf+2. Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-21 POPOŁUDNIE→WIECZÓR — Nauka braavijskiej matematyki (nowa umiejętność FINANSE)
+Symon chciał uczyć się braavijskiej matematyki od Nesty — ale (spójnie z 09-30: „nauczyłam cię wszystkiego, co umiem, poszedłeś dalej") Nesta nie może być tu nauczycielką: głęboka matematyka monety/ryzyka/procentu (poziom Żelaznego Banku) jest ponad nią (faktor, nie bank-quant), tak jak ponad Cytadelą. Rola Nesty = **drzwi, nie mistrz**: daje braavijskie księgi, które ma pod ręką (jak te, z których Symon sam wyczytał weksle/commendę 01-30), i pośle do Braavos po traktaty (moneta/ryzyko, krąg Banku przez Belarna). Symon uczy się **sam z tekstu** (jego natura) + wynajduje metodę na froncie.
+
+**Nowa umiejętność: `finanse`** (matematyka finansowa/braavijska) — odrębna zaawansowana dyscyplina ponad rachunkami; start 4 (mocny fundament z rachunków 10 + instrumentów). Haczyk: Braavos zamarznięty — grubsze traktaty przypłyną wolno, gdy lód puści; dziś fundament z ksiąg na ręce. To „żywa granica zza morza" Theomore'a — część drogi Symon robi jako pierwszy. Duma Nesty: uczeń przerósł mistrza. Pora POPOŁUDNIE→WIECZÓR.

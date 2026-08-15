@@ -6703,3 +6703,16 @@ Gracz słusznie: **twardy dowód już był**. Kanon **07-23 (rzut 100, kryt):** 
 **Charakter:** pyszny pęd Symona wczoraj to było zapomnienie, że **połowę bitwy już wygrał** — dowód gotowy od lipca, Bank w ruchu. Gonił całość, nie widząc, jak blisko jest końca. Belarno nast 26 / zauf 8 hold (gate był artefaktem, nie frykcją).
 
 **DECYZJA (właściwa):** ridować ruch Banku (może sam poluzuje/zerwie smycz) · pchać principal-refi jako szybszy pewny wykup · koordynować oba.
+
+## 297-10-14 POŁUDNIE — Opcja B: pchać wykup (rzut 17, porażka dystansu/pory) + korekta (Bank uderzył 08-13)
+Gracz słusznie: **„bank przecież już ruszył się"**. Kanon **08-13 (rzut 100, kryt):** Żelazny Bank **uderzył decydująco** — skonfrontował Antaryona oszustwem frachtowym (jako „własny audyt"), zrestrukturyzował jego zobowiązania na karzących warunkach, **rozbił aparat zdzierstwa**. Antaryon upokorzony i **na smyczy** (nie unicestwiony — Bank trzyma ujarzmionego klienta); „czyja ręka" **upadło**, Symon niewidzialny (firewall kryt-100). **Détente 10-06 = owoc tego uderzenia.** (Moje wczorajsze „Bank w fazie decyzji" było beatem z 08-08; pięć dni później już uderzył.)
+
+**Więc endgame jest ~90% wygrany.** Ciężką część zrobił Bank. Zostaje **mop-up:** wykupić ~90 smoków długu spod osłabionego Antaryona = pełne oczyszczenie zaplecza (odblokowuje Wylisa) + wolność Nesty.
+
+**Opcja B (aktywny wykup przez pryncypała) — uruchomiona.** Re-approach gotowy i słuszny: proof-gate spełniony, Antaryon złamany (wykup nisko-ryzykowny — dokładnie „ograniczone ryzyko", którego pryncypał zawsze chciał), standing + imię Symona na czystej stronie. Belarno bierze **chętnie, zero gate**.
+
+**Ale rzut 17 — porażka dystansu i pory, nie meritu:**
+- **Przedzimie zamyka szlaki morskie do Braavos.** Linia Belarna weather-held, listy pryncypała wolne przez lód (kanon: korespondencja Braavos gated na pogodę).
+- **Belarno radzi wysłać ostrożnie, bez pośpiechu** — imię Symona jest **nowo-jawne** tak świeżo po tym, jak Bank upokorzył Antaryona; dyscyplina firewalla każe nie ocierać jawnego imienia o niewidzialne źródło dowodu, póki pył nie opadł. „Imię na pożyczce, nie na nożu."
+
+**Wynik:** refi **w drodze**, ale na zegarze braavijsko-zimowym (tygodnie–miesiące; pewne przejście może czekać na okno pogodowe / odwilż). Brak domknięcia dziś, bez uszczerbku na relacjach. **Lekcja (znajoma, łagodna):** ten ostatni krok idzie tempem Braavos i zimy, nie pośpiechem Symona. Belarno nast 26 / zauf 8 hold.

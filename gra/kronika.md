@@ -6719,3 +6719,10 @@ Gracz słusznie: **„bank przecież już ruszył się"**. Kanon **08-13 (rzut 1
 
 ## 297-10-14 POŁUDNIE→POPOŁUDNIE — Zarobkowanie (rzut 13, chuda sesja)
 Symon wrócił do maszyny — chciał wziąć premium audyt swoim atutem, ale popołudnie okazało się chude: premium robota nie dojrzała (klienci nie gotowi, backlog cienki po tym, jak Hal/Corliss go przetrzebili). Zamiast tworzyć, Symon **doglądał i utrzymywał**: przejrzał kilka retainerów z Halem, dobił drobne per-zlecenie, ustawił kolejkę Lorrenowi na jutro. Nic się nie psuje — księgi czyste, pieczęć trzyma, brand premium stoi — ale świeżego grosza mało: **+3 jel (118→121)**. Zwykły, nudny dzień dobrze naoliwionej firmy; czasem robota to tylko robota. Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-15 RANEK→POŁUDNIE — Mira do Elny (rzut 13, porażka stanu nie metody)
+Symon dał Mirze środki — opał, grosz, kanał (~2 jel, kasa 120→118) — i puścił ją przodem: tarcza zza pleców, ona twarzą. Plan słuszny: wdowa od wdowy, godność nie jałmużna.
+
+**Rzut 13 — porażka, ale nie Miry i nie metody (echo Serli).** Mira zagrała bezbłędnie. Rzecz w Elnie: dziś na twardym, dumnym, wychartym dnie — i wyszło coś więcej, niż zakładaliśmy. Elna **nie tylko marznie: choruje** (kaszel, wychudzona, ogień skąpy) i **ukrywa to ze wstydu**. Ciepło nie chwyciło w jeden raz; była grzeczna, ale zamknięta, robotę przy suknie przyjęła pół-sercem (duma). Opał i grosz Mira zostawiła — ulga materialna dociera niezależnie — a więzi nie zraniła (za dobra na to).
+
+Ale łatwy plan („kosz + robota = załatwione") **nie wystarcza.** To głębszy, dłuższy, tkliwszy problem: chora i dumna kobieta potrzebuje nie jednorazowego kosza, lecz **cierpliwej, powtarzanej obecności Miry** i delikatnego zajęcia się jej **zdrowiem** (kanały: Owen/septa, zielarka, opał, kołodzieje) — bez czynienia z niej ani żebraczki, ani chorej-do-litości. Mira wraca nie pokonana, lecz z prawdziwszą diagnozą. Elna nast ~21 (bez urazy, bez przełomu).

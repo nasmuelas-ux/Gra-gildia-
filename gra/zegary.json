@@ -452,6 +452,12 @@
    "odlicza_do": "297-10-19",
    "co_sie_stanie": "przybycie partii zelaza (~10-18/21): rzut na ryzyko morza; jesli dobije - marza + kanal sprawdzony; Boren odbiera",
    "widoczny_graczowi": true
+  },
+  {
+   "id": "elna_chora",
+   "typ": "opieka/ludzki",
+   "stan": "",
+   "opis": "297-10-15 POLUDNIE (Mira, rzut 13): Elna wdowa (wyrwana Lorrenowi) nie tylko marznie ale CHORUJE/zaniedbuje sie, ukrywa ze wstydu. Mira zagrala bezblednie (wdowa-od-wdowy) ale przelomu brak w jeden raz; opal/grosz zostawione, wiez nie zraniona. Potrzeba cierpliwej obecnosci Miry+delikatnego zajecia sie zdrowiem (septa/zielarka/opal), bez litosci/jalmuzny. Elna nast ~21."
   }
  ]
 }

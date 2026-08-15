@@ -6822,3 +6822,6 @@ Ruszyliście torem A (z B na tym samym wozie): przez Leonę i sieć Miry Symon p
 **Strukturalny win:** prowiant teraz **multi-sourced + multi-route** (frost-vulnerability mocno de-risked), korytarz z północną nogą (mniej hostage wobec Braavos), i to jest **pierwsze piętro C** — północna głębia, która z czasem uwolni firmę od zależności od pogody na Wąskim Morzu (dokładnie, o czym mówiła Nesta). Wzmacnia też case Wylisa (multi-source = jeszcze robustniejsza dostawa = mocniejszy proof stałej umowy).
 
 Głęboka Północ (Halvard) dalej frozen-out — realnie, zima trzyma rzekę skutą — ale near-North to dokładnie to, czego było trzeba. Leona brokerowała: jej dojścia okazały się kluczem, więź rośnie (zauf +1). Koszt ~5 jel (kasa 42→37). Dojrzały strateg nagrodzony — proaktywne de-ryzykowanie zwróciło się z nawiązką. Pora POPOŁUDNIE→WIECZÓR.
+
+## 297-10-18 WIECZÓR — Wieczorna sesja zarobkowa (rzut 17, chudo)
+Symon odpoczął, zjadł i wcisnął jeszcze wieczorną sesję — ale zmęczony po ciężkim dniu, przy mrozie i skulonym mieście maszyna zmieliła leniwie (retainery, drobiazg). +3 jel (37→40). Dzień był długi: dostawa uratowana w mrozie, bufor odbudowany, dywersyfikacja północna domknięta.

@@ -6664,3 +6664,16 @@ Po odroczeniu stałej umowy (rzut 7) Symon nie pchał się dalej — wybrał inn
 **Rzut 13 — porażka proporcjonalna.** Gest nie domyka pytania. Wylis to wytrenowany celnik: idzie za pieniądzem do końca. Śledząc czysty łańcuch kapitału, dochodzi do braavijskiej geografii — tej samej krawędzi, którą firewall trzyma w cieniu. Częściowa jawność wobec akurat takiego czytelnika działa słabo. Stały kontrakt nie ruszył. ALE dobrowolne otwarcie ksiąg sceptykowi to uczciwa intencja — **zaufanie 12→13** (nastawienie 17, relacja nieuszkodzona). „Ręka pewna, księgi czyste, ale pieniądz ma dom w Braavos, którego nie widzę."
 
 **Lekcja skrystalizowana:** stały kontrakt jest zaryglowany na REFI (rozjaśnienie/oczyszczenie zaplecza Antaryon), nie na kolejne gesty. Dowiedziona dostawa pod okiem Wylisa trzyma go ciepło; tylko czyste zaplecze otwiera zamek. Firewall = tarcza i kajdany.
+
+## 297-10-14 POŁUDNIE — Symon wchodzi w refi WŁASNYM NAZWISKIEM (decyzja arcowa, bez rzutu)
+Gracz zawrócił do ciągłości — słusznie. Nie świeża mapa: refinansowanie ustaliliśmy Dnia 20 m.8, a przez miesiące zbudowaliśmy **doktrynę Symona-ducha** (firewall absolutny; źródło = pozycja śmiertelna; faza2 domknięta 09-30 z firewallem Antaryona **nietkniętym**). Na tym tle Symon wybiera wejść w refi długu Nesty **własnym imieniem**.
+
+Nesta — architektka niewidzialności — najpierw **nazywa napięcie**, potem sama je godzi, rozdzielając **dwie ręce**:
+- **STRONA KREDYTOWA / REFI — jawna.** Imię Symona (kupiec, mąż, człowiek pod okiem lorda) poręcza *czystą* pożyczkę, która spłaca Antaryonów. Po détente to ruch **nie-wrogi**: Antaryon, krótki na gotówce, dostaje swoje ~90 smoków z powrotem — może sam odetchnie; przejęcie i tak OFF. **To właśnie czyni zaplecze jawnym/weryfikowalnym dla Wylisa — cały cel.**
+- **STRONA DŹWIGNI / karta celna / customs-keystone — w cieniu.** Źródło Symona zakute absolutnie; tu Antaryon ma powód ścigać. „**Imię na pożyczce tak, imię na nożu nigdy — to dwie różne ręce.**"
+
+Doktryna niewidzialności **nie upada — ewoluuje**: dotyczyła covert-ataku słabego nieznajomego; dziś, po détente + uchu lorda + publicznej tarczy (faza2), strona kredytowa może wyjść na światło, strona dźwigni nie. To jest dokładnie „wyjście z cienia na światło cnoty" z meta-wątku — Symon jako człowiek stojący w świetle, własną skórą na obligacji, wspólnik-równy, nie schowany za Nestą.
+
+**Koszt świadomy** (Nesta ostrzy): imię Symona to jego najcenniejszy atut — klucz do drzwi Winterfell (nieskazitelność). Wiążąc je z braavijskim kredytem, wystawia się na smear („uczciwy pisarz lorda uwikłany w obcy dług") i na ranę, jeśli refi się poślizgnie. Zarządzalne, nie zerowe.
+
+**Realna mapa refi (kanon, nie reset):** pryncypał Nesty = realna droga, **gated na twardy dowód** (dossier celne); Żelazny Bank raz już odmówił (296-10, „za mali", drzwi uchylone) — dziś standing Symona podnosi wiarygodność kredytową; Belarno = żywy bufor. **Nesta zauf 60→62** (głębszy szacunek). NEXT: domknąć dossier celne + re-approach pryncypała, teraz gdy standing jest.

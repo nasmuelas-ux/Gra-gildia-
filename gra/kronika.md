@@ -6716,3 +6716,6 @@ Gracz słusznie: **„bank przecież już ruszył się"**. Kanon **08-13 (rzut 1
 - **Belarno radzi wysłać ostrożnie, bez pośpiechu** — imię Symona jest **nowo-jawne** tak świeżo po tym, jak Bank upokorzył Antaryona; dyscyplina firewalla każe nie ocierać jawnego imienia o niewidzialne źródło dowodu, póki pył nie opadł. „Imię na pożyczce, nie na nożu."
 
 **Wynik:** refi **w drodze**, ale na zegarze braavijsko-zimowym (tygodnie–miesiące; pewne przejście może czekać na okno pogodowe / odwilż). Brak domknięcia dziś, bez uszczerbku na relacjach. **Lekcja (znajoma, łagodna):** ten ostatni krok idzie tempem Braavos i zimy, nie pośpiechem Symona. Belarno nast 26 / zauf 8 hold.
+
+## 297-10-14 POŁUDNIE→POPOŁUDNIE — Zarobkowanie (rzut 13, chuda sesja)
+Symon wrócił do maszyny — chciał wziąć premium audyt swoim atutem, ale popołudnie okazało się chude: premium robota nie dojrzała (klienci nie gotowi, backlog cienki po tym, jak Hal/Corliss go przetrzebili). Zamiast tworzyć, Symon **doglądał i utrzymywał**: przejrzał kilka retainerów z Halem, dobił drobne per-zlecenie, ustawił kolejkę Lorrenowi na jutro. Nic się nie psuje — księgi czyste, pieczęć trzyma, brand premium stoi — ale świeżego grosza mało: **+3 jel (118→121)**. Zwykły, nudny dzień dobrze naoliwionej firmy; czasem robota to tylko robota. Pora POŁUDNIE→POPOŁUDNIE.

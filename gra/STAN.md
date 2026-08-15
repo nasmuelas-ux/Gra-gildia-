@@ -9,7 +9,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Nastroje:** 297-10-14 POLUDNIE (KOREKTA: Bank JUZ UDERZYL 08-13; opcja B pchac refi - rzut 17 porazka dystansu/pory): Gracz slusznie 'bank przeciez juz ruszyl' - kanon 08-13 (rzut 100): ZELAZNY BANK UDERZYL DECYD
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 118 jeleni + 1 mied + 0 smokow
+- **Wolne:** 121 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

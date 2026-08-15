@@ -6849,3 +6849,13 @@ Symon spytał Mirę, czy myślała o przeniesieniu centrum z Białego Portu. Mir
 
 ## 297-10-21 RANEK→POŁUDNIE — Prospekty + zarobek (rzut 10, cichy dzień)
 Symon zjadł i zrobił podwójną sesję (cicha budowa prospektów przez ciepłe kanały + zwykły zarobek). Chudo: Lorren pracował kanały, ale nic dziś nie dojrzało (cicha akwizycja jest cierpliwa — bywają puste dni), robota zmieliła leniwie. +3 jel (52→55). Bez szkody — pipeline ciepły, maszyna zdrowa, po prostu spokojny dzień. Pora RANEK→POŁUDNIE.
+
+## 297-10-21 POŁUDNIE→POPOŁUDNIE — U Theomore'a o matematyce (bez rzutu; karmienie umysłu + szczebel)
+Symon przyszedł do maestera pogadać o liczbach jako abstrakcji, o swojej geometrii i o tym, czego jeszcze uczyć się do lepszego liczenia (logistyka/zaopatrzenie/„statystyka"). Theomore uradowany: „większość liczy rzeczy — ty zacząłeś myśleć o liczbach samych; to granica między rachmistrzem a uczonym."
+
+MAPA nauki (jego, świat-spójna):
+- **Klasyka od Cytadeli/Theomore:** złote ogniwo (moneta/rachunki/ekonomia/procent/proporcje — teoria pod praktykę), geometria stosowana (miernictwo/objętości/pojemności = logistyka/skład/ładunek), astronomia+computus (pory/przypływy/kalendarz = timing dostaw, frost-window), abakus (szybkość).
+- **Frontier (Cytadela NIE ma spisanego, Symon już robi intuicyjnie):** wzory w masie liczb (leading-digits/agregat), prawdopodobieństwo/ryzyko (underwriting) = proto-statystyka. „Robisz coś nienazwanego — byłby traktat."
+- **Ostrze monety/kredytu/ryzyka = BRAAVOS** (Żelazny Bank liczy jak nikt), drzwi przez Nestę/Mirę. Klasyczny fundament od Theomore; żywa granica zza morza.
+
+Maester ceni Symona coraz mocniej jako **umysł** — waluta tego kanału (pomost ku uchu lorda / Winterfell). Nowy wątek: nauka_liczenia_frontier. Theomore nast+2/zauf+2. Pora POŁUDNIE→POPOŁUDNIE.

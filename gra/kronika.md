@@ -6965,3 +6965,8 @@ Biały kruk wstrząsnął rynkiem (ceny skaczą, panika-skup); dzień Symona pos
 Po białym kruku Symon skupił mądrze: sól (zimowy ścisk najmocniej), zboże, opał — od dobrych źródeł, **poniżej prawdziwego szczytu** (intel Deman/Hollis/ceny; widzi dalej niż panikujący tłum), Aurane sztauuje. Dyscyplina Nesty: ~35 jel commit (kasa 83→48), płynność + bufor nietknięte. Pozycja ~35 jel **aprecjuje przez zimę** (oficjalna twarda zima = ścisk pewny).
 
 **Charakter zachowany:** to nie hoarding-gouge, lecz **zdolność dostawy** — zasili prowiant/relief/klientów przez ścisk + uczciwy zysk z nieuniknionego wzrostu = **stabilizator rynku**, nie spekulant na głodzie (odwrotność hoarderów, którzy będą wrogami, gdy zima przyciśnie). Zysk realizuje się przez zimę (sprzedaż/użycie apreciowanego zapasu). Nowy wątek: skup_staple_zima_10_28. Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-28 POPOŁUDNIE→WIECZÓR — Czytanie pór roku u Theomore'a (bez rzutu; season-reading + zasób)
+Symon pytał, jak czytać pory roku/wieści po białym kruku. Theomore (kanon-prawda): pory PLIO nieregularne, latami, NIEPRZEWIDYWALNE — Cytadela mierzy, nie rozumie; ogłasza, nie wróży (kruk = początek, nie prognoza długości; przyczyna pór to mystery, szept o magii/starych mocach). ALE **znaki się czyta**: kroniki dawnych zim, lód/ptactwo/plon/tempo spadku temperatur → OSĄD (nie proroctwo), lepszy zakład niż tłum czytający strach.
+
+Theomore **otworzył Symonowi kroniki pór roku zamku** (wieki obserwacji, zapisy zim Północy) do wspólnej nauki: „kto prowiantuje zimę i umie odczytać, czy będzie krótka czy zabójcza, wie lepiej — różnica między fortuną a wozem pod lodem." Nowy wymiar włodarstwa (season-reading), spina z intel/skup staple/logistyka/timing. Theomore nast+2/zauf+1. Pora POPOŁUDNIE→WIECZÓR.

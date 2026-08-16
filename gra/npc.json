@@ -2261,14 +2261,15 @@
    "wiek": 33,
    "zawod": "agent handlowy - relacje klienckie: podtrzymuje obecnych + POWOLI nowych; TERAZ priorytet=audyty/zlecenia od OBECNYCH klientow",
    "nastawienie_do_gracza": 18,
-   "zaufanie": 10,
+   "zaufanie": 12,
    "cechy_mowy": "towarzyski, lekki, latwo nawiazuje",
    "flaga": "STAFF: platny agent-prowizja, nie pryncypal",
-   "ostatni_kontakt": "297-10-06",
+   "ostatni_kontakt": "297-10-31",
    "stan": "mieszczanin",
    "wie_o_graczu": [
     "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda).",
-    "297-10-06: rola doprecyzowana - (1) podtrzymuje relacje z obecnymi, (2) pozyskuje nowych bardzo powoli (ciepłe wprowadzenia, nie hustle), (3) TERAZ priorytet: wyciagac audyty/zlecenia od obecnych klientow. Ma arkusz uslug/cen. Budowa machiny."
+    "297-10-06: rola doprecyzowana - (1) podtrzymuje relacje z obecnymi, (2) pozyskuje nowych bardzo powoli (ciepłe wprowadzenia, nie hustle), (3) TERAZ priorytet: wyciagac audyty/zlecenia od obecnych klientow. Ma arkusz uslug/cen. Budowa machiny.",
+    "297-10-31 (rzut 84): samodzielnie domknal audyt Doryana (skim dostawcy potwierdzony/udokumentowany) gdy Symon byl w gore doliny - agent robi swoje, firma stoi bez pryncypala. Fee+retainer, cieply peer-referral zasiany."
    ]
   },
   {
@@ -2435,11 +2436,12 @@
    "stan": "mieszczanin-kupiec",
    "zawod": "kupiec suchym towarem/zapasami (Schody), sredni obrot",
    "mieszka": "Schody",
-   "nastawienie_do_gracza": 58,
-   "zaufanie": 15,
-   "ostatni_kontakt": "297-10-20",
+   "nastawienie_do_gracza": 70,
+   "zaufanie": 24,
+   "ostatni_kontakt": "297-10-31",
    "wie_o_graczu": [
-    "297-10-20 (rzut 48): NOWY KLIENT przez cieply referral Lorrena (od zadowolonego klienta). Podejrzewal skim dostawcy - Symon wziął audyt+retainer, domknal czysto (+5 jel initial + ~3 jel/mies). Ceni dyskretnego rzetelnego reckonera lord-connected. Cicha, wlasciwa akwizycja (zaufany kanal, nie glosne lowy)."
+    "297-10-20 (rzut 48): NOWY KLIENT przez cieply referral Lorrena (od zadowolonego klienta). Podejrzewal skim dostawcy - Symon wziął audyt+retainer, domknal czysto (+5 jel initial + ~3 jel/mies). Ceni dyskretnego rzetelnego reckonera lord-connected. Cicha, wlasciwa akwizycja (zaufany kanal, nie glosne lowy).",
+    "297-10-31 (rzut 84, firma zrobila to BEZ Symona): gdy Symon budowal siec w gore doliny, LORREN (agent) domknal forensyczny audyt Doryana - POTWIERDZIL podejrzewany skim dostawcy (drobny staly wyciek na dostawach suchego towaru), udokumentowal czysto. Doryan wdzieczny+pod wrazeniem ze firma dziala pewnie nawet gdy pryncypal w terenie. Placi fee + retainer trwa; wspomnial o peer-kupcu z podobnym klopotem (cieply referral w drodze). nast 58->70, zauf 15->24. WALIDACJA: cicha firma zarabia i buduje reputacje BEZ Symona."
    ]
   },
   {

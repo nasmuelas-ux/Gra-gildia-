@@ -6913,3 +6913,6 @@ Symon stanął przed Ser Harrolem bez zarzutu: owned wprost („moja dostawa, m�
 Make-good wziął grudgingly; relacja spadła (nast 40→30, zauf 12→8), kontrakt **na włosku** — ratuje go tylko dowiedziona bezbłędna dostawa (teraz przez trasy wetowane przez Hollisa).
 
 **Ale to nie porażka charakteru Symona** (echo Serla/Elna/Aurane: właściwy ruch + zły stan drugiej strony). Zrobił dokładnie, co należało; proud, wystraszony rycerz po prostu nie nagrodził tego w swojej złej godzinie. Szersza reputacja Symona **nietknięta, wręcz mocniejsza** (Hew/Boren/Godric widzieli charakter); Harrol nie może wiarygodnie go obszczekać (brzmiałby jak niewdzięcznik). Chłód lokalny i odwracalny — dowodem. **Kryzys brodu zamknięty:** Hew uratowany (crit), system naprawiony (Hollis), Harrol chłodny-ale-odwracalny. Zamek bezpieczny. Pora POPOŁUDNIE.
+
+## 297-10-24 RANEK→POŁUDNIE — Zarobkowanie (rzut 79, tłusto; linia firma-faktorska)
+Firma faktorska (bieżąca gotówka wg modelu marż) robi swoje: premium audyt z Corlissem, retainery Hala, Doryan. +12 jel (37→49). Pora RANEK→POŁUDNIE.

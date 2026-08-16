@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 21,
+  "dzien": 22,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 78,
- "dzien_tygodnia_nr": 2,
- "dzien_targowy": "targ rybny (dzien podzielny przez 3)",
- "nastroje_miasta": "297-10-21 RANEK (mroz zelzal, jasniejszy chlodny dzien, pogoda 78; targ rybny): spokojny poranek. Milsza pogoda=trakty przejezdne, gladkie operacje dla zdywersyfikowanej maszyny. Inbound spokojny (52). WCZORAJ: rozmowa o przeprowadzce -> wniosek: serce na Polnocy (gwiazda=rada Starkow biegnie przez Bialy Port/Manderlych), macki firmy ku Braavos bez wyrywania korzeni. Reszta: maszyna prowiantowa twarda+zdywersyfikowana, bufor odbudowany, Wylis nast 21 (stala umowa: 1 czysta zima), nowy klient Doryan, refi zegar zimowy, relief napelniony/Elna odtaja, dziecko-nadzieja. biały kruk Cytadeli ~297-11 (zbliza sie). Kasa 52.",
+ "pogoda": 35,
+ "dzien_tygodnia_nr": 3,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-10-22 RANEK (szaro, zimno, wilgotno, pogoda 35): INBOUND 71 - GODRIC (zarzadca zamku, 93/56) przyslal slowo: po frost-proof niezawodnosci Symona (uratowana dostawa w mrozie + dywersyfikacja) zamek kontent, a Godric FLOATUJE REFERRAL - inny holding/dwor (pomniejszy) szuka pewnej reki do prowiantowania przez zime; moze polaczyc. OKAZJA: rozszerzenie zasiegu prowiantowania/wlodarstwa POZA jeden zamek (krok ku domenowej reputacji stewarda - rdzen gwiazdy). Leveraguje zahartowana zdywersyfikowana maszyne + nowy skill wlodarstwo. Reszta: refi zegar zimowy, korytarz (welny), relief napelniony/Elna odtaja, dziecko-nadzieja, nauka finansow (self-study). Kasa 55. biały kruk Cytadeli ~297-11 zbliza sie.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 21,
+ "dzien": 22,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

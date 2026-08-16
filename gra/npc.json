@@ -1090,9 +1090,9 @@
    "id": "kasztelan_wylis",
    "imie": "ser Wylis",
    "zawod": "KASZTELAN-STEWARD Nowego Zamku (od 297-10-09; wczesniej poborca cel) - nad calym zaopatrzeniem zamku",
-   "nastawienie_do_gracza": 23,
-   "zaufanie": 16,
-   "ostatni_kontakt": "297-10-25",
+   "nastawienie_do_gracza": 25,
+   "zaufanie": 18,
+   "ostatni_kontakt": "297-11-05",
    "flaga": "KASZTELAN skrupulatny (celnik), WARM-UP w toku. 10-16 (rzut 90): Symon zaproszony (Godric) domknal SKALOWANIE wolumenu prowiantu zimowego oferta-lancuchem (podaz->sklad Aurane->wozy Borena->zamek + bufor frost-proof + czysta ksiega), strategia dowodzic-nie-pchac. Wylis pod wrazeniem kompletnosci/pewnosci. WOLUMEN SKALOWANY (filar rosnie). STALA UMOWA wyraznie blizej: jedna czysta zima dowozu pod jego okiem = jego do podpisu (nie dzis, optyka 1. miesiaca; near-certain jak dostawa trzyma). Firewall HELD (nie dopytywal o zaplecze). nast 17->20 zauf 13->16. Sciezka: dowozic bezblednie przez zime -> stala umowa; refi rozjasni zaplecze docelowo.",
    "wie_o_graczu": [
     "297-10-10 (rzut 81): pierwszy kontakt jako kasztelan. Symon zagral liczbami (czysta ksiega, bufor frost-proof, klauzula kary nigdy nie odpalona). Wylis przeswietlil ksiege jak celnik - wytrzymala co do miedziaka; docenil uczciwa ksiege po korupcji pierscienia. Skupiony na PEWNOSCI dostawy=uczciwy. Ceni firme jako niezawodna reke, stały kontrakt odzywa. nast 0->18 zauf 0->12.",
@@ -1101,7 +1101,8 @@
     "297-10-14 POLUDNIE (rzut 13): W odpowiedzi na jego ostroznosc Symon (z Nesta) zagral KONTROLOWANA JAWNOSCIA - dobrowolnie otworzyl ksiegi i obrot firmy, pokazal legalne braavijskie faktorowanie jako zaplecze (Nesta jawnie, sukno Miry, filary zamkowe), a osobisty dlug Nesty (Antaryon) zostawil poza - bo to jej osobna sprawa, nie firmy. Wylis DOCENIL gest (firma ktora sama otwiera ksiegi skeptykowi=rzadkosc; zauf +1 do 13), ale jako wytrenowany celnik poszedl za lancuchem kapitalu i dotknal braavijskiej geografii - czysty lancuch, sledzony do konca, wskazuje na to samo zaplecze co firewall. Wiec czesciowa jawnosc go nie uspokoila w pelni: reka pewna, ksiegi czyste, ale pieniadz ma dom w Braavos ktorego nie widze. Staly kontrakt dalej odlozony - nie na brak uczciwosci (tej teraz ufa bardziej) ale na strukturalna nieprzejrzystosc zaplecza. Relacja cieplejsza w zaufaniu, twardsza w wymaganiu: dowoz + czyste zaplecze (refi).",
     "297-10-16 RANEK (rzut 90): Symon przyszedl (zaproszony przez Godrica) z oferta SKALOWANIA prowiantu zimowego - nie gadanie lecz liczby: kompletny lancuch podaz(Merek/Harlon)->sklad(Aurane)->wozy(Boren)->zamek, bufor frost-proof, ksiega co do miedziaka, strategia dowodzic-nie-pchac. Wylis (numeryczny celnik) przeswietlil i uznal to za dokladnie pewnosc dostawy ktorej chce na gleboka zime. WOLUMEN WZIETY/skalowany. Zasygnalizowal: to jest ten 'dowoz pod moim okiem' - jedna czysta zima i stala umowa jego do podpisu. Firewall held (skupiony na dostawie, nie dopytywal o zaplecze). nast 17->20, zauf 13->16.",
     "297-10-18 (rzut 7, Symon-side): gleboki mroz omal nie zerwal dostawy (trakt zamarzl/zrodlo zasypane), ale Symon uratowal wypalajac rezerwe bufora+haul Borena+2. zrodlo. Z OUTSIDE VIEW Wylisa: dostawa DOSZLA rzetelnie w mrozie co zatrzymal innych = dokladnie dowod ktorego chce (nast 20->21). Wylis NIE wie ile to kosztowalo/ze bufor spalony - widzi tylko niezawodnosc. Proof stalej umowy tyka dalej.",
-    "297-10-25 (rzut 79): dostawa zamkowa SUSTAINED przez zabojczy mroz (pogoda 7) gdy trakty staly lodem - dokladnie dowod 'jednej czystej zimy', ktorego chcial pod stala umowe. Dowozi gdy inni marzna. Proof stalej umowy MOCNIEJE. nast 21->23."
+    "297-10-25 (rzut 79): dostawa zamkowa SUSTAINED przez zabojczy mroz (pogoda 7) gdy trakty staly lodem - dokladnie dowod 'jednej czystej zimy', ktorego chcial pod stala umowe. Dowozi gdy inni marzna. Proof stalej umowy MOCNIEJE. nast 21->23.",
+    "297-11-05 (rzut 51, zabojczy sztorm pogoda 2): dostawa zamkowa UTRZYMANA w morderczym sztormie na to co osiagalne (castle-first priorytet) gdy pol miasta stanelo - dokladnie 'jedna czysta zima' test w akcji. Wylis (outside view) widzi rzetelna reke co dowozi gdy inni marzna. nast +2, zauf +2. Proof stalej umowy MOCNIEJE."
    ]
   },
   {

@@ -5,12 +5,12 @@
   "dzien": 5,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 2,
  "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-05 RANEK (ZABOJCZY SZTORM/mroz, pogoda 2; INBOUND 81 pilny): w nocy spadl brutalny zimowy sztorm - lodowaty wicher, snieg, morderczy mroz (pogoda 2, najgorsza od dawna; oddech twardej zimy z bialego kruka 10-28). Miasto sparalizowane, keje puste, ludzie w domach, opal skacze (rozpaczliwy popyt). PILNY INBOUND: Wiara/Bran sla slowo o swicie - ubodzy w SMIERTELNYM niebezpieczenstwie (mroz zabija na warcie), relief potrzebny NATYCHMIAST. TO TEST wszystkiego co Symon zbudowal: rezerwa reliefowa SWIEZO wzmocniona (dobre wyczucie!), maszyna frost-proof, castle-first, siec polnocna (Harrol/Berena w drodze sztormu). Jego zywiol: gra z wyprzedzeniem sie oplaca ALBO sztorm przekroczy przygotowanie. Kasa 96, staple 38, rezerwa reliefu gotowa. Owen 95/61, ludzie Brana, Hollis trasy.",
+ "nastroje_miasta": "297-11-05 POPOLUDNIE (rzut 51, sztorm-C SYSTEM ZDAL z kosztem): pod zabojczym sztormem (pogoda 2) Symon rozegral dwa fronty. RELIEF: rezerwa (wzmocniona 3 dni temu!) + Bran + Wiara dotarli - NIKT OSIAGALNY nie zamarzl (Elna/najslabsi uratowani); prep=roznica zycie/smierc. CASTLE-FIRST: dostawa zamkowa utrzymana na osiagalne (Wylis proof mocnieje, +2/+2). GORNA DOLINA: Hollis SLUSZNIE zaparkowal (zero ruletki), Harrol/Berena na buforach depotu=bezpieczni, zero katastrofy. KOSZT (solidny nie crit): rezerwa mocno wypalona (odbudowac gdy zelzeje), ~12 jel emergency opal/dostawy (kasa 96->84), ~6 staple w relief (38->32), zmeczenie 6. Tarcza slabych w najczarniejszej godzinie=charakter/gwiazda widziana. System purpose-built ZWALIDOWANY pod maks stresem. Sztorm trwa. Owen 95/61.",
  "ceny": {
   "chleb": {
    "baza": 3,

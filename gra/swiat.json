@@ -5,12 +5,12 @@
   "dzien": 6,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 15,
  "dzien_tygodnia_nr": 4,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-06 RANEK (sztorm zelzal do glebokiego mrozu pogoda 15; INBOUND 94 - aftermath+ROZPOZNANIE): zabojczy sztorm przeszedl, zostal twardy mroz (pogoda 15), miasto odgrzebuje sie, keje wracaja chudo. DWA watki poranka. (1) SOBER AFTERMATH: sztorm zebral zniwo TAM GDZIE NIKT nie mogl dosiegnac - kilka ofiar na obrzezach/w gore kraju (realizm twardej zimy; Symon uratowal osiagalnych, nie wszechmocny). (2) MOCNE ROZPOZNANIE: caly port mowi jak relief Symona utrzymal biedote przy zyciu przez morderca noc, gdy gdzie indziej mroz zabijal; Wiara chwali GLOSNO, a wiesc dochodzi WYZEJ - Nowy Zamek/Wylis/Godric notuja ze 'ten co prowiantuje' dowiozl gdy sztorm zabijal (castle-first utrzymany). Nieskazitelnosc w najczarniejszej godzinie widziana przez tych co waza=szczebel gwiazdy. Bilans: system zwalidowany, ludzie cali, rezerwa do odbudowy (sciezka gotowa), kasa 74, staple 32, wypoczety. Owen 95/61, Wylis 25/18.",
+ "nastroje_miasta": "297-11-06 POLUDNIE (rzut 26, fundusz reliefowy ustrukturyzowany z Owenem): Symon zbudowal STRUKTURE - podwojna ksiega (Symon+Wiara), rejestr triazu need-based, reguly wkladu/rozdzialu, zarzadzanie rezerwa, WLASNOSC WIARY (Symon steward-of-record nie wlasciciel=firewall+legitymacja). KOSZT marginalny: (a) puste naczynie poki niezasilone -> donor drive TERAZ konieczny; (b) rola publicznego stewarda +nieco widocznosc Symona (lagodzona mantia Wiary). Owen trzyma rame 'Wiara karmi, godni ludzie wspieraja'. Rozwiazuje problem u korzenia: Symon przestaje zasypywac wlasnym srebrem, zaczyna prowadzic instytucje. Fundament polozony. Nastepne: zasilic (dawcy A / lord B). Kasa 74, staple 32. Rozpoznanie po sztormie=dzwignia do zbierania.",
  "ceny": {
   "chleb": {
    "baza": 3,

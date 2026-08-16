@@ -7243,3 +7243,6 @@ Druga chuda sesja hustle z rzędu — głęboki zimowy zastój rynku, ledwie ~+3
 
 ## 297-11-19 POPOŁUDNIE→WIECZÓR — pozycjonowanie pod wiosenny refi (rzut 30)
 Symon z Nestą ustawili się pod wiosenny refi — nie odpalając (Braavos zamarznięte), lecz primując wszystko do uderzenia, gdy lód puści. Plan odświeżony: dossier celne (dowód przepłaty Antaryona) jako dźwignia gotowe; re-approach braavijskiego pryncypała, by przejąć dług spod Antaryonów, w formie listu przygotowanego do wysłania, gdy popłyną statki; korekta w dół zawyżonego kapitału pod osłoną dowodu; spłata wspierana zyskami firmy; i liquidity war-chest — konsolidować gotówkę w jeden deployable kawałek do wiosny (kasa 152 rośnie, nie rozdrabniać). Solidnie, choć z naturalnym cavem: strona braavijska nieosiągalna do odwilży (primed-and-parked), a płynność wciąż buduje się do celu. Firewall czysty. Wszystko gotowe do strzału, gdy tylko morze się otworzy.
+
+## 297-11-19 WIECZÓR — nauka matematyki (rzut 70)
+Wieczorna, produktywna sesja nad głębszą matematyką monety (braavijskie teksty, rama i mentorstwo Theomore'a) — realne zrozumienie, finanse dojrzewają dalej (licznik →64; poziom 7 przy ~90, stopniowo). Zima jako czas dla umysłu wykorzystana. Dzień mocny domknięty: dom sukna Miry wystartował, refi sprimowany na wiosnę, matematyka naostrzona.

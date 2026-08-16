@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 14,
+  "dzien": 15,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 9,
- "dzien_tygodnia_nr": 5,
+ "pogoda": 2,
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-14 WIECZOR (rzut 2, drugi traktat przedwczesny): Symon probowal zalozyc 2. traktat (prowiantowanie/logistyka zimowa) - NIE ruszyl. Material ZA BLISKI/surowy: jest wciaz W SRODKU tej zimy (brod/sztorm/luka podazy=THIS winter, lekcje niedomkniete, co tydzien nowe), nie da sie zdystansowac zywej materii. Kontrast do 1. traktatu (braavijskie teksty+ustalona metoda do syntezy). WNIOSEK madry: ta ksiega chce SKONCZONEJ zimy za soba - ODLOZONA na koniec zimy/wiosne, wtedy napisana cala z domknietymi lekcjami. Frustrujaca jalowa sesja (zmeczenie 5), zero postepu - nie strata lecz rozpoznanie przedwczesnosci. Bilans reszty mocny (kasa 131, sieć/relief/traktat1 torem). Kolejny mroz wchlaniany sam.",
+ "nastroje_miasta": "297-11-15 RANEK (DRUGI ZABOJCZY SZTORM pogoda 2, Dzien Ojca; INBOUND 80 pilny): drugi brutalny sztorm zimy uderzyl w nocy - lodowy wicher, snieg, morderczy mroz. ALE tym razem system DUZO odporniejszy niz przy 1. sztormie (11-05): relief-instytucja+rezerwa pelna, podaz multi-source (redundancja proven 11-14), trasy+depot. To ma byc WALIDACJA hartowania - kontrast do brnięcia osobistego 11-05. PILNY INBOUND: sztorm bije GORNA DOLINE (Harrol/Berena/Ronnel w zebach sztormu) + ubodzy miasta - realny test sieci pod ekstremum. Symon wypoczety. Kasa 131, staple 32, finanse 6, fundusz+rezerwa gotowe, multi-source, depot Wendla, Hollis. Roznica vs 1. sztorm: teraz STEWARD z odpornym systemem, nie mul brnacy sam. Decyzja gracza=jak rozegrac 2. sztorm.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.6,
-   "przyczyna": "gleboki mroz wrocil (pogoda 9) - opal wysoko"
+   "mnoznik": 1.7,
+   "przyczyna": "DRUGI zabojczy sztorm (pogoda 2) - opal rozpaczliwy"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -44,13 +44,13 @@
   },
   "sol": {
    "baza": 45,
-   "mnoznik": 1.35,
+   "mnoznik": 1.4,
    "przyczyna": "mroz - scisk soli mocny"
   },
   "prowiant_uwaga": null
  },
- "swieto": null,
- "dzien": 14,
+ "swieto": "Dzien Ojca",
+ "dzien": 15,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

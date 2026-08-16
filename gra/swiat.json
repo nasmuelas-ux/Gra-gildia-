@@ -5,12 +5,12 @@
   "dzien": 2,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 34,
  "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-02 POLUDNIE (Dzien Matki, rzut 37 - Symon rozdawal przy septie): zostal na prosbe Owena i pracowal w kolejce rozdawania z Branem/pomocnikami - rece nie slowa, sluzyl ubogim z godnoscia (ludzie nie przypadki), cicho, bez teatru, widziany przez kongregacje. Dolozyl ~3 jel dyskretnie pod mantia Wiary. POTWIERDZIL na wlasne oczy: przednowek ciezki, biedy wiecej/chudszej niz zeszla zima -> relief-filar wazniejszy, rozwazyc wzmocnienie rezerwy przed gleboka zima. Owen regard glebszy (nast 94->95, zauf 59->61) - poprosil, Symon dowiozl czynem w jego najwazniejszy dzien. Charakter/gwiazda-przez-czyn, skryba ludu w akcji. Kurs w gore wciaz w drodze (wiesc jutro). Kasa 90->87, staple 47.",
+ "nastroje_miasta": "297-11-02 POPOLUDNIE (rzut 61, rezerwa reliefowa wzmocniona): po tym co zobaczyl przy rozdawaniu, Symon proaktywnie wzmocnil rezerwe reliefowa przed gleboka zima - maszyna purpose-built: ~9 jel z wlasnej pozycji staple w rezerwe (uzycie apreciowanego stocku w realny popyt=rada Nesty) + ~8 jel swiezej near-North podazy (kontraktowane zrodla Leony, nie open-market bo Dzien Matki), Aurane sztauuje frost-proof, Bran rozwozi, wszystko POD MANTIA WIARY (double-book Symon+Wiara). Rezerwa grubsza=poduszka na ciezki przednowek. Tarcza slabych proaktywnie wzmocniona. Kasa 87->79, staple 47->38. Kurs w gore wciaz w drodze (wiesc jutro). Owen regard glebszy (95/61).",
  "ceny": {
   "chleb": {
    "baza": 3,

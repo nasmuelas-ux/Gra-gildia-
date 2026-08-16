@@ -5,12 +5,12 @@
   "dzien": 18,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 21,
  "dzien_tygodnia_nr": 2,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-18 POPOLUDNIE (rzut 10, zarobek suchy - zimowy zastoj): Symon szukal roboty ale gleboki zimowy zastoj - nawet nisza/firma ma martwe dni: klienci skuleni, brak nowej roboty audytowej w ruchu, cichy klient cichy ten cykl, retainery juz zaksiegowane. Sesja jalowa, ~0 jel (kasa 145). NIE strata/blad - zimowy lull, dochod lumpy; STEADY strumienie pasywne (~54/mies, ksiegowane 1. dnia) = pewny floor, nie codzienny hustle. Reszta torem: staly warrant zamku, 'moze' o dziecku, 3 kontrakty doliny, traktat+sponsor, elewacja dojrzewa. Kasa 145, staple 32, finanse 6, wlodarstwo blisko 7.",
+ "nastroje_miasta": "297-11-18 WIECZOR (rzut 81, steward-obchod czysty + AWANS wlodarstwo 6->7): maszyna mieli rowno - castle-first na stalym warrancie plynie, holdingi (Harrol/Berena/Ronnel) multi-source/depot, relief-instytucja, guided-haul, nisza. Symon nie tylko potwierdzil ze stoi - wypatrzyl drobna optymalizacje+realizowal cykl (~+6, kasa 145->151); dostrzegl HEADROOM pojemnosci (redundancja robustna=mozna dodac 4. holding/skalowac gdy zechce). Praktyka przepchnela WLODARSTWO 6->7 (licznik 89->90) - mistrzostwo rzadzenia domena/logistyka. Steward-nie-mul potwierdzony (system samobiezny=Symon wolny). Kasa 151, staple 32, finanse 6, wlodarstwo 7. Reszta torem: staly warrant, 'moze' o dziecku, traktat+sponsor, elewacja dojrzewa.",
  "ceny": {
   "chleb": {
    "baza": 3,

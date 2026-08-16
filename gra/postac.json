@@ -12,7 +12,7 @@
  "zmeczenie": 3,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 145,
+  "jelenie": 151,
   "smoki": 0
  },
  "dobytek": [
@@ -51,7 +51,7 @@
   "organizacja": 8,
   "audyt": 9,
   "finanse": 6,
-  "wlodarstwo": 6
+  "wlodarstwo": 7
  },
  "jezyki_znane": [
   "mowa powszechna",
@@ -165,7 +165,7 @@
   "handel": 157,
   "geometria": 22,
   "finanse": 58,
-  "wlodarstwo": 89
+  "wlodarstwo": 90
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
  "weksle_wystawione_jel": 200,

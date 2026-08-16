@@ -10,7 +10,7 @@
  "pogoda": 31,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": "wielki_targ",
- "nastroje_miasta": "297-11-01 RANEK (bilans miesieczny - Symon usiadl do liczb): NET ~80-85 jel/mies (skok z ~55-65 w 10-23: Harrol ZABEZPIECZONY +12, firma faktorska mocna ~45 Doryan+peer, guided-haul ~9, rotacja ~24; gross ~176 - koszty ~95). Wolna gotowka CIENKA (30 jel) bo ciezka faza inwestycyjna (siec: Hollis+Leona+Wendel ~19 + staple 35 w pozycje) = reinwestycja w equity/pozycje NIE strata. Majatek zdrowy: staple 47 aprecjuje, rotacja ~450 kap., equity 47% faktorii + 2/3 firmy + korytarz, kamieniczka+czynsze, zero bezposrednich zobowiazan (dlug=Nesty). Przy pelnej skali ~140-160/mies. Wielki targ trwa, kurs w gore w drodze, peer-referral czeka. Kasa 30, zapas 47.",
+ "nastroje_miasta": "297-11-01 RANEK (KOREKTA: zaksiegowano zalegly dochod pasywny/miesieczny): gracz slusznie wychwycil - przez pazdziernik ksiegowano tylko marze per-dostawa, nigdy auto-dochodu miesiecznego (baza+retainery+plon rotacji+odsetki od 250 jel wypozyczonych). Zaksiegowano wplyw +46 (baza 6+retainery 12+rotacja 14+odsetki 12+czynsze 2). Kasa 30->76. ODTAD: auto-wplyw ~+45-50 ksiegowany 1. dnia miesiaca, osobno od marz per-dostawa. PELNY MAJATEK Symona ~930-950 jel netto (wolna kasa to tylko czubek: reszta w rotacji 450, wekslach 200, pozyczce 50, kamieniczce ~56 equity, staple 47) + firma faktorska 2/3 + warrant/ucho lorda Manderly. Wielki targ trwa, kurs w gore w drodze, peer-referral Doryana czeka.",
  "ceny": {
   "chleb": {
    "baza": 3,

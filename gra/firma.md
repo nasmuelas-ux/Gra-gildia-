@@ -167,3 +167,20 @@ _Symon usiadł do liczb 1. dnia miesiąca. Zmiany od modelu 10-23: Harrol ZABEZP
 - Kamieniczka przy Schodach: własność + czynsze (Jonna/Osric/Hal) kapią
 - Należności bieżące: retainery (kapią /mies) + dostawa w drodze (kurs w górę = zapłata Harrola/dowód)
 - Zobowiązania Symona: BRAK bezpośrednich (dług Antaryona = Nesty, nie na udziale Symona)
+
+## KOREKTA KSIĘGOWA — 297-11-01: DOCHÓD PASYWNY/MIESIĘCZNY (zaległy)
+_Gracz słusznie wychwycił: przez październik księgowano TYLKO marże per-dostawa (per rzut), a NIGDY automatycznego dochodu miesięcznego, który model przewiduje ("retainery/rotacja/baza kapią automatycznie /mies"). Zaksięgowano zaległy wpływ za okres._
+
+### WPŁYW MIESIĘCZNY (auto, do kasy) — zaksięgowany 11-01
+| Pozycja | +jel |
+|---|---|
+| Baza wspólnika faktorii (stała) | +6 |
+| Retainery firmy faktorskiej (udział Symona 2/3, steady) | +12 |
+| Plon rotacji (zwrot właścicielski, ~1 cykl) | +14 |
+| Odsetki: weksle 200 jel + pożyczka zabezp. 50 jel | +12 |
+| Nadwyżka czynszów kamieniczki (po obsłudze długu) | +2 |
+| **RAZEM WPŁYW** | **+46** |
+
+- Kasa: 30 → 76.
+- ZASADA ODTĄD: na KAŻDYM przełomie miesiąca księgować ten auto-wpływ (~+45-50/mies), OSOBNO od marż per-dostawa (które lecą per rzut jak dotąd). Per-delivery marże (drewno/prowiant/żelazo/guided/Harrol) = zmienne, księgowane przy dostawie. Auto-dochód pasywny = stały, księgowany 1. dnia miesiąca.
+- Koszty operacyjne stałe (wage line, Bran/Boren/Hollis/Wendel, household, relief) w większości niesione przez własne strumienie/rewenue biznesu; cło portowe ~10 uderza ~20. dnia (osobno). Netto po tym wszystkim pozostaje cienkie, ale wpływ pasywny JEST realny i był pomijany.

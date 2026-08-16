@@ -6,7 +6,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
-- **Nastroje:** 297-11-07 RANEK (INBOUND 99 - lord POSLAL po Symona): KOREKTA skali (gracz): Symon JUZ REGULARNIE doradza lordowi Wymanowi - spotkania 09-30, 10-02 (plan prowiantu, czlowiek rady FAKTEM), 10-08 (prowi
+- **Nastroje:** 297-11-07 RANEK (rzut 26, intel Godrica - czesciowy): Godric zdradzil co wie, ale uczciwie zastrzegl ze nie zna pelnej mysli lorda. CO WIE: wezwanie wiaze sie ze sztormem+gotowoscia zimy - sztorm obna
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 69 jeleni + 1 mied + 0 smokow

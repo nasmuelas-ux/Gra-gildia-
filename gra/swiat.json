@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 24,
+  "dzien": 25,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 62,
- "dzien_tygodnia_nr": 5,
- "dzien_targowy": "targ rybny (dzien podzielny przez 3)",
- "nastroje_miasta": "297-10-24 POPOLUDNIE (launch premium guided-haul z Borenem, rzut 54 solidny): USTANOWIONA nowa linia - bezpieczny przewoz jako usluga (Hollis route-vetting + wozy Borena + brand niezawodnosci; marza dzielona). Kupiec placi za WYNIK nie sekret = fosa ROSNIE (reframe Nesty/Miry: sprzedawaj ruch nie mape). Pitch: brod=proof-of-need. Solidny start (1. klient/pipeline), kapitalolekko, skaluje z zima. Katastrofa broku OBROCONA W BIZNES. Boren sojusz+guild premium/named (zauf 53). +~6 jel (kasa 49->55), ongoing ~8-12/mies. Reszta: Wylis stala umowa dojrzewa, Harrol na wlosku (dowod), refi zegar zimowy, relief/Elna, dziecko-nadzieja. Model marz zaktualizowany (nowa linia). Kasa 55.",
+ "pogoda": 7,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-10-25 RANEK (ZABOJCZY MROZ: pogoda 7 - bialy, sztywny, smiertelny dzien; biedni marzna w zaulkach, trakty staja lodem; najtwardszy bite zimy dotad): TEST wszystkiego - ale Symon TERAZ GOTOWY inaczej niz przy frost-scramble: bufor odbudowany, HOLLIS wetuje trasy, castle-first, guided-haul. Maszyna zahartowana. UBODZY W NIEBEZPIECZENSTWIE: relief napelniony (10-16) TESTOWANY do granic; jak mroz potrwa=pilny top-up (Elna/ubodzy/zima_ubodzy). Braavos calkiem zamarzniety (refi/sukno choked). Inbound cichy (39) - mroz zagonil miasto pod dachy. Reszta: Wylis stala umowa dojrzewa (mroz=test dowozu), Harrol na wlosku (bezbledna dostawa=odbudowa; Hollis-vetted teraz), premium guided-haul swiezo, dziecko-nadzieja. Kasa 58.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 24,
+ "dzien": 25,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

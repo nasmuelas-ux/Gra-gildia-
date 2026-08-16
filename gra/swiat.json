@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 23,
+  "dzien": 24,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 95,
- "dzien_tygodnia_nr": 4,
- "dzien_targowy": null,
- "nastroje_miasta": "297-10-23 POPOLUDNIE (Harrol make-good, rzut 8 - stan Harrola nie blad Symona): Symon stanal uczciwie+pelny make-good (towar zastepczy ~15 jel, kasa 52->37). Harrol przyjal ZIMNO - dumny, przestraszony o zime, class-resentment (zaufal kupcowi z nabrzeza, 1. rzecz=katastrofa). 'Dowiedziesz nastepna bez potkniecia to pogadamy; zawiedziesz drugi raz=koniec.' Relacja spadla (30/8), kontrakt na wlosku - ratuje TYLKO dowiedziona dostawa (Hollis-vetted). KRYZYS ZAMKNIETY (Hew uratowany crit / system naprawiony Hollis / Harrol chlodny-odwracalny). FAIRNESS: nie porazka charakteru Symona - proud wystraszony rycerz nie nagrodzil w zlej godzinie; reputacja szeroka nietknieta/mocniejsza (Hew/Boren/Godric). Zamek bezpieczny. Kasa 37. NEXT (dluzej): bezbledna dostawa Harrolowi->odbudowa.",
+ "pogoda": 62,
+ "dzien_tygodnia_nr": 5,
+ "dzien_targowy": "targ rybny (dzien podzielny przez 3)",
+ "nastroje_miasta": "297-10-24 RANEK (szaro, chlodno, zwyczajnie, pogoda 62; targ rybny): dzien po ciezkim brodzie - spokojniejszy. INBOUND: cieply echo - HEW wraca do zdrowia (slowo Brana/Borena), rescue-arc domyka sie dobrze. Bilans po wczoraj: Hew uratowany(crit), Boren sojusz krwi(50), Hollis=kwatermistrz szlakow (maszyna twardsza), Harrol chlodny/na wlosku (ratuje dowiedziona dostawa Hollis-vetted), reputacja charakteru mocniejsza. Zamek bezpieczny. Model marz sformalizowany (net ~55-65/mies teraz). Reszta: Wylis nast 21 (stala umowa: 1 czysta zima), refi zegar zimowy, relief napelniony/Elna odtaja, dziecko-nadzieja, nauka finansow/wlodarstwa/traktat. biały kruk ~297-11 zbliza sie. Kasa 37.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 23,
+ "dzien": 24,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

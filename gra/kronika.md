@@ -7099,3 +7099,6 @@ Symon obszedł maszynę w trybie stewarda — i wszystko mieli bez jego dźwigan
 
 ## 297-11-08 RANEK — cykl prowiantu zamku dojrzał
 Zimny dzień, głębszy mróz (26). Poranny sygnał: cykl prowiantowy zamku dojrzał (co ~5-7 dni), a Hal sygnalizuje, że Wylis wnet zechce zimowe księgi — to sedno zadania lorda „dowieź tę zimę". Rutyna maszyny jest teraz najważniejsza: każdy czysty cykl to cegła dowodu dla Wylisa i Wymana.
+
+## 297-11-08 RANEK→POŁUDNIE — steward-obchód + steady zarobek (rzut 55)
+Symon nie forsował — doglądnął maszyny i dał jej mielić. Cykl prowiantowy zamku dostarczony czysto (Hal wykonał, Symon nadzór) — kolejna cegła dowodu „jednej czystej zimy" dla Wylisa i Wymana. Holdingi na buforach, relief płynie, steady strumienie kapią: zarobek ~+7 bez żadnego hustle (kasa 71→78). Dokładnie doktryna zimy w praktyce — dochód ze steady maszyny, nie z łowów w zamarzniętym rynku; steward, nie muł. Kontrast do wczorajszej suchej sesji (rzut 15) potwierdza, że właściwa droga zimą to maszyna, nie forsowanie. Spokojny, produktywny dzień.

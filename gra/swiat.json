@@ -5,12 +5,12 @@
   "dzien": 8,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 26,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-08 RANEK (mroz 26; INBOUND: cykl prowiantu zamku dojrzal): zimny dzien, glebszy mroz. Wczoraj Symon doglednal maszyny (rzut 30 solidnie) - wszystko mieli: Hal kantor+prowiant, Bran relief, Wendel depot, Hollis trasy, Harrol/Berena na buforach, guided-haul; zlapal drobiazg (adjustacja nastepnego kursu w gore), steward-value. Maszyna stoi bez dzwigania=plan zimy dziala. PORANNY INBOUND: cykl prowiantowy zamku dojrzal (co ~5-7 dni) + Hal sygnalizuje ze Wylis wnet zechce zimowe ksiegi - to SEDNO zadania lorda ('dowiez te zime'). Rutyna maszyny=teraz najwazniejsza (kazdy czysty cykl=cegla dowodu dla Wylisa i Wymana). Kasa 71, staple 32, plan zimy ustalony, fundusz reliefu stoi. Bertram front, elewacja deferred do dowiedzionej zimy.",
+ "nastroje_miasta": "297-11-08 POLUDNIE (rzut 55, steward-obchod + zarobek na maszynie): Symon nie forsowal - doglednal maszyny i dal jej mielic. Cykl prowiantowy zamku DOSTARCZONY czysto (Hal wykonal, Symon nadzor) = cegla dowodu 'jednej czystej zimy' dla Wylisa/Wymana. Holdingi na buforach, relief plynie, steady strumienie kapia - zarobek ~+7 bez hustle (kasa 71->78). Dokladnie doktryna zimy: dochod ze steady maszyny, nie z lowow w zamarznietym rynku; steward nie mul. Spokojny, produktywny dzien. Staple 32, fundusz stoi, plan zimy w ruchu. Ksiegi Wylisa gotowe do zrobienia gdy zechce. Bertram front, elewacja deferred.",
  "ceny": {
   "chleb": {
    "baza": 3,

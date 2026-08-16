@@ -5,12 +5,12 @@
   "dzien": 3,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 47,
  "dzien_tygodnia_nr": 1,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-03 POPOLUDNIE (rzut 26, Berena - noga w drzwiach): Symon+Mira pojechali do Wierzbowego Brodu. Berena przyjela z szacunkiem (Mira wdowa-do-wdowy rozbroila dystans, dostarczony dowod zrobil wrazenie), ALE dumna ostrozna wdowa NIE oddaje zimy wsi portowcowi na 1. spotkaniu - zgodzila sie na PROBNA mala dostawe na wlasnych warunkach ('dowiedz MNIE jak dowiodles w gore drogi'), echo Harrola. Mira uratowala partial (relacja cieplejsza 54/22), noga w drzwiach; pelny kontrakt deferred do dowiedzionej dostawy do niej. Wzor sieci potwierdzony (kazdy holding: proba->dowod->umowa). Kasa 96->93, zmeczenie po podrozy. Harrol 3. dostawa=aktywny voucher, linia proven.",
+ "nastroje_miasta": "297-11-03 WIECZOR (rzut 75, depot+proba Bereny): Symon zjadl i przy okazji domknal DEPOT Wendla na stale (pewny wezel/hub linii, staging zorganizowany, Wendel 62/26) + wypuscil PROBNA dostawe do Bereny z depotu (bezbledna sztauka, Hollis-vetted, krotki skok, dojezdza wkrotce) - ustawiona pod dowod ktorego zadala; czysta dostawa = pelny kontrakt zimowy w zasiegu. Linia obsluguje gorna doline systemowo (depot=hub). Kasa 93->87, staple 38, zmeczony po dniu w dolinie. Harrol aktywny voucher, Berena 54/22 na progu, Voss forensyka w toku, rezerwa reliefu wzmocniona, Owen 95/61.",
  "ceny": {
   "chleb": {
    "baza": 3,

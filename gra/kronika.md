@@ -6957,3 +6957,6 @@ Symon wpadł do Aldousa; nabrzeże huczy o jego tygodniu (wóz pod lodem + rescu
 
 ## 297-10-27 POPOŁUDNIE — U Brana (bez rzutu; radosna wieść + owoc dobroci)
 Check-in u Brana: kamieniczka jak zegar, relief rozwieziony przez killing frost (nikt na dole nie zamarzł, komu dali radę dać), imię Symona ciepłe na kejach (dowozi/karmi, gdy inni się chowają). GŁÓWNE: **Alys przy nadziei** — Bran zostanie ojcem na wiosnę. Przepełniony wdzięcznością: „rok temu tragarz bez kąta, dziś dach + żona + robota z imieniem + dziecko — wszystko z tego, coś mi dał." Owoc cichej dobroci Symona (kąt + godność → życie); ciepłe echo własnej nadziei z Mirą. Więź rodzinna (Bran zauf 57→59; Alys nast +3, przy nadziei). Pora POPOŁUDNIE.
+
+## 297-10-28 RANEK→POŁUDNIE — Praca w post-krukowym zamęcie (rzut 19, chudo ale strategicznie ok)
+Biały kruk wstrząsnął rynkiem (ceny skaczą, panika-skup); dzień Symona poszedł w opanowanie zamętu (trzymał kontrakty/dostawy stabilnie, gdy inni się miotali) bardziej niż w tłusty zysk. +4 jel (79→83). Realna wartość zimowego skoku=strategiczna/rozłożona (linie prowiantowe warte więcej całą zimę, wg modelu), nie jednorazowy strzał dziś. Pora RANEK→POŁUDNIE.

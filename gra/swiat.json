@@ -5,12 +5,12 @@
   "dzien": 18,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 21,
  "dzien_tygodnia_nr": 2,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-18 RANEK (mroz 21, targ rybny; INBOUND 85 - chwiejacy sie dluznik przychodzi): zimny dzien. WIELKI INBOUND: chwiejacy sie DLUZNIK WEKSLA (ten z porzadkow 11-16, z 200 jel niezabezp.) sam przychodzi do Symona - drobny kupiec sciśniety zima, NIE moze splacic w terminie, uczciwy+zawstydzony, prosi o CZAS. TEST charakteru+finansow+reputacji: Symon to wierzyciel ALE tez 'czlowiek u ktorego liczby wychodza prawdziwe' + tarcza slabych. Rada Nesty (11-16): NIE naciskac, przedluzyc po ludzku=odzyskac z procentem+goodwill, nie robic wroga w miescie gdzie rosnie. Opcje: przedluzyc/restrukturyzowac (zastaw)/nacisnac. W tle: staly warrant zamku, 'moze' o dziecku, kasa 143, 3 kontrakty doliny, traktat+sponsor. Nastepny krok=decyzja wobec dluznika.",
+ "nastroje_miasta": "297-11-18 POLUDNIE (rzut 41, dluznik przedluzony po ludzku): Symon dal kupcowi Rewanowi (sciśnietemu zima) CZAS - uczciwe nowe terminy, lekki procent za zwloke, zero wstydu/nacisku. Rewan gleboko wdzieczny+lojalny (72/40); kapital zachowany+odzyskiwalny z procentem, goodwill zyskany, drobny earnest +2 (kasa 143->145). REPUTACJA: 'Tally daje czas w mroz'=uczciwy wierzyciel (cenne dla rosnacego kredytowania/faktorii), tarcza slabych+uczciwe liczby razem. Rada Nesty potwierdzona. W tle: staly warrant zamku, 'moze' o dziecku, 3 kontrakty doliny, traktat+sponsor ku Winterfell, elewacja dojrzewa. Staple 32, finanse 6, plan zimy: maintain+poduszka na wiosenny refi.",
  "ceny": {
   "chleb": {
    "baza": 3,

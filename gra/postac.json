@@ -9,10 +9,10 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 28,
- "zmeczenie": 1,
+ "zmeczenie": 2,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 143,
+  "jelenie": 145,
   "smoki": 0
  },
  "dobytek": [
@@ -196,7 +196,7 @@
   "oslona_wspolnikow_09_28": "OSLONA (postawiona 09-28, rzut 81): warta ludzi Brana NOCA na skladach Merreka+Torwyna + fire-prewencja (woda/piasek, uprzatniete podpalki), oko Wiary (septy=obcy nie przejdzie), zyczliwosc portu. KLUCZ: pre-zatrucie broni - Godric i Theomore UPRZEDZENI ze dostawcy grozeni i 'wypadek'=pierscien; podpalenie staje sie samobojstwem (spodziewana zbrodnia wskazuje na nich u uszu ktore zaczynaja sluchac). Deterrent wysoki, prawdopodobny cios (pozar u wspolnika) WPOL ROZBROJONY zanim padnie. Symon+Mira: czujnosc, ludzie Brana blisko, nie sami po zmroku. Trwa do dnia ciosu.",
   "rola_zimowa_warrant_lorda": "PROWIANTOWANIE ZIMOWE ZAMKU - FORMALIZOWANE PIECZECIA LORDA MANDERLY (297-09-30): to co Aldric blokowal, lord nadal sam pelnym warrantem; firma bierze zimowe prowiantowanie zamku pod pieczecia Manderly'ego. Drzwi, ktore wrog trzymal, otworzyl LORD. Niezastepowalnosc formalna, nie tylko de facto.",
   "ucho_lorda_manderly": "UCHO LORDA WYMANA MANDERLY (od 297-09-30): lord zna imie Symon Tally DOBRZE i z szacunkiem (rozdal chwale zamiast zagarnac); drzwi domu lorda uchylone dla nieszlachcica; wezwanie 'przyjdziesz gdy po ciebie posle'. PIERWSZY prawdziwy szczebel drabiny do rady Starkow (Manderly=najpotezniejszy chorazy Starkow). Gwiazda polnocna z marzenia w droge.",
-  "weksle_uwaga_11_16": "297-11-16: przy porzadkach z Nesta wyszlo, ze JEDEN dluznik weksla (z 200 jel niezabezp.) chwieje sie pod zima (zima sciska dluznikow) - nie strata, ale do PILNOWANIA/ewentualnego workoutu (przedluzyc/zabezpieczyc). Reszta portfela weksli zdrowa."
+  "weksle_uwaga_11_16": "297-11-18 ROZWIAZANE: chwiejacy dluznik (Rewan) PRZEDLUZONY po ludzku - nowe terminy+lekki procent za zwloke, splata gdy odwilz; kapital zachowany+odzyskiwalny z procentem, goodwill/lojalnosc zyskane. Portfel weksli zdrowy. Reputacja uczciwego wierzyciela."
  },
  "licznik_uzyc": {
   "audyt": 11,

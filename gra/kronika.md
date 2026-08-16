@@ -6877,3 +6877,6 @@ Symon poszedł domknąć referral Godrica. Ser Harrol z Kamiennego Brodu — ryc
 **Kontrakt zawarty:** skromne zimowe prowiantowanie holdingu na **wolnej pojemności** (castle-first nietknięty), frost-proof struktura, uczciwe warunki. Kapitałolekko — leveruje zahartowaną maszynę, near-North sourcing, haul Borena. +4 jel initial (kasa 55→59) + zimowy strumień marży.
 
 **Znaczenie (arc):** pierwszy klient z **krwi i nadania**, nie kupiec — krok z kupieckiego świata w gentry; **rycerz zna teraz imię Symona.** Szczebel ku włodarzowi Północy (rdzeń gwiazdy; nowy skill włodarstwo w praktyce). Głębszy prestiż/zaufanie Harrola dojrzeje przez dowiedzioną dostawę zimy (jak przy Wylisie). Nowy NPC ser_harrol (40/12), nowy wątek prowiant_ser_harrol. Pora RANEK→POŁUDNIE.
+
+## 297-10-22 POŁUDNIE→POPOŁUDNIE — Zarobkowanie (rzut 86, tłusto)
+Maszyna huczy: premium audyt z Corlissem, retainery Hala, Doryan na księdze. Dobry konkretny dzień, kasa odbudowana. +13 jel (59→72). Pora POŁUDNIE→POPOŁUDNIE.

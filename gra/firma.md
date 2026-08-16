@@ -206,3 +206,8 @@ _Gracz: "co tak mało?" — słuszne pytanie o skalę. Odpowiedź: +54 to TYLKO 
 - Marża: ~12/mies per holding zimą (kapital-light — leveruje istniejący hub/podaż/haul; castle-first zawsze nietknięty).
 - Wzór akwizycji: ciepłe wprowadzenie (Godric) → próba → dowiedziona dostawa → pełny kontrakt → klient staje się voucherem następnego. Skaluje przez KRĄG voucherów, nie zimne łowy.
 - Znaczenie strategiczne: hedge na cutoff Braavos (noga lądowa nie zamarza z morzem), endgame "dom o własnych siłach", szczebel gwiazdy (włodarz Północy, nie jednego portu). Prescient wobec osi 299 (siec lądowa gdy wojna porwie morze).
+
+## STALY WARRANT ZAMKU ZAPIECZETOWANY — 297-11-17 (rzut 32)
+- Prowiant zamek (Wylis): z ~45/mies (proof) -> STALY warrant ~65/mies. Niezastepowalnosc FORMALNA (pieczec), rygorystyczne klauzule (kara/pochodzenie/etapowanie=rywal nie skopiuje). Capstone arki prowiantowej (jesienna 'wolna pojemnosc na probe' -> stala umowa zamku).
+- Podnosi GROSS netto ~+20/mies vs poprzednio. Wylis obiecal slowo lordowi (elewacja dojrzewa).
+- Firewall: prowiant czysto; Braavos/Antaryon w mroku. Wylis = potencjalny przyszly sojusznik refi (poznawany, nie ruszany).

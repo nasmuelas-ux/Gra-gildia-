@@ -1099,9 +1099,9 @@
    "id": "kasztelan_wylis",
    "imie": "ser Wylis",
    "zawod": "KASZTELAN-STEWARD Nowego Zamku (od 297-10-09; wczesniej poborca cel) - nad calym zaopatrzeniem zamku",
-   "nastawienie_do_gracza": 35,
-   "zaufanie": 28,
-   "ostatni_kontakt": "297-11-15",
+   "nastawienie_do_gracza": 38,
+   "zaufanie": 31,
+   "ostatni_kontakt": "297-11-17",
    "flaga": "KASZTELAN skrupulatny (celnik), WARM-UP w toku. 10-16 (rzut 90): Symon zaproszony (Godric) domknal SKALOWANIE wolumenu prowiantu zimowego oferta-lancuchem (podaz->sklad Aurane->wozy Borena->zamek + bufor frost-proof + czysta ksiega), strategia dowodzic-nie-pchac. Wylis pod wrazeniem kompletnosci/pewnosci. WOLUMEN SKALOWANY (filar rosnie). STALA UMOWA wyraznie blizej: jedna czysta zima dowozu pod jego okiem = jego do podpisu (nie dzis, optyka 1. miesiaca; near-certain jak dostawa trzyma). Firewall HELD (nie dopytywal o zaplecze). nast 17->20 zauf 13->16. Sciezka: dowozic bezblednie przez zime -> stala umowa; refi rozjasni zaplecze docelowo.",
    "wie_o_graczu": [
     "297-10-10 (rzut 81): pierwszy kontakt jako kasztelan. Symon zagral liczbami (czysta ksiega, bufor frost-proof, klauzula kary nigdy nie odpalona). Wylis przeswietlil ksiege jak celnik - wytrzymala co do miedziaka; docenil uczciwa ksiege po korupcji pierscienia. Skupiony na PEWNOSCI dostawy=uczciwy. Ceni firme jako niezawodna reke, stały kontrakt odzywa. nast 0->18 zauf 0->12.",
@@ -1113,7 +1113,8 @@
     "297-10-25 (rzut 79): dostawa zamkowa SUSTAINED przez zabojczy mroz (pogoda 7) gdy trakty staly lodem - dokladnie dowod 'jednej czystej zimy', ktorego chcial pod stala umowe. Dowozi gdy inni marzna. Proof stalej umowy MOCNIEJE. nast 21->23.",
     "297-11-05 (rzut 51, zabojczy sztorm pogoda 2): dostawa zamkowa UTRZYMANA w morderczym sztormie na to co osiagalne (castle-first priorytet) gdy pol miasta stanelo - dokladnie 'jedna czysta zima' test w akcji. Wylis (outside view) widzi rzetelna reke co dowozi gdy inni marzna. nast +2, zauf +2. Proof stalej umowy MOCNIEJE.",
     "297-11-09 (rzut 69): Symon przyszedl z ZIMOWYMI KSIEGAMI otwarcie (jawnosc=bron u celnika). Wylis przeswietlil je po celniczemu - szukal szwu/paddingu/skimu, NIE ZNALAZL: czyste co do miedziaka, dostawa NIEPRZERWANA przez zabojczy sztorm+gleboki mroz, castle-first nigdy nie zlamany, klauzula kary ANI RAZU nie odpalona. Uczciwy celnik GLEBOKO pod wrazeniem (po korupcji pierscienia to luk czystej wody). PRZESUNAL STALY KONTRAKT mocno naprzod: 'pol zimy dowiedzione bez potkniecia; dokoncz tak, a staly warrant jest twoj - i powiem lordowi ze tak'. Firewall: Braavos/Antaryon w mroku (refi uspione, nie tknieto). nast 25->33, zauf 18->26. To CEGLA dowodu 'czystej zimy' dla Wymana (Wylis=konduit) + staly kontrakt (marza ~45->65/mies) dojrzewa.",
-    "297-11-15 (drugi sztorm, rzut 52): castle-dostawa UTRZYMANA w 2. zabojczym sztormie GLADKO (kontrast do 1.) - Wylis widzi system co dowozi niezawodnie mimo powtornego ekstremum. Proof 'czystej zimy' mocnieje dalej. nast+2 zauf+2."
+    "297-11-15 (drugi sztorm, rzut 52): castle-dostawa UTRZYMANA w 2. zabojczym sztormie GLADKO (kontrast do 1.) - Wylis widzi system co dowozi niezawodnie mimo powtornego ekstremum. Proof 'czystej zimy' mocnieje dalej. nast+2 zauf+2.",
+    "297-11-17 (rzut 32): STALY WARRANT PROWIANTOWANIA ZAMKU ZAPIECZETOWANY. Wylis, przekonany dwoma sztormami+czystymi ksiegami, sformalizowal - marza ~45->65/mies, niezastepowalnosc FORMALNA (nie de facto). Wlaczyl rygorystyczne terminy+klauzule (celnik) co Symonowi paradoksalnie sluzy (fosa/rywal nie skopiuje). Obiecal POWIEDZIEC LORDOWI ze warrant stoi na pewnej rece. Firewall czysty (prowiant, Braavos/Antaryon w mroku - Wylis wciaz potencjalny przyszly sojusznik refi, POZNAWANY). nast 33->38, zauf 26->31. Capstone arki prowiantowej zimowej."
    ]
   },
   {

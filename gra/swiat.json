@@ -5,12 +5,12 @@
   "dzien": 17,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 76,
  "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-17 RANEK (LAGODNE okno 76; INBOUND 95 - Wylis wzywa domknac STALY KONTRAKT): pogodny dzien, odwilz-okno. WIELKI INBOUND: ser WYLIS (kasztelan) wzywa Symona - po DWOCH sztormach zwiedzionych + czystych ksiegach nie chce czekac do wiosny: gotow ZAPIECZETOWAC STALY warrant prowiantowania zamku (to co bylo 'pol zimy dowiedzione'->teraz dowiedzione dosc). Marza ~45->65/mies, indyspensowalnosc formalna. Wylis mowi ze lord o tym wie/dowie sie (elewacja dojrzewa tym torem, choc pelna deferred do konca zimy). To najwiekszy dotad KONKRET zadania 'dowiez zime'. W tle: 'moze' o dziecku (niepotwierdzone, ciche), 3 kontrakty doliny, traktat+sponsor Theomore, relief-instytucja, kasa 134. Bertram bez paliwa (honor rozdany). Nastepny krok: isc domknac staly kontrakt z Wylisem.",
+ "nastroje_miasta": "297-11-17 POLUDNIE (rzut 32, STALY WARRANT ZAMKU ZAPIECZETOWANY): capstone arki prowiantowej - Wylis (przekonany 2 sztormami+czystymi ksiegami) sformalizowal staly warrant prowiantowania zamku: marza ~45->65/mies, niezastepowalnosc FORMALNA, rygorystyczne klauzule (fosa=rywal nie skopiuje). Obiecal POWIEDZIEC LORDOWI ze warrant stoi na pewnej rece. Zadanie 'dowiez zime' w duzej mierze SPELNIONE konkretem; elewacja dojrzewa mocno (pelna do konca zimy). Firewall czysty (Wylis potencjalny przyszly sojusznik refi=poznawany). Wylis 33->38/26->31. Kasa 134, staple 32, finanse 6. W tle ciche 'moze' o dziecku, 3 kontrakty doliny, traktat+sponsor. Bertram bez paliwa.",
  "ceny": {
   "chleb": {
    "baza": 3,

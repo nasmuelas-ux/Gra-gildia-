@@ -5,12 +5,12 @@
   "dzien": 15,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 2,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-15 RANEK (DRUGI ZABOJCZY SZTORM pogoda 2, Dzien Ojca; INBOUND 80 pilny): drugi brutalny sztorm zimy uderzyl w nocy - lodowy wicher, snieg, morderczy mroz. ALE tym razem system DUZO odporniejszy niz przy 1. sztormie (11-05): relief-instytucja+rezerwa pelna, podaz multi-source (redundancja proven 11-14), trasy+depot. To ma byc WALIDACJA hartowania - kontrast do brnięcia osobistego 11-05. PILNY INBOUND: sztorm bije GORNA DOLINE (Harrol/Berena/Ronnel w zebach sztormu) + ubodzy miasta - realny test sieci pod ekstremum. Symon wypoczety. Kasa 131, staple 32, finanse 6, fundusz+rezerwa gotowe, multi-source, depot Wendla, Hollis. Roznica vs 1. sztorm: teraz STEWARD z odpornym systemem, nie mul brnacy sam. Decyzja gracza=jak rozegrac 2. sztorm.",
+ "nastroje_miasta": "297-11-15 POPOLUDNIE (rzut 52, 2. sztorm zwiedziony GLADKO ze STEWARDA): Symon dowodzil z CENTRUM, ufajac systemowi - i zdal WZOROWO, kontrast do 1. sztormu (brniecie osobiste+ciezki koszt). Multi-source pokryl luki AUTOMATYCZNIE, relief-instytucja niosla (fundusz+rezerwa+Bran/Wiara, nikt osiagalny nie zamarzl), depot/warianty/Hollis utrzymaly holdingi (Harrol/Berena/Ronnel bezpieczni mimo zebow sztormu), castle-first caly (Wylis proof+2/+2). KOSZT MINIMALNY ~-6 (vs -58 przy 1. sztormie) - system wchlonal, nie Symon. WIDOCZNY kontrast gdy czesc regionu cierpi=twardy dowod 'dowiez zime' dla Wymana, elewacja dojrzewa mocno (dwie zabojcze zimy zwiedzione, 2. wzorowo). Cala arka hartowania (relief-instytucja+multi-source+depot+redundancja) VALIDATED pod maks. Kasa 131->125, staple 32, finanse 6, zmeczenie 4 (koordynacja nie brniecie). Sztorm trwa.",
  "ceny": {
   "chleb": {
    "baza": 3,

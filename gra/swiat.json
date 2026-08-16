@@ -5,12 +5,12 @@
   "dzien": 1,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 31,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": "wielki_targ",
- "nastroje_miasta": "297-11-01 POLUDNIE (rzut 80, peer Doryana zamkniety): na Wielkim targu Symon domknal polecenie Doryana - kupiec VOSS (suchy towar, Schody) nowym klientem forensycznym (skim dostawcy, nisza Symona), +6 jel initial + retainer ~3/mies. WORD-OF-MOUTH: dwoch kupcow suchego towaru teraz reczy = firma sama przyciaga nastepnych (nisza-lock zaczyna sie zaciskac), blask na Halu/Lorrenie (firewall). Rownolegle: kurs w gore w drodze (wynik za dzien-dwa), Berena drzwi cieple, Harrol streak, staple aprecjuje, relief filar. Kasa 84->90, majatek ~945. Wielki targ trwa.",
+ "nastroje_miasta": "297-11-01 POPOLUDNIE (rzut 10, Wielki targ = szum nie sygnal): Symon probowal czytac ceny/intel w tlumie Wielkiego targu - ale wielki miesieczny targ to KAKOFONIA: wszyscy handluja naraz, plotki puchna od targowego podniecenia, ceny skacza na cienkich transakcjach. Czysty sygnal nie do wylapania dzis. Jego dyscyplina URATOWALA go przed pulapka niskiego rzutu - o malo nie dal sie ponieść froth-plotce o niedoborze (impulsywny dokup), ale w pore rozpoznal szum i NIE dzialal. LEKCJA/edge: wielki targ=szum; czysty odczyt daja ciche dni (targ rybny, kantor, Deman/Hollis), nie frothy tlum. Jedna metna plotka do zweryfikowania na spokojnie (zimowy froth zbozowy - sprzeczna, niepotwierdzona; sprawdzic z Nesta/Demanem, nie dzialac na niej). Zero straty (froth-buy unikniety). Kasa 90. Kurs w gore w drodze, Voss zamkniety, Berena drzwi cieple.",
  "ceny": {
   "chleb": {
    "baza": 3,

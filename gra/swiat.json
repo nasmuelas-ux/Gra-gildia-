@@ -1,16 +1,16 @@
 {
  "data": {
   "rok": 297,
-  "miesiac": 10,
-  "dzien": 31,
+  "miesiac": 11,
+  "dzien": 1,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 70,
- "dzien_tygodnia_nr": 5,
- "dzien_targowy": null,
- "nastroje_miasta": "297-10-31 WIECZOR (rzut 84, cicha firma zarobila BEZ Symona): Symon zajrzal do firmy spytac o ekstra audyt - i tak: LORREN samodzielnie domknal forensyczny audyt Doryana (potwierdzil+udokumentowal skim dostawcy) gdy Symon budowal siec w gore. Doryan wdzieczny/pod wrazeniem (nast 58->70, zauf 15->24), fee +6 jel + retainer trwa + cieply peer-referral w drodze. WALIDACJA endgame 'dom o wlasnych silach': firma stoi i zarabia bez pryncypala w terenie. Rownolegle: pierwszy zintegrowany kurs w gore gotow na rano (Harrol streak + dowod w zasieg Bereny), fundament sieci uruchomiony. Kasa 24->30, zapas 47, wypoczety.",
+ "pogoda": 31,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": "wielki_targ",
+ "nastroje_miasta": "297-11-01 RANEK (nowy miesiac, WIELKI TARG; INBOUND 69): pierwszy dzien miesiaca=Wielki targ, miasto pelne - kramy, kupcy z okolicy, gwar mimo chlodu (pogoda 31, mrozek szary ale nie zabojczy). O SWICIE ruszyl PIERWSZY zintegrowany kurs w gore doliny (Harrol streak + dowod w zasieg Bereny) - w drodze, wynik za dzien-dwa. PORANNY INBOUND: na Wielkim targu daje o sobie znac CIEPLY PEER-REFERRAL od Doryana - kupiec suchym towarem (peer Doryana) z podobnym podejrzeniem skimu, szuka dyskretnej forensycznej reki Symona; firma faktorska pociaga nastepnego klienta sama. Bilans mocny: siec polnocno-ladowa URUCHOMIONA, cicha firma zarabia bez pryncypala, Berena drzwi cieple (42/10), Harrol usatysfakcjonowany, staple 47 aprecjuje, relief filar. Kasa 30, zapas 47.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 31,
+ "dzien": 1,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

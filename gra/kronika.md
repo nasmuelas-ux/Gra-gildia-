@@ -7012,3 +7012,6 @@ Po powrocie z górnej doliny Symon odpoczął i zjadł, po czym usiadł do tego,
 
 ## 297-10-31 WIECZÓR — cicha firma zarobiła bez Symona (rzut 84)
 Przed nocą Symon zajrzał do firmy spytać, czy zrobili dziś jakiś ekstra audyt — i tak: Lorren samodzielnie domknął forensyczny audyt Doryana, potwierdzając i dokumentując podejrzewany skim dostawcy (drobny stały wyciek na suchym towarze). Doryan wdzięczny i pod wrażeniem, że firma jest pewna nawet gdy pryncypał w terenie — nast 58→70, zauf 15→24, fee +6 jel, retainer trwa, ciepły peer-referral w drodze. Walidacja endgame „dom o własnych siłach": cicha firma zarabia i buduje reputację bez Symona. Zbieżność dnia — Symon budował północną linię lądową, a arm faktorsko-forensyczny kręcił się sam. Kasa 24→30.
+
+## 297-11-01 RANEK — nowy miesiąc, Wielki targ; kurs w drodze
+Pierwszy dzień listopada — Wielki targ, miasto pełne mimo szarego mrozu (pogoda 31). O świcie ruszył pierwszy zintegrowany kurs w górę doliny (dostawa Harrolowi + dowód w zasięg Bereny) — w drodze, wynik za dzień-dwa. Poranny inbound: na targu daje o sobie znać ciepły peer-referral od Doryana — kupiec suchym towarem z podobnym podejrzeniem skimu szuka dyskretnej forensycznej ręki. Firma pociąga następnego klienta sama.

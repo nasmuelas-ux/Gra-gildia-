@@ -5,12 +5,12 @@
   "dzien": 29,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 33,
  "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-29 POPOLUDNIE (rzut 81, siec polnocno-ladowa dostaje ksztalt): Symon domknal DRUGA bezbledna zimowa dostawe do Ser Harrola (Hollis-vetted) - dumny rycerz z 'topniejacego' -> USATYSFAKCJONOWANY (52/26), mowi o Symonie jak o swoim czlowieku, kontrakt PEWNY, gotow reczyc gdy dostawa=pelny dowod. Rownolegle zasiew u Godrica (referrer, zna krag gentry Manderlych) dal NAZWANY nastepny wezel: LADY BERENA z Wierzbowego Brodu (wdowa, holdfast w gore Bialego Noza, spichrze niepewne, dumna/pragmatyczna). Metoda: drabina cieplych wprowadzen Godric->Harrol-jako-dowod->Berena, nie zimne lowy. Siec ma ksztalt: Harrol=wezel1, Berena=prospekt2. Bilans: maszyna szeroka+validated, zapas staple ~35 aprecjuje, relief=filar, Wylis proof(23), season-reading, kruk odpalony. Kasa 48->53 (dostawa netto), zapas 35.",
+ "nastroje_miasta": "297-10-29 WIECZOR (rzut 54, kantor+selektywny dokup staple): Symon popracowal u Nesty - ksiegi/rotacja czysto, plynnosc twarda, +5 jel. Przy okazji ODCZYTAL rynek z Nesta: post-kruk froth OPADA nierowno - opal juz zszedl z piku (mroz zelzal, brak edge), zboze steady, ale SOL wciaz pod prawdziwym zimowym szczytem (scisk konserwacji rosnie). Dyscyplina Nesty: NIE dokupywac calego koszyka na oslep - selektywnie tylko to co ma jeszcze glowe do wzrostu = dolozyl ~12 jel w SOL (+ odrobine zboza), reszte odpuscil. Zapas staple 35->47, plynnosc/bufor nietkniete. Kasa 53->46. Bilans: maszyna szeroka+validated, siec polnocno-ladowa ma ksztalt (Harrol wezel1/Berena prospekt2), relief=filar, Wylis proof(23), season-reading, staple pozycja rosnie madrze.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -35,7 +35,7 @@
   "opal": {
    "baza": 8,
    "mnoznik": 1.3,
-   "przyczyna": "mroz zelzal znow (POGODA 84) - opal schodzi z piku"
+   "przyczyna": "mroz zelzal (POGODA lekka) - opal zszedl z piku, brak edge do dokupu"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -44,8 +44,8 @@
   },
   "sol": {
    "baza": 45,
-   "mnoznik": 1.2,
-   "przyczyna": "konserwacja na zime, popyt rosnie"
+   "mnoznik": 1.25,
+   "przyczyna": "zimowy scisk soli dalej rosnie (konserwacja) - jedyny staple wciaz pod szczytem"
   },
   "prowiant_uwaga": null
  },

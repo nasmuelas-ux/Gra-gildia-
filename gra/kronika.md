@@ -6880,3 +6880,10 @@ Symon poszedł domknąć referral Godrica. Ser Harrol z Kamiennego Brodu — ryc
 
 ## 297-10-22 POŁUDNIE→POPOŁUDNIE — Zarobkowanie (rzut 86, tłusto)
 Maszyna huczy: premium audyt z Corlissem, retainery Hala, Doryan na księdze. Dobry konkretny dzień, kasa odbudowana. +13 jel (59→72). Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-22 POPOŁUDNIE→WIECZÓR — Logistyka teoretyczna u Theomore'a (bez rzutu; frontier + foreshadow + traktat)
+Symon wyłożył maesterowi węzły logistyczne swojego łańcucha i logistykę TEORETYCZNĄ (węzły, przepustowość, wąskie gardła, redundancja, bufor jako amortyzator). Theomore: „rysujesz system, nie opowieść o wozach; Cytadela ma kawałki (geometria/pojemność, złote ogniwo/podaż-cena, astronomia/timing), ale nikt ich nie spiął." Najbliżej klasycznie = **logistyka wojskowa** (ogniwo wojenne: jak armia maszeruje i je, tabory) — ale liczą wojnę, nie naukę.
+
+**Foreshadow (Theomore, nieświadomie ku 299):** „kto dowiezie zboże do zamku w mróz, dowiezie i do **armii w polu**; gdyby Północ ruszyła na wojnę, taki jak ty wart więcej niż rycerz." (Spina z osią świata: ~299 Wojna Pięciu Królów = war-provisioning = atut Symona na skali wojennej.)
+
+**Traktat pchnięty mocniej:** spisać węzły/bufory/rachubę ryzyka → imię jako UMYSŁ, nie tylko ręka; wektor ku Winterfell („umysłem wchodzi się jak mieczem"). Theomore nast+2/zauf+1; włodarstwo (teoria) praktykowane. Pora POPOŁUDNIE→WIECZÓR.

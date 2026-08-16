@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 2,
+  "dzien": 3,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 34,
- "dzien_tygodnia_nr": 7,
- "dzien_targowy": null,
- "nastroje_miasta": "297-11-02 WIECZOR (rzut 41, cichy zarobek w Dzien Matki): Symon odpoczal chwile i ruszyl dyskretnie forensyke Vossa - swieto idealne na cicha prywatna robote przy ksiegach (nie open-market). Namierzyl+zaczal dokumentowac wyciek u dostawcy Vossa, wstepna zaplata ~5 jel (kasa 79->84), Voss zauf 20->22. Dzien pelny i wlasciwy: rozdawanie w septie (Owen 95/61), rezerwa reliefowa wzmocniona przed przednowek, cichy zarobek. Kurs w gore wciaz w drodze (wiesc jutro). Staple 38 (reszta w relief), majatek zdrowy.",
+ "pogoda": 47,
+ "dzien_tygodnia_nr": 1,
+ "dzien_targowy": "ryby",
+ "nastroje_miasta": "297-11-03 RANEK (targ rybny; INBOUND: kurs wrocil z DOBRA wiescia): pochmurny umiarkowany dzien (pogoda 47). PORANNY INBOUND: pierwszy zintegrowany kurs w gore doliny WROCIL - dostawa udana (rzut 65). Harrol 3. bezbledna dostawa=PEWNY aktywny voucher (56/31); DOWOD dotarl w zasieg Bereny (etapowanie Wendla dziala) - Berena 50/18, drzwi PELNE otwarte na umowe (fakt nie slowo). Marza kursu +12 (kasa 84->96). LINIA POLNOCNA PROWEN end-to-end w realnej zimie. Nastepny naturalny krok: otworzyc Berene porzadnie (Mira+dostarczony dowod). Bilans mocny: Voss forensyka w toku, rezerwa reliefowa wzmocniona, staple 38, Owen 95/61, warrant+ucho lorda Manderly.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -19,8 +19,8 @@
   },
   "ryba": {
    "baza": 2,
-   "mnoznik": 1.0,
-   "przyczyna": "Dzien Matki - handel przygaszony"
+   "mnoznik": 0.9,
+   "przyczyna": "targ rybny - swieza podaz"
   },
   "pergamin": {
    "baza": 40,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki",
- "dzien": 2,
+ "swieto": null,
+ "dzien": 3,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

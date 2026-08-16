@@ -1817,13 +1817,14 @@
     "297-10-27 NOC: starania o dziecko, slodko-gorzko po wiesci o ciazy Alys. Mira ciszej/prawdziwiej niz 1. nocy (strach mniej surowy, nadzieja=rytm): 'ciesze sie ich szczesciem i zazdroszcze odrobine lekkosci ktorej nie mam; u mnie nie przyjdzie latwo - wolno, pozno, moze...; ale ty przy mnie jestes, czekanie nie jest samotne, to juz wiecej niz mialam'. Symon: obietnica OBECNOSCI nie cudow, oboje poniesiemy. Bol dzielony wiaze; blizej siebie niz kiedykolwiek. (Poczecie dalej wolne/niepewne - historia Miry; nie rozstrzygac szybko.)",
     "297-10-28 NOC: Symon przyszedl po prostu SPEDZIC CZAS - nie narada, nie ciezar, nie o dziecko. Cichy latwy wieczor (gotowanie/smiech/milczenie bez slow) po tygodniu prob ognia. Malzenstwo co przetrwalo trudne dni umie cieszyc sie latwymi; blizej siebie, spokojni. Companionship at rest.",
     "297-11-18: Symon spytal czego ONA chce (by jej imie roslo wlasna sila) - Mira wyartykulowala wizje: DOM SUKNA z jej imieniem + KRAG KOBIET Polnocy (wdowy/panie holdfastow, siec zamknieta dla mezczyzn, ona ma wejscie). Symon afirmowal jako rowny (korytarz pod jej pieczec, jej budowa). Gleboka wdziecznosc/milosc - potraktowal ja jak wlasny podmiot nie dodatek.",
-    "297-11-19 (rzut 78): Symon otworzyl drzwi (korytarz sukna WPROST pod jej firme/pieczec, wprowadzenia), Mira poprowadzila - MOCNY START jej DOMU SUKNA 'od Miry' (rebrand z 'kramu wdowy' w imie/marke, pierwsze zamowienia jako JEJ dom) + pierwszy watek KREGU KOBIET (Berena jako 1. wezel jej sieci + dojscie do kolejnej pani/wdowy). Jej imie zaczyna krazyc NIEZALEZNIE. Gleboka satysfakcja/agency - Symon niosl nie przykryl. Partnerstwo rownych w czynie."
+    "297-11-19 (rzut 78): Symon otworzyl drzwi (korytarz sukna WPROST pod jej firme/pieczec, wprowadzenia), Mira poprowadzila - MOCNY START jej DOMU SUKNA 'od Miry' (rebrand z 'kramu wdowy' w imie/marke, pierwsze zamowienia jako JEJ dom) + pierwszy watek KREGU KOBIET (Berena jako 1. wezel jej sieci + dojscie do kolejnej pani/wdowy). Jej imie zaczyna krazyc NIEZALEZNIE. Gleboka satysfakcja/agency - Symon niosl nie przykryl. Partnerstwo rownych w czynie.",
+    "297-11-20 (rzut 35): POTWIERDZONE u zielarki - Mira PRZY NADZIEI (z dzieckiem Symona). Signs zdrowe, ale zielarka radzi ostroznosc przy jej historii (wczesny term kruchy, odpoczynek/dobre jedzenie/bez przeciazenia). Mira: mur ostroznosci pekl - stara rana i nowa nadzieja naraz; Symon przy niej. Prywatne, nie oglaszac. Rozwiazanie ~lato 298."
    ],
    "potrzeby": [
     "utrzymac resztke interesu meza",
     "niezaleznosc/nie dac sie popchnac"
    ],
-   "ostatni_kontakt": "297-11-19",
+   "ostatni_kontakt": "297-11-20",
    "cechy_mowy": "krotko, rzeczowo, chlodno; bystra, przenikliwa, malo daje z siebie; twarda niezaleznosc",
    "_profil_lead": "NITKA malzenska od Nesty (d29). Mloda wdowa (~25) po kupcu Braavos-adjacent (zmarl na febre zesz. wiosny). PISMIENNA (prowadzila meżowi ksiegi), OBROTNA (ciagnie resztke handlu sama, twardo), NIEZALEZNA (bez ojca, wybiera sama) = dokladnie typ Symona. OSTROZNA/WYBREDNA - nie da sie popchnac ani kupic; trzeba byc jej wart (bron Symona=autentycznosc). Nesta znajdzie naturalny pretekst poznania (robota pisarska/handlowa, bez swatowskiej pompy). JESZCZE NIEPOZNANA.",
    "flaga_postawa": "AKTYWNE PARTNERSTWO (07-24) - korytarz sukna DOPIETY na jej warunkach: zostaje soba (handel/ksiegi/reka nietkniete), wnosi braawijskie dojscia+wiedze jako WEZEL Z AGENCJA za uczciwy wycinek, moze sie wycofac (autonomia zelazna). Wybrala wspolne przedsiewziecie z Symonem jak rowna. Bond poglebia sie przez wspolna prace, nie deklaracje. NIE napierac personal - rosnie samo.",
@@ -1831,7 +1832,8 @@
    "nastawienie": 95,
    "rok_urodzenia": 272,
    "backstory_dzieci": "syn z Rovanem zmarl przed 1. rokiem (gorączka); Rovan zmarl 2 lata pozniej; potem dzieci nie przyszly; nie mloda - dzieci mozliwe ale niepewne, poród ryzykowny",
-   "flaga": "ZONA Symona (od 297-10-13). Rowna partnerka, wlasny grunt (sukno/dom/autonomia), gwiazda dzielona."
+   "flaga": "ZONA Symona (od 297-10-13). Rowna partnerka, wlasny grunt (sukno/dom/autonomia), gwiazda dzielona.",
+   "stan_szczegolny": "PRZY NADZIEI (potwierdzone 297-11-20 przez zielarke) - wczesny term (~2-3 tyg), rozwiazanie ~lato 298. Przy jej HISTORII (raz juz przegrala) zielarka radzi OSTROZNOSC: odpoczynek, dobre jedzenie, unikac przeciazenia; wczesne dni=kruche, trzymac nadzieje delikatnie kilka tygodni az sie ugruntuje. Cautiously hopeful. NIE oglaszac (wczesnie+jej historia)."
   },
   {
    "id": "septon_torren",

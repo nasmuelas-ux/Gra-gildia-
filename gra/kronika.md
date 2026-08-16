@@ -7252,3 +7252,6 @@ Mira, krucho, głosem, którego Symon u niej nie znał, wyznała narastające zn
 
 ## 297-11-20 RANEK — jasna odwilż; cło; Mira proponuje zielarkę
 Śliczny jasny, łagodny dzień — prawdziwe okno-respite, rzadkie zimą (96). Cło portowe miesięczne opłacone (~10 jel, kasa 142, rutyna). Poranny inbound: Mira, z nadzieją z wczoraj, proponuje, by dziś pójść do zielarki / mądrej kobiety po pewność co do dziecka — jasny dzień sprzyja, dyskretnie, we dwoje. Poza tym okno dobre na trakty, handel, arc Miry. W tle wszystko torem: stały warrant, dom sukna Miry, refi sprimowany, traktat i sponsor ku Winterfell, elewacja dojrzewa.
+
+## 297-11-20 RANEK→POŁUDNIE — POTWIERDZONE: Mira przy nadziei (rzut 35)
+Poszli razem, w jasny dzień, do zielarki — i usłyszeli to na pewno: Mira nosi dziecko. Znaki zdrowe, ale ocena solidna, nie beztroska: przy historii Miry (raz już przegrała) zielarka radzi realną ostrożność — odpoczynek, dobre jedzenie, unikać przeciążenia; wczesne dni są kruche, więc trzymać nadzieję delikatnie jeszcze kilka tygodni, aż się ugruntuje. Cautiously hopeful. Rozwiązanie około lata 298. Nie ogłaszać — za wcześnie, i jej historia każe być ostrożną. Mirze pękł mur ostrożności: stara rana i nowa nadzieja naraz, a Symon przy niej. Wielki osobisty kamień milowy — dom zbudowany akurat na czas, jak powiedziała. Kasa 142→139 (zielarka).

@@ -5,12 +5,12 @@
   "dzien": 1,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 31,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": "wielki_targ",
- "nastroje_miasta": "297-11-01 RANEK (wyjasnienie skali przychodu): gracz 'co tak malo?' - bo +54 to TYLKO warstwa pasywna (auto 1. dnia). Pelny przychod brutto ~160/mies = pasywna 54 + OPERACYJNA ~107 (prowiant zamek 45+drewno 20+zelazo 15+Harrol 12+guided 9+korytarz 6), ktora kapie PER DOSTAWA przez caly miesiac (nie hurtem 1. dnia). Brutto 160 - opex ~95 = netto ~55-65. Warstwy B NIE kredytuje sie z gory (=zmyslanie dostaw); leci per rzut przy dostawie. Kasa 84 (30+46 auto+8 cichy klient). Majatek ~940-960. Kurs w gore w drodze (zaplaci po dostawie). Wielki targ trwa, peer-referral Doryana czeka.",
+ "nastroje_miasta": "297-11-01 POLUDNIE (rzut 80, peer Doryana zamkniety): na Wielkim targu Symon domknal polecenie Doryana - kupiec VOSS (suchy towar, Schody) nowym klientem forensycznym (skim dostawcy, nisza Symona), +6 jel initial + retainer ~3/mies. WORD-OF-MOUTH: dwoch kupcow suchego towaru teraz reczy = firma sama przyciaga nastepnych (nisza-lock zaczyna sie zaciskac), blask na Halu/Lorrenie (firewall). Rownolegle: kurs w gore w drodze (wynik za dzien-dwa), Berena drzwi cieple, Harrol streak, staple aprecjuje, relief filar. Kasa 84->90, majatek ~945. Wielki targ trwa.",
  "ceny": {
   "chleb": {
    "baza": 3,

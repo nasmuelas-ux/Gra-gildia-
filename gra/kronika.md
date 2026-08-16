@@ -7024,3 +7024,6 @@ Gracz słusznie wychwycił, że przez październik księgowano tylko marże per-
 
 ## 297-11-01 RANEK — dochód z własnej firmy faktorskiej (dopisane +8)
 Gracz dopytał o dochód z jego WŁASNEJ firmy faktorskiej (2/3 jego, osobna od kantoru Nesty). Retainery zaksięgowano wcześniej (+12), ale pominięto recurring "cichego klienta" — stałą cichą obsługę ksiąg grubszego domu, prowadzoną przez Hala pod pieczęcią Symona. Dopisano zaległe +8. Kasa 76→84. Utrwalono rozróżnienie dwóch bytów i zaktualizowano łączny auto-wpływ miesięczny do ~+54 (baza + retainery + cichy klient + plon rotacji + odsetki + czynsze). Per-event (audyty, guided-haul, marże filarów) i dostawy w drodze księgowane osobno przy zdarzeniu.
+
+## 297-11-01 RANEK→POŁUDNIE — peer Doryana zamknięty (rzut 80)
+Na Wielkim targu Symon domknął ciepłe polecenie Doryana: kupiec Voss (suchy towar, Schody) z podobnym podejrzeniem skimu u dostawcy. Zavettował, domknął czysto — wstępny przegląd forensyczny od ręki namierzył trop wycieku (rdzenna nisza Symona). Nowy trwały klient: +6 jel initial + retainer ~3/mies. Mocny rzut dał word-of-mouth: dwóch kupców suchego towaru na Schodach teraz ręczy, więc branża zaczyna sama iść do Symona po forensykę — nisza-lock się zaciska. Blask bezpiecznie na Halu/Lorrenie (firewall czysty). Firma rośnie właściwie — przez zaufany kanał, nie głośne łowy. Kasa 84→90.

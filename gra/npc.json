@@ -2374,6 +2374,17 @@
    "wie_o_graczu": [
     "297-10-31 (rzut 39): Symon przyjechal za dnia (pogoda 70) domknac forward-depot - reczenie Leony otworzylo drzwi. Wendel (twardy, praktyczny chlop, chudy rok) chetny: puste stodoly=dochod z niczego. UMOWA: stage/sklad posredni towaru miedzy kursami w gore doliny za oplate. KOSZT-CATCH (rzut solidny nie perfekcyjny): Wendel chcial czesc z gory (chudy rok, nie ufa na slowo obcemu z portu) + stodola wymaga drobnego ogarniecia pod towar zimowy = ~6 jel zamiast ~4. Pojemnosc na START sieci (nie nieograniczona). DEPOT DZIALA: gorny odcinek ku Berenie teraz WYKONALNY (etapowanie rozwiazane, luka Hollisa zamknieta). nast 58, zauf 20."
    ]
+  },
+  {
+   "id": "kupiec_voss",
+   "imie": "kupiec Voss",
+   "zawod": "kupiec suchym towarem/zapasami (Schody), peer Doryana - sredni obrot",
+   "nastawienie_do_gracza": 62,
+   "zaufanie": 20,
+   "ostatni_kontakt": "297-11-01",
+   "wie_o_graczu": [
+    "297-11-01 (rzut 80, Wielki targ): przyszedl z polecenia Doryana (ktoremu Symon/Lorren wykryl skim dostawcy). Podobny klopot - podejrzewa staly wyciek u wlasnego dostawcy suchego towaru. Symon zavettowal (czysty, realna potrzeba) i domknal czysto: wstepny przeglad forensyczny od reki namierzyl trop wycieku (nisza Symona). NOWY DURABLE KLIENT: +6 jel initial + retainer ~3/mies. Voss pod wrazeniem dyskrecji+kompetencji, poleci dalej (word-of-mouth na Schodach = kupcy suchego towaru zaczynaja isc do Symona po forensyke). Marka premium/cicha glebiej zakotwiczona; blask bezpiecznie na Halu/Lorrenie (firewall). nast 62, zauf 20."
+   ]
   }
  ],
  "orbita": [

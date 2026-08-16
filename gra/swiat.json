@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 22,
+  "dzien": 23,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 35,
- "dzien_tygodnia_nr": 3,
+ "pogoda": 95,
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-22 POLUDNIE (domkniete zlecenie z Ser Harrolem, rzut 50 solidny): Symon domknal skromny kontrakt zimowego prowiantowania holdingu Ser Harrola z Kamiennego Brodu (rycerz Manderly-sworn, referral Godrica) - autentycznie, szacunek bez plaszczenia, liczby, godnosc rycerza zachowana. Kontrakt na WOLNEJ pojemnosci (castle-first nietkniety), frost-proof, uczciwy. NOWY KLIENT GENTRY + zimowy strumien marzy (kapitalolekko). REPUTACJA: krok z kupieckiego swiata w KREW/NADANIE - rycerz zna imie Symona = szczebel ku wlodarzowi Polnocy (gwiazda); glebszy prestiz dojrzeje przez dowiedziona dostawe zimy. +4 jel (kasa 55->59). Reszta: maszyna twarda+zdywersyfikowana, Wylis nast 21 (stala umowa: 1 czysta zima), refi zegar zimowy, relief napelniony/Elna odtaja, dziecko-nadzieja, nauka finansow. Kasa 59.",
+ "nastroje_miasta": "297-10-23 RANEK (znow dar pogody: pogoda 95 - jasny, lagodny dzien, mroz zelzal; okno logistyczne): spokojny poranek, inbound cichy (45). Milsza pogoda=trakty przejezdne - dobre okno na ruch prowiantu (zamek + nowy Ser Harrol), gladkie operacje dla zdywersyfikowanej maszyny. Reszta: Wylis nast 21 (stala umowa: 1 czysta zima dowozu), Ser Harrol kontrakt zawarty (dostawa dojrzewa), refi zegar zimowy, korytarz (welny), relief napelniony/Elna odtaja, dziecko-nadzieja, nauka finansow/logistyki teoretycznej (traktat pchniety). biały kruk Cytadeli ~297-11 zbliza sie. Kasa 72.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 22,
+ "dzien": 23,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

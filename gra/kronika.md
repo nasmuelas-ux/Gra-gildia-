@@ -6948,3 +6948,6 @@ Owen dał **uznanie**, nie przestrogę: „nakarmiłeś Północ przez zabójczy
 
 ## 297-10-27 RANEK→POŁUDNIE — Guided-haul łapie trakcję (rzut 43, solidnie)
 Symon domknął zainteresowanego kupca (zimowy towar via Hollis-vetted trasy + wozy Borena + brand niezawodności), a frost-demo word-of-mouth („dowozi, gdy inni marzną") podpięło kolejnych — guided-haul z launch przeszedł w **funkcjonujący, rosnący interes.** Boren JV benefit (guild wozi premium, nie na ślepo za grosze). +6 jel (68→74), strumień tłuścieje z głębią zimy. Katastrofa brodu ostatecznie obrócona w rosnącą linię dochodu. Pora RANEK→POŁUDNIE.
+
+## 297-10-27 POŁUDNIE→POPOŁUDNIE — Zarobkowanie (rzut 39, zwyczajnie)
+Zwykła sesja: retainery, drobny audyt. +5 jel (74→79). Pora POŁUDNIE→POPOŁUDNIE.

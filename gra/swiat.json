@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 21,
- "dzien_tygodnia_nr": 2,
- "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-18 WIECZOR (rozmowa: wizja Miry): Symon spytal czego MIRA chce by jej imie roslo wlasna sila - Mira wyartykulowala WLASNA wizje: DOM SUKNA 'od Miry' (marka, nie kram wdowy) + KRAG KOBIET POLNOCY (wdowy same ciagnace gospodarstwa jak Berena, panie holdfastow - siec do ktorej mezczyzna nie ma wejscia, ona MA). Rownolegla siec obok meskiej sieci Symona: dwie sieci jeden dom, ona OBOK nie pod. Symon afirmuje jako rowny (korytarz sukna pod jej firme/pieczec). Partnerstwo rownych glebsze; Mira jako wlasny arc. 'moze' o dziecku w tle narasta. Kasa 151, finanse 6, wlodarstwo 7, staly warrant, 3 kontrakty doliny, traktat+sponsor, elewacja dojrzewa.",
+ "pogoda": 48,
+ "dzien_tygodnia_nr": 3,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-11-19 RANEK (umiarkowanie 48; INBOUND: Mira gotowa zaczac + clo jutro): znosny dzien. PORANNY INBOUND: Mira, rozpalona wczorajsza rozmowa, gotowa RUSZYC swoja budowe (dom sukna+krag kobiet) - pyta czy Symon wesprze pierwszy krok (otworzyc co moze, ale to jej budowa). Poza tym: clo portowe ~jutro (20-ty, miesieczny koszt ~10 jel), maszyna miele, staly warrant zamku plynie, relief-instytucja. Kasa 151, staple 32, finanse 6, wlodarstwo 7. W tle 'moze' o dziecku narasta (13 dni). 3 kontrakty doliny, traktat+sponsor ku Winterfell, elewacja dojrzewa. Plan zimy: maintain+poduszka na wiosenny refi. Nastepny krok: wesprzec start Miry / wlasne tory.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.35,
-   "przyczyna": "mroz (21) - opal wysoko"
+   "mnoznik": 1.25,
+   "przyczyna": "mroz umiarkowany (48)"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 18,
+ "dzien": 19,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

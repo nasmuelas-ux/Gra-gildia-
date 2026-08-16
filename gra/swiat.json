@@ -5,12 +5,12 @@
   "dzien": 7,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 27,
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-07 RANEK (rzut 26, intel Godrica - czesciowy): Godric zdradzil co wie, ale uczciwie zastrzegl ze nie zna pelnej mysli lorda. CO WIE: wezwanie wiaze sie ze sztormem+gotowoscia zimy - sztorm obnazyl slabosci w zaopatrzeniu/reliefie zamku i miasta, a Wyman widzial KTO dowiozl (Symon) a kto zawiodl; lord mysli SZERZEJ o bezpieczenstwie zimy. Read Godrica: lord pewnie chce ROZSZERZYC/sformalizowac role Symona w zimowym prowiantowaniu (wiekszy warrant? doradztwo o gotowosci CALEGO miasta, nie tylko zamku?). KOSZT (marginalny): Godric NIE zna pelnego asku (luka) + ostrzega ze aftermath ma ocalalych oficerow (ser Bertram, urazeni) patrzacych kogo lord wynosi - podniesiony profil=zawisc; trzymac firewall (Antaryon partner Wymana) + doktryne 'uczciwy i nudny'. Symon wchodzi PRZYGOTOWANY kierunkowo, nie ze scenariuszem. Kasa 69, wypoczety. Nastepne: isc do lorda (moze dograc z Nesta/Mira firewall).",
+ "nastroje_miasta": "297-11-07 POLUDNIE (rzut 17, audiencja u Wymana - dobra gra, upside odmowiony przez dwor): Symon zagral doktryne bezblednie - czyste lokalne pokazane (siec polnocna, fundusz reliefowy, Bennet/Merrek/Torwyn), Braavos/Antaryon w mroku (FIREWALL HELD), chwala rozdana (Wiara/kupcy/Bran), urzedu nie chwycil. Wyman cieply, pod wrazeniem gotowosci. ALE ELEWACJI DZIS BRAK: dwor raw po sztormie, ser Bertram obecny, ocalali oficerowie patrza - lord nie moze wynosic gbura zbyt szybko bez rozpalenia urazonych; DEFERRED 'dowiez te zime, wtedy o wiekszym' (wzor dowodu jak Wylis/Harrol). Relacja HELD 78/48, firewall czysty, ale wielki rung PARKOWANY do przezycia zimy; zawisc dworu (Bertram) teraz aktywna. Symon zagral dobrze - roll odmowil upside (dwor niegotowy), nie blad. Kasa 69, wraca. Nastepne: przezyc/dowiesc zime (to jest teraz zadanie).",
  "ceny": {
   "chleb": {
    "baza": 3,

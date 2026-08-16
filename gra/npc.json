@@ -1066,10 +1066,11 @@
    "zawod": "Lord Bialego Portu, najpotezniejszy chorazy Starkow; pozornie senny grubas o bystrych oczach, lojalny Polnocy, cunning",
    "nastawienie_do_gracza": 76,
    "zaufanie": 46,
-   "ostatni_kontakt": "297-10-02",
+   "ostatni_kontakt": "297-11-07",
    "wie_o_graczu": [
     "297-10-02 (rzut 45): wezwal Symona po radzie ws. prowiantowania po upadku pierscienia. Symon przyszedl z GOTOWYM czystym rachunkiem prowiantu (nie z prosba - z rozwiazaniem). Lord ZAADOPTOWAL plan: dwa lokalne zrodla+rygor szlakow+etapowanie z kara-na-siebie (to co Aldric blokowal - lord bierze pelnym warrantem). Zajete zboze: Symon oddal je lordowi jako JEGO hojnosc przez Wiare (relief), nie zagarnal zaslugi - Wyman zauwazyl (znow rozdal chwale). Kompetencja+pokora potwierdzone praktyka; 'czlowiek rady' z obietnicy staje sie faktem. Wyman testowal czy gbur chwyci za duzo - nie chwycil. nast 72->76, zauf 40->46.",
-    "297-10-12: Wyman przyslal Symonowi dar weselny (beczka wina + slowo laski) - nieslychane dla gbura. Symon przyjal z godnoscia i ODDAL wino biednym (cichy rozdzial Dnia Matki, hojnosc lorda przez Wiare) zamiast na pokaz. Gdy slowo dojdzie do Wymana - potwierdzi to co ceni: czlowiek co nie chwyta zaszczytu dla siebie lecz obraca w dobro. Regard poglębi sie."
+    "297-10-12: Wyman przyslal Symonowi dar weselny (beczka wina + slowo laski) - nieslychane dla gbura. Symon przyjal z godnoscia i ODDAL wino biednym (cichy rozdzial Dnia Matki, hojnosc lorda przez Wiare) zamiast na pokaz. Gdy slowo dojdzie do Wymana - potwierdzi to co ceni: czlowiek co nie chwyta zaszczytu dla siebie lecz obraca w dobro. Regard poglębi sie.",
+    "297-11-07 (rzut 17, audiencja po sztormie): Symon zagral doktryne bezblednie - pokazal CZYSTE lokalne (siec polnocna, fundusz reliefowy, Bennet/Merrek/Torwyn), Braavos/Antaryon w mroku (firewall HELD), rozdal chwale (Wiara/kupcy/Bran), nie chwycil urzedu. Wyman cieply, pod wrazeniem gotowosci (fundusz+siec=myslenie o zimie calego regionu). ALE elewacji NIE bylo dzis: (a) dwor RAW po sztormie, ocalali oficerowie (ser BERTRAM obecny) patrza - lord nie moze wynosic gbura zbyt szybko/jawnie bez rozpalenia urazonych rycerzy tak wczesnie; (b) Wyman ostrozny/mysli o szerszym aftermath. DEFERRED: 'dowiez mi te zime jak dotad, wtedy pogadamy o wiekszym' (echo wzoru Wylisa/Harrola - dowod przez zime). Relacja HELD 78/48 (nie spadek - lord wciaz cieply), firewall czysty, ale wielki rung PARKOWANY do przezycia zimy. Symon zagral dobrze, roll odmowil upside (dwor niegotowy), nie bledem Symona."
    ]
   }
  ],
@@ -2298,10 +2299,11 @@
    "zawod": "stary gwardyjny rycerz dworu Manderlych; KANDYDAT na wakat kasztelana",
    "nastawienie_do_gracza": -15,
    "zaufanie": 0,
-   "ostatni_kontakt": "297-10-08",
+   "ostatni_kontakt": "297-11-07",
    "wie_o_graczu": [
     "297-10-08: obecny na audiencji, gdy lord pytal Symona (gbura) o rade ws. prowiantu i kasztelanii. Niechec starego rycerza do parweniusza-faworyta lorda STWARDNIALA w konkretna wrogosc. Jesli zostanie kasztelanem = wrogi nadzorca nad zaopatrzeniem zamku (filary firmy).",
-    "297-10-08 (intel Symona rzut 67): wrog honorowy nie zdradliwy (zamrozilby/snil, nie uknulby klamstwa); zolnierz nie zarzadca (slaby na ksiegach=slabszy kandydat niz staz sugeruje); kandydatura niepewna vs Wylis. Handle: kompetencja nie intryga."
+    "297-10-08 (intel Symona rzut 67): wrog honorowy nie zdradliwy (zamrozilby/snil, nie uknulby klamstwa); zolnierz nie zarzadca (slaby na ksiegach=slabszy kandydat niz staz sugeruje); kandydatura niepewna vs Wylis. Handle: kompetencja nie intryga.",
+    "297-11-07 (audiencja Symona u lorda po sztormie): Bertram OBECNY, uraza teraz JAWNA/aktywna - patrzyl jak lord wzywa gbura po sztormie i mysli o poszerzeniu jego roli nad glowami ocalalych rycerzy. Jego obecnosc+chlod dworu REALNIE zawezily co lord mogl dzis dac (elewacja deferred). Wrog honorowy (nie intryga, lecz mrozacy chlod+staly nacisk klasowy); constraint na tempo awansu Symona. Doktryna: uczciwy+nudny, nie dawac historii, dowiesc zima."
    ],
    "cechy_mowy": "chlodny, wynioslny, rycerska pogarda dla nisko urodzonych",
    "flaga": "WROG HONOROWY (duma klasowa nie spisek) + OGRANICZONY (zolnierz nie zarzadca). Kandydatura niepewna (Wylis numerata lepszy na stewarda). Broc: nienaganna uzytecznosc, nie intryga; jego duty/honor + potrzeba lorda graja za Symonem."

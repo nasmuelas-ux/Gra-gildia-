@@ -5,12 +5,12 @@
   "dzien": 30,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 46,
  "dzien_tygodnia_nr": 4,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-10-30 RANEK (nowy dzien, targ rybny): Bialy Port budzi sie w szary, umiarkowany chlod (pogoda 46 - mroz odpuscil, ani zabojczy ani jasny). Targ rybny (dzien podzielny przez 3) - keje ozywione, swieza ryba schodzi w dol. Symon wypoczety po wieczorze z Mira. Kierunek trzyma: siec polnocno-ladowa ma ksztalt (Harrol wezel1 usatysfakcjonowany/przyszly voucher, Berena prospekt2 przez Godrica+Mira), staple pozycja 47 aprecjuje (sol wciaz rosnie), relief=filar, maszyna szeroka+validated, Wylis proof(23), season-reading, bialy kruk odpalony. Kasa 46+zapas 47. Nastepne beaty osi (~298) dalej przed nami.",
+ "nastroje_miasta": "297-10-30 POLUDNIE (rzut 94, targ rybny - rozpoznanie+intel): Symon zjadl, poszedl na keje. DWIE rzeczy. (1) ROZPOZNANIE (nie ostrzezenie - ewolucja): na nabrzezu witaja go CIEPLO jako 'tego co karmi ubogich przez mroz' - handlarki/rybacy, ktorym relief pomogl, klaniaja sie, ustepuja miejsca; reputacja tarczy slabych sklada sie w kapital publiczny (nie zawisc). (2) INTEL SEZONOWY (jego edge, odczytany bezblednie 94): gadka rzecznych przewoznikow - Bialy Noz ZAMARZA WYZEJ i SZYBCIEJ niz zwykle; kanal rzeczny (ten co juz stanal ~11-13) lodzi sie dalej W DOL -> gorne holdingi (rejon Harrola/Bereny) beda ODCIETE od rzecznej dostawy WCZESNIEJ i TWARDZIEJ te zime. To ZLOTO dla sieci polnocno-ladowej: trakty ladowe Hollis-vetted staja sie JEDYNA linia zycia gornej doliny = dokladnie atut Symona + value-lead do Bereny ('rzeka was odetnie, my dowieziemy ladem'). Kasa 45+zapas 47.",
  "ceny": {
   "chleb": {
    "baza": 3,

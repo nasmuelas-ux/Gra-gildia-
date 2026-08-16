@@ -6988,3 +6988,6 @@ Popołudnie u Nesty w kantorze: księgi i rotacja czysto, płynność twarda, +5
 
 ## 297-10-30 RANEK — nowy dzień (targ rybny)
 Symon i Mira zamknęli 29-ty wieczorem przy dogasającym palenisku — Mira weszła w wątek Bereny jako równy strateg (rozumie słabszą stronę od środka; wprowadzenie do wdowy to robota dla niej tak samo jak dla Symona). Noc spokojna. 30-ty wstaje szary i umiarkowany (mróz odpuścił, pogoda 46), dzień targu rybnego. Inbox cichy.
+
+## 297-10-30 RANEK→POŁUDNIE — targ rybny: rozpoznanie i intel (rzut 94)
+Śniadanie, potem keje. Dwa plony. Nabrzeże wita Symona ciepło — jako „tego, co karmi ubogich przez mróz"; handlarki i rybacy, którym relief pomógł, kłaniają się, ustępują miejsca. Reputacja tarczy słabych składa się w publiczny kapitał, nie w zawiść. Drugi plon cenniejszy: gadka rzecznych przewoźników — Biały Nóż zamarza wyżej i szybciej niż zwykle, kanał rzeczny lodzi się dalej w dół. Górne holdingi (rejon Harrola i Bereny) zostaną odcięte od rzecznej dostawy wcześniej i twardziej tej zimy. To złoto dla sieci północno-lądowej: trakty lądowe Hollis-vetted stają się jedyną linią życia górnej doliny — dokładnie atut Symona i twardy value-lead do Bereny („rzeka was odetnie, my dowieziemy lądem"). Okno na wprowadzenie może przyspieszyć.

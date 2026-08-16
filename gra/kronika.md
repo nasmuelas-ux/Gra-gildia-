@@ -6937,3 +6937,6 @@ W killing frost (pogoda 7) Symon zabezpieczył relief I dostawy z Hollisem — i
 - **GUIDED-HAUL proof-of-concept** — Hollis-vetted trasy dowiozły czysto w najgorszej pogodzie = najlepszy możliwy marketing nowej linii.
 
 Reputacja/charakter: dowozi do zamku + gentry I karmi ubogich przez mróz, co łamie innych — reliable hand + shield of weak, gwiazda w akcji. Cash net +12 (kasa 58→70); relief drawn down (top-up, jeśli mróz potrwa); bufor podciągnięty, ale Hollis-routes = zero disaster/burn. Pora RANEK→POŁUDNIE.
+
+## 297-10-25 POŁUDNIE→POPOŁUDNIE — Zarobkowanie w mrozie (rzut 70, solidnie)
+Firma faktorska miele niezależnie od killing frost (biurko Hala, premium audyt Corliss, Doryan). +10 jel (70→80). Kasa odbudowana, dobry dzień w każdą stronę (maszyna validated rano + solidny utarg). Pora POŁUDNIE→POPOŁUDNIE.

@@ -5,12 +5,12 @@
   "dzien": 7,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 27,
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-07 POLUDNIE (rzut 17, audiencja u Wymana - dobra gra, upside odmowiony przez dwor): Symon zagral doktryne bezblednie - czyste lokalne pokazane (siec polnocna, fundusz reliefowy, Bennet/Merrek/Torwyn), Braavos/Antaryon w mroku (FIREWALL HELD), chwala rozdana (Wiara/kupcy/Bran), urzedu nie chwycil. Wyman cieply, pod wrazeniem gotowosci. ALE ELEWACJI DZIS BRAK: dwor raw po sztormie, ser Bertram obecny, ocalali oficerowie patrza - lord nie moze wynosic gbura zbyt szybko bez rozpalenia urazonych; DEFERRED 'dowiez te zime, wtedy o wiekszym' (wzor dowodu jak Wylis/Harrol). Relacja HELD 78/48, firewall czysty, ale wielki rung PARKOWANY do przezycia zimy; zawisc dworu (Bertram) teraz aktywna. Symon zagral dobrze - roll odmowil upside (dwor niegotowy), nie blad. Kasa 69, wraca. Nastepne: przezyc/dowiesc zime (to jest teraz zadanie).",
+ "nastroje_miasta": "297-11-07 POPOLUDNIE (rzut 15, zarobek chudy - zimowy zator): Symon poszedl zarobkowac, ale gleboka zima po sztormie DLAWI aktywny handel - kupcy skuleni, cash-tight po stratach sztormu, nowej roboty audytowej malo w ruchu; forensyka Vossa STANELA (domkniecie wymaga nastepnej dostawy dostawcy do porownania, opoznionej zima). Sesja sucha, token ~+2 jel (kasa 69->71). NIE blad - zimowy rynek zamarzniety. LEKCJA spojna z planem zimy: zimowy dochod=STEADY strumienie maszyny (prowiant/retainery/rotacja/pasywne) + winter provisioning, NIE nowy hustle w zamarznietym rynku. Reaffirmuje 'badz steward, len na maszyne'. Kasa 71, staple 32, plan zimy ustalony. Bertram front aktywny, elewacja deferred do dowiedzionej zimy.",
  "ceny": {
   "chleb": {
    "baza": 3,

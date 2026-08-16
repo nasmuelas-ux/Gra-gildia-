@@ -10,7 +10,7 @@
  "pogoda": 31,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": "wielki_targ",
- "nastroje_miasta": "297-11-01 RANEK (dochod z WLASNEJ firmy faktorskiej dopisany): gracz dopytal o dochod z jego firmy (faktorska, 2/3 Symon, osobna od kantoru Nesty). Recurring firmy: retainery +12 (bylo) + cichy klient +8 (POMINIETE, dopisane) = ~+20/mies. Kasa 76->84. Laczny auto-wplyw miesieczny odtad ~+54 (baza 6+retainery 12+cichy klient 8+rotacja 14+odsetki 12+czynsze 2). Per-event firmy (audyty Doryan +6, peer-referral CZEKA na targu) + marze filarow/guided-haul = przy zdarzeniu. Kurs w gore w drodze (zaplata na dostawie). Pelny majatek ~940-960 netto. Wielki targ trwa.",
+ "nastroje_miasta": "297-11-01 RANEK (wyjasnienie skali przychodu): gracz 'co tak malo?' - bo +54 to TYLKO warstwa pasywna (auto 1. dnia). Pelny przychod brutto ~160/mies = pasywna 54 + OPERACYJNA ~107 (prowiant zamek 45+drewno 20+zelazo 15+Harrol 12+guided 9+korytarz 6), ktora kapie PER DOSTAWA przez caly miesiac (nie hurtem 1. dnia). Brutto 160 - opex ~95 = netto ~55-65. Warstwy B NIE kredytuje sie z gory (=zmyslanie dostaw); leci per rzut przy dostawie. Kasa 84 (30+46 auto+8 cichy klient). Majatek ~940-960. Kurs w gore w drodze (zaplaci po dostawie). Wielki targ trwa, peer-referral Doryana czeka.",
  "ceny": {
   "chleb": {
    "baza": 3,

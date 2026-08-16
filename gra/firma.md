@@ -192,3 +192,10 @@ _Gracz dopytał o dochód z WŁASNEJ firmy faktorskiej. Retainery zaksięgowano 
 - Recurring firmy faktorskiej = retainery (+12) + cichy klient (+8) ≈ +20/mies → włączone odtąd w auto-wpływ 1. dnia miesiąca.
 - Per-event firmy (audyty jak Doryan +6, peer-referral pending) i marże filarów/guided-haul = księgowane przy zdarzeniu/dostawie (nie w auto-wpływie).
 - ŁĄCZNY AUTO-WPŁYW MIESIĘCZNY (zaktualizowany): baza 6 + retainery 12 + cichy klient 8 + plon rotacji 14 + odsetki 12 + czynsze 2 = ~+54/mies.
+
+## WYJAŚNIENIE 297-11-01: dwie warstwy przychodu (dlaczego auto-wpływ ~54, a nie więcej)
+_Gracz: "co tak mało?" — słuszne pytanie o skalę. Odpowiedź: +54 to TYLKO warstwa pasywna (baza/retainery/cichy klient/plon rotacji/odsetki/czynsze), która kapie 1. dnia miesiąca. NIE jest to cały przychód._
+- **Warstwa A (pasywna) ~54/mies** — księgowana 1. dnia, "śpiący" pieniądz.
+- **Warstwa B (operacyjna) ~107/mies** — prowiant zamek 45 + drewno 20 + żelazo 15 + Harrol 12 + guided 9 + korytarz 6; księgowana PER DOSTAWA przez cały miesiąc (nie front-loaded 1. dnia). Zmienna, zależna od tego ile wozów dojedzie.
+- **Brutto ~160/mies; minus opex ~95; NETTO ~55-65/mies.**
+- ZASADA: NIE kredytować warstwy B z góry na przełomie miesiąca — to byłoby zmyślanie dostaw. Kredytuje się przy każdej faktycznej dostawie (per rzut), jak dotąd. Tylko warstwa A (pasywna) leci auto 1. dnia.

@@ -7015,3 +7015,6 @@ Przed nocą Symon zajrzał do firmy spytać, czy zrobili dziś jakiś ekstra aud
 
 ## 297-11-01 RANEK — nowy miesiąc, Wielki targ; kurs w drodze
 Pierwszy dzień listopada — Wielki targ, miasto pełne mimo szarego mrozu (pogoda 31). O świcie ruszył pierwszy zintegrowany kurs w górę doliny (dostawa Harrolowi + dowód w zasięg Bereny) — w drodze, wynik za dzień-dwa. Poranny inbound: na targu daje o sobie znać ciepły peer-referral od Doryana — kupiec suchym towarem z podobnym podejrzeniem skimu szuka dyskretnej forensycznej ręki. Firma pociąga następnego klienta sama.
+
+## 297-11-01 RANEK — bilans miesięczny
+Symon usiadł 1. dnia miesiąca do liczb. Netto ~80-85 jel/mies — skok z ~55-65 (10-23): Harrol zabezpieczony (+12), firma faktorska mocna (~45, Doryan zamknięty + peer w drodze), guided-haul rusza (~9), rotacja ~24. Gross ~176, koszty operacyjne ~95. Wolna gotówka cienka (30 jel), bo miesiąc był ciężką fazą inwestycyjną: budowa sieci (Hollis + Leona + Wendel ~19 jel) i staple (35 jel w pozycję) — to reinwestycja w equity i pozycje, nie strata. Majątek zdrowy: staple 47 aprecjuje, ~450 jel kapitału w rotacji, equity 47% faktorii + 2/3 firmy faktorskiej + korytarz, kamieniczka z czynszami, zero bezpośrednich zobowiązań (dług Antaryona jest Nesty, nie na udziale Symona). Przy pełnej skali projekcja ~140-160/mies.

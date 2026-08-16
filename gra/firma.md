@@ -130,3 +130,40 @@ _Skala uboga (1 jeleń=100 mied). Marże = spread (koszt all-in vs cena dostawy)
 - Bezpieczny przewoz/wetowanie cudzego haulu przez zime (Hollis+wozy Borena+brand). Marza dzielona z Borenem (~50/50). Kupiec placi za WYNIK, nie za sekret (fosa rosnie).
 - Netto Symona: ~8-12 jel/mies przy rozpedzie (skaluje z gleboka zima/popytem); teraz start ~+6 initial. Kapitalolekko.
 - KSIEGOWANIE: per zlecenie guided-haul = + wg wielkosci (dzielone z Borenem); rzut moduluje (i Hollis wetuje trase=redukuje ryzyko incydentu).
+
+## BILANS MIESIĘCZNY — 297-11-01 (reconciliacja, nowy miesiąc)
+_Symon usiadł do liczb 1. dnia miesiąca. Zmiany od modelu 10-23: Harrol ZABEZPIECZONY (linia aktywna), guided-haul rusza, firma faktorska mocna (Doryan+peer), NOWA noga: siec polnocno-ladowa (linia+podaz+depot URUCHOMIONE, pipeline Berena)._
+
+### STRUMIENIE /mies (netto Symona, zaktualizowane)
+| Linia | /mies TERAZ (11-01) | uwaga |
+|---|---|---|
+| Prowiant zamek (Wylis) | ~45 | proof-zima trwa; pełna umowa = ~65 |
+| Prowiant Harrol (gentry) | ~12 | ZABEZPIECZONY (streak dostaw), z ~0 |
+| Drewno→opał zamek (Bennet, ląd) | ~20 | rzeka stoi, kanał lądowy działa |
+| Żelazo (off-take) | ~15 | okazjonalnie |
+| Rotacja zboże-sól (~82% kap.) | ~24 | 18 plon +6 baza |
+| Korytarz sukna (½ z Mirą) | ~6 | throttled (Braavos zima) |
+| Firma faktorska (audyty+retainery) | ~45 | mocna: Doryan zamkn.+peer w drodze |
+| Guided-haul (JV Boren) | ~9 | rusza, skaluje z zimą |
+| Siec polnocno-ladowa (Berena+górna dolina) | ~0 (pipeline) | URUCHOMIONA; potencjał ~15–20 |
+| **GROSS netto /mies** | **~176** | z ~145 (10-23) |
+
+### KOSZTY OPERACYJNE /mies
+- Wage line (Hal/Deman/Lorren/Garrick/Corliss/Tam-Wick) ~40
+- Bran 8 · Boren 6 · Hollis 4 · Wendel depot ~3 (nowe)
+- Cło ~10 · household ~15 · relief ~5–15
+- **RAZEM ~93–98**
+
+### NET /mies (roboczo)
+- **TERAZ: ~80–85 jel/mies** netto (z ~55–65 w 10-23 — skok: Harrol secured + firma mocna + guided-haul + rotacja)
+- PRZY PEŁNEJ SKALI (stała Wylisa + siec północna dowozi + żelazo/wełna): ~140–160/mies
+- ALE ten miesiąc: ciężka faza inwestycyjna (siec: Hollis 8 + Leona 5 + Wendel 6; staple 35 w pozycję) → wolna gotówka CIENKA mimo dodatniego netto (reinwestycja w equity/pozycje, nie strata)
+
+### MAJĄTEK / POZYCJE (snapshot 11-01)
+- Wolna gotówka: ~30 jel
+- Zapas staple zimowy: 47 jel (pozycja, aprecjuje — sól wciąż rośnie)
+- Kapitał w rotacji faktorii (udział Symona): ~450 jel
+- Equity: ~47% faktorii Nesty + 2/3 firmy faktorskiej + ½ korytarza sukna
+- Kamieniczka przy Schodach: własność + czynsze (Jonna/Osric/Hal) kapią
+- Należności bieżące: retainery (kapią /mies) + dostawa w drodze (kurs w górę = zapłata Harrola/dowód)
+- Zobowiązania Symona: BRAK bezpośrednich (dług Antaryona = Nesty, nie na udziale Symona)

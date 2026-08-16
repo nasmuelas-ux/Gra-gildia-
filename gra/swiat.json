@@ -5,12 +5,12 @@
   "dzien": 23,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 95,
  "dzien_tygodnia_nr": 4,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-23 POLUDNIE (ratunek rannego, rzut 100 KRYT - odkupienie katastrofy): Symon rzucil wszystko i uratowal OSOBISCIE mlodego woznice Hewa (czlowiek Borena) z lodu przy Kamiennym Brodzie ZANIM policzyl stracony towar - Hew przezyl czysto. BOREN sojusz na poziomie KRWI (nast 90->94 zauf 43->49, 'uratowales mi chlopaka'). NABRZEZE: widocznosc WLASCIWA (tarcza slabych w czynie=gwiazda, nie 'gbur ponad stan'). Katastrofa (towar ~15 stracony) obrocona w TRIUMF CHARAKTERU. Koszt opieki ~5 jel (kasa 57->52). ZOSTAJE: stanac uczciwie wobec SER HARROLA (stracona 1. dostawa - ale z pozycji dowiedzionego charakteru; owned+make-right). Zamek bezpieczny (castle-first held). NEXT: Harrol. Kasa 52.",
+ "nastroje_miasta": "297-10-23 POPOLUDNIE (systemowy fix u Borena): STARY HOLLIS (woznica-przewodnik, 40 zim bez straty) wpiety jako KWATERMISTRZ SZLAKOW - wetuje trasy/brody/pory (koniec z klamliwym lodem). Boren dal go z wdziecznosci za Hewa (mutual: chroni tez jego ludzi), sojusz glebszy. Maszyna logistyczna TWARDSZA: podaz+sklad(Aurane)+haul(Boren)+znawca tras(Hollis)+bufor. Katastrofa obrocona w trwala przewage. ZOSTAJE: SER HARROL (stracona 1. dostawa - stanac uczciwie/make-good z pozycji charakteru). Hew wraca do zdrowia. Zamek bezpieczny. Kasa 52. NEXT: Harrol.",
  "ceny": {
   "chleb": {
    "baza": 3,

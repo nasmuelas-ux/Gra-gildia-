@@ -7093,3 +7093,9 @@ Symon stanął przed lordem przygotowany — intel Godrica, doktryna Nesty i Mir
 
 ## 297-11-07 POŁUDNIE→POPOŁUDNIE — chudy zarobek: zimowy zator (rzut 15)
 Symon poszedł zarobkować, ale głęboka zima po sztormie dławi aktywny handel — kupcy skuleni, cash-tight po stratach, nowej roboty audytowej mało w ruchu. Forensyka Vossa stanęła: domknięcie dowodu skimu wymaga następnej dostawy dostawcy do porównania, a ta opóźniona mrozem i szlakami. Sesja sucha, ledwie ~+2 jel (kasa 71). To nie błąd — zimowy rynek po prostu zamarznięty. I lekcja spójna z planem zimy: zimowy dochód to steady strumienie maszyny (prowiant, retainery, rotacja, pasywne ~54/mies) plus winter provisioning, nie nowy hustle w zamarzniętym rynku. Reaffirmuje doktrynę: być stewardem, lenić się na maszynę, nie forsować.
+
+## 297-11-07 POPOŁUDNIE→WIECZÓR — dogląd maszyny (rzut 30), dzień domknięty
+Symon obszedł maszynę w trybie stewarda — i wszystko mieli bez jego dźwigania: Hal prowadzi kantor i castle-prowiant, Bran relief, Wendel depot, Hollis trasy, Harrol i Berena na buforach, guided-haul tyka. Złapał jeden drobiazg (adjustacja następnego kursu w górę doliny), nim urósł — wartość stewarda, jego forte. Reasekuracja spójna z planem zimy: maszyna stoi bez jego dźwigania, może się cofnąć, a dom miele. Dzień domknięty — audiencja odłożona, zarobek suchy, ale maszyna, relacje i firewall całe.
+
+## 297-11-08 RANEK — cykl prowiantu zamku dojrzał
+Zimny dzień, głębszy mróz (26). Poranny sygnał: cykl prowiantowy zamku dojrzał (co ~5-7 dni), a Hal sygnalizuje, że Wylis wnet zechce zimowe księgi — to sedno zadania lorda „dowieź tę zimę". Rutyna maszyny jest teraz najważniejsza: każdy czysty cykl to cegła dowodu dla Wylisa i Wymana.

@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 7,
+  "dzien": 8,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 27,
- "dzien_tygodnia_nr": 5,
+ "pogoda": 26,
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-07 POPOLUDNIE (rzut 15, zarobek chudy - zimowy zator): Symon poszedl zarobkowac, ale gleboka zima po sztormie DLAWI aktywny handel - kupcy skuleni, cash-tight po stratach sztormu, nowej roboty audytowej malo w ruchu; forensyka Vossa STANELA (domkniecie wymaga nastepnej dostawy dostawcy do porownania, opoznionej zima). Sesja sucha, token ~+2 jel (kasa 69->71). NIE blad - zimowy rynek zamarzniety. LEKCJA spojna z planem zimy: zimowy dochod=STEADY strumienie maszyny (prowiant/retainery/rotacja/pasywne) + winter provisioning, NIE nowy hustle w zamarznietym rynku. Reaffirmuje 'badz steward, len na maszyne'. Kasa 71, staple 32, plan zimy ustalony. Bertram front aktywny, elewacja deferred do dowiedzionej zimy.",
+ "nastroje_miasta": "297-11-08 RANEK (mroz 26; INBOUND: cykl prowiantu zamku dojrzal): zimny dzien, glebszy mroz. Wczoraj Symon doglednal maszyny (rzut 30 solidnie) - wszystko mieli: Hal kantor+prowiant, Bran relief, Wendel depot, Hollis trasy, Harrol/Berena na buforach, guided-haul; zlapal drobiazg (adjustacja nastepnego kursu w gore), steward-value. Maszyna stoi bez dzwigania=plan zimy dziala. PORANNY INBOUND: cykl prowiantowy zamku dojrzal (co ~5-7 dni) + Hal sygnalizuje ze Wylis wnet zechce zimowe ksiegi - to SEDNO zadania lorda ('dowiez te zime'). Rutyna maszyny=teraz najwazniejsza (kazdy czysty cykl=cegla dowodu dla Wylisa i Wymana). Kasa 71, staple 32, plan zimy ustalony, fundusz reliefu stoi. Bertram front, elewacja deferred do dowiedzionej zimy.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 7,
+ "dzien": 8,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

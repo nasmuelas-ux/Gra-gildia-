@@ -7234,3 +7234,6 @@ Symon zapytał wprost, czego Mira chce robić, żeby jej imię rosło własną s
 
 ## 297-11-19 RANEK — Mira gotowa zacząć; cło jutro
 Znośny dzień (48). Poranny sygnał: Mira, rozpalona wczorajszą rozmową, gotowa ruszyć własną budowę — dom sukna i krąg kobiet — i pyta, czy Symon wesprze pierwszy krok (otworzyć, co może, ale to jej budowa, jej imię). W tle: cło portowe jutro (~20-ty, miesięczny koszt ~10 jel), maszyna mieli, stały warrant zamku płynie, relief-instytucja stoi. „Może" o dziecku narasta (13 dni). Kasa 151.
+
+## 297-11-19 RANEK→POŁUDNIE — mocny start domu sukna Miry (rzut 78)
+Symon otworzył drzwi, które mógł otworzyć — korytarz sukna przeszedł wprost pod firmę i pieczęć Miry, doszły wprowadzenia — a Mira poprowadziła resztę. Mocny start jej arku: dom sukna „od Miry" (rebrand z „kramu wdowy" w imię i markę, pierwsze zamówienia jako jej dom) oraz pierwszy realny wątek kręgu kobiet — Berena jako pierwszy węzeł jej sieci (wdowa-do-wdowy) plus dojście do kolejnej pani. Jej imię zaczyna krążyć niezależnie: „dom sukna Miry", nie „żona Tally'ego". Dwie sieci, jeden dom, ruszają realnie — Mira przez kobiety i sukno, Symon przez rycerzy i prowiant, obejmując dolinę z obu stron. Korytarz to teraz jej aktyw (restrukturyzacja w ramach domu, nie strata). Symon niósł, nie przykrył — partnerstwo równych w czynie, głęboka satysfakcja Miry. Koszt ~2 jel (kasa 149).

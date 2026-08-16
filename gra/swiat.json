@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 10,
+  "dzien": 11,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 29,
- "dzien_tygodnia_nr": 1,
+ "pogoda": 27,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-10 WIECZOR (rzut 98 KRYT, Theomore zwalidowal traktat): maester zaangazowal sie gleboko i byl PORUSZONY - najwyzsze partie traktatu (frontier risk/underwriting) IDA PONAD standardowa Cytadele; samouk-gbur zsyntetyzowal czego Cytadela nie uczy. Theomore STAL SIE CZEMPIONEM: pomoc w dopracowaniu (szkic->dzielo) + sciezka dalej (siec maesterow/Cytadela/pomost ku uczonym uszom Polnocy=Winterfell ma maesterow). INTELEKTUALNY szczebel gwiazdy REALNY (drugi tor obok prowiantu/charakteru). Firewall czysty (math abstrakcyjnie). Theomore 79->84/62->68, finanse licznik ->37. Bilans dnia wybitny: Voss domkniety, traktat zwalidowany przez maestera, maszyna+relief+Wylis torem. Kasa 92, finanse 5, zmeczenie 4.",
+ "nastroje_miasta": "297-11-11 RANEK (mroz 27; INBOUND: nowy holding pyta - siec voucherow rodzi owoc): chlodny dzien. PORANNY INBOUND: posłaniec z gory doliny - SASIEDNI holding (zaprzysiezony Manderlym) uslyszal od ludzi Harrola/Bereny o pewnej zimowej dostawie ladem gdy rzeka stoi, i PYTA o Symona (pull, nie zimne lowy - wzor sieci dziala: zadowolony holding przyciaga nastepny przez plotke gentry). To trzeci potencjalny wezel doliny. Poza tym: maszyna miele (castle cykl, relief trzyma sam), traktat zwalidowany przez Theomore'a (dopracowanie z nim=opcja ongoing, kanal ku uczonym uszom). Kasa 92, staple 32, finanse 5, wypoczety. Plan zimy w ruchu: Wylis dowod naprzod, elewacja dojrzewa, intelektualny tor otwarty. Bertram front.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 10,
+ "dzien": 11,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

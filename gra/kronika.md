@@ -7033,3 +7033,6 @@ Symon został na Wielkim targu wyczuć ceny i intel — ale wielki miesięczny t
 
 ## 297-11-01 POPOŁUDNIE→WIECZÓR — plotka rozszyfrowana (rzut 83)
 Symon zaniósł mętną plotkę o "zimowym froth zbożowym" tam, gdzie jego edge działa naprawdę: do Nesty i Demana, na spokojnie. Rozszyfrowali ją czysto — to panika i spekulacja (strach po białym kruku + podniecenie Wielkiego targu), nie fundamentalny niedobór jeszcze. Realne jądro: zboże będzie drożeć przez głęboką zimę, ale umiarkowanie; targowy spike jest przesadzony. Wniosek: trzymać pozycję staple (47 jel), sprzedawać w froth-piki i realny ścisk, nie dokupywać na szczycie paniki; sól wciąż najsilniejsza. Nesta pochwaliła jego dyscyplinę z targu — słusznie nie działał na szumie. Edge zbankowany: widzi, gdzie tłum się myli, co czyni go stabilizatorem (uczciwy zysk z aprecjacji + zasilanie reliefu i klientów przez ścisk, nie spekulacja na głodzie). Kasa bez zmian (90).
+
+## 297-11-02 RANEK — Dzień Matki (święto), kurs wciąż w drodze
+Chłodny, szary poranek. Dzień Matki — święto Wiary, miasto zwolnione, keje ciche, ludzie ciągną ku septom. Dobry dzień na Wiarę, relief i dom, nie na twardy handel. Kurs w górę doliny wciąż w drodze (trakt górny + etapowanie u Wendla zabiera czas; wieść spodziewana jutro). Inbox cichy.

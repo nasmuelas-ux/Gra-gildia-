@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 1,
+  "dzien": 2,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 31,
- "dzien_tygodnia_nr": 6,
- "dzien_targowy": "wielki_targ",
- "nastroje_miasta": "297-11-01 WIECZOR (rzut 83, plotka rozszyfrowana z Nesta+Deman): 'zimowy froth zbozowy' = PANIKA/spekulacja (strach po kruku + podniecenie targu), NIE fundamentalny niedobor jeszcze. Zboze bedzie drozec umiarkowanie przez gleboka zime, ale targowy spike przesadzony. AKTIONABLE: trzymac pozycje staple (47), sprzedawac w froth-piki/realny scisk, NIE dokupywac na froth; sol wciaz najsilniejsza. Nesta pochwalila dyscypline (slusznie nie dzialal na szumie targu). Edge zbankowany: Symon widzi gdzie tlum sie myli = stabilizator (uczciwy zysk z aprecjacji + zasila relief/klientow, nie gouging). Kasa 90. Kurs w gore w drodze (wynik jutro-pojutrze), Voss zamkniety, Berena drzwi cieple.",
+ "pogoda": 34,
+ "dzien_tygodnia_nr": 7,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-11-02 RANEK (DZIEN MATKI - swieto Wiary, handel przygaszony; INBOUND cisza): chlodny szary poranek (pogoda 34, lekki mroz). Dzien Matki (dzien tygodnia 7) - miasto zwolnione, keje ciche, ludzie ku septom; dobry dzien na Wiare/relief/dom, nie na twardy handel. Kurs w gore doliny WCIAZ W DRODZE (wynik nie dzis - trakt gorny+etapowanie Wendel zabiera czas; wiesc ~jutro 11-03). Inbox cichy. Bilans mocny: Voss zamkniety (nisza-lock), plotka rozbrojona, staple 47 dobrze zgrana, kasa 90 oddycha, majatek ~945, siec polnocna uruchomiona (Harrol streak, Berena drzwi cieple 42/10), relief filar, warrant+ucho lorda Manderly. Nastepne wielkie okna osi ~298 dalej przed nami.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -20,7 +20,7 @@
   "ryba": {
    "baza": 2,
    "mnoznik": 1.0,
-   "przyczyna": "nie dzien targowy"
+   "przyczyna": "Dzien Matki - handel przygaszony"
   },
   "pergamin": {
    "baza": 40,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": null,
- "dzien": 1,
+ "swieto": "Dzien Matki",
+ "dzien": 2,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

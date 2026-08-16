@@ -2391,13 +2391,14 @@
    "id": "kupiec_voss",
    "imie": "kupiec Voss",
    "zawod": "kupiec suchym towarem/zapasami (Schody), peer Doryana - sredni obrot",
-   "nastawienie_do_gracza": 62,
-   "zaufanie": 22,
-   "ostatni_kontakt": "297-11-07",
+   "nastawienie_do_gracza": 74,
+   "zaufanie": 34,
+   "ostatni_kontakt": "297-11-10",
    "wie_o_graczu": [
     "297-11-01 (rzut 80, Wielki targ): przyszedl z polecenia Doryana (ktoremu Symon/Lorren wykryl skim dostawcy). Podobny klopot - podejrzewa staly wyciek u wlasnego dostawcy suchego towaru. Symon zavettowal (czysty, realna potrzeba) i domknal czysto: wstepny przeglad forensyczny od reki namierzyl trop wycieku (nisza Symona). NOWY DURABLE KLIENT: +6 jel initial + retainer ~3/mies. Voss pod wrazeniem dyskrecji+kompetencji, poleci dalej (word-of-mouth na Schodach = kupcy suchego towaru zaczynaja isc do Symona po forensyke). Marka premium/cicha glebiej zakotwiczona; blask bezpiecznie na Halu/Lorrenie (firewall). nast 62, zauf 20.",
     "297-11-02 (rzut 41, cicha sesja w Dzien Matki): Symon ruszyl forensyke Vossa - dyskretna praca przy ksiegach (swieto=idealne na cicha, prywatna robote, nie open-market). Namierzyl i zaczal DOKUMENTOWAC wyciek u dostawcy (wzor przeplaty). Postep solidny, wstepna zaplata ~5 jel. Voss pod wrazeniem tempa+dyskrecji, zauf 20->22.",
-    "297-11-07 (rzut 15): forensyka STANELA - domkniecie dowodu skimu wymaga NASTEPNEJ dostawy dostawcy do porownania, a ta opozniona zima (szlaki/mroz po sztormie). Nie blad - po prostu zimowy zator; case wznowi sie gdy dostawa dojdzie. Voss cierpliwy (rozumie zime)."
+    "297-11-07 (rzut 15): forensyka STANELA - domkniecie dowodu skimu wymaga NASTEPNEJ dostawy dostawcy do porownania, a ta opozniona zima (szlaki/mroz po sztormie). Nie blad - po prostu zimowy zator; case wznowi sie gdy dostawa dojdzie. Voss cierpliwy (rozumie zime).",
+    "297-11-10 (rzut 76): SPRAWA DOMKNIETA - z nowa dostawa jako porownanie Symon udowodnil skim dostawcy PONAD WATPLIWOSC (wzor przeplaty czarno na bialym, finanse 5). Voss moze teraz skonfrontowac/wymienic dostawce i odzyskac. GLEBOKO wdzieczny+pod wrazeniem; fee ~+7, retainer trwa. Poleca dalej = nisza-lock forensyki suchego towaru na Schodach zacisnieta (Doryan+Voss=kotwica, kupcy tej branzy ida do Symona). nast 62->74, zauf 22->34."
    ]
   },
   {

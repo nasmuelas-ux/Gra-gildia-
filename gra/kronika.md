@@ -7123,3 +7123,6 @@ Trzecia sesja dnia: rdzeń traktatu — framework, ryzyko i underwriting, compou
 
 ## 297-11-10 RANEK — dostawa Vossa dotarła (case wznawialny)
 Chłodny, znośny dzień (29). Poranny sygnał: opóźniona dostawa dostawcy Vossa wreszcie doszła — forensyka może wznowić i domknąć dowód skimu (income + wątek firmy). W tle maszyna mieli (castle cykl, relief trzyma się sam), a traktat jest blisko pierwszego szkicu, niedługo gotowy do pokazania Theomore'owi.
+
+## 297-11-10 RANEK→POŁUDNIE — sprawa Vossa domknięta (rzut 76)
+Z nową dostawą jako materiałem porównawczym Symon udowodnił skim dostawcy Vossa ponad wątpliwość — wzór przepłaty czarno na białym (finanse 5 w robocie). Voss może teraz skonfrontować i wymienić dostawcę, odzyskać swoje; głęboko wdzięczny i pod wrażeniem, fee ~+7 (kasa 92), retainer trwa, poleca dalej. Nisza-lock forensyki suchego towaru na Schodach zacisnął się: Doryan i Voss to kotwica, branża sama idzie teraz do Symona. Firma rośnie właściwie — blask na Halu i Lorrenie, firewall czysty. Voss 62→74 / 22→34.

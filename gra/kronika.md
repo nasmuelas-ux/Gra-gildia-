@@ -7159,3 +7159,6 @@ Steward-obchód zamiast zarobku obrócił się w gaszenie pożaru: jedno z near-
 
 ## 297-11-13 RANEK→POŁUDNIE — podaż near-North wzmocniona (rzut 85)
 Po wczorajszej luce Symon zamknął hook u korzenia: przez Leonę i sięgając szerzej lokalnie dołożył 2-3 dodatkowe źródła na każdy kluczowy staple, tak by pojedynczy zimowy shortfall nie robił już luki — redundancja podaży jak redundancja tras z Hollisem. Strona podażowa sieci zde-ryzykowana na resztę zimy. Sieć jest teraz twarda na obu końcach: trasy (Hollis, warianty, depot) i podaż (multi-source). To czyni „dom o własnych siłach" twardszym i jest prescient wobec osi 299 — gdy wojna porwie szlaki, multi-source ratuje. Koszt ~11 jel (kasa 99). Leona zauf →54.
+
+## 297-11-13 POŁUDNIE→POPOŁUDNIE — tłusty zarobek na łagodnym dniu (rzut 80)
+Odmarzający rynek plus dojrzała nisza forensyki suchego towaru (Doryan i Voss pociągają referrale) dały solidną sesję: ciepły audyt/referral z niszy plus kapiące retainery, ~+15 jel (kasa 114). Firma rośnie właściwie w cieniu — blask na Halu i Lorrenie, firewall czysty. Kontrast do zamarzniętego dnia sprzed kilku dni jest wyraźny: gdy okno pogodowe odpuszcza i nisza jest dojrzała, dochód płynie. Finanse dojrzewają dalej (licznik →45).

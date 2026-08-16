@@ -7210,3 +7210,6 @@ Symon usystematyzował lekcje, które zima wbijała mu w praktyce — redundancj
 
 ## 297-11-17 WIECZÓR — rozmowa z Mirą
 Wieczór przy ogniu, rozmowa bez strategii. Symon opowiedział o stałym warrancie zamku; Mira z dumą schowaną pod praktycznością („dobrze, ale nie daj się ponieść, zima jeszcze nie skończona"). A potem rozmowa sama zsunęła się ku „może": Mira sama go dotknęła — „wciąż się spóźniam, dłużej niż wczoraj; nie pozwalam sobie, bo raz mnie to złamało, ale liczę dni, nie umiem nie liczyć". „Może" odrobinę cięższe niż wczoraj, wciąż nienazwane i niepotwierdzone, oboje ostrożni (jej historia kładzie cień). Rozmawiali jeszcze o Alys (też przy nadziei), Branie, kamieniczce — o niczym i o wszystkim. Ten dom to nie mury, lecz to.
+
+## 297-11-17 NOC — legendy na dobranoc
+Symon czytał Mirze północne legendy przy jednej świecy: Długą Noc i Ostatniego Bohatera (mróz za oknem), przybycie Manderlych z Reach na Północ (przybysze z niczego, którym Starkowie dali Biały Port, a wyrośli na wielkich — Mira: „nic ci to nie przypomina, mężu?"), i Symeona Gwiazdoocznego (Mira sennie: „Symeon... Symon... może o tobie kiedyś napiszą"). Ciepły, intymny wieczór; ciche „może" o dziecku niczym początek jakiejś opowieści. Zasnęli pod jednym kocem, stare legendy Północy w powietrzu.

@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 28,
+  "dzien": 29,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 51,
- "dzien_tygodnia_nr": 2,
+ "pogoda": 33,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-28 POPOLUDNIE (strategiczny skup staple, rzut 65 solidny): kupil madrze - sol/zboze/opal ponizej szczytu (intel Deman/Hollis, przed prawdziwa gorka), Aurane sztauuje. Dyscyplina: ~35 jel commit (kasa 83->48), plynnosc+bufor nietkniete. POZYCJA ~35 jel aprecjuje przez zime. CHARAKTER: nie hoarding lecz ZDOLNOSC DOSTAWY (zasila prowiant/relief/klientow przez scisk + uczciwy zysk) = STABILIZATOR nie spekulant na glodzie (vs hoarderzy=wrogowie). Zysk realizuje sie przez zime. Bilans mocny: bialy kruk=oficjalna zima (przewaga surge), guided-haul rosnie, relief=filar, Wylis proof(23)+jedna-czysta-zima test, Harrol topnieje(42/18), maszyna validated. Reszta: refi/korytarz=wiosna (Braavos spi), dziecko-nadzieja. Kasa 48 + zapas 35.",
+ "nastroje_miasta": "297-10-29 RANEK (zimno, szaro, twardy chlod, pogoda 33): spokojny cichy poranek, inbound cisza (30). Po bialym kruku miasto osiada w oficjalna zime; ceny prowiantu twardnieja (twoja pozycja staple aprecjuje). Bilans bardzo mocny: maszyna validated+szeroka (prowiant/guided-haul/rotacja/audyty), zapas staple ~35 aprecjuje, relief=filar miasta (Owen uznanie), Wylis proof(23)+jedna-czysta-zima test trwa, Harrol topnieje(42/18), Boren sojusz krwi, Hew ozdrowieniec, season-reading+kroniki Theomore. Reszta: refi/korytarz=wiosna (Braavos spi), dziecko-nadzieja. Kasa 48 + zapas 35. biały kruk odpalony (canon #1); nastepne beaty osi ~298.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 28,
+ "dzien": 29,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

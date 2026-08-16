@@ -5,12 +5,12 @@
   "dzien": 25,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 7,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-25 RANEK (ZABOJCZY MROZ: pogoda 7 - bialy, sztywny, smiertelny dzien; biedni marzna w zaulkach, trakty staja lodem; najtwardszy bite zimy dotad): TEST wszystkiego - ale Symon TERAZ GOTOWY inaczej niz przy frost-scramble: bufor odbudowany, HOLLIS wetuje trasy, castle-first, guided-haul. Maszyna zahartowana. UBODZY W NIEBEZPIECZENSTWIE: relief napelniony (10-16) TESTOWANY do granic; jak mroz potrwa=pilny top-up (Elna/ubodzy/zima_ubodzy). Braavos calkiem zamarzniety (refi/sukno choked). Inbound cichy (39) - mroz zagonil miasto pod dachy. Reszta: Wylis stala umowa dojrzewa (mroz=test dowozu), Harrol na wlosku (bezbledna dostawa=odbudowa; Hollis-vetted teraz), premium guided-haul swiezo, dziecko-nadzieja. Kasa 58.",
+ "nastroje_miasta": "297-10-25 POLUDNIE (relief+dostawy w zabojczym mrozie z Hollisem, rzut 79 mocny - MASZYNA VALIDATED): killing frost (pogoda 7) handled CZYSTO (kontrast do frost-scramble+brod). (1) RELIEF HELD - ubodzy/Elna przezyli (top-up+Bran+Wiara; nikt nie zamarzl); tarcza slabych/gwiazda. (2) ZAMEK sustained=dowod Wylisa MOCNIEJE (jedna-czysta-zima; nast 21->23). (3) HARROL REDEMPTION - bezbledna dostawa w mrozie via Hollis-vetted=dowod ktorego zadal; topnieje 30->42 zauf 8->18, kontrakt recovering. (4) GUIDED-HAUL proof-of-concept (czysto w killing frost). Cala arka hartowania (brod->Hollis->bufor->dywersyfikacja) VINDICATED. Reputacja: dowozi+karmi gdy inni marzna=reliable hand+shield of weak. Cash net +12 (kasa 58->70). Relief drawn down (top-up jak mroz potrwa). Kasa 70.",
  "ceny": {
   "chleb": {
    "baza": 3,

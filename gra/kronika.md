@@ -6927,3 +6927,13 @@ Symon rozwinął nową linię: **premium guided-haul** jako JV z Borenem — bez
 
 ## 297-10-24 POPOŁUDNIE→WIECZÓR — Robota w kantorze Nesty (rzut 16, cichy cykl)
 Praca partnerska: cykl rotacji zboże-sól chudy (zima ścieśnia przepływy) — skromny plon +3 jel (55→58), bardziej utrzymanie niż żniwo. Ale przy boku Nesty Symon dłubał w braavijskich księgach finansów (ona=drzwi nie mistrz, podsuwa traktat; on rozgryza sam) — finanse mały krok naprzód (self-study, licznik+). Ciepła spokojna sesja. Pora POPOŁUDNIE→WIECZÓR.
+
+## 297-10-25 RANEK→POŁUDNIE — Zabójczy mróz: maszyna VALIDATED (rzut 79, wielka wypłata łuku)
+W killing frost (pogoda 7) Symon zabezpieczył relief I dostawy z Hollisem — i tym razem, w przeciwieństwie do frost-scramble (spalony bufor) i brodu (katastrofa), maszyna **zadziałała czysto**. Cały łuk hartowania (bród → Hollis → bufor → dywersyfikacja) VINDICATED.
+
+- **RELIEF HELD** — ubodzy i Elna przeżyli mróz (top-up + Bran + Wiara docierały; nikt nie zamarzł na warcie Symona). Tarcza słabych w czynie.
+- **ZAMEK sustained** przez zabójczy mróz, gdy trakty stały lodem = dokładnie dowód „jednej czystej zimy" dla Wylisa. Proof stałej umowy **mocnieje** (nast 21→23).
+- **HARROL REDEMPTION** — bezbłędna dostawa do Kamiennego Brodu w zabójczym mrozie, via Hollis-vetted trasa (żadnego brodu): dokładnie „dowieziesz następną bez potknięcia", którego żądał. Dumny rycerz **topnieje** (nast 30→42, zauf 8→18) — dowód przemówił tam, gdzie make-good nie wystarczył. Kontrakt recovering.
+- **GUIDED-HAUL proof-of-concept** — Hollis-vetted trasy dowiozły czysto w najgorszej pogodzie = najlepszy możliwy marketing nowej linii.
+
+Reputacja/charakter: dowozi do zamku + gentry I karmi ubogich przez mróz, co łamie innych — reliable hand + shield of weak, gwiazda w akcji. Cash net +12 (kasa 58→70); relief drawn down (top-up, jeśli mróz potrwa); bufor podciągnięty, ale Hollis-routes = zero disaster/burn. Pora RANEK→POŁUDNIE.

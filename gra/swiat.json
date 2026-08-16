@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 13,
+  "dzien": 14,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 58,
- "dzien_tygodnia_nr": 4,
+ "pogoda": 9,
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-13 WIECZOR (rzut 92 KRYT, traktat skonczony + AWANS finanse 5->6): gleboka sesja z Theomore'em doprowadzila TRAKTAT DO FORMY SKONCZONEJ (cyrkulowalne 1. wydanie); Theomore zrobil czystopis i wyslal w SIEC MAESTEROW z listem polecajacym (ku Cytadeli/uczonym uszom Polnocy=pomost ku Winterfell). Sesja przepchnela FINANSE 5->6 (mistrzostwo przez wspolprace z maesterem+codyfikacje). Theomore 86->88/70->72, traktuje Symona jak intelektualnego rownego. Firewall czysty. Intelektualny tor gwiazdy: realny artefakt w drodze ku uszom co licza. Trzy tory (prowiant/charakter/umysl) - umysl wlasnie wydal dzielo. Kasa 114, staple 32, finanse 6, plan zimy w ruchu. Dzien wybitny (podaz wzmocniona+zarobek+traktat).",
+ "nastroje_miasta": "297-11-14 RANEK (GLEBOKI MROZ wrocil 9, blisko zabojczego; INBOUND cichy-ish): mroz uderzyl twardo znowu - ALE tym razem SYSTEM TRZYMA SAM bez scramble (kontrast do sztormu 11-05). Walidacja wczorajszej odpornosci: (1) multi-source podaz zadzialala - jedno zrodlo znow krotkie, backupy pokryly AUTOMATYCZNIE (redundancja z 11-13 SIE OPLACILA, zero luki); (2) relief-instytucja niesie ubogich (fundusz+rezerwa+Bran/Wiara); (3) castle-first+holdingi dostarczone (Hollis/depot/warianty). Symon=steward, nie mul - maszyna wchlania mroz. Inbox spokojny. Odpornosc na OBU koncach + instytucja=zima staje sie znosnikowa nie kryzysowa. Kasa 114, staple 32, finanse 6, wypoczety. 3 kontrakty doliny, traktat w drodze siecia maesterow, Wylis dowod naprzod, elewacja dojrzewa. Bertram front. (Dzien Ojca jutro 15-ty).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.2,
-   "przyczyna": "lagodniej (58) - opal spokojnie"
+   "mnoznik": 1.6,
+   "przyczyna": "gleboki mroz wrocil (pogoda 9) - opal wysoko"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -44,13 +44,13 @@
   },
   "sol": {
    "baza": 45,
-   "mnoznik": 1.3,
-   "przyczyna": "sztorm - scisk maksymalny"
+   "mnoznik": 1.35,
+   "przyczyna": "mroz - scisk soli mocny"
   },
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 13,
+ "dzien": 14,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

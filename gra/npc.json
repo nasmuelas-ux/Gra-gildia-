@@ -2357,13 +2357,14 @@
    "imie": "lady Berena",
    "przydomek": "z Wierzbowego Brodu",
    "zawod": "wdowa-wlodarka, sama gospodaruje holdfast+wies w gore Bialego Noza (Manderly-sworn); maz padl, spichrze cienkie po chudym roku",
-   "nastawienie_do_gracza": 50,
-   "zaufanie": 18,
+   "nastawienie_do_gracza": 54,
+   "zaufanie": 22,
    "ostatni_kontakt": "297-11-03",
    "wie_o_graczu": [
     "297-10-31 (INBOUND 100): SAMA sie odezwala - posłaniec z Wierzbowego Brodu z ostroznym, dumnym zapytaniem; doszla ja gentry-plotka (ludzie Harrola + krag Godrica) o 'tym co dowozi w gore gdy rzeka zamarza'. Jej rzeka bierze wczesnie=realny klopot, spichrze cienkie, maz w grobie. Dumna, nie prosi o litosc - PYTA czy Symon to czlowiek z ktorym wdowa moze uczciwie usiasc do rozmowy o zaopatrzeniu zimowym.",
     "297-10-31 (odpowiedz Miry): Symon+Mira zagrali madrze - MIRA (sama byla wdowa 'ktora pol portu chcialo kupic za bezcen') odpisala w rejestrze wdowa-do-wdowy: cieplo, z szacunkiem dla jej godnosci gospodarza (nie litosc, nie interes), BEZ pustej obietnicy przed pewnoscia dostawy. List otwiera drzwi i kupuje dni. Berena, potraktowana jak gospodarz ktorym jest (nie przypadek charytatywny), odbiera to dobrze - drzwi cieple, spotkanie na horyzoncie gdy Symon przyjdzie z DOWODEM nie slowem. nast->42, zauf->10 (ostroznie cieplo).",
-    "297-11-03 (rzut 65): DOWOD DOSTARCZONY - pierwszy kurs zintegrowanej linii dotarl w zasieg Wierzbowego Brodu (etapowanie przez depot Wendla dziala), demonstrujac ze Symon realnie dowozi w gore doliny mimo zamarzajacej rzeki. To NIE slowo lecz FAKT (dokladnie jak obiecala Mira: 'przyslemy woz gdy pewni ze dojedzie'). Berena, widzac dowod + majac cieply list Miry, wyraznie cieplejsza - drzwi teraz PELNE otwarte na realna umowe. nast 42->50, zauf 10->18. Gotowa usiasc do rozmowy o zaopatrzeniu."
+    "297-11-03 (rzut 65): DOWOD DOSTARCZONY - pierwszy kurs zintegrowanej linii dotarl w zasieg Wierzbowego Brodu (etapowanie przez depot Wendla dziala), demonstrujac ze Symon realnie dowozi w gore doliny mimo zamarzajacej rzeki. To NIE slowo lecz FAKT (dokladnie jak obiecala Mira: 'przyslemy woz gdy pewni ze dojedzie'). Berena, widzac dowod + majac cieply list Miry, wyraznie cieplejsza - drzwi teraz PELNE otwarte na realna umowe. nast 42->50, zauf 10->18. Gotowa usiasc do rozmowy o zaopatrzeniu.",
+    "297-11-03 POPOLUDNIE (rzut 26, spotkanie w Wierzbowym Brodzie z Symonem i Mira): przyjela ich z szacunkiem - Mira (wdowa-do-wdowy) rozbroila dumny dystans, dostarczony dowod zrobil wrazenie. ALE dumna, ostrozna wdowa NIE oddaje zimy calej wsi portowemu czlowiekowi na pierwszym spotkaniu (mimo cieplej ramy). Zamiast pelnego kontraktu zimowego - zgodzila sie na PROBNA MALA dostawe na WLASNYCH warunkach: 'dowiedz MNIE tak jak dowiodles w gore drogi, potem pogadamy o calej zimie' (echo Harrola: proba->dowod->zaufanie). Mira uratowala PARTIAL (nie odbicie) - relacja cieplejsza (nast 50->54, zauf 18->22), noga w drzwiach. Pelny kontrakt DEFERRED do dowiedzionej dostawy do niej. Drobny earnest probny."
    ]
   },
   {

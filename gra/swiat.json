@@ -5,12 +5,12 @@
   "dzien": 3,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 47,
  "dzien_tygodnia_nr": 1,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-03 RANEK (targ rybny; INBOUND: kurs wrocil z DOBRA wiescia): pochmurny umiarkowany dzien (pogoda 47). PORANNY INBOUND: pierwszy zintegrowany kurs w gore doliny WROCIL - dostawa udana (rzut 65). Harrol 3. bezbledna dostawa=PEWNY aktywny voucher (56/31); DOWOD dotarl w zasieg Bereny (etapowanie Wendla dziala) - Berena 50/18, drzwi PELNE otwarte na umowe (fakt nie slowo). Marza kursu +12 (kasa 84->96). LINIA POLNOCNA PROWEN end-to-end w realnej zimie. Nastepny naturalny krok: otworzyc Berene porzadnie (Mira+dostarczony dowod). Bilans mocny: Voss forensyka w toku, rezerwa reliefowa wzmocniona, staple 38, Owen 95/61, warrant+ucho lorda Manderly.",
+ "nastroje_miasta": "297-11-03 POPOLUDNIE (rzut 26, Berena - noga w drzwiach): Symon+Mira pojechali do Wierzbowego Brodu. Berena przyjela z szacunkiem (Mira wdowa-do-wdowy rozbroila dystans, dostarczony dowod zrobil wrazenie), ALE dumna ostrozna wdowa NIE oddaje zimy wsi portowcowi na 1. spotkaniu - zgodzila sie na PROBNA mala dostawe na wlasnych warunkach ('dowiedz MNIE jak dowiodles w gore drogi'), echo Harrola. Mira uratowala partial (relacja cieplejsza 54/22), noga w drzwiach; pelny kontrakt deferred do dowiedzionej dostawy do niej. Wzor sieci potwierdzony (kazdy holding: proba->dowod->umowa). Kasa 96->93, zmeczenie po podrozy. Harrol 3. dostawa=aktywny voucher, linia proven.",
  "ceny": {
   "chleb": {
    "baza": 3,

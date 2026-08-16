@@ -5,12 +5,12 @@
   "dzien": 8,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 26,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-08 POPOLUDNIE (rzut 46, traktat matematyczny rozpoczety): Symon zaczal pisac TRAKTAT o rachunkach/matematyce monety (odsetki, wycena ryzyka, compound/underwriting - frontier math ponad Nesta i Cytadele, z braavijskich tekstow+wlasna metoda) i cwiczy matematyke. Framework polozony, pierwsze sekcje spisane; pisanie=codyfikacja poglebia wlasna maestrie (finanse licznik 17->20, do lvl5 ~25). Zima idealna na to: rynek zamarzniety, maszyna na autopilocie (steward), czas dla umyslu. Praca wieloturowa. Wartosc: wiedza-jako-towar + waluta kanalu Theomore (pomost ku umyslom/Winterfell) + durable dzielo/reputacja. Kasa 78, staple 32, plan zimy w ruchu, castle cykl czysty.",
+ "nastroje_miasta": "297-11-08 WIECZOR (rzut 84, przelom w traktacie): Symon pisal dalej i osiagnal PRZELOM - rdzenna sekcja o wycenie ryzyka/underwritingu spisana (jego frontier-metoda skrystalizowana na pergaminie, cos czego nie ma u typowych faktorow ani w Cytadeli). Akt codyfikacji przepchnal FINANSE 4->5 (AWANS - mistrzostwo przez pisanie). Traktat mocno naprzod. Wartosc: umysl ponad typowego faktora=waluta kanalu Theomore (pomost ku Winterfell) rosnie, wiedza-jako-towar glebsza, durable dzielo. Zima=czas dla umyslu oplaca sie. Kasa 78, staple 32, zmeczenie 4 (dlugie skupienie). Plan zimy w ruchu, maszyna miele.",
  "ceny": {
   "chleb": {
    "baza": 3,

@@ -5,12 +5,12 @@
   "dzien": 14,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 9,
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-14 RANEK (GLEBOKI MROZ wrocil 9, blisko zabojczego; INBOUND cichy-ish): mroz uderzyl twardo znowu - ALE tym razem SYSTEM TRZYMA SAM bez scramble (kontrast do sztormu 11-05). Walidacja wczorajszej odpornosci: (1) multi-source podaz zadzialala - jedno zrodlo znow krotkie, backupy pokryly AUTOMATYCZNIE (redundancja z 11-13 SIE OPLACILA, zero luki); (2) relief-instytucja niesie ubogich (fundusz+rezerwa+Bran/Wiara); (3) castle-first+holdingi dostarczone (Hollis/depot/warianty). Symon=steward, nie mul - maszyna wchlania mroz. Inbox spokojny. Odpornosc na OBU koncach + instytucja=zima staje sie znosnikowa nie kryzysowa. Kasa 114, staple 32, finanse 6, wypoczety. 3 kontrakty doliny, traktat w drodze siecia maesterow, Wylis dowod naprzod, elewacja dojrzewa. Bertram front. (Dzien Ojca jutro 15-ty).",
+ "nastroje_miasta": "297-11-14 POLUDNIE (rzut 83, tlusty zarobek w mroz przez firme/nisze): choc mroz zamrozil OPEN rynek, cicha firma+nisza forensyki suchego towaru daly grubą sesje - audyt+referral z niszy (Doryan/Voss krag) + cichy klient + retainery = ~+17 jel (kasa 114->131). LEKCJA potwierdzona: zimowy dochod = firma (prywatna forensyka/ksiegi, weather-independent) + steady strumienie, NIE open-market hustle; nisza-lock=zimowy silnik dochodu. Firewall czysty, blask Hal/Lorren. W tle: system wchlania gleboki mroz sam (multi-source+relief+depot), 3 kontrakty doliny, traktat w drodze siecia maesterow, finanse 6, Wylis dowod naprzod. Staple 32, plan zimy w ruchu. Dzien Ojca jutro.",
  "ceny": {
   "chleb": {
    "baza": 3,

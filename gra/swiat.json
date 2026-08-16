@@ -10,7 +10,7 @@
  "pogoda": 31,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": "wielki_targ",
- "nastroje_miasta": "297-11-01 RANEK (KOREKTA: zaksiegowano zalegly dochod pasywny/miesieczny): gracz slusznie wychwycil - przez pazdziernik ksiegowano tylko marze per-dostawa, nigdy auto-dochodu miesiecznego (baza+retainery+plon rotacji+odsetki od 250 jel wypozyczonych). Zaksiegowano wplyw +46 (baza 6+retainery 12+rotacja 14+odsetki 12+czynsze 2). Kasa 30->76. ODTAD: auto-wplyw ~+45-50 ksiegowany 1. dnia miesiaca, osobno od marz per-dostawa. PELNY MAJATEK Symona ~930-950 jel netto (wolna kasa to tylko czubek: reszta w rotacji 450, wekslach 200, pozyczce 50, kamieniczce ~56 equity, staple 47) + firma faktorska 2/3 + warrant/ucho lorda Manderly. Wielki targ trwa, kurs w gore w drodze, peer-referral Doryana czeka.",
+ "nastroje_miasta": "297-11-01 RANEK (dochod z WLASNEJ firmy faktorskiej dopisany): gracz dopytal o dochod z jego firmy (faktorska, 2/3 Symon, osobna od kantoru Nesty). Recurring firmy: retainery +12 (bylo) + cichy klient +8 (POMINIETE, dopisane) = ~+20/mies. Kasa 76->84. Laczny auto-wplyw miesieczny odtad ~+54 (baza 6+retainery 12+cichy klient 8+rotacja 14+odsetki 12+czynsze 2). Per-event firmy (audyty Doryan +6, peer-referral CZEKA na targu) + marze filarow/guided-haul = przy zdarzeniu. Kurs w gore w drodze (zaplata na dostawie). Pelny majatek ~940-960 netto. Wielki targ trwa.",
  "ceny": {
   "chleb": {
    "baza": 3,

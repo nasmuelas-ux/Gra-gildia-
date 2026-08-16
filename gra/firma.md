@@ -184,3 +184,11 @@ _Gracz słusznie wychwycił: przez październik księgowano TYLKO marże per-dos
 - Kasa: 30 → 76.
 - ZASADA ODTĄD: na KAŻDYM przełomie miesiąca księgować ten auto-wpływ (~+45-50/mies), OSOBNO od marż per-dostawa (które lecą per rzut jak dotąd). Per-delivery marże (drewno/prowiant/żelazo/guided/Harrol) = zmienne, księgowane przy dostawie. Auto-dochód pasywny = stały, księgowany 1. dnia miesiąca.
 - Koszty operacyjne stałe (wage line, Bran/Boren/Hollis/Wendel, household, relief) w większości niesione przez własne strumienie/rewenue biznesu; cło portowe ~10 uderza ~20. dnia (osobno). Netto po tym wszystkim pozostaje cienkie, ale wpływ pasywny JEST realny i był pomijany.
+
+## KOREKTA 297-11-01 (cd.): cichy klient — recurring firmy faktorskiej
+_Gracz dopytał o dochód z WŁASNEJ firmy faktorskiej. Retainery zaksięgowano (+12), ale POMINIĘTO recurring "cichego klienta" (stała cicha obsługa ksiąg grubszego domu, prowadzona przez Hala pod pieczęcią Symona — powracający grey-stream). Dopisano zaległe +8 (udział Symona)._
+- Kasa: 76 → 84.
+- ROZRÓŻNIENIE UTRWALONE: "moja firma" (faktorska, 2/3 Symon) vs faktoria/kantor Nesty (wspólnik 47%/82% rotacji) — to DWA byty, liczone osobno.
+- Recurring firmy faktorskiej = retainery (+12) + cichy klient (+8) ≈ +20/mies → włączone odtąd w auto-wpływ 1. dnia miesiąca.
+- Per-event firmy (audyty jak Doryan +6, peer-referral pending) i marże filarów/guided-haul = księgowane przy zdarzeniu/dostawie (nie w auto-wpływie).
+- ŁĄCZNY AUTO-WPŁYW MIESIĘCZNY (zaktualizowany): baza 6 + retainery 12 + cichy klient 8 + plon rotacji 14 + odsetki 12 + czynsze 2 = ~+54/mies.

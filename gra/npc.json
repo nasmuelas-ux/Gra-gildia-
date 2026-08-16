@@ -2410,11 +2410,12 @@
    "stan": "rycerz z nadania (gentry)",
    "zawod": "rycerz z nadania, zaprzysiezony Manderlym; trzyma holdfast+wies w gore Bialego Noza (~kilkuset dusz)",
    "mieszka": "Kamienny Brod (w gore Bialego Noza)",
-   "nastawienie_do_gracza": 40,
-   "zaufanie": 12,
-   "ostatni_kontakt": "297-10-22",
+   "nastawienie_do_gracza": 30,
+   "zaufanie": 8,
+   "ostatni_kontakt": "297-10-23 POPOLUDNIE",
    "wie_o_graczu": [
-    "297-10-22 (rzut 50): pierwszy kontakt. Ser Harrol (dumny rycerz, stary wlodarz podupadl, umowa na zboze pekla przed zima=chudnace spichrze) przyjechal po pewna reke, przez referral Godrica. Symon zagral autentycznie - szacunek bez plaszczenia, liczby, pewna reka co nie czyni z rycerza przypadku charytatywnego (godnosc). ZAWARLI skromny kontrakt zimowego prowiantowania (wolna pojemnosc Symona, castle-first nietkniety, frost-proof struktura, uczciwe warunki). Harrol pragmatyczny+wdzieczny, ale dumny=zaufanie dojrzeje przez dowiedziona dostawe zimy. Symon: pierwszy klient z KRWI/NADANIA (nie kupiec) - rycerz zna jego imie. nast 40, zauf 12."
+    "297-10-22 (rzut 50): pierwszy kontakt. Ser Harrol (dumny rycerz, stary wlodarz podupadl, umowa na zboze pekla przed zima=chudnace spichrze) przyjechal po pewna reke, przez referral Godrica. Symon zagral autentycznie - szacunek bez plaszczenia, liczby, pewna reka co nie czyni z rycerza przypadku charytatywnego (godnosc). ZAWARLI skromny kontrakt zimowego prowiantowania (wolna pojemnosc Symona, castle-first nietkniety, frost-proof struktura, uczciwe warunki). Harrol pragmatyczny+wdzieczny, ale dumny=zaufanie dojrzeje przez dowiedziona dostawe zimy. Symon: pierwszy klient z KRWI/NADANIA (nie kupiec) - rycerz zna jego imie. nast 40, zauf 12.",
+    "297-10-23 POPOLUDNIE (rzut 8): Symon stanal uczciwie po straconej 1. dostawie - owned wprost, pelny make-good na wlasny koszt (towar zastepczy ~15 jel). Harrol przyjal ZIMNO: dumny, przestraszony o zime (spichrze chude, przepadlo w zlej porze), ukluty ze zaufal kupcowi z nabrzeza a pierwsza rzecz=katastrofa. 'Rycerz nie karmi wsi obietnicami; dowiedziesz nastepna bez potkniecia to pogadamy, zawiedziesz drugi raz=koniec.' Make-good wzial grudgingly. Relacja spadla (nast 40->30, zauf 12->8), kontrakt na wlosku - ratuje TYLKO dowiedziona dostawa (Hollis-vetted). NIE blad Symona (stanal bez zarzutu) - proud wystraszony rycerz nie nagrodzil w zlej godzinie. Odwracalne dowodem."
    ]
   },
   {

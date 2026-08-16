@@ -6960,3 +6960,8 @@ Check-in u Brana: kamieniczka jak zegar, relief rozwieziony przez killing frost 
 
 ## 297-10-28 RANEK→POŁUDNIE — Praca w post-krukowym zamęcie (rzut 19, chudo ale strategicznie ok)
 Biały kruk wstrząsnął rynkiem (ceny skaczą, panika-skup); dzień Symona poszedł w opanowanie zamętu (trzymał kontrakty/dostawy stabilnie, gdy inni się miotali) bardziej niż w tłusty zysk. +4 jel (79→83). Realna wartość zimowego skoku=strategiczna/rozłożona (linie prowiantowe warte więcej całą zimę, wg modelu), nie jednorazowy strzał dziś. Pora RANEK→POŁUDNIE.
+
+## 297-10-28 POŁUDNIE→POPOŁUDNIE — Strategiczny skup staple (rzut 65, mądrze)
+Po białym kruku Symon skupił mądrze: sól (zimowy ścisk najmocniej), zboże, opał — od dobrych źródeł, **poniżej prawdziwego szczytu** (intel Deman/Hollis/ceny; widzi dalej niż panikujący tłum), Aurane sztauuje. Dyscyplina Nesty: ~35 jel commit (kasa 83→48), płynność + bufor nietknięte. Pozycja ~35 jel **aprecjuje przez zimę** (oficjalna twarda zima = ścisk pewny).
+
+**Charakter zachowany:** to nie hoarding-gouge, lecz **zdolność dostawy** — zasili prowiant/relief/klientów przez ścisk + uczciwy zysk z nieuniknionego wzrostu = **stabilizator rynku**, nie spekulant na głodzie (odwrotność hoarderów, którzy będą wrogami, gdy zima przyciśnie). Zysk realizuje się przez zimę (sprzedaż/użycie apreciowanego zapasu). Nowy wątek: skup_staple_zima_10_28. Pora POŁUDNIE→POPOŁUDNIE.

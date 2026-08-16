@@ -12,7 +12,7 @@
  "zmeczenie": 3,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 83,
+  "jelenie": 48,
   "smoki": 0
  },
  "dobytek": [
@@ -258,5 +258,6 @@
  "_umiejetnosci_glosariusz": {
   "wlodarstwo": "ekonomia i zarzadzanie domena/lennem: stewardstwo, prowiantowanie, spichrze/zapasy, logistyka skali, gospodarka sezonowa, prowadzenie wielkiego gospodarstwa/lenna/Polnocy. Odrozniac od: organizacja(ogolna koordynacja proces/ludzie), rachunki(ksiegowosc), finanse(matematyka monety/ryzyka Bank-level), handel(kupno/sprzedaz). RDZEN gwiazdy (czlowiek rady Starkow=wlodarz Polnocy). Symon praktykuje de facto: castle-provisioning/relief/lancuch logistyczny.",
   "finanse": "matematyka finansowa/braavijska: procent skladany, kredyt, wycena ryzyka (poziom Zelaznego Banku). Frontier ponad rachunkami; uczony self-study z braavijskich tekstow (Nesta=drzwi nie mistrz)."
- }
+ },
+ "zapas_staple_zimowy_jel": 35
 }

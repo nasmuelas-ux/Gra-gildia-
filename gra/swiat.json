@@ -5,12 +5,12 @@
   "dzien": 28,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 51,
  "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-28 RANEK (szaro, chlodno, pogoda 51): *** BIALY KRUK CYTADELI *** (INBOUND 83; pierwszy wpleciony beat osi swiata) - Cytadela oglasza w calym Krolestwie: dlugie lato OFICJALNIE skonczone, jesien potwierdzona, a maesterowie ostrzegaja: bedzie KROTKA, zima TWARDA. Maesterski cien staje sie oficjalnym slowem. Dociera przez Theomore/Wiare/port. DLA SYMONA: jego przewaga zimowa SURGE'uje - oficjalna zima=zaostrzony popyt/ceny prowiantu, wieksza stawka i waga jego maszyny (prowiant/relief/bufory/underwriting); walidacja calego jego przygotowania (byl gotowy nim Cytadela oglosila). ZAGROZENIE: ubodzy w wiekszym niebezpieczenstwie (relief wazniejszy); ceny/panika moga drgnac; Braavos/morza pelna zima (refi/sukno dalej lod). Bilans mocny: guided-haul rosnie, relief=filar miasta, Wylis proof(23), Harrol topnieje(42/18), Boren sojusz krwi, maszyna validated, kasa 79. Reszta: refi zegar zimowy, dziecko-nadzieja (slodko-gorzko po Alys). Kasa 79.",
+ "nastroje_miasta": "297-10-28 POPOLUDNIE (strategiczny skup staple, rzut 65 solidny): kupil madrze - sol/zboze/opal ponizej szczytu (intel Deman/Hollis, przed prawdziwa gorka), Aurane sztauuje. Dyscyplina: ~35 jel commit (kasa 83->48), plynnosc+bufor nietkniete. POZYCJA ~35 jel aprecjuje przez zime. CHARAKTER: nie hoarding lecz ZDOLNOSC DOSTAWY (zasila prowiant/relief/klientow przez scisk + uczciwy zysk) = STABILIZATOR nie spekulant na glodzie (vs hoarderzy=wrogowie). Zysk realizuje sie przez zime. Bilans mocny: bialy kruk=oficjalna zima (przewaga surge), guided-haul rosnie, relief=filar, Wylis proof(23)+jedna-czysta-zima test, Harrol topnieje(42/18), maszyna validated. Reszta: refi/korytarz=wiosna (Braavos spi), dziecko-nadzieja. Kasa 48 + zapas 35.",
  "ceny": {
   "chleb": {
    "baza": 3,

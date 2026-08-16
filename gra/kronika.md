@@ -6985,3 +6985,6 @@ Sieć północno-lądowa dostała kształt: Harrol = węzeł 1, Berena = prospek
 
 ## 297-10-29 POPOŁUDNIE→WIECZÓR — kantor + selektywny dokup staple (rzut 54)
 Popołudnie u Nesty w kantorze: księgi i rotacja czysto, płynność twarda, +5 jel. Przy okazji odczyt rynku z Nestą — post-kruk froth opada nierówno. Opał już zszedł z piku (mróz zelżał, brak edge do dokupu), zboże steady, ale **sól wciąż pod prawdziwym zimowym szczytem** (ścisk konserwacji rośnie). Dyscyplina Nesty: nie kupować całego koszyka na oślep — selektywnie tylko to, co ma jeszcze głowę do wzrostu. Dołożył ~12 jel w sól (+ trochę zboża), resztę odpuścił. Zapas staple 35→47, płynność i bufor nietknięte. Kasa 53→46. Lekcja: edge to nie tylko widzieć dalej niż panikujący tłum, ale i dyscyplina selekcji — kupować to, co jeszcze rośnie, nie wszystko naraz.
+
+## 297-10-30 RANEK — nowy dzień (targ rybny)
+Symon i Mira zamknęli 29-ty wieczorem przy dogasającym palenisku — Mira weszła w wątek Bereny jako równy strateg (rozumie słabszą stronę od środka; wprowadzenie do wdowy to robota dla niej tak samo jak dla Symona). Noc spokojna. 30-ty wstaje szary i umiarkowany (mróz odpuścił, pogoda 46), dzień targu rybnego. Inbox cichy.

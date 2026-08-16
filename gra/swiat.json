@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 29,
+  "dzien": 30,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 33,
- "dzien_tygodnia_nr": 3,
- "dzien_targowy": null,
- "nastroje_miasta": "297-10-29 WIECZOR (rzut 54, kantor+selektywny dokup staple): Symon popracowal u Nesty - ksiegi/rotacja czysto, plynnosc twarda, +5 jel. Przy okazji ODCZYTAL rynek z Nesta: post-kruk froth OPADA nierowno - opal juz zszedl z piku (mroz zelzal, brak edge), zboze steady, ale SOL wciaz pod prawdziwym zimowym szczytem (scisk konserwacji rosnie). Dyscyplina Nesty: NIE dokupywac calego koszyka na oslep - selektywnie tylko to co ma jeszcze glowe do wzrostu = dolozyl ~12 jel w SOL (+ odrobine zboza), reszte odpuscil. Zapas staple 35->47, plynnosc/bufor nietkniete. Kasa 53->46. Bilans: maszyna szeroka+validated, siec polnocno-ladowa ma ksztalt (Harrol wezel1/Berena prospekt2), relief=filar, Wylis proof(23), season-reading, staple pozycja rosnie madrze.",
+ "pogoda": 46,
+ "dzien_tygodnia_nr": 4,
+ "dzien_targowy": "ryby",
+ "nastroje_miasta": "297-10-30 RANEK (nowy dzien, targ rybny): Bialy Port budzi sie w szary, umiarkowany chlod (pogoda 46 - mroz odpuscil, ani zabojczy ani jasny). Targ rybny (dzien podzielny przez 3) - keje ozywione, swieza ryba schodzi w dol. Symon wypoczety po wieczorze z Mira. Kierunek trzyma: siec polnocno-ladowa ma ksztalt (Harrol wezel1 usatysfakcjonowany/przyszly voucher, Berena prospekt2 przez Godrica+Mira), staple pozycja 47 aprecjuje (sol wciaz rosnie), relief=filar, maszyna szeroka+validated, Wylis proof(23), season-reading, bialy kruk odpalony. Kasa 46+zapas 47. Nastepne beaty osi (~298) dalej przed nami.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -19,8 +19,8 @@
   },
   "ryba": {
    "baza": 2,
-   "mnoznik": 1.0,
-   "przyczyna": "nie dzien targowy"
+   "mnoznik": 0.9,
+   "przyczyna": "targ rybny - swieza podaz, ceny w dol"
   },
   "pergamin": {
    "baza": 40,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 29,
+ "dzien": 30,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

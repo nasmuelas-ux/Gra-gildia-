@@ -1216,6 +1216,12 @@
    "priorytet": "sredni-wysoki",
    "stan": "297-10-22 (rzut 50): ZAWARTY skromny kontrakt zimowego prowiantowania holdingu Ser Harrola z Kamiennego Brodu (rycerz Manderly-sworn, referral Godrica). Wolna pojemnosc, castle-first nietkniety, frost-proof, uczciwe warunki. Kapitalolekko (leveruje maszyne/near-North sourcing/haul Borena). ZNACZENIE: pierwszy klient z KRWI/NADANIA - krok z kupiectwa w gentry, szczebel ku wlodarzowi Polnocy (gwiazda). Prestiz/zaufanie Harrola dojrzeje przez DOWIEDZIONA dostawe zimy (jak Wylis). DYSCYPLINA: nigdy nie zagrozic dostawie zamkowej. || 297-10-23 (rzut 8): 1. dostawa przepadla w brodzie; Symon owned+make-good uczciwie ale Harrol (dumny/przestraszony o zime) przyjal ZIMNO, class-resentment - relacja spadla 30/8, kontrakt NA WLOSKU. RATUJE TYLKO dowiedziona bezbledna dostawa (Hollis-vetted trasy). NIE blad Symona; odwracalne przez dowod. Priorytet: nastepna dostawa do Harrola MUSI byc bezbledna.",
    "opis": "Drugi klient prowiantowy (gentry), dywersyfikacja klientow + reputacja w krwi/nadaniu. Wiaze: wlodarstwo(skill), gwiazda(doradca Starkow=wlodarz Polnocy), Godric(referral), maszyna prowiantowa."
+  },
+  {
+   "id": "premium_guided_haul",
+   "priorytet": "sredni-wysoki",
+   "stan": "297-10-24 (rzut 54): USTANOWIONA nowa linia PREMIUM GUIDED-HAUL jako JV z Borenem (jego wozy/carters + Hollis route-vetting + brand niezawodnosci Symona; marza dzielona ~50/50). Usluga: kupiec placi za bezpieczny WYNIK przewozu przez zime (nie za sekret tras - fosa ROSNIE, wiedza proprietary). Pitch: brod (proof-of-need). Solidny start, pierwszy klient/pipeline. Kapitalolekko, skaluje z gleboka zima. Katastrofa broku obrocona w biznes. Guild Borena z blind-cheap->premium/named.",
+   "opis": "Nowa capital-light linia: bezpieczny przewoz jako usluga (nie sprzedaz wiedzy). Wiaze: Hollis(kwatermistrz), Boren(JV/sojusz krwi), wlodarstwo/logistyka, model marz. Reframe Nesty/Miry: sprzedawaj RUCH nie SEKRET."
   }
  ]
 }

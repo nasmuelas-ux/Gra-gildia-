@@ -125,3 +125,8 @@ _Skala uboga (1 jeleń=100 mied). Marże = spread (koszt all-in vs cena dostawy)
 - Rzut dostawy moduluje: sukces=pełna marża; sukces-z-kosztem=marża minus koszt; porażka=strata/koszt.
 - Retainery/rotacja/baza kapią automatycznie /mies; audyty per-sesja jak dotąd.
 - Model KALIBROWALNY — korygować, gdy skala/ceny się zmienią.
+
+### DODANA LINIA (297-10-24): PREMIUM GUIDED-HAUL (JV z Borenem)
+- Bezpieczny przewoz/wetowanie cudzego haulu przez zime (Hollis+wozy Borena+brand). Marza dzielona z Borenem (~50/50). Kupiec placi za WYNIK, nie za sekret (fosa rosnie).
+- Netto Symona: ~8-12 jel/mies przy rozpedzie (skaluje z gleboka zima/popytem); teraz start ~+6 initial. Kapitalolekko.
+- KSIEGOWANIE: per zlecenie guided-haul = + wg wielkosci (dzielone z Borenem); rzut moduluje (i Hollis wetuje trase=redukuje ryzyko incydentu).

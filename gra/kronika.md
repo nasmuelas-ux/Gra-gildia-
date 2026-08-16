@@ -6940,3 +6940,8 @@ Reputacja/charakter: dowozi do zamku + gentry I karmi ubogich przez mróz, co ł
 
 ## 297-10-25 POŁUDNIE→POPOŁUDNIE — Zarobkowanie w mrozie (rzut 70, solidnie)
 Firma faktorska miele niezależnie od killing frost (biurko Hala, premium audyt Corliss, Doryan). +10 jel (70→80). Kasa odbudowana, dobry dzień w każdą stronę (maszyna validated rano + solidny utarg). Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-26 DZIEŃ MATKI, RANEK→POŁUDNIE — Dosypanie reliefu + służba (rzut 81, mocno)
+Symon obrócił dzień Wiary w konkret: relief nadwątlony przez wczorajszy killing frost **dosypał z nawiązką** (wspólnota Dnia Matki hojna, mantia Owena, sieć darczyńców, earmark lorda; Symon −12 jel, kasa 80→68; Bran rozwozi, Wiara rozdaje). Zapasy stoją mocno na nadchodzący odcinek; Elna i ubodzy pokryci — nikt sam z mrozem. Potem służył pokornie przy ławie, wśród nich.
+
+Owen dał **uznanie**, nie przestrogę: „nakarmiłeś Północ przez zabójczy mróz, a dziś dosypujesz, choć nikt nie zmusza — Matka Miłosierdzia uśmiecha się twoimi rękami; takich Północ zapamiętuje." Relief, przetestowany killing frostem i dosypany na dzień Wiary, staje się **rozpoznawalnym filarem zimowego przetrwania miasta** = order, który lord ceni (biedni nakarmieni = brak rozpaczy/rozruchów), pod mantią Wiary bez „gbura ponad stan". Filar charakteru/gwiazdy, wektor ku radzie przez czyn. Owen zauf +1. Pora RANEK→POŁUDNIE.

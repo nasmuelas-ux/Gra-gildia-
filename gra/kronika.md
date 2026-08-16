@@ -7186,3 +7186,6 @@ System trzymał rdzeń wzorowo, ale dogląd krańców wykrył szczelinę: dusze 
 
 ## 297-11-15 WIECZÓR — cichy wieczorny zarobek (rzut 55)
 Po krótkim odpoczynku Symon popracował przy księgach — firma i nisza działają niezależnie od pogody. Solidna, spokojna sesja mimo zmęczenia, ~+9 jel (kasa 130). Zimowy silnik dochodu kręci się nawet w sztormowy wieczór. Dzień wybitny domknięty: drugi sztorm zwiedziony wzorowo ze stewarda, szczelina na krańcu złapana, dochód z niszy na koniec. System zwalidowany na rdzeniu, obu końcach i krańcach.
+
+## 297-11-16 RANEK — Dzień Matki: Wiara chce publicznie uhonorować (inbound 83)
+Drugi sztorm minął, został mróz (27); miasto odgrzebuje się po raz drugi. Dzień Matki. Po dwóch zabójczych sztormach, które relief Symona przetrwał — biedota żyje, gdzie indziej marzli — wdzięczność Wiary i miasta krystalizuje się: Owen chce publicznie uhonorować rolę Symona przed kongregacją. To delikatne: publiczny honor kusi, ale grozi firewallowi (podniesiona widoczność przy żywej karcie Antaryona), musi zostać w ramie „Wiara karmi, godni ludzie wspierają" (nie „Symon-dobroczyńca"), i jest paliwem dla zawiści dworu (ser Bertram) — Mira: uczciwy i nudny, nie dawać historii. Wybór, jak przyjąć: pokora i rozdanie chwały starves Bertrama i chroni firewall, chwycenie splendoru = ryzyko.

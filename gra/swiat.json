@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 15,
+  "dzien": 16,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 2,
- "dzien_tygodnia_nr": 6,
+ "pogoda": 27,
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-15 WIECZOR (rzut 55, cichy wieczorny zarobek): po krotkim odpoczynku Symon popracowal przy ksiegach (firma/nisza, weather-independent) - solidna spokojna sesja mimo zmeczenia, ~+9 jel (kasa 121->130). Dzien wybitny domkniety: 2. sztorm zwiedziony wzorowo ze stewarda, szczelina na krancu zlapana, wieczorny dochod z niszy. System validated na obu koncach+krancach. Kasa 130, staple 32, finanse 6, zmeczenie 5. Sztorm slabnie. Elewacja dojrzewa (2 zimy zwiedzione), traktat w drodze siecia maesterow, 3 kontrakty doliny, relief-instytucja. Bertram front.",
+ "nastroje_miasta": "297-11-16 RANEK (sztorm przeszedl w mroz 27, DZIEN MATKI; INBOUND 83 - Wiara chce publicznie uhonorowac): 2. sztorm minal, zostal mroz; miasto odgrzebuje sie po raz drugi. Dzien Matki. WIELKI INBOUND: po DWOCH sztormach, ktore relief Symona przetrwal (biedota zyje gdy indziej marzli), WDZIECZNOSC Wiary i miasta krystalizuje sie - OWEN chce PUBLICZNIE uhonorowac role Symona (na Dzien Matki, przed kongregacja). DELIKATNE: publiczny honor kusi ale (a) firewall (podniesiona widocznosc przy karcie Antaryona), (b) rama - musi zostac 'Wiara karmi, godni ludzie wspieraja' nie 'Symon-dobroczynca', (c) ser BERTRAM/zawisc dworu - glosny splendor gbura=paliwo dla urazonych (Mira: uczciwy i nudny, nie daj historii). Wybor jak przyjac: pokora/rozdanie chwaly=wlascie (starves Bertram+firewall), vs chwycenie=ryzyko. Kasa 130, staple 32, finanse 6, wypoczety. System validated 2x, elewacja dojrzewa.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.7,
-   "przyczyna": "DRUGI zabojczy sztorm (pogoda 2) - opal rozpaczliwy"
+   "mnoznik": 1.35,
+   "przyczyna": "sztorm przeszedl w mroz (27) - opal schodzi z piku"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Ojca",
- "dzien": 15,
+ "swieto": "Dzien Matki",
+ "dzien": 16,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

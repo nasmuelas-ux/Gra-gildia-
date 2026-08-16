@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 19,
+  "dzien": 20,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 48,
- "dzien_tygodnia_nr": 3,
+ "pogoda": 96,
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-19 WIECZOR (rozmowa z Mira - 'moze'->nadzieja): Mira krucho wyznala narastajace znaki (2 tyg spoznienia + poranne mdlosci + inne zmeczenie) - 'liczby sie zbieraja, czas przestac udawac ze to nic'. Stara rana vs nadzieja co przebija. 'Moze' zaczyna byc ostroznie nazywane NADZIEJA. Plan: isc do zielarki/madrej kobiety po pewnosc we dwoje (dyskretnie, nie oglaszac - jej historia). Dzien mocny: dom sukna Miry, refi sprimowany, matematyka, a wieczorem najwazniejsze - nadzieja na dziecko dojrzewa. Kasa 152, finanse 6, wlodarstwo 7, staly warrant, elewacja dojrzewa, clo jutro.",
+ "nastroje_miasta": "297-11-20 RANEK (JASNA ODWILZ 96 - respite w zimie; clo portowe; INBOUND 69): sliczny jasny lagodny dzien, prawdziwe okno-respite (rzadkie zima). Clo portowe miesieczne oplacone ~10 jel (kasa 152->142, rutyna). PORANNY INBOUND: Mira, z nadzieja z wczoraj, sugeruje by DZIS pojsc do ZIELARKI/madrej kobiety po pewnosc co do dziecka (jasny dzien sprzyja, dyskretnie, we dwoje). Poza tym okno dobre na trakty/handel/arc Miry. Kasa 142, staple 32, finanse 6, wlodarstwo 7. W tle: staly warrant zamku, dom sukna Miry wystartowal, refi sprimowany, traktat+sponsor ku Winterfell, elewacja dojrzewa, 3 kontrakty doliny. Nastepny krok: zielarka (potwierdzenie) / wlasne tory.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.25,
-   "przyczyna": "mroz umiarkowany (48)"
+   "mnoznik": 1.0,
+   "przyczyna": "jasny lagodny dzien (96) - opal spokojnie"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 19,
+ "dzien": 20,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

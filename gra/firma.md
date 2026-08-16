@@ -199,3 +199,10 @@ _Gracz: "co tak mało?" — słuszne pytanie o skalę. Odpowiedź: +54 to TYLKO 
 - **Warstwa B (operacyjna) ~107/mies** — prowiant zamek 45 + drewno 20 + żelazo 15 + Harrol 12 + guided 9 + korytarz 6; księgowana PER DOSTAWA przez cały miesiąc (nie front-loaded 1. dnia). Zmienna, zależna od tego ile wozów dojedzie.
 - **Brutto ~160/mies; minus opex ~95; NETTO ~55-65/mies.**
 - ZASADA: NIE kredytować warstwy B z góry na przełomie miesiąca — to byłoby zmyślanie dostaw. Kredytuje się przy każdej faktycznej dostawie (per rzut), jak dotąd. Tylko warstwa A (pasywna) leci auto 1. dnia.
+
+## NOWA LINIA (297-11-04): SIEĆ PÓŁNOCNO-LĄDOWA — holdingi doliny
+- Zaopatrzenie zimowe holdingów w górę Białego Noża (gentry/wsie Manderly-sworn) drogą lądową, gdy rzeka zamarza. Hub = depot Wendla; trasy Hollis-vetted; podaż near-North (Leona); haul Boren.
+- KLIENCI (297-11-04): ser Harrol (Kamienny Bród) + lady Berena (Wierzbowy Bród) — obaj pełne kontrakty zimowe.
+- Marża: ~12/mies per holding zimą (kapital-light — leveruje istniejący hub/podaż/haul; castle-first zawsze nietknięty).
+- Wzór akwizycji: ciepłe wprowadzenie (Godric) → próba → dowiedziona dostawa → pełny kontrakt → klient staje się voucherem następnego. Skaluje przez KRĄG voucherów, nie zimne łowy.
+- Znaczenie strategiczne: hedge na cutoff Braavos (noga lądowa nie zamarza z morzem), endgame "dom o własnych siłach", szczebel gwiazdy (włodarz Północy, nie jednego portu). Prescient wobec osi 299 (siec lądowa gdy wojna porwie morze).

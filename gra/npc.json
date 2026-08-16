@@ -497,8 +497,8 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 94,
-   "zaufanie": 59,
+   "nastawienie_do_gracza": 95,
+   "zaufanie": 61,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
     "dobra, pewna reka do pisma",
@@ -596,10 +596,11 @@
     "297-10-13 DZIEN MATKI: udzielil slubu Symon+Mira (rok temu bal sie o dusze Symona, dzis laczyl go z dobrym czlowiekiem). Wesele=milosc/malzenstwo/milosierdzie naraz (wino lorda->biedni). Blogoslawil.",
     "297-10-16: Symon zajal sie RELIEFEM na zime (resupply zanim mroz przycisnie) - skoordynowal siec pod mantia Wiary + dolozyl grosz+opal. Dokladnie grounding z rana w czynie (rosnacy schyla sie sluzyc). Elna pokryta w reliefie dyskretnie. Owen kontent - gwiazda sluzy slabym. zauf +1.",
     "297-10-19 DZIEN MATKI: Symon sluzyl w Sepie (spis jalmuzny, rozdzial reliefu wsrod biednych, ramie w ramie z Owenem) mimo calego awansu/maszyny. Owen dal UZNANIE nie przestroge (ewolucja): 'rok temu bałem sie o twoja dusze, dzis to nie ja cie pilnuje - TY siebie pilnujesz; sluzysz ze szczytu nie z potrzeby, dlatego gwiazda prawdziwa, takich biora do rady dla charakteru'. Najglebsze slowo Owena - Symon POJAL grounding, stal sie nim. Faith-tie glebsza. zauf +1.",
-    "297-10-26 DZIEN MATKI (rzut 81): Symon dosypal relief (nadwatlony przez killing frost) z nawiazka i sluzyl pokornie. Owen UZNANIE nie przestroga: 'nakarmiles Polnoc przez zabojczy mroz, a dzis dosypujesz choc nikt nie zmusza; Matka Milosierdzia usmiecha sie twoimi rekami, takich Polnoc zapamietuje'. Relief=rozpoznawalny filar zimowego przetrwania miasta (order ceniony przez lorda, pod mantia Wiary). zauf +1."
+    "297-10-26 DZIEN MATKI (rzut 81): Symon dosypal relief (nadwatlony przez killing frost) z nawiazka i sluzyl pokornie. Owen UZNANIE nie przestroga: 'nakarmiles Polnoc przez zabojczy mroz, a dzis dosypujesz choc nikt nie zmusza; Matka Milosierdzia usmiecha sie twoimi rekami, takich Polnoc zapamietuje'. Relief=rozpoznawalny filar zimowego przetrwania miasta (order ceniony przez lorda, pod mantia Wiary). zauf +1.",
+    "297-11-02 (Dzien Matki, rzut 37): Owen zajety swietem nie mial czasu na rade, ale poprosil Symona by ZOSTAL i pomogl przy rozdawaniu ('rece przydadza sie bardziej niz slowa'). Symon zostal - podwinal rekawy, pracowal w kolejce rozdawania z Branem/pomocnikami septy, sluzyl ubogim z GODNOSCIA (jego rejestr: ludzie, nie przypadki charytatywne). Solidnie, cicho, bez teatru; widziany przez czesc kongregacji. Discreet dolozyl ~3 jel do rozdania POD MANTIA WIARY (nie 'firma rozdaje'). Potwierdzil na wlasne oczy ciezar przednowka - biedy wiecej i chudszej niz zeszla zima. Owen (dostrzegl mimochodem) - regard glebszy: poprosil, Symon dowiozl czynem w jego najwazniejszy dzien. nast 94->95, zauf 59->61. Charakter/gwiazda-przez-czyn wzmocniony; skryba ludu w akcji."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-10-26",
+   "ostatni_kontakt": "297-11-02",
    "cechy_mowy": "lagodnie, cytuje Siedmioramienna Gwiazde; mowi 'moje dziecko'",
    "status": "DRIVER sprawy Rymana: pochowa Wicka z obrzedem; przekierowuje sprawe na INKWIZYCJE Winterfell (nie prog Theomore) — hook: kopia + jego wlasne swiadectwo + podejrzana smierc maestera Aemona. Kanal: kruk (~10-25).",
    "rok_urodzenia": 243

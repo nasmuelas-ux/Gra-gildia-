@@ -7036,3 +7036,6 @@ Symon zaniósł mętną plotkę o "zimowym froth zbożowym" tam, gdzie jego edge
 
 ## 297-11-02 RANEK — Dzień Matki (święto), kurs wciąż w drodze
 Chłodny, szary poranek. Dzień Matki — święto Wiary, miasto zwolnione, keje ciche, ludzie ciągną ku septom. Dobry dzień na Wiarę, relief i dom, nie na twardy handel. Kurs w górę doliny wciąż w drodze (trakt górny + etapowanie u Wendla zabiera czas; wieść spodziewana jutro). Inbox cichy.
+
+## 297-11-02 RANEK→POŁUDNIE — Dzień Matki: ręce, nie słowa (rzut 37)
+Symon został na prośbę Owena i pracował przy rozdawaniu w septie — podwinął rękawy, stanął w kolejce z Branem i pomocnikami, służył ubogim z godnością (jak ludziom, nie przypadkom charytatywnym), cicho i bez teatru, na oczach kongregacji. Dołożył ~3 jel dyskretnie pod mantią Wiary (nie „firma rozdaje" — właściwa rama i firewall). Potwierdził na własne oczy to, co Owen mówił: przednówek będzie ciężki, biedy więcej i chudszej niż zeszłej zimy — relief-filar ważniejszy tej zimy, warto wzmocnić rezerwę przed głęboką zimą. Owen, dostrzegłszy to mimochodem, pogłębił regard: poprosił, a Symon dowiózł czynem w jego najważniejszy dzień (nast 94→95, zauf 59→61). Gwiazda przez czyn, skryba ludu w akcji. Kasa 90→87.

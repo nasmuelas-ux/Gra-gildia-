@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 3,
+  "dzien": 4,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 47,
- "dzien_tygodnia_nr": 1,
- "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-03 WIECZOR (rzut 75, depot+proba Bereny): Symon zjadl i przy okazji domknal DEPOT Wendla na stale (pewny wezel/hub linii, staging zorganizowany, Wendel 62/26) + wypuscil PROBNA dostawe do Bereny z depotu (bezbledna sztauka, Hollis-vetted, krotki skok, dojezdza wkrotce) - ustawiona pod dowod ktorego zadala; czysta dostawa = pelny kontrakt zimowy w zasiegu. Linia obsluguje gorna doline systemowo (depot=hub). Kasa 93->87, staple 38, zmeczony po dniu w dolinie. Harrol aktywny voucher, Berena 54/22 na progu, Voss forensyka w toku, rezerwa reliefu wzmocniona, Owen 95/61.",
+ "pogoda": 40,
+ "dzien_tygodnia_nr": 2,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-11-04 RANEK (przy depocie Wendla; INBOUND: proba Bereny doszla BEZBLEDNIE): chlodny dzien (pogoda 40). Symon przenocowal przy depocie. PORANNA WIESC: probna dostawa do Bereny dotarla bezblednie (rzut 73) - dowod ktorego zadala. Dumna wdowa PRZEKONANA (62/32), przyslala slowo: gotowa na PELNY kontrakt zimowy Wierzbowego Brodu. Wzor sieci wykonany do konca (proba->dowod->umowa), DRUGI holding doliny dojrzaly po Harrolu. Marza +4 (kasa 87->91). Nastepne: domknac pelny kontrakt Bereny. Bilans: linia=hub systemowy (depot Wendla), Harrol aktywny voucher, Voss forensyka w toku, rezerwa reliefu wzmocniona, Owen 95/61, warrant+ucho lorda Manderly.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -19,8 +19,8 @@
   },
   "ryba": {
    "baza": 2,
-   "mnoznik": 0.9,
-   "przyczyna": "targ rybny - swieza podaz"
+   "mnoznik": 1.0,
+   "przyczyna": "nie dzien targowy"
   },
   "pergamin": {
    "baza": 40,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 3,
+ "dzien": 4,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

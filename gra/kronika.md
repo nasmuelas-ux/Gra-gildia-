@@ -7054,3 +7054,6 @@ Symon i Mira pojechali do Wierzbowego Brodu domknąć umowę. Berena przyjęła 
 
 ## 297-11-03 POPOŁUDNIE→WIECZÓR — depot na stałe + próbna dostawa do Bereny (rzut 75)
 Po posiłku Symon, będąc w okolicy, domknął dwa fronty naraz. Depot u Wendla przeszedł z tropu w pewny węzeł linii — staging zorganizowany, stodoły gotowe, rytm kursów ustalony; Wendel rad (dochód z pustych stodół), ceni pewny układ i ludzkie traktowanie (62/26). Stamtąd też wypuścił próbną dostawę do Bereny — krótki skok z depotu do Wierzbowego Brodu, Hollis-vetted, zesztauowana bezbłędnie, dojeżdża wkrótce. Ustawiona pod dokładnie ten dowód, którego zażądała: jak dojdzie czysto, pełny kontrakt zimowy jest w zasięgu. Linia obsługuje teraz górną dolinę systemowo, z depotem jako hubem. Kasa 93→87.
+
+## 297-11-04 RANEK — próba do Bereny doszła bezbłędnie (rzut 73)
+Symon przenocował przy depocie Wendla. Poranna wieść: próbna dostawa do Wierzbowego Brodu dotarła bezbłędnie — na czas, frost-proof, dokładnie jak obiecano. To dowód, którego Berena zażądała. Dumna wdowa przekonana — z ostrożnej stała się gotowa; przysłała słowo, że siada do pełnego kontraktu zimowego zaopatrzenia wsi (62/32). Wzór sieci wykonany do końca: próba → dowód → umowa. Drugi holding doliny dojrzały po Harrolu. Marża próbna +4 (kasa 87→91). Następny krok: domknąć pełny kontrakt Bereny.

@@ -6951,3 +6951,6 @@ Symon domknął zainteresowanego kupca (zimowy towar via Hollis-vetted trasy + w
 
 ## 297-10-27 POŁUDNIE→POPOŁUDNIE — Zarobkowanie (rzut 39, zwyczajnie)
 Zwykła sesja: retainery, drobny audyt. +5 jel (74→79). Pora POŁUDNIE→POPOŁUDNIE.
+
+## 297-10-27 POPOŁUDNIE — U Aldousa (bez rzutu; przyjaźń + grounding-uznanie)
+Symon wpadł do Aldousa; nabrzeże huczy o jego tygodniu (wóz pod lodem + rescue Hewa, dostawy przez killing frost, relief). Aldous z dumą starego, co znał go nikim: „pamiętam, jakeś skrobał za miedziaka; teraz dowozisz, gdy inni marzną, wyciągnąłeś człowieka z lodu — takich na palcach jednej ręki." Grounding jako uznanie (jego mądrość spod ślubu, potwierdzona): „wybrałeś życie nad grosz — TO jest człowiek; trzymaj się tego, idąc wyżej — najważniejsze zostaje na dole: ona i ludzie, co pamiętają, kim dla nich byłeś." Przyjaźń bez zawiści; Symon wyszedł ugruntowany przez ciepłe potwierdzenie. Aldous zauf 55→57. Pora POPOŁUDNIE.

@@ -7207,3 +7207,6 @@ Symon i Wylis zasiedli do warrantu — i kasztelan, przekonany dwoma zwiedzionym
 
 ## 297-11-17 POŁUDNIE→WIECZÓR — nauka prowiantowania i logistyki (rzut 35)
 Symon usystematyzował lekcje, które zima wbijała mu w praktyce — redundancja tras i podaży, staging przez depot, dyscyplina castle-first, klauzule kary i pochodzenia, relief jako instytucja, multi-source. Nie po to, by pisać (drugi traktat wciąż przedwczesny), lecz by uporządkować wiedzę w głowie i zbudować bank materiału na później. Włodarstwo dojrzewa (licznik →89; poziom 7 tuż-tuż, przy ~90 — następna sesja przepchnie). Spokojny dzień umysłu po dzisiejszym kamieniu milowym.
+
+## 297-11-17 WIECZÓR — rozmowa z Mirą
+Wieczór przy ogniu, rozmowa bez strategii. Symon opowiedział o stałym warrancie zamku; Mira z dumą schowaną pod praktycznością („dobrze, ale nie daj się ponieść, zima jeszcze nie skończona"). A potem rozmowa sama zsunęła się ku „może": Mira sama go dotknęła — „wciąż się spóźniam, dłużej niż wczoraj; nie pozwalam sobie, bo raz mnie to złamało, ale liczę dni, nie umiem nie liczyć". „Może" odrobinę cięższe niż wczoraj, wciąż nienazwane i niepotwierdzone, oboje ostrożni (jej historia kładzie cień). Rozmawiali jeszcze o Alys (też przy nadziei), Branie, kamieniczce — o niczym i o wszystkim. Ten dom to nie mury, lecz to.

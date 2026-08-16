@@ -5,12 +5,12 @@
   "dzien": 12,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 63,
  "dzien_tygodnia_nr": 3,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-12 POPOLUDNIE (rzut 20 marg., kontrakt Ronnela zawarty): PELNY KONTRAKT ZIMOWY ser Ronnela ZAWARTY = TRZECI holding sieci (Harrol+Berena+Ronnel). Ostrozny rycerz wynegocjowal ciensza marze 1. sezon (~8/mies vs ~12, sciezka do standardu gdy dowiedzione) - nie porazka, tylko upside przyciety. Siec doliny DOJRZALA: 3 pelne kontrakty gentry + Godric konduit + Wendel hub + Hollis/Leona/Boren=polnocna linia ladowa. Initial +4 (kasa 118->122). Bilans dnia wybitny (okno: proba+sukno+kontrakt). W tle maszyna miele, relief trzyma sam, traktat u Theomore'a (pomost maesterski). Staple 32, finanse 5, trzy tory gwiazdy. Plan zimy w ruchu, elewacja dojrzewa.",
+ "nastroje_miasta": "297-11-12 WIECZOR (rzut 7, doglad wychwycil luke podazy - contained z kosztem): steward-obchod ZAMIAST zarobku obrocil sie w firefighting: jedno near-North zrodlo (Leona) przyszlo KROTKO ten cykl (zima zdlawila podaz u zrodla, nie wina Leony), grozila LUKA w dostawie. Symon zlapal WCZESNIE (steward-value) - castle-first+holdingi ochronione (redundancja+awaryjny top-up), Wylis-proof NIETKNIETY (zlapane nim weszlo w ksiegi). KOSZT: ~12 jel awaryjny top-up (zimowy premium) + dzien bez zarobku (kasa 122->110), zmeczenie 6. HOOK: near-North podaz CIENKA pod gleboka zime - wzmocnic redundancje zrodel przed kolejnym sciskiem. Nie katastrofa (prep/doglad contained) ale realna cena+ostrzezenie. Reszta torem: 3 kontrakty doliny, traktat, relief, maszyna. Staple 32 (moze zasilic gap), finanse 5.",
  "ceny": {
   "chleb": {
    "baza": 3,

@@ -5,12 +5,12 @@
   "dzien": 30,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 46,
  "dzien_tygodnia_nr": 4,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-10-30 POLUDNIE (rzut 94, targ rybny - rozpoznanie+intel): Symon zjadl, poszedl na keje. DWIE rzeczy. (1) ROZPOZNANIE (nie ostrzezenie - ewolucja): na nabrzezu witaja go CIEPLO jako 'tego co karmi ubogich przez mroz' - handlarki/rybacy, ktorym relief pomogl, klaniaja sie, ustepuja miejsca; reputacja tarczy slabych sklada sie w kapital publiczny (nie zawisc). (2) INTEL SEZONOWY (jego edge, odczytany bezblednie 94): gadka rzecznych przewoznikow - Bialy Noz ZAMARZA WYZEJ i SZYBCIEJ niz zwykle; kanal rzeczny (ten co juz stanal ~11-13) lodzi sie dalej W DOL -> gorne holdingi (rejon Harrola/Bereny) beda ODCIETE od rzecznej dostawy WCZESNIEJ i TWARDZIEJ te zime. To ZLOTO dla sieci polnocno-ladowej: trakty ladowe Hollis-vetted staja sie JEDYNA linia zycia gornej doliny = dokladnie atut Symona + value-lead do Bereny ('rzeka was odetnie, my dowieziemy ladem'). Kasa 45+zapas 47.",
+ "nastroje_miasta": "297-10-30 POPOLUDNIE (rzut 54, KROK 1 sieci - linia zycia): Symon z Hollisem zabezpieczyl trakty na gleboka zime - trasa glowna+warianty objazdowe+pory przepraw+quartermastering pod podwojne obciazenie (zamek+gentry+guided). Fundament sieci polnocno-ladowej polozony, zasieg Harrola pewny. Uczciwa luka (Hollis oznaczyl): najdalszy gorny odcinek ku Berenie w zabojczym mrozie wymaga forward-depot (skladu posredniego) - prerequisite przed otwarciem Bereny. Hollis 59/25 (ceni ze Symon pyta eksperta nim obieca). Koszt ~8 jel. Kasa 45->37, zapas staple 47. Sekwencja Nesty w toku: dalej podaz near-North (Leona) + depot, potem Berena.",
  "ceny": {
   "chleb": {
    "baza": 3,

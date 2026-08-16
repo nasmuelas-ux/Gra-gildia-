@@ -2341,11 +2341,12 @@
    "stan": "doswiadczony woznica-przewodnik (cech Borena)",
    "zawod": "kwatermistrz szlakow w operacji Symona - wetuje trasy/brody/pory (40 zim bez straconego wozu)",
    "mieszka": "Bialy Port",
-   "nastawienie_do_gracza": 55,
-   "zaufanie": 20,
-   "ostatni_kontakt": "297-10-23",
+   "nastawienie_do_gracza": 59,
+   "zaufanie": 25,
+   "ostatni_kontakt": "297-10-30",
    "wie_o_graczu": [
-    "297-10-23: wpiety przez Borena (po wypadku Hewa) jako kwatermistrz szlakow Symona - zna kazdy zimowy brod/przelecz/pore; wetuje trasy by zaden woz nie wjechal w klamliwy lod. Zrzedliwy, ale niezawodny. Ceni ze Symon uratowal Hewa i myśli systemowo."
+    "297-10-23: wpiety przez Borena (po wypadku Hewa) jako kwatermistrz szlakow Symona - zna kazdy zimowy brod/przelecz/pore; wetuje trasy by zaden woz nie wjechal w klamliwy lod. Zrzedliwy, ale niezawodny. Ceni ze Symon uratowal Hewa i myśli systemowo.",
+    "297-10-30 (rzut 54): Symon przyszedl ZABEZPIECZYC linie zycia na gleboka zime (po intelu z targu: Bialy Noz zamarza wczesnie/wysoko, gorna dolina spadnie na trakty ladowe). Hollis - w swoim zywiole - zmapowal SOLIDNIE: trasa glowna + warianty objazdowe na wypadek zasypu, pory bezpiecznych przepraw, quartermastering przepustowosci pod podwojne obciazenie (zamek+gentry+guided). CENI ze Symon mysli systemowo i pyta EKSPERTA nim obieca (nie odwrotnie). ALE uczciwie oznaczyl JEDNA luke world-grounded: najdalszy GORNY odcinek (ku Wierzbowemu Brodowi/Berenie) w prawdziwym zabojczym mrozie NIEPEWNY bez FORWARD DEPOT/skladu posredniego - woz nie przejdzie non-stop, trzeba etapowac. To nie porazka: fundament polozony dla sieci+zasiegu Harrola, a luka Bereny=konkretny prerequisite (depot) przed krokiem 3. Retainer+prep ~8 jel. nast 55->59, zauf 20->25."
    ]
   }
  ],

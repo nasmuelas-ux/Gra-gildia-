@@ -5,12 +5,12 @@
   "dzien": 12,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 63,
  "dzien_tygodnia_nr": 3,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-12 RANEK (LAGODNIEJ pogoda 63 - okno w zimie; targ rybny): mroz odpuscil, pogodniejszy dzien=OKNO na trakty i handel; rynek odmarza po zamrozeniu, keje zywsze. PORANNY INBOUND: Hollis/Wendel sygnalizuja ze lagodne okno=dobry moment na PROBNA dostawe do ser Ronnela (3. wezel, proof-run ktory odblokuje pelny kontrakt); + targ rybny zywy (drobna szansa handlu). Poza tym maszyna miele, relief trzyma sam, traktat u Theomore'a (czystopis+list w toku). Kasa 96, staple 32, finanse 5, wypoczety. Plan zimy w ruchu: Wylis dowod naprzod, siec 3 wezly, intelektualny pomost aktywny, elewacja dojrzewa. Bertram front.",
+ "nastroje_miasta": "297-11-12 POLUDNIE (rzut 96 ~KRYT, okno wykorzystane wzorowo): DWA fronty landowaly swietnie. (1) RONNEL: proba pchnieta przez lagodne okno dotarla BEZBLEDNIE (Hollis+depot) - 3. wezel praktycznie odblokowany, pelny kontrakt domykalny od reki (66/40), najszybszy z trzech=efekt sieciowy. (2) SUKNO: sprzedane w szczyt zimowego popytu przez odmarzajacy rynek - pozycja korytarza (throttled od 10-17) WRESZCIE zaplacila, zysk ~+22 udzial Symona (½ z Mira), kapital wrocil z marza + repeat-buyer. Staple TRZYMANE na ścisk (dyscyplina). Kasa 96->118. W tle maszyna miele, relief trzyma sam, traktat u Theomore'a. Staple 32, finanse 5, trzy tory gwiazdy id naraz. Plan zimy w ruchu.",
  "ceny": {
   "chleb": {
    "baza": 3,

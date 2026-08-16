@@ -7144,3 +7144,6 @@ Sesja wspólnej pracy okazała się prawdziwą syntezą: Theomore wniósł cytad
 
 ## 297-11-12 RANEK — łagodniejszy dzień: okno w zimie (targ rybny)
 Mróz odpuścił (pogoda 63) — pogodniejszy dzień daje okno na trakty i handel; rynek odmarza po zamrożeniu, keje żywsze, targ rybny wraca. Poranny sygnał: Hollis i Wendel dają znać, że łagodne okno to dobry moment na próbną dostawę do ser Ronnela — proof-run, który odblokuje jego pełny kontrakt (trzeci węzeł). W tle maszyna mieli, relief trzyma się sam, a traktat u Theomore'a (czystopis i list w toku).
+
+## 297-11-12 RANEK→POŁUDNIE — okno wykorzystane wzorowo (rzut 96, ~kryt)
+Łagodne okno w zimie zagrane bezbłędnie na dwa fronty. Ronnel: próbna dostawa pchnięta przez okno (Hollis-vetted, depot Wendla) dotarła bez rysy — a że rycerz był już predysponowany ręczeniem sąsiadów, czysty proof praktycznie odblokował jego pełny kontrakt zimowy (66/40); trzeci węzeł, najszybszy z trzech — efekt sieciowy potwierdzony. Sukno: sprzedane w szczyt zimowego popytu przez odmarzający rynek — pozycja korytarza, throttled od 10-17, wreszcie zapłaciła; zysk ~+22 do udziału Symona (½ z Mirą), kapitał obrotowy wrócił z marżą plus repeat-buyer. Staple świadomie trzymane na ścisk (dyscyplina Nesty — nie dumpować w dołek). Właściwy read „co sprzedać" (sukno tak, staple nie) nagrodzony. Kasa 96→118.

@@ -12,7 +12,7 @@
  "zmeczenie": 3,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 130,
+  "jelenie": 134,
   "smoki": 0
  },
  "dobytek": [
@@ -164,7 +164,7 @@
   "spryt_uliczny": 130,
   "handel": 157,
   "geometria": 22,
-  "finanse": 55,
+  "finanse": 56,
   "wlodarstwo": 83
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
@@ -195,7 +195,8 @@
   "merrek_wspolnik_podazy_09_28": "MERREK WSPOLNIK ZIMOWEJ PODAZY (od 09-28): z dostawcy w udzialowca - udzial w podazy + underwriting jego bytu + ochrona (widocznosc: ludzie Brana na skladzie, oko Wiary/firmy). Zwiazany wdziecznoscia (Symon stanal miedzy jego rodzina a grozba pierscienia). SWIADEK: pierscien grozil mu podpaleniem i krzywda dzieci. Koszt: udzial+underwriting exposure+ -8 jel oslona.",
   "oslona_wspolnikow_09_28": "OSLONA (postawiona 09-28, rzut 81): warta ludzi Brana NOCA na skladach Merreka+Torwyna + fire-prewencja (woda/piasek, uprzatniete podpalki), oko Wiary (septy=obcy nie przejdzie), zyczliwosc portu. KLUCZ: pre-zatrucie broni - Godric i Theomore UPRZEDZENI ze dostawcy grozeni i 'wypadek'=pierscien; podpalenie staje sie samobojstwem (spodziewana zbrodnia wskazuje na nich u uszu ktore zaczynaja sluchac). Deterrent wysoki, prawdopodobny cios (pozar u wspolnika) WPOL ROZBROJONY zanim padnie. Symon+Mira: czujnosc, ludzie Brana blisko, nie sami po zmroku. Trwa do dnia ciosu.",
   "rola_zimowa_warrant_lorda": "PROWIANTOWANIE ZIMOWE ZAMKU - FORMALIZOWANE PIECZECIA LORDA MANDERLY (297-09-30): to co Aldric blokowal, lord nadal sam pelnym warrantem; firma bierze zimowe prowiantowanie zamku pod pieczecia Manderly'ego. Drzwi, ktore wrog trzymal, otworzyl LORD. Niezastepowalnosc formalna, nie tylko de facto.",
-  "ucho_lorda_manderly": "UCHO LORDA WYMANA MANDERLY (od 297-09-30): lord zna imie Symon Tally DOBRZE i z szacunkiem (rozdal chwale zamiast zagarnac); drzwi domu lorda uchylone dla nieszlachcica; wezwanie 'przyjdziesz gdy po ciebie posle'. PIERWSZY prawdziwy szczebel drabiny do rady Starkow (Manderly=najpotezniejszy chorazy Starkow). Gwiazda polnocna z marzenia w droge."
+  "ucho_lorda_manderly": "UCHO LORDA WYMANA MANDERLY (od 297-09-30): lord zna imie Symon Tally DOBRZE i z szacunkiem (rozdal chwale zamiast zagarnac); drzwi domu lorda uchylone dla nieszlachcica; wezwanie 'przyjdziesz gdy po ciebie posle'. PIERWSZY prawdziwy szczebel drabiny do rady Starkow (Manderly=najpotezniejszy chorazy Starkow). Gwiazda polnocna z marzenia w droge.",
+  "weksle_uwaga_11_16": "297-11-16: przy porzadkach z Nesta wyszlo, ze JEDEN dluznik weksla (z 200 jel niezabezp.) chwieje sie pod zima (zima sciska dluznikow) - nie strata, ale do PILNOWANIA/ewentualnego workoutu (przedluzyc/zabezpieczyc). Reszta portfela weksli zdrowa."
  },
  "licznik_uzyc": {
   "audyt": 11,

@@ -93,3 +93,35 @@ DWA OSOBNE PRZEDSIEBIORSTWA z udzialami w obie strony:
 - **CZYJA ODPOWIEDZIALNOSC:** dlug jest NESTY (jej obligacja, na jej nazwisko, po JEJ stronie faktorii = jej ~53%/rdzen/relacja z Antaryonami). NIE jest dlugiem: firmy Symona, wspolnych przedsiewziec, ani osobistym Symona. Kapital Symona w rotacji (~450 jel) i jego ~47% equity = jego, NIEOBCIAZONE tym dlugiem.
 - **EKSPOZYCJA POSREDNIA SYMONA:** dlug wisi nad faktoria, ktorej Symon ma 47%. Gdyby Antaryonowie ja przejeli (hak dlugu), padlby caly byt - lacznie z udzialem Symona i korytarzem. DLATEGO pomoc w refi to nie tylko szlachetnosc, lecz OBRONA WARTOSCI 47% Symona. Interes zbiezny.
 - SKROT: dlug personalny w sensie "czyja obligacja" (Nesty), ale biznesowy w naturze (kapital faktorii nie konsumpcja); nie siedzi na udziale Symona, lecz wisi nad wspolnym bytem.
+
+## MODEL MARŻ (formalizacja 297-10-23; roboczy, kalibrowalny) — netto do SYMONA
+_Skala uboga (1 jeleń=100 mied). Marże = spread (koszt all-in vs cena dostawy) + premia za niezawodność. Wysoki wolumen / cienka marża. Kwoty netto po kosztach linii; koszty operacyjne firmy osobno niżej._
+
+| Linia towarowa | Marża/cykl | Częstotl. | /mies TERAZ | /mies PRZY SKALI |
+|---|---|---|---|---|
+| Prowiant zamek (Wylis, scaled) | ~10–12 | co ~5–7 dni | ~45 | ~65 (pełna stała umowa) |
+| Prowiant Ser Harrol (gentry) | ~4–6 | co ~7–10 dni | ~0 (na włosku) | ~12–15 (po odbudowie) |
+| Drewno→opał zamek (Bennet) | ~6–8 | co ~7 dni | ~20 | ~30 (opał zimą) |
+| Żelazo Gulltown (off-take/komis) | ~8–12/partia | okazjonalnie | ~15 | ~25 |
+| Rotacja zboże-sól (faktoria, ~82% kap.) | plon ~12–20 | co cykl | ~18 (+6 baza) | ~30 (+6) |
+| Korytarz sukna (½ Symona, z Mirą) | — | — | ~6 (throttled) | ~15 (wełna+Braavos wiosną) |
+| Firma faktorska (audyty+retainery, 2/3) | audyt +4…+13; retainery stałe | ciągłe | ~40 | ~55 |
+| **GROSS netto Symona / mies** | | | **~145** | **~215** |
+
+### KOSZTY OPERACYJNE (/mies, strona Symona)
+- Wage line (Hal na udziale, Deman, Lorren-prowizja, Garrick, Corliss, Tam/Wick): ~40
+- Bran zarządca 8 · Boren haul-retainer 6 · Hollis kwatermistrz szlaków ~4
+- Cło portowe ~10 (co ~20.) · household/życie ~15 · relief (zmienne, ~5–15)
+- **RAZEM ~85–95 / mies**
+
+### NET (/mies, roboczo)
+- **TERAZ: ~55–65 jel/mies** netto (przy obecnej skali)
+- **PRZY PEŁNEJ SKALI (stała umowa Wylisa + Harrol odbudowany + żelazo/wełna): ~120–130 jel/mies**
+- WARIANCJA duża: incydenty zimowe (bród −15, bufor −20, frost-scramble −8) i inwestycje (faktoria/korytarz) potrafią zjeść miesiąc; audyty dają skoki w górę. Symon zwykle REINWESTUJE plon (equity), stąd cienka wolna gotówka mimo dodatniego netto.
+
+### ZASADA KSIĘGOWANIA (od 297-10-23)
+- Każda UDANA dostawa books realny + wg tabeli (np. cykl prowiantu zamek = +~11).
+- Incydent (strata/scramble/make-good) books − wprost (jak bród −15, make-good −15).
+- Rzut dostawy moduluje: sukces=pełna marża; sukces-z-kosztem=marża minus koszt; porażka=strata/koszt.
+- Retainery/rotacja/baza kapią automatycznie /mies; audyty per-sesja jak dotąd.
+- Model KALIBROWALNY — korygować, gdy skala/ceny się zmienią.

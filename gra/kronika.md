@@ -7246,3 +7246,6 @@ Symon z Nestą ustawili się pod wiosenny refi — nie odpalając (Braavos zamar
 
 ## 297-11-19 WIECZÓR — nauka matematyki (rzut 70)
 Wieczorna, produktywna sesja nad głębszą matematyką monety (braavijskie teksty, rama i mentorstwo Theomore'a) — realne zrozumienie, finanse dojrzewają dalej (licznik →64; poziom 7 przy ~90, stopniowo). Zima jako czas dla umysłu wykorzystana. Dzień mocny domknięty: dom sukna Miry wystartował, refi sprimowany na wiosnę, matematyka naostrzona.
+
+## 297-11-19 WIECZÓR — rozmowa z Mirą: „może" staje się nadzieją
+Mira, krucho, głosem, którego Symon u niej nie znał, wyznała narastające znaki: dwa tygodnie spóźnienia, poranne mdłości (od zapachu tłuszczu, ona, która nigdy), inne zmęczenie. „Liczby się zbierają, a ja jestem od liczb tak samo jak ty; chyba czas przestać udawać, że to nic." W jej oczach walka: stara rana, która nie pozwala wierzyć, i nadzieja, która mimo wszystko przebija. „Może" sprzed tygodnia zaczyna być ostrożnie nazywane nadzieją. Ustalili spokojnie: pójść do zielarki albo mądrej kobiety (Mira zna dyskretną) po pewność, we dwoje — nie ogłaszać (za wcześnie, i jej historia każe być ostrożną). „Jak będzie prawda, to znaczy, żeśmy zbudowali dom akurat na czas." Dzień mocny na wielu frontach, ale ten wieczór ważył najwięcej.

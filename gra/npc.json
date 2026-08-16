@@ -2384,6 +2384,21 @@
    "wie_o_graczu": [
     "297-10-20 (rzut 48): NOWY KLIENT przez cieply referral Lorrena (od zadowolonego klienta). Podejrzewal skim dostawcy - Symon wziął audyt+retainer, domknal czysto (+5 jel initial + ~3 jel/mies). Ceni dyskretnego rzetelnego reckonera lord-connected. Cicha, wlasciwa akwizycja (zaufany kanal, nie glosne lowy)."
    ]
+  },
+  {
+   "id": "ser_harrol",
+   "imie": "ser Harrol",
+   "przydomek": "z Kamiennego Brodu",
+   "wiek": null,
+   "stan": "rycerz z nadania (gentry)",
+   "zawod": "rycerz z nadania, zaprzysiezony Manderlym; trzyma holdfast+wies w gore Bialego Noza (~kilkuset dusz)",
+   "mieszka": "Kamienny Brod (w gore Bialego Noza)",
+   "nastawienie_do_gracza": 40,
+   "zaufanie": 12,
+   "ostatni_kontakt": "297-10-22",
+   "wie_o_graczu": [
+    "297-10-22 (rzut 50): pierwszy kontakt. Ser Harrol (dumny rycerz, stary wlodarz podupadl, umowa na zboze pekla przed zima=chudnace spichrze) przyjechal po pewna reke, przez referral Godrica. Symon zagral autentycznie - szacunek bez plaszczenia, liczby, pewna reka co nie czyni z rycerza przypadku charytatywnego (godnosc). ZAWARLI skromny kontrakt zimowego prowiantowania (wolna pojemnosc Symona, castle-first nietkniety, frost-proof struktura, uczciwe warunki). Harrol pragmatyczny+wdzieczny, ale dumny=zaufanie dojrzeje przez dowiedziona dostawe zimy. Symon: pierwszy klient z KRWI/NADANIA (nie kupiec) - rycerz zna jego imie. nast 40, zauf 12."
+   ]
   }
  ]
 }

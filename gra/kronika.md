@@ -6870,3 +6870,10 @@ Na uwagę gracza doprecyzowano skille (organizacja była za ogólna):
 - **finanse** (start 4) — matematyka finansowa/braavijska (moneta/kredyt/ryzyko, poziom Banku); self-study z tekstów, Nesta=drzwi nie mistrz.
 - **wlodarstwo** (start 6) — ekonomia i zarządzanie domeną/lennem: stewardstwo, prowiantowanie, zapasy, logistyka skali, gospodarka sezonowa, prowadzenie wielkiego gospodarstwa/Północy. RDZEŃ gwiazdy (człowiek rady Starków = włodarz Północy). Start 6 bo Symon praktykuje to de facto (castle-provisioning, relief, łańcuch logistyczny).
 Rozróżnienie: organizacja (ogólna koordynacja) · rachunki (księgowość) · finanse (matematyka monety) · handel (kupno/sprzedaż) · włodarstwo (gospodarka domeny). Glosariusz zapisany w postac.json.
+
+## 297-10-22 RANEK→POŁUDNIE — Kontrakt z Ser Harrolem: pierwszy klient z krwi (rzut 50)
+Symon poszedł domknąć referral Godrica. Ser Harrol z Kamiennego Brodu — rycerz z nadania, Manderly-sworn — przyjechał do miasta (pilność: stary włodarz podupadł, umowa na zboże pękła przed zimą, spichrze chudną). Symon zagrał właściwym rejestrem gentry, autentycznie: szacunek bez płaszczenia, liczby mówią, pewna ręka, która nie czyni z dumnego rycerza przypadku charytatywnego (godność zachowana).
+
+**Kontrakt zawarty:** skromne zimowe prowiantowanie holdingu na **wolnej pojemności** (castle-first nietknięty), frost-proof struktura, uczciwe warunki. Kapitałolekko — leveruje zahartowaną maszynę, near-North sourcing, haul Borena. +4 jel initial (kasa 55→59) + zimowy strumień marży.
+
+**Znaczenie (arc):** pierwszy klient z **krwi i nadania**, nie kupiec — krok z kupieckiego świata w gentry; **rycerz zna teraz imię Symona.** Szczebel ku włodarzowi Północy (rdzeń gwiazdy; nowy skill włodarstwo w praktyce). Głębszy prestiż/zaufanie Harrola dojrzeje przez dowiedzioną dostawę zimy (jak przy Wylisie). Nowy NPC ser_harrol (40/12), nowy wątek prowiant_ser_harrol. Pora RANEK→POŁUDNIE.

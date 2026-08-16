@@ -7219,3 +7219,6 @@ Zimny dzień, targ rybny. Wielki poranny inbound: dłużnik weksla, ten wypatrzo
 
 ## 297-11-18 RANEK→POŁUDNIE — dłużnik przedłużony po ludzku (rzut 41)
 Symon dał kupcowi Rewanowi, ściśniętemu zimą, czas — uczciwe nowe terminy, lekki procent za zwłokę, zero wstydu i nacisku („spłacisz, gdy odwilż ruszy obrót"). Rewan głęboko wdzięczny i lojalny (72/40): Symon podał rękę w mrozie, gdy mógł przycisnąć. Kapitał zachowany i odzyskiwalny z procentem (nie strata, tylko odroczenie), goodwill zyskany, drobny earnest dobrej woli +2 (kasa 145). Weksel zabezpieczony goodwillem, nie zastawem. Reputacja: „Tally daje czas w mróz" — uczciwy wierzyciel, co jest cenne dla rosnącego kredytowania, a tarcza słabych i uczciwe liczby idą tu razem. Rada Nesty potwierdzona; Rewan zostaje lojalnym kontaktem.
+
+## 297-11-18 POŁUDNIE→POPOŁUDNIE — zarobek suchy: zimowy zastój (rzut 10)
+Symon szukał roboty, ale trafił na głęboki zimowy zastój — nawet nisza i firma mają martwe dni: klienci skuleni, brak nowej roboty audytowej w ruchu, cichy klient cichy ten cykl, retainery już zaksięgowane. Sesja jałowa, bez zarobku (kasa 145 bez zmian). To nie strata ani błąd — zimowy dochód jest lumpy; pewny floor to steady strumienie pasywne (~54/mies, kapiące 1. dnia), nie codzienny hustle. Dzień i tak dobry: dłużnik przedłużony po ludzku rano, reszta wszystko torem.

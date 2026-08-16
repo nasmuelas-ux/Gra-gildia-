@@ -2349,6 +2349,30 @@
     "297-10-23: wpiety przez Borena (po wypadku Hewa) jako kwatermistrz szlakow Symona - zna kazdy zimowy brod/przelecz/pore; wetuje trasy by zaden woz nie wjechal w klamliwy lod. Zrzedliwy, ale niezawodny. Ceni ze Symon uratowal Hewa i myśli systemowo.",
     "297-10-30 (rzut 54): Symon przyszedl ZABEZPIECZYC linie zycia na gleboka zime (po intelu z targu: Bialy Noz zamarza wczesnie/wysoko, gorna dolina spadnie na trakty ladowe). Hollis - w swoim zywiole - zmapowal SOLIDNIE: trasa glowna + warianty objazdowe na wypadek zasypu, pory bezpiecznych przepraw, quartermastering przepustowosci pod podwojne obciazenie (zamek+gentry+guided). CENI ze Symon mysli systemowo i pyta EKSPERTA nim obieca (nie odwrotnie). ALE uczciwie oznaczyl JEDNA luke world-grounded: najdalszy GORNY odcinek (ku Wierzbowemu Brodowi/Berenie) w prawdziwym zabojczym mrozie NIEPEWNY bez FORWARD DEPOT/skladu posredniego - woz nie przejdzie non-stop, trzeba etapowac. To nie porazka: fundament polozony dla sieci+zasiegu Harrola, a luka Bereny=konkretny prerequisite (depot) przed krokiem 3. Retainer+prep ~8 jel. nast 55->59, zauf 20->25."
    ]
+  },
+  {
+   "id": "lady_berena",
+   "imie": "lady Berena",
+   "przydomek": "z Wierzbowego Brodu",
+   "zawod": "wdowa-wlodarka, sama gospodaruje holdfast+wies w gore Bialego Noza (Manderly-sworn); maz padl, spichrze cienkie po chudym roku",
+   "nastawienie_do_gracza": 42,
+   "zaufanie": 10,
+   "ostatni_kontakt": "297-10-31",
+   "wie_o_graczu": [
+    "297-10-31 (INBOUND 100): SAMA sie odezwala - posłaniec z Wierzbowego Brodu z ostroznym, dumnym zapytaniem; doszla ja gentry-plotka (ludzie Harrola + krag Godrica) o 'tym co dowozi w gore gdy rzeka zamarza'. Jej rzeka bierze wczesnie=realny klopot, spichrze cienkie, maz w grobie. Dumna, nie prosi o litosc - PYTA czy Symon to czlowiek z ktorym wdowa moze uczciwie usiasc do rozmowy o zaopatrzeniu zimowym.",
+    "297-10-31 (odpowiedz Miry): Symon+Mira zagrali madrze - MIRA (sama byla wdowa 'ktora pol portu chcialo kupic za bezcen') odpisala w rejestrze wdowa-do-wdowy: cieplo, z szacunkiem dla jej godnosci gospodarza (nie litosc, nie interes), BEZ pustej obietnicy przed pewnoscia dostawy. List otwiera drzwi i kupuje dni. Berena, potraktowana jak gospodarz ktorym jest (nie przypadek charytatywny), odbiera to dobrze - drzwi cieple, spotkanie na horyzoncie gdy Symon przyjdzie z DOWODEM nie slowem. nast->42, zauf->10 (ostroznie cieplo)."
+   ]
+  },
+  {
+   "id": "chlop_wendel",
+   "imie": "Wendel",
+   "zawod": "chlop-gospodarz w pol drogi w gore doliny (near-North, ladem); puste stodoly po chudym roku -> FORWARD-DEPOT/stage Symona pod gorny odcinek",
+   "nastawienie_do_gracza": 58,
+   "zaufanie": 20,
+   "ostatni_kontakt": "297-10-31",
+   "wie_o_graczu": [
+    "297-10-31 (rzut 39): Symon przyjechal za dnia (pogoda 70) domknac forward-depot - reczenie Leony otworzylo drzwi. Wendel (twardy, praktyczny chlop, chudy rok) chetny: puste stodoly=dochod z niczego. UMOWA: stage/sklad posredni towaru miedzy kursami w gore doliny za oplate. KOSZT-CATCH (rzut solidny nie perfekcyjny): Wendel chcial czesc z gory (chudy rok, nie ufa na slowo obcemu z portu) + stodola wymaga drobnego ogarniecia pod towar zimowy = ~6 jel zamiast ~4. Pojemnosc na START sieci (nie nieograniczona). DEPOT DZIALA: gorny odcinek ku Berenie teraz WYKONALNY (etapowanie rozwiazane, luka Hollisa zamknieta). nast 58, zauf 20."
+   ]
   }
  ],
  "orbita": [

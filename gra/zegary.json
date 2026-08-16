@@ -462,8 +462,8 @@
   {
    "id": "wypadek_brod_harrol",
    "typ": "kryzys (natychmiastowy)",
-   "stan": "OTWARTY 297-10-23 RANEK",
-   "opis": "WYPADEK PRZY KAMIENNYM BRODZIE (rzut 2): woz+zaprzeg pod lodem na przeprawie, towar stracony (~15 jel), MLODY WOZNICA cechu Borena przemarzniety/ranny w lodowatej wodzie - ZYWY ale w niebezpieczenstwie, potrzeba SZYBKIEJ opieki (jego los=stawka reakcji Symona). Castle-dostawa bezpieczna (castle-first held). STAWKI REAKCJI: (1) uratowac/wyleczyc rannego (ludzka+Boren); (2) uczciwie stanac wobec Ser HARROLA - pierwsza dostawa=katastrofa, relacja z gentry-klientem wisi na tym JAK to obsluzy (owned+made-right buduje wiecej niz gladka dostawa); (3) Boren - jego czlowiek ranny, jak Symon zadba=stawka sojuszu. NEXT: reakcja gracza (ratunek->opieka->Harrol->Boren)."
+   "stan": "CZESCIOWO ROZWIAZANY 297-10-23 (rzut 100): RANNY URATOWANY",
+   "opis": "WYPADEK PRZY KAMIENNYM BRODZIE (rzut 2): woz+zaprzeg pod lodem na przeprawie, towar stracony (~15 jel), MLODY WOZNICA cechu Borena przemarzniety/ranny w lodowatej wodzie - ZYWY ale w niebezpieczenstwie, potrzeba SZYBKIEJ opieki (jego los=stawka reakcji Symona). Castle-dostawa bezpieczna (castle-first held). STAWKI REAKCJI: (1) uratowac/wyleczyc rannego (ludzka+Boren); (2) uczciwie stanac wobec Ser HARROLA - pierwsza dostawa=katastrofa, relacja z gentry-klientem wisi na tym JAK to obsluzy (owned+made-right buduje wiecej niz gladka dostawa); (3) Boren - jego czlowiek ranny, jak Symon zadba=stawka sojuszu. NEXT: reakcja gracza (ratunek->opieka->Harrol->Boren). || 297-10-23 (rzut 100 KRYT): (1) RANNY HEW URATOWANY CZYSTO (Symon osobiscie, przed liczeniem strat) - leg zamkniety triumfalnie; Boren sojusz na poziomie krwi (94/49); nabrzeze widzi charakter (tarcza slabych, gwiazda). ZOSTAJE: (2) SER HARROL - stanac uczciwie wobec straconej 1. dostawy (ale teraz z pozycji dowiedzionego charakteru, nie wstydu; owned+make-right); (3) make-good towaru. NEXT: Harrol."
   }
  ]
 }

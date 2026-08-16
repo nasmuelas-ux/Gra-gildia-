@@ -5,12 +5,12 @@
   "dzien": 23,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 95,
  "dzien_tygodnia_nr": 4,
  "dzien_targowy": null,
- "nastroje_miasta": "297-10-23 RANEK (dwufrontowa dostawa, rzut 2 = powazna komplikacja; prep kontenowal): WYPADEK PRZY BRODZIE na trasie do Harrola - woz+zaprzeg zalamal sie pod lodem na przeprawie Kamiennego Brodu (brod zimą smiertelny, nowa trasa). TOWAR w wiekszosci STRACONY (~15 jel, kasa 72->57); MLODY WOZNICA cechu Borena wpadl w lodowata wode - wyciagniety ZYWY ale przemarzniety/ranny, w NIEBEZPIECZENSTWIE (potrzeba szybkiej opieki - jego los=stawka reakcji). PREP KONTENOWAL: castle-first=dostawa zamkowa OSOBNA i BEZPIECZNA (katastrofa uderzyla front Harrola NIE line zycia/dowod Wylisa - strategia validated). KRYZYS: pierwsza dostawa do Harrola=katastrofa (relacja z nowym gentry-klientem zagrozona); czlowiek Borena ranny (stawka Boren+ludzka). REDEMPCJA=reakcja Symona (ratunek/opieka + uczciwe stanie wobec Harrola/Borena). Kasa 57. DECYZJA GRACZA: jak reaguje.",
+ "nastroje_miasta": "297-10-23 POLUDNIE (ratunek rannego, rzut 100 KRYT - odkupienie katastrofy): Symon rzucil wszystko i uratowal OSOBISCIE mlodego woznice Hewa (czlowiek Borena) z lodu przy Kamiennym Brodzie ZANIM policzyl stracony towar - Hew przezyl czysto. BOREN sojusz na poziomie KRWI (nast 90->94 zauf 43->49, 'uratowales mi chlopaka'). NABRZEZE: widocznosc WLASCIWA (tarcza slabych w czynie=gwiazda, nie 'gbur ponad stan'). Katastrofa (towar ~15 stracony) obrocona w TRIUMF CHARAKTERU. Koszt opieki ~5 jel (kasa 57->52). ZOSTAJE: stanac uczciwie wobec SER HARROLA (stracona 1. dostawa - ale z pozycji dowiedzionego charakteru; owned+make-right). Zamek bezpieczny (castle-first held). NEXT: Harrol. Kasa 52.",
  "ceny": {
   "chleb": {
    "baza": 3,

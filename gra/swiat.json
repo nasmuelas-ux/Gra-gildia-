@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 30,
+  "dzien": 31,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 46,
- "dzien_tygodnia_nr": 4,
- "dzien_targowy": "ryby",
- "nastroje_miasta": "297-10-30 WIECZOR (rzut 16, depot nie domkniety - odpoczynek): Symon zjadl, odpoczal po pracowitym popoludniu (linia zycia+podaz zbudowane). Sprobowal jeszcze domknac forward-depot (gosp. Wendla) - ale wieczorem/zima/pol-dnia w gore doliny=Wendla nie zlapiesz na noc; taki uklad trzeba zrobic PORZADNIE za dnia. Trop CALY i cieply (Leona reczy, Wendel motywowany), zero straty - lekcja: depot za wazny na pospieszne domkniecie noca. Fundament sieci (droga+towar) stoi; brakuje tylko depotu (za dnia) -> potem Berena. Kasa 32, zapas 47, sytosc odbudowana. guided-haul jedzie caly czas.",
+ "pogoda": 70,
+ "dzien_tygodnia_nr": 5,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-10-31 RANEK (INBOUND 100 - Berena sama sie odzywa!): pogodny, chlodny dzien (pogoda 70 - dobry na trakt w gore doliny). PORANNY INBOUND: posłaniec z Wierzbowego Brodu - LADY BERENA sama przysyla ostrozne zapytanie. Doszla ja gentry-plotka (ludzie Harrola+krag Godrica): 'ten z portu co dowozi w gore gdy rzeka zamarza'. Wie ze rzeka bierze wczesnie (jej wlasny klopot), spichrze cienkie, maz padl - dumna ale pragmatyczna wdowa PYTA czy Symon zechce z nia rozmawiac o zaopatrzeniu. To PULL nie push (popyt przyszedl sam, wczesniej niz fundament gotowy!). NAPIECIE z sekwencja Nesty: depot (gorny odcinek) JESZCZE nie domkniety - obietnica przed fundamentem=ryzyko brodu. Dyscyplina: odpowiedziec cieplo+szczerze, kupic dni na depot, nie przeobiecac. Fundament: linia zycia+podaz stoja, depot=trop cieply do domkniecia za dnia (dzis pogoda sprzyja). Kasa 32, zapas 47.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -19,8 +19,8 @@
   },
   "ryba": {
    "baza": 2,
-   "mnoznik": 0.9,
-   "przyczyna": "targ rybny - swieza podaz, ceny w dol"
+   "mnoznik": 1.0,
+   "przyczyna": "nie dzien targowy"
   },
   "pergamin": {
    "baza": 40,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 30,
+ "dzien": 31,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

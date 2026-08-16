@@ -7000,3 +7000,6 @@ Prosto od Hollisa do Leony — po towar, który wypełni zabezpieczone trakty. L
 
 ## 297-10-30 WIECZÓR — odpoczynek + nieudana próba depotu (rzut 16)
 Po pracowitym popołudniu (linia życia + podaż w jedno popołudnie) Symon zjadł i odpoczął. Spróbował jeszcze domknąć forward-depot u Wendla wieczorem — ale pół dnia w górę doliny, ciemno, zima: Wendla nie złapiesz posłańcem na noc. Taki układ trzeba domknąć porządnie za dnia, nie na łapu-capu zmęczonym wieczorem. Trop cały i ciepły (ręczenie Leony trzyma, Wendel motywowany — puste stodoły, chudy rok), zero straty. Lekcja: depot za ważny na pospieszne domknięcie nocą. Do zrobienia za dnia — potem droga górna ku Berenie pewna.
+
+## 297-10-31 RANEK — Berena odzywa się sama (inbound 100)
+Dzień wstaje pogodny i chłodny (dobry na trakt w górę doliny). Poranny posłaniec z Wierzbowego Brodu: lady Berena sama przysyła ostrożne zapytanie. Doszła ją gentry-plotka — od ludzi Harrola i z kręgu Godrica — o „tym z portu, co dowozi w górę, gdy rzeka zamarza". Jej rzeka bierze wcześnie, spichrze cienkie, mąż padł; dumna, ale pragmatyczna wdowa pyta, czy Symon zechce z nią rozmawiać o zaopatrzeniu. Popyt przyszedł sam — wcześniej, niż fundament (depot) gotowy. Napięcie z sekwencją Nesty: nie przeobiecać przed domknięciem górnej linii.

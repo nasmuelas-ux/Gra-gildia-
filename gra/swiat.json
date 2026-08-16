@@ -5,12 +5,12 @@
   "dzien": 15,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 2,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-15 POPOLUDNIE (rzut 52, 2. sztorm zwiedziony GLADKO ze STEWARDA): Symon dowodzil z CENTRUM, ufajac systemowi - i zdal WZOROWO, kontrast do 1. sztormu (brniecie osobiste+ciezki koszt). Multi-source pokryl luki AUTOMATYCZNIE, relief-instytucja niosla (fundusz+rezerwa+Bran/Wiara, nikt osiagalny nie zamarzl), depot/warianty/Hollis utrzymaly holdingi (Harrol/Berena/Ronnel bezpieczni mimo zebow sztormu), castle-first caly (Wylis proof+2/+2). KOSZT MINIMALNY ~-6 (vs -58 przy 1. sztormie) - system wchlonal, nie Symon. WIDOCZNY kontrast gdy czesc regionu cierpi=twardy dowod 'dowiez zime' dla Wymana, elewacja dojrzewa mocno (dwie zabojcze zimy zwiedzione, 2. wzorowo). Cala arka hartowania (relief-instytucja+multi-source+depot+redundancja) VALIDATED pod maks. Kasa 131->125, staple 32, finanse 6, zmeczenie 4 (koordynacja nie brniecie). Sztorm trwa.",
+ "nastroje_miasta": "297-11-15 WIECZOR (rzut 17, doglad krancow znalazl szczeline): system trzymal rdzen wzorowo, ALE doglad wykryl na KRANCU reliefu szczeline - dusze na obrzezu (spoza listy triazu/nowoprzybyli) prawie przeoczeni w 2. sztormie, realny bliski los. Symon ZLAPAL (steward-value=ostatnia warstwa) i zareagowal od reki (Bran+pomoc dotarli, uratowani). SOBER: nawet dobra instytucja ma LUDZKI KRANIEC ktorego system nie automatyzuje - dyscyplina dogladania to co lapie edge. Koszt ~-4 (kasa 125->121)+wysilek (zmeczenie 5). LEKCJA: poszerzyc liste triazu o obrzeza/nowych. Bilans: 2 sztormy zwiedzione, system validated, ale pokora=edge zawsze wymaga czlowieka. Staple 32, finanse 6, sztorm slabnie.",
  "ceny": {
   "chleb": {
    "baza": 3,

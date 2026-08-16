@@ -7213,3 +7213,6 @@ Wieczór przy ogniu, rozmowa bez strategii. Symon opowiedział o stałym warranc
 
 ## 297-11-17 NOC — legendy na dobranoc
 Symon czytał Mirze północne legendy przy jednej świecy: Długą Noc i Ostatniego Bohatera (mróz za oknem), przybycie Manderlych z Reach na Północ (przybysze z niczego, którym Starkowie dali Biały Port, a wyrośli na wielkich — Mira: „nic ci to nie przypomina, mężu?"), i Symeona Gwiazdoocznego (Mira sennie: „Symeon... Symon... może o tobie kiedyś napiszą"). Ciepły, intymny wieczór; ciche „może" o dziecku niczym początek jakiejś opowieści. Zasnęli pod jednym kocem, stare legendy Północy w powietrzu.
+
+## 297-11-18 RANEK — chwiejący się dłużnik przychodzi (inbound 85)
+Zimny dzień, targ rybny. Wielki poranny inbound: dłużnik weksla, ten wypatrzony przy porządkach 11-16, sam przychodzi do Symona — drobny kupiec ściśnięty zimą, nie może spłacić w terminie, uczciwy i zawstydzony, prosi o czas. To test charakteru, finansów i reputacji naraz: Symon jest wierzycielem, ale też człowiekiem, u którego liczby wychodzą prawdziwe, i tarczą słabych. Rada Nesty stoi: nie naciskać, przedłużyć po ludzku — odzyskać z procentem i goodwillem, nie robić sobie wroga w mieście, gdzie właśnie rośnie.

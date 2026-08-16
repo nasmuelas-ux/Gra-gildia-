@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 17,
+  "dzien": 18,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 76,
- "dzien_tygodnia_nr": 1,
- "dzien_targowy": null,
- "nastroje_miasta": "297-11-17 NOC->kolejny dzien: cichy wieczor - Symon czytal Mirze polnocne legendy (Dluga Noc/Ostatni Bohater, przybycie Manderlych z Reach na Polnoc=przybysze z niczego wyrosli na wielkich [Mira: 'nic ci to nie przypomina?'], Symeon Gwiazdooczny [Mira sennie: 'Symon... moze o tobie napisza']). Cieply intymny beat, 'moze' o dziecku jak poczatek opowiesci. Bilans: staly warrant zamku, kasa 143, finanse 6, wlodarstwo blisko 7, 3 kontrakty doliny, traktat+sponsor ku Winterfell, relief-instytucja, elewacja dojrzewa. Plan zimy: maintain+pozycjonowac na wiosenny refi.",
+ "pogoda": 21,
+ "dzien_tygodnia_nr": 2,
+ "dzien_targowy": "ryby",
+ "nastroje_miasta": "297-11-18 RANEK (mroz 21, targ rybny; INBOUND 85 - chwiejacy sie dluznik przychodzi): zimny dzien. WIELKI INBOUND: chwiejacy sie DLUZNIK WEKSLA (ten z porzadkow 11-16, z 200 jel niezabezp.) sam przychodzi do Symona - drobny kupiec sciśniety zima, NIE moze splacic w terminie, uczciwy+zawstydzony, prosi o CZAS. TEST charakteru+finansow+reputacji: Symon to wierzyciel ALE tez 'czlowiek u ktorego liczby wychodza prawdziwe' + tarcza slabych. Rada Nesty (11-16): NIE naciskac, przedluzyc po ludzku=odzyskac z procentem+goodwill, nie robic wroga w miescie gdzie rosnie. Opcje: przedluzyc/restrukturyzowac (zastaw)/nacisnac. W tle: staly warrant zamku, 'moze' o dziecku, kasa 143, 3 kontrakty doliny, traktat+sponsor. Nastepny krok=decyzja wobec dluznika.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.15,
-   "przyczyna": "odwilz-okno (76) - opal spokojnie"
+   "mnoznik": 1.35,
+   "przyczyna": "mroz (21) - opal wysoko"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 17,
+ "dzien": 18,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

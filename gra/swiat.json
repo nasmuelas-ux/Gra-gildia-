@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 5,
+  "dzien": 6,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 2,
- "dzien_tygodnia_nr": 3,
- "dzien_targowy": null,
- "nastroje_miasta": "297-11-05 WIECZOR (rzut 71, ciag dalszy zabezpieczony + swoi bezpieczni): mimo wyczerpania Symon (C) zaryglowal opal+podaz na kolejne dni sztormu przez skladki Aurane + near-North Leony PRZED dalszym spikiem/wyczerpaniem (wyprzedzil froth jak przy staplu; sciezka odbudowy rezerwy gotowa na przerwe), koszt ~10 jel storm-premium madry. (D) Sprawdzil swoich - WSZYSCY bezpieczni: Bran-dozorca utrzymal kamieniczke cieplo (opal lokatorom Jonna/Osric/Hal, Alys przy nadziei bezpieczna), Mira cieplo, Hew/woznice ogarnieci. Lojalna siec trzyma sie w kryzysie = dom o wlasnych silach dziala. Kasa 84->74, zmeczenie 7 (na granicy - musi odpoczac). Sztorm trwa. System zwalidowany, ludzie cali.",
+ "pogoda": 15,
+ "dzien_tygodnia_nr": 4,
+ "dzien_targowy": "ryby",
+ "nastroje_miasta": "297-11-06 RANEK (sztorm zelzal do glebokiego mrozu pogoda 15; INBOUND 94 - aftermath+ROZPOZNANIE): zabojczy sztorm przeszedl, zostal twardy mroz (pogoda 15), miasto odgrzebuje sie, keje wracaja chudo. DWA watki poranka. (1) SOBER AFTERMATH: sztorm zebral zniwo TAM GDZIE NIKT nie mogl dosiegnac - kilka ofiar na obrzezach/w gore kraju (realizm twardej zimy; Symon uratowal osiagalnych, nie wszechmocny). (2) MOCNE ROZPOZNANIE: caly port mowi jak relief Symona utrzymal biedote przy zyciu przez morderca noc, gdy gdzie indziej mroz zabijal; Wiara chwali GLOSNO, a wiesc dochodzi WYZEJ - Nowy Zamek/Wylis/Godric notuja ze 'ten co prowiantuje' dowiozl gdy sztorm zabijal (castle-first utrzymany). Nieskazitelnosc w najczarniejszej godzinie widziana przez tych co waza=szczebel gwiazdy. Bilans: system zwalidowany, ludzie cali, rezerwa do odbudowy (sciezka gotowa), kasa 74, staple 32, wypoczety. Owen 95/61, Wylis 25/18.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -19,8 +19,8 @@
   },
   "ryba": {
    "baza": 2,
-   "mnoznik": 1.0,
-   "przyczyna": "nie dzien targowy"
+   "mnoznik": 1.1,
+   "przyczyna": "targ rybny wraca po sztormie, podaz chuda"
   },
   "pergamin": {
    "baza": 40,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.6,
-   "przyczyna": "ZABOJCZY SZTORM/mroz (pogoda 2) - opal skacze, rozpaczliwy popyt"
+   "mnoznik": 1.5,
+   "przyczyna": "sztorm zelzal do glebokiego mrozu - opal wciaz wysoko"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 5,
+ "dzien": 6,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

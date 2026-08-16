@@ -5,12 +5,12 @@
   "dzien": 13,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 58,
  "dzien_tygodnia_nr": 4,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-13 RANEK (lagodnie 58; INBOUND cichy): spokojny znosny dzien, okno pogodowe trzyma. Inbox cichy - zaden pilny posłaniec. Stojacy PRIORYTET po wczoraj: near-North podaz cienka pod zime (luka zatkana kosztem) - warto WZMOCNIC redundancje zrodel nim kolejny scisk (przez Leone + moze dalej lokalnie). Poza tym: 3 kontrakty doliny (Harrol/Berena/Ronnel), maszyna miele, relief trzyma sam, traktat u Theomore'a (czystopis+list), Wylis dowod naprzod, elewacja dojrzewa. Kasa 110, staple 32, finanse 5, wypoczety. Bertram front, plan zimy w ruchu.",
+ "nastroje_miasta": "297-11-13 POLUDNIE (rzut 85, podaz near-North wzmocniona): po luce z wczoraj Symon+Leona wzmocnili redundancje - 2-3 dodatkowe lokalne zrodla na kazdy kluczowy staple, tak by pojedynczy zimowy shortfall NIE robil luki (redundancja podazy jak tras). Strona podazowa sieci ZDE-RYZYKOWANA na reszte zimy; hook z 11-12 zamkniety. Siec robustna na OBU koncach: trasy (Hollis/warianty/depot) + podaz (multi-source). 'Dom o wlasnych silach' twardszy. Koszt ~11 jel (kasa 110->99). W tle 3 kontrakty doliny, maszyna, relief, traktat u Theomore'a, Wylis dowod naprzod. Staple 32, finanse 5, plan zimy w ruchu, elewacja dojrzewa.",
  "ceny": {
   "chleb": {
    "baza": 3,

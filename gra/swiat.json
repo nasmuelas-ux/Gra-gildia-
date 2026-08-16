@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 4,
+  "dzien": 5,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 40,
- "dzien_tygodnia_nr": 2,
+ "pogoda": 2,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-04 POLUDNIE (rzut 63, PELNY KONTRAKT BERENY ZAWARTY): Symon domknal pelny kontrakt zimowy Wierzbowego Brodu (zboze/sol/opal cala zime, castle-first nietkniety, frost-proof przez depot Wendla, uczciwe warunki). DRUGI holding sieci polnocnej po Harrolu. Berena zwiazany usatysfakcjonowany klient (68/40), przyszly 3. voucher. SIEC DZIALA: 2 holdingi (Harrol+Berena) + Godric konduit + Wendel depot-hub + Hollis trasy + Leona podaz + Boren haul. Marza +~12/mies zima, kapital-light. Initial +5 (kasa 91->96). Hedge Braavos-cutoff realny; endgame 'dom o wlasnych silach' rosnie. Nastepny horyzont: kolejne holdingi przez rosnacy krag voucherow. Wraca do miasta.",
+ "nastroje_miasta": "297-11-05 RANEK (ZABOJCZY SZTORM/mroz, pogoda 2; INBOUND 81 pilny): w nocy spadl brutalny zimowy sztorm - lodowaty wicher, snieg, morderczy mroz (pogoda 2, najgorsza od dawna; oddech twardej zimy z bialego kruka 10-28). Miasto sparalizowane, keje puste, ludzie w domach, opal skacze (rozpaczliwy popyt). PILNY INBOUND: Wiara/Bran sla slowo o swicie - ubodzy w SMIERTELNYM niebezpieczenstwie (mroz zabija na warcie), relief potrzebny NATYCHMIAST. TO TEST wszystkiego co Symon zbudowal: rezerwa reliefowa SWIEZO wzmocniona (dobre wyczucie!), maszyna frost-proof, castle-first, siec polnocna (Harrol/Berena w drodze sztormu). Jego zywiol: gra z wyprzedzeniem sie oplaca ALBO sztorm przekroczy przygotowanie. Kasa 96, staple 38, rezerwa reliefu gotowa. Owen 95/61, ludzie Brana, Hollis trasy.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.3,
-   "przyczyna": "mroz zelzal (POGODA lekka) - opal zszedl z piku, brak edge do dokupu"
+   "mnoznik": 1.6,
+   "przyczyna": "ZABOJCZY SZTORM/mroz (pogoda 2) - opal skacze, rozpaczliwy popyt"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -44,13 +44,13 @@
   },
   "sol": {
    "baza": 45,
-   "mnoznik": 1.25,
-   "przyczyna": "zimowy scisk soli dalej rosnie (konserwacja) - jedyny staple wciaz pod szczytem"
+   "mnoznik": 1.3,
+   "przyczyna": "sztorm - scisk maksymalny"
   },
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 4,
+ "dzien": 5,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

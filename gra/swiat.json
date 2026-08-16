@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 27,
- "dzien_tygodnia_nr": 7,
+ "pogoda": 76,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-16 WIECZOR (rzut 24, porzadki w kantorze - marginalnie): Symon uporzadkowal papiery/prace z Nesta - ksiegi czyste, drobny draw +4 (kasa 130->134). MARGINALNY koszt: przy porzadkach wyszlo ze JEDEN dluznik weksla (z 200 jel) chwieje sie pod zima (winter squeeze sciska dluznikow) - nie strata, do PILNOWANIA/workoutu. Nesta przy okazji przypomniala PLAN: budowac plynnosc na wiosenny refi (nie rozdrabniac). Reszta portfela zdrowa. Dzien wybitny domkniety: honor rozdany, Theomore-sponsor, papiery czyste. Kasa 134, staple 32, finanse 6, plan zimy w ruchu, elewacja dojrzewa.",
+ "nastroje_miasta": "297-11-17 RANEK (LAGODNE okno 76; INBOUND 95 - Wylis wzywa domknac STALY KONTRAKT): pogodny dzien, odwilz-okno. WIELKI INBOUND: ser WYLIS (kasztelan) wzywa Symona - po DWOCH sztormach zwiedzionych + czystych ksiegach nie chce czekac do wiosny: gotow ZAPIECZETOWAC STALY warrant prowiantowania zamku (to co bylo 'pol zimy dowiedzione'->teraz dowiedzione dosc). Marza ~45->65/mies, indyspensowalnosc formalna. Wylis mowi ze lord o tym wie/dowie sie (elewacja dojrzewa tym torem, choc pelna deferred do konca zimy). To najwiekszy dotad KONKRET zadania 'dowiez zime'. W tle: 'moze' o dziecku (niepotwierdzone, ciche), 3 kontrakty doliny, traktat+sponsor Theomore, relief-instytucja, kasa 134. Bertram bez paliwa (honor rozdany). Nastepny krok: isc domknac staly kontrakt z Wylisem.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.35,
-   "przyczyna": "sztorm przeszedl w mroz (27) - opal schodzi z piku"
+   "mnoznik": 1.15,
+   "przyczyna": "odwilz-okno (76) - opal spokojnie"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki",
- "dzien": 16,
+ "swieto": null,
+ "dzien": 17,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

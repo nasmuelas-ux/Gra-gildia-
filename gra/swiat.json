@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 10,
-  "dzien": 26,
+  "dzien": 27,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 61,
- "dzien_tygodnia_nr": 7,
- "dzien_targowy": null,
- "nastroje_miasta": "297-10-26 POLUDNIE (Dzien Matki - relief dosypany+sluzba, rzut 81 mocny): relief nadwatlony przez killing frost DOSYPANY Z NAWIAZKA (wspolnota Dnia Matki hojna, mantia Wiary, Symon -12 jel, darczyncy, earmark) - zapasy stoja mocno, Elna/ubodzy pokryci. Owen UZNANIE ('Matka Milosierdzia twoimi rekami; takich Polnoc zapamietuje'). Relief=rozpoznawalny filar zimowego przetrwania miasta=ORDER ceniony przez lorda (pod Wiara, bez 'gbur ponad stan'). Grounding+gwiazda w czynie. Kasa 80->68. Bilans: Wylis proof (23), Harrol topnieje (42/18), guided-haul proven, Boren sojusz krwi, Hew ozdrowieniec, maszyna validated. Reszta: refi zegar zimowy, dziecko-nadzieja. Kasa 68.",
+ "pogoda": 24,
+ "dzien_tygodnia_nr": 1,
+ "dzien_targowy": "targ rybny (dzien podzielny przez 3)",
+ "nastroje_miasta": "297-10-27 RANEK (mrozno, twardy chlod, pogoda 24; targ rybny; nowy tydzien): INBOUND - guided-haul zaczyna owocowac: kupiec dopytuje o usluge (przyciagniety demonstracja z killing frost - 'dowiozles gdy inni marzli'), najlepszy marketing zadzialal. Bilans mocny: relief=filar zimowego przetrwania miasta (Owen uznanie), maszyna validated, Wylis proof (23), Harrol topnieje (42/18 recovering), Boren sojusz krwi, Hew ozdrowieniec, kasa 68. Reszta: refi zegar zimowy, dziecko-nadzieja, nauka finansow/wlodarstwa/traktat. biały kruk ~297-11 blisko. Kasa 68.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki (7. dzien tygodnia - dzien Wiary; handel przygaszony, ludzie w Sepie Sniegow)",
- "dzien": 26,
+ "swieto": null,
+ "dzien": 27,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

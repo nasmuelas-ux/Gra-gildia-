@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 11,
+  "dzien": 12,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 27,
- "dzien_tygodnia_nr": 2,
- "dzien_targowy": null,
- "nastroje_miasta": "297-11-11 POPOLUDNIE (rzut 80, praca z maestrem nad traktatem): prawdziwa synteza - Theomore wniosl cytadelski rygor/strukture, Symon frontier-metode ktorej Cytadela nie ma; surowe partie WYGLADZONE, dzielo ku PRAWDZIWEMU TRAKTATOWI (ze szkicu roboczego). Theomore KONKRETNIE: czystopis + list do znajomego maestera (siec maesterska -> Cytadela/uczone uszy Polnocy=pomost ku Winterfell AKTYWNY, nie tylko potencjalny). Bond glebszy (intelektualny partner/protegowany umyslu), 84->86/68->70. finanse licznik ->42 (lvl6 ~50). Firewall czysty (math abstrakcyjnie). Trzy tory gwiazdy id naraz: prowiant(Wylis/lord), charakter(relief), UMYSL(traktat). Kasa 96, siec doliny 3 wezly, plan zimy w ruchu.",
+ "pogoda": 63,
+ "dzien_tygodnia_nr": 3,
+ "dzien_targowy": "ryby",
+ "nastroje_miasta": "297-11-12 RANEK (LAGODNIEJ pogoda 63 - okno w zimie; targ rybny): mroz odpuscil, pogodniejszy dzien=OKNO na trakty i handel; rynek odmarza po zamrozeniu, keje zywsze. PORANNY INBOUND: Hollis/Wendel sygnalizuja ze lagodne okno=dobry moment na PROBNA dostawe do ser Ronnela (3. wezel, proof-run ktory odblokuje pelny kontrakt); + targ rybny zywy (drobna szansa handlu). Poza tym maszyna miele, relief trzyma sam, traktat u Theomore'a (czystopis+list w toku). Kasa 96, staple 32, finanse 5, wypoczety. Plan zimy w ruchu: Wylis dowod naprzod, siec 3 wezly, intelektualny pomost aktywny, elewacja dojrzewa. Bertram front.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -19,8 +19,8 @@
   },
   "ryba": {
    "baza": 2,
-   "mnoznik": 1.1,
-   "przyczyna": "targ rybny wraca po sztormie, podaz chuda"
+   "mnoznik": 0.9,
+   "przyczyna": "targ rybny + lagodniejszy dzien - podaz wraca"
   },
   "pergamin": {
    "baza": 40,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.4,
-   "przyczyna": "mroz umiarkowany (29) - opal schodzi lekko"
+   "mnoznik": 1.25,
+   "przyczyna": "mroz zelzal (pogoda 63) - opal schodzi"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 11,
+ "dzien": 12,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

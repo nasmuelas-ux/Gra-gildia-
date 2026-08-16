@@ -5,12 +5,12 @@
   "dzien": 10,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 29,
  "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-10 POPOLUDNIE (rzut 35, 1. szkic traktatu UKONCZONY): Symon domknal PIERWSZY PELNY SZKIC traktatu o rachunkach/matematyce monety - od poczatku do konca, metoda z worked examples, spojny. Solidny nie majstersztyk: szkic roboczy (miejscami surowy, najwyzsze partie frontier-ryzyka do dopracowania), ale GOTOWY do pokazania Theomore'owi jako powazne dzielo (otwiera kanal ku uczonym uszom/Winterfell). finanse licznik ->33. Bilans dnia mocny: Voss domkniety (nisza-lock, kasa 92), maszyna miele, relief trzyma sam, Wylis dowod zimy naprzod. Nastepny krok: pokazac szkic Theomore'owi. Staple 32, finanse 5, plan zimy w ruchu.",
+ "nastroje_miasta": "297-11-10 WIECZOR (rzut 98 KRYT, Theomore zwalidowal traktat): maester zaangazowal sie gleboko i byl PORUSZONY - najwyzsze partie traktatu (frontier risk/underwriting) IDA PONAD standardowa Cytadele; samouk-gbur zsyntetyzowal czego Cytadela nie uczy. Theomore STAL SIE CZEMPIONEM: pomoc w dopracowaniu (szkic->dzielo) + sciezka dalej (siec maesterow/Cytadela/pomost ku uczonym uszom Polnocy=Winterfell ma maesterow). INTELEKTUALNY szczebel gwiazdy REALNY (drugi tor obok prowiantu/charakteru). Firewall czysty (math abstrakcyjnie). Theomore 79->84/62->68, finanse licznik ->37. Bilans dnia wybitny: Voss domkniety, traktat zwalidowany przez maestera, maszyna+relief+Wylis torem. Kasa 92, finanse 5, zmeczenie 4.",
  "ceny": {
   "chleb": {
    "baza": 3,

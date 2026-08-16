@@ -6887,3 +6887,10 @@ Symon wyłożył maesterowi węzły logistyczne swojego łańcucha i logistykę 
 **Foreshadow (Theomore, nieświadomie ku 299):** „kto dowiezie zboże do zamku w mróz, dowiezie i do **armii w polu**; gdyby Północ ruszyła na wojnę, taki jak ty wart więcej niż rycerz." (Spina z osią świata: ~299 Wojna Pięciu Królów = war-provisioning = atut Symona na skali wojennej.)
 
 **Traktat pchnięty mocniej:** spisać węzły/bufory/rachubę ryzyka → imię jako UMYSŁ, nie tylko ręka; wektor ku Winterfell („umysłem wchodzi się jak mieczem"). Theomore nast+2/zauf+1; włodarstwo (teoria) praktykowane. Pora POPOŁUDNIE→WIECZÓR.
+
+## 297-10-23 RANEK — Wypadek przy Kamiennym Brodzie (rzut 2, poważna komplikacja; castle-first uratował linię życia)
+Przy dwufrontowej dostawie przez okno pogodowe kość rzuciła najgorszym. Na nowej, mniej znanej trasie do Ser Harrola — przy samej przeprawie Kamiennego Brodu (bród zimą śmiertelny) — **wóz z zaprzęgiem załamał się pod lodem.** Towar w większości stracony (~15 jel, kasa 72→57). Gorzej: **młody woźnica z cechu Borena wpadł w lodowatą wodę** — wyciągnięty żywy, ale przemarznięty i ranny, w realnym niebezpieczeństwie; potrzeba szybkiej opieki, a jego los zależy od tego, jak szybko zareagujesz (echo ratunku furmana sprzed dni).
+
+**Ale przygotowanie kontenowało katastrofę** — i tu twoja dyscyplina się spłaca: **castle-first** znaczyło, że dostawa do Nowego Zamku była OSOBNA i **bezpieczna**. Kataklizm uderzył we front Harrola, nie w twoją linię życia ani dowód dla Wylisa. Strategia się obroniła — nie została ukarana; gdybyś nie trzymał zamku osobno, dziś padłby crown jewel.
+
+**Trzy stawki reakcji:** (1) uratować i wyleczyć rannego (ludzkie + człowiek Borena); (2) uczciwie stanąć wobec Ser Harrola — pierwsza dostawa to katastrofa, a relacja z nowym gentry-klientem wisi na tym, JAK to obsłużysz (owned-and-made-right buduje więcej niż gładka dostawa); (3) Boren — jego człowiek ranny, twoja troska = stawka sojuszu. To nie punicja dobrej gry: zimowy wypadek na broku, contained przez dyscyplinę. Reakcja należy do ciebie.

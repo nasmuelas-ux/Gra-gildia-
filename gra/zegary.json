@@ -458,6 +458,12 @@
    "typ": "opieka/ludzki",
    "stan": "",
    "opis": "297-10-15 POLUDNIE (Mira, rzut 13): Elna wdowa (wyrwana Lorrenowi) nie tylko marznie ale CHORUJE/zaniedbuje sie, ukrywa ze wstydu. Mira zagrala bezblednie (wdowa-od-wdowy) ale przelomu brak w jeden raz; opal/grosz zostawione, wiez nie zraniona. Potrzeba cierpliwej obecnosci Miry+delikatnego zajecia sie zdrowiem (septa/zielarka/opal), bez litosci/jalmuzny. Elna nast ~21. || 297-10-16: RELIEF ZIMOWY RESUPPLY (rzut 59) - siec dobrze zaopatrzona na nadchodzacy twardy odcinek (Symon ~15 jel+opal, darczyncy, earmark lorda, mantia Wiary). Biedni pokryci gdy mroz gryzie. Elna pokryta W reliefie (cieplo/zywnosc przez siec, godnosc - nie wystawiona). Solidnie nie na cala zime - dluga zima=kolejny top-up."
+  },
+  {
+   "id": "wypadek_brod_harrol",
+   "typ": "kryzys (natychmiastowy)",
+   "stan": "OTWARTY 297-10-23 RANEK",
+   "opis": "WYPADEK PRZY KAMIENNYM BRODZIE (rzut 2): woz+zaprzeg pod lodem na przeprawie, towar stracony (~15 jel), MLODY WOZNICA cechu Borena przemarzniety/ranny w lodowatej wodzie - ZYWY ale w niebezpieczenstwie, potrzeba SZYBKIEJ opieki (jego los=stawka reakcji Symona). Castle-dostawa bezpieczna (castle-first held). STAWKI REAKCJI: (1) uratowac/wyleczyc rannego (ludzka+Boren); (2) uczciwie stanac wobec Ser HARROLA - pierwsza dostawa=katastrofa, relacja z gentry-klientem wisi na tym JAK to obsluzy (owned+made-right buduje wiecej niz gladka dostawa); (3) Boren - jego czlowiek ranny, jak Symon zadba=stawka sojuszu. NEXT: reakcja gracza (ratunek->opieka->Harrol->Boren)."
   }
  ]
 }

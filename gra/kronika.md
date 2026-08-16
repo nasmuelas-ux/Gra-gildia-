@@ -7042,3 +7042,6 @@ Symon został na prośbę Owena i pracował przy rozdawaniu w septie — podwin�
 
 ## 297-11-02 POŁUDNIE→POPOŁUDNIE — wzmocnienie rezerwy reliefowej (rzut 61)
 Po tym, co zobaczył przy rozdawaniu, Symon nie czekał — proaktywnie wzmocnił rezerwę reliefową przed głęboką zimą. Maszyna zadziałała jak zaprojektowano: ~9 jel z własnej pozycji staple przekierowane w rezerwę (użycie apreciowanego stocku w realny popyt — dokładnie rada Nesty, stabilizator nie hoarder) plus ~8 jel świeżej podaży z kontraktowanych źródeł near-North Leony (nie open-market, bo Dzień Matki), Aurane sztauuje frost-proof, Bran rozwozi, wszystko pod mantią Wiary (podwójna księga Symon+Wiara — firewall i właściwa rama). Poduszka na ciężki przednówek gotowa, zanim mróz siądzie na dobre. Tarcza słabych wzmocniona proaktywnie — gwiazda przez charakter, gra z wyprzedzeniem. Kasa 87→79, staple 47→38.
+
+## 297-11-02 POPOŁUDNIE→WIECZÓR — cichy zarobek w Dzień Matki (rzut 41)
+Symon odpoczął chwilę i ruszył dyskretnie forensykę Vossa — święto idealne na cichą, prywatną robotę przy księgach (nie na open-market). Namierzył i zaczął dokumentować wyciek u dostawcy Vossa; wstępna zapłata ~5 jel (kasa 79→84), Voss zauf 20→22. Dzień wyszedł pełny i właściwy: rozdawanie w septie, wzmocniona rezerwa reliefowa przed przednówek, cichy zarobek na koniec. Kurs w górę wciąż w drodze — wieść jutro.

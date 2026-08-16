@@ -5,12 +5,12 @@
   "dzien": 9,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 12,
  "dzien_tygodnia_nr": 7,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-09 RANEK (DZIEN MATKI + gleboki mroz 12; INBOUND: Wylis wzywa o ksiegi zimowe): mroz wrocil twardo (pogoda 12, blisko zabojczego), Dzien Matki (swieto Wiary, ubodzy sciagaja). DWIE rzeczy. (1) WALIDACJA: relief-instytucja TRZYMA SAMA w mrozie - Bran/Wiara/fundusz docieraja bez scramble Symona (kontrast do sztormu gdy brnal osobiscie); steward nie mul dziala, a na Dzien Matki miasto WIDZI relief Wiary niosacy przez mroz (standing cicho rosnie=cegla dowodu zimy). (2) INBOUND: ser WYLIS (kasztelan) wzywa Symona - chce przejrzec ZIMOWE KSIEGI prowiantu (sedno zadania lorda 'dowiez zime'); Symon ma je gotowe do zrobienia. Okazja domknac dowod przez Wylisa (uczciwy celnik, 25/18, ceni pewnosc dostawy). Kasa 78, finanse 5, staple 32, traktat w toku, plan zimy w ruchu. Bertram front, elewacja deferred.",
+ "nastroje_miasta": "297-11-09 POLUDNIE (rzut 69, ksiegi u Wylisa - dowod przemowil): Symon przyszedl z zimowymi ksiegami otwarcie. Wylis przeswietlil je po celniczemu, szukal szwu - NIE ZNALAZL: czyste co do miedziaka, dostawa nieprzerwana przez zabojczy sztorm+gleboki mroz, castle-first caly, kara nigdy nie odpalona. Uczciwy celnik gleboko pod wrazeniem; PRZESUNAL STALY KONTRAKT mocno naprzod ('pol zimy dowiedzione, dokoncz tak a warrant twoj - powiem lordowi'). To CEGLA dowodu 'dowiez zime' dla Wymana (Wylis=konduit) + marza stala ~45->65/mies dojrzewa. Firewall czysty (Braavos/Antaryon w mroku). nast 25->33 zauf 18->26. Rownolegle relief-instytucja trzyma sam w mrozie (steward). Kasa 78->85, finanse 5, traktat w toku. Bertram front, elewacja dojrzewa torem Wylisa.",
  "ceny": {
   "chleb": {
    "baza": 3,

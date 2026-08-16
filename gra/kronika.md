@@ -7117,3 +7117,6 @@ Symon przyszedł do kasztelana z zimowymi księgami otwarcie — bo celnik i tak
 
 ## 297-11-09 POŁUDNIE→POPOŁUDNIE — traktat rośnie (rzut 46)
 Symon pisał dalej: kolejna sekcja, o compound i rotacji, z worked examples wprost z własnych ksiąg — metoda pokazana na konkretach, jego styl. Traktat przestaje być szkicem, rośnie w realny korpus. Finanse dojrzewają dalej (licznik →28; poziom 6 daleko, przy ~50). Dzieło dojrzewa ku momentowi, gdy warto je pokazać maesterowi Theomore'owi — waluta kanału ku uczonym uszom i Winterfell. Spokojny, produktywny dzień umysłu, spójny z planem zimy.
+
+## 297-11-09 POPOŁUDNIE→WIECZÓR — traktat blisko pierwszego szkicu (rzut 60)
+Trzecia sesja dnia: rdzeń traktatu — framework, ryzyko i underwriting, compound i rotacja — jest już blisko kompletnego pierwszego szkicu. Niedługo będzie gotowy do pokazania maesterowi Theomore'owi, walucie kanału ku uczonym uszom i Winterfell. Finanse dojrzewają (licznik →30). Ale Symon jest już zmęczony po trzech sesjach (zmęczenie 5) — dalsze pisanie dziś dawałoby malejący zwrot; pora odpocząć. Bilans dnia mocny: dowód zimy u Wylisa naprzód, relief trzyma się sam w mrozie, traktat rośnie.

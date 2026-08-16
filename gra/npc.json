@@ -851,7 +851,7 @@
     "obcy lichwiarze siegajacy po warsztaty cechowe"
    ],
    "nastawienie_do_gracza": 94,
-   "zaufanie": 50,
+   "zaufanie": 52,
    "wie_o_graczu": [
     "czyta umowy lepiej niz ten co je pisze",
     "poreczyl za skarge wdowy Elny",
@@ -891,10 +891,11 @@
     "297-10-15 POPOLUDNIE (rzut 25): Symon wpadl pomoc z ksiega cechu. Niski rzut = ksiegi w dobrym stanie (jego dawna robota trzyma), wiec porzadkujacy przyjacielski check-in nie duza robota; BEZ fee (nic istotnego do rozliczenia, uczciwie). Sezon: zimowy hauling = kola/wozy w cenie, cech kwitnie (Polnoc wozi zapasy). Symon zauwazyl SEED synergii (pojemnosc wozow cechu <-> jego logistyka prowiantu/drewna Benneta na zamek) - zaparkowane, nie dobite dzis. Przy okazji cicho skoordynowal ws. ELNY (cech ja chroni): Boren potwierdzil ze trzymaja jej dach, ale tez zauwazyl ze niedomaga/kaszle/trzyma sie na uboczu (zgodne z diagnoza Miry) - Boren bedzie miec oko, Mira dochodzic. Niezawodna obecnosc pogłebia sojusz. nast 90 hold, zauf 40->41.",
     "297-10-17 POPOLUDNIE (rzut 52): zaryglowali STANDING HAUL - Symon dostaje priorytet/pierwsze wolanie pojemnosci wozow cechu + uczciwe stawki; Boren daje pewny STALY dochod/robote kolodziejom przez caly sezon (nie tylko peaki) + sojusz. Lekki retainer ~6 jel/mies. Boren bardzo rad (steady work=marzenie cechmistrza; wygladza demand, prestiz lord-connected prowiantu). Sojusz glebszy, teraz i biznesowo spleceni. nast 90 hold, zauf 41->43.",
     "297-10-23 (rzut 100 KRYT): woznica cechu Borena (mlody HEW) wpadl pod lod przy Kamiennym Brodzie w dostawie Symona. Symon rzucil WSZYSTKO i ratowal go OSOBISCIE zanim policzyl stracony towar - Hew przezyl czysto (nieokaleczony). Boren przyjechal blady, zastal czlowieka zywego pod opieka. 'Uratowales mi chlopaka, tego sie nie zapomina.' SOJUSZ ZACISKA SIE NA POZIOMIE KRWI nie umowy - guildmaster wie ze inny kupiec liczylby najpierw worki. nast 90->94, zauf 43->49.",
-    "297-10-23 POPOLUDNIE: Symon przyszedl zapewnic o Hewie/operacji i poprosic o specjaliste od trudnych szlakow. Boren (wdzieczny po grob) dal STAREGO HOLLISA - woznica-przewodnik, 40 zim bez straconego wozu, zna kazdy brod/przelecz/kiedy lod trzyma. Mutual: safe routes chronia tez ludzi Borena. Sojusz jeszcze glebszy. zauf +1."
+    "297-10-23 POPOLUDNIE: Symon przyszedl zapewnic o Hewie/operacji i poprosic o specjaliste od trudnych szlakow. Boren (wdzieczny po grob) dal STAREGO HOLLISA - woznica-przewodnik, 40 zim bez straconego wozu, zna kazdy brod/przelecz/kiedy lod trzyma. Mutual: safe routes chronia tez ludzi Borena. Sojusz jeszcze glebszy. zauf +1.",
+    "297-10-24 POLUDNIE: Symon przyszedl PODZIEKOWAC Borenowi (za Hollisa, ludzi cechu przy rescue) - choc to Boren czuje sie winien (Symon uratowal Hewa+make-good). Rozbroil guildmastera pokora. Boren: 'ty mnie dziekujesz? swiat na opak... trzymam sie z toba nie bo sie oplaca, bo jestes PORZADNY, takich garsc na port'. Sojusz krwi jeszcze glebszy - wzajemny szacunek dwoch porzadnych ludzi. zauf +2."
    ],
    "dlugi": [],
-   "ostatni_kontakt": "297-10-23 POPOLUDNIE",
+   "ostatni_kontakt": "297-10-24 POLUDNIE",
    "cechy_mowy": "krótko, prosto, wali piescia w stol; 'chlopcze'",
    "historia": [
     "m11d20 (rzut 72): cieply kontakt; opal Symona bezpieczny/suchy na placu, Boren przyznaje ze przetrzymanie bylo madre (opal drozeje). Nugget: Boren (w branzy) czuje, ze POPYT na opal ostro rosnie z glebokim mrozem, cena pnie sie, szczyt sie zbliza. Przysluga zwrotna wciaz zabankowana (cieplo). Sojusz MOCNY. Nast 42->44.",
@@ -2424,11 +2425,12 @@
    "imie": "Hew",
    "stan": "mlody woznica cechu kolodziejow",
    "zawod": "woznica/hauler cechu Borena",
-   "nastawienie_do_gracza": 70,
-   "zaufanie": 20,
-   "ostatni_kontakt": "297-10-23",
+   "nastawienie_do_gracza": 85,
+   "zaufanie": 35,
+   "ostatni_kontakt": "297-10-24",
    "wie_o_graczu": [
-    "297-10-23: wpadl pod lod przy Kamiennym Brodzie w dostawie Symona; Symon uratowal go osobiscie (rzut 100) - przezyl czysto. Wdzieczny do konca zycia; Symon=czlowiek co rzucil sie ratowac lowborn woznice wlasnymi rekami."
+    "297-10-23: wpadl pod lod przy Kamiennym Brodzie w dostawie Symona; Symon uratowal go osobiscie (rzut 100) - przezyl czysto. Wdzieczny do konca zycia; Symon=czlowiek co rzucil sie ratowac lowborn woznice wlasnymi rekami.",
+    "297-10-24: Symon odwiedzil go w rekonwalescencji - nie jak pan/dobroczynca, lecz siadl jak przy swoim, zostawil cieple jedzenie bez rozglosu. Hew ODDANY DO KONCA ZYCIA (czlowiek, ktoremu Symon ocalil zycie z lodu). nast+15 zauf+15."
    ]
   }
  ]

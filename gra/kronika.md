@@ -6916,3 +6916,6 @@ Make-good wziął grudgingly; relacja spadła (nast 40→30, zauf 12→8), kontr
 
 ## 297-10-24 RANEK→POŁUDNIE — Zarobkowanie (rzut 79, tłusto; linia firma-faktorska)
 Firma faktorska (bieżąca gotówka wg modelu marż) robi swoje: premium audyt z Corlissem, retainery Hala, Doryan. +12 jel (37→49). Pora RANEK→POŁUDNIE.
+
+## 297-10-24 POŁUDNIE→POPOŁUDNIE — Hew i Boren (bez rzutu; lojalność z krwi, nie z najmu)
+Symon odwiedził Hewa (rekonwalescencja) — nie jak pan/dobroczyńca, lecz siadł jak przy swoim, zostawił ciepłe jedzenie bez rozgłosu. Hew oddany do końca życia (człowiek, któremu ocalił życie). Potem podziękował BORENOWI (za Hollisa, ludzi cechu przy rescue) — choć to Boren czuje się winien; rozbroił guildmastera pokorą. Boren: „ty mnie dziękujesz? świat na opak… trzymam się z tobą nie bo się opłaca, bo jesteś porządny — takich garść na port." Sojusz krwi jeszcze głębszy (zauf →52; Hew nast/zauf +15). Zero grosza, ale fundament gwiazdy: sieć oddanych ludzi (z krwi, nie z najmu). Pora POŁUDNIE→POPOŁUDNIE.

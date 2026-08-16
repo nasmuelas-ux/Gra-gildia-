@@ -7120,3 +7120,6 @@ Symon pisał dalej: kolejna sekcja, o compound i rotacji, z worked examples wpro
 
 ## 297-11-09 POPOŁUDNIE→WIECZÓR — traktat blisko pierwszego szkicu (rzut 60)
 Trzecia sesja dnia: rdzeń traktatu — framework, ryzyko i underwriting, compound i rotacja — jest już blisko kompletnego pierwszego szkicu. Niedługo będzie gotowy do pokazania maesterowi Theomore'owi, walucie kanału ku uczonym uszom i Winterfell. Finanse dojrzewają (licznik →30). Ale Symon jest już zmęczony po trzech sesjach (zmęczenie 5) — dalsze pisanie dziś dawałoby malejący zwrot; pora odpocząć. Bilans dnia mocny: dowód zimy u Wylisa naprzód, relief trzyma się sam w mrozie, traktat rośnie.
+
+## 297-11-10 RANEK — dostawa Vossa dotarła (case wznawialny)
+Chłodny, znośny dzień (29). Poranny sygnał: opóźniona dostawa dostawcy Vossa wreszcie doszła — forensyka może wznowić i domknąć dowód skimu (income + wątek firmy). W tle maszyna mieli (castle cykl, relief trzyma się sam), a traktat jest blisko pierwszego szkicu, niedługo gotowy do pokazania Theomore'owi.

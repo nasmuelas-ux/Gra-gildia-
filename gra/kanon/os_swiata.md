@@ -104,3 +104,6 @@ Kanon PLIO nie podaje dokładnej cyfry; skala jednoznaczna. USTALENIE ROBOCZE:
   miasto Północy → asymetria, którą Symon wygrał (sprowadzenie większej siły, nie srebro).
 - Firewall / refi / zależność od Braavos = grawitacja strategiczna stąd, że backend firmy
   to metropolia zza wąskiego morza, sezonowo odcięta lodem zimą (stąd hook: północna głębia).
+
+## [ODPALONE] 297-10-28 — BIAŁY KRUK CYTADELI (pierwszy wpleciony beat osi)
+Cytadela ogłosiła w całym Królestwie: długie lato OFICJALNIE skończone, jesień potwierdzona; maesterowie ostrzegają — krótka jesień, TWARDA zima. Dotarło przez Theomore/Wiarę/port (INBOUND 83). Maesterski cień → oficjalne słowo. DLA SYMONA: przewaga zimowa surge (oficjalna zima=zaostrzony popyt/ceny prowiantu, większa waga jego maszyny/reliefu/buforów/underwritingu; walidacja przygotowania). ZAGROŻENIE: ubodzy bardziej narażeni (relief ważniejszy), możliwa drga cen/paniki. Kolejne beaty osi (~298: śmierć Jona Arryna, król do Winterfell) dalej przed nami.

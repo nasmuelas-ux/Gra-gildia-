@@ -7270,3 +7270,6 @@ Symon poświęcił dzień na coś, czego większość nie robi: tendowanie sieci
 
 ## 297-11-21 POŁUDNIE→POPOŁUDNIE — steward-obchód czysty (rzut 34)
 Po posiłku Symon obszedł maszynę — wszystko mieli równo (castle-first na stałym warrancie, holdingi multi-source i depot, relief-instytucja, guided-haul, nisza). W świetle ostrzeżenia Godrica, że Bertram wypatruje rysy, proaktywnie dociągnął drobiazgi: zima nieskazitelna utrzymana, żadnego kąta dla wroga — dokładnie ten target, który daje elewację. Drobny cykl +5 (kasa 146), włodarstwo dojrzewa (licznik →91). Steward, nie muł — system samobieżny.
+
+## 297-11-21 POPOŁUDNIE→WIECZÓR — nauka finansów i matematyki (rzut 70)
+Produktywna wieczorna sesja nad głębszą matematyką monety i ryzyka (rama Theomore'a, braavijskie teksty) — finanse dojrzewają (licznik →69; poziom 7 przy ~90), z wglądem przydatnym do matematyki wiosennego refi. Dzień spokojny i czysty domknięty: pielęgnacja sieci (lojalność + intel), steward bez rysy, nauka. Zima jako czas dla umysłu wykorzystana raz jeszcze.

@@ -2,11 +2,11 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-11-21 POPOLUDNIE · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
+- **Data:** 297-11-21 WIECZOR · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
-- **Nastroje:** 297-11-21 POPOLUDNIE (rzut 34, steward-obchod czysty): najadl sie, obszedl maszyne - wszystko mieli rowno (castle-first na stalym warrancie, holdingi multi-source/depot, relief-instytucja, guided-haul
+- **Nastroje:** 297-11-21 WIECZOR (rzut 70, nauka finansow/matematyki): produktywna sesja - glebsza matematyka monety/ryzyka (rama Theomore'a+braavijskie teksty), finanse licznik ->69 (lvl7 ~90, stopniowo); wglad prz
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
 - **Wolne:** 146 jeleni + 1 mied + 0 smokow
@@ -56,7 +56,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
     - prowiantowanie_udzial_zima: Udzial w zimowym prowiantowaniu zamku (od 09-19, Mira-pryncypal/firma): margin per dostawa. Pierwsze partie bezbledne. Ksieguj per dostawa; rosnie, a przy klesce rywala moze wchlonac calosc.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 85 · Zmeczenie 3
+- Zdrowie 100 · Sytosc 85 · Zmeczenie 4
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 6 · wlodarstwo 7

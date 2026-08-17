@@ -2386,7 +2386,7 @@
    "zawod": "wdowa-wlodarka, sama gospodaruje holdfast+wies w gore Bialego Noza (Manderly-sworn); maz padl, spichrze cienkie po chudym roku",
    "nastawienie_do_gracza": 68,
    "zaufanie": 42,
-   "ostatni_kontakt": "297-11-21",
+   "ostatni_kontakt": "297-12-18 - domkniete wprowadzenie do sasiada-holdera (rzut 31)",
    "wie_o_graczu": [
     "297-10-31 (INBOUND 100): SAMA sie odezwala - posłaniec z Wierzbowego Brodu z ostroznym, dumnym zapytaniem; doszla ja gentry-plotka (ludzie Harrola + krag Godrica) o 'tym co dowozi w gore gdy rzeka zamarza'. Jej rzeka bierze wczesnie=realny klopot, spichrze cienkie, maz w grobie. Dumna, nie prosi o litosc - PYTA czy Symon to czlowiek z ktorym wdowa moze uczciwie usiasc do rozmowy o zaopatrzeniu zimowym.",
     "297-10-31 (odpowiedz Miry): Symon+Mira zagrali madrze - MIRA (sama byla wdowa 'ktora pol portu chcialo kupic za bezcen') odpisala w rejestrze wdowa-do-wdowy: cieplo, z szacunkiem dla jej godnosci gospodarza (nie litosc, nie interes), BEZ pustej obietnicy przed pewnoscia dostawy. List otwiera drzwi i kupuje dni. Berena, potraktowana jak gospodarz ktorym jest (nie przypadek charytatywny), odbiera to dobrze - drzwi cieple, spotkanie na horyzoncie gdy Symon przyjdzie z DOWODEM nie slowem. nast->42, zauf->10 (ostroznie cieplo).",
@@ -2398,7 +2398,8 @@
     "297-11-11: jako zadowolony klient ZARECZYL (biernie, plotka gentry) za Symona - sciagnal sasiada ser Ronnela (Olszowy Brod), ktory sam sie odezwal. Voucher aktywny; siec skaluje przez krag voucherow.",
     "297-11-19: Berena staje sie tez 1. wezlem KREGU KOBIET Miry (wdowa-do-wdowy) - naturalne przedluzenie relacji na strone Miry (dom sukna/siec kobiet Polnocy). Podwojna wiez (prowiant Symon + sukno/krag Mira).",
     "297-11-21 (rzut 97): Symon podtrzymal relacje cieplym slowem (nie nowy kontrakt) - lojalnosc holdingu glebiej; aktywny voucher. Ceni ze dba gdy niczego nie chce. zauf +2."
-   ]
+   ],
+   "nota": " || 297-12-18 (rzut 31): Symon przyszedl domknac poranne polecenie. Berena cieplo dala PORZADNE wprowadzenie do sasiada w gore doliny (ser Edwyd, Gleboki Brod) - szczere, jej slowo waza. Spytala tez cieplo o Mire (wezel kregu Miry, dom sukna zywy). KOSZT: ser Edwyd to OSTROZNY, dumny staro-polnocny holder - nie grzeje sie do nizej urodzonego kupca latwo (echo poczatkowej Rhony/establishmentu); drzwi otwarte, ale klienta trzeba ZDOBYC dowiedziona dostawa (proba->dowod->kontrakt), nie urokiem. Lead pewny, konwersja=zimowa robota. nast 68 hold."
   },
   {
    "id": "chlop_wendel",
@@ -2605,6 +2606,17 @@
     "297-10-23: wpadl pod lod przy Kamiennym Brodzie w dostawie Symona; Symon uratowal go osobiscie (rzut 100) - przezyl czysto. Wdzieczny do konca zycia; Symon=czlowiek co rzucil sie ratowac lowborn woznice wlasnymi rekami.",
     "297-10-24: Symon odwiedzil go w rekonwalescencji - nie jak pan/dobroczynca, lecz siadl jak przy swoim, zostawil cieple jedzenie bez rozglosu. Hew ODDANY DO KONCA ZYCIA (czlowiek, ktoremu Symon ocalil zycie z lodu). nast+15 zauf+15."
    ]
+  },
+  {
+   "id": "holder_edwyd_dolina",
+   "imie": "Ser Edwyd",
+   "zawod": "holder/drobny wladyka Glebokiego Brodu, w gore doliny Bialego Noza (Manderly-sworn); staro-polnocny, ostrozny, dumny",
+   "nastawienie_do_gracza": "neutralny-czujny (dopiero wprowadzony przez Berene) - nie grzeje sie do nizej urodzonego kupca latwo",
+   "zaufanie": 5,
+   "ostatni_kontakt": "297-12-18 - wprowadzony przez Berene (jeszcze niepoznany osobiscie)",
+   "wie_o_graczu": "tyle co przez slowo Bereny: uczciwy rachmistrz/zaopatrzeniowiec co dowozi zima",
+   "potrzeby": "zaopatrzenie zimowe holdingu (jak Berena/Harrol) - ale musi byc PRZEKONANY dowodem, nie urokiem",
+   "nota": "NOWY LEAD holdingu (siec polnocno-landowa / sredni tier), przez voucher Bereny 297-12-18. Ostrozny staro-polnocny - konwersja przez wzor: cieple wprowadzenie->PROBA->dowiedziona dostawa->pelny kontrakt->staje sie voucherem nastepnego. Zimowa robota, nie szybkie zamkniecie."
   }
  ]
 }

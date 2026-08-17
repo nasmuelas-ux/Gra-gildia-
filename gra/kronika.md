@@ -7291,3 +7291,6 @@ Symon powiększył udział Hala i nadał mu pełne młodsze wspólnictwo — z o
 
 ## 297-11-23 RANEK — Dzień Matki, cichy spokój
 Zimny, spokojny dzień, Dzień Matki. Inbox cichy — żadnego pilnego posłańca, rzadki spokój. Wszystko samobieżne: firma kwitnie (Hal wspólnik), relief-instytucja niesie, maszyna mieli, stały warrant płynie, Bertram rozbrojony. Dobry dzień na Wiarę, rodzinę, umysł i odpoczynek. Mira przy nadziei pod opieką. Elewacja na torze, traktat ku Winterfell, refi sprimowany na wiosnę.
+
+## 297-11-23 RANEK→POŁUDNIE — Dzień Matki u Owena, powierzona nowina (rzut 55)
+Ciepły, spokojniejszy niż tamten Dzień Matki: Symon pomógł przy rozdawaniu, choć relief-instytucja niesie się teraz sama — był jedną z wielu rąk, model działa. Owen miał czas, i z cichą dumą spojrzeli na to, czym relief się stał — z worka Symona w samowystarczalną instytucję Wiary i koalicji — oraz na ścieżkę Symona. A Symon, poruszony dniem i ojcowską obecnością Owena, powierzył mu prywatnie nowinę: Mira przy nadziei. Owen, przepełniony radością, pobłogosławił cicho i doradził ostrożność (echo zielarki — modlić się i pilnować, trzymać w tajemnicy, aż się ugruntuje): „Połączyłem was, a Matka daje wam trzeciego; w tym roku widziałem twoją duszę rosnąć aż po to". Krąg wtajemniczonych — Symon, Mira, zielarka, Owen — pozostaje dyskretny. Owen nast 96→97.

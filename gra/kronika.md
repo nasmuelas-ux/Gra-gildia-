@@ -7309,3 +7309,6 @@ Rewan wrócił z częściową, wcześniejszą spłatą (~25 jel, kasa 193) — g
 
 ## 297-11-24 POŁUDNIE→POPOŁUDNIE — mały zabezpieczony mostek dla Weslara (rzut 37)
 Symon pożyczył Weslarowi mały, zabezpieczony mostek (~15 jel pod kolateral, uczciwe terminy, lekki procent) — dopasowany do jego cieńszej sytuacji, mądrze, nie w ciemno. Weslar głęboko wdzięczny i lojalny, jak Rewan; staje się kolejnym lojalnym dłużnikiem i referrerem (68/32). Linia kredytowa rośnie ostrożnie, reputacja uczciwego wierzyciela pogłębia się, a war-chest ledwo tknięty — 15 jel pod zabezpieczenie to aktyw odzyskiwalny z procentem, nie strata. Z Rewanową wcześniejszą spłatą dzień wyszedł na plus (+10 netto). Dyscyplina zachowana: małe i zabezpieczone nie rozdrabnia płynności na wiosenny refi.
+
+## 297-11-24 POPOŁUDNIE→WIECZÓR — steward-obchód: maszyna śpiewa (rzut 89)
+Obchód pokazał całą operację mielącą wzorowo — castle-first na stałym warrancie, holdingi multi-source i depot, relief-instytucja, guided-haul, firma z Halem-wspólnikiem kwitnąca, świeża linia kredytowa (Rewan, Weslar). Symon wypatrzył optymalizację i domknął cykl (+8, kasa 186), a zima pozostaje nieskazitelna — żadnego kąta dla Bertrama, dokładnie ten target, który daje elewację. Operacja jest już samobieżna na wysokim poziomie, co czyni Symona wolnym. Włodarstwo dojrzewa (licznik →92).

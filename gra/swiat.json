@@ -5,12 +5,12 @@
   "dzien": 24,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "WIECZOR",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 26,
  "dzien_tygodnia_nr": 1,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-24 POPOLUDNIE (rzut 37, pozyczka Weslarowi): Symon dal maly ZABEZPIECZONY mostek ~15 jel pod kolateral (dopasowany do cienszej sytuacji Weslara - madre, nie blank bridge). Weslar gleboko wdzieczny+lojalny (jak Rewan), staje sie kolejnym lojalnym dluznikiem/referrerem (68/32). Linia kredytowa rosnie OSTROZNIE, reputacja uczciwego wierzyciela glebiej; war-chest ledwo tkniety (15 zabezpieczone=odzyskiwalne z procentem). Kasa 193->178. Rewan splacil +25 wczesniej. Kasa netto dnia +10. staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei, elewacja na torze, refi sprimowany. Dyscyplina trzymana (male+zabezp).",
+ "nastroje_miasta": "297-11-24 WIECZOR (rzut 89, steward-obchod - maszyna spiewa): cala operacja mieli wzorowo - castle-first staly warrant, holdingi multi-source/depot, relief-instytucja, guided-haul, firma (Hal wspolnik, kwitnie), linia kredytowa (Rewan/Weslar). Strong: wypatrzyl optymalizacje+zrealizowal cykl (~+8, kasa 178->186), zima NIESKAZITELNA (zero kata dla Bertrama). Operacja samobiezna na wysokim poziomie=Symon wolny. wlodarstwo licznik ->92 (lvl8 ~125). Kasa 186, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei, Bertram rozbrojony, Hal wspolnik, elewacja na torze, traktat w lancuchu, refi sprimowany. Dyscyplina trzymana.",
  "ceny": {
   "chleb": {
    "baza": 3,

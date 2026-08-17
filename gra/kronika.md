@@ -7273,3 +7273,6 @@ Po posiłku Symon obszedł maszynę — wszystko mieli równo (castle-first na s
 
 ## 297-11-21 POPOŁUDNIE→WIECZÓR — nauka finansów i matematyki (rzut 70)
 Produktywna wieczorna sesja nad głębszą matematyką monety i ryzyka (rama Theomore'a, braavijskie teksty) — finanse dojrzewają (licznik →69; poziom 7 przy ~90), z wglądem przydatnym do matematyki wiosennego refi. Dzień spokojny i czysty domknięty: pielęgnacja sieci (lojalność + intel), steward bez rysy, nauka. Zima jako czas dla umysłu wykorzystana raz jeszcze.
+
+## 297-11-21 WIECZÓR — zajęcie się Mirą
+Symon poświęcił wieczór Mirze — ciepłe mleko z miodem, odpoczynek, okrycie; nie pozwolił jej wstać do niczego. Po tygodniach zaciętej samodzielności Mira powoli pozwala się zaopiekować, i to dla niej równie nowe, jak dla niego. Ciche rozmowy o przyszłości, której jeszcze nie śmieją nazywać na głos w dzień: izba przy Schodach jako dziecięcy pokój, Alys (też przy nadziei) jako towarzyszka Miry. Nie wypowiadają imion, nie planują za daleko — zielarka radziła trzymać nadzieję delikatnie — ale przyszłość zaczyna być wyobrażana. Mira zasnęła spokojniejsza niż od tygodni, wreszcie bezpieczna. A Symon czuwał chwilę z jedną myślą: że wszystko, co zbudował, ma teraz dokąd prowadzić — nie tylko w górę, lecz do domu.

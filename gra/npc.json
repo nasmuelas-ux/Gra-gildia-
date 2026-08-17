@@ -2457,10 +2457,22 @@
    "imie": "kupiec Rewan",
    "zawod": "drobny kupiec, zima scisnela obrot; dluznik weksla Symona",
    "nastawienie_do_gracza": 72,
-   "zaufanie": 40,
-   "ostatni_kontakt": "297-11-18",
+   "zaufanie": 45,
+   "ostatni_kontakt": "297-11-24",
    "wie_o_graczu": [
-    "297-11-18 (rzut 41): sciśniety zima, nie mogl splacic weksla - przyszedl SAM, uczciwie, prosic o czas. Symon PRZEDLUZYL PO LUDZKU: uczciwe nowe terminy, lekki procent za zwloke, ZERO wstydu/nacisku ('splacisz gdy odwilz ruszy obrot'). Rewan gleboko wdzieczny+lojalny - Symon podal reke w mrozie gdy mogl przycisnac. Drobny earnest dobrej woli +2. WEKSEL zabezpieczony przez GOODWILL nie zastaw. REPUTACJA: 'Tally daje czas w mroz'=uczciwy wierzyciel (cenne dla rosnacego kredytowania/faktorii), tarcza slabych+uczciwe liczby razem. Rewan=lojalny kontakt/przyszly klient/referrer. nast 72, zauf 40."
+    "297-11-18 (rzut 41): sciśniety zima, nie mogl splacic weksla - przyszedl SAM, uczciwie, prosic o czas. Symon PRZEDLUZYL PO LUDZKU: uczciwe nowe terminy, lekki procent za zwloke, ZERO wstydu/nacisku ('splacisz gdy odwilz ruszy obrot'). Rewan gleboko wdzieczny+lojalny - Symon podal reke w mrozie gdy mogl przycisnac. Drobny earnest dobrej woli +2. WEKSEL zabezpieczony przez GOODWILL nie zastaw. REPUTACJA: 'Tally daje czas w mroz'=uczciwy wierzyciel (cenne dla rosnacego kredytowania/faktorii), tarcza slabych+uczciwe liczby razem. Rewan=lojalny kontakt/przyszly klient/referrer. nast 72, zauf 40.",
+    "297-11-24 (rzut 36): wrocil z CZESCIOWA WCZESNIEJSZA splata (~25 jel) - odwilz ruszyla obrot, splaca Symona PRIORYTETOWO z wdziecznosci; chwiejba z 11-16 rozwiazana pozytywnie, weksel zdrowy, splaci reszte. Przyprowadzil znajomego kredytobiorce (reputacja 'Tally daje uczciwy czas'). Lojalny, staje sie referrerem. zauf ->45."
+   ]
+  },
+  {
+   "id": "kupiec_weslar",
+   "imie": "kupiec Weslar",
+   "zawod": "drobny kupiec (polecony przez Rewana), zima scisnela obrot; szuka mostka",
+   "nastawienie_do_gracza": 58,
+   "zaufanie": 22,
+   "ostatni_kontakt": "297-11-24",
+   "wie_o_graczu": [
+    "297-11-24 (rzut 36, vet): Symon przeswietlil - Weslar UCZCIWY w intencji (jak Rewan, winter-squeezed), ale sytuacja CIENSZA/nieco RYZYKOWNIEJSZA (mniej kolateralu, branza bardziej odsłonieta). READ: pozyczalny ALE tylko MALO i/lub ZABEZPIECZONE (nie blank bridge). Symon ma jasnosc do decyzji. Nie oszust - po prostu ciensza poduszka."
    ]
   }
  ],

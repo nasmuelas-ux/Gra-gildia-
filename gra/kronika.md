@@ -7312,3 +7312,6 @@ Symon pożyczył Weslarowi mały, zabezpieczony mostek (~15 jel pod kolateral, u
 
 ## 297-11-24 POPOŁUDNIE→WIECZÓR — steward-obchód: maszyna śpiewa (rzut 89)
 Obchód pokazał całą operację mielącą wzorowo — castle-first na stałym warrancie, holdingi multi-source i depot, relief-instytucja, guided-haul, firma z Halem-wspólnikiem kwitnąca, świeża linia kredytowa (Rewan, Weslar). Symon wypatrzył optymalizację i domknął cykl (+8, kasa 186), a zima pozostaje nieskazitelna — żadnego kąta dla Bertrama, dokładnie ten target, który daje elewację. Operacja jest już samobieżna na wysokim poziomie, co czyni Symona wolnym. Włodarstwo dojrzewa (licznik →92).
+
+## 297-11-25 RANEK — dom sukna Miry cicho rośnie; faza maintain
+Pogodniejszy dzień. Lekki, ciepły inbound: dom sukna Miry cicho znajduje grunt — jej krąg kobiet działa, Berena i inne panie składają zamówienia na ciepłe sukno przez herbaciane rozmowy, a Mira prowadzi to z fotela (ciężkie na najętych rękach, zgodnie z opieką nad ciążą). Jej imię krąży niezależnie. W tle maszyna śpiewa, firma kwitnie, relief niesie, warrant płynie. Gra weszła w wyraźną fazę maintain — wielkie okna (elewacja u lorda na koniec zimy, refi na wiosnę, odpowiedź maesterów za tygodnie, dziecko ~lato 298) są jeszcze daleko.

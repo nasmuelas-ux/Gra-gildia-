@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 24,
+  "dzien": 25,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 26,
- "dzien_tygodnia_nr": 1,
- "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-24 WIECZOR (rzut 89, steward-obchod - maszyna spiewa): cala operacja mieli wzorowo - castle-first staly warrant, holdingi multi-source/depot, relief-instytucja, guided-haul, firma (Hal wspolnik, kwitnie), linia kredytowa (Rewan/Weslar). Strong: wypatrzyl optymalizacje+zrealizowal cykl (~+8, kasa 178->186), zima NIESKAZITELNA (zero kata dla Bertrama). Operacja samobiezna na wysokim poziomie=Symon wolny. wlodarstwo licznik ->92 (lvl8 ~125). Kasa 186, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei, Bertram rozbrojony, Hal wspolnik, elewacja na torze, traktat w lancuchu, refi sprimowany. Dyscyplina trzymana.",
+ "pogoda": 69,
+ "dzien_tygodnia_nr": 2,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-11-25 RANEK (lagodnie 69; INBOUND 66 lekki): pogodniejszy dzien. INBOUND lekki-cieply: dom sukna Miry cicho znajduje grunt - jej krag kobiet dziala (Berena+inne panie skladaja zamowienia na cieple sukno przez herbaciane rozmowy; Mira prowadzi z fotela, ciezkie na najetych rekach). Jej imie krazy niezaleznie. Poza tym: maszyna spiewa, firma kwitnie (Hal wspolnik), relief-instytucja, staly warrant. Kasa 186, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei. FAZA MAINTAIN: wielkie okna (elewacja=koniec zimy, refi=wiosna, odpowiedz maesterow=tygodnie, dziecko=lato 298) DALEKO - opcja montazu/skoku czasu dostepna na zyczenie gracza (Tryb B/pelna granulacja wciaz domyslny). Dyscyplina trzymana.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.3,
-   "przyczyna": "mroz (26)"
+   "mnoznik": 1.15,
+   "przyczyna": "lagodniej (69)"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 24,
+ "dzien": 25,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

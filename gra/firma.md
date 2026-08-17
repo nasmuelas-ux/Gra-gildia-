@@ -211,3 +211,7 @@ _Gracz: "co tak mało?" — słuszne pytanie o skalę. Odpowiedź: +54 to TYLKO 
 - Prowiant zamek (Wylis): z ~45/mies (proof) -> STALY warrant ~65/mies. Niezastepowalnosc FORMALNA (pieczec), rygorystyczne klauzule (kara/pochodzenie/etapowanie=rywal nie skopiuje). Capstone arki prowiantowej (jesienna 'wolna pojemnosc na probe' -> stala umowa zamku).
 - Podnosi GROSS netto ~+20/mies vs poprzednio. Wylis obiecal slowo lordowi (elewacja dojrzewa).
 - Firewall: prowiant czysto; Braavos/Antaryon w mroku. Wylis = potencjalny przyszly sojusznik refi (poznawany, nie ruszany).
+
+
+## UDZIAL HALA POWIEKSZONY - 297-11-22 (rzut 92)
+- Hal (sierota->operator na udziale 07-28) awansowany na PELNE MLODSZE WSPOLNICTWO z powiekszonym udzialem w zyskach firmy faktorskiej. Symon oddal slice swojego 2/3 (maly ubytek jego draw, z nawiazka pokryty wzrostem firmy pod Halem). Nesta 1/3 nietknieta. Zaangazowany wspolnik-wlasciciel = firma jeszcze samobiezniejsza. Lancuch Owena: sierota->wspolnik. Lojalnosc+instytucja+legacy > utracone kilka jeleni draw.

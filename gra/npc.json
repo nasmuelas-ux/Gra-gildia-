@@ -1478,10 +1478,10 @@
    "imie": "Hal",
    "przydomek": "",
    "wiek": 14,
-   "zawod": "sierota ze szkolki Owena; bystry, juz pismienny/rachujacy [07-28: AWANSOWANY - prowadzi rutynowe biurko na UDZIALE (nie pensji); mentoruje Tama]",
+   "zawod": "PELNY MLODSZY WSPOLNIK firmy faktorskiej (od 297-11-22, powiekszony udzial z operatorskiego) - prowadzi firme; mentoruje Tama. Byl: sierota szkolki Owena -> klerk -> operator na udziale (07-28) -> wspolnik (11-22).",
    "mieszka": "izba_3_kamieniczki_Symona (od 297-03-27; wyprowadzil sie z przytulku Septy)",
-   "nastawienie_do_gracza": 97,
-   "zaufanie": 74,
+   "nastawienie_do_gracza": 99,
+   "zaufanie": 78,
    "wie_o_graczu": [
     "Symon uczy w szkolce; 'ten pisarz Septy'",
     "pierwsza rozmowa cierpka — poczul sie poprawiany/protekcjonowany przez waznego pisarza",
@@ -1530,7 +1530,8 @@
     "297-06-09 (uhonorowanie daru): Hal zgodzil sie dzielic izbe 3 z Wickiem (dar - jego pierwszy wlasny kat). Symon uhonorowal MADRZE (lekcja 05-30): NIE jalmuzna - obnizka czynszu jako ZAPLATA ZA USLUGE (\"dajesz dach memu klerkowi, kto gosci cudza sprawe temu sie odejmuje - nie bierzesz, DAJESZ\") + szczere po ludzku dzieki (\"wiem co ci oddaje, nie biore za nic\"). Trafil w oba nerwy: uhonorowany jako DAJACY nie zalowany jako bioracy. Drugi raz z rzedu przez dume Hala szacunkiem nie lomem. Hal zaoferowal uczyc Wicka liter. Wiez poglebiona. nast 90->92.",
     "297-06-18: Symon zaaranzowal, ze Serla (cooper-wdowa, matczyna) gotuje im i doglada za zaplate - koniec jedzenia jak popadnie, matczyna obecnosc w izbie 3.",
     "297-10-02 (rzut 100 KRYT): Symon zaszedl sprawdzic operacjonalizacje warrantu prowiantowego lorda - Hal PRZEWIDZIAL i przygotowal WSZYSTKO sam: ksiegi pod pieczecia Manderly'ego gotowe, dostawcy (Merrek/Torwyn) i sztauowanie (Aurane) zgrane, plan lorda plynie od dnia pierwszego - nic do poprawy. Biurko pociagnelo bez Symona przez cala wojne z pierscieniem; linia audytow domknela tluste zlecenie (+22 jel). Tam ronie pod Halem (junior). Chlopiec przestal byc czeladnikiem - jest OPERATOREM. Lancuch Owena spelniony: sierota wyrosla w niezaleznosc. nast 94->96, zauf 67->72.",
-    "297-11-22 (rzut 95): doglad firmy - HAL ROZKWITL jako operator. KOREKTA (gracz): Hal JUZ NA UDZIALE od 07-28 (nie pensja) = funkcjonalnie mlodszy wspolnik, nie pracownik. Gdy Symon dogladal rodziny/dworu/nauki, Hal prowadzil firme co UROSLA (audyty+nisza suchego towaru samobiezny pipeline+retainery+nowi klienci, +22 do banku). Wiec nie 'zrobic go partnerem' (juz udzialowiec) lecz UZNAC WZROST: powiekszyc jego udzial / formalny tytul-standing skoro tak urosl i niesie. Instytucja samobiezna. zauf 72->74. Lancuch Owena (sierota->udzialowiec-operator->?wiekszy udzial/wspolnik pelny) dojrzewa."
+    "297-11-22 (rzut 95): doglad firmy - HAL ROZKWITL jako operator. KOREKTA (gracz): Hal JUZ NA UDZIALE od 07-28 (nie pensja) = funkcjonalnie mlodszy wspolnik, nie pracownik. Gdy Symon dogladal rodziny/dworu/nauki, Hal prowadzil firme co UROSLA (audyty+nisza suchego towaru samobiezny pipeline+retainery+nowi klienci, +22 do banku). Wiec nie 'zrobic go partnerem' (juz udzialowiec) lecz UZNAC WZROST: powiekszyc jego udzial / formalny tytul-standing skoro tak urosl i niesie. Instytucja samobiezna. zauf 72->74. Lancuch Owena (sierota->udzialowiec-operator->?wiekszy udzial/wspolnik pelny) dojrzewa.",
+    "297-11-22 (rzut 92): Symon POWIEKSZYL udzial Hala i nadal PELNE MLODSZE WSPOLNICTWO (z operatora-na-udziale). Dla sieroty-bez-nazwiska, ktory wierzyl ze marzenie=zakazany luksus (dream-wound d29) - REALNY UDZIAL+STANDING+uznanie ze MA cos wlasnego = dream-wound GLEBOKO sie goi. Hal (jego guarded sposob) przytloczonyy: nie umie tego ubrac w slowa, tylko 'ja... dziekuje, panie Symon' lamiacym glosem. LOJALNOSC do szpiku (zwiazany nie udzialem lecz tym ze Symon go zobaczyl/podniosl/uczynil KIMS). Lancuch Owena SPELNIONY: sierota->wspolnik; Hal zobowiazuje sie podnosic nastepnego (Tam). Firma=jeszcze silniejsza (zaangazowany wspolnik-wlasciciel niesie ja). nast 97->99, zauf ->78."
    ],
    "ostatni_kontakt": "297-11-22",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",

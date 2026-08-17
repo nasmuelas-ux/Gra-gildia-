@@ -164,7 +164,7 @@
   "spryt_uliczny": 130,
   "handel": 157,
   "geometria": 22,
-  "finanse": 105,
+  "finanse": 108,
   "wlodarstwo": 108
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
@@ -270,8 +270,8 @@
    "status": "w_toku",
    "rozpoczeta": "297-12-16",
    "cel": "twarde dowody matematyczne - przekuc 'interesujace-nieudowodnione' w 'ustalone'; odpowiedz na mieszany list maesterow",
-   "postep": "SESJA 3 (rzut 4): SCIANA. Prubujac udowodnic w pelni krok, ktory dotad zakladal za oczywisty (ten, ktory Theomore wczoraj flagowal jako 'przeskok'), Symon odkryl ze to nie luka W WYKLADZIE lecz REALNA DZIURA w dowodzie - most miedzy praktycznym rachunkiem a formalnym dowodem jest twardszy niz sadzil. Zero postepu naprzod; za to GRANICA metody widoczna (samo w sobie wiedza). Problem do rozwiazania NIM Rozprawa ruszy dalej - moze potrzeba Theomore/nowego wgladu/uczciwego przyznania limitu.",
-   "sesje": 3
+   "postep": "SESJA 4 (rzut 73, z Theomore'em): SCIANA STAJE SIE DRZWIAMI. Maester nie wreczyl dowodu - pokazal ze Symon probowal DOWIESC ZA DUZO. Krok jest nieudowadnialny JAK POSTAWIONY, bo to overreach. FIX (cytadelowy sposob): albo ZWEZIC twierdzenie do tego co realnie prawdziwe+dowodliwe, albo uczynic zalozenie JAWNA PRZESLANKA (nie ukryta). Dowod przezywa przez UCZCIWE ZAKRESOWANIE, nie brutalna sile. Rym z etosem Symona (oznaczac niedowodliwe zamiast gladkiej bajki). Theomore GLEBOKO pod wrazeniem ze Symon sam trafil w prawdziwy crux. Sciana skruszona - Rozprawa moze ruszyc na uczciwie zwezonym twierdzeniu.",
+   "sesje": 4
   }
  }
 }

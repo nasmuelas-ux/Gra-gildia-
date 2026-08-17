@@ -2490,6 +2490,18 @@
    "wie_o_graczu": "rachmistrz Wiary, uczciwy wierzyciel, wspolnik kantoru Nesty",
    "potrzeby": "finansowanie sezonowe, czyste rozliczenia, reputacja uczciwego mlynarza",
    "nota": "KOTWICA sredniego tieru (anty-koncentracja). Przyszedl sam, przyciagniety reputacja. Solidny, samodzielny, volume-business, ZERO zaleznosci od warrantu zamku - dokladnie ten typ, ktory rozklada ciezar z kasztelana Wylisa. Za nim, przez slowo cechowe, ida ciepli lead: mistrz-bednarz i swiecarz (chandler) - tier zaczyna sie formowac. | 297-12-16 WIECZOR: nie tylko klient kredytowy - takze KONTRAHENT ZIARNA faktorii (mlyn kupuje/sprzedaje) = drugi kanal przychodu faktorii niezalezny od zamku."
+  },
+  {
+   "id": "swiecarz_corwin",
+   "imie": "Corwin",
+   "zawod": "swiecarz (chandler) - swiece lojowe/woskowe, NIEZALEZNY od zamku; zima=jego sezon (dlugie noce, swieta Wiary, septy kupuja hurtem)",
+   "nastawienie_do_gracza": "cieply-rzeczowy - przyszedl na sławe uczciwego rachmistrza (przez Garreta/cech); solidny, nie w potrzebie lecz chce porzadku",
+   "zaufanie": 20,
+   "ostatni_kontakt": "297-12-18 - DRUGA KOTWICA sredniego tieru (po Garrecie); wziety jako klient (rzut 52)",
+   "cechy_mowy": "rzeczowy, praktyczny; mysli sezonami ('lato robie zapas loju, zima licze zlota')",
+   "wie_o_graczu": "rachmistrz Wiary, uczciwy wierzyciel, wspolnik kantoru Nesty; NIE ten sam co Denys (swiecarz Owena)",
+   "potrzeby": "uczciwe rozliczenie hurtowych kontraktow (septy/Wiara), zarzadzanie sezonowym cashflow (lato-koszt loju vs zima-przychod), porzadek ksiag",
+   "nota": "DRUGA KOTWICA sredniego tieru (anty-koncentracja), po mlynarzu Garrecie. Kontrast z bednarzem: swiecarz w SWOIM sezonie=solidny, niezalezny od warrantu zamku, volume przez popyt zimowy+instytucjonalny (septy hurt). Wziety jako klient 297-12-18 (rzut 52): uczciwe rozliczenia + zarzadzanie sezonowym cashflow. UWAGA firewall/granica: NIE dotykac ukladu Denys-Owen (30 lat wiernosci, off-limits wg nauki 06-04) - Corwin to INNY swiecarz, wolny rynek. Tier: Garret(mlyn)+Corwin(swiece), oba castle-independent, oba sezonowo solidne."
   }
  ],
  "orbita": [

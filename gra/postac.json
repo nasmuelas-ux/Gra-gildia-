@@ -8,7 +8,7 @@
  "mieszka": "ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 52,
+ "sytosc": 72,
  "zmeczenie": 1,
  "sakiewka": {
   "miedziaki": 1,
@@ -164,7 +164,7 @@
   "spryt_uliczny": 130,
   "handel": 157,
   "geometria": 22,
-  "finanse": 123,
+  "finanse": 124,
   "wlodarstwo": 117
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
@@ -270,8 +270,8 @@
    "status": "w_toku",
    "rozpoczeta": "297-12-16",
    "cel": "twarde dowody matematyczne - przekuc 'interesujace-nieudowodnione' w 'ustalone'; odpowiedz na mieszany list maesterow",
-   "postep": "SESJA 6 (rzut 96 KRYT): PRZELOM. Glebsze partie, ktore grozily kolejna sciana, ROZWINELY sie znakomicie - metoda (zwezic->nazwac przeslanke->dowiesc) UOGOLNILA sie na cala strukture. Symon nie tylko domknal glebsza sekcje, ale ZOBACZYL jak calosc sie spina: dowod ma teraz kregoslup + rdzen + rozwiniete filary, spojne. Rozprawa przeszla z 'zaczetej' w 'w wyraznym ksztalcie' - blisko polowy dziela stoi rygorystycznie. To jego zywiol; praca spiewa.",
-   "sesje": 6
+   "postep": "SESJA 7 (rzut 29, mozolna): dzien grindu - glebsza sekcja stawia lekki opor, dowod idzie ciezko, krok za krokiem bez skoku. Symon pchnal go odrobine naprzod (nie sciana, nie regres), ale zadnego olsnienia. ~polowa+ stoi. Mastery finansow tantalizujaco blisko (licznik 124/125) - ale nie dzis; grind day odmowil kamienia milowego o wlos.",
+   "sesje": 7
   }
  }
 }

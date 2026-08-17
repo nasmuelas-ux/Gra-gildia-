@@ -7406,3 +7406,6 @@ Dzień 12-19 zamknięty (bezbłędna dostawa do Edwyda — trzeci węzeł doliny
 
 ## 297-12-20 RANEK — wiadomości: Rhona jedzie (rzut 47)
 Poranny przegląd wieści przyniósł jedną, która znaczy najwięcej: **Rhona odpisała.** Ciepło i po swojemu, bez ceregieli — „już się pakuję, czemu dopiero teraz piszecie, wiedziałam, że coś przed sobą ukrywacie". Wyrusza od razu; zimowy dojazd z miasteczka to jakieś dwa-trzy dni. Uradowana i zaborczo-troskliwa, jak siostra strzegąca. Mira ucieszona — opieka nad ciążą rusza we właściwej formie: siostra, nie obca. Poza tym dzień spokojny: operacja mieli równo (druga noga pod Halem, pierwszy cykl rozliczeń Garreta czysty), nic dramatycznego.
+
+## 297-12-20 RANEK→POŁUDNIE — Rozprawa: dzień mozołu (rzut 29)
+Po przełomowej sesji sprzed dnia Symon trafił na jej przeciwieństwo (rzut 29, mozolna): głębsza sekcja stawiła lekki opór, dowód szedł ciężko, krok za krokiem, bez skoku. Nie ściana — pchnął go odrobinę naprzód — ale i żadnego olśnienia; jeden z tych dni, gdy praca jest po prostu pracą. I gorzka ironia: jest o włos od mistrzostwa (finanse licznik 124/125), tak blisko, że prawie czuje ten próg — ale grind day odmówił mu kamienia milowego o jeden krok. Mastery tuż-tuż, lecz nie dziś. finanse licznik →124.

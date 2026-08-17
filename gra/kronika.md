@@ -7403,3 +7403,6 @@ Po powrocie z doliny Symon zajrzał do Brana — dozorcy kamieniczki, tragarza, 
 ## 297-12-19 NOC → 12-20 RANEK — sen; cło portowe
 Dzień 12-19 zamknięty (bezbłędna dostawa do Edwyda — trzeci węzeł doliny, Rozprawa w połowie, kufel u Brana). Symon zasnął przy Mirze.
 **12-20 RANEK:** umiarkowany zimowy dzień — pogoda 67 (respite lekko się domyka, ale wciąż znośnie), zdarzenie 64 (spokojnie). Brak targu, brak święta. **Cło portowe** dziś (~20-ty): −10 jel, kasa 278→268. finanse licznik 123 — o krok od poziomu 8. W toku: Rozprawa (głębsze sekcje), Edwyd świeży klient, delegacja Tam/Wick, Mira ~6-7 tydz. (Rhona w drodze).
+
+## 297-12-20 RANEK — wiadomości: Rhona jedzie (rzut 47)
+Poranny przegląd wieści przyniósł jedną, która znaczy najwięcej: **Rhona odpisała.** Ciepło i po swojemu, bez ceregieli — „już się pakuję, czemu dopiero teraz piszecie, wiedziałam, że coś przed sobą ukrywacie". Wyrusza od razu; zimowy dojazd z miasteczka to jakieś dwa-trzy dni. Uradowana i zaborczo-troskliwa, jak siostra strzegąca. Mira ucieszona — opieka nad ciążą rusza we właściwej formie: siostra, nie obca. Poza tym dzień spokojny: operacja mieli równo (druga noga pod Halem, pierwszy cykl rozliczeń Garreta czysty), nic dramatycznego.

@@ -215,3 +215,6 @@ _Gracz: "co tak mało?" — słuszne pytanie o skalę. Odpowiedź: +54 to TYLKO 
 
 ## UDZIAL HALA POWIEKSZONY - 297-11-22 (rzut 92)
 - Hal (sierota->operator na udziale 07-28) awansowany na PELNE MLODSZE WSPOLNICTWO z powiekszonym udzialem w zyskach firmy faktorskiej. Symon oddal slice swojego 2/3 (maly ubytek jego draw, z nawiazka pokryty wzrostem firmy pod Halem). Nesta 1/3 nietknieta. Zaangazowany wspolnik-wlasciciel = firma jeszcze samobiezniejsza. Lancuch Owena: sierota->wspolnik. Lojalnosc+instytucja+legacy > utracone kilka jeleni draw.
+
+## DRUGA NOGA FAKTORII (anty-koncentracja) — od 297-12-16
+Reckoner's eye ujawnil, ze faktoria (jak prywatne lending Symona) wisi glownie na prowiancie zamku = jeden wieloryb, pieczec Wylisa pod spodem. Ruch: otworzyc DRUGI KANAL przychodu spolki niezalezny od zamku — (1) prywatne prowiantowanie (kupcy, gospodarze, cechy), (2) sieć polnocno-ladowa jako ODBIORCY, nie tylko dostawcy, (3) mlynarz Garret jako staly kontrahent ziarna (mlyn kupuje/sprzedaje). HAL-wspolnik dostaje ten front do prowadzenia (wzrost odpowiedzialnosci). Wieksze naczynie obraca sie wolniej niz prywatna sakiewka (rzut 67 vs 94), castle-share nadal realny przez staly warrant, ale DRUGA NOGA zaczyna rosnac - ciezar schodzi z jednej relacji.

@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 12,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 20,
- "dzien_tygodnia_nr": 2,
+ "pogoda": 58,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": null,
- "nastroje_miasta": "297-12-16 RANEK (MONTAZ ~3 tyg 11-25->12-16; gleboka zima grudnia, pogoda 20; INBOUND: pierwsza odpowiedz z lancucha maesterow). MONTAZ (rzut 72, okres MOCNY): nauka codzienna->FINANSE 6->7; zarobkowanie+pasywne+operacyjne+lending->kasa 186->278; staple aprecjuje 32->40 (sol scisk); maszyna spiewa (zero katastrof), zima NIESKAZITELNA (Bertram bez ruchu, elewacja dojrzewa dalej); relief-instytucja niesie; Rewan/Weslar splacaja; dom sukna Miry rosnie cicho przez krag kobiet. MIRA: ~6-7 tydzien, przeszla najkruchszy window BEZPIECZNIE, zaczyna sie zaokraglac, mdlosci lżej, nadzieja mocniejsza. LANDING BEAT (rzut 24, maester-odpowiedz MIESZANA): pierwsza wiesc z lancucha wrocila - szacunek+powaznie potraktowana (sponsorstwo Theomore zadzialalo), ALE reception OSTROZNA/mieszana: praktyczne/audytowe partie chwalone jako sound+uzyteczne, lecz FRONTIER risk-math meet KONSERWATYZMEM Cytadeli (nieortodoksyjne, 'wymaga rygoru', 'kto ten nieznany gbur') - nie odrzucone nie ukoronowane, filed 'interesujace-nieudowodnione-obserwowac'. Drzwi uchylone (znaja imie), ale ACCLAIM POWOLNY, do zapracowania; nowe idee id pod prad. Kasa 278, finanse 7, wlodarstwo 7, staple 40. Mira przy nadziei. Elewacja na torze (koniec zimy), refi sprimowany (wiosna). Dyscyplina.",
+ "nastroje_miasta": "297-12-17 RANEK. Zwykly zimowy dzien - pogoda 58 (umiarkowanie: mroz zelzal po grudniowej fali 20, ale zima trwa; nie zabojczy chlod, nie jasna odwilz - po prostu znosny szary dzien). Zdarzenie 48 (spokojnie, nic dramatycznego). Miasto ladu je spichrze, port pracuje wolno, przednowek jeszcze daleko ale maesterski cien zimy gesty. Symon wyspany po pelnym, dobrym dniu 12-16 (Rozprawa zaczeta, ryzyko koncentracji wykryte+mitygowane obu frontami, lawka zlewarowana). W toku: Rozprawa z dowodami (sesja 2), druga noga faktorii pod Halem/Tamem rosnie, kotwica Garret+leady cechowe, delegacja rampuje. Mira ~6-7 tydz ciazy, bezpieczna.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 16,
+ "dzien": 17,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

@@ -7396,3 +7396,6 @@ Symon odpalił próbną dostawę do Głębokiego Brodu — i tym razem, po rekon
 
 ## 297-12-19 POPOŁUDNIE→WIECZÓR — powrót do Białego Portu (odpoczynek)
 Po bezbłędnej dostawie i pozyskaniu ser Edwyda Symon odpoczął i wrócił doliną do miasta. Łagodny dzień zszedł ku zmierzchowi; spokojna droga, głowa lekka o jeden domknięty węzeł sieci. Wraca do Białego Portu na wieczór — port cichnie, izby ciepłe.
+
+## 297-12-19 WIECZÓR — kufel u Brana (rzut 73)
+Po powrocie z doliny Symon zajrzał do Brana — dozorcy kamieniczki, tragarza, którego kiedyś podniósł. Ciepła, ludzka wizyta (rzut 73). Bran kwitnie: kamieniczka mieli spokojnie (Jonna, Osric i Hal płacą, izby całe, ogródek), relief-logistyka (dowóz do drzwi) idzie mu gładko, Alys przy nim. Prosta duma człowieka, który ma własny kąt i robotę, i już nie tonie zimą jak kiedyś. Dwóch ludzi, którzy przyszli z niczego — Symon świeżo z trzeciego węzła doliny, Bran z tragarza w dozorcę — przy kuflu, bez interesu, po ludzku. Więź głębnie.

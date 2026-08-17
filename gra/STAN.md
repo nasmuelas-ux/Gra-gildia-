@@ -67,7 +67,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 ## LUDZIE NA SCENIE (nast. do gracza)
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 70
 - **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 79
-- **Bran** (bran_tragarz) — ZAUFANY ZARZADCA-SPINACZ Symona (majordomus): zarzadca domu+ · nast 97
+- **Bran** (bran_tragarz) — ZAUFANY ZARZADCA-SPINACZ Symona (majordomus): zarzadca domu+ · nast 99
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 92
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 37
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3

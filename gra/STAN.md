@@ -2,14 +2,14 @@
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
 ## TERAZ
-- **Data:** 297-11-24 POLUDNIE · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
+- **Data:** 297-11-24 POPOLUDNIE · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
-- **Nastroje:** 297-11-24 POLUDNIE (rzut 36, Rewan splata + vet Weslara): Rewan wrocil z czesciowa wczesniejsza splata (~25, kasa 168->193) - priorytetowo z wdziecznosci, chwiejba z 11-16 rozwiazana, weksel zdrowy, l
+- **Nastroje:** 297-11-24 POPOLUDNIE (rzut 37, pozyczka Weslarowi): Symon dal maly ZABEZPIECZONY mostek ~15 jel pod kolateral (dopasowany do cienszej sytuacji Weslara - madre, nie blank bridge). Weslar gleboko wdziec
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 193 jeleni + 1 mied + 0 smokow
+- **Wolne:** 178 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -37,6 +37,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
 - PROWIANTOWANIE ZIMOWE ZAMKU - FORMALIZOWANE PIECZECIA LORDA MANDERLY (297-09-30): to co Aldric blokowal, lord nadal sam pelnym warrantem; firma bierze zimowe prowiantowanie zamku pod pieczecia Manderly'ego. Drzwi, ktore wrog trzymal, otworzyl LORD. Niezastepowalnosc formalna, nie tylko de facto.
 - UCHO LORDA WYMANA MANDERLY (od 297-09-30): lord zna imie Symon Tally DOBRZE i z szacunkiem (rozdal chwale zamiast zagarnac); drzwi domu lorda uchylone dla nieszlachcica; wezwanie 'przyjdziesz gdy po ciebie posle'. PIERWSZY prawdziwy szczebel drabiny do rady Starkow (Manderly=najpotezniejszy chorazy Starkow). Gwiazda polnocna z marzenia w droge.
 - 297-11-24 ROZWIAZANE POZYTYWNIE: Rewan splacil czesc wczesniej (~25), chwiejba z 11-16 zazegnana, reszte splaci - weksel zdrowy, goodwill+reputacja uczciwego wierzyciela procentuja (naplyw kredytobiorcow).
+- 297-11-24: maly ZABEZPIECZONY mostek ~15 jel pod kolateral (kupiec Weslar, polecony przez Rewana, vet=uczciwy-cienszy). Odzyskiwalny z procentem+kolateral. Rozwija linie kredytowa ostroznie; war-chest ledwo tkniety.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 297-11-01 (ostatni: 10-01 (WYKONANY: domkniecie 08-01->10-01, 2 mies; brutto ~185, minus podatek ~18, minus odpis reliefu ~20 -> netto do kasy +147))
@@ -56,7 +57,7 @@ _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
     - prowiantowanie_udzial_zima: Udzial w zimowym prowiantowaniu zamku (od 09-19, Mira-pryncypal/firma): margin per dostawa. Pierwsze partie bezbledne. Ksieguj per dostawa; rosnie, a przy klesce rywala moze wchlonac calosc.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 28 · Zmeczenie 2
+- Zdrowie 100 · Sytosc 28 · Zmeczenie 3
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 6 · wlodarstwo 7

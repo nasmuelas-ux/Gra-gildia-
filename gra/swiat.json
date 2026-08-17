@@ -5,12 +5,12 @@
   "dzien": 24,
   "era": "AC"
  },
- "pora": "POLUDNIE",
+ "pora": "POPOLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 26,
  "dzien_tygodnia_nr": 1,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-24 POLUDNIE (rzut 36, Rewan splata + vet Weslara): Rewan wrocil z czesciowa wczesniejsza splata (~25, kasa 168->193) - priorytetowo z wdziecznosci, chwiejba z 11-16 rozwiazana, weksel zdrowy, lojalny referrer. VET nowego (kupiec WESLAR, polecony): uczciwy w intencji (jak Rewan) ALE sytuacja CIENSZA/nieco ryzykowniejsza - pozyczalny tylko MALO i/lub ZABEZPIECZONE (nie blank bridge). Symon ma jasnosc; decyzja lending vs war-chest wciaz otwarta (pozyczyc ostroznie malo-zabezp / odlozyc). Reputacja uczciwego wierzyciela procentuje. Kasa 193, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei, elewacja na torze, refi sprimowany. Dyscyplina.",
+ "nastroje_miasta": "297-11-24 POPOLUDNIE (rzut 37, pozyczka Weslarowi): Symon dal maly ZABEZPIECZONY mostek ~15 jel pod kolateral (dopasowany do cienszej sytuacji Weslara - madre, nie blank bridge). Weslar gleboko wdzieczny+lojalny (jak Rewan), staje sie kolejnym lojalnym dluznikiem/referrerem (68/32). Linia kredytowa rosnie OSTROZNIE, reputacja uczciwego wierzyciela glebiej; war-chest ledwo tkniety (15 zabezpieczone=odzyskiwalne z procentem). Kasa 193->178. Rewan splacil +25 wczesniej. Kasa netto dnia +10. staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei, elewacja na torze, refi sprimowany. Dyscyplina trzymana (male+zabezp).",
  "ceny": {
   "chleb": {
    "baza": 3,

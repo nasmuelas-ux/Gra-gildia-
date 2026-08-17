@@ -2468,11 +2468,12 @@
    "id": "kupiec_weslar",
    "imie": "kupiec Weslar",
    "zawod": "drobny kupiec (polecony przez Rewana), zima scisnela obrot; szuka mostka",
-   "nastawienie_do_gracza": 58,
-   "zaufanie": 22,
+   "nastawienie_do_gracza": 68,
+   "zaufanie": 32,
    "ostatni_kontakt": "297-11-24",
    "wie_o_graczu": [
-    "297-11-24 (rzut 36, vet): Symon przeswietlil - Weslar UCZCIWY w intencji (jak Rewan, winter-squeezed), ale sytuacja CIENSZA/nieco RYZYKOWNIEJSZA (mniej kolateralu, branza bardziej odsłonieta). READ: pozyczalny ALE tylko MALO i/lub ZABEZPIECZONE (nie blank bridge). Symon ma jasnosc do decyzji. Nie oszust - po prostu ciensza poduszka."
+    "297-11-24 (rzut 36, vet): Symon przeswietlil - Weslar UCZCIWY w intencji (jak Rewan, winter-squeezed), ale sytuacja CIENSZA/nieco RYZYKOWNIEJSZA (mniej kolateralu, branza bardziej odsłonieta). READ: pozyczalny ALE tylko MALO i/lub ZABEZPIECZONE (nie blank bridge). Symon ma jasnosc do decyzji. Nie oszust - po prostu ciensza poduszka.",
+    "297-11-24 (rzut 37): Symon dal MALY ZABEZPIECZONY mostek (~15 jel pod kolateral, uczciwe terminy, lekki procent) - dopasowany do jego cienszej sytuacji (nie blank bridge, madre). Weslar gleboko wdzieczny+lojalny (jak Rewan) - Tally podal reke rozwaznie gdy inni by odmowili lub zdarli. Staje sie kolejnym lojalnym dluznikiem/referrerem. nast 58->68, zauf 22->32. Linia kredytowa rosnie ostroznie, reputacja uczciwego wierzyciela glebiej."
    ]
   }
  ],

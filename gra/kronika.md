@@ -7261,3 +7261,6 @@ Symon został z Mirą i zadbał — kazał jej usiąść, rozpalił mocniej, prz
 
 ## 297-11-20 POPOŁUDNIE→WIECZÓR — trzeci suchy hustle: Symon odpuszcza grind (rzut 18)
 Nawet w jasny dzień hustle nie zaskoczył — ledwie +2 (kasa 141), trzeci suchy wynik z rzędu. I tym razem Symon to internalizuje: gonił grosze w martwym zimowym rynku ze starego lęku biedaka, choć jest już człowiekiem zamożnym (141 wolne, ~950 majątku, ~54/mies pasywnie, maszyna niesie sama). Rozpoznał ten anxiety-driven grind i odpuścił go na sezon. Bezpieczny człowiek nie zarzyna się o drobne — jego czas jest teraz więcej wart przy rodzinie (Mira przy nadziei!), przy traktacie, pozycjonowaniu i domu. Nie strata, lecz dojrzewanie: koniec grindowania hustle w środku zimy.
+
+## 297-11-21 RANEK — Godric: imię Symona brzmi dobrze u dworu
+Zimny dzień, targ rybny. Poranny inbound: Godric, konduit dworski, przysyła ciepłe słowo — po zapieczętowaniu stałego warrantu Wylis powiedział lordowi, jak obiecał, i imię Symona brzmi teraz dobrze w Nowym Zamku; dwór po cichu zauważa człowieka, co dowiózł zimę. Elewacja dojrzewa (pełna wciąż do końca zimy, ale grunt pod nią twardnieje), a Godric sam głębiej po stronie Symona. W tle wszystko torem: maszyna, Mira przy nadziei (opieka, dom sukna adaptowany), stały warrant, relief-instytucja. Dyscyplina zimowa trzymana: maintain + war-chest na wiosenny refi.

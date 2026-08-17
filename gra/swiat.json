@@ -5,12 +5,12 @@
   "dzien": 21,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 37,
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-21 RANEK (mroz 37, targ rybny; INBOUND 77 - Godric: imie Symona dobrze brzmi u dworu): zimny dzien. PORANNY INBOUND: Godric (konduit dworski) przysyla cieple slowo - po zapieczetowaniu stalego warrantu Wylis powiedzial lordowi jak zapowiedzial, i imie Symona brzmi TERAZ dobrze w Nowym Zamku; dwor po cichu zauwaza czlowieka co dowiozl zime. Elewacja DOJRZEWA (pelna wciaz do konca zimy, ale grunt tward). Godric sam glebiej po stronie Symona. Poza tym: maszyna miele, Mira przy nadziei (opieka, dom sukna adaptowany), staly warrant plynie, relief-instytucja. Kasa 141, staple 32, finanse 6, wlodarstwo 7. Dyscyplina zimowa: maintain+war-chest na wiosenny refi. Nastepny krok: wlasne tory (dom/Mira/steward/traktat/sieciowe relacje - bez ekspansji).",
+ "nastroje_miasta": "297-11-21 POLUDNIE (rzut 97, pielegnacja sieci - crit): Symon podtrzymal siec cieplym slowem (nie lowy) - lojalnosc glebsza wszedzie (Godric zauf+2, holdingi Harrol/Berena/Ronnel zauf+2, aktywni voucherzy). CRIT: dbanie o ludzi gdy niczego nie potrzebuje = kapital lojalnosci; Godric otworzyl sie z INTELEM: (1) lord Wyman PRYWATNIE mowil o Symonie dobrze, ELEWACJA NAPRAWDE NADCHODZI gdy zima dowiedziona do konca (target jasny); (2) OSTRZEZENIE - ser Bertram prywatnie szuka kata podciac gbura, trzymac zime NIESKAZITELNA nie dac mu nic. Sieci web lojalny+samowzmacniajacy. Kasa 141, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei, staly warrant, refi sprimowany, traktat+sponsor. Dyscyplina trzymana.",
  "ceny": {
   "chleb": {
    "baza": 3,

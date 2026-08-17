@@ -1358,7 +1358,7 @@
    "zawod": "zarzadca domu blisko dworu / dostawca Nowego Zamku",
    "nastawienie_do_gracza": 93,
    "nota": "m10d8: pod wrazeniem oglady + renomy Symona (uczciwy pisarz Septy); zlecil dyskretny audyt (+retainer). ALE REZERWA — lowborn skryba w jego kregu to nowosc; UZYJE Symona, ale pelne wejscie w gore trzeba DOWIESC na tej robocie. Potencjalny pierwszy RUNG ku kregowi lorda/Nowego Zamku",
-   "zaufanie": 57,
+   "zaufanie": 59,
    "wie_o_graczu": [
     "sam ograniczyl zakres audytu i obiecal patrzec tylko tam, gdzie wskaze = dyskretny, bezpieczny, lojalny",
     "dostal kwity dostawcze i imie przyjmujacego; pracuje metodycznie, nie plotkuje",
@@ -1386,9 +1386,10 @@
     "297-06-19 (rzut 44): sesja ksiag drewna - KRA tnie BIEZACY strumien (dostawy przez polnocny kanal spoznione/chudsze, marza ciensza; potwierdza ryzyko z 06-13). Godric spiety (zamek oczekuje drewna, on odpowiada). Symon steady-doradca: udokumentowal opoznienie CZYSTO jako sile wyzsza (kra, zewnetrzna/przejsciowa, NIE zaniedbanie stewarda), papier airtight by zamek nie zwalil winy na Godrica, obiecal wznowienie gdy lod puszcza + early-warning. Godric ukojony. +3 jel. Cala gra drewniana (biezaca i przyszla) gated thaw. Symon trzyma trakt na oku (Godric+Harlon).",
     "297-06-24 (rzut 93): Symon domknal POPYT lokalnego drewna - przyniosl ROZWIAZANIE kra-dziury (drewno Benneta, lokalne/ladem/kra-odporne) gdy rzeka stoi. Godric ULZONY (mial tlumaczyc zamkowi pustke, ma czym wypelnic). Symon zagral bezblednie: TWARZ GODRICA (on zabezpiecza drewno, Symon niewidzialny), broker nie pryncypal, przez standing cechu + WLASNA ziemia Benneta (zaden las lorda/lesniczy - czysto), marza < wartosc. KLUCZOWE: Godric \"to dokladnie o czym mowilem w maju\" - chcial stalej umowy JESLI dowieziesz PEWNIE; rzeka=niepewna, lokalne=niezawodne -> STANDING CONTRACT PROSPEKT WRACA na twardszym gruncie. \"Kto dowozi gdy inni nie moga, z takim siada sie do umowy.\" nast 88->90, zauf 28->30.",
     "297-06-25 (rzut 93): podpisal umowe drewna za zamek (procurement). Drewno Benneta plynie ladem gdy rzeka leży. KLUCZOWE: reliability udowodniona -> Godric SAM PCHA ku STALEJ UMOWIE (\"pokazales com chcial - dowieziesz gdy inni nie moga; siadzmy niedlugo do stalej umowy, staly strumien nie latka\"). Wielki prospekt dojrzewa mocno. zauf 30->31.",
-    "297-10-29 POLUDNIE->POPOLUDNIE (rzut 81): Symon zasial u Godrica (jego pierwotny referrer do Harrola, czlowiek znajacy krag gentry Manderlych) mysl o SASIADACH w gore Bialego Noza - ze mysli o zaopatrywaniu okolicznych holdingow zaprzysiezonych Manderlym, tak jak Kamienny Brod. Godric - juz gleboki sojusznik (nast 93) - przyjal CIEPLO i konkretnie: potwierdzil, ze Harrol nie jest sam w klopotach (chuda jesien uderzyla w drobna gentry doliny), i SAM wskazal nastepny cieply cel - holdfast wdowy, LADY BERENY z Wierzbowego Brodu (w gore rzeki, zaprzysiezona Manderlym, maz padl, zarzadza sama, spichrze niepewne przed zima, dumna ale pragmatyczna). Godric gotow dac cieple slowo/wprowadzenie GDY Harrol bedzie zywym dowodem (a jest coraz bardziej). To pierwszy KONKRETNY wezel sieci polnocno-ladowej poza Harrolem - nie zimne lowy, lecz drabina cieplych wprowadzen (Godric->Harrol-jako-dowod->Berena). zauf 56->57. Kanal dworski+gentry laczy sie z pivotem polnocno-ladowym."
+    "297-10-29 POLUDNIE->POPOLUDNIE (rzut 81): Symon zasial u Godrica (jego pierwotny referrer do Harrola, czlowiek znajacy krag gentry Manderlych) mysl o SASIADACH w gore Bialego Noza - ze mysli o zaopatrywaniu okolicznych holdingow zaprzysiezonych Manderlym, tak jak Kamienny Brod. Godric - juz gleboki sojusznik (nast 93) - przyjal CIEPLO i konkretnie: potwierdzil, ze Harrol nie jest sam w klopotach (chuda jesien uderzyla w drobna gentry doliny), i SAM wskazal nastepny cieply cel - holdfast wdowy, LADY BERENY z Wierzbowego Brodu (w gore rzeki, zaprzysiezona Manderlym, maz padl, zarzadza sama, spichrze niepewne przed zima, dumna ale pragmatyczna). Godric gotow dac cieple slowo/wprowadzenie GDY Harrol bedzie zywym dowodem (a jest coraz bardziej). To pierwszy KONKRETNY wezel sieci polnocno-ladowej poza Harrolem - nie zimne lowy, lecz drabina cieplych wprowadzen (Godric->Harrol-jako-dowod->Berena). zauf 56->57. Kanal dworski+gentry laczy sie z pivotem polnocno-ladowym.",
+    "297-11-21 (rzut 97): Symon pielegnowal siec (cieple slowo bez lowow). Godric - gleboko ujety ze Symon dba o ludzi gdy niczego nie potrzebuje - otworzyl sie z INTELEM dworskim: (1) POZYTYW - lord Wyman PRYWATNIE mowil o Symonie dobrze, elewacja NAPRAWDE nadchodzi gdy zima dowiedziona do konca (grunt tward); (2) OSTRZEZENIE - ser Bertram, choc bez publicznego zaczepienia (honor rozdany go zaglodzil), PRYWATNIE szuka kata by podciac gbura; trzymac zime NIESKAZITELNA, nie dawac mu nic. Godric zauf +2, sojusz glebszy."
    ],
-   "ostatni_kontakt": "297-10-29",
+   "ostatni_kontakt": "297-11-21",
    "status": "WDZIECZNY/CENI: dostal cicha pewnosc dokladnie jak chcial; Symon = dyskretny, rzetelny, BEZPIECZNY czlowiek. Zapamietal, zapowiada dalszy uzytek. Watem zajmie sie sam, po cichu, na wlasnych warunkach.",
    "historia": [
     "m11d16 (rzut 97): Symon wchodzi cicho, bez prosby, z oferta wartosci — braavijska ksiegowosc dla domu. Godric (ceni go za dyskrecje-lojalnosc) przyjmuje idealnie i POWIERZA staly, cichy angaz: prowadzenie/audyt czesci rachunkow domu do wyzszego, braavijskiego standardu, regularnie, dyskretnie, platnie. Symon = odtad ZAUFANY CZLOWIEK OD LICZB DOMU (nie jednorazowy audytor). Zaufanie mocno w gore. Nast 38->42. Zero ekspozycji karty.",
@@ -2376,8 +2377,8 @@
    "przydomek": "z Wierzbowego Brodu",
    "zawod": "wdowa-wlodarka, sama gospodaruje holdfast+wies w gore Bialego Noza (Manderly-sworn); maz padl, spichrze cienkie po chudym roku",
    "nastawienie_do_gracza": 68,
-   "zaufanie": 40,
-   "ostatni_kontakt": "297-11-04",
+   "zaufanie": 42,
+   "ostatni_kontakt": "297-11-21",
    "wie_o_graczu": [
     "297-10-31 (INBOUND 100): SAMA sie odezwala - posłaniec z Wierzbowego Brodu z ostroznym, dumnym zapytaniem; doszla ja gentry-plotka (ludzie Harrola + krag Godrica) o 'tym co dowozi w gore gdy rzeka zamarza'. Jej rzeka bierze wczesnie=realny klopot, spichrze cienkie, maz w grobie. Dumna, nie prosi o litosc - PYTA czy Symon to czlowiek z ktorym wdowa moze uczciwie usiasc do rozmowy o zaopatrzeniu zimowym.",
     "297-10-31 (odpowiedz Miry): Symon+Mira zagrali madrze - MIRA (sama byla wdowa 'ktora pol portu chcialo kupic za bezcen') odpisala w rejestrze wdowa-do-wdowy: cieplo, z szacunkiem dla jej godnosci gospodarza (nie litosc, nie interes), BEZ pustej obietnicy przed pewnoscia dostawy. List otwiera drzwi i kupuje dni. Berena, potraktowana jak gospodarz ktorym jest (nie przypadek charytatywny), odbiera to dobrze - drzwi cieple, spotkanie na horyzoncie gdy Symon przyjdzie z DOWODEM nie slowem. nast->42, zauf->10 (ostroznie cieplo).",
@@ -2387,7 +2388,8 @@
     "297-11-04 (rzut 73): PROBNA dostawa doszla BEZBLEDNIE - na czas, frost-proof, dokladnie jak obiecano. To dowod ktorego zadala ('dowiedz MNIE jak dowiodles w gore drogi'). Dumna wdowa PRZEKONANA - przeszla z ostroznej na gotowa. Przyslala slowo (Symon w poblizu, przy depocie): gotowa siasc do PELNEGO kontraktu zimowego zaopatrzenia Wierzbowego Brodu. nast 54->62, zauf 22->32. Pelny kontrakt DOJRZALY do domkniecia.",
     "297-11-04 (rzut 63): PELNY KONTRAKT ZIMOWY ZAWARTY - zaopatrzenie Wierzbowego Brodu na cala zime (zboze/sol/opal), castle-first nietkniety, frost-proof staging przez depot Wendla, uczciwe warunki. Symon poprowadzil terms czysto (finanse/wlodarstwo). Berena z gotowej -> ZWIAZANY, usatysfakcjonowany klient; dumna wdowa co znalazla pewna reke na zime wsi. Wdzieczna (bez plaszczenia - godnosc gospodarza uszanowana). nast 62->68, zauf 32->40. DRUGI holding sieci polnocnej domkniety; z czasem trzeci voucher (jak Harrol). Zaczatek: moze polecic sasiadow gdy zima ja przekona do konca.",
     "297-11-11: jako zadowolony klient ZARECZYL (biernie, plotka gentry) za Symona - sciagnal sasiada ser Ronnela (Olszowy Brod), ktory sam sie odezwal. Voucher aktywny; siec skaluje przez krag voucherow.",
-    "297-11-19: Berena staje sie tez 1. wezlem KREGU KOBIET Miry (wdowa-do-wdowy) - naturalne przedluzenie relacji na strone Miry (dom sukna/siec kobiet Polnocy). Podwojna wiez (prowiant Symon + sukno/krag Mira)."
+    "297-11-19: Berena staje sie tez 1. wezlem KREGU KOBIET Miry (wdowa-do-wdowy) - naturalne przedluzenie relacji na strone Miry (dom sukna/siec kobiet Polnocy). Podwojna wiez (prowiant Symon + sukno/krag Mira).",
+    "297-11-21 (rzut 97): Symon podtrzymal relacje cieplym slowem (nie nowy kontrakt) - lojalnosc holdingu glebiej; aktywny voucher. Ceni ze dba gdy niczego nie chce. zauf +2."
    ]
   },
   {
@@ -2436,12 +2438,13 @@
    "przydomek": "z Olszowego Brodu",
    "zawod": "rycerz z nadania, zaprzysiezony Manderlym; holdfast+wies w gore Bialego Noza (sasiad Harrola/Bereny)",
    "nastawienie_do_gracza": 68,
-   "zaufanie": 44,
-   "ostatni_kontakt": "297-11-12",
+   "zaufanie": 46,
+   "ostatni_kontakt": "297-11-21",
    "wie_o_graczu": [
     "297-11-11 (rzut 84): SAM sie odezwal (pull) - uslyszal od ludzi Harrola i Bereny o pewnej zimowej dostawie ladem gdy rzeka stoi. Symon odpowiedzial wzorem, ALE reczenie DWOCH sasiadow-gentry + pull sprawily ze poszlo SZYBKO: Ronnel juz predysponowany zaufaniem, pominal wieksza czesc sceptycyzmu (kontrast do Harrola co zaczal od chlodu). Zgodzil sie na PROBNA dostawe z jasna sciezka do pelnego kontraktu jesli dojdzie czysto (co siec potrafi). Poczatkowy zadatek ~+4. TRZECI wezel doliny - i DOWOD ze siec skaluje coraz LATWIEJ przez rosnacy krag voucherow (kazdy nastepny holding tanszy w pozyskaniu). nast 55, zauf 28 (start wysoki dzieki reczeniu).",
     "297-11-12 (rzut 96 ~KRYT): probna dostawa pchnieta przez lagodne okno (Hollis-vetted, depot Wendla) - dotarla BEZBLEDNIE. Ronnel juz predysponowany (reczenie sasiadow) + czysty proof = pelny kontrakt zimowy PRAKTYCZNIE odblokowany/domykalny od reki. nast 55->66, zauf 28->40. TRZECI wezel sieci w zasiegu domkniecia - najszybszy ze wszystkich (efekt sieciowy).",
-    "297-11-12 POPOLUDNIE (rzut 20, marginalnie): PELNY KONTRAKT ZIMOWY ZAWARTY (3. holding sieci) - ale ostrozny rycerz (grosz wsi) wynegocjowal CIENSZA marze na 1. sezon (~8/mies vs ~12 Harrol/Berena), ze sciezka do standardowych warunkow gdy dowiedzione przez sezon. Kontrakt PEWNY, castle-first nietkniety, frost-proof przez depot. Nie porazka - trzeci wezel domkniety, tylko upside przyciety (twardszy negocjator/ostrozny gospodarz). nast 66->68, zauf 40->44. Initial +4."
+    "297-11-12 POPOLUDNIE (rzut 20, marginalnie): PELNY KONTRAKT ZIMOWY ZAWARTY (3. holding sieci) - ale ostrozny rycerz (grosz wsi) wynegocjowal CIENSZA marze na 1. sezon (~8/mies vs ~12 Harrol/Berena), ze sciezka do standardowych warunkow gdy dowiedzione przez sezon. Kontrakt PEWNY, castle-first nietkniety, frost-proof przez depot. Nie porazka - trzeci wezel domkniety, tylko upside przyciety (twardszy negocjator/ostrozny gospodarz). nast 66->68, zauf 40->44. Initial +4.",
+    "297-11-21 (rzut 97): Symon podtrzymal relacje cieplym slowem (nie nowy kontrakt) - lojalnosc holdingu glebiej; aktywny voucher. Ceni ze dba gdy niczego nie chce. zauf +2."
    ]
   },
   {
@@ -2533,15 +2536,16 @@
    "zawod": "rycerz z nadania, zaprzysiezony Manderlym; trzyma holdfast+wies w gore Bialego Noza (~kilkuset dusz)",
    "mieszka": "Kamienny Brod (w gore Bialego Noza)",
    "nastawienie_do_gracza": 56,
-   "zaufanie": 31,
-   "ostatni_kontakt": "297-11-03",
+   "zaufanie": 33,
+   "ostatni_kontakt": "297-11-21",
    "wie_o_graczu": [
     "297-10-22 (rzut 50): pierwszy kontakt. Ser Harrol (dumny rycerz, stary wlodarz podupadl, umowa na zboze pekla przed zima=chudnace spichrze) przyjechal po pewna reke, przez referral Godrica. Symon zagral autentycznie - szacunek bez plaszczenia, liczby, pewna reka co nie czyni z rycerza przypadku charytatywnego (godnosc). ZAWARLI skromny kontrakt zimowego prowiantowania (wolna pojemnosc Symona, castle-first nietkniety, frost-proof struktura, uczciwe warunki). Harrol pragmatyczny+wdzieczny, ale dumny=zaufanie dojrzeje przez dowiedziona dostawe zimy. Symon: pierwszy klient z KRWI/NADANIA (nie kupiec) - rycerz zna jego imie. nast 40, zauf 12.",
     "297-10-23 POPOLUDNIE (rzut 8): Symon stanal uczciwie po straconej 1. dostawie - owned wprost, pelny make-good na wlasny koszt (towar zastepczy ~15 jel). Harrol przyjal ZIMNO: dumny, przestraszony o zime (spichrze chude, przepadlo w zlej porze), ukluty ze zaufal kupcowi z nabrzeza a pierwsza rzecz=katastrofa. 'Rycerz nie karmi wsi obietnicami; dowiedziesz nastepna bez potkniecia to pogadamy, zawiedziesz drugi raz=koniec.' Make-good wzial grudgingly. Relacja spadla (nast 40->30, zauf 12->8), kontrakt na wlosku - ratuje TYLKO dowiedziona dostawa (Hollis-vetted). NIE blad Symona (stanal bez zarzutu) - proud wystraszony rycerz nie nagrodzil w zlej godzinie. Odwracalne dowodem.",
     "297-10-25 (rzut 79): dostawa do Kamiennego Brodu w ZABOJCZYM MROZIE (pogoda 7) via Hollis-vetted trasa - BEZBLEDNA, dokladnie 'dowiedziesz nastepna bez potkniecia' ktorego zadal. Dostarczyl gdy inni by zamarzli. Dumny rycerz TOPNIEJE - undeniable proof reliable hand; z chlodu-na-wlosku ku warming/impressed. nast 30->42, zauf 8->18. Kontrakt recovering; jeszcze nie pelne zaufanie ale dowod przemowil.",
     "297-10-29 POLUDNIE->POPOLUDNIE (rzut 81): DRUGA z rzedu bezbledna zimowa dostawa do Kamiennego Brodu via Hollis-vetted trasa - znow czysto, na czas, mimo mrozu. To domyka to, czego dumny rycerz zadal ('dowiedziesz nastepna bez potkniecia to pogadamy'): nie jednorazowy fart lecz WZOR niezawodnosci. Harrol przeszedl z 'topniejacego' w USATYSFAKCJONOWANEGO - spichrze holdingu pewne na zime, wies nakarmiona, jego duma jako wlodarza uratowana ludzka reka Symona. Zaczyna mowic o Symonie jak o SWOIM czlowieku od zaopatrzenia, nie kupcu z nabrzeza. Zasiew: gdy Symon wspomnial o sasiednich holdingach w gore Bialego Noza, Harrol (teraz cieply) nie odzegnal sie - gotow RECZYC gdy dostawa dojdzie do pelnego dowodu (jeszcze nie jawne wprowadzenie, ale drzwi otwarte). nast 42->52, zauf 18->26. Z przyczolka staje sie SZABLONEM+potencjalnym wprowadzajacym siec polnocno-ladowa.",
     "297-11-03 (rzut 65, kurs zintegrowany): TRZECIA bezbledna dostawa z rzedu (pierwszy pelny kurs zintegrowanej linii polnocnej - trasy Hollis+depot Wendel+haul Boren+towar near-North). Streak niezawodnosci ugruntowany - Harrol teraz PEWNY, aktywny voucher: sam mowi dobrze o Symonie w kregu gentry doliny. nast 52->56, zauf 26->31. Z 'usatysfakcjonowanego' -> lojalny klient-ambasador.",
-    "297-11-11: jako zadowolony klient ZARECZYL (biernie, plotka gentry) za Symona - sciagnal sasiada ser Ronnela (Olszowy Brod), ktory sam sie odezwal. Voucher aktywny; siec skaluje przez krag voucherow."
+    "297-11-11: jako zadowolony klient ZARECZYL (biernie, plotka gentry) za Symona - sciagnal sasiada ser Ronnela (Olszowy Brod), ktory sam sie odezwal. Voucher aktywny; siec skaluje przez krag voucherow.",
+    "297-11-21 (rzut 97): Symon podtrzymal relacje cieplym slowem (nie nowy kontrakt) - lojalnosc holdingu glebiej; aktywny voucher. Ceni ze dba gdy niczego nie chce. zauf +2."
    ]
   },
   {

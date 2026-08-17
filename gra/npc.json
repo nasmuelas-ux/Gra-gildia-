@@ -2314,14 +2314,16 @@
    "zawod": "stary gwardyjny rycerz dworu Manderlych; KANDYDAT na wakat kasztelana",
    "nastawienie_do_gracza": -15,
    "zaufanie": 0,
-   "ostatni_kontakt": "297-11-07",
+   "ostatni_kontakt": "297-11-22",
    "wie_o_graczu": [
     "297-10-08: obecny na audiencji, gdy lord pytal Symona (gbura) o rade ws. prowiantu i kasztelanii. Niechec starego rycerza do parweniusza-faworyta lorda STWARDNIALA w konkretna wrogosc. Jesli zostanie kasztelanem = wrogi nadzorca nad zaopatrzeniem zamku (filary firmy).",
     "297-10-08 (intel Symona rzut 67): wrog honorowy nie zdradliwy (zamrozilby/snil, nie uknulby klamstwa); zolnierz nie zarzadca (slaby na ksiegach=slabszy kandydat niz staz sugeruje); kandydatura niepewna vs Wylis. Handle: kompetencja nie intryga.",
-    "297-11-07 (audiencja Symona u lorda po sztormie): Bertram OBECNY, uraza teraz JAWNA/aktywna - patrzyl jak lord wzywa gbura po sztormie i mysli o poszerzeniu jego roli nad glowami ocalalych rycerzy. Jego obecnosc+chlod dworu REALNIE zawezily co lord mogl dzis dac (elewacja deferred). Wrog honorowy (nie intryga, lecz mrozacy chlod+staly nacisk klasowy); constraint na tempo awansu Symona. Doktryna: uczciwy+nudny, nie dawac historii, dowiesc zima."
+    "297-11-07 (audiencja Symona u lorda po sztormie): Bertram OBECNY, uraza teraz JAWNA/aktywna - patrzyl jak lord wzywa gbura po sztormie i mysli o poszerzeniu jego roli nad glowami ocalalych rycerzy. Jego obecnosc+chlod dworu REALNIE zawezily co lord mogl dzis dac (elewacja deferred). Wrog honorowy (nie intryga, lecz mrozacy chlod+staly nacisk klasowy); constraint na tempo awansu Symona. Doktryna: uczciwy+nudny, nie dawac historii, dowiesc zima.",
+    "297-11-22 (rzut 42): Bertram uderzyl otwarcie (kwestionujac gbura przed oficerami) - Symon rozegral doktryna Nesty: NIE walczyl, pozostal nieskazitelny, i SZCZERZE UHONOROWAL Bertrama (szacunek dla jego dlugiej sluzby/tradycji, 'dom potrzebuje takich rycerzy') gdziekolwiek padlo jego imie; cicho Wylis/Godric/Wiara stali twardo. EFEKT: sprzeciw NIE zebral momentum - urazeni oficerowie nie znalezli celu (pokorny gbur co dowozi/karmi/oddaje chwale/SZANUJE starego rycerza=nic do rozniecenia); honorowy atak na takiego czlowieka=Bertram wyglada na zawistnika nie obronce tradycji. Bertram DISARMED - wycofal push saving face, chlodny+dumny ale bez ruchu (nie moze atakowac bez dishonoru dla siebie). SEED: honorowy czlowiek zbity z tropu ze gbur odpowiedzial szacunkiem nie buta - mozliwy przyszly thaw. Nie pokonany-przekonany, lecz zneutralizowany. Firewall czysty."
    ],
    "cechy_mowy": "chlodny, wynioslny, rycerska pogarda dla nisko urodzonych",
-   "flaga": "WROG HONOROWY (duma klasowa nie spisek) + OGRANICZONY (zolnierz nie zarzadca). Kandydatura niepewna (Wylis numerata lepszy na stewarda). Broc: nienaganna uzytecznosc, nie intryga; jego duty/honor + potrzeba lorda graja za Symonem."
+   "flaga": "WROG HONOROWY (duma klasowa nie spisek) + OGRANICZONY (zolnierz nie zarzadca). Kandydatura niepewna (Wylis numerata lepszy na stewarda). Broc: nienaganna uzytecznosc, nie intryga; jego duty/honor + potrzeba lorda graja za Symonem.",
+   "nota": " || 297-11-22: atak zneutralizowany doktryna Nesty (nieskazitelnosc+szczery honor dla niego+sojusznicy+lord jako sedzia). Chlodny/dumny ale DISARMED, bez ruchu. Seed mozliwego thaw (rozbrojony szacunkiem)."
   },
   {
    "id": "corliss_rachmistrz",

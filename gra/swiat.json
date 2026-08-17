@@ -5,12 +5,12 @@
   "dzien": 22,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "POLUDNIE",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
  "pogoda": 56,
  "dzien_tygodnia_nr": 6,
  "dzien_targowy": null,
- "nastroje_miasta": "297-11-22 RANEK (umiarkowanie 56; INBOUND 92 - BERTRAM ZROBIL RUCH): PILNY INBOUND (spelnia ostrzezenie Godrica): ser BERTRAM znalazl swoj kat i uderzyl - OTWARCIE (honorowo, nie intryga - to nie w jego stylu): zakwestionowal przed kasztelanem/kregiem oficerow czy LOWBORN GBUR powinien trzymac staly warrant zamku i byc wynoszony ku lasce lorda; apeluje do TRADYCJI/HONORU/krwi, probuje zebrac urazonych oficerow do formalnego sprzeciwu wobec elewacji. Symon FORWARNED (Godric 11-21) - nie zasadzka, wyzwanie do rozegrania. To honorowy-otwarty atak (nie dirty), wiec bron=proven rejestr: uczciwosc, pokora, rozdanie chwaly, niezaprzeczalna kompetencja, sojusznicy (Wylis/Godric/Wiara/lord ceni go). RYZYKO: jesli zbierze oficerow=frykcja przy elewacji; jesli Symon zle zagra (arogancja/walka klasowa)=potwierdzi Bertrama. FIREWALL: Bertram to zolnierz nie sledczy, nie siegnie Antaryona, ale nie dawac mu paliwa. Kasa 146, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei. Nastepny krok: jak odpowiedziec na ruch Bertrama.",
+ "nastroje_miasta": "297-11-22 POLUDNIE (rzut 42, wyzwanie Bertrama ZWEATHEROWANE): Symon rozegral doktryna Nesty - NIE walczyl, nieskazitelny, SZCZERZE uhonorowal Bertrama (szacunek dla sluzby/tradycji), cicho Wylis/Godric/Wiara twardo. Sprzeciw NIE zebral oficerow (pokorny gbur co dowozi/karmi/oddaje chwale/szanuje starego rycerza=nic do rozniecenia; honorowy atak na takiego=Bertram wyglada na zawistnika). Bertram DISARMED - wycofal push saving face, chlodny/dumny ale bez ruchu. Lord favor nieszkodzony, ELEWACJA na torze (dokonczyc czysta zime). Firewall czysty. Seed mozliwego thaw (rozbrojony szacunkiem). Zawisc dworu zaglodzona przez GRACE. Kasa 146, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei. Dyscyplina trzymana.",
  "ceny": {
   "chleb": {
    "baza": 3,

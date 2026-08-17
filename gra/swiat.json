@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 21,
+  "dzien": 22,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 37,
- "dzien_tygodnia_nr": 5,
- "dzien_targowy": "ryby",
- "nastroje_miasta": "297-11-21 WIECZOR (zajecie sie Mira): Symon zaopiekowal sie Mira (cieple mleko/miod, odpoczynek), ciche rozmowy o przyszlosci (izba Schody na dziecinny pokoj?, Alys tez przy nadziei=towarzyszka). Nie wypowiadaja imion (nadzieja delikatnie), ale przyszlosc zaczyna byc wyobrazana. Mira spokojniejsza niz od tygodni. Wszystko co Symon zbudowal (warrant/siec/traktat/imie u lorda) ma teraz DOKAD prowadzic - do domu. Kasa 146, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei (opieka), elewacja nadchodzi (target: zima czysta), Bertram czuwa, refi sprimowany, traktat+sponsor. Dyscyplina trzymana.",
+ "pogoda": 56,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-11-22 RANEK (umiarkowanie 56; INBOUND 92 - BERTRAM ZROBIL RUCH): PILNY INBOUND (spelnia ostrzezenie Godrica): ser BERTRAM znalazl swoj kat i uderzyl - OTWARCIE (honorowo, nie intryga - to nie w jego stylu): zakwestionowal przed kasztelanem/kregiem oficerow czy LOWBORN GBUR powinien trzymac staly warrant zamku i byc wynoszony ku lasce lorda; apeluje do TRADYCJI/HONORU/krwi, probuje zebrac urazonych oficerow do formalnego sprzeciwu wobec elewacji. Symon FORWARNED (Godric 11-21) - nie zasadzka, wyzwanie do rozegrania. To honorowy-otwarty atak (nie dirty), wiec bron=proven rejestr: uczciwosc, pokora, rozdanie chwaly, niezaprzeczalna kompetencja, sojusznicy (Wylis/Godric/Wiara/lord ceni go). RYZYKO: jesli zbierze oficerow=frykcja przy elewacji; jesli Symon zle zagra (arogancja/walka klasowa)=potwierdzi Bertrama. FIREWALL: Bertram to zolnierz nie sledczy, nie siegnie Antaryona, ale nie dawac mu paliwa. Kasa 146, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei. Nastepny krok: jak odpowiedziec na ruch Bertrama.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -34,8 +34,8 @@
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.3,
-   "przyczyna": "mroz umiarkowany (37)"
+   "mnoznik": 1.2,
+   "przyczyna": "umiarkowanie (56)"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 21,
+ "dzien": 22,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

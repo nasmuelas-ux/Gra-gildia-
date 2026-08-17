@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 12,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 82,
- "dzien_tygodnia_nr": 4,
- "dzien_targowy": "targ rybny",
- "nastroje_miasta": "297-12-18 RANEK. JASNY pogodny dzien - pogoda 82 (HIGH: mroz odpuscil, zimowa odwilz-respite, sloneczny chlod; ludzie wychodza, port ozywa). Zdarzenie 79 (dobra energia, zwawo - nic dramatycznego, ale miasto tetni). TARG RYBNY (18 podzielne/3) - nabrzeze handluje. Clo portowe ~20 za 2 dni (koszt ~10 jel). Symon wyspany po dniu 12-17 (Rozprawa sesja 5, sciana skruszona z Theomore'em, kubek u Aldousa, opieka nad Mira - Rhona do zaproszenia). W toku: Rozprawa (glebsze sekcje przed nim), druga noga faktorii/delegacja rampuje, kotwica Garret+leady cechowe, srednii tier ronie, Mira ~6-7 tydz bezpieczna (zaprosic siostre Rhone). Wielkie okna: elewacja koniec zimy, refi wiosna, lancuch maesterow tygodnie, dziecko lato 298.",
+ "pogoda": 79,
+ "dzien_tygodnia_nr": 5,
+ "dzien_targowy": null,
+ "nastroje_miasta": "297-12-19 RANEK. Pogodny, lagodny dzien - pogoda 79 (respite trwa, mroz odpuszczony, jasno-chlodno), zdarzenie 77 (dobra energia, miasto zwawe). Brak targu (19 niepodzielne/3), brak swieta. CLO PORTOWE ~jutro (20-ty, ~10 jel koszt). Symon wyspany po owocnym 12-18 (2 kotwice sredniego tieru: Garret+Corwin; lead Edwyda przez Berene; Rozprawa przelom sesja 6 ~polowa stoi; narada z Nesta). finanse licznik 123 (o krok od lvl8). W toku: Rozprawa glebsze sekcje, konwersja Edwyda przez probna dostawe, delegacja Tam/Wick rampuje, Mira ~6-7 tydz (Rhona w drodze - slowo poslane 12-18). Wielkie okna: elewacja koniec zimy, refi wiosna, maester tygodnie, dziecko lato 298.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 18,
+ "dzien": 19,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

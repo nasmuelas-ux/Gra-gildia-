@@ -7399,3 +7399,7 @@ Po bezbłędnej dostawie i pozyskaniu ser Edwyda Symon odpoczął i wrócił dol
 
 ## 297-12-19 WIECZÓR — kufel u Brana (rzut 73)
 Po powrocie z doliny Symon zajrzał do Brana — dozorcy kamieniczki, tragarza, którego kiedyś podniósł. Ciepła, ludzka wizyta (rzut 73). Bran kwitnie: kamieniczka mieli spokojnie (Jonna, Osric i Hal płacą, izby całe, ogródek), relief-logistyka (dowóz do drzwi) idzie mu gładko, Alys przy nim. Prosta duma człowieka, który ma własny kąt i robotę, i już nie tonie zimą jak kiedyś. Dwóch ludzi, którzy przyszli z niczego — Symon świeżo z trzeciego węzła doliny, Bran z tragarza w dozorcę — przy kuflu, bez interesu, po ludzku. Więź głębnie.
+
+## 297-12-19 NOC → 12-20 RANEK — sen; cło portowe
+Dzień 12-19 zamknięty (bezbłędna dostawa do Edwyda — trzeci węzeł doliny, Rozprawa w połowie, kufel u Brana). Symon zasnął przy Mirze.
+**12-20 RANEK:** umiarkowany zimowy dzień — pogoda 67 (respite lekko się domyka, ale wciąż znośnie), zdarzenie 64 (spokojnie). Brak targu, brak święta. **Cło portowe** dziś (~20-ty): −10 jel, kasa 278→268. finanse licznik 123 — o krok od poziomu 8. W toku: Rozprawa (głębsze sekcje), Edwyd świeży klient, delegacja Tam/Wick, Mira ~6-7 tydz. (Rhona w drodze).

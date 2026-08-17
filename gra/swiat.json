@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 11,
-  "dzien": 23,
+  "dzien": 24,
   "era": "AC"
  },
- "pora": "POPOLUDNIE",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 36,
- "dzien_tygodnia_nr": 7,
- "dzien_targowy": null,
- "nastroje_miasta": "297-11-23 WIECZOR (opieka nad Mira, Dzien Matki): Symon przy Mirze - spokojny cieply czas, Dzien Matki a ona nosi. Strach pierwszych dni ustepuje (Owen sie modli), Mira 'pierwszy raz od dawna sie nie boje'. Ciche planowanie (welna z jej domu sukna, Serla, wiosna). Sedno: buduje sie po to, by Mira mogla PRZESTAC sie bac. Nadzieja umacnia sie. Kasa 168, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei (opieka), Bertram rozbrojony, Hal wspolnik, elewacja na torze, traktat w lancuchu, refi sprimowany na wiosne. Dyscyplina trzymana.",
+ "pogoda": 26,
+ "dzien_tygodnia_nr": 1,
+ "dzien_targowy": "ryby",
+ "nastroje_miasta": "297-11-24 RANEK (mroz 26, targ rybny; INBOUND 85 - Rewan wraca + reputacja wierzyciela procentuje): zimny dzien. PORANNY INBOUND: kupiec REWAN (dluznik przedluzony po ludzku 11-18) wraca - z CZESCIOWA WCZESNIEJSZA splata (odwilz-okno ruszylo mu obrot, priorytetowo splaca Symona z wdziecznosci) + przyprowadza znajomego kupca co chce mostka/pozyczki, bo 'Tally daje uczciwy czas'. Reputacja UCZCIWEGO WIERZYCIELA procentuje - naplyw kredytobiorcow. DECYZJA/napiecie: pozyczyc (rozwinac linie kredytowa+goodwill+reputacja) vs zachowac plynnosc na WIOSENNY REFI (dyscyplina war-chest). Kasa 168, staple 32, finanse 6, wlodarstwo 7. Mira przy nadziei, Bertram rozbrojony, Hal wspolnik, elewacja na torze, traktat w lancuchu, refi sprimowany. Nastepny krok: jak rozegrac Rewana+lead kredytowy.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -35,7 +35,7 @@
   "opal": {
    "baza": 8,
    "mnoznik": 1.3,
-   "przyczyna": "mroz (36)"
+   "przyczyna": "mroz (26)"
   },
   "wino_korzenne": {
    "baza": 5,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki",
- "dzien": 23,
+ "swieto": null,
+ "dzien": 24,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

@@ -7321,3 +7321,6 @@ Skok czasu ~3 tygodnie, z uwzględnieniem codziennej nauki i zarobkowania. Okres
 
 ## 297-12-16 RANEK→POŁUDNIE — początek Rozprawy z dowodami (rzut 92, mocny)
 Odpowiedź na „nieudowodnione" nie słowem, lecz dowodem. Symon zaczął nowe wielkie dzieło — **Rozprawę z twardymi dowodami matematycznymi**, następcę pierwszego traktatu rachunków, mającą przekuć cytadelowe „interesujące-nieudowodnione" w „ustalone". Otwarcie wyszło znakomicie (92): świeżo dojrzały reckoner's eye (finanse 7) i precyzyjny cel z listu maestra dały czysty szkielet dowodowy i jasną oś argumentacji już od pierwszej sesji. Dzieło wielosesyjne. finanse licznik →95.
+
+## 297-12-16 POŁUDNIE→POPOŁUDNIE — konsultacja Rozprawy z Theomore'em (rzut 75)
+Odłożona z 11-23 „porządna sesja w cichszym dniu" wreszcie się odbyła — mróz uwolnił maestra od zamkowych obowiązków. Symon przyniósł nie skończone dzieło do pochwały, lecz żywe rusztowanie dowodu do rozłożenia. Theomore, Cytadelowiec do szpiku, wcielił się w adwokata diabła: nie po to, by karać, lecz by przetestować — wskazał, gdzie sceptyk uderzy, które ogniwa łańcucha są najsłabsze. Uszczelnili dwa. Dowód wyszedł z sesji mocniejszy, a intelektualny sojusz z maestrem głębszy (to jego żywioł). theomore →92/77, finanse licznik →98 (blisko lvl8).

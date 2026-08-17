@@ -2475,6 +2475,18 @@
     "297-11-24 (rzut 36, vet): Symon przeswietlil - Weslar UCZCIWY w intencji (jak Rewan, winter-squeezed), ale sytuacja CIENSZA/nieco RYZYKOWNIEJSZA (mniej kolateralu, branza bardziej odsłonieta). READ: pozyczalny ALE tylko MALO i/lub ZABEZPIECZONE (nie blank bridge). Symon ma jasnosc do decyzji. Nie oszust - po prostu ciensza poduszka.",
     "297-11-24 (rzut 37): Symon dal MALY ZABEZPIECZONY mostek (~15 jel pod kolateral, uczciwe terminy, lekki procent) - dopasowany do jego cienszej sytuacji (nie blank bridge, madre). Weslar gleboko wdzieczny+lojalny (jak Rewan) - Tally podal reke rozwaznie gdy inni by odmowili lub zdarli. Staje sie kolejnym lojalnym dluznikiem/referrerem. nast 58->68, zauf 22->32. Linia kredytowa rosnie ostroznie, reputacja uczciwego wierzyciela glebiej."
    ]
+  },
+  {
+   "id": "mlynarz_garret",
+   "imie": "Garret",
+   "zawod": "mlynarz - wlasciciel mlyna nad Bialym Nozem, mieli dla wielu piekarzy/gospodarzy, NIEZALEZNY od zamku",
+   "nastawienie_do_gracza": "cieply-rzeczowy - przyszedl na SLAWE uczciwego rachmistrza/wierzyciela (nie na namowe); szanuje ludzi slowa",
+   "zaufanie": 22,
+   "ostatni_kontakt": "297-12-16 - pierwszy solidny klient SREDNIEGO TIERU niezaleznego od zamku; potrzebuje sezonowego finansowania ziarna + uczciwego rozliczania miarki (mlynarze slyna z oszukiwania na miarce - on chce byc CZYSTY i miec to na papierze)",
+   "cechy_mowy": "powolny, wazacy slowa jak worki; 'miarka musi sie zgadzac po obu stronach'",
+   "wie_o_graczu": "rachmistrz Wiary, uczciwy wierzyciel, wspolnik kantoru Nesty",
+   "potrzeby": "finansowanie sezonowe, czyste rozliczenia, reputacja uczciwego mlynarza",
+   "nota": "KOTWICA sredniego tieru (anty-koncentracja). Przyszedl sam, przyciagniety reputacja. Solidny, samodzielny, volume-business, ZERO zaleznosci od warrantu zamku - dokladnie ten typ, ktory rozklada ciezar z kasztelana Wylisa. Za nim, przez slowo cechowe, ida ciepli lead: mistrz-bednarz i swiecarz (chandler) - tier zaczyna sie formowac."
   }
  ],
  "orbita": [

@@ -164,7 +164,7 @@
   "spryt_uliczny": 130,
   "handel": 157,
   "geometria": 22,
-  "finanse": 115,
+  "finanse": 121,
   "wlodarstwo": 111
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
@@ -270,8 +270,8 @@
    "status": "w_toku",
    "rozpoczeta": "297-12-16",
    "cel": "twarde dowody matematyczne - przekuc 'interesujace-nieudowodnione' w 'ustalone'; odpowiedz na mieszany list maesterow",
-   "postep": "SESJA 5 (rzut 52): zwezone twierdzenie DOWODZI SIE CZYSTO. Dotad zablokowane ogniwo domkniete uczciwie (jawna przeslanka nazwana, teza w granicach dowodliwosci). Realny postep naprzod - sekcja rdzeniowa Rozprawy stoi rygorystycznie. Rzeczowo nie olsniewajaco; glebsze sekcje wciaz przed nim. Dzielo znow w ruchu, kregoslup + pierwszy pelny dowodliwy filar.",
-   "sesje": 5
+   "postep": "SESJA 6 (rzut 96 KRYT): PRZELOM. Glebsze partie, ktore grozily kolejna sciana, ROZWINELY sie znakomicie - metoda (zwezic->nazwac przeslanke->dowiesc) UOGOLNILA sie na cala strukture. Symon nie tylko domknal glebsza sekcje, ale ZOBACZYL jak calosc sie spina: dowod ma teraz kregoslup + rdzen + rozwiniete filary, spojne. Rozprawa przeszla z 'zaczetej' w 'w wyraznym ksztalcie' - blisko polowy dziela stoi rygorystycznie. To jego zywiol; praca spiewa.",
+   "sesje": 6
   }
  }
 }

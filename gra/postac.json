@@ -164,7 +164,7 @@
   "spryt_uliczny": 130,
   "handel": 157,
   "geometria": 22,
-  "finanse": 153,
+  "finanse": 155,
   "wlodarstwo": 125
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
@@ -197,7 +197,8 @@
   "rola_zimowa_warrant_lorda": "PROWIANTOWANIE ZIMOWE ZAMKU - FORMALIZOWANE PIECZECIA LORDA MANDERLY (297-09-30): to co Aldric blokowal, lord nadal sam pelnym warrantem; firma bierze zimowe prowiantowanie zamku pod pieczecia Manderly'ego. Drzwi, ktore wrog trzymal, otworzyl LORD. Niezastepowalnosc formalna, nie tylko de facto.",
   "ucho_lorda_manderly": "UCHO LORDA WYMANA MANDERLY (od 297-09-30): lord zna imie Symon Tally DOBRZE i z szacunkiem (rozdal chwale zamiast zagarnac); drzwi domu lorda uchylone dla nieszlachcica; wezwanie 'przyjdziesz gdy po ciebie posle'. PIERWSZY prawdziwy szczebel drabiny do rady Starkow (Manderly=najpotezniejszy chorazy Starkow). Gwiazda polnocna z marzenia w droge.",
   "weksle_uwaga_11_16": "297-11-24 ROZWIAZANE POZYTYWNIE: Rewan splacil czesc wczesniej (~25), chwiejba z 11-16 zazegnana, reszte splaci - weksel zdrowy, goodwill+reputacja uczciwego wierzyciela procentuja (naplyw kredytobiorcow).",
-  "pozyczka_weslar_11_24": "297-11-24: maly ZABEZPIECZONY mostek ~15 jel pod kolateral (kupiec Weslar, polecony przez Rewana, vet=uczciwy-cienszy). Odzyskiwalny z procentem+kolateral. Rozwija linie kredytowa ostroznie; war-chest ledwo tkniety."
+  "pozyczka_weslar_11_24": "297-11-24: maly ZABEZPIECZONY mostek ~15 jel pod kolateral (kupiec Weslar, polecony przez Rewana, vet=uczciwy-cienszy). Odzyskiwalny z procentem+kolateral. Rozwija linie kredytowa ostroznie; war-chest ledwo tkniety.",
+  "partnerstwo_pergaminu_wat": "Partnerstwo z pergaminnikiem Watem (zawarte 297-12-25, warunki doprecyzowane): (1) OFF-TAKE - operacja Symona (skryba/audyt/faktoria/kantor) kupuje pergamin+atrament po koszcie+maly narzut (PONIZEJ rynku) = staly spadek kosztu przyborow; (2) AUTONOMIA WATA - sam pan rzemiosla/jakosci (klauzula, Torren spisal, wzor jak autonomia Miry); (3) UDZIAL W SPRZEDAZY inkrementalnej (nowe kanaly: Septa/maesterzy/kupcy/faktoria) - Symon nieco CIENSZY udzial niz chcial (ustapil Watowi dla goodwillu, relacja>ostatni jelen); (4) KAPITAL Symona (inwestycja pojemnosci) = odzyskiwalne equity, nie datek; (5) GUILD-SAFE - ekspansja ADDYTYWNA, zero rajdu na cech pisarzy; (6) OPCJA SUKCESJI - prawo pierwokupu warsztatu gdy Wat zejdzie/przejdzie na spoczynek (brak nastepcy) - Wat zgodzil sie na first-refusal, nie przedsprzedaz (godnosc za zycia). Papier braawijski=wiosna."
  },
  "licznik_uzyc": {
   "audyt": 11,

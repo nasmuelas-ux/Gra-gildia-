@@ -2533,6 +2533,18 @@
    "wie_o_graczu": "uczciwy rachmistrz/pisarz Wiary, wspolnik kantoru",
    "potrzeby": "kapital+staly popyt (zima chuda, cech placi malo/spoznie); duma z fachu; nastepca (starzeje sie, syn poszedl na morze)",
    "nota": "KANDYDAT partnerstwa (integracja przyborow). VET (rzut 60): UCZCIWY + SKILLED (fach prawdziwy, dobra reka do skor+atramentu, zaopatruje cech/Septe=juz zaufany). ALE: operacja MALA + under-capitalized (zima chuda, cech placi malo/spoznie, brak nastepcy - starzeje sie, syn na morzu). Dokladnie material na partnerstwo Nesty-style: Symon daje KAPITAL + KANAL POPYTU (siec/faktoria/Septa/maesterzy) + off-take, Wat daje fach+podaz; udzial w rozszerzonej sprzedazy. PROOF marzy nim ew. kupno. Bonus: brak nastepcy = jesli sie sprawdzi, Wat moglby CHCIEC sprzedac/przekazac warsztat (sciezka do wlasnego aktywu Symona). Firewall-czyste, jawne uczciwe rzemioslo. || 297-12-25 (rzut 25): PARTNERSTWO ZAWARTE. Wat przyjal (potrzebowal), ALE dumny fachowiec -> Symon uszanowal AUTONOMIE (partner nie wlasciciel, Wat wladny nad rzemioslem/jakoscia, jak z Mira/Halem/Garrickiem). KOSZT: (1) inwestycja ~-18 jel w pojemnosc (wapno/ramy/dodatkowe rece - zima chuda, warsztat trzeba dozbroic by udzwignac wolumen); (2) DELIKATNY PUNKT: Wat zaopatruje CECH PISARZY (dawny adwersarz Symona) - ekspansja musi byc ADDYTYWNA (nowe kanaly: Septa/maesterzy/faktoria/kupcy), NIE rajd na cech (nie sploszyc, nie dac cechowi powodu do zaczepki o Symona-znowu-miesza). Partner-supplier zawiazany, off-take+udzial w rozszerzonej sprzedazy. zauf ->24. Sciezka do ew. kupna zywa (brak nastepcy). || 297-12-25: warunki DOPRECYZOWANE i spisane (Torren). Symon USTAPIL Watowi nieco na udziale sprzedazy (goodwill>ostatni jelen) - Wat wdzieczny, czuje sie traktowany uczciwie nie wyciskany. Autonomia+first-refusal-sukcesji+guild-safe+off-take. Lojalnosc glebnie (uczciwy partner co nie zdziera). zauf ->27."
+  },
+  {
+   "id": "maester_gormon",
+   "imie": "Maester Gormon",
+   "zawod": "maester holdingu Gleboki Brod (dwor ser Edwyda, w gorze doliny Bialego Noza); starszy, uczony, z zamilowaniem do LICZB/rachunku - odizolowany w glebi doliny, intelektualnie zaglodzony",
+   "nastawienie_do_gracza": "CIEPLY-ZACIEKAWIONY (rzut 94) - dostaje pergamin Symona przez siec, a gdy zobaczyl traktat+dossier ROZPROMIENIL sie: realne wyzwanie umyslu w backwater = uczta",
+   "zaufanie": 22,
+   "ostatni_kontakt": "298-01-01 - pozyskany jako 2. maester-recenzent (rzut 94)",
+   "cechy_mowy": "ozywiony gdy o liczbach; 'w tej dolinie nie ma z kim pogadac o niczym trudniejszym niz pogoda'",
+   "wie_o_graczu": "uczciwy rachmistrz/pisarz co dowozi pergamin; teraz: autor powaznego dziela dowodowego",
+   "potrzeby": "strawa intelektualna (odizolowany, znudzony), peer-of-the-mind, uznanie wlasnej uczonosci",
+   "nota": "DRUGI MAESTER-RECENZENT (przelom cel_matematyka). Rzut 94: maester Glebokiego Brodu (holding Edwyda, ktory vouczyl+bierze pergamin), STARSZY z prawdziwym zamilowaniem do liczb, odizolowany w glebi doliny=intelektualnie zaglodzony. Gdy Symon pokazal Rozprawe+dossier: rozpromienil sie (realne wyzwanie=uczta w backwater). Bedzie czytal ZACHLANNIE i prawdopodobnie PODPISZE (peer-of-the-mind, nie sceptyk). 2. glos korroboracji zdobyty. Synergia potwierdzona: pergamin->maester holdingu->recenzent. Firewall-czyste (intelektualna robota)."
   }
  ],
  "orbita": [

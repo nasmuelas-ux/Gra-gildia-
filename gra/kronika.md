@@ -7647,3 +7647,7 @@ Symon wrócił pogłębiać tier po falstarcie u Wata, ale trafił na cienko (rz
 
 ## 298-01-24 POPOŁUDNIE→WIECZÓR — dzień definitywnie suchy (rzut 12)
 Symon uparł się pracować dalej i dostał czwarty cienki wynik dnia (rzut 12, po Wacie-2 i tierze-15). Dzień jest po prostu suchy — robota nie rodzi, netto zero, a on tylko rośnie w zmęczeniu. Nawet dwa mistrzostwa nie biją martwego dnia; grind przeciw ziarnu dnia jest daremny. Kasa bez zmian (191). Jasny, powtórzony sygnał: dziś nie księgi, lecz ludzie i dom.
+
+## 298-01-24 → 02-01 — MONTAŻ: koniec stycznia; LORD POSŁAŁ PO SYMONA (rzuty 58, 87)
+Skok czasu do wydarzenia. Okres solidny (rzut 58): dni wypełnione zarobkowaniem (marża operacyjna równo), wizytami u ludzi (Aldous, Bran, Nesta, Wenda — grounding, którego Owen kazał szukać), pomaganiem (relief niósł, drobne dobre uczynki) i opieką nad Mirą (~13 tydzień, pierwszy trymestr domknięty, spokojniej). **298-02-01 — nowy miesiąc, Wielki targ:** pasywny wpływ ~74 zaksięgowany, kasa 191→291.
+**WYDARZENIE (rzut 87): lord Wyman posłał po Symona.** Posłaniec z Nowego Zamku przyniósł wezwanie na audiencję — to ten moment, który lord kiedyś zapowiedział: „przyjdziesz, gdy po ciebie poślę". Elewacja dojrzała: trzy głosy (Wylis-warrant, Owen-charakter, Theomore-rozum) zrobiły swoje. Nie wiadomo jeszcze, czego lord chce — elewacji do rady, zadania, próby — audiencja pokaże. Firewall wobec Antaryona (cenionego partnera Wymana) staje się na tej audiencji krytyczny. finanse licznik →205, wlodarstwo →144.

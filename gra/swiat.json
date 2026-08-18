@@ -2,15 +2,15 @@
  "data": {
   "rok": 298,
   "miesiac": 1,
-  "dzien": 23,
+  "dzien": 24,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 92,
- "dzien_tygodnia_nr": 4,
- "dzien_targowy": null,
- "nastroje_miasta": "298-01-23 RANEK. JASNY dzien - pogoda 92 (HIGH, sloneczny mrozny respite). Zdarzenie 19 (niskie tlo - drobna zimowa cisza/twardosc, ale dzien zdominowany dobra wiescia). Brak targu (23/3 nie), brak swieta. Korespondencja BOGATA (rzut 90): GLOWNE - PODPIS GORMONA WROCIL (rzut 62) - maester Glebokiego Brodu PODPISAL+poparl Rozprawe. Korroboracja ZAMKNIETA (Theomore+Gormon+dossier). Zostaje tylko forward do Cytadeli w wiosennym oknie. Symon: finanse 9, kasa 187, skarbiec 400. Mira ~11-12 tydz. W toku: forward wiosna, elewacja gated koniec zimy.",
+ "pogoda": 44,
+ "dzien_tygodnia_nr": 5,
+ "dzien_targowy": "targ rybny",
+ "nastroje_miasta": "298-01-24 RANEK. Umiarkowany zimowy dzien - pogoda 44 (znosnie), zdarzenie 25 (cicho-spokojnie). TARG RYBNY (24/3). Korespondencja umiarkowana (rzut 50). Symon: finanse 9, kasa 187, skarbiec 400. Rozprawa: pakiet gotowy, forward wiosna (waiting). Pergamin wydajniejszy (+20-30%), tier grubieje. Mira ~12 tydz. W toku: elewacja gated koniec zimy (Wylis+Owen+Theomore glosy), najem 2. straznika pending, forward wiosna.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 23,
+ "dzien": 24,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

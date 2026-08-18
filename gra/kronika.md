@@ -7634,3 +7634,7 @@ Symon uczcił domknięcie korroboracji tak, jak trzeba: radością z Mirą i wdz
 
 ## 298-01-23 POŁUDNIE→POPOŁUDNIE — forward ustalony z Theomore'em (rzut 71)
 Symon przyniósł Theomore'owi wieść, że Gormon podpisał — i maester się uradował: pakiet kompletny (dwaj maesterzy + dossier). Ustalili forward: posłać na wiosnę, gdy kruki lecą swobodniej, i routować przez starego znajomego Theomore'a w Cytadeli — do życzliwego czytelnika, nie w ogólną stertę — z jego endorsementem. Case jest teraz mocny: „dwa głosy z dwóch stron plus dowód z życia — tak Cytadela czyta serio". Przygotowawczy łuk Rozprawy zamknięty; dalej to już waiting game do wiosny. A na marginesie rzecz cenna dla drugiego celu: Theomore, który ma ucho lorda, jest coraz bardziej pod wrażeniem trajektorii Symona — że sam zbudował korroborację, znalazł Gormona, złożył dossier. To czyni go potencjalnym głosem elewacji od strony kompetencji, obok Wylisa (warrant) i Owena (charakter). Nogi elewacji się mnożą. zauf →84, finanse licznik →202.
+
+## 298-01-23 NOC → 01-24 RANEK — sen; spokojny targowy dzień
+Dzień 01-23 zamknięty (Gormon podpisał — korroboracja zamknięta; świętowanie z Mirą, podziękowanie Gormonowi, forward ustalony z Theomorem, wieczór w domu). Symon zasnął w pełnym domu.
+**01-24 RANEK:** umiarkowany zimowy dzień (pogoda 44), cicho (zdarzenie 25), targ rybny (24 podzielne przez 3). Korespondencja umiarkowana (rzut 50). W toku: Rozprawa gotowa (forward wiosną), pergamin wydajniejszy, tier grubieje, elewacja gated na koniec zimy, Mira ~12 tydz.

@@ -7595,3 +7595,6 @@ Dzień 01-19 (Dzień Matki) zamknięty (zarzut Gormona skruszony z Theomorem, Ro
 
 ## 298-01-20 RANEK→POŁUDNIE — wielki dzień roboty (rzut 95 KRYT)
 Symon pracował w jasny mroźny dzień i trafił na krytyczny (rzut 95). Spóźniona dostawa, ta utknięta na trakcie 01-01, wreszcie dojechała i zapłaciła swoją marżę; do tego mocny obrót operacyjny i wypatrzona optymalizacja. +28 jel (kasa 139→167). Mistrzowskie oko (finanse 9) na pomyślny dzień łapie wszystko naraz. finanse licznik →195 (ku lvl10 ~250, daleko).
+
+## 298-01-20 POŁUDNIE→POPOŁUDNIE — u Owena, na progu (rzut 51)
+Symon zaszedł do Owena i zdał, gdzie stoi: Rozprawa u dwóch maesterów po podpis, elewacja ku radzie dojrzewa na koniec zimy, Mira ~11 tydzień. Septon-ojciec duchowy zobaczył próg, na którym Symon stanął: realna władza i dziecko nadchodzą naraz. Jego mądrość (rzut 51): próba nie leży w dojściu, lecz w pozostaniu sobą, gdy się dojdzie — „wielu doszło wysoko i tam zgubiło chłopca z rogu; ty go trzymaj, bo to on jest w tobie najlepszy". A o ojcostwie: „dasz dziecku to, czego sam nie miałeś — ojca; a nieść oboje, władzę i ojcostwo, bez zguby duszy, to twoja prawdziwa próba, większa niż cech czy pierścień". Grounding głęboki; więź cała. zauf +1.

@@ -7598,3 +7598,7 @@ Symon pracował w jasny mroźny dzień i trafił na krytyczny (rzut 95). Spóźn
 
 ## 298-01-20 POŁUDNIE→POPOŁUDNIE — u Owena, na progu (rzut 51)
 Symon zaszedł do Owena i zdał, gdzie stoi: Rozprawa u dwóch maesterów po podpis, elewacja ku radzie dojrzewa na koniec zimy, Mira ~11 tydzień. Septon-ojciec duchowy zobaczył próg, na którym Symon stanął: realna władza i dziecko nadchodzą naraz. Jego mądrość (rzut 51): próba nie leży w dojściu, lecz w pozostaniu sobą, gdy się dojdzie — „wielu doszło wysoko i tam zgubiło chłopca z rogu; ty go trzymaj, bo to on jest w tobie najlepszy". A o ojcostwie: „dasz dziecku to, czego sam nie miałeś — ojca; a nieść oboje, władzę i ojcostwo, bez zguby duszy, to twoja prawdziwa próba, większa niż cech czy pierścień". Grounding głęboki; więź cała. zauf +1.
+
+## 298-01-20 NOC → 01-21 RANEK — sen; spokojny targowy dzień
+Dzień 01-20 zamknięty (naprawa danych lorda, wielki dzień roboty, narada z Owenem na progu, wieczór w domu). Symon zasnął przy Mirze.
+**01-21 RANEK:** umiarkowany zimowy dzień (pogoda 34), spokojnie (zdarzenie 30), targ rybny (21 podzielne przez 3). Korespondencja skromna (rzut 32). Podpis Gormona jeszcze w drodze (~za dni — wolno czyta, zima). W toku: elewacja gated na koniec zimy, forward Rozprawy wiosną, pergamin kwitnie, Mira ~11 tydz.

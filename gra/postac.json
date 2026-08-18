@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 44,
- "zmeczenie": 2,
+ "zmeczenie": 4,
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 360,
@@ -150,7 +150,7 @@
  },
  "nazwisko": "Tally",
  "liczniki_uzyc": {
-  "rachunki": 269,
+  "rachunki": 270,
   "audyt": 176,
   "pismo": 139,
   "organizacja": 161,
@@ -279,6 +279,11 @@
    "status": "UTWORZONY 298-01-01 (rzut 100 KRYT)",
    "cel": "korroboracja Rozprawy faktem: metoda w dzialaniu na realnych ksiegach (kradziez Malwyna, faktoria, Doryan/Voss) - anonimizowane, dyskrecja klientow chroniona, wynik+metoda odslonite",
    "przelom": "Przy skladaniu Symon dostrzegl WZOR miedzy realnymi przypadkami = generalizacja, ktorej wczesniej nie ujal - PRAKTYKA WZMOCNILA TEORIE: rdzeniowe twierdzenie Rozprawy stalo sie MOCNIEJSZE i szersze. Dossier jest empirycznie kuloodporny (anonimizacja mistrzowska=dyskrecja cala + dowod niepodwazalny). Fakt, ktorego Cytadela nie obali."
+  },
+  "notatki_papiernia_wodna": {
+   "stan": "UTWORZONE (298-02-03)",
+   "opis": "Własnoręczna instrukcja rzemieślnika wyłuskana z zeszytu arcymaestera Theomore'a: surowiec (szmaty lniane/konopne), rozmaczanie/gnicie, MIAZGA przez stępory na napęd wodny (sedno automatyzacji), czerpanie sitem w ramie, klejenie+suszenie. Dopisany własny RACHUNEK: 3 warunki — woda ze spadkiem, kapitał na próby, cierpliwość (nie interes na tę zimę).",
+   "wartosc": "know-how przewagi technologicznej — droga, której konkurenci w Białym Porcie nie widzą"
   }
  },
  "fundusz_reliefu_jel": {

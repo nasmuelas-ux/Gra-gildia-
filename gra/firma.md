@@ -370,3 +370,16 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - **Dochód operacyjny (Warstwa B):** +62 jel do kasy (360->422). Symon zlecenia osobiste + udział w przerobie Hala; minus upust za pospieszną dostawę (Corwin). Jakość: rzut 62.
 - **Pasywna go-forward:** baza faktorii urosła -> recurring +4 jel/mies (~82 -> ~86), do zaksięgowania na bilansie 298-03-01.
 - **STRAIN:** double throughput na tej samej liczbie rąk = wobble jakości. Wątek hal_pojemnosc_rekrutacja AKTYWNY.
+
+
+## 298-02-16 — RESTRUKTURYZACJA: warsztat -> dom handlowy ze strukturą
+**Rekrutacja rzut 40 (sukces z kosztem):** +2 ręce — **Fenn** (gotowy, zimowy narzut na płacy) + **Jory** (na próbie, sierota Owena, do wyszkolenia pod Tamem).
+**Nowy ład:**
+- Właściciele/strategia: Symon + Nesta
+- **Hal = KIEROWNIK** (koordynacja całości: jakość + popyt<->pojemność; Lorren raportuje do niego)
+- **Tam = SENIOR wykonania** (prowadzi biurko, mentoruje nowych)
+- Ręce: Wick, Fenn, Jory(próba)
+- **Lorren:** wytyczna pozyskuj+realizuj+SKALA CO MIESIĄC
+- **Deman:** Arkusz/intel UBRANY w ofertę jako wartość dodana sprzedażowa
+**Koszt jednorazowy:** -3 jel (onboarding/pierwsze płace/narzut). Kasa 422->419.
+**Efekt go-forward:** pojemność ~podwojona, Lorren ma mandat skalowania — pasywna ma rosnąć miesiąc do miesiąca (realizacja na bilansach). Wobble jakości zażegnany strukturalnie, nie zdławieniem popytu.

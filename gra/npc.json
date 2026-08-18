@@ -1546,7 +1546,8 @@
     "297-06-18: Symon zaaranzowal, ze Serla (cooper-wdowa, matczyna) gotuje im i doglada za zaplate - koniec jedzenia jak popadnie, matczyna obecnosc w izbie 3.",
     "297-10-02 (rzut 100 KRYT): Symon zaszedl sprawdzic operacjonalizacje warrantu prowiantowego lorda - Hal PRZEWIDZIAL i przygotowal WSZYSTKO sam: ksiegi pod pieczecia Manderly'ego gotowe, dostawcy (Merrek/Torwyn) i sztauowanie (Aurane) zgrane, plan lorda plynie od dnia pierwszego - nic do poprawy. Biurko pociagnelo bez Symona przez cala wojne z pierscieniem; linia audytow domknela tluste zlecenie (+22 jel). Tam ronie pod Halem (junior). Chlopiec przestal byc czeladnikiem - jest OPERATOREM. Lancuch Owena spelniony: sierota wyrosla w niezaleznosc. nast 94->96, zauf 67->72.",
     "297-11-22 (rzut 95): doglad firmy - HAL ROZKWITL jako operator. KOREKTA (gracz): Hal JUZ NA UDZIALE od 07-28 (nie pensja) = funkcjonalnie mlodszy wspolnik, nie pracownik. Gdy Symon dogladal rodziny/dworu/nauki, Hal prowadzil firme co UROSLA (audyty+nisza suchego towaru samobiezny pipeline+retainery+nowi klienci, +22 do banku). Wiec nie 'zrobic go partnerem' (juz udzialowiec) lecz UZNAC WZROST: powiekszyc jego udzial / formalny tytul-standing skoro tak urosl i niesie. Instytucja samobiezna. zauf 72->74. Lancuch Owena (sierota->udzialowiec-operator->?wiekszy udzial/wspolnik pelny) dojrzewa.",
-    "297-11-22 (rzut 92): Symon POWIEKSZYL udzial Hala i nadal PELNE MLODSZE WSPOLNICTWO (z operatora-na-udziale). Dla sieroty-bez-nazwiska, ktory wierzyl ze marzenie=zakazany luksus (dream-wound d29) - REALNY UDZIAL+STANDING+uznanie ze MA cos wlasnego = dream-wound GLEBOKO sie goi. Hal (jego guarded sposob) przytloczonyy: nie umie tego ubrac w slowa, tylko 'ja... dziekuje, panie Symon' lamiacym glosem. LOJALNOSC do szpiku (zwiazany nie udzialem lecz tym ze Symon go zobaczyl/podniosl/uczynil KIMS). Lancuch Owena SPELNIONY: sierota->wspolnik; Hal zobowiazuje sie podnosic nastepnego (Tam). Firma=jeszcze silniejsza (zaangazowany wspolnik-wlasciciel niesie ja). nast 97->99, zauf ->78."
+    "297-11-22 (rzut 92): Symon POWIEKSZYL udzial Hala i nadal PELNE MLODSZE WSPOLNICTWO (z operatora-na-udziale). Dla sieroty-bez-nazwiska, ktory wierzyl ze marzenie=zakazany luksus (dream-wound d29) - REALNY UDZIAL+STANDING+uznanie ze MA cos wlasnego = dream-wound GLEBOKO sie goi. Hal (jego guarded sposob) przytloczonyy: nie umie tego ubrac w slowa, tylko 'ja... dziekuje, panie Symon' lamiacym glosem. LOJALNOSC do szpiku (zwiazany nie udzialem lecz tym ze Symon go zobaczyl/podniosl/uczynil KIMS). Lancuch Owena SPELNIONY: sierota->wspolnik; Hal zobowiazuje sie podnosic nastepnego (Tam). Firma=jeszcze silniejsza (zaangazowany wspolnik-wlasciciel niesie ja). nast 97->99, zauf ->78.",
+    "298-02-16: AWANS na KIEROWNIKA firmy — koordynuje całość (jakość, popyt↔pojemność, Lorren raportuje do niego). Schodzi ze skrobania. 'Popyt i pojemność w jednej ręce. Mojej.' Przyjął pod dach Jory'ego (kolejny sierota Owena — koło się zamyka)."
    ],
    "ostatni_kontakt": "297-11-22",
    "cechy_mowy": "ciety jezyk, szybki, lekko hardy/dumny",
@@ -2226,7 +2227,10 @@
    "zaufanie": 24,
    "ostatni_kontakt": "298-01-21 - zlecone czystopisy dossier (wykonane czysto, rzut 27)",
    "nota": "Perla (rzut 98). Sierota jak Hal/Symon. Lancuch mentorstwa: Hal go uczy. Dyskrecja>talent - kluczowe przy firewallu. | 297-12-16: Symon ruszyl DELEGACJE (rzut 63): powierzyl Tamowi rutyne drugiej nogi + kawalek wrazliwej ksiegowosci (jego dyskrecja=atut za firewallem). Tam, sierota jak Hal/Symon, chwycil OD RAZU - honor zaufaniem trafil w ten sam nerw co u Hala; glodny dowiesc. Rosnie pod Halem ku wlasnej niezaleznosci. Lancuch mentorstwa: Symon->Hal->Tam. || 298-01-21: Symon zlecil Tamowi CZYSTOPISY dossier 'Dowody z zycia' dla kolejnych maesterow-recenzentow. Tam wykonal czysto+dyskretnie (dojrzewa jako operator, kolejny krok delegacji). Kopie poszly siecia pergaminowa do maesterow holdingow.",
-   "rok_urodzenia": 284
+   "rok_urodzenia": 284,
+   "wie_o_graczu": [
+    "298-02-16: AWANS na SENIORA wykonania — prowadzi biurko pod Halem, mentoruje nowych (pierwszy podopieczny: Jory)."
+   ]
   },
   {
    "id": "kupiec_merrek",
@@ -2290,7 +2294,8 @@
    "stan": "mieszczanin",
    "wie_o_graczu": [
     "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda).",
-    "297-10-06: rola doprecyzowana - buduje intel z jawnych danych, kaskada: dzieli z klientami -> sprzedaje (Arkusz Portowy) -> fallback zasila transakcje faktorii (odciaza Neste, ktora dotad czytala rynek sama). Krawedz zostaje u Symona/Nesty."
+    "297-10-06: rola doprecyzowana - buduje intel z jawnych danych, kaskada: dzieli z klientami -> sprzedaje (Arkusz Portowy) -> fallback zasila transakcje faktorii (odciaza Neste, ktora dotad czytala rynek sama). Krawedz zostaje u Symona/Nesty.",
+    "298-02-16: produkty analityczne (Arkusz Portowy/intel) UBRANE w ofertę firmy jako wartość dodana sprzedażowa (argument Lorrena), nie tylko osobny towar."
    ]
   },
   {
@@ -2307,7 +2312,8 @@
    "wie_o_graczu": [
     "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda).",
     "297-10-06: rola doprecyzowana - (1) podtrzymuje relacje z obecnymi, (2) pozyskuje nowych bardzo powoli (ciepłe wprowadzenia, nie hustle), (3) TERAZ priorytet: wyciagac audyty/zlecenia od obecnych klientow. Ma arkusz uslug/cen. Budowa machiny.",
-    "297-10-31 (rzut 84): samodzielnie domknal audyt Doryana (skim dostawcy potwierdzony/udokumentowany) gdy Symon byl w gore doliny - agent robi swoje, firma stoi bez pryncypala. Fee+retainer, cieply peer-referral zasiany."
+    "297-10-31 (rzut 84): samodzielnie domknal audyt Doryana (skim dostawcy potwierdzony/udokumentowany) gdy Symon byl w gore doliny - agent robi swoje, firma stoi bez pryncypala. Fee+retainer, cieply peer-referral zasiany.",
+    "298-02-16: TWARDE WYTYCZNE — pozyskuj+realizuj+zwiększaj skalę CO MIESIĄC; raportuje do Hala (kierownika). Nowy argument sprzedażowy: produkty Demana (Arkusz/intel) jako wartość dodana w ofercie."
    ]
   },
   {
@@ -2538,6 +2544,32 @@
    "wie_o_graczu": [
     "USTALONA relacja doradcza (09-30, 10-02, 10-08, 10-12). Symon czlowiek rady faktem, nast 78/zauf 48. Rozdaje chwale, liczy uczciwie, nie chwyta za duzo, dowozi niezawodnie - cechy ktore Wyman ceni po zdradzie pierscienia.",
     "297-11-07: POSLAL po Symona po zabojczym sztormie (Godric przyniosl wezwanie) - imie Symona padlo najglosniej przy zamkowym bilansie (relief dzialal gdy mroz zabijal + castle-first utrzymany). To spelnienie 'przyjdziesz gdy po ciebie posle' + kontynuacja ustalonej relacji doradczej, nie pierwsza audiencja."
+   ]
+  },
+  {
+   "id": "fenn_skryba",
+   "imie": "Fenn",
+   "wiek": null,
+   "stan": "czeladnik",
+   "zawod": "ręka wykonawcza firmy (skryba-rachmistrz) — od 298-02-16, z polecenia; solidny, spokojny, dość dyskretny; kosztował zimowy narzut powyżej stawki",
+   "mieszka": "Bialy Port",
+   "nastawienie_do_gracza": 55,
+   "zaufanie": 30,
+   "wie_o_graczu": [
+    "298-02-16: zatrudniony jako gotowa ręka wykonawcza pod Tamem/Halem"
+   ]
+  },
+  {
+   "id": "jory_sierota",
+   "imie": "Jory",
+   "wiek": null,
+   "stan": "sierota/uczeń",
+   "zawod": "ręka wykonawcza firmy NA PRÓBIE (od 298-02-16) — wychowanek szkółki Owena (jak Hal), liter nauczony przy Septie, uczciwy, bystry ale SUROWY/niewprawny; szkolony pod Tamem",
+   "mieszka": "Bialy Port",
+   "nastawienie_do_gracza": 60,
+   "zaufanie": 25,
+   "wie_o_graczu": [
+    "298-02-16: Symon dał mu grunt jak niegdyś Halowi — sierota Owena dostał szansę w firmie; na próbie, pod mentoringiem Tama"
    ]
   }
  ],

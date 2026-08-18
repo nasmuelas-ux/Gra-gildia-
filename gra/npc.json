@@ -2506,6 +2506,17 @@
    "wie_o_graczu": "rachmistrz Wiary, uczciwy wierzyciel, wspolnik kantoru Nesty; NIE ten sam co Denys (swiecarz Owena)",
    "potrzeby": "uczciwe rozliczenie hurtowych kontraktow (septy/Wiara), zarzadzanie sezonowym cashflow (lato-koszt loju vs zima-przychod), porzadek ksiag",
    "nota": "DRUGA KOTWICA sredniego tieru (anty-koncentracja), po mlynarzu Garrecie. Kontrast z bednarzem: swiecarz w SWOIM sezonie=solidny, niezalezny od warrantu zamku, volume przez popyt zimowy+instytucjonalny (septy hurt). Wziety jako klient 297-12-18 (rzut 52): uczciwe rozliczenia + zarzadzanie sezonowym cashflow. UWAGA firewall/granica: NIE dotykac ukladu Denys-Owen (30 lat wiernosci, off-limits wg nauki 06-04) - Corwin to INNY swiecarz, wolny rynek. Tier: Garret(mlyn)+Corwin(swiece), oba castle-independent, oba sezonowo solidne."
+  },
+  {
+   "id": "kupiec_malwyn",
+   "imie": "Malwyn",
+   "zawod": "wlasciciel grubszego domu handlowego (Schody/port) - sukno/korzenie/import; zamozny, dyskretny",
+   "nastawienie_do_gracza": "rzeczowy-ufny (przez polecenie cichego klienta) - szuka najlepszego uczciwego oka, gotow placic premium za dyskrecje",
+   "zaufanie": 16,
+   "ostatni_kontakt": "297-12-21 Dzien Matki - zlecil DYSKRETNY forensowy audyt (rzut 81)",
+   "wie_o_graczu": "reckoner lord-trusted, uczciwy, dyskretny; polecony przez peera (cichy klient)",
+   "potrzeby": "podejrzewa PRZECIEK/podbieranie w wlasnych ksiegach zimowych - chce wiedziec (niechlujstwo czy kradziez) ZANIM komukolwiek pokaze; premium za cisze",
+   "nota": "NOWY PREMIUM KLIENT (forensowy). Wyplynal w Dzien Matki wlasnie dlatego, ze wrazliwa robota lubi cichy dzien - dyskretnie, nie na targu. Polecenie od cichego klienta (peer-referral, flywheel premium). Podejrzewa wewnetrzny przeciek/kradziez, chce Symonowego mistrzowskiego oka (finanse 8) po cichu. Zaliczka ~10 jel + gruby per-find przy znalezisku. Firewall-czyste (zwykly audyt). Do wykonania audytu."
   }
  ],
  "orbita": [

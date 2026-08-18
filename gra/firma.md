@@ -218,3 +218,26 @@ _Gracz: "co tak mało?" — słuszne pytanie o skalę. Odpowiedź: +54 to TYLKO 
 
 ## DRUGA NOGA FAKTORII (anty-koncentracja) — od 297-12-16
 Reckoner's eye ujawnil, ze faktoria (jak prywatne lending Symona) wisi glownie na prowiancie zamku = jeden wieloryb, pieczec Wylisa pod spodem. Ruch: otworzyc DRUGI KANAL przychodu spolki niezalezny od zamku — (1) prywatne prowiantowanie (kupcy, gospodarze, cechy), (2) sieć polnocno-ladowa jako ODBIORCY, nie tylko dostawcy, (3) mlynarz Garret jako staly kontrahent ziarna (mlyn kupuje/sprzedaje). HAL-wspolnik dostaje ten front do prowadzenia (wzrost odpowiedzialnosci). Wieksze naczynie obraca sie wolniej niz prywatna sakiewka (rzut 67 vs 94), castle-share nadal realny przez staly warrant, ale DRUGA NOGA zaczyna rosnac - ciezar schodzi z jednej relacji.
+
+## WYLICZENIE MARŻY — PARTNERSTWO PERGAMINU (WAT), 297-12-25
+_Symon liczy wpływ na marżę (finanse 8). Skala uboga: 1 jeleń=100 mied. Trzeźwo, bez pompowania._
+
+**Dwa strumienie wpływu:**
+
+1) **OSZCZĘDNOŚĆ (off-take, spadek kosztu własnego)** — operacja Symona (skryba/audyt/kontrakty/traktaty/księgi faktorii/kantor/rejestry reliefu) zużywa pergamin+atrament+pióra stale. Szacunek zużycia ~6-9 jel/mies. Off-take poniżej rynku tnie to o ~1/3 → **oszczędność ~2-3 jel/mies** (czysty zysk, bo koszt i tak był ponoszony).
+
+2) **SPRZEDAŻ (udział w sprzedaży inkrementalnej, recurring)** — nowe kanały addytywne:
+   - MAESTERZY/wieża (Theomore) — najgrubszy, recurring, stosy pergaminu; ~4-6 jel/mies udziału Symona
+   - SEPTA (Owen) — stała, przewidywalna; ~1-2 jel/mies
+   - kupcy/faktoria — zmienne; ~2-4 jel/mies
+   → **udział Symona ~7-12 jel/mies**, rosnący z popytem wieży/Septy (po ustępstwie na rzecz Wata udział ciut cieńszy — świadome dla goodwillu).
+
+**RAZEM na marżę:** teraz ~**+9-12 jel/mies** (ramp-up), dojrzale ~**+15-18 jel/mies** gdy kanały ustabilizowane. Plus one-off launch +12 (12-25, zaksięgowany).
+
+**Kontekst:** to ~10-20% uplift na obecnym netto (~55-90/mies). NIE game-changer sam w sobie — ale:
+- **kapitał-light** (leveruje istniejącą sieć/markę; inwestycja -18 odzyskiwalna)
+- **castle-independent** (zero zależności od warrantu = karmi wątek anty-koncentracji)
+- **strategiczny**: kontrola KLUCZOWEGO wejścia (papier=krew skryby) + ścieżka do WŁASNEGO aktywu (opcja sukcesji warsztatu)
+- **papier braawijski (wiosna)** = drugi, grubszy potencjał na tej samej nodze (import premium, gdy galery wrócą)
+
+**Werdykt Symona:** solidna nowa noga, nie fajerwerk — dokładnie taka, jak lubi: cicha, dywersyfikująca, rosnąca, z opcją na więcej.

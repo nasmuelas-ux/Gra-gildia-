@@ -244,3 +244,31 @@ _Symon liczy wpływ na marżę (finanse 8). Skala uboga: 1 jeleń=100 mied. Trze
 
 ## RETAINER MAESTERÓW NA PERGAMIN — 297-12-26
 Wieza Nowego Zamku przyjela STALY comiesieczny retainer na welin+atrament (upgrade z jednorazowej sprzedazy). Udzial Symona ~5-6 jel/mies, ZABEZPIECZONY recurring - kregoslup linii pergaminowej. UWAGA nt. skali: w B.Porcie 1 maester (Theomore); grube zamowienie NIE z liczby glow, lecz z funkcji SKRYPTORIUM/KRUKARNI wiezy (akolici/nowicjusze kopiuja, rejestry zamku, korespondencja krucza - stale). Potencjal ekspansji: maesterzy innych Manderly-sworn holdingow (przez siec polnocno-ladowa).
+
+## AUDYT PASYWNEGO WPŁYWU — 298-01-01 (na żądanie gracza)
+_Gracz spytał, czy zaksięgowano WSZYSTKIE strumienie. Pełna rekoncyliacja Warstwy A (pasywna, 1. dnia):_
+
+| Strumień | Źródło | +jel/mies |
+|---|---|---|
+| Baza wspólnika faktorii | **kantor Nesty** | 6 |
+| Plon rotacji (zwrot właścicielski) | **kantor Nesty / rotacja 400 jel** | 14 |
+| Retainery firmy faktorskiej (2/3) | **firma audytowa** (Aurane+faktoria+blok) | 12 |
+| Cichy klient (recurring) | **firma audytowa** (grey-stream przez Hala) | 8 |
+| Odsetki weksle 200 + pożyczka zabezp. 50 | **weksle + pożyczki** | 12 |
+| Odsetki pożyczka Weslar ~15 (zabezp.) | **pożyczki** (dodane 11-24, wcześniej pominięte) | +1 |
+| Underwriting składka netto (miesiąc bez szkody) | **wspol_underwriting ~185 na ryzyku** | +2 |
+| Czynsze kamieniczki (po obsłudze długu) | **inwestycja: kamieniczka** | 2 |
+| Pergamin (Wat) — pierwszy pełniejszy ramp | **nowa noga** | +8 |
+| **RAZEM Warstwa A (298-01)** | | **~65** |
+
+Zaksięgowano 1. dnia: +60 (montaż) + **true-up +6 = razem ~66** → kasa 464→470.
+
+**POTWIERDZENIE per strumień gracza:**
+- ✅ Kantor Nesty = baza 6 + plon rotacji 14 (booked)
+- ✅ Moja faktoria/firma audytowa = retainery 12 + cichy klient 8 (booked); audyty PER-EVENT (Malwyn +25 zaks. 12-21, Doryan itd.) lecą przy zdarzeniu, nie w pasywie
+- ✅ Weksle = odsetki (w 12) booked
+- ✅ Pożyczki = zabezp. 50 (w 12) + Weslar 15 (+1 true-up) booked
+- ✅ Pozostałe inwestycje = rotacja (plon), czynsze, underwriting (+2 true-up), pergamin (+8) booked
+- ℹ️ udzial_wykup_aldous (~28) = pozycja odzyskiwalna, friendly terms, nie generuje stałych odsetek miesięcznych (kapitał, nie yield)
+
+**WARSTWA B (operacyjna ~107/mies)** — castle warrant (staly ~65) + drewno + żelazo + Harrol + holdingi (Harrol/Berena/Edwyd) + guided + korytarz + Malwyn — NIE księgowana 1. dnia; leci PER-DOSTAWA przez cały miesiąc (grudzień: uchwycona w codziennych rzutach pracy/dozoru +8..+18). Nie pominięta — booked elsewhere, by nie double-count.

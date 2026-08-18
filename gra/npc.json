@@ -1861,7 +1861,7 @@
    "rok_urodzenia": 272,
    "backstory_dzieci": "syn z Rovanem zmarl przed 1. rokiem (gorączka); Rovan zmarl 2 lata pozniej; potem dzieci nie przyszly; nie mloda - dzieci mozliwe ale niepewne, poród ryzykowny",
    "flaga": "ZONA Symona (od 297-10-13). Rowna partnerka, wlasny grunt (sukno/dom/autonomia), gwiazda dzielona.",
-   "stan_szczegolny": "PRZY NADZIEI - ~8 TYDZIEN (298-01), bezpieczna, wczesne okno dawno za nia, zaokragla sie wyrazniej. Rhona przy niej rzadzi domem/opieka. Rozwiazanie ~lato 298. Dyskretne (krag: Symon/Mira/Rhona/zielarka/Owen/Serla)."
+   "stan_szczegolny": "PRZY NADZIEI - ~10-11 TYDZIEN (298-01), bezpieczna, wyraznie zaokraglona, Rhona przy niej rzadzi/opieka. Rozwiazanie ~lato 298 (~7-8 tyg za polowa). Dyskrecja rozluznia sie (widac). Mdlosci minely."
   },
   {
    "id": "septon_torren",
@@ -2540,11 +2540,11 @@
    "zawod": "maester holdingu Gleboki Brod (dwor ser Edwyda, w gorze doliny Bialego Noza); starszy, uczony, z zamilowaniem do LICZB/rachunku - odizolowany w glebi doliny, intelektualnie zaglodzony",
    "nastawienie_do_gracza": "CIEPLY-ZACIEKAWIONY (rzut 94) - dostaje pergamin Symona przez siec, a gdy zobaczyl traktat+dossier ROZPROMIENIL sie: realne wyzwanie umyslu w backwater = uczta",
    "zaufanie": 22,
-   "ostatni_kontakt": "298-01-01 - pozyskany jako 2. maester-recenzent (rzut 94)",
+   "ostatni_kontakt": "298-01-19 - recenzja wraca z SUBSTANTYWNYM ZARZUTEM (rzut 18, peer nie sceptyk)",
    "cechy_mowy": "ozywiony gdy o liczbach; 'w tej dolinie nie ma z kim pogadac o niczym trudniejszym niz pogoda'",
    "wie_o_graczu": "uczciwy rachmistrz/pisarz co dowozi pergamin; teraz: autor powaznego dziela dowodowego",
    "potrzeby": "strawa intelektualna (odizolowany, znudzony), peer-of-the-mind, uznanie wlasnej uczonosci",
-   "nota": "DRUGI MAESTER-RECENZENT (przelom cel_matematyka). Rzut 94: maester Glebokiego Brodu (holding Edwyda, ktory vouczyl+bierze pergamin), STARSZY z prawdziwym zamilowaniem do liczb, odizolowany w glebi doliny=intelektualnie zaglodzony. Gdy Symon pokazal Rozprawe+dossier: rozpromienil sie (realne wyzwanie=uczta w backwater). Bedzie czytal ZACHLANNIE i prawdopodobnie PODPISZE (peer-of-the-mind, nie sceptyk). 2. glos korroboracji zdobyty. Synergia potwierdzona: pergamin->maester holdingu->recenzent. Firewall-czyste (intelektualna robota)."
+   "nota": "DRUGI MAESTER-RECENZENT (przelom cel_matematyka). Rzut 94: maester Glebokiego Brodu (holding Edwyda, ktory vouczyl+bierze pergamin), STARSZY z prawdziwym zamilowaniem do liczb, odizolowany w glebi doliny=intelektualnie zaglodzony. Gdy Symon pokazal Rozprawe+dossier: rozpromienil sie (realne wyzwanie=uczta w backwater). Bedzie czytal ZACHLANNIE i prawdopodobnie PODPISZE (peer-of-the-mind, nie sceptyk). 2. glos korroboracji zdobyty. Synergia potwierdzona: pergamin->maester holdingu->recenzent. Firewall-czyste (intelektualna robota). || 298-01-19 (recenzja rzut 18): Gormon - wlasnie DLATEGO ze kompetentny+zaangazowany (nie rubber-stamp) - wczytal sie gleboko i znalazl REALNY ZARZUT: substantywna obiekcja/luka w dowodzie, ktora podnosi UCZCIWIE jako peer. NIE odrzucenie (chce podpisac, traktuje Symona jak rownego, dzielo ceni), ale NIE podpisze poki obiekcja nierozwiazana. Jego izolacja=mial czas naprawde ryc. To peer-review wall (echo sciany Theomore'a) - rozwiazany prawdopodobnie WZMOCNI dzielo. DALEJ: zmierzyc sie z zarzutem Gormona (moze z Theomore'em). Relacja gleboka (intelektualny partner, spor=szacunek)."
   }
  ],
  "orbita": [

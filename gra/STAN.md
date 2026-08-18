@@ -1,6 +1,14 @@
 # STAN GRY — regenerowany z JSON (NIE edytuj recznie)
 _Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._
 
+## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)
+Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
+1. Naglowek daty + pogoda/zdarzenie
+2. Kalendarz (targ/swieto/clo)
+3. **📬 WIADOMOSCI / KORESPONDENCJA** — osobna ramka: kto sie odezwal/przyslal poslanca/jaka wiesc/co dojrzalo (rzut na inbound); jak nic → napisz "cisza". TO NIE JEST NA ZADANIE — renderuj SAM co ranek (zasada od 297-05-21; lapse'y 05-19 i 12-19/21 — nie powtorzyc).
+4. STATUS: jedzenie (sytosc/zmeczenie/zdrowie) + hajs (wolne + skrot)
+5. Watki w toku → pytanie "co robisz" (bez listy opcji)
+
 ## TERAZ
 - **Data:** 297-12-21 RANEK · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly

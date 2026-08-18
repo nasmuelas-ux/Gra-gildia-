@@ -50,6 +50,15 @@ if _ch:
 out = []
 out.append(f"# STAN GRY — regenerowany z JSON (NIE edytuj recznie)")
 out.append(f"_Prowadzenie: czytaj TEN plik na starcie kazdej tury. Zrodlo prawdy = gra/*.json, NIGDY pamiec rozmowy._\n")
+out.append(
+    "## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)\n"
+    "Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:\n"
+    "1. Naglowek daty + pogoda/zdarzenie\n"
+    "2. Kalendarz (targ/swieto/clo)\n"
+    "3. **📬 WIADOMOSCI / KORESPONDENCJA** — osobna ramka: kto sie odezwal/przyslal poslanca/jaka wiesc/co dojrzalo (rzut na inbound); jak nic → napisz \"cisza\". TO NIE JEST NA ZADANIE — renderuj SAM co ranek (zasada od 297-05-21; lapse'y 05-19 i 12-19/21 — nie powtorzyc).\n"
+    "4. STATUS: jedzenie (sytosc/zmeczenie/zdrowie) + hajs (wolne + skrot)\n"
+    "5. Watki w toku → pytanie \"co robisz\" (bez listy opcji)\n"
+)
 out.append(f"## TERAZ\n- **Data:** {data} · {s.get('sezon','')}\n- **Miasto:** Bialy Port (White Harbor) · rod Manderly")
 out.append(f"- **Postac:** {p.get('imie','?')}, l.{p.get('wiek','?')} — {p.get('utrzymanie','')[:120]}")
 out.append(f"- **Mieszka:** {p.get('mieszka','?')}")

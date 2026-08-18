@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** 297-12-21 RANEK. DZIEN MATKI (dzien_tyg 7, tygodniowy) - Matka: milosc/malzenstwo/milosierdzie; handel PRZYGASZONY, ludzie do septy, nabozenstwa, jalmuzna. Pogoda 40 (umiarkowany chlod, respite sie do
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 278 jeleni + 1 mied + 0 smokow
+- **Wolne:** 303 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

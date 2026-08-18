@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 12,
-  "dzien": 22,
+  "dzien": 23,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 8,
- "dzien_tygodnia_nr": 1,
+ "pogoda": 37,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": null,
- "nastroje_miasta": "297-12-22 RANEK. ZABOJCZY MROZ - pogoda 8 (respite SKONCZONY: killing frost/zawieja, gleboka zima pokazala zeby; biedota w niebezpieczenstwie, relief na alarmie, maszyna testowana jak w poprzednich burzach). Zdarzenie 69 (energia jest, ale pogoda dominuje). Brak targu/swieta. KORESPONDENCJA (rzut 80): glowna wiesc - RHONA bezpieczna ale UTKNELA w drodze (przeczekuje mroz w przydrozntej gospodzie/stacji), przyjazd OPOZNIONY ~1-2 dni. Mira martwi sie o siostre ale ulzona ze NIE jest na trakcie w tym. Symon: relief/maszyna pod probą mrozu. finanse 8 (mistrzostwo), kasa 303. W toku: audyt Malwyna domkniety (recurring), Rozprawa (2. polowa), Edwyd klient, izba dla Rhony gotowa czeka.",
+ "nastroje_miasta": "297-12-23 RANEK. Zabojczy mroz PEKL w nocy - pogoda 37 (zwykly zimowy chlod, trakty znow przejezdne). ALE zdarzenie 5 (NISKIE): ponury poranek po killing froscie - miasto liczy straty na marginesach (kilka smierci w dalekich zakatkach POZA zasiegiem sieci, drobne szkody/lod, zwierzeta). Tarcza Symona utrzymala OSIAGALNYCH (relief zadzialal), ale mroz siegnal tam, gdzie zadna siec nie dochodzi - pokorna granica. Korespondencja cicha (rzut 16): Rhona znow w drodze (mroz pekl), poza kontaktem - moze dojedzie dzis/jutro. Symon po UKONCZENIU Rozprawy (draft) - dalej czystopis+maesterzy. Kasa 303, fundusz reliefu 32, finanse 8. W toku: Malwyn recurring, Edwyd klient, izba dla Rhony czeka.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 22,
+ "dzien": 23,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

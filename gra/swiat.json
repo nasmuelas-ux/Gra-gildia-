@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 12,
-  "dzien": 25,
+  "dzien": 26,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 34,
- "dzien_tygodnia_nr": 4,
+ "pogoda": 58,
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": null,
- "nastroje_miasta": "297-12-25 RANEK. Umiarkowany zimowy dzien - pogoda 34 (zwykly chlod, trakty ok), zdarzenie 34 (spokojnie-neutralnie). Brak targu (25 niepodzielne/3), brak swieta. Korespondencja cicha (rzut 19). Dom pelniejszy - Rhona pod dachem, matkuje Mirze (~6-7 tydz ciazy). Symon: dwa mistrzostwa (finanse 8, wlodarstwo 8), kasa 359, fundusz reliefu 32. Rozprawa u Theomore'a (recenzja+endorsement, tygodnie). PLAN dni: rozpychac lokalny sredni tier/faktorie (okno post-frost, konkurencja slaba); watek warsztatu przyborow pisarskich (partnerowac pergaminnika). W toku: Edwyd/Malwyn/Garret/Corwin klienci, delegacja Tam/Hal.",
+ "nastroje_miasta": "297-12-26 RANEK. Lagodny zimowy dzien - pogoda 58 (znosnie, trakty ok), zdarzenie 79 (dzien sprzyja, dobra energia/handel). Brak targu (26/3 nie), brak swieta. Korespondencja bogata (rzut 84) - dobre wiesci operacyjne (kanaly pergaminu/klienci/okno post-frost owocuja). Symon: dwa mistrzostwa (finanse8/wlodarstwo8), kasa 353, fundusz reliefu 32, partnerstwo pergaminu z Watem zywe (marza dowiedziona). W toku: rozpychanie lokalnego tieru, Rozprawa u Theomore'a (recenzja, dni), dom z Rhona (Mira ~6-7 tydz).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 25,
+ "dzien": 26,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

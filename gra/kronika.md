@@ -7688,3 +7688,6 @@ Symon poszedł prosto do lorda i dostarczył komisję bezbłędnie (rzut 47): ai
 
 ## 298-02-02 POŁUDNIE — Dzień pracy
 Po poranku u lorda i wieści zaniesionej Mirze — Symon siada do obrotu. Maszyna Wata mieli, pergamin schodzi wydajniej niż kwartał temu, a sieć zleceń sięga już o tier głębiej (holdingi, mniejsi maestrowie). Zwykły, dobry dzień rzemiosła i rachunków: obłożenie stałe, marża zdrowa. Kasa 347 → 360 jel.
+
+## 298-02-16 → 03-02 — Dom handlowy i pierwsze poruszenie
+Firma przekroczyła próg warsztatu: +2 ręce (Fenn gotowy, Jory — sierota Owena — na próbie, potem wygrany zakład, ramp 94), Hal awansowany na kierownika, Tam na seniora-mentora, Lorren z mandatem skali co miesiąc, produkty Demana ubrane w ofertę. Rzut jakości montażu 77 — struktura niesie jakość, koniec wobble'ów. Bilans lutego: kasa 419→525, pasywna go-forward ~90/mies. A 2 marca, w jasny mroźny poranek, Mira poczuła pierwsze trzepotanie dziecka pod sercem — radość zmieszana z lękiem kobiety, która raz już syna pochowała.

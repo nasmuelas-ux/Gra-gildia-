@@ -383,3 +383,11 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - **Deman:** Arkusz/intel UBRANY w ofertę jako wartość dodana sprzedażowa
 **Koszt jednorazowy:** -3 jel (onboarding/pierwsze płace/narzut). Kasa 422->419.
 **Efekt go-forward:** pojemność ~podwojona, Lorren ma mandat skalowania — pasywna ma rosnąć miesiąc do miesiąca (realizacja na bilansach). Wobble jakości zażegnany strukturalnie, nie zdławieniem popytu.
+
+
+## 298-03-01 — BILANS miesiąca 298-02 (WYKONANY)
+- Pasywna (Warstwa A) ~86 brutto − podatek − odpis reliefu → **netto +66 jel** do kasy.
+- Operacyjna (Warstwa B) przez luty już w kasie na bieżąco (montaże).
+- Cło portowe 02-20: −10 jel.
+- **Kasa 419 → 525** (przez montaż 02-16→03-02: +50 op, −10 cło, +66 bilans).
+- Nowa struktura działa: rzut jakości montażu 77 (bez wobble'ów), Jory ramp 94 (zostaje). **Go-forward pasywna → ~90/mies** (skala Lorrena + pojemność).

@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-02-16 POŁUDNIE · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
+- **Data:** 298-03-02 RANEK · wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** 298-02-02 RANEK. JASNY dzien - pogoda 89 (HIGH, sloneczny mroz; dobry omen na dzien raportu do lorda). Zdarzenie 35 (spokojnie). Brak targu (2/3 nie), brak swieta. Korespondencja umiarkowana-dobra (rz
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 419 jeleni + 1 mied + 0 smokow
+- **Wolne:** 525 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -49,7 +49,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - Partnerstwo z pergaminnikiem Watem (zawarte 297-12-25, warunki doprecyzowane): (1) OFF-TAKE - operacja Symona (skryba/audyt/faktoria/kantor) kupuje pergamin+atrament po koszcie+maly narzut (PONIZEJ rynku) = staly spadek kosztu przyborow; (2) AUTONOMIA WATA - sam pan rzemiosla/jakosci (klauzula, Torren spisal, wzor jak autonomia Miry); (3) UDZIAL W SPRZEDAZY inkrementalnej (nowe kanaly: Septa/maesterzy/kupcy/faktoria) - Symon nieco CIENSZY udzial niz chcial (ustapil Watowi dla goodwillu, relacja>ostatni jelen); (4) KAPITAL Symona (inwestycja pojemnosci) = odzyskiwalne equity, nie datek; (5) GUILD-SAFE - ekspansja ADDYTYWNA, zero rajdu na cech pisarzy; (6) OPCJA SUKCESJI - prawo pierwokupu warsztatu gdy Wat zejdzie/przejdzie na spoczynek (brak nastepcy) - Wat zgodzil sie na first-refusal, nie przedsprzedaz (godnosc za zycia). Papier braawijski=wiosna. || 298-01-22 OPTYMALIZACJA PROCESU (rzut 51): Symon (systematyczny wzrok) + Wat (mistrz) znalezli EFEKTYWNOSC bez headcountu: (1) batch-liming - wiecej skor na cykl wapna, (2) lepsze wykorzystanie ram/przestrzeni suszenia (wiecej welinu na tej samej powierzchni/czas), (3) system GRADOWANIA/sortowania skor przed obrobka = mniej zmarnowanych, wyzszy yield uzytecznego pergaminu. Output ~+20-30% TYM SAMYM nakladem rak. Wat docenil (Symon nie uczyl go rzemiosla-autonomia, tylko pytal madrze o marnotrawstwo). Skalowanie przez wydajnosc nie ludzi - lepsza marza linii.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
-- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-03-01 (ostatni: 298-01-01 (WYKONANY, patrz firma.md: netto + przyrost pasywnej))
+- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-04-01 (ostatni: 298-03-01 (WYKONANY: miesiąc 298-02 zamknięty; pasywna netto +66 do kasy; go-forward ~90/mies))
 - _Cykliczne (zmiatane w Dniu Bilansu):_
     - draw_wspolnika_nesta: Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.
     - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
@@ -66,7 +66,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
     - prowiantowanie_udzial_zima: Udzial w zimowym prowiantowaniu zamku (od 09-19, Mira-pryncypal/firma): margin per dostawa. Pierwsze partie bezbledne. Ksieguj per dostawa; rosnie, a przy klesce rywala moze wchlonac calosc.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 44 · Zmeczenie 6
+- Zdrowie 100 · Sytosc 44 · Zmeczenie 3
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 9 · wlodarstwo 8

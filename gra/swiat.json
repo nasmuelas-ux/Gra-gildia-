@@ -1,16 +1,16 @@
 {
  "data": {
-  "rok": 297,
-  "miesiac": 12,
-  "dzien": 29,
+  "rok": 298,
+  "miesiac": 1,
+  "dzien": 1,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 92,
- "dzien_tygodnia_nr": 1,
- "dzien_targowy": null,
- "nastroje_miasta": "297-12-29 RANEK. JASNY pogodny dzien - pogoda 92 (HIGH: jasny sloneczny chlod, zimowy respite, mroz odpuscil; ludzie wychodza, port zywy). Zdarzenie 55 (spokojnie-neutralnie). Brak targu (29/3 nie), brak swieta. Korespondencja skromna (rzut 23). Symon: 2 mistrzostwa, kasa 374, pergamin kwitnie (retainer maesterow+holdingi), Rozprawa u Theomore'a (recenzja - dni, moze blisko). Dom pelny (Rhona, Mira ~7 tydz). Koniec grudnia zblizanie sie - nowy miesiac za ~2 dni (przelom: pasywny wplyw+bilans). W toku: rozpychanie tieru, watki kwitna.",
+ "pogoda": 61,
+ "dzien_tygodnia_nr": 3,
+ "dzien_targowy": "Wielki targ (1. dnia miesiaca)",
+ "nastroje_miasta": "298-01-01 RANEK. NOWY ROK/MIESIAC (298 AC, miesiac 1) - WIELKI TARG (1. dnia, na Schodach i w porcie). Pogoda 61 (znosny zimowy dzien). MONTAZ 12-29->01-01 (rzut 34, okres solidny-umiarkowany): dni wypelnione zarobkowaniem (marza operacyjna), wizytami u bliskich (Mira/Rhona codziennie, Aldous/Bran/Wenda grounding), dozorem (maszyna czysta pod delegacja). Nowy miesiac: PASYWNY WPLYW zaksiegowany (~60: baza 54 + pergamin ramp ~6). Mira ~8 tydz ciazy, bezpieczna, Rhona rzadzi domem. PIERWSZE WYDARZENIE: recenzja Rozprawy od Theomore'a wraca (rzut 4) - TRZEZWA (dzielo dobre, ale droga do Cytadeli dluga/twarda, cierpliwosc). Symon: 2 mistrzostwa, kasa ~464, pergamin kwitnie.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 29,
+ "dzien": 1,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

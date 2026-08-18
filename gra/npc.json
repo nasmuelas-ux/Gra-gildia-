@@ -2304,15 +2304,17 @@
    "imie": "Garrick",
    "wiek": 44,
    "zawod": "straznik/steward bezpieczenstwa domu (b. serzant strazy)",
-   "nastawienie_do_gracza": 22,
-   "zaufanie": 12,
-   "cechy_mowy": "malomowny, krotkie zdania, patrzy zanim powie",
+   "nastawienie_do_gracza": 25,
+   "zaufanie": 15,
+   "cechy_mowy": "oszczedny, rzeczowy, wojskowy; 'raportuje, nie gada'",
    "flaga": "STAFF: ochrona+threat-reader, kilka pewnych rak; dyskretny nie widoczny egzekutor",
-   "ostatni_kontakt": "297-10-05",
+   "ostatni_kontakt": "297-12-23 - porzadny raport bezpieczenstwa (rzut 78), reconnect",
    "stan": "mieszczanin",
    "wie_o_graczu": [
     "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda)."
-   ]
+   ],
+   "potrzeby": "szanowany pracodawca + jasny zakres + godna placa; duma zawodowa b. serzanta",
+   "nota": "297-12-23 (rzut 78): pierwszy porzadny debrief od zatrudnienia (10-05). Garrick=kompetentny, lojalny, profesjonalny (b. serzant). RAPORT: wrogowie cisi (Bertram rozbrojony, pierscien padl) - brak aktywnej grozby. ALE profesjonalnie flaguje: (1) zima-twarda+aftermath mrozu = desperacja rosnie u dolu = petty crime/wlamania w gore; rosnacy zamozny kupiec=naturalny cel okazyjny. (2) Zaostrzyl warte domu, skoordynowal z Branem (kamieniczka+dom Miry), ma OCZY przez starych kompanow ze strazy (tanie intel). (3) Dyskretna ekstra ostroznosc: Mira zaczyna znac ciaze, Rhona dojedzie - wiecej ruchu w domu, pilnuje. Wszystko OGARNIETE, reassuring. Symon zyskuje pewnosc bezp. + dobrego retainera. nast ->25, zauf ->15. Rosnacy profil Symona=security wazy wiecej."
   },
   {
    "id": "ser_bertram",

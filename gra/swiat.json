@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 12,
-  "dzien": 20,
+  "dzien": 21,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 67,
- "dzien_tygodnia_nr": 6,
- "dzien_targowy": null,
- "nastroje_miasta": "297-12-20 RANEK. Umiarkowany zimowy dzien - pogoda 67 (respite lekko sie domyka, ale wciaz znosnie, nie zabojczy mroz), zdarzenie 64 (spokojnie-neutralnie). Brak targu, brak swieta. CLO PORTOWE dzis (~20-ty, -10 jel zaksiegowane). Symon wyspany po owocnym 12-19 (dostawa do Edwyda=3. wezel doliny, Rozprawa polowa, kufel u Brana). W toku: Rozprawa glebsze sekcje (finanse licznik 123 blisko lvl8), Edwyd swiezy klient, delegacja Tam/Wick, Mira ~6-7 tydz (Rhona w drodze). Wielkie okna: elewacja koniec zimy, refi wiosna, maester tygodnie, dziecko lato 298.",
+ "pogoda": 40,
+ "dzien_tygodnia_nr": 7,
+ "dzien_targowy": "targ rybny (przygaszony swietem)",
+ "nastroje_miasta": "297-12-21 RANEK. DZIEN MATKI (dzien_tyg 7, tygodniowy) - Matka: milosc/malzenstwo/milosierdzie; handel PRZYGASZONY, ludzie do septy, nabozenstwa, jalmuzna. Pogoda 40 (umiarkowany chlod, respite sie domknal, ale nie zabojczy mroz), zdarzenie 58 (spokojnie). Targ rybny nominalnie (21/3) ale swieto tlumi komercje. Rezonans: dzien po pochowku starej Nan (milosierdzie) przychodzi Dzien Matki; slub Symona tez byl w Dzien Matki. Symon wyspany po ciezkim, godnym 12-20 (mistrzostwo finanse 8 + pogrzeb Nan). W toku: Rozprawa (2. polowa), Edwyd swiezy klient, Mira ~6-7 tydz (Rhona jedzie, ~1-2 dni). Wielkie okna: elewacja koniec zimy, refi wiosna, maester tygodnie, dziecko lato 298.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": null,
- "dzien": 20,
+ "swieto": "Dzien Matki",
+ "dzien": 21,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

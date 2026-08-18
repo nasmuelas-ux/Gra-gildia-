@@ -7624,3 +7624,7 @@ Symon poszedł zwiększyć obroty pergaminu, ale nie przez dorzucanie rąk — p
 
 ## 298-01-22 POŁUDNIE→POPOŁUDNIE — nowy audyt: rzetelny, bez fajerwerków (rzut 20)
 Symon wziął nowy audyt forensowy — i wyszedł rutynowy (rzut 20). Księgi klienta okazały się w większości czyste: niechlujstwo pisarza, nie kradzież. Nie każda księga kryje złodzieja — Malwyn był wyjątkiem, nie regułą. Symon zrobił robotę profesjonalnie, klient dostał spokój ducha, reputacja rzetelności trzyma, ale to modest fee (+8, kasa 187) i nic dossier-worthy: czyste księgi nie są compelling case-study metody. Nieefektowny, uczciwy dzień audytora. audyt praktyka.
+
+## 298-01-22 NOC → 01-23 RANEK — sen; PODPIS GORMONA WRÓCIŁ (korroboracja zamknięta)
+Dzień 01-22 zamknięty (optymalizacja pergaminu przez wydajność, rzetelny audyt, jałowy wieczór). Symon zasnął przy Mirze.
+**01-23 RANEK:** jasny mroźny dzień (pogoda 92), tło ciche (zdarzenie 19). Korespondencja bogata (rzut 90), a w niej wieść, na którą Symon czekał: **podpis Gormona wrócił** (rzut 62). Maester Głębokiego Brodu przeczytał rozwiązaną wersję, obiekcja spełniona — podpisał i poparł Rozprawę na piśmie, z ciepłym listem (uradowany, że miał z kim myśleć, oferuje dalszą korespondencję). Korroboracja kompletna: dwaj maesterzy (Theomore + Gormon) plus dossier faktów pod dziełem. Łańcuch od „nieudowodnione" do „dwaj maesterzy ręczą + dowód z życia" — zamknięty. Zostaje tylko forward do Cytadeli w wiosennym oknie.

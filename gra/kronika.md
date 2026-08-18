@@ -7588,3 +7588,7 @@ Symon zaniósł zarzut Gormona do Theomore'a — i we dwóch skruszyli go po mis
 
 ## 298-01-19 POPOŁUDNIE — rozwiązana Rozprawa odesłana Gormonowi po podpis (rzut 89)
 Symon odesłał Gormonowi rozwiązaną, wzmocnioną wersję — zarzut zaszyty, fix skuty z Theomorem, list wyjaśniający, jak to zrobiono. Wysyłka poszła czysto przez sieć (wóz w górę doliny, rzut 89). Podpis Gormona jest teraz praktycznie pewny: jego jedyna obiekcja została spełniona elegancko, a on sam to peer-entuzjasta, nie sceptyk. Odpowiedź z podpisem wróci za kilka dni powrotnym wozem. Po podpisie łańcuch korroboracji będzie zamknięty — Theomore, Gormon i dossier faktów pod jednym dziełem — i zostanie tylko posłać rzecz do Cytadeli w dobrym oknie: na wiosnę, gdy kruki lecą swobodniej, a wieża oddycha. finanse licznik →191.
+
+## 298-01-19 NOC → 01-20 RANEK — sen; piękny dzień, cło
+Dzień 01-19 (Dzień Matki) zamknięty (zarzut Gormona skruszony z Theomorem, Rozprawa odesłana po podpis, wieczór w domu). Symon zasnął w pełnym domu.
+**01-20 RANEK:** piękny, jasny mroźny dzień — pogoda 99 (respite, port żywy), zdarzenie 67 (pomyślnie). Bez targu, bez święta. Cło portowe dziś (~20-ty): −10 jel, kasa 149→139. Korespondencja bogata (rzut 86). W toku: podpis Gormona w drodze (~dni), pergamin kwitnie, Mira ~10-11 tydz., elewacja gated na koniec zimy (zbliża się).

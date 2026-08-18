@@ -1788,7 +1788,7 @@
    "stan": "mieszczka (wdowa)",
    "zawod": "wdowa po kupcu Braavos-adjacent (Rovan, zm. febra); ciagnie sama DROBNY HANDEL SUKNEM/PLOTNEM z Braavos (cienkie plotna, welna czesankowa) - maly obrot, ale ZNA szlak+ludzi w Braavos",
    "mieszka": "Port_Manderly (okolice) - WLASNA kamienica kupiecka 2-kondygnacyjna (dom malzenski od 10-13): parter (sien, izba glowna/kuchnia, izdebka handlowa/sklad), pietro (sypialnia z rzezbionym lozem, 2. izdebka pusta), strych, ogrodek. Po Rovanie, obroniona sama przez wdowienstwo. Opis: gra/dom.md",
-   "nastawienie_do_gracza": 97,
+   "nastawienie_do_gracza": 99,
    "zaufanie": 97,
    "wie_o_graczu": [
     "d31 (rzut 11): pierwsze spotkanie przy jej ksiegach. Symon pomogl KOMPETENTNIE (wskazal niedowazenie w kontrakcie meza) - przyjela rzeczowo. ALE pol-przejrzala pretekst (bystra: 'po co Nesta przysyla akurat takiego skrybe?') - garda w gore, chlodna, transakcyjna, zero ciepla/sparku, nic z siebie nie dala. Nast 0->2 (za kompetencje, ale wary). Symon zagral dobrze (fachowiec nie zalotnik, zero pchania) - ale to dopiero poczatek dlugiej gry.",
@@ -1839,7 +1839,8 @@
     "297-11-18: Symon spytal czego ONA chce (by jej imie roslo wlasna sila) - Mira wyartykulowala wizje: DOM SUKNA z jej imieniem + KRAG KOBIET Polnocy (wdowy/panie holdfastow, siec zamknieta dla mezczyzn, ona ma wejscie). Symon afirmowal jako rowny (korytarz pod jej pieczec, jej budowa). Gleboka wdziecznosc/milosc - potraktowal ja jak wlasny podmiot nie dodatek.",
     "297-11-19 (rzut 78): Symon otworzyl drzwi (korytarz sukna WPROST pod jej firme/pieczec, wprowadzenia), Mira poprowadzila - MOCNY START jej DOMU SUKNA 'od Miry' (rebrand z 'kramu wdowy' w imie/marke, pierwsze zamowienia jako JEJ dom) + pierwszy watek KREGU KOBIET (Berena jako 1. wezel jej sieci + dojscie do kolejnej pani/wdowy). Jej imie zaczyna krazyc NIEZALEZNIE. Gleboka satysfakcja/agency - Symon niosl nie przykryl. Partnerstwo rownych w czynie.",
     "297-11-20 (rzut 35): POTWIERDZONE u zielarki - Mira PRZY NADZIEI (z dzieckiem Symona). Signs zdrowe, ale zielarka radzi ostroznosc przy jej historii (wczesny term kruchy, odpoczynek/dobre jedzenie/bez przeciazenia). Mira: mur ostroznosci pekl - stara rana i nowa nadzieja naraz; Symon przy niej. Prywatne, nie oglaszac. Rozwiazanie ~lato 298.",
-    "298-03-02 RANEK: PIERWSZE PORUSZENIE dziecka (~4. mies) — Mira poczuła trzepotanie, złapała rękę Symona. Radość + głęboki STRACH (straciła pierwszego syna tak samo). Prosiła Symona o zapewnienie."
+    "298-03-02 RANEK: PIERWSZE PORUSZENIE dziecka (~4. mies) — Mira poczuła trzepotanie, złapała rękę Symona. Radość + głęboki STRACH (straciła pierwszego syna tak samo). Prosiła Symona o zapewnienie.",
+    "298-03-02: Symon NIE skłamał 'będzie dobrze' — przyrzekł PRZY NIM RAZEM, dzielony ciężar, 'nie zostaniesz sama'. Mira: 'wierzę ci bardziej niż uwierzyłabym będzie-dobrze. Dlatego za ciebie wyszłam — za takiego, co zostaje gdy pada.' Więź małżeńska pogłębiona rdzeniowo."
    ],
    "potrzeby": [
     "utrzymac resztke interesu meza",

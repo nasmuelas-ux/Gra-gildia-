@@ -7527,3 +7527,6 @@ Dzień 12-26 zamknięty (retainer maesterów, pergamin dla holdingów przez sie�
 
 ## 297-12-27 RANEK→POŁUDNIE — targ rybny: cicho, ale grunt murem (rzut 25)
 Symon zjadł i poszedł na targ rybny wyczuć ceny i intel pod rozpychanie tieru. Dzień targowy wyszedł cichy (rzut 25): ceny po mrozie się stabilizują, wielkiej okazji ani arbitrażu nie ma. Ale wizyta dała co innego, cenniejszego niż grosz — potwierdzenie, że grunt u dołu miasta trzyma murem. Wenda i lud przywitali go jak swojego: to człowiek, który pochował starą Nan bez rozgłosu, karmi ubogich przez Wiarę i dowozi, gdy inni marzną — baza go kocha, nie zazdrości. Wenda pofukała („jadłeś w ogóle? chudy jesteś"), nakarmiła okiem i plotką. Drobny intel, żadnego złota — ale grounding wart tyle, ile w grze cieni waży lojalna, głośna baza. spryt praktyka.
+
+## 297-12-27 POŁUDNIE→POPOŁUDNIE — solidna robota, tier się rozpycha (rzut 69)
+Symon pracował po południu — dobry dzień (rzut 69): marża operacyjna +14 (kasa 374), a średni tier rozpycha się w oknie post-frost (Garret, Corwin, holdingi głębiej, póki konkurencja słaba). Maszyna mieli pod delegacją, Symon dogląda i steruje. finanse licznik →162.

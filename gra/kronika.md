@@ -7422,3 +7422,7 @@ Symon został i pomógł przy pochówku starej Nan — ubogiej, która nie zosta
 ## 297-12-20 NOC → 12-21 RANEK — sen; Dzień Matki
 Dzień 12-20 zamknięty — mistrzostwo finansów (7→8) rano, a wieczorem cichy, godny pogrzeb starej Nan. Symon zasnął zmęczony i uziemiony.
 **12-21 RANEK: Dzień Matki** (tygodniowy, nr 7) — Matka: miłość, małżeństwo, miłosierdzie; handel przygaszony, ludzie do septy i jałmużny. Pogoda 40 (umiarkowany chłód, respite się domknął), zdarzenie 58 (spokojnie). Targ rybny nominalnie (21 podzielne przez 3), ale święto tłumi komercję. Piękny rezonans: po miłosierdziu okazanym Nan przychodzi właśnie Dzień Matki — a i ślub Symona z Mirą był w ten dzień. W toku: Rozprawa (druga połowa), Edwyd świeży klient, Mira ~6-7 tydz. (Rhona jedzie, ~1-2 dni).
+
+## 297-12-21 RANEK — korespondencja (zasada: stały element poranka); rzut 83
+[ZASADA DOMOWA odtąd: przegląd poczty/korespondencji wchodzi na stałe w ramę każdego RANKA — nie na żądanie.]
+Dzień Matki, więc handel milczy, a poczta jest ludzka: (1) **Rhona** — posłaniec przodem: dojedzie jutro (12-22), trzeba przygotować izbę. (2) **Lady Berena** — ciepły list na Dzień Matki do Miry (krąg kobiet i dom sukna żyją, więź trzyma). (3) **Ludzie z Płaczącego Nabrzeża / bliscy starej Nan** — pokorne podziękowanie za godny pochówek: reputacja tarczy słabych u dołu miasta cicho głębnie, organiczna i nieszukana, akurat na Dzień Matki (miłosierdzie). Handel przygaszony świętem.

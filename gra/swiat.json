@@ -79,5 +79,6 @@
   "rola_w_luku": "Robic z kanonu PALIWO+ZAGROZENIE dla gwiazdy polnocnej: drabina Manderly->Stark->Winterfell (przejazd krola 298), eksplozja prowiantowania/logistyki wojennej (299=dokladny atut Symona). Bez railroadingu, firewall i fokus lokalny stoja.",
   "zrodlo": "Pelna os + timing + kanaly w gra/kanon/os_swiata.md (referencja prowadzenia).",
   "tempo": "TRYB B (wybor gracza 297-10-15): PELNA GRANULACJA ~pol dnia/ture jak dotad. Bez montazu/skokow domyslnie. Wielkie okna 298/299 daleko (moga nie zostac dobite) - kazdy dzien przezyty. Bliskie beaty (kruk ~297-11) dojda zwykla gra. Gracz moze w locie poprosic o montaz/skok, ale domyslnie NIE forsowac przewijania."
- }
+ },
+ "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie."
 }

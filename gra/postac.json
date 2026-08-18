@@ -12,7 +12,7 @@
  "zmeczenie": 1,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 295,
+  "jelenie": 303,
   "smoki": 0
  },
  "dobytek": [
@@ -273,5 +273,11 @@
    "postep": "SESJA 8 (rzut 58): upor przez grind poplacil - opor peknal, glebsza sekcja domknieta czysto, dzielo weszlo w druga polowe. I na tej sesji, pchajac przez mozol, Symon PRZEKROCZYL prog: FINANSE 7->8 (mistrzowski reckoner's eye). Mastery przyszlo nie na olsnieniu (96) lecz przez UPOR - nagromadzone godziny kliknely gdy pchal mimo ciezaru.",
    "sesje": 8
   }
+ },
+ "fundusz_reliefu_jel": {
+  "saldo": 32,
+  "zrodla": "jalmuzna septy + skladki koalicji godnych + ODPIS NADWYZKI bilansu (skim) + historycznie zajete zboze pierscienia obrocone w chleb. NIE prywatna kasa Symona.",
+  "zasada": "Relief operacyjny (dowoz Brana, doladowanie porcji, utrzymanie tras w mroz) finansowany Z TEGO funduszu / srodkow Septy - pod podwojnym okiem (Symon+Wiara), osobna ksiega. Prywatna sakiewka Symona TYLKO gdy on swiadomie robi EKSTRA osobisty datek, nie rutynowo.",
+  "nota": "Zseeded liczbowo 297-12-22 (~40 jel zgromadzonej rezerwy) na prosbe gracza - relief ma budzet, nie idzie z kieszeni Symona. Koszt killing-frost 12-22 (-8) poszedl STAD. Odbudowywany z jalmuzny/nadwyzki."
  }
 }

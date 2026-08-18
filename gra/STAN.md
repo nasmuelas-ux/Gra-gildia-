@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** 297-12-22 RANEK. ZABOJCZY MROZ - pogoda 8 (respite SKONCZONY: killing frost/zawieja, gleboka zima pokazala zeby; biedota w niebezpieczenstwie, relief na alarmie, maszyna testowana jak w poprzednich bu
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 295 jeleni + 1 mied + 0 smokow
+- **Wolne:** 303 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

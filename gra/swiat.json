@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 12,
-  "dzien": 28,
+  "dzien": 29,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 33,
- "dzien_tygodnia_nr": 7,
+ "pogoda": 92,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": null,
- "nastroje_miasta": "297-12-28 RANEK. DZIEN MATKI (dzien_tyg 7) - milosc/malzenstwo/milosierdzie; handel przygaszony, septa/jalmuzna. Pogoda 33 (umiarkowany chlod). ZDARZENIE 99 (BARDZO WYSOKIE) - dzien wyjatkowo auspicyjny/radosny: cieplo w miescie, Dzien Matki niesie sie pogodnie, cos dobrego wisi w powietrzu (payoff przez wybor gracza - rodzina/septa). Korespondencja cicha (rzut 14). Symon: 2 mistrzostwa, kasa 374, pergamin kwitnie, Rozprawa u Theomore'a (recenzja, dni - moze blisko). Dom z Rhona, Mira ~7 tydz. W toku: rozpychanie tieru, sprawy domowe/Wiara na Dzien Matki.",
+ "nastroje_miasta": "297-12-29 RANEK. JASNY pogodny dzien - pogoda 92 (HIGH: jasny sloneczny chlod, zimowy respite, mroz odpuscil; ludzie wychodza, port zywy). Zdarzenie 55 (spokojnie-neutralnie). Brak targu (29/3 nie), brak swieta. Korespondencja skromna (rzut 23). Symon: 2 mistrzostwa, kasa 374, pergamin kwitnie (retainer maesterow+holdingi), Rozprawa u Theomore'a (recenzja - dni, moze blisko). Dom pelny (Rhona, Mira ~7 tydz). Koniec grudnia zblizanie sie - nowy miesiac za ~2 dni (przelom: pasywny wplyw+bilans). W toku: rozpychanie tieru, watki kwitna.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -49,8 +49,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki",
- "dzien": 28,
+ "swieto": null,
+ "dzien": 29,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

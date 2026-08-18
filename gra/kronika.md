@@ -7608,3 +7608,6 @@ Symon zlecił robotę cudzymi rękami: Tam sporządził czystopisy dossier „Do
 
 ## 298-01-21 POŁUDNIE→POPOŁUDNIE — sieć i tier głębiej (rzut 58)
 Symon pchnął sieć i średni tier głębiej, póki okno post-frost otwarte, a konkurencja słaba (rzut 58). Garret i Corwin pogłębili wolumen, holdingi biorą więcej (prowiant i pergamin dwufunkcyjnie), a Edwyd vouczy dalej — nowy ciepły lead w dolinie. Baza castle-independent realnie grubieje, więc ciężar dalej schodzi z jednej relacji z Wylisem — dokładnie tego chciał wątek anty-koncentracji. +12 marża (kasa 179). finanse licznik →197, wlodarstwo →136.
+
+## 298-01-21 POPOŁUDNIE — kolejny „rentowny" okazał się tonącą łodzią (rzut 7)
+Symon ruszył po następny rentowny kąsek — i dzień dał trzeźwą lekcję (rzut 7, world-grounded, nie kara). Prospekt, który wyglądał obiecująco, pod jego okiem (finanse 9) okazał się tonącą łodzią: desperacko winter-squeezed, z cieniem nieuczciwości — wziąć go jako klienta znaczyłoby pożyczać w kłopot, nie zyskać. Dyscyplina zadziałała: Symon pasuje, jak przy bednarzu, echo maksymy Nesty „najlepszy handel to ten, którego nie zrobiłeś". Brand chroniony (nie podpisał złego), zero straty, tylko zmarnowane popołudnie i przypomnienie: chwytanie yieldu hurtem w chudy zimowy rynek wyciąga złe fity — dobrzy klienci przychodzą reputacją, nie grabem. finanse licznik →198.

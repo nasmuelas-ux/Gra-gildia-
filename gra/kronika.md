@@ -7592,3 +7592,6 @@ Symon odesłał Gormonowi rozwiązaną, wzmocnioną wersję — zarzut zaszyty, 
 ## 298-01-19 NOC → 01-20 RANEK — sen; piękny dzień, cło
 Dzień 01-19 (Dzień Matki) zamknięty (zarzut Gormona skruszony z Theomorem, Rozprawa odesłana po podpis, wieczór w domu). Symon zasnął w pełnym domu.
 **01-20 RANEK:** piękny, jasny mroźny dzień — pogoda 99 (respite, port żywy), zdarzenie 67 (pomyślnie). Bez targu, bez święta. Cło portowe dziś (~20-ty): −10 jel, kasa 149→139. Korespondencja bogata (rzut 86). W toku: podpis Gormona w drodze (~dni), pergamin kwitnie, Mira ~10-11 tydz., elewacja gated na koniec zimy (zbliża się).
+
+## 298-01-20 RANEK→POŁUDNIE — wielki dzień roboty (rzut 95 KRYT)
+Symon pracował w jasny mroźny dzień i trafił na krytyczny (rzut 95). Spóźniona dostawa, ta utknięta na trakcie 01-01, wreszcie dojechała i zapłaciła swoją marżę; do tego mocny obrót operacyjny i wypatrzona optymalizacja. +28 jel (kasa 139→167). Mistrzowskie oko (finanse 9) na pomyślny dzień łapie wszystko naraz. finanse licznik →195 (ku lvl10 ~250, daleko).

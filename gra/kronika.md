@@ -7520,3 +7520,7 @@ Symon otworzył pergamin dla maesterów holdingów, dokładając welin i atramen
 
 ## 297-12-26 POPOŁUDNIE→WIECZÓR — dogląd maszyny (rzut 65) + dom
 Symon doglądnął maszyny przed powrotem — i obchód potwierdził, że operacja wchłania nowe nogi (pergamin, maesterzy holdingów, średni tier) bez zgrzytu: Tam i Hal niosą, redundancja trzyma, nic nie pękło mimo rozrostu. Reassuring dowód, że skala nie przerosła zarządu. Potem do domu, na wieczór z Mirą i Rhoną — siostra rządzi już domem pełną ręką, Mira (~6-7 tydz.) spokojna i doglądana, dom cieplejszy i pełniejszy niż od lat. wlodarstwo licznik →129.
+
+## 297-12-26 NOC → 12-27 RANEK — sen; spokojny targowy dzień
+Dzień 12-26 zamknięty (retainer maesterów, pergamin dla holdingów przez sieć — dwufunkcyjną, dogląd maszyny, wieczór z Rhoną i Mirą). Symon zasnął przy Mirze.
+**12-27 RANEK:** umiarkowany zimowy dzień (pogoda 48), spokojnie (zdarzenie 65), targ rybny (27 podzielne przez 3). Korespondencja skromna (rzut 34). W toku: rozpychanie lokalnego tieru w oknie post-frost, Rozprawa u Theomore'a, dom z Rhoną (Mira ~6-7 tydz.).

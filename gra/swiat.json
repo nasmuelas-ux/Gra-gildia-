@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 12,
-  "dzien": 26,
+  "dzien": 27,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 58,
- "dzien_tygodnia_nr": 5,
- "dzien_targowy": null,
- "nastroje_miasta": "297-12-26 RANEK. Lagodny zimowy dzien - pogoda 58 (znosnie, trakty ok), zdarzenie 79 (dzien sprzyja, dobra energia/handel). Brak targu (26/3 nie), brak swieta. Korespondencja bogata (rzut 84) - dobre wiesci operacyjne (kanaly pergaminu/klienci/okno post-frost owocuja). Symon: dwa mistrzostwa (finanse8/wlodarstwo8), kasa 353, fundusz reliefu 32, partnerstwo pergaminu z Watem zywe (marza dowiedziona). W toku: rozpychanie lokalnego tieru, Rozprawa u Theomore'a (recenzja, dni), dom z Rhona (Mira ~6-7 tydz).",
+ "pogoda": 48,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": "targ rybny",
+ "nastroje_miasta": "297-12-27 RANEK. Umiarkowany zimowy dzien - pogoda 48 (znosnie), zdarzenie 65 (spokojnie-pomyslnie). TARG RYBNY (27/3). Korespondencja skromna (rzut 34). Symon: dwa mistrzostwa (finanse8/wlodarstwo8), kasa 360, fundusz reliefu 32. Pergamin (Wat) kwitnie: retainer maesterow + maesterzy holdingow przez siec (dwufunkcyjna). W toku: rozpychanie tieru (okno post-frost), Rozprawa u Theomore'a (recenzja, dni), dom z Rhona (Mira ~6-7 tydz).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 26,
+ "dzien": 27,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

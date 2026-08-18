@@ -364,3 +364,9 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - 02-01 zaksięgowano pasywny tylko 74 → **true-up +8** do lutego (kasa).
 - **GO-FORWARD pasywny: ~82/mies** (odtąd ta figura na 1. dnia).
 - Kasa po korekcie: **331 → 347.**
+
+
+## 298-02-16 — MONTAŻ (13 dni, double throughput) + STRAIN pojemności
+- **Dochód operacyjny (Warstwa B):** +62 jel do kasy (360->422). Symon zlecenia osobiste + udział w przerobie Hala; minus upust za pospieszną dostawę (Corwin). Jakość: rzut 62.
+- **Pasywna go-forward:** baza faktorii urosła -> recurring +4 jel/mies (~82 -> ~86), do zaksięgowania na bilansie 298-03-01.
+- **STRAIN:** double throughput na tej samej liczbie rąk = wobble jakości. Wątek hal_pojemnosc_rekrutacja AKTYWNY.

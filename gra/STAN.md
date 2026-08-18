@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** 298-01-01 RANEK. NOWY ROK/MIESIAC (298 AC, miesiac 1) - WIELKI TARG (1. dnia, na Schodach i w porcie). Pogoda 61 (znosny zimowy dzien). MONTAZ 12-29->01-01 (rzut 34, okres solidny-umiarkowany): dni wy
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 484 jeleni + 1 mied + 0 smokow
+- **Wolne:** 84 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

@@ -12,7 +12,7 @@
  "zmeczenie": 1,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 484,
+  "jelenie": 84,
   "smoki": 0
  },
  "dobytek": [
@@ -280,5 +280,12 @@
   "zrodla": "jalmuzna septy + skladki koalicji godnych + ODPIS NADWYZKI bilansu (skim) + historycznie zajete zboze pierscienia obrocone w chleb. NIE prywatna kasa Symona.",
   "zasada": "Relief operacyjny (dowoz Brana, doladowanie porcji, utrzymanie tras w mroz) finansowany Z TEGO funduszu / srodkow Septy - pod podwojnym okiem (Symon+Wiara), osobna ksiega. Prywatna sakiewka Symona TYLKO gdy on swiadomie robi EKSTRA osobisty datek, nie rutynowo.",
   "nota": "Zseeded liczbowo 297-12-22 (~40 jel zgromadzonej rezerwy) na prosbe gracza - relief ma budzet, nie idzie z kieszeni Symona. Koszt killing-frost 12-22 (-8) poszedl STAD. Odbudowywany z jalmuzny/nadwyzki."
+ },
+ "domowy_skarbiec_jel": {
+  "saldo": 400,
+  "zalozony": "298-01-01",
+  "cel": "rezerwa rodzinna/awaryjna pod wlasnym dachem (Mira/dziecko/dom/nagle potrzeby) - NIE kapital obrotowy, nie rusza sie rutynowo",
+  "bezpieczenstwo": "skrytka domowa pod okiem Garricka (steward bezpieczenstwa) - zaostrzona warta domu; dyskrecja",
+  "nota": "Zalozony 298-01-01, wplata 400 jel z wolnej kasy (484->84). Store of value, nie wydatek - majatek ten sam, plynnosc przesunieta. Working cash chudszy (~84) ale pasywny wplyw ~74/mies + operacyjny szybko odbudowuja. Prudent given rosnacy dom+ciaza+rosnacy profil (cel dla zlodzieja - stad skrytka+Garrick)."
  }
 }

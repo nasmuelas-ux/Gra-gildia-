@@ -1302,8 +1302,8 @@
   },
   {
    "id": "siedziba_polaczonej_faktorii",
-   "stan": "OTWARTY (298-03-02): Symon+Nesta chcą jednej kamiennej siedziby połączonej faktorii (stanowiska+biura+część magazynu). Nesta wskazała OKAZJĘ: kamieniczka Ostyna (kupiec solno-rybny, tonie, sprzedaje odziedziczony dom by spłacić wierzyciela przed wiosną; rzut 44 sukces z kosztem). PASUJE rozmiarem na biura/stanowiska; magazyn tylko w połowie (piwnica+parter — grubsze składy zimowe DALEJ u Aurane'a). WARUNKI Nesty: (1) CZYSTY kapitał (firewall — ani grosza wywiedlnego do Braavos/Antaryon), (2) widoczność ok (grubszy profil = dobry przy dworze, ale ma wyglądać na owoc rzetelnej roboty), (3) nie przepłacić/nie przeskoczyć. HACZYK charakteru: kupić UCZCIWIE (nie cena sępa) — drożej, ale = reputacja nieskazitelności, 'najlepszy interes'.",
-   "nastepny_krok": "obejrzeć kamieniczkę Ostyna / rozpoznanie ceny i stanu przez Nestę / przemyśleć finansowanie czystym kapitałem (kasa 525 + plon)",
+   "stan": "OTWARTY (298-03-02): Symon+Nesta chcą JEDNEJ DUŻEJ siedziby połączonej faktorii W PORCIE — nie kamieniczka (za mała, residencja), lecz porządny obiekt portowy: skład+kantor+biura+stanowiska pod jednym dachem, blisko nabrzeża/magazynów. KOREKTA MG (błąd ciągłości usunięty): kamieniczkę Ostyna Symon kupił 297-01-06 za 108 jel — to zamknięta sprawa, Ostyn wyjechał; NIE jest to okazja HQ. WARUNKI Nesty trzymają się: (1) CZYSTY kapitał (firewall — nic wywiedlnego do Braavos/Antaryon), (2) widoczność ok przy dworze, ma wyglądać na owoc rzetelnej roboty, (3) nie przepłacić/nie przeskoczyć, kupować w zimie gdy inni toną, (4) uczciwie wobec ewentualnego sprzedawcy = reputacja. SKALA: duży obiekt portowy = grubszy pieniądz niż kamieniczka (setki jel), mniej opcji, dłuższy hunt. Nesta stawia sieć na rozpoznanie.",
+   "nastepny_krok": "Nesta rozpoznaje rynek dużych obiektów portowych (skład+kantor); przemyśleć finansowanie czystym kapitałem (kasa 525 + plon/pozycje); ew. horyzont wiosenny",
    "priorytet": "strategiczny"
   }
  ]

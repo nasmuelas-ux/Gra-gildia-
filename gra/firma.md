@@ -293,3 +293,50 @@ _Gracz wychwycił: firma audytowa (audyty Hala + obsługa klientów) rosła 2 mi
 - **Arrears +14** (za ~2 mies stopniowego niedoksięgowanego wzrostu) → kasa 470→484.
 - GO-FORWARD: Warstwa A pasywna rośnie z ~66 do **~74/mies** (recurring firmy 28 zamiast 20 = +8).
 - Per-event audyty (Doryan/Voss/nowe forensic) NADAL osobno przy zdarzeniu (nie w recurring).
+
+## PODSUMOWANIE MIESIĄCA 298-01 (styczeń) — na żądanie gracza
+_Skala uboga: 1 jeleń=100 mied; 1 smok=200 jel. Dwuwarstwowy model przychodu._
+
+### WPŁYWY 298-01
+**Warstwa A (pasywna, zaksięgowana 01-01):**
+| Poz | +jel |
+|---|---|
+| Recurring pasywny (baza+retainery+cichy klient+plon rotacji+odsetki+czynsze+pergamin) | ~66 |
+| One-off korekty (Weslar +1, underwriting +2, pergamin true-up +3) | +6 |
+| One-off ARREARS firmy audytowej (catch-up Nov-Dec pod Halem) | +14 |
+| **Warstwa A razem** | **~86** |
+
+**Warstwa B (operacyjna, per-dostawa/praca przez cały styczeń):**
+| Poz | +jel (szac.) |
+|---|---|
+| Montaż-op (12-29→01-01) | +30 |
+| Prace/dostawy/audyty/tier przez styczeń (rzuty: +28, +12, +8, +4, drobne) | ~55 |
+| Montaż-op (01-24→02-01) | +26 |
+| **Warstwa B razem (styczeń)** | **~110** |
+
+**PRZYCHÓD 298-01 (brutto): ~196 jel** (A ~86 + B ~110)
+
+### KOSZTY / ALOKACJE 298-01
+- Cło portowe (01-20): −10
+- Opex operacyjny (place/haul/życie): w większości niesiony przez własne strumienie biznesu (nie z wolnej kasy)
+- Relief: z FUNDUSZU reliefu, NIE z kasy (zasada)
+- ALOKACJA (nie koszt): domowy skarbiec −400 (przeniesione z kasy w rezerwę — majątek ten sam)
+
+### JEDNORAZOWE (przełom na 298-02)
+- Nagroda lorda za komisję (02-02): +40
+
+### STAN MAJĄTKU (02-02) — pełny obraz
+| Pozycja | jel |
+|---|---|
+| Kasa wolna | 331 |
+| Domowy skarbiec (rezerwa) | 400 |
+| Fundusz reliefu (instytucjonalny, pod jego okiem) | 32 |
+| Kapitał w rotacji faktorii (udział Symona) | ~450 |
+| Weksle wystawione (należności) | 200 |
+| Pożyczki (zabezp. 50 + Weslar ~15) | ~65 |
+| Kamieniczka przy Schodach (własność+czynsze) | ~120+ |
+| Equity: 2/3 firmy audytowej + ½ korytarza + partnerstwo pergaminu (Wat) | wartość rosnąca, niepłynna |
+| **MAJĄTEK NETTO (płynny+należności+kapitał)** | **~1600 jel** (~8 smoków) |
+
+_Zobowiązania Symona bezpośrednie: BRAK (dług Antaryona = Nesty, nie na udziale Symona). Firewall szczelny._
+_Go-forward pasywny: ~74/mies (Warstwa A), operacyjny ~zmienny 80-120/mies (Warstwa B), plus rosnące pergamin+tier._

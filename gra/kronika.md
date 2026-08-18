@@ -7467,3 +7467,6 @@ Symon zjadł i zaniósł ukończoną Rozprawę do Theomore'a — maestra, który
 
 ## 297-12-23 POŁUDNIE — Rhony jeszcze nie ma (rzut 18)
 Symon zajrzał do Miry sprawdzić, czy siostra dotarła — jeszcze nie (rzut 18). Trakty po zabójczym mrozie oblodzone, więc Rhona jedzie wolno i ostrożnie; jest bezpieczna (mądra kobieta nie ryzykuje karku), ale dojedzie prawdopodobnie dopiero jutro (12-24). Mira wypatruje z okna, niespokojna i niecierpliwa naraz. Symon uspokaja ją — Rhona woli dojechać dzień później niż nie dojechać wcale. Ciepła domowa chwila oczekiwania; izba gotowa, siostra w drodze.
+
+## 297-12-23 POŁUDNIE→POPOŁUDNIE — dobra robota, handel odmarza (rzut 76)
+Symon poszedł popracować i trafił na dobry dzień (rzut 76): handel odmarza po mrozie, maszyna łapie fałę. Marża operacyjna płynie — castle-warrant, holdingi (w tym świeży Edwyd), recurring Malwyna, korytarz — +18 jel (kasa 303→321). I widać, że delegacja z 12-16 była warta zachodu: Tam prowadzi rutynę drugiej nogi sam, Hal siedzi na frontach partnerskich, a Symon już tylko dogląda, nie musi być wszędzie. Odciążenie zwalidowane w praktyce. wlodarstwo licznik →123 — o krok od poziomu 8.

@@ -1299,6 +1299,12 @@
    "stan": "ZALĄŻEK (298-02-03): Theomore ujawnił wiedzę o wyrobie papieru ze szmat + młynie papierniczym na napęd wodny. Przewaga: papier tańszy od pergaminu w skali, szmata tania/wszędzie, woda za darmo po zbudowaniu koła. WYMAGA: woda ze spadkiem (młyn/struga+koło), kapitał na stępory+kadzie, WIELE PRÓB nim miazga równa i arkusz nie pęka. Horyzont: nie wiosna nawet — dłuższy build. Firewall czysty.",
    "nastepny_krok": "pożyczyć/przepisać zeszyt Theomore'a; zwiadować dostęp do wody z spadkiem; próby w małej skali",
    "priorytet": "strategiczny/długi"
+  },
+  {
+   "id": "siedziba_polaczonej_faktorii",
+   "stan": "OTWARTY (298-03-02): Symon+Nesta chcą jednej kamiennej siedziby połączonej faktorii (stanowiska+biura+część magazynu). Nesta wskazała OKAZJĘ: kamieniczka Ostyna (kupiec solno-rybny, tonie, sprzedaje odziedziczony dom by spłacić wierzyciela przed wiosną; rzut 44 sukces z kosztem). PASUJE rozmiarem na biura/stanowiska; magazyn tylko w połowie (piwnica+parter — grubsze składy zimowe DALEJ u Aurane'a). WARUNKI Nesty: (1) CZYSTY kapitał (firewall — ani grosza wywiedlnego do Braavos/Antaryon), (2) widoczność ok (grubszy profil = dobry przy dworze, ale ma wyglądać na owoc rzetelnej roboty), (3) nie przepłacić/nie przeskoczyć. HACZYK charakteru: kupić UCZCIWIE (nie cena sępa) — drożej, ale = reputacja nieskazitelności, 'najlepszy interes'.",
+   "nastepny_krok": "obejrzeć kamieniczkę Ostyna / rozpoznanie ceny i stanu przez Nestę / przemyśleć finansowanie czystym kapitałem (kasa 525 + plon)",
+   "priorytet": "strategiczny"
   }
  ]
 }

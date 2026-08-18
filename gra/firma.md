@@ -272,3 +272,24 @@ Zaksięgowano 1. dnia: +60 (montaż) + **true-up +6 = razem ~66** → kasa 464�
 - ℹ️ udzial_wykup_aldous (~28) = pozycja odzyskiwalna, friendly terms, nie generuje stałych odsetek miesięcznych (kapitał, nie yield)
 
 **WARSTWA B (operacyjna ~107/mies)** — castle warrant (staly ~65) + drewno + żelazo + Harrol + holdingi (Harrol/Berena/Edwyd) + guided + korytarz + Malwyn — NIE księgowana 1. dnia; leci PER-DOSTAWA przez cały miesiąc (grudzień: uchwycona w codziennych rzutach pracy/dozoru +8..+18). Nie pominięta — booked elsewhere, by nie double-count.
+
+## KOREKTA 298-01-01: recurring firmy audytowej NIE nadążał za wzrostem (na żądanie gracza)
+_Gracz wychwycił: firma audytowa (audyty Hala + obsługa klientów) rosła 2 miesiące, a figura recurring stała zamrożona na ~20 (retainery 12 + cichy 8). Realny zastój w księgach._
+
+**Co urosło od ~11-01, a nie było zaksięgowane:**
+- Hal → pełne młodsze wspólnictwo (11-22): zaangażowany właściciel, firma bierze więcej.
+- Delegacja Tam/Wick (12-16): pojemność odblokowana → więcej retainerów przez flywheel poleceń.
+- MALWYN (12-21): recurring premium servicing (~+4/mies) + referrer (polecenia peer→peer).
+- Ogólny flywheel: reputacja uczciwego reckonera ściąga klientów sama.
+
+**Rekoncyliacja recurring firmy (udział Symona):**
+| Poz | było | teraz |
+|---|---|---|
+| Retainery | 12 | ~16 (+2-3 klientów) |
+| Cichy klient | 8 | 8 |
+| Malwyn recurring | 0 | ~4 |
+| **RAZEM recurring firmy** | **20** | **~28/mies** |
+
+- **Arrears +14** (za ~2 mies stopniowego niedoksięgowanego wzrostu) → kasa 470→484.
+- GO-FORWARD: Warstwa A pasywna rośnie z ~66 do **~74/mies** (recurring firmy 28 zamiast 20 = +8).
+- Per-event audyty (Doryan/Voss/nowe forensic) NADAL osobno przy zdarzeniu (nie w recurring).

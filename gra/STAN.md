@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** 297-12-25 RANEK. Umiarkowany zimowy dzien - pogoda 34 (zwykly chlod, trakty ok), zdarzenie 34 (spokojnie-neutralnie). Brak targu (25 niepodzielne/3), brak swieta. Korespondencja cicha (rzut 19). Dom p
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 359 jeleni + 1 mied + 0 smokow
+- **Wolne:** 341 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

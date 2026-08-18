@@ -150,7 +150,7 @@
  },
  "nazwisko": "Tally",
  "liczniki_uzyc": {
-  "rachunki": 272,
+  "rachunki": 273,
   "audyt": 180,
   "pismo": 139,
   "organizacja": 161,
@@ -164,7 +164,7 @@
   "spryt_uliczny": 132,
   "handel": 157,
   "geometria": 22,
-  "finanse": 224,
+  "finanse": 225,
   "wlodarstwo": 149
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",

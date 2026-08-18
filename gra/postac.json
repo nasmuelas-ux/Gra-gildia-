@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 72,
- "zmeczenie": 1,
+ "zmeczenie": 2,
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 291,
@@ -293,5 +293,6 @@
   "cel": "rezerwa rodzinna/awaryjna pod wlasnym dachem (Mira/dziecko/dom/nagle potrzeby) - NIE kapital obrotowy, nie rusza sie rutynowo",
   "bezpieczenstwo": "skrytka domowa pod okiem Garricka (steward bezpieczenstwa) - zaostrzona warta domu; dyskrecja",
   "nota": "Zalozony 298-01-01, wplata 400 jel z wolnej kasy (484->84). Store of value, nie wydatek - majatek ten sam, plynnosc przesunieta. Working cash chudszy (~84) ale pasywny wplyw ~74/mies + operacyjny szybko odbudowuja. Prudent given rosnacy dom+ciaza+rosnacy profil (cel dla zlodzieja - stad skrytka+Garrick)."
- }
+ },
+ "_stan_audiencja": "OVER-PREPPED/ANXIOUS (solo-prep rzut 2): Symon nakrecil sie sam, over-skryptowal, spial - jesli wejdzie TERAZ, sztywny i wypsyty=zla audiencja. ANTIDOTUM nie wiecej prep lecz GROUNDING (Mira/Owen/sen) + zaufanie do siebie. Firewall wykuty (to zostaje), ale kompozycja zepsuta over-thinkiem."
 }

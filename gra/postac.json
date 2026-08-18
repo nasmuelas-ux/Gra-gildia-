@@ -164,7 +164,7 @@
   "spryt_uliczny": 131,
   "handel": 157,
   "geometria": 22,
-  "finanse": 185,
+  "finanse": 189,
   "wlodarstwo": 137
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
@@ -268,10 +268,10 @@
   "traktat2_prowiantowanie": "PROBA ROZPOCZECIA 297-11-14 (rzut 2) - NIE ruszyl: material ZA BLISKI/surowy. Symon jest wciaz W SRODKU tej zimy (brod/sztorm/luka podazy=THIS winter, lekcje niedomkniete, co tydzien nowe) - nie da sie zdystansowac zywej materii do traktatu. Kontrast do 1. traktatu (mial braavijskie teksty+ustalona metode do syntezy). WNIOSEK: ta ksiega chce SKONCZONEJ zimy za soba, by napisac ja cala z domknietymi lekcjami. ODLOZONE na koniec zimy/wiosne. Nie strata - madre rozpoznanie ze przedwczesne.",
   "rozprawa_dowody_matematyczne": {
    "tytul": "Rozprawa o dowodach rachunku (odpowiedz Cytadeli)",
-   "status": "SKONCZONA (draft kompletny) - 297-12-22 | 298-01-19: praca nad zarzutem Gormona - postep czesciowy (rzut 26), nie pekniete",
+   "status": "WZMOCNIONA - zarzut Gormona skruszony z Theomore'em (298-01-19, rzut 95 KRYT); do odeslania Gormonowi po podpis",
    "rozpoczeta": "297-12-16",
    "cel": "twarde dowody matematyczne - przekuc 'interesujace-nieudowodnione' w 'ustalone'; odpowiedz na mieszany list maesterow",
-   "postep": "SESJA 10 (rzut 94 KRYT): FINAL. Finalne partie zlozyly sie w jeden szczelny gmach - kregoslup, rdzen, filary, klamra domykajaca. ROZPRAWA UKONCZONA (kompletny draft dowodowy): odpowiedz na cytadelowe 'nieudowodnione' - rygorystyczna, z jawnymi przeslankami, zwezona do prawdy dowodliwej. Nastepca traktatu rachunkow, wieksze i twardsze dzielo. DALEJ: czystopis + poslac Theomore/lancuch maesterow do recenzji (uznanie powolne, per mieszany list).",
+   "postep": "298-01-19 (rzut 95 KRYT): zarzut Gormona SKRUSZONY z Theomore'em - fix nie latka lecz POGLEBIENIE: uszczelnienie slabego ogniwa wymusilo czystsza, mocniejsza formulacje calego rdzenia. Obiekcja peera -> sila dziela (jak tamta sciana). Rozprawa teraz TWARDSZA niz przed zarzutem. Droga: odeslac Gormonowi -> jego podpis (obiekcja spelniona) -> forward z Theomore+Gormon+dossier.",
    "sesje": 10
   },
   "dossier_dowodow_zycia": {

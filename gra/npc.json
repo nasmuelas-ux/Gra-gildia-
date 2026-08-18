@@ -2646,6 +2646,16 @@
    "wie_o_graczu": "tyle co przez slowo Bereny: uczciwy rachmistrz/zaopatrzeniowiec co dowozi zima",
    "potrzeby": "zaopatrzenie zimowe holdingu (jak Berena/Harrol) - ale musi byc PRZEKONANY dowodem, nie urokiem",
    "nota": "NOWY LEAD holdingu (siec polnocno-landowa / sredni tier), przez voucher Bereny 297-12-18. Ostrozny staro-polnocny - konwersja przez wzor: cieple wprowadzenie->PROBA->dowiedziona dostawa->pelny kontrakt->staje sie voucherem nastepnego. Zimowa robota, nie szybkie zamkniecie. || 297-12-19: Symon NIE wyslal na oslep - najpierw ZAPLANOWAL+WYBADAL (rzut 72). Ustalone: (1) trasa do Glebokiego Brodu ma jeden zly odcinek (Hollis-vetted) - obejscie/wzmocnienie (para+lina, timing w oknie respite); (2) czego Edwyd oczekuje (przez Berene/Deman): graded jakosc, punktualnosc, ZERO fuss - dumny nie znosi bylejakosci ani gadania; (3) staging do przodu (depot Wendla) skraca finalna noge=pewniejsza. Probna dostawa PRZYGOTOWANA pod bezblednosc. Konwersja wciaz przed nim, ale de-ryzykowana. || 297-12-19 (rzut 52+15=67): PROBNA DOSTAWA BEZBLEDNA - dojechala na czas, graded, przez zly odcinek czysto (rekonesans), zero fuss. Edwyd (mierzy dziela nie slowa) PRZEKONANY: gburowato, bez wylewnosci, ale KONWERTOWANY - dal realny kontrakt zaopatrzenia zimowego (jak Harrol/Berena). Pelne zaufanie jeszcze do zbudowania przez konsekwencje, ale JEST klientem. Staro-polnocny=jak sie przekona, lojalny jak skala. TRZECI wezel sieci polnocno-ladowej + potencjalny voucher nastepnego holdera w gorze doliny. nast: czujny->przekonany, zauf 5->18."
+  },
+  {
+   "id": "szafarz_alebrand",
+   "imie": "Szafarz Alebrand",
+   "zawod": "szafarz/urzednik prowiantowy dworu lorda Manderly (kontroluje domene zapasow zamku) - SPRAWCA skimu (dowod przybity 298-02-01)",
+   "nastawienie_do_gracza": "nie wie o Symonie (audyt tajny) - jeszcze",
+   "zaufanie": 0,
+   "ostatni_kontakt": "298-02-01 - zidentyfikowany+udokumentowany jako sprawca (nie wie)",
+   "wie_o_graczu": [],
+   "nota": "SPRAWCA komisji lorda: szafarz Alebrand, urzednik prowiantowy dworu - dostawy-widma+pompowane ceny przez lokalny kanal, skim na wlasna kieszen. DOWOD PRZYBITY (rzut 37): udokumentowany co/jak/ile, airtight. PATRON: NIEROZSTRZYGNIETE - mechanizm sugeruje LONE oportunistę (personal-scale, wlasna kieszen), ale Symon (slabszy w dworskiej intel) NIE potwierdzil czy Alebrand jest czyims klientem/ma osłonę. To residualne ryzyko (jesli patron - raport moze uruchomic frakcyjny odwet). Firewall: kanal lokalny=nie Antaryon (czysto)."
   }
  ]
 }

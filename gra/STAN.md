@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** 298-02-02 RANEK. JASNY dzien - pogoda 89 (HIGH, sloneczny mroz; dobry omen na dzien raportu do lorda). Zdarzenie 35 (spokojnie). Brak targu (2/3 nie), brak swieta. Korespondencja umiarkowana-dobra (rz
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 331 jeleni + 1 mied + 0 smokow
+- **Wolne:** 360 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)

@@ -241,3 +241,6 @@ _Symon liczy wpływ na marżę (finanse 8). Skala uboga: 1 jeleń=100 mied. Trze
 - **papier braawijski (wiosna)** = drugi, grubszy potencjał na tej samej nodze (import premium, gdy galery wrócą)
 
 **Werdykt Symona:** solidna nowa noga, nie fajerwerk — dokładnie taka, jak lubi: cicha, dywersyfikująca, rosnąca, z opcją na więcej.
+
+## RETAINER MAESTERÓW NA PERGAMIN — 297-12-26
+Wieza Nowego Zamku przyjela STALY comiesieczny retainer na welin+atrament (upgrade z jednorazowej sprzedazy). Udzial Symona ~5-6 jel/mies, ZABEZPIECZONY recurring - kregoslup linii pergaminowej. UWAGA nt. skali: w B.Porcie 1 maester (Theomore); grube zamowienie NIE z liczby glow, lecz z funkcji SKRYPTORIUM/KRUKARNI wiezy (akolici/nowicjusze kopiuja, rejestry zamku, korespondencja krucza - stale). Potencjal ekspansji: maesterzy innych Manderly-sworn holdingow (przez siec polnocno-ladowa).

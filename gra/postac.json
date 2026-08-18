@@ -8,7 +8,7 @@
  "mieszka": "ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 70,
+ "sytosc": 62,
  "zmeczenie": 1,
  "sakiewka": {
   "miedziaki": 1,
@@ -151,8 +151,8 @@
  "nazwisko": "Tally",
  "liczniki_uzyc": {
   "rachunki": 269,
-  "audyt": 167,
-  "pismo": 138,
+  "audyt": 168,
+  "pismo": 139,
   "organizacja": 160,
   "kondycja": 115,
   "walka": 51,
@@ -164,7 +164,7 @@
   "spryt_uliczny": 131,
   "handel": 157,
   "geometria": 22,
-  "finanse": 168,
+  "finanse": 173,
   "wlodarstwo": 132
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
@@ -273,6 +273,12 @@
    "cel": "twarde dowody matematyczne - przekuc 'interesujace-nieudowodnione' w 'ustalone'; odpowiedz na mieszany list maesterow",
    "postep": "SESJA 10 (rzut 94 KRYT): FINAL. Finalne partie zlozyly sie w jeden szczelny gmach - kregoslup, rdzen, filary, klamra domykajaca. ROZPRAWA UKONCZONA (kompletny draft dowodowy): odpowiedz na cytadelowe 'nieudowodnione' - rygorystyczna, z jawnymi przeslankami, zwezona do prawdy dowodliwej. Nastepca traktatu rachunkow, wieksze i twardsze dzielo. DALEJ: czystopis + poslac Theomore/lancuch maesterow do recenzji (uznanie powolne, per mieszany list).",
    "sesje": 10
+  },
+  "dossier_dowodow_zycia": {
+   "tytul": "Dowody z zycia - empiryczny towarzysz Rozprawy (anonimizowane case studies)",
+   "status": "UTWORZONY 298-01-01 (rzut 100 KRYT)",
+   "cel": "korroboracja Rozprawy faktem: metoda w dzialaniu na realnych ksiegach (kradziez Malwyna, faktoria, Doryan/Voss) - anonimizowane, dyskrecja klientow chroniona, wynik+metoda odslonite",
+   "przelom": "Przy skladaniu Symon dostrzegl WZOR miedzy realnymi przypadkami = generalizacja, ktorej wczesniej nie ujal - PRAKTYKA WZMOCNILA TEORIE: rdzeniowe twierdzenie Rozprawy stalo sie MOCNIEJSZE i szersze. Dossier jest empirycznie kuloodporny (anonimizacja mistrzowska=dyskrecja cala + dowod niepodwazalny). Fakt, ktorego Cytadela nie obali."
   }
  },
  "fundusz_reliefu_jel": {

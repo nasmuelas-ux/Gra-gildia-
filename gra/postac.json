@@ -8,8 +8,8 @@
  "mieszka": "ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 46,
- "zmeczenie": 1,
+ "sytosc": 40,
+ "zmeczenie": 3,
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 303,
@@ -164,7 +164,7 @@
   "spryt_uliczny": 130,
   "handel": 157,
   "geometria": 22,
-  "finanse": 136,
+  "finanse": 141,
   "wlodarstwo": 120
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
@@ -267,11 +267,11 @@
   "traktat2_prowiantowanie": "PROBA ROZPOCZECIA 297-11-14 (rzut 2) - NIE ruszyl: material ZA BLISKI/surowy. Symon jest wciaz W SRODKU tej zimy (brod/sztorm/luka podazy=THIS winter, lekcje niedomkniete, co tydzien nowe) - nie da sie zdystansowac zywej materii do traktatu. Kontrast do 1. traktatu (mial braavijskie teksty+ustalona metode do syntezy). WNIOSEK: ta ksiega chce SKONCZONEJ zimy za soba, by napisac ja cala z domknietymi lekcjami. ODLOZONE na koniec zimy/wiosne. Nie strata - madre rozpoznanie ze przedwczesne.",
   "rozprawa_dowody_matematyczne": {
    "tytul": "Rozprawa o dowodach rachunku (odpowiedz Cytadeli)",
-   "status": "w_toku",
+   "status": "SKONCZONA (draft kompletny) - 297-12-22",
    "rozpoczeta": "297-12-16",
    "cel": "twarde dowody matematyczne - przekuc 'interesujace-nieudowodnione' w 'ustalone'; odpowiedz na mieszany list maesterow",
-   "postep": "SESJA 9 (rzut 80): druga polowa idzie gladko - mistrzowskie oko (finanse 8) czyni glebsze dowody traktowalnymi tam, gdzie przy 1. scianie byl mozol. Kolejne sekcje domkniete rygorystycznie; dzielo wchodzi w KONCOWY odcinek (~2/3+ stoi). Metoda (zwezic->nazwac->dowiesc) + mistrzostwo = plynne. Blisko finalnych sekcji.",
-   "sesje": 9
+   "postep": "SESJA 10 (rzut 94 KRYT): FINAL. Finalne partie zlozyly sie w jeden szczelny gmach - kregoslup, rdzen, filary, klamra domykajaca. ROZPRAWA UKONCZONA (kompletny draft dowodowy): odpowiedz na cytadelowe 'nieudowodnione' - rygorystyczna, z jawnymi przeslankami, zwezona do prawdy dowodliwej. Nastepca traktatu rachunkow, wieksze i twardsze dzielo. DALEJ: czystopis + poslac Theomore/lancuch maesterow do recenzji (uznanie powolne, per mieszany list).",
+   "sesje": 10
   }
  },
  "fundusz_reliefu_jel": {

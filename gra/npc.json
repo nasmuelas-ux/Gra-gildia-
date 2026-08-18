@@ -690,9 +690,9 @@
    "imie": "Theomore",
    "zawod": "maester lorda Wymana Manderly na Nowym Zamku; uczony, zna prawo i precedens, ma ucho lorda i drogi ku Cytadeli/Winterfell; ale sluzy establishmentowi (ryzyko) | OCENA OWENA: uczony i (wg Owena) osobiscie uczciwy — nie Ryman, zwiazany kodeksem Cytadeli; ALE lojalnosc nalezy do lorda Wymana, nie do sprawiedliwosci samej w sobie ani do obcego/wdowy. Ryzyko nie 'zdrada za srebro', lecz 'jego obowiazek biegnie ku establishmentowi' — co zrobi z rzecza, zalezy od interesu LORDA, nie Symona.",
    "nastawienie_do_gracza": 90,
-   "ostatni_kontakt": "297-12-17 - pomogl skruszyc SCIANE Rozprawy (rzut 73)",
+   "ostatni_kontakt": "297-12-23 - Symon przyniosl UKONCZONA Rozprawe; Theomore bierze ja pod recenzje+endorsement (rzut 67)",
    "cechy_mowy": "uczenie i wynioslo, poludniowy akcent; lubi slowa 'precyzyjnie' i 'wedle precedensu'",
-   "zaufanie": 80,
+   "zaufanie": 82,
    "wie_o_graczu": [
     "przedstawil sprawe Rymana jasno, jak rachmistrz — Theomore docenil klarownosc, ALE odmowil dzialania: to tylko kopia, brak oryginalu/korroboracji, oskarzenie tyczy szanowanego czlowieka u lorda; nie tknie bez ironclad proof",
     "m9d6: prostak-skryba przyszedl PROSIC o nauke/dostep do wiedzy — Theomore odprawil go chlodno, z wynioslоscia: nie ma PRECEDENSU, by maester ksztalcil nisko urodzonego; jego obowiazek to lord, nie edukacja kupczykow. Symona widzi jako natreta, co znowu sie napraszania (po Rymanie). Braavijski Symona zbyl jako 'znosny jak na kramarza'",
@@ -712,7 +712,7 @@
    "potrzeby": [],
    "leki": [],
    "dlugi": [],
-   "nota": "Cieply, powracajacy kanal uczony (od kryt-97 06-06); ceni umysl Symona. Rezerwa: maester wielkiego domu + cien dossieru (przyszedl 1. raz jako audytor-oskarzyciel) => zaufanie w tyle za sympatia. NIE konfident, ale drzwi dworsko-uczone otwarte. | 297-12-16: porzadna sesja o zalozeniach ROZPRAWY DOWODOWEJ (odlozona z 11-23). Theomore jako maester-adwokat-diabla przetestowal os argumentu, wskazal wektory ataku Cytadeli, pomogl uszczelnic dwa slabe ogniwa. Intelektualny sojusz glebszy - to jego zywiol. | 297-12-17 (rzut 73): Symon przyniosl SCIANE - nieudowadnialny krok. Theomore nie dal gotowca, pokazal ZE SYMON PROBOWAL DOWIESC ZA DUZO; fix=zwezic twierdzenie do dowodliwego LUB uczynic zalozenie jawna przeslanka (cytadelowy rygor). Sciana->drzwi przez uczciwe zakresowanie. GLEBOKO pod wrazeniem ze Symon SAM trafil w prawdziwy crux (rzadkie u samouka) - to nie uczen, to kolega w mysli. zauf ->80."
+   "nota": "Cieply, powracajacy kanal uczony (od kryt-97 06-06); ceni umysl Symona. Rezerwa: maester wielkiego domu + cien dossieru (przyszedl 1. raz jako audytor-oskarzyciel) => zaufanie w tyle za sympatia. NIE konfident, ale drzwi dworsko-uczone otwarte. | 297-12-16: porzadna sesja o zalozeniach ROZPRAWY DOWODOWEJ (odlozona z 11-23). Theomore jako maester-adwokat-diabla przetestowal os argumentu, wskazal wektory ataku Cytadeli, pomogl uszczelnic dwa slabe ogniwa. Intelektualny sojusz glebszy - to jego zywiol. | 297-12-17 (rzut 73): Symon przyniosl SCIANE - nieudowadnialny krok. Theomore nie dal gotowca, pokazal ZE SYMON PROBOWAL DOWIESC ZA DUZO; fix=zwezic twierdzenie do dowodliwego LUB uczynic zalozenie jawna przeslanka (cytadelowy rygor). Sciana->drzwi przez uczciwe zakresowanie. GLEBOKO pod wrazeniem ze Symon SAM trafil w prawdziwy crux (rzadkie u samouka) - to nie uczen, to kolega w mysli. zauf ->80. || 297-12-23 (rzut 67): Symon przyniosl SKONCZONA Rozprawe (dzielo ktore Theomore hartowal jako adwokat-diabla). Pierwszy przeglad: GENUINE uznanie - 'to jest realna robota, odpowiedziales im'. Bierze ja na PORZADNA recenzje (dni, frost-aftermath go zajmuje) i obiecuje FORWARDOWAC w lancuch maesterow Z WLASNYM ENDORSEMENTEM (poparcie maestra wazy w Cytadeli). Temperuje realizmem: akceptacja Cytadeli powolna (per mieszany list), ale teraz jest CZYM odpowiedziec na 'obserwowac', i ma szampiona. zauf ->82."
   },
   {
    "id": "notariusz_ryman",

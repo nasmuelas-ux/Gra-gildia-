@@ -7476,3 +7476,7 @@ Symon usiadł wreszcie z Garrickiem — swoim strażnikiem/stewardem bezpieczeń
 
 ## 297-12-23 POPOŁUDNIE→WIECZÓR — Garrick po ludzku (rzut 29)
 Symon nie skończył na raporcie — spytał Garricka po ludzku, jak mu się żyje i czy jest zadowolony. To rzadkość, żeby pracodawca pytał o niego samego, i były sierżant był tym wyraźnie zaskoczony. Zamknięty człowiek nie otworzył się na oścież (rzut 29), ale gest trafił i coś uchylił: jest kontent, ceni najbardziej to, że traktuje się go z szacunkiem — rzadki luksus dla najętej stali — a płaca jest godna. I mały reveal: odszedł ze straży miejskiej znużony, bo miał dość polityki i przymykania oka za grosz, patrzenia w bok na to, czego nie znosił. U Symona może strzec uczciwie uczciwego człowieka — i to mu wraca zawodową godność. Lojalność głębnie o stopień; pełnia przyjdzie z czasem i powtórzonym zainteresowaniem. Kolejny dowód, że uczciwy pracodawca ściąga ludzi znużonych cudzą nieuczciwością. nast →27, zauf →17.
+
+## 297-12-23 NOC → 12-24 RANEK — sen; Rhona dojechała
+Dzień 12-23 zamknięty przy Mirze (Rozprawa u Theomore'a, dobra robota, Garrick).
+**12-24 RANEK:** zwykły zimowy chłód (pogoda 39, trakty przejezdne), dzień sprzyja (zdarzenie 92 — handel wraca siłą po mrozie, dobra energia w mieście), targ rybny (24 podzielne przez 3). Korespondencja bogata (rzut 87), ale jedna wieść góruje: **Rhona dojechała** (rzut przyjazdu 75) — siostra Miry dotarła rano do Białego Portu po opóźnieniu przez mróz. Izba gotowa, reunion przed nimi. W toku: Rozprawa u Theomore'a, klienci Edwyd/Malwyn, maszyna mieli pod delegacją.

@@ -2,15 +2,15 @@
  "data": {
   "rok": 297,
   "miesiac": 12,
-  "dzien": 23,
+  "dzien": 24,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 37,
- "dzien_tygodnia_nr": 2,
- "dzien_targowy": null,
- "nastroje_miasta": "297-12-23 RANEK. Zabojczy mroz PEKL w nocy - pogoda 37 (zwykly zimowy chlod, trakty znow przejezdne). ALE zdarzenie 5 (NISKIE): ponury poranek po killing froscie - miasto liczy straty na marginesach (kilka smierci w dalekich zakatkach POZA zasiegiem sieci, drobne szkody/lod, zwierzeta). Tarcza Symona utrzymala OSIAGALNYCH (relief zadzialal), ale mroz siegnal tam, gdzie zadna siec nie dochodzi - pokorna granica. Korespondencja cicha (rzut 16): Rhona znow w drodze (mroz pekl), poza kontaktem - moze dojedzie dzis/jutro. Symon po UKONCZENIU Rozprawy (draft) - dalej czystopis+maesterzy. Kasa 303, fundusz reliefu 32, finanse 8. W toku: Malwyn recurring, Edwyd klient, izba dla Rhony czeka.",
+ "pogoda": 39,
+ "dzien_tygodnia_nr": 3,
+ "dzien_targowy": "targ rybny",
+ "nastroje_miasta": "297-12-24 RANEK. Zwykly zimowy chlod - pogoda 39 (trakty przejezdne), zdarzenie 92 (WYSOKIE - dzien sprzyja, dobra energia/ruch w miescie, handel wraca sila po mrozie). TARG RYBNY (24/3). Korespondencja bogata (rzut 87). GLOWNE: RHONA DOJECHALA (rzut przyjazdu 75) - dociera dzis rano do Bialego Portu, siostra Miry w koncu w drzwiach. Izba gotowa. Symon: Rozprawa u Theomore'a (recenzja+endorsement), maszyna mieli (delegacja), kasa 321, fundusz reliefu 32, finanse 8. W toku: reunion Rhona/Mira, Edwyd/Malwyn klienci, aftermath mrozu domyka sie.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 23,
+ "dzien": 24,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

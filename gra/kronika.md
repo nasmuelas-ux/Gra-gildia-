@@ -7438,3 +7438,6 @@ Symon zajął się klientem — i mistrzowskie oko (finanse 8) cięło prosto do
 
 ## 297-12-21 POPOŁUDNIE (Dzień Matki) — przygotowanie izby dla Rhony
 Symon wrócił do Miry i razem przygotowali izbę dla Rhony, która jutro przyjedzie — tę pustą, drugą na piętrze, która przez lata była cichym żalem Miry po zmarłym synu (kołyskę dawno oddała, izbę „nazwała otwartą dłonią, nie żalem"). Wspólna, czuła robota: wietrzenie, pościel, ogień, drobiazgi. Emocjonalna waga w sam Dzień Matki — pokój żalu zapełnia się życiem i rodziną, siostra na progu, a pod sercem Miry to, co dopiero przyjdzie. Izba gotowa. Więź ciepła.
+
+## 297-12-21 POPOŁUDNIE→WIECZÓR (Dzień Matki) — u Nesty, bez interesu (rzut 32)
+Symon odwiedził Nestę nie po naradę — bo to Dzień Matki, dzień rodziny, a ona, owdowiała młodo w Braavos i żyjąca tu z dala od domu, nie ma w Białym Porcie nikogo swojego. Wizyta wyszła ciepła, choć nie wylewna (rzut 32): Nesta, nawykła dawać a nie brać, zbyła gest suchym dowcipem („przyszedłeś pilnować, żebym nie umarła z samotności? żyję"), ale rzecz trafiła — rzadko ktoś pamięta o niej w taki dzień. Cichy kubek, sucha ciepła wymiana, mimochodem wzmianka o Malwynie i o mistrzostwie. Nie głębokie otwarcie — gardy niezależnej wdowy się nie zdejmuje na zawołanie — lecz czysta reciprocity: uczeń pamięta o mistrzyni jak o rodzinie, w dzień, gdy się o rodzinie pamięta. zauf +1.

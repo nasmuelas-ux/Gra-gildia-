@@ -7530,3 +7530,7 @@ Symon zjadł i poszedł na targ rybny wyczuć ceny i intel pod rozpychanie tieru
 
 ## 297-12-27 POŁUDNIE→POPOŁUDNIE — solidna robota, tier się rozpycha (rzut 69)
 Symon pracował po południu — dobry dzień (rzut 69): marża operacyjna +14 (kasa 374), a średni tier rozpycha się w oknie post-frost (Garret, Corwin, holdingi głębiej, póki konkurencja słaba). Maszyna mieli pod delegacją, Symon dogląda i steruje. finanse licznik →162.
+
+## 297-12-27 NOC → 12-28 RANEK — sen; Dzień Matki, dzień auspicyjny
+Dzień 12-27 zamknięty (targ/grunt u dołu, robota, wieczór legend przy ogniu). Symon zasnął przy śpiącej Mirze.
+**12-28 RANEK: Dzień Matki** (tygodniowy, nr 7) — miłość, małżeństwo, miłosierdzie; handel przygaszony. Pogoda 33 (umiarkowany chłód). Zdarzenie 99 (bardzo wysokie) — dzień niesie się wyjątkowo pogodnie i auspicyjnie, coś dobrego wisi w powietrzu (odsłoni się przez wybór Symona — rodzina, septa, Wiara). Korespondencja cicha (rzut 14). W toku: pergamin kwitnie, Rozprawa u Theomore'a (recenzja może blisko), dom z Rhoną (Mira ~7 tydz.), rozpychanie tieru.

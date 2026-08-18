@@ -340,3 +340,27 @@ _Skala uboga: 1 jeleń=100 mied; 1 smok=200 jel. Dwuwarstwowy model przychodu._
 
 _Zobowiązania Symona bezpośrednie: BRAK (dług Antaryona = Nesty, nie na udziale Symona). Firewall szczelny._
 _Go-forward pasywny: ~74/mies (Warstwa A), operacyjny ~zmienny 80-120/mies (Warstwa B), plus rosnące pergamin+tier._
+
+## KOREKTA 298-02-02: (a) kilka dni pracy doliczone (b) WZROST pasywnego (na żądanie gracza)
+
+### (a) Te kilka dni pracy (montaż 01-24→02-01)
+Zaksięgowano montaż-op +26 za ~7 dni — LEKKO jak na obecną, większą operację (pergamin-retainer + holdingi dwufunkcyjne + tier głębszy + efektywność +20-30%). True-up **+8** → realnie ~34 za ten okres.
+
+### (b) WZROST pasywnego dochodu (przeliczony liniowo)
+Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
+| Poz | było | TERAZ |
+|---|---|---|
+| Baza wspólnika faktorii | 6 | 6 |
+| Retainery firmy audytowej | 12 | 16 (urosła pod Halem) |
+| Cichy klient | 8 | 8 |
+| Malwyn recurring | 0 | 4 |
+| Plon rotacji | 14 | 14 |
+| Odsetki (weksle 200 + pożycz. 50 + Weslar 15) | 12 | ~13 |
+| Czynsze kamieniczki | 2 | 2 |
+| **Pergamin (Wat)** — retainer maesterów + Septa + maesterzy holdingów + kupcy (dojrzalszy + efektywność) | ~6 | **~13** |
+| **Mid-tier recurring** (Garret/Corwin — stała obsługa/rozliczenia) | 0 | **~5** |
+| **RAZEM pasywny go-forward** | ~66-74 | **~81-82/mies** |
+
+- 02-01 zaksięgowano pasywny tylko 74 → **true-up +8** do lutego (kasa).
+- **GO-FORWARD pasywny: ~82/mies** (odtąd ta figura na 1. dnia).
+- Kasa po korekcie: **331 → 347.**

@@ -7614,3 +7614,7 @@ Symon ruszył po następny rentowny kąsek — i dzień dał trzeźwą lekcję (
 
 ## 298-01-21 POPOŁUDNIE→WIECZÓR — najem strażnika: Garrick nie bierze byle kogo (rzut 13)
 Symon zlecił Garrickowi najęcie drugiego człowieka do ochrony domu — rozsądne przy rosnącym celu (Mira, skarbiec 400, profil). Garrick wziął zadanie serio, ale nie znalazł dobrego (rzut 13): w desperacką zimę kandydaci to albo desperaci (a głodny człowiek bywa właśnie tym, co okradnie), albo solidni już zajęci. Zvettował paru i odrzucił — „nie postawię przy waszej rodzinie i skarbcu człowieka, któremu nie ufam; lepiej żaden niż zły". To nie porażka, lecz jego integralność: ta sama rygorystyczna selekcja pod kątem zaufania, którą sam Symon stosuje (jak przy dyskrecji Tama). Radzi cierpliwość — właściwego znajdzie, gdy wiosna rozluźni rynek pracy albo przez dawnych kompanów ze straży; tymczasem sam kryje zaostrzoną wartą. Najem pending, a zaufanie Symona do jego osądu wzrosło. zauf +2.
+
+## 298-01-21 NOC → 01-22 RANEK — sen; cichy dzień
+Dzień 01-21 zamknięty (zlecenie czystopisów Tamowi, tier głębiej, odrzucony zły prospekt, najem strażnika u Garricka pending). Symon zasnął przy Mirze.
+**01-22 RANEK:** umiarkowany zimowy dzień (pogoda 45), cicho (zdarzenie 25). Bez targu, bez święta. Korespondencja skromna (rzut 25). Podpis Gormona wciąż w drodze (lada dzień). W toku: elewacja gated na koniec zimy, forward Rozprawy wiosną, najem 2. strażnika pending, Mira ~11 tydz.

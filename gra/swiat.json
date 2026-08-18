@@ -2,15 +2,15 @@
  "data": {
   "rok": 298,
   "miesiac": 1,
-  "dzien": 21,
+  "dzien": 22,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 34,
- "dzien_tygodnia_nr": 2,
- "dzien_targowy": "targ rybny",
- "nastroje_miasta": "298-01-21 RANEK. Umiarkowany zimowy dzien - pogoda 34 (znosnie), zdarzenie 30 (spokojnie-cicho). TARG RYBNY (21/3). Korespondencja skromna (rzut 32). Podpis Gormona jeszcze W DRODZE (rzut 47 - nie dzis, ~za dni; wolno czyta+zima). Symon: finanse 9, kasa 167, skarbiec 400. Pergamin kwitnie. Mira ~11 tydz. W toku: czekanie na podpis Gormona, elewacja gated koniec zimy, forward wiosna.",
+ "pogoda": 45,
+ "dzien_tygodnia_nr": 3,
+ "dzien_targowy": null,
+ "nastroje_miasta": "298-01-22 RANEK. Umiarkowany zimowy dzien - pogoda 45 (znosnie), zdarzenie 25 (cicho-spokojnie). Brak targu (22/3 nie), brak swieta. Korespondencja skromna (rzut 25). Podpis Gormona wciaz w drodze (rzut 42 - nie dzis, lada dzien; zima spowalnia). Symon: finanse 9, kasa 179, skarbiec 400. Pergamin kwitnie, tier grubieje. Mira ~11 tydz. W toku: podpis Gormona lada dzien, elewacja gated koniec zimy, najem 2. straznika pending (Garrick szuka wlasciwego).",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -50,7 +50,7 @@
   "prowiant_uwaga": null
  },
  "swieto": null,
- "dzien": 21,
+ "dzien": 22,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",

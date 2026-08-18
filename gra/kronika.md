@@ -7644,3 +7644,6 @@ Symon ruszył po warsztat Wata — delikatnie, dignity-first: „twoje dzieło n
 
 ## 298-01-24 POŁUDNIE→POPOŁUDNIE — tier: diminishing returns (rzut 15)
 Symon wrócił pogłębiać tier po falstarcie u Wata, ale trafił na cienko (rzut 15): łatwe gęstnienie zebrał już parę dni temu (01-21), zima ścieśnia nowe leady, a pchanie tak szybko znów dało niewiele — +4 (kasa 191). Drugi niski rzut dnia po Wacie; dzień wyraźnie nie jest jego, i sygnał czytelny: dziś lepszy grounding niż grind. wlodarstwo licznik →142.
+
+## 298-01-24 POPOŁUDNIE→WIECZÓR — dzień definitywnie suchy (rzut 12)
+Symon uparł się pracować dalej i dostał czwarty cienki wynik dnia (rzut 12, po Wacie-2 i tierze-15). Dzień jest po prostu suchy — robota nie rodzi, netto zero, a on tylko rośnie w zmęczeniu. Nawet dwa mistrzostwa nie biją martwego dnia; grind przeciw ziarnu dnia jest daremny. Kasa bez zmian (191). Jasny, powtórzony sygnał: dziś nie księgi, lecz ludzie i dom.

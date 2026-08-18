@@ -93,7 +93,6 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
 - **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 0
 - **Ser Aldric** (ser_aldric_oficer) — oficer zaopatrzenia domu lorda Manderly (szczebel nad Godrik · nast 0
-- **Lord Wyman Manderly** (lord_wyman_manderly) — Lord Bialego Portu, najpotezniejszy chorazy Starkow; pozorni · nast 76
 - **Rhona** (rhona_siostra_miry) — starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczk · nast 40
 
 ## ZEGARY (odliczaja)

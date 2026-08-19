@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 52,
- "zmeczenie": 0,
+ "zmeczenie": 2,
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 599,
@@ -158,7 +158,7 @@
   "walka": 51,
   "prawo": 205,
   "retoryka": 136,
-  "czytanie_ludzi": 239,
+  "czytanie_ludzi": 240,
   "rzemioslo": 4,
   "jezyki": 75,
   "spryt_uliczny": 132,
@@ -199,7 +199,8 @@
   "weksle_uwaga_11_16": "297-11-24 ROZWIAZANE POZYTYWNIE: Rewan splacil czesc wczesniej (~25), chwiejba z 11-16 zazegnana, reszte splaci - weksel zdrowy, goodwill+reputacja uczciwego wierzyciela procentuja (naplyw kredytobiorcow).",
   "pozyczka_weslar_11_24": "297-11-24: maly ZABEZPIECZONY mostek ~15 jel pod kolateral (kupiec Weslar, polecony przez Rewana, vet=uczciwy-cienszy). Odzyskiwalny z procentem+kolateral. Rozwija linie kredytowa ostroznie; war-chest ledwo tkniety.",
   "partnerstwo_pergaminu_wat": "Partnerstwo z pergaminnikiem Watem (zawarte 297-12-25, warunki doprecyzowane): (1) OFF-TAKE - operacja Symona (skryba/audyt/faktoria/kantor) kupuje pergamin+atrament po koszcie+maly narzut (PONIZEJ rynku) = staly spadek kosztu przyborow; (2) AUTONOMIA WATA - sam pan rzemiosla/jakosci (klauzula, Torren spisal, wzor jak autonomia Miry); (3) UDZIAL W SPRZEDAZY inkrementalnej (nowe kanaly: Septa/maesterzy/kupcy/faktoria) - Symon nieco CIENSZY udzial niz chcial (ustapil Watowi dla goodwillu, relacja>ostatni jelen); (4) KAPITAL Symona (inwestycja pojemnosci) = odzyskiwalne equity, nie datek; (5) GUILD-SAFE - ekspansja ADDYTYWNA, zero rajdu na cech pisarzy; (6) OPCJA SUKCESJI - prawo pierwokupu warsztatu gdy Wat zejdzie/przejdzie na spoczynek (brak nastepcy) - Wat zgodzil sie na first-refusal, nie przedsprzedaz (godnosc za zycia). Papier braawijski=wiosna. || 298-01-22 OPTYMALIZACJA PROCESU (rzut 51): Symon (systematyczny wzrok) + Wat (mistrz) znalezli EFEKTYWNOSC bez headcountu: (1) batch-liming - wiecej skor na cykl wapna, (2) lepsze wykorzystanie ram/przestrzeni suszenia (wiecej welinu na tej samej powierzchni/czas), (3) system GRADOWANIA/sortowania skor przed obrobka = mniej zmarnowanych, wyzszy yield uzytecznego pergaminu. Output ~+20-30% TYM SAMYM nakladem rak. Wat docenil (Symon nie uczyl go rzemiosla-autonomia, tylko pytal madrze o marnotrawstwo). Skalowanie przez wydajnosc nie ludzi - lepsza marza linii.",
-  "zadatek_siedziba_ondrew": "ZADATEK 65 jel na skład+kantor Ondrewa (Środkowe Nabrzeże), cena all-in ~665; reszta 600 przy zamknięciu za ~3-4 tyg (struktura: kasa+retained firmy+krótkie raty, czyste). Posiadanie za ~miesiąc. Pate (magazynier) zostaje."
+  "zadatek_siedziba_ondrew": "ZADATEK 65 jel na skład+kantor Ondrewa (Środkowe Nabrzeże), cena all-in ~665; reszta 600 przy zamknięciu za ~3-4 tyg (struktura: kasa+retained firmy+krótkie raty, czyste). Posiadanie za ~miesiąc. Pate (magazynier) zostaje.",
+  "warrant_cla_lord": "Cichy warrant lorda Wymana: prawo wglądu w księgi komory celnej pod pretekstem 'przeglądu zimowego bilansu z ramienia zamku' (298-03-13). Helman wie że ktoś patrzy, nie że na niego."
  },
  "licznik_uzyc": {
   "audyt": 11,

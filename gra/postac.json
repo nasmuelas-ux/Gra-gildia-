@@ -12,7 +12,7 @@
  "zmeczenie": 4,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 476,
+  "jelenie": 456,
   "smoki": 0
  },
  "dobytek": [
@@ -158,14 +158,14 @@
   "walka": 51,
   "prawo": 211,
   "retoryka": 136,
-  "czytanie_ludzi": 252,
+  "czytanie_ludzi": 253,
   "rzemioslo": 4,
   "jezyki": 75,
   "spryt_uliczny": 132,
   "handel": 157,
   "geometria": 22,
   "finanse": 258,
-  "wlodarstwo": 150
+  "wlodarstwo": 151
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
  "weksle_wystawione_jel": 200,

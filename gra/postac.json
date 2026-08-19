@@ -8,8 +8,8 @@
  "mieszka": "ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 35,
- "zmeczenie": 12,
+ "sytosc": 23,
+ "zmeczenie": 30,
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 203,
@@ -209,7 +209,8 @@
   "uzbrojenie_karawany": "298-04-23: zakup uzbrojenia dla karawany daniny — włócznie, twardzone kaftany/czapki, parę porządnych ostrzy dla trzonu; dozbroić woźniców Cassa + party. Koszt 35 jel. Cel: karawana broni się sama (kompensuje niedobór najemnych).",
   "refi_mostek_sukcesja": "298-04-24: mostek 100 jel na krok sukcesji Nesty na pryncypała (przyspieszenie refi/wygaszenia cienia Antaryona po dotknięciu firewalla od góry). Rośnie udział Symona w faktorii. Skarbiec NIE tknięty (rezerwa Miry/dziecka). Dług Antaryona=~90 smoków/18000 jel — nie do spłaty sakiewką; cień gaśnie przez sukcesję Nesty (tygodnie), którą ona domyka pod nieobecność Symona. | 298-04-24: DOPŁATA 200 jel ze skarbca (skarbiec 400->200). ŁĄCZNY mostek sesji = 300 jel. KOREKTA natury skarbca: to REZERWA SYMONA (rozdzielność majątkowa — Mira ma własne oszczędności + dom sukna, niezależna), NIE wspólna poduszka Miry; sięgnięcie po nią nie odsłania Miry/dziecka. Residualny cień wyraźnie mniejszy; udział Symona w faktorii rośnie mocniej. Wciąż nie zapieczętowane przed wyjazdem (wiąże mechanizm/podpisy, nie grosz) — powrót do cienia ~0.",
   "slowo_lorda_do_starka": "298-04-27: Symon niesie SŁOWO lorda Wymana do Eddarda Starka (pozdrowienie/szacunek wiernego chorążego, 'Biały Port stoi za Winterfell') — status posła lorda, nie tylko wozaka daniny.",
-  "tajne_oko_lorda": "298-04-27: tajne zlecenie lorda — być okiem/uchem na dworze królewskim w Winterfell (kto z kim, intrygi, co wisi w powietrzu), zdać relację po powrocie. Zbieżne z nadchodzącą wielką grą."
+  "tajne_oko_lorda": "298-04-27: tajne zlecenie lorda — być okiem/uchem na dworze królewskim w Winterfell (kto z kim, intrygi, co wisi w powietrzu), zdać relację po powrocie. Zbieżne z nadchodzącą wielką grą.",
+  "bilans_konta_domowe": "298-05-01 Dzień Bilansu (Symon w drodze): netto ~+70 jel pasywne (czynsze/retainery/odsetki/plon firmy minus koszty) zaksięgowane na kontach domowych pod ręką Nesty — do odbioru/reconcile po powrocie (NIE w sakiewce podróżnej 203)."
  },
  "licznik_uzyc": {
   "audyt": 11,

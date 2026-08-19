@@ -2,14 +2,14 @@
  "data": {
   "rok": 298,
   "miesiac": 3,
-  "dzien": 25,
+  "dzien": 30,
   "era": "AC"
  },
- "pora": "WIECZÓR",
+ "pora": "RANEK",
  "sezon": "wczesna jesien/przedzimie na Polnocy - okno sezonu budowlanego zamku DOMYKA sie (mroz wstrzymuje budowe), za to prowiantowanie/zapasy przyspieszaja. Maesterski cien twardej zimy geste; Polnoc laduje spichrze pelna para. Portfel zaczyna sie obracac: drewno-budowa taperuje, podaz/prowiant/underwriting zimowy rosnie.",
- "pogoda": 74,
- "dzien_tygodnia_nr": 1,
- "dzien_targowy": false,
+ "pogoda": 76,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": true,
  "nastroje_miasta": "298-02-02 RANEK. JASNY dzien - pogoda 89 (HIGH, sloneczny mroz; dobry omen na dzien raportu do lorda). Zdarzenie 35 (spokojnie). Brak targu (2/3 nie), brak swieta. Korespondencja umiarkowana-dobra (rzut 68). Symon: finanse 9, kasa 291, skarbiec 400. KOMISJA GOTOWA do raportu lordowi (Alebrand, airtight dowod, lone, firewall czysty) - to domyka proving step->elewacja koniec zimy. Mira ~13 tydz. W toku: RAPORT LORDOWI (dzis), pergamin/tier, forward Rozprawy wiosna.",
  "ceny": {
   "chleb": {

@@ -10,18 +10,18 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-04-01 WIECZÓR · wiosna (298) - Północ wyszła z zimy
+- **Data:** 298-04-05 POŁUDNIE · wiosna (298) - Północ wyszła z zimy
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 822 jeleni + 1 mied + 0 smokow
+- **Wolne:** 586 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
-- Weksle / mostek-kredyt NIEZABEZPIECZONE: 200 jel u dluznikow (DOLOZONE +100 dnia 09-07; wczesniej ~100). Procent dochodowy, popyt na mostek staly przed zima; rolluja/splacaja. [ODREBNIE: pozyczka ZABEZPIECZONA 50 jel pod zastaw - patrz pozyczka_zabezpieczona.]
+- Weksle / mostek-kredyt NIEZABEZPIECZONE: 200 jel u dluznikow (DOLOZONE +100 dnia 09-07; wczesniej ~100). Procent dochodowy, popyt na mostek staly przed zima; rolluja/splacaja. [ODREBNIE: pozyczka ZABEZPIECZONA 50 jel pod zastaw - patrz pozyczka_zabezpieczona.] || 298-04-05: ~200 jel ściągnięte i przekazane na zapłatę za skład Ondrewa (weksle_out topnieją odpowiednio).
 - Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18). INTAKT - oddzielna od weksli niezabezpieczonych.
 - Rotacja faktorii Nesty (zboze-sol): 400 jel w obrocie (DOLADOWANE 09-07 do pelnej 400 z ~357, +43 z kasy; reconcile dryfu 335/347/357 -> 400 twarde). W wiekszosci kapital Symona + equity core-faktorii. Plon per zamkniety cykl (~15-25 jel, czesc do kasy jako zwrot wlascicielski, czesc reinwest). Sprawdzony filar kapital-light-ish. Zimowy popyt tailwind. || 09-18: cykl rzut 40 - popyt wysoki (mroz) ale zamarznieta logistyka zjada czesc premii; plon ~18 jel: 14 do kasy (140->154), 4 reinwest (rotacja ~404). Lokalne zrodlo=przewaga gdy inne stoja.
 - Drewno-marza (Bennet->broker->zamek): umowa OPIECZETOWANA 07-18, SKALOWANA 07-18 (rzut 63). Godric zakontraktowal wiekszy wolumen budowlany na sezon; Bennet podniosl scinke. Przepustowosc filaru ~1.5x - najwiekszy strumien marzy (per dostawa). DOSTAWA BENNETA = BEZPOSREDNIO LADEM (dostawca lokalny), BEZ WODY - NIE zalezy od kanalu Bialego Noza ani przewozu rzecznego. REALNY SUFIT SKALOWANIA = pojemnosc scinki Benneta + przewoz LADOWY (wozy/woly, stan drog; wiosenne bloto obsycha = lepiej). Kapital-light (pre-sold off-take zamku). Ksieguj marze per dostawa. [UWAGA: ubezp-tranzyt WODNY dotyczy rotacji faktorii, nie tego filaru] [07-24 rzut 67: EKSPANSJA na ZDROWEJ bazie - Bennet SAM inwestuje w pojemnosc (rece+zaprzeg) przeciw gwarantowanemu off-take zamku; Symon koordynuje + obiecuje staly kontakt (lekcja: pielegnowac baze). Pojemnosc narasta ~kilka tyg (rece/wozy/schniecie drog) -> filar rosnie dalej, kapital-light, reliability chroniona.]
@@ -47,8 +47,9 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 297-11-24 ROZWIAZANE POZYTYWNIE: Rewan splacil czesc wczesniej (~25), chwiejba z 11-16 zazegnana, reszte splaci - weksel zdrowy, goodwill+reputacja uczciwego wierzyciela procentuja (naplyw kredytobiorcow).
 - 297-11-24: maly ZABEZPIECZONY mostek ~15 jel pod kolateral (kupiec Weslar, polecony przez Rewana, vet=uczciwy-cienszy). Odzyskiwalny z procentem+kolateral. Rozwija linie kredytowa ostroznie; war-chest ledwo tkniety.
 - Partnerstwo z pergaminnikiem Watem (zawarte 297-12-25, warunki doprecyzowane): (1) OFF-TAKE - operacja Symona (skryba/audyt/faktoria/kantor) kupuje pergamin+atrament po koszcie+maly narzut (PONIZEJ rynku) = staly spadek kosztu przyborow; (2) AUTONOMIA WATA - sam pan rzemiosla/jakosci (klauzula, Torren spisal, wzor jak autonomia Miry); (3) UDZIAL W SPRZEDAZY inkrementalnej (nowe kanaly: Septa/maesterzy/kupcy/faktoria) - Symon nieco CIENSZY udzial niz chcial (ustapil Watowi dla goodwillu, relacja>ostatni jelen); (4) KAPITAL Symona (inwestycja pojemnosci) = odzyskiwalne equity, nie datek; (5) GUILD-SAFE - ekspansja ADDYTYWNA, zero rajdu na cech pisarzy; (6) OPCJA SUKCESJI - prawo pierwokupu warsztatu gdy Wat zejdzie/przejdzie na spoczynek (brak nastepcy) - Wat zgodzil sie na first-refusal, nie przedsprzedaz (godnosc za zycia). Papier braawijski=wiosna. || 298-01-22 OPTYMALIZACJA PROCESU (rzut 51): Symon (systematyczny wzrok) + Wat (mistrz) znalezli EFEKTYWNOSC bez headcountu: (1) batch-liming - wiecej skor na cykl wapna, (2) lepsze wykorzystanie ram/przestrzeni suszenia (wiecej welinu na tej samej powierzchni/czas), (3) system GRADOWANIA/sortowania skor przed obrobka = mniej zmarnowanych, wyzszy yield uzytecznego pergaminu. Output ~+20-30% TYM SAMYM nakladem rak. Wat docenil (Symon nie uczyl go rzemiosla-autonomia, tylko pytal madrze o marnotrawstwo). Skalowanie przez wydajnosc nie ludzi - lepsza marza linii.
-- ZADATEK 65 jel na skład+kantor Ondrewa (Środkowe Nabrzeże), cena all-in ~665; reszta 600 przy zamknięciu za ~3-4 tyg (struktura: kasa+retained firmy+krótkie raty, czyste). Posiadanie za ~miesiąc. Pate (magazynier) zostaje.
 - Cichy warrant lorda Wymana: prawo wglądu w księgi komory celnej pod pretekstem 'przeglądu zimowego bilansu z ramienia zamku' (298-03-13). Helman wie że ktoś patrzy, nie że na niego.
+- WŁASNOŚĆ (298-04-05): kamienny SKŁAD Z KANTOREM na Środkowym Nabrzeżu, na osobiste nazwisko Symona (czysty aktyw jak kamieniczka). Cena ~665 all-in zapłacona (65 zadatek + 300 kasa + 200 weksle + 100 ogon rat). Magazynier PATE (30 lat, został). Firma wynajmie powierzchnię (czynsz→Symon). Do przeprowadzki widocznej roboty.
+- Ogon rat za skład: ~100 jel do spłaty przez najbliższe miesiące pod czysty pasywny (~90/mies). Ondrew (holding syna).
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))
@@ -68,11 +69,11 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
     - prowiantowanie_udzial_zima: Udzial w zimowym prowiantowaniu zamku (od 09-19, Mira-pryncypal/firma): margin per dostawa. Pierwsze partie bezbledne. Ksieguj per dostawa; rosnie, a przy klesce rywala moze wchlonac calosc.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 44 · Zmeczenie 6
+- Zdrowie 100 · Sytosc 47 · Zmeczenie 1
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 9 · wlodarstwo 8
-**Reputacja:** port 35 · schody_zamkowe 40 · cech_pisarzy -6 · wiara 95 · zamek 24 · cech_kolodziejow 42
+**Reputacja:** port 36 · schody_zamkowe 40 · cech_pisarzy -6 · wiara 95 · zamek 24 · cech_kolodziejow 42
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU; LICZBY UCZCIWE vs ZMYSLONE; JEDNOSTKA WOBEC KROLESTWA + POGODA POLITYCZNA; WLADZA NA POLNOCY / BIALY PORT; GOSPODARKA POLNOCY; TARCZA SLABYCH A ICH GODNOSC; POLNOC W KONTRZE DO REGIONOW / TRANSPORT; METODYKA AUDYTU JAKO POMOST; GRANICA PRAWA / SPRAWIEDLIWOSC BEZ DZWIGNI
 
 ## LUDZIE NA SCENIE (nast. do gracza)
@@ -162,7 +163,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `?` wypadek_brod_harrol: WYPADEK PRZY KAMIENNYM BRODZIE (rzut 2): woz+zaprzeg pod lodem na przeprawie, towar stracony (~15 jel), MLODY 
 
 ## WATKI OTWARTE (najwazniejsze u gory)
-- **audyt_dlugu_antaryon** [STANDING]: STANDING POSTAWIONY (d10, rzut 99): Leona I Vox publicznie za kantorem — Vox z obserwatora w AKTYWNEGO sojusznika (wlasny interes: stabilny port, zly 
+- **audyt_dlugu_antaryon** [RUSZONE ]: RUSZONE (298-04-03): Symon RUSZA refi, bierze WIĘKSZOŚĆ MOSTU na siebie z własnego czystego kapitału (najczystszy grosz=warstwa firewalla). Nesta gran
 - **wolnosc_od_harwina** [PRZELOM ]: PRZELOM (d29, rzut 98): OWEN ogłosił Symona PISARZEM SEPTY pod PUBLICZNA OPIEKA WIARY. EFEKT: (1) cechowa bron 'nielicencjonowany partacz' NEUTRALIZOW
 - **list_ze_starego_zamku** [PRZELOM ]: PRZELOM (d12, sluzba w sepcie, rzut 100): Ansell (czlowiek Owena) NAMIERZYL WIARYGODNEGO SWIADKA ze Starego Zamku Locke — osobe, ktora moze POSWIADCZY
 - **spolka_egzotyczna** [AKTYWNA ]: AKTYWNA — import ruszony (barwniki, Vhassar ~11-25); WYWOZ dopiety: skory lokalne (umowa na przyszlosc) + futra polnocne (Torsen/Halvard). Intel: braa

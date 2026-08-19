@@ -2625,6 +2625,19 @@
    "wie_o_graczu": [
     "298-03-06: Symon zatrudnił go osobiście przyklepawszy po lekturze charakteru (czysty odczyt). Płaca uczciwa i w terminie ('u mnie się nie wlecze z zapłatą'), traktowany jak swój. Ulga starego żołnierza — siostra i dziecko przetrwają zimę."
    ]
+  },
+  {
+   "id": "pate_magazynier",
+   "imie": "Pate",
+   "wiek": 58,
+   "stan": "magazynier",
+   "zawod": "magazynier składu na Środkowym Nabrzeżu (30 lat, został po sprzedaży przez Ondrewa dzięki słowu Symona) — żylasty, siwy, zna każdą belkę składu; nieufny z początku, zmiękł gdy nowy pan rzekł 'jesteś mi potrzebny' nie 'zbędny'",
+   "mieszka": "Bialy Port",
+   "nastawienie_do_gracza": 52,
+   "zaufanie": 30,
+   "wie_o_graczu": [
+    "298-04-05: Symon zatrzymał go (dług honoru wobec Ondrewa dochowany), uczciwa płaca, jego wiedza o składzie ceniona jako skarb. Pierwszy raz nowy pan mówi 'potrzebny' nie 'zbędny'. 'Dopilnuję jak swojego, znam każdą belkę'."
+   ]
   }
  ],
  "orbita": [

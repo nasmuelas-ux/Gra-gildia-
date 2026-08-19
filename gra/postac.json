@@ -9,10 +9,10 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 47,
- "zmeczenie": 0,
+ "zmeczenie": 1,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 886,
+  "jelenie": 586,
   "smoki": 0
  },
  "dobytek": [
@@ -156,7 +156,7 @@
   "organizacja": 161,
   "kondycja": 115,
   "walka": 51,
-  "prawo": 210,
+  "prawo": 211,
   "retoryka": 136,
   "czytanie_ludzi": 252,
   "rzemioslo": 4,
@@ -173,7 +173,7 @@
  "equity_kantor_future_jel": 50,
  "pozyczka_zabezpieczona_jel": 50,
  "pozycje": {
-  "weksle_out": "Weksle / mostek-kredyt NIEZABEZPIECZONE: 200 jel u dluznikow (DOLOZONE +100 dnia 09-07; wczesniej ~100). Procent dochodowy, popyt na mostek staly przed zima; rolluja/splacaja. [ODREBNIE: pozyczka ZABEZPIECZONA 50 jel pod zastaw - patrz pozyczka_zabezpieczona.]",
+  "weksle_out": "Weksle / mostek-kredyt NIEZABEZPIECZONE: 200 jel u dluznikow (DOLOZONE +100 dnia 09-07; wczesniej ~100). Procent dochodowy, popyt na mostek staly przed zima; rolluja/splacaja. [ODREBNIE: pozyczka ZABEZPIECZONA 50 jel pod zastaw - patrz pozyczka_zabezpieczona.] || 298-04-05: ~200 jel ściągnięte i przekazane na zapłatę za skład Ondrewa (weksle_out topnieją odpowiednio).",
   "pozyczka_zabezpieczona": "Pozyczka ZABEZPIECZONA (mostek pod zastaw): 50 jel pod kolateral (ulokowana 06-18). INTAKT - oddzielna od weksli niezabezpieczonych.",
   "rotacja_faktorii": "Rotacja faktorii Nesty (zboze-sol): 400 jel w obrocie (DOLADOWANE 09-07 do pelnej 400 z ~357, +43 z kasy; reconcile dryfu 335/347/357 -> 400 twarde). W wiekszosci kapital Symona + equity core-faktorii. Plon per zamkniety cykl (~15-25 jel, czesc do kasy jako zwrot wlascicielski, czesc reinwest). Sprawdzony filar kapital-light-ish. Zimowy popyt tailwind. || 09-18: cykl rzut 40 - popyt wysoki (mroz) ale zamarznieta logistyka zjada czesc premii; plon ~18 jel: 14 do kasy (140->154), 4 reinwest (rotacja ~404). Lokalne zrodlo=przewaga gdy inne stoja.",
   "drewno_marza_narasta": "Drewno-marza (Bennet->broker->zamek): umowa OPIECZETOWANA 07-18, SKALOWANA 07-18 (rzut 63). Godric zakontraktowal wiekszy wolumen budowlany na sezon; Bennet podniosl scinke. Przepustowosc filaru ~1.5x - najwiekszy strumien marzy (per dostawa). DOSTAWA BENNETA = BEZPOSREDNIO LADEM (dostawca lokalny), BEZ WODY - NIE zalezy od kanalu Bialego Noza ani przewozu rzecznego. REALNY SUFIT SKALOWANIA = pojemnosc scinki Benneta + przewoz LADOWY (wozy/woly, stan drog; wiosenne bloto obsycha = lepiej). Kapital-light (pre-sold off-take zamku). Ksieguj marze per dostawa. [UWAGA: ubezp-tranzyt WODNY dotyczy rotacji faktorii, nie tego filaru] [07-24 rzut 67: EKSPANSJA na ZDROWEJ bazie - Bennet SAM inwestuje w pojemnosc (rece+zaprzeg) przeciw gwarantowanemu off-take zamku; Symon koordynuje + obiecuje staly kontakt (lekcja: pielegnowac baze). Pojemnosc narasta ~kilka tyg (rece/wozy/schniecie drog) -> filar rosnie dalej, kapital-light, reliability chroniona.]",
@@ -199,8 +199,9 @@
   "weksle_uwaga_11_16": "297-11-24 ROZWIAZANE POZYTYWNIE: Rewan splacil czesc wczesniej (~25), chwiejba z 11-16 zazegnana, reszte splaci - weksel zdrowy, goodwill+reputacja uczciwego wierzyciela procentuja (naplyw kredytobiorcow).",
   "pozyczka_weslar_11_24": "297-11-24: maly ZABEZPIECZONY mostek ~15 jel pod kolateral (kupiec Weslar, polecony przez Rewana, vet=uczciwy-cienszy). Odzyskiwalny z procentem+kolateral. Rozwija linie kredytowa ostroznie; war-chest ledwo tkniety.",
   "partnerstwo_pergaminu_wat": "Partnerstwo z pergaminnikiem Watem (zawarte 297-12-25, warunki doprecyzowane): (1) OFF-TAKE - operacja Symona (skryba/audyt/faktoria/kantor) kupuje pergamin+atrament po koszcie+maly narzut (PONIZEJ rynku) = staly spadek kosztu przyborow; (2) AUTONOMIA WATA - sam pan rzemiosla/jakosci (klauzula, Torren spisal, wzor jak autonomia Miry); (3) UDZIAL W SPRZEDAZY inkrementalnej (nowe kanaly: Septa/maesterzy/kupcy/faktoria) - Symon nieco CIENSZY udzial niz chcial (ustapil Watowi dla goodwillu, relacja>ostatni jelen); (4) KAPITAL Symona (inwestycja pojemnosci) = odzyskiwalne equity, nie datek; (5) GUILD-SAFE - ekspansja ADDYTYWNA, zero rajdu na cech pisarzy; (6) OPCJA SUKCESJI - prawo pierwokupu warsztatu gdy Wat zejdzie/przejdzie na spoczynek (brak nastepcy) - Wat zgodzil sie na first-refusal, nie przedsprzedaz (godnosc za zycia). Papier braawijski=wiosna. || 298-01-22 OPTYMALIZACJA PROCESU (rzut 51): Symon (systematyczny wzrok) + Wat (mistrz) znalezli EFEKTYWNOSC bez headcountu: (1) batch-liming - wiecej skor na cykl wapna, (2) lepsze wykorzystanie ram/przestrzeni suszenia (wiecej welinu na tej samej powierzchni/czas), (3) system GRADOWANIA/sortowania skor przed obrobka = mniej zmarnowanych, wyzszy yield uzytecznego pergaminu. Output ~+20-30% TYM SAMYM nakladem rak. Wat docenil (Symon nie uczyl go rzemiosla-autonomia, tylko pytal madrze o marnotrawstwo). Skalowanie przez wydajnosc nie ludzi - lepsza marza linii.",
-  "zadatek_siedziba_ondrew": "ZADATEK 65 jel na skład+kantor Ondrewa (Środkowe Nabrzeże), cena all-in ~665; reszta 600 przy zamknięciu za ~3-4 tyg (struktura: kasa+retained firmy+krótkie raty, czyste). Posiadanie za ~miesiąc. Pate (magazynier) zostaje.",
-  "warrant_cla_lord": "Cichy warrant lorda Wymana: prawo wglądu w księgi komory celnej pod pretekstem 'przeglądu zimowego bilansu z ramienia zamku' (298-03-13). Helman wie że ktoś patrzy, nie że na niego."
+  "warrant_cla_lord": "Cichy warrant lorda Wymana: prawo wglądu w księgi komory celnej pod pretekstem 'przeglądu zimowego bilansu z ramienia zamku' (298-03-13). Helman wie że ktoś patrzy, nie że na niego.",
+  "siedziba_sklad_ondrew": "WŁASNOŚĆ (298-04-05): kamienny SKŁAD Z KANTOREM na Środkowym Nabrzeżu, na osobiste nazwisko Symona (czysty aktyw jak kamieniczka). Cena ~665 all-in zapłacona (65 zadatek + 300 kasa + 200 weksle + 100 ogon rat). Magazynier PATE (30 lat, został). Firma wynajmie powierzchnię (czynsz→Symon). Do przeprowadzki widocznej roboty.",
+  "raty_ondrew": "Ogon rat za skład: ~100 jel do spłaty przez najbliższe miesiące pod czysty pasywny (~90/mies). Ondrew (holding syna)."
  },
  "licznik_uzyc": {
   "audyt": 11,

@@ -406,3 +406,10 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - ZADATEK 65 jel (kasa 664→599). Reszta 600 przy zamknięciu za ~3-4 tyg. Posiadanie za ~miesiąc.
 - STRUKTURA (do dopięcia z Nestą): 600 = kasa w dół + retained firmy + krótkie raty pod czysty pasywny (~90/mies). Wszystko CZYSTE/na nazwisko Symona/w świetle. Firewall: kantor Nesty pozostaje osobno w cieniu.
 - ZNACZENIE: pierwszy kamienny dom imienia Symona w porcie; przejście dom-handlowy → dom-handlowy Z SIEDZIBĄ.
+
+
+## 298-03-23 — struktura zapłaty za siedzibę (dopięta z Nestą)
+- 600 jel reszty = 300 kasa (zamknięcie) + 200 weksle niezabezpieczone (spływem) + 100 krótki ogon rat (3-4 mies pod pasywny).
+- Skarbiec 400 NIETKNIĘTY, próg wolnej kasy ~300, mostki+Aldous (~93) zostają jako dochód.
+- TYTUŁ: skład na nazwisko OSOBISTE Symona; FIRMA WYNAJMUJE od niego (czynsz→Symon, koszt→firma). Bez współwłasności, firewall czysty.
+- Zamknięcie ~04-05. Pieniądz rusza się przy papierach.

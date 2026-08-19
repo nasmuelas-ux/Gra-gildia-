@@ -5,7 +5,7 @@
   "dzien": 28,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "NOC",
  "sezon": "wiosna (298) - Północ wyszła z zimy",
  "pogoda": 80,
  "dzien_tygodnia_nr": 7,
@@ -83,5 +83,5 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "W DRODZE — barka w górę Białego Noża ku widłom (wyruszył 298-04-28 świt; ~tydzień do wideł). NIE w Białym Porcie."
+ "lokacja_gracza": "W DRODZE — obóz nad Białym Nożem, koniec Dnia 1 (~6 dni do wideł). NIE w Białym Porcie."
 }

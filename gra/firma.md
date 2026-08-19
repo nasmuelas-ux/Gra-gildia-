@@ -391,3 +391,10 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Cło portowe 02-20: −10 jel.
 - **Kasa 419 → 525** (przez montaż 02-16→03-02: +50 op, −10 cło, +66 bilans).
 - Nowa struktura działa: rzut jakości montażu 77 (bez wobble'ów), Jory ramp 94 (zostaje). **Go-forward pasywna → ~90/mies** (skala Lorrena + pojemność).
+
+
+## 298-03-05 — nowy retainer (pierwszy pod nową strukturą)
+- Lorren przyprowadził, Hal+Deman zweryfikowali (rzut 54): średni dom z Schodów — LEGIT, ale historycznie ŚLAMAZARNY PŁATNIK (2× wlókł się z zapłatą w ostatnim roku).
+- Hal ustrukturyzował ryzyko (styl Symona): retainer Z ZALICZKĄ Z GÓRY + twarde daty rat + wąski zakres. 'Bierzemy jego pieniądz, nie jego kłopot z płynnością.'
+- Zaliczka +6 jel od ręki (kasa 554→560); stały strumień doliczy do plonu na bilansie (drobny przyrost pasywnej go-forward).
+- DOWÓD: struktura łapie wady i strukturyzuje ryzyko bez Symona przy stole — firma myśli jak on.

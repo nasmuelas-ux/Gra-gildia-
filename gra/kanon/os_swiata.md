@@ -107,3 +107,7 @@ Kanon PLIO nie podaje dokładnej cyfry; skala jednoznaczna. USTALENIE ROBOCZE:
 
 ## [ODPALONE] 297-10-28 — BIAŁY KRUK CYTADELI (pierwszy wpleciony beat osi)
 Cytadela ogłosiła w całym Królestwie: długie lato OFICJALNIE skończone, jesień potwierdzona; maesterowie ostrzegają — krótka jesień, TWARDA zima. Dotarło przez Theomore/Wiarę/port (INBOUND 83). Maesterski cień → oficjalne słowo. DLA SYMONA: przewaga zimowa surge (oficjalna zima=zaostrzony popyt/ceny prowiantu, większa waga jego maszyny/reliefu/buforów/underwritingu; walidacja przygotowania). ZAGROŻENIE: ubodzy bardziej narażeni (relief ważniejszy), możliwa drga cen/paniki. Kolejne beaty osi (~298: śmierć Jona Arryna, król do Winterfell) dalej przed nami.
+
+
+## [ODPALONE] 298-04-07 — ŚMIERĆ NAMIESTNIKA JONA ARRYNA (pierwszy beat AGOT)
+Do Białego Portu dotarła koga z południa z wieścią: lord Jon Arryn, Namiestnik Króla, nie żyje (gorączka wg jednych, coś gorszego wg szeptów). Spóźnione o tygodnie (żagiel), ale świeże dla BP. INBOUND 65, Dzień Matki. Miasto szumi: kto następny Namiestnik? Co dla Północy? Symon (czyta świat przez ceny/manifesty) wyczuwa: niepewność u szczytu drga w dół (ceny/szlaki/zaufanie). PIERWSZA kostka domina Gry o tron. Za nią (~298 dalej): KRÓL ROBERT JEDZIE NA PÓŁNOC DO WINTERFELL — dotknie Manderlych/Symona wprost (drabina Manderly→Stark). Dostarczone realistycznie, jako paliwo+tło, bez railroadingu. Symon reaguje wedle agency.

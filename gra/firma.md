@@ -426,3 +426,9 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 ## 298-04-01 — Wielki Targ: reputacja→interesy (rzut 95)
 - Publiczny triumf nad Whartonem KONWERTUJE w biznes: obrót/brokerka +18 jel (kasa→811); NOWY poważny klient (prosperujący dom handlowy — weryfikacja+audyt kontraktów, Lorren/Hal domkną) → kolejny stały strumień do plonu. Wiosenna intel dla Arkusza Demana.
 - Motyw: firma rośnie Z REPUTACJI nie z pościgu; atak Roldana dał Symonowi scenę = klientów.
+
+
+## 298-04-04 — MOST-ZA-EQUITY (zasada)
+- Symon: most refi z jego czystego kapitału ma KUPOWAĆ equity (inwestycja nie pożyczka). Nesta przyjęła z uznaniem.
+- Każdy jeleń mostu = udział w kantorze po uczciwej wycenie, proporcjonalnie, przez wiosnę. Udział Symona w faktorii rośnie z ~47% KU WIĘKSZOŚCI do lata.
+- To POCZĄTEK SUKCESJI: Symon ku pryncypałowi/właścicielowi kantoru (miejsce Nesty), jelenia po jeleniu.

@@ -207,7 +207,7 @@
   "glejt_prowiant_krolewski": "W RĘKU (298-04-20, spisany przez Theomore'a pod pieczęcią Nowego Zamku): (1) GLEJT 'na potrzebę Korony ku Winterfell' — otwiera bramy/składy na ziemiach Manderlych + prawo wezwać chorążych lorda; (2) LIST do Winterfell (Eddard Stark + maester Luwin) polecający Symona i zapowiadający daninę; (3) LIST polecający do rodu Cerwyn (gościna/pomoc przy przeładunku, NIE rozkaz). RADY Theomore'a: zrobić ODPISY przed drogą (pergamin ginie/wóz tonie); w Winterfell kłaniać się NAJPIERW maestrowi Luwinowi (trzyma rachunki/składy/praktykę zamku) = klucz do reszty. | 298-04-20 WIECZÓR: KOPIE zrobione ręką Symona (oryginały pod pieczęcią schowane bezpiecznie, kopie robocze) — rada Theomore'a wypełniona.",
   "szata_wyprawowa": "298-04-22: strój podróżny na wyprawę do Winterfell — kaftan z twardzonej skóry (cicha osłona) pod wierzchnią szatą, płaszcz podróżny z natłuszczonego płótna, mocne buty, ciepła opończa, pas z kaletami (rylec/pieczęć/papiery). Godne+praktyczne+ciepłe (na bramę Winterfell i 3 tyg roztopów). Koszt 20 jel.",
   "uzbrojenie_karawany": "298-04-23: zakup uzbrojenia dla karawany daniny — włócznie, twardzone kaftany/czapki, parę porządnych ostrzy dla trzonu; dozbroić woźniców Cassa + party. Koszt 35 jel. Cel: karawana broni się sama (kompensuje niedobór najemnych).",
-  "refi_mostek_sukcesja": "298-04-24: mostek 100 jel na krok sukcesji Nesty na pryncypała (przyspieszenie refi/wygaszenia cienia Antaryona po dotknięciu firewalla od góry). Rośnie udział Symona w faktorii. Skarbiec NIE tknięty (rezerwa Miry/dziecka). Dług Antaryona=~90 smoków/18000 jel — nie do spłaty sakiewką; cień gaśnie przez sukcesję Nesty (tygodnie), którą ona domyka pod nieobecność Symona."
+  "refi_mostek_sukcesja": "298-04-24: mostek 100 jel na krok sukcesji Nesty na pryncypała (przyspieszenie refi/wygaszenia cienia Antaryona po dotknięciu firewalla od góry). Rośnie udział Symona w faktorii. Skarbiec NIE tknięty (rezerwa Miry/dziecka). Dług Antaryona=~90 smoków/18000 jel — nie do spłaty sakiewką; cień gaśnie przez sukcesję Nesty (tygodnie), którą ona domyka pod nieobecność Symona. | 298-04-24: DOPŁATA 200 jel ze skarbca (skarbiec 400->200). ŁĄCZNY mostek sesji = 300 jel. KOREKTA natury skarbca: to REZERWA SYMONA (rozdzielność majątkowa — Mira ma własne oszczędności + dom sukna, niezależna), NIE wspólna poduszka Miry; sięgnięcie po nią nie odsłania Miry/dziecka. Residualny cień wyraźnie mniejszy; udział Symona w faktorii rośnie mocniej. Wciąż nie zapieczętowane przed wyjazdem (wiąże mechanizm/podpisy, nie grosz) — powrót do cienia ~0."
  },
  "licznik_uzyc": {
   "audyt": 11,
@@ -301,11 +301,6 @@
   "zasada": "Relief operacyjny (dowoz Brana, doladowanie porcji, utrzymanie tras w mroz) finansowany Z TEGO funduszu / srodkow Septy - pod podwojnym okiem (Symon+Wiara), osobna ksiega. Prywatna sakiewka Symona TYLKO gdy on swiadomie robi EKSTRA osobisty datek, nie rutynowo.",
   "nota": "Zseeded liczbowo 297-12-22 (~40 jel zgromadzonej rezerwy) na prosbe gracza - relief ma budzet, nie idzie z kieszeni Symona. Koszt killing-frost 12-22 (-8) poszedl STAD. Odbudowywany z jalmuzny/nadwyzki."
  },
- "domowy_skarbiec_jel": {
-  "saldo": 400,
-  "zalozony": "298-01-01",
-  "cel": "rezerwa rodzinna/awaryjna pod wlasnym dachem (Mira/dziecko/dom/nagle potrzeby) - NIE kapital obrotowy, nie rusza sie rutynowo",
-  "bezpieczenstwo": "skrytka domowa pod okiem Garricka (steward bezpieczenstwa) - zaostrzona warta domu; dyskrecja",
-  "nota": "Zalozony 298-01-01, wplata 400 jel z wolnej kasy (484->84). Store of value, nie wydatek - majatek ten sam, plynnosc przesunieta. Working cash chudszy (~84) ale pasywny wplyw ~74/mies + operacyjny szybko odbudowuja. Prudent given rosnacy dom+ciaza+rosnacy profil (cel dla zlodzieja - stad skrytka+Garrick)."
- }
+ "domowy_skarbiec_jel": 200,
+ "_nota_skarbiec": "Skarbiec domowy = REZERWA SYMONA (rozdzielność majątkowa; Mira ma własne oszczędności i dom sukna, niezależna finansowo). NIE jest wspólną poduszką zależną od bezpieczeństwa Miry. Zasada 'ja jako ja, ty jako ty, jedno wspólne życie'."
 }

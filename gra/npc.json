@@ -1875,7 +1875,8 @@
     "298-03-22 WIECZ: Symon (bez szczegółów poufnych) podzielił się nauką lorda o cenie wschodzenia (wrogowie za wygraną). Mira — jej dawny lęk potwierdzony (świat karze dobroć), ale dała naukę głębszą: NIE GORZKNIJ, rób dobro dalej mimo wrogów — 'dzień gdy przestaniesz z lęku to dzień gdy oni wygrali naprawdę'. Statysta uczy przetrwać wysokość, żona uczy przetrwać ją z sercem całym.",
     "298-03-30 WIECZ: Symon podzielił się (ogólnie) szeptem Roldana. Mira dała 4. prawdę dnia: najlepsza odpowiedź na 'nie jest kim się wydaje' to DOM/ŻYCIE — 'człowiek fałszywy nie ma takiego domu, żony co została, dozorcy co przejdzie przez ogień, przekupki co broni na targu; twoje życie jest dowodem którego szept nie obali, żyj nim głośno'. Dom jako zbroja.",
     "298-04-05: Symon podzielił się wieścią o zamknięciu zakupu składu (siedziba jego, akt na nazwisko). Mira dumna — jej rada (wada naprawialna>niekupowalna) potwierdzona, chwali że czekał/nie spieszył się. 'Do lata dwie rzeczy na świat: dom handlowy na własnym kamieniu + dziecko na własnym gruncie'. Chce POZOBACZYĆ skład ('stanąć w miejscu które nas uniesie').",
-    "298-04-05 POPOŁUDNIE: Symon przywiódł Mirę zobaczyć skład. Pobłogosławiła go swoim ('uniesie nas, czuję'), poznała Pate'a ciepło. KUPIECKIM OKIEM dostrzegła synergię: obszerne suche przyziemie = miejsce na SZMATY LNIANE (jej skrawki z sukna, dziś marnowane/palone) pod PAPIERNIĘ Symona — 'twój papier, mój len, jeden dach'. Dwie drogi (papier+sukno) mogłyby spleść się pod jednym kamieniem."
+    "298-04-05 POPOŁUDNIE: Symon przywiódł Mirę zobaczyć skład. Pobłogosławiła go swoim ('uniesie nas, czuję'), poznała Pate'a ciepło. KUPIECKIM OKIEM dostrzegła synergię: obszerne suche przyziemie = miejsce na SZMATY LNIANE (jej skrawki z sukna, dziś marnowane/palone) pod PAPIERNIĘ Symona — 'twój papier, mój len, jeden dach'. Dwie drogi (papier+sukno) mogłyby spleść się pod jednym kamieniem.",
+    "298-04-17: zdobyta matka Marna na połóg — brutalną uczciwością Marny ('nie obiecam że będzie dobrze, ale nie spanikuję') Mira USPOKOJONA bardziej niż gładką pociechą (raz zabiła ją fałszywa pewność). Lęk dostał twarz kompetentnej zimnej mistrzyni zamiast bezimiennej ciemności. Wdzięczna Symonowi ('nie kupiłeś srebrem, dałeś jej mnie zobaczyć, wiedziałeś jak')."
    ],
    "potrzeby": [
     "utrzymac resztke interesu meza",
@@ -2661,10 +2662,11 @@
    "stan": "akuszerka",
    "zawod": "NAJLEPSZA akuszerka Białego Portu (40 lat, uratowała matki które inne odprawiły) — semi-emeryt, bierze ledwie parę porodów rocznie ZA SERCEM nie za grosz; boi się że w jej wieku ręce zawiodą i pochowa matkę. Pieniądzem NIE do skłonienia — trzeba PRZEKONAĆ że warto (Owen się wstawił słowem, ale 'tak' musi dać twarzą w twarz)",
    "mieszka": "Bialy Port",
-   "nastawienie_do_gracza": 40,
-   "zaufanie": 15,
+   "nastawienie_do_gracza": 48,
+   "zaufanie": 25,
    "wie_o_graczu": [
-    "298-04-17: polecona przez Owena dla Miry; jeszcze nie poznała Symona/Miry; do przekonania (nie kusić srebrem, lecz tym że jeszcze raz zrobi rzecz dla której żyła)"
+    "298-04-17: polecona przez Owena dla Miry; jeszcze nie poznała Symona/Miry; do przekonania (nie kusić srebrem, lecz tym że jeszcze raz zrobi rzecz dla której żyła)",
+    "298-04-17 (rzut 48): ZGODZIŁA SIĘ poprowadzić połóg Miry — poruszona (Mira=przypadek dla którego przeżyła 40 lat; kobieta zawiedziona słabymi rękami). WARUNKI (mądre): (1) młoda silna POMOCNICA którą prowadzi, (2) MAESTER na zawołanie, (3) UCZCIWOŚĆ — nie obieca 'będzie dobrze', obiecuje całą sztukę+obecność+brak paniki. Symon: nie kupił srebrem, dał jej zobaczyć Mirę (czytanie serca); retainer jako uznanie nie zapłata. Więź zawiązana."
    ]
   }
  ],

@@ -421,3 +421,8 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Danina cechowa/koszty operacyjne firmy — w netto pasywnej (firma na udziale Hala, wynajem składu jeszcze nie rusza — zamknięcie ~04-05).
 - Go-forward pasywna ~92/mies (po restrukturze + retainer z Schodów). Po zamknięciu siedziby dojdzie czynsz firmy do Symona (nowy strumień).
 - Kasa **787** przed zamknięciem składu Ondrewa (~04-05: −300 kasa + weksle + raty).
+
+
+## 298-04-01 — Wielki Targ: reputacja→interesy (rzut 95)
+- Publiczny triumf nad Whartonem KONWERTUJE w biznes: obrót/brokerka +18 jel (kasa→811); NOWY poważny klient (prosperujący dom handlowy — weryfikacja+audyt kontraktów, Lorren/Hal domkną) → kolejny stały strumień do plonu. Wiosenna intel dla Arkusza Demana.
+- Motyw: firma rośnie Z REPUTACJI nie z pościgu; atak Roldana dał Symonowi scenę = klientów.

@@ -438,3 +438,9 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Widoczna robota (Hal/Tam/Wick/Fenn/Jory/Deman/Lorren) przeniesiona ze starego kantoru na Środkowe Nabrzeże (stary kantor cichnie w cieniu — robota Nesty przy refi).
 - FIT-OUT (~110 jel, kasa 586→476, skarbiec nietknięty): meble+stanowiska (każdy urządza SWOJE=godność), profesjonalne zestawy narzędzi (jakość+lojalność), BIBLIOTECZKA z księgami do nauki ('mała Cytadela', dom handlowy co się uczy).
 - Zespół rozkwitł, lojalność scementowana; go-forward: jakość+pojemność+morale ↑. Firma wynajmuje skład od Symona (czynsz→Symon, do rozliczenia).
+
+
+## 298-04-06 — REFI etap 1 (rzut 88)
+- Trzon pryncypała + 1. transza mostu Symona (100 jel, kasa 456→356) spłaciły grubą część długu Antaryona. Antaryon zadowolony ('refi na lepsze warunki'), firewall żelazny.
+- Cień SPŁACONY (nie przesunięty); czysty kredyt handlowy (papier/wino) na jego miejsce.
+- EQUITY Symona w faktorii ↑ o pierwszy stopień (ku większości). Dalsze transze przez wiosnę. Cel: do lata cień=0.

@@ -9,10 +9,10 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 44,
- "zmeczenie": 2,
+ "zmeczenie": 5,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 839,
+  "jelenie": 854,
   "smoki": 0
  },
  "dobytek": [
@@ -151,7 +151,7 @@
  "nazwisko": "Tally",
  "liczniki_uzyc": {
   "rachunki": 277,
-  "audyt": 203,
+  "audyt": 204,
   "pismo": 139,
   "organizacja": 161,
   "kondycja": 115,
@@ -164,7 +164,7 @@
   "spryt_uliczny": 132,
   "handel": 157,
   "geometria": 22,
-  "finanse": 253,
+  "finanse": 254,
   "wlodarstwo": 149
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",

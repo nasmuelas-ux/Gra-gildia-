@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 5,
-  "dzien": 6,
+  "dzien": 7,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "WIECZÓR",
  "sezon": "wiosna (298) - Północ wyszła z zimy",
- "pogoda": 57,
- "dzien_tygodnia_nr": 1,
+ "pogoda": 95,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "nastroje_miasta": "Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport rosną, zimowy underwriting/prowiant taperuje.",
  "ceny": {
@@ -83,5 +83,5 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "WIDŁA — obóz, wieczór Dnia 9 (05-06); przeładunek zakończony, danina na wozach, gotowa na gościniec."
+ "lokacja_gracza": "GOŚCINIEC (królewski) — obóz przy trakcie, koniec Dnia 10 (05-07); wozy z daniną ruszyły z widłów ku Cerwynom→Winterfell (~1,5 tyg)."
 }

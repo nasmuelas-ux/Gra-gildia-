@@ -7705,3 +7705,8 @@ Symon zdal druga, ciezsza komisje Wymana — nie audyt, lecz rade. Rozcial kradz
 
 ## 298-03-16→22 — Korzenie, zarobek, i cien triumfu
 Szesc dni: robota jednotorowa szla znakomicie (rzut 95, +50 netto po cle, kasa 649), a Symon — wiadom nauki Wendy — wracal do swoich: Wenda (duma, szept 'za wysoko' cichnie), Bran (dom jak zegar, Alys przy nadziei — dzieci przyjda jednej wiosny), Serla (wnuk Tom), Elna (pod cechem kolodziejow), Aldous (przyjazn przy winie). Korzenie glebokie. A 22-tego dwie wiesci: Helman UPADL (lord ruszyl cicho wg rady Symona, swiadek uszanowany, sprawiedliwosc bez burzy — niewidzialna reka Symona zrobila swoje) — ale Ser Roldan NIE upadl, wpadl w furie i WEZY, kto przeprowadzil przeglad. Poluje na nazwisko sledczego (Symona). Cien triumfu: wzrosl, a wysokosc ma wrogow.
+
+
+## 298-03-30 NOC → 03-31 RANEK — sen; wraca Dzień Matki
+Wieczór 03-30 zamknięty spokojnie. Symon zasnął pod dachem Miry — dzień był zwyczajny, dobry: obrót mieli, korzenie trzymają, w tle wciąż cień jednej sprawy (Ser Roldan, wściekły po upadku Helmana, węszy, kto przeprowadził przegląd ceł — poluje na nazwisko śledczego). Przespana noc, wyspany.
+**03-31 RANEK:** łagodny wiosenny dzień (pogoda 74 — po porannej mgle słońce), miasto spokojne (zdarzenie 90). **Siódmy dzień tygodnia — Dzień Matki:** targ przygaszony, warsztaty ciche, ludzie ciągną do Septy Śniegów. To dzień Symona-pisarza Septy — i dzień Miry (~14 tydz., dziecko pod sercem). Korespondencja cicha (inbound 29). Jutro (04-01): Wielki targ + Dzień Bilansu + danina cechowa.

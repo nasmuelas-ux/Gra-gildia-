@@ -2653,6 +2653,19 @@
     "298-04-05: przeprowadzka firmy do nowego składu + fit-out (każdy urządza swoje stanowisko, profesjonalne narzędzia, BIBLIOTECZKA do nauki). Zespół rozkwitł, lojalność scementowana. Jory wzruszony regałem ksiąg ('to też dla ciebie, ucz się' — droga wzwyż jak Symon). Pate: 'pierwszy pan co dba o narzędzia i ludzi, nie tylko towar'.",
     "298-04-05 WIECZ: Symon POPROSIŁ Pate'a o obchód i o zdanie (rzut 58). Pate otworzył się, dał złoto praktyczne: KANAŁ ODPŁYWOWY pod fundamentem (czemu sucho) zamula się — przetkać TERAZ albo wilgoć za pół roku; lina wciągarki przetarta; zamki stare (trzeba porządnych na cenny towar/papiery/dane + oko nocą); kiedyś druga ręka pod magazyn. Symon od ręki: przetkać kanał + lina + zamki + warta Garricka na skład (~20 jel). Pate WZRUSZONY: 'pierwszy pan co spytał nie kazał, będę służył jak Ondrewowi albo lepiej'. Serce magazyniera zdobyte szacunkiem (jak Bran/Hal). nast+6 zauf+5."
    ]
+  },
+  {
+   "id": "matka_marna",
+   "imie": "Matka Marna",
+   "wiek": 61,
+   "stan": "akuszerka",
+   "zawod": "NAJLEPSZA akuszerka Białego Portu (40 lat, uratowała matki które inne odprawiły) — semi-emeryt, bierze ledwie parę porodów rocznie ZA SERCEM nie za grosz; boi się że w jej wieku ręce zawiodą i pochowa matkę. Pieniądzem NIE do skłonienia — trzeba PRZEKONAĆ że warto (Owen się wstawił słowem, ale 'tak' musi dać twarzą w twarz)",
+   "mieszka": "Bialy Port",
+   "nastawienie_do_gracza": 40,
+   "zaufanie": 15,
+   "wie_o_graczu": [
+    "298-04-17: polecona przez Owena dla Miry; jeszcze nie poznała Symona/Miry; do przekonania (nie kusić srebrem, lecz tym że jeszcze raz zrobi rzecz dla której żyła)"
+   ]
   }
  ],
  "orbita": [

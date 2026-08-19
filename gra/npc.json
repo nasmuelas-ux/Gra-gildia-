@@ -1102,9 +1102,9 @@
    "wiek": 46,
    "stan": "mieszczka",
    "zawod": "starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczka) - przyjechala na slub",
-   "nastawienie_do_gracza": 40,
-   "zaufanie": 23,
-   "ostatni_kontakt": "297-12-24 RANEK - REUNION, wprowadzila sie do domu",
+   "nastawienie_do_gracza": 43,
+   "zaufanie": 27,
+   "ostatni_kontakt": "298-04-22: Symon powiedział jej, że wyjeżdża na tygodnie do Winterfell, Mira może rodzić bez niego. Rhona (strażniczka, już matkuje ciąży) przyjęła twardo ale nie wrogo: 'widziałam jakiś przez rok — nie łowca co porzuca; jedź robić swoje, JA JEJ PILNUJĘ dniem i nocą, rodzić będzie z Marną i ze mną przy głowie nie sama. Ale wróć do mojej siostry cały, bo cię i spod Winterfell wyciągnę'. = kin/obecność/głowa przy porodzie.",
    "wie_o_graczu": [
     "297-10-11: poznala Symona przed slubem. CZUJNA STRAZNICZKA siostry (Mira grzebala meza i syna, sama trzymala dom) - spytala wprost 'zona czy szczebel? jak zajdziesz wyzej wdowa moze ci ciazyc'. Symon odpowiedzial prawda (dom nie dziedzic; umowa=autonomia Miry wpisana; gwiazda dzielona) - zarejestrowala nie ustapila: 'ladnie mowisz, zobacze czy tak robisz, bede patrzec, nie mam nikogo procz niej'. Do wygrania czynem/latami, nie slowem. Nie wrogosc - sluszna ochrona.",
     "297-10-11 WIECZOR: widziala Symona wsrod goscia - gbura o ktorym mowia ze lord zna imie, jak siedzi z tragarzami, nosi drwa, dogadza ciotce; i Mire smiejaca sie prawdziwie (dawno takiej nie widziala). Zmiekla ODROBINE: dawno jej takiej nie widzialam. Pierwszy grosz na rachunku - do wygrania czynem, nie slowem. nast -2->1.",
@@ -1133,9 +1133,10 @@
    "id": "cass_wozacz_interioru",
    "imie": "stary Cass",
    "zawod": "woźnica-faktor interioru (dolina Białego Noża + królewski gościniec) — jeździ w głąb Północy od lat, zna przystanki/brody/zmiany koni/dojścia; twardy, uczciwy w rachunku, flisacy mu ufają",
-   "status": "LEAD (298-04-20) — namierzony przez Lorrena jako kotwica nogi lądowej do Winterfell; obecnie w DRODZE w górze, wróci za kilka dni; jeszcze nie zwerbowany",
-   "nastawienie_do_gracza": "nieznane (jeszcze niepoznany)",
-   "wie_o_graczu": "nic (jeszcze nie spotkani)"
+   "status": "ZWERBOWANY (298-04-22, rzut 84) — kotwica/przewodnik/budowniczy floty nogi lądowej do Winterfell. Wszedł na pewną królewską zapłatę; deal prosto (docenił, że Symon gada bez blefu). Zna drogę na pamięć (brody/przystanki/zmiany koni/komu się kłonić/gdzie nie stawać po zmroku), zna SUCHY grunt na widłach, i SKŁADA FLOTĘ z woźniców z góry którym ufa (+ ręce Halvarda z głębi).",
+   "nastawienie_do_gracza": 60,
+   "wie_o_graczu": "298-04-22: Symon stawia sprawę prosto, uczciwa zapłata, pewna robota królewska — Cass szanuje takiego człowieka (deal bez blefu). Wchodzi solidnie.",
+   "zaufanie": 30
   }
  ],
  "w_orbicie": [
@@ -2396,7 +2397,8 @@
     "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda).",
     "298-03-06: Symon poznał i przyklepał kandydata Garricka (Hendry). Symon zaufał słowu Garricka, ale sam sprawdził (rzut 66) — Garrick doceniony. Drugi strażnik ZATRUDNIONY.",
     "298-03-22 (rzut 43): Symon zlecił obronę domu przed dworskim wrogiem (bez szczegółów). Garrick zaostrzył wartę (on+Hendry), postawił sieć wczesnego ostrzegania (kompani ze straży + oczy Brana), pouczył domowników. GRANICE (uczciwie): przed nożem/zbirem osłoni, ale przed PLOTKĄ/wpływem dworzanina miecz bezsilny — 'wojna o imię' to Symona i lorda, nie warty; 2 ludzi na MIESIĄCE się przetrze — może trzeba TRZECIEGO; Roldan nie przyśle noża (nie jego styl), warta=ubezpieczenie.",
-    "298-04-20: przewidziany, by ZOSTAĆ przy domu i Mirze, gdy Symon+Hal+Hendry ruszą do Winterfell (~6-7 tyg). Dom pod strażą pod nieobecność pana, gdy pani rodzi."
+    "298-04-20: przewidziany, by ZOSTAĆ przy domu i Mirze, gdy Symon+Hal+Hendry ruszą do Winterfell (~6-7 tyg). Dom pod strażą pod nieobecność pana, gdy pani rodzi.",
+    "298-04-22: z serżantem lorda ocenili zagrożenie karawany (rzut 89) — werdykt: nie wojna lecz okazja (zbóje/głodni na samotnych odcinkach; syrena Manderlych=wabik i odstraszacz). Potrzeba RAZEM ~tuzina zbrojnych = serżant+jego ludzie + DOBRAĆ ~6-8 (najem+dozbrojeni woźnice), porządek przód/skrzydła/tył, nocne warty, ciasne obozy. Rekomendacja: dobrać najmem (lord garnizonu nie ogołoci)."
    ],
    "potrzeby": "szanowany pracodawca + jasny zakres + godna placa; duma zawodowa b. serzanta",
    "nota": "297-12-23 (rzut 78): pierwszy porzadny debrief od zatrudnienia (10-05). Garrick=kompetentny, lojalny, profesjonalny (b. serzant). RAPORT: wrogowie cisi (Bertram rozbrojony, pierscien padl) - brak aktywnej grozby. ALE profesjonalnie flaguje: (1) zima-twarda+aftermath mrozu = desperacja rosnie u dolu = petty crime/wlamania w gore; rosnacy zamozny kupiec=naturalny cel okazyjny. (2) Zaostrzyl warte domu, skoordynowal z Branem (kamieniczka+dom Miry), ma OCZY przez starych kompanow ze strazy (tanie intel). (3) Dyskretna ekstra ostroznosc: Mira zaczyna znac ciaze, Rhona dojedzie - wiecej ruchu w domu, pilnuje. Wszystko OGARNIETE, reassuring. Symon zyskuje pewnosc bezp. + dobrego retainera. nast ->25, zauf ->15. Rosnacy profil Symona=security wazy wiecej. || 297-12-23 (rzut 29, prywatnie): Symon spytal po ludzku jak mu sie zyje/czy zadowolony - RZADKIE od pracodawcy, Garrick zaskoczony. Zamkniety serzant nie otworzyl sie na osciez, ale gest TRAFIL i cos uchylil: kontent, ceni ze traktowany z SZACUNKIEM (rzadkie dla najetej stali), placa godna. Maly reveal: ODSZEDL ze strazy miejskiej ZNUZONY (polityka+patrzenie w bok za grosz - musial przymykac oko na to, czego nie znosil); u Symona moze strzec UCZCIWIE uczciwego czlowieka=godnosc zawodowa odzyskana. Lojalnosc glebnie o stopien (uczciwy pracodawca sciaga znuzonych nieuczciwoscia). Pelny czlowiek otworzy sie z czasem/powtorzonym zainteresowaniem. nast->27, zauf->17. || 297-12-28 (rzut 53): druga szczera rozmowa (Symon szuka groundingu w ludziach co widza JEGO, nie pana - nauka z Septy). Garrick otworzyl sie glebiej: WDOWIEC (zona zmarla par lat temu), corka Maege wydana za rybaka we wsi - wspiera ja cicho z placy. Praca u uczciwego czlowieka = moze trzymac glowe prosto+slac corce grosz z godnoscia. Read na Symona: 'straglem bogatych - kazdy chcial, zebym patrzyl w bok; tys pierwszy, co chce, zebym patrzyl PROSTO'. Lojalnosc solidnieje (nie placa, lecz szacunek+uczciwosc). Grounding dla Symona: prawdziwy ludzki moment z czlowiekiem co go widzi. nast->30 zauf->20. || 298-01-01: Symon zalozyl domowy skarbiec (400 jel rezerwy) - Garrick odpowiedzialny za jego bezpieczenstwo (skrytka, zaostrzona warta). Zaufanie powierzone (pilnuje rodzinnej rezerwy) - kolejny znak, ze Symon go ceni. || 298-01-21 (rzut 13): Symon zlecil najecie 2. czlowieka do ochrony domu (rosnacy cel: Mira/skarbiec 400/profil). Garrick wzial serio ALE nie znalazl DOBREGO: w desperacka zime kandydaci albo desperaci (sam ryzyko - glodny moze byc tym co okradnie) albo solidni sa zajeci. Zvettowal paru, ODRZUCIL - 'nie postawie przy waszej rodzinie i skarbcu czlowieka, ktoremu nie ufam; lepiej zaden niz zly'. Radzi CIERPLIWOSC - znajdzie wlasciwego (wiosna luzniejszy rynek pracy / przez kompanow ze strazy), tymczasem sam kryje zaostrzona warta. Integralnosc Garricka=ta sama rygorystyczna co Symon (vet dyskrecji jak przy Tamie). zauf +2 (jego osad zwalidowany). Najem PENDING.",
@@ -2662,7 +2664,8 @@
    "zaufanie": 30,
    "wie_o_graczu": [
     "298-03-06: Symon zatrudnił go osobiście przyklepawszy po lekturze charakteru (czysty odczyt). Płaca uczciwa i w terminie ('u mnie się nie wlecze z zapłatą'), traktowany jak swój. Ulga starego żołnierza — siostra i dziecko przetrwają zimę.",
-    "298-04-20: jedzie z Symonem+Halem do Winterfell jako osobista osłona; doradził oddział zbrojnych lorda na karawanę + Garrick zostaje pilnować domu/Miry."
+    "298-04-20: jedzie z Symonem+Halem do Winterfell jako osobista osłona; doradził oddział zbrojnych lorda na karawanę + Garrick zostaje pilnować domu/Miry.",
+    "298-04-22: z serżantem lorda ocenili zagrożenie karawany (rzut 89) — werdykt: nie wojna lecz okazja (zbóje/głodni na samotnych odcinkach; syrena Manderlych=wabik i odstraszacz). Potrzeba RAZEM ~tuzina zbrojnych = serżant+jego ludzie + DOBRAĆ ~6-8 (najem+dozbrojeni woźnice), porządek przód/skrzydła/tył, nocne warty, ciasne obozy. Rekomendacja: dobrać najmem (lord garnizonu nie ogołoci)."
    ],
    "ostatni_kontakt": "298-04-20 NOC: Symon poprosił go jako osobistą osłonę na wyprawę do Winterfell (z nim i Halem). Hendry (b. żołnierz) zgodził się od ręki, ale doradził trzeźwo: jedna włócznia to za mało na karawanę prowiantu królewskiego — potrzeba ODDZIAŁU zbrojnych, a skoro to danina Korony na glejt lorda, to LORD daje ludzi. Zwrócił też uwagę: przy 6-tyg wyprawie Garrick niech ZOSTANIE przy Mirze/domu."
   },

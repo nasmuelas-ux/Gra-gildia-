@@ -111,6 +111,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **stary Cass** (cass_wozacz_interioru) — woźnica-faktor interioru (dolina Białego Noża + królewski go · nast 63
 - **Rennick** (rennick_brygadzista) — brygadzista z Zaułka (ekipa portowa Symona), za którego ręcz · nast 70
 - **Ulf** (ulf_interior) — człowiek Halvarda z głębi Północy (chłop/traper) — znawca kr · nast 66
+- **Luwin** (maester_luwin) — maester Winterfell (dwór Starków) — uczony, rządzi składami/ · nast 52
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

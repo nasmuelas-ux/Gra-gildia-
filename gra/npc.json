@@ -1166,6 +1166,16 @@
    "nastawienie_do_gracza": 66,
    "zaufanie": 40,
    "wie_o_graczu": "298-05-02: dłuższa rozmowa — Ulf otwarł się (milczek). Rozpisał gościniec widła→Cerwyn→Winterfell (brody/karczmy/przystanki=noga lądowa oswojona). Dał KLUCZ KULTUROWY: przed Starkiem/Północą (stare bogi, ludzie twardzi) NIE grać południowca — prostota, dotrzymane słowo, wzrok w oczy; gładka gęba=fałszywa gęba dla Północy. 'Tobie pójdzie łatwo, ty już tak robisz — nie daj się w Winterfell przerobić na dworaka.' Widzi Symona jako człowieka prostego/uczciwego=pasującego do Północy."
+  },
+  {
+   "id": "maester_luwin",
+   "imie": "Luwin",
+   "zawod": "maester Winterfell (dwór Starków) — uczony, rządzi składami/rachunkami/praktyką zamku; kanał ku Cytadeli/Starkowi",
+   "status": "298-05-15: poznany podczas wizyty króla. Rzut 14 (anonimowa dostawa daniny) — nie zapamiętał. Rzut 64 (glejt+imię+Cytadela+oferta służby) — ZATRZYMAŁ SIĘ: skojarzył 'rachunek ryzyka z Białego Portu, mieszczanin nie maester'=osobliwość warta poznania (reframe Symona: UMYSŁ nie wozak). Tonąc w prowiancie tysięcy, PRZYJĄŁ ofertę: Symon dostał zachodnie spichrze+ich tally na PRÓBĘ ('zamknij, daj liczbę której nie muszę sprawdzać, a otworzę resztę ksiąg'), wpuszczony na słowo Luwina.",
+   "nastawienie_do_gracza": 52,
+   "zaufanie": 28,
+   "wie_o_graczu": "pan Tally z Białego Portu, człowiek lorda Wymana (glejt); skryba co 'liczy jak z Cytadeli' (rachunek ryzyka przeszedł łańcuchem maesterów); ofiarował ład w służbie Manderlych, nie za grosz. Na próbie (zachodnie tally).",
+   "potencjal": "sojusznik/patron uczony + kanał ku Starkowi i uznaniu (Cytadela). Firewall: trzymać braavijski cień z dala."
   }
  ],
  "w_orbicie": [

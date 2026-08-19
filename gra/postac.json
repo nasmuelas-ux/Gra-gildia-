@@ -9,10 +9,10 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 42,
- "zmeczenie": 6,
+ "zmeczenie": 16,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 390,
+  "jelenie": 335,
   "smoki": 0
  },
  "dobytek": [
@@ -205,7 +205,8 @@
   "siedziba_wyposazenie_biblioteka": "Skład wyposażony (298-04-05): meble/stanowiska (każdy urządza swoje=godność+własność), profesjonalne zestawy narzędzi dla całego zespołu (jakość+lojalność), BIBLIOTECZKA z księgami do nauki (rachunki/prawo/notacje/handel) — 'mała Cytadela', dom handlowy co się UCZY (Jory rośnie jak Symon rósł). Koszt ~110 jel. Inwestycja w jakość/pojemność/lojalność.",
   "naleznosc_lord_komisja": "OTWARTY DŁUG LORDA: za komisję ceł (Helman, zima 298) Symon dostał standing/elewację, NIE grosz — a komisja odzyskała lordowi grube sumy. Konkretna nagroda należna, do domknięcia tactful (okazja: rozmowy o finansowaniu królewskiego udziału — 'panie, została jeszcze tamta sprawa').",
   "glejt_prowiant_krolewski": "W RĘKU (298-04-20, spisany przez Theomore'a pod pieczęcią Nowego Zamku): (1) GLEJT 'na potrzebę Korony ku Winterfell' — otwiera bramy/składy na ziemiach Manderlych + prawo wezwać chorążych lorda; (2) LIST do Winterfell (Eddard Stark + maester Luwin) polecający Symona i zapowiadający daninę; (3) LIST polecający do rodu Cerwyn (gościna/pomoc przy przeładunku, NIE rozkaz). RADY Theomore'a: zrobić ODPISY przed drogą (pergamin ginie/wóz tonie); w Winterfell kłaniać się NAJPIERW maestrowi Luwinowi (trzyma rachunki/składy/praktykę zamku) = klucz do reszty. | 298-04-20 WIECZÓR: KOPIE zrobione ręką Symona (oryginały pod pieczęcią schowane bezpiecznie, kopie robocze) — rada Theomore'a wypełniona.",
-  "szata_wyprawowa": "298-04-22: strój podróżny na wyprawę do Winterfell — kaftan z twardzonej skóry (cicha osłona) pod wierzchnią szatą, płaszcz podróżny z natłuszczonego płótna, mocne buty, ciepła opończa, pas z kaletami (rylec/pieczęć/papiery). Godne+praktyczne+ciepłe (na bramę Winterfell i 3 tyg roztopów). Koszt 20 jel."
+  "szata_wyprawowa": "298-04-22: strój podróżny na wyprawę do Winterfell — kaftan z twardzonej skóry (cicha osłona) pod wierzchnią szatą, płaszcz podróżny z natłuszczonego płótna, mocne buty, ciepła opończa, pas z kaletami (rylec/pieczęć/papiery). Godne+praktyczne+ciepłe (na bramę Winterfell i 3 tyg roztopów). Koszt 20 jel.",
+  "uzbrojenie_karawany": "298-04-23: zakup uzbrojenia dla karawany daniny — włócznie, twardzone kaftany/czapki, parę porządnych ostrzy dla trzonu; dozbroić woźniców Cassa + party. Koszt 35 jel. Cel: karawana broni się sama (kompensuje niedobór najemnych)."
  },
  "licznik_uzyc": {
   "audyt": 11,

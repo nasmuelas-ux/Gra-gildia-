@@ -1143,17 +1143,23 @@
    "zawod": "woźnica-faktor interioru (dolina Białego Noża + królewski gościniec) — jeździ w głąb Północy od lat, zna przystanki/brody/zmiany koni/dojścia; twardy, uczciwy w rachunku, flisacy mu ufają",
    "status": "ZWERBOWANY (298-04-22, rzut 84) — kotwica/przewodnik/budowniczy floty nogi lądowej do Winterfell. Wszedł na pewną królewską zapłatę; deal prosto (docenił, że Symon gada bez blefu). Zna drogę na pamięć (brody/przystanki/zmiany koni/komu się kłonić/gdzie nie stawać po zmroku), zna SUCHY grunt na widłach, i SKŁADA FLOTĘ z woźniców z góry którym ufa (+ ręce Halvarda z głębi).",
    "nastawienie_do_gracza": 60,
-   "wie_o_graczu": "298-04-22: Symon stawia sprawę prosto, uczciwa zapłata, pewna robota królewska — Cass szanuje takiego człowieka (deal bez blefu). Wchodzi solidnie.",
+   "wie_o_graczu": [
+    "298-04-22: Symon stawia sprawę prosto, uczciwa zapłata, pewna robota królewska — Cass szanuje takiego człowieka (deal bez blefu). Wchodzi solidnie.",
+    "298-05-04: na widłach z FLOTĄ WOZÓW złożoną na czas + ludzie Halvarda; gotów na przeładunek i nogę lądową (jak umawiane)."
+   ],
    "zaufanie": 30
   },
   {
    "id": "rennick_brygadzista",
    "imie": "Rennick",
    "zawod": "brygadzista z Zaułka (ekipa portowa Symona), za którego ręczy Bran — spokojny, twardy, uczciwy",
-   "status": "298-04-25: wysłany z 1. barką daniny + 2 dozbrojonymi trzymać WIDŁA (przeładunek) — przyjąć ładunek, obozować, doczekać wozów Cassa; wiezie kopię manifestu.",
+   "status": "298-05-04: NA WIDŁACH — przetrwał sztorm z 1. partią, ładunek cały, wozy gotowe. Konwergencja z główną falą.",
    "nastawienie_do_gracza": 70,
    "zaufanie": 40,
-   "wie_o_graczu": "pracuje dla Symona, ufa mu (uczciwa dniówka, pan stoi z ekipą); dostał odpowiedzialny posterunek na widłach."
+   "wie_o_graczu": [
+    "pracuje dla Symona, ufa mu (uczciwa dniówka, pan stoi z ekipą); dostał odpowiedzialny posterunek na widłach.",
+    "298-05-04: przywitał Symona na widłach — 'przetrzymaliśmy, ładunek cały, wozy gotowe'. Solidny, dowiózł posterunek."
+   ]
   },
   {
    "id": "ulf_interior",

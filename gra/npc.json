@@ -2716,7 +2716,8 @@
     "298-03-06: Symon zatrudnił go osobiście przyklepawszy po lekturze charakteru (czysty odczyt). Płaca uczciwa i w terminie ('u mnie się nie wlecze z zapłatą'), traktowany jak swój. Ulga starego żołnierza — siostra i dziecko przetrwają zimę.",
     "298-04-20: jedzie z Symonem+Halem do Winterfell jako osobista osłona; doradził oddział zbrojnych lorda na karawanę + Garrick zostaje pilnować domu/Miry.",
     "298-04-22: z serżantem lorda ocenili zagrożenie karawany (rzut 89) — werdykt: nie wojna lecz okazja (zbóje/głodni na samotnych odcinkach; syrena Manderlych=wabik i odstraszacz). Potrzeba RAZEM ~tuzina zbrojnych = serżant+jego ludzie + DOBRAĆ ~6-8 (najem+dozbrojeni woźnice), porządek przód/skrzydła/tył, nocne warty, ciasne obozy. Rekomendacja: dobrać najmem (lord garnizonu nie ogołoci).",
-    "298-04-26 (rzut 43): przyjęto model karawany-milicji (najem suchy). Hendry musztruje woźniców Cassa+ludzi Halvarda: żywopłot włóczni, porządek marszu, warty nocne, pozycje na alarm, ciasny obóz. Trzon zawodowy (serżant lorda+pewna garść+Hendry) dowodzi. Efekt: kolumna-odstraszacz adekwatna na zbójów, ALE zieloni (nerw mógłby zadrżeć w prawdziwej walce — niesie trzon). Musztra zjada 2-3 dni do wyjazdu."
+    "298-04-26 (rzut 43): przyjęto model karawany-milicji (najem suchy). Hendry musztruje woźniców Cassa+ludzi Halvarda: żywopłot włóczni, porządek marszu, warty nocne, pozycje na alarm, ciasny obóz. Trzon zawodowy (serżant lorda+pewna garść+Hendry) dowodzi. Efekt: kolumna-odstraszacz adekwatna na zbójów, ALE zieloni (nerw mógłby zadrżeć w prawdziwej walce — niesie trzon). Musztra zjada 2-3 dni do wyjazdu.",
+    "298-05-05 NOC: jego wymusztrowana milicja zdała próbę ognia — krąg trzymał w nocnym napadzie, zielni ale nie pękli (musztra+trzon+obrona nie manewr). Kilku rannych, zero zabitych."
    ],
    "ostatni_kontakt": "298-04-20 NOC: Symon poprosił go jako osobistą osłonę na wyprawę do Winterfell (z nim i Halem). Hendry (b. żołnierz) zgodził się od ręki, ale doradził trzeźwo: jedna włócznia to za mało na karawanę prowiantu królewskiego — potrzeba ODDZIAŁU zbrojnych, a skoro to danina Korony na glejt lorda, to LORD daje ludzi. Zwrócił też uwagę: przy 6-tyg wyprawie Garrick niech ZOSTANIE przy Mirze/domu."
   },
@@ -2755,9 +2756,12 @@
    "imie": "Donnal",
    "zawod": "serżant straży Manderlych (20 lat służby) — dowódca zawodowego trzonu osłony daniny; twarz jak wyprawiona skóra, mowa oszczędna",
    "status": "298-04-30: rapport zbudowany w obozie Dnia 3. Docenił Symona ('prowadzisz porządnie jak na kupca; człowiek broni tego komu ufa'). Zawodowa głowa osłony na groźny odcinek lądowy.",
-   "nastawienie_do_gracza": 58,
-   "zaufanie": 40,
-   "wie_o_graczu": "kupiec-poseł, co pyta fachowca zamiast pouczać, płaci uczciwie, siada przy ogniu ludzi — dobrze prowadzi kolumnę; wart szacunku żołnierza.",
+   "nastawienie_do_gracza": 66,
+   "zaufanie": 48,
+   "wie_o_graczu": [
+    "kupiec-poseł, co pyta fachowca zamiast pouczać, płaci uczciwie, siada przy ogniu ludzi — dobrze prowadzi kolumnę; wart szacunku żołnierza.",
+    "298-05-05 NOC: napad odparty pod jego dowodzeniem (Symon oddał mu komendę, dał cel: osłonić towar/krąg/róg). Donnal cementuje szacunek: 'dałeś dobry rozkaz, mądry pan wie czego nie umie; twoja przezorność (podwójne warty+pikiety) nas ocaliła — inaczej groby'."
+   ],
    "porady": "Ulf przy przedzie (zna grunt=wart 10 mieczy); czujność na pustych odcinkach o zmierzchu; WIDŁA=najwrażliwsza chwila (przeładunek: wszyscy zajęci, towar odkryty→podwoić warty); nikt nie napadnie pod bramą Winterfell, groźba na pustym trakcie."
   }
  ],

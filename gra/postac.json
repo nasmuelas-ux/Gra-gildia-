@@ -9,10 +9,10 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 44,
- "zmeczenie": 6,
+ "zmeczenie": 0,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 715,
+  "jelenie": 787,
   "smoki": 0
  },
  "dobytek": [
@@ -212,8 +212,8 @@
  "przychody": {
   "zasada": "KSIEGA PRZYCHODOW - jedyne miejsce na wplywy. GDZIE: tu (postac.json.przychody) + render STAN.md + slad w ukryte/przychody.log. KIEDY: (a) per-zdarzenie ksiegowane gdy zdarzenie odpala; (b) cykliczne miesieczne zmiatane w DZIEN BILANSU (1. dnia miesiaca). W Dniu Bilansu: zlicz miesiac -> gotowka do sakiewki, wpis kronika+log. Kwoty oznaczone 'szac.' do potwierdzenia w grze.",
   "dzien_bilansu": "1. dnia miesiaca",
-  "nastepny_bilans": "298-04-01",
-  "ostatni_bilans": "298-03-01 (WYKONANY: miesiąc 298-02 zamknięty; pasywna netto +66 do kasy; go-forward ~90/mies)",
+  "nastepny_bilans": "298-05-01",
+  "ostatni_bilans": "298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy)",
   "strumienie_cykliczne_miesieczne": {
    "draw_wspolnika_nesta": "Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.",
    "czynsz_kamieniczki": "9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies",

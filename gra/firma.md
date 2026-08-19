@@ -413,3 +413,11 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Skarbiec 400 NIETKNIĘTY, próg wolnej kasy ~300, mostki+Aldous (~93) zostają jako dochód.
 - TYTUŁ: skład na nazwisko OSOBISTE Symona; FIRMA WYNAJMUJE od niego (czynsz→Symon, koszt→firma). Bez współwłasności, firewall czysty.
 - Zamknięcie ~04-05. Pieniądz rusza się przy papierach.
+
+
+## 298-04-01 — BILANS miesiąca 298-03 (WYKONANY)
+- Pasywna (Warstwa A) ~92 brutto − podatek ~9 − odpis reliefu ~8 → **netto +72 jel** do kasy (715→787).
+- Operacyjna (Warstwa B) marca już w kasie na bieżąco (sesje pracy).
+- Danina cechowa/koszty operacyjne firmy — w netto pasywnej (firma na udziale Hala, wynajem składu jeszcze nie rusza — zamknięcie ~04-05).
+- Go-forward pasywna ~92/mies (po restrukturze + retainer z Schodów). Po zamknięciu siedziby dojdzie czynsz firmy do Symona (nowy strumień).
+- Kasa **787** przed zamknięciem składu Ondrewa (~04-05: −300 kasa + weksle + raty).

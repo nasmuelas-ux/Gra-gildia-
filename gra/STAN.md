@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-03-31 RANEK · wiosna (298) - Północ wyszła z zimy
+- **Data:** 298-04-01 RANEK · wiosna (298) - Północ wyszła z zimy
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 690 jeleni + 1 mied + 0 smokow
+- **Wolne:** 787 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -51,7 +51,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - Cichy warrant lorda Wymana: prawo wglądu w księgi komory celnej pod pretekstem 'przeglądu zimowego bilansu z ramienia zamku' (298-03-13). Helman wie że ktoś patrzy, nie że na niego.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
-- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-04-01 (ostatni: 298-03-01 (WYKONANY: miesiąc 298-02 zamknięty; pasywna netto +66 do kasy; go-forward ~90/mies))
+- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))
 - _Cykliczne (zmiatane w Dniu Bilansu):_
     - draw_wspolnika_nesta: Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.
     - czynsz_kamieniczki: 9 jel/mies BRUTTO (izba1 Jonna + izba2 Osric + izba3 Hal @ 3 jel; izba4=Symon) - 2 jel dozorca Bran/utrzymanie = 7 jel NETTO/mies
@@ -72,7 +72,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 9 · wlodarstwo 8
-**Reputacja:** port 32 · schody_zamkowe 38 · cech_pisarzy -6 · wiara 94 · zamek 24 · cech_kolodziejow 42
+**Reputacja:** port 32 · schody_zamkowe 38 · cech_pisarzy -6 · wiara 95 · zamek 24 · cech_kolodziejow 42
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU; LICZBY UCZCIWE vs ZMYSLONE; JEDNOSTKA WOBEC KROLESTWA + POGODA POLITYCZNA; WLADZA NA POLNOCY / BIALY PORT; GOSPODARKA POLNOCY; TARCZA SLABYCH A ICH GODNOSC; POLNOC W KONTRZE DO REGIONOW / TRANSPORT; METODYKA AUDYTU JAKO POMOST; GRANICA PRAWA / SPRAWIEDLIWOSC BEZ DZWIGNI
 
 ## LUDZIE NA SCENIE (nast. do gracza)

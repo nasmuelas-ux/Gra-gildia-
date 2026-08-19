@@ -398,3 +398,11 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Hal ustrukturyzował ryzyko (styl Symona): retainer Z ZALICZKĄ Z GÓRY + twarde daty rat + wąski zakres. 'Bierzemy jego pieniądz, nie jego kłopot z płynnością.'
 - Zaliczka +6 jel od ręki (kasa 554→560); stały strumień doliczy do plonu na bilansie (drobny przyrost pasywnej go-forward).
 - DOWÓD: struktura łapie wady i strukturyzuje ryzyko bez Symona przy stole — firma myśli jak on.
+
+
+## 298-03-12 — SIEDZIBA KUPIONA NA SŁOWO: skład Ondrewa (Środkowe Nabrzeże)
+- Po dyscyplinie (puszczone Schody) i cierpliwości — właściwa siedziba. Oględziny rzut 96 (~KRYT): zdrowy kamień, magazyn obszerny+SUCHY, izby na kantor/biura, żywy adres, zero remontu.
+- Oferta rzut 39: przybita. Cena ~665 all-in (uczciwy środek). Dźwignia uczciwa (jak Ostyn): czysta gotówka + szacunek + PATE (magazynier 30 lat) ZOSTAJE → Ondrew sprzedał Symonowi mimo wyższej oferty konkurenta.
+- ZADATEK 65 jel (kasa 664→599). Reszta 600 przy zamknięciu za ~3-4 tyg. Posiadanie za ~miesiąc.
+- STRUKTURA (do dopięcia z Nestą): 600 = kasa w dół + retained firmy + krótkie raty pod czysty pasywny (~90/mies). Wszystko CZYSTE/na nazwisko Symona/w świetle. Firewall: kantor Nesty pozostaje osobno w cieniu.
+- ZNACZENIE: pierwszy kamienny dom imienia Symona w porcie; przejście dom-handlowy → dom-handlowy Z SIEDZIBĄ.

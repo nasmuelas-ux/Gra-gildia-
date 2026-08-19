@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 4,
-  "dzien": 29,
+  "dzien": 30,
   "era": "AC"
  },
  "pora": "WIECZÓR",
  "sezon": "wiosna (298) - Północ wyszła z zimy",
- "pogoda": 57,
- "dzien_tygodnia_nr": 1,
+ "pogoda": 66,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "nastroje_miasta": "Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport rosną, zimowy underwriting/prowiant taperuje.",
  "ceny": {
@@ -83,5 +83,5 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "W DRODZE — obóz przy rzecznym gródku, koniec Dnia 2 (~5 dni do wideł). Biały Nóż w górę."
+ "lokacja_gracza": "W DRODZE — obóz na wysokim brzegu w dzikim interiorze Północy, koniec Dnia 3 (~4 dni do wideł)."
 }

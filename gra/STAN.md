@@ -10,7 +10,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-04-27 POPOŁUDNIE · wiosna (298) - Północ wyszła z zimy
+- **Data:** 298-04-27 WIECZÓR · wiosna (298) - Północ wyszła z zimy
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
@@ -56,6 +56,8 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-04-22: strój podróżny na wyprawę do Winterfell — kaftan z twardzonej skóry (cicha osłona) pod wierzchnią szatą, płaszcz podróżny z natłuszczonego płótna, mocne buty, ciepła opończa, pas z kaletami (rylec/pieczęć/papiery). Godne+praktyczne+ciepłe (na bramę Winterfell i 3 tyg roztopów). Koszt 20 jel.
 - 298-04-23: zakup uzbrojenia dla karawany daniny — włócznie, twardzone kaftany/czapki, parę porządnych ostrzy dla trzonu; dozbroić woźniców Cassa + party. Koszt 35 jel. Cel: karawana broni się sama (kompensuje niedobór najemnych).
 - 298-04-24: mostek 100 jel na krok sukcesji Nesty na pryncypała (przyspieszenie refi/wygaszenia cienia Antaryona po dotknięciu firewalla od góry). Rośnie udział Symona w faktorii. Skarbiec NIE tknięty (rezerwa Miry/dziecka). Dług Antaryona=~90 smoków/18000 jel — nie do spłaty sakiewką; cień gaśnie przez sukcesję Nesty (tygodnie), którą ona domyka pod nieobecność Symona. | 298-04-24: DOPŁATA 200 jel ze skarbca (skarbiec 400->200). ŁĄCZNY mostek sesji = 300 jel. KOREKTA natury skarbca: to REZERWA SYMONA (rozdzielność majątkowa — Mira ma własne oszczędności + dom sukna, niezależna), NIE wspólna poduszka Miry; sięgnięcie po nią nie odsłania Miry/dziecka. Residualny cień wyraźnie mniejszy; udział Symona w faktorii rośnie mocniej. Wciąż nie zapieczętowane przed wyjazdem (wiąże mechanizm/podpisy, nie grosz) — powrót do cienia ~0.
+- 298-04-27: Symon niesie SŁOWO lorda Wymana do Eddarda Starka (pozdrowienie/szacunek wiernego chorążego, 'Biały Port stoi za Winterfell') — status posła lorda, nie tylko wozaka daniny.
+- 298-04-27: tajne zlecenie lorda — być okiem/uchem na dworze królewskim w Winterfell (kto z kim, intrygi, co wisi w powietrzu), zdać relację po powrocie. Zbieżne z nadchodzącą wielką grą.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))

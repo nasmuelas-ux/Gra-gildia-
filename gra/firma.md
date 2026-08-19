@@ -456,3 +456,8 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Lord dal Symonowi ekonomiczny+logistyczny RDZEN udzialu BP (krol jedzie do Winterfell): prowiant na przejazd + finanse prestizu (bez wykrwawienia skarbca) + logistyka dowozu darow/prowiantu DO WINTERFELL ladem.
 - Roldan-safe: cicho jako warrantowany prowiantor (ta sama reka co zima), substancja Symona/blask cudzy.
 - Reka Symona siega Winterfell (robota nie osoba). Szczebel drabiny Manderly->Stark. Twarz zostaje w BP (Roldan+Mira 7 mies).
+
+### 298-04-19 KOREKTA (realizm, uwaga gracza)
+- Model poprawiony: Symon = MÓZG U ŹRÓDŁA (skup/finanse/załadunek w BP), transport barkami w GÓRĘ BIAŁEGO NOŻA (spławna arteria Północy) ku Winterfell + ostatni odcinek lądem; ZAUFANY AGENT jedzie z ładunkiem (Symon zostaje — Mira 7mies+Roldan).
+- 'Cicho' = tylko rola Symona nierzucająca się (warrantowany prowiantor), NIE operacja (ta jawna/wielka).
+- Decyzja: kto jedzie z transportem (Hal/Tam/faktor).

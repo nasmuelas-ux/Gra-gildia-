@@ -20,7 +20,7 @@
     "ze wnuk umrze jak jej corka",
     "eksmisja przez wlasciciela kamienicy"
    ],
-   "nastawienie_do_gracza": 70,
+   "nastawienie_do_gracza": 72,
    "zaufanie": 17,
    "wie_o_graczu": [
     "umie pisac",
@@ -87,7 +87,7 @@
     "konkurencja z drugiego konca targu",
     "poborca cechowy"
    ],
-   "nastawienie_do_gracza": 79,
+   "nastawienie_do_gracza": 80,
    "zaufanie": 28,
    "wie_o_graczu": [
     "pisze tanio",
@@ -145,7 +145,7 @@
     "kontuzja plecow",
     "ze go ominie lepsza fucha"
    ],
-   "nastawienie_do_gracza": 99,
+   "nastawienie_do_gracza": 100,
    "zaufanie": 59,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
@@ -1011,7 +1011,7 @@
     "Lorren",
     "glod dzieci"
    ],
-   "nastawienie_do_gracza": 61,
+   "nastawienie_do_gracza": 63,
    "zaufanie": 13,
    "wie_o_graczu": [
     "skryba przejrzal drapiezna umowe Lorrena",
@@ -1579,7 +1579,7 @@
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
-   "nastawienie_do_gracza": 94,
+   "nastawienie_do_gracza": 95,
    "zaufanie": 58,
    "ostatni_kontakt": "297-12-17 - ciepla zwyczajna wizyta (rzut 42)",
    "wie_o_graczu": [
@@ -2258,7 +2258,8 @@
    "zaufanie": null,
    "ostatni_kontakt": "297-09-30 UPADL: zwiniety jako agent pierscienia (linia frontu przez patrona-czlowieka Pryora). Wojna z firma skonczona jego kleska - nie ambicja rywala, awangarda pierscienia, zmiazdzona reka lorda.",
    "wie_o_graczu": [
-    "298-03-14 (komisja ceł, POUFNE): zidentyfikowany jako PATRON ZE ZMOWY Helmana — jego klienci-szyprowie w pierścieniu beneficjentów, korzysta z kradzieży ceł; ma UCHO STEWARDA → groźny, mógłby odmalować dochodzenie jako napaść frakcyjną chłopa na dworzanina. To JEGO trzeba izolować. Symon go NIE zaczepia — wiedza cicha, do raportu lordowi."
+    "298-03-14 (komisja ceł, POUFNE): zidentyfikowany jako PATRON ZE ZMOWY Helmana — jego klienci-szyprowie w pierścieniu beneficjentów, korzysta z kradzieży ceł; ma UCHO STEWARDA → groźny, mógłby odmalować dochodzenie jako napaść frakcyjną chłopa na dworzanina. To JEGO trzeba izolować. Symon go NIE zaczepia — wiedza cicha, do raportu lordowi.",
+    "298-03-22: Helman upadł (lord ruszył cicho wg rady Symona), ale ROLDAN NIE upadł (lord izoluje cierpliwie). Roldan wpadł w furię i WĘSZY — nie 'czy' lecz 'KTO' przeprowadził zamkowy przegląd; poluje na nazwisko śledczego (Symona, jeszcze nie zna). Ma ucho stewarda+ludzi. Ślady mogące doń doprowadzić: klerk (palec na tomie), świadek, pytania Symona po nabrzeżu. GROŹBA: może ukąsić bokiem gdzie lord nie patrzy + grzebiąc głębiej mógłby trafić na INNY cień Symona (firewall)."
    ]
   },
   {

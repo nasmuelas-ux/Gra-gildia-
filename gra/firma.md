@@ -461,3 +461,9 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Model poprawiony: Symon = MÓZG U ŹRÓDŁA (skup/finanse/załadunek w BP), transport barkami w GÓRĘ BIAŁEGO NOŻA (spławna arteria Północy) ku Winterfell + ostatni odcinek lądem; ZAUFANY AGENT jedzie z ładunkiem (Symon zostaje — Mira 7mies+Roldan).
 - 'Cicho' = tylko rola Symona nierzucająca się (warrantowany prowiantor), NIE operacja (ta jawna/wielka).
 - Decyzja: kto jedzie z transportem (Hal/Tam/faktor).
+
+### 298-04-19 — narada: łańcuch BP→Winterfell (rzut 20, trzeźwy)
+- MOCNE: źródła (sieć zimowa/Aldous/Mira-dary), finanse, staging (Aurane+skład), rzeka Biały Nóż (1. noga).
+- DZIURY: (1) NOGA LĄDOWA koniec-spławu→Winterfell = największa (BP=morze/rzeka, interior nieznany, zero dojść); (2) pojemność barek+ciasny czas; (3) odbiór w Winterfell; (4) bezpieczeństwo dystansu.
+- Maszyna pod port/lokalne, misja wyciąga w nieznane. TO DO: zamknąć nogę lądową (priorytet), barki, odbiór, osłona, harmonogram wstecz.
+- OTWARTE: należność lorda za komisję ceł (standing≠grosz) — domknąć tactful.

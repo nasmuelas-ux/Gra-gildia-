@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 50,
- "zmeczenie": 1,
+ "zmeczenie": 3,
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 428,
@@ -164,8 +164,8 @@
   "spryt_uliczny": 132,
   "handel": 157,
   "geometria": 22,
-  "finanse": 267,
-  "wlodarstwo": 154
+  "finanse": 268,
+  "wlodarstwo": 155
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
  "weksle_wystawione_jel": 200,
@@ -202,7 +202,8 @@
   "warrant_cla_lord": "Cichy warrant lorda Wymana: prawo wglądu w księgi komory celnej pod pretekstem 'przeglądu zimowego bilansu z ramienia zamku' (298-03-13). Helman wie że ktoś patrzy, nie że na niego.",
   "siedziba_sklad_ondrew": "WŁASNOŚĆ (298-04-05): kamienny SKŁAD Z KANTOREM na Środkowym Nabrzeżu, na osobiste nazwisko Symona (czysty aktyw jak kamieniczka). Cena ~665 all-in zapłacona (65 zadatek + 300 kasa + 200 weksle + 100 ogon rat). Magazynier PATE (30 lat, został). Firma wynajmie powierzchnię (czynsz→Symon). Do przeprowadzki widocznej roboty.",
   "raty_ondrew": "Ogon rat za skład: ~100 jel do spłaty przez najbliższe miesiące pod czysty pasywny (~90/mies). Ondrew (holding syna).",
-  "siedziba_wyposazenie_biblioteka": "Skład wyposażony (298-04-05): meble/stanowiska (każdy urządza swoje=godność+własność), profesjonalne zestawy narzędzi dla całego zespołu (jakość+lojalność), BIBLIOTECZKA z księgami do nauki (rachunki/prawo/notacje/handel) — 'mała Cytadela', dom handlowy co się UCZY (Jory rośnie jak Symon rósł). Koszt ~110 jel. Inwestycja w jakość/pojemność/lojalność."
+  "siedziba_wyposazenie_biblioteka": "Skład wyposażony (298-04-05): meble/stanowiska (każdy urządza swoje=godność+własność), profesjonalne zestawy narzędzi dla całego zespołu (jakość+lojalność), BIBLIOTECZKA z księgami do nauki (rachunki/prawo/notacje/handel) — 'mała Cytadela', dom handlowy co się UCZY (Jory rośnie jak Symon rósł). Koszt ~110 jel. Inwestycja w jakość/pojemność/lojalność.",
+  "naleznosc_lord_komisja": "OTWARTY DŁUG LORDA: za komisję ceł (Helman, zima 298) Symon dostał standing/elewację, NIE grosz — a komisja odzyskała lordowi grube sumy. Konkretna nagroda należna, do domknięcia tactful (okazja: rozmowy o finansowaniu królewskiego udziału — 'panie, została jeszcze tamta sprawa')."
  },
  "licznik_uzyc": {
   "audyt": 11,

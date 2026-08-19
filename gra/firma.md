@@ -450,3 +450,9 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Praca (rzut 46): +48 jel (kasa 379→427), stabilnie.
 - NAUKA wieczorami (rzut 11): znikomy postęp — LEKCJA: zmęczona głowa źle się uczy; biblioteczka=skarb, ale wielka nauka (traktat/głębsze księgi) potrzebuje ŚWIEŻYCH godzin, nie ogryzków wieczoru po 2 sesjach+Mirze+wizytach.
 - Bliscy odwiedzani (Bran/mały Symon, Owen, Wenda, Aldous, Nesta), Mira tended. Więzi mocne.
+
+
+## 298-04-19 — ROLA ZYCIA: kregoslup krolewskiego udzialu Bialego Portu (rzut 88)
+- Lord dal Symonowi ekonomiczny+logistyczny RDZEN udzialu BP (krol jedzie do Winterfell): prowiant na przejazd + finanse prestizu (bez wykrwawienia skarbca) + logistyka dowozu darow/prowiantu DO WINTERFELL ladem.
+- Roldan-safe: cicho jako warrantowany prowiantor (ta sama reka co zima), substancja Symona/blask cudzy.
+- Reka Symona siega Winterfell (robota nie osoba). Szczebel drabiny Manderly->Stark. Twarz zostaje w BP (Roldan+Mira 7 mies).

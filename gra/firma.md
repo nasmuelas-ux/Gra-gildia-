@@ -444,3 +444,9 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Trzon pryncypała + 1. transza mostu Symona (100 jel, kasa 456→356) spłaciły grubą część długu Antaryona. Antaryon zadowolony ('refi na lepsze warunki'), firewall żelazny.
 - Cień SPŁACONY (nie przesunięty); czysty kredyt handlowy (papier/wino) na jego miejsce.
 - EQUITY Symona w faktorii ↑ o pierwszy stopień (ku większości). Dalsze transze przez wiosnę. Cel: do lata cień=0.
+
+
+## 298-04-11→17 — MONTAŻ (praca 2x/dzień, nauka wieczorami, bliscy)
+- Praca (rzut 46): +48 jel (kasa 379→427), stabilnie.
+- NAUKA wieczorami (rzut 11): znikomy postęp — LEKCJA: zmęczona głowa źle się uczy; biblioteczka=skarb, ale wielka nauka (traktat/głębsze księgi) potrzebuje ŚWIEŻYCH godzin, nie ogryzków wieczoru po 2 sesjach+Mirze+wizytach.
+- Bliscy odwiedzani (Bran/mały Symon, Owen, Wenda, Aldous, Nesta), Mira tended. Więzi mocne.

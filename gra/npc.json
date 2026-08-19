@@ -2187,11 +2187,11 @@
    "imie": "Wick",
    "wiek": 16,
    "stan": "sierota/czeladnik",
-   "zawod": "czeladnik kolodziejow (ranny - zmiazdzona dlon)",
+   "zawod": "SKRYBA/KLERK firmy faktorskiej Symona ('druga droga' po zmiażdżonej prawej dłoni — pisze lewą, czyta płynnie; przełom 297-05-09). B. czeladnik kołodziejów. Drugi młody skryba Symona (brat losu Hala), wciągnięty w jawną rutynę firmy od 297-12-16.",
    "mieszka": "izba_3_kamieniczki_Symona — dokwaterowany do Hala (\"za Halem\"), od ~297-06 (przeprowadzka z celi septy). Dwaj czeladnicy-klerkowie Symona (Hal+Wick) pod jednym dachem, pod jego okiem.",
    "nastawienie_do_gracza": 78,
    "zaufanie": 27,
-   "ostatni_kontakt": "297-12-16 - Symon wciagnal Wicka glebiej w jawna rutyne firmy (rzut 63) - chetny, wdzieczny (druga droga po zmiazdzonej dloni), ale zieleńszy: potrzeba wiecej reki Hala. Uwolnic go stopniowo. Reconnect po 2 mies cieply.",
+   "ostatni_kontakt": "298-04-23: [KOREKTA GM — Wick BYŁ przeoczony w rozpisce firmy, gracz słusznie wskazał; kartoteka naprawiona] dostał szansę wykazać się — z Tamem i Fennem prowadzi bieżącą robotę firmy na wyższych obrotach podczas nieobecności Symona+Hala (backstop Corliss/Deman, nadzór Nesta). Dojrzalszy niż w 297-12 (minęły ~4 mies). Domknięcie łuku 'drugiej drogi': podniesiony z popiołu do pióra, teraz niesie firmę.",
    "wie_o_graczu": [
     "pan co pisal po uzdrowiciela i dal grosz na lek (04-11 wypadek)",
     "297-04-12 (rzut 74): Symon usiadl przy nim po ludzku. Wick (bez rodziny, jak Symon kiedys) boi sie jutra - kolodziej bez sprawnej reki=nikt, wypadnie z cechu. Symon dal mu to, co sam przeszedl: 'reka co nie utoczy kola wciaz utrzyma pioro; glowa liczy sie bardziej'. Zaproponowal: naucz sie liter/rachunkow gdy lezysz - druga droga jak dlon nie wroci. Chlopcu rozpacz zmienila sie w krucha nadzieje ('ja moglbym sie nauczyc?'). Lancuch Owen->Symon->dalej. Niskoprofilowe dobro.",
@@ -2208,7 +2208,8 @@
     "297-06-09: benedykcja - Boren przed majstrami zwolnil go z blogoslawienstwem (\"nie wyrzucamy, wyprawiamy w nowe... bratem zostajesz\"). Przemienilo go inaczej niz wczoraj: nie jalmuzna z reki, lecz HONOR od cechmistrza. Stanal prosciej. Fach przed nim, cech za plecami. nast 63->67.",
     "297-06-09 (rzut 68): pierwszy dzien w kantorze - podstawy (liniowanie, segregacja, przepisywanie znakow), Hal wprowadza. Humbling ale JEST w czyms, czescia zespolu - po wczorajszej rozpaczy to duzo. Zaczyna sie realny rozbieg nauki.",
     "297-06-14: dzien 5. - zlapal rytm, wczorajszy szary dolek minal, reka pewniejsza, zazartowal z Halem. Wchodzi w fach.",
-    "297-06-18: Symon zaaranzowal, ze Serla (cooper-wdowa, matczyna) gotuje im i doglada za zaplate - koniec jedzenia jak popadnie, matczyna obecnosc w izbie 3."
+    "297-06-18: Symon zaaranzowal, ze Serla (cooper-wdowa, matczyna) gotuje im i doglada za zaplate - koniec jedzenia jak popadnie, matczyna obecnosc w izbie 3.",
+    "298-04-23: z Tamem+Fennem prowadzi firmę na obrotach, gdy Symon+Hal w daninie — jego szansa, by dowieść, że druga droga była słuszna."
    ],
    "cechy_mowy": "niesmialy, cichy, 'panie'",
    "status": "ZWOLNIONY z czeladnictwa kolodziejow (297-06-09, formalnie/jawnie/z blogoslawienstwem Borena przed majstrami) -> UCZEN-KLERK Symona (prywatna nauka pisarska, poza cechem skrybow, cicho). Papiery spisane (zwolnienie z pieczecia + uklad nauki). Benedykcja Borena dala mu GODNOSC/domkniecie kolodziejstwa - niewiara z 06-08 osiadla (oficjalne, jawne). Odszedl jako brat wyprawiony w nowe, nie odpadly kaleka. NEXT: wdrozyc w realna robote, pierwsza wyplata utrwali wiare. || DACH ROZWIAZANY 297-06-09: izba 3 kamieniczki Symona, dzieli z Halem (piszmienny - uczy go liter wieczorami). Housing solved + korepetytor czytania.",

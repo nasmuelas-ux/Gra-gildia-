@@ -1321,8 +1321,8 @@
   },
   {
    "id": "wenture_papiernia_wodna",
-   "stan": "ZALĄŻEK (298-02-03): Theomore ujawnił wiedzę o wyrobie papieru ze szmat + młynie papierniczym na napęd wodny. Przewaga: papier tańszy od pergaminu w skali, szmata tania/wszędzie, woda za darmo po zbudowaniu koła. WYMAGA: woda ze spadkiem (młyn/struga+koło), kapitał na stępory+kadzie, WIELE PRÓB nim miazga równa i arkusz nie pęka. Horyzont: nie wiosna nawet — dłuższy build. Firewall czysty.",
-   "nastepny_krok": "pożyczyć/przepisać zeszyt Theomore'a; zwiadować dostęp do wody z spadkiem; próby w małej skali",
+   "stan": "298-04-10 (rzut 78): plan zrobił krok — z mgławicy MAPA Z JEDNYM BRAKUJĄCYM ELEMENTEM. MASZ: szmaty (len Miry, za bezcen), składowanie+próby (sucha piwnica składu), wiedzę (zeszyt arcymaestera). BRAKUJE: WODY ZE SPADKIEM (koło młyńskie→stępory). KONKRETNY TROP: młynarz GARRET (mid-tier klient) MA MŁYN Z KOŁEM WODNYM — sondować jego koło/strugę pod stępory papiernicze (na próbę). Wat gotów jako WSPÓLNIK-RZEMIEŚLNIK w papierni (nie podwładny).",
+   "nastepny_krok": "sondować Garreta o wodę/młyn (bez pośpiechu, gdy nawał opadnie); Wat jako wspólnik-rzemieślnik; len Miry jako surowiec; próby w małej skali w piwnicy składu",
    "priorytet": "strategiczny/długi",
    "synergia_mira": "298-04-05: nowy skład (obszerne suche przyziemie) + skrawki lniane Miry z sukna (dziś marnowane) = możliwa synergia papierni pod jednym dachem. 'Twój papier, mój len, jeden dach.' Horyzont daleki, ale grunt (dosł.) jest."
   },

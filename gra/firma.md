@@ -432,3 +432,9 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - Symon: most refi z jego czystego kapitału ma KUPOWAĆ equity (inwestycja nie pożyczka). Nesta przyjęła z uznaniem.
 - Każdy jeleń mostu = udział w kantorze po uczciwej wycenie, proporcjonalnie, przez wiosnę. Udział Symona w faktorii rośnie z ~47% KU WIĘKSZOŚCI do lata.
 - To POCZĄTEK SUKCESJI: Symon ku pryncypałowi/właścicielowi kantoru (miejsce Nesty), jelenia po jeleniu.
+
+
+## 298-04-05 — Przeprowadzka + fit-out siedziby
+- Widoczna robota (Hal/Tam/Wick/Fenn/Jory/Deman/Lorren) przeniesiona ze starego kantoru na Środkowe Nabrzeże (stary kantor cichnie w cieniu — robota Nesty przy refi).
+- FIT-OUT (~110 jel, kasa 586→476, skarbiec nietknięty): meble+stanowiska (każdy urządza SWOJE=godność), profesjonalne zestawy narzędzi (jakość+lojalność), BIBLIOTECZKA z księgami do nauki ('mała Cytadela', dom handlowy co się uczy).
+- Zespół rozkwitł, lojalność scementowana; go-forward: jakość+pojemność+morale ↑. Firma wynajmuje skład od Symona (czynsz→Symon, do rozliczenia).

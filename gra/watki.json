@@ -1323,9 +1323,10 @@
   {
    "id": "wenture_papiernia_wodna",
    "stan": "298-04-10 (rzut 78): plan zrobił krok — z mgławicy MAPA Z JEDNYM BRAKUJĄCYM ELEMENTEM. MASZ: szmaty (len Miry, za bezcen), składowanie+próby (sucha piwnica składu), wiedzę (zeszyt arcymaestera). BRAKUJE: WODY ZE SPADKIEM (koło młyńskie→stępory). KONKRETNY TROP: młynarz GARRET (mid-tier klient) MA MŁYN Z KOŁEM WODNYM — sondować jego koło/strugę pod stępory papiernicze (na próbę). Wat gotów jako WSPÓLNIK-RZEMIEŚLNIK w papierni (nie podwładny).",
-   "nastepny_krok": "sondować Garreta o wodę/młyn (bez pośpiechu, gdy nawał opadnie); Wat jako wspólnik-rzemieślnik; len Miry jako surowiec; próby w małej skali w piwnicy składu",
+   "nastepny_krok": "(długi horyzont) zwiadować rozwalony młyn w górze doliny LUB inna woda LUB budowa własnego koła; papiernia=grube przedsięwzięcie, nie na teraz przy nawale. Len Miry+piwnica składu+Wat gotowe, brak tylko wody.",
    "priorytet": "strategiczny/długi",
-   "synergia_mira": "298-04-05: nowy skład (obszerne suche przyziemie) + skrawki lniane Miry z sukna (dziś marnowane) = możliwa synergia papierni pod jednym dachem. 'Twój papier, mój len, jeden dach.' Horyzont daleki, ale grunt (dosł.) jest."
+   "synergia_mira": "298-04-05: nowy skład (obszerne suche przyziemie) + skrawki lniane Miry z sukna (dziś marnowane) = możliwa synergia papierni pod jednym dachem. 'Twój papier, mój len, jeden dach.' Horyzont daleki, ale grunt (dosł.) jest.",
+   "woda_bottleneck": "298-04-18 (rzut 24): trop Garreta PADŁ — jego młyn mieli zboże cały dzień (chleb rodziny), spadek zajęty, działający młyn≠wolne koło. LEKCJA: papiernia to nie 'dokupić element' lecz GRUBE PRZEDSIĘWZIĘCIE, twardy bottleneck=WODA ZE SPADKIEM. FAINT LEAD: rozwalony stary młyn w GÓRZE DOLINY (młynarz umarł bez syna, struga ponoć niezła; stan/grunt nieznane, plotka). Opcje: zwiadować ruinę / szukać innej wody / kiedyś z kapitałem zbudować własne koło. Horyzont daleki."
   },
   {
    "id": "siedziba_polaczonej_faktorii",

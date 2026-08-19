@@ -1142,12 +1142,9 @@
    "imie": "stary Cass",
    "zawod": "woźnica-faktor interioru (dolina Białego Noża + królewski gościniec) — jeździ w głąb Północy od lat, zna przystanki/brody/zmiany koni/dojścia; twardy, uczciwy w rachunku, flisacy mu ufają",
    "status": "ZWERBOWANY (298-04-22, rzut 84) — kotwica/przewodnik/budowniczy floty nogi lądowej do Winterfell. Wszedł na pewną królewską zapłatę; deal prosto (docenił, że Symon gada bez blefu). Zna drogę na pamięć (brody/przystanki/zmiany koni/komu się kłonić/gdzie nie stawać po zmroku), zna SUCHY grunt na widłach, i SKŁADA FLOTĘ z woźniców z góry którym ufa (+ ręce Halvarda z głębi).",
-   "nastawienie_do_gracza": 60,
-   "wie_o_graczu": [
-    "298-04-22: Symon stawia sprawę prosto, uczciwa zapłata, pewna robota królewska — Cass szanuje takiego człowieka (deal bez blefu). Wchodzi solidnie.",
-    "298-05-04: na widłach z FLOTĄ WOZÓW złożoną na czas + ludzie Halvarda; gotów na przeładunek i nogę lądową (jak umawiane)."
-   ],
-   "zaufanie": 30
+   "nastawienie_do_gracza": 63,
+   "wie_o_graczu": "298-05-07: rozmowa o drodze — Cass dał praktyczną mapę jazdy pod obładowany wóz (rano ostro/upał postój/wieczór przystanek, oszczędzać konie; codzienny przegląd wozów=osie/obręcze/dyszle). Trzy miejsca uwagi: Kamienna Grobla (wąski nasyp nad mokradłem), bród na dopływie (po roztopach wysoki), długie podejście (pchać/oszczędzać konie). Do Cerwynów ~6-7 dni, stamtąd pół dnia do Winterfell. Cass coraz bardziej ufa (pan pyta fachowca i słucha=rzadkość). Był u Cerwynów z drewnem — przyjmą dobrze na słowo/list Manderlych.",
+   "zaufanie": 34
   },
   {
    "id": "rennick_brygadzista",

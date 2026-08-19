@@ -1314,6 +1314,12 @@
    "stan": "298-03-06 (rzut 69): Symon wrócił na targ NAZAJUTRZ po przestrodze Wendy — obecność zadziałała. Kłaniał się przekupkom po imieniu, kupił rybę u Wendy bez duszenia (+ druga dla nowego strażnika Hendry'ego). Wenda głośno ręczyła ('żonę ma przy nadziei a na targ przychodzi jak człowiek'). Ciepłe słowo o Mirze niesie się; szept 'za wysoko' przygłuszony obecnością. LEK potwierdzony: obecność, nie strategia.",
    "nastepny_krok": "utrzymywać rytm obecności wśród dołu (targ/relief/Dzień Matki); nie pozwolić profilowi oderwać od korzeni",
    "priorytet": "charakter/reputacja"
+  },
+  {
+   "id": "lekcja_jednotorowosc_symona",
+   "stan": "298-03-07 (kryt 1): Symon próbował pracy DWUTOROWEJ (premium forensyka + koordynacja biurka Hala) i popełnił realny błąd — odwrotny odczyt kierunku transakcji, o włos od oskarżenia niewinnego dostawcy (plama na nieskazitelności). URATOWAŁ Tam (druga para oczu = struktura zadziałała). LEKCJA: struktura pozwala FIRMIE na dwa tory, nie SYMONOWI — jego premium-tor (nie do zastąpienia, błędów nie wybacza) wymaga JEDNEGO, całego umysłu. Koordynację biurka oddać w pełni Halowi.",
+   "nastepny_krok": "Symon: premium-robota jednotorowo, z pełną głową; koordynacja = Hal. Nie dzielić własnej uwagi na high-stakes.",
+   "priorytet": "charakter/mądrość operacyjna"
   }
  ]
 }

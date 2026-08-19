@@ -101,6 +101,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Ser Aldric** (ser_aldric_oficer) — oficer zaopatrzenia domu lorda Manderly (szczebel nad Godrik · nast 0
 - **Rhona** (rhona_siostra_miry) — starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczk · nast 40
 - **Wharton** (kupiec_wharton) — zamożny status-świadomy kupiec, lgnie ku dworowi; na Wielkim · nast 25
+- **stary Cass** (cass_wozacz_interioru) — woźnica-faktor interioru (dolina Białego Noża + królewski go · nast nieznane (jeszcze niepoznany)
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

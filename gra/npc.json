@@ -2255,7 +2255,10 @@
    "rola": "dworzanin w otoczeniu Manderlych, ma ucho stewarda; PATRON rywala prowiantowego (rywal=jego klient, ciagnie z sadzania swojego na intratnej roli)",
    "nastawienie_do_gracza": 0,
    "zaufanie": null,
-   "ostatni_kontakt": "297-09-30 UPADL: zwiniety jako agent pierscienia (linia frontu przez patrona-czlowieka Pryora). Wojna z firma skonczona jego kleska - nie ambicja rywala, awangarda pierscienia, zmiazdzona reka lorda."
+   "ostatni_kontakt": "297-09-30 UPADL: zwiniety jako agent pierscienia (linia frontu przez patrona-czlowieka Pryora). Wojna z firma skonczona jego kleska - nie ambicja rywala, awangarda pierscienia, zmiazdzona reka lorda.",
+   "wie_o_graczu": [
+    "298-03-14 (komisja ceł, POUFNE): zidentyfikowany jako PATRON ZE ZMOWY Helmana — jego klienci-szyprowie w pierścieniu beneficjentów, korzysta z kradzieży ceł; ma UCHO STEWARDA → groźny, mógłby odmalować dochodzenie jako napaść frakcyjną chłopa na dworzanina. To JEGO trzeba izolować. Symon go NIE zaczepia — wiedza cicha, do raportu lordowi."
+   ]
   },
   {
    "id": "kupiec_torwyn",

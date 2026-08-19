@@ -104,7 +104,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
 - **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 0
 - **Ser Aldric** (ser_aldric_oficer) — oficer zaopatrzenia domu lorda Manderly (szczebel nad Godrik · nast 0
-- **Rhona** (rhona_siostra_miry) — starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczk · nast 43
+- **Rhona** (rhona_siostra_miry) — starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczk · nast 46
 - **Wharton** (kupiec_wharton) — zamożny status-świadomy kupiec, lgnie ku dworowi; na Wielkim · nast 25
 - **stary Cass** (cass_wozacz_interioru) — woźnica-faktor interioru (dolina Białego Noża + królewski go · nast 60
 - **Rennick** (rennick_brygadzista) — brygadzista z Zaułka (ekipa portowa Symona), za którego ręcz · nast 70

@@ -1102,6 +1102,19 @@
    "cechy_mowy": "twarda, bezposrednia, chroni swoich; ocenia po czynach nie slowach",
    "flaga": "czujna strazniczka Miry - holdout, do wygrania czynem/latami (nie wrogosc, ochrona)",
    "nota": " || 297-12-17: Symon+Mira postanowili ZAPROSIC ja, by przyjechala pomoc Mirze w ciazy (~6-7 tydz, meczy sie). Rhona - siostra co strzegla Miry, wdowa sama, kocha ja - bylaby idealna i uradowana: rodzina=dyskrecja, ochrona, towarzystwo. Poglebia wiez (od strazniczki->siostry->realnej obecnosci w rodzinie). Do domowienia (posłac slowo do miasteczka). || 297-12-18 RANEK: Symon POSLAL slowo do miasteczka - cieply list (Mira przy nadziei, potrzebuje siostry, przyjedz). Odpowiedz/przyjazd za dni. [outbound wyslany] || 297-12-20: ODPISALA na slowo Symona - cieplo i po swojemu bez ceregieli ('juz sie pakuje, czemu dopiero teraz piszecie, wiedzialam ze cos przed soba ukrywacie'). PRZYJEZDZA - wyrusza od razu, dojazd z miasteczka zima ~2-3 dni. Uradowana i zaborczo-troskliwa (siostra strzegaca). Wejdzie w dom i w krag wtajemniczonych w ciaze. || 297-12-21 (Dzien Matki): poslaniec przodem - Rhona blisko, dojedzie JUTRO (12-22). Symon/Mira maja przygotowac izbe. || 297-12-22: killing frost (pogoda 8) zlapal ja w drodze - MADRZE przeczekuje w przydroznej gospodzie/stacji (nie ryzykuje traktu w zabojczym mrozie). Bezpieczna. Przyjazd opozniony ~1-2 dni (gdy mroz zelzeje). Slowo doszlo (poslaniec/przydrozni). Mira ulzona ze nie na trakcie w tym. || 297-12-23 (rzut 18): jeszcze NIE dojechala - trakty po killing froscie oblodzone, jedzie wolno/ostroznie (madra, nie ryzykuje). Bezpieczna. Spodziewana ~jutro (12-24). Mira wypatruje z okna, niespokojna+niecierpliwa. || 297-12-24 RANEK: DOJECHALA (rzut przyjazdu 75) - dotarla rano do Bialego Portu po opoznieniu przez mroz. Siostra w koncu w drzwiach; reunion z Mira. Izba gotowa czeka. || 297-12-24 REUNION (rzut 65): dotarla zmeczona droga ale cala soba. Siostry w usciskach; radosc nad ciaza (wiedziala z listu, teraz na wlasne oczy - Mira zaczyna znac). Symona przywitala cieplo jak RODZINE ('mowilam ze masz we mnie siostre'). Od progu przejela dowodzenie po swojemu: Mira ma odpoczywac (zero dzwigania), obejrzala dom/izbe, zaczela matkowac. Wprowadzila sie do przygotowanej izby. Opieka nad ciaza CZYNNA (siostra przy Mirze). nast->40, zauf->13. TERAZ czlonek domu (na_scenie)."
+  },
+  {
+   "id": "kupiec_wharton",
+   "imie": "Wharton",
+   "wiek": 52,
+   "stan": "kupiec",
+   "zawod": "zamożny status-świadomy kupiec, lgnie ku dworowi; na Wielkim Targu 298-04-01 PUBLICZNIE wypuścił szept Roldana w twarz Symona ('jak tak szybko i tak czysto? musisz znać sztuczkę') — test czy plotka ma zęby, czy Symona da się zawstydzić",
+   "mieszka": "Bialy Port",
+   "nastawienie_do_gracza": 25,
+   "zaufanie": 5,
+   "wie_o_graczu": [
+    "298-04-01 Wielki Targ: rzucił Symonowi publiczny przytyk (echo plotki Roldana o nieuczciwym wzroście) przy świadkach — czeka na reakcję"
+   ]
   }
  ],
  "w_orbicie": [

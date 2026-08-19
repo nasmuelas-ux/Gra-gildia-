@@ -1154,6 +1154,15 @@
    "nastawienie_do_gracza": 70,
    "zaufanie": 40,
    "wie_o_graczu": "pracuje dla Symona, ufa mu (uczciwa dniówka, pan stoi z ekipą); dostał odpowiedzialny posterunek na widłach."
+  },
+  {
+   "id": "ulf_interior",
+   "imie": "Ulf",
+   "zawod": "człowiek Halvarda z głębi Północy (chłop/traper) — znawca królewskiego gościńca, przystanków, ziem Cerwynów; milczący, żylasty, oko jak u wilka",
+   "status": "298-04-28: poznany przy ognisku Dnia 1; jeździł gościńcem ku Winterfell nieraz — de-ryzykuje nogę lądową (obok Cassa). Zna gdzie sucho/gdzie wóz tonie wiosną.",
+   "nastawienie_do_gracza": 62,
+   "zaufanie": 35,
+   "wie_o_graczu": "pan, co siadł przy ich ognisku i pytał jak człowiek; wzbudził szacunek ludzi głębi."
   }
  ],
  "w_orbicie": [

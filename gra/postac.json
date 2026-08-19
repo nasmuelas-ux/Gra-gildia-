@@ -12,7 +12,7 @@
  "zmeczenie": 2,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 787,
+  "jelenie": 793,
   "smoki": 0
  },
  "dobytek": [
@@ -28,8 +28,8 @@
   "Dzban dobrego arborskiego (dar Aldousa na nowy dom, 09-07)"
  ],
  "reputacja": {
-  "port": 32,
-  "schody_zamkowe": 38,
+  "port": 35,
+  "schody_zamkowe": 40,
   "cech_pisarzy": -6,
   "wiara": 95,
   "zamek": 24,
@@ -158,7 +158,7 @@
   "walka": 51,
   "prawo": 209,
   "retoryka": 136,
-  "czytanie_ludzi": 250,
+  "czytanie_ludzi": 251,
   "rzemioslo": 4,
   "jezyki": 75,
   "spryt_uliczny": 132,

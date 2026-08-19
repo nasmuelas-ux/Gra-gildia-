@@ -10,7 +10,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-04-20 RANEK · wiosna (298) - Północ wyszła z zimy
+- **Data:** 298-04-20 POPOŁUDNIE · wiosna (298) - Północ wyszła z zimy
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
@@ -52,6 +52,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - Ogon rat za skład: ~100 jel do spłaty przez najbliższe miesiące pod czysty pasywny (~90/mies). Ondrew (holding syna).
 - Skład wyposażony (298-04-05): meble/stanowiska (każdy urządza swoje=godność+własność), profesjonalne zestawy narzędzi dla całego zespołu (jakość+lojalność), BIBLIOTECZKA z księgami do nauki (rachunki/prawo/notacje/handel) — 'mała Cytadela', dom handlowy co się UCZY (Jory rośnie jak Symon rósł). Koszt ~110 jel. Inwestycja w jakość/pojemność/lojalność.
 - OTWARTY DŁUG LORDA: za komisję ceł (Helman, zima 298) Symon dostał standing/elewację, NIE grosz — a komisja odzyskała lordowi grube sumy. Konkretna nagroda należna, do domknięcia tactful (okazja: rozmowy o finansowaniu królewskiego udziału — 'panie, została jeszcze tamta sprawa').
+- Glejt lorda Wymana (298-04-20): list żelazny 'na potrzebę Korony ku Winterfell' — otwiera bramy/składy na ziemiach Manderlych + prawo wezwania chorążych lorda do pomocy. Uzupełniony: list lorda do Winterfell (Stark/maester Luwin) + list polecający do rodu Cerwyn (polecenie, NIE rozkaz — Cerwyn słucha Winterfell). GRANICE: lord nie rozkaże Starkowi ani jego drogom/bramie.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))

@@ -1322,7 +1322,8 @@
    "id": "wenture_papiernia_wodna",
    "stan": "ZALĄŻEK (298-02-03): Theomore ujawnił wiedzę o wyrobie papieru ze szmat + młynie papierniczym na napęd wodny. Przewaga: papier tańszy od pergaminu w skali, szmata tania/wszędzie, woda za darmo po zbudowaniu koła. WYMAGA: woda ze spadkiem (młyn/struga+koło), kapitał na stępory+kadzie, WIELE PRÓB nim miazga równa i arkusz nie pęka. Horyzont: nie wiosna nawet — dłuższy build. Firewall czysty.",
    "nastepny_krok": "pożyczyć/przepisać zeszyt Theomore'a; zwiadować dostęp do wody z spadkiem; próby w małej skali",
-   "priorytet": "strategiczny/długi"
+   "priorytet": "strategiczny/długi",
+   "synergia_mira": "298-04-05: nowy skład (obszerne suche przyziemie) + skrawki lniane Miry z sukna (dziś marnowane) = możliwa synergia papierni pod jednym dachem. 'Twój papier, mój len, jeden dach.' Horyzont daleki, ale grunt (dosł.) jest."
   },
   {
    "id": "siedziba_polaczonej_faktorii",

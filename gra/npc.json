@@ -87,8 +87,8 @@
     "konkurencja z drugiego konca targu",
     "poborca cechowy"
    ],
-   "nastawienie_do_gracza": 85,
-   "zaufanie": 30,
+   "nastawienie_do_gracza": 88,
+   "zaufanie": 34,
    "wie_o_graczu": [
     "pisze tanio",
     "obcy, uczony",
@@ -123,7 +123,7 @@
     "297-03-06 ZMIERZCH (rzut 74): Symon wrocil PO targu (nauka odrobiona - poza szczytem) - i teraz zaiskrzylo. Wenda zmeczona ale rozluzniona, zwija stragan, ma czas. Ciepla, prawdziwa rozmowa. Pomoc zbyla ('dam rade'), ale UJETA szczera pytaniem (nie litosc - docenila). PULS DOLU wlasciwie odczytany: dol solidny za Symonem (imie twarde-dobre), biedota liczy na wiosne/powrot zeglugi. Cieply beat rodzinny - Bess i Dake dobrze. nast 43->47, zauf +1."
    ],
    "rok_urodzenia": 253,
-   "nota": " || 297-12-27 (rzut 25): Symon na targu rybnym - ciepla, gruntujaca wizyta. Wenda i lud przywitali go jak swojego (grunt u dolu MUREM: czlowiek co pochowal Nan, karmi ubogich, dowozi w mroz - baza go kocha). Wenda pofukala ('jadles? chudy'), nakarmila okiem/plotka. Ceny CALM (post-frost stabilizuje sie, brak arbitrazu big). Drobny intel tylko (nic grubego). Grounding>zysk. spryt praktyka.",
+   "nota": " || 297-12-27 (rzut 25): Symon na targu rybnym - ciepla, gruntujaca wizyta. Wenda i lud przywitali go jak swojego (grunt u dolu MUREM: czlowiek co pochowal Nan, karmi ubogich, dowozi w mroz - baza go kocha). Wenda pofukala ('jadles? chudy'), nakarmila okiem/plotka. Ceny CALM (post-frost stabilizuje sie, brak arbitrazu big). Drobny intel tylko (nic grubego). Grounding>zysk. spryt praktyka. | 298-06-20: Symon (bez grosza-to by obrazilo) wzial jej dlonie: 'przyprowadzilas Gerde, jestem twoj do konca zycia'. Wiez rodzinna zaciesniona.",
    "kanal_intel": "298-06-15: Bran (reka Symona) poprosil ja o ucho przy ziemi ws. skupu dlugow/obcego grosza w porcie - stały niewidzialny feed intelu przez zaufany proxy."
   },
   {
@@ -148,7 +148,7 @@
     "ze go ominie lepsza fucha"
    ],
    "nastawienie_do_gracza": 100,
-   "zaufanie": 62,
+   "zaufanie": 68,
    "wie_o_graczu": [
     "pije z nim czasem piwo",
     "czyta mu listy od brata z Siostr",
@@ -203,7 +203,7 @@
     "297-03-06 (rzut 87): cieply reconnect po ~18 dniach - Bran kwitnie jako dozorca. WESELE Z ALYS: podal konkretna date - na WIOSNE po odwilzy, na DZIEN MATKI w przyszlym miesiacu (~297-04-07). BONUS: Bran POPROSIL Symona, by byl czescia wesela - swiadek/zeby spisal-odczytal slowa (Symon=pisarz) i stanal przy nim. Dla Symona (kiedys bez nikogo w miescie) proszony na wesele = marker PRZYNALEZNOSCI. Wzruszajacy, ludzki moment. nast 66->69."
    ],
    "rok_urodzenia": 274,
-   "nota": " || 297-12-19 WIECZOR (rzut 73): ciepla ludzka wizyta po powrocie z doliny. Bran kwitnie jako dozorca - kamieniczka mieli spokojnie (lokatorzy Jonna/Osric/Hal placa, ogrodek, izby cale), relief-logistyka (dowoz do drzwi) idzie mu gladko, Alys przy nim. Prosta duma czlowieka co ma wlasny kat i robote. Dwoch ludzi z niczego (Symon swiezo z 3. wezla doliny, Bran z tragarza w dozorce) przy kuflu. Wiez glebnie.",
+   "nota": " || 297-12-19 WIECZOR (rzut 73): ciepla ludzka wizyta po powrocie z doliny. Bran kwitnie jako dozorca - kamieniczka mieli spokojnie (lokatorzy Jonna/Osric/Hal placa, ogrodek, izby cale), relief-logistyka (dowoz do drzwi) idzie mu gladko, Alys przy nim. Prosta duma czlowieka co ma wlasny kat i robote. Dwoch ludzi z niczego (Symon swiezo z 3. wezla doliny, Bran z tragarza w dozorce) przy kuflu. Wiez glebnie. | 298-06-20: Symon podziekowal osobno+przy ludziach ('dogoniles to co ocalilo Mire, nie wiem co bym bez ciebie') + dodatek do zoldu. Bran uhonorowany publicznie.",
    "zadanie_intel": "298-06-15: Symon wyslal go do WENDY jako cicha reka do jej sieci - ma prosic po sasiedzku by trzymala ucho (kto skupuje dlugi/czyje slupy/skad obcy grosz) i przekazywala. Niewidzialny kanal intelu Symon<-Bran<-Wenda (firewall). Wieści zaczna kapac."
   },
   {
@@ -1125,8 +1125,8 @@
    "wiek": 46,
    "stan": "mieszczka",
    "zawod": "starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczka) - przyjechala na slub",
-   "nastawienie_do_gracza": 46,
-   "zaufanie": 27,
+   "nastawienie_do_gracza": 49,
+   "zaufanie": 30,
    "ostatni_kontakt": "298-04-22: Symon powiedział jej, że wyjeżdża na tygodnie do Winterfell, Mira może rodzić bez niego. Rhona (strażniczka, już matkuje ciąży) przyjęła twardo ale nie wrogo: 'widziałam jakiś przez rok — nie łowca co porzuca; jedź robić swoje, JA JEJ PILNUJĘ dniem i nocą, rodzić będzie z Marną i ze mną przy głowie nie sama. Ale wróć do mojej siostry cały, bo cię i spod Winterfell wyciągnę'. = kin/obecność/głowa przy porodzie.",
    "wie_o_graczu": [
     "297-10-11: poznala Symona przed slubem. CZUJNA STRAZNICZKA siostry (Mira grzebala meza i syna, sama trzymala dom) - spytala wprost 'zona czy szczebel? jak zajdziesz wyzej wdowa moze ci ciazyc'. Symon odpowiedzial prawda (dom nie dziedzic; umowa=autonomia Miry wpisana; gwiazda dzielona) - zarejestrowala nie ustapila: 'ladnie mowisz, zobacze czy tak robisz, bede patrzec, nie mam nikogo procz niej'. Do wygrania czynem/latami, nie slowem. Nie wrogosc - sluszna ochrona.",
@@ -1230,9 +1230,9 @@
    "imie": "Gerda",
    "przydomek": "stara",
    "zawod": "wiekowa baba z Rybiego Zaulka - nieformalna akuszerka, 40 lat rak przy rodzacych",
-   "nastawienie_do_gracza": 55,
-   "zaufanie": 25,
-   "nota": "298-06-19 noc: przyszla z Wenda do porodu Miry, gdy dyplomowanej Marny brak (zajeta innym porodem). Doswiadczone rece, nie dyplom. Sieć Wendy oddala co rynek nie sprzedal."
+   "nastawienie_do_gracza": 70,
+   "zaufanie": 40,
+   "nota": "298-06-19 noc: przyszla z Wenda do porodu Miry, gdy dyplomowanej Marny brak (zajeta innym porodem). Doswiadczone rece, nie dyplom. Sieć Wendy oddala co rynek nie sprzedal. | 298-06-20: Symon hojnie obdarowal+uhonorowal (trzymala linie 40 latami rak nim Marna dobiegla). Miejsce w jego wdziecznosci na zawsze."
   }
  ],
  "w_orbicie": [
@@ -1275,7 +1275,7 @@
    "id": "corka_wendy_mella",
    "imie": "Mella",
    "zawod": "corka Wendy na wydaniu",
-   "nastawienie_do_gracza": 1
+   "nastawienie_do_gracza": 6
   },
   {
    "id": "wnuk_serli_tom",

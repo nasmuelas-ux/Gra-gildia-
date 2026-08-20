@@ -517,8 +517,8 @@
     "nauczanie liter poza kontrola Wiary",
     "herezje z Wolnych Miast w porcie"
    ],
-   "nastawienie_do_gracza": 97,
-   "zaufanie": 68,
+   "nastawienie_do_gracza": 100,
+   "zaufanie": 71,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
     "dobra, pewna reka do pisma",
@@ -629,7 +629,8 @@
     "298-03-31 Dzień Matki: Symon służył MIMO dworskiego szeptu (nie schował się ze wstydu) — obecność sama zbija oszczerstwo ('fałszywy? ten co nam listy pisze za darmo?'). Owen: 'przyszedłeś gdy inny by się schował — to właśnie widzą, rób tak dalej'. Zbroja Wiary kuje się dalej gdy najbardziej potrzebna. Wiara 94→95.",
     "298-04-07 Dzień Matki: służba w cieniu wieści o śmierci Jona Arryna. Symon wysłuchał PULSU DOŁU — ubodzy czują wielką politykę jako lęk o cenę chleba ('panowie się gryzą, nam ceny rosną'). Owen: 'ty patrz na ceny, ja na dusze; jak przyjdzie niepokój, ubodzy oberwą pierwsi, relief i twoje pióro zaważą podwójnie'. Zbroja Wiary +cegła. Wiara 95→96.",
     "298-04-21: Symon wyznał mu dylemat Winterfell-vs-poród; Owen dał miarę 'osłania czy porzuca?' zamiast rozkazu. Więź duchowa mocna.",
-    "298-06-04: wspial sie (czlowiek rady lorda) NIE tracac siebie - Owen ugruntowal go, przestrzegl przed proba wladzy, przypomnial tarcze slabych/korzenie. Wiez duchowa na szczycie."
+    "298-06-04: wspial sie (czlowiek rady lorda) NIE tracac siebie - Owen ugruntowal go, przestrzegl przed proba wladzy, przypomnial tarcze slabych/korzenie. Wiez duchowa na szczycie.",
+    "298-06-07 (Dzien Matki, rzut 78): Symon sluzyl w sepcie pisząc dla niepiśmiennych ubogich. Cicho obronil mloda wdowe LEDE - wlasciciel izby oszukiwal ja falszywym 'dlugiem' (suma dopisana swiezym atramentem na pokwitowaniu); Symon przeczytal, spisal jej wlasciwy odpis i nauczyl co mowic - BEZ rozglosu, bez swojego nazwiska (tarcza nie sztandar). Owen to widzial. POJEDNANIE/POTWIERDZENIE: 'balem sie ze urosniesz w gore i przestaniesz patrzec w dol - a ty rosniesz i dalej patrzysz w dol'. Owen stanal po jego stronie, ochrzci dziecko Z RADOSCIA. Relacja mocno ocieplona."
    ],
    "dlugi": [],
    "ostatni_kontakt": "298-06-04: Symon wrocil z Winterfell - rozliczenie moralne. Symon: wrocil czysty/wiekszy (danina karmi POLNOC nie krola=oslona; kradziez oddal cicho bez donosu/krzywdy; przed Starkiem NIE chwytal zjednal soba; nie prosil lorda o zaplate; WROCIL w pore do Miry=nie porzucil gniazda). OWEN potwierdza: stanales po SWIETEJ stronie miary ('ambicja co karmi glodnych i wraca do zony jest swieta; wrociles wiekszy bo nie kupiles standingu dusza'). PRZESTROGA: teraz trudniejsza proba=WLADZA (czlowiek rady) - trzymac tarcze slabych gdy juz nie musisz, pamietac korzenie (Rybi Zaulek/stolik pod Focza) 'kto pamieta nie upadnie'. Ochrzci dziecko (porod lada dzien, ojciec w progu nie pod Winterfell).",
@@ -1206,6 +1207,14 @@
    "zaufanie": 45,
    "wie_o_graczu": "posel Manderlych co przywiozl danine czysto+slowo godnie, nie plaszczyl sie; Luwin recza za niego (uczciwy z glowa); szczere wspolczucie za Brana poruszylo go. Zapamietal Symona zyczliwie.",
    "dla_lorda_wymana": "Stark: 'nie zapomni wiernosci Manderlych' - wiez umocniona; kazal przekazac Wymanowi ze slyszal jego slowo. Symon wykonal poselstwo bez skazy."
+  },
+  {
+   "id": "leda_wdowa",
+   "imie": "Leda",
+   "zawod": "mloda wdowa z dwojgiem dzieci (niemowle+male), uboga, niepismienna",
+   "nastawienie_do_gracza": 70,
+   "zaufanie": 30,
+   "nota": "298-06-07: Symon cicho obronil ja w sepcie - wlasciciel izby oszukiwal falszywym 'dlugiem' (dopisana suma). Symon spisal wlasciwy odpis+nauczyl co mowic, bez rozglosu. Wdzieczna, choc nie do konca rozumie mechanike. Potencjalny cichy wezel wsrod ubogich/reputacja tarczy slabych."
   }
  ],
  "w_orbicie": [

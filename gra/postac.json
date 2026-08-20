@@ -12,7 +12,7 @@
  "zmeczenie": 2,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 483,
+  "jelenie": 433,
   "smoki": 0
  },
  "dobytek": [
@@ -215,7 +215,8 @@
   "backhaul_futra_skory": "298-05-17: kupiony ladunek startowy backhaul (futra/skory/welna od polnocnych producentow, targ wizyty krola, uczciwa cena) za ~120 jel — na wolne barki w dol rzeki (z pradem=tanio); sprzedaz/eksport w Bialym Porcie przez Neste=marza. Pierwszy krok stalego kanalu BP<->Winterfell w druga strone (prowiant w gore, polnocne dobra w dol). | SPRZEDANE ~06-03 w porcie/eksport Nesta za ~200 jel (inwestycja 120 -> +80 zysk); venture kanalu zwrocil sie od razu.",
   "list_winterfell_do_wymana": "298-05-21: LIST z Winterfell do lorda Wymana (Luwin spisal, Eddard skinal) - kurtuazja: podziekowanie za danine + Stark pamieta wiernosc Manderlych. DOWOD NA PISMIE ze poselstwo wypelnione bez skazy. Zawiezc lordowi = zloto dla Wymana + kamien wegielny standingu Symona.",
   "model_pasywny_rekalibracja_0604": "298-06-04 REKALIBRACJA (audyt Symona na wskazanie gracza - plaski '~+70 netto' byl zanizona estymata): (1) UDZIAL WZROSL - mostek refi 300 jel + sukcesja Nesty na pryncypala zwiekszyly staly udzial Symona w kantorze/faktorii ('dam mostek to rosnie moj udzial'); bierze wiekszy kawal plonu. (2) SKALA WZROSLA - restrukturyzacja/sklad-siedziba/warrant prowiantowy/kanal backhaul BP-Winterfell nascentny = wiecej wolumenu/brutto. (3) RETAINERY sa w pasywie (Aurane+faktoria+blok-rdzen) - potwierdzone. (4) AUDYTY (Warstwa B) slusznie ZERO przez miesiac w drodze (nie brak, wraca teraz przy biurku). (5) PAPIERNIA = wenture NIE strumien (mlyn namierzony, NIE kupiony/zbudowany, 0 przychodu; przyszly projekt kapitalowy, poprawnie nie w bilansie). (6) KOSZTY rosly ze skala (wage line: Fenn/Jory/Wick/Corliss/Deman/Pate/Hendry + utrzymanie skladu + raty Ondrewa + household + relief) - urealnione. WYNIK: netto pasywne go-forward ~+105 jel/mies (bylo ~+70). Korekta wstecz: 05-01 i 06-01 zanizone (+70 zamiast ~+105) -> skumulowane konta domowe za 2 mies ~+210 jel (nie +140), kapital firmy/Symona u Nesty.",
-  "konta_domowe_saldo": "~+210 jel skumulowane pasywne (05-01+06-01 urealnione ~+105/mies) na kontach domowych/firmie pod reka Nesty - kapital Symona, do dyspozycji/reinwestycji."
+  "konta_domowe_saldo": "~+210 jel skumulowane pasywne (05-01+06-01 urealnione ~+105/mies) na kontach domowych/firmie pod reka Nesty - kapital Symona, do dyspozycji/reinwestycji.",
+  "kapital_ambasada_halvard": "~50 jel florda w drodze z Fennem - skup bursztynu+arrha (kapital wdrozony, staje sie towarem/relacja); wynik ~3-4 tyg"
  },
  "licznik_uzyc": {
   "audyt": 11,

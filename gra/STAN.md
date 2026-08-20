@@ -111,7 +111,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **stary Cass** (cass_wozacz_interioru) — woźnica-faktor interioru (dolina Białego Noża + królewski go · nast 63
 - **Rennick** (rennick_brygadzista) — brygadzista z Zaułka (ekipa portowa Symona), za którego ręcz · nast 70
 - **Ulf** (ulf_interior) — człowiek Halvarda z głębi Północy (chłop/traper) — znawca kr · nast 66
-- **Luwin** (maester_luwin) — maester Winterfell (dwór Starków) — uczony, rządzi składami/ · nast 64
+- **Luwin** (maester_luwin) — maester Winterfell (dwór Starków) — uczony, rządzi składami/ · nast 70
 - **Roggen** (szafarz_roggen) — starszy szafarz zachodnich składów Winterfell (sługa od lat, · nast nieznane (nie kontaktowani; Symon obserwuje z boku)
 
 ## ZEGARY (odliczaja)

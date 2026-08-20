@@ -87,7 +87,7 @@
     "konkurencja z drugiego konca targu",
     "poborca cechowy"
    ],
-   "nastawienie_do_gracza": 82,
+   "nastawienie_do_gracza": 85,
    "zaufanie": 30,
    "wie_o_graczu": [
     "pisze tanio",
@@ -1224,6 +1224,15 @@
    "nastawienie_do_gracza": 78,
    "zaufanie": 40,
    "nota": "298-06-07: Symon cicho obronil ja w sepcie - wlasciciel izby oszukiwal falszywym 'dlugiem' (dopisana suma). Symon spisal wlasciwy odpis+nauczyl co mowic, bez rozglosu. Wdzieczna, choc nie do konca rozumie mechanike. Potencjalny cichy wezel wsrod ubogich/reputacja tarczy slabych. | 298-06-14 (Dzien Matki, rzut 78): WROCILA podziekowac - spokojniejsza. Odpis+2 zdania Symona ZADZIALALY: wlasciciel widzac ze zna prawde na pismie ODPUSCIL, zostala z dziecmi pod dachem. Tarcza sprzed tygodnia TRZYMA. 'Matka mi was zeslala'. Dowod ze cicha dobroc niesie skutek. nast+8/zauf+10."
+  },
+  {
+   "id": "gerda_akuszerka_zaulek",
+   "imie": "Gerda",
+   "przydomek": "stara",
+   "zawod": "wiekowa baba z Rybiego Zaulka - nieformalna akuszerka, 40 lat rak przy rodzacych",
+   "nastawienie_do_gracza": 55,
+   "zaufanie": 25,
+   "nota": "298-06-19 noc: przyszla z Wenda do porodu Miry, gdy dyplomowanej Marny brak (zajeta innym porodem). Doswiadczone rece, nie dyplom. Sieć Wendy oddala co rynek nie sprzedal."
   }
  ],
  "w_orbicie": [

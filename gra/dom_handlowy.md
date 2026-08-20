@@ -22,7 +22,7 @@ _Kwoty miesięczne = SZACUNKI do wytrowania w Dniu Bilansu. Urealnione 06-22 na 
 | **Hendry** | drugi strażnik (b. żołnierz) | **~5–6** |
 | **Wick** | klerk, prowadzi ramię kredytu/ubezpieczeń | ~5 + udział z ramienia |
 | **Tam** | junior → handlarz (wór obrotowy) | ~4 + udział z obrotu |
-| **Fenn** | ręka wykonawcza (obecnie ambasada Halvard) | ~4 (+ koszt misji) |
+| **Fenn** | **agent-sprzedawca / głowa handlowa** (pozyskuje zlecenia, negocjuje, brokering) — OBECNIE na ambasadzie Halvard (akwizycja źródła) | ~4–5 (+ koszt misji) |
 | **Deman** | klerk-analityk (intel/dane) | ~4 |
 | **Jory** | ręka na próbie | ~3 |
 | **Cass** | kapitan barki (arteria) | żołd/rejs + udział w kursie |
@@ -31,6 +31,11 @@ _Kwoty miesięczne = SZACUNKI do wytrowania w Dniu Bilansu. Urealnione 06-22 na 
 **Suma płac/udziałów zespołu (szac.): ~+60–95 jel/mies** (płace hojne = lojalność; straż + Bran + magazynier ważą realnie).
 
 _Domena magazynu: **Pate** trzyma skład + składowanie zimowe kupców (strumień #12); pod nim porządek magazynowy, inwentarz, rygor._
+
+**AGENT-SPRZEDAWCA / pozyskiwanie zleceń — OBSADZONY (Fenn), obecnie w terenie:**
+- Rola żywa: **Fenn** poluje na nową robotę — sprzedaje audyty, farmuje brokering, zbiera drobne usługi (kancelaria/doradztwo), chodzi po kupcach z ofertą.
+- **TERAZ czasowo nieobecny lokalnie** — Fenn wysłany jako **ambasada do Halvarda** (największa akwizycja: źródło futer/bursztynu nad Białym Nożem). Więc lokalny pipeline usług chwilowo **niedoglądany**, aż wróci (~lipiec) — nie martwy, tylko oddelegowany do jednej wielkiej sprawy.
+- **Wniosek:** gdy Fenn wróci, wznawia pozyskiwanie lokalne; przy skali domu wart rozważenia **drugi agent** (żeby akwizycja nie gasła, gdy jeden jedzie w teren).
 
 ---
 
@@ -46,6 +51,7 @@ _Domena magazynu: **Pate** trzyma skład + składowanie zimowe kupców (strumie�
 5. **Faktoring** (zaliczka na należności) → rozwijane, **~+8–20**
 
 **USŁUGI — monetyzacja umysłu i sieci (mnogość, wysokomarżowe):**
+_⚠️ CHWILOWO NIEDOGLĄDANE LOKALNIE — agent-sprzedawca (Fenn) w terenie (ambasada Halvard); lokalny pipeline usług wznowi się po jego powrocie (~lipiec). Rozważyć 2. agenta, by akwizycja nie gasła._
 6. **Audyty ad-hoc na sprzedaż** — Hal + Symon + klerkowie (reputacja "liczą jak z Cytadeli") → **~+20–45**
 7. **Brokering / pośrednictwo** — dom kojarzy strony (interior↔port↔Braavos/Gulltown/zamek), **prowizja** od transakcji i frachtu → **~+30–65**
 8. **Sprzedaż dostępności / monetyzacja sieci** — pojemność magazynowa, kontakty, standing, "wejście" do kanałów → **~+15–40**

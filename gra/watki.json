@@ -1520,9 +1520,10 @@
   {
    "id": "obrona_kolodziejow_lichwiarz",
    "tytul": "Tarcza: obrona kolodziejow przed lichwiarzem (debt-shark)",
-   "status": "OTWARTY (298-06-12) - Symon zobowiazal sie pomoc",
+   "status": "OTWARTY/PILNY (298-06-12) - forensyka: brak taniej wygranej, wezwanie na dniach",
    "opis": "298-06-12: obcy lichwiarz SKUPUJE weksle wyplukanych zima kolodziejow Borena, dlawi (splata albo warsztat); 2 braci drza o kowadlo. METODA=Aldous (wykup dlugu jako hak po warsztat, nie po grosz). Symon obiecal: (1) obejrzec instrumenty dlugu (szczelne? furtka?), (2) relief-siec, (3) playbook obrony BLOKIEM (nie samotny grosz), 'pokaz weksle nim ktos podpisze pod presja'. FIREWALL-CAUTION: 'obcy lichwiarz' moze byc orbita ktorej Symon sam sie boi (Antaryon?) - jeszcze NIE wiadomo kto stoi za wekslami; isc OSTROZNIE. Tarcza slabych + najstarszy strach Symona obrocony w bron. Synergia: stala robota arterii (sanie) = kotwica trzymajaca braci z dala od haka.",
-   "nastepny_krok": "Obejrzec weksle 2 zagrozonych braci (instrument forensics: cesja/warunki/furtka); ustalic dyskretnie KTO skupuje (firewall-ostroznie); zawiazac obrone blokiem+relief nim ktos podpisze pod presja."
+   "nastepny_krok": "PILNE: (1) zawiazac OBRONE BLOKIEM - wykup/refi weksli 2 braci ty+cech+relief (NIE Symon sam=firewall) pelna cena nim padnie wezwanie; (2) dac NESCIE trop kredytu by wysledzila REKE (nie z papieru - jak Aldous), ostroznie; (3) FIREWALL: ani slowa wiazacego Symona, zakladac ze to moze byc orbita; (4) zegar - wezwanie na dniach.",
+   "forensyka_0612": "298-06-12 (rzut 2): weksle SZCZELNE - cesja czysta, warunki dotrzymane, odsetki tuz pod prawem, zadnej furtki/dopisanej sumy/zlamanego warunku. Brak taniego unieważnienia -> obrona = KAPITAL (wykup/refi blokiem pelna cena), nie spryt (jak Aldous, front nie do zbicia). Slad URWANY profesjonalnie (cutout/nominat+prawnicza zaslona) - z papieru NIE wiadomo kto stoi. RED FLAG: wiejski lichwiarz tak nie pracuje - ZORGANIZOWANE, pachnie metoda Aldousa -> MOZE ORBITA (firewall na czerwono, zakladac najgorsze). Jeden weksel ma DATE WEZWANIA na dniach - presja realniejsza niz myslano."
   }
  ]
 }

@@ -1176,6 +1176,14 @@
    "zaufanie": 28,
    "wie_o_graczu": "pan Tally z Białego Portu, człowiek lorda Wymana (glejt); skryba co 'liczy jak z Cytadeli' (rachunek ryzyka przeszedł łańcuchem maesterów); ofiarował ład w służbie Manderlych, nie za grosz. Na próbie (zachodnie tally).",
    "potencjal": "sojusznik/patron uczony + kanał ku Starkowi i uznaniu (Cytadela). Firewall: trzymać braavijski cień z dala."
+  },
+  {
+   "id": "szafarz_roggen",
+   "imie": "Roggen",
+   "zawod": "starszy szafarz zachodnich składów Winterfell (sługa od lat, powszechnie ufany) — SILNY PODEJRZANY o kradzież prowiantu",
+   "status": "298-05-15: pasywnie namierzony (rzut 36) jako silny podejrzany — przez jego pieczęć idą cedu­ly-widma, władza+zaufanie+ZBYT SPOKOJNY w chaosie. ALE brak twardego dowodu NA NIEGO (dowód jest na kradzież, nie na człowieka). Prawdopodobnie NIE sam: ręka zewnętrzna (paser) + możliwa osłona z góry; ring/głębia nienazwane. Tarcza: 'stary Roggen zawsze był pewny' — trudno tknąć bez żelaza na osobę.",
+   "nastawienie_do_gracza": "nieznane (nie kontaktowani; Symon obserwuje z boku)",
+   "wie_o_graczu": "nic — nie wie, że ktoś patrzy (Symon niezauważony)"
   }
  ],
  "w_orbicie": [

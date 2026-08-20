@@ -1478,13 +1478,13 @@
   {
    "id": "kanal_winterfell_backhaul",
    "tytul": "Kanal Winterfell - stala arteria backhaulu",
-   "status": "W BUDOWIE - proba, nie stala umowa (rzut 23 z Torsenem)",
-   "stan": "298-06-05: Symon ruszyl kucie STALEJ arterii backhaulu (Polnoc->Bialy Port->Braavos). Wezly: Torsen (nast85/zauf29, faktor Halvard u zrodla nad Bialym Nozem), Nesta (re-eksport), Luwin (dwor/sklady), Cass/Ulf/Donnal (droga). Rzut 23: stala umowa NIE domknieta. Torsen chce, ale wskazal 3 dziury do zasypania.",
+   "status": "W BUDOWIE - cena Nesty ZAMKNIETA, przeprojektowane na szlak DWUSTRONNY",
+   "stan": "298-06-05: Symon ruszyl kucie STALEJ arterii backhaulu (Polnoc->Bialy Port->Braavos). Wezly: Torsen (nast85/zauf29, faktor Halvard u zrodla nad Bialym Nozem), Nesta (re-eksport), Luwin (dwor/sklady), Cass/Ulf/Donnal (droga). Rzut 23: stala umowa NIE domknieta. Torsen chce, ale wskazal 3 dziury do zasypania. | 298-06-05 (rzut 83): Nesta dala cene - futro pokrywa koszt kursu (cienka marza, ale czysta na pustej nodze), bursztyn=zysk (3-4x, obrobiony wiecej). Re-eksport potwierdzony na pismie. INSIGHT Nesty: arteria DWUSTRONNA (w gore sol/zelazo/narzedzia/wino/plotno-len-Miry, w dol futro+bursztyn) = zarabia dwa razy, nie potrzebuje glejtu.",
    "do_zrobienia": [
-    "KREGOSLUP TRANSPORTOWY: skromny POWTARZALNY kurs (mniejsze barki, bez eskorty/glejtu), plynacy bo sie oplaca - nie jednorazowa karawana krolewska",
-    "SLOWO HALVARDA: poznac/skorespondowac faktora u zrodla (nast0), dac mu pewnosc odbioru by zbieral futra/bursztyn na zapas pod powrot",
-    "CENA NESTY: potwierdzic apetyt i cene re-eksportu futer/bursztynu do Braavos = czy jest marza",
-    "PROBNA PARTIA: Torsen zgodzil sie puscic jedna probna (opal + co Halvard ma) na najblizszym powrocie; stala umowa gdy kurs 'wraca sam'"
+    "[ZROBIONE] Cena Nesty - futro pokrywa kurs, bursztyn zysk, re-eksport potwierdzony",
+    "KREGOSLUP (nowy ksztalt): szlak DWUSTRONNY - dobrac towar POLUDNIOWY w gore (sol/zelazo/narzedzia/wino/plotno) po co interior tesknie; potem zaprojektowac skromny powtarzalny kurs",
+    "SLOWO HALVARDA: poznac/skorespondowac faktora u zrodla (nast0), pewnosc odbioru by zbieral futra+bursztyn na zapas; kto finansuje skup z gory",
+    "PROBNA PARTIA: Torsen zgodzil sie na jedna probna na najblizszym powrocie; stala umowa gdy kurs wraca sam"
    ]
   }
  ]

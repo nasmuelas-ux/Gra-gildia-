@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 203 jeleni + 1 mied + 0 smokow
+- **Wolne:** 83 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -60,6 +60,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-04-27: tajne zlecenie lorda — być okiem/uchem na dworze królewskim w Winterfell (kto z kim, intrygi, co wisi w powietrzu), zdać relację po powrocie. Zbieżne z nadchodzącą wielką grą.
 - 298-05-01 Dzień Bilansu (Symon w drodze): netto ~+70 jel pasywne (czynsze/retainery/odsetki/plon firmy minus koszty) zaksięgowane na kontach domowych pod ręką Nesty — do odbioru/reconcile po powrocie (NIE w sakiewce podróżnej 203).
 - 298-05-02 (rada Ulfa): przed Starkiem/Północą (stare bogi) NIE grać południowca — prostota, dotrzymane słowo, wzrok w oczy; gładkość/komplementy/niski ukłon=fałsz dla Północy. Natura Symona (prosty, uczciwy, plain-dealing) = jego ATUT w Winterfell. 'Bądź jaki jesteś przy naszym ogniu.' (Kontrast do rady Theomore'a o Luwinie — ta o kulturze Północy ogółem.)
+- 298-05-17: kupiony ladunek startowy backhaul (futra/skory/welna od polnocnych producentow, targ wizyty krola, uczciwa cena) za ~120 jel — na wolne barki w dol rzeki (z pradem=tanio); sprzedaz/eksport w Bialym Porcie przez Neste=marza. Pierwszy krok stalego kanalu BP<->Winterfell w druga strone (prowiant w gore, polnocne dobra w dol).
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))

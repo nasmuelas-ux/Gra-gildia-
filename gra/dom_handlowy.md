@@ -59,7 +59,7 @@ _⚠️ CHWILOWO NIEDOGLĄDANE LOKALNIE — agent-sprzedawca (Fenn) w terenie (a
 10. **Doradztwo / structuring** — układanie transakcji, obrona długu, tender/protest (premium per zlecenie) → **~+10–30 (zmienne)**
 
 **WYTWÓRCZOŚĆ / MAJĄTKOWE:**
-11. **Pergaminy (partnerstwo Wat)** — pergamin/welin + atrament z galasu, sprzedaż cechowi pisarzy, Sepcie, dworowi (rosnący popyt piśmienny) → **~+12–28**
+11. **Pergaminy (partnerstwo Wat)** — pergamin/welin + atrament; ROŚNIE W PREMIUM (06-25): linia WELINU na dwor/Cytadele/Winterfell (kanaly Luwin/traktat), skory z arterii (surowiec sprzezony), 1 czeladnik/jakosc>hurt; welin=towar gornej nogi arterii → **~+18–40 (rosnaco)**
 12. **Składowanie zimowe** (magazyny Aurane) → sezonowe **~+8–20**
 13. **Kamieniczka** — czynsz 9 brutto, bez długu od 06-17 → **~+7 netto**
 14. **Draw wspólnika** (baza) → **+6**

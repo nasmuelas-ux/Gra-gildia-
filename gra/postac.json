@@ -9,10 +9,10 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
  "sytosc": 37,
- "zmeczenie": 8,
+ "zmeczenie": 10,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 83,
+  "jelenie": 283,
   "smoki": 0
  },
  "dobytek": [
@@ -210,9 +210,9 @@
   "refi_mostek_sukcesja": "298-04-24: mostek 100 jel na krok sukcesji Nesty na pryncypała (przyspieszenie refi/wygaszenia cienia Antaryona po dotknięciu firewalla od góry). Rośnie udział Symona w faktorii. Skarbiec NIE tknięty (rezerwa Miry/dziecka). Dług Antaryona=~90 smoków/18000 jel — nie do spłaty sakiewką; cień gaśnie przez sukcesję Nesty (tygodnie), którą ona domyka pod nieobecność Symona. | 298-04-24: DOPŁATA 200 jel ze skarbca (skarbiec 400->200). ŁĄCZNY mostek sesji = 300 jel. KOREKTA natury skarbca: to REZERWA SYMONA (rozdzielność majątkowa — Mira ma własne oszczędności + dom sukna, niezależna), NIE wspólna poduszka Miry; sięgnięcie po nią nie odsłania Miry/dziecka. Residualny cień wyraźnie mniejszy; udział Symona w faktorii rośnie mocniej. Wciąż nie zapieczętowane przed wyjazdem (wiąże mechanizm/podpisy, nie grosz) — powrót do cienia ~0.",
   "slowo_lorda_do_starka": "298-04-27: Symon niesie SŁOWO lorda Wymana do Eddarda Starka (pozdrowienie/szacunek wiernego chorążego, 'Biały Port stoi za Winterfell') — status posła lorda, nie tylko wozaka daniny. | SPEŁNIONE 298-05-16: Luwin przekaże słowo Wymana Eddardowi osobiście (najlepszy kanał, nie zginie) + poniesie imię Symona dobrze przed Starkiem. Osobistej audiencji brak (Ned pochłonięty przez króla); drzwi ledwie uchylone (Luwin wspomni jak luka).",
   "tajne_oko_lorda": "298-04-27: tajne zlecenie lorda — być okiem/uchem na dworze królewskim w Winterfell (kto z kim, intrygi, co wisi w powietrzu), zdać relację po powrocie. Zbieżne z nadchodzącą wielką grą.",
-  "bilans_konta_domowe": "298-05-01 Dzień Bilansu (Symon w drodze): netto ~+70 jel pasywne (czynsze/retainery/odsetki/plon firmy minus koszty) zaksięgowane na kontach domowych pod ręką Nesty — do odbioru/reconcile po powrocie (NIE w sakiewce podróżnej 203).",
+  "bilans_konta_domowe": "298-05-01 Dzień Bilansu (Symon w drodze): netto ~+70 jel pasywne (czynsze/retainery/odsetki/plon firmy minus koszty) zaksięgowane na kontach domowych pod ręką Nesty — do odbioru/reconcile po powrocie (NIE w sakiewce podróżnej 203). | 06-01 Dzien Bilansu (Symon w drodze): kolejne ~+70 jel pasywne na konta domowe pod reka Nesty.",
   "klucz_polnocy": "298-05-02 (rada Ulfa): przed Starkiem/Północą (stare bogi) NIE grać południowca — prostota, dotrzymane słowo, wzrok w oczy; gładkość/komplementy/niski ukłon=fałsz dla Północy. Natura Symona (prosty, uczciwy, plain-dealing) = jego ATUT w Winterfell. 'Bądź jaki jesteś przy naszym ogniu.' (Kontrast do rady Theomore'a o Luwinie — ta o kulturze Północy ogółem.)",
-  "backhaul_futra_skory": "298-05-17: kupiony ladunek startowy backhaul (futra/skory/welna od polnocnych producentow, targ wizyty krola, uczciwa cena) za ~120 jel — na wolne barki w dol rzeki (z pradem=tanio); sprzedaz/eksport w Bialym Porcie przez Neste=marza. Pierwszy krok stalego kanalu BP<->Winterfell w druga strone (prowiant w gore, polnocne dobra w dol).",
+  "backhaul_futra_skory": "298-05-17: kupiony ladunek startowy backhaul (futra/skory/welna od polnocnych producentow, targ wizyty krola, uczciwa cena) za ~120 jel — na wolne barki w dol rzeki (z pradem=tanio); sprzedaz/eksport w Bialym Porcie przez Neste=marza. Pierwszy krok stalego kanalu BP<->Winterfell w druga strone (prowiant w gore, polnocne dobra w dol). | SPRZEDANE ~06-03 w porcie/eksport Nesta za ~200 jel (inwestycja 120 -> +80 zysk); venture kanalu zwrocil sie od razu.",
   "list_winterfell_do_wymana": "298-05-21: LIST z Winterfell do lorda Wymana (Luwin spisal, Eddard skinal) - kurtuazja: podziekowanie za danine + Stark pamieta wiernosc Manderlych. DOWOD NA PISMIE ze poselstwo wypelnione bez skazy. Zawiezc lordowi = zloto dla Wymana + kamien wegielny standingu Symona."
  },
  "licznik_uzyc": {

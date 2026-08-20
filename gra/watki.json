@@ -1486,12 +1486,14 @@
     "[ZROBIONE] Cena Nesty - futro pokrywa kurs, bursztyn zysk, re-eksport potwierdzony",
     "[W DRODZE - AMBASADA] Zamiast samego listu: Fenn (mandat pisemny+zadatek ~50jel+swoboda targu) + Ulf (czlowiek Halvarda, most/poreka) + Garrick (straz) wyruszaja 06-06 nad Bialy Noz. Odprawa rzut 97 - koryguje poludniowa nute (elastyczny odbior 'biore ile zbierzesz', srebro na stole, sluchac najpierw). Wynik ~3-4 tyg, silnie sklania sie ku sukcesowi. To tez OKO na zrodlo.",
     "KREGOSLUP: szlak DWUSTRONNY - dobrac towar poludniowy w gore (sol/zelazo/narzedzia/wino/plotno-len-Miry); zaprojektowac skromny powtarzalny kurs",
-    "PROBNA PARTIA: Torsen - jedna probna na najblizszym powrocie; stala umowa gdy kurs wraca sam"
+    "PROBNA PARTIA: Torsen - jedna probna na najblizszym powrocie; stala umowa gdy kurs wraca sam",
+    "[W TOKU] Sol Harlona = up-leg balast; dogadac jego wylacznosc solnika + lead-time. Dobrac towar lekki-drogi na marze up-legu (sukno/plotno Miry/zelazo)."
    ],
    "inbound_oczekiwane": [
     "Powrot ambasady Fenn/Ulf z targiem u Halvarda - ~298-07-01/07, po odprawie rzut 97 sklania sie ku sukcesowi"
    ],
-   "blogoslawienstwo_lorda": "298-06-06: lord Wyman POBLOGOSLAWIL szlak (imie za plecami), ale KAPITAL/kile dopiero po dowodzie samofinansowania dwustronnego. Stala flota przedwczesna. Zima=sezonowosc do policzenia. Arteria = teraz tez instrument lorda."
+   "blogoslawienstwo_lorda": "298-06-06: lord Wyman POBLOGOSLAWIL szlak (imie za plecami), ale KAPITAL/kile dopiero po dowodzie samofinansowania dwustronnego. Stala flota przedwczesna. Zima=sezonowosc do policzenia. Arteria = teraz tez instrument lorda.",
+   "model_ekonomiczny": "298-06-06 DOMKNIETY (rzut 32 u Harlona): W GORE = SOL (balast co placi rejs, thin) + towar LEKKI-DROGI (sukno/plotno-len-Miry/zelazo/wino = marza up-legu). W DOL = FUTRO (placi rejs) + BURSZTYN (zysk). Szlak samofinansuje sie staplami dwustronnie, zarabia na bursztynie+drogim towarze w gore. To DOWOD ktorego zazadal Wyman - na papierze spiety, zostalo poplynac."
   }
  ]
 }

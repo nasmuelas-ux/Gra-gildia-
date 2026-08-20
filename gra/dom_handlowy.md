@@ -1,129 +1,121 @@
 # DOM HANDLOWY (Symon Tally + kantor Nesty) — KSIĘGA GŁÓWNA
 
 _Żywy rejestr kontrolowanych elementów. Stan: 298-06-22. Kurs: 1 jeleń = 100 miedziaków; 1 smok = 200 jeleni._
-_Kwoty miesięczne to SZACUNKI (szac.) do wytrowania w Dniu Bilansu. Skala: dom kupiecki o setkach jel obrotu/mies._
+_Skala: bogaty port White Harbor; dom kupiecki o wielu ramionach i mnogości usług (realia Westeros)._
+_Kwoty miesięczne = SZACUNKI do wytrowania w Dniu Bilansu. Urealnione 06-22 na pełną skalę + płace podniesione._
 
 ---
 
-## 1. PRACOWNICY / LUDZIE (org + koszt)
+## 1. PRACOWNICY / LUDZIE (org + koszt, płace PODNIESIONE)
 
-**Partnerzy (nie pensja — udział/własność):**
-- **Nesta** — pryncypał kantoru (od 06-15 wolna), współwłaściciel z Symonem. Nie koszt — partner.
-- **Hal** (młodszy wspólnik, na UDZIALE) — prowadzi egzekucję firmy, **robi i sprzedaje audyty**, dogląda juniorów. Bierze cząstkę zysku = koszt netto.
-- **Wat** — partner papierniczy (pergaminnik), autonomia. Nie pensja — partnerstwo.
-- **Mira** — niezależna (len/płótno, własna księga). Nie firma.
+**Partnerzy (udział/własność, nie pensja):**
+- **Nesta** — pryncypał kantoru (wolna od 06-15), współwłaściciel z Symonem.
+- **Hal** — młodszy wspólnik na UDZIALE; egzekucja firmy, **audyty na sprzedaż**, nadzór juniorów. Cząstka zysku = koszt netto.
+- **Wat** — partner papierniczy/pergaminowy (autonomia). Udział, nie pensja.
+- **Mira** — niezależna (len/płótno, własna księga).
 
-**Płatni (pensja + częściowo udział):**
+**Płatni (płace urealnione w górę — Symon płaci hojnie, to buduje lojalność):**
 | Kto | Rola | Koszt ~mies (szac.) |
 |---|---|---|
-| **Wick** | klerk, prowadzi ramię kredytu/ubezpieczeń | pensja ~4 + udział z ramienia |
-| **Tam** | junior → handlarz (wór obrotowy) | pensja ~3 + udział z obrotu |
-| **Fenn** | ręka wykonawcza (obecnie ambasada Halvard) | pensja ~3 (+ koszt misji) |
-| **Jory** | ręka na próbie | pensja ~2 |
-| **Deman** | klerk-analityk (desk jawnych danych / intel) | pensja ~3 |
-| **Bran** | **majordom-spinacz** (dom+kamieniczka+krytyczne zlecenia) | **~5** (+ izba + Alys + premie ad hoc) |
-| **Cass** | kapitan barki (arteria) | żołd/rejs + udział w zysku kursu |
-| **Garrick** | strażnik/steward bezpieczeństwa domu (b. serżant) | żołd ~3–4 |
-| **Hendry** | drugi strażnik (b. żołnierz) | żołd ~3–4 |
+| **Bran** | **majordom-spinacz** (dom+kamieniczka+krytyczne zlecenia) | **~8–10** (+ izba + Alys + premie) |
+| **Garrick** | strażnik/steward bezpieczeństwa (b. serżant) | **~5–6** |
+| **Hendry** | drugi strażnik (b. żołnierz) | **~5–6** |
+| **Wick** | klerk, prowadzi ramię kredytu/ubezpieczeń | ~5 + udział z ramienia |
+| **Tam** | junior → handlarz (wór obrotowy) | ~4 + udział z obrotu |
+| **Fenn** | ręka wykonawcza (obecnie ambasada Halvard) | ~4 (+ koszt misji) |
+| **Deman** | klerk-analityk (intel/dane) | ~4 |
+| **Jory** | ręka na próbie | ~3 |
+| **Cass** | kapitan barki (arteria) | żołd/rejs + udział w kursie |
 
-**Kontakty (nie płatni pracownicy):** Gowen (intake Nowego Zamku), Ulf (człowiek Halvarda), Halvard (faktor u źródła).
-
-**Suma płac/udziałów zespołu (szac.): ~+35–60 jel/mies** (rośnie ze skalą; strażnicy + Bran + juniorzy + udziały Hala/Cassa/Wicka/Tama).
+**Suma płac/udziałów zespołu (szac.): ~+55–90 jel/mies** (płace hojne = lojalność; straż + Bran ważą realnie).
 
 ---
 
-## 2. PRZYCHODY — kontrolowane elementy (do Symona, ~mies, szac.)
+## 2. PRZYCHODY — kontrolowane elementy (do Symona, ~mies, PEŁNA SKALA)
 
-**FILARY (niosą dom):**
-1. **Plon rotacji faktorii** — 400 jel obrót zboże-sól, plon per batch → **~+35–55**
-2. **Marża zamkowa** — drewno (największy filar) + prowiant + żelazo-okucia, per dostawa → **~+30–60**
+**FILARY:**
+1. **Plon rotacji faktorii** — 400+ jel obrót zboże-sól, plon per batch → **~+50–85**
+2. **Marża zamkowa** — drewno (największy filar) + prowiant + żelazo-okucia, per dostawa (sezon budowlany) → **~+50–90**
 
 **RAMIONA FINANSOWE:**
-3. **Ramię kredytu** — procent weksli (200 niezab. + 50 zab.), ~385 jel na ryzyku → **~+20–40 brutto**
-4. **Ramię ubezpieczeń (underwriting)** — skim składki z pool'u tranzytu → **~+8–20**
-5. **Faktoring** (zaliczka na należności) — potencjał, gdy uruchomiony → *(nowe, do rozwinięcia)*
+3. **Ramię kredytu** — procent weksli (200 niezab. + 50 zab. + weksel Aldousa) + mostki, ~385 na ryzyku → **~+30–55**
+4. **Underwriting / ubezpieczenie tranzytu** — skim składki z pool'u → **~+15–30**
+5. **Faktoring** (zaliczka na należności) → rozwijane, **~+8–20**
 
-**USŁUGI (monetyzacja umysłu i sieci) — dopisane 06-22:**
-6. **Audyty ad-hoc na sprzedaż** — Hal + Symon + klerkowie audytują klientom (nasza specjalność, reputacja "liczą jak z Cytadeli") → **~+10–25**
-7. **Brokering / pośrednictwo** — dom handlowy **kojarzy kupujących i sprzedających**, bierze prowizję od transakcji (zboże, drewno, sól, futra, fracht) → **~+10–30**
-8. **Monetyzacja sieci / sprzedaż dostępności** — sprzedajemy **dostęp**: pojemność magazynową, kontakty, standing, "wejście" do kanałów (zamek, Gulltown, Braavos, Winterfell) → **~+8–20**
-9. **Kancelaria/skryba** — pisma, umowy, listy (pierwotne rzemiosło, wciąż płaci) → **~+5–12**
-10. **Doradztwo / structuring** — układanie transakcji, obrona długu, tender/protest (jak sprawa kołodziejów/sukcesji) → **~zmienne, per zlecenie**
+**USŁUGI — monetyzacja umysłu i sieci (mnogość, wysokomarżowe):**
+6. **Audyty ad-hoc na sprzedaż** — Hal + Symon + klerkowie (reputacja "liczą jak z Cytadeli") → **~+20–45**
+7. **Brokering / pośrednictwo** — dom kojarzy strony (interior↔port↔Braavos/Gulltown/zamek), **prowizja** od transakcji i frachtu → **~+30–65**
+8. **Sprzedaż dostępności / monetyzacja sieci** — pojemność magazynowa, kontakty, standing, "wejście" do kanałów → **~+15–40**
+9. **Kancelaria / skryba** — pisma, umowy, listy → **~+10–20**
+10. **Doradztwo / structuring** — układanie transakcji, obrona długu, tender/protest (premium per zlecenie) → **~+10–30 (zmienne)**
 
-**MAJĄTKOWE / STAŁE:**
-11. **Składowanie zimowe** (magazyny Aurane, kupcy pod rygor firmy) → sezonowe, **~+5–15**
-12. **Kamieniczka** — czynsz 9 brutto, **bez długu od 06-17** → **~+7 netto**
-13. **Draw wspólnika** (baza) → **+6**
-14. **Udział retainerów** (Symona część) → **~+7**
-15. **1/3 netto z transakcji Symona źródłowanych** → **~+15–30**
-16. **Wór Tama (obrót)** — marża per cykl (1. cykl +18) → **~+10–25, młode**
+**WYTWÓRCZOŚĆ / MAJĄTKOWE:**
+11. **Pergaminy (partnerstwo Wat)** — pergamin/welin + atrament z galasu, sprzedaż cechowi pisarzy, Sepcie, dworowi (rosnący popyt piśmienny) → **~+12–28**
+12. **Składowanie zimowe** (magazyny Aurane) → sezonowe **~+8–20**
+13. **Kamieniczka** — czynsz 9 brutto, bez długu od 06-17 → **~+7 netto**
+14. **Draw wspólnika** (baza) → **+6**
+15. **Udział retainerów** (Symona część) → **~+7–10**
+16. **1/3 netto z transakcji Symona źródłowanych** → **~+25–50**
+17. **Wór Tama (obrót)** — marża per cykl → **~+12–30, młode**
 
-**PRZYSZŁE (jeszcze nie sypią):**
-17. **Arteria Winterfell** — per kurs, gdy się dowiedzie (1. rejs w drodze) — obecnie WYPŁYW
-18. **Papiernia** — uśpiona opcja
-19. **Traktat/Cytadela** — reputacja uczona (nie $, otwiera drzwi)
+**PRZYSZŁE:** arteria Winterfell (per kurs, w drodze — obecnie wypływ) · papiernia (opcja) · traktat/Cytadela (reputacja).
 
-**GROSS do Symona (szac.): ~+180–300 jel/mies** przy pełnej skali (z usługami/brokeringiem/siecią, którychś dodał).
+**GROSS do Symona (szac., pełna skala): ~+320–520 jel/mies.**
 
 ---
 
-## 3. KOSZTY — kontrolowane elementy (~mies, szac.)
+## 3. KOSZTY — kontrolowane elementy (~mies, urealnione)
 
 | Element | Koszt ~mies (szac.) |
 |---|---|
-| **Płace + udziały zespołu** (Wick/Tam/Fenn/Jory/Deman + Hal-udział + Cass + Bran ~5) | **~+35–60** |
-| **STRAŻ** (Garrick + Hendry, żołd) — *dopisane* | **~+6–8** |
-| **Rezerwa na złe długi** (ramię kredytu, ~5–10% z 385) | **~+5–20** |
-| **Barka** (postojowe, utrzymanie, poza żołdem Cassa) | **~+3–6** |
-| **Magazyny/siedziba** (Aurane storage, raty Ondrew) | **~+8–18** |
-| **Materiały kancelaryjne** (pergamin/atrament/wosk) — *dopisane* | **~+2–5** |
-| **Posłańcy / kruki / transport intelu** — *dopisane* | **~+2–5** |
-| **Opłaty cechowe / cło / urzędowe** (port ~10/mies, cech) — *dopisane* | **~+5–12** |
-| **Reprezentacja / dary / goodwill** (jak dziękczynienie, guild) — *dopisane* | **~zmienne** |
-| **Straty / spoilage / ryzyko** (uszkodzony towar, oszustwo) — *dopisane* | **~zmienne** |
-| **Podatek** (na pasywną) | **~+8–15** |
-| **Odpis reliefu** (skim na fundusz Wiary — półkoszt) | **~+5–10** |
-| **Dom + LYRA + życie** (wkład Symona) — *dopisane Lyra* | **~+10–20** |
-| **Arteria — wypływ teraz** (sól, prowiant, rejs) | **jednorazowo, taperuje** |
-| **Ambasada Halvard** (~50 jel w drodze) | jednorazowo |
+| **Płace + udziały zespołu** (Bran ~8–10, straż 2×~5–6, Wick/Tam/Fenn/Deman/Jory + Hal-udział + Cass) | **~+55–90** |
+| **Rezerwa na złe długi** (ramię kredytu) | **~+8–22** |
+| **Barka** (postojowe/utrzymanie, poza żołdem Cassa) | **~+4–8** |
+| **Magazyny / siedziba** (Aurane, raty Ondrew) | **~+10–22** |
+| **Wytwórnia pergaminu** (skóry, galas, robocizna — koszt strony przychodu #11) | **~+6–14** |
+| **Materiały kancelaryjne** (pergamin własny/atrament/wosk) | **~+3–6** |
+| **Posłańcy / kruki / transport intelu** | **~+3–7** |
+| **Opłaty cechowe / cło portowe / urzędowe** | **~+8–15** |
+| **Reprezentacja / dary / goodwill** | **~+5–12** |
+| **Straty / spoilage / ryzyko** | **~zmienne** |
+| **Podatek** (na pasywną) | **~+12–22** |
+| **Odpis reliefu** (fundusz Wiary — półkoszt) | **~+8–15** |
+| **UTRZYMANIE DOMU — część Symona z Mirą** (jedzenie/drewno/życie/**Lyra**) | **~+18–30** |
+| **Arteria — wypływ teraz** (sól/prowiant/rejs) | jednorazowo, taperuje |
 
-**KOSZTY (szac.): ~+100–160 jel/mies** przy pełnej skali (ze strażą, materiałami, opłatami, Lyrą).
+**KOSZTY (szac., pełna skala): ~+160–270 jel/mies.**
 
 ---
 
-## 4. MAJĄTEK / STAN POSIADANIA (kapitał + aktywa)
+## 4. MAJĄTEK / STAN POSIADANIA
 
 **Kapitał ulokowany (pracuje):**
-- Współwłasność kantoru — **~850 jel** (rdzeń, na wolnym domu)
-- Kapitał kredytowy ramienia — **~385 na ryzyku** (185 + 200 świeże)
+- Współwłasność kantoru — **~850 jel** (na wolnym domu)
+- Kapitał kredytowy ramienia — **~385 na ryzyku**
 - Wór obrotowy Tama — **~118**
-- Blok kołodziejów — **~90** (odzyskiwalne, blok winien)
-- Ambasada Halvard — **~50** (w drodze, staje się towarem/relacją)
-- Weksle — **200 niezab. + 50 zab.** (należności)
+- Blok kołodziejów — **~90** (odzyskiwalne)
+- **Weksel u Aldousa — ~28 jel** (należność, dług Aldousa wobec bloku/Symona — *dopisane*)
+- Ambasada Halvard — **~50** (w drodze)
+- Weksle handlowe — **200 niezab. + 50 zab.**
 
-**Aktywa trwałe / nieruchomość:**
-- **Kamieniczka** przy Schodach — bez długu, equity ~105+, income property
-- **Barka rzeczna** — ~50 (pierwszy kil arterii)
-- **Partnerstwo pergaminu** (Wat) — udział
+**Aktywa trwałe / nieruchomość / wytwórczość:**
+- **Kamieniczka** — bez długu, equity ~105+, income property
+- **Barka rzeczna** — ~50
+- **Partnerstwo pergaminu (Wat)** — udział w wytwórni (aktyw + strumień #11)
 - **Papiernia** — grunt prawny rozpoznany (opcja, nie nabyta)
 
-**Zapasy / płynność:**
-- Zapas staple zimowy — **40**
-- Sakiewka — **~183** (płynność)
-- Skarbiec domowy — **0** (przeniesiony w kapitał kredytowy)
+**Zapasy / płynność:** zapas staple zimowy **40** · sakiewka **~183** · skarbiec **0** (w kapitale).
 
-**Wartości niematerialne / prawa:**
-- **Traktat** w Cytadeli (reputacja uczona) · **Tajne oko** (człowiek rady) · warranty lorda (cło, prowiant) · **wzgląd lorda na szlak** · glejt królewski · protest notarialny (amunicja) · mieszczaństwo · nazwisko Tally · kanały (Luwin/Winterfell, Braavos przez Nestę, Gulltown)
+**Niematerialne / prawa:** traktat w Cytadeli · tajne oko (człowiek rady) · warranty lorda (cło/prowiant) · wzgląd lorda na szlak · glejt królewski · protest notarialny (amunicja) · mieszczaństwo · nazwisko Tally · kanały (Winterfell/Luwin, Braavos/Nesta, Gulltown, zamek).
 
 ---
 
-## 5. PODSUMOWANIE (pełna skala, szac.)
+## 5. PODSUMOWANIE (pełna skala Westeros, szac.)
 
-- **GROSS ~+180–300 / mies** · **KOSZTY ~+100–160 / mies** · **NETTO ~+70–140 / mies** — na DUŻEJ podstawie.
-- **Filary:** rotacja faktorii + marża zamkowa (nie draw/czynsze).
-- **Nowe strumienie usług** (audyty, brokering, sprzedaż dostępności, kancelaria, doradztwo) = **skalowalne, wysokomarżowe** (sprzedajesz umysł i sieć, nie towar).
-- **Płynność cienka** (183/0) MIMO obrotu — kapitał celowo w rotacji/kredycie/arterii/worze. **Bogaty w obrocie, płynny cienko.**
-- **Faza budowy:** arteria/kredyt/wór konsumują kapitał przed zwrotem.
-- **Kontrola:** każde ramię ma osobnego prowadzącego (Wick=kredyt, Tam=obrót, Cass=barka, Hal=audyt/egzekucja, Bran=dom, Deman=intel) — Symon = architekt + oko.
+- **GROSS ~+320–520 / mies** · **KOSZTY ~+160–270 / mies** · **NETTO ~+150–280 / mies** — na dużej podstawie.
+- **Filary:** rotacja faktorii + marża zamkowa. **Usługi** (audyty, brokering, dostępność, pergaminy, doradztwo) = wysokomarżowe, skalowalne — sprzedajesz umysł, sieć i wytwórczość, nie tylko towar.
+- **Płynność cienka** (183/0) mimo dużego obrotu — kapitał celowo pracuje (rotacja/kredyt/arteria/wór/pergamin).
+- **Płace hojne** (Bran, straż) = lojalność, którą już nieraz zbierałeś (Bran ścigał Marnę, Hew spod lodu, cech kołodziejów).
+- **Kontrola:** każde ramię z osobnym prowadzącym (Wick=kredyt, Tam=obrót, Cass=barka, Hal=audyt/egzekucja, Wat=pergamin, Bran=dom, Deman=intel) — Symon = architekt + oko.
 
 _Do wytrowania twardo w Dniu Bilansu (należny 298-07-01, zaległy maj+czerwiec)._

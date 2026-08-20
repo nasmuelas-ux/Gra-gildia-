@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-06-18 RANEK · wczesne lato (298)
+- **Data:** 298-06-20 RANEK · wczesne lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 201 jeleni + 1 mied + 0 smokow
+- **Wolne:** 171 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -97,7 +97,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 
 ## LUDZIE NA SCENIE (nast. do gracza)
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 72
-- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 82
+- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 88
 - **Bran** (bran_tragarz) — ZAUFANY ZARZADCA-SPINACZ Symona (majordomus): zarzadca domu+ · nast 100
 - **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 94
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 37
@@ -115,7 +115,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
 - **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 0
 - **Ser Aldric** (ser_aldric_oficer) — oficer zaopatrzenia domu lorda Manderly (szczebel nad Godrik · nast 0
-- **Rhona** (rhona_siostra_miry) — starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczk · nast 46
+- **Rhona** (rhona_siostra_miry) — starsza siostra Miry (wdowa/zamezna, z pobliskiego miasteczk · nast 49
 - **Wharton** (kupiec_wharton) — zamożny status-świadomy kupiec, lgnie ku dworowi; na Wielkim · nast 25
 - **stary Cass** (cass_wozacz_interioru) — woźnica-faktor interioru (dolina Białego Noża + królewski go · nast 68
 - **Rennick** (rennick_brygadzista) — brygadzista z Zaułka (ekipa portowa Symona), za którego ręcz · nast 70
@@ -124,6 +124,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Roggen** (szafarz_roggen) — starszy szafarz zachodnich składów Winterfell (sługa od lat, · nast nieznane (nie kontaktowani; Symon obserwuje z boku)
 - **Eddard Stark** (lord_eddard_stark) — Lord Winterfell, Warden of the North; wkrotce Reka Krola (je · nast 75
 - **Leda** (leda_wdowa) — mloda wdowa z dwojgiem dzieci (niemowle+male), uboga, niepis · nast 78
+- **Gerda** (gerda_akuszerka_zaulek) — wiekowa baba z Rybiego Zaulka - nieformalna akuszerka, 40 la · nast 70
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

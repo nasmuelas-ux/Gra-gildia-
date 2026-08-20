@@ -42,7 +42,7 @@ _Domena magazynu: **Pate** trzyma skład + składowanie zimowe kupców (strumie�
 ## 2. PRZYCHODY — kontrolowane elementy (do Symona, ~mies, PEŁNA SKALA)
 
 **FILARY:**
-1. **Plon rotacji faktorii** — 400+ jel obrót zboże-sól, plon per batch → **~+50–85**
+1. **Plon rotacji faktorii** — **~685 jel obrót** zboże-sól (dosyp +285 z kont domowych 06-22), plon per batch → **~+85–145**
 2. **Marża zamkowa** — drewno (największy filar) + prowiant + żelazo-okucia, per dostawa (sezon budowlany) → **~+50–90**
 
 **RAMIONA FINANSOWE:**
@@ -69,7 +69,7 @@ _⚠️ CHWILOWO NIEDOGLĄDANE LOKALNIE — agent-sprzedawca (Fenn) w terenie (a
 
 **PRZYSZŁE:** arteria Winterfell (per kurs, w drodze — obecnie wypływ) · papiernia (opcja) · traktat/Cytadela (reputacja).
 
-**GROSS do Symona (szac., pełna skala): ~+320–520 jel/mies.**
+**GROSS do Symona (szac., pełna skala, po dosypie do rotacji): ~+355–580 jel/mies.**
 
 ---
 
@@ -113,7 +113,8 @@ _⚠️ CHWILOWO NIEDOGLĄDANE LOKALNIE — agent-sprzedawca (Fenn) w terenie (a
 - **Partnerstwo pergaminu (Wat)** — udział w wytwórni (aktyw + strumień #11)
 - **Papiernia** — grunt prawny rozpoznany (opcja, nie nabyta)
 
-**Zapasy / płynność:** zapas staple zimowy **40** · sakiewka **~183** · skarbiec **0** (w kapitale).
+**Zapasy / płynność:** zapas staple zimowy **40** · sakiewka **~183** · skarbiec **0** · konta domowe **0** (przesunięte w rotację 06-22).
+- **Rotacja faktorii — obrót ~685 jel** (dosyp +285, filar utuczony).
 
 **Niematerialne / prawa:** traktat w Cytadeli · tajne oko (człowiek rady) · warranty lorda (cło/prowiant) · wzgląd lorda na szlak · glejt królewski · protest notarialny (amunicja) · mieszczaństwo · nazwisko Tally · kanały (Winterfell/Luwin, Braavos/Nesta, Gulltown, zamek).
 
@@ -121,7 +122,7 @@ _⚠️ CHWILOWO NIEDOGLĄDANE LOKALNIE — agent-sprzedawca (Fenn) w terenie (a
 
 ## 5. PODSUMOWANIE (pełna skala Westeros, szac.)
 
-- **GROSS ~+320–520 / mies** · **KOSZTY ~+160–270 / mies** · **NETTO ~+150–280 / mies** — na dużej podstawie.
+- **GROSS ~+355–580 / mies** · **KOSZTY ~+165–275 / mies** · **NETTO ~+180–320 / mies** — na dużej podstawie (rotacja utuczona +285).
 - **Filary:** rotacja faktorii + marża zamkowa. **Usługi** (audyty, brokering, dostępność, pergaminy, doradztwo) = wysokomarżowe, skalowalne — sprzedajesz umysł, sieć i wytwórczość, nie tylko towar.
 - **Płynność cienka** (183/0) mimo dużego obrotu — kapitał celowo pracuje (rotacja/kredyt/arteria/wór/pergamin).
 - **Płace hojne** (Bran, straż) = lojalność, którą już nieraz zbierałeś (Bran ścigał Marnę, Hew spod lodu, cech kołodziejów).

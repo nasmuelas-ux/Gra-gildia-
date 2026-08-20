@@ -467,3 +467,13 @@ Warstwa A rosła, a book jej nie nadążył. Aktualny recurring:
 - DZIURY: (1) NOGA LĄDOWA koniec-spławu→Winterfell = największa (BP=morze/rzeka, interior nieznany, zero dojść); (2) pojemność barek+ciasny czas; (3) odbiór w Winterfell; (4) bezpieczeństwo dystansu.
 - Maszyna pod port/lokalne, misja wyciąga w nieznane. TO DO: zamknąć nogę lądową (priorytet), barki, odbiór, osłona, harmonogram wstecz.
 - OTWARTE: należność lorda za komisję ceł (standing≠grosz) — domknąć tactful.
+
+
+## 298-06-04 — REKALIBRACJA KSIAG (audyt Symona po powrocie, na wskazanie gracza)
+Plaski '~+70 netto/mies' byl zanizona estymata - nie nadazyl za wzrostem. Urealnienie:
+- UDZIAL wzrosl (mostek refi 300 jel + sukcesja Nesty na pryncypala = wiekszy staly udzial w kantorze/faktorii).
+- SKALA wzrosla (restrukturyzacja/sklad-siedziba/warrant prowiantowy/kanal backhaul BP-Winterfell).
+- RETAINERY sa w pasywie (Aurane+faktoria+blok-rdzen). AUDYTY (Warstwa B) slusznie 0 w drodze - wracaja przy biurku.
+- PAPIERNIA = wenture NIE strumien (0 przychodu, nie zbudowana; przyszly projekt kapitalowy).
+- KOSZTY urosly ze skala (Fenn/Jory/Wick/Corliss/Deman/Pate/Hendry + utrzymanie skladu + raty Ondrewa + household + relief) - urealnione.
+WYNIK: netto pasywne go-forward ~+105 jel/mies. Korekta wstecz 05-01/06-01 (+70->~+105) => skumulowane konta domowe ~+210 jel za 2 mies (kapital Symona u Nesty).

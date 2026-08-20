@@ -112,7 +112,7 @@
   "rozliczenie_0617": "298-06-17 (Symon poprosil o pelna pozycje): KAPITAL ~850 jel twardego pod nazwiskiem Symona: ~550 inwestycja core + ~300 mostek sukcesji (podniosl udzial=wieksza wlasnosc) + ~50 equity narosle (zostawione by pracowalo). WLASNOSC: wspolwlasciciel kantoru (udzial rdzenia podniesiony realnie), DOMENA=ramie kredytu i ubezpieczen. DOCHOD: draw 6/mies + 1/3 netto z transakcji Symona + udzial w plonie core. TRANSFORMACJA KLUCZOWA: do 06-15 wsad future-weighted/cash-tight bo dom dzwigal dlug Antaryonow; od domkniecia cienia (06-15) dom WOLNY/nieobciazony/zarabiajacy -> ta sama liczba INNA WARTOSC, kapital Symona ODBLOKOWANY (equity w rosnacym pryncypale nie zamrozony udzial w dluzniczce). 'Dwa domy w przymierzu' = Symon wchodzi jako ROWNY z twardym wkladem (wspolwlasciciel tego co stalo sie wolne), nie mniejszy partner na dobre slowo."
  },
  "kamieniczka": {
-  "status": "ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe. || 297-02-14: budzet dachu ROZWIAZANY - pelny re-roof ~35 jel (linia ~21 + ~15 z depozytu), naprawa krytyczna porzadnie przy odwilzy (bez ryzyka fazowania). Bufor Symona: depozyt 38->23 jel + sakiewka 14 jel. || 297-06-09: izba 3 (Hal) goscsi tez Wicka (klerk Symona); czynsz Hala OBNIZONY (~2->~1 jel/mies) jako zaplata za usluge goszczenia (nie jalmuzna). Wick housing solved.",
+  "status": "298-06-17: WYKUPIONA W PELNI (dlug wobec kantoru splacony ~52 jel, dlug=0) - 100% wlasnosc bez obciazen, caly czynsz w equity. | ZAREJESTROWANA/twoja; patch dachu; IZBY 1+2 WYNAJETE (~2 jel/mies); izba 3 po wiosennym dachu (soft waitlist). Aktyw zarabia i ma dobra slawe. || 297-02-14: budzet dachu ROZWIAZANY - pelny re-roof ~35 jel (linia ~21 + ~15 z depozytu), naprawa krytyczna porzadnie przy odwilzy (bez ryzyka fazowania). ",
   "opis": "kamieniczka przy Schodach: 4 izby + murowany ogrodek za plotem; do remontu (dach do wymiany + 1 strop - Donnel)",
   "cena_jel": 108,
   "all_in_szac_jel": "~142 (108 cena + ~30 dach + ~4 oplaty Torrena/rejestr)",
@@ -140,11 +140,12 @@
   "fit_out_izba2_jel": 5,
   "dach_pelny_wiosna_rewizja": "297-02-14 (Donnel): zgnilizna siega stropu/belek dalej niz pierwsza ocena -> pelny re-roof ~35+ jel (nie ~21 rezerwy). PRZEKROCZENIE BUDZETU ~15+ jel. Kosci zdrowe, ale remont glebsza studnia. Do rozwiazania: wiecej finansowania/re-scope. Izba 3 opozniona/drozsza.",
   "dach_pelny_wiosna_finansowanie": "ZDECYDOWANO 297-02-14: pelny re-roof ~35 jel sfinansowany = ~21 jel linia kantoru + ~15 jel z DEPOZYTU Symona (earmarked; spend przy odwilzy). Naprawa KRYTYCZNEJ struktury (dach+strop+belki) porzadnie, bez fazowania/ryzyka rot-spread. Izba 3 na tor po wiosennym dachu.",
-  "dlug_wytrowany_297_05_27_jel": 52,
+  "dlug_wytrowany_297_05_27_jel": 0,
   "stan_297_05_27": "WYTROWANE (rzut 81, praca z Nesta): dlug wobec kantoru = 52 jel czysto (bylo fuzzy 46-57; czesc dachu ~20 jel poszla z depozytu Symona, nie z linii, wiec udzial kantoru mniejszy niz pulap ~57). Amortyzowany czynszem 3 izb (rate pokryta, nadwyzka->equity). Twoj wklad equity ~105 jel (85 kupno + ~20 dach z depozytu). Kantor = WIERZYCIEL na 52 jel, nie wspolwlasciciel.",
   "decyzja_297_05_27": "B - ZOSTAWIC dlug, niech czynsz go niesie (najtanszy dlug, kapital-light). NIE splacac z depozytu teraz.",
   "stan_298_06_17_SPLACONE": "298-06-17: Symon SPLACIL reszte dlugu ~52 jel do kantoru - kamieniczka WYKUPIONA W PELNI, dlug ZERO, aktyw czysty/nieobciazony. Caly czynsz 3 izb -> equity Symona (bez raty). Wybor: czysty kamien > tani dlug (po zamknieciu cienia).",
-  "dlug_wobec_kantoru_jel": 0
+  "dlug_wobec_kantoru_jel": 0,
+  "stan_298_06_17_WYKUP": "298-06-17: Symon WYKUPIL kamieniczke W PELNI - splacil ~52 jel dlugu wobec kantoru Nesty (kasa 243->191, potem -2 oilcloth->189). DLUG=ZERO. Kamieniczka teraz 100% wlasnosc bez obciazen; caly czynsz -> equity Symona (bez obslugi dlugu). Kantor przestaje byc wierzycielem."
  },
  "mieszczanstwo": {
   "status": "✅ PELNOPRAWNY MIESZCZANIN (przysiega zlozona 297-01-27, oplata ~12 jel zaplacona). Veto Pisarzy pobite. Korzen w miescie prawnie zapuszczony.",

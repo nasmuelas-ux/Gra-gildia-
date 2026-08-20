@@ -1551,6 +1551,13 @@
    "nastepny_krok": "Tam prowadzi 1. cykl probny (rozglada sie po cenach, kupuje ostroznie) - wynik ~za pare dni (rzut jak mu poszlo jako handlarzowi). Wyjdzie=rosnie w handlarza/partnera+skalowac wor; nie=czesne, garsc nie fortuna.",
    "decyzja_0617": "298-06-17: Symon wybral TAMA na probe, wor 100 jel. Mandat bounded (do 100, 1-2 cykle Gulltown/lokal, meldunek Halowi przed ruchem, udzial w zysku, prawo do porazki). Firewall czysty (wychowany swoj nie najety obcy). Hal czuwa. Wynik 1. cyklu ~za pare dni - pokaze czy Symon ma handlarza. Kasa Symona 343->243 (100 w worze=wdrozone).",
    "ramie_kredyt_ubezp_0617": "298-06-17 (rzut 40): ramie kredytu/ubezpieczen (mostek-kredyt+underwriting ~185 jel) DELEGOWANE pod WICKA z budzetem+rulebook+udzial. RAMPA nie teleport: Wick uniesie rutyne (skladki/mostki wg kryteriow/rotacja) ale SAD nad brzegiem (wycena niepewnych/odmowy/ekspozycja) wraca do Symona poki nie dorosnie (~tygodnie). PORECZE: 2 podpisy powyzej kwoty, miesieczny audyt ksiegi, eskalacja brzegu, Deman podaje dane. Symon=architekt/oko, schodzi z biezaczki CZESCIOWO teraz (pelnia gdy Wick wyszkolony). W pore przed ojcostwem."
+  },
+  {
+   "id": "ramie_kredyt_ubezpieczenia",
+   "tytul": "Ramie kredytu i ubezpieczen (domena Symona) - pod klerka",
+   "status": "DELEGOWANE Wickowi na probe (298-06-17, rzut 40)",
+   "opis": "298-06-17: Symon oddal biezaczke ramienia (mostek-kredyt+wspol-underwriting ~185jel) Wickowi jako klerk-koordynator na budzecie + rulebooku Symona (komu/do ile/ryzyko), udzial w zysku, granice+meldunek. rzut 40: workable ale Wick bez instynktu underwritingu=train-and-watch (ciasny rulebook+bliskie oko), Deman podaje dane. Symon=architekt+oko, nie codzienna korba.",
+   "nastepny_krok": "Domknac rulebook underwritingu (kryteria/limity); Wick prowadzi, Symon oglada; podniesc swobode gdy Wick pokaze instynkt."
   }
  ]
 }

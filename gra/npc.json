@@ -1189,6 +1189,16 @@
    "status": "298-05-15: pasywnie namierzony (rzut 36) jako silny podejrzany — przez jego pieczęć idą cedu­ly-widma, władza+zaufanie+ZBYT SPOKOJNY w chaosie. ALE brak twardego dowodu NA NIEGO (dowód jest na kradzież, nie na człowieka). Prawdopodobnie NIE sam: ręka zewnętrzna (paser) + możliwa osłona z góry; ring/głębia nienazwane. Tarcza: 'stary Roggen zawsze był pewny' — trudno tknąć bez żelaza na osobę.",
    "nastawienie_do_gracza": "nieznane (nie kontaktowani; Symon obserwuje z boku)",
    "wie_o_graczu": "nic — nie wie, że ktoś patrzy (Symon niezauważony)"
+  },
+  {
+   "id": "lord_eddard_stark",
+   "imie": "Eddard Stark",
+   "zawod": "Lord Winterfell, Warden of the North; wkrotce Reka Krola (jedzie na poludnie do Krolewskiej Przystani)",
+   "status": "298-05-19: KROTKA AUDIENCJA (rzut 99, triumf) - Symon jako posel Manderlych oddal slowo lorda Wymana doskonale (wiernosc+danina+nuta STEADFAST 'twoj port solidny za plecami gdy jedziesz na poludnie') + szczere wspolczucie za syna Brana (czlowiek Wiary co sie modlil). Ned (uosobienie Polnocy, w zalobie/odjezdzajacy) ZJEDNANY - prostota+brak kadzenia+szczerosc pekly jego rezerwe. Slowa Neda: 'Lord Wyman dobrze jest sluzony; uczciwy czlowiek z glowa, takich Polnoc pamieta; Stark nie zapomni wiernosci Manderlych; nos imie godnie, ZAJDZIESZ DALEJ NIZ MYSLISZ'.",
+   "nastawienie_do_gracza": 75,
+   "zaufanie": 45,
+   "wie_o_graczu": "posel Manderlych co przywiozl danine czysto+slowo godnie, nie plaszczyl sie; Luwin recza za niego (uczciwy z glowa); szczere wspolczucie za Brana poruszylo go. Zapamietal Symona zyczliwie.",
+   "dla_lorda_wymana": "Stark: 'nie zapomni wiernosci Manderlych' - wiez umocniona; kazal przekazac Wymanowi ze slyszal jego slowo. Symon wykonal poselstwo bez skazy."
   }
  ],
  "w_orbicie": [

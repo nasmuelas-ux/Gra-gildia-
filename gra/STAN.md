@@ -114,6 +114,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Ulf** (ulf_interior) — człowiek Halvarda z głębi Północy (chłop/traper) — znawca kr · nast 66
 - **Luwin** (maester_luwin) — maester Winterfell (dwór Starków) — uczony, rządzi składami/ · nast 70
 - **Roggen** (szafarz_roggen) — starszy szafarz zachodnich składów Winterfell (sługa od lat, · nast nieznane (nie kontaktowani; Symon obserwuje z boku)
+- **Eddard Stark** (lord_eddard_stark) — Lord Winterfell, Warden of the North; wkrotce Reka Krola (je · nast 75
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

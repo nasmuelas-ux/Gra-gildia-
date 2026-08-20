@@ -322,5 +322,12 @@
  },
  "domowy_skarbiec_jel": 200,
  "_nota_skarbiec": "Skarbiec domowy = REZERWA SYMONA (rozdzielność majątkowa; Mira ma własne oszczędności i dom sukna, niezależna finansowo). NIE jest wspólną poduszką zależną od bezpieczeństwa Miry. Zasada 'ja jako ja, ty jako ty, jedno wspólne życie'.",
- "weksle_wystawione_jel_nota": "298-06-17 UZGODNIONE (audyt Symona): stare 200 jel weksli SCIAGNIETE i przekute w SKLAD ONDREW 298-04-05 (200 z ceny ~665 all-in). Gorne pole bylo STALE. Biezace weksle-out z ramienia mostek-kredytu = drobny odbudowujacy sie ogon (do doksiegowania gdy re-lending narasta), NIE tamte 200. Wartosc weksli dojrzala w KAMIEN (siedziba domu handlowego)."
+ "weksle_wystawione_jel_nota": "298-06-17 UZGODNIONE (audyt Symona): stare 200 jel weksli SCIAGNIETE i przekute w SKLAD ONDREW 298-04-05 (200 z ceny ~665 all-in). Gorne pole bylo STALE. Biezace weksle-out z ramienia mostek-kredytu = drobny odbudowujacy sie ogon (do doksiegowania gdy re-lending narasta), NIE tamte 200. Wartosc weksli dojrzala w KAMIEN (siedziba domu handlowego).",
+ "dziecko": {
+  "imie": "Lyra",
+  "nazwisko": "Tally",
+  "urodzona": "298-06-20 swit",
+  "zdrowie": "zdrowa",
+  "chrzest": "po Owenie, gdy Mira wstanie"
+ }
 }

@@ -2849,6 +2849,16 @@
     "298-05-05 NOC: napad odparty pod jego dowodzeniem (Symon oddał mu komendę, dał cel: osłonić towar/krąg/róg). Donnal cementuje szacunek: 'dałeś dobry rozkaz, mądry pan wie czego nie umie; twoja przezorność (podwójne warty+pikiety) nas ocaliła — inaczej groby'."
    ],
    "porady": "Ulf przy przedzie (zna grunt=wart 10 mieczy); czujność na pustych odcinkach o zmierzchu; WIDŁA=najwrażliwsza chwila (przeładunek: wszyscy zajęci, towar odkryty→podwoić warty); nikt nie napadnie pod bramą Winterfell, groźba na pustym trakcie."
+  },
+  {
+   "id": "lyra_corka",
+   "imie": "Lyra",
+   "przydomek": "Tally",
+   "zawod": "corka Symona i Miry - noworodek",
+   "wiek": 0,
+   "urodzona": "298-06-20 swit",
+   "nastawienie_do_gracza": 100,
+   "nota": "CÓRKA Symona i Miry, ur. 298-06-20 o swicie po ciezkim porodzie (uratowanym redundancja Gerda+Marna). Zdrowa. Imie LYRA - imie starych rodow Polnocy, wybrane przez Symona (godnosc nie bogactwo, rezonans z gwiazda polnocna). Owen ochrzci gdy Mira wstanie."
   }
  ],
  "orbita": [

@@ -12,7 +12,7 @@
  "zmeczenie": 15,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 243,
+  "jelenie": 191,
   "smoki": 0
  },
  "dobytek": [
@@ -124,7 +124,8 @@
   "najem_stan": "297-04-04 STAN BIEZACY: 4 IZBY. izba1=wdowa Jonna, izba2=czeladnik Osric, izba3=Hal (od 03-27), izba4=SYMON (wlasne lokum od 04-04). Czynsz z izb 1-3 (~2-3 jel/mies) obsluguje dlug; izba 4 zajeta przez gospodarza (nie na wynajem).",
   "dozorca": "BRAN (od 297-02-10) - dozorca: utrzymanie, opal lokatorom, oko na budynek, dzwiganie przy remoncie dachu (wiosna z Donnelem). Pensja ~3 jel/mies (podniesiona 04-16 jako ZASLUZONA: dom pelny+rola urosla+kryzys ogarniety; czesc uniesie pelny czynsz, reszte doklada Symon z wlasnych) (koszt operacyjny z czynszu). Lojalny, pewny. DOZORCA NA MIEJSCU = cichy pancerz vs najscie/pochodnia (Harwin).",
   "zarzad": "MIRA prowadzila zarzad na TRIAL (02-13), dowiozla - ALE 03-13/03-17 CofNELA sie od stalej roli (zacieta niezaleznosc jak Nesta; postawila granice, nie chce byc stala zarzadczynia). STAN 297-04-04: zarzad MIRY ZAKONCZONY. Kamieniczka prowadzona przez SAMEGO SYMONA (teraz mieszkanca on-site, izba 4) + BRAN jako dozorca (utrzymanie/opal/oko na budynek, ~2 jel/mies). Mira pozostaje zawodowym kontaktem / watek osobisty zona_partnerka (powoli, osobno) - nie zarzadza.",
-  "dach": "UKONCZONY 297-03-25, oplacony"
+  "dach": "UKONCZONY 297-03-25, oplacony",
+  "obciazenie": "298-06-17: BEZ OBCIAZEN - dlug wobec kantoru splacony (~52 jel), 100% wlasnosc Symona, czysty aktyw."
  },
  "finansowanie_kamieniczki": {
   "wierzyciel": "kantor Nesty (warunki wspolnika)",
@@ -141,7 +142,9 @@
   "dach_pelny_wiosna_finansowanie": "ZDECYDOWANO 297-02-14: pelny re-roof ~35 jel sfinansowany = ~21 jel linia kantoru + ~15 jel z DEPOZYTU Symona (earmarked; spend przy odwilzy). Naprawa KRYTYCZNEJ struktury (dach+strop+belki) porzadnie, bez fazowania/ryzyka rot-spread. Izba 3 na tor po wiosennym dachu.",
   "dlug_wytrowany_297_05_27_jel": 52,
   "stan_297_05_27": "WYTROWANE (rzut 81, praca z Nesta): dlug wobec kantoru = 52 jel czysto (bylo fuzzy 46-57; czesc dachu ~20 jel poszla z depozytu Symona, nie z linii, wiec udzial kantoru mniejszy niz pulap ~57). Amortyzowany czynszem 3 izb (rate pokryta, nadwyzka->equity). Twoj wklad equity ~105 jel (85 kupno + ~20 dach z depozytu). Kantor = WIERZYCIEL na 52 jel, nie wspolwlasciciel.",
-  "decyzja_297_05_27": "B - ZOSTAWIC dlug, niech czynsz go niesie (najtanszy dlug, kapital-light). NIE splacac z depozytu teraz."
+  "decyzja_297_05_27": "B - ZOSTAWIC dlug, niech czynsz go niesie (najtanszy dlug, kapital-light). NIE splacac z depozytu teraz.",
+  "stan_298_06_17_SPLACONE": "298-06-17: Symon SPLACIL reszte dlugu ~52 jel do kantoru - kamieniczka WYKUPIONA W PELNI, dlug ZERO, aktyw czysty/nieobciazony. Caly czynsz 3 izb -> equity Symona (bez raty). Wybor: czysty kamien > tani dlug (po zamknieciu cienia).",
+  "dlug_wobec_kantoru_jel": 0
  },
  "mieszczanstwo": {
   "status": "✅ PELNOPRAWNY MIESZCZANIN (przysiega zlozona 297-01-27, oplata ~12 jel zaplacona). Veto Pisarzy pobite. Korzen w miescie prawnie zapuszczony.",

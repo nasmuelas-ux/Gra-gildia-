@@ -169,7 +169,7 @@
   "wlodarstwo": 156
  },
  "_progi_umiejetnosci": "praktyka->poziom (malejacy przyrost): 5~25, 6~50, 7~90, 8~125, 9~165, 10~250. Sprawdzac przy przyroscie licznika.",
- "weksle_wystawione_jel": 200,
+ "weksle_wystawione_jel": 0,
  "inwestycja_faktoria_jel": 550,
  "equity_kantor_future_jel": 50,
  "pozyczka_zabezpieczona_jel": 50,
@@ -317,5 +317,6 @@
   "nota": "Zseeded liczbowo 297-12-22 (~40 jel zgromadzonej rezerwy) na prosbe gracza - relief ma budzet, nie idzie z kieszeni Symona. Koszt killing-frost 12-22 (-8) poszedl STAD. Odbudowywany z jalmuzny/nadwyzki."
  },
  "domowy_skarbiec_jel": 200,
- "_nota_skarbiec": "Skarbiec domowy = REZERWA SYMONA (rozdzielność majątkowa; Mira ma własne oszczędności i dom sukna, niezależna finansowo). NIE jest wspólną poduszką zależną od bezpieczeństwa Miry. Zasada 'ja jako ja, ty jako ty, jedno wspólne życie'."
+ "_nota_skarbiec": "Skarbiec domowy = REZERWA SYMONA (rozdzielność majątkowa; Mira ma własne oszczędności i dom sukna, niezależna finansowo). NIE jest wspólną poduszką zależną od bezpieczeństwa Miry. Zasada 'ja jako ja, ty jako ty, jedno wspólne życie'.",
+ "weksle_wystawione_jel_nota": "298-06-17 UZGODNIONE (audyt Symona): stare 200 jel weksli SCIAGNIETE i przekute w SKLAD ONDREW 298-04-05 (200 z ceny ~665 all-in). Gorne pole bylo STALE. Biezace weksle-out z ramienia mostek-kredytu = drobny odbudowujacy sie ogon (do doksiegowania gdy re-lending narasta), NIE tamte 200. Wartosc weksli dojrzala w KAMIEN (siedziba domu handlowego)."
 }

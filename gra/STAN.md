@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 343 jeleni + 1 mied + 0 smokow
+- **Wolne:** 243 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -68,6 +68,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-06-06: lord Wyman blogoslawi szlak Polnoc-BP i daje IMIE za plecami - Symon moze powolywac sie na 'wzglad lorda Wymana' by taniej otwierac zamkniete drzwi (opening doors/foreclose frictions). Kapital lorda dopiero PO dowodzie ze arteria samofinansuje sie dwustronnie. Karta Krol.Przystani UCHYLONA (gorace).
 - 298-06-08: PIERWSZY KIL ARTERII - uzywana barka rzeczna (plaskodenna, Bialy Noz) po starym flisaku. Rzut 75: dno zdrowe/stepka prosta/poszycie mocne, tylko uszczelnienie+drobna lata; osprzet (dragi/cumy/takielunek) w cenie. Koszt ~50 jel (45+5). Daje WLASNY ZEGAR - probny kurs na wlasny termin ku Winterfell. Do przemyslenia: kapitan/prowadzacy (Cass?), cumowanie/postoj. || 298-06-08: KAPITAN=Cass (znawca Bialego Noza; zold+maly udzial w zysku rejsu). CUMOWANIE=Solne Nabrzeze (sol Harlona pod reka, blisko kantoru, drobna oplata postojowa). Kosciec operacyjny gotowy - zostaje data 1. rejsu (lead-time soli + gotowosc beli Miry) + uprzedzic Luwina o plotnie.
 - 298-06-12/13: ~90 jel laczny udzial Symona w bloku wykupu weksli 2 kolodziejow (30 stopgap + 60 pelny wykup); odzyskiwalne - dlug przeniesiony na blok, bracia winni bractwu na ludzkich ratach. Wlozone przez wspolny worek, ale czesc Symona wyszla DUZA -> rozmycie firewalla NIEPELNE (rysa, nie przeciek).
+- 298-06-17: 100 jel wor obrotowy Tama (trading-arm firmy na probe) - kapital wdrozony (kupno/sprzedaz w cyklu), nie strata. Mandat: do 100 jel, 1-2 cykle probne (Gulltown/lokal), melduje Halowi przed ruchem, udzial w zysku. Wynik 1. cyklu ~za pare dni.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))

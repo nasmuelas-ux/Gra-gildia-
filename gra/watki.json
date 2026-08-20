@@ -1574,9 +1574,10 @@
   {
    "id": "marza_zamkowa_umowa",
    "tytul": "Marza zamkowa / stala umowa prowiantowa (Wylis)",
-   "status": "BLISKO PODPISU (298-06-23)",
+   "status": "GATED (298-06-23) - podpis na BEZBLEDNEJ dostawie + przeszkoda Ulric",
    "opis": "298-06-23 (rzut 78): Godric (oredownik) odslonil luke po zawodzacym dostawcy zamku, poprosil Symona o wypelnienie lancuchem. Wypelnic pewnie -> wzmacnia filar marzy zamkowej + Godric szepnie Wylisowi -> stala umowa prowiantowa blisko podpisu. Wylis ufa czystym liczbom; elewacja na czlowieka rady umacnia.",
-   "nastepny_krok": "Wypelnic luke Godrica dostawa (lancuch podaz->Aurane->wozy Borena->zamek, czysta ksiega); Godric szepnie Wylisowi; domknac stala umowe."
+   "nastepny_krok": "(1) Hal wypelnia luke Godrica ABSOLUTNIE BEZBLEDNIE (Wylis podpisuje robote nie slowo); (2) ZNEUTRALIZOWAC/udobruchać ULRICA nim zatruje ucho Wylisa (nie prowokowac, moze audyt-obrona/pokazac ze nie zagraza jego twarzy, moze przez Godrica); potem domknac umowe.",
+   "realia_0623": "298-06-23 (rzut 2): odswiezenie u Wylisa STUDZONE. Kasztelan-celnik podpisuje TYLKO na bezbldnej dostawie (nie tytul/orednictwo): wypelnic luke Godrica bez skazy=warunek pieczeci. + Ulric (wrogi szafarz) PORUSZYL SIE przeciw umowie od srodka (szepty/procedura). Podpis DALEJ niz sugerowal Godric. Nieurazone, ale trudniej."
   }
  ]
 }

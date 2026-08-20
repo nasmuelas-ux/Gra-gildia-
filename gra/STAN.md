@@ -108,7 +108,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 81
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 88
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 94
-- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 85
+- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 86
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 63
 - **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
 - **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 0

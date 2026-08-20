@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 6,
-  "dzien": 7,
+  "dzien": 8,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "RANEK",
  "sezon": "wczesne lato (298)",
  "pogoda": 11,
- "dzien_tygodnia_nr": 7,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "nastroje_miasta": "Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport rosną, zimowy underwriting/prowiant taperuje.",
  "ceny": {
@@ -49,7 +49,7 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki",
+ "swieto": null,
  "dzien": 2,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",

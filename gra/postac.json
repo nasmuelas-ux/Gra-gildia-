@@ -12,7 +12,7 @@
  "zmeczenie": 15,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 343,
+  "jelenie": 243,
   "smoki": 0
  },
  "dobytek": [
@@ -219,7 +219,8 @@
   "kapital_ambasada_halvard": "~50 jel florda w drodze z Fennem - skup bursztynu+arrha (kapital wdrozony, staje sie towarem/relacja); wynik ~3-4 tyg",
   "wzglad_lorda_wymana_na_szlak": "298-06-06: lord Wyman blogoslawi szlak Polnoc-BP i daje IMIE za plecami - Symon moze powolywac sie na 'wzglad lorda Wymana' by taniej otwierac zamkniete drzwi (opening doors/foreclose frictions). Kapital lorda dopiero PO dowodzie ze arteria samofinansuje sie dwustronnie. Karta Krol.Przystani UCHYLONA (gorace).",
   "barka_rzeczna_wlasna": "298-06-08: PIERWSZY KIL ARTERII - uzywana barka rzeczna (plaskodenna, Bialy Noz) po starym flisaku. Rzut 75: dno zdrowe/stepka prosta/poszycie mocne, tylko uszczelnienie+drobna lata; osprzet (dragi/cumy/takielunek) w cenie. Koszt ~50 jel (45+5). Daje WLASNY ZEGAR - probny kurs na wlasny termin ku Winterfell. Do przemyslenia: kapitan/prowadzacy (Cass?), cumowanie/postoj. || 298-06-08: KAPITAN=Cass (znawca Bialego Noza; zold+maly udzial w zysku rejsu). CUMOWANIE=Solne Nabrzeze (sol Harlona pod reka, blisko kantoru, drobna oplata postojowa). Kosciec operacyjny gotowy - zostaje data 1. rejsu (lead-time soli + gotowosc beli Miry) + uprzedzic Luwina o plotnie.",
-  "udzial_stopgap_kolodzieje": "298-06-12/13: ~90 jel laczny udzial Symona w bloku wykupu weksli 2 kolodziejow (30 stopgap + 60 pelny wykup); odzyskiwalne - dlug przeniesiony na blok, bracia winni bractwu na ludzkich ratach. Wlozone przez wspolny worek, ale czesc Symona wyszla DUZA -> rozmycie firewalla NIEPELNE (rysa, nie przeciek)."
+  "udzial_stopgap_kolodzieje": "298-06-12/13: ~90 jel laczny udzial Symona w bloku wykupu weksli 2 kolodziejow (30 stopgap + 60 pelny wykup); odzyskiwalne - dlug przeniesiony na blok, bracia winni bractwu na ludzkich ratach. Wlozone przez wspolny worek, ale czesc Symona wyszla DUZA -> rozmycie firewalla NIEPELNE (rysa, nie przeciek).",
+  "wor_obrotowy_tam": "298-06-17: 100 jel wor obrotowy Tama (trading-arm firmy na probe) - kapital wdrozony (kupno/sprzedaz w cyklu), nie strata. Mandat: do 100 jel, 1-2 cykle probne (Gulltown/lokal), melduje Halowi przed ruchem, udzial w zysku. Wynik 1. cyklu ~za pare dni."
  },
  "licznik_uzyc": {
   "audyt": 11,

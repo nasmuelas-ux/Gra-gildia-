@@ -1545,9 +1545,10 @@
   {
    "id": "handlarz_obrotowy_firma",
    "tytul": "Potrzeba handlarza obrotowego (trading-arm firmy)",
-   "status": "ZARYSOWANY (298-06-17) - decyzja kierunku otwarta",
+   "status": "URUCHOMIONY NA PROBE (298-06-17) - Tam, wor 100 jel, 1. cykl pending",
    "opis": "298-06-17: Symon podniosl w firmie potrzebe kogos kto AKTYWNIE obraca kapitalem w towar (kup tanio/sprzedaj drogo w sieci: Gulltown/interior/zboze/arteria), nie tylko liczy/posredniczy za prowizje. Hal przytaknal: siec bez handlarza=siec bez rybaka; brac MARZE z wlasnego obrotu nie tylko prowizje z cudzego. WARUNKI Hala: (1) OSOBNY WOR obrotowy (flota obrotowa oddzielona od kasy biezacej, skromny na start - po kolodziejach chudsi); (2) WLASCIWY CZLOWIEK (instynkt+zaufanie, obcego nie do wora=firewall, wychowac swojego); (3) WIAZANIE udzialem (marza dzielona/strata ograniczona jak Cass). REKOMENDACJA Hala: TAM (bystry/lojalny/rosnie, zielony) na MALY wor obrotowy pod okiem, 1-2 cykle na probe (Gulltown/lokalny) - wyjdzie=handlarz+partner, nie=garsc nie fortuna. 'Buduj by sie uczyc skaluj gdy wiesz'. ALT: najac wyjadacza (szybko/drozej/ryzyko), albo wielki obrot na domu Nesty (przymierze) a wlasny pozniej.",
-   "nastepny_krok": "Decyzja kierunku: wychowac Tama na probnym worze (tanio/bezpiecznie), najac gotowego handlarza (szybko/drozej), albo oprzec obrot na domu Nesty i wlasny pozniej."
+   "nastepny_krok": "Tam prowadzi 1. cykl probny (rozglada sie po cenach, kupuje ostroznie) - wynik ~za pare dni (rzut jak mu poszlo jako handlarzowi). Wyjdzie=rosnie w handlarza/partnera+skalowac wor; nie=czesne, garsc nie fortuna.",
+   "decyzja_0617": "298-06-17: Symon wybral TAMA na probe, wor 100 jel. Mandat bounded (do 100, 1-2 cykle Gulltown/lokal, meldunek Halowi przed ruchem, udzial w zysku, prawo do porazki). Firewall czysty (wychowany swoj nie najety obcy). Hal czuwa. Wynik 1. cyklu ~za pare dni - pokaze czy Symon ma handlarza. Kasa Symona 343->243 (100 w worze=wdrozone)."
   }
  ]
 }

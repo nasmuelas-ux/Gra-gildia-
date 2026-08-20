@@ -26,8 +26,11 @@ _Kwoty miesięczne = SZACUNKI do wytrowania w Dniu Bilansu. Urealnione 06-22 na 
 | **Deman** | klerk-analityk (intel/dane) | ~4 |
 | **Jory** | ręka na próbie | ~3 |
 | **Cass** | kapitan barki (arteria) | żołd/rejs + udział w kursie |
+| **Pate** | **magazynier** (skład Środkowe Nabrzeże — składowanie, rygor, "zna każdą belkę") | **~4–5** |
 
-**Suma płac/udziałów zespołu (szac.): ~+55–90 jel/mies** (płace hojne = lojalność; straż + Bran ważą realnie).
+**Suma płac/udziałów zespołu (szac.): ~+60–95 jel/mies** (płace hojne = lojalność; straż + Bran + magazynier ważą realnie).
+
+_Domena magazynu: **Pate** trzyma skład + składowanie zimowe kupców (strumień #12); pod nim porządek magazynowy, inwentarz, rygor._
 
 ---
 
@@ -68,7 +71,7 @@ _Kwoty miesięczne = SZACUNKI do wytrowania w Dniu Bilansu. Urealnione 06-22 na 
 
 | Element | Koszt ~mies (szac.) |
 |---|---|
-| **Płace + udziały zespołu** (Bran ~8–10, straż 2×~5–6, Wick/Tam/Fenn/Deman/Jory + Hal-udział + Cass) | **~+55–90** |
+| **Płace + udziały zespołu** (Bran ~8–10, straż 2×~5–6, Pate ~4–5, Wick/Tam/Fenn/Deman/Jory + Hal-udział + Cass) | **~+60–95** |
 | **Rezerwa na złe długi** (ramię kredytu) | **~+8–22** |
 | **Barka** (postojowe/utrzymanie, poza żołdem Cassa) | **~+4–8** |
 | **Magazyny / siedziba** (Aurane, raty Ondrew) | **~+10–22** |
@@ -116,6 +119,6 @@ _Kwoty miesięczne = SZACUNKI do wytrowania w Dniu Bilansu. Urealnione 06-22 na 
 - **Filary:** rotacja faktorii + marża zamkowa. **Usługi** (audyty, brokering, dostępność, pergaminy, doradztwo) = wysokomarżowe, skalowalne — sprzedajesz umysł, sieć i wytwórczość, nie tylko towar.
 - **Płynność cienka** (183/0) mimo dużego obrotu — kapitał celowo pracuje (rotacja/kredyt/arteria/wór/pergamin).
 - **Płace hojne** (Bran, straż) = lojalność, którą już nieraz zbierałeś (Bran ścigał Marnę, Hew spod lodu, cech kołodziejów).
-- **Kontrola:** każde ramię z osobnym prowadzącym (Wick=kredyt, Tam=obrót, Cass=barka, Hal=audyt/egzekucja, Wat=pergamin, Bran=dom, Deman=intel) — Symon = architekt + oko.
+- **Kontrola:** każde ramię z osobnym prowadzącym (Wick=kredyt, Tam=obrót, Cass=barka, **Pate=magazyn**, Hal=audyt/egzekucja, Wat=pergamin, Bran=dom, Deman=intel) — Symon = architekt + oko.
 
 _Do wytrowania twardo w Dniu Bilansu (należny 298-07-01, zaległy maj+czerwiec)._

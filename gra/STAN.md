@@ -10,7 +10,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-05-20 WIECZÓR · wiosna (298) - Północ wyszła z zimy
+- **Data:** 298-05-21 RANEK · wiosna (298) - Północ wyszła z zimy
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
@@ -61,6 +61,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-05-01 Dzień Bilansu (Symon w drodze): netto ~+70 jel pasywne (czynsze/retainery/odsetki/plon firmy minus koszty) zaksięgowane na kontach domowych pod ręką Nesty — do odbioru/reconcile po powrocie (NIE w sakiewce podróżnej 203).
 - 298-05-02 (rada Ulfa): przed Starkiem/Północą (stare bogi) NIE grać południowca — prostota, dotrzymane słowo, wzrok w oczy; gładkość/komplementy/niski ukłon=fałsz dla Północy. Natura Symona (prosty, uczciwy, plain-dealing) = jego ATUT w Winterfell. 'Bądź jaki jesteś przy naszym ogniu.' (Kontrast do rady Theomore'a o Luwinie — ta o kulturze Północy ogółem.)
 - 298-05-17: kupiony ladunek startowy backhaul (futra/skory/welna od polnocnych producentow, targ wizyty krola, uczciwa cena) za ~120 jel — na wolne barki w dol rzeki (z pradem=tanio); sprzedaz/eksport w Bialym Porcie przez Neste=marza. Pierwszy krok stalego kanalu BP<->Winterfell w druga strone (prowiant w gore, polnocne dobra w dol).
+- 298-05-21: LIST z Winterfell do lorda Wymana (Luwin spisal, Eddard skinal) - kurtuazja: podziekowanie za danine + Stark pamieta wiernosc Manderlych. DOWOD NA PISMIE ze poselstwo wypelnione bez skazy. Zawiezc lordowi = zloto dla Wymana + kamien wegielny standingu Symona.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))

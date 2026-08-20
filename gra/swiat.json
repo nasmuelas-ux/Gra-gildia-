@@ -2,14 +2,14 @@
  "data": {
   "rok": 298,
   "miesiac": 6,
-  "dzien": 5,
+  "dzien": 6,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesne lato (298)",
- "pogoda": 72,
- "dzien_tygodnia_nr": 5,
- "dzien_targowy": false,
+ "pogoda": 11,
+ "dzien_tygodnia_nr": 6,
+ "dzien_targowy": true,
  "nastroje_miasta": "Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport rosną, zimowy underwriting/prowiant taperuje.",
  "ceny": {
   "chleb": {
@@ -83,5 +83,5 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "BIAŁY PORT — WRÓCIŁ Z WINTERFELL (~06-03). W domu."
+ "lokacja_gracza": "BIAŁY PORT — w domu (u Miry). Ambasada Fenn/Ulf/Garrick wyruszyla o świcie w głąb Północy."
 }

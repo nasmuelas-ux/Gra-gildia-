@@ -520,7 +520,7 @@
     "herezje z Wolnych Miast w porcie"
    ],
    "nastawienie_do_gracza": 100,
-   "zaufanie": 71,
+   "zaufanie": 74,
    "wie_o_graczu": [
     "obcy z Polnocy, uczony przez maestera",
     "dobra, pewna reka do pisma",
@@ -632,7 +632,8 @@
     "298-04-07 Dzień Matki: służba w cieniu wieści o śmierci Jona Arryna. Symon wysłuchał PULSU DOŁU — ubodzy czują wielką politykę jako lęk o cenę chleba ('panowie się gryzą, nam ceny rosną'). Owen: 'ty patrz na ceny, ja na dusze; jak przyjdzie niepokój, ubodzy oberwą pierwsi, relief i twoje pióro zaważą podwójnie'. Zbroja Wiary +cegła. Wiara 95→96.",
     "298-04-21: Symon wyznał mu dylemat Winterfell-vs-poród; Owen dał miarę 'osłania czy porzuca?' zamiast rozkazu. Więź duchowa mocna.",
     "298-06-04: wspial sie (czlowiek rady lorda) NIE tracac siebie - Owen ugruntowal go, przestrzegl przed proba wladzy, przypomnial tarcze slabych/korzenie. Wiez duchowa na szczycie.",
-    "298-06-07 (Dzien Matki, rzut 78): Symon sluzyl w sepcie pisząc dla niepiśmiennych ubogich. Cicho obronil mloda wdowe LEDE - wlasciciel izby oszukiwal ja falszywym 'dlugiem' (suma dopisana swiezym atramentem na pokwitowaniu); Symon przeczytal, spisal jej wlasciwy odpis i nauczyl co mowic - BEZ rozglosu, bez swojego nazwiska (tarcza nie sztandar). Owen to widzial. POJEDNANIE/POTWIERDZENIE: 'balem sie ze urosniesz w gore i przestaniesz patrzec w dol - a ty rosniesz i dalej patrzysz w dol'. Owen stanal po jego stronie, ochrzci dziecko Z RADOSCIA. Relacja mocno ocieplona."
+    "298-06-07 (Dzien Matki, rzut 78): Symon sluzyl w sepcie pisząc dla niepiśmiennych ubogich. Cicho obronil mloda wdowe LEDE - wlasciciel izby oszukiwal ja falszywym 'dlugiem' (suma dopisana swiezym atramentem na pokwitowaniu); Symon przeczytal, spisal jej wlasciwy odpis i nauczyl co mowic - BEZ rozglosu, bez swojego nazwiska (tarcza nie sztandar). Owen to widzial. POJEDNANIE/POTWIERDZENIE: 'balem sie ze urosniesz w gore i przestaniesz patrzec w dol - a ty rosniesz i dalej patrzysz w dol'. Owen stanal po jego stronie, ochrzci dziecko Z RADOSCIA. Relacja mocno ocieplona.",
+    "298-06-14 (Dzien Matki, rzut 78): Owen odciagnal Symona - za tydzien ochrzci dziecko, mowil jak ojciec z przyszlym ojcem o PROGU ojcostwa ('dostaniesz cos co cie zmieni bardziej niz lord/arteria - dziecko; balem sie ze urosniesz w twardosc, a ty rosniesz w tarcze'). Poblogoslawil: prosi Matke by Mira przeszla polog CALO. Ochrzci z radoscia. Symon uklekl po swojemu, prosil o bezpieczenstwo Miry. Wiez gleboka. zauf+3."
    ],
    "dlugi": [],
    "ostatni_kontakt": "298-06-04: Symon wrocil z Winterfell - rozliczenie moralne. Symon: wrocil czysty/wiekszy (danina karmi POLNOC nie krola=oslona; kradziez oddal cicho bez donosu/krzywdy; przed Starkiem NIE chwytal zjednal soba; nie prosil lorda o zaplate; WROCIL w pore do Miry=nie porzucil gniazda). OWEN potwierdza: stanales po SWIETEJ stronie miary ('ambicja co karmi glodnych i wraca do zony jest swieta; wrociles wiekszy bo nie kupiles standingu dusza'). PRZESTROGA: teraz trudniejsza proba=WLADZA (czlowiek rady) - trzymac tarcze slabych gdy juz nie musisz, pamietac korzenie (Rybi Zaulek/stolik pod Focza) 'kto pamieta nie upadnie'. Ochrzci dziecko (porod lada dzien, ojciec w progu nie pod Winterfell).",
@@ -1217,9 +1218,9 @@
    "id": "leda_wdowa",
    "imie": "Leda",
    "zawod": "mloda wdowa z dwojgiem dzieci (niemowle+male), uboga, niepismienna",
-   "nastawienie_do_gracza": 70,
-   "zaufanie": 30,
-   "nota": "298-06-07: Symon cicho obronil ja w sepcie - wlasciciel izby oszukiwal falszywym 'dlugiem' (dopisana suma). Symon spisal wlasciwy odpis+nauczyl co mowic, bez rozglosu. Wdzieczna, choc nie do konca rozumie mechanike. Potencjalny cichy wezel wsrod ubogich/reputacja tarczy slabych."
+   "nastawienie_do_gracza": 78,
+   "zaufanie": 40,
+   "nota": "298-06-07: Symon cicho obronil ja w sepcie - wlasciciel izby oszukiwal falszywym 'dlugiem' (dopisana suma). Symon spisal wlasciwy odpis+nauczyl co mowic, bez rozglosu. Wdzieczna, choc nie do konca rozumie mechanike. Potencjalny cichy wezel wsrod ubogich/reputacja tarczy slabych. | 298-06-14 (Dzien Matki, rzut 78): WROCILA podziekowac - spokojniejsza. Odpis+2 zdania Symona ZADZIALALY: wlasciciel widzac ze zna prawde na pismie ODPUSCIL, zostala z dziecmi pod dachem. Tarcza sprzed tygodnia TRZYMA. 'Matka mi was zeslala'. Dowod ze cicha dobroc niesie skutek. nast+8/zauf+10."
   }
  ],
  "w_orbicie": [

@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-06-05 RANEK · wczesne lato (298)
+- **Data:** 298-06-06 RANEK · wczesne lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 483 jeleni + 1 mied + 0 smokow
+- **Wolne:** 433 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -64,6 +64,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-05-21: LIST z Winterfell do lorda Wymana (Luwin spisal, Eddard skinal) - kurtuazja: podziekowanie za danine + Stark pamieta wiernosc Manderlych. DOWOD NA PISMIE ze poselstwo wypelnione bez skazy. Zawiezc lordowi = zloto dla Wymana + kamien wegielny standingu Symona.
 - 298-06-04 REKALIBRACJA (audyt Symona na wskazanie gracza - plaski '~+70 netto' byl zanizona estymata): (1) UDZIAL WZROSL - mostek refi 300 jel + sukcesja Nesty na pryncypala zwiekszyly staly udzial Symona w kantorze/faktorii ('dam mostek to rosnie moj udzial'); bierze wiekszy kawal plonu. (2) SKALA WZROSLA - restrukturyzacja/sklad-siedziba/warrant prowiantowy/kanal backhaul BP-Winterfell nascentny = wiecej wolumenu/brutto. (3) RETAINERY sa w pasywie (Aurane+faktoria+blok-rdzen) - potwierdzone. (4) AUDYTY (Warstwa B) slusznie ZERO przez miesiac w drodze (nie brak, wraca teraz przy biurku). (5) PAPIERNIA = wenture NIE strumien (mlyn namierzony, NIE kupiony/zbudowany, 0 przychodu; przyszly projekt kapitalowy, poprawnie nie w bilansie). (6) KOSZTY rosly ze skala (wage line: Fenn/Jory/Wick/Corliss/Deman/Pate/Hendry + utrzymanie skladu + raty Ondrewa + household + relief) - urealnione. WYNIK: netto pasywne go-forward ~+105 jel/mies (bylo ~+70). Korekta wstecz: 05-01 i 06-01 zanizone (+70 zamiast ~+105) -> skumulowane konta domowe za 2 mies ~+210 jel (nie +140), kapital firmy/Symona u Nesty.
 - ~+210 jel skumulowane pasywne (05-01+06-01 urealnione ~+105/mies) na kontach domowych/firmie pod reka Nesty - kapital Symona, do dyspozycji/reinwestycji.
+- ~50 jel florda w drodze z Fennem - skup bursztynu+arrha (kapital wdrozony, staje sie towarem/relacja); wynik ~3-4 tyg
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))
@@ -105,7 +106,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 81
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 88
 - **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 94
-- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 83
+- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 85
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 63
 - **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
 - **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 0

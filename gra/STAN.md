@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-06-11 RANEK · wczesne lato (298)
+- **Data:** 298-06-17 RANEK · wczesne lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 395 jeleni + 1 mied + 0 smokow
+- **Wolne:** 343 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -67,6 +67,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - ~50 jel florda w drodze z Fennem - skup bursztynu+arrha (kapital wdrozony, staje sie towarem/relacja); wynik ~3-4 tyg
 - 298-06-06: lord Wyman blogoslawi szlak Polnoc-BP i daje IMIE za plecami - Symon moze powolywac sie na 'wzglad lorda Wymana' by taniej otwierac zamkniete drzwi (opening doors/foreclose frictions). Kapital lorda dopiero PO dowodzie ze arteria samofinansuje sie dwustronnie. Karta Krol.Przystani UCHYLONA (gorace).
 - 298-06-08: PIERWSZY KIL ARTERII - uzywana barka rzeczna (plaskodenna, Bialy Noz) po starym flisaku. Rzut 75: dno zdrowe/stepka prosta/poszycie mocne, tylko uszczelnienie+drobna lata; osprzet (dragi/cumy/takielunek) w cenie. Koszt ~50 jel (45+5). Daje WLASNY ZEGAR - probny kurs na wlasny termin ku Winterfell. Do przemyslenia: kapitan/prowadzacy (Cass?), cumowanie/postoj. || 298-06-08: KAPITAN=Cass (znawca Bialego Noza; zold+maly udzial w zysku rejsu). CUMOWANIE=Solne Nabrzeze (sol Harlona pod reka, blisko kantoru, drobna oplata postojowa). Kosciec operacyjny gotowy - zostaje data 1. rejsu (lead-time soli + gotowosc beli Miry) + uprzedzic Luwina o plotnie.
+- 298-06-12/13: ~90 jel laczny udzial Symona w bloku wykupu weksli 2 kolodziejow (30 stopgap + 60 pelny wykup); odzyskiwalne - dlug przeniesiony na blok, bracia winni bractwu na ludzkich ratach. Wlozone przez wspolny worek, ale czesc Symona wyszla DUZA -> rozmycie firewalla NIEPELNE (rysa, nie przeciek).
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-05-01 (ostatni: 298-04-01 (WYKONANY: miesiąc 298-03 zamknięty; pasywna ~92 brutto − podatek − odpis reliefu → netto +72 do kasy))
@@ -86,7 +87,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
     - korytarz_sukna: Korytarz braawijski (sukno in Leona/Mira -> faktoria Nesta -> Aurane; bursztyn/futra out Braavos). LIPIEC MALY (~5 dni, ozyl 07-26): prowizja +5 (07-21) + ~3 marza koordynacyjna = ~8 jel. Bursztyn/futra=0 w lipcu (edge rozruchowy, zysk Braavos dojrzewa tygodniami). OD SIERPNIA PELNY FILAR: caly miesiac importu sukna (marza) + pierwsze zwroty bursztynu/futer z Braavos + specjalna nisza Miry. Skaluje sie.
     - prowiantowanie_udzial_zima: Udzial w zimowym prowiantowaniu zamku (od 09-19, Mira-pryncypal/firma): margin per dostawa. Pierwsze partie bezbledne. Ksieguj per dostawa; rosnie, a przy klesce rywala moze wchlonac calosc.
 - _Koszty (dla netto):_ Koszty juz wliczone w netto powyzej: dozorca Bran 2 jel (w czynszu), place juniorow Hal/Wick 5 jel (w firmie). OSOBNO periodycznie: podatek_miejski (kwota/termin wg kalendarza - odjac przy naliczeniu). Wlasne utrzymanie Symona pokrywa gotowka biezaca.
-- Zdrowie 100 · Sytosc 37 · Zmeczenie 2
+- Zdrowie 100 · Sytosc 37 · Zmeczenie 15
 
 ## UMIEJETNOSCI (0-10)
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 9 · wlodarstwo 8
@@ -95,9 +96,9 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 
 ## LUDZIE NA SCENIE (nast. do gracza)
 - **Serla** (serla_wdowa) — wdowa po bednarzu, wynajmuje poddasze · nast 72
-- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 80
+- **Wenda** (wenda_rybia) — przekupka na Targu Rybnym · nast 82
 - **Bran** (bran_tragarz) — ZAUFANY ZARZADCA-SPINACZ Symona (majordomus): zarzadca domu+ · nast 100
-- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 92
+- **Nesta** (nesta_braavijka) — faktorka braavijskiego kupca (wdowa), prowadzi kantor · nast 94
 - **Garth** (garth_celnik) — pisarz celny przy Bramie Foki (sluzba Manderlych) · nast 37
 - **Pate** (pate_skryba) — licencjonowany skryba cechu, lawy przy Schodach · nast -3
 - **Owen** (septon_owen) — septon przy Septie Sniegow, prowadzi sierociniec i szkolke · nast 100
@@ -107,8 +108,8 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Ryman Cwiakel** (notariusz_ryman) — notariusz, starszyzna Cechu Pisarzy; spisuje umowy kupcom · nast 0
 - **Vox** (kupiec_vox) — miejscowy kupiec suknem, respektowany; podejrzewa, ze wspoln · nast 81
 - **Leona** (leona_wdowa) — kupcowa suknem/welna na Schodach (po mezu, prowadzi sama) · nast 88
-- **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 94
-- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 86
+- **Boren** (boren_koladziej) — cechmistrz koladziejow (kolodziejow) · nast 99
+- **Torsen** (torsen_drwal) — kupiec drzewny; faktor Halvard w glebi Polnocy (Bialy Noz) · nast 87
 - **Elna** (wdowa_elna) — brak; pod opieka cechu koladziejow · nast 63
 - **Bennet** (posiadacz_bennet) — pomniejszy posiadacz ziemski (bor pod Bialym Portem); ziemia · nast 75
 - **Rennifer** (kupiec_rennifer) — gladki, dobrze zakapitalizowany faktor zbozowo-opalowy; wiez · nast 0
@@ -118,10 +119,10 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **stary Cass** (cass_wozacz_interioru) — woźnica-faktor interioru (dolina Białego Noża + królewski go · nast 68
 - **Rennick** (rennick_brygadzista) — brygadzista z Zaułka (ekipa portowa Symona), za którego ręcz · nast 70
 - **Ulf** (ulf_interior) — człowiek Halvarda z głębi Północy (chłop/traper) — znawca kr · nast 66
-- **Luwin** (maester_luwin) — maester Winterfell (dwór Starków) — uczony, rządzi składami/ · nast 78
+- **Luwin** (maester_luwin) — maester Winterfell (dwór Starków) — uczony, rządzi składami/ · nast 82
 - **Roggen** (szafarz_roggen) — starszy szafarz zachodnich składów Winterfell (sługa od lat, · nast nieznane (nie kontaktowani; Symon obserwuje z boku)
 - **Eddard Stark** (lord_eddard_stark) — Lord Winterfell, Warden of the North; wkrotce Reka Krola (je · nast 75
-- **Leda** (leda_wdowa) — mloda wdowa z dwojgiem dzieci (niemowle+male), uboga, niepis · nast 70
+- **Leda** (leda_wdowa) — mloda wdowa z dwojgiem dzieci (niemowle+male), uboga, niepis · nast 78
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

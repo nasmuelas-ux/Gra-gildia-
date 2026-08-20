@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 5,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "RANEK",
  "sezon": "wiosna (298) - Północ wyszła z zimy",
- "pogoda": 76,
- "dzien_tygodnia_nr": 5,
+ "pogoda": 48,
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "nastroje_miasta": "Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport rosną, zimowy underwriting/prowiant taperuje.",
  "ceny": {

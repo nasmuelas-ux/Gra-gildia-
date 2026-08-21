@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 6,
-  "dzien": 25,
+  "dzien": 26,
   "era": "AC"
  },
  "pora": "RANEK",
  "sezon": "wczesne lato (298)",
  "pogoda": 11,
- "dzien_tygodnia_nr": 3,
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "nastroje_miasta": "Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport rosną, zimowy underwriting/prowiant taperuje.",
  "ceny": {

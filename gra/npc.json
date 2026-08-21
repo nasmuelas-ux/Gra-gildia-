@@ -2871,20 +2871,6 @@
    "urodzona": "298-06-20 swit",
    "nastawienie_do_gracza": 100,
    "nota": "CÓRKA Symona i Miry, ur. 298-06-20 o swicie po ciezkim porodzie (uratowanym redundancja Gerda+Marna). Zdrowa. Imie LYRA - imie starych rodow Polnocy, wybrane przez Symona (godnosc nie bogactwo, rezonans z gwiazda polnocna). Owen ochrzci gdy Mira wstanie."
-  },
-  {
-   "id": "lord_medger_cerwyn",
-   "imie": "Medger Cerwyn",
-   "zawod": "lord rodu Cerwyn (zamek na goscincu ~pol dnia pod Winterfell)",
-   "nastawienie_do_gracza": "cieply/z szacunkiem - zaszczycony osobista wizyta bogatego czlowieka Wymana; uklad stanal jak miedzy ludzmi (rzut 86, 07-05)",
-   "ostatni_kontakt": "298-07-05 zamek Cerwyn - uklad arterii: przejscie+depot+wozy. Twardy, niebogaty, honorny, oddany Starkom bez reszty. Widzi wartosc w byciu POTRZEBNYM Winterfell, nie tylko w groszu."
-  },
-  {
-   "id": "harwin_woznica_cerwyn",
-   "imie": "Harwin",
-   "zawod": "woznica/wozataj rodu Cerwyn - zna gosciniec do bram Winterfell na pamiec (bloto, brody)",
-   "nastawienie_do_gracza": "sluzbowo-zyczliwy; jego wozy wioza ostatnia noge arterii (delikatny towar okryty)",
-   "ostatni_kontakt": "298-07-05 - przypisany do wozow arterii (Cerwyn->Winterfell)"
   }
  ],
  "orbita": [

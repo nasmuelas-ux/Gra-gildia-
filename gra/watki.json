@@ -1580,13 +1580,14 @@
   {
    "id": "marza_zamkowa_umowa",
    "tytul": "Marza zamkowa / stala umowa prowiantowa (Wylis)",
-   "status": "UZGODNIONA - pieczec zawieszona na CZYSTEJ FAZIE PROBNEJ (Hal+luka Godrica)",
+   "status": "PODPISANA (298-06-30) - stala umowa prowiantowa, filar=renta",
    "opis": "298-06-23 (rzut 78): Godric (oredownik) odslonil luke po zawodzacym dostawcy zamku, poprosil Symona o wypelnienie lancuchem. Wypelnic pewnie -> wzmacnia filar marzy zamkowej + Godric szepnie Wylisowi -> stala umowa prowiantowa blisko podpisu. Wylis ufa czystym liczbom; elewacja na czlowieka rady umacnia.",
    "nastepny_krok": "HAL przeprowadza faze probna / wypelnia luke Godrica ABSOLUTNIE BEZBLEDNIE = ostatni dowod -> pieczec stalej umowy prowiantowej (filar w rente). Pilnowac Ulrica (moze blysnac przy potknieciu). Redundancja zrodel (Torwyn/Merrek/backhaul) jako rezerwa.",
    "realia_0623": "298-06-23 (rzut 2): odswiezenie u Wylisa STUDZONE. Kasztelan-celnik podpisuje TYLKO na bezbldnej dostawie (nie tytul/orednictwo): wypelnic luke Godrica bez skazy=warunek pieczeci. + Ulric (wrogi szafarz) PORUSZYL SIE przeciw umowie od srodka (szepty/procedura). Podpis DALEJ niz sugerowal Godric. Nieurazone, ale trudniej.",
    "pozycja_wylisa_0623": "298-06-23 (rzut 35): Symon wyciagnal PRAWDZIWA pozycje Wylisa (mgla opadla). Nie 'dowoz za slaby' (wzorowy). 3 wezly: (1) GROZA WYLACZNEJ ZALEZNOSCI (stala umowa=zamek na 1 rece, jego glowa jak zawiedzie przy zamknieciu); (2) PARADOKS STATUSU - elewacja Symona na czlowieka rady ODDALILA podpis (jak egzekwowac kare na radnym co siedzi nad kasztelanem? zabrala mu bat); (3) ULRIC podsyca od srodka. To PROBLEM DO ZAPROJEKTOWANIA (zywiol Symona), nie sciana.",
    "wezel_statusu_zamkniety_0623": "298-06-23 (rzut 42): PARADOKS STATUSU ROZWIAZANY - strona umowy=FIRMA/Hal (egzekwowalna) + Symon osobiscie poddaje sie karze bez oslony rangi. Wylis poruszony, SZACUNEK zdobyty ('mowi wiecej niz czysta ksiega'). Wezel #2 domkniety. ZOSTAJE: #1 wylaczna zaleznosc (zada CIAGLOSCI: backup/rezerwa podazy+faza probna+dowod ze lancuch bez 1 reki) + #3 Ulric podsyca grozę #1.",
-   "domkniecie_0623": "298-06-23 (rzut 28): ZALEZNOSC zdjeta (rezerwa podazy+faza probna=ciaglosc, glowa Wylisa bezpieczna). Umowa UZGODNIONA co do struktury (status+zaleznosc OK), pieczec TYLKO na czystej fazie probnej ('przeprowadz probe czysto=pieczec'). ULRIC przygaszony przez Godrica (koniec jawnego sabotazu) ale NIEZJEDNANY (cierpki/czujny cierń, moze blysnac jak proba sie potknie). O JEDEN CZYSTY DOWOZ od stalej umowy."
+   "domkniecie_0623": "298-06-23 (rzut 28): ZALEZNOSC zdjeta (rezerwa podazy+faza probna=ciaglosc, glowa Wylisa bezpieczna). Umowa UZGODNIONA co do struktury (status+zaleznosc OK), pieczec TYLKO na czystej fazie probnej ('przeprowadz probe czysto=pieczec'). ULRIC przygaszony przez Godrica (koniec jawnego sabotazu) ale NIEZJEDNANY (cierpki/czujny cierń, moze blysnac jak proba sie potknie). O JEDEN CZYSTY DOWOZ od stalej umowy.",
+   "podpis_0630": "298-06-~30 (rzut 95): Hal dowiozl faze probna/luke BEZ SKAZY -> Wylis POSTAWIL PIECZEC. STALA UMOWA prowiantowa (firma/Hal strona, samo-poddanie karze, rezerwa+ciaglosc). Ulric neutralny (nie mial co szeptac). FILAR marza zamkowa = STALA RENTA. Cala negocjacja domknieta triumfem."
   }
  ]
 }

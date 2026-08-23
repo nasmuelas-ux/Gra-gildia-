@@ -1598,6 +1598,23 @@
    "wezel_statusu_zamkniety_0623": "298-06-23 (rzut 42): PARADOKS STATUSU ROZWIAZANY - strona umowy=FIRMA/Hal (egzekwowalna) + Symon osobiscie poddaje sie karze bez oslony rangi. Wylis poruszony, SZACUNEK zdobyty ('mowi wiecej niz czysta ksiega'). Wezel #2 domkniety. ZOSTAJE: #1 wylaczna zaleznosc (zada CIAGLOSCI: backup/rezerwa podazy+faza probna+dowod ze lancuch bez 1 reki) + #3 Ulric podsyca grozę #1.",
    "domkniecie_0623": "298-06-23 (rzut 28): ZALEZNOSC zdjeta (rezerwa podazy+faza probna=ciaglosc, glowa Wylisa bezpieczna). Umowa UZGODNIONA co do struktury (status+zaleznosc OK), pieczec TYLKO na czystej fazie probnej ('przeprowadz probe czysto=pieczec'). ULRIC przygaszony przez Godrica (koniec jawnego sabotazu) ale NIEZJEDNANY (cierpki/czujny cierń, moze blysnac jak proba sie potknie). O JEDEN CZYSTY DOWOZ od stalej umowy.",
    "podpis_0630": "298-06-~30 (rzut 95): Hal dowiozl faze probna/luke BEZ SKAZY -> Wylis POSTAWIL PIECZEC. STALA UMOWA prowiantowa (firma/Hal strona, samo-poddanie karze, rezerwa+ciaglosc). Ulric neutralny (nie mial co szeptac). FILAR marza zamkowa = STALA RENTA. Cala negocjacja domknieta triumfem."
+  },
+  {
+   "id": "przytulek_dzieci_bezrodziny",
+   "tytul": "Przytulek dla dzieci bez rodziny (marzenie dlugie)",
+   "status": "ZIARNO ZASIANE - marzenie 'kiedys', Owen wspolnym straznikiem",
+   "stan": "298-07-02: Symon po chrzcie Lyry przyszedl do septona Owena z marzeniem: KIEDYS postawic dom dla dzieci bez rodziny (portowe podrzutki, sieroty po gorączce, bekarty marynarzy). Owen przyjal cieplo (zna Symona jako czlowieka juz karmiacego ubogich przez relief - nie kaprys bogacza). Dal MADRA rade nie poklask.",
+   "doktryna_owena": [
+    "Dom sierocy = STUDNIA BEZ DNA: mury latwe, utrzymanie co zima wymaga WIECZYSTEGO UPOSAZENIA (grunt/czynsz/staly strumien), inaczej pada po 2 zimach i dzieci sa w gorszym miejscu.",
+    "Robic POD PLASZCZEM WIARY nie pod nazwiskiem Symona: 'dom Wiary ktory Symon wspiera' = trwaly, Bozy, ponad nim, chroni firewall; 'przytulek Symona Tally' = zagarnia milosierdzie, sciaga zazdrosc i pytania 'skad u pisarza srebro'. Pokora=tarcza.",
+    "Zaczac od JEDNEGO dziecka nie od stu: wziac 1-2 pod skrzydlo reliefu, zobaczyc ile naprawde kosztuje, nim instytucja. 'Buduj by sie uczyc' (echo Nesty o statkach).",
+    "Ostroznie z lordem/cechami: milosierdzie=wladza; z czasem widoczny; moze byc ATUTEM (czlowiek dbajacy o slabych=godny rady) ale tylko czysto prowadzony i bez wyprzedzania pozycji."
+   ],
+   "rola_w_luku": "Kolejny punkt gwiazdy polnocnej: nie tylko wznies sie do rady Starkow, lecz ZOSTAW dom dla tych ktorych nikt nie trzyma. Tarcza slabych + nieskazitelnosc uczyniona trwala instytucja. Owen: 'zostanie po tobie wiecej niz po niejednym lordzie'.",
+   "nastepny_krok": "ODLOZONE (kiedys). Po powrocie z Polnocy + mocniejszej pozycji: usiasc z Owenem i policzyc grunt/uposazenie/rece do prowadzenia. W miedzyczasie: gdy Owenowi trafi sie sierota pod brama, da znac - zaczna od jednego. ZERO wylozone teraz (kapital w arterii).",
+   "inbound_oczekiwane": [
+    "Owen da znac gdy trafi mu sie sierota bez miejsca (moze pojedyncze dziecko na start)"
+   ]
   }
  ]
 }

@@ -10,42 +10,46 @@
  "pogoda": 11,
  "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
- "nastroje_miasta": "Wiosna pełna: port kipi żeglugą (galary/kogi wchodzą i wychodzą), sezon budowlany zamku wznawia, targ obfity, miasto ożywione po twardej zimie. Portfel przestawia się na wiosnę: budowa/import/eksport rosną, zimowy underwriting/prowiant taperuje.",
+ "nastroje_miasta": "Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, sol/zboze znormalizowane po zimowym scisku. Portfel na lato: budowa/eksport/arteria rosna, zimowy underwriting/prowiant spi. Miasto syte i ruchliwe.",
  "ceny": {
   "chleb": {
    "baza": 3,
-   "mnoznik": 1.1,
-   "przyczyna": "ocieplenie, trakty lepsze"
+   "mnoznik": 1.0,
+   "przyczyna": "lato - trakty suche, podaz stabilna przed zbiorami"
   },
   "ryba": {
    "baza": 2,
-   "mnoznik": 0.95,
-   "przyczyna": "targ rybny"
+   "mnoznik": 0.9,
+   "przyczyna": "lato - polow obfity, targ rybny"
   },
   "pergamin": {
    "baza": 40,
+   "jednostka": "arkusz",
    "mnoznik": 1.0,
    "przyczyna": null
   },
   "atrament": {
    "baza": 12,
+   "jednostka": "flakon",
    "mnoznik": 1.0,
-   "przyczyna": "braavijska dostawa w porcie"
+   "przyczyna": null
   },
   "opal": {
    "baza": 8,
-   "mnoznik": 1.5,
-   "przyczyna": "gleboka zima grudnia (20) - opal wysoko"
+   "mnoznik": 0.7,
+   "przyczyna": "lato - popyt na opal niski, taniej"
   },
   "wino_korzenne": {
    "baza": 5,
-   "mnoznik": 1.05,
-   "przyczyna": "wino przyplynelo galera"
+   "jednostka": "kufel",
+   "mnoznik": 1.0,
+   "przyczyna": "lato - import galerami stabilny"
   },
   "sol": {
    "baza": 45,
-   "mnoznik": 1.4,
-   "przyczyna": "zimowy scisk soli - pozycja staple aprecjuje"
+   "jednostka": "worek (miara eksportowa)",
+   "mnoznik": 1.1,
+   "przyczyna": "lato - zegluga otwarta, sol znormalizowana; staple eksportowy arterii (lekko powyzej bazy z popytu szlaku)"
   },
   "prowiant_uwaga": null
  },

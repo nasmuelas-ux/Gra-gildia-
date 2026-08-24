@@ -2783,7 +2783,7 @@
    ],
    "misja": "298-06-06 WYRUSZA: AMBASADA do Halvarda nad Bialy Noz (rzut 97 odprawy). Glowa handlowa z mandatem PISEMNYM (mowi w imieniu Symona-czlowieka rady Wymana), granice targu, srebro na bursztyn frontuje Symon przez Torsena. Niesie ZADATEK ~50 jel (skup bursztynu + arrha). Rozkaz: najpierw sluchac, potem oferowac ELASTYCZNIE 'biore ile zbierzesz kiedy zbierzesz' (nie staly kurs). Z Ulfem (most/poreka) i Garrickiem (straz). Powrot/wynik ~3-4 tyg.",
    "rola_dom": "298-06-22: rola w domu = AGENT-SPRZEDAWCA / glowa handlowa (pozyskuje zlecenia, negocjuje, brokering, dosprzedaje uslugi audyty/kancelaria/doradztwo). OBECNIE oddelegowany na ambasade Halvard (akwizycja zrodla). NIE wakat - agent w terenie; lokalny pipeline uslug wznowi po powrocie (~lipiec). Rozwazyc 2. agenta by akwizycja nie gasla gdy jeden jedzie.",
-   "ostatni_kontakt": "298-07-15: WROCIL z ambasady u Halvarda (rzut 52) - ZAMKNAL ZRODLO dolnej nogi (futro+bursztyn splyna arteria; Ulf poreka otworzyl, zadatek 50 forward). Bez wylacznosci/skromny wolumen na start (rosnie z niezawodnoscia). Przywiozl intel o zrodle + ostrzezenie o naslodowcach. AGENT-SPRZEDAWCA dowiodl wartosci (rola zywa). Wraca do lokalnego pipeline'u usług po odpoczynku."
+   "ostatni_kontakt": "298-07-18: RUSZA pipeline uslug. Rozjem Mertyna = zywy dowod do sprzedania ('Tally rozsadzil Okretnikow, obie strony godne'). Lato=wolna pora (pelna para przez tygodnie). ALE nazwisko OTWIERA DRZWI samo (Winterfell/Wyman standing) - robota zaczyna przychodzic sama. 2 CYNKI: (a) sukiennik z zagmatwana spolka wezszy o audyt; (b) BROKERING - koga szuka ladunku powrotnego, Fenn zna 3 co maja (prowizja). PODPOWIEDZ: przy rosnacym naplywie wart 2. agent (akwizycja nie gasnie gdy jeden na 1 sprawie)."
   },
   {
    "id": "jory_sierota",
@@ -2923,8 +2923,8 @@
    "imie": "Mertyn",
    "przydomek": "Okretnik",
    "zawod": "zamozny handlarz frachtem i udzialami w kogach",
-   "nastawienie_do_gracza": "szuka Symona OSOBISCIE (reputacja przyciaga)",
-   "ostatni_kontakt": "298-07-18: przyslal poslanca - prosi Symona o platny ROZJEM/audyt sporu o rachunki ze wspolnikiem ('ktos komu obie strony zaufaja, liczy jak z Cytadeli, Winterfell wam wierzy'). Czeka na odpowiedz. Warstwa B okazja (plynnosc cienka)."
+   "nastawienie_do_gracza": "wdzieczny/pod wrazeniem - Symon rozsadzil jego spor uczciwie (07-18); nowy zamozny sojusznik w zegludze",
+   "ostatni_kontakt": "298-07-18: Symon rozsadzil jego spor ze wspolnikiem (rzut 88, ~20 jel) - obie strony godne, spolka uratowana. Mertyn=fracht/udzialy w kogach; przyszly klient underwritingu/kontakt morski/kabotaz."
   }
  ],
  "orbita": [

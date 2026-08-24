@@ -12,7 +12,7 @@
  "zmeczenie": 18,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 78,
+  "jelenie": 98,
   "smoki": 0
  },
  "dobytek": [
@@ -235,7 +235,8 @@
   "kile_wyman_arteria_jel": "298-07-15: KILE lorda Wymana ~200 jel wlozone jako STAWKA LORDA w arterie (earmark: 2. kadlub + rytm dwutygodniowy + obrot). Struktura: udzial/osłona Wymana, szlak=na wpol oficjalna infrastruktura Manderlych PROWADZONA reka Symona. Kapital pracuje na skalowanie linii, nie do sakiewki Symona.",
   "drugi_kadlub_status": "298-07-16: NOWY kadlub zamowiony (zadatek ~45 jel z kile, balans ~85 na dostawe jesien) + CZARTER barki z zaloga na teraz (czynsz mies z obrotu). Arteria=linia rytm 2-tyg. Kile Wymana: ~45 zadatek + rezerwa ~85 balans + float na czarter/obrot.",
   "pergamin_ramie_rozwoj": "298-07-16: ramie pergaminowe RUSZONE na 3 tory (premium welin skalowany+hurt+warsztat pisarza). Wklad Symona ~20 jel (sakiewka 253->233). Potencjal sufitu ~+40-90/mies dojrzaly (vs ~18-40), marza chroniona skorami z arterii. Plon narasta w kolejnych Bilansach. Prowadzi Wat (autonomia).",
-  "weksle_150_0717": "298-07-17: Symon zainwestowal 150 jel w weksle przez ramie Wicka (compound-finance lever). Sakiewka 228->78."
+  "weksle_150_0717": "298-07-17: Symon zainwestowal 150 jel w weksle przez ramie Wicka (compound-finance lever). Sakiewka 228->78.",
+  "rozjem_mertyn_0718": "298-07-18: rozjem/audyt Mertyna (rzut 88) - platny ~20 jel (sakiewka 78->98, Warstwa B). Mistrzowski: spor=splot 2 bledow (wspolnik ksiegowal koszty na spolke; Mertyn przeoczyl naleznosc) - Symon netowal co do miedziaka, obie strony wstaly bez utraty twarzy. Reputacja+ (widoczny werdykt 'jak z Cytadeli'), Fenn ma zywy dowod. Mertyn=nowy sojusznik (fracht/udzialy w kogach - klient underwritingu/kabotazu)."
  },
  "licznik_uzyc": {
   "audyt": 11,

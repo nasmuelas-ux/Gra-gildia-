@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-07-09 RANEK · lato (298)
+- **Data:** 298-07-17 RANEK · lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 267 jeleni + 1 mied + 0 smokow
+- **Wolne:** 78 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -69,10 +69,16 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-06-08: PIERWSZY KIL ARTERII - uzywana barka rzeczna (plaskodenna, Bialy Noz) po starym flisaku. Rzut 75: dno zdrowe/stepka prosta/poszycie mocne, tylko uszczelnienie+drobna lata; osprzet (dragi/cumy/takielunek) w cenie. Koszt ~50 jel (45+5). Daje WLASNY ZEGAR - probny kurs na wlasny termin ku Winterfell. Do przemyslenia: kapitan/prowadzacy (Cass?), cumowanie/postoj. || 298-06-08: KAPITAN=Cass (znawca Bialego Noza; zold+maly udzial w zysku rejsu). CUMOWANIE=Solne Nabrzeze (sol Harlona pod reka, blisko kantoru, drobna oplata postojowa). Kosciec operacyjny gotowy - zostaje data 1. rejsu (lead-time soli + gotowosc beli Miry) + uprzedzic Luwina o plotnie.
 - 298-06-12/13: ~90 jel laczny udzial Symona w bloku wykupu weksli 2 kolodziejow (30 stopgap + 60 pelny wykup); odzyskiwalne - dlug przeniesiony na blok, bracia winni bractwu na ludzkich ratach. Wlozone przez wspolny worek, ale czesc Symona wyszla DUZA -> rozmycie firewalla NIEPELNE (rysa, nie przeciek).
 - 298-06-~28: 2. cykl CHUDY (rzut 34) - lato spokojne, cienka marza, Tam ostrozny; wor ~118->~123 (+5). Nauka: nie kazdy cykl wygrany, konsekwencja-z-pokora nie hot-streak. Jeszcze NIE trigger skalowania (dowiesc wiecej powtarzalnosci). Handlarz solidny, nie drukarnia grosza.
-- 298-06-22: +200 jel kapitalu kredytowego do ramienia (ze skarbca) - PODWOJONA pojemnosc ramienia kredyt/ubezp Wicka; deployowana STOPNIOWO wg rulebooka (sufit wiekszy nie ryzyko naraz), pod okiem Symon+Nesta. Poluzowac gdy Wick pokaze wzor, zacisnac gdy traci.
+- 298-07-17: +150 jel weksli z sakiewki (228->78) DOLOZONE do ramienia kredytu Wicka -> kapital lending ~350 deployowany. Wick: dobre papiery rozproszone, rezerwa na zle dlugi rosnie. Miesieczny procent ramienia ROSNIE proporcjonalnie (Warstwa A, cichy mnoznik 'grosz co rodzi grosz'). KOSZT: kapital zamkniety do zapadalnosci, plynnosc cienka (~78 jel wolne) do 1. oplaconego kursu/bilansu. | (poprz.) 298-06-22: +200 z skarbca, pojemnosc podwojona.
 - ~28 jel - weksel/naleznosc u Aldousa (dlug Aldousa wobec bloku/Symona po wykupie 297-07-09, na fair raty). Aktyw/wierzytelnosc. Ujete w ksiedze glownej.
 - 298-06-~30: PODPISANA (rzut 95 - Hal dowiozl luke/faze probna BEZ SKAZY, Ulric neutralny bo nie mial co szeptac). STALA UMOWA prowiantowa z zamkiem (strona=firma/Hal, Symon samo-poddany karze, rezerwa podazy+ciaglosc). FILAR marza zamkowa = RENTA STALA. Wielki payoff calej negocjacji z Wylisem.
 - 298-06-23..30: Warstwa B (audyty osobiste Symona), osobno od pasywnej bilansu. (1) audyt PREMIUM z 06-23 (rzut 13, niedomkniety wisial) - trudny/thankless klient, ksiegi w nieladzie, malwersacja niejednoznaczna; Symon zrobil kompetentnie ale LEAN reward ~+10 jel (nauka: nie kazdy premium platny grubo). (2) montaz 06-26..30: kilka zlecen audytowych ~+22 jel. Razem ~+32 do sakiewki.
+- 298-07-15: 1. rejs arterii NETTO ~+15 jel (Warstwa B operacyjna), gorna noga; ksiega Hala. Plus recurring: order dworu na len + kanal soli.
+- 298-07-15 ROZWIAZANA: zrodlo Halvarda zamkniete (Fenn, rzut 52). ~50 jel przeszlo z 'w drodze' na FORWARD wiazacy w relacji zrodla (kapital pracuje) minus koszty ambasady juz poniesione. Dolna noga ma zrodlo (bez wylacznosci, wolumen rosnie).
+- 298-07-15: KILE lorda Wymana ~200 jel wlozone jako STAWKA LORDA w arterie (earmark: 2. kadlub + rytm dwutygodniowy + obrot). Struktura: udzial/osłona Wymana, szlak=na wpol oficjalna infrastruktura Manderlych PROWADZONA reka Symona. Kapital pracuje na skalowanie linii, nie do sakiewki Symona.
+- 298-07-16: NOWY kadlub zamowiony (zadatek ~45 jel z kile, balans ~85 na dostawe jesien) + CZARTER barki z zaloga na teraz (czynsz mies z obrotu). Arteria=linia rytm 2-tyg. Kile Wymana: ~45 zadatek + rezerwa ~85 balans + float na czarter/obrot.
+- 298-07-16: ramie pergaminowe RUSZONE na 3 tory (premium welin skalowany+hurt+warsztat pisarza). Wklad Symona ~20 jel (sakiewka 253->233). Potencjal sufitu ~+40-90/mies dojrzaly (vs ~18-40), marza chroniona skorami z arterii. Plon narasta w kolejnych Bilansach. Prowadzi Wat (autonomia).
+- 298-07-17: Symon zainwestowal 150 jel w weksle przez ramie Wicka (compound-finance lever). Sakiewka 228->78.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-08-01 (ostatni: 298-07-01 (WYKONANY: miesiac 298-06 zamkniety na PELNA skale - Symon obecny, uslugi/operacje firing, filar zamkowy podpisany pod koniec mies.; netto pasywne ~+185 do kont domowych))

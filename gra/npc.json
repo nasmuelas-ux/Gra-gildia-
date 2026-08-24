@@ -2903,6 +2903,20 @@
    "zawod": "faktor/zrodlo futer i bursztynu w glebi nad Bialym Nozem (dolna noga arterii)",
    "nastawienie_do_gracza": "ostrozno-otwarty (przez Fenna/Ulfa) - zgodzil sie dostarczac, bez wylacznosci na start",
    "ostatni_kontakt": "298-07-15 (rzut 52): zgodzil sie dostarczac futro+bursztyn w dol; bez wylacznosci/wolumen rosnie; zadatek 50 forward"
+  },
+  {
+   "id": "nella_sierota",
+   "imie": "Nella",
+   "zawod": "sierota ~7l (matka zm. 07, ojciec-marynarz zaginiony); u wdowy Selli, uczy sie igly/krosna",
+   "nastawienie_do_gracza": "czujna->wdzieczna cicho ('zapamieta') - Symon dal jej dom i fach",
+   "ostatni_kontakt": "298-07-17: umieszczona u wdowy Selli przez Symona (1. dziecko jego przyszlego przytulku). Bystra, przetrwala ulice - potencjal jak mlody Symon."
+  },
+  {
+   "id": "wdowa_sella",
+   "imie": "Sella",
+   "zawod": "wdowa szwaczka spod Schodow - wziela sierote Nelle, uczy ja fachu (igla/krosna)",
+   "nastawienie_do_gracza": "cieply/wdzieczny - Symon powierzyl jej Nelle (dom pelen znowu)",
+   "ostatni_kontakt": "298-07-17: wziela Nelle z serca (dzieci wyrosly, dom cichy); nauczy fachu; relief+datek Symona na utrzymanie"
   }
  ],
  "orbita": [

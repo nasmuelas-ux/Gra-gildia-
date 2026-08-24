@@ -1613,7 +1613,7 @@
   {
    "id": "przytulek_dzieci_bezrodziny",
    "tytul": "Przytulek dla dzieci bez rodziny (marzenie dlugie)",
-   "status": "ZIARNO ZASIANE - marzenie 'kiedys', Owen wspolnym straznikiem",
+   "status": "ZIARNO KIELKUJE - 1. dziecko (Nella) umieszczone u wdowy Selli (dach+fach), model 'siec+Wiara+fach+oko' ustanowiony; Symon uczy sie kosztu jednego ku przyszlemu przytulkowi.",
    "stan": "298-07-02: Symon po chrzcie Lyry przyszedl do septona Owena z marzeniem: KIEDYS postawic dom dla dzieci bez rodziny (portowe podrzutki, sieroty po gorączce, bekarty marynarzy). Owen przyjal cieplo (zna Symona jako czlowieka juz karmiacego ubogich przez relief - nie kaprys bogacza). Dal MADRA rade nie poklask.",
    "doktryna_owena": [
     "Dom sierocy = STUDNIA BEZ DNA: mury latwe, utrzymanie co zima wymaga WIECZYSTEGO UPOSAZENIA (grunt/czynsz/staly strumien), inaczej pada po 2 zimach i dzieci sa w gorszym miejscu.",
@@ -1625,7 +1625,8 @@
    "nastepny_krok": "ODLOZONE (kiedys). Po powrocie z Polnocy + mocniejszej pozycji: usiasc z Owenem i policzyc grunt/uposazenie/rece do prowadzenia. W miedzyczasie: gdy Owenowi trafi sie sierota pod brama, da znac - zaczna od jednego. ZERO wylozone teraz (kapital w arterii).",
    "inbound_oczekiwane": [
     "Owen da znac gdy trafi mu sie sierota bez miejsca (moze pojedyncze dziecko na start)"
-   ]
+   ],
+   "pierwsze_dziecko_nella_0717": "298-07-17 PIERWSZE DZIECKO (aktywacja, rzut 64): Owen przyslal - sierota NELLA (~7l, matka umarla na letnia goraczke 10 dni temu, ojciec-marynarz zaginiony na morzu 3 lata, zero rodziny, zyla przy nabrzezu; bystra/czujna jak Symon-dziecko). Symon wybral: NIE brac pod wlasny dach jednostronnie (zasada 'razem z Mira' + rada Owena 'pod plaszczem Wiary nie nazwiska'), lecz ZNALEZC DOBRY DOM przez swoja siec. Umiescil u wdowy SELLI (szwaczka spod Schodow, dobra/twarda, dzieci wyrosly) - Sella nauczy Nelle IGLY/KROSNA (FACH! to co Mira chciala dac sierotom-dziewczynkom). Finansowanie pod plaszczem Wiary: relief=biezace utrzymanie + osobisty datek Symona ~5 jel na start. Symon TRZYMA OKO (uczy sie ile kosztuje jedno dziecko - grosz+czas+doglad - ku przyszlemu przytulkowi). MODEL USTANOWIONY: siec+Wiara+fach+oko, nie jalmuzna/nie instytucja jeszcze. Pierwszy kamien."
   }
  ]
 }

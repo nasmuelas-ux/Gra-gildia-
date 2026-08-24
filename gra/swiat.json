@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 7,
-  "dzien": 3,
+  "dzien": 8,
   "era": "AC"
  },
- "pora": "WIECZOR",
+ "pora": "POPOLUDNIE",
  "sezon": "lato (298)",
- "pogoda": 11,
- "dzien_tygodnia_nr": 4,
+ "pogoda": 18,
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "nastroje_miasta": "Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, sol/zboze znormalizowane po zimowym scisku. Portfel na lato: budowa/eksport/arteria rosna, zimowy underwriting/prowiant spi. Miasto syte i ruchliwe.",
  "ceny": {
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "W DRODZE do Cerwynow - dzien 1/4. Wyjechal z BP o swicie 07-03 z Hendrym, w kupieckim sznurze goscincem wzdluz Bialego Noza. Wieczorem przy przydroznym zajezdzie. Zostaja ~3 dni do zamku Cerwyn. Dom pod Branem (Mira/Lyra), firma pod Halem. Rada Wymana w kieszeni: sprzedac Cerwynowi jako SLUZBE WINTERFELL. Uslyszal na trakcie: Ned Namiestnikiem na poludniu, Winterfell trzyma mlody Robb, mlodszy Stark spadl z wiezy/nie chodzi - Polnoc 'bez pana w domu' (wzmacnia rame sluzby dworowi).",
+ "lokacja_gracza": "ZAMEK CERWYN - gosciem lorda Medgera (dzien negocjacji 07-08). Podroz 07-03->07-07 (burza+obejscie brodu kosztowaly ~dzien, dojechal cały z Hendrym). Dom pod Branem (Mira/Lyra), firma pod Halem. Winterfell ~pol dnia na polnoc.",
  "zaplanowane_zdarzenia": [
   "298-06-~18: WYPLYNIECIE 1. rejsu arterii (barka Symona, kapitan Cass) w gore ku Winterfell - sol+bela plotna Miry. Symon zostaje w BP.",
   "298-06-~18-25: PAOROD Miry (~2 tyg od 06-08) - Owen chrzci, Marna odbiera. Symon w domu.",

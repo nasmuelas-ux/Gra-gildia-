@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-07-17 RANEK · lato (298)
+- **Data:** 298-07-18 RANEK · lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 78 jeleni + 1 mied + 0 smokow
+- **Wolne:** 98 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -79,6 +79,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-07-16: NOWY kadlub zamowiony (zadatek ~45 jel z kile, balans ~85 na dostawe jesien) + CZARTER barki z zaloga na teraz (czynsz mies z obrotu). Arteria=linia rytm 2-tyg. Kile Wymana: ~45 zadatek + rezerwa ~85 balans + float na czarter/obrot.
 - 298-07-16: ramie pergaminowe RUSZONE na 3 tory (premium welin skalowany+hurt+warsztat pisarza). Wklad Symona ~20 jel (sakiewka 253->233). Potencjal sufitu ~+40-90/mies dojrzaly (vs ~18-40), marza chroniona skorami z arterii. Plon narasta w kolejnych Bilansach. Prowadzi Wat (autonomia).
 - 298-07-17: Symon zainwestowal 150 jel w weksle przez ramie Wicka (compound-finance lever). Sakiewka 228->78.
+- 298-07-18: rozjem/audyt Mertyna (rzut 88) - platny ~20 jel (sakiewka 78->98, Warstwa B). Mistrzowski: spor=splot 2 bledow (wspolnik ksiegowal koszty na spolke; Mertyn przeoczyl naleznosc) - Symon netowal co do miedziaka, obie strony wstaly bez utraty twarzy. Reputacja+ (widoczny werdykt 'jak z Cytadeli'), Fenn ma zywy dowod. Mertyn=nowy sojusznik (fracht/udzialy w kogach - klient underwritingu/kabotazu).
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-08-01 (ostatni: 298-07-01 (WYKONANY: miesiac 298-06 zamkniety na PELNA skale - Symon obecny, uslugi/operacje firing, filar zamkowy podpisany pod koniec mies.; netto pasywne ~+185 do kont domowych))

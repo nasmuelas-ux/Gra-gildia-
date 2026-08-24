@@ -12,7 +12,7 @@
  "zmeczenie": 18,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 228,
+  "jelenie": 78,
   "smoki": 0
  },
  "dobytek": [
@@ -226,7 +226,7 @@
   "barka_rzeczna_wlasna": "298-06-08: PIERWSZY KIL ARTERII - uzywana barka rzeczna (plaskodenna, Bialy Noz) po starym flisaku. Rzut 75: dno zdrowe/stepka prosta/poszycie mocne, tylko uszczelnienie+drobna lata; osprzet (dragi/cumy/takielunek) w cenie. Koszt ~50 jel (45+5). Daje WLASNY ZEGAR - probny kurs na wlasny termin ku Winterfell. Do przemyslenia: kapitan/prowadzacy (Cass?), cumowanie/postoj. || 298-06-08: KAPITAN=Cass (znawca Bialego Noza; zold+maly udzial w zysku rejsu). CUMOWANIE=Solne Nabrzeze (sol Harlona pod reka, blisko kantoru, drobna oplata postojowa). Kosciec operacyjny gotowy - zostaje data 1. rejsu (lead-time soli + gotowosc beli Miry) + uprzedzic Luwina o plotnie.",
   "udzial_stopgap_kolodzieje": "298-06-12/13: ~90 jel laczny udzial Symona w bloku wykupu weksli 2 kolodziejow (30 stopgap + 60 pelny wykup); odzyskiwalne - dlug przeniesiony na blok, bracia winni bractwu na ludzkich ratach. Wlozone przez wspolny worek, ale czesc Symona wyszla DUZA -> rozmycie firewalla NIEPELNE (rysa, nie przeciek).",
   "wor_obrotowy_tam": "298-06-~28: 2. cykl CHUDY (rzut 34) - lato spokojne, cienka marza, Tam ostrozny; wor ~118->~123 (+5). Nauka: nie kazdy cykl wygrany, konsekwencja-z-pokora nie hot-streak. Jeszcze NIE trigger skalowania (dowiesc wiecej powtarzalnosci). Handlarz solidny, nie drukarnia grosza.",
-  "kapital_kredytowy_ramie_wick": "298-06-22: +200 jel kapitalu kredytowego do ramienia (ze skarbca) - PODWOJONA pojemnosc ramienia kredyt/ubezp Wicka; deployowana STOPNIOWO wg rulebooka (sufit wiekszy nie ryzyko naraz), pod okiem Symon+Nesta. Poluzowac gdy Wick pokaze wzor, zacisnac gdy traci.",
+  "kapital_kredytowy_ramie_wick": "298-07-17: +150 jel weksli z sakiewki (228->78) DOLOZONE do ramienia kredytu Wicka -> kapital lending ~350 deployowany. Wick: dobre papiery rozproszone, rezerwa na zle dlugi rosnie. Miesieczny procent ramienia ROSNIE proporcjonalnie (Warstwa A, cichy mnoznik 'grosz co rodzi grosz'). KOSZT: kapital zamkniety do zapadalnosci, plynnosc cienka (~78 jel wolne) do 1. oplaconego kursu/bilansu. | (poprz.) 298-06-22: +200 z skarbca, pojemnosc podwojona.",
   "weksel_aldous_naleznosc": "~28 jel - weksel/naleznosc u Aldousa (dlug Aldousa wobec bloku/Symona po wykupie 297-07-09, na fair raty). Aktyw/wierzytelnosc. Ujete w ksiedze glownej.",
   "umowa_prowiantowa_zamek": "298-06-~30: PODPISANA (rzut 95 - Hal dowiozl luke/faze probna BEZ SKAZY, Ulric neutralny bo nie mial co szeptac). STALA UMOWA prowiantowa z zamkiem (strona=firma/Hal, Symon samo-poddany karze, rezerwa podazy+ciaglosc). FILAR marza zamkowa = RENTA STALA. Wielki payoff calej negocjacji z Wylisem.",
   "audyty_warstwa_b_0623_0630": "298-06-23..30: Warstwa B (audyty osobiste Symona), osobno od pasywnej bilansu. (1) audyt PREMIUM z 06-23 (rzut 13, niedomkniety wisial) - trudny/thankless klient, ksiegi w nieladzie, malwersacja niejednoznaczna; Symon zrobil kompetentnie ale LEAN reward ~+10 jel (nauka: nie kazdy premium platny grubo). (2) montaz 06-26..30: kilka zlecen audytowych ~+22 jel. Razem ~+32 do sakiewki.",
@@ -234,7 +234,8 @@
   "ambasada_halvard_status": "298-07-15 ROZWIAZANA: zrodlo Halvarda zamkniete (Fenn, rzut 52). ~50 jel przeszlo z 'w drodze' na FORWARD wiazacy w relacji zrodla (kapital pracuje) minus koszty ambasady juz poniesione. Dolna noga ma zrodlo (bez wylacznosci, wolumen rosnie).",
   "kile_wyman_arteria_jel": "298-07-15: KILE lorda Wymana ~200 jel wlozone jako STAWKA LORDA w arterie (earmark: 2. kadlub + rytm dwutygodniowy + obrot). Struktura: udzial/osłona Wymana, szlak=na wpol oficjalna infrastruktura Manderlych PROWADZONA reka Symona. Kapital pracuje na skalowanie linii, nie do sakiewki Symona.",
   "drugi_kadlub_status": "298-07-16: NOWY kadlub zamowiony (zadatek ~45 jel z kile, balans ~85 na dostawe jesien) + CZARTER barki z zaloga na teraz (czynsz mies z obrotu). Arteria=linia rytm 2-tyg. Kile Wymana: ~45 zadatek + rezerwa ~85 balans + float na czarter/obrot.",
-  "pergamin_ramie_rozwoj": "298-07-16: ramie pergaminowe RUSZONE na 3 tory (premium welin skalowany+hurt+warsztat pisarza). Wklad Symona ~20 jel (sakiewka 253->233). Potencjal sufitu ~+40-90/mies dojrzaly (vs ~18-40), marza chroniona skorami z arterii. Plon narasta w kolejnych Bilansach. Prowadzi Wat (autonomia)."
+  "pergamin_ramie_rozwoj": "298-07-16: ramie pergaminowe RUSZONE na 3 tory (premium welin skalowany+hurt+warsztat pisarza). Wklad Symona ~20 jel (sakiewka 253->233). Potencjal sufitu ~+40-90/mies dojrzaly (vs ~18-40), marza chroniona skorami z arterii. Plon narasta w kolejnych Bilansach. Prowadzi Wat (autonomia).",
+  "weksle_150_0717": "298-07-17: Symon zainwestowal 150 jel w weksle przez ramie Wicka (compound-finance lever). Sakiewka 228->78."
  },
  "licznik_uzyc": {
   "audyt": 11,

@@ -2879,8 +2879,22 @@
    "id": "lord_medger_cerwyn",
    "imie": "Medger Cerwyn",
    "zawod": "lord rodu Cerwyn (zamek na goscincu ~pol dnia pod Winterfell)",
-   "nastawienie_do_gracza": "cieply/z szacunkiem - zaszczycony osobista wizyta; PORWANY rama 'sluzba Winterfell' (07-08)",
-   "ostatni_kontakt": "298-07-08 negocjacja: twardy/prosty/bez falszu, oddany Starkom jak religii. Przyjal uklad CO DO ZASADY (przejscie+depot+wozy dla sluzby Winterfell). Dwie rafy z dumy: grosz kluje honor (nie chce byc furmanem); nie zwiaze wozow bez nod z Winterfell. Wozy jego stoja bezczynne. Winna go czule dumny honor, nie kupiecki targ."
+   "nastawienie_do_gracza": "cieply -> PRZYJACIEL (07-10): uklad przybity + Symon spytal 'jak mu sie zyje', Medger sie otworzyl",
+   "ostatni_kontakt": "298-07-10 UKLAD PRZYBITY (nod Winterfell zdjal obie rafy): przejscie+depot+wozy(Harwin), zaplata jako sluzba Winterfell (myto panskie+zold woznicom+dobra w naturze). Potem Symon spytal go po ludzku 'jak mu sie zyje' - Medger otworzyl sie: maly rod ziemia-bez-grosza, honor/wiernosc Starkom=jedyne bogactwo, syn CLEY 8l (chce mu zostawic rod ktory 'znaczy'/potrzebny Winterfell), strach o niepewne czasy. 'Masz w Cerwynie PRZYJACIELA nie tylko woz i przystan.' Wiez ludzka > kontrakt."
+  },
+  {
+   "id": "robb_stark",
+   "imie": "Robb Stark",
+   "zawod": "dziedzic Winterfell, l.15 - TRZYMA grod jako p.o. pana (Ned Namiestnikiem na poludniu); wilkor Szary Wicher",
+   "nastawienie_do_gracza": "cieply/z rosnacym szacunkiem - silny slad (rzut 90) + ludzka wiez nad wilkiem i rannym Branem (07-09)",
+   "ostatni_kontakt": "298-07-09 Winterfell POZNANY OSOBISCIE. Przetestowal Symona ('czemu obcemu zalezy na spichrzach Winterfell') - Symon prawda po polnocnemu (klucz Ulfa), Szary Wicher przyjal. Robb: 'ojciec mowil o tobie parę slow... zapamietam, gdy przyjdzie potrzeba POSLE'. Uscisk po kupiecku. LUDZKA NIC: rozmowa o wilku (znak, szczenieta w sniegu) i o Branie (spadl, nie bedzie chodzil, rozum caly, wilk Lato) - Symon dal szczere slowo ojca (11-dniowa corka), Robb poruszony 'spytales jak o brata nie kaleke'. Robb = przyszly Wilk, zna Symona z imienia i z serca. Arc: brama do rady Starkow przez nowego pana."
+  },
+  {
+   "id": "harwin_woznica_cerwyn",
+   "imie": "Harwin",
+   "zawod": "woznica rodu Cerwyn - zna gosciniec do bram Winterfell na pamiec (bloto/brody)",
+   "nastawienie_do_gracza": "sluzbowo-zyczliwy; prowadzi wozy ostatniej nogi arterii (delikatny towar okryty)",
+   "ostatni_kontakt": "298-07-10 - przypisany do wozow arterii Cerwyn->Winterfell (uklad przybity)"
   }
  ],
  "orbita": [

@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 110 jeleni + 1 mied + 0 smokow
+- **Wolne:** 116 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -82,6 +82,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-07-18: rozjem/audyt Mertyna (rzut 88) - platny ~20 jel (sakiewka 78->98, Warstwa B). Mistrzowski: spor=splot 2 bledow (wspolnik ksiegowal koszty na spolke; Mertyn przeoczyl naleznosc) - Symon netowal co do miedziaka, obie strony wstaly bez utraty twarzy. Reputacja+ (widoczny werdykt 'jak z Cytadeli'), Fenn ma zywy dowod. Mertyn=nowy sojusznik (fracht/udzialy w kogach - klient underwritingu/kabotazu).
 - 298-07-18: audyt/spor sukiennika (rzut 52) - ~12 jel (sakiewka 98->110). Wspolnik podcieniowal ksiegi; Symon nazwal prawde (nie win-win), sukiennik wygral, wspolnik URAZONY (drobny cien). Reputacja UCZCIWOSCI+ (prawda niewygodna). Tie: sukiennik z sieci Leony (kolejne roboty w cechu).
 - 298-07-18: Fenn skojarzyl koge z ladunkiem powrotnym (rzut 36) - drobna prowizja ~4 jel do firmy (lato studzi). Pipeline pracuje.
+- 298-07-19: drobny audyt sukiennika (bez rzutu, mala robota) - blad w ksiegowaniu zwrotow, ~6 jel (sakiewka 110->116). Goodwill w cechu sukiennikow (siec Leony) = staly strumien drobnej roboty. Reputacja pracuje sama.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-08-01 (ostatni: 298-07-01 (WYKONANY: miesiac 298-06 zamkniety na PELNA skale - Symon obecny, uslugi/operacje firing, filar zamkowy podpisany pod koniec mies.; netto pasywne ~+185 do kont domowych))

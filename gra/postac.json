@@ -12,7 +12,7 @@
  "zmeczenie": 18,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 116,
+  "jelenie": 111,
   "smoki": 0
  },
  "dobytek": [
@@ -239,7 +239,9 @@
   "rozjem_mertyn_0718": "298-07-18: rozjem/audyt Mertyna (rzut 88) - platny ~20 jel (sakiewka 78->98, Warstwa B). Mistrzowski: spor=splot 2 bledow (wspolnik ksiegowal koszty na spolke; Mertyn przeoczyl naleznosc) - Symon netowal co do miedziaka, obie strony wstaly bez utraty twarzy. Reputacja+ (widoczny werdykt 'jak z Cytadeli'), Fenn ma zywy dowod. Mertyn=nowy sojusznik (fracht/udzialy w kogach - klient underwritingu/kabotazu).",
   "audyt_sukiennik_0718": "298-07-18: audyt/spor sukiennika (rzut 52) - ~12 jel (sakiewka 98->110). Wspolnik podcieniowal ksiegi; Symon nazwal prawde (nie win-win), sukiennik wygral, wspolnik URAZONY (drobny cien). Reputacja UCZCIWOSCI+ (prawda niewygodna). Tie: sukiennik z sieci Leony (kolejne roboty w cechu).",
   "brokering_fenn_0718": "298-07-18: Fenn skojarzyl koge z ladunkiem powrotnym (rzut 36) - drobna prowizja ~4 jel do firmy (lato studzi). Pipeline pracuje.",
-  "audyt_sukienny_drobny_0719": "298-07-19: drobny audyt sukiennika (bez rzutu, mala robota) - blad w ksiegowaniu zwrotow, ~6 jel (sakiewka 110->116). Goodwill w cechu sukiennikow (siec Leony) = staly strumien drobnej roboty. Reputacja pracuje sama."
+  "audyt_sukienny_drobny_0719": "298-07-19: drobny audyt sukiennika (bez rzutu, mala robota) - blad w ksiegowaniu zwrotow, ~6 jel (sakiewka 110->116). Goodwill w cechu sukiennikow (siec Leony) = staly strumien drobnej roboty. Reputacja pracuje sama.",
+  "relief_ksiegi_0719": "298-07-19: Symon przejrzal ksiegi reliefu (jego forensic-reckoner) - marnotrawstwo z dobrego serca (zakup detaliczny/drogi, psucie w zlym skladzie, mgliste rachunki). Przestawil: hurt/forward (dostawcy Harlon/rotacja), lepsze skladowanie, czysta ksiega. TEN SAM fundusz karmi ZNACZNIE WIECEJ gab - zero wlozonego grosza, dolozony umysl. Owen: 'cud'.",
+  "septa_naprawa_0719": "298-07-19 (rzut 100 KRYT): naprawa septy przed zima falą GOODWILLU. Boren+cech kolodziejow (darmo, 'pamietamy'), murarze/ciesle z orbity (mimo sezonu), wdowy/drobni z zaulkow (materialy/rece). Symon dolozyl ~5 jel na olow do okna (116->111), reszta goodwillem. Septa lepsza niz byla, przed zima, niemal za darmo. WIDOCZNY akt wspolnoty wokol imienia Symona (nie pokaz bogactwa - dowod ze LUD staje na jego slowo w imie dobra)."
  },
  "licznik_uzyc": {
   "audyt": 11,

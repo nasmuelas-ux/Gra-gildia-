@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 7,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "RANEK",
  "sezon": "lato (298)",
- "pogoda": 21,
- "dzien_tygodnia_nr": 3,
+ "pogoda": 20,
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "nastroje_miasta": "Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, sol/zboze znormalizowane po zimowym scisku. Portfel na lato: budowa/eksport/arteria rosna, zimowy underwriting/prowiant spi. Miasto syte i ruchliwe.",
  "ceny": {
@@ -87,12 +87,16 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "BIALY PORT - dom, KONIEC DNIA 07-16 (spi). Nastepny RANEK=07-17. 100 jel suchy proch. Mapa smoczej skali obrana (arteria/morze+finanse+prowiant+sukno Miry, wiele nog).",
+ "lokacja_gracza": "BIALY PORT - dom, RANEK 07-17. 100 jel suchy proch. Arteria=linia (2. kadlub w budowie/czarter). Ramie pergaminowe w rozwoju. Mapa smoczej skali obrana.",
  "zaplanowane_zdarzenia": [
   "298-~07-14+: OPLACONY POWROT 1. barki arterii (dowod samofinansowania) = brama do KILE Wymana. Sprawdzic u Hala/w porcie.",
   "298-~07-poczatek/polowa: powrot ambasady Fenn/Ulf/Garrick z targiem u Halvarda (zrodlo futer/bursztynu) - sprawdzic wynik.",
   "298-pozne-lato/jesien: ODPOWIEDZ CYTADELI na traktat Symona (wyslany 06-14 reka Luwina).",
   "298-jesien: sanny trakt (Boren) na noge zimowa arterii - domknac przed mrozem.",
   "kiedys: chrzest/przytulek watki dlugie; Cley Cerwyn (8l) hold w pamieci jako przyszlosc sojuszu."
+ ],
+ "inbound_dnia_0717": [
+  "OWEN: sierota trafila pod brame septy - czeka na Symona (aktywacja watku przytulku, zaczac od jednego)",
+  "NESTA: czarterowana barka gotowa na wodzie - nastepny kurs arterii na NOWYM rytmie 2-tyg, pyta o termin+sklad ladunku"
  ]
 }

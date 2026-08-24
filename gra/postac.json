@@ -12,7 +12,7 @@
  "zmeczenie": 18,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 267,
+  "jelenie": 253,
   "smoki": 0
  },
  "dobytek": [
@@ -336,5 +336,8 @@
   "urodzona": "298-06-20 swit",
   "zdrowie": "zdrowa",
   "chrzest": "po Owenie, gdy Mira wstanie"
- }
+ },
+ "log_kasy": [
+  "298-07-14: wyprawa Cerwyn/Winterfell (07-01..14) uszczknela ~14 jel z sakiewki (267->253): prowiant 2 ludzi+konie ~2 tyg, gosciniec/karczmy, myto, hojna zaplata cottarowi Wendlowi za brod, drobne kurtuazje goscinne. Zold Hendry'ego = w placach (Warstwa A), nie ekstra."
+ ]
 }

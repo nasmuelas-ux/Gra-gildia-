@@ -53,10 +53,25 @@
   "finanse": 9,
   "wlodarstwo": 8
  },
- "jezyki_znane": [
-  "mowa powszechna",
-  "braavijski (biegle w mowie, slabiej w pismie)"
- ],
+ "jezyki_znane": {
+  "mowa_powszechna": {
+   "mowa": "ojczysta/biegla",
+   "czytanie": "mistrzowskie (pisarz)",
+   "pismo": "mistrzowskie (pisarz)"
+  },
+  "braavijski_bekarci_valyrianski": {
+   "mowa": "biegla (lata z Nesta i na nabrzezu)",
+   "czytanie": "podstawowe",
+   "pismo": "slabe",
+   "nota": "bekarci valyrianski Wolnych Miast; jezyk handlu za morzem; atut na braavijskim koncu arterii"
+  },
+  "wysoki_valyrianski": {
+   "mowa": "brak",
+   "czytanie": "NOWICJUSZ (start 298-07-19 pod Theomore'em - pierwsze glify rozpoznane)",
+   "pismo": "brak",
+   "nota": "jezyk klasyczny/nauki (ksiegi, prawo, formalne pisma, Zelazny Bank). Nauka CZYTANIA (nie mowy), lata drogi. Braavijski daje FORY (wspolne korzenie). Uczy Theomore."
+  }
+ },
  "wiedza": [
   "OGLADA (od Owena-septona): jak mowic/klaniac sie lordowi, lady, maesterowi, rycerzowi; milczenie z godnoscia; 'stroj', ktory otwiera drzwi do moznych — pod cel: znalezc protektora",
   "POLNOC i STARKOWIE (od Owena): honor ponad zycie, prawo goscinnosci swiete, sprawiedliwosc wlasnorekna ('kto wydaje wyrok, sam dzierzy miecz'); KLUCZ do tonu apelu Rymana ku Winterfell — prawda, nie targ",
@@ -351,5 +366,6 @@
  },
  "log_kasy": [
   "298-07-14: wyprawa Cerwyn/Winterfell (07-01..14) uszczknela ~14 jel z sakiewki (267->253): prowiant 2 ludzi+konie ~2 tyg, gosciniec/karczmy, myto, hojna zaplata cottarowi Wendlowi za brod, drobne kurtuazje goscinne. Zold Hendry'ego = w placach (Warstwa A), nie ekstra."
- ]
+ ],
+ "_jezyki_nota": "Rozdzielone 298-07-19 na osobne (per jezyk: mowa/czytanie/pismo). umiejetnosci.jezyki=agregat ogolny; jezyki_znane=rozbicie szczegolowe."
 }

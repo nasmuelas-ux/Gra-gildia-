@@ -1641,12 +1641,17 @@
   {
    "id": "edukacja_pod_theomorem",
    "tytul": "Edukacja pod maestrem Theomore'em (kupiec-uczony, bez slubow)",
-   "status": "RUSZONA 07-18 - tutelaz, 1. lekcja odbyta",
+   "status": "W TOKU - tutelaz Theomore'a (kupiec-uczony bez slubow maestra)",
    "stan": "298-07-18: Symon spytal Theomore'a o formalne wyksztalcenie. Maester wyjasnil: jedyny formalny tytul=Cytadela/maester, ale SLUBY (bez zony/dzieci/ziemi/tytulu/nazwiska) = PULAPKA dla Symona (kosztowalyby Mire/Lyre/rod). REFRAME: Symon nie potrzebuje tytulu (umysl juz na poziomie lancucha - traktat krazy, maesterowie biora go za maestra), potrzebuje WIEDZY - dostepnej BEZ slubow. Theomore ZAOFEROWAL TUTELAZ: uczyc na 'czlowieka uczonego' (kupiec-uczony), nie maestra. Symon PRZYJAL, zaczeli DZIS.",
    "program": "Rytm miarowy (kilka wieczorow/miesiac, na lata). Przedmioty: liczby wyzsze (juz mocny, tylko szlif), PRAWO/precedens, HISTORIA rodow+statecraft, swiat szerszy+medycyna. Kanal Cytadeli przez kruki/korespondentow Theomore'a (wiedza nie kajdany).",
    "lekcja_1_jak_powstaje_rod": "298-07-18 LEKCJA 1: JAK POWSTAJE ROD w Westeros. (1) NAZWISKO ROBI ZIEMIA nie grosz - szlachcica czyni ziemia z NADANIA + prawo do herbu; bogaty kupiec bez ziemi=wciaz kupiec; nadaje PAN/KROL. (2) Trzy drogi nadania: [a] WIELKA SLUZBA W POTRZEBIE (wojna/glod/kleska - niezastapiony czlowiek podniesiony do rodu, ziemia+warownia+herb) - najpewniejsza; [b] BOGACTWO+MALZENSTWO+POKOLENIA (wolna); [c] RYCERSTWO (Poludnie, na Polnocy slabe - malo rycerzy). INSIGHT: Symon idzie [a]+[b] NARAZ (grosz w grunt + niezastapiona reka Wymana) - gdy przyjdzie wojna/glod (ktore Wyman wietrzy) i to JEGO szlaki nakarmia Polnoc gdy inni gloduja = DOKLADNIE moment gdy pan podnosi sluge do rodu. Instynkt Symona historycznie BEZBLEDNY. Przestrogi: nowy rod=zawisc starych (idz czysto); nadanie mozna stracic (oprzyj na zasludze); malzenstwo cementuje (reka Lyry za ~20 lat=karta wiazaca z krwia szlachecka).",
    "rola_w_luku": "Intelektualny szczebel gwiazdy SFORMALIZOWANY: kupiec-uczony (rozum maestra + zycie/rod, ktorego maester miec nie moze) = rzadkie stworzenie, czlowiek rady czytajacy swiat glebiej niz lordowie z urodzenia. Wiedza=trwaly majatek (to czego Lyra nie straci). Bond z Theomore'em -> mistrz-uczen (kanal Cytadeli szerzej).",
-   "nastepny_krok": "Kontynuowac lekcje miarowo. Wiedza z czasem podnosi kompetencje Symona (prawo/statecraft/swiat) - miekki dlugofalowy boon."
+   "nastepny_krok": "Kontynuowac lekcje miarowo. Wiedza z czasem podnosi kompetencje Symona (prawo/statecraft/swiat) - miekki dlugofalowy boon.",
+   "zasada": "298-07-18: Theomore przyjal Symona na ucznia - NIE na maestra (sluby=wyrzec sie zony/dzieci/ziemi/nazwiska=pulapka), lecz na CZLOWIEKA UCZONEGO: wiedza maestra bez kajdan, kanal Cytadeli przez maestra. Rytm miarowy (kilka wieczorow/miesiac). Cel: czytac swiat glebiej niz lordowie z urodzenia; wiedza=trwaly majatek (to czego Lyra nie straci).",
+   "lekcje": [
+    "298-07-18 Lekcja 1: JAK POWSTAJE ROD (nazwisko=ziemia+nadanie nie grosz; 3 drogi: sluzba-w-potrzebie / bogactwo-malzenstwo-pokolenia / rycerstwo[slabe na Polnocy]). Theomore: instynkt Symona BEZBLEDNY - idzie droga 1+2 (grosz w grunt + niezastapionosc wobec pana na dzien proby/wojne-glod Wymana).",
+    "298-07-19 Lekcja 2: WYSOKI VALYRIANSKI - czytanie (start). Rozdzial: braavijski mowiony (JUZ zna, od Nesty/portu - do handlu) vs wysoki valyrianski w czytaniu (uczy Theomore - do ksiag/pism formalnych/Zelaznego Banku). Pierwsze glify rozpoznane; braavijski daje fory (wspolne korzenie). Theomore: 'bedziesz czytal predzej niz niejeden nowicjusz Cytadeli'. Lata drogi, wejscie udane."
+   ]
   }
  ]
 }

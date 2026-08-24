@@ -12,7 +12,7 @@
  "zmeczenie": 18,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 98,
+  "jelenie": 110,
   "smoki": 0
  },
  "dobytek": [
@@ -236,7 +236,9 @@
   "drugi_kadlub_status": "298-07-16: NOWY kadlub zamowiony (zadatek ~45 jel z kile, balans ~85 na dostawe jesien) + CZARTER barki z zaloga na teraz (czynsz mies z obrotu). Arteria=linia rytm 2-tyg. Kile Wymana: ~45 zadatek + rezerwa ~85 balans + float na czarter/obrot.",
   "pergamin_ramie_rozwoj": "298-07-16: ramie pergaminowe RUSZONE na 3 tory (premium welin skalowany+hurt+warsztat pisarza). Wklad Symona ~20 jel (sakiewka 253->233). Potencjal sufitu ~+40-90/mies dojrzaly (vs ~18-40), marza chroniona skorami z arterii. Plon narasta w kolejnych Bilansach. Prowadzi Wat (autonomia).",
   "weksle_150_0717": "298-07-17: Symon zainwestowal 150 jel w weksle przez ramie Wicka (compound-finance lever). Sakiewka 228->78.",
-  "rozjem_mertyn_0718": "298-07-18: rozjem/audyt Mertyna (rzut 88) - platny ~20 jel (sakiewka 78->98, Warstwa B). Mistrzowski: spor=splot 2 bledow (wspolnik ksiegowal koszty na spolke; Mertyn przeoczyl naleznosc) - Symon netowal co do miedziaka, obie strony wstaly bez utraty twarzy. Reputacja+ (widoczny werdykt 'jak z Cytadeli'), Fenn ma zywy dowod. Mertyn=nowy sojusznik (fracht/udzialy w kogach - klient underwritingu/kabotazu)."
+  "rozjem_mertyn_0718": "298-07-18: rozjem/audyt Mertyna (rzut 88) - platny ~20 jel (sakiewka 78->98, Warstwa B). Mistrzowski: spor=splot 2 bledow (wspolnik ksiegowal koszty na spolke; Mertyn przeoczyl naleznosc) - Symon netowal co do miedziaka, obie strony wstaly bez utraty twarzy. Reputacja+ (widoczny werdykt 'jak z Cytadeli'), Fenn ma zywy dowod. Mertyn=nowy sojusznik (fracht/udzialy w kogach - klient underwritingu/kabotazu).",
+  "audyt_sukiennik_0718": "298-07-18: audyt/spor sukiennika (rzut 52) - ~12 jel (sakiewka 98->110). Wspolnik podcieniowal ksiegi; Symon nazwal prawde (nie win-win), sukiennik wygral, wspolnik URAZONY (drobny cien). Reputacja UCZCIWOSCI+ (prawda niewygodna). Tie: sukiennik z sieci Leony (kolejne roboty w cechu).",
+  "brokering_fenn_0718": "298-07-18: Fenn skojarzyl koge z ladunkiem powrotnym (rzut 36) - drobna prowizja ~4 jel do firmy (lato studzi). Pipeline pracuje."
  },
  "licznik_uzyc": {
   "audyt": 11,

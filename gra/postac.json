@@ -229,7 +229,9 @@
   "kapital_kredytowy_ramie_wick": "298-06-22: +200 jel kapitalu kredytowego do ramienia (ze skarbca) - PODWOJONA pojemnosc ramienia kredyt/ubezp Wicka; deployowana STOPNIOWO wg rulebooka (sufit wiekszy nie ryzyko naraz), pod okiem Symon+Nesta. Poluzowac gdy Wick pokaze wzor, zacisnac gdy traci.",
   "weksel_aldous_naleznosc": "~28 jel - weksel/naleznosc u Aldousa (dlug Aldousa wobec bloku/Symona po wykupie 297-07-09, na fair raty). Aktyw/wierzytelnosc. Ujete w ksiedze glownej.",
   "umowa_prowiantowa_zamek": "298-06-~30: PODPISANA (rzut 95 - Hal dowiozl luke/faze probna BEZ SKAZY, Ulric neutralny bo nie mial co szeptac). STALA UMOWA prowiantowa z zamkiem (strona=firma/Hal, Symon samo-poddany karze, rezerwa podazy+ciaglosc). FILAR marza zamkowa = RENTA STALA. Wielki payoff calej negocjacji z Wylisem.",
-  "audyty_warstwa_b_0623_0630": "298-06-23..30: Warstwa B (audyty osobiste Symona), osobno od pasywnej bilansu. (1) audyt PREMIUM z 06-23 (rzut 13, niedomkniety wisial) - trudny/thankless klient, ksiegi w nieladzie, malwersacja niejednoznaczna; Symon zrobil kompetentnie ale LEAN reward ~+10 jel (nauka: nie kazdy premium platny grubo). (2) montaz 06-26..30: kilka zlecen audytowych ~+22 jel. Razem ~+32 do sakiewki."
+  "audyty_warstwa_b_0623_0630": "298-06-23..30: Warstwa B (audyty osobiste Symona), osobno od pasywnej bilansu. (1) audyt PREMIUM z 06-23 (rzut 13, niedomkniety wisial) - trudny/thankless klient, ksiegi w nieladzie, malwersacja niejednoznaczna; Symon zrobil kompetentnie ale LEAN reward ~+10 jel (nauka: nie kazdy premium platny grubo). (2) montaz 06-26..30: kilka zlecen audytowych ~+22 jel. Razem ~+32 do sakiewki.",
+  "rejs1_netto_warstwa_b": "298-07-15: 1. rejs arterii NETTO ~+15 jel (Warstwa B operacyjna), gorna noga; ksiega Hala. Plus recurring: order dworu na len + kanal soli.",
+  "ambasada_halvard_status": "298-07-15 ROZWIAZANA: zrodlo Halvarda zamkniete (Fenn, rzut 52). ~50 jel przeszlo z 'w drodze' na FORWARD wiazacy w relacji zrodla (kapital pracuje) minus koszty ambasady juz poniesione. Dolna noga ma zrodlo (bez wylacznosci, wolumen rosnie)."
  },
  "licznik_uzyc": {
   "audyt": 11,

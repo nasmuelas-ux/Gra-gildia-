@@ -1522,7 +1522,7 @@
   {
    "id": "kanal_winterfell_backhaul",
    "tytul": "Kanal Winterfell - stala arteria backhaulu",
-   "status": "ARTERIA = DZIALAJACA LINIA (rytm 2-tyg: Cass + czarter). Nowy kadlub w budowie (jesien). Dalej: dowiesc niezawodnosci->wylacznosc Halvarda; jesien->sanny trakt; skala->galera Nesty.",
+   "status": "LINIA dziala dwustronnie (dowod konceptu, rzut 18) - GORA oplacona/pewna, DOL cienki (Halvard ramp). Robota: urosnac zrodlo (wolumen+wylacznosc Halvarda), obrabiac bursztyn w Braavos. Nowy kadlub jesien. Sanny trakt/lodz zimowa w budowie.",
    "stan": "298-06-05: Symon ruszyl kucie STALEJ arterii backhaulu (Polnoc->Bialy Port->Braavos). Wezly: Torsen (nast85/zauf29, faktor Halvard u zrodla nad Bialym Nozem), Nesta (re-eksport), Luwin (dwor/sklady), Cass/Ulf/Donnal (droga). Rzut 23: stala umowa NIE domknieta. Torsen chce, ale wskazal 3 dziury do zasypania. | 298-06-05 (rzut 83): Nesta dala cene - futro pokrywa koszt kursu (cienka marza, ale czysta na pustej nodze), bursztyn=zysk (3-4x, obrobiony wiecej). Re-eksport potwierdzony na pismie. INSIGHT Nesty: arteria DWUSTRONNA (w gore sol/zelazo/narzedzia/wino/plotno-len-Miry, w dol futro+bursztyn) = zarabia dwa razy, nie potrzebuje glejtu.",
    "do_zrobienia": [
     "[ZROBIONE] Cena Nesty - futro pokrywa kurs, bursztyn zysk, re-eksport potwierdzony",

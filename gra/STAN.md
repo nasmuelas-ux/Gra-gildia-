@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 116 jeleni + 1 mied + 0 smokow
+- **Wolne:** 111 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -83,6 +83,8 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-07-18: audyt/spor sukiennika (rzut 52) - ~12 jel (sakiewka 98->110). Wspolnik podcieniowal ksiegi; Symon nazwal prawde (nie win-win), sukiennik wygral, wspolnik URAZONY (drobny cien). Reputacja UCZCIWOSCI+ (prawda niewygodna). Tie: sukiennik z sieci Leony (kolejne roboty w cechu).
 - 298-07-18: Fenn skojarzyl koge z ladunkiem powrotnym (rzut 36) - drobna prowizja ~4 jel do firmy (lato studzi). Pipeline pracuje.
 - 298-07-19: drobny audyt sukiennika (bez rzutu, mala robota) - blad w ksiegowaniu zwrotow, ~6 jel (sakiewka 110->116). Goodwill w cechu sukiennikow (siec Leony) = staly strumien drobnej roboty. Reputacja pracuje sama.
+- 298-07-19: Symon przejrzal ksiegi reliefu (jego forensic-reckoner) - marnotrawstwo z dobrego serca (zakup detaliczny/drogi, psucie w zlym skladzie, mgliste rachunki). Przestawil: hurt/forward (dostawcy Harlon/rotacja), lepsze skladowanie, czysta ksiega. TEN SAM fundusz karmi ZNACZNIE WIECEJ gab - zero wlozonego grosza, dolozony umysl. Owen: 'cud'.
+- 298-07-19 (rzut 100 KRYT): naprawa septy przed zima falą GOODWILLU. Boren+cech kolodziejow (darmo, 'pamietamy'), murarze/ciesle z orbity (mimo sezonu), wdowy/drobni z zaulkow (materialy/rece). Symon dolozyl ~5 jel na olow do okna (116->111), reszta goodwillem. Septa lepsza niz byla, przed zima, niemal za darmo. WIDOCZNY akt wspolnoty wokol imienia Symona (nie pokaz bogactwa - dowod ze LUD staje na jego slowo w imie dobra).
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-08-01 (ostatni: 298-07-01 (WYKONANY: miesiac 298-06 zamkniety na PELNA skale - Symon obecny, uslugi/operacje firing, filar zamkowy podpisany pod koniec mies.; netto pasywne ~+185 do kont domowych))

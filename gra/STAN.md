@@ -109,7 +109,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - Zdrowie 100 · Sytosc 37 · Zmeczenie 18
 
 ## UMIEJETNOSCI (0-10)
-pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 9 · wlodarstwo 8
+pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 9 · wlodarstwo 8 · historia 3 · wiedza_o_swiecie 5 · polityka 6
 **Reputacja:** port 38 · schody_zamkowe 40 · cech_pisarzy -6 · wiara 96 · zamek 24 · cech_kolodziejow 42
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU; LICZBY UCZCIWE vs ZMYSLONE; JEDNOSTKA WOBEC KROLESTWA + POGODA POLITYCZNA; WLADZA NA POLNOCY / BIALY PORT; GOSPODARKA POLNOCY; TARCZA SLABYCH A ICH GODNOSC; POLNOC W KONTRZE DO REGIONOW / TRANSPORT; METODYKA AUDYTU JAKO POMOST; GRANICA PRAWA / SPRAWIEDLIWOSC BEZ DZWIGNI
 

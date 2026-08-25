@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-07-26 RANEK · lato (298)
+- **Data:** 298-07-27 RANEK · lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 87 jeleni + 1 mied + 0 smokow
+- **Wolne:** 47 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -90,6 +90,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-07-25 (rzut 61): PREMIUM structuring - zamozny armator (polecenie Mertyna) szykowal wielkie wspolne przedsiewziecie ladunkowe (kilku inwestorow, brak zaufania); Symon USTRUKTURYZOWAL czysto (udzialy/klauzule ryzyka/rozliczenie, neutralnosc+matematyka monety+prawo). ~+30 jel (sakiewka 62->92). Reputacja w swiecie frachtu/kupiectwa+ (polnocna pozycja - 'niezastapiony uczciwy umysl'). Nowy zamozny klient + siec armatorska (repeat/polecenia; pod kabotaz+underwriting). Zarobek i pozycja rosna jednym ruchem.
 - 298-07-25: zamowiony prototyp lodzi zimowej (amfibia przejscia), zadatek ~10 jel (sakiewka 92->82), budowa jesien (szkutnik+Boren), balans przy budowie. Test na 1. przymrozku (Ulf/Cass).
 - 298-07-26 (rzut 18): 1. dwustronny kurs rozliczony. GORNA noga oplacona (sol/len-order/wino/welin, standing). DOLNA noga CIENKA - Halvard dal malo (zrodlo rusza skromnie jak ostrzegano): skromne futro (czesc poslednia) pokrylo KAWALEK rejsu powrotnego, maly woreczek SUROWEGO bursztynu. Netto ~+5 jel (sakiewka 82->87), bursztyn->Nesta na re-eksport (maly zysk pozniej). NAUKI: (1) wolumen=waskie gardlo (dolna noga nie zarobi az zrodlo urosnie); (2) wartosc bursztynu DOWNSTREAM - 3-4x OBROBIONY u braavijskich jubilerow, nie surowy; (3) dopiac handel dolnej nogi (grading futer, obchodzenie bursztynu). DOWOD KONCEPTU (przeplyw dwustronny dziala, kanal Braavos stoi) ale RAMP nie zniwo. Robota: urosnac zrodlo Halvarda (wolumen+wylacznosc), obrabiac bursztyn.
+- 298-07-26 (odprawa rzut 74): 2. ambasada Fenna do Halvarda wyprawiona - wiekszy mandat (wiecej wolumenu futer + JEWELRY-GRADE bursztyn pod grading; PCHNAC ku WYLACZNOSCI - 1. kurs dowiodl niezawodnosci) + grubszy zadatek ~40 jel (sakiewka 87->47) + Ulf most. Wynik ~3-4 tyg = powrot ~polowa/koniec sierpnia. Odprawa mocna, sklonna ku: wiecej wolumenu + szansa na postep ku wylacznosci. Symon zostaje na hubie (staple/kadencja/przedzimie); Fenn=reka w terenie.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-08-01 (ostatni: 298-07-01 (WYKONANY: miesiac 298-06 zamkniety na PELNA skale - Symon obecny, uslugi/operacje firing, filar zamkowy podpisany pod koniec mies.; netto pasywne ~+185 do kont domowych))

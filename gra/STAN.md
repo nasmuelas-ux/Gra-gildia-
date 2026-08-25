@@ -10,14 +10,14 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-07-25 RANEK · lato (298)
+- **Data:** 298-07-26 RANEK · lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.22 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
 - **Nastroje:** Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, 
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 92 jeleni + 1 mied + 0 smokow
+- **Wolne:** 87 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -88,6 +88,8 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-07-21 (rzut 32, DUZY zaklad): forward-skup staple pod zime. Zablokowany DUZY wolumen zboze(plony, letnia cena, platne na zbior)+sol Harlona skalowana. Zadatki ~110 jel teraz (sakiewka 111->50, konta 85->45), balans na dostawe (jesien) na forward-terminach+dzwignia kantoru/kredytu+przedkupiony popyt (kontrakt zamkowy+relief jako gwarant odbioru). SKLAD: WLASNY magazyn Symona (Srodkowe Nabrzeze, Pate magazynier) - storage KAPTOWANY WEWNETRZNIE (bez czynszu obcym; Pate rygor, butwienie=wrog nr1). Koszt alternatywny: duzy zapas WLASNY wypiera platne skladowanie kupcow (strumien #12) i przy naprawde duzym wolumenie moze napiac pojemnosc -> Aurane TYLKO jako overflow jesli wlasny skad nie zmiesci. EKSPOZYCJA: grubo long staple na cienkim buforze (~95 jel plynne lacznie), koncentracja (ostrzezenie Nesty ciałem). UPSIDE jesli zima twarda/wojna: potrojna wygrana (zysk handlowy+spichlerz ubogich+prowiant zamku/armii). DOWNSIDE jesli plony obfite/zima lagodna/spoilage: przeciagniety, realna strata. Kalkulowany zaklad na mocnych sygnalach (zima idzie), nie hazard - ale bufor cienki. | 298-07-23 SKLAD ZABEZPIECZONY: dyscyplina skladowa (~6 jel: podesty/przewiew/koty-pulapki/dodatkowa reka na przeglady, Pate) + OVERFLOW do Aurane dla nadwyzki (czynsz; nie wypiera platnych #12; krok ku partnerstwu hubowemu). Ryzyko butwienia/szczurow ZARZADZONE. Zostaje tylko czy zima twarda (sygnaly po stronie Symona). Bufor 50->44.
 - 298-07-23 (rzut 70): produktywny dzien pracy - audyt sredni (cech sukiennikow/siec Leony ~10) + brokering Fenna (~4) + drobnica (~4) = ~+18 jel (sakiewka 44->62). PIPELINE SIE ROZGRZEWA - reputacja+zywy dowod (Mertyn/sukiennicy) = robota przychodzi regularniej, staly strumien powoli grubieje (zgodnie z projekcja). Fenn: po zniwach wroci do tematu 2. agenta.
 - 298-07-25 (rzut 61): PREMIUM structuring - zamozny armator (polecenie Mertyna) szykowal wielkie wspolne przedsiewziecie ladunkowe (kilku inwestorow, brak zaufania); Symon USTRUKTURYZOWAL czysto (udzialy/klauzule ryzyka/rozliczenie, neutralnosc+matematyka monety+prawo). ~+30 jel (sakiewka 62->92). Reputacja w swiecie frachtu/kupiectwa+ (polnocna pozycja - 'niezastapiony uczciwy umysl'). Nowy zamozny klient + siec armatorska (repeat/polecenia; pod kabotaz+underwriting). Zarobek i pozycja rosna jednym ruchem.
+- 298-07-25: zamowiony prototyp lodzi zimowej (amfibia przejscia), zadatek ~10 jel (sakiewka 92->82), budowa jesien (szkutnik+Boren), balans przy budowie. Test na 1. przymrozku (Ulf/Cass).
+- 298-07-26 (rzut 18): 1. dwustronny kurs rozliczony. GORNA noga oplacona (sol/len-order/wino/welin, standing). DOLNA noga CIENKA - Halvard dal malo (zrodlo rusza skromnie jak ostrzegano): skromne futro (czesc poslednia) pokrylo KAWALEK rejsu powrotnego, maly woreczek SUROWEGO bursztynu. Netto ~+5 jel (sakiewka 82->87), bursztyn->Nesta na re-eksport (maly zysk pozniej). NAUKI: (1) wolumen=waskie gardlo (dolna noga nie zarobi az zrodlo urosnie); (2) wartosc bursztynu DOWNSTREAM - 3-4x OBROBIONY u braavijskich jubilerow, nie surowy; (3) dopiac handel dolnej nogi (grading futer, obchodzenie bursztynu). DOWOD KONCEPTU (przeplyw dwustronny dziala, kanal Braavos stoi) ale RAMP nie zniwo. Robota: urosnac zrodlo Halvarda (wolumen+wylacznosc), obrabiac bursztyn.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-08-01 (ostatni: 298-07-01 (WYKONANY: miesiac 298-06 zamkniety na PELNA skale - Symon obecny, uslugi/operacje firing, filar zamkowy podpisany pod koniec mies.; netto pasywne ~+185 do kont domowych))
@@ -110,7 +112,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - Zdrowie 100 · Sytosc 37 · Zmeczenie 18
 
 ## UMIEJETNOSCI (0-10)
-pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 4 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 9 · wlodarstwo 8 · historia 4 · wiedza_o_swiecie 5 · polityka 6
+pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 5 · czytanie_ludzi 9 · organizacja 8 · audyt 9 · finanse 9 · wlodarstwo 8 · historia 4 · wiedza_o_swiecie 5 · polityka 6
 **Reputacja:** port 38 · schody_zamkowe 40 · cech_pisarzy -6 · wiara 96 · zamek 24 · cech_kolodziejow 42
 **Wiedza/drzewko miekkie:** OGLADA; POLNOC i STARKOWIE; BRAAVOS i HANDEL; CZYTANIE LUDZI; ZASADA KANALOW; POLITYKA POLNOCY; PRAWO I DRABINA WLADZY BIALEGO PORTU; SFERA WIARY I GRANICE TARCZY; PRAWO HANDLOWE W PRAKTYCE; CZYTANIE DUSZ; PRAWO A DUSZE; ZIMA I UBODZY POLNOCY; BRAAWIJSKIE INSTRUMENTY KREDYTOWE; LUDZIE vs SIEC; CIEZARY MIESZCZANSTWA; REPUTACJA FORENSYCZNA TNIE W DWIE STRONY; UBEZPIECZENIE/ROZPROSZENIE RYZYKA; STANDARDY DOMENY KREDYTU I PEWNOSCI; ETYKA SYMONA; BRAAWIJSKI INSTRUMENT UBEZPIECZENIA MORSKIEGO; PRAWO UMOW HANDLOWYCH I ARBITRAZU; LICZBY UCZCIWE vs ZMYSLONE; JEDNOSTKA WOBEC KROLESTWA + POGODA POLITYCZNA; WLADZA NA POLNOCY / BIALY PORT; GOSPODARKA POLNOCY; TARCZA SLABYCH A ICH GODNOSC; POLNOC W KONTRZE DO REGIONOW / TRANSPORT; METODYKA AUDYTU JAKO POMOST; GRANICA PRAWA / SPRAWIEDLIWOSC BEZ DZWIGNI
 

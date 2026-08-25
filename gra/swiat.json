@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 7,
-  "dzien": 19,
+  "dzien": 20,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "RANEK",
  "sezon": "lato (298)",
- "pogoda": 22,
- "dzien_tygodnia_nr": 6,
+ "pogoda": 23,
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "nastroje_miasta": "Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, sol/zboze znormalizowane po zimowym scisku. Portfel na lato: budowa/eksport/arteria rosna, zimowy underwriting/prowiant spi. Miasto syte i ruchliwe.",
  "ceny": {
@@ -53,7 +53,7 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": null,
+ "swieto": "Dzien Matki (tygodniowy - Matka Siedmiu; dzien laski/rodziny/jalmuzny)",
  "dzien": 2,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "BIALY PORT - dom, NOC 07-19 (spia). Nastepny RANEK=07-20. Dwujezyczny pisarz (powszechna+braavijski biegle), uczen Theomore (start wysoki valyrianski). Arteria w drodze (~pocz. sierpnia).",
+ "lokacja_gracza": "BIALY PORT - dom, RANEK 07-20 (Dzien Matki). Uczen Theomore. Arteria w drodze (~pocz. sierpnia). Watki: zimowy spichlerz ubogich, przystan, pergamin, kredyt/wor.",
  "zaplanowane_zdarzenia": [
   "298-~07-14+: OPLACONY POWROT 1. barki arterii (dowod samofinansowania) = brama do KILE Wymana. Sprawdzic u Hala/w porcie.",
   "298-~07-poczatek/polowa: powrot ambasady Fenn/Ulf/Garrick z targiem u Halvarda (zrodlo futer/bursztynu) - sprawdzic wynik.",

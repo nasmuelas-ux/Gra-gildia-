@@ -129,3 +129,36 @@ _⚠️ CHWILOWO NIEDOGLĄDANE LOKALNIE — agent-sprzedawca (Fenn) w terenie (a
 - **Kontrola:** każde ramię z osobnym prowadzącym (Wick=kredyt, Tam=obrót, Cass=barka, **Pate=magazyn**, Hal=audyt/egzekucja, Wat=pergamin, Bran=dom, Deman=intel) — Symon = architekt + oko.
 
 _Do wytrowania twardo w Dniu Bilansu (należny 298-07-01, zaległy maj+czerwiec)._
+
+
+---
+
+## 6. PROJEKCJA BUDŻETU (298-07-21) — wplyw recent-ruchow
+
+_Zasada: SUFIT != realizacja; wzrost dojrzewa tygodniami-jesienia._
+
+### Ramie pergaminowe (3 tory)
+| Tor | Teraz | Sufit dojrzaly | Kiedy |
+|---|---|---|---|
+| Premium welin | ~+18-40 | ~+25-55 | jesien (2. czeladnik) |
+| Hurt pergaminu | ~0 (rusza) | ~+8-20 | tygodnie |
+| Warsztat pisarza (przybory) | ~0 (rusza) | ~+8-18 | tygodnie |
+| Oszczednosc wewn. (kancelaria) | ~0 | ~+3-6 | zaraz-tygodnie |
+| Koszty ramienia | — | ~-5-9 | z obsada |
+
+**Netto ramienia:** dzis ~+12-26 -> sufit dojrzaly ~+39-90/mies (2-3x). Upfront ~20 jel. Marza chroniona skorami z arterii.
+
+### Caly miesiac — przestawienie
+- Pergamin: ~+12-26 -> ~+39-90 (jesien)
+- Wor Tama (+100 ->218): ~+12-30 -> ~+22-50
+- Kredyt (+150 weksle ->~350): +~8-15/mies wiecej
+- Arteria (linia 2-hull+kile): skromnie teraz, DUZY potencjal gdy dolna noga dojrzeje
+- Uslugi (Fenn): drobny rosnacy strumien
+- Koszty +: 2. czeladnik, reka drobnicy, czynsz czarteru
+
+**Sufit domu:** ~+180-320 -> ku ~+250-450 netto/mies przy dojrzalosci. Realizacja TEGO miesiaca = srodek pasma (polowa ruchow dojrzewa: pergamin jesien, dolna noga arterii w budowie, Tam sie rozkreca).
+
+### Plynnosc (ostatnie dni)
+WYPLYW ~294 (pergamin 20 + Tam 100 + weksle 150 + Nella 5 + septa 5 + droga 14) | WPLYW ~38 (Mertyn 20 + sukiennik 12 + drobny 6) | STAN: sakiewka 267->~111, konta 185->85, reszta pracuje. Odbudowa: 1. oplacony kurs arterii (~pocz. sierpnia) + Bilans 08-01.
+
+**Puenta: zasiane grubo, zbierasz narastajaco.**

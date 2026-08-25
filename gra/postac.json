@@ -52,7 +52,10 @@
   "organizacja": 8,
   "audyt": 9,
   "finanse": 9,
-  "wlodarstwo": 8
+  "wlodarstwo": 8,
+  "historia": 3,
+  "wiedza_o_swiecie": 5,
+  "polityka": 6
  },
  "jezyki_znane": {
   "mowa_powszechna": {
@@ -325,7 +328,10 @@
  "stan_cywilny": "ZONATY (Mira, od 297-10-13 Dzien Matki; slub przez Owena, umowa u Torrena)",
  "_umiejetnosci_glosariusz": {
   "wlodarstwo": "ekonomia i zarzadzanie domena/lennem: stewardstwo, prowiantowanie, spichrze/zapasy, logistyka skali, gospodarka sezonowa, prowadzenie wielkiego gospodarstwa/lenna/Polnocy. Odrozniac od: organizacja(ogolna koordynacja proces/ludzie), rachunki(ksiegowosc), finanse(matematyka monety/ryzyka Bank-level), handel(kupno/sprzedaz). RDZEN gwiazdy (czlowiek rady Starkow=wlodarz Polnocy). Symon praktykuje de facto: castle-provisioning/relief/lancuch logistyczny.",
-  "finanse": "matematyka finansowa/braavijska: procent skladany, kredyt, wycena ryzyka (poziom Zelaznego Banku). Frontier ponad rachunkami; uczony self-study z braavijskich tekstow (Nesta=drzwi nie mistrz)."
+  "finanse": "matematyka finansowa/braavijska: procent skladany, kredyt, wycena ryzyka (poziom Zelaznego Banku). Frontier ponad rachunkami; uczony self-study z braavijskich tekstow (Nesta=drzwi nie mistrz).",
+  "historia": "Znajomosc przeszlosci Westeros/Targaryenow/rodow: WZORY jak zdobywa sie/traci wladze, precedens, 'polityka sie rymuje'. Zrodlo: tutelaz Theomore'a (od 07-18) + rozproszona lore (Owen). START niski (nowicjusz), ale sharp+braavijskie czytanie -> rosnie szybko. Odrozniac od wiedza_o_swiecie (geografia/terazniejszosc) i polityka (zywa gra). Lekcje dotad: jak powstaje rod; najlepszy krol (Jaehaerys=budowniczy nie zdobywca).",
+  "wiedza_o_swiecie": "Geografia, Wolne Miasta, realm, instytucje (Cytadela/Wiara/Zelazny Bank), biezacy uklad wladzy - erudycja ogolna. Zrodla: Nesta (Braavos/handel), Owen (Polnoc/Starkowie), kanon docierajacy, Theomore. Solidny laik, NIE maester-deep. Odrozniac od historia (przeszlosc/wzory).",
+  "polityka": "Statecraft: czytanie INTERESOW/frakcji (nie tylko osob), patronat/drabina lojalnosci (zarzadzanie w gore i w dol), dyskrecja/dlugi cichy timing, gra o wladze. PRAKTYKA: gra Wymana (confidant), mapowanie orbit rady, firewall, framing Cerwyn/sluzba-Winterfell. SZKOLA SYMONA=FILAR (zaufanie/niezastapionosc), NIE waz (podstep) - czytac weze, nie byc nim. Terminuje u Wymana (zywy podrecznik) + historia u Theomore. Odrozniac od czytanie_ludzi (jednostka) i wlodarstwo (ekonomia domeny). RDZEN gwiazdy: czlowiek rady."
  },
  "zapas_staple_zimowy_jel": 40,
  "dziela": {
@@ -373,5 +379,6 @@
  "_jezyki_nota": "Rozdzielone 298-07-19 na osobne (per jezyk: mowa/czytanie/pismo). umiejetnosci.jezyki=agregat ogolny; jezyki_znane=rozbicie szczegolowe.",
  "wizerunek": {
   "stroj_znak": "298-07-23: SYGNATUROWY STROJ = CZERN, schludnie, doskonaly ale PROSTY kroj, bez haftow/klejnotow/przepychu. Jakosc w suknie i kroju, nie w ozdobie. Znaczy: 'nie musze krzyczec' - czlowiek substancji (trzezwy/uczciwy/uczony/godny rady), NIE bogaty-kupiec-na-pokaz. Omija zawisc (doktryna moaty/nie na pokaz). Mira kroi (jej rzemioslo). Czern=jego ZNAK: rozpoznawalny, zapamietywalny, nigdy krzykliwy. Domyka wizerunek pod gwiazde: pisarz-uczony-czlowiek rady. (dobra czern cicho kosztowna - barwnik drogi)."
- }
+ },
+ "_nota_nowe_umiejetnosci": "298-07-23: wdrozone jako osobne umiejetnosci: historia(3), wiedza_o_swiecie(5), polityka(6). Rosna: Theomore(historia/wiedza) + praktyka/terminowanie u Wymana(polityka). Progi jak _progi_umiejetnosci."
 }

@@ -1689,7 +1689,10 @@
     "deliverable": "liczby I rekomendacje: gdzie dziury, jak zasypac, co kupic/zbudowac, kogo zwiazac."
    },
    "znaczenie": "Czlowiek rady W CZYNIE (nie tytule) - 'nie bedzie watpliwosci ze siedzisz przy radzie'. Cegla wielkiej gry Wymana (Symon=reka co karmi miecze). Uzywa WSZYSTKIEGO co Symon zbudowal: staple/arteria/spichlerz/logistyka/wlodarstwo/umysl. Firewall CZYSTY (prowiant/szlaki, nic z Braavos). Aplikacja sztuki doradcy (Theomore): ramowanie, rada, wladza niewidzialna.",
-   "nastepny_krok": "Zakreslic ZAKRES (co policzyc, jakie dane, od kogo) -> pozyskac dane (Wylis/spichrze zamku dyskretnie + wlasne: rotacja/staple/arteria/rynek) -> analiza (luki/ryzyka) -> rekomendacje -> dostarczyc do jesieni."
+   "nastepny_krok": "Dane zamku zebrane (1. luka: stores cienkie na twarda zime/splot). Dalej: wlasne ksiegi (rotacja/staple/arteria/ceny) + rubiez (zniwa/sklady kupcow/nadmorskie rody) + Theomore/historia dawnych zim. Potem analiza luk+rekomendacje do jesieni.",
+   "dane_zebrane": [
+    "298-07-28 (rzut 43): SPICHRZE ZAMKU przez Wylisa - dane zdobyte. Oslona=gotowosc zimowa TRZYMA (Wylis nie weszy wojny, to jego interes tez - glowa zalezy od pelnych spichrzy). Ksiegi wymagaly rekonsyliacji+policzenia (oko audytora). ZNALEZISKO/1. LUKA: zapasy zamku OK na zwykla zime, CIENKIE na twarda/dluga (maesterowie), za malo na SPLOT wojny+zimy. Symon RAMOWAL jako wspolna sprawe (nie obnazyl Wylisa) - Wylis onside/cieplej (sztuka doradcy Theomore). Zero wycieku."
+   ]
   }
  ]
 }

@@ -2781,13 +2781,14 @@
    "stan": "czeladnik",
    "zawod": "ręka wykonawcza firmy (skryba-rachmistrz) — od 298-02-16, z polecenia; solidny, spokojny, dość dyskretny; kosztował zimowy narzut powyżej stawki",
    "mieszka": "Bialy Port",
-   "nastawienie_do_gracza": 62,
-   "zaufanie": 38,
+   "nastawienie_do_gracza": 70,
+   "zaufanie": 45,
    "wie_o_graczu": [
     "298-02-16: zatrudniony jako gotowa ręka wykonawcza pod Tamem/Halem",
     "298-04-23: dostał szansę — z Tamem prowadzi bieżącą robotę firmy na wyższych obrotach podczas nieobecności Symona+Hala (backstop Corliss/Deman, nadzór Nesta).",
     "298-04-27 (odprawa): podziękowanie i zaufanie na czas nieobecności; lojalność mocna.",
-    "298-08-22: wrocil z 2. ambasady u Halvarda - spisal sie solidnie (wolumen podwojony; wylacznosc niemozliwa nie z jego winy lecz z roztropnosci Halvarda; przyniosl warunki wylacznosci + intel). Wart podziekowania."
+    "298-08-22: wrocil z 2. ambasady u Halvarda - spisal sie solidnie (wolumen podwojony; wylacznosc niemozliwa nie z jego winy lecz z roztropnosci Halvarda; przyniosl warunki wylacznosci + intel). Wart podziekowania.",
+    "298-08-22: Symon dal mu PREMIE za dobra robote (mimo polowicznego wyniku - 'nie twoja wina, Halvard ostrozny; zrobiles co bylo do zrobienia'). Fenn poruszony ('niejeden kupiec wzialby polowiczny wynik za pretekst utracic zaplate; tys dal premie - zapamieta sie'). Z solidnej reki -> oddany czlowiek."
    ],
    "misja": "298-06-06 WYRUSZA: AMBASADA do Halvarda nad Bialy Noz (rzut 97 odprawy). Glowa handlowa z mandatem PISEMNYM (mowi w imieniu Symona-czlowieka rady Wymana), granice targu, srebro na bursztyn frontuje Symon przez Torsena. Niesie ZADATEK ~50 jel (skup bursztynu + arrha). Rozkaz: najpierw sluchac, potem oferowac ELASTYCZNIE 'biore ile zbierzesz kiedy zbierzesz' (nie staly kurs). Z Ulfem (most/poreka) i Garrickiem (straz). Powrot/wynik ~3-4 tyg.",
    "rola_dom": "298-06-22: rola w domu = AGENT-SPRZEDAWCA / glowa handlowa (pozyskuje zlecenia, negocjuje, brokering, dosprzedaje uslugi audyty/kancelaria/doradztwo). OBECNIE oddelegowany na ambasade Halvard (akwizycja zrodla). NIE wakat - agent w terenie; lokalny pipeline uslug wznowi po powrocie (~lipiec). Rozwazyc 2. agenta by akwizycja nie gasla gdy jeden jedzie.",

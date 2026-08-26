@@ -5,7 +5,7 @@
   "dzien": 27,
   "era": "AC"
  },
- "pora": "RANEK",
+ "pora": "NOC",
  "sezon": "lato (298)",
  "pogoda": 21,
  "dzien_tygodnia_nr": 7,
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "BIALY PORT - dom, RANEK 07-27 (Dzien Matki). Fenn w 2. ambasadzie (wynik ~sierpien). Nesta poluje na szlifierza. Staple splywaja. Bilans 08-01 za 4 dni.",
+ "lokacja_gracza": "BIALY PORT - dom, NOC 07-27 (spia, Dzien Matki). Nastepny RANEK=07-28. Fenn w drodze do Halvarda. Nesta poluje na szlifierza. Bilans 08-01 za 4 dni. Politya: wladza bez tytulu (niewidzialna).",
  "zaplanowane_zdarzenia": [
   "298-~polowa/koniec sierpnia: POWROT 2. ambasady Fenna od Halvarda (wiecej wolumenu + ku wylacznosci; odprawa rzut 74 sklonna ku dobremu).",
   "298-08-01: DZIEN BILANSU (miesiac 07 na pelna skale - pergamin/wor Tama/kredyt/premium/arteria).",

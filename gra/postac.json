@@ -12,7 +12,7 @@
  "zmeczenie": 18,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 56,
+  "jelenie": 48,
   "smoki": 0
  },
  "dobytek": [
@@ -266,7 +266,8 @@
   "zlecenie_premium_0725": "298-07-25 (rzut 61): PREMIUM structuring - zamozny armator (polecenie Mertyna) szykowal wielkie wspolne przedsiewziecie ladunkowe (kilku inwestorow, brak zaufania); Symon USTRUKTURYZOWAL czysto (udzialy/klauzule ryzyka/rozliczenie, neutralnosc+matematyka monety+prawo). ~+30 jel (sakiewka 62->92). Reputacja w swiecie frachtu/kupiectwa+ (polnocna pozycja - 'niezastapiony uczciwy umysl'). Nowy zamozny klient + siec armatorska (repeat/polecenia; pod kabotaz+underwriting). Zarobek i pozycja rosna jednym ruchem.",
   "prototyp_lodzi_zimowej": "298-07-25: zamowiony prototyp lodzi zimowej (amfibia przejscia), zadatek ~10 jel (sakiewka 92->82), budowa jesien (szkutnik+Boren), balans przy budowie. Test na 1. przymrozku (Ulf/Cass).",
   "kurs_dwustronny_1_0726": "298-07-26 (rzut 18): 1. dwustronny kurs rozliczony. GORNA noga oplacona (sol/len-order/wino/welin, standing). DOLNA noga CIENKA - Halvard dal malo (zrodlo rusza skromnie jak ostrzegano): skromne futro (czesc poslednia) pokrylo KAWALEK rejsu powrotnego, maly woreczek SUROWEGO bursztynu. Netto ~+5 jel (sakiewka 82->87), bursztyn->Nesta na re-eksport (maly zysk pozniej). NAUKI: (1) wolumen=waskie gardlo (dolna noga nie zarobi az zrodlo urosnie); (2) wartosc bursztynu DOWNSTREAM - 3-4x OBROBIONY u braavijskich jubilerow, nie surowy; (3) dopiac handel dolnej nogi (grading futer, obchodzenie bursztynu). DOWOD KONCEPTU (przeplyw dwustronny dziala, kanal Braavos stoi) ale RAMP nie zniwo. Robota: urosnac zrodlo Halvarda (wolumen+wylacznosc), obrabiac bursztyn.",
-  "fenn_2ambasada_halvard_0726": "298-07-26 (odprawa rzut 74): 2. ambasada Fenna do Halvarda wyprawiona - wiekszy mandat (wiecej wolumenu futer + JEWELRY-GRADE bursztyn pod grading; PCHNAC ku WYLACZNOSCI - 1. kurs dowiodl niezawodnosci) + grubszy zadatek ~40 jel (sakiewka 87->47) + Ulf most. Wynik ~3-4 tyg = powrot ~polowa/koniec sierpnia. Odprawa mocna, sklonna ku: wiecej wolumenu + szansa na postep ku wylacznosci. Symon zostaje na hubie (staple/kadencja/przedzimie); Fenn=reka w terenie."
+  "fenn_2ambasada_halvard_0726": "298-07-26 (odprawa rzut 74): 2. ambasada Fenna do Halvarda wyprawiona - wiekszy mandat (wiecej wolumenu futer + JEWELRY-GRADE bursztyn pod grading; PCHNAC ku WYLACZNOSCI - 1. kurs dowiodl niezawodnosci) + grubszy zadatek ~40 jel (sakiewka 87->47) + Ulf most. Wynik ~3-4 tyg = powrot ~polowa/koniec sierpnia. Odprawa mocna, sklonna ku: wiecej wolumenu + szansa na postep ku wylacznosci. Symon zostaje na hubie (staple/kadencja/przedzimie); Fenn=reka w terenie.",
+  "warsztat_bursztynu_marro": "298-07-30: MARRO (zdolny glodny czeladnik-szlifierz bursztynu z Braavos) sciagniety NA PROBE - passage galera Nesty (tani) + zadatek ~8 jel (sakiewka 56->48). Przybycie ~polowa/koniec sierpnia (~2-3 tyg z Braavos). Plan: obrobi probke -> Symon ocenia reke + Nesta sonduje rynek -> jesli graja, wylaczny warsztat (Marro zalozyciel-mistrz, uczy czeladnikow Symona=fosa). De-riskowane (nic wielkiego az reka+rynek dowiedzione)."
  },
  "licznik_uzyc": {
   "audyt": 11,

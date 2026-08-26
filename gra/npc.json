@@ -3011,6 +3011,19 @@
     "298-08-22: Symon rozlozyl mu wizje marki 'Tally' (surowa estetyka Polnocy) po bravijsku - Marro ZELEKTRYZOWANY ('nie chcesz sprzedawac bursztynu, chcesz stworzyc styl'), zaostrzyl filozofie (surowosc=luksus, anty-braavijskie) i palete polnocna (bursztyn/gagat/zelazodrzewo/srebro/stal woronowana), zaproponowal maker's mark 'Tally'. Zostaje creative leadem + mistrzem bursztynu/gagatu; robi probki + mapuje atelier (platnerz/szklarz/snycerz)."
    ],
    "flaga": "mistrz bursztynu/gagatu + CREATIVE LEAD marki 'Tally'; zalozyciel atelier (uczy=fosa); glodny wlasnej wizji - spelniony"
+  },
+  {
+   "id": "torghen_platnerz",
+   "imie": "Torghen",
+   "stan": "mieszczanin-rzemieslnik",
+   "wiek": 48,
+   "zawod": "platnerz przy Bramie Foki - mistrz stali/okuc, reka czysta i austera (surowa, precyzyjna, bez zbytku); trzeci mistrz atelier 'Tally' (metal: stalowka/oprawy/klamry/stal woronowana/srebro na start)",
+   "nastawienie_do_gracza": 68,
+   "zaufanie": 38,
+   "wie_o_graczu": [
+    "298-08-23 (rzut 76): Symon go dobral do atelier 'Tally'. Torghen - talent marnowany (Bialy Port to nie kuznia wojenna, kuje zawiasy/naprawy zamiast rzeczy doskonalych; nie chce kuc broni, woli 'rzecz na ktora sie patrzy'). Zapalil sie na wizje ('30 lat czekalem az ktos powie: wykuj mi rzecz najpiekniejsza i podpisz ja'). Wchodzi: stalowka/oprawy/klamry/stal woronowana + srebro na start (osobny zlotnik gdy marka urosnie)."
+   ],
+   "flaga": "3. mistrz atelier Tally (Marro=bursztyn/gagat, Wat=welin/atrament, Torghen=metal); glodny godnej roboty, austera reka=idiom marki; firewall czysty (polnocny)"
   }
  ],
  "orbita": [

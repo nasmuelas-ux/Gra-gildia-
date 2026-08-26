@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 8,
-  "dzien": 10,
+  "dzien": 11,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "lato (298)",
- "pogoda": 20,
- "dzien_tygodnia_nr": 7,
+ "pogoda": 18,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "nastroje_miasta": "298-08-01: WIESC Z POLUDNIA wstrzasnela portem - statek z Gulltown przywiozl (sprzed tygodni): w Krolewskiej Przystani KROLOBOJCA napadl Namiestnika lorda EDDARDA STARKA na ulicy, straz pobito, Namiestnik RANNY; przyczyna: lady Stark pojmala Krasnala; Lannisterowie krzycza zdrada, Starkowie mord. Wojny nie ogloszono ale POKOJ ARRYNA SKONCZYL SIE, Wilk i Lew dobyli stali. Port w niepokoju - Polnoc to ludzie Starkow. Ceny drgna, ludzie szepcza. To pierwszy grzmot splotu, ktory Wyman wietrzyl (i Symon liczy w komisji).",
  "ceny": {
@@ -53,7 +53,7 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki (tygodniowy)",
+ "swieto": null,
  "dzien": 2,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "Winterfell - izba goscinna (wieczor 08-10), Symon jako spokojny gosc przy swoich ludziach",
+ "lokacja_gracza": "Winterfell - izba goscinna (ranek 08-11, 2. dzien jako gosc)",
  "zaplanowane_zdarzenia": [
   "298-~polowa/koniec sierpnia: POWROT 2. ambasady Fenna od Halvarda (wiecej wolumenu + ku wylacznosci; odprawa rzut 74 sklonna ku dobremu).",
   "298-08-01: DZIEN BILANSU (miesiac 07 na pelna skale - pergamin/wor Tama/kredyt/premium/arteria).",

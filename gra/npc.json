@@ -2893,8 +2893,11 @@
    "id": "robb_stark",
    "imie": "Robb Stark",
    "zawod": "dziedzic Winterfell, l.15 - TRZYMA grod jako p.o. pana (Ned Namiestnikiem na poludniu); wilkor Szary Wicher",
-   "nastawienie_do_gracza": "cieply/z rosnacym szacunkiem - silny slad (rzut 90) + ludzka wiez nad wilkiem i rannym Branem (07-09)",
-   "ostatni_kontakt": "298-07-09 Winterfell POZNANY OSOBISCIE. Przetestowal Symona ('czemu obcemu zalezy na spichrzach Winterfell') - Symon prawda po polnocnemu (klucz Ulfa), Szary Wicher przyjal. Robb: 'ojciec mowil o tobie parę slow... zapamietam, gdy przyjdzie potrzeba POSLE'. Uscisk po kupiecku. LUDZKA NIC: rozmowa o wilku (znak, szczenieta w sniegu) i o Branie (spadl, nie bedzie chodzil, rozum caly, wilk Lato) - Symon dal szczere slowo ojca (11-dniowa corka), Robb poruszony 'spytales jak o brata nie kaleke'. Robb = przyszly Wilk, zna Symona z imienia i z serca. Arc: brama do rady Starkow przez nowego pana."
+   "nastawienie_do_gracza": "cieply -> ZAUFANIE OSOBISTE (0811 bozogaj): chlopiec-pan otworzyl sie przed Symonem w swietej ciszy, powierzyl ciezar",
+   "ostatni_kontakt": "298-07-09 Winterfell POZNANY OSOBISCIE. Przetestowal Symona ('czemu obcemu zalezy na spichrzach Winterfell') - Symon prawda po polnocnemu (klucz Ulfa), Szary Wicher przyjal. Robb: 'ojciec mowil o tobie parę slow... zapamietam, gdy przyjdzie potrzeba POSLE'. Uscisk po kupiecku. LUDZKA NIC: rozmowa o wilku (znak, szczenieta w sniegu) i o Branie (spadl, nie bedzie chodzil, rozum caly, wilk Lato) - Symon dal szczere slowo ojca (11-dniowa corka), Robb poruszony 'spytales jak o brata nie kaleke'. Robb = przyszly Wilk, zna Symona z imienia i z serca. Arc: brama do rady Starkow przez nowego pana.",
+   "wie_o_graczu": [
+    "298-08-11 bozogaj (rzut 93): Symon uszanowal Bogow Polnocy (czlowiek Siedmiu, czesc bez klekania) - TRAFIL w serce samotnosci Robba. Robb rozbrojony ('mój ojciec by cie polubil - poznaje sie czlowieka po tym jak traktuje bogow co nie sa jego'). Szary Wicher USIADL u stop Symona ('nie robi tego obcym prawie nigdy'). Robb ZDJAL CALA MASKE pana, powierzyl ciezar (ojciec ranny, matka wyjechala, siostry wsrod lwow, Bran kaleka) i spytal z dna samotnosci: 'jak czlowiek udaje ze wie czego nie wie? nienawidze tego'. Symon przy nim jak czlowiek przy czlowieku, NIE pitch."
+   ]
   },
   {
    "id": "harwin_woznica_cerwyn",

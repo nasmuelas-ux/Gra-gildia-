@@ -1676,6 +1676,20 @@
    ],
    "korekta_braavijski_0719": "298-07-19 KOREKTA (gracz): Symon uczyl sie braavijskiego DUZO - czytanie BIEGLE (self-study zaawansowanych braavijskich tekstow finansowych, zrodlo jego frontier-finansow). Wiec fory do wysokiego valyrianskiego jeszcze wieksze: nie tylko zna dzwieki z ucha, ale juz CZYTA bekarci valyrianski sprawnie - glify i korzenie wysokiego przyjda mu latwiej niz zakladalem.",
    "umiejetnosci_wdrozone_0723": "298-07-23: sformalizowano jako SLEDZONE umiejetnosci: historia(3, nowicjusz, rosnie u Theomore), wiedza_o_swiecie(5, solidny laik), polityka(6, naturalny+praktyka u Wymana). Rosna przez lekcje Theomore'a (historia/wzory, wiedza) + terminowanie u Wymana i wlasna praktyke (polityka). Szkola polityki Symona = FILAR nie waz. To rdzen 'czlowieka rady'."
+  },
+  {
+   "id": "komisja_gotowosci_prowiantowej",
+   "tytul": "Komisja Wymana: gotowosc prowiantowa Polnocy na splot wojny+zimy",
+   "status": "PRZYJETA 298-07-28 - termin do jesieni",
+   "stan": "298-07-28 (audiencja, rzut inbound 92): Wyman powierzyl Symonowi NAJPOWAZNIEJSZA komisje - MAPA GOTOWOSCI Manderlych i Bialego Portu na SPLOT (nakarmic wojsko w polu + przetrwac zabojcza zime naraz). Ma policzyc: ile zboza zlozyc, gdzie DZIURY w zaopatrzeniu, ktore szlaki utrzymaja dowoz gdy rzeki zamarzna/goscince stana, co z cenami/ludem/porzadkiem gdy glod+strach naraz - I CO ROBIC by luki zasypac nim uderzy (rada nie tylko liczby). 'Robota dla ktorej cie trzyme - nie handel, TO'.",
+   "warunki": {
+    "termin": "DO JESIENI ('nim lisc pozolknie') - gruntownie nie szybko ('2 mies gruntowne > 2 tyg byle jakie'); zniwa po drodze dadza dane.",
+    "dyskrecja": "CICHO/w cieniu - port nie moze widziec lorda szykujacego sie do wojny (panika+ceny w gore).",
+    "dostep": "Wyman OTWORZYL cicho ksiegi dotad tajne: spichrze zamku, rachunki prowiantu - przez Wylisa w imieniu lorda, DYSKRETNIE.",
+    "deliverable": "liczby I rekomendacje: gdzie dziury, jak zasypac, co kupic/zbudowac, kogo zwiazac."
+   },
+   "znaczenie": "Czlowiek rady W CZYNIE (nie tytule) - 'nie bedzie watpliwosci ze siedzisz przy radzie'. Cegla wielkiej gry Wymana (Symon=reka co karmi miecze). Uzywa WSZYSTKIEGO co Symon zbudowal: staple/arteria/spichlerz/logistyka/wlodarstwo/umysl. Firewall CZYSTY (prowiant/szlaki, nic z Braavos). Aplikacja sztuki doradcy (Theomore): ramowanie, rada, wladza niewidzialna.",
+   "nastepny_krok": "Zakreslic ZAKRES (co policzyc, jakie dane, od kogo) -> pozyskac dane (Wylis/spichrze zamku dyskretnie + wlasne: rotacja/staple/arteria/rynek) -> analiza (luki/ryzyka) -> rekomendacje -> dostarczyc do jesieni."
   }
  ]
 }

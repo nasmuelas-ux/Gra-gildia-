@@ -1470,7 +1470,8 @@
    "zawod": "faktor Torsena w glebi Polnocy (Bialy Noz) — skup drewna/skor/futer/bursztynu",
    "nastawienie_do_gracza": 0,
    "nota": "298-06-06: AMBASADA W DRODZE (przebija list z 06-05). Symon posyla Fenna (mandat pisemny + zadatek ~50 jel + swoboda targu) prowadzonego przez ULFA (wlasnego czlowieka Halvarda - poreka) + Garricka. Odprawa rzut 97 - uzbrojona po mistrzowsku, koryguje poludniowa nute listu (elastyczny odbior zamiast stalego kursu, srebro na stole). Wynik ~3-4 tyg, teraz silnie sklania sie ku sukcesowi. Wciaz niepoznany osobiscie, ale kanal cieply przez Ulfa.",
-   "list_wyslany": "298-06-05, posLaniec Torsena w glab Polnocy; odpowiedz oczekiwana ~298-07-01/07"
+   "list_wyslany": "298-06-05, posLaniec Torsena w glab Polnocy; odpowiedz oczekiwana ~298-07-01/07",
+   "ostatni_kontakt": " || 298-08-22 (rzut 37, 2. ambasada Fenna): WOLUMEN podwojony (bursztyn+futro forward w dol) - kanal solidny. WYLACZNOSC odmowiona z roztropnosci ('jednemu kupcowi caly bursztyn w niepewne czasy? jeszcze nie') ALE z cena/terminem: da wylacznosc gdy (1) Symon zagwarantuje STALY ODBIOR (X co sezon choćby rynek siadl) (2) relacja przejdzie PELNY SEZON proby; wtedy tez pogada o premii. Intel: imie Symona ('czlowiek rady Wymana') rosnie nad Bialym Nozem, kanal coraz cenniejszy."
   },
   {
    "id": "garbarz_coll",
@@ -2780,12 +2781,13 @@
    "stan": "czeladnik",
    "zawod": "ręka wykonawcza firmy (skryba-rachmistrz) — od 298-02-16, z polecenia; solidny, spokojny, dość dyskretny; kosztował zimowy narzut powyżej stawki",
    "mieszka": "Bialy Port",
-   "nastawienie_do_gracza": 58,
-   "zaufanie": 32,
+   "nastawienie_do_gracza": 62,
+   "zaufanie": 38,
    "wie_o_graczu": [
     "298-02-16: zatrudniony jako gotowa ręka wykonawcza pod Tamem/Halem",
     "298-04-23: dostał szansę — z Tamem prowadzi bieżącą robotę firmy na wyższych obrotach podczas nieobecności Symona+Hala (backstop Corliss/Deman, nadzór Nesta).",
-    "298-04-27 (odprawa): podziękowanie i zaufanie na czas nieobecności; lojalność mocna."
+    "298-04-27 (odprawa): podziękowanie i zaufanie na czas nieobecności; lojalność mocna.",
+    "298-08-22: wrocil z 2. ambasady u Halvarda - spisal sie solidnie (wolumen podwojony; wylacznosc niemozliwa nie z jego winy lecz z roztropnosci Halvarda; przyniosl warunki wylacznosci + intel). Wart podziekowania."
    ],
    "misja": "298-06-06 WYRUSZA: AMBASADA do Halvarda nad Bialy Noz (rzut 97 odprawy). Glowa handlowa z mandatem PISEMNYM (mowi w imieniu Symona-czlowieka rady Wymana), granice targu, srebro na bursztyn frontuje Symon przez Torsena. Niesie ZADATEK ~50 jel (skup bursztynu + arrha). Rozkaz: najpierw sluchac, potem oferowac ELASTYCZNIE 'biore ile zbierzesz kiedy zbierzesz' (nie staly kurs). Z Ulfem (most/poreka) i Garrickiem (straz). Powrot/wynik ~3-4 tyg.",
    "rola_dom": "298-06-22: rola w domu = AGENT-SPRZEDAWCA / glowa handlowa (pozyskuje zlecenia, negocjuje, brokering, dosprzedaje uslugi audyty/kancelaria/doradztwo). OBECNIE oddelegowany na ambasade Halvard (akwizycja zrodla). NIE wakat - agent w terenie; lokalny pipeline uslug wznowi po powrocie (~lipiec). Rozwazyc 2. agenta by akwizycja nie gasla gdy jeden jedzie.",
@@ -2919,7 +2921,7 @@
    "imie": "Halvard",
    "zawod": "faktor/zrodlo futer i bursztynu w glebi nad Bialym Nozem (dolna noga arterii)",
    "nastawienie_do_gracza": "ostrozno-otwarty (przez Fenna/Ulfa) - zgodzil sie dostarczac, bez wylacznosci na start",
-   "ostatni_kontakt": "298-07-15 (rzut 52): zgodzil sie dostarczac futro+bursztyn w dol; bez wylacznosci/wolumen rosnie; zadatek 50 forward"
+   "ostatni_kontakt": "298-07-15 (rzut 52): zgodzil sie dostarczac futro+bursztyn w dol; bez wylacznosci/wolumen rosnie; zadatek 50 forward || 298-08-22 (rzut 37, 2. ambasada Fenna): WOLUMEN podwojony (bursztyn+futro forward w dol) - kanal solidny. WYLACZNOSC odmowiona z roztropnosci ('jednemu kupcowi caly bursztyn w niepewne czasy? jeszcze nie') ALE z cena/terminem: da wylacznosc gdy (1) Symon zagwarantuje STALY ODBIOR (X co sezon choćby rynek siadl) (2) relacja przejdzie PELNY SEZON proby; wtedy tez pogada o premii. Intel: imie Symona ('czlowiek rady Wymana') rosnie nad Bialym Nozem, kanal coraz cenniejszy."
   },
   {
    "id": "nella_sierota",

@@ -2935,11 +2935,12 @@
    "stan": "zolnierz/najemnik",
    "zawod": "STRAZNIK domu Symona (od 08-04, na staly zold) - stary wlocznik karawanowy; spokojny, nie pije na warcie, czyta droge; z poprzedniej karawany do Winterfell. EskortA drogowa (jedzie z Symonem+Hendrym).",
    "nastawienie_do_gracza": 55,
-   "zaufanie": 30,
+   "zaufanie": 38,
    "wie_o_graczu": [
     "poznany na karawanie do Winterfell (298-04/05) jako najemnik",
     "Garrick reczy za niego jako pewnego",
-    "08-03: Symon postanowil najac go na stale; kontrakt jutro (08-04), Symon sam sprawdzi"
+    "08-03: Symon postanowil najac go na stale; kontrakt jutro (08-04), Symon sam sprawdzi",
+    "298-08-04: Symon sprawdzil go osobiscie (czyste oko) i przyklepal kontrakt - staly zold+wikt; ZATRUDNIONY na stale. Jedzie z Symonem+Hendrym do Winterfell jako eskorta."
    ],
    "flaga": "pewna reka na droge; weteran karawan"
   },
@@ -2950,11 +2951,12 @@
    "stan": "zolnierz",
    "zawod": "STRAZNIK domu Symona (od 08-04, na staly zold) - mlody, szybki, blizna, glowa na karku, slucha rozkazu; z poprzedniej karawany. Trzyma DOM/sklad/rodzine z Garrickiem.",
    "nastawienie_do_gracza": 50,
-   "zaufanie": 28,
+   "zaufanie": 34,
    "wie_o_graczu": [
     "poznany na karawanie do Winterfell",
     "Garrick reczy",
-    "08-03: brany na stala sluzbe warty domu; kontrakt jutro"
+    "08-03: brany na stala sluzbe warty domu; kontrakt jutro",
+    "298-08-04: sprawdzony i zatrudniony na stale; zostaje z Garrickiem pilnowac domu/skladu/rodziny."
    ],
    "flaga": "warta domu+skladu; mlody ale solidny"
   }

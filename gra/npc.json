@@ -2970,6 +2970,19 @@
     "298-08-04: sprawdzony i zatrudniony na stale; zostaje z Garrickiem pilnowac domu/skladu/rodziny."
    ],
    "flaga": "warta domu+skladu; mlody ale solidny"
+  },
+  {
+   "id": "theon_greyjoy",
+   "imie": "Theon Greyjoy",
+   "wiek": 19,
+   "stan": "szlachcic-zakladnik",
+   "zawod": "wychowanek(zakladnik) Neda Starka w Winterfell po buncie Zelaznych; najblizszy towarzysz Robba; luk/mysliwy; dumny, zadziorny, krucha duma podszyta wstydem zakladnika",
+   "nastawienie_do_gracza": "probowal umniejszyc (0811) -> ROZBROJONY i PRZYCHYLNY: Symon odpowiedzial szacunkiem bez sluzalstwa, zartem z siebie nie z niego, uklonem dla miecza; Theon docenil szczerosc ('prosto w oczy bez plaszczenia i bez wyzszosci - rzadkie'), zaprosil do kompanii",
+   "zaufanie": 30,
+   "wie_o_graczu": [
+    "298-08-11 stol Robba (rzut 91): testowal Symona publicznie ('czlowiek od liczb', zaczepka z ostrzem). Symon nie dal sie umniejszyc ani nie wyzwal - owl 'miecz nie policzy prowiantu na zime', uklon dla miecza, zart z siebie, odeslanie ciekawosci do Robba. Theon SIE SMIAL, docenil ('wiekszosc albo sie jaka albo puszy - tys ani jedno; cenie ze nie udawales kims kim nie jestes; wokol mnie ludzie sie plaszcza albo patrza z gory, prosto w oczy rzadkie'). Zaprosil do kompanii ('usiadz prosto i jedz jak czlowiek'). Z ryzyka -> przychylny/zalazek cieplejszego."
+   ],
+   "flaga": "wiatr przy uchu Robba - teraz przychylny; rozpoznaje szczerosc (zakladnik otoczony falszywa uprzejmoscia); NIE pochlebiac, byc prawdziwym"
   }
  ],
  "orbita": [

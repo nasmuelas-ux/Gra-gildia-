@@ -2949,8 +2949,8 @@
    "wiek": 38,
    "stan": "zolnierz/najemnik",
    "zawod": "STRAZNIK domu Symona (od 08-04, na staly zold) - stary wlocznik karawanowy; spokojny, nie pije na warcie, czyta droge; z poprzedniej karawany do Winterfell. EskortA drogowa (jedzie z Symonem+Hendrym).",
-   "nastawienie_do_gracza": 78,
-   "zaufanie": 55,
+   "nastawienie_do_gracza": 90,
+   "zaufanie": 70,
    "wie_o_graczu": [
     "poznany na karawanie do Winterfell (298-04/05) jako najemnik",
     "Garrick reczy za niego jako pewnego",
@@ -2958,7 +2958,8 @@
     "298-08-04: Symon sprawdzil go osobiscie (czyste oko) i przyklepal kontrakt - staly zold+wikt; ZATRUDNIONY na stale. Jedzie z Symonem+Hendrym do Winterfell jako eskorta.",
     "298-08-07 (rzut 75): Symon siadl z nim przy ogniu jak z czlowiekiem. Dagon otworzyl sie - chlop z ubogiej zagrody pod Bialym Nozem, cale zycie na karawanach, rodziny nie zalozyl; stala sluzba u Symona = DOM na starosc. 'Bede wierny nie dla zoldu, dla lozka pod dachem i pana co siada przy ogniu'.",
     "298-08-08: Symon PUBLICZNIE (przy Hendrym) podziekowal mu za uratowanie od brodu - 'zarobiles na slowo Garricka w 4 dni'. Dagon niepewny pochwaly (rzadko slyszal), ale poruszony. Wiez glebsza.",
-    "298-08-~18 (rzut 14 droga powrotna): Dagon WYCZUL zasadzke broken men na samotnym odcinku (swiezo zlamane galezie/ruch) - uratowal oddzial od slepego wjechania. W walce (4 obdartusow, 2 pierzchli 2 zginęli) obronil Symona z Hendrym; Dagon RANNY w przedramie (lekko, temblak). Symon opatrzyl go sam. Dagon: 'dobrze zes nas najal i sam sie nie pchal w bojke; zarobilismy na zold'. Wiez glebsza, lojalnosc potwierdzona krwia."
+    "298-08-~18 (rzut 14 droga powrotna): Dagon WYCZUL zasadzke broken men na samotnym odcinku (swiezo zlamane galezie/ruch) - uratowal oddzial od slepego wjechania. W walce (4 obdartusow, 2 pierzchli 2 zginęli) obronil Symona z Hendrym; Dagon RANNY w przedramie (lekko, temblak). Symon opatrzyl go sam. Dagon: 'dobrze zes nas najal i sam sie nie pchal w bojke; zarobilismy na zold'. Wiez glebsza, lojalnosc potwierdzona krwia.",
+    "298-08-21: Symon po powrocie zajal sie rannym Dagonem PRZED lordem i przed wlasnym domem - zaniosl do najlepszej reki w porcie (uzdrowicielka-wiedzaca), zaplacil za najlepsza opieke + cieply kat na wlasny koszt. Dagon gleboko poruszony ('najemnika sie opatruje albo nie i nikt nie placze, a tys mnie zaniosl do najlepszej reki nim poszedles do swego lorda'). Lojalnosc: z 'za lozko na starosc' -> 'DO SMIERCI - bo teraz wiem ze to nie byly slowa'."
    ],
    "flaga": "pewna reka na droge; weteran karawan"
   },

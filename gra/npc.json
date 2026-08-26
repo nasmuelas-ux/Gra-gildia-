@@ -2628,8 +2628,10 @@
    "ostatni_kontakt": "297-11-03",
    "wie_o_graczu": [
     "297-10-31 (rzut 39): Symon przyjechal za dnia (pogoda 70) domknac forward-depot - reczenie Leony otworzylo drzwi. Wendel (twardy, praktyczny chlop, chudy rok) chetny: puste stodoly=dochod z niczego. UMOWA: stage/sklad posredni towaru miedzy kursami w gore doliny za oplate. KOSZT-CATCH (rzut solidny nie perfekcyjny): Wendel chcial czesc z gory (chudy rok, nie ufa na slowo obcemu z portu) + stodola wymaga drobnego ogarniecia pod towar zimowy = ~6 jel zamiast ~4. Pojemnosc na START sieci (nie nieograniczona). DEPOT DZIALA: gorny odcinek ku Berenie teraz WYKONALNY (etapowanie rozwiazane, luka Hollisa zamknieta). nast 58, zauf 20.",
-    "297-11-03 POPOLUDNIE (rzut 75): Symon wpadl przy okazji domknac depot na stale - staging ZORGANIZOWANY porzadnie (stodoly gotowe, rytm kursow, Wendel wie co i kiedy). Z tropu w PEWNY WEZEL linii; jego puste stodoly=staly dochod, on rad. Stad tez wypuszczono PROBNA dostawe do Bereny (krotki skok z depotu do Wierzbowego Brodu, Hollis-vetted, zesztauowana bezblednie). Wendel ceni pewny uklad+traktowanie po ludzku - nast 58->62, zauf 20->26. Depot=dzialajaca infrastruktura."
-   ]
+    "297-11-03 POPOLUDNIE (rzut 75): Symon wpadl przy okazji domknac depot na stale - staging ZORGANIZOWANY porzadnie (stodoly gotowe, rytm kursow, Wendel wie co i kiedy). Z tropu w PEWNY WEZEL linii; jego puste stodoly=staly dochod, on rad. Stad tez wypuszczono PROBNA dostawe do Bereny (krotki skok z depotu do Wierzbowego Brodu, Hollis-vetted, zesztauowana bezblednie). Wendel ceni pewny uklad+traktowanie po ludzku - nast 58->62, zauf 20->26. Depot=dzialajaca infrastruktura.",
+    "298-08-25/26: PIERWSZY (nieswiadomy) WEZEL rezerwy Polnocy - operacja Symona forward-skupuje zboze i trzyma w jego stodolach; Wendel MYSLI ze to zwykly handel/jego zapobiegliwosc po chudym roku, NIE WIE ze to kaszka strategicznej rezerwy (need-to-know=zero, prawda tylko Symon+Wyman). Wyman reczy: 'rod cichy jak kamien'."
+   ],
+   "flaga": "1. wezel rezerwy (NIESWIADOMY) pod przykrywka 'napelnia stodoly po chudym roku'; wzor na reszte"
   },
   {
    "id": "kupiec_voss",

@@ -3001,11 +3001,12 @@
    "stan": "czeladnik-szlifierz (Braavos)",
    "zawod": "szlifierz bursztynu z Braavos, sciagniety na probe (07-30) pod luksusowa gre Symona; kandydat na mistrza-zalozyciela wylacznego warsztatu bursztynu (fosa: uczy czeladnikow Symona)",
    "nastawienie_do_gracza": 70,
-   "zaufanie": 40,
+   "zaufanie": 48,
    "wie_o_graczu": [
-    "298-08-22: Symon osadzil probe (reka DOBRA, wzor generyczny-braavijski). Przeszedl na BRAVIJSKI - Marro rozbrojony/otwarty. Odczyt: edge USPIONY nie nieobecny (generyk=tresura Braavos, ma wlasne pomysly, prosi o wolna reke+'twoj znak'); MOAT-WORTHY (przeplynal morze by zakladac/uczyc/zostawic swoje, nie ucieknie, bedzie bronil warsztatu jak wlasnego). Rapport przez rodzima mowe (most)."
+    "298-08-22: Symon osadzil probe (reka DOBRA, wzor generyczny-braavijski). Przeszedl na BRAVIJSKI - Marro rozbrojony/otwarty. Odczyt: edge USPIONY nie nieobecny (generyk=tresura Braavos, ma wlasne pomysly, prosi o wolna reke+'twoj znak'); MOAT-WORTHY (przeplynal morze by zakladac/uczyc/zostawic swoje, nie ucieknie, bedzie bronil warsztatu jak wlasnego). Rapport przez rodzima mowe (most).",
+    "298-08-22: Symon rozlozyl mu wizje marki 'Tally' (surowa estetyka Polnocy) po bravijsku - Marro ZELEKTRYZOWANY ('nie chcesz sprzedawac bursztynu, chcesz stworzyc styl'), zaostrzyl filozofie (surowosc=luksus, anty-braavijskie) i palete polnocna (bursztyn/gagat/zelazodrzewo/srebro/stal woronowana), zaproponowal maker's mark 'Tally'. Zostaje creative leadem + mistrzem bursztynu/gagatu; robi probki + mapuje atelier (platnerz/szklarz/snycerz)."
    ],
-   "flaga": "talent+czlowiek sprawdzeni; edge latentny czeka na wolnosc+kierunek (wlasny bialo-portowy wzor); zostaje dowod RYNKU (Nesta sonduje jego wlasna probke) przed inwestycja w warsztat"
+   "flaga": "mistrz bursztynu/gagatu + CREATIVE LEAD marki 'Tally'; zalozyciel atelier (uczy=fosa); glodny wlasnej wizji - spelniony"
   }
  ],
  "orbita": [

@@ -2994,6 +2994,18 @@
     "298-08-11 stol Robba (rzut 91): testowal Symona publicznie ('czlowiek od liczb', zaczepka z ostrzem). Symon nie dal sie umniejszyc ani nie wyzwal - owl 'miecz nie policzy prowiantu na zime', uklon dla miecza, zart z siebie, odeslanie ciekawosci do Robba. Theon SIE SMIAL, docenil ('wiekszosc albo sie jaka albo puszy - tys ani jedno; cenie ze nie udawales kims kim nie jestes; wokol mnie ludzie sie plaszcza albo patrza z gory, prosto w oczy rzadkie'). Zaprosil do kompanii ('usiadz prosto i jedz jak czlowiek'). Z ryzyka -> przychylny/zalazek cieplejszego."
    ],
    "flaga": "wiatr przy uchu Robba - teraz przychylny; rozpoznaje szczerosc (zakladnik otoczony falszywa uprzejmoscia); NIE pochlebiac, byc prawdziwym"
+  },
+  {
+   "id": "marro_szlifierz",
+   "imie": "Marro",
+   "stan": "czeladnik-szlifierz (Braavos)",
+   "zawod": "szlifierz bursztynu z Braavos, sciagniety na probe (07-30) pod luksusowa gre Symona; kandydat na mistrza-zalozyciela wylacznego warsztatu bursztynu (fosa: uczy czeladnikow Symona)",
+   "nastawienie_do_gracza": 70,
+   "zaufanie": 40,
+   "wie_o_graczu": [
+    "298-08-22: Symon osadzil probe (reka DOBRA, wzor generyczny-braavijski). Przeszedl na BRAVIJSKI - Marro rozbrojony/otwarty. Odczyt: edge USPIONY nie nieobecny (generyk=tresura Braavos, ma wlasne pomysly, prosi o wolna reke+'twoj znak'); MOAT-WORTHY (przeplynal morze by zakladac/uczyc/zostawic swoje, nie ucieknie, bedzie bronil warsztatu jak wlasnego). Rapport przez rodzima mowe (most)."
+   ],
+   "flaga": "talent+czlowiek sprawdzeni; edge latentny czeka na wolnosc+kierunek (wlasny bialo-portowy wzor); zostaje dowod RYNKU (Nesta sonduje jego wlasna probke) przed inwestycja w warsztat"
   }
  ],
  "orbita": [

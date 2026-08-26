@@ -2809,7 +2809,7 @@
    "zawod": "DRUGI strażnik domu (od 298-03-06) — były żołnierz (włócznia, wrócił z wojen bez przydziału), dawny towarzysz Garricka ze straży; uczciwy, twardy gdzie trzeba, spokojny gdzie można; na utrzymaniu owdowiała siostra z dzieckiem (powód wiernej służby)",
    "mieszka": "Bialy Port",
    "nastawienie_do_gracza": 72,
-   "zaufanie": 45,
+   "zaufanie": 50,
    "wie_o_graczu": [
     "298-03-06: Symon zatrudnił go osobiście przyklepawszy po lekturze charakteru (czysty odczyt). Płaca uczciwa i w terminie ('u mnie się nie wlecze z zapłatą'), traktowany jak swój. Ulga starego żołnierza — siostra i dziecko przetrwają zimę.",
     "298-04-20: jedzie z Symonem+Halem do Winterfell jako osobista osłona; doradził oddział zbrojnych lorda na karawanę + Garrick zostaje pilnować domu/Miry.",
@@ -2820,7 +2820,8 @@
     "298-05-16 NOC (karczma): w swoim zywiole, tracal sie z polnocnym wiarusem, wymieniali blizny; wieczor scalil drozyne radoscia nie tylko trudem.",
     "298-05-17: dostal zadanie dogladu rannych - goja sie (najciezej ranny bez goraczki, wstaje o kiju; reszta prawie zdrowa), pare dni i wszyscy pojada bez ryzyka.",
     "298-08-03: znow jedzie z Symonem do Winterfell jako eskorta (tym razem z Dagonem); envoy lekki, nie tabor.",
-    "298-08-07 (rzut 75): otworzyl sie przy ogniu - byl na prawdziwej wojnie na poludniu, wrocil bez przydzialu (siostra wdowa+dziecko na karku). Dal Symonowi zolnierski oglad wojny (wojna=wojsko ktore je, nie bitwy; wlasna maszerujaca armia pali/zjada najgorzej; zima po nieobsianych polach) + KLUCZOWA nauka dla komisji: rezerwe ukryc tez przed WLASNA przechodzaca armia."
+    "298-08-07 (rzut 75): otworzyl sie przy ogniu - byl na prawdziwej wojnie na poludniu, wrocil bez przydzialu (siostra wdowa+dziecko na karku). Dal Symonowi zolnierski oglad wojny (wojna=wojsko ktore je, nie bitwy; wlasna maszerujaca armia pali/zjada najgorzej; zima po nieobsianych polach) + KLUCZOWA nauka dla komisji: rezerwe ukryc tez przed WLASNA przechodzaca armia.",
+    "298-08-08: Hendry o Symonie - 'wielu panow szuka kogo obwinic gdy zle, bierze zasluge gdy dobrze; ty na odwrot - podziekowales temu co ocalil, nie warknales o spoznienie; za takim panem idzie sie nie dla zoldu'."
    ],
    "ostatni_kontakt": "298-04-20 NOC: Symon poprosił go jako osobistą osłonę na wyprawę do Winterfell (z nim i Halem). Hendry (b. żołnierz) zgodził się od ręki, ale doradził trzeźwo: jedna włócznia to za mało na karawanę prowiantu królewskiego — potrzeba ODDZIAŁU zbrojnych, a skoro to danina Korony na glejt lorda, to LORD daje ludzi. Zwrócił też uwagę: przy 6-tyg wyprawie Garrick niech ZOSTANIE przy Mirze/domu."
   },
@@ -2935,14 +2936,15 @@
    "wiek": 38,
    "stan": "zolnierz/najemnik",
    "zawod": "STRAZNIK domu Symona (od 08-04, na staly zold) - stary wlocznik karawanowy; spokojny, nie pije na warcie, czyta droge; z poprzedniej karawany do Winterfell. EskortA drogowa (jedzie z Symonem+Hendrym).",
-   "nastawienie_do_gracza": 70,
-   "zaufanie": 50,
+   "nastawienie_do_gracza": 78,
+   "zaufanie": 55,
    "wie_o_graczu": [
     "poznany na karawanie do Winterfell (298-04/05) jako najemnik",
     "Garrick reczy za niego jako pewnego",
     "08-03: Symon postanowil najac go na stale; kontrakt jutro (08-04), Symon sam sprawdzi",
     "298-08-04: Symon sprawdzil go osobiscie (czyste oko) i przyklepal kontrakt - staly zold+wikt; ZATRUDNIONY na stale. Jedzie z Symonem+Hendrym do Winterfell jako eskorta.",
-    "298-08-07 (rzut 75): Symon siadl z nim przy ogniu jak z czlowiekiem. Dagon otworzyl sie - chlop z ubogiej zagrody pod Bialym Nozem, cale zycie na karawanach, rodziny nie zalozyl; stala sluzba u Symona = DOM na starosc. 'Bede wierny nie dla zoldu, dla lozka pod dachem i pana co siada przy ogniu'."
+    "298-08-07 (rzut 75): Symon siadl z nim przy ogniu jak z czlowiekiem. Dagon otworzyl sie - chlop z ubogiej zagrody pod Bialym Nozem, cale zycie na karawanach, rodziny nie zalozyl; stala sluzba u Symona = DOM na starosc. 'Bede wierny nie dla zoldu, dla lozka pod dachem i pana co siada przy ogniu'.",
+    "298-08-08: Symon PUBLICZNIE (przy Hendrym) podziekowal mu za uratowanie od brodu - 'zarobiles na slowo Garricka w 4 dni'. Dagon niepewny pochwaly (rzadko slyszal), ale poruszony. Wiez glebsza."
    ],
    "flaga": "pewna reka na droge; weteran karawan"
   },

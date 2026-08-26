@@ -2,14 +2,14 @@
  "data": {
   "rok": 298,
   "miesiac": 7,
-  "dzien": 30,
+  "dzien": 31,
   "era": "AC"
  },
- "pora": "NOC",
+ "pora": "RANEK",
  "sezon": "lato (298)",
- "pogoda": 22,
- "dzien_tygodnia_nr": 3,
- "dzien_targowy": true,
+ "pogoda": 21,
+ "dzien_tygodnia_nr": 4,
+ "dzien_targowy": false,
  "nastroje_miasta": "Pelnia lata 298: port kipi zegluga (galary/kogi wchodza i wychodza codziennie), sezon budowlany zamku w szczycie, targ obfity - ryby, wczesne plony, len i sukno. Ceny letnie: opal i prowiant tanieja, sol/zboze znormalizowane po zimowym scisku. Portfel na lato: budowa/eksport/arteria rosna, zimowy underwriting/prowiant spi. Miasto syte i ruchliwe.",
  "ceny": {
   "chleb": {
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "BIALY PORT - dom, NOC 07-30 (spia). Nastepny RANEK=07-31. DZIEN BILANSU 08-01 za 1 dzien. Marro w drodze (~sierpien). Fenn u Halvarda. Komisja: analiza w toku.",
+ "lokacja_gracza": "BIALY PORT - dom, RANEK 07-31. DZIEN BILANSU JUTRO (08-01). Komisja: analiza w toku. Marro w drodze (~sierpien). Fenn u Halvarda.",
  "zaplanowane_zdarzenia": [
   "298-~polowa/koniec sierpnia: POWROT 2. ambasady Fenna od Halvarda (wiecej wolumenu + ku wylacznosci; odprawa rzut 74 sklonna ku dobremu).",
   "298-08-01: DZIEN BILANSU (miesiac 07 na pelna skale - pergamin/wor Tama/kredyt/premium/arteria).",

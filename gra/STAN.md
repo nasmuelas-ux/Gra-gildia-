@@ -10,7 +10,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 298-09-05 poludnie · lato (298)
+- **Data:** 298-09-06 poludnie · lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.23 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
@@ -151,6 +151,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Leda** (leda_wdowa) — mloda wdowa z dwojgiem dzieci (niemowle+male), uboga, niepis · nast 78
 - **Gerda** (gerda_akuszerka_zaulek) — wiekowa baba z Rybiego Zaulka - nieformalna akuszerka, 40 la · nast 70
 - **Roggon** (serzant_roggon) — serżant zbrojnych Manderlych (barwy syrenki) - dowodca detal · nast lojalny wobec zadania/Domu Manderly; profesjonalny, spokojny
+- **Artos Flint** (lord_artos_flint) — lord rodu Flintow znad Bialego Noza - najbogatsi w ziarno w  · nast handlowo szanujacy (przez reczenie Medgera + polnocna lojalnosc + wrazenie osobiste); twardy nie sentymentalny - 'kupuje CIEBIE nie zamek'
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

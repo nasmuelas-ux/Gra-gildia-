@@ -12,7 +12,7 @@
  "zmeczenie": 18,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 36,
+  "jelenie": 51,
   "smoki": 0
  },
  "dobytek": [
@@ -384,7 +384,8 @@
  },
  "log_kasy": [
   "298-07-14: wyprawa Cerwyn/Winterfell (07-01..14) uszczknela ~14 jel z sakiewki (267->253): prowiant 2 ludzi+konie ~2 tyg, gosciniec/karczmy, myto, hojna zaplata cottarowi Wendlowi za brod, drobne kurtuazje goscinne. Zold Hendry'ego = w placach (Warstwa A), nie ekstra.",
-  "298-09-01 Bilans: sweep miesiaca (partnerski+czynsze+mostek ~+22 realizowalne), dar reliefu -20 jawnie -> sakiewka 34->36; gros plonu faktorii reinwestowany (equity rosnie); windfall zbozowy spolki earmarked na wojne (papierowy, niezrealizowany)"
+  "298-09-01 Bilans: sweep miesiaca (partnerski+czynsze+mostek ~+22 realizowalne), dar reliefu -20 jawnie -> sakiewka 34->36; gros plonu faktorii reinwestowany (equity rosnie); windfall zbozowy spolki earmarked na wojne (papierowy, niezrealizowany)",
+  "298-09-01 KOREKTA Bilansu (konkrety): przyrost miesiaca brutto ~+70 jel [filar faktorii +48 (z tego ~33 reinwest, ~15 realiz), partnerski Nesta +10, czynsze +4, mostek-kredyt +6, pozyczka zabezp +2]. Realizowalne ~+37, dar reliefu -20 jawnie, netto do mieszka +17 -> sakiewka 34->51. Reinwestycja w rotacje faktorii ~+33 -> equity. Windfall zbozowy spolki NIEZREALIZOWANY (papierowy, earmarked na wojne) - NIE w przychodzie tego miesiaca."
  ],
  "_jezyki_nota": "Rozdzielone 298-07-19 na osobne (per jezyk: mowa/czytanie/pismo). umiejetnosci.jezyki=agregat ogolny; jezyki_znane=rozbicie szczegolowe.",
  "wizerunek": {

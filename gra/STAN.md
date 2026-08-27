@@ -150,6 +150,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Eddard Stark** (lord_eddard_stark) — Lord Winterfell, Warden of the North; wkrotce Reka Krola (je · nast 75
 - **Leda** (leda_wdowa) — mloda wdowa z dwojgiem dzieci (niemowle+male), uboga, niepis · nast 78
 - **Gerda** (gerda_akuszerka_zaulek) — wiekowa baba z Rybiego Zaulka - nieformalna akuszerka, 40 la · nast 70
+- **Roggon** (serzant_roggon) — serżant zbrojnych Manderlych (barwy syrenki) - dowodca detal · nast lojalny wobec zadania/Domu Manderly; profesjonalny, spokojny
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

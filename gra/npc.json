@@ -2213,7 +2213,10 @@
    "ostatni_kontakt": "297-07-22",
    "cechy_mowy": "powsciagliwy, mierzy dlugo, malo slow",
    "rok_urodzenia": 245,
-   "flaga": "ZMIERZONY (0829): urazony mozny bez amunicji (zero dowodu), grozny WAGA nie sprytem; czuly punkt=upokorzenie(paliwo)/face-saving(gasnica). Zarzadzac: defuel przez zachowanie twarzy LUB cierpliwy manewr; NIGDY cios wprost."
+   "flaga": "ZMIERZONY (0829): urazony mozny bez amunicji (zero dowodu), grozny WAGA nie sprytem; czuly punkt=upokorzenie(paliwo)/face-saving(gasnica). Zarzadzac: defuel przez zachowanie twarzy LUB cierpliwy manewr; NIGDY cios wprost.",
+   "historia": [
+    "298-09-01: RECON (rzut 95) ujawnil - klika (Osgar/Rollam) robi za LOKALNEGO FAKTORA poludniowo-essoskiego SYNDYKATU wykupujacego zboze Zatoki na wojenna spekulacje. Wsiadla na grube poludniowe srebro, skaluje sie. To wyjasnia jej ostatnie ruchy. DZWIGNIA dla Symona: klika karmi obce srebro zbozem potrzebnym Polnocy na wojne = 'obce srebro/wroga lojalnosc' - w wojnie zdrada; Symon (prowiantmistrz, warrant Wymana) moze obrocic firewall na nich."
+   ]
   },
   {
    "id": "uzdrowicielka_wiedzaca",
@@ -3087,7 +3090,10 @@
    "imie": "Osgar i klika zbożowa",
    "rola": "wielcy kupcy zbozowi (hoarderzy) — przyszli wrogowie",
    "nast": -4,
-   "nota": "m9d8 rozpoznani na wylot (rzut 99): klika ~3-4 wielkich kupcow zbozowych pod Osgarem; POSTAWILI WSZYSTKO na to, ze niedobor potrwa — skupili/trzymaja ogromne zapasy, CZESC NA POZYCZONYM srebrze, licząc na glodowe ceny. SLABOSC: sa PRZEEKSPONOWANI — duza swieza dostawa zboza CRASHNIE cene i ich ZRUJNUJE (siedza na drogim/pozyczonym ziarnie). Zboze Symona = BRON, ktora moze ich zlamac (finansowo). REPUTACYJNIE: pala goodwill glodzac biedote — gdy przyjdzie relief pod egida Wiary, sa czarnymi charakterami. PEKNIECIE: jeden z kliki (mniejszy, nerwowy) mocno przeexponowany — mozliwy do odlamania. RYZYKO: potezni/ustawieni; JAK odkryja przychodzace zboze Nesty (ich zgube), beda probowac je SABOTOWAC / uderzyc w Neste/Symona -> TRZYMAC ZAMOWIENIE W SEKRECIE."
+   "nota": "m9d8 rozpoznani na wylot (rzut 99): klika ~3-4 wielkich kupcow zbozowych pod Osgarem; POSTAWILI WSZYSTKO na to, ze niedobor potrwa — skupili/trzymaja ogromne zapasy, CZESC NA POZYCZONYM srebrze, licząc na glodowe ceny. SLABOSC: sa PRZEEKSPONOWANI — duza swieza dostawa zboza CRASHNIE cene i ich ZRUJNUJE (siedza na drogim/pozyczonym ziarnie). Zboze Symona = BRON, ktora moze ich zlamac (finansowo). REPUTACYJNIE: pala goodwill glodzac biedote — gdy przyjdzie relief pod egida Wiary, sa czarnymi charakterami. PEKNIECIE: jeden z kliki (mniejszy, nerwowy) mocno przeexponowany — mozliwy do odlamania. RYZYKO: potezni/ustawieni; JAK odkryja przychodzace zboze Nesty (ich zgube), beda probowac je SABOTOWAC / uderzyc w Neste/Symona -> TRZYMAC ZAMOWIENIE W SEKRECIE.",
+   "historia": [
+    "298-09-01: RECON (rzut 95) ujawnil - klika (Osgar/Rollam) robi za LOKALNEGO FAKTORA poludniowo-essoskiego SYNDYKATU wykupujacego zboze Zatoki na wojenna spekulacje. Wsiadla na grube poludniowe srebro, skaluje sie. To wyjasnia jej ostatnie ruchy. DZWIGNIA dla Symona: klika karmi obce srebro zbozem potrzebnym Polnocy na wojne = 'obce srebro/wroga lojalnosc' - w wojnie zdrada; Symon (prowiantmistrz, warrant Wymana) moze obrocic firewall na nich."
+   ]
   },
   {
    "id": "ulric_szafarz",

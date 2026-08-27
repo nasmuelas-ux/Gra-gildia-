@@ -2948,7 +2948,8 @@
    "imie": "Medger Cerwyn",
    "zawod": "lord rodu Cerwyn (zamek na goscincu ~pol dnia pod Winterfell)",
    "nastawienie_do_gracza": "cieply -> PRZYJACIEL (07-10): uklad przybity + Symon spytal 'jak mu sie zyje', Medger sie otworzyl",
-   "ostatni_kontakt": "298-07-10 UKLAD PRZYBITY (nod Winterfell zdjal obie rafy): przejscie+depot+wozy(Harwin), zaplata jako sluzba Winterfell (myto panskie+zold woznicom+dobra w naturze). Potem Symon spytal go po ludzku 'jak mu sie zyje' - Medger otworzyl sie: maly rod ziemia-bez-grosza, honor/wiernosc Starkom=jedyne bogactwo, syn CLEY 8l (chce mu zostawic rod ktory 'znaczy'/potrzebny Winterfell), strach o niepewne czasy. 'Masz w Cerwynie PRZYJACIELA nie tylko woz i przystan.' Wiez ludzka > kontrakt. || 298-08-09 (rzut 86): Symon nocuje u Cerwyna w drodze na Winterfell. Medger otworzyl sie szeroko - dal KLUCZOWE intel: Winterfell pod podwojna chmura (mlody Brandon ocknal sie KALEKA + SKRYTOBOJCA byl w komnacie dziecka -> lady Catelyn dlatego ruszyla na poludnie; straz jak natarty nerw, wroga obcym z poludnia). Rada: relacje+listy zagraj U BRAMY od razu = dowod zes NIE zagrozenie. Banery nie zwolane ale 'kazdy czuje ze beda'. Medger jako PRZYJACIEL gotow stanac za Symonem SLOWEM u Starkow; przystan=jego marzenie (dom co 'znaczy' dla syna Cleya 8l). Wiez przyjacielska poglebiona. || 298-08-15 (rzut 89): Symon w drodze powrotnej z Winterfell. Przekazal wiesci (rezerwa poblogoslawiona przez Robba - Medger pokrzepiony, 'chlopak daje rade, balem sie o niego'). PRZYSTAN: Robb otwarty (wezel Starkow), chce dowiedzionej linii + ZGODY CERWYNA. Medger: 'zgody nie daje - blagam; maly rod potrzebny Winterfell, wezel na mojej ziemi dla Cleya = wiecej niz smialem prosic bogow; masz ziemie, reke, slowo; pojade do Winterfell i powiem Robbowi TAK w twarz'. Z 3. interesu -> NAJGORETSZY sojusznik. 1 z 3 warunkow Robba spelniony (zgoda chorazego czyjej ziemi dotyczy). Dorzucil intel: poslancy miedzy siedzibami, lordowie licza wlocznie po cichu, rog jeszcze nie zabrzmial."
+   "ostatni_kontakt": "298-09-05: audiencja - skromny forward + rekomendacje do bogatszych holdow; prosil o rade nad wlasna zima",
+   "nota": " | 298-09-05: przyjazn pelna, da skromny forward (maly dom), RECZY za Tallego u bogatszych holdow; prosil Symona o rade nad wlasna zima."
   },
   {
    "id": "robb_stark",
@@ -2969,7 +2970,8 @@
    "imie": "Harwin",
    "zawod": "woznica rodu Cerwyn - zna gosciniec do bram Winterfell na pamiec (bloto/brody)",
    "nastawienie_do_gracza": "sluzbowo-zyczliwy; prowadzi wozy ostatniej nogi arterii (delikatny towar okryty)",
-   "ostatni_kontakt": "298-07-10 - przypisany do wozow arterii Cerwyn->Winterfell (uklad przybity)"
+   "ostatni_kontakt": "298-09-05: audiencja - skromny forward + rekomendacje do bogatszych holdow; prosil o rade nad wlasna zima",
+   "nota": " | 298-09-05: przyjazn pelna, da skromny forward (maly dom), RECZY za Tallego u bogatszych holdow; prosil Symona o rade nad wlasna zima."
   },
   {
    "id": "halvard_faktor",

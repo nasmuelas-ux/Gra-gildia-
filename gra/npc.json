@@ -1256,6 +1256,21 @@
    "nastawienie_do_gracza": 70,
    "zaufanie": 40,
    "nota": "298-06-19 noc: przyszla z Wenda do porodu Miry, gdy dyplomowanej Marny brak (zajeta innym porodem). Doswiadczone rece, nie dyplom. Sieć Wendy oddala co rynek nie sprzedal. | 298-06-20: Symon hojnie obdarowal+uhonorowal (trzymala linie 40 latami rak nim Marna dobiegla). Miejsce w jego wdziecznosci na zawsze."
+  },
+  {
+   "id": "serzant_roggon",
+   "imie": "Roggon",
+   "przydomek": "serżant",
+   "stan": "zdrowy, wysłużony",
+   "zawod": "serżant zbrojnych Manderlych (barwy syrenki) - dowodca detalu ochrony przydzielonego Symonowi-prowiantmistrzowi",
+   "nastawienie_do_gracza": "lojalny wobec zadania/Domu Manderly; profesjonalny, spokojny",
+   "zaufanie": "sluzbowe (przez Wymana)",
+   "wie_o_graczu": "prowiantmistrz Manderlych z warrantem lorda; pilnuje jego glowy i zboza. NIE zna ciemnej rezerwy/4 ksiag",
+   "ostatni_kontakt": "298-09-01: przydzielony przez Wymana jako ochrona (serzant + 2 ludzi), luka zamknieta",
+   "nota": "Ludzie Manderlych = tez OCZY Wymana blizej Symona; jawny prowiant kryje, ciemna rezerwa trzymana ciemna nawet przed nimi. Barczysty, siwiejacy, spokojny - zolnierz nie awanturnik. Dwoch ludzi pod nim.",
+   "historia": [
+    "298-09-01: Wyman przydzielil go+2 ludzi na ochrone prowiantmistrza Symona (rzut 71). Wysluzeni zbrojni Manderlych, lepsi niz najemne dregi Garricka. Umozliwiaja Symonowi jazde do Cerwyna z eskorta."
+   ]
   }
  ],
  "w_orbicie": [

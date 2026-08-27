@@ -3126,6 +3126,14 @@
    "nastawienie_do_gracza": "niejasne/podejrzane",
    "ostatni_kontakt": "298-09-01: wprowadzony przez Garricka jako jedyny chetny w suchym wojennym rynku; pytal za duzo o kantor/wozy/nieobecnosc Dagona = mierzyl dom nie szukal roboty; odrzucony (czytanie ludzi 9 + Garrick)",
    "nota": "PODEJRZANY - mozliwy zlodziej wietrzacy bogaty prog ALBO naslany zeby dostac sie bliżej domu Tally. Brak dowodu, samo przeczucie. Sam fakt szukania strazy + jego pytania = ktos mogl zwietrzyc ze dom Tally bogaty i slabiej pilnowany (Dagon ranny)."
+  },
+  {
+   "id": "gladki_kandydat_agent",
+   "imie": "(nieznany, gladki kandydat)",
+   "zawod": "rzekomy agent-sprzedawca (ODRZUCONY - prawdopodobny plant kliki)",
+   "nastawienie_do_gracza": "podejrzany/wrogi (maskowany)",
+   "ostatni_kontakt": "298-09-12: zglosil sie na 2. agenta akurat gdy szept kliki wisi; pytal o wewnetrzne sprawy kantoru/Neste/'z kim trzymacie' = szukal WEJSCIA do firmy nie roboty; odrzucony (czytanie ludzi 9)",
+   "nota": "Prawdopodobny PLANT KLIKI - proba infiltracji domu kupieckiego pod plaszczykiem najmu (agent w srodku=ksiegi/klienci/sekrety). Brak dowodu, przeczucie. Powiazac z kampania szeptu 'obce srebro'."
   }
  ],
  "orbita": [

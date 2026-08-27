@@ -1282,12 +1282,14 @@
    "nastawienie_do_gracza": "handlowo szanujacy (przez reczenie Medgera + polnocna lojalnosc + wrazenie osobiste); twardy nie sentymentalny - 'kupuje CIEBIE nie zamek'",
    "zaufanie": "warunkowe, oparte na OSOBISTYM slowie Symona (nie na warrancie Wymana) - ceni imie Tallego bardziej niz cudza pieczec",
    "wie_o_graczu": "prowiantmistrz Manderlych, czlowiek liczb, za ktorym Cerwyn reczy 'jak za bratem'; slowo warte wiecej niz pieczec",
-   "ostatni_kontakt": "298-09-06: targ - cena stoi (gorna polka), polubil Symona, deal czeka na decyzje",
+   "ostatni_kontakt": "298-09-06: umowa forward PRZYBITA na slowo Tallego; Flint za nim na cala wojne",
    "nota": "Poludniowy syndykat JUZ go kurtyzowal grubszym srebrem - odrzucil na rzecz Polnocy/Symona. Twardy handlarz. Zwiazanie na imie Symona = honor+ekspozycja. Klucz: jego zaufanie to zaufanie do CZLOWIEKA nie instytucji.",
    "historia": [
     "298-09-06: Symon (prowiantmistrz, list Cerwyna, eskorta syrenki) przybyl po forward. Flint - twardy, siedzi na zbozu, kurtyzowany przez poludniowe srebro - zgodzil sie sprzedac POLNOCY, ale na 2 warunki: cena gorna uczciwej + czesc srebrem z gory + na OSOBISTE slowo Tallego (nie papier lorda). 'Kupuje ciebie skrybo nie zamek; Medger mowil ze twoje slowo warte wiecej niz pieczec - sprawdzmy.'",
-    "298-09-06: Symon targowal (slowo-jako-kolateral) - Flint SZANUJE gre, POLUBIL go ('targowales lepiej niz polowa lordow'), ale nie ustapil ceny (gorna polka stoi; twardziel trzyma karte bo trzyma ziarno). Utnie odrobine srebra z gory z sympatii. Nauka dla Symona: elokwencja nie bije dzwigni w glod. Nie ostygl ku syndykatowi - 'zostan przy cenie, masz Flinta na cala wojne'."
-   ]
+    "298-09-06: Symon targowal (slowo-jako-kolateral) - Flint SZANUJE gre, POLUBIL go ('targowales lepiej niz polowa lordow'), ale nie ustapil ceny (gorna polka stoi; twardziel trzyma karte bo trzyma ziarno). Utnie odrobine srebra z gory z sympatii. Nauka dla Symona: elokwencja nie bije dzwigni w glod. Nie ostygl ku syndykatowi - 'zostan przy cenie, masz Flinta na cala wojne'.",
+    "298-09-06: UMOWA PRZYBITA na uscisk. Symon przyjal warunki (cena gorna, srebro z gory, na jego slowo). Flint: 'zawiedziesz-nie zapomne ja ani synowie; dotrzymasz-masz Flintow na cala wojne i po niej. Medger mial racje o tobie.' Sojusznik/dostawca zwiazany na imieniu Symona."
+   ],
+   "dlugi": "wielka transza forward do dostarczenia/zaplaty (czesc srebrem z gory dana, reszta na slowo Symona)"
   }
  ],
  "w_orbicie": [

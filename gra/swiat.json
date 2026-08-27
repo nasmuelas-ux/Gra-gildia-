@@ -2,14 +2,14 @@
  "data": {
   "rok": 298,
   "miesiac": 9,
-  "dzien": 14,
+  "dzien": 15,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "lato (298)",
- "pogoda": 11,
- "dzien_tygodnia_nr": 7,
- "dzien_targowy": false,
+ "pogoda": 10,
+ "dzien_tygodnia_nr": 1,
+ "dzien_targowy": true,
  "nastroje_miasta": "298-09-10: ROG - ROBB STARK WEZWAL CHORAGWIE. Polnoc staje do wojny. Bialy Port huczy: kruk z Winterfell (2 dni temu), Wyman ma wystawic+wykarmic kontyngent Manderlych, wojsko sie zbiera i ruszy na poludnie. Miasto na nogach - pobor, strach, gorączka. Musztera sie otwiera (rynek prowiantu wojennego). To juz wojna na serio dla Polnocy.",
  "ceny": {
   "chleb": {
@@ -53,7 +53,7 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Dzien Matki (tygodniowy)",
+ "swieto": null,
  "dzien": 2,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",

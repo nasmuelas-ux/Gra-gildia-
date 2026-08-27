@@ -12,7 +12,7 @@
  "zmeczenie": 35,
  "sakiewka": {
   "miedziaki": 1,
-  "jelenie": 95,
+  "jelenie": 51,
   "smoki": 0
  },
  "dobytek": [
@@ -389,7 +389,8 @@
   "298-09-01 KOREKTA Bilansu (konkrety): przyrost miesiaca brutto ~+70 jel [filar faktorii +48 (z tego ~33 reinwest, ~15 realiz), partnerski Nesta +10, czynsze +4, mostek-kredyt +6, pozyczka zabezp +2]. Realizowalne ~+37, dar reliefu -20 jawnie, netto do mieszka +17 -> sakiewka 34->51. Reinwestycja w rotacje faktorii ~+33 -> equity. Windfall zbozowy spolki NIEZREALIZOWANY (papierowy, earmarked na wojne) - NIE w przychodzie tego miesiaca.",
   "298-09-01 BILANS v2 (korekta - poprzedni RAZACO zanizony, pominal ramiona Wicka/Tama, sklad Ondrew, pomylil weksle). Model wlasciwy = DOM KUPIECKI. GROSS ~+290/mies, KOSZTY ~-180, NETTO PASYWNE ~+110/mies (zgodne z rekoncyliacja 07-xx ~+105). Ramiona: rotacja faktorii (obrót ~685) +65; marza zamkowa (drewno+prowiant+zelazo) +45; RAMIE KREDYTOWE WICKA (kapital ~350 na ryzyku) +35; WOR OBROTOWY TAMA (float ~218) +36; underwriting pool (~185) +12; 1/3 transakcji +22; draw Nesta +6; czynsz kamieniczki +9; retainery udzial +7; pergamin (rozruch) +20. Z netto ~110: ~73 compound/reinwest w ramionach+arteria, ~37 realizowalne, -20 dar reliefu jawnie, +17 do mieszka -> sakiewka 51. AKTYWA pominiete wczesniej: SKLAD ONDREW (siedziba, kamien, ~665 all-in, nazwisko Symona), ramie Wicka kapital ~350, wor Tama ~218, underwriting ~185. Stare weksle 200 = przekute w Sklad Ondrew (04-05), NIE plynny mostek.",
   "298-09-01 BILANS v3 (wg ksiegi glownej dom_handlowy.md sek.7 - poprzednie zanizone): GROSS ~+449, KOSZTY ~-236, NETTO ~+213/mies (pasmo +180-320). Dodane pominiete: PERGAMIN netto ~+15 (sufit +39-90 jesien), WARSTWA USLUG/pasywne obroty (audyty +25, brokering +30, dostepnosc +18, kancelaria +12, doradztwo +12 - Fenn wrocil pipeline zywy), faktoring +12, skladowanie +10. Podzial: ~+176 compound/arteria, ~+37 realizowalne, -20 dar relief, +17 do mieszka -> sakiewka 51. Reszta plynnosci u Nesty. Arteria wciaz ssie -33.",
-  "298-09-10: SPRZEDAZ ZBOZA SPOLKI muszterze Wymana (rzut 52) - petla zakrecona. Srebro splaca srebro-z-gory u Flinta (kredyt Wymana czyszczony), przywraca plynnosc, karmi dalszy skup. Spolka (Symon+Nesta) zysk solidny (tanie pred-wojenne -> wojenna cena). ALE cena UCZCIWA=ponizej szczytu (honor: jawny dual-interest, nie zlupil wlasnego lorda) - zostawil srebro na stole, Nesta zauwazy. Sakiewka 51->95 (odetchnela, gros wciaz pracuje/w petli). Zboze poszlo na strone ARMII (kontyngent) - rachunek armia-vs-port ciasniejszy."
+  "298-09-10: SPRZEDAZ ZBOZA SPOLKI muszterze Wymana (rzut 52) - petla zakrecona. Srebro splaca srebro-z-gory u Flinta (kredyt Wymana czyszczony), przywraca plynnosc, karmi dalszy skup. Spolka (Symon+Nesta) zysk solidny (tanie pred-wojenne -> wojenna cena). ALE cena UCZCIWA=ponizej szczytu (honor: jawny dual-interest, nie zlupil wlasnego lorda) - zostawil srebro na stole, Nesta zauwazy. Sakiewka 51->95 (odetchnela, gros wciaz pracuje/w petli). Zboze poszlo na strone ARMII (kontyngent) - rachunek armia-vs-port ciasniejszy.",
+  "298-09-10 VOID/KOREKTA: sprzedaz zboza spolki (rzut 52) COFNIETA przez gracza PRZED przybiciem - Symon lapie sie ze to zboze SPOLKI (Nesty tez), nie wolno sprzedac cudzej polowy po samodzielnie obcietej cenie bez jej slowa (dokladnie blad przed ktorym Nesta ostrzegala rano). Sakiewka wraca 95->51, petla NIE zakrecona. Symon wstrzymal sprzedaz u Wymana, idzie konsultowac z Nesta."
  ],
  "_jezyki_nota": "Rozdzielone 298-07-19 na osobne (per jezyk: mowa/czytanie/pismo). umiejetnosci.jezyki=agregat ogolny; jezyki_znane=rozbicie szczegolowe.",
  "wizerunek": {

@@ -402,5 +402,8 @@
   "saldo": 52,
   "dar_zalozycielski_tally_0901": "298-09-01: dar zalozycielski Tally 20 jel wpisany jawnie do ksiegi jalmuzny (Bilans)",
   "dziesiecina_miesieczna": "~1/10 miesiecznego czystego firmy, co miesiac dopoki trwa ciezki rok; funded z firm net (bookkept), nie z sakiewki; pierwsza dziesiecina nalicza sie od 09-01"
+ },
+ "role_urzedy": {
+  "prowiantmistrz_manderlych": "298-09-01 (nat-100): PROWIANTMISTRZ ZAOPATRZENIA MANDERLYCH NA CZAS WOJNY - warrant lorda Wymana, jego glos/kredyt/pieczec. Karmi wojsko+port, buduje zapas; rozlicza sie tylko przed Wymanem. Jawny urzad = pelna oslona ruchu zboza (firewall: ciemna rezerwa znika pod jawnym). Strategia: buy-ahead w oknie przedrogowym kanalami cichymi; petla samofinansujaca (zboze spolki->musztera->kredyt->buy-ahead->kontrakty wojny)."
  }
 }

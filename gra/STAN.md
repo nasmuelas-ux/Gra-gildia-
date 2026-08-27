@@ -17,7 +17,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - **Nastroje:** 298-08-01: WIESC Z POLUDNIA wstrzasnela portem - statek z Gulltown przywiozl (sprzed tygodni): w Krolewskiej Przystani KROLOBOJCA napadl Namiestnika lorda EDDARDA STARKA na ulicy, straz pobito, Namies
 
 ## KASA (kurs: 1 jelen=100 mied; 1 smok=200 jel)
-- **Wolne:** 34 jeleni + 1 mied + 0 smokow
+- **Wolne:** 51 jeleni + 1 mied + 0 smokow
 - depozyt u Nesty: 0 jel (wyzerowany 06-14, 200 jel poszlo w rotacje); poprzedni kwit rozdysponowany
 
 ## POZYCJE (nie-gotowka: naleznosci, inwestycje, udzialy)
@@ -96,7 +96,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 - 298-08-04: WSZYSTKO DOMKNIETE do drogi. Straz: Dagon+Sten najeci na stale (sprawdzeni), detal 4-osobowy - Hendry+Dagon eskorta, Garrick+Sten dom/sklad. Prowiant na droge kupiony (-9 jel). DWA KLUCZE w rece: pergamin kasztelana Wylisa (polityczny, imie Wymana) + list Theomore'a do Luwina (braterski, Cytadela). Bran=dom, Hal=firma (rezerwa staple NIE na sprzedaz). Symon GOTOW do wyjazdu.
 
 ## KSIEGA PRZYCHODOW (gdzie/kiedy laduje wplyw)
-- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-08-01 (ostatni: 298-08-01)
+- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 298-10-01 (ostatni: 298-09-01)
 - _Cykliczne (zmiatane w Dniu Bilansu):_
     - draw_wspolnika_nesta: Spolka Nesty NIE-STALE: (1) baza+draw 6 jel/mies [staly]; (2) 1/3 netto z transakcji Symona [skaluje sie, czesc juz per-transakcja w kasie]; (3) ROSNACY UDZIAL W CORE-FAKTORII = realna wlasnosc (wspolwlasciciel kantoru) -> udzial w plonie rotacji. Rozpoznawac udzial partnerski (equity+1/3) na Bilansie, NIE tylko flat draw. SKALUJE sie z faktoria.
     - czynsz_kamieniczki: 9 jel/mies BRUTTO; utrzymanie/Bran-majordom podniesione (Bran ~5 jel/mies realnie, nie 2) -> netto NIZSZE niz dawne 7; po wykupie dlugu (06-17) brak raty=reszta w equity. Koszt Brana urealniony 0622.

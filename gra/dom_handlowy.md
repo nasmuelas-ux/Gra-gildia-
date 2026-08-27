@@ -162,3 +162,56 @@ _Zasada: SUFIT != realizacja; wzrost dojrzewa tygodniami-jesienia._
 WYPLYW ~294 (pergamin 20 + Tam 100 + weksle 150 + Nella 5 + septa 5 + droga 14) | WPLYW ~38 (Mertyn 20 + sukiennik 12 + drobny 6) | STAN: sakiewka 267->~111, konta 185->85, reszta pracuje. Odbudowa: 1. oplacony kurs arterii (~pocz. sierpnia) + Bilans 08-01.
 
 **Puenta: zasiane grubo, zbierasz narastajaco.**
+
+---
+
+## 7. DZIEŃ BILANSU — 298-09-01 (wytrowane, pełna skala wg księgi)
+
+_Poprzednie próby zaniżone (kramarskie). To jest wg pełnego rejestru sekcji 2. Fenn WRÓCIŁ z ambasady Halvard → warstwa usług znów doglądana._
+
+### PRZYCHODY GROSS (do Symona, wytrowane pkt w pasmach księgi)
+**Filary:**
+- Rotacja faktorii (obrót ~685): **+105**
+- Marża zamkowa (drewno+prowiant+żelazo, sezon budowlany): **+60**
+
+**Ramiona finansowe:**
+- Ramię kredytu WICKA (~385 na ryzyku): **+40**
+- Underwriting/ubezpieczenie tranzytu (~185 pool): **+20**
+- Faktoring: **+12**
+
+**Usługi (PASYWNE OBROTY — Fenn wrócił, pipeline żywy):**
+- Audyty ad-hoc na sprzedaż: **+25**
+- Brokering/pośrednictwo: **+30**
+- Sprzedaż dostępności / monetyzacja sieci: **+18**
+- Kancelaria/skryba: **+12**
+- Doradztwo/structuring: **+12**
+
+**Wytwórczość / majątkowe:**
+- PERGAMIN (Wat) — welin gross +22, netto ramienia po kosztach ~**+15** (sufit +39–90 jesienią)
+- Składowanie zimowe (ramping ku zimie): **+10**
+- Kamieniczka (czynsz netto): **+9**
+- Draw wspólnika (Nesta): **+6**
+- Udział retainerów: **+8**
+- 1/3 netto z transakcji Symona: **+35**
+- Wór obrotowy TAMA (~218 float): **+25**
+
+**GROSS RAZEM: ~+449 jel/mies** (pasmo księgi +355–580 → górny-środek, bo usługi wróciły z Fennem, filary w sezonie)
+
+### KOSZTY
+Płace/udziały zespołu ~−78 · rezerwa złe długi ~−14 · barka ~−6 · magazyny/raty Ondrew ~−16 · wytwórnia pergaminu ~−9 · materiały kancelaryjne ~−4 · posłańcy/kruki ~−5 · cło/cechowe/urzędowe ~−11 · reprezentacja/dary ~−8 · podatek ~−17 · odpis reliefu ~−11 · utrzymanie domu (Symon+Mira+Lyra) ~−24 · **arteria wypływ ~−33**
+**KOSZTY RAZEM: ~−236 jel/mies**
+
+### WYNIK
+**NETTO ~+213 jel/mies** (w paśmie księgi +180–320)
+
+### Podział netto +213
+- **Compound/reinwestycja w ramiona + arteria (kapitał pracuje):** ~+176
+- **Realizowalne do sakiewki:** ~+37
+- **− dar reliefu założycielski (jawnie, ekstra):** −20
+- **= do mieszka: +17** → sakiewka 34→**51**
+- Reszta płynności odbudowuje się u Nesty / w obrocie (bogaty w obrocie, płynny cienko — świadomie)
+
+### Uwagi
+- **Pergamin** dopiero się rozkręca (~+15 netto); sufit 2–3× jesienią gdy 2. czeladnik + hurt/warsztat dojrzeją.
+- **Usługi (pasywne)** wróciły do pełni po powrocie Fenna — brokering+audyty niosą najwięcej z tej warstwy.
+- **Arteria** wciąż SSIE (−33) — inwestycja w linię Wymana przed zwrotem; gdy dolna noga dojrzeje, przełączy się z wypływu na filar.

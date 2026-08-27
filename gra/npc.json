@@ -1272,6 +1272,21 @@
    "historia": [
     "298-09-01: Wyman przydzielil go+2 ludzi na ochrone prowiantmistrza Symona (rzut 71). Wysluzeni zbrojni Manderlych, lepsi niz najemne dregi Garricka. Umozliwiaja Symonowi jazde do Cerwyna z eskorta."
    ]
+  },
+  {
+   "id": "lord_artos_flint",
+   "imie": "Artos Flint",
+   "przydomek": "stary lord Flint znad Bialego Noza",
+   "stan": "starszy, twardy, przy zdrowiu",
+   "zawod": "lord rodu Flintow znad Bialego Noza - najbogatsi w ziarno w tych stronach (ziemia rodzi grubiej)",
+   "nastawienie_do_gracza": "handlowo szanujacy (przez reczenie Medgera + polnocna lojalnosc + wrazenie osobiste); twardy nie sentymentalny - 'kupuje CIEBIE nie zamek'",
+   "zaufanie": "warunkowe, oparte na OSOBISTYM slowie Symona (nie na warrancie Wymana) - ceni imie Tallego bardziej niz cudza pieczec",
+   "wie_o_graczu": "prowiantmistrz Manderlych, czlowiek liczb, za ktorym Cerwyn reczy 'jak za bratem'; slowo warte wiecej niz pieczec",
+   "ostatni_kontakt": "298-09-06: forward zboza - sprzeda Polnocy nie syndykatowi, ale cena gorna + srebro z gory + na osobiste slowo Tallego",
+   "nota": "Poludniowy syndykat JUZ go kurtyzowal grubszym srebrem - odrzucil na rzecz Polnocy/Symona. Twardy handlarz. Zwiazanie na imie Symona = honor+ekspozycja. Klucz: jego zaufanie to zaufanie do CZLOWIEKA nie instytucji.",
+   "historia": [
+    "298-09-06: Symon (prowiantmistrz, list Cerwyna, eskorta syrenki) przybyl po forward. Flint - twardy, siedzi na zbozu, kurtyzowany przez poludniowe srebro - zgodzil sie sprzedac POLNOCY, ale na 2 warunki: cena gorna uczciwej + czesc srebrem z gory + na OSOBISTE slowo Tallego (nie papier lorda). 'Kupuje ciebie skrybo nie zamek; Medger mowil ze twoje slowo warte wiecej niz pieczec - sprawdzmy.'"
+   ]
   }
  ],
  "w_orbicie": [

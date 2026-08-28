@@ -2883,7 +2883,7 @@
    "zawod": "ręka wykonawcza firmy (skryba-rachmistrz) — od 298-02-16, z polecenia; solidny, spokojny, dość dyskretny; kosztował zimowy narzut powyżej stawki",
    "mieszka": "Bialy Port",
    "nastawienie_do_gracza": 70,
-   "zaufanie": 45,
+   "zaufanie": 52,
    "wie_o_graczu": [
     "298-02-16: zatrudniony jako gotowa ręka wykonawcza pod Tamem/Halem",
     "298-04-23: dostał szansę — z Tamem prowadzi bieżącą robotę firmy na wyższych obrotach podczas nieobecności Symona+Hala (backstop Corliss/Deman, nadzór Nesta).",
@@ -2893,7 +2893,8 @@
    ],
    "misja": "298-06-06 WYRUSZA: AMBASADA do Halvarda nad Bialy Noz (rzut 97 odprawy). Glowa handlowa z mandatem PISEMNYM (mowi w imieniu Symona-czlowieka rady Wymana), granice targu, srebro na bursztyn frontuje Symon przez Torsena. Niesie ZADATEK ~50 jel (skup bursztynu + arrha). Rozkaz: najpierw sluchac, potem oferowac ELASTYCZNIE 'biore ile zbierzesz kiedy zbierzesz' (nie staly kurs). Z Ulfem (most/poreka) i Garrickiem (straz). Powrot/wynik ~3-4 tyg.",
    "rola_dom": "298-06-22: rola w domu = AGENT-SPRZEDAWCA / glowa handlowa (pozyskuje zlecenia, negocjuje, brokering, dosprzedaje uslugi audyty/kancelaria/doradztwo). OBECNIE oddelegowany na ambasade Halvard (akwizycja zrodla). NIE wakat - agent w terenie; lokalny pipeline uslug wznowi po powrocie (~lipiec). Rozwazyc 2. agenta by akwizycja nie gasla gdy jeden jedzie.",
-   "ostatni_kontakt": "298-09-01: wyslany w glebie Bialego Noza po zboze forward (mission prowiantmistrza, pending)"
+   "ostatni_kontakt": "298-09-19: raport z glebi - zboze forward czesciowo + trop obcego srebra (cornering forward zboza inland przez faktora, mocodawca w cieniu).",
+   "nota": " || 298-09-19: wrocil z glebi calo/dyskretnie z RAPORTEM. Zboze forward czesciowo zakontraktowane inland (jego sposobem) + potknal sie o 'obce srebro': braavijska moneta skupuje forward zboze inland cierpliwie/przeplacajac = cornering. Twarz=inland faktor (trop, mocodawca zawoalowany). Ocenil: konkurent nie napastnik. Solidna robota, wart zimowego narzutu. zauf 45->52."
   },
   {
    "id": "jory_sierota",

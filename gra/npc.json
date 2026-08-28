@@ -1203,7 +1203,8 @@
    "wie_o_graczu": [
     "pracuje dla Symona, ufa mu (uczciwa dniówka, pan stoi z ekipą); dostał odpowiedzialny posterunek na widłach.",
     "298-05-04: przywitał Symona na widłach — 'przetrzymaliśmy, ładunek cały, wozy gotowe'. Solidny, dowiózł posterunek."
-   ]
+   ],
+   "ostatni_kontakt": "298-09-18: poreczyl Harla na awans do straży domu (stracil dobra reke z ekipy, ale awans swojego czlowieka = presti/lojalnosc ekipy)."
   },
   {
    "id": "ulf_interior",
@@ -3182,6 +3183,16 @@
    "zaufanie": 40,
    "ostatni_kontakt": "298-09-18: Symon wykupil jego mlyn uczciwie (nie glodowo) i zostawil go przy kole jako swojego czlowieka - uratowany fach/dach; patrzy na Symona jak na zeslanego przez Matke.",
    "nota": "Mlynarz nie stary ale byl przyduszony (dlug, chudy wojenny rynek, syn poszedl z kontyngentem na poludnie - nie utrzymalby mlyna, grozil mu lichwiarz). 298-09-18: Symon nabyl mlyn - PIERWSZY trwaly kamien rodu Tally - placac uczciwa cene I zostawiajac Osgara przy kole jako swojego mlynarza (tarcza slabych, slabszy rosnie z nim). Nowy lojalny czlowiek w orbicie. Wdziecznosc glęboka/swieza."
+  },
+  {
+   "id": "harl_zbrojny",
+   "imie": "Harl",
+   "przydomek": "zbrojny domu Tally (b. tragarz)",
+   "zawod": "zbrojny domu Symona (od 298-09-18, awans z ekipy portowej Rennicka) - posty statyczne (sklad/kantor/mlyn), w szkoleniu na pelnego straznika",
+   "nastawienie_do_gracza": 80,
+   "zaufanie": 50,
+   "ostatni_kontakt": "298-09-18: awansowany z tragarza na zbrojnego domu (podwojne poreczenie Bran+Rennick). Wdziecznosc glęboka - szansa awansu (labor->zold/status/przyszlosc).",
+   "nota": "Barczysty, spokojny, malomowny, rece jak bosaki. Rennick reczy: nie kradnie/nie pije na robocie/stawal w drace gdzie trzeba. Bran zna rodzine (czlowiek z korzeniem). Bronia byl hak i skrzynia nie wlocznia - WIERNY ale ZIELONY na broni (rzut 32). Bierze posty statyczne (obecnosc+uczciwe oko), uwalnia ostrza (Garrick/Sten/Hendry). Garrick+Hendry szkola go tygodnie -> pelny zbrojny. Wzor Symona: podniosl slabszego, slabszy podniosl tarcze. Wiernosc kupiona szansa nie moneta."
   }
  ],
  "orbita": [

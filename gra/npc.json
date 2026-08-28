@@ -3195,6 +3195,16 @@
    "zaufanie": 50,
    "ostatni_kontakt": "298-09-18: awansowany z tragarza na zbrojnego domu (podwojne poreczenie Bran+Rennick). Wdziecznosc glęboka - szansa awansu (labor->zold/status/przyszlosc).",
    "nota": "Barczysty, spokojny, malomowny, rece jak bosaki. Rennick reczy: nie kradnie/nie pije na robocie/stawal w drace gdzie trzeba. Bran zna rodzine (czlowiek z korzeniem). Bronia byl hak i skrzynia nie wlocznia - WIERNY ale ZIELONY na broni (rzut 32). Bierze posty statyczne (obecnosc+uczciwe oko), uwalnia ostrza (Garrick/Sten/Hendry). Garrick+Hendry szkola go tygodnie -> pelny zbrojny. Wzor Symona: podniosl slabszego, slabszy podniosl tarcze. Wiernosc kupiona szansa nie moneta."
+  },
+  {
+   "id": "godwyn_gospodarz",
+   "imie": "Godwyn",
+   "przydomek": "gospodarz zbozowy (gora Bialego Noza), most do holdow",
+   "zawod": "zbozowy gospodarz sredniej reki, powazany wsrod sasiadow (first-mover/hub sieci zbozowej Tally)",
+   "nastawienie_do_gracza": 75,
+   "zaufanie": 45,
+   "ostatni_kontakt": "298-09-20: sam zglosil sie do sieci zbozowej Symona (uslyszal ze prowiantmistrz przelicytowal obce srebro/karmi Polnoc swoim sposobem); zwiazal forward pod pieczecia - jako pierwszy szanowany otworzyl lawine innych holdow.",
+   "nota": "Gospodarz sredniej reki z gory Bialego Noza, ale POWAZANY - inni patrza na niego gdy decyduja. Vet czysty (solidny, zboze pewne, slowo trzyma). 298-09-20 (rzut 99): pierwszy zwiazal sie z siecia Symona, przez co reszcie holdow bezpiecznie+honorowo isc za nim = efekt sieci, cornering obcego srebra osypuje sie. Most do holdow gornego Noza. Zbudowane na lojalnosci/patriotic frame nie przymusie."
   }
  ],
  "orbita": [

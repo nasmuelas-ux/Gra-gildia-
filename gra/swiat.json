@@ -2,14 +2,14 @@
  "data": {
   "rok": 298,
   "miesiac": 9,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "noc (koniec dnia 09-18)",
+ "pora": "ranek",
  "sezon": "lato (298)",
  "pogoda": 9,
- "dzien_tygodnia_nr": 4,
- "dzien_targowy": true,
+ "dzien_tygodnia_nr": 5,
+ "dzien_targowy": false,
  "nastroje_miasta": "298-09-10: ROG - ROBB STARK WEZWAL CHORAGWIE. Polnoc staje do wojny. Bialy Port huczy: kruk z Winterfell (2 dni temu), Wyman ma wystawic+wykarmic kontyngent Manderlych, wojsko sie zbiera i ruszy na poludnie. Miasto na nogach - pobor, strach, gorączka. Musztera sie otwiera (rynek prowiantu wojennego). To juz wojna na serio dla Polnocy.",
  "ceny": {
   "chleb": {

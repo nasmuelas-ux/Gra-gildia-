@@ -48,13 +48,13 @@
   "handel": 8,
   "walka": 6,
   "geometria": 5,
-  "czytanie_ludzi": 9,
+  "czytanie_ludzi": 10,
   "organizacja": 8,
   "audyt": 9,
   "finanse": 9,
   "wlodarstwo": 8,
   "historia": 5,
-  "wiedza_o_swiecie": 5,
+  "wiedza_o_swiecie": 6,
   "polityka": 7
  },
  "jezyki_znane": {
@@ -306,15 +306,16 @@
   "czlowiek_rady_robba_0930": "CZLOWIEK RADY LORDA ROBBA (od 298-09-30, rzut 95) - KAMIEN MILOWY, gwiazda polnocna dojechana. Po meldunku o transformacji zaopatrzenia Robb: (1) dal SLOWO na holdoutow przed lordami (scalenie domkniete), (2) zaprosil Symona DO SWOJEJ RADY nie tylko od chleba ('czlowiek co widzi czego lordowie nie widza ma siedziec gdzie sie radze'), (3) przyjal ziarno czujnosci Symona (pilnuj wiernosci za plecami - Bolton NIENAZWANY, karta trzymana). Luk od gbura pytanego przez cech -> czlowiek rady Starka W ISTOCIE, przy stole Mlodego Wilka. Nitka domu przy sercu (nie zgubil siebie). Standing na szczycie Polnocy."
  },
  "licznik_uzyc": {
-  "audyt": 11,
-  "rachunki": 15,
+  "audyt": 14,
+  "rachunki": 19,
   "pismo": 9,
   "handel": 11,
-  "organizacja": 7,
-  "czytanie_ludzi": 1,
+  "organizacja": 12,
+  "czytanie_ludzi": 23,
   "historia": 27,
-  "polityka": 7,
-  "wiedza_o_swiecie": 6
+  "polityka": 13,
+  "wiedza_o_swiecie": 9,
+  "finanse": 4
  },
  "przychody": {
   "zasada": "KSIEGA PRZYCHODOW - jedyne miejsce na wplywy. GDZIE: tu (postac.json.przychody) + render STAN.md + slad w ukryte/przychody.log. KIEDY: (a) per-zdarzenie ksiegowane gdy zdarzenie odpala; (b) cykliczne miesieczne zmiatane w DZIEN BILANSU (1. dnia miesiaca). W Dniu Bilansu: zlicz miesiac -> gotowka do sakiewki, wpis kronika+log. Kwoty oznaczone 'szac.' do potwierdzenia w grze.",

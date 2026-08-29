@@ -3431,6 +3431,26 @@
    "zaufanie": 0,
    "ostatni_kontakt": "298-09-26: Symon (rzut 87) namierzyl, ze Duram klania sie WLASNIE jemu po zmroku - cutout Boltona (rece Roose'a czyste). Uthor nie wie, ze zostal wykryty.",
    "nota": "Cutout Roose'a Boltona w obozie Robba. Przez niego Duram (obstrukcyjny kwatermistrz) laczy sie z Boltonem - Bolton zbiera narzedzie (ucho w zaopatrzeniu Symona + czlowiek z uraza + karta na przyszlosc), pozycjonuje sie nie uderza (jak obce srebro). Symon ma WIEDZE nie dowod (deniowalny cutout). Przewaga: Bolton/Uthor nie wiedza ze Symon widzi."
+  },
+  {
+   "id": "maege_mormont",
+   "imie": "Maege Mormont",
+   "przydomek": "Pani Wyspy Niedzwiedziej - twarda/praktyczna, MOZLIWY PRZYCZOLEK",
+   "zawod": "choragiew Starkow, wojowniczka; ceni uzytecznosc ponad krew",
+   "nastawienie_do_gracza": 45,
+   "zaufanie": 15,
+   "ostatni_kontakt": "298-10-01: przy poznaniu rady jedyna burknela niemal-szacunek dla Symona ('ktos mysli czym nakarmic chlopow nim umra') - praktyczna baba ceni chleb/uzytecznosc. Jedyny mozliwy przyczolek wsrod dumnych lordow.",
+   "nota": "Twarda stara niedzwiedzica z Wyspy Niedzwiedziej. Praktyczna, ceni uzytecznosc>krew. 298-10-01: jedyna z lordow rady, ktora dala Symonowi cień szacunku (za mysl o zaopatrzeniu). MOZLIWY SOJUSZNIK/przyczolek wsrod arystokracji, ktora go lekcewazy."
+  },
+  {
+   "id": "wielki_jon_umber",
+   "imie": "Wielki Jon Umber",
+   "przydomek": "glosny/wierny/zapalczywy lord Ostatniej Ostoi",
+   "zawod": "potezny choragy Starkow, wojownik",
+   "nastawienie_do_gracza": 15,
+   "zaufanie": 5,
+   "ostatni_kontakt": "298-10-01: pogarda szczera/glosna dla prostaka przy stole rady ('kramarz przy stole wojennym') - ale NIESZKODLIWA (honest pride, nie knuje).",
+   "nota": "Glosny, wierny, zapalczywy. Gardzi Symonem otwarcie (prostak-liczydlo z stolcem=zniewaga porzadku) ale niegroźnie - honest pride nie spisek."
   }
  ]
 }

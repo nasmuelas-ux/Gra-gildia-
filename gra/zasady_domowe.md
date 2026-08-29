@@ -115,3 +115,12 @@ Gra NIE liczy czasu automatycznie - GM przesuwa date/pore w swiat.json RECZNIE w
 - LAPSUS DO NIEPOWTORZENIA: w obozie hostu (09-26) ~10 akcji day-spanning przykleilo sie do jednej daty, bo porzucilem ramy kotwiczace (RANEK/domkniecie). Poprawiono na ~09-30.
 - Przy nowym dniu RE-KOTWICZ czasem: render RANEK (data+pogoda+kalendarz+korespondencja+status) albo min. jawnie nazwij nowa date/pore. Nie pozwol wielu turom skleic sie w jedna date bez kroku zegara.
 - Montaz/dlugie prace: rozliczaj z jawnym uplywem ('mija ~2 dni'), aktualizuj swiat.json.
+
+
+## NOTKA SPOJNOSCI: ZEGAR WOJNY (dopisane 298-10-01)
+Tempo NIE jest bledem - asymetria mobilizacji to sedno strategiczne:
+- 298-08-31 'drugi grzmot': Lannisterowie JUZ pala ziemie Tullych (Gora) - PRZED Rogiem Robba. Wrog zaczal pierwszy, byl gotowym agresorem.
+- 298-09-10 ROG: Robb dopiero wzywa chorogwie.
+- 298-10-01: host dopiero rusza.
+ZASADA: Polnoc ogromna/daleka/biedna w monecie = WOLNA w mobilizacji (Theomore: 'daleko i cienko'). Lannisterowie (Zachod zwarty/bogaty) uderzyli szybko i pierwsi gdy Ned byl jeszcze Reka. Wiec gdy Polnoc dopiero maszeruje, wrog od miesiaca pustoszy Riverlands i naciska na Riverrun. To nie 'wrog nagle atakuje' - to Polnoc z natury wolniejsza, GONI z odsiecza. Stad pospiech i waga zaopatrzenia (chleb na poscig za czasem, ktory wrog nakrecil pierwszy).
+KALIBRACJA: obleganie Riverrun=ROZWIJAJACE sie/wiesci krukami z opoznieniem (nie pewnik co do godziny); ogien Gory=trwa od konca sierpnia (pewne/dawne). Symon zna KSZTALT nie rozstrzygniecia (rzut 65 caveat).

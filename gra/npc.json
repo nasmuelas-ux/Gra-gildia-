@@ -1294,7 +1294,8 @@
    "ostatni_kontakt": "298-09-01: przydzielony przez Wymana jako ochrona (serzant + 2 ludzi), luka zamknieta",
    "nota": "Ludzie Manderlych = tez OCZY Wymana blizej Symona; jawny prowiant kryje, ciemna rezerwa trzymana ciemna nawet przed nimi. Barczysty, siwiejacy, spokojny - zolnierz nie awanturnik. Dwoch ludzi pod nim.",
    "historia": [
-    "298-09-01: Wyman przydzielil go+2 ludzi na ochrone prowiantmistrza Symona (rzut 71). Wysluzeni zbrojni Manderlych, lepsi niz najemne dregi Garricka. Umozliwiaja Symonowi jazde do Cerwyna z eskorta."
+    "298-09-01: Wyman przydzielil go+2 ludzi na ochrone prowiantmistrza Symona (rzut 71). Wysluzeni zbrojni Manderlych, lepsi niz najemne dregi Garricka. Umozliwiaja Symonowi jazde do Cerwyna z eskorta.",
+    "298-09-22: detal Manderlych przesuniety na osłonе aktywow/domu Symona na czas jego nieobecnosci (wyjazd do Robba) - backfill po Stenie/Hendrym."
    ]
   },
   {
@@ -2617,7 +2618,7 @@
    "zaufanie": 28,
    "cechy_mowy": "oszczedny, rzeczowy, wojskowy; 'raportuje, nie gada'",
    "flaga": "STAFF: ochrona+threat-reader, kilka pewnych rak; dyskretny nie widoczny egzekutor",
-   "ostatni_kontakt": "298-09-18: uczciwy raport o luce bezpieczenstwa (footprint > straz); zaproponowal awans od wewnatrz.",
+   "ostatni_kontakt": "298-09-22: zorganizowal osłonе na droge (Hendry+Sten) + backfill domu (Roggon/Harl/Dagon) + brief na trakt.",
    "stan": "mieszczanin",
    "wie_o_graczu": [
     "297-10-05: zatrudniony normalnie do firmy Symona (staffing profesjonalny domu kupieckiego pod pieczecia lorda).",
@@ -2638,7 +2639,8 @@
     "298-09-01 Dzien Bilansu: Symon przyszedl po dodatkowa straz (Dagon ranny) - rzut 3. Garrick szczery: wojna wyssala rynek miecza, porzadni poszli pod choragwie/na statki. Odradzil jedynego chetnego (Corliss - gladki, pytal o kantor/wozy/nieobecnosc Dagona = MIERZYL DOM): 'wole stracic prowizje niz wpuscic wilka za brame'. Wspolna nieufnosc = zaufanie miedzy nimi roslo. Bez najmu.",
     "298-09-01 noc: briefowany przez Symona na wyzsza gotowosc/obserwacje przed wyjazdem do Cerwyna. Rozpisze rotacje/protokol; z Roggonem+Manderlych+Sten pokrycie niezle.",
     "298-09-10: powierzone prześwietlanie strażnikow, ktorych Nesta najmie do kantoru (tarcza na infiltracje kliki/Corliss-vector).",
-    "298-09-18 (rzut 16): przeglad bezpieczenstwa. Garrick trzezwo zaraportowal ze straz nie nadaza za rozrostem Symona (dom/sklad/kantor/warzelnia/mlyn) - Dagon leży, rynek najmu suchy, detal Roggona kryje tylko urzad nie majatek, port nerwowy przed wymarszem. Dobra sluzba: mowi obciazajaca prawde zamiast ukrywac. zauf 24->28 (uczciwosc doceniona)."
+    "298-09-18 (rzut 16): przeglad bezpieczenstwa. Garrick trzezwo zaraportowal ze straz nie nadaza za rozrostem Symona (dom/sklad/kantor/warzelnia/mlyn) - Dagon leży, rynek najmu suchy, detal Roggona kryje tylko urzad nie majatek, port nerwowy przed wymarszem. Dobra sluzba: mowi obciazajaca prawde zamiast ukrywac. zauf 24->28 (uczciwosc doceniona).",
+    "298-09-22 (rzut 77): dopial osłonе Symona na droge do Robba - HENDRY(lead)+STEN jako osobista straz przy eskorcie Wymana; dom domkniety (Roggon na aktywa, Harl statyczne, Dagon wraca). Dal brief bezpieczenstwa na trakt wojenny. Profesjonalnie zbalansowal droge vs dom."
    ]
   },
   {
@@ -2948,8 +2950,8 @@
     "298-08-08: Hendry o Symonie - 'wielu panow szuka kogo obwinic gdy zle, bierze zasluge gdy dobrze; ty na odwrot - podziekowales temu co ocalil, nie warknales o spoznienie; za takim panem idzie sie nie dla zoldu'.",
     "298-08-~18: odparl z Dagonem napad broken men w drodze powrotnej, obronil Symona; caly."
    ],
-   "ostatni_kontakt": "298-04-20 NOC: Symon poprosił go jako osobistą osłonę na wyprawę do Winterfell (z nim i Halem). Hendry (b. żołnierz) zgodził się od ręki, ale doradził trzeźwo: jedna włócznia to za mało na karawanę prowiantu królewskiego — potrzeba ODDZIAŁU zbrojnych, a skoro to danina Korony na glejt lorda, to LORD daje ludzi. Zwrócił też uwagę: przy 6-tyg wyprawie Garrick niech ZOSTANIE przy Mirze/domu.",
-   "nota": " || 298-09-22: KANDYDAT na osobista osłonе Symona w drodze do Robba (Bran wymusil ze Symon wezmie ochronе; Dagon jeszcze sie goi, Hendry gotow - b. zolnierz, byl juz osobista osłona na Winterfell). Decyzja pending."
+   "ostatni_kontakt": "298-09-22: lead osobistej osłony Symona w drodze do Robba.",
+   "nota": " || 298-09-22: KANDYDAT na osobista osłonе Symona w drodze do Robba (Bran wymusil ze Symon wezmie ochronе; Dagon jeszcze sie goi, Hendry gotow - b. zolnierz, byl juz osobista osłona na Winterfell). Decyzja pending. || 298-09-22: WYBRANY na LEAD osobistej osłony Symona w drodze do Robba (b.zolnierz, byl juz osłona pod Winterfell, wybor Brana). Jedzie z Symonem."
   },
   {
    "id": "pate_magazynier",
@@ -3108,9 +3110,10 @@
    "flaga": "warta domu+skladu; mlody ale solidny",
    "historia": [
     "298-09-01 Dzien Bilansu: pilnuje zdrowiejacego Dagona jak pies (opatrzony przez mistrzowa od ziol). Widzial ze Symon przyszedl sam - poglebia i jego wiez. Na razie jedyny sprawny straznik Symona.",
-    "298-09-01: pilnuje zdrowiejacego Dagona jak pies; opatrzony przez mistrzowa od ziol. Widzial, ze Symon przyszedl sam - poglebia jego wiez. Na razie SAM na sluzbie (Dagon out), ochrona domu cienka."
+    "298-09-01: pilnuje zdrowiejacego Dagona jak pies; opatrzony przez mistrzowa od ziol. Widzial, ze Symon przyszedl sam - poglebia jego wiez. Na razie SAM na sluzbie (Dagon out), ochrona domu cienka.",
+    "298-09-22: WYBRANY na 2. wlocznie osobistej osłony Symona w drodze do Robba (mlody/szybki, obok Hendry'ego). Jedzie z Symonem; dom po nim zalatany (Roggon/Harl/Dagon)."
    ],
-   "ostatni_kontakt": "298-09-01: przy Dagonie, sam na sluzbie"
+   "ostatni_kontakt": "298-09-22: 2. osłona Symona w drodze do Robba."
   },
   {
    "id": "theon_greyjoy",

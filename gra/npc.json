@@ -3229,6 +3229,16 @@
    "zaufanie": 45,
    "ostatni_kontakt": "298-09-20: sam zglosil sie do sieci zbozowej Symona (uslyszal ze prowiantmistrz przelicytowal obce srebro/karmi Polnoc swoim sposobem); zwiazal forward pod pieczecia - jako pierwszy szanowany otworzyl lawine innych holdow.",
    "nota": "Gospodarz sredniej reki z gory Bialego Noza, ale POWAZANY - inni patrza na niego gdy decyduja. Vet czysty (solidny, zboze pewne, slowo trzyma). 298-09-20 (rzut 99): pierwszy zwiazal sie z siecia Symona, przez co reszcie holdow bezpiecznie+honorowo isc za nim = efekt sieci, cornering obcego srebra osypuje sie. Most do holdow gornego Noza. Zbudowane na lojalnosci/patriotic frame nie przymusie."
+  },
+  {
+   "id": "kwatermistrz_errold",
+   "imie": "Errold",
+   "przydomek": "prawa reka Symona w zaopatrzeniu hostu (b. kwatermistrz, 1. sojusznik obozu)",
+   "zawod": "kwatermistrz w hoscie Robba - przyzwoity/kompetentny; od 09-26 zastepca Symona, scala jedno dowodztwo prowiantowe",
+   "nastawienie_do_gracza": 68,
+   "zaufanie": 40,
+   "ostatni_kontakt": "298-09-26: przeszedl na strone Symona (prawda audytu+linia z domu=ulga nie zagrozenie), zostal jego PRAWA REKA w scalaniu zaopatrzenia. Pierwszy sojusznik obozu, zarobiony fachem.",
+   "nota": "Przyzwoity kwatermistrz (mozliwy sojusznik z rozeznania). 298-09-26: gdy Symon scalal zaopatrzenie prawda (nie mlotem), Errold odetchnal ('nareszcie ktos co widzi calosc i przyniosl zapas') i przeszedl chetnie - Symon zrobil go zastepca. 1. sojusznik Symona w obozie Robba, deeds nie gracja. Rdzen jednego dowodztwa prowiantowego."
   }
  ],
  "orbita": [
@@ -3397,8 +3407,9 @@
    "zawod": "kwatermistrz w hoscie Robba (jeden z rozbitego zaopatrzenia) - terytorialny, opozniajacy",
    "nastawienie_do_gracza": -15,
    "zaufanie": 5,
-   "ostatni_kontakt": "298-09-26: obstruowal audyt Symona po cichu (ksiegi niekompletne/metne, 'zapasy w innym taborze'); jego stan papier vs wozy rozjezdza sie NAJMOCNIEJ - widmo/zdublowane/zbutwiale, mozliwy skim lub niekompetencja. Wrog polityczny odsloniety.",
-   "nota": "Lodowaty kwatermistrz (turf z rozeznania). 298-09-26: gdy Symon dostal mandat i otworzyl ksiegi, Duram obstruowal. Audyt o rzeczywistosc: jego ksiegi klamia w gore najmocniej (widmowy zapas). Do rozegrania: mlot mandatu / cichy audyt dowodu / skim vs niekompetencja. Alebrand w polowej odslonie."
+   "ostatni_kontakt": "298-09-26: nie poddal sie scaleniu, weszy protektora wsrod urazonych panow (mozliwy Bolton); skim do domkniecia.",
+   "nota": "Lodowaty kwatermistrz (turf z rozeznania). 298-09-26: gdy Symon dostal mandat i otworzyl ksiegi, Duram obstruowal. Audyt o rzeczywistosc: jego ksiegi klamia w gore najmocniej (widmowy zapas). Do rozegrania: mlot mandatu / cichy audyt dowodu / skim vs niekompetencja. Alebrand w polowej odslonie. || 298-09-26 (rzut 56): NIE zlozyl broni przy scalaniu. Widmowe ksiegi obnażone - okopuje sie/gra ofiare ALBO WESZY PROTEKTORA wsrod panow urazonych wzlotem Symona. Odizolowany (rdzen przeszedl do Symona/Errolda) ale NIE rozwiazany: skim+obstrukcja+mozliwy zimny patron (ostrzezenie Bolton - chlodny uzylby takiego narzedzia przeciw faworytowi Wilka). Festering wrog, do domkniecia ostroznie.",
+   "historia": []
   }
  ]
 }

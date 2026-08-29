@@ -107,3 +107,11 @@ biednym, maszyna metodycznie, pyta o ludzi, sam się gruntuje). KOREKTA PROWADZE
    chwalą/idą dalej. Owen/Serla/Mira/Nesta mają RÓŻNE głosy, nie jeden refren.
 3. Grunt wraca jako żywa korekta TYLKO gdy Symon faktycznie znów pcha/pyszni się —
    nie jako domyślny warm-NPC beat. Zasłużone uznanie > odruchowa przestroga.
+
+
+## ZASADA: PRZEPLYW DNI / ZEGAR CZASU (dopisane ~298-09-30 po lapsusie w obozie)
+Gra NIE liczy czasu automatycznie - GM przesuwa date/pore w swiat.json RECZNIE wg czasu, jaki akcja zjada.
+- Kazda akcja ma REALNY koszt czasu. Pol-dniowy beat = pora do przodu; wielodniowy projekt (audyt, scalanie, wielowieczorowa obserwacja, budowa, podroz) = ADVANCE DATY o tyle dni, ile realnie trwa (powiedziec wprost 'to zajmuje ~N dni' i krok zegara).
+- LAPSUS DO NIEPOWTORZENIA: w obozie hostu (09-26) ~10 akcji day-spanning przykleilo sie do jednej daty, bo porzucilem ramy kotwiczace (RANEK/domkniecie). Poprawiono na ~09-30.
+- Przy nowym dniu RE-KOTWICZ czasem: render RANEK (data+pogoda+kalendarz+korespondencja+status) albo min. jawnie nazwij nowa date/pore. Nie pozwol wielu turom skleic sie w jedna date bez kroku zegara.
+- Montaz/dlugie prace: rozliczaj z jawnym uplywem ('mija ~2 dni'), aktualizuj swiat.json.

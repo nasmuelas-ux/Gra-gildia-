@@ -3057,7 +3057,7 @@
    "wiek": 38,
    "stan": "zolnierz/najemnik",
    "zawod": "STRAZNIK domu Symona (od 08-04, na staly zold) - stary wlocznik karawanowy; spokojny, nie pije na warcie, czyta droge; z poprzedniej karawany do Winterfell. EskortA drogowa (jedzie z Symonem+Hendrym).",
-   "nastawienie_do_gracza": 90,
+   "nastawienie_do_gracza": 92,
    "zaufanie": 70,
    "wie_o_graczu": [
     "poznany na karawanie do Winterfell (298-04/05) jako najemnik",
@@ -3072,9 +3072,10 @@
    "flaga": "pewna reka na droge; weteran karawan",
    "historia": [
     "298-09-01 Dzien Bilansu: Symon odwiedzil go SAM (rzut 69). Rana goi sie czysto (goraczka spadla 3 nocy, bok zszyty bez ropy), WYZYJE - ale parе tygodni do powrotu na droge. Gleboko poruszony ze pan przyszedl w dniu liczenia srebra: 'zaden inny pan nie przyszedl jak mnie rozplatalo; mowilem ze sluze do smierci bom myslal zes taki jak inni tylko lepiej placisz - teraz WIEM'. Lojalnosc z kontraktu w przywiazanie - czlowiek domu Tally.",
-    "298-09-01 Dzien Bilansu: Symon odwiedzil go SAM (rzut 69). Rana goi sie czysto (goraczka spadla 3 nocy, bok zszyty bez ropy), WYZYJE - ale parе tygodni do powrotu na droge. Gleboko poruszony ze pan przyszedl w dniu liczenia srebra: 'zaden inny pan nie przyszedl jak mnie rozplatalo; mowilem ze sluze do smierci bom myslal zes taki jak inni tylko lepiej placisz - teraz WIEM'. Lojalnosc z kontraktu przemieniona w przywiazanie - czlowiek domu Tally."
+    "298-09-01 Dzien Bilansu: Symon odwiedzil go SAM (rzut 69). Rana goi sie czysto (goraczka spadla 3 nocy, bok zszyty bez ropy), WYZYJE - ale parе tygodni do powrotu na droge. Gleboko poruszony ze pan przyszedl w dniu liczenia srebra: 'zaden inny pan nie przyszedl jak mnie rozplatalo; mowilem ze sluze do smierci bom myslal zes taki jak inni tylko lepiej placisz - teraz WIEM'. Lojalnosc z kontraktu przemieniona w przywiazanie - czlowiek domu Tally.",
+    "298-09-20: Symon odwiedzil rannego 2. raz sam (troska). Dagon NA NOGACH (blizna swieza, chodzi, siega po wlocznie) - 'tydzien-dwa i staje do warty'. Dal weteranskie swiadectwo: prowiant Symona = ratowanie zycia (glodny oddzial=trup; kto nakarmi w blocie ratuje bardziej niz miecz). Wiernosc glebsza (pan co przychodzi do lezacego). Wraca do sluzby ~tydzien-dwa -> z Harlem footprint domkniety. nast 90->92."
    ],
-   "ostatni_kontakt": "298-09-01 Dzien Bilansu: Symon odwiedzil rannego SAM; rana goi sie, wyzyje (parе tygodni z drogi); wiez w przywiazanie (rzut 69)"
+   "ostatni_kontakt": "298-09-20: wizyta troski - na nogach, wraca do warty za tydzien-dwa; dal swiadectwo weterana o wartosci prowiantu."
   },
   {
    "id": "sten_blizna",

@@ -148,7 +148,8 @@
   "298-10-20 TRADECRAFT (od/z Willa): lowy na zgubione dziecko = (a) KOMPARTMENTALIZACJA - agenci nie wiedza kogo szukaja (portret+'melduj nie zaczepiaj'), inaczej wygada sie z dumy/sprzeda wrogowi; (b) KLUCZ ZAUFANIA i KONTAKT tylko u handlera+kilku ('oczu stu, rak troje i czyste') - przerazone dziecko podchodzi sie RAZ; (c) scigany mysli jak scigany - najlepszy lowca zgubionego dziecka to ktos kto sam uciekal (margines=atut nie wada).",
   "298-10-20 MODEL ZDRAJCY-HEDŻERA (Bolton-typ, przez Lucana): nigdy nie gra, HEDŻUJE; lojalnosc=plaszcz. Sluzy wygrywajacemu NAPRAWDE DOBRZE teraz - rzetelnosc to KAMUFLAZ/kapital (im zaufanszy tym cenniejsza+mniej spodziewana zdrada). Uderza gdy zejda 3 warunki: (1) druga strona nieodwracalnie silniejsza; (2) ofiara ODSLONIETA (samotna/bez swiadkow); (3) nagroda+zrzucalna wina. Dopoki brak jednej=najwierniejszy sluga (zdradza OKAZJA nie serce). TROPY: swoich ludzi oszczedza w boju (cudzy gina), ciche kanaly do wroga, krewni w kluczowych miejscach, zaprzeczalnosc. Obserwuj GDZIE stawia ludzi i CZEGO wojsko nie ryzykuje, nie slowa. COUNTER: nie dopuscic by 3 warunki sie zeszly (nie daj sojusznikowi zostac odslonietym; zdrada ma byc widoczna+kosztowna). NB: narzedzie amoralne (Lucan) = soczewka do pozyczenia i odlozenia, nie trucizna - dopoki liczysz srebro i nie oddajesz reki.",
   "298-10-20 NAJWYZSZA FORMA RADY: gdy wladca watpi w SIEBIE (nie w strategie), odpowiedz najpierw na czlowieka (nazwij roznice ostroznosc/tchorzostwo), potem ODDAJ MU STERY (nie daj lordom zaganiac go wstydem - krol zawstydzony do czynu przestaje dowodzic, dyktuja najzapalczywsi), a strategia niech przyjdzie jako JEGO wlasna decyzja. Doradzany ma sie czuc PRZYWROCONY SOBIE nie prowadzony. Kierowanie glodu lordow w kontrolowane krolewskie ujscie = odbiera stery volatile-elementom (Karstark). 'Nie byc wielkim lecz czynic wiekszym tego komu sluzysz.'",
-  "298-10-21 NAUKA (od Maege, rzut 8): nie kazdego sojusznika zjednuje sie ta sama waluta. Blackfish=trzezwa rozmowa; Wyman=wzajemny interes+uczciwosc; Catelyn=zrozumienie serca; MAEGE Mormont=WYLACZNIE CZYN ktory zobaczy (w polu/dla jej ludzi) - rozmowa u niej falszywa moneta. Umiejetnosc towarzyszaca: wiedziec KIEDY PRZESTAC - godny odwrot z niewlasciwej rozmowy sam bywa zasiewem szacunku ('madrzejszy niz gadasz'). Czytac nie tylko czlowieka ale i WLASCIWE narzedzie na niego."
+  "298-10-21 NAUKA (od Maege, rzut 8): nie kazdego sojusznika zjednuje sie ta sama waluta. Blackfish=trzezwa rozmowa; Wyman=wzajemny interes+uczciwosc; Catelyn=zrozumienie serca; MAEGE Mormont=WYLACZNIE CZYN ktory zobaczy (w polu/dla jej ludzi) - rozmowa u niej falszywa moneta. Umiejetnosc towarzyszaca: wiedziec KIEDY PRZESTAC - godny odwrot z niewlasciwej rozmowy sam bywa zasiewem szacunku ('madrzejszy niz gadasz'). Czytac nie tylko czlowieka ale i WLASCIWE narzedzie na niego.",
+  "298-10-21 DOKTRYNA RAJDU/OFENSYWY: ofensywe definiuje ODWROT nie zasieg (rajd co wraca=zwyciestwo choćby spalil malo; co da sie odciac=kleska). Liczyc droge POWROTNA najpierw, potem cel. Kolumna szybka/samowystarczalna na cala petle+twardy margines; lup=premia nie warunek przezycia; odwrot wpisany od poczatku (trasy/punkty zborne/nie odciac od bazy). Glowny trzon zostaje (uderz w bok bez zdejmowania reki z podworka). Glod lordow na CZOLO (skierowany), kryterium zwyciestwa waskie+krolewskie (eskalacja niemozliwa). Bonus: dobrze-zaopatrzona rola dla Wyspiarzy Maege = deed co do niej dotrze bez slow."
  ],
  "postawy": {
   "cicha_akumulacja": "PRZYJETA 11-14: reinwestowac nie konsumowac; wchodzic jako CICHY udzialowiec w wiele malych przeplywow (nazwisko off); trzymac majatek jako papier/kredyt/depozyt/towar (nie zloto na pokaz); zycie skromne (cela septy, prosty plaszcz); jalmuzna jako kamuflaz (wygladac na biednego-hojnego); dywersyfikacja malych pozycji; oslona Wiary/dyskrecji szczelna. Cel: powolne, niewidzialne bogactwo bezpieczne od donosu/zawisci/podatku.",
@@ -357,14 +358,14 @@
   "rachunki": 20,
   "pismo": 9,
   "handel": 11,
-  "organizacja": 13,
+  "organizacja": 14,
   "czytanie_ludzi": 23,
   "historia": 0,
   "polityka": 2,
   "wiedza_o_swiecie": 13,
   "finanse": 4,
-  "wlodarstwo": 1,
-  "geometria": 1
+  "wlodarstwo": 2,
+  "geometria": 2
  },
  "przychody": {
   "zasada": "KSIEGA PRZYCHODOW - jedyne miejsce na wplywy. GDZIE: tu (postac.json.przychody) + render STAN.md + slad w ukryte/przychody.log. KIEDY: (a) per-zdarzenie ksiegowane gdy zdarzenie odpala; (b) cykliczne miesieczne zmiatane w DZIEN BILANSU (1. dnia miesiaca). W Dniu Bilansu: zlicz miesiac -> gotowka do sakiewki, wpis kronika+log. Kwoty oznaczone 'szac.' do potwierdzenia w grze.",

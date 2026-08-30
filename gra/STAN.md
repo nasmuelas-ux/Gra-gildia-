@@ -189,6 +189,8 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Jaime Lannister (Krolobojca)** (jaime_lannister) —  · nast ?
 - **Ser Brynden Tully 'Czarna Ryba'** (brynden_blackfish_tully) —  · nast ?
 - **Ser Edmure Tully** (edmure_tully) —  · nast ?
+- **Willa - mloda skryba/prospekt szpiegmistrza** (willa_prospekt_wywiad) —  · nast ?
+- **Lucan - polityczny consigliere Symona** (lucan_consigliere_polityka) —  · nast ?
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

@@ -355,20 +355,21 @@
   "korytarz_rzeczny_bialyport_winterfell_1019": "298-10-19 (rzut 80): Symon zaproponowal, Robb zlecil Wymanowi krolewskim mandatem umocniona przystan+rzeczny korytarz zaopatrzeniowy Bialy Port-Winterfell (Bialy Noz). Symon architekt-koncepcji/liczy barki, kredyt na Wymana+krola. Kregoslup Polnocy; podnosi Wymana; utwardza baze Symona; daje siatce rzeczna os.",
   "reka-matki-odsunieta-od-Jaimego_1019": "298-10-19 (rzut 97): Symon dotarl do Catelyn glebiej niz ktokolwiek od smierci Neda - dal jej KANAL (slub szukania corek: 'twoje szukanie ma rece i nogi - moje') + reframe Jaimego jako OKUPU na corki (nie wroga do ukarania). Catelyn przyznaje ze myslala go oddac sama; Symon odsunal reke matki od uwolnienia Krolobojcy. Wiez gleboka, Catelyn=zaufany sojusznik-podpora. Najgroniejsza doom-nic ostygla do wspolnego-czuwania.",
   "willa_przeszla_prog_szpieg_1020": "298-10-20 (rzut 93): Willa (hodowany szpiegmistrz-prospekt) przeszla prog na 1. dalekim zadaniu (lowy na Arye) - myslacy szpieg lepszy od Symona w kompartmentalizacji+protokole klucza, i pierwszy raz uwierzyla naprawde. Instytucja Symona (solo->instytucja) zaczyna zwracac: nie swieci sam, ma kogos co patrzy z nim. 'Grow don't buy' + cierpliwosc Miry oplacone.",
-  "przywrocenie-krola-sobie_1020": "298-10-20 (rzut 76): Symon podeprzeal watpiacego Robba 3-czesciowa synteza (czlowiek: ostroznosc!=tchorzostwo; stery: nie dac sie zawstydzic lordom/Karstarkowi; ofensywa: TWOJA ograniczona/zaopatrzona/przezywalna). Robb PRZYWROCONY SOBIE - odzyskal dowodztwo, oglosi wlasna kontrolowana ofensywe jako dar krola. Wiez przekroczyla w ROWNOSC ('wychodzisz zostawiajac krola'). Symon odebral Karstarkowi stery narracji (glod skierowany w krolewskie ujscie). Najwyzsza rada: doradzany przywrocony sobie."
+  "przywrocenie-krola-sobie_1020": "298-10-20 (rzut 76): Symon podeprzeal watpiacego Robba 3-czesciowa synteza (czlowiek: ostroznosc!=tchorzostwo; stery: nie dac sie zawstydzic lordom/Karstarkowi; ofensywa: TWOJA ograniczona/zaopatrzona/przezywalna). Robb PRZYWROCONY SOBIE - odzyskal dowodztwo, oglosi wlasna kontrolowana ofensywe jako dar krola. Wiez przekroczyla w ROWNOSC ('wychodzisz zostawiajac krola'). Symon odebral Karstarkowi stery narracji (glod skierowany w krolewskie ujscie). Najwyzsza rada: doradzany przywrocony sobie.",
+  "ofensywa_samowracajaca_wyruszyla_1022": "298-10-22 (rzut 91): Symon domknal i wyprawil kontrolowana ofensywe - zaopatrzenie-jako-smycz (worki puste w punkcie pokusy), Wyspiarze+chlodny kapitan jako druga glowa (powrot), waski cel/odwrot-rozkaz. Czyn dla Maege wpisany (Wyspiarze zaopatrzeni na powrot). Reputacja prowiantmistrza++. Wynik pola pending (nic-oka)."
  },
  "licznik_uzyc": {
   "audyt": 14,
   "rachunki": 20,
   "pismo": 9,
   "handel": 11,
-  "organizacja": 14,
+  "organizacja": 15,
   "czytanie_ludzi": 23,
   "historia": 0,
   "polityka": 2,
   "wiedza_o_swiecie": 13,
   "finanse": 4,
-  "wlodarstwo": 2,
+  "wlodarstwo": 3,
   "geometria": 2
  },
  "przychody": {

@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 10,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
- "pora": "noc (koniec dnia 10-16, Riverrun)",
+ "pora": "ranek",
  "sezon": "lato (298)",
  "pogoda": 9,
- "dzien_tygodnia_nr": 3,
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "nastroje_miasta": "298-10-14: NED STARK STRACONY - oficjalna wiesc dobiegla Riverrun: Eddard Stark sciety na schodach Septu Baelora rozkazem Joffreya (mimo spowiedzi). Dwor krola-w-polu w zalobie+furii. Wojna hartuje na smierc (koniec pokoju/wymiany). Jaime=z karty wymiany w obiekt zemsty (Symon musi oslonic cennego jenca). Wymiana Symona=za pozno (Ned juz martwy). Robb-Krol traci ojca. Symon przygotowany (dread od Bliznaikow=to bylo to) - byc skala. || 298-10-15: OFENSYWA underway - Polnoc rusza kampanie zaczepna w Dorzeczu, doskonale zaopatrzona przez system Symona (flotylla/rzeki/depoty); wojna KRÓLA biegnie na jego architekturze podazy (niezbednosc na szczycie); petla-podazy dyscyplinuje agresje (w granicach przezywalnych). Strategiczna pulapka (bitwy tak, wojna nie) zostaje - najedzona.",
  "ceny": {

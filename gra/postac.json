@@ -371,7 +371,8 @@
   "ofensywa_samowracajaca_wyruszyla_1022": "298-10-22 (rzut 91): Symon domknal i wyprawil kontrolowana ofensywe - zaopatrzenie-jako-smycz (worki puste w punkcie pokusy), Wyspiarze+chlodny kapitan jako druga glowa (powrot), waski cel/odwrot-rozkaz. Czyn dla Maege wpisany (Wyspiarze zaopatrzeni na powrot). Reputacja prowiantmistrza++. Wynik pola pending (nic-oka).",
   "pogrzeb_hostera_obecnosc_1023": "298-10-23 (rzut 97): Symon na pogrzebie Hostera (zaproszony reka Catelyn) - z cienia, sama obecnosc. Zysk nieszukany: wiez serca z Catelyn poglebiona (waski krag), ciche uznanie Bryndena, ostry odczyt EDMURE'A (kruchy pod spojrzeniem/pochopny=kluczowe dla wojny), memento mori (buduje ROD co go przezyje). Pokora=zbroja (Karstark nie mial czego chwycic). Lekcja: obecnosc bez proszenia zwraca wiecej niz manewr.",
   "serce_edmure_pana_dorzecza_1023": "298-10-23 (rzut 99): Symon zdobyl SERCE Edmure'a (nowy pan Dorzecza/Riverrun/miecze Tullych) - podchodzac po jego publicznym wstydzie (3x chybil na pogrzebie ojca) NIE z litoscia/osadem/kurtyzowaniem lecz z godnoscia+prawda ('reka drzala bo go kochales, chybienie=milosc nie slabosc'). Wiez wykuta w najslabszej godzinie=najsilniejsza (wdziecznosc>sojusz kupiony). Tarcza slabych: uleczyl kruchosc zamiast wykorzystac. Nie manewr - laska. Kluczowy sojusznik na wojne.",
-  "brynden_pelny_powiernik_1023": "298-10-23 (rzut 73): Czarna Ryba PELNY POWIERNIK (sufit pekl) - po tym jak Symon przyszedl bez interesu po pogrzebie I uleczyl Edmure'a (czego Brynden-stryj nie umial). Wdziecznosc za krew. Brynden otworzyl front cienia razem: Frey/Bolton/Karstark wspolne czuwanie, 'przyjdz z tym do mnie pierwszego'. Krag widzacych ma 2. w pelni otwartego straznika - Symon NIE czuwa juz sam. Najtwardszy/clear-eyed sojusz obozu."
+  "brynden_pelny_powiernik_1023": "298-10-23 (rzut 73): Czarna Ryba PELNY POWIERNIK (sufit pekl) - po tym jak Symon przyszedl bez interesu po pogrzebie I uleczyl Edmure'a (czego Brynden-stryj nie umial). Wdziecznosc za krew. Brynden otworzyl front cienia razem: Frey/Bolton/Karstark wspolne czuwanie, 'przyjdz z tym do mnie pierwszego'. Krag widzacych ma 2. w pelni otwartego straznika - Symon NIE czuwa juz sam. Najtwardszy/clear-eyed sojusz obozu.",
+  "wymiana_jaime_sansa_zamknieta_1101": "298-11-01 (rzut 80): Symon zamknal wymiane Jaime<->Sansa z Tywinem - Sansa wraca (tygodnie/etapowo, Jaime trzymany az bezpieczna), kanal zamkniety na SUKCESIE (cieply na niepodleglosc), anonimowa Arya chroniona milczeniem (zimna pogon w oknie tygodni), Robb ustabilizowany (obie corki zywymi drogami). Odzyskal corke Neda cierpliwoscia/firewallem/wiedza-ktorego-ruchu-nie-wykonac. Imadlo o zab rozkrecone."
  },
  "licznik_uzyc": {
   "audyt": 14,
@@ -381,7 +382,7 @@
   "organizacja": 16,
   "czytanie_ludzi": 23,
   "historia": 0,
-  "polityka": 5,
+  "polityka": 6,
   "wiedza_o_swiecie": 1,
   "finanse": 4,
   "wlodarstwo": 4,

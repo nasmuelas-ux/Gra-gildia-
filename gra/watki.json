@@ -1957,8 +1957,20 @@
   {
    "id": "garnizon_winterfell_doom_prewencja_1102",
    "tytul": "Garnizon do Winterfell - uzbroic serce Polnocy (doom-prewencja)",
+   "status": "w_toku",
+   "nota": "KOREKTA 298-11-02: garnizon do Winterfell JUZ POSZEDL/zalatwiony wczesniej (nie nowa prosba w liscie) - serce Polnocy JUZ sie uzbraja (doom-prewencja w toku). List do Wymana teraz glownie o przystani/korytarzu/Cerwynach. GM: to countruje canon (Winterfell niemal puste->Zelazni bierze) - Symon uzbroil zanim ktos zobaczyl ze bezbronne."
+  },
+  {
+   "id": "mlodzi_zakladnicy_zagrozenie_karstark_1102",
+   "tytul": "Mlodzi zakladnicy (Willem Lannister/Tion Frey) - iskra pod Karstarkiem",
+   "status": "pilny",
+   "nota": "298-11-02 (rzut 31): Polnoc trzyma mlodych zakladnikow Willem Lannister (kuzyn lwa)+Tion Frey (wnuk Waldera). DOOM-RYZYKO: kaczki pod lufa zalu Karstarka; ich mord=peka 5 rzeczy (wymiana/Freyowie-iskra/honor Robba/rozlam Polnocy). GM canon: Karstark ich morduje->egzekucja->rozlam. PILNE ROZWIAZANIE: straz laczona+regula pieczeci jak przy Jaime'm, z dala od Karstarka i kazdego lorda z zalem, cicho jako 'porzadek w jeniekach'. Symon znalazl ogien zanim sie zajal - nastepny ruch: zabezpieczyc chlopcow."
+  },
+  {
+   "id": "rejestr_jencow_dwustronny_1102",
+   "tytul": "Rejestr jencow dwustronny - ksiega wymian",
    "status": "aktywny",
-   "nota": "298-11-02: Symon pisze do Wymana o PORZADNY GARNIZON do Winterfell (serce Polnocy realnie bronione nie tylko formalnie trzymane), zwlaszcza przy stopie-obrony+groźbie Zelaznych od morza. GM: canon zostawia Winterfell niemal puste->Zelazni/Theon bierze; Symon uzbraja zanim ktos zobaczy ze bezbronne. Odpowiedz Wymana=inbound. Splot z: obrona Polnocy/tripwire Zelaznych/polnocna slabosc Fosy/bezpieczenstwo dzieci Stark."
+   "nota": "298-11-02 (rzut 31): WASZA strona zliczona (Jaime+zachodni lordowie/rycerze z Szepczacego Lasu+mlodzi zakladnicy Willem/Tion). ICH strona MGLISTA (Sansa znana, Wylis Manderly prawdopodobny, reszta=garsc z Green Fork, szacunek nie nazwiska; Arya osobna). CIERPLIWE: siatka kompletuje liste waszych u lwa (kazde nazwisko=przyszla karta wymiany, kazda nieznana twarz=ktos zapomniany). Ksiega rzadzi dyplomacja wymian - domknac enemy-side."
   }
  ]
 }

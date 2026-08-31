@@ -906,3 +906,5 @@ rejsu brzmi zbyt zgrabnie, Wyllam-faktor nie gasi ciekawosci -> CICHY OBSERWATOR
 298-10-28 | pogoda 20 | ULEWA WRACA po krotkiej przerwie; Dorzecze tonie, rzeki grozne
 298-10-28 | zdarzenie 58 | oboz spokojny, bez kryzysu
 298-10-28 | inbound 35 / inbound2 10 | CISZA - powodz dlawi gonce/kruki (rzeki w gorze, drogi zerwane)
+298-10-28 RANEK | inspekcja_mitigacja (objazd bliskiej arterii w powodzi) | prog niski (org8/wlodarstwo8 + WLASNY system: rygor szlakow 09-26, wozotabor, 2-rzuty, bufor-depoty, doktryna rzeka-przy-wysokiej-wodzie 10-04) | rzut 80 | MOCNY: przeczytal slabe punkty szybko, przekierowal na pewne/wyzsze przeprawy, barki na bezpieczne cumy, ladunek na wyzyny/depoty, oparl host na buforze; wysoka woda faworyzuje LODZIE na czesci odcinkow (jego doktryna). Chaos -> zarzadzona strata.
+298-10-28 RANEK | powodz_szkoda (severity) | rzut 30 | UMIARKOWANA-NISKA: realna ale odzyskiwalna - ~1-2 barki zalane/uszkodzone, drobny ladunek stracony, 1 niska przeprawa zerwana (reroute), linia BIEGNIE CIENIEJ/WOLNIEJ kilka dni do opadu wody. HOST NAJEDZONY (bufor izoluje). Odpornosc inzynierowana wczesniej sprawdza sie na oczach obozu.

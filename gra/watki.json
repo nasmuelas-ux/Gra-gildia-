@@ -2002,8 +2002,8 @@
   {
    "id": "kruk_walder_brod_odpowiedz_1106",
    "tytul": "Oczekiwana odpowiedz Waldera na kruk o brodzie",
-   "status": "otwarty",
-   "nota": "298-11-06 poludnie: wyslany kruk z konkretem (rzut 87). Odpowiedz za dni kilka. Obserwowac TON odpowiedzi jako miernik jak hedzer ocenia sile Polnocy. || 298-11-11: Catelyn dala czytelnik Waldera z pierwszej reki (pamieta zniewagi; gardzi blagajacym szanuje potrzebujacego-wprost; cierpkosc=TEST sily) - uzbroic tym odpowiedz na jego kruka. || 298-11-11: Willa - kruk Waldera w drodze, lada dzien. Symon ma czytelnik od Catelyn gotowy (pamieta zniewagi/gardzi blagajacym-szanuje-potrzebujacego-wprost/cierpkosc=test)."
+   "status": "odpowiedz_ladowala_chlodno_dlug_zywy",
+   "nota": "298-11-06 poludnie: wyslany kruk z konkretem (rzut 87). Odpowiedz za dni kilka. Obserwowac TON odpowiedzi jako miernik jak hedzer ocenia sile Polnocy. || 298-11-11: Catelyn dala czytelnik Waldera z pierwszej reki (pamieta zniewagi; gardzi blagajacym szanuje potrzebujacego-wprost; cierpkosc=TEST sily) - uzbroic tym odpowiedz na jego kruka. || 298-11-11: Willa - kruk Waldera w drodze, lada dzien. Symon ma czytelnik od Catelyn gotowy (pamieta zniewagi/gardzi blagajacym-szanuje-potrzebujacego-wprost/cierpkosc=test). || 298-11-12 poludnie (rzut 9): odpowiedz Symona (klucz Catelyn) LADUJE CHLODNO - Walder odczytal ogolnik o honorze jako WYKRET, chcial KONKRETU (dlug mariazowy NAZWANY). Abonament Frey zdrozal/zmrozony o stopien. LEKCJA: wiernosc Freyow stoi na DLUGU nie slowie - list to zle narzedzie, trzeba CZYNU suwerena (konkretne dotrzymanie mariazu/naleznego). Frey = MINA nie mur dopoki dlug nienazwany."
   },
   {
    "id": "abonament_widocznej_sily_1106",
@@ -2100,6 +2100,12 @@
    "tytul": "Wczesne ostrzezenie - nastepny cel Gory (nieoslonete zagony/krawedz)",
    "status": "okno_otwarte_zweza_sie_lud_kryje_sam",
    "nota": "298-11-10 (smerdzi rzut 80): Gora skreca ku nieoslonietym zagonom/krawedzi zbierac i palic gdzie miekko. OKNO na przesuniecie tam lekkiej warstwy + uczciwego obwodu, ostrzezenie/ewakuacje wsi ZANIM dojdzie. Slowa smerdow -> ocalone wsie. NIE scigac Gory - wyprzedzic go w miejscu docelowym. || 298-11-11 poludnie (rzut 91): margines KRYJE SIE CZESCIOWO SAM - lud (slowo 'ludzie krola wyrywaja z lancucha') pierzcha na poglaske o rajderach; fundament tarczy slabych odbiera Gorze latwy lup. Symon MA JESZCZE OKNO na przesuniecie lekkiej warstwy (Gora wolniejszy) ale SIE ZWEZA - PILNE: ruszyc wkrotce."
+  },
+  {
+   "id": "dlug_freyow_doom_nic_1112",
+   "tytul": "Dlug Freyow (mariaz) - doom-nic, mina nie mur",
+   "status": "czerwony_do_robba",
+   "nota": "298-11-12 (rzut 9): wiernosc Waldera Freya stoi na DLUGU (mariazowym - Robb obiecany Freyownie) nie na sile ani slowie. Zywy drut. Symon (non-omniscient) czuje po raz pierwszy jako STRUKTURE ze to doom-nic: sojusznik ktorego wiernosc wisi na niedotrzymanym dlugu skwasnieje gdy dlug zlamany/zlekcewazony. Ogolniki go MROZ. DO ZROBIENIA: zaniesc Robbowi - Frey kupiony SPLATA nie slowem; dopilnowac by dlug mariazowy byl KONKRETNIE honorowany i NIGDY zlamany (to trigger skwasnienia); to jedyne co czyni Freya murem a nie mina. Priorytet: obserwowac i chronic ten dlug przed zlamaniem (zwlaszcza gdyby Robb mial go kiedy naruszyc)."
   }
  ]
 }

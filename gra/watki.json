@@ -2208,13 +2208,19 @@
    "id": "flota_rzeczna_pletwa_pisci_1117",
    "tytul": "Flota rzeczna dorzecza (plaskodenne: barki/galery/lodzie) - nogi reaktywnej piesci",
    "status": "UROSLA_POWAZNIE_realna_noga_piesci",
-   "nota": "Riverrun w widlach Kamiennego Nurtu i Czerwonego Ramienia. Plaskodenne, Tully robili to od pokolen. NIE oceaniczna armada (to osobne ziarno brzegowe/langskipy/Wyman ostrze-na-Wyspy). Rola: reaktywna piesc dostaje nogi - wojsko+zapasy suna Tridentem szybciej niz marsz, uderzenie amfibijne na cele przy brzegu, znikanie woda. Spina sie z siecia ostrzegania (siec wskazuje - flota dowozi piesc), dowozem zapasow Wymana w glab ladu, i cicho: obecnosc na wodzie kraju przez ktory plynie Zielone Ramie pod Blizniakami (NIE machac tym, ale miec). Umocnienie dorzecza rownolegle - procent skladany, wlasne zelazo, brak sufitu."
+   "nota": "Riverrun w widlach Kamiennego Nurtu i Czerwonego Ramienia. Plaskodenne, Tully robili to od pokolen. NIE oceaniczna armada (to osobne ziarno brzegowe/langskipy/Wyman ostrze-na-Wyspy). Rola: reaktywna piesc dostaje nogi - wojsko+zapasy suna Tridentem szybciej niz marsz, uderzenie amfibijne na cele przy brzegu, znikanie woda. Spina sie z siecia ostrzegania (siec wskazuje - flota dowozi piesc), dowozem zapasow Wymana w glab ladu, i cicho: obecnosc na wodzie kraju przez ktory plynie Zielone Ramie pod Blizniakami (NIE machac tym, ale miec). Umocnienie dorzecza rownolegle - procent skladany, wlasne zelazo, brak sufitu. || 1118: sternicy ucza sie plycizn/brodow/pradow, zaladunek sprawniejszy. Wpieta w SYSTEM zintegrowany (oczy-nogi-zeby)."
   },
   {
    "id": "kanal_reed_przesmyk_1118",
    "tytul": "Kanal Howland Reed / Krannogmeni Przesmyku - sciana pd + wywiad",
    "status": "ODPOWIEDZ_WYSLANA_przesmyk_wpiety",
    "nota": "1118: odpowiedz do Reeda. Krannogmeni=oczy+zatrute strzaly w bagnach, gardlo N-S sciana+pulapka. Siec wywiadu zwrocona na poludnie (ruchy z pd, cicho Zielone Ramie/Freyowie). Wiez Reed-Ned honorowana."
+  },
+  {
+   "id": "system_zintegrowany_oko_noga_zab_1118",
+   "tytul": "Zintegrowany system dorzecza: siec(oczy)+flota(nogi)+partyzantka(zeby)",
+   "status": "SPINA_SIE_dojrzala_reaktywna_piesc",
+   "nota": "1118 synteza: ZOBACZ PIERWSZY-PRZYBADZ NAJSZYBCIEJ-UGRYZ GDZIE MIEKKO-ROZPLYN SIE. Trening podjazdowy karmiony Krannogmenami (kanal Reeda). Cel: mniejsza sila panuje nad krajem rzek tempem nie sila. Doglad: sprawdzenie ze sygnal sieci dobiega do sternikow floty i trenowanych ludzi. Spina sie powoli ale spina. Organizacja rosnie (daleko do mistrzostwa, cegla po cegle)."
   }
  ]
 }

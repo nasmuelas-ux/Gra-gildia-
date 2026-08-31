@@ -2049,8 +2049,14 @@
   {
    "id": "budzacy_sie_rajd_trident_1108",
    "tytul": "Budzacy sie oddzial rajderow na Tridencie (czujnik zlapal wczesnie)",
-   "status": "obserwowany_czas_w_kieszeni",
-   "nota": "298-11-08 ranek (rzut 53): czujnik rzeczny zlapal oderwany oddzial konny ~kilkudziesieciu jezdzcow budzacy sie na srodkowym Tridencie, weszy ku pasowi spichlerzowemu. Niepotwierdzone czy Gora osobiscie czy podkomendny. Nie wiadomo czy zwietrzyli siec. Margines slepy (moga okrazyc w nie-obsiana krawedz). MAM CZAS (zapowiedziany ruch nie zaskoczenie): opcje w reku - zagnac wrazliwych smerdow z pasa za mury; ustawic reaktywna piesc blisko bez angazu (czekac na odsloniecie); barki rozdrobnione dalej. Petla oko->meldunek->decyzja przeszla pierwszy zywy test. DO DECYZJI gracza. || 298-11-08 poludnie (rzut 39): wrazliwi smerdzi+ziarno+stada zagnani za mury PRZED uderzeniem (ratunek dnia dzieki ostrzezeniu). Zostala garsc UPARTYCH przy otwartej bramie (nie na sile - granica Miry), warstwa druga czesciowo na traktach, margines slepy. Piesc blisko bez angazu. Oddzial wciaz sie rozgrzewa."
+   "status": "uderzyl_w_slepy_margines",
+   "nota": "298-11-08 ranek (rzut 53): czujnik rzeczny zlapal oderwany oddzial konny ~kilkudziesieciu jezdzcow budzacy sie na srodkowym Tridencie, weszy ku pasowi spichlerzowemu. Niepotwierdzone czy Gora osobiscie czy podkomendny. Nie wiadomo czy zwietrzyli siec. Margines slepy (moga okrazyc w nie-obsiana krawedz). MAM CZAS (zapowiedziany ruch nie zaskoczenie): opcje w reku - zagnac wrazliwych smerdow z pasa za mury; ustawic reaktywna piesc blisko bez angazu (czekac na odsloniecie); barki rozdrobnione dalej. Petla oko->meldunek->decyzja przeszla pierwszy zywy test. DO DECYZJI gracza. || 298-11-08 poludnie (rzut 39): wrazliwi smerdzi+ziarno+stada zagnani za mury PRZED uderzeniem (ratunek dnia dzieki ostrzezeniu). Zostala garsc UPARTYCH przy otwartej bramie (nie na sile - granica Miry), warstwa druga czesciowo na traktach, margines slepy. Piesc blisko bez angazu. Oddzial wciaz sie rozgrzewa. || 298-11-08 popoludnie (rzut 3): oddzial (weterani) NIE wszedl w bronona ziemie - skrecil w SLEPY MARGINES, spalil przysiolek poza siecia, wzial bydlo/zapasy, dosiegnal UPARTYCH co zostali mimo otwartej bramy. Piesc bezuzyteczna ale kapitan TRZYMAL regule (nie scigal w nieznane = ocalil piesc). Wies stracona, piesc ca3a. NAUKA: margines = droga ktora wrog wybiera; 'czekaj az sie odsloni' zawodzi gdy ma opcje bez odslaniania sie."
+  },
+  {
+   "id": "zamknac_slepy_margines_1108",
+   "tytul": "Zamknac/pre-ostrzegac slepy margines sieci",
+   "status": "pilny",
+   "nota": "298-11-08 (nauka z rzutu 3): wrog routuje wprost w dziure poza siecia. Doktryna 'kazdy cel zly' + 'czekaj na odsloniecie' NIEKOMPLETNA dopoki istnieje cel poza siecia (nie musi sie tam odslonic). DO ZROBIENIA: rozszerzyc pokrycie sieci na krawedzie ALBO przynajmniej pre-ostrzegac/ewakuowac marginesy (lekka warta, biegacze, umowione sygnaly) nawet bez pelnej piesci; przemyslec ruchoma warstwe zewnetrzna. Priorytet po stracie przysiolka."
   }
  ]
 }

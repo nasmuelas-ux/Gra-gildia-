@@ -2032,7 +2032,13 @@
    "id": "choroba_w_schronach_1107",
    "tytul": "Choroba w schronach konsolidacji - dlawiona w iskrze",
    "status": "pod_kontrola_krucha",
-   "nota": "298-11-07 (rzut 22): pierwsze kaszle/flux wsrod dzieci w najciasniejszym schronie, zlapane wczesnie (separacja chorych+rozrzedzenie). NIE wyleczone - zdlawione. Ryzyko rosnie jesli slota potrwa i opal sie skonczy. DO ZROBIENIA: uzupelnic suchy opal/drewno, utrzymac separacje, rozladowac ciasnote gdy pogoda pozwoli rozproszyc ludzi."
+   "nota": "298-11-07 (rzut 22): pierwsze kaszle/flux wsrod dzieci w najciasniejszym schronie, zlapane wczesnie (separacja chorych+rozrzedzenie). NIE wyleczone - zdlawione. Ryzyko rosnie jesli slota potrwa i opal sie skonczy. DO ZROBIENIA: uzupelnic suchy opal/drewno, utrzymac separacje, rozladowac ciasnote gdy pogoda pozwoli rozproszyc ludzi. || 298-11-07 wieczor (rzut 34): opal uzupelniony DORAZNIE z rezerwy Riverrun (przez Edmure'a) - choroba utrzymana pod pokrywka na najblizsze dni. Wegiel/torf z korytarza w drodze (wolno, trakty grzezna). Rickowane drewno schnie na jutro. Ryzyko wraca jesli slota potrwa dluzej niz zapas mostu."
+  },
+  {
+   "id": "opal_linia_strategiczna_1107",
+   "tytul": "Opal/drewno jako linia strategiczna (jak ziarno)",
+   "status": "otwarty",
+   "nota": "298-11-07: opal przestal byc tlem - konkuruje z fortyfikacja/kuchnia/zima, zima zaostrzy. Podniesiony do rangi ziarna w stopie wojny. DO ZBUDOWANIA: stala linia logistyczna opalu, warsztaty suszenia (rickowanie pod dachem), zabezpieczone zrodla (wegiel drzewny/torf z niespalonych holdow przez korytarz), rejestr zuzycia. Dlug wobec zimowej rezerwy Riverrun do oddania. Inaczej co slote triaz 'komu piec'."
   }
  ]
 }

@@ -2045,7 +2045,7 @@
    "id": "linia_zaopatrzenia_z_polnocy_1107",
    "tytul": "Linia zaopatrzenia z Polnocy (BP morzem+Trident barkami)",
    "status": "zalozona_gardlo_osloniete",
-   "nota": "298-11-07 (rzut 64): Wyman zgodzil sie - Polnoc kregoslupem zaopatrzenia kampanii (zboze/opal/wegiel/sol, morzem z BP + Trident barkami, korytarzem). Pierwsze ladunki organizowane, przybycie TYGODNIE. WARUNKI: [1] osloniec GARDLO na gornym/srodkowym Tridencie (lannisterczycy+ludzie Gory) - nie zrobic z konwoju 'obladowanego lupu' dla Gory; rozdrobnic+eskortowac, wpiac w siec. [2] Wyman da porcje nie spichlerz (wlasne geby+obrona przed zelaznymi). [3] glebsza zaleznosc od Manderlych = WYZSZA stawka Wylisa. [4] wzajemnosc dla Wymana: obrona BP + ruch w sprawie Wylisa. DO ZROBIENIA: zaprojektowac oslone rzeczna konwojow; policzyc realistyczna porcje z Wymanem; spiac z priorytetem Wylisa. || 298-11-07 wieczor (rzut 84): GARDLO Tridentu OSLONIETE - barki rozdrobnione/rozstawione, siec na podejscia do wody, oslony brzegowe+piesc na zwezeniach, depoty przeladunkowe; konwoj = zly interes dla Gory. Bonus: OCZY na srodkowy Trident (zwiad z osłony) + broniony konwoj = naturalna czysta przyneta (Gora ugryzie -> sam poda odsloniecie). System wchlania strate (jedna barka nie konwoj)."
+   "nota": "298-11-07 (rzut 64): Wyman zgodzil sie - Polnoc kregoslupem zaopatrzenia kampanii (zboze/opal/wegiel/sol, morzem z BP + Trident barkami, korytarzem). Pierwsze ladunki organizowane, przybycie TYGODNIE. WARUNKI: [1] osloniec GARDLO na gornym/srodkowym Tridencie (lannisterczycy+ludzie Gory) - nie zrobic z konwoju 'obladowanego lupu' dla Gory; rozdrobnic+eskortowac, wpiac w siec. [2] Wyman da porcje nie spichlerz (wlasne geby+obrona przed zelaznymi). [3] glebsza zaleznosc od Manderlych = WYZSZA stawka Wylisa. [4] wzajemnosc dla Wymana: obrona BP + ruch w sprawie Wylisa. DO ZROBIENIA: zaprojektowac oslone rzeczna konwojow; policzyc realistyczna porcje z Wymanem; spiac z priorytetem Wylisa. || 298-11-07 wieczor (rzut 84): GARDLO Tridentu OSLONIETE - barki rozdrobnione/rozstawione, siec na podejscia do wody, oslony brzegowe+piesc na zwezeniach, depoty przeladunkowe; konwoj = zly interes dla Gory. Bonus: OCZY na srodkowy Trident (zwiad z osłony) + broniony konwoj = naturalna czysta przyneta (Gora ugryzie -> sam poda odsloniecie). System wchlania strate (jedna barka nie konwoj). || 298-11-09: UWAGA - glowna os Gory celuje m.in. w PRZEPRAWE srodkowego Tridentu = bezposrednie zagrozenie gardla linii. Obrona gardla bedzie testowana prawdziwym ciosem nie sonda."
   },
   {
    "id": "budzacy_sie_rajd_trident_1108",
@@ -2074,8 +2074,14 @@
   {
    "id": "triaz_sieci_willi_priorytety_1109",
    "tytul": "Triaz sieci Willi - gdzie skupic oczy",
-   "status": "decyzja_otwarta",
-   "nota": "298-11-09: siec Willi rozciagnieta cienko, nie utrzyma wszystkich frontow na pelnej glebi. Kandydaci: [a] trop Aryi w Harrenhal (cieply, drogi, ryzykowny), [b] Wylis w Harrenhal (priorytet odzyskania, firewall od Aryi), [c] POLOZENIE SAMEGO Gory (dziura - robi cos wiekszego gdzie indziej), [d] hedzerowie Frey/Bolton, [e] gardlo Tridentu/konwoje, [f] wymiana. DO DECYZJI: priorytety sieci."
+   "status": "rozstrzygniety_gora",
+   "nota": "298-11-09: siec Willi rozciagnieta cienko, nie utrzyma wszystkich frontow na pelnej glebi. Kandydaci: [a] trop Aryi w Harrenhal (cieply, drogi, ryzykowny), [b] Wylis w Harrenhal (priorytet odzyskania, firewall od Aryi), [c] POLOZENIE SAMEGO Gory (dziura - robi cos wiekszego gdzie indziej), [d] hedzerowie Frey/Bolton, [e] gardlo Tridentu/konwoje, [f] wymiana. DO DECYZJI: priorytety sieci. || 298-11-09: DECYZJA - siec skupiona na polozeniu SAMEGO Gory (rzut 90). Oplacilo sie ZNAKOMICIE: zlapano ze przysiolek byl odwroceniem a Gora prowadzi glowna os w pelnej sile na serce. Cena: Arya+Wylis na plytko."
+  },
+  {
+   "id": "gora_glowna_os_serce_dorzecza_1109",
+   "tytul": "Gora - glowna os w PELNEJ SILE na pas spichlerzowy + przeprawe Tridentu",
+   "status": "PILNY_prawdziwy_cios_z_wyprzedzeniem",
+   "nota": "298-11-09 (rzut 90, siec Willi): przysiolek byl ODWROCENIEM UWAGI. Sam Gora prowadzi REALNA ARMIE RAJDERSKA (setki) z osia na PAS SPICHLERZOWY + PRZEPRAWE srodkowego Tridentu = ekonomiczna dekapitacja (wypalic spizarnie + podciac linie z Polnocy przed zima). Zgarnia smerdow w niewole ku Harrenhal. ZLAPANE Z WYPRZEDZENIEM (nie plonie jeszcze). Wymaga REALNEJ KONCENTRACJI obrony w wezle + Robb+Brynden - nie lekka warstwa. DO ZROBIENIA: zaniesc Robbowi/Bryndenowi jako prawdziwe zagrozenie; skoncentrowac obrone/piesc/rezerwy w wezle (belt+przeprawa); ostrzec pas; chronic przeprawe/linie. Firewall Aryi mimo Harrenhal."
   }
  ]
 }

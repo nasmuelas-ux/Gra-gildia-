@@ -2055,8 +2055,14 @@
   {
    "id": "zamknac_slepy_margines_1108",
    "tytul": "Zamknac/pre-ostrzegac slepy margines sieci",
-   "status": "pilny",
-   "nota": "298-11-08 (nauka z rzutu 3): wrog routuje wprost w dziure poza siecia. Doktryna 'kazdy cel zly' + 'czekaj na odsloniecie' NIEKOMPLETNA dopoki istnieje cel poza siecia (nie musi sie tam odslonic). DO ZROBIENIA: rozszerzyc pokrycie sieci na krawedzie ALBO przynajmniej pre-ostrzegac/ewakuowac marginesy (lekka warta, biegacze, umowione sygnaly) nawet bez pelnej piesci; przemyslec ruchoma warstwe zewnetrzna. Priorytet po stracie przysiolka."
+   "status": "uczciwy_obwod_zamiast_pelnego_pokrycia",
+   "nota": "298-11-08 (nauka z rzutu 3): wrog routuje wprost w dziure poza siecia. Doktryna 'kazdy cel zly' + 'czekaj na odsloniecie' NIEKOMPLETNA dopoki istnieje cel poza siecia (nie musi sie tam odslonic). DO ZROBIENIA: rozszerzyc pokrycie sieci na krawedzie ALBO przynajmniej pre-ostrzegac/ewakuowac marginesy (lekka warta, biegacze, umowione sygnaly) nawet bez pelnej piesci; przemyslec ruchoma warstwe zewnetrzna. Priorytet po stracie przysiolka. || 298-11-08 wieczor (rzut 7 - sufit arytmetyki): marginesu NIE DA SIE pokryc nawet cienko tym co jest (rece rozciagniete po rajdzie, obwod ogromny). Lekka warstwa poszla czesciowo/dziurawo. WNIOSEK: margines = krawedz utrzymywalnego, nie luka. Rozwiazanie = UCZCIWY OBWOD: rdzen bronony; waski pas ostrzegania na PODEJSCIACH do rdzenia; marginesowi PRAWDA (linia bezpieczna tu, poza nia nie umiemy - przejdzcie lub wiedzcie), wozy+brama bez obietnicy muru. Strategiczna kontrakcja: pulapka broni SERCA nie kazdego zagona (strefa ofiary za obwodem). DO PRZEMYSLENIA strukturalnie: wiecej ludzi / trwale sciagniecie wartosci do srodka / inna postawa - poza jedno popoludnie."
+  },
+  {
+   "id": "uczciwy_obwod_strefa_ofiary_1108",
+   "tytul": "Uczciwy obwod obrony - rdzen broniony, margines to strefa ofiary",
+   "status": "przyjety_gorzko",
+   "nota": "298-11-08: przyznane ze 'kraj-pulapka' broni RDZENIA Dorzecza nie calego. Obwod: rdzen (siec+piesc) / pas ostrzegania na podejsciach / margines = strefa ofiary z PRAWDA powiedziana smerdom (linia bezpieczna, otwarta brama, zadnej falszywej obietnicy). Koszt long-war przyjety swiadomie. Strukturalne domkniecie (wiecej ludzi / staly odwrot wartosci do srodka) na pozniej - poza mozliwosci jednego dnia. Zasada Miry na zewnatrz: nie oklamuj tych ktorych nie ocalisz."
   }
  ]
 }

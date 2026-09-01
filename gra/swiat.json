@@ -2,13 +2,13 @@
  "data": {
   "rok": 298,
   "miesiac": 12,
-  "dzien": 19,
+  "dzien": 25,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "lato (298)",
- "pogoda": 82,
- "dzien_tygodnia_nr": 4,
+ "pogoda": 69,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "nastroje_miasta": "298-10-14: NED STARK STRACONY - oficjalna wiesc dobiegla Riverrun: Eddard Stark sciety na schodach Septu Baelora rozkazem Joffreya (mimo spowiedzi). Dwor krola-w-polu w zalobie+furii. Wojna hartuje na smierc (koniec pokoju/wymiany). Jaime=z karty wymiany w obiekt zemsty (Symon musi oslonic cennego jenca). Wymiana Symona=za pozno (Ned juz martwy). Robb-Krol traci ojca. Symon przygotowany (dread od Bliznaikow=to bylo to) - byc skala. || 298-10-15: OFENSYWA underway - Polnoc rusza kampanie zaczepna w Dorzeczu, doskonale zaopatrzona przez system Symona (flotylla/rzeki/depoty); wojna KRÓLA biegnie na jego architekturze podazy (niezbednosc na szczycie); petla-podazy dyscyplinuje agresje (w granicach przezywalnych). Strategiczna pulapka (bitwy tak, wojna nie) zostaje - najedzona. || 298-10-22: LORD HOSTER TULLY UMIERA w Riverrun (dogorywa, rodzina czuwa, septon przy lozu). Zamek w cichej zalobie. Riverrun przejdzie do Edmure'a (pochopny). Catelyn traci ojca w tym samym miesiacu co meza (Ned). || 298-10-23: HOSTER TULLY NIE ZYJE (zmarl w nocy, we wlasnym lozu). Riverrun w zalobie - choragwie opuszczone, septon spiewa, czern. EDMURE TULLY obejmuje Dorzecze/Riverrun (rwacy/pochopny). Pogrzeb Tully (lodz na wodzie+plonaca strzala) dzis/jutro. Catelyn traci ojca w miesiacu w ktorym stracila Neda. || 298-10-29: BALON GREYJOY KROLEM WYSP ZELAZNYCH - zelazni bija zachodni brzeg Polnocy, tyly Krola w ogniu gdy host w Dorzeczu.",
  "ceny": {

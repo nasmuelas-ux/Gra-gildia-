@@ -36,6 +36,7 @@ Struktura/majątek Domu Handlowego ≠ majątek lenny ≠ kasa korony.
 - **Rewizorzy objazdowi** — raz w roku zderzają księgi filii z odpisami centrali; **podlegają wyłącznie lordowi** (omijają nawet DG). [BUDOWAĆ]
 - **Kurierzy domowi + krucznik** — własna poczta, **niezależna od Cytadeli** (suwerenność informacyjna). [Hal buduje]
 - **Wychowankowie** — chłopcy 12–14; ścieżka: kopista → faktor → zarządca filii → wspólnik; pod DG; **nigdy dostępu do tajnej księgi.** [Hal buduje]
+- **Rachmistrz reliefu** (w KAŻDYM oddziale) — odpowiada za redystrybucję jałmużny/pomocy dla biednych; wydziela ustaloną część z zysku filii i rozdziela ją w mieście (chleb/zima/wdowy). **Środki wyłącznie z Kasy 1 (kapitał domu) — nigdy z lenna ani ze Skarbu Północy.** To jałmużna Domu Tally, nie państwo. Prowadzi osobny rejestr reliefu, zderzany przez rewizorów. [NOWE 299-05-25]
 
 ### Kontrole (esencja: honor z otwartymi oczami w architekturze)
 Rozdział kasy od księgi · tajna księga (tylko rachmistrz + lord) · rewizorzy tylko-do-lorda · własna poczta poza Cytadelą.

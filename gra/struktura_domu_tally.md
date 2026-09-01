@@ -92,5 +92,31 @@ Zasada obsady: po wierności i kompetencji, nie po krwi; prześwietlać (Willa) 
 
 ---
 
+## VII. POZYCJONOWANIE — gdzie fizycznie siedzą struktury
+_Trzy bieguny + Namiestnik w ruchu._
+
+### FOSA CAILIN — siedziba rodu / brama Północy
+- **Lenno w całości:** Marszałek **Hendry** + garnizon/drużyna; Inżynier **Weylin**; Mistrz robót **Donnel**; Sędzia grodzki **Roderyk**; Celnik traktu **Garth** (przy bramie/grobli); estate officers po rekrutacji (Kapitan straży, Zbrojmistrz, Prowiantmistrz, Rządca dóbr, Poborca czynszów, Pisarz grodzki).
+- **Kasa 2 (dochód lenna)** pobierana i trzymana tu.
+- **Dom Handlowy:** siedziba prawna + pieczęć; rodzący się **węzeł lądowy** (myto, składy) → z czasem 2. hub operacyjny.
+- **Kancelaria Namiestnika:** BAZA — **Garrick** prowadzi urząd zza biurka, gdy Symon w ruchu.
+- **Sojusz Krannogmenów (Reed)** — Przesmyk wokół; brama+bagno = jedna zapora.
+
+### BIAŁY PORT — serce operacyjne handlu + dom rodziny
+- **Dom Handlowy — operacje (teraz):** **Hal** (DG), faktoria, składy, ramiona (kredyt/float/underwriting), **Beron** (notariusz), **Willa** (nerw informacyjny — przetwarza pocztę z filii; siedzi tam, gdzie zbiega się przepływ = BP, póki centrum operacyjne tutaj).
+- **Rachmistrz Tam + tajna księga:** przy żywych księgach = Biały Port (operacyjnie); odpis/pieczęć na Fosie. _(Migruje ku Fosie, gdy stanie się 2. hub.)_
+- **Nesta** — jej niezależny kantor (partner/rada).
+- **Rodzina:** Mira + Lyra + Rhona; kamieniczka przy Schodach (Bran + lokatorzy).
+
+### W RUCHU / DWÓR KRÓLA (Winterfell)
+- **Symon (Namiestnik)** kursuje: Fosa ↔ Biały Port ↔ Winterfell/dwór.
+- **Mobilny rdzeń przy osobie (max 3):** Kapitan przybocznych **Sten** + Pisarz **Aldwin** + Sekretarz **Harmon**.
+- **Skarb Północy (kasa 3)** — domena korony; przy dworze/Winterfell, administrowany przez Namiestnika, nigdy zmieszany z 1 i 2.
+
+### Zasada ruchu
+Symon rządzi **przez ludzi i sieci, nie z jednego krzesła**: Garrick trzyma urząd (Fosa), Hal trzyma handel (Biały Port), Hendry trzyma bramę (Fosa) — a Namiestnik jeździ tam, gdzie akurat jest najpotrzebniejszy, z mobilnym rdzeniem u boku. Poczta domowa (kurierzy + krucznik, poza Cytadelą) spina wszystkie trzy bieguny.
+
+---
+
 ## W TLE (dojrzewa)
 Diagnoza Nesty o „obcym srebrze" (braavijski rywal, ~10–15% forward-zboża) · program wychowanków + własna poczta (Hal) · odbudowa Fosy (pokoleniowa) · cień Boltona (obserwacja Willy — Dreadfort) · „prawdziwa zima nie jest porą roku" (szept Reeda) · gospodarka wolnej Północy (dzieło Namiestnika; suwerenna relacja Korony z Bankiem).

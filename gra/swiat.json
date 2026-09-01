@@ -1,16 +1,16 @@
 {
  "data": {
   "rok": 299,
-  "miesiac": 5,
-  "dzien": 26,
+  "miesiac": 6,
+  "dzien": 7,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "popoludnie",
  "sezon": "lato (298)",
- "pogoda": 23,
- "dzien_tygodnia_nr": 1,
+ "pogoda": 50,
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
- "nastroje_miasta": "298-10-14: NED STARK STRACONY - oficjalna wiesc dobiegla Riverrun: Eddard Stark sciety na schodach Septu Baelora rozkazem Joffreya (mimo spowiedzi). Dwor krola-w-polu w zalobie+furii. Wojna hartuje na smierc (koniec pokoju/wymiany). Jaime=z karty wymiany w obiekt zemsty (Symon musi oslonic cennego jenca). Wymiana Symona=za pozno (Ned juz martwy). Robb-Krol traci ojca. Symon przygotowany (dread od Bliznaikow=to bylo to) - byc skala. || 298-10-15: OFENSYWA underway - Polnoc rusza kampanie zaczepna w Dorzeczu, doskonale zaopatrzona przez system Symona (flotylla/rzeki/depoty); wojna KRÓLA biegnie na jego architekturze podazy (niezbednosc na szczycie); petla-podazy dyscyplinuje agresje (w granicach przezywalnych). Strategiczna pulapka (bitwy tak, wojna nie) zostaje - najedzona. || 298-10-22: LORD HOSTER TULLY UMIERA w Riverrun (dogorywa, rodzina czuwa, septon przy lozu). Zamek w cichej zalobie. Riverrun przejdzie do Edmure'a (pochopny). Catelyn traci ojca w tym samym miesiacu co meza (Ned). || 298-10-23: HOSTER TULLY NIE ZYJE (zmarl w nocy, we wlasnym lozu). Riverrun w zalobie - choragwie opuszczone, septon spiewa, czern. EDMURE TULLY obejmuje Dorzecze/Riverrun (rwacy/pochopny). Pogrzeb Tully (lodz na wodzie+plonaca strzala) dzis/jutro. Catelyn traci ojca w miesiacu w ktorym stracila Neda. || 298-10-29: BALON GREYJOY KROLEM WYSP ZELAZNYCH - zelazni bija zachodni brzeg Polnocy, tyly Krola w ogniu gdy host w Dorzeczu.",
+ "nastroje_miasta": "298-10-14: NED STARK STRACONY - oficjalna wiesc dobiegla Riverrun: Eddard Stark sciety na schodach Septu Baelora rozkazem Joffreya (mimo spowiedzi). Dwor krola-w-polu w zalobie+furii. Wojna hartuje na smierc (koniec pokoju/wymiany). Jaime=z karty wymiany w obiekt zemsty (Symon musi oslonic cennego jenca). Wymiana Symona=za pozno (Ned juz martwy). Robb-Krol traci ojca. Symon przygotowany (dread od Bliznaikow=to bylo to) - byc skala. || 298-10-15: OFENSYWA underway - Polnoc rusza kampanie zaczepna w Dorzeczu, doskonale zaopatrzona przez system Symona (flotylla/rzeki/depoty); wojna KRÓLA biegnie na jego architekturze podazy (niezbednosc na szczycie); petla-podazy dyscyplinuje agresje (w granicach przezywalnych). Strategiczna pulapka (bitwy tak, wojna nie) zostaje - najedzona. || 298-10-22: LORD HOSTER TULLY UMIERA w Riverrun (dogorywa, rodzina czuwa, septon przy lozu). Zamek w cichej zalobie. Riverrun przejdzie do Edmure'a (pochopny). Catelyn traci ojca w tym samym miesiacu co meza (Ned). || 298-10-23: HOSTER TULLY NIE ZYJE (zmarl w nocy, we wlasnym lozu). Riverrun w zalobie - choragwie opuszczone, septon spiewa, czern. EDMURE TULLY obejmuje Dorzecze/Riverrun (rwacy/pochopny). Pogrzeb Tully (lodz na wodzie+plonaca strzala) dzis/jutro. Catelyn traci ojca w miesiacu w ktorym stracila Neda. || 298-10-29: BALON GREYJOY KROLEM WYSP ZELAZNYCH - zelazni bija zachodni brzeg Polnocy, tyly Krola w ogniu gdy host w Dorzeczu. || 299-06-07: PRZYBYCIE DO WINTERFELL. Droga BP->Winterfell 11 dni (rzut 75 - dobra): Polnoc w glebi ZYWA (spichrze niepuste - dzielo prowiantowania Symona sieglo do garnkow przez wojenna zime), powracajacy zolnierze salutuja sztandarowi Tally, wioski przezyly. Nad Winterfell szary wilkor Starkow + znak wolnego koronowanego krolestwa. Symon staje u bram jako Namiestnik z torba spraw panstwa do Krola Robba.",
  "ceny": {
   "chleb": {
    "baza": 3,
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "mechanika_relief_finansowanie": "ZASADA (297-12-22, prosba gracza): Relief jest INSTYTUCJA WIARY z WLASNYM BUDZETEM (postac.json fundusz_reliefu_jel + srodki Septy). Koszty operacyjne reliefu (dowoz, porcje, trasy w mroz, doladowanie rezerwy) obciazaja TEN fundusz / jalmuzne septy - NIGDY prywatnej kasy Symona rutynowo. Symon placi z sakiewki TYLKO jako swiadomy EKSTRA osobisty datek. Fundusz zasilany: jalmuzna septy + koalicja godnych + odpis nadwyzki + historyczne zrodla. Ksiega osobna, podwojne oko (Symon+Wiara).",
  "wielki_targ": false,
- "lokacja_gracza": "Bialy Port (White Harbor) - dom Miry przy Schodach; powrot z wojny",
+ "lokacja_gracza": "Winterfell - u bram/przybycie (namiestnik z rodzina i eskorta); siedziba Krola Polnocy Robba",
  "zaplanowane_zdarzenia": [
   "298-~polowa/koniec sierpnia: POWROT 2. ambasady Fenna od Halvarda (wiecej wolumenu + ku wylacznosci; odprawa rzut 74 sklonna ku dobremu).",
   "298-08-01: DZIEN BILANSU (miesiac 07 na pelna skale - pergamin/wor Tama/kredyt/premium/arteria).",

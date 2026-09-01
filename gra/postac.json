@@ -8,7 +8,7 @@
  "mieszka": "ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE swoja kamieniczke przy Schodach (pierwsze wlasne lokum, od 297-04-04) jako WLASNOSC/DOCHOD: Bran dalej gospodarzy on-site, IZBA 4: dozorca Bran (23l) + zona Alys (od 09-06, dar Symona); lokatorzy Jonna(izba1)/Osric(izba2)/Hal(izba3), ogrodek, czynsze kapia. Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).",
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 44,
+ "sytosc": 48,
  "zmeczenie": 12,
  "sakiewka": {
   "miedziaki": 1,
@@ -651,5 +651,6 @@
   "zachod": "~10tys ZIELONYCH rekrutow Stafforda + garnizony Casterly Rock/Lannisport (Robb nie starl pod Oxcross - trzymany na wschodzie); zielen nie elita=miekkie podbrzusze, odsloniete na zelaznych/rajd/cios ekonomiczny",
   "harrenhal": "OGOLOCONE (Tywin zdjal sile na marsz do KP), cienko obsadzone",
   "wnioski": "bezposrednia grozba dla Polnocy NISKA (elita na dole konsoliduje, Reach nie rusza=MASZ CZAS); militarna cisza=czas Symona (Bank/4nici/prestiz pracuja); Zachod=miekkie podbrzusze (redirect Balona+szept o zlocie); zegar pozniejszy warunkowy (gdy Tywin skonsoliduje+JESLI Tyrellowie rusza wage). Lew wiekszy w blasku niz w polu."
- }
+ },
+ "skrzynia_wojenna_polnocy_nota": "299-01-06: znaczaco powiekszona lupami+okupami z Zachodu (2. kampania) - zloto z serca lwiego bogactwa; cios ekonomiczny wobec Zachodu."
 }

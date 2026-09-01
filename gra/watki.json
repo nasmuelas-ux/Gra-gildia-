@@ -2564,20 +2564,26 @@
   {
    "id": "budowa_panstwa_gospodarka_moneta_prawo_kadra_299_06",
    "tytul": "Budowa panstwa: gospodarka - wlasna moneta, prawo, kadra administracyjna",
-   "status": "MANDAT_KROLA_299-06-07",
+   "status": "PRIORYTET_START_299-06-07",
    "nota": "299-06-07: Symon polozyl przed Robbem fundament panstwowosci. (A) MONETA: Polnoc bez wlasnej mennicy, handel w naturze/cudzym srebrem - krol bez monety=na cudzej lasce; mennica polnocna=suwerennosc+narzedzie (BP/Manderly jedyne z finansowa wyrafinowaniem). (B) PRAWO: 'prawo'=drabina osob nie kodeks; sprawiedliwosc krola konczy sie na widzimisie lorda; panstwo potrzebuje prawa krolewskiego jednolitego ponad lokalnym. (C) KADRA: zero pisarzy panstwa poza pozyczanymi od maesterow -> patrz watek maesterow; potrzeba biurokracji (Symon hodował wlasna: wychowankowie/kancelaria). Robb: 'wygralem wojne, a ty mowisz ze wojna byla latwiejsza'. MANDAT: buduj krolestwo (moneta/prawo/kadra) - dzielo lat nie rady."
   },
   {
    "id": "budowa_panstwa_maesterowie_wlasna_zdolnosc_299_06",
    "tytul": "Budowa panstwa: nieufnosc maesterow + zaleznosc od Cytadeli -> wlasna zdolnosc Polnocy",
-   "status": "MANDAT_KROLA_299-06-07",
-   "nota": "299-06-07: Lancuch sluzy CYTADELI/'ciaglosci krolestw' nie Robbowi; maesterowie krzywo na wylamane panstwo. Polnoc zalezna: pismo/rachunki/medycyna i KRUKI (nerwy panstwa!) plyna przez ludzi przysieglych instytucji w Starym Miescie - teraz OBCE poludnie. Wolne panstwo z ukladem nerwowym w cudzych rekach=slepe/gluche gdy Cytadela zechce. POTRZEBA: wlasna zdolnosc Polnocy (swoi piszacy/liczacy/leczacy, wlasna siec krukow, polnocna instytucja wiedzy niezalezna od Cytadeli) - dzielo pokolen, egzystencjalne. Symon=zywy dowod (lowborn co czyta/pisze/buduje wlasna poczte poza Cytadela). MANDAT Krola."
+   "status": "PRIORYTET_START_299-06-07",
+   "nota": "299-06-07: Lancuch sluzy CYTADELI/'ciaglosci krolestw' nie Robbowi; maesterowie krzywo na wylamane panstwo. Polnoc zalezna: pismo/rachunki/medycyna i KRUKI (nerwy panstwa!) plyna przez ludzi przysieglych instytucji w Starym Miescie - teraz OBCE poludnie. Wolne panstwo z ukladem nerwowym w cudzych rekach=slepe/gluche gdy Cytadela zechce. POTRZEBA: wlasna zdolnosc Polnocy (swoi piszacy/liczacy/leczacy, wlasna siec krukow, polnocna instytucja wiedzy niezalezna od Cytadeli) - dzielo pokolen, egzystencjalne. Symon=zywy dowod (lowborn co czyta/pisze/buduje wlasna poczte poza Cytadela). MANDAT Krola. || 299-06-07 START WYBRANY: Symon zaczyna budowe panstwa OD KADRY I WLASNYCH MAESTEROW ('reszta na tym stoi'). TRZY DZWIGNIE naraz: (1) SZKOLA - poszerzyc pipeline wychowankow w kuznie piszacych/liczacych; lowic lowbornow przeoczonych przez Cytadele (jak Symon). (2) LUDZIE JUZ POSADZENI - maesterowie w polnocnych zamkach sercem przy swoim murze; poznac i przeciagnac ku Polnocy po jednym. (3) GLOWA=maester THEOMORE (mentor Symona, historia/statecraft, mysli o dobru calosci, postawil na lowborna) = kamien wegielny polnocnej nauki. Robb: mandat+pieczec na wszystko troje; 'gdy bedziesz mial pierwszych wlasnych piszacych sluzacych Polnocy - wybijemy razem pierwsza monete' (moneta CZEKA na kadre)."
   },
   {
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
    "nota": "299-06-07: plansza sie nie zatrzymala po zwyciestwie. Lew zlamany nie martwy; Stannis za miedza; Dolina w strachu Lysy; Balon na morzu; Reach zyczliwy (Olenna/handel zbozem); Dorne z ukryta karta (Targaryen?); Reed szepcze o 'prawdziwej zimie'. Potrzeba STALEGO przegladu - raporty z calego krolestwa i zza granic, by wolne panstwo nie bylo slepe. Zrodla: Willa (wywiad), maester dworu (kruki), Symon sklada obraz. Wiaze sie z watkiem maesterow (wlasne kruki) i luka szpiegmistrza. MANDAT Krola."
+  },
+  {
+   "id": "przystan_wilka_bialy_noz_umocnienie_299_06",
+   "tytul": "Przystan Wilka - umocnienie gornego Bialego Noza (baszta+przystan pod sztandarem Tally, imie Wilka)",
+   "status": "kierunek_dany_na_projekt/rade",
+   "nota": "299-06-07 WINTERFELL: Symon konsoliduje - umocnienie GORNEGO Bialego Noza (arteria BP<->Winterfell, oddech Polnocy). Warowna baszta z CERWYNAMI + korona (dawny watek) + PRZYSTAN (projekt zaczety przez Wymana) wziete POD SZTANDAR TALLY, dokonczone jako namiestnik. NAZWA: 'PRZYSTAN WILKA' - nie od siebie (nie 'Port Tally'), lecz dar imienia dla Wilka/wolnej Polnocy (doktryna: ciezar biore, chwale oddaje). Robb: bierze; da slowo Cerwynowi; 'twoj sztandar nad robota, moje imie na bramie'. Wiaze: korytarz backhaul BP-Winterfell, 2. port/hub Polnocy, obrona arterii. Na projekt/rade."
   }
  ]
 }

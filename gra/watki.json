@@ -2314,6 +2314,12 @@
    "tytul": "Horyzont: dziedziczka Smoka na wschodzie (plotka o smokach, WRACA)",
    "status": "OZNACZONY_plotka_nie_fakt_wildcard_do_obserwacji",
    "nota": "1128 (rzut 36): strzepy z Braavos/Wolnych Miast - ostatnia Targaryenka daleko na wschodzie (Qarth), szept o SMOKACH (dziki, powazni machaja reka). Plotka nie fakt ALE 'nie gaśnie' (opowiesci o wygnancach zwykle gasna, ta wraca). Symon odklada na horyzont oznaczone (czynnik zewnetrzny wywraca wage w noc - Aegon+smoki). Nie dziala; obserwuje. Willa dalej nasluchuje."
+  },
+  {
+   "id": "plan_kampania_westerland_pincer_1128",
+   "tytul": "Plan: kampania na Westerland (rajd-w-sile Blackfish+Edmure) + umocniony srodek pod Robbem",
+   "status": "PRZYKRECONY_przez_Blackfisha_AWAITING_confirmation_gracza_do_odpalenia",
+   "nota": "1128 (narada z Blackfishem, plan gracza): 15tys wschod z Robbem umacnia dorzecze (rozbudowa inz-taktyczna rekami Boltonow=hedzer z lopata pod okiem); druga czesc rdzen lojalny+Tully na WESTERLAND pod Blackfishem(Edmure pod nim). Cel: sciagnac Tywina do domu (Zachod broni zielen Stafforda+garnizony), peknięcia, moze zelazni na Lannisport. 5 SRUB Blackfisha: [1] Blackfish prowadzi/Edmure pod nim (impulsywnosc). [2] nie ogalacac srodka (15tys musi utrzymac). [3] RAJD-W-SILE nie podboj (krwawic/sciagnac/WYJSC zanim elita wroci; bad business+do domu). [4] hedzerowie: masa Boltona WSCHOD z lopata rozproszona pod okiem krola (odbiera 3 warunki zdrady), Roose przy Robbie, na zachod RDZEN LOJALNY nie Bolton, Freyow rozcienczyc; droga z Riverrun na zachod nie przez Bliznaki. [5] nie liczyc na zelaznych (bonus nie filar). AWAITING: confirmation gracza -> rzut na kampanie."
   }
  ]
 }

@@ -68,6 +68,26 @@ _Administracja osobna od Domu Handlowego._
 ### Sojusz Przesmyku
 **Krannogmeni (Howland Reed)** — brama + bagno = jedna zapora; prawdziwy garnizon Przesmyku (sojusz, nie poddani).
 
+### STAN LENNA — 299-05-25 (administracja W KOMPLECIE)
+**Geografia (wg mapy gracza — źródło prawdy):** Fosa Cailin leży w Północy, na **trakcie królewskim**, u północnego krańca **grobli przez Przesmyk**; ziemia Starków → nadana Tally; **NIE** przy Bliźniakach (osobna zachodnia przeprawa Freyów). **Włość Tally = twierdza + pas grobli + pogranicze wokół** (wsie, torfowiska, połów, przewóz, ruch traktu) — REALNA ziemia, nie „cienkie nic". **Głęboki Przesmyk = ziemia Krannogmenów/Reeda** (sojusz, nie poddani). _(Dokładne granice/obiekty — do dopasowania, gdy gracz ponownie prześle mapę.)_
+
+**Administracja (obsadzona):**
+- Marszałek fortecy: **HENDRY** (zastępuje lorda pod nieobecność)
+- Kapitan straży + Zbrojmistrz: awans z drużyny (przez Hendry'ego)
+- Prowiantmistrz garnizonu: ręka z wojennej podaży (osobno od spiżarni domowej i Domu Handlowego)
+- Inżynier zamkowy: **WEYLIN** (woda/dreny/śluzy/zapasy) · Mistrz robót: **DONNEL**
+- Rządca dóbr: **mistrz WARRYN** (marcher z krawędzi Przesmyku; pomost do Krannogmenów)
+- Poborca czynszów + Pisarz grodzki: uczciwi miejscowi (Garrick/Willa wetują)
+- Sędzia grodzki: **mistrz RODERYK** (nigdy krewny lorda) · Celnik traktu: **GARTH** (do zapytania)
+
+**Ludność:** ~300–450 poddanych, rozproszeni (rybacy, kopacze torfu, traperzy, przewoźnicy, garść przy bramie).
+
+**Ekonomia / produkcja:** torf (opał, eksport), ryba/ptactwo, trzcina, futra/skóry, żelazo bagienne. **ZERO zboża** — import (zboże Olenny w beczki warzelni). **Skarb prawdziwy = PRZEJŚCIE:** cła/myto/prowiantowanie ruchu traktu przez groblę → **Kasa 2 (dochód lenna)**.
+
+**Odbudowa:** z 20 wież stoją 3; **Wieża Bramna mieszkalna = siedziba**; brama działa i broniona; plan pokoleniowy Donnela; Weylin domyka wodę. Dowóz + zboże płyną, brama zaczyna zarabiać. NA TORZE (projekt pokoleniowy).
+
+**Intencje / pending (zanotowane, nie rozpoczęte):** potwierdzić Gartha (Celnik); **traktat z Reedem** (Przesmyk partnersko, nie rządca nad Krannogmenami); **warowna baszta** na Białym Nożu (z Cerwynami + korona); **pomoc Wymana** przy odbudowie (kamień/cieśle/drewno/kile — warunki do policzenia); **trakt Fosa–Biały Port** (pokoleniowy).
+
 ---
 
 ## IV. KANCELARIA NAMIESTNIKA (domena korony; osobna od domu i lenna)

@@ -2217,7 +2217,7 @@
    "id": "kanal_reed_przesmyk_1118",
    "tytul": "Kanal Howland Reed / Krannogmeni Przesmyku - sciana pd + wywiad",
    "status": "ODPOWIEDZ_WYSLANA_przesmyk_wpiety",
-   "nota": "1118: odpowiedz do Reeda. Krannogmeni=oczy+zatrute strzaly w bagnach, gardlo N-S sciana+pulapka. Siec wywiadu zwrocona na poludnie (ruchy z pd, cicho Zielone Ramie/Freyowie). Wiez Reed-Ned honorowana."
+   "nota": "1118: odpowiedz do Reeda. Krannogmeni=oczy+zatrute strzaly w bagnach, gardlo N-S sciana+pulapka. Siec wywiadu zwrocona na poludnie (ruchy z pd, cicho Zielone Ramie/Freyowie). Wiez Reed-Ned honorowana. || 1127: Reed/Krannogmeni staja sie PARTNERAMI odbudowy Fosy Cailin (bez nich w Przesmyku kamienia nie postawisz; z nimi twierdza+mokradla=jedna zapora nie do przejscia). Kanal Reeda + Fosa = poludniowa brama Polnocy zamknieta na glucho."
   },
   {
    "id": "system_zintegrowany_oko_noga_zab_1118",
@@ -2262,10 +2262,10 @@
    "nota": "1127: Robb nadaje po uwolnieniu Aryi. LORD z wlasnym nazwiskiem+siedziba (Dom Tally wzniesiony za zycia nie odziedziczony) + rola 'trzyma monete i zaopatrzenie calej Polnocy' (geniusz Symona + front ekonomiczny wygrywajacy wojne). Symon przyjmuje jako BUDOWNICZY (realna wladza z nadania + cichy fach RAZEM; wzor Targaryenow/Baelor Breakspear), nie standardowy pan. RYZYKO: karmi szmer-niechec/zawisc, cel dla dumnych, test charakteru; tarcza=Robb+nieskazitelnosc. DO DOPRECYZOWANIA: gdzie siedziba (Polnoc/dorzecze), ksztalt urzedu. || 1127 DOPRECYZOWANIE: Symon woli NAMIESTNIKA/Reke Krola (rola i tak pelniona, niech ma imie+prawo by budowac). ZIEMIA: wschodnie wybrzeze/dobra zatoka -> DRUGIE MIASTO-PORT Polnocy (Polnoc ma 1 port=slabosc; dzielo karmiace zlotem dlugo po nim; Dom Tally=port od kamienia nie herb). KOLEJNOSC (rada Catelyn): najpierw lord+ziemia+port (uprawomocnia), POTEM reka gdy lordowie przywykna. HACZYK: WYMAN - drugi port budowac Z Manderly (partnerstwo/komplementarnosc), nie przeciw patronowi. Do rozegrania: blogoslawienstwo Wymana, wybor zatoki/miejsca."
   },
   {
-   "id": "port_miasto_dom_tally_wschod_1127",
-   "tytul": "Projekt: drugie miasto-port Polnocy na wschodnim wybrzezu (siedziba Domu Tally)",
-   "status": "KONCEPCJA_do_rozpoczecia_wymaga_blogoslawienstwa_Wymana+wyboru_zatoki",
-   "nota": "1127: wizja Symona jako budowniczego - Polnoc ma 1 liczacy sie port (Bialy Port)=slabosc gospodarcza (bez portow=bez handlu=bez zlota). Drugie miasto-port = rozwoj gospodarczy Polnocy + legacy + fundament Domu Tally (port od kamienia nie herb na wiezy) + sluzy frontowi ekonomicznemu wojny. WYMAGA: (1) blogoslawienstwo+partnerstwo Wymana/Manderly (komplementarnie NIE rywal Bialego Portu - inaczej podmywa patrona), (2) wybor miejsca (wschodnie wybrzeze, dobra naturalna zatoka), (3) czas (projekt pokoleniowy, 'twardnieje przez lata'). Splata sie z: elewacja, cel ekonomiczny anty-Lann, ideal Baelor Breakspear/budowanie dobra."
+   "id": "odbudowa_fosy_cailin_dom_tally_1127",
+   "tytul": "Odbudowa Fosy Cailin (siedziba Domu Tally) - brama Polnocy: twierdza + wezel gospodarczy",
+   "status": "NADANA_przez_Robba_koncepcja_do_rozpoczecia_partner_Reed",
+   "nota": "1127 (rewizja z portu wschodniego): Robb NADAJE Symonowi Fose Cailin. Dzis ruina (kilka wiez w bagnie) ale BRAMA POLNOCY - jedyna droga ladowa pd-pn przez groble; odbudowana=garsc zatrzyma armie. WIZJA: swietlana twierdza + WEZEL GOSPODARCZY (caly handel ladowy pn-pd przez brame=cla/zloto+kontrola). STRATEGIA: = SCIANA niepodleglosci (czyni Blizniaki/smycz Freyow niewaznymi - Fosa prawdziwa brama nie ich most; zlamie poludniowa wage o groble); 3 nogi niezaleznosci z historii (sciana=Fosa, jednosc=Reed/Polnoc, chwila=teraz). PARTNER: Reed/Krannogmeni (bez nich w Przesmyku kamienia nie postawisz; z nimi twierdza+mokradla=jedna zapora). KOMPLEMENTARNE z Bialym Portem (lad vs morze) - haczyk Wymana znika. SKALA: projekt pokoleniowy (bagno, ruina, trudny grunt) ale fortyfikacja strategiczna moze ruszyc znaczaco. Robb: 'zamknij nasz dom na klucz, klucz trzymaj ty'."
   }
  ]
 }

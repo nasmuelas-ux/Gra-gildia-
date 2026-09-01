@@ -613,5 +613,19 @@
  },
  "role_urzedy": {
   "prowiantmistrz_manderlych": "298-09-01 (nat-100): PROWIANTMISTRZ ZAOPATRZENIA MANDERLYCH NA CZAS WOJNY - warrant lorda Wymana, jego glos/kredyt/pieczec. Karmi wojsko+port, buduje zapas; rozlicza sie tylko przed Wymanem. Jawny urzad = pelna oslona ruchu zboza (firewall: ciemna rezerwa znika pod jawnym). Strategia: buy-ahead w oknie przedrogowym kanalami cichymi; petla samofinansujaca (zboze spolki->musztera->kredyt->buy-ahead->kontrakty wojny)."
+ },
+ "przysiega_feudalna": {
+  "data": "298-11-27",
+  "miejsce": "bozogaj, serce-drzewo, centrum dorzecza",
+  "swiadkowie": [
+   "Robb Stark (Krol Polnocy)",
+   "Lady Catelyn",
+   "Brynden Blackfish",
+   "Szary Wicher"
+  ],
+  "forma": "wzajemna (commendatio - dlonie wasala w dloniach seniora); na stare bogi i nowe",
+  "slub_symona": "Wiara Domowi Stark i Krolowi; miecz+glowa, rada+milczenie w wojnie i pokoju od tego dnia po ostatni; strzec tajemnic i trzymac brame; mowic prawde choc ciela, nie schlebiac/nie milczec ze strachu; byc BRAMA nie panem - oslonic slabych, zbudowac co przetrwa, uczynic z Fosy Cailin sciane za ktora Polnoc wolna. Jesli zlamie - niech bogowie i ludzie powala, nazwisko zgasnie.",
+  "slub_robba": "Przyjmuje przysiege, bierze za zaprzysiezonego lorda; nadaje: Symon Lord Tally pierwszy swojego imienia, pan na Fosie Cailin, straznik bramy Polnocy; ziemie tobie i krwi by trzymac/budowac poki dochowujesz wiary; w zamian ochrona Domu Stark - miecz w obronie, sprawiedliwosc dla prawa, wiara za wiare; kto podniesie reke na ciebie - na Winterfell.",
+  "pieczec": "Szary Wicher leb u kolana (namaszczenie Polnocy, callback bozogaj); Blackfish: 'Zaprzysiezone przed drzewem, widzialy stare bogi, niech tak trwa'."
  }
 }

@@ -641,7 +641,25 @@
   "pole": "pomaranczowe (cieple swiatlo - swieca skryby/ognisko schronu/swit; NIE zimne zloto Lannisterow)",
   "zawolanie": "Plomien i pioro",
   "znaczenie": "PLOMIEN=ogien co grzeje/swieci nie pali (oslona slabych, zar woli pod cierpliwoscia). PIORO=slowo+rachunek+prawda na karcie (imie Tally, bron co odwraca losy nie dobywajac stali). Dom SWIATLA I SLOWA nie miecza - ogrzewa+zapisuje, cieplo slabym+prawda moznym.",
-  "data": "298-11-27"
+  "data": "298-11-27",
+  "barwy": {
+   "glowne": "PLOMIENNY POMARANCZ (pole/plomien - cieple swiatlo) + BIEL (pioro/prawda). Akcent, nie zloto.",
+   "praktyczne": "CIEMNY BRAZ skory + wyszarzana STAL jako tlo (mundur w polu nie krzyczy; pomarancz jest znakiem, nie calym strojem)",
+   "zasada": "pomarancz+biel = znak rozpoznawczy; ciemna baza = dyscyplina/praktyka. 'Poznasz ich po porzadku, nie po blasku' (doktryna: dom swiatla i slowa, nie przepychu)."
+  },
+  "sztandary_i_flagi": {
+   "wielki_sztandar": "pomaranczowe pole, posrodku biale pioro i jezyk zywego ognia obok siebie (herb wprost) - na zamek/Fose/dom",
+   "proporzec_bojowy": "waski pomaranczowo-bialy jezdziecki/pieszy - samo pioro+plomien; nad druzyna",
+   "flaga_domu_handlowego": "ten sam znak, mniejsza, na maszty faktorii i statkow oraz nad filiami - dom handlowy niesie te sama tozsamosc co rod",
+   "wykonanie": "Mira przygotowuje (jej kontakty sukiennicze/hafciarskie w Bialym Porcie); pierwsza partia = sztandar na Fose + proporce dla przybocznych"
+  },
+  "mundur_i_uzbrojenie_druzyny": {
+   "charakter": "druzyna ochronno-eskortowa, rdzen lojalny/karny/dyskretny (~100-150 docelowo), NIE ciezka piechota - lekka, ruchliwa, obronna",
+   "mundur": "baza ciemna (brazowa skora/hartowany kaftan/wyszarzana stal); znak rozpoznawczy = pomaranczowy tabard/szarfa z bialym piorem-plomieniem na piersi; plaszcze z pomaranczowa podszewka/otokiem (widoczne gdy trzeba, skromne gdy nie)",
+   "oficerowie": "kapitan (Sten) i dowodcy: dodatkowo pomaranczowy kolnierz/naramiennik dla rozpoznania w tlumie",
+   "uzbrojenie": "dobra stal BEZ zlocenia; miecze jednoreczne/kordy + okragle tarcze z piorem-plomieniem; kusze (dyscyplina dystansu); lekkie kolczugi/brygantyny pod tabardami; konni zwiadowcy lekko",
+   "data": "299-05-25"
+  }
  },
  "rachunek_sil_1128": {
   "data": "298-11-28",

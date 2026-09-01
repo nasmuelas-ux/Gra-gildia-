@@ -680,5 +680,30 @@
  "skrzynia_wojenna_polnocy_nota": "299-01-06: znaczaco powiekszona lupami+okupami z Zachodu (2. kampania) - zloto z serca lwiego bogactwa; cios ekonomiczny wobec Zachodu.",
  "draw_kantor_zaliczka_jel": 400,
  "majatek_netto_audyt_299_05_jel": 1815,
- "netto_mies_299_05_jel": 120
+ "netto_mies_299_05_jel": 120,
+ "bilans_trzy_kasy_299_06_10": {
+  "data": "299-06-10",
+  "kasa1_dom_tally": {
+   "kapital_netto_baza_jel": 1815,
+   "przy_sobie_jel": 495,
+   "zaliczka_kantor_jel": 400,
+   "pozyczka_zabezpieczona_out_jel": 50,
+   "weksle_out_jel": 0,
+   "ramiona_stabilne": "faktoria Nesty, mlyn, papiernia (Wat), kamieniczka Schody (czynsze), ramie finansowe (weksle/underwriting)",
+   "ramiona_rosnace": "atelier (Mira, odpalane po wojnie=przyszla gorka, 0 teraz), faktoria essoska/Braavos (rodzi sie przez Nesta)",
+   "pivot": "ramie PROWIANTOWE (silnik wojenny) KURCZY sie drastycznie po wojnie (brak hostu); siec konwertuje na handel pokojowy (wolniejszy). Doszedl NARZUT (pensje kadry Hal/Tam/kasjer/rachmistrz reliefu/filie + RELIEF=odplyw z Kasy1).",
+   "netto_mies": "bylo ~120 jel; TERAZ w przejsciu (silnik wojenny gasnie, pokojowe jeszcze nie na obrotach) = przejsciowy DOLEK potem odbicie (atelier/Braavos/korytarz/hub Przystani Wilka). Baza majatku mocna, miks przychodu sie przestawia."
+  },
+  "kasa2_lenno_fosa": {
+   "stan": "FAZA INWESTYCJI nie zniwa - kosztuje wiecej niz daje (wojenna ruina dzwigana). Bilans teraz ~0/na minusie.",
+   "dane_warryna": "bezrolni osiedlani (potrzebuja ziarna/narzedzi=wydatek), ziemia wraca do uprawy, daniny minimalne.",
+   "przyszle_zrodla": "MYTO z grobli/Przesmyku (Fosa trzyma brame Polnocy=naturalny pobor), daniny osadnikow, hub Przystani Wilka, rolnictwo w odbudowie. Zwroci sie z czasem."
+  },
+  "kasa3_skarb_polnocy": {
+   "stan": "PRAWIE NIE ISTNIEJE - krolestwo ubogie w monete (gospodarka w naturze), bez mennicy, bez Skarbnika (Nesta pending, tytularny nieznaleziony). 'Skarb'=daniny w naturze + pusty trzos w srebrze.",
+   "pierwsze_liczby": "powstana gdy stana mennica (Nesta-architekt)+Skarbnik, a Justycjariusz/Marszalkowie zaczna egzekwowac danine porzadkiem.",
+   "zasada": "Kasa 3 NIGDY z Kasa 1 i 2. Szkola/Przystan Wilka finansowane z KASY 1 (kiesa Symona), NIE ze skarbu Krola. Rozdzial swiety."
+  },
+  "podsumowanie": "Dom stoi mocno ale przestawia silnik wojna->pokoj (dolek->wzrost); Lenno=inwestycja (dzis kosztuje, zwroci sie mytem/osadnikami/hubem); Krolestwo finansowo dopiero sie rodzi (brak bilansu - fundamenty: mennica/Skarbnik/danina w budowie)."
+ }
 }

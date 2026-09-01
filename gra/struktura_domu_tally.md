@@ -69,7 +69,7 @@ _Administracja osobna od Domu Handlowego._
 **Krannogmeni (Howland Reed)** — brama + bagno = jedna zapora; prawdziwy garnizon Przesmyku (sojusz, nie poddani).
 
 ### STAN LENNA — 299-05-25 (administracja W KOMPLECIE)
-**Geografia (wg mapy gracza — źródło prawdy):** Fosa Cailin leży w Północy, na **trakcie królewskim**, u północnego krańca **grobli przez Przesmyk**; ziemia Starków → nadana Tally; **NIE** przy Bliźniakach (osobna zachodnia przeprawa Freyów). **Włość Tally = twierdza + pas grobli + pogranicze wokół** (wsie, torfowiska, połów, przewóz, ruch traktu) — REALNA ziemia, nie „cienkie nic". **Głęboki Przesmyk = ziemia Krannogmenów/Reeda** (sojusz, nie poddani). _(Dokładne granice/obiekty — do dopasowania, gdy gracz ponownie prześle mapę.)_
+**Geografia (wg mapy gracza — źródło prawdy):** Fosa Cailin leży w Północy, na **trakcie królewskim**, u północnego krańca **grobli przez Przesmyk**; ziemia Starków → nadana Tally; **NIE** przy Bliźniakach (osobna zachodnia przeprawa Freyów). **Włość Tally = twierdza + pas grobli + pogranicze wokół** (wsie, torfowiska, połów, przewóz, ruch traktu) — REALNA ziemia, nie „cienkie nic". **Głęboki Przesmyk = ziemia Krannogmenów/Reeda** (sojusz, nie poddani). **Wg mapy gracza:** „MOAT CAILIN LANDS" to OSOBNE, obrysowane terytorium (nie cienki pas) — brama Północy na trakcie królewskim u pn krańca Przesmyku. SĄSIEDZI: **Reed** (płd, Przesmyk — sojusznik) · **Manderly** (wsch, Biały Port — patron) · **Dustin** (zach, Barrowlandy) + dalej Ryswell. Trakt Fosa–Biały Port biegłby na wsch przez ziemie Manderlych (spina włość z portem).
 
 **Administracja (obsadzona):**
 - Marszałek fortecy: **HENDRY** (zastępuje lorda pod nieobecność)

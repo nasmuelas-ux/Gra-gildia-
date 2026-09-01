@@ -115,5 +115,25 @@
   "rada_dzisiejsza": "Feudalna RADA WOJENNA (Krol+Catelyn+maester+wielcy chorazowie=LORDZI nie urzednicy). To symptom ulomnosci nazwanej 06-07: krol bez panstwa, korona bez ministrow.",
   "reforma_symona": "Budowa RADY FUNKCYJNEJ: Reka/Namiestnik (jest) + Justycjariusz + Skarbnik + Marszal pod Reka - pierwszenstwo z URZEDU/mandatu nie z krwi. Klucz: rada krwi umiera gdy miecze nierowne; rada urzedu trwa. (odpowiedz na wyzwanie Karstarka 06-08).",
   "data": "299-06-08"
+ },
+ "przeglad_stanu_krolestwa_299_06_08": {
+  "data": "299-06-08",
+  "wewnetrzna": {
+   "korona_ziemie": "Robb Krol Polnocy I DORZECZA (Trident=rozlegly zyzny ale odslonjety na poludnie brzuch; wojna zaorala Dorzecze). Konstytucja Dorzecza (czesc Krolestwa czy Tully pod Robbem) DO DOPIECIA.",
+   "spojnosc": "Rdzen trzyma (Glover/Cerwyn/Mormont/Umber). Hedzerzy wierni bo wygrywasz: Frey (pakt->wesele, defused), Bolton (Roose zimny, Dreadfort, Willa czuwa), Barrowlands (Dustin/Ryswell ku Dreadfort - cien). Karstark duma zraniona 06-08.",
+   "gospodarka": "bogata w ziemie/glodna monety (barter, brak mennicy/prawa/kadry=fundament budowany). Slaby punkt: zboze (obce srebro - Willa+Nesta tropia).",
+   "nerwy": "pismo/rachunki/kruki w rekach maesterow Cytadeli (obce poludnie) -> priorytet wlasna kadra.",
+   "zima": "Reed: 'prawdziwa zima' - egzystencjalne tlo calego rachunku."
+  },
+  "zewnetrzna": {
+   "lannister_tron": "zlamany nie martwy - Joffrey zdelegitymizowany, Tywin zmuszony do pokoju, skarb w gruzach (Bank przechylony), Sansa odzyskana. Pokoj uznal niezaleznosc ALE traktaty odzywaja gdy wraca sila; Tywin nie zapomina.",
+   "stannis": "sasiad (Smocza Skala), zlamany, sojusznik-co-nie-zada-przynaleznosci; twarde prawo do Tronu, sztywny. Wildcard.",
+   "reach_olenna": "linia przyjazni otwarta, handel zbozem=spichlerz na zime; bogaci+przestraszeni (Renly/boja sie Stannisa). Przyjaciel-interesu nie sojusznik-przeciw.",
+   "dorne": "ukojone (Gora+wyznanie Tywina) ale trzyma UKRYTA KARTE TARGARYENOW; chlodne, gra swoja.",
+   "dolina_lysa": "drzwi zatrzasniete (Lysa chora/paranoja, Dolina z boku) ALE ktos karmi jej strach (trop Gulltown - otwarty).",
+   "zelazne_wyspy_balon": "AKTYWNE zagrozenie - strategia 06-08 (dusic morze/klin w rodzine/flota potem). Euron wygnany=wildcard.",
+   "braavos_bank": "przechylony ku Polnocy w endgame; ale obce srebro (grozi zbozu) pachnie Braavos - wektor do rozpracowania."
+  },
+  "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
  }
 }

@@ -5,7 +5,7 @@
   "dzien": 24,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "noc",
  "sezon": "lato (298)",
  "pogoda": 60,
  "dzien_tygodnia_nr": 6,
@@ -107,5 +107,6 @@
   "skryba": "Nazwanie go 'skryba' (ani zadnym umniejszajacym zdrobnieniem) NIE jest juz neutralne - to ZNIEWAGA/afront. Uzycie przez NPC = CELOWY slight (wrog umniejsza) albo ignorancja rangi - i zawsze COS znaczy, nigdy nie jest przypadkowe. GM nie uzywa 'skryba' jako domyslnego okreslenia.",
   "wyjatek_historyczny": "Wczesniejsze uzycia (Jaime jako poufala nazwa, Stannis jako chlodne zdrobnienie) - przeszlosc; od teraz forma wlasciwa, a 'skryba' tylko jako swiadomy afront z konsekwencjami."
  },
- "konwencja_nazw_dom_handlowy": "299-05 (prosba gracza): terminologia Domu Handlowego Tally PO POLSKU/westeroska, nie wloska. tajna ksiega (nie libro segreto), wychowankowie (nie giovani). Reszta polska OK."
+ "konwencja_nazw_dom_handlowy": "299-05 (prosba gracza): terminologia Domu Handlowego Tally PO POLSKU/westeroska, nie wloska. tajna ksiega (nie libro segreto), wychowankowie (nie giovani). Reszta polska OK.",
+ "zasada_konca_dnia_stan": "299-05-24 DZIEN ZAMKNIETY na zgode gracza ('Ide spac'). Symon wrocil pod dach Miry (BP), Lyra spi, zdjal oznake Namiestnika, zasnal jako czlowiek bez wojny do wygrania - tylko krolestwo do budowania. NASTEPNY: RANEK 299-05-25 (obowiazkowa rama: data/pogoda+kalendarz+KORESPONDENCJA/inbound+status+watki) - pierwszy pelny poranek ERY BUDOWANIA."
 }

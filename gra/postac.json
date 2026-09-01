@@ -13,7 +13,7 @@
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 95,
-  "smoki": 0
+  "smoki": 2
  },
  "dobytek": [
   "PORZADNY ZESTAW PISARSKI (kupiony ~m9d): dobre inkausty, zapasowe pioro gesie, KOSCIANY NOZYK, zapas pergaminu/papieru, skladana kaseta pisarska",
@@ -597,7 +597,8 @@
   "298-09-20: skromny koszt eksportu atelier (probne sztuki+fracht) przez kanal Miry. Przychod przyszly/rosnacy (slow-build). Kasa nie czuje.",
   "298-09-21 Dzien Matki: z wlasnej reki przez Septe - OPIEKA NAD RODZINAMI MARSZU (osłona matek/zon marszowych: robota warzelni+chleb reliefu+maka mlyna przez ciezka porе). Realny koszt, dokladnie ten grosz ktory chce wydawac.",
   "298-09-22: -~25 jel ekwipunek wojenny (Torghen: kolczuga gotowa+czepiec+sztylet+kusza). Plus wydzielone na droge: ~35 jel srebrem przy sobie + 2 smoki zlotem z kont + list kredytowy (Nesta korespondenci) + dary. Reszta zostaje w domu.",
-  "298-09-22: -~25 jel dozbrojenie Hendry (uzupelnienie) + Sten (kolczuga/helm/klinga/tarcza) na droge."
+  "298-09-22: -~25 jel dozbrojenie Hendry (uzupelnienie) + Sten (kolczuga/helm/klinga/tarcza) na droge.",
+  "299-04: Symon (juz Namiestnik) dobiera 2 SMOKI (400 jel) do sakiewki - gotowka na reke pod urzad/podroz/Fose. Zrodlo: ZALICZKA od kantoru Nesty pod udzial+miesieczny dochod (~105/mies netto), NIE z kapitalu faktorii (obrót nietkniety). Sakiewka: 2 smoki + 95 jel + 1 miedz (~495 jel na reke). Majatek netto ~bez zmian (przesuniete z pracujacego w plynne); zaliczka 400 do amortyzacji z najblizszych obrotow. Uwaga: dochodzi wkrotce warstwa lorda/Namiestnika (uposazenie urzedu, Fosa, zasoby korony) - jeszcze nie w ksiegach."
  ],
  "_jezyki_nota": "Rozdzielone 298-07-19 na osobne (per jezyk: mowa/czytanie/pismo). umiejetnosci.jezyki=agregat ogolny; jezyki_znane=rozbicie szczegolowe.",
  "wizerunek": {
@@ -653,5 +654,6 @@
   "harrenhal": "OGOLOCONE (Tywin zdjal sile na marsz do KP), cienko obsadzone",
   "wnioski": "bezposrednia grozba dla Polnocy NISKA (elita na dole konsoliduje, Reach nie rusza=MASZ CZAS); militarna cisza=czas Symona (Bank/4nici/prestiz pracuja); Zachod=miekkie podbrzusze (redirect Balona+szept o zlocie); zegar pozniejszy warunkowy (gdy Tywin skonsoliduje+JESLI Tyrellowie rusza wage). Lew wiekszy w blasku niz w polu."
  },
- "skrzynia_wojenna_polnocy_nota": "299-01-06: znaczaco powiekszona lupami+okupami z Zachodu (2. kampania) - zloto z serca lwiego bogactwa; cios ekonomiczny wobec Zachodu."
+ "skrzynia_wojenna_polnocy_nota": "299-01-06: znaczaco powiekszona lupami+okupami z Zachodu (2. kampania) - zloto z serca lwiego bogactwa; cios ekonomiczny wobec Zachodu.",
+ "draw_kantor_zaliczka_jel": 400
 }

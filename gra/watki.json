@@ -2257,9 +2257,15 @@
   },
   {
    "id": "elewacja_dom_tally_lord_i_moneta_1127",
-   "tytul": "Elewacja: Lord (Dom Tally, siedziba) + urzad monety/zaopatrzenia Polnocy - budowniczy nie feudal",
-   "status": "NADANIE_W_TOKU_kamien_milowy_wladza+fach_dla_budowania",
-   "nota": "1127: Robb nadaje po uwolnieniu Aryi. LORD z wlasnym nazwiskiem+siedziba (Dom Tally wzniesiony za zycia nie odziedziczony) + rola 'trzyma monete i zaopatrzenie calej Polnocy' (geniusz Symona + front ekonomiczny wygrywajacy wojne). Symon przyjmuje jako BUDOWNICZY (realna wladza z nadania + cichy fach RAZEM; wzor Targaryenow/Baelor Breakspear), nie standardowy pan. RYZYKO: karmi szmer-niechec/zawisc, cel dla dumnych, test charakteru; tarcza=Robb+nieskazitelnosc. DO DOPRECYZOWANIA: gdzie siedziba (Polnoc/dorzecze), ksztalt urzedu."
+   "tytul": "Elewacja: Lord Tally -> port-miasto wschod -> Reka Krola (namiestnik) - budowniczy nie feudal",
+   "status": "DOPRECYZOWANE_kolejnosc_lord+ziemia+port_potem_reka; haczyk=Wyman",
+   "nota": "1127: Robb nadaje po uwolnieniu Aryi. LORD z wlasnym nazwiskiem+siedziba (Dom Tally wzniesiony za zycia nie odziedziczony) + rola 'trzyma monete i zaopatrzenie calej Polnocy' (geniusz Symona + front ekonomiczny wygrywajacy wojne). Symon przyjmuje jako BUDOWNICZY (realna wladza z nadania + cichy fach RAZEM; wzor Targaryenow/Baelor Breakspear), nie standardowy pan. RYZYKO: karmi szmer-niechec/zawisc, cel dla dumnych, test charakteru; tarcza=Robb+nieskazitelnosc. DO DOPRECYZOWANIA: gdzie siedziba (Polnoc/dorzecze), ksztalt urzedu. || 1127 DOPRECYZOWANIE: Symon woli NAMIESTNIKA/Reke Krola (rola i tak pelniona, niech ma imie+prawo by budowac). ZIEMIA: wschodnie wybrzeze/dobra zatoka -> DRUGIE MIASTO-PORT Polnocy (Polnoc ma 1 port=slabosc; dzielo karmiace zlotem dlugo po nim; Dom Tally=port od kamienia nie herb). KOLEJNOSC (rada Catelyn): najpierw lord+ziemia+port (uprawomocnia), POTEM reka gdy lordowie przywykna. HACZYK: WYMAN - drugi port budowac Z Manderly (partnerstwo/komplementarnosc), nie przeciw patronowi. Do rozegrania: blogoslawienstwo Wymana, wybor zatoki/miejsca."
+  },
+  {
+   "id": "port_miasto_dom_tally_wschod_1127",
+   "tytul": "Projekt: drugie miasto-port Polnocy na wschodnim wybrzezu (siedziba Domu Tally)",
+   "status": "KONCEPCJA_do_rozpoczecia_wymaga_blogoslawienstwa_Wymana+wyboru_zatoki",
+   "nota": "1127: wizja Symona jako budowniczego - Polnoc ma 1 liczacy sie port (Bialy Port)=slabosc gospodarcza (bez portow=bez handlu=bez zlota). Drugie miasto-port = rozwoj gospodarczy Polnocy + legacy + fundament Domu Tally (port od kamienia nie herb na wiezy) + sluzy frontowi ekonomicznemu wojny. WYMAGA: (1) blogoslawienstwo+partnerstwo Wymana/Manderly (komplementarnie NIE rywal Bialego Portu - inaczej podmywa patrona), (2) wybor miejsca (wschodnie wybrzeze, dobra naturalna zatoka), (3) czas (projekt pokoleniowy, 'twardnieje przez lata'). Splata sie z: elewacja, cel ekonomiczny anty-Lann, ideal Baelor Breakspear/budowanie dobra."
   }
  ]
 }

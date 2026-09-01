@@ -108,5 +108,12 @@
   "wyjatek_historyczny": "Wczesniejsze uzycia (Jaime jako poufala nazwa, Stannis jako chlodne zdrobnienie) - przeszlosc; od teraz forma wlasciwa, a 'skryba' tylko jako swiadomy afront z konsekwencjami."
  },
  "konwencja_nazw_dom_handlowy": "299-05 (prosba gracza): terminologia Domu Handlowego Tally PO POLSKU/westeroska, nie wloska. tajna ksiega (nie libro segreto), wychowankowie (nie giovani). Reszta polska OK.",
- "zasada_konca_dnia_stan": "299-06-07 DZIEN ZAMKNIETY (zgoda: 'Spie'). Winterfell: przybycie, rodzina osadzona, Mira+Lyra u Catelyn (cieplo), 2-osobowa sesja z Robbem (zboze/obce srebro, zelazni, wesele Freya, 3 fundamenty panstwa=mandat, Przystan Wilka; start=kadra+wlasni maesterowie), noc z Mira (grounding). NASTEPNY: RANEK 299-06-08 = DZIEN RADY (zelazni + wesele Freya)."
+ "zasada_konca_dnia_stan": "299-06-07 DZIEN ZAMKNIETY (zgoda: 'Spie'). Winterfell: przybycie, rodzina osadzona, Mira+Lyra u Catelyn (cieplo), 2-osobowa sesja z Robbem (zboze/obce srebro, zelazni, wesele Freya, 3 fundamenty panstwa=mandat, Przystan Wilka; start=kadra+wlasni maesterowie), noc z Mira (grounding). NASTEPNY: RANEK 299-06-08 = DZIEN RADY (zelazni + wesele Freya).",
+ "ustroj_polnocy_aparat_299_06": {
+  "istnieje": "Aparat DOMOWY Starkow: Kasztelan Winterfell (zamek/domena) + Maester Luwin (pismo/rachunki/kruki/rada/medycyna) - ludzie STARKOW nie korony/namiestnika (prywatny mozg rzadow Straznika, nie panstwowy).",
+  "nie_istnieje": "Justycjariusz Polnocy / Skarbnik Polnocy / staly Marszalek choragwi jako URZEDY KORONY - Polnoc nigdy nie byla krolestwem z aparatem. Sprawiedliwosc=drabina osob do Starka osobiscie; podatki=lordowie+danina w naturze; wojsko=wezwanie choragwi ad hoc.",
+  "rada_dzisiejsza": "Feudalna RADA WOJENNA (Krol+Catelyn+maester+wielcy chorazowie=LORDZI nie urzednicy). To symptom ulomnosci nazwanej 06-07: krol bez panstwa, korona bez ministrow.",
+  "reforma_symona": "Budowa RADY FUNKCYJNEJ: Reka/Namiestnik (jest) + Justycjariusz + Skarbnik + Marszal pod Reka - pierwszenstwo z URZEDU/mandatu nie z krwi. Klucz: rada krwi umiera gdy miecze nierowne; rada urzedu trwa. (odpowiedz na wyzwanie Karstarka 06-08).",
+  "data": "299-06-08"
+ }
 }

@@ -2788,6 +2788,12 @@
    "tytul": "Most na Rzece Kopcow - wspolna przeprawa Tally/Dustin, arteria zachodniej Polnocy",
    "status": "dogadany_do_budowy_po_przyjezdzie/rada_299-06-20",
    "nota": "299-06-20: wspolny most Tally(Fosa)+Dustin(Barrowton) na jedynej przeprawie Rzeki Kopcow. Kamien+filary=ludzie Dustin (sztuka Pierwszych Ludzi), ciesla+drewno=Tally. Myto i utrzymanie 50/50. Otwarty na zawsze (anti-chokepoint), relief Krola+zboze Barrowton bez myta. Arteria: welna Rills, sol/ryba Kamienisty Brzeg, zboze na zachod; gdy przeslo pada = zachodnia Polnoc odcieta = Bolton jedyny co dojezdza. Precondition dostawy reliefu do wdowy Jonqull przed sniegiem. DO ROBOTY: cofnac na Fosie z Warrynem + zebrac cieslę/drewno; ew. wpiac w panstwowy program traktow (rada/skarbnik)."
+  },
+  {
+   "id": "mapa_sil_rodow_polnocy_299_06",
+   "tytul": "Mapa rodow i sil zbrojnych Polnocy - order-of-battle + uklad lojalnosci (rachmistrz)",
+   "status": "szkic_wersja1_299-06-20_dokument_gra/mapa_rodow_polnocy.md",
+   "nota": "299-06-20 Barrow Hall: po lekcji od Barbrey (Polnocy nie obronisz przeczuciem) Symon krešli MAPE ZNACZACYCH RODOW + porownanie sil (Winterfell zbrojnie vs konkretne rody). Dokument: gra/mapa_rodow_polnocy.md. Metoda rachmistrza: F=firm (z objazdu), E=estimate, gaps oznaczone. KLUCZOWE ODCZYTY: (1) zaden rod, ani sam Winterfell, nie jest 'armia Korony' - Winterfell zbrojnie sredni; potega Krola=LOJALNOSC banerow, nie stala armia => instytucje (relief/trakty/prawo) wiaza lojalnosc bo Korona nie przelicytuje koalicji wlasnych lordow. (2) Gdyby doszlo Stark vs blok Boltona - lojalisci MIAZDZACO liczniejsi; Bolton nie wygra otwartej wojny => niebezpieczenstwo Boltona to nie muster lecz CIERPLIWOSC/cichy noz/zabor ziemi. (3) HORNWOOD=prozn/wakat sukcesji, ktory Bolton lasa (flashpoint). (4) ZACHODNI BRZEG (Kamienisty Brzeg/wody Niedzwiedziej) niebroniony=argument dla dzwigni morskiej. (5) Korona NIE MA prawdziwego rejestru musteru => propozycja panstwowego spisu/rolki musteru (echo instynktu spisu). Bloki: rdzen lojalny (Manderly/Umber/Karstark/Glover/Mormont/Reed/Cerwyn/Tallhart/klany gorskie); sfera Dreadfortu (Bolton+Ryswell krwia+male domy Placzacej Wody/gornej Rzeki Kopcow; Dustin krwia zwiazany ale teraz przechylony lojalnie)."
   }
  ]
 }

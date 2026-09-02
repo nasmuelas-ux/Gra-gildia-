@@ -2644,6 +2644,24 @@
    "tytul": "Ekspansja Domu Handlowego: 1600 jel kapitalu + placowki Winterfell/Riverrun/Crossroads Inn",
    "status": "kruk_do_Hala_ocena_pending",
    "nota": "299-06-10 kruk do HALA (DG, Fosa) - 3 polecenia + osad partnera: (1) 1600 JEL kapitalu ekspansji (pokoj/ogon prowiantowy gasnie - zloto ma pracowac nie topniec; Hal rozklada finansowanie/plynnosc, ma FLAGOWAC co przedwczesne - jest partnerem nie sluga). (2) PLACOWKA w zimowym miasteczku WINTERFELL + struktura (serce Polnocy/siedziba Krola/wezel korytarza WH-Winterfell=backhaul dostaje dom). (3) Dwie na PLD: RIVERRUN (gniazdo Tullych, otwiera sojusznicze Dorzecze) + CROSSROADS INN na trakcie krolewskim (skrzyzowanie pol Westeros=handel+WIESCI/info-hub). Struktura wg wzoru Medici: zarzadca-wspolnik/faktorzy/korespondenci/rachmistrz reliefu/kurierzy + tajna ksiega + rewizor. SYNERGIA: Symon jedzie ta trasa (Fosa/Przesmyk/Blizniaki/Riverrun) - placowki pld POSADZI OSOBISCIE po drodze. CIEN decyzji (Symon swiadom): 1600=wiekszosc majatku netto ~1900; 2/3 placowek POZA Polnoca w gojacym sie Dorzeczu (wiecej zasiegu+ekspozycji) -> zostawiony Halowi realny osad/pacing. Odpowiedz/ocena Hala pozniej (na Fosie albo krukiem)."
+  },
+  {
+   "id": "willa_zapytania_dolina_mur_299_06",
+   "tytul": "Zapytania do Willi: wszystkie raporty + Dolina (kto rzadzi/karmi strach Lysy) + cisza z Czarnego Zamku",
+   "status": "kruk_wyslany_pending",
+   "nota": "299-06-11 kruk do Willi (BP): (a) wszystkie raporty w wolnej chwili; (b) DOLINA - kto rzadzi zza plecow chorej Lysy i KTO KARMI JEJ STRACH (trop Gulltown); (c) CZARNY ZAMEK/Nocna Straz MILCZY (poslano 06-08, 3 dni=za wcz na panike, moze odleglosc/sztorm, ale przy szeptach Reeda o 'prawdziwej zimie' cisza z Muru=nic do pilnowania) - sprawdzic kanalami Willi. Odpowiedz pending."
+  },
+  {
+   "id": "okolnik_do_lordow_ucho_namiestnika_299_06",
+   "tytul": "Okolnik do wszystkich lordow: 'ucho Namiestnika otworem, piszcie ze sprawami'",
+   "status": "rozeslany",
+   "nota": "299-06-11: Symon (reka pisarza, pieczec namiestnika) rozeslal okolnik do wszystkich lordow krolestwa: nie zada, SLUZY; krzywda/spor/potrzeba/rada dla Krola - piszcie do mnie; ucho Namiestnika otworem dla kazdego chorazego. Otwiera kanal do calego krolestwa -> z czasem naplyw listow/skarg/potrzeb (robota+wywiad+wiazanie lordow przez dostepnosc; nisko urodzonej Rece co SLUZY trudniej zarzucic ze rosnie ponad nich). Inbound governance nadchodzi."
+  },
+  {
+   "id": "zakres_urzedu_namiestnika_299_06",
+   "tytul": "Precyzja urzedu Namiestnika (3 wladze: wykonawcza/ustawodawcza/sadownicza) - projekt do ratyfikacji",
+   "status": "projekt_do_ratyfikacji_Krol+wielka_rada",
+   "nota": "299-06-11: Symon spisal ZAKRES I LIMITY urzedu Namiestnika (projekt do ratyfikacji przez Krola+1. wielka rada lordow; limity rownie mocno jak zakres - urzad bez granic=Tywin). WYKONAWCZA (rdzen, szeroka, DELEGOWANA): rzadzi na co dzien w imieniu Krola, koordynuje rade funkcyjna (Justycjariusz/Skarbnik/Marszal pod reka), administracja/kancelaria/nadzor skarbu/obrona przez Marszala; w nieobecnosci Krola/tryb pilny=mowi glosem Krola z mandatu. GRANICA: wladza powierzona, ODWOLYWALNA przez Krola w kazdej chwili; Reka nie ma wladzy wlasnej. USTAWODAWCZA (ograniczona): projektuje prawo+rozporzadzenia admin. w granicach mandatu (np. dekret zbozowy - czeka na pieczec Krola); STANOWI prawo KROL, prawo wielkiej wagi wymaga ZGODY wielkiej rady. Reka NIE stanowi prawa sama. SADOWNICZA (nadzoruje, nie sad ostateczny): najwyzszy sedzia=KROL, apelacje=JUSTYCJARIUSZ w imieniu Krola; Namiestnik nadzoruje wymiar sprawiedliwosci i moze sadzic z delegacji w konkretnej sprawie ALE nie laczy na stale sadu z wykonawcza (rozdzial: Justycjariusz sadzi, Reka administruje, Krol rozstrzyga). ZASADA NACZELNA (samoograniczenie): 3 wladze DELEGOWANE/ODWOLYWALNE/KONTROLOWANE (Krol+wielka rada+rozdzial urzedow); Reka=NARZEDZIE korony nie druga korona. Rozbraja lek dumnych lordow ('kupiec siegnie za duzo') - Reka sama zakuwa sobie kajdany. Do zatwierdzenia."
   }
  ]
 }

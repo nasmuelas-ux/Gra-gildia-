@@ -209,6 +209,8 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Stary budowniczy Riverrun** (budowniczy_riverrun) —  · nast ?
 - **Willem Lannister i Tion Frey (mlodzi zakladnicy)** (mlodzi_zakladnicy_willem_tion) —  · nast ?
 - **Lady Barbrey Dustin (z domu Ryswell)** (barbrey_dustin) —  · nast ?
+- **Wdowa Jonqull (Barrowton)** (wdowa_jonqull) —  · nast ?
+- **Ostry Hal (czlowiek Lady Dustin)** (ostry_hal) —  · nast ?
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

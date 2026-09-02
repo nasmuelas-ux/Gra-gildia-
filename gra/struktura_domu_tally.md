@@ -60,7 +60,7 @@ _Administracja osobna od Domu Handlowego._
 - **Mistrz robót — DONNEL** — kamieniarze, cieśle, robotnicy.
 
 ### Dobra i sądy
-- **Rządca dóbr** — wsie, torfowiska, prawo połowu i przewozu przez bagna. [WAKAT — łącznik z Krannogmenami]
+- **Rządca dóbr — mistrz WARRYN** — wsie, torfowiska, prawo połowu i przewozu przez bagna (marcher z krawędzi Przesmyku; pomost do Krannogmenów). [OBSADZONY rzut 75]
 - **Poborca czynszów** — rozliczany osobno od handlu (kasa 2). [WAKAT]
 - **Celnik traktu** — rejestr przejazdów przez Przesmyk (serce myta, kasa 2). **GARTH** (do zapytania).
 - **Sędzia grodzki — mistrz RODERYK** — sądzi poddanych lenna; NIGDY krewny lorda (chłód = bezstronność, spełnione z nawiązką).

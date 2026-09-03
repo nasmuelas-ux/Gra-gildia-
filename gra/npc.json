@@ -3437,6 +3437,18 @@
    "zawod": "dziki po stratach (ojciec/wojna/rozdzielenie); wilkor Kudlacz (najdzikszy z miotu)",
    "nastawienie_do_gracza": "dziki/nieufny jak zwierze; Symon nie napieral/nie balo sie -> Kudlacz przestal warczec, 'ty jesteś ten co pisze' (poczatek, nie oswojenie)",
    "nota": "299-06-14: Symon poznal - kucnal na dystans bez strachu/naporu (jak przy Aryi/Sansie); dzikiego malego wilka nie oswaja sie 1. dnia, wystarczy zero strachu+zero klamstwa=poczatek."
+  },
+  {
+   "id": "lekarz_braavijski_fosy",
+   "imie": "Lekarz z Braavos (werbowany przez Nestę)",
+   "rola": "Braawijski medyk - preceptor Lyry + praca z Niną w lecznicy Fosy",
+   "nota": "299-06-23 werbowany przez Nestę (rzut 67 - przyjedzie, drogo/na braawijskich warunkach, wlasny terminarz). Zadania: uczyc LYRY (preceptor, Kasa1) + pracowac z Nina w lecznicy (braawijska medycyna + mech/apteka), wspoltworzyc ksiege medycyny. Pending - w drodze."
+  },
+  {
+   "id": "instruktor_walki_braawijski_fosy",
+   "imie": "Instruktor walki braawijskiej (werbowany przez Nestę)",
+   "rola": "Bravo/mistrz wodnego tanca - szkoli drużynę Fosy",
+   "nota": "299-06-23 werbowany przez Nestę (rzut 67 - przyjedzie drogo, bravo Z CHARAKTEREM nie potulny najmita). Szkoli elitarną kadrę Fosy: zwiadowcy-szermierze (braawijski+konni+maskowanie) + sredniozbrojni (przelaczanie pln<->braawijski). Pending - w drodze."
   }
  ],
  "orbita": [

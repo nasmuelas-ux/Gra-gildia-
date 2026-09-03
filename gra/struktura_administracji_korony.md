@@ -1,46 +1,52 @@
 # KSZTAŁT ADMINISTRACJI KORONY WOLNEJ PÓŁNOCY
 ### Szkic Symona Tally, Namiestnika — 299-08-04, Winterfell (do ratyfikacji przez Króla Robba)
+### Zgodny z RADĄ FUNKCYJNĄ (299-06-09) i ZAKRESEM URZĘDU NAMIESTNIKA (299-06-11)
 
-> **DOKTRYNA NACZELNA (spójna z Fazą I): DOMENA NAJPIERW, PRZYKŁAD NIE DEKRET.**
-> Korona nie narzuca urzędów autonomicznym lordom. Administracja jest **realna i pełna w domenie Korony** (Winterfell/Wintertown/demena) — pilotaż — i **lekka, koordynująca** na poziomie królestwa (lordowie rządzą swoim). Pan, który widzi, że to działa u Króla, prosi o wzór; pan, któremu się go narzuca, sięga po żal (linia Boltona).
-> **Trzy zasady konstrukcyjne:** (1) lany rozdzielone, nikt nie jest wszystkim; (2) checki — rewizor tylko-do-Króla; (3) wszystko stoi na **kadrze** (piśmienne ręce = kręgosłup; bez nich urząd to pusty tytuł).
+> **DOKTRYNA NACZELNA (Faza I): DOMENA NAJPIERW, PRZYKŁAD NIE DEKRET.**
+> Pełna administracja w domenie Korony (Winterfell/Wintertown/demena) — pilotaż; lekka, koordynująca na poziomie królestwa (lordowie rządzą swoim — „silne w tym, co wspólne, luźne w tym, co lokalne").
+> **Zasada urzędu, nie krwi:** Ręka mówi z mandatu Króla, nie z krwi; królestwo urzędu trwa, królestwo krwi umiera, gdy miecze nierówne. Obsada z merytu, nie z rodu.
+> **Trzy zasady konstrukcyjne:** (1) lany rozdzielone; (2) checki — rewizor tylko-do-Króla; (3) wszystko stoi na kadrze (piśmienne ręce = kręgosłup).
 
 ---
 
 ## I. KORONA
-- **KRÓL ROBB STARK** — suweren. Kompas: wolność trwała, lud przez zimę, sprawiedliwość Neda, wataha cała. Ostateczne słowo.
+- **KRÓL ROBB STARK** — suweren. Wykonawcza najwyższa, ustawodawcza = Król-w-Radzie, sądownicza = Król źródłem i szczytem. Kompas: wolność trwała, lud przez zimę, sprawiedliwość Neda, wataha cała.
 
-## II. MAŁA RADA KORONY (wielcy oficerowie)
+## II. NAMIESTNIK (RĘKA) — **Symon Tally**
+- Rdzeń wykonawczy: rządzi na co dzień w imieniu Króla, **koordynuje radę funkcyjną**, w nieobecności Króla mówi jego głosem z mandatu.
+- **Granica (spisana):** władza powierzona, **odwoływalna przez Króla w każdej chwili**; Ręka nie ma władzy własnej (urząd bez granic = Tywin).
+- Pod Ręką: **kancelaria/administracja Namiestnika** — prowadzi ją **Garrick** (Kanclerz Kancelarii Namiestnika / Domu; od 299-05). *To urząd Ręki i Domu, NIE osobny wielki oficer Korony — kancelaria siedzi pod Namiestnikiem.*
 
-| Urząd | Lan | Kto | Stan |
+## III. RADA FUNKCYJNA (pod Ręką, słudzy Korony z mandatu — położona 299-06-09)
+
+| Urząd | Lan | Kto | Stan holdera |
 |---|---|---|---|
-| **Namiestnik (Ręka)** | całość rządu; głos Króla; spina wszystkie urzędy | **Symon Tally** | obsadzony |
-| **Skarbnik** | skarb, mennica (wilk), miara, daniny, rewizja finansów | **WAKAT** (most: ranga + ręka + rewizor) | do obsadzenia |
-| **Justycjariusz** | prawo, sądy grodzkie, sprawiedliwość Króla | **Medger Cerwyn** | obsadzony |
-| **Marszałek Korony** | muster (rolka), stała drużyna (gdy stanie), obrona (Mur/brzegi/Przesmyk/Trident) | **WAKAT** (regionalni istnieją) | do obsadzenia |
-| **Kanclerz** | kancelaria, akta, pieczęcie, korespondencja Korony, poczta | **Garrick** (kancelaria Namiestnika) | obsadzony (de facto) |
-| **Głowa Uczoności** | porządek uczoności Północy, szkoły/węzły, odzwyczajanie od Cytadeli | **Luwin** (elder + szkoła Winterfell) | obsadzony (pilot) |
+| **Justycjariusz Północy** | apelacje ponad drabiną lordów; sprawiedliwość Króla | **Medger Cerwyn** | obsadzony |
+| **Skarbnik** | skarb, mennica (wilk), miara, danina, rewizja finansów | **WAKAT** (most: ranga + ręka + rewizor; potok z ław Luwina) | wakat holdera |
+| **Marszał chorągwi** | zwoływanie/przegląd, rolka musteru, obrona, przyszła drużyna 1k | **WAKAT** (urząd stoi od 06-09) | wakat holdera |
 
-**Regionalni marszałkowie (feudalna warstwa obrony):** Karstark = wschód; Blackfish = architekt południa (Dorzecze, zostaje na miejscu); brzeg zachodni/Mur do rozpisania. Podlegają doktrynie Marszałka: przysięga Koronie, rotacja, **żaden pojedynczy lord nie trzyma całej armii.**
+**Marszałkowie pomocniczy (regionalni, feudalna warstwa):** **Rickard Karstark = wschód** (od 06-09, straż osi Dreadfortu). Zachód/brzeg/Mur — do rozpisania. Doktryna Marszała: przysięga Koronie, rotacja, **żaden pojedynczy lord nie trzyma całej armii.**
 
-## III. KRĘGOSŁUP (pod radą — to, co czyni urzędy żywymi)
-- **Kadry / kancelaria** — piśmienni klerkowie, kopiści, rachmistrze. Źródło: **szkoła Winterfell (Luwin)** + 5 węzłów oświaty. To potok, z którego wyrasta przyszły Skarbnik i cała klasa urzędnicza, której Północ dziś nie ma.
-- **Rewizorzy Korony** — audyt podległy **wyłącznie Królowi** (omija nawet Namiestnika). Kręgosłup antykorupcyjny — jak rewizorzy w Domu Handlowym, ale dla skarbu państwa.
-- **Rolka musteru / spis Korony** — państwo, które nie wie, ilu ma mieczy, ziarna i głów, jest ślepe. Funkcja pod Marszałkiem + Skarbnikiem. (Instynkt spisu Fosy — dla całego królestwa.)
+## IV. KRĘGOSŁUP (pod radą — czyni urzędy żywymi)
+- **Kancelaria** — pod Namiestnikiem (Garrick): akta, pieczęcie, korespondencja Korony, poczta.
+- **Kadry / szkoły** — potok piśmiennych: **szkoła Winterfell (Luwin, pilot)** + 5 węzłów oświaty. Z tych ław wyrasta przyszły Skarbnik i cała klasa urzędnicza. *Uczoność = kręgosłup Fazy I, nie osobny fotel Rady.*
+- **Rewizorzy Korony** — audyt podległy **wyłącznie Królowi** (omija Namiestnika). Do powołania.
+- **Rolka musteru / spis Korony** — pod Marszałem chorągwi. Do zbudowania.
 
-## IV. CZEGO PÓŁNOC NIE MA — I DOBRZE
-- **Brak ministerstwa Wiary.** Stare bogi nie mają kleru ani hierarchii (czardrzewa, nie septy). Północ rządzi **bez kościoła-ośrodka władzy** — inaczej niż Południe. To nie luka; to siła (nie ma Wielkiego Septona, którego trzeba obłaskawiać).
-- **Brak formalnego Mistrza Szeptów.** Wywiad (Willa) jest **prywatnym narzędziem Namiestnika, świadomie POZA strukturą Korony** — deniowalny, firewallowany, nie „urząd państwa". Otwarte pytanie: czy Korona kiedyś sformalizuje szeptacza, czy zostawia go jako cichą rękę Ręki? (Zostawić na razie prywatny — czystość, jak przy Baelishu.)
+## V. POZA STRUKTURĄ KORONY (świadomie)
+- **Wywiad (Willa)** — prywatne narzędzie Namiestnika, **poza strukturą państwa**, deniowalne, firewallowane. Nie urząd Korony. (Otwarte: czy kiedyś sformalizować Mistrza Szeptów — na razie prywatny, dla czystości.)
+- **Brak ministerstwa Wiary** — stare bogi bez kleru/hierarchii; Północ rządzi bez kościoła-ośrodka władzy. To siła, nie luka.
+- **Ser Brynden „Czarna Ryba" Tully — NIE jest oficerem Korony Północy.** To lord Dorzecza (sojusznik), architekt obrony południa spięty przez **Pakt Obronny Północ–Dorzecze** (wymiana oficerów). Poza naszą strukturą; koordynacja przez pakt, nie przez radę funkcyjną.
 
-## V. ŚWIĘTY ROZDZIAŁ (fundament zaufania)
-- **Kasa 3 (Skarb Północy)** — Korona. **NIGDY** mieszana z Kasą 1 (Dom Handlowy Symona) ani Kasą 2 (Lenno Fosy). Skarbnik służy Królowi, nie Namiestnikowi-kupcowi. To granica, której Baelish nigdy nie miał — i której Namiestnik-lowborn strzeże tym pilniej, że mógłby jej nie strzec.
+## VI. ŚWIĘTY ROZDZIAŁ
+- **Kasa 3 (Skarb Północy)** — Korona. **NIGDY** z Kasą 1 (Dom Handlowy Symona) ani Kasą 2 (Lenno Fosy). Skarbnik służy Królowi, nie Namiestnikowi-kupcowi. Granica, której Baelish nigdy nie miał.
 
 ---
 
-## VI. STAN OBSADY (co stoi, co wakuje)
-- **Stoi:** Król · Namiestnik (Symon) · Justycjariusz (Cerwyn) · Kanclerz (Garrick) · Uczoność (Luwin, pilot) · mennica+miara (świeże) · regionalni marszałkowie wschodu/południa.
-- **Wakuje / do zbudowania:** **Skarbnik** (most: twarz+ręka+rewizor) · **Marszałek Korony** (spinający obronę + muster + przyszła drużyna 1k) · **rolka musteru** · **rewizorzy Korony** (do powołania) · pełny potok kadr (rośnie, lata).
+## VII. STAN OBSADY
+- **Stoi:** Król · Namiestnik (Symon) · Justycjariusz (Cerwyn) · kancelaria Namiestnika (Garrick) · uczoność-pilot (Luwin) · mennica+miara (świeże) · marszałek pomocniczy wschodu (Karstark).
+- **Wakuje holderem / do zbudowania:** **Skarbnik** · **Marszał chorągwi** (koronny) · marszałkowie pomocniczy zachodu/brzegu/Muru · rolka musteru · rewizorzy Korony · pełny potok kadr (rośnie z ław Luwina).
 
-**→ Wniosek:** szkielet stoi, mięśni brak w dwóch miejscach — **skarb (Skarbnik) i miecz (Marszałek Korony)** — plus kręgosłup kadr, który dopiero rośnie z ławek Luwina. To jest mapa tego, co obsadzać dalej.
+**→ Wniosek:** szkielet stoi (rada funkcyjna położona, urzędy zdefiniowane), a **mięśni brak w dwóch miejscach — SKARB (Skarbnik) i MIECZ (Marszał chorągwi)** — plus kręgosłup kadr, który dopiero rośnie. To mapa dalszej obsady.
 
-*Dokument do przedłożenia Królowi i radzie. Zgodny z Fazą I (domena najpierw) i doktryną checków. Aktualizować przy każdej nominacji.*
+*Zgodny z radą funkcyjną (06-09) i zakresem urzędu Namiestnika (06-11). Do przedłożenia Królowi i 1. wielkiej radzie. Aktualizować przy każdej nominacji.*

@@ -2894,8 +2894,8 @@
   {
    "id": "posterunek_tally_castle_black_299_06",
    "tytul": "Posterunek Domu Tally w Castle Black - lacznik z Nocna Straza + koordynacja pomocy + oko na Murze",
-   "status": "ZLECONY_HALOWI_299-06-27",
-   "nota": "299-06-27 Symon rozkazuje HALOWI (Dyrektor): postawic MALY posterunek Domu Tally w Castle Black, obsada CZYSTO TECHNICZNA (koszt swiadomie przyjety jak relief - dom sluzy krawedzi krolestwa). Funkcje: lacznik z Nocna Straza, koordynator pomocy/zboza, i (niepisane) STALE OKO na Murze (lepsze niz 1 zwiad) + potencjalny cichy kontakt z Jonem (kanal Nymeria). Kasa 1, odrebne od koronnej pomocy zbozowej (Kasa3). Rusza gdy Hal zorganizuje ludzi/logistyke."
+   "status": "ZAWIAZUJE_SIE_299-07-24_potwierdzony_jako_wezel_sieci",
+   "nota": "299-06-27 Symon rozkazuje HALOWI (Dyrektor): postawic MALY posterunek Domu Tally w Castle Black, obsada CZYSTO TECHNICZNA (koszt swiadomie przyjety jak relief - dom sluzy krawedzi krolestwa). Funkcje: lacznik z Nocna Straza, koordynator pomocy/zboza, i (niepisane) STALE OKO na Murze (lepsze niz 1 zwiad) + potencjalny cichy kontakt z Jonem (kanal Nymeria). Kasa 1, odrebne od koronnej pomocy zbozowej (Kasa3). Rusza gdy Hal zorganizuje ludzi/logistyke. || 299-07-24 potwierdzony jako 6. WEZEL sieci Domu Handlowego (rekalibracja skali): zaopatrzenie Muru (ziarno/towar dla niedozywionej Nocnej Strazy), pozycja niemal MONOPOLOWA + strategiczna (Stannis u progu + zima => Mur rozpaczliwie potrzebuje dostaw, kto karmi trzyma dzwignie). Netto ~0/strategiczny (moze dotowany: Stannis/Korona/zima). Byl zlecony Halowi 06-27; teraz liczony w sieci + doktrynie alokacji."
   },
   {
    "id": "zwiad_tally_na_mur_mormont_299_06",
@@ -3022,6 +3022,18 @@
    "tytul": "Regencja spraw cywilnych Fosy - Garrick zarzadza w imieniu Symona (na czas wyjazdu do Winterfell)",
    "status": "USTANOWIONA_07-24",
    "nota": "299-07-24 Symon deleguje domene GARRICKOWI (Kanclerz kancelarii, \"reka od spraw i ludzi\", urzad zdef. jako prowadzenie kancelarii pod nieobecnosc Symona) - zarzadza W IMIENIU Symona na czas wyjazdu do Winterfell na wesele. NIE Willa (jej \"Kanclerz-Archiwista\" to przykrywka wywiadowcza DH, ona=OKO w op anty-Baelish); NIE Hendry (Marszalek=forteca/miecz pod nieobecnosc). Garrick=SPRAWY CYWILNE. POD PIECZA: deficyt zimy+torf-za-chleb (bilans/dowozy/rezerwa); szklarnie Fosy (torf, wzor Winterfell; z Mira+Werranem); spis flory bagien (Wystan+Nina biegnie dalej); program rozwoju Fosy (miasteczko/szkola/lecznica, codzienne wykonanie); KONWOJ z Dorzecza gdy dotrze - rozdzielic na Fosie wg ustalen z Edmurem (osadnicy zostaja/naprawialni na Mur). Koordynacja: Mira (program) + Bran/Alys (majordomat) + Hendry (forteca) + Roderyk (sad) pod jednym cywilnym kanclerzem. GRANICA (deleguje SPRAWY nie SEKRETY): operacja anty-Baelish NIE przechodzi na Garricka - piasta zostaje na Symonie (Willa->poczta/Rozdroze->Symon->Lucan), tajna ksiega u Tama, cien-swiat skompartmentowany. Garrick rzadzi JAWNA Fosa; ciemna strona jedzie z Symonem w glowie. Garrick: \"Sprawy i ludzie, panie. Beda tu gdzie je zostawiasz, i o krok dalej gdy wrocisz. Jedz spokojny.\" => Symon wolny by jechac do Winterfell."
+  },
+  {
+   "id": "zimowy_zakup_ziarna_olenna_299_07",
+   "tytul": "Zimowy zakup ziarna z gory kanalem Olenny (pre-financing na deficyt Fosy)",
+   "status": "CZESCIOWY_299-07-24_rzut13_kanal_nie_udzwignal_skali",
+   "nota": "299-07-24 Symon polecil sfinansowac z gory zimowy zakup ziarna kanalem Olenny. Rzut 13 (low=opor swiata nie wina, kanal Olenny \"cichy strumien nie rzeka\" celowo-Olenna spetana korona Margaery). WYNIK: Hal NIE pali kanalu przepychajac duzy wolumen (Cersei/Tywin zobaczyliby reachanskie ziarno na wolna Polnoc)=bierze SKROMNA TRANSZE po cichu. LICZBY E: zabezpieczono ~1/3 zamierzonego zapasu (reszta zlota niewchloniete bez ryzyka ekspozycji); cena PREMIA ~20-30% (przedzimowe chomikowanie+dyskrecja+SPEKULANCI OBCEGO SREBRA windujacy te sama cene ktora Symon placi); kanal+Olenna bezpieczni/deniowalnosc cala; DEFICYT ZIMY NIE ZAMKNIETY (bufor nie rozwiazanie). LEKCJA (wpisywana od dawna): poludnie nie wyzywi zimy Polnocy - pewny spichlerz=wlasny (szklarnie/torf-za-chleb/magazynowanie) + zlamac spekulantow (Lucan odzyskuje ziarno+bije w windujacych cene). Ziarno Olenny=dokladka nie fundament. Zloto pozostaje w duzej czesci wolne (kanal nie wchlonal)."
+  },
+  {
+   "id": "model_alokacji_domu_handlowego_299_07",
+   "tytul": "Model alokacji/proporcji wewnetrznych Domu Handlowego (medycejski, sieci 6 wezlow)",
+   "status": "USTANOWIONY_299-07-24",
+   "nota": "299-07-24 (prosba gracza-skala): doktryna alokacji. WEZEL: 40% retencja lokalna / 45% remisja centrala / 10% udzial zarzadcy-wspolnika / 5% odpis reliefu. CENTRALA (skonsolidowana remisja): 25% rezerwa (zle dlugi+zima) / 30% reinwestycja-ekspansja / 20% ciagnienie lorda (Kasa1 osobista) / 15% plynnosc operacyjna / 10% relief skonsolidowany. Kontrole przy skali: rewizorzy objazdowi (kazdy wezel vs centrala raz/rok), tajna ksiega Tam+Symon, rozdzial kasy od ksiegi, poczta poza Cytadela. Swietosc: calosc Kasa1, zero mieszania z Kasa2/Kasa3. Proporcje TUNABLE (Symon stroi: reinwestycja w ekspansji, rezerwa przed zima)."
   }
  ]
 }

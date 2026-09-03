@@ -748,6 +748,42 @@
    "faktoria_braavos_essos": "Kasa1 (Nesta), duzy dlugi",
    "odzysk_lucana_baelish": "Kasa1, jednorazowy+przejety strumien zbozowy, tygodnie, KONTYNGENTNY (70% do Domu po 30% Lucana), NIE ZAKSIEGOWANY=upside"
   },
-  "kontrola_rachmistrza": "Kasa1 ~utrzymana (1900 E, gotowka->aktywa, plynnosc cienka swiadomie). Kasa2 wciaz konsumuje (jak lenno w odbudowie) ale inwestycja z rosnaca baza+mnozacymi kierunkami, myto realne od zaraz. NAJWIEKSZE ZOBOWIAZANIE: deficyt ziarna na zime (Kasa2, pokrywany Olenna+torf+szklarnie nie gotowka). Odzysk Lucana=upside nie zaksiegowany (jesli wejdzie, przechyla Kasa1 mocno w plus). WARTOSC POZABILANSOWA objazdu (poza ksiega): sojusz Reeda, pakt Dorzecze, dlug Freyow splacony, 3 placowki, siatka wywiadu pld=kapital POLITYCZNY wart wiecej niz jelenie."
+  "kontrola_rachmistrza": "Kasa1 ~utrzymana (1900 E, gotowka->aktywa, plynnosc cienka swiadomie). Kasa2 wciaz konsumuje (jak lenno w odbudowie) ale inwestycja z rosnaca baza+mnozacymi kierunkami, myto realne od zaraz. NAJWIEKSZE ZOBOWIAZANIE: deficyt ziarna na zime (Kasa2, pokrywany Olenna+torf+szklarnie nie gotowka). Odzysk Lucana=upside nie zaksiegowany (jesli wejdzie, przechyla Kasa1 mocno w plus). WARTOSC POZABILANSOWA objazdu (poza ksiega): sojusz Reeda, pakt Dorzecze, dlug Freyow splacony, 3 placowki, siatka wywiadu pld=kapital POLITYCZNY wart wiecej niz jelenie.",
+  "REKALIBRACJA_SKALI_0724": "Zaktualizowano na skale sieci 6 wezlow (patrz dom_handlowy_siec_i_alokacja_299_07_24): run-rate netto sieci dojrzaly ~+250-400/mies E (realizowane dzis ~+120-180); wartosc going concern ~3500-5000 jel E; kapital obrotowy ~2000-2500. Skladowe: WEZLY nie ramiona. Doktryna alokacji wezel(40/45/10/5)+centrala(25rez/30reinw/20lord/15plyn/10relief)."
+ },
+ "dom_handlowy_siec_i_alokacja_299_07_24": {
+  "data": "299-07-24",
+  "powod": "Rekalibracja na prosbe gracza: sieci 6 wezlow (skala=znacznie wieksze przychody), zmiana skladowych z \"ramion\" na WEZLY + doktryna alokacji/proporcji wewnetrznych. WSZYSTKO KASA 1 (Dom Handlowy); Kasa2/Lenno i Kasa3/Skarb swiecie oddzielone.",
+  "wezly": {
+   "bialy_port": "serce operacyjne, najbogatsze miasto (faktoria Nesty/mlyn/papiernia/kredyt-underwriting/kamieniczka/atelier-amber); DOJRZALY; netto ~+70-100/mies E",
+   "winterfell": "siedziba Krola, korytarz-backhaul, dwor; SEZONUJE; ~+30-55/mies E",
+   "rozdroze_karczma": "skrzyzowanie kontynentu: sklad/konwoj/myto + ucho (Deron Suchy wspolnik); SWIEZY; ~+20-35/mies E",
+   "riverrun": "brama Dorzecza, rynek sojuszniczy; SWIEZY; ~+15-30/mies E",
+   "fosa_hq": "siedziba/pieczec, brama Przesmyku (synergia myta z lennem); centrum kosztow + synergia; RDZEN",
+   "castle_black": "zaopatrzenie Muru (ziarno/towar dla niedozywionej Strazy), pozycja niemal MONOPOLOWA+strategiczna (Stannis u progu+zima=Mur rozpaczliwie potrzebuje dostaw, kto karmi trzyma dzwignie); ~0/strategiczny (moze dotowany Stannis/Korona/zima); ZAWIAZUJE SIE (zlecony Halowi 06-27, posterunek_tally_castle_black_299_06)"
+  },
+  "run_rate_netto_siec_dojrzaly_jel_mies_E": "~+250-400 (skok z ~+85: 6 silnikow nie 1 kantor)",
+  "realizowane_dzis_jel_mies_E": "~+120-180 (wezly mlode w rozruchu)",
+  "przeplyw_brutto": "ZNACZNY - siec obraca powaznym wolumenem (kregoslup prowiantowy przekuty w handel pokoju)",
+  "wartosc_przedsiebiorstwa_going_concern_jel_E": "~3500-5000 (6 wezlow + marka + siatka; istotnie ponad plynna baze)",
+  "kapital_obrotowy_wdrozony_jel_E": "~2000-2500 (plynnosc cienka, kapital pracuje)",
+  "doktryna_alokacji_wezel": {
+   "retencja_lokalna_pct": 40,
+   "remisja_centrala_pct": 45,
+   "udzial_zarzadcy_wspolnika_pct": 10,
+   "odpis_reliefu_pct": 5,
+   "uwaga": "kazdy zysk brutto filii dzielony ta stala regula; udzial wspolnika=dzwignia lojalnosci; relief w KAZDYM wezle osobny rejestr"
+  },
+  "doktryna_alokacji_centrala": {
+   "rezerwa_pct": 25,
+   "reinwestycja_ekspansja_pct": 30,
+   "ciagnienie_lorda_pct": 20,
+   "plynnosc_operacyjna_pct": 15,
+   "relief_skonsolidowany_pct": 10,
+   "uwaga": "skonsolidowana remisja dzielona na kubelki; rezerwa=zle dlugi+wstrzas/zima; ciagnienie lorda=zwrot wlasciciela do Kasy1 osobistej Symona; plynnosc=na okazje (ziarno/Lucan)"
+  },
+  "kontrole_przy_skali": "rewizorzy objazdowi zderzaja ksiegi KAZDEGO wezla z centrala raz/rok (przy 6=kregoslup); tajna ksiega (Tam+Symon); rozdzial kasy od ksiegi; wlasna poczta poza Cytadela",
+  "swietosc_rozdzialu": "CALOSC=Kasa1. Ani jeden jelen z sieci nie miesza sie z Lennem (Kasa2) ani Skarbem Polnocy (Kasa3).",
+  "proporcje_tunable": "proporcje ustawione jako doktryna startowa - Symon moze stroic (np. podniesc reinwestycje w fazie ekspansji, rezerwe przed zima)."
  }
 }

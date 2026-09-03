@@ -760,7 +760,7 @@
    "rozdroze_karczma": "skrzyzowanie kontynentu: sklad/konwoj/myto + ucho (Deron Suchy wspolnik); SWIEZY; ~+20-35/mies E",
    "riverrun": "brama Dorzecza, rynek sojuszniczy; SWIEZY; ~+15-30/mies E",
    "fosa_hq": "siedziba/pieczec, brama Przesmyku (synergia myta z lennem); centrum kosztow + synergia; RDZEN",
-   "castle_black": "zaopatrzenie Muru (ziarno/towar dla niedozywionej Strazy), pozycja niemal MONOPOLOWA+strategiczna (Stannis u progu+zima=Mur rozpaczliwie potrzebuje dostaw, kto karmi trzyma dzwignie); ~0/strategiczny (moze dotowany Stannis/Korona/zima); ZAWIAZUJE SIE (zlecony Halowi 06-27, posterunek_tally_castle_black_299_06)"
+   "castle_black": "zaopatrzenie Muru (ziarno/towar dla niedozywionej Nocnej Strazy), pozycja niemal MONOPOLOWA+strategiczna. UZASADNIENIE (bez Stannisa - KOREKTA): Nocna Straz niedoobsadzona+niedozywiona, ZIMA idzie, za Murem HORDA DZIKICH+zaginiony Mormont, Symon prowadzi polityke wsparcia Muru (ziarno+ludzie: naprawialni z Dorzecza/ubodzy w czern) => kto karmi Mur trzyma dzwignie. Netto ~0/strategiczny (moze dotowany Korona/zima). ZAWIAZUJE SIE (zlecony Halowi 06-27). NB: STANNIS NIE u progu Muru - poludniowy pretendent (Smocza Skala/Stormlands), nie ma zwiazku z tym wezlem."
   },
   "run_rate_netto_siec_dojrzaly_jel_mies_E": "~+250-400 (skok z ~+85: 6 silnikow nie 1 kantor)",
   "realizowane_dzis_jel_mies_E": "~+120-180 (wezly mlode w rozruchu)",

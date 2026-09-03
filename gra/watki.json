@@ -2926,6 +2926,12 @@
    "tytul": "Riverrun - koniec objazdu, zadania hubu (listy Tywin/Olenna, Edmure/korytarz/sukcesja Freyow, grob Hostera, Willa)",
    "status": "AKTYWNY_299-07-06",
    "nota": "07-06 przyjazd Riverrun (staly dwor - poczta dogonila). CZEKA: (1) LIST OLENNY (Reach, pieczec roza, obszerny=ciepla nic zyje - do przeczytania); (2) LIST TYWINA (pieczec lew, CIENKI/zimny=lew liczy - czytac ostroznie); (3) GROB HOSTERA - po co Catelyn naprawde przyjechala, jej moment; (4) EDMURE - korytarz do dogrania (biegnie przez jego Dorzecze do Seagard/Oldstones) + sprawa od Waldera: ZWIAZAC SUKCESJE FREYOW przez lennika (Edmure) poki stary zyje (Czarny Walder/Kulawy Lothar=ryzyko); (5) BRYNDEN Blackfish - sojusznik-rezerwa, ucho+miecz (rada o Lannisterach/Dorzeczu/wojnie); (6) dojrzewajace sprawdzenia WILLI (Roslin-certyfikacja, obce srebro, Dorne) - kruki znajda go na dworze."
+  },
+  {
+   "id": "stan_poludnia_hollow_tron_299_07",
+   "tytul": "Stan Poludnia: wydrazona korona Joffreya, Tywin realnym panem, Stannis-ciern na Smoczej Skale",
+   "status": "USTALONY_kanon_299-07",
+   "nota": "07-06 (na pytanie gracza, korekta): Joffrey=zdelegitymizowany bekart kazirodztwa ale wciaz na tronie SILA Lannisterow (nie prawem)=korona hollow; Cersei=Krolowa Matka (cien), TYWIN=Reka+realny pan Poludnia; Margaery Tyrell zona Joffreya=klatka Olenny; STANNIS jedyny Baratheon, prawowity, ZLAMANY na Smoczej Skale (ciern nie sila, czerwona wiara, latentny), uznal niepodleglosc Polnocy (Symon dal mu legitymacje=HISTORIA miedzy nimi); skarb korony w gruzach/Bank. Polnoc=wolne uznane krolestwo poza tym. Tron na piasku=Tywin gra na czas/potrzebuje pokoju rozpaczliwie; Stannis=karta jak Tron zadrzy. Pelny opis: swiat.json/stan_poludnia_zelazny_tron_299_07."
   }
  ]
 }

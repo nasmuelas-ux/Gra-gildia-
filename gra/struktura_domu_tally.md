@@ -51,9 +51,9 @@ _Administracja osobna od Domu Handlowego._
 
 ### Wojsko
 - **Marszałek fortecy — HENDRY** — zastępuje lorda pod nieobecność; dowodzi wojskiem siedziby.
-- **Kapitan straży** — warty, klucze, mury. [WAKAT]
-- **Zbrojmistrz** — arsenał i zapasy. [WAKAT]
-- **Prowiantmistrz** — żywność garnizonu; rozliczana osobno od spiżarni domowej. [WAKAT]
+- **Kapitan straży** — warty, klucze, mury. [OBSADZONY 299-06-23: awans z drużyny przez Hendry'ego]
+- **Zbrojmistrz** — arsenał i zapasy. [OBSADZONY 299-06-23: awans z drużyny przez Hendry'ego]
+- **Prowiantmistrz** — żywność garnizonu; rozliczana osobno od spiżarni domowej. [OBSADZONY 299-06-23: import sprawdzonej ręki z wojennej podaży — przyjmie/rozdzieli zboże z operacji „torf za chleb" i przeprowadzi garnizon przez zimę]
 
 ### Odbudowa (z 20 wież stoją 3 — urząd na pokolenia)
 - **Inżynier zamkowy — MAESTER WEYLIN** — woda/dreny/śluzy/zapasy. (Kruki idą przez własną pocztę Symona, NIE jego łańcuch Cytadeli.)
@@ -61,10 +61,11 @@ _Administracja osobna od Domu Handlowego._
 
 ### Dobra i sądy
 - **Rządca dóbr — mistrz WARRYN** — wsie, torfowiska, prawo połowu i przewozu przez bagna (marcher z krawędzi Przesmyku; pomost do Krannogmenów). [OBSADZONY rzut 75]
-- **Poborca czynszów** — rozliczany osobno od handlu (kasa 2). [WAKAT]
-- **Celnik traktu** — rejestr przejazdów przez Przesmyk (serce myta, kasa 2). **GARTH** (do zapytania).
+- **Poborca czynszów** — rozliczany osobno od handlu (kasa 2). [OBSADZONY 299-06-23 STRUKTURĄ, nie jednym człowiekiem: miejscowy przewoźnik zbiera/wskazuje (zna kto co winien) + pisarz grodzki spisuje + rewizor objazdowy zdziera obu; żaden sam nie trzyma całości. **NIE Warryn** (kto mierzy grunt, nie zbiera z niego czynszu — rozdział rąk).]
+- **Celnik traktu** — rejestr przejazdów przez Przesmyk (serce myta, kasa 2). **GARTH** [POTWIERDZONY 299-06-23].
 - **Sędzia grodzki — mistrz RODERYK** — sądzi poddanych lenna; NIGDY krewny lorda (chłód = bezstronność, spełnione z nawiązką).
-- **Pisarz grodzki** — protokoły i wyroki. [WAKAT]
+- **Pisarz grodzki** — protokoły i wyroki. [OBSADZONY 299-06-23: seconded jeden z piszących Symona; instrukcja-życiorys — czyta/pisze **za darmo dla niepiśmiennych** włości (listy/skargi/umowy) + uczy 2-3 bystrych chłopaków liter = pierwsze ziarno Fazy I (kadry) na ziemi Symona]
+- **Maester Fosy** — DOKTRYNA (299-06-23): **nie** łańcuchowy z Cytadeli w sercu tajnej korespondencji (firewall Lucana). Funkcje rozbite: kruki = **własny krucznik** (poza Cytadelą); leczenie = **Nina, zielarka-medyczka włości** (+uczennica; mech/zioła; wpięta w handel lekiem i relief); **slot prawdziwego maestra REZERWOWANY** dla własnego / sprawdzonego przez Theomore'a, gdy dojrzeje potok kadr. [obsada rozbita — zero rysy w środku]
 
 ### Sojusz Przesmyku
 **Krannogmeni (Howland Reed)** — brama + bagno = jedna zapora; prawdziwy garnizon Przesmyku (sojusz, nie poddani).

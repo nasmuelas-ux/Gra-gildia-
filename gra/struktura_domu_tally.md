@@ -66,6 +66,7 @@ _Administracja osobna od Domu Handlowego._
 - **Sędzia grodzki — mistrz RODERYK** — sądzi poddanych lenna; NIGDY krewny lorda (chłód = bezstronność, spełnione z nawiązką).
 - **Pisarz grodzki** — protokoły i wyroki. [OBSADZONY 299-06-23: seconded jeden z piszących Symona; instrukcja-życiorys — czyta/pisze **za darmo dla niepiśmiennych** włości (listy/skargi/umowy) + uczy 2-3 bystrych chłopaków liter = pierwsze ziarno Fazy I (kadry) na ziemi Symona]
 - **Maester Fosy** — DOKTRYNA (299-06-23): **nie** łańcuchowy z Cytadeli w sercu tajnej korespondencji (firewall Lucana). Funkcje rozbite: kruki = **własny krucznik** (poza Cytadelą); leczenie = **Nina, zielarka-medyczka włości** (+uczennica; mech/zioła; wpięta w handel lekiem i relief); **slot prawdziwego maestra REZERWOWANY** dla własnego / sprawdzonego przez Theomore'a, gdy dojrzeje potok kadr. [obsada rozbita — zero rysy w środku]
+- **Maester WYSTAN** — przysłany NIEPROSZONY przez Cytadelę (299-06-23) do siedziby Namiestnika (drugi maester obok Weylina = Cytadela dobija się o oko przy władzy). PRZYJĘTY+OBUDOWANY: jawna stacja (kronika/archiwum/prawo/rutynowe kruki, wsparcie przy Ninie — NIE zamiast niej); **żadnego palca przy tajnej korespondencji** (krucznik+Lucan osobno). Cytadela-first, oko Starmiasta; wie że obudowany (rzut 5), będzie sondował → firewall musi wytrzymać aktywne szukanie. Dźwignia: jego kanał do Starmiasta można karmić kontrolowanym przekazem.
 
 ### Sojusz Przesmyku
 **Krannogmeni (Howland Reed)** — brama + bagno = jedna zapora; prawdziwy garnizon Przesmyku (sojusz, nie poddani).
@@ -82,7 +83,7 @@ _Administracja osobna od Domu Handlowego._
 - Poborca czynszów + Pisarz grodzki: uczciwi miejscowi (Garrick/Willa wetują)
 - Sędzia grodzki: **mistrz RODERYK** (nigdy krewny lorda) · Celnik traktu: **GARTH** (do zapytania)
 
-**Ludność:** ~300–450 poddanych, rozproszeni (rybacy, kopacze torfu, traperzy, przewoźnicy, garść przy bramie).
+**Ludność:** ~**640 dusz** (spis 299-06-23; wzrost z ~400 przez napływ osadników) — rybacy, kopacze torfu, traperzy, przewoźnicy, trzcina, żelazo bagienne, ~150 osadników-rolników/pasterzy na suchszych marginesach, garnizon przy bramie. **~180 winter-vulnerable** (wdowy/starzy/dzieci/ubodzy). **DEFICYT ZBOŻA na ostrą zimę** (bagno rodzi opał/rybę/mech, nie chleb) → operacja „torf za chleb".
 
 **Ekonomia / produkcja:** torf (opał, eksport), ryba/ptactwo, trzcina, futra/skóry, żelazo bagienne. **ZERO zboża** — import (zboże Olenny w beczki warzelni). **Skarb prawdziwy = PRZEJŚCIE:** cła/myto/prowiantowanie ruchu traktu przez groblę → **Kasa 2 (dochód lenna)**.
 

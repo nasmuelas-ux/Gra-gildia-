@@ -713,5 +713,41 @@
   },
   "podsumowanie": "Dom stoi mocno ale przestawia silnik wojna->pokoj (dolek->wzrost); Lenno=inwestycja (dzis kosztuje, zwroci sie mytem/osadnikami/hubem); Krolestwo finansowo dopiero sie rodzi (brak bilansu - fundamenty: mennica/Skarbnik/danina w budowie).",
   "korekta_299_06_10": "Poprawka na uwagi gracza (konkret zamiast abstrakcji)."
+ },
+ "bilans_trzy_kasy_299_07_24": {
+  "data": "299-07-24",
+  "poprzedni_twardy": "299-06-10 (Kasa1 ~1900; Kasa2 faza inwest ~0/minus, myto ~20/mies)",
+  "metoda": "F=twarda, E=szacunek. Okres 06-10->07-24 = objazd+ekspansja, wiele ruchow to swieze wdrozenia bez zamknietego kursu (=E).",
+  "kasa1_dom_tally": {
+   "baza_wejsciowa_0610_jel": 1900,
+   "kapital_netto_teraz_jel_E": 1900,
+   "komentarz_netto": "UTRZYMANY ~1900 E ale sklad zmieniony: mniej gotowki, wiecej kapitalu w 3 placowkach dajacych dochod (Winterfell/Riverrun/Rozdroze). Majatek zachowany, jakosc kapitalu lepsza (aktywa zarobkowe), plynnosc cieńsza (swiadomie).",
+   "ramiona_stabilne": "faktoria Nesty, mlyn, papiernia (Wat), kamieniczka Schody (czynsz ~9 brutto/mies), ramie finansowe (Wick ~350 deployed, procent rosnie), naleznosci (Aldous ~28, Halvard ~50 w drodze)",
+   "ekspansja_1600_fazami": "3 placowki pld posadzone (Winterfell miasteczko/korytarz OTWARTA; Riverrun oddzial OTWARTY; Rozdroze sklad+ucho OBSADZONA-Deron Suchy wspolnik). RUCH HALA: przekuc umierajace ramie prowiantowe (bezczynne depoty/faktorzy/magazyny)=ekspansja za POL CENY. Realnie wylozone setup ~200-300 jel E + ~300-400 jel E kapital obrotowy zwiazany w placowkach (AKTYW nie strata). Reszta 1600 trzymana jako rezerwa, wdrazana wg tempa Hala.",
+   "odplywy": "pensje kadry (Hal/Tam udzial, juniorzy), ODPIS RELIEFU w kazdym oddziale (jalmuzna Kasy1), rezerwa na zle dlugi",
+   "pivot": "silnik wojenny (prowiant) wygasl -> przekuty w handel pokoju (wolniejszy nie stracony)",
+   "netto_mies_okres_jel_E": "~+50-80 miekkie (przejsciowy DOLEK - ekspansja+relief obciazaja, stabilne ramiona trzymaja plus; spadek z ~+85)",
+   "plynnosc": "sakiewka 95 jel + 2 smoki (~400 jel) + zaliczka kantor ~400 + rezerwa ekspansji. Wolnego srebra malo, kapital pracuje."
+  },
+  "kasa2_lenno_fosa": {
+   "stan": "WCIAZ FAZA INWESTYCJI - koszty odbudowy>myto, ale baza aktywow rosnie (mury/miasteczko/lecznica=trwaly majatek); INWESTYCJA nie strata",
+   "myto_jel_mies_E": "~25-30 (wzrost z ~20: korytarz + nowy szlak konwoju osadnikow/Muru/ziarna)",
+   "most_rzeka_kopcow": "myto dzielone z Dustinami (proporcje), swiezy drobny strumien E",
+   "koszty_okresu": "program rozwoju Fosy (miasteczko/szkola/lecznica), obsadzone wakaty (Kapitan strazy/Zbrojmistrz/Prowiantmistrz-import/Poborca czynszow/celnik Garth/Pisarz grodzki/maester WYSTAN)=pensje, mury/baszta/osadnicy (ziarno+narzedzia), DEFICYT ZYWNOSCI NA ZIME (nadchodzaca duza pozycja - dokupic ziarno via Olenna+torf-za-chleb+szklarnie)",
+   "netto_mies_okres_jel_E": "~-15 do -30 (minus inwestycyjny: program+pensje+odbudowa>myto), trend ku zeru (myto rosnie, kierunki dochodu mnoza sie)"
+  },
+  "nowe_kierunki_dochodu_potencjalne": {
+   "apteka_bagienna_mech_ziola": "Kasa2, potencjal WYSOKI (luksus/lekarski/rzadki), horyzont sredni (Reed/Wystan)",
+   "torf_za_chleb_eksport_torfu": "Kasa2, sredni (opal na wymiane za ziarno), krotki",
+   "skora_jaszczurolwow": "Kasa2, sredni-wysoki (luksus), sredni (Mira bada)",
+   "daniny_osadnikow_konwoj": "Kasa2, rosnie z zasiedleniem, sredni",
+   "myto_wzrost": "Kasa2, pewny powolny, ciagly",
+   "dochod_placowek": "Kasa1 (Rozdroze sklad/konwoj, Riverrun handel, Winterfell korytarz), sredni sezonuje, krotki-sredni",
+   "kanal_zbozowy_olenny": "Kasa1, marza handlu sredni cichy, JUZ kapie",
+   "atelier_miry": "Kasa1, przyszla gorka, sredni",
+   "faktoria_braavos_essos": "Kasa1 (Nesta), duzy dlugi",
+   "odzysk_lucana_baelish": "Kasa1, jednorazowy+przejety strumien zbozowy, tygodnie, KONTYNGENTNY (70% do Domu po 30% Lucana), NIE ZAKSIEGOWANY=upside"
+  },
+  "kontrola_rachmistrza": "Kasa1 ~utrzymana (1900 E, gotowka->aktywa, plynnosc cienka swiadomie). Kasa2 wciaz konsumuje (jak lenno w odbudowie) ale inwestycja z rosnaca baza+mnozacymi kierunkami, myto realne od zaraz. NAJWIEKSZE ZOBOWIAZANIE: deficyt ziarna na zime (Kasa2, pokrywany Olenna+torf+szklarnie nie gotowka). Odzysk Lucana=upside nie zaksiegowany (jesli wejdzie, przechyla Kasa1 mocno w plus). WARTOSC POZABILANSOWA objazdu (poza ksiega): sojusz Reeda, pakt Dorzecze, dlug Freyow splacony, 3 placowki, siatka wywiadu pld=kapital POLITYCZNY wart wiecej niz jelenie."
  }
 }

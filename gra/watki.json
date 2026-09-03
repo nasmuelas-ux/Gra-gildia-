@@ -2931,7 +2931,19 @@
    "id": "stan_poludnia_hollow_tron_299_07",
    "tytul": "Stan Poludnia: wydrazona korona Joffreya, Tywin realnym panem, Stannis-ciern na Smoczej Skale",
    "status": "USTALONY_kanon_299-07",
-   "nota": "07-06 (na pytanie gracza, korekta): Joffrey=zdelegitymizowany bekart kazirodztwa ale wciaz na tronie SILA Lannisterow (nie prawem)=korona hollow; Cersei=Krolowa Matka (cien), TYWIN=Reka+realny pan Poludnia; Margaery Tyrell zona Joffreya=klatka Olenny; STANNIS jedyny Baratheon, prawowity, ZLAMANY na Smoczej Skale (ciern nie sila, czerwona wiara, latentny), uznal niepodleglosc Polnocy (Symon dal mu legitymacje=HISTORIA miedzy nimi); skarb korony w gruzach/Bank. Polnoc=wolne uznane krolestwo poza tym. Tron na piasku=Tywin gra na czas/potrzebuje pokoju rozpaczliwie; Stannis=karta jak Tron zadrzy. Pelny opis: swiat.json/stan_poludnia_zelazny_tron_299_07."
+   "nota": "07-06 (na pytanie gracza, korekta): Joffrey=zdelegitymizowany bekart kazirodztwa ale wciaz na tronie SILA Lannisterow (nie prawem)=korona hollow; Cersei=Krolowa Matka (cien), TYWIN=Reka+realny pan Poludnia; Margaery Tyrell zona Joffreya=klatka Olenny; STANNIS jedyny Baratheon, prawowity, ZLAMANY na Smoczej Skale (ciern nie sila, czerwona wiara, latentny), uznal niepodleglosc Polnocy (Symon dal mu legitymacje=HISTORIA miedzy nimi); skarb korony w gruzach/Bank. Polnoc=wolne uznane krolestwo poza tym. Tron na piasku=Tywin gra na czas/potrzebuje pokoju rozpaczliwie; Stannis=karta jak Tron zadrzy. Pelny opis: swiat.json/stan_poludnia_zelazny_tron_299_07. || 07-06 KOREKTA DYNAMIKI (gracz: swiat nie statyczny) + rzut 95: REACH SILNIEJSZY OD LANNISTEROW (Zachod pobity/zadluzony, Reach caly/tlusty - korona Lannisterow WISI na tyrellowskiej podporze, nie odwrotnie); Olenna NIE spetana slabo lecz POLITYCZNIE (malzenstwo Margaery), trzyma mocniejsza karte, sprezyna. POLUDNIE W RUCHU (szczegoly swiat.json/poludnie_w_ruchu_299_07): Stannis na Mur (PILNY, osobny watek), Tyrell-Lannister peka, Dorne rusza cien, Bank weszy (Polnoc bez dlugu=wiarygodna). Tron zmierza ku krachowi/przetasowaniu, Tywin kupuje czas."
+  },
+  {
+   "id": "stannis_idzie_na_mur_299_07",
+   "tytul": "Stannis zwrocil sie na Polnoc/ku Murowi - rywalizujacy krol na progu zimy Polnocy",
+   "status": "PILNY_wykryty_299-07-06",
+   "nota": "07-06 (rzut wiesci 95, Brynden+Willa): STANNIS Baratheon (zlamany na pld, prawowity, czerwona kaplanka Melisandre) odpowiedzial na wolanie Nocnej Strazy, kieruje reszte floty/mieczy ze Smoczej Skaly KU MUROWI (Wschodnia Straznica) - 'krol ktory przyszedl na polnoc', szuka korony w ocaleniu krolestwa/wielkiej wojnie. INTERSEKCJA: idzie do Muru gdzie budzi sie stara noc (Reed), do ktorego Symon sle sluge Tally+zboze, i z ktorym Symon MA HISTORIE (dal mu legitymacje za niepodleglosc). Zima Polnocy zyskala 2. gracza: obcy krol z armia+ogniem u pln progu. DYLEMAT: sojusznik przeciw prawdziwemu wrogowi? zagrozenie suwerennosci Polnocy na Murze? OBA. Decyzja postawy PRZED spotkaniem Stannisa i zimy na Murze. Sprawa KROLA Robba (pilny list/uzgodnienie). Pilnowac przez Wille + posterunek Tally w Castle Black + sluge na Mur."
+  },
+  {
+   "id": "dorne_tajna_karta_ruch_299_07",
+   "tytul": "Dorne rusza cien - 1. nic tajnej karty Martellow",
+   "status": "WYKRYTE_glebszy_kop_Willa_299-07",
+   "nota": "07-06 (rzut 95): Martellowie WYSZLI Z BEZRUCHU po 20 latach - ciche poselstwa/ruch; Lew oslabl+zdelegitymizowany=moment zemsty Dorne. Pelnej 'tajnej karty' brak (glebszy kop=zadanie Willi trwa). Pajak sciaga nici; wiedziec ktoredy zanim Poludnie peknie."
   }
  ]
 }

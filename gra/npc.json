@@ -1400,6 +1400,12 @@
    "imie": "Nina - zielarka z osady rybaków (Fosa)",
    "rola": "Zielarka-medyczka włości Fosy (formalizowana 299-06-23) - leczenie, apteka bagna",
    "nota": "299-06-23: dala Symonowi wiedze o mchu bagiennym (opatrunek na rany) i ziolach na gorączke/piersi/zoladek. Wskazala ze gleboka wiedza=krannogowie/Reed. Praktyczny local asset przy Fosie. || 06-23 FORMALIZOWANA jako zielarka-medyczka wlosci Fosy (+uczennica, izba, zapas mchu/ziol) - czesc doktryny maestra-po-swojemu (leczenie bez lancuchowego z Cytadeli). Wpieta w handel lekiem + relief."
+  },
+  {
+   "id": "maester_wystan_fosy",
+   "imie": "Maester Wystan",
+   "rola": "Maester przyslany przez Cytadele do Fosy (nieproszony) - Cytadela-first, oko Starmiasta",
+   "nota": "299-06-23 przybyl 3 dni temu, PRZYSLANY przez Cytadele do siedziby Namiestnika BEZ prosby Symona (Cytadela rzuca sie do luki=chce swojego czlowieka przy lokciu wladzy; sam fakt=intel ze go obserwuja). Po 50-tce, siwy, chudy, lancuch gesty (sprawny/doswiadczony, nie zielony). ODCZYT Symona (rzut 26=chlodny, world-friction NIE porazka): (1) CYTADELA PIERWSZA Symon drugi ('przyslano mnie bym sluzyl' - obejmuje miejsce nie prosi; lojalnosc adres=Starmiasto nie mur Symona); (2) POGARDA dla lowborna cienko zawoalowana (zawiesil glos na 'Tally', zmierzyl brak lancucha); (3) juz zwietrzyl NINE i mu sie nie podoba (uwaza leczenie za wlasnosc z prawa lancucha - baba z mchem na 'jego' miejscu); (4) OBSERWUJE zawodowo (notuje spis/ludzi/Symona - JEST OKIEM). Doktryna Symona potwierdzona: NIE sadzic w sercu tajnej korespondencji. NIE odsylac z pogarda (snub=napluc Cytadeli w twarz, a gra cicha Theomore/przejscie/przeciaganie-po-jednym; snub drozszy niz wart). DECYZJA GRACZA PENDING: (1) przyjac+obudowac [instynkt Symona: jawna robota=kronika/archiwum/prawo/wsparcie-przy-Ninie-nie-zamiast/rutynowe jawne kruki; tajny kanal krucznik+Lucan osobno=firewall z zelaza; czytac->przeciagnac lub trzymac na uwiezi] / (2) odeslac uprzejmie / (3) posrednie (skierowac gdzie indziej, nie Fosa-serce)."
   }
  ],
  "w_orbicie": [

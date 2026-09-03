@@ -211,6 +211,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Lady Barbrey Dustin (z domu Ryswell)** (barbrey_dustin) —  · nast ?
 - **Wdowa Jonqull (Barrowton)** (wdowa_jonqull) —  · nast ?
 - **Ostry Hal (czlowiek Lady Dustin)** (ostry_hal) —  · nast ?
+- **Nina - zielarka z osady rybaków (Fosa)** (nina_zielarka_fosy) —  · nast ?
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

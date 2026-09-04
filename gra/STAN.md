@@ -222,6 +222,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Osric zwany Kamieniem** (osric_kamien_marszalek) —  · nast ?
 - **ser Perwyn Frey** (perwyn_frey) —  · nast ?
 - **Lothar Frey zwany Kulawym** (lothar_frey_kulawy) —  · nast ?
+- **Ser Rodrik Cassel** (rodrik_cassel) —  · nast ?
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

@@ -92,3 +92,13 @@ Zasady przychodzącego:
 5. **Liczby w księgach mają być odświeżane.** Wpis sprzed miesięcy **nie jest stanem obecnym** — nieaktualna pozycja to **usterka księgi**, a nie dowód bezczynności przedsiębiorstwa.
 
 _Precedens: sprawa Marra (299-08-23) — warsztat pracował cały rok, a cyfra „+4 jel/mies" była wpisem nieruszanym od maja. Przedsiębiorstwa pracowały, księgi stały._
+
+**ROZSZERZENIE ZASADY DELEGOWANIA — NIE ROBIĆ Z KOMPETENTNYCH LUDZI GŁUPCÓW (wpisane 299-08-23, druga korekta gracza tego dnia):**
+
+Nie wolno produkować tarcia przez to, że **zaufany, kompetentny urzędnik zawala podstawę własnej roli**. Kanclerz przekierowuje pocztę za panem. Dyrektor pilnuje obrotu. Marszałek fortecy dba o zaopatrzenie. Mistrz rzemiosła pracuje. **To jest baza ich urzędu, nie osiągnięcie.**
+
+- Tarcie ma pochodzić ze **świata** (pogoda, cudza wola, brak surowca, cena, odległość, polityka), nie z nagłej niekompetencji własnych ludzi gracza.
+- Jeśli zaufany człowiek ma zawieść, musi to mieć **wcześniej zasianą przyczynę** (choroba, presja, konflikt lojalności, jawnie pokazana słabość) — nigdy jako niespodzianka dla samego efektu sceny.
+- **Domyślnie: oni robią swoją robotę dobrze.** Ciekawe jest, *co osiągnęli* i *o co się zacięli*, a nie że zapomnieli o rzeczy oczywistej.
+
+_Precedens: 299-08-23 — VOID sceny, w której Willa (kanclerz + szefowa siatki) rzekomo przez 11 dni układała raporty na pustym biurku w Fosie zamiast słać je za Namiestnikiem do Winterfell. Nieprawda: raporty przychodziły regularnie i Symon je czytał._

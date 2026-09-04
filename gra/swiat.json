@@ -2,7 +2,7 @@
  "data": {
   "rok": 299,
   "miesiac": 8,
-  "dzien": 5,
+  "dzien": 11,
   "era": "AC"
  },
  "pora": "ranek",
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "Dzien Bilansu (1. miesiaca) - ale to domowe/BP, pod Halem; Symon w obozie",
- "dzien": 5,
+ "dzien": 11,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -108,7 +108,7 @@
   "wyjatek_historyczny": "Wczesniejsze uzycia (Jaime jako poufala nazwa, Stannis jako chlodne zdrobnienie) - przeszlosc; od teraz forma wlasciwa, a 'skryba' tylko jako swiadomy afront z konsekwencjami."
  },
  "konwencja_nazw_dom_handlowy": "299-05 (prosba gracza): terminologia Domu Handlowego Tally PO POLSKU/westeroska, nie wloska. tajna ksiega (nie libro segreto), wychowankowie (nie giovani). Reszta polska OK.",
- "zasada_konca_dnia_stan": "299-08-04 ZAMKNIETY na zgode gracza (kolosalny dzien budowania: moneta-wilk/miara/Glebokorzen/Osric-Marszal/ksztalt administracji/spisy fiskalne/2 filary domeny/struktura Domu Starkow/podwojny zaciag/Karta Wintertown). 299-08-05 RANEK w Winterfell - PRZYGOTOWANIA WESELA Robb-Roslin (za dni). Dzien w toku.",
+ "zasada_konca_dnia_stan": "299-08-05..11 MONTAZ dni zjazdu (Winterfell pecznieje choragwiami, przygotowania wesela, Willa snuje sie po sferze Dreadfortu; Mira+Lyra na trakcie z Fosy). 299-08-11 RANEK: Willa przynosi meldunek (mapa sfery Dreadfortu) - po nim ZWOLANIE Wielkiej Rady. Wesele ~za tydzien. Dzien w toku.",
  "ustroj_polnocy_aparat_299_06": {
   "istnieje": "Aparat DOMOWY Starkow: Kasztelan Winterfell (zamek/domena) + Maester Luwin (pismo/rachunki/kruki/rada/medycyna) - ludzie STARKOW nie korony/namiestnika (prywatny mozg rzadow Straznika, nie panstwowy).",
   "nie_istnieje": "Justycjariusz Polnocy / Skarbnik Polnocy / staly Marszalek choragwi jako URZEDY KORONY - Polnoc nigdy nie byla krolestwem z aparatem. Sprawiedliwosc=drabina osob do Starka osobiscie; podatki=lordowie+danina w naturze; wojsko=wezwanie choragwi ad hoc.",

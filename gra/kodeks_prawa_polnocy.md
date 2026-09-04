@@ -86,3 +86,14 @@ Grunt: [Z]wyczaj Polnocy (wzajemna pomoc w glebokie zimy - "Polnoc pamieta"; cho
 3. Rekwizycja tam gdzie Korona rusza ziarno = PO SLUSZNEJ CENIE, placone kredytem/moneta Korony (WILK), zapisane (rewizorzy/miara) = zakup/pozyczka prawa nie kradziez.
 4. JAWNOSC: uchwalone otwarcie na Wielkiej Radzie za zgoda lordow, wpisane w kodeks. Otwarta zgoda zdejmuje lek o centralizacje po cichu.
 Efekt: kryzys ziarna z miny politycznej -> AKT BUDUJACY LEGITYMACJE (Korona=gwarant przetrwania przez stary zwyczaj+jawne prawo).
+
+## PRAWO NASTĘPSTWA KORONY PÓŁNOCY (dodane 299-08-13, Symon+Justycjariusz Cerwyn; na Wielką Radę)
+System, nie osoba. Pierwsze prawo następstwa wolnej Północy (pierwszy król od ~300 lat).
+1. ZASADA KRWI + PRIMOGENITURA (męsko-preferencyjna): korona krwią Króla — najstarszy syn i linia → dalsi synowie → CÓRKI i ich linie (zanim korona opuści dzieci Króla ku bocznym) → rodzeństwo Króla. Córki dziedziczą (Północ: panie rządzą we własnym prawie).
+2. KLAUZULA MAŁŻONKA (sedno): gdy korona na/przez kobietę — mąż jest KONSORTEM nie królem; korona i władza zostają przy monarsze KRWI STARKÓW; dom męża NIE zyskuje roszczenia (ani tron, ani rządy); dzieci dziedziczą jako krew Króla nie dom ojca. Lek na strach "mąż córki zje Północ" — w prawie, nie w nadziei.
+3. REGENCJA (małoletni): RADA REGENCYJNA (Namiestnik + rada funkcyjna + królowa-matka), NIE jeden regent (jeden dom zagarnąłby władzę w imieniu dziecka). Regent rządzi i chroni, lecz NIE zmienia następstwa i NIE karze (spójne z kartą Zimowej Straży). Koniec z pełnoletnością.
+4. PRÓŻNIA (wygaśnięcie linii): WIELKA RADA lordów Północy wybiera następcę spośród uprawnionych (echo hist. Wielkiej Rady; udział lordów=spoiwo; instytucja Rady = konstytucyjny bezpiecznik na próżnię).
+5. UZNANIE: następca uznawany JAWNIE przez zgromadzonych lordów i urzędników Korony — chwila, w której Zimowa Straż przenosi wierność (rota: "służy następcy z chwilą uznania").
+6. FIREWALL: to mówi JAK nie KTO-teraz. Konkretny obecny dziedzic (przy bezdzietnym Robbie) + głęboki węzeł (Jon/śluby, córki) = decyzja Robba, poza tym prawem.
+DO JAWNEJ DEBATY NA RADZIE: męska preferencja vs pełna równość (Wyspa Niedźwiedzia/panie-we-własnym-prawie mogą pchać dalej; klauzula małżonka czyni dziedziczenie przez kobietę bezpiecznym, więc debata bez lęku).
+SENS: Taniec Smoków rozbrojony na poziomie SYSTEMU — nierozstrzygnięta osoba wisi, ale kiedykolwiek się rozstrzygnie, przekazanie będzie lawne, królestwo nie pęknie o proces.

@@ -3258,6 +3258,18 @@
    "tytul": "Robb jedzie do Freyow po weselu (honor paktu); Symon trzyma Winterfell, potem wschod",
    "status": "USTALONE_299-08-12",
    "nota": "299-08-12: SEKWENCJA (narada z Robbem). Slub w Winterfell; potem Robb jedzie do FREYOW/Bliznakow zgodnie z obietnica paktu - uhonorowac dom zony na jego ziemi (przyklada sie do rany statusowej Freyow z Lothara: krol ZJEZDZA do Bliznakow=nie tolerowani lecz odwiedzani przez Krola). SYMON zostaje w Winterfell (trzyma centrum Polnocy w nieobecnosci Robba - dwie glowy Korony nigdy naraz w drodze), i DOPIERO po powrocie Robba rusza na WSCHOD (objazd choragych + Dreadfort pod prawem goscia). Bezpieczenstwo Robba u Freyow=1. zadanie nowej Gwardii Krolewskiej (doktryna: krol nigdy bezbronny w murach Freya)."
+  },
+  {
+   "id": "rolka_musteru_299_08",
+   "tytul": "Rolka musteru Polnocy (Marszal Osric) - stan choragwi",
+   "status": "W_BUDOWIE_299-08-13_szkielet_wielkich_rodow_dziura_na_klanach",
+   "nota": "299-08-13 (rozmowa z Marszalem Osrikiem, rzut 29 mid-low) STAN MUSTERU: rolka rosnie ale trudniej niz liczono - SZKIELET wielkich rodow spisany (Umber/Karstark/Manderly/Glover/Mormont/Cerwyn/Dustin-Ryswell: kto ile wystawi/w jakim czasie), ale BRZEGI MIEKKIE: (1) KLANY GOR nie daja sie policzyc (niechec Flinta - nie licza ludzi na pergamin, przychodza gdy wilk zawola) = dziura; (2) pomniejsze domy + prawdziwa gotowosc mgliste; (3) BANERY PRZERZEDZONE po wojnie (straty na pld realne, wroceni zmeczeni przy plugu - sila mniejsza niz przed Trojzebem). Osric: bedzie SZKIELETEM nie zegarkiem (wielkich policze, klanow/drobnych nie zmusi do liczydla). Straz+Wilki=osobne komendy poza marszalkostwem banerow (Straz pod Pierwszym Mieczem, Wilki pod Torrenem), Osric aprobuje jako gap-fillery."
+  },
+  {
+   "id": "stala_armia_1000_299_08",
+   "tytul": "Stala armia Korony 1000 ludzi - cel POKOLENIOWY (Korona-nie-lordowie na ladzie); budowac malo->fazami z dochodu stalego",
+   "status": "ZASIANY_299-08-13_doktryna_(nie_teraz-arytmetyka+zima)",
+   "nota": "299-08-13 (Symon<->Osric, rzut 29): plan dlugofalowy STALEJ ARMII 1000 ludzi. WARTOSC (Osric widzi): zawodowy trzon ktory KORONA trzyma sama (nie baner lorda/nie pospolita)=Korona-nie-lordowie na ladzie; piechota gotowa gdy choragwie w polu; REZERWA NA MUR/Dluga Noc; szybka reakcja; kregoslup Korony. TWARDA ARYTMETYKA (czemu NIE teraz): (1) tysiac gab okragly rok=spichlerz sam dla siebie (zboze/zold/stal/kwatery) W SRODKU NIEDOBORU - Polnoc nie karmi armii w pokoju z rachunku nie lenistwa (zima zjadlaby proznujace gaby); (2) MANPOWER - skad tysiac co ma STAC nie orac, z przerzedzonej po wojnie puli (ta sama co banery/Mur/Wilki/zniwa); (3) FEUDALNA GROZA - lord widzacy Krola z wlasnym tysiacem zawodowcow pyta PRZECIW KOMU (karmi zal Boltona). DROGA (Osric): budowac jak Straz=MALO->FAZAMI (dziesiatki->setki->tysiac przez LATA); karmic z DOCHODU STALEGO (mennica/clo/domena Starkow/Kompania) NIE z worka wojennego (armii stalej nie stawia sie na jednorazowym lupie lecz na trwalej rencie); WZROST BRAMKOWANY GOSPODARKA (karmic z NADWYZKI - armia w dole rzeki od ziarna, rosnie za odbudowa produkcji: szklarnie/wlasne zniwa/spichlerz Dorzecza); OPRAWIC jako OBRONE KROLESTWA (Mur/Dluga Noc+szybka reakcja) nie piesc przeciw lordom. Cel POKOLENIOWY, zasiany dzis jako doktryna, NIE budowany teraz (arytmetyka+zima nie pozwola). Splot: Zimowa Straz+Zimowe Wilki=pierwsze stale sily Korony (patrz sila_zbrojna_polnocy_299_08); armia 1000=trzecia noga, ladowa."
   }
  ]
 }

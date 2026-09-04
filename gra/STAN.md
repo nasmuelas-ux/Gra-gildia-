@@ -219,6 +219,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Masha Heddle** (masha_heddle_rozdroze) —  · nast ?
 - **Deron zwany Suchym** (deron_suchy_rozdroze) —  · nast ?
 - **Petyr Baelish (Littlefinger)** (petyr_baelish_littlefinger) —  · nast ?
+- **Osric zwany Kamieniem** (osric_kamien_marszalek) —  · nast ?
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

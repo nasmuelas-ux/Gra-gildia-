@@ -97,3 +97,32 @@ System, nie osoba. Pierwsze prawo następstwa wolnej Północy (pierwszy król o
 6. FIREWALL: to mówi JAK nie KTO-teraz. Konkretny obecny dziedzic (przy bezdzietnym Robbie) + głęboki węzeł (Jon/śluby, córki) = decyzja Robba, poza tym prawem.
 DO JAWNEJ DEBATY NA RADZIE: męska preferencja vs pełna równość (Wyspa Niedźwiedzia/panie-we-własnym-prawie mogą pchać dalej; klauzula małżonka czyni dziedziczenie przez kobietę bezpiecznym, więc debata bez lęku).
 SENS: Taniec Smoków rozbrojony na poziomie SYSTEMU — nierozstrzygnięta osoba wisi, ale kiedykolwiek się rozstrzygnie, przekazanie będzie lawne, królestwo nie pęknie o proces.
+
+
+---
+
+## KARTA DLA RZĄDCY — prawo ziarna w praktyce (299-08-24, Justycjariusz Cerwyn + Symon Tally)
+
+_Pierwszy dokument WYKONAWCZY wolnej Północy: nie prawo, lecz instrukcja, jak prawo stosować. Kodeks mówi, CO WOLNO. Karta mówi, CO ZROBIĆ W CZWARTEK RANO. Jedna karta, obie strony, zdania krótkie — pisana POD ODCZYT NA GŁOS, bo rządca w małym holdfaście liczy na palcach i słucha kogoś, kto umie czytać._
+
+**KTO JEST ZBIERACZEM:** ten, kto trzyma żywność przed głodnymi, **żeby zdrożała**.
+
+**KTO NIE JEST:** ten, kto ma zapas dla swoich ludzi, na siew albo na zimę. **Zapas nie jest występkiem. Zapas jest przezornością.**
+
+**PRZYKŁAD — sprawa z Kamiennego Brodu (299-08-20):** młynarz Dennet zebrał grosz całej wioski i wykupił wiosną tanie zboże na przetrwanie wsi i na siew; nie sprzedał ani miarki. Sąsiad zgłosił go jako zbieracza. **Młynarz uniewinniony** — nie z łaski wykładni, lecz dlatego, że prawo nigdy go nie obejmowało.
+
+**OSTRZEŻENIE PRZED GORLIWOŚCIĄ (Cerwyn):** rządca, który zajmie za dużo, zaszkodzi królestwu bardziej niż ten, który zajmie za mało — **bo głodny nie zasieje na wiosnę.**
+
+### CZTERY KROKI PRZY DONIESIENIU
+
+1. **Spisz doniesienie** — kto donosi, na kogo, ile zboża, skąd wie. **Z imieniem donoszącego.**
+2. **Obejrzyj i policz. Nie zajmuj.** Patrzenie nie jest zajęciem.
+3. **Zapytaj, na co to jest** — na czyje gęby, na siew, na sprzedaż. Odpowiedź zapisz.
+4. **Jasne — rozstrzygnij sam. Niejasne — NIE ZAJMUJ i pytaj wyżej.** Niepewność nie jest wstydem. **Zajęcie na wyrost jest.**
+
+> **KTO DONOSI FAŁSZYWIE — ODPOWIADA. Doniesienie idzie z imieniem, a imię idzie do księgi.**
+> _(Bez tego zdania karta stałaby się bronią, którą Morn sięgnął 299-08-15.)_
+
+**PYTAĆ WYŻEJ = DO JUSTYCJARIUSZA KORONY.** To NIE jest droga odwoławcza chłopa od pana (świadomie odrzucona 299-08-22 jako wejście lordom do ich sądów) — **to urzędnik pyta o wykładnię**. Korona nie zabiera lordom sądu; daje ich ludziom adres do kogoś, kto zna prawo.
+
+_Odpisy: papiernia Domu Tally (setka kosztuje grosze), rozsyłka do lordów w ciągu dni. Cerwyn zastrzegł: jeśli pytań przyjdzie dużo, będzie potrzebował drugiego pisarza._

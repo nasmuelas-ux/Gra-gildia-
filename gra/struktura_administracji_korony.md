@@ -23,7 +23,7 @@
 |---|---|---|---|
 | **Justycjariusz Północy** | apelacje ponad drabiną lordów; sprawiedliwość Króla | **Medger Cerwyn** | obsadzony |
 | **Skarbnik** | skarb, mennica (wilk), miara, danina, rewizja finansów | **WAKAT** (most: ranga + ręka + rewizor; potok z ław Luwina) | wakat holdera |
-| **Marszał chorągwi** | zwoływanie/przegląd, rolka musteru, obrona, przyszła drużyna 1k | **WAKAT** (urząd stoi od 06-09) | wakat holdera |
+| **Marszał chorągwi** | zwoływanie/przegląd, rolka musteru, obrona, przyszła drużyna 1k | **Osric „Kamień"** (nie-lord, weteran „co liczył miecze") | OBSADZONY 299-08-04 |
 
 **Marszałkowie pomocniczy (regionalni, feudalna warstwa):** **Rickard Karstark = wschód** (od 06-09, straż osi Dreadfortu). Zachód/brzeg/Mur — do rozpisania. Doktryna Marszała: przysięga Koronie, rotacja, **żaden pojedynczy lord nie trzyma całej armii.**
 
@@ -45,8 +45,8 @@
 
 ## VII. STAN OBSADY
 - **Stoi:** Król · Namiestnik (Symon) · Justycjariusz (Cerwyn) · kancelaria Namiestnika (Garrick) · uczoność-pilot (Luwin) · mennica+miara (świeże) · marszałek pomocniczy wschodu (Karstark).
-- **Wakuje holderem / do zbudowania:** **Skarbnik** · **Marszał chorągwi** (koronny) · marszałkowie pomocniczy zachodu/brzegu/Muru · rolka musteru · rewizorzy Korony · pełny potok kadr (rośnie z ław Luwina).
+- **Wakuje holderem / do zbudowania:** **Skarbnik** (rekrutacja, Biały Port, nie-lord) · marszałkowie pomocniczy zachodu/brzegu/Muru · rolka musteru · rewizorzy Korony · pełny potok kadr (rośnie z ław Luwina).
 
-**→ Wniosek:** szkielet stoi (rada funkcyjna położona, urzędy zdefiniowane), a **mięśni brak w dwóch miejscach — SKARB (Skarbnik) i MIECZ (Marszał chorągwi)** — plus kręgosłup kadr, który dopiero rośnie. To mapa dalszej obsady.
+**→ Wniosek:** szkielet stoi (rada funkcyjna położona, urzędy zdefiniowane), a **mięśni brak już tylko w jednym miejscu — SKARB (Skarbnik, w rekrutacji)**; MIECZ (Marszał chorągwi) obsadzony Osrikiem — plus kręgosłup kadr, który dopiero rośnie. To mapa dalszej obsady.
 
 *Zgodny z radą funkcyjną (06-09) i zakresem urzędu Namiestnika (06-11). Do przedłożenia Królowi i 1. wielkiej radzie. Aktualizować przy każdej nominacji.*

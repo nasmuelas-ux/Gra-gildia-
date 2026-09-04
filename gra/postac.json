@@ -812,15 +812,79 @@
    "dochod_staly": "EMERGING (wilk/clo/demena), jeszcze cienki ale JUZ STRUKTURALNY (jest aparat do poboru, nie goly trzos)",
    "wyscig": "worek wojenny TOPNIEJE fundujac budowe - musi zdazyc nim wyschnie, zanim mennica/clo/Dom Starkow zastapia go dochodem stalym (zima vs dojrzewanie systemu)"
   },
-  "do_pilnowania": "(1) deficyt ziarna na zime=jedyny twardy dlug (Kasa2); (2) worek wojenny Korony topnieje fundujac Faza I (Kasa3)=wyscig z dojrzewaniem stalego dochodu."
+  "do_pilnowania": "(1) deficyt ziarna na zime=jedyny twardy dlug (Kasa2); (2) worek wojenny Korony topnieje fundujac Faza I (Kasa3)=wyscig z dojrzewaniem stalego dochodu.",
+  "KOREKTA_299_08_19": "PATRZ REAUDYT_EKONOMICZNY_299_08_19. Liczba netto_realizowane_mies_E ~+120-180 dla Kasy 1 byla WOLNA GOTOWKA PO REINWESTYCJI, nie zyskiem - faktyczne NETTO DOMU ~+295-495/mies (srodek ~+380). Kasa 2 (lenno Fosy) NIE jest strukturalnie deficytowa: mylono myto pana (Kasa 2, 90-160/mies usrednione) z clem Korony (Kasa 3, 220-450/mies usrednione), a jedna zanizona liczba 20-30 zastepowala oba. Kasa 3 ma na Fosie NIEPOBIERANY organ dochodu = granica celna krolestwa wewnatrz prywatnego lenna Namiestnika, bez taryfy i rejestru, z celnikiem podleglym panu nie Skarbnikowi (do podniesienia przez Symona SAMEMU i JAWNIE)."
  },
  "zycie_prywatne": {
   "ciaza_miry_299_08": "299-08-13: Mira (zona) w ciazy - DRUGIE dziecko (pierworodny ur. ~298-06 zdrow). Wczesne, kruche pierwsze miesiace; TAJEMNICA miedzy Symonem a Mira (nie przycmic wesela Robba, nie kusic losu); braavijski medyk czuwa. Grunt/human ballast Symona.",
   "odpoczynek_299_08_13": "299-08-13 wieczor: Symon odpoczal u Miry z dzieckiem (odlozyl urzad na wieczor, obecny jak maz/ojciec). Grunt/human ballast odbudowany glebiej niz sen. Status wieczor: sytosc 42->58, zmeczenie 16->8.",
   "mira_wraca_do_bp_299_08_19": "299-08-19 (rzut 15): Symon prosil Mire by zostala w Winterfell na czas ciazy - MIRA ODMOWILA slusznie (atelier sie zapala, jej dom=jej grunt, w ciazy chce wlasnego lozka nie cudzego zamku, okno podrozy jest DZIS a nie pozniej, a Symon i tak jedzie na wschod gdy Robb wroci). Ustalono: Mira WRACA SZYBKO do Bialego Portu z eskorta i opieka na miejscu; LYRA (14 miesiecy) jedzie z matka - roczne dziecko nie zostaje bez matki; SYMON PRZYJEZDZA DO NIEJ (wschod->Bialy Port, Fosa po drodze). Symon bedzie DALEKO od zony w kruchych miesiacach = cichy niepokoj. Mira nazwala prawdziwy powod prosby: strach.",
-  "eskorta_i_opieka_miry_299_08_19": "299-08-19 (rzut 23, PO KOREKCIE FAKTU): eskorta i opieka zorganizowane. VOID: pierwotny zapis o braku wlasnych ludzi (druzyna z Garrickiem na Fosie) byl SPRZECZNY Z FAKTEM - Symon MA przy sobie przyboczna STENA (kilkunastu, zawsze z Namiestnikiem, Dagon i Harl pod nim); void tez najem czterech odrzuconych z naboru Rodrika (ta scena NIE MIALA MIEJSCA). FAKTYCZNIE: Symon DZIELI WLASNA PRZYBOCZNA - szesciu pod DAGONEM jedzie z Mira i Lyra, reszta ze Stenem zostaje przy nim. Jada W KOLUMNIE MANDERLYCH (ser Wylis splaca dlug z Harrenhal) nie z braku eskorty, lecz dla NIEWIDZIALNOSCI: kilkunastu pod proporcem Tally osobno = policzalna grupa warta wysledzenia, ci sami wewnatrz ~100 ludzi Wymana = nikt. Kasa 1 jak zawsze (wlasni ludzie, wlasny grosz), zero kosztu Korony, zero precedensu. CENY: (I) OSLONA NAMIESTNIKA SCIENIONA O POLOWE w chwili gdy trzyma Winterfell pod nieobecnosc krola, z kryzysem Muru i pekniecien na wschodzie - na objazd wschodu pojedzie lzej osloniety niz powinien; swiadomy rachunek. (II) Wyman rusza ZA TRZY DNI (08-22) - 3 dni z zona zamiast 2 tygodni; Symon nie decydowal za nia, Mira przyjela (trzy dni to trzy dni, nie zmarnujmy ich na organizowanie). DOKTRYNA: nie musial siegac po ludzi Korony bo mial swoich - ale wazne jest, ze NAWET MU TO NIE PRZYSZLO DO GLOWY, choc jako Namiestnik trzymajacy Winterfell mogl wziac 20 jezdzcow jednym zdaniem i nikt by go nie powstrzymal. Mur trzech kas trzyma bez wysilku, bo dla niego nie jest murem lecz oczywistoscia. OPIEKA W BP (bez zmian, list do Hala, Kasa 1 z gory): Gerda+Marna OBIE na retencji, medyk na wezwanie dzien i noc, zapasy przed zima, kobieta nocujaca, kon stale osiodlany, kanal Nesty priorytetowy, atelier wsparte logistycznie bez wtracania sie w rzemioslo; dopisek wlasna reka: wybierz moja zone przed moim interesem i nie pytaj o zgode. OSAD: niczego nie sprawdzi osobiscie - zaufanie to nie obecnosc."
+  "eskorta_i_opieka_miry_299_08_19": "299-08-19 (rzut 23, PO KOREKCIE FAKTU): eskorta i opieka zorganizowane. VOID: pierwotny zapis o braku wlasnych ludzi (druzyna z Garrickiem na Fosie) byl SPRZECZNY Z FAKTEM - Symon MA przy sobie przyboczna STENA (kilkunastu, zawsze z Namiestnikiem, Dagon i Harl pod nim); void tez najem czterech odrzuconych z naboru Rodrika (ta scena NIE MIALA MIEJSCA). FAKTYCZNIE: Symon DZIELI WLASNA PRZYBOCZNA - szesciu pod DAGONEM jedzie z Mira i Lyra, reszta ze Stenem zostaje przy nim. Jada W KOLUMNIE MANDERLYCH (ser Wylis splaca dlug z Harrenhal) nie z braku eskorty, lecz dla NIEWIDZIALNOSCI: kilkunastu pod proporcem Tally osobno = policzalna grupa warta wysledzenia, ci sami wewnatrz ~100 ludzi Wymana = nikt. Kasa 1 jak zawsze (wlasni ludzie, wlasny grosz), zero kosztu Korony, zero precedensu. CENY: (I) OSLONA NAMIESTNIKA SCIENIONA O POLOWE w chwili gdy trzyma Winterfell pod nieobecnosc krola, z kryzysem Muru i pekniecien na wschodzie - na objazd wschodu pojedzie lzej osloniety niz powinien; swiadomy rachunek. (II) Wyman rusza ZA TRZY DNI (08-22) - 3 dni z zona zamiast 2 tygodni; Symon nie decydowal za nia, Mira przyjela (trzy dni to trzy dni, nie zmarnujmy ich na organizowanie). DOKTRYNA: nie musial siegac po ludzi Korony bo mial swoich - ale wazne jest, ze NAWET MU TO NIE PRZYSZLO DO GLOWY, choc jako Namiestnik trzymajacy Winterfell mogl wziac 20 jezdzcow jednym zdaniem i nikt by go nie powstrzymal. Mur trzech kas trzyma bez wysilku, bo dla niego nie jest murem lecz oczywistoscia. OPIEKA W BP (bez zmian, list do Hala, Kasa 1 z gory): Gerda+Marna OBIE na retencji, medyk na wezwanie dzien i noc, zapasy przed zima, kobieta nocujaca, kon stale osiodlany, kanal Nesty priorytetowy, atelier wsparte logistycznie bez wtracania sie w rzemioslo; dopisek wlasna reka: wybierz moja zone przed moim interesem i nie pytaj o zgode. OSAD: niczego nie sprawdzi osobiscie - zaufanie to nie obecnosc.",
+  "rozkaz_druzyna_fosy_299_08_19": "299-08-19 (rzut 24): ROZKAZ DO HENDRY EGO (Marszalek fortecy Fosy Cailin) - drużyna 50->100, przyboczna do pelnych 30 wyszkolonych. WARIANT B: werbunek W TEMPIE NA JAKIE STAC MYTO, bez dlugu i bez pozyczki miedzy kasami (Symon odrzucil pozyczke Kasa1->Kasa2 i odrzucil oddanie Fosy pod zold Korony, ktore uczynilo by z jego ludzi ludzi krolewskich). DO WINTERFELL NIE JEDZIE NIKT - rozkaz odwolany przez Symona zanim wyszedl: zadnych zbrojnych Tally w krolewskiej siedzibie pod jego wlasna regencja (usuwa w calosci ryzyko odczytania jako wprowadzenie wlasnego wojska do zamku krola pod nieobecnosc krola - oko Boltona/Karstarka). Fosa nie schodzi ponizej pelnego stanu, nigdy. Przyboczna szkolona spokojnie: jakosc przed liczba. UWAGA: po re-audycie z tego samego wieczoru stac go bylo na szybszy wariant (netto domu ~+380/mies, koszt 65 ludzi ~150/mies) - B pozostaje WYBOREM ostroznosci, nie koniecznoscia. Zmiana wlasnej struktury domu: dotad przyboczna to kilkunastu ludzi nie wiecej; 30 przybocznych to juz mala kompania i tak bedzie czytany jadac przez ziemie Boltona."
  },
  "log_kasy_dopiski": [
   "299-08-14: op Baelish (Lucan) odzysk ~300 jel wartosci (parcel zboza~180+grosz~120); Lucan 30%~90, Dom Kasa1 70%~210; parcel zboza->relief opcja. Strumien nieprzejety (watch-and-map)."
- ]
+ ],
+ "REAUDYT_EKONOMICZNY_299_08_19": {
+  "powod": "KOREKTA NA ZADANIE GRACZA (299-08-19). Gracz zakwestionowal skale ekonomiczna: (1) dom handlowy z 6 filiami i dyrektorem generalnym raportowany na netto +120-180/mies, podczas gdy gra/dom_handlowy.md dla JEDNEGO osrodka (Bialy Port) podaje GROSS +355-580 / KOSZTY -165-275 / NETTO +180-320 (wyliczony miesiac +213) - SPRZECZNOSC WEWNETRZNA, dom z 6 wezlami nie moze zarabiac mniej niz z jednym; (2) clo Fosy Cailin ~20-30 jel/mies dla JEDYNEJ LADOWEJ DROGI DO POLNOCY - razaco zanizone.",
+  "weryfikacja_trzeciego_zarzutu": "Gracz podal kotwice 400-500 jel/mies z solowych audytow w Bialym Porcie - TEGO W KRONICE NIE MA i nie zostalo przyjete. Zapisy: pojedynczy audyt +4 do +28 jel; wielki audyt Voxa +65 (sakiewka 36->101); audyt manifestow +60 (109->169); retainery 12-20/mies. Solowy Symon realnie ~+50-100/mies w dobrym miesiacu. Liczba 400-500 wystepuje w kronice jako STAN KASY (np. kasa->811), nie jako dochod miesieczny. Wniosek gracza o skali pozostaje SLUSZNY, ale na podstawie zarzutu (1) i (2), nie tej kotwicy.",
+  "znalezisko_I_dom_handlowy": "BLAD PREZENTACJI, NIE RETCON: liczba +120-180 byla WOLNA GOTOWKA PO REINWESTYCJI, nie zyskiem domu. W ksiegach stalo to od dawna (GROS reinwestowany, stad chude plynne) - dom zarabial duzo i wtapial wszystko w rozrost (5 nowych filii, papiernia, arteria, zatowarowanie skladow). Podawano dno wiadra zamiast wydajnosci studni.",
+  "skorygowana_skala_domu_299_08": {
+   "bialy_port_dojrzaly": {
+    "gross": "420-560",
+    "netto": "200-280",
+    "sklad": "kantor, sol, mlyn, papiernia, kamieniczka, arteria, brokerka"
+   },
+   "fosa_cailin_hq": {
+    "gross": "120-200",
+    "netto": "55-95",
+    "sklad": "HQ + sklad przy bramie, obsluga karawan, brokerka tranzytu"
+   },
+   "winterfell": {
+    "gross": "110-180",
+    "netto": "50-85",
+    "sklad": "stolica, dwor, kontrakty, obsluga Korony"
+   },
+   "riverrun": {
+    "gross": "80-140",
+    "netto": "30-60",
+    "sklad": "Dorzecze, Kompania Polnoc-Dorzecze"
+   },
+   "rozdroze": {
+    "gross": "70-130",
+    "netto": "25-55",
+    "sklad": "najruchliwsze skrzyzowanie Westeros"
+   },
+   "czarny_zamek": {
+    "gross": "15-30",
+    "netto": "-10 do 0",
+    "sklad": "strategiczny, dotowany"
+   },
+   "ramie_finansowe": {
+    "gross": "60-110",
+    "netto": "35-70",
+    "sklad": "weksle, underwriting, rekojmie"
+   },
+   "SUMA_GROSS_mies": "~875-1350 jel",
+   "SUMA_NETTO_wezlow": "~+385-645 jel",
+   "NARZUT_CENTRALI": "~-90-150 jel (Hal dyrektor, klerkowie, kasjer reliefu, kurierzy, czynsze filii, dziesiecina reliefu)",
+   "NETTO_DOMU_MIES": "~+295-495 jel/mies (realizowane w srodkowym miesiacu ~+380)",
+   "uwaga_plynnosc": "Plynnosc DALEJ moze byc cienka, bo Symon reinwestuje - ale to WYBOR, nie ubostwo. Rozroznienie zysk vs wolna gotowka ma byc odtad ZAWSZE raportowane osobno."
+  },
+  "znalezisko_II_clo_vs_myto": "BLAD KATEGORII: podawano JEDNA liczbe 20-30 jel/mies na DWA odrebne strumienie nalezace do DWOCH ROZNYCH KAS. (1) MYTO I PRZEWOZOWE = prawo pana lenna -> KASA 2 (grobla, most, utrzymanie traktu, skladowe, oplaty targowe; naliczane OD OSI I CIEZARU). (2) CLO = prawo Korony -> KASA 3, bo Polnoc jest SUWERENNYM KROLESTWEM od 299, a Fosa Cailin to JEJ JEDYNA LADOWA GRANICA CELNA (naliczane OD WARTOSCI TOWARU, wielokrotnie grubsze niz myto).",
+  "dlaczego_20_30_bylo_obronne_a_dzis_martwe": "Wtedy: grobla ruina, trakt zly, wojna, Poludnie wrogie, ruch prawie zerowy, BRAK APARATU (celnik Garth stanal przy bramie dopiero niedawno). Teraz zmienilo sie TO, CO SYMON SAM ZBUDOWAL w ostatnich 2 tygodniach: pokoj i otwarcie traktu; KOMPANIA POLNOC-DORZECZE (nowy staly korytarz handlowy z Edmurem i Blackwoodem); ZBOZE OLENNY przez posrednika w Dorzeczu (konwoje pojda LADEM, PRZEZ JEGO BRAME); odbudowana grobla, most Rzeki Kopcow, most na trakcie.",
+  "skorygowane_pasma_bramy": {
+   "myto_pana_KASA2": {
+    "w_sezonie": "120-250 jel/mies",
+    "rocznie_usrednione": "90-160 jel/mies"
+   },
+   "clo_korony_KASA3": {
+    "w_sezonie": "300-700 jel/mies",
+    "rocznie_usrednione": "220-450 jel/mies"
+   },
+   "wniosek": "KASA 2 FOSY NIE JEST DEFICYTOWA - JEST ZLE MIERZONA. Wymaga jednak APARATU (taryfa, waga, rejestr wartosci, rewizorzy, dosc zbrojnych by uchylanie sie nie oplacalo) i CENZUSU RUCHU (nikt nie policzyl wozow)."
+  },
+  "ZNALEZISKO_III_KONSTYTUCYJNE": "NAJPOWAZNIEJSZE, i NIE jest ksiegowe: GRANICA CELNA KORONY POLNOCY LEZY WEWNATRZ PRYWATNEGO LENNA NAMIESTNIKA KROLA - bez taryfy, bez rejestru wartosci, a celnik (Garth) odpowiada PANU LENNA, nie Skarbnikowi. Nikt nie ukradl i nikt nie oszukal - po prostu nikt tego nie rozdzielil, bo do niedawna nie bylo ani Skarbnika, ani cla, ani krolestwa. ALE: (a) to sa pieniadze KTORYCH KORONA NIE POBIERA w miesiacu gdy worek wojenny topnieje a Symon szuka srebra na ziarno; (b) to jest DOKLADNIE TEN KSZTALT, ktorego szuka Roose Bolton, wymierzony w piers Symona. Wlasna doktryna Symona (jawnosc jako bron, urzad nie krew, mur trzech kas) NIE ZOSTAWIA MU WYBORU: musi podniesc to SAM, GLOSNO, PIERWSZY - zanim ktokolwiek to znajdzie. Kierunek: komora celna pod SKARBNIKA (Gawen), Symonowi zostaje wylacznie wlasciwe myto pana; zysk polityczny = wreczyl Koronie gotowy organ dochodu zamiast dac sie na nim zlapac.",
+  "zasada_na_przyszlosc": "RAPORTOWAC ZAWSZE OSOBNO: (1) ZYSK vs (2) WOLNA GOTOWKA PO REINWESTYCJI; oraz OSOBNO myto pana (Kasa 2) i clo Korony (Kasa 3). Nie zbijac strumieni roznych kas w jedna liczbe. Skalowac dochod wezlow do ICH RANGI I RUCHU, nie do przyzwyczajenia z poprzedniego snapshotu."
+ }
 }

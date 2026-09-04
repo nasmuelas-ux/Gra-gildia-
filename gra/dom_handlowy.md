@@ -215,3 +215,62 @@ Płace/udziały zespołu ~−78 · rezerwa złe długi ~−14 · barka ~−6 · 
 - **Pergamin** dopiero się rozkręca (~+15 netto); sufit 2–3× jesienią gdy 2. czeladnik + hurt/warsztat dojrzeją.
 - **Usługi (pasywne)** wróciły do pełni po powrocie Fenna — brokering+audyty niosą najwięcej z tej warstwy.
 - **Arteria** wciąż SSIE (−33) — inwestycja w linię Wymana przed zwrotem; gdy dolna noga dojrzeje, przełączy się z wypływu na filar.
+
+
+---
+
+# KOREKTA SKALI — 299-08-19 (re-audyt na zadanie gracza)
+
+_Ksiega powyzej opisuje JEDEN osrodek (Bialy Port) w 298-06. Dom ma teraz SZESC wezlow i dyrektora generalnego. Ponizsze zastepuje wszystkie pozniejsze snapshoty netto._
+
+## Znalezisko I — raportowano wolna gotowke, nie zysk
+
+Liczba **+120-180/mies** z bilansu 299-08-11 to bylo **to, co zostawalo po reinwestycji**, nie zysk domu. W ksiegach stalo to od dawna: _"GROS reinwestowany (stad chude plynne)"_. Dom zarabial duzo i wtapial wszystko w rozrost (piec nowych filii, papiernia, arteria, zatowarowanie skladow).
+
+**To poprawka prezentacji, nie retcon.**
+
+## Skorygowana skala — 299-08
+
+| Wezel / ramie | GROSS /mies | NETTO /mies |
+|---|---:|---:|
+| Bialy Port (kantor, sol, mlyn, papiernia, kamieniczka, arteria, brokerka) | 420-560 | **200-280** |
+| Fosa Cailin — HQ + sklad przy bramie, obsluga karawan, brokerka tranzytu | 120-200 | **55-95** |
+| Winterfell — stolica, dwor, kontrakty, obsluga Korony | 110-180 | **50-85** |
+| Riverrun — Dorzecze, Kompania Polnoc-Dorzecze | 80-140 | **30-60** |
+| Rozdroze — najruchliwsze skrzyzowanie Westeros | 70-130 | **25-55** |
+| Czarny Zamek — strategiczny, dotowany | 15-30 | -10-0 |
+| Ramie finansowe — weksle, underwriting, rekojmie | 60-110 | **35-70** |
+
+- **GROSS RAZEM: ~875-1 350 jel/mies**
+- **NETTO wezlow: ~+385-645**
+- **Narzut centrali** (Hal jako dyrektor, klerkowie, kasjer reliefu, kurierzy, czynsze filii, dziesiecina reliefu): **~-90-150**
+- ## **NETTO DOMU: ~+295-495 jel/mies** (srodkowy miesiac **~+380**)
+
+## Znalezisko II — clo to nie myto (blad kategorii)
+
+Jedna liczba **20-30 jel/mies** zbijala **dwa strumienie nalezace do dwoch roznych kas**:
+
+| strumien | podstawa | w sezonie | usrednione | kasa |
+|---|---|---:|---:|---|
+| **Myto i przewozowe** — prawo pana lenna | od osi i ciezaru; grobla, most, trakt, skladowe, targ | 120-250 | **90-160** | **Kasa 2** |
+| **Clo** — prawo Korony | **od wartosci towaru**; jedyna ladowa granica celna suwerennej Polnocy | 300-700 | **220-450** | **Kasa 3** |
+
+**Kasa 2 Fosy nie jest deficytowa — byla zle mierzona.**
+
+Dlaczego 20-30 bylo obronne w wojne, a dzis jest martwe: grobla byla ruina, trakt zly, Poludnie wrogie, ruch prawie zerowy, aparatu nie bylo (celnik Garth stanal niedawno). Zmienilo sie to **reka samego Symona**: pokoj, Kompania Polnoc-Dorzecze, zboze Olenny idace **ladem przez ta brame**, odbudowana grobla, most Rzeki Kopcow.
+
+**Brakuje aparatu:** cenzus ruchu (nikt nie policzyl wozow), taryfa, waga, rejestr wartosci, rewizorzy, dosc zbrojnych by uchylanie sie nie oplacalo.
+
+## Znalezisko III — konstytucyjne, nie ksiegowe
+
+> **Granica celna Korony Polnocy lezy wewnatrz prywatnego lenna Namiestnika Krola** — bez taryfy, bez rejestru wartosci, a celnik odpowiada panu lenna, nie Skarbnikowi.
+
+Nikt nie ukradl i nikt nie oszukal: do niedawna nie bylo ani Skarbnika, ani cla, ani krolestwa. Ale to sa pieniadze, ktorych Korona **nie pobiera**, w miesiacu gdy worek wojenny topnieje — i dokladnie ten ksztalt, ktorego szuka Roose Bolton.
+
+**Do podniesienia przez Symona samemu, glosno, pierwszego.** Watek: `komora_celna_fosy_pod_skarbnika_299_08`.
+
+## Zasada raportowania na przyszlosc
+
+1. **Zysk** i **wolna gotowka po reinwestycji** — zawsze osobno, nigdy jedna liczba.
+2. **Myto pana (Kasa 2)** i **clo Korony (Kasa 3)** — zawsze osobno.
+3. Dochod wezla skalowac do **jego rangi i ruchu**, nie do przyzwyczajenia z poprzedniego snapshotu.

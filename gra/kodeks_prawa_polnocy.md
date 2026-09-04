@@ -78,3 +78,11 @@
 ---
 
 *Dokument roboczy Namiestnika — do przedłożenia jawnie Wielkiej Radzie na ratyfikację. Warstwy i kolizje oznaczone; wątpliwość rozstrzyga Król-w-Radzie na rzecz pokoju królestwa i zwyczaju Północy.*
+
+## PRAWO ZIMOWEGO RATUNKU (dodane 299-08-12, Symon+Justycjariusz Cerwyn)
+Grunt: [Z]wyczaj Polnocy (wzajemna pomoc w glebokie zimy - "Polnoc pamieta"; chomikowanie chleba w glod = odwieczna hanba) + A4 (pierwszy obowiazek lorda = przezycie jego ludzi; rola Korony = spiac ten obowiazek w skali krolestwa). NIE nowa wladza - ODKRYTA stara.
+1. KORONA = KOORDYNATOR ratunku (klirinhaus), NIE wlasciciel/zaborca ziarna: dopilnowuje by zboze plynelo do glodnych.
+2. OSTRZE na HOARDEROW/spekulantow zatrzymujacych zywnosc przed glodnymi DLA ZYSKU (wystepek przeciw przetrwaniu krolestwa) - NIE na lordow karmiacych swoich ludzi (ci chronieni+wspierani). => rozwiazuje igle: lojalny lord bezpieczny, tylko lichwiarz chleba zagrozony (Bolton nie ukuje zalu z prawa chroniacego kazdego uczciwego lorda).
+3. Rekwizycja tam gdzie Korona rusza ziarno = PO SLUSZNEJ CENIE, placone kredytem/moneta Korony (WILK), zapisane (rewizorzy/miara) = zakup/pozyczka prawa nie kradziez.
+4. JAWNOSC: uchwalone otwarcie na Wielkiej Radzie za zgoda lordow, wpisane w kodeks. Otwarta zgoda zdejmuje lek o centralizacje po cichu.
+Efekt: kryzys ziarna z miny politycznej -> AKT BUDUJACY LEGITYMACJE (Korona=gwarant przetrwania przez stary zwyczaj+jawne prawo).

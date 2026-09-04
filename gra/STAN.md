@@ -10,7 +10,7 @@ Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
 5. Watki w toku → pytanie "co robisz" (bez listy opcji)
 
 ## TERAZ
-- **Data:** 299-08-04 dzien · lato (298)
+- **Data:** 299-08-05 ranek · lato (298)
 - **Miasto:** Bialy Port (White Harbor) · rod Manderly
 - **Postac:** Symon, l.24 — WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (
 - **Mieszka:** ZAMIESZKAL Z MIRA (od 297-09-06) - wspolne zycie pod jej dachem; dokłada sie do domu jak wspolnik (jedzenie/drewno/zycie), Mira NIE bierze czynszu ('czynsz placi sie obcym, nie temu kogo kocham'). ZACHOWUJE kamieniczke przy Schodach jako WLASNOSC/DOCHOD Domu Tally - od 299-06-23 ZARZADZANA AUTOMATYCZNIE przez filie Bialego Portu (Hal-sierota): najem/dozorca/ogrodek/czynsze do Kasy 1, BEZ sledzenia lokatorow z imienia (Bran+Alys na majordomostwie Fosy). Zasada: 'ja jako ja, ty jako ty, obok siebie - kazde ze swoim gruntem, jedno wspolne zycie'. Nadal PISARZ SEPTY / pod publiczna opieka Wiary (firewall przy zywej karcie Antaryona).
@@ -220,6 +220,8 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Deron zwany Suchym** (deron_suchy_rozdroze) —  · nast ?
 - **Petyr Baelish (Littlefinger)** (petyr_baelish_littlefinger) —  · nast ?
 - **Osric zwany Kamieniem** (osric_kamien_marszalek) —  · nast ?
+- **ser Perwyn Frey** (perwyn_frey) —  · nast ?
+- **Lothar Frey zwany Kulawym** (lothar_frey_kulawy) —  · nast ?
 
 ## ZEGARY (odliczaja)
 - ◆ `297-02-XX` polnocna_inquiry: SUBMISJA RYMANA WYSLANA do Winterfell (d17, rzut 96) kanalem Owena — kalibrowana na wszczecie INKWIZYCJI Stark

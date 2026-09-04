@@ -82,3 +82,13 @@ Zasady przychodzącego:
 ✉ PRZYCHODZĄCE
   • [kto/skąd] — [co niesie / czego chce], jednym–dwoma zdaniami świata
 ```
+
+**ZASADA DELEGOWANIA (twarda, wpisana 299-08-23 na żądanie gracza — korekta systemowa):** Delegowanie znaczy, że **rzecz działa bez gracza**. Postawiony dyrektor, mistrz, faktor, wspólnik czy kierownik węzła **prowadzi swoje przedsięwzięcie sam**, między scenami.
+
+1. **Delegowane przedsięwzięcia posuwają się same.** Każdy okres daje im wynik: rosną, kurczą się, wchodzą w nowe rzeczy, tracą klienta, zatrudniają czeladnika, otwierają kanał. Postęp **nie wymaga uwagi gracza**.
+2. **Bezruch musi mieć przyczynę z imieniem** (brak surowca, cech zablokował, konkurent zbił cenę, zabrakło rąk, zamknięta droga) — **nigdy nie jest stanem domyślnym**.
+3. **Wyniki i kłopoty przychodzą pocztą.** Dyrektor, faktor i mistrz **raportują sami** — poranna korespondencja ma to okresowo nieść. (Spójne z ZASADĄ ANTY-ZASADZKA powyżej.)
+4. **Kompetentny człowiek na stanowisku robi swoją robotę.** Treścią gry jest, **co osiągnął albo o co się zaciął** — nie to, że nic nie zaszło.
+5. **Liczby w księgach mają być odświeżane.** Wpis sprzed miesięcy **nie jest stanem obecnym** — nieaktualna pozycja to **usterka księgi**, a nie dowód bezczynności przedsiębiorstwa.
+
+_Precedens: sprawa Marra (299-08-23) — warsztat pracował cały rok, a cyfra „+4 jel/mies" była wpisem nieruszanym od maja. Przedsiębiorstwa pracowały, księgi stały._

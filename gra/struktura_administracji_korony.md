@@ -70,3 +70,48 @@
 3. **Bierze się z tych, których się ma** — ze szkół, z Wintertown, z miasteczka pod Fosą — **i z dziewcząt też. Nie stać nas na wybrzydzanie.**
 
 _Splot: to jest DOLNE PIĘTRO tej samej drabiny, której górnym piętrem jest GŁĘBOKORZEŃ. Theomore kuje uczonych — lata, gmach, pokolenia. Zasada uczniów kuje urzędników — od jutra, w każdej izbie, ręką ludzi, którzy już robią robotę. Doktryna „urząd nie krew" przestaje być hasłem: urzędników się WYTWARZA, nie dziedziczy._
+
+
+---
+
+## MISTRZ HANDLU I PORTÓW PÓŁNOCY (karta urzędu, spisana 299-08-28 przez Symona Tally; do powołania aktem Króla)
+
+_Nazwa celowo **rzemieślnicza, nie dworska** — mistrz, jak mistrz murarski albo budowniczy. Człowiek od roboty, nie od godności._
+
+### I. CO ROBI — **BUDUJE**
+- **Nadaje karty domom kupieckim** pod pieczęcią Króla — tworząc stan kupiecki, którego Północ nigdy nie miała.
+- **Zakłada i podnosi porty i przystanie** — z panem ziemi, nie ponad nim.
+- **Wytycza i utrzymuje trakty handlowe i przeprawy**, w porozumieniu z lordami, przez których ziemie idą.
+- **Wprowadza miarę i wagę Korony w portach** — wykonuje ją, nie ustanawia.
+- **Ściąga rzemieślników, szkutników i kupców z zagranicy**; jego ręka na prawie azylu dla fachu.
+- **Prowadzi jawny rejestr portów i domów kupieckich Północy.**
+- **Doradza Koronie w traktatach handlowych**; ma głos w radzie.
+
+### II. CZEGO NIE ROBI — **NIE SĄDZI I NIE POBIERA**
+- **Nie ustala ceł ani myt** — to Skarbnik i Korona.
+- **Nie pobiera grosza** — to komory celne.
+- **Nie sądzi sporów kupieckich** — to Justycjariusz i sądy miejskie.
+- **Nie ma władzy nad cudzym lennem** — proponuje, nie rozkazuje.
+- **Nie dowodzi żadną siłą zbrojną.**
+
+_Ten sam podział, co przy Przystani Wilka: **Manderly handel, Korona miecz i rachunek.**_
+
+### III. FIREWALL NA KONFLIKT WŁASNY
+- **Nie nadaje karty własnemu domowi ani swoim spółkom** — takie sprawy idą do Skarbnika i Rady.
+- **Rejestr jawny. Rachunek roczny przed Radą.**
+
+_Bez tego byłby największym kupcem Północy regulującym własnych konkurentów. Z tym — jest budowniczym stanu kupieckiego, w którym przy okazji sam siedzi._
+
+### IV. KADENCJA — rdzeń całej konstrukcji
+> **PIĘĆ LAT. Odnawiane OSOBNYM AKTEM KRÓLA — nie milczeniem i nie zwyczajem. Wakat po upływie. Ponowne nadanie możliwe, nigdy automatyczne. NIEDZIEDZICZNY, bez wyjątku.**
+
+_Południe zgubiło się dokładnie tu: urzędy, które miały być służbą, stały się majątkiem rodów, a potem roszczeniem. **Urząd na kadencję nie zdąży wrosnąć w krew.**_
+
+### V. ZASADA OGÓLNA, KTÓRĄ TEN URZĄD USTANAWIA
+
+> **Urzędy ludzi bez rodu — na służbę, dopóki służą.**
+> **Urzędy w rękach lordów — zawsze na kadencję, zawsze do wakatu.**
+
+Skarbnik, Marszałek, Dyrektor, Justycjariusz, odpowiedzialni za budowy — **nie mają komu urzędu przekazać, więc nie ma czego pilnować.** Lord ma synów — **więc urząd ma termin.**
+
+**Nie jako zniewaga, lecz jako prawda:** _żaden urząd Północy nie jest niczyją własnością — także ten, i także urząd Namiestnika._

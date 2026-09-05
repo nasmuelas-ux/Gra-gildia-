@@ -166,3 +166,40 @@ _Precedens 299-08-29: VOID sceny, w której NINA (zielarka-medyczka włości Fos
 - Jeśli prowadzący **już przeskoczył** dni: poczta i zdarzenia z pominiętych dni **NIE PRZEPADAJĄ** — leżą na biurku i są odtworzone przy najbliższej okazji.
 
 _Precedens: 299-08-30…09-01 — żniwa w śniegu zwinięte w jedną scenę zamiast trzech tur; ranki 08-31 i 09-01 nigdy nie wyrenderowane, ich korespondencja zaległa._
+
+
+---
+
+## ROZSZERZENIE IV — NIE WYCISKAC NAPIECIA Z ZAMKNIETYCH USTALEN, I NIE KARAC ZA WLASNA POMYLKE
+
+**Zdarzenie zrodlowe (299-09-04):** prowadzacy napisal list krola, w ktorym Walder Frey zada
+zwolnienia z myta i cla na Fosie Cailin. Bylo to sprzeczne z zapisem z 299-07-01/02: dlug
+mariazowy **splacony do konca i jawnie**, Frey **zwiazany potrojnie (honor + krew + ZYSK)**,
+przyjeta strategia to *nie wyduszaj — zwiaz wspolnym zyskiem*, a wedle korekty geografii gracza
+**Polnoc nie potrzebuje od Freya niczego pilnego**, wiec targ szedl **z pozycji sily** i to
+**Polnoc jest mu winna trakt/korytarz**, nie odwrotnie. Frey nie ma zadnej dzwigni. Prowadzacy
+odwrocil role wierzyciela i dluznika, zeby wycisnac z zamknietej sprawy jeszcze jedno napiecie.
+
+### ZASADA
+
+**Sprawa domknieta w ksiedze jest domknieta.** Nie wraca sie do niej po material na konflikt.
+Jesli watek zostal rozegrany, rozliczony i zapisany jako zamkniety — jego dalszy ciag moze byc
+tylko **konsekwencja tego, co ustalono**, nigdy **podwazeniem tego, co ustalono**.
+
+**Przed napisaniem, ze ktos czegos zada, sprawdz, czy ma czym.** Zadanie bez dzwigni nie jest
+napieciem, tylko halasem. Kto splacil i dostal wszystko, czego chcial, nie naciska tydzien
+pozniej — a jesli mialby nacisnac, musi to wynikac z **wczesniej zasianej** zmiany ukladu sil,
+zapisanej w plikach.
+
+### I RZECZ DRUGA, WAZNIEJSZA
+
+**Pomylka prowadzacego nie moze zostac przerzucona na gracza w postaci kosztu.**
+
+Gdy gracz wykazuje blad w zapisie, poprawka jest **czysta**: bledny element znika i **nie zostawia
+po sobie zadnego osadu** — ani rzutu, ani nowej trudnosci, ani "ale zostaje z tego X".
+Nie wolno:
+- rzucac na sprawe, ktora powstala wylacznie z pomylki prowadzacego,
+- ratowac wymyslonego napiecia, przenoszac je na inny podmiot ("skoro nie Walder, to Lothar"),
+- wprowadzac kary posredniej za czas stracony na prostowanie.
+
+**VOID znaczy VOID.** Wracamy dokladnie do stanu sprzed bledu i gramy dalej z tego miejsca.

@@ -132,3 +132,35 @@ Do tego, po nadaniu praw miejskich, **kasa miejska** — waga, targ, kary sądu 
 ---
 
 **Zastrzeżenie:** kanon Martina niemal nie opisuje systemu podatkowego Westeros. Powyższe jest w większości wyprowadzeniem z realiów średniowiecznych, dopasowanym do tego, co o Północy wiadomo.
+
+
+---
+
+# UZUPELNIENIE — CO KORONA MA NAPRAWDE (299-09-04)
+
+Wczesniejsze zapisy traktowaly Kase 3 jak **worek wojenny plus potencjal cla** — czyli jak skonczony zasob bez biezacej bazy — a sluzbe wasali sprowadzaly do wystawienia choragwi.
+
+> **Wasale placa Koronie DANINE LENNA, nie tylko zolnierzy.**
+
+## Staly dochod roczny Korony
+
+1. **Danina lenna od chorazych** — glowny dochod; ustalona przy nadaniu kazdego lenna, placona corocznie do Winterfell. *Wasale wielkich rodow placa swoim panom, nie Koronie.*
+2. **Demena Korony (domena Starkow)** — Korona jest **takze panem lennym** na wlasnej ziemi i pobiera swiadczenia **Poziomu I wprost**: czynsze, robocizne, daniny drobne, miarke mlynarska, oplaty zyciowe. *To z tego zyje Winterfell — nie z worka wojennego.*
+3. **Clo graniczne** — jedyny strumien skalujacy sie z **handlem**, nie ze zbiorem.
+4. **Regalia krolewskie** — mennica, sol, kruszec, lasy, wraki.
+5. **Oplaty sadowe i grzywny.**
+6. **Relewium** przy objeciu lenna przez nowego dziedzica — po wojnie pozycja nieblaha.
+7. **Goscina** — objazd krolewski nie obciaza skarbu; dochod w naturze.
+8. **Podatek nadzwyczajny** — tylko z uchwaly, na wojne.
+
+## Rozstrzygniecie
+
+> **Worek wojenny nie jest dochodem Korony. Jest jej OSZCZEDNOSCIA.**
+
+Wydanie go na zboze nie rujnuje panstwa — **wyczerpuje rezerwe**, ktora odbudowuje sie z daniny rocznej.
+
+## Dwa twarde ograniczenia
+
+**Daniny lennej nie da sie podniesc** — stawki ustalono przy nadaniu, a zwyczaj wiaze mocniej niz wola pana. Skarb doladowuje sie **clem, regaliami albo uchwala**.
+
+**Malo platnikow, duze kwoty** — osiem rodow zamiast szerokiej bazy. **Kazdy jeden chorazy, ktory zalega, jest widoczny i wazy.**

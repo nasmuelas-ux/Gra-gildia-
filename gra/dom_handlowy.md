@@ -333,3 +333,24 @@ Prosty zbrojny ~3–5 jel/mies + wikt · sierżant/kapitan ~10–20 jel · czela
 > **Prywatny dom Symona jest wart mniej więcej tyle, co cały worek wojenny Korony Północy.**
 
 Kupiec bogatszy od skarbu państwa jest albo filarem, albo celem. **Właśnie dlatego mur między trzema kasami, który Symon sam zbudował, jest ważniejszy, niż sądził** — i dlatego każde zmieszanie ról (Namiestnik / lord bramy / płatny koordynator) waży tyle, ile waży.
+
+
+### ⚠️ KOREKTA II — 299-08-26 (model gracza przyjęty; **nadpisuje sekcję powyżej**)
+
+Pierwsza wersja rekalibracji (zysk ~60–85 smoków/mies) była **wciąż za niska**. Przyjęty model, z trzema poprawkami **podnoszącymi**: dopisany **Biały Port** (pominięty, a to kręgosłup — jedyny port Północy niezamarzający zimą), osobno wyceniona **synergia sieci** (jeden organizm: marża zostaje w domu na każdym kroku zamiast wyciekać do pięciu pośredników, plus **arbitraż informacji** między Dorzeczem a Północą), oraz rozróżnienie **pułapu** od **stanu dzisiejszego**.
+
+| | PUŁAP (pokój, dojrzała sieć) | DZIŚ (299-08, ~60%) |
+|---|---:|---:|
+| Obrót brutto | ~1 650–2 700 smoków/mies | ~1 000–1 600 |
+| **Zysk netto** | **~300–500 smoków/mies** (4 000–6 000 rocznie) | **~200–300** (2 500–3 500 rocznie) |
+| Wolna gotówka | — | ~80–120 smoków/mies |
+| **Majątek netto domu** | — | **~4 000–6 000 smoków** |
+
+**Obroty placówek (pułap, smoki/mies):** Riverrun 420–580 · **Biały Port 400–700** · Fosa Cailin 330–500 · Winterfell 250–420 · Rozdroże 160–330 · Czarny Zamek 80–170 *(najmniejszy obrót, najwyższa marża — tania sól i siekiery za bezcenne futra zza Muru)*
+
+**Koszty operacyjne (smoki/mies):** prywatna eskorta ~300 (150–200 zbrojnych na Trakcie i Przesmyku) · logistyka i utrzymanie ~400 · cła i opłaty ~200 *(część Symon płaci dziś sobie albo swojemu królowi — realna oszczędność i osobny konflikt ról)*
+
+**SEZONOWOŚĆ — liczyć odtąd zawsze:** Fosa i Rozdroże **załamują się zimą** (śnieg na trakcie) · Czarny Zamek **rośnie zimą** · **Biały Port trzyma cały rok, bo nie zamarza.**
+
+> ### FAKT NADRZĘDNY
+> **Prywatny dom Symona jest bogatszy od skarbu Korony Północy.** Namiestnik króla jest bogatszy od królestwa, któremu służy. To jego **największa pojedyncza ekspozycja** — większa niż Bolton, większa niż Karstark — i powód, dla którego mur trzech kas przestaje być elegancją, a staje się jedyną rzeczą między nim a zarzutem.

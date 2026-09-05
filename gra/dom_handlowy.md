@@ -354,3 +354,48 @@ Pierwsza wersja rekalibracji (zysk ~60–85 smoków/mies) była **wciąż za nis
 
 > ### FAKT NADRZĘDNY
 > **Prywatny dom Symona jest bogatszy od skarbu Korony Północy.** Namiestnik króla jest bogatszy od królestwa, któremu służy. To jego **największa pojedyncza ekspozycja** — większa niż Bolton, większa niż Karstark — i powód, dla którego mur trzech kas przestaje być elegancją, a staje się jedyną rzeczą między nim a zarzutem.
+
+
+---
+
+# KOREKTA III — ZAKRES, NIE SKALA (299-09-04)
+
+_Po ustaleniu SYSTEMU DANIN NA POLNOCY (`gra/system_danin_polnocy.md`)._
+
+Poprzednie korekty naprawialy **jednostke** (jelenie -> smoki). Ta naprawia **zakres**.
+
+## Blad
+
+Wszystkie dotychczasowe bilanse **Kasy 2 (lenno Fosy Cailin)** liczyly praktycznie **jedna pozycje — myto** — i pokazywaly lenno jako lekko deficytowe. Pominieto wieksosc strumienow, ktore lennu przysluguja.
+
+## Co bylo pomijane
+
+| pozycja | forma |
+|---|---|
+| Czynsze ze wsi lenna — **1/3 do 1/2 plonu** | natura |
+| **Robocizna 2–3 dni tygodniowo** w sezonie | praca |
+| Daniny drobne (kury, jaja, wosk, len) | natura |
+| Miarka mlynarska, oplata piecowa i prasowa, wypas | natura |
+| **Regale torfowe** | natura / oplata |
+| Oplata przewozowa przez bagna | moneta |
+| Oplaty zyciowe (malzenstwo, dziedziczenie, odejscie) | natura / moneta |
+| Oplaty sadowe z sadu grodzkiego | moneta |
+| Waga i targ | moneta |
+| **Wynagrodzenie za pobor cla Korony** | moneta |
+
+## Rozstrzygniecie
+
+> **Lenno Fosy nigdy nie bylo deficytowe. Bylo zle zmierzone drugi raz —
+> pierwszy co do JEDNOSTKI, teraz co do ZAKRESU:
+> mierzono MONETA cos, co placi sie glownie CHLEBEM I PRACA.**
+
+**W monecie:** ~25–50 smokow/mies, wiecej w sezonie.
+**W naturze i pracy:** w skali roku **wielokrotnosc** dochodu pienieznego — i to z tego zyje garnizon, budowa i spichlerz.
+
+To domyka wniosek z 299-08-23 od drugiej strony: **rozbudowa druzyny nigdy nie byla problemem grosza, tylko chleba.**
+
+## Dwa ograniczenia, ktore z tego wynikaja
+
+**Bogactwo w naturze nie zamienia sie w skarb.** *Nie da sie zbudowac skarbu z czegos, czego nie da sie przewiezc ani przechowac.* Ale **karmi ludzi** — a tej zimy to wazniejsze niz srebro.
+
+**Zwyczaj wiaze mocniej niz wola pana.** Czynszow i danin **podniesc sie nie da**. Kazdy wzrost dochodu lenna musi pochodzic z **rzeczy nowych**: ruchu na trakcie, targu, wagi, regale torfowego, sadu grodzkiego, prawa skladu.

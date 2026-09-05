@@ -264,3 +264,91 @@ Bo **Korona nie ma z was nic, jak wyzdychacie — Korona ma z was tyle, ile was 
 rzadcy, on od tego jest. Ale nie bierzcie sobie do tego prawa Korony.*
 
 > ***Zima nie pyta, kto z kim sie kloci o miedze.***
+
+
+---
+
+# PRAWO O SKŁADACH ZBOŻA — PROJEKT
+### spisany 299-09-06 w Winterfell · **nie uchwalony** · pod obrady Wielkiej Rady z Królem po jego powrocie
+
+> **Nie stanowimy dziś prawa. Piszemy projekt. Uchwala Wielka Rada z Królem.**
+
+Przy stole: Skarbnik Gawen, dyrektor Domu Starków Rodwell, maester Luwin, lady Catelyn Stark. Justycjariusz **Medger Cerwyn** wezwany z Castle Cerwyn — ubierze to w literę.
+
+---
+
+## SKĄD SIĘ WZIĘŁO
+
+Człowiek, którego szukamy, **nie złamał żadnego prawa. Ani razu, w tym naszego.** Kupił wiosną tanio — wolno. Trzymał przez lato — wolno. Nie sprzedał, gdy zdrożało — wolno. Wiezie swoje przez własne królestwo — wolno.
+
+**Cło zaporowe miało zatrzymać zboże na Północy i zatrzymało.** Ale nigdy nie pomyślało, że ktoś zechce **zwieźć je w jedno miejsce tutaj.** Prawo Zimowego Ratunku bije w tego, kto trzyma chleb przed głodnym, **żeby zdrożał** — nie mówi nic o tym, kto go **gromadzi.**
+
+**A gromadzenie zboża przed zimą nie jest występkiem — jest cnotą.** Powiedziano to głośno z ganku w Kamiennym Brodzie i nie odwołuje się tego po dwóch tygodniach.
+
+## ZASADA
+
+> ### Nie da się zakazać gromadzenia. Da się zakazać gromadzenia W UKRYCIU.
+> **Prawo nie pyta, ile masz. Prawo pyta, czy wiadomo, że masz.**
+
+Różnica między spichlerzem a bronią nie leży w wielkości, lecz w tym, **czy ktokolwiek o niej wie.**
+
+---
+
+## FILARY
+
+**I. OBOWIĄZEK ZGŁOSZENIA.** Skład ponad miarę zgłasza się rządcy: **czyj, gdzie, ile, dla kogo.** Bez opłaty, bez zajęcia — **wpis, nie danina.**
+
+**II. ZGŁOSZONE JEST CHRONIONE.** Skład wpisany do księgi **nie może być zajęty ani rekwirowany.** To jest zapłata za jawność.
+
+**III. NIEZGŁOSZONE — DOMNIEMANIE.** Skład ukryty ponad miarę domniemywa się trzymanym przed głodnymi; ciężar dowodu na trzymającym. **Odwrócenie ciężaru, nie kara.**
+
+**IV. PIERWOKUP KORONY.** Od składu zgłoszonego Korona ma prawo pierwszego kupna **po ogłoszonej cenie uczciwej.** Nie rekwizycja.
+
+---
+
+## ROZSTRZYGNIĘCIA SZCZEGÓŁOWE
+
+### Miara — **dwieście korców, liczone na WŁAŚCICIELA, nie na budynek**
+
+Powyżej tego, co trzyma wieś; poniżej wszystkiego, co robi kupiec. Liczone na właściciela, **bo inaczej czterysta korców rozjeżdża się na trzy stodoły po sto dziewięćdziesiąt dziewięć.**
+
+### Cena pierwokupu — **ogłaszana raz w roku po żniwach, sztywna do następnych**
+
+Jedna dla całej Północy, ogłasza Skarbnik. **Nie targowana** — targowana cena znaczy, że urzędnik Korony targuje się z lordem. **Sztywna w roku, poprawiana rocznie.**
+
+### Zakres — **oba, ale z różnym skutkiem**
+
+| rodzaj składu | zgłoszenie | pierwokup |
+|---|---|---|
+| **dla swoich** (dom, garnizon, własne wsie) | **tak** | **NIE — nietykalny** |
+| **na sprzedaż** | **tak** | **tak** |
+
+> **Zgłoszenie nie odbiera wam waszego zboża. Zgłoszenie jest jedyną rzeczą, która czyni je nietykalnym.**
+
+Kto zadeklaruje *„dla swoich"* i sprzeda — **złożył fałszywe oświadczenie**, objęte już precedensem Morna.
+
+### Skutek dla niezgłoszonego — **pierwszy rok: wpis i pouczenie, żadnej grzywny**
+
+> *Korona nie karze człowieka za to, czego mu nie powiedziała.*
+
+Prawo pójdzie do ostatnich wsi miesiącami. **Po roku albo za drugim razem** — domniemanie działa w pełni i zboże wpada pod Prawo Zimowego Ratunku.
+
+### **OKNO DOBROWOLNE**
+
+> **Kto zgłosi się sam, zanim rządca przyjdzie, nie odpowiada za nic wstecz.**
+
+Trzy do czterech miesięcy. Zamiast ścigać — **dać uczciwej drodze przewagę.**
+
+---
+
+## KTO ZGŁASZA PIERWSZY
+
+**Spichlerz Fosy Cailin. Potem Dom Starków. Potem reszta.**
+
+Tak samo jak przy komorze celnej, przy audycie domu i przy daninie.
+
+---
+
+## OTWARTE — do rozstrzygnięcia z Justycjariuszem
+
+**Punkt III.** *„Dla swoich"* jest workiem, w który może wejść wszystko: lord z tysiącem korców zawsze znajdzie tysiąc gąb. Miara na głowę czy termin — do rozstrzygnięcia.

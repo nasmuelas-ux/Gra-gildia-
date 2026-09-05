@@ -126,3 +126,38 @@ _Pierwszy dokument WYKONAWCZY wolnej Północy: nie prawo, lecz instrukcja, jak 
 **PYTAĆ WYŻEJ = DO JUSTYCJARIUSZA KORONY.** To NIE jest droga odwoławcza chłopa od pana (świadomie odrzucona 299-08-22 jako wejście lordom do ich sądów) — **to urzędnik pyta o wykładnię**. Korona nie zabiera lordom sądu; daje ich ludziom adres do kogoś, kto zna prawo.
 
 _Odpisy: papiernia Domu Tally (setka kosztuje grosze), rozsyłka do lordów w ciągu dni. Cerwyn zastrzegł: jeśli pytań przyjdzie dużo, będzie potrzebował drugiego pisarza._
+
+
+---
+
+## PRAWO O ZAGINIONYCH (dodane 299-08-25, Symon Tally + Justycjariusz Cerwyn; na Radę do zatwierdzenia, obowiązuje od zaraz jako wykładnia Justycjariusza)
+
+_Trzecie prawo wolnej Północy — i pierwsze, które nie dotyczy lordów ani korony, tylko chałup. Powód odkryty przy sprawie Morna z Kamiennego Brodu: **wojna trwała półtora roku, a w każdej wsi na Północy jest kobieta, której mąż nie wrócił i nikt nie przywiózł ciała.** Nie jest wdową, więc nie dziedziczy, nie może wyjść za mąż, nie może sprzedać ani zastawić ziemi — i gospodarstwo stoi, bo nikt nie ma prawa go prowadzić. Jedno z największych niepoliczonych spustoszeń wojny._
+
+### I. TERMINY UZNANIA ZA ZMARŁEGO — trzy, bo trzy różne rzeczy
+
+1. **ZDARZENIE ZNANE — ROK.** Wiadomo, co się stało, jest ślad rzeczowy, ciała brak: utonięcie w wezbranej wodzie ze znalezionym koniem, pożar, zawał, lawina, zatonięcie okrętu. _Rok, bo rzeka oddaje ludzi przez tygodnie, nie przez lata._
+2. **NIE WRÓCIŁ Z WOJNY — TRZY LATA od rozwiązania chorągwi.** _Jeniec wraca; ranny leczy się rok; zabłąkany na obcej ziemi wraca dwa. Trzy to termin, po którym nie wraca prawie nikt — a każdy krótszy chowałby ludzi, którzy jeszcze idą._
+3. **ZNIKNIĘCIE BEZ PRZYCZYNY — SIEDEM LAT.** Wyszedł i nie wrócił, bez zdarzenia i bez śladu. _Siedem, bo taki człowiek czasem wraca po pięciu._
+
+### II. ZARZĄD DO CZASU UZNANIA
+Żona (albo dorosły spadkobierca) **prowadzi dom jako zarządca**: sieje, zbiera, żywi, płaci daninę, **prowadzi rachunek**. **Nie może sprzedać ani zastawić ziemi.** Odpowiada przed rządcą. _To jest przepis, który ratuje gospodarstwa w pierwszą zimę po wojnie: ziemia znów ma rękę, zanim ma dziedzica._
+
+### III. STWIERDZENIE
+**Justycjariusz Korony**, na podstawie zapisu rządcy z **jawnego śledztwa** prowadzonego przy ludziach (wzór: Kamienny Bród, 299-08-25). **Bez opłaty** — _kobieta, która straciła męża, nie płaci Koronie za to, żeby wolno jej było zasiać._
+
+### IV. POWRÓT UZNANEGO ZA ZMARŁEGO
+
+> **Zasada nadrzędna: uznanie nie było kłamstwem — było najlepszą prawdą, jaką miano. Więc to, co zrobiono w dobrej wierze pod nim, STOI. Ale człowiek nie jest duchem dlatego, że tak zapisano w księdze.**
+
+1. **WRACA DO ŻYWYCH AKTEM, NIE SAMYM PRZYJŚCIEM.** Stwierdzenie tożsamości przed Justycjariuszem, przy świadkach, wykreślenie uznania z księgi. Do tej chwili jest zapisany jako zmarły i nikt nie ma obowiązku wierzyć mu na słowo.
+2. **MAJĄTEK — ODZYSKUJE SUBSTANCJĘ, NIE PRZESZŁOŚĆ.** Odzyskuje to, co jeszcze jest w rękach dziedziców, w stanie, w jakim zastał. **Nie odzyskuje:** (a) tego, co sprzedano w dobrej wierze obcemu — _nabywca bezpieczny, inaczej nikt nigdy nic nie kupi po uznanym za zmarłego_; (b) plonów i pożytków już zebranych i zjedzonych — _dziedzic jadł i pracował, kiedy jego nie było_; (c) nakładów — stodoła, osuszona łąka: **odjęte albo spłacone**; _nikt nie ma bogacić się cudzym powrotem ani na nim tracić_. **Prawo nie szuka winnego — rozdziela stratę między tych, którzy działali uczciwie, tak by żaden nie został z niczym.**
+3. **MAŁŻEŃSTWO — DRUGIE STOI.** Pierwsze wygasło z uznaniem i nie odżywa; _kobieta nie może być stawką w cudzym powrocie_. **Ale dzieci są jego** i wraca mu prawo ojca: do uznania, do imienia, do opieki wedle zwyczaju.
+4. **WRACA UBOGI.** Dziedzic, który wzbogacił się z uznania i **sprzedał substancję**, winien mu utrzymanie albo spłatę wedle tego, co wziął. **Nie z litości — z rachunku.**
+
+### V. ZAMEK NA OSZUSTA
+- **Uznanie NIE UMARZA DŁUGÓW** — wracają razem z nim, co do miedziaka.
+- **Kto zniknął umyślnie**, by uciec od zobowiązania — **traci prawo do zwrotu czegokolwiek**. Odzyskuje życie, nie majątek.
+- **Kto świadomie fałszywie zeznał o czyjejś śmierci** — odpowiada jak za fałszywe doniesienie (karta dla rządcy).
+
+_Sprawa Morna wpada w termin roczny (zdarzenie znane, koń znaleziony, ciała brak). Jeśli wróci do 300-08-22 — nikt nic nie stracił: uznania jeszcze nie ma, gospodarstwo prowadzi żona jako zarządca, on wchodzi do własnego domu i bierze swoje._

@@ -144,3 +144,13 @@ _Precedens 299-08-29: VOID sceny, w której NINA (zielarka-medyczka włości Fos
 - **Sceny relacyjne o prawdziwej wadze** — ale wtedy obowiązują wszystkie ograniczenia niskich rzutów.
 
 **Gdy wynik jest oczywisty — po prostu go opisz.** Scena bez rzutu nie jest sceną gorszą.
+
+**ROZSZERZENIE — POSTACIE PRZYJAZNE I ZWYKŁE ROZMOWY (299-08-29, na żądanie gracza):**
+
+> **Z ludźmi bliskimi, zaufanymi i życzliwymi NIE RZUCA SIĘ. Scenę się gra.**
+
+- **Mira, dzieci Starków, Nesta, Hal, Willa, Garrick, Hendry, Sten, Osric, Gawen, Rodwell, Cerwyn, Luwin, Nina, Wystan, Marro, Alyn** i każdy inny człowiek Symona albo ciepły sojusznik — **rozmowa to rozmowa.** Opisujemy, co się dzieje, kim oni są i co wnoszą. Bez kości.
+- **Zwykła interakcja, z której nie wynika żadna sprawa** (przywitanie, posiłek, rozmowa o niczym, podtrzymanie więzi, podziękowanie, wspólny wieczór) — **nigdy rzut.**
+- Zasada „słaby rzut daje najwyżej drobną teksturę" jest **niewystarczająca**: jeśli rzut może dać tylko teksturę, to jest teatr. **Nie rzucać.**
+
+**Wyjątek — i tylko ten jeden:** gdy pada **konkretna prośba o realnej stawce**, na którą druga strona ma własny interes i może odmówić (Mira proszona o zostanie w Winterfell; Nesta proszona o rejs; Wyman proszony o okręt). Wtedy **jeden rzut na całą sprawę** — i obowiązują wszystkie ograniczenia niskich rzutów: **nigdy tragedia, nigdy rysa na więzi, nigdy odkrycie dziury w konstrukcji gracza.**

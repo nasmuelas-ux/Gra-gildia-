@@ -274,3 +274,62 @@ Nikt nie ukradl i nikt nie oszukal: do niedawna nie bylo ani Skarbnika, ani cla,
 1. **Zysk** i **wolna gotowka po reinwestycji** — zawsze osobno, nigdy jedna liczba.
 2. **Myto pana (Kasa 2)** i **clo Korony (Kasa 3)** — zawsze osobno.
 3. Dochod wezla skalowac do **jego rangi i ruchu**, nie do przyzwyczajenia z poprzedniego snapshotu.
+
+
+---
+
+# REKALIBRACJA SKALI — 299-08-26 (trwała, na żądanie gracza; nadpisuje wszystkie wcześniejsze liczby)
+
+> ## JEDNOSTKA: **LICZYMY W SMOKACH, NIE W JELENIACH.**
+> Kurs bez zmian (1 smok = 200 jeleni; 1 jelen = 100 miedziaków). Kwoty domu, kas, ceł, myt i wielkich transakcji — **w smokach**. Jelenie zostają dla drobnych wydatków osobistych, żołdu i cen codziennych.
+
+## Dowód niespójności, którą to naprawia
+
+Raportowany obrót ~1 180 jel/mies = **~71 smoków ROCZNIE brutto** — dla domu z sześcioma filiami, dyrektorem generalnym, kanclerzem, papiernią, młynem, warsztatem bursztynu, barką rzeczną, kamienicą i ramieniem kredytowym. **Za 70 smoków rocznie nie kupi się jednego porządnego okrętu.** Majątek netto 1 815 jel = **9 smoków** — mniej niż koń rycerski, a utrzymuje sześć filii.
+
+**Aktywa były warte kilkadziesiąt razy więcej niż raportowane przepływy.**
+
+**Źródło błędu:** księgi prowadzono w jeleniach, jakby Symon dalej był skrybą liczącym sakiewkę. Skala rosła w opowieści — **jednostka nie urosła nigdy.** Dom kupiecki nie zarabia na płacach, tylko na **towarze**: ładunek zboża, soli, futer czy drewna to setki smoków za partię. Symon prowiantował **królewski host** — to same w sobie były tysiące smoków przepływu.
+
+## Dom Handlowy Tally — 299-08
+
+| | |
+|---|---:|
+| Obrót brutto | **~180–260 smoków/mies** (36–52 tys. jeleni) |
+| Koszty | ~110–180 smoków |
+| **ZYSK** | **~60–85 smoków/mies (~840 smoków rocznie)** |
+| Wolna gotówka po reinwestycji | ~25–30 smoków/mies |
+| **MAJĄTEK NETTO** | **~1 800–2 200 smoków** |
+
+**Ramiona (netto/mies, w smokach):** Biały Port ~28 · Fosa Cailin HQ ~14 · Winterfell ~10 · ramię finansowe ~9 · Riverrun ~7 · Rozdroże ~6 · papiernia (Wat) ~5 *(podwaja się — druga kadź zatwierdzona 299-08-26)* · bursztyn (Marro) ~4 *(potencjał 25–50 po przestawieniu na segment mistrzowski)* · Czarny Zamek −1 *(dotowany, strategiczny)*
+
+## Wycena bursztynu
+
+**Sztuka mistrzowska** (bursztyn jubilerski w oprawie ze srebra/złota, ręką mistrza): **1–5 smoków**. **Sztuka wybitna: 10 smoków i więcej.** Drobnica czeladnicza — w jeleniach.
+
+_Poprzednia wycena (~5 jel/szt) opisywała **hurt drobnicy**, nie klejnot._
+
+## Kasy
+
+**KASA 2 (lenno Fosy):** myto pana **~15–30 smoków/mies**; program inwestycyjny −20 do −35; bilans lekko ujemny w fazie inwestycji, **ale nie deficytowy strukturalnie**.
+
+**KASA 3 (Skarb Północy):** worek wojenny — kilka tysięcy smoków (bez zmian); cło Korony na Fosie **~40–90 smoków/mies** potencjału; Biały Port **znacznie więcej** (główna brama morska królestwa); mennica WILK zaczyna kapać.
+
+## Płace BEZ ZMIAN — praca tania, towar drogi
+
+Prosty zbrojny ~3–5 jel/mies + wikt · sierżant/kapitan ~10–20 jel · czeladnik ~5–8 jel · mistrz rzemiosła ~20–40 jel.
+
+**65 nowych ludzi na Fosie = ~1,5 smoka miesięcznie żołdu.** Rozbudowa drużyny **nigdy nie była problemem grosza** — ograniczeniem jest **chleb**. Wybór tempa spichlerza (299-08-23) **pozostaje w mocy i był słuszny.**
+
+## Korekty wstecz
+
+- **Zaliczka dla Halvarda** pod wyłączność: 150 jeleni to było ¾ smoka — **obraza, nie mandat**. Realnie **50–100 smoków**, na co Symona stać **bez ścinania reinwestycji**.
+- Cena krwi Warryka i koszty sądowe — w smokach.
+- Bilanse trzech kas (299-05, 06-10, 07-24, 08-11) i re-audyt 299-08-19 — **proporcje między ramionami słuszne, jednostka zaniżona**.
+- Kosztorysy: drużyna Fosy, komory celne, Program Okrętów, Głębokorzeń — przeskalować na smoki.
+
+## Znaczenie strategiczne
+
+> **Prywatny dom Symona jest wart mniej więcej tyle, co cały worek wojenny Korony Północy.**
+
+Kupiec bogatszy od skarbu państwa jest albo filarem, albo celem. **Właśnie dlatego mur między trzema kasami, który Symon sam zbudował, jest ważniejszy, niż sądził** — i dlatego każde zmieszanie ról (Namiestnik / lord bramy / płatny koordynator) waży tyle, ile waży.

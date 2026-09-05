@@ -941,6 +941,41 @@
   },
   "ZOLD_I_PLACE_BEZ_ZMIAN": "Prosty zbrojny ~3-5 jel/mies + wikt; sierzant/kapitan ~10-20 jel; czeladnik ~5-8 jel; mistrz rzemiosla ~20-40 jel. 65 nowych ludzi na Fosie = ~1,5 SMOKA miesiecznie zoldu - rozbudowa druzyny NIGDY NIE BYLA PROBLEMEM FINANSOWYM; ograniczeniem jest CHLEB, nie grosz (wybor tempa spichlerza z 299-08-23 POZOSTAJE W MOCY i byl sluszny).",
   "KOREKTY_WSTECZ": "(1) Zaliczka dla Halvarda pod wylacznosc: 150 jel to bylo TRZY CZWARTE SMOKA - obraza, nie mandat; realna zaliczka 50-100 SMOKOW, na ktora Symona stac bez mrugniecia, BEZ scinania reinwestycji. (2) Cena krwi dla Warryka i koszty sadowe - w smokach, nie w jeleniach. (3) Wszystkie wczesniejsze bilanse trzech kas (299-05, 299-06-10, 299-07-24, 299-08-11) i audyt 299-08-19 NALEZY CZYTAC W TEJ SKALI: podane tam liczby opisywaly wlasciwe PROPORCJE miedzy ramionami, ale ZANIZONA JEDNOSTKE. (4) Rozbudowa druzyny Fosy, komory celne, program okretow, Glebokorzen - wszystkie kosztorysy przeskalowac na smoki.",
-  "ZNACZENIE_STRATEGICZNE": "PRYWATNY DOM SYMONA JEST WART MNIEJ WIECEJ TYLE, CO CALY WOREK WOJENNY KORONY POLNOCY (~2000 smokow vs kilka tysiecy). To zmienia jego pozycje i jego zagrozenia: kupiec bogatszy od skarbu panstwa jest albo filarem, albo celem. WLASNIE DLATEGO MUR MIEDZY TRZEMA KASAMI, ktory sam zbudowal, jest wazniejszy, niz sadzil - i dlatego kazde zmieszanie rol (Namiestnik / lord bramy / platny koordynator) wazy tyle, ile wazy."
+  "ZNACZENIE_STRATEGICZNE": "PRYWATNY DOM SYMONA JEST WART MNIEJ WIECEJ TYLE, CO CALY WOREK WOJENNY KORONY POLNOCY (~2000 smokow vs kilka tysiecy). To zmienia jego pozycje i jego zagrozenia: kupiec bogatszy od skarbu panstwa jest albo filarem, albo celem. WLASNIE DLATEGO MUR MIEDZY TRZEMA KASAMI, ktory sam zbudowal, jest wazniejszy, niz sadzil - i dlatego kazde zmieszanie rol (Namiestnik / lord bramy / platny koordynator) wazy tyle, ile wazy.",
+  "KOREKTA_II_MODEL_GRACZA_299_08_26": {
+   "status": "PRZYJETY MODEL GRACZA z trzema poprawkami podnoszacymi. Nadpisuje pierwsza wersje rekalibracji z tego samego dnia (60-85 smokow/mies zysku - ZA NISKO).",
+   "poprawka_1_bialy_port": "Gracz pominal w swoim wyliczeniu BIALY PORT - najstarsza i najdojrzalsza filie, stojaca w JEDYNYM PORCIE POLNOCY NIEZAMARZAJACYM ZIMA, obslugujaca sol, rybe, arterie i ramie kredytowe. Dodane: ~400-700 smokow/mies obrotu.",
+   "poprawka_2_synergia": "Siec szesciu placowek to NIE szesc kramow, lecz JEDEN ORGANIZM: kupno w Riverrun -> wlasna barka -> sklad na Fosie -> sprzedaz w Winterfell -> rozliczenie wekslem wlasnego ramienia finansowego = MARZA ZOSTAJE W DOMU NA KAZDYM KROKU zamiast wyciekac do pieciu posrednikow. Do tego ARBITRAZ INFORMACJI (zna ceny w Dorzeczu, zanim wie o nich Winterfell, i odwrotnie) - osobne, grube zrodlo zysku, ktorego kupiec z jedna filia nie ma w ogole.",
+   "poprawka_3_moment": "Liczby gracza opisuja SIEC DOJRZALA, W POKOJU, W PELNYM SEZONIE = PULAP. A jest sierpien 299: Dorzecze ZRUJNOWANE (Riverrun jako staly potezny strumien towarow rolnych to stan za 2-3 lata - dzis ta ziemia dopiero sie podnosi i po to wlasnie zakladana jest Kompania), Rozdroze lezalo na szlaku wojny i ruch dopiero wraca, ZIMA IDZIE.",
+   "PULAP_pokoj_dojrzala_siec": {
+    "obrot_brutto_mies": "~1650-2700 smokow",
+    "zysk_netto_mies": "~300-500 smokow",
+    "zysk_netto_rocznie": "~4000-6000 smokow"
+   },
+   "DZIS_299_08_pierwszy_sezon_po_wojnie": {
+    "realizacja": "~60% pulapu",
+    "obrot_brutto_mies": "~1000-1600 smokow",
+    "zysk_netto_mies": "~200-300 smokow",
+    "zysk_netto_rocznie": "~2500-3500 smokow",
+    "wolna_gotowka_mies": "~80-120 smokow",
+    "MAJATEK_NETTO_DOMU": "~4000-6000 smokow"
+   },
+   "obroty_placowek_pulap_mies_smoki": {
+    "riverrun": "420-580 (najstabilniejszy - towary rolne i surowce z poludnia; DZIS mocno ponizej, bo Dorzecze zrujnowane)",
+    "fosa_cailin": "330-500 (zalezny od karawan; latem ogromny, ZIMA DRASTYCZNIE SPADA - snieg na trakcie, placowka zyje z wyprzedazy zapasow)",
+    "bialy_port": "400-700 (DOPISANE - kregoslup, bo port NIE ZAMARZA i trzyma caly rok)",
+    "winterfell": "250-420 (skoki pod koniec miesiaca przy zjezdzie lordow i przy ogloszeniu nadejscia Zimy - masowy skup zapasow)",
+    "rozdroze": "160-330 (bardzo wysoka plynnosc, setki drobnych transakcji dziennie w srebrze i miedzi)",
+    "czarny_zamek": "80-170 (najmniejszy obrot nominalny, NAJWYZSZA MARZA - tania sol i siekiery za bezcenne futra zza Muru; ROSNIE ZIMA)"
+   },
+   "koszty_operacyjne_mies_smoki": {
+    "prywatna_armia_i_eskorta": "~300 (najwyzszy koszt: 150-200 dobrze uzbrojonych ludzi chroniacych wozy na Krolewskim Trakcie i Przesmyku)",
+    "logistyka_i_utrzymanie": "~400 (pasza dla setek koni i wolow, wozniсy, naprawy wozow, spichlerze)",
+    "cla_i_oplaty": "~200 (przejscia, cla, oplaty za spokoj na drogach) - UWAGA: czesc tych oplat Symon placi TERAZ SAMEMU SOBIE albo swojemu krolowi (jest lordem bramy ladowej i Namiestnikiem) = realna oszczednosc I osobny konflikt rol do pilnowania"
+   },
+   "SEZONOWOSC_DO_LICZENIA_ODTAD": "FOSA i ROZDROZE zalamuja sie ZIMA (snieg na trakcie). CZARNY ZAMEK ROSNIE ZIMA (futra: maly wolumen, gruba marza). BIALY PORT TRZYMA CALY ROK, bo nie zamarza - ekonomiczny KREGOSLUP domu.",
+   "FAKT_STRATEGICZNY_NADRZEDNY": "PRYWATNY DOM HANDLOWY SYMONA JEST BOGATSZY OD SKARBU KORONY POLNOCY. Worek wojenny krolestwa to kilka tysiecy smokow - tyle mniej wiecej wart jest sam dom (~4000-6000), a przy tym przynosi rocznie drugie tyle, czego skarb nie robi. SYMON JEST NAMIESTNIKIEM KROLA, KTORY JEST BIEDNIEJSZY OD SWOJEGO URZEDNIKA. To nie wystepek i nikt go o nic nie oskarza - ale to JEGO NAJWIEKSZA POJEDYNCZA EKSPOZYCJA, wieksza niz Bolton i niz Karstark. Dlatego mur trzech kas, jawne ksiegi i zasada ZADNA Z MOICH RAK NIE PODPISUJE TEGO, CO PRZYZNALA DRUGA przestaja byc elegancja i staja sie JEDYNA RZECZA, KTORA STOI MIEDZY NIM A ZARZUTEM.",
+   "DO_ROZWAZENIA_PRZY_OKAZJI": "Gracz zasygnalizowal trzy dalsze rachunki, ktore mozna policzyc na zadanie: (1) miesieczne wynagrodzenia calej zalogi (kupcy, woznicy, straznicy); (2) jak zyski zmienilyby sie, gdyby wybuchla wojna i drogi zostaly odciete; (3) ktore konkretne towary (bron, zboze, futra) generuja najwieksza czesc obrotu."
+  }
  }
 }

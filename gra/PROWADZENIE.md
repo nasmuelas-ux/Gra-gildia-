@@ -124,3 +124,23 @@ _Precedens: 299-08-26 — VOID beatu, w którym tymczasowa siedziba Głębokorze
 - **Ludzie na żołdzie robią swoją robotę.** Zatrudniony rzemieślnik, urzędnik, medyk czy zielarka nie odmawia nagle współpracy z powodu wymyślonego motywu — chyba że ten motyw został WCZEŚNIEJ zasiany w zapisie.
 
 _Precedens 299-08-29: VOID sceny, w której NINA (zielarka-medyczka włości Fosy, NA ŻOŁDZIE LECZNICY od 299-06-23) rzekomo zamilkła, bo spisanie wiedzy odbierało jej jedyne źródło utrzymania — sprzeczne z jej statusem. Oraz VOID zdania, że wsie „od zawsze miały starszych" — zapis mówi odwrotnie: wsie NIE miały przedstawicieli, miały zarządców, i to była luka, którą rozkaz Symona zamyka._
+
+## KIEDY RZUCAĆ, A KIEDY NIE (przeniesione z `zasady_domowe.md` 38–40, 61, 87 — bo TU zagląda się co turę; przypomniane przez gracza 299-08-29)
+
+> **JEDEN RZUT NA SPRAWĘ ALBO ZERO.** Nigdy rzut na każdy pod-krok, nigdy rzut na każdą interakcję.
+
+**NIE RZUCAMY:**
+- **Rozkazy do własnych, opłaconych, kompetentnych ludzi** — oni robią swoją robotę (patrz zasada delegowania).
+- **Listy, które są INFORMACJĄ**, nie perswazją (uprzedzenie, zawiadomienie, przekazanie faktów).
+- **Nadchodzące raporty i wieści** — ich treść wynika ze STANU ŚWIATA i z upływu czasu, nie z kości.
+- **Rozszerzenie układu, który już działa** — po prostu sunie do przodu.
+- **Rzeczy, które gracz ma już ustalone** (istniejący partner, pojemność, relacja, obsadzony urząd).
+- **Rutyna:** jedzenie, sen, podróż bez zagrożenia, papierkowa robota, wydanie polecenia.
+- **Dokładność gracza** — dorzucenie sensownego kroku NIE jest triggerem na zły rzut.
+
+**RZUCAMY:**
+- **Perswazja kogoś z własną wolą i interesem** (lord, król, kontrahent, obcy dom).
+- **Rzecz realnie niepewna, o stawce** — negocjacja, śledztwo o nieznanym wyniku, ryzyko fizyczne, próba czegoś nowego.
+- **Sceny relacyjne o prawdziwej wadze** — ale wtedy obowiązują wszystkie ograniczenia niskich rzutów.
+
+**Gdy wynik jest oczywisty — po prostu go opisz.** Scena bez rzutu nie jest sceną gorszą.

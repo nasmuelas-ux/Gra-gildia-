@@ -123,3 +123,27 @@ Do tego: **Hal — dyrektor generalny** (Fosa), Tam i Wick przy księgach, Deman
 > **Lenno płaci chlebem i pracą, nie monetą.** Dlatego drużyny nigdy nie ograniczał grosz, tylko chleb.
 
 > **Czynszów podnieść się nie da.** Wszystko, co jeszcze wyrośnie, musi wyrosnąć z rzeczy nowych.
+
+
+---
+
+# DOPISEK — CZARNY ZAMEK (299-09-05)
+
+**Nocna Straż nie ma pieniędzy i mieć ich nie będzie.** To nigdy nie był handel za monetę.
+
+**To wymiana, a marża bierze się z KURSU, nie z ceny.** Beczka soli warta grosze w Białym Porcie kupuje skóry, za które w Braavos płaci się srebrem — nie dlatego, że dobrze sprzedaję, tylko dlatego, że **oni nie mają z kim się targować, a ja jestem jedynym, kto tam jeździ zimą.**
+
+**Co Straż ma:** futra, drewno z Daru, i **DAR** — dwadzieścia pięć mil ziemi trzymanej przez instytucję bez rąk do uprawy i bez ludzi do obrony. **Największy martwy majątek na Północy.**
+
+**Czego potrzebuje:** ziarna, soli, stali, sukna, oliwy. Zawsze.
+
+**Dlaczego obrót jest mizerny:** kilkuset niedożywionych ludzi w trzech zamkach. **80–170 smoków miesięcznie to sufit, nie stan przejściowy.**
+
+> ## TO NIE JEST PLACÓWKA HANDLOWA. TO POSTERUNEK POLITYKI.
+> *Kto karmi Mur, ten Mur trzyma.*
+
+**BŁĄD DO POPRAWIENIA W KSIĘDZE:** Czarny Zamek stoi w rubryce placówek handlowych z pozycją ujemną. Za pięć lat dyrektor, który nie będzie pamiętał po co, **zamknie go jako nierentowny — i będzie miał rację arytmetyczną.** Ma być wpisany osobno, z powodem, na piśmie.
+
+**A DAR** — ziemia bez rąk dwadzieścia dni drogi od rąk bez ziemi — **nie jest decyzją kupiecką.** Dar jest Straży, nie Korony; Mormont nie wrócił zza Muru; Dar jest pusty, bo wyludniły go najazdy.
+
+> **Zanim Dar stanie się ziemią, musi stać się granicą.**

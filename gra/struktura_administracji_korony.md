@@ -102,16 +102,11 @@ _Ten sam podział, co przy Przystani Wilka: **Manderly handel, Korona miecz i ra
 
 _Bez tego byłby największym kupcem Północy regulującym własnych konkurentów. Z tym — jest budowniczym stanu kupieckiego, w którym przy okazji sam siedzi._
 
-### IV. KADENCJA — rdzeń całej konstrukcji
-> **PIĘĆ LAT. Odnawiane OSOBNYM AKTEM KRÓLA — nie milczeniem i nie zwyczajem. Wakat po upływie. Ponowne nadanie możliwe, nigdy automatyczne. NIEDZIEDZICZNY, bez wyjątku.**
+### IV. NADANIE I ROZLICZENIE
+**Urząd nadaje i odbiera KRÓL.** Nie ma kadencji z góry ustalonej i nie ma automatycznego wygaśnięcia.
 
-_Południe zgubiło się dokładnie tu: urzędy, które miały być służbą, stały się majątkiem rodów, a potem roszczeniem. **Urząd na kadencję nie zdąży wrosnąć w krew.**_
+**Urząd jest ROZLICZANY co jakiś czas przed Radą** — rachunek z tego, co zrobiono, co wydano i czego nie zrobiono. Jak każdy urząd Korony. Rozliczenie jest zwyczajną rzeczą, nie podejrzeniem.
 
-### V. ZASADA OGÓLNA, KTÓRĄ TEN URZĄD USTANAWIA
+**Urząd nie jest dziedziczny** — przechodzi z woli Króla, nie z krwi.
 
-> **Urzędy ludzi bez rodu — na służbę, dopóki służą.**
-> **Urzędy w rękach lordów — zawsze na kadencję, zawsze do wakatu.**
-
-Skarbnik, Marszałek, Dyrektor, Justycjariusz, odpowiedzialni za budowy — **nie mają komu urzędu przekazać, więc nie ma czego pilnować.** Lord ma synów — **więc urząd ma termin.**
-
-**Nie jako zniewaga, lecz jako prawda:** _żaden urząd Północy nie jest niczyją własnością — także ten, i także urząd Namiestnika._
+_(Rozważania o kadencyjności powszechnej — pięć lat, wakat, odnawianie aktem — pozostały ROZWAŻANIAMI. Nie zostały wprowadzone. O obsadzie rozstrzyga Król.)_

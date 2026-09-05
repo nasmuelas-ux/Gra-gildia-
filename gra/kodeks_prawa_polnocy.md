@@ -161,3 +161,106 @@ _Trzecie prawo wolnej Północy — i pierwsze, które nie dotyczy lordów ani k
 - **Kto świadomie fałszywie zeznał o czyjejś śmierci** — odpowiada jak za fałszywe doniesienie (karta dla rządcy).
 
 _Sprawa Morna wpada w termin roczny (zdarzenie znane, koń znaleziony, ciała brak). Jeśli wróci do 300-08-22 — nikt nic nie stracił: uznania jeszcze nie ma, gospodarstwo prowadzi żona jako zarządca, on wchodzi do własnego domu i bierze swoje._
+
+
+---
+
+# ZASADA SZKODY PONIESIONEJ NA WEZWANIE PRAWA
+### orzeczona 299-09-02 w Kamiennym Brodzie, w sprawie Morna
+
+> **KTO PONOSI SZKODE, IDAC NA WEZWANIE PRAWA, NIE PONOSI JEJ SAM.**
+
+**Obejmuje:** droge tam i z powrotem; szkode rzeczywista, wykazana i spisana.
+
+**Nie obejmuje:** tego, co czlowiekowi popsuje sie w domu pod jego nieobecnosc.
+
+**Ocenia sie kazdy przypadek osobno. Nie ma tabeli — jest obowiazek rozwazenia.**
+(Ta sama konstrukcja co przy cenie krwi i przy sile wyzszej.)
+
+## Skad sie wziela
+
+Morn z Kamiennego Brodu wyruszyl 299-08-22 na wezwanie sadu Namiestnika, w nawalnice.
+Konia zniosla mu woda w brodzie, sam zostal wyrzucony trzy mile nizej ze zlamanym
+przedramieniem i lezal osiem dni w goraczce u obcych ludzi. Korona wydala srebro na
+poszukiwanie go. **Poslchal — i o malo go to nie zabilo.**
+
+## Po co ona jest
+
+Do 299-09-02 chlop wezwany przed sad krola liczyl w glowie: *pojade i strace tydzien,
+konia, moze wiecej.* **Od dzis ten rachunek robi Korona.** Zasada wyjmuje ostatni
+rozsadny powod, zeby nie stawic sie na wezwanie.
+
+Zaplacono z **Kasy Trzeciej** — swiadomie nie z prywatnej sakwy Namiestnika, by nikt
+nigdy nie mogl napisac, ze zaplacil z wlasnego dla poklasku. Cena uczciwa: taka, za
+ktora czlowiek kupi sobie **takiego samego konia na wiosne**, nie cena pocieszenia.
+
+---
+
+# KORONA NIE KARZE ZA TO, CZEGO NIE POWIEDZIALA
+### wyklad z wyroku w sprawie falszywego doniesienia Morna, 299-09-02
+
+Morn zglosil sasiada jako zbieracza **osiem dni** po ogloszeniu Prawa Zimowego Ratunku.
+Nikt mu tego prawa nie objasnil. Przed sadem **nie sklamal** i ani razu nie siegnal po
+wymowke, ze zle je zrozumial — bo w jego glowie **nie bylo czego nie zrozumiec**.
+
+> **UNIEWINNIONY Z WYSTEPKU.** Korona nie karze czlowieka za to, czego mu nie powiedziala.
+
+To jest lustrzane odbicie zasady z 299-08-20 (*lordowie uchwalili prawo, wiec oni je
+niosa*): **luka w przekazaniu prawa obciaza Korone i lordow, nie chlopa.**
+
+## Ale to nie bylo niczym — POUCZENIE I WPIS
+
+Zapytany, po co poszedl z tym do rzadcy, odpowiedzial: **„bo sie nadarzylo"**. Nie
+sprawdzil, czy oskarzenie jest prawdziwe, i nie obchodzilo go, czy jest prawdziwe.
+
+> Czlowiek, ktorego nie obchodzi, czy oskarzenie jest prawdziwe, **nie jest jeszcze
+> przestepca — ale jest o jeden krok od niego.**
+
+## NOWY INSTRUMENT: WPIS DO KSIEGI JAKO ZAPIS POUCZENIA
+
+Pouczenie idzie **do ksiegi, z imieniem i data — nie jako wyrok, lecz jako zapis, ze
+danemu czlowiekowi prawo wylozono.**
+
+> Od dzis nie jestes czlowiekiem, ktoremu nikt nie powiedzial. Jestes czlowiekiem,
+> **ktoremu powiedziano — przy swiadkach, i zapisano, ze powiedziano.**
+> Jesli zrobisz to drugi raz, nie bedzie juz pytania, **czy wiedziales**.
+> Bedzie tylko pytanie, **czy sklamales**.
+
+**Lagodniejsze niz kara i twardsze niz kara: nie zabiera sie czlowiekowi nic procz
+wymowki.** Stosowac wszedzie tam, gdzie czyn jest naganny, ale wiedzy sprawcy dowiesc
+sie nie da — raz. Drugi raz juz sie da.
+
+## Dlaczego doniesienia byly darmowe
+
+Morn powiedzial przed sadem: **„Ja go nie oskarzylem. Ja tylko powiedzialem."**
+
+Przez cale jego zycie donoszenie nic nie kosztowalo: powiedzialo sie rzadcy, rzadca robil
+z tym, co chcial, i **nikt nigdy nie wracal do tego, kto powiedzial**. To nie jest zepsucie
+jednego chlopa — to stan, w jakim zastano to krolestwo, i wlasnie on jest tu rozbierany.
+
+---
+
+# WYKLAD PRAWA ZIMOWEGO RATUNKU DLA LUDZI, KTORZY NIE CZYTAJA
+### slowa wypowiedziane z ganku w Kamiennym Brodzie, 299-09-02 — do powtarzania przez rzadcow doslownie
+
+*To prawo nie jest po to, zeby dokopac sasiadowi. Kto go tak uzywa, uzywa go zle — i teraz
+juz wiecie, ze sie z tego odpowiada.*
+
+*Na Polnocy zboza jest malo. Zawsze bylo malo. My go nie mamy skad wyhodowac tyle, ile
+trzeba — my je sprowadzamy. A zima idzie i nikt wam nie powie, ile potrwa.*
+
+*Prawo pyta o jedna rzecz, jedna jedyna: **czy chleb trafi tam, gdzie jest glodny.***
+
+*Kto zrobil zapas dla swoich — ten zrobil dokladnie to, czego Korona od was chce. To nie
+jest wystepek, to jest to, za co sie ludziom dziekuje.*
+
+*A kto trzyma chleb przed glodnym, zeby zdrozal — tego prawo wezmie. I to jest cala
+roznica. **Nie o to chodzi, ile masz. Chodzi o to, po co to trzymasz.***
+
+*Korona nie przyjezdza zabierac. Korona kupuje, za uczciwa cene.
+Bo **Korona nie ma z was nic, jak wyzdychacie — Korona ma z was tyle, ile was na wiosne zostanie.***
+
+*A jak macie sasiada, z ktorym sie zrecie o wode — zrijcie sie o wode, idzcie z tym do
+rzadcy, on od tego jest. Ale nie bierzcie sobie do tego prawa Korony.*
+
+> ***Zima nie pyta, kto z kim sie kloci o miedze.***

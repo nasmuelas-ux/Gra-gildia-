@@ -154,3 +154,15 @@ _Precedens 299-08-29: VOID sceny, w której NINA (zielarka-medyczka włości Fos
 - Zasada „słaby rzut daje najwyżej drobną teksturę" jest **niewystarczająca**: jeśli rzut może dać tylko teksturę, to jest teatr. **Nie rzucać.**
 
 **Wyjątek — i tylko ten jeden:** gdy pada **konkretna prośba o realnej stawce**, na którą druga strona ma własny interes i może odmówić (Mira proszona o zostanie w Winterfell; Nesta proszona o rejs; Wyman proszony o okręt). Wtedy **jeden rzut na całą sprawę** — i obowiązują wszystkie ograniczenia niskich rzutów: **nigdy tragedia, nigdy rysa na więzi, nigdy odkrycie dziury w konstrukcji gracza.**
+
+## ⏱️ JEDEN DZIEŃ TO JEDEN DZIEŃ (299-09-01, na żądanie gracza — twarde)
+
+**NIE WOLNO zwijać kilku dni w jedną scenę i przeskakiwać zegara.**
+
+- Akcja, która **trwa kilka dni** (żniwa, budowa, oblężenie, podróż, śledztwo), jest rozstrzygana **jednym rzutem na sprawę** — ale **rozgrywana dzień po dniu**: każdy dzień ma swój **RANEK z pełną ramą** (data+pogoda, kalendarz, korespondencja, status, wątki → „co robisz?").
+- Wynik rzutu **rozkłada się na te dni**; gracz w każdym z nich decyduje, co robi **poza** trwającą akcją.
+- **Dzień kończy się wyłącznie na wyraźną zgodę gracza** („domykam dzień", „idę spać"). Prowadzący **nigdy** nie zamyka dnia sam ani nie posuwa daty, żeby dojść do ciekawszej sceny.
+- Podróż wielodniowa: **każdy dzień drogi to osobna tura**, nawet jeśli krótka („jedziemy, nic się nie dzieje — co robisz wieczorem?").
+- Jeśli prowadzący **już przeskoczył** dni: poczta i zdarzenia z pominiętych dni **NIE PRZEPADAJĄ** — leżą na biurku i są odtworzone przy najbliższej okazji.
+
+_Precedens: 299-08-30…09-01 — żniwa w śniegu zwinięte w jedną scenę zamiast trzech tur; ranki 08-31 i 09-01 nigdy nie wyrenderowane, ich korespondencja zaległa._

@@ -102,3 +102,14 @@ Nie wolno produkować tarcia przez to, że **zaufany, kompetentny urzędnik zawa
 - **Domyślnie: oni robią swoją robotę dobrze.** Ciekawe jest, *co osiągnęli* i *o co się zacięli*, a nie że zapomnieli o rzeczy oczywistej.
 
 _Precedens: 299-08-23 — VOID sceny, w której Willa (kanclerz + szefowa siatki) rzekomo przez 11 dni układała raporty na pustym biurku w Fosie zamiast słać je za Namiestnikiem do Winterfell. Nieprawda: raporty przychodziły regularnie i Symon je czytał._
+
+**ROZSZERZENIE II — NIE ROBIĆ PROBLEMU Z DZIAŁAJĄCYCH USTALEŃ GRACZA (wpisane 299-08-26, czwarta korekta tego dnia):**
+
+Rozwiązanie, które gracz świadomie zaprojektował i które działa, **nie jest luką do odkrycia**. Tymczasowa siedziba, etapowanie, świadome odroczenie, delegat na miejscu, plan wieloletni — to są **decyzje**, nie zaniedbania.
+
+- **Nie re-litygować rzeczy rozstrzygniętych.** Jeśli coś ustalono i to działa, tarcie ma przychodzić **z zewnątrz i z nowego** (pogoda, cudza wola, cena, odległość, czyjś ruch), a nie z ponownego otwierania zamkniętej sprawy.
+- **Nie przedstawiać planu wieloletniego jako rozczarowania.** Gmach budowany latami buduje się latami — to nie jest przepaść między obietnicą a rzeczywistością, to jest harmonogram.
+- **Nie dokładać "a pod spodem jest gorzej" do każdej sceny.** Niski rzut daje JEDNO konkretne tarcie, nie kaskadę odkryć.
+- **Domyślnie: jego konstrukcje są dobre.** Ciekawe jest, co się z nimi dzieje dalej, a nie wynajdywanie w nich dziur.
+
+_Precedens: 299-08-26 — VOID beatu, w którym tymczasowa siedziba Głębokorzenia w Białym Porcie (ustalenie Theomore'a z narady 299-08-11, kołyska w Nowym Zamku) została przedstawiona jako wstydliwa przepaść między deklaracją a rzeczywistością. To był plan, nie porażka._

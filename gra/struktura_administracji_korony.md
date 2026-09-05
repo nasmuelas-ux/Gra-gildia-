@@ -50,3 +50,23 @@
 **→ Wniosek:** szkielet stoi (rada funkcyjna położona, urzędy zdefiniowane), a **mięśni brak już tylko w jednym miejscu — SKARB (Skarbnik, w rekrutacji)**; MIECZ (Marszał chorągwi) obsadzony Osrikiem — plus kręgosłup kadr, który dopiero rośnie. To mapa dalszej obsady.
 
 *Zgodny z radą funkcyjną (06-09) i zakresem urzędu Namiestnika (06-11). Do przedłożenia Królowi i 1. wielkiej radzie. Aktualizować przy każdej nominacji.*
+
+
+---
+
+## ZASADA UCZNIÓW PRZY URZĘDZIE (299-08-27, Symon Tally + Skarbnik Gawen)
+
+> **Nikt nie pracuje dla Korony sam. Każdy, kto trzyma urząd — Korony albo Domu Starków — bierze trzech, czterech młodych i uczy ich swojej roboty.**
+
+**Powód:** Skarb ma organy, ale nie ma kadr. Mennica, cło, miara, rejestr roszczeń, komory, dwie budowy — wszystko postawione w miesiąc, wszystko obsadzone ludźmi zabranymi skądinąd. Ta sama ściana wraca przy każdym następnym urzędzie: **nie ma ludzi i nie będzie, dopóki ktoś ich nie zrobi.**
+
+**Koszt:** ani smoka. Wyłącznie **czas urzędników** — człowiek uczący czterech robi swoje wolniej przez rok, a potem **ma czterech, którzy robią to za niego**.
+
+**Zwrot:** za trzy lata każdy urząd ma ławkę; za pięć — jest z kogo obsadzać komory, rewizorów, sołtysów, pisarzy, poborców, kwatermistrzów. **Bez proszenia lordów o ludzi i bez brania cudzych.**
+
+**Trzy zastrzeżenia (Gawen, wszystkie przyjęte):**
+1. **Wybór jawny i po zdolności, nie po krwi** — inaczej za dwa lata każdy urząd obsadzą siostrzeńcy. **Kto kogo bierze — do księgi.**
+2. **Uczeń ma robić, nie stać.** Prawdziwe zadania, prawdziwa odpowiedzialność, prawdziwe błędy. _Chłopak, który przez rok nosi pergaminy, nauczył się nosić pergaminy._
+3. **Bierze się z tych, których się ma** — ze szkół, z Wintertown, z miasteczka pod Fosą — **i z dziewcząt też. Nie stać nas na wybrzydzanie.**
+
+_Splot: to jest DOLNE PIĘTRO tej samej drabiny, której górnym piętrem jest GŁĘBOKORZEŃ. Theomore kuje uczonych — lata, gmach, pokolenia. Zasada uczniów kuje urzędników — od jutra, w każdej izbie, ręką ludzi, którzy już robią robotę. Doktryna „urząd nie krew" przestaje być hasłem: urzędników się WYTWARZA, nie dziedziczy._

@@ -47,3 +47,27 @@ _Dokument ustrojowy Domu Handlowego Tally. Wysłany na Fosę Cailin, dojdzie 299
 > **Fach i księgi nigdy w jednej ręce.**
 
 > **Kto zarządza, nie mierzy sam siebie — mierzy go pion, który przed nim nie odpowiada.**
+
+
+---
+
+# DOPISEK — 299-09-05, wieczór
+### Wysłany o świcie 09-06, dojdzie 09-08 (dzień po liście głównym)
+
+> **Halu,**
+>
+> Dwie poprawki do wczorajszego, obie na Twoją korzyść.
+>
+> **Pierwsza — tempo jest Twoje.** Napisałem Ci naraz trzy duże rzeczy: przebudowę spółek, skup zboża dla Korony od siódmego i rachunek filii w Braavos. **Nie oczekuję ich naraz i nie oczekuję ich szybko.** Przebudowa własności to robota na miesiące i lepiej, żeby zrobiona była raz porządnie niż trzy razy naprędce. **Kolejność ustalasz Ty i donosisz mi, co wybrałeś** — nie pytasz o zgodę.
+>
+> **Druga — cofam to, co napisałem o ubezpieczeniach.**
+>
+> Nie wycofujemy ramienia ubezpieczeń ani routingu z kantoru. **Zostają tam, gdzie są.**
+>
+> **Wkładam w nie do pięćdziesięciu smoków** — nie na obrót, lecz **na rezerwę**. Ubezpieczyciel może wziąć na siebie tylko tyle ryzyka, ile jest w stanie wypłacić; dopóki rezerwa jest cienka, będziemy odmawiać większych rękojmi i patrzeć, jak biorą je inni.
+>
+> I jest drugi powód, ważniejszy od pierwszego. Nesta powiedziała mi kiedyś rzecz, której wtedy nie doceniłem: **przy jednej polisie nie odróżnisz złego losu od złego modelu.** Póki bierzemy kilka rzeczy rocznie, **nie wiemy, czy liczymy dobrze — tylko czy mieliśmy szczęście.** Większa rezerwa to więcej polis, a więcej polis to wreszcie **liczba, z której da się czytać.**
+>
+> **Wypłata etapami, wedle tego, ile realnie jesteście w stanie objąć** — nie kładź pięćdziesięciu smoków, żeby leżały.
+>
+> **— Tally**

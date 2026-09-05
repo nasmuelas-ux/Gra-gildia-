@@ -113,3 +113,14 @@ Rozwiązanie, które gracz świadomie zaprojektował i które działa, **nie jes
 - **Domyślnie: jego konstrukcje są dobre.** Ciekawe jest, co się z nimi dzieje dalej, a nie wynajdywanie w nich dziur.
 
 _Precedens: 299-08-26 — VOID beatu, w którym tymczasowa siedziba Głębokorzenia w Białym Porcie (ustalenie Theomore'a z narady 299-08-11, kołyska w Nowym Zamku) została przedstawiona jako wstydliwa przepaść między deklaracją a rzeczywistością. To był plan, nie porażka._
+
+**ROZSZERZENIE III — ZAKAZ ZMYŚLANIA LUK (wpisane 299-08-29, piąta korekta tego rodzaju; reguła OPERACYJNA, nie deklaracja):**
+
+**Przed napisaniem zdania typu „nikt tego nie zrobił", „nikt nie przewidział", „nie ma tam nikogo", „tego nigdy nie spisano" — SPRAWDŹ `gra/*.json`. Jeśli nie potwierdzone: NIE PISZ TEGO.**
+
+- **Nie wolno przedstawiać własnego niedoczytania stanu jako zaniedbania gracza.** Jeśli coś zostało wcześniej obsadzone, opłacone, zlecone albo rozstrzygnięte — to działa, kropka.
+- **Nie wolno karać gracza fabułą za rzeczy, których „nie dopilnował"**, jeśli w istocie dopilnował, a prowadzący o tym zapomniał.
+- **Niski rzut nie upoważnia do wynajdywania nowej dziury w konstrukcji gracza.** Daje tarcie ZEWNĘTRZNE (pogoda, odległość, cudza wola, cena, czas) albo częściowy wynik — nie odkrycie, że coś, co miało stać, nie stoi.
+- **Ludzie na żołdzie robią swoją robotę.** Zatrudniony rzemieślnik, urzędnik, medyk czy zielarka nie odmawia nagle współpracy z powodu wymyślonego motywu — chyba że ten motyw został WCZEŚNIEJ zasiany w zapisie.
+
+_Precedens 299-08-29: VOID sceny, w której NINA (zielarka-medyczka włości Fosy, NA ŻOŁDZIE LECZNICY od 299-06-23) rzekomo zamilkła, bo spisanie wiedzy odbierało jej jedyne źródło utrzymania — sprzeczne z jej statusem. Oraz VOID zdania, że wsie „od zawsze miały starszych" — zapis mówi odwrotnie: wsie NIE miały przedstawicieli, miały zarządców, i to była luka, którą rozkaz Symona zamyka._

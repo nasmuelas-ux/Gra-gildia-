@@ -607,3 +607,69 @@ Jeśli przyjdzie dwunastu — będzie napisane, że przyszło dwunastu, **i mias
 **V. Korona udrażnia drogę, nie wozi głosujących.** Ludzie z zamku odśnieżają i obsznurowują drogę do miejsca głosowania, stawiają ogień i ciepłą izbę — **dla wszystkich jednakowo.** Wożenie ludzi do urny byłoby kupowaniem głosów. **Odśnieżenie ulicy nie jest.**
 
 **VI. Osłona przed samym przedłużeniem.** Im dłużej trwa głosowanie, tym więcej czasu na nacisk i przekupstwo. Dlatego: koniec twardy i ogłoszony z góry, **urna pieczętowana każdego wieczoru**, a **liczenie raz i dopiero na końcu** — przy ludziach każdego z kandydatów.
+
+---
+
+# REDAKCJA JUSTYCJARIUSZA — 299-09-11
+### Medger Cerwyn, Justycjariusz Korony · zatwierdzone przez Namiestnika tego samego ranka
+
+_Siedem łat stoi bez zmian. Zmienił się **kształt** i dopisano **cztery rozstrzygnięcia**, które ujawniły się dopiero przy pisaniu litery._
+
+## KSZTAŁT — DWA TEKSTY ZAMIAST JEDNEGO
+
+| **PRAWO** | **OBWIESZCZENIE** |
+|---|---|
+| artykuły, definicje, sucho — **po tym sądzi się** | to, co czyta się na rynku — **po tym rozumie się** |
+
+> **Metafora w artykule to nie prawo, to zaproszenie do sporu.**
+> *„Wóz jest składem, który się porusza"* zostaje w obwieszczeniu. W prawie stoi: **zboże ponad miarę poza gruntem właściciela, niezależnie od środka przewozu.**
+
+**Pierwsze zdanie obwieszczenia bez zmian:** *To prawo dotyczy tylko bogatych. Tak ma być.*
+
+---
+
+## ROZSTRZYGNIĘCIE 1 — WŁAŚCIWOŚĆ SĄDU. *(i to nie jest przepis o zbożu)*
+
+Rządca Korony **nie oskarża lorda.** Nigdy, w żadnej sprawie z tego prawa.
+
+| oskarżony | sądzi |
+|---|---|
+| kupiec, mieszczanin, wolny | sąd zwykły |
+| **LORD** | ### **KRÓL albo JUSTYCJARIUSZ** |
+
+> ### LORD PÓŁNOCY ODPOWIADA PRZED KRÓLEM, NIE PRZED URZĘDNIKIEM KRÓLA.
+> **To jest pierwsza reguła właściwości w wolnej Północy i będzie cytowana daleko poza zbożem.** Prawo, którego nikt nie ośmieli się zastosować, uczy, że prawa Korony są na pokaz.
+
+*Justycjariusz wskazał własny konflikt interesów, zanim ktokolwiek go wskazał za niego.*
+
+---
+
+## ROZSTRZYGNIĘCIE 2 — KORONA **MOŻE** KUPIĆ
+
+Pierwokup jest **prawem Korony, nie jej obowiązkiem.**
+
+> Gdy rynek spadnie poniżej ceny ogłoszonej, wszyscy sprzedaliby Koronie powyżej rynku. **Jedno słowo — „może" — dzieli tarczę od wykrwawienia skarbu w jeden sezon.**
+
+---
+
+## ROZSTRZYGNIĘCIE 3 — TARCZA WOŹNICY
+
+> ### Woźnica ma prawo odmówić załadunku bez listu przewozowego — i odmowa nie łamie umowy przewozu.
+
+**Tego prawa nie pilnuje Korona.** Pilnuje go każdy przewoźnik na Północy, za darmo, ze strachu o własny wóz. **Egzekucja bez urzędnika.**
+
+*Spina się ze stawką przewozową z 299-09-08 i z komorami celnymi: ten sam papier, ta sama komora, ten sam człowiek.*
+
+---
+
+## ROZSTRZYGNIĘCIE 4 — WŁASNE DO WŁASNEGO
+
+Przewóz między składami **tego samego właściciela nie jest wyjściem ze składu** i nie podlega wpisowi.
+
+**Ale list przewozowy jedzie i tak**, z rubryką **„własne do własnego"**.
+
+> **Nikt niczego nie księguje — a wóz nadal ma papier.**
+
+---
+
+**STATUS: tekst gotowy do pieczęci Króla. Kładzie się przed nim po powrocie (~09-14).**

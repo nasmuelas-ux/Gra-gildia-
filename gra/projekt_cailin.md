@@ -215,3 +215,37 @@ Kupcy poznają miasto po zapachu na milę przed bramą.
 # JEDNO ZDANIE
 
 > **Czarne miasto z zielonym dachem, świecące pomarańczowo przez własną mgłę.**
+
+---
+
+# DOPISEK — 299-09-08, WIECZÓR, WINTERFELL
+### po rozmowie z maesterem Luwinem
+
+_Projekt pisany był jako inżynieria. Okazuje się, że jest także archeologią._
+
+**Pale z czardrzewa wbite w dno bagna** — wpisane tu trzeciego dnia września z czystego rachunku (drewno pod wodą nie gnije, tylko twardnieje) — **są tym, na czym Fosa Cailin według podań stoi od tysięcy lat.** Mieszkańcy bagien powiadają to od zawsze. Czardrzewo jest drzewem Dzieci Lasu.
+
+**A samo bagno nie jest bagnem z natury.**
+
+> Podania mówią, że **Dzieci Lasu zebrały się właśnie przy Fosie Cailin** i że ich zielonowidzowie wezwali tam **Młot Wód** — po raz drugi, żeby przełamać Westeros na pół. Za pierwszym razem, przy Ramieniu Dorne, udało się. **Tu się nie udało: nie przełamali lądu, tylko go zatopili.**
+
+**Przesmyk jest blizną po tym zaklęciu. Fosa Cailin stoi w miejscu największego aktu magii w dziejach Westeros.**
+
+---
+
+## I RZECZ, PRZEZ KTÓRĄ TEN PROJEKT MOŻE PRZESTAĆ BYĆ PROJEKTEM DO SZUFLADY
+
+Północ ma trzy mury i **żaden nie patrzy w tę samą stronę.**
+
+| budowla | patrzy |
+|---|---|
+| **Mur** | na północ |
+| **Winterfell** | stoi pośrodku — a w kryptach królowie zimy leżą z żelaznymi mieczami na kolanach, *żeby nie wstali* |
+| **Fosa Cailin** | **na południe** |
+
+> ### „Wasza forteca patrzy w złą stronę."
+> — maester Luwin, 299-09-08
+
+Jeśli Mur kiedykolwiek zawiedzie, **drugą ścianą Północy jest Fosa Cailin** — i jest zbudowana przeciw wrogowi, który przyjdzie z przeciwnej strony niż ten, którego się boimy.
+
+**Mur kurtynowy zamykający front na południe zostaje.** Ale odbudowa dwudziestu wież przestaje być ozdobą pokoleń, a zaczyna być pytaniem o **kierunek**.

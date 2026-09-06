@@ -181,7 +181,7 @@ Nie kontrola z zaskoczenia — **stały, znany, nieunikniony termin.**
 
 ## DLACZEGO WYCOFANY — trzy powody, i każdy sam by wystarczył
 
-**1 · Nie mamy trzech szkół. Mamy JEDNĄ.** Pisałem plan oparty na sieci, której nie ma.
+**1 · Trzy szkoły stoją — ale to są szkoły, nie sieć obejmująca każdą wieś demeny.** Pisałem plan oparty na czymś, czego nie ma.
 
 **2 · To była rewolucja, nie administracja.** Nakaz obejmujący gospodarstwa całej demeny to najgłębsza zmiana w życiu chłopa od pokoleń — **a zaczęliśmy od tego, żeby uporządkować urzędy.**
 
@@ -199,9 +199,11 @@ Nie kontrola z zaskoczenia — **stały, znany, nieunikniony termin.**
 
 ---
 
-## 1 · JEDNA SZKOŁA — W WINTERFELL, PRZY KANCELARII
+## 1 · IZBA UCZNIOWSKA — W WINTERFELL, PRZY KANCELARII
 
-**Nie osobna instytucja. Izba przy kancelarii, w której uczy się tych, którzy już zostali przyjęci.**
+*(Trzy szkoły — w tym ta na Fosie — stoją i działają jak dotąd. Tu nie zakłada się czwartej: zakłada się izbę przy kancelarii.)*
+
+**Nie osobna instytucja i nie nowa szkoła. Izba przy kancelarii, w której douczają się ci, którzy już zdali próbę.**
 
 **Dwadzieścioro miejsc.** Nie dwadzieścioro rocznie na wieki — **dwadzieścioro, i zobaczymy.**
 
@@ -239,7 +241,7 @@ Odczytać pismo · zsumować kolumnę · zmierzyć ładunek w korcach · napisa�
 
 **Dwadzieścioro praktykantów przy pionach: 40 – 70 smoków rocznie.**
 **Próba: dzień czasu i kartka.**
-**Szkół wiejskich: ZERO.**
+**Nowych szkół: ZERO.** Trzy istniejące pracują jak dotąd.
 
 ---
 

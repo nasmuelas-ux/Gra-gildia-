@@ -314,3 +314,95 @@ Więc:
 | **3** | **Przedłużenie do Riverrun** | 1 700–2 500 | arteria, ale najdłuższa i najmniej pilna |
 
 > **Najpierw płaci się słowo, potem broni się bramy, na końcu buduje się arterię.**
+
+---
+
+# SPRAWDZENIE W KSIĘDZE — 299-09-09, wieczór
+### Zanim to pójdzie przed Króla, sprawdzone z zapisem. Jedna rzecz wyżej jest źle poprowadzona.
+
+## CO KSIĘGA MÓWI NAPRAWDĘ
+
+**1.** *„Trakt to **ZOBOWIĄZANIE PÓŁNOCY** wobec Waldera — więcej ruchu przez jego most = więcej myta = wiąże go własna sakiewka — **a nie jego roszczenie wobec nas.**"*
+
+**2.** *„Frey siedzi na **ZACHODNIEJ** przeprawie (Zielone Widły), a trakt **Cailin–Riverrun idzie Traktem Królewskim** — to **DWIE RÓŻNE DROGI**, ale większa wymiana Północ–Dorzecze podnosi wartość **KAŻDEJ** przeprawy, w tym mostu Waldera."*
+
+**3.** *„Traktem — **zero Freyów**. **Fosa = własna brama Północy, niezależna od cudzego mostu.**"*
+
+**4.** Ostrzeżenie samego Waldera, 299-07-02: *„wiążecie **MNIE**, nie Bliźniaki — **związcie tego, kto po mnie usiądzie**"* (Stevron dziedzic, ale stary; noże: Czarny Walder i Kulawy Lothar).
+
+---
+
+## POPRAWKA
+
+**Wcześniejszy zapis prowadził arterię do Riverrun PRZEZ Bliźniaki, robiąc z nich węzeł. To jest sprzeczne z księgą i strategicznie złe.** Bliźniaki leżą na innej rzece i na innej drodze.
+
+> ### Prowadzenie jedynej arterii Północy przez most Waldera znaczy oddać własną tętnicę w ręce rodu, o którym jego własna głowa ostrzegła, że nie ręczy za następcę.
+
+**Właściwa geometria to TRÓJNÓG, nie łańcuch.**
+
+---
+
+## GEOMETRIA — TRÓJNÓG
+
+**PIEŃ:** **Fosa Cailin → grobla przez Przesmyk → granica → Trakt Królewski na południe.** To jest kręgosłup i to jest nasze.
+
+**GAŁĄŹ ZACHODNIA I — do Bliźniaków** *(dług Korony wobec Waldera)*
+~30 mil klasy I od Traktu Królewskiego do Zielonych Wideł → **350–500 smoków.**
+
+**GAŁĄŹ ZACHODNIA II — do Riverrun** *(połączenie traktów)*
+~70 mil klasy I (**560–840**) + ~30 mil klasy II przy dolinach i przeprawach (**540–750**) + mosty, wieże, składy (**200–350**) → **1 300–1 950 smoków.**
+
+### DŁUG I POŁĄCZENIE ŁĄCZNIE: **1 650 – 2 450 smoków**
+
+*Taniej niż łańcuch przez Bliźniaki — i bez chomąta na własnej szyi.*
+
+---
+
+## DLACZEGO FREY I TAK ZYSKUJE — I DLACZEGO TO WYSTARCZY
+
+**Bo obiecaliśmy mu RUCH, nie monopol.**
+
+Każdy wóz więcej między Północą a Dorzeczem podnosi wartość **każdej** przeprawy — także jego. Walder dostaje **własną, nową, utwardzoną odnogę do swojego mostu**, budowaną przez Koronę Północy, za którą nie zapłaci ani miedziaka.
+
+**Czego nie dostaje: prawa do przepuszczania przez siebie wszystkiego.**
+
+> **Wiążemy go zyskiem, nie uzależniamy się od niego.**
+> **Sojusznika wiąże się tak, żeby chciał — nie tak, żeby mógł.**
+
+I to jest bezpośrednia odpowiedź na ostrzeżenie, które **on sam nam dał**: skoro nie ręczy za tego, kto po nim usiądzie, **nie kładziemy tętnicy królestwa pod jego dziedzica.**
+
+---
+
+# TRAKT WEDŁUG PROJEKTU Z SZUFLADY *(Projekt Cailin, część pierwsza)*
+
+**Cel wpisany 299-09-05:** *trwałe połączenie Fosy Cailin z Dorzeczem — grobla przez Przesmyk łącząca się z Traktem Królewskim biegnącym na południe ku Riverrun i dalej.*
+
+*Projekt z szuflady mówił „ku Riverrun Traktem Królewskim" — czyli od początku był po stronie trójnogu. Pomyłka była dzisiejsza, nie tamta.*
+
+## Konstrukcja wedle projektu
+
+| element | projekt (szuflada) | standard (dziś) | różnica |
+|---|---|---|---|
+| **fundament** | tysiące pali ze skamieniałego czardrzewa, faszyna, żwir | to samo | **zgodne** |
+| **nawierzchnia** | **ściśle dopasowane płyty czarnego bazaltu** | kamień łamany bity, płyty na odcinkach kluczowych | **PROJEKT JEST DROŻSZY** |
+| **szerokość** | dwa wozy handlowe, za mało na szyk | to samo | **zgodne** |
+| **odcinki zwodzone** | mosty podnoszone z wież, wróg więziony na wąskim pasie | to samo | **zgodne** |
+| **wieże i komory celne** | przy każdej przerwie, **utrzymują się same** | to samo | **zgodne** |
+| **kto buduje północ** | **dom Tally** | **Korona buduje, Tally współfinansuje** | **ZMIENIONE** |
+| **kto na południu** | porozumienie z **Tullym** (obce państwo) | to samo | **zgodne** |
+
+## Trzy różnice — i co z nimi zrobić
+
+**I. BAZALT.** Płyty to nawierzchnia na pokolenia, ale **dokładają pięćdziesiąt do stu od sta do ceny mili** — klasa III z płytami to nie 35–50, tylko **55–100 smoków za milę**, czyli **3 300 – 6 000** za samą groblę zamiast 2 100–3 000.
+
+**Rozstrzygnięcie: kamień łamany teraz — płyty tam, gdzie koła chodzą najczęściej, przez pokolenia.** Grobla ma najpierw *być*, a dopiero potem *trwać wiecznie*.
+
+**II. KTO BUDUJE PÓŁNOC — i to jest zmiana przeciw sobie.**
+
+Projekt mówił: **buduje dom Tally.** Prywatnie. Za swoje.
+
+**Odwołuję to.** Prywatna grobla znaczyłaby, że **brama Północy jest własnością kupieckiego domu** — mojego. Dziś to wygodne. Za trzy pokolenia to jest dokładnie ta rzecz, przez którą królestwa się rozpadają.
+
+> ### **Bramy królestwa nie posiada się prywatnie. Buduje ją Korona. Ja dokładam się i nic z tego nie posiadam.**
+
+**III. TULLY, NIE FREY.** Projekt od pierwszego dnia wskazywał partnera na południu poprawnie: **odcinek przez Dorzecze wymaga porozumienia z Tullym, bo biegnie przez obce państwo.** Frey nie jest tu stroną — jest beneficjentem.

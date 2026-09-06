@@ -1,136 +1,164 @@
-# USTRÓJ URZĘDÓW KORONY PÓŁNOCY
-## Redundancja i delegowanie — projekt Namiestnika, 299-09-10
+# USTRÓJ URZĘDÓW I KADRY KORONY PÓŁNOCY
+## Projekt Namiestnika, 299-09-10 — poprawiony tego samego dnia
 
-> ### Państwo, w którym każdy urząd trzyma się na jednym człowieku, nie jest państwem. Jest zbiorem ludzi, którzy się znają.
-
-**Wczoraj policzyłem przedsięwzięcia Korony i wyszło, że trzy nie mają nazwiska, a większość reszty ma jedno — moje.** Kancelaria Namiestnika naprawia to w jednym urzędzie. **Ten projekt naprawia to we wszystkich.**
+> **Pierwszy szkic mówił o „następcach". To było źle nazwane i przez to źle pomyślane.**
+> **Nie chodzi o to, kto po kim obejmie urząd. Chodzi o to, żeby urząd NIE PRZESTAŁ PRACOWAĆ.**
 
 ---
 
-# ZASADA PIERWSZA — REDUNDANCJA
+# CZĘŚĆ I — TRZY RZECZY, KTÓRE MYLĄ SIĘ LUDZIOM
 
-> ### KAŻDY URZĄD MA WSKAZANEGO **NASTĘPCĘ PIERWSZEGO.**
+| | co to jest | kto to daje |
+|---|---|---|
+| **URZĄD** | stanowisko: Skarbnik, Justycjariusz, Marszałek, Namiestnik | **wyłącznie KRÓL** |
+| **PION** | aparat pod urzędem: kancelaria, księgi, ludzie | urząd, w ramach zatwierdzonej liczby |
+| **PEŁNIĄCY OBOWIĄZKI** | człowiek z pionu, który **niesie robotę**, gdy urzędnika nie ma | wskazuje pion, **zatwierdza Król** |
 
-## Cztery reguły, bez których to jest tylko lista imion
+> ### PEŁNIĄCY OBOWIĄZKI NIE OBEJMUJE URZĘDU. NIESIE ROBOTĘ.
+> **Nie awansuje. Nie dostaje rangi. Nie dostaje pieczęci.**
+> **Zostaje tam, gdzie był — w pionie.**
 
-**1. JAWNY.** Nazwisko Pierwszego jest **wpisane i ogłoszone.** Tajny następca to nie zabezpieczenie — to zamach czekający na okazję.
+---
 
-**2. UMIE DZIŚ, NIE NAUCZY SIĘ POTEM.** Pierwszy siedzi przy sprawach, widzi księgi — **i raz na kwartał BIERZE URZĄD NA TYDZIEŃ**, podczas gdy przełożony patrzy i nie wtrąca się.
+# CZĘŚĆ II — TRZY STANY URZĘDU
+
+**1 · OBSADZONY.** Urzędnik działa. P.o. siedzi przy sprawach, widzi księgi, **raz na kwartał bierze robotę na tydzień**, a przełożony patrzy i się nie wtrąca.
 
 > **Zastępca, który nigdy nie robił tej roboty, nie jest zastępcą. Jest nadzieją.**
 
-**3. NIE KREWNY.** Ta sama reguła, którą narzuciłem własnym spółkom: **krewnego nie da się nie przedłużyć bez awantury**, a to psuje cały mechanizm.
+**2 · NIEOBECNY** *(droga, choroba, poselstwo)*. P.o. prowadzi bieżące — **ściśle w granicach spisanej listy.** Wszystko poza listą **czeka albo idzie do Namiestnika.**
 
-**4. I NAJWAŻNIEJSZA — PIERWSZY TRZYMA URZĄD, NIE DZIEDZICZY GO.**
+**3 · WAKUJĄCY** *(śmierć, odwołanie)*. **Urząd nie zamyka się ani na jeden dzień.** P.o. prowadzi go dalej — **i nie staje się przez to urzędnikiem, choćby prowadził go rok.**
 
-> **Gdy urząd wakuje, Pierwszy prowadzi go do czasu, aż KRÓL go obsadzi.** Nie staje się z tego urzędnikiem.
-> **Inaczej za trzy pokolenia mamy urzędy dziedziczne — czyli drugą szlachtę, tylko gorszą, bo bez ziemi i bez wstydu.**
+> **KRÓL obsadza urząd — i ma na to czas do najbliższej Rady.**
+> Po tym terminie sprawa staje przed Radą z urzędu, **żeby wakat nie stał się stanem trwałym przez samo zaniedbanie.**
 
 ---
 
-# ZASADA DRUGA — DELEGOWANIE
+# CZĘŚĆ III — DWIE OSŁONY, BEZ KTÓRYCH TO NIE DZIAŁA
 
-**Każdy urząd spisuje na jednej kartce dwie listy:**
+## 1. P.O. ODWOŁUJE WYŁĄCZNIE KRÓL
 
-| **CO WOLNO ODDAĆ** | **CZEGO NIE WOLNO ODDAĆ NIGDY** |
+**Nie urzędnik, pod którym służy.**
+
+> **Bo inaczej mechanizm psuje się w tydzień:** przełożony, który boi się zdolnego zastępcy, wskaże miernego albo odprawi każdego, kto zaczyna się orientować. **Redundancja, którą można odwołać ze strachu, nie jest redundancją.**
+
+## 2. PIECZĘĆ ZASTĘPCZA
+
+P.o. **nie dostaje pieczęci urzędu.** Dostaje **tę samą pieczęć przeciętą jedną kreską.**
+
+> **Każdy, kto bierze taki dokument do ręki, widzi z odległości kroku, że to sprawa prowadzona, a nie rozstrzygnięta.**
+
+---
+
+# CZĘŚĆ IV — CO WOLNO ODDAĆ, A CZEGO NIGDY
+
+**Każdy urząd spisuje to na jednej kartce.** *Kto tego nie spisze, deleguje i tak — po ciemku i przypadkowym ludziom.*
+
+## Wzór — Kancelaria Namiestnika
+
+**WOLNO:** pieczętować i wysyłać **sprawy już rozstrzygnięte** · przyjmować raporty · prowadzić rejestr · **zwołać Radę w nagłej potrzebie** · listy żelazne **już przyznane** · kontynuować roboty **już nakazane**
+
+**NIGDY:** sądzić · stanowić prawo · ruszać cła · sięgać do worka wojennego · zawierać i zrywać układy · **obsadzać urzędów** · przenosić własności Korony · otwierać ksiąg pod pieczęcią
+
+> ### PROWADZI — NIE ROZSTRZYGA.
+
+*Władza Namiestnika jest powierzona i odwoływalna przez Króla, więc **nie mogę jej podnająć własną ręką.** To projekt dla Króla. Do jego słowa Sekretarz nie działa za mnie w niczym.*
+
+---
+
+# CZĘŚĆ V — PAMIĘĆ URZĘDU
+
+**Człowiek odchodzi. Robota zostaje.** Dlatego każdy pion prowadzi dwie rzeczy:
+
+**1 · KSIĘGA SPRAW** — co przyszło, co postanowiono, **co niewykonane.** Trzecia rubryka jest najważniejsza i najczęściej pomijana.
+
+**2 · KARTA ROBOTY** — jedna strona: **JAK się tę robotę robi.** Nie po co — **jak.** Gdzie leżą księgi, kto co przysyła, w jakich dniach, czego pilnować.
+
+**Obie należą do URZĘDU, nie do człowieka.** Zostają, gdy odchodzi. **Odpis idzie do kancelarii Namiestnika** — *ta sama zasada, co trzy odpisy kroniki: jeden pożar nie może wymazać państwa.*
+
+---
+
+# CZĘŚĆ VI — KADRY. I TU JEST PRAWDZIWY PROBLEM.
+
+**Cały ten ustrój wisi na jednym pytaniu, którego nikt na Północy nigdy nie zadał:**
+
+> ### ILU MAMY LUDZI, KTÓRZY UMIEJĄ CZYTAĆ, LICZYĆ I NIE KRAŚĆ?
+
+**Nikt nie wie.** Nie ma takiego spisu. **A to jest twardsze ograniczenie niż pieniądz** — tak samo jak przy grobli twardsze od sakiewki okazało się bagno.
+
+## Ile trzeba
+
+Kancelaria Namiestnika **7** · sześć pionów po dwoje **12** · komory celne, rachmistrze odbiorczy, rejestratorzy, mierniczy **20–40**
+
+> ### **40 do 60 wyszkolonych rąk. Dziś Północ ma może dwadzieścia — i połowa z nich pracuje u mnie.**
+
+**I to trzeba powiedzieć na Radzie pierwszym zdaniem, nie ostatnim.** Bo albo Korona zacznie kształcić własnych, albo za pięć lat cały jej aparat będzie zbudowany z ludzi Domu Tally, **i nie będzie to niczyja zła wola — tylko arytmetyka.**
+
+## SKĄD SIĘ ICH BIERZE — trzy źródła, żadnego z krwi
+
+**1 · TRZY SZKOŁY I GŁĘBOKORZEŃ** — nasze, własne, już stoją.
+**2 · MIASTA** — pisarz kupiecki z Białego Portu **jest gotowym rachmistrzem.** Mieszczanie już umieją liczyć; nikt ich dotąd nie pytał.
+**3 · ZNIKĄD** — *urząd nie krew.* Bierzemy z sierot, z miasteczek, z woźniców i **z dziewcząt też, bo nie stać nas na wybrzydzanie** *(powiedział to Skarbnik sam, jak kupiec, nie jak reformator)*.
+
+## JAK SIĘ ICH SPRAWDZA — próba, nie urodzenie
+
+**Ta sama próba na to samo stanowisko w każdym urzędzie Północy.** Praktyczna, nie uczona:
+
+**odczytać pismo urzędowe na głos · zsumować kolumnę · zmierzyć ładunek i podać w korcach · napisać zdanie tak, żeby dało się je zrozumieć raz.**
+
+> **Kto zdał próbę na Fosie, jest sprawdzony w Białym Porcie. Nie zdaje się jej dwa razy.**
+
+## STOPNIE — czterech, ani jednego więcej
+
+| | |
 |---|---|
+| **UCZEŃ** | wikt i nauka, bez żołdu · dwa lata |
+| **PISARZ / RACHMISTRZ** | ręka robocza urzędu |
+| **STARSZY** | **dopiero on może być p.o.** |
+| **URZĘDNIK KORONY** | **obsadza Król** |
 
-**Kto tego nie spisze, deleguje i tak — tyle że po ciemku i przypadkowym ludziom.**
+> ### P.O. MUSI BYĆ STARSZYM. Zastępcę wybiera się z tych, którzy umieją — nie z tych, którym się ufa.
 
-## Kanclerz jako pełniący obowiązki Namiestnika — lista ZAMKNIĘTA
+## REJESTR KADR
 
-Sekretarz Kancelarii działa za Namiestnika **wyłącznie w tych sprawach:**
+**Księga w kancelarii Namiestnika: każdy człowiek w służbie Korony — stopień, gdzie, od kiedy, kto go sprawdzał, co zrobił źle.**
 
-- pieczętowanie i wysyłka **spraw już rozstrzygniętych**
-- przyjmowanie raportów i meldunków
-- prowadzenie rejestru przedsięwzięć
-- **zwołanie Rady w nagłej potrzebie**
-- listy żelazne **już przyznane**
-- kontynuacja robót **już nakazanych**
+**Nie po to, żeby ich pilnować. Po to, żeby wiedzieć, kogo można gdzie postawić w dniu, w którym trzeba postawić kogoś natychmiast.**
 
-**A NIGDY, pod żadnym pozorem:**
+## STYPENDIUM — najtańsza rzecz w całym tym spisie
 
-**sądzić · stanowić prawo · nakładać ani zdejmować cła · sięgnąć do worka wojennego · zawrzeć albo zerwać układ · obsadzić urząd · przenieść własność Korony · otworzyć księgi pod pieczęcią**
+> ### **Korona płaci za naukę. Uczeń płaci latami służby.**
 
-> ### **PROWADZI — NIE ROZSTRZYGA.**
+Dwa lata wiktu i nauki za **cztery lata w urzędzie.** Kto odejdzie wcześniej — **zwraca koszt, nie wolność.**
 
-**Zastrzeżenie ustrojowe, którego nie wolno pominąć:** władza Namiestnika jest **powierzona i odwoływalna przez Króla.** Dlatego **nie mogę jej podnająć własną ręką.** Ta lista jest **projektem dla Króla**, nie postanowieniem — i do jego słowa Sekretarz nie działa za mnie w niczym.
+**Koszt: 1–2 smoki na ucznia rocznie. Dwudziestu uczniów to 20–40 smoków.**
 
----
-
-# ZASADA TRZECIA — KAŻDY URZĄD MA WŁASNĄ KANCELARIĘ
-
-**Minimum i maksimum na start: DWOJE LUDZI.**
-
-- **REJESTRATOR** — księga spraw urzędu: co przyszło, co postanowiono, co niewykonane
-- **PISARZ**
-
-**Trzy wymogi:**
-
-1. **Jednolita forma sprawozdania** dla wszystkich urzędów — *jednolitość ważniejsza niż szczegół; muszę móc położyć je obok siebie.*
-2. **Księga należy do URZĘDU, nie do człowieka.** Zostaje, gdy on odchodzi.
-3. **Odpis do kancelarii Namiestnika.** *Ta sama zasada, co trzy odpisy kroniki: jeden pożar nie może wymazać państwa.*
-
-**Zapora przed rozrostem:** żaden urząd nie rośnie ponad dwoje ludzi **bez słowa Króla**, a wniosek uzasadnia się **księgą, nie odczuciem.**
-
-> **Urząd, który nie potrafi na jednej stronie powiedzieć, co robi, nie potrzebuje kancelarii. Potrzebuje zwolnienia.**
+**Tyle, co pół daniny Fosy — za jedyną rzecz, której nie da się kupić gotowej.**
 
 ---
 
-# KOGO TO OBEJMUJE
-
-| urząd | Pierwszego wskazuje |
-|---|---|
-| **Skarbnik** *(Gawen)* | sam |
-| **Justycjariusz** *(Cerwyn)* | sam |
-| **Marszałek** | sam |
-| **Maester Winterfell** *(Luwin)* | Cytadela — ale **drugi ma być nazwany tu** |
-| **Pierwszy Admirał** *(Torren Solny)* | sam *(eskadra i tak musi mieć drugiego)* |
-| **Dyrektor Domu Starków** *(Rodwell)* | **sam — i pilnie**, bo na wiosnę jedzie do Dorzecza |
-| **NAMIESTNIK** | ### **KRÓL. Nie ja.** |
-
----
-
-# I RZECZ, KTÓRĄ MÓWIĘ PIERWSZY — ŻEBY NIKT NIE MUSIAŁ PYTAĆ
-
-Ktoś przy tym stole pomyśli, że „wskaż następcę" znaczy **„Korona szuka kogoś na twoje miejsce".**
-
-Dlatego zaczynam od siebie i od strony niewygodnej:
-
-> ### **Ja jako jedyny nie wskazuję swojego Pierwszego. Wskaże go Król.**
-> **Mogę podać imię. Nie mogę go postawić.**
-
-**Namiestnik, który sam sobie wyznacza następcę, przestaje być urzędnikiem Króla, a staje się pierwszym z rodu.** Tego na Północy już raz próbowano na południu i wiemy, jak się kończy.
-
-*Przykład nie dekret. Szósty raz w tym miesiącu i szósty raz własnym kosztem.*
-
----
-
-# CO TO KOSZTUJE
+# CO TO KOSZTUJE RAZEM
 
 | | rocznie |
 |---|---:|
-| kancelaria każdego urzędu *(dwoje ludzi × sześć urzędów)* | **50 – 70** |
-| kancelaria Namiestnika z pocztą Korony | **60 – 90** |
-| **CAŁY APARAT PAŃSTWA** | ### 110 – 160 smoków rocznie |
+| sześć pionów po dwoje ludzi | 50 – 70 |
+| kancelaria Namiestnika z pocztą Korony | 60 – 90 |
+| **dwudziestu uczniów** | **20 – 40** |
+| **CAŁY APARAT I CAŁE KADRY** | ### 130 – 200 smoków rocznie |
 
-**Utrzymanie jednego okrętu to 60–180 rocznie.**
+**Utrzymanie jednego okrętu: 60–180.**
 
-> ### Cały aparat Korony Północy kosztuje mniej niż dwa okręty — i jest jedyną rzeczą, która przetrwa każdego z nas.
+> ### Całe państwo na papierze kosztuje mniej niż dwa okręty — i jest jedyną rzeczą, która przetrwa każdego z nas.
 
 ---
 
 # TRYB
 
-**DZIŚ — narada przygotowawcza** z tymi, którzy są w Winterfell: Justycjariusz, Skarbnik, maester, dyrektor Domu Starków, dowódca garnizonu. **Nie po zgodę — po dziury.** Każdy ma znaleźć w tym projekcie to, co w jego urzędzie nie zadziała.
+**DZIŚ — narada przygotowawcza:** Cerwyn, Gawen, Luwin, Rodwell, ser Alyn. **Nie po zgodę — po dziury.** Każdy szuka tego, co **w jego własnym pionie nie zadziała.**
 
-**PO POWROCIE KRÓLA (~299-09-14) — RADA.** Przedkłada się:
-ustrój urzędów · kancelaria Namiestnika i nabór · poczta Korony · taryfa celna · prawo o składach · standard traktu · ustrój miast · układ Przystani Wilka · sprawa eskadry · Mur · Stannis · Pentos · karta Mistrza Handlu
+**PO POWROCIE KRÓLA — RADA.** Nic z tego nie wchodzi w życie moim słowem.
 
-**Nic z tego nie wchodzi w życie moim słowem.**
-
----
-
-> ## JEDNO ZDANIE DLA KRÓLA
-> **Nie proszę o więcej urzędników. Proszę o to, żeby każdy urząd miał drugiego człowieka, który wie, co robić w dniu, w którym pierwszego zabraknie.**
-> **Zaczynając od mojego.**
+> ## ZDANIE DLA KRÓLA
+> **Nie proszę o więcej urzędników. Proszę o to, żeby żaden urząd nie stanął w dniu, w którym zabraknie jednego człowieka —**
+> **i o dwudziestu uczniów, bo inaczej za pięć lat nie będzie kogo postawić.**

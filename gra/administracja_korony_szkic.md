@@ -4,38 +4,55 @@
 
 ---
 
-# NAJPIERW SPROSTOWANIE WŁASNEJ LICZBY
+# POPRAWKA DRUGA — LICZBA LUDZI I LICZBA PIÓR
+### *Pierwsza liczba była ze strachu. Druga była z ostrożności. Trzecia jest z rachunku.*
 
-**Wczoraj napisałem, że Północ ma „może dwudziestu" ludzi umiejących czytać i liczyć. To była liczba wzięta ze strachu, nie z rachunku.**
+## Ilu nas w ogóle jest
 
-Policzone uczciwie:
+**Północ to ponad jedna trzecia kontynentu — i mieszka na niej TRZY DO PIĘCIU MILIONÓW ludzi.**
 
-| kto | ilu | gdzie |
-|---|---:|---|
-| **maesterzy** | 25 – 40 | po jednym w każdym liczącym się zamku |
-| **septoni i pisarze Wiary** | kilkudziesięciu | prawie wyłącznie **Biały Port i Manderlowie** |
-| **rządcy i włodarze** | 100 – 200 | każde lenno ma kogoś, kto **musi** liczyć czynsze |
-| **pisarze kupieccy, wagowi, faktorzy** | 50 – 100 | Biały Port, trakty, targi |
-| **młynarze, karbowi, sierżanci od rachunku** | reszta | wszędzie po trochu |
+Rozproszonych, bo ziemia ogromna, a wsie rzadkie. **Ale to nie jest pustkowie z garstką rządców.** To jest wielki, cienko rozlany lud.
 
-> ### **Trzysta do sześciuset ludzi umie na Północy czytać i rachować. Do urzędu Korony nadaje się z tego może stu.**
-> **Mniej niż na południu — ale nie garstka.**
+*I stąd bierze się jedna rzecz od razu: przy takim rozrzedzeniu **objazd i trakt nie są wygodą, tylko jedynym sposobem, żeby Korona w ogóle istniała poza Winterfell.***
 
-**A prawdziwy kłopot nie brzmi „nie ma ich".** Brzmi:
+## Ilu z nich pisze
 
-> ### **ONI JUŻ GDZIEŚ SIEDZĄ.** Każdy z nich ma pana, który go potrzebuje.
-> **Podbierać cudzych rządców to kupować sobie urząd za cudzą urazę.**
+Licząc ostrożnie, wedle tego, co widać po rządcach, młynarzach, karbowych, kupcach i targach:
 
-## I POWÓD, DLA KTÓREGO POŁUDNIE MA ICH WIĘCEJ — a nie jest nim ani bogactwo, ani rozum
+| co umie | jaka część | ilu |
+|---|---:|---:|
+| **odczytać proste pismo, policzyć na karbach i miarach** *(rządcy wsi, młynarze, sierżanci, rzemieślnicy, przekupki)* | 2 – 4 setne | **60 000 – 200 000** |
+| **prowadzić księgę: pisać czytelną ręką, zsumować kolumnę, ułożyć dokument** | 2 – 5 tysięcznych | ### 6 000 – 25 000 |
+| **prowadzić księgę urzędową, wyuczony i uczciwy** | ułamek tego | **500 – 2 000** |
 
-> ### **Starzy bogowie nie mają kleru.**
+> ### **Napisałem rano „może stu". To była nieprawda i to moja nieprawda.**
+> **Ludzi, którzy potrafią prowadzić księgę, są na Północy TYSIĄCE. Koronie potrzeba czterdziestu do sześćdziesięciu.**
 
-Wszędzie indziej w Westeros **piśmienną służbę państwa daje Wiara** — septoni czytają, piszą, prowadzą księgi i uczą, a król dostaje ich za darmo, bo utrzymuje ich kto inny.
+## Więc na czym polega problem — bo problem jest, tylko inny
 
-**Północ tego nie ma i mieć nie będzie.** To nie jest wada wiary — to jest **rachunek**, który trzeba wreszcie postawić na stole:
+**Nie brakuje rąk. Brakuje DRZWI.**
 
-> **Czego południe dostaje od kapłanów, Północ musi sobie WYKSZTAŁCIĆ i OPŁACIĆ.**
-> To nie luksus i nie moda z południa. **To zastępstwo za instytucję, której tu nie ma.**
+Syn młynarza spod Torrhen's Square, który liczy lepiej niż jego pan, **nie ma dokąd z tym pójść.** Nie ma próby, do której mógłby stanąć. Nie ma urzędu, który by go przyjął. Nie ma nikogo, kto by go w ogóle zapytał.
+
+> ### PÓŁNOC NIE JEST UBOGA W PIÓRA. PÓŁNOC NIE MA DROGI OD MŁYNA DO KANCELARII.
+
+**Na południu tę drogę robi Wiara** — bystry chłopak trafia do septy, septa go uczy, a potem lord bierze go do ksiąg. **Starzy bogowie nie mają kleru, więc tej drogi tu nigdy nie było.**
+
+*I to jest cała rzecz. Nie kształcimy zastępstwa za brakujących ludzi. **Budujemy zastępstwo za brakującą DROGĘ.***
+
+## Co się przez to zmienia w całym tym szkicu
+
+**Środek ciężkości przesuwa się ze SZKOŁY na PRÓBĘ.**
+
+Nie trzeba wykształcić sześćdziesięciu od zera. **Trzeba ich ZNALEŹĆ** — a potem doszlifować tych, którym brakuje wykończenia.
+
+**1 · PRÓBA OGŁOSZONA, OTWARTA DLA KAŻDEGO.** Wywieszona na słupie w każdym mieście i przy każdej komorze, tego samego dnia w roku, ta sama dla wszystkich. **Nie trzeba niczyjego listu polecającego.**
+
+**2 · PRÓBA JEDZIE Z OBJAZDEM.** Skoro sąd i rachunek objeżdżają lenna, **próbę przeprowadza się przy tej samej okazji** — bo chłopak spod Deepwood Motte nie przyjedzie do Winterfell, ale do własnego zamku przyjdzie pieszo.
+
+**3 · SZKOŁA JEST DRUGA, NIE PIERWSZA.** Praktykanci w Winterfell to nie nabór — **to dokończenie tych, którzy próbę zdali dobrze, ale młodo.**
+
+> **Najpierw otwiera się drzwi i patrzy, kto wejdzie. Dopiero potem buduje się izbę dla tych, którzy weszli.**
 
 ---
 

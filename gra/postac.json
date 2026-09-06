@@ -8,8 +8,8 @@
  "_dziennik_mieszka": 1,
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 100,
- "sytosc": 78,
- "zmeczenie": 20,
+ "sytosc": 66,
+ "zmeczenie": 44,
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 95,
@@ -878,5 +878,6 @@
  },
  "DOBYTEK_WAZNY": {
   "MIECZ_WLASNY_I_TRZY_STROJE_ODEBRANE_299_09_09": "299-09-09 wieczor, Winterfell/Zimowe Miasto. (A) ODBIOR U ALDY - miecz wlasny i trzy stroje wedle ZASADY STROJU DOMU TALLY. MIECZ (zamowiony 09-04, gotowy 09-07, kosztowal ponizej trzech smokow, z Kasy 1): jednoreczny, prosty, dobrze wywazony, STAL BEZ ZLOCENIA, glownia matowa, zero kamieni - DOKLADNIE TEN SAM WZOR, CO NOSI JEGO WLASNA DRUZYNA. Znak: pioro-plomien na glowicy i na pochwie, pomarancz i biel na rekojesci, nic wiecej. U ALDY lezal dlatego, ze pochwa, pas i zawieszenie robi sie do STROJU, nie do klingi - ona je uszyla i okula wedle tej samej zasady. ZDANIE ORWYLA, ktore wraca przy odbiorze: \"Wy jestescie PIERWSZYM Tally. To bedzie PIERWSZY MIECZ WASZEGO DOMU - za sto lat wnuk Waszego wnuka bedzie go pokazywal gosciom.\" TRZY STROJE: codzienny, roboczy, reprezentacyjny; ciemna praktyczna baza, pomarancz i biel TYLKO JAKO ZNAK, nie ozdoba; im wyzsza ranga, tym mniej widocznego koloru; zadnego zlota. UWAGA ALDY (rzemieslniczka, trzydziesci lat przy igle): pierwszy raz w zyciu ktos kazal jej ZDJAC kolor, a nie dolozyc. I zrobila NAJLEPSZA robote na stroju ROBOCZYM, nie na reprezentacyjnym - bo \"ten pan bedzie nosil ten najczesciej\". Przeczytala go z trzech kompletow lepiej, niz zrobil to niejeden dworzanin. (B) WYBORY BURMISTRZA ZIMOWEGO MIASTA - Symon PRZYGLADA SIE Z ULICY, nie wchodzi do izby, w ktorej stoi garniec. Wedle precedensu z rana: Namiestnik jest SWIADKIEM, nie decydentem. SPOSOB GLOSOWANIA (wymyslony przez samo miasto, bo wiekszosc nie pisze): KAZDY UPRAWNIONY DOSTAJE JEDNO ZIARNO i wrzuca je do garnca oznaczonego imieniem kandydata; garnce PIECZETOWANE KAZDEGO WIECZORU, liczenie raz i na koncu, przy ludziach kazdego z kandydatow. GLOSUJA ZIARNEM, W ZIMIE, KTORA CALA JEST O ZIARNO. RZUT FREKWENCJA: 85 - WYSOKA. Po odsniezeniu drogi i po tym, ze przedluzenie OGLOSZONO Z GORY, a nie po fakcie, ludzie zeszli sie tlumnie: do konca drugiego dnia ok. CZTERECH NA PIECIU uprawnionych, a urna wciaz otwarta (zamyka sie po pelnym dniu pogody). Decyzja z rana zaplacila: zasada \"jawna liczba zamiast progu\" zadziala teraz NA KORZYSC miasta, bo liczba na slupie bedzie duza. TRZECH KANDYDATOW (z opisu ludzi, bez rozstrzygniecia): zbozowy handlarz z targu; majster cechowy (ciesla); trzeci - wdowa prowadzaca najwiekszy zajazd przy bramie. MOMENT: ktos z tlumu poznal Symona i zapytal wprost, na kogo by glosowal. ODPOWIEDZ (zgodna z precedensem, ktory sam napisal rano): nie podal nazwiska - \"gdyby Namiestnik powiedzial imie, to juz nie byliby wasze wybory, tylko moje ogloszenie. Po to jest garniec, zebym ja nie musial nic mowic.\" STATUS: wynik NIEZNANY, urna otwarta."
- }
+ },
+ "_dziennik_TRENING_WALKI": 1
 }

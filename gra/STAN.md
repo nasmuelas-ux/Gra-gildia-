@@ -20,7 +20,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 299-09-11 ranek · lato (298)
 - **Miejsce:** Winterfell - serce Polnocy, siedziba Starkow / dwor Krola Robba (wesele Robb-Roslin za dni)
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 78 · Zmeczenie 20**
+- **Zdrowie 100 · Sytosc 66 · Zmeczenie 44**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied
@@ -33,7 +33,6 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 ## LUDZIE NA SCENIE
 - **Luwin** (`maester_luwin`) — maester Winterfell (dwór Starków) — uczony, rządzi skła… · nast ZYCZLIWY -> PROFESJONALNY PODZIW/ZAUFANIE ROBOCZE (0813): po arcyrachunku zapasow (nat.100) Luwin uznaje Symona za rownego-lub-lepszego w rachunkach; trust glęboki
 - **Roggen** (`szafarz_roggen`) — starszy szafarz zachodnich składów Winterfell (sługa od… · nast nieznane (nie kontaktowani; Symon obserwuje z boku)
-- **Ser Rodrik Cassel** (`rodrik_cassel`) —  · nast ?
 - **Medger Cerwyn** (`lord_medger_cerwyn`) — lord rodu Cerwyn (zamek na goscincu ~pol dnia pod Winte… · nast cieply -> PRZYJACIEL (07-10): uklad przybity + Symon spytal 'jak mu sie zyje', Medger sie otworzyl
 - **Arya Stark** (`arya_stark`) —  · nast ?
 - **mistrz Beron** (`notariusz_beron`) —  · nast ?
@@ -44,6 +43,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **mistrz Rodwell (Dyrektor Domu Starkow)** (`rodwell_dyrektor_domu_starkow`) —  · nast ?
 - **Ser Alyn** (`ser_alyn_zastepca`) —  · nast ?
 - **Stara Niania** (`stara_niania`) —  · nast ?
+- **Orwyl** (`orwyl_zbrojmistrz`) —  · nast ?
 
 ## ZEGARY
 - ◆ `?` draw_nesta: Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt. || 297-02-19: ODPALIL - draw wspo…
@@ -57,8 +57,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `?` jaime_dzwignia_tywin: 298-11-01 (rzut 58): Jaime=najciezsza karta na Tywina, wart TRZYMANY nie wydany. Robb pojal: (a…
 - ◆ `NIEAKTUALNY — Renly nie zyje (stan_poludnia_zelazny_tron_299_07); do rozstrzygniecia, czy sonda idzie ku samym Tyrellom` renly_sonda: 298-11-01 (rzut 48): cichy feeler ku Renly'emu/Tyrellom siatka Symona (deniable, low-commitment…
 
-## WATKI OTWARTE (556; ostatnie 45 — pelna lista: `python3 gra/db.py otwarte`)
-- `standard_traktu_polnocy_i_liczba_dla_krola_299_09` [gotowe_do_polozenia_przed_krolem] Standard traktu Polnocy - cena mili zamiast sumy, dla Krola
+## WATKI OTWARTE (557; ostatnie 45 — pelna lista: `python3 gra/db.py otwarte`)
 - `pomiar_wyjsciowy_myta_fosy_przed_robotami_299_09` [do_wykonania_gawen_garth] Pomiar i ogloszenie wyjsciowego poziomu myta Fosy - przed pierwszym palem
 - `finansowanie_traktu_pod_myto_299_09` [do_polozenia_przed_krolem] Sfinansowac trakt pod myto zamiast budowac z oszczednosci - zdolnosc kredytowa Polnocy
 - `taryfa_celna_polnocy_299_09` [projekt_do_polozenia_przed_krolem] Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu
@@ -103,10 +102,9 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - `list_do_willi_o_przecieciu_urzedu_299_09` [otwarty] 
 - `precedens_wlasciwosci_lord_przed_krolem_299_09` [otwarty] 
 - `kalendarz_terminow_korony_299_09` [otwarty] 
+- `nauka_ciecia_sadowego_299_09` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [297-03-11] `septon_torren`: 297-03-11 (rzut 66): UKLAD MENTORSTWA - Torren (septon-jurysta) bedzie uczyl Symona PRAWA w zamian za pomoc pisarska przy sprawach prawnych/majatkowych Septy (zapisy/nadania/wlasnosc kosciel…
-- [297-03-21] `septon_torren`: 297-03-21 (rzut 19): sesja nauki prawa - uklad mentorski dziala (Symon pomogl przy majatkowych sprawach Septy, Torren uczyl), relacja sie grzeje. ALE nauka plytka: (1) prawo Symona juz wysok…
 - [297-03-24] `septon_torren`: 297-03-24 POPOL (rzut 78): praca nad REALNYMI sprawami prawnymi Septy (sporny zapis, granica, zawilosc w nadaniu) - nie dryl. Symon dal Sepcie wartosc (zapisy uporzadkowane, pulapka w nadani…
 - [297-04-16] `septon_torren`: 297-04-16 (rzut 68): sesja prawa - pogłebione prawo umow handlowych+arbitrazu (co czyni umowe egzekwowalna, mechanizm sporu, waga udokumentowanego arbitrazu). Podklada formalny grunt pod to,…
 - [297-05-26] `septon_torren`: 297-05-26 WIECZOR (rzut 25): reconnect po miesiacu, ale wieczorem krotko - Torren zajety obowiazkami (pora). Zdawkowa wymiana o punkcie prawnym, bez glebszej sesji. Relacja durable trzyma i …
@@ -117,3 +115,5 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - [297-10-15] `septon_torren`: 297-10-15 POPOLUDNIE (bez rzutu - cieple kompetentne zaangazowanie): Symon wpadl pomoc Torrenowi z prawno-majatkowymi sprawami Sepy (rejestry wlasnosci koscielnej/zapisy/nadania). Jego rachu…
 - [299-09-11] `bran_stark`: 299-09-11 rano, komnata Brana. Bez rzutu. SYMON PRZYSZEDL Z RZECZA, NIE Z ODWIEDZINAMI: przyniosl wiadomosc, ze TRZY ZARZUTY BRANA WESZLY DO PRAWA, ktore lezy gotowe do pieczeci Krola - a dw…
 - [299-09-11] `kalendarz_terminow_korony_299_09`: 299-09-11 NOWA RZECZ NA TEKE KROLA, wskazana przez BRANA STARKA: kazda ksiega pod pieczecia ma date otwarcia, ale NIKT nie ma obowiazku tej daty pilnowac - 'termin nie jest niczyj; jak nikt …
+- [299-09-11] `postac`: 299-09-11 przedpoludnie, dziedziniec cwiczebny Winterfell - PIERWSZA NAUKA CIECIA (rzut 54, sredni). Uczy SER ALYN (Rodrik Cassel pojechal z Krolem, wraca ~09-14) przy starym zbrojmistrzu OR…
+- [299-09-11] `nauka_ciecia_sadowego_299_09`: 299-09-11 OTWARTY: Symon uczy sie JEDNEGO CIECIA mieczem sadowym (nie fechtunku). Powod: 'kto wydaje wyrok, sam dzierzy miecz' - przez dwa tygodnie sadzil i nikogo nie skazal na smierc, mial…

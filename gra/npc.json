@@ -33,12 +33,6 @@
    "wie_o_graczu": "nic — nie wie, że ktoś patrzy (Symon niezauważony)"
   },
   {
-   "id": "rodrik_cassel",
-   "imie": "Ser Rodrik Cassel",
-   "rola": "Pierwszy Miecz - dowodca zalozycielski ZIMOWEJ STRAZY (gwardii Krola); zbrojmistrz Winterfell",
-   "_dziennik_nota": 3
-  },
-  {
    "id": "lord_medger_cerwyn",
    "imie": "Medger Cerwyn",
    "zawod": "lord rodu Cerwyn (zamek na goscincu ~pol dnia pod Winterfell)",
@@ -104,6 +98,13 @@
    "id": "stara_niania",
    "imie": "Stara Niania",
    "_dziennik_nota": 8
+  },
+  {
+   "id": "orwyl_zbrojmistrz",
+   "imie": "Orwyl",
+   "rola": "stary zbrojmistrz Winterfell (klucze do zbrojowni)",
+   "miejsce": "Winterfell",
+   "_dziennik_nota": 1
   }
  ],
  "w_orbicie": [
@@ -1049,13 +1050,6 @@
    "rola": "faktor zbozowy tej samej siatki - sklady POD SAMYM ZIMOWYM MIASTEM",
    "miejsce": "okolice Zimowego Miasta / depozyt ~90 korcow w Debniku",
    "_dziennik_nota": 9
-  },
-  {
-   "id": "orwyl_zbrojmistrz",
-   "imie": "Orwyl",
-   "rola": "stary zbrojmistrz Winterfell (klucze do zbrojowni)",
-   "miejsce": "Winterfell",
-   "_dziennik_nota": 1
   },
   {
    "id": "maester_aemon",
@@ -2889,6 +2883,12 @@
    "rola": "Pierwszy burmistrz Zimowego Miasta (od 299-09-10); handlarz zbozem z targu",
    "_dziennik_nota": 2,
    "id": "Oswyn Miarka"
+  },
+  {
+   "id": "rodrik_cassel",
+   "imie": "Ser Rodrik Cassel",
+   "rola": "Pierwszy Miecz - dowodca zalozycielski ZIMOWEJ STRAZY (gwardii Krola); zbrojmistrz Winterfell",
+   "_dziennik_nota": 3
   }
  ],
  "orbita": [

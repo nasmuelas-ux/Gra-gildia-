@@ -479,3 +479,87 @@ Skoro największym kosztem jest wożenie — **to każda mila, na której materi
 Na Przesmyku leży **czardrzewo i faszyna**. Torf jest nasz. Kamień idzie **tratwami z kamieniołomów na północ od Przesmyku** — wodą, nie wozem.
 
 > **Nie oszczędza się na robotnikach. Oszczędza się na milach, których materiał nie musi przejechać.**
+
+---
+
+# KOPIEMY GŁĘBIEJ — 299-09-09, noc
+### Zarzut: skoro na jeden turniej wysypano dziewięćdziesiąt tysięcy smoków, to albo Północ jest nędzarzem, albo źle liczymy.
+
+**Zarzut trafiony. Liczyliśmy źle — i to w kilku miejscach naraz.**
+
+---
+
+## I. CO NAPRAWDĘ ZNACZYŁO TE DZIEWIĘĆDZIESIĄT TYSIĘCY
+
+Turniej Namiestnika: czterdzieści tysięcy dla zwycięzcy kopii, dwadzieścia dla pokonanego w finale, dwadzieścia za łuk, dziesięć za zwadę. **Same nagrody — bez wystawienia, bez uczty, bez trybun.**
+
+**A teraz druga liczba, którą Ned Stark znalazł w tych samych księgach:**
+
+> ### **Żelazny Tron jest winien SZEŚĆ MILIONÓW smoków.** Połowę Casterly Rock.
+
+Tamtych dziewięćdziesięciu tysięcy **nikt nie miał.** Zostały pożyczone.
+
+> ### To nie jest dowód, że oni są bogaci. To jest dowód, że są ZADŁUŻENI.
+> **Płynność wzięta z cudzej kieszeni to nie majątek. To rachunek, który przyjdzie.**
+
+---
+
+## II. GDZIE MY LICZYLIŚMY ŹLE
+
+Rachunek „1 500 – 3 000 smoków rocznie" **liczył daninę lenną i prawie nic więcej.** A danina to **najmniejsza** pozycja Korony — bo od lordów Korona bierze **banery, nie monetę.** Czterdzieści smoków rocznie z Fosy to **znak zwierzchności, nie miara jej gospodarki.**
+
+Wypadły cztery największe pozycje:
+
+| pozycja | dlaczego duża |
+|---|---|
+| **CŁO BIAŁEGO PORTU** | jedyny prawdziwy port Północy, **nie zamarza**, obraca całym handlem morskim królestwa — **największa pojedyncza pozycja Korony** |
+| **DEMENA STARKÓW** | największe władanie w Westeros; nie płaci daniny, bo **jest** Koroną |
+| **MENNICA WILK** | zysk z bicia monety — bierze się z **każdej** przetopionej sztuki, nie z podatku |
+| **CŁO ZAPOROWE NA WYWÓZ ZBOŻA** | nowe, ogłoszone w tym miesiącu — jeszcze nie policzone przez nikogo |
+
+### Poprawiona podstawa
+
+> **Dochód monetarny Korony Północy w normalnym roku: rzędu 8 000 – 20 000 smoków.**
+> **Dziś, po wojnie i przy zerwanym handlu: może 3 000 – 6 000.**
+
+**Trakt za 3 500–5 800 rozłożony na siedem lat to 500–800 rocznie — od trzech do ośmiu setnych dochodu.** Nie połowa. **Odwołuję wniosek sprzed godziny.**
+
+---
+
+## III. A GDZIE PÓŁNOC NAPRAWDĘ JEST BIEDNA
+
+**W monecie na głowę — i tylko tam.**
+
+Zboże jest. Drewno jest. Futra, torf, sól, ryba, ziemia i ludzie **są.** Nie ma **srebra w obiegu**, bo nie ma czym go tu przyciągnąć poza jednym portem.
+
+> ### PÓŁNOC NIE JEST BIEDNA. PÓŁNOC JEST NIEPŁYNNA.
+> **Majątek leży w rzeczach, których nie da się wydać.**
+
+**I dlatego trakt nie jest wydatkiem, tylko przetopieniem.** Z pięciu tysięcy smoków, których ta grobla wymaga, **monetą trzeba zapłacić może trzecią część** — resztę stanowią chleb, ręce, torf, drewno i wożenie, czyli dokładnie to, czego mamy w nadmiarze i czego inaczej nie spieniężymy.
+
+> **Coin: 150–250 smoków rocznie. Reszta wychodzi ze spichlerza i z torfiarni.**
+
+---
+
+## IV. I RZECZ, KTÓREJ ŻELAZNY TRON NIE MA OD DWUDZIESTU LAT
+
+**Północ nie jest nikomu winna prawie nic.**
+
+Tywin nie może pożyczyć — on już pożyczył. Tron nie może pożyczyć — on jest sześć milionów pod wodą.
+
+> ### **Północ ma zdolność kredytową. To jest dziś jej największy niewykorzystany majątek.**
+
+A trakt jest **najlepszym zabezpieczeniem, jakie istnieje**: nie zbiega, nie ginie, nie umiera bezpotomnie i **przynosi myto każdego dnia swojego istnienia.**
+
+**Wniosek dla Króla, ostrzejszy niż liczba:**
+
+> Nie musimy pytać, czy nas stać na trakt w tym roku.
+> **Musimy zapytać, czy chcemy go zbudować z oszczędności — czy sfinansować pod myto, które przyniesie.**
+
+*Instrument istnieje, kantor istnieje, brama do Braavos istnieje. Brakuje tylko decyzji.*
+
+---
+
+> ## I OSTATNIE ZDANIE POD ADRESEM TYCH DZIEWIĘĆDZIESIĘCIU TYSIĘCY
+> **Robert kupił za nie tydzień. My za jedną szesnastą tego kupujemy myto, które będzie płacić naszym prawnukom.**
+> **Porównuje się nie sumy. Porównuje się zwrot.**

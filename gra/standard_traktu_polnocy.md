@@ -663,3 +663,109 @@ Dom Tally oferował 150–200 smoków rocznie. **Moneta potrzebna na groblę to 
 **Udział Domu Tally nie może przekroczyć jednej trzeciej wkładu monetarnego — wpisane w uchwałę, nie w moje dobre chęci.**
 
 > **Korona zawsze płaci większość, bo brama należy do tego, kto za nią zapłacił.**
+
+---
+
+# GROBLA — RACHUNEK OD NOWA. I ZŁA WIADOMOŚĆ.
+### 299-09-09, przed świtem. Pytanie, które trzeba było zadać jako pierwsze.
+
+## PYTANIE
+
+**Czy ktokolwiek kiedykolwiek przeszedł tę trasę z tyczką?**
+
+Odpowiedź maestera Luwina i Skarbnika Gawena jest ta sama i pada bez wahania:
+
+> ### **Nie. Nikt. Nigdy.**
+
+Nie ma pomiaru Przesmyku. Nie ma zapisu, ile mil grobli jeszcze stoi, a ile zapadło się w bagno przez trzysta lat. **Wszystko, co dziś policzyliśmy, to cennik przyłożony do zgadywanej długości i zgadywanego stanu.**
+
+**Rada tego nie wyliczyła. Rada tego nawet nie widziała.**
+
+---
+
+## CO POKAZUJE RACHUNEK PALI
+
+Maester liczy na tabliczce, na głos.
+
+Platforma szeroka na trzydzieści stóp. Pale co cztery stopy w obu kierunkach.
+**Mila ma pięć tysięcy dwieście osiemdziesiąt stóp** → tysiąc trzysta dwadzieścia rzędów po osiem pali.
+
+> ### **Dziesięć i pół tysiąca pali NA JEDNĄ MILĘ.**
+
+Każdy pal: ściąć, dowieźć, zaostrzyć, wbić kafarem. **Dwa do czterech dni pracy na sztukę wraz z obsługą.**
+
+> **Dwadzieścia do czterdziestu tysięcy dniówek na milę — samo palowanie.**
+
+I to jest część **tania**, bo drewno rośnie na miejscu.
+
+**Droga część jest inna:**
+
+> ### W Przesmyku NIE MA KAMIENIA.
+
+Mila nawierzchni to ponad **trzy tysiące ton** tłucznia i żwiru. Każda tona musi przyjść **tratwą z kamieniołomów na północ od Przesmyku**, a potem zostać przeniesiona na czoło robót — po grobli, która dopiero powstaje, więc **materiał wozi się po tym, co się właśnie buduje.**
+
+**To nie jest droga. To jest sześćdziesiąt mil przeprawy przez wodę, na której trzeba położyć kamień przywieziony z innego świata.**
+
+---
+
+## KLASA III BYŁA JEDNĄ LICZBĄ. MUSI BYĆ DWIEMA.
+
+| | co to znaczy | za milę |
+|---|---|---:|
+| **III-a — PRZEBUDOWA** | grobla stoi, trzeba ją wzmocnić, odwodnić i przełożyć wierzch | **35 – 60** |
+| **III-b — NOWA GROBLA** | otwarte bagno, palowanie od zera, ruszt i nasyp | **80 – 150** |
+
+**A ile jest której — nie wie nikt.**
+
+### Rachunek przy założeniu pół na pół
+
+| | |
+|---|---:|
+| 30 mil III-a | **1 050 – 1 800** |
+| 30 mil III-b | **2 400 – 4 500** |
+| przęsła zwodzone, wieże, składy, słupy | **300 – 570** |
+| **GROBLA** | ### 3 750 – 6 870 smoków |
+
+**A gdyby przewagę miała robota nowa i długie dowozy — siedem do dziewięciu tysięcy.**
+
+> ### To nie jest przedsięwzięcie drogowe. To jest HARRENHAL.
+> Dzieło, które rujnowało rody, które się na nie porywały — z tą różnicą, że **to jedno przynosi myto, a Harrenhal nie przyniósł nigdy nic.**
+
+---
+
+## CO SIĘ PRZEZ TO ZMIENIA
+
+**1. Pieniądz nadal nie jest wąskim gardłem — ale czas jest.** Moneta to wciąż tylko trzecia część (pale, faszyna, torf i ręce są nasze), czyli **200–350 smoków rocznie.** Wykonalne. **Ale nie przez pięć lat. Przez piętnaście do dwudziestu pięciu.**
+
+**2. Zwrot się oddala, lecz nie znika.** Przy wkładzie Korony rzędu 1 200–2 200 w monecie i przyroście myta 200–600 rocznie — **Korona wychodzi na swoje w pięć do dziesięciu lat od otwarcia**, nie w dwa do czterech. **Wciąż jedyne z trzech dzieł, które płaci za siebie.**
+
+**3. I zmienia się sposób budowania — to jest najważniejsze.**
+
+> ### Nie buduje się grobli. Buduje się NAJGORSZĄ MILĘ — a potem następną najgorszą.
+
+Nie od końca do końca. **Odcinkami wybieranymi tam, gdzie wozy naprawdę grzęzną.** Każdy taki odcinek zwraca się sam, natychmiast, bo od pierwszego dnia przepuszcza więcej wozów.
+
+**Żadne pokolenie nie jest zobowiązane tego skończyć. Każde jest zobowiązane poprawić najgorszą milę, jaka mu została.**
+
+---
+
+## CO TRZEBA ZROBIĆ, ZANIM KTOKOLWIEK POŁOŻY TO PRZED KRÓLEM
+
+> ### **POMIAR PRZESMYKU.**
+
+Tyczka, poziomnica, sznur — mila po mili. Ile stoi, ile zapadło, gdzie grunt trzyma, gdzie dno jest bez dna, gdzie da się dopłynąć tratwą z kamieniem.
+
+**I tego nie zrobi żaden mierniczy z Winterfell**, bo zginie w bagnie w drugim tygodniu.
+
+> ### Zrobią to KRANNOGOWIE albo nikt.
+
+*A list do lorda Reeda leży zapieczętowany pod kałamarzem od wczoraj.*
+
+**Prośba o rozmowę o Dzieciach Lasu i prośba o zmierzenie Przesmyku to jedna i ta sama podróż — i do jednego i tego samego człowieka.**
+
+---
+
+> ## LICZBA DLA KRÓLA — POPRAWIONA I UCZCIWA
+> **Odnoga: 260–430. Riverrun: 1 150–1 920. Obie policzone rzetelnie.**
+> **Grobla: między trzema a dziewięcioma tysiącami — i każdy, kto poda dziś węższy przedział, zgaduje.**
+> **Dlatego przed Radą nie kładę ceny grobli. Kładę prośbę o pomiar.**

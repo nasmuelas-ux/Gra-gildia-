@@ -92,7 +92,9 @@
   {
    "id": "ser_alyn_zastepca",
    "imie": "Ser Alyn",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "nastawienie_do_gracza": "szacunek zawodowy, mocno w gore (299-09-11) - uczy ciecia sadowego",
+   "zawod": "zastepca ser Rodrika Cassela; garnizon Winterfell"
   },
   {
    "id": "stara_niania",

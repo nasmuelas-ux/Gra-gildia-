@@ -3358,7 +3358,7 @@
    "id": "komora_celna_fosy_pod_skarbnika_299_08",
    "tytul": "KOMORY CELNE KORONY POLNOCY - Fosa Cailin (brama ladowa) + porty, obsadzane stopniowo przez Skarbnika",
    "status": "POSTANOWIONE_299-08-19_(rzut_91):_komory_powolane;_Gawen_obsadza_stopniowo;_do_czasu_pobiera_celnik_Symona_i_przekazuje_Koronie",
-   "_dziennik_nota": 26
+   "_dziennik_nota": 27
   },
   {
    "id": "rozbudowa_druzyny_fosy_299_08",
@@ -4022,6 +4022,11 @@
   },
   {
    "id": "spichlerz_miejski_oswyn_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "komory_wodne_dziura_w_poborze_299_09",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

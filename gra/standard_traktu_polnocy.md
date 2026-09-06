@@ -173,3 +173,90 @@ Tej zimy to znaczy: **grobla od Fosy na południe.** Bo tamtędy idzie zboże.
 
 > ## JEDNO ZDANIE DLA KRÓLA
 > **Nie pytajcie, ile kosztuje trakt. Pytajcie, ile kosztuje mila — i ile mil chcecie w tym roku.**
+
+---
+
+# KOREKTA ZAKRESU — 299-09-09, po południu
+### Rachunek wyżej mieszał dwie różne sprawy. Rozdzielone.
+
+**Korona nie obiecała Freyom przebudowy dwustu dwudziestu mil.** Obiecała **odnogę** — i tylko ona jest długiem.
+
+---
+
+## SPRAWA PIERWSZA — ODNOGA *(dług Korony, objęty umową)*
+
+**Od istniejącego Traktu Królewskiego do Bliźniaków.** Budowana **od nowa, wedle standardu.**
+
+| | |
+|---|---:|
+| długość | **~30 mil, klasa I** |
+| droga | **240 – 360 smoków** |
+| mosty, przepusty, jedna wieża | **100 – 150** |
+| **RAZEM** | ### 350 – 500 smoków |
+
+**Dwa sezony robocze. Miejscowe ręce, za dniówkę. Miejscowi budowniczowie, nasz wzorzec.**
+
+> **To jest cały dług Korony wobec Freyów — i jest mały.** Mniejszy niż jedna wieża kamienna. Robb obiecał uczciwie i stać nas na to bez dyskusji.
+
+---
+
+## SPRAWA DRUGA — ODCINEK PÓŁNOCNY *(NIE objęty umową)*
+
+**Fosa Cailin → istniejący trakt → granica państwa.** To **nie jest** budowa nowej drogi — to **przebudowa całej trasy: modernizacja, pale, melioracja, odcinki zwodzone.**
+
+| | |
+|---|---:|
+| długość | **~60 mil, klasa III (bagno)** |
+| grobla na palach | **2 100 – 3 000 smoków** |
+| odcinki zwodzone, wieże, składy | **300 – 500** |
+| **RAZEM** | ### 2 400 – 3 500 smoków · **5–7 lat** |
+
+**Tego nikt nikomu nie obiecywał i nikt nie może tego żądać.** Robimy to, bo **udrożnia przejście i płynność** — nie bo musimy.
+
+---
+
+## TO NIE JEST DROGA. TO JEST UMOCNIENIE, KTÓRE WOZI WOZY.
+
+Zarzut, który padnie na Radzie, jest oczywisty: *lepsza droga przez Przesmyk to także szybsza droga dla obcej armii.*
+
+Odpowiedź jest w samym standardzie i była tam od początku:
+
+- **szerokość na dwa wozy — za wąska, żeby rozwinąć szyk**
+- **odcinki zwodzone**, podnoszone z wież
+- **wieże strażniczo-celne przy każdej przerwie**
+
+> ### Ten trakt jest zbudowany po to, żeby dało się go PRZECIĄĆ.
+> Wróg, który na niego wejdzie, zostaje uwięziony na wąskim pasie pośrodku mokradła.
+
+**Dlatego płaci za to Korona:** to jest **dzieło obronne, które samo się spłaca z myta** — jedyne takie na Północy.
+
+*I to jest odpowiedź na zdanie maestera Luwina z ósmego września: „wasza forteca patrzy w złą stronę". Grobla ze zwodzonymi przęsłami jest południową ścianą Północy — tą, która dziś nie istnieje.*
+
+---
+
+## FINANSOWANIE — TRZY KASY, TRZY WKŁADY, NIC ZMIESZANE
+
+| kasa | wkład | czym |
+|---|---|---|
+| **KORONA (Kasa 3)** | ~⅔ | monetą — buduje i jest właścicielem drogi |
+| **DOM TALLY (Kasa 1)** | ~⅓, **150–200 smoków rocznie** | monetą, prywatnie |
+| **LENNO FOSY (Kasa 2)** | reszta | **naturą i pracą** — torf, kwatery, wyżywienie robotników, robocizna |
+
+*Lenno płaci tym, czym płaci lenno: chlebem i rękami.*
+
+---
+
+## I ZASADA, KTÓRA ZDEJMUJE ZARZUT, ZANIM PADNIE
+
+Ta droga biegnie przez **moje** lenno i podnosi **moje** myto. Namiestnik, który każe Koronie wybrukować własne włości, jest dokładnie tym, o czym południe pisze pieśni.
+
+Więc:
+
+> ### CAŁY PRZYROST MYTA Z TEGO ODCINKA IDZIE DO KORONY — DOPÓKI KORONA NIE ODZYSKA SWOJEGO WKŁADU CO DO MIEDZIAKA.
+> **Dopiero potem myto wraca do lenna.**
+
+**Warunek wykonalności:** poziom myta **mierzy się i ogłasza TERAZ**, przed pierwszym palem. Bez zapisanej liczby wyjściowej nie ma czego nazwać przyrostem.
+
+> **Płacę za przyrost, którego się spodziewam. Jeśli go nie będzie — nie było za co płacić.**
+
+**Odbioru odcinków na własnym lennie nie prowadzę.** Prowadzi je człowiek Korony, który przede mną nie odpowiada.

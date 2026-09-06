@@ -3682,7 +3682,7 @@
    "id": "trop_ognia_w_bialym_porcie_299_09",
    "tytul": "Trop ognia w Bialym Porcie - wyzwoleniec z tatuazem plomieni",
    "status": "wyslane_czeka_na_pogode",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "lokalizacja_thorosa_z_myr_299_09",
@@ -4027,6 +4027,11 @@
   },
   {
    "id": "komory_wodne_dziura_w_poborze_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "zestawienie_dni_barka_komora_299_09",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

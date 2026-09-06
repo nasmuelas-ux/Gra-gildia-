@@ -248,3 +248,65 @@ Odczytać pismo · zsumować kolumnę · zmierzyć ładunek w korcach · napisa�
 > ## CO ZOSTAJE NA PÓŹNIEJ, ZAPISANE, ŻEBY NIE ZGINĘŁO
 > **Myśl o szkole we wsi jest dobra i wróci — ale wraca jako sprawa KRÓLA i pełnej Rady, w roku z nadwyżką, a nie jako pomysł Namiestnika w środku zimy.**
 > **Zapisane. Odłożone. Nie wykreślone.**
+
+---
+
+# CZĘŚĆ VI — POZOSTAŁE URZĘDY, CELNICY I REWIZORZY
+
+## SZÓSTY PION — **REWIZJA**
+
+**Najmniejszy i osobny. Odpowiada KRÓLOWI** — nie Skarbnikowi, którego księgi sprawdza, i nie Namiestnikowi, którego roboty odbiera.
+
+> **Kto zarządza, nie mierzy sam siebie. Tym bardziej nie mierzy sam siebie Skarb.**
+
+**Dwie robotY:**
+**1 · rewizja ksiąg** — przy rachunku składanym, na stały termin
+**2 · rewizja w terenie** — wozy, wagi, spichlerze, **bez zapowiedzi**
+
+> ### Rachunek jest przewidywalny. Rewizja nie. **To muszą być dwa różne narzędzia w dwóch różnych rękach.**
+
+**Rewizor nie karze.** Zapisuje i donosi. **Karze sąd.** *Rewizor, który karze, w rok staje się poborcą własnej kieszeni.*
+
+### REGUŁA, KTÓREJ DOTĄD NIE BYŁO — ile wozów i jak wybieranych
+
+W księdze stoi od dawna: *Garth otworzy może trzydzieści na sto zamiast ośmiu, ale dalej mierzy głównie to, co ktoś sam zadeklarował — **dopóki nie ma zasady mówiącej, ILE się otwiera i JAK się je wybiera.***
+
+> ### **JEDEN NA DZIESIĘĆ — WYBRANY LOSEM, NIE OKIEM.**
+
+**Los ciągnie się przy woźnicy**, żeby nikt nie wierzył, że ustawiono.
+**Poza losem otwiera się z przyczyny:** gdy waga nie zgadza się z listem przewozowym, gdy listu nie ma, gdy pieczęć naruszona.
+
+> **Jeśli celnik sam wybiera, który wóz otworzyć, to nie otwiera wozów — sprzedaje spokój.**
+
+---
+
+## CELNICY — pion SKARBU, stanowiska w terenie
+
+| | |
+|---|---|
+| **CELNIK KOMORY** | mierzy, przyjmuje, pobiera |
+| **PISARZ KOMORY** | zapisuje, prowadzi księgę komory |
+| **STARSZY CELNIK** | nad grupą komór |
+
+> ### **DWÓCH PRZY KAŻDEJ KOMORZE. Celnik mierzy — pisarz zapisuje.**
+> *Fach i księgi nigdy w jednej ręce. To reguła, którą narzuciłem własnym spółkom; komora celna nie jest od niej wolna.*
+
+**Gdzie pełna obsada:** Biały Port, Fosa Cailin.
+**Gdzie na razie jeden człowiek i dwie stawki:** pozostałe komory graniczne — **do czasu, aż stanie tam obsadzony urząd.**
+
+---
+
+## POZOSTAŁE URZĘDY KORONY — przypisane do pionów
+
+| pion | urzędy |
+|---|---|
+| **KANCELARIA** | sekretarz · rejestrator · **strażnik pieczęci** · pisarze · **przełożony poczty i kurierzy** · **archiwista Korony** |
+| **SKARB** | skarbnik · rachmistrz główny · **celnicy i pisarze komór** · **mincerz** *(mennica WILK)* · poborca danin |
+| **SĄD** | justycjariusz · **sędziowie objazdowi** · pisarz sądowy · woźny |
+| **WOJSKO** | marszałek · **prowiantmistrz** · pisarz rejestru chorągwi · admirał · kapitanowie eskadry |
+| **DOBRA I DOCHODY** | **rządca demeny** · poborca czynszów · **leśniczy** *(regale leśne)* · **mistrz wagi** · **mierniczy** |
+| **REWIZJA** | **rewizor ksiąg** · **rewizor terenowy** |
+
+**Każdy z tych urzędów ma p.o., kartę roboty i miejsce w rejestrze kadr.**
+
+> **Nie tworzymy nowych stanowisk — nazywamy te, które już ktoś wykonuje, i dopisujemy im drugą rękę tam, gdzie jedna ręka trzyma i miarę, i pióro.**

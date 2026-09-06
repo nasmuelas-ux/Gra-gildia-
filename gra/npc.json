@@ -1,6 +1,113 @@
 {
  "na_scenie": [
   {
+   "id": "maester_luwin",
+   "imie": "Luwin",
+   "zawod": "maester Winterfell (dwór Starków) — uczony, rządzi składami/rachunkami/praktyką zamku; kanał ku Cytadeli/Starkowi",
+   "status": "298-05-15: poznany podczas wizyty króla. Rzut 14 (anonimowa dostawa daniny) — nie zapamiętał. Rzut 64 (glejt+imię+Cytadela+oferta służby) — ZATRZYMAŁ SIĘ: skojarzył 'rachunek ryzyka z Białego Portu, mieszczanin nie maester'=osobliwość warta poznania (reframe Symona: UMYSŁ nie wozak). Tonąc w prowiancie tysięcy, PRZYJĄŁ ofertę: Symon dostał zachodnie spichrze+ich tally na PRÓBĘ ('zamknij, daj liczbę której nie muszę sprawdzać, a otworzę resztę ksiąg'), wpuszczony na słowo Luwina. | 298-06-08: Symon wyslal LIST - dom Manderly posyla probna dostawe ku Winterfell (sol dla zamku + cienkie plotno na dwor), przybycie ~poczatek lipca barka pod Cassem; prosi by przyjal i osadzil towar. Test up-legu (dwor bierze plotno z marza?) + krok karty Wymana (Manderly niezbedny) + podtrzymanie kanalu. Odpowiedz oczekiwana ~za 1-2 tyg. | 298-06-12: ODPISAL KRUKIEM (relay Theomore) na list o probnej dostawie - cieplo/osobiscie (pamieta pokore+czyste ksiegi z wyprawy). ZGODA: przyjmie sol do spichrzy + cienkie plotno na dwor, osadzi uczciwie, spodziewa sie dobrego -> STALY ODBIOR jesli jakosc (klodka ucha dworu ZAMKNIETA, up-leg pobLogosLawiony). BONUS: otworzyl KANAL CYTADELI dla traktatu Symona ('pisz do mnie, przekaze; umysl jak twoj nie powinien gnic w kantorze'). Podal puls Winterfell: przycichl po wyjezdzie Eddarda+corek na poludnie, mlody Robb trzyma grod z rada Luwina, dom stateczny ale ciszej. nast+4/zauf+4. | 298-06-12: Symon ODPISAL krukiem - podziekowanie z miara, potwierdzil dostawe (barka Cassa ~poczatek lipca, sol+bela plotna Miry=robota zony, sadzona na wartosc), przyjal sygnal stalego odbioru prove-it-first ('jak niewarte, powiedz wprost, poprawie'). Kanal Cytadeli: przygotuje traktat porzadnie i przesle jego reka gdy wart (nie w pospiechu). Nic do Winterfell ciepla, kanal Cytadeli otwarty do wykorzystania. zauf+2.",
+   "nastawienie_do_gracza": "ZYCZLIWY -> PROFESJONALNY PODZIW/ZAUFANIE ROBOCZE (0813): po arcyrachunku zapasow (nat.100) Luwin uznaje Symona za rownego-lub-lepszego w rachunkach; trust glęboki",
+   "zaufanie": 66,
+   "wie_o_graczu": [
+    "pan Tally z Białego Portu, człowiek lorda Wymana (glejt); skryba co 'liczy jak z Cytadeli' (rachunek ryzyka przeszedł łańcuchem maesterów); ofiarował ład w służbie Manderlych, nie za grosz. Na próbie (zachodnie tally).",
+    "298-05-16 (rzut 5): Symon przyniósł mu z POKORĄ (obcy, prosi o chwilę, skala+co się nie zgadza, 'jedna z możliwości: ktoś przywłaszcza', bez nazwiska/oskarżenia) udokumentowaną DZIURĘ w zachodnich składach. Luwin wysłuchał do końca (pokora), UZNAŁ liczby — ale ODROCZYŁ ściganie: 'król pod dachem, dwór/Lannisterowie, nie wolno robić hałasu/wstydu/ścigać kradzieży podczas wizyty; po odjeździe króla zajmę się, masz moje słowo'. Kazał trzymać dowód cicho, zamknąć tally, milczeć. REGARD SYMONA MOCNO W GÓRĘ: 'dziękuję nie za dziurę lecz JAK ją przyniosłeś — znalazłeś czego trzej nie tknęli, udokumentowałeś, pokora, bez nazwisk, oddałeś mojej władzy = człowiek któremu MOŻNA UFAĆ, zapamiętam'. = gwiazda przez charakter/kompetencję/nieskazitelność, nie bust.",
+    "298-05-16 (rzut 32): Symon poprosił o dostęp do Eddarda Starka ze słowem lorda Wymana. Luwin: osobistej audiencji NIE da się (król nie puszcza Neda; 'coś wielkiego wisi, król czegoś od mego pana chce'), ale SAM przekaże słowo Wymana Eddardowi (ma jego ucho) + poniesie IMIĘ Symona dobrze przed Starkiem (poseł+czysta danina+znalazł dziurę godnie); wspomni o Symonie jak trafi się luka (bez obietnicy). Luwin życzliwy, pomocny kanał.",
+    "298-05-17 (rzut 43): Symon zamknal zachodnie tally i przyniosl PRYWATNIE - uzgodnione/czyste, niedobor dyskretnie oflagowany ('sprawa o ktorej mowilismy', bez slowa 'kradziez'), zostawil notatki na po krolu. Luwin: 'zrobiles dokladnie o co prosilem i JAK TRZEBA - liczba prawdziwa, rana pokazana, nic zaszyte/wykrzyczane, nic co splami zamek przy krolu; zostawiles notatki=mysli dalej niz wlasny wyjazd, rzadkie'. ZACEMENTOWANE zaufanie. 'Zapamietam cie zyczliwie; lord Wyman ma w tobie wiecej niz wozaka; gdy droga przywiedzie na Polnoc albo pioro poniesie rachunek ku Cytadeli - maester Winterfell bedzie pamietal.' = SOJUSZNIK, kanal ku Starkowi/Cytadeli na przyszlosc (latentny).",
+    "298-05-19: Symon przyszedl PODZIEKOWAC prosto/szczerze za otwarcie drzwi do Starka. Luwin poruszony (rzadko ktos dziekuje): 'otworzylem drzwi, przez prog przeszedles sam; Ned powiedzial mi po audiencji parem slow - nie zawiodlem reczac za ciebie, Manderly ma w tobie czlowieka o jakich trudno; uczyniles MNIE wiarygodnym u mego pana oddajac mu prawde, jak ja ciebie - wyszlo na dobre nam obu'. SOJUSZ zacementowany wzajemnym zaufaniem. Luwin: 'jestem twoim dluznikiem zyczliwosci; gdy droga przywiedzie na Polnoc, gdy rachunek poplynie ku Cytadeli, gdy Manderly zechce slowo do Winterfell predko - PISZ DO MNIE, otwarte ucho, slowo maestra na ktore mozna liczyc'. = kanal ku Starkowi/Cytadeli/Winterfell na LATA.",
+    "298-08-10 (rzut 25, porazka z komplikacja - GODZINA zla, nie wina Symona): Symon przybyl osobiscie do Winterfell z misja zaopatrzenia. Zagral bezblednie (prawda, godzina uszanowana pierwsza, rama ulga/stary rozsadek, oddal glos Theomore'owi). List Theomore'a ZADZIALAL - Luwin ocieplony, reczy za charakter Symona ('rozum prawdziwy, serce tez'; 'pisze rozumniej niz niejeden zaprzysiezony'). ALE misji NIE przyjal: dom pod krzyzem (Ned ranny/Poludnie, Catelyn wyjechala, Brandon kaleka+skrytobojca, wojna wisi), Luwin nieprzespany/nie jego decyzja - to sprawa ROBBA a Robb pogrzebany pod pilniejszym; 'w te dni wszystko z zewnatrz z gotowym planem wazy sie podwojnie'. DAL PRAWO GOSCIA (chleb i sol, izba, konie, ludzie rozkuci) - mile widziany jako Symon. Misja odlozona do godziny + audiencji u Robba. Wiez osobista mocna, sprawa otwarta.",
+    "298-08-10 (rzut 8, porazka z komplikacja - dom w chaosie, nie wina Symona): Symon zaoferowal pomoc TU I TERAZ bez zadnej prosby (ulzyc, para rak, umie rachunki/pismo maester-poziom). Gest TRAFIL w serce Luwina ('w zamku pelnym ludzi co chca od Winterfell, tys pierwszy od tygodni co pyta czego Winterfell chce od ciebie - nie zapomne'). ALE nieprzyjety w czyn: posianiec porwal Luwina do Robba (kruk/chorazowie); Luwin uczciwie: 'ksiag i spraw tego domu w te dni nie oddaje gosciowi z wczoraj, choćby najzacniejszemu - nie z braku serca, z rany; takie zaufanie sie tu wysluguje CZASEM nie darowuje w godzine'. Goodwill ZABANKOWANY, gest zapamietany. Proving = gra cierpliwosci.",
+    "298-08-12 (rzut 93): Symon ponowil oferte pomocy na przeobrazonym gruncie (Robb za niego poreczyl/przysiegl przed drzewem serca, dom przychylny). Luwin PRZYJAL ('caly zamek wie o bozogaju/stole; nie widzialem by Robb komus zaufal tak predko - mowi mi to o tobie wiecej niz 2 listy; tone, przyjmuje i dziekuje'). ZLECIL Symonowi KSIEGI ZAPASOW WINTERFELL (spichlerze/solarnie/stada/siano/opal - ile jest, na ile starczy pod wojne+zime, gdzie dziury). Najglebszy trust (ksiegi domu). Relacja Luwin-Symon: z zyczliwosci -> WSPOLPRACA/zaufanie robocze.",
+    "298-08-13 (rzut 100 nat.): Symon zlozyl RACHUNEK ZAPASOW WINTERFELL - arcydzielo, w 1,5 dnia, lepiej niz Luwin robilby w 2 tygodnie. Luwin PODZIW BEZ CIENIA ('na Cytadele... widze rzeczy ktorychem sam nie widzial'). Rachunek pokazal: (1) na zime Winterfell stoi dobrze (Luwin ma wreszcie pewnosc); (2) na wojne+zime SIE POSYPIE (ksiegi licza dwor nie armie; sol/mieso/slonina/obrok cienkie; wszystko w jednym miejscu); (3) wniosek udowodniony ich liczbami: zaden 1 zamek nie da rady, trzeba rozproszonej rezerwy Polnocy zbudowanej wczesniej = misja Wymana pokazana jako dziura w ich ksiedze. Firewall czysty (ksiegi rodu bezpieczne). Trust Luwina do Symona: profesjonalny podziw + osobiste zaufanie.",
+    "298-08-13: Luwin PONIOSL rachunek do Robba RAZEM z Symonem (docenil ze Symon nie omija maestera by dopasc lorda, lecz wciaga go ze soba). Poparl wniosek przed Robbem ('policzyl prawde'). Misja rezerwy przyjeta - Luwin po stronie Symona, wspolpraca zacielsniona."
+   ],
+   "potencjal": "sojusznik/patron uczony + kanał ku Starkowi i uznaniu (Cytadela). Firewall: trzymać braavijski cień z dala.",
+   "_dziennik_nota": 13,
+   "ostatni_kontakt": "298-10-01: nie zna Riverlands (limit Winterfell/wojna), skierowal do lady Catelyn; ostrzegl o Blizniakach/Freyu (niepewna przeprawa i chleb).",
+   "rola": "Maester Winterfell + GLOWA SZKOLY W WINTERFELL (od 299-08-04) - prototyp wezla oswiaty Polnocy"
+  },
+  {
+   "id": "szafarz_roggen",
+   "imie": "Roggen",
+   "zawod": "starszy szafarz zachodnich składów Winterfell (sługa od lat, powszechnie ufany) — SILNY PODEJRZANY o kradzież prowiantu",
+   "status": "298-05-15: pasywnie namierzony (rzut 36) jako silny podejrzany — przez jego pieczęć idą cedu­ly-widma, władza+zaufanie+ZBYT SPOKOJNY w chaosie. ALE brak twardego dowodu NA NIEGO (dowód jest na kradzież, nie na człowieka). Prawdopodobnie NIE sam: ręka zewnętrzna (paser) + możliwa osłona z góry; ring/głębia nienazwane. Tarcza: 'stary Roggen zawsze był pewny' — trudno tknąć bez żelaza na osobę.",
+   "nastawienie_do_gracza": "nieznane (nie kontaktowani; Symon obserwuje z boku)",
+   "wie_o_graczu": "nic — nie wie, że ktoś patrzy (Symon niezauważony)"
+  },
+  {
+   "id": "rodrik_cassel",
+   "imie": "Ser Rodrik Cassel",
+   "rola": "Pierwszy Miecz - dowodca zalozycielski ZIMOWEJ STRAZY (gwardii Krola); zbrojmistrz Winterfell",
+   "_dziennik_nota": 3
+  },
+  {
+   "id": "lord_medger_cerwyn",
+   "imie": "Medger Cerwyn",
+   "zawod": "lord rodu Cerwyn (zamek na goscincu ~pol dnia pod Winterfell)",
+   "nastawienie_do_gracza": "cieply -> PRZYJACIEL (07-10): uklad przybity + Symon spytal 'jak mu sie zyje', Medger sie otworzyl",
+   "ostatni_kontakt": "298-09-05: Symon doradzil mu zime (rzut 88), sojusz gleboki, reczy calym sercem u bogatszych holdow (Flintowie/Locke'owie), jeden lancuch zakupowy",
+   "_dziennik_nota": 9,
+   "rola": "JUSTYCJARIUSZ POLNOCY (od 299-06-09) - najwyzsze apelacje ponad drabina lordow"
+  },
+  {
+   "id": "arya_stark",
+   "imie": "Arya Stark",
+   "rola": "Corka Neda, odzyskana 298-11-21 - wroicla do rodziny (Robb+Catelyn) przez ciche dzialanie Symona",
+   "_dziennik_nota": 4
+  },
+  {
+   "id": "notariusz_beron",
+   "imie": "mistrz Beron",
+   "rola": "NOTARIUSZ Domu Handlowego Tally (od 299-05) - swiecki fach z Braavos, wiazany sprawiedliwym sufitem",
+   "_dziennik_nota": 3
+  },
+  {
+   "id": "bran_stark",
+   "imie": "Bran Stark",
+   "rola": "brat Krola Robba; pierwszy uczen szkoly Polnocy",
+   "zawod": "syn Neda, sparalizowany po upadku z wiezy (~10l); bystra glowa",
+   "nastawienie_do_gracza": "cieply/wdzieczny (Symon dal mu przyszlosc po upadku - nie litosc lecz droga umyslu)",
+   "_dziennik_nota": 13
+  },
+  {
+   "id": "sansa_stark",
+   "imie": "Sansa Stark",
+   "rola": "siostra Krola Robba; odzyskana z KP pokojem (klauzula kapitulacji), w domu w Winterfell, zdrowieje",
+   "zawod": "lady, przezyla lata w klatce Cersei/Joffreya (widziala sciecie Neda); dworska uprzejmosc=zbroja",
+   "nastawienie_do_gracza": "czujna/wyuczona nieufnosc (kazdy w KP czegos chcial) - ale Symon rozbroil pierwsza szczeline nie chcac od niej NICZEGO ('dziekuje ze nie klamiecie ladniej')",
+   "_dziennik_nota": 12
+  },
+  {
+   "id": "rickon_stark",
+   "imie": "Rickon Stark",
+   "rola": "najmlodszy brat Krola (~4-5l), w Winterfell",
+   "zawod": "dziki po stratach (ojciec/wojna/rozdzielenie); wilkor Kudlacz (najdzikszy z miotu)",
+   "nastawienie_do_gracza": "dziki/nieufny jak zwierze; Symon nie napieral/nie balo sie -> Kudlacz przestal warczec, 'ty jesteś ten co pisze' (poczatek, nie oswojenie)",
+   "_dziennik_nota": 10
+  },
+  {
+   "id": "gawen_skarbnik",
+   "imie": "mistrz Gawen (Skarbnik Korony)",
+   "rola": "SKARBNIK POLNOCY (rada funkcyjna, od 299-08-15) - fiskus Korony (mennica WILK/clo/danina/skarb Kasy3); pod firewallem niezaleznosci od Manderlych",
+   "_dziennik_nota": 18
+  },
+  {
+   "id": "rodwell_dyrektor_domu_starkow",
+   "imie": "mistrz Rodwell (Dyrektor Domu Starkow)",
+   "rola": "DYREKTOR DOMU STARKOW (od 299-08-15) - operator silnika dochodu domeny Korony (Kasa3); lojalnosc zbieznego interesu, tendowana",
+   "_dziennik_nota": 9
+  },
+  {
+   "id": "ser_alyn_zastepca",
+   "imie": "Ser Alyn",
+   "_dziennik_nota": 6
+  },
+  {
+   "id": "stara_niania",
+   "imie": "Stara Niania",
+   "_dziennik_nota": 8
+  }
+ ],
+ "w_orbicie": [
+  {
    "id": "serla_wdowa",
    "imie": "Serla",
    "przydomek": null,
@@ -184,7 +291,8 @@
    },
    "_dziennik_tlo_osobiste": 1,
    "rok_urodzenia": 258,
-   "_dziennik_nota": 16
+   "_dziennik_nota": 16,
+   "rola": "Wspolniczka/pryncypal kantoru w Bialym Porcie; braawijskie koneksje - lacznik do Zelaznego Banku"
   },
   {
    "id": "garth_celnik",
@@ -718,49 +826,6 @@
    "_dziennik_wie_o_graczu": 1
   },
   {
-   "id": "maester_luwin",
-   "imie": "Luwin",
-   "zawod": "maester Winterfell (dwór Starków) — uczony, rządzi składami/rachunkami/praktyką zamku; kanał ku Cytadeli/Starkowi",
-   "status": "298-05-15: poznany podczas wizyty króla. Rzut 14 (anonimowa dostawa daniny) — nie zapamiętał. Rzut 64 (glejt+imię+Cytadela+oferta służby) — ZATRZYMAŁ SIĘ: skojarzył 'rachunek ryzyka z Białego Portu, mieszczanin nie maester'=osobliwość warta poznania (reframe Symona: UMYSŁ nie wozak). Tonąc w prowiancie tysięcy, PRZYJĄŁ ofertę: Symon dostał zachodnie spichrze+ich tally na PRÓBĘ ('zamknij, daj liczbę której nie muszę sprawdzać, a otworzę resztę ksiąg'), wpuszczony na słowo Luwina. | 298-06-08: Symon wyslal LIST - dom Manderly posyla probna dostawe ku Winterfell (sol dla zamku + cienkie plotno na dwor), przybycie ~poczatek lipca barka pod Cassem; prosi by przyjal i osadzil towar. Test up-legu (dwor bierze plotno z marza?) + krok karty Wymana (Manderly niezbedny) + podtrzymanie kanalu. Odpowiedz oczekiwana ~za 1-2 tyg. | 298-06-12: ODPISAL KRUKIEM (relay Theomore) na list o probnej dostawie - cieplo/osobiscie (pamieta pokore+czyste ksiegi z wyprawy). ZGODA: przyjmie sol do spichrzy + cienkie plotno na dwor, osadzi uczciwie, spodziewa sie dobrego -> STALY ODBIOR jesli jakosc (klodka ucha dworu ZAMKNIETA, up-leg pobLogosLawiony). BONUS: otworzyl KANAL CYTADELI dla traktatu Symona ('pisz do mnie, przekaze; umysl jak twoj nie powinien gnic w kantorze'). Podal puls Winterfell: przycichl po wyjezdzie Eddarda+corek na poludnie, mlody Robb trzyma grod z rada Luwina, dom stateczny ale ciszej. nast+4/zauf+4. | 298-06-12: Symon ODPISAL krukiem - podziekowanie z miara, potwierdzil dostawe (barka Cassa ~poczatek lipca, sol+bela plotna Miry=robota zony, sadzona na wartosc), przyjal sygnal stalego odbioru prove-it-first ('jak niewarte, powiedz wprost, poprawie'). Kanal Cytadeli: przygotuje traktat porzadnie i przesle jego reka gdy wart (nie w pospiechu). Nic do Winterfell ciepla, kanal Cytadeli otwarty do wykorzystania. zauf+2.",
-   "nastawienie_do_gracza": "ZYCZLIWY -> PROFESJONALNY PODZIW/ZAUFANIE ROBOCZE (0813): po arcyrachunku zapasow (nat.100) Luwin uznaje Symona za rownego-lub-lepszego w rachunkach; trust glęboki",
-   "zaufanie": 66,
-   "wie_o_graczu": [
-    "pan Tally z Białego Portu, człowiek lorda Wymana (glejt); skryba co 'liczy jak z Cytadeli' (rachunek ryzyka przeszedł łańcuchem maesterów); ofiarował ład w służbie Manderlych, nie za grosz. Na próbie (zachodnie tally).",
-    "298-05-16 (rzut 5): Symon przyniósł mu z POKORĄ (obcy, prosi o chwilę, skala+co się nie zgadza, 'jedna z możliwości: ktoś przywłaszcza', bez nazwiska/oskarżenia) udokumentowaną DZIURĘ w zachodnich składach. Luwin wysłuchał do końca (pokora), UZNAŁ liczby — ale ODROCZYŁ ściganie: 'król pod dachem, dwór/Lannisterowie, nie wolno robić hałasu/wstydu/ścigać kradzieży podczas wizyty; po odjeździe króla zajmę się, masz moje słowo'. Kazał trzymać dowód cicho, zamknąć tally, milczeć. REGARD SYMONA MOCNO W GÓRĘ: 'dziękuję nie za dziurę lecz JAK ją przyniosłeś — znalazłeś czego trzej nie tknęli, udokumentowałeś, pokora, bez nazwisk, oddałeś mojej władzy = człowiek któremu MOŻNA UFAĆ, zapamiętam'. = gwiazda przez charakter/kompetencję/nieskazitelność, nie bust.",
-    "298-05-16 (rzut 32): Symon poprosił o dostęp do Eddarda Starka ze słowem lorda Wymana. Luwin: osobistej audiencji NIE da się (król nie puszcza Neda; 'coś wielkiego wisi, król czegoś od mego pana chce'), ale SAM przekaże słowo Wymana Eddardowi (ma jego ucho) + poniesie IMIĘ Symona dobrze przed Starkiem (poseł+czysta danina+znalazł dziurę godnie); wspomni o Symonie jak trafi się luka (bez obietnicy). Luwin życzliwy, pomocny kanał.",
-    "298-05-17 (rzut 43): Symon zamknal zachodnie tally i przyniosl PRYWATNIE - uzgodnione/czyste, niedobor dyskretnie oflagowany ('sprawa o ktorej mowilismy', bez slowa 'kradziez'), zostawil notatki na po krolu. Luwin: 'zrobiles dokladnie o co prosilem i JAK TRZEBA - liczba prawdziwa, rana pokazana, nic zaszyte/wykrzyczane, nic co splami zamek przy krolu; zostawiles notatki=mysli dalej niz wlasny wyjazd, rzadkie'. ZACEMENTOWANE zaufanie. 'Zapamietam cie zyczliwie; lord Wyman ma w tobie wiecej niz wozaka; gdy droga przywiedzie na Polnoc albo pioro poniesie rachunek ku Cytadeli - maester Winterfell bedzie pamietal.' = SOJUSZNIK, kanal ku Starkowi/Cytadeli na przyszlosc (latentny).",
-    "298-05-19: Symon przyszedl PODZIEKOWAC prosto/szczerze za otwarcie drzwi do Starka. Luwin poruszony (rzadko ktos dziekuje): 'otworzylem drzwi, przez prog przeszedles sam; Ned powiedzial mi po audiencji parem slow - nie zawiodlem reczac za ciebie, Manderly ma w tobie czlowieka o jakich trudno; uczyniles MNIE wiarygodnym u mego pana oddajac mu prawde, jak ja ciebie - wyszlo na dobre nam obu'. SOJUSZ zacementowany wzajemnym zaufaniem. Luwin: 'jestem twoim dluznikiem zyczliwosci; gdy droga przywiedzie na Polnoc, gdy rachunek poplynie ku Cytadeli, gdy Manderly zechce slowo do Winterfell predko - PISZ DO MNIE, otwarte ucho, slowo maestra na ktore mozna liczyc'. = kanal ku Starkowi/Cytadeli/Winterfell na LATA.",
-    "298-08-10 (rzut 25, porazka z komplikacja - GODZINA zla, nie wina Symona): Symon przybyl osobiscie do Winterfell z misja zaopatrzenia. Zagral bezblednie (prawda, godzina uszanowana pierwsza, rama ulga/stary rozsadek, oddal glos Theomore'owi). List Theomore'a ZADZIALAL - Luwin ocieplony, reczy za charakter Symona ('rozum prawdziwy, serce tez'; 'pisze rozumniej niz niejeden zaprzysiezony'). ALE misji NIE przyjal: dom pod krzyzem (Ned ranny/Poludnie, Catelyn wyjechala, Brandon kaleka+skrytobojca, wojna wisi), Luwin nieprzespany/nie jego decyzja - to sprawa ROBBA a Robb pogrzebany pod pilniejszym; 'w te dni wszystko z zewnatrz z gotowym planem wazy sie podwojnie'. DAL PRAWO GOSCIA (chleb i sol, izba, konie, ludzie rozkuci) - mile widziany jako Symon. Misja odlozona do godziny + audiencji u Robba. Wiez osobista mocna, sprawa otwarta.",
-    "298-08-10 (rzut 8, porazka z komplikacja - dom w chaosie, nie wina Symona): Symon zaoferowal pomoc TU I TERAZ bez zadnej prosby (ulzyc, para rak, umie rachunki/pismo maester-poziom). Gest TRAFIL w serce Luwina ('w zamku pelnym ludzi co chca od Winterfell, tys pierwszy od tygodni co pyta czego Winterfell chce od ciebie - nie zapomne'). ALE nieprzyjety w czyn: posianiec porwal Luwina do Robba (kruk/chorazowie); Luwin uczciwie: 'ksiag i spraw tego domu w te dni nie oddaje gosciowi z wczoraj, choćby najzacniejszemu - nie z braku serca, z rany; takie zaufanie sie tu wysluguje CZASEM nie darowuje w godzine'. Goodwill ZABANKOWANY, gest zapamietany. Proving = gra cierpliwosci.",
-    "298-08-12 (rzut 93): Symon ponowil oferte pomocy na przeobrazonym gruncie (Robb za niego poreczyl/przysiegl przed drzewem serca, dom przychylny). Luwin PRZYJAL ('caly zamek wie o bozogaju/stole; nie widzialem by Robb komus zaufal tak predko - mowi mi to o tobie wiecej niz 2 listy; tone, przyjmuje i dziekuje'). ZLECIL Symonowi KSIEGI ZAPASOW WINTERFELL (spichlerze/solarnie/stada/siano/opal - ile jest, na ile starczy pod wojne+zime, gdzie dziury). Najglebszy trust (ksiegi domu). Relacja Luwin-Symon: z zyczliwosci -> WSPOLPRACA/zaufanie robocze.",
-    "298-08-13 (rzut 100 nat.): Symon zlozyl RACHUNEK ZAPASOW WINTERFELL - arcydzielo, w 1,5 dnia, lepiej niz Luwin robilby w 2 tygodnie. Luwin PODZIW BEZ CIENIA ('na Cytadele... widze rzeczy ktorychem sam nie widzial'). Rachunek pokazal: (1) na zime Winterfell stoi dobrze (Luwin ma wreszcie pewnosc); (2) na wojne+zime SIE POSYPIE (ksiegi licza dwor nie armie; sol/mieso/slonina/obrok cienkie; wszystko w jednym miejscu); (3) wniosek udowodniony ich liczbami: zaden 1 zamek nie da rady, trzeba rozproszonej rezerwy Polnocy zbudowanej wczesniej = misja Wymana pokazana jako dziura w ich ksiedze. Firewall czysty (ksiegi rodu bezpieczne). Trust Luwina do Symona: profesjonalny podziw + osobiste zaufanie.",
-    "298-08-13: Luwin PONIOSL rachunek do Robba RAZEM z Symonem (docenil ze Symon nie omija maestera by dopasc lorda, lecz wciaga go ze soba). Poparl wniosek przed Robbem ('policzyl prawde'). Misja rezerwy przyjeta - Luwin po stronie Symona, wspolpraca zacielsniona."
-   ],
-   "potencjal": "sojusznik/patron uczony + kanał ku Starkowi i uznaniu (Cytadela). Firewall: trzymać braavijski cień z dala.",
-   "_dziennik_nota": 13,
-   "ostatni_kontakt": "298-10-01: nie zna Riverlands (limit Winterfell/wojna), skierowal do lady Catelyn; ostrzegl o Blizniakach/Freyu (niepewna przeprawa i chleb).",
-   "rola": "Maester Winterfell + GLOWA SZKOLY W WINTERFELL (od 299-08-04) - prototyp wezla oswiaty Polnocy"
-  },
-  {
-   "id": "szafarz_roggen",
-   "imie": "Roggen",
-   "zawod": "starszy szafarz zachodnich składów Winterfell (sługa od lat, powszechnie ufany) — SILNY PODEJRZANY o kradzież prowiantu",
-   "status": "298-05-15: pasywnie namierzony (rzut 36) jako silny podejrzany — przez jego pieczęć idą cedu­ly-widma, władza+zaufanie+ZBYT SPOKOJNY w chaosie. ALE brak twardego dowodu NA NIEGO (dowód jest na kradzież, nie na człowieka). Prawdopodobnie NIE sam: ręka zewnętrzna (paser) + możliwa osłona z góry; ring/głębia nienazwane. Tarcza: 'stary Roggen zawsze był pewny' — trudno tknąć bez żelaza na osobę.",
-   "nastawienie_do_gracza": "nieznane (nie kontaktowani; Symon obserwuje z boku)",
-   "wie_o_graczu": "nic — nie wie, że ktoś patrzy (Symon niezauważony)"
-  },
-  {
-   "id": "lord_eddard_stark",
-   "imie": "Eddard Stark",
-   "zawod": "Lord Winterfell, Warden of the North; wkrotce Reka Krola (jedzie na poludnie do Krolewskiej Przystani)",
-   "status": "298-05-19: KROTKA AUDIENCJA (rzut 99, triumf) - Symon jako posel Manderlych oddal slowo lorda Wymana doskonale (wiernosc+danina+nuta STEADFAST 'twoj port solidny za plecami gdy jedziesz na poludnie') + szczere wspolczucie za syna Brana (czlowiek Wiary co sie modlil). Ned (uosobienie Polnocy, w zalobie/odjezdzajacy) ZJEDNANY - prostota+brak kadzenia+szczerosc pekly jego rezerwe. Slowa Neda: 'Lord Wyman dobrze jest sluzony; uczciwy czlowiek z glowa, takich Polnoc pamieta; Stark nie zapomni wiernosci Manderlych; nos imie godnie, ZAJDZIESZ DALEJ NIZ MYSLISZ'.",
-   "nastawienie_do_gracza": 75,
-   "zaufanie": 45,
-   "wie_o_graczu": "posel Manderlych co przywiozl danine czysto+slowo godnie, nie plaszczyl sie; Luwin recza za niego (uczciwy z glowa); szczere wspolczucie za Brana poruszylo go. Zapamietal Symona zyczliwie.",
-   "dla_lorda_wymana": "Stark: 'nie zapomni wiernosci Manderlych' - wiez umocniona; kazal przekazac Wymanowi ze slyszal jego slowo. Symon wykonal poselstwo bez skazy.",
-   "_dziennik_nota": 2
-  },
-  {
    "id": "leda_wdowa",
    "imie": "Leda",
    "zawod": "mloda wdowa z dwojgiem dzieci (niemowle+male), uboga, niepismienna",
@@ -955,18 +1020,13 @@
    "_dziennik_nota": 2
   },
   {
-   "id": "rodrik_cassel",
-   "imie": "Ser Rodrik Cassel",
-   "rola": "Pierwszy Miecz - dowodca zalozycielski ZIMOWEJ STRAZY (gwardii Krola); zbrojmistrz Winterfell",
-   "_dziennik_nota": 3
-  },
-  {
    "id": "ottar_faktor_zbozowy",
    "imie": "Ottar",
    "rola": "faktor zbozowy - wykonawca siatki skupujacej zboze, sprzedajacy je teraz tanio w Kamiennym Brodzie",
    "nastawienie": 50,
    "zaufanie": 0,
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "lokacja": "Kamienny Brod (domena Starkow, dzien drogi na poludnie od Winterfell)"
   },
   {
    "id": "rzadca_kamiennego_brodu",
@@ -1017,9 +1077,7 @@
    "rola": "Lord Dowodca Nocnej Strazy - NIE ZYJE",
    "miejsce": "na polnoc od Muru",
    "nota": "299 - WIELKI OBJAZD wyszedl w sile ponad dwustu ludzi, wrocila garsc. MORMONT ZGINAL Z REKI WLASNYCH BRACI w chalupie na polnoc od Muru; zeznania ocalalych zgodne i niezalezne (Aemon: \"nie napisalbym tego, gdyby to byla plotka jednego czlowieka\")."
-  }
- ],
- "w_orbicie": [
+  },
   {
    "id": "karczmarz_dobb",
    "imie": "Dobb",
@@ -1053,7 +1111,9 @@
     "297-11-09 (rzut 69): Symon przyszedl z ZIMOWYMI KSIEGAMI otwarcie (jawnosc=bron u celnika). Wylis przeswietlil je po celniczemu - szukal szwu/paddingu/skimu, NIE ZNALAZL: czyste co do miedziaka, dostawa NIEPRZERWANA przez zabojczy sztorm+gleboki mroz, castle-first nigdy nie zlamany, klauzula kary ANI RAZU nie odpalona. Uczciwy celnik GLEBOKO pod wrazeniem (po korupcji pierscienia to luk czystej wody). PRZESUNAL STALY KONTRAKT mocno naprzod: 'pol zimy dowiedzione bez potkniecia; dokoncz tak, a staly warrant jest twoj - i powiem lordowi ze tak'. Firewall: Braavos/Antaryon w mroku (refi uspione, nie tknieto). nast 25->33, zauf 18->26. To CEGLA dowodu 'czystej zimy' dla Wymana (Wylis=konduit) + staly kontrakt (marza ~45->65/mies) dojrzewa.",
     "297-11-15 (drugi sztorm, rzut 52): castle-dostawa UTRZYMANA w 2. zabojczym sztormie GLADKO (kontrast do 1.) - Wylis widzi system co dowozi niezawodnie mimo powtornego ekstremum. Proof 'czystej zimy' mocnieje dalej. nast+2 zauf+2.",
     "297-11-17 (rzut 32): STALY WARRANT PROWIANTOWANIA ZAMKU ZAPIECZETOWANY. Wylis, przekonany dwoma sztormami+czystymi ksiegami, sformalizowal - marza ~45->65/mies, niezastepowalnosc FORMALNA (nie de facto). Wlaczyl rygorystyczne terminy+klauzule (celnik) co Symonowi paradoksalnie sluzy (fosa/rywal nie skopiuje). Obiecal POWIEDZIEC LORDOWI ze warrant stoi na pewnej rece. Firewall czysty (prowiant, Braavos/Antaryon w mroku - Wylis wciaz potencjalny przyszly sojusznik refi, POZNAWANY). nast 33->38, zauf 26->31. Capstone arki prowiantowej zimowej."
-   ]
+   ],
+   "rola": "Starszy syn i dziedzic lorda Wymana Manderly; prawdopodobnie jeniec Lannisterow (pojmany pod Zielonymi Widlami)",
+   "_dziennik_nota": 8
   },
   {
    "id": "corka_wendy_mella",
@@ -1548,7 +1608,9 @@
     "m12d04 4. lekcja (rzut 85): Donnel uznaje Symona za zaawansowanego - 'moglbys juz wytyczyc fundament'. Traktuje go niemal jak peer-in-training, cieszy sie taka nauka. Nast 27->30.",
     "m12d06 5. lekcja (rzut 79): praktyczne zastosowanie (wytyczanie/miernictwo na desce), Symon dobrze; Donnel podsuwa, ze taka wiedza to realna robota - wyceny budowli, oszacowanie kosztu budowy. Nast 30->31."
    ],
-   "rok_urodzenia": 239
+   "rok_urodzenia": 239,
+   "rola": "Stary mistrz-murator Bialego Portu (stawial Bialy Mur/Nowy Zamek); nauczyciel geometrii Symona",
+   "_dziennik_nota": 2
   },
   {
    "id": "merek_prowiant",
@@ -2506,14 +2568,6 @@
    "_dziennik_ostatni_kontakt": 1
   },
   {
-   "id": "lord_medger_cerwyn",
-   "imie": "Medger Cerwyn",
-   "zawod": "lord rodu Cerwyn (zamek na goscincu ~pol dnia pod Winterfell)",
-   "nastawienie_do_gracza": "cieply -> PRZYJACIEL (07-10): uklad przybity + Symon spytal 'jak mu sie zyje', Medger sie otworzyl",
-   "ostatni_kontakt": "298-09-05: Symon doradzil mu zime (rzut 88), sojusz gleboki, reczy calym sercem u bogatszych holdow (Flintowie/Locke'owie), jeden lancuch zakupowy",
-   "_dziennik_nota": 9
-  },
-  {
    "id": "robb_stark",
    "imie": "Robb Stark",
    "zawod": "dziedzic Winterfell, l.15 - TRZYMA grod jako p.o. pana (Ned Namiestnikiem na poludniu); wilkor Szary Wicher",
@@ -2768,12 +2822,6 @@
    "_dziennik_nota": 3
   },
   {
-   "id": "arya_stark",
-   "imie": "Arya Stark",
-   "rola": "Corka Neda, odzyskana 298-11-21 - wroicla do rodziny (Robb+Catelyn) przez ciche dzialanie Symona",
-   "_dziennik_nota": 4
-  },
-  {
    "id": "oberyn_martell",
    "imie": "Ksiaze Oberyn Martell (Czerwona Zmija)",
    "rola": "Ksiaze Oberyn (Czerwona Zmija); po powrocie Symona - WIEZ na wspolnym przekonaniu o sprawiedliwosci",
@@ -2784,12 +2832,6 @@
    "imie": "mistrz Colwyn",
    "rola": "Notariusz Manderlych (Bialy Port) - ODPUSZCZONY przez Symona z gracja (zostaje u Wymana)",
    "_dziennik_nota": 2
-  },
-  {
-   "id": "notariusz_beron",
-   "imie": "mistrz Beron",
-   "rola": "NOTARIUSZ Domu Handlowego Tally (od 299-05) - swiecki fach z Braavos, wiazany sprawiedliwym sufitem",
-   "_dziennik_nota": 3
   },
   {
    "id": "pisarz_aldwin",
@@ -2816,30 +2858,6 @@
    "_dziennik_nota": 1
   },
   {
-   "id": "bran_stark",
-   "imie": "Bran Stark",
-   "rola": "brat Krola Robba; pierwszy uczen szkoly Polnocy",
-   "zawod": "syn Neda, sparalizowany po upadku z wiezy (~10l); bystra glowa",
-   "nastawienie_do_gracza": "cieply/wdzieczny (Symon dal mu przyszlosc po upadku - nie litosc lecz droga umyslu)",
-   "_dziennik_nota": 13
-  },
-  {
-   "id": "sansa_stark",
-   "imie": "Sansa Stark",
-   "rola": "siostra Krola Robba; odzyskana z KP pokojem (klauzula kapitulacji), w domu w Winterfell, zdrowieje",
-   "zawod": "lady, przezyla lata w klatce Cersei/Joffreya (widziala sciecie Neda); dworska uprzejmosc=zbroja",
-   "nastawienie_do_gracza": "czujna/wyuczona nieufnosc (kazdy w KP czegos chcial) - ale Symon rozbroil pierwsza szczeline nie chcac od niej NICZEGO ('dziekuje ze nie klamiecie ladniej')",
-   "_dziennik_nota": 12
-  },
-  {
-   "id": "rickon_stark",
-   "imie": "Rickon Stark",
-   "rola": "najmlodszy brat Krola (~4-5l), w Winterfell",
-   "zawod": "dziki po stratach (ojciec/wojna/rozdzielenie); wilkor Kudlacz (najdzikszy z miotu)",
-   "nastawienie_do_gracza": "dziki/nieufny jak zwierze; Symon nie napieral/nie balo sie -> Kudlacz przestal warczec, 'ty jesteś ten co pisze' (poczatek, nie oswojenie)",
-   "_dziennik_nota": 10
-  },
-  {
    "id": "lekarz_braavijski_fosy",
    "imie": "Lekarz z Braavos (werbowany przez Nestę)",
    "rola": "Braawijski medyk - preceptor Lyry + praca z Niną w lecznicy Fosy",
@@ -2858,37 +2876,6 @@
    "_dziennik_nota": 1
   },
   {
-   "id": "gawen_skarbnik",
-   "imie": "mistrz Gawen (Skarbnik Korony)",
-   "rola": "SKARBNIK POLNOCY (rada funkcyjna, od 299-08-15) - fiskus Korony (mennica WILK/clo/danina/skarb Kasy3); pod firewallem niezaleznosci od Manderlych",
-   "_dziennik_nota": 18
-  },
-  {
-   "id": "rodwell_dyrektor_domu_starkow",
-   "imie": "mistrz Rodwell (Dyrektor Domu Starkow)",
-   "rola": "DYREKTOR DOMU STARKOW (od 299-08-15) - operator silnika dochodu domeny Korony (Kasa3); lojalnosc zbieznego interesu, tendowana",
-   "_dziennik_nota": 9
-  },
-  {
-   "id": "ser_alyn_zastepca",
-   "imie": "Ser Alyn",
-   "_dziennik_nota": 6
-  },
-  {
-   "id": "stara_niania",
-   "imie": "Stara Niania",
-   "_dziennik_nota": 8
-  },
-  {
-   "id": "ottar_faktor_zbozowy",
-   "imie": "Ottar",
-   "rola": "faktor zbozowy - cut-out klikі spekulacyjnej, od 299-09-01 rozliczony z Korona",
-   "lokacja": "Kamienny Brod (domena Starkow, dzien drogi na poludnie od Winterfell)",
-   "nastawienie": 70,
-   "zaufanie": 45,
-   "_dziennik_nota": 6
-  },
-  {
    "id": "rachmistrz_malwyn",
    "imie": "Malwyn (rachmistrz objazdowy)",
    "rola": "SZCZEBEL WYZEJ w siatce spekulacyjnej - jedyny znany czlowiek, ktory zna droge w gore",
@@ -2900,7 +2887,8 @@
   {
    "imie": "Oswyn Miarka",
    "rola": "Pierwszy burmistrz Zimowego Miasta (od 299-09-10); handlarz zbozem z targu",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "id": "Oswyn Miarka"
   }
  ],
  "orbita": [
@@ -3050,7 +3038,8 @@
    "zagrozenie": "pytal za duzo o kantor/wozy/nieobecnosc rannego Dagona = MIERZYL DOM, nie szukal roboty; mozliwy zlodziej wietrzacy bogaty prog albo naslany blizej domu Tally. Brak dowodu, samo przeczucie Symona (czytanie ludzi 9) i Garricka.",
    "historia": [
     "298-09-01 Dzien Bilansu: jedyny chetny w suchym wojennym rynku Garricka; gladki, pytal o kantor/wozy/rannego straznika; odrzucony przez Symona i Garricka."
-   ]
+   ],
+   "id": "Corliss"
   },
   {
    "id": "ser_wendel_manderly",
@@ -3112,16 +3101,15 @@
  ],
  "poza_scena": [
   {
-   "id": "howland_reed",
-   "imie": "Lord Howland Reed",
-   "rola": "Lord Przesmyku, krannogman, najwierniejszy przyjaciel Neda; SOJUSZNIK wolnej Polnocy (od 299-06-27, na warunkach krannogow)",
-   "_dziennik_nota": 8
-  },
-  {
-   "id": "wylis_manderly",
-   "imie": "Ser Wylis Manderly",
-   "rola": "Starszy syn i dziedzic lorda Wymana Manderly; prawdopodobnie jeniec Lannisterow (pojmany pod Zielonymi Widlami)",
-   "_dziennik_nota": 8
+   "id": "lord_eddard_stark",
+   "imie": "Eddard Stark",
+   "zawod": "Lord Winterfell, Warden of the North; wkrotce Reka Krola (jedzie na poludnie do Krolewskiej Przystani)",
+   "status": "298-05-19: KROTKA AUDIENCJA (rzut 99, triumf) - Symon jako posel Manderlych oddal slowo lorda Wymana doskonale (wiernosc+danina+nuta STEADFAST 'twoj port solidny za plecami gdy jedziesz na poludnie') + szczere wspolczucie za syna Brana (czlowiek Wiary co sie modlil). Ned (uosobienie Polnocy, w zalobie/odjezdzajacy) ZJEDNANY - prostota+brak kadzenia+szczerosc pekly jego rezerwe. Slowa Neda: 'Lord Wyman dobrze jest sluzony; uczciwy czlowiek z glowa, takich Polnoc pamieta; Stark nie zapomni wiernosci Manderlych; nos imie godnie, ZAJDZIESZ DALEJ NIZ MYSLISZ'.",
+   "nastawienie_do_gracza": 75,
+   "zaufanie": 45,
+   "wie_o_graczu": "posel Manderlych co przywiozl danine czysto+slowo godnie, nie plaszczyl sie; Luwin recza za niego (uczciwy z glowa); szczere wspolczucie za Brana poruszylo go. Zapamietal Symona zyczliwie.",
+   "dla_lorda_wymana": "Stark: 'nie zapomni wiernosci Manderlych' - wiez umocniona; kazal przekazac Wymanowi ze slyszal jego slowo. Symon wykonal poselstwo bez skazy.",
+   "_dziennik_nota": 2
   },
   {
    "id": "vargo_hoat",
@@ -3134,30 +3122,6 @@
    "imie": "Walder Frey (Lord Przeprawy, Bliznaki)",
    "rola": "Rod Freyow (Bliznieta) - hedżer czytelny/administrowalny",
    "_dziennik_nota": 6
-  },
-  {
-   "id": "garrick",
-   "imie": "Garrick",
-   "rola": "Czlowiek Symona od domu handlowego/sieci w Bialym Porcie",
-   "_dziennik_nota": 2
-  },
-  {
-   "id": "donnel",
-   "imie": "Donnel (murator)",
-   "rola": "Stary mistrz-murator Bialego Portu (stawial Bialy Mur/Nowy Zamek); nauczyciel geometrii Symona",
-   "_dziennik_nota": 2
-  },
-  {
-   "id": "nesta",
-   "imie": "Nesta",
-   "rola": "Wspolniczka/pryncypal kantoru w Bialym Porcie; braawijskie koneksje - lacznik do Zelaznego Banku",
-   "_dziennik_nota": 6
-  },
-  {
-   "id": "medger_cerwyn",
-   "imie": "Lord Medger Cerwyn",
-   "rola": "JUSTYCJARIUSZ POLNOCY (od 299-06-09) - najwyzsze apelacje ponad drabina lordow",
-   "_dziennik_nota": 16
   },
   {
    "id": "maester_weylin",

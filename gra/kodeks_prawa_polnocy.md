@@ -349,9 +349,155 @@ Tak samo jak przy komorze celnej, przy audycie domu i przy daninie.
 
 ---
 
-## OTWARTE — do rozstrzygnięcia z Justycjariuszem
+---
 
-**Punkt III.** *„Dla swoich"* jest workiem, w który może wejść wszystko: lord z tysiącem korców zawsze znajdzie tysiąc gąb. Miara na głowę czy termin — do rozstrzygnięcia.
+# POPRAWKI Z 299-09-08 — DOMKNIĘCIE PUNKTU „DLA SWOICH"
+### Winterfell, mała sala rady, zamieć · Justycjariusz **Medger Cerwyn**, **Bran Stark**, Namiestnik
+
+_Siedem dziur, siedem łat. Cztery zarzuty przywiózł Justycjariusz z Castle Cerwyn w zamieć, żeby nie pisać ich krukiem; trzy przyniósł Bran na tabliczce. **Wszystkie siedem trafione.**_
+
+---
+
+## ŁATA I — KORONA NIE LICZY GŁÓW. PAN LICZY SWOJE SAM.
+
+Miary na głowę nie będzie, bo **żeby wyliczyć miarę na głowę, ktoś musiałby policzyć głowy — a to jest spis.** Spis robił Żelazny Tron, zanim opodatkował, i żaden północny lord nie wpuści pisarza Korony między swoje chałupy. **I będzie miał rację.**
+
+> ### Pan sam podaje swoją liczbę i sam ją podpisuje. Korona jej nie sprawdza — Korona ją **przechowuje**.
+
+Zgłoszenie „dla swoich" brzmi: **tylu ludzi, tyle koni, tyle korców** — słowem zgłaszającego, pod jego pieczęcią.
+
+Rękojmią nie jest urzędnik. Rękojmią jest **podpis** — a fałszywe oświadczenie jest już występkiem od precedensu Morna. **Nie ma czego audytować. Jest podpis.**
+
+---
+
+## ŁATA II — KSIĘGA DWOISTA *(poprawka Cerwyna, wpisana jego imieniem)*
+
+Justycjariusz miał rację i zarzut jest przyjęty w całości: **ile lord trzyma zboża dla siebie, tyle chorągwi utrzyma w polu i tak długo.** Liczba zgłoszona jawnie nie jest arytmetyką, tylko **mapą wojenną**, którą Korona sama wywiesza na słupie dla Dreadfortu i dla południa.
+
+Dlatego księga jest **dwoista**:
+
+| | **KSIĘGA JAWNA** (słup, rynek, każdy) | **KSIĘGA POD PIECZĘCIĄ** (Skarbnik) |
+|---|---|---|
+| kto zgłosił | **tak** | tak |
+| gdzie | **tak** | tak |
+| kiedy | **tak** | tak |
+| rodzaj (*dla swoich / na sprzedaż*) | **tak** | tak |
+| **ile** | **NIE** | **tak** |
+
+### Trzy łaty na słabość, którą Justycjariusz wskazał sam
+
+Cerwyn powiedział: *kto trzyma liczbę w tajemnicy, tego podejrzewają o wszystko.* Prawda — **jeśli tajemnica jest przywilejem.** Nie jest.
+
+**1. Nikt nie ogłasza liczby. Nigdy. Wszyscy jednakowo.**
+To nie jest wyjątek, o który się prosi — to jest **kształt księgi**. Nie da się być podejrzanym o skorzystanie z wyjątku, którego nie ma.
+
+**2. Suma jest jawna. Pozycja jest tajna.**
+Skarbnik ogłasza raz do roku **ile zboża zgłoszono na całej Północy** — i osobno dla każdego okręgu. Królestwo ma wiedzieć, **że chleb jest**. Nie ma potrzeby wiedzieć, **czyj**.
+
+> **Jawna jest suma. Tajna jest pozycja.**
+
+**3. Liczba stara przestaje być mapą.**
+Zapis pod pieczęcią otwiera się **po dwóch latach** i przechodzi do księgi jawnej.
+
+> **Liczba, która ma dwa lata, nie jest już mapą. Jest rachunkiem.**
+
+### Kto może zajrzeć pod pieczęć
+
+**Król, Namiestnik, Skarbnik.** Nikt więcej.
+I **każde zajrzenie zapisuje się w księdze** — kto, kiedy, po co. *Zgodnie z regułą zapisu.* Jeśli kiedyś ktoś przeczyta te liczby cudzą ręką, będzie napisane, że przeczytał.
+
+---
+
+## ŁATA III — NIE MA TERMINU. JEST RUBRYKA.
+
+Zarzut przyjęty: prawo, które zabrania sprzedaży przez pół roku, **karze pożar** — a prawo, które karze nieszczęście, ludzie omijają, a potem omijają całą resztę.
+
+**Terminu nie będzie żadnego.** Sprzedawać wolno zawsze.
+
+> ### „Dla swoich" nie jest obietnicą, że nie sprzedasz. Jest oświadczeniem, że to zboże **nie stoi na rynku**.
+> **W chwili, gdy staje na rynku, jest na rynku.**
+
+Kto sprzedaje ze składu zgłoszonego jako „dla swoich": **melduje rządcy przed sprzedażą, a zboże przechodzi do rubryki „na sprzedaż" i wchodzi pod pierwokup Korony po cenie ogłoszonej.**
+
+**Bez kary. Bez zezwolenia. Bez tłumaczenia się z powodu.** Zmienia się rubryka, nie los człowieka. Ten, komu spłonęła wieś, sprzeda w tym samym tygodniu — tylko sprzeda jako sprzedający.
+
+**Tabela wyżej czyta się odtąd tak:** *„dla swoich" jest nietykalne **dopóki jest dla swoich**._
+
+---
+
+## ŁATA IV — RODZAJ IDZIE ZA ZBOŻEM, NIE ZA CZŁOWIEKIEM
+
+Uchyłka Justycjariusza: *nie sprzedaję — daję kmieciowi, kmieć sprzedaje.* Literą się jej nie domknie. Domyka się ją **opłacalnością**.
+
+**1. Wyjście ze składu jest zdarzeniem do wpisu.** Zboże zgłoszone, które opuszcza ręce zgłaszającego — sprzedane, darowane, oddane, wszystko jedno — wpisuje się: **komu, ile, z jakiego tytułu.** Nie jest zakazane. Jest zapisane.
+
+**2. Zboże niesie swój rodzaj ze sobą.** Kto bierze zboże zgłoszone jako „dla swoich", bierze je **w tym rodzaju**. Sprzedając je, sprzedaje zboże objęte pierwokupem — a fałsz oświadczenia wraca do tego, kto rubrykę wypisał, nie do tego, kto niósł worek.
+
+> **Rodzaj idzie za zbożem, nie za człowiekiem.**
+
+**3. I rzecz, której żadna litera nie zastąpi:** kmieć, który nagle sprzedaje trzysta korców, **jest widoczny dla całej wsi.** Nie stać go na to, żeby wieś nie zauważyła. Prawo ma tu tylko dać wsi słowo na to, co i tak widzi.
+
+---
+
+## ŁATA V — TAM, GDZIE NIE MA RĘKI, NIE MA OBOWIĄZKU — ALE JEST OCHRONA
+### *(zarzut Brana Starka, wpisany jego imieniem)*
+
+*Kto odczyta prawo tam, gdzie nie ma rządcy? W klanach nie ma rządców.*
+
+Odpowiedź jest uczciwa i niewygodna: **w klanach to prawo nie obowiązuje.** Nie da się nałożyć obowiązku zgłoszenia tam, gdzie nie ma komu zgłoszenia przyjąć, a udawanie, że się da, robi z prawa fikcję na pierwszej mili.
+
+> **Korona nie nakłada obowiązku tam, gdzie nie ma komu go przyjąć — ale nie odmawia ochrony temu, kto się sam zgłosi.**
+
+Klan, który **chce** ochrony z filaru II (*zgłoszone jest nietykalne*), zgłasza się dobrowolnie najbliższemu rządcy Korony i **ochronę dostaje na równi z lordem.**
+Osric Kamień wiezie to ze sobą wraz z kolumną zbożową — **nie jako prawo, lecz jako ofertę.**
+
+---
+
+## ŁATA VI — TAK, TO PRAWO DOTYCZY TYLKO BOGATYCH *(zarzut Brana)*
+
+*Czy kmieć zgłasza swoje dwa korce?* **Nie.** Miara wynosi dwieście korców i kmieć jej nie dosięgnie przez całe życie.
+
+Nie ukrywa się tego i nie tłumaczy — **mówi się to pierwszym zdaniem obwieszczenia:**
+
+> ### To prawo dotyczy tylko bogatych. Tak ma być.
+> **Ubogi nie zagłodzi królestwa. Nie ma czym.**
+
+Zarzut wypowiedziany głośno przez Koronę przestaje być zarzutem w cudzych ustach.
+
+---
+
+## ŁATA VII — SKŁAD TO NIE BUDYNEK. SKŁAD TO ILOŚĆ W JEDNYM RĘKU.
+### *(zarzut Brana — „czyj jest skład, który jedzie na wozie?")*
+
+Miara była pisana **na właściciela, nie na budynek**, żeby czterysta korców nie rozjechało się na trzy stodoły po sto dziewięćdziesiąt dziewięć. Rozciąga się to wprost:
+
+**Liczy się wszystko, co twoje:** w stodole, w spichlerzu, **na wozie, na barce, w cudzym składzie na twój rachunek.**
+
+**Skład na cudzym gruncie liczy się właścicielowi ZBOŻA, nie właścicielowi budynku.** Inaczej wystarczy wynająć stodołę od obcego i skład staje się jego.
+
+### List przewozowy
+
+Zboże ponad miarę **w drodze** wiezie ze sobą kartkę: **czyje, ile, skąd, dokąd, w jakim rodzaju.** Okazuje się ją na żądanie każdej komory celnej i każdego rządcy.
+
+**Zboże ponad miarę w drodze bez listu = skład niezgłoszony**, ze skutkiem z filaru III (domniemanie, ciężar dowodu na trzymającym).
+
+> **Wóz jest składem, który się porusza.**
+
+*Uwaga praktyczna: to jest pierwszy przepis, pod który podpadają sześć wozów Bennarda spod rozwidlenia. Dotąd nie były niczyim składem, bo nie stały nigdzie.*
+
+---
+
+## PODSUMOWANIE SIEDMIU ŁAT
+
+| # | dziura | łata |
+|---|---|---|
+| I | miara na głowę = spis | **pan podaje swoją liczbę sam i podpisuje** |
+| II | jawna liczba = mapa wojenna | **księga dwoista; jawna suma, tajna pozycja; otwarcie po dwóch latach** |
+| III | termin karze nieszczęście | **żadnego terminu — zmiana rubryki i pierwokup** |
+| IV | daję kmieciowi, kmieć sprzedaje | **rodzaj idzie za zbożem; wyjście ze składu do wpisu** |
+| V | nie ma rządcy w klanach | **brak obowiązku, dobrowolna ochrona** |
+| VI | prawo tylko dla bogatych | **powiedziane pierwszym zdaniem obwieszczenia** |
+| VII | skład na wozie | **skład = ilość w jednym ręku; list przewozowy** |
 
 ---
 

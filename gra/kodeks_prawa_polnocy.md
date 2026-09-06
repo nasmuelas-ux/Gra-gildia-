@@ -567,3 +567,43 @@ Ogłoszona cena Korony wyznacza **podłogę i sufit dla całego prywatnego przew
 ## GRANICA KAS
 
 Przewóz dla Korony idzie **Kasą III** — osobna księga, osobna skrzynia, osobna pieczęć. **Ani miedziak z tego nie wchodzi do Kasy I.**
+
+---
+
+# PRECEDENS WYBORCZY — GŁOSOWANIE W ZAMIECI
+### 299-09-09, Winterfell · pierwsze wybory w dziejach Północy, druga doba zawiei
+
+> ### **PRZESZKODA PRZYRODZONA NIE PRZERYWA GŁOSOWANIA — PRZEDŁUŻA JE.**
+> ### **ALE OGŁASZA SIĘ TO PRZED, NIE PO.**
+
+---
+
+## CZEGO SIĘ NIE ROBI
+
+Namiestnik **nie przesunął dnia wyborów** — choć mógł i choć proszono go o to w dobrej wierze.
+
+**Bo kto raz przesunął wybory, ten może je przesuwać zawsze.** Precedensem stałoby się nie to, że była zamieć, lecz to, że **Korona decyduje, kiedy miasto głosuje.** Tak umierają wybory — nie od zakazu, tylko od życzliwości.
+
+> **Nie przesuwa się dnia. Przedłuża się drzwi.**
+
+---
+
+## SZEŚĆ ROZSTRZYGNIĘĆ
+
+**I. Dzień zostaje.** Karta wyznaczyła dzień. Głosowanie **zaczyna się dziś** — i to wypełnia Kartę.
+
+**II. Karta nie mówi, jak długo trwa — a to jest luka, nie zakaz.** Lukę wypełnia się raz, jawnie i **z góry**: urna stoi otwarta dziś i przez następne dni, a zamyka się **po pełnym dniu pogody, liczonym od ustania zamieci.** Termin końca ogłoszony **przed** głosowaniem.
+
+**III. Nie ogłasza tego Namiestnik.** Wykładnia jest jego — **ogłaszają ci, którym Karta to powierzyła.** Namiestnik podpisuje się jako **świadek i rękojmia**, nie jako decydent. Zimowe Miasto jest domeną Starków; **Namiestnik nie jest tu panem, tylko gwarantem.** Świadkowie: dyrektor Domu Starków, dowódca garnizonu, maester przy zapisie.
+
+**IV. Żadnego progu frekwencji.** Próg jest zaproszeniem do bojkotu: **kto boi się przegrać, każe swoim zostać w domu — i wybory padają same, bez jednego kłamstwa.**
+
+Zamiast progu — **jawna liczba.** Ogłasza się, **ilu głosowało i ilu było uprawnionych.** Obie liczby na słupie.
+
+> **Legitymację daje liczba ogłoszona, nie próg osiągnięty.**
+
+Jeśli przyjdzie dwunastu — będzie napisane, że przyszło dwunastu, **i miasto samo będzie wiedziało, ile ten burmistrz waży.**
+
+**V. Korona udrażnia drogę, nie wozi głosujących.** Ludzie z zamku odśnieżają i obsznurowują drogę do miejsca głosowania, stawiają ogień i ciepłą izbę — **dla wszystkich jednakowo.** Wożenie ludzi do urny byłoby kupowaniem głosów. **Odśnieżenie ulicy nie jest.**
+
+**VI. Osłona przed samym przedłużeniem.** Im dłużej trwa głosowanie, tym więcej czasu na nacisk i przekupstwo. Dlatego: koniec twardy i ogłoszony z góry, **urna pieczętowana każdego wieczoru**, a **liczenie raz i dopiero na końcu** — przy ludziach każdego z kandydatów.

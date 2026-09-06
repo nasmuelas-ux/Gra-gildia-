@@ -140,3 +140,117 @@ Ta taryfa dotyka mnie osobiście **w obie strony** i mówię o tym pierwszy:
 **3. Nie jest wieczna.** Klasa A i klasa 1 są **stanem zimy**. Ogłasza się je **na rok**, a po żniwach przegląda razem z ceną zboża.
 
 > **Kto ogłasza cło na zawsze, ten kłamie albo nie rozumie, co ogłasza.**
+
+---
+
+# DODATEK — POBÓR CŁA RĘKĄ LENNA, MIARA RĘKĄ KORONY
+## Projekt Namiestnika, 299-09-12 · na Radę po powrocie Króla
+
+> **Rzecz, którą trzeba powiedzieć pierwszym zdaniem: to, co proponuję, nazywa się w świecie DZIERŻAWĄ PODATKU, i wszędzie, gdzie ją wprowadzono na stałe, skończyła się tak samo — państwo traciło najpierw dochód, potem urząd, a na końcu prawo do pytania.**
+> **Proponuję ją mimo to — ale jako MOST, nie jako dom.**
+
+---
+
+# I. DLACZEGO TAK — trzy powody, wszystkie twarde
+
+**1 · TO JUŻ TAK DZIAŁA I DZIAŁA DOBRZE.** Komora Fosy pobiera cło Korony ręką lenna od sierpnia. Formalizowanie rzeczy, która chodzi, jest tańsze niż wymyślanie drugiej.
+
+**2 · ARYTMETYKA KADR.** Korona nie obsadzi wszystkich komór własnymi ludźmi ani w tym roku, ani w następnym. **Lord ma ludzi przy swojej bramie dzisiaj.** Wybór nie stoi między poborem lenna a poborem Korony — stoi między poborem lenna **a żadnym**.
+
+**3 · MIEJSCOWA WIEDZA.** Człowiek lenna zna woźniców, zna drogi, wie, kto kłamie. Obcy z pieczęcią uczy się tego trzy lata.
+
+---
+
+# II. DLACZEGO OSTROŻNIE — cztery niebezpieczeństwa, i żadne nie jest teoretyczne
+
+**1 · ZLECENIE ZAMIENIA SIĘ W PRAWO.** Nie dekretem — **zwyczajem.** Po dwóch pokoleniach nikt nie pamięta, że to była umowa, i syn poborcy mówi „u nas się to zawsze pobierało". *Zwyczaj wiąże mocniej niż wola pana — sam to zapisałem o własnym lennie.*
+
+**2 · ODDAJEMY JEDYNY DOCHÓD, KTÓRY ROŚNIE.** Danina jest stała. **Cło skaluje się z handlem** — sam to wpisałem 09-04. Oddając pobór wielkim rodom, Korona zamraża swój udział w przyszłości królestwa na wysokości dziś umówionej stawki.
+
+**3 · REWIZOR SAM NIE WYSTARCZY.** Rewizor sprawdza księgę — a problem Fosy nazwał Garth: **mierzy się to, co ktoś sam zadeklarował.** Rewizor przyjeżdżający dwa razy do roku zobaczy te same zadeklarowane liczby, tylko później.
+
+**4 · BIAŁY PORT TO NIE FOSA.** Fosa to brama lądowa i grosze. **Biały Port to największy dochód celny królestwa.** Powierzenie poboru Manderly'emu czyni najbogatszego chorągwia także poborcą Korony w jej najbogatszej bramie. To nie jest zmiana administracyjna — **to zmiana układu sił w królestwie.**
+
+---
+
+# III. ROZSTRZYGNIĘCIE — I ONO JEST CAŁYM POMYSŁEM
+
+> ## KORONA NIE MUSI OBSADZAĆ POBORU. KORONA MUSI OBSADZIĆ MIARĘ.
+> **Pobór to dwudziestu ludzi przy bramie. Miara to JEDEN człowiek z własną księgą.**
+> Fach i księgi nigdy w jednej ręce: **lenno daje fach, Korona trzyma księgę.**
+
+---
+
+# IV. DZIEWIĘĆ POPRAWEK
+
+## 1 · ZLECENIE, NIGDY PRZYWILEJ
+Na czas oznaczony, na piśmie, odnawia **wyłącznie Król**. **Wygasa ze śmiercią lorda** — dziedzic nie dziedziczy, może się ubiegać.
+> **Zlecenie, które przechodzi na syna, nie jest zleceniem. Jest lennem.**
+
+## 2 · STAWKA, NIGDY UDZIAŁ
+Lord bierze **z góry ustaloną zapłatę za robotę** — nigdy części tego, co zbierze.
+> **Udział w cle czyni lorda stronnikiem WYSOKIEGO cła — a wtedy taryfę pisze ten, kto z niej żyje.**
+Zapłata jest **ceną usługi**, więc nie ma czego audytować: *jest cena.*
+
+## 3 · KONTROLA RÓWNOLEGŁA — rzecz, której dotąd nie było
+Przy każdej komorze **JEDEN człowiek Korony**, który **niczego nie pobiera i niczego nie rozstrzyga.** Jego jedyna robota: **zapisywać we własnej księdze, co przeszło** — w tej samej chwili, co ludzie lenna, **i nie porównując z nimi zapisów.**
+
+> **Dwie księgi pisane jednocześnie przez dwie ręce, które się nie umawiają. Różnica między nimi JEST ustaleniem.**
+> To nie jest audyt. **Audyt sprawdza, czy księga zgadza się ze sobą. To sprawdza, czy księga zgadza się ze ŚWIATEM.**
+
+**Koszt: jeden człowiek na komorę.** Tyle Korona uniesie od zaraz.
+
+## 4 · TRZY STOPNIE SPRAWDZANIA
+| | kiedy | kto |
+|---|---|---|
+| rewizja ksiąg | na stały termin, **przewidywalna** | pion rewizji |
+| rewizja w terenie | **bez zapowiedzi** | pion rewizji |
+| **kontrola równoległa** | **codziennie, na miejscu** | człowiek Korony przy komorze |
+
+*Rewizor odpowiada Królowi — nie Skarbnikowi, którego księgi sprawdza, i nie Namiestnikowi, którego lenno pobiera.*
+
+## 5 · DWIE KSIĘGI, DWIE SKRZYNIE, DWIE PIECZĘCIE — WSZĘDZIE
+Grosz Korony **nie nocuje w skarbcu lenna.** Obowiązuje na Fosie od sierpnia; rozciągnąć na wszystkie komory bez wyjątku.
+
+## 6 · POBIERA SIĘ WYŁĄCZNIE STAWKĘ OGŁOSZONĄ
+Ludzie lenna biorą **to i tylko to, co Skarbnik ogłosił.**
+> **Poborca, który ustala stawkę, przestaje być poborcą i staje się panem myta.**
+
+## 7 · WYNIK KAŻDEJ KOMORY JAWNY, RAZ DO ROKU
+Ogłasza się **osobno dla każdej komory: ile zebrano i ile zapłacono lordowi za pobór.**
+> Lord, którego brama daje połowę tego, co brama sąsiada przy podobnym ruchu, **będzie o to pytany przez równych sobie, nie przez Koronę.** *Jawność jako broń.*
+
+## 8 · ZAKAZ ŁĄCZENIA
+Kto pobiera, **nie handluje towarem, który przez jego komorę przechodzi** — a jeśli handluje, **wykłada to na piśmie przed objęciem zlecenia.**
+
+## 9 · ODEBRANIE W JEDEN DZIEŃ
+Król może wziąć każdą komorę pod zarząd bezpośredni **natychmiast, bez podania przyczyny**, płacąc resztę umówionej stawki.
+> **Umowa, której nie da się zerwać, nie jest umową. Jest nadaniem.**
+
+---
+
+# V. WYGAŚNIĘCIE — bez tego cały dodatek jest oddaniem cła lordom
+
+**To jest rozwiązanie na czas, w którym Korona nie ma ludzi. Ma umrzeć razem z tym czasem.**
+
+Co trzy lata Rada przegląda listę komór i **przejmuje pod zarząd bezpośredni tyle, ile Korona zdoła obsadzić — ZACZYNAJĄC OD NAJWIĘKSZYCH.**
+
+> **Najpierw Biały Port. Nie na końcu — na początku.**
+> Bo tam jest pieniądz, tam jest ryzyko i tam najszybciej zlecenie zamieni się w prawo.
+
+Wiąże się to wprost z naborem praktykantów: **każdy rocznik wyszkolonych celników to jedna komora odzyskana.**
+
+---
+
+# VI. I RZECZ, KTÓREJ NIE MOGĘ NIE NAPISAĆ
+
+**Ten projekt oddaje pobór cła Korony między innymi MOJEMU WŁASNEMU LENNU, w bramie lądowej królestwa, i pisze go Namiestnik.**
+
+Dlatego:
+
+- **konflikt wyłożony pierwszym zdaniem przed Radą**, nie w rozmowie na boku;
+- **pierwsza kontrola równoległa w królestwie staje przy komorze Fosy Cailin** — nie przy cudzej;
+- **pierwsza rewizja w królestwie obejmuje moją księgę** *(prosiłem o to już w sierpniu — teraz to powtarzam na piśmie)*;
+- a **gdy przyjdzie dzień odbierania komór pod zarząd Korony, Fosa idzie w pierwszej trójce, choćby była najmniejsza.**
+
+> **Kto sam pierwszy podaje księgi, przestaje być tematem. Kto pierwszy oddaje bramę, przestaje być podejrzeniem.**

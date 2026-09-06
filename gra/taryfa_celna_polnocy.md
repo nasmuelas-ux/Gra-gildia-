@@ -59,10 +59,26 @@ Skarbnik ogłasza raz do roku, po żniwach — **tym samym pismem, co cenę zbo�
 |---|---|---:|---|
 | **1 — ZAPOROWA** | **żywność trwała** — zboże, mąka, solona ryba i mięso, strączkowe, sól, nasiona siewne | **zaporowa** *(dziś ok. połowy wartości)* | **to jest zamek. Zostaje.** |
 | **2 — ZERO** | futra, skóry, drewno, torf, bursztyn, wełna, wyroby rzemiosła, **papier** | **0%** | ### każdy taki wóz przywozi srebro |
-| **3 — ZAKAZ** | **broń, zbroja, konie bojowe** | *nie cło — zakaz* | trwa wojna |
+| **3 — WYSOKA** | **broń, zbroja, konie bojowe** | **25%** | patrz niżej — **cło, nie zakaz** |
 
 > ### Cło wywozowe na wszystko poza żywnością wynosi ZERO — i to nie jest ulga, tylko lek.
 > **Północ nie jest biedna, jest niepłynna. Każdy wywieziony towar niespożywczy wraca monetą, której tu nie ma.**
+
+## POPRAWKA DO KLASY 3 — CŁO, NIE ZAKAZ
+
+**Wojna się nie toczy.** Nie ma pokoju z Żelaznym Tronem i nie ma jego uznania — **ale nie ma też wojska w polu.** Zakaz oparty na słowach *„trwa wojna"* byłby prawem opartym na nieprawdzie, a takie prawo obalają w pierwszym sporze.
+
+**Broń, zbroja i konie bojowe wychodzą za cłem dwudziestu pięciu od sta.**
+
+I to nie jest ustępstwo — **to jest lepsze narzędzie:**
+
+> ### Zakaz czyni ten handel NIEWIDZIALNYM. Cło czyni go WIDZIALNYM I PŁATNYM.
+
+Kto sprzedaje północną stal za granicę, **staje w komorze, wpisuje się do księgi i płaci.** Korona ma z tego trzy rzeczy naraz: **pieniądz, zapis kto kupuje północną broń, oraz kowali, którzy mają komu sprzedawać.**
+
+*Ta sama zasada, co przy składach zboża: prawo nie pyta, ile masz — pyta, czy wiadomo, że masz.*
+
+**Zakaz zostaje w taryfie jako gotowe miejsce:** ogłasza go Król **jednym słowem, w dniu, w którym wojna wróci** — i wtedy nie trzeba pisać niczego nowego.
 
 ---
 

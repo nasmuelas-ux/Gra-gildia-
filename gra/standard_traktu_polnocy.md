@@ -563,3 +563,103 @@ A trakt jest **najlepszym zabezpieczeniem, jakie istnieje**: nie zbiega, nie gin
 > ## I OSTATNIE ZDANIE POD ADRESEM TYCH DZIEWIĘĆDZIESIĘCIU TYSIĘCY
 > **Robert kupił za nie tydzień. My za jedną szesnastą tego kupujemy myto, które będzie płacić naszym prawnukom.**
 > **Porównuje się nie sumy. Porównuje się zwrot.**
+
+---
+
+# WYCENA OSTATECZNA — 299-09-09, późna noc
+### Po poprawionym cenniku, poprawionej podstawie i poprawionej geometrii. Trzeci rachunek i ostatni.
+
+## TRZY PRZEDSIĘWZIĘCIA, OSOBNO
+
+### 1 · ODNOGA — Trakt Królewski → Bliźniaki *(dług Korony)*
+
+| | |
+|---|---:|
+| ~30 mil klasy I, materiał częściowo wożony *(7–11)* | **210 – 330** |
+| 2 mosty drewniane, 4 przepusty, 1 wieża, 30 słupów | **50 – 100** |
+| **RAZEM** | **260 – 430 smoków** · 2 sezony |
+| **z tego MONETĄ** *(obca robocizna — płacimy srebrem)* | **~160 – 300** |
+
+### 2 · GROBLA PRZEZ PRZESMYK *(brama Północy)*
+
+| | |
+|---|---:|
+| ~60 mil klasy III, pale i faszyna **na miejscu** *(35–50)* | **2 100 – 3 000** |
+| 6 przęseł zwodzonych z wieżami, mechanizmy, 2 składy, słupy | **300 – 570** |
+| **RAZEM** | **2 400 – 3 570 smoków** · 5–7 lat |
+| **z tego MONETĄ** *(reszta: czardrzewo, torf, chleb, ręce lenna)* | **~720 – 1 070**, czyli **120–180 rocznie** |
+
+### 3 · GAŁĄŹ DO RIVERRUN *(połączenie traktów)*
+
+| | |
+|---|---:|
+| ~70 mil klasy I *(7–11)* | **490 – 770** |
+| ~30 mil klasy II *(15–25)* | **450 – 750** |
+| most kamienny, 3 drewniane, 20 przepustów, 2 wieże, 3 składy, słupy | **210 – 400** |
+| **RAZEM** | **1 150 – 1 920 smoków** · 4–6 lat |
+| **z tego MONETĄ** | **~700 – 1 300**, czyli **150–250 rocznie** |
+
+---
+
+## SUMA
+
+| | |
+|---|---:|
+| **Wszystkie trzy, wartość dzieła** | **3 810 – 5 920 smoków** |
+| **Wszystkie trzy, w MONECIE** | **1 580 – 2 670 smoków** |
+| **Roczny ciężar monetarny przy dziesięciu latach** | ### 160 – 270 smoków rocznie |
+
+**Przy dochodzie Korony 8 000–20 000 w normalnym roku — jedna do trzech setnych.**
+**Przy dzisiejszym, okaleczonym wojną 3 000–6 000 — trzy do dziewięciu setnych.**
+
+> ### ODWOŁUJĘ WNIOSEK Z WIECZORA PO RAZ DRUGI.
+> **Trzy przedsięwzięcia MOGĄ iść równolegle. Pieniądz nie jest wąskim gardłem.**
+
+---
+
+## CO JEST WĄSKIM GARDŁEM
+
+**Ręce i pora roku.**
+
+Na Przesmyku robi się część roku — mróz zamyka bagno, roztopy je otwierają, latem żre komar. Na czoło grobli nie wstawi się dowolnej liczby ludzi: **bije się tyle pali, ile stanie kafarów.**
+
+> ### Terminu nie wyznacza sakiewka. Wyznacza go bagno.
+
+---
+
+## KTÓRY Z NICH SIĘ ZWRACA
+
+| | zwrot |
+|---|---|
+| **Odnoga** | **żaden w monecie** — zwraca się sojuszem |
+| **Riverrun** | **żaden w monecie** — myto zostaje panom Dorzecza; kupujemy przepływ |
+| **Grobla** | ### jedyna, która się zwraca |
+
+Myto Fosy to dziś rzędu **150–350 smoków rocznie**. Grobla przejezdna cały rok **podwaja lub potraja ruch** → **przyrost 200–600 rocznie.**
+
+Wkład monetarny Korony w groblę: **720–1 070.** Przyjęta zasada mówi, że **cały przyrost idzie do Korony, aż odzyska wkład.**
+
+> ### Korona wychodzi na swoje w dwa do czterech lat od otwarcia grobli.
+> **Z trzech przedsięwzięć jedno płaci za siebie samo. Dwa płaci się sojuszem — i trzeba to nazwać wprost, a nie udawać, że to inwestycje.**
+
+---
+
+## STĄD NOWA KOLEJNOŚĆ — I JEST INNA NIŻ WIECZOREM
+
+**1. ODNOGA — natychmiast.** Nie dlatego, że pierwsza w hierarchii, tylko dlatego, że **przy 260–430 smokach to nie jest przedsięwzięcie, tylko pozycja w rocznym rachunku.** Dług honorowy zamyka się jedną linijką.
+
+**2. GROBLA — równolegle, sfinansowana pod własne myto.** Jedyna, która się spłaca, więc jedyna, którą wolno budować za pożyczone.
+
+**3. RIVERRUN — z bieżącego dochodu, powoli, przez sześć lat.** Nie ma zwrotu, więc nie zaciąga się na to długu.
+
+---
+
+## I GRANICA, KTÓRĄ SAM SOBIE STAWIAM
+
+Dom Tally oferował 150–200 smoków rocznie. **Moneta potrzebna na groblę to 120–180 rocznie.**
+
+> **Czyli mógłbym opłacić bramę Północy sam. I dlatego nie wolno mi tego zrobić.**
+
+**Udział Domu Tally nie może przekroczyć jednej trzeciej wkładu monetarnego — wpisane w uchwałę, nie w moje dobre chęci.**
+
+> **Korona zawsze płaci większość, bo brama należy do tego, kto za nią zapłacił.**

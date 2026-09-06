@@ -769,3 +769,82 @@ Tyczka, poziomnica, sznur — mila po mili. Ile stoi, ile zapadło, gdzie grunt 
 > **Odnoga: 260–430. Riverrun: 1 150–1 920. Obie policzone rzetelnie.**
 > **Grobla: między trzema a dziewięcioma tysiącami — i każdy, kto poda dziś węższy przedział, zgaduje.**
 > **Dlatego przed Radą nie kładę ceny grobli. Kładę prośbę o pomiar.**
+
+---
+
+# POPRAWKA — TRAKT JEST KORONY. MIERZYMY GO SAMI.
+### 299-09-09, świt
+
+**Trakt Królewski nie należy do Reedów.** Należy do **Korony** — a przez sześćdziesiąt mil biegnie przez **lenno Fosy Cailin**.
+
+> ### Po własnej drodze chodzi się bez pytania.
+
+Krannogowie mieszkają **obok** grobli, nie na niej. Mają wiedzę bezcenną — **o tym, co jest pod nią i obok niej** — i o to można ich zapytać. **Ale nie prosi się o pozwolenie na wejście na własny trakt, a już na pewno nie oddaje się obcym pomiaru bramy własnego królestwa.**
+
+*Gdyby Przesmyk zmierzyli krannogowie, mieliby odtąd udział w tej bramie. Nie dlatego, że są nieuczciwi — dlatego, że tak działa każdy pomiar.*
+
+**List do lorda Reeda zostaje taki, jaki jest.** Jest o Dzieciach Lasu i o Długiej Nocy. **Nie dopisuje się do prośby zlecenia** — prośba przestaje wtedy być prośbą.
+
+---
+
+# ROZKAZ — POMIAR PRZESMYKU
+
+## Kto
+
+**Ludzie Głębokorzenia i ludzie Fosy.**
+
+To pierwsze prawdziwe zlecenie dla **własnego domu wiedzy Północy** — założonego dokładnie po to, żeby nie trzeba było nikogo pytać. **Mistrz Theomore wskazuje ludzi od melioracji i rachunku.** Fosa daje ręce, łodzie, chleb i eskortę z garnizonu **(marszałek Hendry)**.
+
+## Kiedy — i to jest rzecz, której nikt by nie zgadł
+
+> ### Przesmyk mierzy się **ZIMĄ**.
+
+Zamarznięte bagno **da się przejść, obejść i przebić żerdzią.** Latem nie da się ani stanąć, ani zmierzyć głębokości, ani wyjść poza groblę.
+
+> **Mierzy się zimą. Buduje się latem.**
+> Pomiar nie zabiera ani jednego dnia sezonu robót — **wypełnia porę, w której i tak nic się nie buduje.**
+
+**Zaczyna się, gdy tylko zamieć puści i mróz zwiąże grunt.**
+
+## Co się zapisuje — mila po mili, numerowane od Fosy Cailin na południe
+
+Dla **każdej** mili osobno:
+
+1. **Stan grobli** — stoi / osiadła / zapadnięta / nie ma jej wcale
+2. **Ile pali jeszcze trzyma** i na jakiej głębokości
+3. **Gdzie wozy grzęzną naprawdę** — nie gdzie wygląda źle, tylko gdzie stają
+4. **Głębokość i dno** — gdzie trzyma, gdzie jest bez dna
+5. **Czy dopłynie tratwa z kamieniem** — i jak blisko czoła robót
+6. **Gdzie da się osadzić przęsło zwodzone** — twardy grunt po obu stronach przerwy
+
+**Ta szósta rubryka jest powodem, dla którego cała reszta ma sens.**
+
+## Koszt
+
+**Kilkunastu ludzi, dwa miesiące, narzędzia i łodzie: 15–30 smoków.**
+
+Wystawia to **lenno Fosy** — ludźmi, chlebem i łodziami, bo to **jego** brama i jego trakt pod nogami. **Rachunek się spisuje i przedkłada Koronie do rozliczenia. Nie daruje się go.**
+
+*Dar tworzy dłużnika. Rachunek tworzy wspólnika.*
+
+## KLAUZULA, KTÓREJ NIE WOLNO POMINĄĆ
+
+Ta księga powie, **gdzie Przesmyk trzyma, a gdzie się zapada** — czyli **którędy da się wejść na Północ i w którym miejscu drogę można przeciąć.**
+
+> ### To nie jest pomiar drogowy. To jest MAPA WOJSKOWA.
+
+Dlatego obowiązuje ją **ta sama zasada, co świeżo spisaną księgę składów zboża:**
+
+- **Księga jawna:** że pomiar wykonano, kiedy, przez kogo, ile mil.
+- **Księga pod pieczęcią u Skarbnika:** wszystko inne.
+- Zaglądają **Król, Namiestnik, Skarbnik** — i **każde zajrzenie się zapisuje.**
+
+---
+
+## I MÓWIĘ TO PIERWSZY, JAK ZAWSZE
+
+**To jest najważniejsza droga mojego życia.** Kończy się przy mojej bramie, karmi moje miasto, którego jeszcze nie ma, i podnosi moje myto od pierwszego dnia.
+
+**Nie udaję, że jestem tu bezstronny. Jestem stroną — i dlatego wszystko, co robię przy tej drodze, robię na piśmie i z liczbą wyjściową ogłoszoną, zanim ruszy pierwszy kafar.**
+
+> ### Kluczowe dla Fosy. Kluczowe dla królestwa. **I to jest ta sama rzecz — dlatego się tego podejmuję.**

@@ -156,3 +156,75 @@ W karcie, przed nadaniem czegokolwiek, **zapisać wprost:**
 
 > ## W JEDNYM ZDANIU DLA RADY
 > **Północ nie potrzebuje wyższych danin. Północ potrzebuje miast — a Korona ma na własnej ziemi więcej miejsca na nie niż ktokolwiek w Westeros.**
+
+---
+
+# UKŁAD PRZYSTANI WILKA — 299-09-09, świt
+### Domknięte przy stole z lordem Medgerem Cerwynem, zanim rozeszła się zamieć
+
+## I. KTO CO WŁOŻYŁ
+
+| | wkład |
+|---|---|
+| **CERWYN** | **grunt** ze swojej ziemi, błogosławieństwo, wspólnik przy baszcie |
+| **MANDERLY** | **budowniczowie i ręce** — Nowy Zamek jako kolebka Głębokorzenia, mistrz-budowniczy, dostęp od morza |
+| **KORONA (Stark)** | **zwierzchność, karta, status portu, Głębokorzeń jako instytucja** — i **od dziś pieniądz** |
+| **DOM TALLY (Kasa 1)** | **pieniądz włożony dotychczas** — do rozliczenia, **nie do zamiany na udział** |
+
+## II. TRZY ROZSTRZYGNIĘCIA
+
+### 1 · KORONA FINANSUJE. NIE JA.
+
+Dotąd budowę niosła **prywatna kiesa Namiestnika.** **To się kończy z dniem dzisiejszym.**
+
+> **Port Korony budowany za prywatne pieniądze urzędnika Korony jest wygodny dokładnie tak długo, jak długo ten urzędnik żyje.** Potem jest sporem.
+
+**Wkład Kasy 1 policzy Skarbnik co do miedziaka, spisze i przedłoży Królowi.** Korona spłaca go z pierwszego dochodu miasta albo z bieżącego skarbu — jak Król uzna.
+
+> ### **Rachunek, nie dar. I nie udział.**
+
+### 2 · MIASTO O UDZIAŁACH, O JEDNYM ZWIERZCHNIKU
+
+**Przystań Wilka jest miastem pańskim–koronnym.** Podlega Koronie: prawo Korony, apelacja do Justycjariusza, cło Korony, mennica Korony.
+
+Ale **dochód z gruntu i regaliów dzieli się między tych, którzy je stworzyli:**
+
+| | udział w dochodzie |
+|---|---:|
+| **KORONA** | **połowa** |
+| **CERWYN** | **ćwierć** |
+| **MANDERLY** | **ćwierć** |
+
+> ### UDZIAŁ W DOCHODZIE TO NIE UDZIAŁ WE WŁADZY.
+> Nikt z udziałowców nie sądzi, nie stanowi, nie obsadza urzędu i **nie stoi przy bramie.**
+
+*Korona trzyma połowę, więc dwaj pozostali razem nie przeważą — a przy tym każdy z nich ma dość, żeby mu zależało.*
+
+### 3 · DZIELI SIĘ DOCHÓD, NIE POBÓR
+
+> **Jedna waga. Jeden pobór. Jedna księga.**
+> **Podział następuje PO policzeniu — nigdy przy bramie.**
+
+Trzech udziałowców przy jednym targu to trzech poborców, trzy wagi i trzy kłótnie w pierwszym tygodniu. **Pobiera Korona. Rozlicza raz do roku. Wypłaca z policzonego.**
+
+## III. CZEGO DOM TALLY NIE BIERZE
+
+**Ani ćwierci, ani ósmej, ani jednego kramu.**
+
+Trzy dni temu odebrałem własnemu domowi budowę grobli, bo **bramy królestwa nie posiada się prywatnie.** Ta sama zasada obowiązuje port królestwa.
+
+> ### **Zbudowałem to za swoje i wychodzę z tego z pokwitowaniem. To jest cały mój udział i tak ma zostać zapisane.**
+
+## IV. CO WYMAGA JESZCZE POTWIERDZENIA
+
+**Lord Wyman Manderly nie siedzi przy tym stole.** Jego ćwierć jest **ofertą na piśmie**, nie faktem — i pojedzie do Białego Portu **razem z kartą Mistrza Handlu**, która i tak czeka na Króla.
+
+**Cerwyn podpisuje dziś. Manderly potwierdza u siebie. Król zatwierdza po powrocie.**
+
+## V. I RZECZ, KTÓRĄ ZAPISUJE SIĘ OD RAZU, ŻEBY NIE WRACAŁA
+
+**Grunt pod miastem jest odtąd gruntem Korony** — Cerwyn przenosi go formalnie, a w zamian bierze ćwierć dochodu na wieczne czasy.
+
+> **Bo udział w dochodzie dziedziczy się bez sporu. Współwłasność ziemi dzieli się przy każdym pogrzebie.**
+
+Mieszczanin dostaje, jak wszędzie: **wieczystą dzierżawę, nie własność.**

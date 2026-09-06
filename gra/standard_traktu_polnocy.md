@@ -406,3 +406,76 @@ Projekt mówił: **buduje dom Tally.** Prywatnie. Za swoje.
 > ### **Bramy królestwa nie posiada się prywatnie. Buduje ją Korona. Ja dokładam się i nic z tego nie posiadam.**
 
 **III. TULLY, NIE FREY.** Projekt od pierwszego dnia wskazywał partnera na południu poprawnie: **odcinek przez Dorzecze wymaga porozumienia z Tullym, bo biegnie przez obce państwo.** Frey nie jest tu stroną — jest beneficjentem.
+
+---
+
+# PRÓBA LICZB — 299-09-09, wieczór
+### Zanim to zobaczy Król: czy te kwoty w ogóle trzymają się tego świata?
+
+_Przyłożone do liczb, które już mamy w księgach, nie do wyobrażenia._
+
+## CZTERY KOTWICE, KTÓRE ZNAMY NA PEWNO
+
+| co | ile | skąd |
+|---|---:|---|
+| **Danina lenna Fosy Koronie** | **40 smoków / rok** | policzone 299-09-05 |
+| **Kasa 2 Fosy — moneta** | **25–50 smoków / miesiąc** *(300–600/rok)* | korekta III |
+| **Dom Tally — zysk netto** | **200–300 smoków / miesiąc** | spis przedsiębiorstw |
+| **Dom Tally — majątek netto** | **4 000 – 6 000 smoków** | tamże |
+
+## PIERWSZY TEST — OD GÓRY
+
+Jeśli danina lenna wielkości Fosy to **40 smoków rocznie**, a Północ ma kilkadziesiąt liczących się lenn, to danina daje Koronie może **500–1 500 smoków rocznie**. Do tego regalia (mennica, sól, kruszec, las, połów), cła portowe i graniczne, grzywny i demena Starków.
+
+> **Cały dochód monetarny Korony w dobrym roku: rzędu 1 500 – 3 000 smoków.**
+> **A Skarb wyszedł z wojny w gruzach.**
+
+**Wniosek pierwszy, twardy:**
+
+> ### TRZY PRZEDSIĘWZIĘCIA NIE MOGĄ IŚĆ RÓWNOLEGLE.
+> Nakładając się, żądałyby ponad tysiąca smoków rocznie — **połowy wszystkiego, co Korona widzi w monecie.** Kolejność nie jest preferencją. **Jest warunkiem wykonalności.**
+
+**Wniosek drugi:** grobla za **2 400–3 500 smoków** to **majątek najbogatszego domu kupieckiego Północy, wydany na jedno dzieło.** Ta skala jest właściwa — wielkie budowle rujnowały rody, które się na nie porywały. **Ale to musi być rozłożone na siedem lat i nie wolno tego skracać.**
+
+## DRUGI TEST — OD DOŁU. I TU BYŁ BŁĄD.
+
+Dniówka niewykwalifikowana to kilkanaście do dwudziestu miedziaków. Smok ma **dwadzieścia tysięcy miedziaków** — czyli **tysiąc do dwóch tysięcy dniówek.**
+
+Mila prostej drogi z rowami to góra dwa tysiące dniówek. **Więc gdyby liczyć samą robociznę, mila kosztowałaby jednego, może dwa smoki — nie osiem.**
+
+**Skąd zatem reszta?**
+
+> ### Droga nie kosztuje kopania. **Droga kosztuje WOŻENIE KAMIENIA.**
+
+Żwir, kamień łamany, drewno i żelazo trzeba **przywieźć** — a ile kosztuje wożenie, wiemy dokładnie od przedwczoraj, bo sami to ogłosiliśmy.
+
+**Poprawka do cennika: cena mili zależy nie tylko od gruntu, ale od ODLEGŁOŚCI DO KAMIENIOŁOMU.**
+
+| klasa | poprawione |
+|---|---:|
+| **I — twardy**, żwir na miejscu | **5 – 7 smoków** |
+| **I — twardy**, materiał wożony 10+ mil | **10 – 12 smoków** |
+| **II — miękki** | **15 – 25** |
+| **III — bagno**, pale z czardrzewa z Przesmyku na miejscu | **35 – 50** |
+| **wieża strażniczo-celna** | **30 – 60** *(było 60–100 — zawyżone wobec ceny mili)* |
+| **most kamienny** | **30 – 70** |
+
+> **Cena mili = robocizna + materiał + PRZEWÓZ materiału.**
+> Trzeci składnik jest największy i jako jedyny mamy już policzony.
+
+## RACHUNEK PO POPRAWCE
+
+| | |
+|---|---:|
+| **Odnoga do Bliźniaków** (~30 mil kl. I + obiekty) | **230 – 490** |
+| **Gałąź do Riverrun** (~70 kl. I + ~30 kl. II + obiekty) | **950 – 1 890** |
+| **Grobla przez Przesmyk** (~60 kl. III + zwodzone i wieże) | **2 300 – 3 400** |
+| **RAZEM** | **3 500 – 5 800 smoków** |
+
+## I NAJTAŃSZA DŹWIGNIA, JAKĄ MAMY
+
+Skoro największym kosztem jest wożenie — **to każda mila, na której materiał leży pod ręką, jest o połowę tańsza.**
+
+Na Przesmyku leży **czardrzewo i faszyna**. Torf jest nasz. Kamień idzie **tratwami z kamieniołomów na północ od Przesmyku** — wodą, nie wozem.
+
+> **Nie oszczędza się na robotnikach. Oszczędza się na milach, których materiał nie musi przejechać.**

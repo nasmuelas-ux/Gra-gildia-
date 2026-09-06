@@ -4034,6 +4034,11 @@
    "id": "zestawienie_dni_barka_komora_299_09",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "uklad_celny_pobor_lenna_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

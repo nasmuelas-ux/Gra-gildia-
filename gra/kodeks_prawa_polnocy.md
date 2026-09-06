@@ -352,3 +352,72 @@ Tak samo jak przy komorze celnej, przy audycie domu i przy daninie.
 ## OTWARTE — do rozstrzygnięcia z Justycjariuszem
 
 **Punkt III.** *„Dla swoich"* jest workiem, w który może wejść wszystko: lord z tysiącem korców zawsze znajdzie tysiąc gąb. Miara na głowę czy termin — do rozstrzygnięcia.
+
+---
+
+# OBWIESZCZENIE O STAWCE PRZEWOZOWEJ KORONY
+### 299-09-08, Winterfell — podpisane ręką Namiestnika, liczone ręką Gawena
+
+_Nie jest to prawo. Jest to **cena**, którą Korona ogłasza sama o sobie — żeby nikt nie musiał zgadywać, ile kosztuje wożenie jej zboża._
+
+---
+
+## CO SIĘ OGŁASZA
+
+| Pozycja | Miara |
+|---|---|
+| **Wóz** | za korzec za milę |
+| **Sanie** | za korzec za milę |
+| **Barka** | za korzec za milę |
+| **Skład** | za korzec za miesiąc |
+| **Strażnik** | za człowieka za dzień |
+| **Przeładunek** | za korzec |
+
+**Ogłaszana raz. Stała w obrębie roku. Rewidowana po żniwach** — wtedy, kiedy ogłasza się cenę zboża, i tym samym pismem.
+
+---
+
+## TRZY ROZSTRZYGNIĘCIA
+
+### I. STAWKA IDZIE ZA ŚRODKIEM TRANSPORTU, NIE ZA PORĄ ROKU
+
+Zima kosztuje wielokrotność lata — to prawda. Ale osobna stawka „letnia" i „zimowa" daje się naciągać, bo **porę roku się ogłasza, a ogłoszenie da się przesunąć o dwa tygodnie w jedną albo drugą stronę i nikt tego nie udowodni.**
+
+> **Sanie jeżdżą tylko po śniegu. Barka pływa tylko po wodzie.**
+> **Środek transportu JEST porą roku — i widać go z daleka.**
+
+Kto wystawił rachunek za sanie w lipcu, ten się z tego tłumaczy przed każdym, kto go widział.
+
+### II. DOM TALLY WOZI TANIEJ NIŻ DOM STARKÓW
+
+Gawen położył obok siebie księgi obu domów i powiedział to Namiestnikowi przeciw interesowi Namiestnika: **Tally ma barkę, sanny trakt, składy po drodze i faktorów; Dom Starków nie ma.** Jedna uśredniona stawka dawałaby Tally zysk na każdym korcu.
+
+> **„Wasze «bez zysku» przestałoby być prawdą, choć nikt by nie skłamał."**
+
+### III. STAWKA PER TRASA I ŚRODEK — NIE PER DOM
+
+Rozstrzygnięcie podpisane:
+
+> **Dom sprawniejszy nie zarabia więcej NA KORCU. Dom sprawniejszy WOZI WIĘCEJ KORCY.**
+
+Nagroda za sprawność zostaje — ale leży w wolumenie, nie w marży. Kto wozi taniej, ten dostaje więcej ładunku, a nie wyższą cenę za ten sam.
+
+---
+
+## ROZLICZENIE WSTECZNE
+
+Oba domy skupują od **299-09-07**, zanim stawka istniała. Rozliczenie idzie **z zapisów wagowych** — z kwitów wagi w składach, korzec po korcu. **Nie z szacunku.**
+
+---
+
+## SKUTEK, KTÓREGO NIE ZAMIERZANO
+
+Ogłoszona cena Korony wyznacza **podłogę i sufit dla całego prywatnego przewozu na Północy**. Odtąd każdy przewoźnik, który zażąda więcej, tłumaczy się nie przed Koroną, lecz przed swoim klientem: *dlaczego drożej niż Korona?*
+
+**To jest pierwszy cennik transportowy Północy.**
+
+---
+
+## GRANICA KAS
+
+Przewóz dla Korony idzie **Kasą III** — osobna księga, osobna skrzynia, osobna pieczęć. **Ani miedziak z tego nie wchodzi do Kasy I.**

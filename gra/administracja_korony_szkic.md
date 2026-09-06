@@ -310,3 +310,44 @@ W księdze stoi od dawna: *Garth otworzy może trzydzieści na sto zamiast ośmi
 **Każdy z tych urzędów ma p.o., kartę roboty i miejsce w rejestrze kadr.**
 
 > **Nie tworzymy nowych stanowisk — nazywamy te, które już ktoś wykonuje, i dopisujemy im drugą rękę tam, gdzie jedna ręka trzyma i miarę, i pióro.**
+
+---
+
+# CZĘŚĆ VII — HEROLDOWIE
+
+**Pion: KANCELARIA.** *W poselstwie — odpowiadają Królowi wprost.*
+
+> ### Prawo, którego nikt nie odczytał na głos, nie obowiązuje ludzi. Obowiązuje tylko pergamin.
+
+Na Północy, gdzie z dwudziestu ludzi czyta jeden, **słup z obwieszczeniem jest połową roboty.** Drugą połową jest **człowiek, który staje i mówi.**
+
+## Cztery roboty herolda
+
+**1 · OGŁASZANIE.** Prawo, cło, cena zboża, stawka przewozowa, próba, terminy rachunku — **czytane z ganku, w ustalone dni, TYMI SAMYMI SŁOWAMI wszędzie.**
+
+> **Tekst jest jeden. Herold go nie tłumaczy własnymi słowami i nie dodaje od siebie ani zdania.**
+> *Prawo, które w każdej wsi brzmi trochę inaczej, w rok staje się dwudziestoma prawami.*
+
+**2 · POSELSTWO.** Herold niesie słowo Króla tam, gdzie posłać zwykłego jeźdźca byłoby ryzykiem — **także do Dreadfort.**
+
+> ### **Kto podniesie rękę na herolda, odpowiada przed KRÓLEM, nie przed swoim panem.**
+> Bez tej jednej zasady Korona nie ma głosu poza zasięgiem własnej straży.
+
+**3 · KSIĘGA HERBÓW I RODOWODÓW.** Kto jakie znaki nosi, z kogo pochodzi, kto po kim dziedziczy — **w archiwum kancelarii.**
+
+> Nie ozdoba. **To jest dowód w sporze o schedę** — a mamy wakat po Hornwoodach i sukcesję Bliźniaków wiszącą na starym człowieku.
+> *Spór o dziedzictwo rozstrzyga się szybciej, gdy księga stoi PRZED sporem, a nie powstaje w jego trakcie.*
+
+**4 · PIERWSZEŃSTWO I CEREMONIA.** Kto wchodzi pierwszy, kto gdzie siada, kogo się zapowiada.
+
+> Wygląda błaho i błahe nie jest. **Połowa swarów na każdym dworze świata bierze się z miejsca przy stole** — a swar między chorążymi kosztuje Koronę więcej niż cała kancelaria.
+
+## Obsada i tryb
+
+**HEROLD KORONY** *(w kancelarii)* + **dwóch albo trzech HEROLDÓW OBJAZDOWYCH.**
+
+**Jadą z objazdem** — ten sam krąg, który wiezie sąd, rachunek i próbę, **wiezie też głos.**
+
+> ### Jeden objazd, cztery rzeczy: **sądzi · liczy · sprawdza · ogłasza.**
+
+**Koszt: 10 – 20 smoków rocznie**, z końmi i barwami.

@@ -203,3 +203,58 @@ Nie wolno:
 - wprowadzac kary posredniej za czas stracony na prostowanie.
 
 **VOID znaczy VOID.** Wracamy dokladnie do stanu sprzed bledu i gramy dalej z tego miejsca.
+
+---
+
+# ZAPIS STANU — TRYB OD 299-09-11 (refaktor bazy)
+
+**Stan gry przestal byc kilkoma wielkimi JSON-ami. Teraz sa dwie warstwy:**
+
+| warstwa | plik | co tam jest |
+|---|---|---|
+| **metadana** | `gra/*.json` | to, co sie ZMIENIA: status watku, termin, kasa, sytosc, nastawienie NPC |
+| **dziennik** | `gra/db/wpisy.jsonl` | to, co sie DOPISUJE: jedna linia = jedno zdarzenie (zrodlo, klucz, pole, seq, data, tresc) |
+| *(pochodne)* | `gra/db/indeks.sqlite` | cache do szybkich zapytan, w .gitignore, odbudowywany przez `stan.py` |
+
+## JAK DOPISAC ZDARZENIE — NIE przepisuj wielkich plikow
+
+```
+python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','<klucz>','RRR-MM-DD','<tresc>')"
+```
+
+Zrodla: `watki` · `npc` (klucz = `sekcja/id`, np. `na_scenie/bran_tragarz`) · `swiat` · `postac`.
+`db.dopisz` sam podbija licznik `_dziennik_<pole>` w pliku metadanych i **zaklada watek, jesli go nie bylo**.
+
+**Metadane (status, termin, priorytet, kasa, sytosc, zmeczenie) edytuje sie w JSON jak dotad** — sa male i diffowalne.
+
+## JAK CZYTAC
+
+```
+python3 gra/db.py pokaz <klucz> [ile]     ostatnie wpisy watku/NPC
+python3 gra/db.py szukaj <fraza> [ile]    pelnotekstowo po calym dzienniku
+python3 gra/db.py dzien 299-09-11         wszystko z jednego dnia
+python3 gra/db.py otwarte                 watki nierozstrzygniete
+```
+
+> **STAN.md jest INDEKSEM, nie archiwum.** Nie ma w nim historii — jest w dzienniku.
+> Zanim napiszesz "nikt tego nie robil" albo "tej sprawy nie bylo" — **`db.py szukaj`**. To jest ta sama zasada, co zawsze, tylko teraz tania.
+
+## ODWRACALNOSC
+
+Migracja byla **bajtowo odwracalna** i zweryfikowana: 1092 dzienniki, 0 roznic wobec kopii sprzed zmiany.
+`db.zlacz(klucz, pole)` odtwarza dowolny dziennik w dawnej postaci (sklejony `||`).
+Punkt powrotu: tag gita **`przed-refaktorem-299-09-11`**.
+
+## UWAGA O KLUCZACH
+
+| zrodlo | klucz | pole |
+|---|---|---|
+| `watki` | id watku | `nota` (domyslne) |
+| `npc` | `sekcja/id`, np. `na_scenie/bran_tragarz` | `nota` |
+| `swiat` | `swiat` | **nazwa zdarzenia**, np. `inbound_299_09_11` |
+| `postac` | `postac` | **nazwa dzialu**, np. `wiedza` |
+
+Czyli dla swiata i postaci **pole niesie nazwe**, a klucz jest staly:
+```
+db.dopisz('swiat','swiat','299-09-12','tresc...', pole='inbound_299_09_12')
+```

@@ -183,20 +183,60 @@ Tej zimy to znaczy: **grobla od Fosy na południe.** Bo tamtędy idzie zboże.
 
 ---
 
-## SPRAWA PIERWSZA — ODNOGA *(dług Korony, objęty umową)*
+## SPRAWA PIERWSZA — DŁUG KORONY *(objęty umową, budowany OD NOWA wedle standardu)*
 
-**Od istniejącego Traktu Królewskiego do Bliźniaków.** Budowana **od nowa, wedle standardu.**
+Dług ma **dwa człony**, nie jeden.
+
+### A. ODNOGA — Trakt Królewski → Bliźniaki
 
 | | |
 |---|---:|
-| długość | **~30 mil, klasa I** |
-| droga | **240 – 360 smoków** |
+| ~30 mil, klasa I | **240 – 360** |
 | mosty, przepusty, jedna wieża | **100 – 150** |
-| **RAZEM** | ### 350 – 500 smoków |
+| **razem** | **350 – 500 smoków** · dwa sezony |
 
-**Dwa sezony robocze. Miejscowe ręce, za dniówkę. Miejscowi budowniczowie, nasz wzorzec.**
+> **Sam honor jest tani.** Mniej niż jeden most kamienny. Stać nas na to bez targu i bez proszenia kogokolwiek.
 
-> **To jest cały dług Korony wobec Freyów — i jest mały.** Mniejszy niż jedna wieża kamienna. Robb obiecał uczciwie i stać nas na to bez dyskusji.
+### B. PRZEDŁUŻENIE — Bliźniaki → Riverrun *(połączenie traktów)*
+
+| | |
+|---|---:|
+| ~90 mil, klasa I | **720 – 1 080** |
+| ~40 mil, klasa II *(doliny Zielonych i Czerwonych Wideł, podejścia do przepraw)* | **720 – 1 000** |
+| mosty, wieże, składy przydrożne | **250 – 400** |
+| **razem** | **1 700 – 2 500 smoków** · cztery do sześciu lat |
+
+### DŁUG KORONY ŁĄCZNIE: **2 050 – 3 000 smoków**
+
+---
+
+## CO TO NAPRAWDĘ ROBI — I DLACZEGO WARTO
+
+To nie jest droga do zamku teścia. **To jest połączenie traktów.**
+
+**Bliźniaki przestają być przeprawą, a stają się WĘZŁEM.** Frey dziś bierze myto od tego, kto musi przejść przez rzekę; jutro bierze je od wszystkiego, co jedzie z północy na zachód Dorzecza. **Jego dochód rośnie bez jednej groźby z naszej strony** — dokładnie wedle reguły przyjętej w lipcu: *nie wyduszaj, zwiąż wspólnym zyskiem.*
+
+**A Północ dostaje utwardzoną arterię do stolicy sojusznika** — tę samą, którą pójdzie zboże, sól i posiłki.
+
+### Czego Północ z tego NIE bierze
+
+**Ani jednego miedziaka myta.** Trakt biegnie przez obce, sojusznicze państwo; **myto należy do panów, przez których ziemię idzie** — i właśnie dlatego będą go utrzymywać.
+
+> ### **Północ nie kupuje myta. Północ kupuje przepływ.**
+
+Nasze zostaje jedno: **standard, odbiór i słupy milowe.**
+
+---
+
+## ZARZUT, KTÓRY PADNIE — I ODPOWIEDŹ
+
+*„Brukujecie Lannisterom drogę do Riverrun."*
+
+**Częściowo prawda i nie ma sensu tego ukrywać.** Odpowiedź jest architektoniczna, nie retoryczna:
+
+> ### Trakt ma być SZYBKI WSZĘDZIE i PRZECINALNY W JEDNYM MIEJSCU.
+
+Północ nie broni się złymi drogami — **Północ broni się jedną bramą.** Wszystko na południe od Przesmyku ma być szerokie i szybkie, bo tam liczy się handel i odsiecz. **Zwodzone przęsła stoją tylko na grobli.** Kto chce wejść na Północ, i tak musi przejść przez sześćdziesiąt mil, które da się przeciąć w godzinę.
 
 ---
 
@@ -260,3 +300,17 @@ Więc:
 > **Płacę za przyrost, którego się spodziewam. Jeśli go nie będzie — nie było za co płacić.**
 
 **Odbioru odcinków na własnym lennie nie prowadzę.** Prowadzi je człowiek Korony, który przede mną nie odpowiada.
+
+---
+
+# KOLEJNOŚĆ TRZECH ZOBOWIĄZAŃ — bo Skarb Korony wyszedł z wojny w gruzach
+
+Łącznie leży na stole **4 500 – 6 500 smoków** w perspektywie sześciu, siedmiu lat. Naraz — niemożliwe. Kolejność nie jest kwestią gustu:
+
+| | co | ile | dlaczego teraz |
+|---|---|---:|---|
+| **1** | **Odnoga do Bliźniaków** | 350–500 | **honor jest tani, a dług niezapłacony drożeje** |
+| **2** | **Grobla od Fosy na południe** | 2 400–3 500 | **brama i zboże** — to nasze i to dziś zatrzymuje wozy |
+| **3** | **Przedłużenie do Riverrun** | 1 700–2 500 | arteria, ale najdłuższa i najmniej pilna |
+
+> **Najpierw płaci się słowo, potem broni się bramy, na końcu buduje się arterię.**

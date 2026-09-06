@@ -1475,23 +1475,6 @@
    "rola": "DYREKTOR GENERALNY Domu Handlowego Tally (od 299-05) - pan calosci w imieniu Symona"
   },
   {
-   "id": "wick_swiadek",
-   "imie": "Wick",
-   "przydomek": "stary",
-   "zawod": "stary sluga ze Starego Zamku Locke; jedyny zyjacy swiadek rejestru (korroboracja Rymana)",
-   "mieszka": "cela_przy_Sepcie (piecza Wiary)",
-   "nastawienie_do_gracza": 7,
-   "zaufanie": 4,
-   "wie_o_graczu": [
-    "mlody Symon uczyl sie u maestera Aemona"
-   ],
-   "ostatni_kontakt": "297-10-06",
-   "cechy_mowy": "stary, gadatliwy, myli watki; slaby glos",
-   "status": "POZA ZEZNANIEM, UMIERA/ZMARL (296-10-17, rzut 5): umysl odplynal zanim Symon zdazyl. Martwy watek.",
-   "NIE_ZYJE": true,
-   "stan": "ZMARL 296-10-17 (starosc+chlod celi, naturalnie); pochowany przez Owena. Byl jedynym zyjacym swiadkiem rejestru; depozycja przegrana (umysl odplynal przed spisaniem). NIE liczyc jako kontakt."
-  },
-  {
    "id": "kupiec_aldous",
    "imie": "Aldous",
    "zawod": "handlarz winem (Schody/port)",
@@ -3135,6 +3118,23 @@
    "id": "dom_antaryon_braavos",
    "imie": "Dom Antaryon (Braavos)",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "wick_swiadek",
+   "imie": "Wick",
+   "przydomek": "stary",
+   "zawod": "stary sluga ze Starego Zamku Locke — NIE ZYJE od 296-10-17 (byl swiadkiem rejestru; depozycja przegrana, umysl odplynal przed spisaniem)",
+   "mieszka": "cela_przy_Sepcie (piecza Wiary)",
+   "nastawienie_do_gracza": 7,
+   "zaufanie": 4,
+   "wie_o_graczu": [
+    "mlody Symon uczyl sie u maestera Aemona"
+   ],
+   "ostatni_kontakt": "297-10-06",
+   "cechy_mowy": "stary, gadatliwy, myli watki; slaby glos",
+   "status": "POZA ZEZNANIEM, UMIERA/ZMARL (296-10-17, rzut 5): umysl odplynal zanim Symon zdazyl. Martwy watek.",
+   "NIE_ZYJE": true,
+   "stan": "ZMARL 296-10-17 (starosc+chlod celi, naturalnie); pochowany przez Owena. Byl jedynym zyjacym swiadkiem rejestru; depozycja przegrana (umysl odplynal przed spisaniem). NIE liczyc jako kontakt."
   }
  ]
 }

@@ -176,115 +176,73 @@ Nie kontrola z zaskoczenia — **stały, znany, nieunikniony termin.**
 
 ---
 
-# CZĘŚĆ V — DROGA OD MŁYNA DO KANCELARII, NARYSOWANA
-### *Poprzednia część mówiła, że tej drogi nie ma. Ta ją kładzie.*
+# CZĘŚĆ V — KADRY. WERSJA SKROMNA.
+### *Poprzedni zapis tej części — nakaz posyłania co trzeciego dziecka chłopskiego do szkół wiejskich — WYCOFANY. W całości.*
 
-> ### **wieś → SZKOŁA ZIMOWA → PRÓBA → praktykant w pionie → pisarz → starszy → P.O. → urzędnik Korony**
+## DLACZEGO WYCOFANY — trzy powody, i każdy sam by wystarczył
 
-**Osiem szczebli. Każdy z nich musi istnieć, bo droga z dziurą w środku nie jest drogą.**
+**1 · Nie mamy trzech szkół. Mamy JEDNĄ.** Pisałem plan oparty na sieci, której nie ma.
 
----
+**2 · To była rewolucja, nie administracja.** Nakaz obejmujący gospodarstwa całej demeny to najgłębsza zmiana w życiu chłopa od pokoleń — **a zaczęliśmy od tego, żeby uporządkować urzędy.**
 
-## 1 · SZKOŁA ZIMOWA WE WSI
+**3 · I powód najcięższy: nie moja to rzecz.** Namiestnik nie nakłada powinności na poddanych Króla **na jego ziemi, pod jego nieobecność, w zimie, w której brakuje chleba.**
 
-**Z każdego gospodarstwa, w którym jest troje dzieci lub więcej, JEDNO idzie do szkoły.**
-
-**Które — wybiera rodzina.** Nie Korona, nie rządca. *Rodzina wie, które z nich siedzi nad karbami, a które nad koniem.*
-
-**Syn albo córka — obojętnie i tak ma stać w nakazie**, żeby nikt nie musiał się o to spierać co roku.
-
-### I rzecz, na której cała ta rzecz stoi
-
-> ### DZIECKO DOSTAJE W SZKOLE JEŚĆ.
-
-**Bo chłop, który posyła dziecko do liter, traci parę rąk.** Bez chleba to jest podatek nałożony na najuboższych — **z chlebem to jest wymiana: wy dajecie ręce, my dajemy strawę i litery.**
-
-### Dlaczego ZIMOWA
-
-**Uczy się od pierwszego śniegu do roztopów. Latem dziecko pracuje.**
-
-> **Zimą ręce są tańsze — i tylko wtedy chłop może je oddać bez straty.**
-> **Szkoła letnia zostałaby pusta i słusznie.**
-
-**Dwie zimy.** Nie dziesięć lat. Litery, rachunek, miary — **tyle, żeby dziecko mogło stanąć do próby.**
-
-### Kto uczy — i za co
-
-**Ten, kto we wsi umie czytać:** rządca, młynarz, pomocnik maestera, wdowa po pisarzu, kto się nadaje. **Na licencję pod pieczęcią**, jak Ysla.
-
-**Płaci mu się w naturze:** zboże, torf — i **zwolnienie z robocizny na czas nauczania.**
-
-> **Zwolnienie z robocizny prawie nic nie kosztuje pana, a dla nauczyciela jest warte więcej niż moneta.**
-
-### Kto odpowiada, gdy szkoły nie ma
-
-> ### **KARA IDZIE NA PANA, NIE NA CHŁOPA.**
-
-Pan ma **mieć szkołę i mieć chleb.** Chłop ma **posłać.** Ale rodziny głodnej nie karze się grzywną za to, że jej dziecko nie przyszło — **karze się pana, który nie postawił izby i nie dał strawy.**
-
-**Zwolnione z nakazu:** dziecko już oddane do rzemiosła. *Terminator u kowala już się uczy.*
+> ### **Zbudowałem drabinę do nieba, kiedy proszono mnie o schody do kancelarii.**
 
 ---
 
-## 2 · GDZIE TO WCHODZI — I KIEDY
+## CO ZOSTAJE — JEDNA SZKOŁA I SZEŚĆ SZCZEBLI
 
-| gdzie | kiedy |
+> ### **PRÓBA → praktykant w pionie → pisarz → starszy → P.O. → urzędnik Korony**
+
+**Sześć szczebli. Bez ani jednego nowego budynku poza tym, który już stoi.**
+
+---
+
+## 1 · JEDNA SZKOŁA — W WINTERFELL, PRZY KANCELARII
+
+**Nie osobna instytucja. Izba przy kancelarii, w której uczy się tych, którzy już zostali przyjęci.**
+
+**Dwadzieścioro miejsc.** Nie dwadzieścioro rocznie na wieki — **dwadzieścioro, i zobaczymy.**
+
+**Uczą ci, którzy i tak tu są:** maester, rachmistrz Skarbnika, pisarz kancelarii, celnik, kiedy przyjedzie. **Nikogo nowego się nie najmuje, dopóki nie okaże się, że trzeba.**
+
+**Chłopcy i dziewczęta** — *bo nie stać nas na wybrzydzanie, i bo precedens Ysli stoi od 09-01.*
+
+---
+
+## 2 · PRÓBA — cała rzecz, i najtańsza
+
+**Ogłoszona, otwarta, ta sama dla wszystkich, bez niczyjego listu polecającego.**
+Odczytać pismo · zsumować kolumnę · zmierzyć ładunek w korcach · napisać zdanie zrozumiałe za pierwszym razem.
+
+**Przeprowadzana przy okazji objazdu** — bo chłopak spod Deepwood Motte do Winterfell nie przyjedzie, a do własnego zamku przyjdzie pieszo.
+
+> **Próba nie kosztuje nic poza dniem czasu i kartką. To jedyna część tego planu, którą można ogłosić jutro.**
+
+---
+
+## 3 · PRAKTYKANCI SIEDZĄ W PIONACH
+
+| Kancelaria **4** · Skarb **4** · Sąd **2** · Wojsko **2** · Dobra i dochody **4** · Fosa i Biały Port **4** | **= 20** |
 |---|---|
-| **Demena Starków** *(ziemie Korony)* | **nakaz** |
-| **Lenno Fosy Cailin** | **nakaz — i wchodzi pierwsze, moją ręką** |
-| **Biały Port i ziemie Manderlych** | **sugestia dla lorda Wymana** — nie nakaz, bo to jego miasto i jego cechy |
-| **pozostałe lenna** | wzór do naśladowania, nie przymus |
 
-*Przykład nie dekret. Siódmy raz w tym miesiącu.*
+**Uczeń nie jest sługą.** Nosi księgi — i je czyta. Raz na kwartał, gdy p.o. bierze robotę na tydzień, **uczeń bierze robotę pisarza.**
 
-### A TERAZ RZECZ NIEWYGODNA, KTÓRĄ TRZEBA POWIEDZIEĆ SAMEMU
+> ### Urząd, który nie ma ucznia, nie ma następcy — ma nadzieję, że urzędnik nie umrze.
 
-**Na demenie Starków przy trojgu dzieciach na gospodarstwo mówimy o TYSIĄCACH dzieci.** Nakarmić je wszystkie **tej zimy** — zimy, w której Korona skupuje zboże i zamyka je cłem zaporowym — **jest niewykonalne i byłoby kłamstwem w postanowieniu.**
-
-Dlatego **nakaz zapisuje się teraz z warunkiem wejścia w życie:**
-
-> ### **Nakaz obowiązuje od pierwszej zimy, którą Skarbnik ogłosi zimą z nadwyżką.**
-> **Do tego czasu szkoły stoją tam, gdzie spichlerz je udźwignie:** trzy szkoły, Zimowe Miasto, miasteczko pod Fosą.
-
-**Prawo napisane dziś, ogłoszone dziś, z terminem, który zależy od zboża — a nie od naszej dobrej woli.**
-
-*To jest ta sama zasada, którą wpisano do prawa o składach: **Korona nie karze za to, czego nie powiedziała — i nie każe nikomu robić rzeczy, na którą sama nie dała środków.***
+**Dwa lata nauki, cztery lata służby.** Kto odejdzie wcześniej — **zwraca koszt, nie wolność.**
 
 ---
 
-## 3 · PRAKTYKANCI SIEDZĄ W PIONACH, NIE OBOK NICH
+## 4 · KOSZT
 
-**Każdy pion Korony ma w składzie miejsca uczniowskie** — nie osobna szkoła przy dworze, lecz **uczeń przy biurku, przy księdze, przy wadze.**
-
-| pion | uczniów |
-|---|---:|
-| Kancelaria | 4 |
-| Skarb | 4 |
-| Sąd | 2 |
-| Wojsko *(rejestr chorągwi, prowiant)* | 2 |
-| Dobra i dochody *(komory, młyny, lasy)* | 4 |
-| **Fosa Cailin i Biały Port** *(komory, wagi, składy)* | 4 |
-| **RAZEM** | **20 na początek, 20 co rok** |
-
-> **Urząd, który nie ma ucznia, nie ma następcy — ma tylko nadzieję, że urzędnik nie umrze.**
-
-**Uczeń NIE jest sługą.** Nosi księgi, ale **też je czyta.** Raz na kwartał, gdy p.o. bierze robotę na tydzień — **uczeń bierze robotę pisarza.**
+**Dwadzieścioro praktykantów przy pionach: 40 – 70 smoków rocznie.**
+**Próba: dzień czasu i kartka.**
+**Szkół wiejskich: ZERO.**
 
 ---
 
-## 4 · CO TO KOSZTUJE — UCZCIWIE
-
-| | |
-|---|---:|
-| **20 praktykantów przy pionach** *(wikt, odzież, izba, nauczyciele)* | **40 – 70 smoków rocznie** |
-| **szkoły zimowe — tam, gdzie już stoją** | **w KORCACH, nie w smokach** — z lokalnych spichlerzy |
-| **nauczyciele wiejscy** | zboże, torf, **zwolnienie z robocizny** |
-| **nakaz powszechny na demenie** | **odłożony do pierwszej zimy z nadwyżką** |
-
-> ### Szkoła wiejska nie kosztuje Korony monety. Kosztuje chleba — a chleb jest jedyną rzeczą, którą Północ ma i której nie umie zamienić na nic innego.
-
----
-
-> ## ZDANIE, KTÓRE IDZIE NA POCZĄTEK TEGO ROZDZIAŁU
-> **Nie brakuje nam ludzi umiejących pisać. Brakuje drogi, którą taki człowiek mógłby dojść od młyna do kancelarii.**
-> **Ten rozdział jest tą drogą. Ośmioma szczeblami i jednym bochenkiem na każdym z nich.**
+> ## CO ZOSTAJE NA PÓŹNIEJ, ZAPISANE, ŻEBY NIE ZGINĘŁO
+> **Myśl o szkole we wsi jest dobra i wróci — ale wraca jako sprawa KRÓLA i pełnej Rady, w roku z nadwyżką, a nie jako pomysł Namiestnika w środku zimy.**
+> **Zapisane. Odłożone. Nie wykreślone.**

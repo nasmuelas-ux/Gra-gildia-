@@ -3958,7 +3958,7 @@
    "id": "powiedziec_robbowi_dlaczego_ojciec_sie_przyznal_299_09",
    "tytul": "Powiedziec Krolowi, dlaczego Ned sie przyznal - prosba Sansy",
    "status": "do_wykonania_po_powrocie_krola",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "jeyne_poole_w_rekach_belisha_299_09",
@@ -4042,6 +4042,11 @@
   },
   {
    "id": "nastepstwo_i_ciaglosc_korony_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "polityczna_polowa_wiadomosci_o_neda_299_09",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

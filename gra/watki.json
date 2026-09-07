@@ -3323,9 +3323,10 @@
   },
   {
    "id": "agronomia_chlodu_glebokorzen_299_08",
-   "tytul": "Agronomia chlodu (Glebokorzen) - zboza zimolubne+korzeniowe/straczkowe+plodozmian+storage; najglebsza WLASNA odpowiedz na ziarno (lata)",
-   "status": "ZASIANA_299-08-15_misja_zalozycielska_Glebokorzenia_(gra_dluga)",
-   "_dziennik_nota": 11
+   "tytul": "GLEBOKORZEN (Cytadela Polnocy, glowa Theomore) - lancuch (braz-miara, czardrzew-pamiec, stal-prawo, zelazo-ziemia), stroj, przysiega przed czardrzewem, LUWIN MISTRZEM NAUKI w Radzie",
+   "status": "otwarty",
+   "_dziennik_nota": 12,
+   "priorytet": "wysoki"
   },
   {
    "id": "urzad_rekrutacyjny_299_08",
@@ -4199,8 +4200,8 @@
   {
    "id": "kolegium_polnocy_maesterowie_299_09",
    "status": "uniewazniony",
-   "_dziennik_nota": 2,
-   "tytul": "VOID - duplikat. Cytadela Polnocy = STRAZNICA ZIMY w Przystani Wilka, istnieje od 299-06-12"
+   "_dziennik_nota": 3,
+   "tytul": "VOID - Cytadela Polnocy to GLEBOKORZEN. Oba bledne pliki usuniete"
   }
  ]
 }

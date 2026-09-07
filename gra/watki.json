@@ -4327,6 +4327,11 @@
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "list_warunkowy_obrony_korony_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

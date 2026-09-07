@@ -3100,9 +3100,10 @@
   },
   {
    "id": "polnocna_cytadela_theomore_przystan_wilka_299_08",
-   "tytul": "GLEBOKORZEN - polnocny dom wiedzy w Przystani Wilka (Theomore) - suwerennosc wiedzy",
-   "status": "NARODZONY_299-08-11_kolyska_Bialy_Port_+_budowa_Przystani_Wilka_rusza",
-   "_dziennik_nota": 15
+   "tytul": "GLEBOKORZEN - karta ustrojowa (standard nie monopol; bez aparatu opresji; szkoly prywatne wolne; badania zewnetrzne dozwolone; relacje z Cytadela reguluje Korona) + lancuch, stroj, przysiega; Theomore mistrz, Luwin Mistrz Nauki w Radzie",
+   "status": "otwarty",
+   "_dziennik_nota": 16,
+   "priorytet": "wysoki"
   },
   {
    "id": "skarbnik_rekrutacja_bialy_port_299_08",
@@ -3323,10 +3324,10 @@
   },
   {
    "id": "agronomia_chlodu_glebokorzen_299_08",
-   "tytul": "GLEBOKORZEN (Cytadela Polnocy, glowa Theomore) - lancuch (braz-miara, czardrzew-pamiec, stal-prawo, zelazo-ziemia), stroj, przysiega przed czardrzewem, LUWIN MISTRZEM NAUKI w Radzie",
+   "tytul": "Agronomia chlodu - misja zalozycielska Glebokorzenia; ogniwo ZELAZA SUROWEGO za ZIEMIE nosi mistrz domu",
    "status": "otwarty",
    "_dziennik_nota": 12,
-   "priorytet": "wysoki"
+   "priorytet": "sredni"
   },
   {
    "id": "urzad_rekrutacyjny_299_08",

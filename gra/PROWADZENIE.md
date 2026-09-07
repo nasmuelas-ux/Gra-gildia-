@@ -261,7 +261,7 @@ db.dopisz('swiat','swiat','299-09-12','tresc...', pole='inbound_299_09_12')
 
 ## FAKTY STALE, KTORYCH NIE WOLNO WYMYSLAC OD NOWA (299-09-16)
 
-- **CYTADELA POLNOCY NAZYWA SIE GLEBOKORZEN.** Glowa: maester THEOMORE. Kolebka (siedziba tymczasowa): Nowy Zamek, Bialy Port. Czardrzewo zamiast septu. Misja zalozycielska: agronomia chlodu (299-08-15). Pierwsze zlecenie Korony: pomiar Przesmyku. Oderwanie od Cytadeli w Starym Miescie jest CELEM, nie skutkiem ubocznym (299-09-10). Nie tworzyc dla niej nowych nazw ("Straznica Zimy", "Kolegium Polnocy" — nadpisane/odrzucone).
+- **CYTADELA POLNOCY NAZYWA SIE GLEBOKORZEN** (imie nadal Krol 299-08-04). Mistrz: THEOMORE. Kolebka operacyjna: Nowy Zamek, Bialy Port (dar Wymana, 299-08-11) — gmach docelowy PRZYSTAN WILKA, po przenosinach Bialy Port zostaje stala filia uczonosci. Czardrzewo zamiast septu. Misja: agronomia chlodu. Karta ustrojowa: gra/glebokorzen_karta.md — STANDARD NIE MONOPOL, bez aparatu opresji, szkoly prywatne i badania zewnetrzne wolne, relacje z Cytadela reguluje Korona. Nie tworzyc dla niej nowych nazw.
 - **GWARDIA KROLEWSKA NAZYWA SIE ZIMOWA STRAZ** (karta 299-08-12). Chroni KROLA I RODZINE, zawsze, bez wyjatkow. Pierwszy Miecz: RODRIK CASSEL, zastepca ser ALYN.
 - **MISTRZ NAUKI = maester LUWIN** (od 299-09-16); licencje na nauczanie wydaje od 299-09-10 reka Luwina i pieczecia Korony, bez Cytadeli.
 - **SYSTEM OSWIATY: piec wezlow** (299-06-12, z pozniejszymi poprawkami): Winterfell, Przystan Wilka, Starkport, Bialy Port, Karhold. Szkoly powszechne: Winterfell (prototyp), Fosa Cailin (#2), Bialy Port (#3).

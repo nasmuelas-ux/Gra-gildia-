@@ -4039,6 +4039,11 @@
    "id": "uklad_celny_pobor_lenna_299_09",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "nastepstwo_i_ciaglosc_korony_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

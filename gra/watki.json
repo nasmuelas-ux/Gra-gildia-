@@ -3586,7 +3586,7 @@
    "id": "objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09",
    "tytul": "OBJAZD WSCHODU JAKO PIERWSZY OBJAZD POBOROWY WOLNEJ POLNOCY",
    "status": "ODKRYTE_299-09-05;_do_przedlozenia_krolowi_i_Radzie_po_299-09-14",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "projekt_cailin_trakt_forteca_miasto_299_09",
@@ -4079,6 +4079,11 @@
    "id": "spotkanie_ze_stannisem_w_pentos_299_09",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "objazd_zachodu_kto_zbierze_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

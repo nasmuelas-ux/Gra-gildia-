@@ -2235,9 +2235,9 @@
   },
   {
    "id": "kanal_reed_przesmyk_1118",
-   "tytul": "REED - SPRAWA PILNA (Symon cofa wlasne zdanie: brak daty to nie brak pilnosci). Drugi jezdziec z datami idzie dzis; trzy sposoby na spotkanie przed morzem, kazdy z cena. Nacisku nie wolno",
+   "tytul": "REED - list z 09-08 juz niosl ciezar (\"co przestalo mi wygladac na opowiesc\"). Zamiast zmiany trasy: MECHANIZM DOSTEPNOSCI - itinerarium, czlowiek na kazdym postoju, orszak zawraca na wskazanie",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "priorytet": "wysoki",
    "termin": "odpowiedz Reeda najwczesniej poczatek pazdziernika"
   },
@@ -3592,10 +3592,11 @@
   },
   {
    "id": "objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09",
-   "tytul": "TRASA: LUK WYBRZEZEM - Winterfell/Hornwood/Dreadfort/Karhold/Wdowia Straznica/Stary Zamek/Bialy Port. Szesciu lordow na jednej linii, zero nawrotow. Fosa zdjeta - Reed sprowadzany zamiast objazdu",
+   "tytul": "TRASA USTALONA: luk wybrzezem (Hornwood, Dreadfort, Karhold, Wdowia Straznica, Stary Zamek, Bialy Port), wyjazd 22-go, wyplyniecie druga polowa pazdziernika. Orszak zawraca, jesli Reed wskaze miejsce",
    "status": "otwarty",
    "_dziennik_nota": 8,
-   "priorytet": "wysoki"
+   "priorytet": "wysoki",
+   "termin": "wyjazd 299-09-22"
   },
   {
    "id": "projekt_cailin_trakt_forteca_miasto_299_09",

@@ -3984,7 +3984,7 @@
    "status": "otwarty",
    "_dziennik_nota": 1,
    "priorytet": "sredni",
-   "tytul": "Sansa jako czytelniczka doniesien (tresc bez imion) - czytanie ma przetrwac dwumiesieczna nieobecnosc Namiestnika"
+   "tytul": "Sansa - ZGODA na siatke dana przez nia sama, z dwoma nowymi warunkami: jej imie tez nie jedzie; ma wiedziec PO fakcie, kiedy jej slowa cos komus zrobily"
   },
   {
    "id": "ucho_korony_druga_siatka_299_09",
@@ -4076,10 +4076,10 @@
   },
   {
    "id": "sansa_opiekunka_krolowej_roslin_299_08",
-   "status": "otwarty",
+   "status": "rozstrzygniete",
    "_dziennik_nota": 1,
    "priorytet": "sredni",
-   "tytul": "Sansa przy krolowej Roslin - przedlozone SANSIE jako pytanie, nie przydzial (ta sama zbroja, te same zawiasy); czeka na jej odpowiedz"
+   "tytul": "Sansa przy Roslin - ZGODA, ale BEZ TYTULU I BEZ OGLOSZENIA (jej warunek: \"tytul na dworze jest klatka z ladna nazwa\"); dochodzi do tej samej konstrukcji co Luwin, sama i niezaleznie"
   },
   {
    "id": "zwiazac_nastepce_freya_299_09",
@@ -4226,6 +4226,12 @@
    "priorytet": "wysoki",
    "termin": "przed zjazdem choragwi, w miare mozliwosci przed wyjazdem Namiestnika",
    "tytul": "KROL STAJE DO PROBY SZCZEBLA II - przeczytac obca karte rachunkowa i wskazac blad, przed egzaminatorem wskazanym losem. Sam to na siebie nalozyl: \"ja bym tego kanonu nie zdal\""
+  },
+  {
+   "id": "sansa_uczy_dziedziny_dziesiatej_299_09",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "tytul": "Sansa uczy dziedziny X kanonu (mowa i sluchanie) - probnie. Rozstrzygniecie metodyczne: nie uczy sie widzenia, uczy sie czterech czynnosci"
   }
  ]
 }

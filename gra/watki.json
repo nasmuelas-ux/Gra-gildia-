@@ -3822,9 +3822,11 @@
   },
   {
    "id": "misja_do_dorzecza_catelyn_299_09",
-   "tytul": "Misja do Dorzecza - Catelyn, Rodwell na wiosne, rachmistrz odbiorczy",
-   "status": "list_goni_Catelyn_w_drodze",
-   "_dziennik_nota": 6
+   "tytul": "Misja do Dorzecza - Catelyn spytana wreszcie osobiscie (rzut 36): zgoda WARUNKOWA, wisi na rozstrzygnieciu, kto odpowiada za dzieci Starkow, gdy jej nie ma",
+   "status": "otwarty",
+   "_dziennik_nota": 7,
+   "priorytet": "wysoki",
+   "termin": "wyjazd wiosna 300"
   },
   {
    "id": "rymowanka_do_osmiu_299_09_10",
@@ -4163,8 +4165,8 @@
   {
    "id": "powiedziec_branowi_i_catelyn_o_nastepstwie_299_09",
    "status": "otwarty",
-   "priorytet": "wysoki",
-   "tytul": "Bran WIE (09-16). Nie wiedza: Catelyn (opieka nad osoba Krola), Rickon (drugie ogniwo linii, 5 lat, nikt nie ma planu), Sansa, Arya, trzej nazwani lordowie",
+   "priorytet": "sredni",
+   "tytul": "Bran i Catelyn WIEDZA (09-16). Nie wiedza: Rickon, Sansa, Arya, trzej nazwani lordowie",
    "_dziennik_nota": 1
   },
   {
@@ -4172,6 +4174,12 @@
    "status": "otwarty",
    "priorytet": "sredni",
    "tytul": "Rickon jako drugie ogniwo linii nastepstwa - zarzut postawiony przez BRANA, nie przez Rade: ma piec lat, jest poza obiegiem wiadomosci i nikt nie wie, kto i jak mu powie"
+  },
+  {
+   "id": "opieka_nad_dziecmi_starkow_jako_urzad_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "tytul": "LUKA: caly aparat Polnocy ma nazwiska przy murach, kasie, prawie, poczcie i cle - ANI JEDNEGO przy dzieciach Starkow. Wskazana niezaleznie przez Brana i Catelyn w ciagu jednej godziny. Rozstrzyga Krol."
   }
  ]
 }

@@ -3254,9 +3254,10 @@
   },
   {
    "id": "prawo_sukcesji_polnocy_299_08",
-   "tytul": "Prawo sukcesji Polnocy - system na przyszlosc + prowizoryczny dziedzic teraz; gleboki wezel (Jon/corki) OTWARTY",
-   "status": "CZESCIOWE_299-08-12_system->Rada+prowizorka_teraz+wezel_otwarty (crit-low 10)",
-   "_dziennik_nota": 3
+   "tytul": "Prawo nastepstwa (ratyf. 299-08-17) + GRANICE REGENCJI spisane 299-09-15; brakuje IMIENIA regenta - wyznacza Krol glosno przy choragwiach",
+   "status": "otwarty",
+   "_dziennik_nota": 4,
+   "priorytet": "wysoki"
   },
   {
    "id": "gwardia_krolewska_299_08",
@@ -4109,6 +4110,13 @@
    "status": "otwarty",
    "priorytet": "sredni",
    "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady."
+  },
+  {
+   "id": "wylaczenie_namiestnika_z_regencji_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1,
+   "priorytet": "wysoki",
+   "tytul": "Namiestnik nie zasiada w Radzie Regencyjnej; urzad Namiestnika wygasa ze smiercia Krola - do redakcji Cerwyna i pod pieczec"
   }
  ]
 }

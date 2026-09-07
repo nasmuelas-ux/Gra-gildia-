@@ -14,7 +14,7 @@ Serce: **czardrzewo, nie sept.** Misja założycielska: **agronomia chłodu.** P
 
 **Głębokorzeń jest biblioteką, archiwum i miejscem przetwarzania wiedzy.** Zbiera, przechowuje, sprawdza, hoduje, uczy i poświadcza.
 
-**Nie ma aparatu przymusu i nie dostanie go nigdy.** Nie sądzi, nie karze, nie zakazuje, nie obsadza urzędów, nie wydaje licencji i nie ma nikogo, kogo mógłby wykluczyć z zawodu, bo **na Północy nie ma zawodu zamkniętego**.
+**Nie ma aparatu przymusu i nie dostanie go nigdy.** Nie sądzi, nie karze, nie zakazuje, nie wydaje licencji, nie obsadza urzędów Korony *(obsadza je Król — a jego ludzie mogą być na nie powoływani, patrz IV)* i nie ma nikogo, kogo mógłby wykluczyć z zawodu, bo **na Północy nie ma zawodu zamkniętego**.
 
 **Orzeka jedną rzecz: STANDARD NAUKOWY.** Co trzeba umieć, żeby o kimś powiedzieć, że umie. Nic ponadto.
 
@@ -62,7 +62,52 @@ Nikt nie musi być w Głębokorzeniu, żeby badać, mierzyć, spisywać i ogłas
 
 ---
 
-# IV. RELACJA ZE STARYM MIASTEM — reguluje ją Korona
+# IV. SŁUŻBA I URZĄD
+
+## ① KOMU MAESTER PRZYSIĘGA
+
+> ### **MAESTER PRZYSIĘGA GŁĘBOKORZENIOWI. GŁĘBOKORZEŃ PRZYSIĘGA KORONIE.**
+> **Nie przysięga panu, do którego jest posłany** — i to jest jedyna zmiana, która naprawdę odbiera Staremu Miastu władzę nad Północą. Łańcuch nie prowadzi już za Przesmyk. **Kończy się w Głębokorzeniu, a Głębokorzeń stoi przy Koronie.**
+
+## ② SŁUŻBA W ZAMKACH — obowiązkowa, na zamówienie
+
+**Kto prosi, ten dostaje.** Lord, miasto, klasztor, cech, wieś składająca się na jednego — **Głębokorzeń posyła i nie wolno mu odmówić bez powodu wpisanego do księgi.**
+
+**Maester posłany do domu SŁUŻY TEMU DOMOWI i dochowuje jego rady.** Nie jest okiem Korony i nie będzie nim, bo dom, który podejrzewa własnego maestera, przestanie go brać — i po dziesięciu latach Północ nie będzie miała ani jednego.
+
+**Głębokorzeniowi winien jest trzy rzeczy, i wyłącznie trzy:**
+1. **standard** — trzymać się miary, której nauczono;
+2. **zapis** — kronika, świadectwa, pomiary, rachunki żniw, urodzenia i śmierci;
+3. **odpowiedź**, gdy Głębokorzeń pyta o rzecz wiedzy.
+
+> **Nie donosi. Nigdy.**
+
+**Wyjątek jeden, wąski i jawny — LICZBY KRÓLESTWA, nie rady domu:** zbiory, ceny, urodzenia, zgony, pogoda, stan dróg. To i tak zapisuje.
+
+> ### I rzecz, na której ten wyjątek stoi: **PAN DOSTAJE ODPIS WSZYSTKIEGO, CO JEGO MAESTER WYSŁAŁ.**
+> Nie ma czego audytować — **jest odpis.**
+
+## ③ MAESTER MOŻE OBJĄĆ URZĄD
+
+Stare Miasto zabrania swoim ziem, tytułów i urzędów. **My nie.**
+
+**Maester Głębokorzenia może być powołany na urząd Korony** — skarbu, kancelarii, rewizji, sądu, miary — **i zachowuje przy tym łańcuch.**
+
+**Jedno zastrzeżenie:** póki dzierży urząd, **nie zasiada przy orzekaniu standardu.** Kto wydaje, nie mierzy sam siebie.
+
+## ④ ZAKAZ — jeden, i dotyczy stanowiska, nie człowieka
+
+> ### **Lord Północy nie obsadza urzędu maestera swojego domu człowiekiem Starego Miasta.**
+
+**Powód nie jest zawiścią, tylko rachunkiem: maester domu trzyma KRUKI, PIECZĘĆ I KSIĘGI.** Obcy zakon, który obsadza każdą krukarnię w królestwie, **czyta korespondencję królestwa wcześniej niż jego król** — i nie potrzebuje do tego ani jednego zdrajcy.
+
+**Zakaz dotyczy urzędu, nie człowieka.** Maester z Południa może na Północy mieszkać, leczyć, uczyć, badać i doradzać prywatnie. **Nie może trzymać kruków, pieczęci i ksiąg cudzego domu.**
+
+**Wchodzi w życie z tym samym terminem, co przysięga albo wyjazd** *(patrz niżej)* — nie wcześniej, bo dziś wszyscy trzynastu są ludźmi Starego Miasta, a prawo, którego nie ma czym wykonać, jest tylko obwieszczeniem słabości.
+
+---
+
+# V. RELACJA ZE STARYM MIASTEM — reguluje ją Korona
 
 **Nie zrywamy wymiany wiedzy.** Zrywamy zależność.
 
@@ -82,7 +127,7 @@ Gdy Głębokorzeń stanie — **przysięga wierności Głębokorzeniowi albo wyj
 
 ---
 
-# V. ŁAŃCUCH
+# VI. ŁAŃCUCH
 
 Te same ogniwa co Stare Miasto — **plus cztery, których tam nie ma:**
 
@@ -101,7 +146,7 @@ Te same ogniwa co Stare Miasto — **plus cztery, których tam nie ma:**
 
 ---
 
-# VI. STRÓJ
+# VII. STRÓJ
 
 Szare szaty zostają Staremu Miastu.
 
@@ -115,7 +160,7 @@ Bez pierścienia, bez laski, bez oznak stopnia. **Stopień nosi się na łańcuc
 
 ---
 
-# VII. PRZYSIĘGA — przed czardrzewem Głębokorzenia, o świcie
+# VIII. PRZYSIĘGA — przed czardrzewem Głębokorzenia, o świcie
 
 > ## ① O WIERNOŚCI
 > ### „Służę Północy i Koronie Północy. Nie zdaję sprawy nikomu za Przesmykiem."
@@ -130,7 +175,7 @@ Bez pierścienia, bez laski, bez oznak stopnia. **Stopień nosi się na łańcuc
 
 ---
 
-# VIII. DWA NAZWISKA, DWA URZĘDY
+# IX. DWA NAZWISKA, DWA URZĘDY
 
 **MAESTER THEOMORE — mistrz Głębokorzenia.** Prowadzi dom: program, ludzi, badania, bibliotekę, krukarnię, standard i kuźnię ogniw.
 

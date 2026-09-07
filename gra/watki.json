@@ -4110,7 +4110,7 @@
   {
    "id": "objazd_zachodu_kto_zbierze_299_09",
    "status": "rozstrzygniete",
-   "_dziennik_nota": 2,
+   "_dziennik_nota": 3,
    "tytul": "Podzial objazdu danin - ogloszenie listem do wszystkich naraz; Namiestnik na wschod (8 lordow), Krol z Krolowa na zachod (6 lordow) wiosna 300"
   },
   {
@@ -4315,6 +4315,11 @@
   },
   {
    "id": "kto_jest_namiestnikiem_gdy_nie_ma_namiestnika_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "kanon_nauki_rodu_starkow_299_09",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

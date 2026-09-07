@@ -3627,9 +3627,11 @@
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
-   "tytul": "MUR - list Aemona: Mormont zabity przez wlasnych, Objazd wybity, Mance prowadzi CALY LUD na poludnie",
-   "status": "OTWARTY_299-09-07;_plan_szesciopunktowy_w_biegu;_krol_rozstrzyga_po_09-14",
-   "_dziennik_nota": 13
+   "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
+   "status": "otwarty",
+   "_dziennik_nota": 14,
+   "priorytet": "wysoki",
+   "termin": "Osric w Czarnym Zamku koniec pazdziernika 299"
   },
   {
    "id": "jon_snow_po_drugiej_stronie_299_09",
@@ -4117,6 +4119,12 @@
    "_dziennik_nota": 1,
    "priorytet": "wysoki",
    "tytul": "Namiestnik nie zasiada w Radzie Regencyjnej; urzad Namiestnika wygasa ze smiercia Krola - do redakcji Cerwyna i pod pieczec"
+  },
+  {
+   "id": "policz_talerze_rachunek_z_czarnego_zamku_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "tytul": "POLICZ TALERZE - re-taskowanie placowki Domu w Czarnym Zamku: rola przydzialow miesiac po miesiacu i FORMA skreslenia; czeka na odpowiedz Hala"
   }
  ]
 }

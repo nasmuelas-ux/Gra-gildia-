@@ -107,6 +107,12 @@
    "rola": "stary zbrojmistrz Winterfell (klucze do zbrojowni)",
    "miejsce": "Winterfell",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "oswyn_miarka",
+   "imie": "Oswyn Miarka",
+   "zawod": "miernik/urzednik miejski Zimowego Miasta - spichlerz miejski, wagi i miary",
+   "nastawienie_do_gracza": "rzeczowy, uparty; woli sie spoznic niz przyniesc niepewna liczbe"
   }
  ],
  "w_orbicie": [

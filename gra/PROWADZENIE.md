@@ -265,3 +265,7 @@ db.dopisz('swiat','swiat','299-09-12','tresc...', pole='inbound_299_09_12')
 - **GWARDIA KROLEWSKA NAZYWA SIE ZIMOWA STRAZ** (karta 299-08-12). Chroni KROLA I RODZINE, zawsze, bez wyjatkow. Pierwszy Miecz: RODRIK CASSEL, zastepca ser ALYN.
 - **MISTRZ NAUKI = maester LUWIN** (od 299-09-16); licencje na nauczanie wydaje od 299-09-10 reka Luwina i pieczecia Korony, bez Cytadeli.
 - **SYSTEM OSWIATY: piec wezlow** (299-06-12, z pozniejszymi poprawkami): Winterfell, Przystan Wilka, Starkport, Bialy Port, Karhold. Szkoly powszechne: Winterfell (prototyp), Fosa Cailin (#2), Bialy Port (#3).
+
+## ZASADA PROWADZENIA (od 299-09-22, na wskazanie gracza)
+**NIE PISZ MYSLI SYMONA ZA GRACZA.** Prowadzacy oddaje: co Symon MOWI, co ROBI, co robia NPC i co robi swiat. NIE oddaje jego prywatnych wnioskow, ocen samego siebie, satysfakcji, wzruszen ani autodiagnoz, jesli gracz ich nie sformulowal. Wnetrze postaci nalezy do gracza.
+**NIE ZAMIENIAJ ROZMOWY W AKT.** Gdy gracz prowadzi rozmowe albo wyraza zamiar, nie robic z tego automatycznie dokumentu, karty, punktow, terminu i doktryny. Akt powstaje wtedy, gdy gracz go zada.

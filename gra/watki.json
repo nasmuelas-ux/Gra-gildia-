@@ -4134,9 +4134,15 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1,
-   "priorytet": "wysoki",
-   "tytul": "Siatka Domu Tally - odpowiedz Garricka: znaki zamiast imion (wymaga zgody Willi), dwaj skladajacy z wychowankow, worek na malkontentow zamkniety, piesniarze na goscinie, brak wezla na zachodzie, prosba o granice dla siebie"
+   "_dziennik_nota": 2,
+   "priorytet": "sredni",
+   "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)"
+  },
+  {
+   "id": "wezel_zachodni_domu_i_biala_plama_korony_299_09",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "tytul": "Wezel Domu na zachodnim wybrzezu = jedyne oczy tam, gdzie Korona ich nie ma. Symon zglasza sie jako strona Skarbnikowi i Radzie."
   }
  ]
 }

@@ -4177,9 +4177,23 @@
   },
   {
    "id": "opieka_nad_dziecmi_starkow_jako_urzad_299_09",
-   "status": "otwarty",
+   "status": "rozstrzygniete",
    "priorytet": "wysoki",
-   "tytul": "LUKA: caly aparat Polnocy ma nazwiska przy murach, kasie, prawie, poczcie i cle - ANI JEDNEGO przy dzieciach Starkow. Wskazana niezaleznie przez Brana i Catelyn w ciagu jednej godziny. Rozstrzyga Krol."
+   "tytul": "VOID w czesci o ochronie - Zimowa Straz chroni krola I RODZINE od 299-08-12. Otwarte zostaje wychowanie (patrz kanon) + luka w karcie o maloletnim krolu",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "kanon_wychowania_rodziny_krolewskiej_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1,
+   "priorytet": "wysoki",
+   "tytul": "Kanon wychowania rodziny krolewskiej - siedem pozycji, szesc nie wymaga ciala, obejmuje wszystkie czworo; Namiestnik pisze ale nie wybiera nauczycieli; 15-27 smokow/rok. Pod rozstrzygniecie Krola"
+  },
+  {
+   "id": "maloletni_krol_a_karta_zimowej_strazy_299_09",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "tytul": "Luka w karcie Zimowej Strazy: drabina konczy sie na Krolu, wiec przy maloletnim konczy sie na dziecku. Poprawka: powinnosc biegnie do urzedu nie do slowa osoby. Wymaga Krola i Pierwszego Miecza"
   }
  ]
 }

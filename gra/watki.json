@@ -3594,7 +3594,7 @@
    "id": "objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09",
    "tytul": "TRASA (A): Przesmyk pierwszy, potem luk. Bialy Port NIE ZAMARZA, wiec listopadowe wyplyniecie to gorszy rejs, nie zamkniete okno. Termin podany Stannisowi (Pentos, grudzien) trzyma sie",
    "status": "otwarty",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 11,
    "priorytet": "wysoki",
    "termin": "wyjazd 299-09-22, wyplyniecie ~11-07, Pentos grudzien"
   },
@@ -4276,6 +4276,12 @@
    "tytul": "Godzina Krola z Gawenem nad ksiega celna Korony - trzy pytania zamiast nauki rachunku; krol uczy sie CZYTAC, nie rewidowac",
    "_dziennik_nota": 1,
    "termin": "299-09-19/20, przed przyjazdem Wymana"
+  },
+  {
+   "id": "korona_bez_wlasnych_zbrojnych_299_09",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "tytul": "DZIURA: Korona nie ma wlasnych ludzi do orszaku wlasnego Namiestnika. Zimowa Straz przy Krolu, Osric w drodze, wlasnych choragwi zero - kazdy zbrojny na Polnocy jest czyjs. Do teki obok heroldow, poczty i rewizji"
   }
  ]
 }

@@ -4187,16 +4187,17 @@
   },
   {
    "id": "kanon_wychowania_rodziny_krolewskiej_299_09",
-   "status": "otwarty",
+   "status": "zrealizowany",
    "_dziennik_nota": 6,
    "priorytet": "wysoki",
-   "tytul": "KANON NAUKI RODU STARKOW (red. IV) - dziewiec dziedzin w trzech pasmach (glowa/cialo/ludzie), sciezka wlasna od zdanej proby liter (~12 lat), kanon NIE JEST prawem nastepstwa. Puste: rachunek, zima i cialo, rzemioslo"
+   "tytul": "KANON NAUKI RODU STARKOW - ZATWIERDZONY PRZEZ KROLA 299-09-16, pod pieczec. Puste zostaja dwa miejsca: rachunek i rzemioslo"
   },
   {
    "id": "maloletni_krol_a_karta_zimowej_strazy_299_09",
    "status": "otwarty",
    "priorytet": "sredni",
-   "tytul": "Luka w karcie Zimowej Strazy: drabina konczy sie na Krolu, wiec przy maloletnim konczy sie na dziecku. Poprawka: powinnosc biegnie do urzedu nie do slowa osoby. Wymaga Krola i Pierwszego Miecza"
+   "tytul": "Poprawka do karty Zimowej Strazy - maloletni Krol nie odprawia wlasnej warty; Robb bierze to jutro przy Pierwszym Mieczu",
+   "termin": "299-09-17, przy Rodriku Casselu"
   },
   {
    "id": "kolegium_polnocy_maesterowie_299_09",
@@ -4216,6 +4217,13 @@
    "priorytet": "wysoki",
    "tytul": "Mistrz Nauki - ROBOTA BEZ TYTULU: akt spisany i zapieczetowany dzis, ogloszenie po spelnieniu trzech warunkow; wladza przez pismo okazywane zamknietej liscie, nie przez proklamacje",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "krol_staje_do_proby_szczebla_II_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "termin": "przed zjazdem choragwi, w miare mozliwosci przed wyjazdem Namiestnika",
+   "tytul": "KROL STAJE DO PROBY SZCZEBLA II - przeczytac obca karte rachunkowa i wskazac blad, przed egzaminatorem wskazanym losem. Sam to na siebie nalozyl: \"ja bym tego kanonu nie zdal\""
   }
  ]
 }

@@ -2235,9 +2235,11 @@
   },
   {
    "id": "kanal_reed_przesmyk_1118",
-   "tytul": "Kanal Howland Reed / Krannogmeni Przesmyku - sciana pd + wywiad",
-   "status": "ODPOWIEDZ_WYSLANA_przesmyk_wpiety",
-   "_dziennik_nota": 3
+   "tytul": "Reed - NIE posyla sie po niego (sasiad prosi, nie wzywa). Drugie krotkie pismo z datami trasy; obietnica stoi bez terminu; posyla mu swiadectwa ZAMIAST prosic o jego wiedze",
+   "status": "otwarty",
+   "_dziennik_nota": 4,
+   "priorytet": "wysoki",
+   "termin": "odpowiedz Reeda najwczesniej poczatek pazdziernika"
   },
   {
    "id": "system_zintegrowany_oko_noga_zab_1118",
@@ -4026,9 +4028,9 @@
   {
    "id": "korzenie_symona_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 4,
-   "priorytet": "wysoki",
-   "tytul": "Trasa objazdu przechodzi przez STARY ZAMEK LOCKE - zamek, w ktorym Symon byl sierota. Kolizja: czlowiek Garricka juz tam jedzie, a Symon jest strona w sprawie Rymana biegnacej przez te same rejestry"
+   "_dziennik_nota": 5,
+   "priorytet": "sredni",
+   "tytul": "Stary Zamek: JADE I NIE TYKAM NICZEGO - zadnej rozmowy w cztery oczy, swiadek Skarbnika, nota do kancelarii; czlowiek Garricka rozdzielony w czasie, nie wstrzymany"
   },
   {
    "id": "p_o_rodwella_dwie_polowy_299_09",
@@ -4261,9 +4263,9 @@
   },
   {
    "id": "reed_sprowadzony_zamiast_objazdu_299_09",
-   "status": "otwarty",
+   "status": "uniewazniony",
    "priorytet": "wysoki",
-   "tytul": "Prosba do Howlanda Reeda: stanac w Winterfell przed wyjazdem albo dogonic orszak - zamiast czterystu mil objazdu do sasiada. Pomiar Przesmyku ma ruszyc ta zima"
+   "tytul": "VOID - Reeda sie nie wzywa. Pismo z 09-08 juz zawiera obietnice, ze to Symon przyjedzie tam, gdzie Reed wskaze"
   }
  ]
 }

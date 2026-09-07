@@ -81,7 +81,12 @@ A ponadto z moich rąk wychodzą: **rejestr przedsięwzięć · księga pod piec
 
 # VI. MISJA DO DORZECZA
 
-**EMISARIUSZKA: lady CATELYN STARK.** Jest już w drodze na południe z listem maestera Aemona — **jedzie dokładnie tam, gdzie ta sprawa leży.** Tully w Riverrun to jej dom, Edmure to jej brat, a Freyowie są związani małżeństwem jej syna. **Nie ma na Północy drugiego takiego posła i nie będzie.**
+**EMISARIUSZKA: lady CATELYN STARK — DO ROZSTRZYGNIĘCIA, NIEZAPYTANA.**
+
+> ⚠️ **Sprostowanie z 299-09-14.** W pierwszej redakcji stało tu, że lady Catelyn „jest już w drodze na południe z listem maestera Aemona". **To było błędne.**
+> **299-09-08 o świcie wyjechała NA CZOŁO KOLUMNY KRÓLA**, z listem Aemona w skórzanym futerale przy siodle — żeby powiedzieć synowi o jego bracie. Wróciła z hostem 299-09-14.
+
+Do misji w Dorzeczu pozostaje najlepszym posłem, jakiego Północ ma: Tully w Riverrun to jej dom, Edmure to jej brat, a Freyowie są związani małżeństwem jej syna. **Nie ma na Północy drugiego takiego i nie będzie — ale nikt jej o to jeszcze nie poprosił, a po tej drodze trzeba spytać inaczej niż przed nią.**
 
 **DYREKTOR DOMU STARKÓW: RODWELL** — pieniądz i wykonanie.
 **Zastrzeżenie, które trzeba powiedzieć głośno:** Rodwell **skupuje w tej chwili zboże dla Korony.** Wyrywanie go zimą byłoby głupotą. **Jedzie na wiosnę** — i tak nikt nie kopie rowów w zmarzlinie, a odcinek przez Dorzecze i tak wymaga najpierw zgody Tully'ego.

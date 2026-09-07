@@ -2,13 +2,13 @@
  "data": {
   "rok": 299,
   "miesiac": 9,
-  "dzien": 15,
+  "dzien": 16,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "lato (298)",
- "pogoda": 99,
- "dzien_tygodnia_nr": 2,
+ "pogoda": 66,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -53,8 +53,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "Zamkniecie urny w Zimowym Miescie o zmierzchu (pierwszy pelny dzien pogody) + wyjazd Osrica Kamienia z kolumna zbozowa na Mur",
- "dzien": 15,
+ "swieto": "brak - dzien zwykly; z Winterfell wyjezdza poczta z listami Namiestnika (Hal, Aemon) i kruk z listem Krola do Stannisa",
+ "dzien": 16,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "_dziennik_mechanika_relief_finansowanie": 1,
  "wielki_targ": false,
- "lokacja_gracza": "WINTERFELL - Symon wrocil 299-09-04. Fosa Cailin pod Halem (dyrektor) i Hendrym (marszalek). Catelyn w drodze na poludnie z listem Aemona. Krol wraca ok. 299-09-14.",
+ "lokacja_gracza": "WINTERFELL - Symon wrocil 299-09-04; wyjazd na wschod w ciagu kilku dni. Fosa Cailin pod Halem (dyrektor) i Hendrym (marszalek). Catelyn WROCILA z hostem 299-09-14 i jest w Winterfell. Krol w Winterfell z krolowa Roslin od 299-09-14. Marszalek Osric Kamien w drodze na Mur przez klany (wraca koniec pazdziernika).",
  "zaplanowane_zdarzenia": [
   "298-~polowa/koniec sierpnia: POWROT 2. ambasady Fenna od Halvarda (wiecej wolumenu + ku wylacznosci; odprawa rzut 74 sklonna ku dobremu).",
   "298-08-01: DZIEN BILANSU (miesiac 07 na pelna skale - pergamin/wor Tama/kredyt/premium/arteria).",
@@ -238,5 +238,6 @@
  "_dziennik_teka_przedlozona_299_09_14": 1,
  "_dziennik_ranek_299_09_15": 1,
  "_dziennik_czas_zeglugi_bialy_port_braavos": 1,
- "_dziennik_inbound_299_09_15": 1
+ "_dziennik_inbound_299_09_15": 2,
+ "_dziennik_inbound_299_09_16": 1
 }

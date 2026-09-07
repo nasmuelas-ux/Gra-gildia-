@@ -3590,9 +3590,9 @@
   },
   {
    "id": "objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09",
-   "tytul": "TRASA NA WSCHOD - zly ksztalt wykryty na mapie (Fosa na poludniu, Dreadfort i Karhold na pln-wsch). Trzy warianty; punkt staly to DATA WYPLYNIECIA, nie wyjazdu. Wyman w Winterfell skraca Bialy Port do przystanku",
+   "tytul": "TRASA: LUK WYBRZEZEM - Winterfell/Hornwood/Dreadfort/Karhold/Wdowia Straznica/Stary Zamek/Bialy Port. Szesciu lordow na jednej linii, zero nawrotow. Fosa zdjeta - Reed sprowadzany zamiast objazdu",
    "status": "otwarty",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "priorytet": "wysoki"
   },
   {
@@ -4026,7 +4026,9 @@
   {
    "id": "korzenie_symona_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4,
+   "priorytet": "wysoki",
+   "tytul": "Trasa objazdu przechodzi przez STARY ZAMEK LOCKE - zamek, w ktorym Symon byl sierota. Kolizja: czlowiek Garricka juz tam jedzie, a Symon jest strona w sprawie Rymana biegnacej przez te same rejestry"
   },
   {
    "id": "p_o_rodwella_dwie_polowy_299_09",
@@ -4256,6 +4258,12 @@
    "status": "otwarty",
    "priorytet": "sredni",
    "tytul": "Przysiega na Korone w bozym gaju - SEPTON Z BIALEGO PORTU STAJE OBOK DRZEWA SERCA. Te same slowa, ten sam dzien, ta sama ksiega. Rozwiazuje problem Manderlych i oglasza, jakim krolestwem jest Polnoc"
+  },
+  {
+   "id": "reed_sprowadzony_zamiast_objazdu_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "tytul": "Prosba do Howlanda Reeda: stanac w Winterfell przed wyjazdem albo dogonic orszak - zamiast czterystu mil objazdu do sasiada. Pomiar Przesmyku ma ruszyc ta zima"
   }
  ]
 }

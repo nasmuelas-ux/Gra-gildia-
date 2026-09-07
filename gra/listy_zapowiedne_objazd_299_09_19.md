@@ -73,7 +73,7 @@ Odpis rejestru danin, odpis taryfy i odpis tego, co Korona zapisała jako swój 
 | dom | siedziba | około |
 |---|---|---|
 | — *(postój własny)* | **Fosa Cailin** · spotkanie z Howlandem Reedem | **~09-28 → 10-04** |
-| **Hornwood** | Hornwood | **~10-12** |
+| **Hornwood** *(Larence Snow pod kuratelą Glovera)* | Hornwood | **~10-12** |
 | **Bolton** | Dreadfort | **~10-16** |
 | **Karstark** | Karhold | **~10-23** |
 | **Flint** | Wdowia Strażnica | **~10-30** |
@@ -86,18 +86,26 @@ Odpis rejestru danin, odpis taryfy i odpis tego, co Korona zapisała jako swój 
 
 # III. TRZY ADRESY, KTÓRE NIE SĄ ZWYKŁE
 
-## ① HORNWOOD — **nie ma do kogo zaadresować**
+## ① HORNWOOD — **pan jest, tylko nikt tego nie ogłosił**
 
-**Hornwood nie ma pana.** Ziemia bez głowy, kilkuset mieczy bez rozkazu — i **sąsiad w Dreadforcie, który się na nią łasi.**
+**Hornwood nie jest wakatem.** Wakat zamknęliśmy **299-08-04**: bękart Hornwoodów **LARENCE SNOW** legitymizowany i osadzony jako dziedzic **pod kuratelą Korony**, opieka w rękach **Galbarta Glovera** (już go wychowywał), Manderly jako cichy poplecznik, wszystko **za zgodą wdowy, lady DONELLI**, o którą Król pytał ją sam, własnym listem. Krew przed importem, wola wdowy nie przymus, wyparcie Dreadfortu prawem, nie stalą.
 
-Pismo idzie **do tego, kto trzyma klucze**: kasztelana albo rządcy, imienia nie mam. Treść ta sama co u pozostałych, z jedną zmianą: **nie zapowiadam odbioru daniny, zapowiadam SPIS.**
+**Akt istnieje. Chłopiec siedzi. I na tym się skończyło.**
 
-> **Ziemia niepoliczona jest ziemią, którą łatwo połknąć. Policzona — trudniej.**
-> Spis idzie do księgi, jawnie, przy świadkach, i Korona ogłasza, że go ma. Nie rozstrzygam niczyich praw. **Rozstrzygać będzie Wielka Rada, a Wielka Rada rozstrzyga nad liczbą albo nad plotką.**
+Pismo idzie zatem **do lorda Larence'a Hornwooda i do lorda Galbarta Glovera, jego kuratora — dwa odpisy tego samego pisma.** Treść wzoru, z jedną zmianą, i zmiana nie brzmi „spis":
 
-**I rzecz, którą muszę nazwać sam sobie:** z Hornwood jadę **prosto do Dreadfortu**, cztery dni później. **Ta kolejność jest zdaniem, którego nie da się nie przeczytać** — Namiestnik ogląda pustą ziemię, a potem wjeżdża do człowieka, który jej chce.
+> ### **PRZYJEŻDŻAM ZAMKNĄĆ RZECZ, KTÓRA ZOSTAŁA ZAŁATWIONA I NIE ZOSTAŁA DOKOŃCZONA.**
 
-**Nie zmieniam kolejności.** Zmieniłbym ją tylko po to, żeby Roose Bolton nie pomyślał czegoś, co i tak pomyśli. **Zmieniam za to formę: w Hornwood liczę i ogłaszam, że policzyłem. Nie mówię ani jednego słowa o Dreadforcie — ani tam, ani tam.**
+**Co robię w Hornwood 12. października:**
+
+1. **Akt czytany na głos**, na dziedzińcu, przy ludziach — nie pokazany, **przeczytany**. *Prawo, którego nikt nie odczytał na głos, obowiązuje pergamin, nie ludzi.*
+2. **Chłopiec siedzi obok mnie, kiedy się to czyta**, i to on przyjmuje daninę do własnej księgi. Namiestnik jej nie dotyka.
+3. **Nota o ludziach Dreadfortu na folwarkach** — kto, gdzie, od kiedy, ilu. Liczba, data, świadek. **Bez jednego słowa oceny.**
+4. **Rachunek za sól i ziarno**, które Dreadfort tam wwoził przez pół roku: policzyć, ile tego było, i **zapłacić co do miedziaka z Kasy 3.** *Wdzięczność, którą się kupiło ziarnem, odkupuje się ziarnem — i wtedy przestaje być czyjąś.*
+
+**I rzecz, którą muszę nazwać sam sobie:** z Hornwood jadę **prosto do Dreadfortu**, cztery dni później. **Ta kolejność jest zdaniem, którego nie da się nie przeczytać.**
+
+**Nie zmieniam kolejności.** Zmieniłbym ją tylko po to, żeby Roose Bolton nie pomyślał czegoś, co i tak pomyśli. **Zmieniam formę: w Hornwood czytam, liczę i płacę — i nie mówię ani jednego słowa o Dreadforcie. Ani tam, ani tam.**
 
 ## ② DREADFORT — **pismo identyczne co do przecinka**
 
@@ -135,36 +143,59 @@ Sześć pism wychodzi zaadresowanych **do domu i siedziby**, bez imienia. **Tak 
 # V. LIST DO NESTY — Biały Port, prywatny, Kasa 1
 
 *Nie na papierze Korony. Nie przez kancelarię. Zwykłą pocztą Domu.*
+*Nesta płynie z poselstwem — zgodziła się 299-08-28. To nie jest list do kogoś, kto zostaje. To jest zbiórka.*
 
 **Nesto,**
 
-**Piszę Ci daty, zanim będą pogłoską**, bo za trzy dni ruszam na wschód i wiadomość o tym pójdzie sama.
+**Masz swoją datę.** Powiedziałaś „popłynę" w pierwszej linijce, bez ozdób, dwudziestego ósmego sierpnia. **Winna Ci byłem liczbę i przywożę ją teraz, a nie w porcie.**
 
-## Co i kiedy
+## KIEDY WYPŁYWAMY
 
-**W Białym Porcie stanę około piątego listopada. Zostanę dwa, najwyżej trzy dni. Wypłynę około siódmego.**
+**Do Białego Portu wjeżdżam około piątego listopada. Wypływamy około siódmego.**
 
-Potem **nie ma mnie sto do stu dwudziestu nocy** — Braavos, dalej Pentos, powrót przed wiosną. Przeprawa zimowa idzie **sześć do dziesięciu dni**, nie cztery do sześciu; port nie zamarza, ale morze jest cięższe, i wolę, żebyś liczył po wyższej liczbie.
+Nie prześlizguję się przez to zdanie: **wjeżdżam dwa dni przed wypłynięciem, i to jest wszystko, co mam.** Objazd wschodu — sześciu lordów, danina, przysięga — kończy się dokładnie u Twoich drzwi i nie da się go skrócić bez opuszczenia kogoś, kogo opuścić nie wolno.
 
-## Trzy rzeczy, o które proszę
+**Dwa okręty Wymana, nie jeden** — jak sam napisał: *„jeden na Wąskim Morzu zimą to nie jest flota, tylko nadzieja"*. **Przy stole będzie też człowiek Manderlych, z ramienia rodu.**
 
-**① Księga Domu zamknięta i gotowa do czytania na mój przyjazd.** Nie przygotowana — **zamknięta.** Mam na nią dwa dni i chcę je zużyć na czytanie, nie na czekanie, aż ktoś domknie kolumnę.
+**Przeprawa zimowa: sześć do dziesięciu dni, nie cztery do sześciu.** Port nie zamarza, ale morze jest cięższe i wiatry przeciwne. **Licz po wyższej liczbie.**
 
-**② Moje własne listy kredytowe na Braavos — moje, prywatne, z Kasy 1.**
+**Całość — Braavos, Pentos, powrót: czternaście do siedemnastu tygodni.** Podaję Ci liczbę, nie słowo „niedługo".
+
+## O co proszę — trzy rzeczy
+
+**① Twój kantor pod Hala — potwierdzone i na piśmie, zanim wsiądziemy.** Prosiłaś, żeby Dom go **poprowadził i oddał**, nie kupił i nie wchłonął. Tak stoi i tak zostanie zapisane: **przejęcie na czas oznaczony, z datą zwrotu, w akcie, który podpisujesz Ty, nie ja.**
+
+> **Umowa bez daty zwrotu nie jest zarządem. Jest przejęciem, które nie chce się tak nazywać.**
+> Napisałaś wprost, że to zwiąże oba domy mocniej niż kiedykolwiek, żeby nikt potem nie udawał zaskoczonego. **Ja też nie będę udawał: masz rację, że tak będzie, i dlatego chcę tam mieć datę.**
+
+**② Księga zamknięta na mój przyjazd** — nie przygotowana. **Zamknięta.** Mam na nią dwa dni i wolę je zużyć na czytanie, niż na czekanie, aż ktoś domknie kolumnę.
+
+**③ Moje listy kredytowe na Braavos — prywatne, z Kasy 1, moje.**
 
 > **Ani jeden grosz Korony nie idzie przez nasz dom.** Poselstwo wozi swoje pieniądze swoją drogą, pod pieczęcią Skarbnika.
-> **Jestem w tej sprawie stroną i mówiłem to już przy zbożu i przy węźle zachodnim. Mówię trzeci raz, żeby nie było wątpliwości, że przestałem mówić.**
+> *Mówiłem to przy zbożu i przy węźle zachodnim. Mówię trzeci raz, żeby nie było wątpliwości, że przestałem mówić.*
 
-**③ Wiedz o mojej nieobecności pierwszy.**
+## I odpowiedź na to, czego mnie nauczyłaś, zanim o to poprosiłem
 
-> **Wiadomość, że mnie nie ma, jest towarem.**
-> Chcę, żebyś ją miał **wcześniej niż ci, którzy by ją kupili.** Trzy miesiące to dość czasu, żeby ktoś spróbował czegoś, czego nie spróbowałby przy mnie w mieście. Nie mówię, że ktoś spróbuje. Mówię, że **od dziś to jest okno i że ono jest policzone.**
+Napisałaś trzy rzeczy o Braavos i jedną o mnie. **Tę o mnie przepisałem osobno i wożę ją przy sobie:**
 
-## I rzecz czwarta, która nie jest handlowa
+> *„Największym niebezpieczeństwem nie jest oszustwo — jest pochlebstwo. Nikt Cię tam nie okłamie w liczbach. Będą mówić, jaki jesteś wybitny, aż w to uwierzysz i podpiszesz na ICH warunkach. **Ty jesteś na to podatny, Symonie, bo długo nikt Ci nie mówił, że jesteś kimkolwiek.**"*
 
-**Mira.** Będę w Białym Porcie dwa dni, a potem trzy miesiące za morzem.
+**Nie odpowiadam na to, że się nie zgadzam.** Odpowiadam tak, jak umiem odpowiadać: **mechanizmem.**
 
-**Nie proszę Cię o nic w tej sprawie i nie zrzucam jej na Ciebie.** Piszę Ci tylko datę, żebyś ją znał — bo znasz nas oboje dłużej niż ktokolwiek w tym mieście i wolę, żebyś wiedział, co się kiedy dzieje, niż żebyś się domyślał z tego, jak wyglądam, kiedy zejdę z konia.
+> ### **W Braavos nie podpisuję niczego tego samego dnia, w którym mi to podano.**
+> **Ani razu, choćby warunki były najlepsze na świecie — zwłaszcza wtedy.** Ty masz mi to przypomnieć na głos, przy świadku, a jeśli mimo to sięgnę po pióro, **masz powiedzieć to jeszcze raz i głośniej.**
+> To samo prawo, które dałem kanclerzowi i które przedwczoraj wymusił na mnie stary rycerz przy szubienicy z siana: **wolno Ci mnie zatrzymać i nic Cię to nie kosztuje.**
+
+*I to Ty mówisz w Żelaznym Banku o drewnie, bursztynie i o porcie, który nie zamarza. Nie ja. Ja mówię o tym, czego Północ nigdy nie miała — i powiem to raz, krótko, tak jak kazałaś.*
+
+## Rzecz ostatnia, nie handlowa
+
+Zdanie, którego nie rozwinęłaś, bo Ty nigdy nie rozwijasz: *wypłynęłaś stamtąd jako dziewczyna, która była komuś winna pieniądze.*
+
+**Wracasz tam jako głos królestwa, i to nie jest przysługa, którą mi robisz.** Napisałaś, żebym pozwolił starej kobiecie mieć z tego trochę satysfakcji.
+
+**Pozwalam. I zamierzam patrzeć.**
 
 *— S.T.*
 

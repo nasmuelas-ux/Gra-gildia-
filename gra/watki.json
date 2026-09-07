@@ -4231,10 +4231,11 @@
   },
   {
    "id": "krol_staje_do_proby_szczebla_II_299_09",
-   "status": "otwarty",
+   "status": "uniewazniony",
    "priorytet": "wysoki",
    "termin": "przed zjazdem choragwi, w miare mozliwosci przed wyjazdem Namiestnika",
-   "tytul": "KROL STAJE DO PROBY SZCZEBLA II - przeczytac obca karte rachunkowa i wskazac blad, przed egzaminatorem wskazanym losem. Sam to na siebie nalozyl: \"ja bym tego kanonu nie zdal\""
+   "tytul": "ODWOLANE - proba Krola zamienialaby kanon w sprawdzian zdatnosci do korony i rozbrajala klauzule V napisana dla Brana. Zamiast egzaminu: godzina ze Skarbnikiem nad prawdziwa ksiega celna",
+   "_dziennik_nota": 1
   },
   {
    "id": "sansa_uczy_dziedziny_dziesiatej_299_09",
@@ -4267,6 +4268,12 @@
    "status": "uniewazniony",
    "priorytet": "wysoki",
    "tytul": "VOID - Reeda sie nie wzywa. Pismo z 09-08 juz zawiera obietnice, ze to Symon przyjedzie tam, gdzie Reed wskaze"
+  },
+  {
+   "id": "krol_uczy_sie_czytac_ksiege_299_09",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "tytul": "Krol uczy sie czytac ksiege rachunkowa - robota, nie egzamin: godzina z Gawenem nad prawdziwa ksiega celna, bez zapisu i bez ceremonii. Pierwsza przed przyjazdem Wymana"
   }
  ]
 }

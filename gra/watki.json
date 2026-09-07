@@ -4064,10 +4064,10 @@
   {
    "id": "zsumowanie_myta_i_cla_na_fosie_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 2,
+   "_dziennik_nota": 3,
    "priorytet": "wysoki",
-   "termin": "przed przyjazdem Wymana (~09-19/22)",
-   "tytul": "Zsumowanie myta i cla na Fosie - ksiega bramy lezy na Fosie, konny po odpis to 4 dni; szersza wada ustroju: dwie ksiegi w dwoch zamkach = nikt nie zna obciazenia zadnej bramy"
+   "termin": "jezdziec wraca ~299-09-20",
+   "tytul": "Zsumowanie myta i cla na Fosie - jezdziec Skarbnika wyslany po odpis ksiegi bramy (cala taryfa + caly miesiac osmy, miesiac wskazal Symon)"
   },
   {
    "id": "sansa_opiekunka_krolowej_roslin_299_08",
@@ -4146,6 +4146,13 @@
    "status": "otwarty",
    "priorytet": "sredni",
    "tytul": "Wezel Domu na zachodnim wybrzezu = jedyne oczy tam, gdzie Korona ich nie ma. Symon zglasza sie jako strona Skarbnikowi i Radzie."
+  },
+  {
+   "id": "odpis_ksiegi_myta_do_skarbu_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1,
+   "priorytet": "sredni",
+   "tytul": "Odpis ksiegi myta do Skarbu co miesiac - Fosa robi to sama i niepytana od zaraz; nalozenie tego na innych lennikow idzie na Rade jako wniosek"
   }
  ]
 }

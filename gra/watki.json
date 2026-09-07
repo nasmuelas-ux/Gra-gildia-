@@ -4336,7 +4336,12 @@
   {
    "id": "rozproszone_sklady_korony_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 6
+  },
+  {
+   "id": "relief_i_cena_zboza_jako_sonda_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

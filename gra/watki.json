@@ -4164,7 +4164,8 @@
    "id": "zjazd_choragwi_przysiega_na_korone_299_09",
    "status": "otwarty",
    "priorytet": "wysoki",
-   "tytul": "Zjazd choragwi - trzy rzeczy w jednej godzinie: przedstawienie Krolowej, przysiega na KORONE nie na czlowieka, obwieszczenie dziedzica i ODCZYTANIE granic regencji na glos. Ma sie odbyc BEZ Namiestnika."
+   "tytul": "DWA ZJAZDY: zimowy waski (przysiega + krolowa + obwieszczenie dziedzica) i Wielka Rada na wiosne (ratyfikacja prawa). Przysiega jako KSIEGA Z DATAMI, nie obrzed jednorazowy. Czeka na liczbe od Skarbnika",
+   "_dziennik_nota": 1
   },
   {
    "id": "powiedziec_branowi_i_catelyn_o_nastepstwie_299_09",
@@ -4247,6 +4248,12 @@
    "priorytet": "wysoki",
    "tytul": "Wielki Jon: \"jak przyjdzie, nie bede czekal na wezwanie - i wiem, ile mnie to kosztowalo ostatnim razem\". Najblizszy Murowi wielki dom ruszy bez rozkazu Korony",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "przysiega_przed_drzewem_i_septonem_299_09",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "tytul": "Przysiega na Korone w bozym gaju - SEPTON Z BIALEGO PORTU STAJE OBOK DRZEWA SERCA. Te same slowa, ten sam dzien, ta sama ksiega. Rozwiazuje problem Manderlych i oglasza, jakim krolestwem jest Polnoc"
   }
  ]
 }

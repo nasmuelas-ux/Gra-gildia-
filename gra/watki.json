@@ -3100,9 +3100,9 @@
   },
   {
    "id": "polnocna_cytadela_theomore_przystan_wilka_299_08",
-   "tytul": "GLEBOKORZEN - karta ustrojowa (standard nie monopol; bez aparatu opresji; szkoly prywatne wolne; badania zewnetrzne dozwolone; relacje z Cytadela reguluje Korona) + lancuch, stroj, przysiega; Theomore mistrz, Luwin Mistrz Nauki w Radzie",
+   "tytul": "GLEBOKORZEN - karta zatwierdzona, czesc przejsciowa do szuflady (wyzwalacz: trzy policzalne warunki). PROBLEM: Cytadela PRZYDZIELA maesterow i moze po prostu przestac przysylac - to wyscig, nie wybor terminu",
    "status": "otwarty",
-   "_dziennik_nota": 17,
+   "_dziennik_nota": 18,
    "priorytet": "wysoki"
   },
   {
@@ -4203,6 +4203,18 @@
    "status": "uniewazniony",
    "_dziennik_nota": 3,
    "tytul": "VOID - Cytadela Polnocy to GLEBOKORZEN. Oba bledne pliki usuniete"
+  },
+  {
+   "id": "zastepcy_do_krukow_i_ksiag_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "tytul": "Czlowiek do krukow i ksiag zamiast maestera - dwa-trzy lata zamiast szesnastu (rachunek Luwina). Jedyna odpowiedz na cicha grozbe przydzialow. Luwin szkoli od zaraz, po cichu"
+  },
+  {
+   "id": "mistrz_nauki_tytul_czy_cisza_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "tytul": "Luwin Mistrzem Nauki: tytul jawnie (Stare Miasto odczytuje, zegar rusza lata za wczesnie) czy robota bez tytulu (nauka bez nazwiska przy stole)? Nierozstrzygniete"
   }
  ]
 }

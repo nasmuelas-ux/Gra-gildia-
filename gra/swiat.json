@@ -2,12 +2,12 @@
  "data": {
   "rok": 299,
   "miesiac": 9,
-  "dzien": 14,
+  "dzien": 15,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "lato (298)",
- "pogoda": 46,
+ "pogoda": 99,
  "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "Zamkniecie urny w Zimowym Miescie o zmierzchu (pierwszy pelny dzien pogody) + wyjazd Osrica Kamienia z kolumna zbozowa na Mur",
- "dzien": 14,
+ "dzien": 15,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -235,5 +235,6 @@
  "_dziennik_wieczor_299_09_12": 1,
  "_dziennik_ranek_299_09_13": 1,
  "_dziennik_teka_299_09_14": 1,
- "_dziennik_teka_przedlozona_299_09_14": 1
+ "_dziennik_teka_przedlozona_299_09_14": 1,
+ "_dziennik_ranek_299_09_15": 1
 }

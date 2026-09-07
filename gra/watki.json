@@ -2216,9 +2216,10 @@
   },
   {
    "id": "uwolniona_partia_z_harrenhal_pod_opieka_1116",
-   "tytul": "Uwolniona partia z Harrenhal pod opieka Polnocy",
-   "status": "WYKONANY_Wylis_domkniety_Arya_cisza_furtka_uchylona_dlugo",
-   "_dziennik_nota": 7
+   "tytul": "SPIS UWOLNIONYCH Z HARRENHAL - pytanie zadane przez ARYE: czy ktos ich policzyl i zapisal. Zlecone; gotowy spis idzie DO NIEJ, nie do Namiestnika",
+   "status": "otwarty",
+   "_dziennik_nota": 8,
+   "priorytet": "sredni"
   },
   {
    "id": "sonda_reach_i_stannis_1117",

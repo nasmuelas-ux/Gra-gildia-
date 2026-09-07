@@ -3255,9 +3255,9 @@
   },
   {
    "id": "prawo_sukcesji_polnocy_299_08",
-   "tytul": "Prawo nastepstwa (ratyf. 299-08-17) + GRANICE REGENCJI spisane 299-09-15; brakuje IMIENIA regenta - wyznacza Krol glosno przy choragwiach",
+   "tytul": "NASTEPSTWO NAZWANE 299-09-16: dziedzic Brandon Stark; Rada Regencyjna Cerwyn/Manderly/Umber; opieka lady Catelyn osobno; akt dzis w trzech odpisach, obwieszczenie na zjezdzie bez Namiestnika",
    "status": "otwarty",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "priorytet": "wysoki"
   },
   {
@@ -4153,6 +4153,18 @@
    "_dziennik_nota": 1,
    "priorytet": "sredni",
    "tytul": "Odpis ksiegi myta do Skarbu co miesiac - Fosa robi to sama i niepytana od zaraz; nalozenie tego na innych lennikow idzie na Rade jako wniosek"
+  },
+  {
+   "id": "zjazd_choragwi_przysiega_na_korone_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "tytul": "Zjazd choragwi - trzy rzeczy w jednej godzinie: przedstawienie Krolowej, przysiega na KORONE nie na czlowieka, obwieszczenie dziedzica i ODCZYTANIE granic regencji na glos. Ma sie odbyc BEZ Namiestnika."
+  },
+  {
+   "id": "powiedziec_branowi_i_catelyn_o_nastepstwie_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "tytul": "Nikt jeszcze nie powiedzial Branowi, ze jest dziedzicem, ani Catelyn, ze bierze opieke nad osoba Krola. Ani trzem nazwanym lordom."
   }
  ]
 }

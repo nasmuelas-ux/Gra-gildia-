@@ -2,7 +2,32 @@
 ## 299-09-16, Winterfell · pod rozstrzygnięcie Króla
 
 **Prowadzi: maester LUWIN**, z upoważnienia Króla w sprawach nauki.
-**Miarę orzeka GŁĘBOKORZEŃ. Wykonuje KORONA.** *Sprawa dworu, nie obwieszczenie.*
+**Miarę orzeka GŁĘBOKORZEŃ. Wykonuje KORONA.** *Sprawa dworu, nie obwieszczenie: zna go Król, Rada i nauczyciele.*
+
+---
+
+# MOTTO RODU
+
+> # ZIMA NADCHODZI
+
+**To nie jest wróżba i nigdy nią nie było. To jest rozkaz wydany przez pokolenia, które przeżyły — i wydany naprzód, do tych, którzy jeszcze nie wiedzą, po co.**
+
+# MYŚL PRZEWODNIA KANONU
+
+> ## **UCZYMY DZIECI ROBIĆ RZECZY PRZED, A NIE PO.**
+
+Zapisał to — nie wiedząc, że pisze zasadę własnego wychowania — **dziesięcioletni Brandon Stark**, ósmego dnia tego miesiąca, przeczytawszy wszystko, co Północ pamięta o Długiej Nocy:
+
+> *„Mur postawiono **po**. Straż założono **po**. Miecze w kryptach położono **po**.*
+> ***Nikt się nie przygotował. Wszyscy zbudowali dopiero potem.**"*
+
+**Cała reszta tego kanonu jest jedynie wyliczeniem, czego trzeba umieć, żeby to zdanie przestało być prawdziwe.**
+
+**Stąd trzy pasma i ich porządek:**
+
+| **GŁOWA** | **RĘKA I CIAŁO** | **LUDZIE** |
+|---|---|---|
+| żeby **wiedzieć, co idzie** | żeby **przetrwać, kiedy przyjdzie** | żeby **nie przetrwać samemu** |
 
 ---
 
@@ -15,9 +40,9 @@
 
 ---
 
-# II. DZIEWIĘĆ DZIEDZIN, TRZY PASMA
+# II. DZIEWIĘĆ DZIEDZIN
 
-## PASMO PIERWSZE — GŁOWA
+## PASMO PIERWSZE — GŁOWA · *żeby wiedzieć, co idzie*
 
 **1 · LITERY** — czytać, pisać, dyktować, **czytać cudze pismo**.
 *Król, który dyktuje wszystko, jest zdany na tego, kto pisze.*
@@ -25,39 +50,37 @@
 **2 · RACHUNEK I MIARA** — cztery działania, wagi, miary, **czytanie księgi rachunkowej i wychwycenie w niej błędu**.
 *Cały ten rok stanął na tym, że prawie nikt na Północy nie umie przeczytać księgi celnej.*
 
-**3 · PRAWO I ZAPIS** — kodeks Północy z precedensami, jak się spisuje akt, **reguła dwóch kart: zapis osobno, wykładnia osobno**.
+**3 · PRAWO I ZAPIS** — kodeks Północy z precedensami, jak się spisuje akt, **reguła dwóch kart: zapis osobno, wykładnia osobno, obie podpisane**.
 *Król, który nie zna własnego prawa, jest rządzony przez tego, kto mu je cytuje.*
 
 **4 · ZIEMIA I RODY** — mapa, drogi, rzeki, porty, żniwa, **kto co trzyma i po kim**.
 *Licz drogi, nie głosy — a drogi trzeba najpierw znać.*
 
-## PASMO DRUGIE — RĘKA I CIAŁO
+## PASMO DRUGIE — RĘKA I CIAŁO · *żeby przetrwać, kiedy przyjdzie*
 
 **5 · BROŃ I KOŃ** *(wedle ciała)* — miecz, tarcza, łuk, jazda **w śniegu i po marszu, nie na dziedzińcu turniejowym**.
 
-> **Nie po to, żeby wychować mistrza. Po trzy rzeczy, i wszystkie trzy warto wypisać:**
+> **Nie po to, żeby wychować mistrza. Po trzy rzeczy:**
 > **①** żeby **nie zginąć głupio**;
-> **②** żeby **nie być bezradnym wśród zbrojnych** — pan, który nigdy nie trzymał miecza, jest prowadzony przez tego, kto trzymał;
+> **②** żeby **nie być bezradnym wśród zbrojnych** — *pan, który nigdy nie trzymał miecza, jest prowadzony przez tego, kto trzymał*;
 > **③** żeby **wiedzieć, czego się żąda od ludzi posyłanych w pole.**
 
-**6 · ZIMA I CIAŁO** — i tego nie uczy się nigdzie w Westeros jako osobnej rzeczy, **a jest to dziedzina, na której Północ stoi albo pada:**
+**6 · ZIMA I CIAŁO** — dziedzina, której nikt w Westeros nie uczy jako osobnej rzeczy, **a Północ na niej stoi albo pada:**
 marsz w mrozie · rozpoznanie odmrożenia · schronienie ze śniegu i gałęzi · **pływanie** *(Biały Nóż, Przesmyk, brody)* · łowy i oporządzenie zwierzyny · **zatamować krew, nastawić kość, rozpoznać gorączkę** · **gospodarstwo zimowe**: zapasy, opał, solenie i suszenie, kopce, szklarnia.
 
-> *Kompas Króla z 299-08-04: uczeni mają umieć nastawić kość, a nie recytować południowe wiersze.* **To samo obowiązuje jego rodzinę.**
+> *Kompas Króla: uczeni mają umieć nastawić kość, a nie recytować południowe wiersze.* **To samo obowiązuje jego rodzinę.**
 
-**7 · RZEMIOSŁO — jedno, własnymi rękami, do końca.**
-Kowalstwo, ciesiołka, garbarstwo, warzenie, szklarstwo, pisanie ksiąg — obojętne które. **Ma być doprowadzone do rzeczy, która działa.**
+**7 · RZEMIOSŁO — jedno, własnymi rękami, doprowadzone do rzeczy, która działa.**
+Kowalstwo, ciesiołka, garbarstwo, warzenie, szklarstwo, pisanie ksiąg — obojętne które.
 
 > **Człowiek, który nigdy niczego nie zrobił, nie wie, ile co trwa — i przez całe życie żąda rzeczy w terminach, których nie ma.**
-> *Piszę to jako ten, kto ma w tej dziedzinie jedynkę i wie dokładnie, ile go to kosztowało.*
 
-## PASMO TRZECIE — LUDZIE
+## PASMO TRZECIE — LUDZIE · *żeby nie przetrwać samemu*
 
-**8 · OBYCZAJ I WIARA** — stare bogi i Siedmiu, **prawo gościa**, obrzędy pogrzebu, ślubu i przysięgi, co się mówi i czego się nie mówi w czyimś domu.
+**8 · OBYCZAJ I WIARA** — stare bogi i Siedmiu, **prawo gościa**, obrzędy pogrzebu, ślubu i przysięgi, co się mówi i czego się nie mówi w cudzym domu.
 *Pan, który obraża ludzi przez nieuwagę, kosztuje więcej niż pan zły — bo zły przynajmniej wie, co robi.*
 
-**9 · MOWA I SŁUCHANIE** — mówić przed ludźmi, **wydać rozstrzygnięcie na głos**, przyjąć przysięgę; i:
-**jak się słucha człowieka, który czegoś chce** — rozpoznać prośbę przebraną za radę, policzyć, kto na czym zyskuje, **odróżnić dwie drogi od jednego głosu powtórzonego dwa razy.**
+**9 · MOWA I SŁUCHANIE** — mówić przed ludźmi, **wydać rozstrzygnięcie na głos**, przyjąć przysięgę; oraz **jak się słucha człowieka, który czegoś chce**: rozpoznać prośbę przebraną za radę, policzyć, kto na czym zyskuje, **odróżnić dwie drogi od jednego głosu powtórzonego dwa razy.**
 *Tego nie uczy żaden maester w Westeros, a król robi to codziennie.*
 
 ---
@@ -68,37 +91,33 @@ Kowalstwo, ciesiołka, garbarstwo, warzenie, szklarstwo, pisanie ksiąg — oboj
 
 | szczebel | dziedziny | **PRÓBA** |
 |---|---|---|
-| **I · DOM** *(do 7)* | 1 · 4 · 5 · 8 *(w domowym wymiarze)* | brak — na tym szczeblu się nie egzaminuje |
+| **I · DOM** *(do 7)* | 1 · 4 · 5 · 8 *w domowym wymiarze* | brak — na tym szczeblu się nie egzaminuje |
 | **II · LITERY I MIARA** *(7–12)* | 1 · 2 · 4 · 5 · 6 · 8 | ### przeczytać **obcą kartę rachunkową** i wskazać w niej **jeden błąd** |
-| **III · PRAWO I LUDZIE** *(12–16)* | wszystkie dziewięć + **ścieżka własna** | ### wysłuchać **dwóch stron prawdziwego, małego sporu** i wydać rozstrzygnięcie **na piśmie, z uzasadnieniem**, przed Justycjariuszem |
+| **III · PRAWO I LUDZIE** *(12–16)* | wszystkie dziewięć **+ ścieżka własna** | ### wysłuchać **dwóch stron prawdziwego, małego sporu** i wydać rozstrzygnięcie **na piśmie, z uzasadnieniem**, przed Justycjariuszem |
 | **IV · URZĄD** *(16+)* | praktyka: rok przy Skarbniku, rok przy sądzie, rok w polu przy Marszałku | ### prowadzić **coś prawdziwego przez rok** i zdać z tego **rachunek** |
 
 **Szczebel IV jest tym, czym u Tallych jest wspólnik: nie tytułem, tylko dowodem.**
 
 ---
 
-# IV. ŚCIEŻKA WŁASNA — od kiedy i na jakich warunkach
+# IV. ŚCIEŻKA WŁASNA
 
-> ### **OD KOŃCA SZCZEBLA II — to znaczy PO ZDANEJ PRÓBIE LITER I MIARY, zwykle około dwunastego roku.**
-> **Nie wcześniej, i nie od wieku, tylko od zdanej próby.**
-
-**Dlaczego nie prędzej:**
+> ### **OD KOŃCA SZCZEBLA II — po ZDANEJ PRÓBIE liter i miary. Zwykle około dwunastego roku.**
+> **Nie od wieku. Od zdanej próby.**
+>
 > **Wybór przed literami nie jest wyborem — jest gustem rodziców.** Dziecko, które nie umie jeszcze czytać cudzego pisma, nie wybiera drogi; wybiera to, co widziało w ostatnim tygodniu.
 
-## Cztery warunki ścieżki
+**① WYBIERA DZIECKO.** Nie ojciec, nie matka, nie maester, nie Namiestnik. Wybór wpisuje się do księgi **jego własnymi słowami.**
 
-**① WYBIERA DZIECKO.** Nie ojciec, nie matka, nie maester, nie Namiestnik. Wybór wpisuje się do księgi **jego własnymi słowami**.
+**② ŚCIEŻKA DOKŁADA SIĘ, NIE ZASTĘPUJE.** Wspólny kanon idzie do końca szczebla III.
+*Kto zamienia podstawę na upodobanie, dostaje człowieka, który umie jedną rzecz i nie umie służyć.*
 
-**② ŚCIEŻKA DOKŁADA SIĘ, NIE ZASTĘPUJE.** Wspólny kanon idzie dalej do końca szczebla III. *Kto zamienia podstawę na upodobanie, dostaje człowieka, który umie jedną rzecz i nie umie służyć.*
-
-**③ WOLNO ZMIENIĆ RAZ.** Zmiana wchodzi do księgi **z powodem podanym przez dziecko**. Drugi raz — dopiero po szczeblu III.
+**③ WOLNO ZMIENIĆ RAZ**, z powodem podanym przez dziecko i wpisanym do księgi. Drugi raz — dopiero po szczeblu III.
 *Kto nie może zmienić ani razu, wybiera pod przymusem. Kto może zmieniać bez końca, nie wybiera wcale.*
 
 **④ DZIEDZICOWI WOLNO TAK SAMO.** Kanon i tak uczy go rządzenia na czterech szczeblach; **ścieżka własna jest tym, co czyni go sobą, a nie urzędem w dziecięcym ciele.**
 
-## Pełne rozejście — na szczeblu IV
-
-Na szczeblu IV wspólny kanon się kończy. **Ścieżka przestaje być nauką i staje się robotą** — i to ona jest tym „czymś prawdziwym", z czego zdaje się roczny rachunek.
+**Na szczeblu IV wspólny kanon się kończy. Ścieżka przestaje być nauką i staje się robotą** — i to ona jest tym „czymś prawdziwym", z czego zdaje się roczny rachunek.
 
 ---
 
@@ -118,7 +137,7 @@ Na szczeblu IV wspólny kanon się kończy. **Ścieżka przestaje być nauką i 
 **① CIAŁO NIE ROZSTRZYGA.** Siedem z dziewięciu dziedzin nie wymaga sprawnego ciała. **Z pasma drugiego dziecko, które nie dosiada konia, bierze pływanie, rany i gorączkę, oporządzanie, gospodarstwo zimowe i całe rzemiosło** — czyli większość. Czego nie może, **zapisuje się wprost**: bez udawania, że dziedzina piąta nie istnieje, i bez udawania, że jej brak przekreśla resztę.
 *To zabezpieczenie na każde pokolenie, w którym komuś coś się stanie.*
 
-**② KANON OBEJMUJE WSZYSTKIE CZWORO.** Prawo z 299-08-17 mówi, że **córki dziedziczą**; kanon uczący samych chłopców gwarantuje kryzys w dniu, w którym korona przejdzie na kobietę.
+**② KANON OBEJMUJE WSZYSTKIE CZWORO.** Bran, Rickon, **Sansa i Arya** — bo prawo z 299-08-17 mówi, że **córki dziedziczą**. Kanon uczący samych chłopców gwarantuje kryzys w dniu, w którym korona przejdzie na kobietę.
 
 **③ KTO UCZY, TEN NIE SPRAWDZA.**
 > Próbę odbiera **nauczyciel z innego węzła, wskazany LOSEM z roli licencji**, rotujący co rok — nie zna dziecka i nie zawdzięcza niczego dworowi.
@@ -128,19 +147,21 @@ Na szczeblu IV wspólny kanon się kończy. **Ścieżka przestaje być nauką i 
 
 # VII. OBSADA I KOSZT
 
-**Uczyć może nie tylko maester** — rządca, wdowa po pisarzu, kwatermistrz, obcy rzemieślnik: kto umie i ma licencję.
+**Uczyć może nie tylko maester** — rządca, wdowa po pisarzu, kwatermistrz, obcy rzemieślnik: **kto umie i ma licencję.**
 
 | dziedziny | kto |
 |---|---|
 | **1 · 3 · 4** litery, prawo, ziemia | **maester LUWIN** *(prawo — z Justycjariuszem)* |
 | **5** broń i koń | **RODRIK CASSEL / ser ALYN** |
 | **6** zima i ciało | ⚠ **puste** — łowczy, kwatermistrz i **stara akuszerka albo znachorka**, nie maester |
-| **7** rzemiosło | ⚠ **puste** — mistrz cechowy z Zimowego Miasta albo z Białego Portu, **jeden na każde dziecko wedle wyboru** |
+| **7** rzemiosło | ⚠ **puste** — mistrz cechowy z Zimowego Miasta albo Białego Portu, **jeden na każde dziecko wedle wyboru** |
 | **2** rachunek | ⚠ **puste** — najem z zewnątrz, żołd Korony; **nie z mojej szkoły i nie z mojej kasy** |
-| **8** obyczaj i wiara | **Stara Niania** *(stare bogi, obyczaj, prawo gościa)* + **septon z Białego Portu** *(Siedmiu — bo pół królestwa i królowa)* |
+| **8** obyczaj i wiara | **STARA NIANIA** *(stare bogi, obyczaj, prawo gościa)* + **septon z Białego Portu** *(Siedmiu — bo pół królestwa i królowa)* |
 | **9** mowa i słuchanie | **nie obsadzam i sam nie uczę** — a pierwszą kandydatką jest ta z Was, która wróciła z Południa |
 
-**Mowa braavijska** *(ścieżka własna, nie kanon)*: doraźnie mój instruktor z Fosy, na moim żołdzie — **z prośbą, by wskazał człowieka na stałe**; stały najem może przywieźć poselstwo z Braavos.
+**Mowa braavijska** *(ścieżka własna, nie kanon)*: doraźnie mój instruktor z Fosy, **na moim żołdzie**, przyjeżdża i tak dla Aryi — **z prośbą, by wskazał człowieka na stałe.** Stały najem może przywieźć poselstwo z Braavos.
+
+**Namiestnik szuka, sprawdza i przedkłada, dopisując przy każdym nazwisku, skąd je ma. Rozstrzyga Król.**
 
 **Koszt: 18–30 smoków rocznie.** *Mniej niż danina Fosy. Jedyna pozycja w budżecie Korony, która pracuje przez czterdzieści lat.*
 
@@ -149,10 +170,16 @@ Na szczeblu IV wspólny kanon się kończy. **Ścieżka przestaje być nauką i 
 # VIII. CZEGO KANON NIE ZAŁATWIA
 
 **RICKON.** Dostaje szczebel I i nauczyciela — więcej, niż miał wczoraj. Nie załatwia to tego, że **ma pięć lat, jest drugim ogniwem linii i nikt mu nigdy nic nie mówi.**
-**To sprawa obecności, nie słów.** Należy do jego matki.
+> **To jest sprawa obecności, nie słów.** Należy do jego matki, nie do kanonu.
 
-**LUKA W KARCIE ZIMOWEJ STRAŻY.** Drabina posłuszeństwa kończy się na Królu — więc przy małoletnim kończy się **na dziecku**, a opiekunka w drabinie nie stoi.
+**LUKA W KARCIE ZIMOWEJ STRAŻY.** Drabina posłuszeństwa kończy się **na Królu** — więc przy małoletnim kończy się **na dziecku**, a opiekunka w drabinie nie stoi.
+
 > Poprawka z narzędzia, które w karcie już jest *(punkt 10: gwardzista wykonuje wyroki, nie rozkazy)*:
-> ### W małoletności powinność Pierwszego Miecza biegnie **do urzędu, nie do słowa osoby.** Małoletni Król nie odprawia własnej warty.
+> ### W czasie małoletności powinność Pierwszego Miecza biegnie **do urzędu, nie do słowa osoby.** Małoletni Król nie odprawia własnej warty i nie zwalnia gwardzisty.
 
 **Wymaga słowa Króla i Pierwszego Miecza.**
+
+---
+
+> ### **ZIMA NADCHODZI — i to jest jedyny powód, dla którego ten spis w ogóle istnieje.**
+> **Uczymy przed. Nie po.**

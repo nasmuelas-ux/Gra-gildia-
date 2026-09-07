@@ -135,6 +135,13 @@
    "imie": "Ser Rodrik Cassel",
    "rola": "Pierwszy Miecz - dowodca zalozycielski ZIMOWEJ STRAZY (gwardii Krola); zbrojmistrz Winterfell",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "roslin_frey",
+   "imie": "Roslin Frey (kandydatka - lagodny standout)",
+   "rola": "Wnuczka/corka Waldera; lagodna, obiecujaca kandydatka na krolowa - DO WERYFIKACJI",
+   "_dziennik_nota": 6,
+   "zawod": "KROLOWA POLNOCY (od wesela w Blizniakach, sierpien/wrzesien 299); z domu Frey, siostra Perwyna"
   }
  ],
  "w_orbicie": [
@@ -1007,12 +1014,6 @@
    "imie": "Walda Frey (kandydatka forsowana przez Waldera)",
    "rola": "Wnuczka Waldera, jego 'kandydatka' na krolowa - kon trojanski",
    "_dziennik_nota": 2
-  },
-  {
-   "id": "roslin_frey",
-   "imie": "Roslin Frey (kandydatka - lagodny standout)",
-   "rola": "Wnuczka/corka Waldera; lagodna, obiecujaca kandydatka na krolowa - DO WERYFIKACJI",
-   "_dziennik_nota": 6
   },
   {
    "id": "masha_heddle_rozdroze",

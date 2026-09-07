@@ -9,7 +9,7 @@
  "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
  "zdrowie": 92,
  "sytosc": 64,
- "zmeczenie": 63,
+ "zmeczenie": 65,
  "sakiewka": {
   "miedziaki": 1,
   "jelenie": 95,
@@ -884,6 +884,6 @@
  "_dziennik_POCHODZENIE": 1,
  "_dziennik_ZYCIE_PRYWATNE": 2,
  "_dziennik_POSTAWY_I_DOKTRYNY": 2,
- "_dziennik_nota": 2,
+ "_dziennik_nota": 4,
  "nadgarstek_prawy": "299-09-20: stluczony przy treningu (rzut 18), pogorszony wieczornym liczeniem i pisaniem. Spuchniety. 09-21 pisanie prawie niemozliwe - dyktowac. Ustepuje w kilka dni."
 }

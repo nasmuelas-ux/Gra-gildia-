@@ -4164,7 +4164,14 @@
    "id": "powiedziec_branowi_i_catelyn_o_nastepstwie_299_09",
    "status": "otwarty",
    "priorytet": "wysoki",
-   "tytul": "Nikt jeszcze nie powiedzial Branowi, ze jest dziedzicem, ani Catelyn, ze bierze opieke nad osoba Krola. Ani trzem nazwanym lordom."
+   "tytul": "Bran WIE (09-16). Nie wiedza: Catelyn (opieka nad osoba Krola), Rickon (drugie ogniwo linii, 5 lat, nikt nie ma planu), Sansa, Arya, trzej nazwani lordowie",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "rickon_drugie_ogniwo_linii_299_09",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "tytul": "Rickon jako drugie ogniwo linii nastepstwa - zarzut postawiony przez BRANA, nie przez Rade: ma piec lat, jest poza obiegiem wiadomosci i nikt nie wie, kto i jak mu powie"
   }
  ]
 }

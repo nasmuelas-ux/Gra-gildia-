@@ -2300,9 +2300,10 @@
   },
   {
    "id": "sansa_status_po_blackwater_1127",
-   "tytul": "Sansa - status po Blackwater (zywa/trzymana, szczegoly w mgle)",
-   "status": "ZYWA_TRZYMANA_szczegoly_niepotwierdzone_Willa_dopina",
-   "_dziennik_nota": 7
+   "tytul": "Sansa - dlug z 09-10 splacony (Symon powiedzial Robbowi); relacja wciaz niespisana JEJ reka; zgoda dla siatki niedana i niewymuszana",
+   "status": "otwarty",
+   "_dziennik_nota": 8,
+   "priorytet": "sredni"
   },
   {
    "id": "jaime_os_prestizu_i_dzwignia_1127",
@@ -3976,7 +3977,9 @@
   {
    "id": "sansa_jako_zrodlo_dworskie_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "priorytet": "sredni",
+   "tytul": "Sansa jako czytelniczka doniesien (tresc bez imion) - czytanie ma przetrwac dwumiesieczna nieobecnosc Namiestnika"
   },
   {
    "id": "ucho_korony_druga_siatka_299_09",
@@ -4066,7 +4069,9 @@
   {
    "id": "sansa_opiekunka_krolowej_roslin_299_08",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "priorytet": "sredni",
+   "tytul": "Sansa przy krolowej Roslin - przedlozone SANSIE jako pytanie, nie przydzial (ta sama zbroja, te same zawiasy); czeka na jej odpowiedz"
   },
   {
    "id": "zwiazac_nastepce_freya_299_09",

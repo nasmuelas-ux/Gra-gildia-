@@ -3572,9 +3572,9 @@
   },
   {
    "id": "danina_lenna_fosy_do_korony_299_09",
-   "tytul": "DANINA LENNA FOSY CAILIN - wlasny dlug Namiestnika wobec Korony, do policzenia i zaplacenia PIERWSZY",
-   "status": "POLICZONA_299-09-05_(40_smokow_+_sluzba_wojenna);_DO_ZAPLATY_PIERWSZA_JAWNIE_PRZED_RADA_po_powrocie_krola_299-09-14/10",
-   "_dziennik_nota": 6
+   "tytul": "Danina lenna Fosy Cailin - 40 smokow rocznie ustalone przez Krola 299-09-15, zaplacone z Kasy 2, pozycja pierwsza rejestru danin",
+   "status": "rozstrzygniete",
+   "_dziennik_nota": 7
   },
   {
    "id": "danina_299_a_wczesny_snieg_299_09",
@@ -4082,8 +4082,29 @@
   },
   {
    "id": "objazd_zachodu_kto_zbierze_299_09",
+   "status": "rozstrzygniete",
+   "_dziennik_nota": 2,
+   "tytul": "Podzial objazdu danin - ogloszenie listem do wszystkich naraz; Namiestnik na wschod (8 lordow), Krol z Krolowa na zachod (6 lordow) wiosna 300"
+  },
+  {
+   "id": "mobilizacja_stopien_I_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "priorytet": "wysoki",
+   "termin": "wygasa 300-01-15 albo z powrotem Namiestnika",
+   "tytul": "Stopien I mobilizacji (~200 mieczy, 10 dni) - upowaznienie z gory: imiennie ser Alyn / marszalek Osric, tylko na fakt, z obowiazkiem meldunku"
+  },
+  {
+   "id": "rejestr_danin_polnocy_299_09",
+   "status": "otwarty",
+   "priorytet": "wysoki",
+   "tytul": "Rejestr danin Polnocy - metoda powszechna, liczby ustala Rada na wniosek Skarbnika; rola JAWNA z woli Krola; Fosa = wzor rachunku, nie stawka wzorcowa"
+  },
+  {
+   "id": "ziemie_bez_pana_kamienisty_brzeg_299_09",
+   "status": "otwarty",
+   "priorytet": "sredni",
+   "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady."
   }
  ]
 }

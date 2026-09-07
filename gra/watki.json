@@ -2739,9 +2739,10 @@
   },
   {
    "id": "system_oswiaty_polnocy_struktura_299_06",
-   "tytul": "System oswiaty Polnocy - struktura (pien+galezie): powszechne/Cytadela Polnocy/fachowe/morska/wojskowa/wiary",
-   "status": "WEZEL3_BIALY_PORT_299-08-11_MODEL_PRZECHYLONY",
-   "_dziennik_nota": 8
+   "tytul": "System oswiaty Polnocy (5 wezlow od 299-06-12) + UZUPELNIENIE 09-16: lancuch (braz-miara, czardrzew-pamiec, stal-prawo), stroj, przysiega, Theomore glowa Straznicy Zimy, LUWIN MISTRZ NAUKI w Radzie",
+   "status": "otwarty",
+   "_dziennik_nota": 9,
+   "priorytet": "wysoki"
   },
   {
    "id": "starkport_zachodni_port_sea_dragon_point_299_06",
@@ -4185,15 +4186,21 @@
   {
    "id": "kanon_wychowania_rodziny_krolewskiej_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1,
+   "_dziennik_nota": 2,
    "priorytet": "wysoki",
-   "tytul": "Kanon wychowania rodziny krolewskiej - siedem pozycji, szesc nie wymaga ciala, obejmuje wszystkie czworo; Namiestnik pisze ale nie wybiera nauczycieli; 15-27 smokow/rok. Pod rozstrzygniecie Krola"
+   "tytul": "KANON NAUKI RODU STARKOW - drabina czterech szczebli z proba na kazdym (wzor programu wychowankow Tally); jawnosc wycofana, dobor ludzi: Namiestnik przedklada, Krol rozstrzyga"
   },
   {
    "id": "maloletni_krol_a_karta_zimowej_strazy_299_09",
    "status": "otwarty",
    "priorytet": "sredni",
    "tytul": "Luka w karcie Zimowej Strazy: drabina konczy sie na Krolu, wiec przy maloletnim konczy sie na dziecku. Poprawka: powinnosc biegnie do urzedu nie do slowa osoby. Wymaga Krola i Pierwszego Miecza"
+  },
+  {
+   "id": "kolegium_polnocy_maesterowie_299_09",
+   "status": "uniewazniony",
+   "_dziennik_nota": 2,
+   "tytul": "VOID - duplikat. Cytadela Polnocy = STRAZNICA ZIMY w Przystani Wilka, istnieje od 299-06-12"
   }
  ]
 }

@@ -17,10 +17,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 299-09-13 ranek · lato (298)
+- **Data:** 299-09-14 ranek · lato (298)
 - **Miejsce:** Winterfell - serce Polnocy, siedziba Starkow / dwor Krola Robba (wesele Robb-Roslin za dni)
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 92 · Sytosc 56 · Zmeczenie 20**
+- **Zdrowie 94 · Sytosc 28 · Zmeczenie 6**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied
@@ -45,6 +45,8 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - **Stara Niania** (`stara_niania`) —  · nast ?
 - **Orwyl** (`orwyl_zbrojmistrz`) —  · nast ?
 - **Oswyn Miarka** (`oswyn_miarka`) — miernik/urzednik miejski Zimowego Miasta - spichlerz mi… · nast rzeczowy, uparty; woli sie spoznic niz przyniesc niepewna liczbe
+- **Robb Stark** (`robb_stark`) — dziedzic Winterfell, l.15 - TRZYMA grod jako p.o. pana … · nast UFA gleboko + od 09-30 CZLOWIEK RADY (chce Symona przy swojej radzie dla umyslu, nie tylko taboru)
+- **Ser Rodrik Cassel** (`rodrik_cassel`) —  · nast ?
 
 ## ZEGARY
 - ◆ `?` draw_nesta: Miesieczny draw wspolnika ze spolki Nesty (6 jel) -> depozyt. || 297-02-19: ODPALIL - draw wspo…
@@ -106,7 +108,6 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - `uklad_celny_pobor_lenna_299_09` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [299-09-13] `willa_prospekt_wywiad`: 299-09-13 - RAPORT WILLI Z FOSY (przyszedl inboundem 80; bez rzutu - raport wlasnego, oplacanego czlowieka). Na dwa zlecenia z 09-04: ksiegi ciesli oraz sklady Bennarda. || I. METODA SYMONA …
 - [299-09-13] `zestawienie_dni_barka_komora_299_09`: 299-09-13: TRZECI STRUMIEN - RAPORT WILLI (ksiegi ciesli). Do KALENDARZA (zaklepane dni barki) i do BRAMY (ksiega Gartha: trzech wozow nie bylo) dochodzi BUDYNEK: dwie duze roboty ciesielski…
 - [299-09-13] `prawo_o_skladach_zboza_299_09`: 299-09-13 rano, Winterfell - CERWYN ODDAJE CZYSTOPIS. Bez rzutu (praca zamowiona, dostarczona). DWA DOKUMENTY FIZYCZNIE OSOBNE, jak ustalono: PRAWO - artykuly, sucho, bez ani jednego aforyzm…
 - [299-09-13] `lord_medger_cerwyn`: 299-09-13: oddal czystopis prawa o skladach w dwoch tekstach, gotowy do pieczeci - pierwszy raz od tygodnia bez nowej dziury. Zamiast dziury przyniosl pytanie sedziego: KTO BEDZIE PIERWSZY. …
@@ -118,3 +119,4 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - [299-09-13] `swiat`: 299-09-13 popoludnie/wieczor - TEKA NAMIESTNIKA ZLOZONA NA POWROT KROLA (gra/teka_namiestnika_299_09_14.md). Bez rzutu (praca wlasna). SPOSOB: Symon NIE MOGL PISAC (dlonie w opatrunku, zakaz…
 - [299-09-13] `notariusz_beron`: 299-09-13: PIERWSZA PRAWDZIWA ROBOTA KANCELARYJNA, wykonana zanim kancelaria formalnie istnieje. Symon nie mogl pisac (dlonie), wiec DYKTOWAL Beronowi cala teke na powrot Krola - kilkanascie…
 - [299-09-13] `postac`: 299-09-13 wieczor - ODPOCZYNEK PO ZLOZENIU TEKI. Bez rzutu. Dlonie pulsuja pod opatrunkiem, bok daje o sobie znac przy kazdym obrocie. Symon nie czytal, nie pisal i nikogo nie przyjmowal - s…
+- [299-09-14] `swiat`: 299-09-14 - DZIEN POWROTU KROLA. POGODA (rzut 46): szaro, mokro, bez mrozu; bloto po wczorajszej odwilzy nie obeschlo, dziedziniec rozjezdzony. Nic zlego, nic pieknego - dzien do jazdy, nie …

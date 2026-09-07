@@ -2,12 +2,12 @@
  "data": {
   "rok": 299,
   "miesiac": 9,
-  "dzien": 13,
+  "dzien": 14,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "lato (298)",
- "pogoda": 89,
+ "pogoda": 46,
  "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "Zamkniecie urny w Zimowym Miescie o zmierzchu (pierwszy pelny dzien pogody) + wyjazd Osrica Kamienia z kolumna zbozowa na Mur",
- "dzien": 13,
+ "dzien": 14,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -163,7 +163,7 @@
  "_dziennik_kamienny_brod_299_09_01": 6,
  "_dziennik_mroz_otwiera_trakt_299_09_02": 2,
  "_dziennik_odwilz_299_09_05": 1,
- "_dziennik_powrot_krola_299_09_14": 1,
+ "_dziennik_powrot_krola_299_09_14": 2,
  "_dziennik_mur_i_mance_299_09_07": 1,
  "pierwsza_zamiec_299_09_08": "299-09-08 (pogoda 15): PIERWSZA PORZADNA ZAMIEC ZIMY - snieg gesty i mokry od switu, wiatr z zachodu, widocznosc na kilkanascie krokow, trakt zasypywany na biezaco. ZAMYKA DROGI NA KILKA DNI: nikt nic nie wywiezie ani nie zwiezie, TAKZE TEN, KTO GROMADZI. Catelyn wyjechala godzine przed zamknieciem; czternascie krukow poszlo o switu.",
  "_dziennik_stawka_przewozowa_korony_299_09_08": 1,

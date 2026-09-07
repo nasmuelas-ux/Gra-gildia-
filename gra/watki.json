@@ -3594,7 +3594,7 @@
    "id": "objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09",
    "tytul": "TRASA (A): Przesmyk pierwszy, potem luk. Bialy Port NIE ZAMARZA, wiec listopadowe wyplyniecie to gorszy rejs, nie zamkniete okno. Termin podany Stannisowi (Pentos, grudzien) trzyma sie",
    "status": "otwarty",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 14,
    "priorytet": "wysoki",
    "termin": "wyjazd 299-09-22, wyplyniecie ~11-07, Pentos grudzien"
   },
@@ -4295,6 +4295,16 @@
   },
   {
    "id": "prawo_orszaku_co_sie_dzieje_gdy_zle_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "hornwood_ziemia_bez_pana_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "rejestr_imion_lordow_polnocy_299_09",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

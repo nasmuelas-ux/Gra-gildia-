@@ -4071,7 +4071,7 @@
   {
    "id": "clo_bialego_portu_czyja_linia_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "zsumowanie_myta_i_cla_na_fosie_299_09",
@@ -4274,7 +4274,7 @@
    "status": "otwarty",
    "priorytet": "sredni",
    "tytul": "Godzina Krola z Gawenem nad ksiega celna Korony - trzy pytania zamiast nauki rachunku; krol uczy sie CZYTAC, nie rewidowac",
-   "_dziennik_nota": 1,
+   "_dziennik_nota": 2,
    "termin": "299-09-19/20, przed przyjazdem Wymana"
   },
   {
@@ -4285,6 +4285,11 @@
   },
   {
    "id": "wyman_manderly_przyjazd_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "rewizja_i_drugi_pisarz_dziura_299_09",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

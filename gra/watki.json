@@ -4171,7 +4171,7 @@
    "status": "otwarty",
    "priorytet": "wysoki",
    "tytul": "ZJAZD OGLOSZONY: zimowy 299-10-05 (krolowa, przysiega na Korone, obwieszczenie nastepstwa), Wielka Rada 300-04-01 z data kalendarzowa. Kazdy przywozi swoj prowiant; 20-35 smokow z monety, nie z rezerwy. Imienia dziedzica w wezwaniu NIE MA",
-   "_dziennik_nota": 2,
+   "_dziennik_nota": 3,
    "termin": "299-10-05 zjazd zimowy; 300-04-01 Wielka Rada"
   },
   {
@@ -4326,7 +4326,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "list_warunkowy_obrony_korony_299_09",

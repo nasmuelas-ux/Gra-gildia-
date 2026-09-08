@@ -5,7 +5,7 @@
   "dzien": 1,
   "era": "AC"
  },
- "pora": "poludnie",
+ "pora": "wieczor",
  "sezon": "lato (298)",
  "pogoda": 99,
  "dzien_tygodnia_nr": 5,
@@ -141,7 +141,7 @@
  "lokacja": "HORNWOOD - kolumna Namiestnika stanela pod brama 299-10-13, dwa dni przed zapowiedzianym terminem.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "poludnie",
+ "pora_dnia": "wieczor",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {

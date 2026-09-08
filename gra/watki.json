@@ -3275,7 +3275,7 @@
    "id": "poselstwo_wolne_miasta_braavos_pentos_299_08",
    "tytul": "Poselstwo Namiestnika do Braavos i Pentos (z Nesta) - bezposredni handel = niezaleznosc gosp. od Westeros",
    "status": "NESTA_PLYNIE_299-08-28;_najpierw_Braavos_(Hal_i_Willa_zgodnie);_kantor_Nesty_do_przejecia_przez_Dom_na_czas_nieobecnosci",
-   "_dziennik_nota": 21
+   "_dziennik_nota": 22
   },
   {
    "id": "robb_do_freyow_i_regencja_winterfell_299_08",
@@ -3486,7 +3486,7 @@
    "id": "antaryon_oferta_braavos_299_08",
    "tytul": "Dom Antaryon wyciaga reke - goscina, sklad, wprowadzenie i doiscie do Zelaznego Banku (oferta, ktora kosztuje)",
    "status": "ODPOWIEDZIANE_299-08-29_JAKO_KORONA_(uprzejmie,_o_niczym,_partnerow_w_liczbie_mnogiej);_rekonesans_Willi_zlecony;_prawdziwy_wynik_za_~6_tygodni",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "biurko_namiestnika_299_08_29",
@@ -3594,7 +3594,7 @@
    "id": "objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09",
    "tytul": "TRASA (A): Przesmyk pierwszy, potem luk. Bialy Port NIE ZAMARZA, wiec listopadowe wyplyniecie to gorszy rejs, nie zamkniete okno. Termin podany Stannisowi (Pentos, grudzien) trzyma sie",
    "status": "otwarty",
-   "_dziennik_nota": 46,
+   "_dziennik_nota": 47,
    "priorytet": "wysoki",
    "termin": "wyjazd 299-09-22, wyplyniecie ~11-07, Pentos grudzien"
   },

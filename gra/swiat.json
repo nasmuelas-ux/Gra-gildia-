@@ -5,7 +5,7 @@
   "dzien": 1,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "wieczor",
  "sezon": "lato (298)",
  "pogoda": 100,
  "dzien_tygodnia_nr": 3,
@@ -138,10 +138,10 @@
   },
   "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
  },
- "lokacja": "GOSPODA NA ZIEMIACH BOLTONOW, pol dnia od bramy Dreadfort. Wieczor 299-10-18; wjazd nazajutrz, w zapowiedzianym dniu.",
+ "lokacja": "DREADFORT - kolumna Namiestnika wjechala 299-10-19, w zapowiedzianym dniu. Trzecia brama z szesciu.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "ranek",
+ "pora_dnia": "wieczor",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {

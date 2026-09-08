@@ -5,7 +5,7 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "wieczor",
+  "pora": "noc",
   "sezon": "lato (298)",
   "pogoda": 72,
   "dzien_tygodnia_nr": 6,
@@ -141,7 +141,7 @@
   "lokacja": "KARHOLD - brama. Danina zamknieta, raport Osrica przeczytany i odpowiedziany, pietnascioro wpuszczonych, wozy Karholdu wyjezdzaja o switu po folwarkach.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "wieczor",
+  "pora_dnia": "noc",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {

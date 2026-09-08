@@ -7,8 +7,8 @@
  },
  "pora": "popoludnie",
  "sezon": "lato (298)",
- "pogoda": 58,
- "dzien_tygodnia_nr": 7,
+ "pogoda": 90,
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -53,8 +53,8 @@
   },
   "prowiant_uwaga": null
  },
- "swieto": "brak - dzien wyjazdu z Fosy; ZJAZD CHORAGWI w Winterfell, bez Symona",
- "dzien": 5,
+ "swieto": "brak - mroz wrocil, trakt twardy",
+ "dzien": 8,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,7 +138,7 @@
   },
   "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
  },
- "lokacja": "TRAKT NA POLNOC OD FOSY CAILIN - kolumna Namiestnika wyjechala 299-10-05. Cel: HORNWOOD ~10-15.",
+ "lokacja": "TRAKT NA HORNWOOD, czwarty dzien drogi od Fosy Cailin (299-10-08). Kolumna wyprzedza plan o dwa dni.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
  "pora_dnia": "popoludnie",

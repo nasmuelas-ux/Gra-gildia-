@@ -5,7 +5,7 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "popoludnie",
+  "pora": "noc",
   "sezon": "lato (298)",
   "pogoda": 90,
   "dzien_tygodnia_nr": 6,
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "BIALY PORT - Nowy Zamek. Piaty czlonek poselstwa odnaleziony i osadzony pismem. Cztery rzeczy Wymana nietkniete. Wyplyniecie ~11-30.",
+  "lokacja": "BIALY PORT - Nowy Zamek, noc przed rejsem. Objazd wschodu zamkniety (6 bram). Ksiega celna Korony: 11 400. Uklad z Wymanem: haslo 'sol z Bialego Portu nie wrocila' -> przyjac pod dach; liczba do Hendry'ego w Fosie. Statek o switu 11-30.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "popoludnie",
+  "pora_dnia": "noc",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {
@@ -242,7 +242,7 @@
   "_dziennik_inbound_299_09_16": 3,
   "_dziennik_inbound_299_09_17": 2,
   "_dziennik_inbound_299_09_18": 1,
-  "_dziennik_nota": 44,
+  "_dziennik_nota": 46,
   "rok": 299,
   "miesiac": 11
 }

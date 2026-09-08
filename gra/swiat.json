@@ -5,7 +5,7 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "przedpoludnie",
+  "pora": "poludnie",
   "sezon": "lato (298)",
   "pogoda": 28,
   "dzien_tygodnia_nr": 6,
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "STARY ZAMEK - wieza maestera Willama. Skrzynia Aemona Riversa otwarta. Bialy Port ~11-28.",
+  "lokacja": "TRAKT STARY ZAMEK -> BIALY PORT. Postanowienie z 09-18 dotrzymane: przez wlasne dziecinstwo z zamknietymi ustami. Bialy Port ~11-28, ostatnia brama.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "przedpoludnie",
+  "pora_dnia": "poludnie",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {
@@ -242,7 +242,7 @@
   "_dziennik_inbound_299_09_16": 3,
   "_dziennik_inbound_299_09_17": 2,
   "_dziennik_inbound_299_09_18": 1,
-  "_dziennik_nota": 42,
+  "_dziennik_nota": 43,
   "rok": 299,
   "miesiac": 11
 }

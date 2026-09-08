@@ -5,7 +5,7 @@
   "dzien": 1,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "popoludnie",
  "sezon": "lato (298)",
  "pogoda": 58,
  "dzien_tygodnia_nr": 7,
@@ -138,10 +138,10 @@
   },
   "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
  },
- "lokacja": "FOSA CAILIN - Symon wrocil z Przesmyku 299-10-04 o zmierzchu, doslownie na termin Stena.",
+ "lokacja": "TRAKT NA POLNOC OD FOSY CAILIN - kolumna Namiestnika wyjechala 299-10-05. Cel: HORNWOOD ~10-15.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "ranek",
+ "pora_dnia": "popoludnie",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {

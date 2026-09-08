@@ -5,7 +5,7 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "wieczor",
+  "pora": "ranek",
   "sezon": "lato (298)",
   "pogoda": 93,
   "dzien_tygodnia_nr": 6,
@@ -54,7 +54,7 @@
     "prowiant_uwaga": null
   },
   "swieto": "brak - mroz suchy, bezwietrznie, trakt przejezdny",
-  "dzien": 15,
+  "dzien": 16,
   "mechanika_inbound": {
     "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
     "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "HORNWOOD - po sadzie. Wend i chlopak w kaplicy, niepochowani. 36 skazanych rusza do Fosy za dwa dni; Ottar i oszczepnik na Mur.",
+  "lokacja": "HORNWOOD - po spaleniu zwlok. Skazani ruszaja do Fosy jutro. Przed Symonem Wdowia Straznica.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "wieczor",
+  "pora_dnia": "ranek",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {

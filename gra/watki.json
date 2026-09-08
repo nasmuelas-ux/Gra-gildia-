@@ -4386,7 +4386,12 @@
   {
    "id": "migracja_wschodniego_wybrzeza_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
+  },
+  {
+   "id": "raport_osrica_z_muru_299_10",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

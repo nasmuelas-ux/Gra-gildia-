@@ -1,11 +1,11 @@
 {
  "data": {
   "rok": 299,
-  "miesiac": 9,
-  "dzien": 23,
+  "miesiac": 10,
+  "dzien": 1,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "lato (298)",
  "pogoda": 70,
  "dzien_tygodnia_nr": 3,
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "brak - po zamieci, trakt ciezki",
- "dzien": 23,
+ "dzien": 1,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "_dziennik_mechanika_relief_finansowanie": 1,
  "wielki_targ": false,
- "lokacja_gracza": "W DRODZE NA WSCHOD. Winterfell opuszczone 299-09-23. Lucan wyjezdza 09-24 osobno, po tym samym trakcie. Wyman i Theomore uwiezieni w Winterfell przez snieg. Mira w Bialym Porcie (rozwiazanie ~300-03).",
+ "lokacja_gracza": "FOSA CAILIN od 299-10-01. Dalej: Hornwood ~10-15, Dreadfort ~10-19, Karhold ~10-26, Wdowia Straznica ~11-02, Stary Zamek ~11-05, Bialy Port ~11-08, wyplyniecie ~11-10.",
  "zaplanowane_zdarzenia": [
   "298-~polowa/koniec sierpnia: POWROT 2. ambasady Fenna od Halvarda (wiecej wolumenu + ku wylacznosci; odprawa rzut 74 sklonna ku dobremu).",
   "298-08-01: DZIEN BILANSU (miesiac 07 na pelna skale - pergamin/wor Tama/kredyt/premium/arteria).",
@@ -138,12 +138,12 @@
   },
   "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
  },
- "lokacja": "W DRODZE. Kolumna Namiestnika wyjechala z Winterfell 299-09-23 okolo poludnia; pierwszy noclег na trakcie. Cel etapu: FOSA CAILIN ~09-29 (spotkanie z Howlandem Reedem). Sklad: Namiestnik, Sten z przyboczna, dziesieciu ludzi Krola (w tym Derran z Placzacej Wody), juki, bez wozow, pod choragwia Korony.",
+ "lokacja": "FOSA CAILIN. Kolumna Namiestnika stanela pod brama 299-10-01 po osmiu dniach drogi. Postoj: spotkanie z Howlandem Reedem, ksiegi lenna, Hal, Garth, Hendry, Willa (kanclerz-archiwistka). Lucan wyjechal z Winterfell 09-24, sam, tym samym traktem.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "wieczor",
+ "pora_dnia": "ranek",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
- "miasto": "w drodze - trakt na wschod, pierwszy dzien z Winterfell",
+ "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {
   "fakt": "BIALY PORT (nad Gryzem/the Bite) NIE ZAMARZA nawet w najglebsze/najokrutniejsze zimy - cieply prad z Waskiego Morza (odpowiednik Golfsztromu) + ruch wod u ujscia Bialego Noza trzymaja zatoke wolna od lodu przez stulecia. Zrodlo: kanon (awoiaf/fandom).",
   "bialy_noz_rzeka": "spławny przez wiekszosc zim; zamarza TYLKO w najsrozsze zimy w dziejach => rzeczny dowoz w glab (Winterfell i dalej) w wiekszosci trzyma.",
@@ -242,5 +242,5 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 11
+ "_dziennik_nota": 12
 }

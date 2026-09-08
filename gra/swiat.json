@@ -5,7 +5,7 @@
   "dzien": 1,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "poludnie",
  "sezon": "lato (298)",
  "pogoda": 58,
  "dzien_tygodnia_nr": 6,
@@ -141,7 +141,7 @@
  "lokacja": "DREADFORT - kolumna Namiestnika wjechala 299-10-19, w zapowiedzianym dniu. Trzecia brama z szesciu.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "ranek",
+ "pora_dnia": "poludnie",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {

@@ -5,7 +5,7 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "poludnie",
+  "pora": "wieczor",
   "sezon": "lato (298)",
   "pogoda": 72,
   "dzien_tygodnia_nr": 6,
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "KARHOLD - danina zamknieta (160 smokow: 118 surowiec + 30 robocizna + 12 przeniesione na 300-04-01). Raport Osrica wciaz nieprzeczytany.",
+  "lokacja": "KARHOLD - brama. Danina zamknieta, raport Osrica przeczytany i odpowiedziany, pietnascioro wpuszczonych, wozy Karholdu wyjezdzaja o switu po folwarkach.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "poludnie",
+  "pora_dnia": "wieczor",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {

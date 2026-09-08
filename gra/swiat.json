@@ -7,7 +7,7 @@
   },
   "pora": "noc",
   "sezon": "lato (298)",
-  "pogoda": 94,
+  "pogoda": 69,
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": false,
   "_dziennik_nastroje_miasta": 7,
@@ -54,7 +54,7 @@
     "prowiant_uwaga": null
   },
   "swieto": "brak - mroz suchy, bezwietrznie, trakt przejezdny",
-  "dzien": 24,
+  "dzien": 25,
   "mechanika_inbound": {
     "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
     "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,7 +138,7 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "TRAKT POLNOCNO-WSCHODNI - oboz dzien drogi za rozstajami, w polowie ziemi niczyjej Dreadfort-Karhold. Do Karholdu cztery dni.",
+  "lokacja": "TRAKT POLNOCNO-WSCHODNI - oboz za brodem, pod skarpa, dwa dni od Dreadfortu, trzy od Karholdu. Przyjazd pod Karhold ~299-10-29 (data ogloszona ~10-31).",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
   "pora_dnia": "noc",

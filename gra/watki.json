@@ -3594,7 +3594,7 @@
    "id": "objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09",
    "tytul": "TRASA (A): Przesmyk pierwszy, potem luk. Bialy Port NIE ZAMARZA, wiec listopadowe wyplyniecie to gorszy rejs, nie zamkniete okno. Termin podany Stannisowi (Pentos, grudzien) trzyma sie",
    "status": "otwarty",
-   "_dziennik_nota": 28,
+   "_dziennik_nota": 29,
    "priorytet": "wysoki",
    "termin": "wyjazd 299-09-22, wyplyniecie ~11-07, Pentos grudzien"
   },
@@ -4377,6 +4377,11 @@
    "id": "willa_prospekt_wywiad",
    "status": "otwarty",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "danina_karholdu_299_10",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

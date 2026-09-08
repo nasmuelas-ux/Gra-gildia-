@@ -3220,7 +3220,7 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 8
   },
   {
    "id": "karstark_linia_pekniecia_wschod_299_08",
@@ -4386,7 +4386,7 @@
   {
    "id": "migracja_wschodniego_wybrzeza_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 4
   }
  ]
 }

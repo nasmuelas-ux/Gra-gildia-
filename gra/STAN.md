@@ -17,10 +17,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 299-10-01 ranek · lato (298)
-- **Miejsce:** HORNWOOD - kolumna Namiestnika stanela pod brama 299-10-13, dwa dni przed zapowiedzianym terminem.
+- **Data:** 299-10-01 wieczor · lato (298)
+- **Miejsce:** TRAKT NA DREADFORT - oboz o dzien drogi od bramy, wieczor 299-10-17.
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 89 · Sytosc 50 · Zmeczenie 12**
+- **Zdrowie 89 · Sytosc 45 · Zmeczenie 38**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied
@@ -109,7 +109,6 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - `willa_prospekt_wywiad` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [299-10-14] `poranek_299_10_14`: 299-10-14 RANEK, HORNWOOD. ### POGODA 99 - DZIEN NIE NA TE PORE ROKU. ### Wczorajszy mokry snieg zamarzl w nocy i zostal pod bezchmurnym niebem; bezwietrznie, slonce nisko ale grzeje, powiet…
 - [299-10-14] `inbound_299_10_14`: RZUT INBOUND 10 - CISZA. Ani jednego kruka, ani jednego jezdzca, nic z Winterfell, nic z Fosy, nic od lordow objazdu. Nie jest to zle: wszystko, co mialoby przyjsc, jest jeszcze w drodze alb…
 - [299-10-14] `hornwood_ziemia_bez_pana_299_09`: ### POSTAWA ROZSTRZYGNIETA: NIE PRZEPROSINY - UBOLEWANIE. I ROZDZIELONE NA DWA REJESTRY, BO TO NIE JEST TO SAMO SLOWO W CZTERY OCZY I NA DZIEDZINCU. ### PRYWATNIE, DO LADY DONELLI, KROTKO I …
 - [299-10-14] `hornwood_ziemia_bez_pana_299_09`: ### KOREKTA POSTAWY NA WSKAZANIE GRACZA - ROZDZIAL JEST OSTRZEJSZY, NIZ ZAPISALEM: PUBLICZNIE UBOLEWANIE I NIC WIECEJ; PRYWATNIE PELNE PRZEPROSINY. ### PRYWATNIE, DO LADY DONELLI, W CZTERY O…
@@ -121,3 +120,4 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - [299-10-14] `noc_299_10_14_koniec_dnia`: 299-10-14 - DZIEN ZAMKNIETY ZA WYRAZNA ZGODA GRACZA ('ide spac'). POGODA 99 - dzien nie na te pore roku, i to on umozliwil cala reszte: ludzie z folwarkow zeszli sie na dziedziniec przed pol…
 - [299-10-15] `poranek_299_10_15`: 299-10-15 RANEK, HORNWOOD - DZIEN WYJAZDU. POGODA 51 - niebo sie zamknelo. Szaro, zimno, drobny snieg bez wiatru; grunt zmarznięty, trakt twardy i przejezdny. Wczorajszy dzien byl jednorazow…
 - [299-10-15] `inbound_299_10_15`: RZUT INBOUND 42 - JEDNA PRZESYLKA, ISTOTNA. ### ODPOWIEDZ Z KARHOLDU - LORD RICKARD KARSTARK, na pismo zapowiedne. ### Poslana na Hornwood, bo taki adres podawal itinerariusz - czyli mechani…
+- [299-10-17] `objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09`: 299-10-15..10-17 - ODCINEK HORNWOOD -> DREADFORT, RZUT 70. Trakt zmarzniety i rowny, dni krotkie ale pelne. ### TRZY DNI ZAMIAST CZTERECH. KOLUMNA STANIE POD DREADFORT 299-10-18 - DZIEN PRZE…

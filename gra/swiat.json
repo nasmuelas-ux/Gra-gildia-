@@ -5,9 +5,9 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "wieczor",
+  "pora": "ranek",
   "sezon": "lato (298)",
-  "pogoda": 35,
+  "pogoda": 70,
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": false,
   "_dziennik_nastroje_miasta": 7,
@@ -53,8 +53,8 @@
     },
     "prowiant_uwaga": null
   },
-  "swieto": "brak - mgla nad laguna, dzien roboczy w roboczym porcie",
-  "dzien": 12,
+  "swieto": "brak - deszcz ustal, zimno i ostre swiatlo",
+  "dzien": 14,
   "mechanika_inbound": {
     "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
     "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "BRAAVOS - dzien drugi. Deklaracja w skladzie, adres w faktorii Manderlych. Ilario odnaleziony zywy (wagowy w Porcie Lachmaniarza). Posrednik drzewny odezwal sie sam. Sakwa 98 smokow, dwa miesiace zegara, prog zawrocenia za 20 dni.",
+  "lokacja": "BRAAVOS - dzien czwarty. Dzis: Bank (3. godzina po swicie, klucznik Tycho Nestoris) i posrednik drzewny po poludniu. Terminy domow: 12-15 Terysowie, 12-16 Prestaynowie, 12-17 Antaryonowie; Otharysowie odlozyli sie sami. Palac: Morski Pan nie przyjmuje. Sakwa 98 smokow, prog zawrocenia za 18 dni.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "wieczor",
+  "pora_dnia": "ranek",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {

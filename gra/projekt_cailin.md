@@ -288,6 +288,33 @@ Nowa, utwardzona droga na **północny wschód**, łącząca miasto Cailin z **z
 - Wariant przez Cerwyn dokłada **trzecią stronę** do tego, co dotąd było sprawą dwóch (Tally i Manderly). Cerwyn dostaje przelot, myto i powód, żeby drogi pilnować.
 - Na końcu: **Biały Port**. Dwie bramy, jedna żyła.
 
+## III-a. ZASADA ZAMKNIĘTA — MIASTO CAILIN NIE MA WSCHODNIEJ WODY
+### dopisana 300-01-26 w Białym Porcie, na żądanie lorda Wymana Manderly'ego, przyjęta
+
+> **MIASTO CAILIN NIGDY NIE OTWIERA PRZYSTANI NA WSCHODNIM BRZEGU.**
+
+Port Cailin istnieje **wyłącznie po stronie zachodniej** — jest głową rzeki Fever i końcem przewłoki, nie przystanią morską. Kto chce wyjść z towarem na wschodnie morze, **musi dojechać do Białego Portu.** Innego wyjścia nie ma i mieć nie będzie.
+
+**Dlaczego to stoi w planie, a nie w umowie:**
+
+Bez tej zasady Cailin jest drugim Białym Portem — ma basen, wagę, żurawie, składy, targ i komorę celną, więc towar może u niego **poleżeć, zostać podzielony i sprzedany**, zamiast przejść. Wyman Manderly zobaczył to w rysunku w trzy oddechy i powiedział wprost: *„Przewłoka nie potrzebuje Białego Portu. Biały Port potrzebuje przewłoki."*
+
+Z tą zasadą role są rozdzielone raz na zawsze i nie da się ich pomylić:
+
+| | |
+|---|---|
+| **GORĄCY PORT** *(zachód, ujście Fever)* | przyjmuje z Sunset Sea, rozładowuje przed bagnami |
+| **MIASTO CAILIN** *(głowa rzeki, przewłoka)* | **przerzuca z zachodu na wschód.** Waga, cło, place, żurawie, stajnie, karczmy — **nie targ morski** |
+| **BIAŁY PORT** *(wschód)* | **handluje z Essos.** Jedyna wschodnia gęba całej drogi |
+
+**A żądanie prawa składu zostało wycofane, bo geografia załatwiła je lepiej niż umowa:** miasto bez wschodniej wody nie utrzyma cudzego towaru, bo nie ma go czym stamtąd zabrać.
+
+Wyman podał też powód, dla którego chce tego **w planie, nie w kontrakcie**:
+
+> *„Nie dlatego, że wam nie ufam. Dlatego, że **wam ufam, a waszemu prawnukowi nie mam skąd.**"*
+
+---
+
 ## IV. PRZENIOSKA (PORTAGE) I WŁÓKA OKRĘTOWA
 
 I dopiero tu widać, po co to wszystko razem.
@@ -297,6 +324,22 @@ I dopiero tu widać, po co to wszystko razem.
 **PRZENIOSKA** — cały system lądowego przerzutu **ładunków** między dwiema drogami wodnymi: rzeką Fever (zachód) a systemem Białego Noża i Białym Portem (wschód). Wagi, place, ogrzewane stajnie, tabory jukowe, komory celne na obu końcach.
 
 **WŁÓKA OKRĘTOWA** — przerzut nie ładunku, lecz **samych kadłubów**: Muły i długie łodzie ciągnięte lądem siłą zwierząt pociągowych po **naoliwionych drewnianych płozach i walcach**. Droga włoki jest osobna od drogi wozów, prosta jak strzelił i utrzymywana mokra.
+
+**PO CO TO NAPRAWDĘ JEST — nazwane przez Wymana Manderly'ego 300-01-26, nie przez autora planu:**
+
+> *„Statek z Lannisportu, z Tarczowych Wysp, z Arboru, ze Starego Miasta — żeby dziś dowieźć towar do Braavos, do Pentos, do Białego Portu, musi opłynąć **całe Dorne**, a potem przejść **pod Królewską Przystanią.** Miesiące, cła, sztormy przy Stopniach i pytania na każdej redzie."*
+>
+> *„A wy im mówicie: wyładujcie na zachodzie, przejdzie się to lądem w kilka dni, załadujcie na wschodzie."*
+>
+> **„To nie jest skrót. To jest ominięcie Królewskiej Przystani."**
+
+**I ostrzeżenie, które z tego wynika — cięższe niż całe zastrzeżenie o prawie składu:**
+
+> *„Wyście pokazali drogę, która zabiera Żelaznemu Tronowi cło z połowy handlu wschodniego. Nie jutro — za dwadzieścia lat, kiedy będzie chodziła."*
+>
+> *„Tywin Lannister nie żyje wiecznie. **Ale Żelazny Tron żyje.** Ktokolwiek na nim usiądzie, prędzej czy później policzy, ile stracił przez Przesmyk — i wtedy nie przyjdzie po Fosę Cailin dlatego, że jest bramą Północy. Przyjdzie po nią dlatego, że jest **igłą, przez którą przechodzi cudze srebro.**"*
+>
+> **„Wasza brama przestanie być obronna. Zacznie być warta zdobycia."**
 
 **Co to znaczy politycznie — i to trzeba zapisać obok, a nie zamiast:**
 Przewłoka jest **wąskim gardłem**, a wąskie gardła bogacą tego, kto je trzyma, i przyciągają wszystkich, którzy chcą je odebrać. Dzień, w którym Fosa Cailin przestaje być bramą, przez którą się przechodzi, a staje się **igłą, przez którą przechodzi handel dwóch mórz**, jest dniem, w którym przestaje być prowincjonalną ruiną i zaczyna być **celem**. Mury liczą się od tego dnia inaczej.

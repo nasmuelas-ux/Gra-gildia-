@@ -22,10 +22,17 @@ Struktura/majątek Domu Handlowego ≠ majątek lenny ≠ kasa korony.
 **Horyzont:** ramię essoskie + przyszła faktoria Tally w Braavos + własne standing u Żelaznego Banku.
 
 ### Centrala — cztery filary
-- **Dyrektor Generalny — HAL** — prowadzi całość; nie pełni żadnego urzędu publicznego (oddziela dom od państwa).
+- **Dyrektor Generalny — HAL** — prowadzi całość; nie pełni żadnego urzędu publicznego (oddziela dom od państwa). Od 300-01-26: **autonomia obsadzania stanowisk i filii bez autoryzacji lorda**, meldunek po fakcie. Siedzi w Białym Porcie (serce operacyjne); pieczęć domu zostaje na Fosie.
 - **Rachmistrz Główny — TAM** — księga główna + **tajna księga** (prawdziwe zyski; tylko on i Symon).
 - **Kanclerz-Archiwista — WILLA** — oficjalnie: poczta z filii/odpisy/katalog (urząd 1. rangi = przykrywka + dostęp); w cieniu: wywiad + własna siatka. **Bez dostępu do tajnej księgi.**
-- **Notariusz — mistrz BERON** — umowy/pełnomocnictwa/procesy; świecki fach z Braavos (0 łańcucha Cytadeli), najęty–wiązany sprawiedliwym sufitem.
+- **Notariusz** — umowy/pełnomocnictwa/procesy; świecki fach, bez łańcucha Cytadeli, najęty–wiązany sprawiedliwym sufitem. *(Mistrz BERON przeszedł do Kancelarii Namiestnika; krzesło stało puste od 299-05 — kosztowało to pożyczenia cudzej pieczęci pod pełnomocnictwem 299-11-29.)* **OBSADZA HAL — postanowienie 300-01-27.**
+  - **Druga funkcja notariusza, nadana 300-01-27:** przy nieobecności lorda na Zgromadzeniu Wspólników **odczytuje jego przedstawienie z pieczęci i protokołuje odpowiedź sali.** Nie jest pełnomocnikiem i niczego nie interpretuje — *„usta nieobecnego i uszy sali, i nic więcej"*.
+
+### WŁAŚCICIEL — GDZIE W STRUKTURZE STOI SYMON (spisane 300-01-27)
+Nie zajmuje żadnego stanowiska operacyjnego i tak ma zostać. Ma **trzy miejsca**:
+1. **Kasa 1 i TAJNA KSIĘGA** — prawdziwe zyski widzą dwie osoby: Tam i lord. Nie Hal, nie Willa, nie wspólnicy.
+2. **REWIZORZY OBJAZDOWI** — jedyna rzecz w domu podległa wyłącznie jemu, omijająca Dyrektora Generalnego.
+3. **ZASTRZEŻONE PODPISY** — odnowienie weksla · osoba wyceniającego · ruszenie kapitału wejścia na Wolne Miasta.
 
 **Doradczyni całości — NESTA** (rada): udział w zysku od całości + udział w ramieniu essoskim; architekt/poręczyciel relacji z Bankiem; kanał Braavos przez nią, ale DH ma własne standing. Jej kantor niezależny.
 
@@ -33,7 +40,11 @@ Struktura/majątek Domu Handlowego ≠ majątek lenny ≠ kasa korony.
 - **Zarządcy filii** — młodsi wspólnicy, udział w zysku własnej filii, umowa co 5 lat. Filie: Biały Port (od zaraz) + Barrowton / Nadmorze / Stare Miasto (ekspansja).
 - **Faktorzy** — pensja, pojedyncze linie towarowe.
 - **Korespondenci** — obcy kupcy na stałej umowie (m.in. **Fenn**; braavijski jubiler; ludzie Olenny — zboże; Halvard).
-- **Rewizorzy objazdowi** — raz w roku zderzają księgi filii z odpisami centrali; **podlegają wyłącznie lordowi** (omijają nawet DG). [BUDOWAĆ]
+- **Rewizorzy objazdowi** — raz w roku zderzają księgi filii z odpisami centrali; **podlegają wyłącznie lordowi** (omijają nawet DG). **ZDJĘTE Z „[BUDOWAĆ]" 300-01-27.**
+  - **Zakres:** sześć placówek · pięć spółek wytwórczych · rejestr reliefu · **i centrala — Tam, Willa, Hal.**
+  - **Obsada:** *wybiera i prześwietla* **WILLA**, przedstawia na piśmie (kogo, skąd, dlaczego jego, co przeciw niemu); ***mianuje LORD***. Mandat idzie wyłącznie z jego podpisu i tylko on może odwołać. **Nie z domu, nie z cechu, nie z niczyjej rodziny.**
+  - **Podległość sprawozdawcza:** rewizor zdaje sprawę **wyłącznie lordowi**. Lord przedstawia rewizję **Zgromadzeniu Wspólników** — tyle, ile uzna, i odpowiada za to, co powie. *Tajna księga nie wychodzi na salę.*
+  - **Zapłata:** z Kasy 1, **suma nazwana w księdze na rok z góry**, wyjęta z ręki Dyrektora Generalnego — żeby nie mógł jej ani przyspieszyć, ani przytrzymać.
 - **Kurierzy domowi + krucznik** — własna poczta, **niezależna od Cytadeli** (suwerenność informacyjna). [Hal buduje]
 - **Wychowankowie** — chłopcy 12–14; ścieżka: kopista → faktor → zarządca filii → wspólnik; pod DG; **nigdy dostępu do tajnej księgi.** [Hal buduje]
 - **Rachmistrz reliefu** (w KAŻDYM oddziale) — odpowiada za redystrybucję jałmużny/pomocy dla biednych; wydziela ustaloną część z zysku filii i rozdziela ją w mieście (chleb/zima/wdowy). **Środki wyłącznie z Kasy 1 (kapitał domu) — nigdy z lenna ani ze Skarbu Północy.** To jałmużna Domu Tally, nie państwo. Prowadzi osobny rejestr reliefu, zderzany przez rewizorów. [NOWE 299-05-25]
@@ -43,6 +54,18 @@ Rozdział kasy od księgi · tajna księga (tylko rachmistrz + lord) · rewizorz
 
 ### Aktywa scalone pod Dom Handlowy
 Udział w faktorii Nesty · młyn · papiernia (Wat) + papiernia wodna (uśpiona) · firma prowiantowa · kamieniczka (Schody) · bursztyn/atelier (jewelry-grade edge).
+
+
+### ZGROMADZENIE WSPÓLNIKÓW (organ ustanowiony 300-01-27)
+**Skład — wyłącznie udział w zysku CAŁOŚCI domu:** LORD SYMON · **NESTA** · **LADY MIRA** *(od wiosny, po wycenie)* · **HAL**.
+**Nie zasiadają** zarządcy spółek i filii (Deron i pozostali) — mają udział we własnej jednostce, nie w całości; siedzieliby nad własnym rachunkiem.
+**Termin: pierwszy dzień Szóstego Miesiąca, co roku.** Księgi roku zamknięte, rewizja zdążyła objechać placówki, trakty otwarte, do siewu i żniw daleko.
+**Przy nieobecności lorda:** przedstawienie na piśmie pod pieczęcią, odczytane i zaprotokołowane przez notariusza domu.
+
+### DOM AUDYTOWY TALLY (spółka; założona 300-01-26, ustrój domknięty 300-01-27)
+Spółka wytwórcza jak każda inna — zarządca spoza cechu (1/3 zysku, 5 lat), rachmistrz podległy rachmistrzowi głównemu.
+> **NIE AUDYTUJE KSIĄG DOMU HANDLOWEGO TALLY.** Sprzedaje rewizję obcym. Dom sprawdzają rewizorzy lorda.
+> **KORONY NIE BIERZE NA KLIENTA — NIGDY.** (Dom Namiestnika sprawdzający księgi Skarbu za pieniądze: nie trzeba by nawet kłamać, wystarczyłoby to opowiedzieć.)
 
 ---
 

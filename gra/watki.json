@@ -466,7 +466,8 @@
    "termin": "296-11-10",
    "wobec": "torsen_drwal",
    "_dziennik_stan": 2,
-   "status": " || 11-10: PROBNA PARTIA FUTER/SKOR/BURSZTYNU WYSZLA Bialym Nozem (transport drewna Torsen/Halvard) — noga WYWOZOWA spolki egzotycznej w drodze do Braavos; wynik/sprzedaz za jakis czas. || 12-20 WYNIK (rzut 19): probna partia wywozowa sprzedana w Braavos - kanal dziala LOGISTYCZNIE, ale marza cienka (~break-even/lekko minus) po frachcie+doli+miekkim rynku. Teza marzy futra/bursztyn->Braavos NIEPOTWIERDZONA; potwierdza trzezwa mape Nesty (surowy eksport = niska marza). Reconsider viability spolki egzotycznej; nie skalowac wywozu bez edge/lepszego towaru. || 297-03-15 WERDYKT (rzut 93): kanal/Halvard przetrwali zime DOBRZE - podaz polnocnego towaru nienaruszona, pierwsze tratwy ~04. Port panikowal na wyrost (Symon skalibrowal to juz 02-22 - vindykacja). NIE zmienia to tezy z 12-20 (raw fur/bursztyn->Braavos = cienka marza): grac na STABILNOSCI i info-edge, nie na wolumenie surowca. Wartosc: pewnosc podazy (kolodzieje, ceny) + zwalidowany osad Symona."
+   "status": " || 11-10: PROBNA PARTIA FUTER/SKOR/BURSZTYNU WYSZLA Bialym Nozem (transport drewna Torsen/Halvard) — noga WYWOZOWA spolki egzotycznej w drodze do Braavos; wynik/sprzedaz za jakis czas. || 12-20 WYNIK (rzut 19): probna partia wywozowa sprzedana w Braavos - kanal dziala LOGISTYCZNIE, ale marza cienka (~break-even/lekko minus) po frachcie+doli+miekkim rynku. Teza marzy futra/bursztyn->Braavos NIEPOTWIERDZONA; potwierdza trzezwa mape Nesty (surowy eksport = niska marza). Reconsider viability spolki egzotycznej; nie skalowac wywozu bez edge/lepszego towaru. || 297-03-15 WERDYKT (rzut 93): kanal/Halvard przetrwali zime DOBRZE - podaz polnocnego towaru nienaruszona, pierwsze tratwy ~04. Port panikowal na wyrost (Symon skalibrowal to juz 02-22 - vindykacja). NIE zmienia to tezy z 12-20 (raw fur/bursztyn->Braavos = cienka marza): grac na STABILNOSCI i info-edge, nie na wolumenie surowca. Wartosc: pewnosc podazy (kolodzieje, ceny) + zwalidowany osad Symona.",
+   "_dziennik_nota": 1
   },
   {
    "id": "sojusz_kolodzieje",
@@ -4436,7 +4437,7 @@
   {
    "id": "ZYCIE_PRYWATNE",
    "status": "otwarty",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 8
   },
   {
    "id": "lista_wymian_jencow_korony_299_11",
@@ -4516,7 +4517,7 @@
   {
    "id": "dom_audytowy_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "kto_pyta_o_polnocne_zboze_300_01",

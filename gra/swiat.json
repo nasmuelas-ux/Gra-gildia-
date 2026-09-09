@@ -5,9 +5,9 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "ranek",
+  "pora": "dzien",
   "sezon": "lato (298)",
-  "pogoda": 24,
+  "pogoda": 45,
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": false,
   "_dziennik_nastroje_miasta": 7,
@@ -53,8 +53,8 @@
     },
     "prowiant_uwaga": null
   },
-  "swieto": "brak - morze krotkie i twarde, wiatr pln-wsch w skos",
-  "dzien": 30,
+  "swieto": "brak - szare plaskie morze po sztormie, dwoch przy pompie bez przerwy",
+  "dzien": 5,
   "mechanika_inbound": {
     "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
     "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "WASKIE MORZE - pierwszy dzien rejsu do Braavos, dwa okrety Wymana. Objazd wschodu zamkniety. Na pokladzie: Nesta, ser Medrick Manderly, Myles (ksiega adresu), czlowiek Skarbnika, pisarz kancelarii, przyboczna. Pakiet Willi o Braavos NIEOTWARTY.",
+  "lokacja": "WASKIE MORZE, daleko na poludnie od kursu po sztormie (rzut 2). Kadlub przecieka, ciesla przy szwach. Drugi okret Wymana ROZDZIELONY - los nieznany. Braavos ~299-12-10/12. Na poludniu blizej niz Braavos: brzeg Andalos i Pentos.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "ranek",
+  "pora_dnia": "dzien",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {
@@ -242,7 +242,7 @@
   "_dziennik_inbound_299_09_16": 3,
   "_dziennik_inbound_299_09_17": 2,
   "_dziennik_inbound_299_09_18": 1,
-  "_dziennik_nota": 48,
+  "_dziennik_nota": 49,
   "rok": 299,
-  "miesiac": 11
+  "miesiac": 12
 }

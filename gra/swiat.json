@@ -5,9 +5,9 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "popoludnie",
+  "pora": "noc",
   "sezon": "lato (298)",
-  "pogoda": 70,
+  "pogoda": 28,
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": false,
   "_dziennik_nastroje_miasta": 7,
@@ -54,7 +54,7 @@
     "prowiant_uwaga": null
   },
   "swieto": "brak - deszcz ustal, zimno i ostre swiatlo",
-  "dzien": 14,
+  "dzien": 15,
   "mechanika_inbound": {
     "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
     "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "BRAAVOS - dzien czwarty. Po audiencji w Banku (rzut 49: warunek - TRZY LATA tej samej liczby, liczonej cudza reka) i po pierwszej sprzedazy drewna (75 jeleni/sztuka za 60 sztuk). Sakwa Korony 120 smokow 100 jeleni. Jutro Terysowie, 16 Prestaynowie, 17 Antaryonowie.",
+  "lokacja": "BRAAVOS - dzien piaty. Terys: 125 za sztuke i 'ludzie za drewno, najpierw wy'. Odkryta szopa z podloga (okret rysowany w pelnej wielkosci, wzorniki z rysunku). Jutro Prestaynowie, 17 Antaryonowie; pochylnia otwarta do 19-go; cech budowlany przyjmuje przed poludniem.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "popoludnie",
+  "pora_dnia": "noc",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {

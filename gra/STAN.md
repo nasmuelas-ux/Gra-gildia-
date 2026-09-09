@@ -17,14 +17,14 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 299-10-01 noc · lato (298)
+- **Data:** 300-01-27 ranek · zima (300)
 - **Miejsce:** BIALY PORT. Orbelo, Bharo, Yorko i Moredo wyjechali o brzasku na Fose z zelazem kafara; wioza CZESC I i III planu, CZESC…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
 - **Zdrowie 82 · Sytosc 44 · Zmeczenie 40**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied
-- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 299-10-01
+- **Dzien Bilansu:** 1. dnia miesiaca · nastepny 300-02-01
 
 ## UMIEJETNOSCI
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 5 · czytanie_ludzi 10 · organizacja 9 · audyt 9 · finanse 9 · wlodarstwo 8 · historia 6 · wiedza_o_swiecie 7 · polityka 10

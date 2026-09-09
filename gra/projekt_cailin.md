@@ -24,7 +24,12 @@ To jest arteria, którą na Północ przyjdzie zboże, a z Północy pójdzie to
 
 ## Konstrukcja
 
-**Fundament** — tysiące pali ze skamieniałego czardrzewa wbitych w dno bagna, na to warstwy faszyny i żwiru. Drewno pod wodą nie gnije, tylko twardnieje.
+**Fundament** — tysiące pali wbitych w dno bagna, na to warstwy faszyny i żwiru. Drewno pod wodą nie gnije, bo pod wodą nie ma powietrza.
+
+> **POPRAWKA 299-12-17, Braavos, starszyzna cechu budowlanego (rzut 92).** W pierwotnym tekście stało: *„pali ze skamieniałego czardrzewa"*. To był błąd i został wykreślony.
+> *„Pal nie trwa dlatego, że jest z twardego drzewa. Pal trwa dlatego, że **nigdy nie wychodzi z wody**. Nasze mają po czterysta lat i są z **olchy**, najtańszego drzewa, jakie rośnie. Zgnije wam pierwszy, który raz w roku wyschnie na pół dnia. Nie szukajcie świętego drzewa — **pilnujcie poziomu wody**."*
+> **Materiałem pali jest olcha.** Warunkiem trwałości nie jest gatunek, tylko stały poziom wody — czyli urząd maestera Weylina, nie kamieniołom.
+> Do tego dwa ustalenia z tego samego dnia: **pal nie stoi na twardym dnie — trzyma tarciem o muł na całej długości** (dlatego tysiąc, nie sto); a **pal siadł wtedy, gdy dziesięć uderzeń wbija go płycej niż na palec** — mierzy się opór, nie głębokość. *Głębokość kłamie, opór nie.*
 
 **Nawierzchnia** — ściśle dopasowane płyty czarnego bazaltu. Szerokość taka, by minęły się dwa wozy handlowe, i za mała, by wroga armia rozwinęła szyk.
 
@@ -96,7 +101,7 @@ Miasto ciągnie się liniowo wzdłuż grobli, na północ od twierdzy. Nie rozle
 - **Darń i mech torfowy** — dachy
 - **Szkło** — szklarnie i okna budynków publicznych; w domach okna małe, z okiennicami
 
-Wszystko stoi na **ruszcie z pali czardrzewa** wbitych w bagno. Fundamentów nie ma — jest ruszt.
+Wszystko stoi na **ruszcie z pali olchowych** wbitych w bagno (poprawka 299-12-17 — patrz Część Pierwsza). Fundamentów nie ma — jest ruszt.
 
 ## IV. Dom mieszczański
 
@@ -223,7 +228,10 @@ Kupcy poznają miasto po zapachu na milę przed bramą.
 
 _Projekt pisany był jako inżynieria. Okazuje się, że jest także archeologią._
 
-**Pale z czardrzewa wbite w dno bagna** — wpisane tu trzeciego dnia września z czystego rachunku (drewno pod wodą nie gnije, tylko twardnieje) — **są tym, na czym Fosa Cailin według podań stoi od tysięcy lat.** Mieszkańcy bagien powiadają to od zawsze. Czardrzewo jest drzewem Dzieci Lasu.
+**Ruszt z pali wbitych w dno bagna** — wpisany tu trzeciego dnia września z czystego rachunku — **jest tym, na czym Fosa Cailin według podań stoi od tysięcy lat.** Mieszkańcy bagien powiadają to od zawsze.
+
+> **AMENDACJA 299-12-17.** Pierwotnie stało tu „pale z czardrzewa", bo czardrzewo jest drzewem Dzieci Lasu. Braavos poprawił **materiał**, ale nie ruszył **metody** — a zbieżność dotyczyła metody. Symon doszedł do rusztu z pali z czystej inżynierii, nie znając podania, i cztery miesiące później najstarszy cech budowlany świata potwierdził, że tak właśnie stawia się miasta na mokradle.
+> **I stąd nowe pytanie, którego wcześniej nie było:** jeśli stary ruszt pod Fosą jest **z czardrzewa**, a nowy będzie **z olchy**, to obydwa będą pracować inaczej. Cech rozstrzygnął to bez wahania: **nie wiąże się nowego ze starym.** Albo buduje się obok, ze szczeliną, która ma prawo się ruszać, albo schodzi tak głęboko, że stary ruszt jest obojętny — a to kosztuje tyle, co wojna.
 
 **A samo bagno nie jest bagnem z natury.**
 
@@ -249,3 +257,85 @@ Północ ma trzy mury i **żaden nie patrzy w tę samą stronę.**
 Jeśli Mur kiedykolwiek zawiedzie, **drugą ścianą Północy jest Fosa Cailin** — i jest zbudowana przeciw wrogowi, który przyjdzie z przeciwnej strony niż ten, którego się boimy.
 
 **Mur kurtynowy zamykający front na południe zostaje.** Ale odbudowa dwudziestu wież przestaje być ozdobą pokoleń, a zaczyna być pytaniem o **kierunek**.
+
+---
+
+# CZĘŚĆ CZWARTA: ARTERIA ZACHÓD–WSCHÓD
+### dopisana 299-12-25, na pokładzie, w drodze do Pentos
+
+_Trzy pierwsze części pisano jako oś **północ–południe**: trakt z Dorzecza, brama, miasto za bramą. Ta część dopisuje oś drugą — **z zachodniego morza na wschodnie** — i to ona czyni z Fosy Cailin nie tylko wrota, ale **przewłokę**._
+
+## I. GORĄCY PORT — ufortyfikowana przystań u ujścia Fever
+
+Na **zachodnim wybrzeżu**, u ujścia rzeki Fever do Zatoki Ognistej. Przyjmuje duże statki z południa i **rozładowuje ich towar przed bagnami**, zamiast ciągnąć wozy przez Przesmyk.
+
+- **Ufortyfikowana od pierwszego dnia, nie po fakcie.** Zachodni brzeg to woda Żelaznych Wysp; nieobwarowana przystań u ujścia rzeki jest zaproszeniem, nie portem.
+- Rzeka Fever jest **jedyną drogą wodną w głąb Przesmyku**. Kto ją trzyma u ujścia, ten zamyka Fosę Cailin od tyłu — a kto jej nie trzyma, ten zostawił sobie tylne drzwi otwarte.
+- Wielkie statki dalej nie idą. **Towar przechodzi na płaskodenne łodzie.**
+
+## II. SPŁAW RZEKĄ FEVER
+
+Stały spław towarów **płaskodennymi łodziami wzoru MUŁ** — od Gorącego Portu wprost do **basenu w Cailin**, gdzie towar idzie na ląd albo dalej na wschód.
+
+- Pod prąd Muły nie idą same. Do tego służy **PSTRĄG** — nie żaglowiec, lecz **wciągarka, która pływa**: kabestan i kotwica. Łódka wynosi kotwicę w górę bystrza, ośmiu ludzi przy kabestanie przeciąga cały sznur Mułów, kotwica idzie wyżej, powtórzyć. Ośmiu robi to, do czego na ścieżce holowniczej trzeba osiemdziesięciu.
+- Łodzie prowadzą **ludzie Przesmyku**. To nie jest uprzejmość — to jedyna załoga, która zna wodę.
+
+## III. TRAKT FOSA CAILIN – CERWYN – BIAŁY PORT
+
+Nowa, utwardzona droga na **północny wschód**, łącząca miasto Cailin z **zamkiem Cerwyn** i przez niego z **systemem rzecznym Białego Noża**, który prowadzi do Białego Portu.
+
+- **Bita droga w miejsce starego traktu** — nie ścieżka, tylko nawierzchnia, po której wóz idzie zimą.
+- Wariant przez Cerwyn dokłada **trzecią stronę** do tego, co dotąd było sprawą dwóch (Tally i Manderly). Cerwyn dostaje przelot, myto i powód, żeby drogi pilnować.
+- Na końcu: **Biały Port**. Dwie bramy, jedna żyła.
+
+## IV. PRZENIOSKA (PORTAGE) I WŁÓKA OKRĘTOWA
+
+I dopiero tu widać, po co to wszystko razem.
+
+> **Towar z południa wchodzi na zachodnim morzu i wychodzi na wschodnim, nie okrążając Westeros.**
+
+**PRZENIOSKA** — cały system lądowego przerzutu **ładunków** między dwiema drogami wodnymi: rzeką Fever (zachód) a systemem Białego Noża i Białym Portem (wschód). Wagi, place, ogrzewane stajnie, tabory jukowe, komory celne na obu końcach.
+
+**WŁÓKA OKRĘTOWA** — przerzut nie ładunku, lecz **samych kadłubów**: Muły i długie łodzie ciągnięte lądem siłą zwierząt pociągowych po **naoliwionych drewnianych płozach i walcach**. Droga włoki jest osobna od drogi wozów, prosta jak strzelił i utrzymywana mokra.
+
+**Co to znaczy politycznie — i to trzeba zapisać obok, a nie zamiast:**
+Przewłoka jest **wąskim gardłem**, a wąskie gardła bogacą tego, kto je trzyma, i przyciągają wszystkich, którzy chcą je odebrać. Dzień, w którym Fosa Cailin przestaje być bramą, przez którą się przechodzi, a staje się **igłą, przez którą przechodzi handel dwóch mórz**, jest dniem, w którym przestaje być prowincjonalną ruiną i zaczyna być **celem**. Mury liczą się od tego dnia inaczej.
+
+---
+
+# POMARAŃCZOWY DWÓR
+### siedziba domu Tally, Miasto Górne
+
+_Wieża Bramna zostaje tym, czym jest: **siedzibą wojskową**, śluzą, komorą celną i jedynym strzeżonym przejściem. Dwór stoi **za nią**, w Mieście Górnym. Dwie siedziby, dwie funkcje — bo pan, który mieszka w bramie, nie ma gdzie przyjmować, a pan, który przyjmuje w bramie, tej bramy nie zamknie._
+
+## Architektura ciepłego kamienia
+
+Fundament i dolne kondygnacje — **czarny bazalt**, jak wszystko w tym mieście. Wyżej: **rudy piaskowiec** z południowych rubieży Północy i **grube bale modrzewiowe**. Kamień ten w słońcu i w blasku latarni mieni się **ciepłym, pomarańczowo-złotym** kolorem.
+
+To nie jest złamanie zasady „kamień na dole, drewno u góry, zieleń na wierzchu". To jest **jej najpełniejsze wykonanie** — i jedyny budynek w mieście, któremu wolno być pomarańczowym w samym materiale, bo pomarańcz w Cailin nie jest ozdobą, tylko **znakiem, że tu odpowiada dom Tally**.
+
+## Wielka Oranżeria — serce domu
+
+Centralnym punktem dworu **nie jest mroczna sala tronowa**, lecz **szklana hala połączona ze szklarniami miejskimi**. Podłoga z pomarańczowej terakoty; stały dopływ pary z torfiarni. Rosną tu przez cały rok rośliny rzadkie na Północy, krzewy jagodowe i pnące mchy.
+
+**Tu lord Tally przyjmuje gości, kupców i wozaków** — w świetle sączącym się przez szkło.
+
+## Dom stałego ognia
+
+Ściany wyłożone pachnącym drewnem, ogrzewanie parowe w podłogach — **w całym domu chodzi się boso**. Zamiast tarcz: farbowane na pomarańczowo wełniane kapy, dywany z Białego Portu, miedziane misy odbijające światło.
+
+> **ZASTRZEŻENIE OGNIOWE.** Żywiczna boazeria i szklana hala w mieście, w którym *pożar jest groźniejszy niż armia*, wymagają tego samego traktowania co Archiwum Domu: **piec pod podłogą, nie w ścianie; kominy w bazalcie; żadnego otwartego ognia w Oranżerii; i Archiwum Domu NIE stoi w tym budynku.** Dwór ma być najcieplejszym domem w Cailin, nie najłatwiejszym do spalenia.
+
+## Brama Gościnności
+
+Monumentalne wrota dwuskrzydłowe, **najjaśniejszy głęboki pomarańcz**, okute mosiądzem. Nad nimi **stała latarnia torfowa w pomarańczowym kloszu**.
+
+Dla zmęczonego wozaka z południa i dla żeglarza z Essos ten widok wyłaniający się z mgły jest komunikatem, i to jedynym, jaki ma być:
+
+> **Tu kończy się niebezpieczne bagno. Tu czeka ciepło, jedzenie i bezpieczny odpoczynek.**
+
+## Dach-ogród
+
+Płaski dach, zgodnie z prawem kamienic Cailin, przekształcony w **taras widokowy** — zamiast surowej darni **kwitnące na pomarańczowo kwiaty bagienne** i gęsty mech. Ulubione miejsce rodziny Tally.
+
+Widok: parujący **Kanał Wielki** i sznury taborów jukowych idących **na Biały Port**.

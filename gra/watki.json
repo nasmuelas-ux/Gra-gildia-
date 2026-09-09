@@ -4507,6 +4507,11 @@
    "id": "kamieniczka_schody_zamkowe",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "bilans_domu_tally_300_01",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

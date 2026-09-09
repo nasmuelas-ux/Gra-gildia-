@@ -17,10 +17,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 299-10-01 ranek · lato (298)
-- **Miejsce:** BRAAVOS - port, pierwszy dzien. Wpis do ksiegi portowej poprawiony (rzut 95). Sakwa Korony u Orryna: 147 smokow. Drugi o…
+- **Data:** 299-10-01 wieczor · lato (298)
+- **Miejsce:** BRAAVOS - dzien drugi. Deklaracja w skladzie, adres w faktorii Manderlych. Ilario odnaleziony zywy (wagowy w Porcie Lach…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 84 · Sytosc 38 · Zmeczenie 55**
+- **Zdrowie 86 · Sytosc 60 · Zmeczenie 40**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied

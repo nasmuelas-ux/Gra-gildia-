@@ -4396,7 +4396,7 @@
   {
    "id": "harrion_karstark_poszukiwanie_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "napad_w_borze_hornwood_299_11",
@@ -4437,6 +4437,11 @@
    "id": "ZYCIE_PRYWATNE",
    "status": "otwarty",
    "_dziennik_nota": 7
+  },
+  {
+   "id": "lista_wymian_jencow_korony_299_11",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

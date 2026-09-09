@@ -3232,7 +3232,7 @@
    "id": "program_okretow_polnocy_299_08",
    "tytul": "Program Okretow Polnocy - modelowe kadluby (handlowe/wojenne/rzeczne) w stylu polnocnym",
    "status": "RUSZONY_299-08-12_zalazkowo_cela_projektowa_Bialy_Port+Glebokorzen_wpis_fundament_(zima=ziarno_first)",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "kryzys_zimowego_ziarna_299_08",
@@ -4486,12 +4486,12 @@
   {
    "id": "budowniczy_projekt_cailin_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 4
   },
   {
    "id": "dom_antaryon_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   }
  ]
 }

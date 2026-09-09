@@ -7,7 +7,7 @@
   },
   "pora": "noc",
   "sezon": "lato (298)",
-  "pogoda": "mroz, czyste niebo, mgla zeszla po raz pierwszy - male kanaly pod cienkim lodem",
+  "pogoda": "mroz przyniesiony suchym wiatrem od polnocnego wschodu; rano czysto, male kanaly pod cienkim lodem; wiatr osiadl - mgla wraca od poludnia",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": false,
   "_dziennik_nastroje_miasta": 7,
@@ -242,7 +242,7 @@
   "_dziennik_inbound_299_09_16": 3,
   "_dziennik_inbound_299_09_17": 2,
   "_dziennik_inbound_299_09_18": 1,
-  "_dziennik_nota": 51,
+  "_dziennik_nota": 52,
   "rok": 299,
   "miesiac": 12
 }

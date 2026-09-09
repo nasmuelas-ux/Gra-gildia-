@@ -7,7 +7,7 @@
   },
   "pora": "noc",
   "sezon": "lato (298)",
-  "pogoda": "mroz trzyma, mgla wrocila i stoi do poludnia; lod na malych kanalach grubszy",
+  "pogoda": "mroz, wiatr polnocny rowny i suchy, mgle zdmuchnelo - dzien do wyplyniecia",
   "dzien_tygodnia_nr": 6,
   "dzien_targowy": false,
   "_dziennik_nastroje_miasta": 7,
@@ -54,7 +54,7 @@
     "prowiant_uwaga": null
   },
   "swieto": "brak - deszcz ustal, zimno i ostre swiatlo",
-  "dzien": 18,
+  "dzien": 19,
   "mechanika_inbound": {
     "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
     "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "BRAAVOS - wieczor 18-go, OSTATNI. Jutro rano: PUBLICZNY REJESTR DLUZNIKOW (wykreslenia Nesty i Ilaria, przy dwoch swiadkach, Tormo chce, by Symon widzial), potem pochylnia, potem morze. Nesta wypisana z poselstwa - zostaje. Ilario najety przez Torma jako jego oko przy niej. Pismo do cechu pisarzy w reku. Medyczka odmowila. TERYS CZEKA NA OSTATNIE SLOWO.",
+  "lokacja": "BRAAVOS - DZIEN ODPLYNIECIA (19-go). Rano: PUBLICZNY REJESTR DLUZNIKOW u Torma przy dwoch swiadkach (wykreslenia Nesty i Ilaria; Tormo chce, by Symon widzial), rejestr portowy (kontrakt czterech do wpisania jawnie), pochylnia, morze. Nesta i Ilario zostaja. Norma okretow: 6 ustalonych + 3 do rozstrzygniecia (Szczupak, Pstrag, Plywak).",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "wieczor",
+  "pora_dnia": "ranek",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {

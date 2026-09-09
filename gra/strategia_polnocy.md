@@ -366,3 +366,89 @@ I to, co powiedziano w Pentos i co warto zapisać dosłownie, bo powiedział to 
 3. **Nie sprzedawajmy towaru. Bądźmy miejscem.** Towar się zużywa; rejestr od używania rośnie.
 4. **Nikt nas nie musi kochać. Muszą na nas zarabiać.**
 5. **Nic z tego nie zostanie dokończone za życia tego, kto to pisze — i to nie jest wada planu, tylko jego warunek.**
+
+---
+
+# CZĘŚĆ VI — LISTA WDROŻEŃ, PRZESIANA
+
+_Czterdzieści dwie pozycje, przełożone na stan faktyczny wedle ksiąg Korony. Numeracja własna listy zachowana (**pozycji 19 w niej nie ma**)._
+
+**Status:** ✅ **wdrożone** · ◐ **częściowo — istnieje w praktyce, nie istnieje jako prawo** · ○ **nie zaczęte**
+**Trudność:** ● łatwe · ●● średnie · ●●● pokoleniowe · **Wpływ:** ★ punktowy · ★★ znaczący · ★★★ przełomowy
+
+---
+
+## ✅ JUŻ ZROBIONE — nie planować po raz drugi
+
+| # | Rzecz | Dowód z ksiąg |
+|---|---|---|
+| **14** | **Jednolita miara i waga** | *„Mennica, cło, **miara**, rejestr roszczeń, komory, budowy — wszystko postawione w miesiąc"*; standard traktu i słupy milowe; stawka przewozowa podpisana 09-08; jedna miara północna na kadłuby |
+| **18** | **Poczta koronna** | Stała linia zamiast jeźdźców ad hoc. **I z poprawką, której na liście nie ma:** świadomie wyłączona z siatki wywiadu — *„kręgosłup cła, taryfy, agencji zbożowej, prawa o składach i pomiaru Przesmyku; działa tylko dopóki wszyscy wierzą, że kurier **tylko wozi**"* |
+| **29** | **Własna moneta** | **MENNICA WILK** działa i daje zysk z każdej przetopionej sztuki, nie z podatku. *Na liście oceniona jako ●●● pokoleniowa — a jest zrobiona.* |
+| **36** | **Rada Północy z prawdziwym głosem** | Zbiera się **w stałe dni, nie kiedy coś się stanie** — *„rytm, nie zryw"*. Król przewodniczy i rozstrzyga; spór dwóch urzędów rozstrzyga Król, nie starszy z nich |
+| **32** | **Ulga z nowego, nie z tego, co jest** | Wypowiedziane wprost jako zasada: *„**czynszów podnieść się nie da — wszystko, co jeszcze wyrośnie, musi wyrosnąć z rzeczy nowych**"* |
+| **2** | **Jedna stawka cła bez wyjątków** | Ogłoszona taryfa i komory celne stoją. **Pierwszy raz zastosowana do lenna samego Namiestnika 299-12-30:** Fosa bierze z zapasów Korony po ogłoszonej stawce, jak każde inne lenno — nie przed kolejką i nie taniej |
+
+## ◐ ISTNIEJE JAKO PRAKTYKA, NIE ISTNIEJE JAKO PRAWO
+### _to jest najtańsza część całej listy: rzecz jest zrobiona, brakuje tylko pieczęci_
+
+| # | Rzecz | Co już jest | Czego brakuje |
+|---|---|---|---|
+| **11** | Urząd dla ludzi bez nazwiska | **Najsilniej ze wszystkiego.** Osric dostał urząd **dlatego, że nie ma ziem, rodu ani bazy**. Hal, Willa, Garth, Myles, Nesta, Orbelo. Doktryna *urząd nie krew* | **Instytucji.** Dziś to jest zwyczaj jednego człowieka, a nie prawo — więc **umiera razem z nim** |
+| **1** | Dwa podpisy pod urzędem | Upoważnienie Stopnia I; ser Alyn wedle upoważnienia; trzy relacje pieczętowane osobno | Ogólnej reguły: **każdy urząd ma zastępcę z własną pieczęcią** |
+| **4** | Rewizor koronny do ksiąg Namiestnika | *Kto zarządza, nie mierzy sam siebie.* Księgę zbożową w Pentos podpisał **człowiek Skarbnika, nie Namiestnik** | Corocznego urzędu z terminem |
+| **3** | Rejestr publiczny | Rejestr roszczeń stoi; jawność jest doktryną | Odczytania na zjeździe |
+| **30** | Jawny kodeks i wyrok z uzasadnieniem | **Cerwyn ma czystopis prawa w dwóch tekstach**; *powód wpisany obok ceny*; prawo pisemnej odmowy | Kodeksu ogłoszonego i sądu, który podaje przyczynę |
+| **17** | Skład neutralny | **Prawo o składach** istnieje | Depozytu spornego pod pieczęcią |
+| **15** | Weksel północny | Dom Handlowy Tally używa weksli; *ograniczeniem przestaje być gotówka, a staje się imię* | Weksla **Korony**, nie domu |
+| **13** | Przystanie nad rzekami wschodu | Układ Przystani Wilka z wieżą Korony | Reszty rzek |
+| **10** | Arteria zachód–wschód | **Spisana 299-12-25** jako Część Czwarta Projektu Cailin | Wszystkiego poza papierem |
+| **34** | Udział w cle za lokację | **Precedens stoi:** most na Rzece Kopców, Tally i Dustin, **myto 50/50** | Uczynienia z precedensu reguły |
+| **39** | Wspólna obrona z centrum | **Precedens jednorazowy:** żołd i zaopatrzenie oddziału Osrica **z Kasy 3** — *„to była misja Korony od pierwszego dnia"* | Stałej pozycji. **Twarde ograniczenie: Korona nie ma ani jednego własnego zbrojnego** |
+| **40** | Odznaczenie i tytuł za zasługę | Precedensem jest sam Namiestnik — skryba wyniesiony przez Króla | Formy, którą można nadać komuś innemu |
+| **31** | Poselstwo stałe w Wolnych Miastach | **Adres Korony w Braavos rozstrzygnięty** po trzech miesiącach | Stałego poselstwa z człowiekiem i budżetem |
+| **7+12** | Spichlerz i magazyn regionalny | Agencja zbożowa Korony; składy i barki Hala | **Budynków i zarządu.** A pozycja 2 zagrożeń ma datę: **marzec** |
+| **23** | Tolerancja obu bogów | W praktyce nikt nikomu nie zabrania | Ogłoszenia — **i przestało to być teoretyczne**, bo czerwona kapłanka płynie na Mur przez Północ |
+| **27** | Niska, stała, ogłoszona stawka celna | Taryfa ogłoszona | „Niskiej". Dziś jest ogłoszona, nie jest tania |
+
+## ○ NIE ZACZĘTE
+
+| # | Rzecz | Trud. | Wpływ | Uwaga z ksiąg |
+|---|---|---|---|---|
+| **6** | Zakaz obcego faktora **na wyłączność** | ● | ★★ | **Pilne dziś.** Prestayn wysyła mierniczego, Illyrio prosi o faktora. Właściwa forma to nie zakaz faktorów, tylko **zakaz wyłączności i wpis do rejestru** — zakaz robi z nich szpiegów |
+| **9** | Rejestr jako usługa płatna | ●● | ★★★ | **Najtańsza z pozostałych i najbliższa Ścieżki A.** Poświadczenie wagi, jakości i pochodzenia jest tym, co Północ już robi za darmo |
+| **8** | Broker pewności | ●● | ★★★ | Nazwane **niezależnie przez dwoje ludzi**, którzy się nie znają: Nestę we wrześniu i Illyria w grudniu |
+| **24** | Ochrona kupca obcego pod prawem | ●● | ★★★ | — |
+| **25** | Zakaz konfiskaty bez wyroku | ●● | ★★★ | — |
+| **26** | Prawo depozytu i przechowania | ●● | ★★★ | Zaczyn banku |
+| **20** | Wolnizna z listem osadniczym | ● | ★★★ | **Trzydzieści kilka rodzin przyjechało konwojem 299-08-11 bez żadnego listu** — i to już kosztowało: rysa stary-vs-nowy, przegrany wybór sołtysa, starzy z bagna nie przyszli głosować |
+| **21** | Rok i dzień | ● | ★★★ | — |
+| **22** | Ziemia weteranom i rozbitkom | ●● | ★★ | — |
+| **5** | Uczynszowienie przez lokację pustek | ●● | ★★★ | Czynsze stoją na 1/3–1/2 plonu w naturze i **podnieść się nie dadzą** — więc to jest jedyna droga wzrostu z ziemi |
+| **33** | Targi i jarmarki lorda za zgodą Korony | ● | ★★ | — |
+| **35** | Pierwszeństwo w magazynie dla dokładających | ●● | ★★ | Wymaga wpierw 7+12 |
+| **37** | Sąd Korony jako gwarant sporów lorda | ●● | ★★★ | — |
+| **38** | Wychowanie dziedziców na dworze Króla | ● | ★★★ | — |
+| **41** | Apelacja kmiecia do Korony | ●●● | ★★ | — |
+| **42** | Kataster Północy | ●●● | ★★★ | Pomiar Przesmyku i Głębokorzeń to **nie** kataster |
+| **28** | Traktat handlowy z sąsiadem | ●●● | ★★★ | **Pentos odmówił 299-12-30:** *„wynajmujemy izbę, nie wynajmujemy nazwy"*. Memorandum Terysa to nie traktat |
+
+---
+
+## MAPA DECYZJI — PRZELICZONA PO PRZESIANIU
+
+**Zapłon skreślony w połowie.** Z sześciu pozycji „łatwe i przełomowe" **trzy są już zrobione** (14, 32 i w istocie 2). Zostają:
+
+> **1** (zastępca z własną pieczęcią) · **20** (list osadniczy) · **21** (rok i dzień)
+
+I to nie jest przypadek, że pozostała właśnie ta trójka: **wszystkie trzy służą temu, żeby coś przetrwało bez człowieka, który to zaczął.**
+
+**Pozycja pierwsza całej strategii ma teraz numer:** **11 — urząd dla ludzi bez nazwiska.** Jest zrobiona jako zwyczaj i niezrobiona jako prawo, a to znaczy dokładnie tyle: **umiera razem z Namiestnikiem.** *Nie da się zdyskredytować urzędu — można zdyskredytować tylko człowieka.*
+
+**Do zrobienia w tym roku, bo mają daty:**
+**7+12** magazyn — bo niedobór ma datę marcową · **6** wyłączność faktorów — bo dwóch już prosi · **23** tolerancja ogłoszona — bo kapłanka płynie · **9** rejestr płatny — bo jest najtańszym krokiem Ścieżki A
+
+**Poprawki do ocen z pierwotnej listy:**
+- **29 (moneta):** oceniona ●●● pokoleniowa — **jest zrobiona.** Mennica Wilk bije.
+- **39 (wspólna obrona):** ocena zaniżona. Ograniczeniem nie jest pieniądz, tylko to, że **Korona nie ma ani jednego własnego zbrojnego.**
+- **27 (niska stawka):** stawka jest ogłoszona i stała — **„niska" to osobna decyzja i osobny koszt.**

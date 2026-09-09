@@ -5,7 +5,7 @@
     "dzien": 1,
     "era": "AC"
   },
-  "pora": "ranek",
+  "pora": "popoludnie",
   "sezon": "lato (298)",
   "pogoda": 70,
   "dzien_tygodnia_nr": 6,
@@ -138,10 +138,10 @@
     },
     "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
   },
-  "lokacja": "BRAAVOS - dzien czwarty. Dzis: Bank (3. godzina po swicie, klucznik Tycho Nestoris) i posrednik drzewny po poludniu. Terminy domow: 12-15 Terysowie, 12-16 Prestaynowie, 12-17 Antaryonowie; Otharysowie odlozyli sie sami. Palac: Morski Pan nie przyjmuje. Sakwa 98 smokow, prog zawrocenia za 18 dni.",
+  "lokacja": "BRAAVOS - dzien czwarty. Po audiencji w Banku (rzut 49: warunek - TRZY LATA tej samej liczby, liczonej cudza reka) i po pierwszej sprzedazy drewna (75 jeleni/sztuka za 60 sztuk). Sakwa Korony 120 smokow 100 jeleni. Jutro Terysowie, 16 Prestaynowie, 17 Antaryonowie.",
   "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
   "_dziennik_poludnie_w_ruchu_299_07": 2,
-  "pora_dnia": "ranek",
+  "pora_dnia": "popoludnie",
   "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
   "miasto": "FOSA CAILIN - wlasne lenno, brama",
   "geografia_lod_porty_299_08": {

@@ -2287,7 +2287,7 @@
    "id": "odbudowa_fosy_cailin_dom_tally_1127",
    "tytul": "Odbudowa Fosy Cailin (siedziba Domu Tally) - brama Polnocy: twierdza + wezel gospodarczy",
    "status": "DOBRY_POCZATEK_299-05_sedziba+brama_stoi_projekt_pokoleniowy_na_torze",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 10
   },
   {
    "id": "wektor_dorn_wrozda_krwi_1127",
@@ -4451,7 +4451,7 @@
   {
    "id": "ilario_wagowy_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "sukcesja_morskiego_pana_braavos_299_12",
@@ -4481,7 +4481,17 @@
   {
    "id": "korespondencja_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
+  },
+  {
+   "id": "budowniczy_projekt_cailin_299_12",
+   "status": "otwarty",
+   "_dziennik_nota": 2
+  },
+  {
+   "id": "dom_antaryon_braavos_299_12",
+   "status": "otwarty",
+   "_dziennik_nota": 2
   }
  ]
 }

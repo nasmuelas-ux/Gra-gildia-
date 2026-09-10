@@ -3221,7 +3221,7 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 17
+   "_dziennik_nota": 18
   },
   {
    "id": "karstark_linia_pekniecia_wschod_299_08",
@@ -4397,7 +4397,7 @@
   {
    "id": "harrion_karstark_poszukiwanie_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "napad_w_borze_hornwood_299_11",
@@ -4526,6 +4526,11 @@
   },
   {
    "id": "relief_domu_tally_299_05",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "podroz_bialy_port_winterfell_300_02",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

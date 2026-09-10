@@ -2288,7 +2288,7 @@
    "id": "odbudowa_fosy_cailin_dom_tally_1127",
    "tytul": "Odbudowa Fosy Cailin (siedziba Domu Tally) - brama Polnocy: twierdza + wezel gospodarczy",
    "status": "DOBRY_POCZATEK_299-05_sedziba+brama_stoi_projekt_pokoleniowy_na_torze",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11
   },
   {
    "id": "wektor_dorn_wrozda_krwi_1127",
@@ -4531,6 +4531,41 @@
   },
   {
    "id": "podroz_bialy_port_winterfell_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "rejestr_rozwoju_polnocy_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "przystanie_ladunkowe_wschodu_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "spichlerz_polnocy_dwa_etapy_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "zakaz_wylacznosci_faktora_i_porty_jako_komory_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "wielka_rada_porzadek_obrad_300_04",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "traktat_handlowy_z_dorzeczem_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "cztery_puste_miejsca_na_nazwiska_300_02",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

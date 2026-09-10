@@ -3451,7 +3451,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11
   },
   {
    "id": "zasada_uczniow_przy_urzedzie_299_08",
@@ -4593,6 +4593,11 @@
    "id": "znajdowanie_ludzi_ktorzy_umieja_liczyc_300_02",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "szkola_tallych_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 4
   }
  ]
 }

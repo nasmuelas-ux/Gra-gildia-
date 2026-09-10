@@ -20,7 +20,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-02-07 ranek · zima (300)
 - **Miejsce:** WINTERFELL. O switu wyszly dwa kruki: do marszalka Osrica (tlumacz z Kasy III, rozmowa z Rayderem, poslaniec, linijka o …
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 83 · Sytosc 30 · Zmeczenie 15**
+- **Zdrowie 83 · Sytosc 68 · Zmeczenie 18**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied

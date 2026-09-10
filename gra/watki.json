@@ -3595,7 +3595,7 @@
    "id": "objazd_wschodu_jako_pierwszy_objazd_poborowy_299_09",
    "tytul": "TRASA (A): Przesmyk pierwszy, potem luk. Bialy Port NIE ZAMARZA, wiec listopadowe wyplyniecie to gorszy rejs, nie zamkniete okno. Termin podany Stannisowi (Pentos, grudzien) trzyma sie",
    "status": "otwarty",
-   "_dziennik_nota": 48,
+   "_dziennik_nota": 49,
    "priorytet": "wysoki",
    "termin": "wyjazd 299-09-22, wyplyniecie ~11-07, Pentos grudzien"
   },
@@ -3603,7 +3603,7 @@
    "id": "projekt_cailin_trakt_forteca_miasto_299_09",
    "tytul": "PROJEKT CAILIN - Trakt, Forteca, Miasto (zamierzenie na pokolenia, do szuflady)",
    "status": "SPISANY_299-09-05_DO_SZUFLADY_nie_zlecony",
-   "_dziennik_nota": 14
+   "_dziennik_nota": 15
   },
   {
    "id": "spis_przedsiebiorstw_299_09",
@@ -3677,7 +3677,7 @@
    "id": "zbior_swiadectw_dlugiej_nocy_299_09",
    "tytul": "ZBIOR SWIADECTW O DLUGIEJ NOCY - 14 listow do maesterow, regula zapisu Brana jako standard krolestwa",
    "status": "WYSLANE_299-09-08_o_switu;_odpowiedzi_tygodniami;_Bran_prowadzi_zbior",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "ned_pytal_ile_jest_czasu_299_09",
@@ -4103,7 +4103,7 @@
   {
    "id": "spotkanie_ze_stannisem_w_pentos_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 14,
+   "_dziennik_nota": 15,
    "priorytet": "wysoki",
    "termin": "299-12 (Pentos)",
    "tytul": "Spotkanie ze Stannisem w Pentos - zaproszenie wyslane z pieciu warunkami; jedzie Namiestnik osobiscie; czeka na odpowiedz"

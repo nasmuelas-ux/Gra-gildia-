@@ -4437,7 +4437,7 @@
   {
    "id": "ZYCIE_PRYWATNE",
    "status": "otwarty",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "lista_wymian_jencow_korony_299_11",
@@ -4521,6 +4521,11 @@
   },
   {
    "id": "kto_pyta_o_polnocne_zboze_300_01",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "relief_domu_tally_299_05",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

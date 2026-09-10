@@ -67,6 +67,56 @@ Spółka wytwórcza jak każda inna — zarządca spoza cechu (1/3 zysku, 5 lat)
 > **NIE AUDYTUJE KSIĄG DOMU HANDLOWEGO TALLY.** Sprzedaje rewizję obcym. Dom sprawdzają rewizorzy lorda.
 > **KORONY NIE BIERZE NA KLIENTA — NIGDY.** (Dom Namiestnika sprawdzający księgi Skarbu za pieniądze: nie trzeba by nawet kłamać, wystarczyłoby to opowiedzieć.)
 
+
+---
+
+# OPIS FUNKCJI — SIEDZIBA, FILIE, SPÓŁKI
+### spisany 300-02-06 w Winterfell, na żądanie lorda; obowiązuje jako wzór odtwarzalny
+
+> **ZASADA NACZELNA CAŁEGO UKŁADU — TRZY RĘCE, NIGDY JEDNA:**
+> **kto sprzedaje · kto liczy · kto trzyma towar.**
+> Nigdzie i nigdy w jednej osobie. Z niej wynikają wszystkie poniższe rozdzielenia.
+> Pochodne, już zapisane: *fach i księgi nigdy w jednej ręce* · *kto zarządza, nie mierzy sam siebie*.
+
+## A. SIEDZIBA (centrala)
+*Pieczęć i siedziba prawna: Fosa Cailin. Serce operacyjne: Biały Port (od 300-01-26).*
+
+| funkcja | co robi | komu podlega | czego NIE wolno |
+|---|---|---|---|
+| **Dyrektor Generalny** | całość domu, wynik, obsada stanowisk i filii | właścicielowi | nie pełni urzędu publicznego; nie ma dostępu do tajnej księgi; nie obsadza rewizorów |
+| **Rachmistrz Główny** | księga główna i **tajna księga**; pion rachunkowy całego domu | właścicielowi | nie zarządza żadnym zakładem |
+| **Kanclerz-Archiwista** | poczta z filii, odpisy, katalog | właścicielowi | bez dostępu do tajnej księgi |
+| **Notariusz** | umowy, pełnomocnictwa, procesy; odczytuje pismo nieobecnego lorda na Zgromadzeniu i protokołuje salę | Dyrektorowi | nie jest pełnomocnikiem i niczego nie interpretuje |
+| **Klienci** | kontrakty i relacje | Dyrektorowi | nie prowadzi ksiąg |
+| **Analiza** | zestawia obroty, marże, wąskie gardła; podaje trendy, nie oceny ludzi | Dyrektorowi | nie zarządza |
+| **Rewizorzy objazdowi** | raz w roku zderzają księgi filii z odpisami centrali | **wyłącznie lordowi, omijają Dyrektora** | nie wydają poleceń; nie wstrzymują |
+
+## B. FILIA — WZÓR OBOWIĄZUJĄCY KAŻDĄ PLACÓWKĘ
+*Sześć placówek prowadzi się tym samym wzorem; różni je wielkość, nie ustrój.*
+
+1. **ZARZĄDCA FILII** — młodszy wspólnik. **Udział w zysku własnej filii, umowa na 5 lat, odnawialna.** Kto prowadzi źle, po prostu nie dostaje przedłużenia. **Nie krewny** — krewnego nie da się nie odnowić bez awantury.
+2. **RACHMISTRZ FILII** — księgi placówki. **Podlega Rachmistrzowi Głównemu, NIE zarządcy i nie Dyrektorowi.**
+3. **MAGAZYNIER** — towar i skład. Osobny od obu powyższych.
+4. **PISARZ NALEŻNOŚCI** — kto ile winien, od kiedy, i czym płaci. Najniższy stopień drabiny; z niego idzie się w górę.
+5. **RACHMISTRZ RELIEFU** — jałmużna domu w tym mieście: **chleb · zima · wdowy · nauka**, z rocznej puli Kasy 1, wydawana **wedle potrzeby, nie po równo**. Prowadzi **osobny rejestr**, zderzany przez rewizorów. **Na drzwiach wisi, kto się kwalifikuje; rachmistrz rozstrzyga ILE, nigdy CZY.**
+6. **WĘZEŁ POCZTY DOMOWEJ** — kurier i skrzynka; poczta domu, poza Cytadelą.
+
+*Posterunek (np. Czarny Zamek) to nie filia: jeden człowiek, jedna księga, rozlicza się przez najbliższą placówkę.*
+
+## C. SPÓŁKA WYTWÓRCZA
+*Papiernia · warzelnia i solarnia · zielarnia · warsztat bursztynu · Dom Audytowy Tally.*
+Dom pozostaje właścicielem każdej i bierze **dwie trzecie zysku**. Rozdzielone po to, by wierzyciel upadłej spółki sięgał po majątek **tej jednej**, a nie po kantor.
+
+- **ZARZĄDCA** — 1/3 zysku swojej spółki, umowa 5 lat, **nie krewny**.
+- **RACHMISTRZ** — podlega Rachmistrzowi Głównemu, nie zarządcy.
+- **MISTRZ, MAJSTROWIE, ROBOTNICY** — zatrudnia sama spółka, na własny koszt i w swoich księgach.
+- **Sprawozdanie jednolite** dla wszystkich spółek: produkcja, sprzedaż, stan kasy, stan surowca, kłopoty. **Jednolitość ważniejsza niż szczegół.**
+
+## D. POZA SCHEMATEM
+**Barki i składy** — narzędzia, nie przedsiębiorstwa; prowadzone wprost przez kantor.
+**Archiwum i szkoła** — koszt lenna, nie interes; nie mierzyć ich zyskiem.
+**Garnizon Fosy** — sprawa lenna i marszałka; od 300-01-01 na Kasie II.
+
 ---
 
 ## III. LENNO FOSY CAILIN (feudalne; dochód = kasa 2)

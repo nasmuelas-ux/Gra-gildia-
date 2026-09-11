@@ -194,3 +194,113 @@ Kanon kosztował **18–30 smoków rocznie** — na czworo dzieci i przy maester
 
 > ### **ZIMA NADCHODZI — UCZYMY PRZED, NIE PO.**
 > **Kanon był gotowy od września. Brakowało mu tylko domu i czterdziestu dzieci. Jedno i drugie przyjeżdża za pięć tygodni.**
+
+---
+---
+
+# POPRAWKI Z 300-02-16
+### *Zapisu się nie wykreśla — dopisuje się do niego. Powyższe zostaje w brzmieniu z 15. dnia; poniższe je uzupełnia i, gdzie wskazano, zastępuje.*
+
+---
+
+## A · OCHMISTRZ WYCHOWANKÓW — **DATA I PROFIL** *(uzupełnia III)*
+
+> ### **MA SIEDZIEĆ 1. DNIA TRZECIEGO MIESIĄCA.**
+> Data policzona **od końca, nie od początku**: dzieci od ~15. dnia Trzeciego Miesiąca, a łóżka, wikt, opał i obsługa wymagają **dwóch tygodni przed**. Pierwszy jest Dniem Bilansu — *„nie lubię terminów, których nie widać"*.
+> **Na szukanie: trzynaście dni.** Szuka Namiestnik, **zatwierdza Król** *(Król nie zastrzegł sobie nazwiska — świadomie i z podaniem powodu)*.
+
+**PROFIL, JEDNYM ZDANIEM** *(dla metody Skarbnika — „wśród odstawionych")*:
+> ### **Człowiek, który już kiedyś nakarmił i położył spać wielu obcych naraz — i umiał potem powiedzieć ilu.**
+> *szafarz zamku, którego zamku już nie ma · kwatermistrz · gospodarz zajazdu przy trakcie · szpitalnik przy septrze · wdowa po rządcy, która prowadziła dom pod nieobecność męża*
+
+**TRZY WARUNKI:** **nie Tally** · **nie Stark** · ### **i taki, któremu da się powiedzieć.**
+> *Trzeci dopisany 16. dnia. Ochmistrz liczy czterdzieścioro dzieci co wieczór po imieniu — więc jest jedynym człowiekiem w tym domu, który musi wiedzieć, czego szuka, licząc.*
+
+**RACHMISTRZ** — bierze go Skarbnik ze swojej ręki *(i tak jemu podlega; zapora stoi, bo Ochmistrza szuka kto inny)*.
+
+---
+
+## B · DZIESIĄTA DZIEDZINA — **OBSADZONA** *(zastępuje wiersz 10 w VII)*
+
+**MOWA I SŁUCHANIE — SANSA STARK.** Zapytana 16. dnia pytaniem, na które „tak" nie jest odpowiedzią. **Zgodziła się na czterech własnych warunkach:**
+
+**① PRÓBA, JAK W KAŻDEJ INNEJ DZIEDZINIE.** Odbiera ją nauczyciel z innego węzła, **wskazany losem**, jak wszędzie.
+> *„Bez próby to nie jest dziedzina. To jest pani, która zabawia dzieci — i tak to nazwą po dwóch tygodniach, i będą mieli rację."*
+
+**② NIE UCZY BYCIA MIŁYM.** Uczy **patrzeć, słuchać i odezwać się przy ludziach** — nie przypodobać się.
+
+**③ WOLNO JEJ PRZESTAĆ** — bez podania powodu, na piśmie, **tam gdzie ojcowie.**
+> **POPRAWKA KRÓLA, NA JEJ KORZYŚĆ:** ojcu wolno **zabrać dziecko**; jej wolno **odejść i wrócić.**
+> *„Nie chcę, żeby jedno »nie mogę w tym miesiącu« zamykało jej drzwi na zawsze."*
+
+**④ MIEJSCE I PORA — O STAŁEJ PORZE, TAM, KTĘDY CHODZĄ LUDZIE.** Krużganek albo wielka sala między posiłkami. **Nie za zamkniętymi drzwiami.**
+> *„Uczę ich patrzeć, kto komu ustępuje przy drzwiach — a tego nie da się uczyć tam, gdzie nie ma drzwi i nie ma ludzi."*
+
+**W SPISIE DZIEDZIN PISZE SIĘ: „MOWA I SŁUCHANIE". Nie „u lady Sansy".**
+
+---
+
+## C · WĄSKIE GARDŁO ROZWIĄZANE — **STARSI UCZĄ MŁODSZYCH** *(uzupełnia VII)*
+
+**MISTRZ NAUKI ODPOWIEDZIAŁ NA PYTANIE „CZEGO PRZESTANIESZ ROBIĆ?":**
+- **oddaje: codzienne uczenie** — *„jedyna z tych rzeczy, którą umie ktoś inny"*
+- **nie oddaje: Brana, tego domu i godziny dziennie dla Rickona** — *„powiedzcie to Królowi w tych słowach"*
+- **przyznaje pierwszy, czego nie umie:** *„nigdy w życiu nie uczyłem grupy. Postawcie mnie przed czterdzieściorgiem, a nauczę trzech najbystrzejszych, a trzydziestu siedmiu przesiedzi zimę."*
+
+**JEGO WŁASNE ROZWIĄZANIE — z trzeciego zdania roty Strażnicy Zimy, którą sam redagował:**
+> ### *„Uczę tak, żeby uczeń przestał mnie potrzebować."* — **to nie jest zdanie o skromności. To jest instrukcja obsługi.**
+>
+> ### **Mistrz Nauki uczy DZIESIĘCIORO. Te dziesięcioro uczy resztę.**
+> Szczebel III uczy szczebla II; kto zdał próbę liter, siada z tym, który jej nie zdał. **Trzech dorosłych wystarczy na czterdzieścioro.**
+> **Skutek uboczny, który jest zyskiem:** żeby uczyć, trzeba umieć — **więc ten, kto uczy, uczy się drugi raz.**
+
+**CENA, NAZWANA PRZEZ NIEGO SAMEGO:**
+> *„Dwunastoletni Flint będzie poprawiał jedenastoletniego Umbera. Przy świadkach. Codziennie. A ich ojcowie dowiedzą się w tym samym tygodniu."*
+> **To nie jest powód, żeby tego nie robić. To jest powód, żeby dziesiąta dziedzina była dziedziną, a nie kłótnią na dziedzińcu.**
+
+**NADAL PUSTE:** *kto nauczy tych dziesięcioro **uczyć**.* Jedyna osoba na Północy, która robi to od miesięcy, jest na Fosie Cailin i nie przyjedzie. **Poszło do niej dziesięć pytań o drobiazgi — wraca przed drugą połową Trzeciego Miesiąca.**
+
+---
+
+## D · RUBRYKA WSTYDU — ODPOWIEDŹ W CZTERECH RUCHACH *(uzupełnia VIII)*
+
+**Dziedzińca się nie usunie. Usuwa się RÓŻNICĘ.**
+
+**① STAWKA MAŁA** — tak, żeby **żaden dom nie mógł jej nie unieść.** Nie po to, żeby zarobić. *Zadaniem pierwszego roku nie jest mieć te liczby wielkie — jest je znać.*
+> **Odwraca sygnał:** przy małej stawce dom, który nie dowiózł, **nie jest biedny — jest domem, który nie chciał.**
+
+**② WOLNO ZAPŁACIĆ CZYMKOLWIEK — I WOLNO ZAPŁACIĆ RĘKĄ.** Zboże, ryba, torf, drewno, wełna, sól — **albo jeden człowiek na sezon do roboty Korony.**
+> *Dom, który nie ma korca, ma człowieka — a Korona akurat szuka dwudziestu drwali i płaci im zbożem do domu. **Zapłacił i został nakarmiony jednym ruchem.***
+
+**③ POKWITOWANIE JEDNAKOWE — JEDNO SŁOWO: ZAPŁACONE.** Ilość mierzy się i zapisuje **w księdze składu**; kwit, który widzą ludzie, ma jedno słowo.
+> ### **JAWNOŚĆ NIE ZNACZY TABLICA WYNIKÓW.**
+> *Nic nie jest ukryte — księga jest księgą. Ale żeby wiedzieć, kto dał ile, trzeba pójść i policzyć, a nie zerknąć przez dziedziniec.*
+
+**④ KOGO NIE STAĆ — NIE „KORONA NIESIE", TYLKO ODROCZENIE Z TERMINEM, BEZ LICHWY.**
+> ### **DŁUG MA DATĘ. JAŁMUŻNA MA ŚWIADKÓW.**
+> *Człowiek, który jest komuś winien do wiosny, jest dłużnikiem. Człowiek, którego ktoś utrzymuje, jest kimś innym — i wie o tym co rano.*
+>
+> *(Zastępuje zdanie z VIII: „Korona niesie dziecko i wpisuje się to zwyczajnie".)*
+
+---
+
+## E · ŁUPEK, NIE PERGAMIN *(rzecz najmniejsza, której nikt nie policzył)*
+
+Czterdzieścioro dzieci uczących się liter · pergamin **40 za arkusz** · dziecko psuje **trzy dziennie** przez pierwszy miesiąc.
+
+> ### **ŁUPEK I RYSIK ALBO TABLICZKA WOSKOWA. Ściera się i pisze od nowa — kosztuje raz.**
+> **Pergamin dostaje ten, kto zdał próbę. I wtedy znaczy coś, że go dostał.**
+
+---
+
+## F · LICZBA — **DRUGI KRUK POSZEDŁ** *(zamyka dziurę ① z IX)*
+
+Pod pieczęcią Króla, ręką pisarza kancelarii, do wszystkich czterdziestu domów. Pięć linijek:
+> **imię dziecka · wiek · czy zna litery · kto je przywiezie i ilu z nim będzie · termin: koniec Drugiego Miesiąca**
+> ### **„A jeśli nie przyślecie nikogo — napiszcie, że nie przyślecie."**
+
+*„Ilu z nim będzie" = siódma rubryka rejestru Zimowego Miasta, przeniesiona o miesiąc do przodu. **Poczet liczy się z imienia, nie z liczby.***
+
+---
+
+> ### **Pieczęć przyłożona 16. dnia Drugiego Miesiąca. BEZ WYJĄTKU DLA ŻADNEGO DOMU.**

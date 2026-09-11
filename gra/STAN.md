@@ -17,10 +17,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-02-09 ranek · zima (300)
-- **Miejsce:** WINTERFELL - wyjazd o brzasku na polnoc, naprzeciw poselstwu Nocnej Strazy. Krol i Namiestnik, lekko, konno.
+- **Data:** 300-02-11 poludnie · zima (300)
+- **Miejsce:** TRAKT NA POLNOC OD WINTERFELL, trzeci dzien drogi - spotkanie z poselstwem Nocnej Strazy w polu, w deszczu ze sniegiem.
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 83 · Sytosc 52 · Zmeczenie 6**
+- **Zdrowie 83 · Sytosc 40 · Zmeczenie 48**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied
@@ -109,7 +109,6 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - `mchowe_jastrzebie_straz_lenna_300_02` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-02-08] `swiat`: 300-02-08 RANEK, WINTERFELL. POGODA 76 - MROZ TEGI I CZYSTY, niebo przetarte po nocnym sniegu, bez wiatru, trakt stezaly na kamien. 'Mroz nie zamyka Polnocy, mroz ja otwiera' - drugi raz w t…
 - [300-02-08] `raport_osrica_z_muru_299_10`: ### 300-02-08 RANEK - SYMON ZNAJDUJE WE WLASNYCH PAPIERACH RZECZ, KTORA LEZALA JEDENASCIE DNI (wskazanie gracza: 'a straz nie miala wyslac delegacji do krola?'). ### ### POPRAWKA PROWADZACEG…
 - [300-02-08] `rickon_stark`: ### 300-02-08 przedpoludnie - SYMON WRACA POPRAWIC LICZBE PRZED WYJAZDEM, NIE PO. Bez rzutu. ### Zastal go w wielkiej sali PRZY MIERZENIU: trzymal oba kije koncami do siebie i sprawdzal, czy…
 - [300-02-08] `mur_mance_rayder_i_lud_za_murem_299_09`: ### WYJAZD NAPRZECIW POSELSTWU STRAZY - ROZSTRZYGNIETE Z KROLEM 300-02-08 (decyzja gracza). ### ### 'NIE CZEKAMY NA NICH W WINTERFELL. WYJEZDZAMY NAPRZECIW I WIEZIEMY ZIARNO.' ### To jest pl…
@@ -121,3 +120,4 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - [300-02-08] `bran_stark`: ### 300-02-08 poludnie - SYMON U BRANA. Bez rzutu. ### Zastany NIE u Luwina (maester liczy korce dla Muru), lecz w malej izbie obok biblioteki - REJESTR SWIADKOW MA DWA DNI I JUZ MA WLASNA I…
 - [300-02-08] `czym_ma_byc_bran_stark_299_08`: ### POPRAWKA DO METODY REJESTRU SWIADKOW - ZNALEZIONA I PODANA PRZEZ BRANDONA STARKA, 300-02-08. Wchodzi do metody od razu; Theomore ma to wylozyc przy czternastu lordach. ### || ### WADA, K…
 - [300-02-08] `swiat`: 300-02-08 WIECZOR - KONIEC DNIA. Kolacja: RICKON NACIAL DRUGI KARB przy stole, przy Symonie; uprzedzony, ze jutrzejszy i nastepne beda UKOSNE W POPRZEK, i ze to znaczy 'nie ma go w zamku, al…
+- [300-02-11] `mur_mance_rayder_i_lud_za_murem_299_09`: ### SPOTKANIE Z POSELSTWEM NOCNEJ STRAZY - TRAKT NA POLNOC OD WINTERFELL, 300-02-11 przed poludniem. RZUT NA CALA SPRAWE (droga i spotkanie): 26. ### || DROGA: wyjazd 300-02-09 o brzasku, Kr…

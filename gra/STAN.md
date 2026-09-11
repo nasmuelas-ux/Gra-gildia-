@@ -17,10 +17,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-02-15 wieczor · zima (300)
-- **Miejsce:** WINTERFELL - stol Namiestnika. Karta Wychowankow Winterfell spisana w calosci; Kanon z wrzesnia lezy obok, otwarty.
+- **Data:** 300-02-16 ranek · zima (300)
+- **Miejsce:** WINTERFELL - komnata Namiestnika, ranek. Karta Wychowankow lezy spisana na stole.
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 83 · Sytosc 76 · Zmeczenie 74**
+- **Zdrowie 84 · Sytosc 62 · Zmeczenie 44**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied
@@ -109,7 +109,6 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - `wychowankowie_winterfell_300_02` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-02-15] `maester_luwin`: ### KARTA LUWINA zostawiona na stole, bez daty wplywu, z olowkowym dopiskiem na wierzchu: 'nie pilne. przeczytac'. Pisana w czasie szesciu dni nieobecnosci Symona. ### || ## I. O BIALYM KRUK…
 - [300-02-15] `rzadca_kamiennego_brodu`: ### ROZKAZ ODPISANY I WYSLANY 300-02-15 WIECZOREM - odpowiedz na pytanie 'kiedy mam przestac wydawac'. ### || ### NAJPIERW: DZIEWIETNASCIE WYDAN STOI. 'Nie odwracam ich, nie sciagam wczesnie…
 - [300-02-15] `spichlerz_polnocy_mistrz_zapasow_zimowych_300_02`: ### SPICHLERZ POLNOCY PRZEBUDOWANY + NOWY URZAD KORONNY: MISTRZ ZAPASOW ZIMOWYCH (Master of Winter Stores). Projekt spisany noca 300-02-15 po przeczytaniu osmiu listow. ### POWOD PRZEBUDOWY:…
 - [300-02-15] `mur_mance_rayder_i_lud_za_murem_299_09`: ### NARADA Z PIERWSZYM SZAFARZEM NOCNEJ STRAZY, WINTERFELL, POZNY WIECZOR 300-02-15. Bez rzutu (urzednik podajacy liczby na zaproszenie; sprawa ta sama co rzut 26 z traktu). ### || ### DWA Z…
@@ -121,3 +120,4 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - [300-02-15] `wychowankowie_winterfell_300_02`: ### KARTA WYCHOWANKOW - CZESC DRUGA: DZIEDZINY, SCIEZKI, KADRA. ### || ## V. DZIESIEC DZIEDZIN BEZ ZMIAN, TRZY ROZSZERZENIA (lista gracza wpieta w Kanon, nie obok niego) ## (4) ZIEMIA, RODY …
 - [300-02-15] `wychowankowie_winterfell_300_02`: ### KARTA WYCHOWANKOW - CZESC TRZECIA: UTRZYMANIE I DZIURY. ### || ## VIII. CZYM SIE PLACI ## Kanon kosztowal 18-30 SMOKOW ROCZNIE - na czworo dzieci i przy maesterze, ktory i tak tu siedzi.…
 - [300-02-15] `system_oswiaty_polnocy_struktura_299_06`: 300-02-15: WEZEL WINTERFELL ROZBUDOWANY - szkola prototypowa (powszechna, Bran + miasteczko, Luwin) dostaje NAD SOBA drugie pietro: WYCHOWANKOWIE WINTERFELL, szkola rodu Starkow dla dzieci c…
+- [300-02-16] `dziennik`: KONIEC DNIA 300-02-15 (zgoda gracza) i RANEK 300-02-16. SEN pierwszy pelny od szesciu dni na trakcie (rzut 66): zmeczenie 74 -> 44, zdrowie 83 -> 84, sytosc 76 -> 62. POGODA (rzut 86): mroz …

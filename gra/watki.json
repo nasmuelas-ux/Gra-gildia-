@@ -772,7 +772,7 @@
    "status": "otwarty",
    "priorytet": "wysoki",
    "_dziennik_opis": 7,
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "nabrzeze_tropy_wiosna",
@@ -4598,6 +4598,11 @@
    "id": "szkola_tallych_300_02",
    "status": "otwarty",
    "_dziennik_nota": 5
+  },
+  {
+   "id": "mchowe_jastrzebie_straz_lenna_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 2
   }
  ]
 }

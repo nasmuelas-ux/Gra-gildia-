@@ -2745,7 +2745,7 @@
    "id": "system_oswiaty_polnocy_struktura_299_06",
    "tytul": "System oswiaty Polnocy (5 wezlow od 299-06-12) + UZUPELNIENIE 09-16: lancuch (braz-miara, czardrzew-pamiec, stal-prawo), stroj, przysiega, Theomore glowa Straznicy Zimy, LUWIN MISTRZ NAUKI w Radzie",
    "status": "otwarty",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "priorytet": "wysoki"
   },
   {
@@ -4608,6 +4608,11 @@
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "wychowankowie_winterfell_300_02",
+   "status": "otwarty",
+   "_dziennik_nota": 3
   }
  ]
 }

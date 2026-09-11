@@ -5,7 +5,7 @@
   "dzien": 16,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "poludnie",
  "sezon": "zima (300)",
  "pogoda": "MROZ CZYSTY I TWARDY - wiatr polnocny opadl w nocy, niebo bez chmury, slonce na sniegu az bolace w oczy; koleiny jak kamien, trakt trzyma (rzut 86)",
  "dzien_tygodnia_nr": 4,
@@ -141,7 +141,7 @@
  "lokacja": "WINTERFELL - komnata Namiestnika, ranek. Karta Wychowankow lezy spisana na stole.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "ranek",
+ "pora_dnia": "poludnie",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 67,
+ "_dziennik_nota": 68,
  "rok": 300,
  "miesiac": 2,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

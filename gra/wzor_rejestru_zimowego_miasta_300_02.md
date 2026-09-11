@@ -93,3 +93,65 @@ Jedna linijka. Na następnych pięciu kartach **nie pojawi się ani razu** — c
 > ### *„Jeśli to drapieżnik, nie przyjdzie po Króla otoczonego gwardią. Przyjdzie po kogoś, kogo nikt nie liczy."*
 
 **③ ZIMOWE MIASTO NIE JEST ZAMKIEM.** Kto przyjdzie i nie zapuka do niczyich drzwi, nie trafi do rubryki trzeciej — bo u nikogo nie sypia. **Tej dziury ten wzór nie zamyka i trzeba to wiedzieć.**
+
+---
+---
+
+# REJESTR ZAMKU — założony 300-02-16
+### *Ten sam wzór. Osiem rubryk, cztery rubryki karty, trzy zasady pisania — bez zmiany ani jednej.*
+
+**Powód: pytanie Brandona Starka, postawione z drugiej strony niż część VI③ tego wzoru.**
+> *„Księga, która ma znaleźć kogoś, kogo nikt nie liczy, nie obejmuje budynku, w którym ich wszystkich będzie czterdzieścioro."*
+
+---
+
+## I. KTO PISZE, KTO CZYTA
+
+| | |
+|---|---|
+| **PISZE** | **kasztelan** — dom jest jego rzemiosłem |
+| **od 300-03-01 wnosi** | **Ochmistrz Wychowanków** — swój wieczorny przeliczony spis, po imieniu |
+| **CZYTA** | **BRANDON STARK** — ten sam czytelnik, co rejestr miasta |
+
+> ### **JEDEN CZYTELNIK NA OBIE KSIĘGI — I TO JEST CAŁY SENS.**
+> Kto ma się nie znaleźć w żadnej, mieszka **w szwie między nimi**: śpi w mieście, a bywa w zamku, albo odwrotnie. **Dwie księgi czytane przez dwóch ludzi mają szew. Czytane przez jednego — nie mają.**
+
+---
+
+## II. WPIS ZAŁOŻYCIELSKI — jednorazowy, i on jest najtrudniejszy
+
+Rejestr miasta zaczął się od **przybyszów**. Zamek nie może, bo w zamku **większość już jest.**
+
+> ### **WPISUJE SIĘ WSZYSTKICH, KTÓRZY DZIŚ ŚPIĄ POD TYM DACHEM — RAZ, Z DATĄ PRZYBYCIA.**
+> A tam, gdzie daty nikt nie zna — **wpisuje się słowami: NIE WIADOMO.**
+> *Puste miejsce znaczy „nie sprawdzono" i za rok nikt nie odróżni jednego od drugiego. „Nie wiadomo" jest faktem i wolno go zapisać.*
+
+**DWIE RZECZY, KTÓRE TEN WPIS POKAŻE PIERWSZEGO DNIA — obie znane z góry, żeby nie były niespodzianką:**
+
+**①** ### **ŻNIWA 299-08.**
+Zamek przyjął wtedy obcych **do roboty od godziny, w której weszli przez bramę — bez pytań i bez pogardy.** Kilkunastu pierwszego dnia, czterdziestu kilku trzeciego. **Taka była polityka i była słuszna.**
+> **Część z nich została. Przy części nikt nie zapisał ani imienia ojca, ani skąd przyszli, bo nikt nie miał wtedy pytać.**
+> *To nie jest zarzut wobec nikogo. To jest rubryka **NIE WIADOMO**, powtórzona tyle razy, ile trzeba — i dopiero drugi rok pokaże, którzy z nich stąd nie wyjdą, a którzy nigdy nie byli stąd.*
+
+**②** ### **THEON GREYJOY.**
+*Od kiedy:* dziesięć lat temu. *Do kiedy:* ### **BEZ TERMINU.**
+> Stanie w rubryce **D** pierwszej karty i będzie tam stał co tydzień, dopóki ktoś nie wpisze daty.
+> *Księga nie osądza i nie wyciąga wniosków. Po prostu nie umie nie pokazać człowieka, który jest tu dziesięć lat bez terminu — a wszyscy w tym domu umieli tego nie widzieć.*
+
+---
+
+## III. ZASADA, BEZ KTÓREJ TA KSIĘGA JEST LISTĄ PODEJRZANYCH
+
+> ### **WSZYSCY POD TYM DACHEM ALBO NIKT.**
+> Król · Królowa · Sansa · Arya · Bran · Rickon · Theon · gwardia · czeladź · goście · wychowankowie.
+>
+> **Bo jeśli rodzina Króla jest poza księgą, to bycie w księdze zaczyna coś znaczyć — a w tej księdze nic nie ma znaczyć.**
+> *Ta sama zasada, co próba w Kanonie: dziecko Króla zdaje tę samą próbę, co córka młynarza. **Próba z innym progiem dla dziecka króla nie jest próbą.** Rejestr z wyjątkiem dla rodziny nie jest rejestrem.*
+
+---
+
+## IV. CO SIĘ **NIE** ZMIENIA
+
+Osiem rubryk bez zmian *(„u kogo sypia" czyta się w zamku jako **w której izbie i z kim**)* · cztery rubryki karty bez zmian · **rubryka C nadal jest całym rejestrem** · trzy zasady pisania bez zmian: **nie zapisuje się słów ani wniosków · zapisu się nie wykreśla · kto pisze, ten nie czyta.**
+
+> **I to samo, co w mieście: karta idzie co siedem dni, także gdy stoi na niej „nic".**

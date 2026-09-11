@@ -20,7 +20,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-02-08 ranek · zima (300)
 - **Miejsce:** WINTERFELL. O switu wyjechal eskortowany odpis Czesci Czwartej na Fose (Dagon i Harl). Aldwin i Harmon zaczynaja przepis…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 83 · Sytosc 44 · Zmeczenie 8**
+- **Zdrowie 83 · Sytosc 78 · Zmeczenie 8**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied

@@ -4072,7 +4072,7 @@
   {
    "id": "clo_bialego_portu_czyja_linia_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 10
   },
   {
    "id": "zsumowanie_myta_i_cla_na_fosie_299_09",
@@ -4613,6 +4613,11 @@
    "id": "wychowankowie_winterfell_300_02",
    "status": "otwarty",
    "_dziennik_nota": 6
+  },
+  {
+   "id": "DANINA_LENNA_299_09_04",
+   "status": "otwarty",
+   "_dziennik_nota": 2
   }
  ]
 }

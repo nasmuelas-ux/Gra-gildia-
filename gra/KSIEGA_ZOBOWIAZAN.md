@@ -34,6 +34,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Cerwyn | własna danina 21 smoków — płaci pierwszy | przed Radą | 300-02-20 |
 | Cerwyn | przyjazd na Fosę, trzy dni pisania | 300-03-02…05 | 300-02-20 |
 | Alys | spis mieszkańców (3 wsie z 5) | w toku | 300-02-25 |
+| **Hendry + Warryn** | **po TRZY nazwiska na dowódcę Mchowych Jastrzębi**, każdy osobno i nie znając wyboru drugiego | ### rozkaz z 300-02-08 — 17 DNI, listy czekają | 300-02-08 |
 | Garrick | gotowość miasteczka pod prawo składu (waga, szopy, księga) | 10 dni | 300-02-25 |
 | Garth | karta celna w użyciu przy komorze | od nadania | 300-02-25 |
 | **Symon → WILLI** | **ROZKAZ WEJŚCIA NA PIŚMIE** — postawiła warunek 299-10-25 „nie posyłam tam nikogo więcej, dopóki nie każecie na piśmie" | ### CZEKA 4 MIESIĄCE — bez tej kartki jej ludzie stoją na krawędzi | 299-10-25 |

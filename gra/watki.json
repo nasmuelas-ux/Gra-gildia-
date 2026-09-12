@@ -3359,7 +3359,7 @@
    "id": "ludzie_wlasni_namiestnika_299_05",
    "tytul": "Ludzie wlasni Namiestnika - maksimum trzech, zawsze przy Symonie",
    "status": "Kapitan_przybocznych=Sten; Sekretarz+Pisarz namiestnika=REKRUT",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "rekrutacja_urzednikow_fosy_299_05",
@@ -5411,7 +5411,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 8,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -5648,7 +5648,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 13,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },

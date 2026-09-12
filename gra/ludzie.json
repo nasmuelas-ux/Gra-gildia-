@@ -281,14 +281,13 @@
   "osobno": "Druzyna Fosy (Hendry, ~50 -> 100) i Mchowe Jastrzebie to INNE formacje. Przyboczna jedzie z Symonem; druzyna zostaje przy bramie.",
   "pisarze_prywatni_a_willa": "OD 300-02-25: Harmon i Aldwin WYCHODZA, ilekroc wchodzi Willa. Stala zasada, nie jednorazowa. CENA: Symon spisuje ustalenia z Willa wlasna reka tego samego wieczoru, albo one nie istnieja - traci pamiec pisarza dokladnie na tych sprawach, na ktorych najmniej moze sobie pozwolic na zapomnienie."
  },
- "ROZDZIAL_SAKIEWKI_OD_WEZLA": {
-  "_doktryna": "KTO ZAPISUJE, NIE WYPLACA - KTO WYPLACA, NIE WIE KOMU.",
-  "_od": "300-02-25",
-  "zapisuje": "GARRICK - suma na papier w ksiedze kancelarii (przykrywka zostaje). Nie wie, do kogo idzie nadwyzka.",
-  "wyplaca": "HAL - Dom Handlowy, Bialy Port. Zaliczki kupieckie na ZNAK (litera+liczba), bez nazwisk. Nie wie, czyj znak.",
-  "wie_komu": "WILLA - i tylko ona.",
-  "_slabosc": "Kazde DWIE z trzech rak zlozone razem odtwarzaja calosc. Willa trzyma wszystkie trzy - zasada jest zlamana, tylko przeniesiona na jej stol. Dlatego przeglad 300-05-25.",
-  "_zakaz": "GARRICK I HAL NIGDY NIE PISZA DO SIEBIE O ZALICZKACH. Taki list = ktos trzeci ich popchnal. Nie tlumaczyc, zamykac.",
-  "_do_zrobienia": "Symon rozmawia z Halem W OCZY, nie listem. Okno: Bialy Port, rozwiazanie Miry 300-03-03."
+ "PION_WYWIADU_GDZIE_SIEDZI": {
+  "_od": "300-02-25 (poprawka gracza: 'Willa jest w strukturze domu handlowego, nie w kancelarii Garricka, i to dom do tej pory placil')",
+  "_zasada": "KTO WYPLACA, NIE WIE KOMU.",
+  "WILLA": "PION DOMU HANDLOWEGO TALLY, nie kancelaria. Placi DOM, od poczatku. Inspektor w kazdej filii, pod nim kupcy wedrowni, pod nimi czujki wpisane jako tragarze i wagowi.",
+  "GARRICK": "WEZEL, NIGDY SAKIEWKA. Sklada meldunki - z liczb Willi robi zdanie. Pieniadza siatki nigdy nie mial.",
+  "HAL": "wyplaca, jak wyplacal. ZMIANA od 300-02-25: zaliczki NA ZNAK (litera+liczba), nie na nazwisko.",
+  "_ukrycie_kosztu": "dniowki, strawa, opal, konie pocztowe, wosk na Fosie - to, czego przybywa i czego nikt nie liczy. NIE papier kancelarii (odrzucone 300-02-25: 'papier jest zly wlasnie dlatego, ze go brakuje'). Linia ma byc PRAWDZIWA.",
+  "_granica_urzedu": "KANCELARIA NAMIESTNIKA NIE KORESPONDUJE Z KANTORAMI DOMU W SPRAWACH RACHUNKOWYCH - bo to jest urzad, a tamto jest kupiectwo. Regula ustrojowa, NIE zakaz wskazujacy na Hala. ZAKAZ JEST INFORMACJA."
  }
 }

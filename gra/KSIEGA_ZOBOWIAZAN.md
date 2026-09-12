@@ -61,7 +61,9 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon | **ustanowić kanał do Blackfisha** — adres, rytm, sześć rubryk; drogą przez Catelyn albo Lucana, raz wybraną i stałą | pilne | 300-02-25 |
 | Osric | dwudziestu drwali na Mur | IV/300 | 300-02-16 |
 | kasztelan → Bran Stark | rejestr zamku, karta co 7 dni | co tydzień | 300-02-18 |
-| **Symon → Hal** | **rozmowa o zaliczkach kupieckich — W OCZY, NIE LISTEM.** Hal wypłaca na znak (litera+liczba), nie zna nazwisk. Okno: Biały Port przy rozwiązaniu Miry | **300-03-03** | 300-02-25 |
+| **Symon → Hal** | **list dziś, dwie linijki i ani słowa sprawy:** przyjazd w połowie miesiąca + **zaliczki na znak, nie na nazwisko** | wysłany 300-02-25 | 300-02-25 |
+| **Symon → Hal** | **rozmowa w oczy, nie listem** — co naprawdę jest pod zaliczkami. Biały Port | **~300-03-13…15** *(Symon wyjeżdża 07., droga 6–8 dni — **na rozwiązaniu Miry go nie będzie**)* | 300-02-25 |
+| **Symon → Garrick** | **w twarz, jutro:** *kancelaria namiestnika nie koresponduje z kantorami Domu w sprawach rachunkowych — bo to urząd, a tamto kupiectwo.* Reguła o granicy urzędu, **nie zakaz** (zakaz jest informacją) | **300-02-26** | 300-02-25 |
 | Garrick | włożyć arkusze z rozmowy z Willą do **księgi zamkniętej** — przy Symonie, żeby była data i świadek | przed wyjazdem **300-03-07** | 300-02-25 |
 | Symon | **spisywać ustalenia z Willą własną ręką** tego samego wieczoru — pisarzy przy niej nie ma | stale, od dziś | 300-02-25 |
 | Willa → Symon | **kwartalny przegląd własnych liczb** — bez pisarzy, u Symona gdziekolwiek będzie; co mówiłam / co z tego wyszło / gdzie się pomyliłam | **300-05-25** | 300-02-25 |
@@ -108,7 +110,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Stan Dorzecza — południowa ściana królestwa** | **Blackfish** *(kanał nieustanowiony)* | ### nic od 299-07-06 | 299-07-06 |
 | **JON SNOW — po drugiej stronie Muru** *(filar własny)* | Osric/Straż · maester Aemon | — | 299-09 — Aemon: „nie napiszę, że nie żyje" |
 | **Rozdroże (Crossroads Inn)** — kto przejeżdża, dokąd, czyim znakiem, czego się boi | placówka Domu Tally | na bieżąco | 299-07 — przez nią uchyliła się Dolina |
-| ### ALARM WEWNĘTRZNY: **czy Garrick pisze do Hala o zaliczkach (albo Hal do Garricka o papierze)** | własna poczta domu | — | ### zakaz twardy od 300-02-25 — taki list znaczy, że **ktoś trzeci już ich popchnął**; nie tłumaczyć, zamykać |
+| ### ALARM WEWNĘTRZNY: **czy ktoś przekracza granicę urząd↔kupiectwo w rachunkach** *(kancelaria pyta kantor o zaliczki albo odwrotnie)* | własna poczta domu | — | ### reguła ustrojowa od 300-02-25 — **nikomu nie zakazano, więc nikt nie wie, że jest czego szukać**; przekroczenie znaczy, że ktoś trzeci popchnął |
 
 ---
 

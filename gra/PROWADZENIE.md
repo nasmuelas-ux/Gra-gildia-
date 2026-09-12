@@ -278,6 +278,8 @@ db.dopisz('swiat','swiat','299-09-12','tresc...', pole='inbound_299_09_12')
 
 ## I. PRAWDA I KSIĘGA
 **1. NIE TWIERDZĘ, NIE SPRAWDZIWSZY.** „Nie wiem, sprawdzę" nic nie kosztuje. VOID kosztuje.
+**1a. WPIS BEZ ŹRÓDŁA NIE JEST ZAPISEM.** Zakładając nowy wiersz w Księdze albo nowy wątek, podaję **datę i miejsce w dzienniku, z którego to wziąłem.** Jeśli nie umiem — wiersz dostaje znak **`(?) BEZ ŹRÓDŁA`** i **nie wolno na nim niczego budować**, dopóki gracz go nie potwierdzi.
+> *Dopisane 300-02-25 po własnej porażce: rano wpisałem do Księgi wiersz „Wylis Manderly — jeniec, bez ruchu od jesieni", którego nie wziąłem z zapisu, tylko z niczego. Po południu sprawdziłem go, znalazłem **własny wpis**, uznałem za potwierdzony i zbudowałem na nim trzy skutki. Wieczorem gracz obalił całość jednym zdaniem. **Zasada 1 chroni przed zapomnieniem tego, co w księdze jest — nie chroni przed uwierzeniem w to, co sam do niej włożyłem.** Rejestr ma przechowywać świat, nie moje domysły o świecie.*
 **2. FAKTY O LUDZIACH, WARTOŚCI TYLKO NA CIELE I W SAKIEWCE.** Sytość/zmęczenie/zdrowie/kasa — tak. Nastawienie liczbą — nie. *Wartość zwalnia z myślenia, fakt do niego zmusza.*
 **3. BŁĄD PROWADZĄCEGO NIE PRZECHODZI NA GRACZA.** VOID znaczy VOID.
 **4. ZAPISU SIĘ NIE WYKREŚLA — DOPISUJE SIĘ DO NIEGO**, z datą i powodem. Także moich poprawek.

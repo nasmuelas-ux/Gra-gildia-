@@ -635,3 +635,75 @@ Sześć członów zaprojektowano osobno i **żaden nie zna przepustowości sąsi
 2. **Wiszą na słupie przy komorze i przy placu**, obok karty celnej — *cena ogłoszona, nie zadeklarowana.*
 3. **Kto projektuje poniżej normy, pisze obok DLACZEGO i podpisuje się.** Nie zakaz — zapis.
 4. **Norma zmienia się tylko na piśmie i tylko przed pierwszym kamieniem.** Po pierwszym kamieniu nie zmienia się jej wcale.
+
+---
+---
+
+# UJŚCIE — DOK, NIE PORT
+### rozstrzygnięcie gracza 300-02-25 · wschodni koniec przewłoki · **umowa z Białym Portem NA PIŚMIE**
+
+> **Nie budujemy własnego portu wschodniego. Budujemy DOK — i nazywa się UJŚCIE.**
+
+**I to jest rozstrzygnięcie, nie kompromis.** Port trzyma, dzieli i sprzedaje. **Dok tylko podaje.** Cała trudność z zasadą zamkniętą brała się stąd, że wschodni koniec łańcucha musiał dotknąć słonej wody — a wszystko, co dotyka słonej wody i ma skład, jest konkurentem Białego Portu. **Dok nie jest.**
+
+---
+
+## CZYM UJŚCIE JEST — I CZYM NIE WOLNO MU SIĘ STAĆ
+
+| **JEST** | ### NIE MA I NIE BĘDZIE MIAŁO |
+|---|---|
+| pomost i żurawie | ### składu ani magazynu handlowego |
+| plac przeładunkowy pod dachem | ### targu |
+| jedna waga | ### prawa składu |
+| szopa na dobę postoju | ### komory celnej *(cło bierze się w Cailin, raz)* |
+| obsługa i jej domy | ### mieszczan, rady, przywileju miejskiego |
+
+> ### ZDANIE, KTÓRE MA STAĆ W PIERWSZYM ARTYKULE:
+> **W UJŚCIU TOWAR NIE LEŻY. TOWAR PRZECHODZI.**
+> Kto raz pozwoli, żeby w Ujściu coś przeleżało zimę, zbudował skład. Kto zbudował skład, zbudował targ. Kto zbudował targ, **zbudował drugi Biały Port i złamał umowę, nie podpisując ani jednej nowej kartki.**
+
+**Twarda miara zamiast dobrych chęci: TRZY DOBY.** Towar, który leży w Ujściu dłużej, wraca na własny koszt do Cailin. Nie grzywna — **zawrót**. Grzywnę się płaci i zostaje; zawrót boli raz i uczy.
+
+---
+
+## UMOWA Z BIAŁYM PORTEM — SIEDEM ARTYKUŁÓW
+
+**I. CZYM JEST UJŚCIE.** Dok przeładunkowy domu Tally na wschodnim krańcu przewłoki. Wyliczone wprost, czego mieć nie może *(tabela wyżej)*. **Wyliczenie jest treścią umowy, nie załącznikiem.**
+
+**II. TOWAR NIE LEŻY.** Trzy doby. Potem zawrót do Cailin na koszt właściciela.
+
+**III. WSCHODNI PRZEWÓZ NALEŻY DO BIAŁEGO PORTU.** Wszystko, co wychodzi z Ujścia na wodę, idzie **burtami Manderlych** — po cenie ogłoszonej z góry na rok, jednakowej dla wszystkich, **wywieszonej w Cailin i w Ujściu**. *Cena ogłoszona, nie deklarowana.*
+
+**IV. JEDNA WAGA, DWIE KSIĘGI, DWÓCH LUDZI.** W Ujściu waży się raz — a zapisują **dwaj pisarze: Tally'ego i Manderly'ego, każdy we własnej księdze**. Księgi zestawia się co miesiąc.
+> *Dwie księgi czytane przez dwóch ludzi mają szew. Czytane przez jednego — nie mają.* Ta sama doktryna, która trzyma rejestr Winterfell, trzyma tu uczciwość między dwoma domami.
+
+**V. CŁO BIERZE SIĘ RAZ, W CAILIN.** W Ujściu nie ma komory i nie będzie. **Towar opłacony w Cailin przechodzi Ujście bez zatrzymania** — inaczej przewłoka traci to, po co istnieje: że jest szybsza od opłynięcia Dorne.
+
+**VI. UMOWA WIĄŻE NASTĘPCÓW.** Obu domów, bez terminu wygaśnięcia, z jedną drogą zmiany: **pismo podpisane przez obie głowy**. To jest wprost odpowiedź na jego własne zdanie: *„nie dlatego, że wam nie ufam — dlatego, że wam ufam, a waszemu prawnukowi nie mam skąd."*
+
+**VII. CO, GDY BIAŁY PORT NIE MOŻE WYWIEŹĆ.** ### ← **TO JEST ARTYKUŁ, O KTÓRY BĘDZIE SPÓR**
+
+---
+
+## ⚠️ ARTYKUŁ SIÓDMY — JEDYNE MIEJSCE, GDZIE INTERESY NAPRAWDĘ STOJĄ NAPRZECIW
+
+Manderly chce wyłączności bez wyjątków. Tally nie może mieć łańcucha, który staje, kiedy cudze burty są zajęte — **bo towar w tranzycie, który raz utknie, drugi raz pójdzie dookoła Dorne i już nie wróci.** Wystarczy jedna zima.
+
+**Zapis, który proponuję i który da się obronić przy stole:**
+
+> Jeśli Biały Port **nie podstawi burt w ciągu dwudziestu dni** od zgłoszenia w Ujściu — z jakiejkolwiek przyczyny, **nie wyłączając wojny i lodu** — wolno wynająć obce. Za ten ładunek Biały Port dostaje **swoją stawkę tak, jakby wiózł**.
+>
+> ### PŁACI SIĘ MU ZA PRAWO, KTÓREGO NIE WYKONAŁ — I DLATEGO NIE MA POWODU GO BLOKOWAĆ.
+
+**Dlaczego to jest uczciwe w obie strony:** Manderly nie traci ani miedziaka, kiedy nie może wieźć — więc nie musi udawać, że może. Tally nie traci szlaku — więc nie musi kłamać, że poczeka. **Obaj mówią prawdę, bo obu się to opłaca.** To jest ta sama logika, co przy eskadrze: *co ma właściciela, wraca do właściciela.*
+
+---
+
+## CO TO ZMIENIA W RESZCIE PROJEKTU
+
+1. **Port wschodni znika z listy budów.** Zostaje **dok**: pomost, żurawie, plac pod dachem, jedna waga, szopa, domy obsługi. **Rząd wielkości mniej roboty i mniej kamienia** — a kamień na wschodzie też trzeba by skądś wziąć.
+2. **Zasada zamknięta z 300-01-26 zostaje nienaruszona** i po raz pierwszy jest naprawdę szczelna: miasto nie ma wschodniej wody, a wschodnia woda, której dotykamy, **nie jest portem i nie może się nim stać bez złamania podpisanego pisma**.
+3. **Wyman dostaje więcej, niż prosił.** Prosił, żeby Cailin nie stał się drugim Białym Portem. Dostaje **cały wschodni przewóz całej przewłoki** — czyli tym więcej, im lepiej nam pójdzie. **Od dziś nasz zysk jest jego zyskiem, a nie jego zagrożeniem.**
+4. **Umowę trzeba wysłać, zanim ktokolwiek wbije pierwszy pal w Ujściu.** *Kto buduje przed podpisem, negocjuje z kamieniem w ręku i płaci za to cenę.*
+
+> **I to jest właściwa odpowiedź na jego zdanie o prawnuku:** rzecz, która ma trzymać przez pokolenia, stoi na **dwóch nogach naraz** — na geografii *(miasto bez wschodniej wody, w planie)* i na piśmie *(Ujście jako dok, w umowie)*. Jedna noga to za mało; on to wiedział, mówiąc to pierwszy raz.

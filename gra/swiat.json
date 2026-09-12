@@ -5,9 +5,9 @@
   "dzien": 25,
   "era": "AC"
  },
- "pora": "noc",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 20 (300-02-27) - deszcz nie odpuscil, nisko i szaro, mzy od switu. Woda przy brodzie wysoka, przeprawy nie ma. Droga powrotna gorsza niz w druga strone: koleiny glebsze, konie stepa tam, gdzie dzien wczesniej szly klusem.",
+ "pogoda": "RZUT 11 (300-02-28) - MROZ WROCIL W NOCY, GWALTOWNIE. Po dwoch dobach odwilzy i deszczu przyszlo scinanie: wszystko, co bylo blotem, jest teraz lodem w koleinach, twardym i garbatym. SKUTKI: (1) TRAKTY PRZEJEZDNE PIERWSZY RAZ OD TRZECH DNI - ale niebezpieczne; kon lamie noge na takiej koleinie; sanie ida lepiej niz kola; (2) GROBLA DALEJ STOI - w zmarznieta ziemie kafar nie bije tak samo jak w rozmokla; (3) CZTERYSTA PRZYBYSZOW W ZLYCH DACHACH - pierwsza taka noc; lecznica Niny to odczuje; (4) SZKLARNIE ZARABIAJA NA SIEBIE DOKLADNIE DZIS - i zra torf dokladnie dzis.",
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "brak",
- "dzien": 27,
+ "dzien": 28,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -141,7 +141,7 @@
  "lokacja": "FOSA CAILIN. Cerwyn 2.-5. III. Dzien Bilansu 300-03-01. Wyjazd 300-03-07.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "noc",
+ "pora_dnia": "ranek",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {
@@ -242,12 +242,13 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 88,
+ "_dziennik_nota": 89,
  "rok": 300,
  "miesiac": 2,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
  "_dziennik_poranek_300_02_08": 1,
  "_dziennik_wieczor_300_02_08": 1,
  "miejsce": "FOSA CAILIN - wlasne lenno. Powrot z brodu dlugo po zmroku 300-02-27.",
- "noc_300_02_25_koniec_dnia": "300-02-25 - DZIEN ZAMKNIETY ZA ZGODA GRACZA ('ide spac'). Fosa Cailin. Bilans dnia: cala scena z Willa (piony bez imion, znak obecnosci, sygnal z Winterfell jako zwyczaj, pisarze wychodza, przeglad 300-05-25) - z trzema VOIDami prowadzacego po wskazaniach gracza (Willa jest w Domu, nie w kancelarii; opis stanu nie jest zdarzeniem; Willa = kanclerz-archiwista, jeden z czterech filarow, a jej rewizorem jest Tam od maja 299). Potem Hendry i rzadca WARRYN (kolejny VOID - wymyslono 'Harberta Siwego' na obsadzone krzeslo): Kessel Brodaty dowodca Mchowych Jastrzebi, ziarno scentralizowane planem A+C+D, poreka siewu jako DLUG Z DATA, lenno placi za robote. Prowiantmistrz ORLAND KORZEC nazwany po dziewieciu miesiacach. Meldunki Niny i Wystana po szesciu i osmiu miesiacach ciszy - ktora byla brakiem rubryki, nie brakiem roboty. Odpis dla Cytadeli bez czesci Reedow. I na koniec PRZYWILEJ BAGIENNY: mlyn (kolo w sluzie), dziewiec rzemiosl, zwolnienie gruntowe, list do Howlanda. Symon polozyl sie bardzo pozno."
+ "noc_300_02_25_koniec_dnia": "300-02-25 - DZIEN ZAMKNIETY ZA ZGODA GRACZA ('ide spac'). Fosa Cailin. Bilans dnia: cala scena z Willa (piony bez imion, znak obecnosci, sygnal z Winterfell jako zwyczaj, pisarze wychodza, przeglad 300-05-25) - z trzema VOIDami prowadzacego po wskazaniach gracza (Willa jest w Domu, nie w kancelarii; opis stanu nie jest zdarzeniem; Willa = kanclerz-archiwista, jeden z czterech filarow, a jej rewizorem jest Tam od maja 299). Potem Hendry i rzadca WARRYN (kolejny VOID - wymyslono 'Harberta Siwego' na obsadzone krzeslo): Kessel Brodaty dowodca Mchowych Jastrzebi, ziarno scentralizowane planem A+C+D, poreka siewu jako DLUG Z DATA, lenno placi za robote. Prowiantmistrz ORLAND KORZEC nazwany po dziewieciu miesiacach. Meldunki Niny i Wystana po szesciu i osmiu miesiacach ciszy - ktora byla brakiem rubryki, nie brakiem roboty. Odpis dla Cytadeli bez czesci Reedow. I na koniec PRZYWILEJ BAGIENNY: mlyn (kolo w sluzie), dziewiec rzemiosl, zwolnienie gruntowe, list do Howlanda. Symon polozyl sie bardzo pozno.",
+ "noc_300_02_27_koniec_dnia": "300-02-27 - DZIEN ZAMKNIETY ZA ZGODA GRACZA ('ide spac'). Fosa Cailin, po powrocie z brodu. Bilans dnia: powrot z brodu z trzema zawiniatkami (okucie osi, dwie deski z ziarnem, obrecz); meldunki za dwa dni nieobecnosci (slup stoi, ale wszyscy do trzciny i nikt do kuzni; Rowan podpisuje kwity z pamieci); VOID calej linii o 'nieobecnosci' lady Catelyn - przejechala przez Fose jesienia 299 i siedzi w Riverrun; nocna rozmowa z burmistrzem HERWINEM SZALA (termin po trzech miesiacach, trzy propozycje przyjete); PRZEROBIONA CALA LISTA SPOZNIONYCH - dziewiec pozycji; siedem listow wyslanych; cztery upewnienia sprawdzone; Punkt 10 projektu Cailin z szesnastoma czesciami rozpisanymi na wlascicieli. Symon polozyl sie przy zmeczeniu 91 i sytosci 14, po dwoch dobach w deszczu."
 }

@@ -260,3 +260,99 @@ W projekcie stoją obok siebie dwa zapisy o **prawie składu** i nie umiem ich p
 2. To **ta sama rzecz** i jeden z zapisów trzeba unieważnić.
 
 **Do czasu rozstrzygnięcia zadanie 2.1 zostaje w mocy** — bo burmistrz czeka realnie i termin jest spóźniony niezależnie od tego, którą treść dostanie.
+
+---
+---
+
+# CZĘŚĆ TRZECIA: PORZĄDEK BUDOWY
+### *Część druga mówi, po co się buduje i w jakiej kolejności to ma sens polityczny.*
+### *Ta mówi, czego fizycznie nie da się zrobić przed czym — i to jest twardsze niż plany.*
+
+---
+
+## SZEŚĆ PRAW, KTÓRE RZĄDZĄ KAŻDYM ETAPEM
+
+### PRAWO I. CO IDZIE POD ZIEMIĄ, IDZIE PRZED TYM, CO IDZIE NA ZIEMI.
+Ruszt z pali · kanaliki odwadniające · Kanał Wielki · **rury pary** · kanały ciepła w posadzkach · piece podziemne pod szklarniami.
+**Wszystko to leży pod miastem. Miasto kładzie się na tym.** Kto postawi kamienicę przed rurą, będzie ją rozbierał — a w mieście zwartym, ściana do ściany, rozbiera się trzy, żeby dojść do jednej.
+
+### PRAWO II. ROK BUDOWLANY MA DWIE PORY I BUDUJĄ W NICH CO INNEGO.
+Bran, z ziemi, 300-02-25: *„Mróz był dobry: bagno zamarza, więc stoi się na czym stać. **Przez trzynaście dni mrozu zrobiono więcej niż przez cały wrzesień.** Odwilż zatrzymała wszystko."*
+
+| **MRÓZ** *(bagno niesie)* | **ODWILŻ I LATO** *(bagno nie niesie)* |
+|---|---|
+| wbijanie pali · nasypy · faszyna i żwir · wykopy kanałów · ciągnięcie kamienia po lodzie | ciesielka · mur ponad wodą · dachy · wnętrza · szkło · kucie okuć · wyrąb i obróbka pali na następną zimę |
+
+**To nie jest przerwa w budowie — to zmiana warsztatu.** Ekipa, która zimą wbija pale, latem ma ciosać i kuć na zapas. Inaczej płaci się ludziom za czekanie dwa razy w roku.
+
+### PRAWO III. PLAC BUDOWY JEST OSADĄ I TRZEBA GO ZBUDOWAĆ PIERWSZY.
+Nikt nie wbija pali w bagno zimą, jeśli nie ma gdzie spać, czym się ogrzać i co jeść. **Zanim ruszy jakikolwiek etap: baraki, kuchnia, magazyn, opał, lecznica, kuźnia polowa.**
+I dlatego **lecznica nie jest dobroczynnością — jest zapleczem placu.** Rzeka nazywa się **Fever**. Ludzie pracujący po pas w mokradle chorują, a chory palownik nie wbija pali.
+
+### PRAWO IV. WIELKA ŚLUZA JEST ORGANEM, KTÓRY TRZYMA PALE PRZY ŻYCIU.
+Cech braavijski: *„Pal trwa dlatego, że **nigdy nie wychodzi z wody**. Zgnije wam pierwszy, który raz w roku wyschnie na pół dnia."*
+Wielka Śluza w Wieży Bramnej nie jest ozdobą fortecy ani urządzeniem portowym. **Jest tym, co utrzymuje stały poziom wody nad całym rusztem miasta.** Miasto bez działającej śluzy zjada własne fundamenty — nie w bitwie, tylko w suche lato.
+> **Stąd: urząd maestera Weylina i Wielka Śluza to jedna sprawa, nie dwie.** Ten, kto mierzy poziom, i ten, kto go nastawia, muszą siedzieć w tym samym miejscu.
+
+### PRAWO V. TORF IDZIE PIERWSZY, BO TORF JEST OPAŁEM SAMEJ BUDOWY.
+Torfiarnie nie są gałęzią gospodarki na później. **Są paliwem placu**: kuźnia, wypalanie wapna, ogrzewanie baraków, suszenie drewna, a potem piece szklarni i całe ciepło miasta.
+**Zanim cokolwiek stanie — musi być czym palić.**
+
+### PRAWO VI. KAMIEŃ PRZYCHODZI WODĄ I JEST OSOBNYM PRZEDSIĘBIORSTWEM.
+*„Kamień sprowadzany tratwami z kamieniołomów na północ od Przesmyku."*
+To nie jest dostawa — to jest **kamieniołom, kamieniarze, tratwy, ludzie od tratew, droga wodna, nabrzeże rozładunkowe i skład kamienia**. Cztery kafary to nic wobec tego, że **nie ma kto ciąć i wozić bazaltu**, a bazalt jest w tym mieście wszystkim, co stoi w wodzie.
+
+---
+
+## PORZĄDEK RZEMIEŚLNICZY — CZTERNAŚCIE KROKÓW
+
+### ZAPLECZE *(nim cokolwiek stanie)*
+**1. PLAC** — baraki, kuchnia, magazyn, lecznica, kuźnia polowa, wartownia. Osada dla budujących.
+**2. TORFIARNIE** — opał placu i potem miasta.
+**3. KAMIENIOŁOM I TRATWY** — bazalt z północy Przesmyku: ludzie, spław, nabrzeże rozładunkowe, skład.
+**4. OLCHA** — wyrąb, obróbka, ostrzenie i okuwanie pali; **zapas robiony latem na zimowe wbijanie**.
+**5. KUŹNIA STAŁA** — kafary, okucia, narzędzia, żelazo do śluz i żurawi. *Tu leży rozwiązanie czterech kafarów.*
+
+### WODA I GRUNT *(mróz)*
+**6. ODWODNIENIE** — kanaliki poprzeczne odprowadzają wodę z gruntu między przyszłymi kwartałami. **Pierwsza robota ziemna, nie ostatnia.**
+**7. KANAŁ WIELKI** — wykop osi miasta. **Kanału nie da się przekopać przez miasto, które już stoi.**
+**8. RUSZT Z PALI** — pod wszystko naraz: groblę, nabrzeża, budynki publiczne, kwartały. Miara: *pal siadł, gdy dziesięć uderzeń wbija go płycej niż na palec.* **Opór, nie głębokość.**
+**9. WIELKA ŚLUZA** — sterowanie poziomem. Od tej chwili ruszt jest chroniony, a nie tylko wbity.
+
+### PODZIEMIA MIASTA *(zanim cokolwiek na wierzchu)*
+**10. RURY PARY I KANAŁY CIEPŁA** — z Dzielnicy Zielonej pod kwartały, kamienice, wieże, łaźnię.
+**11. PIECE PODZIEMNE I SZKLARNIE** — kotłownia miasta. **Dopiero teraz miasto ma ciepło, a woda w kanałach przestaje zamarzać.**
+
+### NA WIERZCHU *(odwilż i lato)*
+**12. NABRZEŻA, ŚCIANY OPOROWE, MOSTY** — pale licowane deskami, kamień przy basenach; trzy mosty kamienne, jeden zwodzony.
+**13. BUDYNKI PUBLICZNE I PORT** — Waga, Skład Główny, żurawie, ogrzewane stajnie, Ratusz, Archiwum, Łaźnia.
+**14. KWARTAŁY MIESZKALNE** — kamienice kanałowe, ściana do ściany, dachy darniowe. **Ostatnie, bo najłatwiej je dostawiać, a najtrudniej rozbierać.**
+
+---
+
+## CZEGO NIE MA W ŻADNYM PLANIE, A BEZ TEGO NIE RUSZY
+
+| | rzecz | dlaczego to blokuje |
+|---|---|---|
+| **A** | **KAMIENIOŁOM BAZALTU + SPŁAW** | bazalt jest wszystkim, co stoi w wodzie. Nie ma kamieniołomu — nie ma muru, nabrzeży, śluzy ani jednego budynku publicznego |
+| **B** | **KUŹNIA STAŁA** | cztery kafary to objaw. Choroba: nie ma gdzie ich zrobić |
+| **C** | **SZKŁO Z MYR** | zamawia się przez morze, z wyprzedzeniem lat. **Bez szkła szklarnie są bazaltowymi ramami**, a bez szklarni miasto zamarza |
+| **D** | **WAPNO I ZAPRAWA** | mur kurtynowy i sklepione przyziemia; wypala się na miejscu, torfem |
+| **E** | **OBÓZ: JEDZENIE I OPAŁ NA ZIMĘ DLA BUDUJĄCYCH** | zimą pracuje się najwięcej i wtedy najtrudniej o jedzenie. **To wiąże budowę ze spichlerzem** |
+| **F** | **MISTRZ BUDOWY — JEDEN CZŁOWIEK NAD CAŁOŚCIĄ** | dziś jest Bran nad groblą i Orbelo nad kafarem. **Nad kamieniołomem, kuźnią, torfem i szkłem nie ma nikogo** |
+
+> ### I TO JEST PRAWDZIWA ODPOWIEDŹ NA „STOIMY, BO MAMY CZTERY KAFARY".
+> Kafary są ostatnim ogniwem łańcucha, którego pierwsze ogniwa nie istnieją.
+> Żeby stanęło osiem, potrzeba **żelaza** (kuźni), **drewna** (wyrębu i obróbki) i **kogoś, kto każe** (mistrza budowy).
+> **Symon nie ma problemu z kafarami. Symon ma plac budowy bez mistrza, kuźni i kamieniołomu — i cztery kafary to jedyne miejsce, w którym to widać.**
+
+---
+
+## KALENDARZ NAJBLIŻSZYCH DWUNASTU MIESIĘCY
+
+| pora | co się robi |
+|---|---|
+| **RESZTA ZIMY 300** *(do odwilży)* | wbijanie pali na czole grobli, póki bagno niesie · **wyznaczenie mistrza budowy** · rozkaz na kuźnię i kafary |
+| **WIOSNA–LATO 300** | kamieniołom i tratwy · wyrąb olchy i obróbka pali na zapas · wypał wapna · **zamówienie szkła z Myr** · wykop kanalików odwadniających · baraki i lecznica |
+| **JESIEŃ 300** | zwiezienie zapasu do obozu: żywność, torf, pale, kamień. **Kto nie zwiezie jesienią, zimą nie zbuduje nic** |
+| **ZIMA 300/301** | **główna kampania budowlana**: pale pod Kanał Wielki i nabrzeża, nasypy, ciągnięcie kamienia po lodzie |

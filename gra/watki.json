@@ -400,7 +400,7 @@
    "stan_data": "300-02-25",
    "scalony_z": "dom_handlowy_tally_299_05",
    "stan_powod": "Rozstrzygniecie gracza: NESTA ZOSTALA WSPOLNICZKA DOMU TALLY. Watki sie zbiegly - spolka z Nesta to dzis czesc ustroju Domu.",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "rozliczenie_antaryon_plan",
@@ -3336,7 +3336,7 @@
    "id": "struktura_dom_handlowy_tally_299_05",
    "tytul": "Struktura organizacyjna Domu Handlowego Tally (wenecko/medycejska: centrala+siec+giovani, kontrole)",
    "status": "KIEROWNICTWO_KOMPLETNE: Hal/Tam/Willa/Beron; gotowe do pieczeci",
-   "_dziennik_nota": 16,
+   "_dziennik_nota": 17,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -3481,7 +3481,7 @@
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 5,
    "stan_watku": "ZYWY",
    "stan_uwaga": "FILAR: wszystkie dzialania polityczne zewnetrzne i wywiad. Mierzy sie kanalami, nie postepem. Najwieksza biala plama: dwor Krolewskiej Przystani."
   },
@@ -4458,7 +4458,7 @@
    "id": "komora_celna_fosy_pod_skarbnika_299_08",
    "tytul": "KOMORY CELNE KORONY POLNOCY - Fosa Cailin (brama ladowa) + porty, obsadzane stopniowo przez Skarbnika",
    "status": "POSTANOWIONE_299-08-19_(rzut_91):_komory_powolane;_Gawen_obsadza_stopniowo;_do_czasu_pobiera_celnik_Symona_i_przekazuje_Koronie",
-   "_dziennik_nota": 29
+   "_dziennik_nota": 30
   },
   {
    "id": "rozbudowa_druzyny_fosy_299_08",
@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 18
+   "_dziennik_nota": 20
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -5910,7 +5910,7 @@
   {
    "id": "bilans_domu_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "filar": "BILANS DOMU TALLY",
    "stan_watku": "ZYWY"
   },
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 16,
+   "_dziennik_nota": 17,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6113,7 +6113,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 12
   },
   {
    "id": "rzadca_warryn",
@@ -6167,6 +6167,16 @@
   },
   {
    "id": "program_okretow_modelowe_kadluby_299_12",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "ucho_korony",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "kanal_olenna",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

@@ -30,6 +30,16 @@ Na start tylko to, co pewne z ostatnich dni:
 | miasto Cailin | **ZATWIERDZONE 300-02-27, wszystkie trzy:** ① **nowy wagowy z wyboru — Herwin przestaje ważyć** ② **działki losuje ława jawnie**, lista z imionami na słupie ③ **na słupie dwa znaki** — pieczęć pana za nadanie, znak miasta za wykonanie | wykonuje miasto | 300-02-27 |
 | ### miasto Cailin | ### **jedna waga na dziewięć rzemiosł** — zgłosiło się kilkunastu, za miesiąc będzie stu, a wagowy jest jeden, bo został burmistrzem | ### przed wiosną | 300-02-27 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
+| ### Symon → Herwin | ### **POPRAWIĆ TERMIN JUTRO, ZANIM WYPISZE NA SŁUPIE** — powiedziano „po Radzie", a Król obiecał **PRZED Radą**, gdy przyjdzie pismo miasta. **Pismo poszło 300-02-20** | ### **300-02-28** | 300-02-27 |
+| **Symon → Hal** | **kiedy placówka w BRAAVOS i PENTOS** — kapitał wejścia **140 smoków 80 jeleni** leży wydzielony od sierpnia, nietknięty | wysłane 300-02-27 | 300-02-27 |
+| **Symon → Hal** | **zarządca-wspólnik RIVERRUN** *(500 smoków obrotu mies. prowadzone listownie)* + pusta **analiza po Demanie** — czy wybrał | wysłane 300-02-27 | 300-02-27 |
+| **Symon → Hal** | **wyniki naboru + czy ruszył DOM AUDYTOWY** — zarządca i rachmistrz są, ### **mistrz NIE ZNALEZIONY** *(poza cechem w Białym Porcie mistrzów rewizji nie ma — cech jest po to, żeby ich nie było)* | wysłane 300-02-27 | 300-02-27 |
+| **Symon → Nesta** | **status sprawy ANTARYONÓW** *(w Księdze: „księga Antaryonów, pierwsza w kolejce"; gracz napisał „Arcynom" — do potwierdzenia jednym słowem)* | wysłane 300-02-27 | 300-02-27 |
+| **Symon → Nesta** | **co słyszała o DAENERYS TARGARYEN** — pierwsza próba ruszenia białej plamy, przy której stoi *„ani jednej drogi"* | wysłane 300-02-27 | 300-02-27 |
+| ### **Symon → Nesta** | ### **ZBADAĆ BRAAVIJSKIE DOMY HANDLOWE** — sprawdzone: **nie było zlecone nigdzie**. Nowe zlecenie, nie przypomnienie | ### bez terminu | 300-02-27 |
+| **Symon → lady OLENNA TYRELL** | **wejście Domu do Highgarden — po cichu**, żeby móc rozmawiać bliżej. Północ przeżywa zimę | wysłane 300-02-27 | 300-02-27 |
+| ~~Symon → Król: Ucho Korony~~ | ### **ODPADA — Ucho Korony i Rejestrator Korony to JEDNO krzesło.** Przypomnienie poszło godzinę wcześniej; drugi list osłabiłby pierwszy | — | 300-02-27 |
+| **wymiana list jeńców** | **zaadresowana, wisi na drugiej stronie** — w porządku Rady stoi: *„dopóki nie odpiszą"* | — | 300-02-27 |
 | Symon → Theonowi | „będę ci mówił" — **tanie do dotrzymania: Theon idzie do DUSTINPORT** *(doradza przy budowie okrętów, uczy admirała walki)*, a Dustinport melduje od 300-03-01. **Jedna linijka do istniejącej karty, nie nowy kanał** | z meldunkami Dustinport | 300-02-27 |
 | ### **Torren Solny** | ### **meldunek eskadry, osiem rubryk — NIE PRZYSZEDŁ.** Od tego zależy, czy Theon jedzie do Dustinport, czy wraca z Symonem 07. **Czekamy do 300-02-28** | ### **300-03-07** | 300-02-27 |
 | **LADY CATELYN** | **SIEDZI W RIVERRUN I NEGOCJUJE Z TULLYMI** — od jesieni. Trasa: zachód → danina *(Bryen za nią)* → **przez Fosę jesienią 299** → Dorzecze. **Nie jest tu spodziewana i nigdy nie była** | — | 300-02-27 |
@@ -59,7 +69,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Orland Korzec | **C · rozgrodzić skład na cztery przegrody**, każda z kreską ogłoszoną z góry: ziarno siewne, żywność na rok, rezerwa na klęskę, obrok. **Klucz u niego, księga u pisarza grodzkiego, rządca ma wgląd bez klucza** | **300-03-07** | 300-02-25 |
 | Orland + Warryn | **D · kto trzyma, nie decyduje** — Orland wydaje na liczbę Warryna; **odmowa tylko na piśmie, z powodem** | **300-03-07** | 300-02-25 |
 | **Weylin + Orbelo** | **KOŁO W ŚLUZIE — gniazdo na wał w rysunku, ZANIM komora się zamknie.** Podpisują obaj, nie po randze, po materii | ### **decyzja o tygodniach** | 300-02-25 |
-| **Warryn + Kessel** | **wybrać młynarza WSPÓLNIE** — jeden patrzy na fach, drugi na to, kogo się wpuszcza do bramy wodnej o świcie | **zanim stanie koło** | 300-02-27 |
+| **Warryn + Kessel** | **wybrać młynarza WSPÓLNIE — OBAJ MUSZĄ RĘCZYĆ.** Roboty młyńskie **z rejestru dniówek** — jeden patrzy na fach, drugi na to, kogo się wpuszcza do bramy wodnej o świcie | **zanim stanie koło** | 300-02-27 |
 | **Symon → Howland Reed** | **list — trzy pytania i oferta:** co jest wasze · co chcecie sprzedawać sami · czego nie zaczynać · **a co odpowiecie, wypiszemy na słupie przy przywileju**. Kanałem Warryna przez znachorów — *przeczytają go, zanim dotrze* | wysłany 300-02-26 | 300-02-25 |
 | Warryn | **na słup jutro tylko SZEŚĆ rzemiosł** — jaszczurołwy, futra i żaby zostają w szufladzie do odpowiedzi Howlanda | **300-02-26** | 300-02-25 |
 | Symon → burmistrz | **przywilej bagienny: lord nadaje, MIASTO SADZA.** Wydany ponad jego głową powie mu, że jest pomijany — a czeka trzy miesiące na prawo składu | z przywilejem | 300-02-25 |

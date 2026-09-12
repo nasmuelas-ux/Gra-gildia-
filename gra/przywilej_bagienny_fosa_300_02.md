@@ -117,10 +117,30 @@ a ten sam torf grzeje chałupy.
 
 ---
 
-## 6. CO ZOSTAJE NIEROZSTRZYGNIĘTE
+## 6. ROZSTRZYGNIĘTE 300-02-25 (noc)
 
-1. **Młyn: wiatrak czy koło w śluzie** — i gniazdo na wał, zanim komora się zamknie
-2. **④⑦⑨ przed czy po liście do Howlanda Reeda**
-3. **Ile to kosztuje Kasę 2** — narzędzia, budynki, tempo; nikt nie przeliczył
-4. **Kto prowadzi** — przywilej nie ma właściciela ani daty; *rozkaz bez obu już raz nie został wykonany (299-10-01)*
-5. **Burmistrz nadal czeka trzy miesiące na prawo składu** — przywilej trafi do człowieka z otwartą pretensją
+- **MŁYN: KOŁO W ŚLUZIE.** Wiatrak odrzucony. Rozkaz do **Weylina i Orbela razem** — gniazdo na wał
+  w rysunku, **zanim komora się zamknie**.
+- **LIST DO HOWLANDA IDZIE PIERWSZY.** Kanałem Warryna, przez znachorów (ci sami, z którymi wymienia Nina).
+  Greywater Watch się przenosi — adresu nie ma i nigdy nie było.
+  **Warryn:** *„Ten list przeczytają oni, zanim dotrze do Howlanda. I dobrze."*
+- **NA SŁUP JUTRO IDZIE SZEŚĆ RZEMIOSŁ.** Pozycje **④ ⑦ ⑨** zostają w szufladzie do odpowiedzi.
+
+### TREŚĆ LISTU — trzy pytania i jedna oferta
+1. Co z tego jest wasze i czego nie wolno tknąć?
+2. Co chcecie sprzedawać sami — a my tylko kupimy i powieziemy, **bo droga i waga są nasze, a wasze ręce nie są nasze**?
+3. Czego nie mamy w ogóle zaczynać?
+4. **To, co odpowiecie, wypiszemy na słupie przy przywileju** — nie w liście między nami dwoma.
+   Żeby każdy garbarz w Cailin czytał **granicę** tego samego dnia, w którym czyta **wolność od podatku**.
+
+> **Warryn:** „Człowiek, który kładzie swoje ograniczenie na tym samym słupie co swoją łaskę,
+> nie prosi o pozwolenie. **On mówi, na czym stoi.**"
+
+---
+
+## 7. CO ZOSTAJE NIEROZSTRZYGNIĘTE
+
+1. ### **KTO JEST MŁYNARZEM I KTO GO WPUSZCZA** — młyn w śluzie znaczy, że młynarz stoi w **bramie wodnej twierdzy**, codziennie, o świcie. To wybór człowieka straży, nie rzemieślnika (Hendry). **Zanim stanie koło.**
+2. **Ile to kosztuje Kasę 2** — narzędzia, budynki, tempo; nikt nie przeliczył
+3. **Kto prowadzi przywilej** — nie ma właściciela ani daty; *rozkaz bez obu już raz nie został wykonany (299-10-01)*
+4. **Burmistrz nadal czeka trzy miesiące na prawo składu** — przywilej trafi do człowieka z otwartą pretensją

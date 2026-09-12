@@ -25,7 +25,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon | odpowiedź **burmistrzowi**: TERMIN, nie łaska | **SPÓŹNIONE — 3 miesiące** | 299-11 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
 | Symon → Theonowi | „będę ci mówił" | **BEZ TERMINU** | 300-02-18 |
-| ### **LADY CATELYN — GDZIE JEST: SPRZECZNOŚĆ W ZAPISIE, CZEKA NA ROZSTRZYGNIĘCIE GRACZA** | ### **A)** pisma pierwszoosobowe Symona z **300-02-16**: w drodze do **Riverrun**, ostatnio **Barrowton**, *„nie wiemy, gdzie jest, z dokładnością do dwóch tygodni"*, kruk do Warryna — spodziewana na Fosie. ### **B)** wątki `wektor_dolina_arryn` / `catelyn_misja_orle_gniazdo`: 299-12-18 *„Lysa przyjęła Catelyn"*, 300-02-06 *„pisze rzadko i mało, rozmowy w Dolinie idą"*. ### **Oba naraz nie mogą być prawdziwe. NIC NA TYM NIE BUDOWAĆ, dopóki gracz nie powie.** | ### okno na Fosie 02-25…**03-07**; kartka zostaje u Warryna tak czy owak | 300-02-27 |
+| **LADY CATELYN** | **JEST W DORZECZU I NEGOCJUJE** *(rozstrzygnięcie gracza 300-02-27)*. Nie ma jej położenia, bo **ramię Korony kończy się na Przesmyku** — Bryen zawrócił z Fosy, moneta Korony nie przekracza granicy Dorzecza. **Kanał do niej: LUCAN**, tygodnie | okno na Fosie do **300-03-07** | 300-02-27 |
+| ### Symon | ### **LIST DO CATELYN — przez Lucana czy dalej czeka u Warryna?** W nim traktat z 300-02-07, **którego ona nie zna, a negocjuje**. Każdy dzień zwłoki to dzień, w którym rozmawia ślepa | ### decyzja wisi | 300-02-27 |
 | Gawen | Ochmistrz Wychowanków — ogłoszenie nazwiska | 300-03-01 | 300-02-16 |
 | Gawen | Mistrz Zapasów Zimowych (etap I) | — | 300-02-15 |
 | Gawen | **liczący** — sześć wierszy, ilu ludzi przy której robocie | **BEZ DATY** ⚠️ | 300-02-20 |
@@ -170,4 +171,7 @@ WYMAN (morze wschodnie) dni, pilnuje swojego · OSRIC/STRAŻ (Mur) tygodnie · C
 KOMORA FOSY (kto przechodzi) na bieżąco · MAESTERZY (Cytadela) miesiące · **THEON (Żelazne Wyspy) — jedyny, i wyjeżdża** ·
 **ROZDROŻE (Crossroads Inn)** — jedyna rzecz Domu Tally stojąca na południe od Przesmyku; brama Doliny.
 ### DWÓR KRÓLEWSKIEJ PRZYSTANI — NIE MA GO WCALE.
+### ⚠ RAMIĘ KORONY KOŃCZY SIĘ NA PRZESMYKU.
+Bryen, rachmistrz Skarbu, jechał za lady Catelyn przez całą Północ i **zawrócił z Fosy Cailin** — moneta Korony nie przekracza granicy Dorzecza. Za Fosą **nie ma poborców, rewizorów ani poczty Korony**; jest **Lucan** i jest **Rozdroże**. Dlatego położenia lady Catelyn nie zna nikt — to nie alarm, tylko **opis granicy własnego aparatu**.
+> **A z tego wynika, że FOSA JEST OSTATNIM MIEJSCEM, W KTÓRYM DA SIĘ ZROBIĆ COKOLWIEK PAŃSTWOWEGO** na południe — dla Catelyn, dla Blackfisha, dla traktatu i dla poczty. Nie brama w murze: **granica zasięgu urzędu.**
 > **ROZDROŻE SŁYSZY, KTO PRZEJEŻDŻA. NIE SŁYSZY, KTO RADZI.** Gospoda na trakcie wie wszystko o ludziach w drodze — ilu, dokąd, czyim znakiem, czym płacą. Nie wie nic o tym, co powiedziano w izbie, z której nikt nie wyjechał. **Dwór to nie miejsce na mapie — to ludzie, którzy nie muszą nigdzie jechać, żeby rozstrzygnąć.**

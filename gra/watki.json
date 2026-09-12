@@ -3049,7 +3049,7 @@
    "id": "wektor_dolina_arryn_1127",
    "tytul": "Dolina Arrynow - budzaca sie kalkulacja (granica, sila Polnocy, Catelyn-Lysa)",
    "status": "MUR_STRACHU_299-03-15_adresowac_zrodlo_szeptu_nie_Lyse",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 11,
    "stan_watku": "ZYWY",
    "filar": "DOLINA ARRYNOW",
    "wchlonelo": [
@@ -3085,7 +3085,7 @@
    "id": "catelyn_misja_orle_gniazdo_1127",
    "tytul": "Lady Catelyn -> Orle Gniazdo do Lysy (pozyskac Dyskaline)",
    "status": "WYRUSZYLA_pitch_pomsta_za_Jona+silna_Polnoc",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 8
   },
   {
    "id": "sansa_status_po_blackwater_1127",
@@ -3965,7 +3965,7 @@
    "id": "pakt_obronny_polnoc_dorzecze_299_07",
    "tytul": "Pakt Obronny Polnoc-Dorzecze - Brynden pld architekt, 3 plany, wymiana oficerow (Trident z furtki w zapore)",
    "status": "ZAWIAZANY_299-07-06_projekty_w_toku",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "filar": "RELACJA POLNOC-DORZECZE (pakt obronny, plany, Blackfish)",
    "stan_watku": "ZYWY",
    "stan_uwaga": "Rozstrzygniecie gracza: ODREBNY WATEK - relacja Polnocy z Dorzeczem. Pakt ma PLANY OBRONNE i ma BLACKFISHA, ktory umacnia Dorzecze. To zywa rzecz z wlasna trescia, nie zapis z lata."
@@ -5983,7 +5983,7 @@
   {
    "id": "traktat_handlowy_z_dorzeczem_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "filar": "TRAKTAT HANDLOWY Z DORZECZEM",
    "stan_watku": "ZYWY"
   },
@@ -6112,7 +6112,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "rzadca_warryn",
@@ -6142,7 +6142,7 @@
   {
    "id": "catelyn_stark",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   }
  ]
 }

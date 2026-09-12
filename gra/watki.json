@@ -167,7 +167,7 @@
    "termin": null,
    "wobec": "self",
    "stan": "OBIE NOGI W RUCHU — import (barwniki/egzotyka przez Vhassara) + wywoz (skory lokalne + polnocne futra/bursztyn przez Torsena/Halvarda, Bialy Noz)",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 10
   },
   {
    "id": "pioro_dla_wiary",
@@ -3652,7 +3652,7 @@
    "id": "system_oswiaty_polnocy_struktura_299_06",
    "tytul": "System oswiaty Polnocy (5 wezlow od 299-06-12) + UZUPELNIENIE 09-16: lancuch (braz-miara, czardrzew-pamiec, stal-prawo), stroj, przysiega, Theomore glowa Straznicy Zimy, LUWIN MISTRZ NAUKI w Radzie",
    "status": "otwarty",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "priorytet": "wysoki",
    "filar": "SYSTEM OSWIATY POLNOCY",
    "stan_watku": "ZYWY"
@@ -3778,7 +3778,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -4569,7 +4569,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 25,
+   "_dziennik_nota": 26,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 24
+   "_dziennik_nota": 25
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -4950,7 +4950,7 @@
    "id": "taryfa_celna_polnocy_299_09",
    "tytul": "Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu",
    "status": "projekt_do_polozenia_przed_krolem",
-   "_dziennik_nota": 14,
+   "_dziennik_nota": 15,
    "filar": "TARYFA CELNA POLNOCY",
    "stan_watku": "ZYWY"
   },
@@ -5695,7 +5695,7 @@
   {
    "id": "woz_w_lodzie_przy_brodzie_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "filar": "WOZ W LODZIE PRZY BRODZIE - nierozwiazane",
    "stan_watku": "ZYWY"
   },
@@ -5714,7 +5714,7 @@
   {
    "id": "danina_karholdu_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 12,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel D - Danina Karholdu pobrana, dzien zamkniety."
@@ -5970,14 +5970,14 @@
   {
    "id": "zakaz_wylacznosci_faktora_i_porty_jako_komory_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "filar": "ZAKAZ WYLACZNOSCI FAKTORA / porty jako komory",
    "stan_watku": "ZYWY"
   },
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6049,7 +6049,7 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -6138,7 +6138,7 @@
   {
    "id": "kto_skupuje_zboze_w_dorzeczu",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "catelyn_stark",
@@ -6148,7 +6148,7 @@
   {
    "id": "roose_bolton",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "gawen_skarbnik",
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "pochodzenie_symona_299_09",
@@ -6203,7 +6203,7 @@
   {
    "id": "illyrio_mopatis",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

@@ -1,14 +1,14 @@
 {
  "data": {
   "rok": 300,
-  "miesiac": 2,
-  "dzien": 25,
+  "miesiac": 3,
+  "dzien": 1,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 11 (300-02-28) - MROZ WROCIL W NOCY, GWALTOWNIE. Po dwoch dobach odwilzy i deszczu przyszlo scinanie: wszystko, co bylo blotem, jest teraz lodem w koleinach, twardym i garbatym. SKUTKI: (1) TRAKTY PRZEJEZDNE PIERWSZY RAZ OD TRZECH DNI - ale niebezpieczne; kon lamie noge na takiej koleinie; sanie ida lepiej niz kola; (2) GROBLA DALEJ STOI - w zmarznieta ziemie kafar nie bije tak samo jak w rozmokla; (3) CZTERYSTA PRZYBYSZOW W ZLYCH DACHACH - pierwsza taka noc; lecznica Niny to odczuje; (4) SZKLARNIE ZARABIAJA NA SIEBIE DOKLADNIE DZIS - i zra torf dokladnie dzis.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 88 (300-03-01) - PIERWSZY POGODNY DZIEN OD TYGODNI, ale wygrany tylko rano. Mroz z nocy 28. utrzymal sie do switu, wiec ziemia jest TWARDA I ROWNA; slonce po drugiej godzinie zaczyna odpuszczac wierzch. SKUTKI: (1) OKNO PODROZNE - najlepsze od trzech tygodni i ZAMYKA SIE OKOLO POLUDNIA; po nim wierzch rozmieka i kolein nie da sie przejechac kolem; (2) wszystko, co ma dzis wyjechac (szesc pism, kolumna trzech pisarzy do Gawena), wyjezdza w tym samym oknie albo czeka do jutra; (3) POMIAR PRZEWLOKI - pierwszy dzien, w ktorym da sie ciagnac sznur po twardym gruncie; (4) ludzie wyjda na slup, bo nie pada - przywilej przeczyta dzis wiecej ludzi niz przez trzy poprzednie dni razem.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "brak",
- "dzien": 28,
+ "dzien": 1,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,7 +138,7 @@
   },
   "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
  },
- "lokacja": "FOSA CAILIN. Cerwyn 2.-5. III. Dzien Bilansu 300-03-01. Wyjazd 300-03-07.",
+ "lokacja": "FOSA CAILIN. DZIEN BILANSU. Cerwyn 2.-5. III. Wyjazd 300-03-07.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
  "pora_dnia": "ranek",
@@ -244,7 +244,7 @@
  "_dziennik_inbound_299_09_18": 1,
  "_dziennik_nota": 89,
  "rok": 300,
- "miesiac": 2,
+ "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
  "_dziennik_poranek_300_02_08": 1,
  "_dziennik_wieczor_300_02_08": 1,

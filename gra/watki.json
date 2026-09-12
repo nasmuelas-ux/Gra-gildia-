@@ -4242,7 +4242,7 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 23,
+   "_dziennik_nota": 24,
    "filar": "RAMSAY - ucho Willi",
    "stan_watku": "ZYWY"
   },
@@ -5411,7 +5411,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -6057,7 +6057,7 @@
   {
    "id": "wychowankowie_winterfell_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "filar": "WYCHOWANKOWIE WINTERFELL",
    "stan_watku": "ZYWY"
   },

@@ -6,54 +6,245 @@
     "3": "SKARB POLNOCY - Korona"
   },
   "_pewne_false": "oznacza: GM nie ma na to twardego zapisu; zapytac gracza raz i poprawic na stale",
-
   "DOM_TALLY": {
     "kasa": 1,
-    "co_tu_nalezy": ["handel", "filie", "papiernia", "warzelnia", "bursztyn", "weksle", "siatka prywatna", "koordynacja dom<->lenno"],
-    "co_tu_NIE_nalezy": ["korespondencja Korony", "porzadek obrad Rady", "rejestr przedsiewziec Korony", "poczta Korony", "sprawy urzedow koronnych"],
+    "co_tu_nalezy": [
+      "handel",
+      "filie",
+      "papiernia",
+      "warzelnia",
+      "bursztyn",
+      "weksle",
+      "siatka prywatna",
+      "koordynacja dom<->lenno"
+    ],
+    "co_tu_NIE_nalezy": [
+      "korespondencja Korony",
+      "porzadek obrad Rady",
+      "rejestr przedsiewziec Korony",
+      "poczta Korony",
+      "sprawy urzedow koronnych"
+    ],
     "ludzie": [
-      {"imie": "GARRICK", "urzad": "Kanclerz Kancelarii Namiestnika (dom+lenno)", "siedziba": "FOSA CAILIN", "raportuje": "Symon", "co_NIE_do_niego": "rzeczy koronne - te ida do kancelarii w Winterfell (Beron)", "pewne": true},
-      {"imie": "WILLA", "urzad": "kanclerz-archiwista, siatka/wywiad domu", "siedziba": "w terenie", "raportuje": "Symon", "pewne": true},
-      {"imie": "HAL", "urzad": "dyrektor Domu Handlowego", "siedziba": "BIALY PORT", "raportuje": "Symon", "pewne": true},
-      {"imie": "NESTA", "urzad": "wspolniczka, Braavos", "siedziba": "BRAAVOS", "raportuje": "Symon (partnerka, nie podwladna)", "pewne": true},
-      {"imie": "LUCAN", "urzad": "czlowiek domu na poludniu", "siedziba": "DORZECZE", "raportuje": "Symon", "pewne": true},
-      {"imie": "MARR", "urzad": "szlifierz bursztynu", "siedziba": "?", "pewne": false}
+      {
+        "imie": "GARRICK",
+        "urzad": "Kanclerz Kancelarii Namiestnika (dom+lenno)",
+        "siedziba": "FOSA CAILIN",
+        "raportuje": "Symon",
+        "co_NIE_do_niego": "rzeczy koronne - te ida do kancelarii w Winterfell (Beron)",
+        "pewne": true
+      },
+      {
+        "imie": "WILLA",
+        "urzad": "kanclerz-archiwista, siatka/wywiad domu",
+        "siedziba": "w terenie",
+        "raportuje": "Symon",
+        "pewne": true
+      },
+      {
+        "imie": "HAL",
+        "urzad": "dyrektor Domu Handlowego",
+        "siedziba": "BIALY PORT",
+        "raportuje": "Symon",
+        "pewne": true
+      },
+      {
+        "imie": "NESTA",
+        "urzad": "wspolniczka, Braavos",
+        "siedziba": "BRAAVOS",
+        "raportuje": "Symon (partnerka, nie podwladna)",
+        "pewne": true
+      },
+      {
+        "imie": "LUCAN",
+        "urzad": "czlowiek domu na poludniu",
+        "siedziba": "DORZECZE",
+        "raportuje": "Symon",
+        "pewne": true
+      },
+      {
+        "imie": "MARR",
+        "urzad": "szlifierz bursztynu",
+        "siedziba": "?",
+        "pewne": false
+      }
     ]
   },
-
   "LENNO_FOSY": {
     "kasa": 2,
-    "co_tu_nalezy": ["grobla i roboty", "myto", "spis mieszkancow", "solectwa", "sad grodzki", "Mchowe Jastrzebie", "miasteczko Cailin (ma WLASNA kase miejska)"],
-    "co_tu_NIE_nalezy": ["clo Korony (to Kasa 3, tylko pobierane reka lenna)"],
+    "co_tu_nalezy": [
+      "grobla i roboty",
+      "myto",
+      "spis mieszkancow",
+      "solectwa",
+      "sad grodzki",
+      "Mchowe Jastrzebie",
+      "miasteczko Cailin (ma WLASNA kase miejska)"
+    ],
+    "co_tu_NIE_nalezy": [
+      "clo Korony (to Kasa 3, tylko pobierane reka lenna)"
+    ],
     "ludzie": [
-      {"imie": "ALYS", "urzad": "majordom przy liczbach", "siedziba": "FOSA", "raportuje": "Symon/Garrick", "pewne": true},
-      {"imie": "BRAN", "urzad": "majordom robot (NIE Brandon Stark)", "siedziba": "FOSA", "raportuje": "Symon/Garrick", "pewne": true},
-      {"imie": "HENDRY", "urzad": "marszalek/druzyna lenna", "siedziba": "FOSA", "pewne": false},
-      {"imie": "RZADCA", "urzad": "rzadca lenna", "siedziba": "FOSA", "pewne": false},
-      {"imie": "BURMISTRZ (wagowy)", "urzad": "burmistrz miasta Cailin z wyboru 299-11-01", "siedziba": "MIASTECZKO CAILIN", "raportuje": "rada miejska, NIE Symon", "uwaga": "pisze do KORONY bezposrednio w sprawie prawa skladu - tak zadal Symon", "pewne": true}
+      {
+        "imie": "ALYS",
+        "urzad": "majordom przy liczbach",
+        "siedziba": "FOSA",
+        "raportuje": "Symon/Garrick",
+        "pewne": true
+      },
+      {
+        "imie": "BRAN",
+        "urzad": "majordom robot (NIE Brandon Stark)",
+        "siedziba": "FOSA",
+        "raportuje": "Symon/Garrick",
+        "pewne": true
+      },
+      {
+        "imie": "HENDRY",
+        "urzad": "marszalek/druzyna lenna",
+        "siedziba": "FOSA",
+        "pewne": false
+      },
+      {
+        "imie": "RZADCA",
+        "urzad": "rzadca lenna",
+        "siedziba": "FOSA",
+        "pewne": false
+      },
+      {
+        "imie": "BURMISTRZ (wagowy)",
+        "urzad": "burmistrz miasta Cailin z wyboru 299-11-01",
+        "siedziba": "MIASTECZKO CAILIN",
+        "raportuje": "rada miejska, NIE Symon",
+        "uwaga": "pisze do KORONY bezposrednio w sprawie prawa skladu - tak zadal Symon",
+        "pewne": true
+      }
     ]
   },
-
   "KORONA": {
     "kasa": 3,
-    "co_tu_nalezy": ["kancelaria Korony", "poczta Korony", "rejestr przedsiewziec", "porzadek obrad Rady", "clo", "daniny", "sady", "eskadra", "Mur"],
+    "co_tu_nalezy": [
+      "kancelaria Korony",
+      "poczta Korony",
+      "rejestr przedsiewziec",
+      "porzadek obrad Rady",
+      "clo",
+      "daniny",
+      "sady",
+      "eskadra",
+      "Mur"
+    ],
     "siedziba_glowna": "WINTERFELL",
     "ludzie": [
-      {"imie": "BERON", "urzad": "SEKRETARZ KANCELARII KORONY", "siedziba": "WINTERFELL", "raportuje": "KROL", "uwaga": "tu trafia wszystko koronne; przysiega Krolowi, placi Kasa 3, zostaje gdy Namiestnik odchodzi", "pewne": true},
-      {"imie": "GAWEN", "urzad": "Skarbnik Korony", "siedziba": "WINTERFELL", "raportuje": "KROL", "pewne": true},
-      {"imie": "MEDGER CERWYN", "urzad": "Justycjariusz Polnocy", "siedziba": "ZAMEK CERWYN + objazd", "raportuje": "KROL", "pewne": true},
-      {"imie": "TORREN SOLNY", "urzad": "Pierwszy Admiral Korony", "siedziba": "DUSTINPORT", "raportuje": "KROL", "uwaga": "NIE dostal pisma o granicach urzedu - dlug Symona", "pewne": true},
-      {"imie": "OSRIC", "urzad": "marszalek / oddzial pod Murem", "siedziba": "MUR/w drodze", "pewne": true},
-      {"imie": "RODRIK CASSEL", "urzad": "mistrz nad bronia Winterfell", "siedziba": "WINTERFELL", "pewne": true},
-      {"imie": "LUWIN", "urzad": "maester Winterfell", "siedziba": "WINTERFELL", "pewne": true},
-      {"imie": "MYLES", "urzad": "wybrany przez KROLA na glos przy lordach, X/299", "siedziba": "WINTERFELL (przyjechal 300-02-19)", "pewne": true},
-      {"imie": "THEOMORE", "urzad": "maester, pomiar Przesmyku", "siedziba": "WINTERFELL (przyjechal 300-02-19)", "pewne": true},
-      {"imie": "KASZTELAN WINTERFELL", "urzad": "rejestr zamku", "siedziba": "WINTERFELL", "pewne": true}
+      {
+        "imie": "BERON",
+        "urzad": "SEKRETARZ KANCELARII KORONY",
+        "siedziba": "WINTERFELL",
+        "raportuje": "KROL",
+        "uwaga": "tu trafia wszystko koronne; przysiega Krolowi, placi Kasa 3, zostaje gdy Namiestnik odchodzi",
+        "pewne": true
+      },
+      {
+        "imie": "GAWEN",
+        "urzad": "Skarbnik Korony",
+        "siedziba": "WINTERFELL",
+        "raportuje": "KROL",
+        "pewne": true
+      },
+      {
+        "imie": "MEDGER CERWYN",
+        "urzad": "Justycjariusz Polnocy",
+        "siedziba": "ZAMEK CERWYN + objazd",
+        "raportuje": "KROL",
+        "pewne": true
+      },
+      {
+        "imie": "TORREN SOLNY",
+        "urzad": "Pierwszy Admiral Korony",
+        "siedziba": "DUSTINPORT",
+        "raportuje": "KROL",
+        "uwaga": "NIE dostal pisma o granicach urzedu - dlug Symona",
+        "pewne": true
+      },
+      {
+        "imie": "OSRIC",
+        "urzad": "marszalek / oddzial pod Murem",
+        "siedziba": "MUR/w drodze",
+        "pewne": true
+      },
+      {
+        "imie": "RODRIK CASSEL",
+        "urzad": "mistrz nad bronia Winterfell",
+        "siedziba": "WINTERFELL",
+        "pewne": true
+      },
+      {
+        "imie": "LUWIN",
+        "urzad": "maester Winterfell",
+        "siedziba": "WINTERFELL",
+        "pewne": true
+      },
+      {
+        "imie": "MYLES",
+        "urzad": "wybrany przez KROLA na glos przy lordach, X/299",
+        "siedziba": "WINTERFELL (przyjechal 300-02-19)",
+        "pewne": true
+      },
+      {
+        "imie": "THEOMORE",
+        "urzad": "maester, pomiar Przesmyku",
+        "siedziba": "WINTERFELL (przyjechal 300-02-19)",
+        "pewne": true
+      },
+      {
+        "imie": "KASZTELAN WINTERFELL",
+        "urzad": "rejestr zamku",
+        "siedziba": "WINTERFELL",
+        "pewne": true
+      }
     ]
   },
-
   "SZWY": [
-    {"kto": "GARTH", "opis": "czlowiek LENNA stojacy przy komorze celnej KORONY - pobiera clo Kasy 3 reka lenna. Jedyny prawdziwy szew Fosy. Nie dostal pisma o granicach urzedu (obiecane przed przyjazdem Cerwyna).", "siedziba": "GROBLA FOSY"},
-    {"kto": "POCZTA KORONY", "opis": "przelozony poczty odpowiada Beronowi w Winterfell, ale Garrick nia dysponuje, bo jest na miejscu. Chodzi na zdrowy rozsadek i kiedys przestanie."}
-  ]
+    {
+      "kto": "GARTH",
+      "opis": "czlowiek LENNA stojacy przy komorze celnej KORONY - pobiera clo Kasy 3 reka lenna. Jedyny prawdziwy szew Fosy. Nie dostal pisma o granicach urzedu (obiecane przed przyjazdem Cerwyna).",
+      "siedziba": "GROBLA FOSY"
+    },
+    {
+      "kto": "POCZTA KORONY",
+      "opis": "przelozony poczty odpowiada Beronowi w Winterfell, ale Garrick nia dysponuje, bo jest na miejscu. Chodzi na zdrowy rozsadek i kiedys przestanie."
+    }
+  ],
+  "PRZY_NAMIESTNIKU_ZAWSZE": {
+    "_zasada": "Namiestnik NIGDY nie jest sam. Dwaj pisarze przy stole, przyboczni za drzwiami. Prowadzacy ma o tym pamietac w KAZDEJ scenie, bez przypominania.",
+    "pisarze": [
+      {
+        "imie": "HARMON",
+        "urzad": "Sekretarz Kancelarii Namiestnika",
+        "od": "299-05-24"
+      },
+      {
+        "imie": "ALDWIN",
+        "urzad": "Pisarz Kancelarii Namiestnika",
+        "od": "299-05-24"
+      }
+    ],
+    "co_z_tego_wynika": [
+      "Kazda rozmowa moze byc spisana W CHWILI, w ktorej sie odbywa - protokol przy stole, nie wieczorem z pamieci.",
+      "Kazdy rozkaz moze wyjsc na pismie od razu, z data i podpisem, bez wracania do kancelarii.",
+      "Dwaj, nie jeden: jeden pisze, drugi ma odpis. Pismo w jednym egzemplarzu nie istnieje.",
+      "'Nie zdazylem spisac' przestaje istniec. Zostaje tylko 'nie kazalem spisac'.",
+      "Gdy Symon kaze pisarzom wyjsc - TO TEZ JEST DECYZJA i zostaje zapisana."
+    ],
+    "przyboczna": {
+      "dowodca": "STEN (Dagon i Harl pod nim; od 299-05-12, po awansie Hendry'ego na kapitana Domu)",
+      "stan": "DWUDZIESTU",
+      "podzial": {
+        "przy_Symonie": 10,
+        "przy_Mirze_w_Bialym_Porcie": 10
+      },
+      "uwaga": "Dziesieciu przy Mirze to odpowiedz na zdanie Krola z 300-02-05: 'jesli to drapieznik, przyjdzie po kogos, kogo nikt nie liczy'. Rozwiazanie 300-03-03."
+    },
+    "osobno": "Druzyna Fosy (Hendry, ~50 -> 100) i Mchowe Jastrzebie to INNE formacje. Przyboczna jedzie z Symonem; druzyna zostaje przy bramie."
+  }
 }

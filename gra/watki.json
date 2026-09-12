@@ -123,8 +123,9 @@
    "termin": null,
    "wobec": "nesta_braavijka",
    "stan": "dostepne u niej",
-   "filar": "KSIEGI NESTY - braavijska ksiega miar i wag",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Wskazanie gracza: KSIEGA WDROZONA. Braavijska ksiega miar, wag i probierstwa zostala przelozona na uzytek Polnocy - nie lezy nietknieta, jak napisalem. Skutek zyje w filarze MIARA POLNOCNA."
   },
   {
    "id": "horyzont_braavos",
@@ -4048,7 +4049,8 @@
    "id": "miara_polnocna_standard_299_08",
    "tytul": "Miara polnocna - standard wag i miar (instytucja)",
    "status": "USTANOWIONA_299-08-04",
-   "nota": "299-08-04 Symon ustanowil MIARE POLNOCNA (ujednolicone wagi/dlugosci/objetosci) pieczecia Namiestnika, pilotowana w domenie Korony (Winterfell/Wintertown), do rozejscia sie przez nasladownictwo. Najtansza reforma, jedna z najpotezniejszych: standard=zaufanie w handlu=kwitnacy handel=rosnaca baza podatkowa. 1. kamien pod gospodarke panstwa. Instytucja STOI."
+   "nota": "299-08-04 Symon ustanowil MIARE POLNOCNA (ujednolicone wagi/dlugosci/objetosci) pieczecia Namiestnika, pilotowana w domenie Korony (Winterfell/Wintertown), do rozejscia sie przez nasladownictwo. Najtansza reforma, jedna z najpotezniejszych: standard=zaufanie w handlu=kwitnacy handel=rosnaca baza podatkowa. 1. kamien pod gospodarke panstwa. Instytucja STOI.",
+   "_dziennik_nota": 1
   },
   {
    "id": "szkola_winterfell_luwin_299_08",
@@ -5342,7 +5344,8 @@
    "priorytet": "sredni",
    "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady.",
    "filar": "ZIEMIE BEZ PANA - Kamienisty Brzeg i Cypel",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "wylaczenie_namiestnika_z_regencji_299_09",

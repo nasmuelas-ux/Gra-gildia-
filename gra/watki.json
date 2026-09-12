@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -6035,7 +6035,7 @@
   {
    "id": "szkola_tallych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "filar": "SZKOLA TALLYCH",
    "stan_watku": "ZYWY"
   },
@@ -6153,7 +6153,7 @@
   {
    "id": "gawen_skarbnik",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "system_danin",

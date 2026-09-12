@@ -33,7 +33,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Gawen | Ochmistrz Wychowanków — ogłoszenie nazwiska | 300-03-01 | 300-02-16 |
 | Gawen | Mistrz Zapasów Zimowych (etap I) | — | 300-02-15 |
 | **Gawen** | **liczący — sześć wierszy, ilu ludzi przy której robocie.** ### **DATA: 300-04-01, NA RADĘ** — choćby niepełne, z rubryką „nie policzone" | **300-04-01** | 300-02-27 |
-| **pisarze z Fosy → Gawen** | **ludzie dani.** Warryn: **trzech jedzie, trzech zostaje** *(sześciu to wszyscy — zostały dwie wsie, rejestr dniówek i losowanie działek)* | z najbliższą kolumną | 300-02-27 |
+| **pisarze z Fosy → Gawen** | **TRZECH JEDZIE, TRZECH ZOSTAJE** — potwierdzone *(sześciu to wszyscy — zostały dwie wsie, rejestr dniówek i losowanie działek)* | z najbliższą kolumną | 300-02-27 |
 | ### Symon | ### **pisarze przechodzą na ŻOŁD KASY 3** — z imienia, z datą przejścia. Inaczej lenno płaci za liczenie Korony i **kolumna 695 rośnie jeszcze raz**. *Nie dar Namiestnika — pozycja w budżecie* | ### przy wyjeździe pisarzy | 300-02-27 |
 | Cerwyn | czystopis kodeksu + **trzeci odpis u maestera w Winterfell** | 300-03-02 | 300-02-20 |
 | Cerwyn | wykaz wymian pod własną pieczęcią, do URZĘDU | po decyzji Króla | 300-02-19 |

@@ -480,3 +480,60 @@ Rozkaz z **299-10-01** („przeliczyć spichlerz od nowa") nie został wykonany 
 | **Lecznica i apteka bagna** | **NINA** | stoi i leczy; księga medycyny rośnie | druga uczennica; **cena ogłoszona dla mchu** |
 | **Szkoła + posiłek** | **WARRYN** | działa; **wydała pierwszy rachunek** | trzech pisarzy odchodzi do Korony |
 | **Przywilej bagienny — 6 rzemiosł** | **WARRYN** *(termin 300-03-07)* | na słupie od 300-02-26 | ### **do kuźni nie zgłosił się nikt**, a kuźnia idzie pierwsza |
+
+---
+
+# PUNKT 11 — WSPÓŁFINANSOWANIE, STANDARD I ETAPY MIASTA
+### dopisany 300-02-28, po pokazaniu planu burmistrzowi Herwinowi Szali
+_Herwin dostał **Części I–III**. Część IV została w skrzyni — ograniczenie z 300-02-07 („na Fosie czytają Orbelo i Weylin; rządca dostaje sam obrys, nie plan") **nie zostało uchylone.**_
+
+> **Pytanie Herwina, od którego się zaczęło:** *„Ile, panie? Bo »dołożymy« to nie jest liczba, a ja mam wieszać na słupie liczby."*
+
+---
+
+## A. WSPÓŁFINANSOWANIE — dwie kreski, obie sprawdzalne
+
+> ### **LENNO PŁACI ZA TO, CO JEST POD ZIEMIĄ I ZA MUR.**
+> ### **MIASTO PŁACI ZA TO, CO NA WIERZCHU.**
+
+| lenno (Kasa 2) | miasto (kasa miejska) |
+|---|---|
+| rowy · dreny · przepusty · fundamenty · **śluza** · **mur** · brama | bruk · latarnie · dach targu · ławy · studnie miejskie |
+| *kładzie się raz i przeżywa wszystkich* | *wymienia się i czym się codziennie żyje* |
+
+### Tam, gdzie jedno wchodzi w drugie:
+> ### **LENNO DOKŁADA TYLE, ILE MIASTO ZBIERZE.** Grosz za grosz.
+
+**Herwin:** *„To jest uczciwe i twarde. Nie mogę przyjść i powiedzieć »nie mamy« — bo wtedy wy też nie macie. I nie mogę was doić, bo im więcej chcę, tym więcej muszę wyłożyć sam. **Pierwszy raz ktoś mi dał regułę, której nie da się obejść przez płacz.**"*
+
+---
+
+## B. STANDARD BUDOWLANY — sześć miar, wszystkie mierzalne
+*Standard traktu zastosowany do miasta: nie opis, jak ma być pięknie, tylko liczby, które każdy może przyłożyć.*
+
+| miara | dlaczego |
+|---|---|
+| **jedna miara cegły i ciosu** | jeden wzornik; kto go trzyma, buduje z czegokolwiek i pasuje |
+| **ulica = dwa wozy mijające się · zaułek = jeden wóz** | wytycza się raz, poszerza nigdy |
+| **próg domu nad wysoką wodą — jedna wysokość dla całego miasta** | bagno. Kto postawi niżej, buduje dla wody |
+| **komin w kamieniu, palenisko nie w ścianie** | ### *pożar jest tu groźniejszy niż armia* |
+| **spadek dachu i pokrycie** — trzcina w Etapie 0, potem darń | jest to zarazem **stałe zamówienie dla rzemiosła trzcinowego** |
+| **linia zabudowy od kanału** | żeby port i kanał dało się poszerzyć bez wykupu domów |
+
+### **Wzornik wisi u wagowego, obok normy dla robót.** Jedna miara, jedno miejsce, każdy może przyjść i przyłożyć.
+
+---
+
+## C. ETAPY
+
+### ⚠️ **ETAP 0 — ROK PLACU BUDOWY** *(teraz, przed wszystkim)*
+**dach · woda pitna · wychodki · ogień.**
+Podniesione przez Herwina jako brak całego planu: *„Tu jest napisane, jak miasto wygląda, kiedy stoi. Nie ma ani jednej karty o tym, jak się w nim żyje przez te dziesięć lat, kiedy jest placem budowy. A ja mam czterystu ludzi w złych dachach i pierwszy mróz za nimi."*
+> ### **MIASTA NIE UMIERAJĄ NA ZŁYM PLANIE. UMIERAJĄ NA ROKU PRZEJŚCIOWYM.**
+
+**ETAP I — CO POD ZIEMIĄ.** Rowy, dreny, przepusty, fundamenty przy trakcie. *Co idzie pod ziemią, idzie pierwsze.*
+**ETAP II — CO ZARABIA.** Waga, targ, składy, brama licząca. **Dopiero tu miasto ma z czego płacić swoją połowę.**
+**ETAP III — CO WIDAĆ.** Bruk, mury, latarnie.
+**ETAP IV — CO ODDYCHA.** Dzielnica zielona, para pod ulicami, kolor.
+
+> **Żaden etap nie rusza bez dwóch rzeczy: NAZWISKA i LICZBY Z KARTY** *(gęby · korce · na ile dni starczy — pierwsza 300-03-07)*.

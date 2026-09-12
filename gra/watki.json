@@ -3678,7 +3678,7 @@
    "id": "spis_mieszkancow_fosy_299_06",
    "tytul": "Spis mieszkancow Moat Cailin Lands (census lenna) - fundament pod podatek/muster/relief/zime",
    "status": "WSTEPNY_SPIS_GOTOWY_299-06-23_DEFICYT_ZYWNOSCI_na_zime",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 8
   },
   {
    "id": "wataha_starkow_w_komplecie_299_06",
@@ -3803,7 +3803,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -6128,6 +6128,11 @@
    "id": "maester_wystan_fosy",
    "status": "otwarty",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "rozdroze_placowka_domu_tally",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

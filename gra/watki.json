@@ -5411,7 +5411,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 14,
+   "_dziennik_nota": 15,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -5648,7 +5648,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -5983,7 +5983,7 @@
   {
    "id": "traktat_handlowy_z_dorzeczem_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "filar": "TRAKTAT HANDLOWY Z DORZECZEM",
    "stan_watku": "ZYWY"
   },
@@ -6142,7 +6142,7 @@
   {
    "id": "catelyn_stark",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   }
  ]
 }

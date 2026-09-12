@@ -63,7 +63,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | kasztelan → Bran Stark | rejestr zamku, karta co 7 dni | co tydzień | 300-02-18 |
 | **Symon → Hal** | **list dziś, jedno zdanie:** wydatek pionu terenowego rośnie od tego miesiąca, bez rozbicia, przyjazd w połowie marca | wysłany 300-02-25 | 300-02-25 |
 | **Symon → Hal** | **rozmowa w oczy** — Biały Port | **~300-03-13…15** *(wyjazd 07., droga 6–8 dni — **na rozwiązaniu Miry Symona nie będzie**)* | 300-02-25 |
-| **Symon → Garrick** | **w twarz, jutro:** *kancelaria namiestnika nie koresponduje z kantorami Domu w sprawach rachunkowych — bo to urząd, a tamto kupiectwo.* Reguła o granicy urzędu, **nie zakaz** (zakaz jest informacją) | **300-02-26** | 300-02-25 |
+| ~~Symon → Garrick: granica urząd↔kupiectwo~~ | ### SKREŚLONE — granica istnieje od **299-09-10**, jest jedną z trzech założycielskich granic Kancelarii Namiestnika. Nie ma czego ustanawiać | — | 300-02-25 |
 | Garrick | włożyć arkusze z rozmowy z Willą do **księgi zamkniętej** — przy Symonie, żeby była data i świadek | przed wyjazdem **300-03-07** | 300-02-25 |
 | Symon | **spisywać ustalenia z Willą własną ręką** tego samego wieczoru — pisarzy przy niej nie ma | stale, od dziś | 300-02-25 |
 | Willa → Symon | **kwartalny przegląd własnych liczb** — bez pisarzy, u Symona gdziekolwiek będzie; co mówiłam / co z tego wyszło / gdzie się pomyliłam | **300-05-25** | 300-02-25 |

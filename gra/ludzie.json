@@ -68,7 +68,18 @@
     "siedziba": "?",
     "pewne": false
    }
-  ]
+  ],
+  "cztery_filary": {
+   "_od": "299-05-01 (notariusz 299-05-24) - obsada gracza. STAN, NIE ZMIANA.",
+   "dyrektor_generalny": "HAL",
+   "rachmistrz_glowny_i_TAJNA_KSIEGA": "TAM - jedyny, kto widzi zyski Kasy 1 w calosci",
+   "kanclerz_archiwista": "WILLA - jawnie poczta/odpisy/katalog (pierwsza ranga I PRZYKRYWKA); w cieniu wywiad + wlasna siatka + SKLADA CALOSC",
+   "notariusz": "BERON",
+   "doradczyni_nie_filar": "NESTA",
+   "_granica_Willi": "BEZ TAJNEJ KSIEGI (zysk) - widzi PRZEPLYW, nie zyski. Jak wychowankowie.",
+   "_co_z_tego_wynika": "REWIZOREM WILLI JEST TAM, OD MAJA 299. Pieniadz siatki idzie z Kasy 1; Kase 1 w calosci widzi tylko Tam; Willa jego ksiegi nie widzi. Jedyny czlowiek, ktory wie, ile jej siatka kosztuje, to jedyny, ktorego ona nie widzi."
+  },
+  "_granica_wobec_kancelarii": "299-09-10, granica druga z trzech przy ustanowieniu Kancelarii Namiestnika: KANCELARIA NIE MIESZA SIE Z DOMEM TALLY ANI Z LENNEM. Kancelaria Garricka = URZAD (przysiega Krolowi, Kasa 3, zostaje po Namiestniku). Willa i jej siatka = prywatny aparat Symona, Kasa 1. WILLA NIGDY NIE PODLEGALA GARRICKOWI. WILLA SKLADA OBRAZ DLA DOMU, GARRICK SKLADA OBRAZ DLA URZEDU - dwa ciala, dwa obrazy, zadnej podleglosci."
  },
  "LENNO_FOSY": {
   "kasa": 2,
@@ -280,15 +291,5 @@
   },
   "osobno": "Druzyna Fosy (Hendry, ~50 -> 100) i Mchowe Jastrzebie to INNE formacje. Przyboczna jedzie z Symonem; druzyna zostaje przy bramie.",
   "pisarze_prywatni_a_willa": "OD 300-02-25: Harmon i Aldwin WYCHODZA, ilekroc wchodzi Willa. Stala zasada, nie jednorazowa. CENA: Symon spisuje ustalenia z Willa wlasna reka tego samego wieczoru, albo one nie istnieja - traci pamiec pisarza dokladnie na tych sprawach, na ktorych najmniej moze sobie pozwolic na zapomnienie."
- },
- "PION_WYWIADU_GDZIE_SIEDZI": {
-  "_od": "STAN OD POCZATKU, NIE ZMIANA. Spisany dopiero 300-02-25, bo prowadzacy opisal go wczesniej zle. Poprawka opisu nie jest zdarzeniem w swiecie.",
-  "_zasada": "KTO WYPLACA, NIE WIE KOMU.",
-  "WILLA": "PION DOMU HANDLOWEGO TALLY, nie kancelaria. Placi DOM, od poczatku. Inspektor w kazdej filii, pod nim kupcy wedrowni, pod nimi czujki wpisane jako tragarze i wagowi.",
-  "GARRICK": "WEZEL, NIGDY SAKIEWKA. Sklada meldunki - z liczb Willi robi zdanie. Pieniadza siatki nigdy nie mial.",
-  "HAL": "dyrektor Domu Handlowego, Bialy Port. Prowadzi kase Domu, wiec widzi wydatek na pion Willi. NIE PYTA o rozbicie. Czy placi na znak czy na nazwisko - NIEUSTALONE, nie twierdzic bez sprawdzenia.",
-  "_ukrycie_kosztu": "dniowki, strawa, opal, konie pocztowe, wosk na Fosie - to, czego przybywa i czego nikt nie liczy. NIE papier kancelarii (odrzucone 300-02-25: 'papier jest zly wlasnie dlatego, ze go brakuje'). Linia ma byc PRAWDZIWA.",
-  "_granica_urzedu": "KANCELARIA NAMIESTNIKA NIE KORESPONDUJE Z KANTORAMI DOMU W SPRAWACH RACHUNKOWYCH - bo to jest urzad, a tamto jest kupiectwo. Regula ustrojowa, NIE zakaz wskazujacy na Hala. ZAKAZ JEST INFORMACJA.",
-  "_co_sie_zmienilo_300_02_25": "TYLKO WYSOKOSC WYDATKU - Symon kazal Willi rozbudowac piony, wiec kwota Domu rosnie. Mechanizm bez zmian."
  }
 }

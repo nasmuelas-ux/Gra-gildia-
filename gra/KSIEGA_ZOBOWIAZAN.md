@@ -78,7 +78,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | Żelazny Bank, 6 mln długu Tronu | Nesta | — | 300-02-06 |
 | Baelish | Lucan | — | 300-02-06 |
 | Kto skupuje zboże w Dorzeczu | Lucan + Willa + Donella | — | 300-02-06 *(trzy źródła, nie wiedzą o sobie)* |
-| Ramsay / Dreadfort | Willa | stała warta | — |
+| **Sfera Dreadfortu — sól, żelazo, znikający ludzie** | Willa *(Dom Handlowy, NIE Korona)* | **wjazd dopiero gdy Roose wyjedzie** | 300-02-05 — Król: „ojciec, który trzyma smycz" |
+| **Ramsay — wezwanie do 40 domów, bez wyjątku** | Korona, jawnie | przyjazd **przed 300-04-01** | 300-02-05 |
 | Traktat z Dorzeczem | Catelyn / Lucan | **ratyfikacja do VI/300** | 300-02-06 |
 | Sukcesja Bliźniaków | Catelyn | — | 299-09 |
 | Wylis Manderly — jeniec | Wyman | ### bez ruchu od jesieni | — |

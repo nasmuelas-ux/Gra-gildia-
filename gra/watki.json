@@ -3778,7 +3778,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 22,
+   "_dziennik_nota": 23,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 13,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 26
+   "_dziennik_nota": 27
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -5681,7 +5681,7 @@
   {
    "id": "dlug_korony_wobec_domu_tally_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "filar": "DLUG KORONY WOBEC DOMU TALLY (~310 smokow)",
    "stan_watku": "ZYWY"
   },
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 13,
+   "_dziennik_nota": 14,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6049,7 +6049,7 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -6089,7 +6089,7 @@
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "filar": "STANDARD TRAKTU POLNOCY",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6113,7 +6113,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 14
+   "_dziennik_nota": 15
   },
   {
    "id": "rzadca_warryn",

@@ -17,10 +17,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-02-18 poludnie · zima (300)
+- **Data:** 300-02-18 wieczor · zima (300)
 - **Miejsce:** WINTERFELL - komnata Namiestnika. Dwa dni do wyjazdu kolumny na Fose.
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 85 · Sytosc 56 · Zmeczenie 28**
+- **Zdrowie 85 · Sytosc 88 · Zmeczenie 26**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied

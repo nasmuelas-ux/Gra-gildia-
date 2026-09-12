@@ -131,3 +131,132 @@ Te trzy są **tylko piórem** i wszystkie trzy są spóźnione.
 Te trzy wymagają **wskazania człowieka**. Jeśli wyjedzie bez nich, wracają w tym samym stanie za pół roku.
 
 **Reszta idzie sama**, jeśli ma właściciela — i stoi w miejscu, jeśli go nie ma.
+
+---
+---
+
+# CZĘŚĆ DRUGA: ETAPY WDROŻENIA
+### *Zadania wyżej mówią, co leży. Etapy mówią, w jakiej kolejności to w ogóle da się zbudować.*
+
+> **PORZĄDEK Z SAMEGO PROJEKTU (299-09-05):** *„Trzy przedsięwzięcia, jedno zamierzenie. Budowane w tej kolejności, bo każde następne stoi na poprzednim. **Trakt** przynosi handel i żywność. **Forteca** zamyka bramę Północy. **Miasto** żywi się jednym i chroni drugim."*
+> Część czwarta (299-12-25) dołożyła **drugą oś, zachód–wschód** — i to ona zmienia rachunek, bo dopiero ona płaci.
+
+---
+
+## ETAP 0 — CO JUŻ STOI (stan na 300-02-25)
+
+Trzy ocalałe wieże: **Strażnicza, Pijaka, Bramna** · grobla w budowie, **cztery kafary** · komora celna przy bramie z **kartą celną od dziś** · miasteczko **1400 dusz, 211 palenisk** · Orbelo z trzema ludźmi i żelazem kafara na miejscu od ~300-02-06 · **tabela wymiarów w trzech odpisach** · plan przeczytany i poprawiony przez Wymana (300-01-26) · pakt z lady Barbrey (299-08-11).
+
+**Czego nie ma:** ekipy miejskiej, księgi przybyszów, ośmiu kafarów, odpowiedzi na siedem zleceń.
+
+---
+
+## ETAP I — ŻEBY W OGÓLE DAŁO SIĘ BUDOWAĆ
+### *teraz → wiosna 300 · Kasa 2 · to nie jest budowa, to jest zdejmowanie hamulców*
+
+1. **Kafary z czterech na osiem.** Rozkaz do cieśli i kowala, nie przelew.
+2. **Urząd stałego poziomu wody** — maester Weylin. *Pal trwa nie dlatego, że twardy, tylko dlatego, że nigdy nie wychodzi z wody.*
+3. **Księga przybyszów** — bo jedna trzecia miasteczka przyszła zimą znikąd.
+4. ### ROZSTRZYGNĄĆ SZCZELINĘ: STARY RUSZT ↔ NOWY.
+   Cech braavijski, 299-12-17, bez wahania: **nowego nie wiąże się ze starym.** Stary ruszt pod Fosą jest z czardrzewa, nowy będzie z olchy — będą pracować inaczej. Albo buduje się **obok, ze szczeliną, która ma prawo się ruszać**, albo schodzi tak głęboko, że stary ruszt jest obojętny — *„a to kosztuje tyle, co wojna"*.
+   **To jest decyzja, która musi zapaść, ZANIM nowa grobla dojdzie do starych murów. Potem będzie za późno i za drogo.**
+5. **Odpowiedź na siedem zleceń z 299-08-23** — lecznica, osadnicy, spichlerz, sprzedaż, sołtys, nauka od Reedów, raport budowy.
+
+**Miara postępu na palach:** *pal siadł wtedy, gdy dziesięć uderzeń wbija go płycej niż na palec.* Mierzy się **opór, nie głębokość**. **Głębokość kłamie, opór nie.**
+
+---
+
+## ETAP II — GROBLA I BRAMA
+### *to jest pierwszy etap, który sam na siebie zarabia*
+
+1. **Odcinek północny grobli** — Fosa → granica Przesmyku. Buduje dom Tally.
+2. **Wieża Bramna przebudowana w serce fortecy** — Wielka Śluza i komora celna w środku. Jedyne strzeżone przejście z traktu do miasta.
+3. **Mur kurtynowy** z ciosanego bazaltu, front na południe, kryty ziemią i mchem: *oddycha, nie pęka od wilgoci, a z daleka wygląda jak naturalne wzgórze.*
+4. **Wieże strażnicze i komory przy przerwach grobli** — *pobierają myto i pilnują mostów, więc utrzymują się same.*
+5. **Odcinki zwodzone** — mosty podnoszone z wież; w razie inwazji wróg zostaje uwięziony na wąskich odcinkach pośrodku mokradeł.
+
+> **Dlaczego ten etap płaci:** myto z grobli i cło z komory zaczynają wpływać, zanim stanie choć jeden dom miasta. **Wszystko dalej można finansować z tego, a nie z sakiewki.**
+
+---
+
+## ETAP III — MIASTO ŻYWE
+### *i tu jest kolejność, którą łatwo pomylić*
+
+**NAJPIERW DZIELNICA ZIELONA, POTEM RESZTA MIASTA.** Nie dlatego, że ogrody są ważne.
+
+> Szklarnie są ogrzewane od spodu piecami torfowymi, a **nadmiar pary idzie rurami w kamienice i wieże i ogrzewa całe miasto.** Gorąca woda spuszczana do kanałów sprawia, że **woda nigdy nie zamarza — miasto pływa przez całą zimę.**
+> ### SZKLARNIE NIE SĄ OGRODEM. SĄ KOTŁOWNIĄ PORTU.
+> Miasto zbudowane przed szklarniami zamarza w pierwszą zimę, a port zamarznięty nie jest portem.
+
+**Kolejność w mieście:**
+1. **Dzielnica Zielona** — szklarnie, warzelnia soli, torfiarnie, suszarnie ziół *(przy Basenie Północnym, odcięte kanałem ze względu na ogień)*
+2. **Kanał Wielki** jako oś + poprzeczne kanaliki odwadniające · nabrzeża z pali licowanych deskami
+3. **Port** — basen zamknięty, **jedna brama wodna** *(bo tak widać cały ruch naraz)*, waga, żurawie, i **wielkie ogrzewane stajnie, które zajmują więcej miejsca niż nabrzeże**
+4. **Miasto Dolne** — targ, składy, rzemiosło, karczmy
+5. **Budynki publiczne** — Waga Miejska, Skład Główny, Ratusz, Łaźnia, **Archiwum Domu** *(podwójne drzwi, piec pod podłogą, mur gruby — ma przetrwać pożar)*, Septa przy porcie, **gaj z czardrzewem w Mieście Górnym** *(miasto na Północy bez drzewa serca nie jest miastem północnym)*
+6. **Mchowe Jastrzębie** — straż na łodziach. *W mieście z kanałów łódź bije jeźdźca.*
+7. **POMARAŃCZOWY DWÓR** w Mieście Górnym — i to jest etap, na którym **rodzina przenosi się z Białego Portu na Fosę.**
+
+> **Dwór stoi ZA bramą, nie w bramie:** *pan, który mieszka w bramie, nie ma gdzie przyjmować, a pan, który przyjmuje w bramie, tej bramy nie zamknie.*
+> Sercem domu nie jest mroczna sala tronowa, tylko **Wielka Oranżeria spięta ze szklarniami miejskimi** — czyli dwór da się zbudować dopiero po Dzielnicy Zielonej, bo bez niej jest szklaną halą w mrozie.
+> **Zastrzeżenie ogniowe zostaje:** piec pod podłogą nie w ścianie, kominy w bazalcie, żadnego otwartego ognia w Oranżerii, **a Archiwum Domu NIE stoi w tym budynku.**
+
+---
+
+## ETAP IV — DRUGA OŚ: PRZEWŁOKA
+### *dopiero to jest majątek — i dopiero to jest niebezpieczeństwo*
+
+1. **GORĄCY PORT** u ujścia Fever — **ufortyfikowany od pierwszego dnia, nie po fakcie.** *Zachodni brzeg to woda Żelaznych Wysp; nieobwarowana przystań u ujścia rzeki jest zaproszeniem, nie portem.* Kto trzyma Fever u ujścia, zamyka Fosę od tyłu; kto nie trzyma — zostawił sobie tylne drzwi otwarte.
+2. **Spław rzeką Fever** — łodzie wzoru **MUŁ**; pod prąd ciągnie je **PSTRĄG**, wciągarka, która pływa: kabestan i kotwica wynoszona łódką w górę bystrza. **Ośmiu robi to, do czego na ścieżce holowniczej trzeba osiemdziesięciu.** Załoga: ludzie Przesmyku — *nie uprzejmość, tylko jedyna załoga, która zna wodę.*
+3. **Trakt Fosa – Cerwyn – Biały Port**, bita droga zimowa. Cerwyn dostaje przelot, myto i powód, żeby drogi pilnować.
+4. **Przenioska i włóka okrętowa** — przerzut ładunków, a potem samych kadłubów po naoliwionych płozach i walcach; droga włoki osobna od drogi wozów, prosta i utrzymywana mokra.
+
+> **ZASADA ZAMKNIĘTA, przyjęta 300-01-26:** **MIASTO CAILIN NIGDY NIE OTWIERA PRZYSTANI NA WSCHODNIM BRZEGU.** Gorący Port przyjmuje · Cailin **przerzuca** · Biały Port **handluje z Essos**. Prawo składu zostało wycofane, bo geografia załatwiła je lepiej niż umowa. Wyman chciał tego w planie, nie w kontrakcie: *„nie dlatego, że wam nie ufam — dlatego, że wam ufam, a waszemu prawnukowi nie mam skąd."*
+
+> ### I OSTRZEŻENIE, KTÓRE JEST CZĘŚCIĄ ETAPU, NIE PRZYPISEM:
+> *„To nie jest skrót. **To jest ominięcie Królewskiej Przystani.**"*
+> *„Tywin Lannister nie żyje wiecznie. **Ale Żelazny Tron żyje.** Ktokolwiek na nim usiądzie, policzy, ile stracił przez Przesmyk — i przyjdzie po Fosę nie dlatego, że jest bramą Północy, tylko dlatego, że jest **igłą, przez którą przechodzi cudze srebro**."*
+> **„Wasza brama przestanie być obronna. Zacznie być warta zdobycia."**
+>
+> **Dlatego mury liczą się od tego etapu inaczej — i dlatego Etap V nie jest ozdobą.**
+
+---
+
+## ETAP V — POKOLENIA
+
+1. **Wieże dostawiane aż do pierwotnej dwudziestki.** *To nie jest projekt jednego życia.*
+2. **Odcinek południowy traktu — przez Dorzecze ku Riverrun.** Biegnie przez obce państwo: **przedsięwzięcie dyplomatyczne tak samo jak inżynieryjne.**
+3. **Kierunek murów** — pytanie postawione przez maestera Luwina 299-09-08 i do dziś bez odpowiedzi:
+
+> Północ ma trzy mury i **żaden nie patrzy w tę samą stronę.** Mur patrzy na północ. Winterfell stoi pośrodku. **Fosa Cailin patrzy na południe.**
+> ### „Wasza forteca patrzy w złą stronę."
+> Jeśli Mur kiedykolwiek zawiedzie, **drugą ścianą Północy jest Fosa Cailin** — zbudowana przeciw wrogowi, który przyjdzie z przeciwnej strony niż ten, którego się boimy.
+> Mur kurtynowy na południe zostaje. Ale odbudowa dwudziestu wież **przestaje być ozdobą pokoleń, a zaczyna być pytaniem o kierunek.**
+
+---
+
+## ⚠️ TRZY ROZSTRZYGNIĘCIA, KTÓRE BLOKUJĄ ETAPY, A NIE ZADANIA
+
+| | co trzeba rozstrzygnąć | blokuje |
+|---|---|---|
+| **1** | **Szczelina stary ruszt ↔ nowy** — obok ze szczeliną, czy w dół „za cenę wojny" | Etap II, i tylko do czasu, aż grobla dojdzie do murów |
+| **2** | **Z której kasy co** — grobla i miasto to lenno (2), komora i brama to dochód Korony (3), spław i przewłoka to Dom (1). **Gorący Port nie ma przypisanej kasy w ogóle** | Etap IV |
+| **3** | **Kierunek murów** — brama na południe czy druga ściana Północy | Etap V, ale kamień kładzie się raz |
+
+> **Jedno zdanie całego zamierzenia, z 299-09-05:**
+> ### Czarne miasto z zielonym dachem, świecące pomarańczowo przez własną mgłę.
+
+---
+
+## ❓ SPRZECZNOŚĆ, KTÓREJ NIE ROZSTRZYGAM SAM
+
+W projekcie stoją obok siebie dwa zapisy o **prawie składu** i nie umiem ich pogodzić bez zgadywania:
+
+- **300-01-26, Biały Port:** *„żądanie prawa składu zostało wycofane, bo geografia załatwiła je lepiej niż umowa — miasto bez wschodniej wody nie utrzyma cudzego towaru, bo nie ma go czym stamtąd zabrać."*
+- **300-02-25, Fosa:** burmistrz czeka na **termin prawa składu** od trzech miesięcy, ludzie trzymają puste szopy w nadziei, a Symon ma napisać prawo **własną ręką przed przyjazdem Cerwyna**.
+
+**Dwie możliwości i wybór należy do gracza:**
+1. To **dwie różne rzeczy** — strategiczne prawo składu dla *miasta Cailin* wobec Białego Portu zostało wycofane, a burmistrz czeka na zwykłe **prawo o składach dla miasteczka** (waga, szopy, księga, składowanie towaru w tranzycie). Wtedy oba zapisy stoją i nic nie trzeba prostować.
+2. To **ta sama rzecz** i jeden z zapisów trzeba unieważnić.
+
+**Do czasu rozstrzygnięcia zadanie 2.1 zostaje w mocy** — bo burmistrz czeka realnie i termin jest spóźniony niezależnie od tego, którą treść dostanie.

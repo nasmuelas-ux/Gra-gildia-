@@ -64,6 +64,15 @@ _TRZY PUDELKA. Ani jeden czlowiek nie sluzy w dwoch. Przed kazda scena z NPC: sp
   - ### SZEW: **GARTH** — czlowiek LENNA stojacy przy komorze celnej KORONY - pobiera clo Kasy 3 reka lenna. Jedyny prawdziwy szew Fosy. Nie dostal pisma o granicach urzedu (obiecane przed przyjazdem Cerwyna).
   - ### SZEW: **POCZTA KORONY** — przelozony poczty odpowiada Beronowi w Winterfell, ale Garrick nia dysponuje, bo jest na miejscu. Chodzi na zdrowy rozsadek i kiedys przestanie.
 
+## 🧩 SPRAWY SIE PRZEPLATAJA — CZYSTE MA BYC ROZSTRZYGNIECIE, NIE SPRAWA
+_LUDZIE maja jedno pudelko. SPRAWY maja ich kilka i tak ma byc. Czyste musi byc nie to, kogo sprawa DOTYKA, tylko: KTO ROZSTRZYGA (jeden), Z CZYJEJ KASY (jedna), KTO PISZE, KTO CZYTA, i KTO NIE MOZE TEGO TKNAC._
+### SYMON JEST JEDNOCZESNIE: Namiestnikiem Korony, panem lenna Fosy i wlascicielem Domu Tally. KAZDA sprawa na Fosie przechodzi przez wszystkie trzy jego role naraz. To nie jest wada swiata - to jest osnowa calej gry.
+- **PRAWO SKLADU DLA MIASTA CAILIN** — dotyka: Korona, Lenno Fosy, Miasto Cailin, Dom Tally · **rozstrzyga: JUSTYCJARIUSZ CERWYN - bo Symon jest strona**
+- **KOMORA CELNA FOSY** — dotyka: Korona, Lenno Fosy · **rozstrzyga: KORONA (Kasa 3)**
+- **GROBLA I PRZENIOSKA** — dotyka: Korona, Lenno Fosy, Dom Tally · **rozstrzyga: ?**
+- **SPIS MIESZKANCOW MIASTECZKA** — dotyka: Lenno Fosy, Miasto Cailin · **rozstrzyga: ?**
+**Zamiast odsylac NPC, GM pyta:** Ktora CZESC tej sprawy jest twoja? · Kto to ROZSTRZYGA i czy ja jestem strona? · Z ktorej kasy to idzie? · Kto tego NIE MOZE tknac i dlaczego?
+
 ## ⏳ TERMINY Z DATA
 - **300-03-01** — OCHMISTRZ WYCHOWANKOW - ogloszenie nazwiska  _(Winterfell)_
 - **300-03-01** — DZIEN BILANSU

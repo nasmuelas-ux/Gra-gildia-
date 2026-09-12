@@ -137,6 +137,16 @@ if lud:
     for sz in (lud.get("SZWY") or []):
         A("  - ### SZEW: **%s** — %s" % (sz.get("kto","?"), sz.get("opis","")))
 
+spr = L("sprawy.json") or {}
+if spr:
+    A("\n## 🧩 SPRAWY SIE PRZEPLATAJA — CZYSTE MA BYC ROZSTRZYGNIECIE, NIE SPRAWA")
+    A("_" + spr.get("_zasada_glowna","") + "_")
+    A("### " + spr.get("_szew_glowny",""))
+    for sp in (spr.get("sprawy") or []):
+        A("- **%s** — dotyka: %s · **rozstrzyga: %s**" % (sp.get("nazwa","?"),
+            ", ".join(sp.get("dotyka", [])), sp.get("rozstrzyga", sp.get("wlasciciel_dochodu","?"))))
+    A("**Zamiast odsylac NPC, GM pyta:** " + " · ".join(spr.get("pytania_ktore_gm_ma_zadac_zamiast_odsylac", [])))
+
 ter = L("terminy.json") or {}
 if ter.get("terminy"):
     A("\n## ⏳ TERMINY Z DATA")

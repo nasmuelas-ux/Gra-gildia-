@@ -5010,17 +5010,17 @@
   {
    "id": "komory_wodne_dziura_w_poborze_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "filar": "KOMORY WODNE - dziura w poborze",
    "stan_watku": "ZYWY"
   },
   {
    "id": "zestawienie_dni_barka_komora_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 10,
-   "stan_watku": "ZAMKNIETY",
-   "stan_data": "300-02-25",
-   "stan_powod": "Kubel D - Juz zvoidowany w zapisie (Rozszerzenie IV - blad GM nie jest kosztem gracza)."
+   "_dziennik_nota": 11,
+   "stan_watku": "ZYWY",
+   "filar": "CZTERY STRUMIENIE - kto omija brame Fosy",
+   "stan_uwaga": "VOID zamkniecia z 300-02-25. Zvoidowana byla TYLKO klauzula przepadku - reszta watku zyje: cztery strumienie (kalendarz barki, ksiega bramy, budynek z podniesiona podloga, woz z lodu) maja status OTWARTE, a rozkaz o zawracaniu do bramy obowiazuje."
   },
   {
    "id": "uklad_celny_pobor_lenna_299_09",

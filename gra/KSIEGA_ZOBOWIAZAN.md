@@ -66,6 +66,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | ~~Symon → Garrick: granica urząd↔kupiectwo~~ | ### SKREŚLONE — granica istnieje od **299-09-10**, jest jedną z trzech założycielskich granic Kancelarii Namiestnika. Nie ma czego ustanawiać | — | 300-02-25 |
 | Garrick | włożyć arkusze z rozmowy z Willą do **księgi zamkniętej** — przy Symonie, żeby była data i świadek | przed wyjazdem **300-03-07** | 300-02-25 |
 | Symon | **spisywać ustalenia z Willą własną ręką** tego samego wieczoru — pisarzy przy niej nie ma | stale, od dziś | 300-02-25 |
+| Willa | **zbierać dokumentację wizerunkową** pod rosnącą linię w Kasie 1 — kwity z gościny, rachunki za dary, wpisy z fundacji, świadkowie. Tam audytuje **udokumentowanie**, nie zasadność; pusta kategoria go nie uspokoi | stale, od 300-03 | 300-02-25 |
+| ### Symon | ### **drugi, mniejszy strumień BEZ dokumentacji** — na cichego kupca i na szyfratora; „wizerunek" tego nie przykryje. **Skąd — nierozstrzygnięte** | przed 300-03-10 | 300-02-25 |
 | Willa → Symon | **kwartalny przegląd własnych liczb** — bez pisarzy, u Symona gdziekolwiek będzie; co mówiłam / co z tego wyszło / gdzie się pomyliłam | **300-05-25** | 300-02-25 |
 
 ---

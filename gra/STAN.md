@@ -18,7 +18,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 
 ## TERAZ
 - **Data:** 300-02-25 wieczor · zima (300)
-- **Miejsce:** WINTERFELL - komnata Namiestnika. Dwa dni do wyjazdu kolumny na Fose.
+- **Miejsce:** FOSA CAILIN - wlasne lenno. Przyjazd po czterech miesiacach. Cerwyn przyjezdza 2.-5. III na trzy dni.
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
 - **Zdrowie 85 · Sytosc 64 · Zmeczenie 58**
 

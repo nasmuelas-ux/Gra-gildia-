@@ -502,7 +502,10 @@
    "termin": "296-09-25 (okno arrivalu ~3-4 tyg; sledzic)",
    "wobec": "self",
    "_dziennik_stan": 9,
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "budowanie_majatku",
@@ -534,7 +537,10 @@
    "wobec": "nesta_braavijka",
    "stan": "ZAMKNIETA (sukces) — zysk zrealizowany, udzial wyplacony",
    "status": "",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "spolka_egzotyczna",
@@ -2498,7 +2504,10 @@
    "id": "kruk_walder_brod_odpowiedz_1106",
    "tytul": "Oczekiwana odpowiedz Waldera na kruk o brodzie",
    "status": "poselstwo_gotowe_wywiad_Willi_ruszony_299-06-08",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "abonament_widocznej_sily_1106",
@@ -2958,13 +2967,19 @@
    "id": "lew_prosi_o_stol_endgame_299_04",
    "tytul": "Lew prosi o stol - kapitulacja negocjowana (feeler przez Tyriona)",
    "status": "POKOJ_PODPISANY_299-04_WOJNA_ZAKONCZONA",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "namiestnik_krola_polnocy_swiatlo_299_04",
    "tytul": "Symon Namiestnikiem Krola Polnocy (jawnie) - poczatek fazy budowania",
    "status": "NOWY_ROZDZIAL_rzadzenie_i_budowa",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "rada_krola_natura_ludzi_bolton_299_04",
@@ -2988,7 +3003,10 @@
    "id": "wlosc_fosa_cailin_demografia_ekonomia_299_05",
    "tytul": "Wlosc Fosy Cailin - demografia, produkcja, druzyna, straz (remanent)",
    "status": "USTALONE_299-05-12",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
   },
   {
    "id": "ziarna_reeda_bolton_i_zima_299_05",
@@ -3018,13 +3036,19 @@
    "id": "odbudowa_firmy_i_rywal_braavijski_299_05",
    "tytul": "Odbudowa domu kupieckiego + braavijski rywal (obce srebro) - front Symona-kupca",
    "status": "ZVOIDOWANE_firma_HELD+UROSLA_zostaje_tylko_rywal_braavijski_do_przechytrzenia",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 10,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "remanent_dom_kupiecki_299_05",
    "tytul": "Skonsolidowany remanent domu kupieckiego (299-05, ramie po ramieniu)",
    "status": "TWARDY_AUDYT_299-05-24_majatek_netto_~1815jel_netto_~+120/mies",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
   },
   {
    "id": "dom_handlowy_tally_299_05",
@@ -3054,7 +3078,10 @@
    "id": "lenno_fosa_cailin_administracja_299_05",
    "tytul": "Administracja Lenna Fosy Cailin (osobna od Domu Handlowego) - urzedy, obsada, wakaty do rekrutacji",
    "status": "LENNO administracja W KOMPLECIE (Rzadca dobr=Warryn)",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
   },
   {
    "id": "ludzie_wlasni_namiestnika_299_05",
@@ -3078,7 +3105,10 @@
    "id": "rejestr_kancelarii_namiestnika_299_05",
    "tytul": "Rejestr kancelarii Namiestnika - praktyka spisywania uzgodnien (protokoly)",
    "status": "USTANOWIONY_299-05-25",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - OPERACJA WYKONANA. Kancelaria Namiestnika dziala; praktyka protokolowania uzgodnien weszla w zwyczaj."
   },
   {
    "id": "agenda_odpornosci_bialy_port_wyman_299_05",
@@ -3120,7 +3150,10 @@
    "id": "podroz_do_winterfell_299_05",
    "tytul": "Podroz do Winterfell (sprawy panstwa nazbierane) + propozycja dla Miry i Lyry",
    "status": "PRZYBYCIE_do_Winterfell_299-06-07",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "atelier_wzrost_pokoj_299_05",
@@ -3176,7 +3209,10 @@
    "id": "slubowanie_symona_stare_bogi_299_06",
    "tytul": "Symon modli sie do starych bogow Polnocy w bozogaju Winterfell (osiadl w krainie)",
    "status": "beat_tozsamosci",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "rada_funkcyjna_polnocy_299_06",
@@ -3218,7 +3254,10 @@
    "id": "podroz_fosa_blizniaki_riverrun_299_06",
    "tytul": "Plan podrozy: Winterfell -> Fosa (sasiedzi) -> Blizniaki (wesele) -> Riverrun; rodzina do Fosy",
    "status": "PRZYSTANEK6_RIVERRUN_KONIEC_OBJAZDU_299-07-06",
-   "_dziennik_nota": 24
+   "_dziennik_nota": 24,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "ekspansja_dom_handlowy_poludnie_299_06",
@@ -3236,13 +3275,19 @@
    "id": "okolnik_do_lordow_ucho_namiestnika_299_06",
    "tytul": "Okolnik do wszystkich lordow: 'ucho Namiestnika otworem, piszcie ze sprawami'",
    "status": "rozeslany",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "zakres_urzedu_namiestnika_299_06",
    "tytul": "Precyzja urzedu Namiestnika (3 wladze: wykonawcza/ustawodawcza/sadownicza) - projekt do ratyfikacji",
    "status": "projekt_do_ratyfikacji_Krol+wielka_rada",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
   },
   {
    "id": "projekt_ustroju_wolnej_polnocy_299_06",
@@ -3260,7 +3305,10 @@
    "id": "list_do_owena_moralny_korzen_299_06",
    "tytul": "List do Owena (septon/mentor moralny) - 'pamietam, przybede', relacja ze wszystkiego",
    "status": "ODPISANE_cieplo_Aemon_przemilczany_dar_na_potem",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "system_prawny_polnocy_299_06",
@@ -3333,7 +3381,10 @@
    "id": "wataha_starkow_w_komplecie_299_06",
    "tytul": "Wataha Starkow w komplecie - Robb jako brat, 'po co' Krola zywe (i Symona)",
    "status": "beat_tozsamosci/kompas",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "wznowienie_sprawy_rymana_299_06",
@@ -3379,7 +3430,10 @@
    "id": "mapa_sil_rodow_polnocy_299_06",
    "tytul": "Mapa rodow i sil zbrojnych Polnocy - order-of-battle + uklad lojalnosci (rachmistrz)",
    "status": "rozszerzone_o_dossier_10_kolumn_299-06-20",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
   },
   {
    "id": "lucan_sekretarz_tajnej_korespondencji_299_06",
@@ -3457,7 +3511,10 @@
    "id": "zasoby_i_zagrozenia_bagna_fosy_299_06",
    "tytul": "Zasoby i zagrozenia bagna Fosy (fauna Przesmyku) - jaszczurolwy, ptactwo, wegorz, futro, owad",
    "status": "SPISANE_299-06-25_tropy_w_ruchu",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
   },
   {
    "id": "skora_jaszczurow_towar_hodowla_299_06",
@@ -3573,7 +3630,7 @@
    "id": "placowka_rozdroze_tally_299_07",
    "tytul": "Placowka Tally na Rozdrozu (Crossroads Inn) - wezel wywiadu+skladu+brama Doliny",
    "status": "OBSADZONA_299-07-10_wg_wzoru_medycejskiego",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "dolina_arrynow_odsloniecie_299_07",
@@ -3585,7 +3642,10 @@
    "id": "szkatulka_willi_plon_299_07",
    "tytul": "Plon szkatulki Willi (07-24) - 3 prosby: kanal pld, cien za Baelishem, zrodlo Dorne",
    "status": "DO_DECYZJI_SYMONA",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "cien_za_baelishem_299_07",
@@ -3627,7 +3687,10 @@
    "id": "przybycie_winterfell_wesele_raporty_299_08",
    "tytul": "Przybycie do Winterfell 299-08 - wesele Robba i raporty do rak wlasnych",
    "status": "PRZYBYL_299-08-04",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "rada_wojenna_mur_299_08",
@@ -3676,7 +3739,10 @@
    "id": "skarbnik_rekrutacja_bialy_port_299_08",
    "tytul": "Skarbnik Korony - nici rekrutacji w Bialym Porcie (nie-lord)",
    "status": "PODWOJNY_ZACIAG_299-08-04_Skarbnik+Dyrektor_Domu_Starkow_kandydaci_dojrzeja",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - OPERACJA WYKONANA. Gawen siedzi na urzedzie Skarbnika Korony. Nie-lord, zgodnie z doktryna URZAD NIE KREW."
   },
   {
    "id": "spis_fiskalny_korony_299_08",
@@ -3712,7 +3778,10 @@
    "id": "status_symona_szlachcic_299_08",
    "tytul": "KOREKTA STANU: Symon = Lord/szlachcic (NIE lowborn)",
    "status": "ZANOTOWANE_299-08-05",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "nastroje_lordow_wobec_reform_299_08",
@@ -3730,7 +3799,10 @@
    "id": "wielka_rada_lordow_jawnosc_299_08",
    "tytul": "Wielka Rada Lordow przy weselu - jawnosc jako lek na strach i bron na Boltona (+ratyfikacja ustroju)",
    "status": "ODBYTA_299-08-17_TRIUMF_(rzut90)_konstytucyjny_fundament_wolnej_Polnocy_za_zgoda_lordow",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 11,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "kodeks_prawa_polnocy_299_08",
@@ -3766,7 +3838,10 @@
    "id": "rada_przeglad_sytuacji_299_08",
    "tytul": "Rada funkcyjna - przeglad sytuacji 08-11 (bieżace/wnetrze/wesele/Mur/Zelazne Wyspy)",
    "status": "ODBYTA_299-08-11_2_zaniedbane_fronty=Mur+Zachod",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "interim_obrona_zachodu_zelazni_299_08",
@@ -3835,7 +3910,10 @@
    "id": "gwardia_krolewska_299_08",
    "tytul": "ZIMOWA STRAZ - Gwardia Krola Polnocy (karta zalozycielska przyjeta; Pierwszy Miecz=Ser Rodrik Cassel)",
    "status": "USTANOWIONA+POSWIECONA_299-08-12_obrzed_pod_czardrzewem_Cassel_zaprzysiezony_(gra/zimowa_straz_gwardia_krolewska.md)",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - OPERACJA WYKONANA. ZIMOWA STRAZ - karta zalozycielska przyjeta, Ser Rodrik Cassel Pierwszym Mieczem."
   },
   {
    "id": "poselstwo_wolne_miasta_braavos_pentos_299_08",
@@ -3853,7 +3931,10 @@
    "id": "rolka_musteru_299_08",
    "tytul": "Rolka musteru Polnocy (Marszal Osric) - stan choragwi",
    "status": "W_BUDOWIE_299-08-13_szkielet_wielkich_rodow_dziura_na_klanach",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
   },
   {
    "id": "stala_armia_1000_299_08",
@@ -4064,7 +4145,10 @@
    "id": "biurko_namiestnika_299_08_29",
    "tytul": "Sprawy Korony przy biurku - petycje, odpisy, i dwie rzeczy czekajace na slowo (karta Wintertown, urzad rekrutacyjny)",
    "status": "OTWARTE_299-08-29",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
   },
   {
    "id": "zniwa_w_sniegu_i_pierwsi_przybysze_299_08",
@@ -4218,7 +4302,7 @@
    "id": "jon_snow_po_drugiej_stronie_299_09",
    "tytul": "JON SNOW - wyszedl z Objazdem i nie wrocil; widziany zywy wsrod dzikich, dobrowolnie",
    "status": "OTWARTY_299-09-07;_Catelyn_wiezie_list_krolowi_na_spotkanie",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "mobilizacja_trzy_stopnie_299_09",

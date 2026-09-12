@@ -348,6 +348,8 @@ To nie znaczy „brak postępu". To znaczy **nikt nie otworzył następnego krok
 
 **36f. SKUTEK OPERACJI NIE WRACA DO OPERACJI — WRACA DO SWOJEJ SPRAWY.** Operacja się zamyka, jej ślad zostaje w filarze. *(Dowód kazirodztwa zamknięty; to, że Joffrey rządzi bez prawa, żyje dalej w Stanie Południa.)*
 
+**36h. TRZECI RODZAJ: OBRAZ ŚWIATA NA DATĘ.** Remanent, spis, mapa sił, rolka musteru, demografia włości, zakres urzędu — **to nie są wątki i nie są śmieciem.** Gracz nazwał to dokładnie: *„stanowią tło i jednocześnie dookreślają całość i rozpoznanie świata na dany moment"*. Taka rzecz **nie zamyka się i nie otwiera — bywa aktualna albo przestarzała.** Ma datę sporządzenia i tę datę się czyta razem z treścią. Stary obraz nie kłamie — mówi prawdę o dniu, w którym powstał, i dlatego wolno go trzymać wiecznie. **Nie wolno tylko prowadzić z niego świata jak z dzisiejszego.**
+
 **36g. PUSTKI POD FILAREM NIE WOLNO STWIERDZIĆ, CZYTAJĄC FILAR.**
 Operacja z definicji (36a) **nie mieszka w filarze** — mieszka u siebie i tylko go wskazuje. Kto patrzy z góry w dół, widzi pustkę, której nie ma. Trzeba poszukać, **co na filar WSKAZUJE**: u ludzi, w terminach, w porządku obrad Rady, w Księdze Zobowiązań. Dopiero gdy nie wskazuje **nic i nikt**, filar jest naprawdę opuszczony.
 > *Dopisane po własnej kompromitacji 300-02-25: wypisałem siedem filarów jako opuszczone. Gracz przeszedł po wszystkich siedmiu — **upadło siedem z siedmiu**. Każdy miał otwartą operację, tyle że mieszkającą gdzie indziej. Tak samo powstał mit, że „stoimy w miejscu": nie staliśmy. Patrzyłem w złe miejsce i brałem **własną ślepotę za bezruch świata** — ta sama pomyłka co zasada 7, tylko zrobiona na poziomie całego rejestru zamiast pojedynczego człowieka.*

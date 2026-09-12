@@ -566,7 +566,9 @@
    "wobec": "torsen_drwal",
    "_dziennik_stan": 2,
    "status": " || 11-10: PROBNA PARTIA FUTER/SKOR/BURSZTYNU WYSZLA Bialym Nozem (transport drewna Torsen/Halvard) — noga WYWOZOWA spolki egzotycznej w drodze do Braavos; wynik/sprzedaz za jakis czas. || 12-20 WYNIK (rzut 19): probna partia wywozowa sprzedana w Braavos - kanal dziala LOGISTYCZNIE, ale marza cienka (~break-even/lekko minus) po frachcie+doli+miekkim rynku. Teza marzy futra/bursztyn->Braavos NIEPOTWIERDZONA; potwierdza trzezwa mape Nesty (surowy eksport = niska marza). Reconsider viability spolki egzotycznej; nie skalowac wywozu bez edge/lepszego towaru. || 297-03-15 WERDYKT (rzut 93): kanal/Halvard przetrwali zime DOBRZE - podaz polnocnego towaru nienaruszona, pierwsze tratwy ~04. Port panikowal na wyrost (Symon skalibrowal to juz 02-22 - vindykacja). NIE zmienia to tezy z 12-20 (raw fur/bursztyn->Braavos = cienka marza): grac na STABILNOSCI i info-edge, nie na wolumenie surowca. Wartosc: pewnosc podazy (kolodzieje, ceny) + zwalidowany osad Symona.",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "KANAL POLNOCNY - futra",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "sojusz_kolodzieje",
@@ -960,7 +962,9 @@
    "status": "otwarty",
    "priorytet": "wysoki",
    "_dziennik_opis": 7,
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "filar": "GARTH - celnik Fosy",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "nabrzeze_tropy_wiosna",
@@ -3433,7 +3437,9 @@
    "tytul": "System oswiaty Polnocy (5 wezlow od 299-06-12) + UZUPELNIENIE 09-16: lancuch (braz-miara, czardrzew-pamiec, stal-prawo), stroj, przysiega, Theomore glowa Straznicy Zimy, LUWIN MISTRZ NAUKI w Radzie",
    "status": "otwarty",
    "_dziennik_nota": 11,
-   "priorytet": "wysoki"
+   "priorytet": "wysoki",
+   "filar": "SYSTEM OSWIATY POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "starkport_zachodni_port_sea_dragon_point_299_06",
@@ -3752,7 +3758,9 @@
    "id": "placowka_rozdroze_tally_299_07",
    "tytul": "Placowka Tally na Rozdrozu (Crossroads Inn) - wezel wywiadu+skladu+brama Doliny",
    "status": "OBSADZONA_299-07-10_wg_wzoru_medycejskiego",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "PLACOWKA NA ROZDROZU",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "dolina_arrynow_odsloniecie_299_07",
@@ -4002,7 +4010,9 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 21
+   "_dziennik_nota": 21,
+   "filar": "RAMSAY - ucho Willi",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "karstark_linia_pekniecia_wschod_299_08",
@@ -4021,7 +4031,9 @@
    "id": "program_okretow_polnocy_299_08",
    "tytul": "Program Okretow Polnocy - modelowe kadluby (handlowe/wojenne/rzeczne) w stylu polnocnym",
    "status": "RUSZONY_299-08-12_zalazkowo_cela_projektowa_Bialy_Port+Glebokorzen_wpis_fundament_(zima=ziarno_first)",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 11,
+   "filar": "PROGRAM OKRETOW POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "kryzys_zimowego_ziarna_299_08",
@@ -4089,7 +4101,9 @@
    "id": "poselstwo_wolne_miasta_braavos_pentos_299_08",
    "tytul": "Poselstwo Namiestnika do Braavos i Pentos (z Nesta) - bezposredni handel = niezaleznosc gosp. od Westeros",
    "status": "NESTA_PLYNIE_299-08-28;_najpierw_Braavos_(Hal_i_Willa_zgodnie);_kantor_Nesty_do_przejecia_przez_Dom_na_czas_nieobecnosci",
-   "_dziennik_nota": 35
+   "_dziennik_nota": 35,
+   "filar": "POSELSTWO DO WOLNYCH MIAST",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "robb_do_freyow_i_regencja_winterfell_299_08",
@@ -4273,7 +4287,9 @@
    "id": "czym_ma_byc_bran_stark_299_08",
    "tytul": "Czym ma byc Bran Stark - pytanie otwarte, na ktore Symon nie ma odpowiedzi",
    "status": "PRZESUNIETY_299-09-06:_Bran_dostal_PRAWO_PYTAC_i_odpis_projektu_do_recenzji",
-   "_dziennik_nota": 18
+   "_dziennik_nota": 18,
+   "filar": "BRAN STARK - czym ma byc",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "prawo_zaginionych_299_08",
@@ -4318,7 +4334,9 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 12
+   "_dziennik_nota": 12,
+   "filar": "SOLTYSI I SAMORZAD LENNA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zasada_uczniow_przy_urzedzie_299_08",
@@ -4330,7 +4348,9 @@
    "id": "odpowiedzialni_za_budowy_korony_299_08",
    "tytul": "Dwaj odpowiedzialni za budowy Korony: Przystan Wilka i Dustinport (starzy praktycy bez rodu + pisarz)",
    "status": "OBSADZONE_299-08-27_(rzut_84)",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "ODPOWIEDZIALNI ZA BUDOWY KORONY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "spotkanie_ze_stannisem_pentos_299_08",
@@ -4480,7 +4500,9 @@
    "status": "otwarty",
    "_dziennik_nota": 49,
    "priorytet": "wysoki",
-   "termin": "wyjazd 299-09-22, wyplyniecie ~11-07, Pentos grudzien"
+   "termin": "wyjazd 299-09-22, wyplyniecie ~11-07, Pentos grudzien",
+   "filar": "OBJAZD POBOROWY WSCHODU",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "projekt_cailin_trakt_forteca_miasto_299_09",
@@ -4533,13 +4555,17 @@
    "status": "otwarty",
    "_dziennik_nota": 23,
    "priorytet": "wysoki",
-   "termin": "Osric w Czarnym Zamku koniec pazdziernika 299"
+   "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
+   "filar": "MUR - Mance Rayder i lud za Murem",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "jon_snow_po_drugiej_stronie_299_09",
    "tytul": "JON SNOW - wyszedl z Objazdem i nie wrocil; widziany zywy wsrod dzikich, dobrowolnie",
    "status": "OTWARTY_299-09-07;_Catelyn_wiezie_list_krolowi_na_spotkanie",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "JON SNOW",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "mobilizacja_trzy_stopnie_299_09",
@@ -4737,7 +4763,9 @@
    "id": "eskadra_ktora_lowi_koszt_floty_299_09",
    "tytul": "Koszt pierwszej eskadry i pytanie, czy wolno im lowic",
    "status": "do_rozstrzygniecia_przez_krola",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "DUSTINPORT I ESKADRA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "przedsiewziecia_bez_nazwiska_299_09",
@@ -4995,7 +5023,9 @@
    "status": "otwarty",
    "_dziennik_nota": 7,
    "priorytet": "sredni",
-   "tytul": "Stary Zamek: JADE I NIE TYKAM NICZEGO - zadnej rozmowy w cztery oczy, swiadek Skarbnika, nota do kancelarii; czlowiek Garricka rozdzielony w czasie, nie wstrzymany"
+   "tytul": "Stary Zamek: JADE I NIE TYKAM NICZEGO - zadnej rozmowy w cztery oczy, swiadek Skarbnika, nota do kancelarii; czlowiek Garricka rozdzielony w czasie, nie wstrzymany",
+   "filar": "KORZENIE SYMONA - Stary Zamek",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "p_o_rodwella_dwie_polowy_299_09",
@@ -5040,7 +5070,9 @@
   {
    "id": "clo_bialego_portu_czyja_linia_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 10,
+   "filar": "CLO BIALEGO PORTU",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zsumowanie_myta_i_cla_na_fosie_299_09",
@@ -5096,7 +5128,9 @@
    "_dziennik_nota": 1,
    "priorytet": "wysoki",
    "termin": "wygasa 300-01-15 albo z powrotem Namiestnika",
-   "tytul": "Stopien I mobilizacji (~200 mieczy, 10 dni) - upowaznienie z gory: imiennie ser Alyn / marszalek Osric, tylko na fakt, z obowiazkiem meldunku"
+   "tytul": "Stopien I mobilizacji (~200 mieczy, 10 dni) - upowaznienie z gory: imiennie ser Alyn / marszalek Osric, tylko na fakt, z obowiazkiem meldunku",
+   "filar": "MOBILIZACJA - stopien I",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "rejestr_danin_polnocy_299_09",
@@ -5157,7 +5191,10 @@
    "priorytet": "wysoki",
    "tytul": "ZJAZD OGLOSZONY: zimowy 299-10-05 (krolowa, przysiega na Korone, obwieszczenie nastepstwa), Wielka Rada 300-04-01 z data kalendarzowa. Kazdy przywozi swoj prowiant; 20-35 smokow z monety, nie z rezerwy. Imienia dziedzica w wezwaniu NIE MA",
    "_dziennik_nota": 3,
-   "termin": "299-10-05 zjazd zimowy; 300-04-01 Wielka Rada"
+   "termin": "299-10-05 zjazd zimowy; 300-04-01 Wielka Rada",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel E - zdarzenie. Zjazd odbyl sie 299-10-05: przysiegi na Korone zlozone, krolowa przedstawiona, BRANDON STARK OGLOSZONY DZIEDZICEM przy choragwiach - wszystko wedle uchwaly z 299-09-16 i beze Symona, tak jak sam zazadal."
   },
   {
    "id": "powiedziec_branowi_i_catelyn_o_nastepstwie_299_09",
@@ -5174,7 +5211,9 @@
    "status": "otwarty",
    "priorytet": "wysoki",
    "tytul": "RICKON - liczba na kiju przestala byc prawdziwa (60-70 nocy -> realnie 100-120). Poprawic PRZED wyjazdem, nie po: \"kij ma miec dobra liczbe od pierwszego karbu\"",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "filar": "RICKON",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "opieka_nad_dziecmi_starkow_jako_urzad_299_09",
@@ -5339,7 +5378,9 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 11,
+   "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "list_warunkowy_obrony_korony_299_09",
@@ -5417,12 +5458,16 @@
   {
    "id": "raport_osrica_z_muru_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "filar": "OSRIC - raporty z Muru",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "harrion_karstark_poszukiwanie_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "filar": "HARRION KARSTARK - poszukiwanie",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "napad_w_borze_hornwood_299_11",
@@ -5478,7 +5523,9 @@
   {
    "id": "ZYCIE_PRYWATNE",
    "status": "otwarty",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 10,
+   "filar": "ZYCIE PRYWATNE - Mira, Lyra, rodzina",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "lista_wymian_jencow_korony_299_11",
@@ -5575,47 +5622,66 @@
   {
    "id": "strategia_krolestwa_polnocy_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "STRATEGIA KROLESTWA POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "kamieniczka_schody_zamkowe",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "KAMIENICZKA PRZY SCHODACH",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "bilans_domu_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "filar": "BILANS DOMU TALLY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "dom_audytowy_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "DOM AUDYTOWY TALLY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "kto_pyta_o_polnocne_zboze_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "KTO PYTA O POLNOCNE ZBOZE",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "relief_domu_tally_299_05",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "RELIEF DOMU TALLY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "podroz_bialy_port_winterfell_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel E - zdarzenie. Podroz odbyta."
   },
   {
    "id": "rejestr_rozwoju_polnocy_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "REJESTR ROZWOJU POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "przystanie_ladunkowe_wschodu_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "PRZYSTANIE LADUNKOWE WSCHODU",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -5630,57 +5696,81 @@
   {
    "id": "zakaz_wylacznosci_faktora_i_porty_jako_komory_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "ZAKAZ WYLACZNOSCI FAKTORA / porty jako komory",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "filar": "WIELKA RADA 300-04-01",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "traktat_handlowy_z_dorzeczem_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "TRAKTAT HANDLOWY Z DORZECZEM",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "cztery_puste_miejsca_na_nazwiska_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "CZTERY PUSTE MIEJSCA NA NAZWISKA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "cztery_listy_przedpoludnia_300_02_07",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel E - zdarzenie. Cztery kruki wyszly 300-02-07 przed poludniem; piaty czekal na pieczec Krola. Wyslane - skutki zyja w swoich watkach."
   },
   {
    "id": "rachunek_drogi_i_liczba_dla_rickona_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel E - zdarzenie. Rachunek zrobiony, wyjazd przesuniety na 300-02-19, postoj u Cerwyna wpisany w trase. Liczba Rickona zyje osobno w rickon_drugie_ogniwo_linii."
   },
   {
    "id": "objazd_korony_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "OBJAZD KORONY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zeszyt_sansy_kto_komu_ustepuje_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "ZESZYT SANSY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "znajdowanie_ludzi_ktorzy_umieja_liczyc_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "LUDZIE, KTORZY UMIEJA LICZYC",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "szkola_tallych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "filar": "SZKOLA TALLYCH",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "mchowe_jastrzebie_straz_lenna_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4,
+   "filar": "MCHOWE JASTRZEBIE - straz lenna",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
@@ -5694,17 +5784,23 @@
   {
    "id": "wychowankowie_winterfell_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "filar": "WYCHOWANKOWIE WINTERFELL",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "DANINA_LENNA_299_09_04",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "DANINA LENNA I KALIBRACJA DANIN",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zelazne_wyspy_theon_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "ZELAZNE WYSPY - Theon",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "lista_jencow_korony_polnocy_299_11",

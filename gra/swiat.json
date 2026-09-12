@@ -5,7 +5,7 @@
   "dzien": 1,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "popoludnie",
  "sezon": "zima (300)",
  "pogoda": "RZUT 88 (300-03-01) - PIERWSZY POGODNY DZIEN OD TYGODNI, ale wygrany tylko rano. Mroz z nocy 28. utrzymal sie do switu, wiec ziemia jest TWARDA I ROWNA; slonce po drugiej godzinie zaczyna odpuszczac wierzch. SKUTKI: (1) OKNO PODROZNE - najlepsze od trzech tygodni i ZAMYKA SIE OKOLO POLUDNIA; po nim wierzch rozmieka i kolein nie da sie przejechac kolem; (2) wszystko, co ma dzis wyjechac (szesc pism, kolumna trzech pisarzy do Gawena), wyjezdza w tym samym oknie albo czeka do jutra; (3) POMIAR PRZEWLOKI - pierwszy dzien, w ktorym da sie ciagnac sznur po twardym gruncie; (4) ludzie wyjda na slup, bo nie pada - przywilej przeczyta dzis wiecej ludzi niz przez trzy poprzednie dni razem.",
  "dzien_tygodnia_nr": 6,
@@ -141,7 +141,7 @@
  "lokacja": "FOSA CAILIN. DZIEN BILANSU. Cerwyn 2.-5. III. Wyjazd 300-03-07.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "ranek",
+ "pora_dnia": "popoludnie",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {

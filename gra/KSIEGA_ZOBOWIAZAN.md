@@ -82,7 +82,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Garth | karta celna w użyciu przy komorze | od nadania | 300-02-25 |
 | Symon | pod jakim **znakiem** jadą ludzie Willi + **co sprzedają** *(sól i ziarno trafiają do tego, kto prowadzi księgę zakupów)* | przed wjazdem | 300-02-05 |
 | Hal | wykupić **weksel Domu Tally leżący na Dreadforcie** od 299-10-20 — podpis Symona w cudzej ręce | pilne | 300-02-07 |
-| **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE | 300-02-05 |
+| **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE — **przypomnienie wysłane 300-02-27**, jedno zdanie, bez nazwiska: *„podaję datę"*. **Osobna karta**, nie razem z prośbą o zwyczaj | 300-02-27 |
 | Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |
 | **Gawen + Hal** | **ustalić SUMĘ zwrotu** — metoda stoi od 299-09-04 *(stawka ogłoszona z góry, „nie ma czego audytować, jest cena")*; **zwrot W NATURZE**, wierzyciel to **Kasa 1** | ### brak samej sumy i terminu | 300-02-25 |
 | Symon | **granice urzędu także dla straży Hendry'ego przy komorze** — kogo wolno zatrzymać, czego NIE wolno, do czyjej księgi wpis | z pismem dla Gartha | 300-02-25 |

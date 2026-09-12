@@ -3531,7 +3531,7 @@
    "id": "szklane_ogrody_model_zimy_299_06",
    "tytul": "Szklane ogrody Winterfell jako model przetrwania zimy dla calego krolestwa (obserwacja Miry - ZIARNO, nierozpalone)",
    "status": "ZAPROJEKTOWANE_dla_Fosy_torfem_grzane_299-06-25",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "kruk_nocna_straz_mur_299_06",
@@ -3785,7 +3785,7 @@
    "id": "apteka_bagna_fosy_mech_zioła_299_06",
    "tytul": "Apteka bagna Fosy - mech leczniczy i zioła jako druga (lepsza) noga gospodarcza; gleboka wiedza=krannogowie/Reed",
    "status": "ODKRYTE_299-06-23_rozwinac_przez_Reeda",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "operacja_torf_za_chleb_fosa_299_06",
@@ -3803,7 +3803,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -4568,7 +4568,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 17,
+   "_dziennik_nota": 18,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -4758,7 +4758,7 @@
    "id": "spis_przedsiebiorstw_299_09",
    "tytul": "SPIS PRZEDSIEBIORSTW domu i lenna - inwentarz wlasny w porzadku trzech kas",
    "status": "SPORZADZONY_299-09-05",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -6098,7 +6098,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [

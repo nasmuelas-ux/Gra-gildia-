@@ -46,6 +46,12 @@ Na start tylko to, co pewne z ostatnich dni:
 | Warryn + Orland Korzec | **A · jedna karta co 10 dni.** **ZAPAS** (jest za murem): gęby · plon · zapas · torf · szklarnie. **DOWÓZ** (osobno, nie doliczać do zapasu): **sól i ryba u Hala w Białym Porcie — ile leży, ile dni drogi, czy trakt stoi.** Na dole jedna liczba | **od 300-02-26** | 300-02-25 |
 | Orland Korzec | **C · rozgrodzić skład na cztery przegrody**, każda z kreską ogłoszoną z góry: ziarno siewne, żywność na rok, rezerwa na klęskę, obrok. **Klucz u niego, księga u pisarza grodzkiego, rządca ma wgląd bez klucza** | **300-03-07** | 300-02-25 |
 | Orland + Warryn | **D · kto trzyma, nie decyduje** — Orland wydaje na liczbę Warryna; **odmowa tylko na piśmie, z powodem** | **300-03-07** | 300-02-25 |
+| ### Symon + Weylin | ### **MŁYN: wiatrak czy koło w Wielkiej Śluzie** — i **gniazdo na wał, ZANIM komora się zamknie.** Potem kucie w kamieniu, który sami postawiliśmy | ### **decyzja o tygodniach** | 300-02-25 |
+| ### Symon → Howland Reed | ### **spytać PRZED słupem** o jaszczurołwy, futra, żaby i gady. Wymiana z 299-06-27 była wymianą sojuszników, **nie przemysłem z ceną**. *Za dwa lata krannogmenowie pracowaliby u was na tym, co było ich* | ### **przed ogłoszeniem przywileju** | 300-02-25 |
+| Symon → burmistrz | **przywilej bagienny: lord nadaje, MIASTO SADZA.** Wydany ponad jego głową powie mu, że jest pomijany — a czeka trzy miesiące na prawo składu | z przywilejem | 300-02-25 |
+| ### Warryn / Orland | ### **przeliczyć przywilej: ile warsztatów, ile narzędzi, ile budynków, w jakim tempie** — Kasa 2 płaci już za robotę, porękę i wolniznę, a danina Koronie to 40 smoków rocznie | ### nieprzeliczone | 300-02-25 |
+| Symon | **KUŹNIA IDZIE PIERWSZA** — żelazo bagienne robi narzędzia dla ośmiu pozostałych rzemiosł; zimą nikt nie przywiezie dziewięciu kompletów | przed resztą warsztatów | 300-02-25 |
+| Symon | **przywilej nie ma właściciela ani daty** — rozkaz bez obu już raz nie został wykonany (299-10-01) | **przed 300-03-07** | 300-02-25 |
 | Warryn | **poręka siewu na słup rano: DŁUG Z DATĄ** — korzec za korzec, bez lichwy, zwrot po żniwach; wpis pisarz grodzki, świadkują dwaj z ławy wsi. **Kto nie wziął, nic nie jest winien** | **300-02-26** | 300-02-25 |
 | ### ławy przysięgłych | ### **żniwa 300 — pierwsza EGZEKUCJA, nie wybór.** Ktoś nie odda i ława będzie musiała ściągnąć od sąsiada, którego zna z imienia. *Wtedy się okaże, czy ławy są urzędem, czy ozdobą* | ### żniwa 300 | 300-02-25 |
 | Orland Korzec | **szklarnie wchodzą do karty jako pozycja żywnościowa** — i obok nich **ile opału zjadają**. Ten sam torf grzeje chałupy: *świeże jadło zimą kupujemy ciepłem, którego nie ma w domach* | z kartą od 300-02-26 | 300-02-25 |
@@ -110,6 +116,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Torfiarnie · torf-za-chleb** | Warryn | 299-10-01 — **trzymają ludzi przy robocie w zimie** |
 | **Warzelnia i solarnia Domu — BIAŁY PORT** *(Kasa 1; rozkaz do Hala 299-08-12)* | **HAL** | 299-10-01 — solona ryba w składzie **Domu w Białym Porcie**, 6–8 dni od Fosy |
 | **Sąd grodzki** | **RODERYK** | ### bez rubryki. Melduje 300-03-01 |
+| **MŁYN Fosy** *(regale lorda — nie ma kogo pytać)* | ### NIKT | ### rozkazany 300-02-25; wiatrak czy koło w śluzie — **nierozstrzygnięte** |
+| **Przywilej bagienny — 9 rzemiosł** *(`gra/przywilej_bagienny_fosa_300_02.md`)* | ### NIKT | ### rozkazany 300-02-25; **kuźnia pierwsza**; ④⑦⑨ czekają na Howlanda |
 | **Spis flory Przesmyku** | Wystan + Nina | ### 299-09-08 — **5,5 mies.** Melduje 300-03-01 |
 | **Obrys gruntu projektu** | **WEYLIN (woda) + ORBELO (kamień)** | 300-02-06 — chodzą po gruncie; *cisza w rejestrze to nie cisza na ziemi* |
 | **Przystań Wilka** | dawny brygadzista murarski z Białego Portu (bez imienia — Gawen 299-08-27) | ### NIGDY NIE MELDOWAŁ — bo nikt nie pytał. **Meldunek 300-03-01** |

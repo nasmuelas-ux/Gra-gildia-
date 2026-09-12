@@ -2437,7 +2437,7 @@
    "tytul": "Budowa instytucji Domu (Willa/wywiad + Lucan/polityka)",
    "status": "aktywny",
    "_dziennik_stan": 2,
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "filar": "WYWIAD DOMU - Willa i Lucan",
    "stan_watku": "ZYWY"
   },
@@ -4242,7 +4242,7 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 22,
+   "_dziennik_nota": 23,
    "filar": "RAMSAY - ucho Willi",
    "stan_watku": "ZYWY"
   },
@@ -4865,7 +4865,7 @@
    "id": "trop_ognia_w_bialym_porcie_299_09",
    "tytul": "Trop ognia w Bialym Porcie - wyzwoleniec z tatuazem plomieni",
    "status": "wyslane_czeka_na_pogode",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "lokalizacja_thorosa_z_myr_299_09",

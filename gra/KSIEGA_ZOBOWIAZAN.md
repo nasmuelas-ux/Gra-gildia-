@@ -82,7 +82,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Garth | karta celna w użyciu przy komorze | od nadania | 300-02-25 |
 | Symon | pod jakim **znakiem** jadą ludzie Willi + **co sprzedają** *(sól i ziarno trafiają do tego, kto prowadzi księgę zakupów)* | przed wjazdem | 300-02-05 |
 | **Symon → Roose Bolton** | **list Domu, NIE pod pieczęcią urzędu:** *co z naszych papierów leży w księgach Dreadfortu* + prośba o umożliwienie **Halowi** uregulowania w całości, gotówką albo towarem. **Nie pytać o ten jeden weksel** | wysłany 300-02-27 | 300-02-27 |
-| **Symon → Hal** | **instrukcja TĄ SAMĄ POCZTĄ, nie na spotkaniu** — inaczej Roose się zgodzi, a Hal nie będzie wiedział, że ma płacić | z listem do Dreadfortu | 300-02-27 |
+| **Symon → Hal** | *(instrukcja „wykupić" stoi od 300-02-07)* — jedno zdanie tą samą pocztą: **napisałem do Dreadfortu; jeśli odpowiedzą — PŁAĆ, bez pytania mnie** | z listem do Dreadfortu | 300-02-27 |
 | ### CO ŚLEDZIĆ | ### **odpowiedź Dreadfortu — każda coś mówi:** przyjmie zapłatę *(papier wraca)* · „nic takiego nie leży" *(poszedł dalej albo nie odda)* · milczenie | ### przed 300-04-01 | 300-02-27 |
 | **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE — **przypomnienie wysłane 300-02-27**, jedno zdanie, bez nazwiska: *„podaję datę"*. **Osobna karta**, nie razem z prośbą o zwyczaj | 300-02-27 |
 | Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |

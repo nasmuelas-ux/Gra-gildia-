@@ -231,11 +231,30 @@
       }
     ],
     "pisarze_kancelarii": {
-      "imiona": "NIENAZWANI - i to jest w porzadku (zasada 12: kryterium to OBSADZENIE, nie nazwisko)",
-      "kto": "pisarze Kancelarii Namiestnika; siedza przy urzedzie, nie przy czlowieku",
-      "zwierzchnik": "GARRICK, kanclerz",
-      "kasa": "1 (Kancelaria Namiestnika jest na utrzymaniu Domu; kancelaria Korony to Beron w Winterfell)",
-      "uwaga": "Imie pojawi sie, gdy cos pojdzie nie tak albo gdy gracz spojrzy (zasada 15) - i wtedy zostanie na zawsze."
+      "_trzy_warstwy": "PISARZE STOJA W TRZECH WARSTWACH I TO NIE JEST HIERARCHIA - TO SA TRZY ROZNE WLASNOSCI PAPIERU.",
+      "1_prywatni": {
+        "kto": "HARMON i ALDWIN",
+        "gdzie": "przy Symonie, jezdza z nim",
+        "kasa": 1,
+        "papier": "nalezy do CZLOWIEKA - wychodzi z nim w dniu, w ktorym przestaje byc Namiestnikiem"
+      },
+      "2_kancelaria_namiestnika": {
+        "kto": "NIENAZWANI",
+        "zwierzchnik": "GARRICK, kanclerz",
+        "gdzie": "Fosa Cailin",
+        "kasa": 1,
+        "papier": "nalezy do URZEDU Namiestnika - ma przetrwac urzednika",
+        "uwaga": "TU MIESZKA SYSTEM ZNAKOW (litera i liczba, nigdy imie) prowadzony przez Garricka z Willa od 299-09"
+      },
+      "3_kancelaria_korony": {
+        "kto": "KOLEJNI, NIENAZWANI",
+        "zwierzchnik": "BERON, kanclerz Korony",
+        "gdzie": "Winterfell",
+        "kasa": 3,
+        "papier": "nalezy do KORONY - przetrwa i Namiestnika, i Krola"
+      },
+      "_zasada_15": "Wszyscy nienazwani i tak ma byc. Imie pojawi sie, gdy cos pojdzie nie tak albo gdy gracz spojrzy - i wtedy zostanie na zawsze.",
+      "_szew_do_pilnowania": "SYSTEM ZNAKOW KONCZY SIE NA GARRICKU. Pisarze Korony w Winterfell go NIE ZNAJA - i nie powinni. Ale to znaczy, ze wszystko, co z siatki Willi trafia do spraw Korony, MUSI BYC PRZED TYM ROZSZYFROWANE I PRZEPISANE - a rzecz rozszyfrowana i przepisana przestaje byc chroniona. Kto przepisuje, ten wie."
     },
     "co_ktory_pisze": [
       "PRYWATNY: to, co Symon pisze JAKO SYMON - listy wlasnej reki, notatki, rachunki Domu, rzeczy, ktore maja zostac jego.",

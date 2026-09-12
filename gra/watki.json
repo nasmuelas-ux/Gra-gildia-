@@ -66,7 +66,10 @@
    "typ": "dlug",
    "termin": "296-08-09",
    "wobec": "serla_wdowa",
-   "stan": "de facto zamkniete — wyprowadzka za obopolna zgoda; ew. drobna splata dobrej woli"
+   "stan": "de facto zamkniete — wyprowadzka za obopolna zgoda; ew. drobna splata dobrej woli",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "proba_nesta",
@@ -74,7 +77,11 @@
    "typ": "zlecenie/uklad",
    "termin": "296-08-03",
    "wobec": "nesta_braavijka",
-   "stan": "ZALICZONA — z 'proby' na WSPOLNIKA; grain dowieziony czysto, awans na wspolwlasciciela spolki egzotycznej"
+   "stan": "ZALICZONA — z 'proby' na WSPOLNIKA; grain dowieziony czysto, awans na wspolwlasciciela spolki egzotycznej",
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "wspolnictwo_nesta",
+   "stan_powod": "Scalony 300-02-25. Uklad z Nesta przypieczetowany - to zalozenie tej samej spolki."
   },
   {
    "id": "niescislosc_papiery",
@@ -82,7 +89,10 @@
    "typ": "odkrycie",
    "termin": "296-08-03",
    "wobec": "nesta_braavijka",
-   "stan": "przekazane Nescie; zareagowala chlodno, zatrzymala oba papiery, nie zdradzila zamiarow ani nazwiska"
+   "stan": "przekazane Nescie; zareagowala chlodno, zatrzymala oba papiery, nie zdradzila zamiarow ani nazwiska",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "cech_ultimatum",
@@ -90,7 +100,10 @@
    "typ": "zagrozenie",
    "termin": "296-08-05",
    "wobec": "cech_pisarzy",
-   "stan": "TERMIN MINAL (5.) bez zaplaty. Harwin zastal pusty rog i — urazony — SZUKA Symona po porcie (nie wygnanie, nie grzywna, lecz polowanie/naciski). Ryzyko: trop poprowadzi do Rybiego Zaulka i pod drzwi Serli."
+   "stan": "TERMIN MINAL (5.) bez zaplaty. Harwin zastal pusty rog i — urazony — SZUKA Symona po porcie (nie wygnanie, nie grzywna, lecz polowanie/naciski). Ryzyko: trop poprowadzi do Rybiego Zaulka i pod drzwi Serli.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "strategia_utrzymania",
@@ -98,7 +111,10 @@
    "typ": "rozwazanie",
    "termin": null,
    "wobec": "self",
-   "stan": "dopracowane; do wykonania"
+   "stan": "dopracowane; do wykonania",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "ksiegi_nesty",
@@ -106,7 +122,9 @@
    "typ": "zasob",
    "termin": null,
    "wobec": "nesta_braavijka",
-   "stan": "dostepne u niej"
+   "stan": "dostepne u niej",
+   "filar": "KSIEGI NESTY - braavijska ksiega miar i wag",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "horyzont_braavos",
@@ -205,7 +223,10 @@
    "typ": "okazja/zasob",
    "termin": null,
    "wobec": "septon_owen",
-   "stan": "Symon ZACZAL role kopisty — przepisuje/naprawia ksiegi septy (gest ku Wierze po granicy Owena). Drobne ocieplenie z Owenem."
+   "stan": "Symon ZACZAL role kopisty — przepisuje/naprawia ksiegi septy (gest ku Wierze po granicy Owena). Drobne ocieplenie z Owenem.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "audyt_dlugu_antaryon",
@@ -229,7 +250,10 @@
    "typ": "decyzja/rozwidlenie",
    "termin": null,
    "wobec": "septon_owen",
-   "_dziennik_stan": 1
+   "_dziennik_stan": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "mapa_wsparcia",
@@ -273,7 +297,10 @@
    "typ": "tlo/okazja",
    "termin": null,
    "wobec": "cech_pisarzy",
-   "stan": "otwarte (tlo)"
+   "stan": "otwarte (tlo)",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "dylemat_wyznac_nescie_rymana",
@@ -317,7 +344,9 @@
    "termin": null,
    "wobec": "nesta_braavijka",
    "_dziennik_stan": 1,
-   "status": " || 12-12: Owen otwarty jako nauczyciel czytania SERC (potrzeba/lek/wina) - komplementarny do kupieckiego czytania Nesty; ugruntowanie przez sluzbe."
+   "status": " || 12-12: Owen otwarty jako nauczyciel czytania SERC (potrzeba/lek/wina) - komplementarny do kupieckiego czytania Nesty; ugruntowanie przez sluzbe.",
+   "filar": "NAUKA CZYTANIA LUDZI - Owen",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "skryba_ludu",
@@ -363,7 +392,10 @@
    "_dziennik_stan": 19,
    "status": "WARUNKI: baza(wikt)+~6 jel/mies DRAW (start ~12-19) + 1/3 netto z transakcji Symona + maly rosnacy udzial w core-faktorii (proba). || 12-30 KOREKTA: draw ~12-19 nie byl osobno ksiegowany - dopisany (+6 jel), teraz recurring (zegar draw_nesta, next ~01-19). 1/3 i udzial core prowadzi Nesta w ksiegach kantoru (rosna ku rozliczeniu). NASTEPNE: wziac od Nesty PELNE rozliczenie partnerskie (Symon=czlowiek liczb, powinien miec wlasne konto czyste). || 12-30 (rzut 93): PELNE ROZLICZENIE partnerskie - draw biezacy, +10 jel 1/3 rozpoznane, UDZIAL CORE-FAKTORII PODNIESIONY (z proby na stale, rosnacy) = realna wlasnosc. Konto czyste. Equity = mieszczanska substancja (za standingiem/nazwiskiem). Symon wspolwlascicielem kantoru. || 08-01 KOREKTA (gracz): Bilans liczyl sam flat draw 6 jel - BLAD. Udzial partnerski skaluje sie: 1/3 netto transakcji + ROSNACY equity core-faktorii (udzial w plonie rotacji). Rozpoznano +10 jel udzialu partnerskiego za miesiac (equity+1/3 nie-w-kasie) -> sakiewka 90->100. Na przyszlosc: Bilans rozpoznaje udzial partnerski, nie tylko draw.",
    "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
+   "wchlonelo": [
+    "proba_nesta"
+   ]
   },
   {
    "id": "rozliczenie_antaryon_plan",
@@ -417,7 +449,10 @@
    "typ": "zamkniete",
    "termin": null,
    "wobec": "self",
-   "_dziennik_stan": 1
+   "_dziennik_stan": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "bran_praca_faktoria",
@@ -446,7 +481,10 @@
    "typ": "wizja_strategiczna/wynalazek",
    "termin": null,
    "wobec": "self",
-   "stan": "ZABANKOWANE jako cel-horyzont. NIE uruchamiac z obecnej pozycji (samobojstwo: widocznosc + wojna cechu). Warunek: pozycja+kapital+OCHRONA (Wiara/patron) ALBO Braavos. Pierwszy produkt gdy przyjdzie czas: kalendarz/tablica miar (bezpieczne) lub dewocjonalia pod Wiara; NIGDY nie zaczynac od wzorow umow (wojna z cechem). Trzymac w sekrecie."
+   "stan": "ZABANKOWANE jako cel-horyzont. NIE uruchamiac z obecnej pozycji (samobojstwo: widocznosc + wojna cechu). Warunek: pozycja+kapital+OCHRONA (Wiara/patron) ALBO Braavos. Pierwszy produkt gdy przyjdzie czas: kalendarz/tablica miar (bezpieczne) lub dewocjonalia pod Wiara; NIGDY nie zaczynac od wzorow umow (wojna z cechem). Trzymac w sekrecie.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "leona_inbound",
@@ -486,7 +524,10 @@
    "termin": null,
    "wobec": "serla_wdowa",
    "stan": "ROZWIAZANE m9d1 (rzut 90): wnuk PRZEZYL — goraczka pekla w nocy mrozu dzieki uzdrowicielce+lekom oplaconym przez Symona (anonimowo, przez Wiare). Serla przekonana, ze to Matka i nieznany dobroczynca — NIE wie, ze Symon (godnosc zachowana). Symon: cicha, nieuznana satysfakcja z uratowanego zycia = charakterotworcze. Owen (nast->29) zna prawde; najglebsza wiez. Zamkniete pozytywnie.",
-   "status": " || 12-12 (rzut 54): Tom STABILNY/lekko lepiej - goraczka opadla, srebro Symona (lek Colena)+cieplo zadzialaly; kruchy ale po dobrej stronie zimy. Serla gleboko wdzieczna, nakarmila Symona (goscinnosc). Realny owoc jego cichej charytatywnosci - kontrapunkt dla starej duszy, ktora nie dotrwala."
+   "status": " || 12-12 (rzut 54): Tom STABILNY/lekko lepiej - goraczka opadla, srebro Symona (lek Colena)+cieplo zadzialaly; kruchy ale po dobrej stronie zimy. Serla gleboko wdzieczna, nakarmila Symona (goscinnosc). Realny owoc jego cichej charytatywnosci - kontrapunkt dla starej duszy, ktora nie dotrwala.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "realia_skali_i_braavos",
@@ -531,7 +572,10 @@
    "termin": null,
    "wobec": "klika_zbozowa",
    "_dziennik_stan": 4,
-   "status": ""
+   "status": "",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "spolka_zbozowa",
@@ -589,7 +633,10 @@
    "termin": null,
    "wobec": "wdowa_elna",
    "stan": "WYGRANA — Elna bezpieczna, Symon w cieniu; Lorren odparty (uraza)",
-   "status": " || 12-28 (rzut 53): skarga Symona + jego zaangazowanie dzialaja jak ODSTRASZACZ - Lorren odpuscil najostrzejsza sciagalnosc (lichwiarz nie chce skrutynu drapieznej umowy). Warsztat syna bezpieczny na razie. Kolodzieje (winni Symonowi po reliefie) mocniej osloniaja wdowe pod ich opieka. Dlug trwa, bezposrednia grozba odsunieta. Elna wdzieczna (33->37)."
+   "status": " || 12-28 (rzut 53): skarga Symona + jego zaangazowanie dzialaja jak ODSTRASZACZ - Lorren odpuscil najostrzejsza sciagalnosc (lichwiarz nie chce skrutynu drapieznej umowy). Warsztat syna bezpieczny na razie. Kolodzieje (winni Symonowi po reliefie) mocniej osloniaja wdowe pod ich opieka. Dlug trwa, bezposrednia grozba odsunieta. Elna wdzieczna (33->37).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "uraza_osgara",
@@ -598,7 +645,10 @@
    "termin": "296-10-10",
    "wobec": "klika_zbozowa",
    "stan": "KONTRA UDANA (d10, rzut 76): niezdarna zemsta Osgara (plotka 'kantor Nesty upada') ZDMENTOWANA i ODWROCONA reka Leony/kupcow + widoczna normalnosc kantoru — obrocila sie przeciw Osgarowi, dalszy uszczerbek jego renomy po reliefie. ALE uraza TWARDNIEJE, robi sie osobista: Osgar wie, ze osmieszyl go krag Symona/Nesty. Ryzyko na przyszlosc: nastepnym razem uderzy ciszej/sprytniej. Na teraz: declawed.",
-   "status": ""
+   "status": "",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "audyt_dostawcy_voxa",
@@ -630,7 +680,10 @@
    "typ": "okazja",
    "termin": null,
    "wobec": "kupiec_aldous",
-   "_dziennik_stan": 1
+   "_dziennik_stan": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "kontrola_narracji_pochodzenie",
@@ -650,7 +703,10 @@
    "typ": "okazja",
    "termin": null,
    "wobec": null,
-   "stan": "WYKONANE (m10d4, rzut 73): szanowany klient (z polecenia poreczajacych) — audyt/umowa spisana czysto, klient zadowolony, +4 jel. Auditor-renoma UMOCNIONA, dochod solidnie odbudowany (smear w pelni odwrocony)."
+   "stan": "WYKONANE (m10d4, rzut 73): szanowany klient (z polecenia poreczajacych) — audyt/umowa spisana czysto, klient zadowolony, +4 jel. Auditor-renoma UMOCNIONA, dochod solidnie odbudowany (smear w pelni odwrocony).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "klient_d6_antaryon",
@@ -682,7 +738,10 @@
    "typ": "okazja",
    "termin": null,
    "wobec": null,
-   "stan": "ZAKUP ZROBIONY (m10d7, rzut 90): partia zimowych SKOR od Colla za ~8 jel, PRZED szczytem popytu, dobra cena (zyczliwosc + spryt). Symon TRZYMA towar. FAZA 2 = SPRZEDAZ lokalnie (szewcy/kusnierze/krawcy) gdy mroz/ciemnosc/swieta Wiary poglebiaja popyt (~10-14/15), NIE na absolutny szczyt. Pierwszy SOLO flip Symona (wlasny grosz, wlasna inicjatywa) — dobry start."
+   "stan": "ZAKUP ZROBIONY (m10d7, rzut 90): partia zimowych SKOR od Colla za ~8 jel, PRZED szczytem popytu, dobra cena (zyczliwosc + spryt). Symon TRZYMA towar. FAZA 2 = SPRZEDAZ lokalnie (szewcy/kusnierze/krawcy) gdy mroz/ciemnosc/swieta Wiary poglebiaja popyt (~10-14/15), NIE na absolutny szczyt. Pierwszy SOLO flip Symona (wlasny grosz, wlasna inicjatywa) — dobry start.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "klient_establishment_d8",
@@ -698,15 +757,23 @@
   },
   {
    "id": "opal_zima",
-   "status": "DOBITE — MALA CZYSTA PARTIA (d21, rzut 79): Symon cofnal sie do sweet-spotu i klepnal maly lot drewna opalowego jako darmowy balast ponad futra. ZAPLACONO 7 jeleni (zrodlo + dola Torsena). Dostawa z probna barka futrzana Bialym Nozem ~11-10. PLAN: wiekszosc sprzedac w porcie po zimowej marzy (~1.5-2x, ~11-14 jel gross), CZESC oddac Septie Owena po koszcie (cicho, przez Owena). Marza mala ale czysta + reputacja; kanal polnocny przecwiczony na tanim locie. Rezerwy (Antaryon, nogi egzotyczne) nietkniete. Vindykacja rady Nesty. Symon prowadzi sam."
+   "status": "DOBITE — MALA CZYSTA PARTIA (d21, rzut 79): Symon cofnal sie do sweet-spotu i klepnal maly lot drewna opalowego jako darmowy balast ponad futra. ZAPLACONO 7 jeleni (zrodlo + dola Torsena). Dostawa z probna barka futrzana Bialym Nozem ~11-10. PLAN: wiekszosc sprzedac w porcie po zimowej marzy (~1.5-2x, ~11-14 jel gross), CZESC oddac Septie Owena po koszcie (cicho, przez Owena). Marza mala ale czysta + reputacja; kanal polnocny przecwiczony na tanim locie. Rezerwy (Antaryon, nogi egzotyczne) nietkniete. Vindykacja rady Nesty. Symon prowadzi sam.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "konsorcjum_opal",
-   "status": "USTAWIONE I W RUCHU (d22, blokada ceny rzut 55): Torsen ZABLOKOWAL cene u zrodla na cechowy wolumen (bid-up zdazyl ja odrobine ruszyc, wiec lock dobry, nie dennie tani — ale trzyma). WSZYSTKIE KLOCKI STOJA: zrodlo/Halvard ✓, cena ✓, wolumen cechu ✓, struktura (prime->kolodzieje, residue-opal->port+Septa) ✓, dola brokerska Symona ✓. Teraz to WATEK NA ZEGARZE: dostawa ~11-09 jednym rejsem przed zamarznieciem rzeki; przy dostawie — rozdzial gradow, sprzedaz opalu w porcie, czesc do Septy po koszcie, inkaso doli. Symon wlasnej gotowki nie dokłada (poza 7 jel za wlasny maly lot). OPCJA: nogi Leona/Vox moznaby dolozyc do PRZYSZLEGO rejsu, nie tego (ten juz sklepany). Torsen 18->20. || d24: Vox (rzut 92) i Leona (80) OBOJE zainteresowani noga na PRZYSZLY polnocny rejs (Vox: chce rozwazyc; Leona: welna/sukno/towar). Model brokerski sam sciaga popyt — potwierdza powtarzalnosc. Do dolozenia przy nastepnej turze rzeki (ten rejs sklepany). || d25: WIELKI NOWY NABYWCA — ZAMEK (przez Godrica, rzut 99) chce wejsc jako klient kanalu polnocnego na zimowy prowiant. Ten rejs sklepany (cech), wiec zamek celuje w NASTEPNY rejs / stala dostawe; wolumen zamku moze przycmic parcele cechu. TODO: dopiac u Torsena/Halvarda pojemnosc pod zamkowe zamowienie + przyniesc Godricowi konkretne warunki. || d25 (Torsen rzut 60): ZAMKOWE zamowienie WYKONALNE, ale okno zamarzania rzeki dyktuje forme — Torsen odradza gre na drugi rejs (ryzyko lodu), radzi ROZBUDOWAC ten jeden (~11-09): Halvard ma zrodlo (rzut 93), barka wezmie wiecej zanim sie zapelni; trzeba TYLKO szybko zaklepac dodatkowy wolumen u Halvarda, zanim commit sie zamknie. Jeden ciezszy rejs = nieco wiecej frachtu, wciaz oplacalny przy zamkowej skali. Torsen 20->22. Nesta (struktura, nast42): zamek = klient prestizowy i WYPLACALNY — cena UCZCIWA ale FIRM (nie lowball domu Manderly; zanizenie = sygnal slabosci), terminy czyste, dyskrecja, dola Symona skaluje sie ladnie. WYNIK: Symon ma konkret dla Godrica (rozbudowany rejs ~11-09: wolumen zamku + cech + wlasny + Septa; cena firm-fair; szybki commit u Halvarda). NEXT: wrocic do Godrica z propozycja. || d25 ZAMEK KLIENTEM (Godric rzut 32, sukces z kosztem): Godric commituje UMIARKOWANA zamkowa parcele opalu/drewna — tyle, ile klepie SAM z wladzy zarzadcy; wieksze zamowienie wymagaloby zgody dworu (lord/rzadca wyzszy), a na to okno zamarzania rzeki NIE czeka. Wiec: solidna, ale nie maksymalna parcela, WCHODZI na rozbudowany rejs ~11-09. Terminy zamkowo-ostrozne: PLATNE PRZY DOSTAWIE po zgradowaniu drewna (Symon nic nie fronti, ale czeka na grosz do dostawy). Wieksza STALA umowa mozliwa NASTEPNY sezon, gdy ta parcela sie sprawdzi (proven-then-scale). KOSZT/PILNE: commit u Halvarda trzeba zaklepac SZYBKO (dzien-dwa), zanim rejs sie domknie — inaczej zamkowy wolumen nie wejdzie. Godric 33->35; rep zamek 4->5. || d25 ZAKLEPANE (Torsen->Halvard rzut 36, z kosztem): dodatkowy zamkowy wolumen ZABLOKOWANY na rejs ~11-09; Torsen wyslal szybkiego poslanca w gore rzeki, ale zeby Halvard zdazyl zrobic zrab na ostatnia chwile przed lodem, poszedl ZADATEK ~3 jel (Symon fronti, ODZYSK przy dostawie). Barka teraz PELNA/blisko maksa — to sufit, wiecej nie wejdzie (co i tak tlumaczy, czemu wieksze zamowienie dworu by sie nie zmiescilo). SKLAD REJSU: cech (prime->kolodzieje) + ZAMEK (parcela, platne przy dostawie) + wlasny maly opal + czesc Septy po koszcie. Wszystko domkniete i zabezpieczone czasowo. Wolna gotowka Symona: 7 jel+58 mied (cienko — zgodnie z przestroga Nesty). Dostawa ~11-09, wtedy: gradowanie, rozdzial, sprzedaz/inkaso, odzysk zadatku, dola brokerska. || d29: Leona TWARDNIEJE jako przyszla noga (welna/sukno na nastepny polnocny rejs, gdy rzeka odejdzie na wiosne). || 11-09 DOSTAWA (rzut 13): barka dobila (okno zlapane, per rzut 87); rozladunek z Branem, clo Gartha gladko. ZABEZPIECZONE CZESCI PLACA: cech odebral PRIME (Boren rad, 41->43); ZAMEK odebral parcele i ZAPLACIL przy dostawie (Godric 36->38, patron+); SEPTA dostala opal po koszcie (Owen 51->52, ulga zimowa!); Symon: ZWROT zadatku +3 jel, DOLA brokerska +4 jel. KOREKTA (uwaga gracza): rzut 13 = SPOT DZIS MIEKKI (chudy prep 11-08: brak zaklepanych nabywcow, mroz przerzedza kupcow). Kompetentny Symon NIE dumpuje -> PRZETRZYMUJE wlasny lot (opal drozeje w glab zimy), sprzeda na szczycie mrozu ~1.5-2x+. Wiec dzis brak przychodu ze spot (upside ODROCZONY, nie stracony); trzyma appreciating asset. LEKCJA: co ZABLOKOWANE (off-take, zamek, dola, zadatek) zaplacilo; jedyny NIEhedgowany kawalek (spot wlasnego lotu) zawiodl. NETTO dzis: dola +4 + zadatek +3 (sakiewka -> 15 jel) + PRZETRZYMANY lot opalu (upside na deep winter) + KANAL PRZETESTOWANY + klient-zamek zadowolony -> wiosenne skalowanie; ale gruby spekulacyjny upside przepadl. Watek DOMKNIETY (sukces strukturalny)."
+   "status": "USTAWIONE I W RUCHU (d22, blokada ceny rzut 55): Torsen ZABLOKOWAL cene u zrodla na cechowy wolumen (bid-up zdazyl ja odrobine ruszyc, wiec lock dobry, nie dennie tani — ale trzyma). WSZYSTKIE KLOCKI STOJA: zrodlo/Halvard ✓, cena ✓, wolumen cechu ✓, struktura (prime->kolodzieje, residue-opal->port+Septa) ✓, dola brokerska Symona ✓. Teraz to WATEK NA ZEGARZE: dostawa ~11-09 jednym rejsem przed zamarznieciem rzeki; przy dostawie — rozdzial gradow, sprzedaz opalu w porcie, czesc do Septy po koszcie, inkaso doli. Symon wlasnej gotowki nie dokłada (poza 7 jel za wlasny maly lot). OPCJA: nogi Leona/Vox moznaby dolozyc do PRZYSZLEGO rejsu, nie tego (ten juz sklepany). Torsen 18->20. || d24: Vox (rzut 92) i Leona (80) OBOJE zainteresowani noga na PRZYSZLY polnocny rejs (Vox: chce rozwazyc; Leona: welna/sukno/towar). Model brokerski sam sciaga popyt — potwierdza powtarzalnosc. Do dolozenia przy nastepnej turze rzeki (ten rejs sklepany). || d25: WIELKI NOWY NABYWCA — ZAMEK (przez Godrica, rzut 99) chce wejsc jako klient kanalu polnocnego na zimowy prowiant. Ten rejs sklepany (cech), wiec zamek celuje w NASTEPNY rejs / stala dostawe; wolumen zamku moze przycmic parcele cechu. TODO: dopiac u Torsena/Halvarda pojemnosc pod zamkowe zamowienie + przyniesc Godricowi konkretne warunki. || d25 (Torsen rzut 60): ZAMKOWE zamowienie WYKONALNE, ale okno zamarzania rzeki dyktuje forme — Torsen odradza gre na drugi rejs (ryzyko lodu), radzi ROZBUDOWAC ten jeden (~11-09): Halvard ma zrodlo (rzut 93), barka wezmie wiecej zanim sie zapelni; trzeba TYLKO szybko zaklepac dodatkowy wolumen u Halvarda, zanim commit sie zamknie. Jeden ciezszy rejs = nieco wiecej frachtu, wciaz oplacalny przy zamkowej skali. Torsen 20->22. Nesta (struktura, nast42): zamek = klient prestizowy i WYPLACALNY — cena UCZCIWA ale FIRM (nie lowball domu Manderly; zanizenie = sygnal slabosci), terminy czyste, dyskrecja, dola Symona skaluje sie ladnie. WYNIK: Symon ma konkret dla Godrica (rozbudowany rejs ~11-09: wolumen zamku + cech + wlasny + Septa; cena firm-fair; szybki commit u Halvarda). NEXT: wrocic do Godrica z propozycja. || d25 ZAMEK KLIENTEM (Godric rzut 32, sukces z kosztem): Godric commituje UMIARKOWANA zamkowa parcele opalu/drewna — tyle, ile klepie SAM z wladzy zarzadcy; wieksze zamowienie wymagaloby zgody dworu (lord/rzadca wyzszy), a na to okno zamarzania rzeki NIE czeka. Wiec: solidna, ale nie maksymalna parcela, WCHODZI na rozbudowany rejs ~11-09. Terminy zamkowo-ostrozne: PLATNE PRZY DOSTAWIE po zgradowaniu drewna (Symon nic nie fronti, ale czeka na grosz do dostawy). Wieksza STALA umowa mozliwa NASTEPNY sezon, gdy ta parcela sie sprawdzi (proven-then-scale). KOSZT/PILNE: commit u Halvarda trzeba zaklepac SZYBKO (dzien-dwa), zanim rejs sie domknie — inaczej zamkowy wolumen nie wejdzie. Godric 33->35; rep zamek 4->5. || d25 ZAKLEPANE (Torsen->Halvard rzut 36, z kosztem): dodatkowy zamkowy wolumen ZABLOKOWANY na rejs ~11-09; Torsen wyslal szybkiego poslanca w gore rzeki, ale zeby Halvard zdazyl zrobic zrab na ostatnia chwile przed lodem, poszedl ZADATEK ~3 jel (Symon fronti, ODZYSK przy dostawie). Barka teraz PELNA/blisko maksa — to sufit, wiecej nie wejdzie (co i tak tlumaczy, czemu wieksze zamowienie dworu by sie nie zmiescilo). SKLAD REJSU: cech (prime->kolodzieje) + ZAMEK (parcela, platne przy dostawie) + wlasny maly opal + czesc Septy po koszcie. Wszystko domkniete i zabezpieczone czasowo. Wolna gotowka Symona: 7 jel+58 mied (cienko — zgodnie z przestroga Nesty). Dostawa ~11-09, wtedy: gradowanie, rozdzial, sprzedaz/inkaso, odzysk zadatku, dola brokerska. || d29: Leona TWARDNIEJE jako przyszla noga (welna/sukno na nastepny polnocny rejs, gdy rzeka odejdzie na wiosne). || 11-09 DOSTAWA (rzut 13): barka dobila (okno zlapane, per rzut 87); rozladunek z Branem, clo Gartha gladko. ZABEZPIECZONE CZESCI PLACA: cech odebral PRIME (Boren rad, 41->43); ZAMEK odebral parcele i ZAPLACIL przy dostawie (Godric 36->38, patron+); SEPTA dostala opal po koszcie (Owen 51->52, ulga zimowa!); Symon: ZWROT zadatku +3 jel, DOLA brokerska +4 jel. KOREKTA (uwaga gracza): rzut 13 = SPOT DZIS MIEKKI (chudy prep 11-08: brak zaklepanych nabywcow, mroz przerzedza kupcow). Kompetentny Symon NIE dumpuje -> PRZETRZYMUJE wlasny lot (opal drozeje w glab zimy), sprzeda na szczycie mrozu ~1.5-2x+. Wiec dzis brak przychodu ze spot (upside ODROCZONY, nie stracony); trzyma appreciating asset. LEKCJA: co ZABLOKOWANE (off-take, zamek, dola, zadatek) zaplacilo; jedyny NIEhedgowany kawalek (spot wlasnego lotu) zawiodl. NETTO dzis: dola +4 + zadatek +3 (sakiewka -> 15 jel) + PRZETRZYMANY lot opalu (upside na deep winter) + KANAL PRZETESTOWANY + klient-zamek zadowolony -> wiosenne skalowanie; ale gruby spekulacyjny upside przepadl. Watek DOMKNIETY (sukces strukturalny).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "zimowy_relief",
-   "status": "ZAWIAZANY z Owenem (d26, rzut 88): zimowy relief dla ubogich Bialego Portu — 'akcja Wiary, wsparta przez kupcow portu'. STRUKTURA: skladka W NATURZE od koalicji (Leona welna/sukno=ciepla odziez; kolodzieje odpad drzewny na opal=dlug wdziecznosci; Wenda/przekupki jadlo; Nesta/kantor drobny grosz) -> ROZDAJE Wiara przez septe/sierociniec wg ksiegi jalmuzny (Owen zna najubozszych; Hal wspolprowadzil ksiege). Owen: moralna powaga sciaga kupcow (poboznosc+twarz), rozdzial GODNY (nie upokarzajaca jalmuzna), a Symona TRZYMA W CIENIU (koordynator, nie fundator; osłona przed nadmierna widocznoscia). Owen 43->45, rep wiara 39->40. NASTEPNY KROK: szybka runda kupcow (Leona/Boren/Wenda/Nesta) po skladki w naturze, ZANIM ~5 XI ugryzie mroz. Potencjal: moze urosnac w coroczna instytucje = trwaly kapital u Wiary. || d27 (Leona rzut 55): PIERWSZA SKLADKA — Leona daje bele grubszej welny + sukienne resztki na ciepla odziez dla ubogich (rozsadnie, nie ruinujaco; widzi swoj interes: poboznosc/twarz/spokoj portu). Leona 39->40. Hal na rundzie (patrzy+pomaga, nast->41). Zostaje: kolodzieje (opal/odpad), Wenda/przekupki (jadlo), Nesta/kantor (grosz). Zbiorka do ~11-04 -> Owen. || d27 (Boren rzut 55): DRUGA SKLADKA — kolodzieje daja odpad drzewny (scinki/heblowiny) na opal, czeladnicy wiaza w wiazki; dla cechu to niemal darmo + dlug wdziecznosci + dobra twarz. Boren 38->39. Zebrano 2/4 (Leona odziez + kolodzieje opal). Zostaje: Wenda/przekupki (jadlo), Nesta/kantor (grosz). || d27 (Wenda rzut 51): TRZECIA SKLADKA — Wenda skrzykuje kilka przekupek: solona/suszona ryba, wczorajszy towar, resztki na || 12-24 (rzut 84): relief (siec+ksiega Hala+kolodzieje) dzialal sprawnie pod najgorszym mrozem - k || 12-25 (rzut 26): spad mrozu - popyt>podaz; ostra triage (najslabsi pierwsi), organizacja(6) powstrzymala katastrofe (bez trupa/tumultu) ale nie stworzyla dostatku. ZAPASY CIENIEJA (mroz+dodatek ko || 12-27 (rzut 75): petycja dopracowana z Owenem - ostra, framing porzadek+hojnosc lorda, hak nie z || 12-29 AUDIENCJA UDANA (rzut 82/83): lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wi"
+   "status": "ZAWIAZANY z Owenem (d26, rzut 88): zimowy relief dla ubogich Bialego Portu — 'akcja Wiary, wsparta przez kupcow portu'. STRUKTURA: skladka W NATURZE od koalicji (Leona welna/sukno=ciepla odziez; kolodzieje odpad drzewny na opal=dlug wdziecznosci; Wenda/przekupki jadlo; Nesta/kantor drobny grosz) -> ROZDAJE Wiara przez septe/sierociniec wg ksiegi jalmuzny (Owen zna najubozszych; Hal wspolprowadzil ksiege). Owen: moralna powaga sciaga kupcow (poboznosc+twarz), rozdzial GODNY (nie upokarzajaca jalmuzna), a Symona TRZYMA W CIENIU (koordynator, nie fundator; osłona przed nadmierna widocznoscia). Owen 43->45, rep wiara 39->40. NASTEPNY KROK: szybka runda kupcow (Leona/Boren/Wenda/Nesta) po skladki w naturze, ZANIM ~5 XI ugryzie mroz. Potencjal: moze urosnac w coroczna instytucje = trwaly kapital u Wiary. || d27 (Leona rzut 55): PIERWSZA SKLADKA — Leona daje bele grubszej welny + sukienne resztki na ciepla odziez dla ubogich (rozsadnie, nie ruinujaco; widzi swoj interes: poboznosc/twarz/spokoj portu). Leona 39->40. Hal na rundzie (patrzy+pomaga, nast->41). Zostaje: kolodzieje (opal/odpad), Wenda/przekupki (jadlo), Nesta/kantor (grosz). Zbiorka do ~11-04 -> Owen. || d27 (Boren rzut 55): DRUGA SKLADKA — kolodzieje daja odpad drzewny (scinki/heblowiny) na opal, czeladnicy wiaza w wiazki; dla cechu to niemal darmo + dlug wdziecznosci + dobra twarz. Boren 38->39. Zebrano 2/4 (Leona odziez + kolodzieje opal). Zostaje: Wenda/przekupki (jadlo), Nesta/kantor (grosz). || d27 (Wenda rzut 51): TRZECIA SKLADKA — Wenda skrzykuje kilka przekupek: solona/suszona ryba, wczorajszy towar, resztki na || 12-24 (rzut 84): relief (siec+ksiega Hala+kolodzieje) dzialal sprawnie pod najgorszym mrozem - k || 12-25 (rzut 26): spad mrozu - popyt>podaz; ostra triage (najslabsi pierwsi), organizacja(6) powstrzymala katastrofe (bez trupa/tumultu) ale nie stworzyla dostatku. ZAPASY CIENIEJA (mroz+dodatek ko || 12-27 (rzut 75): petycja dopracowana z Owenem - ostra, framing porzadek+hojnosc lorda, hak nie z || 12-29 AUDIENCJA UDANA (rzut 82/83): lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wi",
+   "filar": "ZIMOWY RELIEF z Owenem",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zelazo_gulltown",
@@ -739,12 +806,18 @@
   {
    "id": "alarm_opal",
    "tytul": "ALARM CENOWY: opal (przetrzymany lot)",
-   "status": "ZAMKNIETY 11-22 (rzut 62): caly przetrzymany lot SPRZEDANY w oknie 1.8x przy rozpaczliwym popycie, czysto (+~12 jel do sakiewki). Dyscyplina: sprzedal w oknie, nie gonil szczytu (mogl liczyc na 1.9-2x, ale wzial pewny zysk + zero ryzyka odwrotu) = 'wyjsc wczesnie nie chciwie' wg Nesty. Aktyw skonwertowany na gotowke; per postawa akumulacji -> reinwestowac/depozyt, nie blyszczec."
+   "status": "ZAMKNIETY 11-22 (rzut 62): caly przetrzymany lot SPRZEDANY w oknie 1.8x przy rozpaczliwym popycie, czysto (+~12 jel do sakiewki). Dyscyplina: sprzedal w oknie, nie gonil szczytu (mogl liczyc na 1.9-2x, ale wzial pewny zysk + zero ryzyka odwrotu) = 'wyjsc wczesnie nie chciwie' wg Nesty. Aktyw skonwertowany na gotowke; per postawa akumulacji -> reinwestowac/depozyt, nie blyszczec.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "audyt_referral_aurane",
    "tytul": "Referral audytowy (przez Godrika)",
-   "status": "DOMKNIETY (11-19, rzut 34): dowod dostarczony cicho+prywatnie (zbilansowana ksiega samobronna), Aurane w pelni przekonany, ZAPLACIL ~6 jel, slowo o dyskrecji nazwiska. Brand+ (nowy majetny kontakt/referrer, Aurane 12->18). KOSZT/OGON: Aurane twardy i wsciekly ODRZUCIL cichе rozwiazanie -> zamierza uderzyc na faktora MOCNO/widocznie -> RYZYKO, ze faktor wywietrzy audyt i zacznie szukac, czyje pioro; niewidzialnosc Symona tylko czesciowa. RESIDUAL RISK: faktor jako mozliwy przyszly problem (dormant). Kompartmentalizowane (caution Nesty). || 12-05: kodeks OSLONY AUDYTORA spisany - retrofit reguł (swiadek, pismo z gory, nie-oskarzaj, brak % od odzysku) hartuje przyszle audyty przeciw ryzyku 'niewygodnego swiadka' (ktore przy Aurane wyszlo)."
+   "status": "DOMKNIETY (11-19, rzut 34): dowod dostarczony cicho+prywatnie (zbilansowana ksiega samobronna), Aurane w pelni przekonany, ZAPLACIL ~6 jel, slowo o dyskrecji nazwiska. Brand+ (nowy majetny kontakt/referrer, Aurane 12->18). KOSZT/OGON: Aurane twardy i wsciekly ODRZUCIL cichе rozwiazanie -> zamierza uderzyc na faktora MOCNO/widocznie -> RYZYKO, ze faktor wywietrzy audyt i zacznie szukac, czyje pioro; niewidzialnosc Symona tylko czesciowa. RESIDUAL RISK: faktor jako mozliwy przyszly problem (dormant). Kompartmentalizowane (caution Nesty). || 12-05: kodeks OSLONY AUDYTORA spisany - retrofit reguł (swiadek, pismo z gory, nie-oskarzaj, brak % od odzysku) hartuje przyszle audyty przeciw ryzyku 'niewygodnego swiadka' (ktore przy Aurane wyszlo).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "cel_matematyka",
@@ -779,7 +852,10 @@
   {
    "id": "uslugi_rozjemstwo",
    "tytul": "Rozjemstwo i rozszerzone uslugi",
-   "status": "12-05 (rzut 49): KODEKS spisany. OSLONA AUDYTORA - hartuje slabosc 'niewygodny swiadek' (retrofit na dotychczasowe audyty). Uslugi BEZPIECZNE i LAUNCHABLE: wycena majatku (spadek/rozwiazanie spolki), rozliczenie rejsu, sprawdzenie kontrahenta. ROZJEMSTWO = potezny PRZYSZLY pilar (lex mercatoria, neutral=odwrotnosc 'niewygodnego swiadka', kara umowna egzekwuje) ALE GATED: (1) standing - 21-latek, tylko MALE spory wsrod zaufanych na razie, rosnie z reputacja; (2) REWIR CECHU/NOTARIUSZY - ociera sie o Rymana/notariuszy, Harwin poluje -> ryzyko re-zapalenia frontu cechu; robic cicho, prywatnie merchant-to-merchant, pod oslona Wiary, pilnujac Ryman/Harwin. START: male, zaufane, ostroznie. || 12-06 SYNERGIA: geometria (->4) moze KARMIC usluge WYCENY - oszacowanie budowli/ziemi/kosztu budowy (Symon jako jedyny audytor+geometra). Cross-pillar edge."
+   "status": "12-05 (rzut 49): KODEKS spisany. OSLONA AUDYTORA - hartuje slabosc 'niewygodny swiadek' (retrofit na dotychczasowe audyty). Uslugi BEZPIECZNE i LAUNCHABLE: wycena majatku (spadek/rozwiazanie spolki), rozliczenie rejsu, sprawdzenie kontrahenta. ROZJEMSTWO = potezny PRZYSZLY pilar (lex mercatoria, neutral=odwrotnosc 'niewygodnego swiadka', kara umowna egzekwuje) ALE GATED: (1) standing - 21-latek, tylko MALE spory wsrod zaufanych na razie, rosnie z reputacja; (2) REWIR CECHU/NOTARIUSZY - ociera sie o Rymana/notariuszy, Harwin poluje -> ryzyko re-zapalenia frontu cechu; robic cicho, prywatnie merchant-to-merchant, pod oslona Wiary, pilnujac Ryman/Harwin. START: male, zaufane, ostroznie. || 12-06 SYNERGIA: geometria (->4) moze KARMIC usluge WYCENY - oszacowanie budowli/ziemi/kosztu budowy (Symon jako jedyny audytor+geometra). Cross-pillar edge.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "audyt_merek",
@@ -989,7 +1065,10 @@
    "id": "wick_nauka",
    "status": "otwarty",
    "priorytet": "niski",
-   "_dziennik_opis": 1
+   "_dziennik_opis": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "ulric_urazony",
@@ -1241,7 +1320,10 @@
    "id": "plan_faktorski_wiosna",
    "status": "MAPA ZLOZONA 07-19 NOC (Nesta, rzut 65) - co ruszyc || SOL SPRZEDANA 07-20 (rzut 95) w szczycie do spichrzy zamku przez kanal Torhena - +20 jel Symon, pierwszy owoc kanalu procurementowego. NEXT ripe: prowiant Merek->zamek, zelazo na budowe. || 07-20 WIECZOR: ZELAZO/OKUCIA zlozone (rzut 82) - TRZECI filar zamkowy. Symon = koordynator zaopatrzenia zamku na 3 towarach (drewno/prowiant/zelazo), kapital-light. Kamien milowy.",
    "priorytet": "sredni-wysoki",
-   "_dziennik_opis": 1
+   "_dziennik_opis": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "korytarz_sukna_synergia",
@@ -1267,19 +1349,28 @@
    "id": "aurane_sklady_tie",
    "status": "DOMKNIETY POZYTYWNIE 07-25 (rzut 89) - partnerstwo skladowe zawarte; Aurane z klienta->partner",
    "priorytet": "sredni-niski",
-   "_dziennik_opis": 3
+   "_dziennik_opis": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "aldous_wino_w_siec",
    "status": "ZAMKNIETE POZYTYWNIE 07-29 (rzut 48) - czyste zrodlo dostarczone, Aldous zawrocony, przyjazn mocniejsza, firewall szczelny. Wino-w-siec ODLOZONE do po-Antaryonie (z czystym zrodlem mozliwe).",
    "priorytet": "zamkniety",
-   "opis": "Luk Aldous/wino: potkniecie (dlubanie przy orbicie) -> droga srodka -> czyste zrodlo przez Nestę -> dostarczone. Firewall umocniony, druh w bezpiecznej strefie, przyjazn +. Ewentualne wpiecie wina w siec = po-Antaryonie, na czystym zrodle."
+   "opis": "Luk Aldous/wino: potkniecie (dlubanie przy orbicie) -> droga srodka -> czyste zrodlo przez Nestę -> dostarczone. Firewall umocniony, druh w bezpiecznej strefie, przyjazn +. Ewentualne wpiecie wina w siec = po-Antaryonie, na czystym zrodle.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "hard_market_underwriting",
    "status": "OTWARTE 08-01 (rzut 23) - post-sztorm hard market, insight Symona zwalidowany przez Nestе || 08-02 (rzut 7 KRYT): CAPTURE NIEUDANY - chudy kapital (18+zaangazowane 150) nie unosi duzej ksiegi. Symon zachlysniety premia zaczal sie WYCHYLAC ku over-leverage/zlym ryzykom (adverse selection: w hard markecie najglosniej pukaja NAJGORSZE ryzyka). NESTA ZDUSILA go twardo ('underwriter tonie na wlasnej lapczywosci PO sztormie, nie na sztormie; rosnie sie pojemnoscia gdy jest z czego'). Napisano MALO/czysto, straty ZERO (zlapala w porе), ale okazja przeciekla + policzek na overconfidence. LEKCJA (tydzien powtarza): rosnac siegasz po to czego nie stac cie uniesc - pojemnosc KAPITALEM (sierpniowy cash-flow) nie chciwoscia. Prawdziwy plon: dolozyc pojemnosc gdy cash-flow pozwoli, potem pisac po (wciaz stwardnialych) stawkach.",
    "priorytet": "sredni-wysoki",
-   "_dziennik_opis": 1
+   "_dziennik_opis": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "lead_audyt_aldous_referral_08_24",
@@ -1554,92 +1645,146 @@
   {
    "id": "sztorm_dwie_rece_09_22",
    "_dziennik_stan": 1,
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "godric_pytanie_lojalnosc_09_22",
    "stan": "ZAMKNIETE i PRZEKUTE (09-23, rzut 88 / szept 56): Symon przeramowal 'rozdzielona lojalnosc' -> 'jedna reka, na ktorej Manderly moze polegac; laska panska splywajaca w dol'. Godric kupil w calosci, wziął narracje w gore jako WLASNA ('nakarmila zamek i miasto naraz'). Bonus: Godric rozpoznal zrodlo szeptu (Roldan) i odlozyl sobie - spin rykoszetem w Roldana. Rysa -> ATUT.",
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "skladowanie_zimowe_start_09_23",
    "stan": "URUCHOMIONE (rzut 71): 3 porzadnych kupcow zlozylo zapasy pod rygor firmy (magazyny Aurane'a) po posztormowej reputacji. Zadatki +8 jel, recurring ~12 jel/mies udzial Symona od Bilansu. Nowy zimowy strumien; skaluje sie z 'pewna reka'.",
-   "priorytet": "aktywny"
+   "priorytet": "aktywny",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "oferta_gra_na_glod_rennifer_09_23",
    "stan": "ODRZUCONE MADRZE (ODMOWA 52 / WYWIAD 76): Symon odmowil jezykiem kupca (czysta reka > marza), bez robienia wroga, i WYCIAGNAL wywiad. Fork zamkniety czysto; owoc = mapa pola (patrz pierscien_glodowy_syndykat_09_23).",
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "pierscien_glodowy_syndykat_09_23",
    "_dziennik_stan": 1,
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "sztorm_ofiary_pochowek_09_23",
    "stan": "ZAMKNIETE godnie: 3 ofiary sztormu na krancach sieci reliefu (Stara Merys, zebrak='czlowiek Siedmiu', chlopiec praczki) pochowane wlasnym kosztem Symona (-9 jel). Zywe residuum: OBIETNICA matce chlopca (praczka spod Schodow) - 'zima nie bedziesz sama glodna' (dolaczyc do reliefu/oka firmy). Motyw: nastepnym razem siec ma siegnac dalej (warstwa 2 doktryny osobista).",
-   "priorytet": "tlo"
+   "priorytet": "tlo",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "siec_reliefu_zimowa_09_24",
    "_dziennik_stan": 2,
-   "priorytet": "aktywny"
+   "priorytet": "aktywny",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "warstwa2_uczciwa_podaz_09_24",
    "_dziennik_stan": 1,
-   "priorytet": "aktywny"
+   "priorytet": "aktywny",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "relief_uraza_i_spin_ryzyko_09_24",
    "stan": "ROZBROJONE w duzej mierze (09-24 wieczor): nowy model dowoz-do-domow pod mantia Wiary usuwa tlum (zrodlo urazy) i odbiera pierscieniowi hak 'dobroczynnosc firmy rodzi awantury' (to teraz cicha koscielna jalmuzna). Ziarno urazy kilku odprawionych - marginalne, wygasa bez kolejki. Obserwacja: minimalna.",
-   "priorytet": "tlo"
+   "priorytet": "tlo",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "front_wzmocniony_09_25",
    "_dziennik_stan": 2,
-   "priorytet": "wysoki"
+   "priorytet": "wysoki",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "sojusz_theomore_09_26",
    "stan": "ZAWIAZANY (rzut 76): maester Theomore = sojusznik na szczeblu Aldrica - recze za firme w domu lorda, dyskretne oko/ucho, pokrewienstwo prawdy-liczonej. Pierwszy przyjaciel Symona na gorze (przeciwwaga dla Aldrica). Firewall nietkniety (dostal tylko czysta prawde firmy). Pielegnowac ostroznie.",
-   "priorytet": "aktywny"
+   "priorytet": "aktywny",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "mroz_test_operacji_09_26",
    "_dziennik_stan": 1,
-   "priorytet": "tlo"
+   "priorytet": "tlo",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "okno_logistyczne_09_27",
    "_dziennik_stan": 1,
-   "priorytet": "tlo"
+   "priorytet": "tlo",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "pierscien_atak_na_zrodla_09_28",
    "stan": "ZAMKNIETE zwyciesko: pierscien rozbity, Merrek+Torwyn wolni od grozby na zawsze (zrodlo strachu pod toporem lorda).",
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "case_na_pierscien_09_28",
    "stan": "WYKONANY (rzut 79): case dostarczony lordowi Wymanowi przez Theomore'a, pelny lancuch zaciśniety. Zbrodnia+swiadkowie+ogniwo+principal+tuszowanie = komplet, lord ruszyl tej nocy.",
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "aldric_preempcja_sledztwo_09_29",
    "stan": "ZAMKNIETE: Aldric pojmany, jego sledztwo umarlo z nim; Helyard (co mial je prowadzic) zhanbiony. Preempcja Aldrica obrocila sie w jego zgube.",
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "kasztelan_radar_09_29",
    "stan": "ROZWINIETE INACZEJ: droga przez kasztelana Helyarda CHYBILA (kryt 9, Helyard chcial tuszowac) - ale obeszlismy go do LORDA (Theomore), a jego tuszowanie stalo sie dowodem. Helyard zhanbiony.",
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "cios_case_gotowy_09_30",
    "stan": "WYKONANY: prezentacja przez Theomore'a przed lordem (rzut 79), pierscien rozbity, Symon rozpoznany przez lorda.",
-   "priorytet": "zamkniete"
+   "priorytet": "zamkniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bez daty w tresci, data w kluczu - epoka Bialego Portu przed urzedem (kubel A). Sprawa skonczona."
   },
   {
    "id": "dziecko_nadzieja_starania",
@@ -2842,25 +2987,35 @@
    "id": "system_zintegrowany_oko_noga_zab_1118",
    "tytul": "Zintegrowany system dorzecza: siec(oczy)+flota(nogi)+partyzantka(zeby)",
    "status": "SPINA_SIE_dojrzala_reaktywna_piesc",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Epoka wojny (298-11..299-01). Wojna skonczona, Polnoc wolna, Akt zapieczetowany, Symon lordem. Skutki zyja w filarach Poludnia i Domu."
   },
   {
    "id": "theon_dzwignia_na_balona_1119",
    "tytul": "Theon Greyjoy - gosc/wychowanek = cicha dzwignia na Balona; NIE wysylac go do ojca",
    "status": "AKTYWNA_trzymac_blisko_cieplo_zero_niezaleznej_pozycji",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "THEON JAKO DZWIGNIA NA BALONA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "polnoc_trzyma_srodek_dorzecza_1127",
    "tytul": "Polnoc trzyma centrum dorzecza (Gods Eye/Harrenhal-region) - pozycja wysunieta do obrony",
    "status": "AKTYWNA_wziete_ale_wysuniete_Blackfish_nie_przeciagac",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Epoka wojny (298-11..299-01). Wojna skonczona, Polnoc wolna, Akt zapieczetowany, Symon lordem. Skutki zyja w filarach Poludnia i Domu."
   },
   {
    "id": "kanal_olenna_tyrell_1127",
    "tytul": "Tajny kanal do Lady Olenny Tyrell - Ogrod hedguje, rysa=Joffrey",
    "status": "LINIA_OTWARTA_299-04_przyjazn_Olenny+handel_zbozem",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "filar": "KANAL DO OLENNY TYRELL",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "wektor_stannis_zlamany_sojusznik_1127",
@@ -2883,7 +3038,10 @@
    "id": "elewacja_dom_tally_lord_i_moneta_1127",
    "tytul": "Elewacja: Lord Tally -> port-miasto wschod -> Reka Krola (namiestnik) - budowniczy nie feudal",
    "status": "ZAPRZYSIEZONY_Lord_Tally_Dom_zalozony_reka_gdy_dom_stanie",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Epoka wojny (298-11..299-01). Wojna skonczona, Polnoc wolna, Akt zapieczetowany, Symon lordem. Skutki zyja w filarach Poludnia i Domu."
   },
   {
    "id": "odbudowa_fosy_cailin_dom_tally_1127",
@@ -2918,7 +3076,9 @@
    "id": "jaime_os_prestizu_i_dzwignia_1127",
    "tytul": "Jaime Lannister - os wojny prestizowej + najwyzsza dzwignia (nie spieniezac tanio)",
    "status": "TRZYMANY_jako_zaprzeczenie_mitu_straz_zaostrzona_cena=niepodleglosc",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "JAIME LANNISTER",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "wniosek_maester_inzynieria_melioracja_1128",
@@ -2946,13 +3106,18 @@
    "id": "horyzont_daenerys_targaryen_1128",
    "tytul": "Horyzont: dziedziczka Smoka na wschodzie (plotka o smokach, WRACA)",
    "status": "OZNACZONY_plotka_nie_fakt_wildcard_do_obserwacji",
-   "nota": "1128 (rzut 36): strzepy z Braavos/Wolnych Miast - ostatnia Targaryenka daleko na wschodzie (Qarth), szept o SMOKACH (dziki, powazni machaja reka). Plotka nie fakt ALE 'nie gaśnie' (opowiesci o wygnancach zwykle gasna, ta wraca). Symon odklada na horyzont oznaczone (czynnik zewnetrzny wywraca wage w noc - Aegon+smoki). Nie dziala; obserwuje. Willa dalej nasluchuje."
+   "nota": "1128 (rzut 36): strzepy z Braavos/Wolnych Miast - ostatnia Targaryenka daleko na wschodzie (Qarth), szept o SMOKACH (dziki, powazni machaja reka). Plotka nie fakt ALE 'nie gaśnie' (opowiesci o wygnancach zwykle gasna, ta wraca). Symon odklada na horyzont oznaczone (czynnik zewnetrzny wywraca wage w noc - Aegon+smoki). Nie dziala; obserwuje. Willa dalej nasluchuje.",
+   "filar": "DAENERYS",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "plan_kampania_westerland_pincer_1128",
    "tytul": "Plan: kampania na Westerland (rajd-w-sile Blackfish+Edmure) + umocniony srodek pod Robbem",
    "status": "WYKONANA_rzut57_Zachod_zakrwawiony_Tywin_sciagniety_nie_usidlony_piesc_wrocila",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Epoka wojny (298-11..299-01). Wojna skonczona, Polnoc wolna, Akt zapieczetowany, Symon lordem. Skutki zyja w filarach Poludnia i Domu."
   },
   {
    "id": "bilans_plansza_przechyla_sie_1218",
@@ -2967,13 +3132,18 @@
    "id": "insight_kampania_jako_demonstracja_dyplomatyczna_1218",
    "tytul": "Insight: kampania Westerland = demonstracja dyplomatyczna (pchnela 4 nici)",
    "status": "AKTYWNY_wszystkie_4_nici_przesuniete_ku_Polnocy",
-   "nota": "12-18: kampania nie tylko krwawila - DEMONSTROWALA niezdecydowanym ze Polnoc silna/wschodzaca + Lew pekliwy = najsilniejszy argument dla hedzera. Wszystkie 4 nici przesuniete ku Polnocy (nawet milczace Dorn/Stannis - warunki dojrzaly). Doktryna: przechyl jeden->wojna spada; najblizej Dolina (Catelyn). Karmic prawda + czekac na wlasnych zegarach nici."
+   "nota": "12-18: kampania nie tylko krwawila - DEMONSTROWALA niezdecydowanym ze Polnoc silna/wschodzaca + Lew pekliwy = najsilniejszy argument dla hedzera. Wszystkie 4 nici przesuniete ku Polnocy (nawet milczace Dorn/Stannis - warunki dojrzaly). Doktryna: przechyl jeden->wojna spada; najblizej Dolina (Catelyn). Karmic prawda + czekac na wlasnych zegarach nici.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Epoka wojny (298-11..299-01). Wojna skonczona, Polnoc wolna, Akt zapieczetowany, Symon lordem. Skutki zyja w filarach Poludnia i Domu."
   },
   {
    "id": "rama_wielkiego_ukladu_stabilizacja_1219",
    "tytul": "RAMA WIELKIEGO UKLADU: stabilizacja Westeros / broker niepodleglosci Polnocy",
    "status": "FILAR_ZAPIECZETOWANY_kaskada_koncowa_otwarta",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "filar": "RAMA WIELKIEGO UKLADU",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "keystone_dowod_kazirodztwa_1219",
@@ -2988,19 +3158,28 @@
    "id": "akt_niepodleglosci_polnocy_1219",
    "tytul": "Akt uznania niepodleglosci Polnocy - draft gotowy, term-one przed ruszeniem Stannisa",
    "status": "ZAPIECZETOWANY_obustronnie_sygnowany_w_rekach_Polnocy_ZELAZNY_tajny",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Epoka wojny (298-11..299-01). Wojna skonczona, Polnoc wolna, Akt zapieczetowany, Symon lordem. Skutki zyja w filarach Poludnia i Domu."
   },
   {
    "id": "druga_kampania_westerland_rozbicie_1225",
    "tytul": "Druga kampania Westerland - ROZBICIE polowej armii Zachodu (rzut 45, korekta)",
    "status": "ZAMKNIETA_lupy_zebrane_wycofanie_czyste_PUSTKA_zostawiona_Zachod_odsloniety",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Epoka wojny (298-11..299-01). Wojna skonczona, Polnoc wolna, Akt zapieczetowany, Symon lordem. Skutki zyja w filarach Poludnia i Domu."
   },
   {
    "id": "tywin_sciagniety_na_zachod_0113",
    "tytul": "Tywin komituje sile na Zachod (draw zadzialal) - oslabia poludnie, armia znow w polu",
    "status": "DRAW_ZADZIALAL_Tywin_reaktywny_ale_lann_armia_w_ruchu_na_zachod",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Epoka wojny (298-11..299-01). Wojna skonczona, Polnoc wolna, Akt zapieczetowany, Symon lordem. Skutki zyja w filarach Poludnia i Domu."
   },
   {
    "id": "wywiad_kroloprzystan_299_03",
@@ -3036,7 +3215,9 @@
    "id": "rada_krola_natura_ludzi_bolton_299_04",
    "tytul": "Poufna rada Robbowi: natura ludzi + czujnosc na Boltona (honor z otwartymi oczami)",
    "status": "DOKTRYNA_PRZEKAZANA_front_wewnetrzny_zabezpieczony",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "BOLTON - poufna rada Robbowi",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "sasiedztwo_stannis_po_wojnie_299_04",
@@ -3688,7 +3869,10 @@
    "id": "riverrun_hub_zadania_299_07",
    "tytul": "Riverrun - koniec objazdu, zadania hubu (listy Tywin/Olenna, Edmure/korytarz/sukcesja Freyow, grob Hostera, Willa)",
    "status": "AKTYWNY_299-07-06",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Objazd skonczony, zadania hubu rozdane."
   },
   {
    "id": "stan_poludnia_hollow_tron_299_07",
@@ -3714,7 +3898,9 @@
    "id": "oddzial_domu_tally_riverrun_299_07",
    "tytul": "Oddzial Domu Tally w Riverrun - filia w Dorzeczu (handel+oko+logistyka)",
    "status": "OTWARTY_299-07-06",
-   "nota": "07-06 Edmure zgodzil sie z entuzjazmem. Filia komercyjna Domu Tally w Riverrun: handel/zboze/korytarz/kanal Olenny + ciche oko i logistyka Symona w Dorzeczu (jak posterunek Castle Black - forward node). Kasa1 inwestycja. Wiaze North-Dorzecze gospodarczo. Obsadzic (Hal-Dyrektor koordynuje)."
+   "nota": "07-06 Edmure zgodzil sie z entuzjazmem. Filia komercyjna Domu Tally w Riverrun: handel/zboze/korytarz/kanal Olenny + ciche oko i logistyka Symona w Dorzeczu (jak posterunek Castle Black - forward node). Kasa1 inwestycja. Wiaze North-Dorzecze gospodarczo. Obsadzic (Hal-Dyrektor koordynuje).",
+   "filar": "ODDZIAL DOMU W RIVERRUN",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "frey_sukcesja_zwiazanie_przez_edmure_299_07",
@@ -3724,6 +3910,7 @@
    "filar": "SUKCESJA BLIZNIAKOW",
    "stan_watku": "ZYWY",
    "wchlonelo": [
+    "sukcesja_blizniakow_po_walderze_299_09",
     "trwalosc_sojuszu_frey_sukcesja_299_07"
    ]
   },
@@ -3731,13 +3918,17 @@
    "id": "rada_bryndena_poludnie_trident_299_07",
    "tytul": "Rada Bryndena o Poludniu - zaryglowac Trident (furtka niepodleglosci); postawa wobec graczy; oferta Blackfisha na obrone Polnocy",
    "status": "OTRZYMANA_299-07-06",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "TRIDENT - rada Bryndena",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "pakt_obronny_polnoc_dorzecze_299_07",
    "tytul": "Pakt Obronny Polnoc-Dorzecze - Brynden pld architekt, 3 plany, wymiana oficerow (Trident z furtki w zapore)",
    "status": "ZAWIAZANY_299-07-06_projekty_w_toku",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "PAKT OBRONNY POLNOC-DORZECZE",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "sprawozdanie_dla_robba_objazd_299_07",
@@ -4132,6 +4323,7 @@
    "stan_uwaga": "Operacja otwarta: WIAZKA SZOSTA (ustroj) na Wielkiej Radzie 300-04-01. Zarzut Rodrika z 299-09-21 bez odpowiedzi. Bez granicy liczbowej; Korona nie pyta lordow o wlasnych zbrojnych.",
    "filar": "STALA ARMIA KORONY",
    "wchlonelo": [
+    "korona_bez_wlasnych_zbrojnych_299_09",
     "stala_armia_koronna_koncepcja_299_06"
    ]
   },
@@ -4454,7 +4646,11 @@
    "id": "sukcesja_blizniakow_po_walderze_299_09",
    "tytul": "SUKCESJA BLIZNIAKOW - zwiazac tego, kto usiadzie po Walderze",
    "status": "PODNIESIONY_PRZEZ_KROLA_299-09-04;_niepilne_i_wlasnie_dlatego_najlepszy_moment",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "frey_sukcesja_zwiazanie_przez_edmure_299_07",
+   "stan_powod": "Scalony 300-02-25. Ta sama sprawa - kto usiadzie po Walderze."
   },
   {
    "id": "zwozenie_zboza_w_jedno_miejsce_299_09",
@@ -5136,13 +5332,17 @@
    "id": "rejestr_danin_polnocy_299_09",
    "status": "otwarty",
    "priorytet": "wysoki",
-   "tytul": "Rejestr danin Polnocy - metoda powszechna, liczby ustala Rada na wniosek Skarbnika; rola JAWNA z woli Krola; Fosa = wzor rachunku, nie stawka wzorcowa"
+   "tytul": "Rejestr danin Polnocy - metoda powszechna, liczby ustala Rada na wniosek Skarbnika; rola JAWNA z woli Krola; Fosa = wzor rachunku, nie stawka wzorcowa",
+   "filar": "REJESTR DANIN (ksiega, osobno od systemu)",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "ziemie_bez_pana_kamienisty_brzeg_299_09",
    "status": "otwarty",
    "priorytet": "sredni",
-   "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady."
+   "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady.",
+   "filar": "ZIEMIE BEZ PANA - Kamienisty Brzeg i Cypel",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "wylaczenie_namiestnika_z_regencji_299_09",
@@ -5155,7 +5355,9 @@
    "id": "policz_talerze_rachunek_z_czarnego_zamku_299_09",
    "status": "otwarty",
    "priorytet": "wysoki",
-   "tytul": "POLICZ TALERZE - re-taskowanie placowki Domu w Czarnym Zamku: rola przydzialow miesiac po miesiacu i FORMA skreslenia; czeka na odpowiedz Hala"
+   "tytul": "POLICZ TALERZE - re-taskowanie placowki Domu w Czarnym Zamku: rola przydzialow miesiac po miesiacu i FORMA skreslenia; czeka na odpowiedz Hala",
+   "filar": "POLICZ TALERZE - Czarny Zamek",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
@@ -5173,7 +5375,9 @@
    "id": "wezel_zachodni_domu_i_biala_plama_korony_299_09",
    "status": "otwarty",
    "priorytet": "sredni",
-   "tytul": "Wezel Domu na zachodnim wybrzezu = jedyne oczy tam, gdzie Korona ich nie ma. Symon zglasza sie jako strona Skarbnikowi i Radzie."
+   "tytul": "Wezel Domu na zachodnim wybrzezu = jedyne oczy tam, gdzie Korona ich nie ma. Symon zglasza sie jako strona Skarbnikowi i Radzie.",
+   "filar": "WEZEL ZACHODNI - biala plama Korony",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "odpis_ksiegi_myta_do_skarbu_299_09",
@@ -5253,7 +5457,9 @@
    "id": "zastepcy_do_krukow_i_ksiag_299_09",
    "status": "otwarty",
    "priorytet": "wysoki",
-   "tytul": "Czlowiek do krukow i ksiag zamiast maestera - dwa-trzy lata zamiast szesnastu (rachunek Luwina). Jedyna odpowiedz na cicha grozbe przydzialow. Luwin szkoli od zaraz, po cichu"
+   "tytul": "Czlowiek do krukow i ksiag zamiast maestera - dwa-trzy lata zamiast szesnastu (rachunek Luwina). Jedyna odpowiedz na cicha grozbe przydzialow. Luwin szkoli od zaraz, po cichu",
+   "filar": "LUDZIE DO KRUKOW I KSIAG zamiast maestera",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "mistrz_nauki_tytul_czy_cisza_299_09",
@@ -5280,7 +5486,9 @@
    "id": "sansa_uczy_dziedziny_dziesiatej_299_09",
    "status": "otwarty",
    "priorytet": "sredni",
-   "tytul": "Sansa uczy dziedziny X kanonu (mowa i sluchanie) - probnie. Rozstrzygniecie metodyczne: nie uczy sie widzenia, uczy sie czterech czynnosci"
+   "tytul": "Sansa uczy dziedziny X kanonu (mowa i sluchanie) - probnie. Rozstrzygniecie metodyczne: nie uczy sie widzenia, uczy sie czterech czynnosci",
+   "filar": "SANSA UCZY - dziedzina dziesiata",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zbior_swiadectw_polnocy_299_09",
@@ -5304,13 +5512,19 @@
    "id": "przysiega_przed_drzewem_i_septonem_299_09",
    "status": "otwarty",
    "priorytet": "sredni",
-   "tytul": "Przysiega na Korone w bozym gaju - SEPTON Z BIALEGO PORTU STAJE OBOK DRZEWA SERCA. Te same slowa, ten sam dzien, ta sama ksiega. Rozwiazuje problem Manderlych i oglasza, jakim krolestwem jest Polnoc"
+   "tytul": "Przysiega na Korone w bozym gaju - SEPTON Z BIALEGO PORTU STAJE OBOK DRZEWA SERCA. Te same slowa, ten sam dzien, ta sama ksiega. Rozwiazuje problem Manderlych i oglasza, jakim krolestwem jest Polnoc",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Przysiega zlozona - septon z Bialego Portu stanal przy bozym gaju."
   },
   {
    "id": "reed_sprowadzony_zamiast_objazdu_299_09",
    "status": "uniewazniony",
    "priorytet": "wysoki",
-   "tytul": "VOID - Reeda sie nie wzywa. Pismo z 09-08 juz zawiera obietnice, ze to Symon przyjedzie tam, gdzie Reed wskaze"
+   "tytul": "VOID - Reeda sie nie wzywa. Pismo z 09-08 juz zawiera obietnice, ze to Symon przyjedzie tam, gdzie Reed wskaze",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "VOID juz w zapisie - Reeda sie nie wzywa; pismo z 09-08 zawiera obietnice."
   },
   {
    "id": "krol_uczy_sie_czytac_ksiege_299_09",
@@ -5324,7 +5538,11 @@
    "id": "korona_bez_wlasnych_zbrojnych_299_09",
    "status": "otwarty",
    "priorytet": "sredni",
-   "tytul": "DZIURA: Korona nie ma wlasnych ludzi do orszaku wlasnego Namiestnika. Zimowa Straz przy Krolu, Osric w drodze, wlasnych choragwi zero - kazdy zbrojny na Polnocy jest czyjs. Do teki obok heroldow, poczty i rewizji"
+   "tytul": "DZIURA: Korona nie ma wlasnych ludzi do orszaku wlasnego Namiestnika. Zimowa Straz przy Krolu, Osric w drodze, wlasnych choragwi zero - kazdy zbrojny na Polnocy jest czyjs. Do teki obok heroldow, poczty i rewizji",
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "stala_armia_1000_299_08",
+   "stan_powod": "Scalony 300-02-25. Ta sama dziura: Korona bez wlasnych ludzi. To jest zrodlo filaru stalej armii."
   },
   {
    "id": "wyman_manderly_przyjazd_299_09",

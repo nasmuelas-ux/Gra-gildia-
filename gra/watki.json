@@ -281,7 +281,11 @@
    "typ": "decyzja",
    "termin": null,
    "wobec": "nesta_braavijka",
-   "stan": "ROZSTRZYGNIETE: Symon PRZEMILCZAL Rymana (dochowal slowa Owenowi, nie rozszerzyl smiertelnego kregu) — podzielil sie tylko Garthem/clem (bezpieczne, dotyczy jej Antaryonow). Madry ruch."
+   "stan": "ROZSTRZYGNIETE: Symon PRZEMILCZAL Rymana (dochowal slowa Owenowi, nie rozszerzyl smiertelnego kregu) — podzielil sie tylko Garthem/clem (bezpieczne, dotyczy jej Antaryonow). Madry ruch.",
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "sprawa_rymana_justycjariusz_299_08",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. Dylemat wyznania nalezy do sprawy, nie stoi obok niej. Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "droga_do_kupca",
@@ -2355,8 +2359,11 @@
    "tytul": "Karstark - jawny osobisty wrog Symona",
    "status": "aktywny",
    "_dziennik_nota": 3,
-   "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_watku": "WCHLONIETY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
+   "stan_data": "300-02-25",
+   "scalony_z": "karstark_linia_pekniecia_wschod_299_08",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. j.w. - jawna wrogosc osobista to etap, nie osobna sprawa. Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "smierc_hostera_tully_1022",
@@ -2482,8 +2489,11 @@
    "tytul": "Karstark - wieko na prochu (honor stabilizuje, grief zywy)",
    "status": "aktywny_kluczowy",
    "_dziennik_nota": 2,
-   "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_watku": "WCHLONIETY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
+   "stan_data": "300-02-25",
+   "scalony_z": "karstark_linia_pekniecia_wschod_299_08",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. j.w. - 'wieko na prochu' to opis stanu tej samej sprawy. Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "percepcja_przekierowanie_zelaznych_1105",
@@ -2834,7 +2844,12 @@
    "id": "wektor_dolina_arryn_1127",
    "tytul": "Dolina Arrynow - budzaca sie kalkulacja (granica, sila Polnocy, Catelyn-Lysa)",
    "status": "MUR_STRACHU_299-03-15_adresowac_zrodlo_szeptu_nie_Lyse",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 8,
+   "stan_watku": "ZYWY",
+   "filar": "DOLINA ARRYNOW",
+   "wchlonelo": [
+    "dolina_arrynow_odsloniecie_299_07"
+   ]
   },
   {
    "id": "elewacja_dom_tally_lord_i_moneta_1127",
@@ -3126,13 +3141,22 @@
    "id": "puls_dolu_czy_wolne_krolestwo_siega_do_garnka_299_05",
    "tytul": "Pytanie z dołu (Wenda): czy wolne królestwo sięgnie do garnka biedy, czy zostanie zabawą panów",
    "status": "PULS_ZANOTOWANY_do_niesienia_przy_budowaniu_gospodarki",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "potrzeby_dolu_wenda_299_05",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. To samo pytanie Wendy, zapisane dwa razy tego samego dnia. Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "potrzeby_dolu_wenda_299_05",
    "tytul": "Potrzeby dołu (Wenda) - uszeregowana lista tego co boli biedę Białego Portu + olśnienie rywal↔chleb",
    "status": "dyspozycje_wydane",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZYWY",
+   "filar": "POTRZEBY DOLU",
+   "wchlonelo": [
+    "puls_dolu_czy_wolne_krolestwo_siega_do_garnka_299_05"
+   ]
   },
   {
    "id": "tozsamosc_wizualna_domu_tally_299_05",
@@ -3224,7 +3248,11 @@
    "id": "karstark_zraniona_duma_299_06",
    "tytul": "Rickard Karstark - zraniona duma po publicznej przegranej sporu z Symonem",
    "status": "ODZYSKANY_zwiazany_honorem_299-06-09_doom-nic_przecieta",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "karstark_linia_pekniecia_wschod_299_08",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. Jeden czlowiek, jedna teczka. Zraniona duma to etap tej samej linii pekniecia. Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "theon_zwiazany_z_polnoca_299_06",
@@ -3390,7 +3418,11 @@
    "id": "wznowienie_sprawy_rymana_299_06",
    "tytul": "Wznowienie sprawy Rymana (falszerstwo+obrabowana wdowa+podejrzana smierc maestera Aemona) - teraz z pozycji Namiestnika",
    "status": "PRZEKAZANA_Justycjariuszowi_Cerwyn_299-06-16_jawnosc-osobista",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "sprawa_rymana_justycjariusz_299_08",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. Ta sama sprawa Rymana Cwiakla. Filar trzyma obie warstwy: publiczna i prywatna (Stary Zamek). Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "rana_manpower_polnocy_odbudowa_ludzi_299_06",
@@ -3445,7 +3477,11 @@
    "id": "stala_armia_koronna_koncepcja_299_06",
    "tytul": "Stala armia koronna - koncepcja (odpowiedz na luke z dossier: Korona bez wlasnego miecza)",
    "status": "KONCEPCJA_do_dojrzenia_wniosek_na_rade_Riverrun",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "stala_armia_1000_299_08",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. Ta sama sprawa: wlasne zbrojne Korony. Filar trzyma operacje (wiazka szosta Rady 300-04-01). Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "plan_faza1_domena_starkow_299_06",
@@ -3636,7 +3672,11 @@
    "id": "dolina_arrynow_odsloniecie_299_07",
    "tytul": "Dolina Arrynow uchylona - slepa plama Willi zaczyna sie otwierac (przez Rozdroze)",
    "status": "SPIACA_299-08-04_parked_pending_wyjasnienia_Baelisha",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "wektor_dolina_arryn_1127",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. Odsloniecie slepej plamy przez Rozdroze to ZDARZENIE pod filarem Doliny, nie drugi filar. Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "szkatulka_willi_plon_299_07",
@@ -3865,7 +3905,14 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5,
+   "stan_watku": "ZYWY",
+   "filar": "RICKARD KARSTARK",
+   "wchlonelo": [
+    "karstark_zraniona_duma_299_06",
+    "karstark_wrog_osobisty_1021",
+    "karstark_wieko_na_prochu_1104"
+   ]
   },
   {
    "id": "program_okretow_polnocy_299_08",
@@ -3883,21 +3930,36 @@
    "id": "kompania_polnoc_dorzecze_299_08",
    "tytul": "Kompania Polnoc-Dorzecze - handlowo-panstwowa spolka odbudowy spichlerza + dwukierunkowa arteria (Dom Tally koordynuje za udzial, Korona+rody dolaczaja)",
    "status": "SZKIELET_299-08-12_zgoda_co_do_zasady_(statut/udzialy/werbunek_rodow/rozruch_dojrzewaja)",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "ZYWY",
+   "filar": "KOMPANIA POLNOC-DORZECZE",
+   "wchlonelo": [
+    "kompania_pierwszy_list_dorzecza_299_08"
+   ]
   },
   {
    "id": "sprawa_rymana_wdowa_justycjariusz_299_08",
    "tytul": "Sprawa Rymana (zalozycielska krzywda wdowy) trafia do Justycjariusza - drzwi realne ale droga zimna/cierniowa, Symon na dystans",
    "status": "OTWARTA_299-08-12_crit9_arm-length_dowod-do-odtworzenia_propriety-trap",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "sprawa_rymana_justycjariusz_299_08",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. Ta sama sprawa - krzywda wdowy jest jej trescia, nie osobnym watkiem. Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "sprawa_rymana_justycjariusz_299_08",
    "tytul": "Sprawa Rymana Cwiakla (zalozycielska krzywda: sfalszowany akt, obrabowana wdowa, martwy maester) trafia do Justycjariusza - crit-low, tylko czysta/dluga/arm-length droga",
    "status": "OTWARTA_299-08-12_droga_arm-length_dla_wdowy_(dowod_wystygl+Ryman_okopany+pulapka_przyzwoitosci)",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "stan_watku": "ZYWY",
-   "stan_uwaga": "Kontynuowana, dwie warstwy: publiczna (Ryman/wdowa/Aemon) i prywatna (Stary Zamek, ksiega czeladzi 275-282; slad zauwazony, rzut 30)."
+   "stan_uwaga": "Kontynuowana, dwie warstwy: publiczna (Ryman/wdowa/Aemon) i prywatna (Stary Zamek, ksiega czeladzi 275-282; slad zauwazony, rzut 30).",
+   "filar": "SPRAWA RYMANA",
+   "wchlonelo": [
+    "wznowienie_sprawy_rymana_299_06",
+    "sprawa_rymana_wdowa_justycjariusz_299_08",
+    "dylemat_wyznac_nescie_rymana"
+   ]
   },
   {
    "id": "prawo_sukcesji_polnocy_299_08",
@@ -3942,7 +4004,11 @@
    "status": "ZASIANY_299-08-13_doktryna_(nie_teraz-arytmetyka+zima)",
    "_dziennik_nota": 3,
    "stan_watku": "ZYWY",
-   "stan_uwaga": "Operacja otwarta: WIAZKA SZOSTA (ustroj) na Wielkiej Radzie 300-04-01. Zarzut Rodrika z 299-09-21 bez odpowiedzi. Bez granicy liczbowej; Korona nie pyta lordow o wlasnych zbrojnych."
+   "stan_uwaga": "Operacja otwarta: WIAZKA SZOSTA (ustroj) na Wielkiej Radzie 300-04-01. Zarzut Rodrika z 299-09-21 bez odpowiedzi. Bez granicy liczbowej; Korona nie pyta lordow o wlasnych zbrojnych.",
+   "filar": "STALA ARMIA KORONY",
+   "wchlonelo": [
+    "stala_armia_koronna_koncepcja_299_06"
+   ]
   },
   {
    "id": "kruk_z_muru_dluga_noc_299_08",
@@ -4043,7 +4109,11 @@
    "id": "kompania_pierwszy_list_dorzecza_299_08",
    "tytul": "Kompania Polnoc-Dorzecze: pierwszy praktyczny list - Dorzecze chce nazwisk i miejsc",
    "status": "ODPOWIEDZIANE_299-08-22:_miara_Korony,_sklad_Fosa_Cailin_(jawnie_w_lennie_Namiestnika),_pioro_Korony=Marszalek_Osric;_eskorta_platna_przez_Kompanie",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "kompania_polnoc_dorzecze_299_08",
+   "stan_powod": "Scalony na polecenie gracza 300-02-25. Pierwszy list Dorzecza to OPERACJA pod filarem Kompanii (zasada 36a), nie drugi filar. Zapisu nie wykreslono - szukac pod filarem."
   },
   {
    "id": "warstwa_rzadcow_transmisja_prawa_299_08",

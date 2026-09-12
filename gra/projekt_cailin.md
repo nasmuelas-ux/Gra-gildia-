@@ -382,3 +382,75 @@ Dla zmęczonego wozaka z południa i dla żeglarza z Essos ten widok wyłaniają
 Płaski dach, zgodnie z prawem kamienic Cailin, przekształcony w **taras widokowy** — zamiast surowej darni **kwitnące na pomarańczowo kwiaty bagienne** i gęsty mech. Ulubione miejsce rodziny Tally.
 
 Widok: parujący **Kanał Wielki** i sznury taborów jukowych idących **na Biały Port**.
+
+---
+
+# PUNKT 10 — PRACE POSZCZEGÓLNE
+### dopisany 300-02-27, Fosa Cailin, noc. Rozstrzygnięcie gracza.
+_Nazwany „punktem 10", a nie „częścią piątą", żeby nie mylił się z „X. Kolor" wewnątrz Części Trzeciej._
+
+> **ZASADA NACZELNA, WZIĘTA WPROST ZE STANDARDU TRAKTU:**
+> **Liczby na całość nie da się podać uczciwie, dopóki nikt nie przeszedł tej trasy z tyczką.**
+> Punkt 10 jest narzędziem, które zamienia standard w liczby: **każdy odcinek osobno, z klasą gruntu, z obiektami od sztuki i z nazwiskiem mierzącego.**
+
+---
+
+## A. EKIPA POMIAROWA — obsadzona 300-02-27
+
+| kto | co wnosi |
+|---|---|
+| **WEYLIN**, inżynier zamkowy | woda: co osuszalne, gdzie rowy i śluzy, czego nie tykać |
+| **ORBELO**, syn palownika | kamień: co się na czym postawi |
+| ### **TRZECI — WYBIERA WARRYN** | ### krzesło puste do wskazania |
+| **ręce z REJESTRU DNIÓWEK** | ci, którzy **sami podali, że umieją mierzyć** — bo od 300-02-26 lenno płaci za robotę, więc każdy, kto chce grosz, wpisuje imię, wieś i fach |
+
+**Skąd wiadomo, kto umie:** z **dwóch kolumn dopisanych do spisu 300-02-07** — po odkryciu Warryna, że *„ludzie nie umieją odpowiedzieć na pytanie, co umieją"*. Mierniczych się nie szuka. **Czyta się własną księgę.**
+
+---
+
+## B. KOLEJNOŚĆ — rozstrzygnięta
+
+### **① PRZEWŁOKA — PIERWSZA.** Najkrótsza prosta Cailin → słona woda.
+Na tej jednej liczbie wiszą: **umowa z Wymanem**, **dok w Ujściu**, i cały **łańcuch dwóch mórz**. Bez niej nie wolno wytyczać niczego.
+
+**② POMIAR RZEKI FEVER** — ile tygodni pod lodem. *Przed jakąkolwiek obietnicą terminu* dla Gorącego Portu.
+
+**③ ZWIAD KAMIENIA NA ZACHODZIE** — wspólny ze Starkportem. Wiosna 300.
+
+---
+
+## C. PRACE POSZCZEGÓLNE — odcinek po odcinku
+
+**Każdy wiersz dostaje: klasę gruntu · długość zmierzoną, nie szacowaną · obiekty od sztuki · cenę wyliczoną ze standardu · nazwisko mierzącego i datę pomiaru.**
+
+### Klasy i ceny — ze `standard_traktu_polnocy.md`
+| klasa | gdzie | koszt mili |
+|---|---|---:|
+| **I. grunt twardy** | stary Trakt Królewski do poprawy, wyżyny | **8–12 smoków** |
+| **II. grunt miękki** | łęgi, brzegi, doliny rzeczne | **18–25 smoków** |
+| **III. bagno** | Przesmyk — **grobla na palach** | **35–50 smoków** |
+
+*Od sztuki:* przepust 1–2 · most drewniany do 30 stóp 8–15 · dalsze pozycje wedle standardu.
+
+### Odcinki do rozpisania
+
+| odcinek | klasa *(wstępnie)* | co blokuje wycenę | kto |
+|---|---|---|---|
+| **PRZEWŁOKA Cailin → słona woda** | II / III | ### pomiar — **idzie pierwszy** | ekipa |
+| **UJŚCIE — dok, nie port** | — | pomiar przewłoki **i** umowa z Wymanem *(siedem artykułów)* | — |
+| **TRAKT FOSA CAILIN – CERWYN – BIAŁY PORT** | I / II | nikt nie przeszedł z tyczką | — |
+| **GROBLA FOSY** *(w robocie)* | **III — pale** | stoi przez odwilż; **cztery kafary** | Bran |
+| **WIELKA ŚLUZA + gniazdo na wał** | — | ### **gniazdo musi być w rysunku, zanim komora się zamknie** | Weylin + Orbelo |
+| **SPŁAW RZEKĄ FEVER** | — | pomiar Fever: ile tygodni pod lodem | — |
+| **GORĄCY PORT + baszta** | — | ### zwiad kamienia · **brak przypisanej kasy** | ### NIKT |
+| **STARKPORT / Cypel** | — | ekipa dopiero zbierana | ### PUSTY |
+| **odbudowa TRAKTU KRÓLEWSKIEGO** | I | odcinkami, wedle standardu | — |
+
+---
+
+## D. REGUŁA, KTÓRA CHRONI TEN PUNKT PRZED LOSEM POPRZEDNICH
+
+Rozkaz z **299-10-01** („przeliczyć spichlerz od nowa") nie został wykonany **nie dlatego, że ktoś odmówił, tylko dlatego, że nie miał właściciela ani daty.**
+
+> ### **ŻADEN ODCINEK NIE WCHODZI DO TEJ TABELI BEZ NAZWISKA I BEZ DATY.**
+> Wiersz bez obu jest **życzeniem**, nie pracą — i tak ma być czytany.

@@ -17,9 +17,11 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon | pismo o granicach urzędu dla **Gartha** | przed przyjazdem Cerwyna | 300-02-25 |
 | Symon → **Wymanowi** | **umowa o UJŚCIU** — siedem artykułów; dok, nie port | **przed pierwszym palem w Ujściu** | 300-02-25 |
 | Kancelaria | **trzy liczby łańcucha** — jeden tekst do sześciu mistrzów, co do przecinka | z najbliższym gońcem | 300-02-25 |
-| ### NIKT | **zwiad kamienia na zachodzie** *(wspólny ze Starkportem)* | ### wiosna 300 | 300-02-25 |
-| ### NIKT | **pomiar rzeki Fever** + ile tygodni pod lodem | ### przed jakąkolwiek obietnicą terminu | 300-02-25 |
-| ### NIKT | **pomiar przewłoki** — najkrótsza prosta Cailin → słona woda | ### przed wytyczeniem czegokolwiek | 300-02-25 |
+| ekipa pomiarowa | **zwiad kamienia na zachodzie** *(wspólny ze Starkportem)* — **trzeci w kolejności** | wiosna 300 | 300-02-27 |
+| ekipa pomiarowa | **pomiar rzeki Fever** + ile tygodni pod lodem — **drugi w kolejności** | przed jakąkolwiek obietnicą terminu | 300-02-27 |
+| **WEYLIN + ORBELO + trzeci** | ### **POMIAR PRZEWŁOKI — IDZIE PIERWSZY.** Ręce z **rejestru dniówek** (kto sam podał, że umie mierzyć). Na tej liczbie wisi umowa z Wymanem, dok w Ujściu i łańcuch dwóch mórz | ### przed wytyczeniem czegokolwiek | 300-02-27 |
+| Warryn | **wskazać trzeciego do ekipy pomiarowej** — z dwóch kolumn spisu, nie z domysłu | — | 300-02-27 |
+| **projekt Cailin** | **PUNKT 10 — PRACE POSZCZEGÓLNE** dopisany: odcinek po odcinku, klasa gruntu, obiekty od sztuki, cena ze standardu. ### *Żaden odcinek bez nazwiska i bez daty* | `gra/projekt_cailin.md` | 300-02-27 |
 | Symon | **prawo o składach** — pisze SAM, Cerwyn nie tknie. ### **To jest jedyne narzędzie na legalnego hurtowego kupca** *(cło jest na wywóz, a Stannis kupuje wewnątrz Północy)* — licencja / pułap / rejestr, kto może kupować ilościami | przed 300-03-02 | 300-02-27 |
 | ### Symon / Garth | ### **KSIĘGA BRAMY ZA DZIEWIĄTY MIESIĄC** — rozstrzyga bez śledztwa, czy istnieje droga na południe z pominięciem komory. *Pismo w tej sprawie poszło już raz 299-09-09 — sprawdzić, czy wróciła odpowiedź* | ### przed 300-03-07 | 300-02-27 |
 | ~~Symon: odpowiedź burmistrzowi~~ | **DANE 300-02-27: „Korona odpowie PO RADZIE" (300-04-01).** Herwin Szala wypisuje to na słupie — *data na słupie broni się sama* | wykonane | 300-02-27 |

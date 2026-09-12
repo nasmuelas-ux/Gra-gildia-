@@ -25,8 +25,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon | odpowiedź **burmistrzowi**: TERMIN, nie łaska | **SPÓŹNIONE — 3 miesiące** | 299-11 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
 | Symon → Theonowi | „będę ci mówił" | **BEZ TERMINU** | 300-02-18 |
-| **LADY CATELYN** | **JEST W DORZECZU I NEGOCJUJE** *(rozstrzygnięcie gracza 300-02-27)*. Nie ma jej położenia, bo **ramię Korony kończy się na Przesmyku** — Bryen zawrócił z Fosy, moneta Korony nie przekracza granicy Dorzecza. **Kanał do niej: LUCAN**, tygodnie | okno na Fosie do **300-03-07** | 300-02-27 |
-| ### Symon | ### **LIST DO CATELYN — przez Lucana czy dalej czeka u Warryna?** W nim traktat z 300-02-07, **którego ona nie zna, a negocjuje**. Każdy dzień zwłoki to dzień, w którym rozmawia ślepa | ### decyzja wisi | 300-02-27 |
+| **LADY CATELYN** | **SIEDZI W RIVERRUN I NEGOCJUJE Z TULLYMI** — od jesieni. Trasa: zachód → danina *(Bryen za nią)* → **przez Fosę jesienią 299** → Dorzecze. **Nie jest tu spodziewana i nigdy nie była** | — | 300-02-27 |
+| ### Symon | ### **LIST DO CATELYN — przez Lucana czy dalej leży u Warryna?** W nim traktat z **300-02-07**, **którego ona nie zna, a negocjuje**. Miał być wręczony do rąk własnych „gdyby tędy przejeżdżała" — **ona tędy nie przejeżdża** | ### decyzja wisi | 300-02-27 |
 | Gawen | Ochmistrz Wychowanków — ogłoszenie nazwiska | 300-03-01 | 300-02-16 |
 | Gawen | Mistrz Zapasów Zimowych (etap I) | — | 300-02-15 |
 | Gawen | **liczący** — sześć wierszy, ilu ludzi przy której robocie | **BEZ DATY** ⚠️ | 300-02-20 |

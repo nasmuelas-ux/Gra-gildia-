@@ -3049,7 +3049,7 @@
    "id": "wektor_dolina_arryn_1127",
    "tytul": "Dolina Arrynow - budzaca sie kalkulacja (granica, sila Polnocy, Catelyn-Lysa)",
    "status": "MUR_STRACHU_299-03-15_adresowac_zrodlo_szeptu_nie_Lyse",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "stan_watku": "ZYWY",
    "filar": "DOLINA ARRYNOW",
    "wchlonelo": [
@@ -3085,7 +3085,7 @@
    "id": "catelyn_misja_orle_gniazdo_1127",
    "tytul": "Lady Catelyn -> Orle Gniazdo do Lysy (pozyskac Dyskaline)",
    "status": "WYRUSZYLA_pitch_pomsta_za_Jona+silna_Polnoc",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "sansa_status_po_blackwater_1127",
@@ -5983,7 +5983,7 @@
   {
    "id": "traktat_handlowy_z_dorzeczem_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "filar": "TRAKTAT HANDLOWY Z DORZECZEM",
    "stan_watku": "ZYWY"
   },
@@ -6005,7 +6005,7 @@
   {
    "id": "rachunek_drogi_i_liczba_dla_rickona_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel E - zdarzenie. Rachunek zrobiony, wyjazd przesuniety na 300-02-19, postoj u Cerwyna wpisany w trase. Liczba Rickona zyje osobno w rickon_drugie_ogniwo_linii."
@@ -6064,7 +6064,7 @@
   {
    "id": "DANINA_LENNA_299_09_04",
    "status": "otwarty",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "filar": "DANINA LENNA I KALIBRACJA DANIN",
    "stan_watku": "ZYWY"
   },
@@ -6112,7 +6112,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 8
   },
   {
    "id": "rzadca_warryn",
@@ -6142,7 +6142,7 @@
   {
    "id": "catelyn_stark",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   }
  ]
 }

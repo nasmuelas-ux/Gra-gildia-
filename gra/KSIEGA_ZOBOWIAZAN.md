@@ -43,7 +43,12 @@ Na start tylko to, co pewne z ostatnich dni:
 | Kessel | **wskazać zastępcę** | — | 300-02-25 |
 | ### Symon | ### **czy księga Jastrzębi idzie do pisarza grodzkiego** — rada Warryna: kto dowodzi, nie spisuje sam, co zrobił | ### decyzja wisi | 300-02-25 |
 | Hendry | **kwit przy bramie** — Rowan Półucho obejmuje komorę po Kesselu i **nie czyta**; kto podpisuje | **przed 300-03-02** *(Cerwyn)* | 300-02-25 |
-| ### Warryn + ORLAND KORZEC | ### **posadzić przy jednym stole: gęby i korce.** Dwie połówki jednej liczby trzymane osobno od 299-05; Symon jedynym złożeniem, a wyjeżdża 07. | ### **przed 300-03-07** | 300-02-25 |
+| Warryn + Orland Korzec | **A · jedna karta co 10 dni** — gęby / korce / **na ile dni starczy**. Do rąk Symona i do księgi | **od 300-02-26** | 300-02-25 |
+| Orland Korzec | **C · rozgrodzić skład na cztery przegrody**, każda z kreską ogłoszoną z góry: ziarno siewne, żywność na rok, rezerwa na klęskę, obrok. **Klucz u niego, księga u pisarza grodzkiego, rządca ma wgląd bez klucza** | **300-03-07** | 300-02-25 |
+| Orland + Warryn | **D · kto trzyma, nie decyduje** — Orland wydaje na liczbę Warryna; **odmowa tylko na piśmie, z powodem** | **300-03-07** | 300-02-25 |
+| ### Symon | ### **PRZEGRODA ① BĘDZIE PUSTA** — ziarna siewnego w spichrzu nie ma, leży w chałupach pod łóżkami, nieliczone przez nikogo. Wybrać: **policzyć** (Warryn ma podać cenę polityczną wejścia do stu chałup) albo **poręczyć** (lenno daje siew wiosną każdemu, kto swój zjadł) | ### **Czwarty Miesiąc 300** *(Torren: „jak nie puszczą, to zjemy"; Aeg je od Pierwszego)* | 300-02-25 |
+| ### Symon | ### **pisarz przy bramie** — inaczej kwit podpisywany wieczorem z pamięci Rowana, a to **gorsze niż brak kwitu, bo wygląda jak zapis** | **przed 300-03-02** | 300-02-25 |
+| ### Symon | ### **Warryn ma teraz trzy rzeczy w jednej ręce** *(gęby, obie księgi, kwit przy bramie)* — przy Willi rewizor istniał (Tam), tu nie istnieje nikt | ### przed wyjazdem | 300-02-25 |
 | Warryn | **sołtysom: kto widział ten wóz w drodze** *(pytano dotąd tylko o zaginięcia)* — ławy przysięgłych mają obowiązek odpowiadać | przed 300-03-07 | 300-02-25 |
 | Warryn + Alys | ### **bilans karmi ~1400 dusz, a liczy ~1000** — 1/3 przyszła zimą nie wiadomo skąd; domknąć spis 5 wsi i przeliczyć przednówek | ### przed przednówkiem | 300-02-25 |
 | Garrick | gotowość miasteczka pod prawo składu (waga, szopy, księga) | 10 dni | 300-02-25 |

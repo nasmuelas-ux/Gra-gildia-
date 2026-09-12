@@ -68,7 +68,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Wiec żelaznych, Euron | **Theon** *(jedyny)* | gdy Balon padnie | 300-02-17 |
 | Mance Rayder, 20–40 tys. pod Murem | Osric / Straż | parlej | 300-02-16 |
 | Stannis — Mur, czerwona kapłanka | Wyman / Davos | bez terminu | 299-12-29 |
-| **Bękart Joffreya** | ### BEZ KANAŁU | — | 299 |
+| **Król bez legitymizacji, który rządzi** *(after-efekt — dowód dostarczony, Stannis ogłosił 299-03-15)* | Nesta → **Żelazny Bank** *(najlepszy: Bank mówi ceną pieniądza)* · Lucan → Dorzecze · Wyman/Davos → Stannis | ciągle | 299-03-15 — cios mocny, nie nokaut; **ropieje** |
 | **Daenerys** | Nesta | III/300 | ### ani jednej drogi |
 | Żelazny Bank, 6 mln długu Tronu | Nesta | — | 300-02-06 |
 | Baelish | Lucan | — | 300-02-06 |

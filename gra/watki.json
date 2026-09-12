@@ -2919,7 +2919,10 @@
    "id": "keystone_dowod_kazirodztwa_1219",
    "tytul": "KEYSTONE: dowod kazirodztwa zdobyty (wzor krwi + ksiega + trop Jona Arryna) - bron nabita",
    "status": "WYSTRZELONY_PUBLICZNIE_299-03-15",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Bron wystrzelona, nie nabita. Dowod dostarczony Stannisowi ~299-03-15 po zapieczetowaniu Aktu niepodleglosci (warunek Robba dotrzymany), Stannis oglosil 299-03-15 (rzut 59). Cios mocny, nie nokaut - delegitymizacja zasadzona i ropieje. Caly pozytek Polnocy wziety, zaplacil Stannis. Skutek zyje osobno w stan_poludnia_hollow_tron_299_07."
   },
   {
    "id": "akt_niepodleglosci_polnocy_1219",
@@ -3508,7 +3511,9 @@
    "id": "stan_poludnia_hollow_tron_299_07",
    "tytul": "Stan Poludnia: wydrazona korona Joffreya, Tywin realnym panem, Stannis-ciern na Smoczej Skale",
    "status": "USTALONY_kanon_299-07",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "After-efekt: krol rzadzi bez legitymizacji. Kanaly: Nesta/Bank, Lucan/Dorzecze, Wyman-Davos/Stannis. Brak kanalu NA DWORZE."
   },
   {
    "id": "stannis_poludniowy_pretendent_299_07",

@@ -454,3 +454,29 @@ Rozkaz z **299-10-01** („przeliczyć spichlerz od nowa") nie został wykonany 
 
 > ### **ŻADEN ODCINEK NIE WCHODZI DO TEJ TABELI BEZ NAZWISKA I BEZ DATY.**
 > Wiersz bez obu jest **życzeniem**, nie pracą — i tak ma być czytany.
+
+---
+
+## E. CZĘŚCI WŁASNE PROJEKTU — rozpisane na realizację
+### dopisane 300-02-27 na polecenie gracza
+
+**Ta sama reguła co przy odcinkach: właściciel albo PUSTY. Bez trzeciej możliwości.**
+
+| część projektu | kto prowadzi | stan na 300-02-27 | co ją blokuje |
+|---|---|---|---|
+| **I. Trakt do Riverrun** *(Fosa → Dorzecze)* | ### PUSTY | policzony, niezaczęty | brak człowieka **i** pomiaru; kolejka: po przewłoce i Fever |
+| **II. Odbudowa fortecy** | Weylin *(inżynier zamkowy)* | 3 wieże z 20; brama stoi w rusztowaniu | ### kierunek murów — *„wasza forteca patrzy w złą stronę"* (Luwin, 299-09-08); **kamień kładzie się raz** |
+| **III. Grobla i pale** | **BRAN**, majordom robót | cztery kafary, **stoi przez odwilż** | grunt rozmiękły; kamień przychodzi wodą, a zwiad kamienia jest trzeci w kolejce |
+| **Wielka Śluza** | **Weylin + Orbelo** | w rysunku | ### **gniazdo na wał — zanim komora się zamknie** |
+| **MŁYN** *(koło w śluzie)* | Weylin + Orbelo | rozkazany 300-02-25 | ### **młynarz nieobsadzony** — wybierają **Warryn i Kessel** wspólnie |
+| **IV. Miasto Cailin** | **HERWIN SZALA** + rada | karta nadana, burmistrz z wyboru, kasa miejska | działki: **losuje ława jawnie**; **jedna waga na dziewięć rzemiosł** |
+| **VI. Port** | ### PUSTY | plan istnieje, ekipy nie ma | Wyman nazwał to portem i na tym się skończyło |
+| **UJŚCIE — dok, nie port** | ### NIKT | siedem artykułów umowy gotowych | pomiar przewłoki **i** podpis Wymana |
+| **VII. Dzielnica Zielona / szklarnie** | **WERRAN** *(sam — Mira rodzi 03-03)* | chodzą, mała skala | **żrą torf cały rok**, a ten sam torf grzeje chałupy |
+| **VIII. Woda i mosty** | Weylin | — | wchodzi w pomiar przewłoki |
+| **IX. Ciepło i para** | ### PUSTY | — | zależne od torfiarni i huty szkła |
+| **XII. Straż — Mchowe Jastrzębie** | **KESSEL BRODATY** *(zastępca: Odd Mokradło)* | pierwsza dwudziestka powołana | **księga idzie do pisarza grodzkiego** — kto dowodzi, nie spisuje sam |
+| **Spichlerz — cztery przegrody** | **ORLAND KORZEC** | rozmierzony | przegroda ① pusta: **ziarna siewnego w spichrzu nie ma** |
+| **Lecznica i apteka bagna** | **NINA** | stoi i leczy; księga medycyny rośnie | druga uczennica; **cena ogłoszona dla mchu** |
+| **Szkoła + posiłek** | **WARRYN** | działa; **wydała pierwszy rachunek** | trzech pisarzy odchodzi do Korony |
+| **Przywilej bagienny — 6 rzemiosł** | **WARRYN** *(termin 300-03-07)* | na słupie od 300-02-26 | ### **do kuźni nie zgłosił się nikt**, a kuźnia idzie pierwsza |

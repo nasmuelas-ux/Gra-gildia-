@@ -14,7 +14,8 @@ Na start tylko to, co pewne z ostatnich dni:
 
 | kto | co | do kiedy | ostatnio ruszone |
 |---|---|---|---|
-| Symon | pismo o granicach urzędu dla **Gartha** | przed przyjazdem Cerwyna | 300-02-25 |
+| **Symon → GARTH** | ### **SPOTKANIE JUTRO, 300-02-28.** Na stole: pismo o granicach urzędu *(jego i straży Hendry'ego)* · **księga bramy za dziewiąty miesiąc** · ponowny pomiar dziury w komorach wodnych | **300-02-28** | 300-02-27 |
+| **Symon → MELLA** | ### **SPOTKANIE JUTRO, 300-02-28.** Wyrabia gwoździe we wsi pod groblą; „kobieta z kuźni" ze spisu uwolnionych z Harrenhal. **Pisała rachunki za męża ZANIM tu przyszła — zapytana gdzie, nie chciała powiedzieć** | **300-02-28** | 300-02-27 |
 | Symon → **Wymanowi** | **umowa o UJŚCIU** — siedem artykułów; dok, nie port | **przed pierwszym palem w Ujściu** | 300-02-25 |
 | Kancelaria | **trzy liczby łańcucha** — jeden tekst do sześciu mistrzów, co do przecinka | z najbliższym gońcem | 300-02-25 |
 | ekipa pomiarowa | **zwiad kamienia na zachodzie** *(wspólny ze Starkportem)* — **trzeci w kolejności** | wiosna 300 | 300-02-27 |
@@ -32,7 +33,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon → Theonowi | „będę ci mówił" — **tanie do dotrzymania: Theon idzie do DUSTINPORT** *(doradza przy budowie okrętów, uczy admirała walki)*, a Dustinport melduje od 300-03-01. **Jedna linijka do istniejącej karty, nie nowy kanał** | z meldunkami Dustinport | 300-02-27 |
 | ### **Torren Solny** | ### **meldunek eskadry, osiem rubryk — NIE PRZYSZEDŁ.** Od tego zależy, czy Theon jedzie do Dustinport, czy wraca z Symonem 07. **Czekamy do 300-02-28** | ### **300-03-07** | 300-02-27 |
 | **LADY CATELYN** | **SIEDZI W RIVERRUN I NEGOCJUJE Z TULLYMI** — od jesieni. Trasa: zachód → danina *(Bryen za nią)* → **przez Fosę jesienią 299** → Dorzecze. **Nie jest tu spodziewana i nigdy nie była** | — | 300-02-27 |
-| ### Symon | ### **LIST DO CATELYN — przez Lucana czy dalej leży u Warryna?** W nim traktat z **300-02-07**, **którego ona nie zna, a negocjuje**. Miał być wręczony do rąk własnych „gdyby tędy przejeżdżała" — **ona tędy nie przejeżdża** | ### decyzja wisi | 300-02-27 |
+| **Symon → Catelyn** | **IDZIE PRZEZ LUCANA 300-02-27.** Niosący ma rozkaz spalić przy zatrzymaniu; drugą drogą kartka *„list jedzie, czekaj"*. **Druga kartka pod tą samą pieczęcią:** termin drugiej ratyfikacji (koniec VI/300) i zakaz zaliczek | wysłany | 300-02-27 |
 | Gawen | Ochmistrz Wychowanków — ogłoszenie nazwiska | 300-03-01 | 300-02-16 |
 | Gawen | Mistrz Zapasów Zimowych (etap I) | — | 300-02-15 |
 | **Gawen** | **liczący — sześć wierszy, ilu ludzi przy której robocie.** ### **DATA: 300-04-01, NA RADĘ** — choćby niepełne, z rubryką „nie policzone" | **300-04-01** | 300-02-27 |
@@ -52,13 +53,13 @@ Na start tylko to, co pewne z ostatnich dni:
 | ~~Hendry + Warryn: po trzy nazwiska~~ | **ODDANE 300-02-25.** Sześć nazwisk, **KESSEL BRODATY na obu listach**. Dziura: żaden z sześciu nigdy nie dowodził dwudziestoma | wykonane | 300-02-25 |
 | ~~Symon: wybrać dowódcę~~ | **KESSEL BRODATY mianowany 300-02-25.** Zastępcę wybiera sam | wykonane | 300-02-25 |
 | Kessel | **wskazać zastępcę** | — | 300-02-25 |
-| ### Symon | ### **czy księga Jastrzębi idzie do pisarza grodzkiego** — rada Warryna: kto dowodzi, nie spisuje sam, co zrobił | ### decyzja wisi | 300-02-25 |
+| pisarz grodzki | **księga Mchowych Jastrzębi — ZATWIERDZONE 300-02-27.** Ani Kessel, ani Odd jej nie tykają | od zaraz | 300-02-27 |
 | Hendry | **kwit przy bramie** — Rowan Półucho obejmuje komorę po Kesselu i **nie czyta**; kto podpisuje | **przed 300-03-02** *(Cerwyn)* | 300-02-25 |
 | Warryn + Orland Korzec | **A · jedna karta co 10 dni.** **ZAPAS** (jest za murem): gęby · plon · zapas · torf · szklarnie. **DOWÓZ** (osobno, nie doliczać do zapasu): **sól i ryba u Hala w Białym Porcie — ile leży, ile dni drogi, czy trakt stoi.** Na dole jedna liczba | **od 300-02-26** | 300-02-25 |
 | Orland Korzec | **C · rozgrodzić skład na cztery przegrody**, każda z kreską ogłoszoną z góry: ziarno siewne, żywność na rok, rezerwa na klęskę, obrok. **Klucz u niego, księga u pisarza grodzkiego, rządca ma wgląd bez klucza** | **300-03-07** | 300-02-25 |
 | Orland + Warryn | **D · kto trzyma, nie decyduje** — Orland wydaje na liczbę Warryna; **odmowa tylko na piśmie, z powodem** | **300-03-07** | 300-02-25 |
 | **Weylin + Orbelo** | **KOŁO W ŚLUZIE — gniazdo na wał w rysunku, ZANIM komora się zamknie.** Podpisują obaj, nie po randze, po materii | ### **decyzja o tygodniach** | 300-02-25 |
-| ### Symon | ### **kto jest młynarzem i kto go wpuszcza** — młyn w śluzie znaczy, że **młynarz stoi w bramie wodnej twierdzy**, codziennie, o świcie. Wybór człowieka straży, nie rzemieślnika | ### **zanim stanie koło** | 300-02-25 |
+| **Warryn + Kessel** | **wybrać młynarza WSPÓLNIE** — jeden patrzy na fach, drugi na to, kogo się wpuszcza do bramy wodnej o świcie | **zanim stanie koło** | 300-02-27 |
 | **Symon → Howland Reed** | **list — trzy pytania i oferta:** co jest wasze · co chcecie sprzedawać sami · czego nie zaczynać · **a co odpowiecie, wypiszemy na słupie przy przywileju**. Kanałem Warryna przez znachorów — *przeczytają go, zanim dotrze* | wysłany 300-02-26 | 300-02-25 |
 | Warryn | **na słup jutro tylko SZEŚĆ rzemiosł** — jaszczurołwy, futra i żaby zostają w szufladzie do odpowiedzi Howlanda | **300-02-26** | 300-02-25 |
 | Symon → burmistrz | **przywilej bagienny: lord nadaje, MIASTO SADZA.** Wydany ponad jego głową powie mu, że jest pomijany — a czeka trzy miesiące na prawo składu | z przywilejem | 300-02-25 |
@@ -92,7 +93,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE — **przypomnienie wysłane 300-02-27**, jedno zdanie, bez nazwiska: *„podaję datę"*. **Osobna karta**, nie razem z prośbą o zwyczaj | 300-02-27 |
 | Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |
 | ### **KORONA → DOM** | ### **695 SMOKÓW** — rachunek wystawiony i opieczętowany **300-01-27**, pięć pozycji *(310 zaległe · 268 zboże · 74 przewóz · 26 dyskonto · 17 Lucan)*. ### **TERMIN 300-03-01 — ZA DWA DNI. ODPOWIEDZI SKARBNIKA NIE MA.** Prowadzi **HAL**; Symon nie dotyka — **pieczęć Domu, podpis właściciela, nie Namiestnika** | ### **300-03-01** | 300-02-27 |
-| ### Symon | ### **czy pismo do Gawena mimo to wychodzi** — oszacowanie już jest i jest NASZE; łamałoby to konstrukcję z 300-01-26 *(„dyrektor ściąga, Namiestnik nie dotyka")* | ### decyzja wisi | 300-02-27 |
+| **Symon → Gawen** | **PISMO WYCHODZI 300-02-27** — świadome przelamanie własnej zasady z 300-01-26. ### **Zapisane jako WYJĄTEK Z DATĄ, nie zmiana reguły** — żeby Hal wiedział, że jednorazowe. Termin 695 zapada **300-03-01** | wysłane | 300-02-27 |
 | **Hal** | **towar najzyskowniejszy na zwrot** — **wedle cen Białego Portu, nie Braavos** *(karta Nesty skreślona)* | — | 300-02-27 |
 | ### Symon | ### **W CZYM, nie ile — GAWEN NIE CHCE PŁACIĆ ANI MONETĄ, ANI TOWAREM.** *„Niech Korona płaci waszemu Domowi PRZYWILEJEM. Przywilej jest jawny, ogłoszony, ma datę. Dług jest cichy, rośnie i nie ma końca."* Boi się nie o wasz honor, tylko o to, że **to on wpisywał** | ### **przed Radą 300-04-01** | 300-02-27 |
 | Symon | **granice urzędu także dla straży Hendry'ego przy komorze** — kogo wolno zatrzymać, czego NIE wolno, do czyjej księgi wpis | z pismem dla Gartha | 300-02-25 |
@@ -120,7 +121,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Garrick | włożyć arkusze z rozmowy z Willą do **księgi zamkniętej** — przy Symonie, żeby była data i świadek | przed wyjazdem **300-03-07** | 300-02-25 |
 | Symon | **spisywać ustalenia z Willą własną ręką** tego samego wieczoru — pisarzy przy niej nie ma | stale, od dziś | 300-02-25 |
 | Willa | **zbierać dokumentację wizerunkową** pod rosnącą linię w Kasie 1 — kwity z gościny, rachunki za dary, wpisy z fundacji, świadkowie. Tam audytuje **udokumentowanie**, nie zasadność; pusta kategoria go nie uspokoi | stale, od 300-03 | 300-02-25 |
-| ### Symon | ### **drugi, mniejszy strumień BEZ dokumentacji** — na cichego kupca i na szyfratora; „wizerunek" tego nie przykryje. **Skąd — nierozstrzygnięte** | przed 300-03-10 | 300-02-25 |
+| **Willa + Hal** | **drugi strumień bez dokumentacji — W PROCES.** Mają przedstawić, **skąd** może płynąć, żeby nie zostawiał śladu wizerunkowego i nie przechodził przez Tama | ### **300-03-10** *(bez tego cichy kupiec nie ruszy)* | 300-02-27 |
 | Willa → Symon | **kwartalny przegląd własnych liczb** — bez pisarzy, u Symona gdziekolwiek będzie; co mówiłam / co z tego wyszło / gdzie się pomyliłam | **300-05-25** | 300-02-25 |
 
 ---

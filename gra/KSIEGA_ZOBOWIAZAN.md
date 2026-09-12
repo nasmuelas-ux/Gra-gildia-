@@ -82,7 +82,6 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Ramsay — wezwanie do 40 domów, bez wyjątku** | Korona, jawnie | przyjazd **przed 300-04-01** | 300-02-05 |
 | Traktat z Dorzeczem | Catelyn / Lucan | **ratyfikacja do VI/300** | 300-02-06 |
 | Sukcesja Bliźniaków | Catelyn | — | 299-09 |
-| ~~Wylis Manderly — jeniec~~ | — | ### **ODNALEZIONY 300-02-25** | schodzi z listy jeńców; Wyman ma dziedzica |
 | **JON SNOW — po drugiej stronie Muru** *(filar własny)* | Osric/Straż · maester Aemon | — | 299-09 — Aemon: „nie napiszę, że nie żyje" |
 | **Rozdroże (Crossroads Inn)** — kto przejeżdża, dokąd, czyim znakiem, czego się boi | placówka Domu Tally | na bieżąco | 299-07 — przez nią uchyliła się Dolina |
 

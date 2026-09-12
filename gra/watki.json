@@ -15,7 +15,10 @@
    "_dziennik_przelom_robb_bozogaj_0811": 1,
    "_dziennik_kamien_milowy_robb_bozogaj_0811": 1,
    "_dziennik_funkcja_czlowiek_rady_0813": 1,
-   "_dziennik_gwiazda_ma_imie_breakspear_0826": 1
+   "_dziennik_gwiazda_ma_imie_breakspear_0826": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "zima_prowiant",
@@ -23,18 +26,27 @@
    "_dziennik_rotacja_staple_zima_0721": 1,
    "_dziennik_forward_skup_RUSZONY_0721": 1,
    "korekta_sklad_0721": "298-07-21 KOREKTA (gracz): staple ida do WLASNEGO magazynu Symona (Pate/Srodkowe Nabrzeze), nie do wynajmu u Aurane. Storage kaptowany wewnetrznie (lepsza ekonomia). Koszt alternatywny: wypiera platne skladowanie kupcow (#12); Aurane tylko overflow przy przekroczeniu pojemnosci.",
-   "_dziennik_spichlerz_ubogich_zabezpieczony_0727": 1
+   "_dziennik_spichlerz_ubogich_zabezpieczony_0727": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "audyt_frachtu_drewna",
-   "_dziennik_stan": 8
+   "_dziennik_stan": 8,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "blok_anty_antaryon",
    "_dziennik_stan": 31,
    "status": " || d29: Aldous (cegła 1) wciaz lojalny/wdzieczny; przy wizycie cicho zasygnalizowal, ze zauwazyl KOLEJNEGO kupca skubanego przez siec Antaryona (potencjalna cegła) — do dyskretnego namierzenia, bez rozglosu, zgodnie z sekwencja (nie zapalac lontu przed Bankiem ~30). || d29 (Marlon rzut 87): wizyta UTRZYMANIOWA na slabym ogniwie — Symon zero nacisku/zero bloku, tylko cieply check-in zaufanego audytora; bojazliwy Marlon USPOKOJONY, mniej lotny (nast 12->15), wciaz malo wie (celowo). Ryzyko, ze pęknie/tipnie Antaryona ze strachu — zmniejszone. Zgodnie z rada Nesty: trzymac go spokojnego pod zbiorowa oslona, nie opierac sie na nim. || 11-01 (Aldous rzut 53): LEAD na kolejna cegła — DENYS, handlarz woskiem/swiecami; jego dostawca z sieci Antaryona zdaje sie go skracac (swiece zima drogie = cel skimu). NIEZWERYFIKOWANE. Sciezka wg metody Nesty: nie zaczepiac jawnie (ekspozycja), lecz dac niszy weryfikacyjnej wciagnac go (niech sam najmie faktorie do ksiag) albo podejsc b.ostroznie; potwierdzic wzor, potem cicho oznaczyc jako kandydata. Symon niewidzialny. || 11-04 (nisza rzut 87): DENYS SAM PRZYSZEDL do faktorii po dyskretny audyt ksiag (niespokojny o dostawce z sieci Antaryona) — dokladnie metoda Nesty (nisza wciaga ofiary, Symon niewidzialny). Symon przyjal zlecenie dyskretnie, zrodlo chronione. Audyt = i honorarium (kasa cienka!), i WERYFIKACJA cegly-kandydata. Wynik audytu do rozstrzygniecia (nastepny krok). Denys nast 0->8. || 11-04 DENYS POTWIERDZONY (audyt rzut 89): dostawca z sieci Antaryona skraca go wg tego samego drapieznego wzoru — CEGŁA POTWIERDZONA. Blok: Leona(kotwica) + Aldous + Marlon(tchorz) + Harlon(twardy) + DENYS(nowy). Symon pokazal skim jak audytor, ZRODLA/sieci wiedzy nie odslonil (Denys nie wie o bloku ani manifestach). Denys wdzieczny/ufa (nast ->18, zauf+8), honorarium +3 jel. Trzymac go na razie low-info pod zbiorowa oslona (jak innych); aktywacja pozniej. Cichy cien bez zmian: kazdy antaryonski audyt dokłada do 'co ten skryba czyta' — ale front cechu zimny, dyskrecja pierwsza. || 11-08 (Harlon rzut 82): kregoslup bloku PEWNY — Harlon (twardy, bez strachu) mocno committed i WRECZ chetny do ruchu; daje read: nastroje kupieckie na Schodach HARTUJA sie przeciw zimowemu skubaniu sieci Antaryona (echo intelu Voxa), coraz wiecej czuje skim, gotowi stanac JESLI ktos poprowadzi. Readiness bloku w gore. Harlon = spina, za ktora tchorze (Marlon) pojda. Dyscyplina: trzymac go cieplo i GOTOWEGO, aktywacja PO pryncypale ~11-10 (nie zapalac lontu przedtem). Harlon 13->16. || 11-11 (Leona, rzut 10): wizyta KLAPLA (zly moment: Leona zaharowana, handel suknem przyduszony gluchym mrozem, opryskliwa; +Symon 12 dni nieobecny). Bez szkody (Leona solidna, nast 42 bez zmian), bez ocieplenia. SYGNAL: pod zimowym naciskiem MIEKSZE brzegi bloku sie nerwuja/chwieja — nie filary (Leona/Harlon twardzi), lecz tchorze (Marlon podatny). WNIOSEK: blok wymaga tendingu, zwlaszcza slabsze cegly, zanim ruszy karta celna. (pech nie kumuluje: kolejna porazka w koalicji +15) || 11-11 (Vox, rzut 28): mocny WEZEL trzyma — Vox twardo in (interes: stabilny port). Koroboruje fray Leony z innej strony: miekkie cegly nerwuja sie NIE tylko zima, lecz PRZEDLUZAJACYM sie bezruchem standingu (wisi dlugo bez ruchu -> tchorze watpia czy cos ruszy). TENSJA STRATEGICZNA: cierpliwosc (czekaj na dowod Gartha) vs COHEZJA bloku (nie postoi w nieskonczonosc). WNIOSEK: albo dowod dojrzeje zanim blok sie wykruszy, albo Symon AKTYWNIE doglada miekkie cegly (Marlon) i sygnalizuje ruch. Vox 37->39. || 11-11 (Marlon, rzut 55): SLABA CEGLA RE-OSADZONA. Symon uspokaja tchorza wlasciwym lekarstwem: standing ZBIOROWY, zero indywidualnej ekspozycji, nic aktywnego — tylko trwac. Marlon (boi sie zasiegu sieci, z ktora robi) ulzony, uspokojony (15->18). METODA na miekkie cegly potwierdzona: collective cover + brak indyw. ekspozycji + cierpliwosc. DOVETAIL: pasuje idealnie do 'struktury kontenerowanej' — neutralne framowanie (nieprawidlowosc celno-rachunkowa, nikt z bloku nie wytyka palcem) chroni tchorzy przy aktywacji. Blok znow spoisty, tensja z bezruchem zlagodzona (nie usunieta). || 11-21 (Harlon, rzut 24): spina bloku TRZYMA, ale nawet twardy/chetny Harlon zaczyna sie niecierpliwic PRZEDLUZAJACYM bezruchem ('kiedy ruszymy?'). Potwierdza tensje cierpliwosc vs cohezja (echo Voxa 11-11). Symon uspokaja (ruch po dowodzie Gartha, dyscyplina). PRESJA na tempo rosnie: dowod celny musi dojrzec, zanim niecierpliwosc bloku (nawet spiny) zacznie ciazyc. Harlon 16->18. || 297-03-16 (Boren, u niego w domu, rzut 95): PRZELOM KONCEPCYJNY. Podchody do szkutnikow/kowali/bednarzy chwytaja, ale napiecie cierpliwosc-vs-kohezja wciaz zywe (ludzie pytaja KIEDY). Symon dodal SPOIWO POZYTYWNE: zamiast wiazac blok tylko strachem/oslona vs Antaryon, zwiazac go WSPOLNYM ZYSKIEM - tanszy wsad drewna (odwilz) + agregacja popytu (kolodzieje + dwor/Godric) = blok, ktoremu sie 'przelewa' w miedzyczasie, wiec znosi czekanie na dojrzenie dowodu celnego. Boren kupil. Kohezja wzmocniona bez przedwczesnej aktywacji. || 297-03-16 (Nesta, caution): spoiwo-zysk dobre, ALE nie stac sie WIDOCZNYM wezlem ciagnacym za sznurki - wygladaloby jak drugi kartel, gdy ma sie sprawe celna przeciw pierwszemu. Zysk ROZLOZONY (wspolny stol, nie tron), zeby nie sciagnac tego samego oka, ktore chce sie zwrocic na Antaryona. Zgodne z OPSEC/firewallem. || 297-03-18: WEKTOR PRZECIEKU zidentyfikowany - VOX (najzyczliwszy, ale niedyskretny) znow GLOSNO chwali forensic Symona po Schodach (przy obcych). Zbiega sie z 2 ostrzezeniami o widocznosci (Nesta, Boren) - cech tropi \"co ten skryba czyta\". Vox = OPSEC leak. Do zrobienia: delikatnie okielznac jego jezyk bez zranienia (dumny/hojny sojusznik) - chronic firewall zrodla przed cechowym probem. || 297-03-19 (narada z Nesta o Voxie/widocznosci): PLAN zarzadzania przeciekiem - nie uciszac Voxa, PRZEKIEROWAC narracje: podsunac bezpieczna opowiesc (porzadny rachmistrz/dobre ksiegi) zamiast forensic (wywecha zlodzieja); zagrac na jego interesie (dyskrecja=wieksza wartosc uslugi, ekskluzywnosc=prestiz). Ongoing management, nie fix. Do wykonania przy nastepnej wizycie u Voxa. || 297-03-19 (rzut 16): proba przekierowania Voxa - DOBRA droga (prywatnie, ekskluzywnosc+cech, bezpieczna linia), Vox bez urazy i przytaknal, ALE nie utrzyma sie (wylewny z natury). LEWAR \"zarzadzac ustami Voxa\" = SLEPY. PIVOT DECYZYJNY: kontrolowac WLASNA widocznosc - mniej efektownego forensic na pokaz, nudne opisy wlasnej roboty, zero publicznych \"odkryc zlodzieja\". Redukcja spektakularnego materialu, ktory KAZDA plotka moglaby rozdmuchac. Fix po stronie Symona. || 297-03-20: SYGNAL NIECIERPLIWOSCI (Harlon, twarda cegla, rzut 5): sprezony przez gougera tej wiosny, wprost do Symona \"wywęszyles gdzie mnie okradaja i co z tego? sprawa spi, duzo gadania malo sie dzieje\". Twarde cegly krwawia dalej podczas gdy keystone spring-gated (Garth dyskretnie, Godric zajety). Napiecie cierpliwosc-vs-kohezja ACUTE u twardych. Potrzeba: albo RUCH na sprawie, albo pozytywne spoiwo (zysk - tanie zelazo/agregacja) zeby utrzymac niecierpliwych. Ryzyko: cegla moze pekac/tipnac ze zniecierpliwienia. || 297-03-22 (Boren u siebie, rzut 43): spoiwo-zysk PRZYLOZONE - dobra nowina o tanim wsadzie (korekta opalu/drewna) podlana blokowi przez Borena. ALE Boren uczciwie: to PLASTER nie lekarstwo; twardzi (Harlon) chca RUCHU NA SPRAWIE, grosz kupuje cierpliwosc tydzien-dwa nie wieczność. Zegar cierpliwosci tyka - keystone (spring-gated) musi w koncu drgnac, inaczej twarde cegly zaczna pekac. Realny strategiczny nacisk na czas. || 297-03-24: cichy rdzen bloku STABILNY - Denys (wdzieczna, lojalna cegla) zaopiekowany, nie dopytuje o sprawe (kontrast z niecierpliwym Harlonem). Blok ma DWA typy: twarde niecierpliwe ogniwa (chca ruchu, zegar tyka) + ciche wdzieczne (stabilne, wytrzymaja). Tendowac oba, ale nacisk czasu idzie od twardych.",
    "_dziennik_opis": 8,
-   "hal_wspolnik_pod_ogniem_0822": "298-08-22 (rzut 100): Hal (sierota szkolki Owena, pytal czy czlowiek bez nazwiska/cechu/rodziny moze ZNACZYC) UDOWODNIL ze znaczy - przez 3 tyg. sam utrzymal firme+rezerwe+firewall+honor Symona pod ogniem kliki zbozowej, i dolozyl rozumem (dokupil taniej). Chlopiec -> pelnowartosciowy wspolnik. Mentorstwo Symona zaowocowalo; Symon moze delegowac i skupic sie na budowie rezerwy Wymana."
+   "hal_wspolnik_pod_ogniem_0822": "298-08-22 (rzut 100): Hal (sierota szkolki Owena, pytal czy czlowiek bez nazwiska/cechu/rodziny moze ZNACZYC) UDOWODNIL ze znaczy - przez 3 tyg. sam utrzymal firme+rezerwe+firewall+honor Symona pod ogniem kliki zbozowej, i dolozyl rozumem (dokupil taniej). Chlopiec -> pelnowartosciowy wspolnik. Mentorstwo Symona zaowocowalo; Symon moze delegowac i skupic sie na budowie rezerwy Wymana.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "traktat_o_rachunkach",
@@ -43,7 +55,10 @@
   },
   {
    "id": "godric_audyt",
-   "_dziennik_stan": 2
+   "_dziennik_stan": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "czynsz",
@@ -99,7 +114,10 @@
    "typ": "aspiracja",
    "termin": null,
    "wobec": "self",
-   "_dziennik_stan": 4
+   "_dziennik_stan": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "praca_w_septie",
@@ -107,7 +125,10 @@
    "typ": "okazja/uklad",
    "termin": "296-08-07",
    "wobec": "septon_owen",
-   "_dziennik_stan": 3
+   "_dziennik_stan": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "list_ze_starego_zamku",
@@ -115,7 +136,10 @@
    "typ": "sekret/dzwignia/zagrozenie",
    "termin": null,
    "wobec": "notariusz_ryman",
-   "_dziennik_stan": 14
+   "_dziennik_stan": 14,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "rozwidlenie_dwie_nogi",
@@ -132,7 +156,10 @@
    "typ": "okazja",
    "termin": null,
    "wobec": "wiara_siedmiu",
-   "stan": "zasiane"
+   "stan": "zasiane",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wiekszy_patron",
@@ -141,7 +168,10 @@
    "termin": "296-08-09",
    "wobec": "faktor_duzego_domu",
    "_dziennik_stan": 6,
-   "status": "SZCZEBEL ZDOBYTY (Godric). || d22: Nesta (rzut 76) uznaje konsorcjum opalowe za dowod, ze Symon MYSLI JAK FAKTOR ('nie kupiles opalu, zbudowales kanal') — agregacja popytu, rozlozony fracht, dola z posrednictwa, zero wlasnej gotowki. Marks go mentalnie na wieksza odpowiedzialnosc w kantorze. Model brokerski REPETYWALNY (nowa linia interesu). Lekka, uczciwa uwaga Nesty: organizowanie calego cechu wklada jego imie w wiecej ust — plus, ale i widocznosc; pod opieka Wiary manageable, ale warto pilnowac. Nesta 40->42. || d25 PRZELOM (Godric rzut 99): Symon podszedl OSTROZNIE z oferta prowiantowa (kanal polnocny opal/drewno) — trafil w realny bol zamku (mroz, prowiant). Godric, ufajac mu juz jako dyskretnemu, przyjmuje POWAZNIE i CIEPLO (jak na zarzadce): chce ZAMEK jako KLIENTA kanalu. Foothold z 'cichego audytora' rozszerzony na 'uzyteczny czlowiek handlu, ktory rozwiazuje problemy zamku'. Nast 26->33; rep zamek 2->4, schody 22->24. NASTEPNY KROK: wrocic do Godrica z KONKRETNA propozycja (co kanal moze dac zamkowi tej zimy: wolumen, cena, terminy) — najpierw dopiac u Torsena/Nesty pojemnosc/warunki. Zamowienie zamku PRZYCMILoby parcele cechu = duzy skok dla konsorcjum i statusu. OSTROZNIE: zostajesz DOSTAWCA w swoim pasie (nie zamkowym insiderem); Theomore poza sciezka; tarcza Wiary caly. || d25: Symon FAKTYCZNIE DOSTAWCA ZAMKU (umiarkowana parcela zaklepana z Godrikiem). Relacja z 'ufa cicho' -> 'robimy razem interes'. Sciezka proven-then-scale: dowiezc te parcele czysto = wieksza stala umowa i glebszy patronat nastepny sezon. Godric 35. || 11-16 (rzut 97): DUZY AWANS. Symon z jednorazowego audytora -> STALY, ZAUFANY CZLOWIEK OD LICZB DOMU Godrica: cichy, regularny, platny angaz (rachunki domu do braavijskiego standardu). Efekty: (1) cichy recurring dochod (akumulacja), (2) glebszy embed przy dworze, (3) legalny dostep do ksiag/informacji domu blisko Nowego Zamku, (4) dra || 12-19 (Torsen rzut 66): grunt pod wiosne polozony - Torsen gotow ulozyc z Halvardem pojemnosc/wa || 12-23 (rzut 27): proba naszkicowania konkretu dla Godrica PRZEDWCZESNA - brak wejsc (terminy Hal || 12-25 (Owen rzut 97): PLAN petycji do lorda o relief - framing PORZADEK/reputacja (nie litosc),  || 12-26: Symon powstrzymal sie od primowania Godrica ku lordowi (orkiestracja=jego slabosc + ryzyk || 12-29 AUDIENCJA UDANA (rzut 82/83): lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wiary) - relief zaopatrzony na reszte zimy, kryzys rozwiazany. Standing WIARY u lorda w gore (Symon wpleciony, niewidzialny architekt - nazwisko off). Theomore rozbrojony (rola bez skazy, sad zmiekl ku "
+   "status": "SZCZEBEL ZDOBYTY (Godric). || d22: Nesta (rzut 76) uznaje konsorcjum opalowe za dowod, ze Symon MYSLI JAK FAKTOR ('nie kupiles opalu, zbudowales kanal') — agregacja popytu, rozlozony fracht, dola z posrednictwa, zero wlasnej gotowki. Marks go mentalnie na wieksza odpowiedzialnosc w kantorze. Model brokerski REPETYWALNY (nowa linia interesu). Lekka, uczciwa uwaga Nesty: organizowanie calego cechu wklada jego imie w wiecej ust — plus, ale i widocznosc; pod opieka Wiary manageable, ale warto pilnowac. Nesta 40->42. || d25 PRZELOM (Godric rzut 99): Symon podszedl OSTROZNIE z oferta prowiantowa (kanal polnocny opal/drewno) — trafil w realny bol zamku (mroz, prowiant). Godric, ufajac mu juz jako dyskretnemu, przyjmuje POWAZNIE i CIEPLO (jak na zarzadce): chce ZAMEK jako KLIENTA kanalu. Foothold z 'cichego audytora' rozszerzony na 'uzyteczny czlowiek handlu, ktory rozwiazuje problemy zamku'. Nast 26->33; rep zamek 2->4, schody 22->24. NASTEPNY KROK: wrocic do Godrica z KONKRETNA propozycja (co kanal moze dac zamkowi tej zimy: wolumen, cena, terminy) — najpierw dopiac u Torsena/Nesty pojemnosc/warunki. Zamowienie zamku PRZYCMILoby parcele cechu = duzy skok dla konsorcjum i statusu. OSTROZNIE: zostajesz DOSTAWCA w swoim pasie (nie zamkowym insiderem); Theomore poza sciezka; tarcza Wiary caly. || d25: Symon FAKTYCZNIE DOSTAWCA ZAMKU (umiarkowana parcela zaklepana z Godrikiem). Relacja z 'ufa cicho' -> 'robimy razem interes'. Sciezka proven-then-scale: dowiezc te parcele czysto = wieksza stala umowa i glebszy patronat nastepny sezon. Godric 35. || 11-16 (rzut 97): DUZY AWANS. Symon z jednorazowego audytora -> STALY, ZAUFANY CZLOWIEK OD LICZB DOMU Godrica: cichy, regularny, platny angaz (rachunki domu do braavijskiego standardu). Efekty: (1) cichy recurring dochod (akumulacja), (2) glebszy embed przy dworze, (3) legalny dostep do ksiag/informacji domu blisko Nowego Zamku, (4) dra || 12-19 (Torsen rzut 66): grunt pod wiosne polozony - Torsen gotow ulozyc z Halvardem pojemnosc/wa || 12-23 (rzut 27): proba naszkicowania konkretu dla Godrica PRZEDWCZESNA - brak wejsc (terminy Hal || 12-25 (Owen rzut 97): PLAN petycji do lorda o relief - framing PORZADEK/reputacja (nie litosc),  || 12-26: Symon powstrzymal sie od primowania Godrica ku lordowi (orkiestracja=jego slabosc + ryzyk || 12-29 AUDIENCJA UDANA (rzut 82/83): lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wiary) - relief zaopatrzony na reszte zimy, kryzys rozwiazany. Standing WIARY u lorda w gore (Symon wpleciony, niewidzialny architekt - nazwisko off). Theomore rozbrojony (rola bez skazy, sad zmiekl ku ",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wlasne_lokum",
@@ -151,7 +181,10 @@
    "wobec": "bran_tragarz",
    "_dziennik_stan": 17,
    "status": " || 12-12 (rzut 19, chudo): wysondowal Serle o kąty. Zimowy rynek fatalny - przyzwoite zajete (ludzie zaszywaja sie na zime, nikt nie rusza), wolne to zimne poddasza/kat w zatloczonym domu, gospodarze zdzieraja w mrozie. Serla by go przyjela z powrotem, ale OBOJE wiedza, ze wyprowadzil sie od niej dla bezpieczenstwa (najscie Harwina) - sciagnac cechowa uwage pod jej dach = narazic ja i Toma; ta najcieplejsza opcja jest zamknieta jego wlasnym odslonieciem. WNIOSEK: potwierdza czekanie do wiosny/wystudzenia frontu; cela Sept (darmowa+Wiara) bije zimowy kat. || 297-01-03: WLASNOSC (dom w murach) ma teraz PODWOJNY CEL - lokum/prywatnosc/robota ORAZ brakujace ogniwo mieszczanstwa (Torren). Sprawa na wiosne (rynek/kapital/front Harwina). Priorytet ku korzeniom rosnie. || 297-01-03 (rzut 27): wech puszczony (Serla+Nesta) za TANIA przymuszona sprzedaz domu Z OGRODKIEM ZA PLOTEM (lokum+biuro+wlasnosc mieszczanstwa). Nic teraz - konkret+taniosc rzadko naraz (ladny dom z ziemia trzyma wartosc/sciaga kupujacych). Leady na tygodnie/wiosne. WYBOR: trzymac ogrodek+cierpliwosc / odpuscic ogrod dla golego taniego / doplacic. Zegar wech_wlasnosc. || 297-01-03 (rzut 29): TROP WLASNOSCI (Serla) - zaniedbany dom z murowanym OGRODKIEM ZA PLOTEM (spadek po rzemieslniku, skraj starej dzielnicy, tani, w zasiegu, twoj ksztalt). ALE 'tani nie bez powodu': (1) REMONT niepewny (dach/belki - kosmetyka czy studnia bez dna?), (2) TYTUL METNY (spadek nieuporzadkowany, obciazenie/spor?). GAMBIT: lup albo pulapka. NASTEPNE: zweryfikowac przed kupnem - DONNEL (struktura/remont) + TORREN (tytul/obciazenia/czystosc spadku). Bez obu osłon nie kłasc srebra. || 297-01-04 (Donnel rzut 25): pierwszy trop MARTWY - bezdenna studnia (przegnile belki/osiadajacy fundament/dach; cena niska nie bez powodu). Donnel: nie kupowac na mieszkanie. Due diligence zadzialala (ominieta pulapka, Torren zbedny). SZUKAC DALEJ zdrowszego domu z ogrodem (siec nasluchuje, zegar wech_wlasnosc). || 297-01-04 (rzut 61): DRUGI TROP zdrowszy - maly kamienny dom z ogrodkiem+plotem (uliczka przy Schodach), starsza wdowa przenosi sie do krewnych. Zmeczony nie zrujnowany (kosmetyka nie studnia - jesli Donnel potwierdzi), ogrod mniejszy ale jest, cena UCZCIWA (nie desperacki, w zasiegu ~120 jel). Solidny osiagalny interes, znaki dobre. NASTEPNE: zweryfikowac Donnel(struktura)+Torren(tytul) przed kupnem. || 297-01-04 (Donnel rzut 14): 2. dom (wdowy) PASS - zly mokry grunt (nisko przy wodzie, wilgoc, zima ukryla; powolna zgnilizna). Wdowa ceny nie zbije. Due diligence znow ocalila. Szukanie zdrowego kamienia z ogrodem = CIERPLIWE POLOWANIE (2 pass); siec nasluchuje, moze do wiosny. Owen: nie chwytaj, przyjdzie. || 297-01-05 (rzut 61): PLAN KAMIENICZKI DOCHODOWEJ - 1 izba dla Symona + 2-3 pod wynajem + ogrodek. Sam nie kupi (128 jel za malo na wielopokojowy), ALE: wklad ~80-90 jel + FINANSOWANIE KANTORU (Nesta, warunki wspolnika) + CZYNSZ obsluguje dlug + dochod reszte = aktyw splaca sie sam; rezerwa zostaje; pulap ~150-180 jel all-in (DO REMONTU). Cztery pozytki: lokum+biuro+wlasnosc(nazwisko)+czynsz. Umacnia standing kupiecki pod mieszczanstwo. Wech przestawiony; Donnel+Torren wetuja trop. || 297-01-05 (rzut 76): REALNY TROP KAMIENICZKI - 4 izby + murowany ogrodek za plotem (przy Schodach), kupiec-desperat sprzedaje tanio/szybko/dyskretnie (splata dlugu). Do remontu nie w ruinie, w pulapie, izby do wynajecia. Lewar: dyskretny szybki kupujacy=zbic cene; lekka presja czasu. NASTEPNE: Donnel(struktura+wycena remontu)+Torren(tytul) wetuja, potem decyzja z planem finansowym (wklad ~80-90+finansowanie kantoru+czynsz). Pierwszy trop co pachnie kamieniem nie pulapka. || 297-01-05 (Donnel rzut 14): kamieniczka KOSCI ZDROWE (sound, suchy grunt - realny kamien), ALE remont ciezszy niz kosmetyka (dach do wymiany+strop/podloga izby) -> all-in ku gornej granicy pulapu/ponad. NIE dealbreaker. NASTEPNE: ZBIC CENE o koszt dachu (dzwignia: desperat spieszy+placi za cisze + twarda wycena Donnela) -> negocjacja; potem Torren(tytul); potem kupno z planem finansowym (wklad ~80-90+finansowanie kantoru+czynsz). Donnel dopilnuje dach po przyjacielsku (przytnie koszt). || 297-01-05 (Torren rzut 53): tytul czysty poza ZASTAWEM (dlug sprzedajacego), uleczalny przy transakcji (srebro splaca wierzyciela->czysty tytul, Torren poprowadzi). Zastaw=dodatkowa dzwignia. OBA BADANIA GREEN. Kamieniczka REALNA/DO WZIECIA. NASTEPNE: NEGOCJACJA ceny w dol (dzwignia: koszt dachu Donnela + desperat/zastaw + dyskretny szybki kupujacy placi gotowka), potem KUPNO (wklad ~80-90+finansowanie kantoru+czynsz; struktura sprzedazy przez Torrena). || 297-01-05 (Nesta rzut 90): FINANSOWANIE KANTORU gotowe. Nesta wyszkolila do targu (PREP BONUS na negocjacje): dno=zastaw (celuj tuz nad), pitch=ulga nie duszenie (gotowka/cicho/szybko/godnosc), kotwica=wycena dachu Donnela, edge=autentycznosc (uczciwy szybki gotowkowy kupiec), ustal cene odejscia. NASTEPNE: NEGOCJACJA z desperatem (z prep bonusem), potem kupno przez Torrena + finansowanie.",
-   "nastepne": "Wiosna: Donnel robi pelny re-roof porzadnie (sfinansowany); potem izba 3 pod wynajem = pelny dochod. Mira zarzadza (dowiozla w naradzie - trial idzie dobrze). Bufor Symona chudszy (~23 jel depozyt + 14 sakiewka) - odbudowac gdy domena/czynsze ruszą wiosna."
+   "nastepne": "Wiosna: Donnel robi pelny re-roof porzadnie (sfinansowany); potem izba 3 pod wynajem = pelny dochod. Mira zarzadza (dowiozla w naradzie - trial idzie dobrze). Bufor Symona chudszy (~23 jel depozyt + 14 sakiewka) - odbudowac gdy domena/czynsze ruszą wiosna.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wolnosc_od_harwina",
@@ -161,7 +194,10 @@
    "wobec": "self",
    "_dziennik_stan": 25,
    "status": " || 11-03 (Ansell przez Owena, rzut 91): front cechu ZIMNY — origin-probe bez trakcji (narracja+Wiara+relief trzymaja, echo intelu Leony d29), Harwin bez uchwytu, brak aktywnego ruchu. Ale dyscyplina bez zmian (cisza u polujacego bywa i przygotowaniem): Ryman/swiadek zamrozeni, zrodlo bloku ukryte, Symon spokojny/widoczny w dobru. || 297-03-16: Boren (odczyt) - Harwin cicho, dalej lize rany, Cech Pisarzy sie za nim NIE zwiera (krucjata jego + frakcji Rymana). Boren trzyma ucho. Spojne z uspieniem; watch ~03-25 bez zmian.",
-   "nastepne": "DROGA (Nesta+Owen): trwaly spokoj przez ZAKORZENIENIE/legalnosc/bycie potrzebnym (ciosy sie slizgaja) + uczynic Harwina NIEISTOTNYM (nie wojowac); sprawiedliwosc dla slabych CIERPLIWIE, dobrowolni swiadkowie, wpleciona w Winterfell (Owen). Obrona-pulapka gotowa (czekac na ruch Harwina ~02-12, nie prowokowac). Sojusznikow prosic ZA ZGODA, dyskretnie; nie robic kantoru celem. Nie podsycac pycha."
+   "nastepne": "DROGA (Nesta+Owen): trwaly spokoj przez ZAKORZENIENIE/legalnosc/bycie potrzebnym (ciosy sie slizgaja) + uczynic Harwina NIEISTOTNYM (nie wojowac); sprawiedliwosc dla slabych CIERPLIWIE, dobrowolni swiadkowie, wpleciona w Winterfell (Owen). Obrona-pulapka gotowa (czekac na ruch Harwina ~02-12, nie prowokowac). Sojusznikow prosic ZA ZGODA, dyskretnie; nie robic kantoru celem. Nie podsycac pycha.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "ksiegozbior_septy",
@@ -182,7 +218,10 @@
    "nastepny_krok": "dalsze etapy mostu przez wiosnę (transze z nadwyżki, każda spłaca cień + kupuje equity); korytarz papier/wino spłaca nowy czysty kredyt; CEL: do lata cień=0, udział ku większości, ostatni nabój Roldana zlikwidowany",
    "_dziennik_plan_konkret": 1,
    "_dziennik_most_za_equity": 1,
-   "_dziennik_etap1": 1
+   "_dziennik_etap1": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "straddle_pod_naciskiem",
@@ -199,7 +238,10 @@
    "termin": null,
    "wobec": "self",
    "_dziennik_stan": 15,
-   "status": " || 12-21 (Wenda rzut 96): Wenda glosno RECZY za Symonem wsrod targowego/drobnego ludu (przekupki/tragarze/port) - reputacja u dolu w gore, obronczyni w sieci ludowej. Wesele Bess po nowym roku, Symon zaproszony."
+   "status": " || 12-21 (Wenda rzut 96): Wenda glosno RECZY za Symonem wsrod targowego/drobnego ludu (przekupki/tragarze/port) - reputacja u dolu w gore, obronczyni w sieci ludowej. Wesele Bess po nowym roku, Symon zaproszony.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "gdzie_trzymac_srebro",
@@ -208,7 +250,10 @@
    "termin": null,
    "wobec": "self",
    "_dziennik_stan": 3,
-   "status": " || 12-18: +18 jel zysku doradczego do depozytu u Nesty -> 88 jeleni (8800 mied). Float 6 jel. Cicha akumulacja rosnie z platnego pilaru doradczego. || 12-30: +24 jel do depozytu -> 122 jelenie. Float 6. Cicha akumulacja pecznieje."
+   "status": " || 12-18: +18 jel zysku doradczego do depozytu u Nesty -> 88 jeleni (8800 mied). Float 6 jel. Cicha akumulacja rosnie z platnego pilaru doradczego. || 12-30: +24 jel do depozytu -> 122 jelenie. Float 6. Cicha akumulacja pecznieje.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "robota_w_cle",
@@ -217,7 +262,10 @@
    "termin": null,
    "wobec": "garth_celnik",
    "stan": "POGLEBIONE (d16, rzut 97): Garth ufa Symonowi dosc, by dac WIEKSZE, wrazliwe manifesty — w tym papiery ANTARYONOW. Okno na antaryonski customs-fraud OTWARTE.",
-   "priorytet": "wysoki"
+   "priorytet": "wysoki",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wakat_pate",
@@ -242,7 +290,10 @@
    "termin": null,
    "wobec": "nesta_braavijka",
    "_dziennik_stan": 10,
-   "status": "przelom"
+   "status": "przelom",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "pozycja_sol",
@@ -250,7 +301,10 @@
    "typ": "zamkniete",
    "termin": null,
    "wobec": "self",
-   "_dziennik_stan": 2
+   "_dziennik_stan": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "nauka_czytania_ludzi",
@@ -268,7 +322,10 @@
    "termin": null,
    "wobec": "wiara_siedmiu",
    "stan": "ROSNIE. Dzien 14: Symon caly Dzien Matki pisal ubogim (listy, podania, czytanie kwitow) — za drobne datki/strawe, glownie posluga. Reputacja w porcie 5->7; ludzie_portu 4->7 (swoj, ufaja mu). Cwiczyl przy tym czytanie ludzi (want/fear klientow). Niszа 'skryby ludu' okrzepla — legalna baza wsrod smallfolk, wypelnia luke po Pacie.",
-   "status": " || 12-21 (Wenda rzut 96): Wenda glosno RECZY za Symonem wsrod targowego/drobnego ludu (przekupki/tragarze/port) - reputacja u dolu w gore, obronczyni w sieci ludowej. Wesele Bess po nowym roku, Symon zaproszony. || 12-22 (rzut 67): Symon rozszerzyl relief na kolodziejow madrze (robota-pomost + pomoc rodzinom przez cech, bez uszczerbku dla nedzarzy). Boren gleboko wdzieczny (47->53), sojusz lojalny; reputacja u rzemieslnikow/Schodow w gore. || 12-24 (rzut 84): relief (siec+ksiega Hala+kolodzieje) dzialal sprawnie pod najgorszym mrozem - konkretne zycia ogrzane, nikt nie stracony tej nocy. Reputacja u Wiary +1 i wsrod drobnego ludu w gore ('ten przez ktorego zima boli mniej'). Maszyna reliefu sprawdzona."
+   "status": " || 12-21 (Wenda rzut 96): Wenda glosno RECZY za Symonem wsrod targowego/drobnego ludu (przekupki/tragarze/port) - reputacja u dolu w gore, obronczyni w sieci ludowej. Wesele Bess po nowym roku, Symon zaproszony. || 12-22 (rzut 67): Symon rozszerzyl relief na kolodziejow madrze (robota-pomost + pomoc rodzinom przez cech, bez uszczerbku dla nedzarzy). Boren gleboko wdzieczny (47->53), sojusz lojalny; reputacja u rzemieslnikow/Schodow w gore. || 12-24 (rzut 84): relief (siec+ksiega Hala+kolodzieje) dzialal sprawnie pod najgorszym mrozem - konkretne zycia ogrzane, nikt nie stracony tej nocy. Reputacja u Wiary +1 i wsrod drobnego ludu w gore ('ten przez ktorego zima boli mniej'). Maszyna reliefu sprawdzona.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "rosnaca_widocznosc",
@@ -277,7 +334,10 @@
    "termin": null,
    "wobec": "self",
    "_dziennik_stan": 7,
-   "status": " || 12-15: usluga zarzadcza zaczyna byc gadana po kupieckiej gieldzie (Vox glosno chwali) - pierwszy niewettowany inbound. Pilar mial byc CICHY; widocznosc pelznie. Zarzadzac ustami klientow + wettingiem. || 12-15: creep OPANOWANY - inbound Wata wziety pod klauzula dyskrecji+premium; ekskluzywnosc zamiast rozglosu. Wzor na przyszlosc: kazdy glosny inbound kanalizowac w cichy premium, nie odmawiac na slepo. || 12-29 AUDIENCJA UDANA (rzut 82/83): lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wiary) - relief zaopatrzony na reszte zimy, kryzys rozwiazany. Standing WIARY u lorda w gore (Symon wpleciony, niewidzialny architekt - nazwisko off). Theomore rozbrojony (rola bez skazy, sad zmiekl ku 'zdatny/pokorny', zero ciekawosci; nast 2->5, faint szacunek). Symon obserwowal lorda/dwor z bliska. Dowod: wplyw niewidzialny dziala az na poziomie wielkiego lorda."
+   "status": " || 12-15: usluga zarzadcza zaczyna byc gadana po kupieckiej gieldzie (Vox glosno chwali) - pierwszy niewettowany inbound. Pilar mial byc CICHY; widocznosc pelznie. Zarzadzac ustami klientow + wettingiem. || 12-15: creep OPANOWANY - inbound Wata wziety pod klauzula dyskrecji+premium; ekskluzywnosc zamiast rozglosu. Wzor na przyszlosc: kazdy glosny inbound kanalizowac w cichy premium, nie odmawiac na slepo. || 12-29 AUDIENCJA UDANA (rzut 82/83): lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wiary) - relief zaopatrzony na reszte zimy, kryzys rozwiazany. Standing WIARY u lorda w gore (Symon wpleciony, niewidzialny architekt - nazwisko off). Theomore rozbrojony (rola bez skazy, sad zmiekl ku 'zdatny/pokorny', zero ciekawosci; nast 2->5, faint szacunek). Symon obserwowal lorda/dwor z bliska. Dowod: wplyw niewidzialny dziala az na poziomie wielkiego lorda.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "sledztwo_antaryon_prep",
@@ -285,7 +345,10 @@
    "typ": "proces/prep",
    "termin": null,
    "wobec": "self",
-   "_dziennik_stan": 3
+   "_dziennik_stan": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wspolnictwo_nesta",
@@ -294,7 +357,9 @@
    "termin": null,
    "wobec": "nesta_braavijka",
    "_dziennik_stan": 19,
-   "status": "WARUNKI: baza(wikt)+~6 jel/mies DRAW (start ~12-19) + 1/3 netto z transakcji Symona + maly rosnacy udzial w core-faktorii (proba). || 12-30 KOREKTA: draw ~12-19 nie byl osobno ksiegowany - dopisany (+6 jel), teraz recurring (zegar draw_nesta, next ~01-19). 1/3 i udzial core prowadzi Nesta w ksiegach kantoru (rosna ku rozliczeniu). NASTEPNE: wziac od Nesty PELNE rozliczenie partnerskie (Symon=czlowiek liczb, powinien miec wlasne konto czyste). || 12-30 (rzut 93): PELNE ROZLICZENIE partnerskie - draw biezacy, +10 jel 1/3 rozpoznane, UDZIAL CORE-FAKTORII PODNIESIONY (z proby na stale, rosnacy) = realna wlasnosc. Konto czyste. Equity = mieszczanska substancja (za standingiem/nazwiskiem). Symon wspolwlascicielem kantoru. || 08-01 KOREKTA (gracz): Bilans liczyl sam flat draw 6 jel - BLAD. Udzial partnerski skaluje sie: 1/3 netto transakcji + ROSNACY equity core-faktorii (udzial w plonie rotacji). Rozpoznano +10 jel udzialu partnerskiego za miesiac (equity+1/3 nie-w-kasie) -> sakiewka 90->100. Na przyszlosc: Bilans rozpoznaje udzial partnerski, nie tylko draw."
+   "status": "WARUNKI: baza(wikt)+~6 jel/mies DRAW (start ~12-19) + 1/3 netto z transakcji Symona + maly rosnacy udzial w core-faktorii (proba). || 12-30 KOREKTA: draw ~12-19 nie byl osobno ksiegowany - dopisany (+6 jel), teraz recurring (zegar draw_nesta, next ~01-19). 1/3 i udzial core prowadzi Nesta w ksiegach kantoru (rosna ku rozliczeniu). NASTEPNE: wziac od Nesty PELNE rozliczenie partnerskie (Symon=czlowiek liczb, powinien miec wlasne konto czyste). || 12-30 (rzut 93): PELNE ROZLICZENIE partnerskie - draw biezacy, +10 jel 1/3 rozpoznane, UDZIAL CORE-FAKTORII PODNIESIONY (z proby na stale, rosnacy) = realna wlasnosc. Konto czyste. Equity = mieszczanska substancja (za standingiem/nazwiskiem). Symon wspolwlascicielem kantoru. || 08-01 KOREKTA (gracz): Bilans liczyl sam flat draw 6 jel - BLAD. Udzial partnerski skaluje sie: 1/3 netto transakcji + ROSNACY equity core-faktorii (udzial w plonie rotacji). Rozpoznano +10 jel udzialu partnerskiego za miesiac (equity+1/3 nie-w-kasie) -> sakiewka 90->100. Na przyszlosc: Bilans rozpoznaje udzial partnerski, nie tylko draw.",
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "rozliczenie_antaryon_plan",
@@ -303,7 +368,10 @@
    "termin": "296-08-20",
    "wobec": "nesta_braavijka",
    "_dziennik_stan": 2,
-   "status": "OS = BANK (07-10), proof-gated; Lord odrzucony; blok cicho + osłona Aldousa"
+   "status": "OS = BANK (07-10), proof-gated; Lord odrzucony; blok cicho + osłona Aldousa",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "refinansowanie_dlugu",
@@ -322,7 +390,10 @@
    "_dziennik_stan_06_15": 1,
    "_dziennik_sciezka_prawna_0615": 1,
    "_dziennik_venue_decyzja_0615": 1,
-   "_dziennik_stan_06_15_ZAMKNIETE": 1
+   "_dziennik_stan_06_15_ZAMKNIETE": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "matrona_schodow",
@@ -331,7 +402,10 @@
    "termin": null,
    "wobec": "self",
    "_dziennik_stan": 4,
-   "status": " || 12-21 (rzut 77): ksiegi po mezu Leony rozplatane - odkryte niesciagniete naleznosci (znalazl wdowie pieniadze) + jasny obraz pozycji. Fee 3 jel, chce dokonczenia. Reputacja u matrony Schodow mocno w gore - potezny advocate/rainmaker node dla niszy weryfikacji. || 297-03-20: wizyta u Wendy poglebia korzen u dolu (nast 51); Targ Rybny=ucho miasta, puls dolu (biedota wraca do roboty z odwilza). Dobre imie Symona u ludu trzyma - anti-whisper tarcza."
+   "status": " || 12-21 (rzut 77): ksiegi po mezu Leony rozplatane - odkryte niesciagniete naleznosci (znalazl wdowie pieniadze) + jasny obraz pozycji. Fee 3 jel, chce dokonczenia. Reputacja u matrony Schodow mocno w gore - potezny advocate/rainmaker node dla niszy weryfikacji. || 297-03-20: wizyta u Wendy poglebia korzen u dolu (nast 51); Targ Rybny=ucho miasta, puls dolu (biedota wraca do roboty z odwilza). Dobre imie Symona u ludu trzyma - anti-whisper tarcza.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "pierwszy_handel_zimowy_plan",
@@ -357,7 +431,10 @@
    "typ": "zamkniete",
    "termin": null,
    "wobec": "self",
-   "_dziennik_stan": 4
+   "_dziennik_stan": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "drzeworyt_wizja",
@@ -393,7 +470,10 @@
    "termin": null,
    "wobec": "self",
    "_dziennik_stan": 13,
-   "status": " || 12-21 (rzut 77): ksiegi po mezu Leony rozplatane - odkryte niesciagniete naleznosci (znalazl wdowie pieniadze) + jasny obraz pozycji. Fee 3 jel, chce dokonczenia. Reputacja u matrony Schodow mocno w gore - potezny advocate/rainmaker node dla niszy weryfikacji."
+   "status": " || 12-21 (rzut 77): ksiegi po mezu Leony rozplatane - odkryte niesciagniete naleznosci (znalazl wdowie pieniadze) + jasny obraz pozycji. Fee 3 jel, chce dokonczenia. Reputacja u matrony Schodow mocno w gore - potezny advocate/rainmaker node dla niszy weryfikacji.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wnuk_serli",
@@ -410,7 +490,10 @@
    "typ": "wiedza/horyzont",
    "termin": null,
    "wobec": "self",
-   "_dziennik_stan": 2
+   "_dziennik_stan": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "luka_zbozowa",
@@ -429,7 +512,10 @@
    "wobec": "self",
    "_dziennik_stan": 16,
    "status": " || 12-24 (Owen rzut 79): imie Symona ZNACZY (lud/Wiara/kupcy/dwor) - z obcego bez twarzy do czlowieka otwierajacego 4 domy. ALE reputacja != zakorzenione NAZWISKO; bez krwi = dom na piasku, znany=cel. SCIEZKI DO NAZWISKA: (1) malzenstwo (krew/dom/powinowaci) - najprostsza dla bezrodzinnego; (2) mieszczanstwo (wlasnosc+obywatelstwo=nazwisko obywatelskie) - wiosna w zasiegu; (3) przydomek z czynu (JUZ sie klei: 'skryba przez ktorego zima boli mniej', 'uczciwy od liczb'); (4) patron/pasowanie przez dwor (Manderly maja rycerzy/Siedmiu) - dlugi strzal. WNIOSEK Owena: nazwisko przychodzi z korzeniami - droga do imienia = zapuscic korzenie (nastepny rozdzial). || 12-26 (Nesta) MIESZCZANSTWO Bialego Portu: nie 'papiery obywatelstwa' (to miasto lorda, nie wolna republika) lecz stac sie osiadlym uznanym WOLNYM MIESZCZANINEM na listach = WLASNOSC (dom/warsztat w murach) + uznane utrzymanie/standing + PODATKI miejskie (wpis na listy) + PORECZENIE osiadlych. Cechowa furtka ZAMKNIETA (wrogi Cech Pisarzy). OBEJSCIE: wlasnosc + poreczyciele (Vox/Leona/Aldous/Boren=osiadli mieszczanie/cechmistrzowie) + status pisarza Wiary (endorsement wazy) + listy, z pominieciem cechu. Jako TUTEJSZY Symon ma latwiej niz obca Nesta (faktorka, na zawsze inna stopa). SPLOT: malzenstwo w osiadla rodzine = mieszczanstwo naraz (dom+standing+listy). Szczegoly (oplaty/kto wpisuje) potwierdzic u osiadlego (Boren/Vox). || 12-27 (Serla rzut 16): malzenstwo w DOBRY dom mieszczanski ZA WCZESNIE - rootless+brak wlasnosci/krwi+WROG W CECHU = obiecujacy ale ryzykowny prospekt (osiadli wydaja corke za bezpieczenstwo/standing, nie za sam prospekt). NIE 'nigdy', 'nie teraz'. Dwie drogi: (a) najpierw ZAKORZENIC (wlasnosc+standing+cech wygasly -> dobre domy sie otworza) = nagroda za korzenie, nie skrot; (b) wzenic NIZEJ w prostsza rodzine ceniaca prospekt/czlowieka (Mella corka Wendy - krew/cieplo, nie mieszczanski standing). Wniosek: dobry ozenek gated na zakorzenienie. || 12-27 (Serla rzut 16): Symon chce zone PISMIENNA/obrotna/otwarta (partnerka, nie standing). W kregu Serli (lud/rzemioslo) taka kobieta niemal nieobecna (piśmienne rzadkie: zamezne/w Wierze/za zamozne). KIERUNEK: piśmienne obrotne kobiety = swiat kupiecki/BRAAVIJSKI -> matchmaker do TEGO typu to NESTA, nie Serla. Roots/malzenstwo pod gore. || 12-27 (Nesta rzut 52): cel malzenski WYOSTRZONY - nie panna z dobrego domu (bramkuje ojciec+standing, cech-wrog), lecz NIEZALEZNA PISMIENNA OBROTNA WDOWA (wybiera sama, otwarta z natury, ceni prospekt/charakter ponad rodowod). Braavijka zza morza=rzadka/splatana; tutejsze pismienne=nagrody dla osia || 12-30 (Vox rzut 11): RAFA mieszczanstwa - cechy maja glos w dopuszczeniu; Cech Pisarzy (wrog) moze FORMALNIE ZABLOKOWAC admisje Symona jako 'partacza' w ich fachu -> cechowa wasn = bezposrednia przeszkoda ku nazwisku (nie tylko tlo). NITKA-OBEJSCIE: ubiegac sie jako KUPIEC/wspolnik kantoru (nie skryba) - inna stopa, mniej glosu Cechu Pisarzy, poreczyliby osiadli kupcy; szczegoly niepewne, trzeba obejsc z glowa (Vox=sukiennik nie prawnik). Droga cierniejsza niz malowala Nesta - spleciona z cechowa wasnia. || 12-31 (rzut 11): POZNAL MIRE. Bystra/tezna/ostrozna/przenikliwa (typ Symona, i dlatego trudna). Pol-przejrzala pretekst (garda w gore). Symon pomogl kompetentnie z ksiegami (realna wartosc), ale CZLOWIEKA nie wpuscila - chlodno/transakcyjnie/zero sparku (nast 0->2). LEKCJA: dluga cierpliwa gra - nie zdobywa sie takiej rozmowa; earn powoli, autentycznie, bez pchania; chlodny pierwszy raz = norma nie porazka. Drzwi nie zamkniete. || 12-31 (prawo miejskie, rzut 41): Symon studiuje prawo admisji mieszczanskiej - pojmuje strukture (konsultacja cechu, klasyfikacja kupiec vs rzemieslnik) ale bez czystego rozwiazania na weto Cechu Pisarzy. Route kupiecka legalnie plauzybilna, ale de || 297-01-01 (Nesta rzut 33): MIRA - aranzacja CZESCIOWO SPALONA (pol-przejrzala swatanie, garda na stale); nie dokarmiac okazji; gra = autentycznosc/niewymuszona potrzeba albo wcale, ODPUSCIC nacisk || 297-01-01 (Owen) MIESZCZANSTWO CZESCIOWO ODBLOKOWANE: (1) PORECZENIE WIARY (zapracowane sluzba) - endorsement Wiary + route kupiecka + poreczyciele-kupcy PRZEWAŻA glos Cechu Pisarzy (radzie trudni || 297-03-21 (plan z Nesta): PIPELINE WIOSENNY zbiega sie ~03-25-28 (dach->izba3 | flotylla->linia Leony | plasowanie pilotazu ubezpieczen). Priorytet: EGZEKWOWAC to, co ladzie, nie szarpac gated/slow (keystone, zelazo-kowale, Aurane-czekac na slowo Leony). Byc gotowym gdy statki dobija.",
-   "nastepne": "MIESZCZANSTWO OSIAGNIETE - korzen/nazwisko-prawne zdobyte. Nowy horyzont: bezpieczenstwo (Harwin aktywny czujny - chronic origins/sekret Rymana), rozwoj majatku (izba 3 wiosna, instrumenty kredytowe, faktor Rollam), wieksze aspiracje. Watek budowania podstaw ZAMKNIETY sukcesem; przejscie ku fazie 'ugruntowany mieszczanin'."
+   "nastepne": "MIESZCZANSTWO OSIAGNIETE - korzen/nazwisko-prawne zdobyte. Nowy horyzont: bezpieczenstwo (Harwin aktywny czujny - chronic origins/sekret Rymana), rozwoj majatku (izba 3 wiosna, instrumenty kredytowe, faktor Rollam), wieksze aspiracje. Watek budowania podstaw ZAMKNIETY sukcesem; przejscie ku fazie 'ugruntowany mieszczanin'.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "rozliczenie_hoarderzy",
@@ -457,7 +543,10 @@
    "termin": "296-11-25",
    "wobec": "nesta_braavijka",
    "_dziennik_stan": 2,
-   "status": "HOLD — noga winna: spread ujemny TERAZ (drogi wiosenny fracht); wrócić gdy szlaki stwardnieją"
+   "status": "HOLD — noga winna: spread ujemny TERAZ (drogi wiosenny fracht); wrócić gdy szlaki stwardnieją",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "kanal_polnoc_futra",
@@ -476,7 +565,10 @@
    "termin": null,
    "wobec": "boren_koladziej",
    "stan": "MOCNY — dlug wdziecznosci cechu",
-   "status": " || 11-09: Boren dal suchy kat placu na przetrzymany opal Symona (do szczytu mrozu); nie wzial gotowki, ale bankuje drobna przysluge zwrotna. Rel robocza mocna, lekki dlug wisi na Symonie. || 12-22 (rzut 24): zima dlawi cech kolodziejow (bracia bez roboty). Wizyta odswiezyla wiez ledwie; wiosenne pozycjonowanie drewna nie posuniete (Boren zajety przetrwaniem). Przysluga wciaz zabankowana. Hook: relief-siec ku braciom kolodziejom. || 12-22 (rzut 67): Symon rozszerzyl relief na kolodziejow madrze (robota-pomost + pomoc rodzinom przez cech, bez uszczerbku dla nedzarzy). Boren gleboko wdzieczny (47->53), sojusz lojalny; reputacja u rzemieslnikow/Schodow w gore. || 12-26 (rzut 53): trzecia mobilizacja darczyncow = doraznу top-up (slabszy - zmeczenie sieci+zimowy scisk); kociol ustoi kilka dni. Kolodzieje odwzajemnili pomoc z d22 (solidarnosc wrocila). Prywatna studnia plycieje -> petycja do lorda konieczna. || 297-03-15: sygnal dla cechu - opal/drewno opalowe spada z odwilza + podaz Polnocy cala => TANSZY WSAD dla kolodziejow wiosna. Dobra wiesc do przekazania przez Borena (kapital relacyjny, wzmacnia sojusz). || 297-03-15: Symon dostarczyl cynk o taniejacym wsadzie (opal/drewno spadnie) - ale trafil na wiosenny rozgardiasz w domu cechu, Boren pol ucha. Wiesc zlozona, relacja trzyma (nast 69), lecz rozmowa o bloku/Harwinie odlozona na cichszy moment (wieczor/dom). || 297-03-16: REFRAME wartosci wobec Torsena - on chce POPYTU nie sygnalow. Symon dobrze pozycjonowany, by agregowac odbiorcow drewna: tanszy wsad (odwilz) ozywi zamowienia kolodziejow, dwor (Godric) szykuje wieksze wiosenne zakupy. Symon = laczyk podaz(Torsen)-popyt(cech/zamek). Konkretne zamowienie > relacyjne cieplo. || 297-03-16 WIECZOR: rozmowa u Borena w domu poglebila sojusz (nast 73, zauf 18). Ustalona rola Symona jako laczyka popyt-podaz spinajacego blok zyskiem."
+   "status": " || 11-09: Boren dal suchy kat placu na przetrzymany opal Symona (do szczytu mrozu); nie wzial gotowki, ale bankuje drobna przysluge zwrotna. Rel robocza mocna, lekki dlug wisi na Symonie. || 12-22 (rzut 24): zima dlawi cech kolodziejow (bracia bez roboty). Wizyta odswiezyla wiez ledwie; wiosenne pozycjonowanie drewna nie posuniete (Boren zajety przetrwaniem). Przysluga wciaz zabankowana. Hook: relief-siec ku braciom kolodziejom. || 12-22 (rzut 67): Symon rozszerzyl relief na kolodziejow madrze (robota-pomost + pomoc rodzinom przez cech, bez uszczerbku dla nedzarzy). Boren gleboko wdzieczny (47->53), sojusz lojalny; reputacja u rzemieslnikow/Schodow w gore. || 12-26 (rzut 53): trzecia mobilizacja darczyncow = doraznу top-up (slabszy - zmeczenie sieci+zimowy scisk); kociol ustoi kilka dni. Kolodzieje odwzajemnili pomoc z d22 (solidarnosc wrocila). Prywatna studnia plycieje -> petycja do lorda konieczna. || 297-03-15: sygnal dla cechu - opal/drewno opalowe spada z odwilza + podaz Polnocy cala => TANSZY WSAD dla kolodziejow wiosna. Dobra wiesc do przekazania przez Borena (kapital relacyjny, wzmacnia sojusz). || 297-03-15: Symon dostarczyl cynk o taniejacym wsadzie (opal/drewno spadnie) - ale trafil na wiosenny rozgardiasz w domu cechu, Boren pol ucha. Wiesc zlozona, relacja trzyma (nast 69), lecz rozmowa o bloku/Harwinie odlozona na cichszy moment (wieczor/dom). || 297-03-16: REFRAME wartosci wobec Torsena - on chce POPYTU nie sygnalow. Symon dobrze pozycjonowany, by agregowac odbiorcow drewna: tanszy wsad (odwilz) ozywi zamowienia kolodziejow, dwor (Godric) szykuje wieksze wiosenne zakupy. Symon = laczyk podaz(Torsen)-popyt(cech/zamek). Konkretne zamowienie > relacyjne cieplo. || 297-03-16 WIECZOR: rozmowa u Borena w domu poglebila sojusz (nast 73, zauf 18). Ustalona rola Symona jako laczyka popyt-podaz spinajacego blok zyskiem.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "sprawa_elny_lorren",
@@ -503,7 +595,10 @@
    "termin": null,
    "wobec": "kupiec_vox",
    "_dziennik_stan": 2,
-   "status": "rozwiazany"
+   "status": "rozwiazany",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "robota_koladzieje",
@@ -512,7 +607,10 @@
    "termin": null,
    "wobec": "boren_koladziej",
    "stan": "OTWARTE — staly dochod cechowy (odbudowa po smearze)",
-   "status": "wzieta"
+   "status": "wzieta",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "audyt_wina_aldous",
@@ -529,7 +627,10 @@
    "termin": null,
    "wobec": null,
    "_dziennik_stan": 1,
-   "status": " || d29 INSIDER (Leona rzut 76): ciche wypytywanie cechu o pochodzenie Symona WRACA NUDNE — jego zasiana narracja (niski sierota, dobry maester Aemon nauczyl liter z laski, poszedl na poludnie piorem) + status pisarza Wiary + relief = na Schodach widza go jako 'skryba Wiary, ten co zrobil zimowy relief': respektowany, nieciekawy, trudny do zaczepienia. Origin-probe cechu bez uchwytu. Leona radzi: nie dawaj im NOWEJ nitki do pociagniecia — trzymaj kurs. Dyscyplina sie oplaca."
+   "status": " || d29 INSIDER (Leona rzut 76): ciche wypytywanie cechu o pochodzenie Symona WRACA NUDNE — jego zasiana narracja (niski sierota, dobry maester Aemon nauczyl liter z laski, poszedl na poludnie piorem) + status pisarza Wiary + relief = na Schodach widza go jako 'skryba Wiary, ten co zrobil zimowy relief': respektowany, nieciekawy, trudny do zaczepienia. Origin-probe cechu bez uchwytu. Leona radzi: nie dawaj im NOWEJ nitki do pociagniecia — trzymaj kurs. Dyscyplina sie oplaca.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "nowe_zlecenie_d4",
@@ -545,7 +646,10 @@
    "typ": "okazja",
    "termin": null,
    "wobec": null,
-   "_dziennik_stan": 5
+   "_dziennik_stan": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "drugi_pisarz",
@@ -555,7 +659,10 @@
    "wobec": null,
    "_dziennik_stan": 25,
    "status": " || d23: Hal wciagniety do roboty w SEPCIE (praca, nie litosc) — cieplo+strawa+sensowne pismo dla Owena; wiez glebnie (nast 37), zaufanie rosnie. Naturalny nastepny szczebel: septowe ksiegi jalmuzny to bezpieczne pole do poszerzania odpowiedzialnosci i cichej proby dyskrecji. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || d23: PIERWSZA cicha lekcja dyskrecji dostarczona w bezpiecznym polu (ksiegi jalmuzny) — poszla dobrze (rzut 45). Hal rozumie dyskrecje jako znak fachowca, nie kaganiec. Kolejny szczebel zaufania odblokowuje sie stopniowo; wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete do dalszych prob. || d26 (rzut 70): zaawansowana teoria + posilek — Hal blyszczy, wiez/zaufanie glebnie (nast 40). Trial mocny; nastepny szczebel: dac mu WLASNY fragment nie-wrazliwych ksiag do prowadzenia pod okiem. Wrazliwe wciaz odciete. || 11-03 KAMIEN MILOWY (rzut 94): Hal gotowy na WLASNY fragment nie-wrazliwej odpowiedzialnosci (np. prowadzic wydzielony kawalek ksiegi jalmuzny/kantoru pod nadzorem). Dream-door z d29 uchylil sie SAM przez robote (zaczyna wyobrazac siebie jako pisarza-co-znaczy). Nast 45, zaufanie rosnie. Nastepny krok: powierzyc mu ten fragment i patrzec, jak niesie. Wrazliwe (manifesty/Antaryon/Ryman/zrodlo) wciaz odciete. || 11-03 ZIMNY PRYSZNIC (Nesta rzut 7): zamiast planu — trzezwa przestroga, ktorej Symon w zapale nie doważyl. (1) KANTOR NIE jest bezpieczna piaskownica dla Hala: jego ksiegi sa SPLECIONE z goracymi watkami (manifesty Antaryona, audyty bloku — dokladnie to, czego cech szuka u Symona); chlopak moglby przypadkiem natknac sie na || 12-19: Hal na ksiedze reliefu dziala POD OKIEM OWENA - bezpieczne, nadzorowane, legalne osadzeni || 12-24: standard uslugi doradczej wyodrebnia MECHANICZNE czesci (wpisy/standardowe rachunki) - to sciezka przyszlego bezpiecznego delegowania Halowi, gdy jego osad/dyskrecja dojrzeja. || 12-24 (rzut 32): nauka - rzemioslo Hala rosnie, ale osad/cierpliwosc NIE wsiaka wykladem (glod znaczenia silni",
-   "nastepne": "Powierzac Halowi wiecej STOPNIOWO, pod okiem (delegacja wrazliwego juz mozliwa przy obecnosci+nadzorze) - odciazy rozciagnietego Symona; realny drugi pisarz dojrzewa. Utrzymac obecnosc/nadzor."
+   "nastepne": "Powierzac Halowi wiecej STOPNIOWO, pod okiem (delegacja wrazliwego juz mozliwa przy obecnosci+nadzorze) - odciazy rozciagnietego Symona; realny drugi pisarz dojrzewa. Utrzymac obecnosc/nadzor.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "handel_zimowy_flip",
@@ -572,7 +679,10 @@
    "termin": null,
    "wobec": null,
    "stan": "ROBOTA ZAWARTA (m10d8, rzut 53): zarzadca GODRIC pod wrazeniem oglady+renomy Symona; zlecil dyskretny audyt (+3 jel retainer). CAVEAT: rezerwa — pelne wejscie w gore NIE dane, trzeba DOWIESC na tej robocie. Pierwszy (ostrozny) RUNG ku kregowi dworu/Nowego Zamku. RYZYKO: rosnac w kregach establishmentu = widocznosc dla dworu (a cech wlasnie tam sie umizga) — dwuznaczne.",
-   "status": "AD-HOC (07-06) — retainer odrzucony (firewall); wrażliwe od przypadku, osobiście"
+   "status": "AD-HOC (07-06) — retainer odrzucony (firewall); wrażliwe od przypadku, osobiście",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "opal_zima",
@@ -591,12 +701,18 @@
    "status": "SPREAD ZNAKOMITY (11-02, rzut 98): odpowiedz korespondenta z Gulltown — Dolina gornicza, zelazo/okucia/ruda u zrodla TANIE, a w Bialym Porcie zimowy popyt (kolodzieje, narzedzia, gwozdzie, okucia okrętowe) wywindowal cene -> spread TLUSTY. BOREN = pewny odbiorca (sell-side zamkniety, rzut 74 wczesniej). Struktura: consignment/kredyt + gwarantowany off-take = niski cash Symona przy ryzyku. HACZYK REALNY: zimowa TRASA WSCHODNIA (Bite/ku Gulltown) SZTORMOWA — rejs wolny, zalezny od pogody, ryzyko opoznienia/straty ladunku. Cash Symona cienki (7 jel) -> finansowanie przez Nestе. DECYZJA: (a) zimowy HEDGOWANY/maly trial teraz (tlusty margines, Boren czeka, ale ryzyko sztormu), (b) zabankowac na WIOSNE (bezpieczniej, ale traci zimowe wysokie ceny). Nesta wyważy ryzyko/finansowanie. || 11-02 STRUKTURA (Nesta rzut 64): (1) MALY trial — rozmiar taki, ze strata nie boli; probowac kanal, nie stawiac kantoru. (2) FINANSOWANIE = kredyt/komis pod GWARANTOWANY off-take Borena (Boren pre-commit kupna po ustalonej cenie -> kupujesz zelazo na kredyt korespondenta z Gulltown, wykladasz minimum, moze drobny zadatek). (3) HEDGE CZASCIOWY (64=nie do zera): rejs przez pewnego kapitana (Belarno/znany) czytajacego okno pogodowe; probowac zrzucic czesc ryzyka tranzytu na sprzedawce (platny przy przybyciu); ale RESZTKOWE ryzyko sztormu ZOSTAJE na kantorze — sztorm moze zjesc maly trial i trzeba by przelknac ograniczona strate. DOWNSIDE: ograniczony/przezywalny. UPSIDE: tlusty zimowy margines + przetestowany kanal + Boren rad -> skala na wiosne. LEAN Nesty: maly hedgowany trial rozsadny JESLI Symon akceptuje resztkowe ryzyko morza na ograniczonym zakladzie; jesli risk-averse (cienki cash, gesty listopad) — wiosna bezpieczniejsza. DECYZJA Symona: odpalic maly trial vs zabankowac. || 11-02 TRIAL ODPALONY (rzut 75, czysto): Boren POTWIERDZIL odbior po ustalonej cenie (sell-side lock, nast 39->40); korespondent Gulltown daje KREDYT/komis pod ten off-take; Nesta wzięła pewnego kapitana z oknem pogodowym; Symon zadatek 2 jel (reszta na kredyt, minimal cash). ZAKLAD POSTAWIONY. Teraz na zegarze: rejs zimowa trasa wschodnia, przybycie ~late XI (wolno/pogoda), RESZTKOWE ryzyko sztormu rozstrzyga sie na morzu (rzut przy dostawie). Sukces=tlusty margines+kanal->wiosna skala; klapa=ograniczona przezywalna strata.",
    "_dziennik_stan": 6,
    "_dziennik_opis": 2,
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "pomoc_aldous_wino",
    "tytul": "Utkniete wino Aldousa",
-   "status": "DOMKNIETY POZYTYWNIE (11-13, rzut 61): Symon rozwiazal problem plynnosci, NIE ruszajac bezpiecznego wina. Uczciwy mostek: pozyczka przez kantor Nesty pod zastaw udokumentowanej konsygnacji, fair merchant terms, Symon reczy standingiem. Aldous plynny od zaraz, wino jego (dojdzie przy odwilzy, marza cala), zero lichwiarzy. Symon nie tknal wlasnej sakiewki (17 jel cale) - rozwiazal dojsciami+zaufaniem (jego edge). Aldous 36->43 przez caly luk; Nesta +1 (dobry, niskiego ryzyka klient kredytowy + pokaz wartosci Symona jako brokera). Mozliwy przyszly: wino dojdzie ~przy odwilzy. || 297-03-17: SPLATA - wino doszlo z odwilza, Aldous sprzedaje i splaca mostek do KANTORU NESTY (kapital + uczciwe odsetki kupieckie). Symon jako wspolnik kantoru ma udzial w odseikach (zysk w kantorze, nie w sakiewce). Kredyt POD ZASTAW splacony CZYSTO - filar kredytowy zwalidowany pozytywnie (kontrast z miekkim wekslem Wendy: zastaw > zaufanie)."
+   "status": "DOMKNIETY POZYTYWNIE (11-13, rzut 61): Symon rozwiazal problem plynnosci, NIE ruszajac bezpiecznego wina. Uczciwy mostek: pozyczka przez kantor Nesty pod zastaw udokumentowanej konsygnacji, fair merchant terms, Symon reczy standingiem. Aldous plynny od zaraz, wino jego (dojdzie przy odwilzy, marza cala), zero lichwiarzy. Symon nie tknal wlasnej sakiewki (17 jel cale) - rozwiazal dojsciami+zaufaniem (jego edge). Aldous 36->43 przez caly luk; Nesta +1 (dobry, niskiego ryzyka klient kredytowy + pokaz wartosci Symona jako brokera). Mozliwy przyszly: wino dojdzie ~przy odwilzy. || 297-03-17: SPLATA - wino doszlo z odwilza, Aldous sprzedaje i splaca mostek do KANTORU NESTY (kapital + uczciwe odsetki kupieckie). Symon jako wspolnik kantoru ma udzial w odseikach (zysk w kantorze, nie w sakiewce). Kredyt POD ZASTAW splacony CZYSTO - filar kredytowy zwalidowany pozytywnie (kontrast z miekkim wekslem Wendy: zastaw > zaufanie).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "ubezpieczenia_frachtu",
@@ -604,7 +720,9 @@
    "status": "URUCHOMIONY 11-14 (rzut 88): Nesta zatwierdzila OSTROZNY pilotaz ubezpieczen/pul ryzyka frachtu za parawanem kantoru ('rekojmie na ladunek'). STRUKTURA: male, znane ladunki + zaufani kapitanowie + trasy dajace sie wycenic; dywersyfikacja od zaraz (nigdy jeden statek); KAPITAL kantoru/pryncypala (nie sakiewka Symona); Symon = CICHY architekt + MODEL RYZYKA (rachunki8 + info-edge trasy/pogoda/kapitanowie) za cichy udzial w marzy; nazwisko Symona NIEWIDZIALNE (kamuflaz + postawa akumulacji). DOCHOD: skladki wplywaja przy pisaniu rekojmi; wyplata tylko przy stracie. CAP: skala mala poki (1) pryncypal nie da wiekszego kapitalu [chce dowodu/czystej struktury - patrz karta celna] i (2) zima najgorsza nie minie. RYZYKO: strata objetego statku boli (dlatego male+dywersyfikacja). Pierwszy netto-wynik ~mid XII. || 11-15: model ryzyka pilotazu wzmocniony braavijska ksiegowoscia (Symon rachunki->9) — czystsze wyceny/rezerwy. || 11-17 (sync, rzut 78): pilotaz bierze PIERWSZE male pozycje — Nesta z Symonem obstawiaja rekojmiami kilka bezpiecznych, znanych ladunkow (przybrzezne trasy, zaufani kapitanowie) wg modelu ryzyka Symona; pierwsze skladki zaczynaja kapac (cichy dochod). Skala mala wg planu. || 11-20: pilotaz idzie - wiecej malych, bezpiecznych rekojmi wypisanych, skladki narastaja (cichy dochod); model Symona pracuje. Skala wciaz mala wg planu. || 11-28: model ryzyka + KOMPLEMENT wewn. || 12-12 POST-MORTEM (rzut 37, nierozstrzygniete): przy n=1 brak wiarygodnego root-cause - nie da sie oddzielic pecha od wady modelu; strata w granicach zdrowego rozrzutu. HIPOTEZA do obserwacji (nie wniosek): objeta strata padla na zimowa trase Ciesniny. Dyscyplina: nie overfitowac szumu, zbierac  || 297-02-01: Symon dopytal Nesty o forward-plan pilotazu. POTWIERDZONE: model strukturalnie trzyma (pierwszy wynik lekko na minus - zimowy sztorm zjadl skladki, ale zero blowupu; teza zysku niepotwierdzona bo zima=najgorsze okno). PLAN: HOLD MALY przez gleboka zime (przetrwac, nie skalowac) -> SKALOWAC Z WIOSNA (siada morze, spada ryzyko sztormu = uczciwy test + okno zysku; skladki zaczna bic wyplaty). INTEGRACJA: ubezpieczenia + weksle = dwa skrzydla (broker kredytu i pewnosci); wiosna: ubezpieczyc ladunek egzotycznej spolki + polnocny kanal eksportowy, weksle rownolegle. || 297-03-15: WIOSENNE OKNO - z powrotem zeglugi rosnie apetyt na ubezpieczenie frachtu. Nesta sonduje braavijskie kontakty (popyt/cena) do ~03-18. Jesli popyt jest, to naturalny moment na skalowanie filaru pewnosci. Postawa: obserwacja rynku dzien-dwa przed kapitalem. || 297-03-18 (rzut 50, qualified yes): POPYT REALNY na ubezpieczenie frachtu wiosennego (zegluga wraca, hedge ladunku), ALE brac ryzyko = kapital ktorego brak (lekcy). Ksztalt: BROKER ryzyka (kojarzyc ladunek z braavijskim kapitalem za dzialke) lub mikro-pilotaz na drobnych. Braavijczycy chetni jako kapital/reasekuracja PRZY ciasnych standardach; edge Symona = forensic wycena (czyta papiery/trasy). Zaczac wasko (konkurencja+wiarygodnosc). Decyzja ksztaltu z Nesta. || 297-03-18 WIECZOR (rzut 44): PIERWSZA WYCENA na znanym ladunku (skory->Braavos). Polowa Symona OSTRA: wartosc ladunku (sam sortowal), warunki, papiery, ryzyka idiosynkratyczne - forensic edge, wycenia lepiej niz generyk. Polowa DRUGA (czestosc strat na trasie Braavos tej wiosny, historia galery Vhassara, RYNKOWA stawka skladki) = sciana: to wiedza rynku/base-rates, ktorej Symon NIE ma, a maja braavijscy korespondenci Nesty. WNIOSEK: podzial \"Symon wycenia ryzyko specyficzne / Nesta dostarcza base-rates+rynek+plasowanie\" uzasadniony od podszewki. Szablon wyceny GOTOWY (polowa Symona), do KALIBRACJI z Nesta przed uplasowaniem. Nastepny krok: Nesta. || 297-03-19 (rzut 50): KALIBRACJA - Nesta dolozyla stawki bazowe (przyblizenia z jej sieci, szeroki margines - brak dokladnych czestosci strat). Metoda: wyceniac KONSERWATYWNIE (poduszka), uplasowac MALE ryzyko, uczyc sie na wyniku. Szablon PLACEABLE. Decyzja pierwszego strzalu: wlasny wywoz (dowod mechanizmu) lub drobny ladunek zaufanego kupca (prowizja). Actionable: uplasowac pierwsze ryzyko. || 297-03-19 POPOL (rzut 1, KRYT.): Symon pewny siebie spisal pierwszy instrument (wlasny wywoz skor) - i na re-readzie zimno zrozumial, ze to NIE ubezpieczenie, lecz wyglada jak ZAKLAD O KATASTROFE (bet ze statek zatonie): brak wlasciwej struktury interesu ubezpieczalnego, jasnego wyzwalacza wyplaty, konwencji morskiego ubezpieczenia (osobne rzemioslo, nieznane mu). Poslanie tego braavijskiemu kapitalowi = wyjsc na amatora, podciac wiarygodnosc filaru na 1. kontakcie. ZLAPAL w pore, podarl draft (brak zewn. szkody), ale zmarnowane popoludnie + humbling. NAUKA: bieglosc domenowa - forensic/umowy NIE przenosza sie na morski instrument. REWIZJA SCIEZKI: najpierw NAUCZYC sie konwencji (braavijskie materialy + korespondenci Nesty), DOPIERO potem spisac. Pilotaz opozniony do nauki instrumentu. || 297-03-19 POPOL (rzut 62): NAUKA od Nesty - konwencje morskiego instrumentu (interes ubezpieczalny, indemnizacja do szkody, wyzwalacz+dowod, braawijska forma). Grunt solidny, instrument teraz RE-DRAFTABLE wlasciwie. Filar wraca na tory uczciwa droga: rzemioslo -> papier. Nastepny krok: spisac instrument poprawnie (juz z wiedza), potem uplasowac maly pilotaz. || 297-03-20 (rzut 79): RE-DRAFT UDANY - instrument spisany wlasciwie z konwencjami (interes ubezpieczalny, indemnizacja z pulapem na wartosci skor znanej co do sztuki, wyzwalacze+dowod straty, braawijska forma). Forensic Symona swieci (zna ladunek + forme) - opis ryzyka ostrzejszy niz generyk, profesjonalny. Dokument PLACEABLE, nie wstyd przed braavijskim kapitalem. Luk odrobiony: botch(1)->nauka(62)->re-draft(79). Zostaje: Nesta plasuje u kapitalu (kanal/korespondenci, ~przy flotylli). Pierwszy pilotaz (wlasny wywoz skor) spisany. || 297-03-28 (rzut 17): PILOTAZ NIE UPLASOWANY - reality-check strukturalny. Braawijski kapital nie bierze pojedynczego drobnego ryzyka od niesprawdzonego gracza (brak track-recordu jako ubezpieczyciele; gra w skali/ksiegach; konserwatywna wycena mniej atrakcyjna). NAUKA: ubezpieczenia = gra PORTFELA/SKALI/TRACK-RECORDU, nie da sie zbootstrapowac jednym strzalem; TRUDNIEJSZY filar niz kredyt (kredyt niosl bo pod twardy zastaw). Potwierdza przestroge Nesty ze sondazu. PIVOT (do obgadania): (a) agregowac KSIEGE drobnych ryzyk (dywersyfikacja), (b) wyrobic track-record na mikro-ryzykach ktore Was stac udzwignac, (c) czysty BROKER do istniejacych ubezpieczycieli za prowizje (nie tworzyc pojemnosci). Filar zywy ale wolniejszy/trudniejszy. || 297-03-28 (Nesta, rzut 90): PIVOT PRZESADZONY = BROKER nie underwriter. Symon wycenia/przesiewa ryzyko (forensic), Nesta plasuje u USTALONEGO ubezpieczyciela, prowizja; kapital-light, omija sciane niesprawdzonego underwritera. INSIGHT: ubezpieczyciele CHCA brokera-filtra zlych ryzyk (oszczedza strat) - forensic Symona = usluga pozadana; reputacja dobrze-zwettowanych ryzyk = FOSA. NASTEPNY KROK: uplasowac pierwszy realny ladunek zaufanego kupca (np. ze skrzydla flotylli) u ustalonego ubezpieczyciela za prowizje. Wlasciwa, zywotna forma filaru. || 297-03-29 (rzut 96): MODEL BROKERA URUCHOMIONY. Pierwszy ladunek = wino Aldousa (zaufany, znane ryzyko). Symon forensic-wycenil mistrzowsko (dobrze przesiane ryzyko, jakiego underwriter pragnie) = DOWOD wartosci modelu. Deal ustrukturyzowany, teed up do uplasowania przez Neste ~04-05 (prowizja). Filar stanal na nogach we wlasciwej formie (broker nie underwriter). Wczoraj rynek \"nie tak\" (underwriter), dzis \"wlasnie tak\" (broker). Forensic = produkt za ktory kapital placi (odroznienie dobrego ryzyka od zlego).",
    "nastepne": "ZIMA: trzymac maly, cierpliwie (nie skalowac). WIOSNA: skalowac ubezpieczenia (spokojne morze), ubezpieczyc ladunek spolki egzotycznej + eksport polnocny; rozwijac rownolegle weksle -> nisza broker-kredytu-i-pewnosci.",
    "_dziennik_stan": 3,
-   "_dziennik_opis": 5
+   "_dziennik_opis": 5,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "alarm_opal",
@@ -623,19 +741,28 @@
    "priorytet": "sredni",
    "_dziennik_stan": 3,
    "_dziennik_nota": 1,
-   "nastepny_krok": "korespondencja z Elwynem żywa (sprzężenie ryzyk = OTWARTY PROBLEM, notacja go nie umie — Symon najbliżej bo przeżył); potencjalne NOWE wspólne dzieło z Theomore'em o sprzężeniu/systemowym ryzyku (frontier). Standing przez rozum rośnie."
+   "nastepny_krok": "korespondencja z Elwynem żywa (sprzężenie ryzyk = OTWARTY PROBLEM, notacja go nie umie — Symon najbliżej bo przeżył); potencjalne NOWE wspólne dzieło z Theomore'em o sprzężeniu/systemowym ryzyku (frontier). Standing przez rozum rośnie.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "uslugi_zarzadcze",
    "tytul": "Usluga zarzadcza (produkt)",
    "status": "11-XII (rzut 97): z podrecznika procedur zrodzil sie NOWY FILAR - sprzedawalna USLUGA ZARZADCZA dla kupcow: ustawic komus ksiegi tak, by wiedzial kto mu winien i od kiedy (wiekowanie naleznosci), ktore trasy/klienci realnie zarabiaja (rentownosc - zwykle 1/3 stratna), kiedy padaja zobowiazania (kalendarz), i ostrzec przed przekredytowaniem (progi). Wiekszosc kupcow lata na slepo -> realny popyt. WARTOSC: cichy, skalowalny, niskokapitalowy, wysokomarzowy dochod (wiedza) + moat + network/embed multiplier + karmi model ubezpieczen. GO-TO-MARKET: zaczac od ZAUFANYCH (Vox/Leona/Aldous/Boren) - ceni, nie poczuje sie szpiegowany. CIEN/dyscyplina: kazdy klient=jego ksiegi w rekach Symona -> aggregate visibility + witness-risk; rollout SELEKTYWNIE i dyskretnie (caution Nesty). Internal: kalendarz zobowiazan+wiekowanie = wprost lekcja z dlugu Nesty/Antaryona. || 12-03 PIERWSZY KLIENT (Vox, rzut 43): usluga URUCHOMIONA. Vox kupil idee, ufa, ale jak kupiec strzegacy ksiag wzial na PROBE - jeden slice (wiekowanie naleznosci), nie pelne ksiegi. Slice OD RAZU wykazal konkret (slaby platnik przeciagajacy Voxa) -> PRODUKT ZWALIDOWANY in-market, Vox pod wrazeniem, sciezka do rozszerzenia + testimonial dla kolejnych. Fee +2 jel (founding). Dyscyplina: pierwszy slice cudzych ksiag w rekach - trusted party, low risk, ale wzor sie zaczyna (aggregate visibility do pilnowania przy skalowaniu). NASTEPNE: dowiezc na slice -> rozszerzyc u Voxa; potem Leona/Aldous/Boren. || 12-05 DOWIEZIONE (Vox, rzut 4 || 12-15 WETTING (rzut 91): niewettowany inbound = WAT, kupiec suknem/prowiantem Schodow, sredniej reki, rosnacy. Read czysty: uczciwy, placi, bezpieczny jako osoba - ALE sam GADULA wpiety w plotke g || 12-15 (rzut 89): Wat PRZYJETY pod twarda klauzula dyskrecji + slona cena (zadatek 3 jel, ~7 na d || 12-18: ksiegi Wata dostarczone czysto (rzut 60, +7 jel), dyskrecja trzyma - MODEL premium+dyskre || 12-23 (Harlon rzut 71): Harlon (solarz, wczesniejszy audyt) wziety jako STALY klient uslugi zarzadczej pod dyskrecja (zadatek 2 jel, robota niebawem). Kontrolowany wzrost - znany/zaufany kontakt k || 12-24 (rzut 54): SPISANY STANDARD uslugi - powtarzalny bieg (wejscie/dyskrecja/cena -> deliverables w kolejnosci -> poufne wydanie -> oslona -> rozdzial mechaniczne/osad). Filar usystematyzowany + || 297-02-04: MEREK - zlokalizowana realna potrzeba: przekredytowanie zimowe (rozsypane nieśledzone naleznosci, niepewna ekspozycja). Wejscie: usluga zarzadcza (wiekowanie/ekspozycja) -> potem weksle/rozproszenie. Spelnia obowiazek 'turn/usluga' + klient domeny. Nastepne: zaproponowac/dowiezc. || 297-02-04 (rzut 77): MEREK onboarded na probe (wycinek: wiekowanie/ekspozycja) - od razu pokazal wartosc (ekspozycja, kto placi/zwodzi, 2 martwe ryzyka). Obowiazek wobec Merka SPLACONY czynem; drugi platny klient domeny; oplata +3 jel; Merek nast 24->30. Follow-on: weksle/rozproszenie jego ekspozycji. || 297-02-05 NAUKA (Harlon rzut 26): powtorna usluga u JUZ obsluzonego klienta = malejace zwroty (wielki wyciek zlapany raz, potem okruchy); + gleboki dostep budzi CZUJNOSC klienta (witness-risk od jego strony - 'dosc zagladania'). Wniosek: wartosc jest w NOWYCH klientach/slice'ach, nie w re-audycie tego samego; i dawkowac gleboki wglad (nawet zadowolony klient robi sie nieswoj). || 297-02-09 (rzut 19): Merek - triage tick dostarczony. Diagnoza grim: zimowy tick w wiekszosci niesciagalny teraz (dluznicy bez grosza, zamrozone do odwilzy). Wartosc=klarownosc+triage+rada (nie sciskac zima). Oplata +2 jel. Merek sobered ale ceni prawde. SPRING: wznowienie sciagania gdy dluznikom wroci srebro (ew. wtedy faktoring 1 pewnego dlugu).",
-   "_dziennik_stan": 6
+   "_dziennik_stan": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "strategia_kapitalu",
    "tytul": "Strategia rozmieszczenia kapitalu",
    "status": "12-05 (Nesta rzut 79): GLEBOKA ZIMA = zly czas na NOWE deploymenty (szlaki zamrozone, rynki cienkie, ceny zaburzone; opal wyszedl bo SEZONOWO timed; nie gonic nowej zimowej spekulacji - lekcja dye). PLAN sygnalowo-bramkowany: (1) ADVISORY - capital-light, LEAN IN TERAZ (najlepszy risk-adjusted growth, czas nie kapital); (2) INSURANCE - grow stake MODESTNIE gdy wynik ~12-12 potwierdzi (skalowalny cichy pilar); (3) EXPORT (spring) - REALNY growth vector: gdy futra sprzedadza sie w Braavos (~12-20), skalowac polnocny kanal na wiosne (Torsen/Halvard pipeline); HOLD DRY POWDER na to; (4) NIE forsowac kapitalu bo sie go ma (akumulacja). BRAAVIJSKA RAMA: 'najlepiej miec kapital gotowy, gdy inni zamarznieci - trzymaj zima, a WIOSNA, gdy szlaki otwarte a tchorze cash-starved, deployuj z pozycji sily' (buy when others cant). WNIOSEK: cierpliwosc teraz, deploy na sygnaly (~12-12 ubezp, ~12-20 futra, wiosna export). || 12-18: +18 jel zysku doradczego do depozytu u Nesty -> 88 jeleni (8800 mied). Float 6 jel. Cicha akumulacja rosnie z platnego pilaru doradczego. || 12-30: +24 jel do depozytu -> 122 jelenie. Float 6. Cicha akumulacja pecznieje.",
-   "_dziennik_stan": 5
+   "_dziennik_stan": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "uslugi_rozjemstwo",
@@ -647,14 +774,20 @@
    "tytul": "Audyt-referral (Merek, przez Harlona)",
    "status": "ZAMKNIETY UCZCIWIE (12-17) || 297-01-02 (rzut 47): sprawa uspokojona - Merek zaciesnil wlasne ksiegi (spokoj+deterrent), podejrzenie nie uroslo, nic nowego. Furtka 3rd-party otwarta gdyby zaswierzbilo. Relacja ciepla (integrity), dobry kandydat na poreczyciela mieszczanstwa. || 297-03-20: triaz naleznosci ujawnil, ze rachunek WSPOLNIKA Merka jest zalegly/niespojny (cien, nie dowod) - ziarno zasiane, warto przyjrzec sie. Echo dawnego soft-signalu (wspolnik hedgowal book-reconciliation).",
    "_dziennik_nastepne": 1,
-   "_dziennik_opis": 4
+   "_dziennik_opis": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "zlecenia_krag",
    "opis": "Zlecenia doradcze/skryba z kregu Symona (jego reputacja: uczciwe ksiegi, forensic audit, architektura reliefu, teraz kupiec-wlasciciel co 'wypatruje wycieki'). W lean winter to realny zarobek. UWAGA: wiecej klientow = wiecej cudzych liczb i sekretow = ryzyko 'niewygodnego swiadka'/powiernika zbyt wielu (ostrzezenie Owena I Nesty) - byc SELEKTYWNYM.",
    "typ": "okazja/dochod",
    "_dziennik_stan": 3,
-   "nastepne": "A domkniete (dochod+goodwill). C = dlugofalowa relacja: budowac reputacje/dowody, cierpliwie wracac do faktora Rollama (nie napierac - powazny czlowiek ufa z czasem). Selektywnosc utrzymana (B odpuszczone)."
+   "nastepne": "A domkniete (dochod+goodwill). C = dlugofalowa relacja: budowac reputacje/dowody, cierpliwie wracac do faktora Rollama (nie napierac - powazny czlowiek ufa z czasem). Selektywnosc utrzymana (B odpuszczone).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "uslugi_kredytowe",
@@ -662,7 +795,10 @@
    "typ": "cel_strategiczny/horyzont",
    "_dziennik_stan": 15,
    "nastepne": "Domena ma STANDARDY - skalowac wg nich: zrodlic bankowalne gapy przez zaufana siec (nie desperatow), kwalifikowac twardo, dawkowac wglad. Zima=cicho siac+budowac; wiosna=skala (pilot ~03-10, ubezpieczenia). Rownolegle: klienci (Merek follow-on, siec).",
-   "status": " || 297-03-15 (obserwacja rynku, rzut 99): OSTRY ODCZYT. Opal wciaz wyceniony u ZIMOWEGO SZCZYTU (1.9x), ale odwilz sie przelamala i podaz Polnocy potwierdzona - to SPADAJACY NOZ. Kto przetrzymal opal kupiony drogo bedzie sie podtapiac w tygodniu -> kandydaci na SELEKTYWNY mostowy kredyt/plynnosc (nie hurtem - lekcja adverse selection z weksla Wendy). Symon kapitalowo-lekki: gra nie na kupnie towaru, lecz na POZYCJONOWANIU wokol korekty (dokladnie jak ujela Nesta). Do przyniesienia Nescie jako dzien-1 obserwacji. || 297-03-17: DOWOD dzialania filaru - mostek Aldousa (pod zastaw wina, przez kantor) splacony czysto przy odwilzy. Kredyt zabezpieczony zastawem = czysta splata; potwierdza regule: zastaw > miekkie zaufanie (weksel Wendy wymagal restrukturyzacji)."
+   "status": " || 297-03-15 (obserwacja rynku, rzut 99): OSTRY ODCZYT. Opal wciaz wyceniony u ZIMOWEGO SZCZYTU (1.9x), ale odwilz sie przelamala i podaz Polnocy potwierdzona - to SPADAJACY NOZ. Kto przetrzymal opal kupiony drogo bedzie sie podtapiac w tygodniu -> kandydaci na SELEKTYWNY mostowy kredyt/plynnosc (nie hurtem - lekcja adverse selection z weksla Wendy). Symon kapitalowo-lekki: gra nie na kupnie towaru, lecz na POZYCJONOWANIU wokol korekty (dokladnie jak ujela Nesta). Do przyniesienia Nescie jako dzien-1 obserwacji. || 297-03-17: DOWOD dzialania filaru - mostek Aldousa (pod zastaw wina, przez kantor) splacony czysto przy odwilzy. Kredyt zabezpieczony zastawem = czysta splata; potwierdza regule: zastaw > miekkie zaufanie (weksel Wendy wymagal restrukturyzacji).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "zona_partnerka",
@@ -674,14 +810,20 @@
    "_dziennik_popoludnie_kocu_0802": 1,
    "_dziennik_pozegnanie_wyjazd_0804": 1,
    "_dziennik_powrot_z_winterfell_0821": 1,
-   "_dziennik_mira_wspolzalozycielka_atelier_0823": 1
+   "_dziennik_mira_wspolzalozycielka_atelier_0823": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "kalendarz_symona",
    "_dziennik_opis": 1,
    "typ": "system/dyscyplina",
    "_dziennik_stan": 3,
-   "nastepne": "Pilnowac i aktualizowac; narrator surface'uje terminy co ture."
+   "nastepne": "Pilnowac i aktualizowac; narrator surface'uje terminy co ture.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "traktat_kodeks_audytu",
@@ -694,7 +836,10 @@
   {
    "id": "stajnia_pisarzy",
    "_dziennik_stan": 10,
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wiedza_jako_towar",
@@ -703,7 +848,10 @@
    "postep_0316": "297-03-16: przychod ZREALIZOWANY - Wat zaplacil saldo ~9 jel za wiosenny refresh (drugi obrot tego samego klienta). Dowod, ze filar daje rekurencje: rosnacy kupiec wraca cyklicznie. Wartosc = twarda diagnoza (trasa topiaca grosz), nie estetyka ksiag.",
    "_dziennik_postep_0328": 2,
    "_dziennik_postep_0329b": 2,
-   "_dziennik_opis": 5
+   "_dziennik_opis": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "slub_brana_alys",
@@ -717,11 +865,17 @@
    "_dziennik_stan": 4,
    "zamkniety": true,
    "status": "zamkniety",
-   "opis": "297-03-30: ZAMKNIETY - lokator podsuniety przez Symona (03-03 referral) wprowadzil sie z pelna odwilza; poddasze Serli wynajete, jej grosz-niepokoj zdjety godnie (wlasny czynsz najemcy, nie jalmuzna)."
+   "opis": "297-03-30: ZAMKNIETY - lokator podsuniety przez Symona (03-03 referral) wprowadzil sie z pelna odwilza; poddasze Serli wynajete, jej grosz-niepokoj zdjety godnie (wlasny czynsz najemcy, nie jalmuzna).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "nauka_prawa_torren",
-   "_dziennik_stan": 4
+   "_dziennik_stan": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "aurane_sklady",
@@ -729,43 +883,64 @@
    "typ": "okazja/slow-burn",
    "widoczny_graczowi": true,
    "status": "aktywny_recurring",
-   "_dziennik_stan": 5
+   "_dziennik_stan": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "samotnosc_sekretu",
    "_dziennik_opis": 3,
    "typ": "charakter/koszt",
-   "widoczny_graczowi": true
+   "widoczny_graczowi": true,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "rozbieznosc_ladunku_odwilz",
    "status": "zamkniety",
    "priorytet": "niski",
-   "_dziennik_opis": 1
+   "_dziennik_opis": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "uzgodnienia_kantor_wolumen",
    "status": "aktywny_recurring",
    "priorytet": "sredni",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "lead_nowy_faktor",
    "status": "STÓŁ OBRÓCONY (07-02) — fixer odpuścił; otwarty hak: czyja ręka",
    "priorytet": "niski",
-   "_dziennik_opis": 7
+   "_dziennik_opis": 7,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "izba4_wlasne_lokum",
    "status": "zamkniety",
    "priorytet": "sredni",
-   "_dziennik_opis": 3
+   "_dziennik_opis": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "lead_broker_kupiec_flotylla",
    "status": "zrealizowany",
    "priorytet": "sredni",
-   "_dziennik_opis": 3
+   "_dziennik_opis": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "garth_dystans",
@@ -778,14 +953,20 @@
    "id": "nabrzeze_tropy_wiosna",
    "status": "otwarty",
    "priorytet": "niski",
-   "_dziennik_opis": 1
+   "_dziennik_opis": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "aggregate_visibility",
    "status": "otwarty",
    "priorytet": "sredni",
    "_dziennik_opis": 8,
-   "_dziennik_stan": 3
+   "_dziennik_stan": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wick_nauka",
@@ -797,44 +978,65 @@
    "id": "ulric_urazony",
    "status": "otwarty",
    "priorytet": "niski",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "mapa_sol_ryba_ostyn",
    "status": "otwarty",
    "priorytet": "niski",
-   "opis": "297-04-15: Ostyn (upadly kupiec sol/ryba, wdzieczny) dal Symonowi na odchodne mape rynku sol/ryba/fracht: fracht zjada drobnych (potwierdza racket Antaryona - spojne z bierna presja kanalow), ktorzy kupcy krusi, gdzie luki. Wiedza insidera do kieszeni - moze zasilic strumienie (sol=Harlon) lub czytanie rynku. Nic pilnego, mapa na przyszlosc."
+   "opis": "297-04-15: Ostyn (upadly kupiec sol/ryba, wdzieczny) dal Symonowi na odchodne mape rynku sol/ryba/fracht: fracht zjada drobnych (potwierdza racket Antaryona - spojne z bierna presja kanalow), ktorzy kupcy krusi, gdzie luki. Wiedza insidera do kieszeni - moze zasilic strumienie (sol=Harlon) lub czytanie rynku. Nic pilnego, mapa na przyszlosc.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "ubezp_tranzyt_wlasna_podaz",
    "status": "otwarty",
    "priorytet": "niski",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "kantor_kontrahent_rozbieznosc",
    "status": "rozwiazany",
    "priorytet": "sredni",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "ogrod",
    "status": "otwarty",
    "priorytet": "niski",
-   "opis": "297-04-21: ogrodek Symona obsiany (kapusta/zioła/rzepa) z Jonna (doglada za dzielenie plonu). Plon za tygodnie - drobne swieze jarzyny + zakorzenienie. Niskoprofilowe, ludzkie."
+   "opis": "297-04-21: ogrodek Symona obsiany (kapusta/zioła/rzepa) z Jonna (doglada za dzielenie plonu). Plon za tygodnie - drobne swieze jarzyny + zakorzenienie. Niskoprofilowe, ludzkie.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "ekspansja_graded_drewno",
    "status": "uruchomiona",
    "priorytet": "niski",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "drabina_kapitalu",
    "status": "otwarty",
    "priorytet": "sredni",
    "_dziennik_opis": 2,
-   "_dziennik_stan": 2
+   "_dziennik_stan": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "zelazny_bank_angle",
@@ -847,26 +1049,38 @@
    "id": "merek_ksiegi",
    "status": "zrobione - czyste, premium klient",
    "priorytet": "niski",
-   "opis": "297-05-19: Merek (zamozny prowiantnik, przyjaciel) sam poprosil Symona o audyt/ksiegi - chce pewnosci ze nikt go nie strzyze po zdradzie partnera. Zaufaniowa, czysta robota (bez wchodzenia w cudzy spor), zamozny klient, potencjalny nowy filar. Wziac gdy Symon zechce."
+   "opis": "297-05-19: Merek (zamozny prowiantnik, przyjaciel) sam poprosil Symona o audyt/ksiegi - chce pewnosci ze nikt go nie strzyze po zdradzie partnera. Zaufaniowa, czysta robota (bez wchodzenia w cudzy spor), zamozny klient, potencjalny nowy filar. Wziac gdy Symon zechce.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "inwestycja_faktoria_rotacja",
    "status": "otwarty",
    "priorytet": "niski",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "godric_intake_niezgodnosc",
    "status": "zamkniety",
    "priorytet": "niski",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "hal_formalizacja",
    "status": "DOMKNIĘTY po ludzku (07-05) — floor spisany + wzrost + druga głowa",
    "priorytet": "zamkniety-pozytyw",
    "_dziennik_opis": 6,
-   "_dziennik_stan": 3
+   "_dziennik_stan": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "septa_pomoc_jalmuzna",
@@ -875,13 +1089,19 @@
    "_dziennik_opis": 6,
    "_dziennik_odczyt_jalmuzny_0803": 1,
    "spichlerz_ubogich_pod_wiara_0822": "298-08-22: Symon+Owen zakladaja SPICHLERZ DLA UBOGICH pod skrzydlem Wiary (Symon ziarno+srodki, Owen autorytet+ksiega jalmuzny+prowadzenie). Realne dobro (tarcza slabych w ziarnie) + zarazem publiczna twarz/przykrywka chroniaca strategiczne skladanie zboza i odwracajaca plotke o spekulancie. Plug w istniejaca infrastrukture reliefu (Bran logistyka, Mira dyryguje).",
-   "_dziennik_stan": 8
+   "_dziennik_stan": 8,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "elna_chora",
    "priorytet": "niski",
    "status": "otwarty",
-   "opis": "ROZWIAZANE (297-06-07): Elna chora (goraczka piersiowa) uratowana na wszystkich frontach - Symon ustabilizowal (ogien+rosol), Septa leczy (siostra+leki), cech kolodziejow (rzut 68) podjal sustained care (jadlo/opal/rota, spisane) po honorowym przyciśnieciu Symona. Prawdziwa cechowa wdowa (podstawa pewna). ZDROWIEJE przez dni. NEXT: tylko zagladac w rekonwalescencji (Symon/rota). Rep cech 38->40."
+   "opis": "ROZWIAZANE (297-06-07): Elna chora (goraczka piersiowa) uratowana na wszystkich frontach - Symon ustabilizowal (ogien+rosol), Septa leczy (siostra+leki), cech kolodziejow (rzut 68) podjal sustained care (jadlo/opal/rota, spisane) po honorowym przyciśnieciu Symona. Prawdziwa cechowa wdowa (podstawa pewna). ZDROWIEJE przez dni. NEXT: tylko zagladac w rekonwalescencji (Symon/rota). Rep cech 38->40.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "mira_misfire_zaleznosc",
@@ -896,20 +1116,29 @@
    "id": "dwor_pozytywna_rama",
    "priorytet": "sredni",
    "status": "otwarty",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wiara_przednowek_ciezar",
    "priorytet": "sredni",
    "status": "ULZONY 07-21 - lord przyznal relief (ziarno/opal/organizacja) na wniosek petycji. Ciezar przednowka Septy zdjety; zostaje rozdzial (Wiara administruje, Symon cicho pomaga).",
    "_dziennik_opis": 2,
-   "_dziennik_stan": 12
+   "_dziennik_stan": 12,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "firma_faktorska",
    "status": "ZAREJESTROWANA (07-01) — legalny byt, kamień milowy",
    "_dziennik_opis": 4,
-   "_dziennik_stan": 2
+   "_dziennik_stan": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "mira_klopot_sukno",
@@ -922,12 +1151,18 @@
   {
    "id": "fixer_czyja_reka",
    "status": "ZAWEZONE do orbity Antaryona (07-09) - silne podejrzenie, bez dowodu || 297-07-15: Aldous (uratowany, gleboko wdzieczny, teraz otwarty) SAM DOSYPAL - opisal, KTO wykupil jego stary weksel i jak dlawil: broker-front z reachem, terminy i metoda pasuja do wzoru orbity Antaryona konsolidujacej smycz na kupcow. Jeden konkretny punkt wiecej, KIERUNEK potwierdzony niezaleznie - ale wciaz bez twardego dowodu 'Antaryon' (front zasloniety). Aldous slubuje lojalnosc, oferuje ksiegi/standing do kregu. Firewall: Symon zebral, uspokoil, NIC o Banku/agregacie. || 297-07-15 WIECZOR (rzut 30): potwierdzenie Aldousa podlozone pod trop Nesty - KIERUNEK zbetonowany z dwoch stron (dossier + relacja Aldousa = orbita Antaryona), ale TRAFILI W EKRAN. Front zbudowany profesjonalnie WLASNIE po to, by tu zatrzymac: broker-warstwa izoluje zleceniodawce, brak czystej nitki do nazwiska bez glebszego (glosnego) probowania. OCENA NESTY: dalsze odslanianie frontu = malejacy zwrot + RYZYKO sygnalu (im mocniej probujesz kto stoi za brokerem, tym bardziej ktos widzi, ze ktos patrzy - przy zywym endgame Banku niebezpieczne). DECYZJA: zaksiegowac korroboracje, NIE gonic nazwiska frontu (slepa uliczka+ekspozycja); prawdziwa dzwignia to agregat->Bank (ktory nazwiska frontu nie potrzebuje). Trop ZAPARKOWANY, nie martwy.",
-   "_dziennik_opis": 9
+   "_dziennik_opis": 9,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "obrona_bloku",
    "status": "ROSNIE ale TRUDNA (07-10) - rozzuchwalona, prze ku glosnemu sojuszowi; studzic",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "lojalna_siec_wywiadu",
@@ -938,17 +1173,26 @@
   {
    "id": "firma_skalowanie",
    "status": "DZWIGNIA SKALUJE (07-28) - Hal awansowany na lead biurka na UDZIALE (per Nesta), Tam (perla, rzut 98) nowy junior pod nim. Capacity odblokowane, lancuch mentorstwa: Symon->Hal->Tam. Firma mnozy sie przez uczniow.",
-   "_dziennik_opis": 9
+   "_dziennik_opis": 9,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "pokoj_z_cechem",
    "status": "PIERWSZE BEZPOSREDNIE SPOTKANIE (07-16 WIECZOR, rzut 42 - sukces z kosztem). Wystan przyjal - pragmatyk, widzi wzajemna korzysc; DETENTE ROBOCZE zawarte + KANAL ROBOTY NOTARIALNEJ otwarty PRZEZ NIEGO. Warming z zimna (nast 5->35, zauf 0->15). KOSZT/WARUNEK: (1) pokoj MIEKKI i DYSKRETNY - Wystan skrepowany frakcja Harwina w cechu, moze robic interes cicho i trzymac pokoj z dystansu, ale NIE moze jeszcze jawnie firmowac Symona ani ruszyc na Harwina; (2) Symon ma FORMALNIE puszczac czesc roboty przez cech/Wystana (uczciwa cena: legitymizuje role cechu, daje Wystanowi oslone i grosz do rozbudowy pokoju wewnatrz); (3) 'fakt przed slowem' - Wystan potrzebuje STALEGO dowozu czystej roboty, by miec przykrywke by pokoj poszerzac. HARWIN OUTFLANKED nie pokonany (cech_ultimatum wciaz zywy, ale Wystan = przeciwwaga od srodka). NEXT: dowozic notarialna robote przez Wystana, budowac zaufanie, patrzec jak izoluje Harwina. || 297-07-17: WALIDACJA Z ZEWNATRZ - Boren (cechmistrz kolodziejow, peer) potwierdza: po publicznym potknieciu Harwin ma NISKIE notowania wsrod rozsadnych cechmistrzow; wyjscie Wystana ku Symonowi czytane jako zdrowy rozsadek, nie zdrada. Sciezka pokoju ma wiatr w plecy od strony rzemiosla.",
-   "_dziennik_opis": 1
+   "_dziennik_opis": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "aldous_dlug_atak",
    "status": "ROZWIAZANY (07-09) - dlug wykupiony blokiem, smycz zerwana, hak zniweczony",
-   "_dziennik_opis": 5
+   "_dziennik_opis": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "bursztyn_braavos_edge",
@@ -965,7 +1209,10 @@
    "_dziennik_wahadlo_probka2_symon_kotwica_0830": 1,
    "_dziennik_przelom_sztuka_bohaterska_0830": 1,
    "_dziennik_sondaz_nesty_marka_jako_imie_0830": 1,
-   "_dziennik_stan": 8
+   "_dziennik_stan": 8,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "plan_faktorski_wiosna",
@@ -978,14 +1225,20 @@
    "status": "ZYWY 07-26 (rzut 78 +pech) - korytarz uruchomiony. Oslona Leony spisana+podpisana, Mira in, pasy komplementarne. Kanal zintegrowany dziala.",
    "priorytet": "sredni",
    "_dziennik_opis": 4,
-   "_dziennik_stan": 3
+   "_dziennik_stan": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "rozwoj_firmy_prospekty",
    "status": "SCAN 07-21 (rzut 51) - cichy rozwoj przez cieple wezly z potrzeba || 07-22 (rzut 48): VOX POZYSKANY - re-engage, otworzyl ksiegi. Instynkt Voxa POTWIERDZONY: JEST strzyzony (sukno - miara/gatunek na dostawach, konsystentny wzor). Kierunek znaleziony, ale ATRYBUCJA airtight (ktory dostawca/wspolnik + dowod do wymuszenia restytucji) wymaga FOLLOW-UP sesji. Vox ulzony/wdzieczny (instynkt sluszny + kompetentny na sprawie) - klient wygrany, retainer-prospekt. Fee wstepny +4 jel. CICHO: mozliwe echo wzoru sukna (agregat/firewall - notuj nie goń). || 07-22 (rzut 49): ROLLAM re-engaged i KONWERSJA NA RETAINER - z one-off catchy na staly embedded oversight (system samosygnalizujacy + okresowy przeglad firmy). Wiekszy faktor = wartosciowy staly klient. +4 jel sesja, retainer +3 jel/mies. Rollam 58->63/21->24.",
    "priorytet": "sredni",
    "_dziennik_opis": 1,
-   "_dziennik_stan": 3
+   "_dziennik_stan": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "aurane_sklady_tie",
@@ -1009,26 +1262,38 @@
    "id": "lead_audyt_aldous_referral_08_24",
    "stan": "ZAMKNIETE (wykonane)",
    "priorytet": "sredni",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "lead_godric_4pasmo_zaopatrzenie_08_25",
    "stan": "URUCHOMIONE (recurring)",
    "priorytet": "sredni-wysoki",
-   "_dziennik_opis": 5
+   "_dziennik_opis": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "tally_dostawcy_zamkniete_08_25",
    "stan": "ZAMKNIETE",
    "priorytet": "niski",
    "opis": "297-08-25 (inbound 39): dostawca odeslal skorygowana tally z krotkim przeprosinami - podwojny demurrage usuniety, pare miedzi sie zgadza. Petla zamknieta pozytywnie, drobna dobra wola. Reputacja dokladnosci potwierdzona.",
-   "marka_niesie_nazwisko_0822": "298-08-22: marka luksusu 'Tally' (surowa estetyka Polnocy) ma NIESC NAZWISKO na dwory/miasta/Braavos - nazwisko Tally buduje sie nie tylko honorem/kompetencja (Winterfell/rezerwa) ale i MARKA rozpoznawalnego kunsztu. Znak 'Tally' wybijany w kazdej sztuce."
+   "marka_niesie_nazwisko_0822": "298-08-22: marka luksusu 'Tally' (surowa estetyka Polnocy) ma NIESC NAZWISKO na dwory/miasta/Braavos - nazwisko Tally buduje sie nie tylko honorem/kompetencja (Winterfell/rezerwa) ale i MARKA rozpoznawalnego kunsztu. Znak 'Tally' wybijany w kazdej sztuce.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "okazja_theomore_zapasy_zimowe_08_26",
    "stan": "ZAMKNIETE (rozegrane grey - srednia droga)",
    "priorytet": "WYSOKI (i wrazliwy)",
-   "_dziennik_opis": 5
+   "_dziennik_opis": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "elna_samotnosc_mira_pomost_08_27",
@@ -1042,31 +1307,46 @@
    "id": "lead_premium_audyt_przedzimowy_skladnik_08_29",
    "stan": "ZAMKNIETE (wykonane, prawda podana)",
    "priorytet": "sredni-wysoki",
-   "_dziennik_opis": 5
+   "_dziennik_opis": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "lead_underwriting_zimowy_popyt_08_29",
    "stan": "DOSTEPNY (opcjonalny)",
    "priorytet": "sredni",
-   "opis": "297-08-29 (rzut 83): siec HUCZY tez popytem na UNDERWRITING - kupcy chca kryc pozne cargo przed twardniejacym sezonem (sztormy+lod=rosnace ryzyko, hard market, tluste skladki). Pasuje w sprawdzony filar underwritingu (~185 pool). Season-driven okazja. UWAGA: wiaze pojemnosc/ryzyko poola, nie wolna kase (kasa i tak cienka: 8 jel). Do tapniecia jesli Symon zechce skalowac skladki zima."
+   "opis": "297-08-29 (rzut 83): siec HUCZY tez popytem na UNDERWRITING - kupcy chca kryc pozne cargo przed twardniejacym sezonem (sztormy+lod=rosnace ryzyko, hard market, tluste skladki). Pasuje w sprawdzony filar underwritingu (~185 pool). Season-driven okazja. UWAGA: wiaze pojemnosc/ryzyko poola, nie wolna kase (kasa i tak cienka: 8 jel). Do tapniecia jesli Symon zechce skalowac skladki zima.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "strategia_climbu_widzialnosc_09_01",
    "stan": "AKTYWNY (rama przyjeta, launch GATED)",
    "priorytet": "NADRZEDNY",
-   "_dziennik_opis": 12
+   "_dziennik_opis": 12,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "rekon_antaryon_korespondent_09_01",
    "_dziennik_stan": 2,
    "priorytet": "wysoki",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "godric_supply_ramp_sponsor_09_02",
    "stan": "AKTYWNY - wieksza rola podazowa ZDOBYTA; sponsor pcha ku scenie (gated)",
    "priorytet": "wysoki",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "lead_leona_ksiega_09_02",
@@ -1079,97 +1359,145 @@
    "id": "zabezpieczyc_pojemnosc_zimowa_09_02",
    "_dziennik_stan": 3,
    "priorytet": "wysoki",
-   "_dziennik_opis": 3
+   "_dziennik_opis": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "dom_mikro_gwiazda_09_04",
    "stan": "AKTYWNY (cichy atut/motyw)",
    "priorytet": "niski",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "dostawa_merrek_09_07",
    "stan": "ZAMKNIETE - lot w prowiantowaniu, marza ~22",
    "priorytet": "wysoki",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "odbior_polowu_dake_09_08",
    "stan": "DOMKNIETE - Dobb bierze staly odbior",
    "priorytet": "niski",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "steward_formalizacja_prowiant_09_09",
    "stan": "FAZA 1 URUCHOMIONA - ciche uznanie OK, przedstawienie+podpis Miry UMOWIONE",
    "priorytet": "NADRZEDNY",
-   "_dziennik_opis": 10
+   "_dziennik_opis": 10,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "problem_frontu_firmy_09_09",
    "stan": "ROZWIAZANY RIGHTLY - Mira front jako wspolniczka (wybor wolny, jasna glowa)",
    "priorytet": "NADRZEDNY",
-   "_dziennik_opis": 8
+   "_dziennik_opis": 8,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "godric_nudge_steward_09_10",
    "stan": "ODPOWIEDZIANO cieplo (rama: powolnosc=odpowiedzialnosc), bufor czasu kupiony",
    "priorytet": "sredni",
-   "_dziennik_opis": 3
+   "_dziennik_opis": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "faza2_wyjscie_symona_z_cienia",
    "_dziennik_stan": 2,
    "priorytet": "aktywny",
-   "_dziennik_opis": 3
+   "_dziennik_opis": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "spotkanie_steward_09_16",
    "stan": "ROZSTRZYGNIETE - PODZIAL (kompromis): firma UDZIAL na merit, rywal czesc (twarz Roldana)",
    "priorytet": "NADRZEDNY",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wino_aldous_po_stewardzie",
    "stan": "ZREALIZOWANE - wieczor wina",
    "priorytet": "niski",
-   "opis": "297-09-14: Symon zaprosil Aldousa na wino (rewanz), Aldous przyjal cieplo, przyniesie cos lepszego z beczki. Wieczor PO spotkaniu u stewarda (09-16+). Cien swietowania jesli szesnasty pojdzie dobrze. Przyjazn/relaks."
+   "opis": "297-09-14: Symon zaprosil Aldousa na wino (rewanz), Aldous przyjal cieplo, przyniesie cos lepszego z beczki. Wieczor PO spotkaniu u stewarda (09-16+). Cien swietowania jesli szesnasty pojdzie dobrze. Przyjazn/relaks.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "rywal_prowiant_09_15",
    "stan": "ROZPOZNANY - zrodlo z daleka, pieta=dostawa w mroz",
    "priorytet": "wysoki",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "kontra_patron_roldan_09_16",
    "stan": "CZESCIOWY SUKCES - podzial roli; Roldan swiadomy przeciwnik",
    "priorytet": "NADRZEDNY",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "zima_kryzys_prowiant_09_17",
    "stan": "kontekst - freeze psuje dostawy WSZYSTKIM prócz lokalnych",
    "priorytet": "sredni",
-   "_dziennik_opis": 1
+   "_dziennik_opis": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "roldan_przeciwnik_09_18",
    "_dziennik_stan": 2,
    "priorytet": "wysoki",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "udzial_prowiant_zima_09_18",
    "stan": "DZIALA - pierwsze dostawy BEZBLEDNE, reputacja pewnej reki na oczach dworu",
    "priorytet": "wysoki",
-   "_dziennik_opis": 6
+   "_dziennik_opis": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "rywal_pierwsza_rysa_09_20",
    "stan": "POGLEBIA SIE (09-22 sztorm): rywal odciety calkowicie, luke prowiantowa kasztelu pokryla FIRMA (Symon osobiscie, mimo triazu). Petla niezastepowalnosci zaciska sie - ale z rysa (patrz godric_pytanie_lojalnosc).",
    "priorytet": "wysoki",
-   "_dziennik_opis": 4
+   "_dziennik_opis": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "slub_mira_symon_09_20",
@@ -1183,13 +1511,19 @@
    "id": "roldan_probe_09_21",
    "stan": "NAMIERZONE (rzut 55) - probe plytki/jalowy; rezyduum: nitka Symon<-kantor Nesty",
    "priorytet": "wysoki",
-   "_dziennik_opis": 2
+   "_dziennik_opis": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "biedota_sztorm_relief_09_22",
    "stan": "ROZWIAZANE (09-22, rzut 59): relief nie padl - Symon+Mira+Bran dowiezli worki pod scianę przytulku ostatnia reka. Nikt tej nocy nie zamarzl. Czesc z wlasnych zapasow Symona.",
    "priorytet": "sredni",
-   "_dziennik_opis": 1
+   "_dziennik_opis": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "sztorm_dwie_rece_09_22",
@@ -1285,25 +1619,37 @@
    "id": "dziecko_nadzieja_starania",
    "priorytet": "osobisty/NADRZEDNY",
    "_dziennik_stan": 15,
-   "opis": "Osobisty rdzen malzenstwa: dziecko jako najglebsza rzecz ktora dwoje z niczego moga zbudowac razem. Wiaze: dom.md (pusta izdebka), Mira (rana po synu), gwiazda polnocna (Symon chroni jej/dzieci/slabych), Owen (blogoslawil). Faced together, obok nie ponad."
+   "opis": "Osobisty rdzen malzenstwa: dziecko jako najglebsza rzecz ktora dwoje z niczego moga zbudowac razem. Wiaze: dom.md (pusta izdebka), Mira (rana po synu), gwiazda polnocna (Symon chroni jej/dzieci/slabych), Owen (blogoslawil). Faced together, obok nie ponad.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "nauka_liczenia_frontier",
    "priorytet": "sredni",
    "_dziennik_stan": 6,
-   "opis": "Rozwoj umyslu/edge Symona: klasyczne fundamenty (Theomore) + zywa granica braavijska (Nesta) + wlasny wynalazek metody (agregat/Benford-like/risk). Wiaze: Theomore-pomost(gwiazda/Winterfell), traktat_o_rachunkach, underwriting, drzeworyt-wizja."
+   "opis": "Rozwoj umyslu/edge Symona: klasyczne fundamenty (Theomore) + zywa granica braavijska (Nesta) + wlasny wynalazek metody (agregat/Benford-like/risk). Wiaze: Theomore-pomost(gwiazda/Winterfell), traktat_o_rachunkach, underwriting, drzeworyt-wizja.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "prowiant_ser_harrol",
    "priorytet": "wysoki",
    "_dziennik_stan": 7,
-   "opis": "Drugi klient prowiantowy (gentry), dywersyfikacja klientow + reputacja w krwi/nadaniu. Wiaze: wlodarstwo(skill), gwiazda(doradca Starkow=wlodarz Polnocy), Godric(referral), maszyna prowiantowa."
+   "opis": "Drugi klient prowiantowy (gentry), dywersyfikacja klientow + reputacja w krwi/nadaniu. Wiaze: wlodarstwo(skill), gwiazda(doradca Starkow=wlodarz Polnocy), Godric(referral), maszyna prowiantowa.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "premium_guided_haul",
    "priorytet": "sredni-wysoki",
    "_dziennik_stan": 3,
-   "opis": "Nowa capital-light linia: bezpieczny przewoz jako usluga (nie sprzedaz wiedzy). Wiaze: Hollis(kwatermistrz), Boren(JV/sojusz krwi), wlodarstwo/logistyka, model marz. Reframe Nesty/Miry: sprzedawaj RUCH nie SEKRET."
+   "opis": "Nowa capital-light linia: bezpieczny przewoz jako usluga (nie sprzedaz wiedzy). Wiaze: Hollis(kwatermistrz), Boren(JV/sojusz krwi), wlodarstwo/logistyka, model marz. Reframe Nesty/Miry: sprzedawaj RUCH nie SEKRET.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "skup_staple_zima_10_28",
@@ -1318,7 +1664,10 @@
    "_dziennik_stan": 20,
    "opis": "Strategiczny pivot: firma na polnocnych ladowych nogach, nie na braavijskim morzu. Wiaze: Hollis/Boren/guided-haul, Harrol, Leona, wlodarstwo, gwiazda(wlodarz Polnocy), scenariusz-cutoff-Braavos, os_swiata 299.",
    "_dziennik_plan_sekwencja": 1,
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "mira_wlasne_imie_dom_sukna",
@@ -1334,7 +1683,10 @@
    "tytul": "Ryzyko koncentracji - firma wisi na warrancie zamku",
    "status": "aktywny - MITYGACJA ROZPOCZETA 297-12-16 (budowa sredniego tieru)",
    "waga": "srednia-wysoka",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "hal_pojemnosc_rekrutacja",
@@ -1343,7 +1695,10 @@
    "waga": "srednia",
    "_dziennik_nota": 1,
    "stan": "ROZWIĄZANY (298-02-16): RESTRUKTURYZACJA firmy. +2 ręce (Fenn gotowy, Jory na próbie z Owena). Hal→KIEROWNIK (koordynacja całości), Tam→SENIOR (prowadzi wykonanie, mentoruje). Wyraźny podział pracy. Lorren: wytyczne skala+co miesiąc, raport do Hala. Produkty Demana ubrane w ofertę jako wartość dodana. Przejście warsztat→dom handlowy ze strukturą.",
-   "nastepny_krok": "obserwować ramp Jory'ego pod Tamem; egzekwować Lorrenowi miesięczny wzrost skali; docelowo pasywna rośnie, gdy pojemność uniesie popyt"
+   "nastepny_krok": "obserwować ramp Jory'ego pod Tamem; egzekwować Lorrenowi miesięczny wzrost skali; docelowo pasywna rośnie, gdy pojemność uniesie popyt",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "mira_ciaza_opieka",
@@ -1374,7 +1729,10 @@
    "status": "KANALY ZYWE + MARZA DOWIEDZIONA 297-12-25 (proof-of-concept per Nesta) - recurring line rusza",
    "waga": "srednia",
    "_dziennik_nota": 1,
-   "_dziennik_wat_wchodzi_zestaw_tally_0822": 1
+   "_dziennik_wat_wchodzi_zestaw_tally_0822": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "komisja_lorda",
@@ -1402,7 +1760,10 @@
    "_dziennik_lord_o_eskalacji": 1,
    "_dziennik_pierwsza_proba_publiczna": 2,
    "roldan_finał": "298-04-19: lord postanowił STRĄCIĆ Roldana TERAZ (nie za pół roku) — pod osłoną królewskiego zamętu (reorganizacja ról pod wydarzenie = naturalne odcięcie od ludzi/wpływów, bez 'lord kruszy niewinnego'). Wywołane prawdą Symona (nie da się prowadzić wielkiej rzeczy w cieniu). Roldan=koszt który lord płaci by mieć Symona w pełni.",
-   "_dziennik_naleznosc_status": 1
+   "_dziennik_naleznosc_status": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wenture_papiernia_wodna",
@@ -1413,7 +1774,10 @@
    "_dziennik_woda_bottleneck": 1,
    "status_finansowy": "298-06-04: PRZYPOMNIENIE - papiernia to WENTURE/projekt kapitalowy na horyzoncie (mlyn namierzony wykonalny, NIE kupiony/zbudowany), ZERO przychodu teraz. Poprawnie NIE w bilansie pasywnym. Przyszla zyla - do uruchomienia gdy czas/kapital.",
    "_dziennik_tytul_prawa": 1,
-   "status": "USPIONA - grunt prawny rozpoznany, odlozona na wlasciwa chwile"
+   "status": "USPIONA - grunt prawny rozpoznany, odlozona na wlasciwa chwile",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "siedziba_polaczonej_faktorii",
@@ -1432,7 +1796,10 @@
    "_dziennik_trop_srodkowe_nabrzeze": 1,
    "_dziennik_ogledziny_ondrew": 1,
    "_dziennik_struktura_zaplaty": 1,
-   "obchod_pate": "298-04-05: obchód z Pate'em — kanał odpływowy (utrzymuje suchość) ZAMULA SIĘ, przetkany na czas (chroni wartość); lina wciągarki wymieniona; porządne zamki + warta Garricka rozciągnięta na skład. Koszt ~20 jel. Do later: druga ręka pod magazyn gdy obroty urosną. Pate oddany (nast+6/zauf+5)."
+   "obchod_pate": "298-04-05: obchód z Pate'em — kanał odpływowy (utrzymuje suchość) ZAMULA SIĘ, przetkany na czas (chroni wartość); lina wciągarki wymieniona; porządne zamki + warta Garricka rozciągnięta na skład. Koszt ~20 jel. Do later: druga ręka pod magazyn gdy obroty urosną. Pate oddany (nast+6/zauf+5).",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "korzenie_folk_pulse",
@@ -1441,7 +1808,10 @@
    "priorytet": "charakter/reputacja",
    "notatki": [
     "298-04-23: łuk 'drugiej drogi' domyka się — Wick (kaleki czeladnik podniesiony do pióra) razem z Halem i Tamem/Fennem prowadzi firmę, gdy Symon w daninie. Podniesieni z popiołu niosą jego dzieło."
-   ]
+   ],
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "lekcja_jednotorowosc_symona",
@@ -1450,13 +1820,19 @@
    "priorytet": "charakter/mądrość operacyjna",
    "notatki": [
     "298-04-22 (rzut 20 praca): przypomnienie lekcji — pochłonięty daniną, własny warsztat cichnie (sesja pracy słaba nie z braku ręki lecz z rozproszenia; marża cienka +7 jel). Firma/zarobek muszą żyć dalej, gdy Symon patrzy na północ."
-   ]
+   ],
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "dzielo_ryzyko_sprzezone",
    "_dziennik_stan": 3,
    "nastepny_krok": "pracować nad traktatem z Theomore'em ETAPAMI gdy nawał opadnie (nie w pośpiechu); korespondencja z Elwynem jako kamień probierczy; docelowo cyrkulacja w Cytadeli",
-   "priorytet": "strategiczny/standing"
+   "priorytet": "strategiczny/standing",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "os_swiata_wielka_gra",
@@ -1585,7 +1961,10 @@
    "_dziennik_trop_rollam_aldous_0828": 1,
    "_dziennik_vox_szept_krazy_0828": 1,
    "_dziennik_rollam_zmierzony_0829": 1,
-   "_dziennik_strategia_rollam_w_ruchu_0829": 1
+   "_dziennik_strategia_rollam_w_ruchu_0829": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "kanal_winterfell_backhaul",
@@ -1675,7 +2054,10 @@
    "_dziennik_wyjazd_winterfell_do_cerwyna_0815": 1,
    "_dziennik_cerwyn_zgoda_przystan_0815": 1,
    "_dziennik_powrot_napad_droga_0821": 1,
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "obrona_kolodziejow_lichwiarz",
@@ -1694,7 +2076,10 @@
    "diagnoza_nastawiona_0615": "298-06-15: CIEN DOMKNIETY DO ZERA (rzut 98, tender/protest w Septy, Nesta pryncypalem). Nagroda (dzwignia z sukcesji) ZABRANA. TEST NA ZYWO: obserwowac czy cutout-ataki na siec Symona USTANA (=byla dzwignia/orbita) czy TRWAJA (=osobiste, szukac glebiej). Nesta dalej na tropie lacznika; Bran<-Wenda intel.",
    "_dziennik_nitka_lacznika_0616": 1,
    "_dziennik_domkniecie_0617": 1,
-   "_dziennik_lead_denys_0623": 1
+   "_dziennik_lead_denys_0623": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "handlarz_obrotowy_firma",
@@ -1706,7 +2091,10 @@
    "_dziennik_ramie_kredyt_ubezp_0617": 1,
    "cykl1_wynik": "298-06-22 (inbound 90): 1. cykl UDANY - Tam wor 100->~118 (+18 jel), kupil madrze/sprzedal z marza. Symon MA handlarza. Nastepnie: kolejny cykl + rozwazyc skalowanie wora po paru udanych.",
    "_dziennik_cykl2_plan": 1,
-   "_dziennik_analiza_2_agent_0718": 1
+   "_dziennik_analiza_2_agent_0718": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "ramie_kredyt_ubezpieczenia",
@@ -1715,7 +2103,10 @@
    "opis": "298-06-17: Symon oddal biezaczke ramienia (mostek-kredyt+wspol-underwriting ~185jel) Wickowi jako klerk-koordynator na budzecie + rulebooku Symona (komu/do ile/ryzyko), udzial w zysku, granice+meldunek. rzut 40: workable ale Wick bez instynktu underwritingu=train-and-watch (ciasny rulebook+bliskie oko), Deman podaje dane. Symon=architekt+oko, nie codzienna korba.",
    "nastepny_krok": "Domknac rulebook underwritingu (kryteria/limity); Wick prowadzi, Symon oglada; podniesc swobode gdy Wick pokaze instynkt.",
    "_dziennik_stan_0617": 2,
-   "_dziennik_kapitalizacja_0622": 1
+   "_dziennik_kapitalizacja_0622": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "marza_zamkowa_umowa",
@@ -1727,7 +2118,10 @@
    "_dziennik_pozycja_wylisa_0623": 1,
    "wezel_statusu_zamkniety_0623": "298-06-23 (rzut 42): PARADOKS STATUSU ROZWIAZANY - strona umowy=FIRMA/Hal (egzekwowalna) + Symon osobiscie poddaje sie karze bez oslony rangi. Wylis poruszony, SZACUNEK zdobyty ('mowi wiecej niz czysta ksiega'). Wezel #2 domkniety. ZOSTAJE: #1 wylaczna zaleznosc (zada CIAGLOSCI: backup/rezerwa podazy+faza probna+dowod ze lancuch bez 1 reki) + #3 Ulric podsyca grozę #1.",
    "_dziennik_domkniecie_0623": 1,
-   "podpis_0630": "298-06-~30 (rzut 95): Hal dowiozl faze probna/luke BEZ SKAZY -> Wylis POSTAWIL PIECZEC. STALA UMOWA prowiantowa (firma/Hal strona, samo-poddanie karze, rezerwa+ciaglosc). Ulric neutralny (nie mial co szeptac). FILAR marza zamkowa = STALA RENTA. Cala negocjacja domknieta triumfem."
+   "podpis_0630": "298-06-~30 (rzut 95): Hal dowiozl faze probna/luke BEZ SKAZY -> Wylis POSTAWIL PIECZEC. STALA UMOWA prowiantowa (firma/Hal strona, samo-poddanie karze, rezerwa+ciaglosc). Ulric neutralny (nie mial co szeptac). FILAR marza zamkowa = STALA RENTA. Cala negocjacja domknieta triumfem.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "przytulek_dzieci_bezrodziny",
@@ -1748,7 +2142,9 @@
    "_dziennik_pierwsze_dziecko_nella_0717": 1,
    "_dziennik_sluzba_wierze_0719": 1,
    "nella_postep_0727": "298-07-27: Nella widziana na nabozenstwie Matki z Sella - juz mniej dzika, wiecej dziecko. Chwyta sie.",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "przyczyna uspienia USTALA - Symon wrocil z Polnocy i jest Namiestnikiem. Obietnica dana septonowi Owenowi czeka"
   },
   {
    "id": "edukacja_pod_theomorem",
@@ -1779,7 +2175,10 @@
    "_dziennik_lekcja_polityka_kryzys_0801": 1,
    "_dziennik_rady_winterfell_konkret_0803": 1,
    "_dziennik_baelor_poboznosc_drzazga_0826": 1,
-   "_dziennik_baelor_breakspear_gwiazda_0826": 1
+   "_dziennik_baelor_breakspear_gwiazda_0826": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "komisja_gotowosci_prowiantowej",
@@ -1819,26 +2218,38 @@
    "_dziennik_mechanika_regionalna_przebita_0824": 1,
    "_dziennik_theomore_ostrzezenie_konwergencja_0824": 1,
    "_dziennik_pierwszy_wezel_wendel_wzor_0825": 1,
-   "_dziennik_architektura_4_ksiag_0826": 1
+   "_dziennik_architektura_4_ksiag_0826": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "oslona_wezlow_polnocy_1004",
    "tytul": "Oslona wezlow logistycznych ogoloconej Polnocy",
    "status": "aktywny",
-   "_dziennik_stan": 5
+   "_dziennik_stan": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "bezpieczenstwo_dzieci_stark_winterfell_1012",
    "tytul": "Bezpieczenstwo Brana+Rickona / czujnosc Winterfell",
    "status": "CZYSTA_OBRONA_zelazni_odparci_trzymaja_nic",
    "_dziennik_stan": 3,
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "krag_czuwania_cien_1013",
    "tytul": "Krag czuwania nad cieniem (przelamanie izolacji foresightu)",
    "status": "aktywny",
-   "_dziennik_stan": 1
+   "_dziennik_stan": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "budowa_szefa_wywiadu_willa_1014",
@@ -1851,14 +2262,20 @@
    "id": "osobista_oslona_symona_1015",
    "tytul": "Osobista osłona Symona (bezpieczenstwo osobiste)",
    "status": "aktywny",
-   "_dziennik_stan": 2
+   "_dziennik_stan": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "siatka_zachod_polnocy_ironborn_1017",
    "tytul": "Siatka wczesnego ostrzegania - zachod Polnocy (Zelazni)",
    "status": "aktywny",
    "_dziennik_stan": 1,
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wywiad_kontrwywiad_oboz_1018",
@@ -1871,19 +2288,28 @@
    "id": "fortyfikacja_bazy_dom_bialy_port_1018",
    "tytul": "Fortyfikacja bazy - Dom w Bialym Porcie jako wyjscie/azyl",
    "status": "aktywny",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "trzy_wezly_krola_1019",
    "tytul": "Trzy wezly Krola - rada ktora moze giac los",
    "status": "aktywny",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "korytarz_rzeczny_bialyport_winterfell_1019",
    "tytul": "Kregoslup Polnocy - korytarz rzeczny Bialy Port-Winterfell",
    "status": "CZYSTA_OBRONA_zelazni_odparci_trzymaja_nic",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "szukanie_corek_neda_1019",
@@ -1895,31 +2321,44 @@
    "id": "model_boltona_watchlist_1020",
    "tytul": "Cien Boltona - mechanizm+watchlist zachowan",
    "status": "dzwignia_osuszana_pionierzy",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "Dreadfort to jedyna realna opozycja Polnocy DZIS"
   },
   {
    "id": "glod_lordow_ofensywa_vs_polnoc_1020",
    "tytul": "Glod lordow - presja na ofensywe vs umacnianie Polnocy",
    "status": "rozwiazywany",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "kontrolowana_ofensywa_zachod_1020",
    "tytul": "Kontrolowana ofensywa Robba - zaopatrzona/przezywalna",
    "status": "w_polu",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "karstark_wrog_osobisty_1021",
    "tytul": "Karstark - jawny osobisty wrog Symona",
    "status": "aktywny",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "smierc_hostera_tully_1022",
    "tytul": "Smierc Hostera Tully - fundament Dorzecza sie chwieje",
    "status": "aktywny",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "edmure_nowy_pan_dorzecza_1023",
@@ -1931,37 +2370,52 @@
    "id": "kompas_wojny_przetrwanie_niepodleglosc_1023",
    "tytul": "Kompas wojny Robba - przetrwac i byc wolnym (nie zdobyc tron)",
    "status": "aktywny",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "slabosc_polnocna_fosy_cailin_1024",
    "tytul": "Slabosc polnocna Fosy Cailin - brama Przesmyku a zagrozenie od morza",
    "status": "MOBILIZACJA_RUSZYLA_rekonesans_Garrick+Donnel_w_drodze_geografia_poprawiona",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "przygotowanie_obrony_od_morza_1024",
    "tytul": "Uprzedzanie groźby od morza - miecze Wymana / amfibie / wywiad Nesty",
    "status": "domknieta",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 8,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "dziesiaty_stopien_polityki_proba_1025",
    "tytul": "Dziesiaty stopien polityki - czeka na chwile proby",
    "status": "OSIAGNIETY",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wyjscie_z_imadla_dyplomacja_niepodleglosc_1101",
    "tytul": "Wyjscie z imadla - dyplomacja od sily ku niepodleglosci",
    "status": "aktywny",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "kanal_sonda_tywin_1101",
    "tytul": "Kanal-sonda do Tywina - dyplomacja o Jaime/Sansa/niepodleglosc",
    "status": "ODLOZONY_zimny_rebuff_cena_sansy_w_gore_czekac_na_potrzebe_tywina",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "USPIONY",
+   "stan_uwaga": "zimny rebuff; wraca, gdy Tywin bedzie czegos potrzebowal. JEDYNY kanal na Poludnie"
   },
   {
    "id": "udreka_robba_o_arye_1101",
@@ -1973,7 +2427,10 @@
    "id": "czas_obosieczny_wyscig_z_armia_1102",
    "tytul": "Czas obosieczny - wyscig o niepodleglosc vs kruszenie sie wlasnej armii",
    "status": "adresowany",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "syn_wymana_wylis_jeniec_1102",
@@ -1985,31 +2442,41 @@
    "id": "garnizon_winterfell_doom_prewencja_1102",
    "tytul": "Garnizon do Winterfell - uzbroic serce Polnocy (doom-prewencja)",
    "status": "CZYSTA_OBRONA_zelazni_odparci_trzymaja_nic",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "gracz sam wskazal rekrutacje garnizonu jako watek, ktory ginie"
   },
   {
    "id": "mlodzi_zakladnicy_zagrozenie_karstark_1102",
    "tytul": "Mlodzi zakladnicy (Willem Lannister/Tion Frey) - iskra pod Karstarkiem",
    "status": "rozbrojony",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "rejestr_jencow_dwustronny_1102",
    "tytul": "Rejestr jencow dwustronny - ksiega wymian",
    "status": "aktywny",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "theon_moneta_w_powietrzu_1103",
    "tytul": "Theon - moneta w powietrzu (lojalnosc nierozstrzygnieta pod presja Balona)",
    "status": "aktywny_kluczowy",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "karstark_wieko_na_prochu_1104",
    "tytul": "Karstark - wieko na prochu (honor stabilizuje, grief zywy)",
    "status": "aktywny_kluczowy",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "percepcja_przekierowanie_zelaznych_1105",
@@ -2021,7 +2488,10 @@
    "id": "morale_gnijacego_obozu_1106",
    "tytul": "Morale gnijacego obozu + cierpkosc Freyow",
    "status": "rozwiazany",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "kruk_walder_brod_odpowiedz_1106",
@@ -2033,97 +2503,145 @@
    "id": "abonament_widocznej_sily_1106",
    "tytul": "Bieznia widocznej sily - abonament lojalnosci hedzerow",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "geometria_sil_polnocy_bolton_masa_1106",
    "tytul": "Geometria sil Polnocy - najciezsza masa pod hedzerem",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "gora_clegane_podpalona_przyneta_1106",
    "tytul": "Gora (Gregor Clegane) - podpalona przyneta na serce nie miecz w armie",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "pulapka_na_gore_1106",
    "tytul": "Obrona co bankrutuje raidera (bylo: pulapka na Gore)",
    "status": "wpiety_w_stope_wojny_obsadzany",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "choroba_w_schronach_1107",
    "tytul": "Choroba w schronach konsolidacji - dlawiona w iskrze",
    "status": "pod_kontrola_krucha",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "opal_linia_strategiczna_1107",
    "tytul": "Opal/drewno jako linia strategiczna (jak ziarno)",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "linia_zaopatrzenia_z_polnocy_1107",
    "tytul": "Linia zaopatrzenia z Polnocy (BP morzem+Trident barkami)",
    "status": "zalozona_gardlo_osloniete",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "budzacy_sie_rajd_trident_1108",
    "tytul": "Budzacy sie oddzial rajderow na Tridencie (czujnik zlapal wczesnie)",
    "status": "uderzyl_w_slepy_margines",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "zamknac_slepy_margines_1108",
    "tytul": "Zamknac/pre-ostrzegac slepy margines sieci",
    "status": "uczciwy_obwod_zamiast_pelnego_pokrycia",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "uczciwy_obwod_strefa_ofiary_1108",
    "tytul": "Uczciwy obwod obrony - rdzen broniony, margines to strefa ofiary",
    "status": "przyjety_gorzko",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "wojna_podjazdowa_koszt_wejscia_1108",
    "tytul": "Warstwa podjazdowa - podniesc koszt wejscia w Dorzecze",
    "status": "zintegrowana_arcyruch_bolton",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "triaz_sieci_willi_priorytety_1109",
    "tytul": "Triaz sieci Willi - gdzie skupic oczy",
    "status": "rozstrzygniety_gora",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "gora_glowna_os_serce_dorzecza_1109",
    "tytul": "Gora - glowna os w PELNEJ SILE na pas spichlerzowy + przeprawe Tridentu",
    "status": "gora_odmowil_wezla_lup_odebrany_przekierowany",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "uwolnieni_smerdzi_z_kolumn_gory_1110",
    "tytul": "Uwolnieni smerdzi z kolumn jencow Gory",
    "status": "rozmowa_intel_pozyskany",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "szew_najemnikow_krwawi_kuglarze_1110",
    "tytul": "Szew w sile Gory - najemnicy (Krwawi Kuglarze) szemrza o zaplate",
    "status": "RDZEWIEJE_hoat_przechyla_jak_najemnik_rdza_nie_rekrutacja",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 8,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "ostrzezenie_nastepny_cel_gory_1110",
    "tytul": "Wczesne ostrzezenie - nastepny cel Gory (nieoslonete zagony/krawedz)",
    "status": "okno_otwarte_zweza_sie_lud_kryje_sam",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "dlug_freyow_doom_nic_1112",
@@ -2141,25 +2659,36 @@
    "id": "listy_do_mentorow_owen_theomore_1112",
    "tytul": "Listy do Owena i Theomore - oczekiwane odpowiedzi",
    "status": "wyslane_czekaja",
-   "nota": "298-11-12 wieczor: Symon napisal do Septona Owena (dusza: czy zimny gracz moze zostac cieply? przytulek) i Maestra Theomore (wielka gra: bieg wojny 5 Krolow z sieci maesterow, gdzie Tywin, czy nie za gleboko - prosi o temperancje). Odpowiedzi za dni (BP daleko; Theomore linia krukow). Mentorzy=grounding + Theomore moze dac INTEL o szerokiej szachownicy. Obserwowac inbound."
+   "nota": "298-11-12 wieczor: Symon napisal do Septona Owena (dusza: czy zimny gracz moze zostac cieply? przytulek) i Maestra Theomore (wielka gra: bieg wojny 5 Krolow z sieci maesterow, gdzie Tywin, czy nie za gleboko - prosi o temperancje). Odpowiedzi za dni (BP daleko; Theomore linia krukow). Mentorzy=grounding + Theomore moze dac INTEL o szerokiej szachownicy. Obserwowac inbound.",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "zelazni_atak_polnoc_imadlo_rady_1113",
    "tytul": "Atak zelaznych - imadlo rady (lordowie chca zawracac)",
    "status": "obrona_bije_panika_opada_kregoslup_stoi",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "projekt_odpowiedzi_zelazni_1113",
    "tytul": "Projekt 3 ruchow na zelaznych (skonsultowany z Bryndenem)",
    "status": "wykonany_dojrzewa",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "marynarka_ostrze_na_wyspy_1113",
    "tytul": "Marynarka jako realne ostrze na nagie Wyspy Zelazne (przyszly wiekszy projekt)",
    "status": "PIERWSZA_KREW_wiarygodna_grozba_nie_ziarno",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "USPIONY",
+   "stan_uwaga": "czeka na program okretow Polnocy - kanal: Wyman"
   },
   {
    "id": "rozplatanie_wezla_wylis_arya_1113",
@@ -2171,19 +2700,27 @@
    "id": "szachownica_baratheonowie_reach_1114",
    "tytul": "Baratheonowie na kursie kolizyjnym - Reach jako os poludnia",
    "status": "LANN-TYRELL_ZWYCIESCY_zjednoczeni_Stannis_na_Smoczej_Skale_ciern",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
   },
   {
    "id": "emisariusz_renly_oko_poludnie_1114",
    "tytul": "Emisariusz u Renly'ego - dyplomacja w murze, ale oko na poludnie",
    "status": "utrzymany_jako_oko",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "symon_w_roli_namiestnika_1114",
    "tytul": "Symon w funkcji Reki Krola - szczyt i noz",
    "status": "swiadomosc_do_zarzadzania",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "warta_niecierpliwosc_robba_baratheonowie_1114",
@@ -2195,25 +2732,35 @@
    "id": "kampania_wywrocic_stol_1114",
    "tytul": "Kampania wywrocenia stolu - plan skonsultowany z Bryndenem (skorygowany)",
    "status": "pierwszy_zagon_glover_odpalony",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "sciany_oslony_symona_1115",
    "tytul": "Sciany oslony Symona - Reka-commoner robi sie droga do usuniecia",
    "status": "wzmocnione_charakter_jako_zbroja",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "jw. - oslona Symona; trzymac razem ze szmerem niecheci"
   },
   {
    "id": "narracja_informacyjna_lann_koalicja_1115",
    "tytul": "Jedna zrąca narracja - Lannisterowie rozciagnieci/przegrywaja/nie nagradzaja",
    "status": "PRESTIZ_LWA_nasiona_posadzone_odroczone_kwitnienie_lont_na_rzeczywistosci",
-   "_dziennik_nota": 14
+   "_dziennik_nota": 14,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "szmer_niecheci_do_symona_1116",
    "tytul": "Pierwszy szmer niecheci do Symona (dumny lord przy dworze) - zlapany w zarodku",
    "status": "do_zarzadzenia",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "niechec do Reki-commonera to stan trwaly, nie zdarzenie"
   },
   {
    "id": "uwolniona_partia_z_harrenhal_pod_opieka_1116",
@@ -2349,7 +2896,10 @@
    "id": "bilans_plansza_przechyla_sie_1218",
    "tytul": "Bilans 298-12-18: plansza przechyla sie ku Polnocy (dooms oddalone, Lew pekliwy)",
    "status": "WYSOKI_PUNKT_cautious_hope_wojna_dluga_ale_dom_widoczny",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
   },
   {
    "id": "insight_kampania_jako_demonstracja_dyplomatyczna_1218",

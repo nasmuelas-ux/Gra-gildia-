@@ -3652,7 +3652,7 @@
    "id": "system_oswiaty_polnocy_struktura_299_06",
    "tytul": "System oswiaty Polnocy (5 wezlow od 299-06-12) + UZUPELNIENIE 09-16: lancuch (braz-miara, czardrzew-pamiec, stal-prawo), stroj, przysiega, Theomore glowa Straznicy Zimy, LUWIN MISTRZ NAUKI w Radzie",
    "status": "otwarty",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "priorytet": "wysoki",
    "filar": "SYSTEM OSWIATY POLNOCY",
    "stan_watku": "ZYWY"
@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -4335,7 +4335,7 @@
    "id": "poselstwo_wolne_miasta_braavos_pentos_299_08",
    "tytul": "Poselstwo Namiestnika do Braavos i Pentos (z Nesta) - bezposredni handel = niezaleznosc gosp. od Westeros",
    "status": "NESTA_PLYNIE_299-08-28;_najpierw_Braavos_(Hal_i_Willa_zgodnie);_kantor_Nesty_do_przejecia_przez_Dom_na_czas_nieobecnosci",
-   "_dziennik_nota": 35,
+   "_dziennik_nota": 36,
    "filar": "POSELSTWO DO WOLNYCH MIAST",
    "stan_watku": "ZYWY"
   },
@@ -4395,7 +4395,7 @@
    "id": "poselstwo_do_dzikich_czulek_299_08",
    "tytul": "Poselstwo/czulek do dzikich (Mance) - dziczy jako wspoluciekinierzy nie tylko wrog; ZAPRZECZALNE, wysokie ryzyko",
    "status": "ZAPROJEKTOWANE_299-08-14_zaprzeczalny_czulek_do_zatwierdzenia_wykonania",
-   "_dziennik_nota": 2,
+   "_dziennik_nota": 3,
    "stan_watku": "ZYWY",
    "stan_uwaga": "OPERACJA pod filarem Muru/Mance. Osric wyslal poslanca, parlej przed nim."
   },
@@ -4788,13 +4788,13 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 21
+   "_dziennik_nota": 22
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 24,
+   "_dziennik_nota": 25,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -4950,7 +4950,7 @@
    "id": "taryfa_celna_polnocy_299_09",
    "tytul": "Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu",
    "status": "projekt_do_polozenia_przed_krolem",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "filar": "TARYFA CELNA POLNOCY",
    "stan_watku": "ZYWY"
   },
@@ -5347,7 +5347,7 @@
   {
    "id": "spotkanie_ze_stannisem_w_pentos_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 18,
+   "_dziennik_nota": 19,
    "priorytet": "wysoki",
    "termin": "299-12 (Pentos)",
    "tytul": "Spotkanie ze Stannisem w Pentos - zaproszenie wyslane z pieciu warunkami; jedzie Namiestnik osobiscie; czeka na odpowiedz",
@@ -5714,7 +5714,7 @@
   {
    "id": "danina_karholdu_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel D - Danina Karholdu pobrana, dzien zamkniety."
@@ -5730,7 +5730,7 @@
   {
    "id": "raport_osrica_z_muru_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "filar": "OSRIC - raporty z Muru",
    "stan_watku": "ZYWY"
   },
@@ -6058,7 +6058,7 @@
   {
    "id": "wychowankowie_winterfell_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "filar": "WYCHOWANKOWIE WINTERFELL",
    "stan_watku": "ZYWY"
   },
@@ -6183,10 +6183,20 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "pochodzenie_symona_299_09",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "maester_aemon",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "theomore_mistrz_nauki",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

@@ -86,7 +86,9 @@ Na start tylko to, co pewne z ostatnich dni:
 | ### CO ŚLEDZIĆ | ### **odpowiedź Dreadfortu — każda coś mówi:** przyjmie zapłatę *(papier wraca)* · „nic takiego nie leży" *(poszedł dalej albo nie odda)* · milczenie | ### przed 300-04-01 | 300-02-27 |
 | **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE — **przypomnienie wysłane 300-02-27**, jedno zdanie, bez nazwiska: *„podaję datę"*. **Osobna karta**, nie razem z prośbą o zwyczaj | 300-02-27 |
 | Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |
-| **Gawen + Hal** | **ustalić SUMĘ zwrotu** — metoda stoi od 299-09-04 *(stawka ogłoszona z góry, „nie ma czego audytować, jest cena")*; **zwrot W NATURZE**, wierzyciel to **Kasa 1** | ### brak samej sumy i terminu | 300-02-25 |
+| **Gawen** | **OSTATECZNE oszacowanie, z datą** — wstępnie **310 smoków** *(4 pozycje: Przystań Wilka · braavijski mistrz · żołd tłumacza · ziarno, jeśli Rada uchwali)*. ≈ osiem lat daniny całej Fosy | poproszone 300-02-27 | 300-02-27 |
+| **Hal** | **nawiązać kontakt ze Skarbnikiem** — uzgodnić **towar najzyskowniejszy dla Domu** *(metoda z 299-09-04: stawka ogłoszona z góry, zwrot w naturze, wierzyciel Kasa 1)* | od 300-02-27 | 300-02-27 |
+| ### Symon | ### **W CZYM, nie ile — GAWEN NIE CHCE PŁACIĆ ANI MONETĄ, ANI TOWAREM.** *„Niech Korona płaci waszemu Domowi PRZYWILEJEM. Przywilej jest jawny, ogłoszony, ma datę. Dług jest cichy, rośnie i nie ma końca."* Boi się nie o wasz honor, tylko o to, że **to on wpisywał** | ### **przed Radą 300-04-01** | 300-02-27 |
 | Symon | **granice urzędu także dla straży Hendry'ego przy komorze** — kogo wolno zatrzymać, czego NIE wolno, do czyjej księgi wpis | z pismem dla Gartha | 300-02-25 |
 | Garth + Symon | **zmierzyć PONOWNIE dziurę w komorach wodnych** — więcej rąk znaczy, że *powinna* spaść, nie że spadła | przed 300-03-01 | 300-02-25 |
 | Symon → **Cerwynowi** | **zarzut Donelli: dokąd idzie praca skazańca** *(wstrzymała protokół 299-11-15)* | **300-03-02…05** | 300-02-25 |

@@ -3335,7 +3335,7 @@
    "id": "struktura_dom_handlowy_tally_299_05",
    "tytul": "Struktura organizacyjna Domu Handlowego Tally (wenecko/medycejska: centrala+siec+giovani, kontrole)",
    "status": "KIEROWNICTWO_KOMPLETNE: Hal/Tam/Willa/Beron; gotowe do pieczeci",
-   "_dziennik_nota": 14,
+   "_dziennik_nota": 15,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -5976,7 +5976,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6148,6 +6148,16 @@
    "id": "roose_bolton",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "gawen_skarbnik",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "system_danin",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

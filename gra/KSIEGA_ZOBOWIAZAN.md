@@ -54,6 +54,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | Dom Tally | weksle Lucana — 340 zapada | III/300 | 300-02-06 |
 | Torren Solny | meldunek eskadry, osiem rubryk | na Fosę | 300-02-19 |
 | Glover + Mormont | ekipa pomiarowa na Cypel Morskiego Smoka | list w drodze | 300-02-19 |
+| **Blackfish** | **meldunek z Dorzecza — sześć rubryk** *(plany · wymiana oficerów · Trident · ilu ludzi · kto przechodzi · co widzi)* | ### ZALEGŁY 8,5 MIESIĄCA — **bo nikt mu nie dał adresu ani rytmu** | 299-07-06 |
+| Symon | **ustanowić kanał do Blackfisha** — adres, rytm, sześć rubryk; drogą przez Catelyn albo Lucana, raz wybraną i stałą | pilne | 300-02-25 |
 | Osric | dwudziestu drwali na Mur | IV/300 | 300-02-16 |
 | kasztelan → Bran Stark | rejestr zamku, karta co 7 dni | co tydzień | 300-02-18 |
 
@@ -96,6 +98,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Ramsay — wezwanie do 40 domów, bez wyjątku** | Korona, jawnie | przyjazd **przed 300-04-01** | 300-02-05 |
 | Traktat z Dorzeczem | Catelyn / Lucan | **ratyfikacja do VI/300** | 300-02-06 |
 | Sukcesja Bliźniaków | Catelyn | — | 299-09 |
+| **Stan Dorzecza — południowa ściana królestwa** | **Blackfish** *(kanał nieustanowiony)* | ### nic od 299-07-06 | 299-07-06 |
 | **JON SNOW — po drugiej stronie Muru** *(filar własny)* | Osric/Straż · maester Aemon | — | 299-09 — Aemon: „nie napiszę, że nie żyje" |
 | **Rozdroże (Crossroads Inn)** — kto przejeżdża, dokąd, czyim znakiem, czego się boi | placówka Domu Tally | na bieżąco | 299-07 — przez nią uchyliła się Dolina |
 

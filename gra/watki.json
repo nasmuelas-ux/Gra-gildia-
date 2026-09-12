@@ -3336,7 +3336,7 @@
    "id": "struktura_dom_handlowy_tally_299_05",
    "tytul": "Struktura organizacyjna Domu Handlowego Tally (wenecko/medycejska: centrala+siec+giovani, kontrole)",
    "status": "KIEROWNICTWO_KOMPLETNE: Hal/Tam/Willa/Beron; gotowe do pieczeci",
-   "_dziennik_nota": 18,
+   "_dziennik_nota": 19,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 23,
+   "_dziennik_nota": 24,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -5412,7 +5412,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 18,
+   "_dziennik_nota": 19,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 21,
+   "_dziennik_nota": 22,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

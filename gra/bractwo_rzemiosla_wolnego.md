@@ -4,7 +4,8 @@
 
 > **Rzemiosło otwarte zamiast cechowego.** Jakość bez monopolu, opieka bez blokady, awans z talentu, nie z krwi.
 
-**W Cailin nie zakłada się cechów.** To jest zasada założycielska, nie wyjątek. Nie ma zamkniętych bractw z prawem decydowania, kto może pracować, ani rady mistrzów strzegącej swojego stanu przed nowymi. Jest miasto, w którym **każdy, kto potrafi, może otworzyć warsztat.**
+**W Cailin nie ma cechów, ponieważ nie ma jeszcze rzemiosła — jest bagno i plac budowy.** Rzemiosło stawia się tu od zera, z ludzi, którzy przyjdą.
+*(Sformułowanie poprawione 300-02-28: poprzednie — „w Cailin nie zakłada się cechów" — było hasłem, które napisałoby się samo w liście bractwa do bractwa. To jest prawda, nudna i nie do przerobienia na manifest.)* Nie ma zamkniętych bractw z prawem decydowania, kto może pracować, ani rady mistrzów strzegącej swojego stanu przed nowymi. Jest miasto, w którym **każdy, kto potrafi, może otworzyć warsztat.**
 
 Cech nie powstaje w lennie Cailin, bo miejsce cechu zajmują cztery rzeczy, które robią to, co w cechu było dobre, bez tego, co było w nim złe.
 
@@ -16,6 +17,9 @@ Cech nie powstaje w lennie Cailin, bo miejsce cechu zajmują cztery rzeczy, któ
 
 ## Filar I — IZBA MIAR I STANDARDÓW
 Jakość ocenia **opłacany urzędnik bez własnego warsztatu**, nie konkurent. W cechu jakość sprawdzali rywale i używali tego, by pozbywać się nowych.
+### ⚠️ **ZNAK NORMY DLA ROBÓT, nie pieczęć mistrzowska** *(poprawka Herwina, 300-02-28)*
+Urzędnik sprawdza, czy wyrób **trzyma miarę na budowie pana**. **Nie nadaje stopnia. Nie tworzy stanu.** Ta sama skrzynka, ten sam wosk — ale w liście bractwa do bractwa nie ma z tego jednego zdania.
+
 Izba podlega **wadze miejskiej**: inspektor siedzi obok wagowego, towar przechodzi kontrolę i wagę jednym ruchem. Kto spełnia normę — **pieczęć i wejście na rynek.**
 
 ## Filar II — KASA POSTĘPU
@@ -148,3 +152,36 @@ Herwin: *„Gorsze byłoby pozwolić mu zostać i mieć nadzieję. Człowiek, kt
 > **W Cailin liczy się to, co potrafisz i co wytwarzasz — nie czyim jesteś człowiekiem i do jakiego cechu należysz.**
 
 Dlatego cechu się tu nie zakłada. Jego miejsce zajmują **pieczęć**, która ręczy za jakość, **Kasa**, która niesie postęp, **egzamin**, który otwiera drzwi z talentu, i **Fundusz**, który chroni w nieszczęściu. A tych, których cechy gdzie indziej wypluły — miasto przygarnia. Cicho, bez ogłoszeń, po prostu przyjmując każdego, kto pokaże, że umie.
+
+
+---
+
+# OBRONA PRZED REAKCJĄ CECHÓW — 300-02-28
+
+> **Nie azyl uruchamia cech. URUCHAMIA GO EKSPORT.**
+> Kowal wyklęty w Białym Porcie, który kuje gwoździe **na groblę**, nie kosztuje bractwa miedziaka. Ten sam wyrób **na straganie przy Schodach z obcą pieczęcią** — to jest wypowiedzenie wojny.
+
+### ① WYRÓB ZOSTAJE NA MIEJSCU — nie zakaz, fakt
+Przez najbliższe lata **całą produkcję zjada budowa**: grobla · forteca · miasto · Dustinport · drwale na Murze.
+**Na targ w Białym Porcie nie idzie nic**, dopóki lord nie postanowi osobno.
+> *„To zdejmuje bractwu jedyny powód, który jest prawdziwy. Resztę mogą sobie wymyślać — ale wymyślony powód trzeba komuś sprzedać, a to kosztuje ich czas."* — Willa
+
+### ② ZNAK NORMY ZAMIAST PIECZĘCI MISTRZA — patrz Filar I
+
+### ③ STATUT BEZ ZDANIA DO CYTOWANIA — patrz nagłówek
+
+### ④ ⚠️ **WYMAN PODPISUJE, ZANIM CECH ZAPYTA** — jedyna rzecz naprawdę pilna
+**Statut nie jest ogłoszony.** Bractwo nie wie o nim nic i nie może przez kilka tygodni. **To cała przewaga i jest krótka.**
+
+- **Umowy o Ujściu się nie posyła — WIEZIE SIĘ JĄ.** Wyjazd z Fosy **300-03-07**, Biały Port **~300-03-13**, Wyman tam siedzi. Podpis z ręki do ręki, w miesiącu, w którym o statucie nie mówi jeszcze nikt.
+- **Jedyny brak — liczba z przewłoki — rozwiązany lepiej niż czekaniem:**
+### **CZŁOWIEK WYMANA IDZIE Z EKIPĄ NA POMIAR.** Nie „damy mu liczbę" — **zmierzymy razem.**
+  *(Precedens własny: joint-walk z lady Dustin nad rozlewiskiem, pod dwie pieczęcie, 299-06-23. Kto sam mierzył, nie kwestionuje potem miary.)*
+- **I ważniejsze od liczby: Wyman angażuje się, ZANIM podpisze.** Gdy cech przyjdzie prosić Manderly'ego, żeby nie uznał znaku Cailin, **Wyman będzie już miał tam własnych ludzi z tyczką.** Przestaje być rozjemcą — **staje się stroną.**
+
+**Kruk do Białego Portu 300-02-28:** zaproszenie dla człowieka Wymana na pomiar przewłoki, z datą wyjścia ekipy.
+
+> **Pomiar przewłoki przestał być sprawą inżynierską. Jest pierwszym ruchem obrony przed cechami.**
+
+### CZEGO SIĘ NIE ROBI
+**PLOTKA ODWOŁANA** *(300-02-28, nic nie wysłano, nic nie zapłacono)* — nie rusza cechu wcale, odsiewa właśnie tych, których się szuka, bije się z własnym słupem, jest sprawdzalna w sześć dni, a siano by ją **w mieście, w którym Dom właśnie jest ofiarą plotki** *(„Tally schodzi z zapasów" — dyskonto weksli w górę, wpisane osobno jako koszt plotki)*.

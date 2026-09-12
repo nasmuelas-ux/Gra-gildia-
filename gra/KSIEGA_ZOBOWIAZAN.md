@@ -25,7 +25,10 @@ Na start tylko to, co pewne z ostatnich dni:
 | ### Symon | ### **CI, KTÓRZY PRZYSZLI CICHO, NIE WEZMĄ GROSZA** — zapłata idzie z rejestru, więc wybierają **grosz albo ciszę**. *Rejestr policzy wszystkich oprócz tych, po których go zakładano* — stąd znak w tej samej księdze | ### — | 300-02-28 |
 | ### MELLA — czego się boi | ### **CECHU.** Kuźnia była cechowa, pieczęć nie przeszła na wdowę; kuje bez pieczęci, więc jest **partaczką**. *„Cech nie przyjeżdża. Cech pisze — do swoich w Białym Porcie"*. **Miejsca nie podała** | ### — | 300-02-28 |
 | ### Hendry | ### **PISARZ PRZY BRAMIE — NADAL PUSTY.** Mella odmówiła sama: *„brama to jedyne miejsce, przez które przechodzi każdy obcy"* | ### **przed 300-03-02** | 300-02-28 |
-| Symon → **Wymanowi** | **umowa o UJŚCIU** — siedem artykułów; dok, nie port | **przed pierwszym palem w Ujściu** | 300-02-25 |
+| ### **Symon → WYMAN** | ### **UMOWA O UJŚCIU — PODPIS Z RĘKI DO RĘKI, NIE POCZTĄ.** Biały Port ~300-03-13. **Statut nieogłoszony — to cała przewaga i jest krótka.** Podpis **zanim cech zapyta** czyni Wymana stroną, nie rozjemcą | ### **~300-03-13** | 300-02-28 |
+| **Symon → Biały Port** | **kruk dziś: człowiek Wymana IDZIE Z EKIPĄ NA POMIAR przewłoki** — nie „damy mu liczbę", **zmierzymy razem** *(precedens: joint-walk z lady Dustin pod dwie pieczęcie)*. Angażuje go, **zanim podpisze** | wysłane 300-02-28 | 300-02-28 |
+| statut | **trzy poprawki obronne:** **znak normy dla robót** zamiast pieczęci mistrza · zdanie *„nie zakłada się cechów"* zastąpione nudną prawdą · **wyrób zostaje na miejscu** — całą produkcję zjada budowa | wykonane | 300-02-28 |
+| ~~plotka w Białym Porcie~~ | ### **ODWOŁANA 300-02-28** — nic nie wysłano, nic nie zapłacono. Nie rusza cechu, odsiewa właściwych ludzi, bije się z własnym słupem i siano by ją w mieście, w którym **Dóm właśnie jest ofiarą plotki** | — | 300-02-28 |
 | Kancelaria | **trzy liczby łańcucha** — jeden tekst do sześciu mistrzów, co do przecinka | z najbliższym gońcem | 300-02-25 |
 | ekipa pomiarowa | **zwiad kamienia na zachodzie** *(wspólny ze Starkportem)* — **trzeci w kolejności** | wiosna 300 | 300-02-27 |
 | ekipa pomiarowa | **pomiar rzeki Fever** + ile tygodni pod lodem — **drugi w kolejności** | przed jakąkolwiek obietnicą terminu | 300-02-27 |

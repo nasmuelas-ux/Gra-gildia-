@@ -93,6 +93,46 @@ Statut jest nadaniem pana **na całe lenno**; Izba, Kasa i Fundusz **wykonuje mi
 
 ---
 
+# ZŁAGODZENIE AZYLU — 300-02-28 (nadane tego samego dnia)
+
+Azyl zostaje, ale **przestaje być bez dna.** Dwa narzędzia, oba w ręku miasta.
+
+## A. LIMIT PRZYJĘĆ — liczba z zapasu, nie z uznania
+
+**Burmistrz ogłasza limit przyjęć na miesiąc**, zależny od zdolności żywieniowej i rozmiaru miasta.
+
+### ⚠️ ŹRÓDŁO LICZBY — nie głowa, tylko karta
+Herwin: *„Limit to jest liczba, a ja jej nie mam. Wymyślona liczba na słupie jest gorsza niż żadna."*
+**Limit wychodzi z karty Warryna i Orlanda** — gęby · korce · na ile dni starczy — składanej **co dziesięć dni**.
+**Pierwsza karta: 300-03-07.** Limit ogłaszany na słupie razem z nią.
+
+## B. LISTA POTRZEBNYCH ZAWODÓW
+
+Naprawia to, co wyszło **300-02-27**: ogłoszono sześć rzemiosł i zgłosili się **prawie wszyscy do trzciny**, bo do trzciny nie trzeba nic umieć.
+> **Warryn: „Przy wolnym wejściu zawsze wygra najłatwiejsze. Przy liście kolejność ustala miasto, nie to, kto pierwszy stanął."**
+
+### Pierwsza pozycja, znana i niedyskutowalna:
+### **① KUŹNIA — ŻELAZO BAGIENNE.** Kuje narzędzia dla ośmiu pozostałych rzemiosł. **Nie zgłosił się nikt.**
+
+### ⚠️ FORMA LISTY — *co bierzemy*, nie *czego nam brak*
+Lista potrzebnych zawodów jest jednocześnie **spisem własnych braków**. Ta sama zasada co przy pakiecie na Radę:
+> *„Miasto Cailin przyjmuje w tym miesiącu: kowali — do dwunastu; szklarzy — do czterech…"*
+> **NIE:** *„Cailin potrzebuje."*
+> **Lista zamówień brzmi jak siła. Lista braków brzmi jak zaproszenie.**
+
+## C. NIEROZSTRZYGNIĘTE — kto przyjdzie, gdy limit pełny
+
+Herwin, bo to on będzie mówił „nie": *„Partacz nie przychodzi wtedy, kiedy mu wygodnie. **On przychodzi, kiedy musi.** Jeśli przyjdzie w miesiącu, w którym mam pełno, to ja go odeślę — a on nie ma dokąd."*
+
+Trzy kształty, wszystkie tanie:
+1. **kolejka z datą** — zapisany, wchodzi w następnym miesiącu
+2. **wejście bez pieczęci** — wolno mu tu być i pracować u kogoś; warsztatu nie otwiera do wiosny
+3. **odesłanie** — uczciwe i twarde, ale wtedy azyl działa tylko dla tych, którzy uciekli w dobrym miesiącu
+
+> **Limit nie jest zdradą azylu — jest warunkiem jego przeżycia.** Lenno liczy 1400 dusz przy bilansie zrobionym na 1000, niedobór ~140 korców na marzec, a ziarno siewne leży w chałupach i nie jest policzone.
+
+---
+
 # ZASADA ZAMYKAJĄCA
 
 > **W Cailin liczy się to, co potrafisz i co wytwarzasz — nie czyim jesteś człowiekiem i do jakiego cechu należysz.**

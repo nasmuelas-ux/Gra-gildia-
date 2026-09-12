@@ -3085,7 +3085,7 @@
    "id": "catelyn_misja_orle_gniazdo_1127",
    "tytul": "Lady Catelyn -> Orle Gniazdo do Lysy (pozyskac Dyskaline)",
    "status": "WYRUSZYLA_pitch_pomsta_za_Jona+silna_Polnoc",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "sansa_status_po_blackwater_1127",
@@ -6112,7 +6112,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "rzadca_warryn",
@@ -6138,6 +6138,11 @@
    "id": "kto_skupuje_zboze_w_dorzeczu",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "catelyn_stark",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

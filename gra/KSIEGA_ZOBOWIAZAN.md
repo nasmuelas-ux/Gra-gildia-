@@ -31,6 +31,11 @@ Na start tylko to, co pewne z ostatnich dni:
 | Alys | spis mieszkańców (3 wsie z 5) | w toku | 300-02-25 |
 | Garrick | gotowość miasteczka pod prawo składu (waga, szopy, księga) | 10 dni | 300-02-25 |
 | Garth | karta celna w użyciu przy komorze | od nadania | 300-02-25 |
+| **Symon → WILLI** | **ROZKAZ WEJŚCIA NA PIŚMIE** — postawiła warunek 299-10-25 „nie posyłam tam nikogo więcej, dopóki nie każecie na piśmie" | ### CZEKA 4 MIESIĄCE — bez tej kartki jej ludzie stoją na krawędzi | 299-10-25 |
+| Symon | pod jakim **znakiem** jadą ludzie Willi + **co sprzedają** *(sól i ziarno trafiają do tego, kto prowadzi księgę zakupów)* | przed wjazdem | 300-02-05 |
+| Hal | wykupić **weksel Domu Tally leżący na Dreadforcie** od 299-10-20 — podpis Symona w cudzej ręce | pilne | 300-02-07 |
+| **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE | 300-02-05 |
+| Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |
 | Nesta | fracht zachodni + łupacz kamienia | odpowiedź V/300 | 300-02-19 |
 | Nesta | księga Antaryonów (pierwsza w kolejce) | — | 300-01-27 |
 | Nesta | karta cen z pięciu rynków + składki | **co miesiąc — kiedy ostatnia?** ⚠️ | ? |

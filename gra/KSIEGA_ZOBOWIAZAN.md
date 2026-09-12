@@ -41,9 +41,9 @@ Na start tylko to, co pewne z ostatnich dni:
 | Hal | wykupić **weksel Domu Tally leżący na Dreadforcie** od 299-10-20 — podpis Symona w cudzej ręce | pilne | 300-02-07 |
 | **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE | 300-02-05 |
 | Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |
-| **GAWEN → DOMOWI TALLY** | **zwrot długu W NATURZE** *(więcej niż 310 smoków — liczba do domknięcia)*; wierzyciel to **Kasa 1**, nie lenno i nie Symon-Namiestnik | ### brak liczby, towaru i terminu | 300-02-25 |
-| Hal | prowadzi zwrot — **ile · czym · po jakiej cenie przeliczeniowej · kiedy** | przed Dniem Bilansu | 300-02-25 |
-| Garth + Symon | **zmierzyć PONOWNIE dziurę w komorach wodnych** — nie zakładać, że spadła | przed 300-03-01 | 300-02-25 |
+| **Gawen + Hal** | **ustalić SUMĘ zwrotu** — metoda stoi od 299-09-04 *(stawka ogłoszona z góry, „nie ma czego audytować, jest cena")*; **zwrot W NATURZE**, wierzyciel to **Kasa 1** | ### brak samej sumy i terminu | 300-02-25 |
+| Symon | **granice urzędu także dla straży Hendry'ego przy komorze** — kogo wolno zatrzymać, czego NIE wolno, do czyjej księgi wpis | z pismem dla Gartha | 300-02-25 |
+| Garth + Symon | **zmierzyć PONOWNIE dziurę w komorach wodnych** — więcej rąk znaczy, że *powinna* spaść, nie że spadła | przed 300-03-01 | 300-02-25 |
 | Symon → **Cerwynowi** | **zarzut Donelli: dokąd idzie praca skazańca** *(wstrzymała protokół 299-11-15)* | **300-03-02…05** | 300-02-25 |
 | Symon | **wóz w lodzie** — odpytać Hendry'ego, Gartha, rządcę, przewoźników z brodu | przy okazji | 300-02-25 |
 | Symon | **model zagrożenia → pakiet reform na Radę**; ułożyć jako *co stawiamy*, nie *gdzie nas można wziąć* — na sali będą Boltonowie | **300-04-01** | 300-02-25 |

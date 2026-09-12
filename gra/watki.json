@@ -3532,7 +3532,7 @@
    "id": "szklane_ogrody_model_zimy_299_06",
    "tytul": "Szklane ogrody Winterfell jako model przetrwania zimy dla calego krolestwa (obserwacja Miry - ZIARNO, nierozpalone)",
    "status": "ZAPROJEKTOWANE_dla_Fosy_torfem_grzane_299-06-25",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11
   },
   {
    "id": "kruk_nocna_straz_mur_299_06",
@@ -3778,7 +3778,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 24,
+   "_dziennik_nota": 25,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 29,
+   "_dziennik_nota": 30,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -4569,7 +4569,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 28,
+   "_dziennik_nota": 29,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 28
+   "_dziennik_nota": 29
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -5412,7 +5412,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 21,
+   "_dziennik_nota": 22,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -5681,7 +5681,7 @@
   {
    "id": "dlug_korony_wobec_domu_tally_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "filar": "DLUG KORONY WOBEC DOMU TALLY (~310 smokow)",
    "stan_watku": "ZYWY"
   },
@@ -6049,7 +6049,7 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 13,
+   "_dziennik_nota": 14,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6113,7 +6113,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 15
+   "_dziennik_nota": 16
   },
   {
    "id": "rzadca_warryn",
@@ -6163,7 +6163,7 @@
   {
    "id": "theon_greyjoy",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "program_okretow_modelowe_kadluby_299_12",
@@ -6208,7 +6208,7 @@
   {
    "id": "torren_solny",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

@@ -14,7 +14,10 @@ Na start tylko to, co pewne z ostatnich dni:
 
 | kto | co | do kiedy | ostatnio ruszone |
 |---|---|---|---|
-| **Symon → GARTH** | ### **SPOTKANIE JUTRO, 300-02-28.** Na stole: pismo o granicach urzędu *(jego i straży Hendry'ego)* · **księga bramy za dziewiąty miesiąc** · ponowny pomiar dziury w komorach wodnych | **300-02-28** | 300-02-27 |
+| ~~Symon → Garth~~ | **ODBYTE 300-02-28.** Pismo o granicach urzędu wręczone **+ dopisane zdanie o błędnym zatrzymaniu** *(puszczasz, wpisujesz sam, odpis oddajesz zatrzymanemu)*. Dwie kopie — Garth i Hendry | wykonane | 300-02-28 |
+| ### **DRUGA DROGA NA POŁUDNIE — POTWIERDZONA DWA RAZY** | ### **Księga bramy: przez cały IX miesiąc ANI JEDNEGO KORCA ziarna na południe.** I: **brama liczy od 300-02-12 — 18 osób w 16 dni**, a rądca liczy **400 przez zimę**. Księga jest uczciwa — i dlatego dowodzi, że **ludzie i towar omijają komorę tą samą luką** | ### — | 300-02-28 |
+| **WILLA** | **znaleźć drugą drogę — bez wysyłania nikogo.** Do rejestru dniówek dopisać **dwie kolumny: SKĄD PRZYSZEDŁEŚ · ILE DNI SZEDŁEŚ**. *Nie pytać o trasę — pytanie zamknie drogę, zanim ją znajdziemy* | **~300-03-13** *(dwa tygodnie)* | 300-02-28 |
+| Garth | **dziura w komorach wodnych — liczba miesięczna** | **300-03-01, Dzień Bilansu** | 300-02-28 |
 | **Symon → MELLA** | ### **SPOTKANIE JUTRO, 300-02-28.** Wyrabia gwoździe we wsi pod groblą; „kobieta z kuźni" ze spisu uwolnionych z Harrenhal. **Pisała rachunki za męża ZANIM tu przyszła — zapytana gdzie, nie chciała powiedzieć** | **300-02-28** | 300-02-27 |
 | Symon → **Wymanowi** | **umowa o UJŚCIU** — siedem artykułów; dok, nie port | **przed pierwszym palem w Ujściu** | 300-02-25 |
 | Kancelaria | **trzy liczby łańcucha** — jeden tekst do sześciu mistrzów, co do przecinka | z najbliższym gońcem | 300-02-25 |
@@ -24,7 +27,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Warryn | **wskazać trzeciego do ekipy pomiarowej** — z dwóch kolumn spisu, nie z domysłu | — | 300-02-27 |
 | **projekt Cailin** | **PUNKT 10 — PRACE POSZCZEGÓLNE** dopisany: odcinek po odcinku, klasa gruntu, obiekty od sztuki, cena ze standardu. ### *Żaden odcinek bez nazwiska i bez daty* | `gra/projekt_cailin.md` | 300-02-27 |
 | Symon | **prawo o składach** — pisze SAM, Cerwyn nie tknie. ### **To jest jedyne narzędzie na legalnego hurtowego kupca** *(cło jest na wywóz, a Stannis kupuje wewnątrz Północy)* — licencja / pułap / rejestr, kto może kupować ilościami | przed 300-03-02 | 300-02-27 |
-| ### Symon / Garth | ### **KSIĘGA BRAMY ZA DZIEWIĄTY MIESIĄC** — rozstrzyga bez śledztwa, czy istnieje droga na południe z pominięciem komory. *Pismo w tej sprawie poszło już raz 299-09-09 — sprawdzić, czy wróciła odpowiedź* | ### przed 300-03-07 | 300-02-27 |
+| ~~Symon / Garth: księga bramy~~ | **OTWARTA 300-02-28 — patrz wiersz o drugiej drodze** | wykonane | 300-02-28 |
 | ~~Symon: odpowiedź burmistrzowi~~ | **DANE 300-02-27: „Korona odpowie PO RADZIE" (300-04-01).** Herwin Szala wypisuje to na słupie — *data na słupie broni się sama* | wykonane | 300-02-27 |
 | Herwin Szala | **na słup, pierwsze:** *„przeszkody nie ma, zostało tylko nadanie"* — blokada prawa składu **zdjęta 300-01-26** i nikt mu nie powiedział. Przez ten miesiąc dwa razy odmówił szopy; jeden człowiek sprzedał wóz i poszedł | **300-02-28** | 300-02-27 |
 | miasto Cailin | **ZATWIERDZONE 300-02-27, wszystkie trzy:** ① **nowy wagowy z wyboru — Herwin przestaje ważyć** ② **działki losuje ława jawnie**, lista z imionami na słupie ③ **na słupie dwa znaki** — pieczęć pana za nadanie, znak miasta za wykonanie | wykonuje miasto | 300-02-27 |

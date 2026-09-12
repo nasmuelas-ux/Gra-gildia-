@@ -20,7 +20,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | ### NIKT | **zwiad kamienia na zachodzie** *(wspólny ze Starkportem)* | ### wiosna 300 | 300-02-25 |
 | ### NIKT | **pomiar rzeki Fever** + ile tygodni pod lodem | ### przed jakąkolwiek obietnicą terminu | 300-02-25 |
 | ### NIKT | **pomiar przewłoki** — najkrótsza prosta Cailin → słona woda | ### przed wytyczeniem czegokolwiek | 300-02-25 |
-| Symon | **prawo o składach** — pisze SAM, Cerwyn nie tknie | przed 300-03-02 | 300-02-20 |
+| Symon | **prawo o składach** — pisze SAM, Cerwyn nie tknie. ### **To jest jedyne narzędzie na legalnego hurtowego kupca** *(cło jest na wywóz, a Stannis kupuje wewnątrz Północy)* — licencja / pułap / rejestr, kto może kupować ilościami | przed 300-03-02 | 300-02-27 |
+| ### Symon / Garth | ### **KSIĘGA BRAMY ZA DZIEWIĄTY MIESIĄC** — rozstrzyga bez śledztwa, czy istnieje droga na południe z pominięciem komory. *Pismo w tej sprawie poszło już raz 299-09-09 — sprawdzić, czy wróciła odpowiedź* | ### przed 300-03-07 | 300-02-27 |
 | Symon | odpowiedź **burmistrzowi**: TERMIN, nie łaska | **SPÓŹNIONE — 3 miesiące** | 299-11 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
 | Symon → Theonowi | „będę ci mówił" | **BEZ TERMINU** | 300-02-18 |
@@ -144,7 +145,7 @@ Na start tylko to, co pewne z ostatnich dni:
 |---|---|---|---|
 | Wiec żelaznych, Euron | **Theon** *(jedyny)* | gdy Balon padnie | 300-02-17 |
 | Mance Rayder, 20–40 tys. pod Murem | Osric / Straż | parlej | 300-02-16 |
-| Stannis — Mur, czerwona kapłanka | Wyman / Davos | bez terminu | 299-12-29 |
+| **Stannis — Mur, czerwona kapłanka** | Wyman / Davos | bez terminu | ### 300-02-27 — **jego ludzie kupują żywność w Białym Porcie**: małymi partiami, u wielu kupców, srebrem. **Legalnie — cło jest na wywóz, a Mur leży na Północy.** Wyman nie dopisał komentarza i to jest komentarz |
 | **Król bez legitymizacji, który rządzi** *(after-efekt — dowód dostarczony, Stannis ogłosił 299-03-15)* | Nesta → **Żelazny Bank** *(najlepszy: Bank mówi ceną pieniądza)* · Lucan → Dorzecze · Wyman/Davos → Stannis | ciągle | 299-03-15 — cios mocny, nie nokaut; **ropieje** |
 | **Daenerys** | Nesta | III/300 | ### ani jednej drogi |
 | Żelazny Bank, 6 mln długu Tronu | Nesta | — | 300-02-06 |

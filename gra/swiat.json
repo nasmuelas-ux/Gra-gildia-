@@ -5,9 +5,9 @@
   "dzien": 25,
   "era": "AC"
  },
- "pora": "zmierzch",
+ "pora": "noc",
  "sezon": "zima (300)",
- "pogoda": "RZUT 82 - ODWILZ SIE POGLEBILA I W NOCY SPADL DESZCZ. Cieplo od poludniowego zachodu drugi dzien; z dachow leje, snieg zszedl do polowy, koleiny rozmiekly NA WYLOT, nie tylko od wierzchu. SKUTKI: (1) grobla stoi dalej - kafary nie bija w rozmokly grunt; (2) TRAKT DO BIALEGO PORTU ROZMIEKL - a od wczoraj przejezdnosc tego traktu jest pozycja w bilansie zywnosciowym lenna (linia DOWOZ w karcie A); (3) LOD PRZY BRODZIE PUSCIL - ten sam brod, w ktorym od piatego miesiaca stoi woz bez wlasciciela.",
+ "pogoda": "RZUT 20 (300-02-27) - deszcz nie odpuscil, nisko i szaro, mzy od switu. Woda przy brodzie wysoka, przeprawy nie ma. Droga powrotna gorsza niz w druga strone: koleiny glebsze, konie stepa tam, gdzie dzien wczesniej szly klusem.",
  "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "brak",
- "dzien": 26,
+ "dzien": 27,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -138,10 +138,10 @@
   },
   "otwarte_oczy": "konstytucja Dorzecza; Karstark/Bolton/Barrowlands; zboze+obce srebro; kto karmi Lyse; karta Dorne; Euron; ZIMA nad wszystkim."
  },
- "lokacja": "BROD pod Fosa Cailin (wyprawa 300-02-26). Fosa: Warryn prowadzi przywilej, termin 300-03-07.",
+ "lokacja": "FOSA CAILIN. Cerwyn 2.-5. III. Dzien Bilansu 300-03-01. Wyjazd 300-03-07.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "zmierzch",
+ "pora_dnia": "noc",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {
@@ -248,6 +248,6 @@
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
  "_dziennik_poranek_300_02_08": 1,
  "_dziennik_wieczor_300_02_08": 1,
- "miejsce": "BROD - dzien drogi na poludnie od Fosy Cailin. Woda wysoka, przeprawy nie ma na kilka dni.",
+ "miejsce": "FOSA CAILIN - wlasne lenno. Powrot z brodu dlugo po zmroku 300-02-27.",
  "noc_300_02_25_koniec_dnia": "300-02-25 - DZIEN ZAMKNIETY ZA ZGODA GRACZA ('ide spac'). Fosa Cailin. Bilans dnia: cala scena z Willa (piony bez imion, znak obecnosci, sygnal z Winterfell jako zwyczaj, pisarze wychodza, przeglad 300-05-25) - z trzema VOIDami prowadzacego po wskazaniach gracza (Willa jest w Domu, nie w kancelarii; opis stanu nie jest zdarzeniem; Willa = kanclerz-archiwista, jeden z czterech filarow, a jej rewizorem jest Tam od maja 299). Potem Hendry i rzadca WARRYN (kolejny VOID - wymyslono 'Harberta Siwego' na obsadzone krzeslo): Kessel Brodaty dowodca Mchowych Jastrzebi, ziarno scentralizowane planem A+C+D, poreka siewu jako DLUG Z DATA, lenno placi za robote. Prowiantmistrz ORLAND KORZEC nazwany po dziewieciu miesiacach. Meldunki Niny i Wystana po szesciu i osmiu miesiacach ciszy - ktora byla brakiem rubryki, nie brakiem roboty. Odpis dla Cytadeli bez czesci Reedow. I na koniec PRZYWILEJ BAGIENNY: mlyn (kolo w sluzie), dziewiec rzemiosl, zwolnienie gruntowe, list do Howlanda. Symon polozyl sie bardzo pozno."
 }

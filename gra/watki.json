@@ -167,7 +167,7 @@
    "termin": null,
    "wobec": "self",
    "stan": "OBIE NOGI W RUCHU — import (barwniki/egzotyka przez Vhassara) + wywoz (skory lokalne + polnocne futra/bursztyn przez Torsena/Halvarda, Bialy Noz)",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "pioro_dla_wiary",
@@ -3777,7 +3777,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 17,
+   "_dziennik_nota": 18,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -3803,7 +3803,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 13,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -3912,7 +3912,7 @@
    "id": "stan_poludnia_hollow_tron_299_07",
    "tytul": "Stan Poludnia: wydrazona korona Joffreya, Tywin realnym panem, Stannis-ciern na Smoczej Skale",
    "status": "USTALONY_kanon_299-07",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "stan_watku": "ZYWY",
    "stan_uwaga": "After-efekt: krol rzadzi bez legitymizacji. Kanaly: Nesta/Bank, Lucan/Dorzecze, Wyman-Davos/Stannis. Brak kanalu NA DWORZE."
   },
@@ -4787,7 +4787,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 16
+   "_dziennik_nota": 17
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -4949,7 +4949,7 @@
    "id": "taryfa_celna_polnocy_299_09",
    "tytul": "Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu",
    "status": "projekt_do_polozenia_przed_krolem",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "filar": "TARYFA CELNA POLNOCY",
    "stan_watku": "ZYWY"
   },
@@ -5694,7 +5694,7 @@
   {
    "id": "woz_w_lodzie_przy_brodzie_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "filar": "WOZ W LODZIE PRZY BRODZIE - nierozwiazane",
    "stan_watku": "ZYWY"
   },
@@ -6041,7 +6041,7 @@
   {
    "id": "mchowe_jastrzebie_straz_lenna_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "filar": "MCHOWE JASTRZEBIE - straz lenna",
    "stan_watku": "ZYWY"
   },
@@ -6137,7 +6137,7 @@
   {
    "id": "kto_skupuje_zboze_w_dorzeczu",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

@@ -409,7 +409,12 @@ MORZE WSCHODNIE
 > ### BASZTA PRZED PORTEM. *„Ufortyfikowany od pierwszego dnia, nie po fakcie. Zachodni brzeg to woda Żelaznych Wysp; nieobwarowana przystań u ujścia rzeki jest zaproszeniem, nie portem."*
 > Port zbudowany przed basztą zostanie splądrowany w pierwszy sezon i odbudowany drugi raz — czyli zapłacony dwa razy.
 
-**BASZTA:** rozpoznanie brzegu i głębokości · kamień *(skąd? na zachodzie nie ma kamieniołomu — to pierwsze pytanie)* · załoga stała · **studnia i magazyn** *(baszta bez własnej wody jest wieżą, nie warownią)* · ogień sygnalizacyjny widoczny z rzeki i z morza.
+**BASZTA:** rozpoznanie brzegu i głębokości · **KAMIEŃ — SKĄD? ### DO ZBADANIA, ZLECENIE OTWARTE** · załoga stała · **studnia i magazyn** *(baszta bez własnej wody jest wieżą, nie warownią)* · ogień sygnalizacyjny widoczny z rzeki i z morza.
+
+> ### ZWIAD KAMIENIA NA ZACHODZIE — pierwsze zlecenie całego zachodniego odcinka.
+> Bazalt na Fosę idzie tratwami z kamieniołomów **na północ od Przesmyku** — czyli ze złej strony. Ciągnąć go stamtąd na zachodni brzeg znaczy wozić kamień przez bagno, żeby zbudować coś, co ma uwolnić od wożenia przez bagno.
+> **Trzy rzeczy do sprawdzenia, zanim padnie pierwsza data:** czy na brzegu Zatoki Ognistej albo na Kamienistym Brzegu jest kamień budowlany *(nazwa brzegu obiecuje, ale nazwa to nie próbka)* · czy da się go brać i spławiać · a jeśli nie — **czy baszta ma być z kamienia, czy z ziemi i drewna na kamiennej podwalinie**, co stoi szybciej i broni tak samo przed rajdem z morza.
+> To samo pytanie wisi nad **Starkportem na Cyplu Morskiego Smoka** — i dlatego to jeden zwiad, nie dwa.
 
 **PORT:**
 1. **Reda i kotwicowisko dla dużych statków** — głęboka woda; wielkie statki dalej nie idą
@@ -431,8 +436,15 @@ MORZE WSCHODNIE
 6. **PSTRĄGI** — *nie żaglowiec, lecz wciągarka, która pływa*: kabestan i kotwica wynoszona łódką w górę bystrza. **Ośmiu robi to, do czego na ścieżce holowniczej trzeba osiemdziesięciu**
 7. **ZAŁOGA: LUDZIE PRZESMYKU** — *to nie jest uprzejmość, to jedyna załoga, która zna wodę*
 
-> ### ⚠️ I DLATEGO CAŁY ZACHODNI ODCINEK STOI NA HOWLANDZIE REEDZIE.
-> Bez ludzi Przesmyku nie ma spławu; bez spławu Gorący Port jest przystanią donikąd. **To nie jest kontrakt przewozowy — to jest sojusz, od którego zależy połowa łańcucha.** Nigdzie nie jest zapisane, że Reed się na to zgodził.
+> ### ⚠️ VOID — POPRAWKA GRACZA 300-02-25, SPRAWDZONA NA MAPIE.
+> Napisałem: *„cały zachodni odcinek stoi na Howlandzie Reedzie"*. **Nieprawda.**
+> Mapa kanoniczna: **MOAT CAILIN LANDS to osobne obrysowane terytorium u północnego krańca Przesmyku — lenno Tally.** Reed leży **na południe**, Dustin na zachód, Manderly na wschód. **Ta woda i ten brzeg nie są ziemią Reeda i Reed ich nie kontroluje.**
+>
+> **Co z tego zostaje prawdą, a co upada:**
+> — Upada **weto**. Reed niczego nie blokuje i nie ma czego odmawiać.
+> — Zostaje **umiejętność**. Krannogowie znają tę wodę lepiej niż ktokolwiek — i dlatego **„NAUKA OD REEDÓW"** stoi od 299-08-23 jako jedno z siedmiu zleceń, z pytaniem *czy ruszyła i czy jest DOKUMENTOWANA*.
+> — I dopiero teraz widać, **po co to zlecenie w ogóle było**: żeby załoga spławu była **własna**, wyszkolona, a nie pożyczona.
+> ### Reed jest nauczycielem, nie bramą. A zlecenie, które od pół roku nie wróciło, okazuje się fundamentem połowy łańcucha.
 
 > **PYTANIE BEZ ODPOWIEDZI:** czy Fever zamarza i na ile tygodni? Kanały Cailin nie zamarzają, bo grzeje je para ze szklarni — **rzeka nie ma szklarni.** Jeśli Fever stoi trzy miesiące w roku, przewłoka ma sezon i trzeba to policzyć, zanim ktokolwiek obieca komuś termin dostawy.
 
@@ -497,3 +509,89 @@ Sześć członów zaprojektowano osobno i **żaden nie zna przepustowości sąsi
 > **Dziś każdy z sześciu członów ma rysunek, a łańcuch nie ma liczby.**
 > Most zbudowany na wóz nie przepuści kamienia młyńskiego. Basen wykopany na Muła nie przyjmie kadłuba.
 > **A tego się nie poprawia — to się rozbiera.**
+
+---
+---
+
+# TRZY LICZBY ŁAŃCUCHA
+### Fosa Cailin, 300-02-25 · wpisane ręką własną · **to jest norma, nie życzenie**
+
+> **ZASADA NADRZĘDNA, OD KTÓREJ WSZYSTKO SIĘ LICZY:**
+> ### CO SIĘ KŁADZIE RAZ — BUDUJE SIĘ NA DOCELOWĄ. CO SIĘ DOSTAWIA — NA DZISIEJSZĄ.
+> Most, brama wodna, basen, śluza, przepust, nasyp i szerokość drogi **kładzie się raz i na zawsze** — te na liczbę docelową, choćby przez dziesięć lat stały puste.
+> Stajnie, szopy, wozy, żurawie, łodzie i ludzie **dostawia się w miarę** — te na liczbę dzisiejszą.
+> *Kto zbuduje most na dziś, będzie go rozbierał. Kto zbuduje stajnię na za dwadzieścia lat, będzie ją ogrzewał pustą przez dwadzieścia zim.*
+
+---
+
+## LICZBA PIERWSZA — PRZERÓB DZIENNY
+
+| | wozów na dobę **w każdą stronę** |
+|---|---|
+| **dziś** | tyle, ile wpisze Garth — i po raz pierwszy będzie to wiadomo, bo ma kartę |
+| **PRÓG ROBOCZY** *(po domknięciu bramy i grobli)* | **DWADZIEŚCIA** |
+| ### LICZBA DOCELOWA — NORMA BUDOWLANA | ### SZEŚĆDZIESIĄT |
+
+**Na sześćdziesiąt buduje się:** każdy most i przepust na całym łańcuchu · szerokość bitej drogi · bramę wodną i basen · Wielką Śluzę · place przeładunkowe w Cailin i na Przystani Wilka · wagę.
+**Na dwadzieścia buduje się:** stajnie, szopy, żurawie, tabor, liczbę Mułów i Pstrągów, obsadę domów zajezdnych.
+
+> **Sześćdziesiąt wozów na dobę w każdą stronę to sto dwadzieścia przejazdów dziennie przez jedną bramę.** Przy dwunastu godzinach światła zimą — wóz co sześć minut, bez przerwy, przez cały dzień. **To jest granica jednej bramy wodnej i jednej wagi.** Kto chce więcej, musi otworzyć drugą bramę — a wtedy traci to, po co basen jest zamknięty: *żeby widzieć cały ruch naraz.*
+> **Dlatego sześćdziesiąt nie jest ambicją. Jest sufitem, który wynika z kształtu miasta.**
+
+---
+
+## LICZBA DRUGA — NAJCIĘŻSZY NIEPODZIELNY ŁADUNEK
+
+**Ładunek niepodzielny ogranicza w dwóch wymiarach naraz i trzeba podać obydwa.**
+
+| | norma | co po tym przechodzi |
+|---|---|---|
+| **CIĘŻAR** | ### KAMIEŃ MŁYŃSKI PEŁNEJ MIARY — ośmiowołowy | dzwon, kotwica, kowadło, żelazo kafara, blok bazaltu, koło wodne |
+| **DŁUGOŚĆ** | ### SZEŚĆDZIESIĄT STÓP | maszt, belka wiązarowa, pal na Wielką Śluzę, żuraw w jednym kawałku |
+
+**Z ciężaru wynika:** nośność każdego mostu i przepustu · grubość nasypu · udźwig żurawi *(dwa żurawie na jeden taki ciężar, nigdy jeden)* · wytrzymałość pomostów i nabrzeży.
+**Z długości wynika:** **promień każdego zakrętu na drodze** · szerokość placów · rozpiętość wrót składu i bramy wodnej · długość pomostu ładunkowego.
+
+> **Długość jest okrutniejsza od ciężaru i o tym się zapomina.** Ciężki wóz przejdzie po każdym prostym odcinku. **Sześćdziesięciostopowa belka nie skręci na rogu, który zbudowano na wóz** — i nie ma sposobu, żeby to naprawić inaczej niż rozbierając róg.
+> **Zakręty projektuje się na maszt, nie na wóz.**
+
+---
+
+## LICZBA TRZECIA — KADŁUB NA WŁÓCE
+
+### PRZECHODZI: MUŁ PEŁNEJ MIARY — CZTERDZIEŚCI STÓP DŁUGOŚCI, DWANAŚCIE SZEROKOŚCI, DNO PŁASKIE.
+### PRZECHODZI PUSTY. ŁADUNEK IDZIE OSOBNO, WOZAMI.
+### STATEK MORSKI NIE PRZECHODZI NIGDY.
+
+**Z tego wynika:** długość i prostość drogi włóki · liczba wołów w zaprzęgu · szerokość wykarczowanego pasa · wymiar basenu i bramy wodnej · nachylenie zjazdów do wody na obu końcach.
+
+> **Trzecia liczba jest jednocześnie zamkiem na umowie z Wymanem — i dlatego jest najważniejsza z trzech.**
+>
+> Gdyby włóką przechodził statek morski, Cailin stałby się **drugim Białym Portem mimo braku wschodniej wody**: kadłub, który wszedł na zachodzie, mógłby wyjść na wschodzie i sprzedać ładunek gdzie chce. **Manderly straciłby wszystko, co dostał w zamian za zgodę, i miałby rację, czując się oszukanym.**
+>
+> Skoro przechodzą **wyłącznie łodzie rzeczne i wyłącznie puste**, role stoją tak, jak zapisano 300-01-26 i nie da się ich pomylić:
+> **Gorący Port przyjmuje z morza · Cailin przerzuca · Biały Port jest jedyną wschodnią gębą.**
+>
+> *„Nie dlatego, że wam nie ufam. Dlatego, że wam ufam, a waszemu prawnukowi nie mam skąd."* — **Trzecia liczba jest właśnie tym, czego prawnuk nie zmieni bez rozbierania połowy miasta.**
+
+---
+
+## CO TE TRZY LICZBY KOSZTUJĄ, GDY SIĘ POMYLIMY
+
+| | za mała | za duża |
+|---|---|---|
+| **przerób** | drugi most, drugi basen, druga brama — **czyli rozbiórka** | puste place i stajnie ogrzewane przez lata |
+| **ciężar i długość** | ### nie da się poprawić — tylko rozebrać róg, most albo bramę | grubszy kamień i dłuższe belki, raz zapłacone |
+| **kadłub** | włóka bezużyteczna, wozy robią wszystko | **utrata umowy z Manderlym i sensu zasady zamkniętej** |
+
+> **Symetria jest nierówna i dlatego normy są hojne tam, gdzie kładzie się raz:**
+> ### POMYŁKA W GÓRĘ KOSZTUJE SREBRO. POMYŁKA W DÓŁ KOSZTUJE ROZBIÓRKĘ.
+
+---
+
+## CO Z TYM ZROBIĆ, ŻEBY BYŁO NORMĄ, A NIE KARTKĄ
+
+1. **Trzy liczby idą do każdego mistrza na łańcuchu jednym tekstem, co do przecinka** — Bran, Orbelo, Donnel Obrok, mistrz-budowniczy Manderlych, brygadzista z Przystani Wilka, Garth przy komorze. *Ten sam tekst dla wszystkich — jak czternaście wezwań.*
+2. **Wiszą na słupie przy komorze i przy placu**, obok karty celnej — *cena ogłoszona, nie zadeklarowana.*
+3. **Kto projektuje poniżej normy, pisze obok DLACZEGO i podpisuje się.** Nie zakaz — zapis.
+4. **Norma zmienia się tylko na piśmie i tylko przed pierwszym kamieniem.** Po pierwszym kamieniu nie zmienia się jej wcale.

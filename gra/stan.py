@@ -117,6 +117,32 @@ rep = p.get("reputacja", {})
 if rep:
     A("**Reputacja:** " + " · ".join("%s %s" % (k, v) for k, v in rep.items()))
 
+# --- KTO CZYJ JEST + TERMINY (dodane 300-02-25, po pomyleniu watkow przez GM) ---
+lud = L("ludzie.json") or {}
+if lud:
+    A("\n## ⚠️ TRZY PUDELKA — SPRAWDZ PRZED KAZDA SCENA Z NPC")
+    A("_" + lud.get("_zasada","") + "_")
+    for box in ("DOM_TALLY", "LENNO_FOSY", "KORONA"):
+        b = lud.get(box) or {}
+        if not b: continue
+        A("\n**%s** (Kasa %s) — %s" % (box.replace("_"," "), b.get("kasa","?"),
+            ", ".join(b.get("co_tu_nalezy", []))[:160]))
+        if b.get("co_tu_NIE_nalezy"):
+            A("  - ### NIE TU: " + ", ".join(b["co_tu_NIE_nalezy"])[:160])
+        for osoba in (b.get("ludzie") or []):
+            A("  - **%s** — %s · _%s_%s%s" % (osoba.get("imie","?"), osoba.get("urzad","?"),
+                osoba.get("siedziba","?"),
+                (" · raport: " + osoba["raportuje"]) if osoba.get("raportuje") else "",
+                ("  ⚠️ " + osoba["uwaga"]) if osoba.get("uwaga") else ""))
+    for sz in (lud.get("SZWY") or []):
+        A("  - ### SZEW: **%s** — %s" % (sz.get("kto","?"), sz.get("opis","")))
+
+ter = L("terminy.json") or {}
+if ter.get("terminy"):
+    A("\n## ⏳ TERMINY Z DATA")
+    for t in ter["terminy"]:
+        A("- **%s** — %s%s" % (t.get("data","?"), t.get("co","?"),
+            ("  _(" + t["gdzie"] + ")_") if t.get("gdzie") else ""))
 A("\n## LUDZIE NA SCENIE")
 for x in (npc.get("na_scenie") or []):
     if isinstance(x, dict):

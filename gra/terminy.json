@@ -1,0 +1,19 @@
+{
+  "_zasada": "Kazda rzecz z DATA. Termin bez daty nie jest terminem. GM sprawdza te liste przed kazdym rankiem.",
+  "terminy": [
+    {"data": "300-03-01", "co": "OCHMISTRZ WYCHOWANKOW - ogloszenie nazwiska", "kto": "Gawen szuka", "gdzie": "Winterfell"},
+    {"data": "300-03-01", "co": "DZIEN BILANSU", "kto": "Symon"},
+    {"data": "300-03-02..05", "co": "CERWYN NA FOSIE - trzy dni pisania, pisarz Skarbnika przy stole", "gdzie": "Fosa Cailin"},
+    {"data": "300-03-03", "co": "ROZWIAZANIE LADY MIRY", "gdzie": "Bialy Port", "uwaga": "z Fosy 6-8 dni drogi"},
+    {"data": "300-03-07", "co": "Symon opuszcza Fose; jesli nie ma odpowiedzi Torrena - Theon wraca z nim"},
+    {"data": "300-03-pol", "co": "CZTERDZIESCIORO DZIECI wjezdza do Winterfell"},
+    {"data": "300-03", "co": "WEKSLE LUCANA - 340 zapada", "kasa": 1},
+    {"data": "300-03", "co": "ZBOZE Z DORZECZA rusza, gdy trakty puszcza"},
+    {"data": "300-03-30", "co": "WSZYSTKO NAPISANE + 168 odpisow do kwater lordow", "uwaga": "prawdziwy termin Rady"},
+    {"data": "300-04-01", "co": "WIELKA RADA", "gdzie": "Winterfell"},
+    {"data": "300-04-01", "co": "ROZSTRZYGNIECIE O THEONIE - ma zapasc PRZED tym dniem (prerogatywa Krola)"},
+    {"data": "300-04-01", "co": "KANCELARIA KORONY - data ustanowienia"},
+    {"data": "300-04-05", "co": "brat Gorren wyjezdza z Winterfell (rubryka C rejestru)"},
+    {"data": "300-06-koniec", "co": "TRAKTAT Z DORZECZEM - termin klauzuli ratyfikacyjnej"}
+  ]
+}

@@ -30,6 +30,56 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 5 · czytanie_ludzi 10 · organizacja 9 · audyt 9 · finanse 9 · wlodarstwo 8 · historia 6 · wiedza_o_swiecie 7 · polityka 10
 **Reputacja:** port 38 · schody_zamkowe 40 · cech_pisarzy -6 · wiara 96 · zamek 24 · cech_kolodziejow 42
 
+## ⚠️ TRZY PUDELKA — SPRAWDZ PRZED KAZDA SCENA Z NPC
+_TRZY PUDELKA. Ani jeden czlowiek nie sluzy w dwoch. Przed kazda scena z NPC: sprawdz, CZYJ jest, GDZIE siedzi i CO DO NIEGO NIE TRAFIA. Jesli NPC mialby zaraportowac cos spoza swojego pudelka - to znaczy, ze watki sie pomieszaly._
+
+**DOM TALLY** (Kasa 1) — handel, filie, papiernia, warzelnia, bursztyn, weksle, siatka prywatna, koordynacja dom<->lenno
+  - ### NIE TU: korespondencja Korony, porzadek obrad Rady, rejestr przedsiewziec Korony, poczta Korony, sprawy urzedow koronnych
+  - **GARRICK** — Kanclerz Kancelarii Namiestnika (dom+lenno) · _FOSA CAILIN_ · raport: Symon
+  - **WILLA** — kanclerz-archiwista, siatka/wywiad domu · _w terenie_ · raport: Symon
+  - **HAL** — dyrektor Domu Handlowego · _BIALY PORT_ · raport: Symon
+  - **NESTA** — wspolniczka, Braavos · _BRAAVOS_ · raport: Symon (partnerka, nie podwladna)
+  - **LUCAN** — czlowiek domu na poludniu · _DORZECZE_ · raport: Symon
+  - **MARR** — szlifierz bursztynu · _?_
+
+**LENNO FOSY** (Kasa 2) — grobla i roboty, myto, spis mieszkancow, solectwa, sad grodzki, Mchowe Jastrzebie, miasteczko Cailin (ma WLASNA kase miejska)
+  - ### NIE TU: clo Korony (to Kasa 3, tylko pobierane reka lenna)
+  - **ALYS** — majordom przy liczbach · _FOSA_ · raport: Symon/Garrick
+  - **BRAN** — majordom robot (NIE Brandon Stark) · _FOSA_ · raport: Symon/Garrick
+  - **HENDRY** — marszalek/druzyna lenna · _FOSA_
+  - **RZADCA** — rzadca lenna · _FOSA_
+  - **BURMISTRZ (wagowy)** — burmistrz miasta Cailin z wyboru 299-11-01 · _MIASTECZKO CAILIN_ · raport: rada miejska, NIE Symon  ⚠️ pisze do KORONY bezposrednio w sprawie prawa skladu - tak zadal Symon
+
+**KORONA** (Kasa 3) — kancelaria Korony, poczta Korony, rejestr przedsiewziec, porzadek obrad Rady, clo, daniny, sady, eskadra, Mur
+  - **BERON** — SEKRETARZ KANCELARII KORONY · _WINTERFELL_ · raport: KROL  ⚠️ tu trafia wszystko koronne; przysiega Krolowi, placi Kasa 3, zostaje gdy Namiestnik odchodzi
+  - **GAWEN** — Skarbnik Korony · _WINTERFELL_ · raport: KROL
+  - **MEDGER CERWYN** — Justycjariusz Polnocy · _ZAMEK CERWYN + objazd_ · raport: KROL
+  - **TORREN SOLNY** — Pierwszy Admiral Korony · _DUSTINPORT_ · raport: KROL  ⚠️ NIE dostal pisma o granicach urzedu - dlug Symona
+  - **OSRIC** — marszalek / oddzial pod Murem · _MUR/w drodze_
+  - **RODRIK CASSEL** — mistrz nad bronia Winterfell · _WINTERFELL_
+  - **LUWIN** — maester Winterfell · _WINTERFELL_
+  - **MYLES** — wybrany przez KROLA na glos przy lordach, X/299 · _WINTERFELL (przyjechal 300-02-19)_
+  - **THEOMORE** — maester, pomiar Przesmyku · _WINTERFELL (przyjechal 300-02-19)_
+  - **KASZTELAN WINTERFELL** — rejestr zamku · _WINTERFELL_
+  - ### SZEW: **GARTH** — czlowiek LENNA stojacy przy komorze celnej KORONY - pobiera clo Kasy 3 reka lenna. Jedyny prawdziwy szew Fosy. Nie dostal pisma o granicach urzedu (obiecane przed przyjazdem Cerwyna).
+  - ### SZEW: **POCZTA KORONY** — przelozony poczty odpowiada Beronowi w Winterfell, ale Garrick nia dysponuje, bo jest na miejscu. Chodzi na zdrowy rozsadek i kiedys przestanie.
+
+## ⏳ TERMINY Z DATA
+- **300-03-01** — OCHMISTRZ WYCHOWANKOW - ogloszenie nazwiska  _(Winterfell)_
+- **300-03-01** — DZIEN BILANSU
+- **300-03-02..05** — CERWYN NA FOSIE - trzy dni pisania, pisarz Skarbnika przy stole  _(Fosa Cailin)_
+- **300-03-03** — ROZWIAZANIE LADY MIRY  _(Bialy Port)_
+- **300-03-07** — Symon opuszcza Fose; jesli nie ma odpowiedzi Torrena - Theon wraca z nim
+- **300-03-pol** — CZTERDZIESCIORO DZIECI wjezdza do Winterfell
+- **300-03** — WEKSLE LUCANA - 340 zapada
+- **300-03** — ZBOZE Z DORZECZA rusza, gdy trakty puszcza
+- **300-03-30** — WSZYSTKO NAPISANE + 168 odpisow do kwater lordow
+- **300-04-01** — WIELKA RADA  _(Winterfell)_
+- **300-04-01** — ROZSTRZYGNIECIE O THEONIE - ma zapasc PRZED tym dniem (prerogatywa Krola)
+- **300-04-01** — KANCELARIA KORONY - data ustanowienia
+- **300-04-05** — brat Gorren wyjezdza z Winterfell (rubryka C rejestru)
+- **300-06-koniec** — TRAKTAT Z DORZECZEM - termin klauzuli ratyfikacyjnej
+
 ## LUDZIE NA SCENIE
 - **Luwin** (`maester_luwin`) — maester Winterfell (dwór Starków) — uczony, rządzi skła… · nast ZYCZLIWY -> PROFESJONALNY PODZIW/ZAUFANIE ROBOCZE (0813): po arcyrachunku zapasow (nat.100) Luwin uznaje Symona za rownego-lub-lepszego w rachunkach; trust glęboki
 - **Roggen** (`szafarz_roggen`) — starszy szafarz zachodnich składów Winterfell (sługa od… · nast nieznane (nie kontaktowani; Symon obserwuje z boku)

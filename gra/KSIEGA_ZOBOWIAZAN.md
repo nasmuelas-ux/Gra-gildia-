@@ -24,7 +24,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | ### Symon / Garth | ### **KSIĘGA BRAMY ZA DZIEWIĄTY MIESIĄC** — rozstrzyga bez śledztwa, czy istnieje droga na południe z pominięciem komory. *Pismo w tej sprawie poszło już raz 299-09-09 — sprawdzić, czy wróciła odpowiedź* | ### przed 300-03-07 | 300-02-27 |
 | ~~Symon: odpowiedź burmistrzowi~~ | **DANE 300-02-27: „Korona odpowie PO RADZIE" (300-04-01).** Herwin Szala wypisuje to na słupie — *data na słupie broni się sama* | wykonane | 300-02-27 |
 | Herwin Szala | **na słup, pierwsze:** *„przeszkody nie ma, zostało tylko nadanie"* — blokada prawa składu **zdjęta 300-01-26** i nikt mu nie powiedział. Przez ten miesiąc dwa razy odmówił szopy; jeden człowiek sprzedał wóz i poszedł | **300-02-28** | 300-02-27 |
-| ### Symon | ### **trzy propozycje burmistrza — czekają na słowo:** ① **odebrać mu wagę** *(miasto wybiera nowego wagowego; kto zarządza, nie mierzy sam siebie)* ② **działki losuje ława jawnie**, lista z imionami na słupie ③ **na słupie dwa znaki** — pieczęć pana za nadanie, znak miasta za wykonanie | ### decyzja wisi | 300-02-27 |
+| miasto Cailin | **ZATWIERDZONE 300-02-27, wszystkie trzy:** ① **nowy wagowy z wyboru — Herwin przestaje ważyć** ② **działki losuje ława jawnie**, lista z imionami na słupie ③ **na słupie dwa znaki** — pieczęć pana za nadanie, znak miasta za wykonanie | wykonuje miasto | 300-02-27 |
 | ### miasto Cailin | ### **jedna waga na dziewięć rzemiosł** — zgłosiło się kilkunastu, za miesiąc będzie stu, a wagowy jest jeden, bo został burmistrzem | ### przed wiosną | 300-02-27 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
 | Symon → Theonowi | „będę ci mówił" | **BEZ TERMINU** | 300-02-18 |
@@ -97,7 +97,9 @@ Na start tylko to, co pewne z ostatnich dni:
 | Dom Tally | weksle Lucana — 340 zapada | III/300 | 300-02-06 |
 | Torren Solny | meldunek eskadry, osiem rubryk | na Fosę | 300-02-19 |
 | Glover + Mormont | ekipa pomiarowa na Cypel Morskiego Smoka | list w drodze | 300-02-19 |
-| **Blackfish** | **meldunek z Dorzecza — sześć rubryk** *(plany · wymiana oficerów · Trident · ilu ludzi · kto przechodzi · co widzi)* | ### ZALEGŁY 8,5 MIESIĄCA — **bo nikt mu nie dał adresu ani rytmu** | 299-07-06 |
+| **Blackfish** | **meldunek z Dorzecza — sześć rubryk** *(plany · wymiana oficerów · Trident · ilu ludzi · kto przechodzi · co widzi)* | ### ZALEGŁY 8,5 MIESIĄCA. ~~bo nikt mu nie dał adresu~~ — **pytanie brzmi: GDZIE SĄ JEGO LISTY** | 300-02-27 |
+| **Symon → Beron** *(karta 7-dniowa)* | **① czy leżą pisma od Bryndena Tully'ego / z Dorzecza — od kiedy, ile, kto otworzył. ② nowa stała rubryka: SPIS TEGO, CO PRZYSZŁO DO KORONY I NIE ZOSTAŁO NIKOMU PRZEKAZANE** — od kogo, kiedy, ile, czy otwarte. *Liczyć, nie czytać* | z najbliższą kartą | 300-02-27 |
+| ### Symon | ### **GDZIE MA DOGONIĆ ODPOWIEDŹ BERONA** — wróci ~300-03-11…13, a wyjazd jest 07. Bez tego położy się na Fosie **obok tych listów, o które pytamy** | ### decyzja wisi | 300-02-27 |
 | Symon | **ustanowić kanał do Blackfisha** — adres, rytm, sześć rubryk; drogą przez Catelyn albo Lucana, raz wybraną i stałą | pilne | 300-02-25 |
 | Osric | dwudziestu drwali na Mur | IV/300 | 300-02-16 |
 | kasztelan → Bran Stark | rejestr zamku, karta co 7 dni | co tydzień | 300-02-18 |

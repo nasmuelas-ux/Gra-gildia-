@@ -3803,7 +3803,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 14,
+   "_dziennik_nota": 15,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -3965,7 +3965,7 @@
    "id": "pakt_obronny_polnoc_dorzecze_299_07",
    "tytul": "Pakt Obronny Polnoc-Dorzecze - Brynden pld architekt, 3 plany, wymiana oficerow (Trident z furtki w zapore)",
    "status": "ZAWIAZANY_299-07-06_projekty_w_toku",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 7,
    "filar": "RELACJA POLNOC-DORZECZE (pakt obronny, plany, Blackfish)",
    "stan_watku": "ZYWY",
    "stan_uwaga": "Rozstrzygniecie gracza: ODREBNY WATEK - relacja Polnocy z Dorzeczem. Pakt ma PLANY OBRONNE i ma BLACKFISHA, ktory umacnia Dorzecze. To zywa rzecz z wlasna trescia, nie zapis z lata."
@@ -4568,7 +4568,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 19,
+   "_dziennik_nota": 20,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -5648,7 +5648,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 16,
+   "_dziennik_nota": 18,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -6112,7 +6112,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 10
   },
   {
    "id": "rzadca_warryn",

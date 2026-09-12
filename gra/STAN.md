@@ -30,48 +30,31 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 · kondycja 7 · rzemioslo 1 · handel 8 · walka 6 · geometria 5 · czytanie_ludzi 10 · organizacja 9 · audyt 9 · finanse 9 · wlodarstwo 8 · historia 6 · wiedza_o_swiecie 7 · polityka 10
 **Reputacja:** port 38 · schody_zamkowe 40 · cech_pisarzy -6 · wiara 96 · zamek 24 · cech_kolodziejow 42
 
-## ⚠️ TRZY PUDELKA — SPRAWDZ PRZED KAZDA SCENA Z NPC
-_TRZY PUDELKA. Ani jeden czlowiek nie sluzy w dwoch. Przed kazda scena z NPC: sprawdz, CZYJ jest, GDZIE siedzi i CO DO NIEGO NIE TRAFIA. Jesli NPC mialby zaraportowac cos spoza swojego pudelka - to znaczy, ze watki sie pomieszaly._
-
-**DOM TALLY** (Kasa 1) — handel, filie, papiernia, warzelnia, bursztyn, weksle, siatka prywatna, koordynacja dom<->lenno
-  - ### NIE TU: korespondencja Korony, porzadek obrad Rady, rejestr przedsiewziec Korony, poczta Korony, sprawy urzedow koronnych
-  - **GARRICK** — Kanclerz Kancelarii Namiestnika (dom+lenno) · _FOSA CAILIN_ · raport: Symon
-  - **WILLA** — kanclerz-archiwista, siatka/wywiad domu · _w terenie_ · raport: Symon
-  - **HAL** — dyrektor Domu Handlowego · _BIALY PORT_ · raport: Symon
-  - **NESTA** — wspolniczka, Braavos · _BRAAVOS_ · raport: Symon (partnerka, nie podwladna)
-  - **LUCAN** — czlowiek domu na poludniu · _DORZECZE_ · raport: Symon
-  - **MARR** — szlifierz bursztynu · _?_
-
-**LENNO FOSY** (Kasa 2) — grobla i roboty, myto, spis mieszkancow, solectwa, sad grodzki, Mchowe Jastrzebie, miasteczko Cailin (ma WLASNA kase miejska)
-  - ### NIE TU: clo Korony (to Kasa 3, tylko pobierane reka lenna)
-  - **ALYS** — majordom przy liczbach · _FOSA_ · raport: Symon/Garrick
-  - **BRAN** — majordom robot (NIE Brandon Stark) · _FOSA_ · raport: Symon/Garrick
-  - **HENDRY** — marszalek/druzyna lenna · _FOSA_
-  - **RZADCA** — rzadca lenna · _FOSA_
-  - **BURMISTRZ (wagowy)** — burmistrz miasta Cailin z wyboru 299-11-01 · _MIASTECZKO CAILIN_ · raport: rada miejska, NIE Symon  ⚠️ pisze do KORONY bezposrednio w sprawie prawa skladu - tak zadal Symon
-
-**KORONA** (Kasa 3) — kancelaria Korony, poczta Korony, rejestr przedsiewziec, porzadek obrad Rady, clo, daniny, sady, eskadra, Mur
-  - **BERON** — SEKRETARZ KANCELARII KORONY · _WINTERFELL_ · raport: KROL  ⚠️ tu trafia wszystko koronne; przysiega Krolowi, placi Kasa 3, zostaje gdy Namiestnik odchodzi
-  - **GAWEN** — Skarbnik Korony · _WINTERFELL_ · raport: KROL
-  - **MEDGER CERWYN** — Justycjariusz Polnocy · _ZAMEK CERWYN + objazd_ · raport: KROL
-  - **TORREN SOLNY** — Pierwszy Admiral Korony · _DUSTINPORT_ · raport: KROL  ⚠️ NIE dostal pisma o granicach urzedu - dlug Symona
-  - **OSRIC** — marszalek / oddzial pod Murem · _MUR/w drodze_
-  - **RODRIK CASSEL** — mistrz nad bronia Winterfell · _WINTERFELL_
-  - **LUWIN** — maester Winterfell · _WINTERFELL_
-  - **MYLES** — wybrany przez KROLA na glos przy lordach, X/299 · _WINTERFELL (przyjechal 300-02-19)_
-  - **THEOMORE** — maester, pomiar Przesmyku · _WINTERFELL (przyjechal 300-02-19)_
-  - **KASZTELAN WINTERFELL** — rejestr zamku · _WINTERFELL_
-  - ### SZEW: **GARTH** — czlowiek LENNA stojacy przy komorze celnej KORONY - pobiera clo Kasy 3 reka lenna. Jedyny prawdziwy szew Fosy. Nie dostal pisma o granicach urzedu (obiecane przed przyjazdem Cerwyna).
-  - ### SZEW: **POCZTA KORONY** — przelozony poczty odpowiada Beronowi w Winterfell, ale Garrick nia dysponuje, bo jest na miejscu. Chodzi na zdrowy rozsadek i kiedys przestanie.
+## ⚠️ PUDELKA — pelna tabela w gra/ludzie.json; tu tylko WYJATKI
+- ### `?` NIEPEWNE — NIE WKLADAC W USTA, PYTAC: MARR (DOM_TALLY) · HENDRY (LENNO_FOSY) · RZADCA (LENNO_FOSY)
+- ### SZEW: **GARTH** — czlowiek LENNA stojacy przy komorze celnej KORONY - pobiera clo Kasy 3 reka lenna. Jedyny prawdziwy szew Fosy. Nie dostal pisma o granicach urzedu (ob…
+- ### SZEW: **POCZTA KORONY** — przelozony poczty odpowiada Beronowi w Winterfell, ale Garrick nia dysponuje, bo jest na miejscu. Chodzi na zdrowy rozsadek i kiedys przestanie.
 
 ## 🧩 SPRAWY SIE PRZEPLATAJA — CZYSTE MA BYC ROZSTRZYGNIECIE, NIE SPRAWA
 _LUDZIE maja jedno pudelko. SPRAWY maja ich kilka i tak ma byc. Czyste musi byc nie to, kogo sprawa DOTYKA, tylko: KTO ROZSTRZYGA (jeden), Z CZYJEJ KASY (jedna), KTO PISZE, KTO CZYTA, i KTO NIE MOZE TEGO TKNAC._
 ### SYMON JEST JEDNOCZESNIE: Namiestnikiem Korony, panem lenna Fosy i wlascicielem Domu Tally. KAZDA sprawa na Fosie przechodzi przez wszystkie trzy jego role naraz. To nie jest wada swiata - to jest osnowa calej gry.
-- **PRAWO SKLADU DLA MIASTA CAILIN** — dotyka: Korona, Lenno Fosy, Miasto Cailin, Dom Tally · **rozstrzyga: JUSTYCJARIUSZ CERWYN - bo Symon jest strona**
-- **KOMORA CELNA FOSY** — dotyka: Korona, Lenno Fosy · **rozstrzyga: KORONA (Kasa 3)**
-- **GROBLA I PRZENIOSKA** — dotyka: Korona, Lenno Fosy, Dom Tally · **rozstrzyga: ?**
-- **SPIS MIESZKANCOW MIASTECZKA** — dotyka: Lenno Fosy, Miasto Cailin · **rozstrzyga: ?**
 **Zamiast odsylac NPC, GM pyta:** Ktora CZESC tej sprawy jest twoja? · Kto to ROZSTRZYGA i czy ja jestem strona? · Z ktorej kasy to idzie? · Kto tego NIE MOZE tknac i dlaczego?
+_(pelna lista spraw: gra/sprawy.json)_
+
+## 🧵 KSIEGA ZOBOWIAZAN — SAME WYJATKI (pelna: gra/KSIEGA_ZOBOWIAZAN.md)
+| Symon | odpowiedź **burmistrzowi**: TERMIN, nie łaska | **SPÓŹNIONE — 3 miesiące** | 299-11 |
+| Symon → Theonowi | „będę ci mówił" | **BEZ TERMINU** | 300-02-18 |
+| Gawen | **liczący** — sześć wierszy, ilu ludzi przy której robocie | **BEZ DATY** ⚠️ | 300-02-20 |
+| Cerwyn | wezwanie szafarza demeny + wyrok Hobba | **88 DNI PO TERMINIE** | 300-02-20 |
+| **Przystań Wilka** | dawny brygadzista murarski z Białego Portu | ### CISZA OD 299-08-27 |
+| **Dustinport** | dawny kwatermistrz z chorągwi Cerwynów | ### CISZA OD 299-08-27 |
+| **Starkport / Cypel** | ### PUSTY | ekipa dopiero zbierana |
+| **Trakt: Bliźniaki · Riverrun · Fosa–Cerwyn–Winterfell** | ### PUSTY | policzone, niezaczęte |
+| **Mennica Wilk** | ### PUSTY | dała mniej, niż kosztował stempel |
+| Stannis — Mur, czerwona kapłanka | Wyman / Davos | bez terminu | 299-12-29 |
+| **Bękart Joffreya** | ### BEZ KANAŁU | — | 299 |
+| **Daenerys** | Nesta | III/300 | ### ani jednej drogi |
+| Wylis Manderly — jeniec | Wyman | ### bez ruchu od jesieni | — |
 
 ## ⏳ TERMINY Z DATA
 - **300-03-01** — OCHMISTRZ WYCHOWANKOW - ogloszenie nazwiska  _(Winterfell)_

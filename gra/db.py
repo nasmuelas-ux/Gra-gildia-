@@ -10,7 +10,8 @@ ZRODLO PRAWDY = tekst:
 UZYCIE Z LINII POLECEN
   python3 gra/db.py pokaz <klucz> [ile]      ostatnie wpisy watku/npc (domyslnie 5)
   python3 gra/db.py szukaj <fraza> [ile]     pelnotekstowo po calym dzienniku
-  python3 gra/db.py otwarte [ile]            watki nierozstrzygniete
+  python3 gra/db.py otwarte [ile]
+  python3 gra/db.py sprawdz <kto>       pudelko/urzad/siedziba/zobowiazania NPC            watki nierozstrzygniete
   python3 gra/db.py dzien <RRR-MM-DD>        wszystko z danego dnia
   python3 gra/db.py indeks                   przebuduj indeks SQLite
   python3 gra/db.py dopisz <zrodlo> <klucz> <data> <tresc>
@@ -184,6 +185,43 @@ def main(argv):
         for x in watki(otwarte_tylko=True)[-ile:]:
             print("- %s [%s] %s" % (x.get("id"), x.get("status", "?"),
                                     _skrot(x.get("tytul") or "", 90)))
+    elif cmd == "sprawdz":
+        kto = (argv[2] if len(argv) > 2 else "").upper()
+        import io as _io, json as _json, os as _os
+        _D = _os.path.dirname(_os.path.abspath(__file__))
+        def _load(f):
+            try:
+                return _json.load(_io.open(_os.path.join(_D, f), encoding="utf-8"))
+            except Exception:
+                return {}
+        lud = _load("ludzie.json")
+        print("=== %s ===" % (kto or "(podaj imie)"))
+        for box in ("DOM_TALLY", "LENNO_FOSY", "KORONA"):
+            b = lud.get(box) or {}
+            for o in (b.get("ludzie") or []):
+                if kto and kto in o.get("imie", "").upper():
+                    print("PUDELKO : %s (Kasa %s)" % (box, b.get("kasa", "?")))
+                    print("URZAD   : %s" % o.get("urzad", "?"))
+                    print("SIEDZIBA: %s" % o.get("siedziba", "?"))
+                    if o.get("raportuje"): print("RAPORT  : %s" % o["raportuje"])
+                    if o.get("co_NIE_do_niego"): print("!! NIE DO NIEGO: %s" % o["co_NIE_do_niego"])
+                    if o.get("uwaga"): print("!! UWAGA: %s" % o["uwaga"])
+                    if o.get("pewne") is False: print("!! NIEPEWNE - NIE WKLADAC W USTA, ZAPYTAC GRACZA")
+                    if b.get("co_tu_NIE_nalezy"):
+                        print("!! DO TEGO PUDELKA NIE NALEZY: %s" % ", ".join(b["co_tu_NIE_nalezy"]))
+        for sz in (lud.get("SZWY") or []):
+            if kto and kto in sz.get("kto", "").upper():
+                print("!! SZEW: %s" % sz.get("opis", ""))
+        try:
+            kz = _io.open(_os.path.join(_D, "KSIEGA_ZOBOWIAZAN.md"), encoding="utf-8").read()
+            hit = [l.strip() for l in kz.splitlines()
+                   if l.strip().startswith("|") and kto and kto in l.upper()]
+            if hit:
+                print("--- ZOBOWIAZANIA ---")
+                for l in hit: print(l)
+        except Exception:
+            pass
+        return 0
     elif cmd == "indeks":
         print("indeks zbudowany, wpisow: %d" % zbuduj_indeks())
     elif cmd == "dopisz":

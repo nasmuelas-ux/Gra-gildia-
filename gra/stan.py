@@ -120,32 +120,41 @@ if rep:
 # --- KTO CZYJ JEST + TERMINY (dodane 300-02-25, po pomyleniu watkow przez GM) ---
 lud = L("ludzie.json") or {}
 if lud:
-    A("\n## ⚠️ TRZY PUDELKA — SPRAWDZ PRZED KAZDA SCENA Z NPC")
-    A("_" + lud.get("_zasada","") + "_")
+    A("\n## ⚠️ PUDELKA — pelna tabela w gra/ludzie.json; tu tylko WYJATKI")
+    niepewni = []
     for box in ("DOM_TALLY", "LENNO_FOSY", "KORONA"):
-        b = lud.get(box) or {}
-        if not b: continue
-        A("\n**%s** (Kasa %s) — %s" % (box.replace("_"," "), b.get("kasa","?"),
-            ", ".join(b.get("co_tu_nalezy", []))[:160]))
-        if b.get("co_tu_NIE_nalezy"):
-            A("  - ### NIE TU: " + ", ".join(b["co_tu_NIE_nalezy"])[:160])
-        for osoba in (b.get("ludzie") or []):
-            A("  - **%s** — %s · _%s_%s%s" % (osoba.get("imie","?"), osoba.get("urzad","?"),
-                osoba.get("siedziba","?"),
-                (" · raport: " + osoba["raportuje"]) if osoba.get("raportuje") else "",
-                ("  ⚠️ " + osoba["uwaga"]) if osoba.get("uwaga") else ""))
+        for osoba in ((lud.get(box) or {}).get("ludzie") or []):
+            if osoba.get("pewne") is False:
+                niepewni.append("%s (%s)" % (osoba.get("imie","?"), box))
+    if niepewni:
+        A("- ### `?` NIEPEWNE — NIE WKLADAC W USTA, PYTAC: " + " · ".join(niepewni))
     for sz in (lud.get("SZWY") or []):
-        A("  - ### SZEW: **%s** — %s" % (sz.get("kto","?"), sz.get("opis","")))
+        A("- ### SZEW: **%s** — %s" % (sz.get("kto","?"), skrot(sz.get("opis",""), 150)))
 
 spr = L("sprawy.json") or {}
 if spr:
     A("\n## 🧩 SPRAWY SIE PRZEPLATAJA — CZYSTE MA BYC ROZSTRZYGNIECIE, NIE SPRAWA")
     A("_" + spr.get("_zasada_glowna","") + "_")
     A("### " + spr.get("_szew_glowny",""))
-    for sp in (spr.get("sprawy") or []):
-        A("- **%s** — dotyka: %s · **rozstrzyga: %s**" % (sp.get("nazwa","?"),
-            ", ".join(sp.get("dotyka", [])), sp.get("rozstrzyga", sp.get("wlasciciel_dochodu","?"))))
     A("**Zamiast odsylac NPC, GM pyta:** " + " · ".join(spr.get("pytania_ktore_gm_ma_zadac_zamiast_odsylac", [])))
+    A("_(pelna lista spraw: gra/sprawy.json)_")
+
+
+try:
+    kz = io.open(os.path.join(D, "KSIEGA_ZOBOWIAZAN.md"), encoding="utf-8").read()
+    MARK = ("SPOZNIONE", "SPÓŹNIONE", "BEZ TERMINU", "BEZ DATY", "PUSTY",
+            "CISZA OD", "BEZ KANALU", "BEZ KANAŁU", "BEZ RUCHU", "PO TERMINIE",
+            "ANI JEDNEJ DROGI", "NIE MA GO WCALE")
+    wyj = [l.strip() for l in kz.splitlines()
+           if l.strip().startswith("|") and any(m in l.upper() for m in MARK)]
+    if wyj:
+        A("\n## 🧵 KSIEGA ZOBOWIAZAN — SAME WYJATKI (pelna: gra/KSIEGA_ZOBOWIAZAN.md)")
+        for l in wyj[:14]:
+            A(l)
+except Exception:
+    pass
+
+
 
 ter = L("terminy.json") or {}
 if ter.get("terminy"):

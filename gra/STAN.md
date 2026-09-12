@@ -34,10 +34,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-02-25 ranek · zima (300)
-- **Miejsce:** FOSA CAILIN - wlasne lenno. Przyjazd po czterech miesiacach. Cerwyn przyjezdza 2.-5. III na trzy dni.
+- **Data:** 300-02-25 zmierzch · zima (300)
+- **Miejsce:** BROD pod Fosa Cailin (wyprawa 300-02-26). Fosa: Warryn prowadzi przywilej, termin 300-03-07.
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 85 · Sytosc 51 · Zmeczenie 31**
+- **Zdrowie 85 · Sytosc 38 · Zmeczenie 54**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -117,8 +117,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 - ◆ `?` jaime_dzwignia_tywin: 298-11-01 (rzut 58): Jaime=najciezsza karta na Tywina, wart TRZYMANY nie wydany. Robb pojal: (a…
 - ◆ `NIEAKTUALNY — Renly nie zyje (stan_poludnia_zelazny_tron_299_07); do rozstrzygniecia, czy sonda idzie ku samym Tyrellom` renly_sonda: 298-11-01 (rzut 48): cichy feeler ku Renly'emu/Tyrellom siatka Symona (deniable, low-commitment…
 
-## WATKI OTWARTE (663; ostatnie 45 — pelna lista: `python3 gra/db.py otwarte`)
-- `lista_wymian_jencow_korony_299_11` [otwarty] 
+## WATKI OTWARTE (664; ostatnie 45 — pelna lista: `python3 gra/db.py otwarte`)
 - `przeprawa_zimowa_do_braavos_299_12` [otwarty] 
 - `ilario_wagowy_braavos_299_12` [otwarty] 
 - `sukcesja_morskiego_pana_braavos_299_12` [otwarty] 
@@ -163,10 +162,9 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `nina_zielarka_fosy` [otwarty] 
 - `maester_wystan_fosy` [otwarty] 
 - `rozdroze_placowka_domu_tally` [otwarty] 
+- `kto_skupuje_zboze_w_dorzeczu` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-02-25] `lenno/WARRYN`: ### PRZYWILEJ BAGIENNY - ROZKAZ GRACZA, noc 300-02-25. Spisany w calosci jako gra/przywilej_bagienny_fosa_300_02.md. ### TRESC: (a) ZBUDOWAC MLYN; (b) przywilej lokacyjny na grunt w miescie;…
-- [300-02-25] `projekt_cailin`: ### MLYN - ROZSTRZYGNIECIE GRACZA: KOLO W SLUZIE, GNIAZDO NA WAL. Rozkaz idzie do WEYLINA I ORBELA RAZEM (woda i kamien podpisuja wspolnie, 'nie po randze, po materii' - zasada z 300-02-07).…
 - [300-02-25] `program_rozwoju_fosy_miasteczko_cailin_299_06`: ### MLYN - ROZSTRZYGNIECIE GRACZA: KOLO W SLUZIE, GNIAZDO NA WAL. Rozkaz idzie do WEYLINA I ORBELA RAZEM (woda i kamien podpisuja wspolnie, 'nie po randze, po materii' - zasada z 300-02-07).…
 - [300-02-25] `lenno/HENDRY`: ### MLYN - ROZSTRZYGNIECIE GRACZA: KOLO W SLUZIE, GNIAZDO NA WAL. Rozkaz idzie do WEYLINA I ORBELA RAZEM (woda i kamien podpisuja wspolnie, 'nie po randze, po materii' - zasada z 300-02-07).…
 - [300-02-25] `program_rozwoju_fosy_miasteczko_cailin_299_06`: ### LIST DO HOWLANDA REEDA - ROZSTRZYGNIECIE GRACZA. Idzie, zanim pozycje krannogmenskie wyjda na slup. ### KANAL (zasada 34 - bez kanalu nie ma wiadomosci): GREYWATER WATCH SIE PRZENOSI, NI…
@@ -177,3 +175,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-02-26] `pogoda_300_02_26`: RZUT 82 - ODWILZ SIE POGLEBILA I W NOCY SPADL DESZCZ. Cieplo od poludniowego zachodu drugi dzien; z dachow leje, snieg zszedl do polowy, koleiny rozmiekly NA WYLOT, nie tylko od wierzchu. SK…
 - [300-02-26] `spis_mieszkancow_fosy_299_06`: ### INBOUND 300-02-26 - RZUT 30, KANAL WYLOSOWANY Z LISTY 'CO SLEDZIMY': ROZDROZE (Crossroads Inn), placowka Domu Tally, melduje na biezaco. Rzut niski, wiec MELDUNEK CIENKI - ruch widziany,…
 - [300-02-26] `rozdroze_placowka_domu_tally`: ### INBOUND 300-02-26 - RZUT 30, KANAL WYLOSOWANY Z LISTY 'CO SLEDZIMY': ROZDROZE (Crossroads Inn), placowka Domu Tally, melduje na biezaco. Rzut niski, wiec MELDUNEK CIENKI - ruch widziany,…
+- [300-02-26] `woz_w_lodzie_przy_brodzie_299_09`: ### SYMON POJECHAL NA BROD - dzien drogi od Fosy, w deszczu, ze Stenem i dziesiecioma. Przybycie o zmierzchu 300-02-26. ### RZUT 49 (jeden rzut na sprawe; poprzedni byl 35 na 299-10-01, ale …
+- [300-02-26] `kto_skupuje_zboze_w_dorzeczu`: ### SYMON POJECHAL NA BROD - dzien drogi od Fosy, w deszczu, ze Stenem i dziesiecioma. Przybycie o zmierzchu 300-02-26. ### RZUT 49 (jeden rzut na sprawe; poprzedni byl 35 na 299-10-01, ale …

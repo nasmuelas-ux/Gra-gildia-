@@ -5694,7 +5694,7 @@
   {
    "id": "woz_w_lodzie_przy_brodzie_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "filar": "WOZ W LODZIE PRZY BRODZIE - nierozwiazane",
    "stan_watku": "ZYWY"
   },
@@ -6131,6 +6131,11 @@
   },
   {
    "id": "rozdroze_placowka_domu_tally",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "kto_skupuje_zboze_w_dorzeczu",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

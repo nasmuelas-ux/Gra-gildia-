@@ -82,7 +82,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon | **granice urzędu także dla straży Hendry'ego przy komorze** — kogo wolno zatrzymać, czego NIE wolno, do czyjej księgi wpis | z pismem dla Gartha | 300-02-25 |
 | Garth + Symon | **zmierzyć PONOWNIE dziurę w komorach wodnych** — więcej rąk znaczy, że *powinna* spaść, nie że spadła | przed 300-03-01 | 300-02-25 |
 | Symon → **Cerwynowi** | **zarzut Donelli: dokąd idzie praca skazańca** *(wstrzymała protokół 299-11-15)* | **300-03-02…05** | 300-02-25 |
-| Symon | **wóz w lodzie** — odpytać Hendry'ego, Gartha, rządcę, przewoźników z brodu | przy okazji | 300-02-25 |
+| ### Symon | ### **WÓZ WYDOBYTY 300-02-26** *(rzut 49)*: oś i obręcze **z Traktu Królewskiego — z południa** · obręcze starte głęboko, **jechał daleko i obciążony** · **ziarno w szparach pokładu**. Nadal bez nazwiska, właściciela, ciała i konia. **Pytanie brzmi teraz: czyje zboże, nie czyj wóz** | ### przeprawy nie ma na kilka dni | 300-02-26 |
+| Symon | **wóz w lodzie — dokończyć odpytanie:** Garth (księga bramy), sołtys Sitowej *(kto go widział w drodze)*, przewoźnicy, i czwarty świadek: **ktoś spośród czterystu przybyszów** | przed 300-03-07 | 300-02-26 |
 | Symon | **model zagrożenia → pakiet reform na Radę**; ułożyć jako *co stawiamy*, nie *gdzie nas można wziąć* — na sali będą Boltonowie | **300-04-01** | 300-02-25 |
 | Nesta | fracht zachodni + łupacz kamienia | odpowiedź V/300 | 300-02-19 |
 | Nesta | księga Antaryonów (pierwsza w kolejce) | — | 300-01-27 |

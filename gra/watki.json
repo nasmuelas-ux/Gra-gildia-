@@ -3350,7 +3350,7 @@
    "id": "lenno_fosa_cailin_administracja_299_05",
    "tytul": "Administracja Lenna Fosy Cailin (osobna od Domu Handlowego) - urzedy, obsada, wakaty do rekrutacji",
    "status": "LENNO administracja W KOMPLECIE (Rzadca dobr=Warryn)",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
@@ -4568,7 +4568,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 13,
+   "_dziennik_nota": 14,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -6117,7 +6117,7 @@
   {
    "id": "rzadca_warryn",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   }
  ]
 }

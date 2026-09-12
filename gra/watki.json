@@ -6035,7 +6035,7 @@
   {
    "id": "szkola_tallych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "filar": "SZKOLA TALLYCH",
    "stan_watku": "ZYWY"
   },
@@ -6153,7 +6153,7 @@
   {
    "id": "gawen_skarbnik",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "system_danin",

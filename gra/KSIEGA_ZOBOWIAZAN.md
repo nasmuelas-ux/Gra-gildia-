@@ -32,7 +32,9 @@ Na start tylko to, co pewne z ostatnich dni:
 | ### Symon | ### **LIST DO CATELYN — przez Lucana czy dalej leży u Warryna?** W nim traktat z **300-02-07**, **którego ona nie zna, a negocjuje**. Miał być wręczony do rąk własnych „gdyby tędy przejeżdżała" — **ona tędy nie przejeżdża** | ### decyzja wisi | 300-02-27 |
 | Gawen | Ochmistrz Wychowanków — ogłoszenie nazwiska | 300-03-01 | 300-02-16 |
 | Gawen | Mistrz Zapasów Zimowych (etap I) | — | 300-02-15 |
-| Gawen | **liczący** — sześć wierszy, ilu ludzi przy której robocie | **BEZ DATY** ⚠️ | 300-02-20 |
+| **Gawen** | **liczący — sześć wierszy, ilu ludzi przy której robocie.** ### **DATA: 300-04-01, NA RADĘ** — choćby niepełne, z rubryką „nie policzone" | **300-04-01** | 300-02-27 |
+| **pisarze z Fosy → Gawen** | **ludzie dani.** Warryn: **trzech jedzie, trzech zostaje** *(sześciu to wszyscy — zostały dwie wsie, rejestr dniówek i losowanie działek)* | z najbliższą kolumną | 300-02-27 |
+| ### Symon | ### **pisarze przechodzą na ŻOŁD KASY 3** — z imienia, z datą przejścia. Inaczej lenno płaci za liczenie Korony i **kolumna 695 rośnie jeszcze raz**. *Nie dar Namiestnika — pozycja w budżecie* | ### przy wyjeździe pisarzy | 300-02-27 |
 | Cerwyn | czystopis kodeksu + **trzeci odpis u maestera w Winterfell** | 300-03-02 | 300-02-20 |
 | Cerwyn | wykaz wymian pod własną pieczęcią, do URZĘDU | po decyzji Króla | 300-02-19 |
 | Cerwyn | trzy pytania do dziewięciu kasztelanów (240 imion) | tygodnie | 300-02-19 |

@@ -3454,7 +3454,7 @@
    "id": "zelazni_na_morzu_balon_299_06",
    "tytul": "Zelazni na morzu / Balon krolem-samozwancem - sprawa panstwa (front zachodni)",
    "status": "STRATEGIA_PRZYJETA_299-06-08_splot_dzwigni",
-   "_dziennik_nota": 13
+   "_dziennik_nota": 14
   },
   {
    "id": "mira_lyra_u_catelyn_299_06",
@@ -6157,6 +6157,16 @@
   },
   {
    "id": "system_danin",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "theon_greyjoy",
+   "status": "otwarty",
+   "_dziennik_nota": 2
+  },
+  {
+   "id": "program_okretow_modelowe_kadluby_299_12",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

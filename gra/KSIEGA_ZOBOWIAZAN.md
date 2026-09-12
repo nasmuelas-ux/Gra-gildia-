@@ -27,7 +27,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | miasto Cailin | **ZATWIERDZONE 300-02-27, wszystkie trzy:** ① **nowy wagowy z wyboru — Herwin przestaje ważyć** ② **działki losuje ława jawnie**, lista z imionami na słupie ③ **na słupie dwa znaki** — pieczęć pana za nadanie, znak miasta za wykonanie | wykonuje miasto | 300-02-27 |
 | ### miasto Cailin | ### **jedna waga na dziewięć rzemiosł** — zgłosiło się kilkunastu, za miesiąc będzie stu, a wagowy jest jeden, bo został burmistrzem | ### przed wiosną | 300-02-27 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
-| Symon → Theonowi | „będę ci mówił" | **BEZ TERMINU** | 300-02-18 |
+| Symon → Theonowi | „będę ci mówił" — **tanie do dotrzymania: Theon idzie do DUSTINPORT** *(doradza przy budowie okrętów, uczy admirała walki)*, a Dustinport melduje od 300-03-01. **Jedna linijka do istniejącej karty, nie nowy kanał** | z meldunkami Dustinport | 300-02-27 |
+| ### **Torren Solny** | ### **meldunek eskadry, osiem rubryk — NIE PRZYSZEDŁ.** Od tego zależy, czy Theon jedzie do Dustinport, czy wraca z Symonem 07. **Czekamy do 300-02-28** | ### **300-03-07** | 300-02-27 |
 | **LADY CATELYN** | **SIEDZI W RIVERRUN I NEGOCJUJE Z TULLYMI** — od jesieni. Trasa: zachód → danina *(Bryen za nią)* → **przez Fosę jesienią 299** → Dorzecze. **Nie jest tu spodziewana i nigdy nie była** | — | 300-02-27 |
 | ### Symon | ### **LIST DO CATELYN — przez Lucana czy dalej leży u Warryna?** W nim traktat z **300-02-07**, **którego ona nie zna, a negocjuje**. Miał być wręczony do rąk własnych „gdyby tędy przejeżdżała" — **ona tędy nie przejeżdża** | ### decyzja wisi | 300-02-27 |
 | Gawen | Ochmistrz Wychowanków — ogłoszenie nazwiska | 300-03-01 | 300-02-16 |

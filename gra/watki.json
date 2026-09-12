@@ -774,7 +774,8 @@
    "id": "zimowy_relief",
    "status": "ZAWIAZANY z Owenem (d26, rzut 88): zimowy relief dla ubogich Bialego Portu — 'akcja Wiary, wsparta przez kupcow portu'. STRUKTURA: skladka W NATURZE od koalicji (Leona welna/sukno=ciepla odziez; kolodzieje odpad drzewny na opal=dlug wdziecznosci; Wenda/przekupki jadlo; Nesta/kantor drobny grosz) -> ROZDAJE Wiara przez septe/sierociniec wg ksiegi jalmuzny (Owen zna najubozszych; Hal wspolprowadzil ksiege). Owen: moralna powaga sciaga kupcow (poboznosc+twarz), rozdzial GODNY (nie upokarzajaca jalmuzna), a Symona TRZYMA W CIENIU (koordynator, nie fundator; osłona przed nadmierna widocznoscia). Owen 43->45, rep wiara 39->40. NASTEPNY KROK: szybka runda kupcow (Leona/Boren/Wenda/Nesta) po skladki w naturze, ZANIM ~5 XI ugryzie mroz. Potencjal: moze urosnac w coroczna instytucje = trwaly kapital u Wiary. || d27 (Leona rzut 55): PIERWSZA SKLADKA — Leona daje bele grubszej welny + sukienne resztki na ciepla odziez dla ubogich (rozsadnie, nie ruinujaco; widzi swoj interes: poboznosc/twarz/spokoj portu). Leona 39->40. Hal na rundzie (patrzy+pomaga, nast->41). Zostaje: kolodzieje (opal/odpad), Wenda/przekupki (jadlo), Nesta/kantor (grosz). Zbiorka do ~11-04 -> Owen. || d27 (Boren rzut 55): DRUGA SKLADKA — kolodzieje daja odpad drzewny (scinki/heblowiny) na opal, czeladnicy wiaza w wiazki; dla cechu to niemal darmo + dlug wdziecznosci + dobra twarz. Boren 38->39. Zebrano 2/4 (Leona odziez + kolodzieje opal). Zostaje: Wenda/przekupki (jadlo), Nesta/kantor (grosz). || d27 (Wenda rzut 51): TRZECIA SKLADKA — Wenda skrzykuje kilka przekupek: solona/suszona ryba, wczorajszy towar, resztki na || 12-24 (rzut 84): relief (siec+ksiega Hala+kolodzieje) dzialal sprawnie pod najgorszym mrozem - k || 12-25 (rzut 26): spad mrozu - popyt>podaz; ostra triage (najslabsi pierwsi), organizacja(6) powstrzymala katastrofe (bez trupa/tumultu) ale nie stworzyla dostatku. ZAPASY CIENIEJA (mroz+dodatek ko || 12-27 (rzut 75): petycja dopracowana z Owenem - ostra, framing porzadek+hojnosc lorda, hak nie z || 12-29 AUDIENCJA UDANA (rzut 82/83): lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wi",
    "filar": "ZIMOWY RELIEF z Owenem",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "zelazo_gulltown",
@@ -3109,7 +3110,8 @@
    "status": "OZNACZONY_plotka_nie_fakt_wildcard_do_obserwacji",
    "nota": "1128 (rzut 36): strzepy z Braavos/Wolnych Miast - ostatnia Targaryenka daleko na wschodzie (Qarth), szept o SMOKACH (dziki, powazni machaja reka). Plotka nie fakt ALE 'nie gaśnie' (opowiesci o wygnancach zwykle gasna, ta wraca). Symon odklada na horyzont oznaczone (czynnik zewnetrzny wywraca wage w noc - Aegon+smoki). Nie dziala; obserwuje. Willa dalej nasluchuje.",
    "filar": "DAENERYS",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "plan_kampania_westerland_pincer_1128",
@@ -3901,7 +3903,8 @@
    "status": "OTWARTY_299-07-06",
    "nota": "07-06 Edmure zgodzil sie z entuzjazmem. Filia komercyjna Domu Tally w Riverrun: handel/zboze/korytarz/kanal Olenny + ciche oko i logistyka Symona w Dorzeczu (jak posterunek Castle Black - forward node). Kasa1 inwestycja. Wiaze North-Dorzecze gospodarczo. Obsadzic (Hal-Dyrektor koordynuje).",
    "filar": "ODDZIAL DOMU W RIVERRUN",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "frey_sukcesja_zwiazanie_przez_edmure_299_07",
@@ -5336,7 +5339,8 @@
    "priorytet": "wysoki",
    "tytul": "Rejestr danin Polnocy - metoda powszechna, liczby ustala Rada na wniosek Skarbnika; rola JAWNA z woli Krola; Fosa = wzor rachunku, nie stawka wzorcowa",
    "filar": "REJESTR DANIN (ksiega, osobno od systemu)",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "ziemie_bez_pana_kamienisty_brzeg_299_09",
@@ -5360,7 +5364,8 @@
    "priorytet": "wysoki",
    "tytul": "POLICZ TALERZE - re-taskowanie placowki Domu w Czarnym Zamku: rola przydzialow miesiac po miesiacu i FORMA skreslenia; czeka na odpowiedz Hala",
    "filar": "POLICZ TALERZE - Czarny Zamek",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
@@ -5380,7 +5385,8 @@
    "priorytet": "sredni",
    "tytul": "Wezel Domu na zachodnim wybrzezu = jedyne oczy tam, gdzie Korona ich nie ma. Symon zglasza sie jako strona Skarbnikowi i Radzie.",
    "filar": "WEZEL ZACHODNI - biala plama Korony",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "odpis_ksiegi_myta_do_skarbu_299_09",
@@ -5462,7 +5468,8 @@
    "priorytet": "wysoki",
    "tytul": "Czlowiek do krukow i ksiag zamiast maestera - dwa-trzy lata zamiast szesnastu (rachunek Luwina). Jedyna odpowiedz na cicha grozbe przydzialow. Luwin szkoli od zaraz, po cichu",
    "filar": "LUDZIE DO KRUKOW I KSIAG zamiast maestera",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "mistrz_nauki_tytul_czy_cisza_299_09",
@@ -5491,7 +5498,8 @@
    "priorytet": "sredni",
    "tytul": "Sansa uczy dziedziny X kanonu (mowa i sluchanie) - probnie. Rozstrzygniecie metodyczne: nie uczy sie widzenia, uczy sie czterech czynnosci",
    "filar": "SANSA UCZY - dziedzina dziesiata",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "_dziennik_nota": 1
   },
   {
    "id": "zbior_swiadectw_polnocy_299_09",

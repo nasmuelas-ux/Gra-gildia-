@@ -22,7 +22,10 @@ Na start tylko to, co pewne z ostatnich dni:
 | ### NIKT | **pomiar przewłoki** — najkrótsza prosta Cailin → słona woda | ### przed wytyczeniem czegokolwiek | 300-02-25 |
 | Symon | **prawo o składach** — pisze SAM, Cerwyn nie tknie. ### **To jest jedyne narzędzie na legalnego hurtowego kupca** *(cło jest na wywóz, a Stannis kupuje wewnątrz Północy)* — licencja / pułap / rejestr, kto może kupować ilościami | przed 300-03-02 | 300-02-27 |
 | ### Symon / Garth | ### **KSIĘGA BRAMY ZA DZIEWIĄTY MIESIĄC** — rozstrzyga bez śledztwa, czy istnieje droga na południe z pominięciem komory. *Pismo w tej sprawie poszło już raz 299-09-09 — sprawdzić, czy wróciła odpowiedź* | ### przed 300-03-07 | 300-02-27 |
-| Symon | odpowiedź **burmistrzowi**: TERMIN, nie łaska | **SPÓŹNIONE — 3 miesiące** | 299-11 |
+| ~~Symon: odpowiedź burmistrzowi~~ | **DANE 300-02-27: „Korona odpowie PO RADZIE" (300-04-01).** Herwin Szala wypisuje to na słupie — *data na słupie broni się sama* | wykonane | 300-02-27 |
+| Herwin Szala | **na słup, pierwsze:** *„przeszkody nie ma, zostało tylko nadanie"* — blokada prawa składu **zdjęta 300-01-26** i nikt mu nie powiedział. Przez ten miesiąc dwa razy odmówił szopy; jeden człowiek sprzedał wóz i poszedł | **300-02-28** | 300-02-27 |
+| ### Symon | ### **trzy propozycje burmistrza — czekają na słowo:** ① **odebrać mu wagę** *(miasto wybiera nowego wagowego; kto zarządza, nie mierzy sam siebie)* ② **działki losuje ława jawnie**, lista z imionami na słupie ③ **na słupie dwa znaki** — pieczęć pana za nadanie, znak miasta za wykonanie | ### decyzja wisi | 300-02-27 |
+| ### miasto Cailin | ### **jedna waga na dziewięć rzemiosł** — zgłosiło się kilkunastu, za miesiąc będzie stu, a wagowy jest jeden, bo został burmistrzem | ### przed wiosną | 300-02-27 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
 | Symon → Theonowi | „będę ci mówił" | **BEZ TERMINU** | 300-02-18 |
 | **LADY CATELYN** | **SIEDZI W RIVERRUN I NEGOCJUJE Z TULLYMI** — od jesieni. Trasa: zachód → danina *(Bryen za nią)* → **przez Fosę jesienią 299** → Dorzecze. **Nie jest tu spodziewana i nigdy nie była** | — | 300-02-27 |

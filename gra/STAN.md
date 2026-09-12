@@ -63,7 +63,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 | **projekt Cailin** | **PUNKT 10 — PRACE POSZCZEGÓLNE** dopisany: odcinek po odcinku, klasa gruntu, obiekty od sztuki, cena ze standardu. ### *Żaden odcinek bez nazwiska i bez daty* | `gra/projekt_cailin.md` | 300-02-27 |
 | **Symon → Nesta** | **co słyszała o DAENERYS TARGARYEN** — pierwsza próba ruszenia białej plamy, przy której stoi *„ani jednej drogi"* | wysłane 300-02-27 | 300-02-27 |
 | ### **Symon → Nesta** | ### **ZBADAĆ BRAAVIJSKIE DOMY HANDLOWE** — sprawdzone: **nie było zlecone nigdzie**. Nowe zlecenie, nie przypomnienie | ### bez terminu | 300-02-27 |
-| ### **KARHOLD — PRZYSTAŃ** | ### **wschód nie ma portu** *(zapis własny, dwukrotnie)*, a **Wschodnia Strażnica jest zaopatrywana morzem i ostatni żagiel poszedł 299-10-23**. Rickard staje się **człowiekiem, przez którego idzie zaopatrzenie Straży** — nie maść na dumę, robota. ### ⚠ **MUSI DOSTAĆ DATĘ I PŁATNIKA**, inaczej drugi raz na tym samym człowieku *(„termin bez daty nie jest terminem")* | ### **do ogłoszenia 300-04-01** | 300-02-28 |
 | ### **Garrick** *(nie Korona)* | ### **REJESTRY LOCKE'ÓW + POCHODZENIE** — **rozdzielone z listu do Króla.** Dwie własne ręce, **Kasa 1**, wpisane jawnie jako **sprawa prywatna Namiestnika** *(jak stoi od 299-09-11: „ni jeden człowiek Korony")*. Żadnego kruka Korony | **bez terminu** | 300-02-28 |
 | **Kancelaria → sześciu mistrzów** | **TRZY LICZBY ŁAŃCUCHA — jeden tekst, sześć odpisów, co do przecinka:** przerób 20→60 wozów · najcięższy niepodzielny = **kamień młyński ośmiowołowy, 60 stóp** · kadłub *Muł* 40×12, pusty, **nigdy statek morski** | **wychodzi o świcie 300-03-01** | 300-02-28 |
 | Cerwyn | wezwanie szafarza demeny + wyrok Hobba | **88 DNI PO TERMINIE** — **pytanie pada w twarz na Fosie 03-02…05, pisma przed nim nie ma.** ⚠️ *przywozi pisarza Skarbnika — świadka, którego nie da się wyprosić* | 300-02-27 |
@@ -73,6 +72,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 | **Trakt: Bliźniaki · Riverrun · Fosa–Cerwyn–Winterfell** | ### PUSTY | policzone, niezaczęte |
 | **Mennica Wilk** | ### PUSTY | dała mniej, niż kosztował stempel |
 | **Stannis — Mur, czerwona kapłanka** | Wyman / Davos | bez terminu | ### 300-02-27 — **jego ludzie kupują żywność w Białym Porcie**: małymi partiami, u wielu kupców, srebrem. **Legalnie — cło jest na wywóz, a Mur leży na Północy.** Wyman nie dopisał komentarza i to jest komentarz |
+| **Daenerys** | Nesta | III/300 | ### ani jednej drogi |
 
 ## ⏳ TERMINY Z DATA
 - **300-03-01** — OCHMISTRZ WYCHOWANKOW - ogloszenie nazwiska  _(Winterfell)_

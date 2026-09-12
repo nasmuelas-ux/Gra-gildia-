@@ -216,18 +216,32 @@
     }
   ],
   "PRZY_NAMIESTNIKU_ZAWSZE": {
-    "_zasada": "Namiestnik NIGDY nie jest sam. Dwaj pisarze przy stole, przyboczni za drzwiami. Prowadzacy ma o tym pamietac w KAZDEJ scenie, bez przypominania.",
-    "pisarze": [
+    "_zasada": "Namiestnik NIGDY nie jest sam. Dwaj PRYWATNI pisarze przy stole, przyboczni za drzwiami. Prowadzacy ma o tym pamietac w KAZDEJ scenie, bez przypominania.",
+    "_rozroznienie_ktore_ma_znaczenie": "PRYWATNI PISARZE SA SYMONA. PISARZE KANCELARII SA URZEDU. To nie jest ta sama reka i nie ten sam papier.",
+    "pisarze_prywatni": [
       {
         "imie": "HARMON",
-        "urzad": "Sekretarz Kancelarii Namiestnika",
-        "od": "299-05-24"
+        "kto": "prywatny pisarz Symona, jezdzi z nim",
+        "kasa": 1
       },
       {
         "imie": "ALDWIN",
-        "urzad": "Pisarz Kancelarii Namiestnika",
-        "od": "299-05-24"
+        "kto": "prywatny pisarz Symona, jezdzi z nim",
+        "kasa": 1
       }
+    ],
+    "pisarze_kancelarii": {
+      "imiona": "NIENAZWANI - i to jest w porzadku (zasada 12: kryterium to OBSADZENIE, nie nazwisko)",
+      "kto": "pisarze Kancelarii Namiestnika; siedza przy urzedzie, nie przy czlowieku",
+      "zwierzchnik": "GARRICK, kanclerz",
+      "kasa": "1 (Kancelaria Namiestnika jest na utrzymaniu Domu; kancelaria Korony to Beron w Winterfell)",
+      "uwaga": "Imie pojawi sie, gdy cos pojdzie nie tak albo gdy gracz spojrzy (zasada 15) - i wtedy zostanie na zawsze."
+    },
+    "co_ktory_pisze": [
+      "PRYWATNY: to, co Symon pisze JAKO SYMON - listy wlasnej reki, notatki, rachunki Domu, rzeczy, ktore maja zostac jego.",
+      "KANCELARYJNY: to, co wychodzi Z URZEDU - protokoly, odpisy, rejestry, pisma, ktore maja przetrwac urzednika.",
+      "SZEW: akt Korony spisany reka prywatnego pisarza jest wazny, ale NALEZY DO CZLOWIEKA, NIE DO URZEDU. W dniu, w ktorym Symon przestaje byc Namiestnikiem, ten papier wychodzi razem z nim - a nastepca zostaje z pustym regalem.",
+      "DLATEGO: co ma przetrwac urzad, pisze kancelaria. Co ma zostac Symona, pisza Harmon i Aldwin. Przy stole sa obaj rodzaje, i to Symon rozstrzyga, KTORY BIERZE PIORO."
     ],
     "co_z_tego_wynika": [
       "Kazda rozmowa moze byc spisana W CHWILI, w ktorej sie odbywa - protokol przy stole, nie wieczorem z pamieci.",

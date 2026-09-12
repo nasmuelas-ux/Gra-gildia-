@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -4794,7 +4794,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 28,
+   "_dziennik_nota": 29,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -4950,7 +4950,7 @@
    "id": "taryfa_celna_polnocy_299_09",
    "tytul": "Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu",
    "status": "projekt_do_polozenia_przed_krolem",
-   "_dziennik_nota": 19,
+   "_dziennik_nota": 20,
    "filar": "TARYFA CELNA POLNOCY",
    "stan_watku": "ZYWY"
   },
@@ -5714,7 +5714,7 @@
   {
    "id": "danina_karholdu_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 16,
+   "_dziennik_nota": 17,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel D - Danina Karholdu pobrana, dzien zamkniety."
@@ -5730,7 +5730,7 @@
   {
    "id": "raport_osrica_z_muru_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "filar": "OSRIC - raporty z Muru",
    "stan_watku": "ZYWY"
   },
@@ -5970,14 +5970,14 @@
   {
    "id": "zakaz_wylacznosci_faktora_i_porty_jako_komory_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "filar": "ZAKAZ WYLACZNOSCI FAKTORA / porty jako komory",
    "stan_watku": "ZYWY"
   },
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 18,
+   "_dziennik_nota": 19,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6049,7 +6049,7 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -6148,7 +6148,7 @@
   {
    "id": "roose_bolton",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "gawen_skarbnik",
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 12
   },
   {
    "id": "pochodzenie_symona_299_09",
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   }
  ]
 }

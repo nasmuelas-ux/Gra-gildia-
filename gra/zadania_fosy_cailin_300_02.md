@@ -707,3 +707,24 @@ Manderly chce wyłączności bez wyjątków. Tally nie może mieć łańcucha, k
 4. **Umowę trzeba wysłać, zanim ktokolwiek wbije pierwszy pal w Ujściu.** *Kto buduje przed podpisem, negocjuje z kamieniem w ręku i płaci za to cenę.*
 
 > **I to jest właściwa odpowiedź na jego zdanie o prawnuku:** rzecz, która ma trzymać przez pokolenia, stoi na **dwóch nogach naraz** — na geografii *(miasto bez wschodniej wody, w planie)* i na piśmie *(Ujście jako dok, w umowie)*. Jedna noga to za mało; on to wiedział, mówiąc to pierwszy raz.
+
+---
+
+## VI. ŁAŃCUCH I UJŚCIE — ZADANIA
+
+| # | zadanie | kto | do kiedy | kasa | blokada |
+|---|---|---|---|---|---|
+| 6.1 | **UMOWA Z BIAŁYM PORTEM — siedem artykułów, czystopis** | **Symon, ręką własną** | **przed pierwszym palem w Ujściu** | — | art. VII do wynegocjowania |
+| 6.2 | Wysłać umowę Wymanowi + odpowiedź | Symon → Wyman | kruk, dni | — | 6.1 |
+| 6.3 | **TRZY LICZBY — jeden tekst do wszystkich mistrzów** *(Bran, Orbelo, Donnel Obrok, mistrz Manderlych, brygadzista, Garth)* | Kancelaria *(Garrick)* | z tym samym gońcem co reszta | 1 | — |
+| 6.4 | Trzy liczby **na słup** przy komorze i przy placu, obok karty celnej | Garth · Bran | po 6.3 | 2 | — |
+| 6.5 | **ZWIAD KAMIENIA NA ZACHODZIE** — Zatoka Ognista i Kamienisty Brzeg · *jeden zwiad ze Starkportem, nie dwa* | ### NIKT | ### wiosna 300 | 3? | brak człowieka |
+| 6.6 | **POMIAR RZEKI FEVER** — głębokości, bystrza, mielizny · **i ile tygodni stoi pod lodem** | ### NIKT | ### przed obietnicą jakiegokolwiek terminu dostawy | 2 | brak człowieka |
+| 6.7 | **POMIAR PRZEWŁOKI** — najkrótsza prosta z Cailin do słonej wody; osobno linia wozów, osobno linia włóki | ### NIKT | ### przed wytyczeniem czegokolwiek | 2 | brak człowieka |
+| 6.8 | **Nauka od Reedów → WŁASNA ZAŁOGA SPŁAWU** *(nie pożyczona)* | zlecone 299-08-23 | ### PÓŁ ROKU BEZ ODPOWIEDZI | 2 | — |
+| 6.9 | Baszta Gorącego Portu — **przypisać kasę** | Symon | przed projektem | ### BRAK | 6.5 |
+| 6.10 | Ujście — pomost, żurawie, plac, waga, szopa | ### NIKT | po 6.2 i 6.7 | 2 | umowa i pomiar |
+
+> **Trzy pomiary (6.5–6.7) są tańsze od wszystkiego innego w tym dokumencie i blokują najwięcej.**
+> Nie trzeba na nie kamienia ani kafara — trzeba **trzech ludzi, którzy umieją mierzyć, i jednej zimy.**
+> **Dopóki ich nie ma, każda data w tym projekcie jest zgadywana.**

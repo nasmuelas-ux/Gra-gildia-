@@ -15,6 +15,11 @@ Na start tylko to, co pewne z ostatnich dni:
 | kto | co | do kiedy | ostatnio ruszone |
 |---|---|---|---|
 | Symon | pismo o granicach urzędu dla **Gartha** | przed przyjazdem Cerwyna | 300-02-25 |
+| Symon → **Wymanowi** | **umowa o UJŚCIU** — siedem artykułów; dok, nie port | **przed pierwszym palem w Ujściu** | 300-02-25 |
+| Kancelaria | **trzy liczby łańcucha** — jeden tekst do sześciu mistrzów, co do przecinka | z najbliższym gońcem | 300-02-25 |
+| ### NIKT | **zwiad kamienia na zachodzie** *(wspólny ze Starkportem)* | ### wiosna 300 | 300-02-25 |
+| ### NIKT | **pomiar rzeki Fever** + ile tygodni pod lodem | ### przed jakąkolwiek obietnicą terminu | 300-02-25 |
+| ### NIKT | **pomiar przewłoki** — najkrótsza prosta Cailin → słona woda | ### przed wytyczeniem czegokolwiek | 300-02-25 |
 | Symon | **prawo o składach** — pisze SAM, Cerwyn nie tknie | przed 300-03-02 | 300-02-20 |
 | Symon | odpowiedź **burmistrzowi**: TERMIN, nie łaska | **SPÓŹNIONE — 3 miesiące** | 299-11 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
@@ -61,6 +66,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Trakt: Bliźniaki · Riverrun · Fosa–Cerwyn–Winterfell** | ### PUSTY | policzone, niezaczęte |
 | **Mennica Wilk** | ### PUSTY | dała mniej, niż kosztował stempel |
 | **Mur — dwudziestu drwali** | Osric | od IV/300 |
+| **UJŚCIE — dok na wschodnim krańcu przewłoki** | ### NIKT | czeka na umowę z Wymanem i na pomiar przewłoki |
+| **Gorący Port + baszta** *(zachód, ujście Fever)* | ### NIKT · ### BRAK KASY | czeka na zwiad kamienia |
 
 ---
 

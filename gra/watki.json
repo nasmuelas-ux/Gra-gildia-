@@ -868,7 +868,10 @@
    "_dziennik_stan": 2,
    "status": "zamkniety",
    "_dziennik_opis": 2,
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Odbyl sie."
   },
   {
    "id": "poddasze_serli_lokator",
@@ -1521,7 +1524,10 @@
    "priorytet": "wysoki",
    "_dziennik_opis": 6,
    "chrzest_lyry_0702": "298-07-02: Lyra OCHRZCZONA w septie (Owen) przed wyjazdem Symona. Mira rozmawiala z mezem o wyjezdzie do Cerwynow - ZROZUMIALA (to jej len jedzie ta droga), poparla osobista podroz, warunek: 'wracaj cala liczba, nie zostawaj przy okazji tydzien dluzej'. Symon: najpierw chrzest, potem droga.",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Odbyl sie."
   },
   {
    "id": "roldan_probe_09_21",
@@ -2273,7 +2279,9 @@
    "tytul": "Budowa instytucji Domu (Willa/wywiad + Lucan/polityka)",
    "status": "aktywny",
    "_dziennik_stan": 2,
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "filar": "WYWIAD DOMU - Willa i Lucan",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "osobista_oslona_symona_1015",
@@ -2332,7 +2340,9 @@
    "id": "szukanie_corek_neda_1019",
    "tytul": "Szukanie corek Neda - Sansa i Arya",
    "status": "ROZWIAZANY_ARYA_W_DOMU_reunion_z_Robbem_i_Catelyn_kanon_odwrocony_firewall_caly",
-   "_dziennik_nota": 29
+   "_dziennik_nota": 29,
+   "filar": "CORKI NEDA - Sansa i Arya",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "model_boltona_watchlist_1020",
@@ -2459,7 +2469,10 @@
    "id": "syn_wymana_wylis_jeniec_1102",
    "tytul": "Ser Wylis Manderly (dziedzic Wymana) - prawdopodobnie jeniec Lannisterow",
    "status": "DOMKNIETY_Wylis_wrocil_kruk_do_Wymana_dlug_wzajemnosci_splacony",
-   "_dziennik_nota": 17
+   "_dziennik_nota": 18,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). ### WYLIS WOLNY. Zapis 298-11-16/18/20: wypuszczony, eskortowany na polnoc, wrocil do obozu, kruk do Wymana wyslany, reunion za murami Bialego Portu. Dlug wzajemnosci wobec pierwszego patrona DOMKNIETY. (To jest ten zapis, ktoremu 300-02-25 rano zaprzeczylem, wymyslajac wiersz 'Wylis - jeniec, bez ruchu od jesieni'.)"
   },
   {
    "id": "garnizon_winterfell_doom_prewencja_1102",
@@ -3050,7 +3063,10 @@
    "id": "powrot_do_domu_mira_lyra_299_05",
    "tytul": "Powrot do Bialego Portu - Mira i Lyra (ludzkie sedno)",
    "status": "W_DOMU_pytanie_o_wspolny_dom_otwarte",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Wrocily."
   },
   {
    "id": "plan_przyszlosci_dom_tally_299_05",
@@ -3086,7 +3102,9 @@
    "id": "dom_handlowy_tally_299_05",
    "tytul": "Dom Handlowy Tally - instytucjonalizacja imperium (Hal Dyrektorem Generalnym, siedziba Fosa/operacje BP)",
    "status": "STATUT_KOMPLETNY_dyr+doradczyni+aktywa+horyzont_Essos+Bank_gotowe_do_pieczeci",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "filar": "DOM HANDLOWY TALLY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "horyzont_essoski_faktoria_tally_braavos_299_05",
@@ -3098,7 +3116,10 @@
    "id": "struktura_dom_handlowy_tally_299_05",
    "tytul": "Struktura organizacyjna Domu Handlowego Tally (wenecko/medycejska: centrala+siec+giovani, kontrole)",
    "status": "KIEROWNICTWO_KOMPLETNE: Hal/Tam/Willa/Beron; gotowe do pieczeci",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 11,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "trzy_domeny_trzy_kasy_299_05",
@@ -3131,7 +3152,10 @@
    "id": "wizyta_wyman_299_05_25",
    "tytul": "Wizyta u Wymana (299-05-25) - status projektow + umocnienie sojuszu + wspolpraca przy Fosie",
    "status": "SOJUSZ_UMOCNIONY_3_konkrety_na_ere_budowania",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Wizyta odbyta."
   },
   {
    "id": "rejestr_kancelarii_namiestnika_299_05",
@@ -3152,7 +3176,9 @@
    "id": "rewizorzy_objazdowi_hodowla_299_05",
    "tytul": "Rewizorzy objazdowi - korpus niezaleznej kontroli (nie do kupienia - hodowany z wychowankow)",
    "status": "NIEOBSADZONY_rzut16_interim=oko_Symona_dluga_gra=wychowankowie",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "filar": "REWIZORZY OBJAZDOWI",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "puls_dolu_czy_wolne_krolestwo_siega_do_garnka_299_05",
@@ -3212,7 +3238,10 @@
    "id": "mira_lyra_u_catelyn_299_06",
    "tytul": "Mira i Lyra przedstawione Lady Catelyn w Winterfell",
    "status": "cieple_przyjecie",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Przedstawione."
   },
   {
    "id": "budowa_panstwa_gospodarka_moneta_prawo_kadra_299_06",
@@ -3287,7 +3316,10 @@
    "id": "kruk_nocna_straz_mur_299_06",
    "tytul": "Kruk do Nocnej Strazy - 'Krolestwo Polnocy pamieta', pytanie o potrzeby",
    "status": "wyslany_odpowiedz_pending",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Kruk wyslany."
   },
   {
    "id": "staranie_drugie_dziecko_tally_299_06",
@@ -3383,7 +3415,10 @@
    "id": "przetarg_z_wymanem_299_06",
    "tytul": "Przetarg z Wymanem (Theomore + fach Przystani) - 'pogadajmy jak kupcy'",
    "status": "PRZYSTAN_rozwiazana_udzial_Manderly; THEOMORE_wciaz_otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Przetarg rozegrany."
   },
   {
    "id": "wizja_krola_robba_kompas_299_06",
@@ -3453,7 +3488,10 @@
    "id": "odpowiedz_nocnej_strazy_mur_zima_299_06",
    "tytul": "Odpowiedz Nocnej Strazy - Mur wola o ludzi/ziarno + ZLE ZA MUREM (horda dzikich, Mormont zaginiony) = horyzont zimy krystalizuje",
    "status": "ZWIAD_HENDRYEGO_WROCIL_299-08-04_ton_ciezki_Dluga_Noc_krystalizuje",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 10,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Odpowiedz przyszla."
   },
   {
    "id": "barrowlandy_dustin_bolton_wciagniecie_299_06",
@@ -3562,7 +3600,10 @@
    "id": "spis_flory_przesmyku_wystan_nina_299_06",
    "tytul": "Spis jadalnej i leczniczej flory bagna - misja Wystana z Niną (jadlo z bagna + apteka + ksiega Przesmyku)",
    "status": "ZLECONA_299-06-25_start_szorstki_plon_dojrzeje",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "zasoby_i_zagrozenia_bagna_fosy_299_06",
@@ -3589,7 +3630,9 @@
    "id": "jon_snow_krew_neda_na_murze_299_06",
    "tytul": "Jon Snow - krew Neda na Murze; sekret Howlanda (nieoddany) + cichy kanal (Nymeria)",
    "status": "ODNOTOWANE_299-06-27",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 11,
+   "filar": "JON SNOW (drugi zapis - patrz jon_snow_po_drugiej_stronie)",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "posterunek_tally_castle_black_299_06",
@@ -3601,13 +3644,19 @@
    "id": "zwiad_tally_na_mur_mormont_299_06",
    "tytul": "Zwiad Tally na Mur - rozgarniety czlowiek do Castle Black (stan Strazy + sprawa Mormonta)",
    "status": "ZLECONY_HENDRYEMU_299-06-27",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Zwiad wyslany."
   },
   {
    "id": "sprawozdanie_dla_robba_objazd_299_06",
    "tytul": "Sprawozdanie dla Robba - pelny raport z objazdu + Mur (przez rame Catelyn)",
    "status": "WYSLANE_299-06-27",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Sprawozdanie zlozone."
   },
   {
    "id": "integralnosc_symona_slowo_swiete_299_06",
@@ -3684,7 +3733,10 @@
    "id": "sprawozdanie_dla_robba_objazd_299_07",
    "tytul": "Sprawozdanie dla Krola Robba (capstone objazdu + Poludnie + Mur) - podzielone kruk/osobiscie, Mur ulozony z Catelyn",
    "status": "ZLOZONE_299-07-06",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Capstone objazdu zlozony."
   },
   {
    "id": "ludzie_dorzecza_uchodzcy_przestepcy_299_07",
@@ -3721,7 +3773,9 @@
    "id": "cien_za_baelishem_299_07",
    "tytul": "Cien za Baelishem - operacja wywiadowcza Willi (przez swiat monety/Rozdroze-Dolina)",
    "status": "URUCHOMIONY_07-24_WYNIK_DOJRZEJE_tygodnie_rzut66_zabankowany",
-   "_dziennik_nota": 20
+   "_dziennik_nota": 20,
+   "filar": "BAELISH",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "audyt_domu_handlowego_papier_baelisha_299_07",
@@ -3766,7 +3820,10 @@
    "id": "rada_wojenna_mur_299_08",
    "tytul": "Rada wojenna o Murze (Robb+Catelyn+Symon) - 4 rozstrzygniecia",
    "status": "ODBYTA_299-08-04_wybrano_ZDOBYC_PEWNOSC",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Rada odbyta, cztery rozstrzygniecia zapadly."
   },
   {
    "id": "oddzial_rozpoznawczy_mur_299_08",
@@ -3778,7 +3835,9 @@
    "id": "hornwood_proznia_dreadfort_299_08",
    "tytul": "Hornwood - proznia sukcesyjna, cichy noz Dreadfortu, rozwiazanie Korony",
    "status": "DELEGOWANE_GLOVEROWI_299-08-04_Symon_tempo_krukiem_WYNIK_DOJRZEJE_dni",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "filar": "HORNWOOD - proznia sukcesyjna",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "miara_polnocna_standard_299_08",
@@ -3836,13 +3895,19 @@
    "id": "mira_lyra_na_wesele_299_08",
    "tytul": "Mira i Lyra wezwane na wesele Krola do Winterfell",
    "status": "WEZWANE_299-08-05_dojada_w_por",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Przyjechaly."
   },
   {
    "id": "orszak_freyow_winterfell_kurtuazja_299_08",
    "tytul": "Orszak Freyow w Winterfell - honor gosci + uprzedzenie tarcia z lordami Polnocy",
    "status": "UGASZONE_299-08-05_przez_Robba_wg_planu_Symona_rzut45_chlod_podskorny_zostaje",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Orszak przyjety."
   },
   {
    "id": "status_symona_szlachcic_299_08",
@@ -3878,7 +3943,9 @@
    "id": "kodeks_prawa_polnocy_299_08",
    "tytul": "Kodeks Prawa Wolnej Polnocy - spisany do Wielkiej Rady (3 warstwy, prio A-B-C)",
    "status": "SPISANY_299-08_dok_do_ratyfikacji_Wielkiej_Rady",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "KODEKS PRAWA WOLNEJ POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "ujecie_miekkich_domow_dreadfortu_299_08",
@@ -3954,7 +4021,9 @@
    "id": "kryzys_zimowego_ziarna_299_08",
    "tytul": "KRYZYS zimowego ziarna - Polnoc nie ma dosc zboza, zima idzie wczesnie i twardo",
    "status": "KRYZYS_299-08-12_Korona_przejela_stan_wyjatkowy_(port_Bialy_NIE_zamarza=arteria_cala_zime;walka=grosz/deficyt/snieg_w_glab_nie_lod_portu)",
-   "_dziennik_nota": 33
+   "_dziennik_nota": 33,
+   "filar": "KRYZYS ZIMOWEGO ZIARNA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "kompania_polnoc_dorzecze_299_08",
@@ -3996,7 +4065,10 @@
    "tytul": "NASTEPSTWO NAZWANE 299-09-16: dziedzic Brandon Stark; Rada Regencyjna Cerwyn/Manderly/Umber; opieka lady Catelyn osobno; akt dzis w trzech odpisach, obwieszczenie na zjezdzie bez Namiestnika",
    "status": "otwarty",
    "_dziennik_nota": 5,
-   "priorytet": "wysoki"
+   "priorytet": "wysoki",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Nastepstwo nazwane 299-09-16: dziedzic Brandon Stark, Rada Regencyjna ustalona."
   },
   {
    "id": "gwardia_krolewska_299_08",
@@ -4017,7 +4089,10 @@
    "id": "robb_do_freyow_i_regencja_winterfell_299_08",
    "tytul": "Robb jedzie do Freyow po weselu (honor paktu); Symon trzyma Winterfell, potem wschod",
    "status": "USTALONE_299-08-12",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Pojechal, Symon trzymal Winterfell."
   },
   {
    "id": "rolka_musteru_299_08",
@@ -4044,7 +4119,10 @@
    "id": "kruk_z_muru_dluga_noc_299_08",
    "tytul": "Kruk z Muru (Czarny Zamek) - Wielki Zwiad przepadl, Mormont martwy w buncie, UMARLI WSTAJA, horda Mance pod Mur, blaganie do Krola",
    "status": "ODEBRANY_299-08-14_potwierdzony_lacznikiem_Tally",
-   "_dziennik_nota": 14
+   "_dziennik_nota": 14,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Kruk przyszedl."
   },
   {
    "id": "strategia_murowa_zwloka_konsolidacja_299_08",
@@ -4089,7 +4167,10 @@
    "id": "wesele_robb_roslin_299_08_16",
    "tytul": "SLUB Robba z Roslin Frey (czardrzewo Winterfell) - pierwszy szew wolnej Polnocy, odwrocone Czerwone Wesele",
    "status": "ODBYTE_299-08-16_pokoj_z_Freyami_przypieczetowany",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Slub odbyty - pierwszy szew wolnej Polnocy."
   },
   {
    "id": "dzieci_starkow_bez_steru_299_08",
@@ -4113,7 +4194,10 @@
    "id": "wyjazd_miry_do_bp_299_08",
    "tytul": "Wyjazd Miry i Lyry do Bialego Portu (kolumna Manderlych, 299-08-22) + opieka na czas ciazy",
    "status": "ZAMKNIETY_299-08-29_DOJECHALI_CALI",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Wyjechaly 299-08-22."
   },
   {
    "id": "komora_celna_fosy_pod_skarbnika_299_08",
@@ -4131,13 +4215,19 @@
    "id": "sprawa_denneta_i_morna_299_08_20",
    "tytul": "Sad Namiestnika: mlynarz Dennet z Kamiennego Brodu uniewinniony, gospodarz Morn wezwany na 3 dni",
    "status": "ROZSTRZYGNIETA_299-09-02_UNIEWINNIENIE_Z_WYSTEPKU+POUCZENIE+WPIS_DO_KSIEGI;_kon_oplacony;_OTWARTE_reka_Morna_i_dwoje_z_przysiolka",
-   "_dziennik_nota": 17
+   "_dziennik_nota": 17,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Wyrok wydany - mlynarz Dennet uniewinniony."
   },
   {
    "id": "sprawa_okaleczonego_zimowe_miasto_299_08",
    "tytul": "Sprawa okaleczonego w Zimowym Miescie - czeladz wyjezdzonego lorda, rodzina zada sadu",
    "status": "ZAMKNIETA_299-08-29:_Karstark_osadzil_swojego_czlowieka_(chlosta,_odebranie_broni,_rok_bez_sluzby)_i_PLACI_CENE_KRWI_Koronie;_jurysdykcja_nienaruszona_z_obu_stron",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 8,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Sprawa rozstrzygnieta."
   },
   {
    "id": "kompania_pierwszy_list_dorzecza_299_08",
@@ -4204,13 +4294,19 @@
    "id": "rekalibracja_skali_ekonomicznej_299_08",
    "tytul": "REKALIBRACJA SKALI EKONOMICZNEJ - liczymy w smokach, nie w jeleniach (trwala korekta)",
    "status": "WPISANA_299-08-26_(korekta_II:_model_gracza_przyjety);_pulap_300-500_smokow_zysku/mies,_dzis_200-300;_majatek_domu_4000-6000_smokow",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "archiwum_fosy_spis_wiedzy_299_08",
    "tytul": "ARCHIWUM FOSY - spis wiedzy miejscowej (Nina, flora bagna, nauka Reedow, metoda krannogmenska) pod regula zapisu Brana",
    "status": "ROZKAZ_WYDANY_299-08-26;_aparat_obsadzony;_poselstwo_do_Reedow_w_drodze",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "soltysi_i_samorzad_lenna_299_08",
@@ -4250,7 +4346,9 @@
    "id": "mistrz_handlu_i_portow_polnocy_299_08",
    "tytul": "MISTRZ HANDLU I PORTOW POLNOCY - nowy urzad Korony na KADENCJE (5 lat), proponowany Wymanowi",
    "status": "KARTA_SPISANA_299-08-28;_czeka_na_powolanie_przez_Robba_po_powrocie,_potem_Symon_niesie_ja_Wymanowi_SAM_na_objezdzie_wschodu",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 8,
+   "filar": "MISTRZ HANDLU I PORTOW POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "antaryon_oferta_braavos_299_08",
@@ -4271,7 +4369,10 @@
    "id": "zniwa_w_sniegu_i_pierwsi_przybysze_299_08",
    "tytul": "Zniwa w sniegu i pierwsi przybysze po karcie - cwierc zbioru uratowana, 40+ ludzi zostaje na zime",
    "status": "ROZWIAZANE_299-09-01:_40+_przybyszow_ZATRUDNIONYCH_na_zime_przy_suszeniu_zboza_i_robocie_domeny,_zywionych_z_tego,_co_sami_uratowali;_osadzenie_na_zagrodach_NA_WIOSNE",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Zniwa zebrane - cwierc zbioru uratowana."
   },
   {
    "id": "ottar_pierwszy_pekajacy_faktor_299_09",
@@ -4349,7 +4450,9 @@
    "id": "system_danin_polnocy_299_09",
    "tytul": "SYSTEM DANIN NA POLNOCY - trzy poziomy poboru, rama nadrzedna dla wszystkich rachunkow",
    "status": "USTALONY_299-09-04_dokument_nadrzedny",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "filar": "SYSTEM DANIN POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "danina_lenna_fosy_do_korony_299_09",
@@ -4385,13 +4488,18 @@
    "id": "spis_przedsiebiorstw_299_09",
    "tytul": "SPIS PRZEDSIEBIORSTW domu i lenna - inwentarz wlasny w porzadku trzech kas",
    "status": "SPORZADZONY_299-09-05",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "dar_ziemia_bez_rak_299_09",
    "tytul": "DAR - ziemia bez rak obok rak bez ziemi; zanim stanie sie ziemia, musi stac sie granica",
    "status": "OTWARTY_299-09-05;_blokada:_Mormont_nie_wrocil,_horda_za_Murem",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "DAR - ziemia bez rak",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "reforma_spolek_domu_tally_299_09",
@@ -4429,7 +4537,9 @@
    "id": "mobilizacja_trzy_stopnie_299_09",
    "tytul": "MOBILIZACJA - trzy stopnie z rachunkiem ziarna przy kazdym",
    "status": "STOPIEN_I_GOTOWY_(200_mieczy,_10_dni);_II_i_III_projekty_wymagajace_slowa_krola",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "MOBILIZACJA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "poselstwo_osrica_do_czarnego_zamku_299_09",
@@ -4472,7 +4582,10 @@
    "id": "stawka_przewozowa_korony_299_09",
    "tytul": "Stawka przewozowa Korony - podpisana i ogloszona",
    "status": "zamkniete_z_ogonem",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Podpisana i ogloszona."
   },
   {
    "id": "trop_ognia_w_bialym_porcie_299_09",
@@ -4514,7 +4627,10 @@
    "id": "spotkanie_z_howlandem_reedem_dluga_noc_299_09",
    "tytul": "Spotkanie z Howlandem Reedem - Dzieci Lasu, Wielki Inny, Dluga Noc",
    "status": "list_wyslany_czeka_na_pogode",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Spotkanie odbyte."
   },
   {
    "id": "czy_przesmyk_podlega_wezwaniu_korony_299_09",
@@ -4526,7 +4642,10 @@
    "id": "wybory_burmistrza_w_zamieci_precedens_299_09_09",
    "tytul": "Pierwsze wybory Polnocy w zamieci - urna otwarta, dzien nieruszony",
    "status": "rozstrzygniete_oswyn_miarka_149_z_347",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Wybory odbyte, urna otwarta, dzien nieruszony - precedens stoi."
   },
   {
    "id": "standard_traktu_polnocy_i_liczba_dla_krola_299_09",
@@ -4554,7 +4673,9 @@
    "id": "taryfa_celna_polnocy_299_09",
    "tytul": "Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu",
    "status": "projekt_do_polozenia_przed_krolem",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 8,
+   "filar": "TARYFA CELNA POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "pomiar_przesmyku_reka_krannogow_299_09",
@@ -4566,13 +4687,17 @@
    "id": "ustroj_miast_polnocy_299_09",
    "tytul": "Ustroj i rejestr miast Polnocy - miasta panskie, nie wolne",
    "status": "wykladnia_przyjeta",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "filar": "USTROJ MIAST POLNOCY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "grunt_przystani_wilka_trzy_strony_299_09",
    "tytul": "Przystan Wilka - miasto o udzialach: Korona 1/2, Cerwyn 1/4, Manderly 1/4",
    "status": "domkniete_z_cerwynem_czeka_na_manderly_i_krola",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "PRZYSTAN WILKA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "karta_cailin_pisana_zawczasu_299_09",
@@ -4584,13 +4709,19 @@
    "id": "lista_z_rozwidlenia_299_09_09",
    "tytul": "Lista imion z rozwidlenia - kola i osie, barka na czczo, nazwisko ktore nie padlo",
    "status": "otwarta_do_sprawdzenia",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "spis_przedsiewziec_korony_299_09_10",
    "tytul": "Spis przedsiewziec Korony - kto prowadzi, ile kosztuje, czego brakuje",
    "status": "gotowy_przed_krola",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "eskadra_ktora_lowi_koszt_floty_299_09",
@@ -4608,13 +4739,17 @@
    "id": "kancelaria_namiestnika_299_09_10",
    "tytul": "Kancelaria Namiestnika - urzad, ktory ma przetrwac urzednika",
    "status": "stoi_jako_po_do_potwierdzenia_przez_krola",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 11,
+   "filar": "KANCELARIA NAMIESTNIKA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "poczta_korony_stala_linia_299_09",
    "tytul": "Poczta Korony - stala linia Winterfell-Fosa-Bialy Port",
    "status": "ustanowiona_do_uruchomienia",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "filar": "POCZTA KORONY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "misja_do_dorzecza_catelyn_299_09",
@@ -4622,7 +4757,10 @@
    "status": "otwarty",
    "_dziennik_nota": 7,
    "priorytet": "wysoki",
-   "termin": "wyjazd wiosna 300"
+   "termin": "wyjazd wiosna 300",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Catelyn spytana osobiscie, zgodzila sie, pojechala."
   },
   {
    "id": "rymowanka_do_osmiu_299_09_10",
@@ -4640,13 +4778,18 @@
    "id": "ustroj_urzedow_redundancja_299_09_10",
    "tytul": "Ustroj urzedow i KADRY Korony - p.o. niesie robote, nie obejmuje urzedu",
    "status": "projekt_narada_dzis_rada_po_powrocie_krola",
-   "_dziennik_nota": 12
+   "_dziennik_nota": 12,
+   "filar": "USTROJ URZEDOW I KADRY KORONY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "kadry_korony_ilu_umie_czytac_299_09_10",
    "tytul": "Kadry Korony - 40-60 rak potrzeba, dwadziescia jest, polowa u Tallych",
    "status": "do_polozenia_przed_krolem_pierwszym_zdaniem",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "stypendium_korony_uczniowie_299_09_10",
@@ -4694,7 +4837,10 @@
    "id": "piec_dziur_z_narady_299_09_10",
    "tytul": "Piec dziur z narady - kto placi rewizje, sedziowie, Cytadela, Rodwell, eskorta objazdu",
    "status": "odpowiedziane_projekt_zetapowany",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "etapy_budowy_administracji_299_09_10",
@@ -4736,7 +4882,10 @@
    "id": "skup_scinkow_ogloszona_cena_299_09_10",
    "tytul": "Ogloszona cena skupu scinkow - Mira i Leona, papier dla panstwa",
    "status": "list_wyslany",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Cena ogloszona."
   },
   {
    "id": "sansa_chce_roboty_nie_opieki_299_09_10",
@@ -4748,7 +4897,10 @@
    "id": "relacja_sansy_z_czerwonej_twierdzy_299_09_10",
    "tytul": "Relacja Sansy - Joffrey, Cersei, Tyrion; stracenie Neda bylo kaprysem, nie planem",
    "status": "przerwana_pytaniem_komu_to_powtorzycie",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "wyznal_bo_mnie_zobaczyl_299_09_10",
@@ -4777,7 +4929,10 @@
    "status": "otwarty",
    "_dziennik_nota": 1,
    "priorytet": "sredni",
-   "tytul": "Sansa - ZGODA na siatke dana przez nia sama, z dwoma nowymi warunkami: jej imie tez nie jedzie; ma wiedziec PO fakcie, kiedy jej slowa cos komus zrobily"
+   "tytul": "Sansa - ZGODA na siatke dana przez nia sama, z dwoma nowymi warunkami: jej imie tez nie jedzie; ma wiedziec PO fakcie, kiedy jej slowa cos komus zrobily",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Zgoda dana przez nia sama, z dwoma warunkami."
   },
   {
    "id": "ucho_korony_druga_siatka_299_09",
@@ -4806,7 +4961,10 @@
   {
    "id": "kalendarz_terminow_korony_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "nauka_ciecia_sadowego_299_09",
@@ -4882,7 +5040,10 @@
    "status": "rozstrzygniete",
    "_dziennik_nota": 1,
    "priorytet": "sredni",
-   "tytul": "Sansa przy Roslin - ZGODA, ale BEZ TYTULU I BEZ OGLOSZENIA (jej warunek: \"tytul na dworze jest klatka z ladna nazwa\"); dochodzi do tej samej konstrukcji co Luwin, sama i niezaleznie"
+   "tytul": "Sansa przy Roslin - ZGODA, ale BEZ TYTULU I BEZ OGLOSZENIA (jej warunek: \"tytul na dworze jest klatka z ladna nazwa\"); dochodzi do tej samej konstrukcji co Luwin, sama i niezaleznie",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Zgoda dana, bez tytulu i bez ogloszenia - jej warunek."
   },
   {
    "id": "zwiazac_nastepce_freya_299_09",
@@ -4970,7 +5131,10 @@
    "status": "otwarty",
    "_dziennik_nota": 1,
    "priorytet": "sredni",
-   "tytul": "Odpis ksiegi myta do Skarbu co miesiac - Fosa robi to sama i niepytana od zaraz; nalozenie tego na innych lennikow idzie na Rade jako wniosek"
+   "tytul": "Odpis ksiegi myta do Skarbu co miesiac - Fosa robi to sama i niepytana od zaraz; nalozenie tego na innych lennikow idzie na Rade jako wniosek",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Fosa robi to sama i niepytana - zwyczaj ustanowiony."
   },
   {
    "id": "zjazd_choragwi_przysiega_na_korone_299_09",
@@ -4985,7 +5149,10 @@
    "status": "otwarty",
    "priorytet": "sredni",
    "tytul": "Bran i Catelyn WIEDZA (09-16). Nie wiedza: Rickon, Sansa, Arya, trzej nazwani lordowie",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie. Powiedziane 299-09-16. Nie wiedza dalej: Rickon, Sansa, Arya."
   },
   {
    "id": "rickon_drugie_ogniwo_linii_299_09",
@@ -5006,7 +5173,10 @@
    "status": "zrealizowany",
    "_dziennik_nota": 6,
    "priorytet": "wysoki",
-   "tytul": "KANON NAUKI RODU STARKOW - ZATWIERDZONY PRZEZ KROLA 299-09-16, pod pieczec. Puste zostaja dwa miejsca: rachunek i rzemioslo"
+   "tytul": "KANON NAUKI RODU STARKOW - ZATWIERDZONY PRZEZ KROLA 299-09-16, pod pieczec. Puste zostaja dwa miejsca: rachunek i rzemioslo",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Kanon zatwierdzony przez Krola 299-09-16, pod pieczecia."
   },
   {
    "id": "maloletni_krol_a_karta_zimowej_strazy_299_09",
@@ -5020,7 +5190,10 @@
    "id": "kolegium_polnocy_maesterowie_299_09",
    "status": "uniewazniony",
    "_dziennik_nota": 3,
-   "tytul": "VOID - Cytadela Polnocy to GLEBOKORZEN. Oba bledne pliki usuniete"
+   "tytul": "VOID - Cytadela Polnocy to GLEBOKORZEN. Oba bledne pliki usuniete",
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - VOID juz w zapisie - Cytadela Polnocy to GLEBOKORZEN; oba bledne pliki usuniete."
   },
   {
    "id": "zastepcy_do_krukow_i_ksiag_299_09",
@@ -5033,7 +5206,10 @@
    "status": "rozstrzygniete",
    "priorytet": "wysoki",
    "tytul": "Mistrz Nauki - ROBOTA BEZ TYTULU: akt spisany i zapieczetowany dzis, ogloszenie po spelnieniu trzech warunkow; wladza przez pismo okazywane zamknietej liscie, nie przez proklamacje",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Akt spisany i zapieczetowany - robota bez tytulu przyjeta."
   },
   {
    "id": "krol_staje_do_proby_szczebla_II_299_09",
@@ -5041,7 +5217,10 @@
    "priorytet": "wysoki",
    "termin": "przed zjazdem choragwi, w miare mozliwosci przed wyjazdem Namiestnika",
    "tytul": "ODWOLANE - proba Krola zamienialaby kanon w sprawdzian zdatnosci do korony i rozbrajala klauzule V napisana dla Brana. Zamiast egzaminu: godzina ze Skarbnikiem nad prawdziwa ksiega celna",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - ODWOLANE w zapisie - proba Krola zamienialaby kanon w sprawdzian zdatnosci do korony."
   },
   {
    "id": "sansa_uczy_dziedziny_dziesiatej_299_09",
@@ -5096,7 +5275,10 @@
   {
    "id": "wyman_manderly_przyjazd_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel C - zdarzenie, ktore sie zdarzylo (zasada 36: operacja z dniem i koncem). Przyjechal."
   },
   {
    "id": "rewizja_i_drugi_pisarz_dziura_299_09",
@@ -5116,7 +5298,10 @@
   {
    "id": "rejestr_imion_lordow_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
   },
   {
    "id": "granice_poselstwa_namiestnik_za_morzem_299_09",

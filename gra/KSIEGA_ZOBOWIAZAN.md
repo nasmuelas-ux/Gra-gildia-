@@ -105,8 +105,9 @@ Na start tylko to, co pewne z ostatnich dni:
 | Warryn | **poręka siewu na słup rano: DŁUG Z DATĄ** — korzec za korzec, bez lichwy, zwrot po żniwach; wpis pisarz grodzki, świadkują dwaj z ławy wsi. **Kto nie wziął, nic nie jest winien** | **300-02-26** | 300-02-25 |
 | ### ławy przysięgłych | ### **żniwa 300 — pierwsza EGZEKUCJA, nie wybór.** Ktoś nie odda i ława będzie musiała ściągnąć od sąsiada, którego zna z imienia. *Wtedy się okaże, czy ławy są urzędem, czy ozdobą* | ### żniwa 300 | 300-02-25 |
 | Orland Korzec | **szklarnie wchodzą do karty jako pozycja żywnościowa** — i obok nich **ile opału zjadają**. Ten sam torf grzeje chałupy: *świeże jadło zimą kupujemy ciepłem, którego nie ma w domach* | z kartą od 300-02-26 | 300-02-25 |
-| Symon | **druga uczennica dla Niny** | — | 300-02-25 |
-| Symon / Hal | **cena ogłoszona dla mchu bagiennego** — Nina zbiera, wozy biorą, nikt nie wie dokąd ani po ile. *Jak to jest towar, to niech ma cenę* | — | 300-02-25 |
+| **NINA** | **druga uczennica — WYBIERA ONA**, Symon zatwierdza osobę. Źródła: rejestr dniówek *(kolumny „co umie")* · szkoła · **ona sama** *(„przychodzi do mnie więcej ludzi, niż jest w spisach")*. Kryterium: **przy równych — ten, kto nie ma nic, bo zostaje** | **300-03-07** | 300-02-28 |
+| **Hal + Garth** | ### **NAJPIERW NIE CENA, TYLKO DWIE KSIĘGI** — za ile mech dziś chodzi: **księga filii Domu** *(lecznica jest Domu, filia tym obraca)* i **księga bramy**. **Dopiero potem cena na słup** | przed ceną | 300-02-28 |
+| ### CO ŚLEDZIĆ | ### **największym odbiorcą mchu zimą jest prawdopodobnie MUR** — Czarny Zamek to **jedyna placówka, której obrót wzrósł**: *„Straż kupuje wszystko, co się da kupić, bo im się kończy"* | ### — | 300-02-28 |
 | Wystan | **odpis dla Cytadeli — ZGODA, bez części Reedów.** Na pierwszej karcie: *„wiedza krannogmenów nie jest zawarta, ponieważ nie jest nasza, by ją oddawać"*. Luka przestaje być dziurą, staje się cudzą granicą | wykonać przed 300-03-07 | 300-02-25 |
 | ### CO ŚLEDZIĆ po odpisie | ### **Cytadela dowie się, że taka wiedza istnieje** — i że właścicielem jest Howland Reed. Dotąd nie wiedziała. *Tego wam nie odbiorę* (Wystan) | ### bez terminu | 300-02-25 |
 | Symon | **szklarnie: WERRAN prowadzi sam** — Mira wpisana jako druga ręka rodzi 300-03-03 w Białym Porcie | — | 300-02-25 |
@@ -122,7 +123,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Warryn + Alys | ### **bilans karmi ~1400 dusz, a liczy ~1000** — 1/3 przyszła zimą nie wiadomo skąd; domknąć spis 5 wsi i przeliczyć przednówek | ### przed przednówkiem | 300-02-25 |
 | Garrick | gotowość miasteczka pod prawo składu (waga, szopy, księga) | 10 dni | 300-02-25 |
 | Garth | karta celna w użyciu przy komorze | od nadania | 300-02-25 |
-| Symon | pod jakim **znakiem** jadą ludzie Willi + **co sprzedają** *(sól i ziarno trafiają do tego, kto prowadzi księgę zakupów)* | przed wjazdem | 300-02-05 |
+| ### **WILLA** | ### **ZNAK · TOWAR · I CZYJĄ KSIĘGĘ TEN TOWAR ZASILI** — przynieść przed wyjazdem. *Rejestry Dreadfortu są najlepiej prowadzone, jakie wasz pisarz widział* — **czym kupiec handluje, tym się przedstawia** | ### **przed 300-03-01** *(cichy kupiec rusza do 03-10)* | 300-02-28 |
 | **Symon → Roose Bolton** | **list Domu, NIE pod pieczęcią urzędu:** *co z naszych papierów leży w księgach Dreadfortu* + prośba o umożliwienie **Halowi** uregulowania w całości, gotówką albo towarem. **Nie pytać o ten jeden weksel** | wysłany 300-02-27 | 300-02-27 |
 | **Symon → Hal** | *(instrukcja „wykupić" stoi od 300-02-07)* — jedno zdanie tą samą pocztą: **napisałem do Dreadfortu; jeśli odpowiedzą — PŁAĆ, bez pytania mnie** | z listem do Dreadfortu | 300-02-27 |
 | ### CO ŚLEDZIĆ | ### **odpowiedź Dreadfortu — każda coś mówi:** przyjmie zapłatę *(papier wraca)* · „nic takiego nie leży" *(poszedł dalej albo nie odda)* · milczenie | ### przed 300-04-01 | 300-02-27 |

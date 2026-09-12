@@ -99,7 +99,8 @@ Na start tylko to, co pewne z ostatnich dni:
 | Glover + Mormont | ekipa pomiarowa na Cypel Morskiego Smoka | list w drodze | 300-02-19 |
 | **Blackfish** | **meldunek z Dorzecza — sześć rubryk** *(plany · wymiana oficerów · Trident · ilu ludzi · kto przechodzi · co widzi)* | ### ZALEGŁY 8,5 MIESIĄCA. ~~bo nikt mu nie dał adresu~~ — **pytanie brzmi: GDZIE SĄ JEGO LISTY** | 300-02-27 |
 | **Symon → Beron** *(karta 7-dniowa)* | **① czy leżą pisma od Bryndena Tully'ego / z Dorzecza — od kiedy, ile, kto otworzył. ② nowa stała rubryka: SPIS TEGO, CO PRZYSZŁO DO KORONY I NIE ZOSTAŁO NIKOMU PRZEKAZANE** — od kogo, kiedy, ile, czy otwarte. *Liczyć, nie czytać* | z najbliższą kartą | 300-02-27 |
-| ### Symon | ### **GDZIE MA DOGONIĆ ODPOWIEDŹ BERONA** — wróci ~300-03-11…13, a wyjazd jest 07. Bez tego położy się na Fosie **obok tych listów, o które pytamy** | ### decyzja wisi | 300-02-27 |
+| Beron | **odpowiedź CZEKA W WINTERFELL** — zapieczętowana, do rąk własnych, na przyjazd Symona. **ALE:** co ma **datę** albo **liczbę ludzi pod bronią** — jedzie za nim gońcem natychmiast, bez czekania na kartę *(Beron nie ocenia treści — data i liczba widać z brzegu strony)* | do 300-04-01 / natychmiast | 300-02-27 |
+| Beron | ### **jeśli pism NIE MA — to też przyjeżdża i też jest zapisane.** Wtedy cisza Blackfisha przestaje być zagubionym papierem i **staje się jego decyzją** | do 300-04-01 | 300-02-27 |
 | Symon | **ustanowić kanał do Blackfisha** — adres, rytm, sześć rubryk; drogą przez Catelyn albo Lucana, raz wybraną i stałą | pilne | 300-02-25 |
 | Osric | dwudziestu drwali na Mur | IV/300 | 300-02-16 |
 | kasztelan → Bran Stark | rejestr zamku, karta co 7 dni | co tydzień | 300-02-18 |

@@ -38,7 +38,10 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Willa** | cichy kupiec na Dreadfort — **prawdziwy, z długami, które ktoś pamięta** | **300-03-10** | 300-02-25 |
 | Symon → Królowi | prośba o **zwyczaj**, nie o sygnał: kancelaria Namiestnika dostaje **spis przyjazdów** | z najbliższym krukiem | 300-02-25 |
 | Willa | druga droga poczty — i **puszczać nią co miesiąc rzecz nieważną**, żeby działała | stałe | 300-02-25 |
-| **Hendry + Warryn** | **po TRZY nazwiska na dowódcę Mchowych Jastrzębi**, każdy osobno i nie znając wyboru drugiego | ### rozkaz z 300-02-08 — 17 DNI, listy czekają | 300-02-08 |
+| ~~Hendry + Warryn: po trzy nazwiska~~ | **ODDANE 300-02-25.** Sześć nazwisk, **KESSEL BRODATY na obu listach**. Dziura: żaden z sześciu nigdy nie dowodził dwudziestoma | wykonane | 300-02-25 |
+| ### Symon | ### **WYBRAĆ dowódcę Mchowych Jastrzębi** — albo rozstrzygnąć, że żaden z szóstki nie jest dowódcą i szukać gdzie indziej | ### decyzja wisi | 300-02-25 |
+| Warryn | **sołtysom: kto widział ten wóz w drodze** *(pytano dotąd tylko o zaginięcia)* — ławy przysięgłych mają obowiązek odpowiadać | przed 300-03-07 | 300-02-25 |
+| Warryn + Alys | ### **bilans karmi ~1400 dusz, a liczy ~1000** — 1/3 przyszła zimą nie wiadomo skąd; domknąć spis 5 wsi i przeliczyć przednówek | ### przed przednówkiem | 300-02-25 |
 | Garrick | gotowość miasteczka pod prawo składu (waga, szopy, księga) | 10 dni | 300-02-25 |
 | Garth | karta celna w użyciu przy komorze | od nadania | 300-02-25 |
 | Symon | pod jakim **znakiem** jadą ludzie Willi + **co sprzedają** *(sól i ziarno trafiają do tego, kto prowadzi księgę zakupów)* | przed wjazdem | 300-02-05 |

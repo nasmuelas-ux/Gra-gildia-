@@ -114,13 +114,15 @@
     "imie": "HENDRY",
     "urzad": "marszalek/druzyna lenna",
     "siedziba": "FOSA",
-    "pewne": false
+    "pewne": true,
+    "uwaga": "marszalek lenna, druzyna; straz przy komorze od nadania karty celnej"
    },
    {
-    "imie": "RZADCA",
-    "urzad": "rzadca lenna",
+    "imie": "WARRYN",
+    "urzad": "rzadca lenna (Rzadca Dobr), obsadzony 299-05-25",
     "siedziba": "FOSA",
-    "pewne": false
+    "pewne": true,
+    "uwaga": "Polnocnik z krawedzi Przesmyku: torf, polow, brody, przewoz, wsie. Krannogmeni go znaja i szanuja - pomost, nie pan. Watek: rzadca_warryn"
    },
    {
     "imie": "BURMISTRZ (wagowy)",
@@ -130,7 +132,8 @@
     "uwaga": "pisze do KORONY bezposrednio w sprawie prawa skladu - tak zadal Symon",
     "pewne": true
    }
-  ]
+  ],
+  "_uwaga_o_pustych_krzeslach": "PUSTY WIERSZ Z NAZWA URZEDU I BEZ IMIENIA NIE JEST DOWODEM WAKATU - jest dowodem, ze rejestr nie nadazyl za watkami. Zanim nazwiesz czlowieka na krzesle, SPRAWDZ WATKI, nie tylko ten plik. (300-02-25: wymyslono 'Harberta Siwego' na krzeslo Warryna.)"
  },
  "KORONA": {
   "kasa": 3,

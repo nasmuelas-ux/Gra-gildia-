@@ -356,3 +356,144 @@ To nie jest dostawa — to jest **kamieniołom, kamieniarze, tratwy, ludzie od t
 | **WIOSNA–LATO 300** | kamieniołom i tratwy · wyrąb olchy i obróbka pali na zapas · wypał wapna · **zamówienie szkła z Myr** · wykop kanalików odwadniających · baraki i lecznica |
 | **JESIEŃ 300** | zwiezienie zapasu do obozu: żywność, torf, pale, kamień. **Kto nie zwiezie jesienią, zimą nie zbuduje nic** |
 | **ZIMA 300/301** | **główna kampania budowlana**: pale pod Kanał Wielki i nabrzeża, nasypy, ciągnięcie kamienia po lodzie |
+
+---
+---
+
+# CZĘŚĆ CZWARTA: ŁAŃCUCH DWÓCH MÓRZ
+### *sześć osobnych budów, jedna droga · każda ma własny plac, własnego mistrza i własny koniec*
+
+> **SCALENIE Z 300-02-07, które powinno było nastąpić półtora roku wcześniej:**
+> **WĘZEŁ PRZEŁADUNKOWY NA BIAŁYM NOŻU = PRZYSTAŃ WILKA.** To nie były dwa przedsięwzięcia do połączenia — to jedno, prowadzone od 298 pod **dwiema nazwami w dwóch różnych spisach**, i dlatego nikt nigdy nie policzył go w całości.
+> *„Nie ma tu pięciu pomysłów. **JEST JEDEN POMYSŁ, ROZŁOŻONY WZDŁUŻ WODY.**"*
+
+## ŁAŃCUCH, MORZE DO MORZA
+
+```
+MORZE ZACHODNIE
+   │  (1) GORĄCY PORT + BASZTA — ujście Fever
+   │      ┃ przeładunek: statek morski → Muł
+   │  (2) WODNY TRAKT — rzeka Fever, pod prąd
+   │      ┃ przeładunek: Muł → ląd
+   │  (3) MIASTO CAILIN — głowa rzeki, waga, cło, place, stajnie
+   │      ┃
+   │  (4) TRAKT LĄDOWY — Cailin → Cerwyn → Przystań Wilka   ◄── to jest PRZEWŁOKA
+   │      ┃ przeładunek: ląd → barka
+   │  (5) PRZYSTAŃ WILKA — węzeł na górnym Białym Nożu
+   │      ┃ z prądem, łatwo
+   │  (6) BIAŁY NÓŻ → BIAŁY PORT — jedyna wschodnia gęba całej drogi
+MORZE WSCHODNIE
+```
+
+**Osobno, na południe:** **(0) ODCINEK TALLY** — Fosa → granica z Dorzeczem. To nie jest część przewłoki. To jest **żywność i handel z Dorzecza**, oś północ–południe, i buduje się ją niezależnie.
+
+---
+
+## (0) ODCINEK TALLY — FOSA → GRANICA Z DORZECZEM
+**Kasa 2 · buduje dom Tally · to jest ta grobla, która stoi dziś**
+
+1. Ruszt pali olchowych *(zimą, póki bagno niesie)*
+2. Faszyna i żwir warstwami
+3. Płyty czarnego bazaltu — **szerokość: minąć się dwa wozy, za mało by armia rozwinęła szyk**
+4. **Odcinki zwodzone** nad kanałami bagiennymi, podnoszone z wież
+5. **Wieże strażnicze i komory celne przy każdej przerwie** — *pobierają myto i pilnują mostów, więc utrzymują się same*
+
+> **Odcinek południowy — przez Dorzecze ku Riverrun — NIE JEST TĄ SAMĄ BUDOWĄ.** Biegnie przez obce państwo: *przedsięwzięcie dyplomatyczne tak samo jak inżynieryjne*. Wymaga porozumienia z Tullym, więc jego terminem jest ratyfikacja traktatu, nie pora roku.
+
+---
+
+## (1) GORĄCY PORT — BASZTA I PORT
+**Ujście Fever do Zatoki Ognistej · zachodni brzeg · ### BEZ PRZYPISANEJ KASY**
+
+> **Kolejność jest tu odwrócona i to jest reguła, nie preferencja:**
+> ### BASZTA PRZED PORTEM. *„Ufortyfikowany od pierwszego dnia, nie po fakcie. Zachodni brzeg to woda Żelaznych Wysp; nieobwarowana przystań u ujścia rzeki jest zaproszeniem, nie portem."*
+> Port zbudowany przed basztą zostanie splądrowany w pierwszy sezon i odbudowany drugi raz — czyli zapłacony dwa razy.
+
+**BASZTA:** rozpoznanie brzegu i głębokości · kamień *(skąd? na zachodzie nie ma kamieniołomu — to pierwsze pytanie)* · załoga stała · **studnia i magazyn** *(baszta bez własnej wody jest wieżą, nie warownią)* · ogień sygnalizacyjny widoczny z rzeki i z morza.
+
+**PORT:**
+1. **Reda i kotwicowisko dla dużych statków** — głęboka woda; wielkie statki dalej nie idą
+2. Nabrzeże przeładunkowe, żurawie, magazyn, plac
+3. ### WARSZTAT ŁODZI PŁASKODENNYCH — Muły buduje się TU, nie sprowadza
+4. Zaplecze: osada, kuźnia, opał, lecznica *(Prawo III — plac budowy jest osadą)*
+5. **Zamknięcie ujścia** — łańcuch albo bom. Kto trzyma Fever u ujścia, zamyka Fosę od tyłu
+
+---
+
+## (2) WODNY TRAKT — GORĄCY PORT → CAILIN
+**Rzeka Fever · to nie jest budowa, to jest UTRZYMYWANY SZLAK**
+
+1. **Pomiar rzeki** — głębokości, bystrza, mielizny, zakola. *Nikt tego nie zrobił.*
+2. **Oczyszczenie toru** — pnie, zatory, płycizny
+3. **Otyczkowanie i znaki** — szlak nieoznakowany nocą i we mgle nie istnieje
+4. **Przystanie pośrednie** — nocleg, wymiana zwierząt, skład awaryjny
+5. **MUŁY** — łodzie płaskodenne, budowane w Gorącym Porcie
+6. **PSTRĄGI** — *nie żaglowiec, lecz wciągarka, która pływa*: kabestan i kotwica wynoszona łódką w górę bystrza. **Ośmiu robi to, do czego na ścieżce holowniczej trzeba osiemdziesięciu**
+7. **ZAŁOGA: LUDZIE PRZESMYKU** — *to nie jest uprzejmość, to jedyna załoga, która zna wodę*
+
+> ### ⚠️ I DLATEGO CAŁY ZACHODNI ODCINEK STOI NA HOWLANDZIE REEDZIE.
+> Bez ludzi Przesmyku nie ma spławu; bez spławu Gorący Port jest przystanią donikąd. **To nie jest kontrakt przewozowy — to jest sojusz, od którego zależy połowa łańcucha.** Nigdzie nie jest zapisane, że Reed się na to zgodził.
+
+> **PYTANIE BEZ ODPOWIEDZI:** czy Fever zamarza i na ile tygodni? Kanały Cailin nie zamarzają, bo grzeje je para ze szklarni — **rzeka nie ma szklarni.** Jeśli Fever stoi trzy miesiące w roku, przewłoka ma sezon i trzeba to policzyć, zanim ktokolwiek obieca komuś termin dostawy.
+
+---
+
+## (4) TRAKT LĄDOWY — CAILIN → CERWYN → PRZYSTAŃ WILKA
+**To jest PRZEWŁOKA i najtrudniejszy człon całego łańcucha**
+
+Ustalone 300-02-20 u Cerwyna: **liczący, nie zarządca** · **domy zajezdne z pisarzami, kilka na trasie** · Cerwyn dostaje przelot, myto i powód, żeby drogi pilnować.
+
+1. **Wytyczenie** — spadki, brody, przeprawy
+2. **Bita nawierzchnia w miejsce starego traktu** — *nie ścieżka, tylko nawierzchnia, po której wóz idzie zimą*
+3. **Mosty i przepusty** — **nośność mostu jest nośnością całej drogi**
+4. **Domy zajezdne z pisarzami** — nocleg, zmiana zwierząt, **i zapis, kto czym jechał**
+5. **Place przeładunkowe na obu końcach** — wagi, żurawie, ogrzewane stajnie, tabory jukowe
+
+### ⚠️ A TERAZ RZECZ, KTÓREJ W PLANIE NIE MA, A JEST ROZSTRZYGAJĄCA
+
+**DROGA WOZÓW I DROGA WŁÓKI TO NIE MUSI BYĆ TA SAMA LINIA — I PEWNIE NIE JEST.**
+
+- **Droga wozów** idzie tam, gdzie jest handel i gdzie jest Cerwyn. Może kluczyć.
+- **Droga włóki** — po której ciągnie się **kadłuby** po naoliwionych płozach i walcach — musi być *prosta jak strzelił, utrzymywana mokra* i **jak najkrótsza**, bo każda mila kosztuje wołami i dniami.
+
+Więc przed czymkolwiek: **gdzie jest NAJWĘŻSZE MIEJSCE między wodą Fever a wodą Białego Noża?** Nie „gdzie wygodnie jechać" — **gdzie najkrócej przeciągnąć statek.** Tego nikt nie zmierzył, a od tej jednej liczby zależy, czy włóka okrętowa jest przedsięwzięciem, czy marzeniem.
+
+> **Dopóki nie ma tego pomiaru, przewłoka towarowa jest realna, a włóka okrętowa jest hipotezą.** Wolno budować pierwszą i wolno zapisać drugą — **nie wolno ich liczyć jako jednej rzeczy.**
+
+---
+
+## (5) PRZYSTAŃ WILKA — WĘZEŁ NA BIAŁYM NOŻU
+**Korona ½ · Cerwyn ¼ · Manderly ¼ · ### JEDYNY CZŁON, KTÓRY JUŻ SIĘ BUDUJE**
+
+Stan z zapisu 300-02-07: **obóz ~130 ludzi z rodzinami · łom kamienia · wykopy pod basztę · mistrz-budowniczy Manderlych na miejscu · odpowiedzialny: dawny brygadzista murarski z Białego Portu.**
+
+> *„Serce korytarza rzecznego JUŻ SIĘ BUDUJE i JUŻ MA NAZWISKO. Brakowało tylko tego, żeby ktoś napisał obok, **PO CO ONO TAM STOI**."*
+
+**PRZYSTAŃ + SKŁAD + MIASTO TO TRZY IMIONA JEDNEGO UKŁADU:** przystań przyjmuje, skład trzyma, miasto płaci czynsz i cło w monecie; **rzeka napełnia to przed lodem.**
+
+Do dokończenia: baszta · nabrzeża i żurawie · skład · plac wozowy od strony traktu · ustrój miasta *(ma zapaść PRZED Radą, nie na niej)*.
+
+---
+
+## (6) BIAŁY NÓŻ → BIAŁY PORT
+**Z prądem. Najłatwiejszy człon i jedyny, który działa od dawna.**
+Potrzebne: barki, przystanie, i **pilnowanie, ile tygodni rzeka stoi pod lodem.**
+**Zasada zamknięta:** Biały Port jest **jedyną wschodnią gębą całej drogi**. Cailin nigdy nie otwiera przystani na wschodnim brzegu.
+
+---
+
+## ⚠️ JEDNA LICZBA, KTÓREJ NIE MA — A OD NIEJ ZALEŻY WSZYSTKO
+
+Sześć członów zaprojektowano osobno i **żaden nie zna przepustowości sąsiada**. A łańcuch ma nośność najsłabszego ogniwa.
+
+**Trzeba wpisać trzy liczby i wpisać je RAZ, bo od nich zależy każdy wymiar w każdym planie:**
+
+| | co trzeba rozstrzygnąć | co od tego zależy |
+|---|---|---|
+| **A** | **ile ładunku dziennie ma przechodzić łańcuch** | wielkość placów, liczba stajni, liczba Mułów, liczba wozów |
+| **B** | **jaki jest NAJCIĘŻSZY NIEPODZIELNY ładunek** *(kamień młyński, belka, działo, dzwon)* | nośność mostów, szerokość drogi, udźwig żurawi, wielkość bramy wodnej |
+| **C** | **jak duży kadłub ma przejść włókę — i czy w ogóle** | długość i prostość drogi włóki, liczba wołów, wymiar basenu |
+
+> **Dziś każdy z sześciu członów ma rysunek, a łańcuch nie ma liczby.**
+> Most zbudowany na wóz nie przepuści kamienia młyńskiego. Basen wykopany na Muła nie przyjmie kadłuba.
+> **A tego się nie poprawia — to się rozbiera.**

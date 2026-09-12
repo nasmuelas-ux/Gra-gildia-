@@ -273,7 +273,7 @@ db.dopisz('swiat','swiat','299-09-12','tresc...', pole='inbound_299_09_12')
 ---
 ---
 
-# ⚙️ TRZYDZIEŚCI PIĘĆ ZASAD SILNIKA — WERSJA 300-02-25
+# ⚙️ TRZYDZIEŚCI SZEŚĆ ZASAD SILNIKA — WERSJA 300-02-25
 ### *dodane, gdy świat przerósł kartę postaci. Czytaj razem z pętlą tury. Przy sprzeczności — te zasady wygrywają.*
 
 ## I. PRAWDA I KSIĘGA
@@ -324,6 +324,33 @@ db.dopisz('swiat','swiat','299-09-12','tresc...', pole='inbound_299_09_12')
 **33. BUDOWA MELDUJE W DZIEŃ BILANSU, ZAWSZE W TEJ SAMEJ FORMIE:** ile stoi · ilu ludzi · co ich zatrzymuje · czego potrzebują z zewnątrz. **RZECZ NIEDOKOŃCZONA NISZCZEJE** — nie jako kara, jako fizyka.
 **34. KAŻDY ŚLEDZONY WĄTEK MA KANAŁ. BEZ KANAŁU NIE MA WIADOMOŚCI** — i cisza na kanale, którego nie ma, JEST informacją. Podaję kanał razem z wiadomością („Wyman pisze, że w Białym Porcie mówi się…"), nigdy „stało się w Królewskiej Przystani".
 **35. WĄTEK MA CYKL ŻYCIA: żywy · uśpiony z przyczyny · zamknięty.** Wątek bez możliwości zamknięcia to śmieć w rejestrze.
+
+## VIII. DWA POZIOMY — SPRAWA I OPERACJA
+### *(zasada 36, wskazana przez gracza 300-02-25 przy ręcznym przeglądzie. Poprawia zasadę 35.)*
+
+**36. SPRAWA ŻYJE LATAMI. OPERACJA MA DZIEŃ.**
+Jeden test, zadawany każdej rzeczy, którą zapisuję: **czy to może się skończyć KONKRETNEGO DNIA?**
+- **NIE** → to jest **SPRAWA**. Filar. Wolno jej stać latami i **nie ma się zamykać.**
+  *(Stan Południa · gospodarka wolnej Północy · sfera Dreadfortu · Dustinport · oświata · zima.)*
+- **TAK** → to jest **OPERACJA**. Ma cel, spust i koniec. Zamyka się — i **musi** się zamknąć.
+  *(Dowód kazirodztwa · spółka zbożowa · trzy liczby eskadry · pismo o granicach urzędu Gartha.)*
+
+**36a. OPERACJA ZAWSZE WSKAZUJE SWOJĄ SPRAWĘ. SPRAWA NIGDY NIE WYLICZA SWOICH OPERACJI** — taka lista gnije od pierwszego dnia. Kto należy do kogo, wychodzi z wyszukania, nie ze spisu.
+
+**36b. POPRAWKA DO ZASADY 35.** To nie każdy wątek ma mieć możliwość zamknięcia — **tylko operacja.** Zasada 35 w starym brzmieniu kazałaby wyrzucić filary jako śmieci, bo filar nigdy się nie domknie. Sprawa bez końca jest w porządku. **Operacja bez końca to śmieć.**
+
+**36c. PRAWDZIWY ALARM: SPRAWA ŻYWA, POD KTÓRĄ NIE MA ANI JEDNEJ OTWARTEJ OPERACJI.**
+To nie znaczy „brak postępu". To znaczy **nikt nie otworzył następnego kroku** — a to jest awaria prowadzącego, nie świata. Dokładnie to, o co gracz miał pretensje: *„zapominałeś ruszać daną reformą i po kilku miesiącach okazuje się, że stoimy w miejscu"*. Filar sam nie zgłosi, że jest opuszczony. **Pustka pod filarem musi być widoczna w indeksie.**
+
+**36d. MELDUNEK IDZIE Z POZIOMU OPERACJI.** Ranek nie melduje filarów — filary stoją. Melduje to, **co się pod nimi rusza.** Inaczej każdy ranek brzmi tak samo.
+
+**36e. DWA POZIOMY I KONIEC.** Operacja pod operacją to biurokracja, nie porządek.
+
+**36f. SKUTEK OPERACJI NIE WRACA DO OPERACJI — WRACA DO SWOJEJ SPRAWY.** Operacja się zamyka, jej ślad zostaje w filarze. *(Dowód kazirodztwa zamknięty; to, że Joffrey rządzi bez prawa, żyje dalej w Stanie Południa.)*
+
+> **DIAGNOZA WŁASNA:** obie dzisiejsze pomyłki były pomyłkami poziomu. „Marynarkę jako ostrze na Wyspy" trzymałem jako sprawę, choć była operacją bez portu i człowieka. „Dowód kazirodztwa" trzymałem jako otwarty, choć był operacją, która wystrzeliła rok temu. **Wątek źle umieszczony na poziomie zawsze się mści w tę samą stronę: filar wygląda na stojący, a zamknięta operacja na wiszącą.**
+
+---
 
 > ### ZASADA NADRZĘDNA: ŚWIAT MA BYĆ TRUDNY DLATEGO, ŻE JEST DUŻY I POWOLNY — NIE DLATEGO, ŻE PROWADZĄCY ZAPOMNIAŁ.
 

@@ -78,12 +78,15 @@ A = o.append
 A("# STAN GRY — indeks (regenerowany z JSON+JSONL, NIE edytuj recznie)")
 A("_Zrodlo prawdy: gra/*.json + gra/db/wpisy.jsonl. Szczegoly: `python3 gra/db.py pokaz <klucz>` / `szukaj <fraza>` / `dzien <data>`._\n")
 
-A("## ⚠️ 35 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI PIEC ZASAD\"\n"
+A("## ⚠️ 36 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI PIEC ZASAD\"\n"
   "**PRZECZYTAJ JE PO KAZDYM KOMPAKTOWANIU.** Przy sprzecznosci z czymkolwiek innym — tamte wygrywaja.\n"
   "Skrot najczesciej lamanych: **1** nie twierdze, nie sprawdziwszy · **3** blad GM nie przechodzi na gracza (VOID znaczy VOID) ·\n"
   "**7** moja cisza nie jest zastojem (rzecz zlecona i obsadzona idzie sama) · **8** postep rodzi problemy, nie wstazki ·\n"
   "**12** kryterium to OBSADZENIE, nie nazwisko · **22** prerogatywa nie idzie pod glosy · **27** jeden rzut na sprawe albo zero ·\n"
-  "**31** nie pisze mysli gracza, nie zamieniam rozmowy w akt, nie posuwam czasu w rozmowie · **34** bez kanalu nie ma wiadomosci.\n")
+  "**31** nie pisze mysli gracza, nie zamieniam rozmowy w akt, nie posuwam czasu w rozmowie · **34** bez kanalu nie ma wiadomosci.\n"
+  "### **36 - DWA POZIOMY:** SPRAWA zyje latami i NIE ma sie zamykac (filar) · OPERACJA ma dzien, cel i spust, i MUSI sie zamknac.\n"
+  "Test: czy to moze sie skonczyc konkretnego dnia? Meldunek idzie z poziomu OPERACJI - filary stoja, melduje sie to, co sie pod nimi rusza.\n"
+  "**ALARM: sprawa zywa, pod ktora nie ma ANI JEDNEJ otwartej operacji** - to nie brak postepu, to ja nie otworzylem nastepnego kroku.\n")
 
 A("## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)\n"
   "Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:\n"

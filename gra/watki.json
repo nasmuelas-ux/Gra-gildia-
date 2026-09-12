@@ -399,7 +399,8 @@
    ],
    "stan_data": "300-02-25",
    "scalony_z": "dom_handlowy_tally_299_05",
-   "stan_powod": "Rozstrzygniecie gracza: NESTA ZOSTALA WSPOLNICZKA DOMU TALLY. Watki sie zbiegly - spolka z Nesta to dzis czesc ustroju Domu."
+   "stan_powod": "Rozstrzygniecie gracza: NESTA ZOSTALA WSPOLNICZKA DOMU TALLY. Watki sie zbiegly - spolka z Nesta to dzis czesc ustroju Domu.",
+   "_dziennik_nota": 1
   },
   {
    "id": "rozliczenie_antaryon_plan",
@@ -3335,7 +3336,7 @@
    "id": "struktura_dom_handlowy_tally_299_05",
    "tytul": "Struktura organizacyjna Domu Handlowego Tally (wenecko/medycejska: centrala+siec+giovani, kontrole)",
    "status": "KIEROWNICTWO_KOMPLETNE: Hal/Tam/Willa/Beron; gotowe do pieczeci",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -5909,7 +5910,7 @@
   {
    "id": "bilans_domu_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 8,
    "filar": "BILANS DOMU TALLY",
    "stan_watku": "ZYWY"
   },
@@ -6152,7 +6153,7 @@
   {
    "id": "gawen_skarbnik",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "system_danin",

@@ -86,8 +86,9 @@ Na start tylko to, co pewne z ostatnich dni:
 | ### CO ŚLEDZIĆ | ### **odpowiedź Dreadfortu — każda coś mówi:** przyjmie zapłatę *(papier wraca)* · „nic takiego nie leży" *(poszedł dalej albo nie odda)* · milczenie | ### przed 300-04-01 | 300-02-27 |
 | **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE — **przypomnienie wysłane 300-02-27**, jedno zdanie, bez nazwiska: *„podaję datę"*. **Osobna karta**, nie razem z prośbą o zwyczaj | 300-02-27 |
 | Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |
-| **Gawen** | **OSTATECZNE oszacowanie, z datą** — wstępnie **310 smoków** *(4 pozycje: Przystań Wilka · braavijski mistrz · żołd tłumacza · ziarno, jeśli Rada uchwali)*. ≈ osiem lat daniny całej Fosy | poproszone 300-02-27 | 300-02-27 |
-| **Hal** | **nawiązać kontakt ze Skarbnikiem** — uzgodnić **towar najzyskowniejszy dla Domu** *(metoda z 299-09-04: stawka ogłoszona z góry, zwrot w naturze, wierzyciel Kasa 1)* | od 300-02-27 | 300-02-27 |
+| ### **KORONA → DOM** | ### **695 SMOKÓW** — rachunek wystawiony i opieczętowany **300-01-27**, pięć pozycji *(310 zaległe · 268 zboże · 74 przewóz · 26 dyskonto · 17 Lucan)*. ### **TERMIN 300-03-01 — ZA DWA DNI. ODPOWIEDZI SKARBNIKA NIE MA.** Prowadzi **HAL**; Symon nie dotyka — **pieczęć Domu, podpis właściciela, nie Namiestnika** | ### **300-03-01** | 300-02-27 |
+| ### Symon | ### **czy pismo do Gawena mimo to wychodzi** — oszacowanie już jest i jest NASZE; łamałoby to konstrukcję z 300-01-26 *(„dyrektor ściąga, Namiestnik nie dotyka")* | ### decyzja wisi | 300-02-27 |
+| **Hal** | **towar najzyskowniejszy na zwrot** — **wedle cen Białego Portu, nie Braavos** *(karta Nesty skreślona)* | — | 300-02-27 |
 | ### Symon | ### **W CZYM, nie ile — GAWEN NIE CHCE PŁACIĆ ANI MONETĄ, ANI TOWAREM.** *„Niech Korona płaci waszemu Domowi PRZYWILEJEM. Przywilej jest jawny, ogłoszony, ma datę. Dług jest cichy, rośnie i nie ma końca."* Boi się nie o wasz honor, tylko o to, że **to on wpisywał** | ### **przed Radą 300-04-01** | 300-02-27 |
 | Symon | **granice urzędu także dla straży Hendry'ego przy komorze** — kogo wolno zatrzymać, czego NIE wolno, do czyjej księgi wpis | z pismem dla Gartha | 300-02-25 |
 | Garth + Symon | **zmierzyć PONOWNIE dziurę w komorach wodnych** — więcej rąk znaczy, że *powinna* spaść, nie że spadła | przed 300-03-01 | 300-02-25 |
@@ -97,7 +98,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon | **model zagrożenia → pakiet reform na Radę**; ułożyć jako *co stawiamy*, nie *gdzie nas można wziąć* — na sali będą Boltonowie | **300-04-01** | 300-02-25 |
 | Nesta | fracht zachodni + łupacz kamienia | odpowiedź V/300 | 300-02-19 |
 | Nesta | księga Antaryonów (pierwsza w kolejce) | — | 300-01-27 |
-| Nesta | karta cen z pięciu rynków + składki | **co miesiąc — kiedy ostatnia?** ⚠️ | ? |
+| ~~Nesta: karta cen z pięciu rynków~~ | ### **DYSKONTYNUOWANA 300-02-27.** Braavos to 2,5 mies. w jedną stronę — karta opisywała rynek, którego w dniu doręczenia już nie ma. **Kanał do Nesty i do Banku zostaje; umiera rubryka** | skreślone | 300-02-27 |
 | Dom Tally | weksle Lucana — 340 zapada | III/300 | 300-02-06 |
 | Torren Solny | meldunek eskadry, osiem rubryk | na Fosę | 300-02-19 |
 | Glover + Mormont | ekipa pomiarowa na Cypel Morskiego Smoka | list w drodze | 300-02-19 |

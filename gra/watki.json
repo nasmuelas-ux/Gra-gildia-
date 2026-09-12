@@ -3156,7 +3156,9 @@
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "FILAR: wszystkie dzialania polityczne zewnetrzne i wywiad. Mierzy sie kanalami, nie postepem. Najwieksza biala plama: dwor Krolewskiej Przystani."
   },
   {
    "id": "przystan_wilka_bialy_noz_umocnienie_299_06",
@@ -3343,7 +3345,9 @@
    "id": "rana_manpower_polnocy_odbudowa_ludzi_299_06",
    "tytul": "Rana manpower Polnocy - kazdy lord przekrwawiony wojna; repopulacja/rece na zime = sprawa panstwa",
    "status": "zauwazone_do_niesienia_przy_budowaniu",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "NIE osobny filar - miara pod rozwojem gospodarczo-spolecznym Polnocy. Czytac jak zime: pytanie do kazdej decyzji."
   },
   {
    "id": "odpowiedz_nocnej_strazy_mur_zima_299_06",
@@ -3361,7 +3365,9 @@
    "id": "relief_wojenny_wdowy_korona_system_299_06",
    "tytul": "Korona a wojenni umarli - system reliefu dla wdow/sierot poleglych (nasiono instytucji)",
    "status": "ZOBOWIAZANIE_PISEMNE_termin_pierwszy_snieg_299-06-20",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "Placi KASA 1 (czesc lokalnego przychodu Domu Tally), koordynuje struktura Domu. Spichlerz Polnocy = Kasa 3, szew do pilnowania."
   },
   {
    "id": "most_rzeka_kopcow_arteria_zachodu_299_06",
@@ -3814,7 +3820,9 @@
    "id": "sprawa_rymana_justycjariusz_299_08",
    "tytul": "Sprawa Rymana Cwiakla (zalozycielska krzywda: sfalszowany akt, obrabowana wdowa, martwy maester) trafia do Justycjariusza - crit-low, tylko czysta/dluga/arm-length droga",
    "status": "OTWARTA_299-08-12_droga_arm-length_dla_wdowy_(dowod_wystygl+Ryman_okopany+pulapka_przyzwoitosci)",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "Kontynuowana, dwie warstwy: publiczna (Ryman/wdowa/Aemon) i prywatna (Stary Zamek, ksiega czeladzi 275-282; slad zauwazony, rzut 30)."
   },
   {
    "id": "prawo_sukcesji_polnocy_299_08",
@@ -3875,7 +3883,9 @@
    "id": "poselstwo_do_dzikich_czulek_299_08",
    "tytul": "Poselstwo/czulek do dzikich (Mance) - dziczy jako wspoluciekinierzy nie tylko wrog; ZAPRZECZALNE, wysokie ryzyko",
    "status": "ZAPROJEKTOWANE_299-08-14_zaprzeczalny_czulek_do_zatwierdzenia_wykonania",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "OPERACJA pod filarem Muru/Mance. Osric wyslal poslanca, parlej przed nim."
   },
   {
    "id": "rekruci_na_mur_fosa_klirinhaus_299_08",
@@ -3906,7 +3916,9 @@
    "id": "dzieci_starkow_bez_steru_299_08",
    "tytul": "Dzieci Starkow bez reki na sterze (Sansa/Arya/Bran/Rickon) - odslonieta flanka rodziny krolewskiej",
    "status": "CZTERY_ZADANIA_ROZDANE_299-08-24:_Sansa=stol+rytm_Rickona,_Bran=Archiwum,_Rickon=siatka_czworga,_Catelyn=DORZECZE;_Arya_wciaz_otwarta",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "FILAR - ZYCIE RODZINY STARKOW (nie kryzys). Kazde dziecko ma wlasny cel, nie miejsce na liscie zagrozen."
   },
   {
    "id": "archiwum_pamieci_polnocy_299_08",

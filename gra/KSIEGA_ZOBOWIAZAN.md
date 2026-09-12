@@ -43,7 +43,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Kessel | **wskazać zastępcę** | — | 300-02-25 |
 | ### Symon | ### **czy księga Jastrzębi idzie do pisarza grodzkiego** — rada Warryna: kto dowodzi, nie spisuje sam, co zrobił | ### decyzja wisi | 300-02-25 |
 | Hendry | **kwit przy bramie** — Rowan Półucho obejmuje komorę po Kesselu i **nie czyta**; kto podpisuje | **przed 300-03-02** *(Cerwyn)* | 300-02-25 |
-| Warryn + Orland Korzec | **A · jedna karta co 10 dni** — gęby / korce / **na ile dni starczy**. Do rąk Symona i do księgi | **od 300-02-26** | 300-02-25 |
+| Warryn + Orland Korzec | **A · jedna karta co 10 dni** — **gęby · plon · zapas · torf · szklarnie · sól i ryba (Kasa 1)** — i jedna liczba na dole. *Ten sam rozkaz padł 299-10-01 i nie miał ani właściciela, ani daty* | **od 300-02-26** | 300-02-25 |
 | Orland Korzec | **C · rozgrodzić skład na cztery przegrody**, każda z kreską ogłoszoną z góry: ziarno siewne, żywność na rok, rezerwa na klęskę, obrok. **Klucz u niego, księga u pisarza grodzkiego, rządca ma wgląd bez klucza** | **300-03-07** | 300-02-25 |
 | Orland + Warryn | **D · kto trzyma, nie decyduje** — Orland wydaje na liczbę Warryna; **odmowa tylko na piśmie, z powodem** | **300-03-07** | 300-02-25 |
 | Warryn | **poręka siewu na słup rano: DŁUG Z DATĄ** — korzec za korzec, bez lichwy, zwrot po żniwach; wpis pisarz grodzki, świadkują dwaj z ławy wsi. **Kto nie wziął, nic nie jest winien** | **300-02-26** | 300-02-25 |
@@ -51,7 +51,10 @@ Na start tylko to, co pewne z ostatnich dni:
 | Orland Korzec | **szklarnie wchodzą do karty jako pozycja żywnościowa** — i obok nich **ile opału zjadają**. Ten sam torf grzeje chałupy: *świeże jadło zimą kupujemy ciepłem, którego nie ma w domach* | z kartą od 300-02-26 | 300-02-25 |
 | Symon | **druga uczennica dla Niny** | — | 300-02-25 |
 | Symon / Hal | **cena ogłoszona dla mchu bagiennego** — Nina zbiera, wozy biorą, nikt nie wie dokąd ani po ile. *Jak to jest towar, to niech ma cenę* | — | 300-02-25 |
-| ### Symon | ### **WYSTAN prosi o ODPIS pierwszej części spisu flory dla Cytadeli.** Granicy Howlanda nie złamał — ale Cytadela zobaczy **księgę bagna, w której nie ma połowy bagna**, i zapyta. Zgoda / odmowa / odpis okrojony — **żadne nie jest darmowe** | ### **przed 300-03-07** | 300-02-25 |
+| Wystan | **odpis dla Cytadeli — ZGODA, bez części Reedów.** Na pierwszej karcie: *„wiedza krannogmenów nie jest zawarta, ponieważ nie jest nasza, by ją oddawać"*. Luka przestaje być dziurą, staje się cudzą granicą | wykonać przed 300-03-07 | 300-02-25 |
+| ### CO ŚLEDZIĆ po odpisie | ### **Cytadela dowie się, że taka wiedza istnieje** — i że właścicielem jest Howland Reed. Dotąd nie wiedziała. *Tego wam nie odbiorę* (Wystan) | ### bez terminu | 300-02-25 |
+| Symon | **szklarnie: WERRAN prowadzi sam** — Mira wpisana jako druga ręka rodzi 300-03-03 w Białym Porcie | — | 300-02-25 |
+| Roderyk, sąd grodzki | **brak rubryki** — zakład lenna jak każdy inny, tylko wydaje wyroki. Dopisać do meldunków | 300-03-01 | 300-02-25 |
 | Warryn → sołtysi i ławy | **spytać, nie mierzyć:** dom po domu, jawnie, jedno pytanie — *ile zostawiłeś na siew i ile ci zostało*. **Nikt nie zagląda pod łóżko** | przed ogłoszeniem poręki | 300-02-25 |
 | Orland Korzec | **na ile korcy ma się przygotować** — poręczyliśmy za liczbę, której nikt nie zna | po odpowiedzi ław | 300-02-25 |
 | **Lenno (Kasa 2)** | **płaci za robotę** — robociznę trzeba odtąd kupić. **Rejestr dniówek policzy czterystu sam**: kto chce grosz, poda imię, wieś i co umie. *Wydatek na robotę i spis w jednej monecie*. **Ile to kosztuje w sezonie — nie przeliczone** | od wiosny, od Orbela | 300-02-25 |
@@ -103,7 +106,10 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Lecznica Fosy** | **NINA, zielarka włości** | ### 299-08-26 — **6 mies. ciszy, bo nie było rubryki.** Melduje 300-03-01 |
 | **Apteka bagna — mech i zioła** *(towar, popyt skacze zimą)* | **NINA + maester WYSTAN** | ### 299-06-23 — **8 mies.** Melduje 300-03-01 |
 | **Szklarnie Fosy** *(nie ogród — **kotłownia portu**)* | Mira + Werran | ### 299-08-18 — **6 mies.** Melduje 300-03-01 |
-| **Szkoła + posiłek przy szkole** *(program miasteczka)* | Warryn | ### 299-08-11 — **6,5 mies.** Melduje 300-03-01 |
+| **Szkoła + posiłek przy szkole** *(program miasteczka)* | Warryn | 300-02-16 — **6 pisarzy Nesty liczy własne miasteczko**; pierwsza szkoła powszechna Północy wydała pierwszy rachunek |
+| **Torfiarnie · torf-za-chleb** | Warryn | 299-10-01 — **trzymają ludzi przy robocie w zimie** |
+| **Warzelnia i solarnia Domu** *(Kasa 1 — dlatego rachunek lenna jej nie widział)* | Hal / filia | 299-10-01 — solona ryba leży w składzie |
+| **Sąd grodzki** | **RODERYK** | ### bez rubryki. Melduje 300-03-01 |
 | **Spis flory Przesmyku** | Wystan + Nina | ### 299-09-08 — **5,5 mies.** Melduje 300-03-01 |
 | **Obrys gruntu projektu** | **WEYLIN (woda) + ORBELO (kamień)** | 300-02-06 — chodzą po gruncie; *cisza w rejestrze to nie cisza na ziemi* |
 | **Przystań Wilka** | dawny brygadzista murarski z Białego Portu (bez imienia — Gawen 299-08-27) | ### NIGDY NIE MELDOWAŁ — bo nikt nie pytał. **Meldunek 300-03-01** |

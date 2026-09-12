@@ -43,7 +43,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Kessel | **wskazać zastępcę** | — | 300-02-25 |
 | ### Symon | ### **czy księga Jastrzębi idzie do pisarza grodzkiego** — rada Warryna: kto dowodzi, nie spisuje sam, co zrobił | ### decyzja wisi | 300-02-25 |
 | Hendry | **kwit przy bramie** — Rowan Półucho obejmuje komorę po Kesselu i **nie czyta**; kto podpisuje | **przed 300-03-02** *(Cerwyn)* | 300-02-25 |
-| Warryn + Orland Korzec | **A · jedna karta co 10 dni** — **gęby · plon · zapas · torf · szklarnie · sól i ryba (Kasa 1)** — i jedna liczba na dole. *Ten sam rozkaz padł 299-10-01 i nie miał ani właściciela, ani daty* | **od 300-02-26** | 300-02-25 |
+| Warryn + Orland Korzec | **A · jedna karta co 10 dni.** **ZAPAS** (jest za murem): gęby · plon · zapas · torf · szklarnie. **DOWÓZ** (osobno, nie doliczać do zapasu): **sól i ryba u Hala w Białym Porcie — ile leży, ile dni drogi, czy trakt stoi.** Na dole jedna liczba | **od 300-02-26** | 300-02-25 |
 | Orland Korzec | **C · rozgrodzić skład na cztery przegrody**, każda z kreską ogłoszoną z góry: ziarno siewne, żywność na rok, rezerwa na klęskę, obrok. **Klucz u niego, księga u pisarza grodzkiego, rządca ma wgląd bez klucza** | **300-03-07** | 300-02-25 |
 | Orland + Warryn | **D · kto trzyma, nie decyduje** — Orland wydaje na liczbę Warryna; **odmowa tylko na piśmie, z powodem** | **300-03-07** | 300-02-25 |
 | Warryn | **poręka siewu na słup rano: DŁUG Z DATĄ** — korzec za korzec, bez lichwy, zwrot po żniwach; wpis pisarz grodzki, świadkują dwaj z ławy wsi. **Kto nie wziął, nic nie jest winien** | **300-02-26** | 300-02-25 |
@@ -108,7 +108,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Szklarnie Fosy** *(nie ogród — **kotłownia portu**)* | Mira + Werran | ### 299-08-18 — **6 mies.** Melduje 300-03-01 |
 | **Szkoła + posiłek przy szkole** *(program miasteczka)* | Warryn | 300-02-16 — **6 pisarzy Nesty liczy własne miasteczko**; pierwsza szkoła powszechna Północy wydała pierwszy rachunek |
 | **Torfiarnie · torf-za-chleb** | Warryn | 299-10-01 — **trzymają ludzi przy robocie w zimie** |
-| **Warzelnia i solarnia Domu** *(Kasa 1 — dlatego rachunek lenna jej nie widział)* | Hal / filia | 299-10-01 — solona ryba leży w składzie |
+| **Warzelnia i solarnia Domu — BIAŁY PORT** *(Kasa 1; rozkaz do Hala 299-08-12)* | **HAL** | 299-10-01 — solona ryba w składzie **Domu w Białym Porcie**, 6–8 dni od Fosy |
 | **Sąd grodzki** | **RODERYK** | ### bez rubryki. Melduje 300-03-01 |
 | **Spis flory Przesmyku** | Wystan + Nina | ### 299-09-08 — **5,5 mies.** Melduje 300-03-01 |
 | **Obrys gruntu projektu** | **WEYLIN (woda) + ORBELO (kamień)** | 300-02-06 — chodzą po gruncie; *cisza w rejestrze to nie cisza na ziemi* |

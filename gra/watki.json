@@ -3859,7 +3859,9 @@
    "id": "stala_armia_1000_299_08",
    "tytul": "Stala armia Korony 1000 ludzi - cel POKOLENIOWY (Korona-nie-lordowie na ladzie); budowac malo->fazami z dochodu stalego",
    "status": "ZASIANY_299-08-13_doktryna_(nie_teraz-arytmetyka+zima)",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3,
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "Operacja otwarta: WIAZKA SZOSTA (ustroj) na Wielkiej Radzie 300-04-01. Zarzut Rodrika z 299-09-21 bez odpowiedzi. Bez granicy liczbowej; Korona nie pyta lordow o wlasnych zbrojnych."
   },
   {
    "id": "kruk_z_muru_dluga_noc_299_08",

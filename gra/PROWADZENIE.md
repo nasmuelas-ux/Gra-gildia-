@@ -326,7 +326,7 @@ db.dopisz('swiat','swiat','299-09-12','tresc...', pole='inbound_299_09_12')
 **35. WĄTEK MA CYKL ŻYCIA: żywy · uśpiony z przyczyny · zamknięty.** Wątek bez możliwości zamknięcia to śmieć w rejestrze.
 
 ## VIII. DWA POZIOMY — SPRAWA I OPERACJA
-### *(zasada 36, wskazana przez gracza 300-02-25 przy ręcznym przeglądzie. Poprawia zasadę 35.)*
+### *(zasada 36 z rozwinięciami a–g, wskazana przez gracza 300-02-25 przy ręcznym przeglądzie. Poprawia zasadę 35.)*
 
 **36. SPRAWA ŻYJE LATAMI. OPERACJA MA DZIEŃ.**
 Jeden test, zadawany każdej rzeczy, którą zapisuję: **czy to może się skończyć KONKRETNEGO DNIA?**
@@ -347,6 +347,10 @@ To nie znaczy „brak postępu". To znaczy **nikt nie otworzył następnego krok
 **36e. DWA POZIOMY I KONIEC.** Operacja pod operacją to biurokracja, nie porządek.
 
 **36f. SKUTEK OPERACJI NIE WRACA DO OPERACJI — WRACA DO SWOJEJ SPRAWY.** Operacja się zamyka, jej ślad zostaje w filarze. *(Dowód kazirodztwa zamknięty; to, że Joffrey rządzi bez prawa, żyje dalej w Stanie Południa.)*
+
+**36g. PUSTKI POD FILAREM NIE WOLNO STWIERDZIĆ, CZYTAJĄC FILAR.**
+Operacja z definicji (36a) **nie mieszka w filarze** — mieszka u siebie i tylko go wskazuje. Kto patrzy z góry w dół, widzi pustkę, której nie ma. Trzeba poszukać, **co na filar WSKAZUJE**: u ludzi, w terminach, w porządku obrad Rady, w Księdze Zobowiązań. Dopiero gdy nie wskazuje **nic i nikt**, filar jest naprawdę opuszczony.
+> *Dopisane po własnej kompromitacji 300-02-25: wypisałem siedem filarów jako opuszczone. Gracz przeszedł po wszystkich siedmiu — **upadło siedem z siedmiu**. Każdy miał otwartą operację, tyle że mieszkającą gdzie indziej. Tak samo powstał mit, że „stoimy w miejscu": nie staliśmy. Patrzyłem w złe miejsce i brałem **własną ślepotę za bezruch świata** — ta sama pomyłka co zasada 7, tylko zrobiona na poziomie całego rejestru zamiast pojedynczego człowieka.*
 
 > **DIAGNOZA WŁASNA:** obie dzisiejsze pomyłki były pomyłkami poziomu. „Marynarkę jako ostrze na Wyspy" trzymałem jako sprawę, choć była operacją bez portu i człowieka. „Dowód kazirodztwa" trzymałem jako otwarty, choć był operacją, która wystrzeliła rok temu. **Wątek źle umieszczony na poziomie zawsze się mści w tę samą stronę: filar wygląda na stojący, a zamknięta operacja na wiszącą.**
 

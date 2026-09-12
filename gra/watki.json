@@ -3778,7 +3778,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 19,
+   "_dziennik_nota": 20,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 22,
+   "_dziennik_nota": 23,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -4130,7 +4130,7 @@
    "id": "wolne_miasta_wintertown_przystan_299_08",
    "tytul": "Wolne Miasta Polnocy - Wintertown (pilot) + Przystan Wilka: karta laski Krola, azyl, przynety na ludzi",
    "status": "KARTA_WINTERTOWN_OGLOSZONA_299-08-29_(laska_Krola,_wykonana_przez_Namiestnika);_wybory_burmistrza_i_rady_za_10_dni;_Przystan_Wilka_dostanie_blizniacza_karte",
-   "_dziennik_nota": 14
+   "_dziennik_nota": 15
   },
   {
    "id": "dom_starkow_silnik_domeny_299_08",
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [

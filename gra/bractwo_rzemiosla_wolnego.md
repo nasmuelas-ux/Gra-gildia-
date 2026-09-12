@@ -120,16 +120,26 @@ Lista potrzebnych zawodów jest jednocześnie **spisem własnych braków**. Ta s
 > **NIE:** *„Cailin potrzebuje."*
 > **Lista zamówień brzmi jak siła. Lista braków brzmi jak zaproszenie.**
 
-## C. NIEROZSTRZYGNIĘTE — kto przyjdzie, gdy limit pełny
+## C. KTO PRZYJDZIE, GDY LIMIT PEŁNY — ROZSTRZYGNIĘTE 300-02-28
 
-Herwin, bo to on będzie mówił „nie": *„Partacz nie przychodzi wtedy, kiedy mu wygodnie. **On przychodzi, kiedy musi.** Jeśli przyjdzie w miesiącu, w którym mam pełno, to ja go odeślę — a on nie ma dokąd."*
+**Mówi mu się wprost: jeśli zostanie, nie będzie dla niego jedzenia. I odsyła się go do ZIMOWEGO MIASTA.**
 
-Trzy kształty, wszystkie tanie:
-1. **kolejka z datą** — zapisany, wchodzi w następnym miesiącu
-2. **wejście bez pieczęci** — wolno mu tu być i pracować u kogoś; warsztatu nie otwiera do wiosny
-3. **odesłanie** — uczciwe i twarde, ale wtedy azyl działa tylko dla tych, którzy uciekli w dobrym miesiącu
+Herwin: *„Gorsze byłoby pozwolić mu zostać i mieć nadzieję. Człowiek, któremu nie powiedziano »nie ma«, zostaje i je z cudzego — a potem zimą brakuje **obu**."*
 
-> **Limit nie jest zdradą azylu — jest warunkiem jego przeżycia.** Lenno liczy 1400 dusz przy bilansie zrobionym na 1000, niedobór ~140 korców na marzec, a ziarno siewne leży w chałupach i nie jest policzone.
+### DLACZEGO AKURAT TAM — to nie jest odesłanie znikąd donikąd
+**Zimowe Miasto ma azyl wpisany w kamień**, w karcie, którą Symon sam ułożył (299-08-04, ogłoszona 299-08-29):
+- **prawo azylu** — *odrzuceni, ścigani, duszeni przez cech, mistrzowie bez papierów, obcy — tu wolni*
+- **powietrze miasta czyni wolnym** — rok i dzień
+- **pięć lat bez podatku**
+
+### ⚠️ KARTKA, DWA ODPISY — bez tego to jest wyrzucenie, nie przekazanie
+**Fach · data · dokąd.**
+- **jeden dla niego** — żeby wiedział, dokąd idzie i co mu tam obiecano *(sześć dni drogi zimą, po głodnym: „jeśli mu powiem tylko nazwę, on tej nazwy nie dojdzie")*
+- **drugi do Zimowego Miasta, do burmistrza OSWYNA MIARKI** — żeby wiedzieli, że idzie
+
+**Powod drugiego odpisu nie jest uprzejmością.** Zimowe Miasto stoi w domenie Króla; bez zawiadomienia Namiestnik **przesuwa własny koszt na Koronę po cichu** — dokładnie to, czego Hal odmówił podpisać przy garnizonie: *„Namiestnik przenosi koszt własnego zamku na skarb królestwa i nieważne, że ma rację."*
+
+> **DO ŚLEDZENIA:** jeśli to zadziała, **Fosa staje się sitem, a Zimowe Miasto odbiornikiem** — pierwszy raz, gdy dwa miasta z kart Symona działają jak jeden układ.
 
 ---
 

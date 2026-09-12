@@ -8,11 +8,38 @@
 
 # CZĘŚĆ A — CO WCHODZI
 
-## ① PIERWOKUP LORDA — **nie monopol**
+## ①+③ PIERWOKUP DO SPICHLERZA KONTROLOWANEGO WSPÓLNIE
+*(narzędzia ① i ③ scalone 300-02-28 — przestały być osobne)*
 
-Lord ma **prawo pierwokupu** na własnych włościach: gospodarz oferuje nadwyżkę najpierw
-lordowskiemu spichlerzowi, po cenie ogłoszonej z góry. Czego lord nie weźmie w oznaczonym czasie —
+**Lord nie kupuje od gospodarza w chałupie. Lord kupuje pierwszy ze spichlerza, którego sam nie otwiera.**
+
+> ### TRZY KLUCZE — DWA OTWIERAJĄ.
+> **(a)** człowiek lorda *(bo lord płaci za budynek i straż)* · **(b)** **SOŁTYS** — urząd wybieralny,
+> istniejący we wszystkich wsiach od 299-10, obok ławy przysięgłych · **(c)** pisarz Korony.
+> **Żaden nie otwiera sam.** Nie trzy z trzech — bo jeden nieobecny zamroziłby ziarno całej wsi
+> w tygodniu, w którym trzeba je wydać.
+
+**Doktryna, która to nazywa — własna:** ### KTO TRZYMA, NIE DECYDUJE.
+
+### ⚡ ZŁOŻENIE NIE JEST SPRZEDAŻĄ
+Ziarno złożone w spichlerzu **nadal należy do gospodarza** — jest **depozytem, nie zakupem**.
+Księga notuje imię i liczbę worków, więc gospodarz ma **dowód na papierze tam, gdzie dotąd miał słowo**.
+Pierwokup znaczy: lord **oferuje pierwszy** po cenie ogłoszonej, a gospodarz może **odmówić na piśmie**
+*(prawo pisemnej odmowy, 300-02-07, rozciągnięte na spichlerz)*. Czego lord nie weźmie w terminie —
 idzie na wolny targ i lord traci do tego prawo.
+
+### CO TO ROBI Z PROBLEMEM BOLTONA
+Roose nadal ma pierwokup na swojej ziemi — **ale nie ma już skupu bez świadka.** Między nim a chłopem
+stoi sołtys z wyboru, pisarz i księga z imieniem. *„Ziemie Boltonów nie rozmawiają"* przestaje wystarczać:
+**nie trzeba, żeby rozmawiały. Wystarczy, żeby liczyły.**
+
+### ⚠ CENA — TRZECI KLUCZ NIE MA RĘKI
+Pisarzy Korony nie ma tylu, ilu okręgów. Cała nadwyżka Północy to **sześciu pisarzy Nesty na Fosie**,
+a Gawen stracił w tym miesiącu dwóch ludzi i szuka.
+**Rozwiązanie pierwszego roku:** gdzie nie ma pisarza, drugim kluczem jest **ława przysięgłych — dwaj z niej, nie jeden**.
+Dwa klucze miejscowe, trzeci dopiero tam, gdzie jest kim go obsadzić.
+**Wpisuje się to jawnie jako stan przejściowy Z DATĄ.** *„Stopniowo" bez daty trwało raz trzy tygodnie
+przy komorach celnych — i przez ten czas ktoś oferował dwanaście smoków za trzy wozy.*
 
 > ### DLACZEGO NIE MONOPOL: bo monopol to wyłączność, a **zakaz wyłączności stoi od 300-02-07**
 > i Symon nałożył go **najpierw na własny dom** *(„Dom Handlowy Tally nie ma i nie będzie miał
@@ -104,28 +131,28 @@ Wersja, która działa bez ani jednego strażnika:
 **Nie ściga się tego. Po prostu się tego nie egzekwuje.** Chłop nie ryzykuje nic; ryzykuje tylko ten,
 kto ma pieniądze i chce ominąć księgę.
 
-## ⑧ WOZY SKUPOWE — **wpisane, ale z ceną i bez kłamstwa o niej**
+## ~~⑧ WOZY SKUPOWE~~ — **WYCOFANE 300-02-28**
 
-Objazd wsi wedle ogłoszonego kalendarza, uczciwa cena, **darmowy odbiór** — bo mrówka wygrywa
-wozem pod chatą, nie ceną.
+Były najdroższą pozycją wiązki, a osiemnaście wozów jadących **sześć mil dziennie i grzęznących**
+to cała nasza wiedza o cenie wożenia zboża po tej ziemi.
 
-⚠ **NAJDROŻSZE Z DZIEWIĘCIU i to widać w księdze:** osiemnaście wozów jadących **sześć mil dziennie
-i grzęznących** to cała nasza wiedza o tym, ile kosztuje wozić zboże po tej ziemi.
-**Nie idzie w pierwszym roku wszędzie.** Idzie tam, gdzie ③ jeszcze nie stanął — wóz jest **tymczasowym
-spichlerzem gromadzkim**, a nie osobnym urzędem na zawsze.
+**I nie zostawiają dziury tam, gdzie stanie spichlerz gromadzki:** mrówka wygrywała tym,
+że podjeżdżała pod chatę — a teraz gospodarz nie wiezie nic pięćdziesiąt mil, tylko do własnej wsi.
+### SPICHLERZ ZASTĘPUJE WÓZ, BO SKRACA DROGĘ ZAMIAST JĄ PRZEJEŻDŻAĆ.
 
-## ⑨ RADA ZIMOWA — **organ, nie pakiet. I dlatego osobna decyzja.**
+> ### ⚠ ALE DZIURA ZOSTAJE TAM, GDZIE SPICHLERZA NIE MA — a w pierwszym roku będzie to **większość okręgów**.
+> Tam mrówka wygrywa dalej. **Wpisane jako brak, nie jako etap.**
 
-Bolton · Karstark · Manderly · Umber · Dustin. Limity i zasady ustalane **wspólnie**, nie dyktowane.
-Zazdrość feudalna robi z sąsiada strażnika: kto zauważy nielegalny skup u sąsiada, zgłasza — **nie z lojalności, z zawiści.**
+## ~~⑨ RADA ZIMOWA~~ — **WYCOFANA 300-02-28**
 
-> ### ⚠ TO JEST JEDYNA POZYCJA, KTÓREJ NIE REKOMENDUJĘ BEZ TWOJEGO DRUGIEGO SPOJRZENIA.
-> Osiem poprzednich to **reguły**. Ta jedna to **stały organ z prawem pytania o cudze zboże** —
-> a pierwszym człowiekiem, który z tego skorzysta, będzie Roose Bolton, i skorzysta **legalnie**.
-> Dajesz mu powód, żeby pytać o ziarno Karstarków, którego dziś nie ma.
->
-> **Wersja bezpieczna:** Rada Zimowa **schodzi się na czas oznaczony**, w Dzień Bilansu, i **czyta liczby,
-> których i tak nie wolno jej ukryć** — nie prowadzi śledztw i nie ma własnych ludzi. **Organ czytający, nie pytający.**
+**Skutek nazwany wprost:** nie ma żadnego forum, na którym lordowie pilnują siebie nawzajem.
+### CAŁA EGZEKUCJA WIĄZKI STOI ODTĄD NA JEDNEJ NODZE — NA CHCIWOŚCI LORDA.
+Jeśli pierwokup okaże się dla któregoś zbyt mały, żeby opłacało mu się ścigać mrówki,
+**to w jego włościach wiązka nie działa wcale i nikt się o tym nie dowie.**
+
+**Zysk, który za to dostajemy:** wiązka idzie na Radę jako **REGUŁY, nie jako ORGAN** — ta sama obrona,
+której użyto przy wychowankach *(„sześć wiązek zostaje sześcioma")*. **Nie zakłada się nowego ciała
+na Radzie, na której będą siedzieć Boltonowie.**
 
 ---
 

@@ -3778,7 +3778,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 21,
+   "_dziennik_nota": 22,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -4243,7 +4243,7 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "filar": "RAMSAY - ucho Willi",
    "stan_watku": "ZYWY"
   },
@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -4302,7 +4302,7 @@
    "id": "sprawa_rymana_justycjariusz_299_08",
    "tytul": "Sprawa Rymana Cwiakla (zalozycielska krzywda: sfalszowany akt, obrabowana wdowa, martwy maester) trafia do Justycjariusza - crit-low, tylko czysta/dluga/arm-length droga",
    "status": "OTWARTA_299-08-12_droga_arm-length_dla_wdowy_(dowod_wystygl+Ryman_okopany+pulapka_przyzwoitosci)",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "stan_watku": "ZYWY",
    "stan_uwaga": "Kontynuowana, dwie warstwy: publiczna (Ryman/wdowa/Aemon) i prywatna (Stary Zamek, ksiega czeladzi 275-282; slad zauwazony, rzut 30).",
    "filar": "SPRAWA RYMANA",
@@ -4569,7 +4569,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 25
+   "_dziennik_nota": 26
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -5714,7 +5714,7 @@
   {
    "id": "danina_karholdu_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 13,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel D - Danina Karholdu pobrana, dzien zamkniety."
@@ -5970,14 +5970,14 @@
   {
    "id": "zakaz_wylacznosci_faktora_i_porty_jako_komory_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "filar": "ZAKAZ WYLACZNOSCI FAKTORA / porty jako komory",
    "stan_watku": "ZYWY"
   },
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 11,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6049,7 +6049,7 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -6148,7 +6148,7 @@
   {
    "id": "roose_bolton",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "gawen_skarbnik",

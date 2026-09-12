@@ -1053,7 +1053,13 @@
    "status": "DOWOD DOSTARCZONY BEZBLEDNIE (07-23, rzut 100 KRYT). Agregat buyer-side dobity do bankowej gestosci i przekazany Belarnem - Bank ma trojstronny zelazny dowod (deklaracje + clo Gartha + agregat kupcow) weryfikowalny u siebie = jego odkrycie. FIREWALL NIENARUSZONY, Symon duch. FAZA: Bank DECYDUJE/DZIALA (jego tempo, moze uderzyc lub renegocjowac). Ryzyko Voxa zneutralizowane. Symon zrobil swoje idealnie - reszta w rekach potegi, ktorej nie kontroluje. Ruch Banku wroci jako PRZYCHODZACE. || 07-23 (refleksja): JAKOSC dostawy = najlepsza wizytowka u Banku (oryginalna sciezka 'robota dla Banku' - dyskretne miejscowe oko do wynajecia, poreczenie Belarna). MIECZ OBOSIECZNY: podziw rodzi ciekawosc 'czyja reka' - agent=tez kontakt Antaryona, wiec ROZPOZNANIE=smiertelne poki Antaryon zywy. SEKWENCJA: TERAZ duch (bezpieczenstwo>renoma); PO ruchu Banku (Antaryon rozstrzygniety) drzwi do pracy-dla-Banku otwieraja sie BEZPIECZNIE = renoma+dochod+patron. Jakosc anonimowa dzis = kapital jutro. NIE ujawniac sie przed rozstrzygnieciem.",
    "priorytet": "najwyzszy",
    "_dziennik_opis": 18,
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "ZELAZNY BANK",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "kanal_zelazny_bank_1128",
+    "zelazny_bank_negocjacje_299_12"
+   ]
   },
   {
    "id": "merek_ksiegi",
@@ -2394,8 +2400,11 @@
    "tytul": "Slabosc polnocna Fosy Cailin - brama Przesmyku a zagrozenie od morza",
    "status": "MOBILIZACJA_RUSZYLA_rekonesans_Garrick+Donnel_w_drodze_geografia_poprawiona",
    "_dziennik_nota": 5,
-   "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_watku": "WCHLONIETY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
+   "stan_data": "300-02-25",
+   "scalony_z": "projekt_cailin",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Slabosc polnocna to pytanie o KIERUNEK MUROW - czesc V projektu. Zapisu nie wykreslono - szukac pod filarem projekt_cailin."
   },
   {
    "id": "przygotowanie_obrony_od_morza_1024",
@@ -2861,7 +2870,11 @@
    "id": "odbudowa_fosy_cailin_dom_tally_1127",
    "tytul": "Odbudowa Fosy Cailin (siedziba Domu Tally) - brama Polnocy: twierdza + wezel gospodarczy",
    "status": "DOBRY_POCZATEK_299-05_sedziba+brama_stoi_projekt_pokoleniowy_na_torze",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 11,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "projekt_cailin",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Odbudowa fortecy to czesc druga projektu. Zapisu nie wykreslono - szukac pod filarem projekt_cailin."
   },
   {
    "id": "wektor_dorn_wrozda_krwi_1127",
@@ -2904,7 +2917,11 @@
    "id": "kanal_zelazny_bank_1128",
    "tytul": "Kanal do Zelaznego Banku - przechylic kredyt Lwa (apogeum wojny ekonomicznej)",
    "status": "PRZESKOK_WYKONANY_299-03-15",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 10,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "zelazny_bank_angle",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Kanal do Banku (Nesta) - to droga, nie osobna sprawa. Zapisu nie wykreslono - szukac pod filarem zelazny_bank_angle."
   },
   {
    "id": "horyzont_daenerys_targaryen_1128",
@@ -3523,7 +3540,11 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "projekt_cailin",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Miasteczko, szkola, lecznica, kadry - czesc trzecia projektu. Zapisu nie wykreslono - szukac pod filarem projekt_cailin."
   },
   {
    "id": "bran_alys_majordomus_fosy_299_06",
@@ -3598,7 +3619,11 @@
    "id": "trwalosc_sojuszu_frey_sukcesja_299_07",
    "tytul": "Trwalosc sojuszu z Freyami po smierci Waldera - sukcesja Bliznakow (gniazdo zmij)",
    "status": "RYZYKO_zidentyfikowane_299-07-02",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "frey_sukcesja_zwiazanie_przez_edmure_299_07",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Trwalosc sojuszu i sukcesja to jedno pytanie. Zapisu nie wykreslono - szukac pod filarem frey_sukcesja_zwiazanie_przez_edmure_299_07."
   },
   {
    "id": "riverrun_hub_zadania_299_07",
@@ -3636,7 +3661,12 @@
    "id": "frey_sukcesja_zwiazanie_przez_edmure_299_07",
    "tytul": "Zwiazanie sukcesji Freyow przez Edmure (finezja nie mlot) - Walder wiaze dziedzica + zysk wiaze nastepce",
    "status": "METODA_UZGODNIONA_299-07-06_wykonanie",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "filar": "SUKCESJA BLIZNIAKOW",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "trwalosc_sojuszu_frey_sukcesja_299_07"
+   ]
   },
   {
    "id": "rada_bryndena_poludnie_trident_299_07",
@@ -4073,7 +4103,11 @@
    "id": "archiwum_pamieci_polnocy_299_08",
    "tytul": "Archiwum pamieci Polnocy - spisac stare opowiesci/piesni klanow/Stara Niane jako ZAPIS Dlugiej Nocy (idea Brana)",
    "status": "RUSZYLO_299-08-20_pierwsze_karty_od_Starej_Niani_+_REGULA_ZAPISU_autorstwa_Brana",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "zbior_swiadectw_dlugiej_nocy_299_09",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Instytucja archiwum; filar prowadzony pod kluczem ZYWYM, nie usmierconym. Zapisu nie wykreslono - szukac pod filarem zbior_swiadectw_dlugiej_nocy_299_09."
   },
   {
    "id": "wyjazd_miry_do_bp_299_08",
@@ -4149,13 +4183,22 @@
    "id": "prawo_zaginionych_299_08",
    "tytul": "Luka w prawie: status zaginionego, termin uznania za zmarlego, zarzad jego domem",
    "status": "OTWARTE_299-08-25_(odslonila_sprawa_Morna)",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "prawo_o_zaginionych_299_08",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Ta sama luka w prawie, zalozona dwa razy w odstepie tygodnia. Zapisu nie wykreslono - szukac pod filarem prawo_o_zaginionych_299_08."
   },
   {
    "id": "prawo_o_zaginionych_299_08",
    "tytul": "PRAWO O ZAGINIONYCH - trzecie prawo wolnej Polnocy (terminy uznania, zarzad, powrot, zamek na oszusta)",
    "status": "UCHWALONE_299-08-25_jako_wykladnia_Justycjariusza;_na_Rade_do_zatwierdzenia;_tekst_w_kodeksie",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "filar": "PRAWO O ZAGINIONYCH",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "prawo_zaginionych_299_08"
+   ]
   },
   {
    "id": "rekalibracja_skali_ekonomicznej_299_08",
@@ -4191,7 +4234,11 @@
    "id": "spotkanie_ze_stannisem_pentos_299_08",
    "tytul": "Spotkanie ze Stannisem w Pentos - przestrzen otwarta, decyzja przy Robbie; cien czerwonej kaplanki",
    "status": "PRZESTRZEN_OTWARTA_299-08-28;_data_po_powrocie_Robba;_odpowiedz_Stannisa_za_2-3_tyg",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "spotkanie_ze_stannisem_w_pentos_299_09",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). To samo spotkanie, zalozone miesiac wczesniej. Zapisu nie wykreslono - szukac pod filarem spotkanie_ze_stannisem_w_pentos_299_09."
   },
   {
    "id": "dom_starkow_filia_bialy_port_299_08",
@@ -4328,7 +4375,11 @@
    "id": "projekt_cailin_trakt_forteca_miasto_299_09",
    "tytul": "PROJEKT CAILIN - Trakt, Forteca, Miasto (zamierzenie na pokolenia, do szuflady)",
    "status": "SPISANY_299-09-05_DO_SZUFLADY_nie_zlecony",
-   "_dziennik_nota": 15
+   "_dziennik_nota": 15,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "projekt_cailin",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Trzy czesci projektu - to jest tresc filaru, nie osobna sprawa. Zapisu nie wykreslono - szukac pod filarem projekt_cailin."
   },
   {
    "id": "spis_przedsiebiorstw_299_09",
@@ -4402,7 +4453,14 @@
    "id": "zbior_swiadectw_dlugiej_nocy_299_09",
    "tytul": "ZBIOR SWIADECTW O DLUGIEJ NOCY - 14 listow do maesterow, regula zapisu Brana jako standard krolestwa",
    "status": "WYSLANE_299-09-08_o_switu;_odpowiedzi_tygodniami;_Bran_prowadzi_zbior",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 6,
+   "filar": "ARCHIWUM PAMIECI POLNOCY - swiadectwa Dlugiej Nocy",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "archiwum_pamieci_polnocy_299_08",
+    "kronika_dlugiej_nocy_spisywanie_299_09",
+    "zbior_swiadectw_polnocy_299_09"
+   ]
   },
   {
    "id": "ned_pytal_ile_jest_czasu_299_09",
@@ -4474,7 +4532,11 @@
    "id": "standard_traktu_polnocy_i_liczba_dla_krola_299_09",
    "tytul": "Standard traktu Polnocy - cena mili zamiast sumy, dla Krola",
    "status": "gotowe_do_polozenia_przed_krolem",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 11,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "standard_traktu_polnocy_299_09",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Liczba dla Krola to wynik standardu, nie druga sprawa. Zapisu nie wykreslono - szukac pod filarem standard_traktu_polnocy_299_09."
   },
   {
    "id": "pomiar_wyjsciowy_myta_fosy_przed_robotami_299_09",
@@ -4725,7 +4787,11 @@
   {
    "id": "rozbudowa_siatki_domu_garrick_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "siatka_domu_tally_rozbudowa_299_09",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Ta sama rozbudowa, zapisana od strony Garricka. Zapisu nie wykreslono - szukac pod filarem siatka_domu_tally_rozbudowa_299_09."
   },
   {
    "id": "list_do_willi_o_przecieciu_urzedu_299_09",
@@ -4750,7 +4816,11 @@
   {
    "id": "kronika_dlugiej_nocy_spisywanie_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "zbior_swiadectw_dlugiej_nocy_299_09",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Spisywanie kroniki to czynnosc tego samego zbioru. Zapisu nie wykreslono - szukac pod filarem zbior_swiadectw_dlugiej_nocy_299_09."
   },
   {
    "id": "korzenie_symona_299_09",
@@ -4831,7 +4901,12 @@
    "_dziennik_nota": 18,
    "priorytet": "wysoki",
    "termin": "299-12 (Pentos)",
-   "tytul": "Spotkanie ze Stannisem w Pentos - zaproszenie wyslane z pieciu warunkami; jedzie Namiestnik osobiscie; czeka na odpowiedz"
+   "tytul": "Spotkanie ze Stannisem w Pentos - zaproszenie wyslane z pieciu warunkami; jedzie Namiestnik osobiscie; czeka na odpowiedz",
+   "filar": "STANNIS W PENTOS",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "spotkanie_ze_stannisem_pentos_299_08"
+   ]
   },
   {
    "id": "objazd_zachodu_kto_zbierze_299_09",
@@ -4877,7 +4952,12 @@
    "status": "otwarty",
    "_dziennik_nota": 4,
    "priorytet": "sredni",
-   "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)"
+   "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
+   "filar": "SIATKA DOMU TALLY",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "rozbudowa_siatki_domu_garrick_299_09"
+   ]
   },
   {
    "id": "wezel_zachodni_domu_i_biala_plama_korony_299_09",
@@ -4974,7 +5054,11 @@
    "status": "otwarty",
    "_dziennik_nota": 7,
    "priorytet": "sredni",
-   "tytul": "Zbior swiadectw - 2 z 14 odpowiedzi. Ostatnie Ognisko: ZIMNO NAJPIERW (potwierdzenie niezalezne wniosku Brana), ludzie chowali sie POD ZIEMIE (niezrozumiale), i - Straz PRZESTALA PROSIC dwiescie lat temu"
+   "tytul": "Zbior swiadectw - 2 z 14 odpowiedzi. Ostatnie Ognisko: ZIMNO NAJPIERW (potwierdzenie niezalezne wniosku Brana), ludzie chowali sie POD ZIEMIE (niezrozumiale), i - Straz PRZESTALA PROSIC dwiescie lat temu",
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "zbior_swiadectw_dlugiej_nocy_299_09",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Ten sam zbior, szersza nazwa. Zapisu nie wykreslono - szukac pod filarem zbior_swiadectw_dlugiej_nocy_299_09."
   },
   {
    "id": "umber_ruszy_bez_rozkazu_299_09",
@@ -5167,7 +5251,11 @@
   {
    "id": "lista_wymian_jencow_korony_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "lista_jencow_korony_polnocy_299_11",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Lista wymian to ta sama ksiega z drugiej strony. Zapisu nie wykreslono - szukac pod filarem lista_jencow_korony_polnocy_299_11."
   },
   {
    "id": "przeprawa_zimowa_do_braavos_299_12",
@@ -5187,7 +5275,11 @@
   {
    "id": "zelazny_bank_negocjacje_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "zelazny_bank_angle",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Negocjacje to operacja pod filarem Banku. Zapisu nie wykreslono - szukac pod filarem zelazny_bank_angle."
   },
   {
    "id": "handel_polnocnym_drewnem_braavos_299_12",
@@ -5212,7 +5304,11 @@
   {
    "id": "budowniczy_projekt_cailin_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "projekt_cailin",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Orbelo i kafar - OPERACJA pod filarem (zasada 36a). Zapisu nie wykreslono - szukac pod filarem projekt_cailin."
   },
   {
    "id": "dom_antaryon_braavos_299_12",
@@ -5272,7 +5368,12 @@
   {
    "id": "spichlerz_polnocy_dwa_etapy_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "SPICHLERZ POLNOCY",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02"
+   ]
   },
   {
    "id": "zakaz_wylacznosci_faktora_i_porty_jako_komory_300_02",
@@ -5332,7 +5433,11 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "stan_watku": "WCHLONIETY",
+   "stan_data": "300-02-25",
+   "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
+   "stan_powod": "Scalony 300-02-25 (polecenie gracza). Mistrz Zapasow Zimowych to URZAD przy spichlerzu - dzis KRZESLO PUSTE (Krol: 'to jest krzeslo, na ktorym nikt nie siedzi'). Trzymac widoczne pod filarem. Zapisu nie wykreslono - szukac pod filarem spichlerz_polnocy_dwa_etapy_300_02."
   },
   {
    "id": "wychowankowie_winterfell_300_02",
@@ -5352,17 +5457,36 @@
   {
    "id": "lista_jencow_korony_polnocy_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "LISTA JENCOW KORONY",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "lista_wymian_jencow_korony_299_11"
+   ]
   },
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "STANDARD TRAKTU POLNOCY",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "standard_traktu_polnocy_i_liczba_dla_krola_299_09"
+   ]
   },
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "filar": "PROJEKT CAILIN",
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "budowniczy_projekt_cailin_299_12",
+    "odbudowa_fosy_cailin_dom_tally_1127",
+    "program_rozwoju_fosy_miasteczko_cailin_299_06",
+    "projekt_cailin_trakt_forteca_miasto_299_09",
+    "slabosc_polnocna_fosy_cailin_1024"
+   ]
   }
  ]
 }

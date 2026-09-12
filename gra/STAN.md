@@ -17,13 +17,13 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-02-20 ranek · zima (300)
+- **Data:** 300-02-25 wieczor · zima (300)
 - **Miejsce:** WINTERFELL - komnata Namiestnika. Dwa dni do wyjazdu kolumny na Fose.
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 85 · Sytosc 58 · Zmeczenie 30**
+- **Zdrowie 85 · Sytosc 64 · Zmeczenie 58**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
-- **Wolne:** 2 smokow + 95 jeleni + 1 mied
+- **Wolne:** 2 smokow + 55 jeleni + 1 mied
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 300-03-01
 
 ## UMIEJETNOSCI
@@ -61,8 +61,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `?` jaime_dzwignia_tywin: 298-11-01 (rzut 58): Jaime=najciezsza karta na Tywina, wart TRZYMANY nie wydany. Robb pojal: (a…
 - ◆ `NIEAKTUALNY — Renly nie zyje (stan_poludnia_zelazny_tron_299_07); do rozstrzygniecia, czy sonda idzie ku samym Tyrellom` renly_sonda: 298-11-01 (rzut 48): cichy feeler ku Renly'emu/Tyrellom siatka Symona (deniable, low-commitment…
 
-## WATKI OTWARTE (657; ostatnie 45 — pelna lista: `python3 gra/db.py otwarte`)
-- `palenie_zmarlych_polnoc_299_10` [otwarty] 
+## WATKI OTWARTE (658; ostatnie 45 — pelna lista: `python3 gra/db.py otwarte`)
 - `zamarznieta_zatoka_wschod_299_11` [otwarty] 
 - `stary_zamek_locke_299_11` [otwarty] 
 - `maester_willam_stary_zamek_299_11` [otwarty] 
@@ -107,10 +106,9 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - `zelazne_wyspy_theon_300_02` [otwarty] 
 - `lista_jencow_korony_polnocy_299_11` [otwarty] 
 - `standard_traktu_polnocy_299_09` [otwarty] 
+- `projekt_cailin` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-02-18] `robb_stark`: ### TRZECIA ROZMOWA TEGO DNIA - TRZY RZECZY, ZADNA NIE POTRZEBUJE RADY. Wieczor 300-02-18, w przeddzien wyjazdu Namiestnika. Bez rzutu. ### == I. STARKPORT PRZYSPIESZONY == SYMON PRZEFORMULO…
-- [300-02-18] `zelazne_wyspy_theon_300_02`: ### TRZY LISTY NAPISANE W NOCY 300-02-18, GONIEC W SIODLE PRZED KOLUMNA. ### (1) ### DO TORRENA SOLNEGO - zaczyna sie NIE od prosby, tylko od dlugu: 'Kanclerz dostal pismo o granicach urzedu…
 - [300-02-18] `poprawki`: ### VOID (GM) - SPRAWA THEONA NIE IDZIE POD GLOSOWANIE RADY. Poprawka gracza, druga tego samego rodzaju. ### BLAD: dwukrotnie wlozone w usta zdanie 'jesli Rada powie, ze ma zostac zakladniki…
 - [300-02-18] `rickon_stark`: ### POZEGNANIE Z RICKONEM - NOC PRZED WYJAZDEM. Bez rzutu. ### KIJ: JEDENASCIE NACIEC, ciete krzywo ale rowno, po jednym, od 300-02-07. ### PYTANIE DZIECKA, KTOREGO SYMON NIE PRZEWIDZIAL: 'A…
 - [300-02-18] `bran_stark`: ### POZEGNANIE Z BRANEM - I DWIE RZECZY, KTORE ON POLOZYL PIERWSZY. Pozna noc 300-02-18. Bez rzutu. ### ### PIERWSZE ZDANIE BRANA, ZAMIAST POWITANIA: 'ZMIENILISCIE RUBRYKE D I DOWIEDZIALEM S…
@@ -121,3 +119,5 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - [300-02-20] `medger_cerwyn`: ### RANEK U CERWYNA - DWIE SPRAWY ROZSTRZYGNIETE. Zamek Cerwyn, 300-02-20. Bez rzutow (wlasny urzednik, praca wlasna). ### == I. SPRAWA, KTORA POLOZYL SAM: WYROK NIEWYKONANY == WYROK Z 299-1…
 - [300-02-20] `wielka_rada_porzadek_obrad_300_04`: ### PISANIE PRZED RADA - STAN I PRAWDZIWY TERMIN. Zamek Cerwyn, 300-02-20. Bez rzutu. ### CO JEST NAPISANE: KODEKS GOTOWY (czystopis pelny) - ALE LEZY W DWOCH TEKACH I OBIE SA CERWYNA. 'Praw…
 - [300-02-20] `standard_traktu_polnocy_299_09`: ### PROGRAM DROGOWY POSTAWIONY JAKO JEDNA RZECZ - i rozstrzygniecie, KTO TO KOORDYNUJE. Zamek Cerwyn, 300-02-20. Bez rzutu. ### RAMA GRACZA: plan Fosy to plan na wiele lat; lenno ma PRZYCIAG…
+- [300-02-25] `dziennik`: ### DROGA ZAMEK CERWYN -> FOSA CAILIN, 20.-25. dnia II Miesiaca (rzut 56 - droga jak droga, bez przygod i bez laski). ### DZIEN I: Theon milczal pol dnia, potem podjechal i powiedzial jedno …
+- [300-02-25] `projekt_cailin`: ### CZTERY MELDUNKI NA DZIEDZINCU FOSY, 300-02-25 wieczor. Bez rzutow (raporty wlasnych, oplacanych ludzi). Alys: 'Cztery rzeczy czekaja i ZADNA NIE JEST ZLA.' ### == (1) ALYS - SPIS MIESZKA…

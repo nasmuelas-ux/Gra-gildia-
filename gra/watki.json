@@ -3531,7 +3531,7 @@
    "id": "szklane_ogrody_model_zimy_299_06",
    "tytul": "Szklane ogrody Winterfell jako model przetrwania zimy dla calego krolestwa (obserwacja Miry - ZIARNO, nierozpalone)",
    "status": "ZAPROJEKTOWANE_dla_Fosy_torfem_grzane_299-06-25",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "kruk_nocna_straz_mur_299_06",
@@ -3777,7 +3777,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 14,
+   "_dziennik_nota": 15,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -3785,7 +3785,7 @@
    "id": "apteka_bagna_fosy_mech_zioła_299_06",
    "tytul": "Apteka bagna Fosy - mech leczniczy i zioła jako druga (lepsza) noga gospodarcza; gleboka wiedza=krannogowie/Reed",
    "status": "ODKRYTE_299-06-23_rozwinac_przez_Reeda",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "operacja_torf_za_chleb_fosa_299_06",
@@ -3825,7 +3825,7 @@
    "id": "spis_flory_przesmyku_wystan_nina_299_06",
    "tytul": "Spis jadalnej i leczniczej flory bagna - misja Wystana z Niną (jadlo z bagna + apteka + ksiega Przesmyku)",
    "status": "ZLECONA_299-06-25_start_szorstki_plon_dojrzeje",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -4568,7 +4568,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 16,
+   "_dziennik_nota": 17,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -6048,7 +6048,7 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -6122,12 +6122,12 @@
   {
    "id": "nina_zielarka_fosy",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "maester_wystan_fosy",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

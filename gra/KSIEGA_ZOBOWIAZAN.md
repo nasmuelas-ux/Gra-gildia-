@@ -37,7 +37,6 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Hendry + Warryn** | **po TRZY nazwiska na dowódcę Mchowych Jastrzębi**, każdy osobno i nie znając wyboru drugiego | ### rozkaz z 300-02-08 — 17 DNI, listy czekają | 300-02-08 |
 | Garrick | gotowość miasteczka pod prawo składu (waga, szopy, księga) | 10 dni | 300-02-25 |
 | Garth | karta celna w użyciu przy komorze | od nadania | 300-02-25 |
-| **Symon → WILLI** | **ROZKAZ WEJŚCIA NA PIŚMIE** — postawiła warunek 299-10-25 „nie posyłam tam nikogo więcej, dopóki nie każecie na piśmie" | ### CZEKA 4 MIESIĄCE — bez tej kartki jej ludzie stoją na krawędzi | 299-10-25 |
 | Symon | pod jakim **znakiem** jadą ludzie Willi + **co sprzedają** *(sól i ziarno trafiają do tego, kto prowadzi księgę zakupów)* | przed wjazdem | 300-02-05 |
 | Hal | wykupić **weksel Domu Tally leżący na Dreadforcie** od 299-10-20 — podpis Symona w cudzej ręce | pilne | 300-02-07 |
 | **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE | 300-02-05 |

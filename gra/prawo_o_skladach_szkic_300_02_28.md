@@ -1,108 +1,101 @@
-# PRAWO O SKŁADACH — SZKIC PIERWSZEJ NOCY
-**Fosa Cailin, 300-02-28, wieczór.** Pisze **Symon Tally** własną ręką. Termin: **przed 300-03-02** (przyjazd Cerwyna). *Cerwyn nie tknie — ma je zobaczyć gotowe, nie współtworzyć.*
+# TRZY POPRAWKI DO PRAWA O SKŁADACH — noc 300-02-28
+**Fosa Cailin.** Pisze **Symon Tally** własną ręką. Termin: **przed 300-03-02** (przyjazd Cerwyna).
+W izbie: **HERWIN SZALA**, burmistrz Cailin, dawny wagowy · **dwaj PSIARZE**.
 
-W izbie: **HERWIN SZALA**, burmistrz Cailin, dawny wagowy miejski · **dwaj PSIARZE**.
-*Źródło prawdy pozostaje w `gra/db/wpisy.jsonl`; ten plik jest szkicem, nie rejestrem.*
-
----
-
-## 0. PO CO — POWÓD USTROJOWY, NIE HANDLOWY
-
-Cło zaporowe działa dokładnie tak, jak je zaprojektowano: **trzyma żywność wewnątrz Północy.**
-**A Stannis jest wewnątrz Północy.** Jego ludzie kupują w Białym Porcie — małymi partiami, u wielu
-kupców, srebrem, legalnie. Cło ich nie dotyka, bo nie wywożą.
-
-> ### NA LEGALNEGO HURTOWEGO KUPCA PÓŁNOC NIE MA DZIŚ ŻADNEGO NARZĘDZIA.
-> Prawo składu jest jedynym, jakie może powstać przed żniwami.
+> ### ⚠ TO NIE JEST NOWE PRAWO.
+> **Prawo o składach istnieje i leży w czystopisie** — siedem lat pracy, pięć rozstrzygnięć.
+> To są **trzy poprawki**, dokładnie tak jak dwie poprawki lorda Wymana z 300-02-15.
+> *(Poprzednia wersja tego pliku traktowała je jak ustawę pisaną od zera — **VOID**, błąd prowadzącego.)*
 
 ---
 
-## 1. ZARZUT BURMISTRZA — POSTAWIONY, ZANIM SYMON UMOCZYŁ PIÓRO
+## 0. DWIE RZECZY, KTÓRE NAZYWAJĄ SIĘ PODOBNIE I NIE SĄ TYM SAMYM
 
-**HERWIN:**
-> „Wysłaliście do Króla pismo miasta o **prawo składu dla Cailin** — dwudziestego. Czekam na nie
-> od trzech miesięcy. A dziś siadacie i piszecie, **kto z niego będzie mógł korzystać.**
-> Nie mówię, że źle. Mówię, że **miasto przeczyta to w tej samej kolejności, w jakiej to się dzieje:**
-> najpierw dostaliśmy prawo, potem dostaliśmy dozorcę."
+| | **PRAWO SKŁADU** *(miasta)* | **PRAWO O SKŁADACH** *(królestwa)* |
+|---|---|---|
+| co robi | **przymus składu** — kupiec przejeżdżający **musi** stanąć, wyładować i **wystawić towar na sprzedaż** przez oznaczony czas | **Etap I Spichlerza Północy** — składy w miastach **pod jedną księgą**, waga i cena na słupie |
+| czyje | **przywilej miejski** — Cailin czeka trzy miesiące | **reguła królestwa** |
+| kto nadaje | **KRÓL, przed Radą** *(pismo miasta poszło 300-02-20)* | **Korona**, czystopis gotowy |
+| po co | **magnes handlowy** — droga musi sprzedać u nas | **żeby w królestwie był zapas** |
 
-**Odpowiedź, która musi paść w tekście, nie w rozmowie:** prawo składu jest **przywilejem miasta**;
-prawo o składach jest **regułą królestwa**. Jedno mówi, *gdzie wolno trzymać*; drugie — *kto wolno,
-żeby trzymał wiele*. Jeśli te dwie rzeczy nie zostaną rozdzielone **w tytule i w pierwszym zdaniu**,
-Cailin przeczyta drugie jako cofnięcie pierwszego.
+**Kolejność zgłoszeń stoi od IX/299 i nie zmienia się dla wygody:**
+**1. spichlerz FOSY CAILIN** *(własny Symona)* · **2. DOM STARKÓW** · **3. reszta, w tym Biały Port.**
+> *„Prawo, które zaczyna od największego, wygląda na wojnę z jednym człowiekiem.
+> To, które zaczyna od tego, kto je napisał, wygląda na prawo."*
+
+**Wpisane już 300-02-15, dwie poprawki Wymana:** *głód ma liczbę, nie sędziego* · *ze składu się nie bierze — ze składu się kupuje, po cenie ogłoszonej zanim głód się zaczął.*
 
 ---
 
-## 2. TRZY FILARY
+## 1. ⚡ RZECZ, KTÓREJ ZLANIE NAZW NIE POZWALAŁO ZOBACZYĆ
 
-### I. KTO MOŻE KUPOWAĆ ILOŚCIAMI — **PRÓG I WPIS**
-Nie zakaz. **Próg**: powyżej *X* korcy w *Y* dniach kupujący **wpisuje się do rejestru** —
-imię, czyim imieniem kupuje, dokąd wiezie, komu odda.
-Poniżej progu — nic. Chłop, przekupka i karczmarz nie widzą tego prawa wcale.
+> ### PRZYMUS SKŁADU I REJESTR SPICHLERZA TO JEDNA MASZYNA WIDZIANA Z DWÓCH KOŃCÓW.
 
-### II. GDZIE WOLNO TRZYMAĆ — **SKŁAD ZGŁOSZONY**
-Skład to **dach z adresem i nazwiskiem**. Zgłoszony — mierzony — wpisany.
-> ### WÓZ JEST SKŁADEM, KTÓRY SIĘ PORUSZA.
-Stąd **list przewozowy**: co, ile, skąd, dokąd, czyje. Wóz bez listu jest składem bez adresu.
+Jeśli **każdy kupiec przejeżdżający przez Cailin musi wyładować i wystawić towar** — to
+**każdy wóz jest otwierany i tak, z mocy handlu, nie z mocy rewizji.**
+Przywilej miasta **wytwarza dane**, których potrzebuje rejestr — i nie kosztuje ani jednego rewizora.
 
-### III. JAK SIĘ TO SPRAWDZA — **DZIURA OTWARTA OD 299-09-04**
+**Zarzut Herwina upada.** Nie jest to dozorca postawiony przy jego przywileju — **jego przywilej jest okiem.**
+
+**I drugi skutek, ostrzejszy:** kto omija Cailin drugą drogą, omija już nie cło *(trudne do udowodnienia)*,
+tylko **przymus składu** — a to jest powinność handlowa, której brak widać **w księdze targu**,
+nie w zeznaniu świadka.
+
+---
+
+## 2. POPRAWKA PIERWSZA — **JAK SIĘ WYBIERA WÓZ DO OTWARCIA**
+*(zamyka dziurę otwartą od 299-09-04, której czystopis nie zamyka)*
+
 Zapis sprzed pięciu i pół miesiąca, słowo w słowo:
-> *„Garth będzie otwierał może 30 wozów na 100 zamiast 8, ale **dalej będzie mierzył głównie to,
-> co ktoś sam zadeklaruje**, dopóki nie ma zasady mówiącej, **ILE wozów otwiera się obowiązkowo
-> i JAK się je wybiera**. OTWARTE."*
+> *„Garth będzie otwierał może 30 wozów na 100 zamiast 8, ale **dalej będzie mierzył głównie to, co ktoś sam
+> zadeklaruje**, dopóki nie ma zasady mówiącej, **ILE wozów otwiera się obowiązkowo i JAK się je wybiera**. OTWARTE."*
 
-**To prawo jest pierwszym miejscem, w którym da się tę zasadę napisać.**
+**Starszy psiarz, pytany nie „czy umiecie znaleźć", tylko „po czym wybieracie, gdzie szukać":**
+> „Nie otwiera się po kolei i nie co dziesiątego. **Otwiera się ten, który się nie zgadza.**
+> A żeby się mógł nie zgadzać, **musi być z czym porównany** — dajcie nam papier, który mówi,
+> co ma być w środku, a my powiemy, który wóz kłamie."
 
----
+Czym się nie zgadza: koleiny głębsze niż papier · koń zajechany na krótkiej trasie · oś schodzona nierówno ·
+pies odróżni ziarno od soli przez worek, **ale tylko gdy worki są zamknięte i znaczone**.
 
-## 3. CO WNIEŚLI PSIARZE — I DLACZEGO TO JEST CZĘŚĆ TRZECIA
-
-Pytanie postawione im wprost: *nie „czy umiecie znaleźć", tylko „po czym wybieracie, gdzie szukać".*
-
-- **Wóz nie kłamie tak jak człowiek.** Ciężko idący na lekkiej deklaracji: koleiny głębsze niż papier,
-  konie zmachane na krótkiej trasie, oś schodzona nierówno.
-- **Koń pamięta drogę, której woźnica nie podał.** Zwierzę zajechane z południa nie wygląda jak zwierzę
-  z dwóch mil.
-- **Pies odróżni ziarno od soli przez worek** — ale tylko wtedy, gdy ma po czym, czyli gdy worki są **zamknięte i znaczone**.
-- **Rzecz najważniejsza, powiedziana przez starszego:** *„Nie otwiera się wozów po kolei i nie otwiera się
-  co dziesiątego. **Otwiera się ten, który się nie zgadza.** A żeby się mógł nie zgadzać, musi najpierw
-  być z czym porównany — dajcie nam papier, który mówi, co ma być w środku, a my powiemy, który wóz kłamie."*
-
-> ### ZASADA, KTÓRA Z TEGO WYCHODZI: **LOSOWO OTWIERA SIĘ NIEWIELE, NIEZGODNIE — WSZYSTKO.**
-> Stała, ogłoszona część wozów otwierana **z losu** (żeby nikt nie umiał się ustawić)
-> **plus każdy, który nie zgadza się z własnym listem** (żeby umiejętność psiarza miała gdzie działać).
-> Pierwsza liczba jest ustrojowa i musi być ogłoszona; druga jest bez limitu i nie ogłasza się jej wcale.
+> ### LOSOWO OTWIERA SIĘ NIEWIELE — liczba **ogłoszona**, więc nieodwołalna.
+> ### NIEZGODNIE — **WSZYSTKO**, bez limitu i **nieogłoszone**.
 
 ---
 
-## 4. ⚠ WADA KONSTRUKCYJNA, KTÓRĄ TRZEBA ROZSTRZYGNĄĆ, ALBO PRAWO NIE UGRYZIE NIKOGO
+## 3. POPRAWKA DRUGA — **RUBRYKA „NA CZYJ RACHUNEK"**
 
-**Ludzie Stannisa kupują małymi partiami, u wielu kupców.**
-Próg liczony **od transakcji** nie dotknie ich ani razu. Żeby dotknął, trzeba liczyć **od kupującego** —
-sumować, co jeden człowiek kupił u dziesięciu.
+Ludzie Stannisa kupują **małymi partiami, u wielu kupców**. Próg liczony **od transakcji nie dotknie ich ani razu.**
+Żeby dotknął, trzeba sumować **od kupującego** — a wtedy rubryka nie może brzmieć *„kto stoi przy wadze"*.
 
-**A wtedy pada pytanie, którego prawo nie umie zadać, a urzędnik musi:**
-> ### CZYIM IMIENIEM KUPUJESZ?
-Człowiek kupujący dla obcego króla wpisze się jako… kto? Poda własne imię i będzie miał rację.
-Sumowanie zadziała dopiero wtedy, gdy rubryka brzmi **„na czyj rachunek"**, a nie **„kto stoi przy wadze"**.
-
-**Herwin, który dwanaście lat stał przy wadze:**
-> „Wagowy widzi ręce. **Rachunku nie widzi nikt oprócz tego, kto płaci.** Jeśli chcecie to złapać,
-> nie łapcie przy wadze — **łapcie przy sakiewce.** Ten sam człowiek płaci dziesięć razy tą samą monetą
-> z tego samego worka, i **to widać u kupców, nie u mnie.**"
+**Herwin, dwanaście lat przy wadze:**
+> „Wagowy widzi ręce. **Rachunku nie widzi nikt oprócz tego, kto płaci.** Nie łapcie przy wadze —
+> **łapcie przy sakiewce.** Ten sam człowiek płaci dziesięć razy tą samą monetą z tego samego worka,
+> i **to widać u kupców, nie u mnie.**"
 
 ---
 
-## 5. CZTERY RZECZY, KTÓRYCH NIE ROZSTRZYGNIĘTO TEJ NOCY — **czekają na lorda**
+## 4. POPRAWKA TRZECIA — **LIST PRZEWOZOWY**
 
-1. ### **LICZBY PROGU** — ile korcy, w ilu dniach. *(Za nisko: prawo obejmie młynarza i karczmarza. Za wysoko: nie obejmie nikogo.)*
-2. ### **KTO WYDAJE WPIS** — **Korona** czy **miasto**? Herwin chce miasta; Korona chce jednej księgi na Północ. *To jest ta sama sprawa co prawo składu dla Cailin i nie da się jej rozstrzygnąć dwa razy inaczej.*
-3. ### **JAKI UŁAMEK WOZÓW Z LOSU** — liczba ogłoszona, więc nieodwołalna.
-4. ### **CZY RUBRYKA BRZMI „NA CZYJ RACHUNEK"** — bez tego punkt 4 stoi otwarty, a prawo nie gryzie Stannisa.
+> ### WÓZ JEST SKŁADEM, KTÓRY SIĘ PORUSZA.
+
+Co, ile, skąd, dokąd, **na czyj rachunek**. Bez niego poprawka pierwsza nie ma z czym porównywać,
+a poprawka druga nie ma czego sumować. **Trzy poprawki są jedną poprawką w trzech miejscach.**
 
 ---
 
-## 6. CZEGO TO PRAWO **NIE** ROBI — do wpisania wprost, żeby nikt nie musiał zgadywać
+## 5. CZTERY LICZBY, KTÓRYCH NIE MA I KTÓRE NALEŻĄ DO LORDA
 
-- **Nie zakazuje kupować.** *(Zakaz jest informacją. Daje się ustrój, nie zakaz.)*
-- **Nie wymienia nikogo z imienia** — ani króla, ani domu, ani obcego.
-- **Nie rusza przywozu.** Kto wwozi żywność na Północ, nie widzi tego prawa.
+1. ### **PRÓG** — ile korcy, w ilu dniach. *Za nisko: obejmie młynarza i karczmarza. Za wysoko: nie obejmie nikogo.*
+2. ### **KTO WYDAJE WPIS** — Korona czy miasto. *To ta sama sprawa co przywilej składu dla Cailin; nie da się jej rozstrzygnąć dwa razy inaczej.*
+3. ### **UŁAMEK WOZÓW Z LOSU** — liczba ogłoszona, więc nieodwołalna.
+4. ### **ILE DNI TRWA PRZYMUS SKŁADU** w Cailin — *to już nie jest poprawka, to treść przywileju, o który miasto prosiło Króla.*
+
+---
+
+## 6. CZEGO TE POPRAWKI **NIE** ROBIĄ
+
+- **Nie zakazują kupować.** *(Zakaz jest informacją. Daje się ustrój, nie zakaz.)*
+- **Nie wymieniają nikogo z imienia** — ani króla, ani domu, ani obcego.
+- **Nie ruszają przywozu.** Kto wwozi żywność na Północ, nie widzi tego prawa.
+- **Nie zmieniają kolejności zgłoszeń.** Fosa Cailin nadal wpisuje się pierwsza.

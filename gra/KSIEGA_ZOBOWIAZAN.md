@@ -39,7 +39,11 @@ Na start tylko to, co pewne z ostatnich dni:
 | miasto Cailin | **ZATWIERDZONE 300-02-27, wszystkie trzy:** ① **nowy wagowy z wyboru — Herwin przestaje ważyć** ② **działki losuje ława jawnie**, lista z imionami na słupie ③ **na słupie dwa znaki** — pieczęć pana za nadanie, znak miasta za wykonanie | wykonuje miasto | 300-02-27 |
 | ### miasto Cailin | ### **jedna waga na dziewięć rzemiosł** — zgłosiło się kilkunastu, za miesiąc będzie stu, a wagowy jest jeden, bo został burmistrzem | ### przed wiosną | 300-02-27 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
-| ### Symon → Herwin | ### **POPRAWIĆ TERMIN JUTRO, ZANIM WYPISZE NA SŁUPIE** — powiedziano „po Radzie", a Król obiecał **PRZED Radą**, gdy przyjdzie pismo miasta. **Pismo poszło 300-02-20** | ### **300-02-28** | 300-02-27 |
+| ~~Symon → Herwin: poprawić termin~~ | **POPRAWIONE 300-02-28, ZANIM TRAFIŁO NA SŁUP.** Nowy tekst: *„Korona rozstrzygnie **przed Radą**, gdy dojdzie pismo miasta. Pismo miasta poszło dwudziestego"* — dwie daty i jedna obietnica, wszystkie sprawdzalne | wykonane | 300-02-28 |
+| **ZEGAR PANA — Warryn** | przywilej spisany · narzędzia zamówione · grunt obrysowany · **kuźnia szukana** | **300-03-07** | 300-02-28 |
+| **ZEGAR MIASTA — Herwin** | **okres przejściowy i samoorganizacja:** nowy wagowy · pierwsze losowanie działek przy ludziach · znak miasta obok pieczęci pana. ### **Miasto samo ustala kolejność** — lord nazywa CO, nie JAK | **300-04-01** | 300-02-28 |
+| przejście | **stary porządek obowiązuje** — Herwin waży, dopóki nie ma następcy; **nic nie jest nieważne z braku nowej formy**. Kto staje po działkę, **czeka na losowanie, nie na łaskę** — i słyszy to dziś | do 300-04-01 | 300-02-28 |
+| **Herwin** | **nowy wagowy PRZED CERWYNEM**, nie w kwietniu — *„Justycjariusz nie ma zastać burmistrza ważącego to, co sam podpisuje"* | **przed 300-03-02** | 300-02-28 |
 | **Symon → Hal** | **kiedy placówka w BRAAVOS i PENTOS** — kapitał wejścia **140 smoków 80 jeleni** leży wydzielony od sierpnia, nietknięty | wysłane 300-02-27 | 300-02-27 |
 | **Symon → Hal** | **zarządca-wspólnik RIVERRUN** *(500 smoków obrotu mies. prowadzone listownie)* + pusta **analiza po Demanie** — czy wybrał | wysłane 300-02-27 | 300-02-27 |
 | **Symon → Hal** | **wyniki naboru + czy ruszył DOM AUDYTOWY** — zarządca i rachmistrz są, ### **mistrz NIE ZNALEZIONY** *(poza cechem w Białym Porcie mistrzów rewizji nie ma — cech jest po to, żeby ich nie było)* | wysłane 300-02-27 | 300-02-27 |

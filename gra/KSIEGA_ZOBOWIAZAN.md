@@ -46,7 +46,10 @@ Na start tylko to, co pewne z ostatnich dni:
 | Warryn + Orland Korzec | **A · jedna karta co 10 dni** — gęby / korce / **na ile dni starczy**. Do rąk Symona i do księgi | **od 300-02-26** | 300-02-25 |
 | Orland Korzec | **C · rozgrodzić skład na cztery przegrody**, każda z kreską ogłoszoną z góry: ziarno siewne, żywność na rok, rezerwa na klęskę, obrok. **Klucz u niego, księga u pisarza grodzkiego, rządca ma wgląd bez klucza** | **300-03-07** | 300-02-25 |
 | Orland + Warryn | **D · kto trzyma, nie decyduje** — Orland wydaje na liczbę Warryna; **odmowa tylko na piśmie, z powodem** | **300-03-07** | 300-02-25 |
-| ### Symon | ### **PRZEGRODA ① BĘDZIE PUSTA** — ziarna siewnego w spichrzu nie ma, leży w chałupach pod łóżkami, nieliczone przez nikogo. Wybrać: **policzyć** (Warryn ma podać cenę polityczną wejścia do stu chałup) albo **poręczyć** (lenno daje siew wiosną każdemu, kto swój zjadł) | ### **Czwarty Miesiąc 300** *(Torren: „jak nie puszczą, to zjemy"; Aeg je od Pierwszego)* | 300-02-25 |
+| ### Symon | ### **W JAKIEJ FORMIE ogłosić porękę siewu** — **dar czy dług z datą**, zwracany po żniwach przy świadkach z ławy. Poręka bez warunku to rozkaz, żeby zjeść siew: Aeg zje jutro, a Stary Bren („wolę zdechnąć") dostanie tyle samo. *Dług ma datę, jałmużna ma świadków* | ### **pilne — Aeg je od Pierwszego, Torren do Czwartego** | 300-02-25 |
+| Warryn → sołtysi i ławy | **spytać, nie mierzyć:** dom po domu, jawnie, jedno pytanie — *ile zostawiłeś na siew i ile ci zostało*. **Nikt nie zagląda pod łóżko** | przed ogłoszeniem poręki | 300-02-25 |
+| Orland Korzec | **na ile korcy ma się przygotować** — poręczyliśmy za liczbę, której nikt nie zna | po odpowiedzi ław | 300-02-25 |
+| **Lenno (Kasa 2)** | **płaci za robotę** — robociznę trzeba odtąd kupić. **Rejestr dniówek policzy czterystu sam**: kto chce grosz, poda imię, wieś i co umie. *Wydatek na robotę i spis w jednej monecie*. **Ile to kosztuje w sezonie — nie przeliczone** | od wiosny, od Orbela | 300-02-25 |
 | ### Symon | ### **luka po oczynszowaniu: „mam się wyprowadzić i wrócić?"** — rozkaz z 300-02-07 nie mówi, co ze starym, który wyjdzie ze zwyczaju i wróci jako nowy. **Pierwszy, który to zrobi, założy zwyczaj** | ### **wiosna 300 — przy wymierzaniu działek** | 300-02-25 |
 | Symon | **ręce przy pierwszym palu** — nowi płacą grosz zamiast dni; przy Orbelu na wiosnę to wyjdzie jako brakująca robocizna, nie jako reguła | wiosna 300 | 300-02-25 |
 | ### Symon | ### **pisarz przy bramie** — inaczej kwit podpisywany wieczorem z pamięci Rowana, a to **gorsze niż brak kwitu, bo wygląda jak zapis** | **przed 300-03-02** | 300-02-25 |
@@ -92,6 +95,12 @@ Na start tylko to, co pewne z ostatnich dni:
 | miejsce | kto prowadzi | ostatni meldunek |
 |---|---|---|
 | **Grobla Fosy** | Bran, majordom robót | 300-02-25 — cztery kafary, stoi przez odwilż |
+| **Lecznica Fosy** | **NINA, zielarka włości** | ### 299-08-26 — **6 mies. ciszy, bo nie było rubryki.** Melduje 300-03-01 |
+| **Apteka bagna — mech i zioła** *(towar, popyt skacze zimą)* | **NINA + maester WYSTAN** | ### 299-06-23 — **8 mies.** Melduje 300-03-01 |
+| **Szklarnie Fosy** *(nie ogród — **kotłownia portu**)* | Mira + Werran | ### 299-08-18 — **6 mies.** Melduje 300-03-01 |
+| **Szkoła + posiłek przy szkole** *(program miasteczka)* | Warryn | ### 299-08-11 — **6,5 mies.** Melduje 300-03-01 |
+| **Spis flory Przesmyku** | Wystan + Nina | ### 299-09-08 — **5,5 mies.** Melduje 300-03-01 |
+| **Obrys gruntu projektu** | **WEYLIN (woda) + ORBELO (kamień)** | 300-02-06 — chodzą po gruncie; *cisza w rejestrze to nie cisza na ziemi* |
 | **Przystań Wilka** | dawny brygadzista murarski z Białego Portu (bez imienia — Gawen 299-08-27) | ### NIGDY NIE MELDOWAŁ — bo nikt nie pytał. **Meldunek 300-03-01** |
 | **Dustinport — BUDOWA i koordynacja** | **DONNEL OBROK**, dawny kwatermistrz z chorągwi Cerwynów (znaleziony przez Gawena 299-08-27) | ### NIGDY NIE MELDOWAŁ — bo nikt nie pytał. Pracuje od 6 miesięcy. **Meldunek 300-03-01** |
 | **Dustinport — FLOTA tam stacjonująca** | **TORREN SOLNY, Pierwszy Admirał Korony** (pakt z lady Barbrey 299-08-11) | 300-02-18 — Król przyjął trzy liczby: sześć mokrych · ~250 rocznie · odkup odbitego |

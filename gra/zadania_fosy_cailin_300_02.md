@@ -367,23 +367,63 @@ To nie jest dostawa — to jest **kamieniołom, kamieniarze, tratwy, ludzie od t
 > **WĘZEŁ PRZEŁADUNKOWY NA BIAŁYM NOŻU = PRZYSTAŃ WILKA.** To nie były dwa przedsięwzięcia do połączenia — to jedno, prowadzone od 298 pod **dwiema nazwami w dwóch różnych spisach**, i dlatego nikt nigdy nie policzył go w całości.
 > *„Nie ma tu pięciu pomysłów. **JEST JEDEN POMYSŁ, ROZŁOŻONY WZDŁUŻ WODY.**"*
 
-## ŁAŃCUCH, MORZE DO MORZA
+## ⚠️ POPRAWKA GRACZA 300-02-25 — TO SĄ DWIE DROGI, NIE JEDNA
+
+Narysowałem jeden łańcuch przez Przystań Wilka. **Źle.** Z Cailin wychodzą **dwie osobne drogi na wschód**, w różne strony, dla różnych ładunków i z różnymi właścicielami:
 
 ```
-MORZE ZACHODNIE
-   │  (1) GORĄCY PORT + BASZTA — ujście Fever
-   │      ┃ przeładunek: statek morski → Muł
-   │  (2) WODNY TRAKT — rzeka Fever, pod prąd
-   │      ┃ przeładunek: Muł → ląd
-   │  (3) MIASTO CAILIN — głowa rzeki, waga, cło, place, stajnie
-   │      ┃
-   │  (4) TRAKT LĄDOWY — Cailin → Cerwyn → Przystań Wilka   ◄── to jest PRZEWŁOKA
-   │      ┃ przeładunek: ląd → barka
-   │  (5) PRZYSTAŃ WILKA — węzeł na górnym Białym Nożu
-   │      ┃ z prądem, łatwo
-   │  (6) BIAŁY NÓŻ → BIAŁY PORT — jedyna wschodnia gęba całej drogi
-MORZE WSCHODNIE
+╔══ DROGA PIERWSZA: PRZEWŁOKA DWÓCH MÓRZ ══════════════════════╗
+   MORZE ZACHODNIE
+      │  (1) GORĄCY PORT + BASZTA — ujście Fever
+      │      ┃ przeładunek: statek morski → Muł
+      │  (2) WODNY TRAKT — rzeka Fever, pod prąd, Muły + Pstrągi
+      │      ┃ przeładunek: Muł → ląd
+      │  (3) MIASTO CAILIN — głowa rzeki: waga, cło, place, stajnie
+      │      ┃
+      │  (4) PRZEWŁOKA — NA WSCHÓD, WPROST DO SŁONEJ WODY
+      │      ┃      dwie linie obok siebie: droga wozów + droga włóki
+      │  (5) ### PORT WSCHODNI — BEZ NAZWY, BEZ WŁAŚCICIELA, BEZ KASY
+      │      ┃ morzem wzdłuż brzegu
+      │  (6) BIAŁY PORT → Essos
+   MORZE WSCHODNIE
+╚═══════════════════════════════════════════════════════════════╝
+
+╔══ DROGA DRUGA: TRAKT WEWNĘTRZNY — PÓŁNOC DLA SIEBIE ═════════╗
+      MIASTO CAILIN
+      │  bita droga na PÓŁNOCNY WSCHÓD
+      │  ZAMEK CERWYN — przelot, myto, powód żeby drogi pilnować
+      │      ├──→ dalej lądem: WINTERFELL
+      │      │
+      │  PRZYSTAŃ WILKA — rzeczny port u GÓRY Białego Noża
+      │      ┃ rzeką, z prądem
+      │  BIAŁY PORT
+╚═══════════════════════════════════════════════════════════════╝
 ```
+
+### CO Z TEGO WYNIKA — I TO JEST WIĘCEJ NIŻ POPRAWKA RYSUNKU
+
+**1. WŁÓKA OKRĘTOWA PRZESTAJE BYĆ HIPOTEZĄ.** Pisałem, że nie da się toczyć kadłubów pięć dni drogi do Cerwyna. **I nie da się — ale nikt tego nie zamierzał.** Przewłoka idzie **wprost na wschód, do najbliższej słonej wody**, i jest krótka. **Włóka jest możliwa właśnie dlatego, że nie prowadzi do Cerwyna.**
+
+**2. TO SĄ DWA RÓŻNE INTERESY I NIE WOLNO ICH MIESZAĆ.**
+
+| | **PRZEWŁOKA** | **TRAKT WEWNĘTRZNY** |
+|---|---|---|
+| co wiezie | **cudzy towar w tranzycie** | zboże, kamień, ludzi, sprawy Korony |
+| komu służy | kupcom obcym — i cłu | **Północy samej: Cerwynowi, Winterfell, Fosie** |
+| czym płaci | **cło i opłata przewozowa** | myto, i tym, że Północ żyje |
+| kto jest wspólnikiem | Manderly *(zasada zamknięta)* | Cerwyn *(przelot i myto)* |
+| co się stanie, gdy stanie | tracimy zysk | **Winterfell nie dostaje dostaw** |
+
+**3. PRZYSTAŃ WILKA JEST WĘZŁEM TRAKTU WEWNĘTRZNEGO, NIE PRZEWŁOKI.** Jej sens: **rzeczny port u góry Białego Noża na drodze ku Winterfell** — miejsce, gdzie wóz ustępuje barce. Dlatego jej wspólnikami są Korona ½, Cerwyn ¼, Manderly ¼: to jest droga **Północy do siebie samej**, a nie kanał cudzego srebra.
+
+**4. I DLATEGO ZASADA ZAMKNIĘTA WYGLĄDA INACZEJ, NIŻ JĄ ZAPISAŁEM.**
+*„Miasto Cailin nigdy nie otwiera przystani na wschodnim brzegu"* — **miasto nie. Ale przewłoka kończy się na słonej wodzie i to jest wschodni brzeg.**
+
+> ### ⚠️ PYTANIE, KTÓREGO NIKT JESZCZE NIE POSTAWIŁ: CZYJ JEST PORT WSCHODNI?
+> Jeśli jest Tally'ego — zasada zamknięta jest spełniona **na literę i pusta w treści**, a Wyman zobaczy to w trzy oddechy, tak jak zobaczył poprzednim razem.
+> Jeśli jest Manderly'ego albo wspólny — umowa **trzyma naprawdę**, bo wschodnia gęba zostaje w jednej ręce, tej samej co zawsze.
+> **To nie jest pytanie o kamień. To jest pytanie o to, czy umowa z Białym Portem przetrwa pierwszy ładunek.**
+> Port wschodni nie ma dziś **ani nazwy, ani właściciela, ani kasy** — a jest końcem całej drogi.
 
 **Osobno, na południe:** **(0) ODCINEK TALLY** — Fosa → granica z Dorzeczem. To nie jest część przewłoki. To jest **żywność i handel z Dorzecza**, oś północ–południe, i buduje się ją niezależnie.
 

@@ -392,11 +392,14 @@
    "wobec": "nesta_braavijka",
    "_dziennik_stan": 19,
    "status": "WARUNKI: baza(wikt)+~6 jel/mies DRAW (start ~12-19) + 1/3 netto z transakcji Symona + maly rosnacy udzial w core-faktorii (proba). || 12-30 KOREKTA: draw ~12-19 nie byl osobno ksiegowany - dopisany (+6 jel), teraz recurring (zegar draw_nesta, next ~01-19). 1/3 i udzial core prowadzi Nesta w ksiegach kantoru (rosna ku rozliczeniu). NASTEPNE: wziac od Nesty PELNE rozliczenie partnerskie (Symon=czlowiek liczb, powinien miec wlasne konto czyste). || 12-30 (rzut 93): PELNE ROZLICZENIE partnerskie - draw biezacy, +10 jel 1/3 rozpoznane, UDZIAL CORE-FAKTORII PODNIESIONY (z proby na stale, rosnacy) = realna wlasnosc. Konto czyste. Equity = mieszczanska substancja (za standingiem/nazwiskiem). Symon wspolwlascicielem kantoru. || 08-01 KOREKTA (gracz): Bilans liczyl sam flat draw 6 jel - BLAD. Udzial partnerski skaluje sie: 1/3 netto transakcji + ROSNACY equity core-faktorii (udzial w plonie rotacji). Rozpoznano +10 jel udzialu partnerskiego za miesiac (equity+1/3 nie-w-kasie) -> sakiewka 90->100. Na przyszlosc: Bilans rozpoznaje udzial partnerski, nie tylko draw.",
-   "stan_watku": "ZYWY",
+   "stan_watku": "WCHLONIETY",
    "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
    "wchlonelo": [
     "proba_nesta"
-   ]
+   ],
+   "stan_data": "300-02-25",
+   "scalony_z": "dom_handlowy_tally_299_05",
+   "stan_powod": "Rozstrzygniecie gracza: NESTA ZOSTALA WSPOLNICZKA DOMU TALLY. Watki sie zbiegly - spolka z Nesta to dzis czesc ustroju Domu."
   },
   {
    "id": "rozliczenie_antaryon_plan",
@@ -774,8 +777,10 @@
    "id": "zimowy_relief",
    "status": "ZAWIAZANY z Owenem (d26, rzut 88): zimowy relief dla ubogich Bialego Portu — 'akcja Wiary, wsparta przez kupcow portu'. STRUKTURA: skladka W NATURZE od koalicji (Leona welna/sukno=ciepla odziez; kolodzieje odpad drzewny na opal=dlug wdziecznosci; Wenda/przekupki jadlo; Nesta/kantor drobny grosz) -> ROZDAJE Wiara przez septe/sierociniec wg ksiegi jalmuzny (Owen zna najubozszych; Hal wspolprowadzil ksiege). Owen: moralna powaga sciaga kupcow (poboznosc+twarz), rozdzial GODNY (nie upokarzajaca jalmuzna), a Symona TRZYMA W CIENIU (koordynator, nie fundator; osłona przed nadmierna widocznoscia). Owen 43->45, rep wiara 39->40. NASTEPNY KROK: szybka runda kupcow (Leona/Boren/Wenda/Nesta) po skladki w naturze, ZANIM ~5 XI ugryzie mroz. Potencjal: moze urosnac w coroczna instytucje = trwaly kapital u Wiary. || d27 (Leona rzut 55): PIERWSZA SKLADKA — Leona daje bele grubszej welny + sukienne resztki na ciepla odziez dla ubogich (rozsadnie, nie ruinujaco; widzi swoj interes: poboznosc/twarz/spokoj portu). Leona 39->40. Hal na rundzie (patrzy+pomaga, nast->41). Zostaje: kolodzieje (opal/odpad), Wenda/przekupki (jadlo), Nesta/kantor (grosz). Zbiorka do ~11-04 -> Owen. || d27 (Boren rzut 55): DRUGA SKLADKA — kolodzieje daja odpad drzewny (scinki/heblowiny) na opal, czeladnicy wiaza w wiazki; dla cechu to niemal darmo + dlug wdziecznosci + dobra twarz. Boren 38->39. Zebrano 2/4 (Leona odziez + kolodzieje opal). Zostaje: Wenda/przekupki (jadlo), Nesta/kantor (grosz). || d27 (Wenda rzut 51): TRZECIA SKLADKA — Wenda skrzykuje kilka przekupek: solona/suszona ryba, wczorajszy towar, resztki na || 12-24 (rzut 84): relief (siec+ksiega Hala+kolodzieje) dzialal sprawnie pod najgorszym mrozem - k || 12-25 (rzut 26): spad mrozu - popyt>podaz; ostra triage (najslabsi pierwsi), organizacja(6) powstrzymala katastrofe (bez trupa/tumultu) ale nie stworzyla dostatku. ZAPASY CIENIEJA (mroz+dodatek ko || 12-27 (rzut 75): petycja dopracowana z Owenem - ostra, framing porzadek+hojnosc lorda, hak nie z || 12-29 AUDIENCJA UDANA (rzut 82/83): lord Wyman przyznal dosyp na relief (jego hojnosc, zarzad Wi",
    "filar": "ZIMOWY RELIEF z Owenem",
-   "stan_watku": "ZYWY",
-   "_dziennik_nota": 1
+   "stan_watku": "ZAMKNIETY",
+   "_dziennik_nota": 1,
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: W TEJ FORMIE ZAMKNIETE. Zimowy relief Bialego Portu odegrany i domkniety dosypem Wymana 298-12-29. Wzor zostaje w zapisie - relief wdow i sierot prowadzi sie dzis z Kasy 1 osobno."
   },
   {
    "id": "zelazo_gulltown",
@@ -803,7 +808,9 @@
    "_dziennik_stan": 3,
    "_dziennik_opis": 5,
    "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_uwaga": "Rozstrzygniecie gracza: to sie zmienilo i NIE JEST JUZ BEZPOSREDNIO WDRAZANE przez Symona jako wlasny underwriting. Przeformowane na sprawe PANSTWOWA: standard ubezpieczenia frachtow na Polnocy plus obieg wekslowy.",
+   "filar": "STANDARYZACJA UBEZPIECZEN FRACHTU + WEKSLE (poziom panstwa)",
+   "_dziennik_nota": 1
   },
   {
    "id": "alarm_opal",
@@ -2572,8 +2579,10 @@
    "tytul": "Uprzedzanie groźby od morza - miecze Wymana / amfibie / wywiad Nesty",
    "status": "domknieta",
    "_dziennik_nota": 8,
-   "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_watku": "ZAMKNIETY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: to bylo PODCZAS WOJNY. Dzis obrona zachodu stoi REKAMI LORDOW ZACHODU - obsadzony brzeg, nie improwizacja. Zamkniete jako sprawa wojenna."
   },
   {
    "id": "dziesiaty_stopien_polityki_proba_1025",
@@ -2630,16 +2639,21 @@
    "tytul": "Garnizon do Winterfell - uzbroic serce Polnocy (doom-prewencja)",
    "status": "CZYSTA_OBRONA_zelazni_odparci_trzymaja_nic",
    "_dziennik_nota": 4,
-   "stan_watku": "ZYWY",
-   "stan_uwaga": "gracz sam wskazal rekrutacje garnizonu jako watek, ktory ginie"
+   "stan_watku": "ZAMKNIETY",
+   "stan_uwaga": "gracz sam wskazal rekrutacje garnizonu jako watek, ktory ginie",
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: ZAMKNIETE. Luka wojenna ('zelazni biora pusty Winterfell') nie istnieje - wojna skonczona, Wyman odegral swoje."
   },
   {
    "id": "mlodzi_zakladnicy_zagrozenie_karstark_1102",
    "tytul": "Mlodzi zakladnicy (Willem Lannister/Tion Frey) - iskra pod Karstarkiem",
    "status": "rozbrojony",
    "_dziennik_nota": 2,
-   "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_watku": "WCHLONIETY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
+   "stan_data": "300-02-25",
+   "scalony_z": "rejestr_jencow_dwustronny_1102",
+   "stan_powod": "Rozstrzygniecie gracza: ZAKLADNICY JUZ ODDANI. Sprawa nalezy do wymiany jencow, nie stoi osobno."
   },
   {
    "id": "rejestr_jencow_dwustronny_1102",
@@ -2647,7 +2661,10 @@
    "status": "aktywny",
    "_dziennik_nota": 2,
    "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
+   "wchlonelo": [
+    "mlodzi_zakladnicy_zagrozenie_karstark_1102"
+   ]
   },
   {
    "id": "theon_moneta_w_powietrzu_1103",
@@ -2895,8 +2912,10 @@
    "tytul": "Baratheonowie na kursie kolizyjnym - Reach jako os poludnia",
    "status": "LANN-TYRELL_ZWYCIESCY_zjednoczeni_Stannis_na_Smoczej_Skale_ciern",
    "_dziennik_nota": 6,
-   "stan_watku": "ZYWY",
-   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis"
+   "stan_watku": "ZAMKNIETY",
+   "stan_uwaga": "299-01 przeglad kubla A: stary zapis, ale zobowiazanie trwa do dzis",
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: watek EWOLUOWAL. Renly martwy, Stannis pod Murem, Reach zwiazany malzenstwem. Co z tego zyje, zyje w Stanie Poludnia i w relacji z Reach."
   },
   {
    "id": "emisariusz_renly_oko_poludnie_1114",
@@ -3015,9 +3034,10 @@
    "id": "kanal_olenna_tyrell_1127",
    "tytul": "Tajny kanal do Lady Olenny Tyrell - Ogrod hedguje, rysa=Joffrey",
    "status": "LINIA_OTWARTA_299-04_przyjazn_Olenny+handel_zbozem",
-   "_dziennik_nota": 6,
-   "filar": "KANAL DO OLENNY TYRELL",
-   "stan_watku": "ZYWY"
+   "_dziennik_nota": 7,
+   "filar": "RELACJA Z REACH (Olenna - kanal i zboze)",
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "Rozstrzygniecie gracza: procesowac jako ODREBNY MOTYW - relacja z Reach, nie tajny kanal wojenny. Olenna TAKZE SPRZEDAJE NAM ZBOZE, wiec to jest naraz dyplomacja i dostawa."
   },
   {
    "id": "wektor_stannis_zlamany_sojusznik_1127",
@@ -3080,7 +3100,9 @@
    "status": "TRZYMANY_jako_zaprzeczenie_mitu_straz_zaostrzona_cena=niepodleglosc",
    "_dziennik_nota": 1,
    "filar": "JAIME LANNISTER",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: watek sie ZMIENIL. Wojna skonczona, niepodleglosc zamknieta na pismie - cena, ktora miala byc zaplacona za Jaimego, zostala uzyskana inaczej."
   },
   {
    "id": "wniosek_maester_inzynieria_melioracja_1128",
@@ -3146,7 +3168,9 @@
    "status": "FILAR_ZAPIECZETOWANY_kaskada_koncowa_otwarta",
    "_dziennik_nota": 6,
    "filar": "RAMA WIELKIEGO UKLADU",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: DO ZAMKNIECIA. Rama wielkiego ukladu byla narzedziem wojny o uznanie. Uznanie jest. Co z niej zostalo zywe, siedzi w Stanie Poludnia i w dyplomacji zewnetrznej."
   },
   {
    "id": "keystone_dowod_kazirodztwa_1219",
@@ -3220,7 +3244,9 @@
    "status": "DOKTRYNA_PRZEKAZANA_front_wewnetrzny_zabezpieczony",
    "_dziennik_nota": 1,
    "filar": "BOLTON - poufna rada Robbowi",
-   "stan_watku": "ZYWY"
+   "stan_watku": "TLO",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "TLO DREADFORTU, nie zadanie. Doktryna natury ludzi i odczyt Roose'a ('tafla bez zmarszczki') sa SOCZEWKA, przez ktora czyta sie sfere Dreadfortu - nie rzecza do zrobienia."
   },
   {
    "id": "sasiedztwo_stannis_po_wojnie_299_04",
@@ -3294,7 +3320,10 @@
    "status": "STATUT_KOMPLETNY_dyr+doradczyni+aktywa+horyzont_Essos+Bank_gotowe_do_pieczeci",
    "_dziennik_nota": 7,
    "filar": "DOM HANDLOWY TALLY",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZYWY",
+   "wchlonelo": [
+    "wspolnictwo_nesta"
+   ]
   },
   {
    "id": "horyzont_essoski_faktoria_tally_braavos_299_05",
@@ -3385,11 +3414,13 @@
    "tytul": "Potrzeby dołu (Wenda) - uszeregowana lista tego co boli biedę Białego Portu + olśnienie rywal↔chleb",
    "status": "dyspozycje_wydane",
    "_dziennik_nota": 2,
-   "stan_watku": "ZYWY",
+   "stan_watku": "ZAMKNIETY",
    "filar": "POTRZEBY DOLU",
    "wchlonelo": [
     "puls_dolu_czy_wolne_krolestwo_siega_do_garnka_299_05"
-   ]
+   ],
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: ZAMKNIETE. Lista Wendy zrobila swoje - z niej wyszly clo zaporowe, zniesienie cla na przywoz i olsnienie o obcym srebrze."
   },
   {
    "id": "tozsamosc_wizualna_domu_tally_299_05",
@@ -3903,8 +3934,10 @@
    "status": "OTWARTY_299-07-06",
    "nota": "07-06 Edmure zgodzil sie z entuzjazmem. Filia komercyjna Domu Tally w Riverrun: handel/zboze/korytarz/kanal Olenny + ciche oko i logistyka Symona w Dorzeczu (jak posterunek Castle Black - forward node). Kasa1 inwestycja. Wiaze North-Dorzecze gospodarczo. Obsadzic (Hal-Dyrektor koordynuje).",
    "filar": "ODDZIAL DOMU W RIVERRUN",
-   "stan_watku": "ZYWY",
-   "_dziennik_nota": 1
+   "stan_watku": "ZAMKNIETY",
+   "_dziennik_nota": 1,
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: ODDZIAL JUZ POWSTAL. Filia w Riverrun stoi - 'obsadzic' wykonane. Dzialanie filii idzie pod Domem Handlowym i Kompania."
   },
   {
    "id": "frey_sukcesja_zwiazanie_przez_edmure_299_07",
@@ -3924,15 +3957,18 @@
    "status": "OTRZYMANA_299-07-06",
    "_dziennik_nota": 3,
    "filar": "TRIDENT - rada Bryndena",
-   "stan_watku": "ZYWY"
+   "stan_watku": "TLO",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "TLO, nie zadanie. Rada Blackfisha jest doktryna postawy wobec Poludnia ('wygraj pokoj jak wojne'), a nie poleceniem z terminem. Jej konkret - rygiel na Trident - zyje w pakcie obronnym."
   },
   {
    "id": "pakt_obronny_polnoc_dorzecze_299_07",
    "tytul": "Pakt Obronny Polnoc-Dorzecze - Brynden pld architekt, 3 plany, wymiana oficerow (Trident z furtki w zapore)",
    "status": "ZAWIAZANY_299-07-06_projekty_w_toku",
-   "_dziennik_nota": 2,
-   "filar": "PAKT OBRONNY POLNOC-DORZECZE",
-   "stan_watku": "ZYWY"
+   "_dziennik_nota": 3,
+   "filar": "RELACJA POLNOC-DORZECZE (pakt obronny, plany, Blackfish)",
+   "stan_watku": "ZYWY",
+   "stan_uwaga": "Rozstrzygniecie gracza: ODREBNY WATEK - relacja Polnocy z Dorzeczem. Pakt ma PLANY OBRONNE i ma BLACKFISHA, ktory umacnia Dorzecze. To zywa rzecz z wlasna trescia, nie zapis z lata."
   },
   {
    "id": "sprawozdanie_dla_robba_objazd_299_07",
@@ -4243,12 +4279,13 @@
    "id": "kompania_polnoc_dorzecze_299_08",
    "tytul": "Kompania Polnoc-Dorzecze - handlowo-panstwowa spolka odbudowy spichlerza + dwukierunkowa arteria (Dom Tally koordynuje za udzial, Korona+rody dolaczaja)",
    "status": "SZKIELET_299-08-12_zgoda_co_do_zasady_(statut/udzialy/werbunek_rodow/rozruch_dojrzewaja)",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "stan_watku": "ZYWY",
-   "filar": "KOMPANIA POLNOC-DORZECZE",
+   "filar": "KOMPANIA POLNOC-DORZECZE (Dom Handlowy; skutek w bilansie)",
    "wchlonelo": [
     "kompania_pierwszy_list_dorzecza_299_08"
-   ]
+   ],
+   "stan_uwaga": "Rozstrzygniecie gracza: to jest PRZEDSIEWZIECIE NASZEGO DOMU HANDLOWEGO laczace Polnoc z Dorzeczem, ze skutkiem w BILANSIE I SILE DOMU. Osobno od tego panstwo planuje UMOWE HANDLOWA z Dorzeczem - dwie rzeczy, nie jedna."
   },
   {
    "id": "sprawa_rymana_wdowa_justycjariusz_299_08",
@@ -4571,7 +4608,9 @@
    "status": "KARTA_SPISANA_299-08-28;_czeka_na_powolanie_przez_Robba_po_powrocie,_potem_Symon_niesie_ja_Wymanowi_SAM_na_objezdzie_wschodu",
    "_dziennik_nota": 8,
    "filar": "MISTRZ HANDLU I PORTOW POLNOCY",
-   "stan_watku": "ZYWY"
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: ODPOWIEDZ BYLA. Urzad przyjety przez Wymana 299-09-22, pytanie o Wylisa padlo i zostalo rozstrzygniete. Urzad dziala; jego biezaca robota idzie pod clem i portami."
   },
   {
    "id": "antaryon_oferta_braavos_299_08",
@@ -5364,8 +5403,10 @@
    "priorytet": "wysoki",
    "tytul": "POLICZ TALERZE - re-taskowanie placowki Domu w Czarnym Zamku: rola przydzialow miesiac po miesiacu i FORMA skreslenia; czeka na odpowiedz Hala",
    "filar": "POLICZ TALERZE - Czarny Zamek",
-   "stan_watku": "ZYWY",
-   "_dziennik_nota": 1
+   "stan_watku": "ZAMKNIETY",
+   "_dziennik_nota": 1,
+   "stan_data": "300-02-25",
+   "stan_powod": "Rozstrzygniecie gracza: MAMY JUZ INFORMACJE OD DELEGACJI STRAZY o zapotrzebowaniu. Liczenie talerzami bylo obejsciem, bo Straz nie mowila - Straz powiedziala sama. Obejscie niepotrzebne."
   },
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
@@ -5682,7 +5723,8 @@
    "status": "otwarty",
    "_dziennik_nota": 9,
    "filar": "MIGRACJA WSCHODNIEGO WYBRZEZA",
-   "stan_watku": "ZYWY"
+   "stan_watku": "SZCZEGOL",
+   "stan_uwaga": "Rozstrzygniecie gracza: WATEK SZCZEGOLU - zdarzenie z wlasna trescia, nie filar. Nie wymaga wlasnej operacji; wraca, gdy dotknie go wieksza sprawa."
   },
   {
    "id": "raport_osrica_z_muru_299_10",
@@ -5702,8 +5744,9 @@
    "id": "napad_w_borze_hornwood_299_11",
    "status": "otwarty",
    "_dziennik_nota": 1,
-   "filar": "NAPAD NA KOLUMNE NAMIESTNIKA",
-   "stan_watku": "ZYWY"
+   "filar": "NAPAD W BORZE HORNWOOD",
+   "stan_watku": "SZCZEGOL",
+   "stan_uwaga": "Rozstrzygniecie gracza: WATEK SZCZEGOLU - zdarzenie z wlasna trescia, nie filar. Nie wymaga wlasnej operacji; wraca, gdy dotknie go wieksza sprawa."
   },
   {
    "id": "sad_w_hornwood_299_11_15",
@@ -5716,8 +5759,9 @@
    "id": "palenie_zmarlych_polnoc_299_10",
    "status": "otwarty",
    "_dziennik_nota": 1,
-   "filar": "PALENIE ZMARLYCH - regula Reeda",
-   "stan_watku": "ZYWY"
+   "filar": "PALENIE ZMARLYCH",
+   "stan_watku": "SZCZEGOL",
+   "stan_uwaga": "Rozstrzygniecie gracza: WATEK SZCZEGOLU - zdarzenie z wlasna trescia, nie filar. Nie wymaga wlasnej operacji; wraca, gdy dotknie go wieksza sprawa."
   },
   {
    "id": "zamarznieta_zatoka_wschod_299_11",

@@ -3481,7 +3481,7 @@
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "stan_watku": "ZYWY",
    "stan_uwaga": "FILAR: wszystkie dzialania polityczne zewnetrzne i wywiad. Mierzy sie kanalami, nie postepem. Najwieksza biala plama: dwor Krolewskiej Przystani."
   },
@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 16,
+   "_dziennik_nota": 17,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -4794,7 +4794,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 29,
+   "_dziennik_nota": 30,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -5730,7 +5730,7 @@
   {
    "id": "raport_osrica_z_muru_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 11,
    "filar": "OSRIC - raporty z Muru",
    "stan_watku": "ZYWY"
   },
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 19,
+   "_dziennik_nota": 20,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6058,7 +6058,7 @@
   {
    "id": "wychowankowie_winterfell_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "filar": "WYCHOWANKOWIE WINTERFELL",
    "stan_watku": "ZYWY"
   },
@@ -6148,7 +6148,7 @@
   {
    "id": "roose_bolton",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "gawen_skarbnik",
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   }
  ]
 }

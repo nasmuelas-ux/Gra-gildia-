@@ -25,8 +25,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon | odpowiedź **burmistrzowi**: TERMIN, nie łaska | **SPÓŹNIONE — 3 miesiące** | 299-11 |
 | Symon | pismo do Króla: rejestry Locke'ów + pochodzenie + status jeńców | jednym gońcem | 300-02-19 |
 | Symon → Theonowi | „będę ci mówił" | **BEZ TERMINU** | 300-02-18 |
-| ### **LADY CATELYN** | ### **SPODZIEWANA NA FOSIE — NIE PRZYJECHAŁA.** Izba grzana od 20., straż ma budzić Warryna w nocy. Na drodze od **299-10-05**; ostatnie znane miejsce **BARROWTON**; niepewność **ponad dwa tygodnie i rośnie**. Jej zapieczętowany list leży w skrzyni Symona | ### **okno: do 300-03-07** | 300-02-27 |
-| Symon | **sprawdzić dziś:** księga bramy *(czy szła kolumna z jej znakiem)* · Warryn *(wieść z Barrowton, choćby kupiecka)* · **Willa** *(jej pytanie o lady Stark nie brzmi jak pytanie Namiestnika)* | noc 300-02-27 | 300-02-27 |
+| ### **LADY CATELYN — GDZIE JEST: SPRZECZNOŚĆ W ZAPISIE, CZEKA NA ROZSTRZYGNIĘCIE GRACZA** | ### **A)** pisma pierwszoosobowe Symona z **300-02-16**: w drodze do **Riverrun**, ostatnio **Barrowton**, *„nie wiemy, gdzie jest, z dokładnością do dwóch tygodni"*, kruk do Warryna — spodziewana na Fosie. ### **B)** wątki `wektor_dolina_arryn` / `catelyn_misja_orle_gniazdo`: 299-12-18 *„Lysa przyjęła Catelyn"*, 300-02-06 *„pisze rzadko i mało, rozmowy w Dolinie idą"*. ### **Oba naraz nie mogą być prawdziwe. NIC NA TYM NIE BUDOWAĆ, dopóki gracz nie powie.** | ### okno na Fosie 02-25…**03-07**; kartka zostaje u Warryna tak czy owak | 300-02-27 |
 | Gawen | Ochmistrz Wychowanków — ogłoszenie nazwiska | 300-03-01 | 300-02-16 |
 | Gawen | Mistrz Zapasów Zimowych (etap I) | — | 300-02-15 |
 | Gawen | **liczący** — sześć wierszy, ilu ludzi przy której robocie | **BEZ DATY** ⚠️ | 300-02-20 |
@@ -157,7 +156,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | **Ramsay — wezwanie do 40 domów, bez wyjątku** | Korona, jawnie | przyjazd **przed 300-04-01** | 300-02-05 |
 | Traktat z Dorzeczem | Catelyn / Lucan | **ratyfikacja do VI/300** | 300-02-06 |
 | Sukcesja Bliźniaków | Catelyn | — | 299-09 |
-| ### **GDZIE JEST LADY CATELYN** | ### **kanału NIE MA** — prośba o „jedną linijkę z każdego postoju" leży w liście, który nie został jej doręczony | ### — | ### ostatnio **BARROWTON**; cisza, i jest strukturalna, nie losowa |
+| **DOLINA ARRYNÓW — czy Lysa pęknie** | **Catelyn** *(listy rzadkie i krótkie)* · **karta 7-dniowa Berona, rubryka 4: „czy lady Catelyn się odezwała"** | — | 300-02-06 — „rozmowy w Dolinie idą"; 299-12-25: Lysa poruszona dowodem, **trzyma ją strach, nie brak przekonania**. ### *Czy prowadzone na miejscu czy listownie — patrz sprzeczność w sekcji I* |
 | **Stan Dorzecza — południowa ściana królestwa** | **Blackfish** *(kanał nieustanowiony)* | ### nic od 299-07-06 | 299-07-06 |
 | **JON SNOW — po drugiej stronie Muru** *(filar własny)* | Osric/Straż · maester Aemon | — | 299-09 — Aemon: „nie napiszę, że nie żyje" |
 | **Rozdroże (Crossroads Inn)** — kto przejeżdża, dokąd, czyim znakiem, czego się boi | placówka Domu Tally | na bieżąco | 299-07 — przez nią uchyliła się Dolina |

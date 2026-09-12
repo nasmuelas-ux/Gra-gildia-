@@ -3049,7 +3049,7 @@
    "id": "wektor_dolina_arryn_1127",
    "tytul": "Dolina Arrynow - budzaca sie kalkulacja (granica, sila Polnocy, Catelyn-Lysa)",
    "status": "MUR_STRACHU_299-03-15_adresowac_zrodlo_szeptu_nie_Lyse",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 10,
    "stan_watku": "ZYWY",
    "filar": "DOLINA ARRYNOW",
    "wchlonelo": [
@@ -3085,7 +3085,7 @@
    "id": "catelyn_misja_orle_gniazdo_1127",
    "tytul": "Lady Catelyn -> Orle Gniazdo do Lysy (pozyskac Dyskaline)",
    "status": "WYRUSZYLA_pitch_pomsta_za_Jona+silna_Polnoc",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 7
   },
   {
    "id": "sansa_status_po_blackwater_1127",
@@ -5411,7 +5411,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 13,
+   "_dziennik_nota": 14,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -6112,7 +6112,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 6
   },
   {
    "id": "rzadca_warryn",
@@ -6142,7 +6142,7 @@
   {
    "id": "catelyn_stark",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 3
   }
  ]
 }

@@ -3481,7 +3481,7 @@
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "stan_watku": "ZYWY",
    "stan_uwaga": "FILAR: wszystkie dzialania polityczne zewnetrzne i wywiad. Mierzy sie kanalami, nie postepem. Najwieksza biala plama: dwor Krolewskiej Przystani."
   },
@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 29
+   "_dziennik_nota": 30
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -4950,7 +4950,7 @@
    "id": "taryfa_celna_polnocy_299_09",
    "tytul": "Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu",
    "status": "projekt_do_polozenia_przed_krolem",
-   "_dziennik_nota": 16,
+   "_dziennik_nota": 17,
    "filar": "TARYFA CELNA POLNOCY",
    "stan_watku": "ZYWY"
   },
@@ -5412,7 +5412,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 22,
+   "_dziennik_nota": 23,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -5681,7 +5681,7 @@
   {
    "id": "dlug_korony_wobec_domu_tally_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "filar": "DLUG KORONY WOBEC DOMU TALLY (~310 smokow)",
    "stan_watku": "ZYWY"
   },
@@ -5970,14 +5970,14 @@
   {
    "id": "zakaz_wylacznosci_faktora_i_porty_jako_komory_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "filar": "ZAKAZ WYLACZNOSCI FAKTORA / porty jako komory",
    "stan_watku": "ZYWY"
   },
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6089,7 +6089,7 @@
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "filar": "STANDARD TRAKTU POLNOCY",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 28,
+   "_dziennik_nota": 29,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "pochodzenie_symona_299_09",
@@ -6203,12 +6203,17 @@
   {
    "id": "illyrio_mopatis",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "torren_solny",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "nesta_braavijka",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

@@ -39,7 +39,11 @@ Na start tylko to, co pewne z ostatnich dni:
 | Symon → Królowi | prośba o **zwyczaj**, nie o sygnał: kancelaria Namiestnika dostaje **spis przyjazdów** | z najbliższym krukiem | 300-02-25 |
 | Willa | druga droga poczty — i **puszczać nią co miesiąc rzecz nieważną**, żeby działała | stałe | 300-02-25 |
 | ~~Hendry + Warryn: po trzy nazwiska~~ | **ODDANE 300-02-25.** Sześć nazwisk, **KESSEL BRODATY na obu listach**. Dziura: żaden z sześciu nigdy nie dowodził dwudziestoma | wykonane | 300-02-25 |
-| ### Symon | ### **WYBRAĆ dowódcę Mchowych Jastrzębi** — albo rozstrzygnąć, że żaden z szóstki nie jest dowódcą i szukać gdzie indziej | ### decyzja wisi | 300-02-25 |
+| ~~Symon: wybrać dowódcę~~ | **KESSEL BRODATY mianowany 300-02-25.** Zastępcę wybiera sam | wykonane | 300-02-25 |
+| Kessel | **wskazać zastępcę** | — | 300-02-25 |
+| ### Symon | ### **czy księga Jastrzębi idzie do pisarza grodzkiego** — rada Warryna: kto dowodzi, nie spisuje sam, co zrobił | ### decyzja wisi | 300-02-25 |
+| Hendry | **kwit przy bramie** — Rowan Półucho obejmuje komorę po Kesselu i **nie czyta**; kto podpisuje | **przed 300-03-02** *(Cerwyn)* | 300-02-25 |
+| ### Warryn + ORLAND KORZEC | ### **posadzić przy jednym stole: gęby i korce.** Dwie połówki jednej liczby trzymane osobno od 299-05; Symon jedynym złożeniem, a wyjeżdża 07. | ### **przed 300-03-07** | 300-02-25 |
 | Warryn | **sołtysom: kto widział ten wóz w drodze** *(pytano dotąd tylko o zaginięcia)* — ławy przysięgłych mają obowiązek odpowiadać | przed 300-03-07 | 300-02-25 |
 | Warryn + Alys | ### **bilans karmi ~1400 dusz, a liczy ~1000** — 1/3 przyszła zimą nie wiadomo skąd; domknąć spis 5 wsi i przeliczyć przednówek | ### przed przednówkiem | 300-02-25 |
 | Garrick | gotowość miasteczka pod prawo składu (waga, szopy, księga) | 10 dni | 300-02-25 |

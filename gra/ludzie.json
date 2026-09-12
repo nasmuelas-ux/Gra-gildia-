@@ -131,9 +131,34 @@
     "raportuje": "rada miejska, NIE Symon",
     "uwaga": "pisze do KORONY bezposrednio w sprawie prawa skladu - tak zadal Symon",
     "pewne": true
+   },
+   {
+    "imie": "KESSEL BRODATY",
+    "urzad": "dowodca Mchowych Jastrzebi (od 300-02-25; wczesniej sierzant przy komorze)",
+    "siedziba": "FOSA",
+    "raportuje": "Hendry",
+    "uwaga": "jedyne nazwisko na obu listach. Zastepce wybiera sam. OTWARTE: czy ksiega Jastrzebi idzie do pisarza grodzkiego (rada Warryna), bo dowodzacy nie moze sam spisywac, co zrobil",
+    "pewne": true
+   },
+   {
+    "imie": "ORLAND KORZEC",
+    "urzad": "Prowiantmistrz garnizonu (obsadzony 299-05-25; imie nadane 300-02-25)",
+    "siedziba": "FOSA",
+    "raportuje": "Symon",
+    "uwaga": "import z wojennej podazy - kwatermistrz, ktory liczyl racje armii Robba. Przyjmuje i rozdziela zboze z torf-za-chleb, przeprowadza garnizon przez zime. OSOBNO od spizarni domowej i Domu Handlowego (czysty rozdzial kas). WIE ILE KORCOW, NIE WIE ILU LUDZI WE WSIACH",
+    "pewne": true
+   },
+   {
+    "imie": "ROWAN POLUCHO",
+    "urzad": "sierzant przy komorze (od 300-02-25, po Kesselu)",
+    "siedziba": "FOSA",
+    "raportuje": "Hendry",
+    "uwaga": "NIE CZYTA - kwit przy bramie podpisuje kto inny. Dziura otwarta",
+    "pewne": true
    }
   ],
-  "_uwaga_o_pustych_krzeslach": "PUSTY WIERSZ Z NAZWA URZEDU I BEZ IMIENIA NIE JEST DOWODEM WAKATU - jest dowodem, ze rejestr nie nadazyl za watkami. Zanim nazwiesz czlowieka na krzesle, SPRAWDZ WATKI, nie tylko ten plik. (300-02-25: wymyslono 'Harberta Siwego' na krzeslo Warryna.)"
+  "_uwaga_o_pustych_krzeslach": "PUSTY WIERSZ Z NAZWA URZEDU I BEZ IMIENIA NIE JEST DOWODEM WAKATU - jest dowodem, ze rejestr nie nadazyl za watkami. Zanim nazwiesz czlowieka na krzesle, SPRAWDZ WATKI, nie tylko ten plik. (300-02-25: wymyslono 'Harberta Siwego' na krzeslo Warryna.)",
+  "_dwie_polowki_jednej_liczby": "OD 299-05 DO 300-02-25 NIKT NIE POSADZIL ICH PRZY JEDNYM STOLE: WARRYN liczy geby (3 wsie z 5, ~1400 dusz, 1/3 przyszla zima nie wiadomo skad). ORLAND KORZEC liczy korce (co do korca, lista imienna garnizonu i robotnikow przy grobli). Obaj raportuja Symonowi OSOBNO. Symon jest jedynym zlozeniem - i wyjezdza 300-03-07. Orland: 'mnie nie zabraknie, garnizon zjada swoje - zabraknie IM, a ja sie dowiem, gdy rzadca przyjdzie prosic, czyli PO FAKCIE'. NIEROZSTRZYGNIETE: kto sklada te dwie ksiegi pod nieobecnosc Symona."
  },
  "KORONA": {
   "kasa": 3,

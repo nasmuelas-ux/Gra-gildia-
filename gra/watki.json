@@ -2830,7 +2830,9 @@
    "status": "otwarty",
    "_dziennik_nota": 14,
    "priorytet": "wysoki",
-   "termin": "odpowiedz Reeda najwczesniej poczatek pazdziernika"
+   "termin": "odpowiedz Reeda najwczesniej poczatek pazdziernika",
+   "filar": "KANAL REEDA - Przesmyk",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "system_zintegrowany_oko_noga_zab_1118",
@@ -3554,7 +3556,9 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 10,
+   "filar": "DEFICYT ZYWNOSCI FOSY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "apteka_bagna_fosy_mech_zioła_299_06",
@@ -3787,7 +3791,9 @@
    "id": "operacja_lucan_odzysk_zboza_baelish_299_07",
    "tytul": "Operacja Lucan+Hal: wytropic macki Baelisha, odzyskac zyski zbozowe i PRZEJAC strumien (30% dla Lucana)",
    "status": "WATCH-AND-MAP_299-08-14_odzysk_maly~300jel_strumien_nieprzejety_pajak_moze_wie_reka_ukryta",
-   "_dziennik_nota": 30
+   "_dziennik_nota": 30,
+   "filar": "OPERACJA LUCANA - odzysk zboza od Baelisha",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "regencja_spraw_fosy_garrick_299_07",
@@ -4354,7 +4360,9 @@
    "id": "antaryon_oferta_braavos_299_08",
    "tytul": "Dom Antaryon wyciaga reke - goscina, sklad, wprowadzenie i doiscie do Zelaznego Banku (oferta, ktora kosztuje)",
    "status": "ODPOWIEDZIANE_299-08-29_JAKO_KORONA_(uprzejmie,_o_niczym,_partnerow_w_liczbie_mnogiej);_rekonesans_Willi_zlecony;_prawdziwy_wynik_za_~6_tygodni",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "filar": "DOM ANTARYON",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "biurko_namiestnika_299_08_29",
@@ -4667,7 +4675,9 @@
    "id": "finansowanie_traktu_pod_myto_299_09",
    "tytul": "Sfinansowac trakt pod myto zamiast budowac z oszczednosci - zdolnosc kredytowa Polnocy",
    "status": "do_polozenia_przed_krolem",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "filar": "FINANSOWANIE TRAKTU POD MYTO",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "taryfa_celna_polnocy_299_09",
@@ -5000,12 +5010,17 @@
   {
    "id": "komory_wodne_dziura_w_poborze_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "KOMORY WODNE - dziura w poborze",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zestawienie_dni_barka_komora_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 10,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel D - Juz zvoidowany w zapisie (Rozszerzenie IV - blad GM nie jest kosztem gracza)."
   },
   {
    "id": "uklad_celny_pobor_lenna_299_09",
@@ -5293,7 +5308,10 @@
   {
    "id": "hornwood_ziemia_bez_pana_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 15
+   "_dziennik_nota": 15,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel D - ROZSTRZYGNIETE: wariant (A) - zaplata w naturze, wozami. Powod jednym slowem: SYMBOLIKA. Prozny Hornwood zyje dalej w hornwood_proznia_dreadfort."
   },
   {
    "id": "rejestr_imion_lordow_polnocy_299_09",
@@ -5351,22 +5369,30 @@
   {
    "id": "dlug_korony_wobec_domu_tally_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "DLUG KORONY WOBEC DOMU TALLY (~310 smokow)",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "lenno_fosy_rozliczenie_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "ROZLICZENIE LENNA FOSY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "woz_w_lodzie_przy_brodzie_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "WOZ W LODZIE PRZY BRODZIE - nierozwiazane",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "audyt_fosy_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "AUDYT FOSY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "willa_prospekt_wywiad",
@@ -5376,12 +5402,17 @@
   {
    "id": "danina_karholdu_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 7,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel D - Danina Karholdu pobrana, dzien zamkniety."
   },
   {
    "id": "migracja_wschodniego_wybrzeza_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 9,
+   "filar": "MIGRACJA WSCHODNIEGO WYBRZEZA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "raport_osrica_z_muru_299_10",
@@ -5396,37 +5427,53 @@
   {
    "id": "napad_w_borze_hornwood_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "NAPAD NA KOLUMNE NAMIESTNIKA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "sad_w_hornwood_299_11_15",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "SAD W HORNWOOD - zarzut konfliktu interesu",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "palenie_zmarlych_polnoc_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "PALENIE ZMARLYCH - regula Reeda",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zamarznieta_zatoka_wschod_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "OBRAZ_SWIATA",
+   "stan_data": "300-02-25",
+   "stan_uwaga": "Relacja lady Lyessy Flint ze szczytu wiezy: zatoka stanela W DZIESIATYM MIESIACU. Fakt o zimie, nie watek."
   },
   {
    "id": "stary_zamek_locke_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 5,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel D - Wizyta odbyta, wyjazd 299-11-26. Byren Locke odprowadzil do bramy - pierwszy raz w zyciu jako lord. Skutki zyja osobno: sprawa Rymana i ksiega czeladzi 275-282."
   },
   {
    "id": "maester_willam_stary_zamek_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "MAESTER WILLAM - Stary Zamek",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "aemon_rivers_skrzynia_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "SKRZYNIA AEMONA RIVERSA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "ZYCIE_PRYWATNE",
@@ -5445,17 +5492,24 @@
   {
    "id": "przeprawa_zimowa_do_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel D - Przeprawa odbyta - sztorm na Waskim Morzu (rzut 2), dotarli."
   },
   {
    "id": "ilario_wagowy_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "ILARIO WAGOWY",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "sukcesja_morskiego_pana_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "SUKCESJA MORSKIEGO PANA",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "zelazny_bank_negocjacje_299_12",
@@ -5469,22 +5523,31 @@
   {
    "id": "handel_polnocnym_drewnem_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "filar": "HANDEL POLNOCNYM DREWNEM",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "werbunek_dla_fosy_w_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 2,
+   "filar": "WERBUNEK DLA FOSY W BRAAVOS",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "dom_prestayn_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "DOM PRESTAYN",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "korespondencja_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 3,
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "Kubel D - Poranna poczta 299-12-19 - dzien odplyniecia. Odebrana."
   },
   {
    "id": "budowniczy_projekt_cailin_299_12",
@@ -5498,12 +5561,16 @@
   {
    "id": "dom_antaryon_braavos_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 4,
+   "filar": "DOM ANTARYON (Braavos 299-12)",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "jak_obalic_polnoc_model_zagrozenia_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 1,
+   "filar": "MODEL ZAGROZENIA - jak obalic Polnoc (Illyrio)",
+   "stan_watku": "ZYWY"
   },
   {
    "id": "strategia_krolestwa_polnocy_299_12",

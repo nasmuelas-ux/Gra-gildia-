@@ -41,6 +41,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Hal | wykupić **weksel Domu Tally leżący na Dreadforcie** od 299-10-20 — podpis Symona w cudzej ręce | pilne | 300-02-07 |
 | **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE | 300-02-05 |
 | Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |
+| **KORONA → DOMOWI TALLY** | **~310 smoków** za zboże skupione jako agent bez zysku od 299-09-07, z przewozem | ### upomniano się 299-10-01 — czy zapłacone? | 299-10-01 |
 | Nesta | fracht zachodni + łupacz kamienia | odpowiedź V/300 | 300-02-19 |
 | Nesta | księga Antaryonów (pierwsza w kolejce) | — | 300-01-27 |
 | Nesta | karta cen z pięciu rynków + składki | **co miesiąc — kiedy ostatnia?** ⚠️ | ? |

@@ -5411,7 +5411,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 11,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -6108,6 +6108,11 @@
     "projekt_cailin_trakt_forteca_miasto_299_09",
     "slabosc_polnocna_fosy_cailin_1024"
    ]
+  },
+  {
+   "id": "poprawki",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

@@ -282,12 +282,13 @@
   "pisarze_prywatni_a_willa": "OD 300-02-25: Harmon i Aldwin WYCHODZA, ilekroc wchodzi Willa. Stala zasada, nie jednorazowa. CENA: Symon spisuje ustalenia z Willa wlasna reka tego samego wieczoru, albo one nie istnieja - traci pamiec pisarza dokladnie na tych sprawach, na ktorych najmniej moze sobie pozwolic na zapomnienie."
  },
  "PION_WYWIADU_GDZIE_SIEDZI": {
-  "_od": "300-02-25 (poprawka gracza: 'Willa jest w strukturze domu handlowego, nie w kancelarii Garricka, i to dom do tej pory placil')",
+  "_od": "STAN OD POCZATKU, NIE ZMIANA. Spisany dopiero 300-02-25, bo prowadzacy opisal go wczesniej zle. Poprawka opisu nie jest zdarzeniem w swiecie.",
   "_zasada": "KTO WYPLACA, NIE WIE KOMU.",
   "WILLA": "PION DOMU HANDLOWEGO TALLY, nie kancelaria. Placi DOM, od poczatku. Inspektor w kazdej filii, pod nim kupcy wedrowni, pod nimi czujki wpisane jako tragarze i wagowi.",
   "GARRICK": "WEZEL, NIGDY SAKIEWKA. Sklada meldunki - z liczb Willi robi zdanie. Pieniadza siatki nigdy nie mial.",
-  "HAL": "wyplaca, jak wyplacal. ZMIANA od 300-02-25: zaliczki NA ZNAK (litera+liczba), nie na nazwisko.",
+  "HAL": "dyrektor Domu Handlowego, Bialy Port. Prowadzi kase Domu, wiec widzi wydatek na pion Willi. NIE PYTA o rozbicie. Czy placi na znak czy na nazwisko - NIEUSTALONE, nie twierdzic bez sprawdzenia.",
   "_ukrycie_kosztu": "dniowki, strawa, opal, konie pocztowe, wosk na Fosie - to, czego przybywa i czego nikt nie liczy. NIE papier kancelarii (odrzucone 300-02-25: 'papier jest zly wlasnie dlatego, ze go brakuje'). Linia ma byc PRAWDZIWA.",
-  "_granica_urzedu": "KANCELARIA NAMIESTNIKA NIE KORESPONDUJE Z KANTORAMI DOMU W SPRAWACH RACHUNKOWYCH - bo to jest urzad, a tamto jest kupiectwo. Regula ustrojowa, NIE zakaz wskazujacy na Hala. ZAKAZ JEST INFORMACJA."
+  "_granica_urzedu": "KANCELARIA NAMIESTNIKA NIE KORESPONDUJE Z KANTORAMI DOMU W SPRAWACH RACHUNKOWYCH - bo to jest urzad, a tamto jest kupiectwo. Regula ustrojowa, NIE zakaz wskazujacy na Hala. ZAKAZ JEST INFORMACJA.",
+  "_co_sie_zmienilo_300_02_25": "TYLKO WYSOKOSC WYDATKU - Symon kazal Willi rozbudowac piony, wiec kwota Domu rosnie. Mechanizm bez zmian."
  }
 }

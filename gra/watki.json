@@ -2143,8 +2143,9 @@
    "_dziennik_sluzba_wierze_0719": 1,
    "nella_postep_0727": "298-07-27: Nella widziana na nabozenstwie Matki z Sella - juz mniej dzika, wiecej dziecko. Chwyta sie.",
    "_dziennik_nota": 2,
-   "stan_watku": "ZYWY",
-   "stan_uwaga": "przyczyna uspienia USTALA - Symon wrocil z Polnocy i jest Namiestnikiem. Obietnica dana septonowi Owenowi czeka"
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "ROZSTRZYGNIECIE GRACZA 300-02-25: zamkniety, realizowany przez SZKOLY. Nie porzucony - wchloniety przez wezly oswiaty Polnocy. Dziecko bez rodziny idzie tam, gdzie ida wszystkie dzieci. DLUG NIEZAMKNIETY: powiedziec to septonowi Owenowi wlasnymi ustami. Patrz system_oswiaty_polnocy_struktura_299_06."
   },
   {
    "id": "edukacja_pod_theomorem",
@@ -2687,8 +2688,9 @@
    "tytul": "Marynarka jako realne ostrze na nagie Wyspy Zelazne (przyszly wiekszy projekt)",
    "status": "PIERWSZA_KREW_wiarygodna_grozba_nie_ziarno",
    "_dziennik_nota": 6,
-   "stan_watku": "USPIONY",
-   "stan_uwaga": "czeka na program okretow Polnocy - kanal: Wyman"
+   "stan_watku": "ZAMKNIETY",
+   "stan_data": "300-02-25",
+   "stan_powod": "ROZSTRZYGNIECIE GRACZA 300-02-25: polaczony z Dustinportem i budowa modelowej floty we wspolpracy. Tresc przeniesiona do eskadra_ktora_lowi_koszt_floty_299_09 (port, admiral, liczby Krola) oraz program_okretow_polnocy_299_08 (ktory wzor podejdzie pod Wyspe). Osobna pozycja byla smieciem."
   },
   {
    "id": "rozplatanie_wezla_wylis_arya_1113",
@@ -3295,7 +3297,7 @@
    "id": "system_oswiaty_polnocy_struktura_299_06",
    "tytul": "System oswiaty Polnocy (5 wezlow od 299-06-12) + UZUPELNIENIE 09-16: lancuch (braz-miara, czardrzew-pamiec, stal-prawo), stroj, przysiega, Theomore glowa Straznicy Zimy, LUWIN MISTRZ NAUKI w Radzie",
    "status": "otwarty",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 11,
    "priorytet": "wysoki"
   },
   {
@@ -3783,7 +3785,7 @@
    "id": "program_okretow_polnocy_299_08",
    "tytul": "Program Okretow Polnocy - modelowe kadluby (handlowe/wojenne/rzeczne) w stylu polnocnym",
    "status": "RUSZONY_299-08-12_zalazkowo_cela_projektowa_Bialy_Port+Glebokorzen_wpis_fundament_(zima=ziarno_first)",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11
   },
   {
    "id": "kryzys_zimowego_ziarna_299_08",
@@ -4359,7 +4361,7 @@
    "id": "eskadra_ktora_lowi_koszt_floty_299_09",
    "tytul": "Koszt pierwszej eskadry i pytanie, czy wolno im lowic",
    "status": "do_rozstrzygniecia_przez_krola",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "przedsiewziecia_bez_nazwiska_299_09",

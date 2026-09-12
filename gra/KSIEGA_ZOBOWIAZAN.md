@@ -49,7 +49,8 @@ Na start tylko to, co pewne z ostatnich dni:
 |---|---|---|
 | **Grobla Fosy** | Bran, majordom robót | 300-02-25 — cztery kafary, stoi przez odwilż |
 | **Przystań Wilka** | dawny brygadzista murarski z Białego Portu | ### CISZA OD 299-08-27 |
-| **Dustinport** | dawny kwatermistrz z chorągwi Cerwynów | ### CISZA OD 299-08-27 |
+| **Dustinport + 1. eskadra** | **TORREN SOLNY, Pierwszy Admirał Korony** (pakt z lady Barbrey 299-08-11) | 300-02-18 — Król przyjął trzy liczby: sześć mokrych · ~250 rocznie · odkup odbitego |
+| **Program Okrętów — modelowe kadłuby** | cela projektowa Biały Port + Głębokorzeń | 299-12-19 — sześć wzorów ustalonych, trzy do rozstrzygnięcia; „przez wodę przechodzą tylko liczby" |
 | **Starkport / Cypel** | ### PUSTY | ekipa dopiero zbierana |
 | **Trakt: Bliźniaki · Riverrun · Fosa–Cerwyn–Winterfell** | ### PUSTY | policzone, niezaczęte |
 | **Mennica Wilk** | ### PUSTY | dała mniej, niż kosztował stempel |

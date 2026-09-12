@@ -3336,7 +3336,7 @@
    "id": "struktura_dom_handlowy_tally_299_05",
    "tytul": "Struktura organizacyjna Domu Handlowego Tally (wenecko/medycejska: centrala+siec+giovani, kontrole)",
    "status": "KIEROWNICTWO_KOMPLETNE: Hal/Tam/Willa/Beron; gotowe do pieczeci",
-   "_dziennik_nota": 17,
+   "_dziennik_nota": 18,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -5910,7 +5910,7 @@
   {
    "id": "bilans_domu_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "filar": "BILANS DOMU TALLY",
    "stan_watku": "ZYWY"
   },
@@ -6177,6 +6177,11 @@
   },
   {
    "id": "kanal_olenna",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "wyman_manderly",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

@@ -17,10 +17,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-02-19 noc · zima (300)
+- **Data:** 300-02-20 ranek · zima (300)
 - **Miejsce:** WINTERFELL - komnata Namiestnika. Dwa dni do wyjazdu kolumny na Fose.
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 85 · Sytosc 74 · Zmeczenie 82**
+- **Zdrowie 85 · Sytosc 58 · Zmeczenie 30**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 95 jeleni + 1 mied
@@ -61,8 +61,7 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - ◆ `?` jaime_dzwignia_tywin: 298-11-01 (rzut 58): Jaime=najciezsza karta na Tywina, wart TRZYMANY nie wydany. Robb pojal: (a…
 - ◆ `NIEAKTUALNY — Renly nie zyje (stan_poludnia_zelazny_tron_299_07); do rozstrzygniecia, czy sonda idzie ku samym Tyrellom` renly_sonda: 298-11-01 (rzut 48): cichy feeler ku Renly'emu/Tyrellom siatka Symona (deniable, low-commitment…
 
-## WATKI OTWARTE (655; ostatnie 45 — pelna lista: `python3 gra/db.py otwarte`)
-- `napad_w_borze_hornwood_299_11` [otwarty] 
+## WATKI OTWARTE (656; ostatnie 45 — pelna lista: `python3 gra/db.py otwarte`)
 - `sad_w_hornwood_299_11_15` [otwarty] 
 - `palenie_zmarlych_polnoc_299_10` [otwarty] 
 - `zamarznieta_zatoka_wschod_299_11` [otwarty] 
@@ -107,9 +106,9 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - `wychowankowie_winterfell_300_02` [otwarty] 
 - `DANINA_LENNA_299_09_04` [otwarty] 
 - `zelazne_wyspy_theon_300_02` [otwarty] 
+- `lista_jencow_korony_polnocy_299_11` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-02-18] `wychowankowie_winterfell_300_02`: ### ODPOWIEDZ KASZTELANOWI - DOMOWNIK vs PRZYBYSZ, I POPRAWKA SIODMA DO KARTY WYCHOWANKOW. 300-02-18 poludnie. Bez rzutu (wlasny czlowiek, rzecz techniczna). ### ### NIE BEDZIE DZIEWIATEJ RU…
 - [300-02-18] `theon_greyjoy`: ### SYMON PRZYSZEDL PIERWSZY, ZANIM THEON ZOBACZYL KARTE - DOTRZYMANIE PISEMNEJ OBIETNICY W CIAGU JEDNEJ DOBY. 300-02-18, wczesne popoludnie, dziedziniec przy tarczach. Bez rzutu (wiez, obie…
 - [300-02-18] `program_okretow_polnocy_299_08`: ### TRZY LICZBY ESKADRY PRZYJETE PRZEZ KROLA. Winterfell, 300-02-18 popoludnie. Bez rzutu (praca wlasna z wlasnym krolem). Symon polozyl DWIE SPRAWY OSOBNO: 'nie chce, zeby druga jechala na …
 - [300-02-18] `robb_stark`: ### PIATA RUBRYKA THEONA POSTAWIONA PRZED KROLEM. 300-02-18, popoludnie, po eskadrze i OSOBNO od niej. Bez rzutu. ### SYMON WYLOZYL RAME: 'Nie przychodze prosic o jego uwolnienie - to sprawa…
@@ -121,3 +120,4 @@ pismo 8 · rachunki 10 · prawo 9 · retoryka 8 · jezyki 8 · spryt_uliczny 8 �
 - [300-02-18] `bran_stark`: ### POZEGNANIE Z BRANEM - I DWIE RZECZY, KTORE ON POLOZYL PIERWSZY. Pozna noc 300-02-18. Bez rzutu. ### ### PIERWSZE ZDANIE BRANA, ZAMIAST POWITANIA: 'ZMIENILISCIE RUBRYKE D I DOWIEDZIALEM S…
 - [300-02-18] `sansa_stark`: ### POZEGNANIE Z SANSA - NOC PRZED WYJAZDEM. Bez rzutu. ### OTWARCIE JEJ: 'Wszyscy dzis chodza po zamku i sie zegnaja - slychac drzwi. Byliscie juz u Rickona i u Brana. Wiem, w jakiej kolejn…
 - [300-02-19] `sprawa_rymana_justycjariusz_299_08`: ### WIECZOR PRZY OGNIU U CERWYNA - SYMON PRZYZNAL SIE DO ODWOLANEGO ROZKAZU. Zamek Cerwyn, 300-02-19. Bez rzutu na wyznanie; RZUT 30 na to, czy slad czlowieka Garricka zostal zauwazony w Sta…
+- [300-02-19] `lista_jencow_korony_polnocy_299_11`: ### NOC U CERWYNA - WYMIANA JENCOW POSTAWIONA NA NOGI. Zamek Cerwyn, 300-02-19. Bez rzutu (wlasny urzednik, rzecz lezaca od 21 miesiecy). ### SPROSTOWANIE CERWYNA CO DO WLASNYCH SLOW: 'Nie p…

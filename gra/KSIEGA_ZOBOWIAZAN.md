@@ -36,7 +36,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Cerwyn | czystopis kodeksu + **trzeci odpis u maestera w Winterfell** | 300-03-02 | 300-02-20 |
 | Cerwyn | wykaz wymian pod własną pieczęcią, do URZĘDU | po decyzji Króla | 300-02-19 |
 | Cerwyn | trzy pytania do dziewięciu kasztelanów (240 imion) | tygodnie | 300-02-19 |
-| Cerwyn | wezwanie szafarza demeny + wyrok Hobba | **88 DNI PO TERMINIE** | 300-02-20 |
+| Cerwyn | wezwanie szafarza demeny + wyrok Hobba | **88 DNI PO TERMINIE** — **pytanie pada w twarz na Fosie 03-02…05, pisma przed nim nie ma.** ⚠️ *przywozi pisarza Skarbnika — świadka, którego nie da się wyprosić* | 300-02-27 |
 | Cerwyn | własna danina 21 smoków — płaci pierwszy | przed Radą | 300-02-20 |
 | Cerwyn | przyjazd na Fosę, trzy dni pisania | 300-03-02…05 | 300-02-20 |
 | Alys | spis mieszkańców (3 wsie z 5) | w toku | 300-02-25 |

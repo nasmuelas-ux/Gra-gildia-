@@ -41,7 +41,12 @@ Na start tylko to, co pewne z ostatnich dni:
 | Hal | wykupić **weksel Domu Tally leżący na Dreadforcie** od 299-10-20 — podpis Symona w cudzej ręce | pilne | 300-02-07 |
 | **Król** | **REJESTRATOR KORONY** — nazwisko zastrzegł sobie 299-09-10 | ### 4 MIESIĄCE, KRZESŁO PUSTE | 300-02-05 |
 | Rickard Karstark | **zeznanie przy świadkach, z listem** — ośmioletni zakaz przekraczania marchii | **300-04-01** | 300-02-05 |
-| **KORONA → DOMOWI TALLY** | **~310 smoków** za zboże skupione jako agent bez zysku od 299-09-07, z przewozem | ### upomniano się 299-10-01 — czy zapłacone? | 299-10-01 |
+| **GAWEN → DOMOWI TALLY** | **zwrot długu W NATURZE** *(więcej niż 310 smoków — liczba do domknięcia)*; wierzyciel to **Kasa 1**, nie lenno i nie Symon-Namiestnik | ### brak liczby, towaru i terminu | 300-02-25 |
+| Hal | prowadzi zwrot — **ile · czym · po jakiej cenie przeliczeniowej · kiedy** | przed Dniem Bilansu | 300-02-25 |
+| Garth + Symon | **zmierzyć PONOWNIE dziurę w komorach wodnych** — nie zakładać, że spadła | przed 300-03-01 | 300-02-25 |
+| Symon → **Cerwynowi** | **zarzut Donelli: dokąd idzie praca skazańca** *(wstrzymała protokół 299-11-15)* | **300-03-02…05** | 300-02-25 |
+| Symon | **wóz w lodzie** — odpytać Hendry'ego, Gartha, rządcę, przewoźników z brodu | przy okazji | 300-02-25 |
+| Symon | **model zagrożenia → pakiet reform na Radę**; ułożyć jako *co stawiamy*, nie *gdzie nas można wziąć* — na sali będą Boltonowie | **300-04-01** | 300-02-25 |
 | Nesta | fracht zachodni + łupacz kamienia | odpowiedź V/300 | 300-02-19 |
 | Nesta | księga Antaryonów (pierwsza w kolejce) | — | 300-01-27 |
 | Nesta | karta cen z pięciu rynków + składki | **co miesiąc — kiedy ostatnia?** ⚠️ | ? |

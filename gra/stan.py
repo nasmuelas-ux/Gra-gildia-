@@ -78,7 +78,7 @@ A = o.append
 A("# STAN GRY — indeks (regenerowany z JSON+JSONL, NIE edytuj recznie)")
 A("_Zrodlo prawdy: gra/*.json + gra/db/wpisy.jsonl. Szczegoly: `python3 gra/db.py pokaz <klucz>` / `szukaj <fraza>` / `dzien <data>`._\n")
 
-A("## ⚠️ 36 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI PIEC ZASAD\"\n"
+A("## ⚠️ 37 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI PIEC ZASAD\"\n"
   "**PRZECZYTAJ JE PO KAZDYM KOMPAKTOWANIU.** Przy sprzecznosci z czymkolwiek innym — tamte wygrywaja.\n"
   "Skrot najczesciej lamanych: **1** nie twierdze, nie sprawdziwszy · **3** blad GM nie przechodzi na gracza (VOID znaczy VOID) ·\n"
   "**7** moja cisza nie jest zastojem (rzecz zlecona i obsadzona idzie sama) · **8** postep rodzi problemy, nie wstazki ·\n"
@@ -86,7 +86,13 @@ A("## ⚠️ 36 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI 
   "**31** nie pisze mysli gracza, nie zamieniam rozmowy w akt, nie posuwam czasu w rozmowie · **34** bez kanalu nie ma wiadomosci.\n"
   "### **36 - DWA POZIOMY:** SPRAWA zyje latami i NIE ma sie zamykac (filar) · OPERACJA ma dzien, cel i spust, i MUSI sie zamknac.\n"
   "Test: czy to moze sie skonczyc konkretnego dnia? Meldunek idzie z poziomu OPERACJI - filary stoja, melduje sie to, co sie pod nimi rusza.\n"
-  "**ALARM: sprawa zywa, pod ktora nie ma ANI JEDNEJ otwartej operacji** - to nie brak postepu, to ja nie otworzylem nastepnego kroku.\n")
+  "**ALARM: sprawa zywa, pod ktora nie ma ANI JEDNEJ otwartej operacji** - to nie brak postepu, to ja nie otworzylem nastepnego kroku.\n"
+  "### **37 - SZUKA SIE W DWOCH KSIEGACH, NIGDY W JEDNEJ** (stala, 300-03-03).\n"
+  "Przed obsadzeniem KAZDEGO krzesla i przed powiedzeniem, ze kogos NIE MA, czyta sie OBA spisy Fosy:\n"
+  "**(1) SPIS MIESZKANCOW 299-06 - 640 dusz IMIENNIE**, zawod = co umie rekami, trzy osobne rubryki CZYTA/PISZE/LICZY,\n"
+  "dzieci z imienia, wiekiem i rodzicem (takze dziewczeta) - obejmuje ludnosc SPRZED przybycia czterystu;\n"
+  "**(2) REJESTR DNIOWEK MELLI od 300-02-28** - czterystu przybyszow, kolumna CO UMIE, wpis imieniem ALBO znakiem,\n"
+  "plus ksiega bramy od 02-12. **Zaden nie pokrywa calosci - dlatego zawsze oba.**\n")
 
 A("## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)\n"
   "Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:\n"

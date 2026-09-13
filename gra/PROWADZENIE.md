@@ -363,6 +363,16 @@ Operacja z definicji (36a) **nie mieszka w filarze** — mieszka u siebie i tylk
 
 ---
 
+**37. SZUKA SIĘ W DWÓCH KSIĘGACH, NIGDY W JEDNEJ.** *(stała, na żądanie gracza 300-03-03)*
+Przed obsadzeniem **jakiegokolwiek** krzesła, urzędu, roboty czy zadania — i przed powiedzeniem, że kogoś **nie ma** — czyta się **oba spisy Fosy:**
+- ### **SPIS MIESZKAŃCÓW (299-06) — 640 dusz, IMIENNIE.** Zawód = *co umie rękami*. **Trzy osobne rubryki: CZYTA · PISZE · LICZY.** **Dzieci z imienia, wiekiem i rodzicem — wszystkie, także dziewczęta.**
+- ### **REJESTR DNIÓWEK MELLI (od 300-02-28)** — czterystu przybyszów, kolumna **„CO UMIE"**, wpis imieniem **albo znakiem**; plus **księga bramy** (od 02-12) i kolumny *skąd przyszedłeś / ile dni szedłeś*.
+
+**Pierwszy spis pokrywa ludność SPRZED przybycia czterystu; drugi pokrywa czterystu i nie wpisuje ich dzieci.** Żaden nie pokrywa całości — **dlatego zawsze oba.**
+> *Dopisane po jedenastym błędzie tego samego kształtu: powiedziałem „nikt nie liczy dzieci", mając imienny spis dzieci od dziewięciu miesięcy. **Nie brakowało narzędzia — brakowało odczytu**, a ja przez trzy doby czytałem młodszą księgę, bo była świeższa w pamięci.*
+
+---
+
 > ### ZASADA NADRZĘDNA: ŚWIAT MA BYĆ TRUDNY DLATEGO, ŻE JEST DUŻY I POWOLNY — NIE DLATEGO, ŻE PROWADZĄCY ZAPOMNIAŁ.
 
 ---

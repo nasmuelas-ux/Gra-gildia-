@@ -1,7 +1,7 @@
 # STAN GRY — indeks (regenerowany z JSON+JSONL, NIE edytuj recznie)
 _Zrodlo prawdy: gra/*.json + gra/db/wpisy.jsonl. Szczegoly: `python3 gra/db.py pokaz <klucz>` / `szukaj <fraza>` / `dzien <data>`._
 
-## ⚠️ 36 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od "TRZYDZIESCI PIEC ZASAD"
+## ⚠️ 37 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od "TRZYDZIESCI PIEC ZASAD"
 **PRZECZYTAJ JE PO KAZDYM KOMPAKTOWANIU.** Przy sprzecznosci z czymkolwiek innym — tamte wygrywaja.
 Skrot najczesciej lamanych: **1** nie twierdze, nie sprawdziwszy · **3** blad GM nie przechodzi na gracza (VOID znaczy VOID) ·
 **7** moja cisza nie jest zastojem (rzecz zlecona i obsadzona idzie sama) · **8** postep rodzi problemy, nie wstazki ·
@@ -10,6 +10,12 @@ Skrot najczesciej lamanych: **1** nie twierdze, nie sprawdziwszy · **3** blad G
 ### **36 - DWA POZIOMY:** SPRAWA zyje latami i NIE ma sie zamykac (filar) · OPERACJA ma dzien, cel i spust, i MUSI sie zamknac.
 Test: czy to moze sie skonczyc konkretnego dnia? Meldunek idzie z poziomu OPERACJI - filary stoja, melduje sie to, co sie pod nimi rusza.
 **ALARM: sprawa zywa, pod ktora nie ma ANI JEDNEJ otwartej operacji** - to nie brak postepu, to ja nie otworzylem nastepnego kroku.
+### **37 - SZUKA SIE W DWOCH KSIEGACH, NIGDY W JEDNEJ** (stala, 300-03-03).
+Przed obsadzeniem KAZDEGO krzesla i przed powiedzeniem, ze kogos NIE MA, czyta sie OBA spisy Fosy:
+**(1) SPIS MIESZKANCOW 299-06 - 640 dusz IMIENNIE**, zawod = co umie rekami, trzy osobne rubryki CZYTA/PISZE/LICZY,
+dzieci z imienia, wiekiem i rodzicem (takze dziewczeta) - obejmuje ludnosc SPRZED przybycia czterystu;
+**(2) REJESTR DNIOWEK MELLI od 300-02-28** - czterystu przybyszow, kolumna CO UMIE, wpis imieniem ALBO znakiem,
+plus ksiega bramy od 02-12. **Zaden nie pokrywa calosci - dlatego zawsze oba.**
 
 ## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)
 Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
@@ -169,8 +175,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `przywilej_bagienny_fosa_300_02` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-03-03] `postac`: ### PYTANIE GM GRACZA: BRAKUJE DWORU LENNA - RADY, TYTULOW, CZELADZI. Odpowiedz prowadzacego, 300-03-03. || ## MA RACJE POLOWICZNIE, I TA POLOWA, W KTOREJ MA RACJE, JEST WAZNIEJSZA ## ### LU…
-- [300-03-03] `projekt_cailin`: ### PROPOZYCJA USTROJU DWORU FOSY - gra/dwor_fosy_cailin_300_03_03.md. NIC NIE NADANE. || RADA LENNA, PIEC KRZESEL, WSZYSTKIE JUZ OBSADZONE: KANCLERZ Garrick - RZADCA Warryn - KAPITAN Hendry…
 - [300-03-03] `ustroj_urzedow`: ### PROPOZYCJA USTROJU DWORU FOSY - gra/dwor_fosy_cailin_300_03_03.md. NIC NIE NADANE. || RADA LENNA, PIEC KRZESEL, WSZYSTKIE JUZ OBSADZONE: KANCLERZ Garrick - RZADCA Warryn - KAPITAN Hendry…
 - [300-03-03] `postac`: ### PROPOZYCJA USTROJU DWORU FOSY - gra/dwor_fosy_cailin_300_03_03.md. NIC NIE NADANE. || RADA LENNA, PIEC KRZESEL, WSZYSTKIE JUZ OBSADZONE: KANCLERZ Garrick - RZADCA Warryn - KAPITAN Hendry…
 - [300-03-03] `spis_mieszkancow_fosy_299_06`: ### STRUKTURA LUDNOSCI LENNA FOSY CAILIN - odczyt z ksiag, 300-03-03. Bez rzutow. || ## ⚠ PIERWSZA RZECZ, KTORA WYCHODZI PRZY SKLADANIU TEGO DO KUPY ## ### CZTERY KSIEGI LICZA CZTERY ROZNE R…
@@ -181,3 +185,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-03-03] `poprawki`: ### VOID PROWADZACEGO: 'NIKT NIE LICZY OSOBNO DZIECI' - NIEPRAWDA. 300-03-03. || GRACZ: 'kazalem spisac dzieci i wyksztalcenie kiedys'. ### ZAPIS POTWIERDZA CO DO SLOWA, spis mieszkancow 299…
 - [300-03-03] `projekt_cailin`: ### VOID PROWADZACEGO: 'NIKT NIE LICZY OSOBNO DZIECI' - NIEPRAWDA. 300-03-03. || GRACZ: 'kazalem spisac dzieci i wyksztalcenie kiedys'. ### ZAPIS POTWIERDZA CO DO SLOWA, spis mieszkancow 299…
 - [300-03-03] `lenno/MELLA`: ### VOID PROWADZACEGO: 'NIKT NIE LICZY OSOBNO DZIECI' - NIEPRAWDA. 300-03-03. || GRACZ: 'kazalem spisac dzieci i wyksztalcenie kiedys'. ### ZAPIS POTWIERDZA CO DO SLOWA, spis mieszkancow 299…
+- [300-03-03] `spis_mieszkancow_fosy_299_06`: ### ZASADA 37 WPISANA JAKO STALA - na zadanie gracza, 300-03-03. gra/PROWADZENIE.md (po 36g) oraz naglowek gra/stan.py, wiec wraca po kazdym kompaktowaniu. || ### SZUKA SIE W DWOCH KSIEGACH,…
+- [300-03-03] `postac`: ### ZASADA 37 WPISANA JAKO STALA - na zadanie gracza, 300-03-03. gra/PROWADZENIE.md (po 36g) oraz naglowek gra/stan.py, wiec wraca po kazdym kompaktowaniu. || ### SZUKA SIE W DWOCH KSIEGACH,…

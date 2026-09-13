@@ -1,6 +1,6 @@
 {
   "_opis": "JEDYNE ZRODLO PRAWDY O OBSADZIE. Nie podawac obsady z pamieci - czytac stad. Aktualizowac przy kazdym nadaniu i kazdym wakacie.",
-  "_aktualizacja": "300-03-03 (uzupelnione: Dom wewnetrznie, Winterfell, dom prywatny)",
+  "_aktualizacja": "300-03-03 (struktura pelna)",
   "drabiny": {
     "LENNO": {
       "_kasa": "Kasa 2 (lenno), o ile nie zaznaczono inaczej",
@@ -32,7 +32,7 @@
       "ZBROJMISTRZ": {
         "kto": "stary zbrojmistrz (imie nie pada w zapisie)",
         "od": "299-06-23",
-        "nota": "bron, cwiczenie, chlopcy"
+        "nota": "bron, cwiczenie, chlopcy; arsenal i zapasy zbrojne (OSOBNO od prowiantu garnizonu)"
       },
       "MAESTER": {
         "kto": "WYSTAN",
@@ -47,12 +47,12 @@
       "MAJORDOM FOSY": {
         "kto": "ALYS",
         "od": "299-12",
-        "nota": "dom, izby, goscie"
+        "nota": "dom, izby, goscie, SPIZARNIA I KLUCZE. Majordomat Fosy od 299-07 to ALYS I BRAN RAZEM: ona dom, on roboty."
       },
       "MAJORDOM ROBOT": {
         "kto": "BRAN",
         "od": "299-12",
-        "nota": "grobla; od 300-03-01 TRAKT DO DORZECZA"
+        "nota": "roboty; UWAGA: to NIE jest Bran Stark z Winterfell - dwie rozne osoby o tym imieniu. Od 300-03-01 trakt do Dorzecza."
       },
       "ZIELARKA WLOSCI": {
         "kto": "NINA",
@@ -82,7 +82,7 @@
       "WODA I SLUZA": {
         "kto": "WEYLIN",
         "od": "299",
-        "nota": "maester wody; gniazdo na wal przed zamknieciem komory; stawy do rysunku 300-03-03"
+        "nota": "INZYNIER ZAMKOWY - 'urzad na pokolenia', 3 z 20 wiez; woda, dreny, sluzy. TO JEST 'szef architektow'. Gniazdo na wal przed zamknieciem komory; stawy do rysunku."
       },
       "KAMIEN I BUDOWA": {
         "kto": "ORBELO",
@@ -103,6 +103,11 @@
         "kto": "ALYS",
         "od": "299-07",
         "nota": "majordomat; przy przeliczeniu spichlerza ONA szla przy liczbach, Bran przy robotach - wydawanie z domu nigdy nie bylo puste"
+      },
+      "SZKOLA I NAUKA": {
+        "kto": "dwaj uczacy, pod WARRYNEM",
+        "od": "300-02-16",
+        "nota": "szkola + posilek przy szkole; pierwsza szkola powszechna Polnocy. Ochmistrza nauki NIE MA - nikt nie odpowiada za nauke z nazwy."
       }
     },
     "MCHOWE JASTRZEBIE - STRAZ LENNA": {
@@ -427,6 +432,21 @@
       "urzad": "AKADEMIA WOJSKOWA - data, platnik, pierwszy mistrz",
       "drabina": "KORONA",
       "nota": "baszta w Przystani Wilka"
+    },
+    {
+      "urzad": "OCHMISTRZ SZKOLY I NAUKI",
+      "drabina": "LENNO",
+      "nota": "szkola dziala (dwaj uczacy pod Warrynem), ale nikt nie odpowiada za nauke z nazwy"
+    },
+    {
+      "urzad": "LESNICZY (regale lesne)",
+      "drabina": "LENNO",
+      "nota": "urzad zaprojektowany w schemacie administracji Korony obok rzadcy, poborcy, mistrza wagi i mierniczego; na Fosie nieobsadzony. Olcha na lodzie Jastrzebi idzie z wlasnego lasu."
     }
-  ]
+  ],
+  "_nie_dotyczy": {
+    "SEPT / SEPTON": "Polnoc to stare bogi; septon Owen jest w Bialym Porcie, nie na Fosie. To nie wakat, to ustroj swiata.",
+    "HEROLD I KSIEGA HERBOW": "prerogatywa KORONY (lista rzeczy do ogloszenia, nie pod glosy), nie urzad lenna.",
+    "KASZTELAN": "na Fosie robi to MARSZALEK FORTECY - HENDRY. Osobnego kasztelana nie ma i nie potrzeba."
+  }
 }

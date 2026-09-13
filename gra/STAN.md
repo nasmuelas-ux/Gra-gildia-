@@ -68,21 +68,22 @@ _Zamkniete ostatnio:_ cena minimalna z iloscia + cena dzisiejsza + oferta kupna 
 - **MARSZALEK FORTECY / KAPITAN DOMU TALLY:** HENDRY _(~50 druzyna + obrona Fosy; pismo o granicach urzedu 300-02-28)_
 - **DOWODCA PRZYBOCZNEJ:** STEN _(pod nim DAGON i HARL; przyboczna jedzie z Symonem 300-03-07)_
 - **DZIESIETNIK (Dustinport):** HARL _(prowadzi dziesieciu z Theonem; swita przy wjezdzie, straz kilka dni, powrot)_
-- **ZBROJMISTRZ:** stary zbrojmistrz (imie nie pada w zapisie) _(bron, cwiczenie, chlopcy)_
+- **ZBROJMISTRZ:** stary zbrojmistrz (imie nie pada w zapisie) _(bron, cwiczenie, chlopcy; arsenal i zapasy zbrojne (OSOBNO od prowiantu garnizonu))_
 - **MAESTER:** WYSTAN _(srebro, czarne zelazo, miedz, OLOW (trucizny); trzeci odczyt ziarna na Fosie)_
 - **SEDZIA - SAD GRODZKI:** RODERYK _(umowy od rownowartosci 30 korcy; orzeka 'jedna sakiewka' (300-03-03))_
-- **MAJORDOM FOSY:** ALYS _(dom, izby, goscie)_
-- **MAJORDOM ROBOT:** BRAN _(grobla; od 300-03-01 TRAKT DO DORZECZA)_
+- **MAJORDOM FOSY:** ALYS _(dom, izby, goscie, SPIZARNIA I KLUCZE. Majordomat Fosy od 299-07 to ALYS I BRAN RAZEM: ona dom, on roboty.)_
+- **MAJORDOM ROBOT:** BRAN _(roboty; UWAGA: to NIE jest Bran Stark z Winterfell - dwie rozne osoby o tym imieniu. Od 300-03-01 trakt do Dorzecza.)_
 - **ZIELARKA WLOSCI:** NINA _(lecznica + apteka bagna)_
 - **UCZENNICA ZIELARKI:** GYTHA KADZIEL _(z czterystu przybyszow, podpisuje sie znakiem; opatrywala w barakach po nocach)_
 - **REJESTR DNIOWEK:** MELLA _(kolumna CO UMIE; imie ALBO znak w tym samym rzedzie; czyta tez kolumny Willi)_
 - **SKLAD:** ORLAND KORZEC _(cztery przegrody; karta A na 300-03-07)_
 - **SZKLARNIE:** WERRAN _(MIRA jako druga reka - nieobecna; szklarnia ma byc matecznikiem)_
-- **WODA I SLUZA:** WEYLIN _(maester wody; gniazdo na wal przed zamknieciem komory; stawy do rysunku 300-03-03)_
+- **WODA I SLUZA:** WEYLIN _(INZYNIER ZAMKOWY - 'urzad na pokolenia', 3 z 20 wiez; woda, dreny, sluzy. TO JEST 'szef architektow'. Gniazdo na wal przed zamknieciem komory; stawy do rysunku.)_
 - **KAMIEN I BUDOWA:** ORBELO _(syn palownika; kafar odrysowany z podlogi Terysa)_
 - **PISARZ PRZY BRAMIE:** jeden z trzech pisarzy Nesty (ten, ktory nie siedzi nad cena mchu) _(od 300-03-03 CIAGNIE LOS 1 na 12 przed otwarciem bramy)_
 - **PISARZE DWORU:** dwaj z trojki Nesty _(trzeci poszedl na brame; przepisuja urzadzenia dla Cerwyna)_
 - **SPIZARNIA DOMOWA / KLUCZE:** ALYS _(majordomat; przy przeliczeniu spichlerza ONA szla przy liczbach, Bran przy robotach - wydawanie z domu nigdy nie bylo puste)_
+- **SZKOLA I NAUKA:** dwaj uczacy, pod WARRYNEM _(szkola + posilek przy szkole; pierwsza szkola powszechna Polnocy. Ochmistrza nauki NIE MA - nikt nie odpowiada za nauke z nazwy.)_
 
 ### MCHOWE JASTRZEBIE - STRAZ LENNA — _KASA SYMONA (nie lenna)_
 _20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana do pomocy celnikom 300-02-25. NIE PODLEGA HENDRY'EMU - dowodca podlega BEZPOSREDNIO SYMONOWI. ZAKAZ NACZELNY: KTO CHWYTA, TEN NIE SADZI. Ksiega Jastrzebi u PISARZA GRODZKIEGO (kto dowodzi, nie spisuje sam)._
@@ -141,7 +142,7 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **CORKA:** LYRA _(na czas rozwiazania idzie do ELNY)_
 - **PRZY MIRZE:** RHONA, WENNA, ELNA _(Owen za rogiem; ludzie Wylisa przy bramie)_
 
-### 🔴 WAKATY (17)
+### 🔴 WAKATY (19)
 - **PROWIANTMISTRZ GARNIZONU** _(LENNO)_ **PILNY** — zapis rozroznia go OD SPIZARNI DOMOWEJ i oznacza jako REKRUT - nigdy nie obsadzony. Wskazuje HENDRY (to jego drabina).
 - **KUCHARZ** _(LENNO)_ — szukany od 300-03-02 przy rejestrze Melli; pytanie: kto zrobi z wegorza cos, co zje pan
 - **KONIUSZY** _(LENNO)_ — konie, wozy, zaprzegi, woly Cailin-Bialy Port
@@ -159,6 +160,8 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **CZLOWIEK OD FEVER** _(KORONA)_ — polowa (a) idzie kanalem Warryna; polowa (b) czeka na Weylina
 - **BUDOWA GLEBOKORZENIA** _(KORONA)_ — miejsce jest, budowy nie ma, ani jednego ucznia
 - **AKADEMIA WOJSKOWA - data, platnik, pierwszy mistrz** _(KORONA)_ — baszta w Przystani Wilka
+- **OCHMISTRZ SZKOLY I NAUKI** _(LENNO)_ — szkola dziala (dwaj uczacy pod Warrynem), ale nikt nie odpowiada za nauke z nazwy
+- **LESNICZY (regale lesne)** _(LENNO)_ — urzad zaprojektowany w schemacie administracji Korony obok rzadcy, poborcy, mistrza wagi i mierniczego; na Fosie nieobsadzony. Olcha na lodzie Jastrzebi idzie z wlasnego lasu.
 
 ## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)
 Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
@@ -339,8 +342,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `przywilej_bagienny_fosa_300_02` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-03-03] `lenno/HENDRY`: ### FORMACJA STRAZY FOSY - SPRAWDZONE I ZNALEZIONA DZIURA. 300-03-03. Bez rzutow. || ## CO JEST W ZAPISIE - I TO JEST WSZYSTKO ## KAPITAN HENDRY (od 299-05-12): 'dowodzi ~50 DRUZYNA + OBRONA…
-- [300-03-03] `komory_wodne_dziura_w_poborze_299_09`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
 - [300-03-03] `projekt_cailin`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
 - [300-03-03] `poprawki`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
 - [300-03-03] `ustroj_urzedow`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
@@ -351,3 +352,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-03-03] `spis_mieszkancow_fosy_299_06`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
 - [300-03-03] `lenno/ALYS`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
 - [300-03-03] `lenno/HENDRY`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
+- [300-03-03] `projekt_cailin`: ### STRUKTURA LENNA UPORZADKOWANA - na zadanie gracza, 300-03-03. Bez rzutow. || ## Z LISTY GRACZA: CO JUZ ISTNIALO POD INNA NAZWA ## UZDROWICIEL - jest podwojnie: MAESTER WYSTAN (srebro) i …
+- [300-03-03] `ustroj_urzedow`: ### STRUKTURA LENNA UPORZADKOWANA - na zadanie gracza, 300-03-03. Bez rzutow. || ## Z LISTY GRACZA: CO JUZ ISTNIALO POD INNA NAZWA ## UZDROWICIEL - jest podwojnie: MAESTER WYSTAN (srebro) i …

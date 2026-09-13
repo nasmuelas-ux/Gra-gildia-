@@ -24,6 +24,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 
+- **300-03-03 lub WCZESNIEJ** — ROZWIAZANIE MIRY, Bialy Port. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno, a DRUGIE przychodzi predzej niz pierwsze' · _kto:_ **RHONA, WENNA, ELNA; Lyra u Elny** · _zamyka:_ wiadomosc z Bialego Portu (kruk 2 dni, jezdziec 6-8) **⚠ OTWARTE - MOZE JUZ SIE STALO**
 - **300-03-05** — Cerwyn wyjezdza; odpis urzadzen Fosy ma byc gotowy · _kto:_ **dwaj pisarze** · _zamyka:_ odpis wreczony
 - **300-03-06** — czlowiek Wymana na Fosie - pomiar przewloki pod dwie pieczecie · _kto:_ **Weylin + Orbelo + czlowiek Wymana** · _zamyka:_ wspolne przejscie sznurem
 - **300-03-06..08** — odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency) · _kto:_ **GARRICK rozdziela** · _zamyka:_ czesc koronna w bieg, czesc prywatna zapieczetowana do ksiegi Domu
@@ -103,6 +104,9 @@ _20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana d
 - **CICHY KUPIEC:** bez imienia _(towar: SOL; ksiega DOMU; cel: sfera Dreadfortu)_
 - **BRAAVOS:** NESTA _(2,5 miesiaca w jedna strone)_
 - **DORZECZE:** LUCAN _(zboze, weksle 420/80/340)_
+- **PRAWA REKA / KWATERMISTRZ:** ERROLD _(przyzwoity kwatermistrz, przeszedl do Symona; jedno dowodztwo, wspolny rachunek)_
+- **KANTOR - INSTRUMENTY:** TAM i WICK _(spisali instrumenty w nocy przed pieczecia; WICK na pensji, liter wyuczony przez Symona i Hala)_
+- **WARZELNIA I SOLARNIA (Bialy Port):** HAL _(solona ryba w skladzie Domu; 6-8 dni od Fosy)_
 
 ### KORONA — _Kasa 3 - Skarb Polnocy_
 - **NAMIESTNIK:** SYMON TALLY _(lord Fosy Cailin)_
@@ -115,6 +119,26 @@ _20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana d
 - **GLEBOKORZEN:** THEOMORE _(pierwszy mistrz; budowy NIKT nie prowadzi; spis flory jako pierwszy zbior)_
 - **DORADCA W DUSTINPORCIE:** THEON GREYJOY _(kadluby + nauka admirala; jedzie z pismem do Torrena)_
 - **REJESTRATOR KORONY:** ### PUSTE _(PUSTE OD ~299-11. Nazwisko zastrzegl sobie Krol; przypomnienie 300-02-27)_
+
+### WINTERFELL — _Korona (Kasa 3) + dom Starkow_
+_Rada 299-09-07 w skladzie: Cerwyn, Gawen, Rodwell, ser Alyn, Luwin, Catelyn._
+- **KROL:** ROBB STARK _(list z prosba o godzine poszedl 300-03-01)_
+- **KANCELARIA KORONY:** BERON _(karta 7-dniowa; nowa rubryka od 300-03-03)_
+- **SKARBNIK:** GAWEN _(siedzi w Winterfell; sprawozdania zostawia na stole, nie krukiem)_
+- **MAESTER WINTERFELL:** LUWIN _(agronomia chlodu 299-08-15; licencja nauczania; szkola Winterfell; przez niego idzie kruk z listem jencow)_
+- **TRZYMA WINTERFELL:** ser ALYN _(czlowiek domu Starkow, szkolony przez Rodrika Cassela; NIE do zabrania przez Namiestnika)_
+- **STOPIEN I - drugie nazwisko:** ser RODRIK CASSEL _(dopisany obok ser Alyna)_
+- **RADA 299-09-07 - takze:** RODWELL _(zasiadal w radzie)_
+- **KASZTELAN WINTERFELL:** kasztelan (imie do potwierdzenia) _(prowadzi rejestr zamku od 300-02-17; ma wytypowac 3-4 miejsca dla wychowankow i przeslac spis dzieci)_
+- **ROLKA MUSZTRY:** pisarz Osrica w Winterfell _(odpis co miesiac; dziura na pln-wschodzie zostaje dziura)_
+- **POLNOCNA CYTADELA / GLEBOKORZEN:** THEOMORE _(w Winterfell PRZY REJESTRZE, nie przy budowie)_
+- **OCHMISTRZ WYCHOWANKOW:** ### PUSTE _(PUSTE; raport zamowiony u Gawena)_
+
+### DOM PRYWATNY - BIALY PORT — _Kasa 1_
+_Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno na osmy miesiac, a DRUGIE PRZYCHODZI PREDZEJ NIZ PIERWSZE'._
+- **ZONA:** MIRA _(slub przez Owena, umowa u Torrena)_
+- **CORKA:** LYRA _(na czas rozwiazania idzie do ELNY)_
+- **PRZY MIRZE:** RHONA, WENNA, ELNA _(Owen za rogiem; ludzie Wylisa przy bramie)_
 
 ### 🔴 WAKATY (17)
 - **KLUCZNIK / SZAFARZ** _(LENNO)_ **NAJPILNIEJSZY** — spizarnia i wydawanie; karta zywnosciowa 300-03-07, a wydaje nia dzis nikt
@@ -199,6 +223,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 | ### **Garrick** *(nie Korona)* | ### **REJESTRY LOCKE'ÓW + POCHODZENIE** — **rozdzielone z listu do Króla.** Dwie własne ręce, **Kasa 1**, wpisane jawnie jako **sprawa prywatna Namiestnika** *(jak stoi od 299-09-11: „ni jeden człowiek Korony")*. Żadnego kruka Korony | **bez terminu** | 300-02-28 |
 
 ## ⏳ TERMINY Z DATA
+- **300-03-03 lub WCZESNIEJ** — ROZWIAZANIE MIRY, Bialy Port. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno, a DRUGIE przychodzi predzej niz pierwsze'
 - **300-03-05** — Cerwyn wyjezdza; odpis urzadzen Fosy ma byc gotowy
 - **300-03-06** — czlowiek Wymana na Fosie - pomiar przewloki pod dwie pieczecie
 - **300-03-06..08** — odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency)

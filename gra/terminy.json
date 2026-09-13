@@ -6,39 +6,250 @@
     "status": "otwarte | zrobione | przepadlo"
   },
   "terminy": [
-    {"data": "300-03-05", "co": "Cerwyn wyjezdza; odpis urzadzen Fosy ma byc gotowy", "kto": "dwaj pisarze", "zamyka": "odpis wreczony", "status": "otwarte"},
-    {"data": "300-03-06", "co": "czlowiek Wymana na Fosie - pomiar przewloki pod dwie pieczecie", "kto": "Weylin + Orbelo + czlowiek Wymana", "zamyka": "wspolne przejscie sznurem", "status": "otwarte"},
-    {"data": "300-03-06..08", "co": "odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency)", "kto": "GARRICK rozdziela", "zamyka": "czesc koronna w bieg, czesc prywatna zapieczetowana do ksiegi Domu", "status": "otwarte"},
-    {"data": "300-03-07", "co": "WYJAZD SYMONA z Fosy", "kto": "Symon + przyboczna (Sten)", "zamyka": "wyjazd", "status": "otwarte"},
-    {"data": "300-03-07", "co": "pierwsza KARTA ZYWNOSCIOWA (geby, korce, na ile dni)", "kto": "Orland + Warryn", "zamyka": "karta na stole", "status": "otwarte"},
-    {"data": "300-03-07", "co": "ODBICI BEZ DOMU - ilu Fosa bierze; limit z karty, nie z uznania", "kto": "Symon", "zamyka": "liczba wpisana", "status": "otwarte"},
-    {"data": "300-03-07", "co": "pytania proby wstepnej dla lawy", "kto": "MELLA", "zamyka": "pytania oddane lawie", "status": "otwarte"},
-    {"data": "300-03-07", "co": "KARTA ODHACZEN GARRICKA - czwarta kolumna (idzie / stoi / pyta kancelarie) przy kazdym wierszu", "kto": "GARRICK", "zamyka": "karta wypelniona", "status": "otwarte"},
-    {"data": "300-03-07", "co": "przywilej bagienny - szesc rzemiosl na slup; zegar pana", "kto": "WARRYN + lawa", "zamyka": "slup", "status": "otwarte"},
-    {"data": "300-03-07", "co": "cena minimalna z iloscia + cena dzisiejsza + oferta kupna nasienia na slup", "kto": "Herwin / wagowy", "zamyka": "obwieszczenie na slupie", "status": "zrobione 300-03-03"},
-    {"data": "300-03-09", "co": "WARRYN ZAMYKA RACHUNEK ETAPU I (dwa niepoliczone otwory: kamien z zewnatrz, szesc pozycji Kasy 2)", "kto": "WARRYN", "zamyka": "liczba", "status": "otwarte"},
-    {"data": "po 300-03-09", "co": "najwczesniejsza uczciwa data papieru dluznego lenna (8,5 prosty, 5 lat, odnawialny)", "kto": "Symon + Hal", "zamyka": "suma emisji i srodek wierzyciela", "status": "otwarte"},
-    {"data": "300-03-10", "co": "CICHY KUPIEC rusza (sol, ksiega Domu, sfera Dreadfortu)", "kto": "WILLA", "zamyka": "wyjazd", "status": "otwarte"},
-    {"data": "~300-03-13", "co": "BIALY PORT - WYMAN: podpis Ujscia z reki do reki, splawnosc Samotnych Wzgorz, udzial w drewnie, Medrick, dwa nowe porty", "kto": "Symon", "zamyka": "podpis", "status": "otwarte"},
-    {"data": "~300-03-13", "co": "BIALY PORT - HAL: placowki (Braavos, Pentos, Gulltown, Highgarden), obrot przez rece cechowe, forma zwrotu 695, POCHODZENIE ziarna, suma emisji", "kto": "Symon + Hal", "zamyka": "rozmowa w oczy", "status": "otwarte"},
-    {"data": "~300-03-13", "co": "koniec przewagi NIEOGLOSZONEGO STATUTU - do podpisu Wymana", "kto": "-", "zamyka": "podpis albo utrata przewagi", "status": "otwarte"},
-    {"data": "300-03-29", "co": "CZTERNASCIE KART DO KWATER - dwie kolumny: NAD TYM GLOSUJECIE / TO OGLOSZONO; plus druga prosba do domow", "kto": "kancelaria", "zamyka": "karty zaniesione", "status": "otwarte"},
-    {"data": "300-03-30", "co": "WIELKA RADA. 0. MUR (meldunek + aklamacja) - I. ZIEMIA BEZ PANA (pod glosy sama PROBA) - II. WODA - III. CHLEB + REWIZJA - IV. HANDEL", "kto": "Symon, Cerwyn, Wyman", "zamyka": "cztery glosowania i aklamacja", "status": "otwarte"},
-    {"data": "300-04-01", "co": "ZALEGLOSC KARHOLDU 148/160 - dwanascie", "kto": "Korona", "zamyka": "zaplata albo zaleglosc", "status": "otwarte"},
-    {"data": "przed 300-04-01", "co": "RAMSAY - wezwanie do czterdziestu domow; meldunek MA PASC TAKZE, JESLI NIE PRZYJEDZIE", "kto": "kancelaria -> Symon (Bialy Port do ~20.III, potem Winterfell)", "zamyka": "meldunek o przyjezdzie ALBO o niestawieniu sie", "status": "otwarte"},
-    {"data": "300-04-01", "co": "BRACTWO RZEMIOSLA WOLNEGO - miasto wykonuje statut", "kto": "miasto Cailin", "zamyka": "wykonanie", "status": "otwarte"},
-    {"data": "ten tydzien", "co": "FEVER polowa (a): ile tygodni rzeka stoi - kanal Warryna do krannogmenow + przewoznicy z brodu", "kto": "WARRYN", "zamyka": "odpowiedz", "status": "otwarte"},
-    {"data": "ten tydzien", "co": "NARYBEK do stawow + ROSLINY JADALNE - tym samym jezdzcem co Fever", "kto": "WARRYN", "zamyka": "odpowiedz", "status": "otwarte"},
-    {"data": "tygodnie - PRZED SIEWEM", "co": "ZRODLO NASIENIA owsa i jeczmienia NA TEN SIEW", "kto": "Symon / Hal / Harl", "zamyka": "ziarno w skladzie", "status": "otwarte - NAJPILNIEJSZE"},
-    {"data": "~300-03-13", "co": "WILLA: druga droga na poludnie - dwie kolumny rejestru; czyta MELLA, wynik do Willi szyfrem", "kto": "MELLA -> HARROL -> WILLA", "zamyka": "odczyt kolumn", "status": "otwarte"},
-    {"data": "V/300", "co": "NESTA: kolumna dziesieciu przystani zachodnich (fracht) + pytanie o DAENERYS", "kto": "NESTA", "zamyka": "odpowiedz z Braavos", "status": "otwarte"},
-    {"data": "jesien 300", "co": "ZYTO OZIME - siew; odpowiedz OSRICA o Darze pod to, nie pod wiosne", "kto": "Symon / Osric", "zamyka": "siew", "status": "otwarte"},
-    {"data": "koniec VI/300", "co": "DRUGA RATYFIKACJA traktatu z Dorzeczem; zakaz zaliczek przed ratyfikacja", "kto": "Catelyn / Lucan", "zamyka": "ratyfikacja", "status": "otwarte"},
-    {"data": "bez daty - CISZA", "co": "MELDUNEK VII OSRICA (Mur) - zalegly; doszlo mu pytanie o Dar", "kto": "OSRIC", "zamyka": "meldunek", "status": "otwarte"},
-    {"data": "bez daty - CISZA", "co": "PRZYSTAN WILKA - status budowy; pyta CERWYN jako wspolwlasciciel cwiartki; podanie nazwiska budowniczego jest czescia odpowiedzi", "kto": "CERWYN", "zamyka": "meldunek z nazwiskiem", "status": "otwarte"},
-    {"data": "bez daty - CISZA", "co": "DONNEL OBROK (Dustinport, budowa) - pytanie pod pieczecia, jezdziec eskadry", "kto": "DONNEL", "zamyka": "meldunek w formie osmiu rubryk", "status": "otwarte"},
-    {"data": "bez daty", "co": "GARTH: liczba miesieczna dziury w komorach wodnych - zmierzona 299-10-01 i NIE ZMIERZONA PONOWNIE", "kto": "GARTH", "zamyka": "nowa liczba", "status": "otwarte"},
-    {"data": "bez daty", "co": "BERON: wszystko, co przyszlo od BRYNDENA TULLY'EGO od 299-07, z datami; potem list do Blackfisha (poludniowa sciana, nie traktat)", "kto": "BERON", "zamyka": "wykaz", "status": "otwarte"},
-    {"data": "bez daty", "co": "THEOMORE: gdzie kolebka, ile kosztuje PIERWSZY ROK, kogo wzialbys jako pierwszego ucznia; spis flory jako pierwszy zbior (w reke na Radzie)", "kto": "THEOMORE", "zamyka": "odpowiedz", "status": "otwarte"}
+    {
+      "data": "300-03-03 lub WCZESNIEJ",
+      "co": "ROZWIAZANIE MIRY, Bialy Port. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno, a DRUGIE przychodzi predzej niz pierwsze'",
+      "kto": "RHONA, WENNA, ELNA; Lyra u Elny",
+      "zamyka": "wiadomosc z Bialego Portu (kruk 2 dni, jezdziec 6-8)",
+      "status": "otwarte - moze juz sie stalo"
+    },
+    {
+      "data": "300-03-05",
+      "co": "Cerwyn wyjezdza; odpis urzadzen Fosy ma byc gotowy",
+      "kto": "dwaj pisarze",
+      "zamyka": "odpis wreczony",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-06",
+      "co": "czlowiek Wymana na Fosie - pomiar przewloki pod dwie pieczecie",
+      "kto": "Weylin + Orbelo + czlowiek Wymana",
+      "zamyka": "wspolne przejscie sznurem",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-06..08",
+      "co": "odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency)",
+      "kto": "GARRICK rozdziela",
+      "zamyka": "czesc koronna w bieg, czesc prywatna zapieczetowana do ksiegi Domu",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "WYJAZD SYMONA z Fosy",
+      "kto": "Symon + przyboczna (Sten)",
+      "zamyka": "wyjazd",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "pierwsza KARTA ZYWNOSCIOWA (geby, korce, na ile dni)",
+      "kto": "Orland + Warryn",
+      "zamyka": "karta na stole",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "ODBICI BEZ DOMU - ilu Fosa bierze; limit z karty, nie z uznania",
+      "kto": "Symon",
+      "zamyka": "liczba wpisana",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "pytania proby wstepnej dla lawy",
+      "kto": "MELLA",
+      "zamyka": "pytania oddane lawie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "KARTA ODHACZEN GARRICKA - czwarta kolumna (idzie / stoi / pyta kancelarie) przy kazdym wierszu",
+      "kto": "GARRICK",
+      "zamyka": "karta wypelniona",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "przywilej bagienny - szesc rzemiosl na slup; zegar pana",
+      "kto": "WARRYN + lawa",
+      "zamyka": "slup",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "cena minimalna z iloscia + cena dzisiejsza + oferta kupna nasienia na slup",
+      "kto": "Herwin / wagowy",
+      "zamyka": "obwieszczenie na slupie",
+      "status": "zrobione 300-03-03"
+    },
+    {
+      "data": "300-03-09",
+      "co": "WARRYN ZAMYKA RACHUNEK ETAPU I (dwa niepoliczone otwory: kamien z zewnatrz, szesc pozycji Kasy 2)",
+      "kto": "WARRYN",
+      "zamyka": "liczba",
+      "status": "otwarte"
+    },
+    {
+      "data": "po 300-03-09",
+      "co": "najwczesniejsza uczciwa data papieru dluznego lenna (8,5 prosty, 5 lat, odnawialny)",
+      "kto": "Symon + Hal",
+      "zamyka": "suma emisji i srodek wierzyciela",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-10",
+      "co": "CICHY KUPIEC rusza (sol, ksiega Domu, sfera Dreadfortu)",
+      "kto": "WILLA",
+      "zamyka": "wyjazd",
+      "status": "otwarte"
+    },
+    {
+      "data": "~300-03-13",
+      "co": "BIALY PORT - WYMAN: podpis Ujscia z reki do reki, splawnosc Samotnych Wzgorz, udzial w drewnie, Medrick, dwa nowe porty",
+      "kto": "Symon",
+      "zamyka": "podpis",
+      "status": "otwarte"
+    },
+    {
+      "data": "~300-03-13",
+      "co": "BIALY PORT - HAL: placowki (Braavos, Pentos, Gulltown, Highgarden), obrot przez rece cechowe, forma zwrotu 695, POCHODZENIE ziarna, suma emisji",
+      "kto": "Symon + Hal",
+      "zamyka": "rozmowa w oczy",
+      "status": "otwarte"
+    },
+    {
+      "data": "~300-03-13",
+      "co": "koniec przewagi NIEOGLOSZONEGO STATUTU - do podpisu Wymana",
+      "kto": "-",
+      "zamyka": "podpis albo utrata przewagi",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-29",
+      "co": "CZTERNASCIE KART DO KWATER - dwie kolumny: NAD TYM GLOSUJECIE / TO OGLOSZONO; plus druga prosba do domow",
+      "kto": "kancelaria",
+      "zamyka": "karty zaniesione",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-30",
+      "co": "WIELKA RADA. 0. MUR (meldunek + aklamacja) - I. ZIEMIA BEZ PANA (pod glosy sama PROBA) - II. WODA - III. CHLEB + REWIZJA - IV. HANDEL",
+      "kto": "Symon, Cerwyn, Wyman",
+      "zamyka": "cztery glosowania i aklamacja",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-01",
+      "co": "ZALEGLOSC KARHOLDU 148/160 - dwanascie",
+      "kto": "Korona",
+      "zamyka": "zaplata albo zaleglosc",
+      "status": "otwarte"
+    },
+    {
+      "data": "przed 300-04-01",
+      "co": "RAMSAY - wezwanie do czterdziestu domow; meldunek MA PASC TAKZE, JESLI NIE PRZYJEDZIE",
+      "kto": "kancelaria -> Symon (Bialy Port do ~20.III, potem Winterfell)",
+      "zamyka": "meldunek o przyjezdzie ALBO o niestawieniu sie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-01",
+      "co": "BRACTWO RZEMIOSLA WOLNEGO - miasto wykonuje statut",
+      "kto": "miasto Cailin",
+      "zamyka": "wykonanie",
+      "status": "otwarte"
+    },
+    {
+      "data": "ten tydzien",
+      "co": "FEVER polowa (a): ile tygodni rzeka stoi - kanal Warryna do krannogmenow + przewoznicy z brodu",
+      "kto": "WARRYN",
+      "zamyka": "odpowiedz",
+      "status": "otwarte"
+    },
+    {
+      "data": "ten tydzien",
+      "co": "NARYBEK do stawow + ROSLINY JADALNE - tym samym jezdzcem co Fever",
+      "kto": "WARRYN",
+      "zamyka": "odpowiedz",
+      "status": "otwarte"
+    },
+    {
+      "data": "tygodnie - PRZED SIEWEM",
+      "co": "ZRODLO NASIENIA owsa i jeczmienia NA TEN SIEW",
+      "kto": "Symon / Hal / Harl",
+      "zamyka": "ziarno w skladzie",
+      "status": "otwarte - NAJPILNIEJSZE"
+    },
+    {
+      "data": "~300-03-13",
+      "co": "WILLA: druga droga na poludnie - dwie kolumny rejestru; czyta MELLA, wynik do Willi szyfrem",
+      "kto": "MELLA -> HARROL -> WILLA",
+      "zamyka": "odczyt kolumn",
+      "status": "otwarte"
+    },
+    {
+      "data": "V/300",
+      "co": "NESTA: kolumna dziesieciu przystani zachodnich (fracht) + pytanie o DAENERYS",
+      "kto": "NESTA",
+      "zamyka": "odpowiedz z Braavos",
+      "status": "otwarte"
+    },
+    {
+      "data": "jesien 300",
+      "co": "ZYTO OZIME - siew; odpowiedz OSRICA o Darze pod to, nie pod wiosne",
+      "kto": "Symon / Osric",
+      "zamyka": "siew",
+      "status": "otwarte"
+    },
+    {
+      "data": "koniec VI/300",
+      "co": "DRUGA RATYFIKACJA traktatu z Dorzeczem; zakaz zaliczek przed ratyfikacja",
+      "kto": "Catelyn / Lucan",
+      "zamyka": "ratyfikacja",
+      "status": "otwarte"
+    },
+    {
+      "data": "bez daty - CISZA",
+      "co": "MELDUNEK VII OSRICA (Mur) - zalegly; doszlo mu pytanie o Dar",
+      "kto": "OSRIC",
+      "zamyka": "meldunek",
+      "status": "otwarte"
+    },
+    {
+      "data": "bez daty - CISZA",
+      "co": "PRZYSTAN WILKA - status budowy; pyta CERWYN jako wspolwlasciciel cwiartki; podanie nazwiska budowniczego jest czescia odpowiedzi",
+      "kto": "CERWYN",
+      "zamyka": "meldunek z nazwiskiem",
+      "status": "otwarte"
+    },
+    {
+      "data": "bez daty - CISZA",
+      "co": "DONNEL OBROK (Dustinport, budowa) - pytanie pod pieczecia, jezdziec eskadry",
+      "kto": "DONNEL",
+      "zamyka": "meldunek w formie osmiu rubryk",
+      "status": "otwarte"
+    },
+    {
+      "data": "bez daty",
+      "co": "GARTH: liczba miesieczna dziury w komorach wodnych - zmierzona 299-10-01 i NIE ZMIERZONA PONOWNIE",
+      "kto": "GARTH",
+      "zamyka": "nowa liczba",
+      "status": "otwarte"
+    },
+    {
+      "data": "bez daty",
+      "co": "BERON: wszystko, co przyszlo od BRYNDENA TULLY'EGO od 299-07, z datami; potem list do Blackfisha (poludniowa sciana, nie traktat)",
+      "kto": "BERON",
+      "zamyka": "wykaz",
+      "status": "otwarte"
+    },
+    {
+      "data": "bez daty",
+      "co": "THEOMORE: gdzie kolebka, ile kosztuje PIERWSZY ROK, kogo wzialbys jako pierwszego ucznia; spis flory jako pierwszy zbior (w reke na Radzie)",
+      "kto": "THEOMORE",
+      "zamyka": "odpowiedz",
+      "status": "otwarte"
+    }
   ]
 }

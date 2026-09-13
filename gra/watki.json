@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 18,
+   "_dziennik_nota": 19,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 40
+   "_dziennik_nota": 41
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 35,
+   "_dziennik_nota": 36,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6049,7 +6049,7 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 24,
+   "_dziennik_nota": 25,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 8
   },
   {
    "id": "bractwo_rzemiosla_wolnego",
@@ -6238,7 +6238,7 @@
   {
    "id": "maester_luwin",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

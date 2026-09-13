@@ -295,10 +295,24 @@
     },
     {
       "data": "PRZED Rada 300-03-30 - WARUNKOWE",
-      "co": "SPRAWA CAILIN (prawo skladu + garnizon). KROL OBIECAL 300-02-07: rozstrzygnie PRZED Rada, ale DOPIERO GDY PRZYJDZIE PISMO MIASTA, NIE NAMIESTNIKA. Prosba miasta o piec dni targowych stoi na slupie od 300-03-03 - ALE NA SLUPIE, NIE W WINTERFELL. Dopoki lawa nie wysle wlasnego pisma, zegar Krola nie ruszyl.",
+      "co": "SPRAWA CAILIN (prawo skladu + garnizon). KROL OBIECAL 300-02-07: rozstrzygnie PRZED Rada, ale DOPIERO GDY PRZYJDZIE PISMO MIASTA, NIE NAMIESTNIKA. Prosba miasta o piec dni targowych stoi na slupie od 300-03-03 - ALE NA SLUPIE, NIE W WINTERFELL. Dopoki lawa nie wysle wlasnego pisma, zegar Krola nie ruszyl. ROZSTRZYGNIECIE GRACZA 300-03-03: lawa wysyla wlasne pismo 300-03-04, krukiem.",
       "kto": "LAWA MIASTA CAILIN / HERWIN SZALA",
       "zamyka": "pismo MIASTA w Winterfell - ono uruchamia obietnice Krola",
-      "status": "otwarte - WARUNEK NIESPELNIONY"
+      "status": "WARUNEK SPELNIANY - lawa wysyla pismo miasta 300-03-04 krukiem"
+    },
+    {
+      "data": "300-03-04",
+      "co": "PISMO MIASTA CAILIN DO KORONY - wlasna pieczec miasta, podpisy lawy, krukiem z Fosy (2 dni). TRESC: TYLKO sprawa Cailin (przymus skladu piec dni targowych + garnizon). NIE laczyc z ustrojem miast - tamto Krol przyjmie tylko OD WSZYSTKICH NARAZ i pismo Cailin utknie za czternastoma innymi. WARUNEK FORMY: Symon nie dyktuje ani slowa; podaje Herwinowi TYLKO to, ze warunek Krola istnieje.",
+      "kto": "LAWA MIASTA / HERWIN SZALA",
+      "zamyka": "kruk w powietrzu",
+      "status": "otwarte"
+    },
+    {
+      "data": "~300-03-06",
+      "co": "PISMO MIASTA W WINTERFELL - od tej chwili biegnie obietnica Krola z 300-02-07: rozstrzygnie PRZED Rada",
+      "kto": "kancelaria Korony (BERON)",
+      "zamyka": "rozstrzygniecie Krola w sprawie skladu i garnizonu Cailin",
+      "status": "otwarte"
     }
   ]
 }

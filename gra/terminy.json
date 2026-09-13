@@ -285,6 +285,20 @@
       "kto": "Symon / Brynden",
       "zamyka": "odpowiedz Blackfisha",
       "status": "otwarte"
+    },
+    {
+      "data": "wyslane 300-02-27 - CISZA",
+      "co": "PRZYPOMNIENIE O REJESTRATORZE KORONY. Jedno zdanie, bez nazwiska, spisane przez Garricka pod dyktando: 'KRZESLO REJESTRATORA KORONY STOI PUSTE CZWARTY MIESIAC. NAZWISKA NIE PODAJE, BO ZASTRZEGLISCIE JE SOBIE. PODAJE DATE.' Ten sam goniec co prosba o zwyczaj, OSOBNA KARTA - zeby nie zamienic tamtej w upomnienie. UWAGA: UCHO KORONY I REJESTRATOR KORONY TO JEDNO KRZESLO (odkryte 300-02-27) - puste jest wieksze, niz wyglada.",
+      "kto": "SYMON -> ROBB STARK",
+      "zamyka": "NAZWISKO OD KROLA. A jesli do Rady 300-03-30 nie przyjdzie - ZAMYKA TO MILCZENIE: przestaje byc prosba bez odpowiedzi, a staje sie faktem, ktory Namiestnik moze wypowiedziec na Radzie. Drugi raz sie nie prosi.",
+      "status": "otwarte - list POSZEDL 300-02-27, odpowiedzi nie bylo"
+    },
+    {
+      "data": "PRZED Rada 300-03-30 - WARUNKOWE",
+      "co": "SPRAWA CAILIN (prawo skladu + garnizon). KROL OBIECAL 300-02-07: rozstrzygnie PRZED Rada, ale DOPIERO GDY PRZYJDZIE PISMO MIASTA, NIE NAMIESTNIKA. Prosba miasta o piec dni targowych stoi na slupie od 300-03-03 - ALE NA SLUPIE, NIE W WINTERFELL. Dopoki lawa nie wysle wlasnego pisma, zegar Krola nie ruszyl.",
+      "kto": "LAWA MIASTA CAILIN / HERWIN SZALA",
+      "zamyka": "pismo MIASTA w Winterfell - ono uruchamia obietnice Krola",
+      "status": "otwarte - WARUNEK NIESPELNIONY"
     }
   ]
 }

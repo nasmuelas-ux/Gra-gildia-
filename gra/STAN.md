@@ -142,7 +142,31 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **CORKA:** LYRA _(na czas rozwiazania idzie do ELNY)_
 - **PRZY MIRZE:** RHONA, WENNA, ELNA _(Owen za rogiem; ludzie Wylisa przy bramie)_
 
-### 🔴 WAKATY (19)
+### 🏛️ PIEC DEPARTAMENTOW (schemat dworu — urzad → kto go faktycznie robi)
+**I. KANCELARIA (administracja centralna)**
+- **KANCLERZ DOMENY** — GARRICK - kanclerz osobisty od 299-09; pelnomocnictwo notarialne na Fose od 300-03-01, pieczec lenna. ISTNIEJE.
+- **GLOWNY ARCHIWISTA (kustosz ksiag)** — WAKAT - PILNY. Ksiegi sa i sa rozproszone: spis mieszkancow 299-06 (Warryn), rejestr dniowek (Mella), ksiega bramy (Garth - KORONA, nie lenno), ksiega Jastrzebi (pisarz grodzki), rejestr zamku (Winterfell). NIKT NIE TRZYMA CALOSCI I NIKT NIE WIE, CO W KTOREJ STOI.
+- **PROTOKOLANT DWORSKI** — CZESCIOWO - PISARZE DWORU (dwaj z trojki Nesty) przepisuja akty, ale NARAD NIKT NIE PROTOKOLUJE. Narada budowlana 300-03-01 (dziewieciu naraz) nie ma protokolu. To funkcja do dopisania pisarzom, nie nowy urzad.
+**II. SKARB I KONTROLA**
+- **SKARBNIK LENNA (Kasa 2)** — WAKAT - PILNY. Kase 2 liczy i wydaje TA SAMA REKA: WARRYN (rachunek Etapu I na 300-03-09). Skarbnik GAWEN to Kasa 3 (Korona), HAL to Kasa 1 (Dom). Lenno nie ma wlasnego skarbnika.
+- **LUSTRATOR (rewident objazdowy)** — WAKAT. Na poziomie krolestwa stoi juz wakat MISTRZ DOMU AUDYTOWEGO ('poza cechem nie ma mistrzow rewizji'). Na Fosie audyt robil dotad SAM SYMON (Dreadfort 299-10-21).
+- **PISARZ PODATKOWY / URBARZ** — WAKAT - PILNY I NAJSTARSZY. OCZYNSZOWANIE weszlo 300-02-07 ('nowy winien grosz, a nie dni') - a KSIEGI PARCEL Z PRZYPISANYM CZYNSZEM NIE MA. Spis 299-06 liczy dusze i umiejetnosci, rejestr dniowek liczy dniowki, losowanie dzialek prowadzi lawa miasta. Nikt nie ma kolumny: kto, z czego, ile, kiedy.
+**III. ADMINISTRACJA TERENOWA**
+- **RZADCA KLUCZA** — WARRYN - rzadca calego lenna, 11 lat na tej ziemi. Posredniego szczebla (kilka wsi na jednego urzednika) NIE MA - i przy 640 duszach plus czterystu przybyszach Warryn jest juz waskim gardlem.
+- **SOLTYSI (szczebel ponizej rzadcy)** — USTROJ ISTNIEJE OD 299-08: jedno palenisko = jeden glos, soltysa WYBIERAJA mieszkancy przy rzadcy, przysiega calej Fosie, rzadzi z lawa przysieglych majaca oba glosy (starzy z bagna I osadnicy). ALE: KTORE WSIE WYBRALY, KIEDY I KOGO - PYTANIE ZADANE I BEZ ODPOWIEDZI.
+- **POBORCA CZYNSZOW** — WAKAT. Czynsz jest, poborcy nie ma. GARTH to celnik KORONY - nie przyjmuje polecen Symona i nie zbiera czynszow lenna.
+- **MAGAZYNIER PROWIANTOWY** — ORLAND KORZEC - sklad, cztery przegrody, karta zywnosciowa na 300-03-07. ISTNIEJE. Osobno: SPIZARNIA DOMOWA = ALYS (klucze), a PROWIANTMISTRZ GARNIZONU = WAKAT (drabina Hendry'ego). Trzy rozne brzuchy, trzy rozne rece.
+- **LESNICZY PRZYSIEGLY** — WAKAT - juz zapisany. Regale lesne zaprojektowane, nieobsadzone; olcha na lodzie Jastrzebi idzie z wlasnego lasu bez ewidencji.
+**IV. SPRAWIEDLIWOSC I BEZPIECZENSTWO**
+- **SEDZIA PATRYMONIALNY** — RODERYK - sad grodzki; umowy od rownowartosci 30 korcy; od 300-03-03 orzeka 'jedna sakiewka' (poprawka Cerwyna). ISTNIEJE.
+- **PISARZ SADOWY** — PISARZ GRODZKI - trzyma ksiege Mchowych Jastrzebi (kto dowodzi, ten nie spisuje). ISTNIEJE.
+- **NACZELNIK STRAZY** — DWOCH, I TAK MA BYC: HENDRY marszalek fortecy (zamek, ~50 druzyny) i KESSEL BRODATY, dowodca Mchowych Jastrzebi (20 ludzi, drogi i woda, pomoc celnikom). KESSEL PODLEGA BEZPOSREDNIO SYMONOWI, NIE HENDRY'EMU.
+- **KLUCZNIK LOCHU (komisarz wiezienny)** — WAKAT. Zakaz naczelny Jastrzebi brzmi KTO CHWYTA, TEN NIE SADZI - ale KTO TRZYMA MIEDZY CHWYCENIEM A SADEM, nie zostalo powiedziane nigdy. Wiaze sie z otwarta sprawa jencow (Cerwyn).
+**V. TECHNIKA I INFRASTRUKTURA**
+- **MAGISTER INZYNIERII** — TRZECH, PODZIELENI RZECZOWO: WEYLIN - inzynier zamkowy (woda, dreny, sluzy, 'urzad na pokolenia'); ORBELO - kamien i budowa; BRAN - majordom robot (grobla, trakt). ISTNIEJE, i jest to najlepiej obsadzony departament lenna.
+- **URZEDNIK MIAR I WAG** — BENNIS OD WAGI - wagowy miasta od 300-03-03, wage trzyma i placi RADA MIASTA, nie zamek. Nad nim HERWIN SZALA, burmistrz, 12 lat przy wadze, autor poprawki o ZNAKU NORMY. ISTNIEJE - ale jako urzad MIASTA. Lenno swojej wagi nie ma i miec nie powinno: lord nadaje regule, miasto sadzi.
+
+### 🔴 WAKATY (26)
 - **PROWIANTMISTRZ GARNIZONU** _(LENNO)_ **PILNY** — zapis rozroznia go OD SPIZARNI DOMOWEJ i oznacza jako REKRUT - nigdy nie obsadzony. Wskazuje HENDRY (to jego drabina).
 - **KUCHARZ** _(LENNO)_ — szukany od 300-03-02 przy rejestrze Melli; pytanie: kto zrobi z wegorza cos, co zje pan
 - **KONIUSZY** _(LENNO)_ — konie, wozy, zaprzegi, woly Cailin-Bialy Port
@@ -162,6 +186,13 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **AKADEMIA WOJSKOWA - data, platnik, pierwszy mistrz** _(KORONA)_ — baszta w Przystani Wilka
 - **OCHMISTRZ SZKOLY I NAUKI** _(LENNO)_ — szkola dziala (dwaj uczacy pod Warrynem), ale nikt nie odpowiada za nauke z nazwy
 - **LESNICZY (regale lesne)** _(LENNO)_ — urzad zaprojektowany w schemacie administracji Korony obok rzadcy, poborcy, mistrza wagi i mierniczego; na Fosie nieobsadzony. Olcha na lodzie Jastrzebi idzie z wlasnego lasu.
+- **GLOWNY ARCHIWISTA (kustosz ksiag)** _(LENNO)_ **PILNY** — ksiegi rozproszone po pieciu rekach; nikt nie trzyma katalogu. To urzad, ktorego brak najbardziej boli.
+- **SKARBNIK LENNA (Kasa 2)** _(LENNO)_ **PILNY** — Warryn liczy i wydaje ta sama reka. Gawen to Kasa 3, Hal to Kasa 1.
+- **PISARZ PODATKOWY / URBARZ** _(LENNO)_ **PILNY** — oczynszowanie od 300-02-07 bez ksiegi parcel; nie wiadomo kto ile winien.
+- **POBORCA CZYNSZOW** _(LENNO)_ — czynsz jest, poborcy nie ma; Garth to celnik Korony.
+- **LUSTRATOR (rewident objazdowy)** _(LENNO)_ — audyt robil dotad sam Symon; na poziomie krolestwa osobny wakat Mistrza Domu Audytowego.
+- **KLUCZNIK LOCHU** _(LENNO)_ — kto trzyma miedzy chwyceniem a sadem - nie powiedziane nigdy; wiaze sie z jencami.
+- **SOLTYSI - ILE WSI WYBRALO** _(LENNO)_ **PYTANIE BEZ ODPOWIEDZI** — ustroj od 299-08 (jedno palenisko jeden glos, lawa z oboma glosami); Symon pytal, ktore wsie wybraly - odpowiedzi nie dostal.
 
 ## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)
 Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
@@ -342,15 +373,15 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `przywilej_bagienny_fosa_300_02` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-03-03] `projekt_cailin`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
-- [300-03-03] `poprawki`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
-- [300-03-03] `ustroj_urzedow`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
-- [300-03-03] `lenno/HENDRY`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
-- [300-03-03] `korona/GARTH`: ### VOID: 'MIASTO NIE MA WLASNEJ STRAZY' - NIEPRAWDA. FORMACJA ISTNIEJE I ZOSTALA POWOLANA. 300-03-03. || ZAPIS Z 300-02-25, poprawka gracza, slowo w slowo: ### 'HENDRY, MARSZALEK FORTECY, p…
-- [300-03-03] `swiat`: 300-03-03 WIECZOR. Dzien zeszl na: werdykt Cerwyna nad teka i jego trzy poprawki egzekucyjne - lawa ustalila piec dni targowych - slup w Cailin (dno, cena dzisiejsza, oferta kupna nasienia, …
 - [300-03-03] `projekt_cailin`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
 - [300-03-03] `spis_mieszkancow_fosy_299_06`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
 - [300-03-03] `lenno/ALYS`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
 - [300-03-03] `lenno/HENDRY`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
 - [300-03-03] `projekt_cailin`: ### STRUKTURA LENNA UPORZADKOWANA - na zadanie gracza, 300-03-03. Bez rzutow. || ## Z LISTY GRACZA: CO JUZ ISTNIALO POD INNA NAZWA ## UZDROWICIEL - jest podwojnie: MAESTER WYSTAN (srebro) i …
 - [300-03-03] `ustroj_urzedow`: ### STRUKTURA LENNA UPORZADKOWANA - na zadanie gracza, 300-03-03. Bez rzutow. || ## Z LISTY GRACZA: CO JUZ ISTNIALO POD INNA NAZWA ## UZDROWICIEL - jest podwojnie: MAESTER WYSTAN (srebro) i …
+- [300-03-03] `ustroj_urzedow`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
+- [300-03-03] `projekt_cailin`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
+- [300-03-03] `soltysi_i_samorzad_lenna_299_08`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
+- [300-03-03] `lenno_fosa_cailin_administracja_299_05`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
+- [300-03-03] `lenno/WARRYN`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
+- [300-03-03] `lenno/GARRICK`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…

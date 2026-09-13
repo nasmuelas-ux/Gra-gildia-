@@ -136,6 +136,16 @@ if OBSADA:
             _kto = _d.get("kto") or "### PUSTE"
             A("- **%s:** %s%s" % (_urz, _kto, (" _(%s)_" % _d["nota"]) if _d.get("nota") else ""))
         A("")
+    _sd = OBSADA.get("struktura_dworu") or {}
+    if _sd:
+        A("### 🏛️ PIEC DEPARTAMENTOW (schemat dworu — urzad → kto go faktycznie robi)")
+        for _dep, _poz in _sd.items():
+            if _dep.startswith("_"):
+                continue
+            A("**%s**" % _dep)
+            for _u, _op in _poz.items():
+                A("- **%s** — %s" % (_u, _op))
+        A("")
     _wak = OBSADA.get("wakaty") or []
     if _wak:
         A("### 🔴 WAKATY (%d)" % len(_wak))

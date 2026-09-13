@@ -1,6 +1,6 @@
 {
   "_opis": "JEDYNE ZRODLO PRAWDY O TERMINACH. Kalendarz ranka generuje sie STAD, nie z pamieci. Kazda pozycja: co / kto / data / czym sie zamyka.",
-  "_aktualizacja": "300-03-03",
+  "_aktualizacja": "300-03-03 - przeglad WSZYSTKICH wyslanych pism",
   "_legenda": {
     "zamyka": "zdarzenie, ktore konczy pozycje - bez niego termin tylko mija",
     "status": "otwarte | zrobione | przepadlo"
@@ -320,6 +320,104 @@
       "kto": "SYMON / DOM HANDLOWY TALLY -> OLENNA TYRELL",
       "zamyka": "odpowiedz z Highgarden ALBO zgoda na cicha placowke. Droga: Fosa -> Bialy Port (6-8 dni) -> morzem na poludnie; tam i z powrotem to TYGODNIE, nie dni.",
       "status": "otwarte - w drodze, za wczesnie na cisze"
+    },
+    {
+      "data": "wyslany 300-02-07 - CISZA MIESIAC",
+      "co": "LIST DO HALA: WYKUPIC WEKSEL DANY BOLTONOM. Podstawa: 299-10-20 Dreadfort, zamiec - postoj oplacony WEKSLEM NA DOM TALLY, Roose przyjal papier bez pytania. Lezy piaty miesiac. NA DREADFORCIE LEZY PODPIS SYMONA - papier z jego nazwiskiem i CUDZA WOLA, platny na zadanie, ktory kladzie sie na stol wtedy, kiedy sie chce. PILNE PRZEZ TRZY ZBIEGI: cichy kupiec na Dreadfort 300-03-10, Ramsay wezwany przed 300-04-01, Rada 300-04-01 z Boltonami na sali.",
+      "kto": "HAL SIEROTA",
+      "zamyka": "weksel w rekach Domu albo pisemna odmowa Roose'a",
+      "status": "otwarte - PILNE"
+    },
+    {
+      "data": "wyslany 300-02-27",
+      "co": "LIST DO ROOSE'A BOLTONA - nie czeka na spotkanie. Ta sama sprawa co weksel.",
+      "kto": "ROOSE BOLTON",
+      "zamyka": "odpowiedz ALBO milczenie do Rady 300-04-01 - i wtedy milczenie jest odpowiedzia",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-02-25 (ponowiony; pierwszy 299-09-08)",
+      "co": "LIST DO HOWLANDA REEDA. KANALU KRUCZEGO NIE MA - Greywater Watch PLYWA. Protokol: poslaniec jedzie na Przesmyk, staje w umowionym miejscu PRZY GROBLI i czeka, az krannogowie sami wyjda. MOZE DZIEN, MOZE DWA TYGODNIE - cisza tutaj NIE JEST cisza.",
+      "kto": "poslaniec przy grobli",
+      "zamyka": "krannogowie wychodza ALBO spotkanie z Howlandem",
+      "status": "otwarte - bez zegara z natury kanalu"
+    },
+    {
+      "data": "wyslany 300-03-01, osobnym jezdzcem",
+      "co": "LIST DO SKARBNIKA GAWENA - PAKIET MONETARNY, PIEC POZYCJI. Podstawa liczbowa: dochod monetarny Korony w normalnym roku 8000-20000 smokow, DZIS 3000-6000. Mennica Wilk bije od 299.",
+      "kto": "GAWEN",
+      "zamyka": "odpowiedz na PIEC pozycji - nie na jedna",
+      "status": "otwarte"
+    },
+    {
+      "data": "wyslany 300-02-07",
+      "co": "LIST DO GAWENA: czlowiek do PRZYSTANI WILKA - 'czego szukac, nie kogo'. Zbiega sie z cisza o statusie budowy Przystani (pyta tez Cerwyn jako wspolwlasciciel cwiartki).",
+      "kto": "GAWEN",
+      "zamyka": "nazwisko albo opis czlowieka",
+      "status": "otwarte"
+    },
+    {
+      "data": "wyslany 300-03-01",
+      "co": "LIST DO KROLA - PROSBA O ROZMOWE O PORZADKU, NIE WYKLAD O NIM. Forma narzucona zasada, ktora Krol sam nalozyl na Symona przy Karcie Wychowankow: 'idzcie do niego DZIS. NIE Z KARTA - Z PYTANIEM'. List niesie prosbe i powod, nie argumentacje. OSOBNY od pisma z 02-19 i od przypomnienia o Rejestratorze.",
+      "kto": "ROBB STARK",
+      "zamyka": "WYZNACZONA GODZINA - przed Rada albo na Radzie",
+      "status": "otwarte"
+    },
+    {
+      "data": "zlecone 300-03-02",
+      "co": "KANON JADLA POLNOCY - zadanie dla WYSTANA, trzy czesci: (1) dieta i dania z waloru miejscowego; (2) kanon potraw - co siac, co do szklarni, co hodowac, co lowic; (3) ruszyc ze szklarniami i szkolkami rolniczymi. OD 300-03-03 MA WYKONAWCE: LOWCZY HAKON OD JASZCZURA - wczesniej kanon byl lista bez rak.",
+      "kto": "WYSTAN + WERRAN + HAKON",
+      "zamyka": "kanon spisany i PIERWSZY POSILEK Z NIEGO PODANY - kanonu nie oglasza sie na slupie, kanon sie je",
+      "status": "otwarte"
+    },
+    {
+      "data": "~300-03-15 (termin podany w samym liscie)",
+      "co": "ODPOWIEDZ MIRY - DZIESIEC DROBNYCH PYTAN O SZKOLE. Reka Symona, NIE rozkazem Korony (wskazowka Luwina: 'na rozkaz odpowie tez, ale na list odpowie PRAWDE O TYM, CO JEJ NIE WYCHODZI'). Zapisany bieg kruka: WRACA PRZED DRUGA POLOWA TRZECIEGO MIESIACA. ZDERZA SIE Z ROZWIAZANIEM - moze nie byc w stanie odpisac.",
+      "kto": "MIRA",
+      "zamyka": "odpowiedz na dziesiec pytan",
+      "status": "otwarte"
+    },
+    {
+      "data": "wyslany 300-02-28",
+      "co": "LIST DO MIRY: 'kto nauczy tych dziesiecioro UCZYC' - druga sprawa szkolna, z powrotna.",
+      "kto": "MIRA",
+      "zamyka": "odpowiedz",
+      "status": "otwarte"
+    },
+    {
+      "data": "NIEUSTALONA - PRZYJAZD",
+      "co": "LADY CATELYN NA FOSIE CAILIN. Kruk do Warryna 300-02-16 i powtorzony 300-02-27: 'JEST SPODZIEWANA, MA BYC PRZYJETA JAK MATKA KROLA, A NIE JAK PRZEJEZDNA'. List Symona do niej (napisany 300-02-16, wlasna reka, BEZ pieczeci Namiestnika - pieczec zmienilaby go w rozkaz) idzie PRZEZ LUCANA od 300-02-27, do rak wlasnych. ZDERZENIE: SYMON WYJEZDZA 300-03-07. Jesli przyjedzie pozniej, przyjmuje ja WARRYN - a termin wpisal w liscie sam Symon.",
+      "kto": "WARRYN (przyjecie) / LUCAN (doreczenie)",
+      "zamyka": "przyjazd ALBO wiadomosc, kiedy",
+      "status": "otwarte - BEZ DATY, A Z ZEGAREM"
+    },
+    {
+      "data": "wyslany 300-02-17",
+      "co": "NESTA - CZWARTE ZLECENIE: fracht na zachodnim morzu (nie okret - LADOWNIA; domy braavoskie maja kantory w Lannisporcie i Starym Miescie) + LUPACZ KAMIENIA. Kolejka wypisana wprost: (1) ksiega Antaryonow (2) karta cen (3) wschod i dziewczyna (4) to. 'Czwarta jest czwarta i ma nia zostac.'",
+      "kto": "NESTA",
+      "zamyka": "odpowiedz z Braavos - 2,5 miesiaca w jedna strone",
+      "status": "otwarte"
+    },
+    {
+      "data": "wyslany 300-02-07",
+      "co": "NESTA - KADRY Z BRAAVOS (pozycja 2 kolejki).",
+      "kto": "NESTA",
+      "zamyka": "ludzie albo nazwiska",
+      "status": "otwarte"
+    },
+    {
+      "data": "wyslany 300-03-01",
+      "co": "NESTA - ROZGLOSIC W BRAAVOS PRZYWILEJE FOSY; ludzie maja kierunek. ALE rozglaszanie ZACZYNA SIE PO PODPISIE, nie przed.",
+      "kto": "NESTA",
+      "zamyka": "podpis przywileju -> potem rozglos",
+      "status": "otwarte - warunkowe"
+    },
+    {
+      "data": "wyslany 300-03-03 o brzasku",
+      "co": "KRUK DO BIALEGO PORTU - pytanie o Mire. Poczta DOMU, pieczec DOMU, nie Korony. Dojdzie w dwa dni i tak czy inaczej PO FAKCIE - wysylany nie po to, zeby zdazyc, tylko zeby ktos tam wiedzial, ze pytano tego dnia.",
+      "kto": "SYMON -> Bialy Port",
+      "zamyka": "wiadomosc o rozwiazaniu",
+      "status": "otwarte"
     }
   ]
 }

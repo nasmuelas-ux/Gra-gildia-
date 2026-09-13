@@ -3336,7 +3336,7 @@
    "id": "struktura_dom_handlowy_tally_299_05",
    "tytul": "Struktura organizacyjna Domu Handlowego Tally (wenecko/medycejska: centrala+siec+giovani, kontrole)",
    "status": "KIEROWNICTWO_KOMPLETNE: Hal/Tam/Willa/Beron; gotowe do pieczeci",
-   "_dziennik_nota": 21,
+   "_dziennik_nota": 22,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 43,
+   "_dziennik_nota": 44,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -6148,7 +6148,7 @@
   {
    "id": "roose_bolton",
    "status": "otwarty",
-   "_dziennik_nota": 12
+   "_dziennik_nota": 13
   },
   {
    "id": "gawen_skarbnik",
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 29
+   "_dziennik_nota": 30
   },
   {
    "id": "bractwo_rzemiosla_wolnego",
@@ -6228,7 +6228,7 @@
   {
    "id": "howland_reed",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "spis_flory_przesmyku_299_09",

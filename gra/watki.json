@@ -3631,7 +3631,7 @@
    "id": "prawo_azylu_uczonego_wolne_enklawy_299_06",
    "tytul": "Prawo azylu uczonego i otwarcia - wolne enklawy dla rzemieslnikow/uczonych (Braavos/Essos/Westeros)",
    "status": "projekt_do_ratyfikacji",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "przetarg_z_wymanem_299_06",
@@ -3679,7 +3679,7 @@
    "id": "spis_mieszkancow_fosy_299_06",
    "tytul": "Spis mieszkancow Moat Cailin Lands (census lenna) - fundament pod podatek/muster/relief/zime",
    "status": "WSTEPNY_SPIS_GOTOWY_299-06-23_DEFICYT_ZYWNOSCI_na_zime",
-   "_dziennik_nota": 19
+   "_dziennik_nota": 21
   },
   {
    "id": "wataha_starkow_w_komplecie_299_06",
@@ -3778,7 +3778,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 35,
+   "_dziennik_nota": 36,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -5412,7 +5412,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 27,
+   "_dziennik_nota": 28,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -6089,7 +6089,7 @@
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 13,
    "filar": "STANDARD TRAKTU POLNOCY",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 33,
+   "_dziennik_nota": 34,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6113,7 +6113,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 17
+   "_dziennik_nota": 18
   },
   {
    "id": "rzadca_warryn",
@@ -6138,7 +6138,7 @@
   {
    "id": "kto_skupuje_zboze_w_dorzeczu",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "catelyn_stark",
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 15
+   "_dziennik_nota": 16
   },
   {
    "id": "pochodzenie_symona_299_09",
@@ -6213,12 +6213,17 @@
   {
    "id": "nesta_braavijka",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
    "_dziennik_nota": 6
+  },
+  {
+   "id": "bractwo_rzemiosla_wolnego",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

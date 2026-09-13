@@ -441,7 +441,7 @@ Na tej jednej liczbie wiszą: **umowa z Wymanem**, **dok w Ujściu**, i cały **
 | **TRAKT FOSA CAILIN – CERWYN – BIAŁY PORT** | I / II | nikt nie przeszedł z tyczką | — |
 | **GROBLA FOSY** *(w robocie)* | **III — pale** | stoi przez odwilż; **cztery kafary** | Bran |
 | **WIELKA ŚLUZA + gniazdo na wał** | — | ### **gniazdo musi być w rysunku, zanim komora się zamknie** | Weylin + Orbelo |
-| **SPŁAW RZEKĄ FEVER** | — | pomiar Fever: ile tygodni pod lodem | — |
+| **SPŁAW RZEKĄ FEVER** | — | pomiar Fever: ile tygodni pod lodem | ### **NIKT — a blokuje Gorący Port, pozycję piątą nowej kolejności** |
 | **GORĄCY PORT + baszta** | — | ### zwiad kamienia · **brak przypisanej kasy** | ### NIKT |
 | **STARKPORT / Cypel** | — | ekipa dopiero zbierana | ### PUSTY |
 | **odbudowa TRAKTU KRÓLEWSKIEGO** | I | odcinkami, wedle standardu | — |
@@ -464,7 +464,7 @@ Rozkaz z **299-10-01** („przeliczyć spichlerz od nowa") nie został wykonany 
 
 | część projektu | kto prowadzi | stan na 300-02-27 | co ją blokuje |
 |---|---|---|---|
-| **I. Trakt do Riverrun** *(Fosa → Dorzecze)* | ### PUSTY | policzony, niezaczęty | brak człowieka **i** pomiaru; kolejka: po przewłoce i Fever |
+| **I. Trakt do Riverrun** *(Fosa → Dorzecze)* | ### **BRAN, majordom robót** *(od 300-03-01)* | ### **POZYCJA PIERWSZA NOWEJ KOLEJNOŚCI.** To **odbudowa Traktu Królewskiego, klasa I — 8–12 smoków/milę**, nie budowa od zera; najtańsza duża pozycja listy. Bran idzie z **48 ludźmi spod stojącej grobli**; **pierwsza robota: przejść z tyczką**. Jego mierniczy są zarazem **oczami Willi** *(litera i liczba, nigdy imię)* | ### zastępca przy grobli — inaczej trakt staje, gdy grobla odmarznie · **drugi koniec leży za granicą, w ręku Catelyn** |
 | **II. Odbudowa fortecy** | Weylin *(inżynier zamkowy)* | 3 wieże z 20; brama stoi w rusztowaniu | ### kierunek murów — *„wasza forteca patrzy w złą stronę"* (Luwin, 299-09-08); **kamień kładzie się raz** |
 | **III. Grobla i pale** | **BRAN**, majordom robót | cztery kafary, **stoi przez odwilż** | grunt rozmiękły; kamień przychodzi wodą, a zwiad kamienia jest trzeci w kolejce |
 | **Wielka Śluza** | **Weylin + Orbelo** | w rysunku | ### **gniazdo na wał — zanim komora się zamknie** |

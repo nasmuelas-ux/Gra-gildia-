@@ -5281,7 +5281,7 @@
   {
    "id": "komory_wodne_dziura_w_poborze_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "filar": "KOMORY WODNE - dziura w poborze",
    "stan_watku": "ZYWY"
   },
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 85,
+   "_dziennik_nota": 86,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6113,7 +6113,7 @@
   {
    "id": "poprawki",
    "status": "otwarty",
-   "_dziennik_nota": 20
+   "_dziennik_nota": 21
   },
   {
    "id": "rzadca_warryn",
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 21
+   "_dziennik_nota": 22
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

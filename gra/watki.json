@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 43,
+   "_dziennik_nota": 44,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 32
+   "_dziennik_nota": 33
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -5412,7 +5412,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 27,
+   "_dziennik_nota": 28,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -5681,7 +5681,7 @@
   {
    "id": "dlug_korony_wobec_domu_tally_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "filar": "DLUG KORONY WOBEC DOMU TALLY (~310 smokow)",
    "stan_watku": "ZYWY"
   },
@@ -6163,7 +6163,7 @@
   {
    "id": "theon_greyjoy",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "program_okretow_modelowe_kadluby_299_12",
@@ -6208,7 +6208,7 @@
   {
    "id": "torren_solny",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "nesta_braavijka",

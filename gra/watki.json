@@ -3652,7 +3652,7 @@
    "id": "system_oswiaty_polnocy_struktura_299_06",
    "tytul": "System oswiaty Polnocy (5 wezlow od 299-06-12) + UZUPELNIENIE 09-16: lancuch (braz-miara, czardrzew-pamiec, stal-prawo), stroj, przysiega, Theomore glowa Straznicy Zimy, LUWIN MISTRZ NAUKI w Radzie",
    "status": "otwarty",
-   "_dziennik_nota": 22,
+   "_dziennik_nota": 23,
    "priorytet": "wysoki",
    "filar": "SYSTEM OSWIATY POLNOCY",
    "stan_watku": "ZYWY"
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 60,
+   "_dziennik_nota": 61,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 76,
+   "_dziennik_nota": 77,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 14
+   "_dziennik_nota": 15
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

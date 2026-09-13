@@ -3454,7 +3454,7 @@
    "id": "zelazni_na_morzu_balon_299_06",
    "tytul": "Zelazni na morzu / Balon krolem-samozwancem - sprawa panstwa (front zachodni)",
    "status": "STRATEGIA_PRZYJETA_299-06-08_splot_dzwigni",
-   "_dziennik_nota": 14
+   "_dziennik_nota": 15
   },
   {
    "id": "mira_lyra_u_catelyn_299_06",
@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 49,
+   "_dziennik_nota": 51,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 40,
+   "_dziennik_nota": 41,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6163,12 +6163,12 @@
   {
    "id": "theon_greyjoy",
    "status": "otwarty",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "program_okretow_modelowe_kadluby_299_12",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "ucho_korony",
@@ -6208,7 +6208,7 @@
   {
    "id": "torren_solny",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "nesta_braavijka",

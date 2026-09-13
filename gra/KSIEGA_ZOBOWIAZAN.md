@@ -472,7 +472,7 @@ Na start tylko to, co pewne z ostatnich dni:
 | Traktat z Dorzeczem | Catelyn / Lucan | **ratyfikacja do VI/300** | 300-02-06 |
 | Sukcesja Bliźniaków | Catelyn | — | 299-09 |
 | **DOLINA ARRYNÓW — czy Lysa pęknie** | **Catelyn** *(listy rzadkie i krótkie)* · **karta 7-dniowa Berona, rubryka 4: „czy lady Catelyn się odezwała"** | — | 300-02-06 — „rozmowy w Dolinie idą"; 299-12-25: Lysa poruszona dowodem, **trzyma ją strach, nie brak przekonania**. ### *Czy prowadzone na miejscu czy listownie — patrz sprzeczność w sekcji I* |
-| **Stan Dorzecza — południowa ściana królestwa** | **Blackfish** *(kanał nieustanowiony)* | ### nic od 299-07-06 | 299-07-06 |
+| **Stan Dorzecza — południowa ściana królestwa** | ### **BLACKFISH — ⚠ VOID „kanał nieustanowiony" (300-03-02).** **Brynden Tully konsultował doktrynę antyżelazną 298-11-13, dał realia pola, wskazał krannogmenów jako nauczycieli; miał szkolić wojsko i stawiać zabezpieczenia. Zna Symona dobrze** | ### **nic od 299-07-06 — ale pytanie brzmi GDZIE SĄ JEGO LISTY, nie czemu nie pisał** | 300-03-02 |
 | **JON SNOW — po drugiej stronie Muru** *(filar własny)* | Osric/Straż · maester Aemon | — | 299-09 — Aemon: „nie napiszę, że nie żyje" |
 | **Rozdroże (Crossroads Inn)** — kto przejeżdża, dokąd, czyim znakiem, czego się boi | placówka Domu Tally | na bieżąco | 299-07 — przez nią uchyliła się Dolina |
 | ### ALARM WEWNĘTRZNY: **czy ktoś przekracza granicę urząd↔kupiectwo w rachunkach** *(kancelaria pyta kantor o zaliczki albo odwrotnie)* | własna poczta domu | — | ### reguła ustrojowa od 300-02-25 — **nikomu nie zakazano, więc nikt nie wie, że jest czego szukać**; przekroczenie znaczy, że ktoś trzeci popchnął |

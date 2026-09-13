@@ -466,21 +466,21 @@
       "co": "ZADANIE POMIARU OSWYNA - kruk do Winterfell, do GAWENA i BERONA razem: przyslac liczbe roznicy zsyp/wysyp za cala zime, tak jak zlecono 299-09-13. Kruk 2 dni w kazda strone - LICZBA MOZE BYC NA FOSIE 300-03-07, w dniu wyjazdu, albo dogoni Symona w Bialym Porcie.",
       "kto": "OSWYN -> GAWEN/BERON -> SYMON",
       "zamyka": "liczba w rece",
-      "status": "otwarte - w drodze"
+      "status": "ZAMKNIETE 300-03-03 - liczba wydana (zasada 39a: zwloka byla moja, nie gracza)"
     },
     {
       "data": "300-03-03 wieczor - WYSLANE",
       "co": "KARTA DO BERONA, JEDNO PYTANIE, DWA NAZWISKA: czy w kancelarii Korony lezy cokolwiek od MAESTERA AEMONA (od 299-09) i od STANNISA BARATHEONA (od 299-09). Ta sama forma, co przy Bryndenie Tullym 300-03-02: NAJPIERW WLASNY ZAMEK, POTEM ZARZUT. Nowa rubryka Berona z 300-03-03 ('co przyszlo do Korony, a czego Namiestnik nie widzial') jest dokladnie do tego.",
       "kto": "BERON",
       "zamyka": "wykaz albo puste - obie odpowiedzi sa odpowiedzia",
-      "status": "otwarte"
+      "status": "ZAMKNIETE 300-03-03 - Stannis: nic. Aemon: JEDNO PISMO LEZALO W WINTERFELL"
     },
     {
       "data": "PILNE - przed wyjazdem 300-03-07",
-      "co": "ROZSTRZYGNIECIE O MYCIE: myto lenna jest OD WOZU (12 jeleni, plaskie), clo Korony jest OD WARTOSCI (1/20). Skutek policzony 300-03-03: torf placi 15 procent, owies 7,7, futra i bursztyn 5,3. IM TANSZY LADUNEK, TYM CIEZEJ PLACI - a Spichlerz Polnocy wozi wlasnie tani ladunek, i morze Wymana myta nie placi.",
+      "co": "MYTO OD WARTOSCI - ROZSTRZYGNIECIE GRACZA 300-03-03. Plaskie 12 jeleni od wozu ZNIESIONE; myto lenna idzie 1/40 (2,5 proc.) wartosci, ta sama forma co clo Korony (1/20). PO ZMIANIE KAZDY LADUNEK PLACI 7,5 PROC. LACZNIE: torf spada z 15 na 7,5, owies stoi na 7,7 -> 7,5, futra i bursztyn rosna z 5,3 na 7,5. WYCENY NIE TRZEBA BUDOWAC - GARTH JUZ WYCENIA KAZDY WOZ, bo clo Korony od zawsze jest od wartosci. Myto jedzie na tej samej liczbie, zero nowego aparatu. MYTO TO REGALE LENNA (Kasa 2) - Krol niepotrzebny, oglasza sie na slupie.",
       "kto": "SYMON (myto to jego regale) + GAWEN (clo to Korona)",
-      "zamyka": "nowa stawka myta ALBO swiadoma decyzja, ze zostaje plaska",
-      "status": "otwarte - NOWE, z odczytu"
+      "zamyka": "obwieszczenie na slupie w Cailin",
+      "status": "ROZSTRZYGNIETE - na slup 300-03-04"
     },
     {
       "data": "PILNE",
@@ -488,6 +488,27 @@
       "kto": "SYMON / HENDRY / MELLA",
       "zamyka": "decyzja: odeslac na Mur, zatrzymac jawnie, albo dac im wybor - i OSOBA, ktora odtad kieruje",
       "status": "otwarte - do rozstrzygniecia przez gracza"
+    },
+    {
+      "data": "300-03-04",
+      "co": "SLUP W CAILIN: MYTO 1/40 OD WARTOSCI zamiast 12 jeleni od wozu. Jedno zdanie, data na wierzchu. Idzie tym samym posiedzeniem lawy, co kowal i pismo miasta.",
+      "kto": "HERWIN + GARTH (wycena juz istnieje)",
+      "zamyka": "obwieszczenie",
+      "status": "otwarte"
+    },
+    {
+      "data": "PILNE - do karty zywnosciowej 300-03-07",
+      "co": "UBYTEK SKLADOWY 7 PROC. - liczba Oswyna za zime (na 100 korcy zsypanych wysypalo sie 93). DNO CENY MUSI POKRYWAC UBYTEK, inaczej sklad traci na samym trzymaniu. Dno ustalone 300-03-03 (owies 3 jelenie 20, jeczmien 3 jelenie 60) LICZONO BEZ TEGO. Przeliczyc; sprawdzic tez cztery przegrody Fosy - NIGDY nie mierzone zsyp/wysyp.",
+      "kto": "ORLAND KORZEC + GERRIK RACHUBA",
+      "zamyka": "poprawione dno ceny i pierwszy pomiar przegrod Fosy",
+      "status": "otwarte - NOWE"
+    },
+    {
+      "data": "300-03-03 - PRZYSZLO",
+      "co": "PISMO MAESTERA AEMONA lezalo w kancelarii Korony. Nie doszlo, bo bylo adresowane PRYWATNIE do Symona Tally'ego, a stara rubryka Berona przepuszczala tylko sprawy koronne. Dokladnie ta dziura, ktora zalatala nowa rubryka z 300-03-03. OD STANNISA: NIC.",
+      "kto": "BERON -> SYMON",
+      "zamyka": "przeczytane",
+      "status": "zrobione"
     }
   ]
 }

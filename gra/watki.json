@@ -4108,7 +4108,7 @@
    "id": "polnocna_cytadela_theomore_przystan_wilka_299_08",
    "tytul": "GLEBOKORZEN - karta zatwierdzona, czesc przejsciowa do szuflady (wyzwalacz: trzy policzalne warunki). PROBLEM: Cytadela PRZYDZIELA maesterow i moze po prostu przestac przysylac - to wyscig, nie wybor terminu",
    "status": "otwarty",
-   "_dziennik_nota": 28,
+   "_dziennik_nota": 29,
    "priorytet": "wysoki"
   },
   {
@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 24,
+   "_dziennik_nota": 25,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -6089,7 +6089,7 @@
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "filar": "STANDARD TRAKTU POLNOCY",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 67,
+   "_dziennik_nota": 68,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [

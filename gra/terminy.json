@@ -313,6 +313,13 @@
       "kto": "kancelaria Korony (BERON)",
       "zamyka": "rozstrzygniecie Krola w sprawie skladu i garnizonu Cailin",
       "status": "otwarte - ZEGAR LICZY SIE OD 300-02-07, nie od wyslania. Zwloka powstala z zaniedbania prowadzacego (pismo nie bylo w rejestrze) - NIE PRZECHODZI NA GRACZA: rozstrzygniecie Krola ma paczc PRZED Rada, jak obiecal."
+    },
+    {
+      "data": "wyslany 300-02-27 - odpowiedz IV/300 najwczesniej",
+      "co": "LIST DO LADY OLENNY TYRELL. Tresc: Polnoc przezywa zime; Dom chce wejsc do Highgarden PO CICHU, zeby moc rozmawiac blizej. PIERWSZY WLASNY RUCH DOMU NA REACH - nie pismo Namiestnika, tylko Domu Handlowego (Kasa 1). PODSTAWA RELACJI: od 300-02-25 to nie jest 'tajny kanal', tylko RELACJA HANDLOWA Z DRUGIM SPICHLERZEM WESTEROS - obie strony maja powod, zeby jej nie zerwac, i zadna nie musi tlumaczyc, po co pisze. ZBIEGA SIE Z: placowka HIGHGARDEN na liscie do Hala (Bialy Port ~300-03-13) - TEN SAM CEL, DWIE DROGI. Nie wysylac trzeciej.",
+      "kto": "SYMON / DOM HANDLOWY TALLY -> OLENNA TYRELL",
+      "zamyka": "odpowiedz z Highgarden ALBO zgoda na cicha placowke. Droga: Fosa -> Bialy Port (6-8 dni) -> morzem na poludnie; tam i z powrotem to TYGODNIE, nie dni.",
+      "status": "otwarte - w drodze, za wczesnie na cisze"
     }
   ]
 }

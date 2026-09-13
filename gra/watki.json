@@ -3035,7 +3035,7 @@
    "id": "kanal_olenna_tyrell_1127",
    "tytul": "Tajny kanal do Lady Olenny Tyrell - Ogrod hedguje, rysa=Joffrey",
    "status": "LINIA_OTWARTA_299-04_przyjazn_Olenny+handel_zbozem",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "filar": "RELACJA Z REACH (Olenna - kanal i zboze)",
    "stan_watku": "ZYWY",
    "stan_uwaga": "Rozstrzygniecie gracza: procesowac jako ODREBNY MOTYW - relacja z Reach, nie tajny kanal wojenny. Olenna TAKZE SPRZEDAJE NAM ZBOZE, wiec to jest naraz dyplomacja i dostawa."
@@ -3336,7 +3336,7 @@
    "id": "struktura_dom_handlowy_tally_299_05",
    "tytul": "Struktura organizacyjna Domu Handlowego Tally (wenecko/medycejska: centrala+siec+giovani, kontrole)",
    "status": "KIEROWNICTWO_KOMPLETNE: Hal/Tam/Willa/Beron; gotowe do pieczeci",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -6178,7 +6178,7 @@
   {
    "id": "kanal_olenna",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "wyman_manderly",

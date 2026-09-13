@@ -98,6 +98,11 @@
         "kto": "dwaj z trojki Nesty",
         "od": "299-06",
         "nota": "trzeci poszedl na brame; przepisuja urzadzenia dla Cerwyna"
+      },
+      "SPIZARNIA DOMOWA / KLUCZE": {
+        "kto": "ALYS",
+        "od": "299-07",
+        "nota": "majordomat; przy przeliczeniu spichlerza ONA szla przy liczbach, Bran przy robotach - wydawanie z domu nigdy nie bylo puste"
       }
     },
     "MCHOWE JASTRZEBIE - STRAZ LENNA": {
@@ -338,10 +343,10 @@
   },
   "wakaty": [
     {
-      "urzad": "KLUCZNIK / SZAFARZ",
+      "urzad": "PROWIANTMISTRZ GARNIZONU",
       "drabina": "LENNO",
-      "pilnosc": "NAJPILNIEJSZY",
-      "nota": "spizarnia i wydawanie; karta zywnosciowa 300-03-07, a wydaje nia dzis nikt"
+      "pilnosc": "PILNY",
+      "nota": "zapis rozroznia go OD SPIZARNI DOMOWEJ i oznacza jako REKRUT - nigdy nie obsadzony. Wskazuje HENDRY (to jego drabina)."
     },
     {
       "urzad": "KUCHARZ",

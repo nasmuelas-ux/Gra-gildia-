@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 40,
+   "_dziennik_nota": 41,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 50,
+   "_dziennik_nota": 51,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6208,7 +6208,7 @@
   {
    "id": "torren_solny",
    "status": "otwarty",
-   "_dziennik_nota": 13
+   "_dziennik_nota": 14
   },
   {
    "id": "nesta_braavijka",
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

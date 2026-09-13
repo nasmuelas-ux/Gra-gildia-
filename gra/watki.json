@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 32,
+   "_dziennik_nota": 33,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -4302,7 +4302,7 @@
    "id": "sprawa_rymana_justycjariusz_299_08",
    "tytul": "Sprawa Rymana Cwiakla (zalozycielska krzywda: sfalszowany akt, obrabowana wdowa, martwy maester) trafia do Justycjariusza - crit-low, tylko czysta/dluga/arm-length droga",
    "status": "OTWARTA_299-08-12_droga_arm-length_dla_wdowy_(dowod_wystygl+Ryman_okopany+pulapka_przyzwoitosci)",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "stan_watku": "ZYWY",
    "stan_uwaga": "Kontynuowana, dwie warstwy: publiczna (Ryman/wdowa/Aemon) i prywatna (Stary Zamek, ksiega czeladzi 275-282; slad zauwazony, rzut 30).",
    "filar": "SPRAWA RYMANA",
@@ -4569,7 +4569,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 30,
+   "_dziennik_nota": 31,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -5412,7 +5412,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 24,
+   "_dziennik_nota": 25,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",
@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 24,
+   "_dziennik_nota": 25,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -6089,7 +6089,7 @@
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "filar": "STANDARD TRAKTU POLNOCY",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 30,
+   "_dziennik_nota": 31,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 13
+   "_dziennik_nota": 14
   },
   {
    "id": "pochodzenie_symona_299_09",
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   }
  ]
 }

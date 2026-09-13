@@ -5797,7 +5797,7 @@
   {
    "id": "ZYCIE_PRYWATNE",
    "status": "otwarty",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "filar": "ZYCIE PRYWATNE - Mira, Lyra, rodzina",
    "stan_watku": "ZYWY"
   },
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 63,
+   "_dziennik_nota": 64,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 15
+   "_dziennik_nota": 16
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

@@ -3679,7 +3679,7 @@
    "id": "spis_mieszkancow_fosy_299_06",
    "tytul": "Spis mieszkancow Moat Cailin Lands (census lenna) - fundament pod podatek/muster/relief/zime",
    "status": "WSTEPNY_SPIS_GOTOWY_299-06-23_DEFICYT_ZYWNOSCI_na_zime",
-   "_dziennik_nota": 39
+   "_dziennik_nota": 40
   },
   {
    "id": "wataha_starkow_w_komplecie_299_06",
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 61,
+   "_dziennik_nota": 62,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 77,
+   "_dziennik_nota": 78,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [

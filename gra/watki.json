@@ -4788,7 +4788,7 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 50
+   "_dziennik_nota": 51
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
@@ -6049,7 +6049,7 @@
   {
    "id": "spichlerz_polnocy_mistrz_zapasow_zimowych_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 36,
+   "_dziennik_nota": 37,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "spichlerz_polnocy_dwa_etapy_300_02",
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 70,
+   "_dziennik_nota": 71,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [

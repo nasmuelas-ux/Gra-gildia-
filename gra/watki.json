@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 38,
+   "_dziennik_nota": 39,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -5783,21 +5783,21 @@
   {
    "id": "maester_willam_stary_zamek_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 1,
+   "_dziennik_nota": 2,
    "filar": "MAESTER WILLAM - Stary Zamek",
    "stan_watku": "ZYWY"
   },
   {
    "id": "aemon_rivers_skrzynia_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 1,
+   "_dziennik_nota": 2,
    "filar": "SKRZYNIA AEMONA RIVERSA",
    "stan_watku": "ZYWY"
   },
   {
    "id": "ZYCIE_PRYWATNE",
    "status": "otwarty",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "filar": "ZYCIE PRYWATNE - Mira, Lyra, rodzina",
    "stan_watku": "ZYWY"
   },

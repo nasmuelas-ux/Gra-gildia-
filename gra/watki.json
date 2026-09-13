@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 56,
+   "_dziennik_nota": 57,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6163,7 +6163,7 @@
   {
    "id": "theon_greyjoy",
    "status": "otwarty",
-   "_dziennik_nota": 12
+   "_dziennik_nota": 13
   },
   {
    "id": "program_okretow_modelowe_kadluby_299_12",
@@ -6243,7 +6243,7 @@
   {
    "id": "obrona_fosy_garnizon",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "lecznica_fosy_nina_299_06",

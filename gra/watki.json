@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 39,
+   "_dziennik_nota": 40,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -5783,7 +5783,7 @@
   {
    "id": "maester_willam_stary_zamek_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 2,
+   "_dziennik_nota": 3,
    "filar": "MAESTER WILLAM - Stary Zamek",
    "stan_watku": "ZYWY"
   },
@@ -5797,7 +5797,7 @@
   {
    "id": "ZYCIE_PRYWATNE",
    "status": "otwarty",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 13,
    "filar": "ZYCIE PRYWATNE - Mira, Lyra, rodzina",
    "stan_watku": "ZYWY"
   },

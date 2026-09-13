@@ -3351,7 +3351,7 @@
    "id": "lenno_fosa_cailin_administracja_299_05",
    "tytul": "Administracja Lenna Fosy Cailin (osobna od Domu Handlowego) - urzedy, obsada, wakaty do rekrutacji",
    "status": "LENNO administracja W KOMPLECIE (Rzadca dobr=Warryn)",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 11,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
@@ -3679,7 +3679,7 @@
    "id": "spis_mieszkancow_fosy_299_06",
    "tytul": "Spis mieszkancow Moat Cailin Lands (census lenna) - fundament pod podatek/muster/relief/zime",
    "status": "WSTEPNY_SPIS_GOTOWY_299-06-23_DEFICYT_ZYWNOSCI_na_zime",
-   "_dziennik_nota": 47
+   "_dziennik_nota": 48
   },
   {
    "id": "wataha_starkow_w_komplecie_299_06",
@@ -4569,7 +4569,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 37,
+   "_dziennik_nota": 38,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 90,
+   "_dziennik_nota": 91,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 25
+   "_dziennik_nota": 26
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

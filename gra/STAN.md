@@ -58,6 +58,11 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **bez daty** — GARTH: liczba miesieczna dziury w komorach wodnych - zmierzona 299-10-01 i NIE ZMIERZONA PONOWNIE · _kto:_ **GARTH** · _zamyka:_ nowa liczba
 - **bez daty** — BERON: wszystko, co przyszlo od BRYNDENA TULLY'EGO od 299-07, z datami; potem list do Blackfisha (poludniowa sciana, nie traktat) · _kto:_ **BERON** · _zamyka:_ wykaz
 - **bez daty** — THEOMORE: gdzie kolebka, ile kosztuje PIERWSZY ROK, kogo wzialbys jako pierwszego ucznia; spis flory jako pierwszy zbior (w reke na Radzie) · _kto:_ **THEOMORE** · _zamyka:_ odpowiedz
+- **300-03-04** — URBARZ ZALOZONY - cztery kolumny KTO / Z CZEGO / ILE / KIEDY; pierwszy wpis to szesc tygodni niepobranego czynszu (od 300-02-07) · _kto:_ **SARRA OD KRESKI + INGA LICZYDLO** · _zamyka:_ ksiega otwarta z pierwsza strona
+- **300-03-04** — LAWA MIASTA SADZA KOWALA (Brusk od Miecha, wskazala Mella) - kuznia idzie pierwsza albo nie idzie nic · _kto:_ **lawa burmistrza** · _zamyka:_ posadzenie
+- **300-03-05** — CERWYN WYJEZDZA - ma zostawic TOMMARDA KOSE jako lustratora Fosy na rok · _kto:_ **CERWYN** · _zamyka:_ czlowiek zostaje, kiedy pan odjezdza
+- **ten tydzien** — SOLTYSI: ktore wsie wybraly, kiedy i kogo - pytanie zadane dawno, odpowiedzi nie bylo · _kto:_ **WARRYN** · _zamyka:_ lista wsi z nazwiskami i datami
+- **300-03-30** — AKADEMIA WOJSKOWA: data po Radzie, platnik Kasa 3, baszta w Przystani Wilka; pierwszy mistrz BRYNDEN TULLY, zapasowo zbrojmistrz Fosy · _kto:_ **Symon / Brynden** · _zamyka:_ odpowiedz Blackfisha
 
 _Zamkniete ostatnio:_ cena minimalna z iloscia + cena dzisiejsza + oferta kupna na (zrobione 300-03-03)
 
@@ -93,6 +98,14 @@ _Zamkniete ostatnio:_ cena minimalna z iloscia + cena dzisiejsza + oferta kupna 
 - **LESNICZY:** SIGURD OLCHA _(SPIS 299-06. Regale lesne; olcha na lodzie Jastrzebi szla dotad z wlasnego lasu BEZ EWIDENCJI - od dzis idzie przez niego.)_
 - **KONIUSZY:** TORGIL WOZNICA _(SPIS 299-06. Konie, wozy, zaprzegi, woly na trasie Cailin-Bialy Port.)_
 - **POBORCA CZYNSZOW:** INGA LICZYDLO _(SPIS 299-06, rubryka LICZY. Zasada przy nadaniu: NIE POBIERA WE WLASNEJ WSI. Czynsz istnieje od 300-02-07, poborcy nie bylo szesc tygodni.)_
+- **MLYNARZ:** TOBEN OD ZARNA _(WSKAZALI WARRYN I KESSEL WSPOLNIE (tryb z 300-02-27) - mlyn siedzi w sluzie, a sluza to brama wodna twierdzy, wiec musial przejsc przez rzadce I przez dowodce strazy.)_
+- **ZASTEPCA PRZY GROBLI:** KORM PALIK _(WSKAZAL BRAN, z 48. Ma stac, zanim kafar pierwszy raz wejdzie w grunt.)_
+- **NASIENNIK:** HELWA STRACZEK _(WSKAZAL WERRAN. Bez niego szklarnia byla szkolka jednorazowa; z nim jest matecznik.)_
+- **OCHMISTRZ SZKOLY I NAUKI:** MABEL SIWA _(SPIS 299-06, wszystkie trzy rubryki. Nie uczy - ODPOWIADA: czy dzieci przychodza, czy jedza, czy ktos zniknal z listy. Dwaj uczacy zostaja pod Warrynem.)_
+- **GLOWNY ARCHIWISTA:** HALDOR OD SKRZYN _(SPIS 299-06, najdluzej na tej ziemi z czytajacych. ZABEZPIECZENIE W SAMYM URZEDZIE: ARCHIWISTA NIE PISZE. Przyjmuje i wydaje ZA KWITEM, a KATALOG JEST JAWNY - kazdy widzi, czego brakuje. Kto katalogue, ten nie redaguje (ta sama zasada co ksiega Jastrzebi u pisarza grodzkiego).)_
+- **SKARBNIK LENNA (Kasa 2):** GERRIK RACHUBA _(SPIS 299-06, rubryka LICZY. ROZDZIELENIE, KTORE BYLO CALYM PROBLEMEM: SKARBNIK LICZY I NIE WYDAJE. Wydaje RZADCA - ale na kwit skarbnika. Dwie reki na jednej monecie, po raz pierwszy w Kasie 2.)_
+- **PISARZ PODATKOWY / URBARZ:** SARRA OD KRESKI _(REJESTR MELLI, pisze i liczy. Zaklada URBARZ od 300-03-04: cztery kolumny KTO / Z CZEGO / ILE / KIEDY. Pierwszy wpis - szesc tygodni czynszu, ktorego nikt nie pobral.)_
+- **LUSTRATOR (rewident objazdowy):** TOMMARD KOSA - CZLOWIEK CERWYNA _(NIE Z ZADNEJ KSIEGI FOSY, I TO JEST CALY SENS. Wypozyczony przez Justycjariusza na rok; objazd i kontrola to wlasny fach Cerwyna. CENA JEST PRAWDZIWA: czlowiek Justycjariusza siedzi w ksiegach Namiestnika. To wlasnie czyni krzeslo wiarygodnym.)_
 
 ### MCHOWE JASTRZEBIE - STRAZ LENNA — _KASA SYMONA (nie lenna)_
 _20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana do pomocy celnikom 300-02-25. NIE PODLEGA HENDRY'EMU - dowodca podlega BEZPOSREDNIO SYMONOWI. ZAKAZ NACZELNY: KTO CHWYTA, TEN NIE SADZI. Ksiega Jastrzebi u PISARZA GRODZKIEGO (kto dowodzi, nie spisuje sam)._
@@ -104,6 +117,7 @@ _20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana d
 - **BURMISTRZ:** HERWIN SZALA _(dawny wagowy, 12 lat przy wadze; autor poprawki o znaku normy; uczony odczytu ziarna 300-03-02)_
 - **WAGOWY:** BENNIS OD WAGI _(15 lat, liter nie zna; wybrany przez lawe; wage trzyma i placi rada; PIERWSZY ODCZYT STANU ZIARNA)_
 - **LAWA:** lawa burmistrza _(proba wstepna, losowanie dzialek, przywilej bagienny; ustalila 5 dni targowych (300-03-03, niejednoglosnie))_
+- **KOWAL:** BRUSK OD MIECHA - wskazala MELLA _(REJESTR MELLI. Mella pisala rachunki W KUZNI za meza, zanim tu przyszla, i wyrabia gwozdzie we wsi pod grobla - wie, kogo szukac. LORD NADAJE KUZNIE, LAWA SADZA KOWALA.)_
 
 ### DOM HANDLOWY TALLY — _Kasa 1_
 - **DYREKTOR:** HAL SIEROTA _(Bialy Port; forma zwrotu 695 w towarze - jego sprawa)_
@@ -130,6 +144,11 @@ _20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana d
 - **GLEBOKORZEN:** THEOMORE _(pierwszy mistrz; budowy NIKT nie prowadzi; spis flory jako pierwszy zbior)_
 - **DORADCA W DUSTINPORCIE:** THEON GREYJOY _(kadluby + nauka admirala; jedzie z pismem do Torrena)_
 - **REJESTRATOR KORONY:** ### PUSTE _(PUSTE OD ~299-11. Nazwisko zastrzegl sobie Krol; przypomnienie 300-02-27)_
+- **TRZECI ODCZYT ZIARNA POZA FOSA:** ORIN WAGA i THELL SITO - szkoli WYSTAN _(Maester jest jeden i zostaje na Fosie. Odczyt poza Fosa NIE POTRZEBUJE maestera - potrzebuje wyuczonego oka, a maszyna do uczenia juz stoi (Wystan uczyl Herwina i Bennisa 300-03-02/03). Dwoch na objazd, nie jeden - bo odczyt sporny ma miec dwie reke.)_
+- **CZLOWIEK OD FEVER:** JONN BRODOWY _(przewoznik z brodu - niesie OBIE polowy naraz: (a) ile tygodni rzeka stoi, kanalem Warryna do krannogmenow, (b) to, co czekalo na Weylina.)_
+- **BUDOWA GLEBOKORZENIA:** VARD KILOF - czlowiek ORBELA _(jedzie ZE ZWIADEM KAMIENIA na Goracy Port (pozycja od 300-02-27) - jedna wyprawa, dwa rachunki, trzeci cel. Miejsce ma byc obejrzane, zanim Theomore stanie na Radzie 300-03-30.)_
+- **AKADEMIA WOJSKOWA:** PIERWSZY MISTRZ: BRYNDEN TULLY (pismo w drodze) _(DATA: po Wielkiej Radzie. PLATNIK: Kasa 3. MIEJSCE: baszta w Przystani Wilka. Brynden mial szkolic wojsko i budowac zabezpieczenia juz przy doktrynie antyzelaznej 298-11-13 - to nie nowa prosba, to ta sama. JESLI ODMOWI: akademia otwiera sie z ZBROJMISTRZEM FOSY, bo on i tak juz uczy chlopcow.)_
+- **OCHMISTRZ WYCHOWANKOW:** KASZTELAN WINTERFELL (scalone, nie powielone) _(prowadzi rejestr zamku od 300-02-17 i ma wytypowac 3-4 miejsca dla wychowankow - to JEST ten urzad, tylko nienazwany. Raport Gawena idzie do niego, nie obok niego.)_
 
 ### WINTERFELL — _Korona (Kasa 3) + dom Starkow_
 _Rada 299-09-07 w skladzie: Cerwyn, Gawen, Rodwell, ser Alyn, Luwin, Catelyn._
@@ -160,7 +179,7 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **SKARBNIK LENNA (Kasa 2)** — WAKAT - PILNY. Kase 2 liczy i wydaje TA SAMA REKA: WARRYN (rachunek Etapu I na 300-03-09). Skarbnik GAWEN to Kasa 3 (Korona), HAL to Kasa 1 (Dom). Lenno nie ma wlasnego skarbnika.
 - **LUSTRATOR (rewident objazdowy)** — WAKAT. Na poziomie krolestwa stoi juz wakat MISTRZ DOMU AUDYTOWEGO ('poza cechem nie ma mistrzow rewizji'). Na Fosie audyt robil dotad SAM SYMON (Dreadfort 299-10-21).
 - **PISARZ PODATKOWY / URBARZ** — WAKAT - PILNY I NAJSTARSZY. OCZYNSZOWANIE weszlo 300-02-07 ('nowy winien grosz, a nie dni') - a KSIEGI PARCEL Z PRZYPISANYM CZYNSZEM NIE MA. Spis 299-06 liczy dusze i umiejetnosci, rejestr dniowek liczy dniowki, losowanie dzialek prowadzi lawa miasta. Nikt nie ma kolumny: kto, z czego, ile, kiedy.
-- **_trzy_krzesla_kontroli** — ARCHIWISTA, SKARBNIK LENNA i LUSTRATOR ZOSTAJA PUSTE PO 300-03-03 - swiadomie. To sa trzy krzesla, ktore SPRAWDZAJA WSZYSTKICH POZOSTALYCH. Obsadzone naraz z jednego rocznika przybyszow, sprawdzalyby sie nawzajem i nikt nie sprawdzalby ich. Kryterium to nie umiejetnosc, tylko CZAS i OSOBNE POCHODZENIE.
+- **_trzy_krzesla_kontroli** — OBSADZONE 300-03-03 wieczorem, z rozwiazaniem problemu wpisanym W SAME URZEDY, nie w termin: ARCHIWISTA nie pisze (przyjmuje za kwitem, katalog jawny). SKARBNIK liczy i nie wydaje (wydaje rzadca na jego kwit). LUSTRATOR nie pochodzi z zadnej ksiegi Fosy (czlowiek Cerwyna). Trzy krzesla, trzy rozne zrodla - i zadne nie sprawdza samo siebie.
 **III. ADMINISTRACJA TERENOWA**
 - **RZADCA KLUCZA** — WARRYN - rzadca calego lenna, 11 lat na tej ziemi. Posredniego szczebla (kilka wsi na jednego urzednika) NIE MA - i przy 640 duszach plus czterystu przybyszach Warryn jest juz waskim gardlem.
 - **SOLTYSI (szczebel ponizej rzadcy)** — USTROJ ISTNIEJE OD 299-08: jedno palenisko = jeden glos, soltysa WYBIERAJA mieszkancy przy rzadcy, przysiega calej Fosie, rzadzi z lawa przysieglych majaca oba glosy (starzy z bagna I osadnicy). ALE: KTORE WSIE WYBRALY, KIEDY I KOGO - PYTANIE ZADANE I BEZ ODPOWIEDZI.
@@ -176,23 +195,9 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **MAGISTER INZYNIERII** — TRZECH, PODZIELENI RZECZOWO: WEYLIN - inzynier zamkowy (woda, dreny, sluzy, 'urzad na pokolenia'); ORBELO - kamien i budowa; BRAN - majordom robot (grobla, trakt). ISTNIEJE, i jest to najlepiej obsadzony departament lenna.
 - **URZEDNIK MIAR I WAG** — BENNIS OD WAGI - wagowy miasta od 300-03-03, wage trzyma i placi RADA MIASTA, nie zamek. Nad nim HERWIN SZALA, burmistrz, 12 lat przy wadze, autor poprawki o ZNAKU NORMY. ISTNIEJE - ale jako urzad MIASTA. Lenno swojej wagi nie ma i miec nie powinno: lord nadaje regule, miasto sadzi.
 
-### 🔴 WAKATY (17)
-- **MLYNARZ** _(LENNO)_ — WYBIERAJA WARRYN I KESSEL WSPOLNIE (300-02-27) - mlyn w sluzie znaczy brame wodna twierdzy
-- **ZASTEPCA PRZY GROBLI** _(LENNO)_ — wskazuje BRAN, z 48; przed pierwszym dniem, w ktorym kafar wchodzi w grunt
-- **NASIENNIK** _(LENNO)_ — wskazuje WERRAN; bez niego szkolka jednorazowa
-- **TRZECI ODCZYT ZIARNA POZA FOSA** _(KORONA)_ — na Fosie robi go Wystan; poza Fosa PUSTE - maester jest jeden
-- **REJESTRATOR KORONY** _(KORONA)_ — cztery miesiace; nazwisko zastrzegl Krol
-- **OCHMISTRZ WYCHOWANKOW** _(KORONA)_ — raport zamowiony u Gawena
-- **MISTRZ DOMU AUDYTOWEGO** _(KORONA)_ — poza cechem nie ma mistrzow rewizji
-- **KOWAL** _(MIASTO)_ — do kuzni nie zglosil sie nikt; kuznia idzie pierwsza albo nie idzie nic
-- **CZLOWIEK OD FEVER** _(KORONA)_ — polowa (a) idzie kanalem Warryna; polowa (b) czeka na Weylina
-- **BUDOWA GLEBOKORZENIA** _(KORONA)_ — miejsce jest, budowy nie ma, ani jednego ucznia
-- **AKADEMIA WOJSKOWA - data, platnik, pierwszy mistrz** _(KORONA)_ — baszta w Przystani Wilka
-- **OCHMISTRZ SZKOLY I NAUKI** _(LENNO)_ — szkola dziala (dwaj uczacy pod Warrynem), ale nikt nie odpowiada za nauke z nazwy
-- **GLOWNY ARCHIWISTA (kustosz ksiag)** _(LENNO)_ **PILNY** — ksiegi rozproszone po pieciu rekach; nikt nie trzyma katalogu. To urzad, ktorego brak najbardziej boli.
-- **SKARBNIK LENNA (Kasa 2)** _(LENNO)_ **PILNY** — Warryn liczy i wydaje ta sama reka. Gawen to Kasa 3, Hal to Kasa 1.
-- **PISARZ PODATKOWY / URBARZ** _(LENNO)_ **PILNY - czeka na KSIEGE, nie na czlowieka** — NIE OBSADZONY SWIADOMIE 300-03-03: najpierw ksiega, potem pisarz. Urbarza nie ma, wiec pisarz nie mialby w czym pisac. Do zalozenia: kolumny KTO / Z CZEGO / ILE / KIEDY.
-- **LUSTRATOR (rewident objazdowy)** _(LENNO)_ — audyt robil dotad sam Symon; na poziomie krolestwa osobny wakat Mistrza Domu Audytowego.
+### 🔴 WAKATY (3)
+- **REJESTRATOR KORONY** _(KORONA)_ **POZA REKA SYMONA** — NIE DO OBSADZENIA PRZEZ NAMIESTNIKA - KROL ZASTRZEGL SOBIE NAZWISKO (zasada 22: prerogatywa nie idzie pod glosy ani pod nadanie). Piaty miesiac. Jedyne, co wolno: przypominac.
+- **MISTRZ DOMU AUDYTOWEGO** _(KORONA)_ — PIERWSZEGO TRZEBA ZROBIC, NIE ZNALEZC - poza cechem mistrzow rewizji nie ma. TOMMARD KOSA (lustrator Fosy od 300-03-03) jest nasieniem tego urzedu, nie jego zaprzeczeniem.
 - **SOLTYSI - ILE WSI WYBRALO** _(LENNO)_ **PYTANIE BEZ ODPOWIEDZI** — ustroj od 299-08 (jedno palenisko jeden glos, lawa z oboma glosami); Symon pytal, ktore wsie wybraly - odpowiedzi nie dostal.
 
 ## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)
@@ -294,6 +299,11 @@ _(pelna lista spraw: gra/sprawy.json)_
 - **bez daty** — GARTH: liczba miesieczna dziury w komorach wodnych - zmierzona 299-10-01 i NIE ZMIERZONA PONOWNIE
 - **bez daty** — BERON: wszystko, co przyszlo od BRYNDENA TULLY'EGO od 299-07, z datami; potem list do Blackfisha (poludniowa sciana, nie traktat)
 - **bez daty** — THEOMORE: gdzie kolebka, ile kosztuje PIERWSZY ROK, kogo wzialbys jako pierwszego ucznia; spis flory jako pierwszy zbior (w reke na Radzie)
+- **300-03-04** — URBARZ ZALOZONY - cztery kolumny KTO / Z CZEGO / ILE / KIEDY; pierwszy wpis to szesc tygodni niepobranego czynszu (od 300-02-07)
+- **300-03-04** — LAWA MIASTA SADZA KOWALA (Brusk od Miecha, wskazala Mella) - kuznia idzie pierwsza albo nie idzie nic
+- **300-03-05** — CERWYN WYJEZDZA - ma zostawic TOMMARDA KOSE jako lustratora Fosy na rok
+- **ten tydzien** — SOLTYSI: ktore wsie wybraly, kiedy i kogo - pytanie zadane dawno, odpowiedzi nie bylo
+- **300-03-30** — AKADEMIA WOJSKOWA: data po Radzie, platnik Kasa 3, baszta w Przystani Wilka; pierwszy mistrz BRYNDEN TULLY, zapasowo zbrojmistrz Fosy
 
 ## LUDZIE NA SCENIE
 - **Luwin** (`maester_luwin`) — maester Winterfell (dwór Starków) — uczony, rządzi skła… · nast ZYCZLIWY -> PROFESJONALNY PODZIW/ZAUFANIE ROBOCZE (0813): po arcyrachunku zapasow (nat.100) Luwin uznaje Symona za rownego-lub-lepszego w rachunkach; trust glęboki
@@ -374,15 +384,15 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `przywilej_bagienny_fosa_300_02` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-03-03] `soltysi_i_samorzad_lenna_299_08`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
-- [300-03-03] `lenno_fosa_cailin_administracja_299_05`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
-- [300-03-03] `lenno/WARRYN`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
-- [300-03-03] `lenno/GARRICK`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
-- [300-03-03] `ustroj_urzedow`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
-- [300-03-03] `projekt_cailin`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
-- [300-03-03] `spis_mieszkancow_fosy_299_06`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
-- [300-03-03] `przywilej_bagienny_fosa_300_02`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
 - [300-03-03] `soltysi_i_samorzad_lenna_299_08`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
 - [300-03-03] `lenno/MELLA`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
 - [300-03-03] `lenno/HENDRY`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
 - [300-03-03] `lenno/WARRYN`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
+- [300-03-03] `ustroj_urzedow`: ### RESZTA KRZESEL OBSADZONA - 300-03-03, pozny wieczor. Rozkaz gracza: 'natychmiast o pozostale osoby'. Bez rzutow. PO TYM WIECZORZE LENNO FOSY CAILIN NIE MA ANI JEDNEGO WAKATU. Pierwszy ra…
+- [300-03-03] `projekt_cailin`: ### RESZTA KRZESEL OBSADZONA - 300-03-03, pozny wieczor. Rozkaz gracza: 'natychmiast o pozostale osoby'. Bez rzutow. PO TYM WIECZORZE LENNO FOSY CAILIN NIE MA ANI JEDNEGO WAKATU. Pierwszy ra…
+- [300-03-03] `spis_mieszkancow_fosy_299_06`: ### RESZTA KRZESEL OBSADZONA - 300-03-03, pozny wieczor. Rozkaz gracza: 'natychmiast o pozostale osoby'. Bez rzutow. PO TYM WIECZORZE LENNO FOSY CAILIN NIE MA ANI JEDNEGO WAKATU. Pierwszy ra…
+- [300-03-03] `soltysi_i_samorzad_lenna_299_08`: ### RESZTA KRZESEL OBSADZONA - 300-03-03, pozny wieczor. Rozkaz gracza: 'natychmiast o pozostale osoby'. Bez rzutow. PO TYM WIECZORZE LENNO FOSY CAILIN NIE MA ANI JEDNEGO WAKATU. Pierwszy ra…
+- [300-03-03] `lenno_fosa_cailin_administracja_299_05`: ### RESZTA KRZESEL OBSADZONA - 300-03-03, pozny wieczor. Rozkaz gracza: 'natychmiast o pozostale osoby'. Bez rzutow. PO TYM WIECZORZE LENNO FOSY CAILIN NIE MA ANI JEDNEGO WAKATU. Pierwszy ra…
+- [300-03-03] `korona/CERWYN`: ### RESZTA KRZESEL OBSADZONA - 300-03-03, pozny wieczor. Rozkaz gracza: 'natychmiast o pozostale osoby'. Bez rzutow. PO TYM WIECZORZE LENNO FOSY CAILIN NIE MA ANI JEDNEGO WAKATU. Pierwszy ra…
+- [300-03-03] `lenno/WARRYN`: ### RESZTA KRZESEL OBSADZONA - 300-03-03, pozny wieczor. Rozkaz gracza: 'natychmiast o pozostale osoby'. Bez rzutow. PO TYM WIECZORZE LENNO FOSY CAILIN NIE MA ANI JEDNEGO WAKATU. Pierwszy ra…
+- [300-03-03] `lenno/MELLA`: ### RESZTA KRZESEL OBSADZONA - 300-03-03, pozny wieczor. Rozkaz gracza: 'natychmiast o pozostale osoby'. Bez rzutow. PO TYM WIECZORZE LENNO FOSY CAILIN NIE MA ANI JEDNEGO WAKATU. Pierwszy ra…

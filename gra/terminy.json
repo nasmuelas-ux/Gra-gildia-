@@ -250,6 +250,41 @@
       "kto": "THEOMORE",
       "zamyka": "odpowiedz",
       "status": "otwarte"
+    },
+    {
+      "data": "300-03-04",
+      "co": "URBARZ ZALOZONY - cztery kolumny KTO / Z CZEGO / ILE / KIEDY; pierwszy wpis to szesc tygodni niepobranego czynszu (od 300-02-07)",
+      "kto": "SARRA OD KRESKI + INGA LICZYDLO",
+      "zamyka": "ksiega otwarta z pierwsza strona",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-04",
+      "co": "LAWA MIASTA SADZA KOWALA (Brusk od Miecha, wskazala Mella) - kuznia idzie pierwsza albo nie idzie nic",
+      "kto": "lawa burmistrza",
+      "zamyka": "posadzenie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-05",
+      "co": "CERWYN WYJEZDZA - ma zostawic TOMMARDA KOSE jako lustratora Fosy na rok",
+      "kto": "CERWYN",
+      "zamyka": "czlowiek zostaje, kiedy pan odjezdza",
+      "status": "otwarte"
+    },
+    {
+      "data": "ten tydzien",
+      "co": "SOLTYSI: ktore wsie wybraly, kiedy i kogo - pytanie zadane dawno, odpowiedzi nie bylo",
+      "kto": "WARRYN",
+      "zamyka": "lista wsi z nazwiskami i datami",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-30",
+      "co": "AKADEMIA WOJSKOWA: data po Radzie, platnik Kasa 3, baszta w Przystani Wilka; pierwszy mistrz BRYNDEN TULLY, zapasowo zbrojmistrz Fosy",
+      "kto": "Symon / Brynden",
+      "zamyka": "odpowiedz Blackfisha",
+      "status": "otwarte"
     }
   ]
 }

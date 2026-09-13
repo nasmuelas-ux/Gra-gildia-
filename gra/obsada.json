@@ -1,6 +1,6 @@
 {
   "_opis": "JEDYNE ZRODLO PRAWDY O OBSADZIE. Nie podawac obsady z pamieci - czytac stad. Aktualizowac przy kazdym nadaniu i kazdym wakacie.",
-  "_aktualizacja": "300-03-03 (dziewiec wakatow obsadzonych z dwoch ksiag)",
+  "_aktualizacja": "300-03-03 wieczor - LENNO OBSADZONE W CALOSCI",
   "drabiny": {
     "LENNO": {
       "_kasa": "Kasa 2 (lenno), o ile nie zaznaczono inaczej",
@@ -153,6 +153,46 @@
         "kto": "INGA LICZYDLO",
         "od": "300-03-03",
         "nota": "SPIS 299-06, rubryka LICZY. Zasada przy nadaniu: NIE POBIERA WE WLASNEJ WSI. Czynsz istnieje od 300-02-07, poborcy nie bylo szesc tygodni."
+      },
+      "MLYNARZ": {
+        "kto": "TOBEN OD ZARNA",
+        "od": "300-03-03",
+        "nota": "WSKAZALI WARRYN I KESSEL WSPOLNIE (tryb z 300-02-27) - mlyn siedzi w sluzie, a sluza to brama wodna twierdzy, wiec musial przejsc przez rzadce I przez dowodce strazy."
+      },
+      "ZASTEPCA PRZY GROBLI": {
+        "kto": "KORM PALIK",
+        "od": "300-03-03",
+        "nota": "WSKAZAL BRAN, z 48. Ma stac, zanim kafar pierwszy raz wejdzie w grunt."
+      },
+      "NASIENNIK": {
+        "kto": "HELWA STRACZEK",
+        "od": "300-03-03",
+        "nota": "WSKAZAL WERRAN. Bez niego szklarnia byla szkolka jednorazowa; z nim jest matecznik."
+      },
+      "OCHMISTRZ SZKOLY I NAUKI": {
+        "kto": "MABEL SIWA",
+        "od": "300-03-03",
+        "nota": "SPIS 299-06, wszystkie trzy rubryki. Nie uczy - ODPOWIADA: czy dzieci przychodza, czy jedza, czy ktos zniknal z listy. Dwaj uczacy zostaja pod Warrynem."
+      },
+      "GLOWNY ARCHIWISTA": {
+        "kto": "HALDOR OD SKRZYN",
+        "od": "300-03-03",
+        "nota": "SPIS 299-06, najdluzej na tej ziemi z czytajacych. ZABEZPIECZENIE W SAMYM URZEDZIE: ARCHIWISTA NIE PISZE. Przyjmuje i wydaje ZA KWITEM, a KATALOG JEST JAWNY - kazdy widzi, czego brakuje. Kto katalogue, ten nie redaguje (ta sama zasada co ksiega Jastrzebi u pisarza grodzkiego)."
+      },
+      "SKARBNIK LENNA (Kasa 2)": {
+        "kto": "GERRIK RACHUBA",
+        "od": "300-03-03",
+        "nota": "SPIS 299-06, rubryka LICZY. ROZDZIELENIE, KTORE BYLO CALYM PROBLEMEM: SKARBNIK LICZY I NIE WYDAJE. Wydaje RZADCA - ale na kwit skarbnika. Dwie reki na jednej monecie, po raz pierwszy w Kasie 2."
+      },
+      "PISARZ PODATKOWY / URBARZ": {
+        "kto": "SARRA OD KRESKI",
+        "od": "300-03-03",
+        "nota": "REJESTR MELLI, pisze i liczy. Zaklada URBARZ od 300-03-04: cztery kolumny KTO / Z CZEGO / ILE / KIEDY. Pierwszy wpis - szesc tygodni czynszu, ktorego nikt nie pobral."
+      },
+      "LUSTRATOR (rewident objazdowy)": {
+        "kto": "TOMMARD KOSA - CZLOWIEK CERWYNA",
+        "od": "300-03-03",
+        "nota": "NIE Z ZADNEJ KSIEGI FOSY, I TO JEST CALY SENS. Wypozyczony przez Justycjariusza na rok; objazd i kontrola to wlasny fach Cerwyna. CENA JEST PRAWDZIWA: czlowiek Justycjariusza siedzi w ksiegach Namiestnika. To wlasnie czyni krzeslo wiarygodnym."
       }
     },
     "MCHOWE JASTRZEBIE - STRAZ LENNA": {
@@ -190,6 +230,11 @@
         "kto": "lawa burmistrza",
         "od": "299",
         "nota": "proba wstepna, losowanie dzialek, przywilej bagienny; ustalila 5 dni targowych (300-03-03, niejednoglosnie)"
+      },
+      "KOWAL": {
+        "kto": "BRUSK OD MIECHA - wskazala MELLA",
+        "od": "300-03-03 (lawa sadza 300-03-04)",
+        "nota": "REJESTR MELLI. Mella pisala rachunki W KUZNI za meza, zanim tu przyszla, i wyrabia gwozdzie we wsi pod grobla - wie, kogo szukac. LORD NADAJE KUZNIE, LAWA SADZA KOWALA."
       }
     },
     "DOM HANDLOWY TALLY": {
@@ -310,6 +355,31 @@
         "kto": null,
         "od": null,
         "nota": "PUSTE OD ~299-11. Nazwisko zastrzegl sobie Krol; przypomnienie 300-02-27"
+      },
+      "TRZECI ODCZYT ZIARNA POZA FOSA": {
+        "kto": "ORIN WAGA i THELL SITO - szkoli WYSTAN",
+        "od": "300-03-03",
+        "nota": "Maester jest jeden i zostaje na Fosie. Odczyt poza Fosa NIE POTRZEBUJE maestera - potrzebuje wyuczonego oka, a maszyna do uczenia juz stoi (Wystan uczyl Herwina i Bennisa 300-03-02/03). Dwoch na objazd, nie jeden - bo odczyt sporny ma miec dwie reke."
+      },
+      "CZLOWIEK OD FEVER": {
+        "kto": "JONN BRODOWY",
+        "od": "300-03-03",
+        "nota": "przewoznik z brodu - niesie OBIE polowy naraz: (a) ile tygodni rzeka stoi, kanalem Warryna do krannogmenow, (b) to, co czekalo na Weylina."
+      },
+      "BUDOWA GLEBOKORZENIA": {
+        "kto": "VARD KILOF - czlowiek ORBELA",
+        "od": "300-03-03",
+        "nota": "jedzie ZE ZWIADEM KAMIENIA na Goracy Port (pozycja od 300-02-27) - jedna wyprawa, dwa rachunki, trzeci cel. Miejsce ma byc obejrzane, zanim Theomore stanie na Radzie 300-03-30."
+      },
+      "AKADEMIA WOJSKOWA": {
+        "kto": "PIERWSZY MISTRZ: BRYNDEN TULLY (pismo w drodze)",
+        "od": "300-03-03",
+        "nota": "DATA: po Wielkiej Radzie. PLATNIK: Kasa 3. MIEJSCE: baszta w Przystani Wilka. Brynden mial szkolic wojsko i budowac zabezpieczenia juz przy doktrynie antyzelaznej 298-11-13 - to nie nowa prosba, to ta sama. JESLI ODMOWI: akademia otwiera sie z ZBROJMISTRZEM FOSY, bo on i tak juz uczy chlopcow."
+      },
+      "OCHMISTRZ WYCHOWANKOW": {
+        "kto": "KASZTELAN WINTERFELL (scalone, nie powielone)",
+        "od": "300-03-03",
+        "nota": "prowadzi rejestr zamku od 300-02-17 i ma wytypowac 3-4 miejsca dla wychowankow - to JEST ten urzad, tylko nienazwany. Raport Gawena idzie do niego, nie obok niego."
       }
     },
     "WINTERFELL": {
@@ -393,87 +463,15 @@
   },
   "wakaty": [
     {
-      "urzad": "MLYNARZ",
-      "drabina": "LENNO",
-      "nota": "WYBIERAJA WARRYN I KESSEL WSPOLNIE (300-02-27) - mlyn w sluzie znaczy brame wodna twierdzy"
-    },
-    {
-      "urzad": "ZASTEPCA PRZY GROBLI",
-      "drabina": "LENNO",
-      "nota": "wskazuje BRAN, z 48; przed pierwszym dniem, w ktorym kafar wchodzi w grunt"
-    },
-    {
-      "urzad": "NASIENNIK",
-      "drabina": "LENNO",
-      "nota": "wskazuje WERRAN; bez niego szkolka jednorazowa"
-    },
-    {
-      "urzad": "TRZECI ODCZYT ZIARNA POZA FOSA",
-      "drabina": "KORONA",
-      "nota": "na Fosie robi go Wystan; poza Fosa PUSTE - maester jest jeden"
-    },
-    {
       "urzad": "REJESTRATOR KORONY",
       "drabina": "KORONA",
-      "nota": "cztery miesiace; nazwisko zastrzegl Krol"
-    },
-    {
-      "urzad": "OCHMISTRZ WYCHOWANKOW",
-      "drabina": "KORONA",
-      "nota": "raport zamowiony u Gawena"
+      "nota": "NIE DO OBSADZENIA PRZEZ NAMIESTNIKA - KROL ZASTRZEGL SOBIE NAZWISKO (zasada 22: prerogatywa nie idzie pod glosy ani pod nadanie). Piaty miesiac. Jedyne, co wolno: przypominac.",
+      "pilnosc": "POZA REKA SYMONA"
     },
     {
       "urzad": "MISTRZ DOMU AUDYTOWEGO",
       "drabina": "KORONA",
-      "nota": "poza cechem nie ma mistrzow rewizji"
-    },
-    {
-      "urzad": "KOWAL",
-      "drabina": "MIASTO",
-      "nota": "do kuzni nie zglosil sie nikt; kuznia idzie pierwsza albo nie idzie nic"
-    },
-    {
-      "urzad": "CZLOWIEK OD FEVER",
-      "drabina": "KORONA",
-      "nota": "polowa (a) idzie kanalem Warryna; polowa (b) czeka na Weylina"
-    },
-    {
-      "urzad": "BUDOWA GLEBOKORZENIA",
-      "drabina": "KORONA",
-      "nota": "miejsce jest, budowy nie ma, ani jednego ucznia"
-    },
-    {
-      "urzad": "AKADEMIA WOJSKOWA - data, platnik, pierwszy mistrz",
-      "drabina": "KORONA",
-      "nota": "baszta w Przystani Wilka"
-    },
-    {
-      "urzad": "OCHMISTRZ SZKOLY I NAUKI",
-      "drabina": "LENNO",
-      "nota": "szkola dziala (dwaj uczacy pod Warrynem), ale nikt nie odpowiada za nauke z nazwy"
-    },
-    {
-      "urzad": "GLOWNY ARCHIWISTA (kustosz ksiag)",
-      "drabina": "LENNO",
-      "pilnosc": "PILNY",
-      "nota": "ksiegi rozproszone po pieciu rekach; nikt nie trzyma katalogu. To urzad, ktorego brak najbardziej boli."
-    },
-    {
-      "urzad": "SKARBNIK LENNA (Kasa 2)",
-      "drabina": "LENNO",
-      "pilnosc": "PILNY",
-      "nota": "Warryn liczy i wydaje ta sama reka. Gawen to Kasa 3, Hal to Kasa 1."
-    },
-    {
-      "urzad": "PISARZ PODATKOWY / URBARZ",
-      "drabina": "LENNO",
-      "pilnosc": "PILNY - czeka na KSIEGE, nie na czlowieka",
-      "nota": "NIE OBSADZONY SWIADOMIE 300-03-03: najpierw ksiega, potem pisarz. Urbarza nie ma, wiec pisarz nie mialby w czym pisac. Do zalozenia: kolumny KTO / Z CZEGO / ILE / KIEDY."
-    },
-    {
-      "urzad": "LUSTRATOR (rewident objazdowy)",
-      "drabina": "LENNO",
-      "nota": "audyt robil dotad sam Symon; na poziomie krolestwa osobny wakat Mistrza Domu Audytowego."
+      "nota": "PIERWSZEGO TRZEBA ZROBIC, NIE ZNALEZC - poza cechem mistrzow rewizji nie ma. TOMMARD KOSA (lustrator Fosy od 300-03-03) jest nasieniem tego urzedu, nie jego zaprzeczeniem."
     },
     {
       "urzad": "SOLTYSI - ILE WSI WYBRALO",
@@ -500,7 +498,7 @@
       "SKARBNIK LENNA (Kasa 2)": "WAKAT - PILNY. Kase 2 liczy i wydaje TA SAMA REKA: WARRYN (rachunek Etapu I na 300-03-09). Skarbnik GAWEN to Kasa 3 (Korona), HAL to Kasa 1 (Dom). Lenno nie ma wlasnego skarbnika.",
       "LUSTRATOR (rewident objazdowy)": "WAKAT. Na poziomie krolestwa stoi juz wakat MISTRZ DOMU AUDYTOWEGO ('poza cechem nie ma mistrzow rewizji'). Na Fosie audyt robil dotad SAM SYMON (Dreadfort 299-10-21).",
       "PISARZ PODATKOWY / URBARZ": "WAKAT - PILNY I NAJSTARSZY. OCZYNSZOWANIE weszlo 300-02-07 ('nowy winien grosz, a nie dni') - a KSIEGI PARCEL Z PRZYPISANYM CZYNSZEM NIE MA. Spis 299-06 liczy dusze i umiejetnosci, rejestr dniowek liczy dniowki, losowanie dzialek prowadzi lawa miasta. Nikt nie ma kolumny: kto, z czego, ile, kiedy.",
-      "_trzy_krzesla_kontroli": "ARCHIWISTA, SKARBNIK LENNA i LUSTRATOR ZOSTAJA PUSTE PO 300-03-03 - swiadomie. To sa trzy krzesla, ktore SPRAWDZAJA WSZYSTKICH POZOSTALYCH. Obsadzone naraz z jednego rocznika przybyszow, sprawdzalyby sie nawzajem i nikt nie sprawdzalby ich. Kryterium to nie umiejetnosc, tylko CZAS i OSOBNE POCHODZENIE."
+      "_trzy_krzesla_kontroli": "OBSADZONE 300-03-03 wieczorem, z rozwiazaniem problemu wpisanym W SAME URZEDY, nie w termin: ARCHIWISTA nie pisze (przyjmuje za kwitem, katalog jawny). SKARBNIK liczy i nie wydaje (wydaje rzadca na jego kwit). LUSTRATOR nie pochodzi z zadnej ksiegi Fosy (czlowiek Cerwyna). Trzy krzesla, trzy rozne zrodla - i zadne nie sprawdza samo siebie."
     },
     "III. ADMINISTRACJA TERENOWA": {
       "RZADCA KLUCZA": "WARRYN - rzadca calego lenna, 11 lat na tej ziemi. Posredniego szczebla (kilka wsi na jednego urzednika) NIE MA - i przy 640 duszach plus czterystu przybyszach Warryn jest juz waskim gardlem.",

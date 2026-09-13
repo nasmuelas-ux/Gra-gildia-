@@ -1,11 +1,14 @@
-# TRZY POPRAWKI DO PRAWA O SKŁADACH — noc 300-02-28
-**Fosa Cailin.** Pisze **Symon Tally** własną ręką. Termin: **przed 300-03-02** (przyjazd Cerwyna).
-W izbie: **HERWIN SZALA**, burmistrz Cailin, dawny wagowy · **dwaj PSIARZE**.
+# CZTERY POPRAWKI DO PRAWA O SKŁADACH — noc 300-02-28, uzupełnione 300-03-02
+**Fosa Cailin.** Pisze **Symon Tally** własną ręką. Termin: **przed przyjazdem Cerwyna** (dziś, późno — błoto).
+W izbie 02-28: **HERWIN SZALA**, burmistrz Cailin, dawny wagowy · **dwaj PSIARZE**.
+Dopisane 03-02: **maester WYSTAN**, ogniwo ołowiane.
 
 > ### ⚠ TO NIE JEST NOWE PRAWO.
 > **Prawo o składach istnieje i leży w czystopisie** — siedem lat pracy, pięć rozstrzygnięć.
-> To są **trzy poprawki**, dokładnie tak jak dwie poprawki lorda Wymana z 300-02-15.
+> To są **cztery poprawki**, dokładnie tak jak dwie poprawki lorda Wymana z 300-02-15.
 > *(Poprzednia wersja tego pliku traktowała je jak ustawę pisaną od zera — **VOID**, błąd prowadzącego.)*
+> *(Poprawka czwarta dopisana **300-03-02 przed południem** — trzy pierwsze pilnują, **co jest w wozie**;
+> czwarta pilnuje, **czy to jest jeszcze jedzenie**.)*
 
 ---
 
@@ -80,7 +83,55 @@ Ludzie Stannisa kupują **małymi partiami, u wielu kupców**. Próg liczony **o
 > ### WÓZ JEST SKŁADEM, KTÓRY SIĘ PORUSZA.
 
 Co, ile, skąd, dokąd, **na czyj rachunek**. Bez niego poprawka pierwsza nie ma z czym porównywać,
-a poprawka druga nie ma czego sumować. **Trzy poprawki są jedną poprawką w trzech miejscach.**
+a poprawka druga nie ma czego sumować. **Trzy pierwsze poprawki są jedną poprawką w trzech miejscach.**
+
+---
+
+## 4b. POPRAWKA CZWARTA — **RUBRYKA STANU ZIARNA**
+*(maester Wystan, 300-03-02. Kolumna, nie urząd.)*
+
+> ### PRAWO O SKŁADACH ZAKŁADAŁO, ŻE ZBOŻE LEŻY I CZEKA. ZBOŻE NIE CZEKA.
+
+Cała wiązka — pierwokup, **depozyt**, trzy klucze, cena ogłoszona zanim głód się zaczął — stoi na tym,
+że **chłop odbiera swoje**. Więc ktoś musi umieć powiedzieć, **czy odebrał to samo.**
+Ziarno złożone wilgotne grzeje się od środka: **cięższe na wadze, lżejsze na chlebie.**
+**Waga tego nie widzi. Cena tego nie widzi. Księga tego nie widzi.**
+
+### TREŚĆ POPRAWKI — TRZY ZDANIA
+1. **W księdze składu, obok wagi i ceny, dwie kolumny: STAN PRZY ZŁOŻENIU i STAN PRZY WYDANIU.**
+   Wpis krótki i zawsze ten sam: *suche / wilgotne / grzane · czyste / z zanieczyszczeniem · zdrowe / porażone.*
+2. **Różnica między odczytami ma nazwisko tego, kto trzymał, i datę.** *(„Dług ma datę" — przyłożone do ziarna.)*
+3. **Spór o odczyt rozstrzyga trzeci odczyt — człowieka, który ani nie składał, ani nie trzymał.**
+   *(Kształt reguły psiarzy: rozstrzyga ten, kto nie ma w tym ręki.)*
+
+### ⚫ I RZECZ Z OGNIWA OŁOWIANEGO, KTÓREJ SREBRO NIE MÓWI — **SPORYSZ**
+Ziarno porażone wygląda prawie jak zdrowe, zabija albo odbiera rozum, i robi to **wszystkim naraz**,
+bo jedzą z jednego. **W gospodarstwie truje się dom. W składzie truje się okręg.**
+> **Ziarno porażone PALI SIĘ. Nie przecenia, nie sprzedaje taniej, nie daje bydłu.**
+> Świadek przy ogniu ten sam, co przy wadze.
+
+### ZACHĘTA, ŻEBY KTOKOLWIEK CHCIAŁ TO ZNALEŹĆ
+Jeśli znalezienie kosztuje, nikt nie szuka.
+> **Kto sam zgłosi porażenie — nie płaci. Kto zataił i został znaleziony — płaci podwójnie.**
+
+---
+
+## 4c. CO TA KOLUMNA ROBI Z RADĄ 300-03-30
+Bez niej przeciwnik miał gotowe zdanie, którego nikt by mu nie podał:
+**„Spichlerz pod jedną księgą scala nie tylko ziarno — scala winę."**
+*(Dziś zepsute zboże to nieszczęście jednego gospodarstwa i nikt o tym nie słyszy.
+Pod jedną księgą ma jedną nazwę i jedno nazwisko na wierzchu.)*
+
+**Z kolumną to samo zdanie odwraca się i przestaje być sporne:**
+> ### SKŁAD POD KSIĘGĄ JEST JEDYNYM MIEJSCEM NA PÓŁNOCY, GDZIE KTOKOLWIEK PATRZY NA ZIARNO, ZANIM JE ZJECIE.
+To nie jest rzecz do głosowania. **To jest rzecz do aklamacji** — a aklamacji nie da się przegrać.
+
+---
+
+## 4d. CZEGO TA POPRAWKA NIE ROBI — **GRANICA HOWLANDA SPRAWDZONA**
+Granica Reedów: *„uczymy, co leczy i karmi — nie co zabija; trucizny zostają ich i niespisane."*
+**Sporysz nie jest wiedzą krannogmenów — jest wiedzą Cytadeli**, z łańcucha, który Wystan nosi na szyi.
+Nic się od Reedów nie spisuje i nic im się nie odbiera.
 
 ---
 
@@ -90,6 +141,20 @@ a poprawka druga nie ma czego sumować. **Trzy poprawki są jedną poprawką w t
 2. ### **KTO WYDAJE WPIS** — Korona czy miasto. *To ta sama sprawa co przywilej składu dla Cailin; nie da się jej rozstrzygnąć dwa razy inaczej.*
 3. ### **UŁAMEK WOZÓW Z LOSU** — liczba ogłoszona, więc nieodwołalna.
 4. ### **ILE DNI TRWA PRZYMUS SKŁADU** w Cailin — *to już nie jest poprawka, to treść przywileju, o który miasto prosiło Króla.*
+
+---
+
+## 5b. CO OTWIERA POPRAWKA CZWARTA — **I TO NIE JEST LICZBA, TYLKO LUDZIE**
+
+Wystan postawił ograniczenie sam, nieproszony:
+> „Tej kolumny nie wypełni każdy pisarz. Trzeba **umieć czytać ziarno** — zapach, ząb, garść, kolor kiełka.
+> **Nauczyć można w dzień. Ufać można po sezonie.**"
+
+**Ta sama ściana, co sześć pustych stołków w trzy tygodnie: wiąże nas brak wyuczonych rąk, nie brak srebra.**
+
+1. ### **KTO ROBI PIERWSZY ODCZYT.** *Rekomendacja: ten, kto już stoi przy wadze — bo już tam stoi, a wóz i tak jest otwierany.*
+2. ### **KTO ROBI TRZECI, SPORNY.** *Maester jest jeden i siedzi na Fosie; nie dojedzie do każdego składu.*
+3. ### **KTO UCZY I W ILU MIEJSCACH.** *Wystan umie nauczyć. Nie umie być w czternastu miastach.*
 
 ---
 

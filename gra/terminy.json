@@ -385,11 +385,11 @@
       "status": "otwarte"
     },
     {
-      "data": "NIEUSTALONA - PRZYJAZD",
-      "co": "LADY CATELYN NA FOSIE CAILIN. Kruk do Warryna 300-02-16 i powtorzony 300-02-27: 'JEST SPODZIEWANA, MA BYC PRZYJETA JAK MATKA KROLA, A NIE JAK PRZEJEZDNA'. List Symona do niej (napisany 300-02-16, wlasna reka, BEZ pieczeci Namiestnika - pieczec zmienilaby go w rozkaz) idzie PRZEZ LUCANA od 300-02-27, do rak wlasnych. ZDERZENIE: SYMON WYJEZDZA 300-03-07. Jesli przyjedzie pozniej, przyjmuje ja WARRYN - a termin wpisal w liscie sam Symon.",
-      "kto": "WARRYN (przyjecie) / LUCAN (doreczenie)",
-      "zamyka": "przyjazd ALBO wiadomosc, kiedy",
-      "status": "otwarte - BEZ DATY, A Z ZEGAREM"
+      "data": "RIVERRUN - jest na miejscu",
+      "co": "LADY CATELYN W RIVERRUN. Wyjechala z Winterfell 299-10-05; cel od poczatku: RIVERRUN, negocjowac w imieniu Polnocy. OKNO PRZEJAZDU PRZEZ FOSE (02-25..03-07) SIE ZAMKNELO - nie przejezdza, siedzi u brata. JEJ ROLA, nietknieta od 299-09-19: ONA OTWIERA DRZWI jako TULLY, w domu swojego ojca, do swojego brata. Korona przez nie wchodzi - ona nie podpisuje, nie ustepuje, nie negocjuje za Polnoc. LIST SYMONA do rak wlasnych (napisany 300-02-16, wlasna reka, BEZ pieczeci Namiestnika) idzie PRZEZ LUCANA od 300-02-27 - a Lucan siedzi w Dorzeczu, wiec kanal jest wlasciwy. KARTKA U WARRYNA NA FOSIE ZOSTAJE - na wypadek, gdyby wracala tedy.",
+      "kto": "CATELYN w Riverrun / LUCAN doreczenie",
+      "zamyka": "odpowiedz od niej ALBO ruch Edmure'a przy traktacie (druga ratyfikacja, koniec VI/300)",
+      "status": "otwarte - POPRAWIONE wskazaniem gracza 300-03-03: ona siedzi w Riverrun"
     },
     {
       "data": "wyslany 300-02-17",
@@ -418,6 +418,48 @@
       "kto": "SYMON -> Bialy Port",
       "zamyka": "wiadomosc o rozwiazaniu",
       "status": "otwarte"
+    },
+    {
+      "data": "WIOSNA 300 - WYMAGALNE TERAZ",
+      "co": "POMIAR OSWYNA - zlecenie z 299-09-13: przez cala zime MIERZYC TEN SAM SKLAD przy zsypaniu i przy wysypaniu i spisywac roznice. W zleceniu stoi wprost: 'DO WIOSNY Skarbnik bedzie mial czym UZASADNIC ogloszona liczbe, zamiast ja wymyslic'. WIOSNA JEST TERAZ, A LICZBY NIKT NIE ZAZADAL. Ksiega spichlerza Zimowego Miasta miala byc WZOREM dla ksiag skladowych krolestwa - i cala dzisiejsza maszyna zbozowa (cena minimalna, rubryka stanu ziarna, przymus skladu) stoi bez tego pomiaru.",
+      "kto": "OSWYN -> GAWEN",
+      "zamyka": "liczba roznicy zsyp/wysyp za zime",
+      "status": "otwarte - PRZETERMINOWANE"
+    },
+    {
+      "data": "PRZED ~300-03-13 (Bialy Port)",
+      "co": "ZLECENIE DLA GAWENA z 299-09-14: policzyc i OGLOSIC, ile placi JEDEN LADUNEK NA FOSIE RAZEM - myto lenna PLUS clo Korony, wedle rodzaju towaru. Warunek zapisany w zleceniu: 'ma byc gotowe i jawne ZANIM Wyman otworzy ksiegi Bialego Portu'. SYMON JEDZIE DO WYMANA ZA DZIESIEC DNI. Cel podwojny: dac Manderly'emu wzorzec i dowod dobrej wiary; sprawdzic, czy wlasna brama nie jest juz zaporowa - NIKT NIGDY NIE ZSUMOWAL OBU WARSTW.",
+      "kto": "GAWEN + GARTH",
+      "zamyka": "jedna liczba na slupie, jawna, przed Bialym Portem",
+      "status": "otwarte - PILNE, ZEGAR BIEGNIE"
+    },
+    {
+      "data": "wyslany 299-09-15 - CISZA POL ROKU",
+      "co": "LIST DO MAESTERA AEMONA (Czarny Zamek). Pismo PRYWATNE - od czlowieka, ktory przysylal ziarno, nie od Namiestnika Krola; Aemon pisal do SYMONA, nie do Winterfell, i podal powod: 'to WY przysylaliscie ziarno; ludzie tutaj wiedza, czyje ono bylo'. DRUGA CISZA Z TEGO SAMEGO MIEJSCA - obok zaleglego meldunku VII Osrica.",
+      "kto": "AEMON",
+      "zamyka": "odpowiedz z Muru ALBO wiadomosc, ze nie zyje - a to tez jest odpowiedz",
+      "status": "otwarte - DWIE CISZE Z JEDNEGO KIERUNKU"
+    },
+    {
+      "data": "wyslany 299-09-15 - CISZA POL ROKU",
+      "co": "LIST DO STANNISA BARATHEONA, redakcja II, z ZAPROSZENIEM DO PENTOS. Os odmowy udzialu w wojnie wyrzucona - sprawa miedzy koronami zamknieta od sierpnia 299 (Stannis PIERWSZY uznal niepodleglosc Polnocy na pismie). Zostaje zaproszenie i to, co po nim.",
+      "kto": "STANNIS",
+      "zamyka": "odpowiedz ze Smoczej Skaly",
+      "status": "otwarte"
+    },
+    {
+      "data": "wyslane 299-12-18",
+      "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem.",
+      "kto": "CECH PISARZY",
+      "zamyka": "przywrocenie Ilaria na liste ALBO odmowa cechu na pismie",
+      "status": "otwarte"
+    },
+    {
+      "data": "od 299-08-14 - STALE",
+      "co": "FOSA CAILIN JAKO KLIRINHAUS NOCNEJ STRAZY. List do WSZYSTKICH KROLESTW POLUDNIA: honorujcie Straz, slijcie chetnych; kazdy chetny z poludnia idzie do Fosy. Apel byl darmowy, ale NIGDY NIE POLICZONO, ILU PRZYSZLO. Miara istnieje od 300-02-12 (ksiega bramy) i od 300-02-28 (rejestr Melli) - wystarczy zapytac.",
+      "kto": "GARTH (ksiega bramy) + MELLA",
+      "zamyka": "liczba rekrutow z poludnia przez Fose",
+      "status": "otwarte - mierzalne od dzis"
     }
   ]
 }

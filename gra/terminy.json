@@ -530,6 +530,13 @@
       "kto": "BERON - odszukac w kancelarii Winterfell",
       "zamyka": "odpowiedz Aemona w rece Symona ALBO potwierdzenie, ze nie dotarla",
       "status": "otwarte"
+    },
+    {
+      "data": "NIE WYSLANY - sprawdzone 300-03-03",
+      "co": "DAENERYS A AEMON: LISTU NIE BYLO. Przeszukane wszystkie wystapienia obu imion - w zadnym pismie do Czarnego Zamku nie ma Daenerys ani slowa 'Targaryen'. Pytanie o Daenerys poszlo JEDEN RAZ i nie tam: do NESTY, 300-03-02, i zapis mowi wprost, ze wczesniejsze listy do Nesty (299-09-19, 300-02-18) TEGO PYTANIA NIE NIOSLY. Odpowiedz realnie V/300. ### CO ISTNIEJE I JEST BLISKO: list do Aemona z 299-09-15, sekcja IV - o CZLOWIEKU, KTOREGO IMIENIA NIE PADA ANI RAZU, i o slowie, ktorego Aemon nie napisze, dopoki nie uslyszy go od tego, kogo dotyczy. TO JEST JON SNOW, NIE DAENERYS (watki jon_snow_krew_neda_na_murze_299_06, jon_snow_po_drugiej_stronie_299_09). ### I RZECZ, KTORA Z TEGO WYNIKA: przy Daenerys stoi 'ANI JEDNEJ DROGI', a najstarszy maester w Westeros koresponduje z Symonem PRYWATNIE od pol roku i ma archiwum Nocnej Strazy. TO JEST DROGA, KTOREJ NIKT NIE PROBOWAL - i jedyna, ktora nie wymaga czekania do maja.",
+      "kto": "SYMON",
+      "zamyka": "decyzja gracza: pytac Aemona czy nie",
+      "status": "otwarte - DO ROZSTRZYGNIECIA"
     }
   ]
 }

@@ -3481,7 +3481,7 @@
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "stan_watku": "ZYWY",
    "stan_uwaga": "FILAR: wszystkie dzialania polityczne zewnetrzne i wywiad. Mierzy sie kanalami, nie postepem. Najwieksza biala plama: dwor Krolewskiej Przystani."
   },
@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 23,
+   "_dziennik_nota": 24,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 37,
+   "_dziennik_nota": 38,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },

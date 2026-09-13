@@ -3631,7 +3631,7 @@
    "id": "prawo_azylu_uczonego_wolne_enklawy_299_06",
    "tytul": "Prawo azylu uczonego i otwarcia - wolne enklawy dla rzemieslnikow/uczonych (Braavos/Essos/Westeros)",
    "status": "projekt_do_ratyfikacji",
-   "_dziennik_nota": 5
+   "_dziennik_nota": 6
   },
   {
    "id": "przetarg_z_wymanem_299_06",
@@ -3679,7 +3679,7 @@
    "id": "spis_mieszkancow_fosy_299_06",
    "tytul": "Spis mieszkancow Moat Cailin Lands (census lenna) - fundament pod podatek/muster/relief/zime",
    "status": "WSTEPNY_SPIS_GOTOWY_299-06-23_DEFICYT_ZYWNOSCI_na_zime",
-   "_dziennik_nota": 23
+   "_dziennik_nota": 24
   },
   {
    "id": "wataha_starkow_w_komplecie_299_06",
@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 41,
+   "_dziennik_nota": 42,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -4569,7 +4569,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 32,
+   "_dziennik_nota": 33,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -4759,7 +4759,7 @@
    "id": "spis_przedsiebiorstw_299_09",
    "tytul": "SPIS PRZEDSIEBIORSTW domu i lenna - inwentarz wlasny w porzadku trzech kas",
    "status": "SPORZADZONY_299-09-05",
-   "_dziennik_nota": 9,
+   "_dziennik_nota": 10,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 38,
+   "_dziennik_nota": 39,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 16
+   "_dziennik_nota": 17
   },
   {
    "id": "pochodzenie_symona_299_09",
@@ -6223,7 +6223,7 @@
   {
    "id": "bractwo_rzemiosla_wolnego",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "howland_reed",

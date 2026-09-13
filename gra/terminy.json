@@ -431,7 +431,7 @@
       "co": "ZLECENIE DLA GAWENA z 299-09-14: policzyc i OGLOSIC, ile placi JEDEN LADUNEK NA FOSIE RAZEM - myto lenna PLUS clo Korony, wedle rodzaju towaru. Warunek zapisany w zleceniu: 'ma byc gotowe i jawne ZANIM Wyman otworzy ksiegi Bialego Portu'. SYMON JEDZIE DO WYMANA ZA DZIESIEC DNI. Cel podwojny: dac Manderly'emu wzorzec i dowod dobrej wiary; sprawdzic, czy wlasna brama nie jest juz zaporowa - NIKT NIGDY NIE ZSUMOWAL OBU WARSTW.",
       "kto": "GAWEN + GARTH",
       "zamyka": "jedna liczba na slupie, jawna, przed Bialym Portem",
-      "status": "otwarte - PILNE, ZEGAR BIEGNIE"
+      "status": "ZAMKNIETE 300-03-03 - policzone NA FOSIE, nie w Winterfell. Obie ksiegi byly w murach."
     },
     {
       "data": "wyslany 299-09-15 - CISZA POL ROKU",
@@ -448,18 +448,46 @@
       "status": "otwarte"
     },
     {
-      "data": "wyslane 299-12-18",
+      "data": "wyslane 299-12-18 - odpowiedz III/IV 300, NIE ZALEGLE",
       "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem.",
-      "kto": "CECH PISARZY",
+      "kto": "CECH PISARZY W BRAAVOS -> przez NESTE",
       "zamyka": "przywrocenie Ilaria na liste ALBO odmowa cechu na pismie",
-      "status": "otwarte"
+      "status": "otwarte - cech jest W BRAAVOS, 2,5 miesiaca w jedna strone; termin jeszcze nie minal"
     },
     {
       "data": "od 299-08-14 - STALE",
       "co": "FOSA CAILIN JAKO KLIRINHAUS NOCNEJ STRAZY. List do WSZYSTKICH KROLESTW POLUDNIA: honorujcie Straz, slijcie chetnych; kazdy chetny z poludnia idzie do Fosy. Apel byl darmowy, ale NIGDY NIE POLICZONO, ILU PRZYSZLO. Miara istnieje od 300-02-12 (ksiega bramy) i od 300-02-28 (rejestr Melli) - wystarczy zapytac.",
       "kto": "GARTH (ksiega bramy) + MELLA",
       "zamyka": "liczba rekrutow z poludnia przez Fose",
-      "status": "otwarte - mierzalne od dzis"
+      "status": "ODCZYTANE 300-03-03 - i odczyt jest zly: klirinhaus ogloszono i nigdy nie uruchomiono"
+    },
+    {
+      "data": "300-03-03 wieczor - WYSLANE",
+      "co": "ZADANIE POMIARU OSWYNA - kruk do Winterfell, do GAWENA i BERONA razem: przyslac liczbe roznicy zsyp/wysyp za cala zime, tak jak zlecono 299-09-13. Kruk 2 dni w kazda strone - LICZBA MOZE BYC NA FOSIE 300-03-07, w dniu wyjazdu, albo dogoni Symona w Bialym Porcie.",
+      "kto": "OSWYN -> GAWEN/BERON -> SYMON",
+      "zamyka": "liczba w rece",
+      "status": "otwarte - w drodze"
+    },
+    {
+      "data": "300-03-03 wieczor - WYSLANE",
+      "co": "KARTA DO BERONA, JEDNO PYTANIE, DWA NAZWISKA: czy w kancelarii Korony lezy cokolwiek od MAESTERA AEMONA (od 299-09) i od STANNISA BARATHEONA (od 299-09). Ta sama forma, co przy Bryndenie Tullym 300-03-02: NAJPIERW WLASNY ZAMEK, POTEM ZARZUT. Nowa rubryka Berona z 300-03-03 ('co przyszlo do Korony, a czego Namiestnik nie widzial') jest dokladnie do tego.",
+      "kto": "BERON",
+      "zamyka": "wykaz albo puste - obie odpowiedzi sa odpowiedzia",
+      "status": "otwarte"
+    },
+    {
+      "data": "PILNE - przed wyjazdem 300-03-07",
+      "co": "ROZSTRZYGNIECIE O MYCIE: myto lenna jest OD WOZU (12 jeleni, plaskie), clo Korony jest OD WARTOSCI (1/20). Skutek policzony 300-03-03: torf placi 15 procent, owies 7,7, futra i bursztyn 5,3. IM TANSZY LADUNEK, TYM CIEZEJ PLACI - a Spichlerz Polnocy wozi wlasnie tani ladunek, i morze Wymana myta nie placi.",
+      "kto": "SYMON (myto to jego regale) + GAWEN (clo to Korona)",
+      "zamyka": "nowa stawka myta ALBO swiadoma decyzja, ze zostaje plaska",
+      "status": "otwarte - NOWE, z odczytu"
+    },
+    {
+      "data": "PILNE",
+      "co": "JEDENASTU NA MUR - klirinhaus nigdy nie zadzialal. Ksiega bramy (od 300-02-12) notuje JEDENASTU, ktorzy przy wejsciu podali 'na Mur'. SIEDMIU Z NICH STOI DZIS W REJESTRZE MELLI jako dniowkowi na Fosie. Nikt ich dalej nie poslal, bo urzedu, ktory mial ich kierowac, nie bylo - byla tylko zapowiedz z 299-08-14. Fosa wchlonela rekrutow Muru.",
+      "kto": "SYMON / HENDRY / MELLA",
+      "zamyka": "decyzja: odeslac na Mur, zatrzymac jawnie, albo dac im wybor - i OSOBA, ktora odtad kieruje",
+      "status": "otwarte - do rozstrzygniecia przez gracza"
     }
   ]
 }

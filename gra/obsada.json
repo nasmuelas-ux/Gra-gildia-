@@ -1,0 +1,85 @@
+{
+  "_opis": "JEDYNE ZRODLO PRAWDY O OBSADZIE. Nie podawac obsady z pamieci - czytac stad. Aktualizowac przy kazdym nadaniu i kazdym wakacie.",
+  "_aktualizacja": "300-03-03",
+  "drabiny": {
+    "LENNO": {
+      "_kasa": "Kasa 2 (lenno), o ile nie zaznaczono inaczej",
+      "RZADCA": {"kto": "WARRYN", "od": "przed 299-06", "nota": "11 lat na tej ziemi; ROZSTRZYGA BUDOWY (300-03-01), Garrick konsultuje"},
+      "KANCLERZ OSOBISTY": {"kto": "GARRICK", "od": "299-09", "nota": "pelnomocnictwo notarialne na Fose 300-03-01; sprawy panstwowe -> kancelaria Winterfell"},
+      "MARSZALEK FORTECY / KAPITAN DOMU TALLY": {"kto": "HENDRY", "od": "299-05-12", "nota": "~50 druzyna + obrona Fosy; pismo o granicach urzedu 300-02-28"},
+      "DOWODCA PRZYBOCZNEJ": {"kto": "STEN", "od": "299-05-12", "nota": "pod nim DAGON i HARL; przyboczna jedzie z Symonem 300-03-07"},
+      "DZIESIETNIK (Dustinport)": {"kto": "HARL", "od": "300-03-02", "nota": "prowadzi dziesieciu z Theonem; swita przy wjezdzie, straz kilka dni, powrot"},
+      "ZBROJMISTRZ": {"kto": "stary zbrojmistrz (imie nie pada w zapisie)", "od": "299-06-23", "nota": "bron, cwiczenie, chlopcy"},
+      "MAESTER": {"kto": "WYSTAN", "od": "299-06", "nota": "srebro, czarne zelazo, miedz, OLOW (trucizny); trzeci odczyt ziarna na Fosie"},
+      "SEDZIA - SAD GRODZKI": {"kto": "RODERYK", "od": "przed 299-12", "nota": "umowy od rownowartosci 30 korcy; orzeka 'jedna sakiewka' (300-03-03)"},
+      "MAJORDOM FOSY": {"kto": "ALYS", "od": "299-12", "nota": "dom, izby, goscie"},
+      "MAJORDOM ROBOT": {"kto": "BRAN", "od": "299-12", "nota": "grobla; od 300-03-01 TRAKT DO DORZECZA"},
+      "ZIELARKA WLOSCI": {"kto": "NINA", "od": "299-06", "nota": "lecznica + apteka bagna"},
+      "UCZENNICA ZIELARKI": {"kto": "GYTHA KADZIEL", "od": "300-03-02", "nota": "z czterystu przybyszow, podpisuje sie znakiem; opatrywala w barakach po nocach"},
+      "REJESTR DNIOWEK": {"kto": "MELLA", "od": "300-02-28", "nota": "kolumna CO UMIE; imie ALBO znak w tym samym rzedzie; czyta tez kolumny Willi"},
+      "SKLAD": {"kto": "ORLAND KORZEC", "od": "299", "nota": "cztery przegrody; karta A na 300-03-07"},
+      "SZKLARNIE": {"kto": "WERRAN", "od": "299-08", "nota": "MIRA jako druga reka - nieobecna; szklarnia ma byc matecznikiem"},
+      "WODA I SLUZA": {"kto": "WEYLIN", "od": "299", "nota": "maester wody; gniazdo na wal przed zamknieciem komory; stawy do rysunku 300-03-03"},
+      "KAMIEN I BUDOWA": {"kto": "ORBELO", "od": "299-12", "nota": "syn palownika; kafar odrysowany z podlogi Terysa"},
+      "PISARZ PRZY BRAMIE": {"kto": "jeden z trzech pisarzy Nesty (ten, ktory nie siedzi nad cena mchu)", "od": "300-03-02", "nota": "od 300-03-03 CIAGNIE LOS 1 na 12 przed otwarciem bramy"},
+      "PISARZE DWORU": {"kto": "dwaj z trojki Nesty", "od": "299-06", "nota": "trzeci poszedl na brame; przepisuja urzadzenia dla Cerwyna"}
+    },
+    "MCHOWE JASTRZEBIE - STRAZ LENNA": {
+      "_kasa": "KASA SYMONA (nie lenna)",
+      "_nota": "20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana do pomocy celnikom 300-02-25. NIE PODLEGA HENDRY'EMU - dowodca podlega BEZPOSREDNIO SYMONOWI. ZAKAZ NACZELNY: KTO CHWYTA, TEN NIE SADZI. Ksiega Jastrzebi u PISARZA GRODZKIEGO (kto dowodzi, nie spisuje sam).",
+      "DOWODCA": {"kto": "KESSEL BRODATY", "od": "300-02-25", "nota": "jedyne nazwisko, ktore padlo u Hendry'ego i Warryna osobno; wybiera mlynarza wspolnie z Warrynem"},
+      "ZASTEPCA": {"kto": "ODD MOKRADLO", "od": "300-02-25", "nota": "ksiegi nie tyka"},
+      "PRZY BRAMIE": {"kto": "ROWAN POLUCHO", "od": "300-02-25", "nota": "nie czyta - kwit przy bramie podpisuje kto inny (dziura mala i realna)"}
+    },
+    "MIASTO CAILIN": {
+      "_kasa": "miasto; lord nadaje, miasto sadza",
+      "BURMISTRZ": {"kto": "HERWIN SZALA", "od": "299", "nota": "dawny wagowy, 12 lat przy wadze; autor poprawki o znaku normy; uczony odczytu ziarna 300-03-02"},
+      "WAGOWY": {"kto": "BENNIS OD WAGI", "od": "300-03-03", "nota": "15 lat, liter nie zna; wybrany przez lawe; wage trzyma i placi rada; PIERWSZY ODCZYT STANU ZIARNA"},
+      "LAWA": {"kto": "lawa burmistrza", "od": "299", "nota": "proba wstepna, losowanie dzialek, przywilej bagienny; ustalila 5 dni targowych (300-03-03, niejednoglosnie)"}
+    },
+    "DOM HANDLOWY TALLY": {
+      "_kasa": "Kasa 1",
+      "DYREKTOR": {"kto": "HAL SIEROTA", "od": "299", "nota": "Bialy Port; forma zwrotu 695 w towarze - jego sprawa"},
+      "SIATKA / UCHO": {"kto": "WILLA", "od": "299-09", "nota": "kartka zgodnosci; dwie kolumny drugiej drogi"},
+      "SZYFRATOR DOMOWY": {"kto": "HARROL LUT", "od": "300-03-02", "nota": "mierniczy torfu; liczby tak, liter nie sklada; matryce zapieczetowane z dniem na wierzchu"},
+      "ODSLUCHIWACZKA RYNKOW": {"kto": "MAEGA KOSZYK", "od": "300-03-02", "nota": "zbieraczka; osoba, nie rubryka - da sie ja poslac"},
+      "KURIER PRZY MAEDZE": {"kto": "WYLL SZUWAR", "od": "300-03-02", "nota": "bez tytulu i bez zmiany; nikt go nie pamieta"},
+      "NOTARIUSZ DOMU": {"kto": "imie do potwierdzenia", "od": "299", "nota": "SIEDZIBA FOSA CAILIN, operacje Bialy Port; NIE Winterfell, NIE Beron"},
+      "CICHY KUPIEC": {"kto": "bez imienia", "od": "rusza do 300-03-10", "nota": "towar: SOL; ksiega DOMU; cel: sfera Dreadfortu"},
+      "BRAAVOS": {"kto": "NESTA", "od": "299", "nota": "2,5 miesiaca w jedna strone"},
+      "DORZECZE": {"kto": "LUCAN", "od": "299", "nota": "zboze, weksle 420/80/340"}
+    },
+    "KORONA": {
+      "_kasa": "Kasa 3 - Skarb Polnocy",
+      "NAMIESTNIK": {"kto": "SYMON TALLY", "od": "299-06", "nota": "lord Fosy Cailin"},
+      "JUSTYCJARIUSZ": {"kto": "lord MEDGER CERWYN", "od": "299-06-09", "nota": "objazd; tryb Rady; corka JONELLE prowadzi Zamek Cerwyn; zona nie zyje"},
+      "SKARBNIK": {"kto": "GAWEN", "od": "299-06", "nota": "uznal 695 w calosci; chce placic przywilejem - odrzucone 300-03-02"},
+      "KANCELARIA WINTERFELL": {"kto": "BERON", "od": "299-09", "nota": "karta 7-dniowa; od 300-03-03 nowa rubryka: co przyszlo do Korony, a czego Namiestnik nie widzial"},
+      "CELNIK / KOMORA": {"kto": "GARTH", "od": "299", "nota": "URZEDNIK KORONY - nie przyjmuje polecen Symona w sprawach cla; ksiega bramy od 300-02-12; psiarze"},
+      "PIERWSZY ADMIRAL": {"kto": "TORREN SOLNY", "od": "299-08-11", "nota": "lowborn z Kamienistego Brzegu, wies spalili zelazni; osiem rubryk przyslal 300-03-02"},
+      "MARSZALEK CHORAGWI": {"kto": "OSRIC KAMIEN", "od": "299-09-07", "nota": "posel do Muru; MELDUNEK VII ZALEGLY, adres Winterfell"},
+      "GLEBOKORZEN": {"kto": "THEOMORE", "od": "299-08", "nota": "pierwszy mistrz; budowy NIKT nie prowadzi; spis flory jako pierwszy zbior"},
+      "DORADCA W DUSTINPORCIE": {"kto": "THEON GREYJOY", "od": "300-03-02", "nota": "kadluby + nauka admirala; jedzie z pismem do Torrena"},
+      "REJESTRATOR KORONY": {"kto": null, "od": null, "nota": "PUSTE OD ~299-11. Nazwisko zastrzegl sobie Krol; przypomnienie 300-02-27"}
+    }
+  },
+  "wakaty": [
+    {"urzad": "KLUCZNIK / SZAFARZ", "drabina": "LENNO", "pilnosc": "NAJPILNIEJSZY", "nota": "spizarnia i wydawanie; karta zywnosciowa 300-03-07, a wydaje nia dzis nikt"},
+    {"urzad": "KUCHARZ", "drabina": "LENNO", "nota": "szukany od 300-03-02 przy rejestrze Melli; pytanie: kto zrobi z wegorza cos, co zje pan"},
+    {"urzad": "KONIUSZY", "drabina": "LENNO", "nota": "konie, wozy, zaprzegi, woly Cailin-Bialy Port"},
+    {"urzad": "LOWCZY", "drabina": "LENNO", "nota": "ryba, ptactwo wodne, jaszczurolw; bez niego kanon jadla jest lista"},
+    {"urzad": "PIWNICZY", "drabina": "LENNO", "nota": "-"},
+    {"urzad": "MLYNARZ", "drabina": "LENNO", "nota": "WYBIERAJA WARRYN I KESSEL WSPOLNIE (300-02-27) - mlyn w sluzie znaczy brame wodna twierdzy"},
+    {"urzad": "ZASTEPCA PRZY GROBLI", "drabina": "LENNO", "nota": "wskazuje BRAN, z 48; przed pierwszym dniem, w ktorym kafar wchodzi w grunt"},
+    {"urzad": "NASIENNIK", "drabina": "LENNO", "nota": "wskazuje WERRAN; bez niego szkolka jednorazowa"},
+    {"urzad": "MIERNICZY TORFU", "drabina": "LENNO", "nota": "wakat po Harrolu (300-03-02), a torfiarnie maja ciac wiecej"},
+    {"urzad": "TRZECI ODCZYT ZIARNA POZA FOSA", "drabina": "KORONA", "nota": "na Fosie robi go Wystan; poza Fosa PUSTE - maester jest jeden"},
+    {"urzad": "REJESTRATOR KORONY", "drabina": "KORONA", "nota": "cztery miesiace; nazwisko zastrzegl Krol"},
+    {"urzad": "OCHMISTRZ WYCHOWANKOW", "drabina": "KORONA", "nota": "raport zamowiony u Gawena"},
+    {"urzad": "MISTRZ DOMU AUDYTOWEGO", "drabina": "KORONA", "nota": "poza cechem nie ma mistrzow rewizji"},
+    {"urzad": "KOWAL", "drabina": "MIASTO", "nota": "do kuzni nie zglosil sie nikt; kuznia idzie pierwsza albo nie idzie nic"},
+    {"urzad": "CZLOWIEK OD FEVER", "drabina": "KORONA", "nota": "polowa (a) idzie kanalem Warryna; polowa (b) czeka na Weylina"},
+    {"urzad": "BUDOWA GLEBOKORZENIA", "drabina": "KORONA", "nota": "miejsce jest, budowy nie ma, ani jednego ucznia"},
+    {"urzad": "AKADEMIA WOJSKOWA - data, platnik, pierwszy mistrz", "drabina": "KORONA", "nota": "baszta w Przystani Wilka"}
+  ]
+}

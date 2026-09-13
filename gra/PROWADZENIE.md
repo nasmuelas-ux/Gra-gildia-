@@ -371,6 +371,15 @@ Przed obsadzeniem **jakiegokolwiek** krzesła, urzędu, roboty czy zadania — i
 **Pierwszy spis pokrywa ludność SPRZED przybycia czterystu; drugi pokrywa czterystu i nie wpisuje ich dzieci.** Żaden nie pokrywa całości — **dlatego zawsze oba.**
 > *Dopisane po jedenastym błędzie tego samego kształtu: powiedziałem „nikt nie liczy dzieci", mając imienny spis dzieci od dziewięciu miesięcy. **Nie brakowało narzędzia — brakowało odczytu**, a ja przez trzy doby czytałem młodszą księgę, bo była świeższa w pamięci.*
 
+**38. OBSADY I TERMINÓW NIE PODAJE SIĘ Z PAMIĘCI.** *(stała, 300-03-03)*
+Są **danymi, nie prozą**, i leżą w dwóch plikach, które wchodzą do `STAN.md` przy każdej regeneracji:
+- ### **`gra/obsada.json`** — stanowisko → osoba → od kiedy → czyja kasa → wakaty
+- ### **`gra/terminy.json`** — co · kto · data · **czym się ZAMYKA** · status
+
+**Każde nadanie, każdy wakat i każdy termin dopisuje się TAM w tej samej turze, w której padł** — nie do samej narracji.
+> *Powód, wprost: w ciągu jednej godziny 300-03-03 powiedziałem cztery razy „tego nie ma", mając to w księdze — bo odtwarzałem stan z pamięci i sprawdzałem dopiero, gdy coś mnie zaniepokoiło, a szukałem wtedy frazy, którą już pamiętałem. **Tak się nie znajduje rzeczy, o których się zapomniało.***
+> **Termin, który nie ma zapisanego zamknięcia, nie jest terminem — tylko datą, która minie.**
+
 ---
 
 > ### ZASADA NADRZĘDNA: ŚWIAT MA BYĆ TRUDNY DLATEGO, ŻE JEST DUŻY I POWOLNY — NIE DLATEGO, ŻE PROWADZĄCY ZAPOMNIAŁ.

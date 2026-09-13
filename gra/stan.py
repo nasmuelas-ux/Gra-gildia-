@@ -72,13 +72,23 @@ if _ch:
     with io.open(os.path.join(D, "npc.json"), "w", encoding="utf-8") as f:
         json.dump(npc, f, ensure_ascii=False, indent=1)
 
+def _wczytaj(nazwa):
+    sc = os.path.join(D, nazwa)
+    if not os.path.exists(sc):
+        return None
+    with io.open(sc, encoding="utf-8") as f:
+        return json.load(f)
+
+TERMINY = _wczytaj("terminy.json")
+OBSADA = _wczytaj("obsada.json")
+
 o = []
 A = o.append
 
 A("# STAN GRY — indeks (regenerowany z JSON+JSONL, NIE edytuj recznie)")
 A("_Zrodlo prawdy: gra/*.json + gra/db/wpisy.jsonl. Szczegoly: `python3 gra/db.py pokaz <klucz>` / `szukaj <fraza>` / `dzien <data>`._\n")
 
-A("## ⚠️ 37 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI PIEC ZASAD\"\n"
+A("## ⚠️ 38 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI PIEC ZASAD\"\n"
   "**PRZECZYTAJ JE PO KAZDYM KOMPAKTOWANIU.** Przy sprzecznosci z czymkolwiek innym — tamte wygrywaja.\n"
   "Skrot najczesciej lamanych: **1** nie twierdze, nie sprawdziwszy · **3** blad GM nie przechodzi na gracza (VOID znaczy VOID) ·\n"
   "**7** moja cisza nie jest zastojem (rzecz zlecona i obsadzona idzie sama) · **8** postep rodzi problemy, nie wstazki ·\n"
@@ -92,7 +102,47 @@ A("## ⚠️ 37 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI 
   "**(1) SPIS MIESZKANCOW 299-06 - 640 dusz IMIENNIE**, zawod = co umie rekami, trzy osobne rubryki CZYTA/PISZE/LICZY,\n"
   "dzieci z imienia, wiekiem i rodzicem (takze dziewczeta) - obejmuje ludnosc SPRZED przybycia czterystu;\n"
   "**(2) REJESTR DNIOWEK MELLI od 300-02-28** - czterystu przybyszow, kolumna CO UMIE, wpis imieniem ALBO znakiem,\n"
-  "plus ksiega bramy od 02-12. **Zaden nie pokrywa calosci - dlatego zawsze oba.**\n")
+  "plus ksiega bramy od 02-12. **Zaden nie pokrywa calosci - dlatego zawsze oba.**\n"
+  "### **38 - OBSADY I TERMINOW NIE PODAJE SIE Z PAMIECI** (stala, 300-03-03).\n"
+  "Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym pliku.\n"
+  "**Kazde nadanie, kazdy wakat i kazdy termin dopisuje sie TAM w tej samej turze, w ktorej padl.**\n"
+  "**Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**\n")
+
+if TERMINY:
+    A("## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)")
+    A("_Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._\n")
+    _ot = [t for t in TERMINY.get("terminy", []) if not str(t.get("status", "")).startswith("zrobione")]
+    _zr = [t for t in TERMINY.get("terminy", []) if str(t.get("status", "")).startswith("zrobione")]
+    for t in _ot:
+        _st = t.get("status", "")
+        _m = " **⚠ " + _st.upper() + "**" if _st and _st != "otwarte" else ""
+        A("- **%s** — %s · _kto:_ **%s** · _zamyka:_ %s%s" % (
+            t.get("data", "?"), t.get("co", "?"), t.get("kto", "?"), t.get("zamyka", "?"), _m))
+    if _zr:
+        A("\n_Zamkniete ostatnio:_ " + " · ".join("%s (%s)" % (t.get("co", "?")[:60], t.get("status")) for t in _zr))
+    A("")
+
+if OBSADA:
+    A("## 👤 OBSADA — `gra/obsada.json` (NIE PODAWAC OBSADY Z PAMIECI — CZYTAC STAD)")
+    for _drab, _tresc in (OBSADA.get("drabiny") or {}).items():
+        _kasa = _tresc.get("_kasa", "")
+        _nota = _tresc.get("_nota", "")
+        A("### %s%s" % (_drab, (" — _%s_" % _kasa) if _kasa else ""))
+        if _nota:
+            A("_%s_" % _nota)
+        for _urz, _d in _tresc.items():
+            if _urz.startswith("_"):
+                continue
+            _kto = _d.get("kto") or "### PUSTE"
+            A("- **%s:** %s%s" % (_urz, _kto, (" _(%s)_" % _d["nota"]) if _d.get("nota") else ""))
+        A("")
+    _wak = OBSADA.get("wakaty") or []
+    if _wak:
+        A("### 🔴 WAKATY (%d)" % len(_wak))
+        for _w in _wak:
+            _p = " **%s**" % _w["pilnosc"] if _w.get("pilnosc") else ""
+            A("- **%s** _(%s)_%s — %s" % (_w.get("urzad", "?"), _w.get("drabina", "?"), _p, _w.get("nota", "")))
+        A("")
 
 A("## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)\n"
   "Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:\n"

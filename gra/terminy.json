@@ -477,7 +477,7 @@
     },
     {
       "data": "PILNE - przed wyjazdem 300-03-07",
-      "co": "MYTO OD WARTOSCI - ROZSTRZYGNIECIE GRACZA 300-03-03. Plaskie 12 jeleni od wozu ZNIESIONE; myto lenna idzie 1/40 (2,5 proc.) wartosci, ta sama forma co clo Korony (1/20). PO ZMIANIE KAZDY LADUNEK PLACI 7,5 PROC. LACZNIE: torf spada z 15 na 7,5, owies stoi na 7,7 -> 7,5, futra i bursztyn rosna z 5,3 na 7,5. WYCENY NIE TRZEBA BUDOWAC - GARTH JUZ WYCENIA KAZDY WOZ, bo clo Korony od zawsze jest od wartosci. Myto jedzie na tej samej liczbie, zero nowego aparatu. MYTO TO REGALE LENNA (Kasa 2) - Krol niepotrzebny, oglasza sie na slupie.",
+      "co": "MYTO OD WARTOSCI - ROZSTRZYGNIECIE GRACZA 300-03-03. Plaskie 12 jeleni od wozu ZNIESIONE; myto lenna idzie 1/40 (2,5 proc.) wartosci, ta sama forma co clo Korony (1/20). PO ZMIANIE KAZDY LADUNEK PLACI 7,5 PROC. LACZNIE: torf spada z 15 na 7,5, owies stoi na 7,7 -> 7,5, futra i bursztyn rosna z 5,3 na 7,5. WYCENY NIE TRZEBA BUDOWAC - GARTH JUZ WYCENIA KAZDY WOZ, bo clo Korony od zawsze jest od wartosci. Myto jedzie na tej samej liczbie, zero nowego aparatu. MYTO TO REGALE LENNA (Kasa 2) - Krol niepotrzebny, oglasza sie na slupie. ⚠ KOREKTA 300-03-03: 2,7 proc. to NIE byla srednia, tylko woz ZBOZA. Plaskie myto 12 jeleni to bylo 10 proc. na torfie, 2,73 na owsie i 0,3 na futrach. STAWKI NEUTRALNEJ DLA SKARBU NIE DA SIE POLICZYC, DOPOKI NIKT NIE POLICZYL, CO PRZEZ TE BRAME JEDZIE. Ksiega bramy Gartha (od 300-02-12) jest tym, z czego to wyjdzie. 1/40 zostaje jako stawka wyjsciowa - ale jako DECYZJA, nie jako wyliczenie.",
       "kto": "SYMON (myto to jego regale) + GAWEN (clo to Korona)",
       "zamyka": "obwieszczenie na slupie w Cailin",
       "status": "ROZSTRZYGNIETE - na slup 300-03-04"
@@ -512,7 +512,7 @@
     },
     {
       "data": "300-03-04",
-      "co": "SLUP - TRZY POPRAWIONE LICZBY ZBOZOWE: (1) NORMA UBYTKU 7 NA STO, ogloszona; ponad norme placi SKLAD, w normie SKLADAJACY. (2) ROZPIETOSC SKLADU: owies kupuje 11 / sprzedaje 11 jeleni 80; jeczmien 12 / 12 jeleni 90. (3) DNO SPRZEDAZY: owies 3 jelenie 45, jeczmien 3 jelenie 90 (dno KUPNA zostaje 3-20 i 3-60 - podnoszenie go nie pomaga skladowi, tylko poglebia strate).",
+      "co": "SLUP - TRZY LICZBY ZBOZOWE, PRZELICZONE POPRAWNIE 300-03-03: (1) NORMA UBYTKU 7 NA STO, ogloszona; w normie placi SKLADAJACY, ponad norme SKLAD. (2) NARZUT SKLADU 7,53 PROC. (nie 7 - zeby odzyskac 7 straconych, trzeba dolozyc 7,53): owies kupuje 11 / sprzedaje 11 jeleni 83; jeczmien 12 / 12 jeleni 90. (3) DNO SPRZEDAZY: owies 3 jelenie 44, jeczmien 3 jelenie 87. Dno KUPNA zostaje 3-20 i 3-60.",
       "kto": "HERWIN + ORLAND + BENNIS",
       "zamyka": "obwieszczenie",
       "status": "otwarte"
@@ -530,6 +530,13 @@
       "kto": "SYMON -> AEMON",
       "zamyka": "odpowiedz i ewentualnie dwa nazwiska",
       "status": "otwarte - do rozstrzygniecia"
+    },
+    {
+      "data": "PILNE - przed wyjazdem 300-03-07",
+      "co": "STRUKTURA RUCHU PRZEZ BRAME - z ksiegi Gartha od 300-02-12: ile wozow, jakiego towaru, o jakiej wartosci. BEZ TEJ LICZBY stawka myta 1/40 jest decyzja, a nie wyliczeniem, i nikt nie wie, czy Kasa 2 na zmianie zyskuje czy traci.",
+      "kto": "GARTH (ksiega) + GERRIK RACHUBA (rachunek)",
+      "zamyka": "rozklad wozow i wartosci za trzy tygodnie",
+      "status": "otwarte - NOWE"
     }
   ]
 }

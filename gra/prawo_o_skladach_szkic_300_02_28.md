@@ -144,6 +144,27 @@ Nic się od Reedów nie spisuje i nic im się nie odbiera.
 
 ---
 
+## 4e. TRZY POPRAWKI CERWYNA — **wpisane 300-03-03, egzekucyjne, nie ustrojowe**
+*(Justycjariusz czytał przez noc: „z dwiema poprawkami to się utrzyma; bez nich utrzyma się do pierwszego mądrego kupca".)*
+
+**① KTO ORZEKA, ŻE DWA NAZWISKA TO JEDNA SAKIEWKA — SĄD GRODZKI, NIE WAGOWY.**
+*To orzeczenie, nie pomiar.* Dowód już istnieje w konstrukcji: **rubryka „na czyj rachunek"** + zdanie Herwina *(„ten sam człowiek płaci dziesięć razy tą samą monetą z tego samego worka — i to widać u kupców, nie u mnie")*.
+### **Korona daje regułę, miejscowy sąd orzeka** — ta sama forma, co „Korona wydaje wzór, miasto wydaje wpis".
+*I ten sam sąd trzyma już próg umów — jedna liczba, jeden stół.*
+
+**② LOS CIĄGNIE SIĘ PRZED DNIEM.**
+### O pierwszym brzasku, **zanim brama się otworzy**, z kolejności księgi, **ręką pisarza przy bramie**.
+**Ułamek ogłoszony — wylosowane wozy nie.**
+> **Los, który losuje człowiek stojący przy wozie, nie jest losem.**
+*(Pierwszy tydzień pisarza przy bramie zaczyna się od tego, że to on czyni los losem.)*
+
+**③ REWIZJA DOSTAJE CZĘSTOTLIWOŚĆ.**
+### **RAZ W ROKU W TERMINIE OGŁOSZONYM Z GÓRY — I ZAWSZE, BEZ ZAPOWIEDZI, GDY RUBRYKA STANU ALBO PRÓG POKAŻĄ NIEZGODNOŚĆ.**
+*Ta sama zasada, co przy psiarzach, trzeci raz: **ogłoszone — niewiele; niezgodne — wszystko i nieogłoszone.***
+> **Prośba bez terminu jest grzecznością.**
+
+---
+
 ## 5b. CO OTWIERA POPRAWKA CZWARTA — **I TO NIE JEST LICZBA, TYLKO LUDZIE**
 
 Wystan postawił ograniczenie sam, nieproszony:

@@ -3481,7 +3481,7 @@
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 13,
    "stan_watku": "ZYWY",
    "stan_uwaga": "FILAR: wszystkie dzialania polityczne zewnetrzne i wywiad. Mierzy sie kanalami, nie postepem. Najwieksza biala plama: dwor Krolewskiej Przystani."
   },
@@ -4335,7 +4335,7 @@
    "id": "poselstwo_wolne_miasta_braavos_pentos_299_08",
    "tytul": "Poselstwo Namiestnika do Braavos i Pentos (z Nesta) - bezposredni handel = niezaleznosc gosp. od Westeros",
    "status": "NESTA_PLYNIE_299-08-28;_najpierw_Braavos_(Hal_i_Willa_zgodnie);_kantor_Nesty_do_przejecia_przez_Dom_na_czas_nieobecnosci",
-   "_dziennik_nota": 38,
+   "_dziennik_nota": 39,
    "filar": "POSELSTWO DO WOLNYCH MIAST",
    "stan_watku": "ZYWY"
   },
@@ -5412,7 +5412,7 @@
   {
    "id": "siatka_domu_tally_rozbudowa_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 39,
+   "_dziennik_nota": 40,
    "priorytet": "sredni",
    "tytul": "Siatka Domu - szesc punktow Garricka zatwierdzone; znaki u Willi, granice kanclerza spisane, wezel zachodni otwarty (konflikt zgloszony na Rade)",
    "filar": "SIATKA DOMU TALLY",

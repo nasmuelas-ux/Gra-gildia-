@@ -84,6 +84,15 @@ _Zamkniete ostatnio:_ cena minimalna z iloscia + cena dzisiejsza + oferta kupna 
 - **PISARZE DWORU:** dwaj z trojki Nesty _(trzeci poszedl na brame; przepisuja urzadzenia dla Cerwyna)_
 - **SPIZARNIA DOMOWA / KLUCZE:** ALYS _(majordomat; przy przeliczeniu spichlerza ONA szla przy liczbach, Bran przy robotach - wydawanie z domu nigdy nie bylo puste)_
 - **SZKOLA I NAUKA:** dwaj uczacy, pod WARRYNEM _(szkola + posilek przy szkole; pierwsza szkola powszechna Polnocy. Ochmistrza nauki NIE MA - nikt nie odpowiada za nauke z nazwy.)_
+- **KLUCZNIK LOCHU:** DOREN KLAMRA _(REJESTR MELLI. Trzymany w Harrenhal cztery miesiace - wie, co to trzymanie. Podpisuje sie ZNAKIEM; kwit odbioru wiezionego podpisuje PISARZ GRODZKI (jak przy Rowanie). NIE JEST JASTRZEBIEM - kto chwyta, ten nie trzyma.)_
+- **PROWIANTMISTRZ GARNIZONU:** ARNO SUCHAR _(REJESTR MELLI, wskazal HENDRY (jego drabina). Karmil kolumne marszowa; liczy, liter nie sklada. OSOBNO od skladu (Orland) i od spizarni (Alys).)_
+- **KUCHARZ:** NELDA OD KOTLA _(REJESTR MELLI. Gotowala w barakach od przyjazdu i nikt jej za to nie placil - jak Gytha, ktora opatrywala po nocach. Wegorz jej nie przeraza.)_
+- **MIERNICZY TORFU:** JORREN LUT _(REJESTR MELLI. Brat HARROLA, ten sam fach - stad umiejetnosc nie wymaga sprawdzania. Wakat po Harrolu (poszedl na szyfratora 300-03-02) zamkniety tego samego tygodnia.)_
+- **PIWNICZY:** OTTO BECZKA _(REJESTR MELLI.)_
+- **LOWCZY:** HAKON OD JASZCZURA _(SPIS 299-06, NIE rejestr Melli - lowczy bagna musi znac bagno, a przybysz jest tu trzy tygodnie. Ryba, ptactwo wodne, jaszczurolw. Bez niego kanon jadla byl lista.)_
+- **LESNICZY:** SIGURD OLCHA _(SPIS 299-06. Regale lesne; olcha na lodzie Jastrzebi szla dotad z wlasnego lasu BEZ EWIDENCJI - od dzis idzie przez niego.)_
+- **KONIUSZY:** TORGIL WOZNICA _(SPIS 299-06. Konie, wozy, zaprzegi, woly na trasie Cailin-Bialy Port.)_
+- **POBORCA CZYNSZOW:** INGA LICZYDLO _(SPIS 299-06, rubryka LICZY. Zasada przy nadaniu: NIE POBIERA WE WLASNEJ WSI. Czynsz istnieje od 300-02-07, poborcy nie bylo szesc tygodni.)_
 
 ### MCHOWE JASTRZEBIE - STRAZ LENNA — _KASA SYMONA (nie lenna)_
 _20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana do pomocy celnikom 300-02-25. NIE PODLEGA HENDRY'EMU - dowodca podlega BEZPOSREDNIO SYMONOWI. ZAKAZ NACZELNY: KTO CHWYTA, TEN NIE SADZI. Ksiega Jastrzebi u PISARZA GRODZKIEGO (kto dowodzi, nie spisuje sam)._
@@ -151,6 +160,7 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **SKARBNIK LENNA (Kasa 2)** — WAKAT - PILNY. Kase 2 liczy i wydaje TA SAMA REKA: WARRYN (rachunek Etapu I na 300-03-09). Skarbnik GAWEN to Kasa 3 (Korona), HAL to Kasa 1 (Dom). Lenno nie ma wlasnego skarbnika.
 - **LUSTRATOR (rewident objazdowy)** — WAKAT. Na poziomie krolestwa stoi juz wakat MISTRZ DOMU AUDYTOWEGO ('poza cechem nie ma mistrzow rewizji'). Na Fosie audyt robil dotad SAM SYMON (Dreadfort 299-10-21).
 - **PISARZ PODATKOWY / URBARZ** — WAKAT - PILNY I NAJSTARSZY. OCZYNSZOWANIE weszlo 300-02-07 ('nowy winien grosz, a nie dni') - a KSIEGI PARCEL Z PRZYPISANYM CZYNSZEM NIE MA. Spis 299-06 liczy dusze i umiejetnosci, rejestr dniowek liczy dniowki, losowanie dzialek prowadzi lawa miasta. Nikt nie ma kolumny: kto, z czego, ile, kiedy.
+- **_trzy_krzesla_kontroli** — ARCHIWISTA, SKARBNIK LENNA i LUSTRATOR ZOSTAJA PUSTE PO 300-03-03 - swiadomie. To sa trzy krzesla, ktore SPRAWDZAJA WSZYSTKICH POZOSTALYCH. Obsadzone naraz z jednego rocznika przybyszow, sprawdzalyby sie nawzajem i nikt nie sprawdzalby ich. Kryterium to nie umiejetnosc, tylko CZAS i OSOBNE POCHODZENIE.
 **III. ADMINISTRACJA TERENOWA**
 - **RZADCA KLUCZA** — WARRYN - rzadca calego lenna, 11 lat na tej ziemi. Posredniego szczebla (kilka wsi na jednego urzednika) NIE MA - i przy 640 duszach plus czterystu przybyszach Warryn jest juz waskim gardlem.
 - **SOLTYSI (szczebel ponizej rzadcy)** — USTROJ ISTNIEJE OD 299-08: jedno palenisko = jeden glos, soltysa WYBIERAJA mieszkancy przy rzadcy, przysiega calej Fosie, rzadzi z lawa przysieglych majaca oba glosy (starzy z bagna I osadnicy). ALE: KTORE WSIE WYBRALY, KIEDY I KOGO - PYTANIE ZADANE I BEZ ODPOWIEDZI.
@@ -166,16 +176,10 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **MAGISTER INZYNIERII** — TRZECH, PODZIELENI RZECZOWO: WEYLIN - inzynier zamkowy (woda, dreny, sluzy, 'urzad na pokolenia'); ORBELO - kamien i budowa; BRAN - majordom robot (grobla, trakt). ISTNIEJE, i jest to najlepiej obsadzony departament lenna.
 - **URZEDNIK MIAR I WAG** — BENNIS OD WAGI - wagowy miasta od 300-03-03, wage trzyma i placi RADA MIASTA, nie zamek. Nad nim HERWIN SZALA, burmistrz, 12 lat przy wadze, autor poprawki o ZNAKU NORMY. ISTNIEJE - ale jako urzad MIASTA. Lenno swojej wagi nie ma i miec nie powinno: lord nadaje regule, miasto sadzi.
 
-### 🔴 WAKATY (26)
-- **PROWIANTMISTRZ GARNIZONU** _(LENNO)_ **PILNY** — zapis rozroznia go OD SPIZARNI DOMOWEJ i oznacza jako REKRUT - nigdy nie obsadzony. Wskazuje HENDRY (to jego drabina).
-- **KUCHARZ** _(LENNO)_ — szukany od 300-03-02 przy rejestrze Melli; pytanie: kto zrobi z wegorza cos, co zje pan
-- **KONIUSZY** _(LENNO)_ — konie, wozy, zaprzegi, woly Cailin-Bialy Port
-- **LOWCZY** _(LENNO)_ — ryba, ptactwo wodne, jaszczurolw; bez niego kanon jadla jest lista
-- **PIWNICZY** _(LENNO)_ — -
+### 🔴 WAKATY (17)
 - **MLYNARZ** _(LENNO)_ — WYBIERAJA WARRYN I KESSEL WSPOLNIE (300-02-27) - mlyn w sluzie znaczy brame wodna twierdzy
 - **ZASTEPCA PRZY GROBLI** _(LENNO)_ — wskazuje BRAN, z 48; przed pierwszym dniem, w ktorym kafar wchodzi w grunt
 - **NASIENNIK** _(LENNO)_ — wskazuje WERRAN; bez niego szkolka jednorazowa
-- **MIERNICZY TORFU** _(LENNO)_ — wakat po Harrolu (300-03-02), a torfiarnie maja ciac wiecej
 - **TRZECI ODCZYT ZIARNA POZA FOSA** _(KORONA)_ — na Fosie robi go Wystan; poza Fosa PUSTE - maester jest jeden
 - **REJESTRATOR KORONY** _(KORONA)_ — cztery miesiace; nazwisko zastrzegl Krol
 - **OCHMISTRZ WYCHOWANKOW** _(KORONA)_ — raport zamowiony u Gawena
@@ -185,13 +189,10 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **BUDOWA GLEBOKORZENIA** _(KORONA)_ — miejsce jest, budowy nie ma, ani jednego ucznia
 - **AKADEMIA WOJSKOWA - data, platnik, pierwszy mistrz** _(KORONA)_ — baszta w Przystani Wilka
 - **OCHMISTRZ SZKOLY I NAUKI** _(LENNO)_ — szkola dziala (dwaj uczacy pod Warrynem), ale nikt nie odpowiada za nauke z nazwy
-- **LESNICZY (regale lesne)** _(LENNO)_ — urzad zaprojektowany w schemacie administracji Korony obok rzadcy, poborcy, mistrza wagi i mierniczego; na Fosie nieobsadzony. Olcha na lodzie Jastrzebi idzie z wlasnego lasu.
 - **GLOWNY ARCHIWISTA (kustosz ksiag)** _(LENNO)_ **PILNY** — ksiegi rozproszone po pieciu rekach; nikt nie trzyma katalogu. To urzad, ktorego brak najbardziej boli.
 - **SKARBNIK LENNA (Kasa 2)** _(LENNO)_ **PILNY** — Warryn liczy i wydaje ta sama reka. Gawen to Kasa 3, Hal to Kasa 1.
-- **PISARZ PODATKOWY / URBARZ** _(LENNO)_ **PILNY** — oczynszowanie od 300-02-07 bez ksiegi parcel; nie wiadomo kto ile winien.
-- **POBORCA CZYNSZOW** _(LENNO)_ — czynsz jest, poborcy nie ma; Garth to celnik Korony.
+- **PISARZ PODATKOWY / URBARZ** _(LENNO)_ **PILNY - czeka na KSIEGE, nie na czlowieka** — NIE OBSADZONY SWIADOMIE 300-03-03: najpierw ksiega, potem pisarz. Urbarza nie ma, wiec pisarz nie mialby w czym pisac. Do zalozenia: kolumny KTO / Z CZEGO / ILE / KIEDY.
 - **LUSTRATOR (rewident objazdowy)** _(LENNO)_ — audyt robil dotad sam Symon; na poziomie krolestwa osobny wakat Mistrza Domu Audytowego.
-- **KLUCZNIK LOCHU** _(LENNO)_ — kto trzyma miedzy chwyceniem a sadem - nie powiedziane nigdy; wiaze sie z jencami.
 - **SOLTYSI - ILE WSI WYBRALO** _(LENNO)_ **PYTANIE BEZ ODPOWIEDZI** — ustroj od 299-08 (jedno palenisko jeden glos, lawa z oboma glosami); Symon pytal, ktore wsie wybraly - odpowiedzi nie dostal.
 
 ## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)
@@ -373,15 +374,15 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `przywilej_bagienny_fosa_300_02` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-03-03] `projekt_cailin`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
-- [300-03-03] `spis_mieszkancow_fosy_299_06`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
-- [300-03-03] `lenno/ALYS`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
-- [300-03-03] `lenno/HENDRY`: ### KLUCZNIK - SZUKANIE W DWOCH KSIEGACH, 300-03-03 wieczor. Bez rzutow. || ## WYNIK JEST ODWROTNY DO OCZEKIWANEGO: URZAD NIE BYL PUSTY, TYLKO ZLE NAZWANY. ## ### (1) SPIZARNIA DOMOWA MA GOS…
-- [300-03-03] `projekt_cailin`: ### STRUKTURA LENNA UPORZADKOWANA - na zadanie gracza, 300-03-03. Bez rzutow. || ## Z LISTY GRACZA: CO JUZ ISTNIALO POD INNA NAZWA ## UZDROWICIEL - jest podwojnie: MAESTER WYSTAN (srebro) i …
-- [300-03-03] `ustroj_urzedow`: ### STRUKTURA LENNA UPORZADKOWANA - na zadanie gracza, 300-03-03. Bez rzutow. || ## Z LISTY GRACZA: CO JUZ ISTNIALO POD INNA NAZWA ## UZDROWICIEL - jest podwojnie: MAESTER WYSTAN (srebro) i …
-- [300-03-03] `ustroj_urzedow`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
-- [300-03-03] `projekt_cailin`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
 - [300-03-03] `soltysi_i_samorzad_lenna_299_08`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
 - [300-03-03] `lenno_fosa_cailin_administracja_299_05`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
 - [300-03-03] `lenno/WARRYN`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
 - [300-03-03] `lenno/GARRICK`: ### SCALENIE SCHEMATU ADMINISTRACJI LENNEJ Z ISTNIEJACA OBSADA - 300-03-03. Bez rzutow (porzadkowanie wlasnych ksiag). Gracz podal pelny schemat pieciu departamentow (kancelaria / skarb / te…
+- [300-03-03] `ustroj_urzedow`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
+- [300-03-03] `projekt_cailin`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
+- [300-03-03] `spis_mieszkancow_fosy_299_06`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
+- [300-03-03] `przywilej_bagienny_fosa_300_02`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
+- [300-03-03] `soltysi_i_samorzad_lenna_299_08`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
+- [300-03-03] `lenno/MELLA`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
+- [300-03-03] `lenno/HENDRY`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…
+- [300-03-03] `lenno/WARRYN`: ### DZIEWIEC WAKATOW OBSADZONYCH NARAZ - 300-03-03, wieczor. Rozkaz gracza: 'obsadz te wakaty z rejestru Melli natychmiast'. BEZ RZUTOW - wlasne ksiegi, wlasni ludzie, wlasna decyzja (zasada…

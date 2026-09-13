@@ -4251,7 +4251,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -4302,7 +4302,7 @@
    "id": "sprawa_rymana_justycjariusz_299_08",
    "tytul": "Sprawa Rymana Cwiakla (zalozycielska krzywda: sfalszowany akt, obrabowana wdowa, martwy maester) trafia do Justycjariusza - crit-low, tylko czysta/dluga/arm-length droga",
    "status": "OTWARTA_299-08-12_droga_arm-length_dla_wdowy_(dowod_wystygl+Ryman_okopany+pulapka_przyzwoitosci)",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "stan_watku": "ZYWY",
    "stan_uwaga": "Kontynuowana, dwie warstwy: publiczna (Ryman/wdowa/Aemon) i prywatna (Stary Zamek, ksiega czeladzi 275-282; slad zauwazony, rzut 30).",
    "filar": "SPRAWA RYMANA",
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 50,
+   "_dziennik_nota": 51,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },

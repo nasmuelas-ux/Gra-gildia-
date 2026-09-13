@@ -1,4 +1,47 @@
-# DWÓR LENNA FOSY CAILIN — PROPOZYCJA USTROJU, 300-03-03
+# DWÓR LENNA FOSY CAILIN — OBSADA I USTRÓJ, 300-03-03
+
+## 0. PEŁNA OBSADA — STANOWISKO → OSOBA
+
+### 🟦 LENNO *(dwór, Kasa 2)*
+| stanowisko | osoba |
+|---|---|
+| **RZĄDCA** *(ziemia, budowy, Kasa 2)* | **WARRYN** — 11 lat na tej ziemi; **rozstrzyga budowy** |
+| **KANCLERZ OSOBISTY** *(wola, poczta, sprawy)* | **GARRICK** — pełnomocnictwo notarialne od 300-03-01 |
+| **KAPITAN** *(drużyna ~50, obrona, brama)* | **HENDRY** — od 299-05-12 |
+| ⤷ przyboczna | **STEN**, pod nim **DAGON** i **HARL** *(Harl prowadzi dziesiątkę do Dustinportu)* |
+| **MAESTER** | **WYSTAN** — srebro · czarne żelazo · miedź · **ołów** |
+| **SĘDZIA — sąd grodzki** | **RODERYK** |
+| **MAJORDOM FOSY** *(dom, izby, goście)* | **ALYS** — od 299-12 |
+| **MAJORDOM ROBÓT** | **BRAN** — od 299-12; grobla, teraz **trakt do Dorzecza** |
+| **ZIELARKA WŁOŚCI** | **NINA** · uczennica **GYTHA KĄDZIEL** *(od 300-03-02)* |
+| **REJESTR DNIÓWEK** | **MELLA** — od 300-02-28, kolumna „co umie" |
+| **SKŁAD** | **ORLAND KORZEC** |
+| **SZKLARNIE** | **WERRAN** *(Mira jako druga ręka — nieobecna)* |
+| **WODA I ŚLUZA** | **WEYLIN** |
+| **KAMIEŃ I BUDOWA** | **ORBELO** |
+| **PISARZE** | dwaj z trójki Nesty **+ pisarz przy bramie** *(obsadzony 300-03-02)* |
+
+### 🔴 PUSTE W LENNIE
+**KLUCZNIK/SZAFARZ** *(najpilniejszy — karta żywnościowa 03-07)* · **KUCHARZ** · **KONIUSZY** · **ŁOWCZY** ·
+**MŁYNARZ** *(wskazuje Hendry, potwierdza Weylin)* · **ZASTĘPCA PRZY GROBLI** *(wskazuje Bran)* · **NASIENNIK** *(wskazuje Werran)* ·
+**MIERNICZY TORFU** *(wakat po Harrolu)* · **NARYBEK** *(kanał Warryna)*
+
+### 🟨 MIASTO CAILIN *(lord nadaje, miasto sadza — NIE dwór)*
+**BURMISTRZ — HERWIN SZALA** *(dawny wagowy)* · **ŁAWA** *(próba, losowanie działek, pięć dni targowych)* · **WAGOWY — BENNIS OD WAGI** *(wybrany, pierwszy odczyt stanu ziarna)* · **Izba Miar / znak normy**
+
+### 🟩 DOM HANDLOWY TALLY *(Kasa 1 — inna księga)*
+**DYREKTOR — HAL SIEROTA** *(Biały Port)* · **SIATKA — WILLA** · **SZYFRATOR — HARROL LUT** *(od 03-02)* ·
+**ODSŁUCHIWACZKA RYNKÓW — MAEGA KOSZYK** *(Wyll Szuwar jeździ z nią, bez tytułu)* · **NOTARIUSZ DOMU** *(siedziba Fosa, operacje Biały Port — imię do potwierdzenia)* ·
+**CICHY KUPIEC** *(bez imienia; sól; rusza do 03-10)* · **NESTA** *(Braavos)* · **LUCAN** *(Dorzecze)*
+
+### ⬜ KORONA *(Kasa 3 — nie lenno)*
+**NAMIESTNIK — SYMON** · **JUSTYCJARIUSZ — lord MEDGER CERWYN** · **SKARBNIK — GAWEN** · **KANCELARIA WINTERFELL — BERON** ·
+**PIERWSZY ADMIRAŁ — TORREN SOLNY** · **MUR/STRAŻ — OSRIC** · **GŁĘBOKORZEŃ — THEOMORE** · **DORADCA W DUSTINPORCIE — THEON** ·
+🔴 **REJESTRATOR KORONY — PUSTY** *(nazwisko zastrzegł sobie Król; krzesło puste cztery miesiące)*
+
+---
+
+# USTRÓJ — PROPOZYCJA, 300-03-03
 **Nic nie nadane.** Propozycja prowadzącego na pytanie gracza.
 Zasada nadrzędna: **to nie tworzy urzędów — to NAZYWA te, które już pracują**, i wskazuje **cztery, których naprawdę brak.**
 

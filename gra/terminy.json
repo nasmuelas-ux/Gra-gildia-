@@ -501,7 +501,7 @@
       "co": "UBYTEK SKLADOWY 7 PROC. - liczba Oswyna za zime (na 100 korcy zsypanych wysypalo sie 93). DNO CENY MUSI POKRYWAC UBYTEK, inaczej sklad traci na samym trzymaniu. Dno ustalone 300-03-03 (owies 3 jelenie 20, jeczmien 3 jelenie 60) LICZONO BEZ TEGO. Przeliczyc; sprawdzic tez cztery przegrody Fosy - NIGDY nie mierzone zsyp/wysyp.",
       "kto": "ORLAND KORZEC + GERRIK RACHUBA",
       "zamyka": "poprawione dno ceny i pierwszy pomiar przegrod Fosy",
-      "status": "otwarte - NOWE"
+      "status": "PRZELICZONE 300-03-03 - trzy liczby na slup 300-03-04"
     },
     {
       "data": "300-03-03 - PRZYSZLO",
@@ -509,6 +509,27 @@
       "kto": "BERON -> SYMON",
       "zamyka": "przeczytane",
       "status": "zrobione"
+    },
+    {
+      "data": "300-03-04",
+      "co": "SLUP - TRZY POPRAWIONE LICZBY ZBOZOWE: (1) NORMA UBYTKU 7 NA STO, ogloszona; ponad norme placi SKLAD, w normie SKLADAJACY. (2) ROZPIETOSC SKLADU: owies kupuje 11 / sprzedaje 11 jeleni 80; jeczmien 12 / 12 jeleni 90. (3) DNO SPRZEDAZY: owies 3 jelenie 45, jeczmien 3 jelenie 90 (dno KUPNA zostaje 3-20 i 3-60 - podnoszenie go nie pomaga skladowi, tylko poglebia strate).",
+      "kto": "HERWIN + ORLAND + BENNIS",
+      "zamyka": "obwieszczenie",
+      "status": "otwarte"
+    },
+    {
+      "data": "PILNE - do Rady 300-03-30",
+      "co": "LICZBA MURU OD AEMONA, NIE OD OSRICA: rolka mowi DZIEWIECSET, Aemon liczy NIECALYCH SZESCIUSET, zdatnych do walki CZTERYSTU, na trzech zamkach. Punkt 0 Rady (MUR - meldunek i aklamacja) mial stac na meldunku Osrica, ktory jest zalegly. TERAZ STOI NA LICZBIE Z MURU.",
+      "kto": "SYMON",
+      "zamyka": "liczba wypowiedziana na Radzie",
+      "status": "otwarte"
+    },
+    {
+      "data": "ODPOWIEDZ NALEZNA",
+      "co": "PROSBA AEMONA: NIE ZIARNA - LUDZI, KTORZY UMIEJA CZYTAC. Ksiegi Strazy umieraja razem ze starymi. Prosi o DWOCH na rok, nie o dar. Fosa ma dzis szkole, trzech pisarzy, rejestr Melli i OCHMISTRZA NAUKI (Mabel Siwa od dzis) - po raz pierwszy jest z czego dac.",
+      "kto": "SYMON -> AEMON",
+      "zamyka": "odpowiedz i ewentualnie dwa nazwiska",
+      "status": "otwarte - do rozstrzygniecia"
     }
   ]
 }

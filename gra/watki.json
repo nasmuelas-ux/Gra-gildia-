@@ -3532,7 +3532,7 @@
    "id": "szklane_ogrody_model_zimy_299_06",
    "tytul": "Szklane ogrody Winterfell jako model przetrwania zimy dla calego krolestwa (obserwacja Miry - ZIARNO, nierozpalone)",
    "status": "ZAPROJEKTOWANE_dla_Fosy_torfem_grzane_299-06-25",
-   "_dziennik_nota": 11
+   "_dziennik_nota": 12
   },
   {
    "id": "kruk_nocna_straz_mur_299_06",
@@ -3679,7 +3679,7 @@
    "id": "spis_mieszkancow_fosy_299_06",
    "tytul": "Spis mieszkancow Moat Cailin Lands (census lenna) - fundament pod podatek/muster/relief/zime",
    "status": "WSTEPNY_SPIS_GOTOWY_299-06-23_DEFICYT_ZYWNOSCI_na_zime",
-   "_dziennik_nota": 18
+   "_dziennik_nota": 19
   },
   {
    "id": "wataha_starkow_w_komplecie_299_06",
@@ -3778,7 +3778,7 @@
    "id": "deficyt_zywnosci_fosy_zima_299_06",
    "tytul": "Deficyt zywnosci Fosy na zime - bagno rodzi opal nie chleb; brak chleba dla 200+ geb przy ostrej zimie",
    "status": "ZBUFOROWANY_299-08-11_zakup_BP_rzut29_ale_NIE_zamkniety_lekcja=wlasny_spichlerz",
-   "_dziennik_nota": 25,
+   "_dziennik_nota": 26,
    "filar": "DEFICYT ZYWNOSCI FOSY",
    "stan_watku": "ZYWY"
   },
@@ -3786,7 +3786,7 @@
    "id": "apteka_bagna_fosy_mech_zioła_299_06",
    "tytul": "Apteka bagna Fosy - mech leczniczy i zioła jako druga (lepsza) noga gospodarcza; gleboka wiedza=krannogowie/Reed",
    "status": "ODKRYTE_299-06-23_rozwinac_przez_Reeda",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11
   },
   {
    "id": "operacja_torf_za_chleb_fosa_299_06",
@@ -3804,7 +3804,7 @@
    "id": "program_rozwoju_fosy_miasteczko_cailin_299_06",
    "tytul": "Program rozwoju Fosy Cailin - miasteczko, szkola, lecznica, kadry, drużyna (Fosa z 'trzymanej' na 'budowana')",
    "status": "URUCHOMIONY_299-06-23_wykonanie_rozlozone",
-   "_dziennik_nota": 34,
+   "_dziennik_nota": 35,
    "stan_watku": "WCHLONIETY",
    "stan_data": "300-02-25",
    "scalony_z": "projekt_cailin",
@@ -4569,7 +4569,7 @@
    "id": "soltysi_i_samorzad_lenna_299_08",
    "tytul": "Soltysi wsi i miasteczka Cailin - wladza z uznania, nie z nadania",
    "status": "ROZKAZ_WYDANY_299-08-26;_odpowiedz_za_4-5_dni",
-   "_dziennik_nota": 31,
+   "_dziennik_nota": 32,
    "filar": "SOLTYSI I SAMORZAD LENNA",
    "stan_watku": "ZYWY"
   },
@@ -4759,7 +4759,7 @@
    "id": "spis_przedsiebiorstw_299_09",
    "tytul": "SPIS PRZEDSIEBIORSTW domu i lenna - inwentarz wlasny w porzadku trzech kas",
    "status": "SPORZADZONY_299-09-05",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "Obraz swiata na date (zasada 36h) - nie zamyka sie i nie otwiera, bywa aktualny albo przestarzaly. Czytac razem z data sporzadzenia."
@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -6028,7 +6028,7 @@
   {
    "id": "znajdowanie_ludzi_ktorzy_umieja_liczyc_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1,
+   "_dziennik_nota": 2,
    "filar": "LUDZIE, KTORZY UMIEJA LICZYC",
    "stan_watku": "ZYWY"
   },
@@ -6089,7 +6089,7 @@
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "filar": "STANDARD TRAKTU POLNOCY",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 32,
+   "_dziennik_nota": 33,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [

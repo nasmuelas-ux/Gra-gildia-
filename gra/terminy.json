@@ -438,7 +438,7 @@
       "co": "LIST DO MAESTERA AEMONA (Czarny Zamek). Pismo PRYWATNE - od czlowieka, ktory przysylal ziarno, nie od Namiestnika Krola; Aemon pisal do SYMONA, nie do Winterfell, i podal powod: 'to WY przysylaliscie ziarno; ludzie tutaj wiedza, czyje ono bylo'. DRUGA CISZA Z TEGO SAMEGO MIEJSCA - obok zaleglego meldunku VII Osrica.",
       "kto": "AEMON",
       "zamyka": "odpowiedz z Muru ALBO wiadomosc, ze nie zyje - a to tez jest odpowiedz",
-      "status": "otwarte - DWIE CISZE Z JEDNEGO KIERUNKU"
+      "status": "ZAMKNIETE - ODPOWIEDZ PRZYSZLA 299-09-18 I ZOSTALA PRZECZYTANA. Nie bylo tu ciszy; ja jej nie sprawdzilem."
     },
     {
       "data": "wyslany 299-09-15 - CISZA POL ROKU",
@@ -470,10 +470,10 @@
     },
     {
       "data": "300-03-03 wieczor - WYSLANE",
-      "co": "KARTA DO BERONA, JEDNO PYTANIE, DWA NAZWISKA: czy w kancelarii Korony lezy cokolwiek od MAESTERA AEMONA (od 299-09) i od STANNISA BARATHEONA (od 299-09). Ta sama forma, co przy Bryndenie Tullym 300-03-02: NAJPIERW WLASNY ZAMEK, POTEM ZARZUT. Nowa rubryka Berona z 300-03-03 ('co przyszlo do Korony, a czego Namiestnik nie widzial') jest dokladnie do tego.",
+      "co": "KARTA DO BERONA: czy w kancelarii Korony lezy cokolwiek od STANNISA (od 299-09) oraz ODPOWIEDZ AEMONA NA PYTANIE O OBSYDIAN (kruk 299-09-22) - ta ostatnia BYLA ADRESOWANA DO WINTERFELL, NIE DO SYMONA, i on jej nigdy nie widzial.",
       "kto": "BERON",
       "zamyka": "wykaz albo puste - obie odpowiedzi sa odpowiedzia",
-      "status": "ZAMKNIETE 300-03-03 - Stannis: nic. Aemon: JEDNO PISMO LEZALO W WINTERFELL"
+      "status": "otwarte - od Stannisa nic; odpowiedz Aemona o obsydianie DO ODSZUKANIA w Winterfell"
     },
     {
       "data": "PILNE - przed wyjazdem 300-03-07",
@@ -504,13 +504,6 @@
       "status": "PRZELICZONE 300-03-03 - trzy liczby na slup 300-03-04"
     },
     {
-      "data": "300-03-03 - PRZYSZLO",
-      "co": "PISMO MAESTERA AEMONA lezalo w kancelarii Korony. Nie doszlo, bo bylo adresowane PRYWATNIE do Symona Tally'ego, a stara rubryka Berona przepuszczala tylko sprawy koronne. Dokladnie ta dziura, ktora zalatala nowa rubryka z 300-03-03. OD STANNISA: NIC.",
-      "kto": "BERON -> SYMON",
-      "zamyka": "przeczytane",
-      "status": "zrobione"
-    },
-    {
       "data": "300-03-04",
       "co": "SLUP - TRZY LICZBY ZBOZOWE, PRZELICZONE POPRAWNIE 300-03-03: (1) NORMA UBYTKU 7 NA STO, ogloszona; w normie placi SKLADAJACY, ponad norme SKLAD. (2) NARZUT SKLADU 7,53 PROC. (nie 7 - zeby odzyskac 7 straconych, trzeba dolozyc 7,53): owies kupuje 11 / sprzedaje 11 jeleni 83; jeczmien 12 / 12 jeleni 90. (3) DNO SPRZEDAZY: owies 3 jelenie 44, jeczmien 3 jelenie 87. Dno KUPNA zostaje 3-20 i 3-60.",
       "kto": "HERWIN + ORLAND + BENNIS",
@@ -519,17 +512,10 @@
     },
     {
       "data": "PILNE - do Rady 300-03-30",
-      "co": "LICZBA MURU OD AEMONA, NIE OD OSRICA: rolka mowi DZIEWIECSET, Aemon liczy NIECALYCH SZESCIUSET, zdatnych do walki CZTERYSTU, na trzech zamkach. Punkt 0 Rady (MUR - meldunek i aklamacja) mial stac na meldunku Osrica, ktory jest zalegly. TERAZ STOI NA LICZBIE Z MURU.",
+      "co": "LICZBA MURU - MA JUZ SZESC MIESIECY. List Aemona przyszedl i zostal przeczytany 299-09-18: MORMONT ZABITY PRZEZ WLASNYCH, OBJAZD WYBITY, MANCE PROWADZI CALY LUD, NIESPELNA SZESCIUSET LUDZI NA TRZYSTA MIL. Symon nazwal to wtedy: 'to nie jest wiadomosc, to jest zapalka' i NIE PODAL TRESCI UMBEROWI. PUNKT 0 WIELKIEJ RADY (MUR - meldunek i aklamacja) STOI DZIS NA TEJ SZESCIOMIESIECZNEJ LICZBIE, bo meldunek VII Osrica jest zalegly. NIC NOWEGO Z MURU NIE PRZYSZLO OD WRZESNIA.",
       "kto": "SYMON",
-      "zamyka": "liczba wypowiedziana na Radzie",
-      "status": "otwarte"
-    },
-    {
-      "data": "ODPOWIEDZ NALEZNA",
-      "co": "PROSBA AEMONA: NIE ZIARNA - LUDZI, KTORZY UMIEJA CZYTAC. Ksiegi Strazy umieraja razem ze starymi. Prosi o DWOCH na rok, nie o dar. Fosa ma dzis szkole, trzech pisarzy, rejestr Melli i OCHMISTRZA NAUKI (Mabel Siwa od dzis) - po raz pierwszy jest z czego dac.",
-      "kto": "SYMON -> AEMON",
-      "zamyka": "odpowiedz i ewentualnie dwa nazwiska",
-      "status": "otwarte - do rozstrzygniecia"
+      "zamyka": "swiezy meldunek z Muru PRZED Rada 300-03-30 - od Osrica albo wprost z Czarnego Zamku",
+      "status": "otwarte - PILNE, liczba sie starzeje i to ona otwiera Rade"
     },
     {
       "data": "PILNE - przed wyjazdem 300-03-07",
@@ -537,6 +523,13 @@
       "kto": "GARTH (ksiega) + GERRIK RACHUBA (rachunek)",
       "zamyka": "rozklad wozow i wartosci za trzy tygodnie",
       "status": "otwarte - NOWE"
+    },
+    {
+      "data": "wyslany 299-09-22 - ODPOWIEDZ NIGDY NIE DOSZLA DO SYMONA",
+      "co": "PYTANIE O OBSYDIAN DO MAESTERA AEMONA. Pytanie wymyslil BRAN STARK 299-09-08: 'Pierwsi Ludzie mieli juz braz; po co lud, ktory zyl obok ludzi z metalem, trzymal sie nozy z kamienia - albo byli glupi, albo kamien robil cos, czego braz nie robil'. Kruk poszedl do najstarszego maestera w Westeros. ### W ZAPISIE STOI WPROST: 'ODPOWIEDZ PRZYJDZIE DO WINTERFELL, NIE DO SYMONA'. To ten sam ksztalt, co pismo Rejestratora - odpowiedz zaadresowana obok Namiestnika. ### SPRAWA NIE JEST DZIS CIEKAWOSTKA: Reed potwierdzil obsydian 299-10-04 (stare ostrza WYCHODZA Z TORFU, a torfiarnie Fosy tna ten sam torf), a 300-01-26 SYMON POWIEDZIAL WYMANOWI 'CZARNE SZKLO' i Wyman pierwszy raz tego wieczoru byl zaskoczony. ODPOWIEDZ AEMONA JEST JEDYNYM ZRODLEM ARCHIWALNYM, KTOREGO W TEJ SPRAWIE NIE ODCZYTANO.",
+      "kto": "BERON - odszukac w kancelarii Winterfell",
+      "zamyka": "odpowiedz Aemona w rece Symona ALBO potwierdzenie, ze nie dotarla",
+      "status": "otwarte"
     }
   ]
 }

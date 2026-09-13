@@ -2,12 +2,12 @@
  "data": {
   "rok": 300,
   "miesiac": 3,
-  "dzien": 2,
+  "dzien": 3,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 69 (300-03-02) - NOC BYLA LAGODNA I TO JEST CALA WIADOMOSC. Mroz nie wrocil, wiec grunt NIE STWARDNIAL DO SWITU. SKUTKI: (1) ### OKNA PODROZNEGO Z WCZORAJ NIE MA I NIE BEDZIE - wczoraj dzialalo tylko dlatego, ze mroz trzymal ziemie do drugiej godziny; dzis wierzch jest miekki od rana. ### (2) KOLUMNA BRANA NA TRAKT IDZIE WOLNO albo czeka; (3) ROZPOZNANIE ORBELA ZYSKUJE - miekki wierzch nad zmarznietym spodem to najlepszy dzien na badanie NOSNOSCI; (4) ### CERWYN JEDZIE PO TYM SAMYM BLOCIE - przyjedzie POZNO, nie o switu, a ma tu tylko trzy dni.",
+ "pogoda": "RZUT 37 (300-03-03) - WIATR SKRECIL NA POLNOCNY, ZIMNIEJ, ALE MROZU NIE MA. Wierzch blota zaczal sychnac i zrobil SKORUPE, pod ktora zostala maz. SKUTKI: (1) DLA WOZOW GORZEJ NIZ WCZORAJ - kolo przelamuje skorupe i zapada sie glebiej; kolumna Harla i Theona idzie wolniej. (2) DLA PIESZYCH I DLA POMIARU DOBRZE - partia Brana chodzi i mierzy bez przeszkod, a nosnosc nadal czytelna. (3) KRUKI LECA NORMALNIE - list jencow wyszedl o brzasku bez przeszkod.",
  "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
@@ -141,7 +141,7 @@
  "lokacja": "FOSA CAILIN. Cerwyn 2.-5. III. Wyjazd 300-03-07.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "noc",
+ "pora_dnia": "ranek",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "FOSA CAILIN - wlasne lenno, brama",
  "geografia_lod_porty_299_08": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 91,
+ "_dziennik_nota": 92,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

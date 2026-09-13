@@ -182,7 +182,17 @@ Nie dubluje się ich.
 
 ---
 
-# CZĘŚĆ C — LICZBY, PROPOZYCJA PROWADZĄCEGO
+# CZĘŚĆ C — LICZBY. ### ✅ ROZSTRZYGNIĘTE 300-03-02, RĘKĄ SYMONA
+
+> **① PRÓG** — 30 korcy / 14 dni / **na jeden rachunek** — *bez zmiany*
+> **② UŁAMEK Z LOSU** — **1 na 12** — *bez zmiany; sprawdzone, że obsadzenie bramy tego nie podnosi (pisarz pisze, nie otwiera)*
+> **③ PRZYMUS SKŁADU** — **trzy dni, ale wystawia je ŁAWA HERWINA, na słup, przed 03-07.** Symon niesie Królowi to, co napisze ława — także jeśli napisze inną liczbę. *„Lord nadaje, miasto sadza"*
+> **④ PUŁAP** — **⅕, mianownik ZMIENIONY:** nie „obrót okręgu", lecz ### **to, co przeszło przez KSIĘGĘ TARGU tego miasta w roku poprzednim.** ### *Mianownikiem musi być księga, która istnieje, a nie terytorium, którego nikt nie narysował*
+> **⑤ CENA MINIMALNA** — reguła, **ale z ilością i miejscem:** cena z poprzedniego żniwa *(z księgi targu)* — **do tylu a tylu korcy** — **w składzie Fosy Cailin.** ### Ilość do 03-09 = **to, co już leży**, ani jednego korca pożyczonego. ### **Idzie na słup PRZED 300-03-07 — nie czeka na Radę**
+
+*(Poniżej: propozycje z 02-28 i uzasadnienia, na których te rozstrzygnięcia stanęły.)*
+
+## CZĘŚĆ C — LICZBY, PROPOZYCJA PROWADZĄCEGO
 
 | | liczba | **skąd ta liczba, a nie inna** |
 |---|---|---|

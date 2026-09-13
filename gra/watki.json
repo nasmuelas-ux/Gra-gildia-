@@ -2888,7 +2888,7 @@
    "id": "projekt_odpowiedzi_zelazni_1113",
    "tytul": "Projekt 3 ruchow na zelaznych (skonsultowany z Bryndenem)",
    "status": "wykonany_dojrzewa",
-   "_dziennik_nota": 2,
+   "_dziennik_nota": 3,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
@@ -3481,7 +3481,7 @@
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
-   "_dziennik_nota": 10,
+   "_dziennik_nota": 11,
    "stan_watku": "ZYWY",
    "stan_uwaga": "FILAR: wszystkie dzialania polityczne zewnetrzne i wywiad. Mierzy sie kanalami, nie postepem. Najwieksza biala plama: dwor Krolewskiej Przystani."
   },
@@ -5649,7 +5649,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 36,
+   "_dziennik_nota": 37,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },

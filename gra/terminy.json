@@ -2109,12 +2109,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "⚠ SER DAVOS - PYTANIE WYMANA JEST NAJOSTRZEJSZE Z CALEJ LISTY: 'nie chce wiedziec, CO wozicie - chce wiedziec, CZY MAM TEGO NIE WIDZIEC'. ### TRZECIE WYJSCIE NIE ISTNIEJE I TO JEST CALA TRUDNOSC: albo pan miasta WIE i ma oslone, albo NIE WIE i naprawde nic go nie laczy. STAN POSREDNI - 'domysla sie i przymyka oko' - jest jedynym, ktory mu szkodzi, bo czlowiek, ktorego poproszono, zeby nie patrzyl, ma potem cudza reke na gardle do konca zycia. ### ZA POWIEDZENIEM: Davos sam zaoferowal kanal ('jak bedziecie potrzebowali przewiezc cos jeszcze, PYTAJCIE MNIE, NIE KAPITANA'), a rzecz idzie pod pieczecia Korony, nie prywatnie - wiec jest to sprawa panstwa, ktorej pan portu ma prawo znac ksztalt. ### ZA NIEPOWIEDZENIEM: Wyman ma syna w niewoli na poludniu (Wylis) i kazda jego wiedza o kontakcie ze Stannisem jest czyms, czym mozna go kiedys przycisnac. ### TO JEST DECYZJA GRACZA I NIE MA W NIEJ ODPOWIEDZI BEZPIECZNEJ.",
+   "co": "⚠ SER DAVOS - PYTANIE WYMANA JEST NAJOSTRZEJSZE Z CALEJ LISTY: 'nie chce wiedziec, CO wozicie - chce wiedziec, CZY MAM TEGO NIE WIDZIEC'. ### TRZECIE WYJSCIE NIE ISTNIEJE I TO JEST CALA TRUDNOSC: albo pan miasta WIE i ma oslone, albo NIE WIE i naprawde nic go nie laczy. STAN POSREDNI - 'domysla sie i przymyka oko' - jest jedynym, ktory mu szkodzi, bo czlowiek, ktorego poproszono, zeby nie patrzyl, ma potem cudza reke na gardle do konca zycia. ### ZA POWIEDZENIEM: Davos sam zaoferowal kanal ('jak bedziecie potrzebowali przewiezc cos jeszcze, PYTAJCIE MNIE, NIE KAPITANA'), a rzecz idzie pod pieczecia Korony, nie prywatnie - wiec jest to sprawa panstwa, ktorej pan portu ma prawo znac ksztalt. ### ZA NIEPOWIEDZENIEM: Wyman ma syna w niewoli na poludniu (Wylis) i kazda jego wiedza o kontakcie ze Stannisem jest czyms, czym mozna go kiedys przycisnac. ### TO JEST DECYZJA GRACZA I NIE MA W NIEJ ODPOWIEDZI BEZPIECZNEJ. ### ⚠ VOID CZESCI 'ZA NIEPOWIEDZENIEM': 'WYMAN MA SYNA W NIEWOLI NA POLUDNIU' JEST NIEPRAWDA I ZAPIS MOWI TO WPROST. WYLIS MANDERLY ZOSTAL UWOLNIONY 298-11-16, eskorta na polnoc 11-18, wrocil do obozu z kontyngentem Manderlych 11-20. Watek zamkniety. ### I WIECEJ: 299-08-19 WYLIS SAM ZAOFEROWAL MIEJSCE DLA MIRY I LYRY w kolumnie Manderlych, nie dal Symonowi dokonczyc prosby, dowiozl je do Bialego Portu DZIEN PRZED SNIEGIEM i KAZDEGO WIECZORA nieproszony sam sprawdzal ich oboz. Wiez Tally-Manderly nie jest punktem nacisku - jest SPLACONYM DLUGIEM HONOROWYM. ### TO JEST DRUGI RAZ TEN SAM BLAD: 300-02-25 wpisalem 'Wylis Manderly - jeniec, bez ruchu od jesieni' i wtedy tez zapis mowil cos przeciwnego. Z tamtego bledu wziela sie ZASADA 1a: WPIS BEZ ZRODLA NIE JEST ZAPISEM. Zlamalem wlasna zasade na tym samym czlowieku. ### DECYZJA GRACZA: SYMON MOWI WYMANOWI. Niech wie i ma oslone.",
    "kto": "SYMON -> WYMAN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "powiedziane albo nie - i Wyman wie, ktore z dwojga",
-   "status": "otwarte - DECYZJA GRACZA"
+   "status": "zrobione 300-03-12 - SYMON MOWI"
   },
   {
    "data": "300-03-12",
@@ -2123,6 +2123,15 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "korce z portu z rubryka stanu przy kazdej partii - albo swiadome nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "SER DAVOS I PRZELADUNEK - WYMAN WIE I MA OSLONE. Powiedziane wprost, pod pieczecia Korony, a nie jako prosba o przymkniecie oka. ### CO TO DAJE WYMANOWI: dzialal na slowo Namiestnika w sprawie Korony - to jest odpowiedz, ktora wytrzyma kazde pytanie, a 'nie widzialem' nie wytrzymuje zadnego. ### CO TO DAJE SPRAWIE: przeladunek idzie przez ludzi pana portu, a nie obok nich. Rzecz, ktora sie chowa przed gospodarzem, chowa sie tez przed jego wiedza o pogodzie, o cumach i o tym, kto akurat stoi przy nabrzezu. ### ⚠ CENA, JEDYNA REALNA: OBWOD TAJEMNICY SIE POSZERZA. Dotad wiedzieli Symon, Hal, Dagon i Davos. Teraz takze dom Manderlych - a dom to nie jeden czlowiek, tylko maester, kasztelan i ci, ktorzy nosza. Nie da sie powiedziec panu miasta i nie powiedziec miastu na wpol.",
+   "kto": "SYMON -> WYMAN -> HAL -> ser DAVOS",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "przeladunek przygotowany jawnie wobec pana portu",
    "status": "otwarte"
   }
  ]

@@ -21,9 +21,21 @@ Rozbicie Białego Portu i Fosy HQ na linie (765 / 515 / 325 / 195 oraz 555 / 360
 | **KASA 3 — Skarb Północy** | **~3500 w monecie** | wyprowadzone z zapisu: 695 to „niemal jedna piąta wszystkiego, co Korona bierze w monecie przez cały rok" |
 
 > ### **A → B, i to jest cała mechanika Północy:**
-> **Dom Handlowy Namiestnika zarabia w roku mniej więcej tyle, ile całe królestwo bierze w monecie.**
+> **Dom Handlowy Namiestnika ma roczny przepływ MONETY porównywalny z tym, co Korona ściąga W MONECIE.**
 > Stąd wszystko inne: dlaczego Gawen nie może zapłacić 695 · dlaczego Korona płaci przywilejem, nie srebrem ·
-> dlaczego 100 smoków oddane Skarbowi jest realną ulgą · dlaczego Północ jest bogata w rzeczach, a biedna w pieniądzu.
+> dlaczego 100 smoków oddane Skarbowi jest realną ulgą.
+
+### ⚠ ALE TO NIE ZNACZY, ŻE DOM JEST RÓWNY KRÓLESTWU — I TO JEST NAJWAŻNIEJSZE ROZRÓŻNIENIE W CAŁEJ TEJ TECE
+
+**3500 to WYŁĄCZNIE moneta Korony. Nie jest to dochód Północy.**
+
+Północ prawie się nie monetyzuje. Czynsze są **tłuste w naturze**, daniny idą **zbożem, ludźmi, robocizną i służbą**, podatek w ziarnie jest osobnym narzędziem właśnie dlatego, że *„Wschód nie ma srebra — Wschód ma zboże"*. Świadczenia w naturze są **wielokrotnie większe od monetarnych** — z grubsza pięć do dziesięciu razy. Realny pobór królestwa to porządek **dwudziestu-trzydziestu tysięcy w równowartości**, z czego srebrem przechodzi jakieś 3500.
+
+**Dom nie jest wielki jak królestwo. Dom jest wielki w tej jednej wąskiej rzeczy, której królestwu brakuje: w pieniądzu i w towarze zbywalnym.**
+
+**Sprawdzian, który to potwierdza:** danina Fosy Cailin — lordostwa z fortecą, miastem, bramą, groblą i regale torfowym — wynosi **20-40 smoków rocznie**. Przy trzydziestu-czterdziestu takich lordostwach plus wielkie domy i cła, **3500 w monecie wychodzi samo.** Te dwie liczby nie zostały do siebie dopasowane — one się po prostu zgadzają.
+
+**I drugi sprawdzian, zrobiony dziś wieczorem na żywo:** Dom o rocznym zysku ~3400 **nie umiał znaleźć 340 w gotówce.** Obrót to nie jest skrzynia. Dom jest gruby w rzeczach i chudy w monecie — czyli dokładnie tak samo jak królestwo, tylko o dwa rzędy wielkości niżej.
 
 ---
 

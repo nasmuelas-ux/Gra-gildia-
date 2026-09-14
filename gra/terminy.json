@@ -1749,12 +1749,21 @@
   },
   {
    "data": "300-03-11",
-   "co": "DZIURA STU SMOKOW W MARCU - DO ZAMKNIECIA PRZED KONCEM MIESIACA. 340 w wekslach zapada, moneta poszla Koronie. ### DROGI, KTORE HAL WYLICZYL: (a) SPRZEDAC PIERWSZA PARTIE POD DATE - koszt 15-30 smokow urwanej marzy, nikogo nie trzeba prosic; (b) ROLOWAC CZESC PAPIERU - trzeba pytac trzymajacych, a Lucan dyskontowal te weksle, wiec pytanie idzie przez niego; (c) PODSTAWIC POD WEKSLE UZNANY DLUG KORONY - Gawen uznal 695 W CALOSCI I NA PISMIE, wiec to jest papier lepszy niz zboze, ale wiaze Dom z wyplacalnoscia Skarbu, ktory w tym miesiacu odpisal na jedna pozycje z pieciu; (d) KASA 1 - i to jest pytanie do bilansu, nie do rozmowy. ### ⚠ DECYZJA NALEZY DO PANA I NIE MA W NIEJ DROGI DARMOWEJ.",
+   "co": "⚠ VOID: 'DZIURA STU SMOKOW W MARCU - CZTERY DROGI'. Skasowane w godzine po postawieniu, na wskazanie gracza ('co z bilansem za ostatnie czasy, ustawialismy sie na to'). ### TRZY BLEDY NARAZ, WSZYSTKIE Z JEDNEGO ZRODLA - NIE PRZECZYTALEM WLASNEGO ZAPISU: (1) 'KASA 1 - pytanie do bilansu': KASA 1 MA OKOLO PIETNASTU SMOKOW WOLNEJ GOTOWKI MIESIECZNIE. To nie jest zapas, tylko strumien. Przy 340 wykup nie jest droga trudna - JEST NIEMOZLIWY, i bylo to policzone 300-03-01. (2) 'sprzedac pierwsza partie pod date, 15-30 urwanej marzy': NIEPOTRZEBNE, bo plan nigdy nie zakladal sprzedazy pod date. (3) 'sto oddane Koronie kosztuje realnie 115-130': ZAWYZONE OKOLO DZIESIECIOKROTNIE. ### ROZWIAZANIE ISTNIALO OD 300-03-01 I BYLO ZAPISANE: 340 IDZIE NA ROLOWANIE, NIE NA WYKUP.",
    "kto": "SYMON + HAL",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
-   "zamyka": "sto zamkniete jedna z czterech drog, na pismie",
-   "status": "otwarte - DECYZJA GRACZA"
+   "zamyka": "skasowane",
+   "status": "VOID 300-03-11 - POZYCJA POSTAWIONA NA MOIM BLEDZIE"
+  },
+  {
+   "data": "300-03-11",
+   "co": "BILANS DOMU HANDLOWEGO TALLY - BIALY PORT, WIECZOR. Bez rzutu (wlasny dyrektor, zasada 7). ### ⓘ WEKSLE: 420 WYSTAWIONYCH · 80 WYKUPIONYCH I UMORZONYCH · 340 ZAPADA W TYM MIESIACU. ### ⓘ KASA 1: OKOLO 15 SMOKOW WOLNEJ GOTOWKI MIESIECZNIE - strumien, nie zapas. PRZY 340 WYKUP NIE JEST TRUDNY, TYLKO NIEMOZLIWY, i bylo to wiadome od 300-03-01. ### ⓘ KORONA: 695 uznane w calosci przez Gawena, termin minal 300-03-01, splata CALA W TOWARZE (zmiana gracza 300-03-06), pierwsza partia ~300-03-13, sol i ryba solona pierwsze. ### ⓘ ZYSK Z OBROTU: ok. 104 brutto, 70-82 NETTO - i to jest jedyny realny przyrost Kasy 1 w tym kwartale. ### ⓘ ATELIER MIRY NIE JEST DOMU HANDLOWEGO i do bilansu nie wchodzi (granica powtarzana w kazdym liscie do Hala). ### ROZWIAZANIE, KTORE STOI OD 300-03-01: 340 IDZIE NA ROLOWANIE. NOWY TERMIN 90 DNI (~300-06-11), ZABEZPIECZENIE ZDJETE Z ZIARNA SIEWNEGO i przeniesione na SOL, RYBE SOLONA I SKLADOWE BIALEGO PORTU - rzeczy, ktorych lord nikomu nie zakazuje ruszac. POWOD PODAWANY WIERZYCIELOM WPROST, BO I TAK BEDZIE JAWNY. ### CO ZMIENILA REZYGNACJA ZE STU W MONECIE: roluje sie 340 zamiast ~240. KOSZT: dodatkowe dyskonto od stu przez kwartal, RZEDU SZESCIU DO DZIESIECIU SMOKOW. NIE 115-130. ### Sto smokow wolnej monety zostalo w Skarbie w miesiacu, w ktorym Skarb nie mial czym - za szesc do dziesieciu smokow dyskonta. TO BYL DOBRY INTERES I WYGLADAL NA GEST.",
+   "kto": "HAL SIEROTA + LUCAN (dyskontowal te weksle)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "rolowanie 340 na 90 dni podpisane, zastaw przeniesiony na sol/rybe/skladowe",
+   "status": "otwarte"
   }
  ]
 }

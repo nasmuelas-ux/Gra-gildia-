@@ -2478,20 +2478,29 @@
   },
   {
    "data": "300-03-13",
-   "co": "PRZYSTAN NA BIALYM NOZU - RUSZA PIERWSZA I RUSZA JUTRO. Istnieje w zalazku, zakole wskazal sam Wyman ('tam, gdzie barki ustepuja wozom'), a jutro i tak siadamy z nim do podpisu. ### TO JEST TEZ DOWOD, KTORY BEDZIE POTRZEBNY NA RADZIE: lord, ktory ma pokazac Boltonowi i Karstarkowi, jak wyglada przystan Korony na cudzej rzece, musi miec JEDNA STOJACA, a nie rysunek. Pierwsza przystan nie jest pierwsza z pieciu - jest ARGUMENTEM ZA POZOSTALYMI CZTEREMA.",
+   "co": "PRZYSTAN NA BIALYM NOZU - RUSZA PIERWSZA I RUSZA JUTRO. Istnieje w zalazku, zakole wskazal sam Wyman ('tam, gdzie barki ustepuja wozom'), a jutro i tak siadamy z nim do podpisu. ### TO JEST TEZ DOWOD, KTORY BEDZIE POTRZEBNY NA RADZIE: lord, ktory ma pokazac Boltonowi i Karstarkowi, jak wyglada przystan Korony na cudzej rzece, musi miec JEDNA STOJACA, a nie rysunek. Pierwsza przystan nie jest pierwsza z pieciu - jest ARGUMENTEM ZA POZOSTALYMI CZTEREMA. ### ⚠ UWAGA GRACZA 300-03-12: 'na Bialym Nozu nie trzeba przystani, bo jest Bialy Port'. ### CO MOWI ZAPIS, ZEBY DECYZJA BYLA NA LICZBACH, A NIE NA MOIM ZDANIU: pozycja z 298 nie dotyczy UJSCIA, tylko ZAKOLA W GORE RZEKI - 'tam, gdzie BARKI USTEPUJA WOZOM', wskazanego przez samego Wymana. To jest glowa zeglugi, czyli miejsce, gdzie ladunek I TAK MUSI BYC PRZELADOWANY z wody na kolo. ### Bialy Port obsluguje ujscie; zakole obsluguje przejscie na lad w glab kraju. To dwie rozne rzeczy na tej samej rzece - ale jesli pan uzna, ze korytarz rzeczny radzi sobie bez wagi w tym punkcie, pozycja odpada i zostaja CZTERY.",
    "kto": "SYMON + WYMAN + WEYLIN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "przystan na Bialym Nozu wpisana do jutrzejszej umowy i ruszajaca",
-   "status": "otwarte - JUTRO"
+   "status": "otwarte - DO ROZSTRZYGNIECIA PRZEZ GRACZA"
   },
   {
    "data": "300-03-30",
-   "co": "⚠ ROOSE BOLTON JEST BRAMA CALEGO PLANU PIECIU PRZYSTANI - i nie da sie tego obejsc. Dwie rzeki Dreadfortu, warunek 'albo nad wszystkimi, albo nad zadna', i czlowiek, ktory czyta wage Korony przy swojej rzece dokladnie tak, jak trzeba ja czytac. ### CO MU SIE OFERUJE, A CZEGO DOTAD NIE OFEROWANO NIKOMU NA WSCHODZIE: nie kontrola z uprzejma nazwa, tylko CENA ZA DRZEWO, KTORE JUZ MA, i szopa, ktora stawia SAM i ktora jest JEGO. ### CZEGO NIE WOLNO ROBIC: prosic go osobno i po cichu przed Rada. Rzecz, ktora ma stanac nad pieciu rzekami piatu domow, prosi sie o nia PRZY WSZYSTKICH - inaczej kazdy z pozostalych czterech bedzie sie zastanawial, co obiecano temu jednemu. ### ⚠ ZBIEG, KTORY TRZEBA MIEC NA OKU: do Roose'a idzie juz jedno pismo w sprawie weksla, z terminem 'odpowiedz albo milczenie do Rady'. Dwie sprawy do tego samego czlowieka w tym samym miesiacu - i jedna z nich jest o tym, ze cos u niego nie zgadza sie w ksiegach.",
+   "co": "⚠ VOID: 'Roose Bolton jest brama calego planu'. POPRAWKA GRACZA 300-03-12: 'NIE BEDE O NIC PROSIL - TO BEDZIE PROPOZYCJA DO LORDOW ZBUDOWANIA PORTOW'. ### I TO ZNOSI BRAME. Nikt nie prosi Roose'a o zgode na wage Korony przy jego rzece - wszystkim piatu sklada sie TE SAMA OFERTE. Kto ja wezmie, ma przystan i cene za drzewo; kto nie wezmie, nie ma - i wylacza sie SAM, przy wszystkich. ### Dreadfort przestaje byc warunkiem powodzenia i staje sie jednym z pieciu adresow.",
    "kto": "SYMON -> ROOSE BOLTON, na Radzie",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "zgoda Dreadfortu na dwie przystanie - albo plan pieciu upada w calosci",
+   "status": "VOID 300-03-12 - ZMIANA FORMY PRZEZ GRACZA"
+  },
+  {
+   "data": "300-03-30",
+   "co": "PRZYSTANIE WSCHODU JAKO PROPOZYCJA, NIE PROSBA - ZMIANA FORMY, KTORA ZMIENIA CALA POZYCJE. Rozstrzygniecie gracza 300-03-12: 'nie bede o nic prosil'. ### CO SIE KLADZIE NA STOLE, TA SAMA TRESCIA DLA KAZDEGO: POSTAW SZOPE Z PODLOGA NAD SWOJA RZEKA. KORONA PRZYWIEZIE WAGE, SLUP Z OGLOSZONA CENA, KSIEGE I CZLOWIEKA. TWOJE DRZEWO DOSTANIE CENE, KTORA DZIS MA TYLKO TEN, KTO SIEDZI PRZY MORZU. ### DLACZEGO TO NIE JEST PROSBA: bo nie prosi sie o pozwolenie na zrobienie komus przysporzenia. Lord, ktory bierze, dostaje cene za drzewo, ktore juz ma. Lord, ktory nie bierze, NIE TRACI NIC POZA TYM, CZEGO I TAK NIE MIAL - i nikt go o nic nie prosil, wiec nie ma czego odmawiac. ### I TU ROZWIAZUJE SIE STARY WARUNEK 'ALBO NAD WSZYSTKIMI, ALBO NAD ZADNA'. Postawiono go dlatego, ze przystan TYLKO nad rzekami Dreadfortu bylaby nadzorem pod uprzejma nazwa. PRZY PROPOZYCJI ZLOZONEJ WSZYSTKIM NARAZ I TA SAMA TRESCIA WARUNEK JEST SPELNIONY Z GORY: rowna jest OFERTA, a nie przyjecie. Kto ja wezmie, to jego sprawa i jego rzeka. ### ⚠ I TO JEST JEDYNA POZYCJA NA TEJ RADZIE, PRZY KTOREJ NIKT NIC NIE ODDAJE. Wszystko inne, co tam idzie - przegroda siewna, podatek w ziarnie, pulap, klauzula V - jest ciezarem. Ta jedna jest ofiarowaniem.",
+   "kto": "SYMON -> RADA 300-03-30, wiazka V",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "propozycja zlozona wszystkim piatu ta sama trescia; kto bierze, ten bierze",
    "status": "otwarte"
   }
  ]

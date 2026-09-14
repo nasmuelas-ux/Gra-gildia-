@@ -1,4 +1,5 @@
 # PRAWO SPICHLERZA PÓŁNOCY
+### **Prawo o zapasie żywności** — zboże jest jego miarą, nie jego przedmiotem *(poprawka 300-03-03, Część VIII)*.
 ### Jedna ustawa. 300-03-03. **Zastępuje i wchłania:** *prawo o składach — cztery poprawki* (02-28/03-03) oraz *Spichlerz Północy — wiązka druga* (02-28). Tamte dwa pliki zostają jako materiał źródłowy.
 
 ---
@@ -241,6 +242,63 @@ Wagowy, składnik albo pisarz, u którego waga nie zgadza się z księgą: **tra
 ### APELACJA
 Sąd grodzki orzeka na miejscu. **Od jego wyroku apelacja idzie do JUSTYCJARIUSZA** — ta sama droga, co przy wszystkim innym w tym królestwie.
 **Korona daje regułę, miejscowy sąd orzeka, Justycjariusz poprawia.**
+
+---
+
+# CZĘŚĆ V-quater — **ŻYWNOŚĆ, NIE TYLKO ZBOŻE** *(poprawka 300-03-03)*
+
+> ### Ustawa nazywa się prawem o spichlerzu, ale rzecz, której broni, to **nie ziarno — to dni życia.**
+> **Zboże jest miarą, nie przedmiotem.**
+
+### CO OBEJMUJE OD DZIŚ
+**ziarno · rośliny jadalne i strączki · ryba świeża i solona · mięso solone i suszone · ptactwo wodne i zwierzyna · sól · miód · nabiał trwały · warzywo ze szklarni**
+
+### 1. Co przenosi się BEZ ZMIANY — bo to rzeczy o widoczności, nie o zbożu
+
+- **RUBRYKA STANU** — i tu przenosi się najmocniej. **Zepsuta ryba zabija szybciej niż sporysz.** Nie „ile", tylko „jakie".
+- **SPRZEDAŻ POZA TARGIEM POWYŻEJ PROGU — NIEWAŻNA, NIE KARALNA.**
+- **CZĘŚĆ V — KTO MOŻE KUPOWAĆ.** Wykupienie solonej ryby Północy jest tym samym, co wykupienie jej zboża.
+- **ZAKAZ WYWOZU** — **to już obejmuje całą żywność** od 299-09-09, nie samo ziarno. Tu tylko się to przypomina, nie ustanawia.
+- **ZIARNO ZEPSUTE → JEDZENIE ZEPSUTE.** Palone przy dwóch świadkach, wpisane, **nigdy przecenione.**
+
+### 2. Co wymaga **własnej formy**, bo zbożowa nie pasuje
+
+**CENA MINIMALNA** ogłaszana jest **przed siewem** — ryba nie ma siewu.
+> **Dla każdego rodzaju żywności cenę minimalną ogłasza się PRZED JEGO PORĄ:**
+> ziarno **przed siewem** · ryba **przed tarłem** · zwierzyna **przed rykowiskiem** · szklarnia **przed sadzeniem**.
+> **Zasada jest ta sama: ten, kto ma to zdobyć, dowiaduje się, zanim się trudzi.**
+
+**PRZYMUS SKŁADU** dotyczy **tylko towaru, który wytrzyma trzy dni na wozie.** Świeża ryba i mleko — **nie**. *Prawo, które każe wystawić towar, który przez ten czas zgnije, nie jest prawem o składzie — jest grzywną.*
+
+### 3. ⚡ PROGI GŁODU — **i tu poprawka wymusza rzecz, której jeszcze nie mamy**
+
+Progi liczy się w **dniach chleba**. Żeby liczyć w nich rybę, mech i węgorza, potrzebny jest **PRZELICZNIK: ile dni żywi beczka solonej ryby, korzec strączków, połeć suszonego mięsa.**
+
+> ### TEN PRZELICZNIK JUŻ ZAMÓWIONO — I NIE WIEDZĄC, ŻE BĘDZIE PRAWEM.
+> **Kanon jadła Północy**, zlecony Wystanowi 300-03-02: *co siać, co do szklarni, co hodować, co łowić*, dieta z waloru miejscowego. **Termin 300-03-09.**
+> Od dziś to nie jest spis potraw. **To jest tabela przeliczeniowa ustawy.**
+
+**Staging, żeby nie ogłaszać liczby, której nie da się trafić:**
+- **KARTA Z 300-03-07** liczy **samo zboże**. Przelicznika jeszcze nie ma.
+- **KARTA Z 300-04-07 i każda następna** liczy **całą żywność wedle kanonu**.
+> Dzień, w którym karta zacznie liczyć węgorza, jest dniem, w którym **liczba dni Fosy podskoczy** — i trzeba to powiedzieć z góry, żeby nikt nie wziął tego za cud albo za fałszerstwo.
+
+### 4. Co to robi z ludźmi, którzy już siedzą na krzesłach
+
+**ŁOWCZY** *(Hakon od Jaszczura, od 300-03-03)* przestaje być myśliwym pana — **staje się urzędem, który wnosi liczby do karty.**
+**SZKLARNIE** *(Werran)* i **NASIENNIK** *(Helwa)* — warzywo wchodzi do rachunku dni, nie tylko do stołu.
+**APTEKA BAGNA** *(Nina + Wystan)* — mech nie jest jedzeniem i **nie wchodzi**; wchodzi to, co się je.
+**WARZELNIA I SOLARNIA W BIAŁYM PORCIE** *(Hal)* — **sól i ryba solona są od dziś żywnością w rozumieniu ustawy, a jednocześnie zabezpieczeniem weksli.** To jest zbieg, który trzeba mieć na oku: *rzecz zastawiona i rzecz reglamentowana to ta sama beczka.*
+
+### 5. Czego ta poprawka **nie** robi
+
+**Nie dotyka torfu.** Torf grzeje, nie żywi — a rozciągnięcie ustawy na opał zrobiłoby z niej prawo o wszystkim, czyli o niczym.
+**Nie zmienia progu 30 korcy.** Dla innych rodzajów próg liczy się **przelicznikiem na korce**, nie osobnymi liczbami. **Jedna liczba, jedna miara.**
+**Nie tworzy nowego urzędu.** Liczy ten sam wagowy, wpisuje ten sam skarbnik, klucz trzyma ten sam składnik.
+
+> ### DOKTRYNA POPRAWKI:
+> **Nie bronimy zboża. Bronimy dni.**
+> **Zboże jest tylko tym, w czym najłatwiej je policzyć — i dlatego pozostaje miarą, przestając być przedmiotem.**
 
 ---
 

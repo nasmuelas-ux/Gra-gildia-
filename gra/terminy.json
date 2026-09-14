@@ -471,10 +471,10 @@
     },
     {
       "data": "zlecone 300-03-02",
-      "co": "KANON JADLA POLNOCY - zadanie dla WYSTANA, trzy czesci: (1) dieta i dania z waloru miejscowego; (2) kanon potraw - co siac, co do szklarni, co hodowac, co lowic; (3) ruszyc ze szklarniami i szkolkami rolniczymi. OD 300-03-03 MA WYKONAWCE: LOWCZY HAKON OD JASZCZURA - wczesniej kanon byl lista bez rak.",
+      "co": "KANON JADLA POLNOCY - zadanie dla WYSTANA, trzy czesci: (1) dieta i dania z waloru miejscowego; (2) kanon potraw - co siac, co do szklarni, co hodowac, co lowic; (3) ruszyc ze szklarniami i szkolkami rolniczymi. OD 300-03-03 MA WYKONAWCE: LOWCZY HAKON OD JASZCZURA - wczesniej kanon byl lista bez rak. ⚡ OD 300-03-03 KANON PRZESTAJE BYC SPISEM POTRAW I STAJE SIE TABELA PRZELICZENIOWA USTAWY: ile dni zywi beczka solonej ryby, korzec straczkow, polec suszonego miesa. Bez niego progi glodu licza samo zboze. Termin 300-03-09 przestaje byc wygodny i staje sie wiazacy.",
       "kto": "WYSTAN + WERRAN + HAKON",
       "zamyka": "kanon spisany i PIERWSZY POSILEK Z NIEGO PODANY - kanonu nie oglasza sie na slupie, kanon sie je",
-      "status": "otwarte",
+      "status": "otwarte - PILNE, WESZLO DO PRAWA",
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-09"
     },
@@ -1341,6 +1341,33 @@
       "wraca": "300-03-30",
       "zamyka": "cztery progi wypowiedziane przy wiazce III",
       "status": "otwarte"
+    },
+    {
+      "data": "300-03-04",
+      "co": "CZESC V-quater NA SLUP - USTAWA OBEJMUJE ZYWNOSC, NIE SAMO ZBOZE: ziarno · rosliny jadalne i straczki · ryba swieza i solona · mieso solone i suszone · ptactwo wodne i zwierzyna · sol · miod · nabial trwaly · warzywo ze szklarni. PRZENOSI SIE BEZ ZMIANY: rubryka stanu (ZEPSUTA RYBA ZABIJA SZYBCIEJ NIZ SPORYSZ) · sprzedaz poza targiem niewazna · czesc V (kto moze kupowac) · jedzenie zepsute PALONE, nigdy przecenione. WLASNA FORMA: cena minimalna oglaszana PRZED PORA DANEGO RODZAJU - ziarno przed siewem, ryba przed tarlem, zwierzyna przed rykowiskiem, szklarnia przed sadzeniem. PRZYMUS SKLADU TYLKO DLA TOWARU, KTORY WYTRZYMA TRZY DNI NA WOZIE - swieza ryba i mleko NIE; prawo, ktore kaze wystawic towar, ktory zgnije, nie jest prawem o skladzie, tylko grzywna.",
+      "kto": "HERWIN + lawa",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-04",
+      "zamyka": "obwieszczenie o zakresie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-07",
+      "co": "KARTA ZYWNOSCIOWA LICZACA CALA ZYWNOSC - pierwsza wedle kanonu. Karta z 300-03-07 liczy SAMO ZBOZE, bo przelicznika jeszcze nie ma. ⚠ DZIEN, W KTORYM KARTA ZACZNIE LICZYC WEGORZA, JEST DNIEM, W KTORYM LICZBA DNI FOSY PODSKOCZY - i trzeba to powiedziec Z GORY, zeby nikt nie wzial tego za cud albo za falszerstwo. Skok bedzie tym wiekszy, im lepiej Hakon od Jaszczura wykona swoja pierwsza robote.",
+      "kto": "ORLAND + WYSTAN + HAKON",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-04-07",
+      "zamyka": "karta z rubryka na kazdy rodzaj, przeliczona na korce",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-13",
+      "co": "ZBIEG DO PILNOWANIA: SOL I RYBA SOLONA SA OD DZIS ZYWNOSCIA W ROZUMIENIU USTAWY, A JEDNOCZESNIE ZABEZPIECZENIEM WEKSLI (przeniesionym z ziarna siewnego 300-03-03). RZECZ ZASTAWIONA I RZECZ REGLAMENTOWANA TO TA SAMA BECZKA. Jesli prog glodu spadnie ponizej 45 dni, sol i ryba beda sprzedawane TYLKO MIESZKANCOM OKREGU - a wierzyciele weksli sa w Bialym Porcie i Braavos. DO ROZSTRZYGNIECIA Z HALEM: czy zabezpieczenie wytrzyma wlasne prawo pana, czy trzeba trzeciej rzeczy.",
+      "kto": "SYMON + HAL",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "rozstrzygniecie, czym stoja weksle, jesli prog spadnie",
+      "status": "otwarte - NOWE"
     }
   ]
 }

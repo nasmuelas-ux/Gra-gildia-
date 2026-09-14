@@ -1695,12 +1695,12 @@
   },
   {
    "data": "300-03-10",
-   "co": "BILANS HALA I ODBIOR 695 W TOWARZE - PRZESUNIETE, BO HAL WYJECHAL PO PANA. Obie rzeczy mialy stanac na stole 300-03-13; Hal zostawil je w miescie i pojechal trzy dni w gore traktu sam. Przy bilansie zapada takze KOLIZJA ZIARNA SIEWNEGO I WEKSLI, odlozona tam przez gracza 300-03-06.",
+   "co": "BILANS HALA I ODBIOR 695 W TOWARZE - PRZESUNIETE, BO HAL WYJECHAL PO PANA. Obie rzeczy mialy stanac na stole 300-03-13; Hal zostawil je w miescie i pojechal trzy dni w gore traktu sam. Przy bilansie zapada takze KOLIZJA ZIARNA SIEWNEGO I WEKSLI, odlozona tam przez gracza 300-03-06. ### 300-03-11 WIECZOR, BIALY PORT. HAL PRZEDLOZYL. TRZY LICZBY I JEDNO ZDANIE. ### (1) MARZEC MA DZIURE STU SMOKOW - I TA LICZBA NIE JEST NOWA. Warunek (1) Hala brzmial 'sto w monecie teraz, i marzec staje sie cichy'; byla to liczba gracza z 300-01-27. Wycofanie monety odslania DOKLADNIE TE SAMA STUTKE: 340 w wekslach zapada w tym miesiacu, a weksel placi sie moneta. ### (2) ZYSK Z CALOSCI W TOWARZE JEST WYZSZY: 695 zamiast 595 przy roznicy 12-18% miedzy cena skarbowa a cena Bialego Portu = ok. 104 BRUTTO, po skladowaniu, ubytku i ryzyku ZOSTAJE 70-82 (bylo 60-70). Dom zarabia wiecej, bo wziete na wlasne ryzyko jest wieksze. ### (3) I KOSZT, KTORY HAL NAZYWA OD RAZU, ZEBY NIKT SIE POTEM NIE DZIWIL: SPRZEDAZ POD DATE TO SPRZEDAZ ZLA. Sol i ryba solona schodza szybko, ale zeby zamknac 340 do konca miesiaca, pierwsza partie trzeba oddac TANIEJ, NIZ SIE UMIE. Sto oddane Koronie kosztuje Dom nie sto, tylko sto PLUS marza urwana z pospiechu - REALNIE 115-130. ### 'Nie mowie, ze zle zrobiliscie. Mowie, ile to jest, bo nikt inny wam tego nie policzy.' ### (4) KOLIZJA WEKSLI I ZIARNA - ROZWIAZUJE SIE SAMA: towar Korony laduje ~03-13 i PRZECHODZI POD WEKSLE JAKO ZASTAW, a zboze z niego wychodzi. Papier przestaje stac na chlebie, zanim ktokolwiek oglosi, ze chleb jest nietykalny. Nie trzeba nikogo prosic o zgode i nie trzeba weksli rolowac.",
    "kto": "HAL SIEROTA",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-15",
-   "zamyka": "bilans przedlozony, towar odebrany, kolizja weksli rozstrzygnieta",
-   "status": "otwarte"
+   "wraca": "300-03-13",
+   "zamyka": "pierwsza partia odebrana i podstawiona pod weksle; decyzja o tym, czym zamknac sto",
+   "status": "PRZEDLOZONY 300-03-11 - bez rzutu (wlasny dyrektor, zasada 7)"
   },
   {
    "data": "300-03-11",
@@ -1746,6 +1746,15 @@
    "wraca": "300-03-14",
    "zamyka": "odpowiedz napisana i dana jej do reki, nie wyslana krukiem przez miasto, w ktorym oboje sa",
    "status": "otwarte - OBIETNICA"
+  },
+  {
+   "data": "300-03-11",
+   "co": "DZIURA STU SMOKOW W MARCU - DO ZAMKNIECIA PRZED KONCEM MIESIACA. 340 w wekslach zapada, moneta poszla Koronie. ### DROGI, KTORE HAL WYLICZYL: (a) SPRZEDAC PIERWSZA PARTIE POD DATE - koszt 15-30 smokow urwanej marzy, nikogo nie trzeba prosic; (b) ROLOWAC CZESC PAPIERU - trzeba pytac trzymajacych, a Lucan dyskontowal te weksle, wiec pytanie idzie przez niego; (c) PODSTAWIC POD WEKSLE UZNANY DLUG KORONY - Gawen uznal 695 W CALOSCI I NA PISMIE, wiec to jest papier lepszy niz zboze, ale wiaze Dom z wyplacalnoscia Skarbu, ktory w tym miesiacu odpisal na jedna pozycje z pieciu; (d) KASA 1 - i to jest pytanie do bilansu, nie do rozmowy. ### ⚠ DECYZJA NALEZY DO PANA I NIE MA W NIEJ DROGI DARMOWEJ.",
+   "kto": "SYMON + HAL",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "sto zamkniete jedna z czterech drog, na pismie",
+   "status": "otwarte - DECYZJA GRACZA"
   }
  ]
 }

@@ -1983,12 +1983,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "UMOWA O PRZEWLOKE - TRESC PODPISYWANA JUTRO, BEZ LICZBY MIL. ### (1) STAWKI ZA MILE WEDLE KLAS GRUNTU: I (twardy) 8-12 · II (miekki) 18-25 · III (bagno, pale z czardrzewa) 35-50. ### (2) METODA WSPOLNEGO PRZEJSCIA: jeden sznur, jedno przejscie, ten sam dzien; konce trzymane NA ZMIANE mila po mili; PODPIS PO KAZDEJ MILI, nie po calosci - kto podpisal mile, nie wraca do niej. ### (3) PORA POMIARU: W POLUDNIE, W ODWILZ - nie rano w mroz. To zdanie jest w umowie DLATEGO, ze wlasny czlowiek Symona ostrzegl przed odwrotnoscia: 'gdybysmy mierzyli rano, wpisalbym te piec mil jako pierwsza klase i sklamalbym nie chcac'. Strona, ktora sama wpisuje do umowy warunek dla siebie niekorzystny, kupuje za to zaufanie taniej niz jakimkolwiek ustepstwem. ### (4) PROBA GRUNTU: jedna, umowiona z gory - kij na okreslona glebokosc, ta sama za kazdym razem. ### (5) TRZECIA REKA: TOMMARD KOSA. Podpisuje kazda mile razem z obiema stronami. ### (6) MIARA: braavijska ksiega miar, wag i probierstwa - MIARA POLNOCNA, wdrozona juz raz. ### LICZBA MIL I SUMA WPISYWANE PO WSPOLNYM PRZEJSCIU. ### ⚠ ZOSTAJE JEDNA RZECZ NIEROZSTRZYGNIETA I JEST TO PIENIADZ: KTO PLACI ZA PRZEWLOKE I W JAKIEJ CZESCI. Stawka mowi ILE, nie mowi KTO.",
+   "co": "UMOWA O PRZEWLOKE - TRESC PODPISYWANA JUTRO, BEZ LICZBY MIL. ### (1) STAWKI ZA MILE WEDLE KLAS GRUNTU: I (twardy) 8-12 · II (miekki) 18-25 · III (bagno, pale z czardrzewa) 35-50. ### (2) METODA WSPOLNEGO PRZEJSCIA: jeden sznur, jedno przejscie, ten sam dzien; konce trzymane NA ZMIANE mila po mili; PODPIS PO KAZDEJ MILI, nie po calosci - kto podpisal mile, nie wraca do niej. ### (3) PORA POMIARU: W POLUDNIE, W ODWILZ - nie rano w mroz. To zdanie jest w umowie DLATEGO, ze wlasny czlowiek Symona ostrzegl przed odwrotnoscia: 'gdybysmy mierzyli rano, wpisalbym te piec mil jako pierwsza klase i sklamalbym nie chcac'. Strona, ktora sama wpisuje do umowy warunek dla siebie niekorzystny, kupuje za to zaufanie taniej niz jakimkolwiek ustepstwem. ### (4) PROBA GRUNTU: jedna, umowiona z gory - kij na okreslona glebokosc, ta sama za kazdym razem. ### (5) TRZECIA REKA: TOMMARD KOSA. Podpisuje kazda mile razem z obiema stronami. ### (6) MIARA: braavijska ksiega miar, wag i probierstwa - MIARA POLNOCNA, wdrozona juz raz. ### LICZBA MIL I SUMA WPISYWANE PO WSPOLNYM PRZEJSCIU. ### ⚠ ZOSTAJE JEDNA RZECZ NIEROZSTRZYGNIETA I JEST TO PIENIADZ: KTO PLACI ZA PRZEWLOKE I W JAKIEJ CZESCI. Stawka mowi ILE, nie mowi KTO. ### 300-03-12 ROZSTRZYGNIECIE GRACZA: PLACI KASA 1. Lenno nie ma czym, Korona nie ma czym, a rzecz ma stanac teraz.",
    "kto": "SYMON + WYMAN + TOMMARD KOSA",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "umowa podpisana",
-   "status": "otwarte - JUTRO"
+   "status": "zrobione 300-03-12 - PLACI DOM"
   },
   {
    "data": "300-03-16",
@@ -2001,12 +2001,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "KTO PLACI ZA PRZEWLOKE - JEDYNA RZECZ, KTOREJ STAWKA NIE ROZSTRZYGA. Suma wyjdzie rzedu 230-325 smokow. ### KTO NA TYM ZYSKUJE: Fosa dostaje przewloke i dok w Ujsciu na wlasnej ziemi; Manderly dostaje LANCUCH DWOCH MORZ, czyli droge, ktora oszczedza jego statkom oplyniecie calej Polnocy; Korona dostaje arterie. TRZECH BENEFICJENTOW, TRZY KASY. ### ⚠ I RZECZ, KTORA TRZEBA POWIEDZIEC WPROST: KASA 2 MA OKOLO 550 ROCZNIE. Fosa nie udzwignie tego sama i nie ma czym.",
+   "co": "KTO PLACI ZA PRZEWLOKE - JEDYNA RZECZ, KTOREJ STAWKA NIE ROZSTRZYGA. Suma wyjdzie rzedu 230-325 smokow. ### KTO NA TYM ZYSKUJE: Fosa dostaje przewloke i dok w Ujsciu na wlasnej ziemi; Manderly dostaje LANCUCH DWOCH MORZ, czyli droge, ktora oszczedza jego statkom oplyniecie calej Polnocy; Korona dostaje arterie. TRZECH BENEFICJENTOW, TRZY KASY. ### ⚠ I RZECZ, KTORA TRZEBA POWIEDZIEC WPROST: KASA 2 MA OKOLO 550 ROCZNIE. Fosa nie udzwignie tego sama i nie ma czym. ### 300-03-12 ROZSTRZYGNIECIE GRACZA: PLACI KASA 1. Lenno nie ma czym, Korona nie ma czym, a rzecz ma stanac teraz.",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "podzial kosztu wpisany do umowy",
-   "status": "otwarte - DECYZJA GRACZA, JUTRO"
+   "status": "zrobione 300-03-12 - PLACI DOM"
   },
   {
    "data": "300-03-12",
@@ -2016,6 +2016,33 @@
    "wraca": "300-03-30",
    "zamyka": "przyjete do wiadomosci",
    "status": "zrobione"
+  },
+  {
+   "data": "300-03-12",
+   "co": "⚠ PLACI DOM - ALE MUSI BYC POWIEDZIANE, W JAKIEJ FORMIE, BO TA SAMA RZECZ ZOSTALA JUZ RAZ ZATRZYMANA I ZATRZYMAL JA SYMON. ### 299-09-09, Przystan Wilka: do tego dnia budowe niosla KASA 1, i wtedy TO SIE SKONCZYLO, slowami, ktore stoja w zapisie: 'PORT KORONY BUDOWANY ZA PRYWATNE PIENIADZE URZEDNIKA KORONY JEST WYGODNY DOKLADNIE TAK DLUGO, JAK DLUGO TEN URZEDNIK ZYJE. POTEM JEST SPOREM.' Finansowanie przeszlo na Korone, a wklad Kasy 1 Skarbnik policzyl co do miedziaka. ### RZECZ NIE JEST IDENTYCZNA: przewloka lezy NA WLASNEJ ZIEMI SYMONA, nie na koronnej, wiec nie jest to urzednik budujacy panstwu za swoje. ALE JEST TO NADAL KASA 1 STAWIAJACA TRWALA RZECZ W KASIE 2, a to bez formy zamienia sie w spor po smierci tego, kto wiedzial, jak bylo. ### TRZY FORMY, KTORE TO ZAMYKAJA: (a) POZYCZKA KASY 1 DLA KASY 2 - stawka, termin, splata z myta przewloki; czysta, ale lenno o 550 rocznie bierze na siebie 230-325 dlugu; (b) ⭐ DOM KUPUJE PRAWO POBORU NA LATA - finansuje calosc i bierze myto z przewloki przez wpisana liczbe lat, po czym myto WRACA DO LENNA BEZ DOPLATY. Samo sie splaca, da sie powiedziec na glos, i ma date konca; (c) DAROWIZNA - najprostsza i najgorsza, bo Dom ma wspolnikow (Nesta, kantor) i dyrektora z mandatem na WZROST OBROTU, a nie na uposazanie lenna pana. ### DOKTRYNA: koncesja bez daty konca jest darowizna samemu sobie - to ta sama zasada, ktora Krol dopisal wczoraj do zastepstwa kancelarii.",
+   "kto": "SYMON + HAL",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "forma wpisana do umowy: pozyczka, koncesja z data konca albo darowizna",
+   "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-13",
+   "co": "UJAWNIENIE WOBEC WYMANA, JESLI DOM BIERZE MYTO PRZEWLOKI. Gdy Kasa 1 finansuje i pobiera, TO STATKI WYMANA PLACA DOMOWI NAMIESTNIKA za droge, ktora oszczedza im oplyniecie Polnocy. ### Mowi sie mu to JUTRO, przy podpisie, a nie kiedy sam policzy. Wlasna zasada Symona: 'najbogatszego choragwia nie zaskakuje sie przy stole' - zlamana juz raz w tym tygodniu przy czesci V Prawa Spichlerza. Drugi raz byloby to juz nie przeoczeniem, tylko nawykiem. ### I TO SAMO IDZIE DO WLASNEJ LISTY KONFLIKTOW SYMONA, gdzie stoja juz trzy wpisy: klasa C oslania papiernie, klasa A uderza w warzelnie, len surowy w klasie B to tani surowiec dla wlasnej papierni. CZWARTY: myto przewloki idzie do Kasy 1.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "powiedziane przy podpisie i wpisane do listy konfliktow",
+   "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-31",
+   "co": "⚠ CO PRZEWLOKA ROBI Z WIOSNA DOMU. Kasa 1 po wykupie 340 jest przy zerze; kapitalem wiosennym jest pozostale ~650 z towaru Korony, schodzace przez wiosne. 230-325 na przewloke zjada POLOWE tego. ### CO PRZEZ TO CZEKA KOLEJNY ROK: szmaty dla papierni (a Korona wlasnie zaczela kupowac pergamin), surowiec bursztynowy dla Marra (rok siedzenia bez kamieni), metoda dla ubezpieczen frachtu. ### PLUS: przewloka nie placi sie jednego dnia - idzie z robota przez miesiace, wiec wydatek plynie rownolegle do towaru schodzacego z magazynu. To jedyne, co czyni to wykonalnym.",
+   "kto": "HAL SIEROTA",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-01",
+   "zamyka": "plan wiosenny: co czeka, a co idzie mimo przewloki",
+   "status": "otwarte"
   }
  ]
 }

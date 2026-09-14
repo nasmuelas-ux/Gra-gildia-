@@ -2478,12 +2478,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "PRZYSTAN NA BIALYM NOZU - RUSZA PIERWSZA I RUSZA JUTRO. Istnieje w zalazku, zakole wskazal sam Wyman ('tam, gdzie barki ustepuja wozom'), a jutro i tak siadamy z nim do podpisu. ### TO JEST TEZ DOWOD, KTORY BEDZIE POTRZEBNY NA RADZIE: lord, ktory ma pokazac Boltonowi i Karstarkowi, jak wyglada przystan Korony na cudzej rzece, musi miec JEDNA STOJACA, a nie rysunek. Pierwsza przystan nie jest pierwsza z pieciu - jest ARGUMENTEM ZA POZOSTALYMI CZTEREMA. ### ⚠ UWAGA GRACZA 300-03-12: 'na Bialym Nozu nie trzeba przystani, bo jest Bialy Port'. ### CO MOWI ZAPIS, ZEBY DECYZJA BYLA NA LICZBACH, A NIE NA MOIM ZDANIU: pozycja z 298 nie dotyczy UJSCIA, tylko ZAKOLA W GORE RZEKI - 'tam, gdzie BARKI USTEPUJA WOZOM', wskazanego przez samego Wymana. To jest glowa zeglugi, czyli miejsce, gdzie ladunek I TAK MUSI BYC PRZELADOWANY z wody na kolo. ### Bialy Port obsluguje ujscie; zakole obsluguje przejscie na lad w glab kraju. To dwie rozne rzeczy na tej samej rzece - ale jesli pan uzna, ze korytarz rzeczny radzi sobie bez wagi w tym punkcie, pozycja odpada i zostaja CZTERY.",
+   "co": "PRZYSTAN NA BIALYM NOZU - RUSZA PIERWSZA I RUSZA JUTRO. Istnieje w zalazku, zakole wskazal sam Wyman ('tam, gdzie barki ustepuja wozom'), a jutro i tak siadamy z nim do podpisu. ### TO JEST TEZ DOWOD, KTORY BEDZIE POTRZEBNY NA RADZIE: lord, ktory ma pokazac Boltonowi i Karstarkowi, jak wyglada przystan Korony na cudzej rzece, musi miec JEDNA STOJACA, a nie rysunek. Pierwsza przystan nie jest pierwsza z pieciu - jest ARGUMENTEM ZA POZOSTALYMI CZTEREMA. ### ⚠ UWAGA GRACZA 300-03-12: 'na Bialym Nozu nie trzeba przystani, bo jest Bialy Port'. ### CO MOWI ZAPIS, ZEBY DECYZJA BYLA NA LICZBACH, A NIE NA MOIM ZDANIU: pozycja z 298 nie dotyczy UJSCIA, tylko ZAKOLA W GORE RZEKI - 'tam, gdzie BARKI USTEPUJA WOZOM', wskazanego przez samego Wymana. To jest glowa zeglugi, czyli miejsce, gdzie ladunek I TAK MUSI BYC PRZELADOWANY z wody na kolo. ### Bialy Port obsluguje ujscie; zakole obsluguje przejscie na lad w glab kraju. To dwie rozne rzeczy na tej samej rzece - ale jesli pan uzna, ze korytarz rzeczny radzi sobie bez wagi w tym punkcie, pozycja odpada i zostaja CZTERY. ### ⚠ 300-03-12, WSKAZANIE GRACZA I JEST TRAFNE: ZAKOLE NA BIALYM NOZU TO PRZYSTAN WILKA. Rejestr kanalow mowi wprost: Przystan Wilka to WEZEL NA GORNYM BIALYM NOZU. To nie jest piata przystan do zbudowania - ONA JUZ SIE BUDUJE I MA NAZWE.",
    "kto": "SYMON + WYMAN + WEYLIN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "przystan na Bialym Nozu wpisana do jutrzejszej umowy i ruszajaca",
-   "status": "otwarte - DO ROZSTRZYGNIECIA PRZEZ GRACZA"
+   "status": "zrobione 300-03-12 - TO JEST PRZYSTAN WILKA"
   },
   {
    "data": "300-03-30",
@@ -2501,6 +2501,15 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "propozycja zlozona wszystkim piatu ta sama trescia; kto bierze, ten bierze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-30",
+   "co": "PROGRAM PRZYSTANI - POLICZONY OD NOWA PO WSKAZANIU GRACZA: CZTERY DO ZBUDOWANIA PLUS JEDNA, KTORA JUZ STOI. ### PIATA TO PRZYSTAN WILKA. Zakole na Bialym Nozu, 'tam, gdzie barki ustepuja wozom', to WEZEL NA GORNYM BIALYM NOZU - czyli dokladnie ona. Nie trzeba jej stawiac. ### CZTERY DO ZBUDOWANIA: OSTATNIA RZEKA (Karhold) · ZATOKA FOK (Wdowia Straznica) · PLACZACA WODA (Dreadfort) · ZLAMANA GALAZ (Dreadfort). ### I TO ROZWIAZUJE TRZY RZECZY NARAZ, KTORE DOTAD STALY OSOBNO: (1) PRZYSTAN WILKA DOSTAJE POWOD ISTNIENIA. Budowala sie od miesiecy jako port bez napisanego celu; od dzis jest GLOWA ZEGLUGI BIALEGO NOZA i pierwsza brama drewna. (2) JEJ BRAKUJACY GOSPODARZ JEST ODPOWIEDZIA SAM: gospodarzem jest ten, kto laduje. (3) APARAT JUZ TAM STOI I NIE TRZEBA GO WYMYSLAC: BORS buduje kamien, NORREN SCISLY prowadzi KSIEGE POMOSTU od 300-03-03 i NIE STOI POD BORSEM. Ksiega pomostu JEST ta ksiega bramy, ktorej plan z 298 wymaga od kazdej przystani. ### ⚠ I RZECZ, KTOREJ NIE WOLNO POMYLIC NA RADZIE: PRZYSTAN WILKA NIE STOI NA PROPONOWANYCH WARUNKACH. Jest fundacja wspolna (Korona 1/2, Cerwyn 1/4, Manderly 1/4), a nie szopa postawiona przez pana rzeki. Wiec jest DOWODEM, ZE RZECZ DZIALA - nie dowodem, ze warunki dzialaja. Kto to pomyli przy stole, dostanie pytanie, na ktore nie ma dobrej odpowiedzi.",
+   "kto": "SYMON -> RADA 300-03-30, wiazka V",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "cztery propozycje zlozone, piata pokazana jako stojaca",
    "status": "otwarte"
   }
  ]

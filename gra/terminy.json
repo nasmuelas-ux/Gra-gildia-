@@ -56,10 +56,10 @@
   },
   {
    "data": "300-03-07",
-   "co": "pierwsza KARTA ZYWNOSCIOWA (geby, korce, na ile dni). ⚡ OD 300-03-03 TO NIE JEST JUZ SPRAWOZDANIE, TYLKO LICZNIK USTAWOWY: z tej liczby odczytuje sie PROG GLODU (>90 handel normalny · 90-45 cena zamrozona i pulap 1/20 · 45-20 tylko mieszkancy po cenie sprzed siewu · <20 Korona otwiera Spichlerz). ⚠ PIERWSZY PROG, KTORY TA USTAWA ZMIERZY, BEDZIE PROGIEM FOSY - i tak ma byc, bo kolejnosc zgloszen stoi od IX/299: NAJPIERW TEN, KTO PRAWO NAPISAL.",
+   "co": "pierwsza KARTA ZYWNOSCIOWA (geby, korce, na ile dni). ⚡ OD 300-03-03 TO NIE JEST JUZ SPRAWOZDANIE, TYLKO LICZNIK USTAWOWY: z tej liczby odczytuje sie PROG GLODU (>90 handel normalny · 90-45 cena zamrozona i pulap 1/20 · 45-20 tylko mieszkancy po cenie sprzed siewu · <20 Korona otwiera Spichlerz). ⚠ PIERWSZY PROG, KTORY TA USTAWA ZMIERZY, BEDZIE PROGIEM FOSY - i tak ma byc, bo kolejnosc zgloszen stoi od IX/299: NAJPIERW TEN, KTO PRAWO NAPISAL. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "Orland + Warryn",
    "zamyka": "karta na stole",
-   "status": "otwarte",
+   "status": "zrobione 300-03-07 - meldunek w drodze",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07"
   },
@@ -74,28 +74,28 @@
   },
   {
    "data": "300-03-07",
-   "co": "pytania proby wstepnej dla lawy",
+   "co": "pytania proby wstepnej dla lawy ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "MELLA",
    "zamyka": "pytania oddane lawie",
-   "status": "otwarte",
+   "status": "zrobione 300-03-07 - meldunek w drodze",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07"
   },
   {
    "data": "300-03-07",
-   "co": "KARTA ODHACZEN GARRICKA - czwarta kolumna (idzie / stoi / pyta kancelarie) przy kazdym wierszu",
+   "co": "KARTA ODHACZEN GARRICKA - czwarta kolumna (idzie / stoi / pyta kancelarie) przy kazdym wierszu ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "GARRICK",
    "zamyka": "karta wypelniona",
-   "status": "otwarte",
+   "status": "zrobione 300-03-07 - meldunek w drodze",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07"
   },
   {
    "data": "300-03-07",
-   "co": "przywilej bagienny - szesc rzemiosl na slup; zegar pana",
+   "co": "przywilej bagienny - szesc rzemiosl na slup; zegar pana ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "WARRYN + lawa",
    "zamyka": "slup",
-   "status": "otwarte",
+   "status": "zrobione 300-03-07 - meldunek w drodze",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07"
   },
@@ -309,12 +309,12 @@
   },
   {
    "data": "bez daty",
-   "co": "BERON: wszystko, co przyszlo od BRYNDENA TULLY'EGO od 299-07, z datami; potem list do Blackfisha (poludniowa sciana, nie traktat)",
+   "co": "BERON: wszystko, co przyszlo od BRYNDENA TULLY'EGO od 299-07, z datami; potem list do Blackfisha (poludniowa sciana, nie traktat) ### 300-03-07, RZUT 7: NIE PRZYSZLO NIC - ANI WYKAZ, ANI PUSTA KARTA. Beron odpisal trzema wierszami, ze przegladu nie zrobil i nie zrobi go w tym miesiacu. POWOD PODANY WPROST I JEST MIAZDZACY: jest JEDNYM CZLOWIEKIEM, ktory prowadzi kancelarie Winterfell, pisze pod dyktando Krola, obsluguje poczte Korony, od 300-03-03 prowadzi NOWA RUBRYKE (co przyszlo do Korony, a czego Namiestnik nie widzial) - i ma do tego karte siedmiodniowa. ### 'Prosicie mnie o przeszukanie czterech lat kancelarii w tygodniu, w ktorym prosicie mnie takze o dwa listy krolewskie. URZAD, KTORY TO ROBI, NAZYWA SIE REJESTRATOR KORONY I NIE MA GO OD PIECIU MIESIECY.' ### ⚠ TO NIE JEST ODMOWA - TO JEST DOWOD. Argument za rozdzieleniem krzesla, wyslany trzy dni temu, wlasnie sam sie udowodnil, i to w tym samym tygodniu. ### Zasada 42 lit. d: urzednik zameldowal, ze nie daje rady. To jedyna forma, w ktorej ta rzecz wraca do pana - i wrocila. ### LIST CZEKA W BIALYM PORCIE od ~03-09.",
    "kto": "BERON",
    "zamyka": "wykaz",
-   "status": "otwarte",
+   "status": "NIE PRZYSZLO 300-03-07 (rzut 7) - I WIADOMO DLACZEGO",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-07"
+   "wraca": "300-03-12"
   },
   {
    "data": "bez daty",
@@ -354,10 +354,10 @@
   },
   {
    "data": "ten tydzien",
-   "co": "SOLTYSI: ktore wsie wybraly, kiedy i kogo - pytanie zadane dawno, odpowiedzi nie bylo",
+   "co": "SOLTYSI: ktore wsie wybraly, kiedy i kogo - pytanie zadane dawno, odpowiedzi nie bylo ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "WARRYN",
    "zamyka": "lista wsi z nazwiskami i datami",
-   "status": "otwarte",
+   "status": "zrobione 300-03-07 - meldunek w drodze",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07"
   },
@@ -534,12 +534,12 @@
   },
   {
    "data": "wyslany 300-03-03 o brzasku",
-   "co": "KRUK DO BIALEGO PORTU - pytanie o Mire. Poczta DOMU, pieczec DOMU, nie Korony. Dojdzie w dwa dni i tak czy inaczej PO FAKCIE - wysylany nie po to, zeby zdazyc, tylko zeby ktos tam wiedzial, ze pytano tego dnia. ### 300-03-05: KRUK WYSZEDL. Treść dyktowana przez pana - nie zapisuje jej nikt poza nim. Laduje 300-03-07. To jedyna rzecz, ktora dojdzie tam szybciej niz on sam.",
+   "co": "KRUK DO BIALEGO PORTU - pytanie o Mire. Poczta DOMU, pieczec DOMU, nie Korony. Dojdzie w dwa dni i tak czy inaczej PO FAKCIE - wysylany nie po to, zeby zdazyc, tylko zeby ktos tam wiedzial, ze pytano tego dnia. ### 300-03-05: KRUK WYSZEDL. Treść dyktowana przez pana - nie zapisuje jej nikt poza nim. Laduje 300-03-07. To jedyna rzecz, ktora dojdzie tam szybciej niz on sam. ### 300-03-07: KRUK WYLADOWAL W BIALYM PORCIE. Od dzis tam wiedza, ze pan jedzie.",
    "kto": "SYMON -> Bialy Port",
    "zamyka": "wiadomosc o rozwiazaniu",
-   "status": "otwarte - W DRODZE",
+   "status": "doreczone 300-03-07 - czeka odpowiedz",
    "kanal": "kruk Fosa-Bialy Port",
-   "wraca": "300-03-07"
+   "wraca": "300-03-10"
   },
   {
    "data": "WIOSNA 300 - WYMAGALNE TERAZ",
@@ -606,12 +606,12 @@
   },
   {
    "data": "300-03-03 wieczor - WYSLANE",
-   "co": "KARTA DO BERONA: czy w kancelarii Korony lezy cokolwiek od STANNISA (od 299-09) oraz ODPOWIEDZ AEMONA NA PYTANIE O OBSYDIAN (kruk 299-09-22) - ta ostatnia BYLA ADRESOWANA DO WINTERFELL, NIE DO SYMONA, i on jej nigdy nie widzial.",
+   "co": "KARTA DO BERONA: czy w kancelarii Korony lezy cokolwiek od STANNISA (od 299-09) oraz ODPOWIEDZ AEMONA NA PYTANIE O OBSYDIAN (kruk 299-09-22) - ta ostatnia BYLA ADRESOWANA DO WINTERFELL, NIE DO SYMONA, i on jej nigdy nie widzial. ### 300-03-07, RZUT 7: NIE PRZYSZLO NIC - ANI WYKAZ, ANI PUSTA KARTA. Beron odpisal trzema wierszami, ze przegladu nie zrobil i nie zrobi go w tym miesiacu. POWOD PODANY WPROST I JEST MIAZDZACY: jest JEDNYM CZLOWIEKIEM, ktory prowadzi kancelarie Winterfell, pisze pod dyktando Krola, obsluguje poczte Korony, od 300-03-03 prowadzi NOWA RUBRYKE (co przyszlo do Korony, a czego Namiestnik nie widzial) - i ma do tego karte siedmiodniowa. ### 'Prosicie mnie o przeszukanie czterech lat kancelarii w tygodniu, w ktorym prosicie mnie takze o dwa listy krolewskie. URZAD, KTORY TO ROBI, NAZYWA SIE REJESTRATOR KORONY I NIE MA GO OD PIECIU MIESIECY.' ### ⚠ TO NIE JEST ODMOWA - TO JEST DOWOD. Argument za rozdzieleniem krzesla, wyslany trzy dni temu, wlasnie sam sie udowodnil, i to w tym samym tygodniu. ### Zasada 42 lit. d: urzednik zameldowal, ze nie daje rady. To jedyna forma, w ktorej ta rzecz wraca do pana - i wrocila. ### LIST CZEKA W BIALYM PORCIE od ~03-09.",
    "kto": "BERON",
    "zamyka": "wykaz albo puste - obie odpowiedzi sa odpowiedzia",
-   "status": "otwarte - od Stannisa nic; odpowiedz Aemona o obsydianie DO ODSZUKANIA w Winterfell",
+   "status": "NIE PRZYSZLO 300-03-07 (rzut 7) - I WIADOMO DLACZEGO",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-07"
+   "wraca": "300-03-12"
   },
   {
    "data": "PILNE - przed wyjazdem 300-03-07",
@@ -669,21 +669,21 @@
   },
   {
    "data": "PILNE - przed wyjazdem 300-03-07",
-   "co": "STRUKTURA RUCHU PRZEZ BRAME - z ksiegi Gartha od 300-02-12: ile wozow, jakiego towaru, o jakiej wartosci. BEZ TEJ LICZBY stawka myta 1/40 jest decyzja, a nie wyliczeniem, i nikt nie wie, czy Kasa 2 na zmianie zyskuje czy traci. ### 300-03-04: TA LICZBA JEST TERAZ TEZ LICZBA WODNA. Ruch wodny to 1/6 ruchu ladowego, ale 1/6 CZEGO - bez struktury bramy nie da sie powiedziec, ile komora wodna odzyskuje. Dwie pozycje w kolejce okazaly sie jedna sprawa.",
+   "co": "STRUKTURA RUCHU PRZEZ BRAME - z ksiegi Gartha od 300-02-12: ile wozow, jakiego towaru, o jakiej wartosci. BEZ TEJ LICZBY stawka myta 1/40 jest decyzja, a nie wyliczeniem, i nikt nie wie, czy Kasa 2 na zmianie zyskuje czy traci. ### 300-03-04: TA LICZBA JEST TERAZ TEZ LICZBA WODNA. Ruch wodny to 1/6 ruchu ladowego, ale 1/6 CZEGO - bez struktury bramy nie da sie powiedziec, ile komora wodna odzyskuje. Dwie pozycje w kolejce okazaly sie jedna sprawa. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "GARTH (ksiega) + GERRIK RACHUBA (rachunek)",
    "zamyka": "rozklad wozow i wartosci za trzy tygodnie",
-   "status": "otwarte - NOWE",
+   "status": "zrobione 300-03-07 - meldunek w drodze",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06"
   },
   {
    "data": "wyslany 299-09-22 - ODPOWIEDZ NIGDY NIE DOSZLA DO SYMONA",
-   "co": "PYTANIE O OBSYDIAN DO MAESTERA AEMONA. Pytanie wymyslil BRAN STARK 299-09-08: 'Pierwsi Ludzie mieli juz braz; po co lud, ktory zyl obok ludzi z metalem, trzymal sie nozy z kamienia - albo byli glupi, albo kamien robil cos, czego braz nie robil'. Kruk poszedl do najstarszego maestera w Westeros. ### W ZAPISIE STOI WPROST: 'ODPOWIEDZ PRZYJDZIE DO WINTERFELL, NIE DO SYMONA'. To ten sam ksztalt, co pismo Rejestratora - odpowiedz zaadresowana obok Namiestnika. ### SPRAWA NIE JEST DZIS CIEKAWOSTKA: Reed potwierdzil obsydian 299-10-04 (stare ostrza WYCHODZA Z TORFU, a torfiarnie Fosy tna ten sam torf), a 300-01-26 SYMON POWIEDZIAL WYMANOWI 'CZARNE SZKLO' i Wyman pierwszy raz tego wieczoru byl zaskoczony. ODPOWIEDZ AEMONA JEST JEDYNYM ZRODLEM ARCHIWALNYM, KTOREGO W TEJ SPRAWIE NIE ODCZYTANO.",
+   "co": "PYTANIE O OBSYDIAN DO MAESTERA AEMONA. Pytanie wymyslil BRAN STARK 299-09-08: 'Pierwsi Ludzie mieli juz braz; po co lud, ktory zyl obok ludzi z metalem, trzymal sie nozy z kamienia - albo byli glupi, albo kamien robil cos, czego braz nie robil'. Kruk poszedl do najstarszego maestera w Westeros. ### W ZAPISIE STOI WPROST: 'ODPOWIEDZ PRZYJDZIE DO WINTERFELL, NIE DO SYMONA'. To ten sam ksztalt, co pismo Rejestratora - odpowiedz zaadresowana obok Namiestnika. ### SPRAWA NIE JEST DZIS CIEKAWOSTKA: Reed potwierdzil obsydian 299-10-04 (stare ostrza WYCHODZA Z TORFU, a torfiarnie Fosy tna ten sam torf), a 300-01-26 SYMON POWIEDZIAL WYMANOWI 'CZARNE SZKLO' i Wyman pierwszy raz tego wieczoru byl zaskoczony. ODPOWIEDZ AEMONA JEST JEDYNYM ZRODLEM ARCHIWALNYM, KTOREGO W TEJ SPRAWIE NIE ODCZYTANO. ### 300-03-07, RZUT 7: NIE PRZYSZLO NIC - ANI WYKAZ, ANI PUSTA KARTA. Beron odpisal trzema wierszami, ze przegladu nie zrobil i nie zrobi go w tym miesiacu. POWOD PODANY WPROST I JEST MIAZDZACY: jest JEDNYM CZLOWIEKIEM, ktory prowadzi kancelarie Winterfell, pisze pod dyktando Krola, obsluguje poczte Korony, od 300-03-03 prowadzi NOWA RUBRYKE (co przyszlo do Korony, a czego Namiestnik nie widzial) - i ma do tego karte siedmiodniowa. ### 'Prosicie mnie o przeszukanie czterech lat kancelarii w tygodniu, w ktorym prosicie mnie takze o dwa listy krolewskie. URZAD, KTORY TO ROBI, NAZYWA SIE REJESTRATOR KORONY I NIE MA GO OD PIECIU MIESIECY.' ### ⚠ TO NIE JEST ODMOWA - TO JEST DOWOD. Argument za rozdzieleniem krzesla, wyslany trzy dni temu, wlasnie sam sie udowodnil, i to w tym samym tygodniu. ### Zasada 42 lit. d: urzednik zameldowal, ze nie daje rady. To jedyna forma, w ktorej ta rzecz wraca do pana - i wrocila. ### LIST CZEKA W BIALYM PORCIE od ~03-09.",
    "kto": "BERON - odszukac w kancelarii Winterfell",
    "zamyka": "odpowiedz Aemona w rece Symona ALBO potwierdzenie, ze nie dotarla",
-   "status": "otwarte",
+   "status": "NIE PRZYSZLO 300-03-07 (rzut 7) - I WIADOMO DLACZEGO",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-07"
+   "wraca": "300-03-12"
   },
   {
    "data": "NIE WYSLANY - sprawdzone 300-03-03",
@@ -777,12 +777,12 @@
   },
   {
    "data": "300-03-06",
-   "co": "ROZPOZNANIE PRZEWLOKI - profil, grunt, dlugosc PO NASZEJ STRONIE. Rzeczy wlasne i niesporne, robione od 300-03-01. ODDZIELONE OD POMIARU POD DWIE PIECZECIE, ktory zaczyna sie dopiero, gdy przy sznurze stanie czlowiek Wymana (300-03-06). Joint-walk zachowany, precedens lady Dustin nietkniety.",
+   "co": "ROZPOZNANIE PRZEWLOKI - profil, grunt, dlugosc PO NASZEJ STRONIE. Rzeczy wlasne i niesporne, robione od 300-03-01. ODDZIELONE OD POMIARU POD DWIE PIECZECIE, ktory zaczyna sie dopiero, gdy przy sznurze stanie czlowiek Wymana (300-03-06). Joint-walk zachowany, precedens lady Dustin nietkniety. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "WEYLIN + ORBELO",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-06",
    "zamyka": "liczba po naszej stronie, gotowa PRZED wspolnym przejsciem",
-   "status": "otwarte"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-09",
@@ -1245,12 +1245,12 @@
   },
   {
    "data": "300-03-07",
-   "co": "CZESC V PRAWA SPICHLERZA NA SLUP - 'zboze powyzej progu nabywa waznie tylko (a) KTO STOI W KSIEDZE POLNOCY albo (b) KTO MA ZGODE KORONY'. ZGODA KORONY TO WPIS NA CZAS OZNACZONY, nie druga maszyna: IMIENNA, Z LICZBA KORCY, Z DATA WYGASNIECIA, NA SLUPIE. Zgoda bez liczby jest zgoda na wszystko; zgoda tajna to korupcja z pieczecia. ZGODY STALE WYPISANE W USTAWIE: Korona i NOCNA STRAZ z nazwy. Ponizej progu nikt nie pyta. Przegroda siewna poza obrotem.",
+   "co": "CZESC V PRAWA SPICHLERZA NA SLUP - 'zboze powyzej progu nabywa waznie tylko (a) KTO STOI W KSIEDZE POLNOCY albo (b) KTO MA ZGODE KORONY'. ZGODA KORONY TO WPIS NA CZAS OZNACZONY, nie druga maszyna: IMIENNA, Z LICZBA KORCY, Z DATA WYGASNIECIA, NA SLUPIE. Zgoda bez liczby jest zgoda na wszystko; zgoda tajna to korupcja z pieczecia. ZGODY STALE WYPISANE W USTAWIE: Korona i NOCNA STRAZ z nazwy. Ponizej progu nikt nie pyta. Przegroda siewna poza obrotem. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "SYMON + HERWIN + lawa",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07",
    "zamyka": "klauzula na slupie razem z cena minimalna i pulapem",
-   "status": "otwarte"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-30",
@@ -1272,21 +1272,21 @@
   },
   {
    "data": "300-03-07",
-   "co": "TEKST JEDNOLITY PRAWA SPICHLERZA POLNOCY - jedna ustawa zamiast dwoch. Wchlania prawo o skladach (cztery poprawki) i wiazke druga. SIEDEM CZESCI: I ustroj (kto co nadaje) · II widocznosc (cztery poprawki + trzy Cerwyna) · III liczby (piec + poprawki Oswyna) · IV narzedzia (siedem) · V KTO MOZE KUPOWAC · VI czego nie ma · VII otwarte. TEZA, KTORA UZASADNIA POLACZENIE: PRZYMUS SKLADU I REJESTR SPICHLERZA TO JEDNA MASZYNA WIDZIANA Z DWOCH KONCOW - przywilej miasta WYTWARZA DANE, ktorych potrzebuje rejestr, i nie kosztuje ani jednego rewizora. Odpis dla Cerwyna przed jego wyjazdem 300-03-05; czystopis na slup i do teki Krola przed 300-03-07.",
+   "co": "TEKST JEDNOLITY PRAWA SPICHLERZA POLNOCY - jedna ustawa zamiast dwoch. Wchlania prawo o skladach (cztery poprawki) i wiazke druga. SIEDEM CZESCI: I ustroj (kto co nadaje) · II widocznosc (cztery poprawki + trzy Cerwyna) · III liczby (piec + poprawki Oswyna) · IV narzedzia (siedem) · V KTO MOZE KUPOWAC · VI czego nie ma · VII otwarte. TEZA, KTORA UZASADNIA POLACZENIE: PRZYMUS SKLADU I REJESTR SPICHLERZA TO JEDNA MASZYNA WIDZIANA Z DWOCH KONCOW - przywilej miasta WYTWARZA DANE, ktorych potrzebuje rejestr, i nie kosztuje ani jednego rewizora. Odpis dla Cerwyna przed jego wyjazdem 300-03-05; czystopis na slup i do teki Krola przed 300-03-07. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "dwaj pisarze dworu + GARRICK",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07",
    "zamyka": "czystopis jednolity w trzech odpisach: slup, teka Krola, ksiega lenna",
-   "status": "otwarte"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-07",
    "co": "KTO W KORONIE PODPISUJE ZGODE - ZAMKNIETE 300-03-03 PRZEZ ROZDZIELENIE KRZESLA. Podpisuje REJESTRATOR KORONY - bo zgoda to WPIS, nie zapas i nie laska. Krzeslo puste, wiec do czasu obsadzenia podpisuje kancelaria Winterfell (Beron) z adnotacja 'w zastepstwie' I Z DATA WAZNOSCI. ZASADA: zastepstwo bez daty waznosci jest nadaniem. ### Zostaje do potwierdzenia przez Krola razem z rozdzieleniem - wraca 300-03-07.",
    "kto": "SYMON -> KROL",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-07",
+   "wraca": "300-03-12",
    "zamyka": "potwierdzenie Krola, ze zastepstwo kancelarii ma date waznosci",
-   "status": "otwarte - rozstrzygniete po naszej stronie, czeka na potwierdzenie"
+   "status": "ODPISANE 300-03-07 - w tym samym liscie co rozdzielenie krzesla, czeka w Bialym Porcie"
   },
   {
    "data": "300-03-30",
@@ -1326,12 +1326,12 @@
   },
   {
    "data": "300-03-07",
-   "co": "ODCZYT PROGU FOSY - pierwsza karta zywnosciowa daje pierwsza liczbe dni chleba. ⚠ TO JEST DZIEN, W KTORYM WLASNE PRAWO PO RAZ PIERWSZY OCENIA WLASNE LENNO. Jesli Fosa wyjdzie ponizej 90 dni, cena dzisiejsza skladu ZAMRAZA SIE tego samego dnia, a pulap spada z 1/5 na 1/20 - i stanie sie to NA CZTERY DNI PRZED WYJAZDEM SYMONA, czyli wykonywac to bedzie GARRICK, nie on. Odczyt oglasza WAGOWY, nie lord - tak stoi w ustawie i nie robi sie dla siebie wyjatku.",
+   "co": "ODCZYT PROGU FOSY - pierwsza karta zywnosciowa daje pierwsza liczbe dni chleba. ⚠ TO JEST DZIEN, W KTORYM WLASNE PRAWO PO RAZ PIERWSZY OCENIA WLASNE LENNO. Jesli Fosa wyjdzie ponizej 90 dni, cena dzisiejsza skladu ZAMRAZA SIE tego samego dnia, a pulap spada z 1/5 na 1/20 - i stanie sie to NA CZTERY DNI PRZED WYJAZDEM SYMONA, czyli wykonywac to bedzie GARRICK, nie on. Odczyt oglasza WAGOWY, nie lord - tak stoi w ustawie i nie robi sie dla siebie wyjatku. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "BENNIS OD WAGI + ORLAND",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-07",
    "zamyka": "liczba dni chleba i prog ogloszony na slupie",
-   "status": "otwarte - PILNE"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-30",
@@ -1380,12 +1380,12 @@
   },
   {
    "data": "wyslany 300-03-03 wieczorem, kruk o brzasku",
-   "co": "ZAWIADOMIENIE KROLA O ROZDZIELENIU KRZESLA - NIE PROSBA I NIE PUNKT NA RADE. ### Rada Lordow nie obsadza urzedow Korony (zasada 22). Postawienie tego przed czternastoma domami byloby naciskiem na Krola przy swiadkach albo zaproszeniem do sporu o krzeslo, ktorego zaden z nich nie obsadza. ### TRESC: Krol szuka JEDNEGO czlowieka do DWOCH urzedow, a drugi odstrasza od pierwszego. Rejestratora znajdzie sie w miesiac. Ucha nie znajdzie sie nigdy, dopoki stoi z imieniem w spisie - i to, nie ksiegi, odrzucil czlowiek w listopadzie. NAMIESTNIK ROZDZIELA URZEDY W REJESTRZE KORONY I ZAWIADAMIA O TYM, ZANIM OGLOSI GDZIEKOLWIEK INDZIEJ. Nazwiska na oba krzesla naleza do Krola i pismo o zadne nie prosi. ### Pelny tekst: gra/pismo_o_rozdzieleniu_krzesla_300_03_03.md",
+   "co": "ZAWIADOMIENIE KROLA O ROZDZIELENIU KRZESLA - NIE PROSBA I NIE PUNKT NA RADE. ### Rada Lordow nie obsadza urzedow Korony (zasada 22). Postawienie tego przed czternastoma domami byloby naciskiem na Krola przy swiadkach albo zaproszeniem do sporu o krzeslo, ktorego zaden z nich nie obsadza. ### TRESC: Krol szuka JEDNEGO czlowieka do DWOCH urzedow, a drugi odstrasza od pierwszego. Rejestratora znajdzie sie w miesiac. Ucha nie znajdzie sie nigdy, dopoki stoi z imieniem w spisie - i to, nie ksiegi, odrzucil czlowiek w listopadzie. NAMIESTNIK ROZDZIELA URZEDY W REJESTRZE KORONY I ZAWIADAMIA O TYM, ZANIM OGLOSI GDZIEKOLWIEK INDZIEJ. Nazwiska na oba krzesla naleza do Krola i pismo o zadne nie prosi. ### Pelny tekst: gra/pismo_o_rozdzieleniu_krzesla_300_03_03.md ### 300-03-07, RZUT 41. Krol odpisal w terminie. ⚠ LIST WYLADOWAL NA FOSIE, BO KRUK LECI DO GOLEBNIKA, NIE DO CZLOWIEKA. Kancelaria Garricka przekierowala go krukiem do BIALEGO PORTU (2 dni) - BEDZIE CZEKAL NA SYMONA, gdy ten przyjedzie ~03-12. SYMON GO DZIS NIE CZYTA. ### TRESC ZAPIECZETOWANA DO 03-12. To samo dotyczy odpowiedzi o podpis pod zgoda Korony - jedno pismo, jedna odpowiedz.",
    "kto": "SYMON -> ROBB STARK",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-07",
+   "wraca": "300-03-12",
    "zamyka": "odpowiedz Krola: przyjmuje rozdzielenie albo cofa. Krol, nie Rada.",
-   "status": "otwarte"
+   "status": "ODPISANE 300-03-07 (rzut 41) - LIST W DRODZE, NIE W REKU"
   },
   {
    "data": "300-03-07",
@@ -1506,21 +1506,21 @@
   },
   {
    "data": "300-03-04",
-   "co": "JEDNA KARTA RAK - u WARRYNA, z rejestru MELLI. Warryn jest nadrzedny i koordynujacy dla wszystkich budow od 300-03-01 - to jego narzedzie, nie nowe krzeslo (zasada 42: brygadzistow dobiera sobie sam). ### KOLUMNY: robota | ilu dzis | ilu potrzeba | ilu stoi | data ostatniego ruchu. ### ⚠ I KOLUMNA, BEZ KTOREJ LICZBA KLAMIE: 400 przybyszow minus 190 przy robocie NIE JEST DWUSTOMA DZIESIECIOMA ROBOTNIKAMI. W czterystu sa dzieci, starzy, niezdolni i kobiety przy domach i przy chorych. Bez rubryki NIEZDOLNY / DZIECKO / PRZY DOMU karta pokaze rezerwe, ktorej nie ma, i ktos na niej oprze rozkaz.",
+   "co": "JEDNA KARTA RAK - u WARRYNA, z rejestru MELLI. Warryn jest nadrzedny i koordynujacy dla wszystkich budow od 300-03-01 - to jego narzedzie, nie nowe krzeslo (zasada 42: brygadzistow dobiera sobie sam). ### KOLUMNY: robota | ilu dzis | ilu potrzeba | ilu stoi | data ostatniego ruchu. ### ⚠ I KOLUMNA, BEZ KTOREJ LICZBA KLAMIE: 400 przybyszow minus 190 przy robocie NIE JEST DWUSTOMA DZIESIECIOMA ROBOTNIKAMI. W czterystu sa dzieci, starzy, niezdolni i kobiety przy domach i przy chorych. Bez rubryki NIEZDOLNY / DZIECKO / PRZY DOMU karta pokaze rezerwe, ktorej nie ma, i ktos na niej oprze rozkaz. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "WARRYN + MELLA",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06",
    "zamyka": "jedna karta na stole PRZED wyjazdem 03-07, z rubryka niezdolnych",
-   "status": "otwarte"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-04 - STALA",
-   "co": "ZASADA ZWROTU RAK: ROBOTA, KTORA STOI DLUZEJ NIZ TRZY DNI, ODDAJE LUDZI DO REJESTRU - I ODZYSKUJE ICH Z PIERWSZENSTWEM W DNIU, W KTORYM RUSZA. ### POWOD: czterdziestu osmiu ludzi stalo przy zamarznietej grobli i JADLO CODZIENNIE, a karta zywnosciowa liczy GEBY, nie robote. Zaden brygadzista nie odda czlowieka dobrowolnie, jesli oddanie znaczy strate - wiec oddanie NIE MOZE znaczyc straty. ### DOKTRYNA: brygadzista, ktory traci ludzi przez oddanie, bedzie ich trzymal bezczynnych; brygadzista, ktory odzyskuje ich z pierwszenstwem, odda ich sam.",
+   "co": "ZASADA ZWROTU RAK: ROBOTA, KTORA STOI DLUZEJ NIZ TRZY DNI, ODDAJE LUDZI DO REJESTRU - I ODZYSKUJE ICH Z PIERWSZENSTWEM W DNIU, W KTORYM RUSZA. ### POWOD: czterdziestu osmiu ludzi stalo przy zamarznietej grobli i JADLO CODZIENNIE, a karta zywnosciowa liczy GEBY, nie robote. Zaden brygadzista nie odda czlowieka dobrowolnie, jesli oddanie znaczy strate - wiec oddanie NIE MOZE znaczyc straty. ### DOKTRYNA: brygadzista, ktory traci ludzi przez oddanie, bedzie ich trzymal bezczynnych; brygadzista, ktory odzyskuje ich z pierwszenstwem, odda ich sam. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "WARRYN (egzekwuje) + MELLA (rejestr)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06",
    "zamyka": "zasada ogloszona brygadzistom",
-   "status": "otwarte"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-04",
@@ -1533,21 +1533,21 @@
   },
   {
    "data": "300-03-04",
-   "co": "JEDENASTU PYTA SIE PO IMIENIU - I PYTA ICH KTOS, KTO ICH NIE OPLACA. ### POWOD, KTORY JEST CALA KONSTRUKCJA: siedmiu z jedenastu stoi dzis w rejestrze Melli jako dniowkowi Fosy. Czlowiek zapytany przez tego, kto mu placi, odpowie to, co mu zachowa dniowke. Pyta MAESTER WYSTAN albo PISARZ GRODZKI - nie Warryn, nie Mella, nie brygadzista. To ten sam zakaz, ktory juz stoi u Jastrzebi: KTO CHWYTA, TEN NIE SADZI. ### SLOWO PRZY BRAMIE NIE JEST PRZYSIEGA. Czlowiek, ktory w zimie powiedzial 'na Mur', mogl mowic to, co otwiera brame - a Straz bierze TYLKO OCHOTNIKOW i wartosc tego zwyczaju jest cala jego sila. ### KTO POWIE 'NA MUR' - idzie z najblizszym transportem, z kwitem. ### KTO POWIE 'ZOSTAJE' - zapisany jako zostajacy Z WLASNEGO SLOWA, z data i znakiem, zeby nikt nigdy nie powiedzial, ze Fosa go zatrzymala.",
+   "co": "JEDENASTU PYTA SIE PO IMIENIU - I PYTA ICH KTOS, KTO ICH NIE OPLACA. ### POWOD, KTORY JEST CALA KONSTRUKCJA: siedmiu z jedenastu stoi dzis w rejestrze Melli jako dniowkowi Fosy. Czlowiek zapytany przez tego, kto mu placi, odpowie to, co mu zachowa dniowke. Pyta MAESTER WYSTAN albo PISARZ GRODZKI - nie Warryn, nie Mella, nie brygadzista. To ten sam zakaz, ktory juz stoi u Jastrzebi: KTO CHWYTA, TEN NIE SADZI. ### SLOWO PRZY BRAMIE NIE JEST PRZYSIEGA. Czlowiek, ktory w zimie powiedzial 'na Mur', mogl mowic to, co otwiera brame - a Straz bierze TYLKO OCHOTNIKOW i wartosc tego zwyczaju jest cala jego sila. ### KTO POWIE 'NA MUR' - idzie z najblizszym transportem, z kwitem. ### KTO POWIE 'ZOSTAJE' - zapisany jako zostajacy Z WLASNEGO SLOWA, z data i znakiem, zeby nikt nigdy nie powiedzial, ze Fosa go zatrzymala. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "MAESTER WYSTAN albo pisarz grodzki",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06",
    "zamyka": "jedenascie odpowiedzi z data i znakiem, PRZED wyjazdem 03-07",
-   "status": "otwarte"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-04 - STALE",
-   "co": "RUBRYKA 'NA MUR' W KSIEDZE BRAMY - ROZKAZ STALY, BEZ NOWEGO URZEDU. Kto przy wejsciu poda 'na Mur', dostaje KWIT, WIKT i miejsce w najblizszym transporcie na polnoc. Ksiega bramy istnieje od 300-02-12, komora ma pisarza, a ziarno na Mur i tak idzie - transport istnieje. ### DLACZEGO TO NIE ZADZIALALO PRZEZ SIEDEM MIESIECY: apel z 299-08-14 poszedl do wszystkich krolestw poludnia i byl darmowy, ale nie mial ANI JEDNEJ RUBRYKI PO TEJ STRONIE. Ludzie przychodzili, mowili 'na Mur', i szli kopac torf, bo nikt nie mial kartki, na ktorej to sie zapisuje. ### DOKTRYNA: apel bez rubryki po stronie odbierajacego jest ogloszeniem, nie kanalem - a Fosa wchlonela rekrutow Muru nie ze zlej woli, tylko dlatego, ze nie bylo gdzie ich wpisac.",
+   "co": "RUBRYKA 'NA MUR' W KSIEDZE BRAMY - ROZKAZ STALY, BEZ NOWEGO URZEDU. Kto przy wejsciu poda 'na Mur', dostaje KWIT, WIKT i miejsce w najblizszym transporcie na polnoc. Ksiega bramy istnieje od 300-02-12, komora ma pisarza, a ziarno na Mur i tak idzie - transport istnieje. ### DLACZEGO TO NIE ZADZIALALO PRZEZ SIEDEM MIESIECY: apel z 299-08-14 poszedl do wszystkich krolestw poludnia i byl darmowy, ale nie mial ANI JEDNEJ RUBRYKI PO TEJ STRONIE. Ludzie przychodzili, mowili 'na Mur', i szli kopac torf, bo nikt nie mial kartki, na ktorej to sie zapisuje. ### DOKTRYNA: apel bez rubryki po stronie odbierajacego jest ogloszeniem, nie kanalem - a Fosa wchlonela rekrutow Muru nie ze zlej woli, tylko dlatego, ze nie bylo gdzie ich wpisac. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "GARTH (komora i jej pisarz)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06",
    "zamyka": "rubryka w ksiedze bramy i rozkaz staly u pisarza komory",
-   "status": "otwarte"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-04",
@@ -1578,12 +1578,12 @@
   },
   {
    "data": "300-03-05",
-   "co": "ADRES RUCHOMY WCHODZI W ZYCIE DWA DNI WCZESNIEJ - KANCELARIA GARRICKA PRZEKIEROWUJE WSZYSTKO. Od dzis kazdy meldunek, kazda odpowiedz i kazdy kruk ida TAM, GDZIE JEST NAMIESTNIK, nie na Fose. Dotyczy natychmiast: odpowiedzi Krola o rozdzieleniu krzesla (03-07), rekomendacji Ilaria (03-08), pakietu Gawena, wykazow Berona, meldunku VIII Osrica. ### TO JEST TA SAMA POPRAWKA, KTORA WPROWADZONO TORRENOWI 300-02-17 - i ktora wtedy wprowadzono dlatego, ze meldunek VII Osrica LEZAL, bo adres byl staly, a Namiestnik nie.",
+   "co": "ADRES RUCHOMY WCHODZI W ZYCIE DWA DNI WCZESNIEJ - KANCELARIA GARRICKA PRZEKIEROWUJE WSZYSTKO. Od dzis kazdy meldunek, kazda odpowiedz i kazdy kruk ida TAM, GDZIE JEST NAMIESTNIK, nie na Fose. Dotyczy natychmiast: odpowiedzi Krola o rozdzieleniu krzesla (03-07), rekomendacji Ilaria (03-08), pakietu Gawena, wykazow Berona, meldunku VIII Osrica. ### TO JEST TA SAMA POPRAWKA, KTORA WPROWADZONO TORRENOWI 300-02-17 - i ktora wtedy wprowadzono dlatego, ze meldunek VII Osrica LEZAL, bo adres byl staly, a Namiestnik nie. ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
    "kto": "GARRICK (kancelaria Fosy)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06",
    "zamyka": "kancelaria wie, gdzie jest pan, w kazdym dniu drogi",
-   "status": "otwarte"
+   "status": "zrobione 300-03-07 - meldunek w drodze"
   },
   {
    "data": "300-03-05",

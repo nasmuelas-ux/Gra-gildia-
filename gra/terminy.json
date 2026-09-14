@@ -1281,12 +1281,12 @@
   },
   {
    "data": "300-03-07",
-   "co": "KTO W KORONIE PODPISUJE ZGODE - pozycja otwarta, ktora wyszla dopiero przy pisaniu czesci V. Krzeslo REJESTRATORA KORONY stoi puste PIATY MIESIAC, a zgoda musi miec podpis urzedu, nie czlowieka. Do rozstrzygniecia: czy podpisuje SKARBNIK (Gawen, bo zboze to zapas), czy KANCELARIA (Beron, bo to wpis), czy czeka na Rejestratora - czyli na Krola.",
+   "co": "KTO W KORONIE PODPISUJE ZGODE - ZAMKNIETE 300-03-03 PRZEZ ROZDZIELENIE KRZESLA. Podpisuje REJESTRATOR KORONY - bo zgoda to WPIS, nie zapas i nie laska. Krzeslo puste, wiec do czasu obsadzenia podpisuje kancelaria Winterfell (Beron) z adnotacja 'w zastepstwie' I Z DATA WAZNOSCI. ZASADA: zastepstwo bez daty waznosci jest nadaniem. ### Zostaje do potwierdzenia przez Krola razem z rozdzieleniem - wraca 300-03-07.",
    "kto": "SYMON -> KROL",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-07",
-   "zamyka": "nazwa urzedu, ktory podpisuje zgode",
-   "status": "otwarte"
+   "zamyka": "potwierdzenie Krola, ze zastepstwo kancelarii ma date waznosci",
+   "status": "otwarte - rozstrzygniete po naszej stronie, czeka na potwierdzenie"
   },
   {
    "data": "300-03-30",
@@ -1379,12 +1379,12 @@
    "status": "zrobione"
   },
   {
-   "data": "wyslany 300-03-03 wieczorem",
-   "co": "ROZDZIELENIE KRZESLA - PISMO DO KROLA, NIE PUNKT NA RADE. ### POPRAWKA GRACZA 300-03-03: RADA LORDOW NIE OBSADZA URZEDOW KORONY. To prerogatywa (zasada 22 - prerogatywa nie idzie pod glosy). Postawienie tego na Radzie bylo bledem formy: pytanie zadane czternastu domom o to, co nalezy do jednego czlowieka, jest albo naciskiem, albo zaproszeniem czternastu do sporu o krzeslo, ktorego zaden z nich nie obsadza. ### TRESC PISMA: krzeslo jest JEDNO na DWA urzedy. Rachmistrza Korony znajdzie sie w miesiac. Ucha Korony nie znajdzie sie wcale, bo nikt nie chce byc uchem Z IMIENIA - i wlasnie to, a nie ksiegi, odrzucil czlowiek w listopadzie. Krol szuka od czterech miesiecy jednego czlowieka do dwoch rzeczy, z ktorych druga sama w sobie odstrasza pierwsza. PROSBA: rozdzielic. Rejestrator jawny, z nazwiskiem i pieczecia. Ucho - bez wpisu do zadnego spisu, znane Krolowi i Namiestnikowi. ### Pismo nie podaje nazwiska na zadne z dwoch krzesel - prosi o rozdzielenie, nie o obsade.",
+   "data": "wyslany 300-03-03 wieczorem, kruk o brzasku",
+   "co": "ZAWIADOMIENIE KROLA O ROZDZIELENIU KRZESLA - NIE PROSBA I NIE PUNKT NA RADE. ### Rada Lordow nie obsadza urzedow Korony (zasada 22). Postawienie tego przed czternastoma domami byloby naciskiem na Krola przy swiadkach albo zaproszeniem do sporu o krzeslo, ktorego zaden z nich nie obsadza. ### TRESC: Krol szuka JEDNEGO czlowieka do DWOCH urzedow, a drugi odstrasza od pierwszego. Rejestratora znajdzie sie w miesiac. Ucha nie znajdzie sie nigdy, dopoki stoi z imieniem w spisie - i to, nie ksiegi, odrzucil czlowiek w listopadzie. NAMIESTNIK ROZDZIELA URZEDY W REJESTRZE KORONY I ZAWIADAMIA O TYM, ZANIM OGLOSI GDZIEKOLWIEK INDZIEJ. Nazwiska na oba krzesla naleza do Krola i pismo o zadne nie prosi. ### Pelny tekst: gra/pismo_o_rozdzieleniu_krzesla_300_03_03.md",
    "kto": "SYMON -> ROBB STARK",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-07",
-   "zamyka": "decyzja Krola: rozdzielic krzeslo albo nie. Krol, nie Rada.",
+   "zamyka": "odpowiedz Krola: przyjmuje rozdzielenie albo cofa. Krol, nie Rada.",
    "status": "otwarte"
   },
   {
@@ -1395,6 +1395,15 @@
    "wraca": "300-03-07",
    "zamyka": "decyzja: pytac Berona czy zostawic",
    "status": "otwarte - DO ROZSTRZYGNIECIA"
+  },
+  {
+   "data": "300-03-03",
+   "co": "NIE PYTAC BERONA, KTO ODMOWIL W LISTOPADZIE - DECYZJA GRACZA, ZAMKNIETE. Pytanie urzednika o to, co jego pan zatail, kupuje jedno nazwisko za cene czlowieka, ktory odtad wie, ze sie go uzywa. Beron jest jedynym kanalem, ktorym Namiestnik widzi, co przychodzi do Korony obok niego (nowa rubryka od 300-03-03) - i ten kanal jest wart wiecej niz nazwisko.",
+   "kto": "SYMON",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-03",
+   "zamyka": "postanowione - nie pyta sie nikogo",
+   "status": "zrobione"
   }
  ]
 }

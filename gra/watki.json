@@ -5058,7 +5058,7 @@
    "id": "ustroj_urzedow_redundancja_299_09_10",
    "tytul": "Ustroj urzedow i KADRY Korony - p.o. niesie robote, nie obejmuje urzedu",
    "status": "projekt_narada_dzis_rada_po_powrocie_krola",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "filar": "USTROJ URZEDOW I KADRY KORONY",
    "stan_watku": "ZYWY"
   },
@@ -6174,7 +6174,7 @@
   {
    "id": "ucho_korony",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 6
   },
   {
    "id": "kanal_olenna",
@@ -6258,6 +6258,11 @@
   },
   {
    "id": "obligacja_lenna_cailin_szkic",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "prawo_spichlerza_polnocy",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

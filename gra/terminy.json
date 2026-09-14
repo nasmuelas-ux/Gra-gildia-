@@ -2513,11 +2513,11 @@
    "status": "otwarte"
   },
   {
-   "data": "300-03-13",
-   "co": "⚠ SZTORM (rzut 7) - PIERWSZA PARTIA TOWARU KORONY NIE WEJDZIE DZIS. Nabrzeze stoi, kruki nie leca. ### CO TO ROBI Z MARCEM: 45 smokow, ktore zamykaja wykup 340, mialo zejsc z pierwszej partii soli i ryby. Weksle zapadaja W MARCU - kilka dni zwloki jeszcze sie miesci, ale zapas dni wlasnie sie skrocil. ### CO IDZIE MIMO SZTORMU: PODPIS Z WYMANEM - akty podpisuje sie pod dachem.",
+   "data": "300-03-16 - kolejna proba",
+   "co": "⚠ SZTORM (rzut 7) - PIERWSZA PARTIA TOWARU KORONY NIE WEJDZIE DZIS. Nabrzeze stoi, kruki nie leca. ### CO TO ROBI Z MARCEM: 45 smokow, ktore zamykaja wykup 340, mialo zejsc z pierwszej partii soli i ryby. Weksle zapadaja W MARCU - kilka dni zwloki jeszcze sie miesci, ale zapas dni wlasnie sie skrocil. ### CO IDZIE MIMO SZTORMU: PODPIS Z WYMANEM - akty podpisuje sie pod dachem. ### 300-03-15 (pogoda 20, przychodzace 1): NIE WESZLA DRUGI DZIEN. Morze nie puscilo. Do zapadniecia weksli 300-03-31 zostaje SZESNASCIE DNI; brakujace 45 nadal wisi na tej partii.",
    "kto": "HAL + kapitanat portu",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-15",
+   "wraca": "300-03-16",
    "zamyka": "pierwsza partia w skladzie",
    "status": "otwarte"
   },
@@ -2591,7 +2591,7 @@
    "kanal": "kantor Bialy Port",
    "wraca": "300-03-14",
    "zamyka": "rachuba towaru wpisana jako stala pozycja kwartalna i sufit ogloszony wierzycielom",
-   "status": "otwarte"
+   "status": "IDZIE SAMO (zasada 7) - Tam liczy, Hal wystawia; meldunek w rachubie kwartalnej"
   },
   {
    "data": "wiosna 300",

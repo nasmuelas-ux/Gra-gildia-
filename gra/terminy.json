@@ -2298,7 +2298,7 @@
   },
   {
    "data": "300-03-16",
-   "co": "THEOMORE - LICZBA I DATA DO KOLEBKI. Izby sa zamowione, ale przez pol roku nikt nie podal Wymanowi ANI JEDNEJ LICZBY, i to nie byla jego wina. TERAZ IDZIE PYTANIE, KTORE ZAMYKA TE DZIURE: ILU UCZNIOW I KIEDY PRZYJADA, ILE SKRZYN KSIAG I SKAD. ### Dopoki tego nie ma, dwie izby sa dwiema izbami, a nie kolebka. ### 300-03-13: CZESC ODPOWIEDZI PADLA JUZ W NOCY, Z UST - ilu zostalo (siedmiu), stan skrzyn, koszt pierwszego roku (znikomy w ksiegach, bo dach niosl Wyman a reszte rodziny uczniow) oraz gmach w Przystani Wilka - NIE W TYM ROKU. ZOSTAJE: ilu uczniow i KIEDY przyjada nastepni, ile skrzyn i skad - czyli LICZBA DLA WYMANA. ### 300-03-13 NOC: ILE SKRZYN I SKAD odpowie sie SAMO, przez wyjmowanie 300-03-14 - liczy sie przy wynoszeniu, uszkodzone osobno. ZOSTAJE TYLKO: KIEDY PRZYJADA NASTEPNI UCZNIOWIE - a pan powiedzial 'siedmiu wystarczy na teraz', wiec ta data wiaze sie z gmachem, nie z naborem.",
+   "co": "THEOMORE - LICZBA I DATA DO KOLEBKI. Izby sa zamowione, ale przez pol roku nikt nie podal Wymanowi ANI JEDNEJ LICZBY, i to nie byla jego wina. TERAZ IDZIE PYTANIE, KTORE ZAMYKA TE DZIURE: ILU UCZNIOW I KIEDY PRZYJADA, ILE SKRZYN KSIAG I SKAD. ### Dopoki tego nie ma, dwie izby sa dwiema izbami, a nie kolebka. ### 300-03-13: CZESC ODPOWIEDZI PADLA JUZ W NOCY, Z UST - ilu zostalo (siedmiu), stan skrzyn, koszt pierwszego roku (znikomy w ksiegach, bo dach niosl Wyman a reszte rodziny uczniow) oraz gmach w Przystani Wilka - NIE W TYM ROKU. ZOSTAJE: ilu uczniow i KIEDY przyjada nastepni, ile skrzyn i skad - czyli LICZBA DLA WYMANA. ### 300-03-13 NOC: ILE SKRZYN I SKAD odpowie sie SAMO, przez wyjmowanie 300-03-14 - liczy sie przy wynoszeniu, uszkodzone osobno. ZOSTAJE TYLKO: KIEDY PRZYJADA NASTEPNI UCZNIOWIE - a pan powiedzial 'siedmiu wystarczy na teraz', wiec ta data wiaze sie z gmachem, nie z naborem. ### 300-03-14: ILE SKRZYN - ODPOWIEDZIANE SAMYM WYNOSZENIEM: DZIEWIETNASCIE, cztery uszkodzone, dwie ksiegi stracone. ZOSTAJE TYLKO: KIEDY PRZYJADA NASTEPNI UCZNIOWIE - a to wiaze sie z gmachem, nie z naborem ('siedmiu wystarczy na teraz').",
    "kto": "THEOMORE",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-16",
@@ -2613,12 +2613,12 @@
   },
   {
    "data": "300-03-14",
-   "co": "WYJMOWANIE SKRZYN GLEBOKORZENIA - rozkaz pana z nocy 300-03-13. Ksiegi wychodza ze skrzyn po POL ROKU przy kuchni i kominie do izby ksiag. ⚠ IZBA NIE JEST JESZCZE PRZYSTOSOWANA i nie musi byc: sucha i zamykana trzyma skrzynie od pierwszego dnia. Chodzi o ZATRZYMANIE SZKODY, nie o wygode. ZAWILGOCONYCH NIE SUSZY SIE PRZY OGNIU - chlodno i sucho. PRZY OKAZJI ZAMYKA SIE POZYCJA NALEZNA 300-03-16: ile skrzyn i skad - liczy sie przy wynoszeniu, uszkodzone odklada osobno, z nazwami. ⚠ PAN JEST NA MIEJSCU DO 300-03-15, WIEC TO ZOBACZY.",
+   "co": "WYJMOWANIE SKRZYN GLEBOKORZENIA - rozkaz pana z nocy 300-03-13. Ksiegi wychodza ze skrzyn po POL ROKU przy kuchni i kominie do izby ksiag. ⚠ IZBA NIE JEST JESZCZE PRZYSTOSOWANA i nie musi byc: sucha i zamykana trzyma skrzynie od pierwszego dnia. Chodzi o ZATRZYMANIE SZKODY, nie o wygode. ZAWILGOCONYCH NIE SUSZY SIE PRZY OGNIU - chlodno i sucho. PRZY OKAZJI ZAMYKA SIE POZYCJA NALEZNA 300-03-16: ile skrzyn i skad - liczy sie przy wynoszeniu, uszkodzone odklada osobno, z nazwami. ⚠ PAN JEST NA MIEJSCU DO 300-03-15, WIEC TO ZOBACZY. ### 300-03-14 WYKONANE, SYMON BYL PRZY TYM. DZIEWIETNASCIE SKRZYN; cztery staly przy scianie kominowej i one sa cala szkoda. Oprawy zeszly, czesc skladek zlepiona, pismo w wiekszosci czytelne, DWIE KSIEGI NIE DO URATOWANIA. ⚠ PRZEZYLY TE, KTORYCH THEOMORE UZYWAL - lezaly na stole, nie w skrzyni. Zgnilo to, czego przez pol roku nikt nie otworzyl.",
    "kto": "THEOMORE + ludzie Wymana",
    "kanal": "Nowy Zamek, na miejscu",
    "wraca": "300-03-14",
    "zamyka": "ksiegi w izbie, spis skrzyn i lista uszkodzonych",
-   "status": "otwarte - jutro"
+   "status": "ZROBIONE 300-03-14"
   },
   {
    "data": "300-03-14",

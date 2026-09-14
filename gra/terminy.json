@@ -2358,6 +2358,33 @@
    "wraca": "300-03-13",
    "zamyka": "Wyman wie, z czym jedzie na Rade",
    "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-30",
+   "co": "DREWNO I PRZYSTANIE - JEDNA POZYCJA, NIE DWIE. Wskazanie gracza 300-03-12. ### FIZYKA, KTORA TO SPINA: DREWNO LADUJE SIE WYLACZNIE PRZY WODZIE - osiemnascie wozow to jeden dzien Bialego Portu. Czyli KAZDA NOWA PRZYSTAN NA WLASCIWYM MORZU JEST DRUGIM KOMINEM TEJ SAMEJ HUTY, a Bialy Port przestaje byc waskim gardlem calej Polnocy. ### I ODWROTNIE, CO WAZNIEJSZE: DREWNO JEST PIENIADZEM, KTORY TE PRZYSTANIE ZBUDUJE. Przystan Wilka poszla na Korone 299-09-09 wlasnie po to, zeby nie stala za prywatne pieniadze urzednika - a Korona ma w monecie okolo 3500 rocznie i nie ma czym. ### SPRZEDAZ DREWNA JEST JEDYNYM ZNANYM DOCHODEM KORONY, KTORY NIE JEST DANINA. Nie trzeba go uchwalac przeciw lordom - lordowie na nim ZARABIAJA. ### CO TO ROBI Z KAZDYM Z PORTOW - BO DO DZIS ZADEN NIE MIAL NAPISANEGO, PO CO JEST: PRZYSTAN WILKA (Korona 1/2, Cerwyn 1/4, Manderly 1/4; Bors buduje, Norren trzyma ksiegi pomostu, GOSPODARZA BRAK) - lezy na Gornym Bialym Nozu, czyli NA WODZIE: to jest druga brama drewna, i to odpowiada takze na pytanie Wymana o gospodarza, bo gospodarzem jest ten, kto tam laduje. STARKPORT (Vemund przyczolek, Sigrun osada) - dostaje powod istnienia i robote dla osadnikow, zamiast byc samym przyczolkiem. UJSCIE - dok podpisywany jutro, koniec lancucha dwoch morz. ### ⚠ CZEGO NIE WOLNO POMYLIC I CZEGO NIE MA W ZAPISIE: KTORE MORZE. Do Braavos i Pentos plynie sie WSCHODNIM. Zachodni brzeg (Wilczy Las schodzacy do wody, Deepwood Motte, Kamienisty Brzeg, Cypel Morskiego Smoka) ma najwiecej drewna i NAJGORSZY KIERUNEK - tamtedy blizej do Zelaznych Wysp niz do Essos. PORT NA ZLYM MORZU NIE JEST BRAMA DREWNA. POLOZENIA STARKPORTU ZAPIS NIE PRZESADZA - to trzeba sprawdzic, ZANIM wpisze sie go do tej wiazki.",
+   "kto": "SYMON -> RADA 300-03-30, wiazka V",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "drewno i przystanie ida na Rade jako jedna uchwala: cena, miara, ksiega, i porty jako punkty zaladunku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "PRZYSTAN WILKA MA GOSPODARZA - ODPOWIEDZ, KTORA WYSZLA Z DREWNA, A NIE Z USTROJU. Wyman zapytal dzis, kto tam decyduje codziennie rano, bo 'trzech wlascicieli i zaden gospodarz to zwykle pusty pomost'. Pytanie stalo bez odpowiedzi, dopoki port nie mial po co istniec. ### OD CHWILI, GDY PRZYSTAN WILKA JEST DRUGA BRAMA DREWNA, GOSPODARZEM JEST TEN, KTO TAM LADUJE - czyli MISTRZ HANDLU przez swojego czlowieka, tak samo jak w Bialym Porcie. ### A KSIEGI JUZ TAM STOJA: NORREN SCISLY prowadzi ksiege pomostu od 300-03-03 i NIE STOI POD BORSEM, bo ksiegi i kamien to dwa krzesla. Bors buduje, Norren liczy, Mistrz Handlu laduje. Trzy krzesla, zaden nie sprawdza sam siebie.",
+   "kto": "SYMON + WYMAN + CERWYN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "gospodarz Przystani Wilka wskazany i przyjety przez trzech wlascicieli",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "⚠ NA KTORYM MORZU LEZY STARKPORT - PYTANIE, KTORE TRZEBA ZAMKNAC PRZED RADA. Wschodni brzeg otwiera droge do Braavos i Pentos. Zachodni ma najwiecej drewna i najgorszy kierunek. Vemund od Kotwy stawia przyczolek, Sigrun z Wdowiej Strazy dobiera osadnikow - ale POLOZENIA ZAPIS NIE PRZESADZA, a od niego zalezy, czy Starkport jest brama drewna, czy portem rybackim. ### Pytanie idzie do VEMUNDA, ktory tam stoi. Nie zgaduje sie polozenia wlasnego portu.",
+   "kto": "VEMUND OD KOTWY",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-22",
+   "zamyka": "ktore morze - jedno slowo",
+   "status": "otwarte"
   }
  ]
 }

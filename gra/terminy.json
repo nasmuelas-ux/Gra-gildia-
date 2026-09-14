@@ -2091,12 +2091,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "KOLEBKA GLEBOKORZENIA - ODPOWIEDZ NA PYTANIE WYMANA ISTNIEJE OD 299-09-21 I BRZMI: OBOJE. Theomore przyjal urzad, redefiniujac go wlasnymi slowami jako 'BIBLIOTEKE I DZIESIECIU UCZNIOW' (rzut 96). To nie jest wybor miedzy skrzyniami a ludzmi - to sa dwie izby: jedna sucha i cicha, druga ciepla i glosna, i zadna nie moze byc ta druga. ### Wyman pyta slusznie, bo do tej pory nikt mu nie powiedzial, CO ma przygotowac - oferta stala od pol roku bez ani jednej liczby. ### VARD KILOF oglada tymczasem kamien na Goracym Porcie pod stala siedzibe; Nowy Zamek jest KOLEBKA, nie domem docelowym, i to tez trzeba powiedziec wprost, zeby Wyman nie budowal na dziesiec lat czegos, co ma stac dwa.",
+   "co": "KOLEBKA GLEBOKORZENIA - ODPOWIEDZ NA PYTANIE WYMANA ISTNIEJE OD 299-09-21 I BRZMI: OBOJE. Theomore przyjal urzad, redefiniujac go wlasnymi slowami jako 'BIBLIOTEKE I DZIESIECIU UCZNIOW' (rzut 96). To nie jest wybor miedzy skrzyniami a ludzmi - to sa dwie izby: jedna sucha i cicha, druga ciepla i glosna, i zadna nie moze byc ta druga. ### Wyman pyta slusznie, bo do tej pory nikt mu nie powiedzial, CO ma przygotowac - oferta stala od pol roku bez ani jednej liczby. ### VARD KILOF oglada tymczasem kamien na Goracym Porcie pod stala siedzibe; Nowy Zamek jest KOLEBKA, nie domem docelowym, i to tez trzeba powiedziec wprost, zeby Wyman nie budowal na dziesiec lat czegos, co ma stac dwa. ### 300-03-12: ZAMOWIONE OBIE IZBY.",
    "kto": "SYMON -> WYMAN + THEOMORE",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-16",
    "zamyka": "dwie izby zamowione u Wymana, z liczba uczniow i z data, oraz powiedziane, ze to kolebka",
-   "status": "otwarte"
+   "status": "zrobione 300-03-12 - OBIE IZBY ZAMOWIONE"
   },
   {
    "data": "300-03-12",
@@ -2286,6 +2286,33 @@
    "wraca": "300-04-29",
    "zamyka": "pierwsza ksiega Pentos w kantorze Nesty",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "KOLEBKA GLEBOKORZENIA - OBIE IZBY, ZAMOWIONE U WYMANA. Odpowiedz na jego pytanie sprzed godziny i na jego oferte sprzed POL ROKU (299-09-21, rzut 89), ktora stala bez ani jednej liczby. ### IZBA PIERWSZA - KSIEGI: sucha, cicha, z dala od kuchni i kominow, zamykana. ### IZBA DRUGA - UCZNIOWIE: ciepla, glosna, z miejscem do spania i stolem mistrza. Zadna nie moze byc ta druga i to jest cale sedno: Theomore przyjal urzad, definiujac go wlasnymi slowami jako 'BIBLIOTEKE I DZIESIECIU UCZNIOW'. ### ⚠ I RZECZ, KTORA MOWI SIE WYMANOWI OD RAZU, ZEBY NIE BUDOWAL NA DZIESIEC LAT: TO JEST KOLEBKA, NIE DOM DOCELOWY. Vard Kilof oglada kamien na Goracym Porcie. Wiec nie skrzydlo i nie budowa - PRZYSTOSOWANIE DWOCH IZB, ktore juz stoja.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "dwie izby wskazane w Nowym Zamku",
+   "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-16",
+   "co": "THEOMORE - LICZBA I DATA DO KOLEBKI. Izby sa zamowione, ale przez pol roku nikt nie podal Wymanowi ANI JEDNEJ LICZBY, i to nie byla jego wina. TERAZ IDZIE PYTANIE, KTORE ZAMYKA TE DZIURE: ILU UCZNIOW I KIEDY PRZYJADA, ILE SKRZYN KSIAG I SKAD. ### Dopoki tego nie ma, dwie izby sa dwiema izbami, a nie kolebka.",
+   "kto": "THEOMORE",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-03-16",
+   "zamyka": "liczba uczniow, liczba skrzyn i data przyjazdu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "UDZIAL W DREWNIE - I KSZTALT, KTORY GO ROZWIAZUJE, BO PYTANIE BYLO O ZLA RZECZ. ### CO JEST DZIS: DREWNO BENNETA - pomniejszy posiadacz z WLASNYM borem, kanal otwarty 297-06-24 przez reczenie Borena, umowa podpisana 297-06-25. Jego wartosc polega na TRZECH rzeczach: idzie LADEM, dochodzi GDY RZEKA STOI, i nie tyka ZADNEGO lasu panskiego ani lesniczego. Symon byl przy tym BROKEREM, NIE PRYNCYPALEM, i na tym stoi cala czystosc tej linii. ### ⚠ DLATEGO UDZIALU W DREWNIE SIE NIE DAJE: Wyman jest LORDEM. Lord z udzialem w borze drobnego posiadacza sprawia, ze posiadacz przestaje byc drobnym posiadaczem, a drewno przestaje byc prywatne. Stracilibysmy dokladnie te wlasciwosc, dla ktorej ta linia istnieje. ### CO SIE DAJE ZAMIAST: UDZIAL W BEDNARNI. Wyman nie potrzebuje drzewa - POTRZEBUJE BECZEK. Ma szkutnikow, ma port, ma ladunki do pakowania, a beczka jest waskim gardlem calego lancucha konserwacji, ktory jest jedyna linia Domu rosnaca zima. ### I TO JEST TA SAMA KONSTRUKCJA, CO PRZY PRZEWLOCE, TYLKO ODWROCONA: tam Dom nie brał myta, bo potrzebowal ruchu. Tu Wyman nie bierze drewna, bo potrzebuje beczek. ### CO DOM NA TYM ZYSKUJE, A NIE TRACI: udzial Manderlych wchodzi Z JEGO DREWNEM I JEGO BEDNARZAMI, wiec linia ROSNIE, zamiast sie dzielic - a beczek brakuje, nie nadmiaru.",
+   "kto": "SYMON + WYMAN + HAL",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "udzial w bednarni ustalony co do czesci i wkladu - albo Wyman obstaje przy drewnie",
+   "status": "otwarte - JUTRO"
   }
  ]
 }

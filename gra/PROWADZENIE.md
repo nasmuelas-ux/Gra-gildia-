@@ -427,10 +427,16 @@ Kanały bez policzalnego czasu (**za Mur**, **Greywater Watch**) mają `sprawdza
 
 Pięć bloków, ta sama kolejność. Zmienia się WNĘTRZE dwóch:
 
+> ### ⚙️ PRZED NAPISANIEM RANKA URUCHAMIAM: `python3 gra/dzien.py`
+> Ten skrypt drukuje blok 2 i podaje pulę do losowania w bloku 3. **Kalendarza NIE piszę z pamięci — wklejam to, co zwrócił.** Jeśli go nie uruchomiłem, ranek jest nieważny.
+
 1. **DATA + POGODA** — pogoda ma nieść skutek, nie ozdobę.
-2. **KALENDARZ** — najbliższe terminy.
+2. **KALENDARZ — GENEROWANY, NIE PAMIĘTANY.** Trzy bloki, zawsze w tej kolejności:
+   - **🔴 PRZETERMINOWANE** z liczbą dni spóźnienia. **Każda pozycja MUSI dostać rozstrzygnięcie w tej turze:** przyszło · nie przyszło **i wiadomo dlaczego** · przyszło co innego. Pusta lista też się pokazuje — wtedy jednym słowem „brak".
+   - **🟡 WRACA DZIŚ**
+   - **NAJBLIŻSZE TRZY DNI**
 3. **📬 KORESPONDENCJA — TRZY RZECZY:**
-   - **CO PRZYSZŁO Z ZEWNĄTRZ** (rzut na inbound — losuję Z LISTY „CO ŚLEDZIMY", nie z powietrza)
+   - **CO PRZYSZŁO Z ZEWNĄTRZ** — rzut ciągnę **Z KOLEJKI `terminy.json`** (pozycje otwarte z kanałem), nie z pamięci i nie z powietrza. Rzut należy się sprawie **zewnętrznej**; własnym opłaconym ludziom — bez rzutu.
    - **CO SAMO DOJRZAŁO** — meldunki ludzi/urzędów, którym coś zlecono. BEZ RZUTU. Forma z zasady 8.
    - **CISZA JEST PRAWDZIWA W DRODZE** (zasada 11)
 4. **STATUS** — sytość/zmęczenie/zdrowie + kasa.

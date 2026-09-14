@@ -4951,7 +4951,7 @@
    "id": "taryfa_celna_polnocy_299_09",
    "tytul": "Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu",
    "status": "projekt_do_polozenia_przed_krolem",
-   "_dziennik_nota": 27,
+   "_dziennik_nota": 28,
    "filar": "TARYFA CELNA POLNOCY",
    "stan_watku": "ZYWY"
   },
@@ -5282,7 +5282,7 @@
   {
    "id": "komory_wodne_dziura_w_poborze_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "filar": "KOMORY WODNE - dziura w poborze",
    "stan_watku": "ZYWY"
   },
@@ -6264,7 +6264,7 @@
   {
    "id": "prawo_spichlerza_polnocy",
    "status": "otwarty",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "ustroj_miast_polnocy",

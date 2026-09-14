@@ -669,7 +669,7 @@
   },
   {
    "data": "PILNE - przed wyjazdem 300-03-07",
-   "co": "STRUKTURA RUCHU PRZEZ BRAME - z ksiegi Gartha od 300-02-12: ile wozow, jakiego towaru, o jakiej wartosci. BEZ TEJ LICZBY stawka myta 1/40 jest decyzja, a nie wyliczeniem, i nikt nie wie, czy Kasa 2 na zmianie zyskuje czy traci.",
+   "co": "STRUKTURA RUCHU PRZEZ BRAME - z ksiegi Gartha od 300-02-12: ile wozow, jakiego towaru, o jakiej wartosci. BEZ TEJ LICZBY stawka myta 1/40 jest decyzja, a nie wyliczeniem, i nikt nie wie, czy Kasa 2 na zmianie zyskuje czy traci. ### 300-03-04: TA LICZBA JEST TERAZ TEZ LICZBA WODNA. Ruch wodny to 1/6 ruchu ladowego, ale 1/6 CZEGO - bez struktury bramy nie da sie powiedziec, ile komora wodna odzyskuje. Dwie pozycje w kolejce okazaly sie jedna sprawa.",
    "kto": "GARTH (ksiega) + GERRIK RACHUBA (rachunek)",
    "zamyka": "rozklad wozow i wartosci za trzy tygodnie",
    "status": "otwarte - NOWE",
@@ -1434,12 +1434,12 @@
   },
   {
    "data": "300-03-04",
-   "co": "DZIURA WODNA POD PRAWEM SPICHLERZA - NAJWIEKSZY WYLOM, JAKI MA TA USTAWA, I OTWIERA SIE SAM WRAZ Z ODWILZA. Prog 30 korcy / 14 dni, ksiega bramy, rubryka 'na czyj rachunek' i los 1/12 DZIALAJA WYLACZNIE NA BRAMIE LADOWEJ. Barka omija brame - wiec kto chce kupic ponad prog bez ksiegi Polnocy, plynie. ### CO JUZ JEST W REKU I NIE KOSZTUJE NOWEGO URZEDU: (1) MCHOWE JASTRZEBIE SA NA WODZIE od 299-10 - lodzie plaskodenne, powolane do pomocy celnikom; (2) prawo o skladach OBEJMUJE BARKE WPROST ('na wozie, na barce, w cudzym skladzie na twoj rachunek') - czyli podstawa prawna JEST, brakuje tylko miejsca poboru; (3) LIST PRZEWOZOWY (poprawka trzecia) nie pyta, czy towar jedzie kolem czy plynie. ### DOKTRYNA: prawo, ktore sie ogłasza na slupie przy bramie, pilnuje tylko tych, ktorzy do bramy przyjezdzaja.",
+   "co": "DZIURA WODNA POD PRAWEM SPICHLERZA - NAJWIEKSZY WYLOM, JAKI MA TA USTAWA, I OTWIERA SIE SAM WRAZ Z ODWILZA. Prog 30 korcy / 14 dni, ksiega bramy, rubryka 'na czyj rachunek' i los 1/12 DZIALAJA WYLACZNIE NA BRAMIE LADOWEJ. Barka omija brame - wiec kto chce kupic ponad prog bez ksiegi Polnocy, plynie. ### CO JUZ JEST W REKU I NIE KOSZTUJE NOWEGO URZEDU: (1) MCHOWE JASTRZEBIE SA NA WODZIE od 299-10 - lodzie plaskodenne, powolane do pomocy celnikom; (2) prawo o skladach OBEJMUJE BARKE WPROST ('na wozie, na barce, w cudzym skladzie na twoj rachunek') - czyli podstawa prawna JEST, brakuje tylko miejsca poboru; (3) LIST PRZEWOZOWY (poprawka trzecia) nie pyta, czy towar jedzie kolem czy plynie. ### DOKTRYNA: prawo, ktore sie ogłasza na slupie przy bramie, pilnuje tylko tych, ktorzy do bramy przyjezdzaja. ### 300-03-04 ROZSTRZYGNIETE (bez rzutow - wlasna straz, wlasny urzad, wlasna decyzja). KOMORY SIE NIE STAWIA, BO BUDYNEK STOI NA JEDNYM BRZEGU, A BAGNO MA DZIESIEC. TRZY ZASADY: (1) nie pobiera sie na wodzie - CZYTA sie na wodzie; (2) PIECZEC NA LISCIE PRZEWOZOWYM - narzedzie, ktore juz istnieje od poprawki trzeciej i nie pyta, czy towar jedzie kolem czy plynie; ladunek bez pieczeci to TOWAR ZNALEZIONY, a trybem VII nikt go waznie nie nabywa; (3) KTO CZYTA, TEN NIE POBIERA - rozszerzenie zakazu naczelnego Jastrzebi 'kto chwyta, ten nie sadzi'. ### Pelny tekst: gra/komora_wodna_300_03_04.md",
    "kto": "SYMON + GARTH + HENDRY (Mchowe Jastrzebie)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06",
-   "zamyka": "rozstrzygniecie: gdzie stoi pierwszy pobor na wodzie i czyja reka - PRZED odwilza i PRZED Rada",
-   "status": "otwarte - PILNE, ZEGAR JEST POGODOWY"
+   "zamyka": "rozstrzygniete: czytanie zamiast poboru, pieczec zamiast komory",
+   "status": "zrobione 300-03-04 - ROZSTRZYGNIETE"
   },
   {
    "data": "300-03-04",
@@ -1476,6 +1476,33 @@
    "wraca": "300-04-22",
    "zamyka": "tak albo nie od samego Ilaria",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-04",
+   "co": "MCHOWE JASTRZEBIE NA WODZIE - PIECZEC NA LISCIE PRZEWOZOWYM. Kessel Brodaty: dwadziescia ludzi, lodzie plaskodenne, patrol NIEPRZEWIDYWALNY (patrol nie musi byc wszedzie, zeby papier stal sie konieczny). Steplują: data, miejsce, co widzieli. Ksiega u PISARZA GRODZKIEGO, nie u dowodcy. ⚠ ZEGAR POGODOWY: zaczyna sie z odwilza, nie z data - pierwsza pieczec ma paść tego dnia, w ktorym pierwsza barka ruszy.",
+   "kto": "KESSEL BRODATY + pisarz grodzki",
+   "kanal": "robota na miejscu (Fosa)",
+   "wraca": "300-03-11",
+   "zamyka": "pierwsza pieczec postawiona na wodzie ALBO meldunek 'lod jeszcze trzyma'",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04",
+   "co": "WYKUP TOWARU ZNALEZIONEGO - 14 DNI, SKLAD, NIE KIESZEN. Ladunek bez pieczeci idzie DO SKLADU; przewoznik ma czternascie dni na wykup: clo + myto + stala oplata. Uczciwy, ktory zgubil papier, placi grzywne i odplywa. Przemytnik nie wraca, bo po odbior trzeba przyjsc Z NAZWISKIEM I RACHUNKIEM. ### JASTRZEBIE NIE DOSTAJA NIC Z ZATRZYMANEGO - zold staly. Patrol biorący udzial w zdobyczy znajduje przemyt wszedzie, i to nie jest zarzut wobec ludzi, tylko wobec tego, kto ich tak oplaca. ### TRZECI RAZ: KARZE SIE LODZ, NIE CZLOWIEKA - czlowiek zniknie i wroci pod innym nazwiskiem, lodz kosztuje smoka i trzeba nia gdzies przyplynac. ### RUBRYKA 'NA CZYJ RACHUNEK' IDZIE NA WODE - trzeci raz w jednym dniu, trzecia ustawa.",
+   "kto": "ORLAND KORZEC (sklad) + pisarz grodzki (ksiega wykupu)",
+   "kanal": "robota na miejscu (Fosa)",
+   "wraca": "300-03-11",
+   "zamyka": "przegroda na towar znaleziony i ksiega wykupu istnieja PRZED pierwsza pieczecia",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04",
+   "co": "⚠ SZEW TRZECH KAS - ZOLD JASTRZEBI NA KASE 3. NAJNIEBEZPIECZNIEJSZA RZECZ W CALYM ROZWIAZANIU: Mchowe Jastrzebie sa oplacane z KASY SYMONA (nie lenna, nie Korony), a od dzis czytaja papiery dla cel KORONY. PRYWATNA STRAZ NAMIESTNIKA PRZY DOCHODZIE KORONY - to jest najlepsza bron, jaka mozna podac wrogiemu domowi przed Wielka Rada, i poda ja kazdy, kto umie czytac rejestr. ### DWA RUCHY: (a) ZOLD PRZECHODZI NA KASE 3 - 20 ludzi po ~40 miedziakow dziennie = 8 jeleni dziennie ≈ 1,2 smoka miesiecznie ≈ 15 smokow rocznie; za latanie dziury wartej 1/6 ruchu bramy to tanio i da sie to powiedziec na glos przy czternastu domach. (b) LODZIE W UZYCZENIE Z RACHUNKIEM, NIE W DARZE (8-12 sztuk, ~15 smokow, Kasa 2, 299-10). ### DOKTRYNA: darowana lodz jest przysluga, uzyczona z rachunkiem jest sprzetem. Przyslugi Namiestnika wobec Korony liczy sie przeciw niemu; sprzetu sie nie liczy.",
+   "kto": "SYMON -> GAWEN (Skarbnik) i KROL",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-03-08",
+   "zamyka": "zold na Kasie 3 i lodzie w rachunku, oba na pismie PRZED Wielka Rada",
+   "status": "otwarte - PILNE PRZED RADA 03-30"
   }
  ]
 }

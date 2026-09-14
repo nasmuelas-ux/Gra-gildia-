@@ -552,7 +552,7 @@
    "termin": "296-09-25 (okno arrivalu ~3-4 tyg; sledzic)",
    "wobec": "self",
    "_dziennik_stan": 9,
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
@@ -590,7 +590,7 @@
    "wobec": "nesta_braavijka",
    "stan": "ZAMKNIETA (sukces) — zysk zrealizowany, udzial wyplacony",
    "status": "",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
@@ -5910,7 +5910,7 @@
   {
    "id": "bilans_domu_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 11,
+   "_dziennik_nota": 12,
    "filar": "BILANS DOMU TALLY",
    "stan_watku": "ZYWY"
   },
@@ -6254,6 +6254,11 @@
    "id": "przywilej_bagienny_fosa_300_02",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "obligacja_lenna_cailin_szkic",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

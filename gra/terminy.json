@@ -990,6 +990,33 @@
       "wraca": "300-03-20",
       "zamyka": "karta przewozu: dni, wozy, przeladunki, koszt na sazen",
       "status": "otwarte"
+    },
+    {
+      "data": "300-03-31 - ZAPADA W TYM MIESIACU",
+      "co": "WEKSLE LUCANA: 340 ZAPADA W III/300. Stan praktyki: 420 WYSTAWIONYCH, 80 JUZ WYKUPIONYCH I UMORZONYCH, 340 zapada teraz. KASA 1 MA OKOLO 15 SMOKOW WOLNEJ GOTOWKI MIESIECZNIE, a KORONA WINNA 695 - termin byl 300-03-01. ### ZAMYKA SIE TRZEMA SPOSOBAMI I TRZECIEGO LEPIEJ NIE UZYWAC: wykupic · zrolowac na nowy termin · dopuscic do protestu. 'WEKSEL JEST CZYSTYM ZAUFANIEM' - ostrzezenie Hala, ktore zostaje prawda takze po wprowadzeniu wzoru.",
+      "kto": "HAL (Kasa 1) + LUCAN (Dorzecze)",
+      "kanal": "przez Lucana (Dorzecze)",
+      "wraca": "300-03-31",
+      "zamyka": "340 wykupione albo zrolowane, z data",
+      "status": "otwarte - PILNE"
+    },
+    {
+      "data": "300-03-13 - PRZED ROZMOWA Z HALEM",
+      "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze.",
+      "kto": "SYMON + HAL",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "rozstrzygniecie: co zabezpiecza weksle po ogloszeniu nietykalnosci siewu",
+      "status": "otwarte - PILNE"
+    },
+    {
+      "data": "300-03-13",
+      "co": "LUCAN - ZBOZE DORZECZA NA TEN SIEW. Dorzecze to najblizsze zboze i siedzi tam wlasny czlowiek. ⚠ OGRANICZENIE WLASNE: ZAKAZ ZALICZEK PRZED RATYFIKACJA (druga ratyfikacja koniec VI/300) - ale to zakaz PRZEDPLATY, nie zakaz KUPNA. Zaplata przy odbiorze zaliczka nie jest, wiec droga stoi otworem, o ile nie da sie grosza z gory. PYTANIE DO LUCANA, JEDNO: ILE KORCY OWSA I JECZMIENIA SIEWNEGO DA SIE WZIAC W DORZECZU DO SIEWU, PO CZEMU I Z PLATNOSCIA PRZY ODBIORZE.",
+      "kto": "LUCAN",
+      "kanal": "przez Lucana (Dorzecze)",
+      "wraca": "300-03-13",
+      "zamyka": "korce, cena, termin dostawy - albo uczciwe nie ma",
+      "status": "otwarte"
     }
   ]
 }

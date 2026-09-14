@@ -3035,7 +3035,7 @@
    "id": "kanal_olenna_tyrell_1127",
    "tytul": "Tajny kanal do Lady Olenny Tyrell - Ogrod hedguje, rysa=Joffrey",
    "status": "LINIA_OTWARTA_299-04_przyjazn_Olenny+handel_zbozem",
-   "_dziennik_nota": 8,
+   "_dziennik_nota": 9,
    "filar": "RELACJA Z REACH (Olenna - kanal i zboze)",
    "stan_watku": "ZYWY",
    "stan_uwaga": "Rozstrzygniecie gracza: procesowac jako ODREBNY MOTYW - relacja z Reach, nie tajny kanal wojenny. Olenna TAKZE SPRZEDAJE NAM ZBOZE, wiec to jest naraz dyplomacja i dostawa."
@@ -5714,7 +5714,7 @@
   {
    "id": "danina_karholdu_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 19,
+   "_dziennik_nota": 20,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel D - Danina Karholdu pobrana, dzien zamkniety."
@@ -5737,7 +5737,7 @@
   {
    "id": "harrion_karstark_poszukiwanie_299_11",
    "status": "otwarty",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "filar": "HARRION KARSTARK - poszukiwanie",
    "stan_watku": "ZYWY"
   },
@@ -6178,7 +6178,7 @@
   {
    "id": "kanal_olenna",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "wyman_manderly",

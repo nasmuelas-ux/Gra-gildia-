@@ -379,12 +379,12 @@
     },
     {
       "data": "wyslany 300-02-27 - odpowiedz IV/300 najwczesniej",
-      "co": "LIST DO LADY OLENNY TYRELL. Tresc: Polnoc przezywa zime; Dom chce wejsc do Highgarden PO CICHU, zeby moc rozmawiac blizej. PIERWSZY WLASNY RUCH DOMU NA REACH - nie pismo Namiestnika, tylko Domu Handlowego (Kasa 1). PODSTAWA RELACJI: od 300-02-25 to nie jest 'tajny kanal', tylko RELACJA HANDLOWA Z DRUGIM SPICHLERZEM WESTEROS - obie strony maja powod, zeby jej nie zerwac, i zadna nie musi tlumaczyc, po co pisze. ZBIEGA SIE Z: placowka HIGHGARDEN na liscie do Hala (Bialy Port ~300-03-13) - TEN SAM CEL, DWIE DROGI. Nie wysylac trzeciej.",
+      "co": "LIST DO LADY OLENNY TYRELL. Tresc: Polnoc przezywa zime; Dom chce wejsc do Highgarden PO CICHU, zeby moc rozmawiac blizej. PIERWSZY WLASNY RUCH DOMU NA REACH - nie pismo Namiestnika, tylko Domu Handlowego (Kasa 1). PODSTAWA RELACJI: od 300-02-25 to nie jest 'tajny kanal', tylko RELACJA HANDLOWA Z DRUGIM SPICHLERZEM WESTEROS - obie strony maja powod, zeby jej nie zerwac, i zadna nie musi tlumaczyc, po co pisze. ZBIEGA SIE Z: placowka HIGHGARDEN na liscie do Hala (Bialy Port ~300-03-13) - TEN SAM CEL, DWIE DROGI. Nie wysylac trzeciej. ⚠ KOREKTA KANALU 300-03-03: poszedl KRUKIEM, nie droga morska Domu - wiec wraca TYGODNIE, nie miesiace. Koszt tej szybkosci: lancuch maesterski na poludnie idzie przez STARMIASTO, a pismo mialo byc 'po cichu'.",
       "kto": "SYMON / DOM HANDLOWY TALLY -> OLENNA TYRELL",
       "zamyka": "odpowiedz z Highgarden ALBO zgoda na cicha placowke. Droga: Fosa -> Bialy Port (6-8 dni) -> morzem na poludnie; tam i z powrotem to TYGODNIE, nie dni.",
       "status": "otwarte - w drodze, za wczesnie na cisze",
-      "kanal": "morze na poludnie (Reach, Highgarden)",
-      "wraca": "300-04-20"
+      "kanal": "kruk Fosa-Highgarden",
+      "wraca": "300-03-17"
     },
     {
       "data": "wyslany 300-02-07 - CISZA MIESIAC",
@@ -700,6 +700,15 @@
       "status": "otwarte - NOWE WASKIE GARDLO",
       "kanal": "przez Osrica (Mur)",
       "wraca": "300-03-17"
+    },
+    {
+      "data": "wyslany 300-03-02 o brzasku",
+      "co": "WYMIANA LIST JENCOW - DO ZELAZNEGO TRONU. Kruk maestera, PODPIS CERWYNA JAKO JUSTYCJARIUSZA (nie Namiestnika - to akt sadowy, nie polityczny). DOKUMENT: 271 NAZWISK - 31 rangi + 240 prostych, dolozonych decyzja gracza, ZEBY DOKUMENT BYL NUDNY. HARRION KARSTARK stoi jako SIEDEMNASTY WIERSZ Z TRZYDZIESTU JEDNU, NA CZWARTEJ STRONIE, miedzy dwoma rycerzami z Zachodu, o ktorych nie wiemy nic. METODA: nie pytamy o Harriona, pytamy o CALA LISTE - 'czlowiek, o ktorego nikt nie pytal przez siedem miesiecy, jest tani; czlowiek, o ktorego pyta Namiestnik, ma cene'. ### TO JEST DRUGIE PISMO W TEJ SAMEJ SPRAWIE: pierwsze poszlo DO KROLA (status jencow, trzej dzicy, pieczec Namiestnika, od 300-02-19). Dwa pisma, dwaj adresaci, jedna sprawa.",
+      "kto": "CERWYN (podpis) -> Zelazny Tron",
+      "kanal": "kruk Fosa-Krolewska Przystan",
+      "wraca": "300-03-22",
+      "zamyka": "odpowiedz dworu ALBO milczenie - a milczenie tez rozstrzyga cene Harriona przed 300-04-01, gdy zapada zaleglosc Karholdu",
+      "status": "otwarte"
     }
   ]
 }

@@ -590,7 +590,7 @@
    "wobec": "nesta_braavijka",
    "stan": "ZAMKNIETA (sukces) — zysk zrealizowany, udzial wyplacony",
    "status": "",
-   "_dziennik_nota": 5,
+   "_dziennik_nota": 6,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel B - zdarzenie, ktore sie zdarzylo. Operacja z dniem i koncem (zasada 36). Zapis zostaje."
@@ -5910,7 +5910,7 @@
   {
    "id": "bilans_domu_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 13,
+   "_dziennik_nota": 14,
    "filar": "BILANS DOMU TALLY",
    "stan_watku": "ZYWY"
   },
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 69,
+   "_dziennik_nota": 70,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6158,7 +6158,7 @@
   {
    "id": "system_danin",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "theon_greyjoy",

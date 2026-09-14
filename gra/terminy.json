@@ -1043,6 +1043,33 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-13",
       "zamyka": "odpowiedz: ile w monecie, ile w towarze, komu",
+      "status": "ROZSTRZYGNIETE 300-03-03 - konstrukcja zwrotu ulozona; Hal domyka w Bialym Porcie ~300-03-13"
+    },
+    {
+      "data": "300-03-13",
+      "co": "ZAMKNIECIE 695 - PIEC WARUNKOW, KTORE HAL MA POSTAWIC GAWENOWI. Rachunek jest UZNANY W CALOSCI, bez kwestionowania ani jednej pozycji; spor nie istnieje, istnieje BRAK WOLNEJ MONETY. (1) STO SMOKOW W MONECIE TERAZ - jedna siodma. Tyle Skarb udzwignie, a marzec staje sie cichy (340 w wekslach zapada w tym miesiacu). (2) RESZTA - 595 - W TOWARZE, ale TOWAR WYBIERA DOM, NIE SKARB. Bez tego Skarb wypchnie to, czego sam nie umie sprzedac, i dlug zamieni sie w magazyn. (3) TOWAR TYLKO Z LISTY, KTORA DOM JUZ OBRACA: sol, ryba solona, drewno, bursztyn. Nic egzotycznego - Dom bierze ryzyko sprzedazy, wiec musi brac to, co umie sprzedac. (4) CENA WEJSCIOWA - OGLOSZONA STAWKA KORONY, LICZONA NA DZIEN WYDANIA, NIE NA DZIEN RACHUNKU. Zima rusza cenami; kto liczy po starej, okrada jedna ze stron i nie wiadomo ktora. (5) KWIT NA KAZDA PARTIE OSOBNO, z waga i data. Jedna suma na dole, ale osiem wierszy nad nia.",
+      "kto": "HAL -> GAWEN",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "sto w monecie policzone i towar wydany z kwitami",
+      "status": "otwarte - PILNE"
+    },
+    {
+      "data": "300-03-13",
+      "co": "SKAD MA BYC ZYSK - I SKAD NIE MA GO BYC. Rachunek 695 jest PO KOSZCIE: XII agent BEZ ZYSKU 268 · przewoz po ogloszonej stawce Korony 74 · dyskonto weksli 26 · prowizja Lucana jako KOSZT, nie zysk, 17. Dom obslugiwal Korone z ZEROWA MARZA i tego sie nie zmienia - dopisanie marzy wstecz byloby tym, przed czym broni caly ustroj trzech kas. ### ZYSK MA WYJSC Z FORMY SPLATY, NIE Z RACHUNKU: Dom bierze towar po cenie SKARBOWEJ i sprzedaje po cenie BIALEGO PORTU, biorac na siebie RYZYKO SPRZEDAZY. To jest uczciwa marza kupca, nie narzut urzednika. ### SZACUNEK: 595 w towarze, roznica 12-18 procent na towarach, ktorymi Dom i tak handluje = OKOLO 89 SMOKOW BRUTTO; po skladowaniu, ubytku i ryzyku ZOSTAJE OKOLO 60-70. ⚠ CENY PODAJE HAL Z BIALEGO PORTU, NIE NESTA Z BRAAVOS - karta cen z Braavos to piec miesiecy w obie strony i na tej decyzji jej nie bedzie.",
+      "kto": "HAL",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "liczba zysku wpisana do ksiegi Domu, jawnie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-30",
+      "co": "ZABEZPIECZENIE PRZED 'DWOMA RUCHAMI JEDNEJ REKI' - obawa nazwana przez samego gracza 300-01-26. Namiestnik wystawil Koronie rachunek, a Dom Namiestnika zarabia na formie splaty. TRZY RZECZY, KTORE TO TRZYMAJA: (1) SCIAGA HAL, SYMON NIE DOTYKA - zasada wlasna, zlamana raz swiadomie 300-02-27 i zapisana jako WYJATEK Z DATA, nie zmiana reguly. (2) CENA WEJSCIOWA JEST OGLOSZONA, NIE UZGODNIONA - ta sama zasada co na slupie w Cailin: kto placi, widzi cene przed zaplata. (3) CALY RACHUNEK I CALA MARZA IDA DO KSIEGI JAWNIE, i moga stanac na Radzie - bo brak odpowiedzi na rachunek z terminem sam w sobie jest faktem, ktory na Radzie stanie.",
+      "kto": "SYMON / HAL",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30",
+      "zamyka": "rachunek zamkniety, jawny i zdolny wytrzymac pytanie na Radzie",
       "status": "otwarte"
     }
   ]

@@ -12,30 +12,36 @@ Rozbicie Białego Portu i Fosy HQ na linie (765 / 515 / 325 / 195 oraz 555 / 360
 
 ---
 
-# TRZY KASY — SKALA ROCZNA
+# CZTERY PIĘTRA, NIE TRZY KASY
 
-| | roczny dochód | uwaga |
+Trzy kasy to **porządek rachunkowy Symona**. Skala świata ma cztery piętra i mieszanie ich było moim błędem.
+
+| piętro | rocznie | co to jest |
 |---|---|---|
-| **KASA 1 — Dom Handlowy Tally** | **~3400 netto** | zima to dno; kwartał zimowy dał 708 |
-| **KASA 2 — Lenno Fosy Cailin** | **~550** | cienka i obciążona |
-| **KASA 3 — Skarb Północy** | **~3500 w monecie** | wyprowadzone z zapisu: 695 to „niemal jedna piąta wszystkiego, co Korona bierze w monecie przez cały rok" |
+| **① WIELKIE DOMY — majątek osobisty pana** | **Winterfell 25 000 – 40 000** | dochód osobisty Pana Winterfell; Manderly porównywalny, a w samym srebrze prawdopodobnie największy na Północy, bo ma jedyny prawdziwy port |
+| **② KASA 1 — Dom Handlowy Tally** | **~3400 netto** | duży dom handlowy; **jakaś dziesiąta część osobistego dochodu Starka** |
+| **③ KASA 3 — Skarb Północy, w monecie** | **~3500** | **nowy fisk królewski**, nie majątek Północy |
+| **④ KASA 2 — lenno Fosy Cailin** | **~550** | małe lordostwo; stąd danina 20-40, czyli 4-7% |
 
-> ### **A → B, i to jest cała mechanika Północy:**
-> **Dom Handlowy Namiestnika ma roczny przepływ MONETY porównywalny z tym, co Korona ściąga W MONECIE.**
-> Stąd wszystko inne: dlaczego Gawen nie może zapłacić 695 · dlaczego Korona płaci przywilejem, nie srebrem ·
-> dlaczego 100 smoków oddane Skarbowi jest realną ulgą.
+---
 
-### ⚠ ALE TO NIE ZNACZY, ŻE DOM JEST RÓWNY KRÓLESTWU — I TO JEST NAJWAŻNIEJSZE ROZRÓŻNIENIE W CAŁEJ TEJ TECE
+## ⚠ RZECZ, KTÓRA TŁUMACZY CAŁĄ RESZTĘ: KRÓL JEST BOGATY, A KRÓLESTWO BIEDNE — I TO NIE JEST TA SAMA SAKIEWKA
 
-**3500 to WYŁĄCZNIE moneta Korony. Nie jest to dochód Północy.**
+**Robb Stark jest jednocześnie Panem Winterfell i Królem Północy, ale to dwie różne kieszenie.**
 
-Północ prawie się nie monetyzuje. Czynsze są **tłuste w naturze**, daniny idą **zbożem, ludźmi, robocizną i służbą**, podatek w ziarnie jest osobnym narzędziem właśnie dlatego, że *„Wschód nie ma srebra — Wschód ma zboże"*. Świadczenia w naturze są **wielokrotnie większe od monetarnych** — z grubsza pięć do dziesięciu razy. Realny pobór królestwa to porządek **dwudziestu-trzydziestu tysięcy w równowartości**, z czego srebrem przechodzi jakieś 3500.
+Jego **osobisty** dochód to 25-40 tysięcy. Jego **królewska** kasa — Skarb Północy, urząd stworzony przed niespełna rokiem, w trakcie wojny, w kraju, który daniny płaci zbożem, ludźmi i robocizną — bierze w monecie jakieś **3500**. Winterfell nie płaci sam sobie daniny.
 
-**Dom nie jest wielki jak królestwo. Dom jest wielki w tej jednej wąskiej rzeczy, której królestwu brakuje: w pieniądzu i w towarze zbywalnym.**
+**Stąd wszystko, co dzieje się w tej grze od miesięcy:**
+- dlaczego Gawen uznaje 695 i nie może zapłacić — **to piąta część całego rocznego srebra Korony**, a nie ułamek majątku Starków;
+- dlaczego Korona chce płacić **przywilejem** — przywileje ma, srebra nie;
+- dlaczego zapłacenie Symona z sakiewki Winterfell byłoby czymś zupełnie innym niż zapłacenie ze Skarbu — **król spłacałby dług królestwa własnym majątkiem**, a to precedens, którego żaden król nie ustanawia dwa razy;
+- dlaczego sto smoków oddane Skarbowi w marcu jest realną ulgą.
 
-**Sprawdzian, który to potwierdza:** danina Fosy Cailin — lordostwa z fortecą, miastem, bramą, groblą i regale torfowym — wynosi **20-40 smoków rocznie**. Przy trzydziestu-czterdziestu takich lordostwach plus wielkie domy i cła, **3500 w monecie wychodzi samo.** Te dwie liczby nie zostały do siebie dopasowane — one się po prostu zgadzają.
+## I CO TO ZNACZY O SYMONIE — bo to też trzeba powiedzieć wprost
 
-**I drugi sprawdzian, zrobiony dziś wieczorem na żywo:** Dom o rocznym zysku ~3400 **nie umiał znaleźć 340 w gotówce.** Obrót to nie jest skrzynia. Dom jest gruby w rzeczach i chudy w monecie — czyli dokładnie tak samo jak królestwo, tylko o dwa rzędy wielkości niżej.
+**Dom Handlowy Tally zarabia jakąś dziesiątą część tego, co Stark bierze osobiście.** Symon nie jest bogaty miarą lordów. Jest **średnim lordem z nadzwyczaj dobrym interesem** — a jego siła nie leży w wielkości majątku, tylko w tym, że kontroluje **przepływ monety w królestwie, którego król monety nie ma.**
+
+Północ nie jest biedna. Północ jest **niezmonetyzowana**: czynsze tłuste w naturze, daniny w zbożu i ludziach, świadczenia w naturze pięć do dziesięciu razy większe od pieniężnych. Srebro przecieka przez to cienką strużką — i to jest ta strużka, przy której siedzi Dom Tally.
 
 ---
 

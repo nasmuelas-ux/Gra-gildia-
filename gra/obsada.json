@@ -305,14 +305,14 @@
     "nota": "zboze ~1/5 obrotu; brokerka tranzytu, przepustki, Kompania na Riverrun, sol i siekiery za futra na Murze, mlyn, papier, bursztyn, kontrakty dworskie, obsluga karawan na Fosie"
    },
    "PLACOWKA PENTOS": {
-    "kto": "LORREN",
-    "od": "300-03-12",
-    "nota": "OBSADZIL HAL, wlasnym prawem z 300-01-26 (autonomia obsadzania filii bez autoryzacji pana, tylko z wiadomoscia po fakcie). Dotad KLIENCI w zarzadzie Domu - czyli czlowiek, ktorego cala robota polega na chodzeniu do ludzi, a w Pentos po odmowie miasta wejscie idzie WYLACZNIE przez ludzi. Sklad juz stoi; Lorren wiezie tam nie budynek, tylko znajomosci. ⚠ MEDRICK NIE RECZY ZA NAZWISKO - chce go najpierw zobaczyc."
+    "kto": null,
+    "od": null,
+    "nota": "PUSTA. Hal wskazal LORRENA 300-03-12, ale MEDRICK NIE RECZY (rzut 5): czlowiek od klientow jest w Pentos slaby dokladnie tym, czym w Bialym Porcie jest mocny - 'ten, co chodzi wszedzie'. Sklad stoi i kosztuje; wejscie po odmowie miasta idzie przez magistra i wymaga wprowadzenia."
    },
    "KLIENCI (Bialy Port)": {
     "kto": null,
     "od": null,
-    "nota": "WAKAT OD 300-03-12 - po przeniesieniu LORRENA do Pentos. To jest cena tej placowki i nie jest pieniezna: najwieksza placowka Domu (660/610/545) traci czlowieka od klientow w kwartale, w ktorym brokerka i tak spadla najmocniej ze wszystkich linii. OBSADZA HAL, sam."
+    "nota": "WAKAT OD 300-03-12 - po przeniesieniu LORRENA do Pentos. To jest cena tej placowki i nie jest pieniezna: najwieksza placowka Domu (660/610/545) traci czlowieka od klientow w kwartale, w ktorym brokerka i tak spadla najmocniej ze wszystkich linii. OBSADZA HAL, sam. ⚠ 300-03-12 wieczor: przeniesienie ZATRZYMANE - patrz pozycja o Lorrenie."
    }
   },
   "KORONA": {

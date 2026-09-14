@@ -2217,12 +2217,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "PENTOS OBSADZONY - LORREN. Nazwisko podal HAL, nie Symon, bo od 300-01-26 obsadza filie SAM, z wiadomoscia po fakcie ('przez rok pytalem was o kazde nazwisko, a wy byliscie w drodze (...) od jutra nie ma tej wymowki - I BARDZO DOBRZE, BO TERAZ TO BEDZIE MOJA WINA'). ### DLACZEGO LORREN, POWOD HALA W JEDNYM ZDANIU: byl w zarzadzie od KLIENTOW, czyli jego cala robota polega na chodzeniu do ludzi - a w Pentos po odmowie miasta wejscie idzie WYLACZNIE przez ludzi. Sklad juz stoi; Lorren wiezie tam nie budynek, tylko znajomosci. ### ⚠ CENA, KTORA HAL NAZWAL SAM: BIALY PORT TRACI CZLOWIEKA OD KLIENTOW - najwieksza placowka Domu, w kwartale, w ktorym brokerka spadla najmocniej ze wszystkich linii. Wakat obsadza Hal, sam. ### ⚠ I MEDRICK NIE RECZY ZA NAZWISKO: chce go zobaczyc, zanim postawi przy nim swoje imie u magistra. 'Za czlowieka, ktorego nie widzialem, nie reczy sie nawet u swoich.'",
+   "co": "PENTOS OBSADZONY - LORREN. Nazwisko podal HAL, nie Symon, bo od 300-01-26 obsadza filie SAM, z wiadomoscia po fakcie ('przez rok pytalem was o kazde nazwisko, a wy byliscie w drodze (...) od jutra nie ma tej wymowki - I BARDZO DOBRZE, BO TERAZ TO BEDZIE MOJA WINA'). ### DLACZEGO LORREN, POWOD HALA W JEDNYM ZDANIU: byl w zarzadzie od KLIENTOW, czyli jego cala robota polega na chodzeniu do ludzi - a w Pentos po odmowie miasta wejscie idzie WYLACZNIE przez ludzi. Sklad juz stoi; Lorren wiezie tam nie budynek, tylko znajomosci. ### ⚠ CENA, KTORA HAL NAZWAL SAM: BIALY PORT TRACI CZLOWIEKA OD KLIENTOW - najwieksza placowka Domu, w kwartale, w ktorym brokerka spadla najmocniej ze wszystkich linii. Wakat obsadza Hal, sam. ### ⚠ I MEDRICK NIE RECZY ZA NAZWISKO: chce go zobaczyc, zanim postawi przy nim swoje imie u magistra. 'Za czlowieka, ktorego nie widzialem, nie reczy sie nawet u swoich.' ### 300-03-12, RZUT 5. MEDRICK NIE RECZY ZA LORRENA - I POWOD NIE JEST O CZLOWIEKU, TYLKO O TYM, ZE JEGO NAJWIEKSZA ZALETA JEST W PENTOS WADA SMIERTELNA. ### ZADAL MU JEDNO PYTANIE: 'Do kogo pojdziecie pierwszego dnia?' Lorren odpowiedzial DOBRZE - tak, jak odpowiedzialby kazdy dobry czlowiek od klientow w Bialym Porcie: rozejrzy sie, pozna kilku, nie zwiaze sie z nikim, zanim nie zobaczy calosci. ### I TO JEST DOKLADNIE ZDANIE, KTORE MEDRICK WYPOWIEDZIAL JAKO OSTRZEZENIE DWA MIESIACE TEMU, ZANIM POZNAL NAZWISKO: 'wejdziecie rowno do szesciu domow - szesc domow powie: TEN, CO CHODZI WSZEDZIE'. ### W PENTOS PIERWSZE DRZWI, W KTORE SIE WCHODZI, ZAMYKAJA POZOSTALE - i czlowiek, ktorego cala sila polega na tym, ze chodzi wszedzie, w tym miescie nie ma sily, tylko nawyk. ### MEDRICK POWIEDZIAL TO PRZY NIM, nie za jego plecami. 'Nie powiem o czlowieku przy jego panu tego, czego nie powiem jemu w oczy.' ### ⚠ NIE JEST TO ODMOWA CO DO OSOBY: Medrick mowi wprost, ze w Bialym Porcie Lorren jest wart wiecej niz w Pentos i ze przenoszac go, Dom traci dwa razy.",
    "kto": "HAL -> LORREN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "Medrick widzial Lorrena i mowi tak albo nie",
-   "status": "otwarte"
+   "status": "ZATRZYMANE 300-03-12 (rzut 5) - MEDRICK NIE RECZY"
   },
   {
    "data": "300-03-12",
@@ -2231,6 +2231,24 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-26",
    "zamyka": "wiadomosc po fakcie: kto siedzi przy klientach w Bialym Porcie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "PENTOS BEZ CZLOWIEKA - PO ODMOWIE RECZENIA. Sklad stoi i kosztuje co miesiac, a reczenia nie ma. ### CO ZOSTALO NA STOLE, WSZYSTKO OTWARTE: (a) INNE NAZWISKO - obsadza HAL, swoim prawem; ale Medrick powiedzial, czego szuka, i nie jest to czlowiek od klientow: w Pentos trzeba KOGOS, KTO UMIE BYC CZYIMS, a nie kogos, kto umie byc wszedzie; (b) LORREN MIMO WSZYSTKO, BEZ RECZENIA - da sie, ale Medrick powiedzial, ile to jest warte: czlowiek bez wprowadzenia nie jest w Braavos i Pentos wolny, ON JEST NIKIM; (c) ZWINAC SKLAD i przestac placic za dach, ktorego nie ma kto pilnowac; (d) ⚠ DROGA, KTORA MEDRICK SAM WSKAZAL DWA MIESIACE TEMU I NIKT JEJ NIE PODJAL: 'CHYBA ZE NIE WCHODZICIE TAM JAKO KUPIEC. Bo za krolestwo nie reczy zaden dom. ZA KROLESTWO RECZY TO, ZE JEST.' To jest jedyne wyjscie, ktore nie potrzebuje niczyjego podpisu pod cudzym nazwiskiem - ale zmienia placowke Domu w cos innego niz placowka Domu.",
+   "kto": "SYMON + HAL + MEDRICK",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "Pentos ma czlowieka i droge wejscia albo sklad sie zwija",
+   "status": "otwarte - DECYZJA GRACZA"
+  },
+  {
+   "data": "300-03-12",
+   "co": "LORREN - CO Z NIM TERAZ. Uslyszal przy swoim panu i przy swoim dyrektorze, ze do Pentos sie nie nadaje, i uslyszal to od obcego. Medrick powiedzial przy tym rzecz, ktora to lagodzi i jest prawdziwa: W BIALYM PORCIE LORREN JEST WART WIECEJ NIZ W PENTOS. ### ⚠ ALE HAL JUZ OGLOSIL PRZENIESIENIE, a krzeslo od klientow w Bialym Porcie jest od dzis wakatem w rejestrze. Cofniecie tego jest latwe w ksiedze i nie jest latwe dla czlowieka. ### TO NIE JEST POZYCJA DO ROZSTRZYGNIECIA ROZKAZEM - to jest pozycja HALA, bo Hal go obsadzil i Hal go cofa (zasada 42). Do pana wraca tylko wiadomosc.",
+   "kto": "HAL -> LORREN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "Lorren wie, gdzie siedzi od jutra",
    "status": "otwarte"
   }
  ]

@@ -11,10 +11,10 @@
  "terminy": [
   {
    "data": "300-03-03 lub WCZESNIEJ",
-   "co": "ROZWIAZANIE MIRY, Bialy Port. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno, a DRUGIE przychodzi predzej niz pierwsze'",
+   "co": "ROZWIAZANIE MIRY, Bialy Port. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno, a DRUGIE przychodzi predzej niz pierwsze' ### 300-03-05, RZUT 10. KRUK Z BIALEGO PORTU. ⚠ KANAL MA DWA DNI - to, co stoi na kartce, bylo prawda 300-03-03, a nie jest meldunkiem o tym, co jest teraz. ### PISALA RHONA WLASNA REKA, a polozna nie sle ptaka, zeby uspokoic. Rozwiazanie zaczelo sie WCZESNIEJ, niz liczyla, i NIE POSTEPUJE. Dziecko stoi nisko i zle. Sa przy niej WENNA i ELNA, Lyra zabrana do Elny - to bylo przygotowane, zanim sie zaczelo. ### RHONA NIE OBIECUJE NICZEGO I TO JEST CALA TRESC TEJ KARTKI. ### ARYTMETYKA, KTORA JEST OKRUTNA I KTORA TRZEBA POWIEDZIEC WPROST: BIALY PORT TO 6-8 DNI JAZDY. Wyjazd 03-07 = przyjazd 03-13/03-15. Wyjazd DZIS = 03-11/03-13. W obie strony JEST JUZ PO WSZYSTKIM, ZANIM KON STANIE. Najszybsza rzecza, jaka Symon ma, jest KRUK - dwa dni, i niesie slowa, nie rece.",
    "kto": "RHONA, WENNA, ELNA; Lyra u Elny",
    "zamyka": "wiadomosc z Bialego Portu (kruk 2 dni, jezdziec 6-8)",
-   "status": "otwarte - moze juz sie stalo",
+   "status": "PRZYSZLO 300-03-05 (rzut 10) - SPRAWA OTWARTA, WIADOMOSC MA DWA DNI",
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-03-05"
   },
@@ -345,10 +345,10 @@
   },
   {
    "data": "300-03-05",
-   "co": "CERWYN WYJEZDZA - ma zostawic TOMMARDA KOSE jako lustratora Fosy na rok",
+   "co": "CERWYN WYJEZDZA - ma zostawic TOMMARDA KOSE jako lustratora Fosy na rok ### 300-03-05, RZUT 31. CERWYN WYJECHAL O BRZASKU I TOMMARD KOSA ZOSTAL - ALE NIE NA ROK. Cerwyn zostawil go DO WIELKIEJ RADY, 'a potem niech go pan poprosi sam, przy mnie, na glos'. ### POWOD PODANY WPROST: 'Lustrator pozyczony to lustrator, ktory patrzy na dwie strony. Chcecie go na rok - wezmijcie go OD SIEBIE, nie ode mnie.' ### TO JEST DWADZIESCIA PIEC DNI, NIE TRZYSTA SZESCDZIESIAT.",
    "kto": "CERWYN",
    "zamyka": "czlowiek zostaje, kiedy pan odjezdza",
-   "status": "otwarte",
+   "status": "zrobione 300-03-05 (rzut 31)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-05"
   },
@@ -462,10 +462,10 @@
   },
   {
    "data": "wyslany 300-03-01",
-   "co": "LIST DO KROLA - PROSBA O ROZMOWE O PORZADKU, NIE WYKLAD O NIM. Forma narzucona zasada, ktora Krol sam nalozyl na Symona przy Karcie Wychowankow: 'idzcie do niego DZIS. NIE Z KARTA - Z PYTANIEM'. List niesie prosbe i powod, nie argumentacje. OSOBNY od pisma z 02-19 i od przypomnienia o Rejestratorze.",
+   "co": "LIST DO KROLA - PROSBA O ROZMOWE O PORZADKU, NIE WYKLAD O NIM. Forma narzucona zasada, ktora Krol sam nalozyl na Symona przy Karcie Wychowankow: 'idzcie do niego DZIS. NIE Z KARTA - Z PYTANIEM'. List niesie prosbe i powod, nie argumentacje. OSOBNY od pisma z 02-19 i od przypomnienia o Rejestratorze. ### ODPOWIEDZ 300-03-05, RZUT 63. GODZINA JEST, ALE NIE TA, O KTORA PROSZONO. Krol nie daje rozmowy PRZED Rada - daje WIECZOR PO PIERWSZYM DNIU RADY, 300-03-30, 'gdy lordowie beda juz spali albo pili'. Ręka Berona, ale zdanie krolewskie: 'PROSILISCIE O ROZMOWE, NIE O WYKLAD - WIEC NIE BEDZIE JEJ PRZED LUDZMI, PRZED KTORYMI KAZDE MOJE SLOWO JEST WYKLADEM.' ### KOSZT: wszystko, co Symon chcial UZGODNIC przed Rada, wejdzie na Rade NIEUZGODNIONE. ### ZYSK: rozmowa bez swiadkow jest warta wiecej niz rozmowa przed czternastoma domami, a Krol sam to powiedzial.",
    "kto": "ROBB STARK",
    "zamyka": "WYZNACZONA GODZINA - przed Rada albo na Radzie",
-   "status": "otwarte",
+   "status": "zrobione 300-03-05 (rzut 63)",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-05"
   },
@@ -1002,12 +1002,12 @@
   },
   {
    "data": "300-03-13 - PRZED ROZMOWA Z HALEM",
-   "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze. ### 300-03-04: WYKONANE. Orland oznaczyl czwarta przegrode, Bennis zwazyl przy zsypie z norma, Gerrik wpisal. Klucz osobny.",
+   "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze. ### ⚠ 300-03-05 VOID BLEDU GM: ta pozycja zostala wczoraj zamknieta PRZEZ POMYLKE - dopisek o wykonaniu przegrody nalezal do pozycji 'PRZEGRODA SIEWNA - WYKONANIE', nie do tej. Kolizja o NIETYKALNOSC ZIARNA SIEWNEGO stoi otworem dalej. Zasada 3: blad GM nie przechodzi na gracza - pozycja wraca z ta sama data, nie z kara za dwa dni.",
    "kto": "SYMON + HAL",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-13",
+   "wraca": "300-03-06",
    "zamyka": "rozstrzygniecie: co zabezpiecza weksle po ogloszeniu nietykalnosci siewu",
-   "status": "zrobione 300-03-04"
+   "status": "otwarte - PRZYWROCONE PO BLEDZIE GM"
   },
   {
    "data": "300-03-13",
@@ -1020,12 +1020,12 @@
   },
   {
    "data": "300-03-04",
-   "co": "PRZEGRODA SIEWNA - WYKONANIE. Sklad ma CZTERY PRZEGRODY (Orland Korzec). JEDNA zostaje oznaczona jako SIEWNA I NIETYKALNA; trzy pozostale sluza obrotowi i moga stac pod wekslami. ### LICZY SIE JA PRZY ZSYPIE I OD RAZU Z NORMA UBYTKU 7 NA STO - bo inaczej 'nietykalne sto korcy' po zimie jest dziewiecdziesiecioma trzema i ktos zostaje oskarzony o kradziez rzeczy, ktorej nie bylo. ### NIETYKALNE JEST TO, CO W PRZEGRODZIE, NIE SLOWO 'ZBOZE'. Oznaczenie robi WAGOWY, wpis SKARBNIK LENNA, klucz ma ORLAND - trzy rece, zadna sama.",
+   "co": "PRZEGRODA SIEWNA - WYKONANIE. Sklad ma CZTERY PRZEGRODY (Orland Korzec). JEDNA zostaje oznaczona jako SIEWNA I NIETYKALNA; trzy pozostale sluza obrotowi i moga stac pod wekslami. ### LICZY SIE JA PRZY ZSYPIE I OD RAZU Z NORMA UBYTKU 7 NA STO - bo inaczej 'nietykalne sto korcy' po zimie jest dziewiecdziesiecioma trzema i ktos zostaje oskarzony o kradziez rzeczy, ktorej nie bylo. ### NIETYKALNE JEST TO, CO W PRZEGRODZIE, NIE SLOWO 'ZBOZE'. Oznaczenie robi WAGOWY, wpis SKARBNIK LENNA, klucz ma ORLAND - trzy rece, zadna sama. ### 300-03-04 WYKONANE (zameldowane graczowi w ramie ranka): Orland oznaczyl czwarta przegrode, Bennis zwazyl przy zsypie z norma ubytku, Gerrik wpisal. Klucz osobny. ⚠ Zapis trafil wczoraj do zlej pozycji - poprawione 300-03-05, zasada 3.",
    "kto": "ORLAND KORZEC + BENNIS + GERRIK RACHUBA",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-04",
    "zamyka": "przegroda oznaczona, policzona i wpisana",
-   "status": "otwarte"
+   "status": "zrobione 300-03-04"
   },
   {
    "data": "300-03-13",
@@ -1389,12 +1389,12 @@
   },
   {
    "data": "300-03-07",
-   "co": "KTO ODMOWIL W LISTOPADZIE - i czy wolno o to pytac. Krol nie poda nazwiska ('odmowa cudza nie jest rzecza, ktora sie rozglasza') i ma racje. ALE: kancelaria Korony prowadzi karte siedmiodniowa, a BERON pisal ten list pod dyktando. On wie. ⚠ PYTANIE DO ROZSTRZYGNIECIA PRZEZ GRACZA: czy pytac Berona o rzecz, ktorej Krol swiadomie nie podal. To jest proszenie urzednika, zeby obszedl wlasnego pana - i raz juz taka droge odrzucono (Garrick, 300-02-06).",
+   "co": "KTO ODMOWIL W LISTOPADZIE - i czy wolno o to pytac. Krol nie poda nazwiska ('odmowa cudza nie jest rzecza, ktora sie rozglasza') i ma racje. ALE: kancelaria Korony prowadzi karte siedmiodniowa, a BERON pisal ten list pod dyktando. On wie. ⚠ PYTANIE DO ROZSTRZYGNIECIA PRZEZ GRACZA: czy pytac Berona o rzecz, ktorej Krol swiadomie nie podal. To jest proszenie urzednika, zeby obszedl wlasnego pana - i raz juz taka droge odrzucono (Garrick, 300-02-06). ### ZAMKNIETE 300-03-04 DECYZJA GRACZA: NIE PYTA SIE NIKOGO. Pozycja zostala otwarta przez moje niedopatrzenie o dzien dluzej niz powinna.",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07",
    "zamyka": "decyzja: pytac Berona czy zostawic",
-   "status": "otwarte - DO ROZSTRZYGNIECIA"
+   "status": "zrobione 300-03-04"
   },
   {
    "data": "300-03-03",
@@ -1556,6 +1556,24 @@
    "kanal": "przez Osrica (Mur)",
    "wraca": "300-04-02",
    "zamyka": "meldunek doreczony i potwierdzony w meldunku VIII Osrica",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-05",
+   "co": "BIALY PORT - MIRA. CO WOLNO ZROBIC DZIS I CO TO KOSZTUJE. ### (a) KRUK ODWROTNY - dwa dni, jedyna rzecz szybsza od konia. Niesie slowa. ### (b) WYJAZD WCZESNIEJ - dwa dni urwane z szesciu do osmiu; kosztuje wszystko, co ma date 03-06 i 03-07: jedna karta rak, jedenascie odpowiedzi, czystopis Prawa Spichlerza, soltysi, odczyt progu Fosy, przywilej bagienny, karta odhaczen Garricka. ### (c) NIC WIECEJ NIE MA. Maester jest na Fosie i kon go nie doniesie szybciej. Nina tak samo. Zadna sila na Polnocy nie skraca szesciu dni do dwoch. ### TO NIE JEST WYBOR MIEDZY ZONA A LENNEM - to wybor miedzy dwoma dniami a siedmioma pozycjami, przy czym dwa dni NIE ZMIENIAJA WYNIKU.",
+   "kto": "SYMON",
+   "kanal": "kruk Fosa-Bialy Port",
+   "wraca": "300-03-07",
+   "zamyka": "decyzja gracza i nastepna wiadomosc z Bialego Portu",
+   "status": "otwarte - DECYZJA DZIS"
+  },
+  {
+   "data": "300-03-30",
+   "co": "TOMMARD KOSA NA ROK - PROSBA DO CERWYNA NA RADZIE, NA GLOS I PRZY NIM. Cerwyn postawil warunek formy, nie tresci: lustrator pozyczony patrzy na dwie strony, wiec ma byc WZIETY OD SIEBIE. Do 300-03-30 Tommard jest czlowiekiem Cerwyna na Fosie; po Radzie albo jest czlowiekiem Fosy, albo go nie ma. ### DOKTRYNA: pozyczonego urzednika nie przedluza sie milczeniem.",
+   "kto": "SYMON -> CERWYN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "prosba postawiona na glos przy Radzie",
    "status": "otwarte"
   }
  ]

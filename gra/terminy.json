@@ -768,12 +768,12 @@
   },
   {
    "data": "300-03-07",
-   "co": "CZTERY ROBOTY BIJA SIE O TE SAME RECE I NIKT TEGO NIE POLICZYL: GROBLA (stoi, ludzie bezczynni) - TORFIARNIE (to one trzymaja ludzi przy robocie w zimie, czyli program zatrudnienia) - TRZCINA Z PRZYWILEJU (zglosilo sie kilkunastu, prawie wszyscy do jednego rzemiosla) - EKIPA POMIAROWA. Piata dolozona 300-03-01: torf do ludzi.",
+   "co": "CZTERY ROBOTY BIJA SIE O TE SAME RECE I NIKT TEGO NIE POLICZYL: GROBLA (stoi, ludzie bezczynni) - TORFIARNIE (to one trzymaja ludzi przy robocie w zimie, czyli program zatrudnienia) - TRZCINA Z PRZYWILEJU (zglosilo sie kilkunastu, prawie wszyscy do jednego rzemiosla) - EKIPA POMIAROWA. Piata dolozona 300-03-01: torf do ludzi. ### 300-03-04 ROZSTRZYGNIETE. ⚠ ODCZYT Z REJESTRU MELLI (noc 300-03-01) POKAZUJE, ZE PYTANIE BYLO ZLE POSTAWIONE - MOJE, NIE GRACZA. CZTERY ROBOTY NIE BIJA SIE O RECE. RAK JEST NADMIAR, A BRAKUJE JEDNEJ KARTY. Stan: GROBLA 48 (STOJA), TORFIARNIE ~70, TRZCINA 9 z 14, SZKLARNIE 6, LECZNICA 3+1, APTEKA 4, SKLAD 5, MLYN-SLUZA 12, OBRYS 7, EKIPA POMIAROWA 9, PISARZE 6 (3 wyjechalo), SZKOLA 2, SAD 1, JASTRZEBIE 20 = ok. 190. Przybyszow przez zime: CZTERYSTA. ### To nie jest brak rak - to brak przydzialu, bo KAZDA BUDOWA LICZY SWOICH I ZADNA NIE LICZY CALOSCI.",
    "kto": "WARRYN + MELLA (rejestr dniowek)",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-07",
    "zamyka": "jedna karta rak: ile glow na kazda robote, i ktora ustepuje",
-   "status": "otwarte"
+   "status": "zrobione 300-03-04 - ROZSTRZYGNIETE"
   },
   {
    "data": "300-03-06",
@@ -1503,6 +1503,33 @@
    "wraca": "300-03-04",
    "zamyka": "skasowane",
    "status": "zrobione - VOID"
+  },
+  {
+   "data": "300-03-04",
+   "co": "JEDNA KARTA RAK - u WARRYNA, z rejestru MELLI. Warryn jest nadrzedny i koordynujacy dla wszystkich budow od 300-03-01 - to jego narzedzie, nie nowe krzeslo (zasada 42: brygadzistow dobiera sobie sam). ### KOLUMNY: robota | ilu dzis | ilu potrzeba | ilu stoi | data ostatniego ruchu. ### ⚠ I KOLUMNA, BEZ KTOREJ LICZBA KLAMIE: 400 przybyszow minus 190 przy robocie NIE JEST DWUSTOMA DZIESIECIOMA ROBOTNIKAMI. W czterystu sa dzieci, starzy, niezdolni i kobiety przy domach i przy chorych. Bez rubryki NIEZDOLNY / DZIECKO / PRZY DOMU karta pokaze rezerwe, ktorej nie ma, i ktos na niej oprze rozkaz.",
+   "kto": "WARRYN + MELLA",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-06",
+   "zamyka": "jedna karta na stole PRZED wyjazdem 03-07, z rubryka niezdolnych",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04 - STALA",
+   "co": "ZASADA ZWROTU RAK: ROBOTA, KTORA STOI DLUZEJ NIZ TRZY DNI, ODDAJE LUDZI DO REJESTRU - I ODZYSKUJE ICH Z PIERWSZENSTWEM W DNIU, W KTORYM RUSZA. ### POWOD: czterdziestu osmiu ludzi stalo przy zamarznietej grobli i JADLO CODZIENNIE, a karta zywnosciowa liczy GEBY, nie robote. Zaden brygadzista nie odda czlowieka dobrowolnie, jesli oddanie znaczy strate - wiec oddanie NIE MOZE znaczyc straty. ### DOKTRYNA: brygadzista, ktory traci ludzi przez oddanie, bedzie ich trzymal bezczynnych; brygadzista, ktory odzyskuje ich z pierwszenstwem, odda ich sam.",
+   "kto": "WARRYN (egzekwuje) + MELLA (rejestr)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-06",
+   "zamyka": "zasada ogloszona brygadzistom",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04",
+   "co": "CZTERDZIESTU OSMIU OD GROBLI - DWANASCIE DNI ROBOTY GDZIE INDZIEJ. Grobla zostala dzis odblokowana (pierwszenstwo w kuzni kupione), ale OKUCIE CZTERECH KAFAROW TO OK. 12 DNI KUZNI - do 300-03-16 nie ma czym bic pali. ### PIERWSZENSTWO RAK, REKOMENDACJA DO ROZSTRZYGNIECIA PANA: (1) TORFIARNIE - torf-za-chleb karmi i grzeje, ~70 i ma byc wiecej; (2) SKLAD - dzis rano na slup poszlo cale Prawo Spichlerza (norma ubytku, przegroda siewna, dna, progi), A PRZY SKLADZIE STOI PIECIU PRZY ROZMIERZANIU. Ustawa o spichlerzu bez spichlerza jest obwieszczeniem o budynku, ktorego nie ma; (3) GROBLA - wraca z pierwszenstwem 300-03-16, gdy kafary sa okute; (4) MLYN-SLUZA. ### NAZWISK NIE WSKAZUJE PAN - rozdziela WARRYN (zasada 42).",
+   "kto": "WARRYN rozdziela, MELLA wpisuje",
+   "kanal": "robota na miejscu (Fosa)",
+   "wraca": "300-03-16",
+   "zamyka": "kafary okute, czterdziestu osmiu wraca na groble z pierwszenstwem",
+   "status": "otwarte"
   }
  ]
 }

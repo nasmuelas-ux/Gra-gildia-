@@ -38,10 +38,10 @@
   },
   {
    "data": "300-03-06..08",
-   "co": "odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency) ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia.",
+   "co": "odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency) ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia. ### 300-03-11, RZUT 65. Garrick rozdzielil, tak jak mial: CZESC KORONNA W BIEGU, CZESC PRYWATNA ZAPIECZETOWANA DO KSIEGI DOMU - jedna karta pod osobna pieczecia, nieotwarta, w rekach pana. ### CZESC KORONNA: rejestry Locke'ow sa i Krol je udostepnia; jency policzeni z imienia i pochodzeniem tam, gdzie dalo sie je ustalic - a tam, gdzie sie nie dalo, STOI PUSTA RUBRYKA ZAMIAST DOMYSLU, i to jest wiecej, niz bylo rok temu.",
    "kto": "GARRICK rozdziela",
    "zamyka": "czesc koronna w bieg, czesc prywatna zapieczetowana do ksiegi Domu",
-   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie",
+   "status": "PRZYSZLO 300-03-11 (rzut 65) - DWIE CZESCI, JAK ZLECONO",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-11"
   },
@@ -312,16 +312,16 @@
    "co": "BERON: wszystko, co przyszlo od BRYNDENA TULLY'EGO od 299-07, z datami; potem list do Blackfisha (poludniowa sciana, nie traktat) ### 300-03-07, RZUT 7: NIE PRZYSZLO NIC - ANI WYKAZ, ANI PUSTA KARTA. Beron odpisal trzema wierszami, ze przegladu nie zrobil i nie zrobi go w tym miesiacu. POWOD PODANY WPROST I JEST MIAZDZACY: jest JEDNYM CZLOWIEKIEM, ktory prowadzi kancelarie Winterfell, pisze pod dyktando Krola, obsluguje poczte Korony, od 300-03-03 prowadzi NOWA RUBRYKE (co przyszlo do Korony, a czego Namiestnik nie widzial) - i ma do tego karte siedmiodniowa. ### 'Prosicie mnie o przeszukanie czterech lat kancelarii w tygodniu, w ktorym prosicie mnie takze o dwa listy krolewskie. URZAD, KTORY TO ROBI, NAZYWA SIE REJESTRATOR KORONY I NIE MA GO OD PIECIU MIESIECY.' ### ⚠ TO NIE JEST ODMOWA - TO JEST DOWOD. Argument za rozdzieleniem krzesla, wyslany trzy dni temu, wlasnie sam sie udowodnil, i to w tym samym tygodniu. ### Zasada 42 lit. d: urzednik zameldowal, ze nie daje rady. To jedyna forma, w ktorej ta rzecz wraca do pana - i wrocila. ### LIST CZEKA W BIALYM PORCIE od ~03-09.",
    "kto": "BERON",
    "zamyka": "wykaz",
-   "status": "NIE PRZYSZLO 300-03-07 (rzut 7) - I WIADOMO DLACZEGO",
+   "status": "ODCZYTANE 300-03-11 - trzy wiersze Berona, nic wiecej (rzut 7)",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-12"
   },
   {
    "data": "bez daty",
-   "co": "THEOMORE - PYTANIA POPRAWIONE 300-03-03. STARE BYLY ZLE ZADANE: kolebka JEST USTALONA (Nowy Zamek w Bialym Porcie, dar Wymana 299-08-11), a pierwsza dziesiatka uczniow JEST WZIETA od 299-09-21. WLASCIWE PYTANIA: ILU Z DZIESIECIU ZOSTALO I CO SPISALI · ile kosztowal PIERWSZY ROK NAPRAWDE · kiedy gmach w Przystani Wilka bedzie gotowy przejac serce · i CZY DZIESIECIU WYSTARCZY, skoro Fosa ma teraz wlasna szkole i ochmistrza nauki. ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia.",
+   "co": "THEOMORE - PYTANIA POPRAWIONE 300-03-03. STARE BYLY ZLE ZADANE: kolebka JEST USTALONA (Nowy Zamek w Bialym Porcie, dar Wymana 299-08-11), a pierwsza dziesiatka uczniow JEST WZIETA od 299-09-21. WLASCIWE PYTANIA: ILU Z DZIESIECIU ZOSTALO I CO SPISALI · ile kosztowal PIERWSZY ROK NAPRAWDE · kiedy gmach w Przystani Wilka bedzie gotowy przejac serce · i CZY DZIESIECIU WYSTARCZY, skoro Fosa ma teraz wlasna szkole i ochmistrza nauki. ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia. ### 300-03-11: odpowiedz czekala w porcie razem z reszta poczty.",
    "kto": "THEOMORE",
    "zamyka": "odpowiedz",
-   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie",
+   "status": "PRZYSZLO 300-03-11 - bez rzutu (wlasny czlowiek, zasada 7)",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-11"
   },
@@ -399,10 +399,10 @@
   },
   {
    "data": "~300-03-06",
-   "co": "PISMO MIASTA W WINTERFELL - od tej chwili biegnie obietnica Krola z 300-02-07: rozstrzygnie PRZED Rada ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia.",
+   "co": "PISMO MIASTA W WINTERFELL - od tej chwili biegnie obietnica Krola z 300-02-07: rozstrzygnie PRZED Rada ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia. ### 300-03-11, RZUT 65: KROL DOTRZYMAL OBIETNICY Z 300-02-07 I ROZSTRZYGNAL PRZED RADA. ### SKLAD W CAILIN - TAK, fundacja koronna, wpisany. ### GARNIZON - TAK CO DO ZASADY, ALE ZOLD Z LENNA DO CZASU, AZ RADA UCHWALI DANINE. Powod podany wprost i jest ten sam co wszedzie w tym miesiacu: skarb nie ma czym. ### ⚠ TO ZNACZY, ZE FOSA PLACI ZA GARNIZON KORONNY DO 300-03-30 I DALEJ, JESLI RADA NIE UCHWALI. Danina Fosy jest pozycja, ktora USTALA KROL, NIE NAMIESTNIK - i wlasnie zrobila sie pilniejsza.",
    "kto": "kancelaria Korony (BERON)",
    "zamyka": "rozstrzygniecie Krola w sprawie skladu i garnizonu Cailin",
-   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie",
+   "status": "ROZSTRZYGNIETE 300-03-11 (rzut 65) - PRZED RADA, JAK OBIECAL",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-11"
   },
@@ -609,7 +609,7 @@
    "co": "KARTA DO BERONA: czy w kancelarii Korony lezy cokolwiek od STANNISA (od 299-09) oraz ODPOWIEDZ AEMONA NA PYTANIE O OBSYDIAN (kruk 299-09-22) - ta ostatnia BYLA ADRESOWANA DO WINTERFELL, NIE DO SYMONA, i on jej nigdy nie widzial. ### 300-03-07, RZUT 7: NIE PRZYSZLO NIC - ANI WYKAZ, ANI PUSTA KARTA. Beron odpisal trzema wierszami, ze przegladu nie zrobil i nie zrobi go w tym miesiacu. POWOD PODANY WPROST I JEST MIAZDZACY: jest JEDNYM CZLOWIEKIEM, ktory prowadzi kancelarie Winterfell, pisze pod dyktando Krola, obsluguje poczte Korony, od 300-03-03 prowadzi NOWA RUBRYKE (co przyszlo do Korony, a czego Namiestnik nie widzial) - i ma do tego karte siedmiodniowa. ### 'Prosicie mnie o przeszukanie czterech lat kancelarii w tygodniu, w ktorym prosicie mnie takze o dwa listy krolewskie. URZAD, KTORY TO ROBI, NAZYWA SIE REJESTRATOR KORONY I NIE MA GO OD PIECIU MIESIECY.' ### ⚠ TO NIE JEST ODMOWA - TO JEST DOWOD. Argument za rozdzieleniem krzesla, wyslany trzy dni temu, wlasnie sam sie udowodnil, i to w tym samym tygodniu. ### Zasada 42 lit. d: urzednik zameldowal, ze nie daje rady. To jedyna forma, w ktorej ta rzecz wraca do pana - i wrocila. ### LIST CZEKA W BIALYM PORCIE od ~03-09.",
    "kto": "BERON",
    "zamyka": "wykaz albo puste - obie odpowiedzi sa odpowiedzia",
-   "status": "NIE PRZYSZLO 300-03-07 (rzut 7) - I WIADOMO DLACZEGO",
+   "status": "ODCZYTANE 300-03-11 - trzy wiersze Berona, nic wiecej (rzut 7)",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-12"
   },
@@ -681,7 +681,7 @@
    "co": "PYTANIE O OBSYDIAN DO MAESTERA AEMONA. Pytanie wymyslil BRAN STARK 299-09-08: 'Pierwsi Ludzie mieli juz braz; po co lud, ktory zyl obok ludzi z metalem, trzymal sie nozy z kamienia - albo byli glupi, albo kamien robil cos, czego braz nie robil'. Kruk poszedl do najstarszego maestera w Westeros. ### W ZAPISIE STOI WPROST: 'ODPOWIEDZ PRZYJDZIE DO WINTERFELL, NIE DO SYMONA'. To ten sam ksztalt, co pismo Rejestratora - odpowiedz zaadresowana obok Namiestnika. ### SPRAWA NIE JEST DZIS CIEKAWOSTKA: Reed potwierdzil obsydian 299-10-04 (stare ostrza WYCHODZA Z TORFU, a torfiarnie Fosy tna ten sam torf), a 300-01-26 SYMON POWIEDZIAL WYMANOWI 'CZARNE SZKLO' i Wyman pierwszy raz tego wieczoru byl zaskoczony. ODPOWIEDZ AEMONA JEST JEDYNYM ZRODLEM ARCHIWALNYM, KTOREGO W TEJ SPRAWIE NIE ODCZYTANO. ### 300-03-07, RZUT 7: NIE PRZYSZLO NIC - ANI WYKAZ, ANI PUSTA KARTA. Beron odpisal trzema wierszami, ze przegladu nie zrobil i nie zrobi go w tym miesiacu. POWOD PODANY WPROST I JEST MIAZDZACY: jest JEDNYM CZLOWIEKIEM, ktory prowadzi kancelarie Winterfell, pisze pod dyktando Krola, obsluguje poczte Korony, od 300-03-03 prowadzi NOWA RUBRYKE (co przyszlo do Korony, a czego Namiestnik nie widzial) - i ma do tego karte siedmiodniowa. ### 'Prosicie mnie o przeszukanie czterech lat kancelarii w tygodniu, w ktorym prosicie mnie takze o dwa listy krolewskie. URZAD, KTORY TO ROBI, NAZYWA SIE REJESTRATOR KORONY I NIE MA GO OD PIECIU MIESIECY.' ### ⚠ TO NIE JEST ODMOWA - TO JEST DOWOD. Argument za rozdzieleniem krzesla, wyslany trzy dni temu, wlasnie sam sie udowodnil, i to w tym samym tygodniu. ### Zasada 42 lit. d: urzednik zameldowal, ze nie daje rady. To jedyna forma, w ktorej ta rzecz wraca do pana - i wrocila. ### LIST CZEKA W BIALYM PORCIE od ~03-09.",
    "kto": "BERON - odszukac w kancelarii Winterfell",
    "zamyka": "odpowiedz Aemona w rece Symona ALBO potwierdzenie, ze nie dotarla",
-   "status": "NIE PRZYSZLO 300-03-07 (rzut 7) - I WIADOMO DLACZEGO",
+   "status": "ODCZYTANE 300-03-11 - trzy wiersze Berona, nic wiecej (rzut 7)",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-12"
   },
@@ -1281,12 +1281,12 @@
   },
   {
    "data": "300-03-07",
-   "co": "KTO W KORONIE PODPISUJE ZGODE - ZAMKNIETE 300-03-03 PRZEZ ROZDZIELENIE KRZESLA. Podpisuje REJESTRATOR KORONY - bo zgoda to WPIS, nie zapas i nie laska. Krzeslo puste, wiec do czasu obsadzenia podpisuje kancelaria Winterfell (Beron) z adnotacja 'w zastepstwie' I Z DATA WAZNOSCI. ZASADA: zastepstwo bez daty waznosci jest nadaniem. ### Zostaje do potwierdzenia przez Krola razem z rozdzieleniem - wraca 300-03-07.",
+   "co": "KTO W KORONIE PODPISUJE ZGODE - ZAMKNIETE 300-03-03 PRZEZ ROZDZIELENIE KRZESLA. Podpisuje REJESTRATOR KORONY - bo zgoda to WPIS, nie zapas i nie laska. Krzeslo puste, wiec do czasu obsadzenia podpisuje kancelaria Winterfell (Beron) z adnotacja 'w zastepstwie' I Z DATA WAZNOSCI. ZASADA: zastepstwo bez daty waznosci jest nadaniem. ### Zostaje do potwierdzenia przez Krola razem z rozdzieleniem - wraca 300-03-07. ### 300-03-11: KROL PRZYJAL BEZ SPORU i sam dopisal date waznosci - DO KONCA ROKU SKLADOWEGO.",
    "kto": "SYMON -> KROL",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-12",
    "zamyka": "potwierdzenie Krola, ze zastepstwo kancelarii ma date waznosci",
-   "status": "ODPISANE 300-03-07 - w tym samym liscie co rozdzielenie krzesla, czeka w Bialym Porcie"
+   "status": "zrobione 300-03-11 - PRZYJETE PRZEZ KROLA Z DATA"
   },
   {
    "data": "300-03-30",
@@ -1380,12 +1380,12 @@
   },
   {
    "data": "wyslany 300-03-03 wieczorem, kruk o brzasku",
-   "co": "ZAWIADOMIENIE KROLA O ROZDZIELENIU KRZESLA - NIE PROSBA I NIE PUNKT NA RADE. ### Rada Lordow nie obsadza urzedow Korony (zasada 22). Postawienie tego przed czternastoma domami byloby naciskiem na Krola przy swiadkach albo zaproszeniem do sporu o krzeslo, ktorego zaden z nich nie obsadza. ### TRESC: Krol szuka JEDNEGO czlowieka do DWOCH urzedow, a drugi odstrasza od pierwszego. Rejestratora znajdzie sie w miesiac. Ucha nie znajdzie sie nigdy, dopoki stoi z imieniem w spisie - i to, nie ksiegi, odrzucil czlowiek w listopadzie. NAMIESTNIK ROZDZIELA URZEDY W REJESTRZE KORONY I ZAWIADAMIA O TYM, ZANIM OGLOSI GDZIEKOLWIEK INDZIEJ. Nazwiska na oba krzesla naleza do Krola i pismo o zadne nie prosi. ### Pelny tekst: gra/pismo_o_rozdzieleniu_krzesla_300_03_03.md ### 300-03-07, RZUT 41. Krol odpisal w terminie. ⚠ LIST WYLADOWAL NA FOSIE, BO KRUK LECI DO GOLEBNIKA, NIE DO CZLOWIEKA. Kancelaria Garricka przekierowala go krukiem do BIALEGO PORTU (2 dni) - BEDZIE CZEKAL NA SYMONA, gdy ten przyjedzie ~03-12. SYMON GO DZIS NIE CZYTA. ### TRESC ZAPIECZETOWANA DO 03-12. To samo dotyczy odpowiedzi o podpis pod zgoda Korony - jedno pismo, jedna odpowiedz.",
+   "co": "ZAWIADOMIENIE KROLA O ROZDZIELENIU KRZESLA - NIE PROSBA I NIE PUNKT NA RADE. ### Rada Lordow nie obsadza urzedow Korony (zasada 22). Postawienie tego przed czternastoma domami byloby naciskiem na Krola przy swiadkach albo zaproszeniem do sporu o krzeslo, ktorego zaden z nich nie obsadza. ### TRESC: Krol szuka JEDNEGO czlowieka do DWOCH urzedow, a drugi odstrasza od pierwszego. Rejestratora znajdzie sie w miesiac. Ucha nie znajdzie sie nigdy, dopoki stoi z imieniem w spisie - i to, nie ksiegi, odrzucil czlowiek w listopadzie. NAMIESTNIK ROZDZIELA URZEDY W REJESTRZE KORONY I ZAWIADAMIA O TYM, ZANIM OGLOSI GDZIEKOLWIEK INDZIEJ. Nazwiska na oba krzesla naleza do Krola i pismo o zadne nie prosi. ### Pelny tekst: gra/pismo_o_rozdzieleniu_krzesla_300_03_03.md ### 300-03-07, RZUT 41. Krol odpisal w terminie. ⚠ LIST WYLADOWAL NA FOSIE, BO KRUK LECI DO GOLEBNIKA, NIE DO CZLOWIEKA. Kancelaria Garricka przekierowala go krukiem do BIALEGO PORTU (2 dni) - BEDZIE CZEKAL NA SYMONA, gdy ten przyjedzie ~03-12. SYMON GO DZIS NIE CZYTA. ### TRESC ZAPIECZETOWANA DO 03-12. To samo dotyczy odpowiedzi o podpis pod zgoda Korony - jedno pismo, jedna odpowiedz. ### ODCZYTANE W BIALYM PORCIE 300-03-11, RZUT 41: KROL PRZYJMUJE ROZDZIELENIE I NIE PRZYJMUJE TEGO, CO Z NIEGO WYNIKA - jeszcze nie. ### 'ROZDZIELCIE. Macie racje i widze, ze mialem ja przez cztery miesiace przed oczami.' ### ALE: REJESTRATOR MA BYC OGLOSZONY DOPIERO NA RADZIE, nie przed, 'bo urzad, ktory sie oglasza miedzy Radami, wyglada na urzad zrobiony przeciw komus'. ### A UCHO: 'Ucha nie oglosze nigdy i wy takze nie. Ale nie obsadze go, dopoki nie usiadziemy sami - wieczorem po pierwszym dniu Rady.' ### CZYLI OBA KRZESLA STOJA PUSTE DO 300-03-30, tyle ze od dzis stoja puste OSOBNO. ### PODPIS POD ZGODA KORONY: PRZYJETY BEZ SPORU - kancelaria Winterfell w zastepstwie, Z DATA WAZNOSCI, i Krol sam dopisal date: DO KONCA ROKU SKLADOWEGO. 'Zastepstwo bez daty jest nadaniem - to wasze zdanie i jest dobre, wiec dopisuje date, zeby nie bylo waszym zdaniem tylko.'",
    "kto": "SYMON -> ROBB STARK",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-12",
    "zamyka": "odpowiedz Krola: przyjmuje rozdzielenie albo cofa. Krol, nie Rada.",
-   "status": "ODPISANE 300-03-07 (rzut 41) - LIST W DRODZE, NIE W REKU"
+   "status": "PRZECZYTANE 300-03-11 (rzut 41)"
   },
   {
    "data": "300-03-07",
@@ -1587,12 +1587,12 @@
   },
   {
    "data": "300-03-05",
-   "co": "CO ZOSTAJE NA FOSIE BEZ PANA - I CZEGO NIE TRZEBA BYLO PRZESUWAC (zasada 42). Siedem pozycji mialo daty 03-06 i 03-07 i wczoraj liczylem je jako koszt wczesniejszego wyjazdu. PO ZASADZIE 42 KOSZT JEST MNIEJSZY, NIZ GO PODALEM: ### IDZIE BEZ NIEGO: jedna karta rak i zasada zwrotu (WARRYN - rozstrzyga budowy od 300-03-01, MELLA - rejestr) · jedenascie odpowiedzi (WYSTAN albo pisarz grodzki - i wlasnie o to chodzilo, zeby nie pytal ich pracodawca ANI PAN) · rubryka 'na Mur' (GARTH) · czystopis jednolity Prawa Spichlerza i czesc V na slup (GARRICK + dwaj pisarze + HERWIN) · przywilej bagienny (WARRYN + lawa) · soltysi (WARRYN) · karta zywnosciowa i odczyt progu (ORLAND + BENNIS) · drugi ogien w kuzni (WARRYN + BRUSK) · pieczec na wodzie (KESSEL + GARTH) · karta odhaczen (GARRICK). ### JEDZIE Z NIM, BO JEST JEGO: ODBICI BEZ DOMU - ilu Fosa bierze (liczba, nie uznanie) · KOLIZJA O NIETYKALNOSC ZIARNA SIEWNEGO (03-06) · DAENERYS A AEMON - pytac czy nie. Wszystkie trzy da sie odeslac krukiem z pierwszego postoju. ### DOKTRYNA: lenno, z ktorego wyjazd pana kosztuje siedem pozycji, nie ma urzednikow - ma pomocnikow. ### 300-03-09: czeka w Bialym Porcie razem z reszta poczty. Symon staje ~03-11.",
+   "co": "CO ZOSTAJE NA FOSIE BEZ PANA - I CZEGO NIE TRZEBA BYLO PRZESUWAC (zasada 42). Siedem pozycji mialo daty 03-06 i 03-07 i wczoraj liczylem je jako koszt wczesniejszego wyjazdu. PO ZASADZIE 42 KOSZT JEST MNIEJSZY, NIZ GO PODALEM: ### IDZIE BEZ NIEGO: jedna karta rak i zasada zwrotu (WARRYN - rozstrzyga budowy od 300-03-01, MELLA - rejestr) · jedenascie odpowiedzi (WYSTAN albo pisarz grodzki - i wlasnie o to chodzilo, zeby nie pytal ich pracodawca ANI PAN) · rubryka 'na Mur' (GARTH) · czystopis jednolity Prawa Spichlerza i czesc V na slup (GARRICK + dwaj pisarze + HERWIN) · przywilej bagienny (WARRYN + lawa) · soltysi (WARRYN) · karta zywnosciowa i odczyt progu (ORLAND + BENNIS) · drugi ogien w kuzni (WARRYN + BRUSK) · pieczec na wodzie (KESSEL + GARTH) · karta odhaczen (GARRICK). ### JEDZIE Z NIM, BO JEST JEGO: ODBICI BEZ DOMU - ilu Fosa bierze (liczba, nie uznanie) · KOLIZJA O NIETYKALNOSC ZIARNA SIEWNEGO (03-06) · DAENERYS A AEMON - pytac czy nie. Wszystkie trzy da sie odeslac krukiem z pierwszego postoju. ### DOKTRYNA: lenno, z ktorego wyjazd pana kosztuje siedem pozycji, nie ma urzednikow - ma pomocnikow. ### 300-03-09: czeka w Bialym Porcie razem z reszta poczty. Symon staje ~03-11. ### 300-03-11: MELDUNEK ZBIORCZY DOTARL. Pietnascie pozycji zamknietych na Fosie bez pana miedzy 03-06 a 03-09. ADRES RUCHOMY ZADZIALAL: nic nie lezalo, wszystko czekalo tam, dokad pan jechal. To jest pierwszy tydzien w calej grze, w ktorym NIEOBECNOSC NAMIESTNIKA NIE KOSZTOWALA ANI JEDNEJ POZYCJI.",
    "kto": "GARRICK + WARRYN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-11",
    "zamyka": "meldunek zbiorczy w slad za panem: co zamkniete, co stoi",
-   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie"
+   "status": "PRZYSZLO 300-03-11 - MELDUNEK ZBIORCZY GARRICKA"
   },
   {
    "data": "300-03-06",
@@ -1686,12 +1686,12 @@
   },
   {
    "data": "300-03-10",
-   "co": "MIRA PO ROZWIAZANIU - STAN NIEROZSTRZYGNIETY. Rhona nie obiecuje. Symon staje w Bialym Porcie 300-03-11. ### To nie jest pozycja do zamkniecia rozkazem i nie ma przy niej nic do policzenia.",
+   "co": "MIRA PO ROZWIAZANIU - STAN NIEROZSTRZYGNIETY. Rhona nie obiecuje. Symon staje w Bialym Porcie 300-03-11. ### To nie jest pozycja do zamkniecia rozkazem i nie ma przy niej nic do policzenia. ### 300-03-11, RZUT 32. GORACZKA PRZYSZLA TRZECIEGO DNIA I NIE ODESZLA. To jest ta gorączka, ktora zabija poloznice czesciej niz samo rozwiazanie, i przychodzi wtedy, gdy najgorsze wydaje sie juz za nami. ### MIRA ZYJE, JEST PRZYTOMNA CZESCIA DNIA. Rhona nie odeszla od niej od siedmiu dni i nie odejdzie; Nina i Wystan sa na Fosie, szesc dni stad, i Rhona NIE PROSI o nich - mowi, ze nie ma czego przywiezc, czego by tu nie bylo. ### NIE JEST ROZSTRZYGNIETE. Nastepne dni sa te, ktore rozstrzygaja - siodmy do czternastego.",
    "kto": "RHONA, WENNA, ELNA - Bialy Port",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-11",
-   "zamyka": "Symon na miejscu",
-   "status": "otwarte"
+   "wraca": "300-03-14",
+   "zamyka": "gorączka ustepuje albo nie",
+   "status": "otwarte - GORACZKA (rzut 32)"
   },
   {
    "data": "300-03-10",

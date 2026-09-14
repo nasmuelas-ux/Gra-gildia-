@@ -2385,6 +2385,33 @@
    "wraca": "300-03-22",
    "zamyka": "ktore morze - jedno slowo",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "⚠ PRZYSTANIE NA WSCHODZIE - PROJEKT, KTORY ISTNIEJE, I PYTANIE, KTORE STOI OD 300-02-25 BEZ ODPOWIEDZI. Wskazanie gracza 300-03-12; odczytane z zapisu, nie ulozone. ### PYTANIE WEYLINA, ZADANE NAD SLONA WODA Z LANCUCHEM W REKU: 'PRZEWLOKA KONCZY SIE NA SLONEJ WODZIE I TO JEST WSCHODNI BRZEG. CZYJ JEST PORT WSCHODNI?' ### PORT WSCHODNI NIE MA DZIS ANI NAZWY, ANI WLASCICIELA, ANI KASY - A JEST KONCEM CALEJ DROGI. ### I TO JUZ NIE JEST PYTANIE TEORETYCZNE: JUTRO SYMON SIADA Z WYMANEM DO PODPISU. ### DLACZEGO WAZNIEJSZE OD STAWKI ZA MILE: jesli port wschodni bedzie TALLY'EGO - zasada zamknieta jest spelniona NA LITERE I PUSTA W TRESCI, a Wyman zobaczy to w trzy oddechy. Jesli MANDERLYCH ALBO WSPOLNY - umowa trzyma naprawde. ### Przewloka bez portu na koncu jest jedenastoma milami do nikad.",
+   "kto": "SYMON + WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "czyj jest port wschodni - nazwa, wlasciciel, kasa",
+   "status": "otwarte - JUTRO, PRZED PODPISEM"
+  },
+  {
+   "data": "300-03-13",
+   "co": "WSCHOD NIE MA PORTU - ZDANIE, KTORE ZAPIS NAZWAL DWA RAZY, I PRZYSTAN W KARHOLDZIE JAKO ODPOWIEDZ. ### TO NIE JEST POCIESZENIE DLA KARSTARKA ANI BLYSKOTKA DLA KUPCA - TO JEST DAR DLA DOMU WOJENNEGO: port w Karholdzie czyni Rickarda CZLOWIEKIEM, KTORY KARMI. ### FAKT, KTORY TO UZASADNIA I KTORY JEST GORSZY, NIZ WYGLADA: WSCHODNIA STRAZNICA NOCNEJ STRAZY JEST ZAOPATRYWANA MORZEM, A MORZE STANELO. Stary Zamek liczy zagle u ujscia rzeki od pokolen: cztery-piec miesiecznie przez cale lato i jesien, OSTATNI PRZESZEDL 299-10-23, OD TAMTEJ PORY ANI JEDEN. NIKT NA POLUDNIU NIE ZAUWAZYL TEGO PRZEZ TRZY MIESIACE. ### ⚠ ZAGROZENIE, KTORE IDZIE Z TYM DAREM: KARSTARK DOSTAJE WLADZE NAD SZLAKIEM MORSKIM DO WSCHODNIEJ STRAZNICY - czyli dokladnie te koncentracje, ktorej unikano, odbierajac mu akademie, tylko przeniesiona z ladu na wode. ### ROZWIAZANIE TA SAMA REKA CO PRZY AKADEMII: PORT JEST KOMORA (zasada 300-02-07) - waga, ksiega bramy, cena na slupie, prawo pisemnej odmowy, dwa odpisy, i liczba idaca do JEDNEGO rejestru. Kto trzyma port, nie trzyma ksiegi portu.",
+   "kto": "SYMON + RICKARD KARSTARK",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "przystan w Karholdzie na Radzie, z komora w tej samej uchwale",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "PRZYSTANIE WSCHODU I DREWNO - TO SIE SPINA I DOPIERO TERAZ WIDAC, W CO. ### WSCHODNI BRZEG JEST WLASCIWYM MORZEM: stamtad plynie sie do Braavos i Pentos, a nie do Zelaznych Wysp. Wiec KAZDA PRZYSTAN WSCHODU JEST PUNKTEM ZALADUNKU DREWNA, a drewno jest jedynym dochodem Korony, ktory nie jest danina. ### TRZY RZECZY, KTORE OKAZALY SIE JEDNA: (1) PORT WSCHODNI na koncu przewloki - koniec lancucha dwoch morz, dzis bez nazwy i wlasciciela; (2) PRZYSTAN W KARHOLDZIE - bo wschod nie ma portu, a Wschodnia Straznica nie dostala zagla od 299-10-23; (3) PRZYSTAN WILKA na Gornym Bialym Nozu - juz stoi, ma budowniczego i ksiegi, nie ma gospodarza. ### KAZDA Z NICH OSOBNO JEST WYDATKIEM, KTOREGO KORONA NIE UDZWIGNIE. RAZEM SA JEDNYM PROGRAMEM, KTORY SAM SIEBIE PLACI: porty wypuszczaja drewno, drewno placi za porty. ### I TO JEST TO, Z CZYM SIE JEDZIE NA RADE - nie prosba o danine, tylko rachunek, w ktorym lordowie wschodu po raz pierwszy od roku cos DOSTAJA.",
+   "kto": "SYMON -> RADA 300-03-30, wiazka V",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "jedna uchwala: porty wschodu, drewno, Mistrz Handlu, komora w kazdym porcie",
+   "status": "otwarte"
   }
  ]
 }

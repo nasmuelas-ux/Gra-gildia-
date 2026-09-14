@@ -6305,6 +6305,11 @@
    "id": "drewno_polnocy_essos",
    "status": "otwarty",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "przystanie_wschodu",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

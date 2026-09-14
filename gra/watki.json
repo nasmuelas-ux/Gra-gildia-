@@ -167,7 +167,7 @@
    "termin": null,
    "wobec": "self",
    "stan": "OBIE NOGI W RUCHU — import (barwniki/egzotyka przez Vhassara) + wywoz (skory lokalne + polnocne futra/bursztyn przez Torsena/Halvarda, Bialy Noz)",
-   "_dziennik_nota": 12
+   "_dziennik_nota": 13
   },
   {
    "id": "pioro_dla_wiary",
@@ -6089,7 +6089,7 @@
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 21,
+   "_dziennik_nota": 22,
    "filar": "STANDARD TRAKTU POLNOCY",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 34
+   "_dziennik_nota": 35
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

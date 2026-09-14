@@ -5,7 +5,8 @@
     "zamyka": "zdarzenie, ktore konczy pozycje - bez niego termin tylko mija",
     "status": "otwarte | zrobione | przepadlo",
     "kanal": "droga, ktora rzecz idzie - czas przejscia w gra/kanaly.json",
-    "wraca": "DATA, NA KTORA COS MA WROCIC. Po niej pozycja wchodzi do PRZETERMINOWANYCH w STAN.md i MUSI dostac rozstrzygniecie."
+    "wraca": "DATA, NA KTORA COS MA WROCIC. Po niej pozycja wchodzi do PRZETERMINOWANYCH w STAN.md i MUSI dostac rozstrzygniecie.",
+    "zasada_41": "KAZDA rzecz wyslana, ZLECONA i KAZDA ROBOTA ma kanal i date. Robota nie ma czasu drogi - ma TERMIN MELDUNKU, takze gdy meldunek brzmi 'stoi'."
   },
   "terminy": [
     {
@@ -23,7 +24,8 @@
       "kto": "dwaj pisarze",
       "zamyka": "odpis wreczony",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-05"
     },
     {
       "data": "300-03-06",
@@ -49,7 +51,8 @@
       "kto": "Symon + przyboczna (Sten)",
       "zamyka": "wyjazd",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-07",
@@ -57,7 +60,8 @@
       "kto": "Orland + Warryn",
       "zamyka": "karta na stole",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-07",
@@ -65,7 +69,8 @@
       "kto": "Symon",
       "zamyka": "liczba wpisana",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-07",
@@ -73,7 +78,8 @@
       "kto": "MELLA",
       "zamyka": "pytania oddane lawie",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-07",
@@ -81,7 +87,8 @@
       "kto": "GARRICK",
       "zamyka": "karta wypelniona",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-07",
@@ -89,7 +96,8 @@
       "kto": "WARRYN + lawa",
       "zamyka": "slup",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-07",
@@ -97,7 +105,8 @@
       "kto": "Herwin / wagowy",
       "zamyka": "obwieszczenie na slupie",
       "status": "zrobione 300-03-03",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-09",
@@ -105,7 +114,8 @@
       "kto": "WARRYN",
       "zamyka": "liczba",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-09"
     },
     {
       "data": "po 300-03-09",
@@ -113,7 +123,8 @@
       "kto": "Symon + Hal",
       "zamyka": "suma emisji i srodek wierzyciela",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-10"
     },
     {
       "data": "300-03-10",
@@ -121,7 +132,8 @@
       "kto": "WILLA",
       "zamyka": "wyjazd",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-10"
     },
     {
       "data": "~300-03-13",
@@ -129,7 +141,8 @@
       "kto": "Symon",
       "zamyka": "podpis",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13"
     },
     {
       "data": "~300-03-13",
@@ -137,7 +150,8 @@
       "kto": "Symon + Hal",
       "zamyka": "rozmowa w oczy",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13"
     },
     {
       "data": "~300-03-13",
@@ -145,7 +159,8 @@
       "kto": "-",
       "zamyka": "podpis albo utrata przewagi",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13"
     },
     {
       "data": "300-03-29",
@@ -153,7 +168,8 @@
       "kto": "kancelaria",
       "zamyka": "karty zaniesione",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-29"
     },
     {
       "data": "300-03-30",
@@ -161,7 +177,8 @@
       "kto": "Symon, Cerwyn, Wyman",
       "zamyka": "cztery glosowania i aklamacja",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30"
     },
     {
       "data": "300-04-01",
@@ -169,7 +186,8 @@
       "kto": "Korona",
       "zamyka": "zaplata albo zaleglosc",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-04-01"
     },
     {
       "data": "przed 300-04-01",
@@ -177,7 +195,8 @@
       "kto": "kancelaria -> Symon (Bialy Port do ~20.III, potem Winterfell)",
       "zamyka": "meldunek o przyjezdzie ALBO o niestawieniu sie",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-31"
     },
     {
       "data": "300-04-01",
@@ -185,7 +204,8 @@
       "kto": "miasto Cailin",
       "zamyka": "wykonanie",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-04-01"
     },
     {
       "data": "ten tydzien",
@@ -193,7 +213,8 @@
       "kto": "WARRYN",
       "zamyka": "odpowiedz",
       "status": "otwarte",
-      "kanal": "poslaniec do Greywater Watch"
+      "kanal": "poslaniec do Greywater Watch",
+      "wraca": "300-03-10"
     },
     {
       "data": "ten tydzien",
@@ -201,7 +222,8 @@
       "kto": "WARRYN",
       "zamyka": "odpowiedz",
       "status": "otwarte",
-      "kanal": "poslaniec do Greywater Watch"
+      "kanal": "poslaniec do Greywater Watch",
+      "wraca": "300-03-10"
     },
     {
       "data": "tygodnie - PRZED SIEWEM",
@@ -218,7 +240,8 @@
       "kto": "MELLA -> HARROL -> WILLA",
       "zamyka": "odczyt kolumn",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13"
     },
     {
       "data": "V/300",
@@ -235,7 +258,8 @@
       "kto": "Symon / Osric",
       "zamyka": "siew",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-09-01"
     },
     {
       "data": "koniec VI/300",
@@ -243,7 +267,8 @@
       "kto": "Catelyn / Lucan",
       "zamyka": "ratyfikacja",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-06-30"
     },
     {
       "data": "bez daty - CISZA",
@@ -315,7 +340,8 @@
       "kto": "lawa burmistrza",
       "zamyka": "posadzenie",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-04"
     },
     {
       "data": "300-03-05",
@@ -323,7 +349,8 @@
       "kto": "CERWYN",
       "zamyka": "czlowiek zostaje, kiedy pan odjezdza",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-05"
     },
     {
       "data": "ten tydzien",
@@ -340,7 +367,8 @@
       "kto": "Symon / Brynden",
       "zamyka": "odpowiedz Blackfisha",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30"
     },
     {
       "data": "wyslane 300-02-27 - CISZA",
@@ -357,7 +385,8 @@
       "kto": "LAWA MIASTA CAILIN / HERWIN SZALA",
       "zamyka": "pismo MIASTA w Winterfell - ono uruchamia obietnice Krola",
       "status": "WARUNEK SPELNIONY 300-03-04 - pismo miasta w drodze",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30"
     },
     {
       "data": "300-03-04 SWIT",
@@ -410,7 +439,8 @@
       "kto": "poslaniec przy grobli",
       "zamyka": "krannogowie wychodza ALBO spotkanie z Howlandem",
       "status": "otwarte - bez zegara z natury kanalu",
-      "kanal": "poslaniec do Greywater Watch"
+      "kanal": "poslaniec do Greywater Watch",
+      "wraca": "300-03-11"
     },
     {
       "data": "wyslany 300-03-01, osobnym jezdzcem",
@@ -445,7 +475,8 @@
       "kto": "WYSTAN + WERRAN + HAKON",
       "zamyka": "kanon spisany i PIERWSZY POSILEK Z NIEGO PODANY - kanonu nie oglasza sie na slupie, kanon sie je",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-09"
     },
     {
       "data": "~300-03-15 (termin podany w samym liscie)",
@@ -588,7 +619,8 @@
       "kto": "SYMON (myto to jego regale) + GAWEN (clo to Korona)",
       "zamyka": "obwieszczenie na slupie w Cailin",
       "status": "ROZSTRZYGNIETE - na slup 300-03-04",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "PILNE",
@@ -605,7 +637,8 @@
       "kto": "HERWIN + GARTH (wycena juz istnieje)",
       "zamyka": "obwieszczenie",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-04"
     },
     {
       "data": "PILNE - do karty zywnosciowej 300-03-07",
@@ -622,7 +655,8 @@
       "kto": "HERWIN + ORLAND + BENNIS",
       "zamyka": "obwieszczenie",
       "status": "otwarte",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-04"
     },
     {
       "data": "PILNE - do Rady 300-03-30",
@@ -630,7 +664,8 @@
       "kto": "SYMON",
       "zamyka": "swiezy meldunek z Muru PRZED Rada 300-03-30 - od Osrica albo wprost z Czarnego Zamku",
       "status": "otwarte - PILNE, liczba sie starzeje i to ona otwiera Rade",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30"
     },
     {
       "data": "PILNE - przed wyjazdem 300-03-07",
@@ -656,7 +691,8 @@
       "kto": "SYMON",
       "zamyka": "decyzja gracza: pytac Aemona czy nie",
       "status": "otwarte - DO ROZSTRZYGNIECIA",
-      "kanal": "wlasny czlowiek na Fosie"
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "WYSZEDL 300-02-07 - 25 DNI CISZY",
@@ -664,7 +700,8 @@
       "kto": "poslaniec -> MANCE RAYDER -> OSRIC -> SYMON",
       "zamyka": "delegacja przed glowna brama ALBO odmowa ALBO poslaniec, ktory nie wrocil - kazde z trzech jest odpowiedzia",
       "status": "ROZSTRZYGNIETE 300-03-03 (rzut 20): POSLANIEC NIE WROCIL. Przewodnik z klanow wrocil sam po dziewieciu dniach.",
-      "kanal": "za Mur"
+      "kanal": "za Mur",
+      "wraca": "300-02-07"
     },
     {
       "data": "NIEODPOWIEDZIANE OD 300-02-06 - przed Rada 300-03-30",
@@ -690,7 +727,8 @@
       "kto": "-",
       "zamyka": "delegacja przed brama, poslaniec, albo wiadomosc o nim - dowolne z trzech",
       "status": "otwarte - AKT BEZ ODPOWIEDZI",
-      "kanal": "za Mur"
+      "kanal": "za Mur",
+      "wraca": "300-03-17"
     },
     {
       "data": "300-03-03 - WIADOMOSC JEST",
@@ -708,6 +746,96 @@
       "kanal": "kruk Fosa-Krolewska Przystan",
       "wraca": "300-03-22",
       "zamyka": "odpowiedz dworu ALBO milczenie - a milczenie tez rozstrzyga cene Harriona przed 300-04-01, gdy zapada zaleglosc Karholdu",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-05",
+      "co": "KAFARY NIE MAJA WLASCICIELA - jedyna rzecz realnie hamujaca groble, i NIKT NIE MA ROZKAZU JEJ USUNAC. Cerwyn 300-02-20 i Bran 300-02-25 powiedzieli to samo: 'nie brakuje nam pieniedzy, stoimy, bo mamy cztery kafary; kafary robi sie z DREWNA I Z ZELAZA, NIE Z MONETY, i trzeba je komus KAZAC zrobic'. Plac budowy BEZ MISTRZA, KUZNI I KAMIENIOLOMU. ### ⚡ OD 300-03-04 ZNIKA POWOD, DLA KTOREGO ROZKAZ NIE MIAL ADRESATA: LAWA SADZA KOWALA (Brusk od Miecha). Rozkaz do kuzni ma wreszcie komu byc wydany.",
+      "kto": "BRAN + kowal + Orbelo",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-05",
+      "zamyka": "cztery kafary z wlascicielem i terminem, albo pisemne 'nie da sie i dlaczego'",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-10",
+      "co": "GROBLA STOI PRZEZ ODWILZ - cztery kafary i zalogi STOJA BEZCZYNNIE. Dzien, w ktorym KAFAR ZNOWU WCHODZI W GRUNT, zalezy od odwilzy i NIKT GO NIE ZNA; jedyny czlowiek, ktory ten dzien rozpozna, to BRAN. Sztandarowa budowa lenna nie ma daty wznowienia.",
+      "kto": "BRAN",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-10",
+      "zamyka": "meldunek: kafar wszedl w grunt / nadal stoi I DLACZEGO",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "CZTERY ROBOTY BIJA SIE O TE SAME RECE I NIKT TEGO NIE POLICZYL: GROBLA (stoi, ludzie bezczynni) - TORFIARNIE (to one trzymaja ludzi przy robocie w zimie, czyli program zatrudnienia) - TRZCINA Z PRZYWILEJU (zglosilo sie kilkunastu, prawie wszyscy do jednego rzemiosla) - EKIPA POMIAROWA. Piata dolozona 300-03-01: torf do ludzi.",
+      "kto": "WARRYN + MELLA (rejestr dniowek)",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-07",
+      "zamyka": "jedna karta rak: ile glow na kazda robote, i ktora ustepuje",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-06",
+      "co": "ROZPOZNANIE PRZEWLOKI - profil, grunt, dlugosc PO NASZEJ STRONIE. Rzeczy wlasne i niesporne, robione od 300-03-01. ODDZIELONE OD POMIARU POD DWIE PIECZECIE, ktory zaczyna sie dopiero, gdy przy sznurze stanie czlowiek Wymana (300-03-06). Joint-walk zachowany, precedens lady Dustin nietkniety.",
+      "kto": "WEYLIN + ORBELO",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-06",
+      "zamyka": "liczba po naszej stronie, gotowa PRZED wspolnym przejsciem",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-09",
+      "co": "TRAKT DO DORZECZA - PIERWSZA RZECZ DO ZROBIENIA NIE JEST KOPANIEM: PRZEJSC ODCINEK I ZMIERZYC. Standard z punktu 10: 'ZADEN ODCINEK BEZ NAZWISKA I BEZ DATY'; liczby na calosc nie da sie podac uczciwie, dopoki nie przeszlo sie odcinka. Rece z rejestru dniowek, ten sam mechanizm co przy przewloce. ⚠ KOLIZJA: prowadzi BRAN, a Bran ma groble - albo dostaje zastepce przy grobli, albo trakt staje w dniu, w ktorym rusza grobla.",
+      "kto": "BRAN + KORM PALIK (zastepca od 300-03-03)",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-09",
+      "zamyka": "zmierzony pierwszy odcinek z nazwiskiem i data",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-03",
+      "co": "ZLECENIE DLA WILLI - ZWEZENIE (300-01-27): PRZESTAC SZUKAC POSREDNIKA, ZAWEZIC DO PETYRA BAELISHA I DO KROLEWSKIEJ PRZYSTANI. Podstawa - jej wlasny trop docisniety: obce srebro, spekulacja zbozowa, 'najlepszy umysl od monety i cienia', cierpliwy pieniadz.",
+      "kto": "WILLA",
+      "kanal": "siatka Willi",
+      "wraca": "300-03-03",
+      "zamyka": "nazwisko albo uczciwe 'slad sie urwal i gdzie'",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-08",
+      "co": "ZLECENIE DLA HARLA W BARROWTON - ziarno siewne. ⚠ TRACI NA WARTOSCI od 300-03-02: Dustin sprzedal zboze, zeby zaplacic danine W MONECIE. 'Niech pyta, ale nie liczmy na to.' Goniec za kolumna wyslany 300-03-02.",
+      "kto": "HARL",
+      "kanal": "jezdziec Fosa-Dustinport",
+      "wraca": "300-03-08",
+      "zamyka": "korce albo pisemne nie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-20",
+      "co": "ETAP I SPICHLERZA POLNOCY - JEDNA KSIEGA na: spichrze Krola, Zimowe Miasto, komory, Kamienny Brod. Krol policzyl JEDNA DZIESIATA spichlerzy krolestwa - a bez tej liczby otwarcie bramy dzikim jest 'wyrokiem wydanym przez nikogo'.",
+      "kto": "GAWEN + OSWYN",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-20",
+      "zamyka": "jedna ksiega, cztery sklady, jedna miara",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-09",
+      "co": "ETAPY MIASTA CAILIN: I - co pod ziemia · II - co zarabia (waga, targ, sklady, brama) · III - co widac (bruk, mury, latarnie) · IV - co oddycha (dzielnica zimowa). ETAP II MA SAM NA SIEBIE ZARABIAC: myto z grobli i clo z komory. ⚠ MYTO WLASNIE ZMIENIONO NA 1/40 OD WARTOSCI - rachunek Etapu II trzeba przeliczyc.",
+      "kto": "WARRYN + GERRIK RACHUBA",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-09",
+      "zamyka": "rachunek Etapu II po nowym mycie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-10",
+      "co": "TORFIARNIE - maja ciac WIECEJ, a mierniczego torfu wakat po Harrolu zamkniety dopiero 300-03-03 (Jorren Lut). To jest zarazem PROGRAM ZATRUDNIENIA ZIMOWEGO: 'to one trzymaja ludzi przy robocie w zimie'. ⚠ I od 300-03-03 torf placi 7,5 proc. zamiast 15 - powod, zeby ciac wiecej, wlasnie sie podwoil.",
+      "kto": "JORREN LUT + WARRYN",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-10",
+      "zamyka": "liczba: ile ciety tygodniowo i iloma rekami",
       "status": "otwarte"
     }
   ]

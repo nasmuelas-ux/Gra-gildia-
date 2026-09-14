@@ -79,6 +79,17 @@
       "tam": 8,
       "wraca_lacznie": 20,
       "zrodlo": "lancuch maesterski na poludnie; odpowiedz z wrogiego dworu moze nie przyjsc wcale"
+    },
+    "siatka Willi": {
+      "tam": 14,
+      "wraca_lacznie": 35,
+      "zrodlo": "slepe rece, firewall; kartka zgodnosci - wolno i bez pospiechu"
+    },
+    "robota na miejscu (Fosa)": {
+      "tam": 0,
+      "wraca_lacznie": null,
+      "zrodlo": "ROBOTA NIE MA CZASU DROGI, MA TERMIN MELDUNKU. Kazda budowa i kazde zlecenie melduje sie w dniu wpisanym, takze gdy meldunek brzmi 'stoi'.",
+      "sprawdzaj_co": 7
     }
   }
 }

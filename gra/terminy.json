@@ -2547,6 +2547,24 @@
    "wraca": "300-03-22",
    "zamyka": "trzydziestu wpisanych, zapotrzebowanie skorygowane",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-20",
+   "co": "RUBRYKA POCHODZENIA PRZY BECZCE NA LISCIE PRZEWOZOWYM - wykonanie zasady 'beczki z Cailin nie ida na targ, tylko na budowe' (300-03-13). Znak normy jest na wyrobie, list przewozowy stoi w prawie od poprawki trzeciej - brakuje jednej rubryki, ktora je laczy. Adresat po stronie lenna: IZBA MIAR I STANDARDOW (znak) + kancelaria (list). Po stronie Domu: TAM (ksiega skladu). RYZYKO, PRZED KTORYM TO STOI: beczka Cailin i beczka Bialego Portu w jednym skladzie pod sol i rybe sa nie do odroznienia; przewaga nieogloszonego statutu skonczy sie przez pomylke magazyniera, nie przez zdrade.",
+   "kto": "IZBA MIAR I STANDARDOW / kancelaria Fosy / TAM",
+   "kanal": "jezdziec Bialy Port-Fosa",
+   "wraca": "300-03-20",
+   "zamyka": "rubryka pochodzenia wpisana we wzor listu przewozowego i w ksiege skladu",
+   "status": "otwarte"
+  },
+  {
+   "data": "kiedy budowa przestanie zjadac cala produkcje",
+   "co": "⚠ DZIEN, W KTORYM ZAKAZ EKSPORTU Z CAILIN ZACZNIE KOSZTOWAC. Filar ① obrony (Bractwo, 300-02-28) dziala za darmo tylko dopoty, dopoki grobla, forteca, miasto, Dustinport i drwale na Murze biora cala produkcje. Gdy przestana, 'dopoki lord nie postanowi osobno' przestanie byc formula i stanie sie decyzja: otworzyc targ i obudzic cech, albo trzymac wyrob w lennie i zdusic wlasne rzemioslo. ZEGAR NIE JEST URZEDOWY, TYLKO BUDOWLANY - rozpozna go ten, kto liczy odbior na budowach, nie kalendarz.",
+   "kto": "SYMON / WARRYN / IZBA",
+   "kanal": "karta odbioru z budow",
+   "wraca": null,
+   "zamyka": "decyzja lorda o otwarciu albo zamknieciu targu dla wyrobu Cailin",
+   "status": "otwarte - bez daty, ze spustem"
   }
  ]
 }

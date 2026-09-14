@@ -2190,12 +2190,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "PLACOWKA W PENTOS - OTWARTA, I JEST TANSZA, NIZ WYGLADA, BO DACH JUZ STOI. Sklad powstal ze zgubionego okretu, koszt miesieczny maly, stoi na karcie Medricka. ### CZEGO BRAKUJE - DWIE RZECZY I ZADNA NIE JEST BUDYNKIEM: (1) CZLOWIEK, ktory tam siedzi; (2) POZWOLENIE, a po odmowie miasta z 299-12-30 pozwolenie chodzi PRZEZ MAGISTRA, nie przez ratusz. ### ⚠ I TO JEST DOKLADNIE TA SCIANA, O KTOREJ MOWIL MEDRICK: magistrowie, do ktorych trzeba isc, to ci sami, ktorych zboze Symon odrzucil, placac drozej drobnym gospodarzom. Nie zamyka to drogi - magistrowie nie sa jednym cialem - ale przesadza, ze wejscie nie bedzie przez pierwszego lepszego. ### 300-03-12: HAL OBSADZIL - LORREN. Wlasnym prawem z 300-01-26; pan dowiaduje sie PO FAKCIE i tak ma byc.",
+   "co": "PLACOWKA W PENTOS - OTWARTA, I JEST TANSZA, NIZ WYGLADA, BO DACH JUZ STOI. Sklad powstal ze zgubionego okretu, koszt miesieczny maly, stoi na karcie Medricka. ### CZEGO BRAKUJE - DWIE RZECZY I ZADNA NIE JEST BUDYNKIEM: (1) CZLOWIEK, ktory tam siedzi; (2) POZWOLENIE, a po odmowie miasta z 299-12-30 pozwolenie chodzi PRZEZ MAGISTRA, nie przez ratusz. ### ⚠ I TO JEST DOKLADNIE TA SCIANA, O KTOREJ MOWIL MEDRICK: magistrowie, do ktorych trzeba isc, to ci sami, ktorych zboze Symon odrzucil, placac drozej drobnym gospodarzom. Nie zamyka to drogi - magistrowie nie sa jednym cialem - ale przesadza, ze wejscie nie bedzie przez pierwszego lepszego. ### 300-03-12: HAL OBSADZIL - LORREN. Wlasnym prawem z 300-01-26; pan dowiaduje sie PO FAKCIE i tak ma byc. ### 300-03-12: OBSADZONA - OBARO, wprowadza Medrick osobiscie, na pismie.",
    "kto": "SYMON + MEDRICK + HAL",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "czlowiek do Pentos wskazany i droga pozwolenia nazwana",
-   "status": "otwarte - CZLOWIEK WSKAZANY"
+   "status": "otwarte - OBSADZONA, CZEKA NA WPROWADZENIE"
   },
   {
    "data": "300-03-17",
@@ -2262,12 +2262,30 @@
   },
   {
    "data": "300-03-12",
-   "co": "OBARO - NAZWISKO OD MEDRICKA, ZAPYTANEGO WPROST (rzut 67). ### KIM JEST: PENTOSZYJCZYK, dwadziescia kilka lat FAKTOREM JEDNEGO DOMU MAGISTERSKIEGO - tego samego przez cala sluzbe. Dom podupadl i rozszedl sie; Obaro nie odszedl pierwszy i nie przeszedl do konkurenta, tylko zostal do konca i domknal ksiegi. OD TEGO CZASU JEST BEZ PANA. ### DLACZEGO ON, WEDLE WLASNEGO KRYTERIUM MEDRICKA: to jest czlowiek, ktory UMIE BYC CZYIS - udowodnil to raz i udowodnil w najgorszym momencie, bo zostal przy domu, ktory juz nic nie placil. ### I DRUGA RZECZ, KTORA ROZWIAZUJE PROBLEM PIERWSZYCH DRZWI: on te drzwi juz zna. Nie musi wybierac patrona po omacku - przez dwadziescia lat chodzil do wszystkich w czyimś imieniu. ### ⚠ RYZYKO, KTORE MEDRICK NAZWAL SAM I OD RAZU: 'Czlowiek, ktory byl czyjs, moze byc czyjs znowu. To jest ta sama cnota od drugiej strony i nie ma na to lekarstwa - jest tylko ksiega.' ### WARUNEK RECZENIA - I JEST W NIM CALA JEGO POWAGA: Medrick wprowadzi go OSOBISCIE i chce, zeby stalo NA PISMIE, ze wprowadzenie jest JEGO, nie Domu. 'Jesli Obaro sprzeda was komus, wy stracicie faktora, a ja stracę imie w tym miescie. RECZY TEN, KTO MA CO STRACIC. Inaczej to nie jest reczenie, tylko list polecajacy.' ### DECYZJA NALEZY DO HALA (zasada 42 i jego prawo z 300-01-26) - Medrick podal nazwisko, nie obsadzil krzesla.",
+   "co": "OBARO - NAZWISKO OD MEDRICKA, ZAPYTANEGO WPROST (rzut 67). ### KIM JEST: PENTOSZYJCZYK, dwadziescia kilka lat FAKTOREM JEDNEGO DOMU MAGISTERSKIEGO - tego samego przez cala sluzbe. Dom podupadl i rozszedl sie; Obaro nie odszedl pierwszy i nie przeszedl do konkurenta, tylko zostal do konca i domknal ksiegi. OD TEGO CZASU JEST BEZ PANA. ### DLACZEGO ON, WEDLE WLASNEGO KRYTERIUM MEDRICKA: to jest czlowiek, ktory UMIE BYC CZYIS - udowodnil to raz i udowodnil w najgorszym momencie, bo zostal przy domu, ktory juz nic nie placil. ### I DRUGA RZECZ, KTORA ROZWIAZUJE PROBLEM PIERWSZYCH DRZWI: on te drzwi juz zna. Nie musi wybierac patrona po omacku - przez dwadziescia lat chodzil do wszystkich w czyimś imieniu. ### ⚠ RYZYKO, KTORE MEDRICK NAZWAL SAM I OD RAZU: 'Czlowiek, ktory byl czyjs, moze byc czyjs znowu. To jest ta sama cnota od drugiej strony i nie ma na to lekarstwa - jest tylko ksiega.' ### WARUNEK RECZENIA - I JEST W NIM CALA JEGO POWAGA: Medrick wprowadzi go OSOBISCIE i chce, zeby stalo NA PISMIE, ze wprowadzenie jest JEGO, nie Domu. 'Jesli Obaro sprzeda was komus, wy stracicie faktora, a ja stracę imie w tym miescie. RECZY TEN, KTO MA CO STRACIC. Inaczej to nie jest reczenie, tylko list polecajacy.' ### DECYZJA NALEZY DO HALA (zasada 42 i jego prawo z 300-01-26) - Medrick podal nazwisko, nie obsadzil krzesla. ### 300-03-12: HAL BIERZE OBARA. Wprowadzenie Medricka NA PISMIE.",
    "kto": "HAL -> OBARO, wprowadza MEDRICK",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "Hal bierze Obara albo nie; jesli tak - wprowadzenie Medricka na pismie",
-   "status": "otwarte - DECYZJA HALA"
+   "status": "zrobione 300-03-12 - HAL BIERZE"
+  },
+  {
+   "data": "300-03-12",
+   "co": "WPROWADZENIE MEDRICKA NA PISMIE - CO W NIM STOI. Nie jest to list polecajacy i tym sie rozni: ### (1) WPROWADZENIE JEST SER MEDRICKA MANDERLY'EGO, NIE DOMU HANDLOWEGO TALLY. Podpisuje wlasnym imieniem, nie imieniem swojego pana i nie w cudzym zastepstwie. ### (2) STOI W NIM, CO TRACI KAZDA ZE STRON, JESLI OBARO ZAWIEDZIE: Dom traci faktora, MEDRICK TRACI IMIE W PENTOS. 'Reczy ten, kto ma co stracic. Inaczej to nie jest reczenie, tylko list polecajacy.' ### (3) WPROWADZA GO OSOBISCIE - i to jest realny koszt jego warunku: MUSI TAM POPLYNAC. Nie posle kartki; kartka bez czlowieka jest w Pentos tym samym, co czlowiek bez kartki. ### DOKTRYNA, KTORA SPINA CALY DZISIEJSZY WIECZOR: kto podpisuje, musi cos tracic, kiedy sie myli - ta sama, co przy trzeciej rece pod kazda mila przewloki, przy ksiedze przewloki u pisarza grodzkiego i przy pieczeci Kessela na cudzym liscie. Medrick doszedl do niej sam, dwadziescia lat wczesniej i o pol swiata dalej.",
+   "kto": "SER MEDRICK MANDERLY",
+   "kanal": "morze Bialy Port-Braavos",
+   "wraca": "300-04-10",
+   "zamyka": "Obaro wprowadzony u magistra, Medrick wrocil",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12 - STALE",
+   "co": "KSIEGA PLACOWKI W PENTOS IDZIE DO BRAAVOS, NIE DO BIALEGO PORTU - co miesiac, do kantoru NESTY. ### POWOD PODAL MEDRICK SAM, MOWIAC O RYZYKU OBARA: 'czlowiek, ktory byl czyjs, moze byc czyjs znowu - nie ma na to lekarstwa, JEST TYLKO KSIEGA'. ### DLACZEGO DO BRAAVOS, A NIE DO DOMU: OBARO NIE LICZY SAM SIEBIE (ta sama zasada, co u Jastrzebi i przy mycie przewloki), a Pentos-Braavos to blisko, wiec ksiega idzie czesto i tanio. ### I TU DOPIERO WIDAC, PO CO BYLY DWIE PLACOWKI, A NIE JEDNA: DWIE NOWE PILNUJA SIE NAWZAJEM. Jedna bez drugiej wymagalaby trzeciego czlowieka; razem nie wymagaja nikogo.",
+   "kto": "OBARO -> NESTA",
+   "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+   "wraca": "300-04-29",
+   "zamyka": "pierwsza ksiega Pentos w kantorze Nesty",
+   "status": "otwarte"
   }
  ]
 }

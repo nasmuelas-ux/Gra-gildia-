@@ -3044,7 +3044,7 @@
    "id": "wektor_stannis_zlamany_sojusznik_1127",
    "tytul": "Stannis zlamany = naturalny anty-Lann sojusznik, nie moze zadac przynaleznosci",
    "status": "UKLAD_ZAPIECZETOWANY_Stannis_zlegitymizowany_i_zwiazany",
-   "_dziennik_nota": 15
+   "_dziennik_nota": 16
   },
   {
    "id": "wektor_dolina_arryn_1127",
@@ -4794,7 +4794,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 41,
+   "_dziennik_nota": 42,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -5347,7 +5347,7 @@
   {
    "id": "spotkanie_ze_stannisem_w_pentos_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 22,
+   "_dziennik_nota": 23,
    "priorytet": "wysoki",
    "termin": "299-12 (Pentos)",
    "tytul": "Spotkanie ze Stannisem w Pentos - zaproszenie wyslane z pieciu warunkami; jedzie Namiestnik osobiscie; czeka na odpowiedz",
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 19
+   "_dziennik_nota": 20
   },
   {
    "id": "pochodzenie_symona_299_09",
@@ -6228,7 +6228,7 @@
   {
    "id": "howland_reed",
    "status": "otwarty",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 10
   },
   {
    "id": "spis_flory_przesmyku_299_09",

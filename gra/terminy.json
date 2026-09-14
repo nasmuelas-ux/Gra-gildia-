@@ -1119,7 +1119,7 @@
     },
     {
       "data": "300-03-07",
-      "co": "PISMO DO KROLA - TRZY WARUNKI, TRZY ODPOWIEDZI. Nie prosba: SPRAWOZDANIE. (3) CZYM ICH NAKARMIC - POLICZONE: 22 tysiace gab to okolo 22 TYSIECY KORCY MIESIECZNIE; po cenie skladu 11 jeleni to 1210 SMOKOW NA MIESIAC, czyli OKOLO JEDNEJ CZWARTEJ CALEGO ROCZNEGO DOCHODU KORONY W MONECIE. ### WNIOSEK, KTORY Z LICZBY WYNIKA SAM: NIE DA SIE ICH NAKARMIC KUPIONYM ZBOZEM. DA SIE ICH OSADZIC. Fosa ma na to gotowy wzor: zniesiona panszczyzna dla nowych, piec lat wolnizny, ziemia i narzedzia - i DAR, dwadziescia piec mil pustej ziemi, ktora i tak lezy PIERWSZA NA DRODZE MANCE'A. 'Zanim stanie sie ziemia, musi stac sie granica' - zapis 299-09-06; teraz ma liczbe. (1) KTO IDZIE ZA MUR - nie poslaniec i nie poseł. Poslaniec przepadl, tlumacz nie pojdzie, przewodnika nie ma. ZOSTAJE JEDEN RODZAJ CZLOWIEKA, KTORY UMIE TAM WEJSC I WYJSC: JEDEN Z TRZECH DZIKICH TRZYMANYCH PRZEZ STRAZ. Ma po tamtej stronie kogo znac, a po tej ma powod wrocic - o ile mu go damy. (2) CO Z DOWODEM - czarne szklo. DWA OSTRZA W PLOTNIE to jedyne, co Polnoc ma; ale STARE OSTRZA WYCHODZA Z TORFU, A TORFIARNIE FOSY TNA TEN SAM TORF (Reed, 299-10-04). To nie jest brak surowca, to brak szukania.",
+      "co": "PISMO DO KROLA - TRZY WARUNKI, TRZY ODPOWIEDZI. Nie prosba: SPRAWOZDANIE. (3) CZYM ICH NAKARMIC - POLICZONE: 22 tysiace gab to okolo 22 TYSIECY KORCY MIESIECZNIE; po cenie skladu 11 jeleni to 1210 SMOKOW NA MIESIAC, czyli OKOLO JEDNEJ CZWARTEJ CALEGO ROCZNEGO DOCHODU KORONY W MONECIE. ### WNIOSEK, KTORY Z LICZBY WYNIKA SAM: NIE DA SIE ICH NAKARMIC KUPIONYM ZBOZEM. DA SIE ICH OSADZIC. Fosa ma na to gotowy wzor: zniesiona panszczyzna dla nowych, piec lat wolnizny, ziemia i narzedzia - i DAR, dwadziescia piec mil pustej ziemi, ktora i tak lezy PIERWSZA NA DRODZE MANCE'A. 'Zanim stanie sie ziemia, musi stac sie granica' - zapis 299-09-06; teraz ma liczbe. (1) KTO IDZIE ZA MUR - nie poslaniec i nie poseł. Poslaniec przepadl, tlumacz nie pojdzie, przewodnika nie ma. ZOSTAJE JEDEN RODZAJ CZLOWIEKA, KTORY UMIE TAM WEJSC I WYJSC: JEDEN Z TRZECH DZIKICH TRZYMANYCH PRZEZ STRAZ. Ma po tamtej stronie kogo znac, a po tej ma powod wrocic - o ile mu go damy. (2) CO Z DOWODEM - CZARNE SZKLO JUZ JEST NASZE. Stannis oddal je ZA DARMO w Pentos (299-12-29). Kadlub zgodzil sie dac WYMAN 300-01-26. Zostal JEDEN RUCH: PRZELADUNEK NA OTWARTEJ WODZIE, ktory ser Davos ustawi tak, ze NIKT NIE NAPISZE RAPORTU. Miejsce, sygnal i pore podal WLASNA REKA, proszac, by tego NIE PISAC W ZADNYM LISCIE - i dlatego w tym rejestrze tego nie ma i nie bedzie. Dwa ostrza w plotnie to nie caly zapas, tylko to, co juz przywieziono. A niezaleznie od tego STARE OSTRZA WYCHODZA Z TORFU, a torfiarnie Fosy tna ten sam torf (Reed, 299-10-04) - to drugie zrodlo, wlasne i darmowe.",
       "kto": "SYMON -> KROL",
       "kanal": "kruk Winterfell-Fosa",
       "wraca": "300-03-07",
@@ -1151,6 +1151,33 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-30",
       "zamyka": "liczba wypowiedziana",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "PRZELADUNEK CZARNEGO SZKLA - CZEKA NA SLOWO SYMONA, NIE NA NIC INNEGO. Material ODDANY ZA DARMO przez Stannisa w Pentos 299-12-29. KADLUB ZGODZONY PRZEZ WYMANA 300-01-26. USTAWIA SER DAVOS - zna wschodni brzeg od Krainy Burzy po Palce, kazda zatoczke, gdzie stoja straznicy i o ktorej zmieniaja warte; ustawi to tak, ZE NIKT NIE NAPISZE RAPORTU. ### MIEJSCA, SYGNALU I PORY NIE MA W TYM REJESTRZE I NIE BEDZIE - Davos podal je WLASNA REKA i prosil, by NIE PISAC TEGO W ZADNYM LISCIE. Rejestr notuje, ZE RZECZ ISTNIEJE, nie CO w niej stoi. ⚠ UWAGA O ZRODLE: zdanie 'przeladunek mozna juz umowic' stoi w zapisie z 300-02-07, a wpis z ta data byl RAZ VOIDOWANY za przeskoczenie dnia. Sam material, darowizna i zgoda Wymana sa poza sporem. ### DAVOS DODAL OFERTE NA PRZYSZLOSC: 'jak bedziecie potrzebowali przewiezc cos jeszcze, PYTAJCIE MNIE, NIE KAPITANA'.",
+      "kto": "SYMON -> ser DAVOS (przez Hala)",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-03-07",
+      "zamyka": "slowo Symona i data przeladunku - w glowie, nie w liscie",
+      "status": "otwarte - CZEKA NA JEDNO SLOWO"
+    },
+    {
+      "data": "300-03-10",
+      "co": "DRUGIE ZRODLO OBSYDIANU - WLASNE, DARMOWE I NIEPRZESZUKANE: STARE OSTRZA WYCHODZA Z TORFU, a TORFIARNIE FOSY TNA TEN SAM TORF (Reed, 299-10-04). Torfiarnie maja ciac wiecej, mierniczy obsadzony 300-03-03 (Jorren Lut), a torf od dzis placi 7,5 zamiast 15 procent - wiec ciac beda. ZADANIE JEDNYM ZDANIEM: KAZDY, KTO TNIE TORF, MA ODKLADAC CZARNY KAMIEN OSOBNO I ODDAWAC GO ZA ZAPLATA. Nie szukanie - ZBIERANIE PRZY OKAZJI ROBOTY, KTORA I TAK IDZIE.",
+      "kto": "JORREN LUT + WARRYN",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-10",
+      "zamyka": "pierwsza garsc czarnego kamienia z torfiarni, wazona i wpisana",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "RADA DAVOSA O DZIKICH - PODANA 299-12-29 I DO DZIS NIEODCZYTANA JAKO ROZKAZ: 'ONI NIE BEDA ROZMAWIAC Z CHORAGWIA. Poslecie pana na koniu z eskorta - ZOBACZA TO, CO WIDZIELI PRZEZ OSIEM TYSIECY LAT. POSLIJCIE KOGOS, KTO PRZYJDZIE BEZ ZNAKU I SAM.' ### NASZ POSLANIEC POSZEDL BEZ ZNAKU I SAM - I PRZEPADL. Wiec rada byla dobra, a wykonanie nie wystarczylo: BEZ ZNAKU I SAM to warunek konieczny, nie dostateczny. BRAKOWALO DRUGIEJ POLOWY, ktorej Davos nie musial mowic, bo jest oczywista dla przemytnika: TRZEBA MIEC PO TAMTEJ STRONIE KOGOS, KTO ZA CIEBIE RECZY. Stad jeden z trzech dzikich - nie dlatego, ze jest tani, tylko dlatego, ze JEST JEDYNYM, KTO MA TAM IMIE.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07",
+      "zamyka": "rozstrzygniecie, kto idzie i z czyim reczeniem",
       "status": "otwarte"
     }
   ]

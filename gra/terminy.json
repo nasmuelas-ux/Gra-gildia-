@@ -544,7 +544,7 @@
       "co": "POSLANIEC ZA MUR DO MANCE'A RAYDERA - o DELEGACJE PRZED GLOWNA BRAME. Rozkaz wydany rano 300-02-07, zameldowany Krolowi tego samego dnia slowami: 'NIE MOWIE WAM, ZE SIE UDA. MOWIE, ZE WYSZLO'. RAZEM Z NIM: TLUMACZ ZATRZYMANY, PLATNY Z KASY 3 (zold pod Murem, biezaco, potwierdzony 300-02-15) - o co OSRIC PROSIL NA PISMIE I CZEKAL. PODSTAWA: stanowisko Symona przed Krolem 300-02-06 - 'poslac kogos za Mur do Mance'a Raydera PO ICH RELACJE i poprosic o DOWOD W POSTACI DOSTARCZENIA NIEUMARLYCH'. KANAL: nie ma kruka za Mur. Czlowiek wychodzi i wraca albo nie wraca. Odpowiedz wroci PRZEZ OSRICA - i dlatego jego zalegly meldunek VII jest dzis najwazniejsza cisza w grze.",
       "kto": "poslaniec -> MANCE RAYDER -> OSRIC -> SYMON",
       "zamyka": "delegacja przed glowna brama ALBO odmowa ALBO poslaniec, ktory nie wrocil - kazde z trzech jest odpowiedzia",
-      "status": "otwarte - NAJWIEKSZA NIEZAREJESTROWANA SPRAWA GRY"
+      "status": "ROZSTRZYGNIETE 300-03-03 (rzut 20): POSLANIEC NIE WROCIL. Przewodnik z klanow wrocil sam po dziewieciu dniach."
     },
     {
       "data": "NIEODPOWIEDZIANE OD 300-02-06 - przed Rada 300-03-30",
@@ -558,7 +558,21 @@
       "co": "TLUMACZ SPOD MURU ODCHODZI NA WIOSNE. Zatrzymany za pieniadze od 300-02-07 (Kasa 3) - ale zatrzymanie bylo NA TE ZIME. Trzej dzicy zyja, JEDEN MOWI WIECEJ. To sa JEDYNE TRZY USTA, jakie Polnoc ma z tamtej strony, i jedyny czlowiek, ktory je rozumie. Krol powiedzial to wprost: 'chcecie rozmawiac z Mance'em Rayderem, a jeszcze nie odpisaliscie czlowiekowi, ktory pilnuje jedynych trzech ust, jakie mamy'.",
       "kto": "OSRIC / Kasa 3",
       "zamyka": "tlumacz zwiazany NA ROK, nie na zime - albo wyuczony drugi",
-      "status": "otwarte - ZEGAR BIJE TERAZ"
+      "status": "ROZSTRZYGNIETE 300-03-03 (rzut 29): ZOSTAL - ale oswiadczyl, ze ZA MUR DRUGI RAZ NIE POJDZIE."
+    },
+    {
+      "data": "300-03-03 - WIADOMOSC JEST",
+      "co": "POSLANIEC ZA MUR NIE WROCIL (rzut 20). Wyszedl 300-02-07 z przewodnikiem z klanow gorskich - jedyna droga. PRZEWODNIK WROCIL SAM PO DZIEWIECIU DNIACH: rozstali sie w umowionym miejscu, poslaniec poszedl dalej Z LUDZMI, KTORYCH PRZEWODNIK NIE ZNAL. Nikt nie wie, czy dotarl do Mance'a. NIE MA CIALA, NIE MA ODMOWY, NIE MA DELEGACJI.",
+      "kto": "-",
+      "zamyka": "delegacja przed brama, poslaniec, albo wiadomosc o nim - dowolne z trzech",
+      "status": "otwarte - AKT BEZ ODPOWIEDZI"
+    },
+    {
+      "data": "300-03-03 - WIADOMOSC JEST",
+      "co": "TLUMACZ ZOSTAL (rzut 29) - pieniadze z Kasy 3 doszly i przyjal. ALE OSWIADCZYL OSRICOWI, ZE ZA MUR DRUGI RAZ NIE POJDZIE. Kanal do trzech ust istnieje; PRZEWODNIKA DO MANCE'A NIE MA. Drugiego poslanca nie ma kto poprowadzic.",
+      "kto": "OSRIC",
+      "zamyka": "drugi przewodnik z klanow ALBO wyuczony drugi tlumacz",
+      "status": "otwarte - NOWE WASKIE GARDLO"
     }
   ]
 }

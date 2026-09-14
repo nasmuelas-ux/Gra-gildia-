@@ -4794,7 +4794,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 37,
+   "_dziennik_nota": 38,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -5730,7 +5730,7 @@
   {
    "id": "raport_osrica_z_muru_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 14,
+   "_dziennik_nota": 15,
    "filar": "OSRIC - raporty z Muru",
    "stan_watku": "ZYWY"
   },
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 32
+   "_dziennik_nota": 33
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

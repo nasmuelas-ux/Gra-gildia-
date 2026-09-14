@@ -395,6 +395,16 @@ Jeżeli rzecz stoi dlatego, że **ja jej nie wpisałem, nie przypomniałem albo 
 
 ---
 
+**40. LIST NIE JEST WPISEM. LIST JEST PRZYCZYNĄ.** *(stała, 300-03-03 — najważniejsza poprawka tej sesji)*
+Wysłane pismo, wydany rozkaz i posłany człowiek **produkują skutki, także wtedy, gdy gracz o nich nie pyta.** Człowiek idzie, ktoś go widzi, coś się po drodze dzieje, ktoś odpowiada albo milczy — **i milczenie też ma przyczynę, którą da się nazwać.**
+- ❌ **Diagnoza błędu, który to zrodził:** traktowałem `terminy.json` jak **archiwum tego, co wyszło**, zamiast jak **kolejkę tego, co ma wrócić**. Świat ruszał się wyłącznie tam, gdzie gracz położył palec.
+- ✅ **Mechanika:** **poranny rzut INBOUND ciągnie się z `terminy.json`** — z pozycji o statusie `otwarte`, które mają kanał. Nie z pamięci, nie z „CO ŚLEDZIMY".
+- ✅ **Każda pozycja, której czas drogi minął, MUSI w tej turze dostać rozstrzygnięcie:** przyszło · nie przyszło **i wiadomo dlaczego** · przyszło co innego.
+- ✅ **Rzut należy się sprawie zewnętrznej** (cudzy człowiek, cudza wola, droga) — nie własnym opłaconym ludziom.
+> *Powód, wprost: poselstwo do Mance'a Raydera wyszło 300-02-07 i przez 25 dni NIE WYDARZYŁO SIĘ NIC, bo ja o nim nie pamiętałem. To nie jest zapomniany wpis. To jest człowiek wysłany w śnieg, o którym prowadzący zapomniał.*
+
+---
+
 > ### ZASADA NADRZĘDNA: ŚWIAT MA BYĆ TRUDNY DLATEGO, ŻE JEST DUŻY I POWOLNY — NIE DLATEGO, ŻE PROWADZĄCY ZAPOMNIAŁ.
 
 ---

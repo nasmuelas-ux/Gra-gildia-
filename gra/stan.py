@@ -109,6 +109,11 @@ A("## ⚠️ 38 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI 
   "**Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**\n")
 
 if TERMINY:
+    _otw = [t for t in (TERMINY.get("terminy") or []) if "otwarte" in (t.get("status") or "")]
+    A("## 🎲 KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD**, nie z pamieci")
+    A("**%d pozycji otwartych.** Kazda, ktorej czas drogi minal, MUSI dostac rozstrzygniecie: przyszlo / nie przyszlo I WIADOMO DLACZEGO / przyszlo co innego." % len(_otw))
+    A("")
+
     A("## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)")
     A("_Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._\n")
     _ot = [t for t in TERMINY.get("terminy", []) if not str(t.get("status", "")).startswith("zrobione")]

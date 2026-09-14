@@ -1461,12 +1461,12 @@
   },
   {
    "data": "300-03-04",
-   "co": "REKOMENDACJA ILARIA DO KROLA - NIE NA KRZESLO, TYLKO NA POLNOC. Namiestnik nie podaje nazwiska na zadne z dwoch krzesel (tak stoi w jego wczorajszym pismie i tego sie nie cofa). Podaje CZLOWIEKA: wolny pisarz cechu Braavos, staz jedenascie lat przywrocony wczoraj z data skreslenia, biegly w ksiegach kupieckich Wolnych Miast. ### I PODAJE POWOD, KTORY JEST CALA REKOMENDACJA: TEGO CZLOWIEKA ZNISZCZONO ZA TO, ZE ODMOWIL FALSZYWEGO WPISU I POWIEDZIAL O TYM OD RAZU. Splacil przez jedenascie lat cudzy dlug czterdziestu smokow, do konca, i ma kwit. ### PISMO MOWI WPROST, ZE CZLOWIEK NIE ZOSTAL JESZCZE ZAPYTANY - bo cala krzywda tego czlowieka polega na tym, ze ktos postawil jego nazwisko tam, gdzie on go nie postawil, i drugi raz sie tego nie robi. Krol dostaje nazwisko do SCIAGNIECIA, nie do ogloszenia. ### 300-03-09: czeka w Bialym Porcie razem z reszta poczty. Symon staje ~03-11.",
+   "co": "REKOMENDACJA ILARIA DO KROLA - NIE NA KRZESLO, TYLKO NA POLNOC. Namiestnik nie podaje nazwiska na zadne z dwoch krzesel (tak stoi w jego wczorajszym pismie i tego sie nie cofa). Podaje CZLOWIEKA: wolny pisarz cechu Braavos, staz jedenascie lat przywrocony wczoraj z data skreslenia, biegly w ksiegach kupieckich Wolnych Miast. ### I PODAJE POWOD, KTORY JEST CALA REKOMENDACJA: TEGO CZLOWIEKA ZNISZCZONO ZA TO, ZE ODMOWIL FALSZYWEGO WPISU I POWIEDZIAL O TYM OD RAZU. Splacil przez jedenascie lat cudzy dlug czterdziestu smokow, do konca, i ma kwit. ### PISMO MOWI WPROST, ZE CZLOWIEK NIE ZOSTAL JESZCZE ZAPYTANY - bo cala krzywda tego czlowieka polega na tym, ze ktos postawil jego nazwisko tam, gdzie on go nie postawil, i drugi raz sie tego nie robi. Krol dostaje nazwisko do SCIAGNIECIA, nie do ogloszenia. ### 300-03-09: czeka w Bialym Porcie razem z reszta poczty. Symon staje ~03-11. ### 300-03-11, RZUT 28. KROL NIE BIERZE NAZWISKA I NIE ODRZUCA GO - ODDAJE PYTANIE. ### 'Napisaliscie mi, ze czlowiek nie zostal zapytany, i dobrze zrobiliscie, ze napisaliscie. Ale ja nie posylam po czlowieka przez morze, zanim on powie, ze chce.' ### ⚠ TO ODSLANIA DZIURE W KALENDARZU, KTORA SYMON ZROBIL SAM I ZROBIL JA SLUSZNIE: pytanie do Ilaria idzie przez Neste i WRACA 300-04-22 - TRZY TYGODNIE PO RADZIE. Slusznosc i zegar rozeszly sie w dwie strony. ### I DRUGIE ZDANIE, ZIMNIEJSZE, KTOREGO NIKT NIE ZADAL: 'Wasz Dom rozliczal sie z domem Antaryon. Nie mowie, ze to cos znaczy. Mowie, ze ktos na Radzie powie, ze znaczy.' ### Krol nie zarzuca - ostrzega, i ostrzega PRZED, nie PO.",
    "kto": "SYMON -> ROBB STARK",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-11",
-   "zamyka": "odpowiedz Krola. ⚠ ADRES RUCHOMY - Namiestnik wyjezdza 03-07, odpowiedz idzie TAM, GDZIE ON JEST",
-   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie"
+   "wraca": "300-04-22",
+   "zamyka": "odpowiedz samego Ilaria - dopiero wtedy Krol wraca do sprawy",
+   "status": "PRZECZYTANE 300-03-11 (rzut 28) - ANI TAK, ANI NIE"
   },
   {
    "data": "300-03-04",
@@ -1700,6 +1700,42 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-15",
    "zamyka": "bilans przedlozony, towar odebrany, kolizja weksli rozstrzygnieta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "ZOLD GARNIZONU KORONNEGO W CAILIN NA KASIE 2 - OD DZIS, DO UCHWALENIA DANINY. Krol przyznal garnizon co do zasady, ale zold z lenna. ### PIERWSZA RZECZ: POLICZYC, ILE TO JEST NA MIESIAC - bo pozycja bez liczby nie jest pozycja, tylko zgoda. Gerrik Rachuba liczy, Warryn potwierdza. ### DRUGA: ta liczba JEST ARGUMENTEM PRZY DANINIE - lenno, ktore placi za garnizon Korony, przychodzi na Rade z rachunkiem, nie z prosba.",
+   "kto": "GERRIK RACHUBA + WARRYN",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-18",
+   "zamyka": "liczba miesieczna zoldu garnizonu, na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-30",
+   "co": "DANINA FOSY - POZYCJA, KTORA USTALA KROL, NIE NAMIESTNIK, I KTORA WLASNIE ZROBILA SIE PILNA. Od 300-03-11 Fosa placi za koronny garnizon w Cailin z wlasnej kasy. To nie jest skarga - to jest LICZBA, KTORA WCHODZI NA WIECZOR PO PIERWSZYM DNIU RADY, tam gdzie Krol dal godzine bez swiadkow. ### RAZEM Z NIA WCHODZA: cztery pozycje monetarne, na ktore Gawen nie odpowiedzial, i obsada obu rozdzielonych krzesel.",
+   "kto": "SYMON -> KROL, wieczor 300-03-30",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "rozmowa bez swiadkow, cztery rzeczy na jednej karcie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "REJESTRY LOCKE'OW I JENCY - CZESC KORONNA W RUCHU. Krol udostepnil; jency policzeni z imienia, pochodzenie tam, gdzie dalo sie ustalic, a gdzie nie - PUSTA RUBRYKA ZAMIAST DOMYSLU. ### CO Z TEGO ROBIC: zestawic z REJESTREM MELLI i KSIEGA BRAMY (te same dwie ksiegi, ktore odkryly jedenastu na Mur) - bo jeniec z pusta rubryka pochodzenia i przybysz bez domu to czesto ten sam czlowiek widziany z dwoch stron. ### To takze karmi rozpisanie 114 odbitych na troje drzwi.",
+   "kto": "GARRICK + MELLA + GARTH",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-20",
+   "zamyka": "zestawienie trzech ksiag: ile pustych rubryk da sie zamknac",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "KOLEBKA GLEBOKORZENIA - NOWY ZAMEK, I SYMON JEST WLASNIE TUTAJ. Theomore odpisal; kolebka stoi w Bialym Porcie z oferty Wymana (299-09-21, rzut 89), a Namiestnik jest w miescie do ~300-03-15. ### ⚠ PIERWSZY RAZ OD POL ROKU DA SIE TO OBEJRZEC OCZAMI, A NIE PRZEZ KRUKA - i drugi raz taka okazja bedzie nie predzej niz po Radzie. Vard Kilof oglada tymczasem kamien na Goracym Porcie.",
+   "kto": "SYMON + THEOMORE (przez ludzi Wymana w miescie)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "kolebka obejrzana albo swiadomie odpuszczona",
    "status": "otwarte"
   }
  ]

@@ -155,10 +155,10 @@
   },
   {
    "data": "~300-03-13",
-   "co": "koniec przewagi NIEOGLOSZONEGO STATUTU - do podpisu Wymana",
+   "co": "koniec przewagi NIEOGLOSZONEGO STATUTU - do podpisu Wymana ### 300-03-13: ⚠ POZYCJA JEST NAGLOWKIEM BEZ TRESCI - zapis nie mowi, o ktory statut chodzi ani na czym polegala przewaga. NIE ZGADUJE (zasady 1a i 44). Do wyjasnienia przez gracza albo do skasowania.",
    "kto": "-",
    "zamyka": "podpis albo utrata przewagi",
-   "status": "otwarte",
+   "status": "otwarte - NAGLOWEK BEZ TRESCI",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13"
   },
@@ -921,12 +921,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "TOVE ZE WZGORZ - SPLAWNOSC SAMOTNYCH WZGORZ, liczba PRZED rozmowa z Wymanem; to jeden z punktow, ktore on kladzie na stol w Bialym Porcie.",
+   "co": "TOVE ZE WZGORZ - SPLAWNOSC SAMOTNYCH WZGORZ, liczba PRZED rozmowa z Wymanem; to jeden z punktow, ktore on kladzie na stol w Bialym Porcie. ### 300-03-13: LICZBA SIE SPOZNILA I JUZ NIE BLOKUJE - umowa z Wymanem podpisana bez niej. Splawnosc Samotnych Wzgorz przestaje byc warunkiem rozmowy, a zostaje zwykla liczba do planu; wraca meldunkiem Garricka.",
    "kto": "TOVE",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-13",
    "zamyka": "liczba",
-   "status": "otwarte"
+   "status": "zrobione 300-03-13"
   },
   {
    "data": "300-03-03 - PRZYSZLO",
@@ -966,12 +966,12 @@
   },
   {
    "data": "300-03-11",
-   "co": "BRYEN DO DUSTINPORTU - rachmistrz skarbu Korony, ten sam, ktory jechal za lady Catelyn przy daninie Zachodu i prowadzil OSOBNA KSIEGE OBJAZDU (zapis 300-02-17). ZADANIE, KTORE NIE JEST OSKARZENIEM: porownac DWIE JUZ ISTNIEJACE KSIEGI - kwity DONNELA (przyjecie) z rubryka osma TORRENA (stan przyczolka, z pisarzem). PIERWSZA HIPOTEZA, NAJTANSZA I NAJPRAWDOPODOBNIEJSZA: dziewiec korcy to ESKADRA, KTORA JE I KTOREJ NIKT NIE ZAPISUJE - bo dwiescie dwadziescia szesc geb na przyczolku to nie to samo co zaloga na kadlubach. JESLI KSIEGI SIE ZEJDA - nie ma kradziezy, jest DZIURA W RUBRYCE. Jesli nie - sprawa idzie do SADU, nie do Donnela. KTO CHWYTA, TEN NIE SADZI.",
+   "co": "BRYEN DO DUSTINPORTU - rachmistrz skarbu Korony, ten sam, ktory jechal za lady Catelyn przy daninie Zachodu i prowadzil OSOBNA KSIEGE OBJAZDU (zapis 300-02-17). ZADANIE, KTORE NIE JEST OSKARZENIEM: porownac DWIE JUZ ISTNIEJACE KSIEGI - kwity DONNELA (przyjecie) z rubryka osma TORRENA (stan przyczolka, z pisarzem). PIERWSZA HIPOTEZA, NAJTANSZA I NAJPRAWDOPODOBNIEJSZA: dziewiec korcy to ESKADRA, KTORA JE I KTOREJ NIKT NIE ZAPISUJE - bo dwiescie dwadziescia szesc geb na przyczolku to nie to samo co zaloga na kadlubach. JESLI KSIEGI SIE ZEJDA - nie ma kradziezy, jest DZIURA W RUBRYCE. Jesli nie - sprawa idzie do SADU, nie do Donnela. KTO CHWYTA, TEN NIE SADZI. ### 300-03-13, RZUT 69. BRYEN ZLOZYL KOLUMNE I ZAMYKA DZIEWIEC KORCY - A ODPOWIEDZ NIE JEST O KRADZIEZY. ### Donnel napisal sam: 'kwity z dwoch ostatnich miesiecy nie zgadzaja sie z ladunkiem o dziewiec korcy na tydzien; nie pisze, ze ktos kradnie - pisze, ze nikt mnie o to nie pytal'. ### KOLUMNA BRYENA: na przyczolku jest 226 ludzi i zjada 70 korcy tygodniowo, czyli niespelna trzecia czesc korca na czlowieka. DZIEWIEC KORCY TO OKOLO TRZYDZIESTU GEB. ### I TYLU WLASNIE NIE MA W ZADNEJ KSIEDZE: ze stu czternastu odbitych bez domu czesc przybywala pojedynczo i przy zaladunkach, a nikt ich nie wpisal na liste porcji - bo ESKADRA WERBUJE SIE SAMA i Donnel policzyl to pierwszy, ale liczyl LUDZI, nie PORCJE. ### NIE MA ZLODZIEJA. SA TRZYDZIESCI OSOB, KTORE JEDZA I KTORYCH NIE MA W RUBRYCE - dokladnie ten sam ksztalt, co jedenastu 'na Mur' na Fosie. ### ⚠ SKUTEK RACHUNKOWY: zapotrzebowanie Dustinportu jest ZANIZONE o okolo jedna osma, a karta zywnosciowa liczy geby, nie robote - wiec liczyla za malo gab.",
    "kto": "BRYEN (Kasa 3, czlowiek Gawena)",
    "kanal": "jezdziec Fosa-Dustinport",
-   "wraca": "300-03-11",
+   "wraca": "300-03-13",
    "zamyka": "dwie ksiegi zestawione w jednej kolumnie: przyjeto / zjedzono / nie wiadomo",
-   "status": "otwarte"
+   "status": "PRZYSZLO 300-03-13 (rzut 69)"
   },
   {
    "data": "300-03-13",
@@ -1362,12 +1362,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "ZBIEG DO PILNOWANIA: SOL I RYBA SOLONA SA OD DZIS ZYWNOSCIA W ROZUMIENIU USTAWY, A JEDNOCZESNIE ZABEZPIECZENIEM WEKSLI (przeniesionym z ziarna siewnego 300-03-03). RZECZ ZASTAWIONA I RZECZ REGLAMENTOWANA TO TA SAMA BECZKA. Jesli prog glodu spadnie ponizej 45 dni, sol i ryba beda sprzedawane TYLKO MIESZKANCOM OKREGU - a wierzyciele weksli sa w Bialym Porcie i Braavos. DO ROZSTRZYGNIECIA Z HALEM: czy zabezpieczenie wytrzyma wlasne prawo pana, czy trzeba trzeciej rzeczy.",
+   "co": "ZBIEG DO PILNOWANIA: SOL I RYBA SOLONA SA OD DZIS ZYWNOSCIA W ROZUMIENIU USTAWY, A JEDNOCZESNIE ZABEZPIECZENIEM WEKSLI (przeniesionym z ziarna siewnego 300-03-03). RZECZ ZASTAWIONA I RZECZ REGLAMENTOWANA TO TA SAMA BECZKA. Jesli prog glodu spadnie ponizej 45 dni, sol i ryba beda sprzedawane TYLKO MIESZKANCOM OKREGU - a wierzyciele weksli sa w Bialym Porcie i Braavos. DO ROZSTRZYGNIECIA Z HALEM: czy zabezpieczenie wytrzyma wlasne prawo pana, czy trzeba trzeciej rzeczy. ### 300-03-11: BEZPRZEDMIOTOWE - weksle ida na WYKUP, wiec nic nimi nie stoi i prog ich nie dotyka.",
    "kto": "SYMON + HAL",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "rozstrzygniecie, czym stoja weksle, jesli prog spadnie",
-   "status": "otwarte - NOWE"
+   "status": "zrobione 300-03-13"
   },
   {
    "data": "300-03-03 - PRZYSZLO",
@@ -2307,12 +2307,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "UDZIAL W DREWNIE - I KSZTALT, KTORY GO ROZWIAZUJE, BO PYTANIE BYLO O ZLA RZECZ. ### CO JEST DZIS: DREWNO BENNETA - pomniejszy posiadacz z WLASNYM borem, kanal otwarty 297-06-24 przez reczenie Borena, umowa podpisana 297-06-25. Jego wartosc polega na TRZECH rzeczach: idzie LADEM, dochodzi GDY RZEKA STOI, i nie tyka ZADNEGO lasu panskiego ani lesniczego. Symon byl przy tym BROKEREM, NIE PRYNCYPALEM, i na tym stoi cala czystosc tej linii. ### ⚠ DLATEGO UDZIALU W DREWNIE SIE NIE DAJE: Wyman jest LORDEM. Lord z udzialem w borze drobnego posiadacza sprawia, ze posiadacz przestaje byc drobnym posiadaczem, a drewno przestaje byc prywatne. Stracilibysmy dokladnie te wlasciwosc, dla ktorej ta linia istnieje. ### CO SIE DAJE ZAMIAST: UDZIAL W BEDNARNI. Wyman nie potrzebuje drzewa - POTRZEBUJE BECZEK. Ma szkutnikow, ma port, ma ladunki do pakowania, a beczka jest waskim gardlem calego lancucha konserwacji, ktory jest jedyna linia Domu rosnaca zima. ### I TO JEST TA SAMA KONSTRUKCJA, CO PRZY PRZEWLOCE, TYLKO ODWROCONA: tam Dom nie brał myta, bo potrzebowal ruchu. Tu Wyman nie bierze drewna, bo potrzebuje beczek. ### CO DOM NA TYM ZYSKUJE, A NIE TRACI: udzial Manderlych wchodzi Z JEGO DREWNEM I JEGO BEDNARZAMI, wiec linia ROSNIE, zamiast sie dzielic - a beczek brakuje, nie nadmiaru.",
+   "co": "UDZIAL W DREWNIE - I KSZTALT, KTORY GO ROZWIAZUJE, BO PYTANIE BYLO O ZLA RZECZ. ### CO JEST DZIS: DREWNO BENNETA - pomniejszy posiadacz z WLASNYM borem, kanal otwarty 297-06-24 przez reczenie Borena, umowa podpisana 297-06-25. Jego wartosc polega na TRZECH rzeczach: idzie LADEM, dochodzi GDY RZEKA STOI, i nie tyka ZADNEGO lasu panskiego ani lesniczego. Symon byl przy tym BROKEREM, NIE PRYNCYPALEM, i na tym stoi cala czystosc tej linii. ### ⚠ DLATEGO UDZIALU W DREWNIE SIE NIE DAJE: Wyman jest LORDEM. Lord z udzialem w borze drobnego posiadacza sprawia, ze posiadacz przestaje byc drobnym posiadaczem, a drewno przestaje byc prywatne. Stracilibysmy dokladnie te wlasciwosc, dla ktorej ta linia istnieje. ### CO SIE DAJE ZAMIAST: UDZIAL W BEDNARNI. Wyman nie potrzebuje drzewa - POTRZEBUJE BECZEK. Ma szkutnikow, ma port, ma ladunki do pakowania, a beczka jest waskim gardlem calego lancucha konserwacji, ktory jest jedyna linia Domu rosnaca zima. ### I TO JEST TA SAMA KONSTRUKCJA, CO PRZY PRZEWLOCE, TYLKO ODWROCONA: tam Dom nie brał myta, bo potrzebowal ruchu. Tu Wyman nie bierze drewna, bo potrzebuje beczek. ### CO DOM NA TYM ZYSKUJE, A NIE TRACI: udzial Manderlych wchodzi Z JEGO DREWNEM I JEGO BEDNARZAMI, wiec linia ROSNIE, zamiast sie dzielic - a beczek brakuje, nie nadmiaru. ### 300-03-13: ZAMKNIETE PODPISEM - CWIERC BEDNARNI, wniesiona drewnem i bednarzami Manderlych. Drewno Benneta poza umowa.",
    "kto": "SYMON + WYMAN + HAL",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "udzial w bednarni ustalony co do czesci i wkladu - albo Wyman obstaje przy drewnie",
-   "status": "otwarte - JUTRO"
+   "status": "zrobione 300-03-13"
   },
   {
    "data": "300-03-12",
@@ -2334,12 +2334,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "PRZEWOZ DREWNA - CZESC, KTORA JEST WYMANA I IDZIE NA JUTRO. Nawet przy sprzedazy prawa ktos musi zaladowac, a ladowac da sie WYLACZNIE PRZY WODZIE: Bialy Port, Przystan Wilka, Bialy Noz - i wszystkie trzy sa jego albo wspolne z nim. ### DO TEGO SZKUTNICY: 'Polnoc nie bedzie budowala kadlubow DLA Braavos - Polnoc zbuduje kadluby, KTORE PRZYWIOZA IM DREWNO. Dzis go nie dostaja nie dlatego, ze go nie ma, tylko dlatego, ze NIE MA CZYM.' To zdanie padlo w Braavos wobec Terysa i jest prawdziwe takze wobec Wymana - z ta roznica, ze Wyman ma stocznie TERAZ. ### I TU SPINA SIE Z UDZIALEM W BEDNARNI: beczki i kadluby wychodza z tego samego placu, od tych samych ludzi i z tego samego drewna. To nie sa dwie rozmowy.",
+   "co": "PRZEWOZ DREWNA - CZESC, KTORA JEST WYMANA I IDZIE NA JUTRO. Nawet przy sprzedazy prawa ktos musi zaladowac, a ladowac da sie WYLACZNIE PRZY WODZIE: Bialy Port, Przystan Wilka, Bialy Noz - i wszystkie trzy sa jego albo wspolne z nim. ### DO TEGO SZKUTNICY: 'Polnoc nie bedzie budowala kadlubow DLA Braavos - Polnoc zbuduje kadluby, KTORE PRZYWIOZA IM DREWNO. Dzis go nie dostaja nie dlatego, ze go nie ma, tylko dlatego, ze NIE MA CZYM.' To zdanie padlo w Braavos wobec Terysa i jest prawdziwe takze wobec Wymana - z ta roznica, ze Wyman ma stocznie TERAZ. ### I TU SPINA SIE Z UDZIALEM W BEDNARNI: beczki i kadluby wychodza z tego samego placu, od tych samych ludzi i z tego samego drewna. To nie sa dwie rozmowy. ### 300-03-13: ZAMKNIETE PODPISEM - laduje sie w Ujsciu Tally-Manderly i w Bialym Porcie, dnem Manderlych, przez czlowieka Mistrza Handlu.",
    "kto": "SYMON + WYMAN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "kto laduje, gdzie i czyim dnem - ustalone przy jutrzejszym podpisie",
-   "status": "otwarte - JUTRO"
+   "status": "zrobione 300-03-13"
   },
   {
    "data": "300-03-30",
@@ -2352,12 +2352,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "DREWNO - CO MOWI SIE WYMANOWI JUTRO, ZANIM PADNIE NA RADZIE. Najbogatszego choragwia nie zaskakuje sie przy stole - a tu chodzi o urzad, ktory ma dostac, i o towar, ktory ma przez niego przejsc. ### CO DOSTAJE: obrot przez wlasny port, wlasne dna, wlasnych szkutnikow i PROWIZJE; oraz karte, ktora przestaje byc ozdoba. ### CZEGO NIE DOSTAJE I CO MUSI USLYSZEC OD RAZU: WYLACZNOSCI. Kanal jest jeden z fizyki, nie z przywileju, a cena wisi na slupie. ### I RZECZ, KTORA JEST JEGO WLASNYM WARUNKIEM Z DZIS WIECZOR, ODDANA MU Z DRUGIEJ STRONY: prosil o LUSTRZANA NIEWYLACZNOSC W ESSOS. Tu dostaje jej odbicie w kraju - obie strony wiaze to samo zdanie.",
+   "co": "DREWNO - CO MOWI SIE WYMANOWI JUTRO, ZANIM PADNIE NA RADZIE. Najbogatszego choragwia nie zaskakuje sie przy stole - a tu chodzi o urzad, ktory ma dostac, i o towar, ktory ma przez niego przejsc. ### CO DOSTAJE: obrot przez wlasny port, wlasne dna, wlasnych szkutnikow i PROWIZJE; oraz karte, ktora przestaje byc ozdoba. ### CZEGO NIE DOSTAJE I CO MUSI USLYSZEC OD RAZU: WYLACZNOSCI. Kanal jest jeden z fizyki, nie z przywileju, a cena wisi na slupie. ### I RZECZ, KTORA JEST JEGO WLASNYM WARUNKIEM Z DZIS WIECZOR, ODDANA MU Z DRUGIEJ STRONY: prosil o LUSTRZANA NIEWYLACZNOSC W ESSOS. Tu dostaje jej odbicie w kraju - obie strony wiaze to samo zdanie. ### 300-03-12/13: POWIEDZIANE PRZED PODPISEM, nie po.",
    "kto": "SYMON -> WYMAN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "Wyman wie, z czym jedzie na Rade",
-   "status": "otwarte - JUTRO"
+   "status": "zrobione 300-03-13"
   },
   {
    "data": "300-03-30",
@@ -2537,6 +2537,15 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-16",
    "zamyka": "wspolne przejscie odbyte przed Rada",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "TRZYDZIESCI GAB BEZ RUBRYKI W DUSTINPORCIE - DO WPISANIA, NIE DO SCIGANIA. Ze stu czternastu odbitych czesc nigdy nie trafila na liste porcji. ### CO SIE Z TYM ROBI: wpisuje sie ich - imieniem albo znakiem, tak jak w rejestrze Melli - i koryguje zapotrzebowanie przyczolka o okolo jedna osma. ### I TO SAMO PYTANIE IDZIE DO TRZECH INNYCH MIEJSC, BO TEN KSZTALT POWTORZYL SIE JUZ TRZY RAZY W JEDNYM MIESIACU: jedenastu 'na Mur' w ksiedze bramy · czterdziestu osmiu bezczynnych przy grobli, ktorzy jedli · teraz trzydziestu w Dustinporcie. DOKTRYNA: czlowiek, ktorego nie ma w rubryce, i tak je - wiec rubryki nie prowadzi sie dla porzadku, tylko dlatego, ze chleb liczy sie sam, czy sie go policzylo, czy nie.",
+   "kto": "DONNEL OBROK + BRYEN",
+   "kanal": "jezdziec Fosa-Dustinport",
+   "wraca": "300-03-22",
+   "zamyka": "trzydziestu wpisanych, zapotrzebowanie skorygowane",
    "status": "otwarte"
   }
  ]

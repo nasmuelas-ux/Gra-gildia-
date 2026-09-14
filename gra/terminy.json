@@ -2172,12 +2172,48 @@
   },
   {
    "data": "300-03-12",
-   "co": "PLACOWKI WEDLE MEDRICKA - RADA, KTORA JEST ODWROTNOSCIA PLANU. ### BRAAVOS: nie jest problemem i nigdy nie byl - faktoria lezala jako horyzont essoski od 299-05, poselstwo szlo miedzy innymi po to, a reczy NESTA, ktora ma WLASNY kantor. Slowa Wymana z tego samego wieczoru: 'za sluge reczy jego pan, ZA NIA RECZY ONA'. ### PENTOS: dach juz stoi, brama zamknieta odmowa miasta, wejscie przez magistra. ### GULLTOWN: Dolina - a tam matka Krola negocjuje i NIC NIE DOMKNELA. Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem. ### HIGHGARDEN: Reach - i tu kanal ISTNIEJE I UTRZYMUJE SIE SAM, bo obie strony maja powod, zeby go nie zerwac (relacje z Reach, zboze). ### ⚠ JEGO WLASNA RADA, Z DWUDZIESTU LAT: NIE OTWIERAC CZTERECH. OTWORZYC TE, KTORA JUZ JEST OTWARTA. 'Dom, ktory wchodzi rowno do czterech miast, w kazdym jest czwarty w kolejce. Dom, ktory wchodzi do jednego i tam siedzi, jest w nim pierwszy.' ### To jest to samo zdanie, ktore Nesta powiedziala inaczej: NAJLEPSZY HANDEL TO TEN, KTOREGO SIE NIE ZROBILO.",
+   "co": "PLACOWKI WEDLE MEDRICKA - RADA, KTORA JEST ODWROTNOSCIA PLANU. ### BRAAVOS: nie jest problemem i nigdy nie byl - faktoria lezala jako horyzont essoski od 299-05, poselstwo szlo miedzy innymi po to, a reczy NESTA, ktora ma WLASNY kantor. Slowa Wymana z tego samego wieczoru: 'za sluge reczy jego pan, ZA NIA RECZY ONA'. ### PENTOS: dach juz stoi, brama zamknieta odmowa miasta, wejscie przez magistra. ### GULLTOWN: Dolina - a tam matka Krola negocjuje i NIC NIE DOMKNELA. Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem. ### HIGHGARDEN: Reach - i tu kanal ISTNIEJE I UTRZYMUJE SIE SAM, bo obie strony maja powod, zeby go nie zerwac (relacje z Reach, zboze). ### ⚠ JEGO WLASNA RADA, Z DWUDZIESTU LAT: NIE OTWIERAC CZTERECH. OTWORZYC TE, KTORA JUZ JEST OTWARTA. 'Dom, ktory wchodzi rowno do czterech miast, w kazdym jest czwarty w kolejce. Dom, ktory wchodzi do jednego i tam siedzi, jest w nim pierwszy.' ### To jest to samo zdanie, ktore Nesta powiedziala inaczej: NAJLEPSZY HANDEL TO TEN, KTOREGO SIE NIE ZROBILO. ### 300-03-12: OTWIERAMY PENTOS I BRAAVOS. HIGHGARDEN - GDY PRZYJDZIE ODPOWIEDZ. GULLTOWN - NIE, swiadomie.",
    "kto": "SYMON + HAL + MEDRICK",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "ile placowek naprawde sie otwiera i ktore",
-   "status": "otwarte - DECYZJA GRACZA"
+   "status": "zrobione 300-03-12 - ROZSTRZYGNIECIE GRACZA"
+  },
+  {
+   "data": "300-03-12",
+   "co": "PLACOWKA W BRAAVOS - OTWARTA. Najtansza z czterech i jedyna, ktora nie zaczyna sie od zera: faktoria lezala jako horyzont essoski od 299-05, poselstwo szlo miedzy innymi po to, kantor Nesty juz tam stoi, a reczy ONA SOBA - nie czyjs pan za slugę. ### ⚠ JEDYNY KOSZT NIE JEST PIENIEZNY, TYLKO JEJ CZASEM: Nesta siedzi od grudnia PRZY CUDZYCH KSIEGACH, ma juz na sobie Ilaria, cech pisarzy, metode ubezpieczen, pytanie o Daenerys - i PRAWO WYJSCIA W KAZDEJ CHWILI BEZ TLUMACZENIA. Placowka jest formalnoscia; jej czas nie jest.",
+   "kto": "NESTA",
+   "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+   "wraca": "300-04-29",
+   "zamyka": "kantor Domu w Braavos otwarty pod wlasnym znakiem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "PLACOWKA W PENTOS - OTWARTA, I JEST TANSZA, NIZ WYGLADA, BO DACH JUZ STOI. Sklad powstal ze zgubionego okretu, koszt miesieczny maly, stoi na karcie Medricka. ### CZEGO BRAKUJE - DWIE RZECZY I ZADNA NIE JEST BUDYNKIEM: (1) CZLOWIEK, ktory tam siedzi; (2) POZWOLENIE, a po odmowie miasta z 299-12-30 pozwolenie chodzi PRZEZ MAGISTRA, nie przez ratusz. ### ⚠ I TO JEST DOKLADNIE TA SCIANA, O KTOREJ MOWIL MEDRICK: magistrowie, do ktorych trzeba isc, to ci sami, ktorych zboze Symon odrzucil, placac drozej drobnym gospodarzom. Nie zamyka to drogi - magistrowie nie sa jednym cialem - ale przesadza, ze wejscie nie bedzie przez pierwszego lepszego.",
+   "kto": "SYMON + MEDRICK + HAL",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "czlowiek do Pentos wskazany i droga pozwolenia nazwana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "co": "HIGHGARDEN - CZEKA NA ODPOWIEDZ LADY OLENNY, I TA ODPOWIEDZ MA JUZ DATE. List poszedl krukiem Fosa-Highgarden, wraca 300-03-17, status 'w drodze, za wczesnie na cisze'. Tresc: Polnoc przezywa zime, Dom chce wejsc do Highgarden PO CICHU, zeby moc rozmawiac blizej - i jest to PIERWSZY WLASNY RUCH DOMU NA REACH, pismo Kasy 1, nie Namiestnika. ### ROZSTRZYGNIECIE GRACZA 300-03-12: placowka otwiera sie DOPIERO PO ODPOWIEDZI. Nie jest to odlozenie - to jest wpiety spust: rzecz ma date i wlascicielem daty jest Olenna.",
+   "kto": "LADY OLENNA -> HAL",
+   "kanal": "kruk Fosa-Highgarden",
+   "wraca": "300-03-17",
+   "zamyka": "odpowiedz Olenny, a po niej decyzja o placowce",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem.' W Dolinie matka Krola negocjuje od miesiecy i NIC NIE DOMKNELA. ### WRACA, GDY DOLINA COKOLWIEK POWIE - i wtedy bedzie to decyzja o interesie, nie o zakladzie.",
+   "kto": "SYMON",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-15",
+   "zamyka": "Dolina mowi cokolwiek - wtedy pytanie wraca",
+   "status": "otwarte - ODLOZONE Z POWODEM"
   }
  ]
 }

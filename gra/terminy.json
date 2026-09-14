@@ -1443,12 +1443,12 @@
   },
   {
    "data": "300-03-04",
-   "co": "STAWKA PIERWSZENSTWA WPISANA DO KARTY MIASTA - PRAWDZIWA CENA, KTORA WZIELA LAWA. Nie 24 jelenie, tylko ZDANIE: od dzis pierwszenstwo w kolejce kuzni KUPUJE KAZDY ZA TE SAMA STAWKE, jawna i wypisana - a placi sie nie do skrzyni miasta, tylko DO RAK TYCH, KTORYCH ROBOTA CZEKA, z rubryka kto i za co. Miasto nie bogaci sie na opoznianiu wlasnych ludzi. ### PAN ZAPLACIL PIERWSZY I TYM SAMYM USTANOWIL STAWKE NA SOBIE. W kolejce nie stoi sie odtad wedlug glosnosci ani urodzenia. ### ⚠ WADA, KTORA TO TWORZY I KTORA TRZEBA ZAMKNAC: KOLEJKA, KTORA MOZNA KUPIC, JEST KOLEJKA, W KTOREJ ZAWSZE WYGRYWA BOGATSZY. Bagienny rzemieslnik nie przebije Domu Tally ani razu. Do rozstrzygniecia: ogranicznik (np. nikt nie kupuje pierwszenstwa dwa razy pod rzad) albo stawka rosnaca przy powtorzeniu.",
+   "co": "STAWKA PIERWSZENSTWA WPISANA DO KARTY MIASTA - PRAWDZIWA CENA, KTORA WZIELA LAWA. Nie 24 jelenie, tylko ZDANIE: od dzis pierwszenstwo w kolejce kuzni KUPUJE KAZDY ZA TE SAMA STAWKE, jawna i wypisana - a placi sie nie do skrzyni miasta, tylko DO RAK TYCH, KTORYCH ROBOTA CZEKA, z rubryka kto i za co. Miasto nie bogaci sie na opoznianiu wlasnych ludzi. ### PAN ZAPLACIL PIERWSZY I TYM SAMYM USTANOWIL STAWKE NA SOBIE. W kolejce nie stoi sie odtad wedlug glosnosci ani urodzenia. ### ⚠ WADA, KTORA TO TWORZY I KTORA TRZEBA ZAMKNAC: KOLEJKA, KTORA MOZNA KUPIC, JEST KOLEJKA, W KTOREJ ZAWSZE WYGRYWA BOGATSZY. Bagienny rzemieslnik nie przebije Domu Tally ani razu. Do rozstrzygniecia: ogranicznik (np. nikt nie kupuje pierwszenstwa dwa razy pod rzad) albo stawka rosnaca przy powtorzeniu. ### 300-03-04 ZAMKNIETE ROZKAZEM GRACZA: 'NIKT NIE KUPUJE PIERWSZENSTWA DWA RAZY POD RZAD'. ### TRZY ZDANIA, KTORE MUSIALY STANAC OBOK, ZEBY KLAUZULA NIE BYLA OZDOBA: (1) POD RZAD ZNACZY: PRZY TEJ SAMEJ KUZNI I PRZY TYM SAMYM OGNIU. Drugi ogien to druga kolejka. (2) ZAKAZ BUDZI SIE DOPIERO, GDY STOI DRUGI CHETNY - jesli nikt nie kupuje, nie ma czego blokowac; inaczej pan czekalby na pustej kolejce dla zasady. (3) 'KTO KUPUJE' USTALA SIE RUBRYKA 'NA CZYJ RACHUNEK' - ta sama, ktora dzis rano poszla na slup przy zbozu. Bez niej Dom Tally kupuje raz sam, raz przez rzadce, raz przez majordoma i nigdy nie kupuje dwa razy pod rzad. ### DZIESIEC SLOW GRACZA POTRZEBOWALO TRZECH ZDAN WYKONAWCZYCH - i wszystkie trzy juz istnialy, tylko w innej ustawie.",
    "kto": "SYMON + lawa + WARRYN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06",
-   "zamyka": "ogranicznik wpisany do karty ALBO swiadoma decyzja, ze go nie ma",
-   "status": "otwarte - PRZED WYJAZDEM 03-07"
+   "zamyka": "wpisane do karty miasta",
+   "status": "zrobione 300-03-04 - OGRANICZNIK WPISANY"
   },
   {
    "data": "300-03-04",

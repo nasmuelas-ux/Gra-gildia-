@@ -403,7 +403,11 @@ Wysłane pismo, wydany rozkaz i posłany człowiek **produkują skutki, także w
 - ✅ **Rzut należy się sprawie zewnętrznej** (cudzy człowiek, cudza wola, droga) — nie własnym opłaconym ludziom.
 > *Powód, wprost: poselstwo do Mance'a Raydera wyszło 300-02-07 i przez 25 dni NIE WYDARZYŁO SIĘ NIC, bo ja o nim nie pamiętałem. To nie jest zapomniany wpis. To jest człowiek wysłany w śnieg, o którym prowadzący zapomniał.*
 
-**41. KAŻDA RZECZ WYSŁANA DOSTAJE KANAŁ I DATĘ POWROTU. BEZ TEGO NIE ZOSTAJE ZAPISANA.** *(stała, 300-03-03 — wskazanie gracza: „listy i akcje świata to są terminy")*
+**41. KAŻDA RZECZ WYSŁANA, ZLECONA I KAŻDA ROBOTA DOSTAJE KANAŁ I DATĘ. BEZ TEGO NIE ZOSTAJE ZAPISANA.** *(stała, 300-03-03 — wskazania gracza: „listy i akcje świata to są terminy" oraz „tak samo zlecenie komuś zrobienia czegoś i praca nad czymś w Fosie i gdziekolwiek mają mieć daty")*
+
+**Trzy rodzaje, jedna tabela:**
+① **pismo** — ma kanał i **datę powrotu** · ② **zlecenie** — ma wykonawcę i **dzień, w którym melduje** · ③ **robota** (budowa, kopanie, cięcie, liczenie) — **nie ma czasu drogi, ma TERMIN MELDUNKU, także wtedy, gdy meldunek brzmi „stoi"**.
+> *Budowa, która stoi, i budowa, o której zapomniałem, wyglądają identycznie — dopóki nie ma dnia, w którym ktoś ma powiedzieć, że stoi.*
 W `terminy.json` każda pozycja ma dwa obowiązkowe pola obok `zamyka`:
 - **`kanal`** — którędy to idzie. Czasy przejścia stoją w **`gra/kanaly.json`** (kruk Winterfell–Fosa 2 dni · jeździec do Białego Portu 6-8 · Braavos 2,5 miesiąca · **za Mur kruk nie lata**).
 - **`wraca`** — **data, na którą coś ma wrócić**, policzona z kanału: `wysłano + tam + z powrotem`.

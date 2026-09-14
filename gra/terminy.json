@@ -110,12 +110,12 @@
   },
   {
    "data": "300-03-09",
-   "co": "WARRYN ZAMYKA RACHUNEK ETAPU I (dwa niepoliczone otwory: kamien z zewnatrz, szesc pozycji Kasy 2)",
+   "co": "WARRYN ZAMYKA RACHUNEK ETAPU I (dwa niepoliczone otwory: kamien z zewnatrz, szesc pozycji Kasy 2) ### 300-03-09: zrobione na Fosie bez pana (zasady 7 i 42); wynik w poczcie czekajacej w porcie.",
    "kto": "WARRYN",
    "zamyka": "liczba",
-   "status": "otwarte",
+   "status": "zrobione 300-03-09 - meldunek w porcie",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-09"
+   "wraca": "300-03-11"
   },
   {
    "data": "po 300-03-09",
@@ -471,12 +471,12 @@
   },
   {
    "data": "zlecone 300-03-02",
-   "co": "KANON JADLA POLNOCY - zadanie dla WYSTANA, trzy czesci: (1) dieta i dania z waloru miejscowego; (2) kanon potraw - co siac, co do szklarni, co hodowac, co lowic; (3) ruszyc ze szklarniami i szkolkami rolniczymi. OD 300-03-03 MA WYKONAWCE: LOWCZY HAKON OD JASZCZURA - wczesniej kanon byl lista bez rak. ⚡ OD 300-03-03 KANON PRZESTAJE BYC SPISEM POTRAW I STAJE SIE TABELA PRZELICZENIOWA USTAWY: ile dni zywi beczka solonej ryby, korzec straczkow, polec suszonego miesa. Bez niego progi glodu licza samo zboze. Termin 300-03-09 przestaje byc wygodny i staje sie wiazacy.",
+   "co": "KANON JADLA POLNOCY - zadanie dla WYSTANA, trzy czesci: (1) dieta i dania z waloru miejscowego; (2) kanon potraw - co siac, co do szklarni, co hodowac, co lowic; (3) ruszyc ze szklarniami i szkolkami rolniczymi. OD 300-03-03 MA WYKONAWCE: LOWCZY HAKON OD JASZCZURA - wczesniej kanon byl lista bez rak. ⚡ OD 300-03-03 KANON PRZESTAJE BYC SPISEM POTRAW I STAJE SIE TABELA PRZELICZENIOWA USTAWY: ile dni zywi beczka solonej ryby, korzec straczkow, polec suszonego miesa. Bez niego progi glodu licza samo zboze. Termin 300-03-09 przestaje byc wygodny i staje sie wiazacy. ### 300-03-09: zrobione na Fosie bez pana (zasady 7 i 42); wynik w poczcie czekajacej w porcie.",
    "kto": "WYSTAN + WERRAN + HAKON",
    "zamyka": "kanon spisany i PIERWSZY POSILEK Z NIEGO PODANY - kanonu nie oglasza sie na slupie, kanon sie je",
-   "status": "otwarte - PILNE, WESZLO DO PRAWA",
+   "status": "zrobione 300-03-09 - meldunek w porcie",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-09"
+   "wraca": "300-03-11"
   },
   {
    "data": "~300-03-15 (termin podany w samym liscie)",
@@ -786,12 +786,12 @@
   },
   {
    "data": "300-03-09",
-   "co": "TRAKT DO DORZECZA - PIERWSZA RZECZ DO ZROBIENIA NIE JEST KOPANIEM: PRZEJSC ODCINEK I ZMIERZYC. Standard z punktu 10: 'ZADEN ODCINEK BEZ NAZWISKA I BEZ DATY'; liczby na calosc nie da sie podac uczciwie, dopoki nie przeszlo sie odcinka. Rece z rejestru dniowek, ten sam mechanizm co przy przewloce. ⚠ KOLIZJA: prowadzi BRAN, a Bran ma groble - albo dostaje zastepce przy grobli, albo trakt staje w dniu, w ktorym rusza grobla.",
+   "co": "TRAKT DO DORZECZA - PIERWSZA RZECZ DO ZROBIENIA NIE JEST KOPANIEM: PRZEJSC ODCINEK I ZMIERZYC. Standard z punktu 10: 'ZADEN ODCINEK BEZ NAZWISKA I BEZ DATY'; liczby na calosc nie da sie podac uczciwie, dopoki nie przeszlo sie odcinka. Rece z rejestru dniowek, ten sam mechanizm co przy przewloce. ⚠ KOLIZJA: prowadzi BRAN, a Bran ma groble - albo dostaje zastepce przy grobli, albo trakt staje w dniu, w ktorym rusza grobla. ### 300-03-09: zrobione na Fosie bez pana (zasady 7 i 42); wynik w poczcie czekajacej w porcie.",
    "kto": "BRAN + KORM PALIK (zastepca od 300-03-03)",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-09",
+   "wraca": "300-03-11",
    "zamyka": "zmierzony pierwszy odcinek z nazwiskiem i data",
-   "status": "otwarte"
+   "status": "zrobione 300-03-09 - meldunek w porcie"
   },
   {
    "data": "300-03-03",
@@ -804,12 +804,12 @@
   },
   {
    "data": "300-03-08",
-   "co": "ZLECENIE DLA HARLA W BARROWTON - ziarno siewne. ⚠ TRACI NA WARTOSCI od 300-03-02: Dustin sprzedal zboze, zeby zaplacic danine W MONECIE. 'Niech pyta, ale nie liczmy na to.' Goniec za kolumna wyslany 300-03-02.",
+   "co": "ZLECENIE DLA HARLA W BARROWTON - ziarno siewne. ⚠ TRACI NA WARTOSCI od 300-03-02: Dustin sprzedal zboze, zeby zaplacic danine W MONECIE. 'Niech pyta, ale nie liczmy na to.' Goniec za kolumna wyslany 300-03-02. ### 300-03-09, RZUT 59. HARL PRZYSLAL KORCE I PISEMNE NIE - OBA NARAZ, I DRUGIE JEST WAZNIEJSZE. Dustin sprzedal dobre zboze, zeby zaplacic; to, co zostalo w Barrowton, JEST JADALNE, ALE NIE WSCHODZI. Roznica miedzy ziarnem do jedzenia a ziarnem do siewu nie ma zapachu i nie ma ceny - widac ja tylko w ziarnie rozkrojonym i w tym, jak lezalo. ### HARL TO ZLAPAL, BO MIAL RUBRYKE: POPRAWKA CZWARTA - RUBRYKA STANU ZIARNA, ta sama, o ktorej Cerwyn powiedzial 'jedyna rzecz w calej tece, ktora sam bym dopisal, gdyby jej nie bylo'. Wpisana trzy tygodnie temu po to, zeby lapac sporysz - dzis uratowala siew. ### WZIAL TO, CO PRZESZLO. ODMOWIL OKOLO TRZECIEJ CZESCI i odmowe zapisal NA PISMIE, ZE ZNAKIEM CZLOWIEKA DUSTINA OBOK - nie jako zarzut, tylko jako rubryke. Dustin nie oszukiwal: sprzedawal zboze, nie siew, i nikt go nie pytal o roznice. ### ⚠ CO Z TEGO ZOSTAJE: DZIURA SIEWNA NIE JEST ZAMKNIETA, A ZEGAR JEST POGODOWY - siew nie czeka na Rade. DOKTRYNA: rubryke wpisuje sie na jedna rzecz, a ratuje ona inna - i dlatego wpisuje sie ja, zanim wiadomo, na co.",
    "kto": "HARL",
    "kanal": "jezdziec Fosa-Dustinport",
-   "wraca": "300-03-08",
+   "wraca": "300-03-09",
    "zamyka": "korce albo pisemne nie",
-   "status": "otwarte"
+   "status": "PRZYSZLO 300-03-09 (rzut 59) - CZESCIOWO, I POWOD JEST DOBRY"
   },
   {
    "data": "300-03-20",
@@ -822,12 +822,12 @@
   },
   {
    "data": "300-03-09",
-   "co": "ETAPY MIASTA CAILIN: I - co pod ziemia · II - co zarabia (waga, targ, sklady, brama) · III - co widac (bruk, mury, latarnie) · IV - co oddycha (dzielnica zimowa). ETAP II MA SAM NA SIEBIE ZARABIAC: myto z grobli i clo z komory. ⚠ MYTO WLASNIE ZMIENIONO NA 1/40 OD WARTOSCI - rachunek Etapu II trzeba przeliczyc.",
+   "co": "ETAPY MIASTA CAILIN: I - co pod ziemia · II - co zarabia (waga, targ, sklady, brama) · III - co widac (bruk, mury, latarnie) · IV - co oddycha (dzielnica zimowa). ETAP II MA SAM NA SIEBIE ZARABIAC: myto z grobli i clo z komory. ⚠ MYTO WLASNIE ZMIENIONO NA 1/40 OD WARTOSCI - rachunek Etapu II trzeba przeliczyc. ### 300-03-09: zrobione na Fosie bez pana (zasady 7 i 42); wynik w poczcie czekajacej w porcie.",
    "kto": "WARRYN + GERRIK RACHUBA",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-09",
+   "wraca": "300-03-11",
    "zamyka": "rachunek Etapu II po nowym mycie",
-   "status": "otwarte"
+   "status": "zrobione 300-03-09 - meldunek w porcie"
   },
   {
    "data": "300-03-10",
@@ -1461,12 +1461,12 @@
   },
   {
    "data": "300-03-04",
-   "co": "REKOMENDACJA ILARIA DO KROLA - NIE NA KRZESLO, TYLKO NA POLNOC. Namiestnik nie podaje nazwiska na zadne z dwoch krzesel (tak stoi w jego wczorajszym pismie i tego sie nie cofa). Podaje CZLOWIEKA: wolny pisarz cechu Braavos, staz jedenascie lat przywrocony wczoraj z data skreslenia, biegly w ksiegach kupieckich Wolnych Miast. ### I PODAJE POWOD, KTORY JEST CALA REKOMENDACJA: TEGO CZLOWIEKA ZNISZCZONO ZA TO, ZE ODMOWIL FALSZYWEGO WPISU I POWIEDZIAL O TYM OD RAZU. Splacil przez jedenascie lat cudzy dlug czterdziestu smokow, do konca, i ma kwit. ### PISMO MOWI WPROST, ZE CZLOWIEK NIE ZOSTAL JESZCZE ZAPYTANY - bo cala krzywda tego czlowieka polega na tym, ze ktos postawil jego nazwisko tam, gdzie on go nie postawil, i drugi raz sie tego nie robi. Krol dostaje nazwisko do SCIAGNIECIA, nie do ogloszenia.",
+   "co": "REKOMENDACJA ILARIA DO KROLA - NIE NA KRZESLO, TYLKO NA POLNOC. Namiestnik nie podaje nazwiska na zadne z dwoch krzesel (tak stoi w jego wczorajszym pismie i tego sie nie cofa). Podaje CZLOWIEKA: wolny pisarz cechu Braavos, staz jedenascie lat przywrocony wczoraj z data skreslenia, biegly w ksiegach kupieckich Wolnych Miast. ### I PODAJE POWOD, KTORY JEST CALA REKOMENDACJA: TEGO CZLOWIEKA ZNISZCZONO ZA TO, ZE ODMOWIL FALSZYWEGO WPISU I POWIEDZIAL O TYM OD RAZU. Splacil przez jedenascie lat cudzy dlug czterdziestu smokow, do konca, i ma kwit. ### PISMO MOWI WPROST, ZE CZLOWIEK NIE ZOSTAL JESZCZE ZAPYTANY - bo cala krzywda tego czlowieka polega na tym, ze ktos postawil jego nazwisko tam, gdzie on go nie postawil, i drugi raz sie tego nie robi. Krol dostaje nazwisko do SCIAGNIECIA, nie do ogloszenia. ### 300-03-09: czeka w Bialym Porcie razem z reszta poczty. Symon staje ~03-11.",
    "kto": "SYMON -> ROBB STARK",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-08",
+   "wraca": "300-03-11",
    "zamyka": "odpowiedz Krola. ⚠ ADRES RUCHOMY - Namiestnik wyjezdza 03-07, odpowiedz idzie TAM, GDZIE ON JEST",
-   "status": "otwarte"
+   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie"
   },
   {
    "data": "300-03-04",
@@ -1587,12 +1587,12 @@
   },
   {
    "data": "300-03-05",
-   "co": "CO ZOSTAJE NA FOSIE BEZ PANA - I CZEGO NIE TRZEBA BYLO PRZESUWAC (zasada 42). Siedem pozycji mialo daty 03-06 i 03-07 i wczoraj liczylem je jako koszt wczesniejszego wyjazdu. PO ZASADZIE 42 KOSZT JEST MNIEJSZY, NIZ GO PODALEM: ### IDZIE BEZ NIEGO: jedna karta rak i zasada zwrotu (WARRYN - rozstrzyga budowy od 300-03-01, MELLA - rejestr) · jedenascie odpowiedzi (WYSTAN albo pisarz grodzki - i wlasnie o to chodzilo, zeby nie pytal ich pracodawca ANI PAN) · rubryka 'na Mur' (GARTH) · czystopis jednolity Prawa Spichlerza i czesc V na slup (GARRICK + dwaj pisarze + HERWIN) · przywilej bagienny (WARRYN + lawa) · soltysi (WARRYN) · karta zywnosciowa i odczyt progu (ORLAND + BENNIS) · drugi ogien w kuzni (WARRYN + BRUSK) · pieczec na wodzie (KESSEL + GARTH) · karta odhaczen (GARRICK). ### JEDZIE Z NIM, BO JEST JEGO: ODBICI BEZ DOMU - ilu Fosa bierze (liczba, nie uznanie) · KOLIZJA O NIETYKALNOSC ZIARNA SIEWNEGO (03-06) · DAENERYS A AEMON - pytac czy nie. Wszystkie trzy da sie odeslac krukiem z pierwszego postoju. ### DOKTRYNA: lenno, z ktorego wyjazd pana kosztuje siedem pozycji, nie ma urzednikow - ma pomocnikow.",
+   "co": "CO ZOSTAJE NA FOSIE BEZ PANA - I CZEGO NIE TRZEBA BYLO PRZESUWAC (zasada 42). Siedem pozycji mialo daty 03-06 i 03-07 i wczoraj liczylem je jako koszt wczesniejszego wyjazdu. PO ZASADZIE 42 KOSZT JEST MNIEJSZY, NIZ GO PODALEM: ### IDZIE BEZ NIEGO: jedna karta rak i zasada zwrotu (WARRYN - rozstrzyga budowy od 300-03-01, MELLA - rejestr) · jedenascie odpowiedzi (WYSTAN albo pisarz grodzki - i wlasnie o to chodzilo, zeby nie pytal ich pracodawca ANI PAN) · rubryka 'na Mur' (GARTH) · czystopis jednolity Prawa Spichlerza i czesc V na slup (GARRICK + dwaj pisarze + HERWIN) · przywilej bagienny (WARRYN + lawa) · soltysi (WARRYN) · karta zywnosciowa i odczyt progu (ORLAND + BENNIS) · drugi ogien w kuzni (WARRYN + BRUSK) · pieczec na wodzie (KESSEL + GARTH) · karta odhaczen (GARRICK). ### JEDZIE Z NIM, BO JEST JEGO: ODBICI BEZ DOMU - ilu Fosa bierze (liczba, nie uznanie) · KOLIZJA O NIETYKALNOSC ZIARNA SIEWNEGO (03-06) · DAENERYS A AEMON - pytac czy nie. Wszystkie trzy da sie odeslac krukiem z pierwszego postoju. ### DOKTRYNA: lenno, z ktorego wyjazd pana kosztuje siedem pozycji, nie ma urzednikow - ma pomocnikow. ### 300-03-09: czeka w Bialym Porcie razem z reszta poczty. Symon staje ~03-11.",
    "kto": "GARRICK + WARRYN",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-08",
+   "wraca": "300-03-11",
    "zamyka": "meldunek zbiorczy w slad za panem: co zamkniete, co stoi",
-   "status": "otwarte"
+   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie"
   },
   {
    "data": "300-03-06",
@@ -1665,6 +1665,15 @@
    "wraca": "300-03-16",
    "zamyka": "zdanie i widelki na slupie, odswiezane kazdego dnia targowego",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-09",
+   "co": "DZIURA SIEWNA PO BARROWTON - OKOLO TRZECIEJ CZESCI ZLECENIA ODRZUCONE JAKO NIEWSCHODZACE. ZEGAR JEST POGODOWY, NIE URZEDOWY: siew nie czeka na Wielka Rade. ### GDZIE SZUKAC, PO KOLEI OD NAJBLIZSZEGO: (1) WLASNA PRZEGRODA SIEWNA FOSY - oznaczona, zwazona, pod osobnym kluczem od 03-04; JEST NIETYKALNA I MA NIA POZOSTAC, bo lord, ktory otwiera swoja przegrode w pierwszym tygodniu jej istnienia, nie oglosi jej nigdy wiecej; (2) WSIE FOSY - male partie od gospodarzy, drozej i wolniej, ale ziarno lezalo u tego, kto nim sieje; (3) BIALY PORT - Symon bedzie tam 03-11 i Hal ma ludzi; ziarno siewne przywiezione morzem trzeba sprawdzic tak samo, wiec rubryka jedzie z pytaniem; (4) ⚠ NIE OD STANNISA I NIE Z POLUDNIA - klauzula V i cło zaporowe wlasnie po to stoja.",
+   "kto": "SYMON (Bialy Port) + WARRYN (wsie) + ORLAND (rachunek)",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-16",
+   "zamyka": "brakujace korce siewne znalezione ALBO liczba hektarow, ktorych sie nie obsieje - jedno albo drugie, nie milczenie",
+   "status": "otwarte - ZEGAR POGODOWY"
   }
  ]
 }

@@ -2442,12 +2442,12 @@
   },
   {
    "data": "300-03-30",
-   "co": "PIEC PRZYSTANI LADUNKOWYCH NAD RZEKAMI WSCHODU - PLAN ISTNIEJE I JEST SPISANY, ODCZYTANY NA WSKAZANIE GRACZA 300-03-12. ### GDZIE - PIEC: BIALY NOZ (istnieje w zalazku; korytarz rzeczny ruszyl 298, Wyman wskazal zakole, gdzie barki ustepuja wozom) · OSTATNIA RZEKA (Karhold) · PLACZACA WODA (Dreadfort) · ZLAMANA GALAZ (Dreadfort) · ZATOKA FOK (ujscie przy Wdowiej Straznicy). ### CZYM JEST JEDNA PRZYSTAN - I DLATEGO TO JEST WYKONALNE: SZOPA Z DREWNIANA PODLOGA + SLUP Z OGLOSZONA CENA + KSIEGA BRAMY. Ciesla i sezon. 'NAJTANSZA POZYCJA REJESTRU PO SZOPIE Z PODLOGA.' ### DOKTRYNA ZIMY, SPISANA W 298 I NIETKNIETA: RZEKA ZAMARZA NA POL ROKU, WIEC KORYTARZ RZECZNY NIE JEST STRUMIENIEM - JEST POMPA. Napelnia przednie sklady, NIM LOD ODETNIE. Liczy sie nie 'ile rocznie', tylko ILE DO ZAMARZNIECIA. Przystan bezczynna od XII do III nie jest zmarnowana - JEST NALADOWANA. ### ⚠ CENA, KTORA SYMON NAZWAL GLOSNO SAM: DWIE Z TYCH RZEK SA DREADFORTU (Placzaca Woda, Zlamana Galaz), a Ostatnia Rzeka jest Karholdu. PRZYSTAN KORONY Z WAGA, KSIEGA I CZLOWIEKIEM KORONY JEST OBECNOSCIA - i Roose przeczyta to dokladnie tak. ### WARUNEK TWARDY I NIENEGOCJOWALNY, JEGO WLASNY: ALBO STAWIAMY JE NAD WSZYSTKIMI RZEKAMI I NAPRAWDE DLA LADUNKU, ALBO NIE STAWIAMY ZADNEJ. Jesli kiedykolwiek wyjdzie, ze przystan postawiono DLA OCZU, kazda waga Korony w krolestwie staje sie podejrzana tego samego dnia.",
+   "co": "PIEC PRZYSTANI LADUNKOWYCH NAD RZEKAMI WSCHODU - PLAN ISTNIEJE I JEST SPISANY, ODCZYTANY NA WSKAZANIE GRACZA 300-03-12. ### GDZIE - PIEC: BIALY NOZ (istnieje w zalazku; korytarz rzeczny ruszyl 298, Wyman wskazal zakole, gdzie barki ustepuja wozom) · OSTATNIA RZEKA (Karhold) · PLACZACA WODA (Dreadfort) · ZLAMANA GALAZ (Dreadfort) · ZATOKA FOK (ujscie przy Wdowiej Straznicy). ### CZYM JEST JEDNA PRZYSTAN - I DLATEGO TO JEST WYKONALNE: SZOPA Z DREWNIANA PODLOGA + SLUP Z OGLOSZONA CENA + KSIEGA BRAMY. Ciesla i sezon. 'NAJTANSZA POZYCJA REJESTRU PO SZOPIE Z PODLOGA.' ### DOKTRYNA ZIMY, SPISANA W 298 I NIETKNIETA: RZEKA ZAMARZA NA POL ROKU, WIEC KORYTARZ RZECZNY NIE JEST STRUMIENIEM - JEST POMPA. Napelnia przednie sklady, NIM LOD ODETNIE. Liczy sie nie 'ile rocznie', tylko ILE DO ZAMARZNIECIA. Przystan bezczynna od XII do III nie jest zmarnowana - JEST NALADOWANA. ### ⚠ CENA, KTORA SYMON NAZWAL GLOSNO SAM: DWIE Z TYCH RZEK SA DREADFORTU (Placzaca Woda, Zlamana Galaz), a Ostatnia Rzeka jest Karholdu. PRZYSTAN KORONY Z WAGA, KSIEGA I CZLOWIEKIEM KORONY JEST OBECNOSCIA - i Roose przeczyta to dokladnie tak. ### WARUNEK TWARDY I NIENEGOCJOWALNY, JEGO WLASNY: ALBO STAWIAMY JE NAD WSZYSTKIMI RZEKAMI I NAPRAWDE DLA LADUNKU, ALBO NIE STAWIAMY ZADNEJ. Jesli kiedykolwiek wyjdzie, ze przystan postawiono DLA OCZU, kazda waga Korony w krolestwie staje sie podejrzana tego samego dnia. ### 300-03-12 ROZKAZ GRACZA: MAMY JE ZBUDOWAC.",
    "kto": "SYMON -> RADA 300-03-30, wiazka V",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "piec przystani jako jedna uchwala, albo zadna",
-   "status": "otwarte"
+   "status": "otwarte - ROZKAZ GRACZA: BUDUJEMY"
   },
   {
    "data": "300-03-12",
@@ -2465,6 +2465,33 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-20",
    "zamyka": "ile przystani stoi, ile jest w zalazku, ile jest tylko na papierze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "BUDOWA PIECIU PRZYSTANI - I RZECZ, KTORA TRZEBA POWIEDZIEC OD RAZU: TO NIE JEST ROBOTA CIESLI, TYLKO ROBOTA ZGODY. Szopa z podloga to tydzien jednego ciesli. ALE TRZY Z PIECIU RZEK SA CUDZE: PLACZACA WODA i ZLAMANA GALAZ to DREADFORT, OSTATNIA RZEKA to KARHOLD. Na cudzej rzece nie stawia sie wagi Korony bez pana tej rzeki. ### PODZIAL KOSZTU, KTORY ROZWIAZUJE I PIENIADZ, I POLITYKE JEDNYM RUCHEM: LORD STAWIA SZOPE - to jego rzeka, jego ciesla, jego tydzien, i staje sie WLASCICIELEM, NIE GOSPODARZEM CUDZEGO URZEDU. KORONA DAJE WAGE, SLUP Z CENA, KSIEGE I CZLOWIEKA - i to jest cala droga pozycja, bo czlowiek to zold co miesiac, a szopa to jednorazowy tydzien. ### I DOPIERO TO CZYNI ZDANIE 'PRZYSTAN KORONY JEST OBECNOSCIA' ZNOSNYM: lord nie dostaje urzednika NA swojej ziemi - dostaje wage, ksiege i CENE ZA DRZEWO, ktore juz ma, a urzednik przychodzi z nimi. ### KOLEJNOSC WEDLE ZGODY, NIE WEDLE MAPY: (1) BIALY NOZ - istnieje w zalazku, Wyman wskazal zakole, a jutro i tak siadamy z nim do podpisu; (2) OSTATNIA RZEKA - Karhold dostaje przystan, wiec to ta sama rzecz, nie druga prosba; (3) ZATOKA FOK - Wdowia Straznica, dom maly i cienki (23 na 70 daniny); (4-5) PLACZACA WODA i ZLAMANA GALAZ - DREADFORT, i to jest brama calej sprawy. ### ⚠ BO WARUNEK JEST WLASNY I TWARDY: ALBO NAD WSZYSTKIMI, ALBO NAD ZADNA. Czyli caly plan pieciu przystani przechodzi przez zgode Roose'a Boltona - i nie da sie tego obejsc budujac cztery.",
+   "kto": "SYMON -> RADA 300-03-30",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "piec zgod albo zadnej; podzial kosztu wpisany do uchwaly",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "PRZYSTAN NA BIALYM NOZU - RUSZA PIERWSZA I RUSZA JUTRO. Istnieje w zalazku, zakole wskazal sam Wyman ('tam, gdzie barki ustepuja wozom'), a jutro i tak siadamy z nim do podpisu. ### TO JEST TEZ DOWOD, KTORY BEDZIE POTRZEBNY NA RADZIE: lord, ktory ma pokazac Boltonowi i Karstarkowi, jak wyglada przystan Korony na cudzej rzece, musi miec JEDNA STOJACA, a nie rysunek. Pierwsza przystan nie jest pierwsza z pieciu - jest ARGUMENTEM ZA POZOSTALYMI CZTEREMA.",
+   "kto": "SYMON + WYMAN + WEYLIN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "przystan na Bialym Nozu wpisana do jutrzejszej umowy i ruszajaca",
+   "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-30",
+   "co": "⚠ ROOSE BOLTON JEST BRAMA CALEGO PLANU PIECIU PRZYSTANI - i nie da sie tego obejsc. Dwie rzeki Dreadfortu, warunek 'albo nad wszystkimi, albo nad zadna', i czlowiek, ktory czyta wage Korony przy swojej rzece dokladnie tak, jak trzeba ja czytac. ### CO MU SIE OFERUJE, A CZEGO DOTAD NIE OFEROWANO NIKOMU NA WSCHODZIE: nie kontrola z uprzejma nazwa, tylko CENA ZA DRZEWO, KTORE JUZ MA, i szopa, ktora stawia SAM i ktora jest JEGO. ### CZEGO NIE WOLNO ROBIC: prosic go osobno i po cichu przed Rada. Rzecz, ktora ma stanac nad pieciu rzekami piatu domow, prosi sie o nia PRZY WSZYSTKICH - inaczej kazdy z pozostalych czterech bedzie sie zastanawial, co obiecano temu jednemu. ### ⚠ ZBIEG, KTORY TRZEBA MIEC NA OKU: do Roose'a idzie juz jedno pismo w sprawie weksla, z terminem 'odpowiedz albo milczenie do Rady'. Dwie sprawy do tego samego czlowieka w tym samym miesiacu - i jedna z nich jest o tym, ze cos u niego nie zgadza sie w ksiegach.",
+   "kto": "SYMON -> ROOSE BOLTON, na Radzie",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "zgoda Dreadfortu na dwie przystanie - albo plan pieciu upada w calosci",
    "status": "otwarte"
   }
  ]

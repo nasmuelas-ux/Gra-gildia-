@@ -953,7 +953,7 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-13",
       "zamyka": "nazwisko tego, kto sprawdza, albo decyzja, ze nie sprawdzamy",
-      "status": "otwarte - NOWE"
+      "status": "ROZSTRZYGNIETE 300-03-03 - jedzie BRYEN, rachmistrz skarbu, z osobna ksiega; porownuje DWIE ISTNIEJACE ksiegi, nikogo nie sadzi"
     },
     {
       "data": "300-03-13",
@@ -962,7 +962,34 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-13",
       "zamyka": "kamien w drodze albo inne zrodlo",
-      "status": "otwarte - NOWE"
+      "status": "ROZSTRZYGNIETE 300-03-03 - kolejnosc ustalona: przewloka/grobla przed baszta, Glebokorzen na koncu; pierwszy transport jest zarazem POMIAREM TRASY"
+    },
+    {
+      "data": "300-03-11",
+      "co": "BRYEN DO DUSTINPORTU - rachmistrz skarbu Korony, ten sam, ktory jechal za lady Catelyn przy daninie Zachodu i prowadzil OSOBNA KSIEGE OBJAZDU (zapis 300-02-17). ZADANIE, KTORE NIE JEST OSKARZENIEM: porownac DWIE JUZ ISTNIEJACE KSIEGI - kwity DONNELA (przyjecie) z rubryka osma TORRENA (stan przyczolka, z pisarzem). PIERWSZA HIPOTEZA, NAJTANSZA I NAJPRAWDOPODOBNIEJSZA: dziewiec korcy to ESKADRA, KTORA JE I KTOREJ NIKT NIE ZAPISUJE - bo dwiescie dwadziescia szesc geb na przyczolku to nie to samo co zaloga na kadlubach. JESLI KSIEGI SIE ZEJDA - nie ma kradziezy, jest DZIURA W RUBRYCE. Jesli nie - sprawa idzie do SADU, nie do Donnela. KTO CHWYTA, TEN NIE SADZI.",
+      "kto": "BRYEN (Kasa 3, czlowiek Gawena)",
+      "kanal": "jezdziec Fosa-Dustinport",
+      "wraca": "300-03-11",
+      "zamyka": "dwie ksiegi zestawione w jednej kolumnie: przyjeto / zjedzono / nie wiadomo",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-13",
+      "co": "KOLEJNOSC NA KAMIEN ZE ZWIADU NA GORACY PORT - trzej biora z jednej wyprawy, wiec ktos musi byc pierwszy. ROZSTRZYGNIETE: (1) PRZEWLOKA I GROBLA - bo tam stoja ludzie, a stojacy czlowiek kosztuje co dzien. (2) BASZTA PRZYSTANI WILKA - dziewiecdziesiat dni postoju i wspolwlasciciel, ktory pyta. (3) GLEBOKORZEN - ostatni, bo tam nie wybrano jeszcze nawet miejsca, a kamien pod nieobejrzany grunt to kamien wyrzucony. ### KRYTERIUM WYPOWIEDZIANE WPROST, ZEBY NIE BYLO SPORU: PIERWSZY BIERZE TEN, U KOGO STOJA LUDZIE - NIE TEN, KTO CZEKA NAJDLUZEJ.",
+      "kto": "ORBELO + VARD KILOF",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "kamien rozpisany na trzy budowy z iloscia przy kazdej",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-20",
+      "co": "PIERWSZY TRANSPORT KAMIENIA JEST ZARAZEM POMIAREM TRASY. Droga: GORACY PORT -> Fever -> CAILIN -> na wschod -> gorny Bialy Noz -> PRZYSTAN WILKA. ⚡ TO JEST DOKLADNIE LINIA PRZEWLOKI - a przewloka do dzis byla LICZBA NA PAPIERZE. Pierwszy realny ladunek daje to, czego nie da zaden pomiar sznurem: ILE TO KOSZTUJE NAPRAWDE, wozami, przed budowa. ### I DAJE ARGUMENT NA BIALY PORT ~300-03-13: Wyman ma podpisac Ujscie. Liczba z FAKTYCZNEGO przewozu wlasnego kamienia jest mocniejsza niz obietnica - i nie jest prosba, tylko rachunkiem. MIERZY: dni, wozy, woly, przeladunki, straty. Prowadzi KONIUSZY (Torgil Woznica, od 300-03-03) z pisarzem.",
+      "kto": "TORGIL WOZNICA + pisarz",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-20",
+      "zamyka": "karta przewozu: dni, wozy, przeladunki, koszt na sazen",
+      "status": "otwarte"
     }
   ]
 }

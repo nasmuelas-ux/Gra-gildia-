@@ -413,7 +413,7 @@
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod.",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "refinansowanie_dlugu",
@@ -5282,7 +5282,7 @@
   {
    "id": "komory_wodne_dziura_w_poborze_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 7,
+   "_dziennik_nota": 8,
    "filar": "KOMORY WODNE - dziura w poborze",
    "stan_watku": "ZYWY"
   },
@@ -6263,6 +6263,16 @@
   },
   {
    "id": "prawo_spichlerza_polnocy",
+   "status": "otwarty",
+   "_dziennik_nota": 2
+  },
+  {
+   "id": "ustroj_miast_polnocy",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "miasto_cailin_lawa",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

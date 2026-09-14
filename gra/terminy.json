@@ -300,10 +300,10 @@
   },
   {
    "data": "bez daty",
-   "co": "GARTH: liczba miesieczna dziury w komorach wodnych - zmierzona 299-10-01 i NIE ZMIERZONA PONOWNIE",
+   "co": "GARTH: liczba miesieczna dziury w komorach wodnych - zmierzona 299-10-01 i NIE ZMIERZONA PONOWNIE ### MELDUNEK 300-03-04, bez rzutu (wlasni ludzie). LICZBA JEST I MA KSZTALT, KTOREGO NIKT NIE PRZEWIDZIAL. Spis z brzegu szedl przez VIII i IX 299 - ruch wodny ok. 1/6 ladowego. POTEM KANALY ZAMARZLY i przez cztery miesiace NIE BYLO CO LICZYC: pusta rubryka nie byla zaniedbaniem, byla lodem. ### DLATEGO 'LICZBA PRZEZ POL ROKU, POTEM KOMORA' NIE ZNACZY TEGO, CO ZNACZYLA: pol roku kalendarza minie 300-04-01, ale DANYCH JEST ZA DWA MIESIACE, nie za szesc. ### I RZECZ NAJWAZNIEJSZA, KTORA WYNIKA Z DZISIEJSZEGO PRZYMROZKU: LOD PUSZCZA. Droga wodna otwiera sie w tygodniach - a CALE PRAWO OGLASZANE DZIS NA SLUPIE STOI NA BRAMIE LADOWEJ: prog, ksiega, rubryka 'na czyj rachunek', los jednego wozu na dwanascie. Barka nie przechodzi przez brame i nie ma ani jednej z tych rubryk.",
    "kto": "GARTH",
    "zamyka": "nowa liczba",
-   "status": "otwarte",
+   "status": "zrobione 300-03-04",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-04"
   },
@@ -336,10 +336,10 @@
   },
   {
    "data": "300-03-04",
-   "co": "LAWA MIASTA SADZA KOWALA (Brusk od Miecha, wskazala Mella) - kuznia idzie pierwsza albo nie idzie nic",
+   "co": "LAWA MIASTA SADZA KOWALA (Brusk od Miecha, wskazala Mella) - kuznia idzie pierwsza albo nie idzie nic ### 300-03-04, RZUT 98: LAWA POSADZILA BRUSKA TEGO SAMEGO RANKA, jednoglosnie, i zrobila JESZCZE JEDNA RZECZ, o ktora nikt jej nie prosil: USTALILA KOLEJNOSC ROBOTY KUZNI na pismie - narzedzie miejskie, potem podkowy i obrecze, potem robota panska. UZASADNIENIE LAWY: 'kuznia jest jedna, a jak kolejnosci nie ma, to ma ja ten, kto glosniej krzyczy'. ### TO JEST PIERWSZY RAZ, KIEDY MIASTO NIE TYLKO POSADZILO, ALE I ROZKAZALO. Lord nadaje, miasto sadza - a od dzis miasto takze USTAWIA W KOLEJCE, i ustawilo pana na trzecim miejscu.",
    "kto": "lawa burmistrza",
    "zamyka": "posadzenie",
-   "status": "otwarte",
+   "status": "zrobione 300-03-04 (rzut 98)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-04"
   },
@@ -579,10 +579,10 @@
   },
   {
    "data": "odpowiedz 300-03-04",
-   "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem. ⚠ POPRAWKA PODWOJNA 300-03-03. Bylo 'za 37 dni' - ZLE W OBIE STRONY. Pismo dyktowano w XII/299 TAM, GDZIE CECH SIEDZI: w Braavos. Odpowiedz nie musi przeplywac morza - MUSI TYLKO WROCIC DO NAS. ⚠ DRUGA KOREKTA 300-03-03, wskazanie gracza: odpowiedz MUSI WROCIC DO NAS MORZEM, a tego nie doliczylem. Pismo z 299-12-18 + narada cechu + rejs powrotny = ODPOWIEDZ SPODZIEWANA 300-03-04. Nie jest przeterminowana - JEST JUTRO.",
+   "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem. ⚠ POPRAWKA PODWOJNA 300-03-03. Bylo 'za 37 dni' - ZLE W OBIE STRONY. Pismo dyktowano w XII/299 TAM, GDZIE CECH SIEDZI: w Braavos. Odpowiedz nie musi przeplywac morza - MUSI TYLKO WROCIC DO NAS. ⚠ DRUGA KOREKTA 300-03-03, wskazanie gracza: odpowiedz MUSI WROCIC DO NAS MORZEM, a tego nie doliczylem. Pismo z 299-12-18 + narada cechu + rejs powrotny = ODPOWIEDZ SPODZIEWANA 300-03-04. Nie jest przeterminowana - JEST JUTRO. ### ODPOWIEDZ 300-03-04, RZUT 98. Cech NIE WYKRESLIL kreski - i to jest odpowiedz lepsza, nie gorsza. Rolka cechu nie jest ksiega dluznikow: z rolki sie nie wymazuje, bo rolka, z ktorej mozna wymazac, nie jest nic warta. CECH DOPISAL PONIZEJ, ta sama reka i z dzisiejsza data: (1) ze oskarzenie wyszlo z domu ANTARYON i bylo falszywe; (2) ze wyznal to GLOWA TEGO DOMU, przeciw sobie; (3) ILARIO PRZYWROCONY NA LISTE, ze stazem liczonym od dnia skreslenia, nie od dzis - jedenascie lat, ktore przepracowal jako wagowy, cech policzyl mu jako lata cechowe, bo nie on je stracil; (4) ZDANIE, KTOREGO NIKT NIE ZADAL: 'Cech skreslil czlowieka w trzy tygodnie na slowo jednego domu. Dopisujemy to takze o sobie.'",
    "kto": "CECH PISARZY W BRAAVOS -> przez NESTE",
    "zamyka": "przywrocenie Ilaria na liste ALBO odmowa cechu na pismie",
-   "status": "otwarte - JUTRO",
+   "status": "zrobione 300-03-04 (rzut 98)",
    "kanal": "morze Bialy Port-Braavos",
    "wraca": "300-03-04"
   },
@@ -633,10 +633,10 @@
   },
   {
    "data": "300-03-04",
-   "co": "SLUP W CAILIN: MYTO 1/40 OD WARTOSCI zamiast 12 jeleni od wozu. Jedno zdanie, data na wierzchu. Idzie tym samym posiedzeniem lawy, co kowal i pismo miasta.",
+   "co": "SLUP W CAILIN: MYTO 1/40 OD WARTOSCI zamiast 12 jeleni od wozu. Jedno zdanie, data na wierzchu. Idzie tym samym posiedzeniem lawy, co kowal i pismo miasta. ### 300-03-04: OBWIESZCZONE. Herwin przybil o brzasku, data na wierzchu.",
    "kto": "HERWIN + GARTH (wycena juz istnieje)",
    "zamyka": "obwieszczenie",
-   "status": "otwarte",
+   "status": "zrobione 300-03-04",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-04"
   },
@@ -651,10 +651,10 @@
   },
   {
    "data": "300-03-04",
-   "co": "SLUP - TRZY LICZBY ZBOZOWE, PRZELICZONE POPRAWNIE 300-03-03: (1) NORMA UBYTKU 7 NA STO, ogloszona; w normie placi SKLADAJACY, ponad norme SKLAD. (2) NARZUT SKLADU 7,53 PROC. (nie 7 - zeby odzyskac 7 straconych, trzeba dolozyc 7,53): owies kupuje 11 / sprzedaje 11 jeleni 83; jeczmien 12 / 12 jeleni 90. (3) DNO SPRZEDAZY: owies 3 jelenie 44, jeczmien 3 jelenie 87. Dno KUPNA zostaje 3-20 i 3-60.",
+   "co": "SLUP - TRZY LICZBY ZBOZOWE, PRZELICZONE POPRAWNIE 300-03-03: (1) NORMA UBYTKU 7 NA STO, ogloszona; w normie placi SKLADAJACY, ponad norme SKLAD. (2) NARZUT SKLADU 7,53 PROC. (nie 7 - zeby odzyskac 7 straconych, trzeba dolozyc 7,53): owies kupuje 11 / sprzedaje 11 jeleni 83; jeczmien 12 / 12 jeleni 90. (3) DNO SPRZEDAZY: owies 3 jelenie 44, jeczmien 3 jelenie 87. Dno KUPNA zostaje 3-20 i 3-60. ### 300-03-04: OBWIESZCZONE - norma ubytku 7 na sto, narzut 7,53%, dno owies 3-44 / jeczmien 3-87.",
    "kto": "HERWIN + ORLAND + BENNIS",
    "zamyka": "obwieszczenie",
-   "status": "otwarte",
+   "status": "zrobione 300-03-04",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-04"
   },
@@ -1002,12 +1002,12 @@
   },
   {
    "data": "300-03-13 - PRZED ROZMOWA Z HALEM",
-   "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze.",
+   "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze. ### 300-03-04: WYKONANE. Orland oznaczyl czwarta przegrode, Bennis zwazyl przy zsypie z norma, Gerrik wpisal. Klucz osobny.",
    "kto": "SYMON + HAL",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "rozstrzygniecie: co zabezpiecza weksle po ogloszeniu nietykalnosci siewu",
-   "status": "ROZSTRZYGNIETE 300-03-03 - wezszy zapis: nietykalna JEDNA PRZEGRODA SIEWNA, nie cale zboze"
+   "status": "zrobione 300-03-04"
   },
   {
    "data": "300-03-13",
@@ -1344,12 +1344,12 @@
   },
   {
    "data": "300-03-04",
-   "co": "CZESC V-quater NA SLUP - USTAWA OBEJMUJE ZYWNOSC, NIE SAMO ZBOZE: ziarno · rosliny jadalne i straczki · ryba swieza i solona · mieso solone i suszone · ptactwo wodne i zwierzyna · sol · miod · nabial trwaly · warzywo ze szklarni. PRZENOSI SIE BEZ ZMIANY: rubryka stanu (ZEPSUTA RYBA ZABIJA SZYBCIEJ NIZ SPORYSZ) · sprzedaz poza targiem niewazna · czesc V (kto moze kupowac) · jedzenie zepsute PALONE, nigdy przecenione. WLASNA FORMA: cena minimalna oglaszana PRZED PORA DANEGO RODZAJU - ziarno przed siewem, ryba przed tarlem, zwierzyna przed rykowiskiem, szklarnia przed sadzeniem. PRZYMUS SKLADU TYLKO DLA TOWARU, KTORY WYTRZYMA TRZY DNI NA WOZIE - swieza ryba i mleko NIE; prawo, ktore kaze wystawic towar, ktory zgnije, nie jest prawem o skladzie, tylko grzywna.",
+   "co": "CZESC V-quater NA SLUP - USTAWA OBEJMUJE ZYWNOSC, NIE SAMO ZBOZE: ziarno · rosliny jadalne i straczki · ryba swieza i solona · mieso solone i suszone · ptactwo wodne i zwierzyna · sol · miod · nabial trwaly · warzywo ze szklarni. PRZENOSI SIE BEZ ZMIANY: rubryka stanu (ZEPSUTA RYBA ZABIJA SZYBCIEJ NIZ SPORYSZ) · sprzedaz poza targiem niewazna · czesc V (kto moze kupowac) · jedzenie zepsute PALONE, nigdy przecenione. WLASNA FORMA: cena minimalna oglaszana PRZED PORA DANEGO RODZAJU - ziarno przed siewem, ryba przed tarlem, zwierzyna przed rykowiskiem, szklarnia przed sadzeniem. PRZYMUS SKLADU TYLKO DLA TOWARU, KTORY WYTRZYMA TRZY DNI NA WOZIE - swieza ryba i mleko NIE; prawo, ktore kaze wystawic towar, ktory zgnije, nie jest prawem o skladzie, tylko grzywna. ### 300-03-04: OBWIESZCZONE - zakres ustawy to ZYWNOSC, nie samo zboze.",
    "kto": "HERWIN + lawa",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-04",
    "zamyka": "obwieszczenie o zakresie",
-   "status": "otwarte"
+   "status": "zrobione 300-03-04"
   },
   {
    "data": "300-04-07",
@@ -1404,6 +1404,42 @@
    "wraca": "300-03-03",
    "zamyka": "postanowione - nie pyta sie nikogo",
    "status": "zrobione"
+  },
+  {
+   "data": "300-03-04",
+   "co": "CECH PISARZY POLICZYL WLASNA HANIEBNA LICZBE - i to jest rzecz, po ktora nikt nie siegnal. Skoro Ilaria skreslono w trzy tygodnie na slowo jednego domu, to PYTANIE BRZMI: ILU JESZCZE. Cech tego nie ogloszil, ale wpisal sobie zdanie o wlasnej pospiesznosci - a to znaczy, ze mozna zapytac i ze nie odmowia. NESTA JEST NA MIEJSCU I MA TEKE. ### CO Z TEGO MA POLNOC: skreslony pisarz to pisarz, ktory umie pisac i nie ma gdzie pracowac. Polnoc ma 3,5 mln ludzi i garsc piora. To nie jest litosc - to jest werbunek.",
+   "kto": "SYMON -> NESTA (Braavos)",
+   "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+   "wraca": "300-04-22",
+   "zamyka": "liczba skreslonych przez cech w ostatnich 15 latach ALBO odmowa na pismie",
+   "status": "otwarte - WYMAGA ROZKAZU GRACZA"
+  },
+  {
+   "data": "300-03-04",
+   "co": "ILARIO PRZYWROCONY - I JEST WOLNYM PISARZEM Z JEDENASTOLETNIM STAZEM, KTOREGO NIKT NIE ZATRUDNIA. Symon obiecal mu 'podjecie sprawy PO BANKU, z dokumentami, nie jako laske' i PRZEKAZANIE WYNIKU, JAKIKOLWIEK BEDZIE - obietnica wykonana z nawiazka. ### CZEGO NIE OBIECANO I CO ZOSTAJE OTWARTE: co dalej z czlowiekiem. Ma robote wagowego w Porcie Lachmaniarza, izbe i kwit. Nie prosil o nic i nie poprosi.",
+   "kto": "SYMON",
+   "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+   "wraca": "300-04-22",
+   "zamyka": "decyzja gracza: propozycja dla Ilaria albo nic",
+   "status": "otwarte - DECYZJA GRACZA"
+  },
+  {
+   "data": "300-03-04",
+   "co": "KOLEJNOSC KUZNI vs CZTERY KAFARY. Lawa postawila robote panska trzecia w kolejce tego samego dnia, w ktorym kafary sa jedyna rzecza realnie hamujaca groble, a Bran ma je zamowic u kowala. ### TO NIE JEST BUNT - to jest dokladnie to, co sie miastu nadalo, uzyte pierwszy raz. ### TRZY DROGI I KAZDA COS KOSZTUJE: (a) uznac kolejnosc i czekac - grobla stoi dalej; (b) zlamac ja rozkazem - i karta miasta jest odtad papierem; (c) KUPIC MIEJSCE W KOLEJCE - zaplacic miastu za pierwszenstwo albo postawic druga kuznie z Kasy 2. ### Trzecia droga jest jedyna, ktora nie niszczy ani grobli, ani karty.",
+   "kto": "SYMON + WARRYN + lawa",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-06",
+   "zamyka": "kafary maja kowala i termin, a karta miasta jest cala",
+   "status": "otwarte - WYMAGA ROZSTRZYGNIECIA PRZED WYJAZDEM 03-07"
+  },
+  {
+   "data": "300-03-04",
+   "co": "DZIURA WODNA POD PRAWEM SPICHLERZA - NAJWIEKSZY WYLOM, JAKI MA TA USTAWA, I OTWIERA SIE SAM WRAZ Z ODWILZA. Prog 30 korcy / 14 dni, ksiega bramy, rubryka 'na czyj rachunek' i los 1/12 DZIALAJA WYLACZNIE NA BRAMIE LADOWEJ. Barka omija brame - wiec kto chce kupic ponad prog bez ksiegi Polnocy, plynie. ### CO JUZ JEST W REKU I NIE KOSZTUJE NOWEGO URZEDU: (1) MCHOWE JASTRZEBIE SA NA WODZIE od 299-10 - lodzie plaskodenne, powolane do pomocy celnikom; (2) prawo o skladach OBEJMUJE BARKE WPROST ('na wozie, na barce, w cudzym skladzie na twoj rachunek') - czyli podstawa prawna JEST, brakuje tylko miejsca poboru; (3) LIST PRZEWOZOWY (poprawka trzecia) nie pyta, czy towar jedzie kolem czy plynie. ### DOKTRYNA: prawo, ktore sie ogłasza na slupie przy bramie, pilnuje tylko tych, ktorzy do bramy przyjezdzaja.",
+   "kto": "SYMON + GARTH + HENDRY (Mchowe Jastrzebie)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-06",
+   "zamyka": "rozstrzygniecie: gdzie stoi pierwszy pobor na wodzie i czyja reka - PRZED odwilza i PRZED Rada",
+   "status": "otwarte - PILNE, ZEGAR JEST POGODOWY"
   }
  ]
 }

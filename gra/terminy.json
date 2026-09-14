@@ -119,21 +119,21 @@
   },
   {
    "data": "po 300-03-09",
-   "co": "najwczesniejsza uczciwa data papieru dluznego lenna (8,5 prosty, 5 lat, odnawialny)",
+   "co": "najwczesniejsza uczciwa data papieru dluznego lenna (8,5 prosty, 5 lat, odnawialny) ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "Symon + Hal",
    "zamyka": "suma emisji i srodek wierzyciela",
    "status": "otwarte",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-10"
+   "wraca": "300-03-18"
   },
   {
    "data": "300-03-10",
-   "co": "CICHY KUPIEC rusza (sol, ksiega Domu, sfera Dreadfortu)",
+   "co": "CICHY KUPIEC rusza (sol, ksiega Domu, sfera Dreadfortu) ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "WILLA",
    "zamyka": "wyjazd",
    "status": "otwarte",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-10"
+   "wraca": "300-03-18"
   },
   {
    "data": "~300-03-13",
@@ -209,21 +209,21 @@
   },
   {
    "data": "ten tydzien",
-   "co": "FEVER polowa (a): ile tygodni rzeka stoi - kanal Warryna do krannogmenow + przewoznicy z brodu",
+   "co": "FEVER polowa (a): ile tygodni rzeka stoi - kanal Warryna do krannogmenow + przewoznicy z brodu ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "WARRYN",
    "zamyka": "odpowiedz",
    "status": "otwarte",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-03-10"
+   "wraca": "300-03-26"
   },
   {
    "data": "ten tydzien",
-   "co": "NARYBEK do stawow + ROSLINY JADALNE - tym samym jezdzcem co Fever",
+   "co": "NARYBEK do stawow + ROSLINY JADALNE - tym samym jezdzcem co Fever ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "WARRYN",
    "zamyka": "odpowiedz",
    "status": "otwarte",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-03-10"
+   "wraca": "300-03-26"
   },
   {
    "data": "tygodnie - PRZED SIEWEM",
@@ -435,12 +435,12 @@
   },
   {
    "data": "300-02-25 (ponowiony; pierwszy 299-09-08)",
-   "co": "LIST DO HOWLANDA REEDA. KANALU KRUCZEGO NIE MA - Greywater Watch PLYWA. Protokol: poslaniec jedzie na Przesmyk, staje w umowionym miejscu PRZY GROBLI i czeka, az krannogowie sami wyjda. MOZE DZIEN, MOZE DWA TYGODNIE - cisza tutaj NIE JEST cisza.",
+   "co": "LIST DO HOWLANDA REEDA. KANALU KRUCZEGO NIE MA - Greywater Watch PLYWA. Protokol: poslaniec jedzie na Przesmyk, staje w umowionym miejscu PRZY GROBLI i czeka, az krannogowie sami wyjda. MOZE DZIEN, MOZE DWA TYGODNIE - cisza tutaj NIE JEST cisza. ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "poslaniec przy grobli",
    "zamyka": "krannogowie wychodza ALBO spotkanie z Howlandem",
    "status": "otwarte - bez zegara z natury kanalu",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-03-11"
+   "wraca": "300-03-26"
   },
   {
    "data": "wyslany 300-03-01, osobnym jezdzcem",
@@ -759,10 +759,10 @@
   },
   {
    "data": "300-03-10",
-   "co": "GROBLA STOI PRZEZ ODWILZ - cztery kafary i zalogi STOJA BEZCZYNNIE. Dzien, w ktorym KAFAR ZNOWU WCHODZI W GRUNT, zalezy od odwilzy i NIKT GO NIE ZNA; jedyny czlowiek, ktory ten dzien rozpozna, to BRAN. Sztandarowa budowa lenna nie ma daty wznowienia.",
+   "co": "GROBLA STOI PRZEZ ODWILZ - cztery kafary i zalogi STOJA BEZCZYNNIE. Dzien, w ktorym KAFAR ZNOWU WCHODZI W GRUNT, zalezy od odwilzy i NIKT GO NIE ZNA; jedyny czlowiek, ktory ten dzien rozpozna, to BRAN. Sztandarowa budowa lenna nie ma daty wznowienia. ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "BRAN",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-10",
+   "wraca": "300-03-18",
    "zamyka": "meldunek: kafar wszedl w grunt / nadal stoi I DLACZEGO",
    "status": "otwarte"
   },
@@ -831,10 +831,10 @@
   },
   {
    "data": "300-03-10",
-   "co": "TORFIARNIE - maja ciac WIECEJ, a mierniczego torfu wakat po Harrolu zamkniety dopiero 300-03-03 (Jorren Lut). To jest zarazem PROGRAM ZATRUDNIENIA ZIMOWEGO: 'to one trzymaja ludzi przy robocie w zimie'. ⚠ I od 300-03-03 torf placi 7,5 proc. zamiast 15 - powod, zeby ciac wiecej, wlasnie sie podwoil.",
+   "co": "TORFIARNIE - maja ciac WIECEJ, a mierniczego torfu wakat po Harrolu zamkniety dopiero 300-03-03 (Jorren Lut). To jest zarazem PROGRAM ZATRUDNIENIA ZIMOWEGO: 'to one trzymaja ludzi przy robocie w zimie'. ⚠ I od 300-03-03 torf placi 7,5 proc. zamiast 15 - powod, zeby ciac wiecej, wlasnie sie podwoil. ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "JORREN LUT + WARRYN",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-10",
+   "wraca": "300-03-18",
    "zamyka": "liczba: ile ciety tygodniowo i iloma rekami",
    "status": "otwarte"
   },
@@ -1101,10 +1101,10 @@
   },
   {
    "data": "300-03-10",
-   "co": "ODSTAWIENIE SIATKI POLUDNIOWEJ - WYKONANIE, NIE OGLOSZENIE. Odstawia sie tak samo ostroznie, jak sie zaklada: NAGLE MILCZENIE JEST TAK SAMO GLOSNE JAK NAGLE ZAWEZENIE. Rece schodza POJEDYNCZO I W ODSTEPACH, kazda z wlasnym powodem, ktory brzmi zwyczajnie - skonczyl sie kontrakt, wraca do rodziny, kupiec zmienil trase. Zadna nie dowiaduje sie o innej. ### JEDNA RZECZ ZOSTAJE OTWARTA: SKRZYNKA DLA MILCZACEJ REKI, do 300-03-17. Jesli on zyje i wroci, musi miec dokad wrocic; siatka zdjeta do zera zostawia go po drugiej stronie na zawsze.",
+   "co": "ODSTAWIENIE SIATKI POLUDNIOWEJ - WYKONANIE, NIE OGLOSZENIE. Odstawia sie tak samo ostroznie, jak sie zaklada: NAGLE MILCZENIE JEST TAK SAMO GLOSNE JAK NAGLE ZAWEZENIE. Rece schodza POJEDYNCZO I W ODSTEPACH, kazda z wlasnym powodem, ktory brzmi zwyczajnie - skonczyl sie kontrakt, wraca do rodziny, kupiec zmienil trase. Zadna nie dowiaduje sie o innej. ### JEDNA RZECZ ZOSTAJE OTWARTA: SKRZYNKA DLA MILCZACEJ REKI, do 300-03-17. Jesli on zyje i wroci, musi miec dokad wrocic; siatka zdjeta do zera zostawia go po drugiej stronie na zawsze. ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "WILLA",
    "kanal": "siatka Willi",
-   "wraca": "300-03-10",
+   "wraca": "300-03-18",
    "zamyka": "rece zeszly, skrzynka stoi",
    "status": "otwarte"
   },
@@ -1164,10 +1164,10 @@
   },
   {
    "data": "300-03-10",
-   "co": "DRUGIE ZRODLO OBSYDIANU - WLASNE, DARMOWE I NIEPRZESZUKANE: STARE OSTRZA WYCHODZA Z TORFU, a TORFIARNIE FOSY TNA TEN SAM TORF (Reed, 299-10-04). Torfiarnie maja ciac wiecej, mierniczy obsadzony 300-03-03 (Jorren Lut), a torf od dzis placi 7,5 zamiast 15 procent - wiec ciac beda. ZADANIE JEDNYM ZDANIEM: KAZDY, KTO TNIE TORF, MA ODKLADAC CZARNY KAMIEN OSOBNO I ODDAWAC GO ZA ZAPLATA. Nie szukanie - ZBIERANIE PRZY OKAZJI ROBOTY, KTORA I TAK IDZIE.",
+   "co": "DRUGIE ZRODLO OBSYDIANU - WLASNE, DARMOWE I NIEPRZESZUKANE: STARE OSTRZA WYCHODZA Z TORFU, a TORFIARNIE FOSY TNA TEN SAM TORF (Reed, 299-10-04). Torfiarnie maja ciac wiecej, mierniczy obsadzony 300-03-03 (Jorren Lut), a torf od dzis placi 7,5 zamiast 15 procent - wiec ciac beda. ZADANIE JEDNYM ZDANIEM: KAZDY, KTO TNIE TORF, MA ODKLADAC CZARNY KAMIEN OSOBNO I ODDAWAC GO ZA ZAPLATA. Nie szukanie - ZBIERANIE PRZY OKAZJI ROBOTY, KTORA I TAK IDZIE. ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "JORREN LUT + WARRYN",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-10",
+   "wraca": "300-03-18",
    "zamyka": "pierwsza garsc czarnego kamienia z torfiarni, wazona i wpisana",
    "status": "otwarte"
   },
@@ -1182,12 +1182,12 @@
   },
   {
    "data": "300-03-10",
-   "co": "SLOWO NA PRZELADUNEK - JEDZIE DAGON, USTNIE, BEZ PAPIERU. NIE KRUKIEM: kruk idzie przez WYSTANA, a Wystan to kanal znany Cytadeli (299-06-23). Czarne szklo to jedyny ladunek, o ktorym Starmiasto ma sie nie dowiedziec - wiec o przeladunku nie powstaje ANI JEDNA KARTKA. Dagon (przyboczna, pod Stenem) wiezie to w ustach do HALA; miejsce, sygnal i pore ma SYMON i ma DAVOS, i nikt trzeci. JEZDZIEC 6-8 DNI - u Hala okolo 300-03-10. Potem wychodzi kadlub Wymana.",
+   "co": "SLOWO NA PRZELADUNEK - JEDZIE DAGON, USTNIE, BEZ PAPIERU. NIE KRUKIEM: kruk idzie przez WYSTANA, a Wystan to kanal znany Cytadeli (299-06-23). Czarne szklo to jedyny ladunek, o ktorym Starmiasto ma sie nie dowiedziec - wiec o przeladunku nie powstaje ANI JEDNA KARTKA. Dagon (przyboczna, pod Stenem) wiezie to w ustach do HALA; miejsce, sygnal i pore ma SYMON i ma DAVOS, i nikt trzeci. JEZDZIEC 6-8 DNI - u Hala okolo 300-03-10. Potem wychodzi kadlub Wymana. ### 300-03-12: DAGON DOJECHAL DO BIALEGO PORTU i oddal slowo Halowi z ust do ust, bez papieru. Kanal jest czysty: nic nie przeszlo przez Wystana, nic nie ma pieczeci. Hal ma teraz slowo pana na przeladunek dla ser Davosa - i ma je AKURAT W DNIU, w ktorym pan jest w miescie, wiec moze je oddac przy nim albo bez niego.",
    "kto": "DAGON -> HAL -> ser DAVOS",
    "kanal": "jezdziec Fosa-Bialy Port",
-   "wraca": "300-03-10",
-   "zamyka": "slowo w rekach Hala",
-   "status": "otwarte"
+   "wraca": "300-03-14",
+   "zamyka": "slowo w rekach ser Davosa",
+   "status": "DORECZONE 300-03-12"
   },
   {
    "data": "300-04-15",
@@ -1452,10 +1452,10 @@
   },
   {
    "data": "300-03-04",
-   "co": "DRUGI OGIEN W KUZNI - z Kasy 2, jednorazowo. Odpowiedzia na 'kuznia jest jedna' nie jest kupowanie pierwszenstwa co miesiac, tylko przestanie, zeby byla jedna. KOWADLO, MIECH, PALENISKO, NARZEDZIA = ok. 4 SMOKI jednorazowo (skala: lodz plaskodenna 1-2 smoki, osiem do dwunastu lodzi = 15 smokow). MLOTOWY na dniowce ok. 20 miedziakow dziennie. ### Brusk wskazuje czlowieka do drugiego ognia - mistrz wybiera, kto przy nim stoi, nie pan i nie lawa.",
+   "co": "DRUGI OGIEN W KUZNI - z Kasy 2, jednorazowo. Odpowiedzia na 'kuznia jest jedna' nie jest kupowanie pierwszenstwa co miesiac, tylko przestanie, zeby byla jedna. KOWADLO, MIECH, PALENISKO, NARZEDZIA = ok. 4 SMOKI jednorazowo (skala: lodz plaskodenna 1-2 smoki, osiem do dwunastu lodzi = 15 smokow). MLOTOWY na dniowce ok. 20 miedziakow dziennie. ### Brusk wskazuje czlowieka do drugiego ognia - mistrz wybiera, kto przy nim stoi, nie pan i nie lawa. ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "WARRYN (Kasa 2) + BRUSK OD MIECHA",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-11",
+   "wraca": "300-03-18",
    "zamyka": "drugi ogien sie pali i ma czlowieka",
    "status": "otwarte"
   },
@@ -1479,19 +1479,19 @@
   },
   {
    "data": "300-03-04",
-   "co": "MCHOWE JASTRZEBIE NA WODZIE - PIECZEC NA LISCIE PRZEWOZOWYM. Kessel Brodaty: dwadziescia ludzi, lodzie plaskodenne, patrol NIEPRZEWIDYWALNY (patrol nie musi byc wszedzie, zeby papier stal sie konieczny). Steplują: data, miejsce, co widzieli. Ksiega u PISARZA GRODZKIEGO, nie u dowodcy. ⚠ ZEGAR POGODOWY: zaczyna sie z odwilza, nie z data - pierwsza pieczec ma paść tego dnia, w ktorym pierwsza barka ruszy. ### POPRAWKA 300-03-04 (zasada 42): Kessel dobiera ludzi i dzieli patrole SAM - nie melduje, kogo posadzil w ktorej lodzi, i nie pyta o to pana.",
+   "co": "MCHOWE JASTRZEBIE NA WODZIE - PIECZEC NA LISCIE PRZEWOZOWYM. Kessel Brodaty: dwadziescia ludzi, lodzie plaskodenne, patrol NIEPRZEWIDYWALNY (patrol nie musi byc wszedzie, zeby papier stal sie konieczny). Steplują: data, miejsce, co widzieli. Ksiega u PISARZA GRODZKIEGO, nie u dowodcy. ⚠ ZEGAR POGODOWY: zaczyna sie z odwilza, nie z data - pierwsza pieczec ma paść tego dnia, w ktorym pierwsza barka ruszy. ### POPRAWKA 300-03-04 (zasada 42): Kessel dobiera ludzi i dzieli patrole SAM - nie melduje, kogo posadzil w ktorej lodzi, i nie pyta o to pana. ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "KESSEL BRODATY + pisarz grodzki",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-11",
+   "wraca": "300-03-18",
    "zamyka": "pierwsza pieczec postawiona na wodzie ALBO meldunek 'lod jeszcze trzyma'",
    "status": "otwarte"
   },
   {
    "data": "300-03-04",
-   "co": "WYKUP TOWARU ZNALEZIONEGO - 14 DNI, SKLAD, NIE KIESZEN. Ladunek bez pieczeci idzie DO SKLADU; przewoznik ma czternascie dni na wykup: clo + myto + stala oplata. Uczciwy, ktory zgubil papier, placi grzywne i odplywa. Przemytnik nie wraca, bo po odbior trzeba przyjsc Z NAZWISKIEM I RACHUNKIEM. ### JASTRZEBIE NIE DOSTAJA NIC Z ZATRZYMANEGO - zold staly. Patrol biorący udzial w zdobyczy znajduje przemyt wszedzie, i to nie jest zarzut wobec ludzi, tylko wobec tego, kto ich tak oplaca. ### TRZECI RAZ: KARZE SIE LODZ, NIE CZLOWIEKA - czlowiek zniknie i wroci pod innym nazwiskiem, lodz kosztuje smoka i trzeba nia gdzies przyplynac. ### RUBRYKA 'NA CZYJ RACHUNEK' IDZIE NA WODE - trzeci raz w jednym dniu, trzecia ustawa. ### ⚠ WIEKSZOSC TEGO JUZ ISTNIALA OD 300-02-25 i przeoczylem to, projektujac od nowa. TRZY ZAKAZY FORMACJI, spisane wtedy: (1) zlapany towar NIOSA DO KOMORY - nie waza, nie wyceniaja, nie zapisuja; wpis robi PISARZ KOMORY w ich obecnosci i podpisuja sie obaj ('Jastrzab, ktory sam chwyta, sam wazy i sam wpisuje, PO ROKU SAM HANDLUJE'); (2) ani jednego miedziaka z lupu, stala zaplata z Kasy Lenna; (3) kto chwyta, ten nie sadzi. ### NOWE JEST DZIS TYLKO JEDNO: PIECZEC NA LISCIE PRZEWOZOWYM i 14 dni na wykup. Reszte formacja miala od poczatku.",
+   "co": "WYKUP TOWARU ZNALEZIONEGO - 14 DNI, SKLAD, NIE KIESZEN. Ladunek bez pieczeci idzie DO SKLADU; przewoznik ma czternascie dni na wykup: clo + myto + stala oplata. Uczciwy, ktory zgubil papier, placi grzywne i odplywa. Przemytnik nie wraca, bo po odbior trzeba przyjsc Z NAZWISKIEM I RACHUNKIEM. ### JASTRZEBIE NIE DOSTAJA NIC Z ZATRZYMANEGO - zold staly. Patrol biorący udzial w zdobyczy znajduje przemyt wszedzie, i to nie jest zarzut wobec ludzi, tylko wobec tego, kto ich tak oplaca. ### TRZECI RAZ: KARZE SIE LODZ, NIE CZLOWIEKA - czlowiek zniknie i wroci pod innym nazwiskiem, lodz kosztuje smoka i trzeba nia gdzies przyplynac. ### RUBRYKA 'NA CZYJ RACHUNEK' IDZIE NA WODE - trzeci raz w jednym dniu, trzecia ustawa. ### ⚠ WIEKSZOSC TEGO JUZ ISTNIALA OD 300-02-25 i przeoczylem to, projektujac od nowa. TRZY ZAKAZY FORMACJI, spisane wtedy: (1) zlapany towar NIOSA DO KOMORY - nie waza, nie wyceniaja, nie zapisuja; wpis robi PISARZ KOMORY w ich obecnosci i podpisuja sie obaj ('Jastrzab, ktory sam chwyta, sam wazy i sam wpisuje, PO ROKU SAM HANDLUJE'); (2) ani jednego miedziaka z lupu, stala zaplata z Kasy Lenna; (3) kto chwyta, ten nie sadzi. ### NOWE JEST DZIS TYLKO JEDNO: PIECZEC NA LISCIE PRZEWOZOWYM i 14 dni na wykup. Reszte formacja miala od poczatku. ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "GARTH (komora i jej pisarz) + KESSEL",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-11",
+   "wraca": "300-03-18",
    "zamyka": "przegroda na towar znaleziony i ksiega wykupu istnieja PRZED pierwsza pieczecia",
    "status": "otwarte"
   },
@@ -1916,6 +1916,15 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "moneta albo rozliczenie - jedno slowo",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "WYMAN MANDERLY - SYMON JEST W JEGO MIESCIE DRUGI DZIEN I JESZCZE SIE NIE ZGLOSIL. Wlasna zasada Symona, zapisana przy liscie o taryfie: 'NAJBOGATSZEGO CHORAGWIA NIE ZASKAKUJE SIE PRZY STOLE. Kto dowiaduje sie o swoim udziale w tej samej chwili co wszyscy, zapamietuje nie udzial, tylko to, ze sie nie dowiedzial wczesniej.' ### DO RADY OSIEMNASCIE DNI, a na Radzie stoja rzeczy, ktore go dotykaja wprost: karta Mistrza Handlu, ustroj miast i Przystan Wilka (czeka na niego), przewloka mierzona pod dwie pieczecie - i wlasnie wyszly z niej DWIE ROZNE LICZBY. ### Jest tez powod prywatny: Wyman wie o Mirze, bo to jego miasto.",
+   "kto": "SYMON -> WYMAN MANDERLY",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "zgloszenie sie u pana miasta - albo swiadoma decyzja, ze nie",
    "status": "otwarte"
   }
  ]

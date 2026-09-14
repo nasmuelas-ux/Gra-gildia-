@@ -1740,12 +1740,12 @@
   },
   {
    "data": "300-03-11",
-   "co": "KTO NAUCZY TYCH DZIESIECIORO UCZYC - ODPOWIEDZ MIRY PRZYSZLA, ODPOWIEDZI SYMONA JESZCZE NIE MA. Powiedziane jej przy lozku: 'dostalem, odpisalem'. Dostal - jej list byl w dzisiejszej poczcie. ODPISAC JESZCZE NIE ZDAZYL. ### TO NIE JEST KLAMSTWO DO ROZLICZANIA - to jest TERMIN. Obietnica dana przy lozku jest terminem jak kazdy inny i wpisuje sie ja tak samo, bo jedyna roznica polega na tym, ze tej nikt nie przypomni. ### RZECZ SAMA: Mira rozroznia dwie sprawy, ktore wszyscy myla - KTO NAUCZY DZIESIECIORO, a KTO NAUCZY ICH UCZYC. Pierwsze to szkola. Drugie to seminarium nauczycieli i jedyna rzecz, ktora skaluje pismiennosc na Polnocy 3,5 miliona ludzi. Wiaze sie wprost ze szkola zimowa i drabina kadr (299-09-10) oraz z Ilariem.",
+   "co": "KTO NAUCZY TYCH DZIESIECIORO UCZYC - ODPOWIEDZ MIRY PRZYSZLA, ODPOWIEDZI SYMONA JESZCZE NIE MA. Powiedziane jej przy lozku: 'dostalem, odpisalem'. Dostal - jej list byl w dzisiejszej poczcie. ODPISAC JESZCZE NIE ZDAZYL. ### TO NIE JEST KLAMSTWO DO ROZLICZANIA - to jest TERMIN. Obietnica dana przy lozku jest terminem jak kazdy inny i wpisuje sie ja tak samo, bo jedyna roznica polega na tym, ze tej nikt nie przypomni. ### RZECZ SAMA: Mira rozroznia dwie sprawy, ktore wszyscy myla - KTO NAUCZY DZIESIECIORO, a KTO NAUCZY ICH UCZYC. Pierwsze to szkola. Drugie to seminarium nauczycieli i jedyna rzecz, ktora skaluje pismiennosc na Polnocy 3,5 miliona ludzi. Wiaze sie wprost ze szkola zimowa i drabina kadr (299-09-10) oraz z Ilariem. ### 300-03-13 ZAMKNIETE PRZY LOZKU, dwa dni po wlasnym terminie. ODPOWIEDZ: SEMINARIUM NAUCZYCIELI NA FOSIE, GLOWA - MIRA, ILARIO GDY PRZYJDZIE.",
    "kto": "SYMON -> MIRA",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "odpowiedz napisana i dana jej do reki, nie wyslana krukiem przez miasto, w ktorym oboje sa",
-   "status": "otwarte - OBIETNICA"
+   "status": "ZAMKNIETE 300-03-13"
   },
   {
    "data": "300-03-11",
@@ -2601,6 +2601,24 @@
    "wraca": null,
    "zamyka": "decyzja, czy ktorakolwiek linia dostaje pierwszenstwo, czy sufit zostaje nietkniety",
    "status": "otwarte - spust na wiosne"
+  },
+  {
+   "data": "od 300-03-13",
+   "co": "SEMINARIUM NAUCZYCIELI NA FOSIE - USTANOWIONE PRZY LOZKU, 300-03-13. Odpowiedz na pytanie Miry, ktore sama rozdzielila: nie 'kto nauczy dziesiecioro' (to szkola, stoi), tylko KTO NAUCZY ICH UCZYC. GLOWA: MIRA - prowadzi, nie asystuje. DRUGA REKA: ILARIO, warunkowo, jego odpowiedz wraca 300-04-22 (trzy tygodnie PO Radzie). ZASADA 42: miejsce, sluchacze, porzadek dnia i kasa obsadza GLOWA; do pana wraca meldunek, nie pytanie. WIAZE SIE ZE: szkola zimowa, drabina kadr (299-09-10), szkola Fosy (9/mies, Kasa 2). ⚠ ZEGAR, KTORY NIE JEST URZEDOWY: dziewiaty dzien goraczki poloznej, okno do 300-03-18. Urzad objety z lozka jest zyczeniem, nie urzedem.",
+   "kto": "MIRA (glowa) / ILARIO (od ~300-04-22, warunkowo)",
+   "kanal": "przy lozku, potem meldunek z Fosy",
+   "wraca": null,
+   "zamyka": "pierwszy sluchacz seminarium przyjety",
+   "status": "ustanowione - czeka na glowe"
+  },
+  {
+   "data": "300-03-30 - WIECZOR PO PIERWSZYM DNIU RADY",
+   "co": "⚠ POWIEDZIEC SAMEMU I PIERWSZEMU: Namiestnik postawil instytucje o zasiegu krolestwa (seminarium nauczycieli, pismiennosc Polnocy) I POSADZIL NA NIEJ WLASNA ZONE (slub 297-10-13). To trzecia figura tego tygodnia, w ktorej wlasna reka jest po obu stronach - po cwierci bednarni pod ustawa o cechach i po karcie cechow obok wlasnego statutu Bractwa. ROZNICA JEST PRAWDZIWA I DA SIE JA POWIEDZIEC: seminarium nie jest sakiewka, przywilejem ani krzeslem, o ktore ktos sie dobijal - to robota, o ktora nikt nie prosil i ktorej nikt inny nie postawil. NEPOTYZM BIERZE; TO DAJE. ALE ZDANIE POWIEDZIANE PIERWSZE JEST WYJASNIENIEM, A POWIEDZIANE DRUGIE JEST TLUMACZENIEM SIE.",
+   "kto": "SYMON",
+   "kanal": "rozmowa bez swiadkow z Krolem",
+   "wraca": "300-03-30",
+   "zamyka": "powiedziane Krolowi zanim policzy to ktokolwiek inny",
+   "status": "otwarte"
   }
  ]
 }

@@ -1242,6 +1242,33 @@
       "wraca": "300-03-13",
       "zamyka": "pulap 1/5 obrotu okregu na slupie - obowiazuje kazdego, nie wymienia nikogo",
       "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "KLAUZULA DZIESIATA NA SLUP - 'zboze na targach Polnocy, W ILOSCIACH POWYZEJ PROGU, nabywa waznie tylko ten, KTO STOI W KSIEDZE POLNOCY'. TEST REJESTRU, NIE KRWI: dowodem jest urbarz, spis 299-06, rejestr Melli, ksiega bramy albo rejestr miejski. Obcy staje sie mieszkancem WCHODZAC DO KSIEGI - to prog z drzwiami, nie mur. WYJATKI WYPISANE, NIE DOMYSLNE: ponizej progu nikt nie pyta · KORONA kupuje zawsze · NOCNA STRAZ kupuje zawsze i wolno, wymieniona z nazwy · przegroda siewna poza obrotem. EGZEKUCJA TRYBEM SIODMYM: nabycie przez tego, kogo nie ma w ksiedze, NIE JEST PRZESTEPSTWEM - JEST NICZYM. Sprawdza to ta sama rubryka 'na czyj rachunek'. ANI JEDNEGO NOWEGO URZEDNIKA.",
+      "kto": "SYMON + HERWIN + lawa",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07",
+      "zamyka": "klauzula na slupie razem z cena minimalna i pulapem",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-30",
+      "co": "KLAUZULA DZIESIATA NA RADZIE - rozstrzygniecie do podjecia: OSOBNO czy jako zdanie wewnatrz wiazki III (CHLEB). Osobno WIDAC JA LEPIEJ - ale osobno LATWIEJ JA TEZ WYCIAC. Cerwyn ukladal tryb i ma o tym zdanie.",
+      "kto": "SYMON / CERWYN",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30",
+      "zamyka": "decyzja o miejscu klauzuli w porzadku obrad",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-15",
+      "co": "SKUTEK UBOCZNY KLAUZULI X DO OBSERWACJI, NIE DO ZALATWIENIA DZIS: brokerka zboza przechodzi w rece domow polnocnych, czyli w niemalej czesci W RECE DOMU NAMIESTNIKA. Prawo, ktore wzmacnia wlasny dom, musi wytrzymac pytanie zadane na glos przy czternastu domach. ZABEZPIECZENIE WPISANE OD RAZU: klauzula NIE DAJE NIKOMU WYLACZNOSCI - daje ja KAZDEMU, KTO WEJDZIE DO KSIEGI, a ksiega jest otwarta i jawna. DO SPRAWDZENIA PO MIESIACU: czy udzial Domu Tally w obrocie zbozem rosnie szybciej niz obrot ogolem.",
+      "kto": "GERRIK RACHUBA + ksiega targu",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-04-15",
+      "zamyka": "dwie liczby obok siebie: obrot okregu i udzial Domu",
+      "status": "otwarte"
     }
   ]
 }

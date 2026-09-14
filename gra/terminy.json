@@ -2226,12 +2226,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "WAKAT: KLIENCI W BIALYM PORCIE - po Lorrenie. OBSADZA HAL, SAM (zasada 42 i jego wlasne prawo z 300-01-26). Nie wraca do pana jako pytanie; wraca jako wiadomosc, gdy bedzie obsadzony. ### ZAPISANE TYLKO PO TO, ZEBY POLICZYC CENE PENTOS: placowka w Essos kosztuje nie tylko srebro, ale i krzeslo w kraju.",
+   "co": "WAKAT: KLIENCI W BIALYM PORCIE - po Lorrenie. OBSADZA HAL, SAM (zasada 42 i jego wlasne prawo z 300-01-26). Nie wraca do pana jako pytanie; wraca jako wiadomosc, gdy bedzie obsadzony. ### ZAPISANE TYLKO PO TO, ZEBY POLICZYC CENE PENTOS: placowka w Essos kosztuje nie tylko srebro, ale i krzeslo w kraju. ### 300-03-12: bezprzedmiotowe, Lorren zostaje.",
    "kto": "HAL SIEROTA",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-26",
    "zamyka": "wiadomosc po fakcie: kto siedzi przy klientach w Bialym Porcie",
-   "status": "otwarte"
+   "status": "zrobione 300-03-12 - WAKAT NIE POWSTAL"
   },
   {
    "data": "300-03-12",
@@ -2244,11 +2244,20 @@
   },
   {
    "data": "300-03-12",
-   "co": "LORREN - CO Z NIM TERAZ. Uslyszal przy swoim panu i przy swoim dyrektorze, ze do Pentos sie nie nadaje, i uslyszal to od obcego. Medrick powiedzial przy tym rzecz, ktora to lagodzi i jest prawdziwa: W BIALYM PORCIE LORREN JEST WART WIECEJ NIZ W PENTOS. ### ⚠ ALE HAL JUZ OGLOSIL PRZENIESIENIE, a krzeslo od klientow w Bialym Porcie jest od dzis wakatem w rejestrze. Cofniecie tego jest latwe w ksiedze i nie jest latwe dla czlowieka. ### TO NIE JEST POZYCJA DO ROZSTRZYGNIECIA ROZKAZEM - to jest pozycja HALA, bo Hal go obsadzil i Hal go cofa (zasada 42). Do pana wraca tylko wiadomosc.",
+   "co": "LORREN - CO Z NIM TERAZ. Uslyszal przy swoim panu i przy swoim dyrektorze, ze do Pentos sie nie nadaje, i uslyszal to od obcego. Medrick powiedzial przy tym rzecz, ktora to lagodzi i jest prawdziwa: W BIALYM PORCIE LORREN JEST WART WIECEJ NIZ W PENTOS. ### ⚠ ALE HAL JUZ OGLOSIL PRZENIESIENIE, a krzeslo od klientow w Bialym Porcie jest od dzis wakatem w rejestrze. Cofniecie tego jest latwe w ksiedze i nie jest latwe dla czlowieka. ### TO NIE JEST POZYCJA DO ROZSTRZYGNIECIA ROZKAZEM - to jest pozycja HALA, bo Hal go obsadzil i Hal go cofa (zasada 42). Do pana wraca tylko wiadomosc. ### ROZSTRZYGNIECIE: LORREN ZOSTAJE W BIALYM PORCIE. Przeniesienie cofniete tego samego wieczoru, wakat nie powstal, a powod cofniecia jest dla niego lepszy niz brak przeniesienia: obcy czlowiek powiedzial przy jego panu, ze tu jest wart wiecej.",
    "kto": "HAL -> LORREN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "Lorren wie, gdzie siedzi od jutra",
+   "status": "zrobione 300-03-12"
+  },
+  {
+   "data": "300-03-12",
+   "co": "CZLOWIEK DO PENTOS - SZUKA HAL. Jego prawo z 300-01-26: obsadza filie sam, do pana idzie wiadomosc po fakcie. Symon nie wskazuje nazwiska i nie ma tego robic (zasada 42). ### ⚠ ALE KRYTERIUM JUZ ISTNIEJE I JEST WASKIE, BO PODAL JE MEDRICK, PATRZAC NA KONKRETNEGO CZLOWIEKA: NIE CZLOWIEK OD KLIENTOW, TYLKO KTOS, KTO UMIE BYC CZYIS. W Pentos pierwsze drzwi zamykaja pozostale, wiec szuka sie kogos, kto potrafi wybrac jednego patrona i przy nim zostac. To jest przeciwienstwo cnoty, ktorej Dom szukal u swoich ludzi przez cztery lata. ### ZEGAR: sklad w Pentos stoi pusty i kosztuje co miesiac. Dach bez czlowieka nie broni sie sam. ### DROGA, KTOREJ NIKT JESZCZE NIE PROBOWAL, A KTORA LEZY NA WIERZCHU: MEDRICK ODMOWIL RECZENIA ZA LORRENA, ALE NIKT GO NIE ZAPYTAL, ZA KIM BY PORECZYL. Dwadziescia lat na miejscu to takze dwadziescia lat znajomosci ludzi, ktorzy tam siedza.",
+   "kto": "HAL SIEROTA",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-26",
+   "zamyka": "nazwisko do Pentos - wiadomosc po fakcie, nie pytanie",
    "status": "otwarte"
   }
  ]

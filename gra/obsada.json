@@ -307,12 +307,12 @@
    "PLACOWKA PENTOS": {
     "kto": null,
     "od": null,
-    "nota": "PUSTA. Hal wskazal LORRENA 300-03-12, ale MEDRICK NIE RECZY (rzut 5): czlowiek od klientow jest w Pentos slaby dokladnie tym, czym w Bialym Porcie jest mocny - 'ten, co chodzi wszedzie'. Sklad stoi i kosztuje; wejscie po odmowie miasta idzie przez magistra i wymaga wprowadzenia."
+    "nota": "PUSTA - SZUKA HAL, wlasnym prawem z 300-01-26, meldunek po fakcie. ⚠ KRYTERIUM PODAL MEDRICK I JEST WASKIE: nie czlowiek od klientow, tylko KTOS, KTO UMIE BYC CZYIS. W Pentos pierwsze drzwi zamykaja pozostale, wiec szuka sie czlowieka zdolnego wybrac jednego patrona i przy nim zostac - a nie takiego, ktory chodzi wszedzie. Sklad stoi i kosztuje co miesiac, wiec zegar chodzi."
    },
    "KLIENCI (Bialy Port)": {
-    "kto": null,
-    "od": null,
-    "nota": "WAKAT OD 300-03-12 - po przeniesieniu LORRENA do Pentos. To jest cena tej placowki i nie jest pieniezna: najwieksza placowka Domu (660/610/545) traci czlowieka od klientow w kwartale, w ktorym brokerka i tak spadla najmocniej ze wszystkich linii. OBSADZA HAL, sam. ⚠ 300-03-12 wieczor: przeniesienie ZATRZYMANE - patrz pozycja o Lorrenie."
+    "kto": "LORREN",
+    "od": "od poczatku - przeniesienie COFNIETE 300-03-12",
+    "nota": "Przeniesiony do Pentos i cofniety tego samego wieczoru, po tym jak Medrick odmowil reczenia (rzut 5). Nie za kare i nie z braku wartosci - przeciwnie: slowa Medricka brzmialy 'w Bialym Porcie jest wart wiecej niz w Pentos, przenoszac go tracicie dwa razy'. Wakat nie powstal."
    }
   },
   "KORONA": {

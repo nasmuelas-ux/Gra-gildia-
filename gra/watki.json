@@ -413,7 +413,7 @@
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod.",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "refinansowanie_dlugu",
@@ -6174,7 +6174,7 @@
   {
    "id": "ucho_korony",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "kanal_olenna",
@@ -6269,10 +6269,15 @@
   {
    "id": "ustroj_miast_polnocy",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "miasto_cailin_lawa",
+   "status": "otwarty",
+   "_dziennik_nota": 2
+  },
+  {
+   "id": "grobla_fosa_cailin",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

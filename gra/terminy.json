@@ -750,11 +750,11 @@
   },
   {
    "data": "300-03-05",
-   "co": "KAFARY NIE MAJA WLASCICIELA - jedyna rzecz realnie hamujaca groble, i NIKT NIE MA ROZKAZU JEJ USUNAC. Cerwyn 300-02-20 i Bran 300-02-25 powiedzieli to samo: 'nie brakuje nam pieniedzy, stoimy, bo mamy cztery kafary; kafary robi sie z DREWNA I Z ZELAZA, NIE Z MONETY, i trzeba je komus KAZAC zrobic'. Plac budowy BEZ MISTRZA, KUZNI I KAMIENIOLOMU. ### ⚡ OD 300-03-04 ZNIKA POWOD, DLA KTOREGO ROZKAZ NIE MIAL ADRESATA: LAWA SADZA KOWALA (Brusk od Miecha). Rozkaz do kuzni ma wreszcie komu byc wydany.",
-   "kto": "BRAN + kowal + Orbelo",
+   "co": "KAFARY NIE MAJA WLASCICIELA - jedyna rzecz realnie hamujaca groble, i NIKT NIE MA ROZKAZU JEJ USUNAC. Cerwyn 300-02-20 i Bran 300-02-25 powiedzieli to samo: 'nie brakuje nam pieniedzy, stoimy, bo mamy cztery kafary; kafary robi sie z DREWNA I Z ZELAZA, NIE Z MONETY, i trzeba je komus KAZAC zrobic'. Plac budowy BEZ MISTRZA, KUZNI I KAMIENIOLOMU. ### ⚡ OD 300-03-04 ZNIKA POWOD, DLA KTOREGO ROZKAZ NIE MIAL ADRESATA: LAWA SADZA KOWALA (Brusk od Miecha). Rozkaz do kuzni ma wreszcie komu byc wydany. ### 300-03-04 ODBLOKOWANE: pierwszenstwo w kuzni kupione za 24 jelenie, kafary ida PIERWSZE. WLASCICIEL: BRAN. KOWAL: BRUSK OD MIECHA. Okucia czterech kafarow, ok. 12 dni kuzni.",
+   "kto": "BRAN (wlasciciel) + BRUSK OD MIECHA (kuznia) + ORBELO (stawianie)",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-05",
-   "zamyka": "cztery kafary z wlascicielem i terminem, albo pisemne 'nie da sie i dlaczego'",
+   "wraca": "300-03-16",
+   "zamyka": "cztery kafary okute i postawione przy grobli",
    "status": "otwarte"
   },
   {
@@ -1416,21 +1416,21 @@
   },
   {
    "data": "300-03-04",
-   "co": "ILARIO PRZYWROCONY - I JEST WOLNYM PISARZEM Z JEDENASTOLETNIM STAZEM, KTOREGO NIKT NIE ZATRUDNIA. Symon obiecal mu 'podjecie sprawy PO BANKU, z dokumentami, nie jako laske' i PRZEKAZANIE WYNIKU, JAKIKOLWIEK BEDZIE - obietnica wykonana z nawiazka. ### CZEGO NIE OBIECANO I CO ZOSTAJE OTWARTE: co dalej z czlowiekiem. Ma robote wagowego w Porcie Lachmaniarza, izbe i kwit. Nie prosil o nic i nie poprosi.",
+   "co": "ILARIO PRZYWROCONY - I JEST WOLNYM PISARZEM Z JEDENASTOLETNIM STAZEM, KTOREGO NIKT NIE ZATRUDNIA. Symon obiecal mu 'podjecie sprawy PO BANKU, z dokumentami, nie jako laske' i PRZEKAZANIE WYNIKU, JAKIKOLWIEK BEDZIE - obietnica wykonana z nawiazka. ### CZEGO NIE OBIECANO I CO ZOSTAJE OTWARTE: co dalej z czlowiekiem. Ma robote wagowego w Porcie Lachmaniarza, izbe i kwit. Nie prosil o nic i nie poprosi. ### 300-03-04: SYMON REKOMENDUJE GO KROLOWI DO SCIAGNIECIA NA POLNOC. Osobne pismo do Krola (kruk, wraca 03-08) i osobne DO NIEGO SAMEGO przez Neste - w tej kolejnosci co do tresci, ale pytanie idzie do czlowieka, zanim Korona cokolwiek ogłosi.",
    "kto": "SYMON",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-04-22",
    "zamyka": "decyzja gracza: propozycja dla Ilaria albo nic",
-   "status": "otwarte - DECYZJA GRACZA"
+   "status": "zrobione 300-03-04 - ROZSTRZYGNIECIE GRACZA"
   },
   {
    "data": "300-03-04",
-   "co": "KOLEJNOSC KUZNI vs CZTERY KAFARY. Lawa postawila robote panska trzecia w kolejce tego samego dnia, w ktorym kafary sa jedyna rzecza realnie hamujaca groble, a Bran ma je zamowic u kowala. ### TO NIE JEST BUNT - to jest dokladnie to, co sie miastu nadalo, uzyte pierwszy raz. ### TRZY DROGI I KAZDA COS KOSZTUJE: (a) uznac kolejnosc i czekac - grobla stoi dalej; (b) zlamac ja rozkazem - i karta miasta jest odtad papierem; (c) KUPIC MIEJSCE W KOLEJCE - zaplacic miastu za pierwszenstwo albo postawic druga kuznie z Kasy 2. ### Trzecia droga jest jedyna, ktora nie niszczy ani grobli, ani karty.",
+   "co": "KOLEJNOSC KUZNI vs CZTERY KAFARY. Lawa postawila robote panska trzecia w kolejce tego samego dnia, w ktorym kafary sa jedyna rzecza realnie hamujaca groble, a Bran ma je zamowic u kowala. ### TO NIE JEST BUNT - to jest dokladnie to, co sie miastu nadalo, uzyte pierwszy raz. ### TRZY DROGI I KAZDA COS KOSZTUJE: (a) uznac kolejnosc i czekac - grobla stoi dalej; (b) zlamac ja rozkazem - i karta miasta jest odtad papierem; (c) KUPIC MIEJSCE W KOLEJCE - zaplacic miastu za pierwszenstwo albo postawic druga kuznie z Kasy 2. ### Trzecia droga jest jedyna, ktora nie niszczy ani grobli, ani karty. ### 300-03-04 ROZSTRZYGNIETE: PAN PLACI MIASTU ZA PIERWSZENSTWO. Kafary ida pierwsze - kupione, nie rozkazane. Karta miasta cala, grobla rusza. ### CENA POLICZONA (dniowka mistrza z ogniem = 1 jelen; niewykwalifikowana 15-20 miedziakow; smok = 20 000 miedziakow): kuznia zajeta na CZTERY KAFARY = ok. 12 DNI. PODWOJNA DNIOWKA MISTRZA za kazdy dzien, w ktorym robota panska stoi przed miejska = 24 JELENIE. ### TO JEST OSMA CZESC SMOKA. Lawa wiedziala. Lawa nie chciala pieniedzy.",
    "kto": "SYMON + WARRYN + lawa",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-06",
    "zamyka": "kafary maja kowala i termin, a karta miasta jest cala",
-   "status": "otwarte - WYMAGA ROZSTRZYGNIECIA PRZED WYJAZDEM 03-07"
+   "status": "zrobione 300-03-04 - ROZSTRZYGNIECIE GRACZA: PLACI"
   },
   {
    "data": "300-03-04",
@@ -1440,6 +1440,42 @@
    "wraca": "300-03-06",
    "zamyka": "rozstrzygniecie: gdzie stoi pierwszy pobor na wodzie i czyja reka - PRZED odwilza i PRZED Rada",
    "status": "otwarte - PILNE, ZEGAR JEST POGODOWY"
+  },
+  {
+   "data": "300-03-04",
+   "co": "STAWKA PIERWSZENSTWA WPISANA DO KARTY MIASTA - PRAWDZIWA CENA, KTORA WZIELA LAWA. Nie 24 jelenie, tylko ZDANIE: od dzis pierwszenstwo w kolejce kuzni KUPUJE KAZDY ZA TE SAMA STAWKE, jawna i wypisana - a placi sie nie do skrzyni miasta, tylko DO RAK TYCH, KTORYCH ROBOTA CZEKA, z rubryka kto i za co. Miasto nie bogaci sie na opoznianiu wlasnych ludzi. ### PAN ZAPLACIL PIERWSZY I TYM SAMYM USTANOWIL STAWKE NA SOBIE. W kolejce nie stoi sie odtad wedlug glosnosci ani urodzenia. ### ⚠ WADA, KTORA TO TWORZY I KTORA TRZEBA ZAMKNAC: KOLEJKA, KTORA MOZNA KUPIC, JEST KOLEJKA, W KTOREJ ZAWSZE WYGRYWA BOGATSZY. Bagienny rzemieslnik nie przebije Domu Tally ani razu. Do rozstrzygniecia: ogranicznik (np. nikt nie kupuje pierwszenstwa dwa razy pod rzad) albo stawka rosnaca przy powtorzeniu.",
+   "kto": "SYMON + lawa + WARRYN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-06",
+   "zamyka": "ogranicznik wpisany do karty ALBO swiadoma decyzja, ze go nie ma",
+   "status": "otwarte - PRZED WYJAZDEM 03-07"
+  },
+  {
+   "data": "300-03-04",
+   "co": "DRUGI OGIEN W KUZNI - z Kasy 2, jednorazowo. Odpowiedzia na 'kuznia jest jedna' nie jest kupowanie pierwszenstwa co miesiac, tylko przestanie, zeby byla jedna. KOWADLO, MIECH, PALENISKO, NARZEDZIA = ok. 4 SMOKI jednorazowo (skala: lodz plaskodenna 1-2 smoki, osiem do dwunastu lodzi = 15 smokow). MLOTOWY na dniowce ok. 20 miedziakow dziennie. ### Brusk wskazuje czlowieka do drugiego ognia - mistrz wybiera, kto przy nim stoi, nie pan i nie lawa.",
+   "kto": "WARRYN (Kasa 2) + BRUSK OD MIECHA",
+   "kanal": "robota na miejscu (Fosa)",
+   "wraca": "300-03-11",
+   "zamyka": "drugi ogien sie pali i ma czlowieka",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04",
+   "co": "REKOMENDACJA ILARIA DO KROLA - NIE NA KRZESLO, TYLKO NA POLNOC. Namiestnik nie podaje nazwiska na zadne z dwoch krzesel (tak stoi w jego wczorajszym pismie i tego sie nie cofa). Podaje CZLOWIEKA: wolny pisarz cechu Braavos, staz jedenascie lat przywrocony wczoraj z data skreslenia, biegly w ksiegach kupieckich Wolnych Miast. ### I PODAJE POWOD, KTORY JEST CALA REKOMENDACJA: TEGO CZLOWIEKA ZNISZCZONO ZA TO, ZE ODMOWIL FALSZYWEGO WPISU I POWIEDZIAL O TYM OD RAZU. Splacil przez jedenascie lat cudzy dlug czterdziestu smokow, do konca, i ma kwit. ### PISMO MOWI WPROST, ZE CZLOWIEK NIE ZOSTAL JESZCZE ZAPYTANY - bo cala krzywda tego czlowieka polega na tym, ze ktos postawil jego nazwisko tam, gdzie on go nie postawil, i drugi raz sie tego nie robi. Krol dostaje nazwisko do SCIAGNIECIA, nie do ogloszenia.",
+   "kto": "SYMON -> ROBB STARK",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-03-08",
+   "zamyka": "odpowiedz Krola. ⚠ ADRES RUCHOMY - Namiestnik wyjezdza 03-07, odpowiedz idzie TAM, GDZIE ON JEST",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04",
+   "co": "PYTANIE DO ILARIA, PRZEZ NESTE - PROPOZYCJA, NIE NADANIE. Trzy rzeczy w pismie: (1) WYNIK, ktory mu obiecano: cech nie wymazal kreski, bo z rolki sie nie wymazuje - DOPISAL pod nia prawde z data i przywrocil staz od dnia skreslenia. Obietnica 'przekaze wynik, jakikolwiek bedzie' wykonana. (2) PROPOZYCJA: Polnoc ma trzy i pol miliona ludzi i garsc piora; jest robota przy ksiegach, platna, z nazwiskiem. (3) ZE ZOSTAL JUZ REKOMENDOWANY KROLOWI - powiedziane mu WPROST, a nie przemilczane, bo czlowiekowi, ktoremu raz postawiono nazwisko tam, gdzie go nie postawil, mowi sie o kazdym miejscu, gdzie jego nazwisko stoi. ### MOZE ODMOWIC I NIE BEDZIE TO NICZEGO KOSZTOWALO.",
+   "kto": "SYMON -> NESTA -> ILARIO",
+   "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+   "wraca": "300-04-22",
+   "zamyka": "tak albo nie od samego Ilaria",
+   "status": "otwarte"
   }
  ]
 }

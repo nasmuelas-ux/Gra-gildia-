@@ -2055,11 +2055,20 @@
   },
   {
    "data": "300-03-13",
-   "co": "PRZEWLOKA: MYTO DO LENNA, DOM FINANSUJE - POZYCZKA KASY 1 DLA KASY 2, NIE KONCESJA. ### DLACZEGO TO JEST LEPSZE OD TEGO, CO PROPONOWALEM: Dom NIE POTRZEBUJE MYTA. Dom potrzebuje, ZEBY DROGA ISTNIALA - bo na ruchu zyja jego wlasne linie w Fosie HQ: sklad przy bramie, obsluga karawan, arteria, brokerka. Przewloka nie jest dla Domu zrodlem oplaty, tylko ZRODLEM RUCHU. Zysk przychodzi bokiem i przychodzi wiekszy. ### A PRZY OKAZJI ZNIKA CZWARTY WPIS NA LISCIE KONFLIKTOW: nikt nigdy nie powie, ze dom Namiestnika dzierzawi myto na Przesmyku. ### WARUNKI POZYCZKI - cztery, i wszystkie z rzeczy juz zapisanych: (1) BEZ ODSETEK. Dom zarabia na ruchu, nie na lennie pana; procent od wlasnego lenna byl by przekladaniem z kieszeni do kieszeni z rubryka. (2) SPLATA WYLACZNIE Z MYTA PRZEWLOKI, nie z innych dochodow lenna. Jesli droga nie przyniesie ruchu, lenno nie placi z czynszow, z torfu ani z targu. RYZYKO RUCHU ZOSTAJE PRZY DOMU - ta sama zasada co przy dlugu Korony. (3) PO PIETNASTU LATACH RESZTA WYGASA, choćby sie nie zwrocila. POWOD ZAPISANY SLOWAMI HALA z 300-01-26: 'dlug, ktorego nie da sie splacic, przestaje byc dlugiem i staje sie SMYCZA; wy kazaliscie wykreslic dwie takie z rejestru w Braavos'. Nie zaklada sie smyczy wlasnemu lennu. (4) WPIS W OBU KSIEGACH, Z KWOTA I Z POWODEM - precedens z przeniesienia garnizonu: POWOD OBOK CENY. ### DOKTRYNA: kto buduje droge, zeby po niej wozic, nie musi brac myta - bierze ruch.",
+   "co": "⚠ VOID: pozyczka z warunkami. POPRAWKA GRACZA: 'po prostu zaksiegowane w lennie jako srodki na inwestycje. JESTEM WLASCICIELEM DOMU I LENNA, nie musze nic robic miedzy nimi. Zapisac tylko, ze to BEZZWROTNE ZASILENIE.' ### MIAL RACJE. Odsetki, termin, sufit i splata z myta to byla maszyneria miedzy dwiema kieszeniami tego samego czlowieka. Zostaje JEDEN WPIS.",
    "kto": "SYMON + HAL + WARRYN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "pozyczka wpisana do umowy i do obu ksiag: bez odsetek, splata z myta, wygasa po 15 latach",
+   "status": "VOID 300-03-12 - BEZ POZYCZKI, BEZ WARUNKOW"
+  },
+  {
+   "data": "300-03-13",
+   "co": "PRZEWLOKA - FINANSOWANIE. JEDEN WPIS, BEZ KONSTRUKCJI. ### KASA 1 -> KASA 2: BEZZWROTNE ZASILENIE NA INWESTYCJE. Kwota wedle stawek, suma po wspolnym przejsciu (rzedu 230-325). ### W KSIEDZE LENNA: srodki na inwestycje, zrodlo - Dom Handlowy Tally, BEZZWROTNE. ### W KSIEDZE DOMU: wyplata bezzwrotna na rzecz lenna, z powodem obok kwoty. ### MYTO PRZEWLOKI IDZIE DO LENNA OD PIERWSZEGO DNIA I ZOSTAJE W NIM NA ZAWSZE - jest regale pana jak brama, waga, targ i mlyn. ### ZADNYCH ODSETEK, ZADNEGO TERMINU, ZADNEGO SUFITU, ZADNEJ SPLATY. Ten sam czlowiek jest wlascicielem obu kas; miedzy wlasnymi kieszeniami nie zawiera sie umow. ### JEDYNY REALNY SKUTEK JEST TEN, KTORY JUZ STOI W REJESTRZE: kapital wiosenny Domu chudnie o te kwote i czekaja szmaty dla papierni, surowiec dla Marra i metoda dla ubezpieczen.",
+   "kto": "HAL (Kasa 1) + GERRIK RACHUBA (Kasa 2)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "jeden wpis w kazdej z dwoch ksiag",
    "status": "otwarte - JUTRO"
   }
  ]

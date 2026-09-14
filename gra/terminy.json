@@ -588,10 +588,10 @@
   },
   {
    "data": "od 299-08-14 - STALE",
-   "co": "FOSA CAILIN JAKO KLIRINHAUS NOCNEJ STRAZY. List do WSZYSTKICH KROLESTW POLUDNIA: honorujcie Straz, slijcie chetnych; kazdy chetny z poludnia idzie do Fosy. Apel byl darmowy, ale NIGDY NIE POLICZONO, ILU PRZYSZLO. Miara istnieje od 300-02-12 (ksiega bramy) i od 300-02-28 (rejestr Melli) - wystarczy zapytac.",
+   "co": "FOSA CAILIN JAKO KLIRINHAUS NOCNEJ STRAZY. List do WSZYSTKICH KROLESTW POLUDNIA: honorujcie Straz, slijcie chetnych; kazdy chetny z poludnia idzie do Fosy. Apel byl darmowy, ale NIGDY NIE POLICZONO, ILU PRZYSZLO. Miara istnieje od 300-02-12 (ksiega bramy) i od 300-02-28 (rejestr Melli) - wystarczy zapytac. ### 300-03-04: URUCHOMIONY. Nie nowym urzedem - RUBRYKA W KSIEDZE BRAMY I ROZKAZEM STALYM.",
    "kto": "GARTH (ksiega bramy) + MELLA",
    "zamyka": "liczba rekrutow z poludnia przez Fose",
-   "status": "ODCZYTANE 300-03-03 - i odczyt jest zly: klirinhaus ogloszono i nigdy nie uruchomiono",
+   "status": "zrobione 300-03-04 - URUCHOMIONY PO SIEDMIU MIESIACACH",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07"
   },
@@ -624,10 +624,10 @@
   },
   {
    "data": "PILNE",
-   "co": "JEDENASTU NA MUR - klirinhaus nigdy nie zadzialal. Ksiega bramy (od 300-02-12) notuje JEDENASTU, ktorzy przy wejsciu podali 'na Mur'. SIEDMIU Z NICH STOI DZIS W REJESTRZE MELLI jako dniowkowi na Fosie. Nikt ich dalej nie poslal, bo urzedu, ktory mial ich kierowac, nie bylo - byla tylko zapowiedz z 299-08-14. Fosa wchlonela rekrutow Muru.",
+   "co": "JEDENASTU NA MUR - klirinhaus nigdy nie zadzialal. Ksiega bramy (od 300-02-12) notuje JEDENASTU, ktorzy przy wejsciu podali 'na Mur'. SIEDMIU Z NICH STOI DZIS W REJESTRZE MELLI jako dniowkowi na Fosie. Nikt ich dalej nie poslal, bo urzedu, ktory mial ich kierowac, nie bylo - byla tylko zapowiedz z 299-08-14. Fosa wchlonela rekrutow Muru. ### 300-03-04 ROZSTRZYGNIETE. KLIRINHAUS NIE POTRZEBUJE URZEDU - POTRZEBUJE RUBRYKI I ROZKAZU STALEGO (zasada 42: urzad, ktory ma ich kierowac, JUZ STOI - to komora Gartha przy bramie, przez ktora kazdy z nich przeszedl).",
    "kto": "SYMON / HENDRY / MELLA",
    "zamyka": "decyzja: odeslac na Mur, zatrzymac jawnie, albo dac im wybor - i OSOBA, ktora odtad kieruje",
-   "status": "otwarte - do rozstrzygniecia przez gracza",
+   "status": "zrobione 300-03-04 - ROZSTRZYGNIETE",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-07"
   },
@@ -1529,6 +1529,33 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-16",
    "zamyka": "kafary okute, czterdziestu osmiu wraca na groble z pierwszenstwem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04",
+   "co": "JEDENASTU PYTA SIE PO IMIENIU - I PYTA ICH KTOS, KTO ICH NIE OPLACA. ### POWOD, KTORY JEST CALA KONSTRUKCJA: siedmiu z jedenastu stoi dzis w rejestrze Melli jako dniowkowi Fosy. Czlowiek zapytany przez tego, kto mu placi, odpowie to, co mu zachowa dniowke. Pyta MAESTER WYSTAN albo PISARZ GRODZKI - nie Warryn, nie Mella, nie brygadzista. To ten sam zakaz, ktory juz stoi u Jastrzebi: KTO CHWYTA, TEN NIE SADZI. ### SLOWO PRZY BRAMIE NIE JEST PRZYSIEGA. Czlowiek, ktory w zimie powiedzial 'na Mur', mogl mowic to, co otwiera brame - a Straz bierze TYLKO OCHOTNIKOW i wartosc tego zwyczaju jest cala jego sila. ### KTO POWIE 'NA MUR' - idzie z najblizszym transportem, z kwitem. ### KTO POWIE 'ZOSTAJE' - zapisany jako zostajacy Z WLASNEGO SLOWA, z data i znakiem, zeby nikt nigdy nie powiedzial, ze Fosa go zatrzymala.",
+   "kto": "MAESTER WYSTAN albo pisarz grodzki",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-06",
+   "zamyka": "jedenascie odpowiedzi z data i znakiem, PRZED wyjazdem 03-07",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04 - STALE",
+   "co": "RUBRYKA 'NA MUR' W KSIEDZE BRAMY - ROZKAZ STALY, BEZ NOWEGO URZEDU. Kto przy wejsciu poda 'na Mur', dostaje KWIT, WIKT i miejsce w najblizszym transporcie na polnoc. Ksiega bramy istnieje od 300-02-12, komora ma pisarza, a ziarno na Mur i tak idzie - transport istnieje. ### DLACZEGO TO NIE ZADZIALALO PRZEZ SIEDEM MIESIECY: apel z 299-08-14 poszedl do wszystkich krolestw poludnia i byl darmowy, ale nie mial ANI JEDNEJ RUBRYKI PO TEJ STRONIE. Ludzie przychodzili, mowili 'na Mur', i szli kopac torf, bo nikt nie mial kartki, na ktorej to sie zapisuje. ### DOKTRYNA: apel bez rubryki po stronie odbierajacego jest ogloszeniem, nie kanalem - a Fosa wchlonela rekrutow Muru nie ze zlej woli, tylko dlatego, ze nie bylo gdzie ich wpisac.",
+   "kto": "GARTH (komora i jej pisarz)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-06",
+   "zamyka": "rubryka w ksiedze bramy i rozkaz staly u pisarza komory",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-04",
+   "co": "MELDUNEK NA MUR - LICZBA PODANA SAMEMU, ZANIM KTOKOLWIEK O NIA ZAPYTA. Przez Osrica do Czarnego Zamku: ilu przez Fose przeszlo z deklaracja 'na Mur' od 299-08-14, ilu poszlo dalej, ilu zostalo I Z CZYJEGO SLOWA. Bez upiekszania i bez tlumaczenia sie. ### DLACZEGO SAM: Mur ma niespelna szesciuset ludzi na trzysta mil. Jedenastu to niemal dwa na sto calego garnizonu. Ta liczba zostanie kiedys policzona przez kogos innego. ### DOKTRYNA: liczba, ktora podajesz sam, jest raportem; ta sama liczba znaleziona przez kogos innego jest zarzutem. Roznica nie jest w liczbie.",
+   "kto": "SYMON -> OSRIC -> Czarny Zamek",
+   "kanal": "przez Osrica (Mur)",
+   "wraca": "300-04-02",
+   "zamyka": "meldunek doreczony i potwierdzony w meldunku VIII Osrica",
    "status": "otwarte"
   }
  ]

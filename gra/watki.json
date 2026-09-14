@@ -4795,7 +4795,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 44,
+   "_dziennik_nota": 45,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -6194,7 +6194,7 @@
   {
    "id": "maester_aemon",
    "status": "otwarty",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 10
   },
   {
    "id": "theomore_mistrz_nauki",

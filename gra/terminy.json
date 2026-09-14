@@ -2082,12 +2082,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "PRZYSTAN WILKA - PYTANIE WYMANA, KTORE JEST TRAFNE: TRZECH WLASCICIELI I ZADEN GOSPODARZ. Uklad: Korona 1/2, Cerwyn 1/4, Manderly 1/4. Wyman nie kwestionuje swojej cwiartki - pyta, KTO TAM DECYDUJE CODZIENNIE RANO. ### CO JUZ STOI: BORS, dawny brygadzista murarski z Bialego Portu, prowadzi budowe od 299-08-27 · NORREN SCISLY od 300-03-03 prowadzi KSIEGI POMOSTU i NIE STOI POD BORSEM, bo ksiegi i kamien to dwa krzesla. ### CZEGO NIE MA: GLOWY NAD OBOMA. Budowniczy i pisarz to nie jest zarzad portu. ### TO JEST TEN SAM KSZTALT CO FOSA HQ PRZED 300-01-26: 'siedziba bez wlasnej glowy'. Wyman zna ten ksztalt, bo sam go u siebie naprawial.",
+   "co": "PRZYSTAN WILKA - PYTANIE WYMANA, KTORE JEST TRAFNE: TRZECH WLASCICIELI I ZADEN GOSPODARZ. Uklad: Korona 1/2, Cerwyn 1/4, Manderly 1/4. Wyman nie kwestionuje swojej cwiartki - pyta, KTO TAM DECYDUJE CODZIENNIE RANO. ### CO JUZ STOI: BORS, dawny brygadzista murarski z Bialego Portu, prowadzi budowe od 299-08-27 · NORREN SCISLY od 300-03-03 prowadzi KSIEGI POMOSTU i NIE STOI POD BORSEM, bo ksiegi i kamien to dwa krzesla. ### CZEGO NIE MA: GLOWY NAD OBOMA. Budowniczy i pisarz to nie jest zarzad portu. ### TO JEST TEN SAM KSZTALT CO FOSA HQ PRZED 300-01-26: 'siedziba bez wlasnej glowy'. Wyman zna ten ksztalt, bo sam go u siebie naprawial. ### 300-03-14 ROZSTRZYGNIETE: GOSPODARZEM ZOSTAJE BORS. Wyman na miejscu; do Cerwyna idzie pismo na jego zamek.",
    "kto": "SYMON + WYMAN + CERWYN (trzej wlasciciele)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "gospodarz Przystani Wilka wskazany - i przez kogo z trzech",
-   "status": "otwarte"
+   "status": "ROZSTRZYGNIETE 300-03-14 - czeka zgoda Cerwyna na jego cwiartke"
   },
   {
    "data": "300-03-12",
@@ -2370,12 +2370,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "PRZYSTAN WILKA MA GOSPODARZA - ODPOWIEDZ, KTORA WYSZLA Z DREWNA, A NIE Z USTROJU. Wyman zapytal dzis, kto tam decyduje codziennie rano, bo 'trzech wlascicieli i zaden gospodarz to zwykle pusty pomost'. Pytanie stalo bez odpowiedzi, dopoki port nie mial po co istniec. ### OD CHWILI, GDY PRZYSTAN WILKA JEST DRUGA BRAMA DREWNA, GOSPODARZEM JEST TEN, KTO TAM LADUJE - czyli MISTRZ HANDLU przez swojego czlowieka, tak samo jak w Bialym Porcie. ### A KSIEGI JUZ TAM STOJA: NORREN SCISLY prowadzi ksiege pomostu od 300-03-03 i NIE STOI POD BORSEM, bo ksiegi i kamien to dwa krzesla. Bors buduje, Norren liczy, Mistrz Handlu laduje. Trzy krzesla, zaden nie sprawdza sam siebie.",
+   "co": "PRZYSTAN WILKA MA GOSPODARZA - ODPOWIEDZ, KTORA WYSZLA Z DREWNA, A NIE Z USTROJU. Wyman zapytal dzis, kto tam decyduje codziennie rano, bo 'trzech wlascicieli i zaden gospodarz to zwykle pusty pomost'. Pytanie stalo bez odpowiedzi, dopoki port nie mial po co istniec. ### OD CHWILI, GDY PRZYSTAN WILKA JEST DRUGA BRAMA DREWNA, GOSPODARZEM JEST TEN, KTO TAM LADUJE - czyli MISTRZ HANDLU przez swojego czlowieka, tak samo jak w Bialym Porcie. ### A KSIEGI JUZ TAM STOJA: NORREN SCISLY prowadzi ksiege pomostu od 300-03-03 i NIE STOI POD BORSEM, bo ksiegi i kamien to dwa krzesla. Bors buduje, Norren liczy, Mistrz Handlu laduje. Trzy krzesla, zaden nie sprawdza sam siebie. ### 300-03-14 ROZSTRZYGNIETE: GOSPODARZEM ZOSTAJE BORS. Wyman na miejscu; do Cerwyna idzie pismo na jego zamek.",
    "kto": "SYMON + WYMAN + CERWYN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "gospodarz Przystani Wilka wskazany i przyjety przez trzech wlascicieli",
-   "status": "otwarte"
+   "status": "ROZSTRZYGNIETE 300-03-14 - czeka zgoda Cerwyna na jego cwiartke"
   },
   {
    "data": "300-03-13",
@@ -2645,6 +2645,15 @@
    "kanal": "kruk Bialy Port-Fosa, potem trakt Fosa-Winterfell",
    "wraca": "300-03-24",
    "zamyka": "karta w Winterfell, w czystopisie, przed Rada",
+   "status": "otwarte - NOWE"
+  },
+  {
+   "data": "300-03-17 (u niego) / odpowiedz ~300-03-21",
+   "co": "PISMO DO CERWYNA - GOSPODARZ PRZYSTANI WILKA. Uklad: Korona 1/2, Cerwyn 1/4, Manderly 1/4. Wyman zgodzil sie na miejscu; Cerwyn ma sie dowiedziec LISTEM, A NIE NA RADZIE PRZY CZTERNASTU DOMACH. ⚠ ADRES: ZAMEK CERWYNA, nie Fosa - Cerwyn wyjechal z Fosy 300-03-05; na Fosie zostal tylko Tommard Kosa, i to do 03-30. TRESC: Bors, mistrz robot od 299-08-27, mieszczanin bez pana, cech go wypuscil, nikomu nie zawdziecza chleba - i dlatego moze byc czlowiekiem PORTU, a nie ktorejs z trzech cwiartek. ⚠ DO POWIEDZENIA WPROST, ZEBY NIE ODKRYL TEGO SAM: Bors BUDUJE i mialby ODBIERAC. Zabezpieczenie: karta osmiorubrykowa (Karta I, 300-04-01), ktorej rubryk sam nie ustala, a odbior zostaje osobno.",
+   "kto": "SYMON -> MEDGER CERWYN",
+   "kanal": "kruk Bialy Port-Zamek Cerwyna",
+   "wraca": "~300-03-21",
+   "zamyka": "zgoda Cerwyna albo jego wlasny kandydat - przed Rada, nie na niej",
    "status": "otwarte - NOWE"
   }
  ]

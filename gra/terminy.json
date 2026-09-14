@@ -1953,6 +1953,15 @@
    "wraca": "300-03-30",
    "zamyka": "karta cechow na Radzie: Korona zakazuje zamykania fachu, miasto nadaje cechy, proba sprawdza umiejetnosc",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "⚠ UMOWA Z WYMANEM - PRZEWLOKA I LANCUCH DWOCH MORZ. TO JEST TO, PO CO SIE TU JEDZIE, I TERMIN WYPADA JUTRO (~300-03-13). Zapisane 300-03-01: 'LICZBA, NA KTOREJ WISI UMOWA Z WYMANEM: JEDENASCIE MIL I CWIERC' od wschodniej bramy Cailin do slonej wody. Na tej samej liczbie wisza DOK W UJSCIU i CALY LANCUCH DWOCH MORZ. ### PROFIL ZMIERZONY PRZEZ WEYLINA I ORBELA 300-03-01 (pierwsze popoludnie, swiatla bylo 4-5 godzin): (a) TRZY MILE TWARDEGO - stary grunt grobli, niesie woz w kazda pogode; (b) PIEC MIL, KTORE WYGLADAJA NA TWARDE I NIE SA - w mroz niosa, a w poludnie kij Weylina wszedl na dlugosc przedramienia. 'Panie, gdybysmy mierzyli rano, wpisalbym te piec mil jako pierwsza klase i sklamalbym nie chcac'; (c) TRZY I CWIERC MILI PRAWDZIWEGO BAGNA. ### CENA WEDLE STANDARDU (punkt 10: klasa I 8-12 smokow/mile, II 18-25, III bagno na palach 35-50): 3 mile x 8-12 = 24-36 · 5 mil x 18-25 = 90-125 · 3,25 mili x 35-50 = 114-163. ### RAZEM OKOLO 230-325 SMOKOW. ### I TU SIE WSZYSTKO SPINA: SPOR O DWIE LICZBY TO NIE JEST SPOR O SZNUR, TYLKO O CENE. Czlowiek Wymana zmierzyl DLUZEJ i PO GORSZYM GRUNCIE - czyli przesunal mile z klasy taniej do drozszej. Kazda mila przesunieta z klasy II do III to 15-25 smokow roznicy. ### DLATEGO WYMAN POLOZYL TO NA STOLE PIERWSZY I SAM: PODPISUJA JUTRO, a bez trzeciej reki nie ma ceny. ### ⚠ I ZASADA Z 300-02-28, KTORA ZOSTALA ZLAMANA NIE ZLA WOLA, TYLKO KALENDARZEM: mialo byc nie 'damy mu liczbe', tylko 'ZMIERZYMY RAZEM' - precedens joint-walku z lady Dustin pod dwie pieczecie, ktorego caly sens jest w tym, ze ANGAZUJE GO, ZANIM PODPISZE. Jego czlowiek dojechal po tym, jak nasza ekipa juz mierzyla. Stad dwie liczby, a nie jedna.",
+   "kto": "SYMON + WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "umowa podpisana albo swiadomie odlozona - i przy jakiej liczbie",
+   "status": "otwarte - JUTRO"
   }
  ]
 }

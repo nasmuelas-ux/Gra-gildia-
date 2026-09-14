@@ -800,7 +800,7 @@
       "kanal": "siatka Willi",
       "wraca": "300-03-03",
       "zamyka": "nazwisko albo uczciwe 'slad sie urwal i gdzie'",
-      "status": "otwarte"
+      "status": "ZAMKNIETE 300-03-03 (rzut 9) - SLAD URWANY, jedna slepa reka zamilkla; firewall trzyma, reka Symona nadal ukryta"
     },
     {
       "data": "300-03-08",
@@ -1070,6 +1070,33 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-30",
       "zamyka": "rachunek zamkniety, jawny i zdolny wytrzymac pytanie na Radzie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-03 - PRZYSZLO",
+      "co": "ZWEZENIE WILLI - RZUT 9, ZLE. 'Slad sie urwal i urwal sie ZA CZYSTO.' JEDNA ZE SLEPYCH RAK PRZESTALA ODPOWIADAC - nie zlapana, nie ostrzegajaca, po prostu MILCZY od dwoch tygodni. Willa nie wie, czy czlowiek zyje. ### CO TRZYMA I TO JEST JEDYNA DOBRA WIADOMOSC: FIREWALL WYTRZYMAL. Reka Symona nadal ukryta - ten sam protokol-na-dystans, ktory wytrzymal juz raz, 299-08-14. Nie wiedza KTO, wiedza ZE. ### JEJ WLASNA OCENA, PODANA BEZ PROSZENIA: 'Zawezenie bylo tym, co nas odslonilo. Dopoki szukalam POSREDNIKA, bylam jedna z wielu. Odkad szukam JEGO, jestem jedna z niewielu.'",
+      "kto": "WILLA",
+      "kanal": "siatka Willi",
+      "wraca": "300-03-03",
+      "zamyka": "przeczytane",
+      "status": "zrobione"
+    },
+    {
+      "data": "300-03-07",
+      "co": "DECYZJA O SIATCE POLUDNIOWEJ - do rozstrzygniecia przed wyjazdem. Willa radzi ZATRZYMAC zwezenie i wrocic do szerokiego tropu; nie odmawia, ale zapisala swoje zdanie. ⚠ DWA INNE NASZE PISMA SIEGAJA DZIS KU TEMU SAMEMU DWOROWI: lista jencow do ZELAZNEGO TRONU (wyszla 300-03-02, wraca ~03-22) i list do OLENNY krukiem przez STARMIASTO. Trzy nitki do poludnia w ciagu dwoch tygodni, kazda inna reka - ale kazda z tego samego domu.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07",
+      "zamyka": "rozkaz: zwezac dalej, wrocic do szerokiego, albo odstawic na czas",
+      "status": "otwarte - DO ROZSTRZYGNIECIA"
+    },
+    {
+      "data": "300-03-17",
+      "co": "MILCZACA REKA WILLI - czy czlowiek zyje. Dwa tygodnie ciszy na kanale, ktory dotad odpowiadal. Willa NIE POSLE drugiego po pierwszego - 'tak sie traci dwoch zamiast jednego'. Czeka do polowy miesiaca i dopiero wtedy uznaje go za straconego.",
+      "kto": "WILLA",
+      "kanal": "siatka Willi",
+      "wraca": "300-03-17",
+      "zamyka": "odezwie sie albo zostaje spisany",
       "status": "otwarte"
     }
   ]

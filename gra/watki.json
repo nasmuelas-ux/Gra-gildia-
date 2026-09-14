@@ -1280,7 +1280,7 @@
    "id": "lojalna_siec_wywiadu",
    "status": "STAŁY WYWIAD (07-12) - niewidzialna sieć wczesnego ostrzeżenia (Garth+szachownica), firewall absolutny",
    "_dziennik_opis": 2,
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "firma_skalowanie",
@@ -3177,7 +3177,7 @@
    "id": "keystone_dowod_kazirodztwa_1219",
    "tytul": "KEYSTONE: dowod kazirodztwa zdobyty (wzor krwi + ksiega + trop Jona Arryna) - bron nabita",
    "status": "WYSTRZELONY_PUBLICZNIE_299-03-15",
-   "_dziennik_nota": 6,
+   "_dziennik_nota": 7,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Bron wystrzelona, nie nabita. Dowod dostarczony Stannisowi ~299-03-15 po zapieczetowaniu Aktu niepodleglosci (warunek Robba dotrzymany), Stannis oglosil 299-03-15 (rzut 59). Cios mocny, nie nokaut - delegitymizacja zasadzona i ropieje. Caly pozytek Polnocy wziety, zaplacil Stannis. Skutek zyje osobno w stan_poludnia_hollow_tron_299_07."
@@ -4017,7 +4017,7 @@
    "id": "cien_za_baelishem_299_07",
    "tytul": "Cien za Baelishem - operacja wywiadowcza Willi (przez swiat monety/Rozdroze-Dolina)",
    "status": "URUCHOMIONY_07-24_WYNIK_DOJRZEJE_tygodnie_rzut66_zabankowany",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "filar": "BAELISH",
    "stan_watku": "ZYWY"
   },

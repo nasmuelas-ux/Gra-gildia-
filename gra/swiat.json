@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 3,
-  "dzien": 13,
+  "dzien": 14,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
  "pogoda": "RZUT 7 (300-03-13) - SZTORM OD MORZA, PIERWSZY WIOSENNY. Wiatr wschodni, deszcz ze sniegiem, fala przez glowice mola. NAJGORSZY DZIEN PORTOWY OD TYGODNI I WYPADA NA TEN. SKUTKI: (1) NABRZEZE STOI - nic nie wchodzi i nic nie wychodzi; PIERWSZA PARTIA TOWARU KORONY NIE WEJDZIE DZIS. (2) PODPIS Z WYMANEM IDZIE NORMALNIE - akty podpisuje sie pod dachem. (3) KRUKI NIE LECA. (4) Na Fosie: wiatr od morza doszedl w glab, kanaly wzbieraja.",
- "dzien_tygodnia_nr": 7,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "brak",
- "dzien": 13,
+ "dzien": 14,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 101,
+ "_dziennik_nota": 103,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

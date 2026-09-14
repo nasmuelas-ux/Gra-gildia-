@@ -426,10 +426,10 @@
   },
   {
    "data": "wyslany 300-02-27",
-   "co": "LIST DO ROOSE'A BOLTONA - nie czeka na spotkanie. Ta sama sprawa co weksel.",
+   "co": "LIST DO ROOSE'A BOLTONA - nie czeka na spotkanie. Ta sama sprawa co weksel. ### 300-03-14 ODPOWIEDZ PRZYSZLA (rzut 77): PRZYJEDZIE NA RADE bez warunkow · WEKSEL - oferuje wykup W MONECIE (lepiej, niz proszono, dla papieru lezacego piaty miesiac) · ⚠ O RAMSAYU ANI SLOWA, mimo ze wezwanie poszlo do czterdziestu domow.",
    "kto": "ROOSE BOLTON",
    "zamyka": "odpowiedz ALBO milczenie do Rady 300-04-01 - i wtedy milczenie jest odpowiedzia",
-   "status": "otwarte",
+   "status": "ODPOWIEDZ 300-03-14 - dwie rzeczy zalatwione, trzecia przemilczana",
    "kanal": "jezdziec Fosa-Bialy Port",
    "wraca": "300-03-13"
   },
@@ -1061,7 +1061,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "liczba zysku wpisana do ksiegi Domu, jawnie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-12 - rachunek po koszcie potwierdzony, zysk wychodzi z formy splaty, nie z marzy wstecz"
   },
   {
    "data": "300-03-30",
@@ -1610,7 +1610,7 @@
    "kanal": "jezdziec Fosa-Bialy Port",
    "wraca": "300-03-13",
    "zamyka": "pismo do Gawena: calosc w towarze, lista i KOLEJNOSC partii wybrana przez Dom",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-12 - forma zwrotu domknieta z Halem, calosc w towarze"
   },
   {
    "data": "300-03-06",
@@ -1925,7 +1925,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "zgloszenie sie u pana miasta - albo swiadoma decyzja, ze nie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-12 - Symon zglosil sie sam, rozmowa odbyta"
   },
   {
    "data": "300-03-12",
@@ -2123,7 +2123,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "korce z portu z rubryka stanu przy kazdej partii - albo swiadome nie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-13 - zrodlo wybrane, odczyt przed zaplata, Orin i Thell sciagani"
   },
   {
    "data": "300-03-12",
@@ -2132,7 +2132,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "przeladunek przygotowany jawnie wobec pana portu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-12 - Wyman powiadomiony wprost, ma oslone"
   },
   {
    "data": "300-03-13",
@@ -2150,7 +2150,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "Medrick mowi tak albo nie, sam",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-12 - rozmowa odbyta, Medrick wskazal Obara (rzut 67)"
   },
   {
    "data": "300-03-12",
@@ -2195,7 +2195,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "czlowiek do Pentos wskazany i droga pozwolenia nazwana",
-   "status": "otwarte - OBSADZONA, CZEKA NA WPROWADZENIE"
+   "status": "ZAMKNIETE 300-03-12 - OBARO obsadzony, wprowadzenie Medricka na pismie w toku"
   },
   {
    "data": "300-03-17",
@@ -2619,6 +2619,15 @@
    "wraca": "300-03-14",
    "zamyka": "ksiegi w izbie, spis skrzyn i lista uszkodzonych",
    "status": "otwarte - jutro"
+  },
+  {
+   "data": "300-03-14",
+   "co": "⚠ MILCZENIE ROOSE'A O RAMSAYU - JEDYNA TRESC TEGO LISTU, KTORA NIE JEST UPRZEJMOSCIA. Odpisal na Rade (przyjedzie) i na weksel (wykup w monecie), a wezwanie dla Ramsaya do czterdziestu domow POMINAL CALKOWICIE. Zapis mowi wprost, ze meldunek MA PASC TAKZE, JESLI RAMSAY NIE PRZYJEDZIE - termin przed 300-04-01. Czlowiek, ktory w jednym liscie liczy sie z kazdym slowem, nie zapomina o trzecim pytaniu.",
+   "kto": "SYMON / ROOSE BOLTON",
+   "kanal": "jezdziec Fosa-Bialy Port",
+   "wraca": "przed 300-04-01",
+   "zamyka": "Ramsay przyjezdza albo pada meldunek, ze nie przyjechal",
+   "status": "otwarte - NOWE"
   }
  ]
 }

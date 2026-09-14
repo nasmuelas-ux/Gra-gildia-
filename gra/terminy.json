@@ -998,7 +998,7 @@
       "kanal": "przez Lucana (Dorzecze)",
       "wraca": "300-03-31",
       "zamyka": "340 wykupione albo zrolowane, z data",
-      "status": "otwarte - PILNE"
+      "status": "ROZSTRZYGNIETE 300-03-03 - rolowanie na 90 dni, zabezpieczenie przeniesione z siewu na sol i skladowe Bialego Portu"
     },
     {
       "data": "300-03-13 - PRZED ROZMOWA Z HALEM",
@@ -1007,7 +1007,7 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-13",
       "zamyka": "rozstrzygniecie: co zabezpiecza weksle po ogloszeniu nietykalnosci siewu",
-      "status": "otwarte - PILNE"
+      "status": "ROZSTRZYGNIETE 300-03-03 - wezszy zapis: nietykalna JEDNA PRZEGRODA SIEWNA, nie cale zboze"
     },
     {
       "data": "300-03-13",
@@ -1016,6 +1016,33 @@
       "kanal": "przez Lucana (Dorzecze)",
       "wraca": "300-03-13",
       "zamyka": "korce, cena, termin dostawy - albo uczciwe nie ma",
+      "status": "WYSLANE 300-03-03 - jedno pytanie, platnosc przy odbiorze"
+    },
+    {
+      "data": "300-03-04",
+      "co": "PRZEGRODA SIEWNA - WYKONANIE. Sklad ma CZTERY PRZEGRODY (Orland Korzec). JEDNA zostaje oznaczona jako SIEWNA I NIETYKALNA; trzy pozostale sluza obrotowi i moga stac pod wekslami. ### LICZY SIE JA PRZY ZSYPIE I OD RAZU Z NORMA UBYTKU 7 NA STO - bo inaczej 'nietykalne sto korcy' po zimie jest dziewiecdziesiecioma trzema i ktos zostaje oskarzony o kradziez rzeczy, ktorej nie bylo. ### NIETYKALNE JEST TO, CO W PRZEGRODZIE, NIE SLOWO 'ZBOZE'. Oznaczenie robi WAGOWY, wpis SKARBNIK LENNA, klucz ma ORLAND - trzy rece, zadna sama.",
+      "kto": "ORLAND KORZEC + BENNIS + GERRIK RACHUBA",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-04",
+      "zamyka": "przegroda oznaczona, policzona i wpisana",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-13",
+      "co": "ROLOWANIE 340 - do uzgodnienia z Halem w Bialym Porcie: nowy termin 90 dni, zabezpieczenie ZDJETE Z ZIARNA SIEWNEGO i przeniesione na SOL, RYBE SOLONA I SKLADOWE BIALEGO PORTU. POWOD PODANY WIERZYCIELOM WPROST, BO I TAK BEDZIE JAWNY: lord oglasza nietykalnosc siewu na Radzie 300-03-30 i Dom nie chce, zeby jego papier stal na czyms, czego pan wlasnie zakazal ruszac. ⚠ CENA: rolowanie kosztuje zaufanie, a 'WEKSEL JEST CZYSTYM ZAUFANIEM'. Dlatego idzie Z POWODEM I Z WYPRZEDZENIEM, nie w dniu zapadalnosci.",
+      "kto": "HAL (Kasa 1)",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "nowy termin podpisany i nowe zabezpieczenie wpisane",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-13",
+      "co": "695 OD KORONY - SCIAGA HAL, NAMIESTNIK NIE DOTYKA (zasada wlasna z 300-02-27). Termin minal 300-03-01. To jest jedyna pozycja, ktora naprawde rozwiazuje 340 - ale forma zwrotu jest W TOWARZE, a towar nie placi weksla. PYTANIE DO HALA, ktore trzeba postawic w Bialym Porcie: CZY DA SIE CZESC 695 WZIAC W MONECIE, i jesli nie - to czy da sie towarem ZAPLACIC WIERZYCIELOM WPROST, z pominieciem kasy.",
+      "kto": "HAL -> GAWEN",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "odpowiedz: ile w monecie, ile w towarze, komu",
       "status": "otwarte"
     }
   ]

@@ -2433,12 +2433,39 @@
   },
   {
    "data": "300-03-13",
-   "co": "NAZWA PORTU WSCHODNIEGO - DO PODANIA JUTRO PRZY PODPISIE. Nie ma jej i nie wolno jej zostawic, bo to koniec lancucha dwoch morz, a lancuch bez nazwanego konca nie da sie zapisac w zadnym akcie. ### NAZWE DAJE PAN ZIEMI - grunt jest Fosy. ⚠ ALE WSPOLWLASCICIELEM BEDZIE MANDERLY, wiec nazwa, ktora bierze polowe jego i nic z niego nie ma, jest pierwsza rysa na umowie podpisanej tego samego dnia. ### TO DROBIAZG, KTORY KOSZTUJE JEDNO ZDANIE DZIS I DZIESIEC LAT SPORU, JESLI SIE GO POMINIE.",
+   "co": "NAZWA PORTU WSCHODNIEGO - DO PODANIA JUTRO PRZY PODPISIE. Nie ma jej i nie wolno jej zostawic, bo to koniec lancucha dwoch morz, a lancuch bez nazwanego konca nie da sie zapisac w zadnym akcie. ### NAZWE DAJE PAN ZIEMI - grunt jest Fosy. ⚠ ALE WSPOLWLASCICIELEM BEDZIE MANDERLY, wiec nazwa, ktora bierze polowe jego i nic z niego nie ma, jest pierwsza rysa na umowie podpisanej tego samego dnia. ### TO DROBIAZG, KTORY KOSZTUJE JEDNO ZDANIE DZIS I DZIESIEC LAT SPORU, JESLI SIE GO POMINIE. ### 300-03-12 NAZWA: UJSCIE TALLY-MANDERLY. Obie polowy w nazwie, wiec akt czyta sie tak samo w obu domach i za sto lat nikt nie bedzie dowodzil, ze port byl czyjs.",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "nazwa wpisana do umowy",
-   "status": "otwarte - DECYZJA GRACZA, JUTRO"
+   "status": "zrobione 300-03-12 - NAZWA NADANA"
+  },
+  {
+   "data": "300-03-30",
+   "co": "PIEC PRZYSTANI LADUNKOWYCH NAD RZEKAMI WSCHODU - PLAN ISTNIEJE I JEST SPISANY, ODCZYTANY NA WSKAZANIE GRACZA 300-03-12. ### GDZIE - PIEC: BIALY NOZ (istnieje w zalazku; korytarz rzeczny ruszyl 298, Wyman wskazal zakole, gdzie barki ustepuja wozom) · OSTATNIA RZEKA (Karhold) · PLACZACA WODA (Dreadfort) · ZLAMANA GALAZ (Dreadfort) · ZATOKA FOK (ujscie przy Wdowiej Straznicy). ### CZYM JEST JEDNA PRZYSTAN - I DLATEGO TO JEST WYKONALNE: SZOPA Z DREWNIANA PODLOGA + SLUP Z OGLOSZONA CENA + KSIEGA BRAMY. Ciesla i sezon. 'NAJTANSZA POZYCJA REJESTRU PO SZOPIE Z PODLOGA.' ### DOKTRYNA ZIMY, SPISANA W 298 I NIETKNIETA: RZEKA ZAMARZA NA POL ROKU, WIEC KORYTARZ RZECZNY NIE JEST STRUMIENIEM - JEST POMPA. Napelnia przednie sklady, NIM LOD ODETNIE. Liczy sie nie 'ile rocznie', tylko ILE DO ZAMARZNIECIA. Przystan bezczynna od XII do III nie jest zmarnowana - JEST NALADOWANA. ### ⚠ CENA, KTORA SYMON NAZWAL GLOSNO SAM: DWIE Z TYCH RZEK SA DREADFORTU (Placzaca Woda, Zlamana Galaz), a Ostatnia Rzeka jest Karholdu. PRZYSTAN KORONY Z WAGA, KSIEGA I CZLOWIEKIEM KORONY JEST OBECNOSCIA - i Roose przeczyta to dokladnie tak. ### WARUNEK TWARDY I NIENEGOCJOWALNY, JEGO WLASNY: ALBO STAWIAMY JE NAD WSZYSTKIMI RZEKAMI I NAPRAWDE DLA LADUNKU, ALBO NIE STAWIAMY ZADNEJ. Jesli kiedykolwiek wyjdzie, ze przystan postawiono DLA OCZU, kazda waga Korony w krolestwie staje sie podejrzana tego samego dnia.",
+   "kto": "SYMON -> RADA 300-03-30, wiazka V",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "piec przystani jako jedna uchwala, albo zadna",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "⚠ I DOPIERO TERAZ PIEC PRZYSTANI MA PO CO ISTNIEC - BO DO DZIS BYLY O WIDOCZNOSCI, A NIE O TOWARZE. Plan z 298 stawial je jako 'SCIEZKE A POSTAWIONA Z DESEK: miejsce, gdzie ksiega jest prawdziwa, powtorzone piec razy wzdluz wschodniego brzegu'. To byl argument o rubryce. ### OD 300-03-12 MAJA DRUGI, GRUBSZY POWOD: PIEC PRZYSTANI NA WSCHODNIM BRZEGU TO PIEC BRAM DREWNA, a drewno jest jedynym dochodem Korony, ktory nie jest danina. ### I TO ZMIENIA CALA ROZMOWE Z LORDAMI WSCHODU: dotad Korona przychodzila z WAGA I KSIEGA, czyli z kontrola. Teraz przychodzi z WAGA, KSIEGA I KUPCEM - a kupiec placi. Bolton i Karstark nie dostaja urzednika przy swojej rzece. DOSTAJA CENE ZA DRZEWO, KTORE JUZ MAJA, i urzednika przy okazji. To ta sama przystan i zupelnie inne zdanie.",
+   "kto": "SYMON",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "przystanie i drewno wchodza na Rade jako jedno, nie jako kontrola osobno i handel osobno",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-20",
+   "co": "KTORE Z PIECIU PRZYSTANI ISTNIEJA NAPRAWDE - ZANIM RZECZ PADNIE NA RADZIE. Zapis mowi tylko o jednej: BIALY NOZ 'ISTNIEJE W ZALAZKU'. O pozostalych czterech zapis nie mowi, ze stoja, i NIE ZGADUJE (zasada 44). ### Na Radzie nie wolno powiedziec 'mamy piec przystani', jesli mamy jedna w zalazku - bo pierwszy lord, ktory pojedzie sprawdzic, zrobi z tego swoja pozycje. ### PYTANIE IDZIE TAM, GDZIE SA LICZBY: ksiega bramy Gartha i rejestr Melli nie obejmuja wschodu, wiec pyta sie GARRICKA (kancelaria) i WYMANA, ktory liczy zagle na tych wodach od miesiecy.",
+   "kto": "GARRICK + WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-20",
+   "zamyka": "ile przystani stoi, ile jest w zalazku, ile jest tylko na papierze",
+   "status": "otwarte"
   }
  ]
 }

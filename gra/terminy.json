@@ -872,6 +872,33 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-07",
       "zamyka": "trzy karty osmiorubrykowe wyslane, z dniem miesiaca",
+      "status": "ZROBIONE 300-03-03 - trzy karty spisane, dokument gra/osiem_rubryk_trzy_budowy_300_03_03.md; wychodza z poczta wieczorna"
+    },
+    {
+      "data": "300-04-01",
+      "co": "KARTA I - BORS, PRZYSTAN WILKA. Osiem rubryk: ludzie imiennie i czyj kazdy · co stanelo w sazniach · co stoi i od ilu dni · kamien i wapno · drewno i zelazo · straty · CZYIM KOSZTEM (ktora cwiartka za co) · BASZTA OSOBNO. Pierwszego dnia miesiaca, takze pusta.",
+      "kto": "BORS",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-04-01",
+      "zamyka": "karta na stole",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-01",
+      "co": "KARTA II - DONNEL OBROK, DUSTINPORT. Osiem rubryk: ludzie imiennie i ilu odbitych bez domu · co stanelo i co stoi · kadluby · material · straty · co zjada przyczolek · KWITY, KTORE SIE NIE ZGADZAJA Z LADUNKIEM (rubryka pisana pod jego wlasna kompetencje) · czego brakuje, JEDNA rzecz.",
+      "kto": "DONNEL OBROK",
+      "kanal": "jezdziec Fosa-Dustinport",
+      "wraca": "300-04-01",
+      "zamyka": "karta na stole",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-01",
+      "co": "KARTA III - THEOMORE, GLEBOKORZEN. Osiem rubryk: ilu z dziesieciu uczniow zostalo IMIENNIE i podany powod odejscia · co spisano · CZEGO NIE UDALO SIE SPISAC I DLACZEGO · biblioteka · koszt miesiaca · gmach w Przystani Wilka · kogo wziac nastepnego · czego brakuje.",
+      "kto": "THEOMORE",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-04-01",
+      "zamyka": "karta na stole",
       "status": "otwarte"
     }
   ]

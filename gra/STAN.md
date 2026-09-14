@@ -21,8 +21,21 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Kazde nadanie, kazdy wakat i kazdy termin dopisuje sie TAM w tej samej turze, w ktorej padl.**
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
-## 🎲 KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD**, nie z pamieci
-**70 pozycji otwartych.** Kazda, ktorej czas drogi minal, MUSI dostac rozstrzygniecie: przyszlo / nie przyszlo I WIADOMO DLACZEGO / przyszlo co innego.
+## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
+**70 otwartych** · **7 PRZETERMINOWANYCH** · 1 wraca dzis
+
+### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
+_przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
+- **+92 dni** — LIST DO STANNISA BARATHEONA, redakcja II, z ZAPROSZENIEM DO PENTOS. Os odmowy udzialu w wojnie wyrzucona - sprawa miedzy koronami … · _kanal:_ morze na poludnie (Reach, Highgarden) · _zamyka:_ odpowiedz ze Smoczej Skaly
+- **+32 dni** — MELDUNEK VII OSRICA (Mur) - zalegly. ⚠ TO NIE JEST ZALEGLOSC URZEDOWA: TEDY MA WROCIC ODPOWIEDZ OD MANCE'A RAYDERA. Poslaniec za M… · _kanal:_ przez Osrica (Mur) · _zamyka:_ meldunek
+- **+22 dni** — LIST DO HALA: WYKUPIC WEKSEL DANY BOLTONOM. Podstawa: 299-10-20 Dreadfort, zamiec - postoj oplacony WEKSLEM NA DOM TALLY, Roose pr… · _kanal:_ kruk Fosa-Bialy Port · _zamyka:_ weksel w rekach Domu albo pisemna odmowa Roose'a
+- **+22 dni** — LIST DO GAWENA: czlowiek do PRZYSTANI WILKA - 'czego szukac, nie kogo'. Zbiega sie z cisza o statusie budowy Przystani (pyta tez C… · _kanal:_ kruk Winterfell-Fosa · _zamyka:_ nazwisko albo opis czlowieka
+- **+13 dni** — PRZYSTAN WILKA - status budowy; pyta CERWYN jako wspolwlasciciel cwiartki; podanie nazwiska budowniczego jest czescia odpowiedzi · _kanal:_ jezdziec Fosa-Dustinport · _zamyka:_ meldunek z nazwiskiem
+- **+13 dni** — DONNEL OBROK (Dustinport, budowa) - pytanie pod pieczecia, jezdziec eskadry · _kanal:_ jezdziec Fosa-Dustinport · _zamyka:_ meldunek w formie osmiu rubryk
+- **+2 dni** — POMIAR OSWYNA - zlecenie z 299-09-13: przez cala zime MIERZYC TEN SAM SKLAD przy zsypaniu i przy wysypaniu i spisywac roznice. W z… · _kanal:_ kruk Winterfell-Fosa · _zamyka:_ liczba roznicy zsyp/wysyp za zime
+
+### 🟡 WRACA DZIS
+- PRZYPOMNIENIE O REJESTRATORZE KORONY. Jedno zdanie, bez nazwiska, spisane przez Garricka pod dyktando: 'KRZESLO REJESTRATORA KORON… · _kanal:_ kruk Winterfell-Fosa
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -469,8 +482,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `przywilej_bagienny_fosa_300_02` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-03-03] `mur_mance_rayder_i_lud_za_murem_299_09`: ### PYTANIE GRACZA: 'a Osric pytajacy Mance Raydera? Taki list kojarzysz?'. ODPOWIEDZ: NIE SKOJARZYLEM - I TO JEST NAJWIEKSZA DZIURA CALEGO PRZEGLADU. || ### CO JEST W KSIEDZE: 300-02-06, pr…
-- [300-03-03] `raport_osrica_z_muru_299_10`: ### PYTANIE GRACZA: 'a Osric pytajacy Mance Raydera? Taki list kojarzysz?'. ODPOWIEDZ: NIE SKOJARZYLEM - I TO JEST NAJWIEKSZA DZIURA CALEGO PRZEGLADU. || ### CO JEST W KSIEDZE: 300-02-06, pr…
 - [300-03-03] `spotkanie_ze_stannisem_w_pentos_299_09`: ### PYTANIE GRACZA: 'a Osric pytajacy Mance Raydera? Taki list kojarzysz?'. ODPOWIEDZ: NIE SKOJARZYLEM - I TO JEST NAJWIEKSZA DZIURA CALEGO PRZEGLADU. || ### CO JEST W KSIEDZE: 300-02-06, pr…
 - [300-03-03] `maester_aemon`: ### PYTANIE GRACZA: 'a Osric pytajacy Mance Raydera? Taki list kojarzysz?'. ODPOWIEDZ: NIE SKOJARZYLEM - I TO JEST NAJWIEKSZA DZIURA CALEGO PRZEGLADU. || ### CO JEST W KSIEDZE: 300-02-06, pr…
 - [300-03-03] `wielka_rada_porzadek_obrad_300_04`: ### PYTANIE GRACZA: 'a Osric pytajacy Mance Raydera? Taki list kojarzysz?'. ODPOWIEDZ: NIE SKOJARZYLEM - I TO JEST NAJWIEKSZA DZIURA CALEGO PRZEGLADU. || ### CO JEST W KSIEDZE: 300-02-06, pr…
@@ -481,3 +492,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-03-03] `raport_osrica_z_muru_299_10`: ### ZASADA 40 WPISANA + SKUTKI POSELSTWA ZA MUR WYDANE. Wskazanie gracza 300-03-03: 'jesli wysylam list, to on powinien wywolywac ciag przyczynowo-skutkowy'. MA RACJE I TO JEST WLASCIWA DIAG…
 - [300-03-03] `ustroj_urzedow`: ### ZASADA 40 WPISANA + SKUTKI POSELSTWA ZA MUR WYDANE. Wskazanie gracza 300-03-03: 'jesli wysylam list, to on powinien wywolywac ciag przyczynowo-skutkowy'. MA RACJE I TO JEST WLASCIWA DIAG…
 - [300-03-03] `korona/OSRIC`: ### ZASADA 40 WPISANA + SKUTKI POSELSTWA ZA MUR WYDANE. Wskazanie gracza 300-03-03: 'jesli wysylam list, to on powinien wywolywac ciag przyczynowo-skutkowy'. MA RACJE I TO JEST WLASCIWA DIAG…
+- [300-03-03] `ustroj_urzedow`: ### ZASADA 41 - KANAL I DATA POWROTU PRZY KAZDEJ RZECZY WYSLANEJ. Konstrukcja zaproponowana przez gracza 300-03-03: 'czy nie lepiej wyslany list zahaczyc z jakims terminem i dzialaniem zawsz…
+- [300-03-03] `kancelaria_namiestnika_299_09`: ### ZASADA 41 - KANAL I DATA POWROTU PRZY KAZDEJ RZECZY WYSLANEJ. Konstrukcja zaproponowana przez gracza 300-03-03: 'czy nie lepiej wyslany list zahaczyc z jakims terminem i dzialaniem zawsz…

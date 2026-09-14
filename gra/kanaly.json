@@ -1,0 +1,19 @@
+{
+  "_opis": "CZAS DROGI. Kazdy termin dostaje KANAL, a z kanalu liczy sie date, na ktora cos MA WROCIC. Bez tego termin jest tylko data, ktora minie (zasada 38), a list jest wpisem zamiast przyczyny (zasada 40).",
+  "_jak_liczyc": "wraca = data_wyslania + tam + na_miejscu + z_powrotem. Dla pisma, ktore nie wymaga odpowiedzi, wraca = data_wyslania + tam.",
+  "kanaly": {
+    "kruk Winterfell-Fosa": {"tam": 2, "wraca_lacznie": 4, "zrodlo": "zapis 300-02-16"},
+    "kruk Fosa-Bialy Port": {"tam": 2, "wraca_lacznie": 4, "zrodlo": "zapis 299-08-26, 300-03-03"},
+    "jezdziec Fosa-Bialy Port": {"tam": 7, "wraca_lacznie": 14, "zrodlo": "6-8 dni, zapis 299-08-12"},
+    "trakt Fosa-Winterfell": {"tam": 6, "wraca_lacznie": 12, "zrodlo": "zapis 300-03-02"},
+    "jezdziec Fosa-Dustinport": {"tam": 4, "wraca_lacznie": 8, "zrodlo": "eskadra, meldunki Torrena"},
+    "morze Bialy Port-Braavos": {"tam": 21, "wraca_lacznie": 45, "zrodlo": "9-14 dni bez postojow, ~3 tyg. tempem handlowym"},
+    "Braavos pelne poselstwo": {"tam": 75, "wraca_lacznie": 150, "zrodlo": "2,5 miesiaca w jedna strone, zapis 299-08-20"},
+    "morze na poludnie (Reach, Highgarden)": {"tam": 35, "wraca_lacznie": 75, "zrodlo": "Fosa->Bialy Port 6-8 dni, potem morzem"},
+    "poslaniec do Greywater Watch": {"tam": null, "wraca_lacznie": null, "zrodlo": "warownia PLYWA, kruk jej nie znajdzie; poslaniec czeka przy grobli, az krannogowie wyjda - dzien albo dwa tygodnie", "sprawdzaj_co": 14},
+    "za Mur": {"tam": null, "wraca_lacznie": null, "zrodlo": "KRUK NIE LATA ZA MUR. Czlowiek wychodzi i wraca albo nie wraca. Od 300-03-03 nie ma tez przewodnika - tlumacz odmowil.", "sprawdzaj_co": 14},
+    "przez Osrica (Mur)": {"tam": null, "wraca_lacznie": null, "zrodlo": "adres Osrica to WINTERFELL, nie Fosa - wszystko z Muru idzie okrezna droga", "sprawdzaj_co": 14},
+    "przez Lucana (Dorzecze)": {"tam": 10, "wraca_lacznie": 21, "zrodlo": "Riverrun przez Dorzecze"},
+    "wlasny czlowiek na Fosie": {"tam": 0, "wraca_lacznie": 1, "zrodlo": "zasada 7 - rzecz zlecona i obsadzona idzie sama"}
+  }
+}

@@ -13,7 +13,7 @@ na zadanie z dziennika:
 Zrodlo prawdy = gra/*.json + gra/db/wpisy.jsonl. NIGDY pamiec rozmowy.
 Uruchom: python3 gra/stan.py
 """
-import json, os, io
+import json, os, io, re
 
 D = os.path.dirname(os.path.abspath(__file__))
 ZAMKNIETE = ("zrealizowany", "rozstrzygniete", "zamkniete", "uniewazniony", "void")
@@ -108,10 +108,48 @@ A("## ⚠️ 38 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI 
   "**Kazde nadanie, kazdy wakat i kazdy termin dopisuje sie TAM w tej samej turze, w ktorej padl.**\n"
   "**Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**\n")
 
+def _dni(rok, mies, dz):
+    return (rok * 12 + mies) * 30 + dz
+
+
+_DZIS = _dni(d.get("rok") or 0, d.get("miesiac") or 0, d.get("dzien") or 0)
+
+
+def _parsuj(txt):
+    m = re.search(r"(\d{3,4})-(\d{2})-(\d{2})", str(txt or ""))
+    return _dni(int(m.group(1)), int(m.group(2)), int(m.group(3))) if m else None
+
+
 if TERMINY:
     _otw = [t for t in (TERMINY.get("terminy") or []) if "otwarte" in (t.get("status") or "")]
-    A("## 🎲 KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD**, nie z pamieci")
-    A("**%d pozycji otwartych.** Kazda, ktorej czas drogi minal, MUSI dostac rozstrzygniecie: przyszlo / nie przyszlo I WIADOMO DLACZEGO / przyszlo co innego." % len(_otw))
+    _zal, _dzis_ = [], []
+    for t in _otw:
+        w = _parsuj(t.get("wraca") or "")
+        if w is None:
+            continue
+        if w < _DZIS:
+            _zal.append((_DZIS - w, t))
+        elif w == _DZIS:
+            _dzis_.append(t)
+    _zal.sort(key=lambda x: -x[0])
+    A("## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**")
+    A("**%d otwartych** · **%d PRZETERMINOWANYCH** · %d wraca dzis" % (len(_otw), len(_zal), len(_dzis_)))
+    if _zal:
+        A("")
+        A("### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE")
+        A("_przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._")
+        for _sp, t in _zal[:20]:
+            A("- **+%d dni** — %s · _kanal:_ %s · _zamyka:_ %s" % (
+                _sp, skrot(t.get("co", "?"), 130), t.get("kanal", "BRAK KANALU"), skrot(t.get("zamyka", "?"), 70)))
+    if _dzis_:
+        A("")
+        A("### 🟡 WRACA DZIS")
+        for t in _dzis_:
+            A("- %s · _kanal:_ %s" % (skrot(t.get("co", "?"), 130), t.get("kanal", "?")))
+    _bezk = [t for t in _otw if not t.get("kanal")]
+    if _bezk:
+        A("")
+        A("### ⚠ BEZ KANALU I DATY POWROTU (%d) — zasada 41: to nie sa terminy, tylko zyczenia" % len(_bezk))
     A("")
 
     A("## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)")

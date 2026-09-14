@@ -3,7 +3,9 @@
   "_aktualizacja": "300-03-03 - przeglad WSZYSTKICH wyslanych pism",
   "_legenda": {
     "zamyka": "zdarzenie, ktore konczy pozycje - bez niego termin tylko mija",
-    "status": "otwarte | zrobione | przepadlo"
+    "status": "otwarte | zrobione | przepadlo",
+    "kanal": "droga, ktora rzecz idzie - czas przejscia w gra/kanaly.json",
+    "wraca": "DATA, NA KTORA COS MA WROCIC. Po niej pozycja wchodzi do PRZETERMINOWANYCH w STAN.md i MUSI dostac rozstrzygniecie."
   },
   "terminy": [
     {
@@ -11,203 +13,237 @@
       "co": "ROZWIAZANIE MIRY, Bialy Port. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno, a DRUGIE przychodzi predzej niz pierwsze'",
       "kto": "RHONA, WENNA, ELNA; Lyra u Elny",
       "zamyka": "wiadomosc z Bialego Portu (kruk 2 dni, jezdziec 6-8)",
-      "status": "otwarte - moze juz sie stalo"
+      "status": "otwarte - moze juz sie stalo",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-03-05"
     },
     {
       "data": "300-03-05",
       "co": "Cerwyn wyjezdza; odpis urzadzen Fosy ma byc gotowy",
       "kto": "dwaj pisarze",
       "zamyka": "odpis wreczony",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-06",
       "co": "czlowiek Wymana na Fosie - pomiar przewloki pod dwie pieczecie",
       "kto": "Weylin + Orbelo + czlowiek Wymana",
       "zamyka": "wspolne przejscie sznurem",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-03-06"
     },
     {
       "data": "300-03-06..08",
       "co": "odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency)",
       "kto": "GARRICK rozdziela",
       "zamyka": "czesc koronna w bieg, czesc prywatna zapieczetowana do ksiegi Domu",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-08"
     },
     {
       "data": "300-03-07",
       "co": "WYJAZD SYMONA z Fosy",
       "kto": "Symon + przyboczna (Sten)",
       "zamyka": "wyjazd",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-07",
       "co": "pierwsza KARTA ZYWNOSCIOWA (geby, korce, na ile dni)",
       "kto": "Orland + Warryn",
       "zamyka": "karta na stole",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-07",
       "co": "ODBICI BEZ DOMU - ilu Fosa bierze; limit z karty, nie z uznania",
       "kto": "Symon",
       "zamyka": "liczba wpisana",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-07",
       "co": "pytania proby wstepnej dla lawy",
       "kto": "MELLA",
       "zamyka": "pytania oddane lawie",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-07",
       "co": "KARTA ODHACZEN GARRICKA - czwarta kolumna (idzie / stoi / pyta kancelarie) przy kazdym wierszu",
       "kto": "GARRICK",
       "zamyka": "karta wypelniona",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-07",
       "co": "przywilej bagienny - szesc rzemiosl na slup; zegar pana",
       "kto": "WARRYN + lawa",
       "zamyka": "slup",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-07",
       "co": "cena minimalna z iloscia + cena dzisiejsza + oferta kupna nasienia na slup",
       "kto": "Herwin / wagowy",
       "zamyka": "obwieszczenie na slupie",
-      "status": "zrobione 300-03-03"
+      "status": "zrobione 300-03-03",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-09",
       "co": "WARRYN ZAMYKA RACHUNEK ETAPU I (dwa niepoliczone otwory: kamien z zewnatrz, szesc pozycji Kasy 2)",
       "kto": "WARRYN",
       "zamyka": "liczba",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "po 300-03-09",
       "co": "najwczesniejsza uczciwa data papieru dluznego lenna (8,5 prosty, 5 lat, odnawialny)",
       "kto": "Symon + Hal",
       "zamyka": "suma emisji i srodek wierzyciela",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-10",
       "co": "CICHY KUPIEC rusza (sol, ksiega Domu, sfera Dreadfortu)",
       "kto": "WILLA",
       "zamyka": "wyjazd",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "~300-03-13",
       "co": "BIALY PORT - WYMAN: podpis Ujscia z reki do reki, splawnosc Samotnych Wzgorz, udzial w drewnie, Medrick, dwa nowe porty",
       "kto": "Symon",
       "zamyka": "podpis",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "~300-03-13",
       "co": "BIALY PORT - HAL: placowki (Braavos, Pentos, Gulltown, Highgarden), obrot przez rece cechowe, forma zwrotu 695, POCHODZENIE ziarna, suma emisji",
       "kto": "Symon + Hal",
       "zamyka": "rozmowa w oczy",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "~300-03-13",
       "co": "koniec przewagi NIEOGLOSZONEGO STATUTU - do podpisu Wymana",
       "kto": "-",
       "zamyka": "podpis albo utrata przewagi",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-29",
       "co": "CZTERNASCIE KART DO KWATER - dwie kolumny: NAD TYM GLOSUJECIE / TO OGLOSZONO; plus druga prosba do domow",
       "kto": "kancelaria",
       "zamyka": "karty zaniesione",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-30",
       "co": "WIELKA RADA. 0. MUR (meldunek + aklamacja) - I. ZIEMIA BEZ PANA (pod glosy sama PROBA) - II. WODA - III. CHLEB + REWIZJA - IV. HANDEL",
       "kto": "Symon, Cerwyn, Wyman",
       "zamyka": "cztery glosowania i aklamacja",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-04-01",
       "co": "ZALEGLOSC KARHOLDU 148/160 - dwanascie",
       "kto": "Korona",
       "zamyka": "zaplata albo zaleglosc",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "przed 300-04-01",
       "co": "RAMSAY - wezwanie do czterdziestu domow; meldunek MA PASC TAKZE, JESLI NIE PRZYJEDZIE",
       "kto": "kancelaria -> Symon (Bialy Port do ~20.III, potem Winterfell)",
       "zamyka": "meldunek o przyjezdzie ALBO o niestawieniu sie",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-04-01",
       "co": "BRACTWO RZEMIOSLA WOLNEGO - miasto wykonuje statut",
       "kto": "miasto Cailin",
       "zamyka": "wykonanie",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "ten tydzien",
       "co": "FEVER polowa (a): ile tygodni rzeka stoi - kanal Warryna do krannogmenow + przewoznicy z brodu",
       "kto": "WARRYN",
       "zamyka": "odpowiedz",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "poslaniec do Greywater Watch"
     },
     {
       "data": "ten tydzien",
       "co": "NARYBEK do stawow + ROSLINY JADALNE - tym samym jezdzcem co Fever",
       "kto": "WARRYN",
       "zamyka": "odpowiedz",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "poslaniec do Greywater Watch"
     },
     {
       "data": "tygodnie - PRZED SIEWEM",
       "co": "ZRODLO NASIENIA owsa i jeczmienia NA TEN SIEW",
       "kto": "Symon / Hal / Harl",
       "zamyka": "ziarno w skladzie",
-      "status": "otwarte - NAJPILNIEJSZE"
+      "status": "otwarte - NAJPILNIEJSZE",
+      "kanal": "jezdziec Fosa-Bialy Port",
+      "wraca": "300-03-13"
     },
     {
       "data": "~300-03-13",
       "co": "WILLA: druga droga na poludnie - dwie kolumny rejestru; czyta MELLA, wynik do Willi szyfrem",
       "kto": "MELLA -> HARROL -> WILLA",
       "zamyka": "odczyt kolumn",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "V/300",
       "co": "NESTA: kolumna dziesieciu przystani zachodnich (fracht) + pytanie o DAENERYS",
       "kto": "NESTA",
       "zamyka": "odpowiedz z Braavos",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "Braavos pelne poselstwo",
+      "wraca": "300-05-15"
     },
     {
       "data": "jesien 300",
       "co": "ZYTO OZIME - siew; odpowiedz OSRICA o Darze pod to, nie pod wiosne",
       "kto": "Symon / Osric",
       "zamyka": "siew",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "koniec VI/300",
       "co": "DRUGA RATYFIKACJA traktatu z Dorzeczem; zakaz zaliczek przed ratyfikacja",
       "kto": "Catelyn / Lucan",
       "zamyka": "ratyfikacja",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "bez daty - CISZA",
@@ -215,364 +251,455 @@
       "kto": "OSRIC",
       "zamyka": "meldunek",
       "status": "otwarte",
-      "pilnosc": "NAJPILNIEJSZE Z MURU"
+      "pilnosc": "NAJPILNIEJSZE Z MURU",
+      "kanal": "przez Osrica (Mur)",
+      "wraca": "300-02-01"
     },
     {
       "data": "bez daty - CISZA",
       "co": "PRZYSTAN WILKA - status budowy; pyta CERWYN jako wspolwlasciciel cwiartki; podanie nazwiska budowniczego jest czescia odpowiedzi",
       "kto": "CERWYN",
       "zamyka": "meldunek z nazwiskiem",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "jezdziec Fosa-Dustinport",
+      "wraca": "300-02-20"
     },
     {
       "data": "bez daty - CISZA",
       "co": "DONNEL OBROK (Dustinport, budowa) - pytanie pod pieczecia, jezdziec eskadry",
       "kto": "DONNEL",
       "zamyka": "meldunek w formie osmiu rubryk",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "jezdziec Fosa-Dustinport",
+      "wraca": "300-02-20"
     },
     {
       "data": "bez daty",
       "co": "GARTH: liczba miesieczna dziury w komorach wodnych - zmierzona 299-10-01 i NIE ZMIERZONA PONOWNIE",
       "kto": "GARTH",
       "zamyka": "nowa liczba",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-04"
     },
     {
       "data": "bez daty",
       "co": "BERON: wszystko, co przyszlo od BRYNDENA TULLY'EGO od 299-07, z datami; potem list do Blackfisha (poludniowa sciana, nie traktat)",
       "kto": "BERON",
       "zamyka": "wykaz",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-07"
     },
     {
       "data": "bez daty",
       "co": "THEOMORE: gdzie kolebka, ile kosztuje PIERWSZY ROK, kogo wzialbys jako pierwszego ucznia; spis flory jako pierwszy zbior (w reke na Radzie)",
       "kto": "THEOMORE",
       "zamyka": "odpowiedz",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-08"
     },
     {
       "data": "300-03-04",
       "co": "URBARZ ZALOZONY - cztery kolumny KTO / Z CZEGO / ILE / KIEDY; pierwszy wpis to szesc tygodni niepobranego czynszu (od 300-02-07)",
       "kto": "SARRA OD KRESKI + INGA LICZYDLO",
       "zamyka": "ksiega otwarta z pierwsza strona",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-05"
     },
     {
       "data": "300-03-04",
       "co": "LAWA MIASTA SADZA KOWALA (Brusk od Miecha, wskazala Mella) - kuznia idzie pierwsza albo nie idzie nic",
       "kto": "lawa burmistrza",
       "zamyka": "posadzenie",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-05",
       "co": "CERWYN WYJEZDZA - ma zostawic TOMMARDA KOSE jako lustratora Fosy na rok",
       "kto": "CERWYN",
       "zamyka": "czlowiek zostaje, kiedy pan odjezdza",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "ten tydzien",
       "co": "SOLTYSI: ktore wsie wybraly, kiedy i kogo - pytanie zadane dawno, odpowiedzi nie bylo",
       "kto": "WARRYN",
       "zamyka": "lista wsi z nazwiskami i datami",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-30",
       "co": "AKADEMIA WOJSKOWA: data po Radzie, platnik Kasa 3, baszta w Przystani Wilka; pierwszy mistrz BRYNDEN TULLY, zapasowo zbrojmistrz Fosy",
       "kto": "Symon / Brynden",
       "zamyka": "odpowiedz Blackfisha",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "wyslane 300-02-27 - CISZA",
       "co": "PRZYPOMNIENIE O REJESTRATORZE KORONY. Jedno zdanie, bez nazwiska, spisane przez Garricka pod dyktando: 'KRZESLO REJESTRATORA KORONY STOI PUSTE CZWARTY MIESIAC. NAZWISKA NIE PODAJE, BO ZASTRZEGLISCIE JE SOBIE. PODAJE DATE.' Ten sam goniec co prosba o zwyczaj, OSOBNA KARTA - zeby nie zamienic tamtej w upomnienie. UWAGA: UCHO KORONY I REJESTRATOR KORONY TO JEDNO KRZESLO (odkryte 300-02-27) - puste jest wieksze, niz wyglada.",
       "kto": "SYMON -> ROBB STARK",
       "zamyka": "NAZWISKO OD KROLA. A jesli do Rady 300-03-30 nie przyjdzie - ZAMYKA TO MILCZENIE: przestaje byc prosba bez odpowiedzi, a staje sie faktem, ktory Namiestnik moze wypowiedziec na Radzie. Drugi raz sie nie prosi.",
-      "status": "otwarte - list POSZEDL 300-02-27, odpowiedzi nie bylo"
+      "status": "otwarte - list POSZEDL 300-02-27, odpowiedzi nie bylo",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-03"
     },
     {
       "data": "PRZED Rada 300-03-30 - WARUNKOWE",
       "co": "SPRAWA CAILIN (prawo skladu + garnizon). KROL OBIECAL 300-02-07: rozstrzygnie PRZED Rada, ale DOPIERO GDY PRZYJDZIE PISMO MIASTA, NIE NAMIESTNIKA. Prosba miasta o piec dni targowych stoi na slupie od 300-03-03 - ALE NA SLUPIE, NIE W WINTERFELL. Dopoki lawa nie wysle wlasnego pisma, zegar Krola nie ruszyl. ROZSTRZYGNIECIE GRACZA 300-03-03: lawa wysyla wlasne pismo 300-03-04, krukiem.",
       "kto": "LAWA MIASTA CAILIN / HERWIN SZALA",
       "zamyka": "pismo MIASTA w Winterfell - ono uruchamia obietnice Krola",
-      "status": "WARUNEK SPELNIONY 300-03-04 - pismo miasta w drodze"
+      "status": "WARUNEK SPELNIONY 300-03-04 - pismo miasta w drodze",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "300-03-04 SWIT",
       "co": "PISMO MIASTA CAILIN DO KORONY - wlasna pieczec miasta, podpisy lawy, krukiem z Fosy (2 dni). TRESC: TYLKO sprawa Cailin (przymus skladu piec dni targowych + garnizon). NIE laczyc z ustrojem miast - tamto Krol przyjmie tylko OD WSZYSTKICH NARAZ i pismo Cailin utknie za czternastoma innymi. WARUNEK FORMY: Symon nie dyktuje ani slowa; podaje Herwinowi TYLKO to, ze warunek Krola istnieje.",
       "kto": "LAWA MIASTA / HERWIN SZALA",
       "zamyka": "kruk w powietrzu",
-      "status": "WYSLANE - pieczec miasta, podpisy lawy, kruk o swicie"
+      "status": "WYSLANE - pieczec miasta, podpisy lawy, kruk o swicie",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-08"
     },
     {
       "data": "~300-03-06",
       "co": "PISMO MIASTA W WINTERFELL - od tej chwili biegnie obietnica Krola z 300-02-07: rozstrzygnie PRZED Rada",
       "kto": "kancelaria Korony (BERON)",
       "zamyka": "rozstrzygniecie Krola w sprawie skladu i garnizonu Cailin",
-      "status": "otwarte - ZEGAR LICZY SIE OD 300-02-07, nie od wyslania. Zwloka powstala z zaniedbania prowadzacego (pismo nie bylo w rejestrze) - NIE PRZECHODZI NA GRACZA: rozstrzygniecie Krola ma paczc PRZED Rada, jak obiecal."
+      "status": "otwarte - ZEGAR LICZY SIE OD 300-02-07, nie od wyslania. Zwloka powstala z zaniedbania prowadzacego (pismo nie bylo w rejestrze) - NIE PRZECHODZI NA GRACZA: rozstrzygniecie Krola ma paczc PRZED Rada, jak obiecal.",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-08"
     },
     {
       "data": "wyslany 300-02-27 - odpowiedz IV/300 najwczesniej",
       "co": "LIST DO LADY OLENNY TYRELL. Tresc: Polnoc przezywa zime; Dom chce wejsc do Highgarden PO CICHU, zeby moc rozmawiac blizej. PIERWSZY WLASNY RUCH DOMU NA REACH - nie pismo Namiestnika, tylko Domu Handlowego (Kasa 1). PODSTAWA RELACJI: od 300-02-25 to nie jest 'tajny kanal', tylko RELACJA HANDLOWA Z DRUGIM SPICHLERZEM WESTEROS - obie strony maja powod, zeby jej nie zerwac, i zadna nie musi tlumaczyc, po co pisze. ZBIEGA SIE Z: placowka HIGHGARDEN na liscie do Hala (Bialy Port ~300-03-13) - TEN SAM CEL, DWIE DROGI. Nie wysylac trzeciej.",
       "kto": "SYMON / DOM HANDLOWY TALLY -> OLENNA TYRELL",
       "zamyka": "odpowiedz z Highgarden ALBO zgoda na cicha placowke. Droga: Fosa -> Bialy Port (6-8 dni) -> morzem na poludnie; tam i z powrotem to TYGODNIE, nie dni.",
-      "status": "otwarte - w drodze, za wczesnie na cisze"
+      "status": "otwarte - w drodze, za wczesnie na cisze",
+      "kanal": "morze na poludnie (Reach, Highgarden)",
+      "wraca": "300-04-20"
     },
     {
       "data": "wyslany 300-02-07 - CISZA MIESIAC",
       "co": "LIST DO HALA: WYKUPIC WEKSEL DANY BOLTONOM. Podstawa: 299-10-20 Dreadfort, zamiec - postoj oplacony WEKSLEM NA DOM TALLY, Roose przyjal papier bez pytania. Lezy piaty miesiac. NA DREADFORCIE LEZY PODPIS SYMONA - papier z jego nazwiskiem i CUDZA WOLA, platny na zadanie, ktory kladzie sie na stol wtedy, kiedy sie chce. PILNE PRZEZ TRZY ZBIEGI: cichy kupiec na Dreadfort 300-03-10, Ramsay wezwany przed 300-04-01, Rada 300-04-01 z Boltonami na sali.",
       "kto": "HAL SIEROTA",
       "zamyka": "weksel w rekach Domu albo pisemna odmowa Roose'a",
-      "status": "otwarte - PILNE"
+      "status": "otwarte - PILNE",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-02-11"
     },
     {
       "data": "wyslany 300-02-27",
       "co": "LIST DO ROOSE'A BOLTONA - nie czeka na spotkanie. Ta sama sprawa co weksel.",
       "kto": "ROOSE BOLTON",
       "zamyka": "odpowiedz ALBO milczenie do Rady 300-04-01 - i wtedy milczenie jest odpowiedzia",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "jezdziec Fosa-Bialy Port",
+      "wraca": "300-03-13"
     },
     {
       "data": "300-02-25 (ponowiony; pierwszy 299-09-08)",
       "co": "LIST DO HOWLANDA REEDA. KANALU KRUCZEGO NIE MA - Greywater Watch PLYWA. Protokol: poslaniec jedzie na Przesmyk, staje w umowionym miejscu PRZY GROBLI i czeka, az krannogowie sami wyjda. MOZE DZIEN, MOZE DWA TYGODNIE - cisza tutaj NIE JEST cisza.",
       "kto": "poslaniec przy grobli",
       "zamyka": "krannogowie wychodza ALBO spotkanie z Howlandem",
-      "status": "otwarte - bez zegara z natury kanalu"
+      "status": "otwarte - bez zegara z natury kanalu",
+      "kanal": "poslaniec do Greywater Watch"
     },
     {
       "data": "wyslany 300-03-01, osobnym jezdzcem",
       "co": "LIST DO SKARBNIKA GAWENA - PAKIET MONETARNY, PIEC POZYCJI. Podstawa liczbowa: dochod monetarny Korony w normalnym roku 8000-20000 smokow, DZIS 3000-6000. Mennica Wilk bije od 299.",
       "kto": "GAWEN",
       "zamyka": "odpowiedz na PIEC pozycji - nie na jedna",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-06"
     },
     {
       "data": "wyslany 300-02-07",
       "co": "LIST DO GAWENA: czlowiek do PRZYSTANI WILKA - 'czego szukac, nie kogo'. Zbiega sie z cisza o statusie budowy Przystani (pyta tez Cerwyn jako wspolwlasciciel cwiartki).",
       "kto": "GAWEN",
       "zamyka": "nazwisko albo opis czlowieka",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-02-11"
     },
     {
       "data": "wyslany 300-03-01",
       "co": "LIST DO KROLA - PROSBA O ROZMOWE O PORZADKU, NIE WYKLAD O NIM. Forma narzucona zasada, ktora Krol sam nalozyl na Symona przy Karcie Wychowankow: 'idzcie do niego DZIS. NIE Z KARTA - Z PYTANIEM'. List niesie prosbe i powod, nie argumentacje. OSOBNY od pisma z 02-19 i od przypomnienia o Rejestratorze.",
       "kto": "ROBB STARK",
       "zamyka": "WYZNACZONA GODZINA - przed Rada albo na Radzie",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-05"
     },
     {
       "data": "zlecone 300-03-02",
       "co": "KANON JADLA POLNOCY - zadanie dla WYSTANA, trzy czesci: (1) dieta i dania z waloru miejscowego; (2) kanon potraw - co siac, co do szklarni, co hodowac, co lowic; (3) ruszyc ze szklarniami i szkolkami rolniczymi. OD 300-03-03 MA WYKONAWCE: LOWCZY HAKON OD JASZCZURA - wczesniej kanon byl lista bez rak.",
       "kto": "WYSTAN + WERRAN + HAKON",
       "zamyka": "kanon spisany i PIERWSZY POSILEK Z NIEGO PODANY - kanonu nie oglasza sie na slupie, kanon sie je",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "~300-03-15 (termin podany w samym liscie)",
       "co": "ODPOWIEDZ MIRY - DZIESIEC DROBNYCH PYTAN O SZKOLE. Reka Symona, NIE rozkazem Korony (wskazowka Luwina: 'na rozkaz odpowie tez, ale na list odpowie PRAWDE O TYM, CO JEJ NIE WYCHODZI'). Zapisany bieg kruka: WRACA PRZED DRUGA POLOWA TRZECIEGO MIESIACA. ZDERZA SIE Z ROZWIAZANIEM - moze nie byc w stanie odpisac.",
       "kto": "MIRA",
       "zamyka": "odpowiedz na dziesiec pytan",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-03-15"
     },
     {
       "data": "wyslany 300-02-28",
       "co": "LIST DO MIRY: 'kto nauczy tych dziesiecioro UCZYC' - druga sprawa szkolna, z powrotna.",
       "kto": "MIRA",
       "zamyka": "odpowiedz",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-03-08"
     },
     {
       "data": "RIVERRUN - jest na miejscu",
       "co": "LADY CATELYN W RIVERRUN. Wyjechala z Winterfell 299-10-05; cel od poczatku: RIVERRUN, negocjowac w imieniu Polnocy. OKNO PRZEJAZDU PRZEZ FOSE (02-25..03-07) SIE ZAMKNELO - nie przejezdza, siedzi u brata. JEJ ROLA, nietknieta od 299-09-19: ONA OTWIERA DRZWI jako TULLY, w domu swojego ojca, do swojego brata. Korona przez nie wchodzi - ona nie podpisuje, nie ustepuje, nie negocjuje za Polnoc. LIST SYMONA do rak wlasnych (napisany 300-02-16, wlasna reka, BEZ pieczeci Namiestnika) idzie PRZEZ LUCANA od 300-02-27 - a Lucan siedzi w Dorzeczu, wiec kanal jest wlasciwy. KARTKA U WARRYNA NA FOSIE ZOSTAJE - na wypadek, gdyby wracala tedy.",
       "kto": "CATELYN w Riverrun / LUCAN doreczenie",
       "zamyka": "odpowiedz od niej ALBO ruch Edmure'a przy traktacie (druga ratyfikacja, koniec VI/300)",
-      "status": "otwarte - POPRAWIONE wskazaniem gracza 300-03-03: ona siedzi w Riverrun"
+      "status": "otwarte - POPRAWIONE wskazaniem gracza 300-03-03: ona siedzi w Riverrun",
+      "kanal": "przez Lucana (Dorzecze)",
+      "wraca": "300-03-20"
     },
     {
       "data": "wyslany 300-02-17",
       "co": "NESTA - CZWARTE ZLECENIE: fracht na zachodnim morzu (nie okret - LADOWNIA; domy braavoskie maja kantory w Lannisporcie i Starym Miescie) + LUPACZ KAMIENIA. Kolejka wypisana wprost: (1) ksiega Antaryonow (2) karta cen (3) wschod i dziewczyna (4) to. 'Czwarta jest czwarta i ma nia zostac.'",
       "kto": "NESTA",
       "zamyka": "odpowiedz z Braavos - 2,5 miesiaca w jedna strone",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "Braavos pelne poselstwo",
+      "wraca": "300-05-15"
     },
     {
       "data": "wyslany 300-02-07",
       "co": "NESTA - KADRY Z BRAAVOS (pozycja 2 kolejki).",
       "kto": "NESTA",
       "zamyka": "ludzie albo nazwiska",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "Braavos pelne poselstwo",
+      "wraca": "300-05-05"
     },
     {
       "data": "wyslany 300-03-01",
       "co": "NESTA - ROZGLOSIC W BRAAVOS PRZYWILEJE FOSY; ludzie maja kierunek. ALE rozglaszanie ZACZYNA SIE PO PODPISIE, nie przed.",
       "kto": "NESTA",
       "zamyka": "podpis przywileju -> potem rozglos",
-      "status": "otwarte - warunkowe"
+      "status": "otwarte - warunkowe",
+      "kanal": "Braavos pelne poselstwo",
+      "wraca": "300-05-30"
     },
     {
       "data": "wyslany 300-03-03 o brzasku",
       "co": "KRUK DO BIALEGO PORTU - pytanie o Mire. Poczta DOMU, pieczec DOMU, nie Korony. Dojdzie w dwa dni i tak czy inaczej PO FAKCIE - wysylany nie po to, zeby zdazyc, tylko zeby ktos tam wiedzial, ze pytano tego dnia.",
       "kto": "SYMON -> Bialy Port",
       "zamyka": "wiadomosc o rozwiazaniu",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Fosa-Bialy Port",
+      "wraca": "300-03-07"
     },
     {
       "data": "WIOSNA 300 - WYMAGALNE TERAZ",
       "co": "POMIAR OSWYNA - zlecenie z 299-09-13: przez cala zime MIERZYC TEN SAM SKLAD przy zsypaniu i przy wysypaniu i spisywac roznice. W zleceniu stoi wprost: 'DO WIOSNY Skarbnik bedzie mial czym UZASADNIC ogloszona liczbe, zamiast ja wymyslic'. WIOSNA JEST TERAZ, A LICZBY NIKT NIE ZAZADAL. Ksiega spichlerza Zimowego Miasta miala byc WZOREM dla ksiag skladowych krolestwa - i cala dzisiejsza maszyna zbozowa (cena minimalna, rubryka stanu ziarna, przymus skladu) stoi bez tego pomiaru.",
       "kto": "OSWYN -> GAWEN",
       "zamyka": "liczba roznicy zsyp/wysyp za zime",
-      "status": "otwarte - PRZETERMINOWANE"
+      "status": "otwarte - PRZETERMINOWANE",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-01"
     },
     {
       "data": "PRZED ~300-03-13 (Bialy Port)",
       "co": "ZLECENIE DLA GAWENA z 299-09-14: policzyc i OGLOSIC, ile placi JEDEN LADUNEK NA FOSIE RAZEM - myto lenna PLUS clo Korony, wedle rodzaju towaru. Warunek zapisany w zleceniu: 'ma byc gotowe i jawne ZANIM Wyman otworzy ksiegi Bialego Portu'. SYMON JEDZIE DO WYMANA ZA DZIESIEC DNI. Cel podwojny: dac Manderly'emu wzorzec i dowod dobrej wiary; sprawdzic, czy wlasna brama nie jest juz zaporowa - NIKT NIGDY NIE ZSUMOWAL OBU WARSTW.",
       "kto": "GAWEN + GARTH",
       "zamyka": "jedna liczba na slupie, jawna, przed Bialym Portem",
-      "status": "ZAMKNIETE 300-03-03 - policzone NA FOSIE, nie w Winterfell. Obie ksiegi byly w murach."
+      "status": "ZAMKNIETE 300-03-03 - policzone NA FOSIE, nie w Winterfell. Obie ksiegi byly w murach.",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "299-09-25"
     },
     {
       "data": "wyslany 299-09-15 - CISZA POL ROKU",
       "co": "LIST DO MAESTERA AEMONA (Czarny Zamek). Pismo PRYWATNE - od czlowieka, ktory przysylal ziarno, nie od Namiestnika Krola; Aemon pisal do SYMONA, nie do Winterfell, i podal powod: 'to WY przysylaliscie ziarno; ludzie tutaj wiedza, czyje ono bylo'. DRUGA CISZA Z TEGO SAMEGO MIEJSCA - obok zaleglego meldunku VII Osrica.",
       "kto": "AEMON",
       "zamyka": "odpowiedz z Muru ALBO wiadomosc, ze nie zyje - a to tez jest odpowiedz",
-      "status": "ZAMKNIETE - ODPOWIEDZ PRZYSZLA 299-09-18 I ZOSTALA PRZECZYTANA. Nie bylo tu ciszy; ja jej nie sprawdzilem."
+      "status": "ZAMKNIETE - ODPOWIEDZ PRZYSZLA 299-09-18 I ZOSTALA PRZECZYTANA. Nie bylo tu ciszy; ja jej nie sprawdzilem.",
+      "kanal": "przez Osrica (Mur)",
+      "wraca": "299-11-15"
     },
     {
       "data": "wyslany 299-09-15 - CISZA POL ROKU",
       "co": "LIST DO STANNISA BARATHEONA, redakcja II, z ZAPROSZENIEM DO PENTOS. Os odmowy udzialu w wojnie wyrzucona - sprawa miedzy koronami zamknieta od sierpnia 299 (Stannis PIERWSZY uznal niepodleglosc Polnocy na pismie). Zostaje zaproszenie i to, co po nim.",
       "kto": "STANNIS",
       "zamyka": "odpowiedz ze Smoczej Skaly",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "morze na poludnie (Reach, Highgarden)",
+      "wraca": "299-12-01"
     },
     {
       "data": "wyslane 299-12-18 - odpowiedz III/IV 300, NIE ZALEGLE",
       "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem.",
       "kto": "CECH PISARZY W BRAAVOS -> przez NESTE",
       "zamyka": "przywrocenie Ilaria na liste ALBO odmowa cechu na pismie",
-      "status": "otwarte - cech jest W BRAAVOS, 2,5 miesiaca w jedna strone; termin jeszcze nie minal"
+      "status": "otwarte - cech jest W BRAAVOS, 2,5 miesiaca w jedna strone; termin jeszcze nie minal",
+      "kanal": "Braavos pelne poselstwo",
+      "wraca": "300-04-10"
     },
     {
       "data": "od 299-08-14 - STALE",
       "co": "FOSA CAILIN JAKO KLIRINHAUS NOCNEJ STRAZY. List do WSZYSTKICH KROLESTW POLUDNIA: honorujcie Straz, slijcie chetnych; kazdy chetny z poludnia idzie do Fosy. Apel byl darmowy, ale NIGDY NIE POLICZONO, ILU PRZYSZLO. Miara istnieje od 300-02-12 (ksiega bramy) i od 300-02-28 (rejestr Melli) - wystarczy zapytac.",
       "kto": "GARTH (ksiega bramy) + MELLA",
       "zamyka": "liczba rekrutow z poludnia przez Fose",
-      "status": "ODCZYTANE 300-03-03 - i odczyt jest zly: klirinhaus ogloszono i nigdy nie uruchomiono"
+      "status": "ODCZYTANE 300-03-03 - i odczyt jest zly: klirinhaus ogloszono i nigdy nie uruchomiono",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-03 wieczor - WYSLANE",
       "co": "ZADANIE POMIARU OSWYNA - kruk do Winterfell, do GAWENA i BERONA razem: przyslac liczbe roznicy zsyp/wysyp za cala zime, tak jak zlecono 299-09-13. Kruk 2 dni w kazda strone - LICZBA MOZE BYC NA FOSIE 300-03-07, w dniu wyjazdu, albo dogoni Symona w Bialym Porcie.",
       "kto": "OSWYN -> GAWEN/BERON -> SYMON",
       "zamyka": "liczba w rece",
-      "status": "ZAMKNIETE 300-03-03 - liczba wydana (zasada 39a: zwloka byla moja, nie gracza)"
+      "status": "ZAMKNIETE 300-03-03 - liczba wydana (zasada 39a: zwloka byla moja, nie gracza)",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-03 wieczor - WYSLANE",
       "co": "KARTA DO BERONA: czy w kancelarii Korony lezy cokolwiek od STANNISA (od 299-09) oraz ODPOWIEDZ AEMONA NA PYTANIE O OBSYDIAN (kruk 299-09-22) - ta ostatnia BYLA ADRESOWANA DO WINTERFELL, NIE DO SYMONA, i on jej nigdy nie widzial.",
       "kto": "BERON",
       "zamyka": "wykaz albo puste - obie odpowiedzi sa odpowiedzia",
-      "status": "otwarte - od Stannisa nic; odpowiedz Aemona o obsydianie DO ODSZUKANIA w Winterfell"
+      "status": "otwarte - od Stannisa nic; odpowiedz Aemona o obsydianie DO ODSZUKANIA w Winterfell",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-07"
     },
     {
       "data": "PILNE - przed wyjazdem 300-03-07",
       "co": "MYTO OD WARTOSCI - ROZSTRZYGNIECIE GRACZA 300-03-03. Plaskie 12 jeleni od wozu ZNIESIONE; myto lenna idzie 1/40 (2,5 proc.) wartosci, ta sama forma co clo Korony (1/20). PO ZMIANIE KAZDY LADUNEK PLACI 7,5 PROC. LACZNIE: torf spada z 15 na 7,5, owies stoi na 7,7 -> 7,5, futra i bursztyn rosna z 5,3 na 7,5. WYCENY NIE TRZEBA BUDOWAC - GARTH JUZ WYCENIA KAZDY WOZ, bo clo Korony od zawsze jest od wartosci. Myto jedzie na tej samej liczbie, zero nowego aparatu. MYTO TO REGALE LENNA (Kasa 2) - Krol niepotrzebny, oglasza sie na slupie. ⚠ KOREKTA 300-03-03: 2,7 proc. to NIE byla srednia, tylko woz ZBOZA. Plaskie myto 12 jeleni to bylo 10 proc. na torfie, 2,73 na owsie i 0,3 na futrach. STAWKI NEUTRALNEJ DLA SKARBU NIE DA SIE POLICZYC, DOPOKI NIKT NIE POLICZYL, CO PRZEZ TE BRAME JEDZIE. Ksiega bramy Gartha (od 300-02-12) jest tym, z czego to wyjdzie. 1/40 zostaje jako stawka wyjsciowa - ale jako DECYZJA, nie jako wyliczenie.",
       "kto": "SYMON (myto to jego regale) + GAWEN (clo to Korona)",
       "zamyka": "obwieszczenie na slupie w Cailin",
-      "status": "ROZSTRZYGNIETE - na slup 300-03-04"
+      "status": "ROZSTRZYGNIETE - na slup 300-03-04",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "PILNE",
       "co": "JEDENASTU NA MUR - klirinhaus nigdy nie zadzialal. Ksiega bramy (od 300-02-12) notuje JEDENASTU, ktorzy przy wejsciu podali 'na Mur'. SIEDMIU Z NICH STOI DZIS W REJESTRZE MELLI jako dniowkowi na Fosie. Nikt ich dalej nie poslal, bo urzedu, ktory mial ich kierowac, nie bylo - byla tylko zapowiedz z 299-08-14. Fosa wchlonela rekrutow Muru.",
       "kto": "SYMON / HENDRY / MELLA",
       "zamyka": "decyzja: odeslac na Mur, zatrzymac jawnie, albo dac im wybor - i OSOBA, ktora odtad kieruje",
-      "status": "otwarte - do rozstrzygniecia przez gracza"
+      "status": "otwarte - do rozstrzygniecia przez gracza",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-04",
       "co": "SLUP W CAILIN: MYTO 1/40 OD WARTOSCI zamiast 12 jeleni od wozu. Jedno zdanie, data na wierzchu. Idzie tym samym posiedzeniem lawy, co kowal i pismo miasta.",
       "kto": "HERWIN + GARTH (wycena juz istnieje)",
       "zamyka": "obwieszczenie",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "PILNE - do karty zywnosciowej 300-03-07",
       "co": "UBYTEK SKLADOWY 7 PROC. - liczba Oswyna za zime (na 100 korcy zsypanych wysypalo sie 93). DNO CENY MUSI POKRYWAC UBYTEK, inaczej sklad traci na samym trzymaniu. Dno ustalone 300-03-03 (owies 3 jelenie 20, jeczmien 3 jelenie 60) LICZONO BEZ TEGO. Przeliczyc; sprawdzic tez cztery przegrody Fosy - NIGDY nie mierzone zsyp/wysyp.",
       "kto": "ORLAND KORZEC + GERRIK RACHUBA",
       "zamyka": "poprawione dno ceny i pierwszy pomiar przegrod Fosy",
-      "status": "PRZELICZONE 300-03-03 - trzy liczby na slup 300-03-04"
+      "status": "PRZELICZONE 300-03-03 - trzy liczby na slup 300-03-04",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "300-03-04",
       "co": "SLUP - TRZY LICZBY ZBOZOWE, PRZELICZONE POPRAWNIE 300-03-03: (1) NORMA UBYTKU 7 NA STO, ogloszona; w normie placi SKLADAJACY, ponad norme SKLAD. (2) NARZUT SKLADU 7,53 PROC. (nie 7 - zeby odzyskac 7 straconych, trzeba dolozyc 7,53): owies kupuje 11 / sprzedaje 11 jeleni 83; jeczmien 12 / 12 jeleni 90. (3) DNO SPRZEDAZY: owies 3 jelenie 44, jeczmien 3 jelenie 87. Dno KUPNA zostaje 3-20 i 3-60.",
       "kto": "HERWIN + ORLAND + BENNIS",
       "zamyka": "obwieszczenie",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "PILNE - do Rady 300-03-30",
       "co": "LICZBA MURU - MA JUZ SZESC MIESIECY. List Aemona przyszedl i zostal przeczytany 299-09-18: MORMONT ZABITY PRZEZ WLASNYCH, OBJAZD WYBITY, MANCE PROWADZI CALY LUD, NIESPELNA SZESCIUSET LUDZI NA TRZYSTA MIL. Symon nazwal to wtedy: 'to nie jest wiadomosc, to jest zapalka' i NIE PODAL TRESCI UMBEROWI. PUNKT 0 WIELKIEJ RADY (MUR - meldunek i aklamacja) STOI DZIS NA TEJ SZESCIOMIESIECZNEJ LICZBIE, bo meldunek VII Osrica jest zalegly. NIC NOWEGO Z MURU NIE PRZYSZLO OD WRZESNIA.",
       "kto": "SYMON",
       "zamyka": "swiezy meldunek z Muru PRZED Rada 300-03-30 - od Osrica albo wprost z Czarnego Zamku",
-      "status": "otwarte - PILNE, liczba sie starzeje i to ona otwiera Rade"
+      "status": "otwarte - PILNE, liczba sie starzeje i to ona otwiera Rade",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "PILNE - przed wyjazdem 300-03-07",
       "co": "STRUKTURA RUCHU PRZEZ BRAME - z ksiegi Gartha od 300-02-12: ile wozow, jakiego towaru, o jakiej wartosci. BEZ TEJ LICZBY stawka myta 1/40 jest decyzja, a nie wyliczeniem, i nikt nie wie, czy Kasa 2 na zmianie zyskuje czy traci.",
       "kto": "GARTH (ksiega) + GERRIK RACHUBA (rachunek)",
       "zamyka": "rozklad wozow i wartosci za trzy tygodnie",
-      "status": "otwarte - NOWE"
+      "status": "otwarte - NOWE",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-06"
     },
     {
       "data": "wyslany 299-09-22 - ODPOWIEDZ NIGDY NIE DOSZLA DO SYMONA",
       "co": "PYTANIE O OBSYDIAN DO MAESTERA AEMONA. Pytanie wymyslil BRAN STARK 299-09-08: 'Pierwsi Ludzie mieli juz braz; po co lud, ktory zyl obok ludzi z metalem, trzymal sie nozy z kamienia - albo byli glupi, albo kamien robil cos, czego braz nie robil'. Kruk poszedl do najstarszego maestera w Westeros. ### W ZAPISIE STOI WPROST: 'ODPOWIEDZ PRZYJDZIE DO WINTERFELL, NIE DO SYMONA'. To ten sam ksztalt, co pismo Rejestratora - odpowiedz zaadresowana obok Namiestnika. ### SPRAWA NIE JEST DZIS CIEKAWOSTKA: Reed potwierdzil obsydian 299-10-04 (stare ostrza WYCHODZA Z TORFU, a torfiarnie Fosy tna ten sam torf), a 300-01-26 SYMON POWIEDZIAL WYMANOWI 'CZARNE SZKLO' i Wyman pierwszy raz tego wieczoru byl zaskoczony. ODPOWIEDZ AEMONA JEST JEDYNYM ZRODLEM ARCHIWALNYM, KTOREGO W TEJ SPRAWIE NIE ODCZYTANO.",
       "kto": "BERON - odszukac w kancelarii Winterfell",
       "zamyka": "odpowiedz Aemona w rece Symona ALBO potwierdzenie, ze nie dotarla",
-      "status": "otwarte"
+      "status": "otwarte",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-07"
     },
     {
       "data": "NIE WYSLANY - sprawdzone 300-03-03",
       "co": "DAENERYS A AEMON: LISTU NIE BYLO. Przeszukane wszystkie wystapienia obu imion - w zadnym pismie do Czarnego Zamku nie ma Daenerys ani slowa 'Targaryen'. Pytanie o Daenerys poszlo JEDEN RAZ i nie tam: do NESTY, 300-03-02, i zapis mowi wprost, ze wczesniejsze listy do Nesty (299-09-19, 300-02-18) TEGO PYTANIA NIE NIOSLY. Odpowiedz realnie V/300. ### CO ISTNIEJE I JEST BLISKO: list do Aemona z 299-09-15, sekcja IV - o CZLOWIEKU, KTOREGO IMIENIA NIE PADA ANI RAZU, i o slowie, ktorego Aemon nie napisze, dopoki nie uslyszy go od tego, kogo dotyczy. TO JEST JON SNOW, NIE DAENERYS (watki jon_snow_krew_neda_na_murze_299_06, jon_snow_po_drugiej_stronie_299_09). ### I RZECZ, KTORA Z TEGO WYNIKA: przy Daenerys stoi 'ANI JEDNEJ DROGI', a najstarszy maester w Westeros koresponduje z Symonem PRYWATNIE od pol roku i ma archiwum Nocnej Strazy. TO JEST DROGA, KTOREJ NIKT NIE PROBOWAL - i jedyna, ktora nie wymaga czekania do maja.",
       "kto": "SYMON",
       "zamyka": "decyzja gracza: pytac Aemona czy nie",
-      "status": "otwarte - DO ROZSTRZYGNIECIA"
+      "status": "otwarte - DO ROZSTRZYGNIECIA",
+      "kanal": "wlasny czlowiek na Fosie"
     },
     {
       "data": "WYSZEDL 300-02-07 - 25 DNI CISZY",
       "co": "POSLANIEC ZA MUR DO MANCE'A RAYDERA - o DELEGACJE PRZED GLOWNA BRAME. Rozkaz wydany rano 300-02-07, zameldowany Krolowi tego samego dnia slowami: 'NIE MOWIE WAM, ZE SIE UDA. MOWIE, ZE WYSZLO'. RAZEM Z NIM: TLUMACZ ZATRZYMANY, PLATNY Z KASY 3 (zold pod Murem, biezaco, potwierdzony 300-02-15) - o co OSRIC PROSIL NA PISMIE I CZEKAL. PODSTAWA: stanowisko Symona przed Krolem 300-02-06 - 'poslac kogos za Mur do Mance'a Raydera PO ICH RELACJE i poprosic o DOWOD W POSTACI DOSTARCZENIA NIEUMARLYCH'. KANAL: nie ma kruka za Mur. Czlowiek wychodzi i wraca albo nie wraca. Odpowiedz wroci PRZEZ OSRICA - i dlatego jego zalegly meldunek VII jest dzis najwazniejsza cisza w grze.",
       "kto": "poslaniec -> MANCE RAYDER -> OSRIC -> SYMON",
       "zamyka": "delegacja przed glowna brama ALBO odmowa ALBO poslaniec, ktory nie wrocil - kazde z trzech jest odpowiedzia",
-      "status": "ROZSTRZYGNIETE 300-03-03 (rzut 20): POSLANIEC NIE WROCIL. Przewodnik z klanow wrocil sam po dziewieciu dniach."
+      "status": "ROZSTRZYGNIETE 300-03-03 (rzut 20): POSLANIEC NIE WROCIL. Przewodnik z klanow wrocil sam po dziewieciu dniach.",
+      "kanal": "za Mur"
     },
     {
       "data": "NIEODPOWIEDZIANE OD 300-02-06 - przed Rada 300-03-30",
       "co": "TRZY WARUNKI KROLA PRZED OTWARCIEM BRAMY DZIKIM - postawione 300-02-06 i DO DZIS BEZ ODPOWIEDZI: (1) KTO IDZIE ZA MUR - 'nie wyslecie posla, POSEL TO JEST AKT; wyslecie kogos, kto umie tam wejsc i wyjsc'. (2) CO SIE ROBI Z DOWODEM - kto go niesie i przez ile mil, gdzie go trzymamy, kto przy nim stoi w nocy, CZYM GO ZABIJAMY, gdyby sie ruszyl: 'stal nie robi nic, ogien robi', a JEDYNE CZARNE SZKLO NA POLNOCY TO DWA OSTRZA W PLOTNIE. 'Jesli cos pojdzie nie tak, nie stracimy dowodu - STRACIMY WSZYSTKO, CO TEN DOWOD MIAL UDOWODNIC.' (3) CZYM ICH NAKARMIC - 20-40 TYSIECY, wiecej niz Bialy Port, w krolestwie, ktorego Krol policzyl JEDNA DZIESIATA spichlerzy. 'Nie mowie nie. Mowie, ze bez tej liczby otwarcie bramy jest WYROKIEM WYDANYM PRZEZ NIKOGO.'",
       "kto": "SYMON",
       "zamyka": "trzy odpowiedzi na pismie, przed punktem 0 Rady",
-      "status": "otwarte - PILNE"
+      "status": "otwarte - PILNE",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07"
     },
     {
       "data": "WIOSNA 300 - JEST TERAZ",
       "co": "TLUMACZ SPOD MURU ODCHODZI NA WIOSNE. Zatrzymany za pieniadze od 300-02-07 (Kasa 3) - ale zatrzymanie bylo NA TE ZIME. Trzej dzicy zyja, JEDEN MOWI WIECEJ. To sa JEDYNE TRZY USTA, jakie Polnoc ma z tamtej strony, i jedyny czlowiek, ktory je rozumie. Krol powiedzial to wprost: 'chcecie rozmawiac z Mance'em Rayderem, a jeszcze nie odpisaliscie czlowiekowi, ktory pilnuje jedynych trzech ust, jakie mamy'.",
       "kto": "OSRIC / Kasa 3",
       "zamyka": "tlumacz zwiazany NA ROK, nie na zime - albo wyuczony drugi",
-      "status": "ROZSTRZYGNIETE 300-03-03 (rzut 29): ZOSTAL - ale oswiadczyl, ze ZA MUR DRUGI RAZ NIE POJDZIE."
+      "status": "ROZSTRZYGNIETE 300-03-03 (rzut 29): ZOSTAL - ale oswiadczyl, ze ZA MUR DRUGI RAZ NIE POJDZIE.",
+      "kanal": "przez Osrica (Mur)",
+      "wraca": "300-03-17"
     },
     {
       "data": "300-03-03 - WIADOMOSC JEST",
       "co": "POSLANIEC ZA MUR NIE WROCIL (rzut 20). Wyszedl 300-02-07 z przewodnikiem z klanow gorskich - jedyna droga. PRZEWODNIK WROCIL SAM PO DZIEWIECIU DNIACH: rozstali sie w umowionym miejscu, poslaniec poszedl dalej Z LUDZMI, KTORYCH PRZEWODNIK NIE ZNAL. Nikt nie wie, czy dotarl do Mance'a. NIE MA CIALA, NIE MA ODMOWY, NIE MA DELEGACJI.",
       "kto": "-",
       "zamyka": "delegacja przed brama, poslaniec, albo wiadomosc o nim - dowolne z trzech",
-      "status": "otwarte - AKT BEZ ODPOWIEDZI"
+      "status": "otwarte - AKT BEZ ODPOWIEDZI",
+      "kanal": "za Mur"
     },
     {
       "data": "300-03-03 - WIADOMOSC JEST",
       "co": "TLUMACZ ZOSTAL (rzut 29) - pieniadze z Kasy 3 doszly i przyjal. ALE OSWIADCZYL OSRICOWI, ZE ZA MUR DRUGI RAZ NIE POJDZIE. Kanal do trzech ust istnieje; PRZEWODNIKA DO MANCE'A NIE MA. Drugiego poslanca nie ma kto poprowadzic.",
       "kto": "OSRIC",
       "zamyka": "drugi przewodnik z klanow ALBO wyuczony drugi tlumacz",
-      "status": "otwarte - NOWE WASKIE GARDLO"
+      "status": "otwarte - NOWE WASKIE GARDLO",
+      "kanal": "przez Osrica (Mur)",
+      "wraca": "300-03-17"
     }
   ]
 }

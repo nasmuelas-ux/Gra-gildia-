@@ -403,6 +403,16 @@ Wysłane pismo, wydany rozkaz i posłany człowiek **produkują skutki, także w
 - ✅ **Rzut należy się sprawie zewnętrznej** (cudzy człowiek, cudza wola, droga) — nie własnym opłaconym ludziom.
 > *Powód, wprost: poselstwo do Mance'a Raydera wyszło 300-02-07 i przez 25 dni NIE WYDARZYŁO SIĘ NIC, bo ja o nim nie pamiętałem. To nie jest zapomniany wpis. To jest człowiek wysłany w śnieg, o którym prowadzący zapomniał.*
 
+**41. KAŻDA RZECZ WYSŁANA DOSTAJE KANAŁ I DATĘ POWROTU. BEZ TEGO NIE ZOSTAJE ZAPISANA.** *(stała, 300-03-03 — wskazanie gracza: „listy i akcje świata to są terminy")*
+W `terminy.json` każda pozycja ma dwa obowiązkowe pola obok `zamyka`:
+- **`kanal`** — którędy to idzie. Czasy przejścia stoją w **`gra/kanaly.json`** (kruk Winterfell–Fosa 2 dni · jeździec do Białego Portu 6-8 · Braavos 2,5 miesiąca · **za Mur kruk nie lata**).
+- **`wraca`** — **data, na którą coś ma wrócić**, policzona z kanału: `wysłano + tam + z powrotem`.
+
+`stan.py` porównuje `wraca` z datą świata i wypisuje na górze `STAN.md` **🔴 PRZETERMINOWANE**. **Każda pozycja z tej listy MUSI dostać rozstrzygnięcie w tej turze:** przyszło · nie przyszło **i wiadomo dlaczego** · przyszło co innego. Rzut należy się sprawie zewnętrznej, nie własnym opłaconym ludziom.
+
+Kanały bez policzalnego czasu (**za Mur**, **Greywater Watch**) mają `sprawdzaj_co` — wracają do kolejki co tyle dni, żeby milczenie było decyzją, a nie przeoczeniem.
+> **Pozycja bez kanału i bez daty powrotu nie jest terminem — jest życzeniem.** `STAN.md` liczy je osobno.
+
 ---
 
 > ### ZASADA NADRZĘDNA: ŚWIAT MA BYĆ TRUDNY DLATEGO, ŻE JEST DUŻY I POWOLNY — NIE DLATEGO, ŻE PROWADZĄCY ZAPOMNIAŁ.

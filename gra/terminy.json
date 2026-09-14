@@ -285,8 +285,8 @@
       "co": "PRZYSTAN WILKA - status budowy; pyta CERWYN jako wspolwlasciciel cwiartki; podanie nazwiska budowniczego jest czescia odpowiedzi",
       "kto": "CERWYN",
       "zamyka": "meldunek z nazwiskiem",
-      "status": "otwarte",
-      "kanal": "jezdziec Fosa-Dustinport",
+      "status": "ZAMKNIETE 300-03-03 - BORS przyslal, 13 dni po terminie; nazwisko podane, Cerwyn ma odpowiedz",
+      "kanal": "jezdziec Fosa-Przystan Wilka",
       "wraca": "300-02-20"
     },
     {
@@ -294,7 +294,7 @@
       "co": "DONNEL OBROK (Dustinport, budowa) - pytanie pod pieczecia, jezdziec eskadry",
       "kto": "DONNEL",
       "zamyka": "meldunek w formie osmiu rubryk",
-      "status": "otwarte",
+      "status": "ZAMKNIETE 300-03-03 - meldunek przyszedl, 13 dni po terminie, pod pieczecia i proza; od 300-04-01 idzie na osmiu rubrykach",
       "kanal": "jezdziec Fosa-Dustinport",
       "wraca": "300-02-20"
     },
@@ -546,7 +546,7 @@
       "co": "POMIAR OSWYNA - zlecenie z 299-09-13: przez cala zime MIERZYC TEN SAM SKLAD przy zsypaniu i przy wysypaniu i spisywac roznice. W zleceniu stoi wprost: 'DO WIOSNY Skarbnik bedzie mial czym UZASADNIC ogloszona liczbe, zamiast ja wymyslic'. WIOSNA JEST TERAZ, A LICZBY NIKT NIE ZAZADAL. Ksiega spichlerza Zimowego Miasta miala byc WZOREM dla ksiag skladowych krolestwa - i cala dzisiejsza maszyna zbozowa (cena minimalna, rubryka stanu ziarna, przymus skladu) stoi bez tego pomiaru.",
       "kto": "OSWYN -> GAWEN",
       "zamyka": "liczba roznicy zsyp/wysyp za zime",
-      "status": "otwarte - PRZETERMINOWANE",
+      "status": "ZAMKNIETE 300-03-03 - liczba wydana: 7 na sto. Pozycja byla przeterminowana o 2 dni tylko dlatego, ze nie zamknalem jej po wydaniu.",
       "kanal": "kruk Winterfell-Fosa",
       "wraca": "300-03-01"
     },
@@ -927,6 +927,42 @@
       "wraca": "300-03-13",
       "zamyka": "liczba",
       "status": "otwarte"
+    },
+    {
+      "data": "300-03-03 - PRZYSZLO",
+      "co": "MELDUNEK DONNELA OBROKA, 13 dni po terminie, PROZA POD PIECZECIA - bo rubryk nie mial. LICZBY: dwiescie dwadziescia szesc ludzi na przyczolku, z tego STO CZTERNASTU TO ODBICI BEZ DOMU, ktorzy nie mieli dokad wrocic - eskadra werbuje sie sama i on to policzyl PIERWSZY. Kadluby: SZESC na pochylni, DWA wodowane, JEDEN stracony na wiosnie. Przyczolek zjada SIEDEMDZIESIAT KORCY NA TYDZIEN. ### PROBLEM, KTORY PODAL SAM I KTOREGO NIKT NIE ZAMAWIAL: 'Kwity z dwoch ostatnich miesiecy nie zgadzaja sie z ladunkiem O DZIEWIEC KORCY NA TYDZIEN. Nie pisze, ze ktos kradnie. Pisze, ze NIKT MNIE O TO NIE PYTAL, a ja licze od pierwszego dnia.' To jest dokladnie rubryka 7 jego nowej karty - wypelnil ja, zanim ja dostal.",
+      "kto": "DONNEL OBROK",
+      "kanal": "jezdziec Fosa-Dustinport",
+      "wraca": "300-03-03",
+      "zamyka": "przeczytane",
+      "status": "zrobione"
+    },
+    {
+      "data": "300-03-03 - PRZYSZLO",
+      "co": "MELDUNEK BORSA Z PRZYSTANI WILKA, 13 dni po terminie. NAZWISKO, O KTORE PYTAL CERWYN, STALO W PIERWSZEJ LINII - 'Bors, murarz, z Nowego Zamku'. STANELO: pomost na osiemdziesiat sazni, dwa magazyny pod dachem, polowa nabrzezna. STOI: BASZTA - od dziewiecdziesieciu dni, bo KAMIEN Z ZEWNATRZ NIE PRZYSZEDL. ### ZDANIE, KTORE ROZSTRZYGA SPOR O CWIARTKE CERWYNA: 'Rece daje Manderly, grunt dal Cerwyn, a placi Korona. Prowadze ksiegi tak, zeby kazdy widzial SWOJE - ale nikt ich nigdy nie zazadal, wiec nikt ich nie widzial.' ### I PROSBA, KTOREJ NIE ZGLASZAL PRZEZ SIEDEM MIESIECY, BO NIE MIAL KOMU: CZLOWIEK DO KSIAG POMOSTU. Dostal go wczoraj - NORREN SCISLY.",
+      "kto": "BORS",
+      "kanal": "jezdziec Fosa-Przystan Wilka",
+      "wraca": "300-03-03",
+      "zamyka": "przeczytane",
+      "status": "zrobione"
+    },
+    {
+      "data": "300-03-13",
+      "co": "DZIEWIEC KORCY TYGODNIOWO RAZNICY W DUSTINPORCIE - zglosil DONNEL sam, z wlasnych kwitow, za dwa miesiace wstecz. Nie oskarza nikogo. TO SA OKOLO SIEDEMDZIESIAT DWA KORCE - przy cenie skladu 11-12 jeleni to okolo OSMIU SMOKOW. ⚠ DO ROZSTRZYGNIECIA PRZEZ GRACZA: kto to sprawdza. Donnel lapal zlodziei poltora roku, ale KTO CHWYTA, TEN NIE SADZI - a lustrator (Tommard Kosa) zaczyna dopiero 300-03-05 i jest czlowiekiem Cerwyna, wiec Dustinport lezy poza jego objazdem.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "nazwisko tego, kto sprawdza, albo decyzja, ze nie sprawdzamy",
+      "status": "otwarte - NOWE"
+    },
+    {
+      "data": "300-03-13",
+      "co": "KAMIEN NA BASZTE PRZYSTANI WILKA - baszta stoi DZIEWIECDZIESIAT DNI, bo kamien z zewnatrz nie przyszedl. ⚡ TO JEST TEN SAM KAMIEN, PO KTORY JEDZIE ZWIAD NA GORACY PORT (pozycja od 300-02-27, z Vardem Kilofem od 300-03-03). JEDNA WYPRAWA, TRZY CELE: grobla, Glebokorzen, baszta. I ten sam brak, ktory stoi przy kafarach - 'nie brakuje pieniedzy, brakuje kamienia i rozkazu'.",
+      "kto": "ORBELO + VARD KILOF",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "kamien w drodze albo inne zrodlo",
+      "status": "otwarte - NOWE"
     }
   ]
 }

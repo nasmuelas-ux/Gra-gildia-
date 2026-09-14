@@ -90,6 +90,11 @@
       "wraca_lacznie": null,
       "zrodlo": "ROBOTA NIE MA CZASU DROGI, MA TERMIN MELDUNKU. Kazda budowa i kazde zlecenie melduje sie w dniu wpisanym, takze gdy meldunek brzmi 'stoi'.",
       "sprawdzaj_co": 7
+    },
+    "jezdziec Fosa-Przystan Wilka": {
+      "tam": 6,
+      "wraca_lacznie": 12,
+      "zrodlo": "wezel na GORNYM BIALYM NOZU - nie Dustinport; do 300-03-03 pozycja miala w rejestrze zly kanal"
     }
   }
 }

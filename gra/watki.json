@@ -3454,7 +3454,7 @@
    "id": "zelazni_na_morzu_balon_299_06",
    "tytul": "Zelazni na morzu / Balon krolem-samozwancem - sprawa panstwa (front zachodni)",
    "status": "STRATEGIA_PRZYJETA_299-06-08_splot_dzwigni",
-   "_dziennik_nota": 15
+   "_dziennik_nota": 16
   },
   {
    "id": "mira_lyra_u_catelyn_299_06",
@@ -5389,7 +5389,7 @@
    "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady.",
    "filar": "ZIEMIE BEZ PANA - Kamienisty Brzeg i Cypel",
    "stan_watku": "ZYWY",
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "wylaczenie_namiestnika_z_regencji_299_09",
@@ -5953,7 +5953,7 @@
   {
    "id": "przystanie_ladunkowe_wschodu_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "filar": "PRZYSTANIE LADUNKOWE WSCHODU",
    "stan_watku": "ZYWY"
   },
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 41
+   "_dziennik_nota": 42
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

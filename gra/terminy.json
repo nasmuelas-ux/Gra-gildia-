@@ -47,10 +47,10 @@
   },
   {
    "data": "300-03-05 - WYJAZD DWA DNI WCZESNIEJ",
-   "co": "WYJAZD SYMONA z Fosy ### 300-03-05: WYJECHAL DZIS, NIE SIODMEGO. ⚠ I RZECZ, KTORA TRZEBA POWIEDZIEC UCZCIWIE: TO NIE JEST ZMIANA TRASY. Wyjazd 03-07 i tak szedl NA BIALY PORT (adres ruchomy, ustalony 300-02-17: do 03-07 Fosa, potem Bialy Port, od ~03-20 Winterfell). Ta sama droga, zaczeta o dwa dni wczesniej. ### CZAS: trakt padl dzis rana - maz do osi. Jezdziec Fosa-Bialy Port to zwykle 6-8 dni; po takim deszczu 7-9, i tylko jesli jedzie LEKKO, mala kupa, ze zmiana koni tam, gdzie Korona je ma. PRZYJAZD ~300-03-12/03-14. ### Jedzie przyboczna Stena.",
+   "co": "WYJAZD SYMONA z Fosy ### 300-03-05: WYJECHAL DZIS, NIE SIODMEGO. ⚠ I RZECZ, KTORA TRZEBA POWIEDZIEC UCZCIWIE: TO NIE JEST ZMIANA TRASY. Wyjazd 03-07 i tak szedl NA BIALY PORT (adres ruchomy, ustalony 300-02-17: do 03-07 Fosa, potem Bialy Port, od ~03-20 Winterfell). Ta sama droga, zaczeta o dwa dni wczesniej. ### CZAS: trakt padl dzis rana - maz do osi. Jezdziec Fosa-Bialy Port to zwykle 6-8 dni; po takim deszczu 7-9, i tylko jesli jedzie LEKKO, mala kupa, ze zmiana koni tam, gdzie Korona je ma. PRZYJAZD ~300-03-12/03-14. ### Jedzie przyboczna Stena. ### 300-03-11: ZAMKNIETE - Symon w Bialym Porcie od 03-11, szesc dni zamiast siedmiu do dziewieciu.",
    "kto": "Symon + przyboczna (Sten)",
    "zamyka": "Symon w Bialym Porcie",
-   "status": "otwarte",
+   "status": "zrobione 300-03-12",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13"
   },
@@ -137,19 +137,19 @@
   },
   {
    "data": "~300-03-13",
-   "co": "BIALY PORT - WYMAN: podpis Ujscia z reki do reki, splawnosc Samotnych Wzgorz, udzial w drewnie, Medrick, dwa nowe porty ### ⚠ 300-03-12: TA AGENDA BYLA ZAREJESTROWANA, A JA IMPROWIZOWALEM WLASNA LISTE (zasada 44 - nie sprawdzilem). Sesc pozycji, ktore tu stoja, to: (1) PODPIS UJSCIA Z REKI DO REKI - dok w Ujsciu, podpisany osobiscie, nie listem; idzie jutro razem z przewloka, bo to jeden lancuch. (2) SPLAWNOSC SAMOTNYCH WZGORZ - ⚠ LICZBA MIALA BYC W REKU PRZED ROZMOWA Z WYMANEM (termin TOVE ZE WZGORZ) I NIE MA JEJ. Rozmowa idzie bez niej albo czeka. (3) UDZIAL W DREWNIE - drewno Benneta karmi bednarnie, a bednarnia jest w lancuchu konserwacji; Manderly chce udzialu w tej linii. (4) MEDRICK - ser Medrick Manderly; pozycja zapisana bez tresci. (5) DWA NOWE PORTY. (6) KONIEC PRZEWAGI NIEOGLOSZONEGO STATUTU - osobna pozycja, tez do podpisu Wymana.",
+   "co": "BIALY PORT - WYMAN: podpis Ujscia z reki do reki, splawnosc Samotnych Wzgorz, udzial w drewnie, Medrick, dwa nowe porty ### ⚠ 300-03-12: TA AGENDA BYLA ZAREJESTROWANA, A JA IMPROWIZOWALEM WLASNA LISTE (zasada 44 - nie sprawdzilem). Sesc pozycji, ktore tu stoja, to: (1) PODPIS UJSCIA Z REKI DO REKI - dok w Ujsciu, podpisany osobiscie, nie listem; idzie jutro razem z przewloka, bo to jeden lancuch. (2) SPLAWNOSC SAMOTNYCH WZGORZ - ⚠ LICZBA MIALA BYC W REKU PRZED ROZMOWA Z WYMANEM (termin TOVE ZE WZGORZ) I NIE MA JEJ. Rozmowa idzie bez niej albo czeka. (3) UDZIAL W DREWNIE - drewno Benneta karmi bednarnie, a bednarnia jest w lancuchu konserwacji; Manderly chce udzialu w tej linii. (4) MEDRICK - ser Medrick Manderly; pozycja zapisana bez tresci. (5) DWA NOWE PORTY. (6) KONIEC PRZEWAGI NIEOGLOSZONEGO STATUTU - osobna pozycja, tez do podpisu Wymana. ### 300-03-12 WIECZOR: PIEC Z SZESCIU POZYCJI PRZEROBIONYCH (Ujscie, udzial w drewnie -> bednarnia, Medrick, dwa nowe porty -> program przystani, statut). ZOSTAJE SPLAWNOSC SAMOTNYCH WZGORZ - czeka na liczbe Tove.",
    "kto": "Symon",
    "zamyka": "podpis",
-   "status": "otwarte",
+   "status": "zrobione 300-03-12",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13"
   },
   {
    "data": "~300-03-13",
-   "co": "BIALY PORT - HAL: placowki (Braavos, Pentos, Gulltown, Highgarden), obrot przez rece cechowe, forma zwrotu 695, POCHODZENIE ziarna, suma emisji ### 300-03-12: PIEC POZYCJI, Z KTORYCH DWIE JUZ ZAMKNIETO DZIS WIECZOREM (forma zwrotu 695 - calosc w towarze; i bilans). ZOSTAJA TRZY: (1) PLACOWKI: BRAAVOS, PENTOS, GULLTOWN, HIGHGARDEN - ekspansja poza szesc obecnych; (2) OBROT PRZEZ RECE CECHOWE - ile domu przechodzi przez cechy i co to znaczy przy karcie cechow, ktora wlasnie ukladamy; (3) POCHODZENIE ZIARNA i SUMA EMISJI - ile papieru Dom wystawia, skoro wlasnie wykupil 340 i odzyskal zdolnosc wekslowa.",
+   "co": "BIALY PORT - HAL: placowki (Braavos, Pentos, Gulltown, Highgarden), obrot przez rece cechowe, forma zwrotu 695, POCHODZENIE ziarna, suma emisji ### 300-03-12: PIEC POZYCJI, Z KTORYCH DWIE JUZ ZAMKNIETO DZIS WIECZOREM (forma zwrotu 695 - calosc w towarze; i bilans). ZOSTAJA TRZY: (1) PLACOWKI: BRAAVOS, PENTOS, GULLTOWN, HIGHGARDEN - ekspansja poza szesc obecnych; (2) OBROT PRZEZ RECE CECHOWE - ile domu przechodzi przez cechy i co to znaczy przy karcie cechow, ktora wlasnie ukladamy; (3) POCHODZENIE ZIARNA i SUMA EMISJI - ile papieru Dom wystawia, skoro wlasnie wykupil 340 i odzyskal zdolnosc wekslowa. ### 300-03-11/12: PRZEROBIONE - bilans, forma zwrotu 695 (calosc w towarze), placowki (Braavos i Pentos otwarte, Highgarden na spust, Gulltown nie), Obaro obsadzony. ZOSTAJE: obrot przez rece cechowe, pochodzenie ziarna, suma emisji.",
    "kto": "Symon + Hal",
    "zamyka": "rozmowa w oczy",
-   "status": "otwarte",
+   "status": "zrobione 300-03-12",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13"
   },
@@ -1002,12 +1002,12 @@
   },
   {
    "data": "300-03-13 - PRZED ROZMOWA Z HALEM",
-   "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze. ### ⚠ 300-03-05 VOID BLEDU GM: ta pozycja zostala wczoraj zamknieta PRZEZ POMYLKE - dopisek o wykonaniu przegrody nalezal do pozycji 'PRZEGRODA SIEWNA - WYKONANIE', nie do tej. Kolizja o NIETYKALNOSC ZIARNA SIEWNEGO stoi otworem dalej. Zasada 3: blad GM nie przechodzi na gracza - pozycja wraca z ta sama data, nie z kara za dwa dni. ### 300-03-06 ODLOZONE PRZEZ GRACZA DO BIALEGO PORTU: 'Hal bedzie przedstawial mi raport bilansowy, wtedy to rozwiklam'. Rozstrzygniecie zapada przy ksiegach, nie na trakcie - i to jest wlasciwa kolejnosc, bo pytanie brzmi 'czym stoi papier', a odpowiedz jest w bilansie. ⚠ POPRAWKA MOJA: pisalem 'wiazka III (CHLEB)'. CHLEB TO WIAZKA IV - uklad dnia przebudowal KROL: I Mur-rejestr · II urzad, ktory idzie i sprawdza · III WODA · IV CHLEB · V HANDEL · VI USTROJ.",
+   "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze. ### ⚠ 300-03-05 VOID BLEDU GM: ta pozycja zostala wczoraj zamknieta PRZEZ POMYLKE - dopisek o wykonaniu przegrody nalezal do pozycji 'PRZEGRODA SIEWNA - WYKONANIE', nie do tej. Kolizja o NIETYKALNOSC ZIARNA SIEWNEGO stoi otworem dalej. Zasada 3: blad GM nie przechodzi na gracza - pozycja wraca z ta sama data, nie z kara za dwa dni. ### 300-03-06 ODLOZONE PRZEZ GRACZA DO BIALEGO PORTU: 'Hal bedzie przedstawial mi raport bilansowy, wtedy to rozwiklam'. Rozstrzygniecie zapada przy ksiegach, nie na trakcie - i to jest wlasciwa kolejnosc, bo pytanie brzmi 'czym stoi papier', a odpowiedz jest w bilansie. ⚠ POPRAWKA MOJA: pisalem 'wiazka III (CHLEB)'. CHLEB TO WIAZKA IV - uklad dnia przebudowal KROL: I Mur-rejestr · II urzad, ktory idzie i sprawdza · III WODA · IV CHLEB · V HANDEL · VI USTROJ. ### 300-03-11 ROZWIAZANE PRZEZ WYKUP: weksel wykupiony nie potrzebuje zastawu, wiec kolizja PRZESTALA ISTNIEC zamiast zostac rozwiazana.",
    "kto": "SYMON + HAL - w Bialym Porcie, przy bilansie",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "rozstrzygniecie: co zabezpiecza weksle po ogloszeniu nietykalnosci siewu",
-   "status": "otwarte - ODLOZONE DO BILANSU W BIALYM PORCIE"
+   "status": "zrobione 300-03-12"
   },
   {
    "data": "300-03-13",
@@ -1029,12 +1029,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "ROLOWANIE 340 - do uzgodnienia z Halem w Bialym Porcie: nowy termin 90 dni, zabezpieczenie ZDJETE Z ZIARNA SIEWNEGO i przeniesione na SOL, RYBE SOLONA I SKLADOWE BIALEGO PORTU. POWOD PODANY WIERZYCIELOM WPROST, BO I TAK BEDZIE JAWNY: lord oglasza nietykalnosc siewu na Radzie 300-03-30 i Dom nie chce, zeby jego papier stal na czyms, czego pan wlasnie zakazal ruszac. ⚠ CENA: rolowanie kosztuje zaufanie, a 'WEKSEL JEST CZYSTYM ZAUFANIEM'. Dlatego idzie Z POWODEM I Z WYPRZEDZENIEM, nie w dniu zapadalnosci.",
+   "co": "ROLOWANIE 340 - do uzgodnienia z Halem w Bialym Porcie: nowy termin 90 dni, zabezpieczenie ZDJETE Z ZIARNA SIEWNEGO i przeniesione na SOL, RYBE SOLONA I SKLADOWE BIALEGO PORTU. POWOD PODANY WIERZYCIELOM WPROST, BO I TAK BEDZIE JAWNY: lord oglasza nietykalnosc siewu na Radzie 300-03-30 i Dom nie chce, zeby jego papier stal na czyms, czego pan wlasnie zakazal ruszac. ⚠ CENA: rolowanie kosztuje zaufanie, a 'WEKSEL JEST CZYSTYM ZAUFANIEM'. Dlatego idzie Z POWODEM I Z WYPRZEDZENIEM, nie w dniu zapadalnosci. ### ⚠ 300-03-11 BEZPRZEDMIOTOWE: WEKSLE IDA NA WYKUP, nie na rolowanie - podpis z 300-01-26 utrzymany w mocy. 95 + 110 + 90 + 45 = 340.",
    "kto": "HAL (Kasa 1)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "nowy termin podpisany i nowe zabezpieczenie wpisane",
-   "status": "otwarte"
+   "status": "zrobione 300-03-12"
   },
   {
    "data": "300-03-13",
@@ -1047,12 +1047,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "ZAMKNIECIE 695 - PIEC WARUNKOW, KTORE HAL MA POSTAWIC GAWENOWI. Rachunek jest UZNANY W CALOSCI, bez kwestionowania ani jednej pozycji; spor nie istnieje, istnieje BRAK WOLNEJ MONETY. (1) STO SMOKOW W MONECIE TERAZ - jedna siodma. Tyle Skarb udzwignie, a marzec staje sie cichy (340 w wekslach zapada w tym miesiacu). (2) RESZTA - 595 - W TOWARZE, ale TOWAR WYBIERA DOM, NIE SKARB. Bez tego Skarb wypchnie to, czego sam nie umie sprzedac, i dlug zamieni sie w magazyn. (3) TOWAR TYLKO Z LISTY, KTORA DOM JUZ OBRACA: sol, ryba solona, drewno, bursztyn. Nic egzotycznego - Dom bierze ryzyko sprzedazy, wiec musi brac to, co umie sprzedac. (4) CENA WEJSCIOWA - OGLOSZONA STAWKA KORONY, LICZONA NA DZIEN WYDANIA, NIE NA DZIEN RACHUNKU. Zima rusza cenami; kto liczy po starej, okrada jedna ze stron i nie wiadomo ktora. (5) KWIT NA KAZDA PARTIE OSOBNO, z waga i data. Jedna suma na dole, ale osiem wierszy nad nia.",
+   "co": "ZAMKNIECIE 695 - PIEC WARUNKOW, KTORE HAL MA POSTAWIC GAWENOWI. Rachunek jest UZNANY W CALOSCI, bez kwestionowania ani jednej pozycji; spor nie istnieje, istnieje BRAK WOLNEJ MONETY. (1) STO SMOKOW W MONECIE TERAZ - jedna siodma. Tyle Skarb udzwignie, a marzec staje sie cichy (340 w wekslach zapada w tym miesiacu). (2) RESZTA - 595 - W TOWARZE, ale TOWAR WYBIERA DOM, NIE SKARB. Bez tego Skarb wypchnie to, czego sam nie umie sprzedac, i dlug zamieni sie w magazyn. (3) TOWAR TYLKO Z LISTY, KTORA DOM JUZ OBRACA: sol, ryba solona, drewno, bursztyn. Nic egzotycznego - Dom bierze ryzyko sprzedazy, wiec musi brac to, co umie sprzedac. (4) CENA WEJSCIOWA - OGLOSZONA STAWKA KORONY, LICZONA NA DZIEN WYDANIA, NIE NA DZIEN RACHUNKU. Zima rusza cenami; kto liczy po starej, okrada jedna ze stron i nie wiadomo ktora. (5) KWIT NA KAZDA PARTIE OSOBNO, z waga i data. Jedna suma na dole, ale osiem wierszy nad nia. ### 300-03-06/11: warunek (1) wycofany przez pana - CALOSC W TOWARZE, ani smoka w monecie; Dom wybiera tresc I KOLEJNOSC partii.",
    "kto": "HAL -> GAWEN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "sto w monecie policzone i towar wydany z kwitami",
-   "status": "otwarte - PILNE"
+   "status": "zrobione 300-03-12"
   },
   {
    "data": "300-03-13",
@@ -1596,12 +1596,12 @@
   },
   {
    "data": "300-03-06",
-   "co": "TRZECIA REKA DO PRZEWLOKI - KTO ROZSTRZYGA SPOR O LICZBE MIEDZY DWOMA DOMAMI. Pomiar dal dwie liczby i obie sa pod pieczecia. ### CO JEST W REKU: (a) MAESTER - Weylin jest nasz, wiec nie on; maester Bialego Portu jest Wymana, wiec tez nie; TRZECI MAESTER jest neutralny i lancuch to jego zawod; (b) LUSTRATOR TOMMARD KOSA - siedzi na Fosie do 300-03-30 i jest CZLOWIEKIEM CERWYNA, nie naszym i nie Wymana; (c) KORONA - ale krzeslo, ktore by to podpisalo, jest puste piaty miesiac. ### ⚠ TO JEST TRZECI RAZ W TYGODNIU, KIEDY BRAKUJE URZEDU, KTORY ORZEKA MIEDZY DWOMA ROWNYMI. Pierwszy: zgoda Korony pod Prawem Spichlerza. Drugi: kto odmowil w listopadzie. Teraz przewloka.",
+   "co": "TRZECIA REKA DO PRZEWLOKI - KTO ROZSTRZYGA SPOR O LICZBE MIEDZY DWOMA DOMAMI. Pomiar dal dwie liczby i obie sa pod pieczecia. ### CO JEST W REKU: (a) MAESTER - Weylin jest nasz, wiec nie on; maester Bialego Portu jest Wymana, wiec tez nie; TRZECI MAESTER jest neutralny i lancuch to jego zawod; (b) LUSTRATOR TOMMARD KOSA - siedzi na Fosie do 300-03-30 i jest CZLOWIEKIEM CERWYNA, nie naszym i nie Wymana; (c) KORONA - ale krzeslo, ktore by to podpisalo, jest puste piaty miesiac. ### ⚠ TO JEST TRZECI RAZ W TYGODNIU, KIEDY BRAKUJE URZEDU, KTORY ORZEKA MIEDZY DWOMA ROWNYMI. Pierwszy: zgoda Korony pod Prawem Spichlerza. Drugi: kto odmowil w listopadzie. Teraz przewloka. ### 300-03-12: TOMMARD KOSA, i podpisuje sie STAWKE I METODE, nie liczbe.",
    "kto": "SYMON - decyzja w drodze",
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-03-12",
    "zamyka": "trzecia reka wskazana i przyjeta PRZEZ OBIE STRONY - albo pomiar robi sie od nowa razem",
-   "status": "otwarte - DECYZJA GRACZA"
+   "status": "zrobione 300-03-12"
   },
   {
    "data": "300-03-06",
@@ -2510,6 +2510,15 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "cztery propozycje zlozone, piata pokazana jako stojaca",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "⚠ SZTORM (rzut 7) - PIERWSZA PARTIA TOWARU KORONY NIE WEJDZIE DZIS. Nabrzeze stoi, kruki nie leca. ### CO TO ROBI Z MARCEM: 45 smokow, ktore zamykaja wykup 340, mialo zejsc z pierwszej partii soli i ryby. Weksle zapadaja W MARCU - kilka dni zwloki jeszcze sie miesci, ale zapas dni wlasnie sie skrocil. ### CO IDZIE MIMO SZTORMU: PODPIS Z WYMANEM - akty podpisuje sie pod dachem.",
+   "kto": "HAL + kapitanat portu",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-15",
+   "zamyka": "pierwsza partia w skladzie",
    "status": "otwarte"
   }
  ]

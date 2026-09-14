@@ -2,12 +2,12 @@
  "data": {
   "rok": 300,
   "miesiac": 3,
-  "dzien": 12,
+  "dzien": 13,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 96 (300-03-12) - JASNO, SUCHO, WIATR OD LADU. Najlepszy dzien portowy od tygodni: nabrzeze pracuje pelna para, statki wchodza i wychodza bez czekania na wiatr. TOWAR KORONY WCHODZI JUTRO BEZ PRZESZKOD. Na Fosie ciepło i mokro - kanaly puszczaja na dobre.",
+ "pogoda": "RZUT 7 (300-03-13) - SZTORM OD MORZA, PIERWSZY WIOSENNY. Wiatr wschodni, deszcz ze sniegiem, fala przez glowice mola. NAJGORSZY DZIEN PORTOWY OD TYGODNI I WYPADA NA TEN. SKUTKI: (1) NABRZEZE STOI - nic nie wchodzi i nic nie wychodzi; PIERWSZA PARTIA TOWARU KORONY NIE WEJDZIE DZIS. (2) PODPIS Z WYMANEM IDZIE NORMALNIE - akty podpisuje sie pod dachem. (3) KRUKI NIE LECA. (4) Na Fosie: wiatr od morza doszedl w glab, kanaly wzbieraja.",
  "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
@@ -54,7 +54,7 @@
   "prowiant_uwaga": null
  },
  "swieto": "brak",
- "dzien": 12,
+ "dzien": 13,
  "mechanika_inbound": {
   "zasada": "W KAZDEJ turze najpierw sprawdz INBOUND: kto sam przychodzi do Symona / przysyla poslanca / dopomina sie o swoje / przynosi robote lub wiesc. Swiat puka do gracza, nie tylko gracz do swiata. NPC maja wlasna agency i wlasne sprawy - ruch nalezy do obu stron.",
   "jak": "Co ture rozwaz 0-2 zdarzenia przychodzace, zakotwiczone w ZYWYCH watkach/potrzebach NPC (nie manufaktura). Cieple + aktywny interes = wieksza szansa ze sami sie odezwa. Rzut jesli niejasne. Zrodla: klienci z robota (Aurane/Rollam-peer/Harlon), partnerzy (Nesta/Hal/Bran), dostawcy (Boren-zelazo/Godric-parcela/Torsen), relacje (Mira/Leona/Wenda-wesele Bess), Wiara (Owen/Torren).",
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 100,
+ "_dziennik_nota": 101,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
@@ -259,5 +259,6 @@
  "noc_300_03_08_koniec_dnia": "Czwarty dzien drogi. Kruk z drogi do Cailin: zdanie obok dna - widelki z ksiegi targu, odswiezane co dzien targowy. Ustalone, ze ptak wraca tam, skad go wzieto: z traktu pisze sie tylko na Fose i nic nie wraca.",
  "noc_300_03_09_koniec_dnia": "Piaty dzien. Harl przyslal z Barrowton korce i pisemne nie - rubryka stanu ziarna uratowala siew. Skup ziarna siewnego we wsiach Fosy ruszyl krukiem z drogi: rubryka na kazda partie, gorny kraniec widelek, tylko nadwyzka ponad wlasny wysiew, przez soltysow.",
  "noc_300_03_10_koniec_dnia": "Szosty dzien. Hal na trakcie z wiadomoscia. Dziecko nie zyje, Mira zyje.",
- "noc_300_03_11_koniec_dnia": "Przyjazd do Bialego Portu. Mira: goraczka od trzeciego dnia, nierozstrzygniete. Poczta odczytana: Krol przyjmuje rozdzielenie krzesla (41), podpis pod zgoda z data waznosci, Beron nie dal rady (7), sklad w Cailin przyznany a garnizon z zoldem na lennie (65), o Ilariu ani tak ani nie (28). Bilans Hala odczytany z zapisu, weksle IDA NA WYKUP. Ustalona EKONOMIA_BAZA i zasada 43."
+ "noc_300_03_11_koniec_dnia": "Przyjazd do Bialego Portu. Mira: goraczka od trzeciego dnia, nierozstrzygniete. Poczta odczytana: Krol przyjmuje rozdzielenie krzesla (41), podpis pod zgoda z data waznosci, Beron nie dal rady (7), sklad w Cailin przyznany a garnizon z zoldem na lennie (65), o Ilariu ani tak ani nie (28). Bilans Hala odczytany z zapisu, weksle IDA NA WYKUP. Ustalona EKONOMIA_BAZA i zasada 43.",
+ "noc_300_03_12_koniec_dnia": "Dzien drugi w Bialym Porcie, dlugi. U WYMANA: przewloka - podpisujemy STAWKE I METODE, nie liczbe; trzecia reka TOMMARD KOSA; PORT WSCHODNI WSPOLNY, nazwa UJSCIE TALLY-MANDERLY; przewloke finansuje Dom bezzwrotnym zasileniem Kasy 2, myto zostaje lennu; udzial nie w drewnie, tylko W BEDNARNI; kolebka Glebokorzenia na OBIE izby; czesc V Prawa Spichlerza bedzie egzekwowal Bialy Port i Wyman prosi, zeby zrobic go tym, kto to wykonuje; karta Mistrza Handlu jednym aktem z karta standardow, na Radzie. DAVOS: Symon mowi mu wprost, Wyman ma oslone. U MEDRICKA: Pentos ma dach i nie mial czlowieka; Lorren odrzucony (rzut 5, 'ten, co chodzi wszedzie'), zostaje w Bialym Porcie; OBARO wskazany przez Medricka (67) i wziety przez Hala, wprowadzenie Medricka NA PISMIE, ksiega Pentos idzie do kantoru Nesty. Placowki: Braavos i Pentos otwarte, Highgarden na spust 03-17, Gulltown swiadomie nie. DREWNO: nie sprzedajemy prawa - krolestwo sprzedaje drewno zorganizowanie przez Mistrza Handlu; cena ogloszona, Miara Polnocna, ksiega jawna. PRZYSTANIE WSCHODU jako PROPOZYCJA, nie prosba - cztery do zbudowania plus Przystan Wilka, ktora juz stoi i okazala sie zakolem z planu z 298."
 }

@@ -2313,6 +2313,33 @@
    "wraca": "300-03-13",
    "zamyka": "udzial w bednarni ustalony co do czesci i wkladu - albo Wyman obstaje przy drewnie",
    "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-12",
+   "co": "PRZEWOZ DREWNA DO PENTOS - STAN SPRAWY, ODCZYTANY Z ZAPISU. ### CO JUZ CZEKA I NIE JEST NASZE: ILLYRIO czeka na PIERWSZA WIADOMOSC O DREWNIE i na JEDNEGO FAKTORA Z KSIEGA W BIALYM PORCIE. PRESTAYNOWIE SAMI PRZYSLALI MIERNIKA. Warunek Terysa brzmial krotko: 'ROZWIAZCIE PRZEWOZ' i 'przywiezcie raz jak trzeba'. ### CENA: 110-120 JELENI ZA SZTUKE SUCHA, SPOD POKLADU - stwierdzona NA PISMIE przez kupca z Braavos (ibbenskie nominalnie 90, naprawde ~130 z odpadem). DREWNO JEST JEDYNYM TOWAREM POLNOCY Z CENA STWIERDZONA NA PISMIE. ⚠ Ale sam kupiec zaznaczyl: to CENA JEDNEGO KUPCA, NIE KONTRAKT. ### DLACZEGO TO STOI OD MIESIECY - ZASTRZEZENIE WAZNIEJSZE OD CENY: DREWNO JEST CIEZKIE. OSIEMNASCIE WOZOW TO JEDEN DZIEN BIALEGO PORTU. Ma sens WYLACZNIE tam, gdzie laduje PRZY WODZIE: Bialy Port, Przystan Wilka, Bialy Noz. Wziete w glebi ladu jest darowizna, ktora sami sobie robimy. ### CO SIE ZMIENILO DZIS WIECZOREM: OBARO SIEDZI W PENTOS OD DZIS, a Illyrio chcial faktora Z KSIEGA po drugiej stronie - i ten jest tu od poczatku. OBA KONCE MOGA WRESZCIE ISTNIEC NARAZ.",
+   "kto": "SYMON + HAL + OBARO",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "odczytane",
+   "status": "zrobione"
+  },
+  {
+   "data": "300-03-13",
+   "co": "⚠ ROZWIAZANIE PRZEWOZU, KTORE NIE JEST O KADLUBACH - I LEZY W ZAPISIE OD MIESIECY JAKO RADA NESTY, NIEPODJETA: SPRZEDAWAC PRAWO, NIE TOWAR. ### 'Nie drewno, tylko PRAWO DO WYCIECIA NA DWADZIESCIA LAT PO CENIE Z GORY. Kupiec z takim prawem SAM ZBUDUJE OKRETY I NABRZEZE, bo inaczej jego prawo jest bezwartosciowe - czyli FLOTA STANIE W WASZYCH PORTACH ZA CUDZE PIENIADZE.' ### TO ZNOSI CALY PROBLEM PRZEWOZU: przewozu sie nie rozwiazuje, PRZEWOZ SIE SPRZEDAJE KUPUJACEMU. Osiemnascie wozow na dzien przestaje byc nasza trudnoscia w chwili, gdy to on wozi. ### I CZESC, KTORA NESTA NAZWALA NAJLEPSZA: od tego dnia W BRAAVOS I W PENTOS SIEDZA LUDZIE, KTORZY STRACA MAJATEK, JESLI POLNOCY ZABRAKNIE. ### DRUGA POLOWA TEJ SAMEJ RADY, KTORA WIAZE SIE Z DZISIEJSZYM GLODEM SIEWNYM: JEDEN KONTRAKT, DWIE STRONY, SKLADANY LATEM - oni zboze po stalej cenie, my drewno po stalej cenie, W TYM SAMYM PAPIERZE, NA TE SAME LATA. 'Wtedy kazdy, kto chce was zaglodzic, MUSI NAJPIERW ZRUJNOWAC WLASNYCH KLIENTOW. Jedyna obrona, ktora dziala bez wojska.' ### ⚠ CZEGO SYMON NIE MOZE SPRZEDAC SAM: PRAWA DO WYCIECIA NA CUDZYCH LASACH. Fosa Cailin nie ma boru; drewno lezy u Benneta (prywatne, drobne) i w lasach LORDOW oraz KORONY. DWUDZIESTOLETNIE PRAWO DO POLNOCNEGO DREWNA TO POZYCJA NA WIELKA RADE, nie na umowe kupiecka.",
+   "kto": "SYMON -> RADA 300-03-30",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "prawo wyciecia jako pozycja Rady - albo swiadoma rezygnacja",
+   "status": "otwarte - DECYZJA GRACZA"
+  },
+  {
+   "data": "300-03-13",
+   "co": "PRZEWOZ DREWNA - CZESC, KTORA JEST WYMANA I IDZIE NA JUTRO. Nawet przy sprzedazy prawa ktos musi zaladowac, a ladowac da sie WYLACZNIE PRZY WODZIE: Bialy Port, Przystan Wilka, Bialy Noz - i wszystkie trzy sa jego albo wspolne z nim. ### DO TEGO SZKUTNICY: 'Polnoc nie bedzie budowala kadlubow DLA Braavos - Polnoc zbuduje kadluby, KTORE PRZYWIOZA IM DREWNO. Dzis go nie dostaja nie dlatego, ze go nie ma, tylko dlatego, ze NIE MA CZYM.' To zdanie padlo w Braavos wobec Terysa i jest prawdziwe takze wobec Wymana - z ta roznica, ze Wyman ma stocznie TERAZ. ### I TU SPINA SIE Z UDZIALEM W BEDNARNI: beczki i kadluby wychodza z tego samego placu, od tych samych ludzi i z tego samego drewna. To nie sa dwie rozmowy.",
+   "kto": "SYMON + WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "kto laduje, gdzie i czyim dnem - ustalone przy jutrzejszym podpisie",
+   "status": "otwarte - JUTRO"
   }
  ]
 }

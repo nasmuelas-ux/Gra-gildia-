@@ -1890,6 +1890,24 @@
    "wraca": "300-03-20",
    "zamyka": "ile lenno wzielo od Domu w monecie i w towarze za ostatni kwartal - jedna liczba",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "BIALY PORT I FOSA HQ ROZBITE NA LINIE - ROBOTA HALA PRZY KSIEGACH, WIECZOR 300-03-11. ⚠ PROWENIENCJA: sumy placowek i sumy miesieczne SA Z ZAPISU (300-01-26) i sie zgadzaja co do smoka; PODZIAL WEWNATRZ NICH ROBI HAL DZIS z pozycji ksiegi Tama - da sie go sprawdzic, nie jest zgadniety, ale przed dzisiejszym wieczorem NIE BYL NIGDZIE ZSUMOWANY. ### BIALY PORT 1815 (660/610/545): LANCUCH KONSERWACJI - sol, ryba solona, beczki na sprzedaz: 250/260/255 = 765 (42%). JEDYNA LINIA, KTORA ZIMA ROSNIE - 'pozycja stala, zima najlepsza'. BROKERKA I KANTOR: 210/175/130 = 515 (28%) - spada najmocniej, bo cudzy towar przestaje plynac. ARTERIA (fracht): 130/110/85 = 325 (18%) - lod. MLYN: 65/60/70 = 195 (11%) - w grudniu rosnie, bo miele sie zapasy. KAMIENICZKA: ~5/kwartal w obrocie (50 jeleni rocznie CZYSTO). ### FOSA CAILIN HQ 1245 (470/420/355): TOWAR WLOSCI - torf, trzcina, futra, zelazo bagienne, ryba swieza na solarnie: 200/185/170 = 555 (45%) - NAJWIEKSZA LINIA TEJ PLACOWKI I LICZBA, O KTORA GRACZ PYTAL TRZY RAZY. OBSLUGA KARAWAN: 150/125/85 = 360 (29%) - spada z traktami. SKLAD PRZY BRAMIE, skladowe i komisowe: 120/110/100 = 330 (27%) - najstabilniejsza, bo zima sie sklada, a nie wozi. ### SIEDZIBA nie daje obrotu - jest kosztem i siedzi w aparacie.",
+   "kto": "HAL SIEROTA + TAM",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-20",
+   "zamyka": "podzial sprawdzony wobec ksiegi Tama pozycja po pozycji",
+   "status": "otwarte - DO SPRAWDZENIA"
+  },
+  {
+   "data": "300-03-11",
+   "co": "⚠ LICZBA, KTORA Z TEGO WYCHODZI I KTORA NIE ZGADZA SIE Z BIEDA LENNA. Linia TOWAR WLOSCI daje 555 smokow OBROTU w kwartale. Przy marzy handlowej 12-18% (ta sama, ktorej Hal uzywa przy towarze Korony) LENNO POWINNO BYLO DOSTAC ZA TEN TOWAR OKOLO 460-490 SMOKOW - czyli ~155-165 MIESIECZNIE. ### A KASA 2 ZACHOWUJE SIE JAK KASA, KTORA TEGO NIE WIDZIALA: czynsze w dwoch trzecich, brakuje 140 korcy na marzec, 31/mies obciazenia za garnizon i szkole robi roznice. ### STO PIECDZIESIAT MIESIECZNIE NIE MOZE ZNIKNAC BEZ SLADU, WIEC SA TRZY MOZLIWOSCI: (a) LENNO DOSTAJE TO W ROZLICZENIU, NIE W MONECIE - Dom kredytuje lenno zamiast placic, a Kasa 2 ma dochod, ktorego nigdy nie widziala jako pieniadza; (b) CENA ZAKUPU JEST DUZO NIZSZA NIZ MARZA HANDLOWA, czyli roznica zostaje w Kasie 1; (c) CZESC TEGO TOWARU NIE JEST KUPOWANA OD LENNA, TYLKO JEST WLASNOSCIA PANA Z REGALI (torf) - i wtedy nie ma kogo zaplacic, bo sprzedajacy i kupujacy to ta sama osoba w dwoch kapeluszach. ### ⚠ (c) JEST NAJBARDZIEJ PRAWDOPODOBNE I NAJGORSZE DO WYTLUMACZENIA NA RADZIE. Rozstrzyga to ksiega Tama: czy przy torfie stoi CENA ZAKUPU, czy stoi tam zero.",
+   "kto": "HAL + TAM + WARRYN",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-20",
+   "zamyka": "przy torfie, trzcinie, futrach i zelazie stoi cena zakupu albo zero - trzeba wiedziec ktore",
+   "status": "otwarte - TO JEST TA LICZBA"
   }
  ]
 }

@@ -4395,7 +4395,7 @@
    "id": "poselstwo_do_dzikich_czulek_299_08",
    "tytul": "Poselstwo/czulek do dzikich (Mance) - dziczy jako wspoluciekinierzy nie tylko wrog; ZAPRZECZALNE, wysokie ryzyko",
    "status": "ZAPROJEKTOWANE_299-08-14_zaprzeczalny_czulek_do_zatwierdzenia_wykonania",
-   "_dziennik_nota": 3,
+   "_dziennik_nota": 4,
    "stan_watku": "ZYWY",
    "stan_uwaga": "OPERACJA pod filarem Muru/Mance. Osric wyslal poslanca, parlej przed nim."
   },
@@ -4794,7 +4794,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 40,
+   "_dziennik_nota": 41,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -5389,7 +5389,7 @@
    "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady.",
    "filar": "ZIEMIE BEZ PANA - Kamienisty Brzeg i Cypel",
    "stan_watku": "ZYWY",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "wylaczenie_namiestnika_z_regencji_299_09",
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 71,
+   "_dziennik_nota": 72,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 43
+   "_dziennik_nota": 44
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

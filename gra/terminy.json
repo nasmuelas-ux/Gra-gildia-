@@ -173,7 +173,7 @@
     },
     {
       "data": "300-03-30",
-      "co": "WIELKA RADA. 0. MUR (meldunek + aklamacja) - I. ZIEMIA BEZ PANA (pod glosy sama PROBA) - II. WODA - III. CHLEB + REWIZJA - IV. HANDEL",
+      "co": "WIELKA RADA. 0. MUR - OTWIERA LICZBA WLASNA: CZTERY TYSIACE OSIEMSET Z KLANOW, potem 530 Strazy / 340 zdatnych, potem 22 tysiace za Murem. Aklamacja stoi na liczbie, ktorej krolestwo nigdy nie mialo, NIE na najgorszej. I. ZIEMIA BEZ PANA (pod glosy sama PROBA) - II. WODA - III. CHLEB + REWIZJA - IV. HANDEL - V. KARTA DLA STARKPORTU (piata rzecz, ktorej nikt sie nie spodziewa).",
       "kto": "Symon, Cerwyn, Wyman",
       "zamyka": "cztery glosowania i aklamacja",
       "status": "otwarte",
@@ -708,7 +708,7 @@
       "co": "TRZY WARUNKI KROLA PRZED OTWARCIEM BRAMY DZIKIM - postawione 300-02-06 i DO DZIS BEZ ODPOWIEDZI: (1) KTO IDZIE ZA MUR - 'nie wyslecie posla, POSEL TO JEST AKT; wyslecie kogos, kto umie tam wejsc i wyjsc'. (2) CO SIE ROBI Z DOWODEM - kto go niesie i przez ile mil, gdzie go trzymamy, kto przy nim stoi w nocy, CZYM GO ZABIJAMY, gdyby sie ruszyl: 'stal nie robi nic, ogien robi', a JEDYNE CZARNE SZKLO NA POLNOCY TO DWA OSTRZA W PLOTNIE. 'Jesli cos pojdzie nie tak, nie stracimy dowodu - STRACIMY WSZYSTKO, CO TEN DOWOD MIAL UDOWODNIC.' (3) CZYM ICH NAKARMIC - 20-40 TYSIECY, wiecej niz Bialy Port, w krolestwie, ktorego Krol policzyl JEDNA DZIESIATA spichlerzy. 'Nie mowie nie. Mowie, ze bez tej liczby otwarcie bramy jest WYROKIEM WYDANYM PRZEZ NIKOGO.'",
       "kto": "SYMON",
       "zamyka": "trzy odpowiedzi na pismie, przed punktem 0 Rady",
-      "status": "otwarte - PILNE",
+      "status": "PROCESOWANE 300-03-03 wg Cerwyna - trzeci policzony, pierwszy i drugi maja ksztalt; pismo do Krola przed 300-03-07",
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-07"
     },
@@ -917,7 +917,7 @@
       "kanal": "kruk Winterfell-Fosa",
       "wraca": "300-03-07",
       "zamyka": "zgoda Krola na karte przed zima ALBO pisemna odmowa, ktora Sigrun ma zobaczyc",
-      "status": "otwarte - DO ROZSTRZYGNIECIA"
+      "status": "ROZSTRZYGNIETE 300-03-03 wg Cerwyna - przyczolek staje, wybor osadnikow zatwierdzony przez Symona, KARTA idzie na Rade jako piata rzecz"
     },
     {
       "data": "300-03-13",
@@ -1115,6 +1115,42 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-13",
       "zamyka": "lista nazwisk, ktore ruszyly zboze ku poludniu, z ksiag - nie z siatki",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "PISMO DO KROLA - TRZY WARUNKI, TRZY ODPOWIEDZI. Nie prosba: SPRAWOZDANIE. (3) CZYM ICH NAKARMIC - POLICZONE: 22 tysiace gab to okolo 22 TYSIECY KORCY MIESIECZNIE; po cenie skladu 11 jeleni to 1210 SMOKOW NA MIESIAC, czyli OKOLO JEDNEJ CZWARTEJ CALEGO ROCZNEGO DOCHODU KORONY W MONECIE. ### WNIOSEK, KTORY Z LICZBY WYNIKA SAM: NIE DA SIE ICH NAKARMIC KUPIONYM ZBOZEM. DA SIE ICH OSADZIC. Fosa ma na to gotowy wzor: zniesiona panszczyzna dla nowych, piec lat wolnizny, ziemia i narzedzia - i DAR, dwadziescia piec mil pustej ziemi, ktora i tak lezy PIERWSZA NA DRODZE MANCE'A. 'Zanim stanie sie ziemia, musi stac sie granica' - zapis 299-09-06; teraz ma liczbe. (1) KTO IDZIE ZA MUR - nie poslaniec i nie poseł. Poslaniec przepadl, tlumacz nie pojdzie, przewodnika nie ma. ZOSTAJE JEDEN RODZAJ CZLOWIEKA, KTORY UMIE TAM WEJSC I WYJSC: JEDEN Z TRZECH DZIKICH TRZYMANYCH PRZEZ STRAZ. Ma po tamtej stronie kogo znac, a po tej ma powod wrocic - o ile mu go damy. (2) CO Z DOWODEM - czarne szklo. DWA OSTRZA W PLOTNIE to jedyne, co Polnoc ma; ale STARE OSTRZA WYCHODZA Z TORFU, A TORFIARNIE FOSY TNA TEN SAM TORF (Reed, 299-10-04). To nie jest brak surowca, to brak szukania.",
+      "kto": "SYMON -> KROL",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-07",
+      "zamyka": "trzy odpowiedzi na jednej karcie, przed Rada",
+      "status": "otwarte - PILNE"
+    },
+    {
+      "data": "300-03-07",
+      "co": "PYTANIE DO TRZECH DZIKICH, przez OSRICA i tlumacza - jedyne, ktorego im nigdy nie zadano: GDZIE ICH KROL ZGODZILBY SIE STANAC I CZEGO DELEGACJA BY SIE BALA. Glowna brama Czarnego Zamku to brama zakonu, z ktorego Mance zdezerterowal - prosilismy go, zeby stanal pod jej lucznikami. I drugie pytanie, tanie: KTORY Z WAS TRZECH WROCILBY Z NASZYM SLOWEM, I ZA CO.",
+      "kto": "OSRIC + tlumacz",
+      "kanal": "przez Osrica (Mur)",
+      "wraca": "300-03-17",
+      "zamyka": "miejsce, warunek i nazwisko - albo trzy razy nie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-05",
+      "co": "STARKPORT WEDLUG CERWYNA: PRZYCZOLEK STAJE TERAZ, KARTA IDZIE NA RADE. VEMUND OD KOTWY rusza z ludzmi; WYBOR OSADNIKOW PRZEZ SIGRUN ZATWIERDZONY PISMEM SYMONA - to jego wlasne nadanie, nie prerogatywa Krola, wiec kosztuje jedno zdanie. KARTA MIASTA idzie na Rade 300-03-30 jako PIATA RZECZ. 'Karta dla portu, ktory juz stoi, kosztuje Krola mniej niz karta dla pustego cypla.' Sigrun dostaje to na pismie, zeby wiedziala, ze nie odmowiono jej - tylko odwrocono kolejnosc.",
+      "kto": "VEMUND + SIGRUN",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-05",
+      "zamyka": "pismo o osadnikach wreczone, przyczolek rusza",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-30",
+      "co": "REJESTRATOR KORONY NA RADZIE - JAKO SPRAWOZDANIE, NIE PROSBA. Pada JEDNA LICZBA: ile dni krzeslo stoi puste. Drugi raz sie nie prosi - ale wolno powiedziec, ile czasu minelo. I pada druga rzecz, ktorej nikt nie liczyl: UCHO KORONY I REJESTRATOR TO JEDNO KRZESLO.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30",
+      "zamyka": "liczba wypowiedziana",
       "status": "otwarte"
     }
   ]

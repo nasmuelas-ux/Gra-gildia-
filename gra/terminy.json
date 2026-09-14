@@ -1160,7 +1160,7 @@
       "kanal": "kruk Fosa-Bialy Port",
       "wraca": "300-03-07",
       "zamyka": "slowo Symona i data przeladunku - w glowie, nie w liscie",
-      "status": "otwarte - CZEKA NA JEDNO SLOWO"
+      "status": "SLOWO DANE 300-03-03 - idzie USTNIE przez DAGONA, nie krukiem; na papierze nie ma nic"
     },
     {
       "data": "300-03-10",
@@ -1178,6 +1178,42 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-07",
       "zamyka": "rozstrzygniecie, kto idzie i z czyim reczeniem",
+      "status": "WYKONANE 300-03-03 - idzie jeden z trzech, i idzie jako PIERWSZY OSADNIK, nie jako posel"
+    },
+    {
+      "data": "300-03-10",
+      "co": "SLOWO NA PRZELADUNEK - JEDZIE DAGON, USTNIE, BEZ PAPIERU. NIE KRUKIEM: kruk idzie przez WYSTANA, a Wystan to kanal znany Cytadeli (299-06-23). Czarne szklo to jedyny ladunek, o ktorym Starmiasto ma sie nie dowiedziec - wiec o przeladunku nie powstaje ANI JEDNA KARTKA. Dagon (przyboczna, pod Stenem) wiezie to w ustach do HALA; miejsce, sygnal i pore ma SYMON i ma DAVOS, i nikt trzeci. JEZDZIEC 6-8 DNI - u Hala okolo 300-03-10. Potem wychodzi kadlub Wymana.",
+      "kto": "DAGON -> HAL -> ser DAVOS",
+      "kanal": "jezdziec Fosa-Bialy Port",
+      "wraca": "300-03-10",
+      "zamyka": "slowo w rekach Hala",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-15",
+      "co": "CZARNE SZKLO NA POLNOCY - kadlub Wymana wychodzi po slowie, przeladunek na otwartej wodzie wedle Davosa, ladunek do Bialego Portu. To jest MATERIAL NA DRUGI WARUNEK KROLA: 'czym go zabijamy, gdyby sie ruszyl - stal nie robi nic, OGIEN ROBI'. Po tym przestaje byc prawda, ze Polnoc ma dwa ostrza w plotnie.",
+      "kto": "WYMAN (kadlub) / HAL (odbior)",
+      "kanal": "morze Bialy Port-Braavos",
+      "wraca": "300-04-15",
+      "zamyka": "ladunek w skladzie Domu, wazony i wpisany",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "DZIKI IDZIE ZA MUR - I NIE JAKO POSEL. Z trzech trzymanych przez Straz idzie TEN, KTORY MOWI WIECEJ - jedyny, ktory ma po tamtej stronie IMIE i kogos, kto za niego poreczy. ### DAVOS MOWIL 'BEZ ZNAKU I SAM' i nasz poprzedni poslaniec tak wlasnie poszedl - i przepadl. Brakowalo drugiej polowy: KOGOS, KTO PO TAMTEJ STRONIE ZA CIEBIE RECZY. Ten czlowiek jest ta polowa. ### CZEGO NIE NIESIE: choragwi, pieczeci, obietnicy Korony. ### CO NIESIE - I TO JEST CALA KONSTRUKCJA: NIE OBIETNICE, TYLKO RZECZ JUZ ZROBIONA. Jego ludzie - IMIENNIE, spisani przez niego przed wyjazdem - DOSTAJA MIEJSCE PO TEJ STRONIE OD DNIA, W KTORYM ON WYCHODZI. Nie 'jesli wrocisz'. OD DNIA WYJSCIA. Ziemia, narzedzia, piec lat wolnizny - ten sam wzor, ktory Fosa daje kazdemu nowemu. ON SAM JEST PIERWSZYM OSADNIKIEM, a nie poslancem z obietnica. ⚠ RYZYKO NAZWANE I PRZYJETE: moze po prostu wrocic do swoich i nie wrocic do nas. Wtedy tracimy jednego czlowieka i dwadziescia pare gab na wolniznie - TANIEJ NIZ DRUGI PRZEPADLY POLUDNIOWIEC, a jego ludzie i tak sa tu i jedza.",
+      "kto": "SYMON -> OSRIC (wykonanie) + tlumacz (spisanie imion)",
+      "kanal": "przez Osrica (Mur)",
+      "wraca": "300-03-17",
+      "zamyka": "czlowiek wyszedl, imiona jego ludzi wpisane do rejestru Melli",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-17",
+      "co": "POWROT DZIKIEGO - ALBO NIE. Trzy mozliwe konce i kazdy jest odpowiedzia: (a) wraca z miejscem i warunkiem Mance'a; (b) wraca sam, z niczym - i to tez mowi, ze rozmawiali; (c) nie wraca. ⚠ TRZECI KONIEC NIE JEST ZDRADA I NIE WOLNO GO TAK ZAPISAC - czlowiek, ktory wrocil do swoich w roku, w ktorym jego lud idzie na poludnie, zrobil to, co zrobilby kazdy. JEGO LUDZIE ZOSTAJA NA WOLNIZNIE TAKZE WTEDY. Inaczej nastepny nie pojdzie.",
+      "kto": "-",
+      "kanal": "za Mur",
+      "wraca": "300-04-17",
+      "zamyka": "wraca, wraca z niczym, albo nie wraca",
       "status": "otwarte"
     }
   ]

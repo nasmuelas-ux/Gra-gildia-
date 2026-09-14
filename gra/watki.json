@@ -3044,7 +3044,7 @@
    "id": "wektor_stannis_zlamany_sojusznik_1127",
    "tytul": "Stannis zlamany = naturalny anty-Lann sojusznik, nie moze zadac przynaleznosci",
    "status": "UKLAD_ZAPIECZETOWANY_Stannis_zlegitymizowany_i_zwiazany",
-   "_dziennik_nota": 16
+   "_dziennik_nota": 17
   },
   {
    "id": "wektor_dolina_arryn_1127",
@@ -4395,7 +4395,7 @@
    "id": "poselstwo_do_dzikich_czulek_299_08",
    "tytul": "Poselstwo/czulek do dzikich (Mance) - dziczy jako wspoluciekinierzy nie tylko wrog; ZAPRZECZALNE, wysokie ryzyko",
    "status": "ZAPROJEKTOWANE_299-08-14_zaprzeczalny_czulek_do_zatwierdzenia_wykonania",
-   "_dziennik_nota": 4,
+   "_dziennik_nota": 5,
    "stan_watku": "ZYWY",
    "stan_uwaga": "OPERACJA pod filarem Muru/Mance. Osric wyslal poslanca, parlej przed nim."
   },
@@ -4794,7 +4794,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 42,
+   "_dziennik_nota": 43,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -6183,7 +6183,7 @@
   {
    "id": "wyman_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 20
+   "_dziennik_nota": 21
   },
   {
    "id": "pochodzenie_symona_299_09",

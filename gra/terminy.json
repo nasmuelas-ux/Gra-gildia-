@@ -1944,6 +1944,15 @@
    "wraca": "300-03-30",
    "zamyka": "karta standardow i karta Mistrza Handlu jednym aktem; podpis Korony - Rejestrator, w zastepstwie kancelaria z data",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "KARTA CECHOW - PYTANIE O PODPIS I KOLIZJA, KTORA SIEDZI W TYM WLASNIE MIESCIE. ### PODPIS, TAK SAMO ROZDZIELONY JAK WSZYSTKO INNE W TYM TYGODNIU: KORONA MOWI, CZEGO CECHOWI NIE WOLNO - bo to dotyczy wszystkich miast Polnocy, wiec jest ustawa i idzie na Rade, a podpisuje REJESTRATOR; krzeslo puste, wiec kancelaria W ZASTEPSTWIE Z DATA WAZNOSCI. ### TO JEST JUZ CZWARTA RZECZ NA TYM SAMYM PUSTYM KRZESLE: zgoda zbozowa, przeglad Berona, karta standardow, karta cechow. MIASTO MOWI, KTORY CECH ISTNIEJE - bo oplaty cechowe naleza do kasy miejskiej z mocy karty miasta (Cailin 300-02). 'Lord nadaje, miasto sadza' - tu tak samo: KORONA ZAKAZUJE, MIASTO NADAJE. ### TRESC, KTORA WYNIKA Z RZECZY JUZ ZAPISANYCH, NIE Z NOWEGO POMYSLU: (1) CECH MOZE ISTNIEC, ALE NIE MOZE ZAMYKAC FACHU - to samo, co przy ubezpieczeniach: STANDARD TAK, MONOPOL NIE; (2) PROBA SPRAWDZA UMIEJETNOSC, NIGDY POCHODZENIE - wlasna zasada Symona, ta sama, ktora stoi pod klauzula V Prawa Spichlerza (test rejestru, nie krwi); (3) PAPIERY MISTRZOWSKIE SKADKOLWIEK SA WAZNE, JESLI CZLOWIEK ZDA PROBE - i to jest cale narzedzie: lamie blokade, nie znoszac cechu; (4) OPLATY CECHOWE ZOSTAJA W KASIE MIEJSKIEJ - juz tak jest w Cailin. ### ⚠ KOLIZJA, KTORA SIEDZI W TYM MIESCIE I W TEJ IZBIE: PRAWO AZYLU UCZONEGO I WOLNYCH ENKLAW (299-06-11) obiecuje wprost 'WOLNOSC OSOBY I FACHU - NIE ZWIAZANY MIEJSCOWYM MONOPOLEM CECHU' i wymienia z nazwy MISTRZA ZABLOKOWANEGO CUDZYM CECHEM. Uruchomiono je 300-03-01, kanalem NESTA -> BRAAVOS -> BIALY PORT. CZYLI CI LUDZIE PLYNA DO MIASTA WYMANA, nie do Fosy. ### I DOWOD, ZE TO NIE JEST TEORIA: MISTRZ DOMU AUDYTOWEGO NIE ZOSTAL ZNALEZIONY, a powod podany przez Hala brzmial: 'poza cechem w Bialym Porcie nie ma mistrzow rewizji, BO CECH JEST PO TO, ZEBY ICH NIE BYLO'. Ta karta jest jedyna rzecza, ktora to odblokowuje. ### CENA DLA WYMANA, ZAPISANA JUZ W 299-06: 'cechy Bialego Portu - Pisarze, co walczyli z Symonem - znienawidza obcych lamiacych monopol'. ZYSK DLA WYMANA: ci mistrzowie ladują u NIEGO pierwsi, bo azyl idzie przez port. Miasto traci monopol, dostaje ludzi.",
+   "kto": "SYMON + WYMAN, na Rade 300-03-30",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "karta cechow na Radzie: Korona zakazuje zamykania fachu, miasto nadaje cechy, proba sprawdza umiejetnosc",
+   "status": "otwarte"
   }
  ]
 }

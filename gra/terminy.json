@@ -1713,7 +1713,7 @@
   },
   {
    "data": "300-03-30",
-   "co": "DANINA FOSY - POZYCJA, KTORA USTALA KROL, NIE NAMIESTNIK, I KTORA WLASNIE ZROBILA SIE PILNA. Od 300-03-11 Fosa placi za koronny garnizon w Cailin z wlasnej kasy. To nie jest skarga - to jest LICZBA, KTORA WCHODZI NA WIECZOR PO PIERWSZYM DNIU RADY, tam gdzie Krol dal godzine bez swiadkow. ### RAZEM Z NIA WCHODZA: cztery pozycje monetarne, na ktore Gawen nie odpowiedzial, i obsada obu rozdzielonych krzesel.",
+   "co": "DANINA FOSY - POZYCJA, KTORA USTALA KROL, NIE NAMIESTNIK, I KTORA WLASNIE ZROBILA SIE PILNA. Od 300-03-11 Fosa placi za koronny garnizon w Cailin z wlasnej kasy. To nie jest skarga - to jest LICZBA, KTORA WCHODZI NA WIECZOR PO PIERWSZYM DNIU RADY, tam gdzie Krol dal godzine bez swiadkow. ### RAZEM Z NIA WCHODZA: cztery pozycje monetarne, na ktore Gawen nie odpowiedzial, i obsada obu rozdzielonych krzesel. ### ⚠ POPRAWKA 300-03-11: DANINA FOSY JEST JUZ ZAMKNIETA - ustalona z Krolem metoda ZDOLNOSCI LENNA, nie dochodu pana (liczone wsie, ziemia orna, mlyn, regale torfowe, brama, grobla, warownia w odbudowie; NIE liczony Dom Handlowy ani zaden majatek prywatny). WYNIK 20-40 SMOKOW ROCZNIE, przy czym Krol chcial dac dwadziescia, a Symon ULGI NIE PRZYJAL. ### WIEC NA WIECZOR PO PIERWSZYM DNIU RADY NIE IDZIE 'danina', TYLKO GARNIZON.",
    "kto": "SYMON -> KROL, wieczor 300-03-30",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
@@ -1835,6 +1835,24 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "plan wiosenny: ktore ramie dostaje ile z tego, co schodzi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "OBROTY Z LENNA - PYTANIE GRACZA DO HALA I ODPOWIEDZ, KTORA JEST BRAKIEM RUBRYKI. ### CO JEST W KSIEGACH: FOSA CAILIN HQ, obrot 470 / 420 / 355 (X-XII), a skladaja sie na to SIEDZIBA, SKLAD PRZY BRAMIE I OBSLUGA KARAWAN. 'Nie ma ani jednego zakladu poza tymi szescioma liczbami.' ### CZEGO NIE MA: ANI JEDNEJ LINII 'CO DOM KUPIL OD LENNA I PO ILE'. Torf, trzcina, warzywo ze szklarni, drewno - wszystko to przechodzi przez placowke i wsiaka w jedna liczbe obrotu. NIKT NIGDY NIE ROZDZIELIL, ile z tych 470 to CUDZY TOWAR PRZEWIEZIONY, a ile TOWAR WLASNEGO PANA KUPIONY OD WLASNYCH PODDANYCH. ### DLACZEGO TO JEST PILNE DOPIERO TERAZ, A NIE BYLO W STYCZNIU: od 300-03-04 pan OGLASZA CENY NA SLUPIE, a od 300-03-09 sam KUPUJE na wlasnym rynku. Ta sama pulapka co przy ziarnie siewnym, tylko starsza i wieksza. ### NARZEDZIA JUZ ISTNIEJA I ZADNE NIE JEST NOWE: (1) RUBRYKA 'NA CZYJ RACHUNEK' - czwarte uzycie w tygodniu; (2) CENA OGLOSZONA, NIE UZGODNIONA - ta sama zasada, ktora Symon nalozyl na siebie przy taryfie: 'Dom Handlowy Tally przystepuje do ceny ogloszonej na tych samych warunkach co kazdy inny i ani o miedziaka lepszych'; (3) GORNY KRANIEC WIDELEK. ### DOKTRYNA: obrot, ktorego nikt nie rozdzielil, nie jest tajemnica - jest zarzutem czekajacym na pierwszego, kto go rozdzieli. Lepiej, zeby to byl wlasny dyrektor niz cudzy lord.",
+   "kto": "HAL SIEROTA + TAM (ksiegi) + GERRIK RACHUBA (strona lenna)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-20",
+   "zamyka": "osobna linia w ksiedze Fosy HQ: co Dom kupil od lenna, ile, po jakiej cenie i wobec jakiej ceny ogloszonej",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-30",
+   "co": "GARNIZON FOSY - LICZBA, KTORA IDZIE NA WIECZOR PO PIERWSZYM DNIU RADY, ZAMIAST DANINY. ### ARYTMETYKA Z WLASNYCH KSIAG: GARNIZON FOSY 22 SMOKI MIESIECZNIE = 264 ROCZNIE. DANINA FOSY, USTALONA Z KROLEM METODA ZDOLNOSCI LENNA: 20-40 ROCZNIE. ### LENNO PLACI ZA ZBROJNYCH SZESC DO TRZYNASTU RAZY WIECEJ, NIZ WYNOSI CALA JEGO ROCZNA DANINA - a od 300-03-11 dochodzi jeszcze zold garnizonu KORONNEGO w Cailin, przyznanego przez Krola z zoldem na lennie. ### ZDANIE HALA, ZAPISANE JUZ 300-01-26 I NIEZUZYTE: 'Garnizon nie pilnuje waszych czynszow - PILNUJE JEDYNEJ LADOWEJ DROGI NA POLNOC. Zdjeliscie z Kasy I na Kase II; uczciwie byloby zdjac z Kasy II na Kase III. Ale wtedy Namiestnik przenosi koszt wlasnego zamku na skarb krolestwa i NIEWAZNE, ZE MA RACJE. TO ROZSTRZYGA KROL.' ### DLATEGO IDZIE TO NA WIECZOR BEZ SWIADKOW, A NIE NA SALE.",
+   "kto": "SYMON -> KROL, wieczor 300-03-30",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "Krol rozstrzyga, czyj to koszt",
    "status": "otwarte"
   }
  ]

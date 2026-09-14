@@ -446,6 +446,20 @@ Liczby pieniężne mają **jedno źródło: `gra/EKONOMIA_BAZA.md`**. Czyta się
 
 > **Gra ma iść do przodu. Rachunek jest tłem, nie fabułą.**
 
+**44. PEWNOŚĆ MA SPADAĆ RAZEM Z ZASIĘGIEM PAMIĘCI — A JEŚLI NIE SPADA, TRZEBA SIĘGNĄĆ DO KSIĘGI.** *(stała, 300-03-12 — po trzech zmyśleniach w jednej sesji: obrót domu, „ubezpieczenia nie ruszyły", „Wylis jeniec")*
+
+Rzeczy **z tego tygodnia** mam w kontekście i odpowiadam z nich. Rzeczy **sprzed miesięcy** leżą wyłącznie w `gra/db/wpisy.jsonl` — a ja odpowiadam na nie **tym samym tonem**, bo mój głos nie wie, skąd bierze treść. Tam, gdzie kończy się pamięć, zaczyna się **rekonstrukcja z kształtu rozmowy** — i wychodzi z niej coś, co pasuje do rytmu ostatnich odpowiedzi, a nie do zapisu.
+
+**Stąd trzy zmyślenia jednego wieczoru** i wszystkie trzy pasowały do wzoru, który sam przed chwilą wyłożyłem („narzędzie istnieje, nikt go nie przeczytał"). **Wylis-jako-jeniec pasował do wzoru idealnie i był nieprawdą — drugi raz, przy notce o pierwszym razie leżącej w księdze.**
+
+**MECHANIKA, NIE POSTANOWIENIE:**
+- Zanim padnie **LICZBA PIENIĘŻNA** — `grep`. Bez wyjątku. Baza: `gra/EKONOMIA_BAZA.md` (zasada 43).
+- Zanim padnie zdanie o **STANIE** kogoś lub czegoś sprzed tego tygodnia — „stoi" · „nie ruszyło" · „nikt nie" · „jest jeńcem" · „zaniedbane" — **`grep` najpierw.** To są słowa-stopery.
+- **Rozbicie sumy na części, którego nie ma w zapisie, nie jest faktem** (zasada 43) i nie wolno na nim nic budować.
+- Kiedy nie znalazłem — mówię „nie ma tego w zapisie", a nie zgaduję. **Zasada 1a: wpis bez źródła nie jest zapisem.**
+
+> **Nie myliłem się dlatego, że zapomniałem. Myliłem się dlatego, że nie przestałem mówić pewnie, kiedy przestałem czytać.**
+
 ---
 
 # 📬 RAMA RANKA — WERSJA POPRAWIONA (zastępuje starą)

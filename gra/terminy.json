@@ -1088,7 +1088,7 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-07",
       "zamyka": "rozkaz: zwezac dalej, wrocic do szerokiego, albo odstawic na czas",
-      "status": "otwarte - DO ROZSTRZYGNIECIA"
+      "status": "ROZSTRZYGNIETE 300-03-03 - powrot do szerokiego tropu, siatka poludniowa ODSTAWIONA"
     },
     {
       "data": "300-03-17",
@@ -1097,6 +1097,24 @@
       "kanal": "siatka Willi",
       "wraca": "300-03-17",
       "zamyka": "odezwie sie albo zostaje spisany",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-10",
+      "co": "ODSTAWIENIE SIATKI POLUDNIOWEJ - WYKONANIE, NIE OGLOSZENIE. Odstawia sie tak samo ostroznie, jak sie zaklada: NAGLE MILCZENIE JEST TAK SAMO GLOSNE JAK NAGLE ZAWEZENIE. Rece schodza POJEDYNCZO I W ODSTEPACH, kazda z wlasnym powodem, ktory brzmi zwyczajnie - skonczyl sie kontrakt, wraca do rodziny, kupiec zmienil trase. Zadna nie dowiaduje sie o innej. ### JEDNA RZECZ ZOSTAJE OTWARTA: SKRZYNKA DLA MILCZACEJ REKI, do 300-03-17. Jesli on zyje i wroci, musi miec dokad wrocic; siatka zdjeta do zera zostawia go po drugiej stronie na zawsze.",
+      "kto": "WILLA",
+      "kanal": "siatka Willi",
+      "wraca": "300-03-10",
+      "zamyka": "rece zeszly, skrzynka stoi",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-13",
+      "co": "SZEROKI TROP WRACA - I NIE POTRZEBUJE SIATKI. Pytanie znow brzmi 'KTO KUPUJE POLNOCNE ZBOZE', nie 'gdzie jest Baelish'. ### NARZEDZIE JUZ STOI I JEST JAWNE: KOMORY CELNE JAKO SITO. Zasada z 299-08-26, sprawdzona wtedy w praktyce: 'NIKT NIE WIEZIE ZBOZA Z POLNOCY NA POLUDNIE W ROKU GLODU, CHYBA ZE KUPIL TANIO I CHCE SPRZEDAC DROGO. Lista spekulantow sama sie pisze - bez Lucana, bez sledztwa, BEZ PLOSZENIA PAJAKA: wystarczylo zamknac drzwi i patrzec, kto w nie puka.' ### A OD 300-02-12 MAMY TO, CZEGO WTEDY NIE BYLO: KSIEGE BRAMY. Plus od dzis NORREN SCISLY przy ksiegach pomostu Przystani Wilka i GERRIK RACHUBA nad struktura ruchu. TRZY KSIEGI ZAMIAST JEDNEGO SZPIEGA - i zadna z nich nikogo nie odslania, bo wszystkie sa urzedowe.",
+      "kto": "GARTH (ksiega bramy) + GERRIK + MELLA (odczyt)",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "lista nazwisk, ktore ruszyly zboze ku poludniu, z ksiag - nie z siatki",
       "status": "otwarte"
     }
   ]

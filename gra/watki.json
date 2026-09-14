@@ -1280,7 +1280,7 @@
    "id": "lojalna_siec_wywiadu",
    "status": "STAŁY WYWIAD (07-12) - niewidzialna sieć wczesnego ostrzeżenia (Garth+szachownica), firewall absolutny",
    "_dziennik_opis": 2,
-   "_dziennik_nota": 3
+   "_dziennik_nota": 4
   },
   {
    "id": "firma_skalowanie",
@@ -4017,7 +4017,7 @@
    "id": "cien_za_baelishem_299_07",
    "tytul": "Cien za Baelishem - operacja wywiadowcza Willi (przez swiat monety/Rozdroze-Dolina)",
    "status": "URUCHOMIONY_07-24_WYNIK_DOJRZEJE_tygodnie_rzut66_zabankowany",
-   "_dziennik_nota": 21,
+   "_dziennik_nota": 22,
    "filar": "BAELISH",
    "stan_watku": "ZYWY"
   },
@@ -4950,7 +4950,7 @@
    "id": "taryfa_celna_polnocy_299_09",
    "tytul": "Taryfa celna wolnej Polnocy - cztery klasy przywozu, trzy wywozu",
    "status": "projekt_do_polozenia_przed_krolem",
-   "_dziennik_nota": 26,
+   "_dziennik_nota": 27,
    "filar": "TARYFA CELNA POLNOCY",
    "stan_watku": "ZYWY"
   },
@@ -5924,7 +5924,7 @@
   {
    "id": "kto_pyta_o_polnocne_zboze_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 1,
+   "_dziennik_nota": 2,
    "filar": "KTO PYTA O POLNOCNE ZBOZE",
    "stan_watku": "ZYWY"
   },
@@ -6138,7 +6138,7 @@
   {
    "id": "kto_skupuje_zboze_w_dorzeczu",
    "status": "otwarty",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "catelyn_stark",

@@ -1764,6 +1764,42 @@
    "wraca": "300-03-13",
    "zamyka": "rolowanie 340 na 90 dni podpisane, zastaw przeniesiony na sol/rybe/skladowe",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "BILANS DOMU TALLY - PELNY, ODPOWIEDZ NA MANDAT. ⚠ POPRAWKA NA WSKAZANIE GRACZA: liczylem sam dlug i sam weksel, A NIE POLICZYLEM DOMU. Mandat zadal wyceny I OBROTU OSOBNO DLA KAZDEGO RAMIENIA plus calosci z ROZDZIELENIEM ZYSKU OD WOLNEJ GOTOWKI - 'po odkryciu, ze przez miesiace mylono jedno z drugim'. ZMIESZALEM TO ZNOWU: '15 smokow wolnej gotowki miesiecznie' to NETTO MIESIECZNE, nie zawartosc skrzyni. ### GDZIE SIE PODZIAL ZAPAS - i to jest cala odpowiedz na rozkaz gracza 'schodzic z zapasow, budowac gotowke pod splate': WYKONANO. Kamieniczka sprzedana XI/299 = 70 do skrzyni; forward-skup rozladowany - ale NIE W MONETE, tylko W ZBOZE DLA KORONY. TO JEST TE 695. ### ZAPAS ZAMIENIONO NA GOTOWKE, A GOTOWKE POZYCZONO KROLESTWU. 340 NIE JEST NIEDOBOREM PLYNNOSCI - JEST TERMINEM, KTORY KORONA MINELA 300-03-01. ### LICZBY: skrzynia ~95 · zapas obrotowy w towarze ~210 (nie jest wolny) · calosc: obrot brutto ~145/kwartal, koszt ~100, NETTO ~45/kwartal = ~15/miesiac. ### MARZEC PO POLICZENIU WSZYSTKIEGO: zapada 340, skrzynia 95, pierwsza partia z 695 (sol, ryba) 60-80 => DO ZROLOWANIA ~165-185, NIE 340. Rolowanie polowy to inna rozmowa z Lucanem niz rolowanie calosci. ### Pelny tekst: gra/bilans_domu_tally_300_03_11.md",
+   "kto": "HAL SIEROTA",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "rolowanie ~165-185 podpisane, nie 340",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "PAPIERNIA WATA - NAJWIEKSZA ZANIEDBANA POZYCJA, DOKLADNIE TAM, GDZIE SYMON JEJ SZUKAL. Obrot ~34/kwartal, MOCE WYKORZYSTANE W DWOCH PIATYCH. Krolestwo zaczelo PISAC - kodeks, karty rzadcow, komory celne, rejestry, kancelaria Korony, urbarze, ksiegi bramy i kazda rubryka, ktora Symon mnozy od pol roku - I KUPUJE PERGAMIN GDZIE INDZIEJ, bo nikt mu nie sprzedal tutejszego. ### NIE BRAKUJE POPYTU. BRAKUJE JEDNEGO CZLOWIEKA, KTORY POSZEDLBY Z PROBKA DO KANCELARII. ⚠ I to jest zamowienie, ktore Symon SAM tworzy kazdym nowym rejestrem - kupujacym jest jego wlasny urzad.",
+   "kto": "HAL + WAT",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "probka i cena zlozone w kancelarii Korony, albo pisemny powod, dlaczego nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "MARRO - SZLIFIERZ Z BRAAVOS SIEDZI W BIALYM PORCIE OD ROKU I ROBI JEDNA SZTUKE MIESIECZNIE. +4 jelenie miesiecznie z wyrobu, ~20 kapitalu w surowcu. DWIE PRZYCZYNY I OBIE SA SYMONA: (1) ARTERIA - zrodlo Halvarda ruszylo skromnie i takie zostalo; szlifierz bez kamieni nie szlifuje; (2) MANDAT - linie odwieszono na wojne SLUSZNIE, ale WOJNA SKONCZYLA SIE DZIESIEC MIESIECY TEMU i nikt jej nie odwiesil. Marro ma uprawnienie do proby, BEZ CELU, BEZ WOLUMENU, BEZ KANALU SPRZEDAZY. ### ⚠ SYMON JEST W BIALYM PORCIE DO ~03-15. Drugi raz taka okazja bedzie po Radzie.",
+   "kto": "SYMON + MARRO + HAL",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "Marro dostaje cel, wolumen i kanal - albo zwalnia sie go uczciwie po roku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "UBEZPIECZENIA FRACHTU NIE RUSZYLY - I HAL PODAL POWOD, BO TEGO ZADAL MANDAT: NIE MA KTO POLICZYC RYZYKA. Underwriting bez rachmistrza to zaklad, nie ubezpieczenie. Jedyny czlowiek, ktory to umie, siedzi w Braavos i nazywa sie NESTA. ### To jest trzecia rzecz w tym tygodniu, ktora rozbija sie o brak jednego liczacego czlowieka - po Rejestratorze Korony i po Beronie.",
+   "kto": "HAL -> NESTA",
+   "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+   "wraca": "300-04-29",
+   "zamyka": "metoda liczenia ryzyka na pismie ALBO decyzja, ze linia czeka na czlowieka",
+   "status": "otwarte"
   }
  ]
 }

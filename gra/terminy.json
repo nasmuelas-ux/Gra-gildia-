@@ -1938,12 +1938,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "PODPIS POD KARTA STANDARDOW - PYTANIE GRACZA U WYMANA I ODPOWIEDZ, KTORA JUZ RAZ ZAPADLA. ### STANDARD MA ROZSTRZYGNAC CZTERY RZECZY (zapis): (1) JAK WYGLADA PAPIER - 'kupiec z Braavos ma poznac nasz papier bez tlumacza'; (2) KTO WAZY SZKODE - bo ubezpieczenie bez rozjemcy to obietnica, nie umowa; (3) GDZIE SIE PROTESTUJE WEKSEL - u kogo i w jakim terminie, bo weksel bez miejsca protestu nie jest wekslem; (4) CZY KORONA REASEKURUJE - STANDARD TAK, PORECZENIE NIE. ### DWIE Z TYCH CZTERECH TO CZYSTE PYTANIA O PODPIS - (2) i (3). ### ODPOWIEDZ NA PODPIS KORONY JEST OD 300-03-11 I NIE TRZEBA JEJ WYMYSLAC DRUGI RAZ: podpisuje REJESTRATOR KORONY; krzeslo puste do Rady, wiec W ZASTEPSTWIE KANCELARIA WINTERFELL, Z DATA WAZNOSCI, ktora Krol dopisal wlasna reka: DO KONCA ROKU SKLADOWEGO. ### TO JEST TRZECIA RZECZ WISZACA NA TYM SAMYM PUSTYM KRZESLE - po zgodzie zbozowej i po przegladzie, ktorego Beron nie dal rady zrobic. Na Rade idzie wiec nie prosba, tylko TRZY DOWODY. ### ODPOWIEDZ NA REKE WYKONUJACA: protestuje sie tam, gdzie stoi ksiega, a ksiega Polnocy stoi W PORCIE. Miejsce protestu i waga szkody naleza do MISTRZA HANDLU - czyli do Wymana, ktory pol godziny wczesniej sam poprosil: 'zrobcie mnie tym, kto to wykonuje'. ### I DOMYKA SIE JEGO WLASNY WARUNEK: chcial karte NA RADZIE, przy wszystkich, bo 'nadanie dane po cichu wyglada jak zaplata'. Jesli karta Mistrza Handlu i karta standardow ida JEDNYM AKTEM, to nie jest nadanie - to jest OBOWIAZEK Z PIECZECIA. ### ZASOB GOTOWY: braavijska ksiega miar, wag i PROBIERSTWA od Nesty, wdrozona juz raz jako Miara Polnocna. Ten sam warsztat, inny przedmiot. ### PRZED RADA NIE TRZEBA PODPISYWAC NIC - standardu jeszcze nie ma. Gdyby cokolwiek musialo ruszyc wczesniej, idzie tym samym trybem co zgoda zbozowa: zastepstwo Z DATA WAZNOSCI.",
+   "co": "PODPIS POD KARTA STANDARDOW - PYTANIE GRACZA U WYMANA I ODPOWIEDZ, KTORA JUZ RAZ ZAPADLA. ### STANDARD MA ROZSTRZYGNAC CZTERY RZECZY (zapis): (1) JAK WYGLADA PAPIER - 'kupiec z Braavos ma poznac nasz papier bez tlumacza'; (2) KTO WAZY SZKODE - bo ubezpieczenie bez rozjemcy to obietnica, nie umowa; (3) GDZIE SIE PROTESTUJE WEKSEL - u kogo i w jakim terminie, bo weksel bez miejsca protestu nie jest wekslem; (4) CZY KORONA REASEKURUJE - STANDARD TAK, PORECZENIE NIE. ### DWIE Z TYCH CZTERECH TO CZYSTE PYTANIA O PODPIS - (2) i (3). ### ODPOWIEDZ NA PODPIS KORONY JEST OD 300-03-11 I NIE TRZEBA JEJ WYMYSLAC DRUGI RAZ: podpisuje REJESTRATOR KORONY; krzeslo puste do Rady, wiec W ZASTEPSTWIE KANCELARIA WINTERFELL, Z DATA WAZNOSCI, ktora Krol dopisal wlasna reka: DO KONCA ROKU SKLADOWEGO. ### TO JEST TRZECIA RZECZ WISZACA NA TYM SAMYM PUSTYM KRZESLE - po zgodzie zbozowej i po przegladzie, ktorego Beron nie dal rady zrobic. Na Rade idzie wiec nie prosba, tylko TRZY DOWODY. ### ODPOWIEDZ NA REKE WYKONUJACA: protestuje sie tam, gdzie stoi ksiega, a ksiega Polnocy stoi W PORCIE. Miejsce protestu i waga szkody naleza do MISTRZA HANDLU - czyli do Wymana, ktory pol godziny wczesniej sam poprosil: 'zrobcie mnie tym, kto to wykonuje'. ### I DOMYKA SIE JEGO WLASNY WARUNEK: chcial karte NA RADZIE, przy wszystkich, bo 'nadanie dane po cichu wyglada jak zaplata'. Jesli karta Mistrza Handlu i karta standardow ida JEDNYM AKTEM, to nie jest nadanie - to jest OBOWIAZEK Z PIECZECIA. ### ZASOB GOTOWY: braavijska ksiega miar, wag i PROBIERSTWA od Nesty, wdrozona juz raz jako Miara Polnocna. Ten sam warsztat, inny przedmiot. ### PRZED RADA NIE TRZEBA PODPISYWAC NIC - standardu jeszcze nie ma. Gdyby cokolwiek musialo ruszyc wczesniej, idzie tym samym trybem co zgoda zbozowa: zastepstwo Z DATA WAZNOSCI. ### 300-03-14: CZTERY PUNKTY UZGODNIONE Z WYMANEM GLOSEM - (2) i (3) sa jego i on je przyjal. NIC NIE PODPISANO (warunek jawnosci). GARRICK PISZE I WIEZIE NA RADE; zapis uzgodnienia spisany na miejscu i idzie z rozkazem, zeby kanclerz nie pisal z relacji. Garrick NIE PODPISUJE - podpis nalezy do Rejestratora, w zastepstwie kancelaria Winterfell.",
    "kto": "SYMON + WYMAN, na Rade 300-03-30",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "karta standardow i karta Mistrza Handlu jednym aktem; podpis Korony - Rejestrator, w zastepstwie kancelaria z data",
-   "status": "otwarte"
+   "status": "UZGODNIONE 300-03-14 - w pisaniu u Garricka"
   },
   {
    "data": "300-03-12",
@@ -2637,6 +2637,15 @@
    "wraca": "300-03-30",
    "zamyka": "Rejestrator z nazwiskiem albo jawne przedluzenie zastepstwa",
    "status": "otwarte - NOWE, zegar do Rady"
+  },
+  {
+   "data": "300-03-24",
+   "co": "KARTA STANDARDOW - GARRICK PISZE I WIEZIE NA RADE. Rozkaz krukiem z Bialego Portu 300-03-14, laduje na Fosie 03-16; pisanie, potem trakt Fosa-Winterfell 6 dni. Wyjscie ~03-18 daje WINTERFELL ~300-03-24, szesc dni zapasu przed Rada. ⚠ ZAPAS MALY - nie ma w nim miejsca na pisanie od nowa. Z ROZKAZEM IDZIE ZAPIS CZTERECH UZGODNIONYCH PUNKTOW, spisany przy Wymanie, zeby kanclerz nie pisal z relacji. ZASOB: braavijska ksiega miar, wag i probierstwa od Nesty (ten sam warsztat co Miara Polnocna). GARRICK PISZE I WIEZIE, NIE PODPISUJE - karta jest aktem Korony, podpis nalezy do Rejestratora, w zastepstwie kancelaria Winterfell z data waznosci dopisana reka Krola: do konca roku skladowego. NA RADZIE IDZIE JEDNYM AKTEM Z KARTA MISTRZA HANDLU DLA WYMANA.",
+   "kto": "GARRICK (kancelaria Fosy)",
+   "kanal": "kruk Bialy Port-Fosa, potem trakt Fosa-Winterfell",
+   "wraca": "300-03-24",
+   "zamyka": "karta w Winterfell, w czystopisie, przed Rada",
+   "status": "otwarte - NOWE"
   }
  ]
 }

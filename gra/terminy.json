@@ -20,19 +20,19 @@
   },
   {
    "data": "300-03-05",
-   "co": "Cerwyn wyjezdza; odpis urzadzen Fosy ma byc gotowy",
+   "co": "Cerwyn wyjezdza; odpis urzadzen Fosy ma byc gotowy ### 300-03-05: ODPIS WRECZONY przed wyjazdem, dwaj pisarze zdazyli.",
    "kto": "dwaj pisarze",
    "zamyka": "odpis wreczony",
-   "status": "otwarte",
+   "status": "zrobione 300-03-05",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-05"
   },
   {
    "data": "300-03-06",
-   "co": "czlowiek Wymana na Fosie - pomiar przewloki pod dwie pieczecie",
+   "co": "czlowiek Wymana na Fosie - pomiar przewloki pod dwie pieczecie ### 300-03-06, RZUT 20. POMIAR SIE ODBYL I TO JEST CALY KLOPOT: SA DWIE LICZBY. Weylin i Orbelo mierzyli po naszej stronie od 300-03-01 i maja swoja; czlowiek Wymana przeszedl sznurem tego samego dnia i MA INNA - dluzsza i po gorszym gruncie, czyli TANSZA DLA BIALEGO PORTU I DROZSZA DLA FOSY. ### Zaden z nich nie klamie w sposob, ktory da sie wskazac palcem: sznur inaczej naciagniety, punkt poczatkowy o kilkanascie krokow dalej, grunt oceniony po deszczu zamiast po mrozie. ### ⚠ NIE MA TRZECIEJ RECI. Dwie pieczecie mialy zastapic arbitra i nie zastapily - bo dwie pieczecie pod dwiema roznymi liczbami to nie jest pomiar, to sa dwa pomiary. ### DOKTRYNA: dwie pieczecie nie robia z pomiaru prawdy - robia z niego dwa oswiadczenia.",
    "kto": "Weylin + Orbelo + czlowiek Wymana",
    "zamyka": "wspolne przejscie sznurem",
-   "status": "otwarte",
+   "status": "PRZYSZLO 300-03-06 (rzut 20) - SPOR O LICZBE",
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-03-06"
   },
@@ -327,10 +327,10 @@
   },
   {
    "data": "300-03-04",
-   "co": "URBARZ ZALOZONY - cztery kolumny KTO / Z CZEGO / ILE / KIEDY; pierwszy wpis to szesc tygodni niepobranego czynszu (od 300-02-07)",
+   "co": "URBARZ ZALOZONY - cztery kolumny KTO / Z CZEGO / ILE / KIEDY; pierwszy wpis to szesc tygodni niepobranego czynszu (od 300-02-07) ### 300-03-05: KSIEGA OTWARTA. Sarra od Kreski i Inga Liczydlo; pierwsza strona to szesc tygodni niepobranego czynszu.",
    "kto": "SARRA OD KRESKI + INGA LICZYDLO",
    "zamyka": "ksiega otwarta z pierwsza strona",
-   "status": "otwarte",
+   "status": "zrobione 300-03-05",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-05"
   },
@@ -444,10 +444,10 @@
   },
   {
    "data": "wyslany 300-03-01, osobnym jezdzcem",
-   "co": "LIST DO SKARBNIKA GAWENA - PAKIET MONETARNY, PIEC POZYCJI. Podstawa liczbowa: dochod monetarny Korony w normalnym roku 8000-20000 smokow, DZIS 3000-6000. Mennica Wilk bije od 299.",
+   "co": "LIST DO SKARBNIKA GAWENA - PAKIET MONETARNY, PIEC POZYCJI. Podstawa liczbowa: dochod monetarny Korony w normalnym roku 8000-20000 smokow, DZIS 3000-6000. Mennica Wilk bije od 299. ### 300-03-06, RZUT 25. ODPOWIEDZIAL NA JEDNA POZYCJE Z PIECIU - dokladnie to, przed czym ten termin ostrzegal ('odpowiedz na PIEC pozycji, nie na jedna'). Wzial NAJLATWIEJSZA i odlozyl cztery 'do Rady', nie podajac przy zadnej powodu innego niz ten jeden: SKARB NIE MA CZYM. ### To nie jest zla wola - to jest czlowiek, ktory uznal 695 w calosci i chcial placic przywilejem, bo monety nie ma, a przywilej odrzucono 300-03-02. Odmowiono mu jedynego narzedzia, ktore mial, i nie dano innego. ### ⚠ CZTERY POZYCJE MONETARNE WCHODZA NA WIELKA RADE NIEUZGODNIONE - razem z tym, czego Krol nie da uzgodnic przed Rada (rzut 63, wczoraj). DOKTRYNA: skarbnik, ktoremu zabrano jedyne narzedzie, odpowiada na jedna pozycje z pieciu i nie jest to niesubordynacja, tylko rachunek.",
    "kto": "GAWEN",
    "zamyka": "odpowiedz na PIEC pozycji - nie na jedna",
-   "status": "otwarte",
+   "status": "PRZYSZLO 300-03-06 (rzut 25) - ODPOWIEDZ NA JEDNA Z PIECIU",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-06"
   },
@@ -1137,12 +1137,12 @@
   },
   {
    "data": "300-03-05",
-   "co": "STARKPORT WEDLUG CERWYNA: PRZYCZOLEK STAJE TERAZ, KARTA IDZIE NA RADE. VEMUND OD KOTWY rusza z ludzmi; WYBOR OSADNIKOW PRZEZ SIGRUN ZATWIERDZONY PISMEM SYMONA - to jego wlasne nadanie, nie prerogatywa Krola, wiec kosztuje jedno zdanie. KARTA MIASTA idzie na Rade 300-03-30 jako PIATA RZECZ. 'Karta dla portu, ktory juz stoi, kosztuje Krola mniej niz karta dla pustego cypla.' Sigrun dostaje to na pismie, zeby wiedziala, ze nie odmowiono jej - tylko odwrocono kolejnosc.",
+   "co": "STARKPORT WEDLUG CERWYNA: PRZYCZOLEK STAJE TERAZ, KARTA IDZIE NA RADE. VEMUND OD KOTWY rusza z ludzmi; WYBOR OSADNIKOW PRZEZ SIGRUN ZATWIERDZONY PISMEM SYMONA - to jego wlasne nadanie, nie prerogatywa Krola, wiec kosztuje jedno zdanie. KARTA MIASTA idzie na Rade 300-03-30 jako PIATA RZECZ. 'Karta dla portu, ktory juz stoi, kosztuje Krola mniej niz karta dla pustego cypla.' Sigrun dostaje to na pismie, zeby wiedziala, ze nie odmowiono jej - tylko odwrocono kolejnosc. ### 300-03-05: VEMUND RUSZYL Z LUDZMI, pismo o osadnikach wreczone Sigrun.",
    "kto": "VEMUND + SIGRUN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-05",
    "zamyka": "pismo o osadnikach wreczone, przyczolek rusza",
-   "status": "otwarte"
+   "status": "zrobione 300-03-05"
   },
   {
    "data": "300-03-30",
@@ -1593,6 +1593,15 @@
    "wraca": "300-03-08",
    "zamyka": "meldunek zbiorczy w slad za panem: co zamkniete, co stoi",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-06",
+   "co": "TRZECIA REKA DO PRZEWLOKI - KTO ROZSTRZYGA SPOR O LICZBE MIEDZY DWOMA DOMAMI. Pomiar dal dwie liczby i obie sa pod pieczecia. ### CO JEST W REKU: (a) MAESTER - Weylin jest nasz, wiec nie on; maester Bialego Portu jest Wymana, wiec tez nie; TRZECI MAESTER jest neutralny i lancuch to jego zawod; (b) LUSTRATOR TOMMARD KOSA - siedzi na Fosie do 300-03-30 i jest CZLOWIEKIEM CERWYNA, nie naszym i nie Wymana; (c) KORONA - ale krzeslo, ktore by to podpisalo, jest puste piaty miesiac. ### ⚠ TO JEST TRZECI RAZ W TYGODNIU, KIEDY BRAKUJE URZEDU, KTORY ORZEKA MIEDZY DWOMA ROWNYMI. Pierwszy: zgoda Korony pod Prawem Spichlerza. Drugi: kto odmowil w listopadzie. Teraz przewloka.",
+   "kto": "SYMON - decyzja w drodze",
+   "kanal": "kruk Fosa-Bialy Port",
+   "wraca": "300-03-12",
+   "zamyka": "trzecia reka wskazana i przyjeta PRZEZ OBIE STRONY - albo pomiar robi sie od nowa razem",
+   "status": "otwarte - DECYZJA GRACZA"
   }
  ]
 }

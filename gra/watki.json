@@ -6280,6 +6280,11 @@
    "id": "grobla_fosa_cailin",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "przewloka_fosa_bialy_port",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

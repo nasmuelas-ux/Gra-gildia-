@@ -1929,12 +1929,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "⚠ RZECZ, O KTOREJ SYMON NIE MYSLAL, POLOZONA PRZEZ WYMANA: PRAWO SPICHLERZA BEDZIE EGZEKWOWAL BIALY PORT, NIE FOSA - I NIKT O TYM Z WYMANEM NIE ROZMAWIAL. ### Klauzula V mowi, ze powyzej progu nabywa waznie tylko ten, kto stoi w ksiedze Polnocy albo ma zgode Korony. A KAZDY OBCY KUPIEC KUPUJE W BIALYM PORCIE - nie na Fosie, nie w Winterfell. Fosa ma brame na lad; Bialy Port ma jedyne prawdziwe nabrzeze Polnocy. ### CZYLI: Namiestnik napisal prawo, ktore MANDERLY MA WYKONAC PRZECIW KUPCOM, Z KTORYCH ZYJE JEGO MIASTO - i dowiedzial sie o tym pan miasta razem ze wszystkimi. ### TO JEST DOKLADNIE TO, PRZED CZYM SYMON SAM SIE PRZESTRZEGAL: 'najbogatszego choragwia nie zaskakuje sie przy stole'. Zrobil to drugi raz i tym razem wlasnym prawem. ### WYMAN NIE JEST PRZECIW. Mowi jedno zdanie: 'Zrobcie mnie tym, kto to wykonuje, ZANIM ktos inny zrobi mnie tym, kto na tym traci.'",
+   "co": "⚠ RZECZ, O KTOREJ SYMON NIE MYSLAL, POLOZONA PRZEZ WYMANA: PRAWO SPICHLERZA BEDZIE EGZEKWOWAL BIALY PORT, NIE FOSA - I NIKT O TYM Z WYMANEM NIE ROZMAWIAL. ### Klauzula V mowi, ze powyzej progu nabywa waznie tylko ten, kto stoi w ksiedze Polnocy albo ma zgode Korony. A KAZDY OBCY KUPIEC KUPUJE W BIALYM PORCIE - nie na Fosie, nie w Winterfell. Fosa ma brame na lad; Bialy Port ma jedyne prawdziwe nabrzeze Polnocy. ### CZYLI: Namiestnik napisal prawo, ktore MANDERLY MA WYKONAC PRZECIW KUPCOM, Z KTORYCH ZYJE JEGO MIASTO - i dowiedzial sie o tym pan miasta razem ze wszystkimi. ### TO JEST DOKLADNIE TO, PRZED CZYM SYMON SAM SIE PRZESTRZEGAL: 'najbogatszego choragwia nie zaskakuje sie przy stole'. Zrobil to drugi raz i tym razem wlasnym prawem. ### WYMAN NIE JEST PRZECIW. Mowi jedno zdanie: 'Zrobcie mnie tym, kto to wykonuje, ZANIM ktos inny zrobi mnie tym, kto na tym traci.' ### 300-03-14 (rzut 26): POWIEDZIANE WYMANOWI. Przyjal bez sporu, ale postawil zarzut o KOLEJNOSC ('dowiedzialem sie dzien po podpisie') i problem, ktory nie jest urazą: jego celnik ma odmawiac obcemu kupcowi, pokazujac CUDZY PODPIS W ZASTEPSTWIE, bo krzeslo Rejestratora stoi puste. CZWARTA RZECZ ROZBITA O TO KRZESLO. ### ODPOWIEDZ: TERMIN DO RADY, 300-03-30 - Symon nie obiecuje za Krola, obiecuje, ze NIE ZAZADA EGZEKWOWANIA CZESCI V NA ZASTEPSTWO PO TEJ DACIE. Zasada 'zastepstwo bez daty waznosci jest nadaniem' stala od 300-03-03 bez liczby; dostala liczbe.",
    "kto": "SYMON + WYMAN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "Wyman ma swoja role w czesci V spisana, zanim ustawa stanie na Radzie",
-   "status": "otwarte - PRZED RADA 03-30"
+   "status": "POWIEDZIANE 300-03-14 - termin do Rady dany"
   },
   {
    "data": "300-03-12",
@@ -2628,6 +2628,15 @@
    "wraca": "~300-03-20/21",
    "zamyka": "Ramsay przyjezdza albo pada meldunek, ze nie przyjechal",
    "status": "ZAPYTANY WPROST 300-03-14 - czeka odpowiedz"
+  },
+  {
+   "data": "300-03-30",
+   "co": "⚠ TERMIN DANY WYMANOWI: DO RADY. Po 300-03-30 Namiestnik nie zazada od portu Bialego Portu egzekwowania CZESCI V Prawa Spichlerza na podstawie podpisu W ZASTEPSTWIE. Albo jest REJESTRATOR KORONY z nazwiskiem, albo Korona przedluza zastepstwo JAWNIE, na Radzie, przy czternastu domach. ### PODSTAWA WLASNA z 300-03-03: 'zastepstwo bez daty waznosci jest nadaniem'. ### ⚠ JESLI KROL NIKOGO NIE WSKAZE: problem wraca w calosci i wraca przy swiadkach. Kupione swiadomie - lepiej na Radzie niz na nabrzezu. Stan krzesla na 300-03-11: Krol przeczytal rekomendacje Ilaria i odpowiedzial ANI TAK, ANI NIE (rzut 28).",
+   "kto": "SYMON / KROL / WYMAN",
+   "kanal": "Wielka Rada 300-03-30",
+   "wraca": "300-03-30",
+   "zamyka": "Rejestrator z nazwiskiem albo jawne przedluzenie zastepstwa",
+   "status": "otwarte - NOWE, zegar do Rady"
   }
  ]
 }

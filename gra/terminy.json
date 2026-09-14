@@ -1305,6 +1305,24 @@
       "wraca": "300-04-01",
       "zamyka": "jeden murowany spichlerz z ksiega i zarzadca",
       "status": "otwarte - NOWE"
+    },
+    {
+      "data": "300-03-07",
+      "co": "CZTERY PROGI GLODU NA SLUP - 'GLOD MA LICZBE, NIE SEDZIEGO' (Wyman 300-02-15) dostaje wreszcie liczby. Miara: ILE DNI CHLEBA ZOSTALO W SKLADZIE NA GEBY OKREGU, z karty zywnosciowej. POWYZEJ 90 DNI - handel normalny. 90-45 - cena dzisiejsza ZAMROZONA z dnia przekroczenia, pulap spada z 1/5 na 1/20. 45-20 - sklad sprzedaje TYLKO MIESZKANCOM OKREGU i PO CENIE OGLOSZONEJ PRZED SIEWEM. PONIZEJ 20 - KORONA OTWIERA SPICHLERZ po cenie z poprzedniego zniwa. ### NA KAZDYM PROGU OBOWIAZUJE TO SAMO: ZE SKLADU SIE NIE BIERZE, ZE SKLADU SIE KUPUJE. Nikt nie konfiskuje na zadnym progu. PROG OGLASZA WAGOWY TEGO SAMEGO DNIA, KTOREGO GO ZMIERZY - nie czeka na lorda. Glod, ktory czeka na czyjas decyzje, jest glodem, o ktorym ktos moze powiedziec, ze go nie bylo. ⚠ LICZBY SA PROPOZYCJA PROWADZACEGO - do przyjecia albo zmiany przez gracza przed slupem.",
+      "kto": "SYMON + HERWIN + BENNIS",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07",
+      "zamyka": "cztery progi ogloszone albo zmienione",
+      "status": "otwarte - DO PRZYJECIA LICZB"
+    },
+    {
+      "data": "300-03-09",
+      "co": "KARTA ZYWNOSCIOWA STAJE SIE MIERNIKIEM PRAWA, NIE TYLKO SPRAWOZDANIEM. Skoro progi glodu liczy sie z niej, musi isc CO MIESIAC i miec zawsze te same trzy rubryki: GEBY · KORCE · NA ILE DNI. Pierwsza wychodzi 300-03-07 (Orland + Warryn). Od drugiej to juz nie jest karta pana - to jest licznik ustawowy.",
+      "kto": "ORLAND KORZEC + WARRYN",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-04-07",
+      "zamyka": "druga karta w tej samej formie",
+      "status": "otwarte"
     }
   ]
 }

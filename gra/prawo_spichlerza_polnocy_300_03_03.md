@@ -15,6 +15,25 @@ Dlatego zarzut, że rejestr będzie dozorcą postawionym przy przywileju miasta,
 
 ---
 
+# CZĘŚĆ 0 — CZTERY SŁOWA, KTÓRE MUSZĄ ZNACZYĆ JEDNO
+
+| słowo | znaczy |
+|---|---|
+| **SKŁAD** | budynek i księga w jednym mieście. Ma **przegrody**, **wagę** i **jednego składnika** |
+| **SPICHLERZ** | **cała sieć składów pod jedną księgą** — Spichlerz Północy nie jest budynkiem |
+| **SKŁADNIK** | człowiek odpowiedzialny za skład. **Sam nie handluje zbożem** — ani swoim, ani cudzym |
+| **PRZEGRODA** | osobna komora w składzie, **osobno liczona i osobno wpisana** |
+
+### TRZY RĘCE PRZY KAŻDEJ PRZEGRODZIE, ŻADNA SAMA
+**WAGOWY** waży i oznacza · **SKARBNIK** wpisuje · **SKŁADNIK** trzyma klucz.
+*(Zasada rozstrzygnięta przy przegrodzie siewnej 300-03-03 — tu rozciągnięta na wszystkie.)*
+
+> **Składnik, który odchodzi albo umiera, oddaje klucz przy wadze i przy księdze, w jednym dniu.**
+> **Księga należy do składu, nie do człowieka.**
+
+---
+
+
 # CZĘŚĆ I — USTRÓJ. KTO CO NADAJE
 
 | | **KORONA** | **MIASTO** |
@@ -58,6 +77,21 @@ Dlatego zarzut, że rejestr będzie dozorcą postawionym przy przywileju miasta,
 **norma ubytku ogłoszona** *(w normie płaci składający, ponad normę skład)* · **narzut składu 7,53%, nie 7** *(żeby odzyskać siedem, trzeba dołożyć siedem i pół)* · **dno sprzedaży: owies 3-44, jęczmień 3-87** · **jedna z czterech przegród = siewna i nietykalna**, liczona przy zsypie z normą.
 
 > **Nie ogłasza się liczby, której nie da się trafić w najgorszy dzień.**
+
+---
+
+# CZĘŚĆ III-bis — ROK SKŁADOWY. **KIEDY CO SIĘ DZIEJE**
+
+| kiedy | co |
+|---|---|
+| **PRZED SIEWEM** | **cena minimalna na słup** — gospodarz ma wiedzieć, **zanim zasieje** |
+| **PRZY ZSYPIE** | waga · **rubryka stanu** · **norma ubytku naliczona z góry** |
+| **PO ŻNIWACH** | cena pierwokupu ogłoszona; księga targu zamknięta i policzona |
+| **RAZ W ROKU, W DNIU OGŁOSZONYM Z GÓRY** | **rewizja** |
+| **ZAWSZE, BEZ ZAPOWIEDZI** | rewizja, **gdy rubryka stanu albo próg pokażą niezgodność** |
+| **CO MIESIĄC** | karta żywnościowa: **gęby · korce · na ile dni** |
+
+**Mianownik pułapu (⅕) liczy się z księgi targu ZAMKNIĘTEJ — czyli z roku poprzedniego, nie bieżącego.**
 
 ---
 
@@ -166,6 +200,47 @@ Sprawdza to **rubryka ②**, która i tak musi być wypełniona. **Ani jednego n
 
 Część obcego srebra przestanie przyjeżdżać. I cięższa: **brokerka przechodzi w ręce domów północnych — w niemałej części w ręce Domu Namiestnika.**
 **Zabezpieczenie:** część V **nie daje nikomu wyłączności** — daje ją każdemu, kto wejdzie do księgi, a księga jest otwarta i jawna. **Zgody idą na słup.** Udział Domu w obrocie mierzy się co miesiąc obok obrotu ogółem.
+
+---
+
+# CZĘŚĆ V-bis — GŁÓD. **KIEDY SKŁAD SIĘ OTWIERA**
+
+> ### To była największa dziura w całej ustawie. Wyman powiedział **„GŁÓD MA LICZBĘ, NIE SĘDZIEGO"** — a liczby nie było.
+
+**Miarą jest karta żywnościowa: ile dni chleba zostało w składzie na gęby okręgu.**
+Cztery progi, ogłoszone z góry, **liczone przez wagowego, nie orzekane przez nikogo**:
+
+| zostało dni chleba | co się dzieje |
+|---|---|
+| **powyżej 90** | skład handluje normalnie |
+| **90 — 45** | **cena dzisiejsza zamrożona** na poziomie z dnia przekroczenia · pułap jednego rachunku **spada z ⅕ na 1/20** |
+| **45 — 20** | skład sprzedaje **tylko mieszkańcom okręgu** · **po cenie ogłoszonej przed siewem**, nie po dzisiejszej |
+| **poniżej 20** | **Korona otwiera Spichlerz** i sprzedaje po cenie z poprzedniego żniwa |
+
+### I RZECZ, KTÓRA OBOWIĄZUJE NA KAŻDYM Z CZTERECH PROGÓW, BEZ WYJĄTKU:
+> ### **ZE SKŁADU SIĘ NIE BIERZE. ZE SKŁADU SIĘ KUPUJE.**
+> Nikt — ani lord, ani miasto, ani Korona — nie konfiskuje na żadnym progu.
+> **Bo kupiec, któremu można zabrać, przestaje trzymać zapas** — i prawo napisane po to, żeby w królestwie był zapas, sprawi, że zapasu nie będzie.
+
+**Próg ogłasza wagowy tego samego dnia, którego go zmierzy. Nie czeka na lorda i nie pyta go o zdanie.**
+*Głód, który czeka na czyjąś decyzję, jest głodem, o którym ktoś może powiedzieć, że go nie było.*
+
+---
+
+# CZĘŚĆ V-ter — ODPOWIEDZIALNOŚĆ
+
+### ZIARNO ZEPSUTE — **kto płaci, gdy rubryka stanu pokaże sporysz**
+**W normie ubytku — płaci składający. Ponad normę — skład.**
+**Zboże ze sporyszem nie wraca do obrotu i nie jest sprzedawane taniej. Jest palone, przy dwóch świadkach, i wpisane.**
+> *Ziarno zepsute sprzedane taniej to nie oszczędność. To wieś, która nie doczeka wiosny.*
+
+### URZĘDNIK, KTÓRY FAŁSZUJE
+Wagowy, składnik albo pisarz, u którego waga nie zgadza się z księgą: **traci urząd i nigdy nie wraca do żadnego przy wadze.** Nie loch — **wykreślenie.**
+**Bennis liter nie zna** — i dlatego jego odczyt **zawsze idzie obok podpisu pisarza**. Dwie ręce, dwa fachy, jedna liczba.
+
+### APELACJA
+Sąd grodzki orzeka na miejscu. **Od jego wyroku apelacja idzie do JUSTYCJARIUSZA** — ta sama droga, co przy wszystkim innym w tym królestwie.
+**Korona daje regułę, miejscowy sąd orzeka, Justycjariusz poprawia.**
 
 ---
 

@@ -813,7 +813,7 @@
     },
     {
       "data": "300-03-20",
-      "co": "ETAP I SPICHLERZA POLNOCY - JEDNA KSIEGA na: spichrze Krola, Zimowe Miasto, komory, Kamienny Brod. Krol policzyl JEDNA DZIESIATA spichlerzy krolestwa - a bez tej liczby otwarcie bramy dzikim jest 'wyrokiem wydanym przez nikogo'.",
+      "co": "ETAP I SPICHLERZA POLNOCY - PIERWSZY KROK W DOMENIE KROLA, GDZIE NIKT NICZEGO NIE MUSI PRZEGLOSOWAC: spichrze Krola, Zimowe Miasto, komory, Kamienny Brod - JEDNA KSIEGA, CZTERY KOLUMNY: ziarno siewne · zywnosc biezaca · zapas na rok nastepny · LUDZIE I WOJSKO OSOBNO. 'Zadaniem pierwszego roku nie jest miec te liczby wielkie. Zadaniem pierwszego roku jest JE MIEC.' Krol policzyl dotad JEDNA DZIESIATA spichlerzy krolestwa.",
       "kto": "GAWEN + OSWYN",
       "kanal": "kruk Winterfell-Fosa",
       "wraca": "300-03-20",
@@ -1287,6 +1287,24 @@
       "wraca": "300-03-07",
       "zamyka": "nazwa urzedu, ktory podpisuje zgode",
       "status": "otwarte"
+    },
+    {
+      "data": "300-03-30",
+      "co": "ETAP II NA RADZIE - JAKO ZAPOWIEDZ Z WARUNKIEM, NIE POD GLOSOWANIE. 'Sklad w kazdym lennie, skoordynowany, plus ZAKUP NA POZIOMIE PANSTWA: nie czterdziesci domow kupujacych osobno, kazdy w swoim zlym miesiacu, kazdy licytujacy sie z sasiadem o to samo ziarno - KORONA KUPUJE RAZ, LATEM, KONTRAKTEM.' WARUNEK WEJSCIA ZAPISANY WPROST: ETAP II OTWIERA SIE DLA LENNA, KTORE PRZEZ ROK PROWADZILO KSIEGE ETAPU I I ODDALO CZTERY KOLUMNY W TERMINIE. NIE Z NADANIA - Z WYKAZANIA SIE. PO CO NA RADZIE, SKORO NIE POD GLOSY: zeby lordowie uslyszeli, CZEGO SIE OD NICH BEDZIE CHCIALO ZA ROK, a nie uslyszeli tego pierwszy raz wtedy, gdy juz bedzie obowiazywac.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30",
+      "zamyka": "zapowiedz wypowiedziana z warunkiem i z rokiem",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-04-01",
+      "co": "ETAP 0 - GROMADZKI SPICHLERZ NA FOSIE. Jeden murowany na okreg, dwoch-trzech straznikow lorda, KSIEGA Z IMIENIEM I LICZBA WORKOW, zarzadca, ktory sam nie handluje. Odpowiedz na zapis 300-02-15: 'ZIARNO SIEWNE JEST ZJADANE PO JEDNYM WORKU, W CHALUPACH, W KTORYCH NIKT NIE ZAGLADA'. Obrona chlopa juz istnieje: prawo pisemnej odmowy rozciagniete na spichlerz. ⚠ NIE BYLO TEGO W ZADNYM TERMINIE - stalo w wiazce jako narzedzie trzecie i nigdy nie dostalo daty ani wykonawcy.",
+      "kto": "WARRYN + ORLAND KORZEC",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-04-01",
+      "zamyka": "jeden murowany spichlerz z ksiega i zarzadca",
+      "status": "otwarte - NOWE"
     }
   ]
 }

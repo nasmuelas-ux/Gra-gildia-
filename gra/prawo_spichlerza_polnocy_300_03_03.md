@@ -73,6 +73,44 @@ Dlatego zarzut, że rejestr będzie dozorcą postawionym przy przywileju miasta,
 
 ---
 
+# CZĘŚĆ IV-bis — DRABINA ETAPÓW. **GDZIE STOJĄ SPICHLERZE**
+
+> ⚠ **UWAGA O NAZWACH, BO DWA RAZY NAS TO KOSZTOWAŁO.** „Etapy" Spichlerza Północy **nie są** etapami budowy miasta Cailin *(co pod ziemią / co zarabia / co widać / co oddycha)*. Te same cyfry, dwie różne drabiny. **Przy każdej liczbie pisze się, czyj to etap.**
+
+### ETAP 0 — **GROMADZKI SPICHLERZ, PONIŻEJ MIAST**
+**Jeden murowany na okręg** · dwóch-trzech strażników lorda · **księga z imieniem i liczbą worków** · zarządca, który sam nie handluje.
+Odpowiedź na zdanie z 300-02-15: *„ziarno siewne jest zjadane po jednym worku, w chałupach, w których nikt nie zagląda."*
+**Obrona chłopa już istnieje:** prawo pisemnej odmowy, rozciągnięte na spichlerz.
+
+### ETAP I — **SKŁADY W MIASTACH POD JEDNĄ KSIĘGĄ**, waga i cena na słupie
+**To jest dawne „prawo o składach"** — siedem lat pracy, pięć rozstrzygnięć, czystopis gotowy.
+
+**Pierwszy krok idzie w domenie Króla, gdzie nikt niczego nie musi przegłosować:**
+> **spichrze Króla · Zimowe Miasto · komory · Kamienny Bród — JEDNA KSIĘGA, CZTERY KOLUMNY:**
+> **① ziarno siewne · ② żywność bieżąca · ③ zapas na rok następny · ④ ludzie i wojsko OSOBNO.**
+
+*„Zadaniem pierwszego roku nie jest mieć te liczby wielkie. Zadaniem pierwszego roku jest je mieć."*
+
+**Kolejność zgłoszeń, niezmienna:** **1. Fosa Cailin** · **2. Dom Starków** · **3. reszta, w tym Biały Port** · **Starkport, gdy stanie.**
+**Biały Port jest największy i dlatego nie idzie pierwszy.**
+
+### ETAP II — **SKŁAD W KAŻDYM LENNIE, SKOORDYNOWANY — PLUS ZAKUP NA POZIOMIE PAŃSTWA**
+> *Nie czterdzieści domów kupujących osobno, każdy w swoim złym miesiącu, każdy licytujący się z sąsiadem o to samo ziarno.*
+> ### **KORONA KUPUJE RAZ, LATEM, KONTRAKTEM.**
+
+**To jest ten etap, o który pytasz — i to jedyny, którego w ustawie dotąd nie było.** Dopisany tu jako **kierunek z warunkiem, nie jako obowiązek z datą**, bo:
+- **czterdzieści domów to czterdzieści ław i czterdzieści kas**, a Korona nie ma dziś czym tego objechać *(Mistrz Domu Audytowego nie istnieje, lustrator jest jeden i wypożyczony)*;
+- **Etap II wymaga, żeby Etap I już czytał** — skład bez księgi to szopa;
+- **zakup państwowy wymaga monety**, a Korona bierze w monecie 3000-6000 smoków rocznie i jest winna Domowi 695.
+
+**Warunek wejścia w Etap II, zapisany wprost, żeby nie był życzeniem:**
+> **Etap II otwiera się dla lenna, które przez rok prowadziło księgę Etapu I i oddało cztery kolumny w terminie.**
+> **Nie z nadania. Z wykazania się.**
+
+**Na Radzie 300-03-30 Etap II idzie jako zapowiedź z warunkiem** — nie pod głosowanie. Lordowie mają usłyszeć, **czego się od nich będzie chciało za rok**, żeby nie usłyszeli tego po raz pierwszy wtedy, gdy już będzie obowiązywać.
+
+---
+
 # CZĘŚĆ V — KTO MOŻE KUPOWAĆ
 
 > ### ZBOŻE NA TARGACH PÓŁNOCY, **W ILOŚCIACH POWYŻEJ PROGU**, NABYWA WAŻNIE TYLKO:

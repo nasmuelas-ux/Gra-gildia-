@@ -1991,11 +1991,11 @@
    "status": "zrobione 300-03-12 - PLACI DOM"
   },
   {
-   "data": "300-03-16",
-   "co": "WSPOLNE PRZEJSCIE PRZEWLOKI - SZNUREM, POD TRZY PODPISY. Rozkaz idzie krukiem z Bialego Portu na Fose (2 dni, laduje 03-14). WEYLIN i ORBELO za Fose · czlowiek WYMANA · TOMMARD KOSA jako trzecia reka. ⚠ SYMON NIE MUSI PRZY TYM BYC I NIE BEDZIE - jedzie 03-15 dalej. Rzecz zlecona, obsadzona i opisana metoda idzie sama (zasady 7 i 42). ### ZEGAR: Tommard jest czlowiekiem Cerwyna TYLKO DO 300-03-30. Przejscie musi sie odbyc przed Rada albo trzecia reka znika. ### ⚠ RZUT NALEZY SIE TEMU PRZEJSCIU - ILE MIL WPADNIE W KTORA KLASE. Przy stawkach 8-12 / 18-25 / 35-50 kazda mila przesunieta o klase to kilkanascie do dwudziestu kilku smokow. JEDEN RZUT NA SPRAWE.",
+   "data": "300-03-17/18",
+   "co": "WSPOLNE PRZEJSCIE PRZEWLOKI - SZNUREM, POD TRZY PODPISY. Rozkaz idzie krukiem z Bialego Portu na Fose (2 dni, laduje 03-14). WEYLIN i ORBELO za Fose · czlowiek WYMANA · TOMMARD KOSA jako trzecia reka. ⚠ SYMON NIE MUSI PRZY TYM BYC I NIE BEDZIE - jedzie 03-15 dalej. Rzecz zlecona, obsadzona i opisana metoda idzie sama (zasady 7 i 42). ### ZEGAR: Tommard jest czlowiekiem Cerwyna TYLKO DO 300-03-30. Przejscie musi sie odbyc przed Rada albo trzecia reka znika. ### ⚠ RZUT NALEZY SIE TEMU PRZEJSCIU - ILE MIL WPADNIE W KTORA KLASE. Przy stawkach 8-12 / 18-25 / 35-50 kazda mila przesunieta o klase to kilkanascie do dwudziestu kilku smokow. JEDEN RZUT NA SPRAWE. ### 300-03-14: ⚠ SZTORM PRZESUNAL ROZKAZ. Ptak wyszedl dopiero dzis i laduje na Fosie 300-03-16, wiec przejscie NIE ODBEDZIE SIE 03-16 - najwczesniej 03-17/18. Tommard jest czlowiekiem Cerwyna do 03-30, termin sie miesci, ale zapas zjadl sztorm.",
    "kto": "WEYLIN + ORBELO + czlowiek WYMANA + TOMMARD KOSA",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-18",
+   "wraca": "300-03-17/18",
    "zamyka": "jedenascie mil z okladem rozpisane na klasy, trzy podpisy pod kazda mila",
    "status": "otwarte"
   },
@@ -2622,12 +2622,12 @@
   },
   {
    "data": "300-03-14",
-   "co": "⚠ MILCZENIE ROOSE'A O RAMSAYU - JEDYNA TRESC TEGO LISTU, KTORA NIE JEST UPRZEJMOSCIA. Odpisal na Rade (przyjedzie) i na weksel (wykup w monecie), a wezwanie dla Ramsaya do czterdziestu domow POMINAL CALKOWICIE. Zapis mowi wprost, ze meldunek MA PASC TAKZE, JESLI RAMSAY NIE PRZYJEDZIE - termin przed 300-04-01. Czlowiek, ktory w jednym liscie liczy sie z kazdym slowem, nie zapomina o trzecim pytaniu.",
+   "co": "⚠ MILCZENIE ROOSE'A O RAMSAYU - JEDYNA TRESC TEGO LISTU, KTORA NIE JEST UPRZEJMOSCIA. Odpisal na Rade (przyjedzie) i na weksel (wykup w monecie), a wezwanie dla Ramsaya do czterdziestu domow POMINAL CALKOWICIE. Zapis mowi wprost, ze meldunek MA PASC TAKZE, JESLI RAMSAY NIE PRZYJEDZIE - termin przed 300-04-01. Czlowiek, ktory w jednym liscie liczy sie z kazdym slowem, nie zapomina o trzecim pytaniu. ### 300-03-14: ZAPYTANY WPROST, NA PISMIE. Kruk Bialy Port-Dreadfort (3 dni), ODPOWIEDZ ADRESOWANA NA WINTERFELL, bo pan wyjezdza 03-15 i stanie tam ~03-20. Pismo u Roose'a ~300-03-17, odpowiedz ~300-03-20/21 - PRZED Rada i przed spotkaniem twarza w twarz. OD DZIS JEGO MILCZENIE MA DATE.",
    "kto": "SYMON / ROOSE BOLTON",
-   "kanal": "jezdziec Fosa-Bialy Port",
-   "wraca": "przed 300-04-01",
+   "kanal": "kruk Bialy Port-Dreadfort, odpowiedz na Winterfell",
+   "wraca": "~300-03-20/21",
    "zamyka": "Ramsay przyjezdza albo pada meldunek, ze nie przyjechal",
-   "status": "otwarte - NOWE"
+   "status": "ZAPYTANY WPROST 300-03-14 - czeka odpowiedz"
   }
  ]
 }

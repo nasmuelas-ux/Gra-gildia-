@@ -111,6 +111,11 @@
    "wraca_lacznie": null,
    "zrodlo": "PTAK WRACA TAM, SKAD GO WZIETO. Przyboczna wiozla klatke z golebnika Fosy, wiec Z DROGI MOZNA PISAC WYLACZNIE NA FOSE - nie do Winterfell, nie do Bialego Portu, bo tamtych ptakow sie nie ma. W DRUGA STRONE NIC NIE WRACA: kruk nie znajdzie jadacego. Odpowiedz czeka tam, dokad pan jedzie.",
    "sprawdzaj_co": null
+  },
+  "kruk Bialy Port-Dreadfort": {
+   "tam": 3,
+   "wraca_lacznie": 7,
+   "zrodlo": "polnocny wschod; ustalone 300-03-14 przy pismie do Roose'a"
   }
  }
 }

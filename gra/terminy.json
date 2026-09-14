@@ -420,7 +420,7 @@
       "co": "LIST DO HALA: WYKUPIC WEKSEL DANY BOLTONOM. Podstawa: 299-10-20 Dreadfort, zamiec - postoj oplacony WEKSLEM NA DOM TALLY, Roose przyjal papier bez pytania. Lezy piaty miesiac. NA DREADFORCIE LEZY PODPIS SYMONA - papier z jego nazwiskiem i CUDZA WOLA, platny na zadanie, ktory kladzie sie na stol wtedy, kiedy sie chce. PILNE PRZEZ TRZY ZBIEGI: cichy kupiec na Dreadfort 300-03-10, Ramsay wezwany przed 300-04-01, Rada 300-04-01 z Boltonami na sali.",
       "kto": "HAL SIEROTA",
       "zamyka": "weksel w rekach Domu albo pisemna odmowa Roose'a",
-      "status": "otwarte - PILNE",
+      "status": "POCHLONIETE PRZEZ POZYCJE NOWSZA - wskazanie gracza 300-03-03. Symon napisal DO ROOSE'A WPROST 300-02-27 ('nie czeka na spotkanie'). Weksel i list do Roose'a to JEDNA SPRAWA Z DWOCH KONCOW; zamyka ja odpowiedz Boltona albo jej brak przed Rada 300-04-01, nie osobna kartka od Hala.",
       "kanal": "kruk Fosa-Bialy Port",
       "wraca": "300-02-11"
     },
@@ -453,9 +453,9 @@
     },
     {
       "data": "wyslany 300-02-07",
-      "co": "LIST DO GAWENA: czlowiek do PRZYSTANI WILKA - 'czego szukac, nie kogo'. Zbiega sie z cisza o statusie budowy Przystani (pyta tez Cerwyn jako wspolwlasciciel cwiartki).",
+      "co": "ZLECENIE REKRUTACYJNE DLA GAWENA (300-02-07) - 'CZEGO SZUKAC, NIE KOGO'. CZTERY POSADY, NIE JEDNA, i zadna nie jest budowniczym: (1) PRZYSTAN WILKA - czlowiek, ktory wie, ILE LADUNKU PRZECHODZI PRZEZ POMOST W DZIEN I KIEDY RZEKA STAJE (kwatermistrz, szyper barki, celnik odstawiony za to, ze liczyl za dokladnie). NIE BUDOWNICZY - budowniczego (BORS) Gawen znalazl juz 299-08-27. 'To nie jest budowa, to jest PIEC KSIAG PROWADZONYCH TAK SAMO'. (2) STARKPORT - DWOJE, nie jednego: kto postawi przyczolek na pustym wrogim cyplu I KTO GO ZASIEDLI. 'Ziemia niczyja to nie jest ulatwienie - to jest tylko brak czlowieka, ktory by protestowal'. (3-4) DWIE ODNOGI TRAKTU - ludzie STAMTAD, nie z Winterfell. ### ZDANIE, KTORE MA STAC PRZY KAZDYM NAZWISKU: 'Nie szukam ludzi wielkich. Szukam ludzi, ktorzy JUZ COS UMIEJA i ktorych ktos odstawil.'",
       "kto": "GAWEN",
-      "zamyka": "nazwisko albo opis czlowieka",
+      "zamyka": "piec nazwisk (przystan 1, Starkport 2, trakt 2) albo uczciwe 'nie ma i dlaczego'",
       "status": "otwarte",
       "kanal": "kruk Winterfell-Fosa",
       "wraca": "300-02-11"
@@ -573,7 +573,7 @@
       "co": "LIST DO STANNISA BARATHEONA, redakcja II, z ZAPROSZENIEM DO PENTOS. Os odmowy udzialu w wojnie wyrzucona - sprawa miedzy koronami zamknieta od sierpnia 299 (Stannis PIERWSZY uznal niepodleglosc Polnocy na pismie). Zostaje zaproszenie i to, co po nim.",
       "kto": "STANNIS",
       "zamyka": "odpowiedz ze Smoczej Skaly",
-      "status": "otwarte",
+      "status": "ZAMKNIETE - wskazanie gracza 300-03-03. Uznanie niepodleglosci Polnocy Stannis dal NA PISMIE w sierpniu 299 i sprawa miedzy koronami jest zamknieta od tamtej pory. MIEJSCE SPOTKANIA UMARLO OSOBNO: 299-12-30 MIASTO PENTOS ODMOWILO ROZMOWY ('wynajmujemy izbe, nie wynajmujemy nazwy'). Krol potwierdzil 300-02-06 jednym slowem: 'PENTOS ODMOWIL'. To nie byla cisza - to byla odpowiedz, ktorej nie wpisalem.",
       "kanal": "morze na poludnie (Reach, Highgarden)",
       "wraca": "299-12-01"
     },
@@ -899,6 +899,15 @@
       "kanal": "kruk Fosa-Bialy Port",
       "wraca": "300-04-01",
       "zamyka": "karta na stole",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "STARKPORT - BUDOWA, KTOREJ NIE BYLO W ZADNYM REJESTRZE. Zapis 299-09-10: 'STARKPORT - BEZ CZLOWIEKA, POZA KODEKSEM NIC'. Fundacja korony, port wedle kodeksu, na pustym cyplu. Do dzis: ani mistrza robot, ani osadnikow, ani jednej rubryki. Gawen ma szukac DWOJGA (stawiacz przyczolka + osadnik) od 300-02-07 i nie odpowiedzial. To trzecia fundacja Korony obok Przystani Wilka i Dustinportu - i jedyna, ktora nadal nie ma nikogo.",
+      "kto": "GAWEN -> SYMON",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-07",
+      "zamyka": "dwa nazwiska albo rozstrzygniecie, ze Starkport czeka i do kiedy",
       "status": "otwarte"
     }
   ]

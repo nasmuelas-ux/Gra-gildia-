@@ -3044,7 +3044,7 @@
    "id": "wektor_stannis_zlamany_sojusznik_1127",
    "tytul": "Stannis zlamany = naturalny anty-Lann sojusznik, nie moze zadac przynaleznosci",
    "status": "UKLAD_ZAPIECZETOWANY_Stannis_zlegitymizowany_i_zwiazany",
-   "_dziennik_nota": 14
+   "_dziennik_nota": 15
   },
   {
    "id": "wektor_dolina_arryn_1127",
@@ -5347,7 +5347,7 @@
   {
    "id": "spotkanie_ze_stannisem_w_pentos_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 21,
+   "_dziennik_nota": 22,
    "priorytet": "wysoki",
    "termin": "299-12 (Pentos)",
    "tytul": "Spotkanie ze Stannisem w Pentos - zaproszenie wyslane z pieciu warunkami; jedzie Namiestnik osobiscie; czeka na odpowiedz",
@@ -5389,7 +5389,7 @@
    "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady.",
    "filar": "ZIEMIE BEZ PANA - Kamienisty Brzeg i Cypel",
    "stan_watku": "ZYWY",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "wylaczenie_namiestnika_z_regencji_299_09",
@@ -6148,7 +6148,7 @@
   {
    "id": "roose_bolton",
    "status": "otwarty",
-   "_dziennik_nota": 13
+   "_dziennik_nota": 14
   },
   {
    "id": "gawen_skarbnik",
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 38
+   "_dziennik_nota": 39
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

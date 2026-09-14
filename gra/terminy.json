@@ -56,7 +56,7 @@
     },
     {
       "data": "300-03-07",
-      "co": "pierwsza KARTA ZYWNOSCIOWA (geby, korce, na ile dni)",
+      "co": "pierwsza KARTA ZYWNOSCIOWA (geby, korce, na ile dni). ⚡ OD 300-03-03 TO NIE JEST JUZ SPRAWOZDANIE, TYLKO LICZNIK USTAWOWY: z tej liczby odczytuje sie PROG GLODU (>90 handel normalny · 90-45 cena zamrozona i pulap 1/20 · 45-20 tylko mieszkancy po cenie sprzed siewu · <20 Korona otwiera Spichlerz). ⚠ PIERWSZY PROG, KTORY TA USTAWA ZMIERZY, BEDZIE PROGIEM FOSY - i tak ma byc, bo kolejnosc zgloszen stoi od IX/299: NAJPIERW TEN, KTO PRAWO NAPISAL.",
       "kto": "Orland + Warryn",
       "zamyka": "karta na stole",
       "status": "otwarte",
@@ -1307,13 +1307,13 @@
       "status": "otwarte - NOWE"
     },
     {
-      "data": "300-03-07",
-      "co": "CZTERY PROGI GLODU NA SLUP - 'GLOD MA LICZBE, NIE SEDZIEGO' (Wyman 300-02-15) dostaje wreszcie liczby. Miara: ILE DNI CHLEBA ZOSTALO W SKLADZIE NA GEBY OKREGU, z karty zywnosciowej. POWYZEJ 90 DNI - handel normalny. 90-45 - cena dzisiejsza ZAMROZONA z dnia przekroczenia, pulap spada z 1/5 na 1/20. 45-20 - sklad sprzedaje TYLKO MIESZKANCOM OKREGU i PO CENIE OGLOSZONEJ PRZED SIEWEM. PONIZEJ 20 - KORONA OTWIERA SPICHLERZ po cenie z poprzedniego zniwa. ### NA KAZDYM PROGU OBOWIAZUJE TO SAMO: ZE SKLADU SIE NIE BIERZE, ZE SKLADU SIE KUPUJE. Nikt nie konfiskuje na zadnym progu. PROG OGLASZA WAGOWY TEGO SAMEGO DNIA, KTOREGO GO ZMIERZY - nie czeka na lorda. Glod, ktory czeka na czyjas decyzje, jest glodem, o ktorym ktos moze powiedziec, ze go nie bylo. ⚠ LICZBY SA PROPOZYCJA PROWADZACEGO - do przyjecia albo zmiany przez gracza przed slupem.",
+      "data": "300-03-04",
+      "co": "CZTERY PROGI GLODU NA SLUP - 'GLOD MA LICZBE, NIE SEDZIEGO' (Wyman 300-02-15) dostaje wreszcie liczby. Miara: ILE DNI CHLEBA ZOSTALO W SKLADZIE NA GEBY OKREGU, z karty zywnosciowej. POWYZEJ 90 DNI - handel normalny. 90-45 - cena dzisiejsza ZAMROZONA z dnia przekroczenia, pulap spada z 1/5 na 1/20. 45-20 - sklad sprzedaje TYLKO MIESZKANCOM OKREGU i PO CENIE OGLOSZONEJ PRZED SIEWEM. PONIZEJ 20 - KORONA OTWIERA SPICHLERZ po cenie z poprzedniego zniwa. ### NA KAZDYM PROGU OBOWIAZUJE TO SAMO: ZE SKLADU SIE NIE BIERZE, ZE SKLADU SIE KUPUJE. Nikt nie konfiskuje na zadnym progu. PROG OGLASZA WAGOWY TEGO SAMEGO DNIA, KTOREGO GO ZMIERZY - nie czeka na lorda. Glod, ktory czeka na czyjas decyzje, jest glodem, o ktorym ktos moze powiedziec, ze go nie bylo. ✅ PRZYJETE PRZEZ GRACZA 300-03-03. Liczby obowiazuja i ida na slup razem z mytem i trzema liczbami zbozowymi.",
       "kto": "SYMON + HERWIN + BENNIS",
       "kanal": "wlasny czlowiek na Fosie",
-      "wraca": "300-03-07",
+      "wraca": "300-03-04",
       "zamyka": "cztery progi ogloszone albo zmienione",
-      "status": "otwarte - DO PRZYJECIA LICZB"
+      "status": "PRZYJETE 300-03-03 przez gracza - liczby obowiazuja; na slup 300-03-04 razem z reszta"
     },
     {
       "data": "300-03-09",
@@ -1322,6 +1322,24 @@
       "kanal": "robota na miejscu (Fosa)",
       "wraca": "300-04-07",
       "zamyka": "druga karta w tej samej formie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "ODCZYT PROGU FOSY - pierwsza karta zywnosciowa daje pierwsza liczbe dni chleba. ⚠ TO JEST DZIEN, W KTORYM WLASNE PRAWO PO RAZ PIERWSZY OCENIA WLASNE LENNO. Jesli Fosa wyjdzie ponizej 90 dni, cena dzisiejsza skladu ZAMRAZA SIE tego samego dnia, a pulap spada z 1/5 na 1/20 - i stanie sie to NA CZTERY DNI PRZED WYJAZDEM SYMONA, czyli wykonywac to bedzie GARRICK, nie on. Odczyt oglasza WAGOWY, nie lord - tak stoi w ustawie i nie robi sie dla siebie wyjatku.",
+      "kto": "BENNIS OD WAGI + ORLAND",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-07",
+      "zamyka": "liczba dni chleba i prog ogloszony na slupie",
+      "status": "otwarte - PILNE"
+    },
+    {
+      "data": "300-03-30",
+      "co": "CZTERY PROGI NA RADZIE - w wiazce III (CHLEB). To jedyna czesc ustawy, ktora mowi lordom, CO DOSTANA, a nie czego sie od nich chce: kazdy okreg wie z gory, przy ktorej liczbie Korona otwiera Spichlerz. Progi ogloszone Z GORY sa obietnica; progi ogloszone w glodzie sa laska.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30",
+      "zamyka": "cztery progi wypowiedziane przy wiazce III",
       "status": "otwarte"
     }
   ]

@@ -517,5 +517,85 @@
       "MAGISTER INZYNIERII": "TRZECH, PODZIELENI RZECZOWO: WEYLIN - inzynier zamkowy (woda, dreny, sluzy, 'urzad na pokolenia'); ORBELO - kamien i budowa; BRAN - majordom robot (grobla, trakt). ISTNIEJE, i jest to najlepiej obsadzony departament lenna.",
       "URZEDNIK MIAR I WAG": "BENNIS OD WAGI - wagowy miasta od 300-03-03, wage trzyma i placi RADA MIASTA, nie zamek. Nad nim HERWIN SZALA, burmistrz, 12 lat przy wadze, autor poprawki o ZNAKU NORMY. ISTNIEJE - ale jako urzad MIASTA. Lenno swojej wagi nie ma i miec nie powinno: lord nadaje regule, miasto sadzi."
     }
+  },
+  "instytucje_budowy": {
+    "_zasada": "BUDOWA NALEZY DO URZEDU, NIE DO CZLOWIEKA - ta sama regula, ktora juz obowiazuje ksiegi kancelarii (299-09): 'KSIEGA NALEZY DO URZEDU, NIE DO CZLOWIEKA - zostaje, gdy on odchodzi'. Kazda budowa ma: URZAD PROWADZACY · ZASTEPCE · KASE · DZIEN MELDUNKU. Zastepca nie jest ozdoba: bez niego budowa staje w dniu, w ktorym jej czlowiek zachoruje, wyjedzie albo dostanie inna robote.",
+    "GROBLA I KOMORA": {
+      "urzad": "MAJORDOM ROBOT",
+      "kto": "BRAN",
+      "zastepca": "KORM PALIK (od 300-03-03)",
+      "wspolprowadzi": "INZYNIER ZAMKOWY (Weylin) - woda i komora",
+      "kasa": "Kasa 2",
+      "melduje": "co 7 dni, takze 'stoi'"
+    },
+    "KAFARY": {
+      "urzad": "KAMIEN I BUDOWA",
+      "kto": "ORBELO",
+      "zastepca": "KOWAL MIASTA (Brusk od Miecha, od 300-03-04)",
+      "kasa": "Kasa 2",
+      "melduje": "300-03-05",
+      "nota": "DO 300-03-03 TEN URZAD NIE ISTNIAL - kafary nie mialy wlasciciela i to bylo jedyne, co realnie hamowalo groble. Robi sie je z drewna i zelaza, nie z monety, wiec urzad musi laczyc KAMIEN i KUZNIE."
+    },
+    "PRZEWLOKA": {
+      "urzad": "INZYNIER ZAMKOWY",
+      "kto": "WEYLIN",
+      "zastepca": "ORBELO (kamien)",
+      "kasa": "Kasa 2 + udzial Wymana",
+      "melduje": "300-03-06 (wspolne przejscie sznurem)",
+      "nota": "ROZPOZNANIE po naszej stronie jest nasze; POMIAR POD DWIE PIECZECIE zaczyna sie dopiero przy czlowieku Wymana."
+    },
+    "TRAKT DO DORZECZA": {
+      "urzad": "MAJORDOM ROBOT",
+      "kto": "BRAN",
+      "zastepca": "KORM PALIK",
+      "kasa": "Kasa 2",
+      "melduje": "300-03-09",
+      "nota": "KOLIZJA NAZWANA: ten sam urzad prowadzi groble. Standard: ZADEN ODCINEK BEZ NAZWISKA I BEZ DATY."
+    },
+    "MLYN W SLUZIE": {
+      "urzad": "INZYNIER ZAMKOWY + DOWODCA STRAZY",
+      "kto": "WEYLIN + KESSEL",
+      "zastepca": "TOBEN OD ZARNA (mlynarz od 300-03-03)",
+      "kasa": "Kasa 2",
+      "melduje": "300-03-10",
+      "nota": "mlyn siedzi w sluzie, a sluza to BRAMA WODNA TWIERDZY - dlatego dwa urzedy, nie jeden."
+    },
+    "TORFIARNIE": {
+      "urzad": "RZADCA",
+      "kto": "WARRYN",
+      "zastepca": "JORREN LUT (mierniczy torfu od 300-03-03)",
+      "kasa": "Kasa 2",
+      "melduje": "300-03-10",
+      "nota": "zarazem PROGRAM ZATRUDNIENIA ZIMOWEGO - to one trzymaja ludzi przy robocie."
+    },
+    "SZKOLA I POSILEK PRZY SZKOLE": {
+      "urzad": "OCHMISTRZ SZKOLY I NAUKI",
+      "kto": "MABEL SIWA (od 300-03-03)",
+      "zastepca": "dwaj uczacy pod Warrynem",
+      "kasa": "Kasa 2",
+      "melduje": "co 30 dni"
+    },
+    "ETAPY MIASTA I-IV": {
+      "urzad": "BURMISTRZ I LAWA",
+      "kto": "HERWIN SZALA",
+      "zastepca": "BENNIS OD WAGI",
+      "kasa": "miasto",
+      "melduje": "300-03-09",
+      "nota": "ETAP II MIAL SAM NA SIEBIE ZARABIAC Z MYTA - a myto zmieniono 300-03-03 na 1/40 od wartosci, wiec rachunek Etapu II trzeba przeliczyc."
+    },
+    "SPICHLERZ POLNOCY - ETAP I": {
+      "urzad": "SKLAD (Fosa) + SKARBNIK KORONY",
+      "kto": "ORLAND KORZEC + GAWEN",
+      "zastepca": "OSWYN (pomiar Zimowego Miasta)",
+      "kasa": "Kasa 3",
+      "melduje": "300-03-20",
+      "nota": "jedna ksiega na cztery sklady: spichrze Krola, Zimowe Miasto, komory, Kamienny Brod."
+    },
+    "_BEZ_INSTYTUCJI": {
+      "_nota": "TRZY BUDOWY POZA FOSA NIE MAJA URZEDU PROWADZACEGO - I DLATEGO WLASNIE Z NICH JEST CISZA. Nie brakuje im pieniedzy ani rak; brakuje im KRZESLA, ktore odpowiada.",
+      "PRZYSTAN WILKA": "cwiartka Cerwyna, reszta Korony. NIKT NIE PROWADZI. Cisza o statusie budowy trwa; nazwisko budowniczego jest czescia odpowiedzi, o ktora pyta Cerwyn. WYMAGA: urzad BUDOWNICZEGO PRZYSTANI, Kasa 3.",
+      "DUSTINPORT": "DONNEL OBROK buduje, ale melduje NIEREGULARNIE i pod pieczecia, a nie w rubrykach. WYMAGA: osiem rubryk co 30 dni, jak u Torrena.",
+      "GLEBOKORZEN": "THEOMORE jest pierwszym mistrzem, ale przy REJESTRZE w Winterfell, nie przy budowie. Miejsce jest, budowy nie ma, ani jednego ucznia. VARD KILOF jedzie obejrzec ze zwiadem kamienia - to ZWIAD, nie urzad. WYMAGA: urzad BUDOWY GLEBOKORZENIA, Kasa 3, przed Rada 300-03-30."
+    }
   }
 }

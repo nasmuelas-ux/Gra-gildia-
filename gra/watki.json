@@ -167,7 +167,7 @@
    "termin": null,
    "wobec": "self",
    "stan": "OBIE NOGI W RUCHU — import (barwniki/egzotyka przez Vhassara) + wywoz (skory lokalne + polnocne futra/bursztyn przez Torsena/Halvarda, Bialy Noz)",
-   "_dziennik_nota": 13
+   "_dziennik_nota": 14
   },
   {
    "id": "pioro_dla_wiary",
@@ -4409,7 +4409,7 @@
    "id": "agronomia_chlodu_glebokorzen_299_08",
    "tytul": "Agronomia chlodu - misja zalozycielska Glebokorzenia; ogniwo ZELAZA SUROWEGO za ZIEMIE nosi mistrz domu",
    "status": "otwarty",
-   "_dziennik_nota": 12,
+   "_dziennik_nota": 13,
    "priorytet": "sredni"
   },
   {
@@ -6099,7 +6099,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 93,
+   "_dziennik_nota": 94,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 35
+   "_dziennik_nota": 36
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

@@ -456,7 +456,7 @@
       "co": "ZLECENIE REKRUTACYJNE DLA GAWENA (300-02-07) - 'CZEGO SZUKAC, NIE KOGO'. CZTERY POSADY, NIE JEDNA, i zadna nie jest budowniczym: (1) PRZYSTAN WILKA - czlowiek, ktory wie, ILE LADUNKU PRZECHODZI PRZEZ POMOST W DZIEN I KIEDY RZEKA STAJE (kwatermistrz, szyper barki, celnik odstawiony za to, ze liczyl za dokladnie). NIE BUDOWNICZY - budowniczego (BORS) Gawen znalazl juz 299-08-27. 'To nie jest budowa, to jest PIEC KSIAG PROWADZONYCH TAK SAMO'. (2) STARKPORT - DWOJE, nie jednego: kto postawi przyczolek na pustym wrogim cyplu I KTO GO ZASIEDLI. 'Ziemia niczyja to nie jest ulatwienie - to jest tylko brak czlowieka, ktory by protestowal'. (3-4) DWIE ODNOGI TRAKTU - ludzie STAMTAD, nie z Winterfell. ### ZDANIE, KTORE MA STAC PRZY KAZDYM NAZWISKU: 'Nie szukam ludzi wielkich. Szukam ludzi, ktorzy JUZ COS UMIEJA i ktorych ktos odstawil.'",
       "kto": "GAWEN",
       "zamyka": "piec nazwisk (przystan 1, Starkport 2, trakt 2) albo uczciwe 'nie ma i dlaczego'",
-      "status": "otwarte",
+      "status": "ZAMKNIETE 300-03-03 (rzut 63) - piecioro znalezionych, przy jednym warunek do rozstrzygniecia",
       "kanal": "kruk Winterfell-Fosa",
       "wraca": "300-02-11"
     },
@@ -908,6 +908,24 @@
       "kanal": "kruk Winterfell-Fosa",
       "wraca": "300-03-07",
       "zamyka": "dwa nazwiska albo rozstrzygniecie, ze Starkport czeka i do kiedy",
+      "status": "OBSADZONE 300-03-03 - Vemund od Kotwy (przyczolek) i Sigrun z Wdowiej Strazy (osada, z warunkiem)"
+    },
+    {
+      "data": "300-03-07",
+      "co": "WARUNEK SIGRUN: KARTA MIASTA DLA STARKPORTU PRZED PIERWSZA ZIMA, NIE PO NIEJ. 'Ludzie zostaja tam, gdzie MAJA prawo, a nie tam, gdzie im OBIECANO prawo'. To PREROGATYWA KROLA i realny koszt Kasy 3: karta znaczy ulge, ulga znaczy lata bez dochodu - Zimowe Miasto ma piec lat zera. Drugi warunek, ze osadnikow wybiera sama, nie kosztuje nic i jest sluszny. JESLI KARTA NIE PADNIE: postawi osade, ale nie reczy, ze ludzie zostana po pierwszej zimie.",
+      "kto": "SYMON -> KROL",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-07",
+      "zamyka": "zgoda Krola na karte przed zima ALBO pisemna odmowa, ktora Sigrun ma zobaczyc",
+      "status": "otwarte - DO ROZSTRZYGNIECIA"
+    },
+    {
+      "data": "300-03-13",
+      "co": "TOVE ZE WZGORZ - SPLAWNOSC SAMOTNYCH WZGORZ, liczba PRZED rozmowa z Wymanem; to jeden z punktow, ktore on kladzie na stol w Bialym Porcie.",
+      "kto": "TOVE",
+      "kanal": "robota na miejscu (Fosa)",
+      "wraca": "300-03-13",
+      "zamyka": "liczba",
       "status": "otwarte"
     }
   ]

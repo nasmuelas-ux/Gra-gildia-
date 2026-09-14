@@ -3598,7 +3598,7 @@
    "id": "przywileje_miejskie_silnik_monety_299_06",
    "tytul": "Przywileje miejskie / karty miast jako swiadomy silnik monety i wolnej klasy (ziarno reformy)",
    "status": "AKTYWOWANE_299-08-04_pilot_Wintertown",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "list_do_owena_moralny_korzen_299_06",
@@ -5389,7 +5389,7 @@
    "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady.",
    "filar": "ZIEMIE BEZ PANA - Kamienisty Brzeg i Cypel",
    "stan_watku": "ZYWY",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "wylaczenie_namiestnika_z_regencji_299_09",
@@ -6089,7 +6089,7 @@
   {
    "id": "standard_traktu_polnocy_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 22,
+   "_dziennik_nota": 23,
    "filar": "STANDARD TRAKTU POLNOCY",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 39
+   "_dziennik_nota": 40
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

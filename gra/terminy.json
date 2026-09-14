@@ -1002,12 +1002,12 @@
   },
   {
    "data": "300-03-13 - PRZED ROZMOWA Z HALEM",
-   "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze. ### ⚠ 300-03-05 VOID BLEDU GM: ta pozycja zostala wczoraj zamknieta PRZEZ POMYLKE - dopisek o wykonaniu przegrody nalezal do pozycji 'PRZEGRODA SIEWNA - WYKONANIE', nie do tej. Kolizja o NIETYKALNOSC ZIARNA SIEWNEGO stoi otworem dalej. Zasada 3: blad GM nie przechodzi na gracza - pozycja wraca z ta sama data, nie z kara za dwa dni.",
-   "kto": "SYMON + HAL",
+   "co": "KOLIZJA, KTORA TRZEBA ROZSTRZYGNAC PRZED BIALYM PORTEM: ZIARNO SIEWNE MA BYC NIETYKALNE - 'nie wolno go zabrac NIGDY, takze Koronie, takze w glodzie' - ALE TO SAMO ZBOZE JEST AKTYWEM POD WEKSLAMI. Zapis 300-03-01 mowi wprost: NIE DA SIE JEDNOCZESNIE UCZYNIC GO NIETYKALNYM I TRZYMAC JAKO ZABEZPIECZENIE PAPIERU, KTORY ZAPADA. ### TO NIE JEST SPOR O SLOWA: nietykalnosc siewu idzie na Rade 300-03-30 w wiazce III (CHLEB). Jesli padnie tam, a weksle nadal na nim stoja, Dom traci zabezpieczenie W DNIU, W KTORYM LORD JE OGLASZA. DO WYBORU: inne zabezpieczenie (sol, ryba solona, sklady Bialego Portu, bursztyn na rozliczenie towarowe) albo wezszy zapis nietykalnosci - TYLKO ZIARNO SIEWNE, nie cale zboze. ### ⚠ 300-03-05 VOID BLEDU GM: ta pozycja zostala wczoraj zamknieta PRZEZ POMYLKE - dopisek o wykonaniu przegrody nalezal do pozycji 'PRZEGRODA SIEWNA - WYKONANIE', nie do tej. Kolizja o NIETYKALNOSC ZIARNA SIEWNEGO stoi otworem dalej. Zasada 3: blad GM nie przechodzi na gracza - pozycja wraca z ta sama data, nie z kara za dwa dni. ### 300-03-06 ODLOZONE PRZEZ GRACZA DO BIALEGO PORTU: 'Hal bedzie przedstawial mi raport bilansowy, wtedy to rozwiklam'. Rozstrzygniecie zapada przy ksiegach, nie na trakcie - i to jest wlasciwa kolejnosc, bo pytanie brzmi 'czym stoi papier', a odpowiedz jest w bilansie. ⚠ POPRAWKA MOJA: pisalem 'wiazka III (CHLEB)'. CHLEB TO WIAZKA IV - uklad dnia przebudowal KROL: I Mur-rejestr · II urzad, ktory idzie i sprawdza · III WODA · IV CHLEB · V HANDEL · VI USTROJ.",
+   "kto": "SYMON + HAL - w Bialym Porcie, przy bilansie",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-06",
+   "wraca": "300-03-13",
    "zamyka": "rozstrzygniecie: co zabezpiecza weksle po ogloszeniu nietykalnosci siewu",
-   "status": "otwarte - PRZYWROCONE PO BLEDZIE GM"
+   "status": "otwarte - ODLOZONE DO BILANSU W BIALYM PORCIE"
   },
   {
    "data": "300-03-13",
@@ -1610,6 +1610,15 @@
    "kanal": "jezdziec Fosa-Bialy Port",
    "wraca": "300-03-13",
    "zamyka": "pismo do Gawena: calosc w towarze, lista i KOLEJNOSC partii wybrana przez Dom",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-06",
+   "co": "CO Z NIETYKALNOSCI SIEWU IDZIE NA RADE, A CO NIE IDZIE WCALE - ROZDZIELENIE, KTORE WYSZLO Z PYTANIA GRACZA 'ale co ma isc na Rade?'. ### KOMPETENCJA WIELKIEJ RADY jest spisana od 299-06: NAJWYZSZE APELACJE, ZGODA NA DANINE I POBOR, SKARGI, WIELKIE POSTANOWIENIA. Nic ponadto. ### (A) NIE IDZIE NA RADE W OGOLE: nietykalnosc przegrody siewnej we WLASNYM skladzie Fosy. To nie ustawa, to KLUCZ. Nikt nie potrzebuje czternastu domow, zeby zamknac wlasna przegrode - a stawianie tego pod glosy zaprasza czternastu do sporu o cudza spizarnie. ### (B) IDZIE NA RADE, BO JEST CIEZAREM NALOZONYM NA CZTERNASCIE DOMOW: OBOWIAZEK, zeby KAZDE LENNO trzymalo przegrode siewna - zwazona przy zsypie z norma ubytku, pod osobnym kluczem, meldowana. ### I DRUGIE, KTORE JUZ JEST POBOREM Z NAZWY: PODATEK W ZIARNIE, PRZYMUS SKLADU, PULAP JEDNEGO RACHUNKU, KLAUZULA V (kto moze kupowac). ### FORMA WZIETA OD KROLA, JEGO WLASNY WYNALAZEK Z WIAZEK I i II: 'najpierw glosuja nad REJESTREM, potem nad URZEDEM, KTORY REJESTRY PROWADZI - dwa glosowania, JEDEN ARGUMENT'. Tak samo CHLEB: najpierw glos nad PRZEGRODA, zaraz potem nad MELDUNKIEM z niej. ### ⚠ POPRAWKA DATY, MOJ BLAD: proponowalem 'od najblizszego SIEWU'. ZLE. PRZEGRODE SIEWNA NAPELNIA SIE PRZY ZSYPIE, A OPROZNIA PRZY SIEWIE - wiosna nie da sie jej napelnic, bo sie ja wlasnie wysypuje. Data wlasciwa to NAJBLIZSZY ZSYP, czyli tegoroczne zniwa. Tegoroczny siew idzie po staremu i zaden lord nie dostaje obowiazku, ktorego fizycznie nie moze wykonac.",
+   "kto": "SYMON - na Wielka Rade",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "dwa glosy w wiazce IV: przegroda, potem meldunek",
    "status": "otwarte"
   }
  ]

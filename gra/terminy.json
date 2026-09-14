@@ -2691,6 +2691,15 @@
    "wraca": "300-03-14",
    "zamyka": "rozstrzygniete, czy i jak Lyra widzi matke",
    "status": "300-03-14: ojciec byl u niej; do matki nadal nie wchodzi (goraczka do 03-18)"
+  },
+  {
+   "data": "300-03-19",
+   "co": "WYJAZD SYMONA Z BIALEGO PORTU NA WINTERFELL - PRZESUNIETY Z 300-03-15 NA 300-03-19, rozstrzygniecie gracza 300-03-14. POWOD: okno goraczki Miry zamyka sie 300-03-18 i pan chce przy tym byc. PIEC DNI DROGI = WINTERFELL ~300-03-24, szesc dni przed Rada; przy zlym trakcie (precedens 300-03-05: 7-9 dni zamiast 6-8) ~03-27/28, czyli przed Rada, ale BEZ ZAPASU. Cena przyjeta swiadomie. ⚠ ADRES RUCHOMY: Bialy Port DO 03-19. Kancelaria Garricka ma to wiedziec - kruk Bialy Port-Fosa, 2 dni.",
+   "kto": "SYMON / kancelaria GARRICKA",
+   "kanal": "kruk Bialy Port-Fosa",
+   "wraca": "300-03-19",
+   "zamyka": "wyjazd albo swiadoma zmiana daty",
+   "status": "otwarte - NOWE"
   }
  ]
 }

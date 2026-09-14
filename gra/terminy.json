@@ -2154,12 +2154,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "⚠ NESTA JEST NAJBARDZIEJ OBCIAZONYM CZLOWIEKIEM W CALEJ GRZE - i warto to policzyc, zanim dolozy sie piate. NA NIEJ WISZA DZIS: (1) kantor i wspolnictwa, 18/mies - pozycji NIKT NIE RUSZAL OD GRUDNIA, bo Hal jej nie ruszy bez niej; (2) sprawa ILARIA i cechu pisarzy; (3) METODA LICZENIA RYZYKA dla ubezpieczen frachtu - 'jedyny czlowiek, ktory to umie'; (4) pytanie o DAENERYS, wyslane 300-03-02, odpowiedz realnie V/300; (5) od dzis RECZENIE ZA PLACOWKE W BRAAVOS. ### I MA PRAWO WYJSCIA W KAZDEJ CHWILI BEZ TLUMACZENIA - jej wlasny warunek trzeci, przyjety przez Symona. ### Siedzi przy CUDZYCH ksiegach od grudnia, czyli jej czas juz jest komus sprzedany. ### 300-03-14 KOREKTA GRACZA: POZYCJA (3) SCHODZI Z NIEJ. Ubezpieczenia frachtu stworzyl SYMON - instrument wyczytany z jej ksiag 297-01-19 (rzut 96), sprzedane Aldousowi 297-03-29, norma z Torsenem 297-04-13 (rzut 87) brzmiala 'regula ryzyka tranzytu kryta ubezpieczeniem, SYMON-ARBITER'. Zostaje jej PIEC pozycji.",
+   "co": "⚠ NESTA JEST NAJBARDZIEJ OBCIAZONYM CZLOWIEKIEM W CALEJ GRZE - i warto to policzyc, zanim dolozy sie piate. NA NIEJ WISZA DZIS: (1) kantor i wspolnictwa, 18/mies - pozycji NIKT NIE RUSZAL OD GRUDNIA, bo Hal jej nie ruszy bez niej; (2) sprawa ILARIA i cechu pisarzy; (3) METODA LICZENIA RYZYKA dla ubezpieczen frachtu - 'jedyny czlowiek, ktory to umie'; (4) pytanie o DAENERYS, wyslane 300-03-02, odpowiedz realnie V/300; (5) od dzis RECZENIE ZA PLACOWKE W BRAAVOS. ### I MA PRAWO WYJSCIA W KAZDEJ CHWILI BEZ TLUMACZENIA - jej wlasny warunek trzeci, przyjety przez Symona. ### Siedzi przy CUDZYCH ksiegach od grudnia, czyli jej czas juz jest komus sprzedany. ### 300-03-14 KOREKTA GRACZA: POZYCJA (3) SCHODZI Z NIEJ. Ubezpieczenia frachtu stworzyl SYMON - instrument wyczytany z jej ksiag 297-01-19 (rzut 96), sprzedane Aldousowi 297-03-29, norma z Torsenem 297-04-13 (rzut 87) brzmiala 'regula ryzyka tranzytu kryta ubezpieczeniem, SYMON-ARBITER'. Zostaje jej PIEC pozycji. ### 300-03-14: POZYCJA (1) TEZ SCHODZI - KANTOREM ZAJMUJE SIE HAL Z POLECENIA SAMEJ NESTY. Moje 'Hal jej nie ruszy bez niej' bylo moim ujeciem, nie jej zastrzezeniem. ZOSTAJA JEJ TRZY: Ilario i cech · Daenerys · placowka w Braavos.",
    "kto": "SYMON + HAL",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-03-14",
    "zamyka": "kolejnosc tego, o co sie ja prosi - albo swiadome przyjecie, ze wszystko naraz nie pojdzie",
-   "status": "otwarte"
+   "status": "ZMNIEJSZONE 300-03-14 - z szesciu na trzy, bez zadnej decyzji o niej"
   },
   {
    "data": "300-03-12",
@@ -2655,6 +2655,15 @@
    "wraca": "~300-03-21",
    "zamyka": "zgoda Cerwyna albo jego wlasny kandydat - przed Rada, nie na niej",
    "status": "otwarte - NOWE"
+  },
+  {
+   "data": "300-03-14",
+   "co": "METODA LICZENIA RYZYKA FRACHTU - SPISANA PRZEZ SYMONA. Nie czekala na Braavos ani dnia. Tresc to jego wlasna praktyka od 297: instrument wyczytany z ksiag Nesty 297-01-19, sprzedane Aldousowi 297-03-29, a norma z Torsenem 297-04-13 brzmiala 'regula ryzyka tranzytu kryta ubezpieczeniem, SYMON-ARBITER'. Od dzis to samo lezy na papierze, wiec ladunek moze wycenic ktos, kto nie jest panem. REZERWA 50 SMOKOW stoi; linia przestaje byc pozycja, ktora 'jeszcze nie daje obrotu, bo brakuje rachmistrza'.",
+   "kto": "SYMON (metoda) / HAL (wdrozenie)",
+   "kanal": "kantor Bialy Port",
+   "wraca": "300-03-14",
+   "zamyka": "metoda na papierze, w rekach Hala",
+   "status": "ZROBIONE 300-03-14"
   }
  ]
 }

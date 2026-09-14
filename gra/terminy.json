@@ -1731,12 +1731,12 @@
   },
   {
    "data": "300-03-11",
-   "co": "KOLEBKA GLEBOKORZENIA - NOWY ZAMEK, I SYMON JEST WLASNIE TUTAJ. Theomore odpisal; kolebka stoi w Bialym Porcie z oferty Wymana (299-09-21, rzut 89), a Namiestnik jest w miescie do ~300-03-15. ### ⚠ PIERWSZY RAZ OD POL ROKU DA SIE TO OBEJRZEC OCZAMI, A NIE PRZEZ KRUKA - i drugi raz taka okazja bedzie nie predzej niz po Radzie. Vard Kilof oglada tymczasem kamien na Goracym Porcie. ### 300-03-13 NOC, RZUT 36 - OBEJRZANE. Ksiegi w skrzyniach od pol roku przy kuchni i kominie, czesc zawilgocona (spisane). Z dziesieciu zostalo SIEDMIU - dwoch do domow, jeden na platna robote w porcie. Theomore policzyl straty sam, przed pytaniem. List z tym wszystkim lezal nieprzeczytany od 300-03-11.",
+   "co": "KOLEBKA GLEBOKORZENIA - NOWY ZAMEK, I SYMON JEST WLASNIE TUTAJ. Theomore odpisal; kolebka stoi w Bialym Porcie z oferty Wymana (299-09-21, rzut 89), a Namiestnik jest w miescie do ~300-03-15. ### ⚠ PIERWSZY RAZ OD POL ROKU DA SIE TO OBEJRZEC OCZAMI, A NIE PRZEZ KRUKA - i drugi raz taka okazja bedzie nie predzej niz po Radzie. Vard Kilof oglada tymczasem kamien na Goracym Porcie. ### 300-03-13 NOC, RZUT 36 - OBEJRZANE. Ksiegi w skrzyniach od pol roku przy kuchni i kominie, czesc zawilgocona (spisane). Z dziesieciu zostalo SIEDMIU - dwoch do domow, jeden na platna robote w porcie. Theomore policzyl straty sam, przed pytaniem. List z tym wszystkim lezal nieprzeczytany od 300-03-11. ### ODPOWIEDZ PANA 300-03-13 NOC: siedmiu wystarczy na teraz - izby zamowione - SKRZYNIE WYJMUJEMY JUTRO.",
    "kto": "SYMON + THEOMORE (przez ludzi Wymana w miescie)",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "kolebka obejrzana albo swiadomie odpuszczona",
-   "status": "OBEJRZANE 300-03-13 (rzut 36) - odpowiedz pana w toku"
+   "status": "ZAMKNIETE 300-03-13 - przechodzi w wyjmowanie skrzyn 300-03-14"
   },
   {
    "data": "300-03-11",
@@ -2298,7 +2298,7 @@
   },
   {
    "data": "300-03-16",
-   "co": "THEOMORE - LICZBA I DATA DO KOLEBKI. Izby sa zamowione, ale przez pol roku nikt nie podal Wymanowi ANI JEDNEJ LICZBY, i to nie byla jego wina. TERAZ IDZIE PYTANIE, KTORE ZAMYKA TE DZIURE: ILU UCZNIOW I KIEDY PRZYJADA, ILE SKRZYN KSIAG I SKAD. ### Dopoki tego nie ma, dwie izby sa dwiema izbami, a nie kolebka. ### 300-03-13: CZESC ODPOWIEDZI PADLA JUZ W NOCY, Z UST - ilu zostalo (siedmiu), stan skrzyn, koszt pierwszego roku (znikomy w ksiegach, bo dach niosl Wyman a reszte rodziny uczniow) oraz gmach w Przystani Wilka - NIE W TYM ROKU. ZOSTAJE: ilu uczniow i KIEDY przyjada nastepni, ile skrzyn i skad - czyli LICZBA DLA WYMANA.",
+   "co": "THEOMORE - LICZBA I DATA DO KOLEBKI. Izby sa zamowione, ale przez pol roku nikt nie podal Wymanowi ANI JEDNEJ LICZBY, i to nie byla jego wina. TERAZ IDZIE PYTANIE, KTORE ZAMYKA TE DZIURE: ILU UCZNIOW I KIEDY PRZYJADA, ILE SKRZYN KSIAG I SKAD. ### Dopoki tego nie ma, dwie izby sa dwiema izbami, a nie kolebka. ### 300-03-13: CZESC ODPOWIEDZI PADLA JUZ W NOCY, Z UST - ilu zostalo (siedmiu), stan skrzyn, koszt pierwszego roku (znikomy w ksiegach, bo dach niosl Wyman a reszte rodziny uczniow) oraz gmach w Przystani Wilka - NIE W TYM ROKU. ZOSTAJE: ilu uczniow i KIEDY przyjada nastepni, ile skrzyn i skad - czyli LICZBA DLA WYMANA. ### 300-03-13 NOC: ILE SKRZYN I SKAD odpowie sie SAMO, przez wyjmowanie 300-03-14 - liczy sie przy wynoszeniu, uszkodzone osobno. ZOSTAJE TYLKO: KIEDY PRZYJADA NASTEPNI UCZNIOWIE - a pan powiedzial 'siedmiu wystarczy na teraz', wiec ta data wiaze sie z gmachem, nie z naborem.",
    "kto": "THEOMORE",
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-16",
@@ -2610,6 +2610,15 @@
    "wraca": null,
    "zamyka": "pierwszy sluchacz seminarium przyjety",
    "status": "ustanowione - czeka na glowe"
+  },
+  {
+   "data": "300-03-14",
+   "co": "WYJMOWANIE SKRZYN GLEBOKORZENIA - rozkaz pana z nocy 300-03-13. Ksiegi wychodza ze skrzyn po POL ROKU przy kuchni i kominie do izby ksiag. ⚠ IZBA NIE JEST JESZCZE PRZYSTOSOWANA i nie musi byc: sucha i zamykana trzyma skrzynie od pierwszego dnia. Chodzi o ZATRZYMANIE SZKODY, nie o wygode. ZAWILGOCONYCH NIE SUSZY SIE PRZY OGNIU - chlodno i sucho. PRZY OKAZJI ZAMYKA SIE POZYCJA NALEZNA 300-03-16: ile skrzyn i skad - liczy sie przy wynoszeniu, uszkodzone odklada osobno, z nazwami. ⚠ PAN JEST NA MIEJSCU DO 300-03-15, WIEC TO ZOBACZY.",
+   "kto": "THEOMORE + ludzie Wymana",
+   "kanal": "Nowy Zamek, na miejscu",
+   "wraca": "300-03-14",
+   "zamyka": "ksiegi w izbie, spis skrzyn i lista uszkodzonych",
+   "status": "otwarte - jutro"
   }
  ]
 }

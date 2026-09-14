@@ -1872,6 +1872,24 @@
    "wraca": "300-03-20",
    "zamyka": "jedna karta, dwie kolumny, ta sama transakcja widziana z obu stron",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "⚠ PIEC POWODOW, DLA KTORYCH OBROT DOMU CZYTA SIE ZA NISKO - i zaden nie jest podejrzeniem, wszystkie sa w ksiegach. Gracz zglosil to DRUGI RAZ; pierwszy raz bylo w samym bilansie z 300-01-26 ('POPRAWKA NA WSKAZANIE GRACZA: bledna lista placowek i ZANIZONY OBROT'). ### (1) PAPIERNIA WATA SIEDZI W APARACIE JAKO KOSZT 12/MIES, NIE JAKO LINIA PRZYCHODU. Zaklad, ktory sprzedaje, jest ksiegowany jak biuro. To zanizenie wprost. ### (2) WARZELNIA, SOLARNIA I BEDNARNIA NIE MAJA WLASNEJ LINII - wsiakaja w jedna liczbe Bialego Portu (660/610/545) razem z kantorem, mlynem, arteria i brokerka. Ten sam blad co po stronie lenna. ### (3) UDZIALY (kantor Nesty) 18/mies - liczba STALA OD GRUDNIA, bo Nesta siedzi w Braavos przy cudzych ksiegach i Hal nie rusza tego bez niej. To nie jest pomiar, to ostatni znany odczyt. ### (4) KASA 2 NIE WCHODZI DO OBROTU DOMU W OGOLE - a wlosc wytwarza i sprzedaje. ### (5) I NAJWIEKSZY: MIERZONY KWARTAL TO X-XII, NAJGORSZY KWARTAL ROKU. Zima, trakty stoja, a zdolnosc domu zajeta zbozem Korony wozonym BEZ ZYSKU ('nie tracimy na tym, tracimy to, czego nie zarobilismy gdzie indziej'). Mierzyc dom najgorszym kwartalem i nazywac to jego skala to ten sam blad, co mierzyc lenno w marcu.",
+   "kto": "HAL + TAM",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-20",
+   "zamyka": "obrot rozpisany na linie, nie na placowki: warzelnia, solarnia, bednarnia, mlyn, papiernia, bursztyn, kredyt, brokerka - kazde osobno",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-11",
+   "co": "ILE LENNO ZARABIA NA TYM, CO SPRZEDAJE DOMOWI - LICZBY NIE MA I NIE BEDZIE JEJ Z POWIETRZA. ### CO JEST ZNANE O KASIE 2: czynsze przyszly W DWOCH TRZECICH · Kasa 2 wzięła na siebie garnizon i szkole 31/mies od 1 stycznia (w tym GARNIZON 22/mies = 264 rocznie) · danina do Korony 20-40 rocznie · osadnicy zjadaja 225 korcy, a na marzec brakowalo 140 · od 300-03-11 dochodzi zold garnizonu KORONNEGO w Cailin. ### LENNO JEST CIENKIE. ### A DOM OBRACA PONAD DWOMA TYSIACAMI MIESIECZNIE I CZESC TEGO TOWARU POCHODZI Z TEGO LENNA. ### WIEC SA DOKLADNIE TRZY MOZLIWOSCI I DWIE KSIEGI JE ROZSTRZYGAJA: (a) lenno sprzedaje MALO - wtedy problemem jest wolumen produkcji; (b) lenno sprzedaje TANIO - wtedy roznica zostaje w Kasie 1; (c) lenno sprzedaje normalnie, ale WPLYW NIE JEST KSIEGOWANY PO STRONIE LENNA - wtedy Kasa 2 jest biedna tylko na papierze. ### Rozstrzyga to zestawienie spisu Warryna (co wlosc rodzi) z ksiega Tama (co placowka Fosa HQ kupila) - obie istnieja, obu nikt nie polozyl obok siebie. 300-03-20.",
+   "kto": "WARRYN + GERRIK (Kasa 2) + HAL + TAM (Kasa 1)",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-20",
+   "zamyka": "ile lenno wzielo od Domu w monecie i w towarze za ostatni kwartal - jedna liczba",
+   "status": "otwarte"
   }
  ]
 }

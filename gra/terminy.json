@@ -11,10 +11,10 @@
  "terminy": [
   {
    "data": "300-03-03 lub WCZESNIEJ",
-   "co": "ROZWIAZANIE MIRY, Bialy Port. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno, a DRUGIE przychodzi predzej niz pierwsze' ### 300-03-05, RZUT 10. KRUK Z BIALEGO PORTU. ⚠ KANAL MA DWA DNI - to, co stoi na kartce, bylo prawda 300-03-03, a nie jest meldunkiem o tym, co jest teraz. ### PISALA RHONA WLASNA REKA, a polozna nie sle ptaka, zeby uspokoic. Rozwiazanie zaczelo sie WCZESNIEJ, niz liczyla, i NIE POSTEPUJE. Dziecko stoi nisko i zle. Sa przy niej WENNA i ELNA, Lyra zabrana do Elny - to bylo przygotowane, zanim sie zaczelo. ### RHONA NIE OBIECUJE NICZEGO I TO JEST CALA TRESC TEJ KARTKI. ### ARYTMETYKA, KTORA JEST OKRUTNA I KTORA TRZEBA POWIEDZIEC WPROST: BIALY PORT TO 6-8 DNI JAZDY. Wyjazd 03-07 = przyjazd 03-13/03-15. Wyjazd DZIS = 03-11/03-13. W obie strony JEST JUZ PO WSZYSTKIM, ZANIM KON STANIE. Najszybsza rzecza, jaka Symon ma, jest KRUK - dwa dni, i niesie slowa, nie rece.",
+   "co": "ROZWIAZANIE MIRY, Bialy Port. RHONA: 'to nie bedzie trzeci dzien trzeciego miesiaca - dziecko stoi NIZEJ, niz powinno, a DRUGIE przychodzi predzej niz pierwsze' ### 300-03-05, RZUT 10. KRUK Z BIALEGO PORTU. ⚠ KANAL MA DWA DNI - to, co stoi na kartce, bylo prawda 300-03-03, a nie jest meldunkiem o tym, co jest teraz. ### PISALA RHONA WLASNA REKA, a polozna nie sle ptaka, zeby uspokoic. Rozwiazanie zaczelo sie WCZESNIEJ, niz liczyla, i NIE POSTEPUJE. Dziecko stoi nisko i zle. Sa przy niej WENNA i ELNA, Lyra zabrana do Elny - to bylo przygotowane, zanim sie zaczelo. ### RHONA NIE OBIECUJE NICZEGO I TO JEST CALA TRESC TEJ KARTKI. ### ARYTMETYKA, KTORA JEST OKRUTNA I KTORA TRZEBA POWIEDZIEC WPROST: BIALY PORT TO 6-8 DNI JAZDY. Wyjazd 03-07 = przyjazd 03-13/03-15. Wyjazd DZIS = 03-11/03-13. W obie strony JEST JUZ PO WSZYSTKIM, ZANIM KON STANIE. Najszybsza rzecza, jaka Symon ma, jest KRUK - dwa dni, i niesie slowa, nie rece. ### 300-03-10, NA TRAKCIE, DZIEN DROGI OD MIASTA. ⚠ BEZ NOWEGO RZUTU - zasada 27: sprawa dostala swoj rzut 300-03-05 i byl to 10. Wynik z niego, nie z nowego losu. ### HAL SIEROTA WYJECHAL Z BIALEGO PORTU SAM, gdy tylko doszedl kruk pana (03-07), i jechal trzy dni w gore traktu. Nie poslal czlowieka. Zostawil w miescie bilans i odbior towaru Korony - obie rzeczy poczekaly. ### DZIECKO NIE ZYJE. Stalo nisko i zle, i nie obrocilo sie; trwalo to dobe i noc. ### MIRA ZYJE. Rhona, Wenna i Elna byly przy niej cala dobe i to one sa powodem, dla ktorego to zdanie brzmi tak, a nie inaczej. JEST SLABA I NIE JEST BEZPIECZNA - Rhona nie mowi, ze bedzie dobrze, tylko ze jest lepiej niz bylo, i tyle mowi. ### LYRA JEST U ELNY I NIC JEJ NIE JEST. ### Hal przywiozl to jako wiadomosc, nie jako raport: bez liczb, bez pisma, bez pieczeci. Przywiozl tez date - to bylo 300-03-04, nad ranem.",
    "kto": "RHONA, WENNA, ELNA; Lyra u Elny",
-   "zamyka": "wiadomosc z Bialego Portu (kruk 2 dni, jezdziec 6-8)",
-   "status": "PRZYSZLO 300-03-05 (rzut 10) - SPRAWA OTWARTA, WIADOMOSC MA DWA DNI",
+   "zamyka": "wiadomosc doreczona osobiscie 300-03-10",
+   "status": "ZAMKNIETE 300-03-10 - WYNIK Z RZUTU 10 (03-05), BEZ NOWEGO RZUTU",
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-03-05"
   },
@@ -1682,6 +1682,24 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "korce z rubryka stanu przy kazdej partii, cena osobna dla siewu, i wykaz wsi: ktora ma soltysa, ktora nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-10",
+   "co": "MIRA PO ROZWIAZANIU - STAN NIEROZSTRZYGNIETY. Rhona nie obiecuje. Symon staje w Bialym Porcie 300-03-11. ### To nie jest pozycja do zamkniecia rozkazem i nie ma przy niej nic do policzenia.",
+   "kto": "RHONA, WENNA, ELNA - Bialy Port",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-11",
+   "zamyka": "Symon na miejscu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-10",
+   "co": "BILANS HALA I ODBIOR 695 W TOWARZE - PRZESUNIETE, BO HAL WYJECHAL PO PANA. Obie rzeczy mialy stanac na stole 300-03-13; Hal zostawil je w miescie i pojechal trzy dni w gore traktu sam. Przy bilansie zapada takze KOLIZJA ZIARNA SIEWNEGO I WEKSLI, odlozona tam przez gracza 300-03-06.",
+   "kto": "HAL SIEROTA",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-15",
+   "zamyka": "bilans przedlozony, towar odebrany, kolizja weksli rozstrzygnieta",
    "status": "otwarte"
   }
  ]

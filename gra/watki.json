@@ -4794,7 +4794,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 36,
+   "_dziennik_nota": 37,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -5347,7 +5347,7 @@
   {
    "id": "spotkanie_ze_stannisem_w_pentos_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "priorytet": "wysoki",
    "termin": "299-12 (Pentos)",
    "tytul": "Spotkanie ze Stannisem w Pentos - zaproszenie wyslane z pieciu warunkami; jedzie Namiestnik osobiscie; czeka na odpowiedz",
@@ -5730,7 +5730,7 @@
   {
    "id": "raport_osrica_z_muru_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 13,
+   "_dziennik_nota": 14,
    "filar": "OSRIC - raporty z Muru",
    "stan_watku": "ZYWY"
   },
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 66,
+   "_dziennik_nota": 67,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },
@@ -6193,7 +6193,7 @@
   {
    "id": "maester_aemon",
    "status": "otwarty",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "theomore_mistrz_nauki",
@@ -6228,7 +6228,7 @@
   {
    "id": "howland_reed",
    "status": "otwarty",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "spis_flory_przesmyku_299_09",

@@ -400,7 +400,7 @@
    "stan_data": "300-02-25",
    "scalony_z": "dom_handlowy_tally_299_05",
    "stan_powod": "Rozstrzygniecie gracza: NESTA ZOSTALA WSPOLNICZKA DOMU TALLY. Watki sie zbiegly - spolka z Nesta to dzis czesc ustroju Domu.",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "rozliczenie_antaryon_plan",
@@ -412,7 +412,8 @@
    "status": "OS = BANK (07-10), proof-gated; Lord odrzucony; blok cicho + osłona Aldousa",
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
-   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod.",
+   "_dziennik_nota": 1
   },
   {
    "id": "refinansowanie_dlugu",
@@ -3481,7 +3482,7 @@
    "id": "przeglad_geopolityczny_raporty_krolestwa_299_06",
    "tytul": "Staly przeglad geopolityczny + raporty z krolestwa (oczy wolnego panstwa)",
    "status": "w_toku_Symon_sklada_obraz",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "stan_watku": "ZYWY",
    "stan_uwaga": "FILAR: wszystkie dzialania polityczne zewnetrzne i wywiad. Mierzy sie kanalami, nie postepem. Najwieksza biala plama: dwor Krolewskiej Przystani."
   },

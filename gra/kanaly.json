@@ -35,7 +35,7 @@
     "Braavos pelne poselstwo": {
       "tam": 75,
       "wraca_lacznie": 150,
-      "zrodlo": "2,5 miesiaca w jedna strone, zapis 299-08-20"
+      "zrodlo": "2,5-4 MIESIACE = CALE POSELSTWO: rejs + 3-6 TYGODNI ROKOWAN NA MIEJSCU + powrot (zapis 299-08-20). ⚠ TO NIE JEST CZAS LISTU. Do korespondencji z NESTA, KTORA JUZ TAM SIEDZI, sluzy kanal 'morze Bialy Port-Braavos'."
     },
     "morze na poludnie (Reach, Highgarden)": {
       "tam": 35,
@@ -95,6 +95,11 @@
       "tam": 6,
       "wraca_lacznie": 12,
       "zrodlo": "wezel na GORNYM BIALYM NOZU - nie Dustinport; do 300-03-03 pozycja miala w rejestrze zly kanal"
+    },
+    "list do Nesty (Fosa-Braavos-Fosa)": {
+      "tam": 23,
+      "wraca_lacznie": 48,
+      "zrodlo": "Fosa->Bialy Port 2 dni krukiem + Bialy Port->Braavos 9-14 dni przy dobrych wiatrach, ~3 tygodnie tempem handlowym. Nesta JEST na miejscu - nie doliczac czasu poselstwa. Do tego czas na sama robote, jesli zlecenie jej wymaga."
     }
   }
 }

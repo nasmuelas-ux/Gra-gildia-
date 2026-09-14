@@ -245,12 +245,12 @@
     },
     {
       "data": "V/300",
-      "co": "NESTA: kolumna dziesieciu przystani zachodnich (fracht) + pytanie o DAENERYS",
+      "co": "NESTA: kolumna dziesieciu przystani zachodnich (fracht) + pytanie o DAENERYS ⚠ DATA POPRAWIONA 300-03-03 z V/300. Pytanie o Daenerys doklejone 300-03-02 - to najmlodszy z czterech listow i dlatego wraca ostatni, a nie w maju.",
       "kto": "NESTA",
       "zamyka": "odpowiedz z Braavos",
       "status": "otwarte",
-      "kanal": "Braavos pelne poselstwo",
-      "wraca": "300-05-15"
+      "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+      "wraca": "300-04-18"
     },
     {
       "data": "jesien 300",
@@ -507,30 +507,30 @@
     },
     {
       "data": "wyslany 300-02-17",
-      "co": "NESTA - CZWARTE ZLECENIE: fracht na zachodnim morzu (nie okret - LADOWNIA; domy braavoskie maja kantory w Lannisporcie i Starym Miescie) + LUPACZ KAMIENIA. Kolejka wypisana wprost: (1) ksiega Antaryonow (2) karta cen (3) wschod i dziewczyna (4) to. 'Czwarta jest czwarta i ma nia zostac.'",
+      "co": "NESTA - CZWARTE ZLECENIE: fracht na zachodnim morzu (nie okret - LADOWNIA; domy braavoskie maja kantory w Lannisporcie i Starym Miescie) + LUPACZ KAMIENIA. Kolejka wypisana wprost: (1) ksiega Antaryonow (2) karta cen (3) wschod i dziewczyna (4) to. 'Czwarta jest czwarta i ma nia zostac.' ⚠ DATA POPRAWIONA 300-03-03 z V/300. Wyslany 300-02-17; robota wymaga chodzenia po kantorach braavoskich, wiec obieg plus dwa tygodnie.",
       "kto": "NESTA",
       "zamyka": "odpowiedz z Braavos - 2,5 miesiaca w jedna strone",
       "status": "otwarte",
-      "kanal": "Braavos pelne poselstwo",
-      "wraca": "300-05-15"
+      "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+      "wraca": "300-04-05"
     },
     {
       "data": "wyslany 300-02-07",
-      "co": "NESTA - KADRY Z BRAAVOS (pozycja 2 kolejki).",
+      "co": "NESTA - KADRY Z BRAAVOS (pozycja 2 kolejki). ⚠ DATA POPRAWIONA 300-03-03: bylo V/300, bo policzylem czas CALEGO POSELSTWA zamiast czasu LISTU. Wyslany 300-02-07; Nesta juz tam siedzi, wiec sam obieg to okolo 48 dni, plus czas na znalezienie ludzi.",
       "kto": "NESTA",
       "zamyka": "ludzie albo nazwiska",
       "status": "otwarte",
-      "kanal": "Braavos pelne poselstwo",
-      "wraca": "300-05-05"
+      "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+      "wraca": "300-03-25"
     },
     {
       "data": "wyslany 300-03-01",
-      "co": "NESTA - ROZGLOSIC W BRAAVOS PRZYWILEJE FOSY; ludzie maja kierunek. ALE rozglaszanie ZACZYNA SIE PO PODPISIE, nie przed.",
+      "co": "NESTA - ROZGLOSIC W BRAAVOS PRZYWILEJE FOSY; ludzie maja kierunek. ALE rozglaszanie ZACZYNA SIE PO PODPISIE, nie przed. ⚠ DATA POPRAWIONA 300-03-03 z V/300 - ale tu poprawka mniej znaczy: rozglaszanie i tak ZACZYNA SIE PO PODPISIE przywileju, nie po dojsciu listu.",
       "kto": "NESTA",
       "zamyka": "podpis przywileju -> potem rozglos",
       "status": "otwarte - warunkowe",
-      "kanal": "Braavos pelne poselstwo",
-      "wraca": "300-05-30"
+      "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+      "wraca": "300-04-15"
     },
     {
       "data": "wyslany 300-03-03 o brzasku",
@@ -579,12 +579,12 @@
     },
     {
       "data": "wyslane 299-12-18 - odpowiedz III/IV 300, NIE ZALEGLE",
-      "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem.",
+      "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem. ⚠ POPRAWKA PODWOJNA 300-03-03. Bylo 'za 37 dni' - ZLE W OBIE STRONY. Pismo dyktowano w XII/299 TAM, GDZIE CECH SIEDZI: w Braavos. Odpowiedz nie musi przeplywac morza - MUSI TYLKO WROCIC DO NAS. Wiec termin minal okolo 300-02-05 i TO JEST POZYCJA PRZETERMINOWANA O MIESIAC, a nie odlegla.",
       "kto": "CECH PISARZY W BRAAVOS -> przez NESTE",
       "zamyka": "przywrocenie Ilaria na liste ALBO odmowa cechu na pismie",
       "status": "otwarte - cech jest W BRAAVOS, 2,5 miesiaca w jedna strone; termin jeszcze nie minal",
-      "kanal": "Braavos pelne poselstwo",
-      "wraca": "300-04-10"
+      "kanal": "morze Bialy Port-Braavos",
+      "wraca": "300-02-05"
     },
     {
       "data": "od 299-08-14 - STALE",

@@ -1650,12 +1650,21 @@
   },
   {
    "data": "300-03-08",
-   "co": "⚡ DNO STALO SIE CENA - PIERWSZY SKUTEK UBOCZNY PRAWA SPICHLERZA, USLYSZANY NA TRAKCIE (rzut 73). Slup w Cailin stanal 300-03-04 z trzema liczbami zbozowymi; jedzie teraz na polnocny wschod z kazdym wozem. Furmani gadaja o nowym mycie DOBRZE - procent zamiast dwunastu jeleni od wozu, bo plaska oplata byla podatkiem od biedy i oni to czuli, zanim ktokolwiek to nazwal. ### ALE O ZBOZU MOWIA TAK: 'TERAZ PLACA TRZY-CZTERDZIESCI CZTERY ZA OWIES'. NIE 'NIE MNIEJ NIZ' - 'PLACA'. ### DNO OGLOSZONE JAKO LICZBA STAJE SIE JEDYNA LICZBA, KTORA WSZYSCY ZNAJA, WIEC SKUP PRZESTAJE PLACIC WIECEJ, A CHLOP PRZESTAJE PROSIC WIECEJ. Cena minimalna zakotwiczyla rynek NA SOBIE - zamiast podlogi zrobila sie polka. ### TO NIE JEST BLAD W PRAWIE, TYLKO BRAK JEDNEGO ZDANIA OBOK LICZBY. ### ⚠ I SLYCHAC TO TYLKO STAD: przy stole tej rzeczy nie widac, bo w ksiedze skupu wszystko zgadza sie z ogloszeniem CO DO MIEDZIAKA - i wlasnie to jest objaw. DOKTRYNA: liczba ogloszona jako najmniejsza wraca jako jedyna, jesli nikt nie ogłosil obok niej, ile wynosi cena.",
+   "co": "⚡ DNO STALO SIE CENA - PIERWSZY SKUTEK UBOCZNY PRAWA SPICHLERZA, USLYSZANY NA TRAKCIE (rzut 73). Slup w Cailin stanal 300-03-04 z trzema liczbami zbozowymi; jedzie teraz na polnocny wschod z kazdym wozem. Furmani gadaja o nowym mycie DOBRZE - procent zamiast dwunastu jeleni od wozu, bo plaska oplata byla podatkiem od biedy i oni to czuli, zanim ktokolwiek to nazwal. ### ALE O ZBOZU MOWIA TAK: 'TERAZ PLACA TRZY-CZTERDZIESCI CZTERY ZA OWIES'. NIE 'NIE MNIEJ NIZ' - 'PLACA'. ### DNO OGLOSZONE JAKO LICZBA STAJE SIE JEDYNA LICZBA, KTORA WSZYSCY ZNAJA, WIEC SKUP PRZESTAJE PLACIC WIECEJ, A CHLOP PRZESTAJE PROSIC WIECEJ. Cena minimalna zakotwiczyla rynek NA SOBIE - zamiast podlogi zrobila sie polka. ### TO NIE JEST BLAD W PRAWIE, TYLKO BRAK JEDNEGO ZDANIA OBOK LICZBY. ### ⚠ I SLYCHAC TO TYLKO STAD: przy stole tej rzeczy nie widac, bo w ksiedze skupu wszystko zgadza sie z ogloszeniem CO DO MIEDZIAKA - i wlasnie to jest objaw. DOKTRYNA: liczba ogloszona jako najmniejsza wraca jako jedyna, jesli nikt nie ogłosil obok niej, ile wynosi cena. ### 300-03-08 ROZKAZ GRACZA: KRUK Z DROGI DO CAILIN, ZDANIE DOPISANE OBOK DNA.",
    "kto": "SYMON -> HERWIN + lawa (slup) i GERRIK RACHUBA (ksiega skupu)",
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-03-11",
    "zamyka": "zdanie obok dna na slupie ALBO swiadoma decyzja, ze dno zostaje sama liczba",
-   "status": "otwarte - DECYZJA GRACZA"
+   "status": "zrobione 300-03-08 - KRUK POSZEDL Z DROGI"
+  },
+  {
+   "data": "300-03-08",
+   "co": "ZDANIE OBOK DNA - TRESC NA SLUP, wyslana krukiem z drogi (ptak z golebnika Fosy; z traktu pisze sie wylacznie na Fose i nic nie wraca). ### BRZMIENIE, ULOZONE POD UCHO, NIE POD OKO - ma przetrwac powtorzenie przez furmana, ktory nie czyta: 'TO JEST CENA NAJMNIEJSZA, A NIE CENA. W ZESZLYM TYGODNIU PLACONO NA TYM TARGU OD ___ DO ___, PRZY ___ SPRZEDAZACH. KTO CI DAJE NAJMNIEJSZA, DAJE CI NAJMNIEJSZA - I WOLNO CI SZUKAC DALEJ.' ### DLACZEGO WIDELKI, A NIE SREDNIA: srednia to znowu JEDNA LICZBA i za tydzien bylaby nowa polka. Widelki z liczba sprzedazy daja sprzedajacemu GORNY KRANIEC DO CYTOWANIA, a kupujacym utrudniaja zmowe, bo nie ma sie wokol czego zmowic. ### SKAD LICZBY: KSIEGA TARGU - ta sama, ktora jest juz mianownikiem pulapu 1/5. Nic nowego nie trzeba zakladac, trzeba tylko PRZEPISAC NA SLUP TO, CO JUZ JEST W KSIEDZE. ### ⚠ CO TYDZIEN, KAZDEGO DNIA TARGOWEGO, TA SAMA REKA. Widelki sprzed miesiaca sa nowa polka - liczba nieodswiezana zawsze staje sie kotwica. ### RYZYKO NAZWANE WPROST: jawne widelki mowia takze KUPUJACYM, co placa inni. Dlatego widelki i liczba sprzedazy, nigdy srednia. ### DOKTRYNA: rynek nie potrzebuje ceny narzuconej - potrzebuje DRUGIEJ LICZBY.",
+   "kto": "HERWIN (slup) + GERRIK RACHUBA (ksiega targu) + lawa",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-16",
+   "zamyka": "zdanie i widelki na slupie, odswiezane kazdego dnia targowego",
+   "status": "otwarte"
   }
  ]
 }

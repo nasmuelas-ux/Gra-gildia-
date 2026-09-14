@@ -275,7 +275,7 @@
       "co": "MELDUNEK VII OSRICA (Mur) - zalegly. ⚠ TO NIE JEST ZALEGLOSC URZEDOWA: TEDY MA WROCIC ODPOWIEDZ OD MANCE'A RAYDERA. Poslaniec za Mur wyszedl 300-02-07; Osric jest jedynym kanalem, ktorym to moze przyjsc. Jego cisza i cisza zza Muru to JEDNA CISZA, nie dwie.",
       "kto": "OSRIC",
       "zamyka": "meldunek",
-      "status": "otwarte",
+      "status": "ZAMKNIETE 300-03-03 - meldunek VII wydany; spozniony, bo Osric czekal, az bedzie mial co napisac o poslancu, i nie doczekal sie",
       "pilnosc": "NAJPILNIEJSZE Z MURU",
       "kanal": "przez Osrica (Mur)",
       "wraca": "300-02-01"
@@ -836,6 +836,33 @@
       "kanal": "robota na miejscu (Fosa)",
       "wraca": "300-03-10",
       "zamyka": "liczba: ile ciety tygodniowo i iloma rekami",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-03 - PRZYSZLO",
+      "co": "MELDUNEK VII OSRICA - TRZY LICZBY I JEDNA ICH BRAK. (1) STRAZ, liczona NAZWISKO PO NAZWISKU przeciw rolce: PIECIUSET TRZYDZIESTU ludzi, ZDATNYCH DO WALKI TRZYSTU CZTERDZIESTU, na trzech obsadzonych zamkach. Rolka mowi dziewiecset. Aemon mowil we wrzesniu niespelna szesciuset - UBYLO SIEDEMDZIESIECIU W POL ROKU, BEZ ANI JEDNEJ BITWY. I rzecz, ktora zbiega sie z odczytem bramy Fosy: Z TYCH TRZYSTU CZTERDZIESTU DZIEWIECDZIESIECIU CZTERECH PRZYSZLO Z POLUDNIA W CIAGU ROKU. (2) KLANY GOR - DZIURA W MUSTRZE ZAMKNIETA PIERWSZY RAZ W DZIEJACH: CZTERY TYSIACE OSIEMSET MEZCZYZN ZDOLNYCH NOSIC BRON. 'Nie dali sie policzyc nikomu, bo nikt nigdy nie przyjechal do nich PIERWSZY. Ja mialem co powiedziec: ZE MOWILI PIERWSI.' (3) ZA MUREM - liczone JEGO METODA, nie po wloczniach: po wsiach, ktore opustoszaly, i po zwierzynie, ktora przestala chodzic. NIE WIECEJ NIZ DWADZIESCIA DWA TYSIACE LUDZI, KTORZY IDA O WLASNYCH SILACH - z tego NA BRON zdolna najwyzej jedna trzecia. 'Reszta to geby. I to jest wasz problem, nie ich wlocznie.' Margines podany wprost: plus minus trzy tysiace, i powiedzial, w ktorym miejscu zgaduje. (4) CZEGO NIE MA: ANI SLOWA O POSLANCU ZA MUR. 'Dlatego meldunek jest spozniony. Czekalem, zeby miec co napisac, i nie doczekalem sie. Nie przywioze wam zgadywanki - ale nie wolno mi tez kazac wam czekac dalej.'",
+      "kto": "OSRIC KAMIEN",
+      "kanal": "przez Osrica (Mur)",
+      "wraca": "300-03-03",
+      "zamyka": "przeczytane",
+      "status": "zrobione"
+    },
+    {
+      "data": "300-04-02",
+      "co": "MELDUNEK VIII OSRICA - CO TRZYDZIESCI DNI, TAKZE GDY STOI NA NIM 'NIC'. ⚠ ZMIANA ADRESU, ta sama, ktora wprowadzono Torrenowi 300-02-17: MELDUNEK IDZIE TAM, GDZIE JEST NAMIESTNIK, NIE DO WINTERFELL. Meldunek VII szedl okrezna droga i lezal, bo adres byl staly, a Namiestnik nie. Od dzis adres jest ruchomy: do 300-03-07 Fosa, potem Bialy Port, od ~300-20 Winterfell.",
+      "kto": "OSRIC -> kancelaria Garricka",
+      "kanal": "przez Osrica (Mur)",
+      "wraca": "300-04-02",
+      "zamyka": "karta na stole, takze pusta",
+      "status": "otwarte"
+    },
+    {
+      "data": "PRZED RADA 300-03-30",
+      "co": "CZTERY TYSIACE OSIEMSET Z KLANOW - LICZBA, KTOREJ KROLESTWO NIGDY NIE MIALO. Krol powiedzial 300-02-06: 'UMBEROWIE, FLINTOWIE, KLANY Z GOR TO SA PIERWSI LUDZIE - ta sama krew, te same stare bogi'. Teraz ta sama krew ma liczbe, a Rada otwiera sie punktem 0 - MUR. To jest jedyna liczba z tej sprawy, ktora jest SWIEZA, WLASNA i DOBRA.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30",
+      "zamyka": "liczba wypowiedziana przy punkcie 0",
       "status": "otwarte"
     }
   ]

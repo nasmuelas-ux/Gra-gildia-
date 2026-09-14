@@ -4352,7 +4352,7 @@
    "id": "rolka_musteru_299_08",
    "tytul": "Rolka musteru Polnocy (Marszal Osric) - stan choragwi",
    "status": "W_BUDOWIE_299-08-13_szkielet_wielkich_rodow_dziura_na_klanach",
-   "_dziennik_nota": 1,
+   "_dziennik_nota": 2,
    "stan_watku": "OBRAZ_SWIATA",
    "stan_data": "300-02-25",
    "stan_uwaga": "NIE watek i NIE smiec - OBRAZ SWIATA NA DATE (rozstrzygniecie gracza 300-02-25: \"stanowia tlo i jednoczesnie dookreslaja calosc i rozpoznanie swiata na dany moment\"). Nie zamyka sie i nie otwiera - BYWA AKTUALNY ALBO PRZESTARZALY. Ma date sporzadzenia i te date sie czyta."
@@ -4794,7 +4794,7 @@
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 38,
+   "_dziennik_nota": 39,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -5730,7 +5730,7 @@
   {
    "id": "raport_osrica_z_muru_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "filar": "OSRIC - raporty z Muru",
    "stan_watku": "ZYWY"
   },
@@ -5977,7 +5977,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 67,
+   "_dziennik_nota": 68,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },

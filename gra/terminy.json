@@ -227,10 +227,10 @@
   },
   {
    "data": "tygodnie - PRZED SIEWEM",
-   "co": "ZRODLO NASIENIA owsa i jeczmienia NA TEN SIEW",
+   "co": "ZRODLO NASIENIA owsa i jeczmienia NA TEN SIEW ### 300-03-13 ROZSTRZYGNIETE: BIERZEMY Z PORTU OD WYMANA, Z RUBRYKA STANU. Zastrzezenie Wymana i Harla przyjete: jadalne nie znaczy wschodzace. ZOSTAJE JEDNO I JEST OPERACYJNE: KTO CZYTA I GDZIE - patrz osobny termin.",
    "kto": "Symon / Hal / Harl",
    "zamyka": "ziarno w skladzie",
-   "status": "otwarte - NAJPILNIEJSZE",
+   "status": "zrodlo wybrane 300-03-13; odczyt otwarty",
    "kanal": "jezdziec Fosa-Bialy Port",
    "wraca": "300-03-13"
   },
@@ -2565,6 +2565,15 @@
    "wraca": null,
    "zamyka": "decyzja lorda o otwarciu albo zamknieciu targu dla wyrobu Cailin",
    "status": "otwarte - bez daty, ze spustem"
+  },
+  {
+   "data": "300-03-15",
+   "co": "ODCZYT ZIARNA PORTOWEGO - KTO CZYTA I GDZIE. Zrodlo wybrane 300-03-13 (port Wymana). CZYTAJACY POWOLANI 300-03-04: ORIN WAGA i THELL SITO, szkolil WYSTAN - dwoch, bo odczyt sporny ma miec dwie rece. SA NA FOSIE, szesc dni traktu. ⚠ ODCZYT PO PRZYWIEZIENIU TO BLAD BARROWTON DRUGI RAZ, DROZSZY O FRACHT (tam zaplacono, a trzecia czesc odrzucono na miejscu). ⚠ ODCZYTU NIE ROBI CZLOWIEK WYMANA - sprzedajacy nie mierzy wlasnego towaru. KSZTALT DOSTEPNY, UZYTY JUZ RAZ W TYM TYGODNIU PRZY PRZEWLOCE: TRZECIA REKA (tam Tommard Kosa). SZTORM 300-03-13 trzyma nabrzeze i kruki - wezwanie na Fose nie poleci wczesniej niz po nim.",
+   "kto": "SYMON / ORIN WAGA + THELL SITO / WYSTAN",
+   "kanal": "kruk Bialy Port-Fosa (po sztormie)",
+   "wraca": "300-03-15",
+   "zamyka": "odczyt zrobiony PRZED zaplata, dwiema rekami, zadna nie Wymana",
+   "status": "otwarte - PILNE, zegar pogodowy"
   }
  ]
 }

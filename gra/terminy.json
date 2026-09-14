@@ -2190,12 +2190,12 @@
   },
   {
    "data": "300-03-12",
-   "co": "PLACOWKA W PENTOS - OTWARTA, I JEST TANSZA, NIZ WYGLADA, BO DACH JUZ STOI. Sklad powstal ze zgubionego okretu, koszt miesieczny maly, stoi na karcie Medricka. ### CZEGO BRAKUJE - DWIE RZECZY I ZADNA NIE JEST BUDYNKIEM: (1) CZLOWIEK, ktory tam siedzi; (2) POZWOLENIE, a po odmowie miasta z 299-12-30 pozwolenie chodzi PRZEZ MAGISTRA, nie przez ratusz. ### ⚠ I TO JEST DOKLADNIE TA SCIANA, O KTOREJ MOWIL MEDRICK: magistrowie, do ktorych trzeba isc, to ci sami, ktorych zboze Symon odrzucil, placac drozej drobnym gospodarzom. Nie zamyka to drogi - magistrowie nie sa jednym cialem - ale przesadza, ze wejscie nie bedzie przez pierwszego lepszego.",
+   "co": "PLACOWKA W PENTOS - OTWARTA, I JEST TANSZA, NIZ WYGLADA, BO DACH JUZ STOI. Sklad powstal ze zgubionego okretu, koszt miesieczny maly, stoi na karcie Medricka. ### CZEGO BRAKUJE - DWIE RZECZY I ZADNA NIE JEST BUDYNKIEM: (1) CZLOWIEK, ktory tam siedzi; (2) POZWOLENIE, a po odmowie miasta z 299-12-30 pozwolenie chodzi PRZEZ MAGISTRA, nie przez ratusz. ### ⚠ I TO JEST DOKLADNIE TA SCIANA, O KTOREJ MOWIL MEDRICK: magistrowie, do ktorych trzeba isc, to ci sami, ktorych zboze Symon odrzucil, placac drozej drobnym gospodarzom. Nie zamyka to drogi - magistrowie nie sa jednym cialem - ale przesadza, ze wejscie nie bedzie przez pierwszego lepszego. ### 300-03-12: HAL OBSADZIL - LORREN. Wlasnym prawem z 300-01-26; pan dowiaduje sie PO FAKCIE i tak ma byc.",
    "kto": "SYMON + MEDRICK + HAL",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-14",
    "zamyka": "czlowiek do Pentos wskazany i droga pozwolenia nazwana",
-   "status": "otwarte"
+   "status": "otwarte - CZLOWIEK WSKAZANY"
   },
   {
    "data": "300-03-17",
@@ -2214,6 +2214,24 @@
    "wraca": "300-04-15",
    "zamyka": "Dolina mowi cokolwiek - wtedy pytanie wraca",
    "status": "otwarte - ODLOZONE Z POWODEM"
+  },
+  {
+   "data": "300-03-12",
+   "co": "PENTOS OBSADZONY - LORREN. Nazwisko podal HAL, nie Symon, bo od 300-01-26 obsadza filie SAM, z wiadomoscia po fakcie ('przez rok pytalem was o kazde nazwisko, a wy byliscie w drodze (...) od jutra nie ma tej wymowki - I BARDZO DOBRZE, BO TERAZ TO BEDZIE MOJA WINA'). ### DLACZEGO LORREN, POWOD HALA W JEDNYM ZDANIU: byl w zarzadzie od KLIENTOW, czyli jego cala robota polega na chodzeniu do ludzi - a w Pentos po odmowie miasta wejscie idzie WYLACZNIE przez ludzi. Sklad juz stoi; Lorren wiezie tam nie budynek, tylko znajomosci. ### ⚠ CENA, KTORA HAL NAZWAL SAM: BIALY PORT TRACI CZLOWIEKA OD KLIENTOW - najwieksza placowka Domu, w kwartale, w ktorym brokerka spadla najmocniej ze wszystkich linii. Wakat obsadza Hal, sam. ### ⚠ I MEDRICK NIE RECZY ZA NAZWISKO: chce go zobaczyc, zanim postawi przy nim swoje imie u magistra. 'Za czlowieka, ktorego nie widzialem, nie reczy sie nawet u swoich.'",
+   "kto": "HAL -> LORREN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "Medrick widzial Lorrena i mowi tak albo nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "WAKAT: KLIENCI W BIALYM PORCIE - po Lorrenie. OBSADZA HAL, SAM (zasada 42 i jego wlasne prawo z 300-01-26). Nie wraca do pana jako pytanie; wraca jako wiadomosc, gdy bedzie obsadzony. ### ZAPISANE TYLKO PO TO, ZEBY POLICZYC CENE PENTOS: placowka w Essos kosztuje nie tylko srebro, ale i krzeslo w kraju.",
+   "kto": "HAL SIEROTA",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-26",
+   "zamyka": "wiadomosc po fakcie: kto siedzi przy klientach w Bialym Porcie",
+   "status": "otwarte"
   }
  ]
 }

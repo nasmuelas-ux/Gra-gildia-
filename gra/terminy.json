@@ -354,12 +354,12 @@
   },
   {
    "data": "ten tydzien",
-   "co": "SOLTYSI: ktore wsie wybraly, kiedy i kogo - pytanie zadane dawno, odpowiedzi nie bylo ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie.",
+   "co": "SOLTYSI: ktore wsie wybraly, kiedy i kogo - pytanie zadane dawno, odpowiedzi nie bylo ### 300-03-07: ZROBIONE NA FOSIE, BEZ PANA (zasady 7 i 42). Symon jest trzeci dzien w drodze; rzecz zlecona i obsadzona poszla sama. Wynik idzie MELDUNKIEM ZBIORCZYM GARRICKA w slad za koniem, nie lezy na Fosie. ### 300-03-09: ODPOWIEDZ PRZYJDZIE BOKIEM, NIE Z PYTANIA. Skup ziarna siewnego idzie przez soltysow tam, gdzie sa - wiec ksiega skupu wypisze sama, ktora wies ma soltysa, a ktora nie. Pytanie zadane wprost lezalo bez odpowiedzi miesiacami; zadane przez interes odpowie sie w tydzien. DOKTRYNA: o rzecz, o ktora nikt nie chce odpisac, pyta sie kupujac.",
    "kto": "WARRYN",
    "zamyka": "lista wsi z nazwiskami i datami",
    "status": "zrobione 300-03-07 - meldunek w drodze",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-07"
+   "wraca": "300-03-16"
   },
   {
    "data": "300-03-30",
@@ -1668,12 +1668,21 @@
   },
   {
    "data": "300-03-09",
-   "co": "DZIURA SIEWNA PO BARROWTON - OKOLO TRZECIEJ CZESCI ZLECENIA ODRZUCONE JAKO NIEWSCHODZACE. ZEGAR JEST POGODOWY, NIE URZEDOWY: siew nie czeka na Wielka Rade. ### GDZIE SZUKAC, PO KOLEI OD NAJBLIZSZEGO: (1) WLASNA PRZEGRODA SIEWNA FOSY - oznaczona, zwazona, pod osobnym kluczem od 03-04; JEST NIETYKALNA I MA NIA POZOSTAC, bo lord, ktory otwiera swoja przegrode w pierwszym tygodniu jej istnienia, nie oglosi jej nigdy wiecej; (2) WSIE FOSY - male partie od gospodarzy, drozej i wolniej, ale ziarno lezalo u tego, kto nim sieje; (3) BIALY PORT - Symon bedzie tam 03-11 i Hal ma ludzi; ziarno siewne przywiezione morzem trzeba sprawdzic tak samo, wiec rubryka jedzie z pytaniem; (4) ⚠ NIE OD STANNISA I NIE Z POLUDNIA - klauzula V i cło zaporowe wlasnie po to stoja.",
+   "co": "DZIURA SIEWNA PO BARROWTON - OKOLO TRZECIEJ CZESCI ZLECENIA ODRZUCONE JAKO NIEWSCHODZACE. ZEGAR JEST POGODOWY, NIE URZEDOWY: siew nie czeka na Wielka Rade. ### GDZIE SZUKAC, PO KOLEI OD NAJBLIZSZEGO: (1) WLASNA PRZEGRODA SIEWNA FOSY - oznaczona, zwazona, pod osobnym kluczem od 03-04; JEST NIETYKALNA I MA NIA POZOSTAC, bo lord, ktory otwiera swoja przegrode w pierwszym tygodniu jej istnienia, nie oglosi jej nigdy wiecej; (2) WSIE FOSY - male partie od gospodarzy, drozej i wolniej, ale ziarno lezalo u tego, kto nim sieje; (3) BIALY PORT - Symon bedzie tam 03-11 i Hal ma ludzi; ziarno siewne przywiezione morzem trzeba sprawdzic tak samo, wiec rubryka jedzie z pytaniem; (4) ⚠ NIE OD STANNISA I NIE Z POLUDNIA - klauzula V i cło zaporowe wlasnie po to stoja. ### 300-03-09: droga (2) URUCHOMIONA rozkazem gracza - skup we wsiach Fosy, male partie.",
    "kto": "SYMON (Bialy Port) + WARRYN (wsie) + ORLAND (rachunek)",
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "brakujace korce siewne znalezione ALBO liczba hektarow, ktorych sie nie obsieje - jedno albo drugie, nie milczenie",
    "status": "otwarte - ZEGAR POGODOWY"
+  },
+  {
+   "data": "300-03-09",
+   "co": "SKUP ZIARNA SIEWNEGO WE WSIACH FOSY - MALE PARTIE. Kruk z drogi (jedyny kanal, jaki pan ma na trakcie). Prowadzi WARRYN, wazy ORLAND i BENNIS, liczy GERRIK. Rzadca dobiera sobie karbowych sam (zasada 42). ### CZTERY ZASADY W ROZKAZIE, BO BEZ NICH KAZDA Z NICH ZOSTANIE ZLAMANA PRZEZ WLASNYCH LUDZI, I TO W DOBREJ WIERZE: ### (1) RUBRYKA STANU ZIARNA NA KAZDA PARTIE, OSOBNO. To ona wlasnie uratowala Harla w Barrowton. Chlop tez nie wie, czy jego ziarno wzejdzie - nie kupuje sie na slowo i nie kupuje sie na oko. ### (2) ⚠ PLACI SIE GORNY KRANIEC WIDELEK, NIGDY DNA. Pan staje wlasnie kupujacym na wlasnym rynku cztery dni po tym, jak ogłosil dno - i bylby PIERWSZYM, KTORY UZYL WLASNEJ PODLOGI JAKO SUFITU. Ziarno siewne jest ponadto z natury drozsze od jadalnego, bo jest wybrane i inaczej lezalo; JEGO CENE TRZEBA PODAC OSOBNO, a nie doklejac do ceny zboza. ### (3) KUPUJE SIE WYLACZNIE NADWYZKE PONAD WLASNY WYSIEW GOSPODARZA. Chlop, ktory sprzedaje panu ziarno siewne, sprzedaje przyszloroczny chleb - a ustawa, ktora ma chronic siew, nie moze zaczac od wyssania siewu ze wsi. ILE KTO MUSI ZASIAC, DA SIE POLICZYC: URBARZ OTWARTY 300-03-05 (kto / z czego / ile / kiedy) plus spis mieszkancow. ZADNA WIES NIE SPRZEDAJE, ZANIM JEJ POLA NIE SA POLICZONE. ### (4) SKUP IDZIE PRZEZ SOLTYSOW TAM, GDZIE SA - a tam, gdzie ich nie ma, wprost od gospodarzy. PRZY OKAZJI ZAMYKA SIE PYTANIE ZADANE DAWNO I BEZ ODPOWIEDZI: ktore wsie wybraly soltysa. Ksiega skupu pokaze to sama, bez pytania nikogo drugi raz. ### JEDNO ZLECENIE, TRZY ZWROTY: ziarno, spis pol i lista soltysow.",
+   "kto": "WARRYN + ORLAND KORZEC + BENNIS OD WAGI + GERRIK RACHUBA",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-16",
+   "zamyka": "korce z rubryka stanu przy kazdej partii, cena osobna dla siewu, i wykaz wsi: ktora ma soltysa, ktora nie",
+   "status": "otwarte"
   }
  ]
 }

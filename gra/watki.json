@@ -6194,7 +6194,7 @@
   {
    "id": "maester_aemon",
    "status": "otwarty",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11
   },
   {
    "id": "theomore_mistrz_nauki",
@@ -6288,6 +6288,11 @@
   },
   {
    "id": "rozliczenie_dlugu_korony_695",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "eskadra_polnocy_dustinport",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

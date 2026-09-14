@@ -5911,7 +5911,7 @@
   {
    "id": "bilans_domu_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 23,
+   "_dziennik_nota": 24,
    "filar": "BILANS DOMU TALLY",
    "stan_watku": "ZYWY"
   },
@@ -6299,7 +6299,7 @@
   {
    "id": "prawo_azylu_uczonego_299_06",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "drewno_polnocy_essos",

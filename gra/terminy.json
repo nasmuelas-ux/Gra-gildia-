@@ -146,10 +146,10 @@
   },
   {
    "data": "~300-03-13",
-   "co": "BIALY PORT - HAL: placowki (Braavos, Pentos, Gulltown, Highgarden), obrot przez rece cechowe, forma zwrotu 695, POCHODZENIE ziarna, suma emisji ### 300-03-12: PIEC POZYCJI, Z KTORYCH DWIE JUZ ZAMKNIETO DZIS WIECZOREM (forma zwrotu 695 - calosc w towarze; i bilans). ZOSTAJA TRZY: (1) PLACOWKI: BRAAVOS, PENTOS, GULLTOWN, HIGHGARDEN - ekspansja poza szesc obecnych; (2) OBROT PRZEZ RECE CECHOWE - ile domu przechodzi przez cechy i co to znaczy przy karcie cechow, ktora wlasnie ukladamy; (3) POCHODZENIE ZIARNA i SUMA EMISJI - ile papieru Dom wystawia, skoro wlasnie wykupil 340 i odzyskal zdolnosc wekslowa. ### 300-03-11/12: PRZEROBIONE - bilans, forma zwrotu 695 (calosc w towarze), placowki (Braavos i Pentos otwarte, Highgarden na spust, Gulltown nie), Obaro obsadzony. ZOSTAJE: obrot przez rece cechowe, pochodzenie ziarna, suma emisji.",
+   "co": "BIALY PORT - HAL: placowki (Braavos, Pentos, Gulltown, Highgarden), obrot przez rece cechowe, forma zwrotu 695, POCHODZENIE ziarna, suma emisji ### 300-03-12: PIEC POZYCJI, Z KTORYCH DWIE JUZ ZAMKNIETO DZIS WIECZOREM (forma zwrotu 695 - calosc w towarze; i bilans). ZOSTAJA TRZY: (1) PLACOWKI: BRAAVOS, PENTOS, GULLTOWN, HIGHGARDEN - ekspansja poza szesc obecnych; (2) OBROT PRZEZ RECE CECHOWE - ile domu przechodzi przez cechy i co to znaczy przy karcie cechow, ktora wlasnie ukladamy; (3) POCHODZENIE ZIARNA i SUMA EMISJI - ile papieru Dom wystawia, skoro wlasnie wykupil 340 i odzyskal zdolnosc wekslowa. ### 300-03-11/12: PRZEROBIONE - bilans, forma zwrotu 695 (calosc w towarze), placowki (Braavos i Pentos otwarte, Highgarden na spust, Gulltown nie), Obaro obsadzony. ZOSTAJE: obrot przez rece cechowe, pochodzenie ziarna, suma emisji. ### 300-03-13: WSZYSTKIE TRZY ZAMKNIETE. (1) cechy - karta idzie, nie chwalimy sie, zakaz powolywania sie na nia rozeslany do szesciu placowek; Cailin dziala pod wlasnym statutem Bractwa Rzemiosla Wolnego. (2) pochodzenie ziarna - port Wymana z rubryka stanu, odczyt TUTAJ przed zaplata, Orin i Thell sciagani z Fosy. (3) sufit emisji - NIE WIECEJ NIZ TO, CO DOM MA W TOWARZE.",
    "kto": "Symon + Hal",
    "zamyka": "rozmowa w oczy",
-   "status": "zrobione 300-03-12",
+   "status": "ZAMKNIETE 300-03-13 - wszystkie piec pozycji",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13"
   },
@@ -2583,6 +2583,24 @@
    "wraca": null,
    "zamyka": "ziarno w skladzie Fosy albo jawne ogloszenie braku przed siewem",
    "status": "otwarte - spust na wynik odczytu"
+  },
+  {
+   "data": "300-03-14",
+   "co": "SUFIT EMISJI - DWIE RZECZY WYKONAWCZE, ZEBY REGULA NIE BYLA HASLEM. (1) MIARA: TAM LICZY towar z ksiegi skladu, HAL WYSTAWIA papier - dwie rece, nigdy jedna (zasada domu: kto trzyma, nie decyduje). Liczone po cenie wejscia; rachunek Korony jest po koszcie, wiec nie otwiera sporu o wycene. Rachuba skladana co kwartal razem z bilansem. (2) OGLOSZENIE: to jedyna rzecz z tego tygodnia, ktora MA isc glosno - 'nasz papier nigdy nie przekracza naszego towaru' jest dokladna odpowiedzia na plotke 'Tally schodzi z zapasow', ktora podniosla dyskonto weksli i zostala wpisana jako osobny koszt. Adresat: Lucan i wierzyciele Bialego Portu.",
+   "kto": "HAL (wystawia) / TAM (liczy)",
+   "kanal": "kantor Bialy Port",
+   "wraca": "300-03-14",
+   "zamyka": "rachuba towaru wpisana jako stala pozycja kwartalna i sufit ogloszony wierzycielom",
+   "status": "otwarte"
+  },
+  {
+   "data": "wiosna 300",
+   "co": "⚠ SUFIT SPADA DOKLADNIE WTEDY, KIEDY DOM POTRZEBUJE PAPIERU NAJBARDZIEJ. Skrzynia po wykupie 340 przy zerze, zapas obrotowy na dnie, kapital wiosenny to ~650 towaru Korony - a kazdy smok tego towaru sprzedany OBNIZA SUFIT, bo zamienia sie w monete. W tym samym czasie przewloka zjada 230-325, papiernia czeka na SZMATY (a Korona wlasnie zaczela kupowac pergamin), Marro czeka na SUROWIEC BURSZTYNOWY po roku bez kamieni, a ubezpieczenia frachtu na METODE od Nesty. TO NIE JEST BLAD REGULY - TO JEJ CENA, przyjeta swiadomie 300-03-13. DO OBSERWOWANIA: czy ktoras z tych trzech linii staje z braku papieru.",
+   "kto": "HAL / SYMON",
+   "kanal": "meldunek Hala",
+   "wraca": null,
+   "zamyka": "decyzja, czy ktorakolwiek linia dostaje pierwszenstwo, czy sufit zostaje nietkniety",
+   "status": "otwarte - spust na wiosne"
   }
  ]
 }

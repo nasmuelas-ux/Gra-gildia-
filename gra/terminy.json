@@ -2253,12 +2253,21 @@
   },
   {
    "data": "300-03-12",
-   "co": "CZLOWIEK DO PENTOS - SZUKA HAL. Jego prawo z 300-01-26: obsadza filie sam, do pana idzie wiadomosc po fakcie. Symon nie wskazuje nazwiska i nie ma tego robic (zasada 42). ### ⚠ ALE KRYTERIUM JUZ ISTNIEJE I JEST WASKIE, BO PODAL JE MEDRICK, PATRZAC NA KONKRETNEGO CZLOWIEKA: NIE CZLOWIEK OD KLIENTOW, TYLKO KTOS, KTO UMIE BYC CZYIS. W Pentos pierwsze drzwi zamykaja pozostale, wiec szuka sie kogos, kto potrafi wybrac jednego patrona i przy nim zostac. To jest przeciwienstwo cnoty, ktorej Dom szukal u swoich ludzi przez cztery lata. ### ZEGAR: sklad w Pentos stoi pusty i kosztuje co miesiac. Dach bez czlowieka nie broni sie sam. ### DROGA, KTOREJ NIKT JESZCZE NIE PROBOWAL, A KTORA LEZY NA WIERZCHU: MEDRICK ODMOWIL RECZENIA ZA LORRENA, ALE NIKT GO NIE ZAPYTAL, ZA KIM BY PORECZYL. Dwadziescia lat na miejscu to takze dwadziescia lat znajomosci ludzi, ktorzy tam siedza.",
+   "co": "CZLOWIEK DO PENTOS - SZUKA HAL. Jego prawo z 300-01-26: obsadza filie sam, do pana idzie wiadomosc po fakcie. Symon nie wskazuje nazwiska i nie ma tego robic (zasada 42). ### ⚠ ALE KRYTERIUM JUZ ISTNIEJE I JEST WASKIE, BO PODAL JE MEDRICK, PATRZAC NA KONKRETNEGO CZLOWIEKA: NIE CZLOWIEK OD KLIENTOW, TYLKO KTOS, KTO UMIE BYC CZYIS. W Pentos pierwsze drzwi zamykaja pozostale, wiec szuka sie kogos, kto potrafi wybrac jednego patrona i przy nim zostac. To jest przeciwienstwo cnoty, ktorej Dom szukal u swoich ludzi przez cztery lata. ### ZEGAR: sklad w Pentos stoi pusty i kosztuje co miesiac. Dach bez czlowieka nie broni sie sam. ### DROGA, KTOREJ NIKT JESZCZE NIE PROBOWAL, A KTORA LEZY NA WIERZCHU: MEDRICK ODMOWIL RECZENIA ZA LORRENA, ALE NIKT GO NIE ZAPYTAL, ZA KIM BY PORECZYL. Dwadziescia lat na miejscu to takze dwadziescia lat znajomosci ludzi, ktorzy tam siedza. ### 300-03-12, RZUT 67: ZAPYTANY WPROST, MEDRICK PODAL NAZWISKO - OBARO.",
    "kto": "HAL SIEROTA",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-26",
    "zamyka": "nazwisko do Pentos - wiadomosc po fakcie, nie pytanie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "OBARO - NAZWISKO OD MEDRICKA, ZAPYTANEGO WPROST (rzut 67). ### KIM JEST: PENTOSZYJCZYK, dwadziescia kilka lat FAKTOREM JEDNEGO DOMU MAGISTERSKIEGO - tego samego przez cala sluzbe. Dom podupadl i rozszedl sie; Obaro nie odszedl pierwszy i nie przeszedl do konkurenta, tylko zostal do konca i domknal ksiegi. OD TEGO CZASU JEST BEZ PANA. ### DLACZEGO ON, WEDLE WLASNEGO KRYTERIUM MEDRICKA: to jest czlowiek, ktory UMIE BYC CZYIS - udowodnil to raz i udowodnil w najgorszym momencie, bo zostal przy domu, ktory juz nic nie placil. ### I DRUGA RZECZ, KTORA ROZWIAZUJE PROBLEM PIERWSZYCH DRZWI: on te drzwi juz zna. Nie musi wybierac patrona po omacku - przez dwadziescia lat chodzil do wszystkich w czyimś imieniu. ### ⚠ RYZYKO, KTORE MEDRICK NAZWAL SAM I OD RAZU: 'Czlowiek, ktory byl czyjs, moze byc czyjs znowu. To jest ta sama cnota od drugiej strony i nie ma na to lekarstwa - jest tylko ksiega.' ### WARUNEK RECZENIA - I JEST W NIM CALA JEGO POWAGA: Medrick wprowadzi go OSOBISCIE i chce, zeby stalo NA PISMIE, ze wprowadzenie jest JEGO, nie Domu. 'Jesli Obaro sprzeda was komus, wy stracicie faktora, a ja stracę imie w tym miescie. RECZY TEN, KTO MA CO STRACIC. Inaczej to nie jest reczenie, tylko list polecajacy.' ### DECYZJA NALEZY DO HALA (zasada 42 i jego prawo z 300-01-26) - Medrick podal nazwisko, nie obsadzil krzesla.",
+   "kto": "HAL -> OBARO, wprowadza MEDRICK",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "Hal bierze Obara albo nie; jesli tak - wprowadzenie Medricka na pismie",
+   "status": "otwarte - DECYZJA HALA"
   }
  ]
 }

@@ -1,3 +1,6 @@
+> ### ⚠ WCHLONIETE 300-03-03 DO `gra/prawo_spichlerza_polnocy_300_03_03.md`.
+> Ten plik zostaje jako **material zrodlowy i uzasadnienia**. Obowiazuje tekst jednolity.
+
 # CZTERY POPRAWKI DO PRAWA O SKŁADACH — noc 300-02-28, uzupełnione 300-03-02
 **Fosa Cailin.** Pisze **Symon Tally** własną ręką. Termin: **przed przyjazdem Cerwyna** (dziś, późno — błoto).
 W izbie 02-28: **HERWIN SZALA**, burmistrz Cailin, dawny wagowy · **dwaj PSIARZE**.

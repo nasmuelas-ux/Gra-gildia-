@@ -1245,7 +1245,7 @@
     },
     {
       "data": "300-03-07",
-      "co": "KLAUZULA DZIESIATA NA SLUP - 'zboze na targach Polnocy, W ILOSCIACH POWYZEJ PROGU, nabywa waznie tylko ten, KTO STOI W KSIEDZE POLNOCY'. TEST REJESTRU, NIE KRWI: dowodem jest urbarz, spis 299-06, rejestr Melli, ksiega bramy albo rejestr miejski. Obcy staje sie mieszkancem WCHODZAC DO KSIEGI - to prog z drzwiami, nie mur. WYJATKI WYPISANE, NIE DOMYSLNE: ponizej progu nikt nie pyta · KORONA kupuje zawsze · NOCNA STRAZ kupuje zawsze i wolno, wymieniona z nazwy · przegroda siewna poza obrotem. EGZEKUCJA TRYBEM SIODMYM: nabycie przez tego, kogo nie ma w ksiedze, NIE JEST PRZESTEPSTWEM - JEST NICZYM. Sprawdza to ta sama rubryka 'na czyj rachunek'. ANI JEDNEGO NOWEGO URZEDNIKA.",
+      "co": "CZESC V PRAWA SPICHLERZA NA SLUP - 'zboze powyzej progu nabywa waznie tylko (a) KTO STOI W KSIEDZE POLNOCY albo (b) KTO MA ZGODE KORONY'. ZGODA KORONY TO WPIS NA CZAS OZNACZONY, nie druga maszyna: IMIENNA, Z LICZBA KORCY, Z DATA WYGASNIECIA, NA SLUPIE. Zgoda bez liczby jest zgoda na wszystko; zgoda tajna to korupcja z pieczecia. ZGODY STALE WYPISANE W USTAWIE: Korona i NOCNA STRAZ z nazwy. Ponizej progu nikt nie pyta. Przegroda siewna poza obrotem.",
       "kto": "SYMON + HERWIN + lawa",
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-03-07",
@@ -1268,6 +1268,24 @@
       "kanal": "wlasny czlowiek na Fosie",
       "wraca": "300-04-15",
       "zamyka": "dwie liczby obok siebie: obrot okregu i udzial Domu",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "TEKST JEDNOLITY PRAWA SPICHLERZA POLNOCY - jedna ustawa zamiast dwoch. Wchlania prawo o skladach (cztery poprawki) i wiazke druga. SIEDEM CZESCI: I ustroj (kto co nadaje) · II widocznosc (cztery poprawki + trzy Cerwyna) · III liczby (piec + poprawki Oswyna) · IV narzedzia (siedem) · V KTO MOZE KUPOWAC · VI czego nie ma · VII otwarte. TEZA, KTORA UZASADNIA POLACZENIE: PRZYMUS SKLADU I REJESTR SPICHLERZA TO JEDNA MASZYNA WIDZIANA Z DWOCH KONCOW - przywilej miasta WYTWARZA DANE, ktorych potrzebuje rejestr, i nie kosztuje ani jednego rewizora. Odpis dla Cerwyna przed jego wyjazdem 300-03-05; czystopis na slup i do teki Krola przed 300-03-07.",
+      "kto": "dwaj pisarze dworu + GARRICK",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07",
+      "zamyka": "czystopis jednolity w trzech odpisach: slup, teka Krola, ksiega lenna",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "KTO W KORONIE PODPISUJE ZGODE - pozycja otwarta, ktora wyszla dopiero przy pisaniu czesci V. Krzeslo REJESTRATORA KORONY stoi puste PIATY MIESIAC, a zgoda musi miec podpis urzedu, nie czlowieka. Do rozstrzygniecia: czy podpisuje SKARBNIK (Gawen, bo zboze to zapas), czy KANCELARIA (Beron, bo to wpis), czy czeka na Rejestratora - czyli na Krola.",
+      "kto": "SYMON -> KROL",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-07",
+      "zamyka": "nazwa urzedu, ktory podpisuje zgode",
       "status": "otwarte"
     }
   ]

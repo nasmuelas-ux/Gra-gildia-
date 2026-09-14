@@ -1,3 +1,6 @@
+> ### ⚠ WCHLONIETE 300-03-03 DO `gra/prawo_spichlerza_polnocy_300_03_03.md`.
+> Ten plik zostaje jako **material zrodlowy i uzasadnienia**. Obowiazuje tekst jednolity.
+
 # SPICHLERZ PÓŁNOCY — WIĄZKA DRUGA
 ### Nie nowe prawo. **Dziewięć narzędzi wpasowanych w to, co już stoi.**
 **Fosa Cailin, noc 300-02-28.** Pisze Symon Tally. Na Radę **300-04-01**.

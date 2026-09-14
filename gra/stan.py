@@ -329,3 +329,25 @@ except Exception as e:
 with io.open(os.path.join(D, "STAN.md"), "w", encoding="utf-8") as f:
     f.write("\n".join(o) + "\n")
 print("STAN.md zregenerowany:", data_txt)
+
+# ---------------------------------------------------------------------------
+# LISTA KONTROLNA PROWADZACEGO - drukowana ZA KAZDYM RAZEM.
+# Powod (300-03-14, gracz): "co z tego, jak ty nie czytasz prowadzenia".
+# PROWADZENIE.md ma 45 zasad i nie jest otwierane co ture. To jest siedem
+# zdan, ktore lamie sie najczesciej, postawionych tam, gdzie i tak patrze.
+# NIE DOPISYWAC TU NOWYCH ZASAD. Jesli lista rosnie, przestanie byc czytana.
+# ---------------------------------------------------------------------------
+print("""
+========================= ZANIM ODPOWIEM =========================
+1  GREP PRZED LICZBA i przed slowem-stoperem: "stoi" / "nie ruszylo" /
+   "nikt nie" / "nie ma" / "zaniedbane". Nie znalazlem = mowie, ze nie ma.
+2  PRZESZKODA TYLKO Z WPISU (klucz + data). Nie ma wpisu -> RZECZ SIE ROBI.
+   Nie zamieniam wykonania w narade. Nie dokladam ciezaru dla ciezaru.
+3  RZECZ RAZ ROZSTRZYGNIETA NIE WRACA JAKO PYTANIE.
+   Umiejetnosc raz wykazana JEST JEGO - nie wymyslam mu braku.
+4  SZUKAM DOKUMENTU, NIM ZACZNE O NIM MOWIC: ls gra/*.md.
+   Trzy tury o cechach bez otwarcia bractwa_rzemiosla_wolnego.md.
+5  NIE PISZE MYSLI ANI SLOW SYMONA. Nie posuwam czasu w rozmowie.
+6  JEDEN RZUT NA SPRAWE ALBO ZERO. Zadnych rzutow na wlasnych, platnych ludzi.
+7  MOJ BLAD NIE PRZECHODZI NA GRACZA. VOID ZNACZY VOID.
+==================================================================""")

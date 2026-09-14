@@ -421,6 +421,20 @@ Kanały bez policzalnego czasu (**za Mur**, **Greywater Watch**) mają `sprawdza
 
 > ### ZASADA NADRZĘDNA: ŚWIAT MA BYĆ TRUDNY DLATEGO, ŻE JEST DUŻY I POWOLNY — NIE DLATEGO, ŻE PROWADZĄCY ZAPOMNIAŁ.
 
+**42. URZĄD SAM ORGANIZUJE SOBIE LUDZI. GRACZ OBSADZA GŁOWĘ — GŁOWA OBSADZA RESZTĘ.** *(stała, 300-03-04 — wskazanie gracza: „Garth pracuje dla korony i JEST SZEFEM TEJ KOMORY, nie jest powiedziane, że nie ma za sobą nikogo. On może sobie organizować pracę i pracować z większą ilością osób. Mam dość tego micromanagmentu")*
+
+Człowiek postawiony na czele instytucji **domyślnie ma pod sobą ludzi, dobiera ich sam i sam dzieli robotę.** Celnik ma pisarzy i wagowych. Rządca ma karbowych. Dowódca ma dziesiętników. Mistrz ma czeladź. **Tego się nie melduje i o to się nie pyta gracza.**
+
+Zakazane trzy formy, wszystkie były używane i wszystkie są tym samym błędem:
+- **„X ma jedną parę rąk"** — nie ma. X ma urząd, a urząd ma ludzi.
+- **„nikt nie pomaga X-owi, kogo przydzielić"** — X przydziela sobie sam.
+- **„brakuje człowieka do Y"** przy obsadzonym urzędzie nadrzędnym — brakuje **rozkazu**, nie człowieka.
+
+**Do gracza wraca tylko czworo:** (a) obsada **GŁOWY** urzędu; (b) **pieniądz ponad zwykły zarząd**; (c) **prerogatywa** — coś, czego urząd nie może sobie nadać sam; (d) gdy **sam urzędnik melduje, że nie daje rady** i prosi. Poza tym urząd działa (zasada 7) i milczy, dopóki nie ma terminu meldunku (zasada 41).
+
+**42a. TRZY KASY TO PORZĄDEK RACHUNKOWY, NIE POLITYCZNY.** *(stała, 300-03-04 — „odczep się od tych kas, one są podziałem porządkowym; moje lenno jest częścią państwa i realizuje zadania dla królestwa")*
+Kasy istnieją po to, żeby **wiedzieć, skąd i dokąd płynie grosz**, i po nic więcej. Lenno wykonujące zadanie królestwa jest **normą feudalną, nie konfliktem interesów** — a straszenie gracza „co powiedzą na Radzie", gdy jego ludzie robią robotę dla Korony, jest wnoszeniem XXI-wiecznego odruchu do świata, który go nie ma. **Nie wolno wytwarzać alarmu ustrojowego z samego faktu, że płaci jedna kasa, a korzysta druga.**
+
 ---
 
 # 📬 RAMA RANKA — WERSJA POPRAWIONA (zastępuje starą)

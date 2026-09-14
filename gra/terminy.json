@@ -732,9 +732,9 @@
   },
   {
    "data": "300-03-03 - WIADOMOSC JEST",
-   "co": "TLUMACZ ZOSTAL (rzut 29) - pieniadze z Kasy 3 doszly i przyjal. ALE OSWIADCZYL OSRICOWI, ZE ZA MUR DRUGI RAZ NIE POJDZIE. Kanal do trzech ust istnieje; PRZEWODNIKA DO MANCE'A NIE MA. Drugiego poslanca nie ma kto poprowadzic.",
-   "kto": "OSRIC",
-   "zamyka": "drugi przewodnik z klanow ALBO wyuczony drugi tlumacz",
+   "co": "TLUMACZ ZOSTAL (rzut 29) - pieniadze z Kasy 3 doszly i przyjal. ALE OSWIADCZYL OSRICOWI, ZE ZA MUR DRUGI RAZ NIE POJDZIE. Kanal do trzech ust istnieje; PRZEWODNIKA DO MANCE'A NIE MA. Drugiego poslanca nie ma kto poprowadzic. ### POPRAWKA 300-03-04 (zasada 42): TO NIE JEST ZADANIE DLA NAMIESTNIKA. Osric jest MARSZALKIEM CHORAGWI i szukanie przewodnika nalezy do niego - ma Mur, ma klany i ma ludzi. Do Symona wraca JEDNO Z DWOJGA: 'przewodnik jest, nazywa sie tak' albo 'nie ma i oto czego mi trzeba' (zasada 42 lit. d). Nie wraca pytanie 'kogo mu dac'.",
+   "kto": "OSRIC - ROZWIAZUJE SAM, MELDUJE WYNIK",
+   "zamyka": "meldunek Osrica: przewodnik jest ALBO nie ma i czego trzeba",
    "status": "otwarte - NOWE WASKIE GARDLO",
    "kanal": "przez Osrica (Mur)",
    "wraca": "300-03-17"
@@ -1479,7 +1479,7 @@
   },
   {
    "data": "300-03-04",
-   "co": "MCHOWE JASTRZEBIE NA WODZIE - PIECZEC NA LISCIE PRZEWOZOWYM. Kessel Brodaty: dwadziescia ludzi, lodzie plaskodenne, patrol NIEPRZEWIDYWALNY (patrol nie musi byc wszedzie, zeby papier stal sie konieczny). Steplują: data, miejsce, co widzieli. Ksiega u PISARZA GRODZKIEGO, nie u dowodcy. ⚠ ZEGAR POGODOWY: zaczyna sie z odwilza, nie z data - pierwsza pieczec ma paść tego dnia, w ktorym pierwsza barka ruszy.",
+   "co": "MCHOWE JASTRZEBIE NA WODZIE - PIECZEC NA LISCIE PRZEWOZOWYM. Kessel Brodaty: dwadziescia ludzi, lodzie plaskodenne, patrol NIEPRZEWIDYWALNY (patrol nie musi byc wszedzie, zeby papier stal sie konieczny). Steplują: data, miejsce, co widzieli. Ksiega u PISARZA GRODZKIEGO, nie u dowodcy. ⚠ ZEGAR POGODOWY: zaczyna sie z odwilza, nie z data - pierwsza pieczec ma paść tego dnia, w ktorym pierwsza barka ruszy. ### POPRAWKA 300-03-04 (zasada 42): Kessel dobiera ludzi i dzieli patrole SAM - nie melduje, kogo posadzil w ktorej lodzi, i nie pyta o to pana.",
    "kto": "KESSEL BRODATY + pisarz grodzki",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-11",
@@ -1488,8 +1488,8 @@
   },
   {
    "data": "300-03-04",
-   "co": "WYKUP TOWARU ZNALEZIONEGO - 14 DNI, SKLAD, NIE KIESZEN. Ladunek bez pieczeci idzie DO SKLADU; przewoznik ma czternascie dni na wykup: clo + myto + stala oplata. Uczciwy, ktory zgubil papier, placi grzywne i odplywa. Przemytnik nie wraca, bo po odbior trzeba przyjsc Z NAZWISKIEM I RACHUNKIEM. ### JASTRZEBIE NIE DOSTAJA NIC Z ZATRZYMANEGO - zold staly. Patrol biorący udzial w zdobyczy znajduje przemyt wszedzie, i to nie jest zarzut wobec ludzi, tylko wobec tego, kto ich tak oplaca. ### TRZECI RAZ: KARZE SIE LODZ, NIE CZLOWIEKA - czlowiek zniknie i wroci pod innym nazwiskiem, lodz kosztuje smoka i trzeba nia gdzies przyplynac. ### RUBRYKA 'NA CZYJ RACHUNEK' IDZIE NA WODE - trzeci raz w jednym dniu, trzecia ustawa.",
-   "kto": "ORLAND KORZEC (sklad) + pisarz grodzki (ksiega wykupu)",
+   "co": "WYKUP TOWARU ZNALEZIONEGO - 14 DNI, SKLAD, NIE KIESZEN. Ladunek bez pieczeci idzie DO SKLADU; przewoznik ma czternascie dni na wykup: clo + myto + stala oplata. Uczciwy, ktory zgubil papier, placi grzywne i odplywa. Przemytnik nie wraca, bo po odbior trzeba przyjsc Z NAZWISKIEM I RACHUNKIEM. ### JASTRZEBIE NIE DOSTAJA NIC Z ZATRZYMANEGO - zold staly. Patrol biorący udzial w zdobyczy znajduje przemyt wszedzie, i to nie jest zarzut wobec ludzi, tylko wobec tego, kto ich tak oplaca. ### TRZECI RAZ: KARZE SIE LODZ, NIE CZLOWIEKA - czlowiek zniknie i wroci pod innym nazwiskiem, lodz kosztuje smoka i trzeba nia gdzies przyplynac. ### RUBRYKA 'NA CZYJ RACHUNEK' IDZIE NA WODE - trzeci raz w jednym dniu, trzecia ustawa. ### ⚠ WIEKSZOSC TEGO JUZ ISTNIALA OD 300-02-25 i przeoczylem to, projektujac od nowa. TRZY ZAKAZY FORMACJI, spisane wtedy: (1) zlapany towar NIOSA DO KOMORY - nie waza, nie wyceniaja, nie zapisuja; wpis robi PISARZ KOMORY w ich obecnosci i podpisuja sie obaj ('Jastrzab, ktory sam chwyta, sam wazy i sam wpisuje, PO ROKU SAM HANDLUJE'); (2) ani jednego miedziaka z lupu, stala zaplata z Kasy Lenna; (3) kto chwyta, ten nie sadzi. ### NOWE JEST DZIS TYLKO JEDNO: PIECZEC NA LISCIE PRZEWOZOWYM i 14 dni na wykup. Reszte formacja miala od poczatku.",
+   "kto": "GARTH (komora i jej pisarz) + KESSEL",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-11",
    "zamyka": "przegroda na towar znaleziony i ksiega wykupu istnieja PRZED pierwsza pieczecia",
@@ -1497,12 +1497,12 @@
   },
   {
    "data": "300-03-04",
-   "co": "⚠ SZEW TRZECH KAS - ZOLD JASTRZEBI NA KASE 3. NAJNIEBEZPIECZNIEJSZA RZECZ W CALYM ROZWIAZANIU: Mchowe Jastrzebie sa oplacane z KASY SYMONA (nie lenna, nie Korony), a od dzis czytaja papiery dla cel KORONY. PRYWATNA STRAZ NAMIESTNIKA PRZY DOCHODZIE KORONY - to jest najlepsza bron, jaka mozna podac wrogiemu domowi przed Wielka Rada, i poda ja kazdy, kto umie czytac rejestr. ### DWA RUCHY: (a) ZOLD PRZECHODZI NA KASE 3 - 20 ludzi po ~40 miedziakow dziennie = 8 jeleni dziennie ≈ 1,2 smoka miesiecznie ≈ 15 smokow rocznie; za latanie dziury wartej 1/6 ruchu bramy to tanio i da sie to powiedziec na glos przy czternastu domach. (b) LODZIE W UZYCZENIE Z RACHUNKIEM, NIE W DARZE (8-12 sztuk, ~15 smokow, Kasa 2, 299-10). ### DOKTRYNA: darowana lodz jest przysluga, uzyczona z rachunkiem jest sprzetem. Przyslugi Namiestnika wobec Korony liczy sie przeciw niemu; sprzetu sie nie liczy.",
-   "kto": "SYMON -> GAWEN (Skarbnik) i KROL",
-   "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-08",
-   "zamyka": "zold na Kasie 3 i lodzie w rachunku, oba na pismie PRZED Wielka Rada",
-   "status": "otwarte - PILNE PRZED RADA 03-30"
+   "co": "⚠ VOID: 'SZEW TRZECH KAS - PRYWATNA STRAZ NAMIESTNIKA PRZY DOCHODZIE KORONY'. Pozycja skasowana tego samego dnia, w ktorym ja postawilem. DWA BLEDY NARAZ. ### (1) FAKT ZLY: Jastrzebie NIE sa na kasie prywatnej. Zapis z 300-02-25, drugi z trzech zakazow formacji, stoi wprost: 'ani jednego miedziaka z lupu (...) STALA ZAPLATA Z KASY LENNA'. Etykieta w obsadzie byla moja i byla sprzeczna z wlasnym dziennikiem. ### (2) ODRUCH ZLY: trzy kasy to porzadek RACHUNKOWY, nie polityczny (zasada 42a). Lenno wykonujace zadanie krolestwa jest norma feudalna. Robienie z tego broni na Wielka Rade bylo wniesieniem XXI-wiecznego konfliktu interesow do swiata, ktory go nie ma. ### NIE IDZIE ZADNE PISMO DO GAWENA O ZOLD. Nic do zrobienia, nic do zaplacenia, nic na Rade.",
+   "kto": "GM",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-04",
+   "zamyka": "skasowane",
+   "status": "zrobione - VOID"
   }
  ]
 }

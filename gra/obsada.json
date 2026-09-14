@@ -196,8 +196,8 @@
    }
   },
   "MCHOWE JASTRZEBIE - STRAZ LENNA": {
-   "_kasa": "KASA SYMONA (nie lenna)",
-   "_nota": "20 ludzi. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana do pomocy celnikom 300-02-25. NIE PODLEGA HENDRY'EMU - dowodca podlega BEZPOSREDNIO SYMONOWI. ZAKAZ NACZELNY: KTO CHWYTA, TEN NIE SADZI. Ksiega Jastrzebi u PISARZA GRODZKIEGO (kto dowodzi, nie spisuje sam).",
+   "_kasa": "KASA 2 (LENNO)",
+   "_nota": "20 ludzi. ⚠ VOID 300-03-04: etykieta 'KASA SYMONA (nie lenna)' byla BLEDNA. Zapis z 300-02-25, trzy zakazy formacji, stoi wprost: 'stala zaplata Z KASY LENNA'. Poprawka gracza potwierdza zapis. Lodzie plaskodenne na tyczkach, kusze. Nazwa od 299-09-05. Powolana do pomocy celnikom 300-02-25. NIE PODLEGA HENDRY'EMU - dowodca podlega BEZPOSREDNIO SYMONOWI. ZAKAZ NACZELNY: KTO CHWYTA, TEN NIE SADZI. Ksiega Jastrzebi u PISARZA GRODZKIEGO (kto dowodzi, nie spisuje sam).",
    "DOWODCA": {
     "kto": "KESSEL BRODATY",
     "od": "300-02-25",
@@ -212,7 +212,8 @@
     "kto": "ROWAN POLUCHO",
     "od": "300-02-25",
     "nota": "nie czyta - kwit przy bramie podpisuje kto inny (dziura mala i realna)"
-   }
+   },
+   "_ludzie": "KESSEL DOBIERA SOBIE LUDZI SAM (zasada 42). Dwudziestu to stan dzisiejszy, nie etat na wieki. Dziesietnikow, sterników i tych, ktorzy czytaja, wyznacza dowodca."
   },
   "MIASTO CAILIN": {
    "_kasa": "miasto; lord nadaje, miasto sadza",
@@ -329,7 +330,7 @@
    "CELNIK / KOMORA": {
     "kto": "GARTH",
     "od": "299",
-    "nota": "URZEDNIK KORONY - nie przyjmuje polecen Symona w sprawach cla; ksiega bramy od 300-02-12; psiarze"
+    "nota": "URZEDNIK KORONY - nie przyjmuje polecen Symona w sprawach cla; ksiega bramy od 300-02-12; psiarze ### ⚠ POPRAWKA 300-03-04 (zasada 42): GARTH JEST SZEFEM KOMORY, NIE JEDNYM CZLOWIEKIEM. Komora ma PISARZA (zapis 300-02-25: 'wpis robi PISARZ KOMORY w ich obecnosci i podpisuja sie obaj'), ma wage i ma psiarzy. Garth dobiera i organizuje ludzi sam. Jego zdanie 'jedna para rak i jedna ksiega' dotyczylo ZASIEGU (bagno ma wiecej niz jedno przejscie), NIE obsady - i bylo czytane odwrotnie przez pol roku."
    },
    "PIERWSZY ADMIRAL": {
     "kto": "TORREN SOLNY",

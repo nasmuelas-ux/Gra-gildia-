@@ -592,10 +592,34 @@
       "nota": "jedna ksiega na cztery sklady: spichrze Krola, Zimowe Miasto, komory, Kamienny Brod."
     },
     "_BEZ_INSTYTUCJI": {
-      "_nota": "TRZY BUDOWY POZA FOSA NIE MAJA URZEDU PROWADZACEGO - I DLATEGO WLASNIE Z NICH JEST CISZA. Nie brakuje im pieniedzy ani rak; brakuje im KRZESLA, ktore odpowiada.",
-      "PRZYSTAN WILKA": "cwiartka Cerwyna, reszta Korony. NIKT NIE PROWADZI. Cisza o statusie budowy trwa; nazwisko budowniczego jest czescia odpowiedzi, o ktora pyta Cerwyn. WYMAGA: urzad BUDOWNICZEGO PRZYSTANI, Kasa 3.",
-      "DUSTINPORT": "DONNEL OBROK buduje, ale melduje NIEREGULARNIE i pod pieczecia, a nie w rubrykach. WYMAGA: osiem rubryk co 30 dni, jak u Torrena.",
-      "GLEBOKORZEN": "THEOMORE jest pierwszym mistrzem, ale przy REJESTRZE w Winterfell, nie przy budowie. Miejsce jest, budowy nie ma, ani jednego ucznia. VARD KILOF jedzie obejrzec ze zwiadem kamienia - to ZWIAD, nie urzad. WYMAGA: urzad BUDOWY GLEBOKORZENIA, Kasa 3, przed Rada 300-03-30."
+      "_nota": "VOID 300-03-03: TWIERDZILEM, ZE TRZY BUDOWY NIE MAJA URZEDU. DWIE MAJA, OD POL ROKU, Z NAZWISKIEM I RZUTEM. Zostaje JEDNA realna dziura i nie jest nia brak czlowieka, tylko BRAK RUBRYK: ani Bors, ani Donnel, ani Theomore nie maja formy meldunku ani dnia. Torren dostal OSIEM RUBRYK 300-02-17 i od razu zaczal pisac. Ci trzej nie dostali - i dlatego z nich jest cisza."
+    },
+    "PRZYSTAN WILKA": {
+      "urzad": "MISTRZ ROBOT PRZYSTANI WILKA",
+      "kto": "BORS - dawny brygadzista murarski z Bialego Portu",
+      "od": "299-08-27 (rzut 84), znaleziony przez GAWENA w cztery dni",
+      "zastepca": "budowniczowie i rece MANDERLYCH (Nowy Zamek)",
+      "kasa": "Korona 1/2, Cerwyn 1/4, Manderly 1/4; budowe finansowala Kasa 1",
+      "melduje": "BRAK RUBRYK - to jest jedyna realna dziura",
+      "nota": "30 lat na budowach Nowego Zamku, rece zniszczone, kolana skonczone, odstawiony bo juz nie wejdzie na rusztowanie. KAMIEN ZNA PO DZWIEKU, WAPNO POZNA WECHEM. Mieszczanin, cech go wypuscil, NIE MA PANA i nikomu nie zawdziecza chleba. Gawen szukal TAM, GDZIE NIKT NIE SZUKAL - wsrod ludzi odstawionych."
+    },
+    "DUSTINPORT": {
+      "urzad": "MISTRZ ROBOT DUSTINPORTU",
+      "kto": "DONNEL OBROK - dawny kwatermistrz z choragwi Cerwynow",
+      "od": "299-08-27 (rzut 84), ten sam nabor co Bors",
+      "zastepca": "-",
+      "kasa": "Kasa 3",
+      "melduje": "BRAK RUBRYK - pisze pod pieczecia, kiedy sie zdarzy",
+      "nota": "Prowadzil tabor przez cala wojne. Wie, ile zjada kon, ile wozi woz i JAK WYGLADA KWIT, KTORY NIE ZGADZA SIE Z LADUNKIEM - widzial wszystkie sposoby, na jakie ludzie kradna, bo przez poltora roku lapal ich co tydzien. Wybrany DOKLADNIE do tej kompetencji."
+    },
+    "GLEBOKORZEN": {
+      "urzad": "GLEBOKORZEN - wlasny dom wiedzy Polnocy",
+      "kto": "THEOMORE, ojciec-zalozyciel i pierwszy mistrz",
+      "od": "299-09-21 (rzut 96)",
+      "zastepca": "-",
+      "kasa": "Korona + dar zalozycielski Wymana",
+      "melduje": "co 30 dni - DO USTANOWIENIA",
+      "nota": "DZIALA OD ~299-11, TYMCZASOWO W BIALYM PORCIE. Theomore PRZEDEFINIOWAL urzad: 'NIE ZBUDUJE WAM CYTADELI. Jestem za stary i to nie jest rzecz do zbudowania przez jednego czlowieka. ZBUDUJE WAM BIBLIOTEKE I DZIESIECIU UCZNIOW.' PIERWSZA DZIESIATKA TO LUDZIE, KTORZY JUZ COS UMIEJA I NIE UMIEJA TEGO ZAPISAC; pierwsza robota to SPISYWANIE. KOLEBKA: NOWY ZAMEK W BIALYM PORCIE - Wyman zaoferowal ja SAM 299-08-11 (rzut 89), plus mistrz-budowniczy, pelne rece i dar zalozycielski z wlasnej biblioteki. GMACH DOCELOWY ROSNIE ROWNOLEGLE W PRZYSTANI WILKA: gdy stanie serce, Glebokorzen sie przenosi, a BIALY PORT ZOSTAJE STALA KOLEBKA. Czardrzewo zamiast septu; oderwanie od Cytadeli rozstrzygniete 299-09-10."
     }
   }
 }

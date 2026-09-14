@@ -4409,7 +4409,7 @@
    "id": "agronomia_chlodu_glebokorzen_299_08",
    "tytul": "Agronomia chlodu - misja zalozycielska Glebokorzenia; ogniwo ZELAZA SUROWEGO za ZIEMIE nosi mistrz domu",
    "status": "otwarty",
-   "_dziennik_nota": 13,
+   "_dziennik_nota": 14,
    "priorytet": "sredni"
   },
   {
@@ -5953,7 +5953,7 @@
   {
    "id": "przystanie_ladunkowe_wschodu_300_02",
    "status": "otwarty",
-   "_dziennik_nota": 1,
+   "_dziennik_nota": 2,
    "filar": "PRZYSTANIE LADUNKOWE WSCHODU",
    "stan_watku": "ZYWY"
   },
@@ -6218,7 +6218,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 36
+   "_dziennik_nota": 37
   },
   {
    "id": "bractwo_rzemiosla_wolnego",

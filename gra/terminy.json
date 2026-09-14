@@ -2325,12 +2325,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "⚠ ROZWIAZANIE PRZEWOZU, KTORE NIE JEST O KADLUBACH - I LEZY W ZAPISIE OD MIESIECY JAKO RADA NESTY, NIEPODJETA: SPRZEDAWAC PRAWO, NIE TOWAR. ### 'Nie drewno, tylko PRAWO DO WYCIECIA NA DWADZIESCIA LAT PO CENIE Z GORY. Kupiec z takim prawem SAM ZBUDUJE OKRETY I NABRZEZE, bo inaczej jego prawo jest bezwartosciowe - czyli FLOTA STANIE W WASZYCH PORTACH ZA CUDZE PIENIADZE.' ### TO ZNOSI CALY PROBLEM PRZEWOZU: przewozu sie nie rozwiazuje, PRZEWOZ SIE SPRZEDAJE KUPUJACEMU. Osiemnascie wozow na dzien przestaje byc nasza trudnoscia w chwili, gdy to on wozi. ### I CZESC, KTORA NESTA NAZWALA NAJLEPSZA: od tego dnia W BRAAVOS I W PENTOS SIEDZA LUDZIE, KTORZY STRACA MAJATEK, JESLI POLNOCY ZABRAKNIE. ### DRUGA POLOWA TEJ SAMEJ RADY, KTORA WIAZE SIE Z DZISIEJSZYM GLODEM SIEWNYM: JEDEN KONTRAKT, DWIE STRONY, SKLADANY LATEM - oni zboze po stalej cenie, my drewno po stalej cenie, W TYM SAMYM PAPIERZE, NA TE SAME LATA. 'Wtedy kazdy, kto chce was zaglodzic, MUSI NAJPIERW ZRUJNOWAC WLASNYCH KLIENTOW. Jedyna obrona, ktora dziala bez wojska.' ### ⚠ CZEGO SYMON NIE MOZE SPRZEDAC SAM: PRAWA DO WYCIECIA NA CUDZYCH LASACH. Fosa Cailin nie ma boru; drewno lezy u Benneta (prywatne, drobne) i w lasach LORDOW oraz KORONY. DWUDZIESTOLETNIE PRAWO DO POLNOCNEGO DREWNA TO POZYCJA NA WIELKA RADE, nie na umowe kupiecka.",
+   "co": "⚠ ROZWIAZANIE PRZEWOZU, KTORE NIE JEST O KADLUBACH - I LEZY W ZAPISIE OD MIESIECY JAKO RADA NESTY, NIEPODJETA: SPRZEDAWAC PRAWO, NIE TOWAR. ### 'Nie drewno, tylko PRAWO DO WYCIECIA NA DWADZIESCIA LAT PO CENIE Z GORY. Kupiec z takim prawem SAM ZBUDUJE OKRETY I NABRZEZE, bo inaczej jego prawo jest bezwartosciowe - czyli FLOTA STANIE W WASZYCH PORTACH ZA CUDZE PIENIADZE.' ### TO ZNOSI CALY PROBLEM PRZEWOZU: przewozu sie nie rozwiazuje, PRZEWOZ SIE SPRZEDAJE KUPUJACEMU. Osiemnascie wozow na dzien przestaje byc nasza trudnoscia w chwili, gdy to on wozi. ### I CZESC, KTORA NESTA NAZWALA NAJLEPSZA: od tego dnia W BRAAVOS I W PENTOS SIEDZA LUDZIE, KTORZY STRACA MAJATEK, JESLI POLNOCY ZABRAKNIE. ### DRUGA POLOWA TEJ SAMEJ RADY, KTORA WIAZE SIE Z DZISIEJSZYM GLODEM SIEWNYM: JEDEN KONTRAKT, DWIE STRONY, SKLADANY LATEM - oni zboze po stalej cenie, my drewno po stalej cenie, W TYM SAMYM PAPIERZE, NA TE SAME LATA. 'Wtedy kazdy, kto chce was zaglodzic, MUSI NAJPIERW ZRUJNOWAC WLASNYCH KLIENTOW. Jedyna obrona, ktora dziala bez wojska.' ### ⚠ CZEGO SYMON NIE MOZE SPRZEDAC SAM: PRAWA DO WYCIECIA NA CUDZYCH LASACH. Fosa Cailin nie ma boru; drewno lezy u Benneta (prywatne, drobne) i w lasach LORDOW oraz KORONY. DWUDZIESTOLETNIE PRAWO DO POLNOCNEGO DREWNA TO POZYCJA NA WIELKA RADE, nie na umowe kupiecka. ### ⚠ 300-03-12 ODRZUCONE PRZEZ GRACZA: 'nie chcemy sprzedawac prawa'. Rada Nesty zostaje w zapisie jako rada, ktorej nie przyjeto, i powod jest widoczny: dwudziestoletnie prawo do wyciecia to oddanie kawalka krolestwa na dwadziescia lat komus, kto nie odpowiada przed nikim tutejszym. ### ZAMIAST TEGO: KROLESTWO SPRZEDAJE DREWNO SAMO, W SPOSOB ZORGANIZOWANY, ZA POSREDNICTWEM WYMANA.",
    "kto": "SYMON -> RADA 300-03-30",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "prawo wyciecia jako pozycja Rady - albo swiadoma rezygnacja",
-   "status": "otwarte - DECYZJA GRACZA"
+   "status": "ODRZUCONE 300-03-12 - DECYZJA GRACZA"
   },
   {
    "data": "300-03-13",
@@ -2339,6 +2339,24 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "kto laduje, gdzie i czyim dnem - ustalone przy jutrzejszym podpisie",
+   "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-30",
+   "co": "DREWNO POLNOCY - SPRZEDAZ ZORGANIZOWANA PRZEZ MISTRZA HANDLU. POZYCJA NA WIELKA RADE, WIAZKA V. Rozstrzygniecie gracza 300-03-12: nie sprzedaje sie prawa, sprzedaje sie DREWNO - ale nie tak, jak dzis, czyli kazdy lord osobno i po omacku. ### PIEC ZDAN, WSZYSTKIE Z NARZEDZI, KTORE JUZ STOJA: (1) LASY ZOSTAJA PRZY LORDACH I KORONIE. Nic nie przechodzi w cudze rece i na zadne dwadziescia lat. (2) CENA OGLOSZONA, NIE UZGODNIONA - ta sama zasada, co przy zbozu na slupie w Cailin. Dzis Braavijczyk i Pentoszyjczyk graja lordami przeciw sobie, bo kazdy lord zna tylko swoja cene. Jedna cena ogloszona PODNOSI CENE KAZDEMU, nie tylko temu, kto umie sie targowac. (3) MIARA JEDNA: sztuka sucha, spod pokladu - MIARA POLNOCNA z braavijskiej ksiegi miar, wag i probierstwa, wdrozona juz raz. Bez tego kupiec placi za spor, a nie za drewno. (4) JEDEN KANAL WYJSCIA: MISTRZ HANDLU W BIALYM PORCIE. Nie z przywileju, tylko z fizyki - DREWNO MOZNA LADOWAC WYLACZNIE PRZY WODZIE, a woda jest tam. (5) LORDOWIE DOSTAJA CENE, KORONA RUBRYKE, MISTRZ HANDLU PROWIZJE. ### ⚠ I TO DOPIERO CZYNI KARTE MISTRZA HANDLU CZYMS: przestaje byc zaszczytem, a staje sie URZEDEM Z TOWAREM. Wyman prosil, zeby dac mu ja przy wszystkich - teraz jest za co. ### RYZYKO NAZWANE OD RAZU: jeden kanal to waskie gardlo, a kto je trzyma, moze faworyzowac. Lekarstwo to te same trzy rzeczy, co wszedzie indziej: CENA OGLOSZONA · KSIEGA JAWNA · i Dom Handlowy Tally kupujacy NA TYCH SAMYCH WARUNKACH CO KAZDY INNY, bez miedziaka lepszych.",
+   "kto": "SYMON -> RADA 300-03-30, wiazka V (HANDEL)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "uchwala o sprzedazy drewna przez Mistrza Handlu: cena ogloszona, miara jedna, ksiega jawna",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "DREWNO - CO MOWI SIE WYMANOWI JUTRO, ZANIM PADNIE NA RADZIE. Najbogatszego choragwia nie zaskakuje sie przy stole - a tu chodzi o urzad, ktory ma dostac, i o towar, ktory ma przez niego przejsc. ### CO DOSTAJE: obrot przez wlasny port, wlasne dna, wlasnych szkutnikow i PROWIZJE; oraz karte, ktora przestaje byc ozdoba. ### CZEGO NIE DOSTAJE I CO MUSI USLYSZEC OD RAZU: WYLACZNOSCI. Kanal jest jeden z fizyki, nie z przywileju, a cena wisi na slupie. ### I RZECZ, KTORA JEST JEGO WLASNYM WARUNKIEM Z DZIS WIECZOR, ODDANA MU Z DRUGIEJ STRONY: prosil o LUSTRZANA NIEWYLACZNOSC W ESSOS. Tu dostaje jej odbicie w kraju - obie strony wiaze to samo zdanie.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "Wyman wie, z czym jedzie na Rade",
    "status": "otwarte - JUTRO"
   }
  ]

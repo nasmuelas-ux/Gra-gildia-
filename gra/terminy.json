@@ -1962,6 +1962,24 @@
    "wraca": "300-03-13",
    "zamyka": "umowa podpisana albo swiadomie odlozona - i przy jakiej liczbie",
    "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-12",
+   "co": "TRZECIA REKA DO PRZEWLOKI - KTO MOZE ZMIERZYC. ### LUDZIE, KTORZY REALNIE WCHODZA W GRE: (1) TOMMARD KOSA - LUSTRATOR. Siedzi na Fosie do 300-03-30 i jest CZLOWIEKIEM CERWYNA: nie naszym i nie Wymana. Lustrowanie cudzych pomiarow to jego zawod, a przy przewloce nie ma zadnego udzialu. NAJLEPSZY CZLOWIEK I JEST JUZ NA MIEJSCU - ale tylko do Rady. (2) TRZECI MAESTER - lancuch to jego fach i jest neutralny z urzedu; trzeba go sciagnac, wiec nie na jutro. (3) KRANNOGOWIE - znaja ten grunt lepiej niz ktokolwiek zywy i nie maja w cenie zadnego interesu; ale Greywater Watch PLYWA, poslaniec stoi przy grobli i moze stac dwa tygodnie. ### ⚠ ALE LEPSZA ODPOWIEDZ JEST INNA I WYNIKA Z WLASNEGO PRECEDENSU: PRECEDENS Z LADY DUSTIN TO NIE BYL ARBITER, TYLKO JOINT-WALK POD DWIE PIECZECIE. Nie zabraklo trzeciego czlowieka - ZABRAKLO WSPOLNEGO PRZEJSCIA. Zmierzyli osobno, wiec maja dwie prawdy i zadnej ceny. TRZECIA REKA MOZE BYC METODA, NIE OSOBA. ### METODA, KTORA OBIE STRONY MOGA PRZYJAC, BO ZADNEJ NIE SCHLEBIA: (a) JEDEN SZNUR, jedno przejscie, ten sam dzien; koncow sznura trzyma sie NA ZMIANE, mila po mili; (b) GRUNT KLASYFIKUJE SIE W POLUDNIE, W ODWILZ, NIE RANO W MROZ - bo sam Weylin powiedzial: 'gdybysmy mierzyli rano, wpisalbym te piec mil jako pierwsza klase i sklamalbym nie chcac'. Pora pomiaru jest tu wazniejsza od czlowieka; (c) PROBA GRUNTU JEDNA I UMOWIONA Z GORY - kij na okreslona glebokosc, ta sama za kazdym razem; (d) PODPIS PO KAZDEJ MILI, nie po calosci - kto podpisal mile, nie wraca do niej. ### ZASOB GOTOWY: braavijska ksiega miar, wag i probierstwa od Nesty, wdrozona raz jako MIARA POLNOCNA. Ten sam warsztat, inny przedmiot.",
+   "kto": "SYMON -> WYMAN + TOMMARD KOSA + WEYLIN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "trzecia reka wskazana - czlowiek albo metoda - i przyjeta przez obie strony",
+   "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-13",
+   "co": "⚠ ROZWIAZANIE TERMINU, KTORE NIE WYMAGA POMIARU PRZED PODPISEM: PODPISUJE SIE STAWKE, NIE LICZBE. ### PROBLEM KALENDARZOWY: umowa ma byc jutro, a przewloka lezy pod Cailin, szesc dni stad. NIE DA SIE ZMIERZYC PONOWNIE PRZED PODPISEM i udawanie, ze sie da, byloby wpisaniem cudzej liczby albo swojej. ### CO SIE DA PODPISAC JUTRO: KLASY GRUNTU I STAWKI ZA MILE (I 8-12, II 18-25, III 35-50), METODE WSPOLNEGO PRZEJSCIA, PORE POMIARU I PROBE GRUNTU - wszystko to, co nie zalezy od tego, ile mil wyjdzie. LICZBA MIL ZOSTAJE PUSTA I WPISUJE SIE JA PO WSPOLNYM PRZEJSCIU. ### DLACZEGO WYMAN TO PRZYJMIE: jest kupcem i sam powiedzial, ze to nie spor, tylko brak trzeciej reki. Umowa, ktora ustala CENE ZA MILE, a nie liczbe mil, nie daje przewagi zadnemu z nich - i obaj podpisuja to samo ryzyko. ### DOKTRYNA: kiedy nie da sie uzgodnic liczby, uzgadnia sie sposob jej liczenia - i podpisuje sie to, co juz jest pewne, zamiast czekac na to, co pewne nie bedzie.",
+   "kto": "SYMON + WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "umowa podpisana ze stawkami i metoda, liczba mil wpisana po wspolnym przejsciu",
+   "status": "otwarte - DECYZJA GRACZA"
   }
  ]
 }

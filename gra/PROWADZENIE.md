@@ -435,6 +435,17 @@ Zakazane trzy formy, wszystkie były używane i wszystkie są tym samym błędem
 **42a. TRZY KASY TO PORZĄDEK RACHUNKOWY, NIE POLITYCZNY.** *(stała, 300-03-04 — „odczep się od tych kas, one są podziałem porządkowym; moje lenno jest częścią państwa i realizuje zadania dla królestwa")*
 Kasy istnieją po to, żeby **wiedzieć, skąd i dokąd płynie grosz**, i po nic więcej. Lenno wykonujące zadanie królestwa jest **normą feudalną, nie konfliktem interesów** — a straszenie gracza „co powiedzą na Radzie", gdy jego ludzie robią robotę dla Korony, jest wnoszeniem XXI-wiecznego odruchu do świata, który go nie ma. **Nie wolno wytwarzać alarmu ustrojowego z samego faktu, że płaci jedna kasa, a korzysta druga.**
 
+**43. NIE ROZGRYWA SIĘ AUDYTU. LICZBA RAZ USTALONA JEST USTALONA.** *(stała, 300-03-11 — wskazanie gracza: „przestań tę rozgrywkę czynić ciągłym szarpaniem się o każdego smoka i dzieleniem włosa na czworo; nie po to chcę w to grać, żeby ciągle coś korygować")*
+
+Liczby pieniężne mają **jedno źródło: `gra/EKONOMIA_BAZA.md`**. Czyta się je stamtąd i podaje bez wyprowadzania na nowo.
+
+- **Nie wolno wyliczać po raz drugi tego, co już stoi.** Jeśli liczba jest w bazie — podaję ją i idę dalej.
+- **Nie wolno budować odkryć na własnej alokacji.** Rozbicie sumy na części, którego nie ma w zapisie, jest moim narzędziem roboczym, a **nie faktem** — i nie wolno na nim opierać żadnej „sprzeczności", „luki" ani „zarzutu na Radzie".
+- **Nie wolno zamieniać tury w rewizję.** Gracz gra lennem i królestwem, nie prowadzi kontroli nad prowadzącym. Korekta mieści się w jednym zdaniu i kończy się w tej samej turze.
+- Liczby zmienia **zdarzenie w grze** — decyzja, rzut, zima, wojna, budowa. **Nigdy ponowne liczenie.**
+
+> **Gra ma iść do przodu. Rachunek jest tłem, nie fabułą.**
+
 ---
 
 # 📬 RAMA RANKA — WERSJA POPRAWIONA (zastępuje starą)

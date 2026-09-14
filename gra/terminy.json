@@ -1862,7 +1862,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "piec towarow wlosci na slupie z cena ogloszona; jedna linia w obu ksiegach na te sama transakcje",
-   "status": "otwarte"
+   "status": "zamkniete 300-03-11 - wchloniete do EKONOMIA_BAZA.md (zasada 43)"
   },
   {
    "data": "300-03-11",
@@ -1871,7 +1871,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "jedna karta, dwie kolumny, ta sama transakcja widziana z obu stron",
-   "status": "otwarte"
+   "status": "zamkniete 300-03-11 - wchloniete do EKONOMIA_BAZA.md (zasada 43)"
   },
   {
    "data": "300-03-11",
@@ -1880,7 +1880,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "obrot rozpisany na linie, nie na placowki: warzelnia, solarnia, bednarnia, mlyn, papiernia, bursztyn, kredyt, brokerka - kazde osobno",
-   "status": "otwarte"
+   "status": "zamkniete 300-03-11 - wchloniete do EKONOMIA_BAZA.md (zasada 43)"
   },
   {
    "data": "300-03-11",
@@ -1898,7 +1898,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-20",
    "zamyka": "podzial sprawdzony wobec ksiegi Tama pozycja po pozycji",
-   "status": "otwarte - DO SPRAWDZENIA"
+   "status": "zamkniete 300-03-11 - wchloniete do EKONOMIA_BAZA.md (zasada 43)"
   },
   {
    "data": "300-03-11",
@@ -1907,7 +1907,16 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "przy torfie, trzcinie, futrach i zelazie stoi cena zakupu albo zero - trzeba wiedziec ktore",
-   "status": "otwarte - TO JEST TA LICZBA"
+   "status": "zamkniete 300-03-11 - wchloniete do EKONOMIA_BAZA.md (zasada 43)"
+  },
+  {
+   "data": "300-03-11",
+   "co": "CZY LENNO DOSTAJE ZA SWOJ TOWAR MONETE, CZY ROZLICZENIE - JEDNA POZYCJA ZAMIAST PIECIU. Wlosc sprzedaje Domowi torf, trzcine, futra, zelazo bagienne i rybe. Pytanie jest jedno i proste: czy Kasa 2 dostaje za to PIENIADZ, czy zapis w ksiedze Domu. ### DLACZEGO TO WAZNE, A NIE DROBIAZGOWE: lenno ma ZAKAZ podnoszenia czynszow, wiec sprzedaz produkcji jest jego jedynym rosnacym dochodem. Jesli przychodzi w rozliczeniu, lenno rosnie na papierze, a placi garnizon moneta. ### ⚠ POZOSTALE PYTANIA O TE SPRAWE - o cene, o rozbicie linii, o zestawienie ksiag - ZAMKNIETE I WCHLONIETE do EKONOMIA_BAZA.md. Zostaje to jedno.",
+   "kto": "HAL + WARRYN",
+   "kanal": "kruk z drogi do Fosy",
+   "wraca": "300-03-20",
+   "zamyka": "moneta albo rozliczenie - jedno slowo",
+   "status": "otwarte"
   }
  ]
 }

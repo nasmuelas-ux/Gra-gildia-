@@ -2567,13 +2567,22 @@
    "status": "otwarte - bez daty, ze spustem"
   },
   {
-   "data": "300-03-15",
-   "co": "ODCZYT ZIARNA PORTOWEGO - KTO CZYTA I GDZIE. Zrodlo wybrane 300-03-13 (port Wymana). CZYTAJACY POWOLANI 300-03-04: ORIN WAGA i THELL SITO, szkolil WYSTAN - dwoch, bo odczyt sporny ma miec dwie rece. SA NA FOSIE, szesc dni traktu. ⚠ ODCZYT PO PRZYWIEZIENIU TO BLAD BARROWTON DRUGI RAZ, DROZSZY O FRACHT (tam zaplacono, a trzecia czesc odrzucono na miejscu). ⚠ ODCZYTU NIE ROBI CZLOWIEK WYMANA - sprzedajacy nie mierzy wlasnego towaru. KSZTALT DOSTEPNY, UZYTY JUZ RAZ W TYM TYGODNIU PRZY PRZEWLOCE: TRZECIA REKA (tam Tommard Kosa). SZTORM 300-03-13 trzyma nabrzeze i kruki - wezwanie na Fose nie poleci wczesniej niz po nim.",
-   "kto": "SYMON / ORIN WAGA + THELL SITO / WYSTAN",
-   "kanal": "kruk Bialy Port-Fosa (po sztormie)",
-   "wraca": "300-03-15",
+   "data": "~300-03-22 do 300-03-24",
+   "co": "ODCZYT ZIARNA PORTOWEGO - ROZSTRZYGNIETE 300-03-13: CZYTA SIE TUTAJ, PRZED ZAPLATA. ORIN WAGA i THELL SITO sciagani z Fosy (powolani 300-03-04, szkolil Wystan, dwoch bo odczyt sporny ma miec dwie rece). DROGA: kruk 2 dni, ale wychodzi Z PIERWSZYM LOTEM PO SZTORMIE; potem trakt 6-8 dni. Razem ~9-11 dni od zejscia sztormu. ⚠ SYMON ICH NIE ZASTANIE - wyjazd na Winterfell ~300-03-20. WLASCICIEL, KTORY ZOSTAJE: HAL. PODZIAL: ORIN I THELL CZYTAJA, HAL PLACI. Zaden nie jest czlowiekiem Wymana. ZIARNO STOI W PORCIE NIEOPLACONE - WYMAN MA O TYM WIEDZIEC, zeby nie czytal tego jako wycofania sie z oferty.",
+   "kto": "ORIN WAGA + THELL SITO (odczyt) / HAL (zaplata)",
+   "kanal": "kruk Bialy Port-Fosa po sztormie, potem trakt",
+   "wraca": "~300-03-22 do 300-03-24",
    "zamyka": "odczyt zrobiony PRZED zaplata, dwiema rekami, zadna nie Wymana",
-   "status": "otwarte - PILNE, zegar pogodowy"
+   "status": "w biegu - rozkaz wydany 300-03-13, ptak czeka na pogode"
+  },
+  {
+   "data": "przelom marca i kwietnia",
+   "co": "ZIARNO PORTOWE NA POLACH FOSY - ZEGAR NAPIETY BEZ ZAPASU. Odczyt w Bialym Porcie ~300-03-22/24, potem trakt do Fosy kolejne 6-8 dni. Wchodzi w siew, ale nie ma marginesu na drugi sztorm ani na powtorny odczyt. ⚠ JESLI ODCZYT ODRZUCI DUZA CZESC - a w Barrowton odrzucono TRZECIA - nie bedzie juz czasu na trzecie zrodlo. REZERWY, KTORE WTEDY ZOSTAJA I OBIE SA ZLE: wlasna PRZEGRODA SIEWNA FOSY (nietykalna i ma nia pozostac - lord otwierajacy swoja przegrode w pierwszym trudnym tygodniu przestaje byc wiarygodny) oraz wsie Fosy, male partie, drozej i wolniej.",
+   "kto": "WARRYN / ORLAND / HAL",
+   "kanal": "trakt Bialy Port-Fosa",
+   "wraca": null,
+   "zamyka": "ziarno w skladzie Fosy albo jawne ogloszenie braku przed siewem",
+   "status": "otwarte - spust na wynik odczytu"
   }
  ]
 }

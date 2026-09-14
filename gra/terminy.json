@@ -2388,12 +2388,12 @@
   },
   {
    "data": "300-03-13",
-   "co": "⚠ PRZYSTANIE NA WSCHODZIE - PROJEKT, KTORY ISTNIEJE, I PYTANIE, KTORE STOI OD 300-02-25 BEZ ODPOWIEDZI. Wskazanie gracza 300-03-12; odczytane z zapisu, nie ulozone. ### PYTANIE WEYLINA, ZADANE NAD SLONA WODA Z LANCUCHEM W REKU: 'PRZEWLOKA KONCZY SIE NA SLONEJ WODZIE I TO JEST WSCHODNI BRZEG. CZYJ JEST PORT WSCHODNI?' ### PORT WSCHODNI NIE MA DZIS ANI NAZWY, ANI WLASCICIELA, ANI KASY - A JEST KONCEM CALEJ DROGI. ### I TO JUZ NIE JEST PYTANIE TEORETYCZNE: JUTRO SYMON SIADA Z WYMANEM DO PODPISU. ### DLACZEGO WAZNIEJSZE OD STAWKI ZA MILE: jesli port wschodni bedzie TALLY'EGO - zasada zamknieta jest spelniona NA LITERE I PUSTA W TRESCI, a Wyman zobaczy to w trzy oddechy. Jesli MANDERLYCH ALBO WSPOLNY - umowa trzyma naprawde. ### Przewloka bez portu na koncu jest jedenastoma milami do nikad.",
+   "co": "⚠ PRZYSTANIE NA WSCHODZIE - PROJEKT, KTORY ISTNIEJE, I PYTANIE, KTORE STOI OD 300-02-25 BEZ ODPOWIEDZI. Wskazanie gracza 300-03-12; odczytane z zapisu, nie ulozone. ### PYTANIE WEYLINA, ZADANE NAD SLONA WODA Z LANCUCHEM W REKU: 'PRZEWLOKA KONCZY SIE NA SLONEJ WODZIE I TO JEST WSCHODNI BRZEG. CZYJ JEST PORT WSCHODNI?' ### PORT WSCHODNI NIE MA DZIS ANI NAZWY, ANI WLASCICIELA, ANI KASY - A JEST KONCEM CALEJ DROGI. ### I TO JUZ NIE JEST PYTANIE TEORETYCZNE: JUTRO SYMON SIADA Z WYMANEM DO PODPISU. ### DLACZEGO WAZNIEJSZE OD STAWKI ZA MILE: jesli port wschodni bedzie TALLY'EGO - zasada zamknieta jest spelniona NA LITERE I PUSTA W TRESCI, a Wyman zobaczy to w trzy oddechy. Jesli MANDERLYCH ALBO WSPOLNY - umowa trzyma naprawde. ### Przewloka bez portu na koncu jest jedenastoma milami do nikad. ### 300-03-12: PORT WSCHODNI WSPOLNY Z MANDERLYM. Pytanie Weylina zamkniete po szesnastu dniach - i zamkniete tak, ze umowa trzyma naprawde, a nie na litere.",
    "kto": "SYMON + WYMAN",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "czyj jest port wschodni - nazwa, wlasciciel, kasa",
-   "status": "otwarte - JUTRO, PRZED PODPISEM"
+   "status": "zrobione 300-03-12 - ROZSTRZYGNIECIE GRACZA"
   },
   {
    "data": "300-03-13",
@@ -2412,6 +2412,33 @@
    "wraca": "300-03-30",
    "zamyka": "jedna uchwala: porty wschodu, drewno, Mistrz Handlu, komora w kazdym porcie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "PORT WSCHODNI - WSPOLNY TALLY-MANDERLY. Rozstrzygniecie gracza 300-03-12, wchodzi do jutrzejszej umowy. ### DLACZEGO TO ZAMYKA ZARZUT, ZANIM PADNIE: port na koncu przewloki w rekach samego Tally'ego czynilby zasade zamknieta spelniona NA LITERE I PUSTA W TRESCI - Weylin nazwal to nad woda, a Wyman zobaczylby to w trzy oddechy. WSPOLNY PORT SPRAWIA, ZE OBAJ STOJA NA OBU KONCACH TEJ SAMEJ DROGI: Wyman ma powod, zeby przewloka powstala, a nie tylko zgode, zeby powstala. ### CZTERY RZECZY DO WPISANIA JUTRO, BO BEZ NICH 'WSPOLNY' NIC NIE ZNACZY: (1) UDZIALY - w jakiej czesci. Precedens lezy gotowy: Przystan Wilka to Korona 1/2, Cerwyn 1/4, Manderly 1/4. Tu grunt jest Fosy, wiec podzial bedzie inny i trzeba go nazwac, a nie odziedziczyc. (2) PORT JEST KOMORA - zasada 300-02-07, bez wyjatku: waga, ksiega bramy, cena na slupie, prawo pisemnej odmowy, dwa odpisy, liczba do JEDNEGO rejestru. KTO TRZYMA PORT, NIE TRZYMA KSIEGI PORTU - i to samo powie sie za chwile Karstarkowi, wiec musi obowiazywac najpierw tutaj. (3) GOSPODARZ - ten, kto laduje; czlowiek Mistrza Handlu, tak jak w Bialym Porcie i w Przystani Wilka. (4) ⚠ NAZWA. PORT WSCHODNI NIE MA NAZWY, a jutro ma byc wpisany do umowy. Rzeczy bez nazwy nie wchodza do aktow - wchodza do nich opisy, a opis da sie potem czytac inaczej.",
+   "kto": "SYMON + WYMAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "udzialy, komora, gospodarz i NAZWA - wpisane do umowy",
+   "status": "otwarte - JUTRO"
+  },
+  {
+   "data": "300-03-20",
+   "co": "PORT WSCHODNI - PLAN BUDOWY. Umowa mowi, CZYJ jest port; nie mowi, KTO GO STAWIA I ZA CO. ### LUDZIE SA NA MIEJSCU: WEYLIN (woda) i ORBELO (kamien) stoja przy przewloce i to oni doszli do slonej wody z lancuchem. ### CO MA WROCIC: gdzie dokladnie staje pomost, jaki grunt, ile kamienia, ile drewna, i CZY DA SIE ZACZAC OD POMOSTU, a mury pozniej - bo pomost wypuszcza drewno, a mur tylko chroni to, co juz plynie. ### ZASADA ETAPOW Z MIASTA CAILIN STOSUJE SIE TU BEZ ZMIANY: najpierw to, co zarabia, potem to, co widac.",
+   "kto": "WEYLIN + ORBELO",
+   "kanal": "robota na miejscu (Fosa)",
+   "wraca": "300-03-20",
+   "zamyka": "plan portu wschodniego: pomost najpierw, liczby przy kazdej pozycji",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-13",
+   "co": "NAZWA PORTU WSCHODNIEGO - DO PODANIA JUTRO PRZY PODPISIE. Nie ma jej i nie wolno jej zostawic, bo to koniec lancucha dwoch morz, a lancuch bez nazwanego konca nie da sie zapisac w zadnym akcie. ### NAZWE DAJE PAN ZIEMI - grunt jest Fosy. ⚠ ALE WSPOLWLASCICIELEM BEDZIE MANDERLY, wiec nazwa, ktora bierze polowe jego i nic z niego nie ma, jest pierwsza rysa na umowie podpisanej tego samego dnia. ### TO DROBIAZG, KTORY KOSZTUJE JEDNO ZDANIE DZIS I DZIESIEC LAT SPORU, JESLI SIE GO POMINIE.",
+   "kto": "SYMON",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "nazwa wpisana do umowy",
+   "status": "otwarte - DECYZJA GRACZA, JUTRO"
   }
  ]
 }

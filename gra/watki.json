@@ -3045,7 +3045,7 @@
    "id": "wektor_stannis_zlamany_sojusznik_1127",
    "tytul": "Stannis zlamany = naturalny anty-Lann sojusznik, nie moze zadac przynaleznosci",
    "status": "UKLAD_ZAPIECZETOWANY_Stannis_zlegitymizowany_i_zwiazany",
-   "_dziennik_nota": 17
+   "_dziennik_nota": 18
   },
   {
    "id": "wektor_dolina_arryn_1127",
@@ -4789,13 +4789,13 @@
    "id": "prawo_o_skladach_zboza_299_09",
    "tytul": "PRAWO O SKLADACH ZBOZA - projekt; nie zakazujemy gromadzenia, zakazujemy gromadzenia w ukryciu",
    "status": "PROJEKT_299-09-06;_Cerwyn_09-07;_pod_uchwale_Wielkiej_Rady_z_krolem_po_09-14",
-   "_dziennik_nota": 68
+   "_dziennik_nota": 69
   },
   {
    "id": "mur_mance_rayder_i_lud_za_murem_299_09",
    "tytul": "MUR - dwa listy wyslane 299-09-15 (Hal: policz talerze i jak sie skresla z listy przydzialow; Aemon: Osric przyjedzie, powiedzcie mu w cztery oczy)",
    "status": "otwarty",
-   "_dziennik_nota": 43,
+   "_dziennik_nota": 44,
    "priorytet": "wysoki",
    "termin": "Osric w Czarnym Zamku koniec pazdziernika 299",
    "filar": "MUR - Mance Rayder i lud za Murem",
@@ -5348,7 +5348,7 @@
   {
    "id": "spotkanie_ze_stannisem_w_pentos_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 23,
+   "_dziennik_nota": 24,
    "priorytet": "wysoki",
    "termin": "299-12 (Pentos)",
    "tytul": "Spotkanie ze Stannisem w Pentos - zaproszenie wyslane z pieciu warunkami; jedzie Namiestnik osobiscie; czeka na odpowiedz",
@@ -5978,7 +5978,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 72,
+   "_dziennik_nota": 73,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },

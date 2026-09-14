@@ -1215,6 +1215,33 @@
       "wraca": "300-04-17",
       "zamyka": "wraca, wraca z niczym, albo nie wraca",
       "status": "otwarte"
+    },
+    {
+      "data": "300-03-03 - WYSLANE",
+      "co": "LIST DO STANNISA W IMIENIU KROLA - trzy rzeczy i zadna nie jest zakazem, BO ZAKAZAC SIE NIE DA. STAN PRAWNY SPRAWDZONY PRZED NAPISANIEM: clo zaporowe jest na WYWOZ, a Mur lezy na POLNOCY. Ludzie Stannisa kupuja w Bialym Porcie i wioza na polnoc - RUCH WEWNETRZNY, NIE WYWOZ. To LEGALNY KUPIEC ZE SREBREM, nie przestepca. (1) MACIE FLOTE - a Pentos ma zboze i przyjmuje srebro. Jesli tam plyniecie, KUPUJCIE TAM. (2) PROSBA, NIE ROZKAZ: przestancie wykupywac zboze na polnocnym rynku. Konkurujecie o ZIMOWE ZAPASY LUDZI, ktorzy sa po waszej stronie. (3) JESLI POTRZEBUJECIE ZBOZA - PISZCIE WPROST DO WINTERFELL. Korona wie, ile ma, i moze dac tanio to, czego kupiec wam sprzeda drogo. (4) PODAJCIE DOKLADNY TERMIN, KIEDY RUSZACIE NA MUR - zeby Polnoc byla zawiadomiona, a nie zaskoczona.",
+      "kto": "SYMON (w imieniu KROLA) -> STANNIS",
+      "kanal": "do Stannisa przez Davosa",
+      "wraca": "300-04-27",
+      "zamyka": "data wymarszu na Mur ORAZ odpowiedz o zbozu - albo cisza, ktora tez jest odpowiedzia",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-30",
+      "co": "DATA STANNISA NA MUR - NIE ZDAZY NA RADE I TRZEBA TO WIEDZIEC Z GORY. Droga przez Davosa to okolo 55 dni w obie strony; odpowiedz realnie pod koniec kwietnia. ⚠ WIEC NA RADZIE 300-03-30, PRZY PUNKCIE 0, STANNIS JEST NADAL NIEWIADOMA - i lepiej powiedziec to jako fakt, niz milczec i dac lordom domyslac sie samemu. Jego wlasne slowa z 300-02-06 sa jedynym, co mamy: 'JADE NA MUR, PONIEWAZ JESTEM JEDYNYM KROLEM W WESTEROS, KTORY ZROBIL COKOLWIEK DLA LUDZI, KTORZY GO BRONIA'. Zapowiedz jest, daty nie ma.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30",
+      "zamyka": "fakt wypowiedziany na Radzie: obcy krol idzie na nasz Mur i nie znamy dnia",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-13",
+      "co": "NARZEDZIE, KTOREGO NIE MA, A KTORE WLASNIE POWSTAJE - REJESTR TEGO, KTO MOZE KUPOWAC ILOSCIAMI. Zapis 300-02-27: zeby ukrocic hurtowy skup, nie wystarczy stare clo; trzeba licencji, pulapu albo rejestru. ### A PRAWO O SKLADACH WLASNIE TO BUDUJE: prog 30 korcy / 14 dni, przymus skladu, PULAP 1/5 OBROTU OKREGU, wpis. ⚠ I DLATEGO LIST DO STANNISA WYCHODZI DZIS, A NIE ZA MIESIAC: PROSBA WYSLANA ZANIM ISTNIEJE NARZEDZIE JEST PROSBA. Ta sama prosba wyslana po ogloszeniu prawa bylaby GROZBA Z UPRZEJMOSCIA. Jesli sam przestanie, nikt nigdy nie bedzie musial wycelowac w niego nowej ustawy - a pulap 1/5 i tak obejmie go przy okazji, jak kazdego.",
+      "kto": "SYMON + HERWIN + lawa",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-13",
+      "zamyka": "pulap 1/5 obrotu okregu na slupie - obowiazuje kazdego, nie wymienia nikogo",
+      "status": "otwarte"
     }
   ]
 }

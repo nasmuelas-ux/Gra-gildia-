@@ -2160,6 +2160,24 @@
    "wraca": "300-03-14",
    "zamyka": "kolejnosc tego, o co sie ja prosi - albo swiadome przyjecie, ze wszystko naraz nie pojdzie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "PENTOS WEDLE MEDRICKA - ODCZYT CZLOWIEKA Z DWUDZIESTOMA LATAMI NA MIEJSCU. ### STAN FAKTYCZNY Z ZAPISU: MIASTO PENTOS ODMOWILO ROZMOWY O WSPOLPRACY 299-12-30. A JEDNOCZESNIE DOM MA TAM SKLAD - ten, ktory powstal ze zgubionego okretu ('to juz nie jest zgubiony okret, to jest wasz sklad w Pentos, postawiony miesiac wczesniej i za darmo'). ### CZYLI POZYCJA JEST DZIWNA I DOBRA: miasto powiedzialo nie, a towar i dach sa. ### CO MEDRICK MOWI O TYM, DLACZEGO TO NIE JEST SPRZECZNOSC: w Pentos miasto to nie jest handel. Handel to MAGISTROWIE, a magistrowie nie sa jednym cialem. Odmowa miasta zamyka BRAME, nie targ. ### ⚠ I RZECZ, KTORA MEDRICK KLADZIE NA STOLE, BO NIKT INNY JEJ NIE POWIE: SYMON KUPIL ZBOZE OD DROBNYCH GOSPODARZY PO 3 KORCE ZA SMOKA, ODRZUCAJAC ZBOZE WIELKICH MAJATKOW MAGISTROW PO 5 KORCY ZA SMOKA - z tych samych pol, na ktorych Moredo widzial ludzi w obreczach. Zaplacil DROZEJ i czekal 3-5 dni dluzej. ### W PENTOS TO NIE PRZESZLO NIEZAUWAZONE I NIE JEST NEUTRALNE. Zrobilo mu to przyjaciol wsrod tych, ktorzy nie moga pomoc, i chlod wsrod tych, ktorzy moga. ### KOSZT SKLADU STOI NA KARCIE, KTORA MEDRICK PODAL - jest maly. DROGA NIE JEST IZBA. DROGIE JEST POZWOLENIE, a po odmowie miasta pozwolenie chodzi przez magistra.",
+   "kto": "SYMON + MEDRICK",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-14",
+   "zamyka": "co sie robi ze skladem w Pentos: czlowiek i droga wejscia albo zwiniecie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-12",
+   "co": "PLACOWKI WEDLE MEDRICKA - RADA, KTORA JEST ODWROTNOSCIA PLANU. ### BRAAVOS: nie jest problemem i nigdy nie byl - faktoria lezala jako horyzont essoski od 299-05, poselstwo szlo miedzy innymi po to, a reczy NESTA, ktora ma WLASNY kantor. Slowa Wymana z tego samego wieczoru: 'za sluge reczy jego pan, ZA NIA RECZY ONA'. ### PENTOS: dach juz stoi, brama zamknieta odmowa miasta, wejscie przez magistra. ### GULLTOWN: Dolina - a tam matka Krola negocjuje i NIC NIE DOMKNELA. Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem. ### HIGHGARDEN: Reach - i tu kanal ISTNIEJE I UTRZYMUJE SIE SAM, bo obie strony maja powod, zeby go nie zerwac (relacje z Reach, zboze). ### ⚠ JEGO WLASNA RADA, Z DWUDZIESTU LAT: NIE OTWIERAC CZTERECH. OTWORZYC TE, KTORA JUZ JEST OTWARTA. 'Dom, ktory wchodzi rowno do czterech miast, w kazdym jest czwarty w kolejce. Dom, ktory wchodzi do jednego i tam siedzi, jest w nim pierwszy.' ### To jest to samo zdanie, ktore Nesta powiedziala inaczej: NAJLEPSZY HANDEL TO TEN, KTOREGO SIE NIE ZROBILO.",
+   "kto": "SYMON + HAL + MEDRICK",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-13",
+   "zamyka": "ile placowek naprawde sie otwiera i ktore",
+   "status": "otwarte - DECYZJA GRACZA"
   }
  ]
 }

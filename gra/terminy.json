@@ -46,13 +46,13 @@
    "wraca": "300-03-08"
   },
   {
-   "data": "300-03-07",
-   "co": "WYJAZD SYMONA z Fosy",
+   "data": "300-03-05 - WYJAZD DWA DNI WCZESNIEJ",
+   "co": "WYJAZD SYMONA z Fosy ### 300-03-05: WYJECHAL DZIS, NIE SIODMEGO. ⚠ I RZECZ, KTORA TRZEBA POWIEDZIEC UCZCIWIE: TO NIE JEST ZMIANA TRASY. Wyjazd 03-07 i tak szedl NA BIALY PORT (adres ruchomy, ustalony 300-02-17: do 03-07 Fosa, potem Bialy Port, od ~03-20 Winterfell). Ta sama droga, zaczeta o dwa dni wczesniej. ### CZAS: trakt padl dzis rana - maz do osi. Jezdziec Fosa-Bialy Port to zwykle 6-8 dni; po takim deszczu 7-9, i tylko jesli jedzie LEKKO, mala kupa, ze zmiana koni tam, gdzie Korona je ma. PRZYJAZD ~300-03-12/03-14. ### Jedzie przyboczna Stena.",
    "kto": "Symon + przyboczna (Sten)",
-   "zamyka": "wyjazd",
+   "zamyka": "Symon w Bialym Porcie",
    "status": "otwarte",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-07"
+   "wraca": "300-03-13"
   },
   {
    "data": "300-03-07",
@@ -534,10 +534,10 @@
   },
   {
    "data": "wyslany 300-03-03 o brzasku",
-   "co": "KRUK DO BIALEGO PORTU - pytanie o Mire. Poczta DOMU, pieczec DOMU, nie Korony. Dojdzie w dwa dni i tak czy inaczej PO FAKCIE - wysylany nie po to, zeby zdazyc, tylko zeby ktos tam wiedzial, ze pytano tego dnia.",
+   "co": "KRUK DO BIALEGO PORTU - pytanie o Mire. Poczta DOMU, pieczec DOMU, nie Korony. Dojdzie w dwa dni i tak czy inaczej PO FAKCIE - wysylany nie po to, zeby zdazyc, tylko zeby ktos tam wiedzial, ze pytano tego dnia. ### 300-03-05: KRUK WYSZEDL. Treść dyktowana przez pana - nie zapisuje jej nikt poza nim. Laduje 300-03-07. To jedyna rzecz, ktora dojdzie tam szybciej niz on sam.",
    "kto": "SYMON -> Bialy Port",
    "zamyka": "wiadomosc o rozwiazaniu",
-   "status": "otwarte",
+   "status": "otwarte - W DRODZE",
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-03-07"
   },
@@ -1574,6 +1574,24 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "prosba postawiona na glos przy Radzie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-05",
+   "co": "ADRES RUCHOMY WCHODZI W ZYCIE DWA DNI WCZESNIEJ - KANCELARIA GARRICKA PRZEKIEROWUJE WSZYSTKO. Od dzis kazdy meldunek, kazda odpowiedz i kazdy kruk ida TAM, GDZIE JEST NAMIESTNIK, nie na Fose. Dotyczy natychmiast: odpowiedzi Krola o rozdzieleniu krzesla (03-07), rekomendacji Ilaria (03-08), pakietu Gawena, wykazow Berona, meldunku VIII Osrica. ### TO JEST TA SAMA POPRAWKA, KTORA WPROWADZONO TORRENOWI 300-02-17 - i ktora wtedy wprowadzono dlatego, ze meldunek VII Osrica LEZAL, bo adres byl staly, a Namiestnik nie.",
+   "kto": "GARRICK (kancelaria Fosy)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-06",
+   "zamyka": "kancelaria wie, gdzie jest pan, w kazdym dniu drogi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-05",
+   "co": "CO ZOSTAJE NA FOSIE BEZ PANA - I CZEGO NIE TRZEBA BYLO PRZESUWAC (zasada 42). Siedem pozycji mialo daty 03-06 i 03-07 i wczoraj liczylem je jako koszt wczesniejszego wyjazdu. PO ZASADZIE 42 KOSZT JEST MNIEJSZY, NIZ GO PODALEM: ### IDZIE BEZ NIEGO: jedna karta rak i zasada zwrotu (WARRYN - rozstrzyga budowy od 300-03-01, MELLA - rejestr) · jedenascie odpowiedzi (WYSTAN albo pisarz grodzki - i wlasnie o to chodzilo, zeby nie pytal ich pracodawca ANI PAN) · rubryka 'na Mur' (GARTH) · czystopis jednolity Prawa Spichlerza i czesc V na slup (GARRICK + dwaj pisarze + HERWIN) · przywilej bagienny (WARRYN + lawa) · soltysi (WARRYN) · karta zywnosciowa i odczyt progu (ORLAND + BENNIS) · drugi ogien w kuzni (WARRYN + BRUSK) · pieczec na wodzie (KESSEL + GARTH) · karta odhaczen (GARRICK). ### JEDZIE Z NIM, BO JEST JEGO: ODBICI BEZ DOMU - ilu Fosa bierze (liczba, nie uznanie) · KOLIZJA O NIETYKALNOSC ZIARNA SIEWNEGO (03-06) · DAENERYS A AEMON - pytac czy nie. Wszystkie trzy da sie odeslac krukiem z pierwszego postoju. ### DOKTRYNA: lenno, z ktorego wyjazd pana kosztuje siedem pozycji, nie ma urzednikow - ma pomocnikow.",
+   "kto": "GARRICK + WARRYN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-08",
+   "zamyka": "meldunek zbiorczy w slad za panem: co zamkniete, co stoi",
    "status": "otwarte"
   }
  ]

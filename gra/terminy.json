@@ -1812,11 +1812,29 @@
   },
   {
    "data": "300-03-11",
-   "co": "RACHUNEK MARCA - LICZBA JEST I BYLA PODPISANA 300-01-26: ### 95 W KASIE + 110 (ZEJSCIE Z ZAPASU) + 90 (KONIEC ZALICZKOWANIA KORONY) = 295. ZAPADA 340. ### BRAKUJE 45. ### Nie 340, nie 185. CZTERDZIESCI PIEC. ### PODPIS TRZECI Z 300-01-26 BRZMI: 'WEKSLE - WYKUPUJEMY, NIE ODNAWIAMY'. ⚠ Zapis z 300-03-01 mowiacy 'wykupic sie nie da, Kasa 1 ma 15 smokow wolnej gotowki miesiecznie' STOI W SPRZECZNOSCI Z TYM PODPISEM I Z BILANSEM. Pietnascie to nie jest miara tego domu: dom ma 6655 obrotu kwartalnie i 708 zysku netto. ### CO ZAMYKA CZTERDZIESCI PIEC - Hal wylozyl to sam 300-01-26, dwie drogi: (a) CIAC RIVERRUN o 1/3 tranzytu (+70, koszt -55 obrotu miesiecznie i oddany kawalek pozycji posadzonej za 1600); (b) STO OD KORONY - WYCOFANE PRZEZ GRACZA 300-03-06. ### (c) DROGA TRZECIA, KTOREJ W STYCZNIU NIE BYLO: PIERWSZA PARTIA Z 695 W TOWARZE - sol i ryba solona, laduje ~300-03-13, Dom wybiera tresc I KOLEJNOSC. Czterdziesci piec z tego schodzi bez psucia ceny i BEZ TYKANIA RIVERRUN. ### ROZDROZA NIE TYKAMY: 'to nie placowka handlowa, to sa uszy Willi na skrzyzowaniu pol Westeros. Nie sprzedaje sie okna, zeby zaplacic za swiece.'",
+   "co": "RACHUNEK MARCA - LICZBA JEST I BYLA PODPISANA 300-01-26: ### 95 W KASIE + 110 (ZEJSCIE Z ZAPASU) + 90 (KONIEC ZALICZKOWANIA KORONY) = 295. ZAPADA 340. ### BRAKUJE 45. ### Nie 340, nie 185. CZTERDZIESCI PIEC. ### PODPIS TRZECI Z 300-01-26 BRZMI: 'WEKSLE - WYKUPUJEMY, NIE ODNAWIAMY'. ⚠ Zapis z 300-03-01 mowiacy 'wykupic sie nie da, Kasa 1 ma 15 smokow wolnej gotowki miesiecznie' STOI W SPRZECZNOSCI Z TYM PODPISEM I Z BILANSEM. Pietnascie to nie jest miara tego domu: dom ma 6655 obrotu kwartalnie i 708 zysku netto. ### CO ZAMYKA CZTERDZIESCI PIEC - Hal wylozyl to sam 300-01-26, dwie drogi: (a) CIAC RIVERRUN o 1/3 tranzytu (+70, koszt -55 obrotu miesiecznie i oddany kawalek pozycji posadzonej za 1600); (b) STO OD KORONY - WYCOFANE PRZEZ GRACZA 300-03-06. ### (c) DROGA TRZECIA, KTOREJ W STYCZNIU NIE BYLO: PIERWSZA PARTIA Z 695 W TOWARZE - sol i ryba solona, laduje ~300-03-13, Dom wybiera tresc I KOLEJNOSC. Czterdziesci piec z tego schodzi bez psucia ceny i BEZ TYKANIA RIVERRUN. ### ROZDROZA NIE TYKAMY: 'to nie placowka handlowa, to sa uszy Willi na skrzyzowaniu pol Westeros. Nie sprzedaje sie okna, zeby zaplacic za swiece.' ### 300-03-11: PIERWSZA PARTIA ZAMYKA 45. WEKSLE WYKUPUJEMY - podpis z 300-01-26 utrzymany w mocy, nie odwrocony po cichu. Riverrun nietkniety, Rozdroze nietkniete.",
    "kto": "HAL SIEROTA",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "45 zamkniete pierwsza partia; weksle WYKUPIONE, nie zrolowane",
+   "status": "zrobione 300-03-11 - ROZSTRZYGNIECIE GRACZA"
+  },
+  {
+   "data": "300-03-11",
+   "co": "WYKUP 340 - ZAMKNIECIE WARSTWY WEKSLOWEJ. 95 w kasie + 110 z zejscia z zapasu + 90 z konca zaliczkowania Korony + 45 z pierwszej partii soli i ryby (laduje ~03-13) = 340. RUBEL W RUBEL. ### CO SIE PRZEZ TO NIE DZIEJE - i to jest warte tyle co sam wykup: (a) NIE MA ROLOWANIA, wiec nie ma rozmowy z Lucanem o nowych warunkach i nie ma nowego dyskonta; (b) NIE MA PYTANIA O ZASTAW - weksel wykupiony nie potrzebuje zabezpieczenia, wiec CALA KOLIZJA ZIARNA SIEWNEGO I WEKSLI PRZESTAJE ISTNIEC, a nie zostaje rozwiazana. Nietykalnosc siewu idzie na Rade bez jednego papieru wiszacego z boku; (c) KONCZY SIE 'PODATEK OD PLOTKI' - dyskonto weksla od grudnia bylo druga z trzech przyczyn spadku marzy. Od kwietnia ta przyczyna znika. (d) WRACA ZDOLNOSC WEKSLOWA DOMU - zajeta od pazdziernika przez zboze Korony. To jest narzedzie na wiosne, nie ozdoba. ### I KONCZY SIE SZESC TYGODNI, przed ktorymi Hal uprzedzal: 'dom bedzie robil rzecz rozsadna i wygladajaca zle - splacal dlugi, zeby byc wyplacalnym, i przez to wygladal na niewyplacalnego'.",
+   "kto": "HAL SIEROTA + LUCAN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-31",
+   "zamyka": "340 wykupione i umorzone, ksiega weksli zamknieta na zero",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-31",
+   "co": "⚠ DOM KONCZY MARZEC CZYSTY I PUSTY - I TO JEST CENA WYKUPU ZAMIAST ROLOWANIA, NAZWANA OD RAZU. Po 340 kasa jest przy zerze, a zapas obrotowy zszedl do dna, bo schodzenie z zapasow trwa od stycznia. WIOSNA JEST PORA, W KTOREJ RAMIONA POTRZEBUJA KAPITALU: papiernia ma waskie gardlo SZMAT i trzeba je kupic z poludnia i z Bialego Portu; bursztyn potrzebuje SUROWCA, bo arteria Halvarda ruszyla skromnie; ramie ubezpieczen ma 50 rezerwy i metode do ulozenia. ### CO TO POKRYWA: POZOSTALE ~650 Z 695 W TOWARZE, schodzace przez wiosne z marza 12-18%. To jest kapital wiosenny domu i nie ma drugiego. ### DLATEGO KOLEJNOSC PARTII, ktora pan oddal Halowi 300-03-06, przestaje byc wygoda i staje sie planem finansowym: co schodzi szybko, ratuje marzec; co schodzi wolno, finansuje wiosne.",
+   "kto": "HAL SIEROTA",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-01",
+   "zamyka": "plan wiosenny: ktore ramie dostaje ile z tego, co schodzi",
    "status": "otwarte"
   }
  ]

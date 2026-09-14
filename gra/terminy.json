@@ -38,12 +38,12 @@
   },
   {
    "data": "300-03-06..08",
-   "co": "odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency)",
+   "co": "odpowiedz Krola na pismo z 300-02-19 (rejestry Locke'ow, pochodzenie, jency) ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia.",
    "kto": "GARRICK rozdziela",
    "zamyka": "czesc koronna w bieg, czesc prywatna zapieczetowana do ksiegi Domu",
-   "status": "otwarte",
+   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-08"
+   "wraca": "300-03-11"
   },
   {
    "data": "300-03-05 - WYJAZD DWA DNI WCZESNIEJ",
@@ -318,12 +318,12 @@
   },
   {
    "data": "bez daty",
-   "co": "THEOMORE - PYTANIA POPRAWIONE 300-03-03. STARE BYLY ZLE ZADANE: kolebka JEST USTALONA (Nowy Zamek w Bialym Porcie, dar Wymana 299-08-11), a pierwsza dziesiatka uczniow JEST WZIETA od 299-09-21. WLASCIWE PYTANIA: ILU Z DZIESIECIU ZOSTALO I CO SPISALI · ile kosztowal PIERWSZY ROK NAPRAWDE · kiedy gmach w Przystani Wilka bedzie gotowy przejac serce · i CZY DZIESIECIU WYSTARCZY, skoro Fosa ma teraz wlasna szkole i ochmistrza nauki.",
+   "co": "THEOMORE - PYTANIA POPRAWIONE 300-03-03. STARE BYLY ZLE ZADANE: kolebka JEST USTALONA (Nowy Zamek w Bialym Porcie, dar Wymana 299-08-11), a pierwsza dziesiatka uczniow JEST WZIETA od 299-09-21. WLASCIWE PYTANIA: ILU Z DZIESIECIU ZOSTALO I CO SPISALI · ile kosztowal PIERWSZY ROK NAPRAWDE · kiedy gmach w Przystani Wilka bedzie gotowy przejac serce · i CZY DZIESIECIU WYSTARCZY, skoro Fosa ma teraz wlasna szkole i ochmistrza nauki. ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia.",
    "kto": "THEOMORE",
    "zamyka": "odpowiedz",
-   "status": "otwarte",
+   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-08"
+   "wraca": "300-03-11"
   },
   {
    "data": "300-03-04",
@@ -399,12 +399,12 @@
   },
   {
    "data": "~300-03-06",
-   "co": "PISMO MIASTA W WINTERFELL - od tej chwili biegnie obietnica Krola z 300-02-07: rozstrzygnie PRZED Rada",
+   "co": "PISMO MIASTA W WINTERFELL - od tej chwili biegnie obietnica Krola z 300-02-07: rozstrzygnie PRZED Rada ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia.",
    "kto": "kancelaria Korony (BERON)",
    "zamyka": "rozstrzygniecie Krola w sprawie skladu i garnizonu Cailin",
-   "status": "otwarte - ZEGAR LICZY SIE OD 300-02-07, nie od wyslania. Zwloka powstala z zaniedbania prowadzacego (pismo nie bylo w rejestrze) - NIE PRZECHODZI NA GRACZA: rozstrzygniecie Krola ma paczc PRZED Rada, jak obiecal.",
+   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-08"
+   "wraca": "300-03-11"
   },
   {
    "data": "wyslany 300-02-27 - odpowiedz IV/300 najwczesniej",
@@ -489,12 +489,12 @@
   },
   {
    "data": "wyslany 300-02-28",
-   "co": "LIST DO MIRY: 'kto nauczy tych dziesiecioro UCZYC' - druga sprawa szkolna, z powrotna.",
+   "co": "LIST DO MIRY: 'kto nauczy tych dziesiecioro UCZYC' - druga sprawa szkolna, z powrotna. ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia.",
    "kto": "MIRA",
    "zamyka": "odpowiedz",
-   "status": "otwarte",
+   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie",
    "kanal": "kruk Fosa-Bialy Port",
-   "wraca": "300-03-08"
+   "wraca": "300-03-11"
   },
   {
    "data": "RIVERRUN - jest na miejscu",
@@ -1119,12 +1119,12 @@
   },
   {
    "data": "300-03-07",
-   "co": "PISMO DO KROLA - TRZY WARUNKI, TRZY ODPOWIEDZI. Nie prosba: SPRAWOZDANIE. (3) CZYM ICH NAKARMIC - POLICZONE: 22 tysiace gab to okolo 22 TYSIECY KORCY MIESIECZNIE; po cenie skladu 11 jeleni to 1210 SMOKOW NA MIESIAC, czyli OKOLO JEDNEJ CZWARTEJ CALEGO ROCZNEGO DOCHODU KORONY W MONECIE. ### WNIOSEK, KTORY Z LICZBY WYNIKA SAM: NIE DA SIE ICH NAKARMIC KUPIONYM ZBOZEM. DA SIE ICH OSADZIC. Fosa ma na to gotowy wzor: zniesiona panszczyzna dla nowych, piec lat wolnizny, ziemia i narzedzia - i DAR, dwadziescia piec mil pustej ziemi, ktora i tak lezy PIERWSZA NA DRODZE MANCE'A. 'Zanim stanie sie ziemia, musi stac sie granica' - zapis 299-09-06; teraz ma liczbe. (1) KTO IDZIE ZA MUR - nie poslaniec i nie poseł. Poslaniec przepadl, tlumacz nie pojdzie, przewodnika nie ma. ZOSTAJE JEDEN RODZAJ CZLOWIEKA, KTORY UMIE TAM WEJSC I WYJSC: JEDEN Z TRZECH DZIKICH TRZYMANYCH PRZEZ STRAZ. Ma po tamtej stronie kogo znac, a po tej ma powod wrocic - o ile mu go damy. (2) CO Z DOWODEM - CZARNE SZKLO JUZ JEST NASZE. Stannis oddal je ZA DARMO w Pentos (299-12-29). Kadlub zgodzil sie dac WYMAN 300-01-26. Zostal JEDEN RUCH: PRZELADUNEK NA OTWARTEJ WODZIE, ktory ser Davos ustawi tak, ze NIKT NIE NAPISZE RAPORTU. Miejsce, sygnal i pore podal WLASNA REKA, proszac, by tego NIE PISAC W ZADNYM LISCIE - i dlatego w tym rejestrze tego nie ma i nie bedzie. Dwa ostrza w plotnie to nie caly zapas, tylko to, co juz przywieziono. A niezaleznie od tego STARE OSTRZA WYCHODZA Z TORFU, a torfiarnie Fosy tna ten sam torf (Reed, 299-10-04) - to drugie zrodlo, wlasne i darmowe.",
+   "co": "PISMO DO KROLA - TRZY WARUNKI, TRZY ODPOWIEDZI. Nie prosba: SPRAWOZDANIE. (3) CZYM ICH NAKARMIC - POLICZONE: 22 tysiace gab to okolo 22 TYSIECY KORCY MIESIECZNIE; po cenie skladu 11 jeleni to 1210 SMOKOW NA MIESIAC, czyli OKOLO JEDNEJ CZWARTEJ CALEGO ROCZNEGO DOCHODU KORONY W MONECIE. ### WNIOSEK, KTORY Z LICZBY WYNIKA SAM: NIE DA SIE ICH NAKARMIC KUPIONYM ZBOZEM. DA SIE ICH OSADZIC. Fosa ma na to gotowy wzor: zniesiona panszczyzna dla nowych, piec lat wolnizny, ziemia i narzedzia - i DAR, dwadziescia piec mil pustej ziemi, ktora i tak lezy PIERWSZA NA DRODZE MANCE'A. 'Zanim stanie sie ziemia, musi stac sie granica' - zapis 299-09-06; teraz ma liczbe. (1) KTO IDZIE ZA MUR - nie poslaniec i nie poseł. Poslaniec przepadl, tlumacz nie pojdzie, przewodnika nie ma. ZOSTAJE JEDEN RODZAJ CZLOWIEKA, KTORY UMIE TAM WEJSC I WYJSC: JEDEN Z TRZECH DZIKICH TRZYMANYCH PRZEZ STRAZ. Ma po tamtej stronie kogo znac, a po tej ma powod wrocic - o ile mu go damy. (2) CO Z DOWODEM - CZARNE SZKLO JUZ JEST NASZE. Stannis oddal je ZA DARMO w Pentos (299-12-29). Kadlub zgodzil sie dac WYMAN 300-01-26. Zostal JEDEN RUCH: PRZELADUNEK NA OTWARTEJ WODZIE, ktory ser Davos ustawi tak, ze NIKT NIE NAPISZE RAPORTU. Miejsce, sygnal i pore podal WLASNA REKA, proszac, by tego NIE PISAC W ZADNYM LISCIE - i dlatego w tym rejestrze tego nie ma i nie bedzie. Dwa ostrza w plotnie to nie caly zapas, tylko to, co juz przywieziono. A niezaleznie od tego STARE OSTRZA WYCHODZA Z TORFU, a torfiarnie Fosy tna ten sam torf (Reed, 299-10-04) - to drugie zrodlo, wlasne i darmowe. ### 300-03-08: KRUK WYLADOWAL NA FOSIE, NIE W REKU PANA. Symon jest czwarty dzien w drodze; kruk leci do golebnika, nie do czlowieka. Kancelaria Garricka przerzuca do Bialego Portu (2 dni). CZEKA NA NIEGO, GDY STANIE ~300-03-11. Tresc zapieczetowana do tego dnia.",
    "kto": "SYMON -> KROL",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-07",
+   "wraca": "300-03-11",
    "zamyka": "trzy odpowiedzi na jednej karcie, przed Rada",
-   "status": "otwarte - PILNE"
+   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie"
   },
   {
    "data": "300-03-07",
@@ -1560,12 +1560,12 @@
   },
   {
    "data": "300-03-05",
-   "co": "BIALY PORT - MIRA. CO WOLNO ZROBIC DZIS I CO TO KOSZTUJE. ### (a) KRUK ODWROTNY - dwa dni, jedyna rzecz szybsza od konia. Niesie slowa. ### (b) WYJAZD WCZESNIEJ - dwa dni urwane z szesciu do osmiu; kosztuje wszystko, co ma date 03-06 i 03-07: jedna karta rak, jedenascie odpowiedzi, czystopis Prawa Spichlerza, soltysi, odczyt progu Fosy, przywilej bagienny, karta odhaczen Garricka. ### (c) NIC WIECEJ NIE MA. Maester jest na Fosie i kon go nie doniesie szybciej. Nina tak samo. Zadna sila na Polnocy nie skraca szesciu dni do dwoch. ### TO NIE JEST WYBOR MIEDZY ZONA A LENNEM - to wybor miedzy dwoma dniami a siedmioma pozycjami, przy czym dwa dni NIE ZMIENIAJA WYNIKU.",
+   "co": "BIALY PORT - MIRA. CO WOLNO ZROBIC DZIS I CO TO KOSZTUJE. ### (a) KRUK ODWROTNY - dwa dni, jedyna rzecz szybsza od konia. Niesie slowa. ### (b) WYJAZD WCZESNIEJ - dwa dni urwane z szesciu do osmiu; kosztuje wszystko, co ma date 03-06 i 03-07: jedna karta rak, jedenascie odpowiedzi, czystopis Prawa Spichlerza, soltysi, odczyt progu Fosy, przywilej bagienny, karta odhaczen Garricka. ### (c) NIC WIECEJ NIE MA. Maester jest na Fosie i kon go nie doniesie szybciej. Nina tak samo. Zadna sila na Polnocy nie skraca szesciu dni do dwoch. ### TO NIE JEST WYBOR MIEDZY ZONA A LENNEM - to wybor miedzy dwoma dniami a siedmioma pozycjami, przy czym dwa dni NIE ZMIENIAJA WYNIKU. ### ZAMKNIETE 300-03-05: gracz wybral (a) I (b) NARAZ - kruk poszedl przed nim, a on wyjechal dwa dni przed terminem. Nastepna wiadomosc z Bialego Portu spodziewana 300-03-10 (odpowiedz na jego kruka) albo wczesniej, jesli z portu wyszedl jezdziec w gore traktu.",
    "kto": "SYMON",
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-03-07",
    "zamyka": "decyzja gracza i nastepna wiadomosc z Bialego Portu",
-   "status": "otwarte - DECYZJA DZIS"
+   "status": "zrobione 300-03-05 - wybrano OBIE drogi"
   },
   {
    "data": "300-03-30",
@@ -1647,6 +1647,15 @@
    "wraca": "300-04-06",
    "zamyka": "odpowiedz Aemona ALBO potwierdzenie, ze list doszedl i milczy",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-08",
+   "co": "⚡ DNO STALO SIE CENA - PIERWSZY SKUTEK UBOCZNY PRAWA SPICHLERZA, USLYSZANY NA TRAKCIE (rzut 73). Slup w Cailin stanal 300-03-04 z trzema liczbami zbozowymi; jedzie teraz na polnocny wschod z kazdym wozem. Furmani gadaja o nowym mycie DOBRZE - procent zamiast dwunastu jeleni od wozu, bo plaska oplata byla podatkiem od biedy i oni to czuli, zanim ktokolwiek to nazwal. ### ALE O ZBOZU MOWIA TAK: 'TERAZ PLACA TRZY-CZTERDZIESCI CZTERY ZA OWIES'. NIE 'NIE MNIEJ NIZ' - 'PLACA'. ### DNO OGLOSZONE JAKO LICZBA STAJE SIE JEDYNA LICZBA, KTORA WSZYSCY ZNAJA, WIEC SKUP PRZESTAJE PLACIC WIECEJ, A CHLOP PRZESTAJE PROSIC WIECEJ. Cena minimalna zakotwiczyla rynek NA SOBIE - zamiast podlogi zrobila sie polka. ### TO NIE JEST BLAD W PRAWIE, TYLKO BRAK JEDNEGO ZDANIA OBOK LICZBY. ### ⚠ I SLYCHAC TO TYLKO STAD: przy stole tej rzeczy nie widac, bo w ksiedze skupu wszystko zgadza sie z ogloszeniem CO DO MIEDZIAKA - i wlasnie to jest objaw. DOKTRYNA: liczba ogloszona jako najmniejsza wraca jako jedyna, jesli nikt nie ogłosil obok niej, ile wynosi cena.",
+   "kto": "SYMON -> HERWIN + lawa (slup) i GERRIK RACHUBA (ksiega skupu)",
+   "kanal": "kruk Fosa-Bialy Port",
+   "wraca": "300-03-11",
+   "zamyka": "zdanie obok dna na slupie ALBO swiadoma decyzja, ze dno zostaje sama liczba",
+   "status": "otwarte - DECYZJA GRACZA"
   }
  ]
 }

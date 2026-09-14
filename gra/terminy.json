@@ -1602,6 +1602,15 @@
    "wraca": "300-03-12",
    "zamyka": "trzecia reka wskazana i przyjeta PRZEZ OBIE STRONY - albo pomiar robi sie od nowa razem",
    "status": "otwarte - DECYZJA GRACZA"
+  },
+  {
+   "data": "300-03-06",
+   "co": "ROZSTRZYGNIECIE GRACZA: CALE 695 W TOWARZE, ANI SMOKA W MONECIE. Zmiana warunku (1) Hala ('sto w monecie teraz') - wycofana przez pana. UZASADNIENIE PANA: Dom wyswiadczyl Koronie przysluge wlasnymi liniami, finansujac zboze; zaplaty chce w towarze, ktory spienięzy sam. ### CO TO DAJE KORONIE: sto smokow WOLNEJ MONETY zostaje w Skarbie w miesiacu, w ktorym Gawen odpisal na jedna pozycje z pieciu z jednego powodu - 'skarb nie ma czym'. 695 to niemal jedna piata wszystkiego, co Korona bierze w monecie przez caly rok; te sto jest realna ulga, nie gestem. ### ⚠ CO TO KOSZTUJE DOM - I TO JEST DOKLADNIE TEN SAM MARZEC: 340 W WEKSLACH ZAPADA W TYM MIESIACU, A WEKSEL PLACI SIE MONETA, NIE SOLA. Sto w monecie bylo tym, co czynilo marzec cichym (liczba gracza z 300-01-27). Bez niego luka plynnosciowa wraca. ### ROZWIAZANIE, KTORE NIE WYMAGA PROSZENIA NIKOGO: warunek (2) Hala rozszerzony - DOM WYBIERA NIE TYLKO CO, ALE I W JAKIEJ KOLEJNOSCI. Pierwsza partia to towar NAJSZYBCIEJ ZBYWALNY w Bialym Porcie (sol, ryba solona), bursztyn i drewno pozniej. Towar szybki schodzi na marcowy papier, towar wolny na marze. ### DOKTRYNA: kolejnosc odbioru jest czescia ceny, tylko nikt jej tak nie liczy.",
+   "kto": "HAL SIEROTA (sciaga) + GAWEN",
+   "kanal": "jezdziec Fosa-Bialy Port",
+   "wraca": "300-03-13",
+   "zamyka": "pismo do Gawena: calosc w towarze, lista i KOLEJNOSC partii wybrana przez Dom",
+   "status": "otwarte"
   }
  ]
 }

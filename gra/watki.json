@@ -413,7 +413,7 @@
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod.",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "refinansowanie_dlugu",
@@ -5058,7 +5058,7 @@
    "id": "ustroj_urzedow_redundancja_299_09_10",
    "tytul": "Ustroj urzedow i KADRY Korony - p.o. niesie robote, nie obejmuje urzedu",
    "status": "projekt_narada_dzis_rada_po_powrocie_krola",
-   "_dziennik_nota": 13,
+   "_dziennik_nota": 14,
    "filar": "USTROJ URZEDOW I KADRY KORONY",
    "stan_watku": "ZYWY"
   },
@@ -5650,7 +5650,7 @@
   {
    "id": "kancelaria_namiestnika_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 48,
+   "_dziennik_nota": 49,
    "filar": "KANCELARIA NAMIESTNIKA (Fosa)",
    "stan_watku": "ZYWY"
   },
@@ -6174,7 +6174,7 @@
   {
    "id": "ucho_korony",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "kanal_olenna",

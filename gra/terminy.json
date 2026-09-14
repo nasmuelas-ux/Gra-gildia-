@@ -375,7 +375,7 @@
       "co": "PRZYPOMNIENIE O REJESTRATORZE KORONY. Jedno zdanie, bez nazwiska, spisane przez Garricka pod dyktando: 'KRZESLO REJESTRATORA KORONY STOI PUSTE CZWARTY MIESIAC. NAZWISKA NIE PODAJE, BO ZASTRZEGLISCIE JE SOBIE. PODAJE DATE.' Ten sam goniec co prosba o zwyczaj, OSOBNA KARTA - zeby nie zamienic tamtej w upomnienie. UWAGA: UCHO KORONY I REJESTRATOR KORONY TO JEDNO KRZESLO (odkryte 300-02-27) - puste jest wieksze, niz wyglada.",
       "kto": "SYMON -> ROBB STARK",
       "zamyka": "NAZWISKO OD KROLA. A jesli do Rady 300-03-30 nie przyjdzie - ZAMYKA TO MILCZENIE: przestaje byc prosba bez odpowiedzi, a staje sie faktem, ktory Namiestnik moze wypowiedziec na Radzie. Drugi raz sie nie prosi.",
-      "status": "otwarte - list POSZEDL 300-02-27, odpowiedzi nie bylo",
+      "status": "ZAMKNIETE 300-03-03 (rzut 17) - KROL ODPISAL. Krzeslo bylo juz raz ofiarowane i ODMOWIONO.",
       "kanal": "kruk Winterfell-Fosa",
       "wraca": "300-03-03"
     },
@@ -578,13 +578,13 @@
       "wraca": "299-12-01"
     },
     {
-      "data": "wyslane 299-12-18 - odpowiedz III/IV 300, NIE ZALEGLE",
-      "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem. ⚠ POPRAWKA PODWOJNA 300-03-03. Bylo 'za 37 dni' - ZLE W OBIE STRONY. Pismo dyktowano w XII/299 TAM, GDZIE CECH SIEDZI: w Braavos. Odpowiedz nie musi przeplywac morza - MUSI TYLKO WROCIC DO NAS. Wiec termin minal okolo 300-02-05 i TO JEST POZYCJA PRZETERMINOWANA O MIESIAC, a nie odlegla.",
+      "data": "odpowiedz 300-03-04",
+      "co": "PISMO DO CECHU PISARZY W SPRAWIE ILARIA. Dyktowane przez glowe domu, ktory juz nie utrzyma piora przez strone: ze oskarzenie, na ktorym cech oparl skreslenie, WYSZLO Z JEGO DOMU I BYLO FALSZYWE, i ze oswiadcza to WIEDZAC, ZE OSWIADCZA PRZECIW SOBIE. Jego wlasne ostrzezenie co do wartosci tego papieru zostalo zapisane razem z pismem. ⚠ POPRAWKA PODWOJNA 300-03-03. Bylo 'za 37 dni' - ZLE W OBIE STRONY. Pismo dyktowano w XII/299 TAM, GDZIE CECH SIEDZI: w Braavos. Odpowiedz nie musi przeplywac morza - MUSI TYLKO WROCIC DO NAS. ⚠ DRUGA KOREKTA 300-03-03, wskazanie gracza: odpowiedz MUSI WROCIC DO NAS MORZEM, a tego nie doliczylem. Pismo z 299-12-18 + narada cechu + rejs powrotny = ODPOWIEDZ SPODZIEWANA 300-03-04. Nie jest przeterminowana - JEST JUTRO.",
       "kto": "CECH PISARZY W BRAAVOS -> przez NESTE",
       "zamyka": "przywrocenie Ilaria na liste ALBO odmowa cechu na pismie",
-      "status": "otwarte - cech jest W BRAAVOS, 2,5 miesiaca w jedna strone; termin jeszcze nie minal",
+      "status": "otwarte - JUTRO",
       "kanal": "morze Bialy Port-Braavos",
-      "wraca": "300-02-05"
+      "wraca": "300-03-04"
     },
     {
       "data": "od 299-08-14 - STALE",
@@ -1368,6 +1368,33 @@
       "wraca": "300-03-13",
       "zamyka": "rozstrzygniecie, czym stoja weksle, jesli prog spadnie",
       "status": "otwarte - NOWE"
+    },
+    {
+      "data": "300-03-03 - PRZYSZLO",
+      "co": "ODPOWIEDZ KROLA O REJESTRATORZE (rzut 17). Kruk wrocil w cztery dni, tak jak mial. Trzy zdania, reka Berona pod dyktando. ### 'KRZESLO NIE STOI PUSTE Z ZANIEDBANIA. OFIAROWALEM JE RAZ, W LISTOPADZIE. CZLOWIEK ODMOWIL.' ### 'NIE PODALEM WAM NAZWISKA WTEDY I NIE PODAJE TERAZ, BO ODMOWA CUDZA NIE JEST RZECZA, KTORA SIE ROZGLASZA.' ### 'PODALISCIE MI DATE. ODDAJE WAM DRUGA: SZUKAM OD CZTERECH MIESIECY I NIE ZNALAZLEM.' ⚠ TO JEST GORSZE OD CISZY: przez piec miesiecy Namiestnik przypominal o krzesle, KTORE JUZ RAZ ODRZUCONO - i nie wiedzial, ze przypomina o czyms trudniejszym, niz mysli. Ucho Korony i Rejestrator to JEDNO krzeslo - a to znaczy, ze odmowil nie rachmistrz, tylko ktos, komu proponowano SLUCHAC.",
+      "kto": "ROBB STARK -> SYMON",
+      "kanal": "kruk Winterfell-Fosa",
+      "wraca": "300-03-03",
+      "zamyka": "przeczytane",
+      "status": "zrobione"
+    },
+    {
+      "data": "300-03-30",
+      "co": "REJESTRATOR NA RADZIE - TRESC ZMIENIONA PO ODPOWIEDZI KROLA. Nie pada juz 'ile dni krzeslo stoi puste' jako wyrzut, bo to nie zaniedbanie. PADA CO INNEGO I JEST MOCNIEJSZE: KROL SZUKA OD CZTERECH MIESIECY I NIE ZNALAZL, A KRZESLO JEST JEDNO NA DWA URZEDY - Rejestrator I Ucho. ### PYTANIE NA RADE: CZY NIE ROZDZIELIC TYCH DWOCH. Rachmistrza znajdzie sie w miesiac; czlowieka, ktory ma sluchac za Korone, nie znajdzie sie wcale, bo NIKT NIE CHCE BYC UCHEM Z IMIENIA. Odmowa z listopada jest na to dowodem, ktorego nikt nie znal.",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-30",
+      "zamyka": "pytanie postawione: rozdzielic krzeslo czy nie",
+      "status": "otwarte"
+    },
+    {
+      "data": "300-03-07",
+      "co": "KTO ODMOWIL W LISTOPADZIE - i czy wolno o to pytac. Krol nie poda nazwiska ('odmowa cudza nie jest rzecza, ktora sie rozglasza') i ma racje. ALE: kancelaria Korony prowadzi karte siedmiodniowa, a BERON pisal ten list pod dyktando. On wie. ⚠ PYTANIE DO ROZSTRZYGNIECIA PRZEZ GRACZA: czy pytac Berona o rzecz, ktorej Krol swiadomie nie podal. To jest proszenie urzednika, zeby obszedl wlasnego pana - i raz juz taka droge odrzucono (Garrick, 300-02-06).",
+      "kto": "SYMON",
+      "kanal": "wlasny czlowiek na Fosie",
+      "wraca": "300-03-07",
+      "zamyka": "decyzja: pytac Berona czy zostawic",
+      "status": "otwarte - DO ROZSTRZYGNIECIA"
     }
   ]
 }

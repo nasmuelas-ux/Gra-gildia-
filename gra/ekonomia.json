@@ -139,6 +139,28 @@
      "wzrost_mies": 0.015,
      "sufit": 180,
      "zrodlo": "⚑ USTALONE 300-03-15: TO BYLO ZANIZENIE, NIE BRAK. gra/EKONOMIA_BAZA.md wymienia WARSTWE KREDYTOWA wprost na liscie 'LINIE, KTORE ZARABIAJA' - obok lancucha konserwacji, przewozu, brokerki, skladow, arterii, mlynow i gospody - a jako JEDYNA z tej listy nie miala w silniku ANI JEDNEGO WIERSZA. Bilans 300-01-26 dodaje ocene jakosci: 'KREDYT BEZ ZLYCH DLUGOW'. Dom ma 420 wystawionych weksli w samej praktyce Lucana; dyskonto, listy kredytowe i rekojmie to osobny zarobek na tym samym papierze. Nie jest to obrot placowek i nie dubluje sie z nim - placowki handluja towarem, to handluje PEWNOSCIA. Od 300-03-13 obowiazuje sufit: papier nie przekracza towaru."
+    },
+    {
+     "nazwa": "PLACOWKA SEAGARD - zaklada sie (koszt, zanim zacznie dawac)",
+     "typ": "koszt",
+     "min": 18,
+     "max": 30,
+     "okres": "miesiac",
+     "od": "300-04-01",
+     "do": "300-09-30",
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-03-15: OTWIERAMY SEAGARD. Od kwietnia, bo marzec nie ma wolnej gotowki. ⚠ INACZEJ NIZ PENTOS, GDZIE DACH JUZ STAL - tu nie ma nic: najem, czlowiek, zapas. Pol roku kosztu, zanim linia zacznie dawac - potem wchodzi jako przychod (patrz pozycja nastepna)."
+    },
+    {
+     "nazwa": "PLACOWKA SEAGARD - przychod",
+     "typ": "przychod",
+     "min": 25,
+     "max": 60,
+     "okres": "miesiac",
+     "od": "300-10-01",
+     "do": null,
+     "wzrost_mies": 0.02,
+     "sufit": 330,
+     "zrodlo": "Port na ZATOCE ZELEZNYCH - trzecie morze Domu. Mallisterowie w rubryce ZBOZE I WIERNI zywej mapy Catelyn (298-10-01, rzut 87): 'nadmorscy, DOWIOZA'. Korytarz do Riverrun i Seagard naszkicowany z Edmure'em i Walderem Freyem. Sufit 330 - miedzy Rozdrozem a Riverrun, bo to port, ale port na najtrudniejszym morzu."
     }
    ],
    "nieznane": [

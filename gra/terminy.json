@@ -2712,11 +2712,29 @@
   },
   {
    "data": "300-04-01 - najwczesniej",
-   "co": "PLACOWKI W DORZECZU - PYTANIE GRACZA 300-03-15: Staw Dziewic, Solanki, Kamienny Sept, SEAGARD. ⚑ SEAGARD JEST JEDYNYM, KTORY ZYWA MAPA CATELYN (298-10-01, rzut 87) OCENIA WPROST I DOBRZE: Mallisterowie w rubryce ZBOZE I WIERNI, 'nadmorscy, DOWIOZA'. Port na Zatoce Zeleznych - TRZECIE MORZE DOMU. Korytarz do Riverrun i Seagard naszkicowany juz z Edmure'em i Walderem Freyem; NIKT PO NIM NIE POSZEDL. ⚠ CENA: Seagard patrzy na Wyspy Zelazne. ⚠ POZOSTALE TRZY nie sa w zadnej rubryce mapy i leza w pasie nazwanym MARTWYM (spalonym przez Gore) albo przy nim - zasada Medricka z Gulltown: 'placowka w miescie, ktorego nikt nie ocenil, jest zakladem, nie interesem'. ⚠ CZLOWIEK DO OCENY JEST OD 300-03-15: LYMAN OD BRODOW, zarzadca-wspolnik Riverrun. ⚠ TEMPO: w marcu nie ma wolnej gotowki (-215..+27). Jedna placowka mozliwa od kwietnia.",
+   "co": "PLACOWKI W DORZECZU - PYTANIE GRACZA 300-03-15: Staw Dziewic, Solanki, Kamienny Sept, SEAGARD. ⚑ SEAGARD JEST JEDYNYM, KTORY ZYWA MAPA CATELYN (298-10-01, rzut 87) OCENIA WPROST I DOBRZE: Mallisterowie w rubryce ZBOZE I WIERNI, 'nadmorscy, DOWIOZA'. Port na Zatoce Zeleznych - TRZECIE MORZE DOMU. Korytarz do Riverrun i Seagard naszkicowany juz z Edmure'em i Walderem Freyem; NIKT PO NIM NIE POSZEDL. ⚠ CENA: Seagard patrzy na Wyspy Zelazne. ⚠ POZOSTALE TRZY nie sa w zadnej rubryce mapy i leza w pasie nazwanym MARTWYM (spalonym przez Gore) albo przy nim - zasada Medricka z Gulltown: 'placowka w miescie, ktorego nikt nie ocenil, jest zakladem, nie interesem'. ⚠ CZLOWIEK DO OCENY JEST OD 300-03-15: LYMAN OD BRODOW, zarzadca-wspolnik Riverrun. ⚠ TEMPO: w marcu nie ma wolnej gotowki (-215..+27). Jedna placowka mozliwa od kwietnia. ### 300-03-15 ROZSTRZYGNIETE: OTWIERAMY SEAGARD (od kwietnia). LYMAN OCENIA POZOSTALE TRZY.",
    "kto": "SYMON / HAL / LYMAN OD BRODOW",
    "kanal": "kantor Bialy Port, potem Riverrun",
    "wraca": null,
    "zamyka": "decyzja: ktora placowka i kiedy - albo swiadome odlozenie",
+   "status": "ROZSTRZYGNIETE 300-03-15"
+  },
+  {
+   "data": "300-04-01",
+   "co": "PLACOWKA W SEAGARD - OTWARTA DECYZJA GRACZA 300-03-15, rusza od kwietnia (marzec nie ma wolnej gotowki). Koszt 18-30/mies przez pol roku, potem przychod 25-60 rosnaco, sufit 330. Trzecie morze Domu - Zatoka Zeleznych. CZLOWIEKA OBSADZA HAL swoim prawem; do pana idzie wiadomosc po fakcie (zasada 42). ⚠ WARUNEK, KTORY IDZIE PRZODEM: SLOWO DO LORDA JASONA MALLISTERA. Zywa mapa mowi 'wierni', ale to ocena z wojny, nie zgoda na kantor - a zasada Medricka z Gulltown brzmi: placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, JEST ZAKLADEM. Kanal: korytarz Edmure'a, ktory i tak konczy sie w Seagard. ⚠ CENA POLOZENIA: Seagard patrzy na Wyspy Zelazne.",
+   "kto": "HAL (obsada) / SYMON -> JASON MALLISTER (slowo)",
+   "kanal": "przez Lucana (Dorzecze)",
+   "wraca": "300-04-01",
+   "zamyka": "slowo Mallistera i czlowiek na miejscu",
+   "status": "otwarte - NOWE"
+  },
+  {
+   "data": "~300-04-06",
+   "co": "LYMAN OCENIA TRZY MIASTA: STAW DZIEWIC, SOLANKI, KAMIENNY SEPT. Rozkaz 300-03-15. ⚠ NIE MA ODPOWIADAC 'CZY WARTO' - TO PYTANIE DLA PANA. Ma podac TRZY RUBRYKI NA KAZDE MIASTO: co tam jeszcze stoi · kto tam rzadzi DZIS · czy ten ktos powiedzial juz komukolwiek TAK albo NIE. Liczby i nazwiska, bez wnioskow - jak w kazdej karcie tego domu. POWOD: zywa mapa Catelyn (298-10-01) dzieli Dorzecze na WIERNYCH, MARTWYCH i NIE LICZ, a tych trzech miast NIE MA W ZADNEJ Z TYCH RUBRYK. Lyman ma powiedziec, do ktorej naleza. Kanal przez Lucana: 10 dni tam, 21 w obie strony.",
+   "kto": "LYMAN OD BRODOW",
+   "kanal": "przez Lucana (Dorzecze)",
+   "wraca": "~300-04-06",
+   "zamyka": "trzy karty, trzy rubryki, bez wnioskow",
    "status": "otwarte - NOWE"
   }
  ]

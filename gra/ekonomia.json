@@ -49,32 +49,6 @@
      "max": 50
     },
     {
-     "nazwa": "zysk placowek (piec handlowych; Czarny Zamek OSOBNO od 300-01)",
-     "typ": "przychod",
-     "serie": {
-      "299-10": 385,
-      "299-11": 315,
-      "299-12": 215,
-      "300-01": 230,
-      "300-02": 265,
-      "300-03": 300
-     },
-     "zrodlo": "bilans_domu_tally_300_01 dla X-XII/299 (385/315/215). I-III/300 SYMULACJA USTALONA 300-03-15: dno grudniowe 215 mija, bo Czarny Zamek rosnie zima a Bialy Port trzyma; od marca trakt otwiera Fose i Rozdroze. Caly przedzial miesci sie w zapisanej syntezie 200-300/mies."
-    },
-    {
-     "nazwa": "obrot placowek (NIE zysk - pozycja informacyjna)",
-     "typ": "obrot",
-     "serie": {
-      "299-10": 2480,
-      "299-11": 2240,
-      "299-12": 1935,
-      "300-01": 2050,
-      "300-02": 2250,
-      "300-03": 2480
-     },
-     "zrodlo": "bilans_domu_tally_300_01 dla X-XII/299 (kwartal 6655). I-III/300 SYMULACJA USTALONA 300-03-15, ta sama krzywa co zysk; marzec wraca do poziomu pazdziernika wraz z traktem."
-    },
-    {
      "nazwa": "ubezpieczenia frachtu - broker kredytu i pewnosci",
      "typ": "przychod",
      "min": 10,
@@ -93,6 +67,42 @@
      "od": "300-01-01",
      "do": null,
      "zrodlo": "WYKONANE 300-03-15 polecenie Symona z 299-09-05, lezace bez ruchu poltora roku: 'ma byc wpisany OSOBNO, Z POWODEM, NA PISMIE'. Obrot 80-170/mies to SUFIT, nie stan przejsciowy - kilkuset niedozywionych ludzi w trzech zamkach. Marza bierze sie z KURSU, nie z ceny: bec7ka soli warta grosze w Bialym Porcie kupuje skory, za ktore w Braavos placi sie srebrem - bo oni nie maja z kim sie targowac, a Symon jest jedynym, kto tam jezdzi zima. POZYCJA UJEMNA JEST TU CENA, NIE PORAZKA. KTO KARMI MUR, TEN MUR TRZYMA."
+    },
+    {
+     "nazwa": "PAPIERNIA WATA - przychod netto (po wlasnym koszcie)",
+     "typ": "przychod",
+     "min": 15,
+     "max": 30,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.02,
+     "sufit": 60,
+     "zrodlo": "USTALONE 300-03-15 WSTECZ, na wskazanie gracza: PAPIERNIA MA MIEC DOCHOD. Dwie kadzie od 299-08-26, pierwsza partia z drugiej zeszla. JEDYNA PAPIERNIA NA POLNOCY, a Korona pisze coraz wiecej - 'pergamin dla Korony jest pozycja w mojej ksiedze, dlatego rozsylanie praw kosztuje tanio'. Dotad siedziala w aparacie jako koszt 12/mies i to byl pierwszy z pieciu powodow, dla ktorych obrot Domu czytal sie za nisko. ROSNIE, bo krolestwo zaczelo pisac; sufit 60 przy waskim gardle SZMAT."
+    },
+    {
+     "nazwa": "WARZELNIA SOLI I RYBA SOLONA - przychod netto",
+     "typ": "przychod",
+     "min": 40,
+     "max": 80,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.015,
+     "sufit": 160,
+     "zrodlo": "USTALONE 300-03-15 WSTECZ: rozkaz 299-08-12, warzelnia i rybacy. SOLONA RYBA = zimowa spizarnia bialka, ktorej lod nie zatrzyma i KTOREJ POLNOC NIE IMPORTUJE. Lancuch konserwacji to JEDYNA LINIA DOMU, KTORA ROSLA ZIMA (zapis EKONOMIA_BAZA.md) - wiec miala dochod i nie mogla go nie miec. Nie byla wpisana jako osobna linia, i to jest cala roznica."
+    },
+    {
+     "nazwa": "BEDNARNIA - CWIERC MANDERLYCH (Bialy Port)",
+     "typ": "przychod",
+     "min": 8,
+     "max": 16,
+     "okres": "miesiac",
+     "od": "300-03-13",
+     "do": null,
+     "wzrost_mies": 0.02,
+     "sufit": 40,
+     "zrodlo": "USTALONE 300-03-15: cwierc udzialu z umowy Tally-Manderly 300-03-13. NIE WSTECZ - nabyta wczoraj. Domyka lancuch sol-ryba-BECZKA, a beczki byly waskim gardlem tej linii. Rosnie razem z warzelnia."
     }
    ],
    "nieznane": [
@@ -466,5 +476,102 @@
   "_podstawa": "Rozstrzygniecie gracza: dziury w ksiegach sa brakiem ZAPISU, nie brakiem ZDARZEN. Zasada 3 - blad prowadzacego nie przechodzi na gracza. Watpliwosc rozstrzyga sie NA KORZYSC GRACZA.",
   "_metoda": "Nie wymyslam skali. Kotwicze w liczbach, ktore JUZ STOJA: seria 385/315/215 (X-XII/299), synteza 200-300/mies netto i 60% pulapu (299-09-05), oraz zapisana SEZONOWOSC (Fosa i Rozdroze zalamuja sie zima, Czarny Zamek rosnie zima, Bialy Port trzyma caly rok).",
   "_status": "USTALONE - MA MOC ZAPISU (zasada 43). Liczb ponizej NIE kwestionuje sie ponownie i NIE wraca sie do nich jako do 'nieznanych'. Zmienia je wylacznie zdarzenie w grze."
+ },
+ "_hal": {
+  "od": "299-09-01",
+  "opis": "EFEKT DYREKTORA. Hal Sierota prowadzi Dom jako dyrektor generalny; spis 299-09-05 wymienia go na tym krzesle. IM DLUZEJ NIM ZARZADZA, TYM LEPSZA MARZA - zna kontrahentow, zna sezony, przestaje kupowac drogo i sprzedawac tanio, a od 300-01-26 obsadza filie SAM, wiec ludzie na miejscach sa jego, nie przypadkowi.",
+  "marza_start": 0.115,
+  "marza_sufit": 0.2,
+  "przyrost_marzy_na_miesiac": 0.0035,
+  "zrodlo": "Zakotwiczone w zapisie: XII/299 zysk 215 na obrocie 1935 = 11,1% - to DNO ZIMY i punkt startowy. X/299 dawal 385 na 2480 = 15,5%. Sufit 20% to gorna granica brokerki przy marzy handlowej 12-18%, ktora Hal sam stosuje przy towarze Korony."
+ },
+ "_model_placowek": {
+  "_opis": "OBROT KAZDEJ PLACOWKI ROSNIE KU SWOJEMU PULAPOWI. Pulap z spis_przedsiebiorstw_299_09.md; baza z bilansu 300-01-26 (XII/299).",
+  "_wzor": "obrot(m) = min(pulap_max, baza * (1+wzrost)^(m - XII/299)) * sezon(m); zysk = obrot * marza_hala(m)",
+  "_zrodlo_sezonu": "spis_przedsiebiorstw_299_09.md: 'Fosa i Rozdroze ZALAMUJA SIE zima. Czarny Zamek ROSNIE zima. Bialy Port trzyma caly rok, bo nie zamarza.'",
+  "placowki": {
+   "Bialy Port": {
+    "baza_xii": 545,
+    "pulap": 700,
+    "wzrost": 0.018,
+    "sezon": {
+     "zima": 1.0,
+     "wiosna": 1.05,
+     "lato": 1.08,
+     "jesien": 1.05
+    },
+    "nota": "Port, ktory nie zamarza - jedyna placowka bez dolka zimowego."
+   },
+   "Riverrun": {
+    "baza_xii": 460,
+    "pulap": 580,
+    "wzrost": 0.016,
+    "sezon": {
+     "zima": 0.92,
+     "wiosna": 1.05,
+     "lato": 1.1,
+     "jesien": 1.03
+    },
+    "nota": "Kompania Polnoc-Dorzecze, przepustki, tranzyt."
+   },
+   "Fosa Cailin HQ": {
+    "baza_xii": 355,
+    "pulap": 500,
+    "wzrost": 0.022,
+    "sezon": {
+     "zima": 0.8,
+     "wiosna": 1.1,
+     "lato": 1.18,
+     "jesien": 1.05
+    },
+    "nota": "ZALAMUJE SIE ZIMA, ale rosnie najszybciej - trakt, grobla, brama, miasteczko i przewloka nakladaja sie na siebie."
+   },
+   "Winterfell": {
+    "baza_xii": 300,
+    "pulap": 420,
+    "wzrost": 0.015,
+    "sezon": {
+     "zima": 0.95,
+     "wiosna": 1.05,
+     "lato": 1.08,
+     "jesien": 1.02
+    },
+    "nota": "Dwor, kontrakty, obsluga Korony - popyt urzedowy nie ma pory roku."
+   },
+   "Rozdroze": {
+    "baza_xii": 185,
+    "pulap": 330,
+    "wzrost": 0.017,
+    "sezon": {
+     "zima": 0.78,
+     "wiosna": 1.12,
+     "lato": 1.22,
+     "jesien": 1.06
+    },
+    "nota": "Najruchliwsze skrzyzowanie Westeros - i dlatego najglebszy dolek zimowy."
+   }
+  },
+  "sezony": {
+   "zima": [
+    12,
+    1,
+    2
+   ],
+   "wiosna": [
+    3,
+    4,
+    5
+   ],
+   "lato": [
+    6,
+    7,
+    8
+   ],
+   "jesien": [
+    9,
+    10,
+    11
+   ]
+  }
  }
 }

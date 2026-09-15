@@ -79,6 +79,49 @@ def seria_za(poz, r, m):
     return None if v is None else float(v)
 
 
+def miesiecy_od(txt, r, m):
+    """Ile pelnych miesiecy uplynelo od daty 'txt' do miesiaca (r,m)."""
+    v = parsuj(txt)
+    if not v:
+        return 0
+    return max(0, (r * MIES_W_ROKU + m) - (v[0] * MIES_W_ROKU + v[1]))
+
+
+def marza_hala(E, r, m):
+    """Marza Domu rosnie z kazdym miesiacem, ktory Hal spedzil na krzesle."""
+    h = E.get("_hal")
+    if not h:
+        return None
+    n = miesiecy_od(h["od"], r, m)
+    return min(h["marza_sufit"], h["marza_start"] + n * h["przyrost_marzy_na_miesiac"])
+
+
+def sezon_dla(M, m):
+    for nazwa, mies in M["sezony"].items():
+        if m in mies:
+            return nazwa
+    return "wiosna"
+
+
+def placowki_za(E, r, m):
+    """Zwraca (obrot, zysk, rozbicie) dla miesiaca (r,m)."""
+    M = E.get("_model_placowek")
+    if not M:
+        return None
+    n = miesiecy_od("299-12-01", r, m)
+    sez = sezon_dla(M, m)
+    marza = marza_hala(E, r, m)
+    obrot = zysk = 0.0
+    roz = []
+    for nazwa, p in M["placowki"].items():
+        o = min(p["pulap"], p["baza_xii"] * ((1.0 + p["wzrost"]) ** n)) * p["sezon"][sez]
+        z = o * marza
+        obrot += o
+        zysk += z
+        roz.append((nazwa, o, z))
+    return (obrot, zysk, roz, marza, sez)
+
+
 def fmt(lo, hi, szer=0):
     t = ("%+.2f" % lo) if abs(lo - hi) < 1e-9 else ("%+.2f..%+.2f" % (lo, hi))
     return t.rjust(szer) if szer else t
@@ -126,6 +169,22 @@ def licz(zakres, r, m, d=None):
                         "powod": "brak zapisu dla %d z %d miesiecy zakresu" % (brak, len(mies))})
                 continue
             st = na_dzien(poz)
+            if st is not None and poz.get("wzrost_mies"):
+                # wzrost skladany od daty 'od', z sufitem
+                mies = sorted(set((a, b) for a, b, _ in dni_lista))
+                lo = hi = 0.0
+                for (a, b) in mies:
+                    if not w_oknie(poz, a, b, 15):
+                        continue
+                    n = miesiecy_od(poz.get("od"), a, b)
+                    mn = min(poz.get("sufit", 1e9), float(poz.get("min", 0)) * ((1 + poz["wzrost_mies"]) ** n))
+                    mx = min(poz.get("sufit", 1e9), float(poz.get("max", 0)) * ((1 + poz["wzrost_mies"]) ** n))
+                    zn = -1.0 if poz.get("typ") == "koszt" else 1.0
+                    lo += zn * mn
+                    hi += zn * mx
+                if abs(lo) > 1e-9 or abs(hi) > 1e-9:
+                    wiersze.append((poz["nazwa"] + " [rosnie]", lo, hi, poz["zrodlo"]))
+                continue
             if st is None:
                 nieznane.append({"nazwa": poz.get("nazwa", "?"),
                                  "powod": "brak stawki i brak widelek"})
@@ -138,6 +197,24 @@ def licz(zakres, r, m, d=None):
             if abs(lo) > 1e-9 or abs(hi) > 1e-9:
                 (obrot if poz.get("typ") == "obrot" else wiersze).append(
                     (poz["nazwa"], lo, hi, poz["zrodlo"]))
+
+        if nazwa.startswith("KASA 1") and E.get("_model_placowek"):
+            mies = sorted(set((a, b) for a, b, _ in dni_lista))
+            so = sz = 0.0
+            ost = None
+            for (a, b) in mies:
+                if (a * MIES_W_ROKU + b) < (299 * MIES_W_ROKU + 12):
+                    continue
+                o, z, roz, marza, sez = placowki_za(E, a, b)
+                so += o
+                sz += z
+                ost = (roz, marza, sez)
+            if sz:
+                wiersze.insert(0, ("zysk PIECIU placowek handlowych [model wzrostu]", sz, sz,
+                                   E["_model_placowek"]["_wzor"]))
+                obrot.append(("obrot pieciu placowek [model wzrostu]", so, so, "model"))
+                kasa = dict(kasa)
+                kasa["_rozbicie"] = ost
 
         zdarz = []
         for z in E.get("zdarzenia", []):
@@ -194,6 +271,13 @@ def drukuj(zakres, r, m, d, wynik):
         print("  %-62s %s" % ("RAZEM", fmt(slo, shi, 13)))
         glo += slo
         ghi += shi
+        roz = k["_kasa"].get("_rozbicie")
+        if roz:
+            lista, marza, sez = roz
+            print("  --- rozbicie placowek, OSTATNI miesiac zakresu (sezon: %s, marza Hala: %.1f%%) ---"
+                  % (sez, marza * 100))
+            for (n, o, z) in lista:
+                print("      %-28s obrot %8.1f   zysk %7.1f" % (n, o, z))
         if k["obrot"]:
             print("  --- obrot (informacyjnie, NIE wchodzi do wyniku) ---")
             for (n, lo, hi, zr) in k["obrot"]:

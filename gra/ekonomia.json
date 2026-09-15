@@ -125,8 +125,8 @@
      "od": "299-09-01",
      "do": null,
      "wzrost_mies": 0.015,
-     "sufit": 140,
-     "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza. TO NIE JEST TO SAMO, CO OBROT PLACOWKI RIVERRUN (545/505/460) - tamto jest wlasny handel Domu, przepustki i tranzyt. TO JEST OSOBNA UMOWA, zawarta swiadomie 299-08-22: 'DOM HANDLOWY TALLY - OSOBNA UMOWA jako NAJETY KOORDYNATOR z JAWNIE WPISANA STAWKA - nie strona kompanii, lecz USLUGODAWCA, KTOREGO MOZNA WYMIENIC'. ⚠ I TO JEST CALY SENS TEJ KONSTRUKCJI, nie drobiazg ksiegowy: STAWKA, NIE UDZIAL W ZYSKU. Gawen powiedzial to wprost przy stole: 'jesli podpiszecie za Korone i wezmiecie prowizje od Kompanii, to nie ja bede musial tego bronic - WY BEDZIECIE, PRZEDE MNA TEZ'. Stad trzy podpisy trzema roznymi piorami i zasada: ZADNA Z RAK SYMONA NIE PODPISUJE TEGO, CO PRZYZNALA DRUGA. ROSNIE, bo Kompania jest DWUKIERUNKOWA ARTERIA - zboze Reach na polnoc, polnocne drewno i futra na poludnie - i plynie CALY ROK przez wolny od lodu Bialy Port."
+     "sufit": 200,
+     "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza. TO NIE JEST TO SAMO, CO OBROT PLACOWKI RIVERRUN (545/505/460) - tamto jest wlasny handel Domu, przepustki i tranzyt. TO JEST OSOBNA UMOWA, zawarta swiadomie 299-08-22: 'DOM HANDLOWY TALLY - OSOBNA UMOWA jako NAJETY KOORDYNATOR z JAWNIE WPISANA STAWKA - nie strona kompanii, lecz USLUGODAWCA, KTOREGO MOZNA WYMIENIC'. ⚠ I TO JEST CALY SENS TEJ KONSTRUKCJI, nie drobiazg ksiegowy: STAWKA, NIE UDZIAL W ZYSKU. Gawen powiedzial to wprost przy stole: 'jesli podpiszecie za Korone i wezmiecie prowizje od Kompanii, to nie ja bede musial tego bronic - WY BEDZIECIE, PRZEDE MNA TEZ'. Stad trzy podpisy trzema roznymi piorami i zasada: ZADNA Z RAK SYMONA NIE PODPISUJE TEGO, CO PRZYZNALA DRUGA. ROSNIE, bo Kompania jest DWUKIERUNKOWA ARTERIA - zboze Reach na polnoc, polnocne drewno i futra na poludnie - i plynie CALY ROK przez wolny od lodu Bialy Port. ### ⚑ 300-03-15: RIVERRUN DOSTALO ZARZADCE-WSPOLNIKA (LYMAN OD BRODOW, rzut 94), wiec sufit podniesiony ze 140 na 200 - placowka ma wreszcie czlowieka z wlasnym interesem w tym, zeby rosla."
     }
    ],
    "nieznane": [
@@ -139,8 +139,8 @@
      "powod": "Od 300-03-15 lenno dostaje za swoj towar PIENIADZ, nie zapis. NIE ZMIENIA TO ZYSKU DOMU - towar byl kupowany zawsze i jego cena siedzi w marzy. ZMIENIA PRZEPLYW: 40-90 smokow MIESIECZNIE WYCHODZI ZE SKRZYNI DOMU w monecie. ⚠ A SKRZYNIA PO WYKUPIE 340 JEST PRZY ZERZE. To jest pierwszy miesiac, w ktorym obie te rzeczy dziela sie ta sama moneta."
     },
     {
-     "nazwa": "⚠ RIVERRUN NIE MA ZARZADCY-WSPOLNIKA",
-     "powod": "Wakat wypisany przez samego HALA, bez proszenia, przy reformie spolek - jeden z czterech. Placowka, ktora obsluguje Kompanie Polnoc-Dorzecze i caly tranzyt przez Przesmyk, nie ma czlowieka z udzialem. Dopoki go nie ma, pulap 580 jest sufitem teoretycznym: nikt tam nie ma wlasnego interesu w tym, zeby rosl."
+     "nazwa": "⚑ MARZEC DOMYKA SIE BEZ SPOZNIONEJ PARTII I BEZ TYKANIA RIVERRUN",
+     "powod": "95 + 110 + 90 + 50 z kamieniczki = 345 przy 340 zapadajacych. PIEC SMOKOW ZAPASU. Slowa Hala: 'domknela go KAMIENICZKA, ktora kazaliscie sprzedac pierwszego pazdziernika - CZTERY MIESIACE, zanim ktokolwiek wiedzial, ze bedzie potrzebna'. ⚠ WIEC DOM NIE POTRZEBUJE 695 W MARCU, ZEBY PRZEZYC. POTRZEBUJE ODPOWIEDZI - a to jest inna sprawa. Sztorm opoznia towar, nie wykup."
     }
    ],
    "synteza": {
@@ -513,12 +513,12 @@
    "status": "wykonane"
   },
   {
-   "data": "300-03-16",
+   "data": "300-03-11",
    "kasa": "KASA 1 - DOM HANDLOWY TALLY",
-   "kwota": 45,
-   "opis": "PIERWSZA PARTIA SOLI I RYBY z towaru Korony - domyka wykup 340. NIE WESZLA 03-13 (sztorm, rzut 7) ani 03-14/15 (pogoda 20).",
-   "zrodlo": "rachunek marca 300-03-11",
-   "status": "OPOZNIONE - morze"
+   "kwota": 50,
+   "opis": "SPRZEDAZ KAMIENICZKI PRZY SCHODACH - 50 smokow. ⚠ KOREKTA 300-03-15: mialem tu 45 z pierwszej partii soli i ryby i BYLO TO ZLE. Zapis 300-03-11 podaje inny sklad rachunku marca i jest lepszy: 95 w skrzyni + 110 zejscie ze stanow + 90 koniec zaliczkowania + 50 z kamieniczki = 345, ZAPADA 340.",
+   "zrodlo": "bilans_domu_tally_300_01, rachunek marca 300-03-11",
+   "status": "WYKONANE - marzec domyka sie z pieciu smokami zapasu"
   },
   {
    "data": "300-03-13",

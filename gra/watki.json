@@ -5912,7 +5912,7 @@
   {
    "id": "bilans_domu_tally_300_01",
    "status": "otwarty",
-   "_dziennik_nota": 32,
+   "_dziennik_nota": 33,
    "filar": "BILANS DOMU TALLY",
    "stan_watku": "ZYWY"
   },
@@ -6320,7 +6320,7 @@
   {
    "id": "kompania_polnoc_dorzecze",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

@@ -36,7 +36,7 @@ HORYZONT = int(sys.argv[1]) if len(sys.argv) > 1 else 3
 
 zal, dzis, blisko, bez = [], [], [], []
 for t in T.get("terminy", []):
-    if "otwarte" not in (t.get("status") or ""):
+    if "otwarte" not in (t.get("status") or "").lower():
         continue
     n, _ = parsuj(t.get("wraca"))
     if n is None:

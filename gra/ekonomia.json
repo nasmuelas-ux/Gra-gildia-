@@ -80,6 +80,10 @@
     {
      "nazwa": "⚠ CZARNY ZAMEK WPISANY JAKO PLACOWKA HANDLOWA",
      "powod": "BLAD DO POPRAWIENIA W KSIEDZE, nazwany przez Symona 299-09-05 i DO DZIS NIEWYKONANY: 'Czarny Zamek stoi w rubryce placowek z pozycja ujemna. Za piec lat dyrektor, ktory nie bedzie pamietal po co, ZAMKNIE GO JAKO NIERENTOWNY - I BEDZIE MIAL RACJE ARYTMETYCZNA. Ma byc wpisany OSOBNO, Z POWODEM, NA PISMIE.' TO NIE JEST PLACOWKA HANDLOWA - TO POSTERUNEK POLITYKI. Kto karmi Mur, ten Mur trzyma. Marza bierze sie z KURSU, nie z ceny. 80-170/mies to SUFIT, nie stan przejsciowy."
+    },
+    {
+     "nazwa": "BURSZTYN - CO NAPRAWDE DZIELI 4 JELENIE OD 25-50 SMOKOW",
+     "powod": "SUROWIEC JEST ZALATWIONY (korekta gracza 300-03-15). Z diagnozy 299-08-23 zostaje WIEC DRUGA POLOWA, ktorej nikt nie zamknal: BRAK MANDATU - cel, wolumen i KANAL SPRZEDAZY. Slowa z 299-08-23: 'linia bursztynowa odlozona w wojne slusznie, ale wojna skonczyla sie w MAJU i nikt jej nie odwiesil'. Zapis 298-09-12 dodaje druga przyczyne: ZLY SEZON NA LUKSUS - w wojne nikt nie kupuje cacek, a marka luksusowa to SLOW BUILD. Od maja 299 jest pokoj. LICZBY OBROTU ZA ROK 300 NIE MA."
     }
    ],
    "synteza": {
@@ -132,12 +136,9 @@
     {
      "nazwa": "WARSZTAT BURSZTYNU - MARRO",
      "rodzaj": "wytworcze",
-     "stan": "Mistrz sprowadzony z Braavos. Cztery sztuki mistrzowskie w sierpniu, trzy sprzedane. 1-5 smokow za sztuke, wybitna 10+.",
-     "teraz_mies": 0.02,
-     "potencjal_mies_min": 25,
-     "potencjal_mies_max": 50,
-     "w_ksiegach": "⚠ DZIS +4 JELENIE/MIES (0,02 smoka). POTENCJAL PO PRZESTAWIENIU NA SEGMENT MISTRZOWSKI: 25-50/MIES - czyli TYSIACKROTNIE wiecej. Blokada: SUROWIEC. Marro siedzi rok bez kamieni.",
-     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+     "stan": "Mistrz sprowadzony z Braavos 298-07-30. Cztery sztuki mistrzowskie w sierpniu, trzy sprzedane. 1-5 smokow za sztuke, wybitna 10+. LINIA ITEROWANA Z MIRA jako okiem rynku (wahadlo surowe-generyczne, srodek to 'rozmyslna powsciagliwosc'); mistrzowie wrocili do pelnej roboty.",
+     "w_ksiegach": "⚠ W ZAPISIE Z GRUDNIA +4 JELENIE/MIES (0,02 smoka). POTENCJAL 25-50/MIES po przestawieniu na segment mistrzowski. ⚠⚠ VOID 300-03-15: 'Marro siedzi rok bez kamieni' TO NIEPRAWDA. Diagnoza BRAKU SUROWCA jest z 299-08-23 i ZOSTALA ROZWIAZANA - wskazanie gracza, drugi raz. BLOKADA SUROWCOWA NIE ISTNIEJE.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md + bursztyn_braavos_edge + korekta gracza 300-03-15"
     },
     {
      "nazwa": "MLYN (Bialy Port)",

@@ -1325,7 +1325,8 @@
    "_dziennik_stan": 8,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
-   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod."
+   "stan_powod": "Kubel A - epoka przed urzedem (Bialy Port / Braavos / cechy / Antaryon). Sprawa skonczona. Zapisu nie wykreslono, dopisano powod.",
+   "_dziennik_nota": 1
   },
   {
    "id": "plan_faktorski_wiosna",

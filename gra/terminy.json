@@ -1,6 +1,6 @@
 {
  "_opis": "JEDYNE ZRODLO PRAWDY O TERMINACH. Kalendarz ranka generuje sie STAD, nie z pamieci. Kazda pozycja: co / kto / data / czym sie zamyka.",
- "_aktualizacja": "300-03-16",
+ "_aktualizacja": "300-03-17",
  "_legenda": {
   "zamyka": "zdarzenie, ktore konczy pozycje - bez niego termin tylko mija",
   "status": "otwarte | zrobione | przepadlo",
@@ -411,9 +411,10 @@
    "co": "LIST DO LADY OLENNY TYRELL. Tresc: Polnoc przezywa zime; Dom chce wejsc do Highgarden PO CICHU, zeby moc rozmawiac blizej. PIERWSZY WLASNY RUCH DOMU NA REACH - nie pismo Namiestnika, tylko Domu Handlowego (Kasa 1). PODSTAWA RELACJI: od 300-02-25 to nie jest 'tajny kanal', tylko RELACJA HANDLOWA Z DRUGIM SPICHLERZEM WESTEROS - obie strony maja powod, zeby jej nie zerwac, i zadna nie musi tlumaczyc, po co pisze. ZBIEGA SIE Z: placowka HIGHGARDEN na liscie do Hala (Bialy Port ~300-03-13) - TEN SAM CEL, DWIE DROGI. Nie wysylac trzeciej. ⚠ KOREKTA KANALU 300-03-03: poszedl KRUKIEM, nie droga morska Domu - wiec wraca TYGODNIE, nie miesiace. Koszt tej szybkosci: lancuch maesterski na poludnie idzie przez STARMIASTO, a pismo mialo byc 'po cichu'.",
    "kto": "SYMON / DOM HANDLOWY TALLY -> OLENNA TYRELL",
    "zamyka": "odpowiedz z Highgarden ALBO zgoda na cicha placowke. Droga: Fosa -> Bialy Port (6-8 dni) -> morzem na poludnie; tam i z powrotem to TYGODNIE, nie dni.",
-   "status": "otwarte - w drodze, za wczesnie na cisze",
+   "status": "ZAMKNIETE 300-03-17 (rzut 20): odpowiedz Olenny przyszla - JEDNO ZDANIE, uprzejme, bez zgody i bez odmowy. Drzwi nie zamkniete i nie otwarte ani na palec. Placowka zostaje 'na spust'.",
    "kanal": "kruk Fosa-Highgarden",
-   "wraca": "300-03-17"
+   "wraca": "300-03-17",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "wyslany 300-02-07 - CISZA MIESIAC",
@@ -727,18 +728,20 @@
    "co": "POSLANIEC ZA MUR NIE WROCIL (rzut 20). Wyszedl 300-02-07 z przewodnikiem z klanow gorskich - jedyna droga. PRZEWODNIK WROCIL SAM PO DZIEWIECIU DNIACH: rozstali sie w umowionym miejscu, poslaniec poszedl dalej Z LUDZMI, KTORYCH PRZEWODNIK NIE ZNAL. Nikt nie wie, czy dotarl do Mance'a. NIE MA CIALA, NIE MA ODMOWY, NIE MA DELEGACJI.",
    "kto": "-",
    "zamyka": "delegacja przed brama, poslaniec, albo wiadomosc o nim - dowolne z trzech",
-   "status": "otwarte - AKT BEZ ODPOWIEDZI",
+   "status": "ZAMKNIETE 300-03-17 (Mur, rzut 99): przyszlo TRZECIE z trzech - WIADOMOSC O POSLANCU, o ktora nikt nie pytal.",
    "kanal": "za Mur",
-   "wraca": "300-03-17"
+   "wraca": "300-03-17",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-03 - WIADOMOSC JEST",
    "co": "TLUMACZ ZOSTAL (rzut 29) - pieniadze z Kasy 3 doszly i przyjal. ALE OSWIADCZYL OSRICOWI, ZE ZA MUR DRUGI RAZ NIE POJDZIE. Kanal do trzech ust istnieje; PRZEWODNIKA DO MANCE'A NIE MA. Drugiego poslanca nie ma kto poprowadzic. ### POPRAWKA 300-03-04 (zasada 42): TO NIE JEST ZADANIE DLA NAMIESTNIKA. Osric jest MARSZALKIEM CHORAGWI i szukanie przewodnika nalezy do niego - ma Mur, ma klany i ma ludzi. Do Symona wraca JEDNO Z DWOJGA: 'przewodnik jest, nazywa sie tak' albo 'nie ma i oto czego mi trzeba' (zasada 42 lit. d). Nie wraca pytanie 'kogo mu dac'.",
    "kto": "OSRIC - ROZWIAZUJE SAM, MELDUJE WYNIK",
    "zamyka": "meldunek Osrica: przewodnik jest ALBO nie ma i czego trzeba",
-   "status": "otwarte - NOWE WASKIE GARDLO",
+   "status": "ZAMKNIETE 300-03-17 (Mur, rzut 99): Osric zameldowal razem z reszta; sprawa przewodnika i tlumacza domknieta tym samym meldunkiem.",
    "kanal": "przez Osrica (Mur)",
-   "wraca": "300-03-17"
+   "wraca": "300-03-17",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "wyslany 300-03-02 o brzasku",
@@ -1099,7 +1102,8 @@
    "kanal": "siatka Willi",
    "wraca": "300-03-17",
    "zamyka": "odezwie sie albo zostaje spisany",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17 (rzut 5) - I ZAMKNIETE NAJGORZEJ Z MOZLIWYCH: KANAL SIE ODEZWAL we wlasciwej formie, wlasciwym znakiem, wlasciwa droga. WILLA MOWI, ZE TO NIE JEST JEGO REKA. Gorsze niz cisza: cisza znaczy, ze czlowiek nie moze pisac; TO znaczy, ze ktos inny ma jego znak i jego droge.",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-10",
@@ -1136,7 +1140,8 @@
    "kanal": "przez Osrica (Mur)",
    "wraca": "300-03-17",
    "zamyka": "miejsce, warunek i nazwisko - albo trzy razy nie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17 (Mur, rzut 99): TRZEJ DALI WSZYSTKIE TRZY - miejsce, warunek i nazwisko. ⚠ WARUNEK JEST TYM, CZEGO NIKT NIE PRZEWIDZIAL: nie boja sie lucznikow, BOJA SIE, ZE SIE ICH POLICZY I ZE LISTA POSLUZY. 'Wasz pan zapisuje ludzi. Widzielismy, co robicie z zapisanymi.'",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-05",
@@ -1208,7 +1213,8 @@
    "kanal": "przez Osrica (Mur)",
    "wraca": "300-03-17",
    "zamyka": "czlowiek wyszedl, imiona jego ludzi wpisane do rejestru Melli",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17 (Mur, rzut 99): DZIKI WYSZEDL, rozkaz z 300-03-03 wykonany co do litery. Imiona swoich ludzi spisal SAM przed wyjsciem - sa w rejestrze Melli, miejsce liczy sie OD DNIA WYJSCIA.",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-04-17",
@@ -2004,9 +2010,9 @@
    "co": "WSPOLNE PRZEJSCIE PRZEWLOKI - SZNUREM, POD TRZY PODPISY. Rozkaz idzie krukiem z Bialego Portu na Fose (2 dni, laduje 03-14). WEYLIN i ORBELO za Fose · czlowiek WYMANA · TOMMARD KOSA jako trzecia reka. ⚠ SYMON NIE MUSI PRZY TYM BYC I NIE BEDZIE - jedzie 03-15 dalej. Rzecz zlecona, obsadzona i opisana metoda idzie sama (zasady 7 i 42). ### ZEGAR: Tommard jest czlowiekiem Cerwyna TYLKO DO 300-03-30. Przejscie musi sie odbyc przed Rada albo trzecia reka znika. ### ⚠ RZUT NALEZY SIE TEMU PRZEJSCIU - ILE MIL WPADNIE W KTORA KLASE. Przy stawkach 8-12 / 18-25 / 35-50 kazda mila przesunieta o klase to kilkanascie do dwudziestu kilku smokow. JEDEN RZUT NA SPRAWE. ### 300-03-14: ⚠ SZTORM PRZESUNAL ROZKAZ. Ptak wyszedl dopiero dzis i laduje na Fosie 300-03-16, wiec przejscie NIE ODBEDZIE SIE 03-16 - najwczesniej 03-17/18. Tommard jest czlowiekiem Cerwyna do 03-30, termin sie miesci, ale zapas zjadl sztorm.",
    "kto": "WEYLIN + ORBELO + czlowiek WYMANA + TOMMARD KOSA",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-03-17/18",
+   "wraca": "300-03-18",
    "zamyka": "jedenascie mil z okladem rozpisane na klasy, trzy podpisy pod kazda mila",
-   "status": "otwarte"
+   "status": "otwarte - ROZKAZ WYSLANY 300-03-16 krukiem Bialy Port-Fosa, LADUJE 300-03-18. Przejscie odbywa sie tego dnia, nie wczesniej: kanal ma dwa dni i to jest cala przyczyna przesuniecia."
   },
   {
    "data": "300-03-13",
@@ -2213,7 +2219,8 @@
    "kanal": "kruk Fosa-Highgarden",
    "wraca": "300-03-17",
    "zamyka": "odpowiedz Olenny, a po niej decyzja o placowce",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17 (rzut 20): jedno zdanie bez zgody i bez odmowy. Hal czekal szesc dni i nie dostal nic, na czym da sie oprzec decyzje.",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-12",
@@ -2529,7 +2536,8 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-16",
    "zamyka": "pierwsza partia w skladzie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17 (pogoda, rzut 33): sztorm zszedl w nocy po trzech dobach, ale zostawil MARTWA FALE - nabrzeze otwiera sie w poludnie, przeladunek caly dzien zamiast pol. PARTIA WCHODZI DZIS, trzy dni pozniej niz miala. Wykupowi nic nie grozi: 345 przy 340 naleznych.",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-13",
@@ -2889,6 +2897,24 @@
    "kanal": "robota na miejscu (Bialy Port)",
    "wraca": "300-03-18",
    "zamyka": "trzecia czesc dopisana do konca i czytelna - albo urwana, i wiadomo gdzie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "co": "⚠ CZYJAS REKA NA KANALE WILLI - wiadomosc przyszla we wlasciwej formie, wlasciwym znakiem i wlasciwa droga, a Willa mowi, ze to nie jest jego reka. Kanal jest ZAJETY, nie martwy. Wszystko, co przez niego poszlo przez dwa tygodnie ciszy, trzeba przeczytac na nowo - nie jako wiadomosci, tylko jako to, CO KTOS CHCIAL, ZEBYSMY PRZECZYTALI. Willa nie posle na ten kanal drugiego czlowieka i mowila to, zanim to sie stalo.",
+   "kto": "WILLA",
+   "kanal": "siatka Willi",
+   "wraca": "300-03-19",
+   "zamyka": "czy kanal sie odstawia, czy uzywa sie go swiadomie w druga strone - rozstrzygniecie pana przed wyjazdem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "co": "⚠ CENA RUBRYKI, NAZWANA PRZEZ DRUGA STRONE (Mur, rzut 99). Trzej dzicy podali warunek, ktorego nikt nie przewidzial: NIE BOJA SIE LUCZNIKOW, BOJA SIE, ZE SIE ICH POLICZY I ZE LISTA POTEM POSLUZY. 'Wasz pan zapisuje ludzi. Widzielismy, co robicie z zapisanymi.' RUBRYKA, KTORA CZYNI SYMONA WIARYGODNYM DLA SWOICH, CZYNI GO GROZNYM DLA NICH - i to jest do rozstrzygniecia PRZED punktem 0 Rady, bo karta do Krola mowi 'osadzic', a osadzenie zaczyna sie od spisu.",
+   "kto": "SYMON",
+   "kanal": "decyzja pana",
+   "wraca": "300-03-30 (punkt 0 Rady)",
+   "zamyka": "odpowiedz na ich warunek: co gwarantuje spisanemu, ze lista nie posluzy przeciw niemu",
    "status": "otwarte"
   }
  ]

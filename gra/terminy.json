@@ -2834,7 +2834,8 @@
    "kanal": "decyzja pana, bez kanalu",
    "wraca": "300-03-19",
    "zamyka": "jeden adres i data, od ktorej obowiazuje - albo swiadome 'gon dalej'",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17: ADRES WINTERFELL, OD 300-03-19. I wiecej, niz Garrick prosil - GARRICK ZWIJA STOL NA FOSIE I JEDZIE SAM. Wyrusza ~300-03-19, staje ~300-03-25, piec dni przed Rada. 'Przestaje wysylac, bo siada obok.'",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-16",
@@ -2943,7 +2944,8 @@
    "kanal": "na miejscu, Bialy Port -> Rozdroze",
    "wraca": "300-03-19",
    "zamyka": "rozkaz: brac, patrzec czy odstawic - i kto to robi, z nazwiskiem",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17 - ROZSTRZYGNIECIE GRACZA: NIE BIERZEMY, OBSERWUJEMY. Trzy czesci: (1) HAL PLACI DALEJ, co do dnia, ta sama kwota, to samo miejsce - bo czlowiek przychodzi, dopoki sa pieniadze; (2) CZLOWIEK IDZIE PRZEZ LUCANA (kanal handlowy Dorzecza, NIE siatka), siada na Rozdrozu ~300-03-27, meldunek wraca ta sama droga do kantoru, nie przez rece Willi; (3) DERON NIETKNIETY - slowo z 299-07 stoi co do joty, Deron nie wie i nie ma sie dowiedziec; czlowiek, ktory nie wie, nie moze sie zdradzic.",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-17",
@@ -2953,6 +2955,33 @@
    "wraca": "bez daty - stoi, az pan rozstrzygnie",
    "zamyka": "poprawka do reguly wyplat na znak - albo jawne 'zostaje jak jest i wiemy dlaczego'",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "kto": "czlowiek Domu przez LUCANA (Dorzecze)",
+   "kanal": "przez Lucana (Dorzecze) - 10 dni tam, 21 lacznie",
+   "wraca": "~300-04-07",
+   "zamyka": "kto podejmuje na znak milczacej reki - rysopis, godzina, z kim przyszedl i dokad odszedl",
+   "status": "otwarte",
+   "co": "NASLUCH NA ROZDROZU - CZLOWIEK POD PRZYKRYWKA, KANALEM HANDLOWYM. Siada ~300-03-27; do tego czasu zejda jeszcze dwie albo trzy wyplaty i nikt ich nie zobaczy - KOSZT ODLEGLOSCI, NIE DECYZJI. MELDUNEK WRACA PRZEZ LUCANA DO KANTORU, NIE PRZEZ SIATKE WILLI. ⚠ DERON SUCHY POZA OPERACJA I POZA WIEDZA - slowo dane mu na pismie 299-07 stoi."
+  },
+  {
+   "data": "300-03-17",
+   "kto": "HAL SIEROTA (kantor Bialy Port)",
+   "kanal": "na miejscu / ksiega zaliczek",
+   "wraca": "stala dyspozycja - sprawdzana z kazdym meldunkiem z Rozdroza",
+   "zamyka": "nie zamyka sie - ma trwac, dopoki nasluch nie da nazwiska",
+   "status": "otwarte",
+   "co": "WYPLATY NA ZNAK MILCZACEJ REKI IDA DALEJ BEZ ZMIANY - dyspozycja stala. Co do dnia, ta sama kwota, to samo miejsce, zaden pisarz nie wie dlaczego. ⚠ W DNIU, W KTORYM WYPLATA NIE ZEJDZIE, ON PRZESTAJE PRZYCHODZIC I NIE DOWIEMY SIE O NIM JUZ NIGDY NICZEGO. To najtanszy nasluch, jaki ten Dom mial - i placi go ten, kogo sie slucha."
+  },
+  {
+   "data": "300-03-17",
+   "kto": "GARRICK - wskazuje sam (zasada 42)",
+   "kanal": "kruk Bialy Port-Fosa, potem trakt Fosa-Winterfell",
+   "wraca": "~300-03-25 (Winterfell)",
+   "zamyka": "nazwisko tego, kto siada za stolem kanclerza na czas Rady - zameldowane w Winterfell",
+   "status": "otwarte",
+   "co": "KTO SKLADA CALOSC NA FOSIE, GDY GARRICK JEDZIE DO WINTERFELL. Kanclerz zwija stol i rusza ~300-03-19, staje ~300-03-25. ⚠ CENA NAZWANA: Fosa traci na trzy tygodnie czlowieka, ktory sklada calosc - a zostaje grobla, sznur przez przewloke, siew, skup ziarna i 400 przybyszow w rejestrze Melli. WARRYN jest nadrzedny dla wszystkich budow od 300-03-04 i to trzyma ROBOTE - ale skladanie calosci to nie to samo co prowadzenie budow. ZASADA 42: pan obsadza glowe, glowa obsadza reszte. 'Jedziesz, a kto siada za twoim stolem - wskazujesz ty i meldujesz mi nazwisko w Winterfell.'"
   }
  ]
 }

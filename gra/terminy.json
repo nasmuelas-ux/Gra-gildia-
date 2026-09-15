@@ -1688,7 +1688,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "korce z rubryka stanu przy kazdej partii, cena osobna dla siewu, i wykaz wsi: ktora ma soltysa, ktora nie",
-   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): 26 korcy w 21 malych partiach, kazda z rubryka stanu, cena siewna osobna. WYKAZ WSI WYSZEDL SAM: wsie ktore nie sprzedaly nic to co do jednej te BEZ SOLTYSA - nie brak ziarna, brak kogo zapytac.",
+   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): 26 korcy w 21 malych partiach, kazda z rubryka stanu, cena siewna osobna. ### VOID 300-03-16 NA WSKAZANIE GRACZA: zdanie 'wsie bez soltysa' bylo BLEDEM PROWADZACEGO - wybory soltysow odbyly sie WE WSZYSTKICH WSIACH w 299-10, a jedyne miejsce bez soltysa (miasteczko Cailin) ma burmistrza Herwina od dawna. Czwarta zasada skupu z 300-03-09 pytala o rzecz rozstrzygnieta piec miesiecy wczesniej. ### PRAWDZIWY ODCZYT KSIEGI: brakujace korce siedza w PIATEJ WSI - podzial idzie nie po tym, CZY wies ma soltysa, tylko CZYJ on jest.",
    "zamkniete": "300-03-16"
   },
   {
@@ -2824,6 +2824,15 @@
    "wraca": "300-03-19",
    "zamyka": "jeden adres i data, od ktorej obowiazuje - albo swiadome 'gon dalej'",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-16",
+   "co": "PIATA WIES - SPRAWDZIC. Rozkaz gracza po VOID: ksiega skupu pokazala, ze brakujace korce siewne siedza w jednym miejscu. 299-10-19 (rzut 24): osadnicy wzieli wies, STARZY Z BAGNA NIE PRZYSZLI, 34 glosy na 61, LAWA PUSTA; zalatane wariantem II (starszenstwo paleniska, wlasciwosc soltysa ograniczona). Do skupu przyszli ci sami, ktorzy przyszli do wyborow - 'piata wies: dwie partie, obie od nowych' (Gerrik). ### TRZY PYTANIA OSOBNO: (1) ile korcy siewnych i u kogo, Z PODZIALEM STARZY/NOWI; (2) czy lawa przysiezna FAKTYCZNIE obsadzila sie starszenstwem paleniska, czy wariant II stoi tylko na papierze - lawa jest WARUNKIEM urzedu, nie ozdoba; (3) czy starzy ODMAWIAJA, czy NIE PRZYSZLI - odmowa jest wiadomoscia, milczenie jest dziura. ### METODA BEZ ZMIAN: NIE MIERZYC, SPYTAC - soltys z lawa, jawnie, dom po domu, jedno pytanie, nikt nie zaglada pod lozko. ROZNICA JEST ODPOWIEDZIA. ### STAWKA: SOLTYS PRZYSIEGA CALEJ FOSIE, NIE SWOIM (299-06-24).",
+   "kto": "WARRYN prowadzi bezstronnie + GERRIK RACHUBA liczy + PISARZ GRODZKI spisuje",
+   "kanal": "kruk Bialy Port-Fosa (tam 2, wraca lacznie 4)",
+   "wraca": "~300-03-23",
+   "zamyka": "liczba korcy z podzialem starzy/nowi + stan lawy przysieznej + odmowa albo milczenie, nazwane wprost",
+   "status": "otwarte ⚠ GDZIE DOJDZIE ODPOWIEDZ, ZALEZY OD ROZSTRZYGNIECIA PYTANIA GARRICKA O STALY ADRES (Symon wyjezdza 300-03-19)"
   }
  ]
 }

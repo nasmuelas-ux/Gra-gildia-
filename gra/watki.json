@@ -6335,12 +6335,17 @@
   {
    "id": "dziura_siewna_fosy",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 3
   },
   {
    "id": "stu_czternastu_odbitych",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "piata_wies",
+   "status": "otwarty",
+   "_dziennik_nota": 3
   }
  ]
 }

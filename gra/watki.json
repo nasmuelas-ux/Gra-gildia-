@@ -6356,6 +6356,21 @@
    "id": "trzy_odpisy_kroniki",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "dzicy_za_murem",
+   "status": "otwarty",
+   "_dziennik_nota": 2
+  },
+  {
+   "id": "pismo_do_krola_trzy_warunki",
+   "status": "otwarty",
+   "_dziennik_nota": 2
+  },
+  {
+   "id": "wielka_rada_300_03_30",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

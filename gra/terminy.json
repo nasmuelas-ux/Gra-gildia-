@@ -708,9 +708,10 @@
    "co": "TRZY WARUNKI KROLA PRZED OTWARCIEM BRAMY DZIKIM - postawione 300-02-06 i DO DZIS BEZ ODPOWIEDZI: (1) KTO IDZIE ZA MUR - 'nie wyslecie posla, POSEL TO JEST AKT; wyslecie kogos, kto umie tam wejsc i wyjsc'. (2) CO SIE ROBI Z DOWODEM - kto go niesie i przez ile mil, gdzie go trzymamy, kto przy nim stoi w nocy, CZYM GO ZABIJAMY, gdyby sie ruszyl: 'stal nie robi nic, ogien robi', a JEDYNE CZARNE SZKLO NA POLNOCY TO DWA OSTRZA W PLOTNIE. 'Jesli cos pojdzie nie tak, nie stracimy dowodu - STRACIMY WSZYSTKO, CO TEN DOWOD MIAL UDOWODNIC.' (3) CZYM ICH NAKARMIC - 20-40 TYSIECY, wiecej niz Bialy Port, w krolestwie, ktorego Krol policzyl JEDNA DZIESIATA spichlerzy. 'Nie mowie nie. Mowie, ze bez tej liczby otwarcie bramy jest WYROKIEM WYDANYM PRZEZ NIKOGO.'",
    "kto": "SYMON",
    "zamyka": "trzy odpowiedzi na pismie, przed punktem 0 Rady",
-   "status": "PROCESOWANE 300-03-03 wg Cerwyna - trzeci policzony, pierwszy i drugi maja ksztalt; pismo do Krola przed 300-03-07",
+   "status": "ZAMKNIETE 300-03-16 - karta napisana i zapieczetowana, wieziona osobiscie do rak wlasnych Krola. Wszystkie trzy odpowiedzi byly policzone i zapisane wczesniej; brakowalo SAMEJ KARTY. Teraz jest.",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-07"
+   "wraca": "300-03-07",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "WIOSNA 300 - JEST TERAZ",
@@ -1125,7 +1126,8 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-11",
    "zamyka": "trzy odpowiedzi na jednej karcie, przed Rada",
-   "status": "W DRODZE ZA PANEM - czeka w Bialym Porcie"
+   "status": "KARTA NAPISANA 300-03-16 w Bialym Porcie - trzy warunki, trzy odpowiedzi, jedna karta, obie strony, zapieczetowana. Naglowek: 'TO NIE JEST PROSBA. TO JEST SPRAWOZDANIE.' ⚠ NIE IDZIE KRUKIEM: SYMON WIEZIE JA SAM I ODDA DO RAK WLASNYCH KROLA. Wyjazd 300-03-19. Pozycja zamknieta CO DO NAPISANIA; otwarte samo DORECZENIE.",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-07",
@@ -2861,6 +2863,15 @@
    "zamyka": "trzeci adres nazwany",
    "status": "OTWARTE ⚠ NIE WSTRZYMUJE ODPISOW - odpisy jada na Fose. To niedokonczone zdanie wlasnej zasady pana.",
    "co": "TRZECIE MIEJSCE DLA ODPISOW - ZASADA PANA MOWI TRZY, NIE DWA. Kronika ma trzeci (RIVERRUN, decyzja 299-09-08: poza Polnoc, nie Cytadela, nie Mur; jechal jako ZWYKLY LADUNEK HANDLOWY Kompanii Polnoc-Dorzecze, bo 'skarb sie kradnie, skrzynie ksiag nie'). GLEBOKORZEN DOSTAL WLASNIE DRUGI. ### ⚠ I NOTA Z WLASNEJ KSIEGI PANA, NIEPODJETA: 'Hal, Willa, archiwum, papiernia, szkola, garnizon i teraz kancelaria skladania - WSZYSTKO NA FOSIE, W JEDNYM MIEJSCU. Obraz istnieje w DWOCH odpisach: Fosa i przy Symonie. ANI JEDNEGO WIECEJ.' Fosa - miejsce, do ktorego odpisy jada - jest NAJGESCIEJ UPAKOWANYM PUNKTEM LENNA. ### THEOMORE: 'Drugiego adresu mi nie trzeba dzis. Ale niech ktos go kiedys napisze, panie, bo ja tych dwoch ksiag na koncu deski nie odzyskam.'"
+  },
+  {
+   "data": "300-03-16",
+   "co": "KARTA DO KROLA - DORECZENIE DO RAK WLASNYCH. Rozstrzygniecie gracza: nie kruk, nie kancelaria, nikogo posrodku. Symon wyjezdza 300-03-19 na Winterfell, Rada 300-03-30. Karta otwiera PUNKT 0 obrad (Mur). TRESC ZAMKNIETA: (1) kto idzie za Mur - MELDUNEK WYKONANIA, rozkaz z 300-03-03, meldunek Osrica nalezny 300-03-17; (2) dowod - czarne szklo jest nasze, a przeladunek CELOWO NIEZAPISANY na prosbe Davosa; (3) 1210 smokow miesiecznie = 1/4 rocznego dochodu Korony w monecie -> NIE NAKARMIC, OSADZIC, na DARZE, ktory NIE JEST KROLA DO NADANIA i o ktory prosi sie Straz.",
+   "kto": "SYMON -> KROL ROBB STARK, do rak wlasnych",
+   "kanal": "wlasna reka - Symon wiezie osobiscie",
+   "wraca": "~300-03-24 (Winterfell) najpozniej przed punktem 0 Rady 300-03-30",
+   "zamyka": "karta w reku Krola, bez posrednika",
+   "status": "otwarte - karta zapieczetowana i schowana"
   }
  ]
 }

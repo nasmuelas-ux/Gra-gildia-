@@ -81,19 +81,31 @@
      "zrodlo": "USTALONE 300-03-15 WSTECZ, na wskazanie gracza: PAPIERNIA MA MIEC DOCHOD. Dwie kadzie od 299-08-26, pierwsza partia z drugiej zeszla. JEDYNA PAPIERNIA NA POLNOCY, a Korona pisze coraz wiecej - 'pergamin dla Korony jest pozycja w mojej ksiedze, dlatego rozsylanie praw kosztuje tanio'. Dotad siedziala w aparacie jako koszt 12/mies i to byl pierwszy z pieciu powodow, dla ktorych obrot Domu czytal sie za nisko. ROSNIE, bo krolestwo zaczelo pisac; sufit 60 przy waskim gardle SZMAT."
     },
     {
-     "nazwa": "WARZELNIA SOLI I RYBA SOLONA - przychod netto",
+     "nazwa": "WARZELNIA SOLI I SOLARNIA - przychod netto",
      "typ": "przychod",
-     "min": 40,
-     "max": 80,
+     "min": 30,
+     "max": 60,
      "okres": "miesiac",
-     "od": "299-09-01",
+     "od": "298-09-01",
      "do": null,
      "wzrost_mies": 0.015,
      "sufit": 160,
-     "zrodlo": "USTALONE 300-03-15 WSTECZ: rozkaz 299-08-12, warzelnia i rybacy. SOLONA RYBA = zimowa spizarnia bialka, ktorej lod nie zatrzyma i KTOREJ POLNOC NIE IMPORTUJE. Lancuch konserwacji to JEDYNA LINIA DOMU, KTORA ROSLA ZIMA (zapis EKONOMIA_BAZA.md) - wiec miala dochod i nie mogla go nie miec. Nie byla wpisana jako osobna linia, i to jest cala roznica."
+     "zrodlo": "USTALONE WSTECZ OD 298-09 - nie od 299-09, jak mialem. DOWODY: 298-09-15 warzelnia i bednarnia sa czescia APARATU PROWIANTOWEGO, ktory beczkuje solona rybe na wymarsz KONTYNGENTU MANDERLYCH (1500 ludzi); 298-09-11: 'warzelnia, bednarnia i aparat prowiantowy ZOSTANA, GDY WOJNA MINIE, noszac slad reki Tallego'; 299-05-25 protokol z Wymanem, punkt 3: 'warzelnia soli i bednarnia CZYNNE, pod Domem Handlowym, tryb zimowy'. Rozkaz z 299-08-12 byl ROZBUDOWA, nie zalozeniem."
     },
     {
-     "nazwa": "BEDNARNIA - CWIERC MANDERLYCH (Bialy Port)",
+     "nazwa": "BEDNARNIA DOMU (Bialy Port) - przychod netto",
+     "typ": "przychod",
+     "min": 15,
+     "max": 30,
+     "okres": "miesiac",
+     "od": "298-09-01",
+     "do": null,
+     "wzrost_mies": 0.015,
+     "sufit": 80,
+     "zrodlo": "⚠ KOREKTA 300-03-15 NA WSKAZANIE GRACZA: 'bednarnia byla nabyta PODCZAS WOJNY'. MA RACJE, a ja zlalem DWIE ROZNE RZECZY w jedna. TO JEST WLASNA BEDNARNIA DOMU, czynna od 298 razem z warzelnia; obie stoja pod Domem Handlowym i sa TRZYMANE OSOBNO OD KANTORU HALA - zapis: 'warzelnia i bednarnia OSOBNE (nie kantor Hala), long-term tytul do domowienia z Wymanem'. Bez niej aparat prowiantowy nie mialby w co beczkowac ryby."
+    },
+    {
+     "nazwa": "CWIERC BEDNARNI MANDERLYCH - udzial",
      "typ": "przychod",
      "min": 8,
      "max": 16,
@@ -102,7 +114,7 @@
      "do": null,
      "wzrost_mies": 0.02,
      "sufit": 40,
-     "zrodlo": "USTALONE 300-03-15: cwierc udzialu z umowy Tally-Manderly 300-03-13. NIE WSTECZ - nabyta wczoraj. Domyka lancuch sol-ryba-BECZKA, a beczki byly waskim gardlem tej linii. Rosnie razem z warzelnia."
+     "zrodlo": "TO JEST RZECZ DRUGA I NOWA, nie ta sama co wyzej. Udzial w bednarni WYMANA, 'wniesiona JEGO drewnem i JEGO bednarzami', z umowy Tally-Manderly 300-03-13. Nie idzie wstecz, bo nabyty przedwczoraj."
     }
    ],
    "nieznane": [
@@ -179,11 +191,11 @@
      "zrodlo": "spis_przedsiebiorstw_299_09.md"
     },
     {
-     "nazwa": "BEDNARNIA - CWIERC MANDERLYCH (Bialy Port)",
+     "nazwa": "BEDNARNIE - DWIE ROZNE: WLASNA DOMU (od 298) i CWIERC MANDERLYCH (od 300-03-13)",
      "rodzaj": "wytworcze",
-     "stan": "NOWE 300-03-13, z umowy Tally-Manderly. Domyka lancuch: sol - ryba - BECZKA.",
-     "w_ksiegach": "⚠ BRAK LICZBY. Udzial nabyty wczoraj, nikt go jeszcze nie wycenil.",
-     "zrodlo": "umowa Tally-Manderly 300-03-13"
+     "stan": "⚠ DWA ODDZIELNE TYTULY, ktore latwo pomylic. (1) WLASNA BEDNARNIA DOMU w Bialym Porcie - CZYNNA OD WOJNY, razem z warzelnia, jako aparat prowiantowy dla kontyngentu Manderlych; trzymana OSOBNO OD KANTORU HALA. (2) CWIERC BEDNARNI MANDERLYCH - udzial z umowy 300-03-13, wniesiony jego drewnem i jego bednarzami.",
+     "w_ksiegach": "⚑ USTALONE 300-03-15: obie maja wlasne linie. Wlasna od 298-09, cwierc od 300-03-13.",
+     "zrodlo": "protokol z Wymanem 299-05-25 + zapisy 298-09-11 i 298-09-15 + umowa Tally-Manderly 300-03-13"
     },
     {
      "nazwa": "ARTERIA RZECZNA",

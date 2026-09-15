@@ -324,6 +324,7 @@ _20 ludzi. ⚠ VOID 300-03-04: etykieta 'KASA SYMONA (nie lenna)' byla BLEDNA. Z
 - **WARZELNIA I SOLARNIA (Bialy Port):** HAL _(solona ryba w skladzie Domu; 6-8 dni od Fosy)_
 - **PLACOWKA PENTOS:** OBARO _(Wzial HAL, wlasnym prawem. Wskazal SER MEDRICK MANDERLY (rzut 67) i WPROWADZA GO OSOBISCIE, a wprowadzenie stoi NA PISMIE jako JEGO, nie Domu - 'reczy ten, kto ma co stracic'. Pentoszyjczyk, dwadziescia kilka lat faktorem jednego domu magisterskiego; gdy dom podupadl, zostal do konca i domknal ksiegi. Sklad w Pentos juz stoi. ⚠ KSIEGA PLACOWKI IDZIE CO MIESIAC DO KANTORU NESTY W BRAAVOS - nie do Bialego Portu. Obaro nie liczy sam siebie, a dwie nowe placowki pilnuja sie nawzajem.)_
 - **KLIENCI (Bialy Port):** LORREN _(Przeniesiony do Pentos i cofniety tego samego wieczoru, po tym jak Medrick odmowil reczenia (rzut 5). Nie za kare i nie z braku wartosci - przeciwnie: slowa Medricka brzmialy 'w Bialym Porcie jest wart wiecej niz w Pentos, przenoszac go tracicie dwa razy'. Wakat nie powstal.)_
+- **RIVERRUN - ZARZADCA-WSPOLNIK:** LYMAN OD BRODOW _(Dorzeczanin, faktor rzeczny; prowadzil zaopatrzenie dworu Riverrun przez cale oblezenie, po wojnie odstawiony. Obsadzil HAL wlasnym prawem z 300-01-26 (rzut 94). WARUNEK JEGO, JEDYNY: umowa PIECIOLETNIA i NA PISMIE, ze jest WSPOLNIKIEM, nie sluga - wzor Derona Suchego z Rozdroza. 'Sluzylem dobrze i mnie puszczono. Drugi raz chce to miec napisane.' ZAMYKA JEDEN Z CZTERECH WAKATOW WYPISANYCH PRZEZ HALA.)_
 
 ### KORONA — _Kasa 3 - Skarb Polnocy_
 - **NAMIESTNIK:** SYMON TALLY _(lord Fosy Cailin)_

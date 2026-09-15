@@ -1,6 +1,6 @@
 {
  "_opis": "JEDYNE ZRODLO PRAWDY O OBSADZIE. Nie podawac obsady z pamieci - czytac stad. Aktualizowac przy kazdym nadaniu i kazdym wakacie.",
- "_aktualizacja": "300-03-12 - Lorren do Pentos, wakat po nim w Bialym Porcie",
+ "_aktualizacja": "300-03-15 - Riverrun obsadzone (Lyman od Brodow); Bors gospodarzem Przystani Wilka; Obaro w Pentos",
  "drabiny": {
   "LENNO": {
    "_kasa": "Kasa 2 (lenno), o ile nie zaznaczono inaczej",
@@ -313,6 +313,11 @@
     "kto": "LORREN",
     "od": "od poczatku - przeniesienie COFNIETE 300-03-12",
     "nota": "Przeniesiony do Pentos i cofniety tego samego wieczoru, po tym jak Medrick odmowil reczenia (rzut 5). Nie za kare i nie z braku wartosci - przeciwnie: slowa Medricka brzmialy 'w Bialym Porcie jest wart wiecej niz w Pentos, przenoszac go tracicie dwa razy'. Wakat nie powstal."
+   },
+   "RIVERRUN - ZARZADCA-WSPOLNIK": {
+    "kto": "LYMAN OD BRODOW",
+    "od": "300-03-15",
+    "nota": "Dorzeczanin, faktor rzeczny; prowadzil zaopatrzenie dworu Riverrun przez cale oblezenie, po wojnie odstawiony. Obsadzil HAL wlasnym prawem z 300-01-26 (rzut 94). WARUNEK JEGO, JEDYNY: umowa PIECIOLETNIA i NA PISMIE, ze jest WSPOLNIKIEM, nie sluga - wzor Derona Suchego z Rozdroza. 'Sluzylem dobrze i mnie puszczono. Drugi raz chce to miec napisane.' ZAMYKA JEDEN Z CZTERECH WAKATOW WYPISANYCH PRZEZ HALA."
    }
   },
   "KORONA": {

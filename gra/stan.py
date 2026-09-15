@@ -87,6 +87,9 @@ A = o.append
 
 A("# STAN GRY — indeks (regenerowany z JSON+JSONL, NIE edytuj recznie)")
 A("_Zrodlo prawdy: gra/*.json + gra/db/wpisy.jsonl. Szczegoly: `python3 gra/db.py pokaz <klucz>` / `szukaj <fraza>` / `dzien <data>`._\n")
+A("_**PIENIADZE:** `python3 gra/kasa.py dzien|miesiac|rok [data]` - dane w `gra/ekonomia.json`, baza w `gra/EKONOMIA_BAZA.md`. "
+  "Kwoty NIE wyprowadza sie z glowy (zasada 43)._")
+A("_**OSADY, MIASTA I PORTY:** `gra/OSADY.md` (stan) + `gra/miasta_polnocy.md` (ustroj i doktryna)._\n")
 
 A("## ⚠️ 38 ZASAD SILNIKA — `gra/PROWADZENIE.md`, sekcja od \"TRZYDZIESCI PIEC ZASAD\"\n"
   "**PRZECZYTAJ JE PO KAZDYM KOMPAKTOWANIU.** Przy sprzecznosci z czymkolwiek innym — tamte wygrywaja.\n"

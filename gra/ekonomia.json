@@ -1,0 +1,253 @@
+{
+ "_opis": "DANE KAS. Zrodlo liczb: gra/EKONOMIA_BAZA.md i wpisy z gra/db/wpisy.jsonl. Silnik: gra/kasa.py.",
+ "_zasada_naczelna": "KAZDA POZYCJA MA POLE 'zrodlo'. Pozycja bez zrodla NIE WCHODZI DO SUMY i jest raportowana osobno jako NIEZNANA (zasady 1a, 43, 44). Liczb sie tu nie wyprowadza na nowo - zmienia je WYLACZNIE zdarzenie w grze.",
+ "_jak_czytac_widelki": "min/max zamiast 'stawka' znaczy, ze zapis podaje przedzial, a nie liczbe. Silnik sumuje osobno dolna i gorna granice i NIGDY nie usrednia.",
+ "_aktualizacja": "300-03-15",
+ "kursy": {
+  "smok_w_jeleniach": 200,
+  "jelen_w_miedziakach": 100,
+  "smok_w_miedziakach": 20000,
+  "dniowka_niewykwalifikowana_w_miedziakach": [
+   15,
+   20
+  ],
+  "zold_zbrojnego_dziennie_w_miedziakach": 40
+ },
+ "kasy": {
+  "KASA 1 - DOM HANDLOWY TALLY": {
+   "opis": "Duzy dom handlowy. ~3400 netto rocznie - jakas dziesiata czesc osobistego dochodu Pana Winterfell.",
+   "skrzynia_na": "300-03-11",
+   "skrzynia": 95,
+   "skrzynia_zrodlo": "EKONOMIA_BAZA.md + bilans_domu_tally_300_01",
+   "pozycje": [
+    {
+     "nazwa": "udzialy - kantor Nesty i wspolnictwa",
+     "typ": "przychod",
+     "stawka": 18,
+     "okres": "miesiac",
+     "od": "299-12-01",
+     "do": null,
+     "zrodlo": "bilans_domu_tally_300_01 (odczyt z grudnia)"
+    },
+    {
+     "nazwa": "aparat domu (w tym papiernia Wata 12/mies jako koszt)",
+     "typ": "koszt",
+     "stawka": 87,
+     "okres": "miesiac",
+     "od": "299-10-01",
+     "do": null,
+     "zrodlo": "EKONOMIA_BAZA.md: 261 za kwartal zimowy = 87/mies"
+    },
+    {
+     "nazwa": "bursztyn - Marro",
+     "typ": "przychod",
+     "stawka": 0.02,
+     "okres": "miesiac",
+     "od": "299-10-01",
+     "do": null,
+     "zrodlo": "bilans_domu_tally_300_01: +4 JELENIE/mies = 0,02 smoka"
+    },
+    {
+     "nazwa": "zysk placowek",
+     "typ": "przychod",
+     "serie": {
+      "299-10": 385,
+      "299-11": 315,
+      "299-12": 215
+     },
+     "zrodlo": "bilans_domu_tally_300_01: 385/315/215 = 915 za kwartal"
+    },
+    {
+     "nazwa": "obrot placowek (NIE zysk - pozycja informacyjna)",
+     "typ": "obrot",
+     "serie": {
+      "299-10": 2480,
+      "299-11": 2240,
+      "299-12": 1935
+     },
+     "zrodlo": "bilans_domu_tally_300_01: kwartal 6655"
+    }
+   ],
+   "nieznane": [
+    {
+     "nazwa": "zysk i obrot placowek za I, II i III/300",
+     "powod": "ZAPIS KONCZY SIE NA GRUDNIU 299. Zima to dno roku; wiosny nikt jeszcze nie policzyl. Nie zgaduje sie (zasada 43)."
+    },
+    {
+     "nazwa": "ubezpieczenia frachtu",
+     "powod": "50 smokow REZERWY, zero obrotu. Metoda spisana przez Symona 300-03-14 - linia rusza, ale nie ma jeszcze ani jednej liczby przychodu."
+    }
+   ]
+  },
+  "KASA 2 - LENNO FOSY CAILIN": {
+   "opis": "Male lordostwo, ~550 rocznie. Twarde ograniczenie: zwyczaj zabrania podnoszenia czynszow, wiec caly wzrost musi pochodzic z RZECZY NOWYCH.",
+   "pozycje": [
+    {
+     "nazwa": "myto z traktu (po zniesieniu myta na zywnosc)",
+     "typ": "przychod",
+     "stawka": 11,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "zrodlo": "rozbicie 15-30 smokow/mies, zapis lenna"
+    },
+    {
+     "nazwa": "miasteczko Cailin - waga, targ, oplaty sadowe, miarka mlynarska, oplata piecowa",
+     "typ": "przychod",
+     "min": 2,
+     "max": 4,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "zrodlo": "zapis lenna: 2-4 smoki/mies, ZIMA SPADA bo targ chudnie"
+    },
+    {
+     "nazwa": "zielarnia",
+     "typ": "przychod",
+     "min": 1,
+     "max": 3,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "zrodlo": "rozbicie dochodu lenna"
+    },
+    {
+     "nazwa": "regale torfowe, przewoz przez bagna, oplaty zyciowe i czynsze",
+     "typ": "przychod",
+     "min": 1,
+     "max": 12,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "zrodlo": "reszta z przedzialu 15-30/mies po odjeciu pozycji nazwanych"
+    },
+    {
+     "nazwa": "garnizon Fosy",
+     "typ": "koszt",
+     "stawka": 22,
+     "okres": "miesiac",
+     "od": "300-01-01",
+     "do": null,
+     "zrodlo": "EKONOMIA_BAZA.md: 22/mies = 264 rocznie"
+    },
+    {
+     "nazwa": "szkola Fosy (pod Mira)",
+     "typ": "koszt",
+     "stawka": 9,
+     "okres": "miesiac",
+     "od": "300-01-01",
+     "do": null,
+     "zrodlo": "EKONOMIA_BAZA.md"
+    },
+    {
+     "nazwa": "danina do Korony",
+     "typ": "koszt",
+     "min": 20,
+     "max": 40,
+     "okres": "rok",
+     "od": "299-01-01",
+     "do": null,
+     "zrodlo": "EKONOMIA_BAZA.md: metoda zdolnosci lenna, 20-40 rocznie"
+    }
+   ],
+   "nieznane": [
+    {
+     "nazwa": "zold koronnego garnizonu w Cailin",
+     "powod": "Obciazenie przyjete 300-03-11. LICZBY NIE MA W ZAPISIE."
+    },
+    {
+     "nazwa": "sprzedaz produkcji wlosci przez placowki Domu (torf, ryba, trzcina, futra, zelazo bagienne)",
+     "powod": "Wiadomo, ZE sie dzieje; nie ma ANI JEDNEJ linii 'co Dom kupil od lenna i po ile'. Zapis 300-03-11: brak rubryki, nie brak sprzedazy."
+    },
+    {
+     "nazwa": "prawo skladu",
+     "powod": "NIENADANE. Wniosek miasta u Krola; obiecane rozstrzygniecie przed Rada."
+    },
+    {
+     "nazwa": "seminarium nauczycieli na Fosie",
+     "powod": "Ustanowione 300-03-13. Kasa obsadza GLOWA (zasada 42); kwoty nie ma."
+    }
+   ]
+  },
+  "KASA 3 - SKARB POLNOCY": {
+   "opis": "Nowy fisk krolewski, urzad stworzony przed niespelna rokiem. ~3500 rocznie W MONECIE - to nie jest majatek Polnocy ani osobisty dochod Starkow (25-40 tys.).",
+   "pozycje": [
+    {
+     "nazwa": "dochod Skarbu w monecie",
+     "typ": "przychod",
+     "stawka": 291.67,
+     "okres": "miesiac",
+     "od": "299-06-01",
+     "do": null,
+     "zrodlo": "EKONOMIA_BAZA.md: ~3500 rocznie w monecie"
+    }
+   ],
+   "nieznane": [
+    {
+     "nazwa": "swiadczenia w naturze",
+     "powod": "Polnoc jest NIEZMONETYZOWANA: swiadczenia w naturze sa 5-10 razy wieksze od pienieznych. Kasa 3 liczy WYLACZNIE monete."
+    }
+   ]
+  }
+ },
+ "zdarzenia": [
+  {
+   "data": "300-03-30",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -340,
+   "opis": "WYKUP WEKSLI LUCANA. Podpis trzeci z 300-01-26: 'weksle - WYKUPUJEMY, NIE ODNAWIAMY'. [data przesunieta z 31 na 30: kalendarz swiata ma 30 dni w miesiacu, tak liczy gra/dzien.py]",
+   "zrodlo": "bilans_domu_tally_300_01 + rachunek marca 300-03-11",
+   "status": "zapada"
+  },
+  {
+   "data": "300-03-11",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": 110,
+   "opis": "Zejscie z zapasu obrotowego - trwa od stycznia.",
+   "zrodlo": "rachunek marca 300-03-11",
+   "status": "wykonane"
+  },
+  {
+   "data": "300-03-11",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": 90,
+   "opis": "Koniec zaliczkowania Korony.",
+   "zrodlo": "rachunek marca 300-03-11",
+   "status": "wykonane"
+  },
+  {
+   "data": "300-03-16",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": 45,
+   "opis": "PIERWSZA PARTIA SOLI I RYBY z towaru Korony - domyka wykup 340. NIE WESZLA 03-13 (sztorm, rzut 7) ani 03-14/15 (pogoda 20).",
+   "zrodlo": "rachunek marca 300-03-11",
+   "status": "OPOZNIONE - morze"
+  },
+  {
+   "data": "300-03-13",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "min": -325,
+   "max": -230,
+   "opis": "BEZZWROTNE ZASILENIE KASY 2 na przewloke. Suma po wspolnym przejsciu (03-17/18).",
+   "zrodlo": "umowa Tally-Manderly 300-03-13",
+   "status": "czeka na pomiar"
+  },
+  {
+   "data": "300-03-13",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "min": 230,
+   "max": 325,
+   "opis": "Srodki na inwestycje, zrodlo Dom Handlowy Tally, BEZZWROTNE. Myto przewloki bedzie regale pana.",
+   "zrodlo": "umowa Tally-Manderly 300-03-13",
+   "status": "czeka na pomiar"
+  },
+  {
+   "data": "300-03-01",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -695,
+   "opis": "DLUG WOBEC DOMU - Gawen uznal calosc bez kwestionowania. Splata W TOWARZE, ani smoka w monecie (rozstrzygniecie gracza 300-03-06).",
+   "zrodlo": "zamkniecie dlugu Korony 300-03-03",
+   "status": "spłacane w towarze"
+  }
+ ]
+}

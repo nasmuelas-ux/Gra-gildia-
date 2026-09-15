@@ -363,6 +363,41 @@ def stopka(glo, ghi):
     print("To jest cala wartosc tej tabeli: pokazuje, czego NIE policzono.")
 
 
+def wolne(r, m, d):
+    """ILE JEST WOLNYCH SRODKOW - inne pytanie niz zysk."""
+    E = L("ekonomia.json")
+    S = E["_skrzynia"]
+    w = licz("miesiac", r, m)["KASA 1 - DOM HANDLOWY TALLY"]
+    olo = sum(x[1] for x in w["wiersze"])
+    ohi = sum(x[2] for x in w["wiersze"])
+    czesc = d / float(DNI_W_MIESIACU)
+    print("=" * 78)
+    print("WOLNE SRODKI KASY 1 na %d-%02d-%02d" % (r, m, d))
+    print("=" * 78)
+    print("ZYSK TO NIE JEST SKRZYNIA. Ponizej SKRZYNIA, nie zysk.\n")
+    print("  %-56s %12.2f" % ("zebrane na %s" % S["na_dzien"], S["zebrane"]))
+    print("      (%s)" % S["zebrane_sklad"])
+    print("  %-56s %6.2f..%6.2f" % ("narosle operacyjnie od 1. do %d. dnia" % d, olo * czesc, ohi * czesc))
+    razem_lo = S["zebrane"] + olo * czesc
+    razem_hi = S["zebrane"] + ohi * czesc
+    print("  " + "-" * 74)
+    print("  %-56s %6.2f..%6.2f" % ("W SKRZYNI DZIS", razem_lo, razem_hi))
+    print("\n  ZOBOWIAZANIA, KTORE JUZ STOJA:")
+    zlo = zhi = 0.0
+    for z in S["zobowiazania"]:
+        lo = float(z.get("kwota", z.get("min", 0)))
+        hi = float(z.get("kwota", z.get("max", 0)))
+        print("   - [%s] %-40s %6.2f..%6.2f" % (z["data"], z["co"][:40], lo, hi))
+        print("       %s" % z["status"])
+        zlo += lo
+        zhi += hi
+    print("  " + "-" * 74)
+    print("  %-56s %6.2f..%6.2f" % ("RAZEM ZOBOWIAZANIA", zlo, zhi))
+    print("=" * 78)
+    print("  %-56s %6.2f..%6.2f" % (">>> NAPRAWDE WOLNE", razem_lo - zhi, razem_hi - zlo))
+    print("=" * 78)
+
+
 def main():
     a = sys.argv[1:]
     S = L("swiat.json")["data"]
@@ -377,6 +412,9 @@ def main():
             r, m, d = S["rok"], S["miesiac"], S["dzien"]
         if zakres == "dzien" and d is None:
             d = S["dzien"]
+    if zakres == "wolne":
+        wolne(r, m, d or S["dzien"])
+        return
     drukuj(zakres, r, m, d, licz(zakres, r, m, d))
 
 

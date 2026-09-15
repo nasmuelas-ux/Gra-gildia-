@@ -661,5 +661,34 @@
     11
    ]
   }
+ },
+ "_skrzynia": {
+  "_opis": "STAN SKRZYNI I ZOBOWIAZANIA - to jest INNE PYTANIE NIZ ZYSK. 'Zysk to nie jest skrzynia.'",
+  "na_dzien": "300-03-11",
+  "zebrane": 345,
+  "zebrane_sklad": "95 w kasie + 110 zejscie ze stanow + 90 koniec zaliczkowania Korony + 50 ze sprzedazy kamieniczki",
+  "zrodlo": "bilans_domu_tally_300_01, rachunek marca 300-03-11",
+  "zobowiazania": [
+   {
+    "data": "300-03-30",
+    "co": "WYKUP WEKSLI LUCANA",
+    "kwota": 340,
+    "status": "zablokowane, termin pewny"
+   },
+   {
+    "data": "300-03-17/18",
+    "min": 230,
+    "max": 325,
+    "co": "BEZZWROTNE ZASILENIE KASY 2 na przewloke",
+    "status": "po wspolnym przejsciu"
+   },
+   {
+    "data": "od 300-03-15",
+    "min": 40,
+    "max": 90,
+    "co": "ZAPLATA LENNU ZA TOWAR WLOSCI - W MONECIE, co miesiac",
+    "status": "nowe od dzis"
+   }
+  ]
  }
 }

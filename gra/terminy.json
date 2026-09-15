@@ -2310,7 +2310,8 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-16",
    "zamyka": "liczba uczniow, liczba skrzyn i data przyjazdu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-16, izba ksiag Nowego Zamku. Theomore mial karte napisana, zanim pan wszedl. LICZBA DLA WYMANA: 120 STOP POLKI (cztery sciany, dwie wysokosci - ksiega musi lezec plasko) · SIEDEM LOZEK, DWANASCIE MIEJSC (nie dziesiec; piec miejsc pustych, zeby Wyman nie stawial scian pod siedem) · PIECIU NOWYCH, KAZDY Z NAZWANYM DOMEM, KTORY GO TRZYMA · DATA: 300-06-01. Skrzyn 19, policzonych przy wynoszeniu 300-03-14. Wyman w tym samym zamku - liczba idzie dzis, nie krukiem. PRZYJETE PRZEZ GRACZA W CALOSCI.",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-13",
@@ -2833,6 +2834,33 @@
    "wraca": "~300-03-23",
    "zamyka": "liczba korcy z podzialem starzy/nowi + stan lawy przysieznej + odmowa albo milczenie, nazwane wprost",
    "status": "otwarte ⚠ GDZIE DOJDZIE ODPOWIEDZ, ZALEZY OD ROZSTRZYGNIECIA PYTANIA GARRICKA O STALY ADRES (Symon wyjezdza 300-03-19)"
+  },
+  {
+   "data": "300-03-16",
+   "kto": "THEOMORE + ochmistrz nauki Fosy",
+   "kanal": "woz/jezdziec Bialy Port-Fosa",
+   "wraca": "300-05-01",
+   "zamyka": "lista pieciu imion, przy kazdym NAZWANY DOM, ktory go trzyma - wpisany ZANIM wsiadzie na woz",
+   "status": "otwarte",
+   "co": "PIECIU UCZNIOW GLEBOKORZENIA - LISTA Z NAZWANYMI DOMAMI. Przyjazd 300-06-01 (jedyne okno miedzy siewem a zniwami). WARUNEK THEOMORE'A, przyjety: 'Stracilem trzech z dziesieciu w poltora roku - wzieto ich, nie pytajac, z czego beda zyc. Nie zabraklo im checi, zabraklo im chleba.' PIECIU, KTORYCH SIE UTRZYMA, JEST WIECEJ NIZ DZIESIECIU, KTORYCH SIE STRACI. Albo piec nazwisk z domami, albo zaden."
+  },
+  {
+   "data": "300-03-16",
+   "kto": "THEOMORE (siedmiu kopistow) + papiernia Wata + szkola Fosy",
+   "kanal": "woz Bialy Port-Fosa",
+   "wraca": "~300-12 (pierwszy odpis przed siewem nastepnego roku)",
+   "zamyka": "pierwsza skrzynia odpisow wyjezdza z Nowego Zamku na Fose",
+   "status": "otwarte - ROZKAZ WYDANY, RZECZ IDZIE",
+   "co": "ODPISY GLEBOKORZENIA JADA NA FOSE - DRUGIE MIEJSCE OBSADZONE. Rozkaz gracza 300-03-16. Siedmiu uczniow, GODZINA DZIENNIE, przepisuje - nie jako nauka (choc jest), tylko zeby ODPIS WYJECHAL Z IZBY. NIE JEST TO NOWA ZASADA: to wpisanie Glebokorzenia do ZASADY TRZECH ODPISOW z 299-09-08 (Winterfell, pytanie Brana). SPOSOB SPRAWDZONY I BEZ KUPOWANIA PERGAMINU: papiernia Wata, dwie kadzie, tani material - 'najtansza ksiazka na Polnocy, przepisywana jako cwiczenie uczniow'. POWOD, PODANY PRZEZ THEOMORE'A: 'Te dwie ksiegi zginely nie dlatego, ze staly przy kominie - zginely dlatego, ze BYLY JEDNE. JEDNO MIEJSCE TO ZADNE MIEJSCE.'"
+  },
+  {
+   "data": "300-03-16",
+   "kto": "SYMON - wskazanie pana, nikt inny nie moze",
+   "kanal": "decyzja pana, bez kanalu",
+   "wraca": "bez daty - stoi, az pan wskaze",
+   "zamyka": "trzeci adres nazwany",
+   "status": "OTWARTE ⚠ NIE WSTRZYMUJE ODPISOW - odpisy jada na Fose. To niedokonczone zdanie wlasnej zasady pana.",
+   "co": "TRZECIE MIEJSCE DLA ODPISOW - ZASADA PANA MOWI TRZY, NIE DWA. Kronika ma trzeci (RIVERRUN, decyzja 299-09-08: poza Polnoc, nie Cytadela, nie Mur; jechal jako ZWYKLY LADUNEK HANDLOWY Kompanii Polnoc-Dorzecze, bo 'skarb sie kradnie, skrzynie ksiag nie'). GLEBOKORZEN DOSTAL WLASNIE DRUGI. ### ⚠ I NOTA Z WLASNEJ KSIEGI PANA, NIEPODJETA: 'Hal, Willa, archiwum, papiernia, szkola, garnizon i teraz kancelaria skladania - WSZYSTKO NA FOSIE, W JEDNYM MIEJSCU. Obraz istnieje w DWOCH odpisach: Fosa i przy Symonie. ANI JEDNEGO WIECEJ.' Fosa - miejsce, do ktorego odpisy jada - jest NAJGESCIEJ UPAKOWANYM PUNKTEM LENNA. ### THEOMORE: 'Drugiego adresu mi nie trzeba dzis. Ale niech ktos go kiedys napisze, panie, bo ja tych dwoch ksiag na koncu deski nie odzyskam.'"
   }
  ]
 }

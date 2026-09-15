@@ -6346,6 +6346,16 @@
    "id": "piata_wies",
    "status": "otwarty",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "glebokorzen",
+   "status": "otwarty",
+   "_dziennik_nota": 3
+  },
+  {
+   "id": "trzy_odpisy_kroniki",
+   "status": "otwarty",
+   "_dziennik_nota": 2
   }
  ]
 }

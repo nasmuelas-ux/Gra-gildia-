@@ -127,6 +127,18 @@
      "wzrost_mies": 0.015,
      "sufit": 200,
      "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza. TO NIE JEST TO SAMO, CO OBROT PLACOWKI RIVERRUN (545/505/460) - tamto jest wlasny handel Domu, przepustki i tranzyt. TO JEST OSOBNA UMOWA, zawarta swiadomie 299-08-22: 'DOM HANDLOWY TALLY - OSOBNA UMOWA jako NAJETY KOORDYNATOR z JAWNIE WPISANA STAWKA - nie strona kompanii, lecz USLUGODAWCA, KTOREGO MOZNA WYMIENIC'. ⚠ I TO JEST CALY SENS TEJ KONSTRUKCJI, nie drobiazg ksiegowy: STAWKA, NIE UDZIAL W ZYSKU. Gawen powiedzial to wprost przy stole: 'jesli podpiszecie za Korone i wezmiecie prowizje od Kompanii, to nie ja bede musial tego bronic - WY BEDZIECIE, PRZEDE MNA TEZ'. Stad trzy podpisy trzema roznymi piorami i zasada: ZADNA Z RAK SYMONA NIE PODPISUJE TEGO, CO PRZYZNALA DRUGA. ROSNIE, bo Kompania jest DWUKIERUNKOWA ARTERIA - zboze Reach na polnoc, polnocne drewno i futra na poludnie - i plynie CALY ROK przez wolny od lodu Bialy Port. ### ⚑ 300-03-15: RIVERRUN DOSTALO ZARZADCE-WSPOLNIKA (LYMAN OD BRODOW, rzut 94), wiec sufit podniesiony ze 140 na 200 - placowka ma wreszcie czlowieka z wlasnym interesem w tym, zeby rosla."
+    },
+    {
+     "nazwa": "WARSTWA KREDYTOWA - weksle, listy kredytowe, dyskonto, rekojmie",
+     "typ": "przychod",
+     "min": 30,
+     "max": 70,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.015,
+     "sufit": 180,
+     "zrodlo": "⚑ USTALONE 300-03-15: TO BYLO ZANIZENIE, NIE BRAK. gra/EKONOMIA_BAZA.md wymienia WARSTWE KREDYTOWA wprost na liscie 'LINIE, KTORE ZARABIAJA' - obok lancucha konserwacji, przewozu, brokerki, skladow, arterii, mlynow i gospody - a jako JEDYNA z tej listy nie miala w silniku ANI JEDNEGO WIERSZA. Bilans 300-01-26 dodaje ocene jakosci: 'KREDYT BEZ ZLYCH DLUGOW'. Dom ma 420 wystawionych weksli w samej praktyce Lucana; dyskonto, listy kredytowe i rekojmie to osobny zarobek na tym samym papierze. Nie jest to obrot placowek i nie dubluje sie z nim - placowki handluja towarem, to handluje PEWNOSCIA. Od 300-03-13 obowiazuje sufit: papier nie przekracza towaru."
     }
    ],
    "nieznane": [

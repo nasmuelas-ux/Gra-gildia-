@@ -121,6 +121,10 @@
     {
      "nazwa": "⚑ CZTERY POZYCJE ZAMKNIETE 300-03-15 - NIE WRACAJA JAKO NIEZNANE",
      "powod": "zysk i obrot placowek I-III/300 (symulacja ustalona) · ubezpieczenia frachtu (dzialaly od 299-10) · Czarny Zamek (wypisany osobno z powodem) · bursztyn (dziala, pasmo robocze 25-50). MAJA MOC ZAPISU. Zasada 43: liczba raz ustalona jest ustalona."
+    },
+    {
+     "nazwa": "⚠ SKUTEK GOTOWKOWY ZAPLATY W MONECIE ZA TOWAR WLOSCI",
+     "powod": "Od 300-03-15 lenno dostaje za swoj towar PIENIADZ, nie zapis. NIE ZMIENIA TO ZYSKU DOMU - towar byl kupowany zawsze i jego cena siedzi w marzy. ZMIENIA PRZEPLYW: 40-90 smokow MIESIECZNIE WYCHODZI ZE SKRZYNI DOMU w monecie. ⚠ A SKRZYNIA PO WYKUPIE 340 JEST PRZY ZERZE. To jest pierwszy miesiac, w ktorym obie te rzeczy dziela sie ta sama moneta."
     }
    ],
    "synteza": {
@@ -311,7 +315,7 @@
      "zrodlo": "USTALONE 300-03-15: baza 11/mies z rozbicia dochodu lenna PO zniesieniu myta na zywnosc. ROSNIE, i to nie jest domysl - zapis Hendry'ego: 'RUCH NA GROBLI ROSNIE, MIASTECZKO POD FOSA SIE ZALUDNIA, przez brame ida wozacy, sezonowi, uciekinierzy z Dorzecza i chlopcy z Przesmyku'. Doktryna lenna spisana 300-02-25: LENNO PRZESTAJE BRAC Z ZIEMI I ZACZYNA BRAC Z RUCHU."
     },
     {
-     "nazwa": "OPLATY MIASTA CAILIN - waga, targ, sad grodzki, miarka, oplata piecowa, brama",
+     "nazwa": "REGALIA PANSKIE W MIESCIE CAILIN - waga, targ, mlyn, sad grodzki, miarka, oplata piecowa",
      "typ": "przychod",
      "min": 8,
      "max": 18,
@@ -320,10 +324,10 @@
      "do": null,
      "wzrost_mies": 0.022,
      "sufit": 80,
-     "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza: LENNO POBIERA PODATEK Z CAILIN. Stara liczba 2-4/mies pochodzi z czasu, gdy to bylo miasteczko; DZIS TO MIASTO - 1400 DUSZ Z OKLADEM, burmistrz Herwin, lawa, ktora sadzi, wlasna pieczec, slup. Roderyk zameldowal WZROST I ZMIANE RODZAJU spraw sadowych. ⚠ I CALOSC IDZIE DO KASY 2, BO KASY MIEJSKIEJ NIE MA: powstanie dopiero z chwila nadania praw miejskich. Zapis: 'przy trakcie, korytarzu zbozowym i prawie skladu 30-80 smokow miesiecznie w ciagu kilku lat - MIASTECZKO PRZEROSNIE MYTO I STANIE SIE NAJWIEKSZA POZYCJA PIENIEZNA FOSY'. Sufit 80 jest stamtad."
+     "zrodlo": "⚑ POPRAWIONE 300-03-15 na wskazanie gracza: CAILIN JEST MIASTEM. Moj wniosek byl dobry, ale POWOD BLEDNY. Te oplaty ida do Kasy 2 NIE dlatego, ze 'nie ma kasy miejskiej', tylko dlatego, ze SA REGALIAMI PANSKIMI - i ida do pana TAKZE w pelnym miescie. Doktryna z gra/miasta_polnocy.md: 'do pana - czynsz gruntowy oraz REGALIA: waga, prawo skladu, targ, myto, mlyn, oplaty sadowe'. Wlasna instrukcja Symona do Karty Cailin brzmi tak samo: 'REGALIA ZOSTAJA PRZY PANU: waga, targ, prawo skladu, myto, mlyn, sad'. STARA LICZBA 2-4/mies byla z czasow miasteczka; dzis Cailin ma 1400 dusz, burmistrza, lawe, ktora sadzi, i wlasna pieczec."
     },
     {
-     "nazwa": "SPRZEDAZ PRODUKCJI WLOSCI PRZEZ PLACOWKI DOMU",
+     "nazwa": "SPRZEDAZ PRODUKCJI WLOSCI DOMOWI - W MONECIE",
      "typ": "przychod",
      "min": 40,
      "max": 90,
@@ -332,7 +336,7 @@
      "do": null,
      "wzrost_mies": 0.012,
      "sufit": 180,
-     "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza: LENNO SPRZEDAJE TO, CO DOSTAJE. Czynsze i daniny ida W NATURZE - JEDNA TRZECIA DO POLOWY PLONU - a wlosc rodzi TORF, RYBE, TRZCINE, FUTRA, ZELAZO BAGIENNE, warzywo ze szklarni, ziola i mech oraz make z mlyna w sluzie. Lenno nie ma wlasnego kantoru ani arterii; DOM MA OBA, wiec towar idzie jego placowkami. Zapis 300-03-11: 'to nie jest dodatek, tylko JEDYNY SILNIK - zwyczaj zabrania podnoszenia czynszow, wiec caly wzrost dochodu lenna musi pochodzic z rzeczy nowych'. ⚠ NIE UZYWAM TU LICZBY 155-165/mies z 300-03-11 - TAMTA BYLA MOJA ALOKACJA I ZOSTALA VOIDOWANA (EKONOMIA_BAZA.md). Pasmo 40-90 jest ostrozniejsze i nie wskrzesza skasowanego rozbicia."
+     "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza: LENNO SPRZEDAJE TO, CO DOSTAJE. Czynsze i daniny ida W NATURZE - JEDNA TRZECIA DO POLOWY PLONU - a wlosc rodzi TORF, RYBE, TRZCINE, FUTRA, ZELAZO BAGIENNE, warzywo ze szklarni, ziola i mech oraz make z mlyna w sluzie. Lenno nie ma wlasnego kantoru ani arterii; DOM MA OBA, wiec towar idzie jego placowkami. Zapis 300-03-11: 'to nie jest dodatek, tylko JEDYNY SILNIK - zwyczaj zabrania podnoszenia czynszow, wiec caly wzrost dochodu lenna musi pochodzic z rzeczy nowych'. ⚠ NIE UZYWAM TU LICZBY 155-165/mies z 300-03-11 - TAMTA BYLA MOJA ALOKACJA I ZOSTALA VOIDOWANA (EKONOMIA_BAZA.md). Pasmo 40-90 jest ostrozniejsze i nie wskrzesza skasowanego rozbicia. ### ⚑ ROZSTRZYGNIECIE GRACZA 300-03-15: 'MONETE. LENNO MA DOSTAWAC PIENIADZ.' Pytanie postawione 300-03-11 - moneta czy rozliczenie w ksiedze Domu - zamkniete. TO JEST PIENIADZ, NIE ZAPIS."
     }
    ],
    "nieznane": [
@@ -349,8 +353,8 @@
      "powod": "Ustanowione 300-03-13. Kasa obsadza GLOWA (zasada 42); kwoty nie ma."
     },
     {
-     "nazwa": "⚑ TRZY POZYCJE ZAMKNIETE 300-03-15 - NIE WRACAJA JAKO NIEZNANE",
-     "powod": "myto (rosnie z ruchem) · oplaty miasta Cailin (1400 dusz, lawa, sad - stara liczba 2-4 byla z czasow miasteczka) · sprzedaz produkcji wlosci przez placowki Domu. MAJA MOC ZAPISU (zasada 43). OTWARTE ZOSTAJE JEDNO PYTANIE, KTORE NIE JEST O KWOTE: czy Kasa 2 dostaje za ten towar MONETE, czy ZAPIS W KSIEDZE DOMU."
+     "nazwa": "⚑ CZTERY POZYCJE ZAMKNIETE 300-03-15 - NIE WRACAJA JAKO NIEZNANE",
+     "powod": "myto · regalia panskie w miescie Cailin · sprzedaz produkcji wlosci · FORMA ZAPLATY: MONETA, nie rozliczenie. MAJA MOC ZAPISU (zasada 43)."
     }
    ],
    "przedsiebiorstwa": [
@@ -438,6 +442,21 @@
      "stan": "Prowadzone, nie posiadane. ANI JEDEN KORZEC, ANI JEDEN KAMIEN."
     }
    ]
+  },
+  "KASA 4 - MIEJSKA (CAILIN) - NIE JEST SYMONA": {
+   "opis": "⚑ USTANOWIONA W REJESTRZE 300-03-15 na wskazanie gracza: CAILIN JEST MIASTEM, wiec ma swoja kase - i to NIE JEST kasa Symona. Prowadzi ja LAWA, nie lord.",
+   "pozycje": [],
+   "nieznane": [
+    {
+     "nazwa": "OPLATY BRAMNE I PODATEK MIEJSKI UCHWALANY PRZEZ LAWE",
+     "powod": "Kwoty nie ma, bo lawa jeszcze zadnego podatku nie uchwalila. Doktryna z gra/miasta_polnocy.md: 'do kasy miejskiej - podatek miejski uchwalany przez rade, oplaty cechowe i bramne - NA BRUK, MURY, STRAZ, PORZADEK'."
+    },
+    {
+     "nazwa": "OPLATY CECHOWE - W CAILIN NIE BEDZIE ICH NIGDY",
+     "powod": "W kazdym innym miescie Polnocy to glowna pozycja kasy miejskiej. W Cailin CECHU NIE MA I NIE BEDZIE - jego miejsce zajmuje BRACTWO RZEMIOSLA WOLNEGO (nadanie 300-02-28). Kasa miejska Cailin bedzie wiec chudsza niz w Bialym Porcie - i to jest cena statutu, nazwana wprost."
+    }
+   ],
+   "doktryna": "PAN KASY MIEJSKIEJ NIE BIERZE - I TO JEST JEGO KORZYSC. Miasto samo finansuje wlasne utrzymanie, ktore inaczej pan musialby pokrywac. 'Oddaj miastu rzadzenie. ZATRZYMAJ ZIEMIE I REGALIA.'"
   }
  },
  "zdarzenia": [

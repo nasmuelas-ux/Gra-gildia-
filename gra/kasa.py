@@ -274,8 +274,11 @@ def drukuj(zakres, r, m, d, wynik):
             shi += hi
         print("  " + "-" * 76)
         print("  %-62s %s" % ("RAZEM Z ZDARZENIAMI", fmt(slo, shi, 13)))
-        glo += slo
-        ghi += shi
+        if not nazwa.startswith("KASA 4"):
+            glo += slo
+            ghi += shi
+        else:
+            print("      (kasa miejska NIE wchodzi do sumy Symona - prowadzi ja lawa, nie lord)")
         roz = k["_kasa"].get("_rozbicie")
         if roz:
             lista, marza, sez = roz

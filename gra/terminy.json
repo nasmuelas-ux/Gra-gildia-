@@ -1,6 +1,6 @@
 {
  "_opis": "JEDYNE ZRODLO PRAWDY O TERMINACH. Kalendarz ranka generuje sie STAD, nie z pamieci. Kazda pozycja: co / kto / data / czym sie zamyka.",
- "_aktualizacja": "300-03-03 - przeglad WSZYSTKICH wyslanych pism",
+ "_aktualizacja": "300-03-16",
  "_legenda": {
   "zamyka": "zdarzenie, ktore konczy pozycje - bez niego termin tylko mija",
   "status": "otwarte | zrobione | przepadlo",
@@ -755,7 +755,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-16",
    "zamyka": "cztery kafary okute i postawione przy grobli",
-   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
+   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): BRAN WLASCICIELEM, trzy kafary okute na 03-13, czwarty na kowadle. Drugi ogien w kuzni kupil trzy dni. UWAGA: dzien wejscia kafara w grunt nadal u Brana i odwilzy - patrz termin osobny.",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-10",
@@ -1529,7 +1530,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-16",
    "zamyka": "kafary okute, czterdziestu osmiu wraca na groble z pierwszenstwem",
-   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
+   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): Warryn rozdzielil wedle kolejnosci - 30 na torfiarnie, 18 na sklad. Mella wpisala obie grupy z imienia.",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-04",
@@ -1628,7 +1630,8 @@
    "kanal": "jezdziec Fosa-Dustinport",
    "wraca": "300-03-15",
    "zamyka": "114 rozpisanych na trzy drzwi, kazdy zapytany, liczba Fosy z karty",
-   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
+   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): SIGRUN 61 (wybrala sama), DONNEL 34, FOSA 19. Kazdy zapytany - i z pytania wyszlo, ze wsrod 114 jest DZIEWIECIU RZEMIESLNIKOW Z PAPIERAMI wypchnietych przez cechy poludnia (azyl Bractwa ma pierwszych dziewieciu z imienia).",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-07",
@@ -1637,7 +1640,8 @@
    "kanal": "jezdziec Fosa-Dustinport",
    "wraca": "300-03-15",
    "zamyka": "gdzie znikaja dziewiec korcy tygodniowo - liczba albo nazwisko",
-   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
+   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): Donnel wykonal odpowiedz z 03-13 tego samego dnia - 30 gab weszlo do rubryki porcji, tygodniowa liczba stanela na 79 korcach i przestala pelznac. Nie bylo kradziezy.",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-07",
@@ -1664,7 +1668,8 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "zdanie i widelki na slupie, odswiezane kazdego dnia targowego",
-   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
+   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): zdanie i widelki stoja na slupie, Gerrik wypelnia z ksiegi targu, odswiezane kazdego dnia targowego. Skutek po dwoch targach: NAJMNIEJSZA CENA PRZESTALA BYC OFEROWANA.",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-09",
@@ -1673,7 +1678,8 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "brakujace korce siewne znalezione ALBO liczba hektarow, ktorych sie nie obsieje - jedno albo drugie, nie milczenie",
-   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
+   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): zlecenie Barrowton 120 korcy, odrzucono 40; skup we wsiach dal 26; BRAKUJE 14 KORCY. Przegroda 90 korcy nietknieta. Czternascie korcy to liczba, o ktora prosi sie Wymana w porcie.",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-09",
@@ -1682,7 +1688,8 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "korce z rubryka stanu przy kazdej partii, cena osobna dla siewu, i wykaz wsi: ktora ma soltysa, ktora nie",
-   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
+   "status": "ZAMKNIETE 300-03-16 (meldunek Garricka, rzut 78): 26 korcy w 21 malych partiach, kazda z rubryka stanu, cena siewna osobna. WYKAZ WSI WYSZEDL SAM: wsie ktore nie sprzedaly nic to co do jednej te BEZ SOLTYSA - nie brak ziarna, brak kogo zapytac.",
+   "zamkniete": "300-03-16"
   },
   {
    "data": "300-03-18 - okno",
@@ -2808,6 +2815,15 @@
    "wraca": "300-03-24",
    "zamyka": "ogloszone na slupie w Cailin i wykonane pierwszy raz",
    "status": "otwarte - NOWE"
+  },
+  {
+   "data": "300-03-16",
+   "co": "PYTANIE GARRICKA Z WIERZCHU WIAZKI - JEDEN ADRES I JEDNA DATA. Meldunek zbiorczy gonil pana jedenascie dni i doszedl stary: najmlodsza karta ma trzy dni, najstarsza dziewiec. 'Kancelaria umie dogonic ruchomy adres. NIE UMIE DOGONIC GO SZYBCIEJ, NIZ WY SIE RUSZACIE.' Wyjazd 03-19 na Winterfell, Rada 03-30 - bez stalego adresu pan rozstrzyga na Radzie z kart dwutygodniowych. ZASADA: IM SPRAWNIEJ LENNO PRACUJE BEZ PANA, TYM STARSZA JEST WIADOMOSC, KTORA PAN TRZYMA W REKU.",
+   "kto": "SYMON (rozkaz) -> GARRICK (kancelaria)",
+   "kanal": "decyzja pana, bez kanalu",
+   "wraca": "300-03-19",
+   "zamyka": "jeden adres i data, od ktorej obowiazuje - albo swiadome 'gon dalej'",
+   "status": "otwarte"
   }
  ]
 }

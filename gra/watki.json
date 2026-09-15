@@ -6225,7 +6225,7 @@
   {
    "id": "bractwo_rzemiosla_wolnego",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   },
   {
    "id": "howland_reed",
@@ -6321,6 +6321,26 @@
    "id": "kompania_polnoc_dorzecze",
    "status": "otwarty",
    "_dziennik_nota": 3
+  },
+  {
+   "id": "meldunek_zbiorczy_garricka",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "grobla_przewloka",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "dziura_siewna_fosy",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "stu_czternastu_odbitych",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

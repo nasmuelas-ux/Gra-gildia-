@@ -2736,6 +2736,51 @@
    "wraca": "~300-04-06",
    "zamyka": "trzy karty, trzy rubryki, bez wnioskow",
    "status": "otwarte - NOWE"
+  },
+  {
+   "data": "~300-04-05",
+   "kto": "SYMON -> LORD JASON MALLISTER",
+   "kanal": "przez Lucana (Dorzecze)",
+   "wraca": "~300-04-05",
+   "zamyka": "Mallister mowi tak albo nie - i jedno, i drugie zamyka sprawe",
+   "status": "otwarte - NOWE",
+   "co": "SLOWO DO LORDA JASONA MALLISTERA - ZANIM W SEAGARD STANIE KANTOR. Nie prosba o laske: zawiadomienie kupca, ze chce otworzyc sklad w jego miescie, i pytanie, czy pan miasta ma cos przeciw. ⚠ POWOD, ZEBY SZLO PRZODEM, A NIE POTEM: zasada Medricka z Gulltown - 'placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, JEST ZAKLADEM, NIE INTERESEM'. Zywa mapa Catelyn stawia Mallisterow w rubryce WIERNI, ale to ocena z WOJNY, nie zgoda na kantor. KANAL: korytarz Edmure'a przez Dorzecze, ktory i tak konczy sie w Seagard - 10 dni tam. ⚠ ODPOWIEDZ WRACA PO RADZIE, a placowka rusza 300-04-01 - WIEC ALBO SLOWO IDZIE DZIS, ALBO KANTOR STANIE PRZED ZGODA."
+  },
+  {
+   "data": "300-03-16",
+   "kto": "HAL -> LYMAN OD BRODOW",
+   "kanal": "kantor Bialy Port",
+   "wraca": "300-03-16",
+   "zamyka": "umowa piecioletnia podpisana, wspolnictwo na pismie",
+   "status": "otwarte - NOWE",
+   "co": "UMOWA LYMANA NA PISMIE - JEGO JEDYNY WARUNEK I NIE WOLNO GO PRZECIAGAC. Piec lat, wspolnictwo, nie sluzba - wzor DERONA SUCHEGO z Rozdroza, umowa piecioletnia. JEGO WLASNE SLOWA: 'Sluzylem dobrze i mnie puszczono. Drugi raz chce to miec napisane.' ⚠ CZLOWIEK, KTOREGO RAZ ODSTAWIONO PO DOBREJ SLUZBIE, LICZY DNI DO PODPISU - i to jest jedyna rzecz, ktora moze go stracic, zanim w ogole zacznie."
+  },
+  {
+   "data": "300-04-15",
+   "kto": "SYMON + MARRO + HAL",
+   "kanal": "kantor Bialy Port",
+   "wraca": "300-04-15",
+   "zamyka": "Marro dostaje cel, wolumen i kanal sprzedazy - albo linia zostaje przy czterech jeleniach",
+   "status": "otwarte - NOWE",
+   "co": "⚠ BURSZTYN: DRUGA POLOWA DIAGNOZY Z 299-08-23, KTOREJ NIKT NIE ZAMKNAL. Surowiec jest zalatwiony (korekta gracza 300-03-15). Zostaje BRAK MANDATU: CEL, WOLUMEN I KANAL SPRZEDAZY. Slowa z zapisu: 'linia bursztynowa odlozona w wojne SLUSZNIE, ale wojna skonczyla sie w MAJU i NIKT JEJ NIE ODWIESIL'. Zapis 298-09-12 dodaje druga przyczyne: ZLY SEZON NA LUKSUS - w wojne nikt nie kupuje cacek, a marka luksusowa to SLOW BUILD. ⚠ OD MAJA 299 JEST POKOJ, CZYLI DZIESIEC MIESIECY. I RZECZ, KTORA TRZYMA SIE ODDZIELNIE: ATELIER JEST MIRY - dom pomaga do noszenia i liczenia, bez wtracania sie w rzemioslo."
+  },
+  {
+   "data": "300-04-15",
+   "kto": "WAT + HAL",
+   "kanal": "kantor Bialy Port",
+   "wraca": "300-04-15",
+   "zamyka": "zrodlo szmat nazwane i zakontraktowane - albo trzecia kadz nie ruszy",
+   "status": "otwarte - NOWE",
+   "co": "PAPIERNIA: WASKIM GARDLEM SA SZMATY, NIE POPYT - i to jest jedyna linia, ktorej popyt WLASNIE WYBUCHL, bo KROLESTWO ZACZELO PISAC. Dwie kadzie od 299-08-26; Wat mowi, ze przy trzeciej trzeba drugiego mlyna. SZMATY TRZEBA KUPIC Z POLUDNIA I Z BIALEGO PORTU. ⚠ ZBIEG, KTORY TO ULATWIA I O KTORYM NIKT NIE POMYSLAL: Dom wlasnie otwiera SEAGARD i ocenia trzy miasta Dorzecza - a szmaty sa towarem, ktory w spalonym pasie jest jedyna rzecza, jakiej NIE BRAKUJE."
+  },
+  {
+   "data": "300-04-01",
+   "kto": "HAL / TAM (ksiega skladu)",
+   "kanal": "kantor Bialy Port",
+   "wraca": "300-04-01",
+   "zamyka": "pierwszy miesiac bez zdarzenia jednorazowego zamkniety i policzony",
+   "status": "otwarte - NOWE",
+   "co": "⚑ KWIECIEN - PIERWSZY MIESIAC, KTORY COKOLWIEK ODLOZY. Marzec konczy sie przy zerze: wykup 340, przewloka 230-325 i od 300-03-15 zaplata lennu w monecie 40-90 miesiecznie. KWIECIEN NIE MA ZADNEGO ZDARZENIA JEDNORAZOWEGO, wiec caly wynik operacyjny (390-585) zostaje w skrzyni - MINUS Seagard, ktory od kwietnia kosztuje 18-30. ⚠ I TU ZBIEGAJA SIE TRZY RZECZY NARAZ, WSZYSTKIE CZEKAJACE NA TE SAMA MONETE: szmaty dla papierni · surowiec i kanal dla bursztynu · zakladanie Seagard. Wiosna jest pora, w ktorej ramiona potrzebuja kapitalu - a kwiecien jest pierwszym miesiacem, ktory go ma."
   }
  ]
 }

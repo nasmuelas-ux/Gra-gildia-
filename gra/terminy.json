@@ -2834,7 +2834,7 @@
    "kanal": "decyzja pana, bez kanalu",
    "wraca": "300-03-19",
    "zamyka": "jeden adres i data, od ktorej obowiazuje - albo swiadome 'gon dalej'",
-   "status": "ZAMKNIETE 300-03-17: ADRES WINTERFELL, OD 300-03-19. I wiecej, niz Garrick prosil - GARRICK ZWIJA STOL NA FOSIE I JEDZIE SAM. Wyrusza ~300-03-19, staje ~300-03-25, piec dni przed Rada. 'Przestaje wysylac, bo siada obok.'",
+   "status": "ZAMKNIETE 300-03-17: ADRES WINTERFELL, OD 300-03-19. Garrick ZOSTAJE NA FOSIE - sklada calosc tam, gdzie ja skladal, i PRZESYLA GOTOWE do Winterfell. ⚠ VOID 300-03-17 na wskazanie gracza: wczesniejszy zapis mowil, ze kanclerz zwija stol i jedzie osobiscie. NIKT TEGO NIE KAZAL - gracz mowil o adresie korespondencji. Fosa nie traci kanclerza; pozycja 'kto siada za stolem Garricka' skasowana, bo nie ma czego obsadzac.",
    "zamkniete": "300-03-17"
   },
   {
@@ -2973,15 +2973,6 @@
    "zamyka": "nie zamyka sie - ma trwac, dopoki nasluch nie da nazwiska",
    "status": "otwarte",
    "co": "WYPLATY NA ZNAK MILCZACEJ REKI IDA DALEJ BEZ ZMIANY - dyspozycja stala. Co do dnia, ta sama kwota, to samo miejsce, zaden pisarz nie wie dlaczego. ⚠ W DNIU, W KTORYM WYPLATA NIE ZEJDZIE, ON PRZESTAJE PRZYCHODZIC I NIE DOWIEMY SIE O NIM JUZ NIGDY NICZEGO. To najtanszy nasluch, jaki ten Dom mial - i placi go ten, kogo sie slucha."
-  },
-  {
-   "data": "300-03-17",
-   "kto": "GARRICK - wskazuje sam (zasada 42)",
-   "kanal": "kruk Bialy Port-Fosa, potem trakt Fosa-Winterfell",
-   "wraca": "~300-03-25 (Winterfell)",
-   "zamyka": "nazwisko tego, kto siada za stolem kanclerza na czas Rady - zameldowane w Winterfell",
-   "status": "otwarte",
-   "co": "KTO SKLADA CALOSC NA FOSIE, GDY GARRICK JEDZIE DO WINTERFELL. Kanclerz zwija stol i rusza ~300-03-19, staje ~300-03-25. ⚠ CENA NAZWANA: Fosa traci na trzy tygodnie czlowieka, ktory sklada calosc - a zostaje grobla, sznur przez przewloke, siew, skup ziarna i 400 przybyszow w rejestrze Melli. WARRYN jest nadrzedny dla wszystkich budow od 300-03-04 i to trzyma ROBOTE - ale skladanie calosci to nie to samo co prowadzenie budow. ZASADA 42: pan obsadza glowe, glowa obsadza reszte. 'Jedziesz, a kto siada za twoim stolem - wskazujesz ty i meldujesz mi nazwisko w Winterfell.'"
   }
  ]
 }

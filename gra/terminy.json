@@ -1685,11 +1685,11 @@
    "status": "otwarte"
   },
   {
-   "data": "300-03-10",
-   "co": "MIRA PO ROZWIAZANIU - STAN NIEROZSTRZYGNIETY. Rhona nie obiecuje. Symon staje w Bialym Porcie 300-03-11. ### To nie jest pozycja do zamkniecia rozkazem i nie ma przy niej nic do policzenia. ### 300-03-11, RZUT 32. GORACZKA PRZYSZLA TRZECIEGO DNIA I NIE ODESZLA. To jest ta gorączka, ktora zabija poloznice czesciej niz samo rozwiazanie, i przychodzi wtedy, gdy najgorsze wydaje sie juz za nami. ### MIRA ZYJE, JEST PRZYTOMNA CZESCIA DNIA. Rhona nie odeszla od niej od siedmiu dni i nie odejdzie; Nina i Wystan sa na Fosie, szesc dni stad, i Rhona NIE PROSI o nich - mowi, ze nie ma czego przywiezc, czego by tu nie bylo. ### NIE JEST ROZSTRZYGNIETE. Nastepne dni sa te, ktore rozstrzygaja - siodmy do czternastego.",
+   "data": "300-03-18 - okno",
+   "co": "MIRA PO ROZWIAZANIU - STAN NIEROZSTRZYGNIETY. Rhona nie obiecuje. Symon staje w Bialym Porcie 300-03-11. ### To nie jest pozycja do zamkniecia rozkazem i nie ma przy niej nic do policzenia. ### 300-03-11, RZUT 32. GORACZKA PRZYSZLA TRZECIEGO DNIA I NIE ODESZLA. To jest ta gorączka, ktora zabija poloznice czesciej niz samo rozwiazanie, i przychodzi wtedy, gdy najgorsze wydaje sie juz za nami. ### MIRA ZYJE, JEST PRZYTOMNA CZESCIA DNIA. Rhona nie odeszla od niej od siedmiu dni i nie odejdzie; Nina i Wystan sa na Fosie, szesc dni stad, i Rhona NIE PROSI o nich - mowi, ze nie ma czego przywiezc, czego by tu nie bylo. ### NIE JEST ROZSTRZYGNIETE. Nastepne dni sa te, ktore rozstrzygaja - siodmy do czternastego. ### 300-03-15 NOC: ZBADANA PRZEZ MAESTERA THEOMORE'A (rzut 53). Potwierdzil Rhone co do slowa - na to nie ma leku i nie ma czego przywiezc. DAL TO, CZEGO POLOZNA DAC NIE MOGLA: poprawa poranna jest JEDYNYM prawdziwym znakiem tej choroby przed rozstrzygnieciem, I ONA GO MA. ⚠ ALE NIE STAWIA LICZBY WYZSZEJ NIZ RZUT MONETA. ZALECENIE, TOZSAME Z RHONA I WYDANE NIEZALEZNIE: MA PRZESTAC PRACOWAC.",
    "kto": "RHONA, WENNA, ELNA - Bialy Port",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-14",
+   "wraca": "300-03-18",
    "zamyka": "gorączka ustepuje albo nie",
    "status": "otwarte - GORACZKA (rzut 32)"
   },

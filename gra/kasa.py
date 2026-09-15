@@ -169,6 +169,11 @@ def drukuj(zakres, r, m, d, wynik):
     print("=" * 78)
     print(tytul + "   (wszystko w SMOKACH; 1 smok = 200 jeleni = 20 000 miedziakow)")
     print("=" * 78)
+    sym = L("ekonomia.json").get("_symulacje")
+    if sym:
+        print("POZYCJE USTALONE %s - MAJA MOC ZAPISU (zasada 43)." % sym["_data"])
+        print("Nie kwestionuje sie ich ponownie i nie wracaja jako 'nieznane'.")
+        print("-" * 78)
     glo = ghi = 0.0
     for nazwa, k in wynik.items():
         print("\n### " + nazwa)

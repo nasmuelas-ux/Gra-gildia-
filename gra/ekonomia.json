@@ -39,23 +39,27 @@
      "zrodlo": "EKONOMIA_BAZA.md: 261 za kwartal zimowy = 87/mies"
     },
     {
-     "nazwa": "bursztyn - Marro",
+     "nazwa": "bursztyn - warsztat Marra (segment mistrzowski)",
      "typ": "przychod",
-     "stawka": 0.02,
      "okres": "miesiac",
-     "od": "299-10-01",
+     "od": "300-01-01",
      "do": null,
-     "zrodlo": "bilans_domu_tally_300_01: +4 JELENIE/mies = 0,02 smoka"
+     "zrodlo": "USTALONE 300-03-15 na wskazanie gracza: BURSZTYN DZIALA. Surowiec zalatwiony, linia iterowana z Mira, mistrzowie w pelnej robocie. Pasmo 25-50/mies to POTENCJAL SEGMENTU MISTRZOWSKIEGO ze spisu 299-09-05 - od 300-01 jest to pasmo ROBOCZE, nie potencjal. Stare +4 jelenie/mies dotyczylo stanu sprzed odwieszenia linii.",
+     "min": 25,
+     "max": 50
     },
     {
-     "nazwa": "zysk placowek",
+     "nazwa": "zysk placowek (piec handlowych; Czarny Zamek OSOBNO od 300-01)",
      "typ": "przychod",
      "serie": {
       "299-10": 385,
       "299-11": 315,
-      "299-12": 215
+      "299-12": 215,
+      "300-01": 230,
+      "300-02": 265,
+      "300-03": 300
      },
-     "zrodlo": "bilans_domu_tally_300_01: 385/315/215 = 915 za kwartal"
+     "zrodlo": "bilans_domu_tally_300_01 dla X-XII/299 (385/315/215). I-III/300 SYMULACJA USTALONA 300-03-15: dno grudniowe 215 mija, bo Czarny Zamek rosnie zima a Bialy Port trzyma; od marca trakt otwiera Fose i Rozdroze. Caly przedzial miesci sie w zapisanej syntezie 200-300/mies."
     },
     {
      "nazwa": "obrot placowek (NIE zysk - pozycja informacyjna)",
@@ -63,27 +67,38 @@
      "serie": {
       "299-10": 2480,
       "299-11": 2240,
-      "299-12": 1935
+      "299-12": 1935,
+      "300-01": 2050,
+      "300-02": 2250,
+      "300-03": 2480
      },
-     "zrodlo": "bilans_domu_tally_300_01: kwartal 6655"
+     "zrodlo": "bilans_domu_tally_300_01 dla X-XII/299 (kwartal 6655). I-III/300 SYMULACJA USTALONA 300-03-15, ta sama krzywa co zysk; marzec wraca do poziomu pazdziernika wraz z traktem."
+    },
+    {
+     "nazwa": "ubezpieczenia frachtu - broker kredytu i pewnosci",
+     "typ": "przychod",
+     "min": 10,
+     "max": 18,
+     "okres": "miesiac",
+     "od": "299-10-01",
+     "do": null,
+     "zrodlo": "USTALONE 300-03-15 na wskazanie gracza: TO DZIALALO WCZESNIEJ. Linia wlasna Symona od 297 - instrument z ksiag Nesty 297-01-19, sprzedane Aldousowi 297-03-29 i NIE ZAWIODLO, norma z Torsenem 297-04-13 'SYMON-ARBITER'. Rezerwa 50 smokow. Pasmo netto po wyplatach, konserwatywnie przy obrocie rzedu 2000-2500/mies."
+    },
+    {
+     "nazwa": "⚑ CZARNY ZAMEK - POSTERUNEK POLITYKI, NIE PLACOWKA HANDLOWA",
+     "typ": "koszt",
+     "min": 2,
+     "max": 6,
+     "okres": "miesiac",
+     "od": "300-01-01",
+     "do": null,
+     "zrodlo": "WYKONANE 300-03-15 polecenie Symona z 299-09-05, lezace bez ruchu poltora roku: 'ma byc wpisany OSOBNO, Z POWODEM, NA PISMIE'. Obrot 80-170/mies to SUFIT, nie stan przejsciowy - kilkuset niedozywionych ludzi w trzech zamkach. Marza bierze sie z KURSU, nie z ceny: bec7ka soli warta grosze w Bialym Porcie kupuje skory, za ktore w Braavos placi sie srebrem - bo oni nie maja z kim sie targowac, a Symon jest jedynym, kto tam jezdzi zima. POZYCJA UJEMNA JEST TU CENA, NIE PORAZKA. KTO KARMI MUR, TEN MUR TRZYMA."
     }
    ],
    "nieznane": [
     {
-     "nazwa": "zysk i obrot placowek za I, II i III/300",
-     "powod": "ZAPIS KONCZY SIE NA GRUDNIU 299. Zima to dno roku; wiosny nikt jeszcze nie policzyl. Nie zgaduje sie (zasada 43)."
-    },
-    {
-     "nazwa": "ubezpieczenia frachtu",
-     "powod": "50 smokow REZERWY, zero obrotu. Metoda spisana przez Symona 300-03-14 - linia rusza, ale nie ma jeszcze ani jednej liczby przychodu."
-    },
-    {
-     "nazwa": "⚠ CZARNY ZAMEK WPISANY JAKO PLACOWKA HANDLOWA",
-     "powod": "BLAD DO POPRAWIENIA W KSIEDZE, nazwany przez Symona 299-09-05 i DO DZIS NIEWYKONANY: 'Czarny Zamek stoi w rubryce placowek z pozycja ujemna. Za piec lat dyrektor, ktory nie bedzie pamietal po co, ZAMKNIE GO JAKO NIERENTOWNY - I BEDZIE MIAL RACJE ARYTMETYCZNA. Ma byc wpisany OSOBNO, Z POWODEM, NA PISMIE.' TO NIE JEST PLACOWKA HANDLOWA - TO POSTERUNEK POLITYKI. Kto karmi Mur, ten Mur trzyma. Marza bierze sie z KURSU, nie z ceny. 80-170/mies to SUFIT, nie stan przejsciowy."
-    },
-    {
-     "nazwa": "BURSZTYN - CO NAPRAWDE DZIELI 4 JELENIE OD 25-50 SMOKOW",
-     "powod": "SUROWIEC JEST ZALATWIONY (korekta gracza 300-03-15). Z diagnozy 299-08-23 zostaje WIEC DRUGA POLOWA, ktorej nikt nie zamknal: BRAK MANDATU - cel, wolumen i KANAL SPRZEDAZY. Slowa z 299-08-23: 'linia bursztynowa odlozona w wojne slusznie, ale wojna skonczyla sie w MAJU i nikt jej nie odwiesil'. Zapis 298-09-12 dodaje druga przyczyne: ZLY SEZON NA LUKSUS - w wojne nikt nie kupuje cacek, a marka luksusowa to SLOW BUILD. Od maja 299 jest pokoj. LICZBY OBROTU ZA ROK 300 NIE MA."
+     "nazwa": "⚑ CZTERY POZYCJE ZAMKNIETE 300-03-15 - NIE WRACAJA JAKO NIEZNANE",
+     "powod": "zysk i obrot placowek I-III/300 (symulacja ustalona) · ubezpieczenia frachtu (dzialaly od 299-10) · Czarny Zamek (wypisany osobno z powodem) · bursztyn (dziala, pasmo robocze 25-50). MAJA MOC ZAPISU. Zasada 43: liczba raz ustalona jest ustalona."
     }
    ],
    "synteza": {
@@ -137,7 +152,7 @@
      "nazwa": "WARSZTAT BURSZTYNU - MARRO",
      "rodzaj": "wytworcze",
      "stan": "Mistrz sprowadzony z Braavos 298-07-30. Cztery sztuki mistrzowskie w sierpniu, trzy sprzedane. 1-5 smokow za sztuke, wybitna 10+. LINIA ITEROWANA Z MIRA jako okiem rynku (wahadlo surowe-generyczne, srodek to 'rozmyslna powsciagliwosc'); mistrzowie wrocili do pelnej roboty.",
-     "w_ksiegach": "⚠ W ZAPISIE Z GRUDNIA +4 JELENIE/MIES (0,02 smoka). POTENCJAL 25-50/MIES po przestawieniu na segment mistrzowski. ⚠⚠ VOID 300-03-15: 'Marro siedzi rok bez kamieni' TO NIEPRAWDA. Diagnoza BRAKU SUROWCA jest z 299-08-23 i ZOSTALA ROZWIAZANA - wskazanie gracza, drugi raz. BLOKADA SUROWCOWA NIE ISTNIEJE.",
+     "w_ksiegach": "⚑ USTALONE 300-03-15: DZIALA. Pasmo robocze 25-50/mies od 300-01. Surowiec zalatwiony, mandat odwieszony.",
      "zrodlo": "spis_przedsiebiorstw_299_09.md + bursztyn_braavos_edge + korekta gracza 300-03-15"
     },
     {
@@ -191,7 +206,7 @@
      "nazwa": "UBEZPIECZENIA FRACHTU",
      "rodzaj": "finansowe",
      "stan": "Wlasna nisza Symona od 297: instrument wyczytany z ksiag Nesty 297-01-19, sprzedane Aldousowi 297-03-29, norma z Torsenem 297-04-13 - 'regula ryzyka tranzytu kryta ubezpieczeniem, SYMON-ARBITER'. METODA SPISANA 300-03-14.",
-     "w_ksiegach": "⚠ 50 SMOKOW REZERWY, ZERO OBROTU. Brakowalo RACHMISTRZA, nie rynku - i brakowalo metody na papierze. Od 300-03-14 metoda jest.",
+     "w_ksiegach": "⚑ USTALONE 300-03-15: DZIALALY OD 299-10, pasmo 10-18/mies netto. Rezerwa 50 smokow stoi osobno.",
      "zrodlo": "spis_przedsiebiorstw_299_09.md + EKONOMIA_BAZA.md + 300-03-14"
     }
    ],
@@ -445,5 +460,11 @@
    "zrodlo": "zamkniecie dlugu Korony 300-03-03",
    "status": "spłacane w towarze"
   }
- ]
+ ],
+ "_symulacje": {
+  "_data": "300-03-15",
+  "_podstawa": "Rozstrzygniecie gracza: dziury w ksiegach sa brakiem ZAPISU, nie brakiem ZDARZEN. Zasada 3 - blad prowadzacego nie przechodzi na gracza. Watpliwosc rozstrzyga sie NA KORZYSC GRACZA.",
+  "_metoda": "Nie wymyslam skali. Kotwicze w liczbach, ktore JUZ STOJA: seria 385/315/215 (X-XII/299), synteza 200-300/mies netto i 60% pulapu (299-09-05), oraz zapisana SEZONOWOSC (Fosa i Rozdroze zalamuja sie zima, Czarny Zamek rosnie zima, Bialy Port trzyma caly rok).",
+  "_status": "USTALONE - MA MOC ZAPISU (zasada 43). Liczb ponizej NIE kwestionuje sie ponownie i NIE wraca sie do nich jako do 'nieznanych'. Zmienia je wylacznie zdarzenie w grze."
+ }
 }

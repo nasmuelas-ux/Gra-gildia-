@@ -2513,8 +2513,8 @@
    "status": "otwarte"
   },
   {
-   "data": "300-03-16 - kolejna proba",
-   "co": "⚠ SZTORM (rzut 7) - PIERWSZA PARTIA TOWARU KORONY NIE WEJDZIE DZIS. Nabrzeze stoi, kruki nie leca. ### CO TO ROBI Z MARCEM: 45 smokow, ktore zamykaja wykup 340, mialo zejsc z pierwszej partii soli i ryby. Weksle zapadaja W MARCU - kilka dni zwloki jeszcze sie miesci, ale zapas dni wlasnie sie skrocil. ### CO IDZIE MIMO SZTORMU: PODPIS Z WYMANEM - akty podpisuje sie pod dachem. ### 300-03-15 (pogoda 20, przychodzace 1): NIE WESZLA DRUGI DZIEN. Morze nie puscilo. Do zapadniecia weksli 300-03-31 zostaje SZESNASCIE DNI; brakujace 45 nadal wisi na tej partii.",
+   "data": "300-03-17 - kolejna proba",
+   "co": "⚠ SZTORM (rzut 7) - PIERWSZA PARTIA TOWARU KORONY NIE WEJDZIE DZIS. Nabrzeze stoi, kruki nie leca. ### CO TO ROBI Z MARCEM: 45 smokow, ktore zamykaja wykup 340, mialo zejsc z pierwszej partii soli i ryby. Weksle zapadaja W MARCU - kilka dni zwloki jeszcze sie miesci, ale zapas dni wlasnie sie skrocil. ### CO IDZIE MIMO SZTORMU: PODPIS Z WYMANEM - akty podpisuje sie pod dachem. ### 300-03-15 (pogoda 20, przychodzace 1): NIE WESZLA DRUGI DZIEN. Morze nie puscilo. Do zapadniecia weksli 300-03-31 zostaje SZESNASCIE DNI; brakujace 45 nadal wisi na tej partii. ### 300-03-16 (pogoda 17): NIE WESZLA TRZECI DZIEN. ⚑ ALE WYKUP DOMYKA SIE Z KAMIENICZKI, nie z tej partii.",
    "kto": "HAL + kapitanat portu",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-16",
@@ -2703,12 +2703,12 @@
   },
   {
    "data": "300-03-16",
-   "co": "SEPTON DO SEPTY W CAILIN - PROSBA SYMONA, 300-03-15, w sepcie Bialego Portu. PODSTAWA TO WLASNY WARUNEK OWENA SPRZED MIESIECY: 'jak juz ta septa stanie, NIECH NIE STOI PUSTA; SEPTON PRZY PORCIE W MIESCIE PRZELADUNKOWYM MA ROBOTE NA TRZECH LUDZI'. ⚠ NIE MOZE TO BYC OWEN: jest REWIZOREM KSIAG AKTU RODZINY TALLY od 299-11-29, a zasada wlasna brzmi 'FACH I KSIEGI NIGDY W JEDNEJ RECE'. Septon oplacany przez lenno, ktory rewiduje ksiegi tego lenna, przestaje byc 'poza domem, poza Korona, poza handlem'. CO POWIEDZIAL O KANDYDACIE: septy w miasteczku granicznym na bagnie nie wezmie nikt, kto ma wybor - bedzie to czlowiek MLODY ALBO PO CZYMS. I ze Symonowi to akurat nie przeszkadza, bo od czterech lat bierze ludzi, ktorych ktos odstawil (Bors, Ilario, Obaro). NAZWISKA NIE PODAL. Pyta u swoich. ### 300-03-15: TERMIN DANY - JUTRO, 300-03-16. Owen przyjal. ⚠ CO TEN TERMIN KUPUJE, POWIEDZIANE WPROST: NIE KANDYDATA, TYLKO ODPOWIEDZ. W jeden dzien nie szuka sie czlowieka - w jeden dzien pyta sie tych, ktorzy sa w miescie, i wraca sie z nazwiskiem albo ze zdaniem 'nie ma nikogo'. Obie odpowiedzi sa uzyteczne; brak odpowiedzi nie jest. Symon wyjezdza 03-19, wiec termin miesci sie z zapasem.",
+   "co": "SEPTON DO SEPTY W CAILIN - PROSBA SYMONA, 300-03-15, w sepcie Bialego Portu. PODSTAWA TO WLASNY WARUNEK OWENA SPRZED MIESIECY: 'jak juz ta septa stanie, NIECH NIE STOI PUSTA; SEPTON PRZY PORCIE W MIESCIE PRZELADUNKOWYM MA ROBOTE NA TRZECH LUDZI'. ⚠ NIE MOZE TO BYC OWEN: jest REWIZOREM KSIAG AKTU RODZINY TALLY od 299-11-29, a zasada wlasna brzmi 'FACH I KSIEGI NIGDY W JEDNEJ RECE'. Septon oplacany przez lenno, ktory rewiduje ksiegi tego lenna, przestaje byc 'poza domem, poza Korona, poza handlem'. CO POWIEDZIAL O KANDYDACIE: septy w miasteczku granicznym na bagnie nie wezmie nikt, kto ma wybor - bedzie to czlowiek MLODY ALBO PO CZYMS. I ze Symonowi to akurat nie przeszkadza, bo od czterech lat bierze ludzi, ktorych ktos odstawil (Bors, Ilario, Obaro). NAZWISKA NIE PODAL. Pyta u swoich. ### 300-03-15: TERMIN DANY - JUTRO, 300-03-16. Owen przyjal. ⚠ CO TEN TERMIN KUPUJE, POWIEDZIANE WPROST: NIE KANDYDATA, TYLKO ODPOWIEDZ. W jeden dzien nie szuka sie czlowieka - w jeden dzien pyta sie tych, ktorzy sa w miescie, i wraca sie z nazwiskiem albo ze zdaniem 'nie ma nikogo'. Obie odpowiedzi sa uzyteczne; brak odpowiedzi nie jest. Symon wyjezdza 03-19, wiec termin miesci sie z zapasem. ### 300-03-16 TERMIN DOTRZYMANY CO DO DNIA (rzut 78): OWEN MA NAZWISKO. SEPTON ELWYN - mlody, tak mlody, ze nie ma jeszcze przydomka. ⚠ PODANY Z ZASTRZEZENIEM, KTOREGO OWEN NIE COFA: 'septon przy porcie w miescie przeladunkowym ma robote na TRZECH ludzi' - a daje JEDNEGO.",
    "kto": "SEPTON OWEN -> Wiara w Bialym Porcie",
    "kanal": "Wiara, Bialy Port",
    "wraca": "300-03-16",
    "zamyka": "nazwisko septona do Cailin albo jawne 'nie ma nikogo'",
-   "status": "otwarte - TERMIN NA JUTRO"
+   "status": "NAZWISKO PODANE 300-03-16 - decyzja pana"
   },
   {
    "data": "300-04-01 - najwczesniej",

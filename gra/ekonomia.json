@@ -115,6 +115,18 @@
      "wzrost_mies": 0.02,
      "sufit": 40,
      "zrodlo": "TO JEST RZECZ DRUGA I NOWA, nie ta sama co wyzej. Udzial w bednarni WYMANA, 'wniesiona JEGO drewnem i JEGO bednarzami', z umowy Tally-Manderly 300-03-13. Nie idzie wstecz, bo nabyty przedwczoraj."
+    },
+    {
+     "nazwa": "KOMPANIA POLNOC-DORZECZE - wynagrodzenie KOORDYNATORA (nie udzial)",
+     "typ": "przychod",
+     "min": 25,
+     "max": 60,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.015,
+     "sufit": 140,
+     "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza. TO NIE JEST TO SAMO, CO OBROT PLACOWKI RIVERRUN (545/505/460) - tamto jest wlasny handel Domu, przepustki i tranzyt. TO JEST OSOBNA UMOWA, zawarta swiadomie 299-08-22: 'DOM HANDLOWY TALLY - OSOBNA UMOWA jako NAJETY KOORDYNATOR z JAWNIE WPISANA STAWKA - nie strona kompanii, lecz USLUGODAWCA, KTOREGO MOZNA WYMIENIC'. ⚠ I TO JEST CALY SENS TEJ KONSTRUKCJI, nie drobiazg ksiegowy: STAWKA, NIE UDZIAL W ZYSKU. Gawen powiedzial to wprost przy stole: 'jesli podpiszecie za Korone i wezmiecie prowizje od Kompanii, to nie ja bede musial tego bronic - WY BEDZIECIE, PRZEDE MNA TEZ'. Stad trzy podpisy trzema roznymi piorami i zasada: ZADNA Z RAK SYMONA NIE PODPISUJE TEGO, CO PRZYZNALA DRUGA. ROSNIE, bo Kompania jest DWUKIERUNKOWA ARTERIA - zboze Reach na polnoc, polnocne drewno i futra na poludnie - i plynie CALY ROK przez wolny od lodu Bialy Port."
     }
    ],
    "nieznane": [
@@ -125,6 +137,10 @@
     {
      "nazwa": "⚠ SKUTEK GOTOWKOWY ZAPLATY W MONECIE ZA TOWAR WLOSCI",
      "powod": "Od 300-03-15 lenno dostaje za swoj towar PIENIADZ, nie zapis. NIE ZMIENIA TO ZYSKU DOMU - towar byl kupowany zawsze i jego cena siedzi w marzy. ZMIENIA PRZEPLYW: 40-90 smokow MIESIECZNIE WYCHODZI ZE SKRZYNI DOMU w monecie. ⚠ A SKRZYNIA PO WYKUPIE 340 JEST PRZY ZERZE. To jest pierwszy miesiac, w ktorym obie te rzeczy dziela sie ta sama moneta."
+    },
+    {
+     "nazwa": "⚠ RIVERRUN NIE MA ZARZADCY-WSPOLNIKA",
+     "powod": "Wakat wypisany przez samego HALA, bez proszenia, przy reformie spolek - jeden z czterech. Placowka, ktora obsluguje Kompanie Polnoc-Dorzecze i caly tranzyt przez Przesmyk, nie ma czlowieka z udzialem. Dopoki go nie ma, pulap 580 jest sufitem teoretycznym: nikt tam nie ma wlasnego interesu w tym, zeby rosl."
     }
    ],
    "synteza": {
@@ -420,6 +436,18 @@
      "od": "299-06-01",
      "do": null,
      "zrodlo": "EKONOMIA_BAZA.md: ~3500 rocznie w monecie"
+    },
+    {
+     "nazwa": "ESKORTA KONWOJOW KOMPANII - Korona daje ludzi, Kompania placi",
+     "typ": "przychod",
+     "min": 15,
+     "max": 40,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.015,
+     "sufit": 120,
+     "zrodlo": "⚑ USTALONE 300-03-15. Pomysl MARSZALKA OSRICA, 299-08-22 (rzut NAT 100), wpisany do umowy Kompanii: KOMPANIA PLACI ZA KONWOJ, KORONA DAJE LUDZI - za pieniadze, a nie z laski. ⚠ TO NIE JEST ZWYKLA POZYCJA DOCHODU: to PIERWSZA POKOJOWA, OPLACANA ROBOTA DLA ZOLNIERZA KORONY. Kilkudziesieciu zawodowych ludzi utrzymywanych PRZEZ HANDEL - nie z podatku i nie z topniejacego worka wojennego. Rozwiazuje glowna przeszkode stalej armii, ktora nigdy nie byla brakiem ludzi, tylko brakiem ZRODLA ZOLDU W CZASIE POKOJU. Rosnie razem z ruchem przez Przesmyk, ktory rosnie sam."
     }
    ],
    "nieznane": [

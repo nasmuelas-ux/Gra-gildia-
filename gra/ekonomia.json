@@ -251,25 +251,6 @@
    "opis": "Male lordostwo, ~550 rocznie. Twarde ograniczenie: zwyczaj zabrania podnoszenia czynszow, wiec caly wzrost musi pochodzic z RZECZY NOWYCH.",
    "pozycje": [
     {
-     "nazwa": "myto z traktu (po zniesieniu myta na zywnosc)",
-     "typ": "przychod",
-     "stawka": 11,
-     "okres": "miesiac",
-     "od": "299-09-01",
-     "do": null,
-     "zrodlo": "rozbicie 15-30 smokow/mies, zapis lenna"
-    },
-    {
-     "nazwa": "miasteczko Cailin - waga, targ, oplaty sadowe, miarka mlynarska, oplata piecowa",
-     "typ": "przychod",
-     "min": 2,
-     "max": 4,
-     "okres": "miesiac",
-     "od": "299-09-01",
-     "do": null,
-     "zrodlo": "zapis lenna: 2-4 smoki/mies, ZIMA SPADA bo targ chudnie"
-    },
-    {
      "nazwa": "zielarnia",
      "typ": "przychod",
      "min": 1,
@@ -316,6 +297,42 @@
      "od": "299-01-01",
      "do": null,
      "zrodlo": "EKONOMIA_BAZA.md: metoda zdolnosci lenna, 20-40 rocznie"
+    },
+    {
+     "nazwa": "MYTO Z TRAKTU, BRAMY I PRZEWOZU PRZEZ BAGNA",
+     "typ": "przychod",
+     "min": 11,
+     "max": 20,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.018,
+     "sufit": 60,
+     "zrodlo": "USTALONE 300-03-15: baza 11/mies z rozbicia dochodu lenna PO zniesieniu myta na zywnosc. ROSNIE, i to nie jest domysl - zapis Hendry'ego: 'RUCH NA GROBLI ROSNIE, MIASTECZKO POD FOSA SIE ZALUDNIA, przez brame ida wozacy, sezonowi, uciekinierzy z Dorzecza i chlopcy z Przesmyku'. Doktryna lenna spisana 300-02-25: LENNO PRZESTAJE BRAC Z ZIEMI I ZACZYNA BRAC Z RUCHU."
+    },
+    {
+     "nazwa": "OPLATY MIASTA CAILIN - waga, targ, sad grodzki, miarka, oplata piecowa, brama",
+     "typ": "przychod",
+     "min": 8,
+     "max": 18,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.022,
+     "sufit": 80,
+     "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza: LENNO POBIERA PODATEK Z CAILIN. Stara liczba 2-4/mies pochodzi z czasu, gdy to bylo miasteczko; DZIS TO MIASTO - 1400 DUSZ Z OKLADEM, burmistrz Herwin, lawa, ktora sadzi, wlasna pieczec, slup. Roderyk zameldowal WZROST I ZMIANE RODZAJU spraw sadowych. ⚠ I CALOSC IDZIE DO KASY 2, BO KASY MIEJSKIEJ NIE MA: powstanie dopiero z chwila nadania praw miejskich. Zapis: 'przy trakcie, korytarzu zbozowym i prawie skladu 30-80 smokow miesiecznie w ciagu kilku lat - MIASTECZKO PRZEROSNIE MYTO I STANIE SIE NAJWIEKSZA POZYCJA PIENIEZNA FOSY'. Sufit 80 jest stamtad."
+    },
+    {
+     "nazwa": "SPRZEDAZ PRODUKCJI WLOSCI PRZEZ PLACOWKI DOMU",
+     "typ": "przychod",
+     "min": 40,
+     "max": 90,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.012,
+     "sufit": 180,
+     "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza: LENNO SPRZEDAJE TO, CO DOSTAJE. Czynsze i daniny ida W NATURZE - JEDNA TRZECIA DO POLOWY PLONU - a wlosc rodzi TORF, RYBE, TRZCINE, FUTRA, ZELAZO BAGIENNE, warzywo ze szklarni, ziola i mech oraz make z mlyna w sluzie. Lenno nie ma wlasnego kantoru ani arterii; DOM MA OBA, wiec towar idzie jego placowkami. Zapis 300-03-11: 'to nie jest dodatek, tylko JEDYNY SILNIK - zwyczaj zabrania podnoszenia czynszow, wiec caly wzrost dochodu lenna musi pochodzic z rzeczy nowych'. ⚠ NIE UZYWAM TU LICZBY 155-165/mies z 300-03-11 - TAMTA BYLA MOJA ALOKACJA I ZOSTALA VOIDOWANA (EKONOMIA_BAZA.md). Pasmo 40-90 jest ostrozniejsze i nie wskrzesza skasowanego rozbicia."
     }
    ],
    "nieznane": [
@@ -324,16 +341,16 @@
      "powod": "Obciazenie przyjete 300-03-11. LICZBY NIE MA W ZAPISIE."
     },
     {
-     "nazwa": "sprzedaz produkcji wlosci przez placowki Domu (torf, ryba, trzcina, futra, zelazo bagienne)",
-     "powod": "Wiadomo, ZE sie dzieje; nie ma ANI JEDNEJ linii 'co Dom kupil od lenna i po ile'. Zapis 300-03-11: brak rubryki, nie brak sprzedazy."
-    },
-    {
      "nazwa": "prawo skladu",
      "powod": "NIENADANE. Wniosek miasta u Krola; obiecane rozstrzygniecie przed Rada."
     },
     {
      "nazwa": "seminarium nauczycieli na Fosie",
      "powod": "Ustanowione 300-03-13. Kasa obsadza GLOWA (zasada 42); kwoty nie ma."
+    },
+    {
+     "nazwa": "⚑ TRZY POZYCJE ZAMKNIETE 300-03-15 - NIE WRACAJA JAKO NIEZNANE",
+     "powod": "myto (rosnie z ruchem) · oplaty miasta Cailin (1400 dusz, lawa, sad - stara liczba 2-4 byla z czasow miasteczka) · sprzedaz produkcji wlosci przez placowki Domu. MAJA MOC ZAPISU (zasada 43). OTWARTE ZOSTAJE JEDNO PYTANIE, KTORE NIE JEST O KWOTE: czy Kasa 2 dostaje za ten towar MONETE, czy ZAPIS W KSIEDZE DOMU."
     }
    ],
    "przedsiebiorstwa": [
@@ -385,7 +402,7 @@
      "zrodlo": "bractwo_rzemiosla_wolnego.md"
     }
    ],
-   "korekta_dochodu": "⚠ SPIS Z 299-09-05 PODAWAL 25-50 SMOKOW/MIES W MONECIE. Dzis obowiazuje 15-30 - roznica to ZNIESIENIE MYTA NA ZYWNOSC, nie spadek ruchu. Nizsza liczba jest NOWSZA i ta liczy silnik.",
+   "korekta_dochodu": "⚠ STARE 15-30/MIES W MONECIE JEST JUZ NIEAKTUALNE. Pochodzilo z czasu, gdy Cailin bylo miasteczkiem, a sprzedaz produkcji wlosci nie miala wlasnej linii. Po ustaleniu 300-03-15 lenno bierze WIELOKROTNIE wiecej - i nadal zgodnie z wlasna doktryna: NIE Z ZIEMI, TYLKO Z RUCHU.",
    "w_naturze": "⚠ W MONECIE 15-30/MIES, ALE W NATURZE I PRACY - WIELOKROTNOSC TEGO: czynsze i daniny 1/3 do 1/2 plonu w naturze, robocizna 2-3 dni tygodniowo w sezonie. SILNIK LICZY WYLACZNIE MONETE."
   },
   "KASA 3 - SKARB POLNOCY": {

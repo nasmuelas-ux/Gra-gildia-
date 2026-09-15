@@ -2924,7 +2924,8 @@
    "kanal": "na miejscu, Bialy Port",
    "wraca": "300-03-17",
    "zamyka": "czy na ten znak podejmowano przez dwa tygodnie ciszy - data, kwota i miejsce, albo jawne 'nic nie schodzilo'",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17, bez rzutu (wlasna ksiega; sprawa dostala swoj jedyny rzut rano - 5). WYPLATY SCHODZILY WSZYSTKIE, CO DO JEDNEJ. Dowodem nie sa kwoty, tylko DATY: przez pol roku ten znak podejmowal NIEROWNO (spoznienia o cztery i dziewiec dni, dwa razy wcale i podwojnie nastepnym razem) - a OD DWOCH TYGODNI CO DO DNIA, bez odchylenia. Hal: 'nie poznalem tego po pismie, poznalem po punktualnosci'. MIEJSCE: ROZDROZE, wszystkie cztery, zadnej gdzie indziej.",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-17",
@@ -2933,6 +2934,24 @@
    "kanal": "kruk Bialy Port-Fosa (2 dni) albo spotkanie",
    "wraca": "~300-03-21",
    "zamyka": "tresc tego, co przyszlo zajetym kanalem - podana Symonowi bez papieru",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "co": "NASTEPNA WYPLATA NA ZNAK MILCZACEJ REKI - MA DATE I MA ADRES. Ktokolwiek podejmuje, MUSI PRZYJSC OSOBISCIE I MUSI PODAC ZNAK, i robi to CO DO DNIA. Miejsce: ROZDROZE, cicha spolka Domu z gospoda Mashy Heddle - czyli miejsce, w ktorym Dom ma juz wlasne oczy i wlasny powod tam byc. DOKTRYNA, KTORA TU PASUJE I JEST SPRAWDZONA (komory celne jako sito, 299-08-26): NIE SLEDZTWO, TYLKO MIEJSCE, DO KTOREGO ON SAM PRZYJDZIE. ⚠ ROZSTRZYGNIECIE NALEZY DO PANA I NALEZY PRZED WYJAZDEM 300-03-19: brac, obserwowac, czy odstawic wyplaty i zamknac kanal.",
+   "kto": "SYMON (rozkaz) -> HAL (kantor) / cicha spolka na Rozdrozu",
+   "kanal": "na miejscu, Bialy Port -> Rozdroze",
+   "wraca": "300-03-19",
+   "zamyka": "rozkaz: brac, patrzec czy odstawic - i kto to robi, z nazwiskiem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "co": "⚠ CENA REGULY 'KTO WYPLACA, NIE WIE KOMU' - NAZWANA PRZEZ HALA SAMEGO, NIEPROSZONEGO, I MA STAC ZAPISANA OBOK SAMEJ REGULY. Mur postawiony 299-11, zeby zaden pisarz nie mogl sprzedac nazwiska czlowieka siatki, ZADZIALAL - i tym samym murem OSLONIL TEGO, KTO PO NIM PRZYSZEDL, bo dla ksiegi kantoru obaj sa ta sama litera i ta sama liczba. To nie jest blad reguly ani wina Hala - to jej cena, i po raz pierwszy zostala zaplacona. DO ROZSTRZYGNIECIA: czy regula dostaje poprawke (np. drugi znak potwierdzajacy, znany tylko Willi i podejmujacemu), czy zostaje jak jest ze swiadomie przyjetym kosztem.",
+   "kto": "SYMON + WILLA + HAL",
+   "kanal": "decyzja pana",
+   "wraca": "bez daty - stoi, az pan rozstrzygnie",
+   "zamyka": "poprawka do reguly wyplat na znak - albo jawne 'zostaje jak jest i wiemy dlaczego'",
    "status": "otwarte"
   }
  ]

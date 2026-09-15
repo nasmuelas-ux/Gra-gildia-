@@ -2916,6 +2916,24 @@
    "wraca": "300-03-30 (punkt 0 Rady)",
    "zamyka": "odpowiedz na ich warunek: co gwarantuje spisanemu, ze lista nie posluzy przeciw niemu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "co": "KSIEGA ZALICZEK HALA - CZY NA ZNAK MILCZACEJ REKI SCHODZILY WYPLATY PRZEZ DWA TYGODNIE CISZY. Nitka, ktora nie potrzebuje ptaka: Hal jest w Bialym Porcie, a doktryna od 299-11 mowi WYPLACA SIE NA ZNAK (litera+liczba), NIE NA NAZWISKO - 'kto wyplaca, nie wie komu'. Hal nie wie, KIM ten czlowiek jest; wie, CZY, KIEDY, ILE i GDZIE podejmowano. ROZUMOWANIE: czlowiek, ktory milczy, bo nie moze pisac, zwykle tez nie odbiera pieniedzy. Jezeli wyplaty schodzily - ktos po nie przychodzil, a ten ktos ma date i miejsce.",
+   "kto": "HAL SIEROTA (ksiega zaliczek)",
+   "kanal": "na miejscu, Bialy Port",
+   "wraca": "300-03-17",
+   "zamyka": "czy na ten znak podejmowano przez dwa tygodnie ciszy - data, kwota i miejsce, albo jawne 'nic nie schodzilo'",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "co": "PYTANIE DO WILLI O TRESC - MUSI POCZEKAC NA USTA, NIE NA PAPIER. Zasada 34: Willa jest na Fosie, kruk to dwa dni, odpowiedz ~300-03-21, a Symon wyjezdza 300-03-19. Willa CELOWO nie napisala tresci: system znakow, ktory prowadzi z Garrickiem od dwoch miesiecy (LITERA I LICZBA, NIGDY IMIE, NIGDY SKAD), zabrania wkladac tresc z zajetego kanalu do drugiego listu ta sama poczta. ⚠ DRUGI RAZ W CIAGU DWOCH DNI RUCHOMY ADRES ZJADA PANU WIADOMOSC - to jest dokladnie to, przed czym Garrick ostrzegal 300-03-16.",
+   "kto": "WILLA -> SYMON",
+   "kanal": "kruk Bialy Port-Fosa (2 dni) albo spotkanie",
+   "wraca": "~300-03-21",
+   "zamyka": "tresc tego, co przyszlo zajetym kanalem - podana Symonowi bez papieru",
+   "status": "otwarte"
   }
  ]
 }

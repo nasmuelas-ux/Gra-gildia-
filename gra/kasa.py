@@ -261,6 +261,11 @@ def drukuj(zakres, r, m, d, wynik):
             print("  %-62s %s" % (n[:62], fmt(lo, hi, 13)))
             slo += lo
             shi += hi
+        olo, ohi = slo, shi
+        print("  " + "-" * 76)
+        print("  %-62s %s" % (">>> WYNIK OPERACYJNY (to, co dom zarabia co miesiac)", fmt(olo, ohi, 13)))
+        if k["zdarzenia"]:
+            print("  --- ZDARZENIA JEDNORAZOWE (nie powtarzaja sie) ---")
         for (dt, op, lo, hi, st, zr) in k["zdarzenia"]:
             print("  %-62s %s" % (("[%s] %s" % (dt, op))[:62], fmt(lo, hi, 13)))
             if st:
@@ -268,7 +273,7 @@ def drukuj(zakres, r, m, d, wynik):
             slo += lo
             shi += hi
         print("  " + "-" * 76)
-        print("  %-62s %s" % ("RAZEM", fmt(slo, shi, 13)))
+        print("  %-62s %s" % ("RAZEM Z ZDARZENIAMI", fmt(slo, shi, 13)))
         glo += slo
         ghi += shi
         roz = k["_kasa"].get("_rozbicie")

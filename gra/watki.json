@@ -6376,6 +6376,11 @@
    "id": "przewloka_ujscie_tally_manderly",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "seminarium_nauczycieli",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

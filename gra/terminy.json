@@ -2545,9 +2545,9 @@
    "co": "⚠ CO STWORZYL TEN PODPIS - TRZY RZECZY, KTORE OD DZIS BIEGNA SAME I MAJA ZEGARY. (1) UJSCIE TALLY-MANDERLY ISTNIEJE NA PAPIERZE, ZANIM ISTNIEJE NA ZIEMI. Port ma nazwe, wlascicieli i polowy - nie ma ani pomostu, ani czlowieka. Plan budowy od Weylina i Orbela: 300-03-20. (2) ZEGAR TOMMARDA: jest czlowiekiem Cerwyna DO 300-03-30. Wspolne przejscie musi sie odbyc PRZED Rada, albo trzecia reka znika, a umowa zostaje z pusta liczba mil. (3) WYMAN WIEZIE NA RADE OCZEKIWANIE: karta Mistrza Handlu i karta standardow jednym aktem, i sprzedaz drewna przez jego urzad. NIC Z TEGO NIE JEST JESZCZE UCHWALONE. Podpisano z nim umowe dwoch domow; reszta zalezy od czternastu.",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-16",
+   "wraca": "300-03-18",
    "zamyka": "wspolne przejscie odbyte przed Rada",
-   "status": "otwarte"
+   "status": "ROZKAZ WYSLANY 300-03-16 - kruk Bialy Port-Fosa, laduje 300-03-18. Cztery rece: Weylin + Orbelo, czlowiek Wymana, Tommard Kosa jako trzecia reka. Sznur, jedno przejscie, konce na zmiane mila po mili, podpis po KAZDEJ mili. Pomiar w poludnie, w odwilz. RZECZ IDZIE - wynik 300-03-18."
   },
   {
    "data": "300-03-13",
@@ -2872,6 +2872,15 @@
    "wraca": "~300-03-24 (Winterfell) najpozniej przed punktem 0 Rady 300-03-30",
    "zamyka": "karta w reku Krola, bez posrednika",
    "status": "otwarte - karta zapieczetowana i schowana"
+  },
+  {
+   "data": "300-03-16",
+   "co": "KTO PLACI ZA PRZEWLOKE - 230 DO 325, I AKT TEGO NIE ROZSTRZYGA. Stawka mowi ILE, nie mowi KTO. Trzech beneficjentow (Korona, Manderly, Fosa), trzy kasy - a KASA 2 MA 550 ROCZNIE I SAMA TEGO NIE UDZWIGNIE. Liczba zapadnie pod trzema podpisami 300-03-18; pytanie o platnika wraca razem z nia i jest do rozstrzygniecia PRZED Rada 300-03-30.",
+   "kto": "SYMON + HAL (Kasa 1) + WARRYN/GERRIK (Kasa 2) + WYMAN",
+   "kanal": "decyzja pana po odczycie mil",
+   "wraca": "300-03-18 (razem z liczba mil)",
+   "zamyka": "podzial sumy przewloki na trzy kasy - albo jawne 'placi jedna i dlaczego'",
+   "status": "otwarte"
   }
  ]
 }

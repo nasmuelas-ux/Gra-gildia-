@@ -2700,6 +2700,15 @@
    "wraca": "300-03-19",
    "zamyka": "wyjazd albo swiadoma zmiana daty",
    "status": "otwarte - NOWE"
+  },
+  {
+   "data": "bez daty - Owen pyta u swoich",
+   "co": "SEPTON DO SEPTY W CAILIN - PROSBA SYMONA, 300-03-15, w sepcie Bialego Portu. PODSTAWA TO WLASNY WARUNEK OWENA SPRZED MIESIECY: 'jak juz ta septa stanie, NIECH NIE STOI PUSTA; SEPTON PRZY PORCIE W MIESCIE PRZELADUNKOWYM MA ROBOTE NA TRZECH LUDZI'. ⚠ NIE MOZE TO BYC OWEN: jest REWIZOREM KSIAG AKTU RODZINY TALLY od 299-11-29, a zasada wlasna brzmi 'FACH I KSIEGI NIGDY W JEDNEJ RECE'. Septon oplacany przez lenno, ktory rewiduje ksiegi tego lenna, przestaje byc 'poza domem, poza Korona, poza handlem'. CO POWIEDZIAL O KANDYDACIE: septy w miasteczku granicznym na bagnie nie wezmie nikt, kto ma wybor - bedzie to czlowiek MLODY ALBO PO CZYMS. I ze Symonowi to akurat nie przeszkadza, bo od czterech lat bierze ludzi, ktorych ktos odstawil (Bors, Ilario, Obaro). NAZWISKA NIE PODAL. Pyta u swoich.",
+   "kto": "SEPTON OWEN -> Wiara w Bialym Porcie",
+   "kanal": "Wiara, Bialy Port",
+   "wraca": null,
+   "zamyka": "nazwisko septona do Cailin albo jawne 'nie ma nikogo'",
+   "status": "otwarte - NOWE"
   }
  ]
 }

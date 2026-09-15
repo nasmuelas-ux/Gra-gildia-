@@ -750,12 +750,12 @@
   },
   {
    "data": "300-03-05",
-   "co": "KAFARY NIE MAJA WLASCICIELA - jedyna rzecz realnie hamujaca groble, i NIKT NIE MA ROZKAZU JEJ USUNAC. Cerwyn 300-02-20 i Bran 300-02-25 powiedzieli to samo: 'nie brakuje nam pieniedzy, stoimy, bo mamy cztery kafary; kafary robi sie z DREWNA I Z ZELAZA, NIE Z MONETY, i trzeba je komus KAZAC zrobic'. Plac budowy BEZ MISTRZA, KUZNI I KAMIENIOLOMU. ### ⚡ OD 300-03-04 ZNIKA POWOD, DLA KTOREGO ROZKAZ NIE MIAL ADRESATA: LAWA SADZA KOWALA (Brusk od Miecha). Rozkaz do kuzni ma wreszcie komu byc wydany. ### 300-03-04 ODBLOKOWANE: pierwszenstwo w kuzni kupione za 24 jelenie, kafary ida PIERWSZE. WLASCICIEL: BRAN. KOWAL: BRUSK OD MIECHA. Okucia czterech kafarow, ok. 12 dni kuzni.",
+   "co": "KAFARY NIE MAJA WLASCICIELA - jedyna rzecz realnie hamujaca groble, i NIKT NIE MA ROZKAZU JEJ USUNAC. Cerwyn 300-02-20 i Bran 300-02-25 powiedzieli to samo: 'nie brakuje nam pieniedzy, stoimy, bo mamy cztery kafary; kafary robi sie z DREWNA I Z ZELAZA, NIE Z MONETY, i trzeba je komus KAZAC zrobic'. Plac budowy BEZ MISTRZA, KUZNI I KAMIENIOLOMU. ### ⚡ OD 300-03-04 ZNIKA POWOD, DLA KTOREGO ROZKAZ NIE MIAL ADRESATA: LAWA SADZA KOWALA (Brusk od Miecha). Rozkaz do kuzni ma wreszcie komu byc wydany. ### 300-03-04 ODBLOKOWANE: pierwszenstwo w kuzni kupione za 24 jelenie, kafary ida PIERWSZE. WLASCICIEL: BRAN. KOWAL: BRUSK OD MIECHA. Okucia czterech kafarow, ok. 12 dni kuzni. ### 300-03-16 ROZSTRZYGNIECIE (zasada 40): IDZIE BEZ PANA. Kanal wskazuje Fose, a rzecz zlecona i obsadzona idzie sama (zasady 7 i 42). WYNIK JUZ WRACA - MELDUNEK ZBIORCZY GARRICKA DOGONIL RUCHOMY ADRES DZIS RANO i lezy u pana nieotwarty.",
    "kto": "BRAN (wlasciciel) + BRUSK OD MIECHA (kuznia) + ORBELO (stawianie)",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-16",
    "zamyka": "cztery kafary okute i postawione przy grobli",
-   "status": "otwarte"
+   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
   },
   {
    "data": "300-03-10",
@@ -1524,12 +1524,12 @@
   },
   {
    "data": "300-03-04",
-   "co": "CZTERDZIESTU OSMIU OD GROBLI - DWANASCIE DNI ROBOTY GDZIE INDZIEJ. Grobla zostala dzis odblokowana (pierwszenstwo w kuzni kupione), ale OKUCIE CZTERECH KAFAROW TO OK. 12 DNI KUZNI - do 300-03-16 nie ma czym bic pali. ### PIERWSZENSTWO RAK, REKOMENDACJA DO ROZSTRZYGNIECIA PANA: (1) TORFIARNIE - torf-za-chleb karmi i grzeje, ~70 i ma byc wiecej; (2) SKLAD - dzis rano na slup poszlo cale Prawo Spichlerza (norma ubytku, przegroda siewna, dna, progi), A PRZY SKLADZIE STOI PIECIU PRZY ROZMIERZANIU. Ustawa o spichlerzu bez spichlerza jest obwieszczeniem o budynku, ktorego nie ma; (3) GROBLA - wraca z pierwszenstwem 300-03-16, gdy kafary sa okute; (4) MLYN-SLUZA. ### NAZWISK NIE WSKAZUJE PAN - rozdziela WARRYN (zasada 42).",
+   "co": "CZTERDZIESTU OSMIU OD GROBLI - DWANASCIE DNI ROBOTY GDZIE INDZIEJ. Grobla zostala dzis odblokowana (pierwszenstwo w kuzni kupione), ale OKUCIE CZTERECH KAFAROW TO OK. 12 DNI KUZNI - do 300-03-16 nie ma czym bic pali. ### PIERWSZENSTWO RAK, REKOMENDACJA DO ROZSTRZYGNIECIA PANA: (1) TORFIARNIE - torf-za-chleb karmi i grzeje, ~70 i ma byc wiecej; (2) SKLAD - dzis rano na slup poszlo cale Prawo Spichlerza (norma ubytku, przegroda siewna, dna, progi), A PRZY SKLADZIE STOI PIECIU PRZY ROZMIERZANIU. Ustawa o spichlerzu bez spichlerza jest obwieszczeniem o budynku, ktorego nie ma; (3) GROBLA - wraca z pierwszenstwem 300-03-16, gdy kafary sa okute; (4) MLYN-SLUZA. ### NAZWISK NIE WSKAZUJE PAN - rozdziela WARRYN (zasada 42). ### 300-03-16 ROZSTRZYGNIECIE (zasada 40): IDZIE BEZ PANA. Kanal wskazuje Fose, a rzecz zlecona i obsadzona idzie sama (zasady 7 i 42). WYNIK JUZ WRACA - MELDUNEK ZBIORCZY GARRICKA DOGONIL RUCHOMY ADRES DZIS RANO i lezy u pana nieotwarty.",
    "kto": "WARRYN rozdziela, MELLA wpisuje",
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-16",
    "zamyka": "kafary okute, czterdziestu osmiu wraca na groble z pierwszenstwem",
-   "status": "otwarte"
+   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
   },
   {
    "data": "300-03-04",
@@ -1623,21 +1623,21 @@
   },
   {
    "data": "300-03-07",
-   "co": "STU CZTERNASTU ODBITYCH - TRZY DRZWI ZAMIAST JEDNYCH, I KAZDE MA JUZ GOSPODARZA. ### (1) STARKPORT - SIGRUN Z WDOWIEJ STRAZY. Osada rusza wlasnie teraz (Vemund z ludzmi na przyczolku od 03-05), a Sigrun przyjela krzeslo Z WARUNKIEM, ktory tu pasuje idealnie: OSADNIKOW WYBIERA SAMA. Sama wyprowadzila wies, ktora umierala z glodu, i doprowadzila ja do innej ziemi. LUDZI BEZ DOMU OSADZA SIE TAM, GDZIE KTOS CHCE ICH WYBRAC - nie tam, gdzie sie ich przydziela. ### (2) ESKADRA - DONNEL OBROK. Juz ich bierze i policzyl to pierwszy: 'eskadra werbuje sie sama'. Kto zostaje przy kadlubach, zostaje. ### (3) FOSA - TYLKO TYLU, ILU POKAZE KARTA ZYWNOSCIOWA, i ani jednego wiecej. Liczba z karty, nie z uznania - pierwsza karta (geby, korce, na ile dni) i odczyt progu zamykaja sie na Fosie dzis, wynik w meldunku Garricka 03-08. ### ⚠ ZASADA, KTORA IDZIE Z TYM RAZEM - TA SAMA CO PRZY JEDENASTU: KAZDEGO PYTA SIE, DOKAD CHCE, I PYTA GO KTOS, KTO NIE MA W ODPOWIEDZI INTERESU. Nie brygadzista, ktory potrzebuje rak, i nie Donnel, ktory potrzebuje ciesli. ### DOKTRYNA: czlowieka bez domu daje sie temu, kto chce go WYBRAC, a nie temu, kto ma dla niego miejsce.",
+   "co": "STU CZTERNASTU ODBITYCH - TRZY DRZWI ZAMIAST JEDNYCH, I KAZDE MA JUZ GOSPODARZA. ### (1) STARKPORT - SIGRUN Z WDOWIEJ STRAZY. Osada rusza wlasnie teraz (Vemund z ludzmi na przyczolku od 03-05), a Sigrun przyjela krzeslo Z WARUNKIEM, ktory tu pasuje idealnie: OSADNIKOW WYBIERA SAMA. Sama wyprowadzila wies, ktora umierala z glodu, i doprowadzila ja do innej ziemi. LUDZI BEZ DOMU OSADZA SIE TAM, GDZIE KTOS CHCE ICH WYBRAC - nie tam, gdzie sie ich przydziela. ### (2) ESKADRA - DONNEL OBROK. Juz ich bierze i policzyl to pierwszy: 'eskadra werbuje sie sama'. Kto zostaje przy kadlubach, zostaje. ### (3) FOSA - TYLKO TYLU, ILU POKAZE KARTA ZYWNOSCIOWA, i ani jednego wiecej. Liczba z karty, nie z uznania - pierwsza karta (geby, korce, na ile dni) i odczyt progu zamykaja sie na Fosie dzis, wynik w meldunku Garricka 03-08. ### ⚠ ZASADA, KTORA IDZIE Z TYM RAZEM - TA SAMA CO PRZY JEDENASTU: KAZDEGO PYTA SIE, DOKAD CHCE, I PYTA GO KTOS, KTO NIE MA W ODPOWIEDZI INTERESU. Nie brygadzista, ktory potrzebuje rak, i nie Donnel, ktory potrzebuje ciesli. ### DOKTRYNA: czlowieka bez domu daje sie temu, kto chce go WYBRAC, a nie temu, kto ma dla niego miejsce. ### 300-03-16 ROZSTRZYGNIECIE (zasada 40): IDZIE BEZ PANA. Kanal wskazuje Fose, a rzecz zlecona i obsadzona idzie sama (zasady 7 i 42). WYNIK JUZ WRACA - MELDUNEK ZBIORCZY GARRICKA DOGONIL RUCHOMY ADRES DZIS RANO i lezy u pana nieotwarty.",
    "kto": "SIGRUN + DONNEL + WARRYN (karta)",
    "kanal": "jezdziec Fosa-Dustinport",
    "wraca": "300-03-15",
    "zamyka": "114 rozpisanych na trzy drzwi, kazdy zapytany, liczba Fosy z karty",
-   "status": "otwarte"
+   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
   },
   {
    "data": "300-03-07",
-   "co": "⚠ DZIEWIEC KORCY TYGODNIOWO - Donnel podal to sam 300-03-03 i NIKT TEGO NIE PODJAL. 'Kwity z dwoch ostatnich miesiecy nie zgadzaja sie z ladunkiem O DZIEWIEC KORCY NA TYDZIEN. Nie pisze, ze ktos kradnie. Pisze, ze NIKT MNIE O TO NIE PYTAL, a ja licze od pierwszego dnia.' ### PRZY 70 KORCACH TYGODNIOWO TO JEST PRAWIE JEDNA OSMA WSZYSTKIEGO, CO IDZIE NA PRZYCZOLEK. Osiem tygodni = ok. 72 korce. ### I NABIERA WAGI DZIS: jesli na przyczolek ida jeszcze ludzie, rosnie i dziura. Rozstrzyga to ta sama rubryka, ktora dzis rano stanela na wodzie i wczoraj przy kuzni: NA CZYJ RACHUNEK.",
+   "co": "⚠ DZIEWIEC KORCY TYGODNIOWO - Donnel podal to sam 300-03-03 i NIKT TEGO NIE PODJAL. 'Kwity z dwoch ostatnich miesiecy nie zgadzaja sie z ladunkiem O DZIEWIEC KORCY NA TYDZIEN. Nie pisze, ze ktos kradnie. Pisze, ze NIKT MNIE O TO NIE PYTAL, a ja licze od pierwszego dnia.' ### PRZY 70 KORCACH TYGODNIOWO TO JEST PRAWIE JEDNA OSMA WSZYSTKIEGO, CO IDZIE NA PRZYCZOLEK. Osiem tygodni = ok. 72 korce. ### I NABIERA WAGI DZIS: jesli na przyczolek ida jeszcze ludzie, rosnie i dziura. Rozstrzyga to ta sama rubryka, ktora dzis rano stanela na wodzie i wczoraj przy kuzni: NA CZYJ RACHUNEK. ### 300-03-16 ROZSTRZYGNIECIE (zasada 40): IDZIE BEZ PANA. Kanal wskazuje Fose, a rzecz zlecona i obsadzona idzie sama (zasady 7 i 42). WYNIK JUZ WRACA - MELDUNEK ZBIORCZY GARRICKA DOGONIL RUCHOMY ADRES DZIS RANO i lezy u pana nieotwarty.",
    "kto": "DONNEL OBROK + TORREN SOLNY",
    "kanal": "jezdziec Fosa-Dustinport",
    "wraca": "300-03-15",
    "zamyka": "gdzie znikaja dziewiec korcy tygodniowo - liczba albo nazwisko",
-   "status": "otwarte"
+   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
   },
   {
    "data": "300-03-07",
@@ -1659,30 +1659,30 @@
   },
   {
    "data": "300-03-08",
-   "co": "ZDANIE OBOK DNA - TRESC NA SLUP, wyslana krukiem z drogi (ptak z golebnika Fosy; z traktu pisze sie wylacznie na Fose i nic nie wraca). ### BRZMIENIE, ULOZONE POD UCHO, NIE POD OKO - ma przetrwac powtorzenie przez furmana, ktory nie czyta: 'TO JEST CENA NAJMNIEJSZA, A NIE CENA. W ZESZLYM TYGODNIU PLACONO NA TYM TARGU OD ___ DO ___, PRZY ___ SPRZEDAZACH. KTO CI DAJE NAJMNIEJSZA, DAJE CI NAJMNIEJSZA - I WOLNO CI SZUKAC DALEJ.' ### DLACZEGO WIDELKI, A NIE SREDNIA: srednia to znowu JEDNA LICZBA i za tydzien bylaby nowa polka. Widelki z liczba sprzedazy daja sprzedajacemu GORNY KRANIEC DO CYTOWANIA, a kupujacym utrudniaja zmowe, bo nie ma sie wokol czego zmowic. ### SKAD LICZBY: KSIEGA TARGU - ta sama, ktora jest juz mianownikiem pulapu 1/5. Nic nowego nie trzeba zakladac, trzeba tylko PRZEPISAC NA SLUP TO, CO JUZ JEST W KSIEDZE. ### ⚠ CO TYDZIEN, KAZDEGO DNIA TARGOWEGO, TA SAMA REKA. Widelki sprzed miesiaca sa nowa polka - liczba nieodswiezana zawsze staje sie kotwica. ### RYZYKO NAZWANE WPROST: jawne widelki mowia takze KUPUJACYM, co placa inni. Dlatego widelki i liczba sprzedazy, nigdy srednia. ### DOKTRYNA: rynek nie potrzebuje ceny narzuconej - potrzebuje DRUGIEJ LICZBY.",
+   "co": "ZDANIE OBOK DNA - TRESC NA SLUP, wyslana krukiem z drogi (ptak z golebnika Fosy; z traktu pisze sie wylacznie na Fose i nic nie wraca). ### BRZMIENIE, ULOZONE POD UCHO, NIE POD OKO - ma przetrwac powtorzenie przez furmana, ktory nie czyta: 'TO JEST CENA NAJMNIEJSZA, A NIE CENA. W ZESZLYM TYGODNIU PLACONO NA TYM TARGU OD ___ DO ___, PRZY ___ SPRZEDAZACH. KTO CI DAJE NAJMNIEJSZA, DAJE CI NAJMNIEJSZA - I WOLNO CI SZUKAC DALEJ.' ### DLACZEGO WIDELKI, A NIE SREDNIA: srednia to znowu JEDNA LICZBA i za tydzien bylaby nowa polka. Widelki z liczba sprzedazy daja sprzedajacemu GORNY KRANIEC DO CYTOWANIA, a kupujacym utrudniaja zmowe, bo nie ma sie wokol czego zmowic. ### SKAD LICZBY: KSIEGA TARGU - ta sama, ktora jest juz mianownikiem pulapu 1/5. Nic nowego nie trzeba zakladac, trzeba tylko PRZEPISAC NA SLUP TO, CO JUZ JEST W KSIEDZE. ### ⚠ CO TYDZIEN, KAZDEGO DNIA TARGOWEGO, TA SAMA REKA. Widelki sprzed miesiaca sa nowa polka - liczba nieodswiezana zawsze staje sie kotwica. ### RYZYKO NAZWANE WPROST: jawne widelki mowia takze KUPUJACYM, co placa inni. Dlatego widelki i liczba sprzedazy, nigdy srednia. ### DOKTRYNA: rynek nie potrzebuje ceny narzuconej - potrzebuje DRUGIEJ LICZBY. ### 300-03-16 ROZSTRZYGNIECIE (zasada 40): IDZIE BEZ PANA. Kanal wskazuje Fose, a rzecz zlecona i obsadzona idzie sama (zasady 7 i 42). WYNIK JUZ WRACA - MELDUNEK ZBIORCZY GARRICKA DOGONIL RUCHOMY ADRES DZIS RANO i lezy u pana nieotwarty.",
    "kto": "HERWIN (slup) + GERRIK RACHUBA (ksiega targu) + lawa",
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "zdanie i widelki na slupie, odswiezane kazdego dnia targowego",
-   "status": "otwarte"
+   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
   },
   {
    "data": "300-03-09",
-   "co": "DZIURA SIEWNA PO BARROWTON - OKOLO TRZECIEJ CZESCI ZLECENIA ODRZUCONE JAKO NIEWSCHODZACE. ZEGAR JEST POGODOWY, NIE URZEDOWY: siew nie czeka na Wielka Rade. ### GDZIE SZUKAC, PO KOLEI OD NAJBLIZSZEGO: (1) WLASNA PRZEGRODA SIEWNA FOSY - oznaczona, zwazona, pod osobnym kluczem od 03-04; JEST NIETYKALNA I MA NIA POZOSTAC, bo lord, ktory otwiera swoja przegrode w pierwszym tygodniu jej istnienia, nie oglosi jej nigdy wiecej; (2) WSIE FOSY - male partie od gospodarzy, drozej i wolniej, ale ziarno lezalo u tego, kto nim sieje; (3) BIALY PORT - Symon bedzie tam 03-11 i Hal ma ludzi; ziarno siewne przywiezione morzem trzeba sprawdzic tak samo, wiec rubryka jedzie z pytaniem; (4) ⚠ NIE OD STANNISA I NIE Z POLUDNIA - klauzula V i cło zaporowe wlasnie po to stoja. ### 300-03-09: droga (2) URUCHOMIONA rozkazem gracza - skup we wsiach Fosy, male partie.",
+   "co": "DZIURA SIEWNA PO BARROWTON - OKOLO TRZECIEJ CZESCI ZLECENIA ODRZUCONE JAKO NIEWSCHODZACE. ZEGAR JEST POGODOWY, NIE URZEDOWY: siew nie czeka na Wielka Rade. ### GDZIE SZUKAC, PO KOLEI OD NAJBLIZSZEGO: (1) WLASNA PRZEGRODA SIEWNA FOSY - oznaczona, zwazona, pod osobnym kluczem od 03-04; JEST NIETYKALNA I MA NIA POZOSTAC, bo lord, ktory otwiera swoja przegrode w pierwszym tygodniu jej istnienia, nie oglosi jej nigdy wiecej; (2) WSIE FOSY - male partie od gospodarzy, drozej i wolniej, ale ziarno lezalo u tego, kto nim sieje; (3) BIALY PORT - Symon bedzie tam 03-11 i Hal ma ludzi; ziarno siewne przywiezione morzem trzeba sprawdzic tak samo, wiec rubryka jedzie z pytaniem; (4) ⚠ NIE OD STANNISA I NIE Z POLUDNIA - klauzula V i cło zaporowe wlasnie po to stoja. ### 300-03-09: droga (2) URUCHOMIONA rozkazem gracza - skup we wsiach Fosy, male partie. ### 300-03-16 ROZSTRZYGNIECIE (zasada 40): IDZIE BEZ PANA. Kanal wskazuje Fose, a rzecz zlecona i obsadzona idzie sama (zasady 7 i 42). WYNIK JUZ WRACA - MELDUNEK ZBIORCZY GARRICKA DOGONIL RUCHOMY ADRES DZIS RANO i lezy u pana nieotwarty.",
    "kto": "SYMON (Bialy Port) + WARRYN (wsie) + ORLAND (rachunek)",
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "brakujace korce siewne znalezione ALBO liczba hektarow, ktorych sie nie obsieje - jedno albo drugie, nie milczenie",
-   "status": "otwarte - ZEGAR POGODOWY"
+   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
   },
   {
    "data": "300-03-09",
-   "co": "SKUP ZIARNA SIEWNEGO WE WSIACH FOSY - MALE PARTIE. Kruk z drogi (jedyny kanal, jaki pan ma na trakcie). Prowadzi WARRYN, wazy ORLAND i BENNIS, liczy GERRIK. Rzadca dobiera sobie karbowych sam (zasada 42). ### CZTERY ZASADY W ROZKAZIE, BO BEZ NICH KAZDA Z NICH ZOSTANIE ZLAMANA PRZEZ WLASNYCH LUDZI, I TO W DOBREJ WIERZE: ### (1) RUBRYKA STANU ZIARNA NA KAZDA PARTIE, OSOBNO. To ona wlasnie uratowala Harla w Barrowton. Chlop tez nie wie, czy jego ziarno wzejdzie - nie kupuje sie na slowo i nie kupuje sie na oko. ### (2) ⚠ PLACI SIE GORNY KRANIEC WIDELEK, NIGDY DNA. Pan staje wlasnie kupujacym na wlasnym rynku cztery dni po tym, jak ogłosil dno - i bylby PIERWSZYM, KTORY UZYL WLASNEJ PODLOGI JAKO SUFITU. Ziarno siewne jest ponadto z natury drozsze od jadalnego, bo jest wybrane i inaczej lezalo; JEGO CENE TRZEBA PODAC OSOBNO, a nie doklejac do ceny zboza. ### (3) KUPUJE SIE WYLACZNIE NADWYZKE PONAD WLASNY WYSIEW GOSPODARZA. Chlop, ktory sprzedaje panu ziarno siewne, sprzedaje przyszloroczny chleb - a ustawa, ktora ma chronic siew, nie moze zaczac od wyssania siewu ze wsi. ILE KTO MUSI ZASIAC, DA SIE POLICZYC: URBARZ OTWARTY 300-03-05 (kto / z czego / ile / kiedy) plus spis mieszkancow. ZADNA WIES NIE SPRZEDAJE, ZANIM JEJ POLA NIE SA POLICZONE. ### (4) SKUP IDZIE PRZEZ SOLTYSOW TAM, GDZIE SA - a tam, gdzie ich nie ma, wprost od gospodarzy. PRZY OKAZJI ZAMYKA SIE PYTANIE ZADANE DAWNO I BEZ ODPOWIEDZI: ktore wsie wybraly soltysa. Ksiega skupu pokaze to sama, bez pytania nikogo drugi raz. ### JEDNO ZLECENIE, TRZY ZWROTY: ziarno, spis pol i lista soltysow.",
+   "co": "SKUP ZIARNA SIEWNEGO WE WSIACH FOSY - MALE PARTIE. Kruk z drogi (jedyny kanal, jaki pan ma na trakcie). Prowadzi WARRYN, wazy ORLAND i BENNIS, liczy GERRIK. Rzadca dobiera sobie karbowych sam (zasada 42). ### CZTERY ZASADY W ROZKAZIE, BO BEZ NICH KAZDA Z NICH ZOSTANIE ZLAMANA PRZEZ WLASNYCH LUDZI, I TO W DOBREJ WIERZE: ### (1) RUBRYKA STANU ZIARNA NA KAZDA PARTIE, OSOBNO. To ona wlasnie uratowala Harla w Barrowton. Chlop tez nie wie, czy jego ziarno wzejdzie - nie kupuje sie na slowo i nie kupuje sie na oko. ### (2) ⚠ PLACI SIE GORNY KRANIEC WIDELEK, NIGDY DNA. Pan staje wlasnie kupujacym na wlasnym rynku cztery dni po tym, jak ogłosil dno - i bylby PIERWSZYM, KTORY UZYL WLASNEJ PODLOGI JAKO SUFITU. Ziarno siewne jest ponadto z natury drozsze od jadalnego, bo jest wybrane i inaczej lezalo; JEGO CENE TRZEBA PODAC OSOBNO, a nie doklejac do ceny zboza. ### (3) KUPUJE SIE WYLACZNIE NADWYZKE PONAD WLASNY WYSIEW GOSPODARZA. Chlop, ktory sprzedaje panu ziarno siewne, sprzedaje przyszloroczny chleb - a ustawa, ktora ma chronic siew, nie moze zaczac od wyssania siewu ze wsi. ILE KTO MUSI ZASIAC, DA SIE POLICZYC: URBARZ OTWARTY 300-03-05 (kto / z czego / ile / kiedy) plus spis mieszkancow. ZADNA WIES NIE SPRZEDAJE, ZANIM JEJ POLA NIE SA POLICZONE. ### (4) SKUP IDZIE PRZEZ SOLTYSOW TAM, GDZIE SA - a tam, gdzie ich nie ma, wprost od gospodarzy. PRZY OKAZJI ZAMYKA SIE PYTANIE ZADANE DAWNO I BEZ ODPOWIEDZI: ktore wsie wybraly soltysa. Ksiega skupu pokaze to sama, bez pytania nikogo drugi raz. ### JEDNO ZLECENIE, TRZY ZWROTY: ziarno, spis pol i lista soltysow. ### 300-03-16 ROZSTRZYGNIECIE (zasada 40): IDZIE BEZ PANA. Kanal wskazuje Fose, a rzecz zlecona i obsadzona idzie sama (zasady 7 i 42). WYNIK JUZ WRACA - MELDUNEK ZBIORCZY GARRICKA DOGONIL RUCHOMY ADRES DZIS RANO i lezy u pana nieotwarty.",
    "kto": "WARRYN + ORLAND KORZEC + BENNIS OD WAGI + GERRIK RACHUBA",
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-16",
    "zamyka": "korce z rubryka stanu przy kazdej partii, cena osobna dla siewu, i wykaz wsi: ktora ma soltysa, ktora nie",
-   "status": "otwarte"
+   "status": "IDZIE BEZ PANA - wynik w meldunku Garricka, ktory dogonil 300-03-16"
   },
   {
    "data": "300-03-18 - okno",
@@ -2752,8 +2752,8 @@
    "kanal": "kantor Bialy Port",
    "wraca": "300-03-16",
    "zamyka": "umowa piecioletnia podpisana, wspolnictwo na pismie",
-   "status": "otwarte - NOWE",
-   "co": "UMOWA LYMANA NA PISMIE - JEGO JEDYNY WARUNEK I NIE WOLNO GO PRZECIAGAC. Piec lat, wspolnictwo, nie sluzba - wzor DERONA SUCHEGO z Rozdroza, umowa piecioletnia. JEGO WLASNE SLOWA: 'Sluzylem dobrze i mnie puszczono. Drugi raz chce to miec napisane.' ⚠ CZLOWIEK, KTOREGO RAZ ODSTAWIONO PO DOBREJ SLUZBIE, LICZY DNI DO PODPISU - i to jest jedyna rzecz, ktora moze go stracic, zanim w ogole zacznie."
+   "status": "PODPISANE 300-03-16",
+   "co": "UMOWA LYMANA NA PISMIE - JEGO JEDYNY WARUNEK I NIE WOLNO GO PRZECIAGAC. Piec lat, wspolnictwo, nie sluzba - wzor DERONA SUCHEGO z Rozdroza, umowa piecioletnia. JEGO WLASNE SLOWA: 'Sluzylem dobrze i mnie puszczono. Drugi raz chce to miec napisane.' ⚠ CZLOWIEK, KTOREGO RAZ ODSTAWIONO PO DOBREJ SLUZBIE, LICZY DNI DO PODPISU - i to jest jedyna rzecz, ktora moze go stracic, zanim w ogole zacznie. ### 300-03-16: PODPISANA. Piec lat, wspolnictwo na pismie, wzor Derona Suchego. Hal dopelnil tego samego dnia."
   },
   {
    "data": "300-04-15",
@@ -2802,11 +2802,11 @@
   },
   {
    "data": "300-03-24 - najwczesniej",
-   "co": "⚑ PALENIE ZMARLYCH W LENNIE FOSY CAILIN - nadanie pana 300-03-16. Elwyn wiezie to ze soba (trakt 6-8 dni). TRZY POWODY, KAZDY OSOBNY: (a) FOSA TO BAGNO i ziemia nie trzyma - argument SANITARNY, wystarcza sam; (b) 1400 dusz i 400 przybyszow po wojnie, przychodzacych pojedynczo i chorych; (c) drugi warunek Krola z 300-02-06: 'stal nie robi nic, OGIEN ROBI'. ⚠ CO CZYNI TO NADANIEM, A NIE NARZUCENIEM: SYMON SPALIL WLASNEGO SYNA 300-03-14, jawnie, w dzien, na dziedzincu. Nie zada od wsi tego, czego nie zrobil pierwszy i przy swiadkach. ⚠ GRANICA OWENA, POSTAWIONA RAZ I PRZED: Elwyn prowadzi IMIONA i mowi nad ogniem to, co czlowiek mowi czlowiekowi, ale NIE UDAJE, ZE WIARA TO NADALA. ### ⚠ NA RADE 300-03-30: czternascie domow dowie sie, ze lenno Namiestnika pali zmarlych. W Westeros sie nie pali. ARGUMENT SANITARNY OBRONI SIE SAM, JESLI PADNIE PIERWSZY. Jesli padnie drugi - bedzie tlumaczeniem sie.",
+   "co": "⚑ PALENIE ZMARLYCH W LENNIE FOSY CAILIN - nadanie pana 300-03-16. Elwyn wiezie to ze soba (trakt 6-8 dni). TRZY POWODY, KAZDY OSOBNY: (a) FOSA TO BAGNO i ziemia nie trzyma - argument SANITARNY, wystarcza sam; (b) 1400 dusz i 400 przybyszow po wojnie, przychodzacych pojedynczo i chorych; (c) drugi warunek Krola z 300-02-06: 'stal nie robi nic, OGIEN ROBI'. ⚠ CO CZYNI TO NADANIEM, A NIE NARZUCENIEM: SYMON SPALIL WLASNEGO SYNA 300-03-14, jawnie, w dzien, na dziedzincu. Nie zada od wsi tego, czego nie zrobil pierwszy i przy swiadkach. ⚠ GRANICA OWENA, POSTAWIONA RAZ I PRZED: Elwyn prowadzi IMIONA i mowi nad ogniem to, co czlowiek mowi czlowiekowi, ale NIE UDAJE, ZE WIARA TO NADALA. ### ⚠ VOID (GM) 300-03-16: DOPISALEM DO TEGO 'CO Z TEGO WYNIKA NA RADE - czternascie domow sie dowie'. NIEPRAWDA I NIE MA POWODU, ZEBY SIE DOWIEDZIALY. To jest PORZADEK WE WLASNYM LENNIE, czyli CZYSTA PREROGATYWA PANA - ten sam tytul, z ktorego stoi Bractwo Rzemiosla Wolnego, szkola, lecznica i seminarium. NIKT TEGO NIE ZATWIERDZA, NIKT O TYM NIE GLOSUJE, NIKOMU SIE Z TEGO NIE TLUMACZY. ⚑ TO JEST DRUGI RAZ TEN SAM MOJ BLAD W TRZY DNI - 300-03-13 zrobilem to samo z seminarium i gracz poprawil mnie slowami 'Symon nie ma takich uprawnien, to tylko instytucja dla jego lenna'. Wtedy zawyzylem zasieg nadania; teraz zawyzylem zasieg OGLOSZENIA. Ten sam odruch, druga strona. ### CO ZOSTAJE PRAWDA BEZ RADY: dym widac, a Fosa stoi przy bramie, przez ktora ida wozacy i sezonowi. WIEC DOWIEDZA SIE, GDY SIE DOWIEDZA - OD PRZEJEZDNYCH, NIE Z PORZADKU OBRAD. I jesli ktokolwiek zapyta, ARGUMENT SANITARNY ODPOWIADA SAM: bagno nie trzyma ciala.",
    "kto": "SEPTON ELWYN / HERWIN i lawa / WARRYN",
    "kanal": "trakt Bialy Port-Fosa",
    "wraca": "300-03-24",
-   "zamyka": "ogloszone na slupie i wykonane pierwszy raz",
+   "zamyka": "ogloszone na slupie w Cailin i wykonane pierwszy raz",
    "status": "otwarte - NOWE"
   }
  ]

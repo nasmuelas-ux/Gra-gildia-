@@ -155,7 +155,7 @@ def licz(zakres, r, m, d=None):
             zdarz.append((z["data"], z["opis"], lo, hi,
                           z.get("status", ""), z.get("zrodlo", "")))
 
-        wynik[nazwa] = {"wiersze": wiersze, "obrot": obrot,
+        wynik[nazwa] = {"wiersze": wiersze, "obrot": obrot, "_kasa": kasa,
                         "zdarzenia": zdarz, "nieznane": nieznane,
                         "skrzynia": kasa.get("skrzynia"),
                         "skrzynia_na": kasa.get("skrzynia_na")}
@@ -198,11 +198,72 @@ def drukuj(zakres, r, m, d, wynik):
             for u in k["nieznane"]:
                 print("   - %s" % u["nazwa"])
                 print("     %s" % u["powod"])
+        drukuj_przedsiebiorstwa(k["_kasa"])
+    stopka(glo, ghi)
+
+
+def zawijaj(txt, wciecie=7, szer=70):
+    slowa, linia, out = str(txt).split(), "", []
+    for w in slowa:
+        if len(linia) + len(w) + 1 > szer:
+            out.append(linia)
+            linia = w
+        else:
+            linia = (linia + " " + w).strip()
+    if linia:
+        out.append(linia)
+    return ("\n" + " " * wciecie).join(out)
+
+
+def drukuj_przedsiebiorstwa(kasa):
+    """PRZEDSIEBIORSTWA - warstwa, ktorej nie widac w naliczeniu dziennym,
+    bo wiekszosc siedzi w obrocie placowek albo w aparacie jako koszt."""
+    s = kasa.get("synteza")
+    if s:
+        print("  ### SYNTEZA DOMU (%s)" % s.get("zrodlo", "?"))
+        print("      obrot na ~%d%% pulapu · zysk netto %d-%d/mies · wolna gotowka %d-%d/mies"
+              % (s["obrot_na_procent_pulapu"], s["zysk_netto_mies_min"], s["zysk_netto_mies_max"],
+                 s["wolna_gotowka_mies_min"], s["wolna_gotowka_mies_max"]))
+        print("      MAJATEK NETTO DOMU: %d - %d smokow" % (s["majatek_netto_min"], s["majatek_netto_max"]))
+        if s.get("uwaga"):
+            print("      " + zawijaj(s["uwaga"]))
+    p = kasa.get("przedsiebiorstwa")
+    if p:
+        print("  ### PRZEDSIEBIORSTWA - wiekszosc NIE MA osobnej liczby i siedzi w obrocie placowek")
+        for z in p:
+            print("   * %s" % z["nazwa"])
+            for pole in ("stan", "w_ksiegach"):
+                if z.get(pole):
+                    print("     %s" % zawijaj(z[pole]))
+            if z.get("potencjal_mies_min") is not None:
+                print("     TERAZ %.2f/mies  ->  POTENCJAL %d-%d/mies"
+                      % (z.get("teraz_mies", 0), z["potencjal_mies_min"], z["potencjal_mies_max"]))
+    if kasa.get("korekta_dochodu"):
+        print("  ### " + zawijaj(kasa["korekta_dochodu"], 6))
+    if kasa.get("w_naturze"):
+        print("  ### " + zawijaj(kasa["w_naturze"], 6))
+    n = kasa.get("nie_moje")
+    if n:
+        print("  ### CO NIE JEST MOJE - I MA TAK ZOSTAC")
+        for z in n:
+            print("   * %s" % z["nazwa"])
+            print("     %s" % zawijaj(z["powod"]))
+    c = kasa.get("co_prowadzi_a_nie_posiada")
+    if c:
+        print("  ### CO PROWADZE, A CZEGO NIE POSIADAM")
+        for z in c:
+            print("   * %s" % z["nazwa"])
+            print("     %s" % zawijaj(z["stan"]))
+
+
+def stopka(glo, ghi):
     print("\n" + "=" * 78)
     print("%-64s %s" % ("WSZYSTKIE KASY RAZEM", fmt(glo, ghi, 13)))
     print("=" * 78)
-    print("UWAGA: suma obejmuje WYLACZNIE pozycje ze zrodlem. Blok NIEZNANE do niej")
-    print("nie wchodzi i nie wolno go dopowiadac - to jest cala wartosc tej tabeli.")
+    print("UWAGA: suma obejmuje WYLACZNIE pozycje ze zrodlem. Blok NIEZNANE i cala")
+    print("warstwa PRZEDSIEBIORSTW do niej NIE WCHODZA - wiekszosc zakladow nie ma")
+    print("osobnej liczby i siedzi w obrocie placowek albo w aparacie jako koszt.")
+    print("To jest cala wartosc tej tabeli: pokazuje, czego NIE policzono.")
 
 
 def main():

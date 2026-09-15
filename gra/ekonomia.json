@@ -2,7 +2,7 @@
  "_opis": "DANE KAS. Zrodlo liczb: gra/EKONOMIA_BAZA.md i wpisy z gra/db/wpisy.jsonl. Silnik: gra/kasa.py.",
  "_zasada_naczelna": "KAZDA POZYCJA MA POLE 'zrodlo'. Pozycja bez zrodla NIE WCHODZI DO SUMY i jest raportowana osobno jako NIEZNANA (zasady 1a, 43, 44). Liczb sie tu nie wyprowadza na nowo - zmienia je WYLACZNIE zdarzenie w grze.",
  "_jak_czytac_widelki": "min/max zamiast 'stawka' znaczy, ze zapis podaje przedzial, a nie liczbe. Silnik sumuje osobno dolna i gorna granice i NIGDY nie usrednia.",
- "_aktualizacja": "300-03-15",
+ "_aktualizacja": "300-03-15 (dopisane PRZEDSIEBIORSTWA ze spisu 299-09-05)",
  "kursy": {
   "smok_w_jeleniach": 200,
   "jelen_w_miedziakach": 100,
@@ -76,6 +76,136 @@
     {
      "nazwa": "ubezpieczenia frachtu",
      "powod": "50 smokow REZERWY, zero obrotu. Metoda spisana przez Symona 300-03-14 - linia rusza, ale nie ma jeszcze ani jednej liczby przychodu."
+    },
+    {
+     "nazwa": "⚠ CZARNY ZAMEK WPISANY JAKO PLACOWKA HANDLOWA",
+     "powod": "BLAD DO POPRAWIENIA W KSIEDZE, nazwany przez Symona 299-09-05 i DO DZIS NIEWYKONANY: 'Czarny Zamek stoi w rubryce placowek z pozycja ujemna. Za piec lat dyrektor, ktory nie bedzie pamietal po co, ZAMKNIE GO JAKO NIERENTOWNY - I BEDZIE MIAL RACJE ARYTMETYCZNA. Ma byc wpisany OSOBNO, Z POWODEM, NA PISMIE.' TO NIE JEST PLACOWKA HANDLOWA - TO POSTERUNEK POLITYKI. Kto karmi Mur, ten Mur trzyma. Marza bierze sie z KURSU, nie z ceny. 80-170/mies to SUFIT, nie stan przejsciowy."
+    }
+   ],
+   "synteza": {
+    "zrodlo": "gra/spis_przedsiebiorstw_299_09.md, 299-09-05",
+    "obrot_na_procent_pulapu": 60,
+    "zysk_netto_mies_min": 200,
+    "zysk_netto_mies_max": 300,
+    "wolna_gotowka_mies_min": 80,
+    "wolna_gotowka_mies_max": 120,
+    "majatek_netto_min": 4000,
+    "majatek_netto_max": 6000,
+    "uwaga": "ZGADZA SIE Z BILANSEM 300-01-26: zysk placowek 915 za kwartal = ~305/mies. Dwa niezalezne zapisy, ta sama skala."
+   },
+   "pulap_placowek": {
+    "zrodlo": "spis_przedsiebiorstw_299_09.md - PULAP, nie stan",
+    "Bialy Port": [
+     400,
+     700
+    ],
+    "Riverrun": [
+     420,
+     580
+    ],
+    "Fosa Cailin HQ": [
+     330,
+     500
+    ],
+    "Winterfell": [
+     250,
+     420
+    ],
+    "Rozdroze": [
+     160,
+     330
+    ],
+    "Czarny Zamek": [
+     80,
+     170
+    ]
+   },
+   "sezonowosc": "Fosa i Rozdroze ZALAMUJA SIE zima. Czarny Zamek ROSNIE zima. Bialy Port trzyma caly rok, bo nie zamarza.",
+   "przedsiebiorstwa": [
+    {
+     "nazwa": "PAPIERNIA WATA (Fosa)",
+     "rodzaj": "wytworcze",
+     "stan": "Dwie kadzie od 299-08-26; przy trzeciej trzeba drugiego mlyna. WASKIM GARDLEM SA SZMATY, NIE POPYT - Korona wlasnie zaczela kupowac pergamin.",
+     "w_ksiegach": "⚠ SIEDZI W APARACIE JAKO KOSZT 12/MIES, NIE JAKO LINIA PRZYCHODU. To pierwszy z pieciu powodow, dla ktorych obrot Domu czyta sie za nisko (zapis 300-03-11).",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md + bilans_domu_tally_300_01"
+    },
+    {
+     "nazwa": "WARSZTAT BURSZTYNU - MARRO",
+     "rodzaj": "wytworcze",
+     "stan": "Mistrz sprowadzony z Braavos. Cztery sztuki mistrzowskie w sierpniu, trzy sprzedane. 1-5 smokow za sztuke, wybitna 10+.",
+     "teraz_mies": 0.02,
+     "potencjal_mies_min": 25,
+     "potencjal_mies_max": 50,
+     "w_ksiegach": "⚠ DZIS +4 JELENIE/MIES (0,02 smoka). POTENCJAL PO PRZESTAWIENIU NA SEGMENT MISTRZOWSKI: 25-50/MIES - czyli TYSIACKROTNIE wiecej. Blokada: SUROWIEC. Marro siedzi rok bez kamieni.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "MLYN (Bialy Port)",
+     "rodzaj": "wytworcze",
+     "w_ksiegach": "Bez osobnej liczby - siedzi w obrocie placowki Bialy Port.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "WARZELNIA SOLI I RYBACY",
+     "rodzaj": "wytworcze",
+     "stan": "Rozkaz 299-08-12. SOLONA RYBA = zimowa spizarnia bialka, ktorej lod nie zatrzyma i ktorej Polnoc nie importuje.",
+     "w_ksiegach": "Bez osobnej liczby - siedzi w obrocie Bialego Portu. To CZESC LANCUCHA KONSERWACJI, jedynej linii, ktora rosla zima.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "BEDNARNIA - CWIERC MANDERLYCH (Bialy Port)",
+     "rodzaj": "wytworcze",
+     "stan": "NOWE 300-03-13, z umowy Tally-Manderly. Domyka lancuch: sol - ryba - BECZKA.",
+     "w_ksiegach": "⚠ BRAK LICZBY. Udzial nabyty wczoraj, nikt go jeszcze nie wycenil.",
+     "zrodlo": "umowa Tally-Manderly 300-03-13"
+    },
+    {
+     "nazwa": "ARTERIA RZECZNA",
+     "rodzaj": "przewoz",
+     "stan": "Barka latem, SANNY TRAKT PO LODZIE zima.",
+     "w_ksiegach": "Bez osobnej liczby - siedzi w obrocie placowek.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "KAMIENICZKA PRZY SCHODACH (Bialy Port)",
+     "rodzaj": "nieruchomosc",
+     "stan": "Od 299-06-23 zarzadzana automatycznie przez filie; czynsze ida do Kasy 1.",
+     "w_ksiegach": "Bez osobnej liczby.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "SKLADY PRZY BRAMIE FOSY I PO PLACOWKACH",
+     "rodzaj": "nieruchomosc",
+     "w_ksiegach": "Bez osobnej liczby - w obrocie Fosy HQ.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "RAMIE FINANSOWE - weksle, listy kredytowe, underwriting, rekojmie",
+     "rodzaj": "finansowe",
+     "stan": "Praktyka Lucana: 420 wystawionych, 80 wykupionych, 340 zapada 300-03-30. OD 300-03-13 SUFIT: papier nie przekracza towaru.",
+     "w_ksiegach": "Bez osobnej linii zysku; dyskonto weksli siedzi w kosztach (26 przy rachunku 695).",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md + rozstrzygniecie 300-03-13"
+    },
+    {
+     "nazwa": "UBEZPIECZENIA FRACHTU",
+     "rodzaj": "finansowe",
+     "stan": "Wlasna nisza Symona od 297: instrument wyczytany z ksiag Nesty 297-01-19, sprzedane Aldousowi 297-03-29, norma z Torsenem 297-04-13 - 'regula ryzyka tranzytu kryta ubezpieczeniem, SYMON-ARBITER'. METODA SPISANA 300-03-14.",
+     "w_ksiegach": "⚠ 50 SMOKOW REZERWY, ZERO OBROTU. Brakowalo RACHMISTRZA, nie rynku - i brakowalo metody na papierze. Od 300-03-14 metoda jest.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md + EKONOMIA_BAZA.md + 300-03-14"
+    }
+   ],
+   "nie_moje": [
+    {
+     "nazwa": "ATELIER MIRY",
+     "powod": "JEJ grunt, JEJ marka, JEJ pieczec. Dom pomaga do noszenia i liczenia, BEZ WTRACANIA SIE W RZEMIOSLO. Dopisane wlasna reka pod pieczecia: 'to nie jest zlecenie domu handlowego'."
+    },
+    {
+     "nazwa": "KANTOR NESTY",
+     "powod": "Symon jest WSPOLNIKIEM, nie wlascicielem. Faktoria obraca cudzym kapitalem jej domu-pryncypala. Do ksiag wchodzi tylko UDZIAL: 18/mies."
+    },
+    {
+     "nazwa": "GOSPODA NA ROZDROZU (Deron Suchy)",
+     "powod": "Zarzadca-wspolnik. PATRONUJE, NIE POSIADA - gospoda zyje z bycia niczyja."
     }
    ]
   },
@@ -167,7 +297,58 @@
      "nazwa": "seminarium nauczycieli na Fosie",
      "powod": "Ustanowione 300-03-13. Kasa obsadza GLOWA (zasada 42); kwoty nie ma."
     }
-   ]
+   ],
+   "przedsiebiorstwa": [
+    {
+     "nazwa": "SZKLARNIE FOSY",
+     "stan": "Torf, wzor Winterfell. Werran; MIRA jako druga reka - nieobecna. Szklarnia ma byc MATECZNIKIEM.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md + obsada.json"
+    },
+    {
+     "nazwa": "TORFIARNIE",
+     "stan": "Torf-za-chleb. TO ONE TRZYMAJA LUDZI PRZY ROBOCIE W ZIMIE - czyli sa programem zatrudnienia, nie tylko zakladem.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "SPICHLERZ",
+     "stan": "Rozbudowa w tempie z 299-08-23. Etap 0 gromadzkiego spichlerza na Fosie: 300-04-01.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "LECZNICA",
+     "stan": "Dom Tally. Nina medyczka wlosci (uczennica Gytha), maester Wystan. LEKI OBRACA LOKALNA FILIA - czyli to jedyny zaklad lenna z gotowym kanalem sprzedazy.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "SZKOLA FOSY",
+     "stan": "Pod Mira. Wezel #2 sieci oswiaty krolestwa od 299-08-11. Kanal dystrybucji prawa i rece archiwum.",
+     "w_ksiegach": "KOSZT 9/mies. ⚠ I WYDAJE DRUGI RACHUNEK: szesciu pisarzy za pieniadze lenna od 299-06, POLOWA po osmiu miesiacach na zoldzie Korony.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md + 300-03-15"
+    },
+    {
+     "nazwa": "MLYN W SLUZIE",
+     "stan": "Maka z mlyna lenna; miarka mlynarska jest regale pana.",
+     "zrodlo": "EKONOMIA_BAZA.md"
+    },
+    {
+     "nazwa": "SAD GRODZKI",
+     "stan": "Roderyk. Oplaty sadowe ROSNA I ZMIENIAJA RODZAJ SPRAW - jedna z dwoch pierwszych prawdziwych liczb przychodu lenna.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "MAJORDOMOSTWO",
+     "stan": "Bran i Alys od 299-12.",
+     "zrodlo": "spis_przedsiebiorstw_299_09.md"
+    },
+    {
+     "nazwa": "IZBA MIAR I STANDARDOW (Bractwo Rzemiosla Wolnego)",
+     "stan": "Od 300-02-28. Znak normy na robotach; podlega WADZE MIEJSKIEJ, pieczec i waga NIE w jednej rece.",
+     "w_ksiegach": "⚠ BRAK LICZBY. Etap I: lenno niesie, Warryn liczyl koszt do 300-03-09.",
+     "zrodlo": "bractwo_rzemiosla_wolnego.md"
+    }
+   ],
+   "korekta_dochodu": "⚠ SPIS Z 299-09-05 PODAWAL 25-50 SMOKOW/MIES W MONECIE. Dzis obowiazuje 15-30 - roznica to ZNIESIENIE MYTA NA ZYWNOSC, nie spadek ruchu. Nizsza liczba jest NOWSZA i ta liczy silnik.",
+   "w_naturze": "⚠ W MONECIE 15-30/MIES, ALE W NATURZE I PRACY - WIELOKROTNOSC TEGO: czynsze i daniny 1/3 do 1/2 plonu w naturze, robocizna 2-3 dni tygodniowo w sezonie. SILNIK LICZY WYLACZNIE MONETE."
   },
   "KASA 3 - SKARB POLNOCY": {
    "opis": "Nowy fisk krolewski, urzad stworzony przed niespelna rokiem. ~3500 rocznie W MONECIE - to nie jest majatek Polnocy ani osobisty dochod Starkow (25-40 tys.).",
@@ -186,6 +367,20 @@
     {
      "nazwa": "swiadczenia w naturze",
      "powod": "Polnoc jest NIEZMONETYZOWANA: swiadczenia w naturze sa 5-10 razy wieksze od pienieznych. Kasa 3 liczy WYLACZNIE monete."
+    }
+   ],
+   "co_prowadzi_a_nie_posiada": [
+    {
+     "nazwa": "KOMORA CELNA FOSY",
+     "stan": "Clo Korony pobierane przez Gartha, PRZEKAZYWANE Koronie. Lenno bierze WYNAGRODZENIE ZA POBOR, nie clo."
+    },
+    {
+     "nazwa": "ZBOZE KUPOWANE DLA KORONY",
+     "stan": "Od 299-09-07, po ogloszonej stawce, BEZ ZYSKU, osobny znak i osobna ksiega. Dom Starkow robi to samo."
+    },
+    {
+     "nazwa": "MENNICA WILK, Glebokorzen, Przystan Wilka, Karta Wintertown, Kodeks",
+     "stan": "Prowadzone, nie posiadane. ANI JEDEN KORZEC, ANI JEDEN KAMIEN."
     }
    ]
   }

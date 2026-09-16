@@ -1,6 +1,6 @@
 {
  "_opis": "JEDYNE ZRODLO PRAWDY O TERMINACH. Kalendarz ranka generuje sie STAD, nie z pamieci. Kazda pozycja: co / kto / data / czym sie zamyka.",
- "_aktualizacja": "300-03-17",
+ "_aktualizacja": "300-03-18",
  "_legenda": {
   "zamyka": "zdarzenie, ktore konczy pozycje - bez niego termin tylko mija",
   "status": "otwarte | zrobione | przepadlo",
@@ -131,9 +131,10 @@
    "co": "CICHY KUPIEC rusza (sol, ksiega Domu, sfera Dreadfortu) ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "WILLA",
    "zamyka": "wyjazd",
-   "status": "otwarte",
+   "status": "ZAMKNIETE 300-03-18: Cichy Kupiec wyjechal.",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-18"
+   "wraca": "300-03-18",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "~300-03-13",
@@ -769,7 +770,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-18",
    "zamyka": "meldunek: kafar wszedl w grunt / nadal stoi I DLACZEGO",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18 (pogoda 98): KAFAR WSZEDL W GRUNT. Bran rozpoznal dzien, ktorego nikt nie umial przewidziec - grobla ruszyla po trzech tygodniach postoju.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-07",
@@ -841,7 +843,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-18",
    "zamyka": "liczba: ile ciety tygodniowo i iloma rekami",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18: liczba tygodniowego ciecia jest, juz z trzydziestoma rekami od grobli (Warryn rozdzielil 300-03-13).",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-03 - PRZYSZLO",
@@ -1112,7 +1115,8 @@
    "kanal": "siatka Willi",
    "wraca": "300-03-18",
    "zamyka": "rece zeszly, skrzynka stoi",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18: rece zeszly POJEDYNCZO I W ODSTEPACH, kazda z wlasnym zwyczajnym powodem; skrzynka stoi.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-13",
@@ -1177,7 +1181,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-18",
    "zamyka": "pierwsza garsc czarnego kamienia z torfiarni, wazona i wpisana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18: PIERWSZA GARSC CZARNEGO KAMIENIA Z TORFU ZWAZONA I WPISANA. Zrodlo wlasne i darmowe - i tym samym ISTNIEJE ODPOWIEDZ DLA WYMANA O CZARNYM SZKLE.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-07",
@@ -1466,7 +1471,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-18",
    "zamyka": "drugi ogien sie pali i ma czlowieka",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18: drugi ogien pali sie i ma czlowieka. Cztery smoki z Kasy 2 kupily trzy dni przy okuwaniu kafarow.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-04",
@@ -1493,7 +1499,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-18",
    "zamyka": "pierwsza pieczec postawiona na wodzie ALBO meldunek 'lod jeszcze trzyma'",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18 (pogoda 98): LOD PUSCIL, pierwsza barka na wodzie i PIERWSZA PIECZEC MCHOWYCH JASTRZEBI na liscie przewozowym. Zegar byl pogodowy i wlasnie wybil.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-04",
@@ -1502,7 +1509,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-18",
    "zamyka": "przegroda na towar znaleziony i ksiega wykupu istnieja PRZED pierwsza pieczecia",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18: przegroda i ksiega wykupu stoja ZANIM padla pierwsza pieczec - kolejnosc dochowana co do dnia.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-04",
@@ -1706,7 +1714,8 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-18",
    "zamyka": "gorączka ustepuje albo nie",
-   "status": "otwarte - GORACZKA (rzut 32)"
+   "status": "ZAMKNIETE 300-03-18 (rzut 75): GORACZKA ZESZLA. Dzien pietnasty, okno zamkniete po dobrej stronie. Rano poprawa przyszla znowu i NIE COFNELA SIE W POLUDNIE. Rhona czekala do wieczora, bo nie mowi rzeczy, ktorych nie widzi dwa razy. TO NIE JEST ZDROWIE: nie siada bez pomocy, Theomore mowi TYGODNIE, NIE DNI.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-10",
@@ -1724,7 +1733,8 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-18",
    "zamyka": "liczba miesieczna zoldu garnizonu, na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18: zold policzony na pismie (Gerrik + Warryn); do uchwalenia daniny idzie z Kasy 2.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-30",
@@ -2012,7 +2022,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-18",
    "zamyka": "jedenascie mil z okladem rozpisane na klasy, trzy podpisy pod kazda mila",
-   "status": "otwarte - ROZKAZ WYSLANY 300-03-16 krukiem Bialy Port-Fosa, LADUJE 300-03-18. Przejscie odbywa sie tego dnia, nie wczesniej: kanal ma dwa dni i to jest cala przyczyna przesuniecia."
+   "status": "ZAMKNIETE 300-03-18 (rzut 19): sznur przeszedl calosc pod trzema podpisami, Tommard Kosa podpisal kazda mile. JEDENASCIE MIL: klasa I - 2, klasa II - 5, klasa III - 4. SUMA 318 SMOKOW przy widelkach 230-325, czyli prawie sufit. ⚠ Grunt wyszedl gorzej z WLASNEJ KLAUZULI: pomiar w poludnie w odwilz, w dniu, w ktorym odwilz pekla (pogoda 98). Kosztowalo to okolo 80 smokow - i dlatego Manderly podpisal wszystkie jedenascie bez pytania.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-13",
@@ -2120,7 +2131,8 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-18",
    "zamyka": "pierwsza garsc czarnego kamienia z torfiarni, wazona i wpisana - albo pisemne 'nic'",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-18: PIERWSZA GARSC CZARNEGO KAMIENIA Z TORFU ZWAZONA I WPISANA. Zrodlo wlasne i darmowe - i tym samym ISTNIEJE ODPOWIEDZ DLA WYMANA O CZARNYM SZKLE.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-12",
@@ -2717,7 +2729,8 @@
    "kanal": "kruk Bialy Port-Fosa",
    "wraca": "300-03-19",
    "zamyka": "wyjazd albo swiadoma zmiana daty",
-   "status": "otwarte - NOWE"
+   "status": "ZAMKNIETE 300-03-18: Cichy Kupiec wyjechal.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-16",
@@ -2990,8 +3003,9 @@
    "kanal": "jezdziec Bialy Port-Fosa",
    "wraca": "300-03-18",
    "zamyka": "dwa odpisy arkusza na czysto - jeden zostaje, drugi jedzie na Fose",
-   "status": "otwarte",
-   "co": "DWA ODPISY ARKUSZA MIRY - JEJ WLASNE POLECENIE, KTOREGO JEJ NIKT NIE DAL. Uslyszala 300-03-16 o Glebokorzeniu ('jedno miejsce to zadne miejsce') i zastosowala do siebie tego samego dnia. 'Rano niech to ktos przepisze na czysto. DWA ODPISY. Jeden zostaje, drugi jedzie na Fose.' To jest druga instytucja lenna, ktora w ciagu dwoch dni sama wchodzi pod zasade trzech odpisow - bez rozkazu."
+   "status": "ZAMKNIETE 300-03-18: arkusz przepisany na czysto, DWA ODPISY - jeden zostaje, drugi jedzie na Fose. Jej wlasne polecenie, ktorego jej nikt nie dal.",
+   "co": "DWA ODPISY ARKUSZA MIRY - JEJ WLASNE POLECENIE, KTOREGO JEJ NIKT NIE DAL. Uslyszala 300-03-16 o Glebokorzeniu ('jedno miejsce to zadne miejsce') i zastosowala do siebie tego samego dnia. 'Rano niech to ktos przepisze na czysto. DWA ODPISY. Jeden zostaje, drugi jedzie na Fose.' To jest druga instytucja lenna, ktora w ciagu dwoch dni sama wchodzi pod zasade trzech odpisow - bez rozkazu.",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-17",

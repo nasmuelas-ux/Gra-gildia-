@@ -6330,7 +6330,7 @@
   {
    "id": "grobla_przewloka",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "dziura_siewna_fosy",
@@ -6375,12 +6375,12 @@
   {
    "id": "przewloka_ujscie_tally_manderly",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "seminarium_nauczycieli",
    "status": "otwarty",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "highgarden_placowka",
@@ -6414,6 +6414,11 @@
   },
   {
    "id": "szkola_fosy",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "torfiarnie_obsydian",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

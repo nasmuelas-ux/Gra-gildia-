@@ -2898,7 +2898,8 @@
    "kanal": "robota na miejscu (Bialy Port)",
    "wraca": "300-03-18",
    "zamyka": "trzecia czesc dopisana do konca i czytelna - albo urwana, i wiadomo gdzie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-17 wieczor - TRZY CZESCI SKONCZONE. Ostatnie zdanie napisala po odpowiedzi pana: 'LICZY SIE IZBA BEZ NIEGO - WIDELKAMI, ZE ZDANIEM OBOK.' Przekreslila drugi poczatek, ten, ktory zaczynal sie od tego, dlaczego liczby tu nie ma. Metoda nie ma granicy, ma ZWROT: nie mierzy sie nauczyciela, mierzy sie STAN IZBY, kiedy jego w niej nie ma - a on czyta te liczbe razem ze wszystkimi. Dwa zastrzezenia z wlasnego dorobku pana: WIDELKI zamiast jednej liczby ('to jest cena najmniejsza, a nie cena') i PRAWO PISEMNEJ ODMOWY rozciagniete na nauczyciela.",
+   "zamkniete": "300-03-17"
   },
   {
    "data": "300-03-17",
@@ -2982,6 +2983,24 @@
    "wraca": "~300-03-29",
    "zamyka": "dzien miesiaca wyznaczony przez niego samego i spis rubryk, ktore da sie z Dustinport zobaczyc",
    "status": "otwarte"
+  },
+  {
+   "data": "300-03-17",
+   "kto": "pisarz w Nowym Zamku -> Fosa",
+   "kanal": "jezdziec Bialy Port-Fosa",
+   "wraca": "300-03-18",
+   "zamyka": "dwa odpisy arkusza na czysto - jeden zostaje, drugi jedzie na Fose",
+   "status": "otwarte",
+   "co": "DWA ODPISY ARKUSZA MIRY - JEJ WLASNE POLECENIE, KTOREGO JEJ NIKT NIE DAL. Uslyszala 300-03-16 o Glebokorzeniu ('jedno miejsce to zadne miejsce') i zastosowala do siebie tego samego dnia. 'Rano niech to ktos przepisze na czysto. DWA ODPISY. Jeden zostaje, drugi jedzie na Fose.' To jest druga instytucja lenna, ktora w ciagu dwoch dni sama wchodzi pod zasade trzech odpisow - bez rozkazu."
+  },
+  {
+   "data": "300-03-17",
+   "kto": "SYMON / HAL -> OLENNA",
+   "kanal": "⚠ NIE 'kruk Fosa-Highgarden' - ten idzie przez Starmiasto",
+   "wraca": "bez daty - stoi, az bedzie czym napisac",
+   "zamyka": "towar, ktorego nie da sie kupic blizej - albo jawne 'nie mamy takiego'",
+   "status": "otwarte",
+   "co": "CENA WEJSCIA DO HIGHGARDEN, PODANA PRZEZ OLENNE: 'Napiszcie jeszcze raz, kiedy bedziecie mieli do sprzedania cos, czego nie umiem kupic blizej.' DRZWI OTWIERAJA SIE NA TOWAR, NIE NA ROZMOWE. ⚠ I WADA DROGI, NAZWANA PRZY OKAZJI: prosba o CICHA placowke pojechala 'krukiem Fosa-Highgarden', czyli LANCUCHEM MAESTERSKIM PRZEZ STARMIASTO - kanalem, przy ktorym od 299-06-23 stoi ostrzezenie WYSTAN TO KANAL ZNANY CYTADELI. Jej pierwsze zdanie ('w moim domu czterystu ludzi pisze listy') jest odpowiedzia na pytanie, ktore sami zadalismy na glos. DRUGI LIST NIE MOZE POJSC TA SAMA DROGA."
   }
  ]
 }

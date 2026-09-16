@@ -6380,12 +6380,12 @@
   {
    "id": "seminarium_nauczycieli",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "highgarden_placowka",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "siatka_poludniowa_willi",
@@ -6409,6 +6409,11 @@
   },
   {
    "id": "dustinport",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "szkola_fosy",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

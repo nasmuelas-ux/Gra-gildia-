@@ -6220,7 +6220,7 @@
   {
    "id": "ustroj_urzedow",
    "status": "otwarty",
-   "_dziennik_nota": 44
+   "_dziennik_nota": 45
   },
   {
    "id": "bractwo_rzemiosla_wolnego",
@@ -6425,10 +6425,15 @@
   {
    "id": "obligacja_lenna_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 3
   },
   {
    "id": "kasa_2_lenno",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "akt_rodziny_tally",
    "status": "otwarty",
    "_dziennik_nota": 1
   }

@@ -3022,7 +3022,7 @@
    "kanal": "na miejscu / kancelaria Domu",
    "wraca": "300-04-01",
    "zamyka": "forma obligacji: na okaziciela albo imienna z rejestrem przeniesien - bez tego nie ma czego drukowac",
-   "status": "otwarte",
+   "status": "KIERUNEK PRZESADZONY 300-03-18 przez wybor kupujacych: skoro biora INSTYTUCJE, ktore TRZYMAJA DO KONCA, papier traci rynek - czyli jedyne zabezpieczenie, jakie mial. ZABEZPIECZENIE MUSI UNIESC FORMA: IMIENNA, REJESTR PRZENIESIEN u notariusza Domu na Fosie, zadne przeniesienie niewazne bez wpisu, PIERWOKUP LENNA po cenie nominalnej. otwarte do formalnego zamkniecia przed 300-04-01.",
    "co": "FORMA OBLIGACJI LENNA - NA OKAZICIELA CZY IMIENNA. Emisja 800 na 15 lat rozstrzygnieta 300-03-18, sprzedaz od 300-04-01, ale papieru nie da sie zlozyc bez tej jednej rzeczy. STAWKA: na okaziciela obraca sie latwiej i przez to LEPIEJ SIE SPRZEDA - ale lenno nie wie, kto trzyma jego dlug. Imienna z rejestrem przeniesien mowi, kto trzyma - i przez to obraca sie trudniej. ⚠ Papier bez wskazanego srodka zyje ze ZBYWALNOSCI: to ona zastepuje egzekucje. Cokolwiek utrudnia obrot, podkopuje jedyne zabezpieczenie, jakie ten papier ma."
   },
   {
@@ -3040,8 +3040,26 @@
    "kanal": "placowki Domu",
    "wraca": "300-04-01",
    "zamyka": "kto realnie bierze 800 i w jakich czesciach - albo jawne 'nie sprzedalo sie'",
-   "status": "otwarte",
+   "status": "ROZSTRZYGNIETE CO DO KIERUNKU 300-03-18: NIE Zelazny Bank i NIE rozproszeni obywatele - INSTYTUCJE, zeby papier nie trafil w niepowolane rece. PIERWSZA WESZLA: SEPTA BIALEGO PORTU (Owen mowi za tym w sepcie). DALEJ: Kasa Postepu i Fundusz Samopomocy Bractwa - pierwsze na liscie mimo 10-20 smokow, bo Kasa Postepu trzymajaca obligacje lenna przestaje byc skladka, a staje sie WIERZYCIELEM SWOJEGO LORDA. ⚠ KOMPANIA POLNOC-DORZECZE ma skarbiec, ale Symon trzyma w niej PIORO KORONY - nierozstrzygniete. ⚠ ZELAZNY BANK ODRZUCONY z dwoch powodow z wlasnej ksiegi: 'Polnoc to panstwo, ktore nikomu jeszcze nie jest winne' - aktywo do wydania RAZ; oraz Bank nie odsprzedaje, tylko sciaga.",
    "co": "KOMU SPRZEDAJE SIE 800 - Bialy Port, cechy, Braavos. Polnoc monety nie ma i nie bedzie miala do zniw. ⚠ REALNIE: POZYCZKA OD MIASTA LORDA WYMANA, piec dni po podpisaniu z nim wspolnego portu i wspolnej przewloki. To nie wada, tylko jedyny rynek, jaki istnieje - ale ma byc powiedziane glosno TU, zeby nie zostalo powiedziane glosno TAM. ⚠ I OSTRZEZENIE Z WLASNEJ KSIEGI: 8,5 proc. to dla pozyczajacego stawka DOBRA i wlasnie dlatego moze sie NIE SPRZEDAC. Kto kupi po tyle, kupuje cos innego niz procent: dostep, pierwszenstwo w skladzie, wzgledy Namiestnika. To cena, ktorej nie ma na papierze."
+  },
+  {
+   "data": "300-03-18",
+   "kto": "SYMON - wlasna reka",
+   "kanal": "decyzja pana",
+   "wraca": "300-03-30 (przed Rada)",
+   "zamyka": "drugie zdanie linijki - o Wierze jako wierzycielu - napisane przez niego samego",
+   "status": "otwarte",
+   "co": "⚠ DRUGIE ZDANIE LINIJKI O POZYCJI - ZADANE PRZEZ OWENA, NIE PRZEZ PRZECIWNIKA. 'SEPTA, KTORA TRZYMA WASZ DLUG, NIE MOZE JUZ KAZAC PRZECIW WAM. Kupujecie dzis nie tylko srebro - kupujecie MILCZENIE WIARY w miescie, ktore jest jedynym prawdziwym miastem Wiary na Polnocy.' Owen prosi, zeby to bylo ZAPISANE W KSIEDZE PANA PRZEZ NIEGO, A NIE ODKRYTE W CUDZEJ ZA PIEC LAT. Idzie razem z pierwszym zdaniem (Namiestnik sprzedaje papier wlasnego lenna przez wlasny dom handlowy, bedac najwiekszym wierzycielem Korony)."
+  },
+  {
+   "data": "300-03-18",
+   "kto": "SYMON -> ZGROMADZENIE (Nesta, Mira, Hal)",
+   "kanal": "Zgromadzenie rodziny",
+   "wraca": "300-06-01",
+   "zamyka": "prawdziwa liczba podana na sali - przez pana, bez posrednika",
+   "status": "otwarte",
+   "co": "REWIZJA BEZ REWIZORA - PIERWSZY DZIEN SZOSTEGO MIESIACA. Urzad zniesiony 300-03-18 ('za duzo nazwisk w tej strukturze'), ale TERMIN I ZGROMADZENIE ZOSTALY, bo ich nie zniesiono. ⚠ ZGINELA JEDNA RZECZ: PISEMNA ODMOWA Z WPISANYM POWODEM. Nikt spoza Domu nie moze juz napisac 'nie' w ksiedze rodziny; wladza nie przeszla na nikogo. ⚠ PRZEDTEM MIEDZY PANEM A ZGROMADZENIEM STAL CZLOWIEK, KTORY MOGL SIE NIE ZGODZIC. TERAZ NIE STOI NIKT - NESTA USLYSZY LICZBE OD NIEGO. Tajna ksiega bez zmian: Tam i Symon. LEZY, NIEZGLOSZONE JAKO URZAD: da sie miec odmowe bez rewizora - 'papier jest instytucja', a Bractwo sadzi numerem, nie nazwiskiem, przy dwoch losowo wyciagnietych mistrzach."
   }
  ]
 }

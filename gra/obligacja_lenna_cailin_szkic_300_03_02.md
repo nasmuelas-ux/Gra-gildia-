@@ -1,3 +1,58 @@
+# OBLIGACJA LENNA FOSY CAILIN — **ROZSTRZYGNIĘTA 300-03-18**
+> **Emisja: 800 smoków · kupon 8,5 % PROSTY · PIĘTNAŚCIE LAT · sprzedaż od 300-04-01.**
+> **To NIE jest papier dłużny ze wskazanym środkiem. To ZBYWALNA OBLIGACJA Z KUPONEM.**
+> Rozstrzygnięcie gracza; szkic z 300-03-02 poniżej zostaje jako zapis tego, jak do tego doszło.
+
+---
+
+## ROZSTRZYGNIĘCIE 300-03-18 — CO SIĘ ZMIENIŁO WOBEC SZKICU
+
+| | szkic 300-03-02 | **decyzja 300-03-18** |
+|---|---|---|
+| instrument | papier dłużny ze wskazanym środkiem | **obligacja zbywalna z kuponem** |
+| termin | 5 lat, odnawialny | ### **15 LAT** |
+| suma | nie do policzenia | ### **800 SMOKÓW** |
+| kupon | 8,5 % prosty | 8,5 % prosty — **bez zmian** |
+| środek wierzyciela | 🔴 otwarte | ### **ŻADEN — papier się odsprzedaje** |
+| sprzedaż | — | **od 300-04-01** |
+
+### ① ŚRODEK WIERZYCIELA ROZWIĄZANY PRZEZ ZMIANĘ INSTRUMENTU, NIE PRZEZ WYBÓR ZASTAWU
+**Kto chce wyjść, sprzedaje obligację dalej — nie przychodzi po komorę, targ ani po lenno.**
+**Rynek jest środkiem zaradczym zamiast egzekucji** — ta sama zasada, co *jawna liczba zamiast sędziego*.
+⚠ **Cena: papier bez wskazanego środka sprzedaje się na samym zaufaniu.** Kto go kupi, kupuje nazwisko Namiestnika na piętnaście lat.
+
+### ② DLACZEGO 800, A NIE 600 — SUFIT STAWIA ROK NAJCHUDSZY
+Kupon **68 smoków rocznie**. **KASA 2, dolny brzeg widełek** *(`python3 gra/kasa.py rok <rok>-03-18`)*:
+
+| rok | 300 | 302 | 305 | 310 | 315 |
+|---|---|---|---|---|---|
+| Kasa 2 | **445** | 788 | **1626** | 3465 | 3472 *(sufit)* |
+| kupon jako % | **15 %** | 9 % | **4 %** | 2 % | 2 % |
+
+**Pierwsze dwa lata są ciasne i to jest przyjęte świadomie. Potem kupon przestaje być czymkolwiek.**
+
+### ③ DLACZEGO PIĘTNAŚCIE, CHOĆ DROŻEJ
+Szkic stawiał warunek: *piętnastolatka ma sens tylko wtedy, gdyby dochód z ruchu miał się więcej niż podwoić.*
+### WARUNEK JEST SPEŁNIONY — I TO PRZED 305, NIE NA 315. Dochód lenna **potraja się w pięć lat.**
+
+> **Pięciolatka wracałaby po odnowienie w 305 — w roku, w którym lenno wygląda na trzy razy bogatsze.**
+> **Nie negocjuje się z człowiekiem, który zna twój dochód.**
+> **Piętnastolatka zamraża 8,5 % na czas, w którym dochód rośnie ośmiokrotnie.**
+
+**KOSZT NAZWANY I PRZYJĘTY:** 800 × 127,5 % = **1 020 kuponu ponad kapitał**; razem **1 820 oddane od 800**. Wykup **315**.
+
+### ④ DATA SPRZEDAŻY — Z WŁASNEGO KALENDARZA, NIE Z OSTROŻNOŚCI
+**340 weksli zapada 300-03-30.** *Nie sprzedaje się nowego papieru w miesiącu, w którym wykupuje się własny.*
+**Najwcześniejszy uczciwy dzień: 300-04-01.**
+
+### ⑤ CO ZOSTAJE OTWARTE
+1. **FORMA** — na okaziciela czy imienna z rejestrem przeniesień. *(Bez tego nie ma czego drukować.)*
+2. **KOMU** — Biały Port · cechy · Braavos. Realnie: **pożyczka od miasta lorda Wymana**, pięć dni po wspólnym porcie i wspólnej przewłoce.
+3. 🔴 **LINIJKA O POZYCJI NAMIESTNIKA** — sprzedaje papier własnego lenna przez własny dom handlowy, będąc największym wierzycielem Korony. **Piętnaście lat zamiast pięciu tej linijki nie zmniejsza — powiększa.** Pisze ją on sam, **przed Radą.**
+
+---
+---
+
 # PAPIER DŁUŻNY LENNA FOSY CAILIN — PUNKT KONTROLNY 300-03-02
 **Nic nie wystawione. Nic nie sprzedane.** Zapis stanu projektu na dzień 300-03-02.
 Pomysł gracza; doprecyzowany tego samego dnia do zwykłego papieru dłużnego z kuponem.

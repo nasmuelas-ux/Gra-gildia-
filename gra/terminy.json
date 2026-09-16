@@ -122,9 +122,10 @@
    "co": "najwczesniejsza uczciwa data papieru dluznego lenna (8,5 prosty, 5 lat, odnawialny) ### 300-03-12: ROBOTA FOSY, IDZIE BEZ PANA (zasady 7 i 42). Wynik wchodzi do NASTEPNEGO MELDUNKU ZBIORCZEGO GARRICKA, ktory dogoni pana w Bialym Porcie albo w Winterfell. Nie wymaga rozkazu.",
    "kto": "Symon + Hal",
    "zamyka": "suma emisji i srodek wierzyciela",
-   "status": "otwarte",
+   "status": "ZAMKNIETE 300-03-18, kantor w Bialym Porcie. ROZSTRZYGNIECIE GRACZA: 800 SMOKOW, 8,5 PROSTY, PIETNASCIE LAT, SPRZEDAZ OD 300-04-01. INSTRUMENT ZMIENIONY: nie papier dluzny ze wskazanym srodkiem, tylko ZBYWALNA OBLIGACJA Z KUPONEM - kto chce wyjsc, sprzedaje ja dalej. SRODEK WIERZYCIELA: ZADEN, i to nie jest luka, tylko zmiana instrumentu - rynek zamiast egzekucji. Suma z silnika, nie z glowy: Kasa 2 dolnym brzegiem 445 (300) -> 1626 (305) -> 3465 (310), wiec kupon 68/rok to 15 proc. dzis i 4 proc. w 305. Dokument: gra/obligacja_lenna_cailin_szkic_300_03_02.md",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-18"
+   "wraca": "300-03-18",
+   "zamkniete": "300-03-18"
   },
   {
    "data": "300-03-10",
@@ -3014,6 +3015,33 @@
    "zamyka": "towar, ktorego nie da sie kupic blizej - albo jawne 'nie mamy takiego'",
    "status": "otwarte",
    "co": "CENA WEJSCIA DO HIGHGARDEN, PODANA PRZEZ OLENNE: 'Napiszcie jeszcze raz, kiedy bedziecie mieli do sprzedania cos, czego nie umiem kupic blizej.' DRZWI OTWIERAJA SIE NA TOWAR, NIE NA ROZMOWE. ⚠ I WADA DROGI, NAZWANA PRZY OKAZJI: prosba o CICHA placowke pojechala 'krukiem Fosa-Highgarden', czyli LANCUCHEM MAESTERSKIM PRZEZ STARMIASTO - kanalem, przy ktorym od 299-06-23 stoi ostrzezenie WYSTAN TO KANAL ZNANY CYTADELI. Jej pierwsze zdanie ('w moim domu czterystu ludzi pisze listy') jest odpowiedzia na pytanie, ktore sami zadalismy na glos. DRUGI LIST NIE MOZE POJSC TA SAMA DROGA."
+  },
+  {
+   "data": "300-03-18",
+   "kto": "SYMON + HAL + notariusz Domu na Fosie",
+   "kanal": "na miejscu / kancelaria Domu",
+   "wraca": "300-04-01",
+   "zamyka": "forma obligacji: na okaziciela albo imienna z rejestrem przeniesien - bez tego nie ma czego drukowac",
+   "status": "otwarte",
+   "co": "FORMA OBLIGACJI LENNA - NA OKAZICIELA CZY IMIENNA. Emisja 800 na 15 lat rozstrzygnieta 300-03-18, sprzedaz od 300-04-01, ale papieru nie da sie zlozyc bez tej jednej rzeczy. STAWKA: na okaziciela obraca sie latwiej i przez to LEPIEJ SIE SPRZEDA - ale lenno nie wie, kto trzyma jego dlug. Imienna z rejestrem przeniesien mowi, kto trzyma - i przez to obraca sie trudniej. ⚠ Papier bez wskazanego srodka zyje ze ZBYWALNOSCI: to ona zastepuje egzekucje. Cokolwiek utrudnia obrot, podkopuje jedyne zabezpieczenie, jakie ten papier ma."
+  },
+  {
+   "data": "300-03-18",
+   "kto": "SYMON - wlasna reka",
+   "kanal": "decyzja pana",
+   "wraca": "300-03-30 (przed Rada)",
+   "zamyka": "linijka o pozycji Namiestnika napisana przez niego samego",
+   "status": "otwarte",
+   "co": "🔴 LINIJKA O POZYCJI NAMIESTNIKA - DO NAPISANIA PRZED RADA. 'Namiestnik Korony sprzedaje papier wlasnego lenna przez wlasny dom handlowy, bedac najwiekszym wierzycielem Korony, ktorej termin minal 300-03-01.' PIETNASCIE LAT ZAMIAST PIECIU TEJ LINIJKI NIE ZMNIEJSZA - POWIEKSZA. Hal: 'to zdanie padnie na Radzie tak czy owak; pytanie jest tylko, czy padnie z waszych ust, czy z cudzych'."
+  },
+  {
+   "data": "300-03-18",
+   "kto": "HAL + NESTA (Braavos) + kantor Bialy Port",
+   "kanal": "placowki Domu",
+   "wraca": "300-04-01",
+   "zamyka": "kto realnie bierze 800 i w jakich czesciach - albo jawne 'nie sprzedalo sie'",
+   "status": "otwarte",
+   "co": "KOMU SPRZEDAJE SIE 800 - Bialy Port, cechy, Braavos. Polnoc monety nie ma i nie bedzie miala do zniw. ⚠ REALNIE: POZYCZKA OD MIASTA LORDA WYMANA, piec dni po podpisaniu z nim wspolnego portu i wspolnej przewloki. To nie wada, tylko jedyny rynek, jaki istnieje - ale ma byc powiedziane glosno TU, zeby nie zostalo powiedziane glosno TAM. ⚠ I OSTRZEZENIE Z WLASNEJ KSIEGI: 8,5 proc. to dla pozyczajacego stawka DOBRA i wlasnie dlatego moze sie NIE SPRZEDAC. Kto kupi po tyle, kupuje cos innego niz procent: dostep, pierwszenstwo w skladzie, wzgledy Namiestnika. To cena, ktorej nie ma na papierze."
   }
  ]
 }

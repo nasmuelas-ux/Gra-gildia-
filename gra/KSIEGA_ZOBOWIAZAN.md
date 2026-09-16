@@ -6,6 +6,43 @@
 
 ---
 
+---
+
+## ⚑ OBLIGACJA LENNA FOSY CAILIN — ZOBOWIĄZANIE NA PIĘTNAŚCIE LAT
+*Wpisane 300-03-18. Naliczane w silniku: `python3 gra/kasa.py rok <rok>-12-30` — pozycje wchodzą jako **zdarzenia jednorazowe**, bo kupon to wypłata jednego dnia, nie miesięczne naliczenie.*
+
+| co | kiedy | kwota | kasa |
+|---|---|---|---|
+| **EMISJA** — sprzedaż rusza | **300-04-01** | **+800** | Kasa 2 |
+| **KUPON 1 z 15** | **301-04-01** | −68 | Kasa 2 |
+| kupony 2–14, co rok w rocznicę | 302-04-01 … 314-04-01 | −68 rocznie | Kasa 2 |
+| **KUPON 15 z 15** | **315-04-01** | −68 | Kasa 2 |
+| ### **WYKUP KAPITAŁU** | ### **315-04-01** | ### **−800** | Kasa 2 |
+
+> ### RAZEM ODDANE OD 800: **1 820** — 800 kapitału + **1 020 kuponu**.
+> *8,5 % **PROSTY**, nie składany. Na piętnastolatce różnica między jednym słowem a drugim to ponad sto za każde sto.*
+
+### CO TO ROBI Z BILANSEM LENNA — z silnika, nie z głowy
+
+| rok | Kasa 2 *(dolny brzeg)* | kupon jako część dochodu |
+|---|---|---|
+| **300** | 445 | *(kuponu jeszcze nie ma)* |
+| **301** | ~600 | **11 %** |
+| **305** | 1 626 | **4 %** |
+| **310** | 3 465 | **2 %** |
+| **315** | 3 472 *(sufit)* | 2 % — **ale w tym roku dochodzi 800 wykupu, czyli ok. ¼ rocznego dochodu** |
+
+⚠ **PIERWSZE DWA LATA SĄ CIASNE I TO JEST PRZYJĘTE ŚWIADOMIE.** Sufit emisji postawił **rok najchudszy, nie średni**.
+⚠ **ROK 315 TO JEDYNY ROK, W KTÓRYM TEN PAPIER NAPRAWDĘ BOLI** — i jest to jedyny termin, którego nie wolno przegapić przez piętnaście lat.
+
+### WARUNKI, KTÓRE MUSZĄ STAĆ NA KAŻDYM EGZEMPLARZU
+**IMIENNA** · **rejestr przeniesień u notariusza Domu na Fosie** · **żadne przeniesienie nieważne bez wpisu** · **pierwokup lenna po cenie nominalnej**.
+*Kupują instytucje, które trzymają do końca — papier nie ma rynku, więc **zabezpieczenie musi unieść forma**.*
+
+**Kupujący:** septa Białego Portu *(pierwsza)* · Kasa Postępu i Fundusz Samopomocy Bractwa · ⚠ Kompania Północ–Dorzecze **nierozstrzygnięta** *(Symon trzyma w niej pióro Korony)*.
+
+---
+
 ## I. ZOBOWIĄZANIA
 *(kto → co → do kiedy → ostatnio ruszone)*
 

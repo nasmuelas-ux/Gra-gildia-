@@ -2,7 +2,7 @@
  "_opis": "DANE KAS. Zrodlo liczb: gra/EKONOMIA_BAZA.md i wpisy z gra/db/wpisy.jsonl. Silnik: gra/kasa.py.",
  "_zasada_naczelna": "KAZDA POZYCJA MA POLE 'zrodlo'. Pozycja bez zrodla NIE WCHODZI DO SUMY i jest raportowana osobno jako NIEZNANA (zasady 1a, 43, 44). Liczb sie tu nie wyprowadza na nowo - zmienia je WYLACZNIE zdarzenie w grze.",
  "_jak_czytac_widelki": "min/max zamiast 'stawka' znaczy, ze zapis podaje przedzial, a nie liczbe. Silnik sumuje osobno dolna i gorna granice i NIGDY nie usrednia.",
- "_aktualizacja": "300-03-15 (dopisane PRZEDSIEBIORSTWA ze spisu 299-09-05)",
+ "_aktualizacja": "300-03-18",
  "kursy": {
   "smok_w_jeleniach": 200,
   "jelen_w_miedziakach": 100,
@@ -579,6 +579,142 @@
    "opis": "DLUG WOBEC DOMU - Gawen uznal calosc bez kwestionowania. Splata W TOWARZE, ani smoka w monecie (rozstrzygniecie gracza 300-03-06).",
    "zrodlo": "zamkniecie dlugu Korony 300-03-03",
    "status": "spłacane w towarze"
+  },
+  {
+   "data": "300-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": 800,
+   "opis": "EMISJA OBLIGACJI LENNA FOSY CAILIN - 800 smokow, kupon 8,5 PROSTY, PIETNASCIE LAT, wykup 315-04-01. Nie papier dluzny: ZBYWALNA OBLIGACJA IMIENNA z rejestrem przeniesien i pierwokupem lenna. Kupujacy: INSTYTUCJE (septa Bialego Portu pierwsza; Kasa Postepu i Fundusz Samopomocy Bractwa; Kompania Polnoc-Dorzecze nierozstrzygnieta). Data sprzedazy 04-01, bo 340 weksli Domu zapada 300-03-30, a swojego papieru nie sprzedaje sie w miesiacu wykupu wlasnego.",
+   "zrodlo": "rozstrzygniecie gracza 300-03-18; gra/obligacja_lenna_cailin_szkic_300_03_02.md",
+   "status": "zapada"
+  },
+  {
+   "data": "315-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -800,
+   "opis": "WYKUP OBLIGACJI LENNA - kapital 800 oddany w calosci w pietnastym roku. RAZEM ODDANE OD 800: 1820 (800 kapitalu + 1020 kuponu). Kasa 2 w 315 to ok. 3472 rocznie (sufit modelu), wiec wykup to ok. jedna czwarta rocznego dochodu lenna.",
+   "zrodlo": "emisja 300-04-01, warunki z 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "301-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 1 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "302-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 2 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "303-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 3 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "304-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 4 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "305-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 5 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "306-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 6 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "307-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 7 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "308-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 8 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "309-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 9 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "310-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 10 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "311-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 11 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "312-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 12 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "313-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 13 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "314-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 14 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
+  },
+  {
+   "data": "315-04-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -68,
+   "opis": "KUPON OBLIGACJI LENNA 15 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
+   "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
+   "status": "zapada"
   }
  ],
  "_symulacje": {

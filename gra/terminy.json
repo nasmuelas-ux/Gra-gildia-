@@ -3060,6 +3060,33 @@
    "zamyka": "prawdziwa liczba podana na sali - przez pana, bez posrednika",
    "status": "otwarte",
    "co": "REWIZJA BEZ REWIZORA - PIERWSZY DZIEN SZOSTEGO MIESIACA. Urzad zniesiony 300-03-18 ('za duzo nazwisk w tej strukturze'), ale TERMIN I ZGROMADZENIE ZOSTALY, bo ich nie zniesiono. ⚠ ZGINELA JEDNA RZECZ: PISEMNA ODMOWA Z WPISANYM POWODEM. Nikt spoza Domu nie moze juz napisac 'nie' w ksiedze rodziny; wladza nie przeszla na nikogo. ⚠ PRZEDTEM MIEDZY PANEM A ZGROMADZENIEM STAL CZLOWIEK, KTORY MOGL SIE NIE ZGODZIC. TERAZ NIE STOI NIKT - NESTA USLYSZY LICZBE OD NIEGO. Tajna ksiega bez zmian: Tam i Symon. LEZY, NIEZGLOSZONE JAKO URZAD: da sie miec odmowe bez rewizora - 'papier jest instytucja', a Bractwo sadzi numerem, nie nazwiskiem, przy dwoch losowo wyciagnietych mistrzach."
+  },
+  {
+   "data": "300-03-18",
+   "kto": "HAL + notariusz Domu na Fosie",
+   "kanal": "kantor Bialy Port",
+   "wraca": "300-04-01",
+   "zamyka": "pierwszy egzemplarz sprzedany i wpisany do rejestru przeniesien",
+   "status": "otwarte",
+   "co": "EMISJA OBLIGACJI LENNA RUSZA - 300-04-01, +800 do Kasy 2. Warunki na kazdym egzemplarzu: IMIENNA · rejestr przeniesien u notariusza Domu na Fosie · zadne przeniesienie niewazne bez wpisu · PIERWOKUP LENNA po cenie nominalnej. Data nie z ostroznosci, tylko z wlasnego kalendarza: 340 weksli Domu zapada 300-03-30, a swojego papieru nie sprzedaje sie w miesiacu wykupu wlasnego. Wpisane do silnika (gra/ekonomia.json, zdarzenia) i do gra/KSIEGA_ZOBOWIAZAN.md."
+  },
+  {
+   "data": "300-03-18",
+   "kto": "WARRYN + GERRIK (Kasa 2)",
+   "kanal": "kasa lenna",
+   "wraca": "301-04-01",
+   "zamyka": "pierwszy kupon wyplacony - 68 smokow",
+   "status": "otwarte",
+   "co": "KUPON OBLIGACJI - 68 SMOKOW ROCZNIE, PIETNASCIE RAZY, w rocznice emisji: 301-04-01 ... 315-04-01. Suma kuponow 1020. ⚠ PIERWSZE DWA LATA SA CIASNE I TO JEST PRZYJETE SWIADOMIE: 68 to ok. 11 proc. dochodu Kasy 2 w 301, cztery procent w 305, dwa w 310. Sufit emisji postawil ROK NAJCHUDSZY, NIE SREDNI."
+  },
+  {
+   "data": "300-03-18",
+   "kto": "lenno Fosy Cailin",
+   "kanal": "kasa lenna",
+   "wraca": "315-04-01",
+   "zamyka": "kapital 800 oddany albo obligacja odnowiona za zgoda obu stron",
+   "status": "otwarte",
+   "co": "⚑ WYKUP KAPITALU OBLIGACJI - 315-04-01, 800 SMOKOW. RAZEM ODDANE OD 800: 1820 (800 kapitalu + 1020 kuponu). ⚠ TO JEST JEDYNY ROK, W KTORYM TEN PAPIER NAPRAWDE BOLI: Kasa 2 w 315 to ok. 3472 rocznie (sufit modelu), wiec wykup to OKOLO JEDNEJ CZWARTEJ ROCZNEGO DOCHODU LENNA. Jedyny termin, ktorego nie wolno przegapic przez pietnascie lat. Naliczony w silniku: python3 gra/kasa.py rok 315-12-30."
   }
  ]
 }

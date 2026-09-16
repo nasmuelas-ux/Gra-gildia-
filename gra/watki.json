@@ -6370,7 +6370,7 @@
   {
    "id": "wielka_rada_300_03_30",
    "status": "otwarty",
-   "_dziennik_nota": 4
+   "_dziennik_nota": 5
   },
   {
    "id": "przewloka_ujscie_tally_manderly",
@@ -6401,6 +6401,16 @@
    "id": "kancelaria_namiestnika",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "zelazni_zachodni_brzeg",
+   "status": "otwarty",
+   "_dziennik_nota": 1
+  },
+  {
+   "id": "dustinport",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

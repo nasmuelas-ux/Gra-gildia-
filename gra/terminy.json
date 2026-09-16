@@ -2973,6 +2973,15 @@
    "zamyka": "nie zamyka sie - ma trwac, dopoki nasluch nie da nazwiska",
    "status": "otwarte",
    "co": "WYPLATY NA ZNAK MILCZACEJ REKI IDA DALEJ BEZ ZMIANY - dyspozycja stala. Co do dnia, ta sama kwota, to samo miejsce, zaden pisarz nie wie dlaczego. ⚠ W DNIU, W KTORYM WYPLATA NIE ZEJDZIE, ON PRZESTAJE PRZYCHODZIC I NIE DOWIEMY SIE O NIM JUZ NIGDY NICZEGO. To najtanszy nasluch, jaki ten Dom mial - i placi go ten, kogo sie slucha."
+  },
+  {
+   "data": "300-03-17",
+   "co": "THEON GREYJOY - WLASNY TERMIN I WLASNE RUBRYKI. List wyszedl 300-03-17, siada w Dustinporcie ~300-03-23. Symon NIE wyznacza mu dnia - PROSI, ZEBY WYZNACZYL GO SAM: ktory dzien miesiaca i co na karcie ma stac (zasada 42). POWOD: Theon siedzi w Dustinporcie od dwoch tygodni i nikt nie zazadal od niego ani jednej kartki. Bors, Donnel i Theomore maja karty od 300-04-01, Torren dostal swoja 300-02-17. 'Czlowiek bez rubryki nie jest wolny od obowiazku - jest niewidoczny, a to jest gorsze.' ⚠ ZASTRZEZENIE W LISCIE: KARTA IDZIE DO NAMIESTNIKA, NIE DO REJESTRU KORONY - 'nie zrobie z tego dokumentu, ktory kiedys ktos polozy przed Wami na Pyke'. Pisze JAK DORADCA, NIE JAK ZRODLO: gdzie stoimy, a gdzie nie stoimy. ⚠ RACHUNEK KANALU: nawet przy odpowiedzi tego samego dnia wraca ~300-03-29/30 - jego DZIEN bedzie znany na Rade, jego PIERWSZA KARTA prawie na pewno nie.",
+   "kto": "THEON GREYJOY -> SYMON",
+   "kanal": "kruk Bialy Port-Fosa + jezdziec Fosa-Dustinport; odpowiedz na WINTERFELL",
+   "wraca": "~300-03-29",
+   "zamyka": "dzien miesiaca wyznaczony przez niego samego i spis rubryk, ktore da sie z Dustinport zobaczyc",
+   "status": "otwarte"
   }
  ]
 }

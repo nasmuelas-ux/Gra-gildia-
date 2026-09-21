@@ -1,0 +1,12 @@
+
+# Python
+# Zapisy gry — stan śledzony w gitcie (trwałość); lokalne backupy pomijamy
+# Śmieci systemowe
+*.pyc
+*~
+.DS_Store
+Thumbs.db
+__pycache__/
+gra-zakonczona-*/
+gra/backup/
+gra/db/indeks.sqlite

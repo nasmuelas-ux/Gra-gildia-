@@ -1,0 +1,48 @@
+{
+  "_zasada_glowna": "LUDZIE maja jedno pudelko. SPRAWY maja ich kilka i tak ma byc. Czyste musi byc nie to, kogo sprawa DOTYKA, tylko: KTO ROZSTRZYGA (jeden), Z CZYJEJ KASY (jedna), KTO PISZE, KTO CZYTA, i KTO NIE MOZE TEGO TKNAC.",
+  "_blad_gm": "Rozdzielanie spraw wedle pudelek i odsylanie NPC z >to nie do ciebie<. Prawie kazda sprawa na Fosie dotyka trzech naraz. Pytanie nie brzmi >czyja to sprawa<, tylko >ktora jej CZESC jest czyja<.",
+  "_szew_glowny": "SYMON JEST JEDNOCZESNIE: Namiestnikiem Korony, panem lenna Fosy i wlascicielem Domu Tally. KAZDA sprawa na Fosie przechodzi przez wszystkie trzy jego role naraz. To nie jest wada swiata - to jest osnowa calej gry.",
+
+  "sprawy": [
+    {
+      "nazwa": "PRAWO SKLADU DLA MIASTA CAILIN",
+      "dotyka": ["Korona", "Lenno Fosy", "Miasto Cailin", "Dom Tally"],
+      "rozstrzyga": "JUSTYCJARIUSZ CERWYN - bo Symon jest strona",
+      "pisze_regule_ogolna": "SYMON SAM, przed przyjazdem Cerwyna",
+      "kto_nie_tknie": ["Cerwyn nie pisze reguly", "Symon nie nadaje prawa swojemu miastu"],
+      "prosi": "MIASTO wlasnym pismem do Korony (nie lord dla swojego miasta)",
+      "czesc_garricka": "strona lokalna: waga, szopy, ksiega miejska, gotowosc kupcow - zeby w dniu nadania bylo co nadawac",
+      "termin": "burmistrz prosi o TERMIN, nie o laske"
+    },
+    {
+      "nazwa": "KOMORA CELNA FOSY",
+      "dotyka": ["Korona", "Lenno Fosy"],
+      "pobiera": "GARTH - czlowiek lenna, reka lenna",
+      "wlasciciel_dochodu": "KORONA (Kasa 3)",
+      "kontrola": "kontrola rownolegla Korony - pierwsza w krolestwie staje TU",
+      "kolumna_idzie": "dodatkowo do Justycjariusza, raz w roku, poza kancelaria",
+      "czesc_garricka": "nic - to nie jest sprawa domu"
+    },
+    {
+      "nazwa": "GROBLA I PRZENIOSKA",
+      "dotyka": ["Korona", "Lenno Fosy", "Dom Tally"],
+      "buduje": "Bran (majordom robot) + realizator",
+      "placi": "Korona ~2/3 moneta; Dom Tally ~1/3 prywatnie; Lenno reszta natura i praca",
+      "zarabia_na_myto": "LENNO (Kasa 2) - konflikt zglaszany jawnie",
+      "waskie_gardlo": "KAFARY I RECE, nie pieniadz"
+    },
+    {
+      "nazwa": "SPIS MIESZKANCOW MIASTECZKA",
+      "dotyka": ["Lenno Fosy", "Miasto Cailin"],
+      "prowadzi": "ALYS + rzadca",
+      "znalezione": "1400 dusz, 1/3 przyszla po zniwach i nie wiadomo skad; czesc od zachodu"
+    }
+  ],
+
+  "pytania_ktore_gm_ma_zadac_zamiast_odsylac": [
+    "Ktora CZESC tej sprawy jest twoja?",
+    "Kto to ROZSTRZYGA i czy ja jestem strona?",
+    "Z ktorej kasy to idzie?",
+    "Kto tego NIE MOZE tknac i dlaczego?"
+  ]
+}

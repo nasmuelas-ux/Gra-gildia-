@@ -1,0 +1,353 @@
+# ADMINISTRACJA KORONY PÓŁNOCY
+## SZKIC DO POPRAWY — 299-09-10, Winterfell
+### *Nie projekt do uchwalenia. Rzecz do rozbicia na naradzie i napisania drugi raz.*
+
+---
+
+# POPRAWKA DRUGA — LICZBA LUDZI I LICZBA PIÓR
+### *Pierwsza liczba była ze strachu. Druga była z ostrożności. Trzecia jest z rachunku.*
+
+## Ilu nas w ogóle jest
+
+**Północ to ponad jedna trzecia kontynentu — i mieszka na niej TRZY DO PIĘCIU MILIONÓW ludzi.**
+
+Rozproszonych, bo ziemia ogromna, a wsie rzadkie. **Ale to nie jest pustkowie z garstką rządców.** To jest wielki, cienko rozlany lud.
+
+*I stąd bierze się jedna rzecz od razu: przy takim rozrzedzeniu **objazd i trakt nie są wygodą, tylko jedynym sposobem, żeby Korona w ogóle istniała poza Winterfell.***
+
+## Ilu z nich pisze
+
+Licząc ostrożnie, wedle tego, co widać po rządcach, młynarzach, karbowych, kupcach i targach:
+
+| co umie | jaka część | ilu |
+|---|---:|---:|
+| **odczytać proste pismo, policzyć na karbach i miarach** *(rządcy wsi, młynarze, sierżanci, rzemieślnicy, przekupki)* | 2 – 4 setne | **60 000 – 200 000** |
+| **prowadzić księgę: pisać czytelną ręką, zsumować kolumnę, ułożyć dokument** | 2 – 5 tysięcznych | ### 6 000 – 25 000 |
+| **prowadzić księgę urzędową, wyuczony i uczciwy** | ułamek tego | **500 – 2 000** |
+
+> ### **Napisałem rano „może stu". To była nieprawda i to moja nieprawda.**
+> **Ludzi, którzy potrafią prowadzić księgę, są na Północy TYSIĄCE. Koronie potrzeba czterdziestu do sześćdziesięciu.**
+
+## Więc na czym polega problem — bo problem jest, tylko inny
+
+**Nie brakuje rąk. Brakuje DRZWI.**
+
+Syn młynarza spod Torrhen's Square, który liczy lepiej niż jego pan, **nie ma dokąd z tym pójść.** Nie ma próby, do której mógłby stanąć. Nie ma urzędu, który by go przyjął. Nie ma nikogo, kto by go w ogóle zapytał.
+
+> ### PÓŁNOC NIE JEST UBOGA W PIÓRA. PÓŁNOC NIE MA DROGI OD MŁYNA DO KANCELARII.
+
+**Na południu tę drogę robi Wiara** — bystry chłopak trafia do septy, septa go uczy, a potem lord bierze go do ksiąg. **Starzy bogowie nie mają kleru, więc tej drogi tu nigdy nie było.**
+
+*I to jest cała rzecz. Nie kształcimy zastępstwa za brakujących ludzi. **Budujemy zastępstwo za brakującą DROGĘ.***
+
+## Co się przez to zmienia w całym tym szkicu
+
+**Środek ciężkości przesuwa się ze SZKOŁY na PRÓBĘ.**
+
+Nie trzeba wykształcić sześćdziesięciu od zera. **Trzeba ich ZNALEŹĆ** — a potem doszlifować tych, którym brakuje wykończenia.
+
+**1 · PRÓBA OGŁOSZONA, OTWARTA DLA KAŻDEGO.** Wywieszona na słupie w każdym mieście i przy każdej komorze, tego samego dnia w roku, ta sama dla wszystkich. **Nie trzeba niczyjego listu polecającego.**
+
+**2 · PRÓBA JEDZIE Z OBJAZDEM.** Skoro sąd i rachunek objeżdżają lenna, **próbę przeprowadza się przy tej samej okazji** — bo chłopak spod Deepwood Motte nie przyjedzie do Winterfell, ale do własnego zamku przyjdzie pieszo.
+
+**3 · SZKOŁA JEST DRUGA, NIE PIERWSZA.** Praktykanci w Winterfell to nie nabór — **to dokończenie tych, którzy próbę zdali dobrze, ale młodo.**
+
+> **Najpierw otwiera się drzwi i patrzy, kto wejdzie. Dopiero potem buduje się izbę dla tych, którzy weszli.**
+
+---
+
+# CZĘŚĆ I — DWÓR CZY PAŃSTWO
+## *(najważniejsze rozstrzygnięcie w całym szkicu)*
+
+Dziś wszystko na Północy jest **dworem króla**: kto jest przy Robbie, ten rządzi; kto pojechał, ten wypadł. Tak zaczyna każde królestwo — **i tak żadne nie zostaje.**
+
+**Państwo zaczyna się w dniu, w którym część urzędów PRZESTAJE JEŹDZIĆ ZA KRÓLEM.**
+
+| **JADĄ Z KRÓLEM** | **ZOSTAJĄ W WINTERFELL** |
+|---|---|
+| **Namiestnik** *(albo jego p.o.)* | **SKARB** — bo skarb w drodze to skarb zgubiony |
+| **Marszałek** | **KANCELARIA I ARCHIWUM** — bo archiwum w drodze to archiwum spalone |
+| **pieczęć podróżna** + dwóch pisarzy | **SĄD** — bo do sądu przychodzi się w miejsce, nie za człowiekiem |
+| straż | **REJESTR KADR** |
+
+**Bez tego podziału Północ ma świtę, nie rząd.**
+
+---
+
+# CZĘŚĆ II — PIĘĆ PIONÓW
+
+**1 · KANCELARIA** — pismo, pieczęcie, archiwum, korespondencja, rejestr przedsięwzięć, rejestr kadr.
+**2 · SKARB** *(Gawen)* — przyjmowanie, rachunek roczny, cło, mennica, dobra Korony.
+**3 · SĄD** *(Cerwyn)* — Justycjariusz, apelacja, **sędziowie objazdowi**.
+**4 · WOJSKO** *(Marszałek + admirał Torren Solny)* — rejestr chorągwi, mobilizacja, eskadra.
+**5 · DOBRA I DOCHODY** — demena Starków, lasy, młyny, komory celne, miasta koronne.
+
+**Każdy pion: urzędnik + p.o. + rejestrator + pisarz.** Każdy ma księgę spraw i kartę roboty.
+
+---
+
+# CZĘŚĆ III — TRZY NARZĘDZIA, KTÓRE ROBIĄ Z DWORU PAŃSTWO
+### *To nie są pomysły. To jest to, co gdziekolwiek zadziałało.*
+
+## 1 · PISMO, KTÓRE OBOWIĄZUJE *(wzory)*
+
+Nie listy. **Krótkie, pieczętowane pisma wedle stałych wzorów** — dwadzieścia wzorów na dwadzieścia najczęstszych spraw: *nakaz stawienia się · nakaz wypłaty · nakaz odbioru robót · list żelazny · nakaz zwrotu · pozew · potwierdzenie odbioru daniny.*
+
+> **Kiedy pismo ma stały kształt, każdy pisarz umie je wystawić, każdy urzędnik umie je wykonać i każdy sąd umie je odczytać.**
+> **Państwo, w którym każde polecenie jest osobnym listem, może mieć tylko tylu urzędników, ilu król zna osobiście.**
+
+## 2 · RACHUNEK, KTÓRY SIĘ SKŁADA
+
+**Dwa razy do roku każdy, kto trzyma grosz Korony, staje przed Skarbnikiem i odpowiada pozycja po pozycji, przy świadkach.**
+
+Nie kontrola z zaskoczenia — **stały, znany, nieunikniony termin.**
+
+> **Nie sprawdza się ludzi. Sprawdza się rachunki. Człowiek, który wie, że w wiosennym rachunku będzie musiał to powiedzieć na głos, pilnuje się sam przez pół roku.**
+
+## 3 · OBJAZD
+
+**Sąd i rachunek jadą do lenn wedle stałego kręgu**, a nie wtedy, gdy coś wybuchnie.
+
+> **Korona, która przyjeżdża tylko po pobór, jest poborcą. Korona, która przyjeżdża sądzić i liczyć, jest państwem.**
+
+*Objazd wschodu — Dreadfort, Karhold, Biały Port — po powrocie Króla jest pierwszym takim kręgiem. Trzeba go od razu nazwać tym, czym ma być: **nie podróżą, lecz pierwszym objazdem.***
+
+---
+
+# CZĘŚĆ IV — PRAKTYKANCI W WINTERFELL
+
+> ### Dwór Króla bierze uczniów. **Chłopców i dziewczęta.**
+
+## Skąd — cztery bramy, żeby nie powstała jedna klika
+
+| | |
+|---|---|
+| **PO JEDNYM MIEJSCU DLA KAŻDEGO CHORĄŻEGO** | dla dziecka z jego domu — **nie musi być z krwi lorda** |
+| **MIASTA** | Biały Port, Zimowe Miasto, miasteczko pod Fosą |
+| **SIEROTY I DZIECI ZNIKĄD** | *urząd nie krew* |
+| **SZKOŁY I GŁĘBOKORZEŃ** | ci, którzy już zaczęli |
+
+**Miejsce dla dziecka każdego chorążego wygląda jak zaszczyt — i jest zaszczytem.** Jest też trzema innymi rzeczami naraz i nie ma powodu tego ukrywać: **więzią, wiedzą o domach i kadrą, która za dziesięć lat zna się nawzajem.**
+
+## Dziewczęta — dlaczego, powiedziane wprost
+
+**Bo nie stać nas na wybrzydzanie** *(powiedział to Skarbnik sam, jak kupiec, nie jak reformator)*. **Bo rachunki domowe w połowie tego królestwa prowadzą kobiety i nikt się temu nie dziwi.** I bo — rzecz praktyczna — **dziewczynę-rachmistrza wpuszcza się tam, gdzie mężczyzny nie.**
+
+*Precedens stoi od 299-09-01: Ysla uczy pod pieczęcią.*
+
+## Nauka — dwa lata
+
+**litery · rachunek · miary i wagi · Kodeks prawa Północy · dwadzieścia wzorów pism · jedno rzemiosło urzędu do wyboru** *(komora celna · pomiar · spichlerz · archiwum)*
+
+**Potem cztery lata służby.** Kto odejdzie wcześniej — **zwraca koszt, nie wolność.**
+
+## Trzy rzeczy, których ten szkic jeszcze nie rozwiązuje
+
+**1 · KTO UCZY.** Luwin nie nauczy dwudziestu. Trzeba **dwóch albo trzech nauczycieli** — z Głębokorzenia i z miast, na licencję pod pieczęcią.
+**2 · GDZIE ŚPIĄ I CO JEDZĄ.** Dwadzieścioro dzieci w Winterfell **przez zimę** to izba, opał i chleb, których dziś nikt nie policzył.
+**3 · ŻEBY NIE WYROSŁA Z TEGO DWORSKA KLIKA.** Jedna reguła na początek: **jedzą przy jednym stole, bez względu na to, czyje są.**
+
+## Koszt — uczciwie, wyżej niż wczoraj
+
+**Dwadzieścioro uczniów z wiktem, opałem, odzieżą i nauczycielami: 40 – 70 smoków rocznie.**
+
+*Wczoraj napisałem 20–40, bo liczyłem naukę bez utrzymania. Poprawione.*
+
+---
+
+# CO TO KOSZTUJE RAZEM
+
+| | rocznie |
+|---|---:|
+| pięć pionów | 50 – 70 |
+| kancelaria Namiestnika z pocztą Korony | 60 – 90 |
+| **dwadzieścioro praktykantów** | **40 – 70** |
+| **RAZEM** | ### 150 – 230 smoków rocznie |
+
+**Utrzymanie jednego okrętu: 60–180.**
+
+---
+
+> ## STATUS
+> **SZKIC. Do rozbicia na dzisiejszej naradzie i napisania drugi raz.**
+> Każdy z pionów ma znaleźć w nim **to, co u niego nie zadziała** — a nie to, co mu się podoba.
+>
+> **Przed Króla idzie dopiero druga wersja.**
+
+---
+
+# CZĘŚĆ V — KADRY. WERSJA SKROMNA.
+### *Poprzedni zapis tej części — nakaz posyłania co trzeciego dziecka chłopskiego do szkół wiejskich — WYCOFANY. W całości.*
+
+## DLACZEGO WYCOFANY — trzy powody, i każdy sam by wystarczył
+
+**1 · Trzy szkoły stoją — ale to są szkoły, nie sieć obejmująca każdą wieś demeny.** Pisałem plan oparty na czymś, czego nie ma.
+
+**2 · To była rewolucja, nie administracja.** Nakaz obejmujący gospodarstwa całej demeny to najgłębsza zmiana w życiu chłopa od pokoleń — **a zaczęliśmy od tego, żeby uporządkować urzędy.**
+
+**3 · I powód najcięższy: nie moja to rzecz.** Namiestnik nie nakłada powinności na poddanych Króla **na jego ziemi, pod jego nieobecność, w zimie, w której brakuje chleba.**
+
+> ### **Zbudowałem drabinę do nieba, kiedy proszono mnie o schody do kancelarii.**
+
+---
+
+## CO ZOSTAJE — JEDNA SZKOŁA I SZEŚĆ SZCZEBLI
+
+> ### **PRÓBA → praktykant w pionie → pisarz → starszy → P.O. → urzędnik Korony**
+
+**Sześć szczebli. Bez ani jednego nowego budynku poza tym, który już stoi.**
+
+---
+
+## 1 · IZBA UCZNIOWSKA — W WINTERFELL, PRZY KANCELARII
+
+*(Trzy szkoły — w tym ta na Fosie — stoją i działają jak dotąd. Tu nie zakłada się czwartej: zakłada się izbę przy kancelarii.)*
+
+**Nie osobna instytucja i nie nowa szkoła. Izba przy kancelarii, w której douczają się ci, którzy już zdali próbę.**
+
+**Dwadzieścioro miejsc.** Nie dwadzieścioro rocznie na wieki — **dwadzieścioro, i zobaczymy.**
+
+**Uczą ci, którzy i tak tu są:** maester, rachmistrz Skarbnika, pisarz kancelarii, celnik, kiedy przyjedzie. **Nikogo nowego się nie najmuje, dopóki nie okaże się, że trzeba.**
+
+**Chłopcy i dziewczęta** — *bo nie stać nas na wybrzydzanie, i bo precedens Ysli stoi od 09-01.*
+
+---
+
+## 2 · PRÓBA — cała rzecz, i najtańsza
+
+**Ogłoszona, otwarta, ta sama dla wszystkich, bez niczyjego listu polecającego.**
+Odczytać pismo · zsumować kolumnę · zmierzyć ładunek w korcach · napisać zdanie zrozumiałe za pierwszym razem.
+
+**Przeprowadzana przy okazji objazdu** — bo chłopak spod Deepwood Motte do Winterfell nie przyjedzie, a do własnego zamku przyjdzie pieszo.
+
+> **Próba nie kosztuje nic poza dniem czasu i kartką. To jedyna część tego planu, którą można ogłosić jutro.**
+
+---
+
+## 3 · PRAKTYKANCI SIEDZĄ W PIONACH
+
+| Kancelaria **4** · Skarb **4** · Sąd **2** · Wojsko **2** · Dobra i dochody **4** · Fosa i Biały Port **4** | **= 20** |
+|---|---|
+
+**Uczeń nie jest sługą.** Nosi księgi — i je czyta. Raz na kwartał, gdy p.o. bierze robotę na tydzień, **uczeń bierze robotę pisarza.**
+
+> ### Urząd, który nie ma ucznia, nie ma następcy — ma nadzieję, że urzędnik nie umrze.
+
+**Dwa lata nauki, cztery lata służby.** Kto odejdzie wcześniej — **zwraca koszt, nie wolność.**
+
+---
+
+## 4 · KOSZT
+
+**Dwadzieścioro praktykantów przy pionach: 40 – 70 smoków rocznie.**
+**Próba: dzień czasu i kartka.**
+**Nowych szkół: ZERO.** Trzy istniejące pracują jak dotąd.
+
+---
+
+> ## CO ZOSTAJE NA PÓŹNIEJ, ZAPISANE, ŻEBY NIE ZGINĘŁO
+> **Myśl o szkole we wsi jest dobra i wróci — ale wraca jako sprawa KRÓLA i pełnej Rady, w roku z nadwyżką, a nie jako pomysł Namiestnika w środku zimy.**
+> **Zapisane. Odłożone. Nie wykreślone.**
+
+---
+
+# CZĘŚĆ VI — POZOSTAŁE URZĘDY, CELNICY I REWIZORZY
+
+## SZÓSTY PION — **REWIZJA**
+
+**Najmniejszy i osobny. Odpowiada KRÓLOWI** — nie Skarbnikowi, którego księgi sprawdza, i nie Namiestnikowi, którego roboty odbiera.
+
+> **Kto zarządza, nie mierzy sam siebie. Tym bardziej nie mierzy sam siebie Skarb.**
+
+**Dwie robotY:**
+**1 · rewizja ksiąg** — przy rachunku składanym, na stały termin
+**2 · rewizja w terenie** — wozy, wagi, spichlerze, **bez zapowiedzi**
+
+> ### Rachunek jest przewidywalny. Rewizja nie. **To muszą być dwa różne narzędzia w dwóch różnych rękach.**
+
+**Rewizor nie karze.** Zapisuje i donosi. **Karze sąd.** *Rewizor, który karze, w rok staje się poborcą własnej kieszeni.*
+
+### REGUŁA, KTÓREJ DOTĄD NIE BYŁO — ile wozów i jak wybieranych
+
+W księdze stoi od dawna: *Garth otworzy może trzydzieści na sto zamiast ośmiu, ale dalej mierzy głównie to, co ktoś sam zadeklarował — **dopóki nie ma zasady mówiącej, ILE się otwiera i JAK się je wybiera.***
+
+> ### **JEDEN NA DZIESIĘĆ — WYBRANY LOSEM, NIE OKIEM.**
+
+**Los ciągnie się przy woźnicy**, żeby nikt nie wierzył, że ustawiono.
+**Poza losem otwiera się z przyczyny:** gdy waga nie zgadza się z listem przewozowym, gdy listu nie ma, gdy pieczęć naruszona.
+
+> **Jeśli celnik sam wybiera, który wóz otworzyć, to nie otwiera wozów — sprzedaje spokój.**
+
+---
+
+## CELNICY — pion SKARBU, stanowiska w terenie
+
+| | |
+|---|---|
+| **CELNIK KOMORY** | mierzy, przyjmuje, pobiera |
+| **PISARZ KOMORY** | zapisuje, prowadzi księgę komory |
+| **STARSZY CELNIK** | nad grupą komór |
+
+> ### **DWÓCH PRZY KAŻDEJ KOMORZE. Celnik mierzy — pisarz zapisuje.**
+> *Fach i księgi nigdy w jednej ręce. To reguła, którą narzuciłem własnym spółkom; komora celna nie jest od niej wolna.*
+
+**Gdzie pełna obsada:** Biały Port, Fosa Cailin.
+**Gdzie na razie jeden człowiek i dwie stawki:** pozostałe komory graniczne — **do czasu, aż stanie tam obsadzony urząd.**
+
+---
+
+## POZOSTAŁE URZĘDY KORONY — przypisane do pionów
+
+| pion | urzędy |
+|---|---|
+| **KANCELARIA** | sekretarz · rejestrator · **strażnik pieczęci** · pisarze · **przełożony poczty i kurierzy** · **archiwista Korony** |
+| **SKARB** | skarbnik · rachmistrz główny · **celnicy i pisarze komór** · **mincerz** *(mennica WILK)* · poborca danin |
+| **SĄD** | justycjariusz · **sędziowie objazdowi** · pisarz sądowy · woźny |
+| **WOJSKO** | marszałek · **prowiantmistrz** · pisarz rejestru chorągwi · admirał · kapitanowie eskadry |
+| **DOBRA I DOCHODY** | **rządca demeny** · poborca czynszów · **leśniczy** *(regale leśne)* · **mistrz wagi** · **mierniczy** |
+| **REWIZJA** | **rewizor ksiąg** · **rewizor terenowy** |
+
+**Każdy z tych urzędów ma p.o., kartę roboty i miejsce w rejestrze kadr.**
+
+> **Nie tworzymy nowych stanowisk — nazywamy te, które już ktoś wykonuje, i dopisujemy im drugą rękę tam, gdzie jedna ręka trzyma i miarę, i pióro.**
+
+---
+
+# CZĘŚĆ VII — HEROLDOWIE
+
+**Pion: KANCELARIA.** *W poselstwie — odpowiadają Królowi wprost.*
+
+> ### Prawo, którego nikt nie odczytał na głos, nie obowiązuje ludzi. Obowiązuje tylko pergamin.
+
+Na Północy, gdzie z dwudziestu ludzi czyta jeden, **słup z obwieszczeniem jest połową roboty.** Drugą połową jest **człowiek, który staje i mówi.**
+
+## Cztery roboty herolda
+
+**1 · OGŁASZANIE.** Prawo, cło, cena zboża, stawka przewozowa, próba, terminy rachunku — **czytane z ganku, w ustalone dni, TYMI SAMYMI SŁOWAMI wszędzie.**
+
+> **Tekst jest jeden. Herold go nie tłumaczy własnymi słowami i nie dodaje od siebie ani zdania.**
+> *Prawo, które w każdej wsi brzmi trochę inaczej, w rok staje się dwudziestoma prawami.*
+
+**2 · POSELSTWO.** Herold niesie słowo Króla tam, gdzie posłać zwykłego jeźdźca byłoby ryzykiem — **także do Dreadfort.**
+
+> ### **Kto podniesie rękę na herolda, odpowiada przed KRÓLEM, nie przed swoim panem.**
+> Bez tej jednej zasady Korona nie ma głosu poza zasięgiem własnej straży.
+
+**3 · KSIĘGA HERBÓW I RODOWODÓW.** Kto jakie znaki nosi, z kogo pochodzi, kto po kim dziedziczy — **w archiwum kancelarii.**
+
+> Nie ozdoba. **To jest dowód w sporze o schedę** — a mamy wakat po Hornwoodach i sukcesję Bliźniaków wiszącą na starym człowieku.
+> *Spór o dziedzictwo rozstrzyga się szybciej, gdy księga stoi PRZED sporem, a nie powstaje w jego trakcie.*
+
+**4 · PIERWSZEŃSTWO I CEREMONIA.** Kto wchodzi pierwszy, kto gdzie siada, kogo się zapowiada.
+
+> Wygląda błaho i błahe nie jest. **Połowa swarów na każdym dworze świata bierze się z miejsca przy stole** — a swar między chorążymi kosztuje Koronę więcej niż cała kancelaria.
+
+## Obsada i tryb
+
+**HEROLD KORONY** *(w kancelarii)* + **dwóch albo trzech HEROLDÓW OBJAZDOWYCH.**
+
+**Jadą z objazdem** — ten sam krąg, który wiezie sąd, rachunek i próbę, **wiezie też głos.**
+
+> ### Jeden objazd, cztery rzeczy: **sądzi · liczy · sprawdza · ogłasza.**
+
+**Koszt: 10 – 20 smoków rocznie**, z końmi i barwami.

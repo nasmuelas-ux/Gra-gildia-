@@ -5,9 +5,9 @@
   "dzien": 19,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "wieczor",
  "sezon": "zima (300)",
- "pogoda": "RZUT 82 (300-03-19) - DZIEN POGODNY I ZIMNY PO ODWILZY. Niebo czyste, wiatr od poludnia, slonce od rana. ⚠ ALE GRUNT JEST NASYCONY PO WCZORAJSZYM - pogoda jest dobra, DROGA NIE. SKUTKI: (1) TRAKT NA WINTERFELL ROZMIEKLY - maz w koleinach, twardo tylko na grzbietach. (2) PORT PRACUJE PELNA REKA, nadbrezie odrobia dwa dni sztormu i odwilzy. (3) KRUKI LECA NORMALNIE.",
+ "pogoda": "RZUT 82 (300-03-19) - dzien pogodny i zimny, wieczorem mroz tezeje. Pogoda dobra, DROGA ZLA: grunt nasycony po odwilzy 03-18, maz w koleinach, twardo tylko na grzbietach. Nocy przymrozek - rano bedzie twardziej, ale tylko do slonca.",
  "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 169,
+ "_dziennik_nota": 170,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
@@ -260,5 +260,6 @@
  "noc_300_03_09_koniec_dnia": "Piaty dzien. Harl przyslal z Barrowton korce i pisemne nie - rubryka stanu ziarna uratowala siew. Skup ziarna siewnego we wsiach Fosy ruszyl krukiem z drogi: rubryka na kazda partie, gorny kraniec widelek, tylko nadwyzka ponad wlasny wysiew, przez soltysow.",
  "noc_300_03_10_koniec_dnia": "Szosty dzien. Hal na trakcie z wiadomoscia. Dziecko nie zyje, Mira zyje.",
  "noc_300_03_11_koniec_dnia": "Przyjazd do Bialego Portu. Mira: goraczka od trzeciego dnia, nierozstrzygniete. Poczta odczytana: Krol przyjmuje rozdzielenie krzesla (41), podpis pod zgoda z data waznosci, Beron nie dal rady (7), sklad w Cailin przyznany a garnizon z zoldem na lennie (65), o Ilariu ani tak ani nie (28). Bilans Hala odczytany z zapisu, weksle IDA NA WYKUP. Ustalona EKONOMIA_BAZA i zasada 43.",
- "noc_300_03_12_koniec_dnia": "Dzien drugi w Bialym Porcie, dlugi. U WYMANA: przewloka - podpisujemy STAWKE I METODE, nie liczbe; trzecia reka TOMMARD KOSA; PORT WSCHODNI WSPOLNY, nazwa UJSCIE TALLY-MANDERLY; przewloke finansuje Dom bezzwrotnym zasileniem Kasy 2, myto zostaje lennu; udzial nie w drewnie, tylko W BEDNARNI; kolebka Glebokorzenia na OBIE izby; czesc V Prawa Spichlerza bedzie egzekwowal Bialy Port i Wyman prosi, zeby zrobic go tym, kto to wykonuje; karta Mistrza Handlu jednym aktem z karta standardow, na Radzie. DAVOS: Symon mowi mu wprost, Wyman ma oslone. U MEDRICKA: Pentos ma dach i nie mial czlowieka; Lorren odrzucony (rzut 5, 'ten, co chodzi wszedzie'), zostaje w Bialym Porcie; OBARO wskazany przez Medricka (67) i wziety przez Hala, wprowadzenie Medricka NA PISMIE, ksiega Pentos idzie do kantoru Nesty. Placowki: Braavos i Pentos otwarte, Highgarden na spust 03-17, Gulltown swiadomie nie. DREWNO: nie sprzedajemy prawa - krolestwo sprzedaje drewno zorganizowanie przez Mistrza Handlu; cena ogloszona, Miara Polnocna, ksiega jawna. PRZYSTANIE WSCHODU jako PROPOZYCJA, nie prosba - cztery do zbudowania plus Przystan Wilka, ktora juz stoi i okazala sie zakolem z planu z 298."
+ "noc_300_03_12_koniec_dnia": "Dzien drugi w Bialym Porcie, dlugi. U WYMANA: przewloka - podpisujemy STAWKE I METODE, nie liczbe; trzecia reka TOMMARD KOSA; PORT WSCHODNI WSPOLNY, nazwa UJSCIE TALLY-MANDERLY; przewloke finansuje Dom bezzwrotnym zasileniem Kasy 2, myto zostaje lennu; udzial nie w drewnie, tylko W BEDNARNI; kolebka Glebokorzenia na OBIE izby; czesc V Prawa Spichlerza bedzie egzekwowal Bialy Port i Wyman prosi, zeby zrobic go tym, kto to wykonuje; karta Mistrza Handlu jednym aktem z karta standardow, na Radzie. DAVOS: Symon mowi mu wprost, Wyman ma oslone. U MEDRICKA: Pentos ma dach i nie mial czlowieka; Lorren odrzucony (rzut 5, 'ten, co chodzi wszedzie'), zostaje w Bialym Porcie; OBARO wskazany przez Medricka (67) i wziety przez Hala, wprowadzenie Medricka NA PISMIE, ksiega Pentos idzie do kantoru Nesty. Placowki: Braavos i Pentos otwarte, Highgarden na spust 03-17, Gulltown swiadomie nie. DREWNO: nie sprzedajemy prawa - krolestwo sprzedaje drewno zorganizowanie przez Mistrza Handlu; cena ogloszona, Miara Polnocna, ksiega jawna. PRZYSTANIE WSCHODU jako PROPOZYCJA, nie prosba - cztery do zbudowania plus Przystan Wilka, ktora juz stoi i okazala sie zakolem z planu z 298.",
+ "_miejsce_symona": "W DRODZE: trakt Bialy Port -> Winterfell, dzien pierwszy, oboz przy trakcie"
 }

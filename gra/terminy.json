@@ -752,7 +752,7 @@
    "kanal": "kruk Fosa-Krolewska Przystan",
    "wraca": "300-03-22",
    "zamyka": "odpowiedz dworu ALBO milczenie - a milczenie tez rozstrzyga cene Harriona przed 300-04-01, gdy zapada zaleglosc Karholdu",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
   },
   {
    "data": "300-03-05",
@@ -2414,7 +2414,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-22",
    "zamyka": "ktore morze - jedno slowo",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
   },
   {
    "data": "300-03-13",
@@ -2577,7 +2577,7 @@
    "kanal": "jezdziec Fosa-Dustinport",
    "wraca": "300-03-22",
    "zamyka": "trzydziestu wpisanych, zapotrzebowanie skorygowane",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
   },
   {
    "data": "300-03-20",
@@ -2676,7 +2676,7 @@
    "kanal": "kruk Bialy Port-Fosa, potem trakt Fosa-Winterfell",
    "wraca": "300-03-24",
    "zamyka": "karta w Winterfell, w czystopisie, przed Rada",
-   "status": "otwarte - NOWE"
+   "status": "otwarte - NOWE ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
   },
   {
    "data": "300-03-17 (u niego) / odpowiedz ~300-03-21",
@@ -2838,7 +2838,7 @@
    "kanal": "trakt Bialy Port-Fosa",
    "wraca": "300-03-24",
    "zamyka": "ogloszone na slupie w Cailin i wykonane pierwszy raz",
-   "status": "otwarte - NOWE"
+   "status": "otwarte - NOWE ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
   },
   {
    "data": "300-03-16",
@@ -2857,7 +2857,7 @@
    "kanal": "kruk Bialy Port-Fosa (tam 2, wraca lacznie 4)",
    "wraca": "~300-03-23",
    "zamyka": "liczba korcy z podzialem starzy/nowi + stan lawy przysieznej + odmowa albo milczenie, nazwane wprost",
-   "status": "otwarte ⚠ GDZIE DOJDZIE ODPOWIEDZ, ZALEZY OD ROZSTRZYGNIECIA PYTANIA GARRICKA O STALY ADRES (Symon wyjezdza 300-03-19)"
+   "status": "otwarte ⚠ GDZIE DOJDZIE ODPOWIEDZ, ZALEZY OD ROZSTRZYGNIECIA PYTANIA GARRICKA O STALY ADRES (Symon wyjezdza 300-03-19) ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
   },
   {
    "data": "300-03-16",
@@ -2949,7 +2949,7 @@
    "kanal": "kruk Bialy Port-Fosa (2 dni) albo spotkanie",
    "wraca": "~300-03-21",
    "zamyka": "tresc tego, co przyszlo zajetym kanalem - podana Symonowi bez papieru",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
   },
   {
    "data": "300-03-17",
@@ -3097,7 +3097,7 @@
    "kanal": "kruk Zamek Cerwyna-Winterfell (zamek lezy miedzy Winterfell a Bialym Nozem, ustalenie 300-03-14)",
    "wraca": "~300-03-25 (Winterfell)",
    "zamyka": "odpowiedz Cerwyna: przyjmuje nadanie · przyjmuje z warunkiem formy · albo stawia wlasnego kandydata i robi z tego sprawe przed Rada",
-   "status": "otwarte - NOWE 300-03-18"
+   "status": "PRZYSZLO 300-03-25 NA TRAKCIE, RZUT 39 PRZY PROGU 55 - PONIZEJ. CERWYN PRZYJMUJE BORSA (sprawdzil, ze Norren trzyma ksiegi od 300-03-03, czyli PRZED nadaniem - i mowi, ze to jedyny powod, dla ktorego nie pisze inaczej). TOMMARDA NIE TKNAL. ⚠ ALE ODMAWIA ZAMKNIECIA RZECZY PRYWATNIE: gospodarz ma byc slyszany NA RADZIE, przy trzech wlascicielach. Cel pozycji ('przed Rada, nie na niej') NIEOSIAGNIETY. Jezdziec czekal przy trakcie z zaproszeniem pod dach na noc - rozmowa w cztery oczy przed Rada jest mozliwa DZIS."
   }
  ],
  "_dopiski_300_03_19": [

@@ -504,7 +504,7 @@
    "co": "LADY CATELYN W RIVERRUN. Wyjechala z Winterfell 299-10-05; cel od poczatku: RIVERRUN, negocjowac w imieniu Polnocy. OKNO PRZEJAZDU PRZEZ FOSE (02-25..03-07) SIE ZAMKNELO - nie przejezdza, siedzi u brata. JEJ ROLA, nietknieta od 299-09-19: ONA OTWIERA DRZWI jako TULLY, w domu swojego ojca, do swojego brata. Korona przez nie wchodzi - ona nie podpisuje, nie ustepuje, nie negocjuje za Polnoc. LIST SYMONA do rak wlasnych (napisany 300-02-16, wlasna reka, BEZ pieczeci Namiestnika) idzie PRZEZ LUCANA od 300-02-27 - a Lucan siedzi w Dorzeczu, wiec kanal jest wlasciwy. KARTKA U WARRYNA NA FOSIE ZOSTAJE - na wypadek, gdyby wracala tedy.",
    "kto": "CATELYN w Riverrun / LUCAN doreczenie",
    "zamyka": "odpowiedz od niej ALBO ruch Edmure'a przy traktacie (druga ratyfikacja, koniec VI/300)",
-   "status": "otwarte - POPRAWIONE wskazaniem gracza 300-03-03: ona siedzi w Riverrun",
+   "status": "otwarte - POPRAWIONE wskazaniem gracza 300-03-03: ona siedzi w Riverrun ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka.",
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "300-03-20"
   },
@@ -826,7 +826,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-03-20",
    "zamyka": "jedna ksiega, cztery sklady, jedna miara",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "300-03-09",
@@ -998,7 +998,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-20",
    "zamyka": "karta przewozu: dni, wozy, przeladunki, koszt na sazen",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "300-03-31 - ZAPADA W TYM MIESIACU",
@@ -1753,7 +1753,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "zestawienie trzech ksiag: ile pustych rubryk da sie zamknac",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "300-03-11",
@@ -1870,7 +1870,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-20",
    "zamyka": "osobna linia w ksiedze Fosy HQ: co Dom kupil od lenna, ile, po jakiej cenie i wobec jakiej ceny ogloszonej",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "300-03-30",
@@ -1915,7 +1915,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "ile lenno wzielo od Domu w monecie i w towarze za ostatni kwartal - jedna liczba",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "300-03-11",
@@ -1942,7 +1942,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "moneta albo rozliczenie - jedno slowo",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "300-03-12",
@@ -2459,7 +2459,7 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-03-20",
    "zamyka": "plan portu wschodniego: pomost najpierw, liczby przy kazdej pozycji",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "300-03-13",
@@ -2495,7 +2495,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-20",
    "zamyka": "ile przystani stoi, ile jest w zalazku, ile jest tylko na papierze",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "300-03-12",
@@ -2586,7 +2586,7 @@
    "kanal": "jezdziec Bialy Port-Fosa",
    "wraca": "300-03-20",
    "zamyka": "rubryka pochodzenia wpisana we wzor listu przewozowego i w ksiege skladu",
-   "status": "otwarte"
+   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
   },
   {
    "data": "kiedy budowa przestanie zjadac cala produkcje",

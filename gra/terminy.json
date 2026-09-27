@@ -2921,7 +2921,7 @@
    "kanal": "siatka Willi",
    "wraca": "300-03-19",
    "zamyka": "czy kanal sie odstawia, czy uzywa sie go swiadomie w druga strone - rozstrzygniecie pana przed wyjazdem",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-19 RANEK, PRZED WYJAZDEM - tak jak pozycja tego wymagala. ROZSTRZYGNIECIE GRACZA: KANAL SIE NIE ODSTAWIA. IDZIE DALEJ, SWIADOMIE, W DRUGA STRONE. Willa ma go prowadzic i grac w te gre. Rozkaz krukiem z Bialego Portu (2 dni), u niej ~300-03-21. ⚠ JEJ WLASNY WARUNEK, POSTAWIONY ZANIM TO SIE STALO I NIENARUSZONY: NIE POSLE NA TEN KANAL DRUGIEGO CZLOWIEKA. Wiec kanal gra sie PAPIEREM, nie ludzmi. Skutek zamkniecia tej pozycji: otwiera sie operacja ponizej."
   },
   {
    "data": "300-03-17",
@@ -3098,6 +3098,17 @@
    "wraca": "~300-03-25 (Winterfell)",
    "zamyka": "odpowiedz Cerwyna: przyjmuje nadanie · przyjmuje z warunkiem formy · albo stawia wlasnego kandydata i robi z tego sprawe przed Rada",
    "status": "otwarte - NOWE 300-03-18"
+  }
+ ],
+ "_dopiski_300_03_19": [
+  {
+   "data": "300-03-19",
+   "co": "KANAL WILLI GRANY W DRUGA STRONE - OPERACJA, NIE FILAR. Rozkaz gracza 300-03-19 rankiem, przed wyjazdem: kanal zostaje otwarty i uzywany SWIADOMIE, zeby dowiedziec sie, CZYJA JEST RECA na drugim koncu. ### JAK TO IDZIE: papierem, nie ludzmi - warunek Willi z 300-03-17 stoi i nikt go nie rusza ('nie posle na ten kanal drugiego czlowieka', powiedziane ZANIM to sie stalo). ### MECHANIKA, KTORA JEST TRESCIA TEJ DECYZJI, NIE JEJ KOSZTEM: od dzis wszystko, co idzie tym kanalem, jest pisane Z ZALOZENIEM, ZE PRZECZYTA TO OBCY - wiec niesie tylko to, co ma byc przeczytane. Prawdziwy ruch siatki chodzi osobno (kruk, usta) i tak juz bylo od 300-03-17. ### CZEGO NIE RUSZAMY: powtorny odczyt dwoch tygodni ciszy - 'nie jako wiadomosci, tylko jako to, co ktos chcial, zebysmy przeczytali' - to robota Willi i idzie bez pana (zasady 7 i 42). ### RZUT: nalezy sie NIE WILLI, a drugiej stronie - czy obca reka bierze przyneta, czy zauwaza, ze jest grana. JEDEN RZUT NA SPRAWE (zasada 27), przy pierwszym meldunku.",
+   "kto": "WILLA (prowadzi) -> SYMON",
+   "kanal": "rozkaz: kruk Bialy Port-Fosa (2 dni, u niej ~300-03-21) · meldunek: kruk Fosa-Winterfell (2 dni)",
+   "wraca": "300-04-02 (pierwszy meldunek, takze gdy brzmi 'nikt nie siegnal')",
+   "zamyka": "imie albo dom na drugim koncu kanalu - albo jawne 'druga strona zauwazyla i kanal umarl'",
+   "status": "otwarte - NOWE 300-03-19"
   }
  ]
 }

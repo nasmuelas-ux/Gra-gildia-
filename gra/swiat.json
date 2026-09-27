@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 3,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 98 (300-03-18) - ODWILZ PEKLA NAPRAWDE, pierwszy prawdziwy dzien wiosny; woda schodzi wszedzie naraz. SKUTKI: (1) KAFAR WSZEDL W GRUNT - grobla ruszyla po trzech tygodniach postoju. (2) LOD PUSCIL - pierwsza barka na wodzie, pierwsza pieczec Mchowych Jastrzebi na liscie przewozowym. (3) TA SAMA WODA ROZMIEKLA PRZEWLOKE - pomiar w poludnie w odwilz dal grunt gorszy, niz liczono.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 82 (300-03-19) - DZIEN POGODNY I ZIMNY PO ODWILZY. Niebo czyste, wiatr od poludnia, slonce od rana. ⚠ ALE GRUNT JEST NASYCONY PO WCZORAJSZYM - pogoda jest dobra, DROGA NIE. SKUTKI: (1) TRAKT NA WINTERFELL ROZMIEKLY - maz w koleinach, twardo tylko na grzbietach. (2) PORT PRACUJE PELNA REKA, nadbrezie odrobia dwa dni sztormu i odwilzy. (3) KRUKI LECA NORMALNIE.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 167,
+ "_dziennik_nota": 168,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

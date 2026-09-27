@@ -22,7 +22,10 @@
    "DOWODCA PRZYBOCZNEJ": {
     "kto": "STEN",
     "od": "299-05-12",
-    "nota": "STEN dowodzi calosc. ⚠ ETAT DOPISANY WPROST 300-03-18 NA WSKAZANIE GRACZA: PRZYBOCZNA TO DWA ODDZIALY, NIE JEDEN. Dotad w ksiedze stal jeden urzad i stara notka 'pod nim DAGON i HARL' - nieaktualna od 300-03-02, bo HARL poszedl na DZIESIETNIKA DO DUSTINPORTU. Zaden wpis nie mowil 'jeden oddzial'; nie bylo go po prostu policzonego. ODDZIAL I - jedzie z panem (Winterfell od 300-03-19). ODDZIAL II - zostaje w Bialym Porcie przy MIRZE, i to on odprowadzi ja na Fose, gdy Rhona da slowo. DAGON prowadzi ten, ktory zostaje. ⚠ WIEC EskORTA PANA NIE JEST USZCZUPLONA - oddzial II nie jest wykrojony z oddzialu I, tylko jest drugim oddzialem."
+    "sila": "DWA ODDZIALY PO DZIESIECIU - RAZEM DWUDZIESTU LUDZI",
+    "oddzial_I": "10 ludzi - STRAZ PRZYBOCZNA PANA. Jedzie z Symonem; Winterfell od 300-03-19.",
+    "oddzial_II": "10 ludzi - PRZY MIRZE, Bialy Port. Prowadzi DAGON. Odprowadzi ja na Fose po slowie Rhony.",
+    "nota": "⚠ LICZBY PODANE PRZEZ GRACZA 300-03-18 I WPISANE JAKO ETAT, NIE JAKO PROZA (zasada 38). Dotad ksiega miala jeden urzad bez sily i przedawniona notke 'pod nim DAGON i HARL' - HARL od 300-03-02 jest dziesietnikiem w DUSTINPORCIE i nie wchodzi do zadnego z dwoch oddzialow. STEN dowodzi calosc i - jak dowodca Mchowych Jastrzebi - podlega BEZPOSREDNIO SYMONOWI. ⚠ RACHUNKOWO OSOBNO, ZEBY NIKT TEGO NIE POLICZYL DWA RAZY: ~50 druzyny HENDRY'EGO (marszalek fortecy / kapitan Domu Tally) to INNA LINIA niz ci dwudziestu."
    },
    "DZIESIETNIK (Dustinport)": {
     "kto": "HARL",

@@ -3097,7 +3097,7 @@
    "kanal": "kruk Zamek Cerwyna-Winterfell (zamek lezy miedzy Winterfell a Bialym Nozem, ustalenie 300-03-14)",
    "wraca": "~300-03-25 (Winterfell)",
    "zamyka": "odpowiedz Cerwyna: przyjmuje nadanie · przyjmuje z warunkiem formy · albo stawia wlasnego kandydata i robi z tego sprawe przed Rada",
-   "status": "PRZYSZLO 300-03-25 NA TRAKCIE, RZUT 39 PRZY PROGU 55 - PONIZEJ. CERWYN PRZYJMUJE BORSA (sprawdzil, ze Norren trzyma ksiegi od 300-03-03, czyli PRZED nadaniem - i mowi, ze to jedyny powod, dla ktorego nie pisze inaczej). TOMMARDA NIE TKNAL. ⚠ ALE ODMAWIA ZAMKNIECIA RZECZY PRYWATNIE: gospodarz ma byc slyszany NA RADZIE, przy trzech wlascicielach. Cel pozycji ('przed Rada, nie na niej') NIEOSIAGNIETY. Jezdziec czekal przy trakcie z zaproszeniem pod dach na noc - rozmowa w cztery oczy przed Rada jest mozliwa DZIS."
+   "status": "PRZYSZLO 300-03-25 NA TRAKCIE, RZUT 39 PRZY PROGU 55 - PONIZEJ. CERWYN PRZYJMUJE BORSA (sprawdzil, ze Norren trzyma ksiegi od 300-03-03, czyli PRZED nadaniem - i mowi, ze to jedyny powod, dla ktorego nie pisze inaczej). TOMMARDA NIE TKNAL. ⚠ ALE ODMAWIA ZAMKNIECIA RZECZY PRYWATNIE: gospodarz ma byc slyszany NA RADZIE, przy trzech wlascicielach. Cel pozycji ('przed Rada, nie na niej') NIEOSIAGNIETY. Jezdziec czekal przy trakcie z zaproszeniem pod dach na noc - rozmowa w cztery oczy przed Rada jest mozliwa DZIS. ### ZAMKNIETE 300-03-25 WIECZOREM, POD DACHEM CERWYNA. Gracz wzial Cerwyna za slowo: zadal 'wszystkich trzech wlascicieli', wiec dostaje RADE TRZECH, nie Wielka Rade. Cerwyn przyjal bez targu. Pozycja NIE wchodzi na porzadek Wielkiej Rady."
   }
  ],
  "_dopiski_300_03_19": [
@@ -3109,6 +3109,17 @@
    "wraca": "300-04-02 (pierwszy meldunek, takze gdy brzmi 'nikt nie siegnal')",
    "zamyka": "imie albo dom na drugim koncu kanalu - albo jawne 'druga strona zauwazyla i kanal umarl'",
    "status": "otwarte - NOWE 300-03-19"
+  }
+ ],
+ "_dopiski_300_03_25": [
+  {
+   "data": "300-03-25",
+   "co": "MALA RADA TRZECH WLASCICIELI PRZYSTANI WILKA - gospodarz wysluchany przy wspolwlascicielach, NIE przy czternastu domach. Uklad: Korona 1/2 (Symon), Cerwyn 1/4, Manderly 1/4 (Wyman). Przedmiot: BORS jako gospodarz portu - nadanie juz stoi (prerogatywa, 300-03-18), wiec rzecz idzie do WYSLUCHANIA, nie pod glosy (zasada 22). Zabezpieczenie do pokazania na miejscu: Norren Scisly na ksiegach pomostu od 300-03-03 (PRZED nadaniem) i osiem rubryk Karty I od 300-04-01, ktorych Bors sam sobie nie ustala. ⚠ MIEJSCE I CZAS WYNIKAJA Z TEGO, GDZIE I TAK WSZYSCY BEDA: Winterfell, PRZED Wielka Rada 300-03-30.",
+   "kto": "SYMON + MEDGER CERWYN + WYMAN MANDERLY",
+   "kanal": "osobiscie, Winterfell - wszyscy trzej na miejscu przed Rada",
+   "wraca": "300-03-29 (przed Wielka Rada 300-03-30)",
+   "zamyka": "gospodarz wysluchany przy trzech wlascicielach - i pozycja NIE wchodzi na porzadek Wielkiej Rady",
+   "status": "otwarte - NOWE 300-03-25"
   }
  ]
 }

@@ -6436,6 +6436,11 @@
    "id": "akt_rodziny_tally",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "przystan_wilka",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

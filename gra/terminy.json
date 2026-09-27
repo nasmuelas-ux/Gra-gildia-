@@ -2685,7 +2685,7 @@
    "kanal": "kruk Bialy Port-Zamek Cerwyna",
    "wraca": "~300-03-21",
    "zamyka": "zgoda Cerwyna albo jego wlasny kandydat - przed Rada, nie na niej",
-   "status": "otwarte - NOWE"
+   "status": "WYSLANE 300-03-18 WIECZOREM - ALE NIE W TEJ FORMIE, W KTOREJ BYLO ZAPISANE. ROZSTRZYGNIECIE GRACZA: nie prosba o zgode, lecz OBWIESZCZENIE NADANIA prerogatywa Namiestnika. List idzie krukiem z Bialego Portu, siada u Cerwyna ~300-03-21 - prywatnie i PRZED Rada, tak jak bylo zamierzone. Zmienila sie gramatyka, nie kanal i nie termin. Pozycja zamknieta; reakcja Cerwyna to osobny termin ponizej."
   },
   {
    "data": "300-03-14",
@@ -3087,6 +3087,17 @@
    "zamyka": "kapital 800 oddany albo obligacja odnowiona za zgoda obu stron",
    "status": "otwarte",
    "co": "⚑ WYKUP KAPITALU OBLIGACJI - 315-04-01, 800 SMOKOW. RAZEM ODDANE OD 800: 1820 (800 kapitalu + 1020 kuponu). ⚠ TO JEST JEDYNY ROK, W KTORYM TEN PAPIER NAPRAWDE BOLI: Kasa 2 w 315 to ok. 3472 rocznie (sufit modelu), wiec wykup to OKOLO JEDNEJ CZWARTEJ ROCZNEGO DOCHODU LENNA. Jedyny termin, ktorego nie wolno przegapic przez pietnascie lat. Naliczony w silniku: python3 gra/kasa.py rok 315-12-30."
+  }
+ ],
+ "_dopiski_300_03_18": [
+  {
+   "data": "300-03-18",
+   "co": "REAKCJA CERWYNA NA NADANIE BORSA - PIERWSZY RZUT TEJ SPRAWY I JEDYNY (zasada 27). List obwieszcza, nie pyta. Cerwyn dowiaduje sie prywatnie ~300-03-21, dwanascie dni przed Rada, ze do przystani, w ktorej ma cwiartke, Korona wyznaczyla gospodarza bez pytania go o zgode. ⚠ KOLIZJA FORMY, KTORA STOI W ZAPISIE, A NIE JEST WYMYSLONA: na Radzie 300-03-30 Symon ma go PROSIC NA GLOS o Tommarda Kose na rok, a warunek Cerwyna byl wlasnie warunkiem FORMY ('lustrator pozyczony patrzy na dwie strony, wiec ma byc WZIETY OD SIEBIE'; doktryna: pozyczonego urzednika nie przedluza sie milczeniem). Ten sam czlowiek w ciagu dwunastu dni dostaje nadanie bez pytania i prosbe przy czternastu domach. CO GRA NA KORZYSC PANA: rozdzielenie ksiag i kamienia stoi od 300-03-03, NIE od dzisiaj - Norren Scisly trzyma ksiegi pomostu i nie stoi pod Borsem; osiem rubryk wchodzi 300-04-01. Cerwyn nie musi brac zabezpieczenia na wiare.",
+   "kto": "MEDGER CERWYN -> SYMON",
+   "kanal": "kruk Zamek Cerwyna-Winterfell (zamek lezy miedzy Winterfell a Bialym Nozem, ustalenie 300-03-14)",
+   "wraca": "~300-03-25 (Winterfell)",
+   "zamyka": "odpowiedz Cerwyna: przyjmuje nadanie · przyjmuje z warunkiem formy · albo stawia wlasnego kandydata i robi z tego sprawe przed Rada",
+   "status": "otwarte - NOWE 300-03-18"
   }
  ]
 }

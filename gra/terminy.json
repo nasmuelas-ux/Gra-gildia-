@@ -196,7 +196,7 @@
    "co": "RAMSAY - wezwanie do czterdziestu domow; meldunek MA PASC TAKZE, JESLI NIE PRZYJEDZIE",
    "kto": "kancelaria -> Symon (Bialy Port do ~20.III, potem Winterfell)",
    "zamyka": "meldunek o przyjezdzie ALBO o niestawieniu sie",
-   "status": "otwarte",
+   "status": "ZAMKNIETE 300-03-28, RZUT 82 PRZY PROGU 55 - ROOSE ODPOWIEDZIAL WPROST: RAMSAY NIE PRZYJEDZIE. Podal tez powod milczenia z 03-14: nie wiedzial jeszcze, co napisze, a nie pisze slow, ktore moglby cofnac. Meldunek o niestawieniu sie padl od samego ojca, na pismie, przed Rada. ⚠ List lezal w kancelarii Winterfell od ~03-20/21 i nie zostal policzony przy rozladunku - wina prowadzacego, zasada 39a, bez kary w dniach.",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-31"
   },
@@ -423,7 +423,7 @@
    "co": "LIST DO HALA: WYKUPIC WEKSEL DANY BOLTONOM. Podstawa: 299-10-20 Dreadfort, zamiec - postoj oplacony WEKSLEM NA DOM TALLY, Roose przyjal papier bez pytania. Lezy piaty miesiac. NA DREADFORCIE LEZY PODPIS SYMONA - papier z jego nazwiskiem i CUDZA WOLA, platny na zadanie, ktory kladzie sie na stol wtedy, kiedy sie chce. PILNE PRZEZ TRZY ZBIEGI: cichy kupiec na Dreadfort 300-03-10, Ramsay wezwany przed 300-04-01, Rada 300-04-01 z Boltonami na sali.",
    "kto": "HAL SIEROTA",
    "zamyka": "weksel w rekach Domu albo pisemna odmowa Roose'a",
-   "status": "POCHLONIETE PRZEZ POZYCJE NOWSZA - wskazanie gracza 300-03-03. Symon napisal DO ROOSE'A WPROST 300-02-27 ('nie czeka na spotkanie'). Weksel i list do Roose'a to JEDNA SPRAWA Z DWOCH KONCOW; zamyka ja odpowiedz Boltona albo jej brak przed Rada 300-04-01, nie osobna kartka od Hala.",
+   "status": "ZAMKNIETE 300-03-28, RZUT 82 PRZY PROGU 55 - ROOSE ODPOWIEDZIAL WPROST: RAMSAY NIE PRZYJEDZIE. Podal tez powod milczenia z 03-14: nie wiedzial jeszcze, co napisze, a nie pisze slow, ktore moglby cofnac. Meldunek o niestawieniu sie padl od samego ojca, na pismie, przed Rada. ⚠ List lezal w kancelarii Winterfell od ~03-20/21 i nie zostal policzony przy rozladunku - wina prowadzacego, zasada 39a, bez kary w dniach.",
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-02-11"
   },
@@ -432,7 +432,7 @@
    "co": "LIST DO ROOSE'A BOLTONA - nie czeka na spotkanie. Ta sama sprawa co weksel. ### 300-03-14 ODPOWIEDZ PRZYSZLA (rzut 77): PRZYJEDZIE NA RADE bez warunkow · WEKSEL - oferuje wykup W MONECIE (lepiej, niz proszono, dla papieru lezacego piaty miesiac) · ⚠ O RAMSAYU ANI SLOWA, mimo ze wezwanie poszlo do czterdziestu domow.",
    "kto": "ROOSE BOLTON",
    "zamyka": "odpowiedz ALBO milczenie do Rady 300-04-01 - i wtedy milczenie jest odpowiedzia",
-   "status": "ODPOWIEDZ 300-03-14 - dwie rzeczy zalatwione, trzecia przemilczana",
+   "status": "ZAMKNIETE 300-03-28, RZUT 82 PRZY PROGU 55 - ROOSE ODPOWIEDZIAL WPROST: RAMSAY NIE PRZYJEDZIE. Podal tez powod milczenia z 03-14: nie wiedzial jeszcze, co napisze, a nie pisze slow, ktore moglby cofnac. Meldunek o niestawieniu sie padl od samego ojca, na pismie, przed Rada. ⚠ List lezal w kancelarii Winterfell od ~03-20/21 i nie zostal policzony przy rozladunku - wina prowadzacego, zasada 39a, bez kary w dniach.",
    "kanal": "jezdziec Fosa-Bialy Port",
    "wraca": "300-03-13"
   },
@@ -2658,7 +2658,7 @@
    "kanal": "kruk Bialy Port-Dreadfort, odpowiedz na Winterfell",
    "wraca": "~300-03-20/21",
    "zamyka": "Ramsay przyjezdza albo pada meldunek, ze nie przyjechal",
-   "status": "ZAPYTANY WPROST 300-03-14 - czeka odpowiedz"
+   "status": "ZAMKNIETE 300-03-28, RZUT 82 PRZY PROGU 55 - ROOSE ODPOWIEDZIAL WPROST: RAMSAY NIE PRZYJEDZIE. Podal tez powod milczenia z 03-14: nie wiedzial jeszcze, co napisze, a nie pisze slow, ktore moglby cofnac. Meldunek o niestawieniu sie padl od samego ojca, na pismie, przed Rada. ⚠ List lezal w kancelarii Winterfell od ~03-20/21 i nie zostal policzony przy rozladunku - wina prowadzacego, zasada 39a, bez kary w dniach."
   },
   {
    "data": "300-03-30",

@@ -376,9 +376,9 @@
     "nota": "kadluby + nauka admirala; jedzie z pismem do Torrena"
    },
    "REJESTRATOR KORONY": {
-    "kto": null,
-    "od": null,
-    "nota": "KRZESLO ROZDZIELONE 300-03-03 - to jest polowa JAWNA. Ksiegi, pieczec, wpis w spisie urzedow, karta co siedem dni. PODPISUJE ZGODE KORONY na zakup zboza przez tego, kto nie stoi w ksiedze Polnocy (Prawo Spichlerza, czesc V). Nazwisko zastrzegl Krol. DO CZASU OBSADZENIA podpisuje kancelaria Winterfell z adnotacja 'w zastepstwie' I Z DATA WAZNOSCI - zastepstwo bez daty waznosci jest nadaniem. ### 300-03-29: Krol przedluza zastepstwo JAWNIE na Radzie, data waznosci 300-04-07; nazwisko poda wieczorem 300-03-30 razem z Uchem Korony."
+    "kto": "TOBIN SZALA - celnik z Bialego Portu, odstawiony za liczenie za dokladnie (drugi z dwoch z pisma Symona 300-03-03; pierwszy to Norren Scisly)",
+    "od": "300-03-31",
+    "nota": "KRZESLO ROZDZIELONE 300-03-03 - to jest polowa JAWNA. Ksiegi, pieczec, wpis w spisie urzedow, karta co siedem dni. PODPISUJE ZGODE KORONY na zakup zboza przez tego, kto nie stoi w ksiedze Polnocy (Prawo Spichlerza, czesc V). Nazwisko zastrzegl Krol. DO CZASU OBSADZENIA podpisuje kancelaria Winterfell z adnotacja 'w zastepstwie' I Z DATA WAZNOSCI - zastepstwo bez daty waznosci jest nadaniem. ### 300-03-29: Krol przedluza zastepstwo JAWNIE na Radzie, data waznosci 300-04-07; nazwisko poda wieczorem 300-03-30 razem z Uchem Korony. ### 300-03-30 WIECZOR: OBSADZONE PRZEZ KROLA. Zastepstwo kancelarii konczy sie z dniem objecia (przed 04-07)."
    },
    "TRZECI ODCZYT ZIARNA POZA FOSA": {
     "kto": "ORIN WAGA i THELL SITO - szkoli WYSTAN",
@@ -521,12 +521,6 @@
   }
  },
  "wakaty": [
-  {
-   "urzad": "REJESTRATOR KORONY",
-   "drabina": "KORONA",
-   "nota": "ROZDZIELONE 300-03-03 na REJESTRATORA (jawny) i UCHO KORONY (bez wpisu). Nazwiska nadal zastrzezone Krolowi (zasada 22). Zawiadomienie poszlo krukiem, wraca 300-03-07. Puste krzeslo z nazwa jest wakatem; puste krzeslo bez nazwy jest zapomnieniem.",
-   "pilnosc": "POZA REKA SYMONA - ale juz DWA wakaty, nie jeden"
-  },
   {
    "urzad": "MISTRZ DOMU AUDYTOWEGO",
    "drabina": "KORONA",

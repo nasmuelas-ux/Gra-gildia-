@@ -388,7 +388,7 @@ _20 ludzi. ⚠ VOID 300-03-04: etykieta 'KASA SYMONA (nie lenna)' byla BLEDNA. Z
 - **MARSZALEK CHORAGWI:** OSRIC KAMIEN _(posel do Muru; MELDUNEK VII ZALEGLY, adres Winterfell)_
 - **GLEBOKORZEN:** THEOMORE _(pierwszy mistrz; budowy NIKT nie prowadzi; spis flory jako pierwszy zbior)_
 - **DORADCA W DUSTINPORCIE:** THEON GREYJOY _(kadluby + nauka admirala; jedzie z pismem do Torrena)_
-- **REJESTRATOR KORONY:** ### PUSTE _(KRZESLO ROZDZIELONE 300-03-03 - to jest polowa JAWNA. Ksiegi, pieczec, wpis w spisie urzedow, karta co siedem dni. PODPISUJE ZGODE KORONY na zakup zboza przez tego, kto nie stoi w ksiedze Polnocy (Prawo Spichlerza, czesc V). Nazwisko zastrzegl Krol. DO CZASU OBSADZENIA podpisuje kancelaria Winterfell z adnotacja 'w zastepstwie' I Z DATA WAZNOSCI - zastepstwo bez daty waznosci jest nadaniem. ### 300-03-29: Krol przedluza zastepstwo JAWNIE na Radzie, data waznosci 300-04-07; nazwisko poda wieczorem 300-03-30 razem z Uchem Korony.)_
+- **REJESTRATOR KORONY:** TOBIN SZALA - celnik z Bialego Portu, odstawiony za liczenie za dokladnie (drugi z dwoch z pisma Symona 300-03-03; pierwszy to Norren Scisly) _(KRZESLO ROZDZIELONE 300-03-03 - to jest polowa JAWNA. Ksiegi, pieczec, wpis w spisie urzedow, karta co siedem dni. PODPISUJE ZGODE KORONY na zakup zboza przez tego, kto nie stoi w ksiedze Polnocy (Prawo Spichlerza, czesc V). Nazwisko zastrzegl Krol. DO CZASU OBSADZENIA podpisuje kancelaria Winterfell z adnotacja 'w zastepstwie' I Z DATA WAZNOSCI - zastepstwo bez daty waznosci jest nadaniem. ### 300-03-29: Krol przedluza zastepstwo JAWNIE na Radzie, data waznosci 300-04-07; nazwisko poda wieczorem 300-03-30 razem z Uchem Korony. ### 300-03-30 WIECZOR: OBSADZONE PRZEZ KROLA. Zastepstwo kancelarii konczy sie z dniem objecia (przed 04-07).)_
 - **TRZECI ODCZYT ZIARNA POZA FOSA:** ORIN WAGA i THELL SITO - szkoli WYSTAN _(Maester jest jeden i zostaje na Fosie. Odczyt poza Fosa NIE POTRZEBUJE maestera - potrzebuje wyuczonego oka, a maszyna do uczenia juz stoi (Wystan uczyl Herwina i Bennisa 300-03-02/03). Dwoch na objazd, nie jeden - bo odczyt sporny ma miec dwie reke.)_
 - **CZLOWIEK OD FEVER:** JONN BRODOWY _(przewoznik z brodu - niesie OBIE polowy naraz: (a) ile tygodni rzeka stoi, kanalem Warryna do krannogmenow, (b) to, co czekalo na Weylina.)_
 - **BUDOWA GLEBOKORZENIA:** VARD KILOF - czlowiek ORBELA _(jedzie ZE ZWIADEM KAMIENIA na Goracy Port (pozycja od 300-02-27) - jedna wyprawa, dwa rachunki, trzeci cel. Miejsce ma byc obejrzane, zanim Theomore stanie na Radzie 300-03-30.)_
@@ -447,8 +447,7 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **MAGISTER INZYNIERII** — TRZECH, PODZIELENI RZECZOWO: WEYLIN - inzynier zamkowy (woda, dreny, sluzy, 'urzad na pokolenia'); ORBELO - kamien i budowa; BRAN - majordom robot (grobla, trakt). ISTNIEJE, i jest to najlepiej obsadzony departament lenna.
 - **URZEDNIK MIAR I WAG** — BENNIS OD WAGI - wagowy miasta od 300-03-03, wage trzyma i placi RADA MIASTA, nie zamek. Nad nim HERWIN SZALA, burmistrz, 12 lat przy wadze, autor poprawki o ZNAKU NORMY. ISTNIEJE - ale jako urzad MIASTA. Lenno swojej wagi nie ma i miec nie powinno: lord nadaje regule, miasto sadzi.
 
-### 🔴 WAKATY (3)
-- **REJESTRATOR KORONY** _(KORONA)_ **POZA REKA SYMONA - ale juz DWA wakaty, nie jeden** — ROZDZIELONE 300-03-03 na REJESTRATORA (jawny) i UCHO KORONY (bez wpisu). Nazwiska nadal zastrzezone Krolowi (zasada 22). Zawiadomienie poszlo krukiem, wraca 300-03-07. Puste krzeslo z nazwa jest wakatem; puste krzeslo bez nazwy jest zapomnieniem.
+### 🔴 WAKATY (2)
 - **MISTRZ DOMU AUDYTOWEGO** _(KORONA)_ — PIERWSZEGO TRZEBA ZROBIC, NIE ZNALEZC - poza cechem mistrzow rewizji nie ma. TOMMARD KOSA (lustrator Fosy od 300-03-03) jest nasieniem tego urzedu, nie jego zaprzeczeniem.
 - **SOLTYSI - ILE WSI WYBRALO** _(LENNO)_ **PYTANIE BEZ ODPOWIEDZI** — ustroj od 299-08 (jedno palenisko jeden glos, lawa z oboma glosami); Symon pytal, ktore wsie wybraly - odpowiedzi nie dostal.
 
@@ -940,8 +939,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `sfera_dreadfortu` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-03-30] `wielka_rada_porzadek_obrad_300_04`: 300-03-30, WIELKA SALA - IV. HANDEL. Symon oddaje glos Wymanowi. Wyman mowi jako kupiec: drewno przez Mistrza Handlu (cena ogloszona, Miara Polnocna, ksiega jawna), przystanie wschodu jako p…
-- [300-03-30] `korona/WYMAN`: 300-03-30, WIELKA SALA - IV. HANDEL. Symon oddaje glos Wymanowi. Wyman mowi jako kupiec: drewno przez Mistrza Handlu (cena ogloszona, Miara Polnocna, ksiega jawna), przystanie wschodu jako p…
 - [300-03-30] `galbart_glover`: 300-03-30, WIELKA SALA - IV. HANDEL. Symon oddaje glos Wymanowi. Wyman mowi jako kupiec: drewno przez Mistrza Handlu (cena ogloszona, Miara Polnocna, ksiega jawna), przystanie wschodu jako p…
 - [300-03-30] `dziennik`: 300-03-30, WIELKA SALA - OGLOSZENIA PO KOLEI. Bez rzutow (prerogatywy Korony, zasada 22). (V) KARTA DLA STARKPORTU: miasto i umocniony port na Kamienistym Brzegu, domena Korony. KROL WYPOWIA…
 - [300-03-30] `wielka_rada_porzadek_obrad_300_04`: 300-03-30, WIELKA SALA - OGLOSZENIA PO KOLEI. Bez rzutow (prerogatywy Korony, zasada 22). (V) KARTA DLA STARKPORTU: miasto i umocniony port na Kamienistym Brzegu, domena Korony. KROL WYPOWIA…
@@ -952,3 +949,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-03-30] `dziennik`: 300-03-30 - KONIEC PIERWSZEGO DNIA RADY. Bilans: punkt 0 - nadanie Cypla stoi, meldunek Strazy w protokole, bez aklamacji; I ogloszony; II WODA 13:0:1; III CHLEB 11:2:1 (rewizja jutro osobno…
 - [300-03-30] `korona/ROBB`: 300-03-30 - KONIEC PIERWSZEGO DNIA RADY. Bilans: punkt 0 - nadanie Cypla stoi, meldunek Strazy w protokole, bez aklamacji; I ogloszony; II WODA 13:0:1; III CHLEB 11:2:1 (rewizja jutro osobno…
 - [300-03-30] `wielka_rada_porzadek_obrad_300_04`: 300-03-30 - KONIEC PIERWSZEGO DNIA RADY. Bilans: punkt 0 - nadanie Cypla stoi, meldunek Strazy w protokole, bez aklamacji; I ogloszony; II WODA 13:0:1; III CHLEB 11:2:1 (rewizja jutro osobno…
+- [300-03-30] `dziennik`: 300-03-30 WIECZOR, SOLARIUM KROLA - KRZESLO OBSADZONE, OBIE POLOWY. Bez rzutu (prerogatywa Krola, slowo z 300-03-11; Symon nazwisk nie podsuwal). ### REJESTRATOR KORONY (jawny): TOBIN SZALA …
+- [300-03-30] `korona/ROBB`: 300-03-30 WIECZOR, SOLARIUM KROLA - KRZESLO OBSADZONE, OBIE POLOWY. Bez rzutu (prerogatywa Krola, slowo z 300-03-11; Symon nazwisk nie podsuwal). ### REJESTRATOR KORONY (jawny): TOBIN SZALA …

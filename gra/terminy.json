@@ -1251,7 +1251,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "fakt wypowiedziany na Radzie: obcy krol idzie na nasz Mur i nie znamy dnia",
-   "status": "otwarte - przy punkcie 0 nie padla (Symon mowil o Innych, Strazy, liczbach i Cyplu). Mozna ja powiedziec przy nastepnej okazji."
+   "status": "ZAMKNIETE 300-03-30 - fakt powiedziany sali: zapowiedz jest, daty nie ma, pytanie o termin poszlo 03-03, odpowiedz ~koniec kwietnia."
   },
   {
    "data": "300-03-13",
@@ -3127,7 +3127,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "pytanie zadane przy swiadkach i odpowiedz Karstarka (albo odmowa) zapisana",
-   "status": "otwarte - KARTKA DORECZONA 300-03-30 rano przed sala. Karstark: 'Pamietam, co obiecalem. List mam przy sobie.' Pytanie pada na sali."
+   "status": "otwarte - PYTANIE WSTRZYMANE PRZEZ PANA 300-03-30 przed wypowiedzeniem. Rzut tej sprawy juz padl (rzuty.log) i rozstrzygnie ja, gdy pytanie padnie (zasada 27)."
   },
   {
    "data": "300-03-30",

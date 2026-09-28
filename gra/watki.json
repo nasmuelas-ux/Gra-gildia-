@@ -3046,7 +3046,7 @@
    "id": "wektor_stannis_zlamany_sojusznik_1127",
    "tytul": "Stannis zlamany = naturalny anty-Lann sojusznik, nie moze zadac przynaleznosci",
    "status": "UKLAD_ZAPIECZETOWANY_Stannis_zlegitymizowany_i_zwiazany",
-   "_dziennik_nota": 20
+   "_dziennik_nota": 21
   },
   {
    "id": "wektor_dolina_arryn_1127",
@@ -5979,7 +5979,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 89,
+   "_dziennik_nota": 90,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },

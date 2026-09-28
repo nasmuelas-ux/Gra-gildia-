@@ -2995,7 +2995,7 @@
    "kanal": "kruk Bialy Port-Fosa + jezdziec Fosa-Dustinport; odpowiedz na WINTERFELL",
    "wraca": "~300-03-29",
    "zamyka": "dzien miesiaca wyznaczony przez niego samego i spis rubryk, ktore da sie z Dustinport zobaczyc",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-29 - odpowiedz przyszla na Winterfell (rzut 51 przy progu 50, tuz powyzej). Dzien: PIETNASTY kazdego miesiaca. Rubryki: CZTERY, nie osiem - to, co z Dustinportu widac; reszty nie udaje."
   },
   {
    "data": "300-03-17",
@@ -3096,6 +3096,16 @@
    "wraca": "300-04-04",
    "zamyka": "odpowiedz Aemona w wiezy Luwina - albo cisza odnotowana przy sprawdzeniu",
    "status": "otwarte - ptak idzie o swicie 300-03-29. Odpowiedz NIE zdazy na Wielka Rade 300-03-30. Obok biegnie osobny list Symona do Aemona z 300-03-07 (kanal Osrica, wraca 300-04-06) - dwa pisma, dwie sprawy, zadne nie powoluje sie na drugie."
+  },
+  {
+   "data": "300-03-29",
+   "co": "KARTA THEONA GREYJOYA - DZIEN WYZNACZYL SAM: 15. KAZDEGO MIESIACA. Cztery rubryki: (1) zagle widziane od Kamienistego Brzegu po Dustinport - ile, czyje, w ktora strone; (2) co przywoza kupcy i rybacy z zachodu o Wyspach - jako slyszane, nie jako wiedziane; (3) gdzie stoimy - co na wybrzezu jest nasze i trzyma; (4) gdzie nie stoimy - czego nikt nie pilnuje. Karta idzie do Namiestnika, nie do Rejestru Korony (tak jak obiecano w liscie 300-03-17).",
+   "kto": "THEON GREYJOY -> SYMON",
+   "kanal": "jezdziec Fosa-Dustinport + kruk Winterfell-Fosa (adres ruchomy: tam, gdzie Namiestnik)",
+   "wraca": "300-04-21",
+   "zamyka": "pierwsza karta na stole",
+   "status": "otwarte - pierwsza karta pisana 300-04-15, po Radzie.",
+   "sprawdzaj_co": 30
   }
  ],
  "_dopiski_300_03_18": [

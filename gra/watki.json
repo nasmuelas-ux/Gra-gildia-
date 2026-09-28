@@ -6481,6 +6481,11 @@
    "id": "linijka_pozycja_namiestnika",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "port_wschodni",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

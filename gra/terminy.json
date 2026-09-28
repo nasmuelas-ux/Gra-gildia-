@@ -214,18 +214,18 @@
    "co": "FEVER polowa (a): ile tygodni rzeka stoi - kanal Warryna do krannogmenow + przewoznicy z brodu ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "WARRYN",
    "zamyka": "odpowiedz",
-   "status": "otwarte",
+   "status": "otwarte ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka.",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-03-26"
+   "wraca": "300-04-09"
   },
   {
    "data": "ten tydzien",
    "co": "NARYBEK do stawow + ROSLINY JADALNE - tym samym jezdzcem co Fever ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "WARRYN",
    "zamyka": "odpowiedz",
-   "status": "otwarte",
+   "status": "otwarte ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka.",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-03-26"
+   "wraca": "300-04-09"
   },
   {
    "data": "tygodnie - PRZED SIEWEM",
@@ -441,9 +441,9 @@
    "co": "LIST DO HOWLANDA REEDA. KANALU KRUCZEGO NIE MA - Greywater Watch PLYWA. Protokol: poslaniec jedzie na Przesmyk, staje w umowionym miejscu PRZY GROBLI i czeka, az krannogowie sami wyjda. MOZE DZIEN, MOZE DWA TYGODNIE - cisza tutaj NIE JEST cisza. ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "poslaniec przy grobli",
    "zamyka": "krannogowie wychodza ALBO spotkanie z Howlandem",
-   "status": "otwarte - bez zegara z natury kanalu",
+   "status": "otwarte - bez zegara z natury kanalu ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka.",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-03-26"
+   "wraca": "300-04-09"
   },
   {
    "data": "wyslany 300-03-01, osobnym jezdzcem",

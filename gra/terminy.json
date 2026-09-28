@@ -3139,6 +3139,15 @@
    "kanal": "decyzja pana",
    "wraca": "300-03-30 (Wielka Rada - albo wczesniej)",
    "zamyka": "nazwisko na krzesle glowy Goracego Portu",
+   "status": "ZAMKNIETE 300-03-27 - HARLON Z BRODU. Wybrany po przeczytaniu obu ksiag; wolny, bo w lutym przepadl przy Jastrzebiach na rzecz Kessela. 'Przewoznik, sam nauczyl sie pisac kwity, zeby go nie oszukiwano'. ⚠ Nigdy nie dowodzil dwudziestoma - ostrzezenie Hendry'ego z 300-02-25 o calej tej puli. Od dzis dobiera ludzi sam (zasada 42); meldunek co 7 dni, takze 'stoi'."
+  },
+  {
+   "data": "300-03-27",
+   "co": "PIERWSZY MELDUNEK HARLONA Z GORACEGO PORTU - co siedem dni, takze gdy brzmi 'stoi' (zasada 41). Zakres: ludzie dobrani imiennie · co obejrzal Vard Kilof przy zwiadzie kamienia · czy brzeg Zatoki Ognistej ma kamien budowlany · baszta z kamienia czy z ziemi i drewna na kamiennej podwalinie.",
+   "kto": "HARLON Z BRODU -> SYMON",
+   "kanal": "kruk Fosa-Winterfell (2 dni)",
+   "wraca": "300-04-05",
+   "zamyka": "meldunek siedmiodniowy, w tej samej formie co kazdy nastepny",
    "status": "otwarte - NOWE 300-03-27"
   }
  ]

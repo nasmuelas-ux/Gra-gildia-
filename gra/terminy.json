@@ -504,7 +504,7 @@
    "co": "LADY CATELYN W RIVERRUN. Wyjechala z Winterfell 299-10-05; cel od poczatku: RIVERRUN, negocjowac w imieniu Polnocy. OKNO PRZEJAZDU PRZEZ FOSE (02-25..03-07) SIE ZAMKNELO - nie przejezdza, siedzi u brata. JEJ ROLA, nietknieta od 299-09-19: ONA OTWIERA DRZWI jako TULLY, w domu swojego ojca, do swojego brata. Korona przez nie wchodzi - ona nie podpisuje, nie ustepuje, nie negocjuje za Polnoc. LIST SYMONA do rak wlasnych (napisany 300-02-16, wlasna reka, BEZ pieczeci Namiestnika) idzie PRZEZ LUCANA od 300-02-27 - a Lucan siedzi w Dorzeczu, wiec kanal jest wlasciwy. KARTKA U WARRYNA NA FOSIE ZOSTAJE - na wypadek, gdyby wracala tedy.",
    "kto": "CATELYN w Riverrun / LUCAN doreczenie",
    "zamyka": "odpowiedz od niej ALBO ruch Edmure'a przy traktacie (druga ratyfikacja, koniec VI/300)",
-   "status": "otwarte - POPRAWIONE wskazaniem gracza 300-03-03: ona siedzi w Riverrun ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka.",
+   "status": "PRZYSZLO 300-03-27 W WINTERFELL, RZUT 99 PRZY PROGU 55 - CZYSTO. Pisze przez Lucana: DRUGA RATYFIKACJA UTRZYMANA, reke Edmure'a bierze na siebie przed koncem VI/300; plus odczyt dworu Riverrun. Nie oddaje ludzi ani zboza i nie rusza wlasnej sprawy (corki, Krolobojca).",
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "300-03-20"
   },
@@ -752,7 +752,7 @@
    "kanal": "kruk Fosa-Krolewska Przystan",
    "wraca": "300-03-22",
    "zamyka": "odpowiedz dworu ALBO milczenie - a milczenie tez rozstrzyga cene Harriona przed 300-04-01, gdy zapada zaleglosc Karholdu",
-   "status": "otwarte ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
+   "status": "PRZYSZLO 300-03-27, RZUT 59 PRZY PROGU 70 - PONIZEJ. TYLKO POKWITOWANIE KANCELARII DWORU: dokument przyjeto, podpis Cerwyna jako Justycjariusza przyjeto jako akt sadowy - i nic wiecej. Bez imion, bez warunkow. ⚠ MILCZENIE ROZSTRZYGA: cena Harriona nieznana przed 300-04-01, gdy zapada zaleglosc Karholdu 148/160."
   },
   {
    "data": "300-03-05",
@@ -1870,7 +1870,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-20",
    "zamyka": "osobna linia w ksiedze Fosy HQ: co Dom kupil od lenna, ile, po jakiej cenie i wobec jakiej ceny ogloszonej",
-   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
+   "status": "ZAMKNIETE 300-03-27 - osobna linia w ksiedze Fosy HQ zalozona. Zamknieciem byla RUBRYKA, nie liczba; pierwszy odczyt przy bilansie 300-04-01."
   },
   {
    "data": "300-03-30",
@@ -1915,7 +1915,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "ile lenno wzielo od Domu w monecie i w towarze za ostatni kwartal - jedna liczba",
-   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
+   "status": "ZAMKNIETE 300-03-27 - PIERWSZY POMIAR W OGOLE. Gerrik i Tam: za ostatni kwartal lenno wzielo od Domu rzedu 55-75 smokow, wiecej w rozliczeniu niz w monecie."
   },
   {
    "data": "300-03-11",
@@ -1969,7 +1969,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "karta standardow i karta Mistrza Handlu jednym aktem; podpis Korony - Rejestrator, w zastepstwie kancelaria z data",
-   "status": "UZGODNIONE 300-03-14 - w pisaniu u Garricka"
+   "status": "ZAMKNIETE 300-03-27 - Garrick dowiozl w czystopisie do Winterfell przed Rada, co do dnia."
   },
   {
    "data": "300-03-12",
@@ -2105,7 +2105,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "karta wreczona publicznie razem z karta standardow",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-27 - Garrick dowiozl w czystopisie do Winterfell przed Rada, co do dnia."
   },
   {
    "data": "300-03-12",
@@ -2577,7 +2577,7 @@
    "kanal": "jezdziec Fosa-Dustinport",
    "wraca": "300-03-22",
    "zamyka": "trzydziestu wpisanych, zapotrzebowanie skorygowane",
-   "status": "otwarte ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
+   "status": "ZAMKNIETE 300-03-27 - trzydziestu wpisanych, zapotrzebowanie skorygowane (Donnel + Bryen)."
   },
   {
    "data": "300-03-20",
@@ -2586,7 +2586,7 @@
    "kanal": "jezdziec Bialy Port-Fosa",
    "wraca": "300-03-20",
    "zamyka": "rubryka pochodzenia wpisana we wzor listu przewozowego i w ksiege skladu",
-   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
+   "status": "ZAMKNIETE 300-03-27 - rubryka wpisana we wzor listu przewozowego i w ksiege skladu."
   },
   {
    "data": "kiedy budowa przestanie zjadac cala produkcje",
@@ -2676,7 +2676,7 @@
    "kanal": "kruk Bialy Port-Fosa, potem trakt Fosa-Winterfell",
    "wraca": "300-03-24",
    "zamyka": "karta w Winterfell, w czystopisie, przed Rada",
-   "status": "otwarte - NOWE ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
+   "status": "ZAMKNIETE 300-03-27 - Garrick dowiozl w czystopisie do Winterfell przed Rada, co do dnia."
   },
   {
    "data": "300-03-17 (u niego) / odpowiedz ~300-03-21",
@@ -2838,7 +2838,7 @@
    "kanal": "trakt Bialy Port-Fosa",
    "wraca": "300-03-24",
    "zamyka": "ogloszone na slupie w Cailin i wykonane pierwszy raz",
-   "status": "otwarte - NOWE ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
+   "status": "OGLOSZONE 300-03-27 - Elwyn dojechal, nadanie na slupie w Cailin. Pierwsze wykonanie czeka na pierwsza potrzebe."
   },
   {
    "data": "300-03-16",
@@ -2857,7 +2857,7 @@
    "kanal": "kruk Bialy Port-Fosa (tam 2, wraca lacznie 4)",
    "wraca": "~300-03-23",
    "zamyka": "liczba korcy z podzialem starzy/nowi + stan lawy przysieznej + odmowa albo milczenie, nazwane wprost",
-   "status": "otwarte ⚠ GDZIE DOJDZIE ODPOWIEDZ, ZALEZY OD ROZSTRZYGNIECIA PYTANIA GARRICKA O STALY ADRES (Symon wyjezdza 300-03-19) ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
+   "status": "ZAMKNIETE 300-03-27 - korce policzone z podzialem starzy/nowi, lawa przysiezna stanela (Warryn bezstronnie, Gerrik liczyl, pisarz grodzki spisal)."
   },
   {
    "data": "300-03-16",
@@ -2949,7 +2949,7 @@
    "kanal": "kruk Bialy Port-Fosa (2 dni) albo spotkanie",
    "wraca": "~300-03-21",
    "zamyka": "tresc tego, co przyszlo zajetym kanalem - podana Symonowi bez papieru",
-   "status": "otwarte ### 300-03-25: DOJRZALO I CZEKA - adresat byl w siodle, kruk nie znajdzie jadacego. Lezy w Winterfell albo idzie bez pana (zasady 7, 11, 34). Nie zaleglosc."
+   "status": "NIE PRZYSZLO 300-03-27 I WIADOMO DLACZEGO (zasada 34): ma byc podane USTAMI, nie papierem, a Willa jest na Fosie. Czeka na spotkanie ALBO na to, by pan zwolnil ja z warunku formy."
   },
   {
    "data": "300-03-17",

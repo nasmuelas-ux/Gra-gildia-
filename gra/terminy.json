@@ -1025,7 +1025,7 @@
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "300-03-13",
    "zamyka": "korce, cena, termin dostawy - albo uczciwe nie ma",
-   "status": "ZAMKNIETE 300-03-27, RZUT 65 PRZY PROGU 60 - SUKCES Z KOSZTEM. ZIARNO JEST: drozej niz cena ogloszona, rozsypane u wielu drobnych (zbieranie po przystaniach Czerwonych Widel = czas i rece Lucana), platnosc przy odbiorze przyjeta bez sporu i to ona otwiera drzwi. ⚠ ODPOWIEDZ BYLA ZALEGLA OD 300-03-13 Z WINY PROWADZACEGO (status 'WYSLANE' nie lapal sie w filtr przeterminowanych) - zasada 39a: liczy sie tak, jakby przyszla w terminie, bez kary w dniach. Dorzecze jest zrodlem DRUGIM: podstawa siewu rozstrzygnieta 300-03-13 - port Wymana z rubryka stanu."
+   "status": "ZAMKNIETE 300-03-27 - KUPUJEMY. Po korekcie progu (VOID +20 za 'spalony pas' - wojna skonczona od ~roku, Gora oddany Dorne 299-04-20): prog 50, wynik 65 = CZYSTY SUKCES. Ziarno po cenie ogloszonej, hurtem, platnosc przy odbiorze. ⚠ I TO JEST OSTATNI TAKI ZAKUP: od 300-03-27 doktryna pana znosi drobny skup w Dorzeczu."
   },
   {
    "data": "300-03-04",
@@ -3120,6 +3120,17 @@
    "wraca": "300-03-29 (przed Wielka Rada 300-03-30)",
    "zamyka": "gospodarz wysluchany przy trzech wlascicielach - i pozycja NIE wchodzi na porzadek Wielkiej Rady",
    "status": "otwarte - NOWE 300-03-25"
+  }
+ ],
+ "_dopiski_300_03_27": [
+  {
+   "data": "300-03-27",
+   "co": "NEGOCJATOR EDMURE'A DO WINTERFELL - PROSBA PRZEZ CATELYN. List gracza 300-03-27: niech otworzy kanal z bratem i niech Edmure przysle negocjatora po umowy handlowe albo prosty deal. Polnoc umawia sie z Dorzeczem JAKO PANSTWO, koniec drobnych zakupow. ⚠ MIESCI SIE W WARUNKU CATELYN Z 299-09-19 - otwiera drzwi, nie negocjuje za Polnoc. ⚠ EDMURE MA MANDAT OD SWOICH LORDOW albo po drugiej ratyfikacji (koniec VI/300) - to jest realna przeszkoda, nie zla wola. RZUT nalezy sie JEMU, nie jej.",
+   "kto": "SYMON -> CATELYN -> EDMURE TULLY",
+   "kanal": "przez Lucana (Dorzecze) - 10 dni tam, 21 lacznie",
+   "wraca": "300-04-17",
+   "zamyka": "negocjator Edmure'a w Winterfell z mandatem - albo jawne 'nie moze i dlaczego'",
+   "status": "otwarte - NOWE 300-03-27"
   }
  ]
 }

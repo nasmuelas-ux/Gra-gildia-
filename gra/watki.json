@@ -6101,7 +6101,7 @@
   {
    "id": "projekt_cailin",
    "status": "otwarty",
-   "_dziennik_nota": 113,
+   "_dziennik_nota": 114,
    "filar": "PROJEKT CAILIN",
    "stan_watku": "ZYWY",
    "wchlonelo": [
@@ -6471,6 +6471,11 @@
    "id": "ziarno_siewne_300",
    "status": "otwarty",
    "_dziennik_nota": 2
+  },
+  {
+   "id": "goracy_port",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

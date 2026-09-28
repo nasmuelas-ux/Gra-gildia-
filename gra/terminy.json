@@ -522,7 +522,7 @@
    "co": "NESTA - KADRY Z BRAAVOS (pozycja 2 kolejki). ⚠ DATA POPRAWIONA 300-03-03: bylo V/300, bo policzylem czas CALEGO POSELSTWA zamiast czasu LISTU. Wyslany 300-02-07; Nesta juz tam siedzi, wiec sam obieg to okolo 48 dni, plus czas na znalezienie ludzi.",
    "kto": "NESTA",
    "zamyka": "ludzie albo nazwiska",
-   "status": "otwarte",
+   "status": "PRZYSZLO 300-03-28, RZUT 58 PRZY PROGU 55 - SUKCES Z KOSZTEM. Ludzie sa, ale mniej niz proszono i na ICH warunkach: umowa na pismie, termin powrotu, kara za zerwanie po OBU stronach. Nesta przysyla NAZWISKA I WARUNKI, nie ludzi w drodze - kazdy podpisuje osobno albo nie jedzie.",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-03-25"
   },
@@ -824,9 +824,9 @@
    "co": "ETAP I SPICHLERZA POLNOCY - PIERWSZY KROK W DOMENIE KROLA, GDZIE NIKT NICZEGO NIE MUSI PRZEGLOSOWAC: spichrze Krola, Zimowe Miasto, komory, Kamienny Brod - JEDNA KSIEGA, CZTERY KOLUMNY: ziarno siewne · zywnosc biezaca · zapas na rok nastepny · LUDZIE I WOJSKO OSOBNO. 'Zadaniem pierwszego roku nie jest miec te liczby wielkie. Zadaniem pierwszego roku jest JE MIEC.' Krol policzyl dotad JEDNA DZIESIATA spichlerzy krolestwa.",
    "kto": "GAWEN + OSWYN",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-03-20",
+   "wraca": "300-04-11",
    "zamyka": "jedna ksiega, cztery sklady, jedna miara",
-   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
+   "status": "MELDUNEK PRZYSZEDL 300-03-27 - ROBOTA STOI NA KAMIENNYM BRODZIE: miara byla stara, trzeba przeliczyc caly sklad. Przyczyna nazwana (zasada 7). Nastepny meldunek 300-04-11."
   },
   {
    "data": "300-03-09",
@@ -996,9 +996,9 @@
    "co": "PIERWSZY TRANSPORT KAMIENIA JEST ZARAZEM POMIAREM TRASY. Droga: GORACY PORT -> Fever -> CAILIN -> na wschod -> gorny Bialy Noz -> PRZYSTAN WILKA. ⚡ TO JEST DOKLADNIE LINIA PRZEWLOKI - a przewloka do dzis byla LICZBA NA PAPIERZE. Pierwszy realny ladunek daje to, czego nie da zaden pomiar sznurem: ILE TO KOSZTUJE NAPRAWDE, wozami, przed budowa. ### I DAJE ARGUMENT NA BIALY PORT ~300-03-13: Wyman ma podpisac Ujscie. Liczba z FAKTYCZNEGO przewozu wlasnego kamienia jest mocniejsza niz obietnica - i nie jest prosba, tylko rachunkiem. MIERZY: dni, wozy, woly, przeladunki, straty. Prowadzi KONIUSZY (Torgil Woznica, od 300-03-03) z pisarzem.",
    "kto": "TORGIL WOZNICA + pisarz",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-20",
+   "wraca": "300-04-11",
    "zamyka": "karta przewozu: dni, wozy, przeladunki, koszt na sazen",
-   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
+   "status": "IDZIE BEZ PANA (zasady 7 i 42) - karta przewozu wchodzi do meldunku zbiorczego. Nastepny meldunek 300-04-11."
   },
   {
    "data": "300-03-31 - ZAPADA W TYM MIESIACU",
@@ -1753,7 +1753,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "zestawienie trzech ksiag: ile pustych rubryk da sie zamknac",
-   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
+   "status": "ZAMKNIETE 300-03-27 - trzy ksiegi zestawione (Garrick + Mella + Garth); czesc pustych rubryk zamknieta, reszta zostaje pusta zamiast domyslu."
   },
   {
    "data": "300-03-11",
@@ -2495,7 +2495,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-20",
    "zamyka": "ile przystani stoi, ile jest w zalazku, ile jest tylko na papierze",
-   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
+   "status": "ZAMKNIETE 300-03-27 - policzone uczciwie, wynik chudszy od papieru. Idzie na Rade."
   },
   {
    "data": "300-03-12",

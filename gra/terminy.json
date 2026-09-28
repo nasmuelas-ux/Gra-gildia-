@@ -289,7 +289,7 @@
    "co": "PRZYSTAN WILKA - status budowy; pyta CERWYN jako wspolwlasciciel cwiartki; podanie nazwiska budowniczego jest czescia odpowiedzi",
    "kto": "CERWYN",
    "zamyka": "meldunek z nazwiskiem",
-   "status": "ZAMKNIETE 300-03-03 - BORS przyslal, 13 dni po terminie; nazwisko podane, Cerwyn ma odpowiedz",
+   "status": "ZAMKNIETE 300-03-29 - rada trzech wlascicieli: nadanie Borsa polozone przy wszystkich trzech, tak jak zadal Cerwyn. Stoi. Cerwyn: forma dopelniona, wiecej nie pyta.",
    "kanal": "jezdziec Fosa-Przystan Wilka",
    "wraca": "300-02-20"
   },
@@ -2117,7 +2117,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "gospodarz Przystani Wilka wskazany - i przez kogo z trzech",
-   "status": "ROZSTRZYGNIETE 300-03-14 - czeka zgoda Cerwyna na jego cwiartke"
+   "status": "ZAMKNIETE 300-03-29 - rada trzech wlascicieli: nadanie Borsa polozone przy wszystkich trzech, tak jak zadal Cerwyn. Stoi. Cerwyn: forma dopelniona, wiecej nie pyta."
   },
   {
    "data": "300-03-12",
@@ -2408,7 +2408,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "gospodarz Przystani Wilka wskazany i przyjety przez trzech wlascicieli",
-   "status": "ROZSTRZYGNIETE 300-03-14 - czeka zgoda Cerwyna na jego cwiartke"
+   "status": "ZAMKNIETE 300-03-29 - rada trzech wlascicieli: nadanie Borsa polozone przy wszystkich trzech, tak jak zadal Cerwyn. Stoi. Cerwyn: forma dopelniona, wiecej nie pyta."
   },
   {
    "data": "300-03-13",
@@ -2670,7 +2670,7 @@
    "kanal": "Wielka Rada 300-03-30",
    "wraca": "300-03-31",
    "zamyka": "Rejestrator z nazwiskiem albo jawne przedluzenie zastepstwa",
-   "status": "otwarte - 300-03-29 SLOWO KROLA: na Radzie Krol sam oglasza JAWNE PRZEDLUZENIE zastepstwa kancelarii z data waznosci 300-04-07. Nazwisko Rejestratora pada wieczorem 300-03-30 (razem z Uchem Korony - jedno krzeslo). WYMAN USLYSZY JE, ZANIM WYJEDZIE Z WINTERFELL. Do przekazania Wymanowi na radzie trzech."
+   "status": "ZAMKNIETE 300-03-29 - Wyman uslyszal na radzie trzech: przedluzenie jawne na sali do 300-04-07, nazwisko 300-03-30 wieczorem, przed jego wyjazdem. Termin dotrzymany."
   },
   {
    "data": "300-03-24",
@@ -2688,7 +2688,7 @@
    "kanal": "kruk Bialy Port-Zamek Cerwyna",
    "wraca": "~300-03-21",
    "zamyka": "zgoda Cerwyna albo jego wlasny kandydat - przed Rada, nie na niej",
-   "status": "WYSLANE 300-03-18 WIECZOREM - ALE NIE W TEJ FORMIE, W KTOREJ BYLO ZAPISANE. ROZSTRZYGNIECIE GRACZA: nie prosba o zgode, lecz OBWIESZCZENIE NADANIA prerogatywa Namiestnika. List idzie krukiem z Bialego Portu, siada u Cerwyna ~300-03-21 - prywatnie i PRZED Rada, tak jak bylo zamierzone. Zmienila sie gramatyka, nie kanal i nie termin. Pozycja zamknieta; reakcja Cerwyna to osobny termin ponizej."
+   "status": "ZAMKNIETE 300-03-29 - rada trzech wlascicieli: nadanie Borsa polozone przy wszystkich trzech, tak jak zadal Cerwyn. Stoi. Cerwyn: forma dopelniona, wiecej nie pyta."
   },
   {
    "data": "300-03-14",

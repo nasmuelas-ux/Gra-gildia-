@@ -6486,6 +6486,11 @@
    "id": "port_wschodni",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "rejestry_lockeow_pochodzenie",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

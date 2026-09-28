@@ -182,7 +182,8 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "_propozycja_300_03_29": "PROPOZYCJA PANA 300-03-29: osadzic 22 tysiace NA CYPLU MORSKIEGO SMOKA zamiast na Darze. Cypel jest domena Korony (ustalenie 300-03-28), wiec nadanie wydaje KROL i nie potrzeba do niego ani Lorda Dowodcy, ani glosu lordow. Punkt 0 zostaje w kolumnie TO OGLOSZONO. Karty zaniesione do czternastu kwater nie mowia, GDZIE osadzic - nie trzeba ich poprawiac. Czeka na slowo Krola.",
-   "_nadanie_krola_300_03_29": "KROL DAL SLOWO 300-03-29 RANO: 22 tysiace na CYPEL MORSKIEGO SMOKA, nadanie w domenie Korony. Bez rzutu (Krol - partner najglebszy, a przeszkoda byla tylko ustrojowa i zniknela). PODZIAL GLOSOW W PUNKCIE 0: liczby mowi Symon; NADANIE WYPOWIADA KROL SAM, swoimi ustami - tak jak imie Starkportu. Dar i Lord Dowodca wypadaja z punktu 0. Droga przez Mur albo przez Zatoke Lodu - sprawa po Radzie, ogloszenie jej nie rozstrzyga."
+   "_nadanie_krola_300_03_29": "KROL DAL SLOWO 300-03-29 RANO: 22 tysiace na CYPEL MORSKIEGO SMOKA, nadanie w domenie Korony. Bez rzutu (Krol - partner najglebszy, a przeszkoda byla tylko ustrojowa i zniknela). PODZIAL GLOSOW W PUNKCIE 0: liczby mowi Symon; NADANIE WYPOWIADA KROL SAM, swoimi ustami - tak jak imie Starkportu. Dar i Lord Dowodca wypadaja z punktu 0. Droga przez Mur albo przez Zatoke Lodu - sprawa po Radzie, ogloszenie jej nie rozstrzyga.",
+   "_punkt_0_300_03_30": "WYKONANY. Rzut 37/40: nadanie Cypla oglosil Krol i stoi; aklamacji nie bylo - Umber nazwal Innych bajka. Glosowania II-IV przed sala."
   },
   {
    "data": "300-04-01",
@@ -874,7 +875,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "liczba wypowiedziana przy punkcie 0",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-30 - liczba wypowiedziana przy punkcie 0. Nikt jej nie podwazyl."
   },
   {
    "data": "300-03-07",
@@ -1250,7 +1251,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "fakt wypowiedziany na Radzie: obcy krol idzie na nasz Mur i nie znamy dnia",
-   "status": "otwarte"
+   "status": "otwarte - przy punkcie 0 nie padla (Symon mowil o Innych, Strazy, liczbach i Cyplu). Mozna ja powiedziec przy nastepnej okazji."
   },
   {
    "data": "300-03-13",

@@ -3663,7 +3663,7 @@
    "id": "starkport_zachodni_port_sea_dragon_point_299_06",
    "tytul": "STARKPORT - zachodni port i miasto Polnocy na Sea Dragon Point (2. port, 1. na zachodzie) + akademia morska",
    "status": "RUSZONY_299-08-11_projekt_pokoleniowy_przyspieszany_przyczolek+trakt",
-   "_dziennik_nota": 9
+   "_dziennik_nota": 10
   },
   {
    "id": "dyplomacja_zewnetrzna_tywin_olenna_riverrun_299_06",
@@ -5391,7 +5391,7 @@
    "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady.",
    "filar": "ZIEMIE BEZ PANA - Kamienisty Brzeg i Cypel",
    "stan_watku": "ZYWY",
-   "_dziennik_nota": 7
+   "_dziennik_nota": 8
   },
   {
    "id": "wylaczenie_namiestnika_z_regencji_299_09",
@@ -6455,7 +6455,7 @@
   {
    "id": "greywater_krannogowie",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   },
   {
    "id": "traktat_dorzecze",
@@ -6475,7 +6475,7 @@
   {
    "id": "goracy_port",
    "status": "otwarty",
-   "_dziennik_nota": 1
+   "_dziennik_nota": 2
   }
  ]
 }

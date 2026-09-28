@@ -189,7 +189,7 @@
    "co": "ZALEGLOSC KARHOLDU 148/160 - dwanascie",
    "kto": "Korona",
    "zamyka": "zaplata albo zaleglosc",
-   "status": "otwarte",
+   "status": "ROZSTRZYGNIETE 300-03-29: GAWEN PRZYJMUJE ZALEGLOSC W ZIARNIE - decyzja skarbowa na istniejacym dlugu, nie nowe prawo. Ilosc liczy Gawen po cenie ogloszonej. Karhold przestaje byc dluznikiem z chwila przyjecia ziarna; na kartce stoi jako sprawa zalatwiona.",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01"
   },
@@ -3126,7 +3126,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "pytanie zadane przy swiadkach i odpowiedz Karstarka (albo odmowa) zapisana",
-   "status": "otwarte"
+   "status": "otwarte - ROZSTRZYGNIECIE PANA 300-03-29: PYTANIE PADA NA SALI, przy czternastu domach. Kartka dwukolumnowa idzie do niego przed sala, jak zaprojektowano 300-02-28 - obie pozycje po stronie Korony sa juz prawdziwe."
   }
  ],
  "_dopiski_300_03_18": [

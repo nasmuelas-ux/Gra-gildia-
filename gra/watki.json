@@ -4245,7 +4245,7 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 29,
+   "_dziennik_nota": 30,
    "filar": "RAMSAY - ucho Willi",
    "stan_watku": "ZYWY"
   },
@@ -4253,7 +4253,7 @@
    "id": "karstark_linia_pekniecia_wschod_299_08",
    "tytul": "Rickard Karstark - linia pekniecia (osiadla gorycz o wolnego Krolobojce, podatna gleba przy Dreadfort)",
    "status": "ZIDENTYFIKOWANA_299-08-11_karmic_szacunkiem+celem",
-   "_dziennik_nota": 30,
+   "_dziennik_nota": 31,
    "stan_watku": "ZYWY",
    "filar": "RICKARD KARSTARK",
    "wchlonelo": [
@@ -5716,7 +5716,7 @@
   {
    "id": "danina_karholdu_299_10",
    "status": "otwarty",
-   "_dziennik_nota": 20,
+   "_dziennik_nota": 21,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel D - Danina Karholdu pobrana, dzien zamkniety."

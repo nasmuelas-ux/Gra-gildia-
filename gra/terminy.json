@@ -1942,7 +1942,7 @@
    "kanal": "kruk z drogi do Fosy",
    "wraca": "300-03-20",
    "zamyka": "moneta albo rozliczenie - jedno slowo",
-   "status": "otwarte ### 300-03-20 ROZSTRZYGNIECIE (zasada 40): DOJRZALO W TERMINIE - I CZEKA, BO ADRESAT JEDZIE. Kanal tej pozycji nie dosiega jadacego (kanaly.json: 'kruk nie znajdzie jadacego; odpowiedz czeka tam, dokad sie jedzie'). Adres Symona od 300-03-19 to WINTERFELL, a on stanie tam ~300-03-27. TO NIE JEST ZALEGLOSC I NIE JEST CISZA: rzecz sie stala albo idzie, tylko lezy. Spadnie kupa na postoju (zasada 11) - w Winterfell albo, dla pozycji fosanskich, w meldunku zbiorczym Garricka."
+   "status": "ZAMKNIETE 300-03-27 - ROZLICZENIE W NATURZE. Rozstrzygniecie pana, jedno slowo."
   },
   {
    "data": "300-03-12",

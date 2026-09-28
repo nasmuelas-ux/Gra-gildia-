@@ -5391,7 +5391,7 @@
    "tytul": "Kamienisty Brzeg i Cypel Morskiego Smoka - biale plamy na mapie: bez pana, bez daniny, bez obrony, od strony Zelaznych Wysp. Do Rady.",
    "filar": "ZIEMIE BEZ PANA - Kamienisty Brzeg i Cypel",
    "stan_watku": "ZYWY",
-   "_dziennik_nota": 8
+   "_dziennik_nota": 9
   },
   {
    "id": "wylaczenie_namiestnika_z_regencji_299_09",
@@ -5979,7 +5979,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 79,
+   "_dziennik_nota": 80,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },

@@ -1314,7 +1314,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "zapowiedz wypowiedziana z warunkiem i z rokiem",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-30 - wypowiedziane i przyjete w Chlebie (11:2:1)."
   },
   {
    "data": "300-04-01",
@@ -1359,7 +1359,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "cztery progi wypowiedziane przy wiazce III",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-30 - wypowiedziane i przyjete w Chlebie (11:2:1)."
   },
   {
    "data": "300-03-04",
@@ -3128,6 +3128,15 @@
    "wraca": "300-03-30",
    "zamyka": "pytanie zadane przy swiadkach i odpowiedz Karstarka (albo odmowa) zapisana",
    "status": "otwarte - KARTKA DORECZONA 300-03-30 rano przed sala. Karstark: 'Pamietam, co obiecalem. List mam przy sobie.' Pytanie pada na sali."
+  },
+  {
+   "data": "300-03-30",
+   "co": "REWIZJA - OSOBNE GLOSOWANIE NA DRUGI DZIEN RADY. Wydzielona z wiazki III na wniosek lorda Ryswella po rzucie 53/55. Urzad, ktory jezdzi i sprawdza ('nie mamy zadnych organow scigania' - diagnoza z 300-02-05; Krol: 'idzie na Rade niezaleznie od Boltona').",
+   "kto": "SYMON -> RADA, dzien drugi",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-31",
+   "zamyka": "glosowanie nad rewizja",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

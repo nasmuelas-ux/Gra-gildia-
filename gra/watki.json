@@ -6466,6 +6466,11 @@
    "id": "wymiana_list_jencow",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "ziarno_siewne_300",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

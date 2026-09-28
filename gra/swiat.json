@@ -5,7 +5,7 @@
   "dzien": 30,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "wieczor",
  "sezon": "zima (300)",
  "pogoda": "RZUT 18 (300-03-30) - zly dzien: niski pulap, mokry snieg z deszczem od rana, wiatr porywisty z zachodu. Trakty grzaskie, kruki leca z opoznieniem. Pod dachem nic nie przeszkadza - Rada obraduje w sali.",
  "dzien_tygodnia_nr": 1,
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 243,
+ "_dziennik_nota": 244,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

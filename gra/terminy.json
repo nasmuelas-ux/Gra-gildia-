@@ -3087,6 +3087,15 @@
    "zamyka": "kapital 800 oddany albo obligacja odnowiona za zgoda obu stron",
    "status": "otwarte",
    "co": "⚑ WYKUP KAPITALU OBLIGACJI - 315-04-01, 800 SMOKOW. RAZEM ODDANE OD 800: 1820 (800 kapitalu + 1020 kuponu). ⚠ TO JEST JEDYNY ROK, W KTORYM TEN PAPIER NAPRAWDE BOLI: Kasa 2 w 315 to ok. 3472 rocznie (sufit modelu), wiec wykup to OKOLO JEDNEJ CZWARTEJ ROCZNEGO DOCHODU LENNA. Jedyny termin, ktorego nie wolno przegapic przez pietnascie lat. Naliczony w silniku: python3 gra/kasa.py rok 315-12-30."
+  },
+  {
+   "data": "300-03-28",
+   "co": "LIST MAESTERA LUWINA DO MAESTERA AEMONA - lancuchem maesterskim, maester do maestera, NIE Krol do Strazy. Rozkaz pana 300-03-28. PYTANIE O LISTE, NIE O WOLE: kto wedle obyczaju Strazy moze zwolac wybor Lorda Dowodcy, ilu ich jest i czym kazdy z nich jest dzis zajety. Ulozone wedle zastrzezenia samego Luwina: list o nic nie prosi w imieniu Korony. Kolumny z ziarnem Luwin w liscie NIE wymienia - jedzie osobno i melduje sie sama.",
+   "kto": "LUWIN -> AEMON (Czarny Zamek)",
+   "kanal": "kruk Winterfell-Czarny Zamek (lancuch maesterski)",
+   "wraca": "300-04-04",
+   "zamyka": "odpowiedz Aemona w wiezy Luwina - albo cisza odnotowana przy sprawdzeniu",
+   "status": "otwarte - ptak idzie o swicie 300-03-29. Odpowiedz NIE zdazy na Wielka Rade 300-03-30. Obok biegnie osobny list Symona do Aemona z 300-03-07 (kanal Osrica, wraca 300-04-06) - dwa pisma, dwie sprawy, zadne nie powoluje sie na drugie."
   }
  ],
  "_dopiski_300_03_18": [

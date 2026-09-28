@@ -121,6 +121,12 @@
    "tam": 3,
    "wraca_lacznie": 7,
    "zrodlo": "zamek Cerwyna lezy miedzy Winterfell a Bialym Nozem; ustalone 300-03-14"
+  },
+  "kruk Winterfell-Czarny Zamek (lancuch maesterski)": {
+   "tam": 3,
+   "wraca_lacznie": 7,
+   "zrodlo": "maester do maestera, prosto z wiezy Luwina; otwarty 300-03-28. Inny kanal niz 'przez Osrica (Mur)' - tamten idzie okrezna droga i nosi pisma Symona. Odpowiedz wraca w tempie Aemona, nie ptaka.",
+   "sprawdzaj_co": 7
   }
  }
 }

@@ -181,7 +181,8 @@
    "status": "otwarte",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
-   "_propozycja_300_03_29": "PROPOZYCJA PANA 300-03-29: osadzic 22 tysiace NA CYPLU MORSKIEGO SMOKA zamiast na Darze. Cypel jest domena Korony (ustalenie 300-03-28), wiec nadanie wydaje KROL i nie potrzeba do niego ani Lorda Dowodcy, ani glosu lordow. Punkt 0 zostaje w kolumnie TO OGLOSZONO. Karty zaniesione do czternastu kwater nie mowia, GDZIE osadzic - nie trzeba ich poprawiac. Czeka na slowo Krola."
+   "_propozycja_300_03_29": "PROPOZYCJA PANA 300-03-29: osadzic 22 tysiace NA CYPLU MORSKIEGO SMOKA zamiast na Darze. Cypel jest domena Korony (ustalenie 300-03-28), wiec nadanie wydaje KROL i nie potrzeba do niego ani Lorda Dowodcy, ani glosu lordow. Punkt 0 zostaje w kolumnie TO OGLOSZONO. Karty zaniesione do czternastu kwater nie mowia, GDZIE osadzic - nie trzeba ich poprawiac. Czeka na slowo Krola.",
+   "_nadanie_krola_300_03_29": "KROL DAL SLOWO 300-03-29 RANO: 22 tysiace na CYPEL MORSKIEGO SMOKA, nadanie w domenie Korony. Bez rzutu (Krol - partner najglebszy, a przeszkoda byla tylko ustrojowa i zniknela). PODZIAL GLOSOW W PUNKCIE 0: liczby mowi Symon; NADANIE WYPOWIADA KROL SAM, swoimi ustami - tak jak imie Starkportu. Dar i Lord Dowodca wypadaja z punktu 0. Droga przez Mur albo przez Zatoke Lodu - sprawa po Radzie, ogloszenie jej nie rozstrzyga."
   },
   {
    "data": "300-04-01",
@@ -3107,6 +3108,15 @@
    "zamyka": "pierwsza karta na stole",
    "status": "otwarte - pierwsza karta pisana 300-04-15, po Radzie.",
    "sprawdzaj_co": 30
+  },
+  {
+   "data": "300-03-29",
+   "co": "KROL MOWI GLOVEROWI I MORMONTOM O CYPLU PRZED SALA - jego wlasny warunek z 299-06-12 ('to ich brzeg - wciagnac ich, nie dekret z Winterfell'). Robb robi to sam, dzis, zanim uslyszy czternascie domow.",
+   "kto": "ROBB -> GLOVER, MORMONT",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-03-30",
+   "zamyka": "oba domy wiedza przed punktem 0",
+   "status": "otwarte - idzie samo (zasada 7), Krol robi to osobiscie."
   }
  ],
  "_dopiski_300_03_18": [

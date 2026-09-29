@@ -3664,6 +3664,15 @@
    "wraca": "300-05-05",
    "zamyka": "pasma przychodu obu placowek w bilansie, z ksiegi",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-10",
+   "co": "SEN BRANA - proba pojscia za wolaniem spod ziemi (ciemno, kamien). Podsuniete przez Symona; Bran: 'dzis sprobuje nie uciekac'. Luwin NIE wie (prosba Brana).",
+   "kto": "BRAN",
+   "kanal": "rozmowa w Winterfell",
+   "wraca": "300-04-11",
+   "zamyka": "Bran mowi, czy sen przyszedl i co widzial (rzut przy rozmowie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

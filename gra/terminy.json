@@ -1883,7 +1883,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "Krol rozstrzyga, czyj to koszt",
-   "status": "ZAMKNIETE 300-03-30 - KROL ROZSTRZYGNAL: zold KORONNEGO garnizonu w Cailin przechodzi na Kase 3 od 300-04-01 (jego wlasny warunek z 03-11: 'z lenna do czasu uchwalenia daniny' - danina jest). WLASNY garnizon Fosy (22/mies) zostaje na lennie."
+   "status": "ZAMKNIETE 300-03-30 - na wskazanie pana: KORONNEGO GARNIZONU W CAILIN NIE MA I NIGDY NIE BYLO (ani ludzi, ani liczby) - obciazenie z 03-11 VOID bez osadu. Na Fosie stoi wlasna druzyna domu (~50, Hendry) + Jastrzebie; to jest garnizon Fosy, 22/mies, na lennie. Czy Korona ma postawic wlasna straz przy koronnym skladzie w Cailin - otwarte, decyzja pana."
   },
   {
    "data": "300-03-11",
@@ -3154,7 +3154,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "stawka miesieczna wpisana do ksiegi Kasy 3",
-   "status": "otwarte - idzie samo (zasada 7)"
+   "status": "VOID 300-03-30 - nie ma czego wpisywac: koronnego garnizonu w Cailin nigdy nie bylo (wskazanie pana)."
   }
  ],
  "_dopiski_300_03_18": [

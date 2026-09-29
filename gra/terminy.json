@@ -3565,6 +3565,15 @@
    "wraca": "300-04-21",
    "zamyka": "odpowiedz Theona na oba pytania",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "INWENTARZ NATURY KORONY - co Skarb ma w daninach w naturze: zboze, welna, skory, drewno (np. Maege 35 smokow w drewnie okretowym), robocizna; OSOBNO jadalne / niejadalne; data i miejsce skladu. Pod decyzje Krola o sprzedazy PO ZNIWACH (odmowa sprzedazy w zimie 300-04-06, rzut 17). Kwoty z ksiag Skarbu, nie z glowy.",
+   "kto": "GAWEN (Skarbnik, Kasa 3)",
+   "kanal": "wlasny czlowiek w Winterfell",
+   "wraca": "300-04-20",
+   "zamyka": "inwentarz na stole Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

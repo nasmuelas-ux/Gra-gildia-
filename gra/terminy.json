@@ -3844,6 +3844,15 @@
    "wraca": "300-04-20",
    "zamyka": "meldunek portu: ile wstrzymano po zmianie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-13",
+   "co": "PISMO SYMONA DO EDMURE'A - kto dzis trzyma Harrenhal (z imienia). Krok 1 do sprawy Gendry'ego (prosba Aryi: czy zyje i gdzie jest; bez wyciagania, bez jej imienia; oslona: Fosa szuka kowali).",
+   "kto": "SYMON -> EDMURE TULLY (Riverrun)",
+   "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-13)",
+   "wraca": "300-04-24",
+   "zamyka": "imie pana Harrenhal -> krok 2: pismo do niego o kowali",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

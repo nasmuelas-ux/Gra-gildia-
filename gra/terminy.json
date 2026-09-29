@@ -891,27 +891,27 @@
    "co": "KARTA I - BORS, PRZYSTAN WILKA. Osiem rubryk: ludzie imiennie i czyj kazdy · co stanelo w sazniach · co stoi i od ilu dni · kamien i wapno · drewno i zelazo · straty · CZYIM KOSZTEM (ktora cwiartka za co) · BASZTA OSOBNO. Pierwszego dnia miesiaca, takze pusta.",
    "kto": "BORS",
    "kanal": "kruk Fosa-Bialy Port",
-   "wraca": "300-04-01",
+   "wraca": "300-04-06",
    "zamyka": "karta na stole",
-   "status": "otwarte"
+   "status": "w drodze - pisana dzis na miejscu (zasada 7); kruk Bialy Port-Fosa, Garrick przesyla do Winterfell. Dzis kruki nie leca (pogoda 19)."
   },
   {
    "data": "300-04-01",
    "co": "KARTA II - DONNEL OBROK, DUSTINPORT. Osiem rubryk: ludzie imiennie i ilu odbitych bez domu · co stanelo i co stoi · kadluby · material · straty · co zjada przyczolek · KWITY, KTORE SIE NIE ZGADZAJA Z LADUNKIEM (rubryka pisana pod jego wlasna kompetencje) · czego brakuje, JEDNA rzecz.",
    "kto": "DONNEL OBROK",
    "kanal": "jezdziec Fosa-Dustinport",
-   "wraca": "300-04-01",
+   "wraca": "300-04-08",
    "zamyka": "karta na stole",
-   "status": "otwarte"
+   "status": "w drodze - pisana dzis w Dustinporcie (zasada 7); jezdziec Dustinport-Fosa, dalej krukiem do Winterfell."
   },
   {
    "data": "300-04-01",
    "co": "KARTA III - THEOMORE, GLEBOKORZEN. Osiem rubryk: ilu z dziesieciu uczniow zostalo IMIENNIE i podany powod odejscia · co spisano · CZEGO NIE UDALO SIE SPISAC I DLACZEGO · biblioteka · koszt miesiaca · gmach w Przystani Wilka · kogo wziac nastepnego · czego brakuje.",
    "kto": "THEOMORE",
    "kanal": "kruk Fosa-Bialy Port",
-   "wraca": "300-04-01",
+   "wraca": "300-04-06",
    "zamyka": "karta na stole",
-   "status": "otwarte"
+   "status": "w drodze - pisana dzis (zasada 7); kruk przez Fose, Garrick przesyla do Winterfell. Dzis kruki nie leca."
   },
   {
    "data": "300-03-07",
@@ -2812,9 +2812,9 @@
    "data": "300-04-01",
    "kto": "HAL / TAM (ksiega skladu)",
    "kanal": "kantor Bialy Port",
-   "wraca": "300-04-01",
+   "wraca": "300-04-30",
    "zamyka": "pierwszy miesiac bez zdarzenia jednorazowego zamkniety i policzony",
-   "status": "otwarte - NOWE",
+   "status": "w biegu - miesiac liczony; zamkniecie 300-04-30 (Hal/Tam).",
    "co": "⚑ KWIECIEN - PIERWSZY MIESIAC, KTORY COKOLWIEK ODLOZY. Marzec konczy sie przy zerze: wykup 340, przewloka 230-325 i od 300-03-15 zaplata lennu w monecie 40-90 miesiecznie. KWIECIEN NIE MA ZADNEGO ZDARZENIA JEDNORAZOWEGO, wiec caly wynik operacyjny (390-585) zostaje w skrzyni - MINUS Seagard, ktory od kwietnia kosztuje 18-30. ⚠ I TU ZBIEGAJA SIE TRZY RZECZY NARAZ, WSZYSTKIE CZEKAJACE NA TE SAMA MONETE: szmaty dla papierni · surowiec i kanal dla bursztynu · zakladanie Seagard. Wiosna jest pora, w ktorej ramiona potrzebuja kapitalu - a kwiecien jest pierwszym miesiacem, ktory go ma."
   },
   {
@@ -3069,9 +3069,9 @@
    "data": "300-03-18",
    "kto": "HAL + notariusz Domu na Fosie",
    "kanal": "kantor Bialy Port",
-   "wraca": "300-04-01",
+   "wraca": "300-04-08",
    "zamyka": "pierwszy egzemplarz sprzedany i wpisany do rejestru przeniesien",
-   "status": "otwarte",
+   "status": "w biegu od dzis - Hal i notariusz Domu na Fosie otwieraja sprzedaz (zasada 7). Pierwszy egzemplarz i wpis do rejestru przeniesien - w meldunku Hala.",
    "co": "EMISJA OBLIGACJI LENNA RUSZA - 300-04-01, +800 do Kasy 2. Warunki na kazdym egzemplarzu: IMIENNA · rejestr przeniesien u notariusza Domu na Fosie · zadne przeniesienie niewazne bez wpisu · PIERWOKUP LENNA po cenie nominalnej. Data nie z ostroznosci, tylko z wlasnego kalendarza: 340 weksli Domu zapada 300-03-30, a swojego papieru nie sprzedaje sie w miesiacu wykupu wlasnego. Wpisane do silnika (gra/ekonomia.json, zdarzenia) i do gra/KSIEGA_ZOBOWIAZAN.md."
   },
   {

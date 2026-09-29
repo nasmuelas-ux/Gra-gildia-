@@ -3610,6 +3610,15 @@
    "wraca": "300-04-20",
    "zamyka": "inwentarz na stole Krola",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-07",
+   "co": "LIST ARYI DO MELLI - zamkniety, nieczytany, do rak wlasnych przez Garricka. Odpowiedz, jesli Mella napisze.",
+   "kto": "ARYA -> MELLA (Fosa), przez Symona",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-04-11",
+   "zamyka": "list w rekach Melli; odpowiedz albo cisza",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

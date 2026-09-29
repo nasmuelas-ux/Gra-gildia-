@@ -3816,7 +3816,7 @@
    "kanal": "decyzja",
    "wraca": "300-04-14",
    "zamyka": "rozstrzygniecie pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-13: intencja prawa; odsprzedaz = sprzedaz; podejrzenie wystarczy; wpis kupca zawieszony (pismo Krola do Wymana)"
   },
   {
    "data": "300-04-13",
@@ -3834,6 +3834,15 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-04-20",
    "zamyka": "kamien mlynski wskazany z data",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-13",
+   "co": "CZESC V PO ZMIANIE - pierwszy meldunek portu Wymana po pismie Krola (odsprzedaz = sprzedaz; podejrzenie wystarczy).",
+   "kto": "WYMAN (komora portu)",
+   "kanal": "kruk Winterfell-Bialy Port (wylot 04-13)",
+   "wraca": "300-04-20",
+   "zamyka": "meldunek portu: ile wstrzymano po zmianie",
    "status": "otwarte"
   }
  ],

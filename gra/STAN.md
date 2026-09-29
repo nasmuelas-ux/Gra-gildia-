@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**47 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- POWIEDZIEC KROLOWI: Namiestnik uznal straz Karholdu na marchii za sluzbe Korony (koszt Kasy 3). · _kanal:_ wlasny czlowiek na Fosie
+**46 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -301,7 +298,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-01** — DWIE KARTKI ZE SPORAMI U REJESTRATORA (Tobin Szala) - zlozone na Radzie; rozstrzyga sad Justycjariusza po Radzie. Tresc do odczytania. · _kto:_ **TOBIN SZALA -> CERWYN** · _zamyka:_ tresc odczytana i wpisana na liste sadu **⚠ ZAMKNIETE 300-04-02 - ODESLANE DO JUSTYCJARIUSZA, Z SUGESTIA NAMIESTNIKA: NAJPIERW MEDIACJA, POTEM ROZSTRZYGNIECIE.**
 - **300-04-01** — UCZTA ZAMKNIECIA WIELKIEJ RADY - Wielka Sala, wieczorem. Na podszept Namiestnika, Krol wydaje. Czternascie domow z pocztami. Oboje Flintowie przy stole Krola. Koszt: Kasa 3 (strawa z Korony wedle wezwania) - rachunek wypisze kasztelan, bez liczby z glowy. · _kto:_ **KROL / KASZTELAN WINTERFELL** · _zamyka:_ uczta odbyta; rachunek kasztelana w ksiedze Kasy 3 **⚠ ZAMKNIETE 300-04-01 - UCZTA ODBYTA; FLINTOWIE PRZY STOLE KROLA. RACHUNEK KASZTELANA DO KASY 3.**
 - **300-04-01** — STRAZ KARHOLDU NA MARCHII - UZNANA ZA SLUZBE KORONY, slowem Namiestnika 300-04-01 (po zeznaniu, jak zaplanowano 300-02-28). Korona placi od 300-05-01. Liczba ludzi i stawka - z roli Karholdu, liczy GAWEN; zadnej kwoty z glowy. Krol dowiaduje sie od Namiestnika. · _kto:_ **GAWEN (Kasa 3) + KARSTARK (rola strazy)** · _zamyka:_ stawka i liczba wpisane do ksiegi Kasy 3; pierwszy zold 300-05-01
-- **300-04-01** — POWIEDZIEC KROLOWI: Namiestnik uznal straz Karholdu na marchii za sluzbe Korony (koszt Kasy 3). · _kto:_ **SYMON -> ROBB** · _zamyka:_ Krol wie
+- **300-04-01** — POWIEDZIEC KROLOWI: Namiestnik uznal straz Karholdu na marchii za sluzbe Korony (koszt Kasy 3). · _kto:_ **SYMON -> ROBB** · _zamyka:_ Krol wie **⚠ ZAMKNIETE 300-04-02 - KROL WIE I POTWIERDZA.**
 - **300-04-02** — SPOR: WDOWIA STRAZNICA / STARY ZAMEK - przerebla na zamarznietej zatoce. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Sugestia Namiestnika: linie wyznaczyc PALAMI, gdy lod zejdzie (lod nie trzyma kamienia). · _kto:_ **CERWYN (Justycjariusz) + LYESSA FLINT + STARY ZAMEK** · _zamyka:_ ugoda albo wyrok; linia palami po odwilzy
 - **300-04-02** — SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie. · _kto:_ **CERWYN (Justycjariusz) + DONELLA HORNWOOD + DREADFORT** · _zamyka:_ pomiar wykonany; ugoda albo wyrok
 - **300-04-02** — PRZYSTANIE NA PLACZACEJ WODZIE I ZLAMANEJ GALEZI - BOLTON PRZYJAL (rzut 79). Trzy klucze: ludzie Dreadfortu przy wadze (imiona listem z Dreadfortu), pisarz Korony przy ksiedze. Budowa po odwilzy. · _kto:_ **ROOSE BOLTON (imiona) + Mistrz Handlu / Korona (pisarze)** · _zamyka:_ imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani
@@ -957,8 +954,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `lyessa_flint` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-04-02] `dziennik`: 300-04-02 RANO - ROZSTRZYGNIECIE PANA W SPRAWIE DWOCH SPOROW: oba do JUSTYCJARIUSZA; w obu NAJPIERW MEDIACJA, POTEM ROZSTRZYGNIECIE. Bez rzutu. (1) Wdowia / Stary Zamek: linie wyznaczyc PALA…
-- [300-04-02] `korona/CERWYN`: 300-04-02 RANO - ROZSTRZYGNIECIE PANA W SPRAWIE DWOCH SPOROW: oba do JUSTYCJARIUSZA; w obu NAJPIERW MEDIACJA, POTEM ROZSTRZYGNIECIE. Bez rzutu. (1) Wdowia / Stary Zamek: linie wyznaczyc PALA…
 - [300-04-02] `dziennik`: 300-04-02 RANO, IZBA NAMIESTNIKA - ROOSE BOLTON O PRZYSTANIACH NA SWOICH RZEKACH. RZUT 79 PRZY PROGU 50 - CZYSTY SUKCES. Roose bierze OBIE: PLACZACA WODA i ZLAMANA GALAZ. Na trzech kluczach:…
 - [300-04-02] `korona/ROOSE_BOLTON`: 300-04-02 RANO, IZBA NAMIESTNIKA - ROOSE BOLTON O PRZYSTANIACH NA SWOICH RZEKACH. RZUT 79 PRZY PROGU 50 - CZYSTY SUKCES. Roose bierze OBIE: PLACZACA WODA i ZLAMANA GALAZ. Na trzech kluczach:…
 - [300-04-02] `przystanie_wschodu`: 300-04-02 RANO, IZBA NAMIESTNIKA - ROOSE BOLTON O PRZYSTANIACH NA SWOICH RZEKACH. RZUT 79 PRZY PROGU 50 - CZYSTY SUKCES. Roose bierze OBIE: PLACZACA WODA i ZLAMANA GALAZ. Na trzech kluczach:…
@@ -969,3 +964,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-04-02] `korona/RICKARD_KARSTARK`: 300-04-02 RANO, IZBA NAMIESTNIKA - RICKARD KARSTARK O PRZYSTANI NA OSTATNIEJ RZECE. RZUT 26 PRZY PROGU 25 - TUZ POWYZEJ. BIERZE: trzy klucze - jego czlowiek przy wadze, pisarz Korony przy ks…
 - [300-04-02] `przystanie_wschodu`: 300-04-02 RANO, IZBA NAMIESTNIKA - RICKARD KARSTARK O PRZYSTANI NA OSTATNIEJ RZECE. RZUT 26 PRZY PROGU 25 - TUZ POWYZEJ. BIERZE: trzy klucze - jego czlowiek przy wadze, pisarz Korony przy ks…
 - [300-04-02] `karstark_linia_pekniecia_wschod_299_08`: 300-04-02 RANO, IZBA NAMIESTNIKA - RICKARD KARSTARK O PRZYSTANI NA OSTATNIEJ RZECE. RZUT 26 PRZY PROGU 25 - TUZ POWYZEJ. BIERZE: trzy klucze - jego czlowiek przy wadze, pisarz Korony przy ks…
+- [300-04-02] `dziennik`: 300-04-02 PRZED POLUDNIEM, SOLARIUM KROLA - SYMON MOWI ROBBOWI O STRAZY KARHOLDU NA MARCHII (sluzba Korony, Kasa 3 od 05-01). Bez rzutu. ROBB potwierdza: 'Osiem lat pilnowal granicy z mojej …
+- [300-04-02] `korona/ROBB`: 300-04-02 PRZED POLUDNIEM, SOLARIUM KROLA - SYMON MOWI ROBBOWI O STRAZY KARHOLDU NA MARCHII (sluzba Korony, Kasa 3 od 05-01). Bez rzutu. ROBB potwierdza: 'Osiem lat pilnowal granicy z mojej …

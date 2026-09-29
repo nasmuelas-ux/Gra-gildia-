@@ -4245,7 +4245,7 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 36,
+   "_dziennik_nota": 37,
    "filar": "RAMSAY - ucho Willi",
    "stan_watku": "ZYWY"
   },
@@ -5620,7 +5620,7 @@
   {
    "id": "hornwood_ziemia_bez_pana_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 16,
+   "_dziennik_nota": 17,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel D - ROZSTRZYGNIETE: wariant (A) - zaplata w naturze, wozami. Powod jednym slowem: SYMBOLIKA. Prozny Hornwood zyje dalej w hornwood_proznia_dreadfort."
@@ -6500,7 +6500,7 @@
   {
    "id": "lyessa_flint",
    "status": "otwarty",
-   "_dziennik_nota": 6
+   "_dziennik_nota": 7
   }
  ]
 }

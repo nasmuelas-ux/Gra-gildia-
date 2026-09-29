@@ -3767,7 +3767,7 @@
   {
    "data": "300-04-11",
    "co": "LIST DO WALDERA FREYA - WIADOMOSC O NARODZINACH + ZAPROSZENIE do Winterfell. Wychodzi W DNIU PORODU, nie wczesniej. Przedtem Krol pyta Roslin (moze pisze Perwyn).",
-   "kto": "KROL (albo PERWYN wg woli Roslin) -> WALDER FREY",
+   "kto": "PERWYN FREY (wola Roslin, 04-11) -> WALDER FREY",
    "kanal": "kruk Winterfell-Blizniaki (lancuch maesterski)",
    "wraca": "dzien porodu + 9",
    "zamyka": "odpowiedz Waldera / kogo przysle",

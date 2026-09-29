@@ -3673,6 +3673,51 @@
    "wraca": "300-04-11",
    "zamyka": "Bran mowi, czy sen przyszedl i co widzial (rzut przy rozmowie)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-10",
+   "co": "LIST SYMONA DO ROOSE'A BOLTONA - Dzieci Lasu i wargowie do bibliotek; czy rod Boltonow mial do czynienia z silami magicznymi; pytanie o lady Walde.",
+   "kto": "SYMON -> ROOSE BOLTON",
+   "kanal": "kruk Winterfell-Dreadfort (wylot 04-11)",
+   "wraca": "300-04-18",
+   "zamyka": "odpowiedz albo cisza (rzut przy powrocie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-10",
+   "co": "LIST SYMONA DO MAESTRA THEOMORE'A - co o Dzieciach Lasu i wargach jest w jego skrzyniach i u Manderlych.",
+   "kto": "SYMON -> THEOMORE (Nowy Zamek)",
+   "kanal": "kruk Winterfell-Bialy Port (wylot 04-11)",
+   "wraca": "300-04-16",
+   "zamyka": "odpowiedz (rzut przy powrocie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-10",
+   "co": "LIST SYMONA DO MAESTRA RIVERRUN - zapiski Tullych i Dorzecza o Dzieciach Lasu (Wyspa Twarzy) i wargach.",
+   "kto": "SYMON -> MAESTER RIVERRUN",
+   "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-11)",
+   "wraca": "300-04-22",
+   "zamyka": "odpowiedz albo cisza (rzut przy powrocie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-10",
+   "co": "LIST SYMONA DO MAESTRA WYSTANA - Przesmyk, Fosa, krannogowie, Mlot Wod: co zapisano o Dzieciach Lasu i wargach.",
+   "kto": "SYMON -> WYSTAN (Fosa)",
+   "kanal": "kruk Winterfell-Fosa (wylot 04-11)",
+   "wraca": "300-04-15",
+   "zamyka": "odpowiedz (rzut przy powrocie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-10",
+   "co": "GARRICK - NAJSTARSI MIESZKANCY LENNA: co pamietaja o Dzieciach Lasu i ludziach-zwierzetach; spisane imiennie. Wchodzi do zbiorczego 04-18 (w Winterfell 04-20).",
+   "kto": "GARRICK (kancelaria Fosy)",
+   "kanal": "kruk Winterfell-Fosa (wylot 04-11) + meldunek zbiorczy",
+   "wraca": "300-04-20",
+   "zamyka": "spis rozmow na stole w Winterfell",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

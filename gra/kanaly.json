@@ -142,6 +142,16 @@
    "tam": 2,
    "wraca_lacznie": 4,
    "zrodlo": "lancuch maesterski wprost; przyjete 300-04-06 przez analogie"
+  },
+  "kruk Winterfell-Dreadfort": {
+   "tam": 3,
+   "wraca_lacznie": 7,
+   "zrodlo": "przyjete 300-04-10 przez analogie z 'kruk Bialy Port-Dreadfort' (3/7); Dreadfort ma ptaki na Winterfell (zapis 300-03-14: odpowiedz adresowana na Winterfell)"
+  },
+  "kruk Winterfell-Riverrun (lancuch maesterski)": {
+   "tam": 5,
+   "wraca_lacznie": 11,
+   "zrodlo": "przyjete 300-04-10 przez analogie: Winterfell-Fosa 2 + dalej na poludnie, krocej niz Fosa-Highgarden (7/18)"
   }
  }
 }

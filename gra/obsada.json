@@ -423,12 +423,14 @@
    "TRAKT - ODNOGA POLUDNIOWA": {
     "kto": "BRENN Z BRODU",
     "od": "300-03-03",
-    "nota": "Przewoznik z brodu, czlowiek STAMTAD, nie z Winterfell. Zna, gdzie woda podchodzi i ktorego miesiaca."
+    "nota": "Przewoznik z brodu, czlowiek STAMTAD, nie z Winterfell. Zna, gdzie woda podchodzi i ktorego miesiaca.",
+    "melduje": "co 7 dni w meldunku zbiorczym Garricka (od 300-04-11); checkpoint: odnoga zmierzona w calosci przed ~06-15"
    },
    "TRAKT - ODNOGA NA SAMOTNE WZGORZA": {
     "kto": "TOVE ZE WZGORZ",
     "od": "300-03-03",
-    "nota": "Czlowiek STAMTAD. Splawnosc Samotnych Wzgorz to punkt rozmowy z Wymanem ~300-03-13 - ma liczbe przed ta rozmowa."
+    "nota": "Czlowiek STAMTAD. Splawnosc Samotnych Wzgorz to punkt rozmowy z Wymanem ~300-03-13 - ma liczbe przed ta rozmowa.",
+    "melduje": "co 7 dni w meldunku zbiorczym Garricka (od 300-04-11); checkpoint: odnoga zmierzona w calosci przed ~06-15"
    },
    "UCHO KORONY": {
     "kto": null,

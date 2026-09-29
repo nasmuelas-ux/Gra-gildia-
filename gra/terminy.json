@@ -3173,6 +3173,15 @@
    "wraca": "300-04-01",
    "zamyka": "zaplata albo rozstrzygniecie Korony co do formy/terminu",
    "status": "ROZSTRZYGNIETE 300-03-31 PRZEZ PANA: GAWEN PRZYJMUJE ZALEGLOSC 47 SMOKOW W WELNIE I SKORACH - tym, czym Wdowia placila w listopadzie. Decyzja skarbowa na istniejacym dlugu, nie nowe prawo. Wycena po cenie ogloszonej - liczy skarbnik. Wdowia Straznica przestaje byc dluznikiem z chwila odbioru."
+  },
+  {
+   "data": "300-03-31",
+   "co": "KROL ZAPRASZA OBU FLINTOW (lady Lyessa z Wdowiej Straznicy, lord Flint z Palca) DO SWOJEGO STOLU - na podszept Symona. Babka Eddarda Starka byla Flintowna z gor ('pol-Flint'); Krol goscii krew wlasnej prababki. Wieczorem po trzecim dniu Rady.",
+   "kto": "ROBB",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-01",
+   "zamyka": "wieczerza odbyta",
+   "status": "otwarte - idzie samo (zasada 7)"
   }
  ],
  "_dopiski_300_03_18": [

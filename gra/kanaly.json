@@ -127,6 +127,11 @@
    "wraca_lacznie": 7,
    "zrodlo": "maester do maestera, prosto z wiezy Luwina; otwarty 300-03-28. Inny kanal niz 'przez Osrica (Mur)' - tamten idzie okrezna droga i nosi pisma Symona. Odpowiedz wraca w tempie Aemona, nie ptaka.",
    "sprawdzaj_co": 7
+  },
+  "kruk Winterfell-Bialy Port": {
+   "tam": 2,
+   "wraca_lacznie": 4,
+   "zrodlo": "lancuch maesterski wprost (Luwin -> maester Nowego Zamku); przyjete 300-04-05 przez analogie z Winterfell-Fosa i Fosa-Bialy Port"
   }
  }
 }

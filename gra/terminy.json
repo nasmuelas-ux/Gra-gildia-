@@ -3394,6 +3394,24 @@
    "wraca": "300-05-10",
    "zamyka": "meldunek Willi - miejsce i warunki, albo 'nie da sie ustalic' i dlaczego",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-05",
+   "co": "LIST SYMONA DO MIRY - jak sie czuje (prywatnie, wlasna reka).",
+   "kto": "SYMON -> MIRA (Nowy Zamek, Bialy Port)",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-04-09",
+   "zamyka": "odpowiedz Miry",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-05",
+   "co": "KARETA DLA RODZINY - kryty woz podrozny na zime (Mira, Lyra, opiekunki), Bialy Port-Fosa, potem Fosa-Winterfell. Kupic gotowa albo zamowic; gotowa przed slowem Rhony o wyjezdzie. Cena i termin od Hala; kwota do ksiegi z kwitem (zasada 43); placi Dom.",
+   "kto": "SYMON -> HAL (Bialy Port)",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-04-09",
+   "zamyka": "cena i termin od Hala (potem: kareta gotowa)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -902,7 +902,7 @@
    "kanal": "jezdziec Fosa-Dustinport",
    "wraca": "300-04-08",
    "zamyka": "karta na stole",
-   "status": "w drodze - pisana dzis w Dustinporcie (zasada 7); jezdziec Dustinport-Fosa, dalej krukiem do Winterfell."
+   "status": "PRZYSZLO 300-04-08: ~260 ludzi, ~80 korcy/tydz.; 2 kadluby na wodzie, 3. gotowy do wodowania po odwilzy przy brzegu; kwity zgodne od 03-13; brakuje ZELAZA NA OKUCIA I GWOZDZI OKRETOWYCH. Nastepna karta 05-08."
   },
   {
    "data": "300-04-01",
@@ -3161,9 +3161,9 @@
    "co": "WYKUP WEKSLA Z DREADFORTU (299-10-20) W MONECIE - Roose przywiozl weksel na Rade i czeka na kwote od kantoru Domu. Symon przekazuje sprawe do kantoru. Weksel zostaje u Roose'a do zaplaty.",
    "kto": "HAL (kantor Domu) -> ROOSE BOLTON",
    "kanal": "kruk Winterfell-Fosa + kruk Fosa-Bialy Port; zaplata kruk Bialy Port-Dreadfort",
-   "wraca": "300-04-08",
+   "wraca": "300-04-20",
    "zamyka": "kwota podana, moneta zaplacona, weksel oddany i umorzony",
-   "status": "w drodze - 300-04-03 KWOTY NIE MA I WIADOMO DLACZEGO: sprawa poszla do kantoru 03-30 wieczorem; Hal siedzi w Bialym Porcie (Winterfell-Fosa-Bialy Port i z powrotem = ~8 dni), a 04-01 kruki nie lecialy. Realnie ~300-04-08. Roose wyjechal z Rady z wekslem - zaplata przez Hala na Dreadfort (kruk Bialy Port-Dreadfort)."
+   "status": "kwota PRZYSZLA 300-04-08 z ksiegi weksli Domu: 3 smoki 40 jeleni; Hal placi na Dreadfort i prosi o zwrot weksla do umorzenia."
   },
   {
    "data": "299-11-22",
@@ -3348,11 +3348,11 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-04-08",
    "zamyka": "lista w wiezy Luwina; los ciagniety jawnie",
-   "status": "otwarte"
+   "status": "zrobione 300-04-08 - lista: Edric Pisarczyk, Halla od Tablic; los (Luwin, swiadek ser Alyn): HALLA OD TABLIC."
   },
   {
    "data": "300-04-04",
-   "co": "EGZAMINATOR Z FOSY W WINTERFELL NA PIERWSZE PROBY SZCZEBLA (polowa V/300). Wyjazd z Fosy najpozniej ~05-08.",
+   "co": "EGZAMINATOR Z FOSY (HALLA OD TABLIC, wylosowana 04-08) W WINTERFELL NA PIERWSZE PROBY SZCZEBLA (polowa V/300). Wyjazd z Fosy najpozniej ~05-08.",
    "kto": "wylosowany nauczyciel Fosy -> LUWIN",
    "kanal": "trakt Fosa-Winterfell",
    "wraca": "300-05-15",

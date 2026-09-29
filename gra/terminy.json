@@ -3385,6 +3385,15 @@
    "wraca": "300-05-23",
    "zamyka": "kwit armatora + data wyplyniecia",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-05",
+   "co": "HARRION KARSTARK - GDZIE DOKLADNIE I JAK TRZYMANY (zamek, kto trzyma, straz, zdrowie, czy przenoszony od 299-09-21). WYLACZNIE WIEDZA - bez dzialania (granica Krola 300-04-05). Wynik: najpierw Karstarkowi (slowo Krola).",
+   "kto": "SYMON -> WILLA (siatka)",
+   "kanal": "siatka Willi",
+   "wraca": "300-05-10",
+   "zamyka": "meldunek Willi - miejsce i warunki, albo 'nie da sie ustalic' i dlaczego",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

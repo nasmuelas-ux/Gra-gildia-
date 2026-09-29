@@ -3330,6 +3330,15 @@
    "kanal": "osobiscie (Winterfell)",
    "wraca": "300-04-04",
    "zamyka": "slowo Krola: tak / nie / na warunkach",
+   "status": "zrobione 300-04-03 - rzut 6/40: NIE TERAZ, Krol pisze do matki. Uwaga: 'warunek Krola z 300-02-07' byl bledem GM (VOID) - to byly slowa Symona z 299-09-14."
+  },
+  {
+   "data": "300-04-03",
+   "co": "LIST KROLA DO LADY CATELYN: CZY ARYA MOZE JECHAC NA FOSE CAILIN (zobaczyc Melle), z Symonem albo z konwojem. Krol nie decyduje przez glowe matki (jego slowo z 299-09-14). Aryi mowi Krol sam, wieczorem 300-04-03.",
+   "kto": "KROL ROBB -> CATELYN (Riverrun) / LUCAN doreczenie",
+   "kanal": "przez Lucana (Dorzecze)",
+   "wraca": "300-04-24",
+   "zamyka": "slowo Catelyn: tak / nie",
    "status": "otwarte"
   }
  ],

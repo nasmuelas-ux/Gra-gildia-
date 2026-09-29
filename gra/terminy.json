@@ -3376,6 +3376,15 @@
    "wraca": "300-05-05",
    "zamyka": "karta na stole, takze pusta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-05",
+   "co": "LUPACZ KAMIENIA I SYN - PODROZ PLACI DOM (kantor Nesty w Braavos). Potwierdzenie Nesty + KWIT ARMATORA (kwota do ksiegi dopiero z kwitu). Jada ze statkiem kadr; praca: Kamien i Budowa (Orbelo), Fosa.",
+   "kto": "SYMON -> NESTA (Braavos)",
+   "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
+   "wraca": "300-05-23",
+   "zamyka": "kwit armatora + data wyplyniecia",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

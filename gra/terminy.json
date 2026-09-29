@@ -3219,6 +3219,24 @@
    "wraca": "300-04-01",
    "zamyka": "uczta odbyta; rachunek kasztelana w ksiedze Kasy 3",
    "status": "ZAMKNIETE 300-04-01 - uczta odbyta; Flintowie przy stole Krola. Rachunek kasztelana do Kasy 3."
+  },
+  {
+   "data": "300-04-01",
+   "co": "STRAZ KARHOLDU NA MARCHII - UZNANA ZA SLUZBE KORONY, slowem Namiestnika 300-04-01 (po zeznaniu, jak zaplanowano 300-02-28). Korona placi od 300-05-01. Liczba ludzi i stawka - z roli Karholdu, liczy GAWEN; zadnej kwoty z glowy. Krol dowiaduje sie od Namiestnika.",
+   "kto": "GAWEN (Kasa 3) + KARSTARK (rola strazy)",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-15",
+   "zamyka": "stawka i liczba wpisane do ksiegi Kasy 3; pierwszy zold 300-05-01",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-01",
+   "co": "POWIEDZIEC KROLOWI: Namiestnik uznal straz Karholdu na marchii za sluzbe Korony (koszt Kasy 3).",
+   "kto": "SYMON -> ROBB",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-02",
+   "zamyka": "Krol wie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

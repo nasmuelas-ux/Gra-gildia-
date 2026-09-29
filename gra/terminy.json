@@ -3322,6 +3322,15 @@
    "wraca": "300-04-06",
    "zamyka": "slowo Miry: co z Atelier idzie na liste",
    "status": "VOID 300-04-02 - na wskazanie pana: Atelier jest w Domu (wniesione 299-11-29, wycena 520, udzial Miry ~1/6); zgoda Miry na liste nie jest potrzebna. Kruk nie poszedl."
+  },
+  {
+   "data": "300-04-03",
+   "co": "ZAPYTAC KROLA: CZY ARYA MOZE JECHAC NA FOSE Z SYMONEM (zobaczyc Melle). Warunek Krola z 300-02-07: 'zeby nikt nie powiedzial, ze Namiestnik zbiera Starkow pod swoim dachem'. Arya nie pytala jeszcze Robba - czeka na Symona.",
+   "kto": "SYMON -> KROL ROBB",
+   "kanal": "osobiscie (Winterfell)",
+   "wraca": "300-04-04",
+   "zamyka": "slowo Krola: tak / nie / na warunkach",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

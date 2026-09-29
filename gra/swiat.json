@@ -5,7 +5,7 @@
   "dzien": 3,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "popoludnie",
  "sezon": "zima (300)",
  "pogoda": "RZUT 33 (300-04-03) - dzien slabszy: mzawka ze sniegiem, odwilz w poludnie, bloto na dziedzincach. Kruki leca z opoznieniem, trakty rozmiekaja.",
  "dzien_tygodnia_nr": 5,
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 297,
+ "_dziennik_nota": 299,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

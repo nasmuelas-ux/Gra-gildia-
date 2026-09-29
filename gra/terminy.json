@@ -3192,6 +3192,24 @@
    "zamyka": "dostawa w Czarnym Zamku potwierdzona w meldunku Osrica",
    "status": "otwarte",
    "sprawdzaj_co": 14
+  },
+  {
+   "data": "300-04-01",
+   "co": "HORNWOOD - KIEDY PAN? Zarzadca Hornwoodu zapytal na Radzie. Wakat od 299; Larence Snow zapowiedziany 299-11 ('przed Nowym Rokiem'). Sprawa Krola (sukcesja), nie sporu.",
+   "kto": "KROL",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-15",
+   "zamyka": "odpowiedz Krola zarzadcy Hornwoodu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-01",
+   "co": "DWIE KARTKI ZE SPORAMI U REJESTRATORA (Tobin Szala) - zlozone na Radzie; rozstrzyga sad Justycjariusza po Radzie. Tresc do odczytania.",
+   "kto": "TOBIN SZALA -> CERWYN",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-02",
+   "zamyka": "tresc odczytana i wpisana na liste sadu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -3574,6 +3574,24 @@
    "wraca": "300-04-20",
    "zamyka": "inwentarz na stole Krola",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "PIERWSZA SPRZEDAZ DANIN NIEJADALNYCH NA OTWARTYM TARGU - WINTERTOWN (towar na miejscu). Warunki Krola: cena ogloszona na slupie przed dniem targowym, Miara Polnocna, ksiega jawna; sprzedaja pisarze Skarbu wedle prawa targu miasta; kupuje kazdy, Dom Tally jak kazdy i z wpisem; drewno okretowe zostaje na eskadre. Po inwentarzu Gawena.",
+   "kto": "GAWEN + pisarze Skarbu",
+   "kanal": "wlasny czlowiek w Winterfell",
+   "wraca": "300-04-27",
+   "zamyka": "pierwszy dzien targowy z ksiega sprzedazy; wplyw do Skarbu z ksiegi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina.",
+   "kto": "GAWEN + pisarze Skarbu; HERWIN (Cailin), WYMAN (Bialy Port)",
+   "kanal": "trakt / kruk Winterfell-Fosa, kruk Winterfell-Bialy Port",
+   "wraca": "300-05-20",
+   "zamyka": "pierwszy targ w kazdym z dwoch miast, z ksiega",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

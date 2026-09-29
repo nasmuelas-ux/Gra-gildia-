@@ -3655,6 +3655,15 @@
    "wraca": "300-04-20",
    "zamyka": "plan z miejscem, rekami i data pierwszego polowu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-09",
+   "co": "BILANS KWARTALNY DOMU - WYCENA PLACOWEK BRAAVOS I PENTOS z pierwszych ksiag (kantor Domu w Braavos, ksiega Obara). Polecenie pana: potencjalnie najbardziej zyskowne linie. Pentos: drewno 110-120 jel./szt. - marza po koszcie drewna i przewozu.",
+   "kto": "HAL / TAM (kantor Bialy Port) + NESTA",
+   "kanal": "list do Nesty (Fosa-Braavos-Fosa) + kantor Bialy Port",
+   "wraca": "300-05-05",
+   "zamyka": "pasma przychodu obu placowek w bilansie, z ksiegi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

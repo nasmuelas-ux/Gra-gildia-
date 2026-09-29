@@ -25,7 +25,10 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**76 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**71 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
+
+### 🟡 WRACA DZIS
+- SEN BRANA - proba pojscia za wolaniem spod ziemi (ciemno, kamien). Podsuniete przez Symona; Bran: 'dzis sprobuje nie uciekac'. Luw… · _kanal:_ rozmowa w Winterfell
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -304,7 +307,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-05** — LUPACZ KAMIENIA I SYN - PODROZ PLACI DOM (kantor Nesty w Braavos). Potwierdzenie Nesty + KWIT ARMATORA (kwota do ksiegi dopiero z kwitu). Jada ze statkiem kadr; praca: Kamien i Budowa (Orbelo), Fosa. · _kto:_ **SYMON -> NESTA (Braavos)** · _zamyka:_ kwit armatora + data wyplyniecia
 - **300-04-05** — HARRION KARSTARK - GDZIE DOKLADNIE I JAK TRZYMANY (zamek, kto trzyma, straz, zdrowie, czy przenoszony od 299-09-21). WYLACZNIE WIEDZA - bez dzialania (granica Krola 300-04-05). Wynik: najpierw Karstarkowi (slowo Krola). ### DOPISEK 04-08: znak 'swiadka z Harrenhal' (bez imienia) - nagly wzrost utrzymania jenca = szykuja wymiane albo przeniesienie; niechcianych przenosza noca. · _kto:_ **SYMON -> WILLA (siatka)** · _zamyka:_ meldunek Willi - miejsce i warunki, albo 'nie da sie ustalic' i dlaczego
 - **300-04-06** — BRYNDEN TULLY PRZYJEZDZA DO PRZYSTANI WILKA - pierwszy mistrz akademii. Warunki: 'z pierwsza woda' i slowo Catelyn, ze Riverrun go nie potrzebuje; zastepce wybiera sam na miejscu. · _kto:_ **BRYNDEN TULLY** · _zamyka:_ Brynden w baszcie Przystani Wilka - albo list z nowa data
-- **300-04-06** — BURSZTYN DO REACH - PIERWSZA PARTIA. Marro podaje, ile zrobi do wyplyniecia przedstawiciela; Hal - ile zabierze statek i ile na probe. Kwoty i ilosci z ich slowa, nie z glowy. · _kto:_ **SYMON -> HAL + MARRO (Bialy Port)** · _zamyka:_ wolumen pierwszej partii na pismie; partia plynie z przedstawicielem ~05-15
+- **300-04-06** — BURSZTYN DO REACH - PIERWSZA PARTIA. Marro podaje, ile zrobi do wyplyniecia przedstawiciela; Hal - ile zabierze statek i ile na probe. Kwoty i ilosci z ich slowa, nie z glowy. · _kto:_ **SYMON -> HAL + MARRO (Bialy Port)** · _zamyka:_ wolumen pierwszej partii na pismie; partia plynie z przedstawicielem ~05-15 **⚠ ZAMKNIETE 300-04-11: WOLUMEN NA PISMIE (MARRO/HAL, BEZ RZUTU)**
 - **300-04-06** — MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt, mlyn, torfiarnie, etapy miasta, etap 0, Goracy Port, transport kamienia. Takze 'stoi'. · _kto:_ **GARRICK (kancelaria Fosy)** · _zamyka:_ meldunek na stole w Winterfell
 - **300-04-06** — MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt, mlyn, torfiarnie, etapy miasta, etap 0, Goracy Port, transport kamienia. Takze 'stoi'. ⚑ W TYM HARMONOGRAMY WLASNE URZEDOW (etapy z datami). · _kto:_ **GARRICK (kancelaria Fosy)** · _zamyka:_ meldunek na stole w Winterfell
 - **300-04-06** — MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt, mlyn, torfiarnie, etapy miasta, etap 0, Goracy Port, transport kamienia. Takze 'stoi'. · _kto:_ **GARRICK (kancelaria Fosy)** · _zamyka:_ meldunek na stole w Winterfell
@@ -314,9 +317,9 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-06** — TRAKT - ODNOGA POLUDNIOWA (Fosa -> Przesmyk -> most Blizniakow) ZMIERZONA W CALOSCI: odcinki z tyczka, kazdy z nazwiskiem i data, woda i miesiace, kosztorys. TYLKO POMIAR - do drugiej ratyfikacji (koniec VI/300) zadnej zaliczki ani dostawy na poczet. Meldunek co 7 dni w zbiorczym Garricka od 04-11. · _kto:_ **BRENN Z BRODU** · _zamyka:_ przebieg, lista odcinkow i kosztorys na stole przed ratyfikacja
 - **300-04-06** — TRAKT - ODNOGA NA SAMOTNE WZGORZA ZMIERZONA W CALOSCI: odcinki z tyczka, nazwisko i data, splawnosc. Meldunek co 7 dni w zbiorczym Garricka od 04-11. · _kto:_ **TOVE ZE WZGORZ** · _zamyka:_ przebieg, lista odcinkow i kosztorys na stole przed ratyfikacja
 - **300-04-06** — CZESC V PRAWA SPICHLERZA W PORCIE BIALEGO PORTU - EGZEKUCJA OD DNIA PISMA. Zboze/zywnosc powyzej progu tylko dla stojacych w Ksiedze Polnocy (Tobin Szala) albo ze zgoda Korony (imienna, liczba, data, slup). KUPCY STANNISA: ZGODY BRAK. Straz: zgoda stala tylko z pieczecia Szafarza. Meldunek: ile partii zatrzymano i czyje. · _kto:_ **SYMON -> WYMAN (port) + GARTH (komora Fosy) + HERWIN (slup)** · _zamyka:_ pierwszy meldunek z portu: egzekucja trwa, liczba zatrzymanych partii
-- **300-04-06** — LANCUCH OSTRZEZEN ZACHODU - LIST KROLA DO GALBARTA I ROBETTA GLOVEROW: Robett trzyma lancuch (ognie na cyplach, wies znika, punkty wskazuja ludzie stamtad), za zgoda Galbarta. Straznicy ognia z Kasy 3. Tytul - po jednym lecie najazdow, dla Gloverow. · _kto:_ **KROL -> GALBART + ROBETT GLOVER** · _zamyka:_ tak/nie Gloverow + pierwsze punkty ognia wskazane
+- **300-04-06** — LANCUCH OSTRZEZEN ZACHODU - LIST KROLA DO GALBARTA I ROBETTA GLOVEROW: Robett trzyma lancuch (ognie na cyplach, wies znika, punkty wskazuja ludzie stamtad), za zgoda Galbarta. Straznicy ognia z Kasy 3. Tytul - po jednym lecie najazdow, dla Gloverow. · _kto:_ **KROL -> GALBART + ROBETT GLOVER** · _zamyka:_ tak/nie Gloverow + pierwsze punkty ognia wskazane **⚠ ZAMKNIETE 300-04-11: TAK (59) - ROBETT TRZYMA LANCUCH POD PIECZECIA GALBARTA**
 - **300-04-06** — LANCUCH OSTRZEZEN - WYSPA NIEDZWIEDZIA: list Krola do Maege - wlasny ogien wyspy w lancuchu. · _kto:_ **KROL -> MAEGE MORMONT** · _zamyka:_ tak/nie Maege
-- **300-04-06** — LANCUCH OSTRZEZEN - BRZEG BARROWLANDOW: list Krola do lady Dustin. · _kto:_ **KROL -> BARBREY DUSTIN** · _zamyka:_ tak/nie lady Dustin
+- **300-04-06** — LANCUCH OSTRZEZEN - BRZEG BARROWLANDOW: list Krola do lady Dustin. · _kto:_ **KROL -> BARBREY DUSTIN** · _zamyka:_ tak/nie lady Dustin **⚠ ZAMKNIETE 300-04-11: NIE W LANCUCHU (10) - LADY DUSTIN PALI WLASNE OGNIE, NIE MELDUJE ROBETTOWI**
 - **300-04-06** — TORREN - ESKADRA PLYNIE NA OGIEN (nie patroluje na slepo). Rozkaz Namiestnika. · _kto:_ **SYMON -> TORREN SOLNY** · _zamyka:_ potwierdzenie Torrena i rozklad okretow wzgledem ognia
 - **300-04-06** — THEON - DWA PYTANIA SYMONA: (a) OKRETY - ile naprawde (Donnel 03-03: 6 na pochylni, 2 wodowane, 1 stracony; cel 'szesc mokrych') i skad wiecej: kupno, odbicie, przejecie; (b) SKUTECZNOSC LANCUCHA OGNIA - co robi kapitan zelaznych przy pustej wsi, ile kosztuje ich pusty rejs. · _kto:_ **SYMON -> THEON GREYJOY (Dustinport)** · _zamyka:_ odpowiedz Theona na oba pytania
 - **300-04-06** — INWENTARZ NATURY KORONY - co Skarb ma w daninach w naturze: zboze, welna, skory, drewno (np. Maege 35 smokow w drewnie okretowym), robocizna; OSOBNO jadalne / niejadalne; data i miejsce skladu. Pod decyzje Krola o sprzedazy PO ZNIWACH (odmowa sprzedazy w zimie 300-04-06, rzut 17). Kwoty z ksiag Skarbu, nie z glowy. · _kto:_ **GAWEN (Skarbnik, Kasa 3)** · _zamyka:_ inwentarz na stole Krola
@@ -324,8 +327,8 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-06** — SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina. · _kto:_ **GAWEN + pisarze Skarbu; HERWIN (Cailin), WYMAN (Bialy Port)** · _zamyka:_ pierwszy targ w kazdym z dwoch miast, z ksiega
 - **300-04-06** — GAWEN - PAKIET MONETARNY, POZOSTALE CZTERY POZYCJE Z PIECIU (list z 300-03-06; odpowiedzial na jedna, cztery odlozyl 'do Rady' - Rada minela). Dodatkowo: czy mennica Wilk nadazy, jesli Korona rozlicza sie w Wilku (ceny na slupach Korony w Wilku, obca moneta po kursie ogloszonym). Warunek Krola przed ogloszeniem. · _kto:_ **GAWEN (Skarbnik) -> KROL** · _zamyka:_ odpowiedz na cztery pozycje + zdolnosc mennicy
 - **300-04-06** — INWENTARZ NATURY DOMENY WINTERFELL (czynsze chlopow; dom Starkow, NIE Skarb - osobna ksiega) - nadwyzka niejadalna na te same targi, te same warunki co daniny Korony. · _kto:_ **KASZTELAN WINTERFELL -> KROL** · _zamyka:_ inwentarz na stole Krola
-- **300-04-07** — LIST ARYI DO MELLI - zamkniety, nieczytany, do rak wlasnych przez Garricka. Odpowiedz, jesli Mella napisze. · _kto:_ **ARYA -> MELLA (Fosa), przez Symona** · _zamyka:_ list w rekach Melli; odpowiedz albo cisza **⚠ OTWARTE - WYSLANY WIECZORNYM KRUKIEM 300-04-07**
-- **300-04-07** — LIST SANSY STARK DO LADY BARBREY DUSTIN - podziekowanie za Willama, jako corka Eddarda, nie jako Korona; bez zadnej prosby. Robb wie przed wyslaniem. · _kto:_ **SANSA -> BARBREY DUSTIN** · _zamyka:_ list doreczony; odpowiedz albo cisza - obie sa odpowiedzia **⚠ OTWARTE - WYSLANY WIECZORNYM KRUKIEM 300-04-07**
+- **300-04-07** — LIST ARYI DO MELLI - zamkniety, nieczytany, do rak wlasnych przez Garricka. Odpowiedz, jesli Mella napisze. · _kto:_ **ARYA -> MELLA (Fosa), przez Symona** · _zamyka:_ list w rekach Melli; odpowiedz albo cisza **⚠ ZAMKNIETE 300-04-11: ODPOWIEDZ (94) - ZAMKNIETA, DO RAK ARYI**
+- **300-04-07** — LIST SANSY STARK DO LADY BARBREY DUSTIN - podziekowanie za Willama, jako corka Eddarda, nie jako Korona; bez zadnej prosby. Robb wie przed wyslaniem. · _kto:_ **SANSA -> BARBREY DUSTIN** · _zamyka:_ list doreczony; odpowiedz albo cisza - obie sa odpowiedzia **⚠ ZAMKNIETE 300-04-11: CISZA (54) - PTAK Z BARROWTON PRZYNIOSL TYLKO ODPOWIEDZ DLA KROLA**
 - **300-04-07** — REJESTR RELACJI KORONY Z DOMAMI - WEWNETRZNE NOTATKI WLADZY (rozstrzygniecie pana 300-04-07: nieogloszony, bez zasad formalnych). Prowadzi Sansa; czytaja Krol, Namiestnik, Sansa, Bran (laczy z rejestrem zamku). Pierwszy przeglad: czternascie domow z Rady, dlugi w obie strony; pierwszy wpis - dlug Starkow wobec Dustinow. · _kto:_ **SANSA STARK** · _zamyka:_ czternascie kart na stole Krola
 - **300-04-08** — GWOZDZIE OKRETOWE I OKUCIA DLA DUSTINPORTU Z FOSY - gwozdzie wies pod grobla, okucia kuznia miasta (po kafarach); placi Korona (Kasa 3) po cenie ze slupa Cailin, kwota z ksiegi targu. Pierwsza partia wozem Fosa-Dustinport. · _kto:_ **SYMON -> WARRYN (Fosa) -> DONNEL (Dustinport)** · _zamyka:_ pierwsza partia w Dustinporcie, z kwitem i cena
 - **300-04-09** — HODOWLA WEGORZY I RYB BLOTNYCH W CAILIN - plan: gdzie stawy, ile rak, co z komory wodnej od razu, pierwszy polow mlodych wegorzy (wiosenny ciag w gore rzek). Wegorza sie lowi mlodego i tuczy, nie rozmnaza. Laczy sie z pytaniem do krannogow o narybek. · _kto:_ **SYMON -> GARRICK + WARRYN; merytorycznie HAKON OD JASZCZURA** · _zamyka:_ plan z miejscem, rekami i data pierwszego polowu
@@ -506,10 +509,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-04-10 ranek · zima (300)
+- **Data:** 300-04-11 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 92 · Sytosc 100 · Zmeczenie 72**
+- **Zdrowie 95 · Sytosc 72 · Zmeczenie 20**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1034,10 +1037,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `dzieci_lasu_i_wargowie_300_04` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-04-10] `starkowie/BRAN`: 300-04-10 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON DO BRANA: nie przesadzaj z porzadkowaniem wszystkiego; czasem rzeczy warto zostawic losowi i nieporzadkowi. Bez rzutu (rozmowa). BRAN milczy…
-- [300-04-10] `dziennik`: 300-04-10 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON: 'Mowiles, ze czasem snisz, ze chodzisz.' (zapis 300-04-04: 'Czasem mi sie sni, ze tam jestem - tylko ze w snie mam cztery nogi.') Bez rzutu…
-- [300-04-10] `starkowie/BRAN`: 300-04-10 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON: 'Mowiles, ze czasem snisz, ze chodzisz.' (zapis 300-04-04: 'Czasem mi sie sni, ze tam jestem - tylko ze w snie mam cztery nogi.') Bez rzutu…
-- [300-04-10] `dziennik`: 300-04-10 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON PROSI BRANA, BY OPISAL SNY DOKLADNIE. Bez rzutu (Bran chce, zeby ktos zapytal powaznie). OPIS BRANA (jego slowa; nic ponad nie jest ustalone…
 - [300-04-10] `starkowie/BRAN`: 300-04-10 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON PROSI BRANA, BY OPISAL SNY DOKLADNIE. Bez rzutu (Bran chce, zeby ktos zapytal powaznie). OPIS BRANA (jego slowa; nic ponad nie jest ustalone…
 - [300-04-10] `dziennik`: 300-04-10 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON PYTA BRANA, CZY MA KONTROLE W SNIE, I PODSUWA: sprobuj poszukac tego, kto cie wola. Bez rzutu (rozmowa; proba jest Brana i odbedzie sie w no…
 - [300-04-10] `starkowie/BRAN`: 300-04-10 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON PYTA BRANA, CZY MA KONTROLE W SNIE, I PODSUWA: sprobuj poszukac tego, kto cie wola. Bez rzutu (rozmowa; proba jest Brana i odbedzie sie w no…
@@ -1046,3 +1045,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-04-10] `dziennik`: 300-04-10 WIECZOR DO POZNA, BIBLIOTEKA WINTERFELL - SYMON SZUKA O DZIECIACH LASU I WARGACH. RZUT 26 (prog 45) - NIE ZNAJDUJE NICZEGO NOWEGO. Jedna konsekwencja: stracony wieczor, pozno do lo…
 - [300-04-10] `dziennik`: 300-04-10 NOC, BIBLIOTEKA/KOMNATA NAMIESTNIKA - SYMON PISZE PIEC LISTOW O DZIECIACH LASU I WARGACH. Bez rzutu (wlasne pisma; odpowiedzi rzucane przy powrocie). Wspolna rama: 'zbieramy do bib…
 - [300-04-10] `dzieci_lasu_i_wargowie_300_04`: 300-04-10 NOC, BIBLIOTEKA/KOMNATA NAMIESTNIKA - SYMON PISZE PIEC LISTOW O DZIECIACH LASU I WARGACH. Bez rzutu (wlasne pisma; odpowiedzi rzucane przy powrocie). Wspolna rama: 'zbieramy do bib…
+- [300-04-11] `dziennik`: 300-04-11 RANEK, WINTERFELL - POGODA RZUT 43: szaro, nisko; nocny przymrozek na odwilzy - dziedzince w lodowej skorupie do poludnia. Kruki leca. SEN RZUT 83 - noc dobra, przespana od przed p…
+- [300-04-11] `robb_stark`: 300-04-11 RANEK, WINTERFELL - POGODA RZUT 43: szaro, nisko; nocny przymrozek na odwilzy - dziedzince w lodowej skorupie do poludnia. Kruki leca. SEN RZUT 83 - noc dobra, przespana od przed p…
+- [300-04-11] `starkowie/SANSA`: 300-04-11 RANEK, WINTERFELL - POGODA RZUT 43: szaro, nisko; nocny przymrozek na odwilzy - dziedzince w lodowej skorupie do poludnia. Kruki leca. SEN RZUT 83 - noc dobra, przespana od przed p…
+- [300-04-11] `arya_stark`: 300-04-11 RANEK, WINTERFELL - POGODA RZUT 43: szaro, nisko; nocny przymrozek na odwilzy - dziedzince w lodowej skorupie do poludnia. Kruki leca. SEN RZUT 83 - noc dobra, przespana od przed p…

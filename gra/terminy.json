@@ -3429,7 +3429,7 @@
    "kanal": "kruk Winterfell-Bialy Port (wylot 300-04-07, zamiec)",
    "wraca": "300-04-11",
    "zamyka": "wolumen pierwszej partii na pismie; partia plynie z przedstawicielem ~05-15",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-11: wolumen na pismie (Marro/Hal, bez rzutu)"
   },
   {
    "data": "300-04-06",
@@ -3528,7 +3528,7 @@
    "kanal": "kruk Winterfell-Deepwood Motte (wylot 04-07)",
    "wraca": "300-04-11",
    "zamyka": "tak/nie Gloverow + pierwsze punkty ognia wskazane",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-11: TAK (59) - Robett trzyma lancuch pod pieczecia Galbarta"
   },
   {
    "data": "300-04-06",
@@ -3546,7 +3546,7 @@
    "kanal": "kruk Winterfell-Barrowton (lancuch maesterski)",
    "wraca": "300-04-11",
    "zamyka": "tak/nie lady Dustin",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-11: NIE w lancuchu (10) - lady Dustin pali wlasne ognie, nie melduje Robettowi"
   },
   {
    "data": "300-04-06",
@@ -3618,7 +3618,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-04-11",
    "zamyka": "list w rekach Melli; odpowiedz albo cisza",
-   "status": "otwarte - wyslany wieczornym krukiem 300-04-07"
+   "status": "zamkniete 300-04-11: ODPOWIEDZ (94) - zamknieta, do rak Aryi"
   },
   {
    "data": "300-04-07",
@@ -3627,7 +3627,7 @@
    "kanal": "kruk Winterfell-Barrowton (lancuch maesterski)",
    "wraca": "300-04-11",
    "zamyka": "list doreczony; odpowiedz albo cisza - obie sa odpowiedzia",
-   "status": "otwarte - wyslany wieczornym krukiem 300-04-07"
+   "status": "zamkniete 300-04-11: CISZA (54) - ptak z Barrowton przyniosl tylko odpowiedz dla Krola"
   },
   {
    "data": "300-04-07",

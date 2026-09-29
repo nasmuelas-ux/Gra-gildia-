@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 10,
+  "dzien": 11,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 67 (300-04-10) - jasno, mroz lagodny, w poludnie odwilz, kapie z dachow. Kruki leca.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 43 (300-04-11) - szaro, nisko, w nocy przymrozek na odwilzy: dziedzince w lodowej skorupie do poludnia, potem znow breja. Kruki leca.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 418,
+ "_dziennik_nota": 419,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
@@ -274,5 +274,6 @@
  "noc_300_04_06_koniec_dnia": "Dzien zamieci. Poczta o swicie: Aemon o wyborze (glosy: Mallister, Pyke, Marsh, Yarwyck; 'nikt nie zwola, dopoki bracia glodni'); list archiwalny milczy (22); Brynden tak (48) ~VI; Lyman: trzy miasta NIE LICZ/MARTWI/NIE LICZ. Trening w korytarzu; Arya w stajni; licznik walki 63. Terminarz budow (+Brenn, Tove). U Krola: Mur - ziarno, potem wybor (wyscig ze Stannisem); czesc V w porcie - brak zgody dla kupcow Stannisa; zelazni - piec dzwigni, najpierw lancuch ognia (Robett Glover, Torren na ogien; tytul nie teraz, 13); sprzedaz danin - zboze nie (17), niejadalne na otwarty targ; natura Winterfell tez, Korona w Wilku (46), Gawen - cztery pozycje pakietu monetarnego.",
  "noc_300_04_07_koniec_dnia": "Dzien po zamieci. Poczta wyszla o swicie (terminarz, Brenn/Tove, Torren/Theon, czesc V do Wymana, bursztyn, listy Krola do Gloverow/Dustin/Maege). Trening w sniegu, sparing z Arya (1 na 3); list Aryi do Melli. Sansa: Bolton przepuscil lady Dustin (ucho); list Sansy do lady Dustin; rejestr relacji - wewnetrzne notatki wladzy, bez zasad (pan). Bran laczy z rejestrem zamku.",
  "noc_300_04_08_koniec_dnia": "Dzien zwykly. Poczta: egzaminator - Halla od Tablic (los Luwina); karta Donnela (2 na wodzie, 3. czeka na lod; brakuje gwozdzi i okuc - Fosa robi); weksel z Dreadfortu 3 smoki 40 (Hal placi). Trening - laczenie, prawa reka na probe. Arya: znak z Harrenhal -> dopisek do Willi bez imienia; Krol wie. Ser Alyn: Zimowa Straz 14 plaszczy + 8 na probie; Fosa moze dac jednego.",
- "noc_300_04_09_koniec_dnia": "Dzien spokojny. Poczta: Mira (wstaje, Lyra - 'kon'), kareta - gotowa za 9, karty zywnosciowe Fosy (zboze ~95 dni, cala zywnosc ~140). Hodowla wegorzy i ryb blotnych w Cailin (Hakon, plan ~04-20). Trening na zmeczeniu, luk u Aryi. Sansa - karty rejestru: Dustin, Umber, Karstark, Bolton. Placowki Braavos i Pentos do bilansu (~05-05)."
+ "noc_300_04_09_koniec_dnia": "Dzien spokojny. Poczta: Mira (wstaje, Lyra - 'kon'), kareta - gotowa za 9, karty zywnosciowe Fosy (zboze ~95 dni, cala zywnosc ~140). Hodowla wegorzy i ryb blotnych w Cailin (Hakon, plan ~04-20). Trening na zmeczeniu, luk u Aryi. Sansa - karty rejestru: Dustin, Umber, Karstark, Bolton. Placowki Braavos i Pentos do bilansu (~05-05).",
+ "noc_300_04_10_koniec_dnia": "Dzien odwilzy. Krol: zboze z Dorzecza idzie Traktem Krolewskim (VOID mostu Blizniakow), odnoga Freyow = dlug Korony; frakcje Freyow; wsparcie linii Roslin - NIE (4), temat zamkniety, chlod zszedl. Trening - krotszy krok na blocie (10/20); luk u Aryi 2 z 3 (64). Sansa: karty Manderly i Glover (zaufanie + warunkowa obietnica tytulu po lecie). Bran: sny na czterech nogach, wolanie spod ziemi - sprobuje isc (noc 10/11). Biblioteka: ksiegi zimowe zamku; o Dzieciach i wargach nic nowego (26). Piec listow o Dzieciach i wargach (Bolton, Theomore, Riverrun, Wystan, Garrick)."
 }

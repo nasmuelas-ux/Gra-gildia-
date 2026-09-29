@@ -2887,7 +2887,7 @@
    "kanal": "decyzja pana, bez kanalu",
    "wraca": "bez daty - stoi, az pan wskaze",
    "zamyka": "trzeci adres nazwany",
-   "status": "OTWARTE ⚠ NIE WSTRZYMUJE ODPISOW - odpisy jada na Fose. To niedokonczone zdanie wlasnej zasady pana.",
+   "status": "ZAMKNIETE 300-04-02 - PAN WSKAZAL: RIVERRUN. Trzeci odpis Glebokorzenia idzie tam, gdzie trzeci odpis kroniki: jako zwykly ladunek Kompanii Polnoc-Dorzecze ('skarb sie kradnie, skrzynie ksiag nie'). Zasada trzech odpisow domknieta: Glebokorzen / Fosa / Riverrun.",
    "co": "TRZECIE MIEJSCE DLA ODPISOW - ZASADA PANA MOWI TRZY, NIE DWA. Kronika ma trzeci (RIVERRUN, decyzja 299-09-08: poza Polnoc, nie Cytadela, nie Mur; jechal jako ZWYKLY LADUNEK HANDLOWY Kompanii Polnoc-Dorzecze, bo 'skarb sie kradnie, skrzynie ksiag nie'). GLEBOKORZEN DOSTAL WLASNIE DRUGI. ### ⚠ I NOTA Z WLASNEJ KSIEGI PANA, NIEPODJETA: 'Hal, Willa, archiwum, papiernia, szkola, garnizon i teraz kancelaria skladania - WSZYSTKO NA FOSIE, W JEDNYM MIEJSCU. Obraz istnieje w DWOCH odpisach: Fosa i przy Symonie. ANI JEDNEGO WIECEJ.' Fosa - miejsce, do ktorego odpisy jada - jest NAJGESCIEJ UPAKOWANYM PUNKTEM LENNA. ### THEOMORE: 'Drugiego adresu mi nie trzeba dzis. Ale niech ktos go kiedys napisze, panie, bo ja tych dwoch ksiag na koncu deski nie odzyskam.'"
   },
   {
@@ -3255,7 +3255,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-05-15",
    "zamyka": "pomiar wykonany; ugoda albo wyrok",
-   "status": "otwarte",
+   "status": "otwarte - PISARZ DO POMIARU: Z REWIZJI (decyzja pana 300-04-02). Pierwsza robota nowego urzedu: wspolne przejscie pod dwie pieczecie (czlowiek Hornwoodu, czlowiek Dreadfortu), pisarz rewizji przy nich.",
    "sprawdzaj_co": 30
   },
   {

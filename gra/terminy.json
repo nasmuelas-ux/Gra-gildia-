@@ -3155,6 +3155,15 @@
    "wraca": "300-04-01",
    "zamyka": "stawka miesieczna wpisana do ksiegi Kasy 3",
    "status": "VOID 300-03-30 - nie ma czego wpisywac: koronnego garnizonu w Cailin nigdy nie bylo (wskazanie pana)."
+  },
+  {
+   "data": "300-03-30",
+   "co": "WYKUP WEKSLA Z DREADFORTU (299-10-20) W MONECIE - Roose przywiozl weksel na Rade i czeka na kwote od kantoru Domu. Symon przekazuje sprawe do kantoru. Weksel zostaje u Roose'a do zaplaty.",
+   "kto": "HAL (kantor Domu) -> ROOSE BOLTON",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-04-03",
+   "zamyka": "kwota podana, moneta zaplacona, weksel oddany i umorzony",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

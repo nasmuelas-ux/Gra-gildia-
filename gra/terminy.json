@@ -3493,6 +3493,24 @@
    "wraca": "300-06-10",
    "zamyka": "baszta pod dachem - albo nazwana data i przyczyna",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "TRAKT - ODNOGA POLUDNIOWA (Fosa -> Przesmyk -> most Blizniakow) ZMIERZONA W CALOSCI: odcinki z tyczka, kazdy z nazwiskiem i data, woda i miesiace, kosztorys. TYLKO POMIAR - do drugiej ratyfikacji (koniec VI/300) zadnej zaliczki ani dostawy na poczet. Meldunek co 7 dni w zbiorczym Garricka od 04-11.",
+   "kto": "BRENN Z BRODU",
+   "kanal": "meldunek zbiorczy Fosy (Garrick), kruk Winterfell-Fosa",
+   "wraca": "300-06-15",
+   "zamyka": "przebieg, lista odcinkow i kosztorys na stole przed ratyfikacja",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "TRAKT - ODNOGA NA SAMOTNE WZGORZA ZMIERZONA W CALOSCI: odcinki z tyczka, nazwisko i data, splawnosc. Meldunek co 7 dni w zbiorczym Garricka od 04-11.",
+   "kto": "TOVE ZE WZGORZ",
+   "kanal": "meldunek zbiorczy Fosy (Garrick), kruk Winterfell-Fosa",
+   "wraca": "300-06-15",
+   "zamyka": "przebieg, lista odcinkow i kosztorys na stole przed ratyfikacja",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

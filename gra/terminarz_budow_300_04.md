@@ -30,6 +30,11 @@ Rozkaz wychodzi krukiem **300-04-07** (dziś zamieć): Winterfell → Fosa (Garr
 | **GORĄCY PORT I BASZTA** | HARLON Z BRODU | — | lenno od 03-27 | co 7 dni | — do podania |
 | **TRANSPORT KAMIENIA** (Gorący Port → Fosa → dalej) | TORGIL WOŹNICA + pisarz | — | pierwszy transport = pomiar trasy; kolejność: przewłoka/grobla → baszta Przystani Wilka → Głębokorzeń | w meldunku 04-11 | pierwszy kamień na Fosie |
 
+| **TRAKT — ODNOGA POŁUDNIOWA** (Fosa → przez Przesmyk → most Bliźniaków) | BRENN Z BRODU (od 300-03-03) | — | do 300-04-06 **bez rubryk i bez meldunku** | co 7 dni: odcinki przejdzione z tyczką, każdy z nazwiskiem i datą; gdzie woda podchodzi i którego miesiąca | ⚠ **CAŁA ODNOGA ZMIERZONA DO MOSTU BLIŹNIAKÓW PRZED ~06-15** |
+| **TRAKT — ODNOGA NA SAMOTNE WZGÓRZA** | TOVE ZE WZGÓRZ (od 300-03-03) | — | do 300-04-06 **bez rubryk i bez meldunku** | co 7 dni, jak wyżej | ⚠ **CAŁA ODNOGA ZMIERZONA PRZED ~06-15** |
+
+**Odnogi traktu — granica prawna (traktat z Dorzeczem):** do drugiej ratyfikacji (koniec VI/300) wolno **mierzyć, liczyć, ogłaszać stawki — i nic ponadto**: żadnej zaliczki, żadnej dostawy na poczet. Dlatego checkpoint brzmi „zmierzone”, nie „zbudowane”: w dniu podpisu Edmure'a przebieg, lista odcinków i kosztorys leżą na stole i robota rusza następnego dnia. Freyowie — wykonawcy po ogłoszonej stawce; własna odnoga do własnego mostu za darmo, ani jednego przywileju ponadto; miarę i odbiór robi rachmistrz odbiorczy kancelarii. Gałąź do Riverrun — nazwisko daje Edmure.
+
 **Szkoła Fosy** (Mabel Siwa) zostaje przy swoim rytmie: co 30 dni.
 
 ---

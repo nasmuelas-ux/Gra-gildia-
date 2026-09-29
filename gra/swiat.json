@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 12,
+  "dzien": 13,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "przedswit",
  "sezon": "zima (300)",
  "pogoda": "RZUT 88 (300-04-12) - jasno, cieplo jak na te pore; wiosna na chwile: snieg schodzi z dachow strumieniami, dziedziniec suchnie do poludnia. Kruki leca.",
- "dzien_tygodnia_nr": 7,
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 470,
+ "_dziennik_nota": 472,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
@@ -276,5 +276,6 @@
  "noc_300_04_08_koniec_dnia": "Dzien zwykly. Poczta: egzaminator - Halla od Tablic (los Luwina); karta Donnela (2 na wodzie, 3. czeka na lod; brakuje gwozdzi i okuc - Fosa robi); weksel z Dreadfortu 3 smoki 40 (Hal placi). Trening - laczenie, prawa reka na probe. Arya: znak z Harrenhal -> dopisek do Willi bez imienia; Krol wie. Ser Alyn: Zimowa Straz 14 plaszczy + 8 na probie; Fosa moze dac jednego.",
  "noc_300_04_09_koniec_dnia": "Dzien spokojny. Poczta: Mira (wstaje, Lyra - 'kon'), kareta - gotowa za 9, karty zywnosciowe Fosy (zboze ~95 dni, cala zywnosc ~140). Hodowla wegorzy i ryb blotnych w Cailin (Hakon, plan ~04-20). Trening na zmeczeniu, luk u Aryi. Sansa - karty rejestru: Dustin, Umber, Karstark, Bolton. Placowki Braavos i Pentos do bilansu (~05-05).",
  "noc_300_04_10_koniec_dnia": "Dzien odwilzy. Krol: zboze z Dorzecza idzie Traktem Krolewskim (VOID mostu Blizniakow), odnoga Freyow = dlug Korony; frakcje Freyow; wsparcie linii Roslin - NIE (4), temat zamkniety, chlod zszedl. Trening - krotszy krok na blocie (10/20); luk u Aryi 2 z 3 (64). Sansa: karty Manderly i Glover (zaufanie + warunkowa obietnica tytulu po lecie). Bran: sny na czterech nogach, wolanie spod ziemi - sprobuje isc (noc 10/11). Biblioteka: ksiegi zimowe zamku; o Dzieciach i wargach nic nowego (26). Piec listow o Dzieciach i wargach (Bolton, Theomore, Riverrun, Wystan, Garrick).",
- "noc_300_04_11_koniec_dnia": "Dzien poczty. Gloverowie tak (59); lady Dustin - ognie wlasne, bez meldunku (10) - szew zamykany oczami Korony (Robett + Donnel); cisza dla Sansy (54); Mella odpisala Aryi (94); bursztyn ~15 sztuk na probe. Luwin konczy zalecenie (zdrowie 82->95). Trening na lodzie; luk 2/5 (53). Bran: sen (37) - zejscie w ciemnosc, Lato zawrocil; napar Luwina; list zamkniety do Howlanda Reeda. List do Miry. Krol: Catelyn zaproszona po ratyfikacji; Walder - wiadomosc w dniu porodu (pisze Perwyn). Sten - przyboczna cwiczy codziennie. Luwin o igrzyskach Polnocy. Sansa: nowa forma kart (chce/boi sie/z kim/najgorszy przypadek) - Dustin, Cerwyn; VOID Hornwood. Krol bierze rodzenstwo sam (78). List Symona do Catelyn o dzieciach."
+ "noc_300_04_11_koniec_dnia": "Dzien poczty. Gloverowie tak (59); lady Dustin - ognie wlasne, bez meldunku (10) - szew zamykany oczami Korony (Robett + Donnel); cisza dla Sansy (54); Mella odpisala Aryi (94); bursztyn ~15 sztuk na probe. Luwin konczy zalecenie (zdrowie 82->95). Trening na lodzie; luk 2/5 (53). Bran: sen (37) - zejscie w ciemnosc, Lato zawrocil; napar Luwina; list zamkniety do Howlanda Reeda. List do Miry. Krol: Catelyn zaproszona po ratyfikacji; Walder - wiadomosc w dniu porodu (pisze Perwyn). Sten - przyboczna cwiczy codziennie. Luwin o igrzyskach Polnocy. Sansa: nowa forma kart (chce/boi sie/z kim/najgorszy przypadek) - Dustin, Cerwyn; VOID Hornwood. Krol bierze rodzenstwo sam (78). List Symona do Catelyn o dzieciach.",
+ "noc_300_04_12_koniec_dnia": "Dzien cieply (88). Luk 4/5 (77) - Arya: 'dobrze'. Trening 14/20. Przyboczna zaczela cwiczenia, palki i krotkie wlocznie (kwit od Stena). Krol nie oddaje audiencji (23). Bran: Lato niespokojny; SPACER ZA LATEM DO KRYPT (76): trzeci poziom, szczelina w gruzie, zimny ciag, slady Kudlacza i buciki Rickona. HODOR ustalony (nosi Brana). Rickon: 'ja jestem nim' (69) - sni, ze jest Kudlaczem; obietnica krzyzykiem na kiju; tajemnica przed Krolem. Bran: pory snow (wolanie przed switem). Zamiar: krypty przed switem ze Stenem."
 }

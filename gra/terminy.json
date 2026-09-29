@@ -3619,6 +3619,24 @@
    "wraca": "300-04-11",
    "zamyka": "list w rekach Melli; odpowiedz albo cisza",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-07",
+   "co": "LIST SANSY STARK DO LADY BARBREY DUSTIN - podziekowanie za Willama, jako corka Eddarda, nie jako Korona; bez zadnej prosby. Robb wie przed wyslaniem.",
+   "kto": "SANSA -> BARBREY DUSTIN",
+   "kanal": "kruk Winterfell-Barrowton (lancuch maesterski)",
+   "wraca": "300-04-11",
+   "zamyka": "list doreczony; odpowiedz albo cisza - obie sa odpowiedzia",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-07",
+   "co": "REJESTR RELACJI KORONY Z DOMAMI (Sansa) - pierwszy przeglad: czternascie domow z Rady, po jednej karcie na dom, dlugi w obie strony; pierwszy wpis: dlug Starkow wobec Dustinow (Willam). Tresc dla Krola i Namiestnika.",
+   "kto": "SANSA STARK",
+   "kanal": "wlasny czlowiek w Winterfell",
+   "wraca": "300-04-30",
+   "zamyka": "czternascie kart na stole Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -3358,6 +3358,15 @@
    "wraca": "300-05-15",
    "zamyka": "egzaminator na miejscu, proby odebrane",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-04",
+   "co": "ODPIS REJESTRU FOSY DLA BRANA STARKA (rejestr zamku Fosy i rejestr miasta Cailin) - do porownania z rejestrami Winterfell. Rozkaz krukiem z pismem do Mabel Siwej; odpis traktem.",
+   "kto": "SYMON -> GARRICK (kancelaria Fosy) -> BRAN",
+   "kanal": "kruk Winterfell-Fosa (rozkaz) + trakt Fosa-Winterfell (odpis)",
+   "wraca": "300-04-15",
+   "zamyka": "odpis w rekach Brana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -893,7 +893,7 @@
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-04-06",
    "zamyka": "karta na stole",
-   "status": "w drodze - pisana dzis na miejscu (zasada 7); kruk Bialy Port-Fosa, Garrick przesyla do Winterfell. Dzis kruki nie leca (pogoda 19)."
+   "status": "PRZYSZLO 300-04-06 o swicie (przez Garricka; wlasny czlowiek, bez rzutu): pierwsza karta na osmiu rubrykach. Baszta dalej czeka na kamien z zewnatrz - kamien idzie DRUGI w kolejce (po przewloce/grobli). Nastepna karta 05-06."
   },
   {
    "data": "300-04-01",
@@ -911,7 +911,7 @@
    "kanal": "kruk Fosa-Bialy Port",
    "wraca": "300-04-06",
    "zamyka": "karta na stole",
-   "status": "w drodze - pisana dzis (zasada 7); kruk przez Fose, Garrick przesyla do Winterfell. Dzis kruki nie leca."
+   "status": "PRZYSZLO 300-04-06 o swicie (przez Garricka; wlasny czlowiek, bez rzutu): pierwsza karta na osmiu rubrykach. Siedmiu kopistow przy odpisach, godzina dziennie. Nastepna karta 05-06."
   },
   {
    "data": "300-03-07",
@@ -3429,6 +3429,69 @@
    "kanal": "kruk Winterfell-Bialy Port (wylot 300-04-07, zamiec)",
    "wraca": "300-04-11",
    "zamyka": "wolumen pierwszej partii na pismie; partia plynie z przedstawicielem ~05-15",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "TERMINARZ BUDOW - ROZKAZ WYCHODZI (gra/terminarz_budow_300_04.md): rytm staly (lenno co 7 dni zbiorczo przez Garricka; Korona karta 8 rubryk co 30 dni) + HARMONOGRAM WLASNY KAZDEGO URZEDU (etapy z datami). Kruk 04-07 (dzis zamiec).",
+   "kto": "SYMON -> GARRICK (rozsyla urzedom)",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-04-09",
+   "zamyka": "rozkaz na Fosie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt, mlyn, torfiarnie, etapy miasta, etap 0, Goracy Port, transport kamienia. Takze 'stoi'.",
+   "kto": "GARRICK (kancelaria Fosy)",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-04-13",
+   "zamyka": "meldunek na stole w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt, mlyn, torfiarnie, etapy miasta, etap 0, Goracy Port, transport kamienia. Takze 'stoi'. ⚑ W TYM HARMONOGRAMY WLASNE URZEDOW (etapy z datami).",
+   "kto": "GARRICK (kancelaria Fosy)",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-04-20",
+   "zamyka": "meldunek na stole w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt, mlyn, torfiarnie, etapy miasta, etap 0, Goracy Port, transport kamienia. Takze 'stoi'.",
+   "kto": "GARRICK (kancelaria Fosy)",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-04-27",
+   "zamyka": "meldunek na stole w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt, mlyn, torfiarnie, etapy miasta, etap 0, Goracy Port, transport kamienia. Takze 'stoi'.",
+   "kto": "GARRICK (kancelaria Fosy)",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-05-04",
+   "zamyka": "meldunek na stole w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "KARTA IV - VEMUND OD KOTWY + SIGRUN, STARKPORT - PIERWSZA KARTA OSMIU RUBRYK (do dzis bez rubryk). Plus: ktoredy ma isc nastepna karta (zasada 34). Checkpoint: przyczolek zdolny przyjac pierwsza lodz po sygnale Maege (~05-01).",
+   "kto": "VEMUND + SIGRUN -> SYMON",
+   "kanal": "jezdziec Fosa-Dustinport + przez Dustinport",
+   "wraca": "300-04-25",
+   "zamyka": "pierwsza karta na stole",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "⚠ BASZTA PRZYSTANI WILKA POD DACHEM PRZED PRZYJAZDEM BRYNDENA (~06-15) - akademia potrzebuje baszty. Kamien idzie DRUGI w kolejce (po przewloce/grobli). Bors podaje date w karcie 05-06; jesli kamien nie zdazy - mowi to wprost.",
+   "kto": "BORS + ORBELO/TORGIL (kamien)",
+   "kanal": "karta Borsa (kruk Bialy Port-Fosa, Garrick)",
+   "wraca": "300-06-10",
+   "zamyka": "baszta pod dachem - albo nazwana data i przyczyna",
    "status": "otwarte"
   }
  ],

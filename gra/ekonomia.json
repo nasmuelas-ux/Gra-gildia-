@@ -711,6 +711,14 @@
    "opis": "KUPON OBLIGACJI LENNA 15 z 15 - 8,5 proc. PROSTY od 800. Platny raz w roku, w rocznice emisji. Suma kuponow za caly okres: 1020.",
    "zrodlo": "emisja 300-04-01, warunki rozstrzygniete 300-03-18",
    "status": "zapada"
+  },
+  {
+   "data": "300-04-09",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -9,
+   "opis": "KARETA DLA RODZINY - gotowy kryty woz na plozach i kolach (kolodziej przy Schodach Zamkowych, Bialy Port). Oferta (a) Hala. Linia Domu w jednej sakwie pana.",
+   "zrodlo": "pismo Hala 300-04-09; decyzja pana 300-04-09",
+   "status": "zlecone - Hal placi przy odbiorze"
   }
  ],
  "_symulacje": {

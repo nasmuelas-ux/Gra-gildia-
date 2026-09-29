@@ -3411,7 +3411,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-04-09",
    "zamyka": "cena i termin od Hala (potem: kareta gotowa)",
-   "status": "PRZYSZLO 300-04-09 - Hal: (a) gotowa 9 smokow od reki, (b) nowa z piecykiem 12 smokow, 3 tygodnie; Hal radzi (a). CZEKA NA SLOWO PANA."
+   "status": "zrobione 300-04-09 - BIERZEMY GOTOWA (a), 9 smokow, Hal placi przy odbiorze; stoi w Bialym Porcie do slowa Rhony."
   },
   {
    "data": "300-04-06",
@@ -3645,6 +3645,15 @@
    "kanal": "kruk Winterfell-Fosa (rozkaz) + jezdziec/woz Fosa-Dustinport",
    "wraca": "300-04-21",
    "zamyka": "pierwsza partia w Dustinporcie, z kwitem i cena",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-09",
+   "co": "HODOWLA WEGORZY I RYB BLOTNYCH W CAILIN - plan: gdzie stawy, ile rak, co z komory wodnej od razu, pierwszy polow mlodych wegorzy (wiosenny ciag w gore rzek). Wegorza sie lowi mlodego i tuczy, nie rozmnaza. Laczy sie z pytaniem do krannogow o narybek.",
+   "kto": "SYMON -> GARRICK + WARRYN; merytorycznie HAKON OD JASZCZURA",
+   "kanal": "kruk Winterfell-Fosa; odpowiedz zbiorczym Garricka",
+   "wraca": "300-04-20",
+   "zamyka": "plan z miejscem, rekami i data pierwszego polowu",
    "status": "otwarte"
   }
  ],

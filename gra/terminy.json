@@ -3754,6 +3754,24 @@
    "wraca": "300-04-16",
    "zamyka": "odpowiedz Miry (rodzina, bez rzutu)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-11",
+   "co": "LIST KROLA DO CATELYN - zaproszenie do Winterfell do wnuka, PO drugiej ratyfikacji (koniec VI/300), nie zamiast niej.",
+   "kto": "KROL -> CATELYN (Riverrun)",
+   "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-12)",
+   "wraca": "300-04-23",
+   "zamyka": "odpowiedz Catelyn (tak/kiedy)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-11",
+   "co": "LIST DO WALDERA FREYA - WIADOMOSC O NARODZINACH + ZAPROSZENIE do Winterfell. Wychodzi W DNIU PORODU, nie wczesniej. Przedtem Krol pyta Roslin (moze pisze Perwyn).",
+   "kto": "KROL (albo PERWYN wg woli Roslin) -> WALDER FREY",
+   "kanal": "kruk Winterfell-Blizniaki (lancuch maesterski)",
+   "wraca": "dzien porodu + 9",
+   "zamyka": "odpowiedz Waldera / kogo przysle",
+   "status": "otwarte - spust: porod krolowej"
   }
  ],
  "_dopiski_300_03_18": [

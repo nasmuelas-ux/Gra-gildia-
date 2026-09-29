@@ -3285,6 +3285,15 @@
    "zamyka": "budowa ruszyla",
    "status": "otwarte",
    "sprawdzaj_co": 30
+  },
+  {
+   "data": "300-04-02",
+   "co": "DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu nic do rzeczy (brama niepotrzebna). LODZIE: MORMONTOW + WLASNE (eskadra Torrena z Dustinportu). Warunek natury: otwarta woda po odwilzy. Otwarte: prosba do Maege Mormont o lodzie (wyjezdza dzis); rozkaz dla Torrena; zapewnienie dla Mance'a.",
+   "kto": "SYMON",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-17",
+   "zamyka": "lodzie zebrane i droga uzgodniona z Mance'em",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

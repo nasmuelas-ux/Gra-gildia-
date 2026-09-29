@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 5,
+  "dzien": 6,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 44 (300-04-05) - szaro, lekki mroz, bez opadu. Kruki leca.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 23 (300-04-06) - wiatr z pn.-zach., snieg od poludnia, zamiec do wieczora. Kruki w drodze zdazyly o swicie; nowe nie wyleca do jutra.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 327,
+ "_dziennik_nota": 329,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
@@ -269,5 +269,6 @@
  "noc_300_04_01_koniec_dnia": "TRZECI DZIEN RADY I ZAMKNIECIE. Handel z poprawka 12:0:2 (Roose za). Umber wysle wlasna kolumne na Mur. Hornwood - VOID bledu, ma pana (lord Larence, zarzadza Donella). Spory na pismie u Rejestratora (dwie kartki). Zeznanie Karstarka (rzut 10): list odczytany, Roose wytlumaczyl ksiegami, sala przyjela - oba w protokole. Rada zamknieta. Uczta: Flintowie przy stole Krola, toast Umbera za Mur. Noc u Karstarka: straz Karholdu na marchii - sluzba Korony od 05-01. Namiestnik oglosil: kto ma sprawe, niech przyjdzie rano.",
  "noc_300_04_02_koniec_dnia": "DZIEN PO RADZIE. Interesanci: spory (Wdowia/Locke - pale po odwilzy; Hornwood/Dreadfort - pomiar z pisarzem rewizji) do Justycjariusza, mediacja najpierw. Bolton bierze obie przystanie (79). Wyman: prowizja z ksiegi do 04-30. Karstark bierze przystan na Ostatniej Rzece, budowa po siewach. Krol potwierdza straz Karholdu. MUR: droga dzikich przez Zatoke Lodu; warunki nadania (autonomia, walka z Innymi, bez najazdow); Maege: lodzie z zalogami + Wyspa Niedzwiedzia jako przystanek + znak sternikow (99). Torren zostaje. Przedstawiciel Domu do Reach z lista (towary + Atelier - Atelier jest w Domu, VOID bledu). Trzeci odpis Glebokorzenia -> Riverrun. List Lyessy odlozony.",
  "noc_300_04_03_koniec_dnia": "Dzien po Radzie, spokojny. Rano: interesanci (Tobin z kartkami, Bolton, Wyman), u Krola o Murze - droga 22 tysiecy przez Zatoke Lodu, nadanie warunkowe (autonomia, walka przeciw Innym, bez grabiezy sasiadow), Maege daje lodzie i Wyspe (99), Torren zostaje, przedstawiciel Domu do Highgarden z lista i Atelier. Trening u mistrza z Braavos ('stoi jak ksiegowy'). Arya pyta, kiedy Symon wraca na Fose. Bran: pierwszy tydzien dwoch czytelnikow dziala, rubryka stajni zlapana i poprawiona. Krol o Aryi (rzut 6): nie teraz - pisze do Catelyn, odpowiedz ~04-24; VOID: warunek o 'zbieraniu Starkow' byl slowami Symona z 299-09-14, nie Krola.",
- "noc_300_04_04_koniec_dnia": "Dzien spokojny, domowy. Aemon spozniony (3) - sprawdzenie 04-06. Sniadanie z rodzina (jaszczurolwy dla Rickona; zaproszenie Krola i krolowej na Fose bez daty). Luwin: Rickon liczy na karbach; szkola 26/40 domow, 31 dzieci (82); egzaminator z Fosy losem na ~05-15. Sansa: rubryka 'obozujacy pod murami' (straz bramy). Bran: odpis rejestru Fosy od Garricka ~04-15. Luwin zbadal Symona: bez choroby, wychudzenie, nadgarstek, zmeczenie zastarzale - tydzien zalecen. Spac przed polnoca."
+ "noc_300_04_04_koniec_dnia": "Dzien spokojny, domowy. Aemon spozniony (3) - sprawdzenie 04-06. Sniadanie z rodzina (jaszczurolwy dla Rickona; zaproszenie Krola i krolowej na Fose bez daty). Luwin: Rickon liczy na karbach; szkola 26/40 domow, 31 dzieci (82); egzaminator z Fosy losem na ~05-15. Sansa: rubryka 'obozujacy pod murami' (straz bramy). Bran: odpis rejestru Fosy od Garricka ~04-15. Luwin zbadal Symona: bez choroby, wychudzenie, nadgarstek, zmeczenie zastarzale - tydzien zalecen. Spac przed polnoca.",
+ "noc_300_04_05_koniec_dnia": "Dzien spokojny. Poczta: Osric VIII (Straz 524, Zatoka Lodu stoi), Nesta (ladownia tylko do Lannisportu; lupacz kamienia - Dom placi podroz), Mallister nie (16). Trening lewa reka; Arya: 'patrz na bark'. Krol: odbicie Harriona nie (16) - Willa ustala tylko, gdzie jest (~05-10). Listy do Miry i do Hala (kareta), ~04-09."
 }

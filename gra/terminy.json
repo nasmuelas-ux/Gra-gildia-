@@ -371,7 +371,7 @@
    "co": "AKADEMIA WOJSKOWA: data po Radzie, platnik Kasa 3, baszta w Przystani Wilka; pierwszy mistrz BRYNDEN TULLY, zapasowo zbrojmistrz Fosy",
    "kto": "Symon / Brynden",
    "zamyka": "odpowiedz Blackfisha",
-   "status": "otwarte - 300-03-30: ODPOWIEDZI NIE MA I WIADOMO DLACZEGO: 'wraca 300-03-30' bylo data Rady wpisana w zla rubryke, nie rachunkiem kanalu. List idzie tygodniami. Bez kosztu - akademia i tak ma date PO Radzie. Ogloszenie na Radzie bez zmian: mistrz Brynden, zapasowo zbrojmistrz Fosy.",
+   "status": "zrobione 300-04-06 - rzut 48/45: BRYNDEN TAK, z warunkami: przyjedzie 'z pierwsza woda' i gdy Catelyn powie, ze Riverrun go nie potrzebuje (~VI/300); zastepce wybiera sam na miejscu. Do tego czasu akademia ze zbrojmistrzem Fosy.",
    "kanal": "poczta Korony na poludnie przez Przesmyk (list wyszedl 300-03-02; 'tygodnie, nie dni')",
    "wraca": "~300-04-06"
   },
@@ -1671,7 +1671,7 @@
    "kanal": "przez Osrica (Mur)",
    "wraca": "300-04-06",
    "zamyka": "odpowiedz Aemona ALBO potwierdzenie, ze list doszedl i milczy",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-06 - rzut 22/50: doszedl (03-19) i milczy. Aemon ustnie przez Osrica: 'na takie pytanie odpowiada sie temu, kto podpisuje sie pod nim imieniem, a nie zwyczajem'."
   },
   {
    "data": "300-03-08",
@@ -2770,7 +2770,7 @@
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "~300-04-06",
    "zamyka": "trzy karty, trzy rubryki, bez wnioskow",
-   "status": "otwarte - NOWE"
+   "status": "zrobione 300-04-06 - Staw Dziewic: NIE LICZ (Mooton, przysiega Tronowi, zaloga z Zachodu); Solanki: MARTWI (rod wygasl, kasztelan, pol-odbudowa); Kamienny Sept: NIE LICZ (rada mieszczan, TAK kazdemu)."
   },
   {
    "data": "~300-04-05",
@@ -3099,7 +3099,7 @@
    "kanal": "kruk Winterfell-Czarny Zamek (lancuch maesterski)",
    "wraca": "300-04-06",
    "zamyka": "odpowiedz Aemona w wiezy Luwina - albo cisza odnotowana przy sprawdzeniu",
-   "status": "otwarte - 300-04-04 sprawdzone o swicie (rzut 3/50): NIE PRZYSZLO, klatka pusta; powod: wczorajsza pogoda (33), kruki opoznione. Nowe sprawdzenie 300-04-06."
+   "status": "zrobione 300-04-06 - odpowiedz Aemona: zwoluje kazdy brat; glosy: Mallister (Wieza Cieni), Pyke (Wsch. Straznica), Marsh (Szafarz), Yarwyck (Budowniczy); 'nikt nie zwola wyboru, dopoki bracia sa glodni'."
   },
   {
    "data": "300-03-29",
@@ -3411,6 +3411,15 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-04-09",
    "zamyka": "cena i termin od Hala (potem: kareta gotowa)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "BRYNDEN TULLY PRZYJEZDZA DO PRZYSTANI WILKA - pierwszy mistrz akademii. Warunki: 'z pierwsza woda' i slowo Catelyn, ze Riverrun go nie potrzebuje; zastepce wybiera sam na miejscu.",
+   "kto": "BRYNDEN TULLY",
+   "kanal": "poczta Korony na poludnie przez Przesmyk",
+   "wraca": "300-06-15",
+   "zamyka": "Brynden w baszcie Przystani Wilka - albo list z nowa data",
    "status": "otwarte"
   }
  ],

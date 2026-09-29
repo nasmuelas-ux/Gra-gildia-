@@ -3511,6 +3511,15 @@
    "wraca": "300-06-15",
    "zamyka": "przebieg, lista odcinkow i kosztorys na stole przed ratyfikacja",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "CZESC V PRAWA SPICHLERZA W PORCIE BIALEGO PORTU - EGZEKUCJA OD DNIA PISMA. Zboze/zywnosc powyzej progu tylko dla stojacych w Ksiedze Polnocy (Tobin Szala) albo ze zgoda Korony (imienna, liczba, data, slup). KUPCY STANNISA: ZGODY BRAK. Straz: zgoda stala tylko z pieczecia Szafarza. Meldunek: ile partii zatrzymano i czyje.",
+   "kto": "SYMON -> WYMAN (port) + GARTH (komora Fosy) + HERWIN (slup)",
+   "kanal": "kruk Winterfell-Bialy Port (wylot 04-07, zamiec)",
+   "wraca": "300-04-13",
+   "zamyka": "pierwszy meldunek z portu: egzekucja trwa, liczba zatrzymanych partii",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

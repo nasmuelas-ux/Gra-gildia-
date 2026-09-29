@@ -3181,7 +3181,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "wieczerza odbyta",
-   "status": "otwarte - idzie samo (zasada 7)"
+   "status": "w toku - wieczerza z Flintami wlaczona w UCZTE ZAMKNIECIA RADY: oboje Flintowie przy stole Krola."
   },
   {
    "data": "300-04-01",
@@ -3209,6 +3209,15 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-02",
    "zamyka": "tresc odczytana i wpisana na liste sadu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-01",
+   "co": "UCZTA ZAMKNIECIA WIELKIEJ RADY - Wielka Sala, wieczorem. Na podszept Namiestnika, Krol wydaje. Czternascie domow z pocztami. Oboje Flintowie przy stole Krola. Koszt: Kasa 3 (strawa z Korony wedle wezwania) - rachunek wypisze kasztelan, bez liczby z glowy.",
+   "kto": "KROL / KASZTELAN WINTERFELL",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-01",
+   "zamyka": "uczta odbyta; rachunek kasztelana w ksiedze Kasy 3",
    "status": "otwarte"
   }
  ],

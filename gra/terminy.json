@@ -3307,12 +3307,21 @@
   },
   {
    "data": "300-04-02",
-   "co": "PRZEDSTAWICIEL DOMU TALLY W REACH - rozkaz pana 300-04-02: najpierw ludzie, potem towar. OBSADA: HAL (od 300-01-26 obsadza filie sam). DROGA: statkiem Kompanii z Bialego Portu na poludnie (NIE krukiem przez Starmiasto - kanal znany Cytadeli). JAWNIE, pod znakiem Domu - nie 'cichy kantor', o ktory Olenna juz odpowiedziala. Siedziba: Hal wskaze miejsce (Highgarden to zamek, nie miasto).",
+   "co": "PRZEDSTAWICIEL DOMU TALLY W REACH - rozkaz pana 300-04-02: najpierw ludzie, potem towar. OBSADA: HAL (od 300-01-26 obsadza filie sam). DROGA: statkiem Kompanii z Bialego Portu na poludnie (NIE krukiem przez Starmiasto - kanal znany Cytadeli). JAWNIE, pod znakiem Domu - nie 'cichy kantor', o ktory Olenna juz odpowiedziala. Siedziba: Hal wskaze miejsce (Highgarden to zamek, nie miasto). ### 300-04-02: IDZIE Z LISTA PROPOZYCJI (rozkaz pana): (a) TOWARY POLNOCY - drewno okretowe, futra i skory fok, smola, sol z warzelni Domu (liste sklada Hal); (b) ATELIER TALLY - bizuteria (bursztyn, gagat, srebro, stal woronowana: Marro, Torghen), welin i atrament (Wat), tkaniny i ubrania Polnocy (Mira). ⚠ Atelier jest MIRY ('jej grunt, jej marka, jej pieczec; Dom pomaga nosic i liczyc, bez wtracania sie w rzemioslo') - jego pozycje ida na liste ZA JEJ SLOWEM.",
    "kto": "HAL -> czlowiek Domu",
    "kanal": "morze na poludnie (Reach, Highgarden)",
    "wraca": "~300-05-15",
    "zamyka": "przedstawiciel na miejscu i pierwszy meldunek",
    "status": "otwarte - rozkaz idzie krukiem do Hala"
+  },
+  {
+   "data": "300-04-02",
+   "co": "LIST DO MIRY - ATELIER TALLY NA LISTE DLA REACH (Olenna Tyrell). Symon pyta, czy i co z Atelier (bizuteria Marra i Torghena, welin Wata, jej tkaniny i ubrania) ma pojsc na liste propozycji przedstawiciela Domu w Reach. Atelier jest jej - decyduje ona.",
+   "kto": "SYMON -> MIRA",
+   "kanal": "kruk Fosa-Bialy Port",
+   "wraca": "300-04-06",
+   "zamyka": "slowo Miry: co z Atelier idzie na liste",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

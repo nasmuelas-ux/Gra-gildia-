@@ -2796,7 +2796,7 @@
    "kanal": "kantor Bialy Port",
    "wraca": "300-04-15",
    "zamyka": "Marro dostaje cel, wolumen i kanal sprzedazy - albo linia zostaje przy czterech jeleniach",
-   "status": "otwarte - NOWE",
+   "status": "CEL USTALONY 300-04-06 (pan): REACH, kanalem przedstawiciela Domu. Otwarte tylko: wolumen pierwszej partii (Marro + Hal) - osobna pozycja.",
    "co": "⚠ BURSZTYN: DRUGA POLOWA DIAGNOZY Z 299-08-23, KTOREJ NIKT NIE ZAMKNAL. Surowiec jest zalatwiony (korekta gracza 300-03-15). Zostaje BRAK MANDATU: CEL, WOLUMEN I KANAL SPRZEDAZY. Slowa z zapisu: 'linia bursztynowa odlozona w wojne SLUSZNIE, ale wojna skonczyla sie w MAJU i NIKT JEJ NIE ODWIESIL'. Zapis 298-09-12 dodaje druga przyczyne: ZLY SEZON NA LUKSUS - w wojne nikt nie kupuje cacek, a marka luksusowa to SLOW BUILD. ⚠ OD MAJA 299 JEST POKOJ, CZYLI DZIESIEC MIESIECY. I RZECZ, KTORA TRZYMA SIE ODDZIELNIE: [VOID 300-04-02: Atelier jest w Domu od 299-11-29 (wniesione przez Mire); rzemioslo zostaje przy Mirze i ludziach Atelier.]"
   },
   {
@@ -3420,6 +3420,15 @@
    "kanal": "poczta Korony na poludnie przez Przesmyk",
    "wraca": "300-06-15",
    "zamyka": "Brynden w baszcie Przystani Wilka - albo list z nowa data",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "BURSZTYN DO REACH - PIERWSZA PARTIA. Marro podaje, ile zrobi do wyplyniecia przedstawiciela; Hal - ile zabierze statek i ile na probe. Kwoty i ilosci z ich slowa, nie z glowy.",
+   "kto": "SYMON -> HAL + MARRO (Bialy Port)",
+   "kanal": "kruk Winterfell-Bialy Port (wylot 300-04-07, zamiec)",
+   "wraca": "300-04-11",
+   "zamyka": "wolumen pierwszej partii na pismie; partia plynie z przedstawicielem ~05-15",
    "status": "otwarte"
   }
  ],

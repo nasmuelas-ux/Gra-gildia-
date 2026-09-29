@@ -217,7 +217,7 @@
    "co": "FEVER polowa (a): ile tygodni rzeka stoi - kanal Warryna do krannogmenow + przewoznicy z brodu ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "WARRYN",
    "zamyka": "odpowiedz",
-   "status": "otwarte ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka. ### 300-04-09: sprawdzenie na Fosie dzis; wynik zbiorczym Garricka, w Winterfell 04-13.",
+   "status": "zamkniete 300-04-13: krannogowie wyszli (97) - rzeka wysoko 5-6 tyg. od odwilzy, potem opada w tydzien",
    "kanal": "poslaniec do Greywater Watch",
    "wraca": "300-04-13"
   },
@@ -226,7 +226,7 @@
    "co": "NARYBEK do stawow + ROSLINY JADALNE - tym samym jezdzcem co Fever ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "WARRYN",
    "zamyka": "odpowiedz",
-   "status": "otwarte ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka. ### 300-04-09: sprawdzenie na Fosie dzis; wynik zbiorczym Garricka, w Winterfell 04-13.",
+   "status": "zamkniete 300-04-13: narybek wegorzy + dwa korzenie jadalne przyniesione (97)",
    "kanal": "poslaniec do Greywater Watch",
    "wraca": "300-04-13"
   },
@@ -444,7 +444,7 @@
    "co": "LIST DO HOWLANDA REEDA. KANALU KRUCZEGO NIE MA - Greywater Watch PLYWA. Protokol: poslaniec jedzie na Przesmyk, staje w umowionym miejscu PRZY GROBLI i czeka, az krannogowie sami wyjda. MOZE DZIEN, MOZE DWA TYGODNIE - cisza tutaj NIE JEST cisza. ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "poslaniec przy grobli",
    "zamyka": "krannogowie wychodza ALBO spotkanie z Howlandem",
-   "status": "otwarte - bez zegara z natury kanalu ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka. ### 300-04-09: sprawdzenie na Fosie dzis; wynik zbiorczym Garricka, w Winterfell 04-13.",
+   "status": "zamkniete 300-04-13: PIERWSZY list wziety przez krannogow do rak Howlanda (97)",
    "kanal": "poslaniec do Greywater Watch",
    "wraca": "300-04-13"
   },
@@ -3447,7 +3447,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-04-13",
    "zamyka": "meldunek na stole w Winterfell",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-13: meldunek zbiorczy 1 na stole (mlyn stoi - kamien; Tove bez meldunku)"
   },
   {
    "data": "300-04-06",
@@ -3519,7 +3519,7 @@
    "kanal": "kruk Winterfell-Bialy Port (wylot 04-07, zamiec)",
    "wraca": "300-04-13",
    "zamyka": "pierwszy meldunek z portu: egzekucja trwa, liczba zatrzymanych partii",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-13: egzekucja trwa, 2 partie zatrzymane; DZIURA - odsprzedaz przez wpisanego kupca (21)"
   },
   {
    "data": "300-04-06",
@@ -3555,7 +3555,7 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (wylot 04-07)",
    "wraca": "300-04-13",
    "zamyka": "potwierdzenie Torrena i rozklad okretow wzgledem ognia",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-13: Torren potwierdza; 2 okrety gotowe, 3. na lod"
   },
   {
    "data": "300-04-06",
@@ -3742,8 +3742,8 @@
    "co": "LIST ZAMKNIETY DO HOWLANDA REEDA O BRANIE (warg? sny, wolanie spod zamku) - prosba o rade. Czeka przy grobli razem z pierwszym listem, az krannogowie wyjda.",
    "kto": "poslaniec przy grobli (przez Garricka)",
    "kanal": "kruk Winterfell-Fosa (wylot 04-12) + poslaniec do Greywater Watch",
-   "wraca": "300-04-27",
-   "zamyka": "krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni",
+   "wraca": "300-04-16",
+   "zamyka": "krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni ### 04-13: krannogowie wracaja do grobli ~04-16 - wtedy list o Branie idzie do nich.",
    "status": "otwarte - bez zegara z natury kanalu"
   },
   {
@@ -3798,7 +3798,7 @@
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-04-13",
    "zamyka": "kwit z cena w rekach Symona, wpis do ekonomii",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-13: zbrojmistrz bez pieniedzy - wymiana na dwa dni pracy przy zbrojach Zimowej Strazy"
   },
   {
    "data": "300-04-12",
@@ -3807,6 +3807,33 @@
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-04-14",
    "zamyka": "pomysl z Luwinem na stole",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-13",
+   "co": "CZESC V - DZIURA ODSPRZEDAZY: wpisany kupiec kupuje ponad prog i odsprzedaje statkowi spoza Ksiegi (braavoski, kurs na polnoc). Do rozstrzygniecia: jak zamknac.",
+   "kto": "SYMON / KROL",
+   "kanal": "decyzja",
+   "wraca": "300-04-14",
+   "zamyka": "rozstrzygniecie pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-13",
+   "co": "ODNOGA SAMOTNE WZGORZA - TOVE BEZ MELDUNKU w pierwszym zbiorczym; Garrick poslal poslanca.",
+   "kto": "GARRICK -> TOVE",
+   "kanal": "robota na miejscu (Fosa)",
+   "wraca": "300-04-20",
+   "zamyka": "meldunek Tove w zbiorczym 04-18 (w Winterfell 04-20)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-13",
+   "co": "MLYN W SLUZIE STOI - Kessel czeka na kamien mlynski. Skad kamien i kiedy.",
+   "kto": "WEYLIN + KESSEL",
+   "kanal": "robota na miejscu (Fosa)",
+   "wraca": "300-04-20",
+   "zamyka": "kamien mlynski wskazany z data",
    "status": "otwarte"
   }
  ],

@@ -178,9 +178,9 @@
    "co": "WIELKA RADA. 0. MUR - OTWIERA LICZBA WLASNA: CZTERY TYSIACE OSIEMSET Z KLANOW, potem 530 Strazy / 340 zdatnych, potem 22 tysiace za Murem. Aklamacja stoi na liczbie, ktorej krolestwo nigdy nie mialo, NIE na najgorszej. I. ZIEMIA BEZ PANA (pod glosy sama PROBA) - II. WODA - III. CHLEB + REWIZJA - IV. HANDEL - V. KARTA DLA STARKPORTU (piata rzecz, ktorej nikt sie nie spodziewa).",
    "kto": "Symon, Cerwyn, Wyman",
    "zamyka": "cztery glosowania i aklamacja",
-   "status": "otwarte",
+   "status": "w toku - dzien 1 odbyty 300-03-30 (0, I, II, III, ogloszenia); dzien 2: rewizja; dzien 3: Handel.",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "_propozycja_300_03_29": "PROPOZYCJA PANA 300-03-29: osadzic 22 tysiace NA CYPLU MORSKIEGO SMOKA zamiast na Darze. Cypel jest domena Korony (ustalenie 300-03-28), wiec nadanie wydaje KROL i nie potrzeba do niego ani Lorda Dowodcy, ani glosu lordow. Punkt 0 zostaje w kolumnie TO OGLOSZONO. Karty zaniesione do czternastu kwater nie mowia, GDZIE osadzic - nie trzeba ich poprawiac. Czeka na slowo Krola.",
    "_nadanie_krola_300_03_29": "KROL DAL SLOWO 300-03-29 RANO: 22 tysiace na CYPEL MORSKIEGO SMOKA, nadanie w domenie Korony. Bez rzutu (Krol - partner najglebszy, a przeszkoda byla tylko ustrojowa i zniknela). PODZIAL GLOSOW W PUNKCIE 0: liczby mowi Symon; NADANIE WYPOWIADA KROL SAM, swoimi ustami - tak jak imie Starkportu. Dar i Lord Dowodca wypadaja z punktu 0. Droga przez Mur albo przez Zatoke Lodu - sprawa po Radzie, ogloszenie jej nie rozstrzyga.",
    "_punkt_0_300_03_30": "WYKONANY. Rzut 37/40: nadanie Cypla oglosil Krol i stoi; aklamacji nie bylo - Umber nazwal Innych bajka. Glosowania II-IV przed sala."
@@ -208,7 +208,7 @@
    "co": "BRACTWO RZEMIOSLA WOLNEGO - miasto wykonuje statut",
    "kto": "miasto Cailin",
    "zamyka": "wykonanie",
-   "status": "otwarte",
+   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose).",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01"
   },
@@ -1323,7 +1323,7 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-04-01",
    "zamyka": "jeden murowany spichlerz z ksiega i zarzadca",
-   "status": "otwarte - NOWE"
+   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose)."
   },
   {
    "data": "300-03-04",
@@ -1642,7 +1642,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "dwa glosy w wiazce IV: przegroda, potem meldunek",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-03-30 - przegroda siewna weszla w Chlebie (klauzula 10: 'przegroda siewna nie idzie w obrot'), przyjety 11:2:1."
   },
   {
    "data": "300-03-07",
@@ -1856,7 +1856,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-31",
    "zamyka": "340 wykupione i umorzone, ksiega weksli zamknieta na zero",
-   "status": "otwarte"
+   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose)."
   },
   {
    "data": "300-03-31",
@@ -1865,7 +1865,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "plan wiosenny: ktore ramie dostaje ile z tego, co schodzi",
-   "status": "otwarte"
+   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose)."
   },
   {
    "data": "300-03-11",
@@ -1883,7 +1883,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-30",
    "zamyka": "Krol rozstrzyga, czyj to koszt",
-   "status": "ZAMKNIETE 300-03-30 - na wskazanie pana: KORONNEGO GARNIZONU W CAILIN NIE MA I NIGDY NIE BYLO (ani ludzi, ani liczby) - obciazenie z 03-11 VOID bez osadu. Na Fosie stoi wlasna druzyna domu (~50, Hendry) + Jastrzebie; to jest garnizon Fosy, 22/mies, na lennie. Czy Korona ma postawic wlasna straz przy koronnym skladzie w Cailin - otwarte, decyzja pana. ### ROZSTRZYGNIETE 300-03-30 PRZEZ PANA: STRAZ PRZY KORONNYM SKLADZIE W CAILIN WYSTAWIA DRUZYNA FOSY (Hendry). Korona nie stawia nikogo. Krol przyjal."
+   "status": "ZAMKNIETE 300-03-30 - koronny garnizon w Cailin VOID (nigdy nie istnial); garnizon Fosy 22/mies na lennie; straz przy koronnym skladzie wystawia druzyna Fosy."
   },
   {
    "data": "300-03-11",
@@ -2380,9 +2380,9 @@
    "co": "DREWNO POLNOCY - SPRZEDAZ ZORGANIZOWANA PRZEZ MISTRZA HANDLU. POZYCJA NA WIELKA RADE, WIAZKA V. Rozstrzygniecie gracza 300-03-12: nie sprzedaje sie prawa, sprzedaje sie DREWNO - ale nie tak, jak dzis, czyli kazdy lord osobno i po omacku. ### PIEC ZDAN, WSZYSTKIE Z NARZEDZI, KTORE JUZ STOJA: (1) LASY ZOSTAJA PRZY LORDACH I KORONIE. Nic nie przechodzi w cudze rece i na zadne dwadziescia lat. (2) CENA OGLOSZONA, NIE UZGODNIONA - ta sama zasada, co przy zbozu na slupie w Cailin. Dzis Braavijczyk i Pentoszyjczyk graja lordami przeciw sobie, bo kazdy lord zna tylko swoja cene. Jedna cena ogloszona PODNOSI CENE KAZDEMU, nie tylko temu, kto umie sie targowac. (3) MIARA JEDNA: sztuka sucha, spod pokladu - MIARA POLNOCNA z braavijskiej ksiegi miar, wag i probierstwa, wdrozona juz raz. Bez tego kupiec placi za spor, a nie za drewno. (4) JEDEN KANAL WYJSCIA: MISTRZ HANDLU W BIALYM PORCIE. Nie z przywileju, tylko z fizyki - DREWNO MOZNA LADOWAC WYLACZNIE PRZY WODZIE, a woda jest tam. (5) LORDOWIE DOSTAJA CENE, KORONA RUBRYKE, MISTRZ HANDLU PROWIZJE. ### ⚠ I TO DOPIERO CZYNI KARTE MISTRZA HANDLU CZYMS: przestaje byc zaszczytem, a staje sie URZEDEM Z TOWAREM. Wyman prosil, zeby dac mu ja przy wszystkich - teraz jest za co. ### RYZYKO NAZWANE OD RAZU: jeden kanal to waskie gardlo, a kto je trzyma, moze faworyzowac. Lekarstwo to te same trzy rzeczy, co wszedzie indziej: CENA OGLOSZONA · KSIEGA JAWNA · i Dom Handlowy Tally kupujacy NA TYCH SAMYCH WARUNKACH CO KAZDY INNY, bez miedziaka lepszych.",
    "kto": "SYMON -> RADA 300-03-30, wiazka V (HANDEL)",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "uchwala o sprzedazy drewna przez Mistrza Handlu: cena ogloszona, miara jedna, ksiega jawna",
-   "status": "otwarte"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-13",
@@ -2398,9 +2398,9 @@
    "co": "DREWNO I PRZYSTANIE - JEDNA POZYCJA, NIE DWIE. Wskazanie gracza 300-03-12. ### FIZYKA, KTORA TO SPINA: DREWNO LADUJE SIE WYLACZNIE PRZY WODZIE - osiemnascie wozow to jeden dzien Bialego Portu. Czyli KAZDA NOWA PRZYSTAN NA WLASCIWYM MORZU JEST DRUGIM KOMINEM TEJ SAMEJ HUTY, a Bialy Port przestaje byc waskim gardlem calej Polnocy. ### I ODWROTNIE, CO WAZNIEJSZE: DREWNO JEST PIENIADZEM, KTORY TE PRZYSTANIE ZBUDUJE. Przystan Wilka poszla na Korone 299-09-09 wlasnie po to, zeby nie stala za prywatne pieniadze urzednika - a Korona ma w monecie okolo 3500 rocznie i nie ma czym. ### SPRZEDAZ DREWNA JEST JEDYNYM ZNANYM DOCHODEM KORONY, KTORY NIE JEST DANINA. Nie trzeba go uchwalac przeciw lordom - lordowie na nim ZARABIAJA. ### CO TO ROBI Z KAZDYM Z PORTOW - BO DO DZIS ZADEN NIE MIAL NAPISANEGO, PO CO JEST: PRZYSTAN WILKA (Korona 1/2, Cerwyn 1/4, Manderly 1/4; Bors buduje, Norren trzyma ksiegi pomostu, GOSPODARZA BRAK) - lezy na Gornym Bialym Nozu, czyli NA WODZIE: to jest druga brama drewna, i to odpowiada takze na pytanie Wymana o gospodarza, bo gospodarzem jest ten, kto tam laduje. STARKPORT (Vemund przyczolek, Sigrun osada) - dostaje powod istnienia i robote dla osadnikow, zamiast byc samym przyczolkiem. UJSCIE - dok podpisywany jutro, koniec lancucha dwoch morz. ### ⚠ CZEGO NIE WOLNO POMYLIC I CZEGO NIE MA W ZAPISIE: KTORE MORZE. Do Braavos i Pentos plynie sie WSCHODNIM. Zachodni brzeg (Wilczy Las schodzacy do wody, Deepwood Motte, Kamienisty Brzeg, Cypel Morskiego Smoka) ma najwiecej drewna i NAJGORSZY KIERUNEK - tamtedy blizej do Zelaznych Wysp niz do Essos. PORT NA ZLYM MORZU NIE JEST BRAMA DREWNA. POLOZENIA STARKPORTU ZAPIS NIE PRZESADZA - to trzeba sprawdzic, ZANIM wpisze sie go do tej wiazki.",
    "kto": "SYMON -> RADA 300-03-30, wiazka V",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "drewno i przystanie ida na Rade jako jedna uchwala: cena, miara, ksiega, i porty jako punkty zaladunku",
-   "status": "otwarte"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-13",
@@ -2434,18 +2434,18 @@
    "co": "WSCHOD NIE MA PORTU - ZDANIE, KTORE ZAPIS NAZWAL DWA RAZY, I PRZYSTAN W KARHOLDZIE JAKO ODPOWIEDZ. ### TO NIE JEST POCIESZENIE DLA KARSTARKA ANI BLYSKOTKA DLA KUPCA - TO JEST DAR DLA DOMU WOJENNEGO: port w Karholdzie czyni Rickarda CZLOWIEKIEM, KTORY KARMI. ### FAKT, KTORY TO UZASADNIA I KTORY JEST GORSZY, NIZ WYGLADA: WSCHODNIA STRAZNICA NOCNEJ STRAZY JEST ZAOPATRYWANA MORZEM, A MORZE STANELO. Stary Zamek liczy zagle u ujscia rzeki od pokolen: cztery-piec miesiecznie przez cale lato i jesien, OSTATNI PRZESZEDL 299-10-23, OD TAMTEJ PORY ANI JEDEN. NIKT NA POLUDNIU NIE ZAUWAZYL TEGO PRZEZ TRZY MIESIACE. ### ⚠ ZAGROZENIE, KTORE IDZIE Z TYM DAREM: KARSTARK DOSTAJE WLADZE NAD SZLAKIEM MORSKIM DO WSCHODNIEJ STRAZNICY - czyli dokladnie te koncentracje, ktorej unikano, odbierajac mu akademie, tylko przeniesiona z ladu na wode. ### ROZWIAZANIE TA SAMA REKA CO PRZY AKADEMII: PORT JEST KOMORA (zasada 300-02-07) - waga, ksiega bramy, cena na slupie, prawo pisemnej odmowy, dwa odpisy, i liczba idaca do JEDNEGO rejestru. Kto trzyma port, nie trzyma ksiegi portu.",
    "kto": "SYMON + RICKARD KARSTARK",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "przystan w Karholdzie na Radzie, z komora w tej samej uchwale",
-   "status": "otwarte"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-13",
    "co": "PRZYSTANIE WSCHODU I DREWNO - TO SIE SPINA I DOPIERO TERAZ WIDAC, W CO. ### WSCHODNI BRZEG JEST WLASCIWYM MORZEM: stamtad plynie sie do Braavos i Pentos, a nie do Zelaznych Wysp. Wiec KAZDA PRZYSTAN WSCHODU JEST PUNKTEM ZALADUNKU DREWNA, a drewno jest jedynym dochodem Korony, ktory nie jest danina. ### TRZY RZECZY, KTORE OKAZALY SIE JEDNA: (1) PORT WSCHODNI na koncu przewloki - koniec lancucha dwoch morz, dzis bez nazwy i wlasciciela; (2) PRZYSTAN W KARHOLDZIE - bo wschod nie ma portu, a Wschodnia Straznica nie dostala zagla od 299-10-23; (3) PRZYSTAN WILKA na Gornym Bialym Nozu - juz stoi, ma budowniczego i ksiegi, nie ma gospodarza. ### KAZDA Z NICH OSOBNO JEST WYDATKIEM, KTOREGO KORONA NIE UDZWIGNIE. RAZEM SA JEDNYM PROGRAMEM, KTORY SAM SIEBIE PLACI: porty wypuszczaja drewno, drewno placi za porty. ### I TO JEST TO, Z CZYM SIE JEDZIE NA RADE - nie prosba o danine, tylko rachunek, w ktorym lordowie wschodu po raz pierwszy od roku cos DOSTAJA.",
    "kto": "SYMON -> RADA 300-03-30, wiazka V",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "jedna uchwala: porty wschodu, drewno, Mistrz Handlu, komora w kazdym porcie",
-   "status": "otwarte"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-13",
@@ -2479,18 +2479,18 @@
    "co": "PIEC PRZYSTANI LADUNKOWYCH NAD RZEKAMI WSCHODU - PLAN ISTNIEJE I JEST SPISANY, ODCZYTANY NA WSKAZANIE GRACZA 300-03-12. ### GDZIE - PIEC: BIALY NOZ (istnieje w zalazku; korytarz rzeczny ruszyl 298, Wyman wskazal zakole, gdzie barki ustepuja wozom) · OSTATNIA RZEKA (Karhold) · PLACZACA WODA (Dreadfort) · ZLAMANA GALAZ (Dreadfort) · ZATOKA FOK (ujscie przy Wdowiej Straznicy). ### CZYM JEST JEDNA PRZYSTAN - I DLATEGO TO JEST WYKONALNE: SZOPA Z DREWNIANA PODLOGA + SLUP Z OGLOSZONA CENA + KSIEGA BRAMY. Ciesla i sezon. 'NAJTANSZA POZYCJA REJESTRU PO SZOPIE Z PODLOGA.' ### DOKTRYNA ZIMY, SPISANA W 298 I NIETKNIETA: RZEKA ZAMARZA NA POL ROKU, WIEC KORYTARZ RZECZNY NIE JEST STRUMIENIEM - JEST POMPA. Napelnia przednie sklady, NIM LOD ODETNIE. Liczy sie nie 'ile rocznie', tylko ILE DO ZAMARZNIECIA. Przystan bezczynna od XII do III nie jest zmarnowana - JEST NALADOWANA. ### ⚠ CENA, KTORA SYMON NAZWAL GLOSNO SAM: DWIE Z TYCH RZEK SA DREADFORTU (Placzaca Woda, Zlamana Galaz), a Ostatnia Rzeka jest Karholdu. PRZYSTAN KORONY Z WAGA, KSIEGA I CZLOWIEKIEM KORONY JEST OBECNOSCIA - i Roose przeczyta to dokladnie tak. ### WARUNEK TWARDY I NIENEGOCJOWALNY, JEGO WLASNY: ALBO STAWIAMY JE NAD WSZYSTKIMI RZEKAMI I NAPRAWDE DLA LADUNKU, ALBO NIE STAWIAMY ZADNEJ. Jesli kiedykolwiek wyjdzie, ze przystan postawiono DLA OCZU, kazda waga Korony w krolestwie staje sie podejrzana tego samego dnia. ### 300-03-12 ROZKAZ GRACZA: MAMY JE ZBUDOWAC.",
    "kto": "SYMON -> RADA 300-03-30, wiazka V",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "piec przystani jako jedna uchwala, albo zadna",
-   "status": "otwarte - ROZKAZ GRACZA: BUDUJEMY"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-12",
    "co": "⚠ I DOPIERO TERAZ PIEC PRZYSTANI MA PO CO ISTNIEC - BO DO DZIS BYLY O WIDOCZNOSCI, A NIE O TOWARZE. Plan z 298 stawial je jako 'SCIEZKE A POSTAWIONA Z DESEK: miejsce, gdzie ksiega jest prawdziwa, powtorzone piec razy wzdluz wschodniego brzegu'. To byl argument o rubryce. ### OD 300-03-12 MAJA DRUGI, GRUBSZY POWOD: PIEC PRZYSTANI NA WSCHODNIM BRZEGU TO PIEC BRAM DREWNA, a drewno jest jedynym dochodem Korony, ktory nie jest danina. ### I TO ZMIENIA CALA ROZMOWE Z LORDAMI WSCHODU: dotad Korona przychodzila z WAGA I KSIEGA, czyli z kontrola. Teraz przychodzi z WAGA, KSIEGA I KUPCEM - a kupiec placi. Bolton i Karstark nie dostaja urzednika przy swojej rzece. DOSTAJA CENE ZA DRZEWO, KTORE JUZ MAJA, i urzednika przy okazji. To ta sama przystan i zupelnie inne zdanie.",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "przystanie i drewno wchodza na Rade jako jedno, nie jako kontrola osobno i handel osobno",
-   "status": "otwarte"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-20",
@@ -2506,9 +2506,9 @@
    "co": "BUDOWA PIECIU PRZYSTANI - I RZECZ, KTORA TRZEBA POWIEDZIEC OD RAZU: TO NIE JEST ROBOTA CIESLI, TYLKO ROBOTA ZGODY. Szopa z podloga to tydzien jednego ciesli. ALE TRZY Z PIECIU RZEK SA CUDZE: PLACZACA WODA i ZLAMANA GALAZ to DREADFORT, OSTATNIA RZEKA to KARHOLD. Na cudzej rzece nie stawia sie wagi Korony bez pana tej rzeki. ### PODZIAL KOSZTU, KTORY ROZWIAZUJE I PIENIADZ, I POLITYKE JEDNYM RUCHEM: LORD STAWIA SZOPE - to jego rzeka, jego ciesla, jego tydzien, i staje sie WLASCICIELEM, NIE GOSPODARZEM CUDZEGO URZEDU. KORONA DAJE WAGE, SLUP Z CENA, KSIEGE I CZLOWIEKA - i to jest cala droga pozycja, bo czlowiek to zold co miesiac, a szopa to jednorazowy tydzien. ### I DOPIERO TO CZYNI ZDANIE 'PRZYSTAN KORONY JEST OBECNOSCIA' ZNOSNYM: lord nie dostaje urzednika NA swojej ziemi - dostaje wage, ksiege i CENE ZA DRZEWO, ktore juz ma, a urzednik przychodzi z nimi. ### KOLEJNOSC WEDLE ZGODY, NIE WEDLE MAPY: (1) BIALY NOZ - istnieje w zalazku, Wyman wskazal zakole, a jutro i tak siadamy z nim do podpisu; (2) OSTATNIA RZEKA - Karhold dostaje przystan, wiec to ta sama rzecz, nie druga prosba; (3) ZATOKA FOK - Wdowia Straznica, dom maly i cienki (23 na 70 daniny); (4-5) PLACZACA WODA i ZLAMANA GALAZ - DREADFORT, i to jest brama calej sprawy. ### ⚠ BO WARUNEK JEST WLASNY I TWARDY: ALBO NAD WSZYSTKIMI, ALBO NAD ZADNA. Czyli caly plan pieciu przystani przechodzi przez zgode Roose'a Boltona - i nie da sie tego obejsc budujac cztery.",
    "kto": "SYMON -> RADA 300-03-30",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "piec zgod albo zadnej; podzial kosztu wpisany do uchwaly",
-   "status": "otwarte"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-13",
@@ -2533,18 +2533,18 @@
    "co": "PRZYSTANIE WSCHODU JAKO PROPOZYCJA, NIE PROSBA - ZMIANA FORMY, KTORA ZMIENIA CALA POZYCJE. Rozstrzygniecie gracza 300-03-12: 'nie bede o nic prosil'. ### CO SIE KLADZIE NA STOLE, TA SAMA TRESCIA DLA KAZDEGO: POSTAW SZOPE Z PODLOGA NAD SWOJA RZEKA. KORONA PRZYWIEZIE WAGE, SLUP Z OGLOSZONA CENA, KSIEGE I CZLOWIEKA. TWOJE DRZEWO DOSTANIE CENE, KTORA DZIS MA TYLKO TEN, KTO SIEDZI PRZY MORZU. ### DLACZEGO TO NIE JEST PROSBA: bo nie prosi sie o pozwolenie na zrobienie komus przysporzenia. Lord, ktory bierze, dostaje cene za drzewo, ktore juz ma. Lord, ktory nie bierze, NIE TRACI NIC POZA TYM, CZEGO I TAK NIE MIAL - i nikt go o nic nie prosil, wiec nie ma czego odmawiac. ### I TU ROZWIAZUJE SIE STARY WARUNEK 'ALBO NAD WSZYSTKIMI, ALBO NAD ZADNA'. Postawiono go dlatego, ze przystan TYLKO nad rzekami Dreadfortu bylaby nadzorem pod uprzejma nazwa. PRZY PROPOZYCJI ZLOZONEJ WSZYSTKIM NARAZ I TA SAMA TRESCIA WARUNEK JEST SPELNIONY Z GORY: rowna jest OFERTA, a nie przyjecie. Kto ja wezmie, to jego sprawa i jego rzeka. ### ⚠ I TO JEST JEDYNA POZYCJA NA TEJ RADZIE, PRZY KTOREJ NIKT NIC NIE ODDAJE. Wszystko inne, co tam idzie - przegroda siewna, podatek w ziarnie, pulap, klauzula V - jest ciezarem. Ta jedna jest ofiarowaniem.",
    "kto": "SYMON -> RADA 300-03-30, wiazka V",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "propozycja zlozona wszystkim piatu ta sama trescia; kto bierze, ten bierze",
-   "status": "otwarte"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-30",
    "co": "PROGRAM PRZYSTANI - POLICZONY OD NOWA PO WSKAZANIU GRACZA: CZTERY DO ZBUDOWANIA PLUS JEDNA, KTORA JUZ STOI. ### PIATA TO PRZYSTAN WILKA. Zakole na Bialym Nozu, 'tam, gdzie barki ustepuja wozom', to WEZEL NA GORNYM BIALYM NOZU - czyli dokladnie ona. Nie trzeba jej stawiac. ### CZTERY DO ZBUDOWANIA: OSTATNIA RZEKA (Karhold) · ZATOKA FOK (Wdowia Straznica) · PLACZACA WODA (Dreadfort) · ZLAMANA GALAZ (Dreadfort). ### I TO ROZWIAZUJE TRZY RZECZY NARAZ, KTORE DOTAD STALY OSOBNO: (1) PRZYSTAN WILKA DOSTAJE POWOD ISTNIENIA. Budowala sie od miesiecy jako port bez napisanego celu; od dzis jest GLOWA ZEGLUGI BIALEGO NOZA i pierwsza brama drewna. (2) JEJ BRAKUJACY GOSPODARZ JEST ODPOWIEDZIA SAM: gospodarzem jest ten, kto laduje. (3) APARAT JUZ TAM STOI I NIE TRZEBA GO WYMYSLAC: BORS buduje kamien, NORREN SCISLY prowadzi KSIEGE POMOSTU od 300-03-03 i NIE STOI POD BORSEM. Ksiega pomostu JEST ta ksiega bramy, ktorej plan z 298 wymaga od kazdej przystani. ### ⚠ I RZECZ, KTOREJ NIE WOLNO POMYLIC NA RADZIE: PRZYSTAN WILKA NIE STOI NA PROPONOWANYCH WARUNKACH. Jest fundacja wspolna (Korona 1/2, Cerwyn 1/4, Manderly 1/4), a nie szopa postawiona przez pana rzeki. Wiec jest DOWODEM, ZE RZECZ DZIALA - nie dowodem, ze warunki dzialaja. Kto to pomyli przy stole, dostanie pytanie, na ktore nie ma dobrej odpowiedzi.",
    "kto": "SYMON -> RADA 300-03-30, wiazka V",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "cztery propozycje zlozone, piata pokazana jako stojaca",
-   "status": "otwarte"
+   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
   },
   {
    "data": "300-03-17 - kolejna proba",
@@ -2761,7 +2761,7 @@
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "300-04-01",
    "zamyka": "slowo Mallistera i czlowiek na miejscu",
-   "status": "otwarte - NOWE"
+   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose)."
   },
   {
    "data": "~300-04-06",
@@ -3125,9 +3125,9 @@
    "co": "ZEZNANIE RICKARDA KARSTARKA PRZY SWIADKACH - jego wlasne slowo z 299-10-31: 'Przyjade wiosna na Wielka Rade. ZAPYTAJCIE MNIE TAM JESZCZE RAZ. W Winterfell, przy swiadkach, kiedy bedzie sie liczylo prawo. Wtedy odpowiem na wszystko - i PRZYWIOZE TEN LIST.' Temat: staly zakaz przekraczania marchii od osmiu lat, dwoch ludzi, ktorzy nie wrocili z poscigu za kopce, list z Dreadfortu 'za dobry'. WARUNEK: Symon MUSI ZAPYTAC PONOWNIE - Karstark sam nie zacznie. PRZED SALA: kartka o dwoch kolumnach (zamkniete przez Korone: Harrion na liscie jencow 03-02 - Zelazny Tron tylko pokwitowal; zaleglosc 12 smokow w ziarnie - decyzja Gawena, niezapisana jako podjeta | otwarte u niego: zeznanie). W ZANADRZU, DOPIERO PO ZEZNANIU: straz marchii jako sluzba Korony. ⚠ Luka kalendarza: pozycja nie miala wpisu w terminach - dopisana 300-03-29.",
    "kto": "SYMON -> RICKARD KARSTARK",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-03-30",
+   "wraca": "300-04-01",
    "zamyka": "pytanie zadane przy swiadkach i odpowiedz Karstarka (albo odmowa) zapisana",
-   "status": "otwarte - PYTANIE WSTRZYMANE PRZEZ PANA 300-03-30 przed wypowiedzeniem. Rzut tej sprawy juz padl (rzuty.log) i rozstrzygnie ja, gdy pytanie padnie (zasada 27)."
+   "status": "w toku - pytanie wstrzymane przez pana 300-03-30; Karstark obiecal odpowiedz 'na Radzie' - Rada trwa do 300-04-01. Rzut sprawy lezy (zasada 27)."
   },
   {
    "data": "300-03-30",

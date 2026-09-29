@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 3,
-  "dzien": 30,
+  "dzien": 31,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 18 (300-03-30) - zly dzien: niski pulap, mokry snieg z deszczem od rana, wiatr porywisty z zachodu. Trakty grzaskie, kruki leca z opoznieniem. Pod dachem nic nie przeszkadza - Rada obraduje w sali.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 24 (300-03-31) - dzien slaby: mokry snieg przeszedl w nocy w mroz, dziedzince oblodzone, niebo niskie i szare. Kruki leca, ale z opoznieniem. Rada pod dachem - bez wplywu.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 253,
+ "_dziennik_nota": 254,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
@@ -261,7 +261,8 @@
  "noc_300_03_10_koniec_dnia": "Szosty dzien. Hal na trakcie z wiadomoscia. Dziecko nie zyje, Mira zyje.",
  "noc_300_03_11_koniec_dnia": "Przyjazd do Bialego Portu. Mira: goraczka od trzeciego dnia, nierozstrzygniete. Poczta odczytana: Krol przyjmuje rozdzielenie krzesla (41), podpis pod zgoda z data waznosci, Beron nie dal rady (7), sklad w Cailin przyznany a garnizon z zoldem na lennie (65), o Ilariu ani tak ani nie (28). Bilans Hala odczytany z zapisu, weksle IDA NA WYKUP. Ustalona EKONOMIA_BAZA i zasada 43.",
  "noc_300_03_12_koniec_dnia": "Dzien drugi w Bialym Porcie, dlugi. U WYMANA: przewloka - podpisujemy STAWKE I METODE, nie liczbe; trzecia reka TOMMARD KOSA; PORT WSCHODNI WSPOLNY, nazwa UJSCIE TALLY-MANDERLY; przewloke finansuje Dom bezzwrotnym zasileniem Kasy 2, myto zostaje lennu; udzial nie w drewnie, tylko W BEDNARNI; kolebka Glebokorzenia na OBIE izby; czesc V Prawa Spichlerza bedzie egzekwowal Bialy Port i Wyman prosi, zeby zrobic go tym, kto to wykonuje; karta Mistrza Handlu jednym aktem z karta standardow, na Radzie. DAVOS: Symon mowi mu wprost, Wyman ma oslone. U MEDRICKA: Pentos ma dach i nie mial czlowieka; Lorren odrzucony (rzut 5, 'ten, co chodzi wszedzie'), zostaje w Bialym Porcie; OBARO wskazany przez Medricka (67) i wziety przez Hala, wprowadzenie Medricka NA PISMIE, ksiega Pentos idzie do kantoru Nesty. Placowki: Braavos i Pentos otwarte, Highgarden na spust 03-17, Gulltown swiadomie nie. DREWNO: nie sprzedajemy prawa - krolestwo sprzedaje drewno zorganizowanie przez Mistrza Handlu; cena ogloszona, Miara Polnocna, ksiega jawna. PRZYSTANIE WSCHODU jako PROPOZYCJA, nie prosba - cztery do zbudowania plus Przystan Wilka, ktora juz stoi i okazala sie zakolem z planu z 298.",
- "_miejsce_symona": "WINTERFELL. DZIS 300-03-30: WIELKA RADA.",
+ "_miejsce_symona": "WINTERFELL. DZIS 300-03-31: DRUGI DZIEN WIELKIEJ RADY (rewizja - osobne glosowanie).",
  "noc_300_03_28_koniec_dnia": "Dzien w Winterfell przed radami, dlugi. Piec przeterminowanych rozstrzygnietych; kadry z Braavos na warunkach Nesty; nie ma ziemi bez pana; czternascie kart do kwater; Roose wprost - Ramsay nie przyjedzie; KOLUMNA Z ZIARNEM NA CZARNY ZAMEK ruszyla (Orin Waga, Thell Sito); krolowa Roslin, Rickon, Sansa (drugi czytelnik rejestru), Arya (droga do Fosy otwarta, jesli chce i Krol pozwoli); forma (c) - pismo notarialne do Starego Zamku; Luwin o Murze bez Lorda Dowodcy i LIST LUWINA DO AEMONA lancuchem maesterskim, ptak o swicie.",
- "noc_300_03_29_koniec_dnia": "Dzien przed Rada. Theon wyznaczyl dzien (15.) i cztery rubryki. Krol dal nadanie: 22 tysiace na Cypel Morskiego Smoka, sam je oglosi. Klauzula dziesiata w pieciu zdaniach, watpliwosc na korzysc Korony. Rejestrator: przedluzenie do 04-07, nazwisko 30-go wieczorem. Rada trzech: Bors stoi, termin Wymana dotrzymany. Tommard do lenna na rok. Karta cechow VOID. Gawen bierze zaleglosc Karholdu w ziarnie; Karstark pytany na sali. Boltonowie: obserwujemy. Czternascie domow na miejscu. U lady Dustin i u Gloverow."
+ "noc_300_03_29_koniec_dnia": "Dzien przed Rada. Theon wyznaczyl dzien (15.) i cztery rubryki. Krol dal nadanie: 22 tysiace na Cypel Morskiego Smoka, sam je oglosi. Klauzula dziesiata w pieciu zdaniach, watpliwosc na korzysc Korony. Rejestrator: przedluzenie do 04-07, nazwisko 30-go wieczorem. Rada trzech: Bors stoi, termin Wymana dotrzymany. Tommard do lenna na rok. Karta cechow VOID. Gawen bierze zaleglosc Karholdu w ziarnie; Karstark pytany na sali. Boltonowie: obserwujemy. Czternascie domow na miejscu. U lady Dustin i u Gloverow.",
+ "noc_300_03_30_koniec_dnia": "PIERWSZY DZIEN RADY. Punkt 0: nadanie Cypla stoi (37/40), meldunek Strazy w protokole, bez aklamacji, Umber: 'bajki'. I ogloszony. II WODA 13:0:1 (92). III CHLEB 11:2:1 (53/55), rewizja wydzielona na jutro na wniosek Ryswella. IV HANDEL odeslany do poprawki 8:5:1 (38/50) - Glover: kto oglasza cene drewna. Ogloszenia: Starkport z imieniem od Krola, Rejestrator 200 dni, karta Mistrza Handlu, akademia. Stannis jako fakt. Pytanie do Karstarka wstrzymane (rzut 10 lezy przy sprawie). WIECZOR U KROLA: Rejestrator Tobin Szala; Ucho Korony obsadzone (akta ukryte); koronny garnizon w Cailin VOID - nigdy nie istnial; straz przy koronnym skladzie wystawia druzyna Fosy. U Boltona: weksel do kantoru; o przystaniach - odpowie trzeciego dnia. U Karstarka: slowo o Harrionie dotrzymane; PRZYSIEGA: bede probowal odzyskac Harriona."
 }

@@ -3181,7 +3181,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "wieczerza odbyta",
-   "status": "w toku - wieczerza z Flintami wlaczona w UCZTE ZAMKNIECIA RADY: oboje Flintowie przy stole Krola."
+   "status": "ZAMKNIETE 300-04-01 - uczta odbyta; Flintowie przy stole Krola. Rachunek kasztelana do Kasy 3."
   },
   {
    "data": "300-04-01",
@@ -3218,7 +3218,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "uczta odbyta; rachunek kasztelana w ksiedze Kasy 3",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-04-01 - uczta odbyta; Flintowie przy stole Krola. Rachunek kasztelana do Kasy 3."
   }
  ],
  "_dopiski_300_03_18": [

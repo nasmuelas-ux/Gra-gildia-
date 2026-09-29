@@ -5,7 +5,7 @@
   "dzien": 1,
   "era": "AC"
  },
- "pora": "ranek",
+ "pora": "wieczor",
  "sezon": "zima (300)",
  "pogoda": "RZUT 19 (300-04-01) - zly dzien: wiatr z polnocy, suchy snieg sypany poziomo, mroz mocniejszy niz wczoraj. Kruki nie leca. Trakty zawiewane. Rada pod dachem - bez wplywu.",
  "dzien_tygodnia_nr": 3,
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 276,
+ "_dziennik_nota": 277,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

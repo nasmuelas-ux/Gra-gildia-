@@ -3275,6 +3275,16 @@
    "wraca": "300-04-30",
    "zamyka": "prowizja ogloszona na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-02",
+   "co": "PRZYSTAN NA OSTATNIEJ RZECE (KARHOLD) - KARSTARK PRZYJAL (rzut 26/25). Trzy klucze: czlowiek Karholdu przy wadze, pisarz Korony przy ksiedze. Cel: zaopatrzenie Wschodniej Straznicy, gdy morze stoi. KOSZT: budowa dopiero PO SIEWACH (malo rak).",
+   "kto": "KARSTARK + Mistrz Handlu / Korona",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-06-15",
+   "zamyka": "budowa ruszyla",
+   "status": "otwarte",
+   "sprawdzaj_co": 30
   }
  ],
  "_dopiski_300_03_18": [

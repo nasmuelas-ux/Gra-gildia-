@@ -3736,6 +3736,15 @@
    "wraca": "300-05-08",
    "zamyka": "rubryka 'ogien Barrowlandow' w karcie 05-08",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-11",
+   "co": "LIST ZAMKNIETY DO HOWLANDA REEDA O BRANIE (warg? sny, wolanie spod zamku) - prosba o rade. Czeka przy grobli razem z pierwszym listem, az krannogowie wyjda.",
+   "kto": "poslaniec przy grobli (przez Garricka)",
+   "kanal": "kruk Winterfell-Fosa (wylot 04-12) + poslaniec do Greywater Watch",
+   "wraca": "300-04-27",
+   "zamyka": "krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni",
+   "status": "otwarte - bez zegara z natury kanalu"
   }
  ],
  "_dopiski_300_03_18": [

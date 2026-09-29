@@ -178,7 +178,7 @@
    "co": "WIELKA RADA. 0. MUR - OTWIERA LICZBA WLASNA: CZTERY TYSIACE OSIEMSET Z KLANOW, potem 530 Strazy / 340 zdatnych, potem 22 tysiace za Murem. Aklamacja stoi na liczbie, ktorej krolestwo nigdy nie mialo, NIE na najgorszej. I. ZIEMIA BEZ PANA (pod glosy sama PROBA) - II. WODA - III. CHLEB + REWIZJA - IV. HANDEL - V. KARTA DLA STARKPORTU (piata rzecz, ktorej nikt sie nie spodziewa).",
    "kto": "Symon, Cerwyn, Wyman",
    "zamyka": "cztery glosowania i aklamacja",
-   "status": "w toku - dzien 1 odbyty 300-03-30 (0, I, II, III, ogloszenia); dzien 2: rewizja; dzien 3: Handel.",
+   "status": "ZAMKNIETE 300-04-01 - Rada: punkt 0 (nadanie Cypla, bez aklamacji), I ogloszony, II Woda 13:0:1, III Chleb 11:2:1, Rewizja 11:1:2, IV Handel 12:0:2, ogloszenia wykonane. Wszystkie cztery glosowania przeszly.",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "_propozycja_300_03_29": "PROPOZYCJA PANA 300-03-29: osadzic 22 tysiace NA CYPLU MORSKIEGO SMOKA zamiast na Darze. Cypel jest domena Korony (ustalenie 300-03-28), wiec nadanie wydaje KROL i nie potrzeba do niego ani Lorda Dowodcy, ani glosu lordow. Punkt 0 zostaje w kolumnie TO OGLOSZONO. Karty zaniesione do czternastu kwater nie mowia, GDZIE osadzic - nie trzeba ich poprawiac. Czeka na slowo Krola.",
@@ -2382,7 +2382,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "uchwala o sprzedazy drewna przez Mistrza Handlu: cena ogloszona, miara jedna, ksiega jawna",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "ZAMKNIETE 300-04-01 - Handel z poprawka przyjety 12:0:2; drewno i przystanie jedna uchwala."
   },
   {
    "data": "300-03-13",
@@ -2400,7 +2400,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "drewno i przystanie ida na Rade jako jedna uchwala: cena, miara, ksiega, i porty jako punkty zaladunku",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "ZAMKNIETE 300-04-01 - Handel z poprawka przyjety 12:0:2; drewno i przystanie jedna uchwala."
   },
   {
    "data": "300-03-13",
@@ -2434,9 +2434,9 @@
    "co": "WSCHOD NIE MA PORTU - ZDANIE, KTORE ZAPIS NAZWAL DWA RAZY, I PRZYSTAN W KARHOLDZIE JAKO ODPOWIEDZ. ### TO NIE JEST POCIESZENIE DLA KARSTARKA ANI BLYSKOTKA DLA KUPCA - TO JEST DAR DLA DOMU WOJENNEGO: port w Karholdzie czyni Rickarda CZLOWIEKIEM, KTORY KARMI. ### FAKT, KTORY TO UZASADNIA I KTORY JEST GORSZY, NIZ WYGLADA: WSCHODNIA STRAZNICA NOCNEJ STRAZY JEST ZAOPATRYWANA MORZEM, A MORZE STANELO. Stary Zamek liczy zagle u ujscia rzeki od pokolen: cztery-piec miesiecznie przez cale lato i jesien, OSTATNI PRZESZEDL 299-10-23, OD TAMTEJ PORY ANI JEDEN. NIKT NA POLUDNIU NIE ZAUWAZYL TEGO PRZEZ TRZY MIESIACE. ### ⚠ ZAGROZENIE, KTORE IDZIE Z TYM DAREM: KARSTARK DOSTAJE WLADZE NAD SZLAKIEM MORSKIM DO WSCHODNIEJ STRAZNICY - czyli dokladnie te koncentracje, ktorej unikano, odbierajac mu akademie, tylko przeniesiona z ladu na wode. ### ROZWIAZANIE TA SAMA REKA CO PRZY AKADEMII: PORT JEST KOMORA (zasada 300-02-07) - waga, ksiega bramy, cena na slupie, prawo pisemnej odmowy, dwa odpisy, i liczba idaca do JEDNEGO rejestru. Kto trzyma port, nie trzyma ksiegi portu.",
    "kto": "SYMON + RICKARD KARSTARK",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-04-01",
+   "wraca": "300-04-30",
    "zamyka": "przystan w Karholdzie na Radzie, z komora w tej samej uchwale",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "uchwala przyjeta 300-04-01 (12:0:2). Otwarte: kto bierze przystan na swojej rzece - kazdy pan osobno (Karstark: Ostatnia Rzeka; Bolton: Placzaca Woda, Zlamana Galaz)."
   },
   {
    "data": "300-03-13",
@@ -2445,7 +2445,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "jedna uchwala: porty wschodu, drewno, Mistrz Handlu, komora w kazdym porcie",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "ZAMKNIETE 300-04-01 - Handel z poprawka przyjety 12:0:2; drewno i przystanie jedna uchwala."
   },
   {
    "data": "300-03-13",
@@ -2479,9 +2479,9 @@
    "co": "PIEC PRZYSTANI LADUNKOWYCH NAD RZEKAMI WSCHODU - PLAN ISTNIEJE I JEST SPISANY, ODCZYTANY NA WSKAZANIE GRACZA 300-03-12. ### GDZIE - PIEC: BIALY NOZ (istnieje w zalazku; korytarz rzeczny ruszyl 298, Wyman wskazal zakole, gdzie barki ustepuja wozom) · OSTATNIA RZEKA (Karhold) · PLACZACA WODA (Dreadfort) · ZLAMANA GALAZ (Dreadfort) · ZATOKA FOK (ujscie przy Wdowiej Straznicy). ### CZYM JEST JEDNA PRZYSTAN - I DLATEGO TO JEST WYKONALNE: SZOPA Z DREWNIANA PODLOGA + SLUP Z OGLOSZONA CENA + KSIEGA BRAMY. Ciesla i sezon. 'NAJTANSZA POZYCJA REJESTRU PO SZOPIE Z PODLOGA.' ### DOKTRYNA ZIMY, SPISANA W 298 I NIETKNIETA: RZEKA ZAMARZA NA POL ROKU, WIEC KORYTARZ RZECZNY NIE JEST STRUMIENIEM - JEST POMPA. Napelnia przednie sklady, NIM LOD ODETNIE. Liczy sie nie 'ile rocznie', tylko ILE DO ZAMARZNIECIA. Przystan bezczynna od XII do III nie jest zmarnowana - JEST NALADOWANA. ### ⚠ CENA, KTORA SYMON NAZWAL GLOSNO SAM: DWIE Z TYCH RZEK SA DREADFORTU (Placzaca Woda, Zlamana Galaz), a Ostatnia Rzeka jest Karholdu. PRZYSTAN KORONY Z WAGA, KSIEGA I CZLOWIEKIEM KORONY JEST OBECNOSCIA - i Roose przeczyta to dokladnie tak. ### WARUNEK TWARDY I NIENEGOCJOWALNY, JEGO WLASNY: ALBO STAWIAMY JE NAD WSZYSTKIMI RZEKAMI I NAPRAWDE DLA LADUNKU, ALBO NIE STAWIAMY ZADNEJ. Jesli kiedykolwiek wyjdzie, ze przystan postawiono DLA OCZU, kazda waga Korony w krolestwie staje sie podejrzana tego samego dnia. ### 300-03-12 ROZKAZ GRACZA: MAMY JE ZBUDOWAC.",
    "kto": "SYMON -> RADA 300-03-30, wiazka V",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-04-01",
+   "wraca": "300-04-30",
    "zamyka": "piec przystani jako jedna uchwala, albo zadna",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "uchwala przyjeta 300-04-01 (12:0:2). Otwarte: kto bierze przystan na swojej rzece - kazdy pan osobno (Karstark: Ostatnia Rzeka; Bolton: Placzaca Woda, Zlamana Galaz)."
   },
   {
    "data": "300-03-12",
@@ -2490,7 +2490,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "przystanie i drewno wchodza na Rade jako jedno, nie jako kontrola osobno i handel osobno",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "ZAMKNIETE 300-04-01 - Handel z poprawka przyjety 12:0:2; drewno i przystanie jedna uchwala."
   },
   {
    "data": "300-03-20",
@@ -2506,9 +2506,9 @@
    "co": "BUDOWA PIECIU PRZYSTANI - I RZECZ, KTORA TRZEBA POWIEDZIEC OD RAZU: TO NIE JEST ROBOTA CIESLI, TYLKO ROBOTA ZGODY. Szopa z podloga to tydzien jednego ciesli. ALE TRZY Z PIECIU RZEK SA CUDZE: PLACZACA WODA i ZLAMANA GALAZ to DREADFORT, OSTATNIA RZEKA to KARHOLD. Na cudzej rzece nie stawia sie wagi Korony bez pana tej rzeki. ### PODZIAL KOSZTU, KTORY ROZWIAZUJE I PIENIADZ, I POLITYKE JEDNYM RUCHEM: LORD STAWIA SZOPE - to jego rzeka, jego ciesla, jego tydzien, i staje sie WLASCICIELEM, NIE GOSPODARZEM CUDZEGO URZEDU. KORONA DAJE WAGE, SLUP Z CENA, KSIEGE I CZLOWIEKA - i to jest cala droga pozycja, bo czlowiek to zold co miesiac, a szopa to jednorazowy tydzien. ### I DOPIERO TO CZYNI ZDANIE 'PRZYSTAN KORONY JEST OBECNOSCIA' ZNOSNYM: lord nie dostaje urzednika NA swojej ziemi - dostaje wage, ksiege i CENE ZA DRZEWO, ktore juz ma, a urzednik przychodzi z nimi. ### KOLEJNOSC WEDLE ZGODY, NIE WEDLE MAPY: (1) BIALY NOZ - istnieje w zalazku, Wyman wskazal zakole, a jutro i tak siadamy z nim do podpisu; (2) OSTATNIA RZEKA - Karhold dostaje przystan, wiec to ta sama rzecz, nie druga prosba; (3) ZATOKA FOK - Wdowia Straznica, dom maly i cienki (23 na 70 daniny); (4-5) PLACZACA WODA i ZLAMANA GALAZ - DREADFORT, i to jest brama calej sprawy. ### ⚠ BO WARUNEK JEST WLASNY I TWARDY: ALBO NAD WSZYSTKIMI, ALBO NAD ZADNA. Czyli caly plan pieciu przystani przechodzi przez zgode Roose'a Boltona - i nie da sie tego obejsc budujac cztery.",
    "kto": "SYMON -> RADA 300-03-30",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-04-01",
+   "wraca": "300-04-30",
    "zamyka": "piec zgod albo zadnej; podzial kosztu wpisany do uchwaly",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "uchwala przyjeta 300-04-01 (12:0:2). Otwarte: kto bierze przystan na swojej rzece - kazdy pan osobno (Karstark: Ostatnia Rzeka; Bolton: Placzaca Woda, Zlamana Galaz)."
   },
   {
    "data": "300-03-13",
@@ -2535,7 +2535,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "propozycja zlozona wszystkim piatu ta sama trescia; kto bierze, ten bierze",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "ZAMKNIETE 300-04-01 - Handel z poprawka przyjety 12:0:2; drewno i przystanie jedna uchwala."
   },
   {
    "data": "300-03-30",
@@ -2544,7 +2544,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "cztery propozycje zlozone, piata pokazana jako stojaca",
-   "status": "w toku - IV HANDEL odeslany do poprawki 300-03-30 (8:5:1); wraca na trzeci dzien Rady 300-04-01 razem z poprawka o cenie drewna."
+   "status": "ZAMKNIETE 300-04-01 - Handel z poprawka przyjety 12:0:2; drewno i przystanie jedna uchwala."
   },
   {
    "data": "300-03-17 - kolejna proba",
@@ -3145,7 +3145,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "uchwala o drewnie i przystaniach poprawiona i poddana pod glos dnia trzeciego",
-   "status": "otwarte - POPRAWKA PRZYJETA PRZEZ PANA 300-03-31: cene daje kupiec, Mistrz Handlu ja tylko oglasza; prowizja stala i jawna (wysokosc z ksiegi); kazdy dom widzi w ksiedze swoje drewno; udzial dobrowolny. Przystanie na cudzych rzekach: przy wadze czlowiek lorda, przy ksiedze pisarz Korony (trzy klucze z Chleba). Pod glos 300-04-01."
+   "status": "ZAMKNIETE 300-04-01 - PRZYJETY 12:0:2 (rzut 46)."
   },
   {
    "data": "300-03-30",

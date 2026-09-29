@@ -3182,6 +3182,16 @@
    "wraca": "300-04-01",
    "zamyka": "wieczerza odbyta",
    "status": "otwarte - idzie samo (zasada 7)"
+  },
+  {
+   "data": "300-04-01",
+   "co": "KOLUMNA UMBERA Z OSTATNIEGO OGNISKA NA CZARNY ZAMEK - owies ponad wlasna zime i solona baranina, wozy i ludzie Umbera. Dar dla Strazy, nie danina. Rusza po powrocie Umbera z Rady. Niezalezna od kolumny Orina i Thella.",
+   "kto": "WIELKI JON UMBER",
+   "kanal": "przez Osrica (Mur)",
+   "wraca": "~300-04-20",
+   "zamyka": "dostawa w Czarnym Zamku potwierdzona w meldunku Osrica",
+   "status": "otwarte",
+   "sprawdzaj_co": 14
   }
  ],
  "_dopiski_300_03_18": [

@@ -864,9 +864,9 @@
    "co": "MELDUNEK VIII OSRICA - CO TRZYDZIESCI DNI, TAKZE GDY STOI NA NIM 'NIC'. ⚠ ZMIANA ADRESU, ta sama, ktora wprowadzono Torrenowi 300-02-17: MELDUNEK IDZIE TAM, GDZIE JEST NAMIESTNIK, NIE DO WINTERFELL. Meldunek VII szedl okrezna droga i lezal, bo adres byl staly, a Namiestnik nie. Od dzis adres jest ruchomy: do 300-03-07 Fosa, potem Bialy Port, od ~300-20 Winterfell.",
    "kto": "OSRIC -> kancelaria Garricka",
    "kanal": "przez Osrica (Mur)",
-   "wraca": "300-04-02",
+   "wraca": "300-04-05",
    "zamyka": "karta na stole, takze pusta",
-   "status": "otwarte"
+   "status": "w drodze - pisany dzis na Murze (zasada 7). Kruk Czarny Zamek-Winterfell ~3 dni: ~300-04-05. Wczoraj kruki nie lecialy."
   },
   {
    "data": "PRZED RADA 300-03-30",
@@ -1577,9 +1577,9 @@
    "co": "MELDUNEK NA MUR - LICZBA PODANA SAMEMU, ZANIM KTOKOLWIEK O NIA ZAPYTA. Przez Osrica do Czarnego Zamku: ilu przez Fose przeszlo z deklaracja 'na Mur' od 299-08-14, ilu poszlo dalej, ilu zostalo I Z CZYJEGO SLOWA. Bez upiekszania i bez tlumaczenia sie. ### DLACZEGO SAM: Mur ma niespelna szesciuset ludzi na trzysta mil. Jedenastu to niemal dwa na sto calego garnizonu. Ta liczba zostanie kiedys policzona przez kogos innego. ### DOKTRYNA: liczba, ktora podajesz sam, jest raportem; ta sama liczba znaleziona przez kogos innego jest zarzutem. Roznica nie jest w liczbie.",
    "kto": "SYMON -> OSRIC -> Czarny Zamek",
    "kanal": "przez Osrica (Mur)",
-   "wraca": "300-04-02",
+   "wraca": "300-04-05",
    "zamyka": "meldunek doreczony i potwierdzony w meldunku VIII Osrica",
-   "status": "otwarte"
+   "status": "potwierdzenie przyjdzie w meldunku VIII Osrica ~300-04-05."
   },
   {
    "data": "300-03-05",

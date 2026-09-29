@@ -5620,7 +5620,7 @@
   {
    "id": "hornwood_ziemia_bez_pana_299_09",
    "status": "otwarty",
-   "_dziennik_nota": 15,
+   "_dziennik_nota": 16,
    "stan_watku": "ZAMKNIETY",
    "stan_data": "300-02-25",
    "stan_powod": "Kubel D - ROZSTRZYGNIETE: wariant (A) - zaplata w naturze, wozami. Powod jednym slowem: SYMBOLIKA. Prozny Hornwood zyje dalej w hornwood_proznia_dreadfort."
@@ -5979,7 +5979,7 @@
   {
    "id": "wielka_rada_porzadek_obrad_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 96,
+   "_dziennik_nota": 97,
    "filar": "WIELKA RADA 300-04-01",
    "stan_watku": "ZYWY"
   },

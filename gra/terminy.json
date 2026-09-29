@@ -3164,6 +3164,15 @@
    "wraca": "300-04-03",
    "zamyka": "kwota podana, moneta zaplacona, weksel oddany i umorzony",
    "status": "otwarte"
+  },
+  {
+   "data": "299-11-22",
+   "co": "ZALEGLOSC WDOWIEJ STRAZNICY 47/70 - przeniesiona 299-11-22 na 300-04-01, bez odsetka, dwa odpisy. 'Nie odmowila, NIE MIALA.' Zapis 300-02-28: to, co Karhold (zaleglosc w ziarnie), 'nalezy sie tez Wdowiej Straznicy' - ALE Wdowia nie ma nadwyzki ziarna (299-11-22: placi welna i skorami). ⚠ LUKA KALENDARZA: pozycja nie miala wpisu - dopisana 300-03-31.",
+   "kto": "Korona (Gawen) / LADY LYESSA FLINT",
+   "kanal": "wlasny czlowiek na Fosie",
+   "wraca": "300-04-01",
+   "zamyka": "zaplata albo rozstrzygniecie Korony co do formy/terminu",
+   "status": "otwarte - decyzja pana/skarbnika"
   }
  ],
  "_dopiski_300_03_18": [

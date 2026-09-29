@@ -3266,6 +3266,15 @@
    "wraca": "300-04-20",
    "zamyka": "imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-02",
+   "co": "PROWIZJA MISTRZA HANDLU OD DREWNA - stala i jawna (uchwala Handlu 300-04-01). WYSOKOSC Z KSIEGI, nie z glowy: kancelista Wymana + HAL/TAM licza z kosztu obslugi (waga, skladanie, zaladunek, ksiega). Ogloszona na slupie i w kazdej przystani, zanim ruszy pierwsza sprzedaz po odwilzy.",
+   "kto": "WYMAN (kancelista) + HAL/TAM",
+   "kanal": "kruk Bialy Port-Fosa",
+   "wraca": "300-04-30",
+   "zamyka": "prowizja ogloszona na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

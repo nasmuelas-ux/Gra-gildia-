@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**73 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- SEN BRANA - proba pojscia za wolaniem spod ziemi (ciemno, kamien). Podsuniete przez Symona; Bran: 'dzis sprobuje nie uciekac'. Luw… · _kanal:_ rozmowa w Winterfell
+**72 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -333,7 +330,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-08** — GWOZDZIE OKRETOWE I OKUCIA DLA DUSTINPORTU Z FOSY - gwozdzie wies pod grobla, okucia kuznia miasta (po kafarach); placi Korona (Kasa 3) po cenie ze slupa Cailin, kwota z ksiegi targu. Pierwsza partia wozem Fosa-Dustinport. · _kto:_ **SYMON -> WARRYN (Fosa) -> DONNEL (Dustinport)** · _zamyka:_ pierwsza partia w Dustinporcie, z kwitem i cena
 - **300-04-09** — HODOWLA WEGORZY I RYB BLOTNYCH W CAILIN - plan: gdzie stawy, ile rak, co z komory wodnej od razu, pierwszy polow mlodych wegorzy (wiosenny ciag w gore rzek). Wegorza sie lowi mlodego i tuczy, nie rozmnaza. Laczy sie z pytaniem do krannogow o narybek. · _kto:_ **SYMON -> GARRICK + WARRYN; merytorycznie HAKON OD JASZCZURA** · _zamyka:_ plan z miejscem, rekami i data pierwszego polowu
 - **300-04-09** — BILANS KWARTALNY DOMU - WYCENA PLACOWEK BRAAVOS I PENTOS z pierwszych ksiag (kantor Domu w Braavos, ksiega Obara). Polecenie pana: potencjalnie najbardziej zyskowne linie. Pentos: drewno 110-120 jel./szt. - marza po koszcie drewna i przewozu. · _kto:_ **HAL / TAM (kantor Bialy Port) + NESTA** · _zamyka:_ pasma przychodu obu placowek w bilansie, z ksiegi
-- **300-04-10** — SEN BRANA - proba pojscia za wolaniem spod ziemi (ciemno, kamien). Podsuniete przez Symona; Bran: 'dzis sprobuje nie uciekac'. Luwin NIE wie (prosba Brana). · _kto:_ **BRAN** · _zamyka:_ Bran mowi, czy sen przyszedl i co widzial (rzut przy rozmowie)
+- **300-04-10** — SEN BRANA - proba pojscia za wolaniem spod ziemi (ciemno, kamien). Podsuniete przez Symona; Bran: 'dzis sprobuje nie uciekac'. Luwin NIE wie (prosba Brana). · _kto:_ **BRAN** · _zamyka:_ Bran mowi, czy sen przyszedl i co widzial (rzut przy rozmowie) **⚠ ZAMKNIETE 300-04-11: SEN PRZYSZEDL, NIE DOSZEDL (37); LATO ZAWROCIL PRZED 'NIZEJ'; LUWIN CHCE DAC NAPAR NA NOC**
 - **300-04-10** — LIST SYMONA DO ROOSE'A BOLTONA - Dzieci Lasu i wargowie do bibliotek; czy rod Boltonow mial do czynienia z silami magicznymi; pytanie o lady Walde. · _kto:_ **SYMON -> ROOSE BOLTON** · _zamyka:_ odpowiedz albo cisza (rzut przy powrocie)
 - **300-04-10** — LIST SYMONA DO MAESTRA THEOMORE'A - co o Dzieciach Lasu i wargach jest w jego skrzyniach i u Manderlych. · _kto:_ **SYMON -> THEOMORE (Nowy Zamek)** · _zamyka:_ odpowiedz (rzut przy powrocie)
 - **300-04-10** — LIST SYMONA DO MAESTRA RIVERRUN - zapiski Tullych i Dorzecza o Dzieciach Lasu (Wyspa Twarzy) i wargach. · _kto:_ **SYMON -> MAESTER RIVERRUN** · _zamyka:_ odpowiedz albo cisza (rzut przy powrocie)
@@ -1041,8 +1038,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `dzieci_lasu_i_wargowie_300_04` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-04-11] `dziennik`: 300-04-11 RANEK - ROZSTRZYGNIECIE: SZEW DUSTIN ZAMYKANY OCZAMI KORONY, BEZ PRZYMUSU. Symon: 'Nie zmuszajmy jej, zrobmy tak, jak mowicie.' Bez rzutu (decyzja Krola, zgoda Namiestnika). KROL P…
-- [300-04-11] `robb_stark`: 300-04-11 RANEK - ROZSTRZYGNIECIE: SZEW DUSTIN ZAMYKANY OCZAMI KORONY, BEZ PRZYMUSU. Symon: 'Nie zmuszajmy jej, zrobmy tak, jak mowicie.' Bez rzutu (decyzja Krola, zgoda Namiestnika). KROL P…
 - [300-04-11] `zelazne_wyspy_theon_300_02`: 300-04-11 RANEK - ROZSTRZYGNIECIE: SZEW DUSTIN ZAMYKANY OCZAMI KORONY, BEZ PRZYMUSU. Symon: 'Nie zmuszajmy jej, zrobmy tak, jak mowicie.' Bez rzutu (decyzja Krola, zgoda Namiestnika). KROL P…
 - [300-04-11] `dziennik`: 300-04-11 PRZED POLUDNIEM, DZIEDZINIEC - TRENING U MISTRZA Z BRAAVOS. Bez rzutu (wlasny czlowiek Korony; walka 6). LOD: nocny przymrozek na odwilzy, dziedziniec w skorupie. Mistrz, jak zapow…
 - [300-04-11] `TRENING_WALKI`: 300-04-11 PRZED POLUDNIEM, DZIEDZINIEC - TRENING U MISTRZA Z BRAAVOS. Bez rzutu (wlasny czlowiek Korony; walka 6). LOD: nocny przymrozek na odwilzy, dziedziniec w skorupie. Mistrz, jak zapow…
@@ -1053,3 +1048,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-04-11] `TRENING_WALKI`: 300-04-11 POLUDNIE, STRZELNICA - SYMON STRZELA PIEC RAZY Z LUKU ARYI, PATRZAC NA TARCZE. Wyzwanie: trzy z pieciu. RZUT 53 (prog 55) - NIE, O WLOS: DWIE Z PIECIU. Pierwsza w tarcze, blisko sr…
 - [300-04-11] `starkowie/ARYA`: 300-04-11 POLUDNIE, STRZELNICA - SYMON STRZELA PIEC RAZY Z LUKU ARYI, PATRZAC NA TARCZE. Wyzwanie: trzy z pieciu. RZUT 53 (prog 55) - NIE, O WLOS: DWIE Z PIECIU. Pierwsza w tarcze, blisko sr…
 - [300-04-11] `dziennik`: 300-04-11 WCZESNE POPOLUDNIE, WIELKA SALA - OBIAD. Bez rzutu. Zupa grochowa z wedzonka, chleb, piwo. Spokojnie. Krol pisze przy stole dwa krotkie listy (Robett, Donnel) i oddaje Luwinowi prz…
+- [300-04-11] `dziennik`: 300-04-11 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON U BRANA: WYNIK PROBY WE SNIE. RZUT 37 (prog 50) - SEN PRZYSZEDL, BRAN NIE UCIEKL, ALE NIE DOSZEDL. OPIS BRANA (jego slowa; nic ponad nie jes…
+- [300-04-11] `starkowie/BRAN`: 300-04-11 POPOLUDNIE, IZBA NAD BIBLIOTEKA - SYMON U BRANA: WYNIK PROBY WE SNIE. RZUT 37 (prog 50) - SEN PRZYSZEDL, BRAN NIE UCIEKL, ALE NIE DOSZEDL. OPIS BRANA (jego slowa; nic ponad nie jes…

@@ -3520,6 +3520,42 @@
    "wraca": "300-04-13",
    "zamyka": "pierwszy meldunek z portu: egzekucja trwa, liczba zatrzymanych partii",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "LANCUCH OSTRZEZEN ZACHODU - LIST KROLA DO GALBARTA I ROBETTA GLOVEROW: Robett trzyma lancuch (ognie na cyplach, wies znika, punkty wskazuja ludzie stamtad), za zgoda Galbarta. Straznicy ognia z Kasy 3. Tytul - po jednym lecie najazdow, dla Gloverow.",
+   "kto": "KROL -> GALBART + ROBETT GLOVER",
+   "kanal": "kruk Winterfell-Deepwood Motte (wylot 04-07)",
+   "wraca": "300-04-11",
+   "zamyka": "tak/nie Gloverow + pierwsze punkty ognia wskazane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "LANCUCH OSTRZEZEN - WYSPA NIEDZWIEDZIA: list Krola do Maege - wlasny ogien wyspy w lancuchu.",
+   "kto": "KROL -> MAEGE MORMONT",
+   "kanal": "przez Dustinport (Torren) / kruk z Wyspy Niedzwiedziej",
+   "wraca": "300-04-15",
+   "zamyka": "tak/nie Maege",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "LANCUCH OSTRZEZEN - BRZEG BARROWLANDOW: list Krola do lady Dustin.",
+   "kto": "KROL -> BARBREY DUSTIN",
+   "kanal": "kruk Winterfell-Barrowton (lancuch maesterski)",
+   "wraca": "300-04-11",
+   "zamyka": "tak/nie lady Dustin",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "TORREN - ESKADRA PLYNIE NA OGIEN (nie patroluje na slepo). Rozkaz Namiestnika.",
+   "kto": "SYMON -> TORREN SOLNY",
+   "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (wylot 04-07)",
+   "wraca": "300-04-13",
+   "zamyka": "potwierdzenie Torrena i rozklad okretow wzgledem ognia",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

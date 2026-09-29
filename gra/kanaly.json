@@ -132,6 +132,16 @@
    "tam": 2,
    "wraca_lacznie": 4,
    "zrodlo": "lancuch maesterski wprost (Luwin -> maester Nowego Zamku); przyjete 300-04-05 przez analogie z Winterfell-Fosa i Fosa-Bialy Port"
+  },
+  "kruk Winterfell-Deepwood Motte": {
+   "tam": 2,
+   "wraca_lacznie": 4,
+   "zrodlo": "lancuch maesterski wprost; przyjete 300-04-06 przez analogie (Winterfell-Fosa)"
+  },
+  "kruk Winterfell-Barrowton (lancuch maesterski)": {
+   "tam": 2,
+   "wraca_lacznie": 4,
+   "zrodlo": "lancuch maesterski wprost; przyjete 300-04-06 przez analogie"
   }
  }
 }

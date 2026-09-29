@@ -884,7 +884,7 @@
  "_dziennik_POCHODZENIE": 1,
  "_dziennik_ZYCIE_PRYWATNE": 2,
  "_dziennik_POSTAWY_I_DOKTRYNY": 2,
- "_dziennik_nota": 22,
+ "_dziennik_nota": 23,
  "nadgarstek_prawy": "299-09-26: obity po raz drugi przy upadku z konia na trakcie. Nic zlamanego. Pisanie nadal wolne.",
  "korona_winna_domowi_smokow": 695,
  "dom_wolna_gotowka_mies_smokow": "NIEAKTUALNE - to PRZEPLYW MIESIECZNY, nie stan kasy; pozycja Kasy 1 lezy w ksiedze HALA w Bialym Porcie (6-8 dni). VOID 300-03-01.",
@@ -895,5 +895,6 @@
  "_dziennik_DOBYTEK_WAZNY": 2,
  "_dziennik_wizerunek": 1,
  "_dziennik__dziennik_POCHODZENIE": 2,
- "_dziennik_zobowiazania": 1
+ "_dziennik_zobowiazania": 1,
+ "zalecenie_luwina_300_04_04": "do 300-04-11: noce przed polnoca, 3 posilki przy stole, bez siodla, nadgarstek w welnie + woreczek z grochem 100x rano. Noc przed polnoca przy sytosci>=40 = +3 zdrowia. Stan: bez goraczki, wychudzenie, nadgarstek sztywny na mrozie, zmeczenie zastarzale."
 }

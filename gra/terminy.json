@@ -3257,6 +3257,15 @@
    "zamyka": "pomiar wykonany; ugoda albo wyrok",
    "status": "otwarte",
    "sprawdzaj_co": 30
+  },
+  {
+   "data": "300-04-02",
+   "co": "PRZYSTANIE NA PLACZACEJ WODZIE I ZLAMANEJ GALEZI - BOLTON PRZYJAL (rzut 79). Trzy klucze: ludzie Dreadfortu przy wadze (imiona listem z Dreadfortu), pisarz Korony przy ksiedze. Budowa po odwilzy.",
+   "kto": "ROOSE BOLTON (imiona) + Mistrz Handlu / Korona (pisarze)",
+   "kanal": "kruk Bialy Port-Dreadfort",
+   "wraca": "300-04-20",
+   "zamyka": "imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

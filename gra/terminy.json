@@ -3340,6 +3340,24 @@
    "wraca": "300-04-24",
    "zamyka": "slowo Catelyn: tak / nie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-04",
+   "co": "LISTA NAUCZYCIELI SZKOLY FOSY do losowania egzaminatora na pierwsze proby Szkoly rodu Starkow (karta wychowankow: probe odbiera nauczyciel z innego wezla, wskazany losem). Na liscie nikt, kogo Fosa nie moze stracic na trzy tygodnie.",
+   "kto": "SYMON -> MABEL SIWA + WARRYN (Fosa)",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-04-08",
+   "zamyka": "lista w wiezy Luwina; los ciagniety jawnie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-04",
+   "co": "EGZAMINATOR Z FOSY W WINTERFELL NA PIERWSZE PROBY SZCZEBLA (polowa V/300). Wyjazd z Fosy najpozniej ~05-08.",
+   "kto": "wylosowany nauczyciel Fosy -> LUWIN",
+   "kanal": "trakt Fosa-Winterfell",
+   "wraca": "300-05-15",
+   "zamyka": "egzaminator na miejscu, proby odebrane",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

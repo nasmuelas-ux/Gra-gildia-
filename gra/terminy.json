@@ -3718,6 +3718,24 @@
    "wraca": "300-04-20",
    "zamyka": "spis rozmow na stole w Winterfell",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-11",
+   "co": "LANCUCH OGNI - SZEW DUSTIN: ostatni punkt Gloverow patrzy na pierwszy ogien Barrowlandow; meldunek w pierwszej karcie miesiecznej Robetta (punkty ognia + granica z Dustin).",
+   "kto": "ROBETT GLOVER",
+   "kanal": "kruk Winterfell-Deepwood Motte (wylot 04-11) + karta miesieczna",
+   "wraca": "300-05-11",
+   "zamyka": "pierwsza karta Robetta z punktem granicznym",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-11",
+   "co": "LANCUCH OGNI - SZEW DUSTIN OD POLUDNIA: punkt Dustinportu patrzy na ostatni ogien Barrowlandow; nowa rubryka w karcie Donnela.",
+   "kto": "DONNEL OBROK (Dustinport)",
+   "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (wylot 04-11)",
+   "wraca": "300-05-08",
+   "zamyka": "rubryka 'ogien Barrowlandow' w karcie 05-08",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

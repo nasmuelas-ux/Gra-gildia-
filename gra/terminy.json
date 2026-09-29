@@ -217,18 +217,18 @@
    "co": "FEVER polowa (a): ile tygodni rzeka stoi - kanal Warryna do krannogmenow + przewoznicy z brodu ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "WARRYN",
    "zamyka": "odpowiedz",
-   "status": "otwarte ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka.",
+   "status": "otwarte ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka. ### 300-04-09: sprawdzenie na Fosie dzis; wynik zbiorczym Garricka, w Winterfell 04-13.",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-04-09"
+   "wraca": "300-04-13"
   },
   {
    "data": "ten tydzien",
    "co": "NARYBEK do stawow + ROSLINY JADALNE - tym samym jezdzcem co Fever ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "WARRYN",
    "zamyka": "odpowiedz",
-   "status": "otwarte ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka.",
+   "status": "otwarte ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka. ### 300-04-09: sprawdzenie na Fosie dzis; wynik zbiorczym Garricka, w Winterfell 04-13.",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-04-09"
+   "wraca": "300-04-13"
   },
   {
    "data": "tygodnie - PRZED SIEWEM",
@@ -444,9 +444,9 @@
    "co": "LIST DO HOWLANDA REEDA. KANALU KRUCZEGO NIE MA - Greywater Watch PLYWA. Protokol: poslaniec jedzie na Przesmyk, staje w umowionym miejscu PRZY GROBLI i czeka, az krannogowie sami wyjda. MOZE DZIEN, MOZE DWA TYGODNIE - cisza tutaj NIE JEST cisza. ### 300-03-12: NIE PRZYSZLO I WIADOMO DLACZEGO - GREYWATER WATCH PLYWA. Poslaniec stoi przy grobli i czeka, az krannogowie wyjda; to dzien albo dwa tygodnie i nie ma na to kanalu. Sprawdza sie co 14 dni, nie codziennie (kanaly.json).",
    "kto": "poslaniec przy grobli",
    "zamyka": "krannogowie wychodza ALBO spotkanie z Howlandem",
-   "status": "otwarte - bez zegara z natury kanalu ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka.",
+   "status": "otwarte - bez zegara z natury kanalu ### 300-03-26 ROZSTRZYGNIECIE (zasada 40): NIE PRZYSZLO I WIADOMO DLACZEGO - rzut 29 przy progu 50: KRANNOGOWIE NIE WYSZLI. Poslaniec stoi przy grobli czternasty dzien, poza granica, ktora zapis sam podawal. Warownia plywa, przewodnika nie ma od 300-03-03 (tlumacz odmowil). Wraca do kolejki za kolejne 14 dni; dojdzie meldunkiem zbiorczym Garricka. ### 300-04-09: sprawdzenie na Fosie dzis; wynik zbiorczym Garricka, w Winterfell 04-13.",
    "kanal": "poslaniec do Greywater Watch",
-   "wraca": "300-04-09"
+   "wraca": "300-04-13"
   },
   {
    "data": "wyslany 300-03-01, osobnym jezdzcem",
@@ -1341,7 +1341,7 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-04-09",
    "zamyka": "druga karta w tej samej formie",
-   "status": "otwarte - pisana na Fosie 300-04-07 w terminie (zasada 7); do Winterfell krukiem Garricka ~04-09."
+   "status": "zrobione 300-04-09 - druga karta zbozowa: ~1800 geb, zboze na ~95 dni (prog 90)."
   },
   {
    "data": "300-03-07",
@@ -1377,7 +1377,7 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-04-09",
    "zamyka": "karta z rubryka na kazdy rodzaj, przeliczona na korce",
-   "status": "otwarte - pisana na Fosie 300-04-07 w terminie (zasada 7); do Winterfell krukiem Garricka ~04-09."
+   "status": "zrobione 300-04-09 - cala zywnosc: ~140 dni (+45 dni: wegorz, ryba solona, straczki/ziola, szklarnia)."
   },
   {
    "data": "300-03-13",
@@ -3402,7 +3402,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-04-09",
    "zamyka": "odpowiedz Miry",
-   "status": "otwarte"
+   "status": "zrobione 300-04-09 - odpisala: wstaje, chodzi galeria, Rhona jeszcze nie mowi 'jedz'; Lyra - 'kon'; pyta, czy Symon spi."
   },
   {
    "data": "300-04-05",
@@ -3411,7 +3411,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-04-09",
    "zamyka": "cena i termin od Hala (potem: kareta gotowa)",
-   "status": "otwarte"
+   "status": "PRZYSZLO 300-04-09 - Hal: (a) gotowa 9 smokow od reki, (b) nowa z piecykiem 12 smokow, 3 tygodnie; Hal radzi (a). CZEKA NA SLOWO PANA."
   },
   {
    "data": "300-04-06",
@@ -3438,7 +3438,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-04-09",
    "zamyka": "rozkaz na Fosie",
-   "status": "otwarte"
+   "status": "zrobione - rozkaz na Fosie 04-08 wieczorem; potwierdzenie w zbiorczym Garricka."
   },
   {
    "data": "300-04-06",
@@ -3636,6 +3636,15 @@
    "kanal": "wlasny czlowiek w Winterfell",
    "wraca": "300-04-30",
    "zamyka": "czternascie kart na stole Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-08",
+   "co": "GWOZDZIE OKRETOWE I OKUCIA DLA DUSTINPORTU Z FOSY - gwozdzie wies pod grobla, okucia kuznia miasta (po kafarach); placi Korona (Kasa 3) po cenie ze slupa Cailin, kwota z ksiegi targu. Pierwsza partia wozem Fosa-Dustinport.",
+   "kto": "SYMON -> WARRYN (Fosa) -> DONNEL (Dustinport)",
+   "kanal": "kruk Winterfell-Fosa (rozkaz) + jezdziec/woz Fosa-Dustinport",
+   "wraca": "300-04-21",
+   "zamyka": "pierwsza partia w Dustinporcie, z kwitem i cena",
    "status": "otwarte"
   }
  ],

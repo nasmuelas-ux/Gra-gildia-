@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 8,
+  "dzien": 9,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 63 (300-04-08) - dzien zwyczajny, lekki mroz, snieg osiada. Kruki leca.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 56 (300-04-09) - pochmurno, bez opadu. Kruki leca.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 378,
+ "_dziennik_nota": 380,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
@@ -272,5 +272,6 @@
  "noc_300_04_04_koniec_dnia": "Dzien spokojny, domowy. Aemon spozniony (3) - sprawdzenie 04-06. Sniadanie z rodzina (jaszczurolwy dla Rickona; zaproszenie Krola i krolowej na Fose bez daty). Luwin: Rickon liczy na karbach; szkola 26/40 domow, 31 dzieci (82); egzaminator z Fosy losem na ~05-15. Sansa: rubryka 'obozujacy pod murami' (straz bramy). Bran: odpis rejestru Fosy od Garricka ~04-15. Luwin zbadal Symona: bez choroby, wychudzenie, nadgarstek, zmeczenie zastarzale - tydzien zalecen. Spac przed polnoca.",
  "noc_300_04_05_koniec_dnia": "Dzien spokojny. Poczta: Osric VIII (Straz 524, Zatoka Lodu stoi), Nesta (ladownia tylko do Lannisportu; lupacz kamienia - Dom placi podroz), Mallister nie (16). Trening lewa reka; Arya: 'patrz na bark'. Krol: odbicie Harriona nie (16) - Willa ustala tylko, gdzie jest (~05-10). Listy do Miry i do Hala (kareta), ~04-09.",
  "noc_300_04_06_koniec_dnia": "Dzien zamieci. Poczta o swicie: Aemon o wyborze (glosy: Mallister, Pyke, Marsh, Yarwyck; 'nikt nie zwola, dopoki bracia glodni'); list archiwalny milczy (22); Brynden tak (48) ~VI; Lyman: trzy miasta NIE LICZ/MARTWI/NIE LICZ. Trening w korytarzu; Arya w stajni; licznik walki 63. Terminarz budow (+Brenn, Tove). U Krola: Mur - ziarno, potem wybor (wyscig ze Stannisem); czesc V w porcie - brak zgody dla kupcow Stannisa; zelazni - piec dzwigni, najpierw lancuch ognia (Robett Glover, Torren na ogien; tytul nie teraz, 13); sprzedaz danin - zboze nie (17), niejadalne na otwarty targ; natura Winterfell tez, Korona w Wilku (46), Gawen - cztery pozycje pakietu monetarnego.",
- "noc_300_04_07_koniec_dnia": "Dzien po zamieci. Poczta wyszla o swicie (terminarz, Brenn/Tove, Torren/Theon, czesc V do Wymana, bursztyn, listy Krola do Gloverow/Dustin/Maege). Trening w sniegu, sparing z Arya (1 na 3); list Aryi do Melli. Sansa: Bolton przepuscil lady Dustin (ucho); list Sansy do lady Dustin; rejestr relacji - wewnetrzne notatki wladzy, bez zasad (pan). Bran laczy z rejestrem zamku."
+ "noc_300_04_07_koniec_dnia": "Dzien po zamieci. Poczta wyszla o swicie (terminarz, Brenn/Tove, Torren/Theon, czesc V do Wymana, bursztyn, listy Krola do Gloverow/Dustin/Maege). Trening w sniegu, sparing z Arya (1 na 3); list Aryi do Melli. Sansa: Bolton przepuscil lady Dustin (ucho); list Sansy do lady Dustin; rejestr relacji - wewnetrzne notatki wladzy, bez zasad (pan). Bran laczy z rejestrem zamku.",
+ "noc_300_04_08_koniec_dnia": "Dzien zwykly. Poczta: egzaminator - Halla od Tablic (los Luwina); karta Donnela (2 na wodzie, 3. czeka na lod; brakuje gwozdzi i okuc - Fosa robi); weksel z Dreadfortu 3 smoki 40 (Hal placi). Trening - laczenie, prawa reka na probe. Arya: znak z Harrenhal -> dopisek do Willi bez imienia; Krol wie. Ser Alyn: Zimowa Straz 14 plaszczy + 8 na probie; Fosa moze dac jednego."
 }

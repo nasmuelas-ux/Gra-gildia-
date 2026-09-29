@@ -1339,9 +1339,9 @@
    "co": "KARTA ZYWNOSCIOWA STAJE SIE MIERNIKIEM PRAWA, NIE TYLKO SPRAWOZDANIEM. Skoro progi glodu liczy sie z niej, musi isc CO MIESIAC i miec zawsze te same trzy rubryki: GEBY · KORCE · NA ILE DNI. Pierwsza wychodzi 300-03-07 (Orland + Warryn). Od drugiej to juz nie jest karta pana - to jest licznik ustawowy.",
    "kto": "ORLAND KORZEC + WARRYN",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-04-07",
+   "wraca": "300-04-09",
    "zamyka": "druga karta w tej samej formie",
-   "status": "otwarte"
+   "status": "otwarte - pisana na Fosie 300-04-07 w terminie (zasada 7); do Winterfell krukiem Garricka ~04-09."
   },
   {
    "data": "300-03-07",
@@ -1375,9 +1375,9 @@
    "co": "KARTA ZYWNOSCIOWA LICZACA CALA ZYWNOSC - pierwsza wedle kanonu. Karta z 300-03-07 liczy SAMO ZBOZE, bo przelicznika jeszcze nie ma. ⚠ DZIEN, W KTORYM KARTA ZACZNIE LICZYC WEGORZA, JEST DNIEM, W KTORYM LICZBA DNI FOSY PODSKOCZY - i trzeba to powiedziec Z GORY, zeby nikt nie wzial tego za cud albo za falszerstwo. Skok bedzie tym wiekszy, im lepiej Hakon od Jaszczura wykona swoja pierwsza robote.",
    "kto": "ORLAND + WYSTAN + HAKON",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-04-07",
+   "wraca": "300-04-09",
    "zamyka": "karta z rubryka na kazdy rodzaj, przeliczona na korce",
-   "status": "otwarte"
+   "status": "otwarte - pisana na Fosie 300-04-07 w terminie (zasada 7); do Winterfell krukiem Garricka ~04-09."
   },
   {
    "data": "300-03-13",
@@ -2980,7 +2980,7 @@
    "kanal": "przez Lucana (Dorzecze) - 10 dni tam, 21 lacznie",
    "wraca": "~300-04-07",
    "zamyka": "kto podejmuje na znak milczacej reki - rysopis, godzina, z kim przyszedl i dokad odszedl",
-   "status": "otwarte",
+   "status": "PRZYSZLO 300-04-07 do kantoru przez Lucana - PRZEKAZANE WILLI wedle delegacji stalej 300-03-27 (bezpieczenstwo siatki nie jest sprawa pana). Do pana wraca tylko na meldunek Willi, ze nie daje rady.",
    "co": "NASLUCH NA ROZDROZU - CZLOWIEK POD PRZYKRYWKA, KANALEM HANDLOWYM. Siada ~300-03-27; do tego czasu zejda jeszcze dwie albo trzy wyplaty i nikt ich nie zobaczy - KOSZT ODLEGLOSCI, NIE DECYZJI. MELDUNEK WRACA PRZEZ LUCANA DO KANTORU, NIE PRZEZ SIATKE WILLI. ⚠ DERON SUCHY POZA OPERACJA I POZA WIEDZA - slowo dane mu na pismie 299-07 stoi."
   },
   {

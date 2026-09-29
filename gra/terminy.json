@@ -3592,6 +3592,24 @@
    "wraca": "300-05-20",
    "zamyka": "pierwszy targ w kazdym z dwoch miast, z ksiega",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "GAWEN - PAKIET MONETARNY, POZOSTALE CZTERY POZYCJE Z PIECIU (list z 300-03-06; odpowiedzial na jedna, cztery odlozyl 'do Rady' - Rada minela). Dodatkowo: czy mennica Wilk nadazy, jesli Korona rozlicza sie w Wilku (ceny na slupach Korony w Wilku, obca moneta po kursie ogloszonym). Warunek Krola przed ogloszeniem.",
+   "kto": "GAWEN (Skarbnik) -> KROL",
+   "kanal": "wlasny czlowiek w Winterfell",
+   "wraca": "300-04-20",
+   "zamyka": "odpowiedz na cztery pozycje + zdolnosc mennicy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-06",
+   "co": "INWENTARZ NATURY DOMENY WINTERFELL (czynsze chlopow; dom Starkow, NIE Skarb - osobna ksiega) - nadwyzka niejadalna na te same targi, te same warunki co daniny Korony.",
+   "kto": "KASZTELAN WINTERFELL -> KROL",
+   "kanal": "wlasny czlowiek w Winterfell",
+   "wraca": "300-04-20",
+   "zamyka": "inwentarz na stole Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

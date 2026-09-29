@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**48 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**47 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -290,7 +290,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-03-30** — REWIZJA - OSOBNE GLOSOWANIE NA DRUGI DZIEN RADY. Wydzielona z wiazki III na wniosek lorda Ryswella po rzucie 53/55. Urzad, ktory jezdzi i sprawdza ('nie mamy zadnych organow scigania' - diagnoza z 300-02-05; Krol: 'idzie na Rade niezaleznie od Boltona'). · _kto:_ **SYMON -> RADA, dzien drugi** · _zamyka:_ glosowanie nad rewizja **⚠ ZAMKNIETE 300-03-31 - PRZYJETA 11:1:2 (RZUT 81). PRZECIW RYSWELL; WSTRZYMANI BOLTON I HORNWOOD.**
 - **300-03-30** — HANDEL WRACA NA TRZECI DZIEN RADY - odeslany do poprawki (8:5:1) po rzucie 38/50. JEDEN ZARZUT, NAZWANY PRZEZ GALBARTA GLOVERA: KTO OGLASZA CENE DREWNA, skoro Mistrz Handlu to lord Bialego Portu - jeden dom wycenia drewno wszystkich. Poprawka ma odpowiedziec na to jedno pytanie. · _kto:_ **SYMON + WYMAN** · _zamyka:_ uchwala o drewnie i przystaniach poprawiona i poddana pod glos dnia trzeciego **⚠ ZAMKNIETE 300-04-01 - PRZYJETY 12:0:2 (RZUT 46).**
 - **300-03-30** — ZOLD KORONNEGO GARNIZONU W CAILIN - LICZBA DO KSIEGI SKARBU. Od 300-04-01 placi Kasa 3. Liczby nie ma w zapisie; Gawen liczy z listy zoldu i wpisuje. · _kto:_ **GAWEN** · _zamyka:_ stawka miesieczna wpisana do ksiegi Kasy 3 **⚠ VOID 300-03-30 - NIE MA CZEGO WPISYWAC: KORONNEGO GARNIZONU W CAILIN NIGDY NIE BYLO (WSKAZANIE PANA).**
-- **300-03-30** — WYKUP WEKSLA Z DREADFORTU (299-10-20) W MONECIE - Roose przywiozl weksel na Rade i czeka na kwote od kantoru Domu. Symon przekazuje sprawe do kantoru. Weksel zostaje u Roose'a do zaplaty. · _kto:_ **HAL (kantor Domu) -> ROOSE BOLTON** · _zamyka:_ kwota podana, moneta zaplacona, weksel oddany i umorzony
+- **300-03-30** — WYKUP WEKSLA Z DREADFORTU (299-10-20) W MONECIE - Roose przywiozl weksel na Rade i czeka na kwote od kantoru Domu. Symon przekazuje sprawe do kantoru. Weksel zostaje u Roose'a do zaplaty. · _kto:_ **HAL (kantor Domu) -> ROOSE BOLTON** · _zamyka:_ kwota podana, moneta zaplacona, weksel oddany i umorzony **⚠ W DRODZE - 300-04-03 KWOTY NIE MA I WIADOMO DLACZEGO: SPRAWA POSZLA DO KANTORU 03-30 WIECZOREM; HAL SIEDZI W BIALYM PORCIE (WINTERFELL-FOSA-BIALY PORT I Z POWROTEM = ~8 DNI), A 04-01 KRUKI NIE LECIALY. REALNIE ~300-04-08. ROOSE WYJECHAL Z RADY Z WEKSLEM - ZAPLATA PRZEZ HALA NA DREADFORT (KRUK BIALY PORT-DREADFORT).**
 - **299-11-22** — ZALEGLOSC WDOWIEJ STRAZNICY 47/70 - przeniesiona 299-11-22 na 300-04-01, bez odsetka, dwa odpisy. 'Nie odmowila, NIE MIALA.' Zapis 300-02-28: to, co Karhold (zaleglosc w ziarnie), 'nalezy sie tez Wdowiej Straznicy' - ALE Wdowia nie ma nadwyzki ziarna (299-11-22: placi welna i skorami). ⚠ LUKA KALENDARZA: pozycja nie miala wpisu - dopisana 300-03-31. · _kto:_ **Korona (Gawen) / LADY LYESSA FLINT** · _zamyka:_ zaplata albo rozstrzygniecie Korony co do formy/terminu **⚠ ROZSTRZYGNIETE 300-03-31 PRZEZ PANA: GAWEN PRZYJMUJE ZALEGLOSC 47 SMOKOW W WELNIE I SKORACH - TYM, CZYM WDOWIA PLACILA W LISTOPADZIE. DECYZJA SKARBOWA NA ISTNIEJACYM DLUGU, NIE NOWE PRAWO. WYCENA PO CENIE OGLOSZONEJ - LICZY SKARBNIK. WDOWIA STRAZNICA PRZESTAJE BYC DLUZNIKIEM Z CHWILA ODBIORU.**
 - **300-03-31** — KROL ZAPRASZA OBU FLINTOW (lady Lyessa z Wdowiej Straznicy, lord Flint z Palca) DO SWOJEGO STOLU - na podszept Symona. Babka Eddarda Starka byla Flintowna z gor ('pol-Flint'); Krol goscii krew wlasnej prababki. Wieczorem po trzecim dniu Rady. · _kto:_ **ROBB** · _zamyka:_ wieczerza odbyta **⚠ ZAMKNIETE 300-04-01 - UCZTA ODBYTA; FLINTOWIE PRZY STOLE KROLA. RACHUNEK KASZTELANA DO KASY 3.**
 - **300-04-01** — KOLUMNA UMBERA Z OSTATNIEGO OGNISKA NA CZARNY ZAMEK - owies ponad wlasna zime i solona baranina, wozy i ludzie Umbera. Dar dla Strazy, nie danina. Rusza po powrocie Umbera z Rady. Niezalezna od kolumny Orina i Thella. · _kto:_ **WIELKI JON UMBER** · _zamyka:_ dostawa w Czarnym Zamku potwierdzona w meldunku Osrica
@@ -478,10 +478,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-04-02 ranek · zima (300)
+- **Data:** 300-04-03 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 78 · Sytosc 70 · Zmeczenie 33**
+- **Zdrowie 78 · Sytosc 62 · Zmeczenie 28**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -962,7 +962,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `lyessa_flint` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-04-02] `dziennik`: 300-04-02 PRZED POLUDNIEM, DZIEDZINIEC WINTERFELL - SYMON PROSI MAEGE MORMONT O LODZIE do przewozu ludzi zza Muru przez Zatoke Lodu. RZUT 99 PRZY PROGU 45 - WYJATKOWY SUKCES. MAEGE, z nogi w…
 - [300-04-02] `maege_mormont`: 300-04-02 PRZED POLUDNIEM, DZIEDZINIEC WINTERFELL - SYMON PROSI MAEGE MORMONT O LODZIE do przewozu ludzi zza Muru przez Zatoke Lodu. RZUT 99 PRZY PROGU 45 - WYJATKOWY SUKCES. MAEGE, z nogi w…
 - [300-04-02] `mur_mance_rayder_i_lud_za_murem_299_09`: 300-04-02 PRZED POLUDNIEM, DZIEDZINIEC WINTERFELL - SYMON PROSI MAEGE MORMONT O LODZIE do przewozu ludzi zza Muru przez Zatoke Lodu. RZUT 99 PRZY PROGU 45 - WYJATKOWY SUKCES. MAEGE, z nogi w…
 - [300-04-02] `dziennik`: 300-04-02 - DECYZJA PANA: TORREN I ESKADRA ZOSTAJA W DUSTINPORCIE, bez nowego rozkazu. Przewoz: lodzie Mormontow; dzicy moga miec wlasne - pytanie o ich lodzie idzie do Mance'a przy nastepny…
@@ -974,3 +973,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-04-02] `rodzina/MIRA`: 300-04-02 - VOID (GM, zasada 3) na wskazanie pana: 'Mira miala przeniesc wszystko do domu.' MA RACJE. 299-11-29 MIRA WSTAPILA DO DOMU TALLY JAKO WSPOLNICZKA, wnoszac DOM, WARSZTAT I ATELIER …
 - [300-04-02] `dziennik`: 300-04-02 - TRZY ROZSTRZYGNIECIA PANA. Bez rzutow. (1) POMIAR WYREBU HORNWOOD/DREADFORT: PISARZ Z REWIZJI - pierwsza robota urzedu przyjetego na Radzie 11:1:2. (2) TRZECIE MIEJSCE ODPISOW GL…
 - [300-04-02] `lyessa_flint`: 300-04-02 - list Lyessy do Pierwszych Flintow ODLOZONY przez pana: pojedzie sam, kiedys. Bez terminu.
+- [300-04-03] `dziennik`: 300-04-03 RANEK, WINTERFELL. Pogoda rzut 33: mzawka ze sniegiem, odwilz w poludnie. Noc: zmeczenie 28, sytosc 62. Poczty Rady w wiekszosci wyjechaly wczoraj; zamek cichnie. Kwota weksla z Dr…

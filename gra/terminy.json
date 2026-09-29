@@ -3160,10 +3160,10 @@
    "data": "300-03-30",
    "co": "WYKUP WEKSLA Z DREADFORTU (299-10-20) W MONECIE - Roose przywiozl weksel na Rade i czeka na kwote od kantoru Domu. Symon przekazuje sprawe do kantoru. Weksel zostaje u Roose'a do zaplaty.",
    "kto": "HAL (kantor Domu) -> ROOSE BOLTON",
-   "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-04-03",
+   "kanal": "kruk Winterfell-Fosa + kruk Fosa-Bialy Port; zaplata kruk Bialy Port-Dreadfort",
+   "wraca": "300-04-08",
    "zamyka": "kwota podana, moneta zaplacona, weksel oddany i umorzony",
-   "status": "otwarte"
+   "status": "w drodze - 300-04-03 KWOTY NIE MA I WIADOMO DLACZEGO: sprawa poszla do kantoru 03-30 wieczorem; Hal siedzi w Bialym Porcie (Winterfell-Fosa-Bialy Port i z powrotem = ~8 dni), a 04-01 kruki nie lecialy. Realnie ~300-04-08. Roose wyjechal z Rady z wekslem - zaplata przez Hala na Dreadfort (kruk Bialy Port-Dreadfort)."
   },
   {
    "data": "299-11-22",

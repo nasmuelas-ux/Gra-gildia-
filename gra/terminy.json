@@ -3772,6 +3772,15 @@
    "wraca": "dzien porodu + 9",
    "zamyka": "odpowiedz Waldera / kogo przysle",
    "status": "otwarte - spust: porod krolowej"
+  },
+  {
+   "data": "300-04-11",
+   "co": "PRZYBOCZNA - CWICZENIA CODZIENNE (dziedziniec + dwoch u lucznikow zamkowych). Meldunek Stena: co umieja, czego nie.",
+   "kto": "STEN",
+   "kanal": "rozmowa w Winterfell",
+   "wraca": "300-04-25",
+   "zamyka": "meldunek Stena po dwoch tygodniach",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

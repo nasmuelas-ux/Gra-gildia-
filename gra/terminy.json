@@ -516,7 +516,7 @@
    "co": "NESTA - CZWARTE ZLECENIE: fracht na zachodnim morzu (nie okret - LADOWNIA; domy braavoskie maja kantory w Lannisporcie i Starym Miescie) + LUPACZ KAMIENIA. Kolejka wypisana wprost: (1) ksiega Antaryonow (2) karta cen (3) wschod i dziewczyna (4) to. 'Czwarta jest czwarta i ma nia zostac.' ⚠ DATA POPRAWIONA 300-03-03 z V/300. Wyslany 300-02-17; robota wymaga chodzenia po kantorach braavoskich, wiec obieg plus dwa tygodnie.",
    "kto": "NESTA",
    "zamyka": "odpowiedz z Braavos - 2,5 miesiaca w jedna strone",
-   "status": "otwarte",
+   "status": "zrobione 300-04-05 - ladownia braawoska tylko do Lannisportu (na polnoc od Skaly nie - zelazni); stawki przy pierwszym ladunku. Lupacz kamienia: Lorathczyk z synem, jedzie ze statkiem kadr, jesli Dom zaplaci podroz obu - DECYZJA PANA.",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-04-05"
   },
@@ -866,7 +866,7 @@
    "kanal": "przez Osrica (Mur)",
    "wraca": "300-04-05",
    "zamyka": "karta na stole, takze pusta",
-   "status": "w drodze - pisany dzis na Murze (zasada 7). Kruk Czarny Zamek-Winterfell ~3 dni: ~300-04-05. Wczoraj kruki nie lecialy."
+   "status": "zrobione 300-04-05 - przyszedl: Straz 530 (-6), kolumny jeszcze nie ma, o poslancu nic, ZATOKA LODU PRZY BRZEGU STOI (zwiadowcy z Wiezy Cieni)."
   },
   {
    "data": "PRZED RADA 300-03-30",
@@ -2778,7 +2778,7 @@
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "~300-04-05",
    "zamyka": "Mallister mowi tak albo nie - i jedno, i drugie zamyka sprawe",
-   "status": "otwarte - NOWE",
+   "status": "zamkniete 300-04-05 - rzut 16/40: NIE (grzecznie, kancelaria; 'wrocmy do tego, gdy na Zelaznym Morzu bedzie pokoj'). Placowka w Seagard nie powstaje.",
    "co": "SLOWO DO LORDA JASONA MALLISTERA - ZANIM W SEAGARD STANIE KANTOR. Nie prosba o laske: zawiadomienie kupca, ze chce otworzyc sklad w jego miescie, i pytanie, czy pan miasta ma cos przeciw. ⚠ POWOD, ZEBY SZLO PRZODEM, A NIE POTEM: zasada Medricka z Gulltown - 'placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, JEST ZAKLADEM, NIE INTERESEM'. Zywa mapa Catelyn stawia Mallisterow w rubryce WIERNI, ale to ocena z WOJNY, nie zgoda na kantor. KANAL: korytarz Edmure'a przez Dorzecze, ktory i tak konczy sie w Seagard - 10 dni tam. ⚠ ODPOWIEDZ WRACA PO RADZIE, a placowka rusza 300-04-01 - WIEC ALBO SLOWO IDZIE DZIS, ALBO KANTOR STANIE PRZED ZGODA."
   },
   {
@@ -3366,6 +3366,15 @@
    "kanal": "kruk Winterfell-Fosa (rozkaz) + trakt Fosa-Winterfell (odpis)",
    "wraca": "300-04-15",
    "zamyka": "odpis w rekach Brana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-05",
+   "co": "MELDUNEK IX OSRICA - co trzydziesci dni (VII 03-03, VIII 04-02), takze gdy stoi na nim 'nic'. Adres ruchomy - tam, gdzie Namiestnik.",
+   "kto": "OSRIC",
+   "kanal": "przez Osrica (Mur)",
+   "wraca": "300-05-05",
+   "zamyka": "karta na stole, takze pusta",
    "status": "otwarte"
   }
  ],

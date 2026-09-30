@@ -4095,7 +4095,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-04-25",
    "zamyka": "odpowiedz Krola do Wymana",
-   "status": "otwarte"
+   "status": "zrobione 300-04-21 - rozstrzyga KOMORA KROLEWSKA w Bialym Porcie (celnicy); Mistrz Handlu i pan portu nie sa strona; odwolanie do Krola ostatecznie. Pismo Krola do Wymana 04-22."
   },
   {
    "data": "300-04-21",
@@ -4176,6 +4176,24 @@
    "kanal": "kruk Winterfell-Bialy Port (04-22)",
    "wraca": "300-04-26",
    "zamyka": "odpowiedz Hala z planem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "KOMORA BIALEGO PORTU - WYSLUCHANIE KUPCA z zawieszonym wpisem przed celnikami (nie przed Wymanem). Wynik: wpis przywrocony albo utrzymany.",
+   "kto": "KOMORA KROLEWSKA BIALEGO PORTU",
+   "kanal": "pismo Krola kruk Winterfell-Bialy Port (04-22); meldunek komory krukiem",
+   "wraca": "300-05-01",
+   "zamyka": "rozstrzygniecie komory na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "GAWEN - CZY CELNICY KOMORY BIALEGO PORTU SA NA ZOLDZIE KASY 3 (a nie Manderlych)? Zapis 299-09-20: za Zelaznego Tronu krolewski celnik w BP byl czlowiekiem Manderlych. Imiona, zold, od kiedy.",
+   "kto": "GAWEN (Skarbnik)",
+   "kanal": "wlasny czlowiek w Winterfell; ksiega zoldu Kasy 3",
+   "wraca": "300-04-24",
+   "zamyka": "lista celnikow BP z platnikiem",
    "status": "otwarte"
   }
  ],

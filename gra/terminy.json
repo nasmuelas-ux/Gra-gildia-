@@ -1287,7 +1287,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-21",
    "zamyka": "dwie liczby obok siebie: obrot okregu i udzial Domu",
-   "status": "otwarte - 300-04-21 rzut 43: udzial Domu rosnie SZYBCIEJ niz obrot (liczby w ksiedze Gerrika); decyzja pana."
+   "status": "zrobione 300-04-21 - pan: 'udzialem sie nie przejmujmy'; Dom wspiera posrednikow za prowizja, kapital w towary wyzszej marzy (list do Hala 04-22)."
   },
   {
    "data": "300-03-07",
@@ -3265,7 +3265,7 @@
    "kanal": "kruk Bialy Port-Dreadfort",
    "wraca": "300-04-21",
    "zamyka": "imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani",
-   "status": "otwarte - 300-04-21 rzut 7: imion NIE MA; Roose wskaze ludzi 'gdy przystanie stana'; wagi z samym pisarzem Korony."
+   "status": "otwarte - 300-04-21 rzut 7: imion NIE MA; Roose wskaze ludzi 'gdy przystanie stana'; wagi z samym pisarzem Korony. ### 300-04-21: zwloka przyjeta; list do Roose'a z terminem (V-VIII) i wzorem Przystani Wilka (04-22)."
   },
   {
    "data": "300-04-02",
@@ -4149,6 +4149,33 @@
    "kanal": "wlasni ludzie; Fosa i Bialy Port krukiem",
    "wraca": "300-05-01",
    "zamyka": "trzy meldunki komor na stole Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "THEON - PLAN ODBIJANIA OKRETOW NA PLAZY: gdzie (puste wsie Kamienistego Brzegu), kto (ludzie Gloverow + oddzial z Dustinportu, zaloga z odbitych), ile na okret, jak sygnal ognia daje czas. Nie na morzu. Plan przed pierwszym uzyciem.",
+   "kto": "THEON (+ Torren, Donnel, Robett Glover)",
+   "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (04-22); kruk Winterfell-Deepwood Motte (04-22)",
+   "wraca": "300-05-02",
+   "zamyka": "plan Theona na stole",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "LIST DO ROOSE'A - PRZYSTANIE: termin (od V, gotowe przed koncem VIII), wzor Przystani Wilka, klucze bez zmian; kto buduje?",
+   "kto": "SYMON -> ROOSE BOLTON (kopia Wyman)",
+   "kanal": "kruk Winterfell-Dreadfort (04-22)",
+   "wraca": "300-04-29",
+   "zamyka": "odpowiedz Roose'a (rzut) albo cisza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "HAL - KIERUNEK DOMU: posrednicy zbozowi za prowizja (laczenie, nie obrot wlasny), kapital w towary wyzszej marzy; BUFOR 1000 SMOKOW w skarbcu Domu dlugoterminowo, reszta w obrot. Hal odpowiada: tempo bufora i pierwsze kroki.",
+   "kto": "SYMON -> HAL",
+   "kanal": "kruk Winterfell-Bialy Port (04-22)",
+   "wraca": "300-04-26",
+   "zamyka": "odpowiedz Hala z planem",
    "status": "otwarte"
   }
  ],

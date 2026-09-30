@@ -4276,6 +4276,15 @@
    "wraca": "300-07-25",
    "zamyka": "Catelyn w Winterfell",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-23",
+   "co": "SPARINGI SYMONA Z REKRUTAMI (plan mistrza z Braavos): dwa razy w tygodniu po lekcji, stepiona bron, przeszywanice, helm bez znaku; trzech rekrutow ser Alyna po kolei, potem dwoch naraz. Warunek: ser Alyn mowi przy nich, ze kto oszczedza Namiestnika, stoi noc na murach.",
+   "kto": "MISTRZ Z BRAAVOS + SER ALYN",
+   "kanal": "robota na miejscu (Winterfell)",
+   "wraca": "300-04-25",
+   "zamyka": "pierwszy sparing odbyty",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

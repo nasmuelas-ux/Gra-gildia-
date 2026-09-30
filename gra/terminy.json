@@ -4402,6 +4402,33 @@
    "wraca": "300-05-04",
    "zamyka": "bilans Hala na zamkniecie IV/300 (liczby z kasa.py po korekcie skali)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "SER RODRIK - SPIS ZBROJOWNI WINTERFELL: ile kompletow w barwach Starkow naprawde lezy (Krol z pamieci: 150-200 ponad ~300 pod bronia).",
+   "kto": "KROL -> SER RODRIK",
+   "kanal": "w zamku",
+   "wraca": "300-04-28",
+   "zamyka": "spis na stole Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "GAWEN - KOSZT KOMPLETU (helm, drzewce, tarcza, kaftan/kolczuga, plaszcz) W WILKU - do zbrojowni na tysiac.",
+   "kto": "KROL -> GAWEN",
+   "kanal": "w zamku",
+   "wraca": "300-04-29",
+   "zamyka": "cena kompletu i tysiaca",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "KAMIENNY BRZEG - REZERWY W JEDNOLITYCH SZYKACH (propozycja Symona, rzut 17: nie dzis). Pytanie Krola: KTO ICH PROWADZI NA MIEJSCU (brzeg bez pana)? Krol chce to widziec razem z planem Theona o odbijaniu okretow na plazach.",
+   "kto": "SYMON -> KROL",
+   "kanal": "w zamku",
+   "wraca": "300-05-02",
+   "zamyka": "odpowiedz Symona o dowodzeniu + plan Theona przy jednym stole",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

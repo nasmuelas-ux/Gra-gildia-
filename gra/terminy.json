@@ -4051,6 +4051,24 @@
    "wraca": "300-05-15",
    "zamyka": "dar doreczony (rzut na reakcje przy doreczeniu); odpowiedz, jesli przyjdzie, pozniej",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-20",
+   "co": "OGLOSZENIE O WILKU - 'Korona przyjmuje Wilka' (daniny, cla, grzywny po nominale) + KURS OGLOSZONY w trzech komorach (Winterfell, Fosa, Bialy Port), z wagi srebra minus oplata mennicza. Decyzja PO danych frachtu Nesty (04-21). NIE 'Korona placi tylko Wilkiem' (Gawen).",
+   "kto": "KROL + SYMON; wykonanie GAWEN",
+   "kanal": "wlasna robota (Winterfell)",
+   "wraca": "300-04-22",
+   "zamyka": "obwieszczenie wydane albo swiadomie odlozone",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-20",
+   "co": "PIERWSZY TARG NATURY W WINTERTOWN - skory i welna Korony (Gawen) i domeny (kasztelan), osobne ksiegi; cena na slupie dzien wczesniej, Miara Polnocna, ksiega jawna, sprzedaja pisarze Skarbu wedle prawa targu miasta; kupuje kazdy (Dom Tally jak kazdy, z wpisem). Pierwszy wplyw do Skarbu z ksiegi targu, nie z szacunku.",
+   "kto": "GAWEN + KASZTELAN WINTERFELL",
+   "kanal": "robota na miejscu (Wintertown)",
+   "wraca": "300-04-24",
+   "zamyka": "targ odbyty, ksiega targu na stole Krola - albo przesuniety z powodu pogody",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

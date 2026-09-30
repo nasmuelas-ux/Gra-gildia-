@@ -4231,6 +4231,33 @@
    "wraca": "300-07-17",
    "zamyka": "odpowiedz z Dorne (rzut) albo cisza",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-22",
+   "co": "REACH - KONTRAKT DLUZSZY NIZ WOJNA (rada Sansy): propozycja umowy wieloletniej (np. piec lat) - drewno i sol Polnocy za zboze Reach, cena ustalona z gory. Niesie przedstawiciel Domu Tally (Hal) - dopisac do jego listy przed pierwsza rozmowa z Olenna; przez Krola.",
+   "kto": "SYMON -> HAL (przedstawiciel w Reach) + KROL",
+   "kanal": "kruk Winterfell-Bialy Port; dalej z przedstawicielem morzem",
+   "wraca": "300-05-15",
+   "zamyka": "propozycja na stole Olenny (meldunek przedstawiciela)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-22",
+   "co": "REACH - SCHRONIENIE DLA MARGAERY (rada Sansy): obietnica tylko ustna i tylko dla Olenny - statek z Bialego Portu, Polnoc. Kolejnosc: po kontrakcie; zgoda Krola.",
+   "kto": "KROL (decyzja) / SYMON",
+   "kanal": "do ustalenia (ustnie - przez zaufanego czlowieka)",
+   "wraca": "300-05-19",
+   "zamyka": "decyzja Krola: czy i przez kogo",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-22",
+   "co": "REACH - WYCHOWANEK TYRELLOW W SZKOLE KROLA (rada Sansy): kuzyn, nie dziedzic. Dopiero gdy kontrakt stoi. Decyzja Krola.",
+   "kto": "KROL",
+   "kanal": "-",
+   "wraca": "300-06-15",
+   "zamyka": "decyzja Krola po kontrakcie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

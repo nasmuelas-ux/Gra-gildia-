@@ -1285,9 +1285,9 @@
    "co": "SKUTEK UBOCZNY KLAUZULI X DO OBSERWACJI, NIE DO ZALATWIENIA DZIS: brokerka zboza przechodzi w rece domow polnocnych, czyli w niemalej czesci W RECE DOMU NAMIESTNIKA. Prawo, ktore wzmacnia wlasny dom, musi wytrzymac pytanie zadane na glos przy czternastu domach. ZABEZPIECZENIE WPISANE OD RAZU: klauzula NIE DAJE NIKOMU WYLACZNOSCI - daje ja KAZDEMU, KTO WEJDZIE DO KSIEGI, a ksiega jest otwarta i jawna. DO SPRAWDZENIA PO MIESIACU: czy udzial Domu Tally w obrocie zbozem rosnie szybciej niz obrot ogolem.",
    "kto": "GERRIK RACHUBA + ksiega targu",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "dwie liczby obok siebie: obrot okregu i udzial Domu",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; przychodzi ze zbiorczym Garricka 04-21."
   },
   {
    "data": "300-03-07",
@@ -3823,18 +3823,18 @@
    "co": "ODNOGA SAMOTNE WZGORZA - TOVE BEZ MELDUNKU w pierwszym zbiorczym; Garrick poslal poslanca.",
    "kto": "GARRICK -> TOVE",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "meldunek Tove w zbiorczym 04-18 (w Winterfell 04-20)",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; przychodzi ze zbiorczym Garricka 04-21."
   },
   {
    "data": "300-04-13",
    "co": "MLYN W SLUZIE STOI - Kessel czeka na kamien mlynski. Skad kamien i kiedy.",
    "kto": "WEYLIN + KESSEL",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "kamien mlynski wskazany z data",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; przychodzi ze zbiorczym Garricka 04-21."
   },
   {
    "data": "300-04-13",
@@ -4012,9 +4012,9 @@
    "co": "LIST BRANA DO TYRIONA LANNISTERA (rada Sansy): chlopiec dziekuje za rysunek siodla, bo wlasnie mu je szyja. List, ktory moze przeczytac Tywin - bez zadnej prosby. Do zaproponowania Branowi (i Krolowi - list do Twierdzy). Kanal po decyzji: kruk Fosa-Krolewska Przystan.",
    "kto": "SYMON -> BRAN (+ KROL)",
    "kanal": "rozmowa w Winterfell; potem kruk Fosa-KP",
-   "wraca": "300-04-21",
+   "wraca": "300-04-20",
    "zamyka": "Bran chce albo nie; jesli tak - list napisany",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "otwarte"
   },
   {
    "data": "300-04-19",

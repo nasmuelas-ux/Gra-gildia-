@@ -4311,7 +4311,7 @@
    "kanal": "list do Nesty",
    "wraca": "300-04-26",
    "zamyka": "decyzja pana: miejsce i termin dla Ilaria; czy werbowac czterech",
-   "status": "otwarte"
+   "status": "zrobione 300-04-25 - Ilario na Fose, mistrz skryptorium, z zona; czterech pisarzy z Braavos - werbunek przez Neste, podroz placi Dom."
   },
   {
    "data": "300-04-24",
@@ -4338,6 +4338,15 @@
    "kanal": "kruk Winterfell-Fosa + kruk Winterfell-Bialy Port (04-26); czeladnik Wata jezdziec BP-Fosa",
    "wraca": "300-05-20",
    "zamyka": "PIERWSZA ODBITKA tablicy na stole (rzut przy odbitce)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-25",
+   "co": "SKRYPTORIUM NA FOSIE - Ilario (mistrz, z zona) + czterech pisarzy z Braavos (werbunek Nesty, podroz Dom). Metody: dyktando, skladki, karty liniowane z prasy, jeden kroj i skroty. Pierwsze odpisy: prawa Korony dla komor i lordow.",
+   "kto": "NESTA (werbunek) -> ILARIO + 4; GARRICK (izba)",
+   "kanal": "list do Nesty (Bialy Port-Braavos) + statek Braavos-Bialy Port + jezdziec BP-Fosa",
+   "wraca": "300-06-20",
+   "zamyka": "Ilario i pisarze na Fosie, pierwsza skladka odpisana",
    "status": "otwarte"
   }
  ],

@@ -3136,7 +3136,7 @@
    "nota": "1128 (rzut 36): strzepy z Braavos/Wolnych Miast - ostatnia Targaryenka daleko na wschodzie (Qarth), szept o SMOKACH (dziki, powazni machaja reka). Plotka nie fakt ALE 'nie gaśnie' (opowiesci o wygnancach zwykle gasna, ta wraca). Symon odklada na horyzont oznaczone (czynnik zewnetrzny wywraca wage w noc - Aegon+smoki). Nie dziala; obserwuje. Willa dalej nasluchuje.",
    "filar": "DAENERYS",
    "stan_watku": "ZYWY",
-   "_dziennik_nota": 2
+   "_dziennik_nota": 3
   },
   {
    "id": "plan_kampania_westerland_pincer_1128",
@@ -6515,7 +6515,7 @@
   {
    "id": "karty_krolestw_300_04",
    "status": "otwarty",
-   "_dziennik_nota": 10
+   "_dziennik_nota": 11
   }
  ]
 }

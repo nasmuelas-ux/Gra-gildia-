@@ -3688,7 +3688,7 @@
    "co": "LIST SYMONA DO MAESTRA THEOMORE'A - co o Dzieciach Lasu i wargach jest w jego skrzyniach i u Manderlych.",
    "kto": "SYMON -> THEOMORE (Nowy Zamek)",
    "kanal": "kruk Winterfell-Bialy Port (wylot 04-11)",
-   "wraca": "300-04-16",
+   "wraca": "300-04-17",
    "zamyka": "odpowiedz (rzut przy powrocie)",
    "status": "otwarte"
   },
@@ -3742,7 +3742,7 @@
    "co": "LIST ZAMKNIETY DO HOWLANDA REEDA O BRANIE (warg? sny, wolanie spod zamku) - prosba o rade. Czeka przy grobli razem z pierwszym listem, az krannogowie wyjda.",
    "kto": "poslaniec przy grobli (przez Garricka)",
    "kanal": "kruk Winterfell-Fosa (wylot 04-12) + poslaniec do Greywater Watch",
-   "wraca": "300-04-16",
+   "wraca": "300-04-20",
    "zamyka": "krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni ### 04-13: krannogowie wracaja do grobli ~04-16 - wtedy list o Branie idzie do nich.",
    "status": "otwarte - bez zegara z natury kanalu"
   },
@@ -3751,7 +3751,7 @@
    "co": "LIST SYMONA DO MIRY - jak sie czuje (zalecenie skonczone, spi przed polnoca), teskni za nimi; kareta czeka na slowo Rhony.",
    "kto": "SYMON -> MIRA (Nowy Zamek)",
    "kanal": "kruk Winterfell-Bialy Port (wylot 04-12)",
-   "wraca": "300-04-16",
+   "wraca": "300-04-17",
    "zamyka": "odpowiedz Miry (rodzina, bez rzutu)",
    "status": "otwarte"
   },
@@ -3904,7 +3904,7 @@
    "co": "OSRIC - pytanie do wracajacego poslanca zza Muru: mlody czarny brat z bialym wilkiem wsrod ludzi Mance'a? Tylko wiedza, bez imion na pismie.",
    "kto": "SYMON -> OSRIC (Czarny Zamek)",
    "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-16)",
-   "wraca": "300-04-23",
+   "wraca": "300-04-24",
    "zamyka": "odpowiedz Osrica (po powrocie poslanca albo 'nie wrocil')",
    "status": "otwarte"
   },
@@ -3913,7 +3913,7 @@
    "co": "AEMON - co Straz zapisala o ostatnim dniu Benjena Starka (Pierwszy Zwiadowca).",
    "kto": "SYMON -> MAESTER AEMON",
    "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-16)",
-   "wraca": "300-04-23",
+   "wraca": "300-04-24",
    "zamyka": "odpowiedz Aemona (rzut przy powrocie)",
    "status": "otwarte"
   }

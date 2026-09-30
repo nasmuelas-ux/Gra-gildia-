@@ -29,7 +29,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
-- **+1 dni** — BRAN - SPOSOB PORUSZANIA SIE NA PRZYSZLOSC (poza koszem u Hodora): obmyslic z Luwinem (krzeslo, uprzaz, siodlo, podnosnik). · _kanal:_ rozmowa w Winterfell · _zamyka:_ pomysl z Luwinem na stole
+- **+2 dni** — BRAN - SPOSOB PORUSZANIA SIE NA PRZYSZLOSC (poza koszem u Hodora): obmyslic z Luwinem (krzeslo, uprzaz, siodlo, podnosnik). · _kanal:_ rozmowa w Winterfell · _zamyka:_ pomysl z Luwinem na stole
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -532,10 +532,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-04-15 ranek · zima (300)
+- **Data:** 300-04-16 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 95 · Sytosc 100 · Zmeczenie 54**
+- **Zdrowie 95 · Sytosc 72 · Zmeczenie 30**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1082,7 +1082,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `dzieci_lasu_i_wargowie_300_04` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-04-15] `maester_aemon`: 300-04-15 POPOLUDNIE - SYMON PISZE DWA LISTY NA MUR. Bez rzutu (wlasne pisma). KANAL: kruk Winterfell-Czarny Zamek (lancuch maesterski), wylot jutro rano 04-16, na Murze 04-19; odpowiedzi ~0…
 - [300-04-15] `dziennik`: 300-04-15 POZNE POPOLUDNIE, PRZEDPOKOJ KOMNAT KROLOWEJ - SYMON U SANSY. Bez rzutu. Sansa siedzi przy oknie w przedpokoju (krolowa spi z synem obok, akuszerka czuwa), na kolanach plik kart re…
 - [300-04-15] `starkowie/SANSA`: 300-04-15 POZNE POPOLUDNIE, PRZEDPOKOJ KOMNAT KROLOWEJ - SYMON U SANSY. Bez rzutu. Sansa siedzi przy oknie w przedpokoju (krolowa spi z synem obok, akuszerka czuwa), na kolanach plik kart re…
 - [300-04-15] `dziennik`: 300-04-15 POZNE POPOLUDNIE, PRZEDPOKOJ - SYMON: 'Jak sie ma?' Bez rzutu. SANSA odpowiada o obu, zaczynajac od krolowej: 'Slaba. Spi, budzi sie, pije rosol, znowu spi. Goraczki nie ma. Maeste…
@@ -1094,3 +1093,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-04-15] `starkowie/SANSA`: 300-04-15 POZNE POPOLUDNIE, PRZEDPOKOJ - SYMON: zgadza sie - powie jej pierwszej. Bez rzutu. ZOBOWIAZANIE STALE SYMONA: kazda rozmowa o malzenstwie Sansy (przy Krolu, w liscie, przy stole) -…
 - [300-04-15] `dziennik`: 300-04-15 WIECZOR, WIELKA SALA - KOLACJA. Bez rzutu. Kasza z grzybami, wedzona ryba, chleb, piwo. Ciszej niz wczoraj - zamek spi na dwie zmiany. Krol je z Rickonem obok i idzie z nim na kwad…
 - [300-04-15] `starkowie/ARYA`: 300-04-15 WIECZOR, WIELKA SALA - KOLACJA. Bez rzutu. Kasza z grzybami, wedzona ryba, chleb, piwo. Ciszej niz wczoraj - zamek spi na dwie zmiany. Krol je z Rickonem obok i idzie z nim na kwad…
+- [300-04-16] `dziennik`: 300-04-16 RANEK, WINTERFELL - SEN RZUT 25: noc slaba - wicher lomotal okiennica, budzil sie trzy razy; zdrowie 95 bez zmian, zmeczenie 54->30, sytosc 100->72. POGODA RZUT 13: nawalnica z zac…

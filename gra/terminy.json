@@ -4428,6 +4428,24 @@
    "kanal": "w zamku",
    "wraca": "300-05-02",
    "zamyka": "odpowiedz Symona o dowodzeniu + plan Theona przy jednym stole",
+   "status": "zrobione 300-04-26 - Symon odpowiedzial na warunek Krola (Osric + dwoch urzednikow Korony); Krol przyjal rame. Plan Theona dalej ~05-02 przy tym samym stole."
+  },
+  {
+   "data": "300-04-26",
+   "co": "KRUK DO OSRICA (Czarny Zamek): zmiana na Murze - po sprawie ludzi posla przekazac zmiennikowi i wracac do Winterfell; nowe zadanie: struktura pospolitego ruszenia (najpierw Kamienny Brzeg i domena), potem nabor do armii krolewskiej.",
+   "kto": "KROL -> OSRIC",
+   "kanal": "kruk Winterfell-Czarny Zamek (04-27)",
+   "wraca": "300-04-30",
+   "zamyka": "potwierdzenie Osrica + data wyjazdu; powrot do Winterfell ~05-14",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "TRZY NAZWISKA DLA KROLA: Wielki Zarzadca Kamiennego Brzegu, Wielki Kasztelan Kamiennego Brzegu, posel na Mur w miejsce Osrica. Mysl Krola: zapytac Torrena Solnego (stamtad), komu ludzie brzegu wierza.",
+   "kto": "SYMON -> KROL",
+   "kanal": "w zamku",
+   "wraca": "300-05-02",
+   "zamyka": "nazwiska na stole Krola (razem z planem Theona)",
    "status": "otwarte"
   }
  ],

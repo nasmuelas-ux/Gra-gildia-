@@ -364,7 +364,7 @@
    "MARSZALEK CHORAGWI": {
     "kto": "OSRIC KAMIEN",
     "od": "299-09-07",
-    "nota": "posel do Muru; MELDUNEK VII ZALEGLY, adres Winterfell"
+    "nota": "posel do Muru; MELDUNEK VII ZALEGLY, adres Winterfell ### 300-04-26: ZMIENIONY NA MURZE (rozkaz Krola na wniosek Namiestnika) - po sprawie ludzi zaginionego posla (~04-29) przekazuje zmiennikowi (WAKAT - nazwisko do wskazania) i wraca do Winterfell. NOWE ZADANIE: STRUKTURA POSPOLITEGO RUSZENIA (spis, szyki, zbrojownie, dni cwiczen) - najpierw Kamienny Brzeg i domena Korony; potem nabor do armii krolewskiej z najlepszych rezerwistow."
    },
    "GLEBOKORZEN": {
     "kto": "THEOMORE",
@@ -534,6 +534,24 @@
    "drabina": "LENNO",
    "pilnosc": "PYTANIE BEZ ODPOWIEDZI",
    "nota": "ustroj od 299-08 (jedno palenisko jeden glos, lawa z oboma glosami); Symon pytal, ktore wsie wybraly - odpowiedzi nie dostal."
+  },
+  {
+   "urzad": "WIELKI ZARZADCA KAMIENNEGO BRZEGU",
+   "drabina": "KORONA",
+   "pilnosc": "NAZWISKO OD NAMIESTNIKA",
+   "nota": "Ustanowiony 300-04-26 (Krol na wniosek Namiestnika). Gospodarczo-administracyjny: organizuje ziemie Korony w imieniu Krola (spis wsi i dymow, spichlerz, targ, droga, podatek w naturze). Odpowiada przed Krolem, melduje co kwartal. Krol: 'jeden liczy, drugi trzyma miecz i sad - zaden nie ma wszystkiego'."
+  },
+  {
+   "urzad": "WIELKI KASZTELAN KAMIENNEGO BRZEGU",
+   "drabina": "KORONA",
+   "pilnosc": "NAZWISKO OD NAMIESTNIKA",
+   "nota": "Ustanowiony 300-04-26. Wojskowo-sadowy: rezerwy w jednolitych szykach, zbrojownie przy wsiach, straz brzegu, sad. Odpowiada przed Krolem; w sprawach szyku przed Marszalkiem Choragwi (Osric). Melduje co kwartal."
+  },
+  {
+   "urzad": "POSEL KORONY NA MURZE (zmiennik Osrica)",
+   "drabina": "KORONA",
+   "pilnosc": "PRZED ~05-10 (Osric przekazuje po ~04-29)",
+   "nota": "Osric zdjety z Muru 300-04-26 do budowy pospolitego ruszenia. Zmiennik przejmuje: Stannis, Aemon/Clydas, kolumny zbozowe, obsydian (~05-18)."
   }
  ],
  "_nie_dotyczy": {

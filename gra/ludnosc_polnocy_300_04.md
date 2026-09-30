@@ -13,7 +13,7 @@
 | Klany górskie | 60 000 – 80 000 | G |
 | Karstark (Karhold) | 50 000 – 70 000 | G |
 | Umber (Ostatnie Ognisko) | 50 000 | G |
-| Hornwood (wakat) | 50 000 – 70 000 | E |
+| Hornwood (lord Larence; zarządza lady Donella) | 50 000 – 70 000 | E |
 | Tallhart (Torrhen's Square) | 40 000 – 60 000 | E |
 | Reed i krannogowie (Przesmyk) | 30 000 – 50 000 | E |
 | Cerwyn | 30 000 – 40 000 | E |
@@ -32,7 +32,7 @@
 - **Muster a dusze.** Cały host Robba to 18–20 tys. (mapa rodów) — **ok. 1–1,5% ludności.** Domena Starków wystawia 1000–1500 z 200–300 tys. dusz: **pół procenta.** Nie z braku ludzi — z braku hełmów, szyku i zboża, które puści chłopa z pola.
 - **Teza Namiestnika (300-04-26):** szkolone rezerwy i spis mogą podnieść muster z lenna **kilkukrotnie** bez stałego żołdu — wzór Skały: kadra, która umie dowodzić, i zbrojownia.
 - **Manderly** ma najwięcej dusz i najwięcej monety (40–60 tys. smoków/rok) — spójne z EKONOMIA_BAZA.md.
-- **Hornwood (E 50–70 tys.) bez pana** — największa próżnia na mapie; Bolton łasi się na tę ziemię.
+- **Hornwood (E 50–70 tys.) MA PANA** — lord Larence Hornwood (legitymizowany 299-08-04), dziś jeszcze u kuratora Galbarta Glovera; Król wzywa go przez Winterfell do 05-10. Spór o wyrąb z Dreadfortem u Justycjariusza.
 - **Fosa Cailin — POPRAWKA 300-04-26 (gracz):** pierwsza wersja liczyła tylko miasto (2–2,5 tys.). **Całe lenno: 5–8 tys. (E)** — miasto Cailin ~1400 (spis Alys 300-02-25) + ~400 przybyszów (rejestr Melli) + wsie lenna (sołtysi od 299-08) + osady bagienne, ludzie grobli i przewłoki. Imienny spis 640 dusz z 299-06 obejmował tylko ludzi pod zamkiem — nie całe lenno.
 - **JAK POWSTANIE SPIS (gracz 300-04-26):** powoli. **Osric** prowadzi spis przy budowie ruszenia; **działająca administracja** (sołtysi, komory, pisarze Korony, Rejestrator, szkoły) **zbiera dane przy okazji swojej roboty** — każda liczba twarda zastępuje E.
 - **Żadna z tych liczb nie jest spisem.** Spis (Rejestrator, struktura Osrica) zastąpi E liczbą twardą.

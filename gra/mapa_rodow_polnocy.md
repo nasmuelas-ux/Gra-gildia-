@@ -25,7 +25,7 @@
 | **Mormont** | Wyspa Niedźwiedzia | Maege | ~300–400 **E** | zajadli, w tym kobiety | wierny |
 | **Cerwyn** | Castle Cerwyn | Medger | ~300 / stracił 1/3 → ~200 **F** | blisko Winterfell | wierny (Justycjariusz) |
 | **Klany gór** (Wull, Norrey, Liddle, Flint, Burley, Harclay) | Góry | wodzowie | łącznie ~1000–2000 **E** | zajadli górale | wierni **osobiście** Starkowi |
-| **Hornwood** | Hornwood | *wakat* | ~kilkuset, bez głowy **E** | osłabiony, bez pana | **próżnia — Bolton łasi się na ziemię** |
+| **Hornwood** | Hornwood | **lord LARENCE HORNWOOD** (legitymizowany 299-08-04; kurator Galbart Glover; zarządza lady Donella do jego przybycia) | ~kilkuset **E** | osłabiony, pan małoletni | **ma pana — spór o wyrąb z Dreadfortem u Justycjariusza** |
 | Drobni (Locke, Slate, Stout, Woolfield, Flint z Widow's Watch, Lake…) | rozproszone | — | łącznie ~1000–1500 **E** | mieszani | w większości lojalni |
 
 ## II. WINTERFELL / STARK — siła zbrojna wprost
@@ -38,7 +38,7 @@
 
 - **Rdzeń wierny (miażdżąca większość mieczy):** Manderly, Umber, Karstark, Glover, Mormont, Reed, Cerwyn, Tallhart, klany gór. → razem **grubo ponad 8–10 tys.**
 - **Sfera Dreadfortu (mniejszość):** Bolton + Ryswell (krew) + małe domy Płaczącej Wody i górnej Rzeki Kopców (biorą sól, bo tylko Dreadfort dojeżdża). Dustin — związany krwią, lecz **dziś przechylony ku nam**. → razem **2–3 tys.**, jeśli w ogóle by się zeszli.
-- **Próżnia:** **Hornwood** — ziemia bez pana, którą Bolton chce połknąć. **Punkt zapalny.**
+- ~~Próżnia: Hornwood~~ — **NIEAKTUALNE od 299-08-04:** Hornwood MA PANA (lord Larence, kurator Galbart Glover, zarządza lady Donella). Zostaje spór o wyrąb z Dreadfortem (Justycjariusz). Poprawka 300-04-26.
 
 ## IV. ODCZYTY STRATEGICZNE
 

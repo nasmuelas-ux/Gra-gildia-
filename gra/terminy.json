@@ -4483,6 +4483,15 @@
    "wraca": "300-05-22",
    "zamyka": "liczba ludzi + miejsce palisady (po powrocie Osrica)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "LORD LARENCE HORNWOOD PRZEZ WINTERFELL: Krol wzywa kuratora Galbarta Glovera - chlopak ma stanac w Winterfell na ucztę 05-10 (gaj rano, przed Krolem), potem do Hornwood z lady Donella.",
+   "kto": "KROL -> GALBART GLOVER (do wiad. Robett)",
+   "kanal": "kruk Winterfell-Deepwood Motte (04-27)",
+   "wraca": "300-04-30",
+   "zamyka": "odpowiedz Glovera (rzut) + Larence w Winterfell ~05-09",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

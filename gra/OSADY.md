@@ -74,7 +74,7 @@
 # IV. OSADY PRZYZAMKOWE — **NIE MIASTA**
 *Domy pod bramą zamku. Bez rady, bez karty, bez kasy miejskiej. Dochód idzie jak ze wsi.*
 
-**Torrhen's Square** (Tallhart) · **Karhold** (Karstark) · **Deepwood Motte** (Glover) · **Ostatnie Ognisko** (Umber) · **Dreadfort** (Bolton) · **Castle Cerwyn** (Cerwyn) · **Widow's Watch / Wdowia Strażnica** (Flint) · **Queenscrown** (Korona) · **Hornwood** — **WAKAT, precedens Hornwood** · **Kamienisty Brzeg** — *nie ma tam nic, ani baszty*
+**Torrhen's Square** (Tallhart) · **Karhold** (Karstark) · **Deepwood Motte** (Glover) · **Ostatnie Ognisko** (Umber) · **Dreadfort** (Bolton) · **Castle Cerwyn** (Cerwyn) · **Widow's Watch / Wdowia Strażnica** (Flint) · **Queenscrown** (Korona) · **Hornwood** — **lord Larence Hornwood** (od 299-08-04; zarządza lady Donella do jego przybycia) · **Kamienisty Brzeg** — *nie ma tam nic, ani baszty*
 
 ---
 

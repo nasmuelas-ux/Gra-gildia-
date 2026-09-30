@@ -4014,7 +4014,7 @@
    "kanal": "rozmowa w Winterfell; potem kruk Fosa-KP",
    "wraca": "300-04-20",
    "zamyka": "Bran chce albo nie; jesli tak - list napisany",
-   "status": "otwarte"
+   "status": "zrobione 300-04-20 - Bran napisal SAM (tresc w dzienniku); pokazuje Robbowi wieczorem; wysylka po zgodzie Krola."
   },
   {
    "data": "300-04-19",
@@ -4068,6 +4068,15 @@
    "kanal": "robota na miejscu (Wintertown)",
    "wraca": "300-04-24",
    "zamyka": "targ odbyty, ksiega targu na stole Krola - albo przesuniety z powodu pogody",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-20",
+   "co": "LIST BRANA DO TYRIONA - WYSYLKA po zgodzie Krola (Bran pokazuje mu sam wieczorem 04-20). Tresc: podziekowanie za rysunek siodla, przymiarka 24; bez slowa o upadku.",
+   "kto": "BRAN -> KROL -> kruk",
+   "kanal": "kruk Winterfell-Fosa + kruk Fosa-Krolewska Przystan",
+   "wraca": "300-04-21",
+   "zamyka": "Krol pozwala i ptak leci - albo Krol zatrzymuje list",
    "status": "otwarte"
   }
  ],

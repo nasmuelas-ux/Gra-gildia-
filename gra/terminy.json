@@ -536,7 +536,7 @@
    "zamyka": "podpis przywileju -> potem rozglos",
    "status": "otwarte - warunkowe",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": "300-04-15"
+   "wraca": "300-05-15"
   },
   {
    "data": "wyslany 300-03-03 o brzasku",
@@ -1214,7 +1214,7 @@
    "kanal": "morze Bialy Port-Braavos",
    "wraca": "300-04-15",
    "zamyka": "ladunek w skladzie Domu, wazony i wpisany",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-15: trzy skrzynie w skladzie Domu, zwazone i wpisane (51)"
   },
   {
    "data": "300-03-07",
@@ -1285,7 +1285,7 @@
    "co": "SKUTEK UBOCZNY KLAUZULI X DO OBSERWACJI, NIE DO ZALATWIENIA DZIS: brokerka zboza przechodzi w rece domow polnocnych, czyli w niemalej czesci W RECE DOMU NAMIESTNIKA. Prawo, ktore wzmacnia wlasny dom, musi wytrzymac pytanie zadane na glos przy czternastu domach. ZABEZPIECZENIE WPISANE OD RAZU: klauzula NIE DAJE NIKOMU WYLACZNOSCI - daje ja KAZDEMU, KTO WEJDZIE DO KSIEGI, a ksiega jest otwarta i jawna. DO SPRAWDZENIA PO MIESIACU: czy udzial Domu Tally w obrocie zbozem rosnie szybciej niz obrot ogolem.",
    "kto": "GERRIK RACHUBA + ksiega targu",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-04-15",
+   "wraca": "300-04-20",
    "zamyka": "dwie liczby obok siebie: obrot okregu i udzial Domu",
    "status": "otwarte"
   },
@@ -2244,7 +2244,7 @@
    "co": "GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem.' [VOID 300-04-13: Catelyn jest w Dorzeczu, nie w Dolinie.] Dolina nic nie powiedziala. ### WRACA, GDY DOLINA COKOLWIEK POWIE - i wtedy bedzie to decyzja o interesie, nie o zakladzie.",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-04-15",
+   "wraca": "300-06-15",
    "zamyka": "Dolina mowi cokolwiek - wtedy pytanie wraca",
    "status": "otwarte - ODLOZONE Z POWODEM"
   },
@@ -2805,7 +2805,7 @@
    "kanal": "kantor Bialy Port",
    "wraca": "300-04-15",
    "zamyka": "zrodlo szmat nazwane i zakontraktowane - albo trzecia kadz nie ruszy",
-   "status": "otwarte - uwaga 300-04-06: Seagard odmowil (Mallister, 16) - droga szmat przez Seagard zamknieta; zostaja Bialy Port i poludnie morzem.",
+   "status": "zamkniete 300-04-15: szmaty z szwalni i lazni Bialego Portu, dwoch szmaciarzy; trzecia kadz moze ruszyc",
    "co": "PAPIERNIA: WASKIM GARDLEM SA SZMATY, NIE POPYT - i to jest jedyna linia, ktorej popyt WLASNIE WYBUCHL, bo KROLESTWO ZACZELO PISAC. Dwie kadzie od 299-08-26; Wat mowi, ze przy trzeciej trzeba drugiego mlyna. SZMATY TRZEBA KUPIC Z POLUDNIA I Z BIALEGO PORTU. ⚠ ZBIEG, KTORY TO ULATWIA I O KTORYM NIKT NIE POMYSLAL: Dom wlasnie otwiera SEAGARD i ocenia trzy miasta Dorzecza - a szmaty sa towarem, ktory w spalonym pasie jest jedyna rzecza, jakiej NIE BRAKUJE."
   },
   {
@@ -3227,7 +3227,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-15",
    "zamyka": "stawka i liczba wpisane do ksiegi Kasy 3; pierwszy zold 300-05-01",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-15: 30 ludzi, stawka strazy Korony z ksiegi Kasy 3; zold od 05-01"
   },
   {
    "data": "300-04-01",
@@ -3366,7 +3366,7 @@
    "kanal": "kruk Winterfell-Fosa (rozkaz) + trakt Fosa-Winterfell (odpis)",
    "wraca": "300-04-15",
    "zamyka": "odpis w rekach Brana",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-15: odpis w rekach Brana"
   },
   {
    "data": "300-04-05",
@@ -3537,7 +3537,7 @@
    "kanal": "przez Dustinport (Torren) / kruk z Wyspy Niedzwiedziej",
    "wraca": "300-04-15",
    "zamyka": "tak/nie Maege",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-15: tak, od ~06-01 (34) - lodzie na fokach do konca V"
   },
   {
    "data": "300-04-06",
@@ -3708,7 +3708,7 @@
    "kanal": "kruk Winterfell-Fosa (wylot 04-11)",
    "wraca": "300-04-15",
    "zamyka": "odpowiedz (rzut przy powrocie)",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-15: z ksiag malo (42); Wystan pyta krannogow ustnie"
   },
   {
    "data": "300-04-10",
@@ -3861,7 +3861,7 @@
    "kanal": "lancuch maesterski do domow (kruki Winterfell)",
    "wraca": "300-04-15",
    "zamyka": "ptaki wyslane rano 04-15",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-15: imie EDDARD; ptaki wyszly rano do wszystkich domow"
   },
   {
    "data": "300-04-14",
@@ -3879,6 +3879,24 @@
    "kanal": "kruk Winterfell-Fosa (wylot 04-15) + zbiorczy 04-18",
    "wraca": "300-04-20",
    "zamyka": "propozycja Garricka z kosztem i data; potem wysylka traktem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-15",
+   "co": "MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok.",
+   "kto": "MAEGE MORMONT",
+   "kanal": "przez Dustinport (Torren)",
+   "wraca": "300-06-01",
+   "zamyka": "ogien Wyspy zapalony, pierwszy meldunek",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-15",
+   "co": "KROLOWA - TRZY DNI POD STRAZA LUWINA (goraczka?). Rzut przy 04-17.",
+   "kto": "LUWIN",
+   "kanal": "Winterfell",
+   "wraca": "300-04-17",
+   "zamyka": "trzecia noc bez goraczki albo goraczka",
    "status": "otwarte"
   }
  ],

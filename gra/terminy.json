@@ -3906,7 +3906,7 @@
    "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-16)",
    "wraca": "300-04-24",
    "zamyka": "odpowiedz Osrica (po powrocie poslanca albo 'nie wrocil')",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-21 - poslaniec nie wrocil (rzut 15); pytania nie bylo komu zadac."
   },
   {
    "data": "300-04-15",
@@ -3996,7 +3996,7 @@
    "kanal": "wlasna robota (Winterfell) + poczta 04-20",
    "wraca": "300-04-21",
    "zamyka": "zestawienie Muru na stole Krola",
-   "status": "otwarte ⏸ 04-20: bez poczty z Muru zestawienia nie ma z czego zlozyc - 04-21."
+   "status": "zrobione 300-04-21 - karta Muru na stole Krola (8 rubryk + 3 otwarte pytania)."
   },
   {
    "data": "300-04-19",

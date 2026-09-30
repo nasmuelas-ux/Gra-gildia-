@@ -4285,6 +4285,15 @@
    "wraca": "300-04-25",
    "zamyka": "pierwszy sparing odbyty",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-23",
+   "co": "HAL - (1) Dom na otwartych targach natury Korony (Wintertown/Fosa/Bialy Port), jak kazdy kupiec, z wpisem; (2) OSOBNA RUBRYKA: ekstra zysk ze sprzedazy towaru Korony (zwrot 695) ponad sam zwrot dlugu.",
+   "kto": "SYMON -> HAL",
+   "kanal": "kruk Winterfell-Bialy Port (04-24)",
+   "wraca": "300-04-28",
+   "zamyka": "odpowiedz Hala: plan zakupow na targach + rubryka ekstra zysku",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

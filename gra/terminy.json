@@ -4330,6 +4330,15 @@
    "wraca": "300-04-25",
    "zamyka": "data i lista gosci na stole Krola",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-25",
+   "co": "DRUKARNIA NA FOSIE - ETAP I (drzeworyt): izba warsztatu (Garrick), rzezbiarz spod grobli (klocki), prasa srubowa wg rysunku czeladnika Wata (ciesle Fosy), farba (sadza torfowa + olej lniany), papier Wata. Pierwsze produkty: TABLICA KURSU I MIAR KORONY, KALENDARZ 301. Placi Dom.",
+   "kto": "GARRICK (miejsce, ludzie) + WAT (prasa, papier, farba)",
+   "kanal": "kruk Winterfell-Fosa + kruk Winterfell-Bialy Port (04-26); czeladnik Wata jezdziec BP-Fosa",
+   "wraca": "300-05-20",
+   "zamyka": "PIERWSZA ODBITKA tablicy na stole (rzut przy odbitce)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

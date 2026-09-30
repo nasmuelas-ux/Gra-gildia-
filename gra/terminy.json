@@ -4468,7 +4468,7 @@
   },
   {
    "data": "300-04-26",
-   "co": "LIST DO TORRENA SOLNEGO: kto na Kamiennym Brzegu nadaje sie na Wielkiego Zarzadce (liczy, ludzie sluchaja, przezyl najazdy i zostal) - i czy ktos na Kasztelana; ile wsi i dymow wie z pamieci.",
+   "co": "LIST DO TORRENA SOLNEGO: kto na Kamiennym Brzegu nadaje sie na Wielkiego Zarzadce (liczy, ludzie sluchaja, przezyl najazdy i zostal) - i czy ktos na Kasztelana; ile wsi i dymow wie z pamieci. ### +04-27: SOL I SIECI DLA STARKPORTU - szukac na Kamiennym Brzegu (wsie rybackie, panwie), dostawa lodzia/Dustinport, placi Kasa 3.",
    "kto": "SYMON -> TORREN SOLNY",
    "kanal": "kruk Winterfell-Fosa (04-27) + jezdziec Fosa-Dustinport - wylot 04-28 (pogoda)",
    "wraca": "300-05-10",
@@ -4500,6 +4500,24 @@
    "kanal": "kruk Winterfell-Blizniaki (04-28, pogoda)",
    "wraca": "300-05-03",
    "zamyka": "odpowiedz Waldera: ktory wnuk i czy jedzie z synem na ucztę",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-27",
+   "co": "PISMO GAWENA do komory Bialego Portu i do Gartha: celnicy BP - dwaj Korony + dwaj Manderlych, wzajemna kontrola (wniosek 'wszyscy na Kase 3' wycofany); dopisek doktryny: Korona moze pobierac myto pana na jego zyczenie, nigdy na odwrot.",
+   "kto": "GAWEN -> KOMORA BP + GARTH",
+   "kanal": "kruk Winterfell-Bialy Port (04-28)",
+   "wraca": "300-05-02",
+   "zamyka": "potwierdzenie komory BP",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-27",
+   "co": "CELNICY PANA NA FOSIE - kilku wlasnych ludzi Symona do myta pana obok komory Korony (pisarz komory Fosy liczy obie kolumny). Wskazuje Warryn/Garrick.",
+   "kto": "SYMON -> WARRYN/GARRICK",
+   "kanal": "kruk Winterfell-Fosa (04-28)",
+   "wraca": "300-05-04",
+   "zamyka": "imiona celnikow pana na Fosie",
    "status": "otwarte"
   }
  ],

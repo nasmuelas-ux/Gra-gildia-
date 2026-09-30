@@ -75,6 +75,11 @@ Towar obcy wystawiony na sprzedaż **bez kwitu komory** płaci na wadze **POTRÓ
 ## ① JEDNA BRAMA, JEDNA MIARA, DWIE SKRZYNIE
 Towar przechodzi **raz** i jest mierzony **raz**. Z jednego pomiaru liczy się obie opłaty i rozdziela do dwóch skrzyń pod dwiema pieczęciami. **Grosz Korony nie nocuje w skarbcu lenna.**
 
+> **⚑ DOPISEK 300-04-27 (rozstrzygnięcie Namiestnika, moc zapisu) — KTO LICZY, KTO POBIERA:**
+> - **Komora Korony LICZY obie kolumny zawsze i za darmo** (doktryna 300-04-21: „jedna brama, dwie kieszenie").
+> - **Korona MOŻE pobierać myto pana w jego imieniu — jako OPCJA, na życzenie pana. NIGDY NA ODWRÓT:** ludzie pana nie pobierają cła Korony.
+> - **Tam, gdzie pan chce pobierać sam** (Biały Port — Wyman 300-04-26; Fosa — Symon 300-04-27), przy jednym ładunku stoją **dwie ręce: celnicy Korony i celnicy pana, i każda strona kontroluje drugą.** Wniosek „wszyscy celnicy na żołdzie Kasy 3” — wycofany.
+
 ## ② CŁO LOKALNE NIEZGŁOSZONE NIE ISTNIEJE
 Każdy port i każda brama wykłada Koronie **pełną listę własnych opłat na piśmie.** Wolno pobierać wyłącznie to, co zgłoszone i wywieszone przy bramie.
 > **ZGŁOSZONE JEST CHRONIONE:** Korona gwarantuje, że opłaty z listy są prawem pana i nikt ich nie tknie.

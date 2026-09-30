@@ -452,3 +452,15 @@ I to nie jest przypadek, że pozostała właśnie ta trójka: **wszystkie trzy s
 - **29 (moneta):** oceniona ●●● pokoleniowa — **jest zrobiona.** Mennica Wilk bije.
 - **39 (wspólna obrona):** ocena zaniżona. Ograniczeniem nie jest pieniądz, tylko to, że **Korona nie ma ani jednego własnego zbrojnego.**
 - **27 (niska stawka):** stawka jest ogłoszona i stała — **„niska" to osobna decyzja i osobny koszt.**
+
+
+---
+
+## ⚑ DOKTRYNA GOSPODARCZA KORONY — 300-04-27 (Namiestnik przy Królu i Skarbniku; Król TAK, rzut 69)
+
+1. **Północ ma surowiec** (wełna, skóry, len, drewno, torf, żelazo bagienne, ryba). Może być tanim źródłem surowca i dać się szachować Essos i Reach — **albo rozwijać własne rzemiosło. Wybór: rzemiosło.**
+2. **Korona docelowo zarabia z PODATKÓW I CEŁ, nie z handlu.** Handel naturą to etap przejściowy (wyprzedaż danin), nie model.
+3. **Cel polityki: żeby ludzie sami się wzbogacili** i mogli kupić sobie jedzenie. Stąd **najpierw popyt wewnętrzny, dopiero nadwyżki za granicę.**
+4. **Pierwszy krok: ZIMOWE MIASTO jako ośrodek rzemiosła** — wełna i skóry z danin i domeny obrabiane na miejscu: skóra na buty, kaletnictwo, półprodukty; wełna na odzież i **na wojsko** (płaszcze, przeszywanice).
+5. **Wezwanie rzemieślników** konkretnych fachów + **zwolnienia jak na Fosie** (wolność rzemiosła bez cechu — już w Karcie Wintertown; ulga Korony — już w Karcie). **Podatek miejski uchwala ława, nie Król** — zwolnienie z niego idzie przez burmistrza i ławę.
+6. **Korona jako pierwszy kupiec, nie sprzedawca:** zbrojownia na tysiąc kupuje płaszcze, przeszywanice, buty, tarcze **u rzemieślników Zimowego Miasta, po cenie ze słupa** — i przez to wełna z gór ma kupca na Północy, bez zbijania ceny góralom.

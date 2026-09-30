@@ -4519,6 +4519,24 @@
    "wraca": "300-05-04",
    "zamyka": "imiona celnikow pana na Fosie",
    "status": "zrobione 300-04-27 - rozkaz do Gerrika Rachuby krukiem 04-28; celnicy pod skarbnikiem, bez meldunku imion"
+  },
+  {
+   "data": "300-04-27",
+   "co": "KROL Z BURMISTRZEM ZIMOWEGO MIASTA (OSWYN MIARKA) I LAWA: zwolnienie nowo przybylych rzemieslnikow z oplat miejskich na lata (Karta Wintertown ma juz wolnosc rzemiosla i ulge Korony; podatek miejski uchwala lawa).",
+   "kto": "KROL -> BURMISTRZ + LAWA",
+   "kanal": "w zamku / Zimowe Miasto",
+   "wraca": "300-04-30",
+   "zamyka": "uchwala lawy (rzut) - ile lat zwolnienia",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-27",
+   "co": "WEZWANIE RZEMIESLNIKOW DO ZIMOWEGO MIASTA - pismo (kancelaria Berona) na slupy: Zimowe Miasto, Fosa, Bialy Port, Barrowton; zawody z listy Gawena; wolnosc bez cechu, ulga Korony, oplaty miejskie wg uchwaly lawy; KORONA PIERWSZYM KUPCEM (zbrojownia). Farbiarze i folusznik - przez Neste z Braavos.",
+   "kto": "SYMON + BERON (kancelaria)",
+   "kanal": "slupy + kruki (po uchwale lawy)",
+   "wraca": "300-05-02",
+   "zamyka": "wezwanie wywieszone w czterech miastach; list do Nesty o farbiarzach i foluszniku",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

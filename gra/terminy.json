@@ -1431,7 +1431,7 @@
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-04-24",
    "zamyka": "liczba skreslonych przez cech w ostatnich 15 latach ALBO odmowa na pismie",
-   "status": "otwarte - WYMAGA ROZKAZU GRACZA ⏸ 04-22: list Nesty na Fosie dzis, w Winterfell ze zbiorczym ~04-24."
+   "status": "zrobione 300-04-24 - rzut 58: jedenastu skreslonych w 15 lat (+Ilario); czterech w Braavos bez pracy, imiona u Nesty."
   },
   {
    "data": "300-03-04",
@@ -1495,7 +1495,7 @@
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-04-22",
    "zamyka": "tak albo nie od samego Ilaria",
-   "status": "otwarte"
+   "status": "zrobione 300-04-24 - rzut 88: TAK; pyta gdzie, od kiedy i czy z zona."
   },
   {
    "data": "300-03-04",
@@ -3339,7 +3339,7 @@
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "300-04-24",
    "zamyka": "slowo Catelyn: tak / nie",
-   "status": "otwarte"
+   "status": "zrobione 300-04-24 - rzut 85: TAK, z Namiestnikiem albo konwojem, max miesiac; 'niech sie uczy tego, czego chce, pod okiem'."
   },
   {
    "data": "300-04-04",
@@ -3852,7 +3852,7 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-13)",
    "wraca": "300-04-24",
    "zamyka": "imie pana Harrenhal -> krok 2: pismo do niego o kowali",
-   "status": "otwarte"
+   "status": "zrobione 300-04-24 - rzut 63: Harrenhal trzyma ser Robin Ryger (kasztelan Edmure'a); tytul na pergaminie u Baelisha; kowale w kuzniach - ser Robin skontaktuje."
   },
   {
    "data": "300-04-14",
@@ -3915,7 +3915,7 @@
    "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-16)",
    "wraca": "300-04-24",
    "zamyka": "odpowiedz Aemona (rzut przy powrocie)",
-   "status": "otwarte"
+   "status": "zrobione 300-04-24 - rzut 33: Benjen wyszedl z szescioma, nie wrocil; AEMON CHORY (Clydas pisze)."
   },
   {
    "data": "300-04-16",
@@ -3951,7 +3951,7 @@
    "kanal": "robota na miejscu (Winterfell)",
    "wraca": "300-04-24",
    "zamyka": "Luwin podaje dzien, w ktorym krolowa zejdzie do sali; potem lista gosci i ptaki",
-   "status": "otwarte"
+   "status": "otwarte ### 04-24 LUWIN: krolowa moze zejsc OD 04-30. Syn Waldera ~2 tygodnie drogi - Krol pyta Symona o date i liste gosci."
   },
   {
    "data": "300-04-17",
@@ -4194,7 +4194,7 @@
    "kanal": "wlasny czlowiek w Winterfell; ksiega zoldu Kasy 3",
    "wraca": "300-04-24",
    "zamyka": "lista celnikow BP z platnikiem",
-   "status": "otwarte"
+   "status": "zrobione 300-04-24 - dwoch na Kasie 3, dwoch starych na sakwie Manderlych; Gawen proponuje od 05-01 wszystkich na Kasie 3."
   },
   {
    "data": "300-04-21",
@@ -4221,7 +4221,7 @@
    "kanal": "przez Lucana / kruk Winterfell-Riverrun",
    "wraca": "300-04-24",
    "zamyka": "slowo matki (wprost albo z odpowiedzi o Fosie) i decyzja Krola",
-   "status": "otwarte"
+   "status": "otwarte ### 04-24: list Catelyn (85) - 'niech sie uczy tego, czego chce, pod okiem'; Krol: 'to jest odpowiedz i na miecz'."
   },
   {
    "data": "300-04-22",
@@ -4293,6 +4293,24 @@
    "kanal": "kruk Winterfell-Bialy Port (04-24)",
    "wraca": "300-04-28",
    "zamyka": "odpowiedz Hala: plan zakupow na targach + rubryka ekstra zysku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-24",
+   "co": "AEMON CHORY - zimno w plucach; Clydas prowadzi kruki. Stan co tydzien przez Osrica/Clydasa (wybor Lorda Dowodcy, Straz bez maestra?).",
+   "kto": "CLYDAS / OSRIC",
+   "kanal": "kruk Czarny Zamek-Winterfell",
+   "wraca": "300-05-01",
+   "zamyka": "wiesc o zdrowiu Aemona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-24",
+   "co": "ILARIO - GDZIE I OD KIEDY (i zona): odpowiedz Symona przez Neste; plus czterech skreslonych pisarzy w Braavos (imiona u Nesty) - werbunek.",
+   "kto": "SYMON -> NESTA",
+   "kanal": "list do Nesty",
+   "wraca": "300-04-26",
+   "zamyka": "decyzja pana: miejsce i termin dla Ilaria; czy werbowac czterech",
    "status": "otwarte"
   }
  ],

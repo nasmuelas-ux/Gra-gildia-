@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 23,
+  "dzien": 24,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 71 (300-04-23) - pogodnie, lekkie chmury, cieplo sie trzyma; drogi suche; kruki leca.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 95 (300-04-24) - pieknie: slonce, cieplo, lekki wiatr; dzien targowy; kruki leca.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 664,
+ "_dziennik_nota": 666,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

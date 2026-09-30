@@ -3949,9 +3949,9 @@
    "co": "UCZTA NARODZIN EDDARDA - jednego dnia: rano pokazanie dziecka drzewu serca w bozogaju, wieczorem uczta w Wielkiej Sali. Warunek Krola: krolowa przy stole. Namaszczenie septona wczesniej, w komnacie. DATA OD LUWINA (kiedy krolowa moze zejsc do sali). Walder zaproszony juz 04-14 (list Perwyna); reszta listy gosci - Symon podpowiada, gdy bedzie data. Koszt: dom Starkow, rachunek kasztelana.",
    "kto": "KROL / LUWIN (data) / KASZTELAN",
    "kanal": "robota na miejscu (Winterfell)",
-   "wraca": "300-04-24",
+   "wraca": "300-05-10",
    "zamyka": "Luwin podaje dzien, w ktorym krolowa zejdzie do sali; potem lista gosci i ptaki",
-   "status": "otwarte ### 04-24 LUWIN: krolowa moze zejsc OD 04-30. Syn Waldera ~2 tygodnie drogi - Krol pyta Symona o date i liste gosci."
+   "status": "otwarte - USTALONE 300-04-25: 300-05-10 - rano gaj (krolowa z Eddardem przed drzewem serca), wieczorem uczta; goscie: domy z Rady + Freyowie (syn Waldera); zaproszenia 04-26."
   },
   {
    "data": "300-04-17",
@@ -4329,7 +4329,7 @@
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-04-25",
    "zamyka": "data i lista gosci na stole Krola",
-   "status": "otwarte"
+   "status": "zrobione 300-04-25 - 05-10; domy z Rady + Freyowie; Dreadfort imiennie (Roose i Walda)."
   },
   {
    "data": "300-04-25",
@@ -4365,6 +4365,15 @@
    "kanal": "kruk Winterfell-Bialy Port (04-26)",
    "wraca": "300-04-30",
    "zamyka": "odpowiedz Theomore'a (rzut) - tak/nie i lista ksiag",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-25",
+   "co": "ZAPROSZENIA NA UCZTE 05-10 - odpowiedzi domow (kto przyjedzie).",
+   "kto": "domy Polnocy + Freyowie",
+   "kanal": "kruki z Winterfell (04-26)",
+   "wraca": "300-05-04",
+   "zamyka": "lista przybywajacych na stole Krola i kasztelana",
    "status": "otwarte"
   }
  ],

@@ -3762,7 +3762,7 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-12)",
    "wraca": "300-04-23",
    "zamyka": "odpowiedz Catelyn (tak/kiedy)",
-   "status": "otwarte"
+   "status": "zrobione 300-04-23 - rzut 54: przyjedzie PO drugiej ratyfikacji, wyjazd poczatek VII."
   },
   {
    "data": "300-04-11",
@@ -3771,7 +3771,7 @@
    "kanal": "kruk Winterfell-Blizniaki (lancuch maesterski)",
    "wraca": "300-04-23",
    "zamyka": "odpowiedz Waldera / kogo przysle",
-   "status": "otwarte - WYSLANY 300-04-14 (dzien porodu, syn); pisal Perwyn"
+   "status": "zrobione 300-04-23 - rzut 64: gratulacje, sam nie przyjedzie - syn i dar na uczte; prosba: miejsce dla wnuka w szkole Krola."
   },
   {
    "data": "300-04-11",
@@ -3789,7 +3789,7 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-12, z listem Krola)",
    "wraca": "300-04-23",
    "zamyka": "odpowiedz Catelyn albo cisza",
-   "status": "otwarte"
+   "status": "zrobione 300-04-23 - dziekuje za fakty; pyta: 'Czy Bran jezdzi?'"
   },
   {
    "data": "300-04-12",
@@ -4086,7 +4086,7 @@
    "kanal": "wlasny czlowiek w Winterfell",
    "wraca": "300-04-23",
    "zamyka": "liczba na stole Krola: sciete / odbije / przesiew",
-   "status": "otwarte"
+   "status": "zrobione 300-04-23 - nizsze pola do przesiewu (jeczmien), wyzsze odbily; nasienie z domeny starczy."
   },
   {
    "data": "300-04-21",
@@ -4257,6 +4257,24 @@
    "kanal": "-",
    "wraca": "300-06-15",
    "zamyka": "decyzja Krola po kontrakcie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-23",
+   "co": "WALDER PROSI O MIEJSCE DLA WNUKA W SZKOLE KROLA - decyzja Krola (szkola: 'rok i dzien bez zareczyn' pod tym dachem); przyjmie - Frey przy stole Starkow.",
+   "kto": "KROL",
+   "kanal": "kruk Winterfell-Blizniaki",
+   "wraca": "300-04-27",
+   "zamyka": "odpowiedz Krola do Waldera",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-05",
+   "co": "CATELYN PRZYJEZDZA DO WINTERFELL - po drugiej ratyfikacji (koniec VI), wyjazd z Riverrun poczatek VII.",
+   "kto": "CATELYN",
+   "kanal": "trakt Riverrun-Fosa-Winterfell",
+   "wraca": "300-07-25",
+   "zamyka": "Catelyn w Winterfell",
    "status": "otwarte"
   }
  ],

@@ -46,3 +46,12 @@ Miasto Wintertown otrzymuje kartę wolności **z łaski Króla**, jako miasto Ko
 - Wintertown = **dowód**. Uda się — inne miasta i lordowie sami poproszą o kartę. Faza II sama się otworzy.
 
 *Karta do ogłoszenia łaską Króla. Wintertown pierwszy, Przystań Wilka drugi. Symon: prawo z własnej blizny.*
+
+
+---
+
+## ⚑ DOPISEK 300-04-27 — WZÓR FOSY: LISTA JAKO OFERTA I LIMIT
+- **Lista zawodów jako oferta:** „Zimowe Miasto przyjmuje w tym miesiącu: … do N” — nie „potrzebuje”. Kolejność ustala miasto.
+- **Limit przyjęć na miesiąc** z karty żywnościowej (gęby · korce · na ile dni), co dziesięć dni: kasztelan Winterfell (domena) + pisarz Skarbnika (składy Korony). Ogłasza burmistrz na słupie; Król nadaje.
+- **Ponad limit** — kartka w dwóch odpisach (fach · data · dokąd), odesłanie do Barrowton albo Białego Portu.
+- Tło: Zimowe Miasto ośrodkiem rzemiosła wełny i skóry (doktryna 300-04-27); Korona pierwszym kupcem dla zbrojowni.

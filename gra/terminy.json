@@ -4522,7 +4522,7 @@
   },
   {
    "data": "300-04-27",
-   "co": "KROL Z BURMISTRZEM ZIMOWEGO MIASTA (OSWYN MIARKA) I LAWA: zwolnienie nowo przybylych rzemieslnikow z oplat miejskich na lata (Karta Wintertown ma juz wolnosc rzemiosla i ulge Korony; podatek miejski uchwala lawa).",
+   "co": "KROL Z BURMISTRZEM ZIMOWEGO MIASTA (OSWYN MIARKA) I LAWA: zwolnienie nowo przybylych rzemieslnikow z oplat miejskich na lata (Karta Wintertown ma juz wolnosc rzemiosla i ulge Korony; podatek miejski uchwala lawa). ### +04-27: TAKZE - PIERWSZA KARTA ZYWNOSCIOWA (kasztelan + pisarz Gawena) i LIMIT PRZYJEC NA MIESIAC; lista zawodow jako OFERTA ogloszona przez burmistrza.",
    "kto": "KROL -> BURMISTRZ + LAWA",
    "kanal": "w zamku / Zimowe Miasto",
    "wraca": "300-04-30",
@@ -4531,7 +4531,7 @@
   },
   {
    "data": "300-04-27",
-   "co": "WEZWANIE RZEMIESLNIKOW DO ZIMOWEGO MIASTA - pismo (kancelaria Berona) na slupy: Zimowe Miasto, Fosa, Bialy Port, Barrowton; zawody z listy Gawena; wolnosc bez cechu, ulga Korony, oplaty miejskie wg uchwaly lawy; KORONA PIERWSZYM KUPCEM (zbrojownia). Farbiarze i folusznik - przez Neste z Braavos.",
+   "co": "WEZWANIE RZEMIESLNIKOW DO ZIMOWEGO MIASTA - pismo (kancelaria Berona) na slupy: Zimowe Miasto, Fosa, Bialy Port, Barrowton; zawody z listy Gawena; wolnosc bez cechu, ulga Korony, oplaty miejskie wg uchwaly lawy; KORONA PIERWSZYM KUPCEM (zbrojownia). Farbiarze i folusznik - przez Neste z Braavos. ### +04-27: FORMA - LISTA JAKO OFERTA ('przyjmuje w tym miesiacu: ... do N'), LIMIT z karty zywnosciowej co 10 dni; ponad limit - kartka (fach, data, dokad) do Barrowton / Bialego Portu.",
    "kto": "SYMON + BERON (kancelaria)",
    "kanal": "slupy + kruki (po uchwale lawy)",
    "wraca": "300-05-02",

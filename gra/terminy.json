@@ -3898,6 +3898,24 @@
    "wraca": "300-04-17",
    "zamyka": "trzecia noc bez goraczki albo goraczka",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-15",
+   "co": "OSRIC - pytanie do wracajacego poslanca zza Muru: mlody czarny brat z bialym wilkiem wsrod ludzi Mance'a? Tylko wiedza, bez imion na pismie.",
+   "kto": "SYMON -> OSRIC (Czarny Zamek)",
+   "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-16)",
+   "wraca": "300-04-23",
+   "zamyka": "odpowiedz Osrica (po powrocie poslanca albo 'nie wrocil')",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-15",
+   "co": "AEMON - co Straz zapisala o ostatnim dniu Benjena Starka (Pierwszy Zwiadowca).",
+   "kto": "SYMON -> MAESTER AEMON",
+   "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-16)",
+   "wraca": "300-04-23",
+   "zamyka": "odpowiedz Aemona (rzut przy powrocie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

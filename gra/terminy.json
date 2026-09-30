@@ -3832,9 +3832,9 @@
    "co": "MLYN W SLUZIE STOI - Kessel czeka na kamien mlynski. Skad kamien i kiedy.",
    "kto": "WEYLIN + KESSEL",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-04-21",
+   "wraca": "300-05-15",
    "zamyka": "kamien mlynski wskazany z data",
-   "status": "otwarte - 300-04-21: dwie drogi (lom Goracego Portu ~05-15 / Bialy Port ~05-05, drozej); decyzja pana."
+   "status": "otwarte - 300-04-21 ROZSTRZYGNIETE: kamien z lomu Goracego Portu (Harlon wycina, Torgil wiezie); gotowe ~05-15."
   },
   {
    "data": "300-04-13",
@@ -4059,7 +4059,7 @@
    "kanal": "wlasna robota (Winterfell)",
    "wraca": "300-04-22",
    "zamyka": "obwieszczenie wydane albo swiadomie odlozone",
-   "status": "otwarte"
+   "status": "zrobione 300-04-21 - Krol przylozyl pieczec; herold 04-22, kruki do Fosy i Bialego Portu 04-22."
   },
   {
    "data": "300-04-20",
@@ -4131,6 +4131,24 @@
    "kanal": "wlasna robota; wysylka tym kanalem, ktorym przyjdzie jego list",
    "wraca": "300-04-27",
    "zamyka": "projekt na stole Krola po liscie Stannisa",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "WEGORZE W CAILIN - start zatwierdzony: dwa stawy przy komorze wodnej, szesc rak (Hakon od Jaszczura); pierwszy polow szklistych wegorzy z wiosennym ciagiem.",
+   "kto": "HAKON OD JASZCZURA (przez Garricka)",
+   "kanal": "kruk Winterfell-Fosa (04-22) + zbiorczy",
+   "wraca": "300-05-10",
+   "zamyka": "pierwszy polow w stawach, liczba w meldunku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "WILK - PIERWSZY TYDZIEN PO OGLOSZENIU: meldunki trzech komor (Winterfell, Fosa, Bialy Port) - ile Wilka przyjeto, ile Korona kupila/sprzedala po kursie, czy ktos omija tablice.",
+   "kto": "GAWEN + komory",
+   "kanal": "wlasni ludzie; Fosa i Bialy Port krukiem",
+   "wraca": "300-05-01",
+   "zamyka": "trzy meldunki komor na stole Krola",
    "status": "otwarte"
   }
  ],

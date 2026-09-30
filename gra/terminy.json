@@ -4266,7 +4266,7 @@
    "kanal": "kruk Winterfell-Blizniaki",
    "wraca": "300-04-27",
    "zamyka": "odpowiedz Krola do Waldera",
-   "status": "otwarte"
+   "status": "zrobione 300-04-27 - Krol TAK (rzut 62): prawo szkoly (rok i dzien bez zareczyn), jeden sluga, wiek do 12 lat; wnuka wybiera Walder; przyjazd najlepiej z synem na ucztę 05-10"
   },
   {
    "data": "300-07-05",
@@ -4491,6 +4491,15 @@
    "kanal": "kruk Winterfell-Deepwood Motte (04-27) - wylot 04-28 (pogoda)",
    "wraca": "300-05-01",
    "zamyka": "odpowiedz Glovera (rzut) + Larence w Winterfell ~05-10/11 - NA STYK Z UCZTA",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-27",
+   "co": "LIST KROLA DO WALDERA FREYA: TAK dla wnuka w szkole Krola - warunki (rok i dzien bez zareczyn, jeden sluga, do 12 lat); wnuka wybiera Walder; przyjazd z synem na ucztę 05-10.",
+   "kto": "KROL -> WALDER FREY",
+   "kanal": "kruk Winterfell-Blizniaki (04-28, pogoda)",
+   "wraca": "300-05-03",
+   "zamyka": "odpowiedz Waldera: ktory wnuk i czy jedzie z synem na ucztę",
    "status": "otwarte"
   }
  ],

@@ -253,7 +253,7 @@
    "co": "NESTA: kolumna dziesieciu przystani zachodnich (fracht) + pytanie o DAENERYS ⚠ DATA POPRAWIONA 300-03-03 z V/300. Pytanie o Daenerys doklejone 300-03-02 - to najmlodszy z czterech listow i dlatego wraca ostatni, a nie w maju.",
    "kto": "NESTA",
    "zamyka": "odpowiedz z Braavos",
-   "status": "otwarte - 300-04-18: list Nesty PRZYSZEDL NA FOSE (kanal Fosa-Braavos-Fosa, wlasny czlowiek, bez rzutu na doreczenie); do Winterfell jedzie ze zbiorczym Garricka. ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log).",
+   "status": "zrobione 300-04-21 - tabela frachtu 10 przystani (dla Gawena) + DAENERYS (rzut 80): Meereen, Nieskalani, trzy smoki, zadnych statkow na zachod.",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-04-21"
   },
@@ -1233,7 +1233,7 @@
    "kanal": "za Mur -> Osric -> kruk Czarny Zamek-Winterfell",
    "wraca": "300-04-21",
    "zamyka": "wraca, wraca z niczym, albo nie wraca",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "zamkniete 300-04-21 - NIE WROCIL (rzut 15, trzeci koniec); jego ludzie zostaja na wolniznie."
   },
   {
    "data": "300-03-03 - WYSLANE",
@@ -1287,7 +1287,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-21",
    "zamyka": "dwie liczby obok siebie: obrot okregu i udzial Domu",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; przychodzi ze zbiorczym Garricka 04-21."
+   "status": "otwarte - 300-04-21 rzut 43: udzial Domu rosnie SZYBCIEJ niz obrot (liczby w ksiedze Gerrika); decyzja pana."
   },
   {
    "data": "300-03-07",
@@ -3108,7 +3108,7 @@
    "kanal": "jezdziec Fosa-Dustinport + kruk Winterfell-Fosa (adres ruchomy: tam, gdzie Namiestnik)",
    "wraca": "300-04-21",
    "zamyka": "pierwsza karta na stole",
-   "status": "otwarte - pierwsza karta pisana 300-04-15, po Radzie.",
+   "status": "zrobione 300-04-21 - pierwsza karta (4 rubryki); nastepna 05-15.",
    "sprawdzaj_co": 30
   },
   {
@@ -3190,7 +3190,7 @@
    "kanal": "przez Osrica (Mur)",
    "wraca": "300-04-21",
    "zamyka": "dostawa w Czarnym Zamku potwierdzona w meldunku Osrica",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log).",
+   "status": "zrobione 300-04-21 - rzut 90: dostawa w Czarnym Zamku 04-19, Umber prowadzil sam.",
    "sprawdzaj_co": 14
   },
   {
@@ -3265,7 +3265,7 @@
    "kanal": "kruk Bialy Port-Dreadfort",
    "wraca": "300-04-21",
    "zamyka": "imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "otwarte - 300-04-21 rzut 7: imion NIE MA; Roose wskaze ludzi 'gdy przystanie stana'; wagi z samym pisarzem Korony."
   },
   {
    "data": "300-04-02",
@@ -3456,7 +3456,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-04-21",
    "zamyka": "meldunek na stole w Winterfell",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "zrobione 300-04-21 (pisany 04-18)."
   },
   {
    "data": "300-04-06",
@@ -3465,7 +3465,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-04-27",
    "zamyka": "meldunek na stole w Winterfell",
-   "status": "otwarte"
+   "status": "zrobione 300-04-21 (pisany 04-18)."
   },
   {
    "data": "300-04-06",
@@ -3474,7 +3474,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-05-04",
    "zamyka": "meldunek na stole w Winterfell",
-   "status": "otwarte"
+   "status": "zrobione 300-04-21 (pisany 04-18)."
   },
   {
    "data": "300-04-06",
@@ -3564,7 +3564,7 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (wylot 04-07); odpowiedz z karta 04-15",
    "wraca": "300-04-21",
    "zamyka": "odpowiedz Theona na oba pytania",
-   "status": "otwarte"
+   "status": "zrobione 300-04-21 - okrety: odbic na plazy; lancuch: pusty rejs kosztuje kapitana ludzi."
   },
   {
    "data": "300-04-06",
@@ -3645,7 +3645,7 @@
    "kanal": "kruk Winterfell-Fosa (rozkaz) + jezdziec/woz Fosa-Dustinport",
    "wraca": "300-04-21",
    "zamyka": "pierwsza partia w Dustinporcie, z kwitem i cena",
-   "status": "otwarte"
+   "status": "zrobione 300-04-21 - pierwsza partia w Dustinporcie, kwit i cena ze slupa."
   },
   {
    "data": "300-04-09",
@@ -3654,7 +3654,7 @@
    "kanal": "kruk Winterfell-Fosa; odpowiedz zbiorczym Garricka",
    "wraca": "300-04-21",
    "zamyka": "plan z miejscem, rekami i data pierwszego polowu",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "zrobione 300-04-21 - plan Hakona: dwa stawy przy komorze, szesc rak, pierwszy polow ~05-10."
   },
   {
    "data": "300-04-09",
@@ -3717,7 +3717,7 @@
    "kanal": "kruk Winterfell-Fosa (wylot 04-11) + meldunek zbiorczy",
    "wraca": "300-04-21",
    "zamyka": "spis rozmow na stole w Winterfell",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "zrobione 300-04-21 - trzy rozmowy imiennie (Hilde, Aldo, Wulf) - do ksiegi mistyki."
   },
   {
    "data": "300-04-11",
@@ -3744,7 +3744,7 @@
    "kanal": "kruk Winterfell-Fosa (wylot 04-12) + poslaniec do Greywater Watch",
    "wraca": "300-04-21",
    "zamyka": "krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni ### 04-13: krannogowie wracaja do grobli ~04-16 - wtedy list o Branie idzie do nich.",
-   "status": "otwarte - bez zegara z natury kanalu ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "otwarte - 300-04-21 rzut 55: krannogowie wyszli ~04-16 i wzieli OBA listy; odpowiedz bez daty, sprawdzenie co 14 dni."
   },
   {
    "data": "300-04-11",
@@ -3825,7 +3825,7 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-04-21",
    "zamyka": "meldunek Tove w zbiorczym 04-18 (w Winterfell 04-20)",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; przychodzi ze zbiorczym Garricka 04-21."
+   "status": "zrobione 300-04-21 - Tove tydzien w goraczce; meldunek jest, dwa odcinki."
   },
   {
    "data": "300-04-13",
@@ -3834,7 +3834,7 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-04-21",
    "zamyka": "kamien mlynski wskazany z data",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; przychodzi ze zbiorczym Garricka 04-21."
+   "status": "otwarte - 300-04-21: dwie drogi (lom Goracego Portu ~05-15 / Bialy Port ~05-05, drozej); decyzja pana."
   },
   {
    "data": "300-04-13",
@@ -3843,7 +3843,7 @@
    "kanal": "kruk Winterfell-Bialy Port (wylot 04-13)",
    "wraca": "300-04-21",
    "zamyka": "meldunek portu: ile wstrzymano po zmianie",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "zrobione 300-04-21 - rzut 26: dwa ladunki wstrzymane; kupiec z zawieszonym wpisem protestuje, Wyman prosi Krola o wysluchanie."
   },
   {
    "data": "300-04-13",
@@ -3879,7 +3879,7 @@
    "kanal": "kruk Winterfell-Fosa (wylot 04-15) + zbiorczy 04-18",
    "wraca": "300-04-21",
    "zamyka": "propozycja Garricka z kosztem i data; potem wysylka traktem",
-   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
+   "status": "otwarte - 300-04-21: wilk z czarnego debu + plaszczyk z futra; gotowe ~04-28, trakt ~05-03."
   },
   {
    "data": "300-04-15",
@@ -4077,7 +4077,34 @@
    "kanal": "kruk Winterfell-Fosa + kruk Fosa-Krolewska Przystan",
    "wraca": "300-04-21",
    "zamyka": "Krol pozwala i ptak leci - albo Krol zatrzymuje list",
-   "status": "otwarte - 300-04-20 KROL ZGODZIL SIE (rzut 50): 'list chlopca, nie poczatek czegos'; ptak o swicie 04-21 jesli pogoda."
+   "status": "zrobione 300-04-21 - ptak o swicie."
+  },
+  {
+   "data": "300-04-21",
+   "co": "PRZYMROZEK NA JARYM - straty na polach domeny Winterfell i Zimowego Miasta (pogoda 04-21, rzut 6). Kasztelan liczy: co sciete, co odbije, czy przesiewac.",
+   "kto": "KASZTELAN WINTERFELL",
+   "kanal": "wlasny czlowiek w Winterfell",
+   "wraca": "300-04-23",
+   "zamyka": "liczba na stole Krola: sciete / odbije / przesiew",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "WYMAN PROSI O WYSLUCHANIE KUPCA z zawieszonym wpisem (wspolnik kuzyna Manderlych) - czesc V, odsprzedaz. Decyzja Krola: wysluchac czy nie, gdzie, kto.",
+   "kto": "KROL (+ SYMON)",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-04-25",
+   "zamyka": "odpowiedz Krola do Wymana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "KARTA THEONA - DRUGA (15. dnia miesiaca).",
+   "kto": "THEON GREYJOY -> SYMON",
+   "kanal": "jezdziec Dustinport-Fosa + kruk Fosa-Winterfell",
+   "wraca": "300-05-21",
+   "zamyka": "karta na stole",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

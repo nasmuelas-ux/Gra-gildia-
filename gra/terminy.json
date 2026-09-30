@@ -4033,6 +4033,24 @@
    "wraca": "300-05-19",
    "zamyka": "karty poprawione",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-19",
+   "co": "WILLA ZWIJA TROP BAELISHA - rozkaz pana (tylko rozkaz, bez mysli Sansy). Jak - jej sprawa.",
+   "kto": "WILLA",
+   "kanal": "kruk Winterfell-Fosa (wylot 04-20, na Fosie 04-22)",
+   "wraca": "300-04-26",
+   "zamyka": "jej kartka: trop zwiniety (i co zostawila, jesli zostawila)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-19",
+   "co": "POSAZEK PRZEDRZEZNIACZA DLA BAELISHA - Atelier Tally (Marro), srebro/stal; dopisek wylacznie 'Od Namiestnika Krola Polnocy'. Rozkaz do Hala 04-20 (u niego 04-22), robota ~5 dni, statek do Gulltown, korespondent Nesty do Orlego Gniazda.",
+   "kto": "HAL + MARRO -> korespondent Gulltown -> ORLE GNIAZDO",
+   "kanal": "paczka Bialy Port-Gulltown-Orle Gniazdo (~18 dni)",
+   "wraca": "300-05-15",
+   "zamyka": "dar doreczony (rzut na reakcje przy doreczeniu); odpowiedz, jesli przyjdzie, pozniej",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

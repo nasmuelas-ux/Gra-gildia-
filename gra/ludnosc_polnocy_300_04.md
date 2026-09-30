@@ -24,15 +24,15 @@
 | Skagos | 10 000 – 20 000 | E |
 | Wyspa Niedźwiedzia (Mormont) | 5 000 – 9 000 | G |
 | Dar i Nowy Dar (ziemie Straży) | 3 000 – 6 000 | E |
-| Fosa Cailin — CAŁE LENNO Tally (miasto Cailin, wsie lenna, osady bagienne, grobla i przewłoka) | 5 000 – 8 000 | E (poprawka gracza 300-04-26: liczyć całe lenno, nie samo miasto) |
+| Fosa Cailin — CAŁE LENNO Tally (miasto Cailin, wsie lenna, osady bagienne, grobla i przewłoka) | 15 000 – 20 000 | **G** (gracz 300-04-26: „dla prostoty lenno liczy 15–20 tys.”) |
 | Nocna Straż (bracia) | 524 | Z |
-| **PÓŁNOC RAZEM** | **~1 395 500 – 1 865 500** | suma |
+| **PÓŁNOC RAZEM** | **~1 405 500 – 1 877 500** | suma |
 
 ## Z tego wynika
 - **Muster a dusze.** Cały host Robba to 18–20 tys. (mapa rodów) — **ok. 1–1,5% ludności.** Domena Starków wystawia 1000–1500 z 200–300 tys. dusz: **pół procenta.** Nie z braku ludzi — z braku hełmów, szyku i zboża, które puści chłopa z pola.
 - **Teza Namiestnika (300-04-26):** szkolone rezerwy i spis mogą podnieść muster z lenna **kilkukrotnie** bez stałego żołdu — wzór Skały: kadra, która umie dowodzić, i zbrojownia.
 - **Manderly** ma najwięcej dusz i najwięcej monety (40–60 tys. smoków/rok) — spójne z EKONOMIA_BAZA.md.
 - **Hornwood (E 50–70 tys.) MA PANA** — lord Larence Hornwood (legitymizowany 299-08-04), dziś jeszcze u kuratora Galbarta Glovera; Król wzywa go przez Winterfell do 05-10. Spór o wyrąb z Dreadfortem u Justycjariusza.
-- **Fosa Cailin — POPRAWKA 300-04-26 (gracz):** pierwsza wersja liczyła tylko miasto (2–2,5 tys.). **Całe lenno: 5–8 tys. (E)** — miasto Cailin ~1400 (spis Alys 300-02-25) + ~400 przybyszów (rejestr Melli) + wsie lenna (sołtysi od 299-08) + osady bagienne, ludzie grobli i przewłoki. Imienny spis 640 dusz z 299-06 obejmował tylko ludzi pod zamkiem — nie całe lenno.
+- **Fosa Cailin — POPRAWKA 300-04-26 (gracz):** pierwsza wersja liczyła tylko miasto (2–2,5 tys.). **Całe lenno: 15–20 tys. (G — liczba gracza, moc zapisu; zastąpiła szacunek GM 5–8 tys.)** — miasto Cailin ~1400 (spis Alys 300-02-25) + ~400 przybyszów (rejestr Melli) + wsie lenna (sołtysi od 299-08) + osady bagienne, ludzie grobli i przewłoki. Imienny spis 640 dusz z 299-06 obejmował tylko ludzi pod zamkiem — nie całe lenno.
 - **JAK POWSTANIE SPIS (gracz 300-04-26):** powoli. **Osric** prowadzi spis przy budowie ruszenia; **działająca administracja** (sołtysi, komory, pisarze Korony, Rejestrator, szkoły) **zbiera dane przy okazji swojej roboty** — każda liczba twarda zastępuje E.
 - **Żadna z tych liczb nie jest spisem.** Spis (Rejestrator, struktura Osrica) zastąpi E liczbą twardą.

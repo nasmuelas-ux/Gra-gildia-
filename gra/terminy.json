@@ -3988,6 +3988,51 @@
    "wraca": "300-04-25",
    "zamyka": "odpowiedz albo cisza (rzut przy powrocie)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-19",
+   "co": "MUR - SPRAWA NUMER JEDEN W DOMU (rada Sansy 04-19): ziarno ma dojechac przed Stannisem; zestawic 04-20 razem: wiesc poslanca zza Muru (Osric), wymarsz Umbera, stan kolumn na Mur, termin Stannisa (~04-27). Jedno zestawienie na stol Krola.",
+   "kto": "SYMON",
+   "kanal": "wlasna robota (Winterfell) + poczta 04-20",
+   "wraca": "300-04-20",
+   "zamyka": "zestawienie Muru na stole Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-19",
+   "co": "DORNE - LIST GRZECZNOSCI (rada Sansy): do ksiecia Dorana albo Oberyna; podziekowanie za slowo Oberyna ('Dorne nie podniesie reki na Polnoc'), BEZ pytan o ich karte. ⚠ KANALU DO DORNE W KSIEDZE NIE MA - najpierw wskazac droge (np. kupcy/Nesta przez Braavos, statek Kompanii z Bialego Portu), potem pisac.",
+   "kto": "SYMON",
+   "kanal": "do ustalenia",
+   "wraca": "300-04-22",
+   "zamyka": "kanal wskazany i list napisany - albo decyzja, ze nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-19",
+   "co": "LIST BRANA DO TYRIONA LANNISTERA (rada Sansy): chlopiec dziekuje za rysunek siodla, bo wlasnie mu je szyja. List, ktory moze przeczytac Tywin - bez zadnej prosby. Do zaproponowania Branowi (i Krolowi - list do Twierdzy). Kanal po decyzji: kruk Fosa-Krolewska Przystan.",
+   "kto": "SYMON -> BRAN (+ KROL)",
+   "kanal": "rozmowa w Winterfell; potem kruk Fosa-KP",
+   "wraca": "300-04-20",
+   "zamyka": "Bran chce albo nie; jesli tak - list napisany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-19",
+   "co": "BAELISH - CISZA, NIECH PISZE PIERWSZY (rada Sansy). Nic do niego nie idzie. Mysl Sansy o 'przestac tropic tak, zeby zauwazyl' - sprawa Willi (siatka nie jest zmartwieniem pana). Sprawdzenie przy przegladzie kart: czy cos przyszlo z Doliny/Gulltown.",
+   "kto": "SYMON (obserwacja)",
+   "kanal": "Gulltown (korespondent Nesty) - tylko nasluch",
+   "wraca": "300-05-19",
+   "zamyka": "list od Baelisha albo przeglad kart",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-19",
+   "co": "PRZEGLAD KART KROLESTW z Sansa - 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Poprawic kazda z 12 wedle poczty z miesiaca (Nesta/Daenerys, poslaniec, Stannis, Catelyn/Edmure, przedstawiciel w Reach). Czego NIE robic stoi na kartach: nie ruszac Olenny przed przedstawicielem; nic Stannisowi ponad ziarno dla Muru; nie potknac sie przed Bankiem.",
+   "kto": "SYMON + SANSA",
+   "kanal": "wlasna robota (Winterfell)",
+   "wraca": "300-05-19",
+   "zamyka": "karty poprawione",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

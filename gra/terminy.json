@@ -3853,6 +3853,24 @@
    "wraca": "300-04-24",
    "zamyka": "imie pana Harrenhal -> krok 2: pismo do niego o kowali",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-14",
+   "co": "OBWIESZCZENIE NARODZIN DZIEDZICA DO WSZYSTKICH DOMOW POLNOCY - jedno pismo, ten sam tekst (syn zdrowy; krolowa zyje; imie). Tekst: Symon; podpis: Krol rano; reka kancelarii (Tobin Szala). Wychodzi z imieniem, po slowie krolowej.",
+   "kto": "SYMON (tekst) -> KROL (podpis) -> kancelaria",
+   "kanal": "lancuch maesterski do domow (kruki Winterfell)",
+   "wraca": "300-04-15",
+   "zamyka": "ptaki wyslane rano 04-15",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-14",
+   "co": "KROL MOWI BRANOWI, ZE NIE JEST JUZ DZIEDZICEM - dzis, osobiscie, zanim uslyszy od krukow.",
+   "kto": "KROL -> BRAN",
+   "kanal": "rozmowa w Winterfell",
+   "wraca": "300-04-14",
+   "zamyka": "Bran wie od brata",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

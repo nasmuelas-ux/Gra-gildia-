@@ -3925,6 +3925,15 @@
    "wraca": "300-04-18",
    "zamyka": "cena i termin od rzemieslnikow; potem robota",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-17",
+   "co": "LIST KROLA DO MATKI O NARODZINACH - syn EDDARD, krolowa zywa, bez goraczki; obwieszczenie z 04-15 poszlo tylko do domow Polnocy, Riverrun o wnuku nie wiedzial. O przyjezdzie: nie wzywa przed druga ratyfikacja; 'drzwi otwarte, kiedy uzna'.",
+   "kto": "KROL -> CATELYN (Riverrun)",
+   "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-17)",
+   "wraca": "300-04-28",
+   "zamyka": "odpowiedz Catelyn (czy i kiedy przyjedzie) albo cisza",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

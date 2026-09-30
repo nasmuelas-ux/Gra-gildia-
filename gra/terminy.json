@@ -4393,6 +4393,15 @@
    "wraca": "300-05-10",
    "zamyka": "uklad o poborze myta w BP",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "HAL - PELNE ROZLICZENIE DOMU po korekcie skali: kazde przedsiebiorstwo osobno (szkola, wedzarnia, bednarnia, solarnia, drukarnia, atelier, jubiler, zielarnia, dom audytowy, lecznica, papiernia i reszta), nowe domy Braavos i Pentos, aktualne placowki, rubryka ekstra zysku z towaru Korony.",
+   "kto": "SYMON -> HAL",
+   "kanal": "kruk Winterfell-Bialy Port (04-27)",
+   "wraca": "300-05-04",
+   "zamyka": "bilans Hala na zamkniecie IV/300 (liczby z kasa.py po korekcie skali)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

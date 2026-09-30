@@ -122,6 +122,21 @@ def placowki_za(E, r, m):
     return (obrot, zysk, roz, marza, sez)
 
 
+def skala(E, kasa, poz, r, m):
+    """KOREKTA SKALI (rozstrzygniecie gracza 300-04-26): przychody Kas 1-3
+    od wskazanego miesiaca mnozone min x2, max x3. Koszty, obrot informacyjny
+    i pozycje z 'bez_skali' - bez zmian. Zwraca (fmin, fmax)."""
+    K = E.get("_korekta_skali")
+    if not K or kasa not in K["kasy"]:
+        return (1.0, 1.0)
+    if poz is not None and (poz.get("typ") in ("koszt", "obrot") or poz.get("bez_skali")):
+        return (1.0, 1.0)
+    v = parsuj(K["od"])
+    if (r * MIES_W_ROKU + m) < (v[0] * MIES_W_ROKU + v[1]):
+        return (1.0, 1.0)
+    return (float(K["mnoznik_min"]), float(K["mnoznik_max"]))
+
+
 def fmt(lo, hi, szer=0):
     t = ("%+.2f" % lo) if abs(lo - hi) < 1e-9 else ("%+.2f..%+.2f" % (lo, hi))
     return t.rjust(szer) if szer else t
@@ -180,8 +195,9 @@ def licz(zakres, r, m, d=None):
                     mn = min(poz.get("sufit", 1e9), float(poz.get("min", 0)) * ((1 + poz["wzrost_mies"]) ** n))
                     mx = min(poz.get("sufit", 1e9), float(poz.get("max", 0)) * ((1 + poz["wzrost_mies"]) ** n))
                     zn = -1.0 if poz.get("typ") == "koszt" else 1.0
-                    lo += zn * mn
-                    hi += zn * mx
+                    f0, f1 = skala(E, nazwa, poz, a, b)
+                    lo += zn * mn * f0
+                    hi += zn * mx * f1
                 if abs(lo) > 1e-9 or abs(hi) > 1e-9:
                     wiersze.append((poz["nazwa"] + " [rosnie]", lo, hi, poz["zrodlo"]))
                 continue
@@ -192,27 +208,31 @@ def licz(zakres, r, m, d=None):
             lo = hi = 0.0
             for (a, b, c) in dni_lista:
                 if w_oknie(poz, a, b, c):
-                    lo += st[0]
-                    hi += st[1]
+                    f0, f1 = skala(E, nazwa, poz, a, b)
+                    lo += st[0] * f0
+                    hi += st[1] * f1
             if abs(lo) > 1e-9 or abs(hi) > 1e-9:
                 (obrot if poz.get("typ") == "obrot" else wiersze).append(
                     (poz["nazwa"], lo, hi, poz["zrodlo"]))
 
         if nazwa.startswith("KASA 1") and E.get("_model_placowek"):
             mies = sorted(set((a, b) for a, b, _ in dni_lista))
-            so = sz = 0.0
+            so_lo = so_hi = sz_lo = sz_hi = 0.0
             ost = None
             for (a, b) in mies:
                 if (a * MIES_W_ROKU + b) < (299 * MIES_W_ROKU + 12):
                     continue
                 o, z, roz, marza, sez = placowki_za(E, a, b)
-                so += o
-                sz += z
-                ost = (roz, marza, sez)
-            if sz:
-                wiersze.insert(0, ("zysk PIECIU placowek handlowych [model wzrostu]", sz, sz,
+                f0, f1 = skala(E, nazwa, None, a, b)
+                so_lo += o * f0
+                so_hi += o * f1
+                sz_lo += z * f0
+                sz_hi += z * f1
+                ost = (roz, marza, sez, f0, f1)
+            if sz_hi:
+                wiersze.insert(0, ("zysk PIECIU placowek handlowych [model wzrostu]", sz_lo, sz_hi,
                                    E["_model_placowek"]["_wzor"]))
-                obrot.append(("obrot pieciu placowek [model wzrostu]", so, so, "model"))
+                obrot.append(("obrot pieciu placowek [model wzrostu]", so_lo, so_hi, "model"))
                 kasa = dict(kasa)
                 kasa["_rozbicie"] = ost
 
@@ -250,6 +270,10 @@ def drukuj(zakres, r, m, d, wynik):
     if sym:
         print("POZYCJE USTALONE %s - MAJA MOC ZAPISU (zasada 43)." % sym["_data"])
         print("Nie kwestionuje sie ich ponownie i nie wracaja jako 'nieznane'.")
+        K = L("ekonomia.json").get("_korekta_skali")
+        if K:
+            print("KOREKTA SKALI od %s: przychody %s x%g (min) .. x%g (max); koszty bez zmian."
+                  % (K["od"], "/".join(k.split(" - ")[0] for k in K["kasy"]), K["mnoznik_min"], K["mnoznik_max"]))
         print("-" * 78)
     glo = ghi = 0.0
     for nazwa, k in wynik.items():
@@ -281,9 +305,11 @@ def drukuj(zakres, r, m, d, wynik):
             print("      (kasa miejska NIE wchodzi do sumy Symona - prowadzi ja lawa, nie lord)")
         roz = k["_kasa"].get("_rozbicie")
         if roz:
-            lista, marza, sez = roz
+            lista, marza, sez, f0, f1 = roz
             print("  --- rozbicie placowek, OSTATNI miesiac zakresu (sezon: %s, marza Hala: %.1f%%) ---"
                   % (sez, marza * 100))
+            if (f0, f1) != (1.0, 1.0):
+                print("      (liczby przed KOREKTA SKALI x%g..x%g - w wyniku sa juz przemnozone)" % (f0, f1))
             for (n, o, z) in lista:
                 print("      %-28s obrot %8.1f   zysk %7.1f" % (n, o, z))
         if k["obrot"]:

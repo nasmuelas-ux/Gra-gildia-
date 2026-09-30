@@ -12,6 +12,24 @@ Rozbicie Białego Portu i Fosy HQ na linie (765 / 515 / 325 / 195 oraz 555 / 360
 
 ---
 
+# ⚑ KOREKTA SKALI 300-04-26 — ROZSTRZYGNIĘCIE GRACZA (ma moc zapisu, zasada 43)
+
+> „Stare bilanse nie są aktualne — mocno podkręcić, wyliczyć razy 2–3 i dodać to, co nieuwzględniane. Dochód Korony też 2–3 razy, bo sytuacja się stabilizuje i Północ zaczyna się pieniężyć."
+
+- **Od 300-04-01 przychody Kas 1, 2 i 3 liczą się ×2 (dół widełek) do ×3 (góra).** Dotyczy także zysku pięciu placówek z modelu. **Koszty, obrót informacyjny, zdarzenia jednorazowe i pozycje `bez_skali` — bez zmian.** Silnik: `_korekta_skali` w `ekonomia.json`, funkcja `skala()` w `kasa.py`.
+- **Nowe linie (dotąd poza bilansem):** atelier Miry (bez bursztynu) · wędzarnia · Dom Audytowy Tally · placówka Braavos (kantor Nesty) · placówka Pentos (Obaro) · drukarnia i skryptorium Fosy (koszt V–VI) → Wydawnictwo Domu Tally (od VII) · ekstra zysk z towaru Korony (IV–VI, poza skalą) · szkoła Fosy (wpisowe, praktykanci) · lecznica (leki przez filię).
+- **W świecie:** wojna skończona, trakty i grobla otwarte, Wilk przyjmowany po nominale, jedna brama w komorach, Kompania Północ–Dorzecze, Essos przez Nestę, wiosna. To, co szło w naturze, zaczyna iść w monecie.
+
+| piętro (po korekcie) | miesięcznie IV/300 | rocznie (rząd) |
+|---|---|---|
+| **Kasa 1 — Dom Handlowy Tally** | ~1 070 – 2 590 | ~13 000 – 31 000 |
+| **Kasa 2 — lenno Fosy Cailin** | ~115 – 485 | ~1 400 – 5 800 |
+| **Kasa 3 — Skarb Północy (Korona)** | ~615 – 1 010 | ~7 400 – 12 100 |
+
+⚠ **Skutek, nazwany wprost:** górna krawędź Domu Tally zbliża się do osobistego dochodu Pana Winterfell (25–40 tys.). Symon przestaje być „średnim lordem z dobrym interesem” — staje się drugą sakiewką Północy. Tabela „CZTERY PIĘTRA” niżej opisuje stan sprzed 300-04 i zostaje jako historia.
+
+---
+
 # CZTERY PIĘTRA, NIE TRZY KASY
 
 Trzy kasy to **porządek rachunkowy Symona**. Skala świata ma cztery piętra i mieszanie ich było moim błędem.

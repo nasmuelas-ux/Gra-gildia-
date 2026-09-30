@@ -2,7 +2,7 @@
  "_opis": "DANE KAS. Zrodlo liczb: gra/EKONOMIA_BAZA.md i wpisy z gra/db/wpisy.jsonl. Silnik: gra/kasa.py.",
  "_zasada_naczelna": "KAZDA POZYCJA MA POLE 'zrodlo'. Pozycja bez zrodla NIE WCHODZI DO SUMY i jest raportowana osobno jako NIEZNANA (zasady 1a, 43, 44). Liczb sie tu nie wyprowadza na nowo - zmienia je WYLACZNIE zdarzenie w grze.",
  "_jak_czytac_widelki": "min/max zamiast 'stawka' znaczy, ze zapis podaje przedzial, a nie liczbe. Silnik sumuje osobno dolna i gorna granice i NIGDY nie usrednia.",
- "_aktualizacja": "300-03-18",
+ "_aktualizacja": "300-04-26",
  "kursy": {
   "smok_w_jeleniach": 200,
   "jelen_w_miedziakach": 100,
@@ -161,6 +161,99 @@
      "wzrost_mies": 0.02,
      "sufit": 330,
      "zrodlo": "Port na ZATOCE ZELEZNYCH - trzecie morze Domu. Mallisterowie w rubryce ZBOZE I WIERNI zywej mapy Catelyn (298-10-01, rzut 87): 'nadmorscy, DOWIOZA'. Korytarz do Riverrun i Seagard naszkicowany z Edmure'em i Walderem Freyem. Sufit 330 - miedzy Rozdrozem a Riverrun, bo to port, ale port na najtrudniejszym morzu."
+    },
+    {
+     "nazwa": "ATELIER MIRY (bez bursztynu - ten ma wlasna linie)",
+     "typ": "przychod",
+     "min": 15,
+     "max": 25,
+     "okres": "miesiac",
+     "od": "300-02-01",
+     "do": null,
+     "wzrost_mies": 0.015,
+     "sufit": 90,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Zapis 300-01-27: 'zysk calego atelier z ~24 na 40-55/mies do lata'; bursztyn Marra liczony osobno (25-50), wiec tu reszta atelier. Mira wniosla atelier do Domu (wycena 520, 300-02-06), wlasna ksiega."
+    },
+    {
+     "nazwa": "WEDZARNIA (Bialy Port, lancuch konserwacji)",
+     "typ": "przychod",
+     "min": 10,
+     "max": 25,
+     "okres": "miesiac",
+     "od": "300-01-01",
+     "do": null,
+     "wzrost_mies": 0.015,
+     "sufit": 80,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Gracz wymienia wedzarnie wsrod przedsiebiorstw Domu - dotad bez linii. Czesc lancucha konserwacji (warzelnia-bednarnia-ryba), jedynej linii, ktora rosla zima."
+    },
+    {
+     "nazwa": "DOM AUDYTOWY TALLY - rewizje sprzedawane obcym",
+     "typ": "przychod",
+     "min": 5,
+     "max": 15,
+     "okres": "miesiac",
+     "od": "300-03-01",
+     "do": null,
+     "wzrost_mies": 0.03,
+     "sufit": 80,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Spolka pod dyrektorem generalnym (dom_audytowy_tally_300_01): 'nie audytuje Domu Handlowego - sprzedaje rewizje obcym'. Zarzadca i rachmistrz obsadzeni, MISTRZA BRAK - stad niskie pasmo; rosnie, gdy mistrz sie znajdzie."
+    },
+    {
+     "nazwa": "PLACOWKA BRAAVOS - kantor Domu (Nesta)",
+     "typ": "przychod",
+     "min": 30,
+     "max": 70,
+     "okres": "miesiac",
+     "od": "300-04-01",
+     "do": null,
+     "wzrost_mies": 0.025,
+     "sufit": 450,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Polecenie pana 300-04-09: 'potencjalnie najbardziej zyskowne linie Domu'; dzis wprowadzone do bilansu. Kadry: ubezpieczenia frachtu, papiernia, miary i probierstwo. Pasmo do korekty z pierwszej ksiegi kantoru."
+    },
+    {
+     "nazwa": "PLACOWKA PENTOS - Obaro",
+     "typ": "przychod",
+     "min": 25,
+     "max": 60,
+     "okres": "miesiac",
+     "od": "300-04-01",
+     "do": null,
+     "wzrost_mies": 0.025,
+     "sufit": 400,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Polecenie pana 300-04-09 jw. Znane z zapisu: drewno 110-120 jeleni za sztuke sucha (cena kupca na pismie); warunek Terysa - rozwiazac przewoz. Pasmo do korekty z ksiegi Obara."
+    },
+    {
+     "nazwa": "DRUKARNIA I SKRYPTORIUM FOSY - zakladanie (koszt)",
+     "typ": "koszt",
+     "min": 10,
+     "max": 20,
+     "okres": "miesiac",
+     "od": "300-05-01",
+     "do": "300-06-30",
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Postanowienie 300-04-25: drukarnia (drzeworyt etap I, pierwsza odbitka ~05-20), skryptorium Ilaria (~06-20). Dwa miesiace kosztu, zanim linia zacznie dawac."
+    },
+    {
+     "nazwa": "WYDAWNICTWO DOMU TALLY - drukarnia, skryptorium, ksiegi",
+     "typ": "przychod",
+     "min": 15,
+     "max": 40,
+     "okres": "miesiac",
+     "od": "300-07-01",
+     "do": null,
+     "wzrost_mies": 0.04,
+     "sufit": 350,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Cena ksiazki wg gracza 300-04-25: 1-5 smokow, rzadkie i ozdobne do 50. Najpierw kalendarz 301 i tablice, spiewnik, ksiegi pobozne (plan Hala ~05-02). Rosnie najszybciej ze wszystkich linii."
+    },
+    {
+     "nazwa": "EKSTRA ZYSK Z TOWARU KORONY (sprzedaz zwrotu dlugu 695)",
+     "typ": "przychod",
+     "min": 26,
+     "max": 39,
+     "okres": "miesiac",
+     "od": "300-04-01",
+     "do": "300-06-30",
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Zapis 300-03-18: ~650 z 695 zwrotu Korony w towarze = kapital wiosenny; marza Hala 12-18 proc. -> 78-117 ponad sam zwrot, rozlozone na IV-VI. Rubryka osobna, obok wyniku standardowego (prosba pana 300-04-23). ZDARZENIE SPECJALNE - poza korekta skali, zeby nie liczyc dwa razy.",
+     "bez_skali": true
     }
    ],
    "nieznane": [
@@ -387,6 +480,30 @@
      "wzrost_mies": 0.012,
      "sufit": 180,
      "zrodlo": "⚑ USTALONE 300-03-15 na wskazanie gracza: LENNO SPRZEDAJE TO, CO DOSTAJE. Czynsze i daniny ida W NATURZE - JEDNA TRZECIA DO POLOWY PLONU - a wlosc rodzi TORF, RYBE, TRZCINE, FUTRA, ZELAZO BAGIENNE, warzywo ze szklarni, ziola i mech oraz make z mlyna w sluzie. Lenno nie ma wlasnego kantoru ani arterii; DOM MA OBA, wiec towar idzie jego placowkami. Zapis 300-03-11: 'to nie jest dodatek, tylko JEDYNY SILNIK - zwyczaj zabrania podnoszenia czynszow, wiec caly wzrost dochodu lenna musi pochodzic z rzeczy nowych'. ⚠ NIE UZYWAM TU LICZBY 155-165/mies z 300-03-11 - TAMTA BYLA MOJA ALOKACJA I ZOSTALA VOIDOWANA (EKONOMIA_BAZA.md). Pasmo 40-90 jest ostrozniejsze i nie wskrzesza skasowanego rozbicia. ### ⚑ ROZSTRZYGNIECIE GRACZA 300-03-15: 'MONETE. LENNO MA DOSTAWAC PIENIADZ.' Pytanie postawione 300-03-11 - moneta czy rozliczenie w ksiedze Domu - zamkniete. TO JEST PIENIADZ, NIE ZAPIS."
+    },
+    {
+     "nazwa": "SZKOLA FOSY - wpisowe, praktykanci i pisarze na zlecenie",
+     "typ": "przychod",
+     "min": 4,
+     "max": 10,
+     "okres": "miesiac",
+     "od": "300-01-01",
+     "do": null,
+     "wzrost_mies": 0.02,
+     "sufit": 40,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Gracz liczy szkole wsrod przedsiebiorstw. Kotwica: wpisowe ~2 smoki/mies od dziecka w szkole Manderlych (300-01-28); pisarze szkoly odpisuja na zlecenie. Koszt 9/mies zostaje osobno."
+    },
+    {
+     "nazwa": "LECZNICA - leki obracane przez filie",
+     "typ": "przychod",
+     "min": 2,
+     "max": 6,
+     "okres": "miesiac",
+     "od": "299-09-01",
+     "do": null,
+     "wzrost_mies": 0.01,
+     "sufit": 20,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Spis przedsiebiorstw lenna: 'LEKI OBRACA LOKALNA FILIA - jedyny zaklad lenna z gotowym kanalem sprzedazy'. Dotad bez linii."
     }
    ],
    "nieznane": [
@@ -858,5 +975,18 @@
  "_nowe_300_04": [
   "300-04-01: STRAZ KARHOLDU NA MARCHII - sluzba Korony, Kasa 3, od 300-05-01. KWOTY BRAK - liczy Gawen z roli Karholdu."
  ],
- "_do_bilansu_placowki_essos": "300-04-09, polecenie pana: PLACOWKI BRAAVOS I PENTOS UWZGLEDNIC W NASTEPNYM BILANSIE JAKO POTENCJALNIE NAJBARDZIEJ ZYSKOWNE LINIE DOMU. KWOT NIE WPISUJE SIE Z GLOWY (zasada 43): pasma powstaja z PIERWSZYCH KSIAG - kantor Domu w Braavos (Nesta, ~04-29) i miesieczna ksiega Obara z Pentos do kantoru Nesty (pierwsza ~04-29). ZNANE DZIS Z ZAPISU: Pentos - drewno 110-120 jeleni za sztuke sucha spod pokladu (cena kupca na pismie); marza nieznana, dopoki nie ma kosztu drewna i przewozu (warunek Terysa: 'rozwiazcie przewoz'). Braavos - kadry podpisane (ubezpieczenia frachtu, papiernia, miary i probierstwo); ladownia braawoska tylko do Lannisportu. Pozycja otwarta do bilansu kwartalnego po 300-04-30."
+ "_do_bilansu_placowki_essos": "WYKONANE 300-04-26: Braavos i Pentos maja wlasne linie w Kasie 1 (pasma robocze do korekty z pierwszych ksiag kantoru Nesty i Obara). 300-04-09, polecenie pana: PLACOWKI BRAAVOS I PENTOS UWZGLEDNIC W NASTEPNYM BILANSIE JAKO POTENCJALNIE NAJBARDZIEJ ZYSKOWNE LINIE DOMU. KWOT NIE WPISUJE SIE Z GLOWY (zasada 43): pasma powstaja z PIERWSZYCH KSIAG - kantor Domu w Braavos (Nesta, ~04-29) i miesieczna ksiega Obara z Pentos do kantoru Nesty (pierwsza ~04-29). ZNANE DZIS Z ZAPISU: Pentos - drewno 110-120 jeleni za sztuke sucha spod pokladu (cena kupca na pismie); marza nieznana, dopoki nie ma kosztu drewna i przewozu (warunek Terysa: 'rozwiazcie przewoz'). Braavos - kadry podpisane (ubezpieczenia frachtu, papiernia, miary i probierstwo); ladownia braawoska tylko do Lannisportu. Pozycja otwarta do bilansu kwartalnego po 300-04-30.",
+ "_korekta_skali": {
+  "od": "300-04-01",
+  "mnoznik_min": 2,
+  "mnoznik_max": 3,
+  "kasy": [
+   "KASA 1 - DOM HANDLOWY TALLY",
+   "KASA 2 - LENNO FOSY CAILIN",
+   "KASA 3 - SKARB POLNOCY"
+  ],
+  "dotyczy": "PRZYCHODY (w tym zysk placowek z modelu). Koszty, obrot informacyjny, zdarzenia jednorazowe i pozycje 'bez_skali' - bez zmian.",
+  "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26: 'Stare bilanse nie sa aktualne - mocno podkrecic i wyliczyc razy 2-3; dochod Korony tez 2-3 razy, bo sytuacja sie stabilizuje i Polnoc zaczyna sie pieniezyc.' Odczyt '2x3' jako widelki: dol x2, gora x3. MA MOC ZAPISU (zasada 43).",
+  "uzasadnienie_w_swiecie": "Wojna skonczona, trakty i grobla otwarte, Wilk ogloszony i przyjmowany po nominale, jedna brama w komorach, Kompania Polnoc-Dorzecze, Essos przez Neste, wiosna 300. Polnoc przestaje byc niezmonetyzowana: to, co szlo w naturze, zaczyna isc w monecie."
+ }
 }

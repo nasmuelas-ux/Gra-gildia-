@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**79 otwartych** · **3 PRZETERMINOWANYCH** · 3 wraca dzis
+**79 otwartych** · **3 PRZETERMINOWANYCH** · 2 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
@@ -35,7 +35,6 @@ _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy 
 
 ### 🟡 WRACA DZIS
 - UCZTA NARODZIN EDDARDA - jednego dnia: rano pokazanie dziecka drzewu serca w bozogaju, wieczorem uczta w Wielkiej Sali. Warunek Kr… · _kanal:_ robota na miejscu (Winterfell)
-- SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wys… · _kanal:_ robota na miejscu (Winterfell)
 - MIECZ STALOWY DLA ARYI (od mistrza z Braavos) - Krol nie decyduje przez glowe matki (rzut 26): czeka na odpowiedz Catelyn o Fosie … · _kanal:_ przez Lucana / kruk Winterfell-Riverrun
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
@@ -347,7 +346,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-17** — LIST KROLA DO MATKI O NARODZINACH - syn EDDARD, krolowa zywa, bez goraczki; obwieszczenie z 04-15 poszlo tylko do domow Polnocy, Riverrun o wnuku nie wiedzial. O przyjezdzie: nie wzywa przed druga ratyfikacja; 'drzwi otwarte, kiedy uzna'. · _kto:_ **KROL -> CATELYN (Riverrun)** · _zamyka:_ odpowiedz Catelyn (czy i kiedy przyjedzie) albo cisza
 - **300-04-17** — OBWIESZCZENIE KROLA DO LORDA EDMURE'A TULLY'EGO (Riverrun, protektorat) - narodziny EDDARDA STARKA, dziedzica; dopisek reka Krola 'Wujowi - od siostrzenca, ktory teraz tez jest ojcem'. Tym samym ptakiem co list do Catelyn. · _kto:_ **KROL -> EDMURE TULLY** · _zamyka:_ odpowiedz Edmure'a (gratulacje / cokolwiek) albo cisza
 - **~300-05** — UCZTA NARODZIN EDDARDA - jednego dnia: rano pokazanie dziecka drzewu serca w bozogaju, wieczorem uczta w Wielkiej Sali. Warunek Krola: krolowa przy stole. Namaszczenie septona wczesniej, w komnacie. DATA OD LUWINA (kiedy krolowa moze zejsc do sali). Walder zaproszony juz 04-14 (list Perwyna); reszta listy gosci - Symon podpowiada, gdy bedzie data. Koszt: dom Starkow, rachunek kasztelana. · _kto:_ **KROL / LUWIN (data) / KASZTELAN** · _zamyka:_ Luwin podaje dzien, w ktorym krolowa zejdzie do sali; potem lista gosci i ptaki **⚠ OTWARTE ### 04-24 LUWIN: KROLOWA MOZE ZEJSC OD 04-30. SYN WALDERA ~2 TYGODNIE DROGI - KROL PYTA SYMONA O DATE I LISTE GOSCI.**
-- **300-04-17** — SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. · _kto:_ **RYMARZ (Zimowe Miasto) + BRAN** · _zamyka:_ pierwsza przymiarka na Branie - co pasuje, co do poprawy
+- **300-04-17** — SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. · _kto:_ **RYMARZ (Zimowe Miasto) + BRAN** · _zamyka:_ pierwsza przymiarka na Branie - co pasuje, co do poprawy **⚠ OTWARTE - 300-04-24 RZUT 97: BRAN OBJECHAL DZIEDZINIEC TRZY RAZY SAM; POPRAWIC DWA PASY I OPARCIE; DRUGA PRZYMIARKA OSTATNIA.**
 - **300-04-17** — KRZESLO NA KOLACH DLA BRANA - kolodziej, ~10 dni. · _kto:_ **KOLODZIEJ WINTERFELL** · _zamyka:_ krzeslo gotowe i Bran w nim
 - **300-04-17** — WYCIAG W SZYBIE NA POLANA (wieza Brana) - ciesla, ~3 tygodnie: kolowrot, kosz z oparciem, zapadka. · _kto:_ **CIESLA WINTERFELL** · _zamyka:_ wyciag chodzi z Branem
 - **300-04-18** — ODPOWIEDZ SYMONA DO ROOSE'A BOLTONA - sucho: Polnoc tworzy spis swojej tozsamosci; zdrowie jemu i lady Waldzie; Namiestnik sluzy pomoca. Pytanie Roose'a o wilki w Winterfell POMINIETE. · _kto:_ **SYMON -> ROOSE BOLTON** · _zamyka:_ odpowiedz albo cisza (rzut przy powrocie)
@@ -551,7 +550,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-04-24 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 99 · Sytosc 92 · Zmeczenie 44**
+- **Zdrowie 99 · Sytosc 100 · Zmeczenie 44**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1142,9 +1141,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `sukcesja_blizniakow_po_walderze` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-04-24] `dziennik`: 300-04-24 RANEK, WIELKA SALA - SNIADANIE. Bez rzutu. Chleb, jajka, miod, piwo; okiennice na osciez. Gwar - pol zalogi ma wolne na targ. KROL z listem matki pod lokciem - do Arii, przy wszyst…
-- [300-04-24] `ARYA`: 300-04-24 RANEK, WIELKA SALA - SNIADANIE. Bez rzutu. Chleb, jajka, miod, piwo; okiennice na osciez. Gwar - pol zalogi ma wolne na targ. KROL z listem matki pod lokciem - do Arii, przy wszyst…
-- [300-04-24] `dziennik`: 300-04-24 PRZEDPOLUDNIE, ZIMOWE MIASTO - PIERWSZY TARG NATURY; SYMON Z ARYA. Przy nich dwoch z przybocznej Stena, bez znakow. RZUT TARGU 41 (prog 50) - SCHODZI POLOWICZNIE. Pod slupem Korony…
 - [300-04-24] `ARYA`: 300-04-24 PRZEDPOLUDNIE, ZIMOWE MIASTO - PIERWSZY TARG NATURY; SYMON Z ARYA. Przy nich dwoch z przybocznej Stena, bez znakow. RZUT TARGU 41 (prog 50) - SCHODZI POLOWICZNIE. Pod slupem Korony…
 - [300-04-24] `GAWEN`: 300-04-24 PRZEDPOLUDNIE, ZIMOWE MIASTO - PIERWSZY TARG NATURY; SYMON Z ARYA. Przy nich dwoch z przybocznej Stena, bez znakow. RZUT TARGU 41 (prog 50) - SCHODZI POLOWICZNIE. Pod slupem Korony…
 - [300-04-24] `dziennik`: 300-04-24 PRZEDPOLUDNIE, ZIMOWE MIASTO, TARG - SYMON: jesli Krol sie zgodzi, klacz mozna kupic; POSLANIEC Z PYTANIEM do zamku (jeden z ludzi Stena), a oni ogladaja targ dalej. Bez rzutu (spr…
@@ -1154,3 +1150,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-04-24] `ARYA`: 300-04-24 PRZED POLUDNIEM, TARG - SYMON (i Arya z klacza) SLUCHAJA PIOSENKI O WILKU Z SZEPCZACEGO LASU. Bez rzutu. Spiewak z lutnia, stary, z glosem lepszym niz lutnia; ludzie stoja w kolo, …
 - [300-04-24] `dziennik`: 300-04-24 POLUDNIE, TARG - SYMON SZUKA KSIAG. RZUT 22 (prog 60) - KSIAG NIE MA. Jedyne, co na calym targu jest z papieru: (a) WEDROWNY SEPTON przy bramie z dwiema odpisanymi 'Siedmioramienny…
 - [300-04-24] `ksiega_mistyki_polnocy_300_04`: 300-04-24 POLUDNIE, TARG - SYMON SZUKA KSIAG. RZUT 22 (prog 60) - KSIAG NIE MA. Jedyne, co na calym targu jest z papieru: (a) WEDROWNY SEPTON przy bramie z dwiema odpisanymi 'Siedmioramienny…
+- [300-04-24] `dziennik`: 300-04-24 WCZESNE POPOLUDNIE, WIELKA SALA - OBIAD. Bez rzutu (poza przymiarka - rzut z rana). Pieczen wolowa, rzepa, chleb, piwo. PRZYMIARKA SIODLA BRANA (przed poludniem, pod nieobecnosc Sy…
+- [300-04-24] `BRAN`: 300-04-24 WCZESNE POPOLUDNIE, WIELKA SALA - OBIAD. Bez rzutu (poza przymiarka - rzut z rana). Pieczen wolowa, rzepa, chleb, piwo. PRZYMIARKA SIODLA BRANA (przed poludniem, pod nieobecnosc Sy…
+- [300-04-24] `ARYA`: 300-04-24 WCZESNE POPOLUDNIE, WIELKA SALA - OBIAD. Bez rzutu (poza przymiarka - rzut z rana). Pieczen wolowa, rzepa, chleb, piwo. PRZYMIARKA SIODLA BRANA (przed poludniem, pod nieobecnosc Sy…

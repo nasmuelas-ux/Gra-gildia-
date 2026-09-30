@@ -4005,7 +4005,7 @@
    "kanal": "do ustalenia",
    "wraca": "300-04-22",
    "zamyka": "kanal wskazany i list napisany - albo decyzja, ze nie",
-   "status": "otwarte"
+   "status": "zrobione 300-04-22 - list napisany (podziekowanie + los Gory + dom handlowy w Slonecznej Wloczni), kanal przez Neste i Braavos."
   },
   {
    "data": "300-04-19",
@@ -4221,6 +4221,15 @@
    "kanal": "przez Lucana / kruk Winterfell-Riverrun",
    "wraca": "300-04-24",
    "zamyka": "slowo matki (wprost albo z odpowiedzi o Fosie) i decyzja Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-22",
+   "co": "ODPOWIEDZ Z DORNE - na list Symona: podziekowanie za slowo Oberyna; los Gory; zgoda (albo nie) na dom handlowy Tally w Slonecznej Wloczni.",
+   "kto": "DORAN / OBERYN MARTELL -> SYMON",
+   "kanal": "list do Dorne przez Neste (Braavos) - ~86 dni w obie strony",
+   "wraca": "300-07-17",
+   "zamyka": "odpowiedz z Dorne (rzut) albo cisza",
    "status": "otwarte"
   }
  ],

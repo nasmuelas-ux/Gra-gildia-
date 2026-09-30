@@ -167,6 +167,11 @@
    "tam": 26,
    "wraca_lacznie": null,
    "zrodlo": "przyjete 300-04-21 przez analogie: Bialy Port-Winterfell wozem ~10-12 dni (Bialy Noz, trakt) + Winterfell-Czarny Zamek Traktem Krolewskim ~14 dni (kolumny Orina/Thella 03-28 -> 04-14 = 17 dni z przestojem). Ladunek, nie kruk."
+  },
+  "list do Dorne przez Neste (Winterfell-Bialy Port-Braavos-Sloneczna Wlocznia)": {
+   "tam": 43,
+   "wraca_lacznie": 86,
+   "zrodlo": "przyjete 300-04-22 przez analogie: kruk Winterfell-Bialy Port 2 + morze Bialy Port-Braavos ~21 + kupiec braawijski Braavos-Sloneczna Wlocznia ~20 (Waskie Morze, handel braawijski z Dorne). Odpowiedz ta sama droga wstecz."
   }
  }
 }

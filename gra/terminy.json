@@ -1230,8 +1230,8 @@
    "data": "300-04-17",
    "co": "POWROT DZIKIEGO - ALBO NIE. Trzy mozliwe konce i kazdy jest odpowiedzia: (a) wraca z miejscem i warunkiem Mance'a; (b) wraca sam, z niczym - i to tez mowi, ze rozmawiali; (c) nie wraca. ⚠ TRZECI KONIEC NIE JEST ZDRADA I NIE WOLNO GO TAK ZAPISAC - czlowiek, ktory wrocil do swoich w roku, w ktorym jego lud idzie na poludnie, zrobil to, co zrobilby kazdy. JEGO LUDZIE ZOSTAJA NA WOLNIZNIE TAKZE WTEDY. Inaczej nastepny nie pojdzie.",
    "kto": "-",
-   "kanal": "za Mur",
-   "wraca": "300-04-17",
+   "kanal": "za Mur -> Osric -> kruk Czarny Zamek-Winterfell",
+   "wraca": "300-04-20",
    "zamyka": "wraca, wraca z niczym, albo nie wraca",
    "status": "otwarte"
   },
@@ -3291,9 +3291,9 @@
    "co": "DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu nic do rzeczy (brama niepotrzebna). LODZIE: MORMONTOW + WLASNE (eskadra Torrena z Dustinportu). Warunek natury: otwarta woda po odwilzy. Otwarte: prosba do Maege Mormont o lodzie (wyjezdza dzis); rozkaz dla Torrena; zapewnienie dla Mance'a.",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-04-17",
+   "wraca": "300-06-01",
    "zamyka": "lodzie zebrane i droga uzgodniona z Mance'em",
-   "status": "otwarte ### WARUNKI NADANIA (pan 300-04-02, Krol przyjal): (1) CYPEL ICH, AUTONOMICZNY - wlasne zwyczaje, wlasni przywodcy, liczeni bez imion; (2) GDY PRZYJDZIE WALKA Z INNYMI, STAJA PRZY POLNOCY DO WALKI; (3) (dopowiedzenie Krola) NIE NAJEZDZAJA SASIADOW. Ida do Mance'a przy nastepnym kontakcie. ### 300-04-02: TORREN ZOSTAJE W DUSTINPORCIE (decyzja pana) - eskadra bez nowego rozkazu. Lodzie: Mormontowie + ewentualnie wlasne lodzie dzikich - PYTANIE DO MANCE'A przy nastepnym kontakcie: ile maja lodzi i gdzie."
+   "status": "otwarte - 04-17: lodzi brak, zatoka stoi; warunek natury"
   },
   {
    "data": "300-04-02",
@@ -3690,7 +3690,7 @@
    "kanal": "kruk Winterfell-Bialy Port (wylot 04-11)",
    "wraca": "300-04-17",
    "zamyka": "odpowiedz (rzut przy powrocie)",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-17: malo (45); wskazowka - ogniwo walyrianskie Luwina"
   },
   {
    "data": "300-04-10",
@@ -3753,7 +3753,7 @@
    "kanal": "kruk Winterfell-Bialy Port (wylot 04-12)",
    "wraca": "300-04-17",
    "zamyka": "odpowiedz Miry (rodzina, bez rzutu)",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-17: odpowiedz Miry (droga za 2-3 tyg. wg Rhony)"
   },
   {
    "data": "300-04-11",
@@ -3897,7 +3897,7 @@
    "kanal": "Winterfell",
    "wraca": "300-04-17",
    "zamyka": "trzecia noc bez goraczki albo goraczka",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-17: trzy noce bez goraczki (37); najgorsze minelo"
   },
   {
    "data": "300-04-15",

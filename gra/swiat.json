@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 13 (300-04-16) - nawalnica z zachodu: deszcz ze sniegiem, wicher; KRUKI NIE LECA w obie strony. Dziedziniec w bryi, szczelnie zamkniete okiennice.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 36 (300-04-17) - pochmurno, zimny wiatr z zachodu po burzy, bez opadu; kruki leca.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 548,
+ "_dziennik_nota": 549,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,
@@ -280,5 +280,6 @@
  "noc_300_04_12_koniec_dnia": "Dzien cieply (88). Luk 4/5 (77) - Arya: 'dobrze'. Trening 14/20. Przyboczna zaczela cwiczenia, palki i krotkie wlocznie (kwit od Stena). Krol nie oddaje audiencji (23). Bran: Lato niespokojny; SPACER ZA LATEM DO KRYPT (76): trzeci poziom, szczelina w gruzie, zimny ciag, slady Kudlacza i buciki Rickona. HODOR ustalony (nosi Brana). Rickon: 'ja jestem nim' (69) - sni, ze jest Kudlaczem; obietnica krzyzykiem na kiju; tajemnica przed Krolem. Bran: pory snow (wolanie przed switem). Zamiar: krypty przed switem ze Stenem.",
  "noc_300_04_13_koniec_dnia": "Dzien wiosenny (94). Przedswit w kryptach ze Stenem (73): Lato patrzy i zawraca, Kudlacz schodzi; 'Rickon, wracaj!' (97). Poczta: zbiorczy Fosy; krannogowie wyszli (97) - wroca ~04-16; dziura odsprzedazy w porcie (21) - zalatana wykladnia (intencja, podejrzenie wystarczy). Luk z dalszej 2/5. Arya: Nymeria (76), droga (47) - Gendry w Harrenhal; pismo do Edmure'a. Bran: wolanie, kruk z trzecim okiem; Niania - bajka o zielonowidzach (80); sen o upadku (70) - 'reka'; Jaime i Cersei. Rickon: 'to sie liczy'. Krolowa - swiece w sepcie; septon o magii.",
  "noc_300_04_14_koniec_dnia": "Dzien narodzin. Porod od polnocy (81), ciezki (20): KROLOWA ZYJE, BARDZO SLABA - tygodnie w lozku, trzy dni pod straza Luwina. SYN, ZDROWY (64) - dziedzic Polnocy. Bran uslyszal od Krola, ze nie jest dziedzicem ('lzej i troche pusto'). List do Waldera poszedl (pisal Perwyn). Tekst obwieszczenia do domow - Symona; herold w Zimowym Miescie. Luk 2/5; trening - czekanie. Swieto w sali - Symon wsrod ludzi, bez piwa. Zlecenie: prezent Fosy dla syna Krola.",
- "noc_300_04_15_koniec_dnia": "Dzien po narodzinach. Imie: EDDARD; obwieszczenie wyszlo do domow. Wystan - malo (42); Maege od ~06-01 (34); czarne szklo w skladzie (51); papiernia - szmaty; Karhold 30 ludzi. Luk 1/5 (8) - cieciwa po rece, karwasz od Aryi; trening lewa. Bran: kolumny 'co umie'/'kiedy odszedl' w rejestrach Winterfell. Krol o Jonie i Benjenie - listy do Osrica i Aemona. Sansa: rubryka 'odpowiedz na Eddarda'; obietnica - o malzenstwie dowie sie pierwsza. Krolowa - pierwsza doba bez goraczki."
+ "noc_300_04_15_koniec_dnia": "Dzien po narodzinach. Imie: EDDARD; obwieszczenie wyszlo do domow. Wystan - malo (42); Maege od ~06-01 (34); czarne szklo w skladzie (51); papiernia - szmaty; Karhold 30 ludzi. Luk 1/5 (8) - cieciwa po rece, karwasz od Aryi; trening lewa. Bran: kolumny 'co umie'/'kiedy odszedl' w rejestrach Winterfell. Krol o Jonie i Benjenie - listy do Osrica i Aemona. Sansa: rubryka 'odpowiedz na Eddarda'; obietnica - o malzenstwie dowie sie pierwsza. Krolowa - pierwsza doba bez goraczki.",
+ "noc_300_04_16_koniec_dnia": "Dzien burzy (13) - kruki nie lecialy. Arya: cieciwa na mokro; Braavos i Tytan; Syrio Forel - mistrz: nowy Pierwszy Miecz (26); 'Nie dzis' - Arya od jutra u mistrza, Krol dal jej miecz. Bran: sny z Rickonem w lesie; krzeslo na kolach, wyciag, siodlo Tyriona - kolodziej i ciesla wezwani. Krolowa - druga noc czysta. Symon zaczyna ksiege o mistyce Polnocy (badawcza, otwarta)."
 }

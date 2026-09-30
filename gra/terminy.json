@@ -1240,7 +1240,7 @@
    "co": "LIST DO STANNISA W IMIENIU KROLA - trzy rzeczy i zadna nie jest zakazem, BO ZAKAZAC SIE NIE DA. STAN PRAWNY SPRAWDZONY PRZED NAPISANIEM: clo zaporowe jest na WYWOZ, a Mur lezy na POLNOCY. Ludzie Stannisa kupuja w Bialym Porcie i wioza na polnoc - RUCH WEWNETRZNY, NIE WYWOZ. To LEGALNY KUPIEC ZE SREBREM, nie przestepca. (1) MACIE FLOTE - a Pentos ma zboze i przyjmuje srebro. Jesli tam plyniecie, KUPUJCIE TAM. (2) PROSBA, NIE ROZKAZ: przestancie wykupywac zboze na polnocnym rynku. Konkurujecie o ZIMOWE ZAPASY LUDZI, ktorzy sa po waszej stronie. (3) JESLI POTRZEBUJECIE ZBOZA - PISZCIE WPROST DO WINTERFELL. Korona wie, ile ma, i moze dac tanio to, czego kupiec wam sprzeda drogo. (4) PODAJCIE DOKLADNY TERMIN, KIEDY RUSZACIE NA MUR - zeby Polnoc byla zawiadomiona, a nie zaskoczona.",
    "kto": "SYMON (w imieniu KROLA) -> STANNIS",
    "kanal": "do Stannisa przez Davosa",
-   "wraca": "300-04-27",
+   "wraca": "300-04-28",
    "zamyka": "data wymarszu na Mur ORAZ odpowiedz o zbozu - albo cisza, ktora tez jest odpowiedzia",
    "status": "otwarte"
   },
@@ -3263,7 +3263,7 @@
    "co": "PRZYSTANIE NA PLACZACEJ WODZIE I ZLAMANEJ GALEZI - BOLTON PRZYJAL (rzut 79). Trzy klucze: ludzie Dreadfortu przy wadze (imiona listem z Dreadfortu), pisarz Korony przy ksiedze. Budowa po odwilzy.",
    "kto": "ROOSE BOLTON (imiona) + Mistrz Handlu / Korona (pisarze)",
    "kanal": "kruk Bialy Port-Dreadfort",
-   "wraca": "300-04-21",
+   "wraca": "300-04-29",
    "zamyka": "imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani",
    "status": "otwarte - 300-04-21 rzut 7: imion NIE MA; Roose wskaze ludzi 'gdy przystanie stana'; wagi z samym pisarzem Korony. ### 300-04-21: zwloka przyjeta; list do Roose'a z terminem (V-VIII) i wzorem Przystani Wilka (04-22)."
   },
@@ -3582,7 +3582,7 @@
    "kanal": "wlasny czlowiek w Winterfell",
    "wraca": "300-04-27",
    "zamyka": "pierwszy dzien targowy z ksiega sprzedazy; wplyw do Skarbu z ksiegi",
-   "status": "otwarte"
+   "status": "zrobione 300-04-24 - pierwszy targ natury w Zimowym Miescie (rzut 41): skory zeszly, welna stanela; ksiega Gawena"
   },
   {
    "data": "300-04-06",
@@ -3742,7 +3742,7 @@
    "co": "LIST ZAMKNIETY DO HOWLANDA REEDA O BRANIE (warg? sny, wolanie spod zamku) - prosba o rade. Czeka przy grobli razem z pierwszym listem, az krannogowie wyjda.",
    "kto": "poslaniec przy grobli (przez Garricka)",
    "kanal": "kruk Winterfell-Fosa (wylot 04-12) + poslaniec do Greywater Watch",
-   "wraca": "300-04-21",
+   "wraca": "300-05-05",
    "zamyka": "krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni ### 04-13: krannogowie wracaja do grobli ~04-16 - wtedy list o Branie idzie do nich.",
    "status": "otwarte - 300-04-21 rzut 55: krannogowie wyszli ~04-16 i wzieli OBA listy; odpowiedz bez daty, sprawdzenie co 14 dni."
   },
@@ -3996,7 +3996,7 @@
    "kanal": "wlasna robota (Winterfell) + poczta 04-20",
    "wraca": "300-04-21",
    "zamyka": "zestawienie Muru na stole Krola",
-   "status": "zrobione 300-04-21 - karta Muru na stole Krola (8 rubryk + 3 otwarte pytania)."
+   "status": "zrobione 300-04-21 - karta Muru na stole Krola"
   },
   {
    "data": "300-04-19",
@@ -4129,7 +4129,7 @@
    "co": "PROJEKT ODPOWIEDZI STANNISOWI (gdy poda date wymarszu ~04-27): nic ponad ziarno dla Muru; obsydian juz w drodze tam, gdzie kazal; Korona nie wystawia kandydata. Symon pisze projekt, Krol podpisuje.",
    "kto": "SYMON -> KROL",
    "kanal": "wlasna robota; wysylka tym kanalem, ktorym przyjdzie jego list",
-   "wraca": "300-04-27",
+   "wraca": "300-04-28",
    "zamyka": "projekt na stole Krola po liscie Stannisa",
    "status": "otwarte"
   },
@@ -4398,8 +4398,8 @@
    "data": "300-04-26",
    "co": "HAL - PELNE ROZLICZENIE DOMU po korekcie skali: kazde przedsiebiorstwo osobno (szkola, wedzarnia, bednarnia, solarnia, drukarnia, atelier, jubiler, zielarnia, dom audytowy, lecznica, papiernia i reszta), nowe domy Braavos i Pentos, aktualne placowki, rubryka ekstra zysku z towaru Korony.",
    "kto": "SYMON -> HAL",
-   "kanal": "kruk Winterfell-Bialy Port (04-27)",
-   "wraca": "300-05-04",
+   "kanal": "kruk Winterfell-Bialy Port (04-27) - wylot 04-28 (pogoda)",
+   "wraca": "300-05-05",
    "zamyka": "bilans Hala na zamkniecie IV/300 (liczby z kasa.py po korekcie skali)",
    "status": "otwarte"
   },
@@ -4434,8 +4434,8 @@
    "data": "300-04-26",
    "co": "KRUK DO OSRICA (Czarny Zamek): zmiana na Murze - po sprawie ludzi posla przekazac zmiennikowi i wracac do Winterfell; nowe zadanie: struktura pospolitego ruszenia (najpierw Kamienny Brzeg i domena), potem nabor do armii krolewskiej. ### 300-04-26 (cd.): OSRIC CZEKA NA HALLISA MOLLENA (~05-10) i przekazuje mu sprawy osobiscie; powrot do Winterfell ~05-22.",
    "kto": "KROL -> OSRIC",
-   "kanal": "kruk Winterfell-Czarny Zamek (04-27)",
-   "wraca": "300-04-30",
+   "kanal": "kruk Winterfell-Czarny Zamek (04-27) - PTAKI STOJA 04-27 (pogoda 5), wylot 04-28",
+   "wraca": "300-05-01",
    "zamyka": "potwierdzenie Osrica; przekazanie Hallisowi ~05-10; Osric w Winterfell ~05-22",
    "status": "otwarte"
   },
@@ -4464,14 +4464,14 @@
    "kanal": "w zamku",
    "wraca": "300-04-27",
    "zamyka": "nazwisko zastepcy",
-   "status": "otwarte"
+   "status": "zrobione 300-04-27 - Krol wskazal Rodrikowi DAVINA OD BRAMY (dziesietnik bramy polnocnej, dwadziescia lat w strazy); straz zamku ma glowe przed uczta"
   },
   {
    "data": "300-04-26",
    "co": "LIST DO TORRENA SOLNEGO: kto na Kamiennym Brzegu nadaje sie na Wielkiego Zarzadce (liczy, ludzie sluchaja, przezyl najazdy i zostal) - i czy ktos na Kasztelana; ile wsi i dymow wie z pamieci.",
    "kto": "SYMON -> TORREN SOLNY",
-   "kanal": "kruk Winterfell-Fosa (04-27) + jezdziec Fosa-Dustinport",
-   "wraca": "300-05-09",
+   "kanal": "kruk Winterfell-Fosa (04-27) + jezdziec Fosa-Dustinport - wylot 04-28 (pogoda)",
+   "wraca": "300-05-10",
    "zamyka": "lista nazwisk od Torrena",
    "status": "otwarte"
   },
@@ -4488,9 +4488,9 @@
    "data": "300-04-26",
    "co": "LORD LARENCE HORNWOOD PRZEZ WINTERFELL: Krol wzywa kuratora Galbarta Glovera - chlopak ma stanac w Winterfell na ucztę 05-10 (gaj rano, przed Krolem), potem do Hornwood z lady Donella.",
    "kto": "KROL -> GALBART GLOVER (do wiad. Robett)",
-   "kanal": "kruk Winterfell-Deepwood Motte (04-27)",
-   "wraca": "300-04-30",
-   "zamyka": "odpowiedz Glovera (rzut) + Larence w Winterfell ~05-09",
+   "kanal": "kruk Winterfell-Deepwood Motte (04-27) - wylot 04-28 (pogoda)",
+   "wraca": "300-05-01",
+   "zamyka": "odpowiedz Glovera (rzut) + Larence w Winterfell ~05-10/11 - NA STYK Z UCZTA",
    "status": "otwarte"
   }
  ],

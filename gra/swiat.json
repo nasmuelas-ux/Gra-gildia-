@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 26,
+  "dzien": 27,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 64 (300-04-26) - pogodnie, cieplo, kilka chmur; kruki leca.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 5 (300-04-27) - WICHER Z ZACHODU, deszcz ze sniegiem od switu; KRUKI STOJA - poczta przesunieta o dzien.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 717,
+ "_dziennik_nota": 719,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

@@ -4357,6 +4357,15 @@
    "wraca": "300-05-02",
    "zamyka": "plan Hala: co, gdzie, za ile (z ksiegi) + zgoda Owena na ksiazki pobozne",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-25",
+   "co": "THEOMORE - WSPOLPRACA SKRYPTORIUM FOSY Z GLEBOKORZENIEM: odpisy dla biblioteki (po koszcie), uczniowie jako pisarze-czeladnicy; co odpisac najpierw (wg jego karty: biblioteka / czego brakuje).",
+   "kto": "SYMON -> THEOMORE",
+   "kanal": "kruk Winterfell-Bialy Port (04-26)",
+   "wraca": "300-04-30",
+   "zamyka": "odpowiedz Theomore'a (rzut) - tak/nie i lista ksiag",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

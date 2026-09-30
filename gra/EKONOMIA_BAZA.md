@@ -26,7 +26,7 @@ Rozbicie Białego Portu i Fosy HQ na linie (765 / 515 / 325 / 195 oraz 555 / 360
 | **Kasa 2 — lenno Fosy Cailin** | ~115 – 485 | ~1 400 – 5 800 |
 | **Kasa 3 — Skarb Północy (Korona)** | ~615 – 1 010 | ~7 400 – 12 100 |
 
-⚠ **Skutek — z poprawką gracza 300-04-26 („jest jeszcze Manderly, znacznie bogatszy”):** górna krawędź Domu Tally zbliża się do osobistego dochodu Pana Winterfell (25–40 tys. przed korektą), **ale Symon NIE jest drugą sakiewką Północy.** **MANDERLY JEST ZNACZNIE BOGATSZY** — od Domu Tally i w monecie także od osobistej sakiewki Winterfell: jedyny prawdziwy port Północy, własne myto (pobiera je sam — list 300-04-26), flota, bednarnie, stocznie, srebro z handlu morskiego. Monetyzacja Północy podnosi także wielkie domy — **Manderly zyskuje na niej najwięcej, bo przez jego port przechodzi moneta.** Porządek w monecie: **MANDERLY ≫ WINTERFELL (osobiście) > DOM TALLY > reszta lordów.** Kwoty dla Manderly'ego nie wpisuje się z głowy (zasada 43) — tylko relację, którą ustalił gracz. Tabela „CZTERY PIĘTRA” niżej opisuje stan sprzed 300-04 i zostaje jako historia.
+⚠ **Skutek — z poprawką gracza 300-04-26 („jest jeszcze Manderly, znacznie bogatszy”):** górna krawędź Domu Tally zbliża się do osobistego dochodu Pana Winterfell (25–40 tys. przed korektą), **ale Symon NIE jest drugą sakiewką Północy.** **MANDERLY JEST ZNACZNIE BOGATSZY** — od Domu Tally i w monecie także od osobistej sakiewki Winterfell: jedyny prawdziwy port Północy, własne myto (pobiera je sam — list 300-04-26), flota, bednarnie, stocznie, srebro z handlu morskiego. Monetyzacja Północy podnosi także wielkie domy — **Manderly zyskuje na niej najwięcej, bo przez jego port przechodzi moneta.** Porządek w monecie: **MANDERLY ≫ WINTERFELL (osobiście) > DOM TALLY > reszta lordów.** **MANDERLY: 40 000 – 60 000 smoków rocznie** (rozstrzygnięcie gracza 300-04-26, moc zapisu) — wobec Winterfell 25 000 – 40 000 osobiście i Domu Tally ~13 000 – 31 000 po korekcie skali. Tabela „CZTERY PIĘTRA” niżej opisuje stan sprzed 300-04 i zostaje jako historia.
 
 ---
 
@@ -36,7 +36,7 @@ Trzy kasy to **porządek rachunkowy Symona**. Skala świata ma cztery piętra i 
 
 | piętro | rocznie | co to jest |
 |---|---|---|
-| **① WIELKIE DOMY — majątek osobisty pana** | **Winterfell 25 000 – 40 000** | dochód osobisty Pana Winterfell; Manderly porównywalny, a w samym srebrze prawdopodobnie największy na Północy, bo ma jedyny prawdziwy port |
+| **① WIELKIE DOMY — majątek osobisty pana** | **Winterfell 25 000 – 40 000 · MANDERLY 40 000 – 60 000** (gracz, 300-04-26) | dochód osobisty Pana Winterfell; Manderly znacznie bogatszy, największy na Północy, bo ma jedyny prawdziwy port |
 | **② KASA 1 — Dom Handlowy Tally** | **~3400 netto** | duży dom handlowy; **jakaś dziesiąta część osobistego dochodu Starka** |
 | **③ KASA 3 — Skarb Północy, w monecie** | **~3500** | **nowy fisk królewski**, nie majątek Północy |
 | **④ KASA 2 — lenno Fosy Cailin** | **~550** | małe lordostwo; stąd danina 20-40, czyli 4-7% |

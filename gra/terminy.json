@@ -3871,6 +3871,15 @@
    "wraca": "300-04-14",
    "zamyka": "Bran wie od brata",
    "status": "zamkniete 300-04-14: Krol powiedzial sam, przed krukami"
+  },
+  {
+   "data": "300-04-14",
+   "co": "PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z ksiegi, kiedy gotowe. Kasa 1.",
+   "kto": "SYMON -> GARRICK (Fosa)",
+   "kanal": "kruk Winterfell-Fosa (wylot 04-15) + zbiorczy 04-18",
+   "wraca": "300-04-20",
+   "zamyka": "propozycja Garricka z kosztem i data; potem wysylka traktem",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

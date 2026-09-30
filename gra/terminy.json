@@ -4444,8 +4444,8 @@
    "co": "DWA NAZWISKA (trzecie - Mur - ZAMKNIETE 300-04-26: HALLIS MOLLEN) DLA KROLA: Wielki Zarzadca Kamiennego Brzegu, Wielki Kasztelan Kamiennego Brzegu, posel na Mur w miejsce Osrica. Mysl Krola: zapytac Torrena Solnego (stamtad), komu ludzie brzegu wierza.",
    "kto": "SYMON -> KROL",
    "kanal": "w zamku",
-   "wraca": "300-05-02",
-   "zamyka": "nazwiska na stole Krola (razem z planem Theona)",
+   "wraca": "300-05-10",
+   "zamyka": "nazwiska na stole Krola po odpowiedzi Torrena (~05-09); Kasztelan raczej z Winterfell",
    "status": "otwarte"
   },
   {
@@ -4464,6 +4464,24 @@
    "kanal": "w zamku",
    "wraca": "300-04-27",
    "zamyka": "nazwisko zastepcy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "LIST DO TORRENA SOLNEGO: kto na Kamiennym Brzegu nadaje sie na Wielkiego Zarzadce (liczy, ludzie sluchaja, przezyl najazdy i zostal) - i czy ktos na Kasztelana; ile wsi i dymow wie z pamieci.",
+   "kto": "SYMON -> TORREN SOLNY",
+   "kanal": "kruk Winterfell-Fosa (04-27) + jezdziec Fosa-Dustinport",
+   "wraca": "300-05-09",
+   "zamyka": "lista nazwisk od Torrena",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "BAZOWY GARNIZON KAMIENNEGO BRZEGU - trzon z Winterfell pod Kasztelanem; liczba przy spisie zbrojowni Rodrika i z Osrikiem; najpierw palisada i wieza sygnalowa przy lancuchu ogni Gloverow.",
+   "kto": "KROL / SYMON / OSRIC",
+   "kanal": "w zamku",
+   "wraca": "300-05-22",
+   "zamyka": "liczba ludzi + miejsce palisady (po powrocie Osrica)",
    "status": "otwarte"
   }
  ],

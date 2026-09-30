@@ -3934,6 +3934,24 @@
    "wraca": "300-04-28",
    "zamyka": "odpowiedz Catelyn (czy i kiedy przyjedzie) albo cisza",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-17",
+   "co": "OBWIESZCZENIE KROLA DO LORDA EDMURE'A TULLY'EGO (Riverrun, protektorat) - narodziny EDDARDA STARKA, dziedzica; dopisek reka Krola 'Wujowi - od siostrzenca, ktory teraz tez jest ojcem'. Tym samym ptakiem co list do Catelyn.",
+   "kto": "KROL -> EDMURE TULLY",
+   "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-17)",
+   "wraca": "300-04-28",
+   "zamyka": "odpowiedz Edmure'a (gratulacje / cokolwiek) albo cisza",
+   "status": "otwarte"
+  },
+  {
+   "data": "~300-05",
+   "co": "UCZTA NARODZIN EDDARDA - jednego dnia: rano pokazanie dziecka drzewu serca w bozogaju, wieczorem uczta w Wielkiej Sali. Warunek Krola: krolowa przy stole. Namaszczenie septona wczesniej, w komnacie. DATA OD LUWINA (kiedy krolowa moze zejsc do sali). Walder zaproszony juz 04-14 (list Perwyna); reszta listy gosci - Symon podpowiada, gdy bedzie data. Koszt: dom Starkow, rachunek kasztelana.",
+   "kto": "KROL / LUWIN (data) / KASZTELAN",
+   "kanal": "robota na miejscu (Winterfell)",
+   "wraca": "300-04-24",
+   "zamyka": "Luwin podaje dzien, w ktorym krolowa zejdzie do sali; potem lista gosci i ptaki",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

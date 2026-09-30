@@ -4204,6 +4204,15 @@
    "wraca": "300-04-26",
    "zamyka": "odpowiedz Wymana (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "GARTH - NOMINACJA NA PROWADZACEGO SLUZBE KOMOR (pod Gawenem): przyjecie, plan objazdu, pierwsze zadanie - Bialy Port (celnicy na zoldzie Kasy 3, jedna brama po odpowiedzi Wymana); kto na Fosie przejmuje biezaca komore.",
+   "kto": "SYMON/KROL -> GARTH (kopia Gawen)",
+   "kanal": "kruk Winterfell-Fosa (04-22)",
+   "wraca": "300-04-26",
+   "zamyka": "odpowiedz Gartha z planem",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

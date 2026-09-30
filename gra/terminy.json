@@ -3979,6 +3979,15 @@
    "wraca": "300-05-09",
    "zamyka": "wyciag chodzi z Branem",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-18",
+   "co": "ODPOWIEDZ SYMONA DO ROOSE'A BOLTONA - sucho: Polnoc tworzy spis swojej tozsamosci; zdrowie jemu i lady Waldzie; Namiestnik sluzy pomoca. Pytanie Roose'a o wilki w Winterfell POMINIETE.",
+   "kto": "SYMON -> ROOSE BOLTON",
+   "kanal": "kruk Winterfell-Dreadfort (wylot 04-18)",
+   "wraca": "300-04-25",
+   "zamyka": "odpowiedz albo cisza (rzut przy powrocie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -4375,6 +4375,15 @@
    "wraca": "300-05-04",
    "zamyka": "lista przybywajacych na stole Krola i kasztelana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-25",
+   "co": "ZAPROSZENIE DLA LORDA REEDA Z RODZINA na gaj i uczte 05-10 - reka Brana, pieczec Krola; 'jesli droga nie pozwoli - Winterfell was pamieta'.",
+   "kto": "BRAN / KROL -> HOWLAND REED",
+   "kanal": "kruk Winterfell-Fosa (04-26) + poslaniec przy grobli",
+   "wraca": "300-05-10",
+   "zamyka": "Reed przyjezdza, odpisuje, albo cisza (Szare Wody wedruja)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

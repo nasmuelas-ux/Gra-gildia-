@@ -253,9 +253,9 @@
    "co": "NESTA: kolumna dziesieciu przystani zachodnich (fracht) + pytanie o DAENERYS ⚠ DATA POPRAWIONA 300-03-03 z V/300. Pytanie o Daenerys doklejone 300-03-02 - to najmlodszy z czterech listow i dlatego wraca ostatni, a nie w maju.",
    "kto": "NESTA",
    "zamyka": "odpowiedz z Braavos",
-   "status": "otwarte",
+   "status": "otwarte - 300-04-18: list Nesty PRZYSZEDL NA FOSE (kanal Fosa-Braavos-Fosa, wlasny czlowiek, bez rzutu na doreczenie); do Winterfell jedzie ze zbiorczym Garricka.",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": "300-04-18"
+   "wraca": "300-04-20"
   },
   {
    "data": "jesien 300",
@@ -3681,7 +3681,7 @@
    "kanal": "kruk Winterfell-Dreadfort (wylot 04-11)",
    "wraca": "300-04-18",
    "zamyka": "odpowiedz albo cisza (rzut przy powrocie)",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-18 - RZUT 16 (prog 50): ODPOWIEDZ KROTKA I ZIMNA, nic do ksiegi; Walda 'zdrowa'; JEDNA KONSEKWENCJA: Roose pyta, czemu Namiestnik pyta o zmiennoskorych wlasnie w Winterfell, 'gdzie dzieci chowaja sie z wilkami'."
   },
   {
    "data": "300-04-10",
@@ -3924,7 +3924,7 @@
    "kanal": "robota na miejscu (Winterfell)",
    "wraca": "300-04-18",
    "zamyka": "cena i termin od rzemieslnikow; potem robota",
-   "status": "otwarte"
+   "status": "zrobione 300-04-18 - kolodziej: krzeslo ~10 dni (kola z jesionu, obrecze okute), ciesla: wyciag w szybie na polana ~3 tygodnie (kolowrot, kosz z oparciem, zapadka). Cena NA RACHUNKU KASZTELANA dla domu Starkow - bez liczby z glowy (zasada 43). Rymarz wzial miare do siodla (osobny termin 04-24). Robota rusza."
   },
   {
    "data": "300-04-17",
@@ -3960,6 +3960,24 @@
    "kanal": "robota na miejscu (Winterfell)",
    "wraca": "300-04-24",
    "zamyka": "pierwsza przymiarka na Branie - co pasuje, co do poprawy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-17",
+   "co": "KRZESLO NA KOLACH DLA BRANA - kolodziej, ~10 dni.",
+   "kto": "KOLODZIEJ WINTERFELL",
+   "kanal": "robota na miejscu (Winterfell)",
+   "wraca": "300-04-28",
+   "zamyka": "krzeslo gotowe i Bran w nim",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-17",
+   "co": "WYCIAG W SZYBIE NA POLANA (wieza Brana) - ciesla, ~3 tygodnie: kolowrot, kosz z oparciem, zapadka.",
+   "kto": "CIESLA WINTERFELL",
+   "kanal": "robota na miejscu (Winterfell)",
+   "wraca": "300-05-09",
+   "zamyka": "wyciag chodzi z Branem",
    "status": "otwarte"
   }
  ],

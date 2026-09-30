@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 17,
+  "dzien": 18,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 36 (300-04-17) - pochmurno, zimny wiatr z zachodu po burzy, bez opadu; kruki leca.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 81 (300-04-18) - slonecznie, sucho, lagodnie, pierwszy cieply wiatr z poludnia; kruki leca, drogi schna.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 563,
+ "_dziennik_nota": 565,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

@@ -162,6 +162,11 @@
    "tam": 18,
    "wraca_lacznie": 40,
    "zrodlo": "przyjete 300-04-19 przez analogie: morze Bialy Port-Gulltown ~1-2 tyg. (zapis 297: zimowy szlak Gulltown dziala; szlak zelaza Gulltown->Boren) + korespondent Gulltown (siec Nesty) w gore do Orlego Gniazda ~4-5 dni. Paczka, nie kruk."
+  },
+  "woz Bialy Port-Czarny Zamek (Trakt Krolewski przez Winterfell)": {
+   "tam": 26,
+   "wraca_lacznie": null,
+   "zrodlo": "przyjete 300-04-21 przez analogie: Bialy Port-Winterfell wozem ~10-12 dni (Bialy Noz, trakt) + Winterfell-Czarny Zamek Traktem Krolewskim ~14 dni (kolumny Orina/Thella 03-28 -> 04-14 = 17 dni z przestojem). Ladunek, nie kruk."
   }
  }
 }

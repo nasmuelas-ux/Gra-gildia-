@@ -4105,6 +4105,33 @@
    "wraca": "300-05-21",
    "zamyka": "karta na stole",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "OSRIC NA WOLNIZNIE - ludzie drugiego poslanca: czy wiedza, czemu nie wrocil; czy ktos z nich chce go szukac. Bez obietnic; ich miejsce stoi bez wzgledu na odpowiedz.",
+   "kto": "SYMON -> OSRIC (+ tlumacz)",
+   "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-22)",
+   "wraca": "300-04-29",
+   "zamyka": "meldunek Osrica z ich odpowiedzia (rzut przy powrocie - to ich slowo, nie jego)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "OBSYDIAN NA MUR - trzy skrzynie ze skladu Domu w Bialym Porcie (dar Stannisa), wozem Korony przez Winterfell (Luwin wazy drugi raz) do Czarnego Zamku; odbiera Osric, kwit wagowy dla Strazy. Przewoz Kasa 3.",
+   "kto": "HAL (wydanie) -> woz Korony -> OSRIC",
+   "kanal": "kruk Winterfell-Bialy Port (rozkaz 04-22) + woz Bialy Port-Czarny Zamek (~26 dni)",
+   "wraca": "300-05-18",
+   "zamyka": "kwit wagowy z Czarnego Zamku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-21",
+   "co": "PROJEKT ODPOWIEDZI STANNISOWI (gdy poda date wymarszu ~04-27): nic ponad ziarno dla Muru; obsydian juz w drodze tam, gdzie kazal; Korona nie wystawia kandydata. Symon pisze projekt, Krol podpisuje.",
+   "kto": "SYMON -> KROL",
+   "kanal": "wlasna robota; wysylka tym kanalem, ktorym przyjdzie jego list",
+   "wraca": "300-04-27",
+   "zamyka": "projekt na stole Krola po liscie Stannisa",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

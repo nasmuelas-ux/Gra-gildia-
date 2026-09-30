@@ -4513,12 +4513,12 @@
   },
   {
    "data": "300-04-27",
-   "co": "CELNICY PANA NA FOSIE - kilku wlasnych ludzi Symona do myta pana obok komory Korony (pisarz komory Fosy liczy obie kolumny). Wskazuje Warryn/Garrick.",
+   "co": "CELNICY PANA NA FOSIE - kilku wlasnych ludzi Symona do myta pana obok komory Korony (pisarz komory Fosy liczy obie kolumny). PODLEGAJA RZADCY (Warryn) - dobiera sam, imion panu nie trzeba.",
    "kto": "SYMON -> WARRYN/GARRICK",
    "kanal": "kruk Winterfell-Fosa (04-28)",
    "wraca": "300-05-04",
    "zamyka": "imiona celnikow pana na Fosie",
-   "status": "otwarte"
+   "status": "zrobione 300-04-27 - rozkaz do Warryna idzie krukiem 04-28; celnicy pod rzadca, bez meldunku imion"
   }
  ],
  "_dopiski_300_03_18": [

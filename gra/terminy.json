@@ -4176,7 +4176,7 @@
    "kanal": "kruk Winterfell-Bialy Port (04-22)",
    "wraca": "300-04-26",
    "zamyka": "odpowiedz Hala z planem",
-   "status": "otwarte"
+   "status": "zrobione 300-04-26 - bufor: polowa wyniku/mies., ~1000 w 4 miesiace; posrednicy: Oswyn Miarka + dwoch z Bialego Noza; marza: bursztyn, papier, sol, ksiazki."
   },
   {
    "data": "300-04-21",
@@ -4203,7 +4203,7 @@
    "kanal": "kruk Winterfell-Bialy Port (04-22)",
    "wraca": "300-04-26",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "zrobione 300-04-26 - rzut 14: liczyc TAK, pobierac jego myto NIE; dwaj starzy celnicy zostaja przy nim; rozmowa przy uczcie 05-10."
   },
   {
    "data": "300-04-21",
@@ -4212,7 +4212,7 @@
    "kanal": "kruk Winterfell-Fosa (04-22)",
    "wraca": "300-04-26",
    "zamyka": "odpowiedz Gartha z planem",
-   "status": "otwarte"
+   "status": "zrobione 300-04-26 - przyjal; Fosa - pisarz komory; objazd od BP; prosi: tablica kursu z prasy do wszystkich komor tego samego dnia."
   },
   {
    "data": "300-04-22",
@@ -4383,6 +4383,15 @@
    "kanal": "kruk Winterfell-Fosa (04-26) + poslaniec przy grobli",
    "wraca": "300-05-10",
    "zamyka": "Reed przyjezdza, odpisuje, albo cisza (Szare Wody wedruja)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-26",
+   "co": "WYMAN PRZY UCZCIE - rozmowa o jednej bramie ('przy stole, nie na papierze'): liczy komora, myto do reki Manderlych? dwaj starzy celnicy przy jego kolumnie.",
+   "kto": "SYMON + KROL + WYMAN",
+   "kanal": "rozmowa w Winterfell (uczta)",
+   "wraca": "300-05-10",
+   "zamyka": "uklad o poborze myta w BP",
    "status": "otwarte"
   }
  ],

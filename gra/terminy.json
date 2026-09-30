@@ -3807,7 +3807,7 @@
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-04-14",
    "zamyka": "pomysl z Luwinem na stole",
-   "status": "otwarte"
+   "status": "zamkniete 300-04-16: szkic Brana (krzeslo na kolach, wyciag, siodlo Tyriona); kolodziej i ciesla wezwani"
   },
   {
    "data": "300-04-13",
@@ -3915,6 +3915,15 @@
    "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-16)",
    "wraca": "300-04-24",
    "zamyka": "odpowiedz Aemona (rzut przy powrocie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-16",
+   "co": "BRAN - KRZESLO NA KOLACH + WYCIAG NA WIEZY: kolodziej i ciesla zamkowi podaja cene i czas (placi dom Starkow). SIODLO wg rysunku Tyriona - rysunek od Luwina.",
+   "kto": "BRAN + kolodziej + ciesla Winterfell",
+   "kanal": "robota na miejscu (Winterfell)",
+   "wraca": "300-04-18",
+   "zamyka": "cena i termin od rzemieslnikow; potem robota",
    "status": "otwarte"
   }
  ],

@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 4,
-  "dzien": 21,
+  "dzien": 22,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 6 (300-04-21) - po sniezycy niebo czyste i OSTRY PRZYMROZEK: w nocy mroz sciął bloto i kaluze; kruki LECA (przymrozek, nie sniezyca) - poczta z dwoch dni przychodzi naraz; SKUTEK: przymrozek na wschodach jarego na polach domeny i Zimowego Miasta - kasztelan liczy straty.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 99 (300-04-22) - pierwszy pelny dzien wiosny: cieplo, slonce od switu, lekki wiatr z poludnia; szron zszedl przed sniadaniem; drogi schna; kruki leca.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 629,
+ "_dziennik_nota": 631,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

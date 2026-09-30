@@ -1429,9 +1429,9 @@
    "co": "CECH PISARZY POLICZYL WLASNA HANIEBNA LICZBE - i to jest rzecz, po ktora nikt nie siegnal. Skoro Ilaria skreslono w trzy tygodnie na slowo jednego domu, to PYTANIE BRZMI: ILU JESZCZE. Cech tego nie ogloszil, ale wpisal sobie zdanie o wlasnej pospiesznosci - a to znaczy, ze mozna zapytac i ze nie odmowia. NESTA JEST NA MIEJSCU I MA TEKE. ### CO Z TEGO MA POLNOC: skreslony pisarz to pisarz, ktory umie pisac i nie ma gdzie pracowac. Polnoc ma 3,5 mln ludzi i garsc piora. To nie jest litosc - to jest werbunek.",
    "kto": "SYMON -> NESTA (Braavos)",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": "300-04-22",
+   "wraca": "300-04-24",
    "zamyka": "liczba skreslonych przez cech w ostatnich 15 latach ALBO odmowa na pismie",
-   "status": "otwarte - WYMAGA ROZKAZU GRACZA"
+   "status": "otwarte - WYMAGA ROZKAZU GRACZA ⏸ 04-22: list Nesty na Fosie dzis, w Winterfell ze zbiorczym ~04-24."
   },
   {
    "data": "300-03-04",
@@ -3699,7 +3699,7 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-11)",
    "wraca": "300-04-22",
    "zamyka": "odpowiedz albo cisza (rzut przy powrocie)",
-   "status": "otwarte"
+   "status": "zrobione 300-04-22 - rzut 54: Wyspa Twarzy (nikt nie przybija), o wargach nic; nitka: Blackwoodowie, Krwawy Kruk ('tysiac oczu i jedno'), zaginal za Murem."
   },
   {
    "data": "300-04-10",
@@ -4068,7 +4068,7 @@
    "kanal": "robota na miejscu (Wintertown)",
    "wraca": "300-04-24",
    "zamyka": "targ odbyty, ksiega targu na stole Krola - albo przesuniety z powodu pogody",
-   "status": "otwarte"
+   "status": "otwarte ### 04-22: pogoda 99 - targ POJUTRZE (04-24), cena na slupie jutro."
   },
   {
    "data": "300-04-20",

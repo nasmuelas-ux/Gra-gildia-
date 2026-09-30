@@ -253,9 +253,9 @@
    "co": "NESTA: kolumna dziesieciu przystani zachodnich (fracht) + pytanie o DAENERYS ⚠ DATA POPRAWIONA 300-03-03 z V/300. Pytanie o Daenerys doklejone 300-03-02 - to najmlodszy z czterech listow i dlatego wraca ostatni, a nie w maju.",
    "kto": "NESTA",
    "zamyka": "odpowiedz z Braavos",
-   "status": "otwarte - 300-04-18: list Nesty PRZYSZEDL NA FOSE (kanal Fosa-Braavos-Fosa, wlasny czlowiek, bez rzutu na doreczenie); do Winterfell jedzie ze zbiorczym Garricka.",
+   "status": "otwarte - 300-04-18: list Nesty PRZYSZEDL NA FOSE (kanal Fosa-Braavos-Fosa, wlasny czlowiek, bez rzutu na doreczenie); do Winterfell jedzie ze zbiorczym Garricka. ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log).",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": "300-04-20"
+   "wraca": "300-04-21"
   },
   {
    "data": "jesien 300",
@@ -1231,9 +1231,9 @@
    "co": "POWROT DZIKIEGO - ALBO NIE. Trzy mozliwe konce i kazdy jest odpowiedzia: (a) wraca z miejscem i warunkiem Mance'a; (b) wraca sam, z niczym - i to tez mowi, ze rozmawiali; (c) nie wraca. ⚠ TRZECI KONIEC NIE JEST ZDRADA I NIE WOLNO GO TAK ZAPISAC - czlowiek, ktory wrocil do swoich w roku, w ktorym jego lud idzie na poludnie, zrobil to, co zrobilby kazdy. JEGO LUDZIE ZOSTAJA NA WOLNIZNIE TAKZE WTEDY. Inaczej nastepny nie pojdzie.",
    "kto": "-",
    "kanal": "za Mur -> Osric -> kruk Czarny Zamek-Winterfell",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "wraca, wraca z niczym, albo nie wraca",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-03-03 - WYSLANE",
@@ -3188,9 +3188,9 @@
    "co": "KOLUMNA UMBERA Z OSTATNIEGO OGNISKA NA CZARNY ZAMEK - owies ponad wlasna zime i solona baranina, wozy i ludzie Umbera. Dar dla Strazy, nie danina. Rusza po powrocie Umbera z Rady. Niezalezna od kolumny Orina i Thella.",
    "kto": "WIELKI JON UMBER",
    "kanal": "przez Osrica (Mur)",
-   "wraca": "~300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "dostawa w Czarnym Zamku potwierdzona w meldunku Osrica",
-   "status": "otwarte",
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log).",
    "sprawdzaj_co": 14
   },
   {
@@ -3263,9 +3263,9 @@
    "co": "PRZYSTANIE NA PLACZACEJ WODZIE I ZLAMANEJ GALEZI - BOLTON PRZYJAL (rzut 79). Trzy klucze: ludzie Dreadfortu przy wadze (imiona listem z Dreadfortu), pisarz Korony przy ksiedze. Budowa po odwilzy.",
    "kto": "ROOSE BOLTON (imiona) + Mistrz Handlu / Korona (pisarze)",
    "kanal": "kruk Bialy Port-Dreadfort",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-04-02",
@@ -3454,9 +3454,9 @@
    "co": "MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt, mlyn, torfiarnie, etapy miasta, etap 0, Goracy Port, transport kamienia. Takze 'stoi'. ⚑ W TYM HARMONOGRAMY WLASNE URZEDOW (etapy z datami).",
    "kto": "GARRICK (kancelaria Fosy)",
    "kanal": "kruk Winterfell-Fosa",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "meldunek na stole w Winterfell",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-04-06",
@@ -3573,7 +3573,7 @@
    "kanal": "wlasny czlowiek w Winterfell",
    "wraca": "300-04-20",
    "zamyka": "inwentarz na stole Krola",
-   "status": "otwarte"
+   "status": "zrobione 300-04-20 - lezy na stole Krola (wlasni ludzie, bez rzutu); tresc w ksiegach Skarbu/kasztelana, bez liczb z glowy (zasada 43). Krol chce przejrzec z Namiestnikiem."
   },
   {
    "data": "300-04-06",
@@ -3600,7 +3600,7 @@
    "kanal": "wlasny czlowiek w Winterfell",
    "wraca": "300-04-20",
    "zamyka": "odpowiedz na cztery pozycje + zdolnosc mennicy",
-   "status": "otwarte"
+   "status": "zrobione 300-04-20 - lezy na stole Krola (wlasni ludzie, bez rzutu); tresc w ksiegach Skarbu/kasztelana, bez liczb z glowy (zasada 43). Krol chce przejrzec z Namiestnikiem."
   },
   {
    "data": "300-04-06",
@@ -3609,7 +3609,7 @@
    "kanal": "wlasny czlowiek w Winterfell",
    "wraca": "300-04-20",
    "zamyka": "inwentarz na stole Krola",
-   "status": "otwarte"
+   "status": "zrobione 300-04-20 - lezy na stole Krola (wlasni ludzie, bez rzutu); tresc w ksiegach Skarbu/kasztelana, bez liczb z glowy (zasada 43). Krol chce przejrzec z Namiestnikiem."
   },
   {
    "data": "300-04-07",
@@ -3652,9 +3652,9 @@
    "co": "HODOWLA WEGORZY I RYB BLOTNYCH W CAILIN - plan: gdzie stawy, ile rak, co z komory wodnej od razu, pierwszy polow mlodych wegorzy (wiosenny ciag w gore rzek). Wegorza sie lowi mlodego i tuczy, nie rozmnaza. Laczy sie z pytaniem do krannogow o narybek.",
    "kto": "SYMON -> GARRICK + WARRYN; merytorycznie HAKON OD JASZCZURA",
    "kanal": "kruk Winterfell-Fosa; odpowiedz zbiorczym Garricka",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "plan z miejscem, rekami i data pierwszego polowu",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-04-09",
@@ -3715,9 +3715,9 @@
    "co": "GARRICK - NAJSTARSI MIESZKANCY LENNA: co pamietaja o Dzieciach Lasu i ludziach-zwierzetach; spisane imiennie. Wchodzi do zbiorczego 04-18 (w Winterfell 04-20).",
    "kto": "GARRICK (kancelaria Fosy)",
    "kanal": "kruk Winterfell-Fosa (wylot 04-11) + meldunek zbiorczy",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "spis rozmow na stole w Winterfell",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-04-11",
@@ -3742,9 +3742,9 @@
    "co": "LIST ZAMKNIETY DO HOWLANDA REEDA O BRANIE (warg? sny, wolanie spod zamku) - prosba o rade. Czeka przy grobli razem z pierwszym listem, az krannogowie wyjda.",
    "kto": "poslaniec przy grobli (przez Garricka)",
    "kanal": "kruk Winterfell-Fosa (wylot 04-12) + poslaniec do Greywater Watch",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni ### 04-13: krannogowie wracaja do grobli ~04-16 - wtedy list o Branie idzie do nich.",
-   "status": "otwarte - bez zegara z natury kanalu"
+   "status": "otwarte - bez zegara z natury kanalu ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-04-11",
@@ -3841,9 +3841,9 @@
    "co": "CZESC V PO ZMIANIE - pierwszy meldunek portu Wymana po pismie Krola (odsprzedaz = sprzedaz; podejrzenie wystarczy).",
    "kto": "WYMAN (komora portu)",
    "kanal": "kruk Winterfell-Bialy Port (wylot 04-13)",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "meldunek portu: ile wstrzymano po zmianie",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-04-13",
@@ -3877,9 +3877,9 @@
    "co": "PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z ksiegi, kiedy gotowe. Kasa 1.",
    "kto": "SYMON -> GARRICK (Fosa)",
    "kanal": "kruk Winterfell-Fosa (wylot 04-15) + zbiorczy 04-18",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "propozycja Garricka z kosztem i data; potem wysylka traktem",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-04-15",
@@ -3994,9 +3994,9 @@
    "co": "MUR - SPRAWA NUMER JEDEN W DOMU (rada Sansy 04-19): ziarno ma dojechac przed Stannisem; zestawic 04-20 razem: wiesc poslanca zza Muru (Osric), wymarsz Umbera, stan kolumn na Mur, termin Stannisa (~04-27). Jedno zestawienie na stol Krola.",
    "kto": "SYMON",
    "kanal": "wlasna robota (Winterfell) + poczta 04-20",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "zestawienie Muru na stole Krola",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 04-20: bez poczty z Muru zestawienia nie ma z czego zlozyc - 04-21."
   },
   {
    "data": "300-04-19",
@@ -4012,9 +4012,9 @@
    "co": "LIST BRANA DO TYRIONA LANNISTERA (rada Sansy): chlopiec dziekuje za rysunek siodla, bo wlasnie mu je szyja. List, ktory moze przeczytac Tywin - bez zadnej prosby. Do zaproponowania Branowi (i Krolowi - list do Twierdzy). Kanal po decyzji: kruk Fosa-Krolewska Przystan.",
    "kto": "SYMON -> BRAN (+ KROL)",
    "kanal": "rozmowa w Winterfell; potem kruk Fosa-KP",
-   "wraca": "300-04-20",
+   "wraca": "300-04-21",
    "zamyka": "Bran chce albo nie; jesli tak - list napisany",
-   "status": "otwarte"
+   "status": "otwarte ⏸ 300-04-20: POGODA RZUT 6 - kruki nie leca; doreczenie 04-21 (rzut, jesli byl, juz padl i czeka w rzuty.log)."
   },
   {
    "data": "300-04-19",

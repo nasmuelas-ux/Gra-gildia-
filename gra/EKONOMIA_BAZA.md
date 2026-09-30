@@ -26,7 +26,7 @@ Rozbicie Białego Portu i Fosy HQ na linie (765 / 515 / 325 / 195 oraz 555 / 360
 | **Kasa 2 — lenno Fosy Cailin** | ~115 – 485 | ~1 400 – 5 800 |
 | **Kasa 3 — Skarb Północy (Korona)** | ~615 – 1 010 | ~7 400 – 12 100 |
 
-⚠ **Skutek, nazwany wprost:** górna krawędź Domu Tally zbliża się do osobistego dochodu Pana Winterfell (25–40 tys.). Symon przestaje być „średnim lordem z dobrym interesem” — staje się drugą sakiewką Północy. Tabela „CZTERY PIĘTRA” niżej opisuje stan sprzed 300-04 i zostaje jako historia.
+⚠ **Skutek — z poprawką gracza 300-04-26 („jest jeszcze Manderly, znacznie bogatszy”):** górna krawędź Domu Tally zbliża się do osobistego dochodu Pana Winterfell (25–40 tys. przed korektą), **ale Symon NIE jest drugą sakiewką Północy.** **MANDERLY JEST ZNACZNIE BOGATSZY** — od Domu Tally i w monecie także od osobistej sakiewki Winterfell: jedyny prawdziwy port Północy, własne myto (pobiera je sam — list 300-04-26), flota, bednarnie, stocznie, srebro z handlu morskiego. Monetyzacja Północy podnosi także wielkie domy — **Manderly zyskuje na niej najwięcej, bo przez jego port przechodzi moneta.** Porządek w monecie: **MANDERLY ≫ WINTERFELL (osobiście) > DOM TALLY > reszta lordów.** Kwoty dla Manderly'ego nie wpisuje się z głowy (zasada 43) — tylko relację, którą ustalił gracz. Tabela „CZTERY PIĘTRA” niżej opisuje stan sprzed 300-04 i zostaje jako historia.
 
 ---
 

@@ -4213,6 +4213,15 @@
    "wraca": "300-04-26",
    "zamyka": "odpowiedz Gartha z planem",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-22",
+   "co": "MIECZ STALOWY DLA ARYI (od mistrza z Braavos) - Krol nie decyduje przez glowe matki (rzut 26): czeka na odpowiedz Catelyn o Fosie (~04-24); jesli trzeba - pytanie o stal w nastepnym liscie. Arya dowiedziala sie od Krola osobiscie 04-22.",
+   "kto": "KROL -> CATELYN",
+   "kanal": "przez Lucana / kruk Winterfell-Riverrun",
+   "wraca": "300-04-24",
+   "zamyka": "slowo matki (wprost albo z odpowiedzi o Fosie) i decyzja Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

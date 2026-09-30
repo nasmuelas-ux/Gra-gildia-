@@ -4221,7 +4221,7 @@
    "kanal": "przez Lucana / kruk Winterfell-Riverrun",
    "wraca": "300-04-24",
    "zamyka": "slowo matki (wprost albo z odpowiedzi o Fosie) i decyzja Krola",
-   "status": "otwarte ### 04-24: list Catelyn (85) - 'niech sie uczy tego, czego chce, pod okiem'; Krol: 'to jest odpowiedz i na miecz'."
+   "status": "zrobione 300-04-24 - Krol pozwolil po liscie matki; stal od mistrza ~04-28; miecz trzymany w zbrojowni."
   },
   {
    "data": "300-04-22",
@@ -4320,6 +4320,15 @@
    "kanal": "kruk Winterfell-Riverrun (04-25)",
    "wraca": "300-05-06",
    "zamyka": "odpowiedz matki do Brana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-24",
+   "co": "UCZTA - DATA I LISTA GOSCI: Krol chce jutro od Symona. Krolowa od 04-30 w sali; syn Waldera ~2 tygodnie drogi; Walder zaproszony.",
+   "kto": "SYMON -> KROL",
+   "kanal": "rozmowa w Winterfell",
+   "wraca": "300-04-25",
+   "zamyka": "data i lista gosci na stole Krola",
    "status": "otwarte"
   }
  ],

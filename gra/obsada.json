@@ -442,6 +442,11 @@
     "kto": "BORS",
     "od": "300-03-18",
     "nota": "NADANIE PREROGATYWA NAMIESTNIKA, nie za zgoda wspolwlascicieli. Rozstrzygniecie gracza 300-03-18 wieczorem: 'jako namiestnik krola wyznaczam GO'. PODSTAWA: Korona trzyma POLOWE przystani (Cerwyn 1/4, Manderly 1/4), a gospodarz jest czlowiekiem PORTU, nie ktorejs cwiartki - wiec zasada 22: kto pyta o zgode, ten jej potrzebuje. DLACZEGO BORS: mieszczanin bez pana, cech go wypuscil, chleba nie zawdziecza nikomu (mistrz robot od 299-08-27). ⚠ ROZDZIELENIE KAMIENIA I KSIAG NIE JEST WYMYSLONE POD TO NADANIE - STOI OD 300-03-03: ksiegi pomostu trzyma NORREN SCISLY i NIE STOI POD BORSEM ('ksiegi i kamien to dwa krzesla'). Norren to celnik odstawiony za to, ze liczyl ZA DOKLADNIE. ⚠ JEDYNA REALNA DZIURA W URZEDZIE BORSA - brak rubryk meldunku - zamyka sie 300-04-01 (Karta I, osiem rubryk, ktorych sam sobie nie ustala, odbior osobno). ### 300-03-29: polozone przy trzech wlascicielach (Korona 1/2, Cerwyn 1/4, Manderly 1/4) - stoi."
+   },
+   "POSEL KORONY NA MURZE": {
+    "kto": "HALLIS MOLLEN (kapitan strazy Winterfell) + 5 zwiadowcow + 2 psiarzy",
+    "od": "300-04-26",
+    "nota": "Wyznaczony przez Krola na wniosek Namiestnika (rzut 66). Zmienia Osrica; wyjazd ~04-29, na Murze ~05-10, przejecie od Osrica osobiscie. Zadania: Aemon/Clydas, kolumny zbozowe, obsydian ~05-18, wolnizna Daru i slad zaginionego posla (zwiadowcy, psiarze), rozmowa ze Stannisem z listem Krola. Posel Korony, NIE brat Strazy. Straz zamku po nim - zastepca (Krol wskaze)."
    }
   },
   "WINTERFELL": {
@@ -546,12 +551,6 @@
    "drabina": "KORONA",
    "pilnosc": "NAZWISKO OD NAMIESTNIKA",
    "nota": "Ustanowiony 300-04-26. Wojskowo-sadowy: rezerwy w jednolitych szykach, zbrojownie przy wsiach, straz brzegu, sad. Odpowiada przed Krolem; w sprawach szyku przed Marszalkiem Choragwi (Osric). Melduje co kwartal."
-  },
-  {
-   "urzad": "POSEL KORONY NA MURZE (zmiennik Osrica)",
-   "drabina": "KORONA",
-   "pilnosc": "PRZED ~05-10 (Osric przekazuje po ~04-29)",
-   "nota": "Osric zdjety z Muru 300-04-26 do budowy pospolitego ruszenia. Zmiennik przejmuje: Stannis, Aemon/Clydas, kolumny zbozowe, obsydian (~05-18)."
   }
  ],
  "_nie_dotyczy": {

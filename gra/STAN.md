@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**80 otwartych** · **4 PRZETERMINOWANYCH** · 2 wraca dzis
+**80 otwartych** · **4 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
@@ -35,7 +35,6 @@ _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy 
 - **+1 dni** — UCZTA NARODZIN EDDARDA - jednego dnia: rano pokazanie dziecka drzewu serca w bozogaju, wieczorem uczta w Wielkiej Sali. Warunek Kr… · _kanal:_ robota na miejscu (Winterfell) · _zamyka:_ Luwin podaje dzien, w ktorym krolowa zejdzie do sali; potem lista gosc…
 
 ### 🟡 WRACA DZIS
-- SPARINGI SYMONA Z REKRUTAMI (plan mistrza z Braavos): dwa razy w tygodniu po lekcji, stepiona bron, przeszywanice, helm bez znaku;… · _kanal:_ robota na miejscu (Winterfell)
 - UCZTA - DATA I LISTA GOSCI: Krol chce jutro od Symona. Krolowa od 04-30 w sali; syn Waldera ~2 tygodnie drogi; Walder zaproszony. · _kanal:_ rozmowa w Winterfell
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
@@ -370,7 +369,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-22** — REACH - WYCHOWANEK TYRELLOW W SZKOLE KROLA (rada Sansy): kuzyn, nie dziedzic. Dopiero gdy kontrakt stoi. Decyzja Krola. · _kto:_ **KROL** · _zamyka:_ decyzja Krola po kontrakcie
 - **300-04-23** — WALDER PROSI O MIEJSCE DLA WNUKA W SZKOLE KROLA - decyzja Krola (szkola: 'rok i dzien bez zareczyn' pod tym dachem); przyjmie - Frey przy stole Starkow. · _kto:_ **KROL** · _zamyka:_ odpowiedz Krola do Waldera
 - **300-07-05** — CATELYN PRZYJEZDZA DO WINTERFELL - po drugiej ratyfikacji (koniec VI), wyjazd z Riverrun poczatek VII. · _kto:_ **CATELYN** · _zamyka:_ Catelyn w Winterfell
-- **300-04-23** — SPARINGI SYMONA Z REKRUTAMI (plan mistrza z Braavos): dwa razy w tygodniu po lekcji, stepiona bron, przeszywanice, helm bez znaku; trzech rekrutow ser Alyna po kolei, potem dwoch naraz. Warunek: ser Alyn mowi przy nich, ze kto oszczedza Namiestnika, stoi noc na murach. · _kto:_ **MISTRZ Z BRAAVOS + SER ALYN** · _zamyka:_ pierwszy sparing odbyty
+- **300-04-23** — SPARINGI SYMONA Z REKRUTAMI (plan mistrza z Braavos): dwa razy w tygodniu po lekcji, stepiona bron, przeszywanice, helm bez znaku; trzech rekrutow ser Alyna po kolei, potem dwoch naraz. Warunek: ser Alyn mowi przy nich, ze kto oszczedza Namiestnika, stoi noc na murach. · _kto:_ **MISTRZ Z BRAAVOS + SER ALYN** · _zamyka:_ pierwszy sparing odbyty **⚠ OTWARTE ⏸ 04-25: PRZESUNIETE - NAMIESTNIK PRZEZIEBIONY.**
 - **300-04-23** — HAL - (1) Dom na otwartych targach natury Korony (Wintertown/Fosa/Bialy Port), jak kazdy kupiec, z wpisem; (2) OSOBNA RUBRYKA: ekstra zysk ze sprzedazy towaru Korony (zwrot 695) ponad sam zwrot dlugu. · _kto:_ **SYMON -> HAL** · _zamyka:_ odpowiedz Hala: plan zakupow na targach + rubryka ekstra zysku
 - **300-04-24** — AEMON CHORY - zimno w plucach; Clydas prowadzi kruki. Stan co tydzien przez Osrica/Clydasa (wybor Lorda Dowodcy, Straz bez maestra?). · _kto:_ **CLYDAS / OSRIC** · _zamyka:_ wiesc o zdrowiu Aemona
 - **300-04-24** — LIST BRANA DO MATKI - 'jezdze' (trzy razy wokol dziedzinca); krzeslo, wyciag; 'wiecej napisze, jak bede wiedzial wiecej'. Bez snow i bez Reeda. · _kto:_ **BRAN -> CATELYN** · _zamyka:_ odpowiedz matki do Brana
@@ -552,7 +551,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-04-25 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 95 · Sytosc 92 · Zmeczenie 38**
+- **Zdrowie 95 · Sytosc 100 · Zmeczenie 38**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1149,7 +1148,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `sukcesja_blizniakow_po_walderze` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-04-25] `GARRICK`: 300-04-25 PRZED POLUDNIEM, KOMNATA NAMIESTNIKA (lezac) - ROZSTRZYGNIECIE PANA: PRASA DRUKARSKA I WYDAWNICTWO - 'sprobuje to zbudowac na Fosie'. Bez rzutu na start (wlasni ludzie; rzut przy p…
 - [300-04-25] `HAL`: 300-04-25 PRZED POLUDNIEM, KOMNATA NAMIESTNIKA (lezac) - ROZSTRZYGNIECIE PANA: PRASA DRUKARSKA I WYDAWNICTWO - 'sprobuje to zbudowac na Fosie'. Bez rzutu na start (wlasni ludzie; rzut przy p…
 - [300-04-25] `dziennik`: 300-04-25 PRZED POLUDNIEM, KOMNATA NAMIESTNIKA - PAN DOPOWIADA: 'ale tez KSIAZKI - pisane szybciej i przepisywane'. Bez rzutu. DRUKARNIA NA FOSIE MA DWA SKRZYDLA: (A) PRASA (drzeworyt, potem…
 - [300-04-25] `drzeworyt_wizja`: 300-04-25 PRZED POLUDNIEM, KOMNATA NAMIESTNIKA - PAN DOPOWIADA: 'ale tez KSIAZKI - pisane szybciej i przepisywane'. Bez rzutu. DRUKARNIA NA FOSIE MA DWA SKRZYDLA: (A) PRASA (drzeworyt, potem…
@@ -1161,3 +1159,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-04-25] `dziennik`: 300-04-25 PRZED POLUDNIEM, KOMNATA NAMIESTNIKA - PAN: CENY KSIAZEK (fakt rynku podany przez pana - moc zapisu, zasada 43): zwykla ksiazka OD 1 DO 5 SMOKOW; rzadkie i ozdobne DO 50 SMOKOW. I:…
 - [300-04-25] `drzeworyt_wizja`: 300-04-25 PRZED POLUDNIEM, KOMNATA NAMIESTNIKA - PAN: CENY KSIAZEK (fakt rynku podany przez pana - moc zapisu, zasada 43): zwykla ksiazka OD 1 DO 5 SMOKOW; rzadkie i ozdobne DO 50 SMOKOW. I:…
 - [300-04-25] `theomore`: 300-04-25 PRZED POLUDNIEM, KOMNATA NAMIESTNIKA - PAN: CENY KSIAZEK (fakt rynku podany przez pana - moc zapisu, zasada 43): zwykla ksiazka OD 1 DO 5 SMOKOW; rzadkie i ozdobne DO 50 SMOKOW. I:…
+- [300-04-25] `dziennik`: 300-04-25 WCZESNE POPOLUDNIE, WIELKA SALA - OBIAD. Bez rzutu. Rosol z kury (kuchnia na rozkaz Luwina - dla Namiestnika w pierwszej kolejnosci), chleb, piwo. Glos Symona dalej schrypniety, go…

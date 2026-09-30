@@ -2595,11 +2595,11 @@
   {
    "data": "kiedy budowa przestanie zjadac cala produkcje",
    "co": "⚠ DZIEN, W KTORYM ZAKAZ EKSPORTU Z CAILIN ZACZNIE KOSZTOWAC. Filar ① obrony (Bractwo, 300-02-28) dziala za darmo tylko dopoty, dopoki grobla, forteca, miasto, Dustinport i drwale na Murze biora cala produkcje. Gdy przestana, 'dopoki lord nie postanowi osobno' przestanie byc formula i stanie sie decyzja: otworzyc targ i obudzic cech, albo trzymac wyrob w lennie i zdusic wlasne rzemioslo. ZEGAR NIE JEST URZEDOWY, TYLKO BUDOWLANY - rozpozna go ten, kto liczy odbior na budowach, nie kalendarz.",
-   "kto": "SYMON / WARRYN / IZBA",
+   "kto": "WARRYN (wykonanie na spust) / karta odbioru",
    "kanal": "karta odbioru z budow",
    "wraca": null,
    "zamyka": "decyzja lorda o otwarciu albo zamknieciu targu dla wyrobu Cailin",
-   "status": "otwarte - bez daty, ze spustem"
+   "status": "otwarte - ze spustem; ROZSTRZYGNIETE NA ZAPAS 300-04-22: przy nadwyzce - TARG DLA POLNOCY (bez wywozu za Przesmyk), Warryn otwiera sam i melduje; w Cailin tylko BRACTWA, nie cechy."
   },
   {
    "data": "~300-03-22 do 300-03-24",

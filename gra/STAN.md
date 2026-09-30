@@ -25,13 +25,12 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**81 otwartych** · **4 PRZETERMINOWANYCH** · 2 wraca dzis
+**81 otwartych** · **3 PRZETERMINOWANYCH** · 2 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
 - **+1 dni** — PRZYSTANIE NA PLACZACEJ WODZIE I ZLAMANEJ GALEZI - BOLTON PRZYJAL (rzut 79). Trzy klucze: ludzie Dreadfortu przy wadze (imiona lis… · _kanal:_ kruk Bialy Port-Dreadfort · _zamyka:_ imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani
 - **+1 dni** — LIST ZAMKNIETY DO HOWLANDA REEDA O BRANIE (warg? sny, wolanie spod zamku) - prosba o rade. Czeka przy grobli razem z pierwszym lis… · _kanal:_ kruk Winterfell-Fosa (wylot 04-12) + poslaniec do Greywater Watch · _zamyka:_ krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co…
-- **+1 dni** — PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z… · _kanal:_ kruk Winterfell-Fosa (wylot 04-15) + zbiorczy 04-18 · _zamyka:_ propozycja Garricka z kosztem i data; potem wysylka traktem
 - **+1 dni** — MUR - SPRAWA NUMER JEDEN W DOMU (rada Sansy 04-19): ziarno ma dojechac przed Stannisem; zestawic 04-20 razem: wiesc poslanca zza M… · _kanal:_ wlasna robota (Winterfell) + poczta 04-20 · _zamyka:_ zestawienie Muru na stole Krola
 
 ### 🟡 WRACA DZIS
@@ -1134,7 +1133,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `karty_krolestw_300_04` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-04-22] `dziennik`: 300-04-22 RANEK, WIELKA SALA - SYMON DO ARYI: 'Jakim mieczu?' Bez rzutu. ARYA mruzy oczy, polglosem, zeby Krol nie slyszal: 'Tym, co mistrz obiecal. Waskim. Ze stali, stepionym - nie drewnia…
 - [300-04-22] `ARYA`: 300-04-22 RANEK, WIELKA SALA - SYMON DO ARYI: 'Jakim mieczu?' Bez rzutu. ARYA mruzy oczy, polglosem, zeby Krol nie slyszal: 'Tym, co mistrz obiecal. Waskim. Ze stali, stepionym - nie drewnia…
 - [300-04-22] `dziennik`: 300-04-22 RANEK, WIELKA SALA - SYMON DO ARYI: porozmawia z Krolem po sniadaniu. Bez rzutu. ARYA - kiwa glowa, raz, jak przy strzale, ktora siadla: 'Dobrze.' I zaraz, zeby nie bylo, ze prosi:…
 - [300-04-22] `ARYA`: 300-04-22 RANEK, WIELKA SALA - SYMON DO ARYI: porozmawia z Krolem po sniadaniu. Bez rzutu. ARYA - kiwa glowa, raz, jak przy strzale, ktora siadla: 'Dobrze.' I zaraz, zeby nie bylo, ze prosi:…
@@ -1146,3 +1144,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-04-22] `dziennik`: 300-04-22 PRZED POLUDNIEM, DZIEDZINIEC - TRENING U MISTRZA Z BRAAVOS. Bez rzutu (wlasny czlowiek Korony; walka 7). Sucho, slonce. O Krolu mistrz mowi jedno zdanie, odkladajac drewno dziewczy…
 - [300-04-22] `ARYA`: 300-04-22 PRZED POLUDNIEM, DZIEDZINIEC - TRENING U MISTRZA Z BRAAVOS. Bez rzutu (wlasny czlowiek Korony; walka 7). Sucho, slonce. O Krolu mistrz mowi jedno zdanie, odkladajac drewno dziewczy…
 - [300-04-22] `dziennik`: 300-04-22 WCZESNE POPOLUDNIE, WIELKA SALA - OBIAD. Bez rzutu. Zupa z kury, chleb z pierwszym szczypiorem, piwo. Cieplo - drzwi do dziedzinca otwarte. KROLOWA byla przed poludniem kwadrans na…
+- [300-04-22] `dziennik`: 300-04-22 POPOLUDNIE, KOMNATA NAMIESTNIKA - Symon przeglada swoje zobowiazania (terminarz + obietnice osobiste). Bez rzutu.

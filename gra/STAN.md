@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**80 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- BRAN ROZMAWIA Z OSHA - za zgoda Symona: w dzien, PRZY HODORZE; pytania o WARGOW i SPIEWAKOW. Sen o spadaniu - tajemnica Brana (nie… · _kanal:_ Winterfell
+**79 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -420,7 +417,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-11** — LIST DO HOWLANDA REEDA - MIEJSCE KOPCA PRZY WIEZY RADOSCI (kosci Willama Dustina dla lady Barbrey). · _kto:_ **SYMON -> HOWLAND REED** · _zamyka:_ Reed wskazuje miejsce (albo przez Jojena/Meere)
 - **300-05-11** — LIST DO OBERYNA MARTELLA (przez Neste): pomoc w odnalezieniu kosci poleglych przy Wiezy Radosci (Willam Dustin i ludzie Eddarda); 'Eddard byl przeciwny temu, co stalo sie z Elia'; osobiste zaproszenie Symona dla ksiecia na Polnoc. · _kto:_ **SYMON -> OBERYN (przez NESTE)** · _zamyka:_ odpowiedz Oberyna (rzut)
 - **300-05-11** — KAMIEN Z PALCA FLINTA DLA FOSY (granit) + TRAN I SKORY FOK NA TARG W CAILIN - zgoda w zasadzie (Flint z Palca, 71). Droga: lodzie Flinta przez Zatoke Plonacej Wody do ujscia Goraczki (Goracy Port) -> barki Fosy w gore Goraczki do Cailin. Zaplata po cenie ze slupa, czesc w SOLI i ZBOZU. Warunek Flinta: ktos z Fosy (Orbelo / Vard Kilof?) przyjezdza na Palec obejrzec lom i powiedziec, jakie bloki. Ilosci i ceny - po obejrzeniu i ze slupa (zasada 43). · _kto:_ **SYMON -> GARRICK / ORBELO + FLINT Z PALCA** · _zamyka:_ lom obejrzany, pierwszy transport kamienia **⚠ OTWARTE - 05-11: POLECENIE DO FOSY (GARRICK WYBIERA CZLOWIEKA I DECYDUJE) - KRUK 05-12; CZLOWIEK NA PALCU ~05-20/22; FLINT W DOMU ~05-18.**
-- **300-05-11** — BRAN ROZMAWIA Z OSHA - za zgoda Symona: w dzien, PRZY HODORZE; pytania o WARGOW i SPIEWAKOW. Sen o spadaniu - tajemnica Brana (nie mowi). Osha: 'nie powiem mu nic, czego nie wiem'. · _kto:_ **BRAN + OSHA (Hodor)** · _zamyka:_ rozmowa odbyta (rzut)
+- **300-05-11** — ZAMKNIETE 300-05-12 (rzut 11): Osha powiedziala malo - o wargach nie pod dachem; o spiewakach: odeszli. BRAN ROZMAWIA Z OSHA - za zgoda Symona: w dzien, PRZY HODORZE; pytania o WARGOW i SPIEWAKOW. Sen o spadaniu - tajemnica Brana (nie mowi). Osha: 'nie powiem mu nic, czego nie wiem'. · _kto:_ **BRAN + OSHA (Hodor)** · _zamyka:_ rozmowa odbyta (rzut) **⚠ ZAMKNIETE**
 - **300-05-12** — WYCHOWANEK CERWYNA PRZYJEZDZA DO WINTERFELL - bratanek lorda Medgera, 9 lat ('czyta lepiej niz ja'); wychowanek Korony (uczta 05-10, rzut 72). Symon osobiscie dopilnuje przyjecia (kwatera, nauka u maestera). Przywozi go czlowiek z zamku Cerwyn z listem pod pieczecia (imie w liscie). · _kto:_ **JONELLE CERWYN (wysyla) / SYMON (przyjmuje)** · _zamyka:_ chlopiec w Winterfell, przyjety
 - **300-05-12** — BECZULKA WEDZONEGO WEGORZA Z FOSY + DWA PRZEPISY Z KUCHNI ZAMKU - DAR DLA WYMANA DO BIALEGO PORTU. Rozkaz Symona przy obiedzie 05-12. Kruk Winterfell-Fosa po poludniu 05-12 (2 dni) -> NELDA OD KOTLA (kucharz Lenna) wybiera beczulke i spisuje dwa przepisy (wybor jej; ktos z kancelarii Fosy pisze pod jej dyktando) -> jezdziec Fosa-Bialy Port (7 dni). Wlasni ludzie - bez rzutu (zasada 7). Wyman wyjezdza z Winterfell 05-13, w domu ~kilka dni pozniej - beczulka moze go wyprzedzic. · _kto:_ **NELDA OD KOTLA (Fosa) / jezdziec Fosy** · _zamyka:_ beczulka i przepisy w Bialym Porcie (wiesc od Nesty albo od Wymana)
 
@@ -1205,7 +1202,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 - **300-05-11** — LIST DO HOWLANDA REEDA - MIEJSCE KOPCA PRZY WIEZY RADOSCI (kosci Willama Dustina dla lady Barbrey).
 - **300-05-11** — LIST DO OBERYNA MARTELLA (przez Neste): pomoc w odnalezieniu kosci poleglych przy Wiezy Radosci (Willam Dustin i ludzie Eddarda); 'Eddard byl przeciwny temu, co stalo sie z Elia'; osobiste zaproszenie Symona dla ksiecia na Polnoc.
 - **300-05-11** — KAMIEN Z PALCA FLINTA DLA FOSY (granit) + TRAN I SKORY FOK NA TARG W CAILIN - zgoda w zasadzie (Flint z Palca, 71). Droga: lodzie Flinta przez Zatoke Plonacej Wody do ujscia Goraczki (Goracy Port) -> barki Fosy w gore Goraczki do Cailin. Zaplata po cenie ze slupa, czesc w SOLI i ZBOZU. Warunek Flinta: ktos z Fosy (Orbelo / Vard Kilof?) przyjezdza na Palec obejrzec lom i powiedziec, jakie bloki. Ilosci i ceny - po obejrzeniu i ze slupa (zasada 43).
-- **300-05-11** — BRAN ROZMAWIA Z OSHA - za zgoda Symona: w dzien, PRZY HODORZE; pytania o WARGOW i SPIEWAKOW. Sen o spadaniu - tajemnica Brana (nie mowi). Osha: 'nie powiem mu nic, czego nie wiem'.
+- **300-05-11** — ZAMKNIETE 300-05-12 (rzut 11): Osha powiedziala malo - o wargach nie pod dachem; o spiewakach: odeszli. BRAN ROZMAWIA Z OSHA - za zgoda Symona: w dzien, PRZY HODORZE; pytania o WARGOW i SPIEWAKOW. Sen o spadaniu - tajemnica Brana (nie mowi). Osha: 'nie powiem mu nic, czego nie wiem'.
 - **300-05-12** — WYCHOWANEK CERWYNA PRZYJEZDZA DO WINTERFELL - bratanek lorda Medgera, 9 lat ('czyta lepiej niz ja'); wychowanek Korony (uczta 05-10, rzut 72). Symon osobiscie dopilnuje przyjecia (kwatera, nauka u maestera). Przywozi go czlowiek z zamku Cerwyn z listem pod pieczecia (imie w liscie).
 - **300-05-12** — BECZULKA WEDZONEGO WEGORZA Z FOSY + DWA PRZEPISY Z KUCHNI ZAMKU - DAR DLA WYMANA DO BIALEGO PORTU. Rozkaz Symona przy obiedzie 05-12. Kruk Winterfell-Fosa po poludniu 05-12 (2 dni) -> NELDA OD KOTLA (kucharz Lenna) wybiera beczulke i spisuje dwa przepisy (wybor jej; ktos z kancelarii Fosy pisze pod jej dyktando) -> jezdziec Fosa-Bialy Port (7 dni). Wlasni ludzie - bez rzutu (zasada 7). Wyman wyjezdza z Winterfell 05-13, w domu ~kilka dni pozniej - beczulka moze go wyprzedzic.
 
@@ -1288,8 +1285,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zobowiazania` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-12] `poprawki`: VOID (zasada 1 i 3, na wskazanie gracza): w przegladzie gosci 05-12 ser WYLIS MANDERLY wpisany do 'najmniej znanych' - BLAD GM (nie sprawdzilem ksiag). ZAPIS: Wylis jako KASZTELAN Bialego Po…
-- [300-05-12] `dziennik`: 300-05-12 OBIAD (cd.) - SYMON (gracz) prostuje: z Wylisem zna sie jeszcze z czasow kupieckich. Zgodne z ksiegami (297-11: audyt ksiag zimowych, warrant prowiantu zamku; 298-03: slowo do lord…
 - [300-05-12] `dziennik`: 300-05-12 OBIAD (cd.) - SYMON IDZIE DO MALEGO JONA UMBERA. Bez rzutu (powitanie; sprawa nienazwana). Maly Jon przy lawie Umberow, z kilkoma ludzmi ojca; wyzszy niz wiekszosc w sali, tylko o …
 - [300-05-12] `dziennik`: 300-05-12 OBIAD (cd.) - SYMON PYTA MALEGO JONA, JAK SIE MA. Bez rzutu (rozmowa). MALY JON: 'Dobrze! Za dobrze.' Wzrusza ramionami: 'Rok wojny, potem rok w domu. Ojciec jedzie z poselstwem po…
 - [300-05-12] `dziennik`: 300-05-12 OBIAD (cd.) - Symon dziekuje Malemu Jonowi; podchodzi jeszcze do WYMANA i SER WYLISA - pyta, co z mlodszym synem (SER WENDEL). Bez rzutu (pytanie o rodzine). ZAPIS: ostatni wpis o …
@@ -1300,3 +1295,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-12] `dziennik`: 300-05-12 OBIAD (cd.) - SYMON PYTA TALLHARTA: ile liczy jego druzyna. RZUT 31 (prog 30): TAK - na styk; liczby proste, bez rozwijania (slowa Tallharta - moc G). (1) DRUZYNA DOMOWA: 'Czterdzi…
 - [300-05-12] `TALLHART`: SILA KWADRATU (05-12, rzut 31, slowa Helmana): druzyna domowa 40 (polowa pod Leobaldem pod nieobecnosc lorda); pobor ~700 przy pelnym stawiennictwie - po wojnie mniej; wojna 600 -> 430; ryce…
 - [300-05-12] `dziennik`: 300-05-12 OBIAD (cd.) - SYMON PYTA TALLHARTA, CZY PAMIETA OJCA NEDA STARKA (lord RICKARD STARK, zm. 282, kanon). Bez rzutu (wspomnienie; Tallhart po piecdziesiatce - w 282 mial ok. 34 lata).…
+- [300-05-12] `dziennik`: 300-05-12 PO POLUDNIU, DZIEDZINIEC (przy studni, Hodor) - BRAN ROZMAWIA Z OSHA (termin 05-11; bez Symona). RZUT 11 (prog 45): PONIZEJ - JEDNA KONSEKWENCJA: OSHA POWIEDZIALA MALO. O WARGACH -…
+- [300-05-12] `dziennik`: 300-05-12 PO POLUDNIU, KOMNATA BRANA - Symon dziekuje Tallhartowi i idzie do Brana. Bez rzutu. Bran przy oknie, Lato u nog; kartka 'wargowie / spiewacy' lezy na stole - pod spodem dopisane k…

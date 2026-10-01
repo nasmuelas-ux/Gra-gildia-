@@ -25,11 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**91 otwartych** · **1 PRZETERMINOWANYCH** · 0 wraca dzis
-
-### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
-_przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
-- **+2 dni** — MAEGE MORMONT: LODZIE Z ZALOGAMI (jej ludzie i kobiety) + WYSPA NIEDZWIEDZIA JAKO PRZYSTANEK W POL DROGI + ZNAK OD JEJ STERNIKOW, … · _kanal:_ przez Dustinport (Torren) / kruk z Wyspy Niedzwiedziej · _zamyka:_ znak sternikow: zatoka otwarta
+**90 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -286,8 +282,8 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-02** — SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie. · _kto:_ **CERWYN (Justycjariusz) + DONELLA HORNWOOD + DREADFORT** · _zamyka:_ pomiar wykonany; ugoda albo wyrok **⚠ OTWARTE - PISARZ DO POMIARU: Z REWIZJI (DECYZJA PANA 300-04-02). PIERWSZA ROBOTA NOWEGO URZEDU: WSPOLNE PRZEJSCIE POD DWIE PIECZECIE (CZLOWIEK HORNWOODU, CZLOWIEK DREADFORTU), PISARZ REWIZJI PRZY NICH.**
 - **300-04-02** — PROWIZJA MISTRZA HANDLU OD DREWNA - stala i jawna (uchwala Handlu 300-04-01). WYSOKOSC Z KSIEGI, nie z glowy: kancelista Wymana + HAL/TAM licza z kosztu obslugi (waga, skladanie, zaladunek, ksiega). Ogloszona na slupie i w kazdej przystani, zanim ruszy pierwsza sprzedaz po odwilzy. · _kto:_ **WYMAN (kancelista) + HAL/TAM** · _zamyka:_ prowizja ogloszona na pismie
 - **300-04-02** — PRZYSTAN NA OSTATNIEJ RZECE (KARHOLD) - KARSTARK PRZYJAL (rzut 26/25). Trzy klucze: czlowiek Karholdu przy wadze, pisarz Korony przy ksiedze. Cel: zaopatrzenie Wschodniej Straznicy, gdy morze stoi. KOSZT: budowa dopiero PO SIEWACH (malo rak). · _kto:_ **KARSTARK + Mistrz Handlu / Korona** · _zamyka:_ budowa ruszyla
-- **300-04-02** — DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu nic do rzeczy (brama niepotrzebna). LODZIE: MORMONTOW + WLASNE (eskadra Torrena z Dustinportu). Warunek natury: otwarta woda po odwilzy. Otwarte: prosba do Maege Mormont o lodzie (wyjezdza dzis); rozkaz dla Torrena; zapewnienie dla Mance'a. · _kto:_ **SYMON** · _zamyka:_ lodzie zebrane i droga uzgodniona z Mance'em **⚠ OTWARTE - 04-17: LODZI BRAK, ZATOKA STOI; WARUNEK NATURY**
-- **300-04-02** — MAEGE MORMONT: LODZIE Z ZALOGAMI (jej ludzie i kobiety) + WYSPA NIEDZWIEDZIA JAKO PRZYSTANEK W POL DROGI + ZNAK OD JEJ STERNIKOW, KIEDY ZATOKA LODU PUSZCZA. Rzut 99. Warunek: nie najezdzaja sasiadow (zgodny z nadaniem). · _kto:_ **MAEGE MORMONT -> SYMON** · _zamyka:_ znak sternikow: zatoka otwarta
+- **300-04-02** — DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu nic do rzeczy (brama niepotrzebna). LODZIE: MORMONTOW + WLASNE (eskadra Torrena z Dustinportu). Warunek natury: otwarta woda po odwilzy. Otwarte: prosba do Maege Mormont o lodzie (wyjezdza dzis); rozkaz dla Torrena; zapewnienie dla Mance'a. · _kto:_ **SYMON** · _zamyka:_ lodzie zebrane i droga uzgodniona z Mance'em **⚠ OTWARTE - 05-03 (MAEGE, RZUT 86): WARUNEK NATURY SPELNIONY - ZATOKA PUSZCZA, MROZNY BRZEG ~05-10/12; LODZIE MORMONTOW GOTOWE. BRAKUJE: DRUGIEJ STRONY - KONTAKTU Z MANCE'EM (POSLANIEC 02-07 NIE WROCIL, DZIKI 04-21 NIE WROCIL; TLUMACZ ZA MUR NIE POJDZIE).**
+- **300-04-02** — MAEGE MORMONT: LODZIE Z ZALOGAMI (jej ludzie i kobiety) + WYSPA NIEDZWIEDZIA JAKO PRZYSTANEK W POL DROGI + ZNAK OD JEJ STERNIKOW, KIEDY ZATOKA LODU PUSZCZA. Rzut 99. Warunek: nie najezdzaja sasiadow (zgodny z nadaniem). · _kto:_ **MAEGE MORMONT -> SYMON** · _zamyka:_ znak sternikow: zatoka otwarta **⚠ ZAMKNIETE 300-05-03 (RZUT 86): ZNAK PRZYSZEDL - KRUK Z WYSPY NIEDZWIEDZIEJ (REKA MAESTERA, SLOWA MAEGE): ZATOKA PUSZCZA; WODA OD WYSPY DO CYPLA WOLNA OD ~05-01; PRZY MROZNYM BRZEGU KRA PRZYBRZEZNA PEKA, STERNICY: WOLNE ~05-10/12. LODZIE I ZALOGI GOTOWE NA SLOWO KROLA.**
 - **300-04-02** — PRZEDSTAWICIEL DOMU TALLY W REACH - rozkaz pana 300-04-02: najpierw ludzie, potem towar. OBSADA: HAL (od 300-01-26 obsadza filie sam). DROGA: statkiem Kompanii z Bialego Portu na poludnie (NIE krukiem przez Starmiasto - kanal znany Cytadeli). JAWNIE, pod znakiem Domu - nie 'cichy kantor', o ktory Olenna juz odpowiedziala. Siedziba: Hal wskaze miejsce (Highgarden to zamek, nie miasto). ### 300-04-02: IDZIE Z LISTA PROPOZYCJI (rozkaz pana): (a) TOWARY POLNOCY - drewno okretowe, futra i skory fok, smola, sol z warzelni Domu (liste sklada Hal); (b) ATELIER TALLY - bizuteria (bursztyn, gagat, srebro, stal woronowana: Marro, Torghen), welin i atrament (Wat), tkaniny i ubrania Polnocy (Mira). Atelier jest W DOMU od wniesienia Miry (299-11-29; warunek - wykup styczniowego papieru - spelniony wykupem 340). Pozycje Atelier ida na liste od razu; liste sklada Hal z Marrem. · _kto:_ **HAL -> czlowiek Domu** · _zamyka:_ przedstawiciel na miejscu i pierwszy meldunek **⚠ OTWARTE - ROZKAZ IDZIE KRUKIEM DO HALA**
 - **300-04-02** — LIST DO MIRY - ATELIER TALLY NA LISTE DLA REACH (Olenna Tyrell). Symon pyta, czy i co z Atelier (bizuteria Marra i Torghena, welin Wata, jej tkaniny i ubrania) ma pojsc na liste propozycji przedstawiciela Domu w Reach. Atelier jest jej - decyduje ona. · _kto:_ **SYMON -> MIRA** · _zamyka:_ slowo Miry: co z Atelier idzie na liste **⚠ VOID 300-04-02 - NA WSKAZANIE PANA: ATELIER JEST W DOMU (WNIESIONE 299-11-29, WYCENA 520, UDZIAL MIRY ~1/6); ZGODA MIRY NA LISTE NIE JEST POTRZEBNA. KRUK NIE POSZEDL.**
 - **300-04-04** — EGZAMINATOR Z FOSY (HALLA OD TABLIC, wylosowana 04-08) W WINTERFELL NA PIERWSZE PROBY SZCZEBLA (polowa V/300). Wyjazd z Fosy najpozniej ~05-08. · _kto:_ **wylosowany nauczyciel Fosy -> LUWIN** · _zamyka:_ egzaminator na miejscu, proby odebrane
@@ -562,7 +558,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-05-03 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 98 · Sytosc 92 · Zmeczenie 46**
+- **Zdrowie 98 · Sytosc 100 · Zmeczenie 46**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1214,7 +1210,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `sukcesja_blizniakow_po_walderze` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-03] `ROSLIN`: 300-05-03 RANEK, WINTERFELL - SEN RZUT 64: noc dobra; zdrowie 97->98, zmeczenie 61->22, sytosc 100->72. POGODA RZUT 17: rano jasno, OD POLUDNIA ZIMNY DESZCZ Z POLNOCY; JEDNA KONSEKWENCJA: Gr…
 - [300-05-03] `dziennik`: 300-05-03 ⚠ VOID (zasada 3) NA PYTANIE GRACZA 'kolyska czy cos innego?': GM wymyslil 'kolyske z czarnej olchy z bursztynem Marra' - BEZ POKRYCIA. ZAPIS (zbiorczy Garricka 300-04-21): PREZENT…
 - [300-05-03] `poprawki`: 300-05-03 ⚠ VOID (zasada 3) NA PYTANIE GRACZA 'kolyska czy cos innego?': GM wymyslil 'kolyske z czarnej olchy z bursztynem Marra' - BEZ POKRYCIA. ZAPIS (zbiorczy Garricka 300-04-21): PREZENT…
 - [300-05-03] `dziennik`: 300-05-03 SNIADANIE, WIELKA SALA - jasno, chlodno; na polnocy ciemne chmury. Owsianka, jajka, chleb, piwo. Posla niec z Fosy wchodzi z zawiniatkiem: WILK Z CZARNEGO DEBU z torfowiska (dar Fo…
@@ -1226,3 +1221,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-03] `dziennik`: 300-05-03 PRZED POLUDNIEM, STAJNIA I DZIEDZINIEC - TRZECIA PRZYMIARKA SIODLA BRANA, SYMON OBECNY (prosba Brana). Niebo od poludnia ciemnieje. Rymarz, Hodor, Lato, klacz siwa. RZUT 45 przy pr…
 - [300-05-03] `dziennik`: 300-05-03 PRZED POLUDNIEM (cd.) - SYMON DO BRANA: 'Wygladales normalnie.' Bez rzutu. Bran - to jest slowo, ktorego chcial (nie 'dzielnie', nie 'dobrze'). Usmiecha sie pierwszy raz od rana, m…
 - [300-05-03] `dziennik`: 300-05-03 POLUDNIE, ZBROJOWNIA (deszcz z polnocy bije w dach) - TRENING U MISTRZA Z BRAAVOS. Bez rzutu (wlasny czlowiek Korony; walka 7). Mistrz ustawia dwa stojaki na wlocznie jako 'drugieg…
+- [300-05-03] `dziennik`: 300-05-03 OBIAD, WIELKA SALA - zimny deszcz z polnocy, okiennice zamkniete, swiece w dzien. Zupa z soczewicy z boczkiem, pieczona wieprzowina, chleb, piwo. BRAN przy stole z udem w bandazu o…

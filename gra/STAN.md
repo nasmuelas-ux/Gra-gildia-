@@ -327,7 +327,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-13** — MLYN W SLUZIE STOI - Kessel czeka na kamien mlynski. Skad kamien i kiedy. · _kto:_ **WEYLIN + KESSEL** · _zamyka:_ kamien mlynski wskazany z data **⚠ OTWARTE - 300-04-21 ROZSTRZYGNIETE: KAMIEN Z LOMU GORACEGO PORTU (HARLON WYCINA, TORGIL WIEZIE); GOTOWE ~05-15.**
 - **300-04-14** — OBWIESZCZENIE NARODZIN DZIEDZICA DO WSZYSTKICH DOMOW POLNOCY - jedno pismo, ten sam tekst (syn zdrowy; krolowa zyje; imie). Tekst: Symon; podpis: Krol rano; reka kancelarii (Tobin Szala). Wychodzi z imieniem, po slowie krolowej. · _kto:_ **SYMON (tekst) -> KROL (podpis) -> kancelaria** · _zamyka:_ ptaki wyslane rano 04-15 **⚠ ZAMKNIETE 300-04-15: IMIE EDDARD; PTAKI WYSZLY RANO DO WSZYSTKICH DOMOW**
 - **300-04-14** — KROL MOWI BRANOWI, ZE NIE JEST JUZ DZIEDZICEM - dzis, osobiscie, zanim uslyszy od krukow. · _kto:_ **KROL -> BRAN** · _zamyka:_ Bran wie od brata **⚠ ZAMKNIETE 300-04-14: KROL POWIEDZIAL SAM, PRZED KRUKAMI**
-- **300-04-14** — PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z ksiegi, kiedy gotowe. Kasa 1. ### 05-03 (13; VOID kolyski): WILK Z CZARNEGO DEBU dojechal 05-03; PLASZCZYK Z FUTRA ~05-08 (kusnierz czekal na futro) - przed uczta. · _kto:_ **SYMON -> GARRICK (Fosa)** · _zamyka:_ propozycja Garricka z kosztem i data; potem wysylka traktem **⚠ OTWARTE - 300-04-21: WILK Z CZARNEGO DEBU + PLASZCZYK Z FUTRA; GOTOWE ~04-28, TRAKT ~05-03.**
+- **300-04-14** — PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z ksiegi, kiedy gotowe. Kasa 1. ### 05-03 (13; VOID kolyski): WILK Z CZARNEGO DEBU dojechal 05-03; PLASZCZYK Z FUTRA ~05-08 (kusnierz czekal na futro) - przed uczta. ### 05-03: WRECZA SYMON, przed uczta, gdy dojdzie plaszczyk. · _kto:_ **SYMON -> GARRICK (Fosa)** · _zamyka:_ propozycja Garricka z kosztem i data; potem wysylka traktem **⚠ OTWARTE - 300-04-21: WILK Z CZARNEGO DEBU + PLASZCZYK Z FUTRA; GOTOWE ~04-28, TRAKT ~05-03.**
 - **300-04-15** — MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. · _kto:_ **MAEGE MORMONT** · _zamyka:_ ogien Wyspy zapalony, pierwszy meldunek
 - **300-04-15** — KROLOWA - TRZY DNI POD STRAZA LUWINA (goraczka?). Rzut przy 04-17. · _kto:_ **LUWIN** · _zamyka:_ trzecia noc bez goraczki albo goraczka **⚠ ZAMKNIETE 300-04-17: TRZY NOCE BEZ GORACZKI (37); NAJGORSZE MINELO**
 - **300-04-15** — OSRIC - pytanie do wracajacego poslanca zza Muru: mlody czarny brat z bialym wilkiem wsrod ludzi Mance'a? Tylko wiedza, bez imion na pismie. · _kto:_ **SYMON -> OSRIC (Czarny Zamek)** · _zamyka:_ odpowiedz Osrica (po powrocie poslanca albo 'nie wrocil') **⚠ ZAMKNIETE 300-04-21 - POSLANIEC NIE WROCIL (RZUT 15); PYTANIA NIE BYLO KOMU ZADAC.**
@@ -565,7 +565,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-05-03 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 98 · Sytosc 92 · Zmeczenie 23**
+- **Zdrowie 98 · Sytosc 92 · Zmeczenie 27**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1027,7 +1027,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 - **300-04-13** — PISMO SYMONA DO EDMURE'A - kto dzis trzyma Harrenhal (z imienia). Krok 1 do sprawy Gendry'ego (prosba Aryi: czy zyje i gdzie jest; bez wyciagania, bez jej imienia; oslona: Fosa szuka kowali).
 - **300-04-14** — OBWIESZCZENIE NARODZIN DZIEDZICA DO WSZYSTKICH DOMOW POLNOCY - jedno pismo, ten sam tekst (syn zdrowy; krolowa zyje; imie). Tekst: Symon; podpis: Krol rano; reka kancelarii (Tobin Szala). Wychodzi z imieniem, po slowie krolowej.
 - **300-04-14** — KROL MOWI BRANOWI, ZE NIE JEST JUZ DZIEDZICEM - dzis, osobiscie, zanim uslyszy od krukow.
-- **300-04-14** — PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z ksiegi, kiedy gotowe. Kasa 1. ### 05-03 (13; VOID kolyski): WILK Z CZARNEGO DEBU dojechal 05-03; PLASZCZYK Z FUTRA ~05-08 (kusnierz czekal na futro) - przed uczta.
+- **300-04-14** — PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z ksiegi, kiedy gotowe. Kasa 1. ### 05-03 (13; VOID kolyski): WILK Z CZARNEGO DEBU dojechal 05-03; PLASZCZYK Z FUTRA ~05-08 (kusnierz czekal na futro) - przed uczta. ### 05-03: WRECZA SYMON, przed uczta, gdy dojdzie plaszczyk.
 - **300-04-15** — MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok.
 - **300-04-15** — KROLOWA - TRZY DNI POD STRAZA LUWINA (goraczka?). Rzut przy 04-17.
 - **300-04-15** — OSRIC - pytanie do wracajacego poslanca zza Muru: mlody czarny brat z bialym wilkiem wsrod ludzi Mance'a? Tylko wiedza, bez imion na pismie.
@@ -1217,8 +1217,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `sukcesja_blizniakow_po_walderze` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-02] `GAWEN`: 300-05-02 WIECZOR (cd.) - SYMON: UZBROJENIE REKRUTOW I GARNIZONU - WLOCZNIA I MIECZ (nie topor) przy lzejszym komplecie. REZERWA - do rozwiniecia i zaplanowania, gdy wroci OSRIC (~05-22). Be…
-- [300-05-02] `stala_armia_1000_299_08`: 300-05-02 WIECZOR (cd.) - SYMON: UZBROJENIE REKRUTOW I GARNIZONU - WLOCZNIA I MIECZ (nie topor) przy lzejszym komplecie. REZERWA - do rozwiniecia i zaplanowania, gdy wroci OSRIC (~05-22). Be…
 - [300-05-02] `dziennik`: 300-05-02 NOC - KONIEC DNIA. CO ZAMKNAL: Grim i wozy z welna wyruszyli; plan Theona (96) - zatwierdzony w calosci; Hal - wydawnictwo; wezwanie rzemieslnikow i skup wywieszone; zaproszenia - …
 - [300-05-03] `dziennik`: 300-05-03 RANEK, WINTERFELL - SEN RZUT 64: noc dobra; zdrowie 97->98, zmeczenie 61->22, sytosc 100->72. POGODA RZUT 17: rano jasno, OD POLUDNIA ZIMNY DESZCZ Z POLNOCY; JEDNA KONSEKWENCJA: Gr…
 - [300-05-03] `corwin_lodowy`: 300-05-03 RANEK, WINTERFELL - SEN RZUT 64: noc dobra; zdrowie 97->98, zmeczenie 61->22, sytosc 100->72. POGODA RZUT 17: rano jasno, OD POLUDNIA ZIMNY DESZCZ Z POLNOCY; JEDNA KONSEKWENCJA: Gr…
@@ -1229,3 +1227,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-03] `ROSLIN`: 300-05-03 SNIADANIE, WIELKA SALA - jasno, chlodno; na polnocy ciemne chmury. Owsianka, jajka, chleb, piwo. Posla niec z Fosy wchodzi z zawiniatkiem: WILK Z CZARNEGO DEBU z torfowiska (dar Fo…
 - [300-05-03] `dziennik`: 300-05-03 ⚠ VOID (zasada 31) NA WSKAZANIE GRACZA 'Stop, to ja to wreczam': GM kazal poslancowi rozwinac dar przed Krolem, Krolowi obracac wilka, Rickonowi go trzymac i Krolowi odeslac go do …
 - [300-05-03] `poprawki`: 300-05-03 ⚠ VOID (zasada 31) NA WSKAZANIE GRACZA 'Stop, to ja to wreczam': GM kazal poslancowi rozwinac dar przed Krolem, Krolowi obracac wilka, Rickonowi go trzymac i Krolowi odeslac go do …
+- [300-05-03] `dziennik`: 300-05-03 SNIADANIE (cd.) - SYMON: dar Fosy (wilk z czarnego debu + plaszczyk) wreczy SAM, PRZED UCZTA, gdy dojdzie reszta (plaszczyk ~05-08). Zawiniatko u Symona.
+- [300-05-03] `dziennik`: 300-05-03 PRZEDPOLUDNIE, DZIEDZINIEC LUCZNICZY - LUK Z ARYA. Jasno, chlodny wiatr z polnocy, od poludnia idzie deszcz. Luk z przepleciona cieciwa (wczoraj 2/5, krzywa cieciwa). RZUT 74 przy …

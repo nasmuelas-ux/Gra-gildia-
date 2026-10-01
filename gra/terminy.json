@@ -5005,6 +5005,15 @@
    "wraca": "300-05-10",
    "zamyka": "Karstark wie",
    "status": "ZAMKNIETE 300-05-10 - powiedziane przy sniadaniu (72): Karstark przyjal dobrze - 'Dotrzymaliscie. Nie jest zle.' Przysiega Symona (probowac odzyskac) - otwarta."
+  },
+  {
+   "data": "300-05-10",
+   "co": "BANK POLNOCY - ODROCZONY DO ROKU WILKA (V/301). Odpowiedz Symona: gwarant - mennica i Skarb; bank pod kontrola Rady. WARUNKI WYMANA na maj 301: (1) TRZY KLUCZE - Korona, Manderly, jeden dom wybierany przez Rade na rok; (2) ksiega banku otwarta dla rewizji Rady co kwartal; (3) zadnej pozyczki dla Korony ponad monete w skrzyni Skarbu; (4) 'gwarant nie moze byc dluznikiem'. Warunek wstepny: Wilk po nominale przez zime.",
+   "kto": "KROL + SYMON + WYMAN (+ GAWEN)",
+   "kanal": "Winterfell / Bialy Port",
+   "wraca": "301-05-01",
+   "zamyka": "karta banku z kluczami albo odmowa",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

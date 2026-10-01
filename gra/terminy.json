@@ -5158,6 +5158,15 @@
    "wraca": "300-08-06",
    "zamyka": "odpowiedz Oberyna (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-11",
+   "co": "KAMIEN Z PALCA FLINTA DLA FOSY (granit) + TRAN I SKORY FOK NA TARG W CAILIN - zgoda w zasadzie (Flint z Palca, 71). Droga: lodzie Flinta przez Zatoke Plonacej Wody do ujscia Goraczki (Goracy Port) -> barki Fosy w gore Goraczki do Cailin. Zaplata po cenie ze slupa, czesc w SOLI i ZBOZU. Warunek Flinta: ktos z Fosy (Orbelo / Vard Kilof?) przyjezdza na Palec obejrzec lom i powiedziec, jakie bloki. Ilosci i ceny - po obejrzeniu i ze slupa (zasada 43).",
+   "kto": "SYMON -> GARRICK / ORBELO + FLINT Z PALCA",
+   "kanal": "kruk Winterfell-Fosa + jezdziec/lodz na Palec",
+   "wraca": "300-06-10",
+   "zamyka": "lom obejrzany, pierwszy transport kamienia",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

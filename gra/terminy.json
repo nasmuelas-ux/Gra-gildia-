@@ -4531,7 +4531,7 @@
   },
   {
    "data": "300-04-27",
-   "co": "WEZWANIE RZEMIESLNIKOW DO ZIMOWEGO MIASTA - pismo (kancelaria Berona) na slupy: Zimowe Miasto, Fosa, Bialy Port, Barrowton; zawody z listy Gawena; wolnosc bez cechu, ulga Korony, oplaty miejskie wg uchwaly lawy; KORONA PIERWSZYM KUPCEM (zbrojownia). Farbiarze i folusznik - przez Neste z Braavos. ### +04-27: FORMA - LISTA JAKO OFERTA ('przyjmuje w tym miesiacu: ... do N'), LIMIT z karty zywnosciowej co 10 dni; ponad limit - kartka (fach, data, dokad) do Barrowton / Bialego Portu.",
+   "co": "WEZWANIE RZEMIESLNIKOW DO ZIMOWEGO MIASTA - pismo (kancelaria Berona) na slupy: Zimowe Miasto, Fosa, Bialy Port, Barrowton; zawody z listy Gawena; wolnosc bez cechu, ulga Korony, oplaty miejskie wg uchwaly lawy; KORONA PIERWSZYM KUPCEM (zbrojownia). Farbiarze i folusznik - przez Neste z Braavos. ### +04-27: FORMA - LISTA JAKO OFERTA ('przyjmuje w tym miesiacu: ... do N'), LIMIT z karty zywnosciowej co 10 dni; ponad limit - kartka (fach, data, dokad) do Barrowton / Bialego Portu. ### +04-29: KOWALE I PLATNERZE NA PIERWSZYM MIEJSCU LISTY (kolczuga waskim gardlem).",
    "kto": "SYMON + BERON (kancelaria)",
    "kanal": "slupy + kruki (po uchwale lawy)",
    "wraca": "300-05-02",
@@ -4563,7 +4563,7 @@
    "kanal": "w zamku",
    "wraca": "300-04-29",
    "zamyka": "tempo (ile kompletow na rok) i budzet - na pismie",
-   "status": "otwarte"
+   "status": "zrobione 300-04-29 (rzut 7): cel - pelny jednolity komplet dla 1500; LZEJSZY KOMPLET dla wszystkich od razu; KOLCZUGI tyle, ile kowale zrobia, max 1/3 monety Korony rocznie; najpierw trzon"
   },
   {
    "data": "300-04-28",
@@ -4626,6 +4626,15 @@
    "kanal": "w zamku",
    "wraca": "300-05-05",
    "zamyka": "decyzja: budowniczy + budzet + data startu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-29",
+   "co": "ZAMOWIENIE KORONY - LZEJSZY KOMPLET x1500 (przeszywanica, polhelm, plaszcz, wlocznia, tarcza) u rzemieslnikow Zimowego Miasta po cenie ze slupa + kolczugi w tempie kowali (max 1/3 monety Korony/rok). Pierwsze zamowienie po uchwale lawy i wywieszeniu wezwania.",
+   "kto": "GAWEN + RODRIK",
+   "kanal": "slup Zimowego Miasta",
+   "wraca": "300-05-10",
+   "zamyka": "pierwsze zamowienie zlozone u rzemieslnikow, z ksiega",
    "status": "otwarte"
   }
  ],

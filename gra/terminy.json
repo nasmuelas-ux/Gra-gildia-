@@ -5167,6 +5167,15 @@
    "wraca": "300-06-10",
    "zamyka": "lom obejrzany, pierwszy transport kamienia",
    "status": "otwarte - 05-11: POLECENIE DO FOSY (Garrick wybiera czlowieka i decyduje) - kruk 05-12; czlowiek na Palcu ~05-20/22; Flint w domu ~05-18."
+  },
+  {
+   "data": "300-05-11",
+   "co": "BRAN ROZMAWIA Z OSHA - za zgoda Symona: w dzien, PRZY HODORZE; pytania o WARGOW i SPIEWAKOW. Sen o spadaniu - tajemnica Brana (nie mowi). Osha: 'nie powiem mu nic, czego nie wiem'.",
+   "kto": "BRAN + OSHA (Hodor)",
+   "kanal": "Winterfell",
+   "wraca": "300-05-12",
+   "zamyka": "rozmowa odbyta (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

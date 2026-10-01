@@ -5022,7 +5022,7 @@
    "kanal": "Reed (Fosa/grobla) + Nesta (Dorne)",
    "wraca": "300-06-01",
    "zamyka": "kosci w Barrowton",
-   "status": "otwarte - 05-11: KROK 1 WYKONANY - list do Reeda (miejsce kopca) - kruk do Fosy 05-12 + grobla; odpowiedz ~06-05 albo przez Jojena/Meere. Krok 2 (list do Dorana przez Neste) - do wykonania."
+   "status": "otwarte - 05-11: KROK 1 (Reed - miejsce) WYKONANY; KROK 2 (Oberyn przez Neste - pomoc w Dorne) WYKONANY; odpowiedz Oberyna ~VIII. Krok 3 - kto jedzie i droga - po odpowiedziach."
   },
   {
    "data": "300-05-10",
@@ -5148,6 +5148,15 @@
    "kanal": "kruk Winterfell-Fosa (05-12) + poslaniec przy grobli",
    "wraca": "300-06-05",
    "zamyka": "Reed wskazuje miejsce (albo przez Jojena/Meere)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-11",
+   "co": "LIST DO OBERYNA MARTELLA (przez Neste): pomoc w odnalezieniu kosci poleglych przy Wiezy Radosci (Willam Dustin i ludzie Eddarda); 'Eddard byl przeciwny temu, co stalo sie z Elia'; osobiste zaproszenie Symona dla ksiecia na Polnoc.",
+   "kto": "SYMON -> OBERYN (przez NESTE)",
+   "kanal": "Winterfell-Bialy Port-Braavos-Sloneczna Wlocznia (~43 dni)",
+   "wraca": "300-08-06",
+   "zamyka": "odpowiedz Oberyna (rzut)",
    "status": "otwarte"
   }
  ],

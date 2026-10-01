@@ -4320,7 +4320,7 @@
    "kanal": "kruk Winterfell-Riverrun (04-25)",
    "wraca": "300-05-06",
    "zamyka": "odpowiedz matki do Brana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-06 - odpowiedz CATELYN do Brana (rodzina, bez rzutu) przyszla ptakiem z Riverrun; list do rak Brana - tresc jego."
   },
   {
    "data": "300-04-24",
@@ -4644,7 +4644,7 @@
    "kanal": "kruk Winterfell-Dreadfort (04-30)",
    "wraca": "300-05-06",
    "zamyka": "odpowiedz Roose: czy przyjedzie na ucztę (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-06 (rzut 42, prog 50): NIE W TEJ FORMIE - Roose PRZYJEDZIE, ale SAM (lady Walda zostaje w Dreadfort - 'nie podrozuje w jej stanie') i NA JEDNA NOC: przybywa 10-go po poludniu, wyjezdza 11-go o swicie. O 'formalnosci': 'pismo podpisze przy stole; rozmowe - rano, przed wyjazdem, jesli Jego Milosc wstaje wczesnie'. Okno rozmowy o Boltonsgate: 11-go o swicie."
   },
   {
    "data": "300-04-29",
@@ -4806,7 +4806,7 @@
    "kanal": "kruki",
    "wraca": "300-05-06",
    "zamyka": "lista gosci pelna",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-06 (rzut 18, prog 45): JEDNA KONSEKWENCJA - LOCKE NIE PRZYJEDZIE: spor o pale z Wdowia Straznica (do Justycjariusza od 04-02) nierozstrzygniety - 'nie usiade przy jednym stole z lady Lyessa, poki sprawa wisi'; przysyla zyczenia dla Krola i dziedzica i podarek (skora foki). PRZYJADA: RYSWELL (lord Rodrik z synem), FLINT Z PALCA, lady DONELLA HORNWOOD (sama; Larence ~05-18). Bolton - osobna pozycja (sam, jedna noc). Freyowie - 05-03."
   },
   {
    "data": "300-05-02",
@@ -4933,6 +4933,24 @@
    "wraca": "300-05-09",
    "zamyka": "rozmowa odbyta",
    "status": "ZAMKNIETE 300-05-05 - rozmowa w starej kuchni: umarli (21), skad jest (42), spiewacy (73), wloczniczka (53), jezyki, osiadanie, przysiega, Thennowie. Osha zgodzi sie mowic z Branem - jesli on zechce, w dzien, przy kims."
+  },
+  {
+   "data": "300-05-06",
+   "co": "ROOSE BOLTON - ROZMOWA O BOLTONSGATE (miasto panskie + prawo skladu za obie przystanie; regalia przy Boltonie, straz przy miescie). Roose na jedna noc: 10-go po poludniu - 11-go swit; pismo o przystaniach podpisze przy stole, rozmowa 11-go rano przed wyjazdem.",
+   "kto": "KROL + SYMON + ROOSE",
+   "kanal": "Winterfell, uczta",
+   "wraca": "300-05-11",
+   "zamyka": "rozmowa odbyta: tak / nie / warunek",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-06",
+   "co": "LOCKE - nie przyjedzie na ucztę: spor o pale z Wdowia Straznica (Justycjariusz, mediacja od 04-02) nierozstrzygniety. Podarek: skora foki. Do rozstrzygniecia: sprawa pali u Cerwyna (Justycjariusz) - przyspieszyc?",
+   "kto": "LOCKE / CERWYN (Justycjariusz)",
+   "kanal": "kruk Winterfell-Stary Zamek",
+   "wraca": "300-05-20",
+   "zamyka": "spor pali orzeczony albo zalagodzony",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

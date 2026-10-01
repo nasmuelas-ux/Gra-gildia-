@@ -4861,6 +4861,15 @@
    "wraca": "300-05-24",
    "zamyka": "plan rezerwy na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-03",
+   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10).",
+   "kto": "SYMON + KROL",
+   "kanal": "rozmowa w Winterfell; lordowie na uczcie 05-10",
+   "wraca": "300-05-10",
+   "zamyka": "nazwisko posla, sklad orszaku, data wyjscia",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

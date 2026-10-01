@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 5,
-  "dzien": 10,
+  "dzien": 11,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 87 (300-05-10) - PIEKNY DZIEN: slonce od switu, cieplo, bez wiatru; gaj suchy po deszczach, liscie czardrzewa czerwone w sloncu.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 29 (300-05-11) - szaro, mgla i mzawka o swicie, rozwiewa sie przed poludniem; JEDNA KONSEKWENCJA: zawody lucznicze dopiero po poludniu (mgla nad dziedzincem).",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 990,
+ "_dziennik_nota": 992,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

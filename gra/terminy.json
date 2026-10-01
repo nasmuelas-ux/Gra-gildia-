@@ -4752,7 +4752,7 @@
    "kanal": "kruk Winterfell-Riverrun (wieczor 04-30)",
    "wraca": "300-05-11",
    "zamyka": "odpowiedz Edmure'a (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-11 (rzut 69): EDMURE (reka maestera Riverrun): ser Robin Ryger da z Harrenhalu DWOCH DYMARZY i JEDNEGO GORNIKA na umowie Korony Polnocy (rok, zold Korony, przewoz Kompania); wyjada po ratyfikacji (~VII). KOWALE KUZNI HARRENHALU (lista, piec imion): wsrod nich 'GENDRY, czeladnik, ok. 17 lat, czarne wlosy, silny - zostal przy kuzni po odejsciu Lannisterow, pracuje dla ser Robina'. ZYJE. (Dla Aryi - tylko wiedza; obietnica: nie wyciagac, nie wspominac jej.)"
   },
   {
    "data": "300-04-30",
@@ -4864,7 +4864,7 @@
   },
   {
    "data": "300-05-03",
-   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10). ### 05-03: POSEL PYTA O JONA USTNIE (obietnica Symona dla Brana; zadnego imienia na papierze - zakaz Krola 299-09-14). Od Brana, jesli go zobaczy: 'Lato spi w gaju'. ### 05-05 OSHA (dzika w kuchni Winterfell): droga - Mleczna Woda pod Mroznymi Klami (stan sprzed 2 lat; teraz blizej, na poludnie); jak podejsc - bez choragwi i papieru, sol/zelazo/igly, najpierw wlocznice i starsi, nie klamac o liczbie (83). ZA MUR NIE POJDZIE (11); DO MURU TAK - wybierze sposrod trzech dzikich przewodnika; nauczy posla slow i znakow; warunek: jej imienia na zadnej liscie. ### 05-05: OSHA JEDZIE Z POSELSTWEM DO MURU PO UCZCIE (bez imienia na liscie). Dostala noz (Krol/kasztelan). ### 05-07 ⚑ POSEL: DACEY MORMONT (decyzja Symona przy Krolu). ESKORTA DO MURU: WIELKI JON UMBER ('do Muru i ani kroku dalej' - powie mu Krol). Zgoda lady Maege - Krol prosi ja sam na uczcie, w cztery oczy. Do znalezienia na uczcie: ktos ze stara mowa (Flint z Palca? klany). ### 05-10 UMBER (49): eskorta do Muru PRZYJETA - 'ani kroku dalej, daje slowo'; i drugie slowo: jesli Dacey nie wroci w terminie - idzie po nia (Krol przyjmuje). ### 05-10 MAEGE (57): ZGODA. Warunki matki: (1) z Dacey dwoje ludzi z Wyspy (wloczniczka + znawca lodu), w orszaku; (2) Dacey SAMA decyduje na miejscu, kiedy zawrocic. DACEY: 'Pojde.' Pyta o wyjazd i slowa. ### 05-10 SLOWA POSLA (Symon + poprawka Krola, rzut 31): (1) Cypel - ziemia z nadania Krola; (2) BEZ KLEKANIA - wlasne zwyczaje i starsi, liczeni bez imion; (3) PRZYSIEGA przy drzewie serca, kazde ognisko przez starszego; (4) przy Innych z Polnoca; (5) bez najazdow - kradziez/najazd i kto karze ustalone z gory. 'Bez klekania nie znaczy bez przysiegi i nie znaczy krolestwa w krolestwie' (Krol). WYJAZD: po uczcie. ### 05-10: (6) KTO NIE PRZYSIEGNIE, NIE SIADA NA CYPLU - takze ognisko Mance'a (Symon; Krol: 'rowno dla wszystkich'). ### 05-10 STARA MOWA (27): nikt przy stole; Flint z Palca - stary Wull i ludzie Norreyow przy Murze ja znaja - tlumacza wziac PO DRODZE od klanow (zboczenie z traktu albo przez Osrica/Hallisa).",
+   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10). ### 05-03: POSEL PYTA O JONA USTNIE (obietnica Symona dla Brana; zadnego imienia na papierze - zakaz Krola 299-09-14). Od Brana, jesli go zobaczy: 'Lato spi w gaju'. ### 05-05 OSHA (dzika w kuchni Winterfell): droga - Mleczna Woda pod Mroznymi Klami (stan sprzed 2 lat; teraz blizej, na poludnie); jak podejsc - bez choragwi i papieru, sol/zelazo/igly, najpierw wlocznice i starsi, nie klamac o liczbie (83). ZA MUR NIE POJDZIE (11); DO MURU TAK - wybierze sposrod trzech dzikich przewodnika; nauczy posla slow i znakow; warunek: jej imienia na zadnej liscie. ### 05-05: OSHA JEDZIE Z POSELSTWEM DO MURU PO UCZCIE (bez imienia na liscie). Dostala noz (Krol/kasztelan). ### 05-07 ⚑ POSEL: DACEY MORMONT (decyzja Symona przy Krolu). ESKORTA DO MURU: WIELKI JON UMBER ('do Muru i ani kroku dalej' - powie mu Krol). Zgoda lady Maege - Krol prosi ja sam na uczcie, w cztery oczy. Do znalezienia na uczcie: ktos ze stara mowa (Flint z Palca? klany). ### 05-10 UMBER (49): eskorta do Muru PRZYJETA - 'ani kroku dalej, daje slowo'; i drugie slowo: jesli Dacey nie wroci w terminie - idzie po nia (Krol przyjmuje). ### 05-10 MAEGE (57): ZGODA. Warunki matki: (1) z Dacey dwoje ludzi z Wyspy (wloczniczka + znawca lodu), w orszaku; (2) Dacey SAMA decyduje na miejscu, kiedy zawrocic. DACEY: 'Pojde.' Pyta o wyjazd i slowa. ### 05-10 SLOWA POSLA (Symon + poprawka Krola, rzut 31): (1) Cypel - ziemia z nadania Krola; (2) BEZ KLEKANIA - wlasne zwyczaje i starsi, liczeni bez imion; (3) PRZYSIEGA przy drzewie serca, kazde ognisko przez starszego; (4) przy Innych z Polnoca; (5) bez najazdow - kradziez/najazd i kto karze ustalone z gory. 'Bez klekania nie znaczy bez przysiegi i nie znaczy krolestwa w krolestwie' (Krol). WYJAZD: po uczcie. ### 05-10: (6) KTO NIE PRZYSIEGNIE, NIE SIADA NA CYPLU - takze ognisko Mance'a (Symon; Krol: 'rowno dla wszystkich'). ### 05-10 STARA MOWA (27): nikt przy stole; Flint z Palca - stary Wull i ludzie Norreyow przy Murze ja znaja - tlumacza wziac PO DRODZE od klanow (zboczenie z traktu albo przez Osrica/Hallisa). ### 05-11 OSRIC (85): PRZEWODNIK JEST - starszy z dwoch dzikich przy Murze, zna STARA MOWE (problem tlumacza rozwiazany); warunek - jego rodzina na wolniznie od dnia wyjscia; trasa: Nawiedzony Las -> Mleczna Woda, dolny bieg, 2-3 tygodnie od Muru.",
    "kto": "SYMON + KROL",
    "kanal": "rozmowa w Winterfell; lordowie na uczcie 05-10",
    "wraca": "300-05-10",
@@ -4887,7 +4887,7 @@
    "kanal": "kruk Winterfell-Czarny Zamek (wylot 05-04 w poludnie, pogoda 31); na Murze ~05-07",
    "wraca": "300-05-11",
    "zamyka": "meldunek: jest przewodnik / trasa / czego trzej sie boja",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-11 (Osric, rzut 85; Hallis jeszcze w drodze): z trzech dzikich przy Murze zostalo DWOCH (trzeci - drugi posel, nie wrocil). JEDEN ZGADZA SIE PROWADZIC - starszy, imie 'o tym, o kogo pytano' (bez imion na pismie); WARUNEK: jego rodzina na wolniznie dostaje miejsce od dnia wyjscia (wzor z marca). I WIECEJ: ON ZNA STARA MOWE i troche wspolnej - 'bedzie i droga, i jezykiem'. TRASA: od Czarnego Zamku na polnocny zachod, przez Nawiedzony Las do MLECZNEJ WODY i w gore rzeki; lud Mance'a - wedlug niego - zszedl juz z Mroznych Klow w dolny bieg Mlecznej, 'dwa, trzy tygodnie piechota od Muru'. Czego sie boja: list i choragwi (jak mowila Osha)."
   },
   {
    "data": "300-05-04",
@@ -4896,7 +4896,7 @@
    "kanal": "trakt Fosa-Winterfell (6 dni)",
    "wraca": "300-05-11",
    "zamyka": "obaj w Winterfell, przydzieleni do Grima",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-11 - Hobb Rdza i Tobbas w Winterfell (wieczorem 05-10, bez rzutu - wlasni); Grim wrocil z Wilczego Lasu. Trojka razem."
   },
   {
    "data": "300-05-04",
@@ -5085,6 +5085,15 @@
    "kanal": "Winterfell",
    "wraca": "300-05-11",
    "zamyka": "data wyjazdu + spotkanie Dacey z Osha",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-11",
+   "co": "GENDRY ZYJE (Edmure 69): czeladnik kuzni Harrenhalu u ser Robina Rygera. OBIETNICA DLA ARYI: tylko wiedza - nie wyciagac, nie wspominac jej. Powiedziec Aryi.",
+   "kto": "SYMON -> ARYA",
+   "kanal": "Winterfell",
+   "wraca": "300-05-11",
+   "zamyka": "Arya wie",
    "status": "otwarte"
   }
  ],

@@ -3960,7 +3960,7 @@
    "kanal": "robota na miejscu (Winterfell)",
    "wraca": "300-05-07",
    "zamyka": "pierwsza przymiarka na Branie - co pasuje, co do poprawy",
-   "status": "otwarte - 05-05 (23): step dozwolony od dzis, klus po drugim pasie (05-06 wieczor); cwiczenia do 05-10."
+   "status": "otwarte - 05-07: proba klusa po poludniu, po ulewie (rzut zapisany)."
   },
   {
    "data": "300-04-17",
@@ -4878,7 +4878,7 @@
    "kanal": "kruk Winterfell-Wyspa Niedzwiedzia (wylot 05-04 w poludnie, pogoda 31)",
    "wraca": "300-05-07",
    "zamyka": "list doreczony (jesli Maege juz w drodze - czeka na wyspie; rozmowa na uczcie)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-07 - list doreczony na Wyspe Niedzwiedzia (ptak 05-04 w poludnie, 3 dni); Maege i tak w drodze na ucztę lodziami do BP - dalsze ustalenia przy stole."
   },
   {
    "data": "300-05-03",
@@ -4914,7 +4914,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-05-07",
    "zamyka": "list wyslany przed wyjazdem Miry albo sprawa ustnie po jej przyjezdzie",
-   "status": "otwarte - NAPISANY 05-05 rano; ptak w poludnie (kruk Winterfell-Bialy Port), u Miry ~05-07, przed wyjazdem ~05-08. Odpowiedz - ustnie po przyjezdzie albo ptakiem przed droga."
+   "status": "ZAMKNIETE 300-05-07 - list u Miry w Bialym Porcie przed jej wyjazdem (~05-08). Odpowiedz - ustnie po przyjezdzie (~05-20)."
   },
   {
    "data": "300-05-05",
@@ -4959,6 +4959,15 @@
    "kanal": "dziedziniec Winterfell",
    "wraca": "300-05-11",
    "zamyka": "zawody odbyte (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-07",
+   "co": "BECZKI PIWA Z ZIMOWEGO MIASTA NA UCZTE - trakt rozmyty ulewa (pogoda 11): dojada 05-08 zamiast 05-07.",
+   "kto": "KASZTELAN",
+   "kanal": "woz z Zimowego Miasta",
+   "wraca": "300-05-08",
+   "zamyka": "piwo w piwnicach",
    "status": "otwarte"
   }
  ],

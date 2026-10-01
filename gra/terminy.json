@@ -3733,9 +3733,9 @@
    "co": "LANCUCH OGNI - SZEW DUSTIN OD POLUDNIA: punkt Dustinportu patrzy na ostatni ogien Barrowlandow; nowa rubryka w karcie Donnela.",
    "kto": "DONNEL OBROK (Dustinport)",
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (wylot 04-11)",
-   "wraca": "300-05-08",
+   "wraca": "300-05-14",
    "zamyka": "rubryka 'ogien Barrowlandow' w karcie 05-08",
-   "status": "otwarte"
+   "status": "otwarte - karta Donnela z rubryka pisana 05-08 w Dustinporcie; droga jezdziec + kruk ~6 dni -> Winterfell ~05-14."
   },
   {
    "data": "300-04-11",
@@ -3879,7 +3879,7 @@
    "kanal": "kruk Winterfell-Fosa (wylot 04-15) + zbiorczy 04-18",
    "wraca": "300-05-08",
    "zamyka": "propozycja Garricka z kosztem i data; potem wysylka traktem",
-   "status": "otwarte - 300-04-21: wilk z czarnego debu + plaszczyk z futra; gotowe ~04-28, trakt ~05-03."
+   "status": "DOSZLO 300-05-08 - PLASZCZYK Z FUTRA przywiozl jezdziec Garricka; WILK Z CZARNEGO DEBU + PLASZCZYK sa u Symona, zawiniete. WRECZENIE - Symon, przed uczta, kiedy i jak zechce."
   },
   {
    "data": "300-04-15",
@@ -4297,10 +4297,10 @@
   },
   {
    "data": "300-04-24",
-   "co": "AEMON CHORY - zimno w plucach; Clydas prowadzi kruki. Stan co tydzien przez Osrica/Clydasa (wybor Lorda Dowodcy, Straz bez maestra?). ### 05-01 (64): goraczka zeszla, je, lezy.",
+   "co": "AEMON CHORY - zimno w plucach; Clydas prowadzi kruki. Stan co tydzien przez Osrica/Clydasa (wybor Lorda Dowodcy, Straz bez maestra?). ### 05-01 (64): goraczka zeszla, je, lezy. ### 05-08 (22): KASZEL WROCIL - slabszy niz w IV, bez goraczki; Clydas: nie wstaje, je malo, dyktuje po kilka zdan dziennie. Nastepna wiesc ~05-15.",
    "kto": "CLYDAS / OSRIC",
    "kanal": "kruk Czarny Zamek-Winterfell",
-   "wraca": "300-05-08",
+   "wraca": "300-05-15",
    "zamyka": "wiesc o zdrowiu Aemona",
    "status": "otwarte"
   },
@@ -4716,7 +4716,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-08",
    "zamyka": "trzy stawki na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-08 - Gawen (wlasny czlowiek, bez rzutu) - TRZY STAWKI (E - szacunek Gawena z ksiegi Skarbu, do korekty przez gracza): (1) KONTRAKT UMBERA na kolumny Muru: 40-60 smokow za kolumne (~20 wozow owsa i baraniny, z przewozem), dwie kolumny na kwartal -> 80-120/kw.; (2) OBJAZD JUSTYCJARIUSZA: Cerwyn 8-12/mies. na objazd + zastepca w zamku 3-4/mies.; (3) KONTRAKT DREWNA Z DEEPWOOD dla eskadry: 30-50 za ladunek kadlubowy, 2-3 ladunki rocznie (60-150/rok). Wszystko z Kasy 3; miesza sie w dochodzie Skarbu ~616-1008/mies."
   },
   {
    "data": "300-04-30",
@@ -4968,7 +4968,7 @@
    "kanal": "woz z Zimowego Miasta",
    "wraca": "300-05-08",
    "zamyka": "piwo w piwnicach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-08 - piwo w piwnicach."
   }
  ],
  "_dopiski_300_03_18": [

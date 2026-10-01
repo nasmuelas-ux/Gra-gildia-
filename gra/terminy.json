@@ -4392,7 +4392,7 @@
    "kanal": "rozmowa w Winterfell (uczta)",
    "wraca": "300-05-10",
    "zamyka": "uklad o poborze myta w BP",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-10 - w cztery oczy: komora liczy, myto do reki Manderlych (doktryna 04-30); Wyman: 'Liczcie. Ja biore swoje.'"
   },
   {
    "data": "300-04-26",
@@ -4671,7 +4671,7 @@
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
    "zamyka": "nadanie ogloszone; reakcja Wymana na bank (rzut przy stole)",
-   "status": "otwarte"
+   "status": "otwarte - 05-10 w cztery oczy: WILCZA NORA przyjeta (lzy); honor wieczorem; BANK (6) - ODLOZONY: 'nie przed rokiem Wilka' (maj 301), pyta, kto gwarantuje wklady. Publicznie wieczorem: honor + Wilcza Nora; o banku - nic publicznie."
   },
   {
    "data": "300-04-29",
@@ -4680,7 +4680,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-30",
    "zamyka": "karta na pismie do reki Wymana",
-   "status": "otwarte"
+   "status": "otwarte - 05-10: Wyman odklada (6): 'nie przed rokiem Wilka' - karta 05-30 nie stanie z Manderlymi; zamiar trwa."
   },
   {
    "data": "300-04-29",

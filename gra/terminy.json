@@ -4131,7 +4131,7 @@
    "kanal": "wlasna robota; wysylka tym kanalem, ktorym przyjdzie jego list",
    "wraca": "300-04-28",
    "zamyka": "projekt na stole Krola po liscie Stannisa",
-   "status": "otwarte"
+   "status": "zrobione 300-04-28 - podpisane przez Krola, wysylka 04-29 przez Davosa"
   },
   {
    "data": "300-04-21",
@@ -4545,6 +4545,15 @@
    "kanal": "Hallis na Mur (wyjazd 04-29)",
    "wraca": "300-06-10",
    "zamyka": "list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-28",
+   "co": "ODPOWIEDZ KROLA STANNISOWI (podpisana): data przyjeta; dzieki za koniec zakupow; obsydian na Mur - przyjmie Hallis; Hallis z oddzialem na Murze - mozna sie zwracac, bez ograniczen, zwiad Polnocy, nie wrog; Mur karmiony; Korona bez glosu w wyborze Lorda Dowodcy.",
+   "kto": "KROL -> STANNIS (przez Davosa)",
+   "kanal": "kruk Winterfell-Bialy Port (04-29) + Davos",
+   "wraca": "300-05-20",
+   "zamyka": "odpowiedz Stannisa/Davosa albo cisza (cisza tez jest odpowiedzia)",
    "status": "otwarte"
   }
  ],

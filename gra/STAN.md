@@ -25,7 +25,10 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**78 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**78 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
+
+### 🟡 WRACA DZIS
+- BRAN ROZMAWIA Z OSHA - za zgoda Symona: w dzien, PRZY HODORZE; pytania o WARGOW i SPIEWAKOW. Sen o spadaniu - tajemnica Brana (nie… · _kanal:_ Winterfell
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -591,10 +594,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-05-11 ranek · zima (300)
+- **Data:** 300-05-12 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 99 · Sytosc 100 · Zmeczenie 62**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 24**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1281,8 +1284,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zobowiazania` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-11] `dziennik`: 300-05-11 OBIAD (cd.) - SYMON PYTA FLINTA: co maja na Palcu? Bez nowego rzutu (ta sama rozmowa, 71). FLINT wylicza powoli, na palcach - 'po palcu na palcu': (1) FOKI - TRAN do lamp i do skor…
-- [300-05-11] `FLINT_Z_PALCA`: 300-05-11 OBIAD (cd.) - SYMON PYTA FLINTA: co maja na Palcu? Bez nowego rzutu (ta sama rozmowa, 71). FLINT wylicza powoli, na palcach - 'po palcu na palcu': (1) FOKI - TRAN do lamp i do skor…
 - [300-05-11] `dziennik`: 300-05-11 OBIAD (cd.) - ⚑ SYMON DO FLINTA Z PALCA: zaprasza na TARG W CAILIN - tran, skory fok; i KAMIEN - Fosa szuka kamienia daleko (zapis: mlyn stoi bez kamienia 04-13; baszta Przystani W…
 - [300-05-11] `FLINT_Z_PALCA`: 300-05-11 OBIAD (cd.) - ⚑ SYMON DO FLINTA Z PALCA: zaprasza na TARG W CAILIN - tran, skory fok; i KAMIEN - Fosa szuka kamienia daleko (zapis: mlyn stoi bez kamienia 04-13; baszta Przystani W…
 - [300-05-11] `dziennik`: 300-05-11 OBIAD (cd.) - SYMON WYSYLA POLECENIE DO FOSY (Garrick; zasada 42 - pan obsadza glowe, glowa obsadza reszte): podjac decyzje i wyslac kogos na Palec Flinta obejrzec lom granitu i us…
@@ -1293,3 +1294,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-11] `OSHA`: 300-05-11 WIECZOR, STARA KUCHNIA ZA PIEKARNIA - SPOTKANIE OSHY I DACEY MORMONT; SYMON OBECNY (nie pisze - Osha go toleruje). Ogien pod starym kotlem. RZUT 9 (prog 45): JEDNA KONSEKWENCJA - Z…
 - [300-05-11] `dziennik`: 300-05-11 PozNY WIECZOR, IZBA BRANA - SYMON PYTA BRANA O OSHE. Bez rzutu. Bran w lozku przy swiecy, z kartka zawodow; Lato przy lozku. Na imie 'Osha' podnosi wzrok szybko. Pamieta: 'Ta z lan…
 - [300-05-11] `dziennik`: 300-05-11 PozNY WIECZOR (cd.) - SYMON DO BRANA: moze porozmawiac z Osha - PRZY HODORZE (odczyt 'o hodorze' = 'przy Hodorze', warunek Oshy) - i zadac jej pytania o WARGOW i SPIEWAKOW. Bez rzu…
+- [300-05-11] `dziennik`: 300-05-11 NOC - KONIEC DNIA. CO ZAMKNAL: swit z Roosem - postanowienie o wyrebie opieczetowane; BOLTONSGATE (100) z klauzula prawego loza; dwaj ludzie Boltona do Grima; Roose wyjechal; Edmur…
+- [300-05-12] `dziennik`: 300-05-12 RANEK, WINTERFELL - SEN RZUT 65: noc dobra mimo siniakow; zdrowie 99->100, zmeczenie 62->24, sytosc 100->72. POGODA RZUT 50: pochmurno, sucho, chlodny wiatr z polnocy; KRUKI POLECI…

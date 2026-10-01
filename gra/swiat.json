@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 5,
-  "dzien": 11,
+  "dzien": 12,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 29 (300-05-11) - szaro, mgla i mzawka o swicie, rozwiewa sie przed poludniem; JEDNA KONSEKWENCJA: zawody lucznicze dopiero po poludniu (mgla nad dziedzincem).",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 50 (300-05-12) - pochmurno, sucho, chlodny wiatr z polnocy; kruki leca.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 1018,
+ "_dziennik_nota": 1020,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

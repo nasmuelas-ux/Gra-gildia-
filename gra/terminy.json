@@ -4444,9 +4444,9 @@
    "co": "DWA NAZWISKA (trzecie - Mur - ZAMKNIETE 300-04-26: HALLIS MOLLEN) DLA KROLA: Wielki Zarzadca Kamiennego Brzegu, Wielki Kasztelan Kamiennego Brzegu, posel na Mur w miejsce Osrica. Mysl Krola: zapytac Torrena Solnego (stamtad), komu ludzie brzegu wierza. ### 05-02: KASZTELAN OBSADZONY - ser Corwin Lodowy (+ setnik Ulric Sekaty); zostaje WIELKI ZARZADCA (po Torrenie).",
    "kto": "SYMON -> KROL",
    "kanal": "w zamku",
-   "wraca": "300-05-10",
+   "wraca": "300-05-30",
    "zamyka": "nazwiska na stole Krola po odpowiedzi Torrena (~05-09); Kasztelan raczej z Winterfell",
-   "status": "otwarte - 05-10: Kasztelan obsadzony (Corwin, 05-02); WIELKI ZARZADCA - jedyny kandydat od Torrena: BRANN MOKRY (nie czyta - potrzebny pisarz). Decyzja Symona/Krola."
+   "status": "otwarte - 05-11: BRANN MOKRY WEZWANY do Winterfell (kruk do Deepwood + jezdziec lancucha ogni), ~05-28/30; decyzja po rozmowie z nim; pisarz przy nim - do wskazania."
   },
   {
    "data": "300-04-26",
@@ -4579,9 +4579,9 @@
    "co": "KAMIENNY BRZEG - CHECKPOINT (punkt kontrolny etapu: palisada, wieza, garnizon, rezerwy) do ustalenia blizej po odpowiedzi Torrena.",
    "kto": "SYMON -> KROL",
    "kanal": "w zamku",
-   "wraca": "300-05-10",
+   "wraca": "300-05-12",
    "zamyka": "checkpoint na pismie",
-   "status": "otwarte"
+   "status": "otwarte - 05-11: PROJEKT etapow E0-E3 (dziennik 05-11) przedlozony Symonowi do zatwierdzenia."
   },
   {
    "data": "300-04-28",
@@ -5112,6 +5112,15 @@
    "kanal": "Winterfell",
    "wraca": "300-05-11",
    "zamyka": "spotkanie odbyte",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-11",
+   "co": "BRANN MOKRY - WEZWANIE DO WINTERFELL (kandydat na Wielkiego Zarzadce Kamiennego Brzegu; nie czyta, liczy na wezlach). Kanal: kruk Winterfell-Deepwood + jezdziec lancucha ogni Robetta.",
+   "kto": "SYMON -> BRANN MOKRY",
+   "kanal": "kruk Winterfell-Deepwood (05-12) + jezdziec",
+   "wraca": "300-05-30",
+   "zamyka": "Brann w Winterfell",
    "status": "otwarte"
   }
  ],

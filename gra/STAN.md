@@ -25,10 +25,9 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**79 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
+**78 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🟡 WRACA DZIS
-- KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. P… · _kanal:_ dziedziniec Winterfell
 - DACEY POZNAJE OSHE - dzis wieczorem (najlepiej stara kuchnia za piekarnia, po kolacji, przy ogniu - miejsce Oshy). Symon uprzedza … · _kanal:_ Winterfell
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
@@ -399,7 +398,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-06** — LOCKE - nie przyjedzie na ucztę: spor o pale z Wdowia Straznica (Justycjariusz, mediacja od 04-02) nierozstrzygniety. Podarek: skora foki. Do rozstrzygniecia: sprawa pali u Cerwyna (Justycjariusz) - przyspieszyc? ### 05-08 SYMON: sadzic PO UCZCIE, bez pospiechu (zwykly tryb). Cerwyn w objezdzie po uczcie, na miejscu sporu, mediacja najpierw; pisze sam do Locke'a, ze sprawa idzie zwyklym trybem. · _kto:_ **LOCKE / CERWYN (Justycjariusz)** · _zamyka:_ spor pali orzeczony albo zalagodzony
 - **300-05-06** — ZAWODY LUCZNICZE DZIEN PO UCZCIE (05-11, po odjezdzie Roose'a): Arya, Symon i ktos od lordow ('zeby zobaczyli, ze Starkowie strzelaja'). Arya mowi Krolowi. ### 05-06: SEDZIA - BRAN, z siodla (zgoda Symona); Bran pisze zasady. · _kto:_ **ARYA + SYMON + goscie** · _zamyka:_ zawody odbyte (rzut) **⚠ ZAMKNIETE 300-05-11 - 1. ARYA (5), 2. DACEY (4,5 + DOGRYWKA), 3. SYMON (4,5), 4. MALY JON (3); SEDZIA BRAN Z SIODLA. DACEY DAJE ARYI REKAWICE NA STALE.**
 - **300-05-07** — BECZKI PIWA Z ZIMOWEGO MIASTA NA UCZTE - trakt rozmyty ulewa (pogoda 11): dojada 05-08 zamiast 05-07. · _kto:_ **KASZTELAN** · _zamyka:_ piwo w piwnicach **⚠ ZAMKNIETE 300-05-08 - PIWO W PIWNICACH.**
-- **300-05-09** — KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. Po uczcie. · _kto:_ **SYMON + WIELKI JON** · _zamyka:_ pojedynek na kije odbyty (rzut)
+- **300-05-09** — KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. Po uczcie. · _kto:_ **SYMON + WIELKI JON** · _zamyka:_ pojedynek na kije odbyty (rzut) **⚠ ZAMKNIETE 300-05-11 (RZUT 86): SYMON WYGRAL 3:4 (FORY: LEWA REKA UMBERA). UMBER: 'MADRY, NIE DUMNY!' SINIAKI.**
 - **300-05-09** — ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku. Tallhart: pierwszy statek i pierwszy miesiac; reszte liczy z maesterem do zniw ('22 tys. korcy/mies. to pol Polnocy'). Kontrakt pisze GAWEN (Kasa 3); wchodzi w zycie, gdy Mance da slowo. Ilosc i cena - po rachunku maestera i slupie (zasada 43). · _kto:_ **GAWEN + TALLHART** · _zamyka:_ kontrakt na pismie z iloscia pierwszej dostawy
 - **300-05-10** — RUDA W WILCZYM LESIE (Grim, 86): Czerwony Strumien - ruda darniowa + plytka zyla czerwonego zelaziaka; Dolny Bor - stare dymarki; Smolna Polana - wegiel. Brakuje LUDZI. Do decyzji: dymarki Korony / osadnicy / kto prowadzi (Grim + Hobb Rdza + Tobbas). · _kto:_ **SYMON + KROL** · _zamyka:_ decyzja: kto, ilu, za czyje **⚠ OTWARTE - 05-11: SKLAD - GRIM (PROWADZI), HOBB RDZA, TOBBAS, CZLOWIEK KASZTELANA, + DWAJ OD BOLTONA (~05-25), + Z HARRENHALU DWAJ DYMARZE I GORNIK (~VII). DO DECYZJI: DYMARKI KORONY / OSADNICY / KTO PLACI.**
 - **300-05-10** — HARRION - POWIEDZIEC RICKARDOWI KARSTARKOWI (obietnica Symona 299-11-01: 'powiem wam, takze jesli wiadomosc bedzie zla'): zyje, Maidenpool, wieza, zdrowy, nie przenoszony, nikt nie szykuje wymiany. Krol obiecal mu rozmowe 'po gaju'. · _kto:_ **SYMON (+ KROL) -> KARSTARK** · _zamyka:_ Karstark wie **⚠ ZAMKNIETE 300-05-10 - POWIEDZIANE PRZY SNIADANIU (72): KARSTARK PRZYJAL DOBRZE - 'DOTRZYMALISCIE. NIE JEST ZLE.' PRZYSIEGA SYMONA (PROBOWAC ODZYSKAC) - OTWARTA.**
@@ -597,7 +596,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-05-11 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 32**
+- **Zdrowie 99 · Sytosc 100 · Zmeczenie 56**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1283,7 +1282,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zobowiazania` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-11] `dziennik`: 300-05-11 ZBROJOWNIA (cd.) - ⚑ SYMON: POTRZEBUJEMY WSZYSTKICH W WINTERFELL - wszystkich pieciu kowali z listy kuzni Harrenhalu, na umowie Korony (zold, rok), razem z dwoma dymarzami i gornik…
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - SYMON PISZE DO HOWLANDA REEDA W SPRAWIE KOSCI WILLAMA DUSTINA (wlasne pismo, bez rzutu): prosba o wskazanie miejsca kopca przy Wiezy Radosci w Czerwonych Gorach (Re…
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - SYMON PISZE DO KSIECIA OBERYNA MARTELLA PRZEZ NESTE (wlasne pismo, bez rzutu przy pisaniu). TRESC (slowa gracza): prosba o pomoc w odnalezieniu kosci poleglych przy…
 - [300-05-11] `dziennik`: 300-05-11 OBIAD, WIELKA SALA - mgla zeszla, szare slonce. Rosol, resztki wolu z uczty, chleb, piwo. Sala rzednie: KARSTARK wyjechal przed poludniem (kiwnal Symonowi glowa od bramy); CERWYN z…
@@ -1295,3 +1293,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-11] `FLINT_Z_PALCA`: 300-05-11 OBIAD (cd.) - ⚑ SYMON DO FLINTA Z PALCA: zaprasza na TARG W CAILIN - tran, skory fok; i KAMIEN - Fosa szuka kamienia daleko (zapis: mlyn stoi bez kamienia 04-13; baszta Przystani W…
 - [300-05-11] `dziennik`: 300-05-11 OBIAD (cd.) - SYMON WYSYLA POLECENIE DO FOSY (Garrick; zasada 42 - pan obsadza glowe, glowa obsadza reszte): podjac decyzje i wyslac kogos na Palec Flinta obejrzec lom granitu i us…
 - [300-05-11] `dziennik`: 300-05-11 POPOLUDNIE, DZIEDZINIEC LUCZNICZY - ZAWODY LUCZNICZE PO UCZCIE. Szare slonce, lekki wiatr z zachodu. Widzowie: Krol, Wielki Jon, lady Maege, Wyman (w krzesle, z dzbanem), Glover, T…
+- [300-05-11] `dziennik`: 300-05-11 POPOLUDNIE, DZIEDZINIEC - KIJE: SYMON vs WIELKI JON UMBER. Fory: Umber LEWA reka; Symonowi wystarcza 3 trafienia, Umberowi 5. Widzowie jak na zawodach + mistrz z Braavos pod murem …

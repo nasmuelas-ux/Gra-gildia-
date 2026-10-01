@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 5,
-  "dzien": 13,
+  "dzien": 14,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 32 (300-05-13) - mgla o swicie, chlodno, mzawka do poludnia; trakty mokre.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 26 (300-05-14) - zimny deszcz od switu, wiatr z zachodu; trakty rozmiekle.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 1081,
+ "_dziennik_nota": 1083,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

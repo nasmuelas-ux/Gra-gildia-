@@ -3951,7 +3951,7 @@
    "kanal": "robota na miejscu (Winterfell)",
    "wraca": "300-05-10",
    "zamyka": "Luwin podaje dzien, w ktorym krolowa zejdzie do sali; potem lista gosci i ptaki",
-   "status": "otwarte - USTALONE 300-04-25: 300-05-10 - rano gaj (krolowa z Eddardem przed drzewem serca), wieczorem uczta; goscie: domy z Rady + Freyowie (syn Waldera); zaproszenia 04-26."
+   "status": "ZAMKNIETE 300-05-10 - gaj rano (Eddard nazwany; Bran wjechal - Symon prowadzil klacz), uczta wieczorem, ogloszenia wykonane."
   },
   {
    "data": "300-04-17",
@@ -4662,7 +4662,7 @@
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
    "zamyka": "nadanie oglaszane; pismo z pieczecia dla Karholdu",
-   "status": "otwarte - 05-10 w cztery oczy (60): Karstark przyjmuje ('Bolton za obietnice, ja za zrobione'); ogloszenie wieczorem przy wszystkich."
+   "status": "ZAMKNIETE 300-05-10 - nadanie ogloszone na uczcie; pismo z pieczecia dla Karholdu."
   },
   {
    "data": "300-04-29",
@@ -4671,7 +4671,7 @@
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
    "zamyka": "nadanie ogloszone; reakcja Wymana na bank (rzut przy stole)",
-   "status": "otwarte - 05-10 w cztery oczy: WILCZA NORA przyjeta (lzy); honor wieczorem; BANK (6) - ODLOZONY: 'nie przed rokiem Wilka' (maj 301), pyta, kto gwarantuje wklady. Publicznie wieczorem: honor + Wilcza Nora; o banku - nic publicznie."
+   "status": "ZAMKNIETE 300-05-10 - honor i Wilcza Nora ogloszone; bank odlozony do V/301 (osobna pozycja)."
   },
   {
    "data": "300-04-29",
@@ -4689,7 +4689,7 @@
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
    "zamyka": "nadanie ogloszone; reakcja Barbrey (rzut przy rozmowie)",
-   "status": "otwarte - 05-10: pismo PRZEPISANE z powodem 'za Barrowton, za zboze dla wdow', nowa pieczec Krola; stare uniewaznione. Ogloszenie na uczcie."
+   "status": "ZAMKNIETE 300-05-10 - ogloszone 'za Barrowton, za zboze dla wdow'; Barbrey kiwa Symonowi."
   },
   {
    "data": "300-04-30",
@@ -4707,7 +4707,7 @@
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
    "zamyka": "dary ogloszone, reakcje (rzuty przy rozmowach)",
-   "status": "otwarte - 05-10: UMBER (49) kontrakt; CERWYN (72) objazd+zastepca+wychowanek; GLOVER (55) - KONTRAKT NA DREWNO PRZYJETY; Galbart pyta, kto pilnuje dzikich na Cyplu i czy Deepwood stawia straz za swoje. Ogloszenie wieczorem."
+   "status": "ZAMKNIETE 300-05-10 - Umber, Cerwyn, Glover ogloszone."
   },
   {
    "data": "300-04-30",
@@ -4743,7 +4743,7 @@
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
    "zamyka": "lista ludzi od kruszcu (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-10 (rzut 27): lordowie bez ludzi od kruszcu; JEDYNA OFERTA - ROOSE BOLTON: dwoch ludzi od kamienia i rudy na rok, za zold Korony. Krol: 'odpowiem jutro'."
   },
   {
    "data": "300-04-30",
@@ -4864,7 +4864,7 @@
   },
   {
    "data": "300-05-03",
-   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10). ### 05-03: POSEL PYTA O JONA USTNIE (obietnica Symona dla Brana; zadnego imienia na papierze - zakaz Krola 299-09-14). Od Brana, jesli go zobaczy: 'Lato spi w gaju'. ### 05-05 OSHA (dzika w kuchni Winterfell): droga - Mleczna Woda pod Mroznymi Klami (stan sprzed 2 lat; teraz blizej, na poludnie); jak podejsc - bez choragwi i papieru, sol/zelazo/igly, najpierw wlocznice i starsi, nie klamac o liczbie (83). ZA MUR NIE POJDZIE (11); DO MURU TAK - wybierze sposrod trzech dzikich przewodnika; nauczy posla slow i znakow; warunek: jej imienia na zadnej liscie. ### 05-05: OSHA JEDZIE Z POSELSTWEM DO MURU PO UCZCIE (bez imienia na liscie). Dostala noz (Krol/kasztelan). ### 05-07 ⚑ POSEL: DACEY MORMONT (decyzja Symona przy Krolu). ESKORTA DO MURU: WIELKI JON UMBER ('do Muru i ani kroku dalej' - powie mu Krol). Zgoda lady Maege - Krol prosi ja sam na uczcie, w cztery oczy. Do znalezienia na uczcie: ktos ze stara mowa (Flint z Palca? klany). ### 05-10 UMBER (49): eskorta do Muru PRZYJETA - 'ani kroku dalej, daje slowo'; i drugie slowo: jesli Dacey nie wroci w terminie - idzie po nia (Krol przyjmuje). ### 05-10 MAEGE (57): ZGODA. Warunki matki: (1) z Dacey dwoje ludzi z Wyspy (wloczniczka + znawca lodu), w orszaku; (2) Dacey SAMA decyduje na miejscu, kiedy zawrocic. DACEY: 'Pojde.' Pyta o wyjazd i slowa. ### 05-10 SLOWA POSLA (Symon + poprawka Krola, rzut 31): (1) Cypel - ziemia z nadania Krola; (2) BEZ KLEKANIA - wlasne zwyczaje i starsi, liczeni bez imion; (3) PRZYSIEGA przy drzewie serca, kazde ognisko przez starszego; (4) przy Innych z Polnoca; (5) bez najazdow - kradziez/najazd i kto karze ustalone z gory. 'Bez klekania nie znaczy bez przysiegi i nie znaczy krolestwa w krolestwie' (Krol). WYJAZD: po uczcie. ### 05-10: (6) KTO NIE PRZYSIEGNIE, NIE SIADA NA CYPLU - takze ognisko Mance'a (Symon; Krol: 'rowno dla wszystkich').",
+   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10). ### 05-03: POSEL PYTA O JONA USTNIE (obietnica Symona dla Brana; zadnego imienia na papierze - zakaz Krola 299-09-14). Od Brana, jesli go zobaczy: 'Lato spi w gaju'. ### 05-05 OSHA (dzika w kuchni Winterfell): droga - Mleczna Woda pod Mroznymi Klami (stan sprzed 2 lat; teraz blizej, na poludnie); jak podejsc - bez choragwi i papieru, sol/zelazo/igly, najpierw wlocznice i starsi, nie klamac o liczbie (83). ZA MUR NIE POJDZIE (11); DO MURU TAK - wybierze sposrod trzech dzikich przewodnika; nauczy posla slow i znakow; warunek: jej imienia na zadnej liscie. ### 05-05: OSHA JEDZIE Z POSELSTWEM DO MURU PO UCZCIE (bez imienia na liscie). Dostala noz (Krol/kasztelan). ### 05-07 ⚑ POSEL: DACEY MORMONT (decyzja Symona przy Krolu). ESKORTA DO MURU: WIELKI JON UMBER ('do Muru i ani kroku dalej' - powie mu Krol). Zgoda lady Maege - Krol prosi ja sam na uczcie, w cztery oczy. Do znalezienia na uczcie: ktos ze stara mowa (Flint z Palca? klany). ### 05-10 UMBER (49): eskorta do Muru PRZYJETA - 'ani kroku dalej, daje slowo'; i drugie slowo: jesli Dacey nie wroci w terminie - idzie po nia (Krol przyjmuje). ### 05-10 MAEGE (57): ZGODA. Warunki matki: (1) z Dacey dwoje ludzi z Wyspy (wloczniczka + znawca lodu), w orszaku; (2) Dacey SAMA decyduje na miejscu, kiedy zawrocic. DACEY: 'Pojde.' Pyta o wyjazd i slowa. ### 05-10 SLOWA POSLA (Symon + poprawka Krola, rzut 31): (1) Cypel - ziemia z nadania Krola; (2) BEZ KLEKANIA - wlasne zwyczaje i starsi, liczeni bez imion; (3) PRZYSIEGA przy drzewie serca, kazde ognisko przez starszego; (4) przy Innych z Polnoca; (5) bez najazdow - kradziez/najazd i kto karze ustalone z gory. 'Bez klekania nie znaczy bez przysiegi i nie znaczy krolestwa w krolestwie' (Krol). WYJAZD: po uczcie. ### 05-10: (6) KTO NIE PRZYSIEGNIE, NIE SIADA NA CYPLU - takze ognisko Mance'a (Symon; Krol: 'rowno dla wszystkich'). ### 05-10 STARA MOWA (27): nikt przy stole; Flint z Palca - stary Wull i ludzie Norreyow przy Murze ja znaja - tlumacza wziac PO DRODZE od klanow (zboczenie z traktu albo przez Osrica/Hallisa).",
    "kto": "SYMON + KROL",
    "kanal": "rozmowa w Winterfell; lordowie na uczcie 05-10",
    "wraca": "300-05-10",
@@ -5040,6 +5040,15 @@
    "kanal": "kruk Winterfell-Deepwood",
    "wraca": "300-05-25",
    "zamyka": "rozkaz przez Galbarta + stawka Gawena",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-10",
+   "co": "OFERTA ROOSE'A BOLTONA: dwoch ludzi Dreadfortu od kamienia i rudy dla Korony na rok, za zold Korony (publicznie, na uczcie). Krol: 'odpowiem jutro'. Ruda jest w Wilczym Lesie (Grim). Do rozmowy 11-go o swicie razem z Boltonsgate.",
+   "kto": "KROL + SYMON",
+   "kanal": "Winterfell",
+   "wraca": "300-05-11",
+   "zamyka": "tak / nie / warunek",
    "status": "otwarte"
   }
  ],

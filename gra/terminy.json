@@ -5022,7 +5022,7 @@
    "kanal": "Reed (Fosa/grobla) + Nesta (Dorne)",
    "wraca": "300-06-01",
    "zamyka": "kosci w Barrowton",
-   "status": "otwarte - krok 1 do wykonania"
+   "status": "otwarte - 05-11: KROK 1 WYKONANY - list do Reeda (miejsce kopca) - kruk do Fosy 05-12 + grobla; odpowiedz ~06-05 albo przez Jojena/Meere. Krok 2 (list do Dorana przez Neste) - do wykonania."
   },
   {
    "data": "300-05-10",
@@ -5139,6 +5139,15 @@
    "kanal": "kruk Winterfell-Riverrun (05-12)",
    "wraca": "300-05-23",
    "zamyka": "zgoda ser Robina (rzut) + data wyjazdu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-11",
+   "co": "LIST DO HOWLANDA REEDA - MIEJSCE KOPCA PRZY WIEZY RADOSCI (kosci Willama Dustina dla lady Barbrey).",
+   "kto": "SYMON -> HOWLAND REED",
+   "kanal": "kruk Winterfell-Fosa (05-12) + poslaniec przy grobli",
+   "wraca": "300-06-05",
+   "zamyka": "Reed wskazuje miejsce (albo przez Jojena/Meere)",
    "status": "otwarte"
   }
  ],

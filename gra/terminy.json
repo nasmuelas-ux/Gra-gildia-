@@ -4486,7 +4486,7 @@
   },
   {
    "data": "300-04-26",
-   "co": "LORD LARENCE HORNWOOD PRZEZ WINTERFELL: Krol wzywa kuratora Galbarta Glovera - chlopak ma stanac w Winterfell na ucztę 05-10 (gaj rano, przed Krolem), potem do Hornwood z lady Donella. ### 05-01 (11): Larence chory (zimnica) - wyjazd ~05-08, w Winterfell ~05-17/18 PO UCZCIE; Galbart na ucztę sam.",
+   "co": "LORD LARENCE HORNWOOD PRZEZ WINTERFELL: Krol wzywa kuratora Galbarta Glovera - chlopak ma stanac w Winterfell na ucztę 05-10 (gaj rano, przed Krolem), potem do Hornwood z lady Donella. ### 05-01 (11): Larence chory (zimnica) - wyjazd ~05-08, w Winterfell ~05-17/18 PO UCZCIE; Galbart na ucztę sam. ### 05-02: przedstawienie przy gaju przez Galbarta w dniu przyjazdu.",
    "kto": "KROL -> GALBART GLOVER (do wiad. Robett)",
    "kanal": "kruk Winterfell-Deepwood Motte (04-27) - wylot 04-28 (pogoda)",
    "wraca": "300-05-18",
@@ -4702,7 +4702,7 @@
   },
   {
    "data": "300-04-30",
-   "co": "DARY NA UCZCIE 05-10 (po rozmowie w cztery oczy, z powodem): UMBER - kontrakt Korony na zaopatrzenie Muru; CERWYN - Korona placi objazd Justycjariusza + zastepce, miejsce wychowanka w szkole Krola; GLOVER - kontrakt na drewno dla eskadry z Deepwood + Galbart przedstawia Larence'a Krolowi przy gaju. ### 05-01: Larence nie zdazy - przedstawienie przez Galbarta przy gaju do przesuniecia (~05-18).",
+   "co": "DARY NA UCZCIE 05-10 (po rozmowie w cztery oczy, z powodem): UMBER - kontrakt Korony na zaopatrzenie Muru; CERWYN - Korona placi objazd Justycjariusza + zastepce, miejsce wychowanka w szkole Krola; GLOVER - kontrakt na drewno dla eskadry z Deepwood + Galbart przedstawia Larence'a Krolowi przy gaju. ### 05-01: Larence nie zdazy - przedstawienie przez Galbarta przy gaju do przesuniecia (~05-18). ### 05-02: GLOVER (b) przesuniete - Galbart przedstawia Larence'a przy gaju w dniu jego przyjazdu (~05-18); (a) drewno - na uczcie. WYMAN - w cztery oczy: komora orzekla sama, zgodnie z prawem.",
    "kto": "KROL + SYMON -> UMBER, CERWYN, GLOVER",
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
@@ -4731,7 +4731,7 @@
    "data": "300-04-30",
    "co": "LIST KROLA DO PANOW SKAGOS: przypomnienie przysiegi zlozonej Starkom; wezwanie do odpowiedzi NA PISMIE DO WYZNACZONEGO DNIA (kto rzadzi, czy przysiega stoi); daniny liczone dzis wedle zdolnosci, jak na Radzie. BEZ grozby w liscie - co z cisza, postanowi Krol.",
    "kto": "KROL -> SKAGOS",
-   "kanal": "LODZIA - przez Wdowia Straznice (Flintowie) albo z Karholdu/Karportu (ptakow na Skagos brak, 05-01)",
+   "kanal": "LADY LYESSA FLINT - list do reki na uczcie 05-10; lodz z Wdowiej Straznicy po jej powrocie",
    "wraca": "300-06-15",
    "zamyka": "odpowiedz Skagos albo cisza do terminu",
    "status": "otwarte"
@@ -4806,6 +4806,15 @@
    "kanal": "kruki",
    "wraca": "300-05-06",
    "zamyka": "lista gosci pelna",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-02",
+   "co": "PLAN THEONA ZATWIERDZONY - rozkaz do Theona, Torrena, Harla (Dustinport), Robetta Glovera: odbijanie okretow na plazach Kamienistego Brzegu (Klif Mew, Czarny Piasek, Ujscie Mglistej), noca, 20 na okret, ogien Gloverow, eskadra zamyka ujscie; zalogi - wsie spalone + rybacy Kamienistego Brzegu (zalazek rezerwy). Gotowosc przed sezonem najazdow.",
+   "kto": "SYMON -> THEON, TORREN, HARL, ROBETT GLOVER",
+   "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (05-03); kruk Winterfell-Deepwood (05-03)",
+   "wraca": "300-05-15",
+   "zamyka": "potwierdzenie gotowosci (ludzie przy plazach, rybacy spisani)",
    "status": "otwarte"
   }
  ],

@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**78 otwartych** · **2 PRZETERMINOWANYCH** · 6 wraca dzis
+**77 otwartych** · **2 PRZETERMINOWANYCH** · 5 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
@@ -33,7 +33,6 @@ _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy 
 - **+1 dni** — KAMIENNY BRZEG - CHECKPOINT (punkt kontrolny etapu: palisada, wieza, garnizon, rezerwy) do ustalenia blizej po odpowiedzi Torrena. · _kanal:_ w zamku · _zamyka:_ checkpoint na pismie
 
 ### 🟡 WRACA DZIS
-- LANCUCH OGNI - SZEW DUSTIN: ostatni punkt Gloverow patrzy na pierwszy ogien Barrowlandow; meldunek w pierwszej karcie miesiecznej … · _kanal:_ kruk Winterfell-Deepwood Motte (wylot 04-11) + karta miesieczna
 - ZAWODY LUCZNICZE DZIEN PO UCZCIE (05-11, po odjezdzie Roose'a): Arya, Symon i ktos od lordow ('zeby zobaczyli, ze Starkowie strzel… · _kanal:_ dziedziniec Winterfell
 - KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. P… · _kanal:_ dziedziniec Winterfell
 - SANSA - POWIEDZIEC JEJ (obietnica): lord Ryswell pytal Symona, do kogo o reke Sansy (dla syna); Symon: do Krola, ale najpierw powi… · _kanal:_ Winterfell
@@ -324,7 +323,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-10** — LIST SYMONA DO ROOSE'A BOLTONA - Dzieci Lasu i wargowie do bibliotek; czy rod Boltonow mial do czynienia z silami magicznymi; pytanie o lady Walde. · _kto:_ **SYMON -> ROOSE BOLTON** · _zamyka:_ odpowiedz albo cisza (rzut przy powrocie) **⚠ ZAMKNIETE 300-04-18 - RZUT 16 (PROG 50): ODPOWIEDZ KROTKA I ZIMNA, NIC DO KSIEGI; WALDA 'ZDROWA'; JEDNA KONSEKWENCJA: ROOSE PYTA, CZEMU NAMIESTNIK PYTA O ZMIENNOSKORYCH WLASNIE W WINTERFELL, 'GDZIE DZIECI CHOWAJA SIE Z WILKAMI'.**
 - **300-04-10** — LIST SYMONA DO MAESTRA THEOMORE'A - co o Dzieciach Lasu i wargach jest w jego skrzyniach i u Manderlych. · _kto:_ **SYMON -> THEOMORE (Nowy Zamek)** · _zamyka:_ odpowiedz (rzut przy powrocie) **⚠ ZAMKNIETE 300-04-17: MALO (45); WSKAZOWKA - OGNIWO WALYRIANSKIE LUWINA**
 - **300-04-10** — LIST SYMONA DO MAESTRA WYSTANA - Przesmyk, Fosa, krannogowie, Mlot Wod: co zapisano o Dzieciach Lasu i wargach. · _kto:_ **SYMON -> WYSTAN (Fosa)** · _zamyka:_ odpowiedz (rzut przy powrocie) **⚠ ZAMKNIETE 300-04-15: Z KSIAG MALO (42); WYSTAN PYTA KRANNOGOW USTNIE**
-- **300-04-11** — LANCUCH OGNI - SZEW DUSTIN: ostatni punkt Gloverow patrzy na pierwszy ogien Barrowlandow; meldunek w pierwszej karcie miesiecznej Robetta (punkty ognia + granica z Dustin). · _kto:_ **ROBETT GLOVER** · _zamyka:_ pierwsza karta Robetta z punktem granicznym
+- **300-04-11** — LANCUCH OGNI - SZEW DUSTIN: ostatni punkt Gloverow patrzy na pierwszy ogien Barrowlandow; meldunek w pierwszej karcie miesiecznej Robetta (punkty ognia + granica z Dustin). · _kto:_ **ROBETT GLOVER** · _zamyka:_ pierwsza karta Robetta z punktem granicznym **⚠ ZAMKNIETE 300-05-11 (53): PIERWSZA KARTA ROBETTA - OSTATNI PUNKT GLOVEROW WIDZI PIERWSZY OGIEN BARROWLANDOW; PROBA NOCNA 05-05: BRZEG-DEEPWOOD W DWIE GODZINY.**
 - **300-04-11** — LANCUCH OGNI - SZEW DUSTIN OD POLUDNIA: punkt Dustinportu patrzy na ostatni ogien Barrowlandow; nowa rubryka w karcie Donnela. · _kto:_ **DONNEL OBROK (Dustinport)** · _zamyka:_ rubryka 'ogien Barrowlandow' w karcie 05-08 **⚠ OTWARTE - KARTA DONNELA Z RUBRYKA PISANA 05-08 W DUSTINPORCIE; DROGA JEZDZIEC + KRUK ~6 DNI -> WINTERFELL ~05-14.**
 - **300-04-11** — LIST ZAMKNIETY DO HOWLANDA REEDA O BRANIE (warg? sny, wolanie spod zamku) - prosba o rade. Czeka przy grobli razem z pierwszym listem, az krannogowie wyjda. · _kto:_ **poslaniec przy grobli (przez Garricka)** · _zamyka:_ krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni ### 04-13: krannogowie wracaja do grobli ~04-16 - wtedy list o Branie idzie do nich. **⚠ ZAMKNIETE 300-05-05 (RZUT 93): ODPOWIEDZ REEDA - LIST ZAMKNIETY DO SYMONA, PRZEZ GROBLA (POSŁANIEC) -> FOSA -> KRUK DO WINTERFELL. PATRZ DZIENNIK 05-05. REED PRZYSYLA SYNA I CORKE (JOJEN I MEERA) DO WINTERFELL.**
 - **300-04-11** — LIST SYMONA DO MIRY - jak sie czuje (zalecenie skonczone, spi przed polnoca), teskni za nimi; kareta czeka na slowo Rhony. · _kto:_ **SYMON -> MIRA (Nowy Zamek)** · _zamyka:_ odpowiedz Miry (rodzina, bez rzutu) **⚠ ZAMKNIETE 300-05-04 - MIRA ODPISALA (RODZINA, BEZ RZUTU): RHONA POZWALA NA DROGE; WYJAZD Z BIALEGO PORTU ~05-08 Z LYRA I RHONA, WOZEM KRYTA (KARETA HALA), POWOLI; W WINTERFELL ~05-19/20. NIE ZDAZY NA UCZTĘ.**
@@ -1280,7 +1279,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zobowiazania` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-10] `dziennik`: 300-05-10 UCZTA (cd.) - KTO JESZCZE: DACEY MORMONT, Arya przy jej boku (w jej rekawicach). Dacey siada obok Symona bez ceremonii, jak zolnierz. Dwie rzeczy: (1) DATA - 'Wielki Jon chce rusza…
 - [300-05-10] `dziennik`: 300-05-10 UCZTA (cd.) - Symon rozglada sie po sali, nie odpowiadajac Dacey. Bez rzutu. DACEY widzi to, wzrusza ramionami bez urazy: 'Jutro. Po waszym swicie z Boltonem.' Wstaje, zabiera Arye…
 - [300-05-10] `dziennik`: 300-05-10 UCZTA (cd.) - SYMON IDZIE DO WIELKIEGO JONA. Bez rzutu. Umber zeskakuje z lawy (lawa jeczy), nalewa Symonowi kubek po brzegi, sobie dzban. 'Za kije!' Sam pije. Potem, nagle powazni…
 - [300-05-10] `dziennik`: 300-05-10 UCZTA, KONIEC - KTO JESZCZE: SAM KROL. Lordowie sie rozchodza albo spia przy stolach; Wielki Jon spiewa z Malym Jonem; Wyman wynoszony do kwatery. Robb siada obok Symona z kubkiem,…
@@ -1292,3 +1290,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-11] `dziennik`: 300-05-11 RANEK - SYMON DZIEKUJE KROLOWI I IDZIE DO DACEY. Bez rzutu. Dacey na dziedzincu we mgle, przy studni, ostrzy grot wloczni oselka; obok Wielki Jon (blady po nocy, ale na nogach) i M…
 - [300-05-11] `dziennik`: 300-05-11 RANEK (cd.) - ⚑ SYMON: WYJAZD POSELSTWA ZA CZTERY DNI (05-15); OSHE Dacey pozna DZIS WIECZOREM. Bez rzutu. WIELKI JON jeczy: 'Cztery dni! Wypije pol piwnic Starka!' - ale nie prote…
 - [300-05-11] `dziennik`: 300-05-11 RANEK (cd.) - SYMON DO DACEY: w starej kuchni, po kolacji. Dacey: 'Bede.' POTEM SYMON IDZIE UPRZEDZIC OSHE - kuchnia po uczcie: gory garnkow, kucharz klnie, Osha przy balii, rece p…
+- [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - KRUK Z DEEPWOOD (Robett Glover) - RZUT 53 (prog 45): PIERWSZA KARTA MIESIECZNA ROBETTA PRZYSZLA. Lancuch ogni zachodu: punkty od Kamiennego Brzegu po Deepwood obsad…

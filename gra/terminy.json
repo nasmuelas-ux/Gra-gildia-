@@ -4626,7 +4626,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-05",
    "zamyka": "decyzja: budowniczy + budzet + data startu",
-   "status": "otwarte"
+   "status": "zmienione 300-04-29 (rzut 45): BUDUJE BOLTON; Korona daje miasto panskie z prawem skladu i karta (Boltongate)"
   },
   {
    "data": "300-04-29",
@@ -4635,6 +4635,15 @@
    "kanal": "slup Zimowego Miasta",
    "wraca": "300-05-10",
    "zamyka": "pierwsze zamowienie zlozone u rzemieslnikow, z ksiega",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-29",
+   "co": "LIST KROLA DO ROOSE'A: przystan na Placzacej Wodzie buduje Dreadfort; Korona nadaje wokol niej MIASTO PANSKIE BOLTONA z PRAWEM SKLADU i KARTA MIEJSKA (burmistrz, lawa, rok i dzien, wolnosc rzemiosla) - 'Boltongate'; klucze Korony (komora liczy obie kolumny, pisarz Korony) bez zmian; uznanie: trzeci wasal Krola.",
+   "kto": "KROL -> ROOSE BOLTON",
+   "kanal": "kruk Winterfell-Dreadfort (04-30)",
+   "wraca": "300-05-06",
+   "zamyka": "odpowiedz Roose'a (rzut)",
    "status": "otwarte"
   }
  ],

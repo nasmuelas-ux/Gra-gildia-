@@ -5278,10 +5278,10 @@
   },
   {
    "data": "300-05-14",
-   "co": "LIST SYMONA DO LADY BARBREY DUSTIN - PROPOZYCJA: Korona oplaca straznikow ognia Barrowlandow z Kasy 3, wg tej samej stawki co wszystkich w lancuchu (imiennie, z kwitem); bez zobowiazania, ognie zostaja jej. Odchodzi od linii Krola z 04-11 ('do lady Dustin - nic') - jako PROPOZYCJA, nie zadanie. RZUT na odpowiedz przy powrocie (sprawa zewnetrzna).",
-   "kto": "SYMON -> LADY BARBREY DUSTIN",
-   "kanal": "kruk Winterfell-Barrowton (lancuch maesterski)",
-   "wraca": "300-05-18",
+   "co": "LIST KROLA DO LADY BARBREY DUSTIN (zamysl Symona, przejety przez Krola 05-14, rzut 13) - PROPOZYCJA: Korona oplaca straznikow ognia Barrowlandow z Kasy 3, ta sama stawka co wszyscy w lancuchu, imiennie, z kwitem; ognie zostaja jej; Krol dopisuje jedno zdanie wlasna reka. Pod PIECZECIA KROLA, kruk 05-15 rano. RZUT na odpowiedz przy powrocie.",
+   "kto": "KROL (pieczec) <- SYMON (zamysl) -> LADY BARBREY DUSTIN",
+   "kanal": "kruk Winterfell-Barrowton (05-15 rano)",
+   "wraca": "300-05-19",
    "zamyka": "odpowiedz lady Dustin (rzut)",
    "status": "otwarte"
   },

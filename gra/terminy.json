@@ -5023,6 +5023,15 @@
    "wraca": "300-06-01",
    "zamyka": "kosci w Barrowton",
    "status": "otwarte - krok 1 do wykonania"
+  },
+  {
+   "data": "300-05-10",
+   "co": "SEDZIA OBJAZDOWY ZIEM BEZ PANA NA ZACHODZIE (Kamienny Brzeg, Cypel) = zastepca Justycjariusza w zamku Cerwyn (zgoda Symona). Zadanie: GRANICE przed osiedleniem dzikich; dach u Kasztelana Corwina. Imie zastepcy + imie bratanka-wychowanka - Cerwyn do kancelarii. Platne z Kasy 3 (stawka zastepcy Gawena 3-4/mies).",
+   "kto": "CERWYN -> zastepca",
+   "kanal": "kancelaria Winterfell",
+   "wraca": "300-06-01",
+   "zamyka": "imie sedziego + pierwszy objazd Brzegu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

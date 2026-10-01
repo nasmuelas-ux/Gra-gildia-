@@ -4653,7 +4653,7 @@
    "kanal": "w Winterfell, przy uczcie",
    "wraca": "300-05-11",
    "zamyka": "zgoda Roose'a albo jego warunki (rzut przy stole)",
-   "status": "ZAMKNIETE 300-05-11 (rzut 100): ROOSE PRZYJMUJE BEZ TARGU - obie przystanie za swoje (harmonogram V-VIII, drewno z wlasnych lasow), imiona ludzi przy wagach TERAZ na pismie, Boltonsgate u ujscia Placzacej Wody; PROSI O KLAUZULE: miasto i sklad dziedziczy dziedzic Dreadfortu Z PRAWEGO LOZA (odpowiedz Krola/Symona - w toku)."
+   "status": "ZAMKNIETE 300-05-11 (100): BOLTONSGATE - karta z pieczeciami Krola i Boltona; KLAUZULA: 'prawa przechodza na dziedzica Dreadfortu z prawego loza, i na nikogo innego, chocby uznanego' (Tobin). Przystanie V-VIII za swoje; imiona przy wagach na pismie."
   },
   {
    "data": "300-04-29",
@@ -4941,7 +4941,7 @@
    "kanal": "Winterfell, uczta",
    "wraca": "300-05-11",
    "zamyka": "rozmowa odbyta: tak / nie / warunek",
-   "status": "ZAMKNIETE 300-05-11 (rzut 100): ROOSE PRZYJMUJE BEZ TARGU - obie przystanie za swoje (harmonogram V-VIII, drewno z wlasnych lasow), imiona ludzi przy wagach TERAZ na pismie, Boltonsgate u ujscia Placzacej Wody; PROSI O KLAUZULE: miasto i sklad dziedziczy dziedzic Dreadfortu Z PRAWEGO LOZA (odpowiedz Krola/Symona - w toku)."
+   "status": "ZAMKNIETE 300-05-11 (100): BOLTONSGATE - karta z pieczeciami Krola i Boltona; KLAUZULA: 'prawa przechodza na dziedzica Dreadfortu z prawego loza, i na nikogo innego, chocby uznanego' (Tobin). Przystanie V-VIII za swoje; imiona przy wagach na pismie."
   },
   {
    "data": "300-05-06",

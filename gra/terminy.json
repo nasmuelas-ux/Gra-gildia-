@@ -2218,7 +2218,7 @@
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-04-29",
    "zamyka": "kantor Domu w Braavos otwarty pod wlasnym znakiem",
-   "status": "otwarte"
+   "status": "zrobione 300-04-29 - kantor Domu w Braavos otwarty pod wlasnym znakiem (Nesta)"
   },
   {
    "data": "300-03-12",
@@ -2318,7 +2318,7 @@
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-04-29",
    "zamyka": "pierwsza ksiega Pentos w kantorze Nesty",
-   "status": "otwarte"
+   "status": "zrobione 300-04-29 - pierwsza ksiega Obara u Nesty; liczby do bilansu Hala"
   },
   {
    "data": "300-03-12",
@@ -3265,7 +3265,7 @@
    "kanal": "kruk Bialy Port-Dreadfort",
    "wraca": "300-04-29",
    "zamyka": "imiona ludzi Dreadfortu przy wagach na pismie; pisarze Korony wskazani",
-   "status": "otwarte - 300-04-21 rzut 7: imion NIE MA; Roose wskaze ludzi 'gdy przystanie stana'; wagi z samym pisarzem Korony. ### 300-04-21: zwloka przyjeta; list do Roose'a z terminem (V-VIII) i wzorem Przystani Wilka (04-22)."
+   "status": "zrobione 300-04-29 - Bolton (41): harmonogram przyjety; buduje i placi KORONA, Dreadfort daje drewno po cenie; imiona przy wagach gdy przystanie stana"
   },
   {
    "data": "300-04-02",
@@ -3955,10 +3955,10 @@
   },
   {
    "data": "300-04-17",
-   "co": "SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow.",
+   "co": "SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. ### 04-29 (19): podparcie uwiera - trzecia przymiarka ~05-03.",
    "kto": "RYMARZ (Zimowe Miasto) + BRAN",
    "kanal": "robota na miejscu (Winterfell)",
-   "wraca": "300-04-29",
+   "wraca": "300-05-03",
    "zamyka": "pierwsza przymiarka na Branie - co pasuje, co do poprawy",
    "status": "otwarte - 300-04-24 rzut 97: Bran objechal dziedziniec trzy razy sam; poprawic dwa pasy i oparcie; druga przymiarka ostatnia."
   },
@@ -4113,7 +4113,7 @@
    "kanal": "kruk Winterfell-Czarny Zamek (wylot 04-22)",
    "wraca": "300-04-29",
    "zamyka": "meldunek Osrica z ich odpowiedzia (rzut przy powrocie - to ich slowo, nie jego)",
-   "status": "otwarte"
+   "status": "zrobione 300-04-29 - Osric (36): nie wiedza; nikt nie chce szukac; miejsce stoi"
   },
   {
    "data": "300-04-21",
@@ -4167,7 +4167,7 @@
    "kanal": "kruk Winterfell-Dreadfort (04-22)",
    "wraca": "300-04-29",
    "zamyka": "odpowiedz Roose'a (rzut) albo cisza",
-   "status": "otwarte"
+   "status": "zrobione 300-04-29 - odpowiedz Roose (41): budujcie wy, za monete Korony"
   },
   {
    "data": "300-04-21",
@@ -4419,7 +4419,7 @@
    "kanal": "w zamku",
    "wraca": "300-04-29",
    "zamyka": "cena kompletu i tysiaca",
-   "status": "otwarte"
+   "status": "zrobione 300-04-29 - szacunek Gawena: piechur z kolczuga ~5-9 smokow, rezerwa ~2-3; kolczuga waskim gardlem (kowal = 1/mies.)"
   },
   {
    "data": "300-04-26",
@@ -4455,7 +4455,7 @@
    "kanal": "konno Winterfell-Czarny Zamek (~12 dni)",
    "wraca": "300-04-29",
    "zamyka": "wyjazd z Winterfell; na Murze ~05-10",
-   "status": "otwarte"
+   "status": "zrobione 300-04-29 - wyjechal o swicie; na Murze ~05-10"
   },
   {
    "data": "300-04-26",
@@ -4558,7 +4558,7 @@
   },
   {
    "data": "300-04-28",
-   "co": "PRODUKCJA EKWIPUNKU NA 1500 LUDZI (Winterfell; komplet Rodrika) - stan: 312 pod bronia + 164 pelne + ~90 niepelne. Tempo i budzet roczny po cenie kompletu od Gawena. Wykonanie: rzemieslnicy Zimowego Miasta, Korona pierwszym kupcem.",
+   "co": "PRODUKCJA EKWIPUNKU NA 1500 LUDZI (Winterfell; komplet Rodrika) - stan: 312 pod bronia + 164 pelne + ~90 niepelne. Tempo i budzet roczny po cenie kompletu od Gawena. Wykonanie: rzemieslnicy Zimowego Miasta, Korona pierwszym kupcem. ### 04-29 cena Gawena (E): kolczuga 3-6, komplet z kolczuga ~5-9, rezerwa ~2-3; propozycja dwoch szczebli.",
    "kto": "KROL + GAWEN + RODRIK + SYMON",
    "kanal": "w zamku",
    "wraca": "300-04-29",
@@ -4617,6 +4617,15 @@
    "kanal": "w domenie",
    "wraca": "300-05-20",
    "zamyka": "mapa znalezisk domeny (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-29",
+   "co": "PRZYSTANIE NA PLACZACEJ WODZIE I ZLAMANEJ GALEZI - BUDUJE KORONA (Bolton 04-29): kto buduje, z czego placi Kasa 3, drewno z Dreadfortu po cenie ogloszonej; start w V.",
+   "kto": "SYMON -> KROL / GAWEN",
+   "kanal": "w zamku",
+   "wraca": "300-05-05",
+   "zamyka": "decyzja: budowniczy + budzet + data startu",
    "status": "otwarte"
   }
  ],

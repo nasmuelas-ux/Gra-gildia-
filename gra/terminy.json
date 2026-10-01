@@ -4581,7 +4581,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-12",
    "zamyka": "checkpoint na pismie",
-   "status": "otwarte - 05-11: PROJEKT etapow E0-E3 (dziennik 05-11) przedlozony Symonowi do zatwierdzenia."
+   "status": "ZAMKNIETE 300-05-11 - checkpoint ZATWIERDZONY przez Symona (E0-E3)."
   },
   {
    "data": "300-04-28",
@@ -5121,6 +5121,15 @@
    "kanal": "kruk Winterfell-Deepwood (05-12) + jezdziec",
    "wraca": "300-05-30",
    "zamyka": "Brann w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-11",
+   "co": "KAMIENNY BRZEG - ETAPY (zatwierdzone 05-11): E0 50 weteranow na miejscu ~05-28; E1 palisada + wieza w lancuchu ogni ~06-15; E2 50 miejscowych ~06-30; E3 rezerwa z rybakow + Wielki Zarzadca ~08-31. Meldunek Corwina na kazdy etap.",
+   "kto": "CORWIN + ULRIC",
+   "kanal": "lancuch ogni / kruk przez Deepwood",
+   "wraca": "300-05-28",
+   "zamyka": "E0 - garnizon na miejscu",
    "status": "otwarte"
   }
  ],

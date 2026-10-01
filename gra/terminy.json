@@ -4537,6 +4537,15 @@
    "wraca": "300-05-02",
    "zamyka": "wezwanie wywieszone w czterech miastach; list do Nesty o farbiarzach i foluszniku",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-27",
+   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09).",
+   "kto": "BRAN -> HALLIS -> JON",
+   "kanal": "Hallis na Mur (wyjazd 04-29)",
+   "wraca": "300-06-10",
+   "zamyka": "list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

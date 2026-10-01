@@ -4707,7 +4707,7 @@
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
    "zamyka": "dary ogloszone, reakcje (rzuty przy rozmowach)",
-   "status": "otwarte"
+   "status": "otwarte - 05-10: UMBER (49) - kontrakt na zaopatrzenie Muru PRZYJETY ('bede wozil wiecej, niz zaplacicie'). Cerwyn, Glover - w toku."
   },
   {
    "data": "300-04-30",
@@ -4864,7 +4864,7 @@
   },
   {
    "data": "300-05-03",
-   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10). ### 05-03: POSEL PYTA O JONA USTNIE (obietnica Symona dla Brana; zadnego imienia na papierze - zakaz Krola 299-09-14). Od Brana, jesli go zobaczy: 'Lato spi w gaju'. ### 05-05 OSHA (dzika w kuchni Winterfell): droga - Mleczna Woda pod Mroznymi Klami (stan sprzed 2 lat; teraz blizej, na poludnie); jak podejsc - bez choragwi i papieru, sol/zelazo/igly, najpierw wlocznice i starsi, nie klamac o liczbie (83). ZA MUR NIE POJDZIE (11); DO MURU TAK - wybierze sposrod trzech dzikich przewodnika; nauczy posla slow i znakow; warunek: jej imienia na zadnej liscie. ### 05-05: OSHA JEDZIE Z POSELSTWEM DO MURU PO UCZCIE (bez imienia na liscie). Dostala noz (Krol/kasztelan). ### 05-07 ⚑ POSEL: DACEY MORMONT (decyzja Symona przy Krolu). ESKORTA DO MURU: WIELKI JON UMBER ('do Muru i ani kroku dalej' - powie mu Krol). Zgoda lady Maege - Krol prosi ja sam na uczcie, w cztery oczy. Do znalezienia na uczcie: ktos ze stara mowa (Flint z Palca? klany).",
+   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10). ### 05-03: POSEL PYTA O JONA USTNIE (obietnica Symona dla Brana; zadnego imienia na papierze - zakaz Krola 299-09-14). Od Brana, jesli go zobaczy: 'Lato spi w gaju'. ### 05-05 OSHA (dzika w kuchni Winterfell): droga - Mleczna Woda pod Mroznymi Klami (stan sprzed 2 lat; teraz blizej, na poludnie); jak podejsc - bez choragwi i papieru, sol/zelazo/igly, najpierw wlocznice i starsi, nie klamac o liczbie (83). ZA MUR NIE POJDZIE (11); DO MURU TAK - wybierze sposrod trzech dzikich przewodnika; nauczy posla slow i znakow; warunek: jej imienia na zadnej liscie. ### 05-05: OSHA JEDZIE Z POSELSTWEM DO MURU PO UCZCIE (bez imienia na liscie). Dostala noz (Krol/kasztelan). ### 05-07 ⚑ POSEL: DACEY MORMONT (decyzja Symona przy Krolu). ESKORTA DO MURU: WIELKI JON UMBER ('do Muru i ani kroku dalej' - powie mu Krol). Zgoda lady Maege - Krol prosi ja sam na uczcie, w cztery oczy. Do znalezienia na uczcie: ktos ze stara mowa (Flint z Palca? klany). ### 05-10 UMBER (49): eskorta do Muru PRZYJETA - 'ani kroku dalej, daje slowo'; i drugie slowo: jesli Dacey nie wroci w terminie - idzie po nia (Krol przyjmuje).",
    "kto": "SYMON + KROL",
    "kanal": "rozmowa w Winterfell; lordowie na uczcie 05-10",
    "wraca": "300-05-10",

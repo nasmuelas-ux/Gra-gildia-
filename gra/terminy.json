@@ -1242,7 +1242,7 @@
    "kanal": "do Stannisa przez Davosa",
    "wraca": "300-04-28",
    "zamyka": "data wymarszu na Mur ORAZ odpowiedz o zbozu - albo cisza, ktora tez jest odpowiedzia",
-   "status": "otwarte"
+   "status": "zrobione 300-04-28 - Stannis (53): na Murze ~poczatek VI; jego ludzie przestana kupowac z koncem IV, reszta w Pentos"
   },
   {
    "data": "300-03-30",
@@ -3586,10 +3586,10 @@
   },
   {
    "data": "300-04-06",
-   "co": "SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina. ### +04-27: WELNA (polowa niesprzedana 04-24) + reszta skor -> WOZEM DO BIALEGO PORTU: zaladunek 04-29, w BP ~05-10, targ ~05-12; cena = cena nabrzeza, nie wyzsza.",
+   "co": "SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina. ### +04-27: WELNA (polowa niesprzedana 04-24) + reszta skor -> WOZEM DO BIALEGO PORTU: zaladunek 04-29, w BP ~05-10, targ ~05-12; cena = cena nabrzeza, nie wyzsza. ### 04-28: drogi rozmiekle - wozy ruszaja 05-01, BP ~05-12, targ ~05-14.",
    "kto": "GAWEN + pisarze Skarbu; HERWIN (Cailin), WYMAN (Bialy Port)",
    "kanal": "trakt / kruk Winterfell-Fosa, kruk Winterfell-Bialy Port",
-   "wraca": "300-05-12",
+   "wraca": "300-05-14",
    "zamyka": "pierwszy targ w kazdym z dwoch miast, z ksiega",
    "status": "otwarte"
   },
@@ -3933,7 +3933,7 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-17)",
    "wraca": "300-04-28",
    "zamyka": "odpowiedz Catelyn (czy i kiedy przyjedzie) albo cisza",
-   "status": "otwarte"
+   "status": "zrobione 300-04-28 - Catelyn (87): przyjedzie zaraz po ratyfikacji; kartka do Roslin; pyta o Brana"
   },
   {
    "data": "300-04-17",
@@ -3942,7 +3942,7 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski, wylot 04-17)",
    "wraca": "300-04-28",
    "zamyka": "odpowiedz Edmure'a (gratulacje / cokolwiek) albo cisza",
-   "status": "otwarte"
+   "status": "zrobione 300-04-28 - Edmure (82): gratulacje, kubek dla malego (z Catelyn), Brynden potwierdza ~06-15"
   },
   {
    "data": "~300-05",
@@ -3969,7 +3969,7 @@
    "kanal": "robota na miejscu (Winterfell)",
    "wraca": "300-04-28",
    "zamyka": "krzeslo gotowe i Bran w nim",
-   "status": "otwarte"
+   "status": "zrobione 300-04-28 - krzeslo gotowe"
   },
   {
    "data": "300-04-17",
@@ -4041,7 +4041,7 @@
    "kanal": "kruk Winterfell-Fosa (wylot 04-20, na Fosie 04-22)",
    "wraca": "300-04-28",
    "zamyka": "jej kartka: trop zwiniety (i co zostawila, jesli zostawila)",
-   "status": "otwarte ⏸ pogoda 04-20/21: ptak wyszedl dopiero 04-22 (na Fosie 04-24)."
+   "status": "zrobione 300-04-28 - trop zwiniety; zostaje to, co slychac w porcie Gulltown"
   },
   {
    "data": "300-04-19",
@@ -4293,7 +4293,7 @@
    "kanal": "kruk Winterfell-Bialy Port (04-24)",
    "wraca": "300-04-28",
    "zamyka": "odpowiedz Hala: plan zakupow na targach + rubryka ekstra zysku",
-   "status": "otwarte"
+   "status": "zrobione 300-04-28 - skory tak, welna po cenie nabrzeza; rubryka ekstra zysku otwarta (liczba w bilansie ~05-05)"
   },
   {
    "data": "300-04-24",
@@ -4410,7 +4410,7 @@
    "kanal": "w zamku",
    "wraca": "300-04-28",
    "zamyka": "spis na stole Krola",
-   "status": "otwarte"
+   "status": "zrobione 300-04-28 - 312 pod bronia; 164 pelne zapasowe; ~90 niepelne; 40 helmow lannisterskich"
   },
   {
    "data": "300-04-26",

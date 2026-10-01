@@ -4873,12 +4873,12 @@
   },
   {
    "data": "300-05-03",
-   "co": "ODPOWIEDZ DO MAEGE MORMONT (slowo Krola): lodzie i zalogi STOJA W GOTOWOSCI; najpierw idzie POSEL RANGI LORDA do Mance'a (nazwisko do uczty 05-10); przewoz ruszy po jego slowie. Lady Maege i tak jedzie na ucztę (lodziami do BP, dalej konno) - dalsze ustalenia przy stole.",
+   "co": "ODPOWIEDZ DO MAEGE MORMONT (slowo Krola): lodzie i zalogi STOJA W GOTOWOSCI; najpierw idzie POSEL RANGI LORDA do Mance'a (nazwisko do uczty 05-10); przewoz ruszy po jego slowie. Lady Maege i tak jedzie na ucztę (lodzia przez Zatoke Lodu na lad pod Deepwood, dalej konno przez Wilczy Las) - dalsze ustalenia przy stole.",
    "kto": "KROL/SYMON -> MAEGE (Wyspa Niedzwiedzia)",
    "kanal": "kruk Winterfell-Wyspa Niedzwiedzia (wylot 05-04 w poludnie, pogoda 31)",
    "wraca": "300-05-07",
    "zamyka": "list doreczony (jesli Maege juz w drodze - czeka na wyspie; rozmowa na uczcie)",
-   "status": "ZAMKNIETE 300-05-07 - list doreczony na Wyspe Niedzwiedzia (ptak 05-04 w poludnie, 3 dni); Maege i tak w drodze na ucztę lodziami do BP - dalsze ustalenia przy stole."
+   "status": "ZAMKNIETE 300-05-07 - list doreczony na Wyspe Niedzwiedzia (ptak 05-04 w poludnie, 3 dni); Maege i tak w drodze na ucztę (lodzia przez Zatoke Lodu, dalej konno przez Wilczy Las) - dalsze ustalenia przy stole."
   },
   {
    "data": "300-05-03",

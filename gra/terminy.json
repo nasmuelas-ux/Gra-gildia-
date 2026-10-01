@@ -5131,6 +5131,15 @@
    "wraca": "300-05-28",
    "zamyka": "E0 - garnizon na miejscu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-11",
+   "co": "KOWALE Z HARRENHALU - WSZYSCY PIECIU Z LISTY (w tym Gendry) do Winterfell na umowie Korony (rok, zold), razem z dwoma dymarzami i gornikiem; do zbrojowni Korony (lzejszy komplet x1500). List do Edmure'a / ser Robina Rygera - imiennie z listy; wyjazd po ratyfikacji (~VII). WARUNEK ARYI: wszyscy albo nikt, bez jej imienia nigdzie.",
+   "kto": "SYMON -> EDMURE / SER ROBIN RYGER",
+   "kanal": "kruk Winterfell-Riverrun (05-12)",
+   "wraca": "300-05-23",
+   "zamyka": "zgoda ser Robina (rzut) + data wyjazdu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

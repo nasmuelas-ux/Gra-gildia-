@@ -5185,6 +5185,15 @@
    "wraca": "300-05-19",
    "zamyka": "chlopiec w Winterfell, przyjety",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-12",
+   "co": "BECZULKA WEDZONEGO WEGORZA Z FOSY + DWA PRZEPISY Z KUCHNI ZAMKU - DAR DLA WYMANA DO BIALEGO PORTU. Rozkaz Symona przy obiedzie 05-12. Kruk Winterfell-Fosa po poludniu 05-12 (2 dni) -> NELDA OD KOTLA (kucharz Lenna) wybiera beczulke i spisuje dwa przepisy (wybor jej; ktos z kancelarii Fosy pisze pod jej dyktando) -> jezdziec Fosa-Bialy Port (7 dni). Wlasni ludzie - bez rzutu (zasada 7). Wyman wyjezdza z Winterfell 05-13, w domu ~kilka dni pozniej - beczulka moze go wyprzedzic.",
+   "kto": "NELDA OD KOTLA (Fosa) / jezdziec Fosy",
+   "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Bialy Port",
+   "wraca": "300-05-22",
+   "zamyka": "beczulka i przepisy w Bialym Porcie (wiesc od Nesty albo od Wymana)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

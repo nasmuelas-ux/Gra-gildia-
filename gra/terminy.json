@@ -4555,6 +4555,33 @@
    "wraca": "300-05-20",
    "zamyka": "odpowiedz Stannisa/Davosa albo cisza (cisza tez jest odpowiedzia)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-28",
+   "co": "PRODUKCJA EKWIPUNKU NA 1500 LUDZI (Winterfell; komplet Rodrika) - stan: 312 pod bronia + 164 pelne + ~90 niepelne. Tempo i budzet roczny po cenie kompletu od Gawena. Wykonanie: rzemieslnicy Zimowego Miasta, Korona pierwszym kupcem.",
+   "kto": "KROL + GAWEN + RODRIK + SYMON",
+   "kanal": "w zamku",
+   "wraca": "300-04-29",
+   "zamyka": "tempo (ile kompletow na rok) i budzet - na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-28",
+   "co": "HELMY LANNISTEROW (40 w zbrojowni) - rozmontowac i przetopic (kowal zamkowy); SKUP lannisterskiego ekwipunku z lupow po cenie ze slupa - ogloszenie razem z wezwaniem rzemieslnikow.",
+   "kto": "RODRIK (kowal) + GAWEN (skup)",
+   "kanal": "w zamku / slupy",
+   "wraca": "300-05-02",
+   "zamyka": "helmy przetopione; skup ogloszony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-28",
+   "co": "KAMIENNY BRZEG - CHECKPOINT (punkt kontrolny etapu: palisada, wieza, garnizon, rezerwy) do ustalenia blizej po odpowiedzi Torrena.",
+   "kto": "SYMON -> KROL",
+   "kanal": "w zamku",
+   "wraca": "300-05-10",
+   "zamyka": "checkpoint na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

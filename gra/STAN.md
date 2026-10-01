@@ -25,12 +25,11 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**78 otwartych** · **0 PRZETERMINOWANYCH** · 5 wraca dzis
+**77 otwartych** · **0 PRZETERMINOWANYCH** · 4 wraca dzis
 
 ### 🟡 WRACA DZIS
 - ZAWODY LUCZNICZE DZIEN PO UCZCIE (05-11, po odjezdzie Roose'a): Arya, Symon i ktos od lordow ('zeby zobaczyli, ze Starkowie strzel… · _kanal:_ dziedziniec Winterfell
 - KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. P… · _kanal:_ dziedziniec Winterfell
-- SANSA - POWIEDZIEC JEJ (obietnica): lord Ryswell pytal Symona, do kogo o reke Sansy (dla syna); Symon: do Krola, ale najpierw powi… · _kanal:_ Winterfell
 - GENDRY ZYJE (Edmure 69): czeladnik kuzni Harrenhalu u ser Robina Rygera. OBIETNICA DLA ARYI: tylko wiedza - nie wyciagac, nie wspo… · _kanal:_ Winterfell
 - DACEY POZNAJE OSHE - dzis wieczorem (najlepiej stara kuchnia za piekarnia, po kolacji, przy ogniu - miejsce Oshy). Symon uprzedza … · _kanal:_ Winterfell
 
@@ -411,7 +410,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-10** — SEDZIA OBJAZDOWY ZIEM BEZ PANA NA ZACHODZIE (Kamienny Brzeg, Cypel) = zastepca Justycjariusza w zamku Cerwyn (zgoda Symona). Zadanie: GRANICE przed osiedleniem dzikich; dach u Kasztelana Corwina. Imie zastepcy + imie bratanka-wychowanka - Cerwyn do kancelarii. Platne z Kasy 3 (stawka zastepcy Gawena 3-4/mies). · _kto:_ **CERWYN -> zastepca** · _zamyka:_ imie sedziego + pierwszy objazd Brzegu
 - **300-05-10** — STRAZ GRANICY CYPLA NA KOSZT KORONY - pilnuje ROBETT GLOVER (lancuch ogni). Prosba Galbarta: rozkaz dla Robetta PRZEZ GALBARTA jako pana Deepwood ('Deepwood sluzy Koronie, a nie Korona zabrala mi brata'). Koszt - GAWEN liczy (Kasa 3); sklad i liczba ludzi - Robett. · _kto:_ **KROL/SYMON -> GALBART -> ROBETT; GAWEN** · _zamyka:_ rozkaz przez Galbarta + stawka Gawena
 - **300-05-10** — OFERTA ROOSE'A BOLTONA: dwoch ludzi Dreadfortu od kamienia i rudy dla Korony na rok, za zold Korony (publicznie, na uczcie). Krol: 'odpowiem jutro'. Ruda jest w Wilczym Lesie (Grim). Do rozmowy 11-go o swicie razem z Boltonsgate. · _kto:_ **KROL + SYMON** · _zamyka:_ tak / nie / warunek **⚠ ZAMKNIETE 300-05-11 - PRZYJETE (SYMON, KROL): DWAJ LUDZIE DREADFORTU (KAMIEN; RUDA I PIEC) NA ROK, ZOLD KORONY; DO GRIMA W WILCZYM LESIE; PRZYJADA ~05-25; RACHUNKI - GAWEN.**
-- **300-05-10** — SANSA - POWIEDZIEC JEJ (obietnica): lord Ryswell pytal Symona, do kogo o reke Sansy (dla syna); Symon: do Krola, ale najpierw powie Sansie. Ryswell nie przy piwie - 'jutro albo za tydzien'. (Sansa wie juz od Jonelle i Niani, ze pytano.) · _kto:_ **SYMON -> SANSA** · _zamyka:_ Sansa wie od Symona
+- **300-05-10** — SANSA - POWIEDZIEC JEJ (obietnica): lord Ryswell pytal Symona, do kogo o reke Sansy (dla syna); Symon: do Krola, ale najpierw powie Sansie. Ryswell nie przy piwie - 'jutro albo za tydzien'. (Sansa wie juz od Jonelle i Niani, ze pytano.) · _kto:_ **SYMON -> SANSA** · _zamyka:_ Sansa wie od Symona **⚠ ZAMKNIETE 300-05-11 - SANSA WIE OD SYMONA (OBIETNICA DOTRZYMANA). SANSA: 'NIE CHCE JESZCZE'; KROLOWI POWIE SAMA, CZEGO CHCE.**
 - **300-05-10** — WSTRZYMANIE WYREBU NA SPORNEJ ZIEMI HORNWOOD/DREADFORT - obie strony, do pomiaru Cerwyna (zgoda Roose'a, rzut 59). Wyrownanie straty Dreadfortu, jesli ziemia okaze sie jego (slowo Symona; Roose czyta je jako slowo Korony). PISMO u Justycjariusza z pieczecia Korony i Boltona. Symon obiecal dac znac Donelli jeszcze dzis. · _kto:_ **SYMON + CERWYN + ROOSE + DONELLA** · _zamyka:_ pismo z dwiema pieczeciami; Donella wie **⚠ ZAMKNIETE 300-05-11 - POSTANOWIENIE TYMCZASOWE JUSTYCJARIUSZA Z PIECZECIAMI KORONY I BOLTONA, OD 11-GO; KOPIE DO HORNWOOD I DREADFORTU; W PROTOKOLE: DREADFORT ZGODZIL SIE SAM.**
 - **300-05-10** — ODNOGA DROGI DO MOSTU BLIZNIAKOW - odpowiedz Symona dla Waldera przez ser Perwyna: PO RATYFIKACJI (koniec VI/300), NA PISMIE. Do tego czasu tylko pomiar. Pismo dla Blizniakow - po ratyfikacji Edmure'a. · _kto:_ **SYMON -> WALDER FREY (przez Perwyna)** · _zamyka:_ pismo o odnodze po ratyfikacji
 - **300-05-10** — DACEY MORMONT - DWA PYTANIA OTWARTE: (1) DATA WYJAZDU poselstwa (Umber chce pojutrze; ludzie lady Maege z Wyspy - wloczniczka i znawca lodu - ~4 dni przez Wilczy Las); (2) POZNAC OSHE przed droga, w Winterfell. Dacey: 'jutro, po waszym swicie z Boltonem'. · _kto:_ **SYMON -> DACEY** · _zamyka:_ data wyjazdu + spotkanie Dacey z Osha **⚠ ZAMKNIETE 300-05-11 - WYJAZD 05-15; OSHA - DZIS WIECZOREM (MIEJSCE: OSHA WOLI STARA KUCHNIE, PO KOLACJI).**
@@ -1278,7 +1277,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zobowiazania` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-10] `dziennik`: 300-05-10 UCZTA, KONIEC - KTO JESZCZE: SAM KROL. Lordowie sie rozchodza albo spia przy stolach; Wielki Jon spiewa z Malym Jonem; Wyman wynoszony do kwatery. Robb siada obok Symona z kubkiem,…
 - [300-05-10] `dziennik`: 300-05-10 NOC - KONIEC DNIA (UCZTA). CO ZAMKNAL: noc 21; Grim - ruda (86); Harrion w Maidenpool (69) - Karstark wie (72); Torren - Brann Mokry (17); GAJ: Eddard nazwany; klacz Brana stanela …
 - [300-05-11] `dziennik`: 300-05-11 SWIT, WINTERFELL - SEN RZUT 50: noc krotka po uczcie, ale spokojna; zdrowie 100, zmeczenie 42->26, sytosc 100->80. POGODA RZUT 29: szaro, mgla i mzawka o swicie; JEDNA KONSEKWENCJA…
 - [300-05-11] `dziennik`: 300-05-11 SWIT, SOLAR KROLA - ROZMOWA: KROL + SYMON + ROOSE BOLTON (Cerwyn czeka za drzwiami z postanowieniem). Najpierw formalnosc, jak Roose chcial: POSTANOWIENIE TYMCZASOWE O WSTRZYMANIU …
@@ -1290,3 +1288,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - KRUK Z DEEPWOOD (Robett Glover) - RZUT 53 (prog 45): PIERWSZA KARTA MIESIECZNA ROBETTA PRZYSZLA. Lancuch ogni zachodu: punkty od Kamiennego Brzegu po Deepwood obsad…
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - ⚑ SYMON: (1) WEZWAC BRANNA MOKREGO DO WINTERFELL (kandydat Torrena na Wielkiego Zarzadce Kamiennego Brzegu). Bez rzutu (wezwanie Korony). KANAL: kruk Winterfell-Dee…
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - ⚑ SYMON ZATWIERDZA CHECKPOINT KAMIENNEGO BRZEGU: E0 wyjazd 50 weteranow (Corwin, Ulric) ~05-16, na miejscu ~05-28; E1 do ~06-15 palisada + wieza sygnalowa w lancuch…
+- [300-05-11] `dziennik`: 300-05-11 KOMNATA SANSY (cd.) - ⚑ SYMON DO SANSY: tak, Ryswell pytal o jej reke dla syna. OBIETNICA DOTRZYMANA - Sansa wie pierwsza, przed Krolem. Bez rzutu. SANSA kiwa glowa, spokojnie - wi…

@@ -322,7 +322,114 @@ def drukuj(zakres, r, m, d, wynik):
                 print("   - %s" % u["nazwa"])
                 print("     %s" % u["powod"])
         drukuj_przedsiebiorstwa(k["_kasa"])
+    if zakres in ("miesiac", "rok"):
+        rachunek_domu(L("ekonomia.json"), wynik, r, m, zakres)
     stopka(glo, ghi)
+
+
+def _pasuje(nazwa, slownik):
+    for k in slownik:
+        if nazwa.startswith(k):
+            return k
+    return None
+
+
+def rachunek_domu(E, wynik, r, m, zakres):
+    """CZTERY LICZBY DOMU (rozstrzygniecie gracza 300-05-05):
+    OBROT z dzwignia -> PRZYCHOD -> ZYSK -> WOLNA GOTOWKA,
+    plus warsztaty i zaklady kazdy osobno (sprzedaz i zysk)."""
+    R = E.get("_rachunek_domu")
+    k1 = wynik.get("KASA 1 - DOM HANDLOWY TALLY")
+    if not R or not k1:
+        return
+    k2 = wynik.get("KASA 2 - LENNO FOSY CAILIN", {"wiersze": []})
+    zysk_lo = sum(x[1] for x in k1["wiersze"])
+    zysk_hi = sum(x[2] for x in k1["wiersze"])
+
+    # obrot towarowy placowek (model, juz po korekcie skali)
+    tow_lo = tow_hi = 0.0
+    for (n, lo, hi, zr) in k1["obrot"]:
+        if n.startswith("obrot pieciu placowek"):
+            tow_lo, tow_hi = lo, hi
+    es_lo = es_hi = 0.0
+    warsztaty = []
+    prow_lo = prow_hi = 0.0
+    fin = []
+    for zrodlo_k, wiersze in (("Dom", k1["wiersze"]), ("Lenno", k2["wiersze"])):
+        for (n, lo, hi, zr) in wiersze:
+            if lo < 0 and hi < 0:
+                continue
+            w = _pasuje(n, R["warsztaty"])
+            if w:
+                mm = sum(R["warsztaty"][w]) / 2.0
+                warsztaty.append((zrodlo_k, w.upper(), lo / mm, hi / mm, lo, hi))
+                continue
+            if zrodlo_k != "Dom":
+                continue
+            e = _pasuje(n, R["handel_essos"])
+            if e:
+                mm = sum(R["handel_essos"][e]) / 2.0
+                es_lo += lo / mm
+                es_hi += hi / mm
+                continue
+            f = _pasuje(n, R["finanse"])
+            if f:
+                ss = sum(R["finanse"][f]["stopa"]) / 2.0
+                fin.append((R["finanse"][f]["co"], lo / ss, hi / ss))
+                prow_lo += lo
+                prow_hi += hi
+                continue
+            if n.startswith("zysk PIECIU placowek"):
+                continue
+            prow_lo += lo     # udzialy, ekstra zysk itp. - wchodza do przychodu po nominale
+            prow_hi += hi
+    ws_lo = sum(x[2] for x in warsztaty if x[0] == "Dom")
+    ws_hi = sum(x[3] for x in warsztaty if x[0] == "Dom")
+    prz_lo = tow_lo + es_lo + ws_lo + prow_lo
+    prz_hi = tow_hi + es_hi + ws_hi + prow_hi
+    pap_lo = sum(x[1] for x in fin)
+    pap_hi = sum(x[2] for x in fin)
+    obr_lo, obr_hi = prz_lo + pap_lo, prz_hi + pap_hi
+
+    mies = 12 if zakres == "rok" else 1
+    r0, r1 = R["reinwestycja"]
+    reinw_lo, reinw_hi = zysk_lo * r0, zysk_hi * r1
+    B = R.get("bufor", {})
+    buf = 0.0
+    v = parsuj(B.get("napelniany_w"))
+    if v and ((zakres == "miesiac" and (r, m) == (v[0], v[1])) or (zakres == "rok" and r == v[0])):
+        buf = float(B.get("cel", 0))
+    wol_lo = max(0.0, zysk_lo - zysk_lo * r1 - buf)
+    wol_hi = max(0.0, zysk_hi - zysk_hi * r0 - buf)
+    kw0, kw1 = R["kapital_wlasny"]
+
+    print("\n  " + "=" * 76)
+    print("  RACHUNEK DOMU - CZTERY LICZBY (rozstrzygniecie gracza 300-05-05)")
+    print("  " + "=" * 76)
+    print("  %-62s %s" % ("1. OBROT - towar i operacje przez Dom (z dzwignia)", fmt(obr_lo, obr_hi, 13)))
+    print("       w tym przychod (nizej)                                 %s" % fmt(prz_lo, prz_hi))
+    for (co, lo, hi) in fin:
+        print("       w tym %-50s %s" % (co[:50], fmt(lo, hi)))
+    print("       DZWIGNIA: obrot / kapital wlasny (%d-%d) = x%.1f .. x%.1f"
+          % (kw0, kw1, obr_lo / mies / kw1, obr_hi / mies / kw0))
+    print("  %-62s %s" % ("2. PRZYCHOD - sprzedaz, marze, prowizje, odsetki", fmt(prz_lo, prz_hi, 13)))
+    print("       towar pieciu placowek (Westeros)                       %s" % fmt(tow_lo, tow_hi))
+    print("       towar placowek Essos i Seagard                         %s" % fmt(es_lo, es_hi))
+    print("       sprzedaz warsztatow Domu                               %s" % fmt(ws_lo, ws_hi))
+    print("       prowizje, odsetki, udzialy                             %s" % fmt(prow_lo, prow_hi))
+    print("  %-62s %s" % ("3. ZYSK - wynik operacyjny po kosztach", fmt(zysk_lo, zysk_hi, 13)))
+    print("  %-62s %s" % ("4. WOLNA GOTOWKA - do dyspozycji pana", fmt(wol_lo, wol_hi, 13)))
+    print("       = zysk minus reinwestycja %d-%d%% (%s)"
+          % (r0 * 100, r1 * 100, fmt(-reinw_hi, -reinw_lo)))
+    if buf:
+        print("       minus BUFOR HALA %d (jednorazowo, %s) - od nastepnego miesiaca stoi pelny"
+              % (buf, B.get("napelniany_w")))
+    print("       towar wlosci placony moneta = kapital obrotowy, NIE odplyw (wraca w marzy)")
+    print("  " + "-" * 76)
+    print("  ### WARSZTATY I ZAKLADY - KAZDY OSOBNO (sprzedaz / zysk)")
+    for (zk, n, s0, s1, z0, z1) in warsztaty:
+        print("   %-5s %-26s sprzedaz %-20s zysk %s" % (zk, n[:26], fmt(s0, s1), fmt(z0, z1)))
+    print("   (Lenno = Kasa 2, Fosa Cailin; Dom = Kasa 1. Sprzedaz = zysk / srednia marza warsztatu - szacunek GM, do korekty.)")
 
 
 def zawijaj(txt, wciecie=7, szer=70):
@@ -343,7 +450,7 @@ def drukuj_przedsiebiorstwa(kasa):
     bo wiekszosc siedzi w obrocie placowek albo w aparacie jako koszt."""
     s = kasa.get("synteza")
     if s:
-        print("  ### SYNTEZA DOMU (%s)" % s.get("zrodlo", "?"))
+        print("  ### HISTORIA - SYNTEZA DOMU SPRZED KOREKTY SKALI (%s) - NIEAKTUALNA, patrz RACHUNEK DOMU" % s.get("zrodlo", "?"))
         print("      obrot na ~%d%% pulapu · zysk netto %d-%d/mies · wolna gotowka %d-%d/mies"
               % (s["obrot_na_procent_pulapu"], s["zysk_netto_mies_min"], s["zysk_netto_mies_max"],
                  s["wolna_gotowka_mies_min"], s["wolna_gotowka_mies_max"]))
@@ -352,7 +459,7 @@ def drukuj_przedsiebiorstwa(kasa):
             print("      " + zawijaj(s["uwaga"]))
     p = kasa.get("przedsiebiorstwa")
     if p:
-        print("  ### PRZEDSIEBIORSTWA - wiekszosc NIE MA osobnej liczby i siedzi w obrocie placowek")
+        print("  ### PRZEDSIEBIORSTWA - OPISY (liczby: blok WARSZTATY I ZAKLADY w RACHUNKU DOMU)")
         for z in p:
             print("   * %s" % z["nazwa"])
             for pole in ("stan", "w_ksiegach"):
@@ -383,44 +490,47 @@ def stopka(glo, ghi):
     print("\n" + "=" * 78)
     print("%-64s %s" % ("WSZYSTKIE KASY RAZEM", fmt(glo, ghi, 13)))
     print("=" * 78)
-    print("UWAGA: suma obejmuje WYLACZNIE pozycje ze zrodlem. Blok NIEZNANE i cala")
-    print("warstwa PRZEDSIEBIORSTW do niej NIE WCHODZA - wiekszosc zakladow nie ma")
-    print("osobnej liczby i siedzi w obrocie placowek albo w aparacie jako koszt.")
-    print("To jest cala wartosc tej tabeli: pokazuje, czego NIE policzono.")
+    print("UWAGA: suma obejmuje WYLACZNIE pozycje ze zrodlem; blok NIEZNANE do niej nie wchodzi.")
+    print("Warsztaty Domu i lenna maja WLASNE linie (sprzedaz i zysk) - patrz RACHUNEK DOMU.")
 
 
 def wolne(r, m, d):
-    """ILE JEST WOLNYCH SRODKOW - inne pytanie niz zysk."""
+    """ILE JEST WOLNYCH SRODKOW - skrzynia: bufor Hala + wolna gotowka narastajaca
+    co miesiac (zysk x (1 - reinwestycja)); rozstrzygniecie gracza 300-05-05."""
     E = L("ekonomia.json")
     S = E["_skrzynia"]
-    w = licz("miesiac", r, m)["KASA 1 - DOM HANDLOWY TALLY"]
-    olo = sum(x[1] for x in w["wiersze"])
-    ohi = sum(x[2] for x in w["wiersze"])
-    czesc = d / float(DNI_W_MIESIACU)
+    R = E.get("_rachunek_domu", {})
+    r0, r1 = R.get("reinwestycja", [0.25, 0.35])
+    v = parsuj(S["na_dzien"])
     print("=" * 78)
-    print("WOLNE SRODKI KASY 1 na %d-%02d-%02d" % (r, m, d))
+    print("SKRZYNIA KASY 1 na %d-%02d-%02d" % (r, m, d))
     print("=" * 78)
-    print("ZYSK TO NIE JEST SKRZYNIA. Ponizej SKRZYNIA, nie zysk.\n")
-    print("  %-56s %12.2f" % ("zebrane na %s" % S["na_dzien"], S["zebrane"]))
-    print("      (%s)" % S["zebrane_sklad"])
-    print("  %-56s %6.2f..%6.2f" % ("narosle operacyjnie od 1. do %d. dnia" % d, olo * czesc, ohi * czesc))
-    razem_lo = S["zebrane"] + olo * czesc
-    razem_hi = S["zebrane"] + ohi * czesc
+    print("  %-56s %12.2f" % ("BUFOR HALA (stoi pelny, nie do wydawania)", S.get("bufor", 0)))
+    lo, hi = float(S.get("wolna_min", 0)), float(S.get("wolna_max", 0))
+    print("  %-56s %s" % ("wolna gotowka na %s" % S["na_dzien"], fmt(lo, hi)))
+    # pelne miesiace po dniu bazowym + czesc biezacego
+    rr, mm = v[0], v[1] + 1
+    if mm > MIES_W_ROKU:
+        rr, mm = rr + 1, 1
+    while (rr * MIES_W_ROKU + mm) <= (r * MIES_W_ROKU + m):
+        w = licz("miesiac", rr, mm)["KASA 1 - DOM HANDLOWY TALLY"]
+        zl = sum(x[1] for x in w["wiersze"])
+        zh = sum(x[2] for x in w["wiersze"])
+        czesc = 1.0 if (rr, mm) != (r, m) else d / float(DNI_W_MIESIACU)
+        dl, dh = zl * (1 - r1) * czesc, zh * (1 - r0) * czesc
+        print("  %-56s %s" % ("+ wolna gotowka %d-%02d%s" % (rr, mm, "" if czesc == 1.0 else " (do %d. dnia)" % d), fmt(dl, dh)))
+        lo += dl
+        hi += dh
+        mm += 1
+        if mm > MIES_W_ROKU:
+            rr, mm = rr + 1, 1
     print("  " + "-" * 74)
-    print("  %-56s %6.2f..%6.2f" % ("W SKRZYNI DZIS", razem_lo, razem_hi))
-    print("\n  ZOBOWIAZANIA, KTORE JUZ STOJA:")
-    zlo = zhi = 0.0
-    for z in S["zobowiazania"]:
-        lo = float(z.get("kwota", z.get("min", 0)))
-        hi = float(z.get("kwota", z.get("max", 0)))
-        print("   - [%s] %-40s %6.2f..%6.2f" % (z["data"], z["co"][:40], lo, hi))
-        print("       %s" % z["status"])
-        zlo += lo
-        zhi += hi
-    print("  " + "-" * 74)
-    print("  %-56s %6.2f..%6.2f" % ("RAZEM ZOBOWIAZANIA", zlo, zhi))
-    print("=" * 78)
-    print("  %-56s %6.2f..%6.2f" % (">>> NAPRAWDE WOLNE", razem_lo - zhi, razem_hi - zlo))
+    print("  %-56s %s" % (">>> WOLNA GOTOWKA DZIS (do dyspozycji pana)", fmt(lo, hi)))
+    zob = [z for z in S["zobowiazania"] if not z.get("poza_suma")]
+    if zob:
+        print("\n  ZOBOWIAZANIA OTWARTE:")
+        for z in zob:
+            print("   - [%s] %s - %s" % (z["data"], z["co"], z["status"]))
     print("=" * 78)
 
 

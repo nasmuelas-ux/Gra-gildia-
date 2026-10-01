@@ -91,3 +91,24 @@ Rosną: **ruch** (trakt, grobla, brama, myto, waga) · **nowe rzeczy** (przewło
 Spadają: zima · wojna · zajęcie zdolności domu cudzą robotą bez zysku.
 
 **Nie rosną ani nie spadają przez ponowne przeliczenie.**
+
+---
+
+# RACHUNEK DOMU — CZTERY LICZBY (rozstrzygnięcie gracza 300-05-05, moc zapisu)
+
+> „Skala powinna zwalniać większą liczbę gotówki. Dom obraca towarem i operacjami o wartości X, przychód to X, zysk to X, wolna gotówka to X. Sytuacja, że wszystko rośnie, a nigdy nie ma gotówki, nie jest realna. Warsztaty rozdzielone oddzielnie, nie zmniejszane i nie wsadzane w obrót.” (gracz, 300-05-05)
+
+Liczy `python3 gra/kasa.py miesiac|rok` (blok **RACHUNEK DOMU**) i `python3 gra/kasa.py wolne` (skrzynia).
+
+| poziom | co to jest | IV/300 (smoki/mies.) | V/300 |
+|---|---|---|---|
+| **1. OBRÓT** | wszystko, co przechodzi przez Dom: przychód + papier w obiegu + fracht kryty + tranzyt Kompanii; **dźwignia ×2–7** na kapitale własnym 4–6 tys. | ~11 200 – 29 500 | ~11 300 – 29 900 |
+| **2. PRZYCHÓD** | sprzedaż towaru placówek (Westeros i Essos), sprzedaż warsztatów, prowizje, odsetki, udziały | ~6 100 – 12 500 | ~6 200 – 12 700 |
+| **3. ZYSK** | wynik operacyjny po kosztach (kasa.py) | ~1 080 – 2 590 | ~1 100 – 2 640 |
+| **4. WOLNA GOTÓWKA** | zysk minus reinwestycja 25–35%; bufor Hala 1000 napełniony w IV i stoi | 0 – 945 (po buforze) | **~720 – 1 980** |
+
+- **Towar włości płacony monetą (40–90/mies.) to KAPITAŁ OBROTOWY**, nie odpływ: wraca przy sprzedaży w marży placówek.
+- **Warsztaty i zakłady — każdy osobno** (sprzedaż i zysk): jubilerski (bursztyn Marra), papiernia, warzelnia i solarnia, bednarnia, atelier Miry, wędzarnia, dom audytowy, wydawnictwo (od VII); w lennie: zielarnia, szkoła, lecznica. Sprzedaż = zysk / marża warsztatu.
+- **Parametry (E — szacunek GM, do korekty przez gracza):** marże warsztatów 20–70% wg rodzaju; Essos 12–16%; papier 2–3%/mies., ubezpieczenie 1,5–2,5%, prowizja Kompanii 3–5%; reinwestycja 25–35%.
+- Rocznie 300 (I–III bez korekty skali): zysk ~12 300 – 28 700, **wolna gotówka ~7 000 – 20 500**. Porządek zostaje: MANDERLY ≫ WINTERFELL (osobiście) > DOM TALLY.
+- Stara „synteza 299-09” (zysk 200–300, wolna 80–120/mies.) — **HISTORIA, nieaktualna**.

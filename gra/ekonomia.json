@@ -39,7 +39,7 @@
      "zrodlo": "EKONOMIA_BAZA.md: 261 za kwartal zimowy = 87/mies"
     },
     {
-     "nazwa": "bursztyn - warsztat Marra (segment mistrzowski)",
+     "nazwa": "WARSZTAT JUBILERSKI - bursztyn Marra (segment mistrzowski)",
      "typ": "przychod",
      "okres": "miesiac",
      "od": "300-01-01",
@@ -262,8 +262,8 @@
      "powod": "zysk i obrot placowek I-III/300 (symulacja ustalona) · ubezpieczenia frachtu (dzialaly od 299-10) · Czarny Zamek (wypisany osobno z powodem) · bursztyn (dziala, pasmo robocze 25-50). MAJA MOC ZAPISU. Zasada 43: liczba raz ustalona jest ustalona."
     },
     {
-     "nazwa": "⚠ SKUTEK GOTOWKOWY ZAPLATY W MONECIE ZA TOWAR WLOSCI",
-     "powod": "Od 300-03-15 lenno dostaje za swoj towar PIENIADZ, nie zapis. NIE ZMIENIA TO ZYSKU DOMU - towar byl kupowany zawsze i jego cena siedzi w marzy. ZMIENIA PRZEPLYW: 40-90 smokow MIESIECZNIE WYCHODZI ZE SKRZYNI DOMU w monecie. ⚠ A SKRZYNIA PO WYKUPIE 340 JEST PRZY ZERZE. To jest pierwszy miesiac, w ktorym obie te rzeczy dziela sie ta sama moneta."
+     "nazwa": "⚑ ZAPLATA ZA TOWAR WLOSCI W MONECIE - KAPITAL OBROTOWY (rozstrzygniete 300-05-05)",
+     "powod": "40-90/mies wychodzi w monecie do lenna i WRACA przy sprzedazy towaru (siedzi w marzy placowek). To nie jest odplyw wolnej gotowki - patrz RACHUNEK DOMU."
     },
     {
      "nazwa": "⚑ MARZEC DOMYKA SIE BEZ SPOZNIONEJ PARTII I BEZ TYKANIA RIVERRUN",
@@ -942,33 +942,39 @@
   }
  },
  "_skrzynia": {
-  "_opis": "STAN SKRZYNI I ZOBOWIAZANIA - to jest INNE PYTANIE NIZ ZYSK. 'Zysk to nie jest skrzynia.'",
-  "na_dzien": "300-03-11",
+  "_opis": "STAN SKRZYNI. Od 300-05-05 (rozstrzygniecie gracza): BUFOR 1000 stoi pelny od konca IV; WOLNA GOTOWKA narasta co miesiac = zysk x (1 - reinwestycja). Zysk to nie jest skrzynia - ale skrzynia jest z zysku.",
+  "na_dzien": "300-04-30",
   "zebrane": 345,
-  "zebrane_sklad": "95 w kasie + 110 zejscie ze stanow + 90 koniec zaliczkowania Korony + 50 ze sprzedazy kamieniczki",
+  "zebrane_sklad": "bufor Hala 1000 napelniony z wyniku IV; wolna gotowka z IV po buforze 0..945 (zysk IV x 0.65..0.75 minus 1000). Wczesniejsze zobowiazania (wykup 340, zasilenie przewloki) - zaplacone w III.",
   "zrodlo": "bilans_domu_tally_300_01, rachunek marca 300-03-11",
   "zobowiazania": [
    {
     "data": "300-03-30",
     "co": "WYKUP WEKSLI LUCANA",
     "kwota": 340,
-    "status": "zablokowane, termin pewny"
+    "status": "ZAPLACONE 300-03-30",
+    "poza_suma": true
    },
    {
     "data": "300-03-17/18",
     "min": 230,
     "max": 325,
     "co": "BEZZWROTNE ZASILENIE KASY 2 na przewloke",
-    "status": "po wspolnym przejsciu"
+    "status": "ZAPLACONE w III",
+    "poza_suma": true
    },
    {
     "data": "od 300-03-15",
     "min": 40,
     "max": 90,
     "co": "ZAPLATA LENNU ZA TOWAR WLOSCI - W MONECIE, co miesiac",
-    "status": "nowe od dzis"
+    "status": "KAPITAL OBROTOWY, nie odplyw (rozstrzygniecie 300-05-05) - poza suma zobowiazan",
+    "poza_suma": true
    }
-  ]
+  ],
+  "bufor": 1000,
+  "wolna_min": 0,
+  "wolna_max": 945
  },
  "_scalenie_kas_300_03_18": "300-03-18: ZNIESIONY PODZIAL NA KASE 1 (Dom Handlowy Tally) I KASE 2 (lenno Fosy Cailin). Jedna sakwa pana. KASA 3 (Skarb Polnocy) NIETKNIETA - to fisk krolewski, nie jego kieszen. Etykiety 'KASA 1' i 'KASA 2' zostaja w starszych zdarzeniach jako LINIE w jednej sakwie (zasada 4: zapisu sie nie wykresla). ⚠ RUBRYKA, KTORA MUSI PRZEZYC SCALENIE: NESTA ma w Domu draw 6 jel/mies ORAZ 1/3 netto z transakcji, ktore Symon sam zrodzil lub prowadzi, oraz podniesione udzialy core (297-02-04). Jej czesc jest ulamkiem NETTA DOMU - wiec netto Domu musi zostac policzalna linia w jednej sakwie, inaczej nie ma z czego liczyc jej trzeciej czesci. Scalenie kas nie przenosi wlasnosci.",
  "_void_300_03_30": "VOID: 'zold koronnego garnizonu w Cailin' (obciazenie z 300-03-11) - w Cailin NIGDY nie stanal zaden koronny czlowiek, nie bylo liczby ani dowodcy. Lenno nie zaplacilo z tego ani jelenia. Na Fosie stoi WLASNA druzyna domu (~50, Hendry) + Mchowe Jastrzebie (20) - to jest 'garnizon Fosy' 22/mies i nic wiecej.",
@@ -988,5 +994,109 @@
   "dotyczy": "PRZYCHODY (w tym zysk placowek z modelu). Koszty, obrot informacyjny, zdarzenia jednorazowe i pozycje 'bez_skali' - bez zmian.",
   "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26: 'Stare bilanse nie sa aktualne - mocno podkrecic i wyliczyc razy 2-3; dochod Korony tez 2-3 razy, bo sytuacja sie stabilizuje i Polnoc zaczyna sie pieniezyc.' Odczyt '2x3' jako widelki: dol x2, gora x3. MA MOC ZAPISU (zasada 43).",
   "uzasadnienie_w_swiecie": "Wojna skonczona, trakty i grobla otwarte, Wilk ogloszony i przyjmowany po nominale, jedna brama w komorach, Kompania Polnoc-Dorzecze, Essos przez Neste, wiosna 300. Polnoc przestaje byc niezmonetyzowana: to, co szlo w naturze, zaczyna isc w monecie."
+ },
+ "_rachunek_domu": {
+  "_opis": "CZTERY LICZBY DOMU: OBROT (z dzwignia) -> PRZYCHOD (sprzedaz i prowizje) -> ZYSK (wynik operacyjny) -> WOLNA GOTOWKA. Warsztaty i zaklady kazdy osobno: sprzedaz i zysk. Nic nie jest chowane w obrocie ani w aparacie.",
+  "od": "300-04-01",
+  "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-05-05: 'skala powinna zwalniac wieksza liczbe gotowki; podzial: obrot (dom obraca duzo wiekszymi kwotami, bo korzysta z dzwigni) / przychod / zysk / wolna gotowka; warsztaty rozdzielone oddzielnie, nie zmniejszane i nie wsadzane w obrot; sytuacja, ze wszystko rosnie, a nigdy nie ma gotowki, nie jest realna'. MOC ZAPISU. Parametry (marze, stopy, reinwestycja) - SZACUNEK GM (E), do korekty przez gracza.",
+  "warsztaty": {
+   "WARSZTAT JUBILERSKI": [
+    0.35,
+    0.5
+   ],
+   "PAPIERNIA WATA": [
+    0.25,
+    0.35
+   ],
+   "WARZELNIA SOLI I SOLARNIA": [
+    0.2,
+    0.3
+   ],
+   "BEDNARNIA DOMU": [
+    0.2,
+    0.3
+   ],
+   "ATELIER MIRY": [
+    0.3,
+    0.45
+   ],
+   "WEDZARNIA": [
+    0.2,
+    0.3
+   ],
+   "DOM AUDYTOWY TALLY": [
+    0.5,
+    0.7
+   ],
+   "WYDAWNICTWO DOMU TALLY": [
+    0.3,
+    0.4
+   ],
+   "zielarnia": [
+    0.3,
+    0.45
+   ],
+   "SZKOLA FOSY": [
+    0.6,
+    0.8
+   ],
+   "LECZNICA": [
+    0.25,
+    0.4
+   ]
+  },
+  "handel_essos": {
+   "PLACOWKA BRAAVOS": [
+    0.12,
+    0.16
+   ],
+   "PLACOWKA PENTOS": [
+    0.12,
+    0.16
+   ],
+   "PLACOWKA SEAGARD - przychod": [
+    0.12,
+    0.16
+   ]
+  },
+  "finanse": {
+   "WARSTWA KREDYTOWA": {
+    "stopa": [
+     0.02,
+     0.03
+    ],
+    "co": "papier w obiegu (weksle, listy kredytowe, rekojmie) - miesiecznie"
+   },
+   "ubezpieczenia frachtu": {
+    "stopa": [
+     0.015,
+     0.025
+    ],
+    "co": "fracht kryty ubezpieczeniem - miesiecznie"
+   },
+   "KOMPANIA POLNOC-DORZECZE": {
+    "stopa": [
+     0.03,
+     0.05
+    ],
+    "co": "tranzyt Kompanii koordynowany przez Dom - miesiecznie"
+   }
+  },
+  "kapital_wlasny": [
+   4000,
+   6000
+  ],
+  "kapital_wlasny_zrodlo": "majatek netto Domu 4000-6000 (spis_przedsiebiorstw_299_09, synteza) - bez korekty skali; dzwignia = obrot / kapital",
+  "reinwestycja": [
+   0.25,
+   0.35
+  ],
+  "reinwestycja_opis": "czesc zysku zostaje w Domu: wzrost placowek i warsztatow, przyrost towaru w obrocie, nowe placowki (Seagard). RESZTA JEST WOLNA.",
+  "bufor": {
+   "cel": 1000,
+   "napelniany_w": "300-04",
+   "opis": "BUFOR HALA 1000 (decyzja 300-04-26) - napelniony z wyniku IV/300; od V stoi pelny i nie zjada gotowki."
+  },
+  "towar_wlosci": "Zaplata lennu za towar wlosci (40-90/mies, w monecie) to KAPITAL OBROTOWY - wraca przy sprzedazy i siedzi w marzy. NIE jest odplywem wolnej gotowki."
  }
 }

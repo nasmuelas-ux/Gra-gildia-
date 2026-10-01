@@ -25,10 +25,9 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**80 otwartych** · **0 PRZETERMINOWANYCH** · 3 wraca dzis
+**79 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
 
 ### 🟡 WRACA DZIS
-- ZAWODY LUCZNICZE DZIEN PO UCZCIE (05-11, po odjezdzie Roose'a): Arya, Symon i ktos od lordow ('zeby zobaczyli, ze Starkowie strzel… · _kanal:_ dziedziniec Winterfell
 - KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. P… · _kanal:_ dziedziniec Winterfell
 - DACEY POZNAJE OSHE - dzis wieczorem (najlepiej stara kuchnia za piekarnia, po kolacji, przy ogniu - miejsce Oshy). Symon uprzedza … · _kanal:_ Winterfell
 
@@ -398,7 +397,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-05** — ROZMOWA Z OSHA O INNYCH - na prosbe Symona; ona: 'wieczorem, jak kucharz pusci, przy ogniu, nie w solarze'. Dzien nie ustalony. · _kto:_ **SYMON + OSHA** · _zamyka:_ rozmowa odbyta **⚠ ZAMKNIETE 300-05-05 - ROZMOWA W STAREJ KUCHNI: UMARLI (21), SKAD JEST (42), SPIEWACY (73), WLOCZNICZKA (53), JEZYKI, OSIADANIE, PRZYSIEGA, THENNOWIE. OSHA ZGODZI SIE MOWIC Z BRANEM - JESLI ON ZECHCE, W DZIEN, PRZY KIMS.**
 - **300-05-06** — ROOSE BOLTON - ROZMOWA O BOLTONSGATE (miasto panskie + prawo skladu za obie przystanie; regalia przy Boltonie, straz przy miescie). Roose na jedna noc: 10-go po poludniu - 11-go swit; pismo o przystaniach podpisze przy stole, rozmowa 11-go rano przed wyjazdem. · _kto:_ **KROL + SYMON + ROOSE** · _zamyka:_ rozmowa odbyta: tak / nie / warunek **⚠ ZAMKNIETE 300-05-11 (100): BOLTONSGATE - KARTA Z PIECZECIAMI KROLA I BOLTONA; KLAUZULA: 'PRAWA PRZECHODZA NA DZIEDZICA DREADFORTU Z PRAWEGO LOZA, I NA NIKOGO INNEGO, CHOCBY UZNANEGO' (TOBIN). PRZYSTANIE V-VIII ZA SWOJE; IMIONA PRZY WAGACH NA PISMIE.**
 - **300-05-06** — LOCKE - nie przyjedzie na ucztę: spor o pale z Wdowia Straznica (Justycjariusz, mediacja od 04-02) nierozstrzygniety. Podarek: skora foki. Do rozstrzygniecia: sprawa pali u Cerwyna (Justycjariusz) - przyspieszyc? ### 05-08 SYMON: sadzic PO UCZCIE, bez pospiechu (zwykly tryb). Cerwyn w objezdzie po uczcie, na miejscu sporu, mediacja najpierw; pisze sam do Locke'a, ze sprawa idzie zwyklym trybem. · _kto:_ **LOCKE / CERWYN (Justycjariusz)** · _zamyka:_ spor pali orzeczony albo zalagodzony
-- **300-05-06** — ZAWODY LUCZNICZE DZIEN PO UCZCIE (05-11, po odjezdzie Roose'a): Arya, Symon i ktos od lordow ('zeby zobaczyli, ze Starkowie strzelaja'). Arya mowi Krolowi. ### 05-06: SEDZIA - BRAN, z siodla (zgoda Symona); Bran pisze zasady. · _kto:_ **ARYA + SYMON + goscie** · _zamyka:_ zawody odbyte (rzut)
+- **300-05-06** — ZAWODY LUCZNICZE DZIEN PO UCZCIE (05-11, po odjezdzie Roose'a): Arya, Symon i ktos od lordow ('zeby zobaczyli, ze Starkowie strzelaja'). Arya mowi Krolowi. ### 05-06: SEDZIA - BRAN, z siodla (zgoda Symona); Bran pisze zasady. · _kto:_ **ARYA + SYMON + goscie** · _zamyka:_ zawody odbyte (rzut) **⚠ ZAMKNIETE 300-05-11 - 1. ARYA (5), 2. DACEY (4,5 + DOGRYWKA), 3. SYMON (4,5), 4. MALY JON (3); SEDZIA BRAN Z SIODLA. DACEY DAJE ARYI REKAWICE NA STALE.**
 - **300-05-07** — BECZKI PIWA Z ZIMOWEGO MIASTA NA UCZTE - trakt rozmyty ulewa (pogoda 11): dojada 05-08 zamiast 05-07. · _kto:_ **KASZTELAN** · _zamyka:_ piwo w piwnicach **⚠ ZAMKNIETE 300-05-08 - PIWO W PIWNICACH.**
 - **300-05-09** — KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. Po uczcie. · _kto:_ **SYMON + WIELKI JON** · _zamyka:_ pojedynek na kije odbyty (rzut)
 - **300-05-09** — ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku. Tallhart: pierwszy statek i pierwszy miesiac; reszte liczy z maesterem do zniw ('22 tys. korcy/mies. to pol Polnocy'). Kontrakt pisze GAWEN (Kasa 3); wchodzi w zycie, gdy Mance da slowo. Ilosc i cena - po rachunku maestera i slupie (zasada 43). · _kto:_ **GAWEN + TALLHART** · _zamyka:_ kontrakt na pismie z iloscia pierwszej dostawy
@@ -598,7 +597,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-05-11 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 26**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 32**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1284,7 +1283,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zobowiazania` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-11] `dziennik`: 300-05-11 ZBROJOWNIA (cd.) - SYMON DO ARYI: Polnoc potrzebuje kowali. Bez rzutu (jej odpowiedz - charakter). ARYA odklada rekawice. Rozumie od razu. Dluga cisza. 'Obiecales. Nie wyciagac. Ni…
 - [300-05-11] `dziennik`: 300-05-11 ZBROJOWNIA (cd.) - ⚑ SYMON: POTRZEBUJEMY WSZYSTKICH W WINTERFELL - wszystkich pieciu kowali z listy kuzni Harrenhalu, na umowie Korony (zold, rok), razem z dwoma dymarzami i gornik…
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - SYMON PISZE DO HOWLANDA REEDA W SPRAWIE KOSCI WILLAMA DUSTINA (wlasne pismo, bez rzutu): prosba o wskazanie miejsca kopca przy Wiezy Radosci w Czerwonych Gorach (Re…
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - SYMON PISZE DO KSIECIA OBERYNA MARTELLA PRZEZ NESTE (wlasne pismo, bez rzutu przy pisaniu). TRESC (slowa gracza): prosba o pomoc w odnalezieniu kosci poleglych przy…
@@ -1296,3 +1294,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-11] `dziennik`: 300-05-11 OBIAD (cd.) - ⚑ SYMON DO FLINTA Z PALCA: zaprasza na TARG W CAILIN - tran, skory fok; i KAMIEN - Fosa szuka kamienia daleko (zapis: mlyn stoi bez kamienia 04-13; baszta Przystani W…
 - [300-05-11] `FLINT_Z_PALCA`: 300-05-11 OBIAD (cd.) - ⚑ SYMON DO FLINTA Z PALCA: zaprasza na TARG W CAILIN - tran, skory fok; i KAMIEN - Fosa szuka kamienia daleko (zapis: mlyn stoi bez kamienia 04-13; baszta Przystani W…
 - [300-05-11] `dziennik`: 300-05-11 OBIAD (cd.) - SYMON WYSYLA POLECENIE DO FOSY (Garrick; zasada 42 - pan obsadza glowe, glowa obsadza reszte): podjac decyzje i wyslac kogos na Palec Flinta obejrzec lom granitu i us…
+- [300-05-11] `dziennik`: 300-05-11 POPOLUDNIE, DZIEDZINIEC LUCZNICZY - ZAWODY LUCZNICZE PO UCZCIE. Szare slonce, lekki wiatr z zachodu. Widzowie: Krol, Wielki Jon, lady Maege, Wyman (w krzesle, z dzbanem), Glover, T…

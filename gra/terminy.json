@@ -4735,6 +4735,42 @@
    "wraca": "300-06-15",
    "zamyka": "odpowiedz Skagos albo cisza do terminu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "GORNICY - PYTANIE PRZY UCZCIE 05-10: Krol pyta lordow wprost (Umber, Karstark, Flintowie, Dustin, Ryswell, Glover, klany), kto ma ludzi od kamienia i kruszcu.",
+   "kto": "KROL -> LORDOWIE",
+   "kanal": "uczta w Winterfell",
+   "wraca": "300-05-10",
+   "zamyka": "lista ludzi od kruszcu (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "LIST DO EDMURE'A: gornicy i dymarze z Harrenhalu (przez ser Robina Rygera) - do rekonesansu zelaza na Polnocy, na umowie Korony.",
+   "kto": "SYMON (w imieniu Krola) -> EDMURE",
+   "kanal": "kruk Winterfell-Riverrun (wieczor 04-30)",
+   "wraca": "300-05-11",
+   "zamyka": "odpowiedz Edmure'a (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "LIST DO GARRICKA (Fosa): kto z ludzi zelaza bagiennego i torfiarni pojdzie w gory z GRIMEM OD DYMARKI jako przewodnik/rudnik; Orbelo/Vard Kilof - czy znaja gornika.",
+   "kto": "SYMON -> GARRICK",
+   "kanal": "kruk Winterfell-Fosa (wieczor 04-30)",
+   "wraca": "300-05-04",
+   "zamyka": "imie czlowieka z Fosy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "NESTA - PROBIERCA I GORNIK Z BRAAVOS na umowie Korony (przy nastepnym liscie do Braavos).",
+   "kto": "SYMON -> NESTA",
+   "kanal": "list przez Fose-Braavos",
+   "wraca": "300-06-15",
+   "zamyka": "odpowiedz Nesty",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

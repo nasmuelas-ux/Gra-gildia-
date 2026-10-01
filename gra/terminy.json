@@ -4582,6 +4582,42 @@
    "wraca": "300-05-10",
    "zamyka": "checkpoint na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-28",
+   "co": "ZARZADCY SZUKAJA LUDZI OD KRUSZCU: kasztelan (Winterfell, domena) i burmistrz Oswyn Miarka (Zimowe Miasto) - gornicy, rudnicy, dymarze, kamieniarze, ktokolwiek kopal albo wytapial.",
+   "kto": "KASZTELAN + BURMISTRZ",
+   "kanal": "w zamku / Zimowe Miasto",
+   "wraca": "300-04-30",
+   "zamyka": "lista ludzi (rzut - czy ktos sie znajdzie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-28",
+   "co": "LUWIN - ARCHIWUM WINTERFELL: stare kopalnie, sztolnie Pierwszych Ludzi, kamieniolomy, zrodla (goraca woda - siarka/miedz?), czynsze placone 'w zelazie'.",
+   "kto": "LUWIN",
+   "kanal": "w zamku",
+   "wraca": "300-05-01",
+   "zamyka": "wypis z archiwum (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-28",
+   "co": "REKONESANS ZELAZA W KLANACH GORSKICH - list Krola do wodzow (Wull, Norrey, Liddle, Flint, Burley, Harclay) + czlowiek od kruszcu znaleziony przez zarzadcow.",
+   "kto": "KROL -> WODZOWIE KLANOW + czlowiek od kruszcu",
+   "kanal": "jezdziec w gory (po znalezieniu czlowieka)",
+   "wraca": "300-05-25",
+   "zamyka": "meldunek z gor: gdzie, co, ile (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-28",
+   "co": "ANALIZA KRUSZCOW DOMENY KROLA (Winterfell, Wilczy Las, Zimowe Miasto, okolice) - nie tylko zelazo: miedz, olow, siarka, kamien, glina, sol. Na podstawie archiwum Luwina i ludzi od kruszcu.",
+   "kto": "LUWIN + czlowiek od kruszcu + kasztelan",
+   "kanal": "w domenie",
+   "wraca": "300-05-20",
+   "zamyka": "mapa znalezisk domeny (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

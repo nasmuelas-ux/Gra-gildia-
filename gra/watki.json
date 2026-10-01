@@ -6532,6 +6532,11 @@
    "id": "delegacje",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "zasady_krola",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

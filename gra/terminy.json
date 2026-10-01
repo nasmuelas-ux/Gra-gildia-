@@ -4699,6 +4699,24 @@
    "wraca": "300-05-04",
    "zamyka": "odpowiedz Miry - data drogi",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "DARY NA UCZCIE 05-10 (po rozmowie w cztery oczy, z powodem): UMBER - kontrakt Korony na zaopatrzenie Muru; CERWYN - Korona placi objazd Justycjariusza + zastepce, miejsce wychowanka w szkole Krola; GLOVER - kontrakt na drewno dla eskadry z Deepwood + Galbart przedstawia Larence'a Krolowi przy gaju.",
+   "kto": "KROL + SYMON -> UMBER, CERWYN, GLOVER",
+   "kanal": "uczta w Winterfell",
+   "wraca": "300-05-10",
+   "zamyka": "dary ogloszone, reakcje (rzuty przy rozmowach)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "GAWEN - WYCENA DAROW Z KASY 3: kontrakt Umbera na kolumny Muru, objazd Justycjariusza + zastepca, kontrakt drewna dla eskadry z Deepwood - stawki z ksiegi, przed uczta.",
+   "kto": "GAWEN",
+   "kanal": "w zamku",
+   "wraca": "300-05-08",
+   "zamyka": "trzy stawki na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

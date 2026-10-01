@@ -18,12 +18,13 @@
 | **Bolton** | Dreadfort | Roose | ~1000–1500 **E** | karna, milcząca piechota | **kłania się póki się opłaca** |
 | **Karstark** | Karhold | Rickard | ~1000–1300 **E** | martialny, krew Starków | odzyskany → wierny (marszałek wschodu) |
 | **Ryswell** | Rills | Rodrik | ~1000 **E** | **najlepsza JAZDA Północy** | krwią spleciony z Dreadfortem |
-| **Glover** | Deepwood Motte | Galbart/Robett | ~1000 **E** | solidna piechota | lojalny (rada funkcyjna) |
+| **Glover** | Deepwood Motte | Galbart/Robett | pobór ~1000; wojna 700 → 480; drużyna 60 + 40 Robetta (łańcuch ogni); rycerzy 3 **G (Galbart 300-05-12)** | solidna piechota, dobrzy łucznicy | lojalny (rada funkcyjna) |
 | **Reed** | Greywater Watch | Howland | ~1000+ **E, niska pewność** | krannogowie — partyzantka, niepoliczalni, ukryci | **wierny do kości** |
-| **Tallhart** | Torrhen's Square | Helman | ~600–800 **E** | umiarkowany | lojalny |
+| **Tallhart** | Torrhen's Square | Helman | pobór ~700 (po wojnie mniej); wojna 600 → 430; drużyna 40; rycerzy 2; 3 barki **G (Helman 300-05-09/12)** | umiarkowany | lojalny |
 | **Dustin** | Barrowton | Barbrey | wystawiła **600 / wróciło ~400** **F** | miasto duże, ziemia pusta; piechota | przechylona ku nam — lecz **nie ostrze na Dreadfort** |
 | **Mormont** | Wyspa Niedźwiedzia | Maege | ~300–400 **E** | zajadli, w tym kobiety | wierny |
 | **Cerwyn** | Castle Cerwyn | Medger | ~300 / stracił 1/3 → ~200 **F** | blisko Winterfell | wierny (Justycjariusz) |
+| **Tally** (lenno Fosy Cailin) | Fosa Cailin | Symon | STALI: drużyna Domu ~50 (Hendry; cel 100) + Mchowe Jastrzębie 20 (Kessel) + przyboczna 20 (Sten; 10 przy Symonie, 10 przy Mirze) = **~90 F**. POBÓR: brak spisu - **~600–800 E** (z 15–20 tys. dusz, miarą Glovera ~1 włócznia na 25 dusz); spis przy ruszeniu - Osric | bagienni: przewoźnicy, flisacy, ludzie grobli - woda, nie pole bitwy | własne lenno Namiestnika |
 | **Klany gór** (Wull, Norrey, Liddle, Flint, Burley, Harclay) | Góry | wodzowie | łącznie ~1000–2000 **E** | zajadli górale | wierni **osobiście** Starkowi |
 | **Hornwood** | Hornwood | **lord LARENCE HORNWOOD** (legitymizowany 299-08-04; kurator Galbart Glover; zarządza lady Donella do jego przybycia) | ~kilkuset **E** | osłabiony, pan małoletni | **ma pana — spór o wyrąb z Dreadfortem u Justycjariusza** |
 | Drobni (Locke, Slate, Stout, Woolfield, Flint z Widow's Watch, Lake…) | rozproszone | — | łącznie ~1000–1500 **E** | mieszani | w większości lojalni |

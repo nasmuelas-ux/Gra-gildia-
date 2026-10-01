@@ -4681,6 +4681,15 @@
    "wraca": "300-05-30",
    "zamyka": "karta na pismie do reki Wymana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-29",
+   "co": "BARROWTON - PRAWO SKLADU dla lady Barbrey Dustin: rozmowa w cztery oczy przy uczcie 05-10, potem ogloszenie z powodem ('Polnoc pamieta o tych, ktorzy zlozyli najwieksze poswiecenia'); pismo z pieczecia.",
+   "kto": "KROL -> BARBREY DUSTIN",
+   "kanal": "uczta w Winterfell",
+   "wraca": "300-05-10",
+   "zamyka": "nadanie ogloszone; reakcja Barbrey (rzut przy rozmowie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

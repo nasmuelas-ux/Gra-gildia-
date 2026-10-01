@@ -228,3 +228,21 @@ Trzy dni temu odebrałem własnemu domowi budowę grobli, bo **bramy królestwa 
 > **Bo udział w dochodzie dziedziczy się bez sporu. Współwłasność ziemi dzieli się przy każdym pogrzebie.**
 
 Mieszczanin dostaje, jak wszędzie: **wieczystą dzierżawę, nie własność.**
+
+
+---
+
+## ⚑ ZASADA NADAŃ MIEJSKICH I PRAW SKŁADU — 300-04-29 (Namiestnik; Król TAK)
+
+1. **Każde nadanie ma POWÓD, wypisany w piśmie i powiedziany przy wszystkich** — żeby inni widzieli, że to nie jest „za nic”.
+2. **Miasto i prawo składu nadaje się tam, GDZIE SĄ LUDZIE I POMYSŁ GOSPODARCZY** — nie jako ozdobę.
+3. **Przed publicznym wyróżnieniem — rozmowa w cztery oczy** z obdarowanym.
+4. **W mieście pańskim regalia przy panu, straż miejska przy mieście** (burmistrz, ława, rok i dzień, wolność rzemiosła); **klucze Korony bez zmian** (komora liczy obie kolumny).
+
+| nadanie | komu | POWÓD (w piśmie) |
+|---|---|---|
+| **Boltonsgate** — miasto portowe + prawo składu (za budowę obu przystani) | Roose Bolton | jeden z największych wasali Korony i zasługi wojenne |
+| **Karport** — miasto portowe + prawo składu | Rickard Karstark | ziemie kluczowe dla rozwoju (Wschodnia Strażnica, drewno, port wschodu); poświęcenie i trud wojny |
+| **Wilcza Nora** dziedzicznie + honor przy uczcie (+ zamiar Banku Północy) | Wyman Manderly | poświęcenia dla królestwa; Biały Port — najlepiej rozwinięty obszar królestwa |
+| **Prawo składu w Barrowton** | lady Barbrey Dustin | jedyne realne miasto poza Białym Portem; nieocenione wsparcie i poświęcenia dla Starków i Północy — **„Północ pamięta o tych, którzy złożyli największe poświęcenia.”** |
+| (Prawo składu Cailin — nadane przed Radą ~300-03-30) | miasto Cailin / Tally | wniosek miasta; brama Przesmyku |

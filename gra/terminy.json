@@ -4626,7 +4626,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-05",
    "zamyka": "decyzja: budowniczy + budzet + data startu",
-   "status": "zmienione 300-04-29 (rzut 45): BUDUJE BOLTON; Korona daje miasto panskie z prawem skladu i karta (Boltonsgate)"
+   "status": "ZAMKNIETE 300-05-13 (porzadek GM) - ZASTAPIONE przez BOLTONSGATE (300-05-11, rzut 100): obie przystanie buduje Dreadfort V-VIII z wlasnego drewna; miasto przy ujsciu Placzacej Wody; klauzula prawego loza."
   },
   {
    "data": "300-04-29",
@@ -4680,7 +4680,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-30",
    "zamyka": "karta na pismie do reki Wymana",
-   "status": "otwarte - 05-10: Wyman odklada (6): 'nie przed rokiem Wilka' - karta 05-30 nie stanie z Manderlymi; zamiar trwa."
+   "status": "ODROCZONE 300-05-13 (porzadek GM) - bank przeniesiony na V/301 na warunkach Wymana (uczta 05-10, rzut 6; termin 301-05-01). Karta pisze sie przed V/301, nie do 05-30."
   },
   {
    "data": "300-04-29",

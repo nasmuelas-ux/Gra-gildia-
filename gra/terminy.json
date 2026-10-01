@@ -4158,7 +4158,7 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (04-22); kruk Winterfell-Deepwood Motte (04-22)",
    "wraca": "300-05-02",
    "zamyka": "plan Theona na stole",
-   "status": "otwarte"
+   "status": "zrobione 300-05-02 (96): trzy plaze, noca na piasku, ogien Gloverow, 20 na okret, eskadra Torrena zamyka ujscie, zalogi z wsi spalonych i rybacy Kamienistego Brzegu"
   },
   {
    "data": "300-04-21",
@@ -4356,7 +4356,7 @@
    "kanal": "kruk Winterfell-Bialy Port (04-26)",
    "wraca": "300-05-02",
    "zamyka": "plan Hala: co, gdzie, za ile (z ksiegi) + zgoda Owena na ksiazki pobozne",
-   "status": "otwarte"
+   "status": "zrobione 300-05-02: kalendarz 301 + tablica, spiewnik Polnocy, ksiegi pobozne; ceny ponizej smoka / ~1 / 2-3; pierwszy odpis do Glebokorzenia; oprawa - decyzja Miry"
   },
   {
    "data": "300-04-25",
@@ -4509,7 +4509,7 @@
    "kanal": "kruk Winterfell-Bialy Port (04-28)",
    "wraca": "300-05-02",
    "zamyka": "potwierdzenie komory BP",
-   "status": "otwarte"
+   "status": "zrobione 300-05-02 - komora BP potwierdza"
   },
   {
    "data": "300-04-27",
@@ -4536,7 +4536,7 @@
    "kanal": "slupy + kruki (po uchwale lawy)",
    "wraca": "300-05-02",
    "zamyka": "wezwanie wywieszone w czterech miastach; list do Nesty o farbiarzach i foluszniku",
-   "status": "otwarte"
+   "status": "zrobione 300-05-02 - wywieszone w Zimowym Miescie; odpisy krukiem na Fose, do BP i Barrowton; razem skup ekwipunku"
   },
   {
    "data": "300-04-27",
@@ -4572,7 +4572,7 @@
    "kanal": "w zamku / slupy",
    "wraca": "300-05-02",
    "zamyka": "helmy przetopione; skup ogloszony",
-   "status": "otwarte"
+   "status": "w toku 300-05-02 - kowal rozbiera helmy; skup ogloszony"
   },
   {
    "data": "300-04-28",
@@ -4797,6 +4797,15 @@
    "kanal": "kruk Winterfell-Stare Miasto (Cytadela), wylot 05-01",
    "wraca": "300-05-17",
    "zamyka": "odpowiedz Cytadeli (rzut): kto, kiedy, na jakich warunkach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-02",
+   "co": "ZAPROSZENIA NA UCZTE - DRUGA FALA: Bolton (list 'formalnosc'), Ryswell, Locke, Flint z Palca, Hornwood (Donella); imiona Freyow.",
+   "kto": "KROL",
+   "kanal": "kruki",
+   "wraca": "300-05-06",
+   "zamyka": "lista gosci pelna",
    "status": "otwarte"
   }
  ],

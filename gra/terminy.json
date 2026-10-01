@@ -4995,7 +4995,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-15",
    "zamyka": "decyzja: kto, ilu, za czyje",
-   "status": "otwarte - 05-11: SKLAD - Grim (prowadzi), Hobb Rdza, Tobbas, czlowiek kasztelana, + dwaj od Boltona (~05-25), + z Harrenhalu dwaj dymarze i gornik (~VII). Do decyzji: dymarki Korony / osadnicy / kto placi."
+   "status": "ZAMKNIETE 300-05-13 - DECYZJA SYMONA: robote bierze Korona; PLACI KORONA (Kasa 3, domena Starkow); ludzi zbiera sie z okolicy (Zimowe Miasto, wsie domeny). Dalej - terminy wykonawcze."
   },
   {
    "data": "300-05-10",
@@ -5229,6 +5229,33 @@
    "kanal": "przez Lucana (Dorzecze) + kruk Fosa-Winterfell",
    "wraca": "300-06-15",
    "zamyka": "meldunek w rekach Symona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-13",
+   "co": "RUDA W WILCZYM LESIE - NABOR Z OKOLICY. Ogloszenie na slupie w Zimowym Miescie i przez soltysow domeny (Gawen, 05-14): robota przy rudzie i dymarkach Korony w Czerwonym Strumieniu - kopacze rudy darniowej, nosiwody, ciesle (dachy na zrujnowanej wsi), pomocnicy przy piecu; zold dzienny z Kasy 3 wg stawki Gawena (zasada 43 - bez kwot z glowy). Szczegolnie wolani POTOMKOWIE ludzi, co 120 lat temu zeszli z Czerwonego Strumienia do Zimowego Miasta. RZUT na odzew (sprawa zewnetrzna: ludzie wolni).",
+   "kto": "GAWEN (slup, zold) + GRIM (kogo bierze)",
+   "kanal": "slup w Zimowym Miescie + soltysi domeny",
+   "wraca": "300-05-16",
+   "zamyka": "ilu sie zglosilo, imiennie u Gawena",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-13",
+   "co": "RUDA W WILCZYM LESIE - PIERWSZA EKIPA WYCHODZI do Czerwonego Strumienia: Grim (prowadzi), Hobb Rdza, Tobbas, czlowiek kasztelana + nabrani z okolicy; dachy, wegiel ze Smolnej Polany, odkopanie dwoch starych dymarek w Dolnym Borze. Dwaj ludzie Dreadfortu dolaczaja ~05-25; z Harrenhalu dymarze i gornik ~VII. Wlasni ludzie Korony - bez rzutu; rzut na pierwszy wytop.",
+   "kto": "GRIM",
+   "kanal": "Winterfell -> Wilczy Las (Czerwony Strumien)",
+   "wraca": "300-05-20",
+   "zamyka": "ekipa na miejscu, pierwsza dymarka odkopana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-13",
+   "co": "RUDA W WILCZYM LESIE - PIERWSZY WYTOP (E): lupa zelaza z rudy darniowej w odbudowanej dymarce; RZUT przy wytopie. Wynik - do Gawena (ksiega) i do kowala zamkowego (proba).",
+   "kto": "GRIM + Hobb + ludzie Dreadfortu",
+   "kanal": "poslaniec Wilczy Las-Winterfell",
+   "wraca": "300-06-15",
+   "zamyka": "pierwsza lupa zwazona i oceniona",
    "status": "otwarte"
   }
  ],

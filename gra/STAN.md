@@ -25,12 +25,11 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**77 otwartych** · **0 PRZETERMINOWANYCH** · 4 wraca dzis
+**76 otwartych** · **0 PRZETERMINOWANYCH** · 3 wraca dzis
 
 ### 🟡 WRACA DZIS
 - ZAWODY LUCZNICZE DZIEN PO UCZCIE (05-11, po odjezdzie Roose'a): Arya, Symon i ktos od lordow ('zeby zobaczyli, ze Starkowie strzel… · _kanal:_ dziedziniec Winterfell
 - KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. P… · _kanal:_ dziedziniec Winterfell
-- GENDRY ZYJE (Edmure 69): czeladnik kuzni Harrenhalu u ser Robina Rygera. OBIETNICA DLA ARYI: tylko wiedza - nie wyciagac, nie wspo… · _kanal:_ Winterfell
 - DACEY POZNAJE OSHE - dzis wieczorem (najlepiej stara kuchnia za piekarnia, po kolacji, przy ogniu - miejsce Oshy). Symon uprzedza … · _kanal:_ Winterfell
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
@@ -414,7 +413,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-10** — WSTRZYMANIE WYREBU NA SPORNEJ ZIEMI HORNWOOD/DREADFORT - obie strony, do pomiaru Cerwyna (zgoda Roose'a, rzut 59). Wyrownanie straty Dreadfortu, jesli ziemia okaze sie jego (slowo Symona; Roose czyta je jako slowo Korony). PISMO u Justycjariusza z pieczecia Korony i Boltona. Symon obiecal dac znac Donelli jeszcze dzis. · _kto:_ **SYMON + CERWYN + ROOSE + DONELLA** · _zamyka:_ pismo z dwiema pieczeciami; Donella wie **⚠ ZAMKNIETE 300-05-11 - POSTANOWIENIE TYMCZASOWE JUSTYCJARIUSZA Z PIECZECIAMI KORONY I BOLTONA, OD 11-GO; KOPIE DO HORNWOOD I DREADFORTU; W PROTOKOLE: DREADFORT ZGODZIL SIE SAM.**
 - **300-05-10** — ODNOGA DROGI DO MOSTU BLIZNIAKOW - odpowiedz Symona dla Waldera przez ser Perwyna: PO RATYFIKACJI (koniec VI/300), NA PISMIE. Do tego czasu tylko pomiar. Pismo dla Blizniakow - po ratyfikacji Edmure'a. · _kto:_ **SYMON -> WALDER FREY (przez Perwyna)** · _zamyka:_ pismo o odnodze po ratyfikacji
 - **300-05-10** — DACEY MORMONT - DWA PYTANIA OTWARTE: (1) DATA WYJAZDU poselstwa (Umber chce pojutrze; ludzie lady Maege z Wyspy - wloczniczka i znawca lodu - ~4 dni przez Wilczy Las); (2) POZNAC OSHE przed droga, w Winterfell. Dacey: 'jutro, po waszym swicie z Boltonem'. · _kto:_ **SYMON -> DACEY** · _zamyka:_ data wyjazdu + spotkanie Dacey z Osha **⚠ ZAMKNIETE 300-05-11 - WYJAZD 05-15; OSHA - DZIS WIECZOREM (MIEJSCE: OSHA WOLI STARA KUCHNIE, PO KOLACJI).**
-- **300-05-11** — GENDRY ZYJE (Edmure 69): czeladnik kuzni Harrenhalu u ser Robina Rygera. OBIETNICA DLA ARYI: tylko wiedza - nie wyciagac, nie wspominac jej. Powiedziec Aryi. · _kto:_ **SYMON -> ARYA** · _zamyka:_ Arya wie
+- **300-05-11** — GENDRY ZYJE (Edmure 69): czeladnik kuzni Harrenhalu u ser Robina Rygera. OBIETNICA DLA ARYI: tylko wiedza - nie wyciagac, nie wspominac jej. Powiedziec Aryi. · _kto:_ **SYMON -> ARYA** · _zamyka:_ Arya wie **⚠ ZAMKNIETE 300-05-11 - ARYA WIE (OBIETNICA DOTRZYMANA: TYLKO WIEDZA, JEJ IMIE NIE PADLO).**
 - **300-05-11** — DWAJ LUDZIE DREADFORTU (kamien; ruda i piec) - przyjazd do Winterfell i do Grima w Wilczym Lesie. Rok, zold Korony (Gawen). · _kto:_ **ROOSE BOLTON -> GRIM** · _zamyka:_ obaj u Grima
 - **300-05-11** — DACEY POZNAJE OSHE - dzis wieczorem (najlepiej stara kuchnia za piekarnia, po kolacji, przy ogniu - miejsce Oshy). Symon uprzedza Oshe. · _kto:_ **SYMON -> OSHA + DACEY** · _zamyka:_ spotkanie odbyte
 - **300-05-11** — BRANN MOKRY - WEZWANIE DO WINTERFELL (kandydat na Wielkiego Zarzadce Kamiennego Brzegu; nie czyta, liczy na wezlach). Kanal: kruk Winterfell-Deepwood + jezdziec lancucha ogni Robetta. · _kto:_ **SYMON -> BRANN MOKRY** · _zamyka:_ Brann w Winterfell
@@ -1277,7 +1276,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zobowiazania` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-10] `dziennik`: 300-05-10 NOC - KONIEC DNIA (UCZTA). CO ZAMKNAL: noc 21; Grim - ruda (86); Harrion w Maidenpool (69) - Karstark wie (72); Torren - Brann Mokry (17); GAJ: Eddard nazwany; klacz Brana stanela …
 - [300-05-11] `dziennik`: 300-05-11 SWIT, WINTERFELL - SEN RZUT 50: noc krotka po uczcie, ale spokojna; zdrowie 100, zmeczenie 42->26, sytosc 100->80. POGODA RZUT 29: szaro, mgla i mzawka o swicie; JEDNA KONSEKWENCJA…
 - [300-05-11] `dziennik`: 300-05-11 SWIT, SOLAR KROLA - ROZMOWA: KROL + SYMON + ROOSE BOLTON (Cerwyn czeka za drzwiami z postanowieniem). Najpierw formalnosc, jak Roose chcial: POSTANOWIENIE TYMCZASOWE O WSTRZYMANIU …
 - [300-05-11] `dziennik`: 300-05-11 SOLAR (cd.) - ⚑ SYMON: ZGODA NA KLAUZULE - Tobin wpisze do karty Boltonsgate: MIASTO I PRAWO SKLADU DZIEDZICZY DZIEDZIC DREADFORTU Z PRAWEGO LOZA. Bez rzutu (Krol kiwa glowa). TOBI…
@@ -1289,3 +1287,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - ⚑ SYMON: (1) WEZWAC BRANNA MOKREGO DO WINTERFELL (kandydat Torrena na Wielkiego Zarzadce Kamiennego Brzegu). Bez rzutu (wezwanie Korony). KANAL: kruk Winterfell-Dee…
 - [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - ⚑ SYMON ZATWIERDZA CHECKPOINT KAMIENNEGO BRZEGU: E0 wyjazd 50 weteranow (Corwin, Ulric) ~05-16, na miejscu ~05-28; E1 do ~06-15 palisada + wieza sygnalowa w lancuch…
 - [300-05-11] `dziennik`: 300-05-11 KOMNATA SANSY (cd.) - ⚑ SYMON DO SANSY: tak, Ryswell pytal o jej reke dla syna. OBIETNICA DOTRZYMANA - Sansa wie pierwsza, przed Krolem. Bez rzutu. SANSA kiwa glowa, spokojnie - wi…
+- [300-05-11] `dziennik`: 300-05-11 PRZEDPOLUDNIE - SYMON IDZIE DO ARYI POWIEDZIEC O GENDRYM (obietnica 04-13: tylko czy zyje; nie wyciagac; nie wspominac jej). Arya w zbrojowni, czysci rekawice Dacey, ktore dostala …

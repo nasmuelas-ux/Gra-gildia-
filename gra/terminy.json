@@ -4717,6 +4717,24 @@
    "wraca": "300-05-08",
    "zamyka": "trzy stawki na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "LUWIN - KRUCZARNIA: czy Winterfell ma ptaki na Skagos (do ktorego zamku)? Jesli nie - kanal przez Wdowia Straznice (Flintowie) albo lodzia z Karholdu.",
+   "kto": "LUWIN",
+   "kanal": "w zamku",
+   "wraca": "300-05-01",
+   "zamyka": "kanal na Skagos ustalony albo stwierdzony brak",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "LIST KROLA DO PANOW SKAGOS: przypomnienie przysiegi zlozonej Starkom; wezwanie do odpowiedzi NA PISMIE DO WYZNACZONEGO DNIA (kto rzadzi, czy przysiega stoi); daniny liczone dzis wedle zdolnosci, jak na Radzie. BEZ grozby w liscie - co z cisza, postanowi Krol.",
+   "kto": "KROL -> SKAGOS",
+   "kanal": "do ustalenia (kruk albo Wdowia Straznica/Karhold)",
+   "wraca": "300-06-15",
+   "zamyka": "odpowiedz Skagos albo cisza do terminu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

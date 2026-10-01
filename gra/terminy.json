@@ -5050,6 +5050,15 @@
    "wraca": "300-05-11",
    "zamyka": "tak / nie / warunek",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-10",
+   "co": "SANSA - POWIEDZIEC JEJ (obietnica): lord Ryswell pytal Symona, do kogo o reke Sansy (dla syna); Symon: do Krola, ale najpierw powie Sansie. Ryswell nie przy piwie - 'jutro albo za tydzien'. (Sansa wie juz od Jonelle i Niani, ze pytano.)",
+   "kto": "SYMON -> SANSA",
+   "kanal": "Winterfell",
+   "wraca": "300-05-11",
+   "zamyka": "Sansa wie od Symona",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

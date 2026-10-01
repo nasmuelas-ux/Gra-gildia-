@@ -28,7 +28,7 @@
 
 **Doktryna ustrojowa, obowiązująca:** **LORD NADAJE — MIASTO SĄDZI.**
 
-**⚠ CZEGO NIE MA: PRAWA SKŁADU.** Wniosek złożyło **samo miasto**, własnym pismem. Król obiecał 300-02-07 rozstrzygnąć je i sprawę garnizonu **przed Radą** — ale dopiero po piśmie miasta, nie Namiestnika. Pismo poszło; zegar ruszył.
+**⚑ PRAWO SKŁADU — NADANE PRZED RADĄ (~300-03-30), jak Król obiecał 300-02-07.** Wniosek złożyło samo miasto, własnym pismem. *(Poprawka 300-04-29 na wskazanie gracza: zapis urwał się na obietnicy; rozstrzygnięcie zapadło, pisarz go nie dopisał — dziura w księdze jest brakiem zapisu, nie zdarzenia, 300-03-15.)* Regale pana (doktryna miasta_polnocy.md); kwoty wpływu brak w zapisie.
 
 **⚠ CECHÓW NIE MA I NIE BĘDZIE** — nie z braku, lecz z nadania: **BRACTWO RZEMIOSŁA WOLNEGO**, `gra/bractwo_rzemiosla_wolnego.md`, nadane 300-02-28 na całe lenno. Miejsce cechu zajmują cztery filary: **Izba Miar i Standardów · Kasa Postępu · otwarty egzamin mistrzowski · Fundusz Samopomocy z cła jakości.** Do tego **azyl** dla wypchniętych przez obce cechy.
 

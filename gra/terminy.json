@@ -5365,6 +5365,15 @@
    "wraca": "300-05-15",
    "zamyka": "wyjechali",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-14",
+   "co": "LIST SYMONA DO EDMURE'A I LADY CATELYN (jeden kruk, dwa adresy) - SZEROKO O LORDACH DORZECZA: kto przysiega Riverrun, gdzie stoja garnizony Lannisterow, kto komu placi danine; uzasadnienie: SOJUSZ WOJSKOWY Polnocy i Dorzecza - wspolny obraz sytuacji; do tego Kompania i placowki Hala, ratyfikacja (koniec VI), droga Freyow. MAIDENPOOL - jeden wiersz wsrod wszystkich, bez imienia Harriona (rada Sansy: Edmure impulsywny). RZUT na odpowiedz przy powrocie.",
+   "kto": "SYMON -> EDMURE TULLY + LADY CATELYN",
+   "kanal": "kruk Winterfell-Riverrun (lancuch maesterski) - wylot 05-15 rano",
+   "wraca": "300-05-26",
+   "zamyka": "mapa lojalnosci Dorzecza od Riverrun (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

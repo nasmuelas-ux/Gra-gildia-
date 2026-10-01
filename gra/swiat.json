@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 5,
-  "dzien": 8,
+  "dzien": 9,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 47 (300-05-08) - pochmurno, sucho, wietrznie; dziedziniec obsycha do poludnia; kruki leca.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 19 (300-05-09) - zimny deszcz z wiatrem od rana; JEDNA KONSEKWENCJA: trakt z poludnia rozmiekl - Wyman (wozy, lektyka) dociera dopiero wieczorem zamiast rano; Umber od polnocy - przed poludniem, mokry i glosny.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 922,
+ "_dziennik_nota": 924,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

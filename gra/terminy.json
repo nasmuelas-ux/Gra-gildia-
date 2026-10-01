@@ -5275,6 +5275,24 @@
    "wraca": "300-05-16",
    "zamyka": "kazda z dziewieciu - zamknieta albo z nowa operacja",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-14",
+   "co": "LIST SYMONA DO LADY BARBREY DUSTIN - PROPOZYCJA: Korona oplaca straznikow ognia Barrowlandow z Kasy 3, wg tej samej stawki co wszystkich w lancuchu (imiennie, z kwitem); bez zobowiazania, ognie zostaja jej. Odchodzi od linii Krola z 04-11 ('do lady Dustin - nic') - jako PROPOZYCJA, nie zadanie. RZUT na odpowiedz przy powrocie (sprawa zewnetrzna).",
+   "kto": "SYMON -> LADY BARBREY DUSTIN",
+   "kanal": "kruk Winterfell-Barrowton (lancuch maesterski)",
+   "wraca": "300-05-18",
+   "zamyka": "odpowiedz lady Dustin (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-14",
+   "co": "JEDNA STAWKA DLA WSZYSTKICH STRAZNIKOW OGNIA - decyzja Symona 05-14 ('tym samym wszystkim powinnismy zaplacic'): GAWEN zestawia liste punktow lancucha (Gloverowie/Robett, Kamienny Brzeg, Dustinport/Donnel, Wyspa Niedzwiedzia/Maege, Barrowlandy jesli przyjmie) i jedna stawke z Kasy 3, imiennie, z kwitem. Kwoty z ksiegi Gawena (zasada 43). Wlasny czlowiek Korony - bez rzutu.",
+   "kto": "GAWEN (Skarb)",
+   "kanal": "Winterfell",
+   "wraca": "300-05-21",
+   "zamyka": "lista punktow + jedna stawka w ksiedze Skarbu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

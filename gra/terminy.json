@@ -5203,6 +5203,33 @@
    "wraca": "300-05-13",
    "zamyka": "rozmowa odbyta (rzut - co Osha powie)",
    "status": "zamkniete"
+  },
+  {
+   "data": "300-05-13",
+   "co": "KROK 1 - IMIE. WYSPA TWARZY (Oko Boga, Dorzecze) - CZLOWIEK Z FOSY. Rozkaz Symona 300-05-13 (decyzja gracza). PRZYKRYWKA (rada Brana): zbior do bibliotek Winterfell i Fosy o Dzieciach Lasu i Pakcie (projekt od 300-04-10) - 'zobaczyc drzewa, spisac, co widac'; ANI SLOWA O BRANIE. KRYTERIA: wierzy w starych bogow; umie lodz i wode; malomowny. WYBOR: GARRICK z WARRYNEM (krannogowie go szanuja) i KESSELEM (Mchowe Jastrzebie) - wlasni ludzie, bez rzutu (zasada 7, 12). W Dorzeczu: LUCAN (czlowiek Domu) - lodz na Oku Boga i przejscie. Koszt - z ksiegi Garricka (zasada 43: bez kwot).",
+   "kto": "GARRICK + WARRYN + KESSEL (Fosa)",
+   "kanal": "kruk Winterfell-Fosa (05-13 rano) i z powrotem",
+   "wraca": "300-05-17",
+   "zamyka": "imie czlowieka i dzien wyjscia z Fosy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-13",
+   "co": "KROK 2 - PRZYBICIE NA WYSPE TWARZY (E). Fosa -> Przesmyk -> Dorzecze do Lucana (~10 dni) -> lodz na Oku Boga. Rybacy od wiekow nie przybijaja - RZUT przy przybiciu (sprawa zewnetrzna: wyspa, woda, ludzie Dorzecza).",
+   "kto": "czlowiek z Fosy + LUCAN",
+   "kanal": "przez Lucana (Dorzecze)",
+   "wraca": "300-06-01",
+   "zamyka": "przybil albo nie - i wiadomo dlaczego",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-13",
+   "co": "KROK 3 - MELDUNEK Z WYSPY TWARZY (E): przez Lucana na Fose, kruk do Winterfell. Do rak Symona; tresc Branowi wedle uznania Symona.",
+   "kto": "czlowiek z Fosy -> LUCAN -> GARRICK -> SYMON",
+   "kanal": "przez Lucana (Dorzecze) + kruk Fosa-Winterfell",
+   "wraca": "300-06-15",
+   "zamyka": "meldunek w rekach Symona",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

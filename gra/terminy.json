@@ -4690,6 +4690,15 @@
    "wraca": "300-05-10",
    "zamyka": "nadanie ogloszone; reakcja Barbrey (rzut przy rozmowie)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-30",
+   "co": "LIST SYMONA DO MIRY: co robi i co sie dzieje; KIEDY PRZYJEDZIE do Winterfell (Rhona ~04-14: 'dwa, trzy tygodnie' do drogi).",
+   "kto": "SYMON -> MIRA (Bialy Port)",
+   "kanal": "kruk Winterfell-Bialy Port (wieczor 04-30)",
+   "wraca": "300-05-04",
+   "zamyka": "odpowiedz Miry - data drogi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

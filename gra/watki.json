@@ -4246,7 +4246,7 @@
    "id": "ramsay_bastard_dreadfort_watch_299_08",
    "tytul": "Ucho Willi na Ramsaya (bastard Boltona trzymany w Dreadfort poza zasiegiem oczu)",
    "status": "ZLECONY_299-08-11_watch",
-   "_dziennik_nota": 38,
+   "_dziennik_nota": 39,
    "filar": "RAMSAY - ucho Willi",
    "stan_watku": "ZYWY"
   },
@@ -6311,7 +6311,7 @@
   {
    "id": "przystanie_wschodu",
    "status": "otwarty",
-   "_dziennik_nota": 12
+   "_dziennik_nota": 13
   },
   {
    "id": "szkola_zimowa_drabina_kadr",

@@ -4639,11 +4639,20 @@
   },
   {
    "data": "300-04-29",
-   "co": "LIST KROLA DO ROOSE'A: przystan na Placzacej Wodzie buduje Dreadfort; Korona nadaje wokol niej MIASTO PANSKIE BOLTONA z PRAWEM SKLADU i KARTA MIEJSKA (burmistrz, lawa, rok i dzien, wolnosc rzemiosla) - 'Boltongate'; klucze Korony (komora liczy obie kolumny, pisarz Korony) bez zmian; uznanie: trzeci wasal Krola.",
+   "co": "LIST KROLA DO ROOSE'A (zmieniony 04-29): bez oferty na pismie - 'przy okazji uczty 10-go prosze o chwile, jest pismo o przystaniach do zamkniecia - formalnosc'. Roose i lady Walda zaproszeni z imienia (04-26).",
    "kto": "KROL -> ROOSE BOLTON",
    "kanal": "kruk Winterfell-Dreadfort (04-30)",
    "wraca": "300-05-06",
-   "zamyka": "odpowiedz Roose'a (rzut)",
+   "zamyka": "odpowiedz Roose: czy przyjedzie na ucztę (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-29",
+   "co": "ROZMOWA Z ROOSE BOLTONEM W WINTERFELL (po uczcie 05-10): OFERTA - jedno miasto panskie Boltona z karta (burmistrz, lawa, niezalezna straz miejska, rok i dzien, wolnosc rzemiosla) + jedno prawo skladu; W ZAMIAN - Dreadfort buduje OBIE przystanie (Placzaca Woda, Zlamana Galaz) za swoje; klucze Korony bez zmian; Korona pomaga zalozyc miasto (wzor karty, pisarze, Izba miar).",
+   "kto": "KROL + SYMON <-> ROOSE BOLTON",
+   "kanal": "w Winterfell, przy uczcie",
+   "wraca": "300-05-11",
+   "zamyka": "zgoda Roose'a albo jego warunki (rzut przy stole)",
    "status": "otwarte"
   }
  ],

@@ -4654,6 +4654,15 @@
    "wraca": "300-05-11",
    "zamyka": "zgoda Roose'a albo jego warunki (rzut przy stole)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-29",
+   "co": "KARPORT - NADANIE NA UCZCIE 05-10 (Krol, przy domach): miasto portowe panskie Karstarkow w Karholdzie z karta (burmistrz, lawa, niezalezna straz, rok i dzien, wolnosc rzemiosla) + PRAWO SKLADU; regalia przy Karstarku, straz przy miescie; klucze Korony; przystan na Ostatniej Rzece po siewach; pierwszy ladunek dla Wschodniej Straznicy przez Karport.",
+   "kto": "KROL -> RICKARD KARSTARK (przy uczcie)",
+   "kanal": "uczta w Winterfell",
+   "wraca": "300-05-10",
+   "zamyka": "nadanie oglaszane; pismo z pieczecia dla Karholdu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

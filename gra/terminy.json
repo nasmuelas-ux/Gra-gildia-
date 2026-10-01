@@ -3393,7 +3393,7 @@
    "kanal": "siatka Willi",
    "wraca": "300-05-10",
    "zamyka": "meldunek Willi - miejsce i warunki, albo 'nie da sie ustalic' i dlaczego",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-10 (Willa, rzut 69): HARRION ZYJE - MAIDENPOOL (zamek lorda Mootona, garnizon Lannisterow), w wiezy, nie w lochu; zdrowy, chudszy; od zimy NIE przenoszony; rachunek utrzymania rowny od miesiecy - znak Aryi: NIKT nie szykuje wymiany ani przenosin. Tylko wiedza - bez kontaktu (granica Krola). Do przekazania Rickardowi (obietnica Symona 299-11-01)."
   },
   {
    "data": "300-04-05",
@@ -4140,7 +4140,7 @@
    "kanal": "kruk Winterfell-Fosa (04-22) + zbiorczy",
    "wraca": "300-05-10",
    "zamyka": "pierwszy polow w stawach, liczba w meldunku",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-10 - Hakon (wlasny, przez zbiorczy Garricka): stawy wykopane, narybek szklistych wegorzy wpuszczony z wiosennym ciagiem; pierwszy odlow - koniec lata."
   },
   {
    "data": "300-04-21",
@@ -4383,7 +4383,7 @@
    "kanal": "kruk Winterfell-Fosa (04-26) + poslaniec przy grobli",
    "wraca": "300-05-10",
    "zamyka": "Reed przyjezdza, odpisuje, albo cisza (Szare Wody wedruja)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-05 - Reed odpisal (93): sam nie przyjedzie; przysyla dzieci, Jojena i Meere, ~koniec V."
   },
   {
    "data": "300-04-26",
@@ -4446,7 +4446,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-10",
    "zamyka": "nazwiska na stole Krola po odpowiedzi Torrena (~05-09); Kasztelan raczej z Winterfell",
-   "status": "otwarte"
+   "status": "otwarte - 05-10: Kasztelan obsadzony (Corwin, 05-02); WIELKI ZARZADCA - jedyny kandydat od Torrena: BRANN MOKRY (nie czyta - potrzebny pisarz). Decyzja Symona/Krola."
   },
   {
    "data": "300-04-26",
@@ -4473,7 +4473,7 @@
    "kanal": "kruk Winterfell-Fosa (04-27) + jezdziec Fosa-Dustinport - wylot 04-28 (pogoda)",
    "wraca": "300-05-10",
    "zamyka": "lista nazwisk od Torrena",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-10 (rzut 17, prog 45): JEDNA KONSEKWENCJA - Torren podaje JEDNO nazwisko, nie liste: BRANN MOKRY, starszy rybakow z Zatoki Kamieni - 'ludzie go sluchaja, przezyl trzy najazdy i nie wyjechal' - ALE NIE CZYTA I NIE PISZE, liczy na wezlach. Torren: 'Dajcie mu pisarza, a bedzie najlepszym, jakiego macie. Innego nie znam.' Na Kasztelana - nikogo (Corwin juz obsadzony)."
   },
   {
    "data": "300-04-26",
@@ -4635,7 +4635,7 @@
    "kanal": "slup Zimowego Miasta",
    "wraca": "300-05-10",
    "zamyka": "pierwsze zamowienie zlozone u rzemieslnikow, z ksiega",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-10 - pierwsze zamowienie zlozone na slupie Zimowego Miasta (Gawen + Rodrik, wlasni ludzie, bez rzutu): przeszywanice i wlocznie na pierwsze 300, ksiega zamowien otwarta; kolczugi - w tempie 1/3 monety rocznie."
   },
   {
    "data": "300-04-29",
@@ -4779,7 +4779,7 @@
    "kanal": "konno w Wilczy Las (wyjazd 05-02)",
    "wraca": "300-05-10",
    "zamyka": "meldunek Grima (rzut): jest ruda / nie ma / co sie stalo z dymarkami",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-10 (rzut 86, prog 45): JEST RUDA. Czerwony Strumien - woda rdzawa, ruda darniowa w lakach na mile; Dolny Bor - stare dymarki (cztery piece, zuzel po kolana); Smolna Polana - smolarze i wegiel drzewny. I WIECEJ: w skarpie nad Czerwonym Strumieniem - ZYLA CZERWONEGO ZELAZIAKA, plytko. CO SIE STALO 120 lat temu (starzy ludzie): ciezka zima i zaraza, wies wymarla do polowy, reszta zeszla do Zimowego Miasta - 'nikt nie zabronil, po prostu nie bylo komu'. Grim: 'Na trzy, cztery dymarki od zaraz - wegiel jest, ruda jest, ludzi nie ma.' Wraca do Winterfell ~05-11 (z Hobbem i Tobbasem)."
   },
   {
    "data": "300-05-01",
@@ -4986,6 +4986,24 @@
    "kanal": "Winterfell (uczta) -> kruk Winterfell-Torrhen's Square",
    "wraca": "300-06-15",
    "zamyka": "kontrakt na pismie z iloscia pierwszej dostawy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-10",
+   "co": "RUDA W WILCZYM LESIE (Grim, 86): Czerwony Strumien - ruda darniowa + plytka zyla czerwonego zelaziaka; Dolny Bor - stare dymarki; Smolna Polana - wegiel. Brakuje LUDZI. Do decyzji: dymarki Korony / osadnicy / kto prowadzi (Grim + Hobb Rdza + Tobbas).",
+   "kto": "SYMON + KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-15",
+   "zamyka": "decyzja: kto, ilu, za czyje",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-10",
+   "co": "HARRION - POWIEDZIEC RICKARDOWI KARSTARKOWI (obietnica Symona 299-11-01: 'powiem wam, takze jesli wiadomosc bedzie zla'): zyje, Maidenpool, wieza, zdrowy, nie przenoszony, nikt nie szykuje wymiany. Krol obiecal mu rozmowe 'po gaju'.",
+   "kto": "SYMON (+ KROL) -> KARSTARK",
+   "kanal": "Winterfell, uczta",
+   "wraca": "300-05-10",
+   "zamyka": "Karstark wie",
    "status": "otwarte"
   }
  ],

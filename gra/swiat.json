@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 5,
-  "dzien": 9,
+  "dzien": 10,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 19 (300-05-09) - zimny deszcz z wiatrem od rana; JEDNA KONSEKWENCJA: trakt z poludnia rozmiekl - Wyman (wozy, lektyka) dociera dopiero wieczorem zamiast rano; Umber od polnocy - przed poludniem, mokry i glosny.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 87 (300-05-10) - PIEKNY DZIEN: slonce od switu, cieplo, bez wiatru; gaj suchy po deszczach, liscie czardrzewa czerwone w sloncu.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 938,
+ "_dziennik_nota": 940,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

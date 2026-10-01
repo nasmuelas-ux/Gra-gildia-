@@ -5077,6 +5077,15 @@
    "wraca": "300-06-30",
    "zamyka": "pismo o odnodze po ratyfikacji",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-10",
+   "co": "DACEY MORMONT - DWA PYTANIA OTWARTE: (1) DATA WYJAZDU poselstwa (Umber chce pojutrze; ludzie lady Maege z Wyspy - wloczniczka i znawca lodu - ~4 dni przez Wilczy Las); (2) POZNAC OSHE przed droga, w Winterfell. Dacey: 'jutro, po waszym swicie z Boltonem'.",
+   "kto": "SYMON -> DACEY",
+   "kanal": "Winterfell",
+   "wraca": "300-05-11",
+   "zamyka": "data wyjazdu + spotkanie Dacey z Osha",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

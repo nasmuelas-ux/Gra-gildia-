@@ -3272,7 +3272,7 @@
    "co": "PROWIZJA MISTRZA HANDLU OD DREWNA - stala i jawna (uchwala Handlu 300-04-01). WYSOKOSC Z KSIEGI, nie z glowy: kancelista Wymana + HAL/TAM licza z kosztu obslugi (waga, skladanie, zaladunek, ksiega). Ogloszona na slupie i w kazdej przystani, zanim ruszy pierwsza sprzedaz po odwilzy.",
    "kto": "WYMAN (kancelista) + HAL/TAM",
    "kanal": "kruk Bialy Port-Fosa",
-   "wraca": "300-04-30",
+   "wraca": "300-05-30",
    "zamyka": "prowizja ogloszona na pismie",
    "status": "otwarte"
   },
@@ -3586,10 +3586,10 @@
   },
   {
    "data": "300-04-06",
-   "co": "SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina. ### +04-27: WELNA (polowa niesprzedana 04-24) + reszta skor -> WOZEM DO BIALEGO PORTU: zaladunek 04-29, w BP ~05-10, targ ~05-12; cena = cena nabrzeza, nie wyzsza. ### 04-28: drogi rozmiekle - wozy ruszaja 05-01, BP ~05-12, targ ~05-14.",
+   "co": "SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina. ### +04-27: WELNA (polowa niesprzedana 04-24) + reszta skor -> WOZEM DO BIALEGO PORTU: zaladunek 04-29, w BP ~05-10, targ ~05-12; cena = cena nabrzeza, nie wyzsza. ### 04-28: drogi rozmiekle - wozy ruszaja 05-01, BP ~05-12, targ ~05-14. ### 04-30 ulewa: wozy 05-02, targ BP ~05-15.",
    "kto": "GAWEN + pisarze Skarbu; HERWIN (Cailin), WYMAN (Bialy Port)",
    "kanal": "trakt / kruk Winterfell-Fosa, kruk Winterfell-Bialy Port",
-   "wraca": "300-05-14",
+   "wraca": "300-05-15",
    "zamyka": "pierwszy targ w kazdym z dwoch miast, z ksiega",
    "status": "otwarte"
   },
@@ -4365,7 +4365,7 @@
    "kanal": "kruk Winterfell-Bialy Port (04-26)",
    "wraca": "300-04-30",
    "zamyka": "odpowiedz Theomore'a (rzut) - tak/nie i lista ksiag",
-   "status": "otwarte"
+   "status": "zrobione 300-04-30 (27): tak; NAJPIERW BIBLIOTEKA - pierwszy odpis do Glebokorzenia przed sprzedaza; lista: kroniki Pierwszych Ludzi, zielnik Polnocy, Kodeks"
   },
   {
    "data": "300-04-25",
@@ -4527,7 +4527,7 @@
    "kanal": "w zamku / Zimowe Miasto",
    "wraca": "300-04-30",
    "zamyka": "uchwala lawy (rzut) - ile lat zwolnienia",
-   "status": "otwarte"
+   "status": "zrobione 300-04-30 (20): zwolnienie z oplat miejskich NA DWA LATA; karta: ~60 dusz ponad stan; lista oferta na V wywieszona"
   },
   {
    "data": "300-04-27",
@@ -4590,7 +4590,7 @@
    "kanal": "w zamku / Zimowe Miasto",
    "wraca": "300-04-30",
    "zamyka": "lista ludzi (rzut - czy ktos sie znajdzie)",
-   "status": "otwarte"
+   "status": "zrobione 300-04-30 (8): gornika brak; jest Grim od Dymarki (dymarz, zelazo bagienne) - oko na rude; czlowieka do gor szukac w klanach/na Fosie"
   },
   {
    "data": "300-04-28",
@@ -4603,7 +4603,7 @@
   },
   {
    "data": "300-04-28",
-   "co": "REKONESANS ZELAZA W KLANACH GORSKICH - list Krola do wodzow (Wull, Norrey, Liddle, Flint, Burley, Harclay) + czlowiek od kruszcu znaleziony przez zarzadcow.",
+   "co": "REKONESANS ZELAZA W KLANACH GORSKICH - list Krola do wodzow (Wull, Norrey, Liddle, Flint, Burley, Harclay) + czlowiek od kruszcu znaleziony przez zarzadcow. ### 04-30: zarzadcy znalezli tylko GRIMA OD DYMARKI (dymarz) - oko na rude, nie przewodnik; przewodnika szukac w klanach albo na Fosie.",
    "kto": "KROL -> WODZOWIE KLANOW + czlowiek od kruszcu",
    "kanal": "jezdziec w gory (po znalezieniu czlowieka)",
    "wraca": "300-05-25",

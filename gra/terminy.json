@@ -3586,10 +3586,10 @@
   },
   {
    "data": "300-04-06",
-   "co": "SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina.",
+   "co": "SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina. ### +04-27: WELNA (polowa niesprzedana 04-24) + reszta skor -> WOZEM DO BIALEGO PORTU: zaladunek 04-29, w BP ~05-10, targ ~05-12; cena = cena nabrzeza, nie wyzsza.",
    "kto": "GAWEN + pisarze Skarbu; HERWIN (Cailin), WYMAN (Bialy Port)",
    "kanal": "trakt / kruk Winterfell-Fosa, kruk Winterfell-Bialy Port",
-   "wraca": "300-05-20",
+   "wraca": "300-05-12",
    "zamyka": "pierwszy targ w kazdym z dwoch miast, z ksiega",
    "status": "otwarte"
   },

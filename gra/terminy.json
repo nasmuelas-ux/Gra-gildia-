@@ -4789,6 +4789,15 @@
    "wraca": "300-05-30",
    "zamyka": "Wystan w Czarnym Zamku przy Aemonie (meldunek przez Hallisa/Clydasa)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-01",
+   "co": "CYTADELA - DWOCH MAESTEROW DLA FOSY CAILIN: (1) melioracja i osuszanie bagien; (2) ziololecznictwo. Zawiadomienie: Wystan tymczasowo na Murze przy chorym Aemonie.",
+   "kto": "SYMON (+ Luwin) -> CYTADELA",
+   "kanal": "kruk Winterfell-Stare Miasto (Cytadela), wylot 05-01",
+   "wraca": "300-05-17",
+   "zamyka": "odpowiedz Cytadeli (rzut): kto, kiedy, na jakich warunkach",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

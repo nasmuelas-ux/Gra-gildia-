@@ -172,6 +172,11 @@
    "tam": 43,
    "wraca_lacznie": 86,
    "zrodlo": "przyjete 300-04-22 przez analogie: kruk Winterfell-Bialy Port 2 + morze Bialy Port-Braavos ~21 + kupiec braawijski Braavos-Sloneczna Wlocznia ~20 (Waskie Morze, handel braawijski z Dorne). Odpowiedz ta sama droga wstecz."
+  },
+  "kruk Winterfell-Stare Miasto (Cytadela)": {
+   "tam": 8,
+   "wraca_lacznie": 16,
+   "zrodlo": "lancuch maesterski - Cytadela trzyma ptaki do kazdego zamku z maesterem; przyjete 300-05-01 przy liscie Namiestnika o maesterow dla Fosy"
   }
  }
 }

@@ -2869,7 +2869,7 @@
    "kanal": "woz/jezdziec Bialy Port-Fosa",
    "wraca": "300-05-01",
    "zamyka": "lista pieciu imion, przy kazdym NAZWANY DOM, ktory go trzyma - wpisany ZANIM wsiadzie na woz",
-   "status": "otwarte",
+   "status": "zrobione 300-05-01 (90): Wendel Morski (Manderly), Ulla Kora (Glover), Bran Siwy (Cerwyn), Tomas Sznur (Karstark), Edda z Brodu (Korona); przyjazd 06-01",
    "co": "PIECIU UCZNIOW GLEBOKORZENIA - LISTA Z NAZWANYMI DOMAMI. Przyjazd 300-06-01 (jedyne okno miedzy siewem a zniwami). WARUNEK THEOMORE'A, przyjety: 'Stracilem trzech z dziesieciu w poltora roku - wzieto ich, nie pytajac, z czego beda zyc. Nie zabraklo im checi, zabraklo im chleba.' PIECIU, KTORYCH SIE UTRZYMA, JEST WIECEJ NIZ DZIESIECIU, KTORYCH SIE STRACI. Albo piec nazwisk z domami, albo zaden."
   },
   {
@@ -4149,7 +4149,7 @@
    "kanal": "wlasni ludzie; Fosa i Bialy Port krukiem",
    "wraca": "300-05-01",
    "zamyka": "trzy meldunki komor na stole Krola",
-   "status": "otwarte"
+   "status": "zrobione 300-05-01 (70): trzy komory przyjmuja; kilku kupcow z Dorzecza omija tablice - imiona w ksiegach"
   },
   {
    "data": "300-04-21",
@@ -4185,7 +4185,7 @@
    "kanal": "pismo Krola kruk Winterfell-Bialy Port (04-22); meldunek komory krukiem",
    "wraca": "300-05-01",
    "zamyka": "rozstrzygniecie komory na pismie",
-   "status": "otwarte"
+   "status": "zrobione 300-05-01 (19): WPIS UTRZYMANY (towar niezgodny z kwitem wagi); kupiec polecany przez Wymana - Wyman wie przed uczta"
   },
   {
    "data": "300-04-21",
@@ -4297,10 +4297,10 @@
   },
   {
    "data": "300-04-24",
-   "co": "AEMON CHORY - zimno w plucach; Clydas prowadzi kruki. Stan co tydzien przez Osrica/Clydasa (wybor Lorda Dowodcy, Straz bez maestra?).",
+   "co": "AEMON CHORY - zimno w plucach; Clydas prowadzi kruki. Stan co tydzien przez Osrica/Clydasa (wybor Lorda Dowodcy, Straz bez maestra?). ### 05-01 (64): goraczka zeszla, je, lezy.",
    "kto": "CLYDAS / OSRIC",
    "kanal": "kruk Czarny Zamek-Winterfell",
-   "wraca": "300-05-01",
+   "wraca": "300-05-08",
    "zamyka": "wiesc o zdrowiu Aemona",
    "status": "otwarte"
   },
@@ -4435,7 +4435,7 @@
    "co": "KRUK DO OSRICA (Czarny Zamek): zmiana na Murze - po sprawie ludzi posla przekazac zmiennikowi i wracac do Winterfell; nowe zadanie: struktura pospolitego ruszenia (najpierw Kamienny Brzeg i domena), potem nabor do armii krolewskiej. ### 300-04-26 (cd.): OSRIC CZEKA NA HALLISA MOLLENA (~05-10) i przekazuje mu sprawy osobiscie; powrot do Winterfell ~05-22.",
    "kto": "KROL -> OSRIC",
    "kanal": "kruk Winterfell-Czarny Zamek (04-27) - PTAKI STOJA 04-27 (pogoda 5), wylot 04-28",
-   "wraca": "300-05-01",
+   "wraca": "300-05-04",
    "zamyka": "potwierdzenie Osrica; przekazanie Hallisowi ~05-10; Osric w Winterfell ~05-22",
    "status": "otwarte"
   },
@@ -4486,10 +4486,10 @@
   },
   {
    "data": "300-04-26",
-   "co": "LORD LARENCE HORNWOOD PRZEZ WINTERFELL: Krol wzywa kuratora Galbarta Glovera - chlopak ma stanac w Winterfell na ucztę 05-10 (gaj rano, przed Krolem), potem do Hornwood z lady Donella.",
+   "co": "LORD LARENCE HORNWOOD PRZEZ WINTERFELL: Krol wzywa kuratora Galbarta Glovera - chlopak ma stanac w Winterfell na ucztę 05-10 (gaj rano, przed Krolem), potem do Hornwood z lady Donella. ### 05-01 (11): Larence chory (zimnica) - wyjazd ~05-08, w Winterfell ~05-17/18 PO UCZCIE; Galbart na ucztę sam.",
    "kto": "KROL -> GALBART GLOVER (do wiad. Robett)",
    "kanal": "kruk Winterfell-Deepwood Motte (04-27) - wylot 04-28 (pogoda)",
-   "wraca": "300-05-01",
+   "wraca": "300-05-18",
    "zamyka": "odpowiedz Glovera (rzut) + Larence w Winterfell ~05-10/11 - NA STYK Z UCZTA",
    "status": "otwarte"
   },
@@ -4599,11 +4599,11 @@
    "kanal": "w zamku",
    "wraca": "300-05-01",
    "zamyka": "wypis z archiwum (rzut)",
-   "status": "otwarte"
+   "status": "zrobione 300-05-01 (31): Bran - trzy wsie Wilczego Lasu placily w zelazie ~120 lat temu (Dolny Bor, Czerwony Strumien, Smolna Polana); kroniki - nic o kopalniach; o Skagos brak ksiag w Winterfell"
   },
   {
    "data": "300-04-28",
-   "co": "REKONESANS ZELAZA W KLANACH GORSKICH - list Krola do wodzow (Wull, Norrey, Liddle, Flint, Burley, Harclay) + czlowiek od kruszcu znaleziony przez zarzadcow. ### 04-30: zarzadcy znalezli tylko GRIMA OD DYMARKI (dymarz) - oko na rude, nie przewodnik; przewodnika szukac w klanach albo na Fosie.",
+   "co": "REKONESANS ZELAZA W KLANACH GORSKICH - list Krola do wodzow (Wull, Norrey, Liddle, Flint, Burley, Harclay) + czlowiek od kruszcu znaleziony przez zarzadcow. ### 04-30: zarzadcy znalezli tylko GRIMA OD DYMARKI (dymarz) - oko na rude, nie przewodnik; przewodnika szukac w klanach albo na Fosie. ### 05-01: TROP W DOMENIE - trzy wsie Wilczego Lasu placily czynsz w zelazie ~120 lat temu (Dolny Bor, Czerwony Strumien, Smolna Polana) - Grim od Dymarki moze tam isc najpierw.",
    "kto": "KROL -> WODZOWIE KLANOW + czlowiek od kruszcu",
    "kanal": "jezdziec w gory (po znalezieniu czlowieka)",
    "wraca": "300-05-25",
@@ -4702,7 +4702,7 @@
   },
   {
    "data": "300-04-30",
-   "co": "DARY NA UCZCIE 05-10 (po rozmowie w cztery oczy, z powodem): UMBER - kontrakt Korony na zaopatrzenie Muru; CERWYN - Korona placi objazd Justycjariusza + zastepce, miejsce wychowanka w szkole Krola; GLOVER - kontrakt na drewno dla eskadry z Deepwood + Galbart przedstawia Larence'a Krolowi przy gaju.",
+   "co": "DARY NA UCZCIE 05-10 (po rozmowie w cztery oczy, z powodem): UMBER - kontrakt Korony na zaopatrzenie Muru; CERWYN - Korona placi objazd Justycjariusza + zastepce, miejsce wychowanka w szkole Krola; GLOVER - kontrakt na drewno dla eskadry z Deepwood + Galbart przedstawia Larence'a Krolowi przy gaju. ### 05-01: Larence nie zdazy - przedstawienie przez Galbarta przy gaju do przesuniecia (~05-18).",
    "kto": "KROL + SYMON -> UMBER, CERWYN, GLOVER",
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
@@ -4725,13 +4725,13 @@
    "kanal": "w zamku",
    "wraca": "300-05-01",
    "zamyka": "kanal na Skagos ustalony albo stwierdzony brak",
-   "status": "otwarte"
+   "status": "zrobione 300-05-01 (3): ptakow na Skagos brak; maestera na Skagos nie bylo od pokolen - list tylko lodzia"
   },
   {
    "data": "300-04-30",
    "co": "LIST KROLA DO PANOW SKAGOS: przypomnienie przysiegi zlozonej Starkom; wezwanie do odpowiedzi NA PISMIE DO WYZNACZONEGO DNIA (kto rzadzi, czy przysiega stoi); daniny liczone dzis wedle zdolnosci, jak na Radzie. BEZ grozby w liscie - co z cisza, postanowi Krol.",
    "kto": "KROL -> SKAGOS",
-   "kanal": "do ustalenia (kruk albo Wdowia Straznica/Karhold)",
+   "kanal": "LODZIA - przez Wdowia Straznice (Flintowie) albo z Karholdu/Karportu (ptakow na Skagos brak, 05-01)",
    "wraca": "300-06-15",
    "zamyka": "odpowiedz Skagos albo cisza do terminu",
    "status": "otwarte"

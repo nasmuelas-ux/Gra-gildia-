@@ -3874,10 +3874,10 @@
   },
   {
    "data": "300-04-14",
-   "co": "PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z ksiegi, kiedy gotowe. Kasa 1.",
+   "co": "PREZENT FOSY DLA SYNA KROLA - cos charakterystycznego dla rodu Starkow (wilk), rekami lenna. Garrick podaje: co, kto robi, koszt z ksiegi, kiedy gotowe. Kasa 1. ### 05-03 (13): kolyska z czarnej olchy w wilki, oczy z bursztynu Marra - NIE ZDAZY NA UCZTE, gotowa ~05-20.",
    "kto": "SYMON -> GARRICK (Fosa)",
    "kanal": "kruk Winterfell-Fosa (wylot 04-15) + zbiorczy 04-18",
-   "wraca": "300-05-03",
+   "wraca": "300-05-20",
    "zamyka": "propozycja Garricka z kosztem i data; potem wysylka traktem",
    "status": "otwarte - 300-04-21: wilk z czarnego debu + plaszczyk z futra; gotowe ~04-28, trakt ~05-03."
   },
@@ -4500,7 +4500,7 @@
    "kanal": "kruk Winterfell-Blizniaki (04-28, pogoda)",
    "wraca": "300-05-03",
    "zamyka": "odpowiedz Waldera: ktory wnuk i czy jedzie z synem na ucztę",
-   "status": "otwarte"
+   "status": "zrobione 300-05-03 (53): ser Perwyn Frey na ucztę + wnuk Walder zwany Duzym (9 lat) do szkoly, jeden sluga"
   },
   {
    "data": "300-04-27",
@@ -4777,7 +4777,7 @@
    "co": "GRIM OD DYMARKI W WILCZYM LESIE - trzy wsie z ksiag czynszowych (Dolny Bor, Czerwony Strumien, Smolna Polana): stare dymarki, zuzel, czerwona woda, starzy ludzie. Z nim czlowiek kasztelana.",
    "kto": "GRIM + czlowiek kasztelana",
    "kanal": "konno w Wilczy Las (wyjazd 05-02)",
-   "wraca": "300-05-09",
+   "wraca": "300-05-10",
    "zamyka": "meldunek Grima (rzut): jest ruda / nie ma / co sie stalo z dymarkami",
    "status": "otwarte"
   },
@@ -4824,7 +4824,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-03",
    "zamyka": "nominacja ogloszona Corwinowi przez Krola",
-   "status": "otwarte"
+   "status": "zrobione 300-05-03 - Corwin przyjal; prosi o Ulrika i pisarza"
   },
   {
    "data": "300-05-02",

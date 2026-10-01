@@ -5347,6 +5347,15 @@
    "wraca": "300-09-01",
    "zamyka": "pierwsza transza na stanie zbrojowni, spis",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-14",
+   "co": "KARTA OGNIA (Luwin, rzut 66) - JEDEN JEZYK DLA CALEGO LANCUCHA: 1 ogien - okrety widziane; 2 - przybili/laduja; 3 - walka, odsiecz; zakryty trzy razy - odwolanie; odpowiedz = nastepny punkt powtarza znak; brak odpowiedzi -> konny. Rog: trzy dlugie = trzy ognie (mgla). Paliwo: smolne wiazki (smola/dziegiec z Deepwood) + tran foki; kosz zelazny na nogach pod daszkiem; sucha skrzynia z wiazkami. W dzien dym (czarny - smola; bialy - mokra jedlina). Bez kolorow. Karta obrazkowa dla niepismiennych. Warunek Luwina: pieczec KROLA (znaki jedne od Palca po Cypel).",
+   "kto": "LUWIN (rysuje) -> KROL (pieczec) -> kazdy punkt lancucha",
+   "kanal": "Winterfell; odbitki - drukarnia Fosy (Wat) albo pisarze Korony",
+   "wraca": "300-05-15",
+   "zamyka": "karta narysowana; decyzja o pieczeci i rozeslaniu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

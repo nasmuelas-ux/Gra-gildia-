@@ -177,6 +177,11 @@
    "tam": 8,
    "wraca_lacznie": 16,
    "zrodlo": "lancuch maesterski - Cytadela trzyma ptaki do kazdego zamku z maesterem; przyjete 300-05-01 przy liscie Namiestnika o maesterow dla Fosy"
+  },
+  "kruk Winterfell-Wyspa Niedzwiedzia": {
+   "tam": 3,
+   "wraca_lacznie": 7,
+   "zrodlo": "lancuch maesterski; maester Mormontow pisal do Winterfell 300-05-03 (znak sternikow) - ptaki sa w obie strony; przyjete 300-05-03 przez analogie (Winterfell-Deepwood 2 + morze)"
   }
  }
 }

@@ -3402,7 +3402,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-04-09",
    "zamyka": "odpowiedz Miry",
-   "status": "zrobione 300-04-09 - odpisala: wstaje, chodzi galeria, Rhona jeszcze nie mowi 'jedz'; Lyra - 'kon'; pyta, czy Symon spi."
+   "status": "ZAMKNIETE 300-05-04 - Mira odpisala (rodzina, bez rzutu): Rhona pozwala na droge; WYJAZD Z BIALEGO PORTU ~05-08 z Lyra i Rhona, wozem kryta (kareta Hala), powoli; w Winterfell ~05-19/20. Nie zdazy na ucztę."
   },
   {
    "data": "300-04-05",
@@ -3753,7 +3753,7 @@
    "kanal": "kruk Winterfell-Bialy Port (wylot 04-12)",
    "wraca": "300-04-17",
    "zamyka": "odpowiedz Miry (rodzina, bez rzutu)",
-   "status": "zamkniete 300-04-17: odpowiedz Miry (droga za 2-3 tyg. wg Rhony)"
+   "status": "ZAMKNIETE 300-05-04 - Mira odpisala (rodzina, bez rzutu): Rhona pozwala na droge; WYJAZD Z BIALEGO PORTU ~05-08 z Lyra i Rhona, wozem kryta (kareta Hala), powoli; w Winterfell ~05-19/20. Nie zdazy na ucztę."
   },
   {
    "data": "300-04-11",
@@ -4374,7 +4374,7 @@
    "kanal": "kruki z Winterfell (04-26)",
    "wraca": "300-05-04",
    "zamyka": "lista przybywajacych na stole Krola i kasztelana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-04 - pierwsza fala rozstrzygnieta 05-02 (rzut 56) + Freyowie 05-03 (53); reszta (Bolton, Ryswell, Locke, Flint z Palca, Hornwood) w pozycji DRUGA FALA ~05-06."
   },
   {
    "data": "300-04-25",
@@ -4437,7 +4437,7 @@
    "kanal": "kruk Winterfell-Czarny Zamek (04-27) - PTAKI STOJA 04-27 (pogoda 5), wylot 04-28",
    "wraca": "300-05-04",
    "zamyka": "potwierdzenie Osrica; przekazanie Hallisowi ~05-10; Osric w Winterfell ~05-22",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-04 - Osric (wlasny czlowiek, bez rzutu) potwierdza: czeka na Hallisa (~05-10), przekazuje sprawy osobiscie (ludzie posla, Aemon/Clydas, kolumny, obsydian ~05-18), wraca ~05-22; o pospolitym ruszeniu - 'zaczne od spisu, nie od wloczni'."
   },
   {
    "data": "300-04-26",
@@ -4698,7 +4698,7 @@
    "kanal": "kruk Winterfell-Bialy Port (wieczor 04-30)",
    "wraca": "300-05-04",
    "zamyka": "odpowiedz Miry - data drogi",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-04 - Mira odpisala (rodzina, bez rzutu): Rhona pozwala na droge; WYJAZD Z BIALEGO PORTU ~05-08 z Lyra i Rhona, wozem kryta (kareta Hala), powoli; w Winterfell ~05-19/20. Nie zdazy na ucztę."
   },
   {
    "data": "300-04-30",
@@ -4761,7 +4761,7 @@
    "kanal": "kruk Winterfell-Fosa (wieczor 04-30)",
    "wraca": "300-05-04",
    "zamyka": "imie czlowieka z Fosy",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-04 - Garrick (wlasny czlowiek, bez rzutu; oba spisy - zasada 37): ze spisu 299-06 HOBB RDZA, kopacz rudy darniowej przy dymarce Fosy (nie czyta, liczy); z rejestru Melli przybysz ze znakiem 'gornik' z gor (sam mowi: sztolnie Burleyow), imie TOBBAS. Obaj wyjezdzaja z Fosy ~05-05, w Winterfell ~05-11 - do Grima po jego meldunku. Vard Kilof: kamien lamie, rudy nie zna."
   },
   {
    "data": "300-04-30",
@@ -4869,6 +4869,42 @@
    "kanal": "rozmowa w Winterfell; lordowie na uczcie 05-10",
    "wraca": "300-05-10",
    "zamyka": "nazwisko posla, sklad orszaku, data wyjscia",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-03",
+   "co": "ODPOWIEDZ DO MAEGE MORMONT (slowo Krola): lodzie i zalogi STOJA W GOTOWOSCI; najpierw idzie POSEL RANGI LORDA do Mance'a (nazwisko do uczty 05-10); przewoz ruszy po jego slowie. Lady Maege i tak jedzie na ucztę (lodziami do BP, dalej konno) - dalsze ustalenia przy stole.",
+   "kto": "KROL/SYMON -> MAEGE (Wyspa Niedzwiedzia)",
+   "kanal": "kruk Winterfell-Wyspa Niedzwiedzia (wylot 05-04 w poludnie, pogoda 31)",
+   "wraca": "300-05-07",
+   "zamyka": "list doreczony (jesli Maege juz w drodze - czeka na wyspie; rozmowa na uczcie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-03",
+   "co": "DO OSRICA I HALLISA (Czarny Zamek): od trzech dzikich przy Murze (MIEJSCE, WARUNEK I IMIE z 03-17) - ustalic PRZEWODNIKA i TRASE dla posla Krola rangi lorda z lekkim orszakiem (do Mance'a, nie do walki; wycofanie szybkie). Osric przekazuje to Hallisowi przy zmianie (~05-10). Bez imion na pismie; odpowiedz 'o tym, o co pytano'.",
+   "kto": "SYMON -> OSRIC + HALLIS",
+   "kanal": "kruk Winterfell-Czarny Zamek (wylot 05-04 w poludnie, pogoda 31); na Murze ~05-07",
+   "wraca": "300-05-11",
+   "zamyka": "meldunek: jest przewodnik / trasa / czego trzej sie boja",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-04",
+   "co": "HOBB RDZA (ruda darniowa, Fosa) + TOBBAS (gornik ze sztolni Burleyow, rejestr Melli) - przyjazd do Winterfell, dolaczaja do GRIMA OD DYMARKI (po jego meldunku z Wilczego Lasu ~05-10) - gory/klany.",
+   "kto": "GARRICK -> WINTERFELL",
+   "kanal": "trakt Fosa-Winterfell (6 dni)",
+   "wraca": "300-05-11",
+   "zamyka": "obaj w Winterfell, przydzieleni do Grima",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-04",
+   "co": "MIRA Z LYRA I RHONA - DROGA Z BIALEGO PORTU DO WINTERFELL (kareta Hala), wyjazd ~05-08.",
+   "kto": "MIRA",
+   "kanal": "trakt Bialy Port-Winterfell",
+   "wraca": "300-05-20",
+   "zamyka": "Mira w Winterfell",
    "status": "otwarte"
   }
  ],

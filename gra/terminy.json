@@ -3375,7 +3375,7 @@
    "kanal": "przez Osrica (Mur)",
    "wraca": "300-05-05",
    "zamyka": "karta na stole, takze pusta",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-05 - meldunek IX (wlasny czlowiek, bez rzutu): Straz 523 (jeden brat zmarl na goraczke w Wiezy Cieni), ~340 zdatnych bez zmian; kolumny Umbera i Orina/Thella zjedzone w polowie - ziarna do konca VI przy obecnych racjach; zza Muru nic; Stannisa jeszcze nie ma; Aemon - lezy, je, Clydas pisze za niego. Nastepny (X) ~06-04 - pisze juz HALLIS."
   },
   {
    "data": "300-04-05",
@@ -3663,7 +3663,7 @@
    "kanal": "list do Nesty (Fosa-Braavos-Fosa) + kantor Bialy Port",
    "wraca": "300-05-05",
    "zamyka": "pasma przychodu obu placowek w bilansie, z ksiegi",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-05 - w bilansie Hala (z ksiegi Nesty i Obara, po korekcie skali): BRAAVOS +60..+210/mies, PENTOS +50..+180/mies (kasa.py, IV/300). Pentos: drewno - marza siedzi w pasmie."
   },
   {
    "data": "300-04-10",
@@ -3744,7 +3744,7 @@
    "kanal": "kruk Winterfell-Fosa (wylot 04-12) + poslaniec do Greywater Watch",
    "wraca": "300-05-05",
    "zamyka": "krannogowie wychodza i biora list ALBO odpowiedz Reeda; sprawdzenie co 14 dni ### 04-13: krannogowie wracaja do grobli ~04-16 - wtedy list o Branie idzie do nich.",
-   "status": "otwarte - 300-04-21 rzut 55: krannogowie wyszli ~04-16 i wzieli OBA listy; odpowiedz bez daty, sprawdzenie co 14 dni."
+   "status": "ZAMKNIETE 300-05-05 (rzut 93): ODPOWIEDZ REEDA - list zamkniety do Symona, przez grobla (posłaniec) -> Fosa -> kruk do Winterfell. Patrz dziennik 05-05. Reed przysyla SYNA I CORKE (Jojen i Meera) do Winterfell."
   },
   {
    "data": "300-04-11",
@@ -4401,7 +4401,7 @@
    "kanal": "kruk Winterfell-Bialy Port (04-27) - wylot 04-28 (pogoda)",
    "wraca": "300-05-05",
    "zamyka": "bilans Hala na zamkniecie IV/300 (liczby z kasa.py po korekcie skali)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-05 - bilans Hala za IV/300 (wlasny czlowiek, bez rzutu), liczby z kasa.py po korekcie skali: WYNIK OPERACYJNY +1078..+2593/mies; kazde przedsiebiorstwo osobno (patrz dziennik 05-05)."
   },
   {
    "data": "300-04-26",
@@ -4914,7 +4914,16 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-05-07",
    "zamyka": "list wyslany przed wyjazdem Miry albo sprawa ustnie po jej przyjezdzie",
-   "status": "otwarte - zamiar"
+   "status": "otwarte - zamiar; 05-05 rano: NIE NAPISANY, poranne ptaki poszly bez niego. Ptak w poludnie 05-05 dochodzi ~05-07, przed wyjazdem Miry ~05-08."
+  },
+  {
+   "data": "300-05-05",
+   "co": "JOJEN I MEERA REED - droga z Szarych Wod do Winterfell (od Reeda, rzut 93). Wyjda, gdy woda opadnie (~05-15/20); przez Fose (Garrick daje konie/eskorte, jesli zechca); w Winterfell ~05-30..06-05. Do tego czasu: Bran - napar, jesli boi sie spadania (slowo Reeda: 'do przyjazdu mego syna, nie dluzej'). Krol - wie, ze goscie od Reeda (dzieci przyjaciela ojca); TRESC o snach - tajemnica Brana.",
+   "kto": "HOWLAND REED -> WINTERFELL",
+   "kanal": "piechota/lodz krannogow do Fosy + trakt Fosa-Winterfell",
+   "wraca": "300-06-01",
+   "zamyka": "Jojen i Meera w Winterfell",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

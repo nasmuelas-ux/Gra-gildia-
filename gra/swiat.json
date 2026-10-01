@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 5,
-  "dzien": 4,
+  "dzien": 5,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 31 (300-05-04) - szaro, zimno po deszczu, mzawka do poludnia; ptaki stoja rano, leca w poludnie.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 59 (300-05-05) - pogodnie, chlodny ranek, slonce przed poludniem; drogi obsychaja; kruki leca.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 851,
+ "_dziennik_nota": 854,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

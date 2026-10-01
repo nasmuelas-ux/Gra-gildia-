@@ -4995,7 +4995,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-15",
    "zamyka": "decyzja: kto, ilu, za czyje",
-   "status": "otwarte"
+   "status": "otwarte - 05-11: SKLAD - Grim (prowadzi), Hobb Rdza, Tobbas, czlowiek kasztelana, + dwaj od Boltona (~05-25), + z Harrenhalu dwaj dymarze i gornik (~VII). Do decyzji: dymarki Korony / osadnicy / kto placi."
   },
   {
    "data": "300-05-10",
@@ -5049,7 +5049,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-11",
    "zamyka": "tak / nie / warunek",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-11 - PRZYJETE (Symon, Krol): dwaj ludzie Dreadfortu (kamien; ruda i piec) na rok, zold Korony; do Grima w Wilczym Lesie; przyjada ~05-25; rachunki - Gawen."
   },
   {
    "data": "300-05-10",
@@ -5094,6 +5094,15 @@
    "kanal": "Winterfell",
    "wraca": "300-05-11",
    "zamyka": "Arya wie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-11",
+   "co": "DWAJ LUDZIE DREADFORTU (kamien; ruda i piec) - przyjazd do Winterfell i do Grima w Wilczym Lesie. Rok, zold Korony (Gawen).",
+   "kto": "ROOSE BOLTON -> GRIM",
+   "kanal": "trakt Dreadfort-Winterfell",
+   "wraca": "300-05-25",
+   "zamyka": "obaj u Grima",
    "status": "otwarte"
   }
  ],

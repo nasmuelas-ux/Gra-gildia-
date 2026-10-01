@@ -1,4 +1,4 @@
-# REJESTR RELACJI KORONY Z DOMAMI — CZTERNAŚCIE KART (300-04-30)
+# REJESTR RELACJI KORONY Z DOMAMI — CZTERNAŚCIE KART + SKAGOS (300-04-30)
 ### Wewnętrzne notatki władzy (rozstrzygnięcie 300-04-07): nieogłaszany. Czytają Król, Namiestnik, prowadząca, Bran.
 ### Forma kart (300-04-11): CZEGO CHCE · CZEGO SIĘ BOI · Z KIM / PRZECIW KOMU · NAJGORSZY PRZYPADEK · STAN Z KORONĄ (co dano / co wzięto).
 > Źródła: dossier rodów (299-06), księga Namiestnika, zapis Rady (300-03-29..04-02) i poczty do 300-04-30. Gdzie zapis milczy — stoi „zapis milczy”, nie domysł.
@@ -18,7 +18,8 @@
 | 11 | **Hornwood** (lord Larence; zarządza lady Donella) | pana na miejscu, granicy i zapłaty za drewno | że Dreadfort weźmie las kawałkami | kurator Glover; spór z Dreadfortem u Justycjariusza | wyrąb jako fakt dokonany | Larence w Winterfell ~05-10, potem do Hornwood z Donellą |
 | 12 | **Flint z Wdowiej Strażnicy** (lady Lyessa) | żeby urząd miał sens na piśmie | małości (23 na 70 daniny) | Stark; krew z Flintami z Palca | zapomnienie | „chyba już wiem, co ten urząd robi” (03-31); przystań Zatoka Fok w planie |
 | 13 | **Flint z Palca Flinta** (zachód) | zapis milczy poza Radą | zapis milczy | Stark; krewna z Wdowiej Strażnicy — „trzy kamienie z jednej skały” | zapis milczy | poznał krewną przez Namiestnika (03-31) |
-| 14 | **Locke** (Stary Zamek) | zapis milczy | zapis milczy | wschód | zapis milczy | rejestry Locke'ów przeszukane (03-27/28) — wynik w zapisie |
+| 14 | **Locke** (Stary Zamek) | żeby dom przestał być „w połowie”; Byren (14) lordem w swoim dniu | że stryj i bratanek rozerwą dom; że Korona znów nie odpisze | blisko z Flintami z Wdowiej Strażnicy (łowiska, piwo); ziemie Manderlych za miedzą | ser Bennard trzyma dłużej, niż mówi akt — albo Byren dorośnie przeciw stryjowi | **AKT STAREGO ZAMKU (Symon, 299-11-25):** Byren lordem; Bennard trzyma z ramienia Korony do dnia z kalendarza; dwa podpisy na daninę, ziemię, sąd; pieczęć w skrzyni; zwłoka po stronie Korony (Bennard pisał dwa razy bez odpowiedzi). Ser Jared poległ pod Bliźniakami. |
+| 15 | **Skagos** (poza Radą) | zapis milczy | zapis milczy | lenno Starków (gracz 300-04-30) | zapis milczy | ludność 10–20 tys. (E); na Radzie nie siedział |
 
 ## ODCZYT PROWADZĄCEJ (jedno zdanie na całość)
 > „Kto dał najwięcej, dostał najmniej: **Umber** nic, **Cerwyn** nic, **Glover** tyle, że niesie cudzego chłopca. Na uczcie dziesiątego trzech wyjdzie z nadaniem — i trzech zapyta przy piwie, za co.”

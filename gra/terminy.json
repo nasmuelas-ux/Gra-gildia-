@@ -5311,6 +5311,42 @@
    "wraca": "300-05-22",
    "zamyka": "Flint przyjal albo nie (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-14",
+   "co": "ROZKAZ PANA DO HENDRY'EGO (marszalek lenna, Fosa) - STALE SILY LENNA DO 200: 50 w Fosie Cailin, 100 w GORACYM PORCIE, 50 JEZDZCOW jako sila reagowania. Garnizon szkoli nowych; przyjmowac ludzi i doszkalac w czasie (pan akceptuje, ze pelnego skladu od razu nie bedzie). ODPOWIEDZ HENDRY'EGO: plan na pismie - kwatery, dowodcy (zapis 300-02-25: 'zaden nigdy nie dowodzil dwudziestoma'), konie (bagno), Goracy Port (palisada przed ludzmi), koszt z Warrynem/Gerrikiem (Kasa 2). Wlasny czlowiek - bez rzutu.",
+   "kto": "HENDRY (+ Warryn, Gerrik - Kasa 2)",
+   "kanal": "kruk Winterfell-Fosa (05-14 poludnie) i z powrotem",
+   "wraca": "300-05-18",
+   "zamyka": "plan Hendry'ego na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-14",
+   "co": "NABOR DO SIL LENNA (cel 200) - PIERWSZY MIESIAC: ilu przyszlo, imiennie w ksiedze Hendry'ego. RZUT na odzew (ludzie wolni lenna i przybysze - sprawa zewnetrzna).",
+   "kto": "HENDRY",
+   "kanal": "meldunek zbiorczy Garricka",
+   "wraca": "300-06-14",
+   "zamyka": "liczba przyjetych i w szkoleniu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-14",
+   "co": "REZERWA LENNA I SZKOLENIE - Hendry zaczyna tworzyc rezerwe (pospolite ruszenie lenna: spis przy ruszeniu, dni cwiczen); obecny garnizon szkoli. Spojnosc z planem rezerwy Korony (Osric ~05-24).",
+   "kto": "HENDRY + (Osric - wzor)",
+   "kanal": "meldunek zbiorczy Garricka",
+   "wraca": "300-06-30",
+   "zamyka": "spis rezerwy lenna i kalendarz cwiczen na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-14",
+   "co": "EKWIPUNEK STALY NA 700 ZOLNIERZY LENNA - WG WZORU KORONY Z 300-05-02 (lzejszy komplet: wlocznia i miecz, tarcza; miecz 1,5-2 smoka wobec topora 0,3 - cena Gawena; stali na miecze na Polnocy brak - najpierw wlocznie i tarcze, miecze wg stali). Zrodla: kuznia Fosy, zelazo bagienne, skup lannisterskiego ekwipunku, ruda z Wilczego Lasu (Korona - po cenie ogloszonej). Koszt i etapy - Warryn/Gerrik (Kasa 2), zasada 43. Wlasni ludzie - bez rzutu; zbrojownia lenna.",
+   "kto": "HENDRY + kuznia Fosy + WARRYN/GERRIK",
+   "kanal": "meldunek zbiorczy Garricka",
+   "wraca": "300-09-01",
+   "zamyka": "pierwsza transza na stanie zbrojowni, spis",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

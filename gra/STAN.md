@@ -25,14 +25,11 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**91 otwartych** · **1 PRZETERMINOWANYCH** · 1 wraca dzis
+**91 otwartych** · **1 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
 - **+2 dni** — MAEGE MORMONT: LODZIE Z ZALOGAMI (jej ludzie i kobiety) + WYSPA NIEDZWIEDZIA JAKO PRZYSTANEK W POL DROGI + ZNAK OD JEJ STERNIKOW, … · _kanal:_ przez Dustinport (Torren) / kruk z Wyspy Niedzwiedziej · _zamyka:_ znak sternikow: zatoka otwarta
-
-### 🟡 WRACA DZIS
-- SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wys… · _kanal:_ robota na miejscu (Winterfell)
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -332,7 +329,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-15** — KROLOWA - TRZY DNI POD STRAZA LUWINA (goraczka?). Rzut przy 04-17. · _kto:_ **LUWIN** · _zamyka:_ trzecia noc bez goraczki albo goraczka **⚠ ZAMKNIETE 300-04-17: TRZY NOCE BEZ GORACZKI (37); NAJGORSZE MINELO**
 - **300-04-15** — OSRIC - pytanie do wracajacego poslanca zza Muru: mlody czarny brat z bialym wilkiem wsrod ludzi Mance'a? Tylko wiedza, bez imion na pismie. · _kto:_ **SYMON -> OSRIC (Czarny Zamek)** · _zamyka:_ odpowiedz Osrica (po powrocie poslanca albo 'nie wrocil') **⚠ ZAMKNIETE 300-04-21 - POSLANIEC NIE WROCIL (RZUT 15); PYTANIA NIE BYLO KOMU ZADAC.**
 - **~300-05** — UCZTA NARODZIN EDDARDA - jednego dnia: rano pokazanie dziecka drzewu serca w bozogaju, wieczorem uczta w Wielkiej Sali. Warunek Krola: krolowa przy stole. Namaszczenie septona wczesniej, w komnacie. DATA OD LUWINA (kiedy krolowa moze zejsc do sali). Walder zaproszony juz 04-14 (list Perwyna); reszta listy gosci - Symon podpowiada, gdy bedzie data. Koszt: dom Starkow, rachunek kasztelana. · _kto:_ **KROL / LUWIN (data) / KASZTELAN** · _zamyka:_ Luwin podaje dzien, w ktorym krolowa zejdzie do sali; potem lista gosci i ptaki **⚠ OTWARTE - USTALONE 300-04-25: 300-05-10 - RANO GAJ (KROLOWA Z EDDARDEM PRZED DRZEWEM SERCA), WIECZOREM UCZTA; GOSCIE: DOMY Z RADY + FREYOWIE (SYN WALDERA); ZAPROSZENIA 04-26.**
-- **300-04-17** — SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. ### 04-29 (19): podparcie uwiera - trzecia przymiarka ~05-03. ### 05-01: CEL - Bran KONNO przy gaju na uczcie 05-10, jesli siodlo gotowe; cwiczy wjazd stepa z Hodorem. ### 05-02: SYMON OBECNY przy trzeciej przymiarce (05-03, przed poludniem) - na prosbe Brana. · _kto:_ **RYMARZ (Zimowe Miasto) + BRAN** · _zamyka:_ pierwsza przymiarka na Branie - co pasuje, co do poprawy **⚠ OTWARTE - 300-04-24 RZUT 97: BRAN OBJECHAL DZIEDZINIEC TRZY RAZY SAM; POPRAWIC DWA PASY I OPARCIE; DRUGA PRZYMIARKA OSTATNIA.**
+- **300-04-17** — SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. ### 04-29 (19): podparcie uwiera - trzecia przymiarka ~05-03. ### 05-01: CEL - Bran KONNO przy gaju na uczcie 05-10, jesli siodlo gotowe; cwiczy wjazd stepa z Hodorem. ### 05-02: SYMON OBECNY przy trzeciej przymiarce (05-03, przed poludniem) - na prosbe Brana. ### 05-03 (45, prog 50): siodlo trzyma i oparcie juz nie uwiera; KLAMRA PASA NA UDZIE obciera - rymarz podszywa filcem, gotowe ~05-05; do tego czasu Bran bez jazdy. · _kto:_ **RYMARZ (Zimowe Miasto) + BRAN** · _zamyka:_ pierwsza przymiarka na Branie - co pasuje, co do poprawy **⚠ OTWARTE - 05-03 RZUT 45: SIODLO PASUJE, KLAMRA OBCIERA UDO; PODSZYCIE FILCEM ~05-05, POTEM CWICZENIA DO 05-10.**
 - **300-04-17** — WYCIAG W SZYBIE NA POLANA (wieza Brana) - ciesla, ~3 tygodnie: kolowrot, kosz z oparciem, zapadka. · _kto:_ **CIESLA WINTERFELL** · _zamyka:_ wyciag chodzi z Branem
 - **300-04-19** — BAELISH - CISZA, NIECH PISZE PIERWSZY (rada Sansy). Nic do niego nie idzie. Mysl Sansy o 'przestac tropic tak, zeby zauwazyl' - sprawa Willi (siatka nie jest zmartwieniem pana). Sprawdzenie przy przegladzie kart: czy cos przyszlo z Doliny/Gulltown. · _kto:_ **SYMON (obserwacja)** · _zamyka:_ list od Baelisha albo przeglad kart
 - **300-04-19** — PRZEGLAD KART KROLESTW z Sansa - 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Poprawic kazda z 12 wedle poczty z miesiaca (Nesta/Daenerys, poslaniec, Stannis, Catelyn/Edmure, przedstawiciel w Reach). Czego NIE robic stoi na kartach: nie ruszac Olenny przed przedstawicielem; nic Stannisowi ponad ziarno dla Muru; nie potknac sie przed Bankiem. · _kto:_ **SYMON + SANSA** · _zamyka:_ karty poprawione
@@ -565,7 +562,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-05-03 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 98 · Sytosc 92 · Zmeczenie 27**
+- **Zdrowie 98 · Sytosc 92 · Zmeczenie 28**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1036,7 +1033,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 - **300-04-17** — LIST KROLA DO MATKI O NARODZINACH - syn EDDARD, krolowa zywa, bez goraczki; obwieszczenie z 04-15 poszlo tylko do domow Polnocy, Riverrun o wnuku nie wiedzial. O przyjezdzie: nie wzywa przed druga ratyfikacja; 'drzwi otwarte, kiedy uzna'.
 - **300-04-17** — OBWIESZCZENIE KROLA DO LORDA EDMURE'A TULLY'EGO (Riverrun, protektorat) - narodziny EDDARDA STARKA, dziedzica; dopisek reka Krola 'Wujowi - od siostrzenca, ktory teraz tez jest ojcem'. Tym samym ptakiem co list do Catelyn.
 - **~300-05** — UCZTA NARODZIN EDDARDA - jednego dnia: rano pokazanie dziecka drzewu serca w bozogaju, wieczorem uczta w Wielkiej Sali. Warunek Krola: krolowa przy stole. Namaszczenie septona wczesniej, w komnacie. DATA OD LUWINA (kiedy krolowa moze zejsc do sali). Walder zaproszony juz 04-14 (list Perwyna); reszta listy gosci - Symon podpowiada, gdy bedzie data. Koszt: dom Starkow, rachunek kasztelana.
-- **300-04-17** — SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. ### 04-29 (19): podparcie uwiera - trzecia przymiarka ~05-03. ### 05-01: CEL - Bran KONNO przy gaju na uczcie 05-10, jesli siodlo gotowe; cwiczy wjazd stepa z Hodorem. ### 05-02: SYMON OBECNY przy trzeciej przymiarce (05-03, przed poludniem) - na prosbe Brana.
+- **300-04-17** — SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. ### 04-29 (19): podparcie uwiera - trzecia przymiarka ~05-03. ### 05-01: CEL - Bran KONNO przy gaju na uczcie 05-10, jesli siodlo gotowe; cwiczy wjazd stepa z Hodorem. ### 05-02: SYMON OBECNY przy trzeciej przymiarce (05-03, przed poludniem) - na prosbe Brana. ### 05-03 (45, prog 50): siodlo trzyma i oparcie juz nie uwiera; KLAMRA PASA NA UDZIE obciera - rymarz podszywa filcem, gotowe ~05-05; do tego czasu Bran bez jazdy.
 - **300-04-17** — KRZESLO NA KOLACH DLA BRANA - kolodziej, ~10 dni.
 - **300-04-17** — WYCIAG W SZYBIE NA POLANA (wieza Brana) - ciesla, ~3 tygodnie: kolowrot, kosz z oparciem, zapadka.
 - **300-04-18** — ODPOWIEDZ SYMONA DO ROOSE'A BOLTONA - sucho: Polnoc tworzy spis swojej tozsamosci; zdrowie jemu i lady Waldzie; Namiestnik sluzy pomoca. Pytanie Roose'a o wilki w Winterfell POMINIETE.
@@ -1217,7 +1214,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `sukcesja_blizniakow_po_walderze` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-02] `dziennik`: 300-05-02 NOC - KONIEC DNIA. CO ZAMKNAL: Grim i wozy z welna wyruszyli; plan Theona (96) - zatwierdzony w calosci; Hal - wydawnictwo; wezwanie rzemieslnikow i skup wywieszone; zaproszenia - …
 - [300-05-03] `dziennik`: 300-05-03 RANEK, WINTERFELL - SEN RZUT 64: noc dobra; zdrowie 97->98, zmeczenie 61->22, sytosc 100->72. POGODA RZUT 17: rano jasno, OD POLUDNIA ZIMNY DESZCZ Z POLNOCY; JEDNA KONSEKWENCJA: Gr…
 - [300-05-03] `corwin_lodowy`: 300-05-03 RANEK, WINTERFELL - SEN RZUT 64: noc dobra; zdrowie 97->98, zmeczenie 61->22, sytosc 100->72. POGODA RZUT 17: rano jasno, OD POLUDNIA ZIMNY DESZCZ Z POLNOCY; JEDNA KONSEKWENCJA: Gr…
 - [300-05-03] `ROSLIN`: 300-05-03 RANEK, WINTERFELL - SEN RZUT 64: noc dobra; zdrowie 97->98, zmeczenie 61->22, sytosc 100->72. POGODA RZUT 17: rano jasno, OD POLUDNIA ZIMNY DESZCZ Z POLNOCY; JEDNA KONSEKWENCJA: Gr…
@@ -1229,3 +1225,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-03] `poprawki`: 300-05-03 ⚠ VOID (zasada 31) NA WSKAZANIE GRACZA 'Stop, to ja to wreczam': GM kazal poslancowi rozwinac dar przed Krolem, Krolowi obracac wilka, Rickonowi go trzymac i Krolowi odeslac go do …
 - [300-05-03] `dziennik`: 300-05-03 SNIADANIE (cd.) - SYMON: dar Fosy (wilk z czarnego debu + plaszczyk) wreczy SAM, PRZED UCZTA, gdy dojdzie reszta (plaszczyk ~05-08). Zawiniatko u Symona.
 - [300-05-03] `dziennik`: 300-05-03 PRZEDPOLUDNIE, DZIEDZINIEC LUCZNICZY - LUK Z ARYA. Jasno, chlodny wiatr z polnocy, od poludnia idzie deszcz. Luk z przepleciona cieciwa (wczoraj 2/5, krzywa cieciwa). RZUT 74 przy …
+- [300-05-03] `dziennik`: 300-05-03 PRZED POLUDNIEM, STAJNIA I DZIEDZINIEC - TRZECIA PRZYMIARKA SIODLA BRANA, SYMON OBECNY (prosba Brana). Niebo od poludnia ciemnieje. Rymarz, Hodor, Lato, klacz siwa. RZUT 45 przy pr…

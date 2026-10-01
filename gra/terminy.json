@@ -3955,12 +3955,12 @@
   },
   {
    "data": "300-04-17",
-   "co": "SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. ### 04-29 (19): podparcie uwiera - trzecia przymiarka ~05-03. ### 05-01: CEL - Bran KONNO przy gaju na uczcie 05-10, jesli siodlo gotowe; cwiczy wjazd stepa z Hodorem. ### 05-02: SYMON OBECNY przy trzeciej przymiarce (05-03, przed poludniem) - na prosbe Brana.",
+   "co": "SIODLO DLA BRANA - rymarz z Zimowego Miasta (byly czeladnik starego mistrza; kartka Tyriona spalona - rzut 16) robi z pamieci: wysokie oparcie, pasy na uda, siedzisko 'jak kosz'. Miara 04-18 (z kolodziejem i ciesla), klacz siwa. Pierwsza przymiarka na stelazu; kolejne az bedzie dobrze. Placi dom Starkow. ### 04-29 (19): podparcie uwiera - trzecia przymiarka ~05-03. ### 05-01: CEL - Bran KONNO przy gaju na uczcie 05-10, jesli siodlo gotowe; cwiczy wjazd stepa z Hodorem. ### 05-02: SYMON OBECNY przy trzeciej przymiarce (05-03, przed poludniem) - na prosbe Brana. ### 05-03 (45, prog 50): siodlo trzyma i oparcie juz nie uwiera; KLAMRA PASA NA UDZIE obciera - rymarz podszywa filcem, gotowe ~05-05; do tego czasu Bran bez jazdy.",
    "kto": "RYMARZ (Zimowe Miasto) + BRAN",
    "kanal": "robota na miejscu (Winterfell)",
-   "wraca": "300-05-03",
+   "wraca": "300-05-05",
    "zamyka": "pierwsza przymiarka na Branie - co pasuje, co do poprawy",
-   "status": "otwarte - 300-04-24 rzut 97: Bran objechal dziedziniec trzy razy sam; poprawic dwa pasy i oparcie; druga przymiarka ostatnia."
+   "status": "otwarte - 05-03 rzut 45: siodlo pasuje, klamra obciera udo; podszycie filcem ~05-05, potem cwiczenia do 05-10."
   },
   {
    "data": "300-04-17",

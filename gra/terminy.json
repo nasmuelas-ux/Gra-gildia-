@@ -4864,7 +4864,7 @@
   },
   {
    "data": "300-05-03",
-   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10). ### 05-03: POSEL PYTA O JONA USTNIE (obietnica Symona dla Brana; zadnego imienia na papierze - zakaz Krola 299-09-14). Od Brana, jesli go zobaczy: 'Lato spi w gaju'. ### 05-05 OSHA (dzika w kuchni Winterfell): droga - Mleczna Woda pod Mroznymi Klami (stan sprzed 2 lat; teraz blizej, na poludnie); jak podejsc - bez choragwi i papieru, sol/zelazo/igly, najpierw wlocznice i starsi, nie klamac o liczbie (83). ZA MUR NIE POJDZIE (11); DO MURU TAK - wybierze sposrod trzech dzikich przewodnika; nauczy posla slow i znakow; warunek: jej imienia na zadnej liscie.",
+   "co": "POSEL DO MANCE'A RANGI LORDA - slowa Krola Polnocy (nadanie Cypla: autonomia, liczeni bez imion, przy Innych z Polnoca, nie najezdzaja sasiadow; droga Zatoka Lodu lodziami Maege). ORSZAK LEKKI, zdolny SZYBKO SIE WYCOFAC, nie do walki. Symon - tylko jesli nie bedzie nikogo godnego (Krol: Namiestnika nie puszcza, dopoki jest ktos inny). Nazwisko - Symon/Krol; Krol: 'kogo szukasz, bedzie w tej sali' (uczta 05-10). ### 05-03: POSEL PYTA O JONA USTNIE (obietnica Symona dla Brana; zadnego imienia na papierze - zakaz Krola 299-09-14). Od Brana, jesli go zobaczy: 'Lato spi w gaju'. ### 05-05 OSHA (dzika w kuchni Winterfell): droga - Mleczna Woda pod Mroznymi Klami (stan sprzed 2 lat; teraz blizej, na poludnie); jak podejsc - bez choragwi i papieru, sol/zelazo/igly, najpierw wlocznice i starsi, nie klamac o liczbie (83). ZA MUR NIE POJDZIE (11); DO MURU TAK - wybierze sposrod trzech dzikich przewodnika; nauczy posla slow i znakow; warunek: jej imienia na zadnej liscie. ### 05-05: OSHA JEDZIE Z POSELSTWEM DO MURU PO UCZCIE (bez imienia na liscie). Dostala noz (Krol/kasztelan).",
    "kto": "SYMON + KROL",
    "kanal": "rozmowa w Winterfell; lordowie na uczcie 05-10",
    "wraca": "300-05-10",
@@ -4924,6 +4924,15 @@
    "wraca": "300-06-01",
    "zamyka": "Jojen i Meera w Winterfell",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-05",
+   "co": "ROZMOWA Z OSHA O INNYCH - na prosbe Symona; ona: 'wieczorem, jak kucharz pusci, przy ogniu, nie w solarze'. Dzien nie ustalony.",
+   "kto": "SYMON + OSHA",
+   "kanal": "rozmowa w Winterfell",
+   "wraca": "300-05-09",
+   "zamyka": "rozmowa odbyta",
+   "status": "otwarte - na wybor Symona"
   }
  ],
  "_dopiski_300_03_18": [

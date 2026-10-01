@@ -5032,6 +5032,15 @@
    "wraca": "300-06-01",
    "zamyka": "imie sedziego + pierwszy objazd Brzegu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-10",
+   "co": "STRAZ GRANICY CYPLA NA KOSZT KORONY - pilnuje ROBETT GLOVER (lancuch ogni). Prosba Galbarta: rozkaz dla Robetta PRZEZ GALBARTA jako pana Deepwood ('Deepwood sluzy Koronie, a nie Korona zabrala mi brata'). Koszt - GAWEN liczy (Kasa 3); sklad i liczba ludzi - Robett.",
+   "kto": "KROL/SYMON -> GALBART -> ROBETT; GAWEN",
+   "kanal": "kruk Winterfell-Deepwood",
+   "wraca": "300-05-25",
+   "zamyka": "rozkaz przez Galbarta + stawka Gawena",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

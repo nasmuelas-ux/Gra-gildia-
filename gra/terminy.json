@@ -4951,6 +4951,15 @@
    "wraca": "300-05-20",
    "zamyka": "spor pali orzeczony albo zalagodzony",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-06",
+   "co": "ZAWODY LUCZNICZE DZIEN PO UCZCIE (05-11, po odjezdzie Roose'a): Arya, Symon i ktos od lordow ('zeby zobaczyli, ze Starkowie strzelaja'). Arya mowi Krolowi.",
+   "kto": "ARYA + SYMON + goscie",
+   "kanal": "dziedziniec Winterfell",
+   "wraca": "300-05-11",
+   "zamyka": "zawody odbyte (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

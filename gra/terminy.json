@@ -4663,6 +4663,24 @@
    "wraca": "300-05-10",
    "zamyka": "nadanie oglaszane; pismo z pieczecia dla Karholdu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-04-29",
+   "co": "WYMAN NA UCZCIE 05-10: miejsce po prawicy Krola, toast 'za Bialy Port'; NADANIE WILCZEJ NORY NA WLASNOSC DZIEDZICZNIE (pismo z pieczecia); rozmowa przy stole: jedna brama + ZAMIAR BANKU POLNOCY (zaproszenie do zalozenia).",
+   "kto": "KROL + SYMON -> WYMAN",
+   "kanal": "uczta w Winterfell",
+   "wraca": "300-05-10",
+   "zamyka": "nadanie ogloszone; reakcja Wymana na bank (rzut przy stole)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-04-29",
+   "co": "KARTA BANKU POLNOCY (Gawen + Namiestnik): kapital zakladowy Manderlych i splata z odsetek; gubernator - Wylis lub Manderly, 10 lat z powolania Krola, tryb odwolania; zadania - koordynacja polityki pienieznej ze Skarbnikiem (EMISJA ZOSTAJE PRZY MENNICY KORONY), pozyczki w imieniu krolestwa na rozwoj (kto podpisuje), dzialalnosc inwestycyjna; granice.",
+   "kto": "GAWEN + SYMON",
+   "kanal": "w zamku",
+   "wraca": "300-05-30",
+   "zamyka": "karta na pismie do reki Wymana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

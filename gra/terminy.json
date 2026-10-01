@@ -4653,7 +4653,7 @@
    "kanal": "w Winterfell, przy uczcie",
    "wraca": "300-05-11",
    "zamyka": "zgoda Roose'a albo jego warunki (rzut przy stole)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-11 (rzut 100): ROOSE PRZYJMUJE BEZ TARGU - obie przystanie za swoje (harmonogram V-VIII, drewno z wlasnych lasow), imiona ludzi przy wagach TERAZ na pismie, Boltonsgate u ujscia Placzacej Wody; PROSI O KLAUZULE: miasto i sklad dziedziczy dziedzic Dreadfortu Z PRAWEGO LOZA (odpowiedz Krola/Symona - w toku)."
   },
   {
    "data": "300-04-29",
@@ -4941,7 +4941,7 @@
    "kanal": "Winterfell, uczta",
    "wraca": "300-05-11",
    "zamyka": "rozmowa odbyta: tak / nie / warunek",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-11 (rzut 100): ROOSE PRZYJMUJE BEZ TARGU - obie przystanie za swoje (harmonogram V-VIII, drewno z wlasnych lasow), imiona ludzi przy wagach TERAZ na pismie, Boltonsgate u ujscia Placzacej Wody; PROSI O KLAUZULE: miasto i sklad dziedziczy dziedzic Dreadfortu Z PRAWEGO LOZA (odpowiedz Krola/Symona - w toku)."
   },
   {
    "data": "300-05-06",
@@ -5067,7 +5067,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-11",
    "zamyka": "pismo z dwiema pieczeciami; Donella wie",
-   "status": "otwarte - 05-10: CERWYN pisze w nocy POSTANOWIENIE TYMCZASOWE SADU (nie umowa) od 05-11; pieczec Boltona 11-go o swicie przed wyjazdem; kopie dla Hornwood i Dreadfortu; w protokole: Dreadfort zgodzil sie sam."
+   "status": "ZAMKNIETE 300-05-11 - postanowienie tymczasowe Justycjariusza z pieczeciami Korony i Boltona, od 11-go; kopie do Hornwood i Dreadfortu; w protokole: Dreadfort zgodzil sie sam."
   },
   {
    "data": "300-05-10",

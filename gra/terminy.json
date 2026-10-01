@@ -5176,6 +5176,15 @@
    "wraca": "300-05-12",
    "zamyka": "rozmowa odbyta (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-12",
+   "co": "WYCHOWANEK CERWYNA PRZYJEZDZA DO WINTERFELL - bratanek lorda Medgera, 9 lat ('czyta lepiej niz ja'); wychowanek Korony (uczta 05-10, rzut 72). Symon osobiscie dopilnuje przyjecia (kwatera, nauka u maestera). Przywozi go czlowiek z zamku Cerwyn z listem pod pieczecia (imie w liscie).",
+   "kto": "JONELLE CERWYN (wysyla) / SYMON (przyjmuje)",
+   "kanal": "jezdziec zamek Cerwyn-Winterfell (blisko)",
+   "wraca": "300-05-19",
+   "zamyka": "chlopiec w Winterfell, przyjety",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

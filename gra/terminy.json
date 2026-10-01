@@ -4689,7 +4689,7 @@
    "kanal": "uczta w Winterfell",
    "wraca": "300-05-10",
    "zamyka": "nadanie ogloszone; reakcja Barbrey (rzut przy rozmowie)",
-   "status": "otwarte - 05-10 w cztery oczy (35): prawo skladu PRZYJETE; Barbrey prosi o INNY POWOD wieczorem ('za Barrowton, za zboze dla wdow' - nie 'Polnoc pamieta'); WARUNEK ZAUFANIA: kosci Willama Dustina z Dorne (wieza, kopiec) do Barrowton."
+   "status": "otwarte - 05-10: prawo skladu przyjete; POWOD WIECZOREM: 'za Barrowton, za zboze dla wdow' (zgoda Symona); Symon OBIECAL kosci Willama."
   },
   {
    "data": "300-04-30",
@@ -5014,6 +5014,15 @@
    "wraca": "301-05-01",
    "zamyka": "karta banku z kluczami albo odmowa",
    "status": "otwarte - WARUNKI WYMANA PRZYJETE 05-10 (Symon + Krol: 'Gawen napisze tak, zeby i moj wnuk nie mogl obejsc'); karta - maj 301, jesli Wilk po nominale przez zime."
+  },
+  {
+   "data": "300-05-10",
+   "co": "KOSCI WILLAMA DUSTINA Z DORNE DO BARROWTON - obietnica Symona dla lady Barbrey. Krok 1: HOWLAND REED - dokladne miejsce kopca przy Wiezy Radosci (jedyny zywy swiadek) - list albo przez Jojena/Meere (~koniec V). Krok 2: list do Dorana Martella przez Neste (Braavos-Sloneczna Wlocznia ~43 dni) - zgoda i przewodnik w Czerwonych Gorach. Krok 3: kto jedzie (ludzie Dustinow? Domu?) i droga morzem.",
+   "kto": "SYMON",
+   "kanal": "Reed (Fosa/grobla) + Nesta (Dorne)",
+   "wraca": "300-06-01",
+   "zamyka": "kosci w Barrowton",
+   "status": "otwarte - krok 1 do wykonania"
   }
  ],
  "_dopiski_300_03_18": [

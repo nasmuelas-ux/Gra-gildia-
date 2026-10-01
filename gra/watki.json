@@ -6522,6 +6522,11 @@
    "id": "sukcesja_blizniakow_po_walderze",
    "status": "otwarty",
    "_dziennik_nota": 1
+  },
+  {
+   "id": "zobowiazania",
+   "status": "otwarty",
+   "_dziennik_nota": 1
   }
  ]
 }

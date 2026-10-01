@@ -3243,9 +3243,9 @@
    "co": "SPOR: WDOWIA STRAZNICA / STARY ZAMEK - przerebla na zamarznietej zatoce. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Sugestia Namiestnika: linie wyznaczyc PALAMI, gdy lod zejdzie (lod nie trzyma kamienia).",
    "kto": "CERWYN (Justycjariusz) + LYESSA FLINT + STARY ZAMEK",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-05-15",
+   "wraca": "300-06-01",
    "zamyka": "ugoda albo wyrok; linia palami po odwilzy",
-   "status": "otwarte",
+   "status": "otwarte ### 05-15: NIE PRZYSZLO I WIADOMO DLACZEGO - Justycjariusz Cerwyn w objezdzie zachodu od 05-12; wynik w jego meldunku z objazdu / przez sedziego objazdowego (~06-01).",
    "sprawdzaj_co": 30
   },
   {
@@ -3253,9 +3253,9 @@
    "co": "SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie.",
    "kto": "CERWYN (Justycjariusz) + DONELLA HORNWOOD + DREADFORT",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-05-15",
+   "wraca": "300-06-01",
    "zamyka": "pomiar wykonany; ugoda albo wyrok",
-   "status": "otwarte - PISARZ DO POMIARU: Z REWIZJI (decyzja pana 300-04-02). Pierwsza robota nowego urzedu: wspolne przejscie pod dwie pieczecie (czlowiek Hornwoodu, czlowiek Dreadfortu), pisarz rewizji przy nich.",
+   "status": "otwarte - PISARZ DO POMIARU: Z REWIZJI (decyzja pana 300-04-02). Pierwsza robota nowego urzedu: wspolne przejscie pod dwie pieczecie (czlowiek Hornwoodu, czlowiek Dreadfortu), pisarz rewizji przy nich. ### 05-15: NIE PRZYSZLO I WIADOMO DLACZEGO - Justycjariusz Cerwyn w objezdzie zachodu od 05-12; wynik w jego meldunku z objazdu / przez sedziego objazdowego (~06-01).",
    "sprawdzaj_co": 30
   },
   {
@@ -3357,7 +3357,7 @@
    "kanal": "trakt Fosa-Winterfell",
    "wraca": "300-05-15",
    "zamyka": "egzaminator na miejscu, proby odebrane",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-15 - HALLA OD TABLIC W WINTERFELL (przed poludniem, opozniona deszczem 05-14); melduje sie u Luwina; proby szczebla - wg Luwina."
   },
   {
    "data": "300-04-04",
@@ -3589,9 +3589,9 @@
    "co": "SPRZEDAZ DANIN NIEJADALNYCH - FOSA CAILIN i BIALY PORT (towar do dowiezienia). Te same warunki co Wintertown; w Bialym Porcie wedle prawa portu Wymana, w Cailin wedle lawy i wagi Herwina. ### +04-27: WELNA (polowa niesprzedana 04-24) + reszta skor -> WOZEM DO BIALEGO PORTU: zaladunek 04-29, w BP ~05-10, targ ~05-12; cena = cena nabrzeza, nie wyzsza. ### 04-28: drogi rozmiekle - wozy ruszaja 05-01, BP ~05-12, targ ~05-14. ### 04-30 ulewa: wozy 05-02, targ BP ~05-15.",
    "kto": "GAWEN + pisarze Skarbu; HERWIN (Cailin), WYMAN (Bialy Port)",
    "kanal": "trakt / kruk Winterfell-Fosa, kruk Winterfell-Bialy Port",
-   "wraca": "300-05-15",
+   "wraca": "300-05-16",
    "zamyka": "pierwszy targ w kazdym z dwoch miast, z ksiega",
-   "status": "otwarte"
+   "status": "otwarte ### 05-15: wynik w meldunku zbiorczym Garricka (05-16) - razem z dlugiem dziewieciu pozycji."
   },
   {
    "data": "300-04-06",
@@ -3832,9 +3832,9 @@
    "co": "MLYN W SLUZIE STOI - Kessel czeka na kamien mlynski. Skad kamien i kiedy.",
    "kto": "WEYLIN + KESSEL",
    "kanal": "robota na miejscu (Fosa)",
-   "wraca": "300-05-15",
+   "wraca": "300-05-16",
    "zamyka": "kamien mlynski wskazany z data",
-   "status": "otwarte - 300-04-21 ROZSTRZYGNIETE: kamien z lomu Goracego Portu (Harlon wycina, Torgil wiezie); gotowe ~05-15."
+   "status": "otwarte - 300-04-21 ROZSTRZYGNIETE: kamien z lomu Goracego Portu (Harlon wycina, Torgil wiezie); gotowe ~05-15. ### 05-15: wynik w meldunku zbiorczym Garricka (05-16) - razem z dlugiem dziewieciu pozycji."
   },
   {
    "data": "300-04-13",
@@ -4237,9 +4237,9 @@
    "co": "REACH - KONTRAKT DLUZSZY NIZ WOJNA (rada Sansy): propozycja umowy wieloletniej (np. piec lat) - drewno i sol Polnocy za zboze Reach, cena ustalona z gory. Niesie przedstawiciel Domu Tally (Hal) - dopisac do jego listy przed pierwsza rozmowa z Olenna; przez Krola.",
    "kto": "SYMON -> HAL (przedstawiciel w Reach) + KROL",
    "kanal": "kruk Winterfell-Bialy Port; dalej z przedstawicielem morzem",
-   "wraca": "300-05-15",
+   "wraca": "300-06-01",
    "zamyka": "propozycja na stole Olenny (meldunek przedstawiciela)",
-   "status": "otwarte"
+   "status": "otwarte ### 05-15: NIE PRZYSZLO I WIADOMO DLACZEGO - przedstawiciel Domu w drodze morzem do Reach (rozkaz 04-02); propozycja na stole Olenny dopiero po jego przybyciu - meldunek Hala ~06-01."
   },
   {
    "data": "300-04-22",
@@ -4297,10 +4297,10 @@
   },
   {
    "data": "300-04-24",
-   "co": "AEMON CHORY - zimno w plucach; Clydas prowadzi kruki. Stan co tydzien przez Osrica/Clydasa (wybor Lorda Dowodcy, Straz bez maestra?). ### 05-01 (64): goraczka zeszla, je, lezy. ### 05-08 (22): KASZEL WROCIL - slabszy niz w IV, bez goraczki; Clydas: nie wstaje, je malo, dyktuje po kilka zdan dziennie. Nastepna wiesc ~05-15.",
+   "co": "AEMON CHORY - zimno w plucach; Clydas prowadzi kruki. Stan co tydzien przez Osrica/Clydasa (wybor Lorda Dowodcy, Straz bez maestra?). ### 05-01 (64): goraczka zeszla, je, lezy. ### 05-08 (22): KASZEL WROCIL - slabszy niz w IV, bez goraczki; Clydas: nie wstaje, je malo, dyktuje po kilka zdan dziennie. Nastepna wiesc ~05-15. ### 05-15 (25): SLABSZY - kaszel trzyma, spi wiekszosc dnia, w tym tygodniu nie dyktowal; Clydas pisze sam. JEDNA KONSEKWENCJA: Clydas pyta wprost, kiedy bedzie maester Wystan (statek z Bialego Portu ~05-30). Nastepna wiesc ~05-22.",
    "kto": "CLYDAS / OSRIC",
    "kanal": "kruk Czarny Zamek-Winterfell",
-   "wraca": "300-05-15",
+   "wraca": "300-05-22",
    "zamyka": "wiesc o zdrowiu Aemona",
    "status": "otwarte"
   },
@@ -4813,9 +4813,9 @@
    "co": "PLAN THEONA ZATWIERDZONY - rozkaz do Theona, Torrena, Harla (Dustinport), Robetta Glovera: odbijanie okretow na plazach Kamienistego Brzegu (Klif Mew, Czarny Piasek, Ujscie Mglistej), noca, 20 na okret, ogien Gloverow, eskadra zamyka ujscie; zalogi - wsie spalone + rybacy Kamienistego Brzegu (zalazek rezerwy). Gotowosc przed sezonem najazdow.",
    "kto": "SYMON -> THEON, TORREN, HARL, ROBETT GLOVER",
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (05-03); kruk Winterfell-Deepwood (05-03)",
-   "wraca": "300-05-15",
+   "wraca": "300-05-16",
    "zamyka": "potwierdzenie gotowosci (ludzie przy plazach, rybacy spisani)",
-   "status": "otwarte"
+   "status": "otwarte ### 05-15: wynik w meldunku zbiorczym Garricka (05-16) - razem z dlugiem dziewieciu pozycji."
   },
   {
    "data": "300-05-02",

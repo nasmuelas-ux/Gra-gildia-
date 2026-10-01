@@ -4969,6 +4969,15 @@
    "wraca": "300-05-08",
    "zamyka": "piwo w piwnicach",
    "status": "ZAMKNIETE 300-05-08 - piwo w piwnicach."
+  },
+  {
+   "data": "300-05-09",
+   "co": "KIJE Z WIELKIM JONEM UMBEREM - wyzwanie przyjete. FORY: Umber bije LEWA reka; Symonowi wystarczy 3 trafienia, Umberowi trzeba 5. Po uczcie.",
+   "kto": "SYMON + WIELKI JON",
+   "kanal": "dziedziniec Winterfell",
+   "wraca": "300-05-11",
+   "zamyka": "pojedynek na kije odbyty (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -4771,6 +4771,24 @@
    "wraca": "300-06-15",
    "zamyka": "odpowiedz Nesty",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-01",
+   "co": "GRIM OD DYMARKI W WILCZYM LESIE - trzy wsie z ksiag czynszowych (Dolny Bor, Czerwony Strumien, Smolna Polana): stare dymarki, zuzel, czerwona woda, starzy ludzie. Z nim czlowiek kasztelana.",
+   "kto": "GRIM + czlowiek kasztelana",
+   "kanal": "konno w Wilczy Las (wyjazd 05-02)",
+   "wraca": "300-05-09",
+   "zamyka": "meldunek Grima (rzut): jest ruda / nie ma / co sie stalo z dymarkami",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-01",
+   "co": "MAESTER WYSTAN DO CZARNEGO ZAMKU - w imieniu Namiestnika, pomoc maestrowi Aemonowi; statkiem z Bialego Portu na koszt Symona (Hal organizuje przejazd, koszt z ksiegi). Na Fosie lecznica - Nina i Gytha.",
+   "kto": "SYMON -> WYSTAN; HAL (statek)",
+   "kanal": "kruk Winterfell-Fosa i Winterfell-Bialy Port (05-01); trakt Fosa-BP, statek do Wschodniej Straznicy, Mur",
+   "wraca": "300-05-30",
+   "zamyka": "Wystan w Czarnym Zamku przy Aemonie (meldunek przez Hallisa/Clydasa)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

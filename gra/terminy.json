@@ -4441,7 +4441,7 @@
   },
   {
    "data": "300-04-26",
-   "co": "DWA NAZWISKA (trzecie - Mur - ZAMKNIETE 300-04-26: HALLIS MOLLEN) DLA KROLA: Wielki Zarzadca Kamiennego Brzegu, Wielki Kasztelan Kamiennego Brzegu, posel na Mur w miejsce Osrica. Mysl Krola: zapytac Torrena Solnego (stamtad), komu ludzie brzegu wierza.",
+   "co": "DWA NAZWISKA (trzecie - Mur - ZAMKNIETE 300-04-26: HALLIS MOLLEN) DLA KROLA: Wielki Zarzadca Kamiennego Brzegu, Wielki Kasztelan Kamiennego Brzegu, posel na Mur w miejsce Osrica. Mysl Krola: zapytac Torrena Solnego (stamtad), komu ludzie brzegu wierza. ### 05-02: KASZTELAN OBSADZONY - ser Corwin Lodowy (+ setnik Ulric Sekaty); zostaje WIELKI ZARZADCA (po Torrenie).",
    "kto": "SYMON -> KROL",
    "kanal": "w zamku",
    "wraca": "300-05-10",
@@ -4815,6 +4815,15 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (05-03); kruk Winterfell-Deepwood (05-03)",
    "wraca": "300-05-15",
    "zamyka": "potwierdzenie gotowosci (ludzie przy plazach, rybacy spisani)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-02",
+   "co": "NOMINACJA KROLA: ser Corwin Lodowy - Wielki Kasztelan Kamiennego Brzegu, Ulric Sekaty - setnik (Rodrik przekazuje Krolowi rano).",
+   "kto": "KROL",
+   "kanal": "w zamku",
+   "wraca": "300-05-03",
+   "zamyka": "nominacja ogloszona Corwinowi przez Krola",
    "status": "otwarte"
   }
  ],

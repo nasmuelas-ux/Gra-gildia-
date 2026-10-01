@@ -447,6 +447,11 @@
     "kto": "HALLIS MOLLEN (kapitan STRAZY zamku Winterfell - nie gwardia) + 5 zwiadowcow + 2 psiarzy",
     "od": "300-04-26",
     "nota": "Wyznaczony przez Krola na wniosek Namiestnika (rzut 66). Zmienia Osrica; wyjazd ~04-29, na Murze ~05-10, przejecie od Osrica osobiscie. Zadania: Aemon/Clydas, kolumny zbozowe, obsydian ~05-18, wolnizna Daru i slad zaginionego posla (zwiadowcy, psiarze), rozmowa ze Stannisem z listem Krola. Posel Korony, NIE brat Strazy. Straz zamku po nim - zastepca (Krol wskaze)."
+   },
+   "WIELKI KASZTELAN KAMIENNEGO BRZEGU": {
+    "kto": "SER CORWIN LODOWY (rycerz domowy Winterfell, ~28; czyta i pisze) - setnik: ULRIC SEKATY (~40, setnik spod Oxcross)",
+    "od": "300-05-02",
+    "nota": "Wskazani przez ser Rodrika (Corwin) i ser Alyna (Ulric); wybor Namiestnika 'obu', nominacja Krola (Rodrik przekazuje 05-03). Wojskowo-sadowy: rezerwy w jednolitych szykach, zbrojownie przy wsiach, straz brzegu, sad. Odpowiada przed Krolem; w sprawach szyku przed Marszalkiem (Osric). Wyjazd z garnizonem bazowym po ~05-22."
    }
   },
   "WINTERFELL": {
@@ -545,12 +550,6 @@
    "drabina": "KORONA",
    "pilnosc": "NAZWISKO OD NAMIESTNIKA",
    "nota": "Ustanowiony 300-04-26 (Krol na wniosek Namiestnika). Gospodarczo-administracyjny: organizuje ziemie Korony w imieniu Krola (spis wsi i dymow, spichlerz, targ, droga, podatek w naturze). Odpowiada przed Krolem, melduje co kwartal. Krol: 'jeden liczy, drugi trzyma miecz i sad - zaden nie ma wszystkiego'."
-  },
-  {
-   "urzad": "WIELKI KASZTELAN KAMIENNEGO BRZEGU",
-   "drabina": "KORONA",
-   "pilnosc": "NAZWISKO OD NAMIESTNIKA",
-   "nota": "Ustanowiony 300-04-26. Wojskowo-sadowy: rezerwy w jednolitych szykach, zbrojownie przy wsiach, straz brzegu, sad. Odpowiada przed Krolem; w sprawach szyku przed Marszalkiem Choragwi (Osric). Melduje co kwartal."
   }
  ],
  "_nie_dotyczy": {

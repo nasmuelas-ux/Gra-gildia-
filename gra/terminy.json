@@ -4906,6 +4906,15 @@
    "wraca": "300-05-20",
    "zamyka": "Mira w Winterfell",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-04",
+   "co": "LIST DO MIRY - ZAMOWIENIE KROLOWEJ ROSLIN: suknia na lato, 'ktorej nikt wczesniej nie nosil'; placi szkatula krolowej (nie Korona); miare Mira bierze w Winterfell po przyjezdzie (~05-20); kolor z Sansa ('nie szary'). Symon zapowiedzial, ze napisze - NIE NAPISANY. Okno: kruk do BP 2 dni, Mira wyjezdza ~05-08 - list z poczty 05-05 zdazy.",
+   "kto": "SYMON -> MIRA",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-05-07",
+   "zamyka": "list wyslany przed wyjazdem Miry albo sprawa ustnie po jej przyjezdzie",
+   "status": "otwarte - zamiar"
   }
  ],
  "_dopiski_300_03_18": [

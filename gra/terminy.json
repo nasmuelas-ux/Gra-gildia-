@@ -5617,6 +5617,15 @@
    "wraca": "300-07-01",
    "zamyka": "pierwszy meldunek z miasta albo nazwana przyczyna braku",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "HAL - RAPORT ANALITYCZNY: ZLOTO LANNISTEROW W OCZACH RYNKU (z placowek: Braavos, Pentos, Seagard, Rozdroze, Reach od VI) - jak kupcy przyjmuja zloto i weksle Lwa, kredyt Lannisportu, czym placi Twierdza, co mowia nabrzeza o kopalniach Zachodu. Fakty i zrodla, bez dokladnych liczb; czego nie wie - pisze, ze nie wie. Wlasny czlowiek - bez rzutu.",
+   "kto": "HAL (Bialy Port)",
+   "kanal": "kruk Winterfell-Bialy Port (05-20) + raport z bilansem czerwcowym",
+   "wraca": "300-06-08",
+   "zamyka": "raport na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

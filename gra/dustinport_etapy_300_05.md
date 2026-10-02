@@ -71,7 +71,7 @@
 2. **Nabrzeże morskie** — pale olchowe, kamień przy krawędzi.
 3. **Latarnia** — punkt łańcucha ognia i znak eskadry.
 4. **Szopy zimowe na sześć kadłubów.**
-5. **SOLARNIA — PROPOZYCJA UDZIAŁU DLA DREADFORTU** (rozstrzygnięcie pana 300-05-20): zamiast zabierać Boltonowi narzędzie — **dać mu w nim udział**. Kształt, warunki i kolejność rozmów — w osobnej pozycji (⚠ sól to regale Korony; brzeg to ziemia Barbrey z paktu).
+5. **SÓL — NIE RĘKAMI KORONY** (rozstrzygnięcie pana 300-05-20; propozycja udziału dla Dreadfortu odwołana): eskadra **kupuje sól**, nie warzy jej sama. Warzyć ma ten, kto zechce, **na wolnym prawie** — ludzie Barbrey, rybacy, miasto, Bractwo — pod jedną zasadą Korony: **miara, rejestr, cena ogłoszona, zakaz wyłączności** (*„Korona daje prawo i miarę, nie monopol"*). Celem nie jest ukrócić Dreadfort, tylko żeby żaden dom — **ani Bolton, ani Korona, ani Dom Tally** — nie był jedyną ręką, z której brzeg bierze sól. ⚠ Zmiana regale soli to prawo Korony — do Króla.
 
 ### E3 — BAZA STAŁA
 1. **Rezerwa kadłubów na brzegu** — osmolone, przykryte, pilnowane; stan czytany na głos raz w roku.

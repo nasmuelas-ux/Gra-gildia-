@@ -3250,7 +3250,7 @@
   },
   {
    "data": "300-04-02",
-   "co": "SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie.",
+   "co": "SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie. ### 05-18 DECYZJA PANA: MIERZYC SZYBKO, obie strony obserwuja (tryb 04-02). Jezdziec za Cerwynem 05-19, kruk do Dreadfortu 05-19.",
    "kto": "CERWYN (Justycjariusz) + DONELLA HORNWOOD + DREADFORT",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-06-01",
@@ -5517,6 +5517,42 @@
    "kanal": "kruk Fosa-Rills (przez Barrowton) albo czlowiek Hendry'ego traktem - wybiera Hendry",
    "wraca": "300-06-01",
    "zamyka": "odpowiedz Ryswellow (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "CERWYN - PRZYSPIESZONY POMIAR GRANICY HORNWOOD/DREADFORT: jezdziec Korony za Justycjariuszem w objezdzie zachodu z pismem Namiestnika - najblizsza data pomiaru (tryb 04-02: dwie pieczecie, pisarz rewizji). Urzednik Korony - bez rzutu na wykonanie; data zalezy od tego, gdzie jest w objezdzie.",
+   "kto": "CERWYN (Justycjariusz) <- SYMON",
+   "kanal": "jezdziec Korony na zachod (trasa objazdu w kancelarii) i z powrotem - E ~3 dni w jedna strone",
+   "wraca": "300-05-25",
+   "zamyka": "data pomiaru od Cerwyna",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "DREADFORT - ZAWIADOMIENIE O PRZYSPIESZONYM POMIARZE: Dreadfort wskazuje obserwatora do wspolnego przejscia (tryb 04-02). Roose zgodzil sie na pomiar 05-10 (59). RZUT przy odpowiedzi (wola obca: kogo i kiedy).",
+   "kto": "SYMON -> ROOSE BOLTON",
+   "kanal": "kruk Winterfell-Dreadfort (05-19, tam 3, wraca lacznie 7)",
+   "wraca": "300-05-26",
+   "zamyka": "imie obserwatora Dreadfortu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "AKT: LADY DONELLA ZARZADCZYNIA PRZY LORDZIE LARENCE'U - nadaje Larence, pieczec kuratora Galbarta (dzis wieczorem), spisuje pisarz Luwina; Krol i Namiestnik swiadkami.",
+   "kto": "LARENCE + GALBART (pieczec) / pisarz Luwina",
+   "kanal": "Winterfell",
+   "wraca": "300-05-19",
+   "zamyka": "akt spisany i opieczetowany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "HORNWOOD - LUDZIE NA MUR DLA LARENCE'A: druzyna Hornwoodow poszla z Halysem, wrocili starzy i chlopcy (Galbart); Larence nie ma kogo postawic na murze, kto by go znal. Nierozstrzygniete na spotkaniu 05-18 - przed wyjazdem do Hornwood (Galbart: 'dzien, dwa').",
+   "kto": "SYMON / LARENCE / GALBART",
+   "kanal": "Winterfell (przed wyjazdem)",
+   "wraca": "300-05-20",
+   "zamyka": "decyzja albo zostaje jak jest",
    "status": "otwarte"
   }
  ],

@@ -4120,9 +4120,9 @@
    "co": "OBSYDIAN NA MUR - trzy skrzynie ze skladu Domu w Bialym Porcie (dar Stannisa), wozem Korony przez Winterfell (Luwin wazy drugi raz) do Czarnego Zamku; odbiera Osric, kwit wagowy dla Strazy. Przewoz Kasa 3.",
    "kto": "HAL (wydanie) -> woz Korony -> OSRIC",
    "kanal": "kruk Winterfell-Bialy Port (rozkaz 04-22) + woz Bialy Port-Czarny Zamek (~26 dni)",
-   "wraca": "300-05-18",
+   "wraca": "300-05-20",
    "zamyka": "kwit wagowy z Czarnego Zamku",
-   "status": "otwarte"
+   "status": "otwarte ### 05-18: NIE PRZYSZLO I WIADOMO DLACZEGO - woz na Murze ~dzis; kwit krukiem od Osrica ~05-20."
   },
   {
    "data": "300-04-21",
@@ -5319,7 +5319,7 @@
    "kanal": "kruk Winterfell-Fosa (05-14 poludnie) i z powrotem",
    "wraca": "300-05-18",
    "zamyka": "plan Hendry'ego na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-18 - plan Hendry'ego na pismie (etapy, garrony, kwatery po budowach, prosba o dowodce setki, koszt ~05-25)."
   },
   {
    "data": "300-05-14",
@@ -5464,6 +5464,42 @@
    "wraca": "300-06-22",
    "zamyka": "zadanie przyjete przez Ilaria: kolejka, zrodla, data odpisow",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "⚠ HENDRY PROSI O DOWODCE SETKI DLA GORACEGO PORTU - 'mam dobrych dziesietnikow, nie mam nikogo, kto prowadzil setke'; prosi pana o wskazanie czlowieka albo zgode na szukanie poza lennem.",
+   "kto": "SYMON (decyzja) -> HENDRY",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-06-01",
+   "zamyka": "dowodca wskazany albo zgoda na szukanie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "KARTA KOSZTOW SIL LENNA DO 200 - Warryn i Gerrik licza etapami od stawki zoldu z ksiegi Kasy 2 (Fosa 50, jazda 50 z konmi, Goracy Port 30 -> 100).",
+   "kto": "WARRYN + GERRIK (Kasa 2)",
+   "kanal": "kruk Fosa-Winterfell",
+   "wraca": "300-05-25",
+   "zamyka": "karta kosztow na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "KONIE DLA JAZDY LENNA (50) - Hendry: garrony albo konie z Barrowlandow, nie rumaki z poludnia (zbiezne z rada Krola 05-14: garrony od Ryswellow). Kupno - decyzja pana.",
+   "kto": "SYMON (decyzja)",
+   "kanal": "Winterfell",
+   "wraca": "300-06-01",
+   "zamyka": "decyzja: skad i ile",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "PRZEWLOKA - KURZAWKA NA TRZECIEJ MILI (zbiorcze 05-16): kladzenie wstrzymane, faszyna i pale; 'tydzien, moze dwa' zwloki. Wlasni ludzie - bez rzutu; stan w nastepnym zbiorczym.",
+   "kto": "GARRICK",
+   "kanal": "zbiorcze (kruk Fosa-Winterfell)",
+   "wraca": "300-05-25",
+   "zamyka": "kurzawka opanowana - stan w zbiorczym",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -5560,7 +5596,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-05-09",
+   "ostatnio_odebrane": "300-05-16",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

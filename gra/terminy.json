@@ -5581,6 +5581,15 @@
    "wraca": "300-06-05",
    "zamyka": "odpowiedz Reeda (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "KONTRAKT UMBERA NA ZAOPATRZENIE MURU - DATA PIERWSZEJ KOLUMNY (zasada 36: kontrakt z 05-10 bez otwartej operacji; ziarno na Murze do konca VI). Gawen (Skarb) ustala z Ostatnim Ogniskiem date wyjazdu pierwszej kolumny kontraktu (dwie na kwartal, 40-60 za kolumne wg Gawena).",
+   "kto": "GAWEN -> WIELKI JON UMBER",
+   "kanal": "kruk Winterfell-Ostatnie Ognisko i z powrotem",
+   "wraca": "300-05-26",
+   "zamyka": "data pierwszej kolumny na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

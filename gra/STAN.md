@@ -690,10 +690,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-05-23 poludnie · zima (300)
+- **Data:** 300-05-23 popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 2**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 20**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1479,7 +1479,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-22] `dziennik`: 300-05-22 NOC - Symon i Mira ida spac. Bez rzutu.
 - [300-05-23] `dziennik`: 300-05-23 RANEK (SOBOTA), WINTERFELL - SEN RZUT 72: noc dobra; zdrowie 100, zmeczenie 40->2, sytosc 100->72. POGODA RZUT 65: cieply, sloneczny dzien wiosny, wiatr z poludnia; drogi suche; kr…
 - [300-05-23] `dziennik`: 300-05-23 RANEK, KOMNATA NAMIESTNIKA + WIEZA MAESTERA - ⚑ SYMON: PRZYSPIESZYC PRZYJAZD MAESTERA WYSTANA DO CZARNEGO ZAMKU. Bez rzutu na wydanie. LUWIN liczy z zapisu (rozkaz 05-01): Fosa -> …
 - [300-05-23] `WYSTAN`: 300-05-23 RANEK, KOMNATA NAMIESTNIKA + WIEZA MAESTERA - ⚑ SYMON: PRZYSPIESZYC PRZYJAZD MAESTERA WYSTANA DO CZARNEGO ZAMKU. Bez rzutu na wydanie. LUWIN liczy z zapisu (rozkaz 05-01): Fosa -> …
@@ -1491,3 +1490,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-23] `dziennik`: 300-05-23 PRZED POLUDNIEM - SYMON IDZIE Z LYRA NA SPACER PO ZAMKU. Bez rzutu (rodzina). Cieply wiatr z poludnia, slonce; Lyra na reku, potem na wlasnych nogach, trzymajac palec ojca. STAJNIE…
 - [300-05-23] `rodzina/MIRA`: 300-05-23 - Symon na spacerze z Lyra: stajnie (klacz Brana - 'kon'), szczeniak Rickona, jarzebina w gaju.
 - [300-05-23] `dziennik`: 300-05-23 OBIAD, WIELKA SALA - cieplo, okna szeroko otwarte, pierwszy obiad bez ognia w obu kominkach. Pstrag z masla, mlode pokrzywy z jajem, chleb, ser, piwo; dla dzieci mleko z miodem. Be…
+- [300-05-23] `dziennik`: 300-05-23 POPOLUDNIE, DZIEDZINIEC CWICZEBNY - WALKA Z MISTRZEM Z BRAAVOS (sparing wolny). Bez rzutu (wlasny czlowiek Korony). Cieplo, slonce, sucho - pierwszy raz bez kaftana pod przeszywani…

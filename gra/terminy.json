@@ -5644,6 +5644,24 @@
    "wraca": "300-07-06",
    "zamyka": "meldunek Nesty",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "OCHMISTRZ WYCHOWANKOW WINTERFELL - KANDYDACI: Gawen podaje 2-3 imiona metoda 'wsrod odstawionych' wg profilu (nakarmil i polozyl spac wielu obcych naraz i umial powiedziec ilu; nie Tally, nie Stark, taki, ktoremu da sie powiedziec). Symon wybiera, Krol zatwierdza; zgoda kandydata - RZUT.",
+   "kto": "GAWEN -> SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-22",
+   "zamyka": "lista kandydatow na stole",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "RACHMISTRZ WYCHOWANKOW WINTERFELL - obsadza Skarbnik ze swojej reki (podlega Skarbnikowi, nie Ochmistrzowi; fach i ksiegi nigdy w jednej rece). Wlasny czlowiek - bez rzutu.",
+   "kto": "GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-05-24",
+   "zamyka": "imie rachmistrza w ksiedze Skarbu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

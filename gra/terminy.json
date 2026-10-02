@@ -4234,7 +4234,7 @@
   },
   {
    "data": "300-04-22",
-   "co": "REACH - KONTRAKT DLUZSZY NIZ WOJNA (rada Sansy): propozycja umowy wieloletniej (np. piec lat) - drewno i sol Polnocy za zboze Reach, cena ustalona z gory. Niesie przedstawiciel Domu Tally (Hal) - dopisac do jego listy przed pierwsza rozmowa z Olenna; przez Krola.",
+   "co": "REACH - KONTRAKT DLUZSZY NIZ WOJNA (rada Sansy): propozycja umowy wieloletniej (np. piec lat) - drewno i sol Polnocy za zboze Reach, cena ustalona z gory. Niesie przedstawiciel Domu Tally (Hal) - dopisac do jego listy przed pierwsza rozmowa z Olenna; przez Krola. ### 05-17: przy meldunku przedstawiciela sprawdzic, czy jest STALY KONTAKT z Mace'em/Olenna - to spust do odwieszenia sprawy schronienia dla Margaery (zawieszonej decyzja Symona). Przedstawiciel NIE porusza tematu Margaery.",
    "kto": "SYMON -> HAL (przedstawiciel w Reach) + KROL",
    "kanal": "kruk Winterfell-Bialy Port; dalej z przedstawicielem morzem",
    "wraca": "300-06-01",
@@ -4248,7 +4248,7 @@
    "kanal": "do ustalenia (ustnie - przez zaufanego czlowieka)",
    "wraca": "300-05-19",
    "zamyka": "decyzja Krola: czy i przez kogo",
-   "status": "otwarte"
+   "status": "ZAWIESZONE 300-05-17 - decyzja Symona: nie podejmowac do rozmowy i stalego kontaktu z Mace'em Tyrellem lub Olenna. Spust: staly kontakt (pierwsza okazja - meldunek przedstawiciela ~06-01)."
   },
   {
    "data": "300-04-22",

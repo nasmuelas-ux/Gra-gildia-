@@ -4104,7 +4104,7 @@
    "kanal": "jezdziec Dustinport-Fosa + kruk Fosa-Winterfell",
    "wraca": "300-05-21",
    "zamyka": "karta na stole",
-   "status": "otwarte"
+   "status": "ZASTAPIONE 300-05-15 - przeniesione do zadan cyklicznych (terminy.json: cykliczne, id KARTA_THEONA). Historia zostaje w tym wpisie."
   },
   {
    "data": "300-04-21",
@@ -4302,7 +4302,7 @@
    "kanal": "kruk Czarny Zamek-Winterfell",
    "wraca": "300-05-22",
    "zamyka": "wiesc o zdrowiu Aemona",
-   "status": "otwarte"
+   "status": "ZASTAPIONE 300-05-15 - przeniesione do zadan cyklicznych (terminy.json: cykliczne, id AEMON_STAN). Historia zostaje w tym wpisie."
   },
   {
    "data": "300-04-24",
@@ -5474,6 +5474,121 @@
    "wraca": "300-04-20",
    "zamyka": "odpowiedz albo ODMOWA Z NAZWISKIEM I DATA - obie zamykaja",
    "status": "otwarte - NOWE 300-03-28"
+  }
+ ],
+ "_cykliczne_opis": "ZADANIA CYKLICZNE (od 300-05-15, prosba gracza): meldunki i karty o stalym rytmie. dzien.py sam wylicza kolejne terminy (pisane + opoznienie = wraca) od 'ostatnio_odebrane' do dzis+horyzont. Zalegle wystapienia wchodza do PRZETERMINOWANYCH. Po odebraniu: python3 gra/dzien.py odebrane <id> <data_pisania>. rytm: co_dni (od daty 'start') albo dzien_miesiaca.",
+ "cykliczne": [
+  {
+   "id": "ZBIORCZY_GARRICK",
+   "co": "MELDUNEK ZBIORCZY FOSY (Garrick) - wszystkie budowy lenna: grobla i komora, przewloka, port wschodni, trakt i odnogi, mlyn, torfiarnie, etapy miasta, spichlerz, Goracy Port, transport kamienia, drukarnia; plus sprawy lenna.",
+   "kto": "GARRICK",
+   "kanal": "kruk Fosa-Winterfell",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-04-11"
+   },
+   "opoznienie": 2,
+   "ostatnio_odebrane": "300-04-18",
+   "zrodlo": "terminarz_budow_300_04.md"
+  },
+  {
+   "id": "KARTA_BORS",
+   "co": "KARTA I - BORS, PRZYSTAN WILKA (baszta + akademia) - osiem rubryk.",
+   "kto": "BORS",
+   "kanal": "przez Garricka",
+   "rytm": {
+    "dzien_miesiaca": 6
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-04-06",
+   "zrodlo": "terminarz_budow_300_04.md"
+  },
+  {
+   "id": "KARTA_THEOMORE",
+   "co": "KARTA III - THEOMORE, GLEBOKORZEN - osiem rubryk.",
+   "kto": "THEOMORE",
+   "kanal": "kruk Bialy Port-Winterfell",
+   "rytm": {
+    "dzien_miesiaca": 6
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-04-06",
+   "zrodlo": "terminarz_budow_300_04.md"
+  },
+  {
+   "id": "KARTA_DONNEL",
+   "co": "KARTA II - DONNEL OBROK, DUSTINPORT - osiem rubryk (+ rubryka 'ogien Barrowlandow').",
+   "kto": "DONNEL OBROK",
+   "kanal": "jezdziec Dustinport-Fosa + kruk Fosa-Winterfell",
+   "rytm": {
+    "dzien_miesiaca": 8
+   },
+   "opoznienie": 6,
+   "ostatnio_odebrane": "300-05-08",
+   "zrodlo": "terminarz_budow_300_04.md"
+  },
+  {
+   "id": "KARTA_STARKPORT",
+   "co": "KARTA IV - VEMUND OD KOTWY + SIGRUN, STARKPORT - osiem rubryk.",
+   "kto": "VEMUND + SIGRUN",
+   "kanal": "przez Dustinport (Donnel/Torren) + kruk z Fosy",
+   "rytm": {
+    "dzien_miesiaca": 20
+   },
+   "opoznienie": 5,
+   "ostatnio_odebrane": "300-04-20",
+   "zrodlo": "terminarz_budow_300_04.md"
+  },
+  {
+   "id": "KARTA_SPICHLERZ",
+   "co": "SPICHLERZ POLNOCY - ETAP I (Orland Korzec + Gawen) - karta co 14 dni.",
+   "kto": "ORLAND KORZEC + GAWEN",
+   "kanal": "Winterfell / kruk z Fosy",
+   "rytm": {
+    "co_dni": 14,
+    "start": "300-04-11"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-04-11",
+   "zrodlo": "terminarz_budow_300_04.md"
+  },
+  {
+   "id": "KARTA_THEONA",
+   "co": "KARTA THEONA (15. dnia miesiaca) - Kamienisty Brzeg / plan odbijania.",
+   "kto": "THEON GREYJOY",
+   "kanal": "jezdziec + kruk z Fosy",
+   "rytm": {
+    "dzien_miesiaca": 15
+   },
+   "opoznienie": 6,
+   "ostatnio_odebrane": "300-04-15",
+   "zrodlo": "terminy (KARTA THEONA)"
+  },
+  {
+   "id": "AEMON_STAN",
+   "co": "AEMON - STAN ZDROWIA (Clydas/Osric), co tydzien.",
+   "kto": "CLYDAS / OSRIC",
+   "kanal": "kruk Czarny Zamek-Winterfell",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-05-01"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-05-15",
+   "zrodlo": "terminy (AEMON CHORY)",
+   "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
+  },
+  {
+   "id": "BILANS_HALA",
+   "co": "HAL - ROZLICZENIE MIESIACA DOMU (Kasa 1 i przedsiebiorstwa osobno) za miesiac poprzedni.",
+   "kto": "HAL (+ TAM)",
+   "kanal": "kruk Bialy Port-Winterfell",
+   "rytm": {
+    "dzien_miesiaca": 5
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-05-05",
+   "zrodlo": "terminy (HAL - PELNE ROZLICZENIE)"
   }
  ]
 }

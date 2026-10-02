@@ -5755,7 +5755,7 @@
   },
   {
    "data": "300-05-20",
-   "co": "DUSTINPORT - ETAPY Z DATAMI (zatwierdzone 05-20, gra/dustinport_etapy_300_05.md): Donnel Obrok + Torren Solny rozpisuja E1-E3 z data i nazwiskiem odpowiedzialnego; E1 najpierw (szesc mokrych, zalogi imiennie, waga i kwit polowu, PALISADA I WIEZA OGNIA). Wlasni ludzie - bez rzutu. ### 05-20: E2 BEZ SOLARNI KORONY - Donnel kupuje sol dla polowu tam, gdzie taniej i pewniej, z kwitem.",
+   "co": "DUSTINPORT - ETAPY Z DATAMI (zatwierdzone 05-20, gra/dustinport_etapy_300_05.md): Donnel Obrok + Torren Solny rozpisuja E1-E3 z data i nazwiskiem odpowiedzialnego; E1 najpierw (szesc mokrych, zalogi imiennie, waga i kwit polowu, PALISADA I WIEZA OGNIA). Wlasni ludzie - bez rzutu. ### 05-20: E2 BEZ SOLARNI KORONY - Donnel kupuje sol dla polowu tam, gdzie taniej i pewniej, z kwitem. ### 05-20 (pozniej): solarnia - LADY DUSTIN (jej warzelnia, eskadra kupuje od niej); zakup na rynku do czasu jej solarni.",
    "kto": "DONNEL OBROK + TORREN SOLNY",
    "kanal": "kruk Winterfell-Fosa (05-21) + jezdziec Fosa-Dustinport (4 dni) i z powrotem",
    "wraca": "300-06-02",
@@ -5779,6 +5779,24 @@
    "wraca": "300-05-27",
    "zamyka": "decyzja Krola o soli na wolnym prawie",
    "status": "VOID 300-05-20 - na slowo gracza: bez doktryny; rozwiazanie tylko dla Dustinportu (Donnel kupuje sol na rynku)."
+  },
+  {
+   "data": "300-05-20",
+   "co": "LIST DO LADY BARBREY DUSTIN - SOLARNIA W DUSTINPORCIE JEJ: stawia i prowadzi ona (jej brzeg, warzelnia, zysk); eskadra Korony kupuje od niej sol dla polowu, z kwitem. Wola obca - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> BARBREY DUSTIN",
+   "kanal": "kruk Winterfell-Barrowton (05-21) i z powrotem",
+   "wraca": "300-05-25",
+   "zamyka": "odpowiedz Barbrey (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-20",
+   "co": "PRAWO SOLARNI MORSKIEJ - kazdy dom nadmorski zachodu i wschodu, ktory nie ma solarni morskiej, dostaje prawo do jednej (wola pana: 'walczymy z glodem, wiec sol niech bedzie wszedzie'). Sol jest regale Korony - pismo pod PIECZEC KROLA (Symon przedklada). Lista domow nadmorskich bez solarni - kancelaria z rejestru domow.",
+   "kto": "SYMON -> KROL (pieczec); GARRICK/TOBIN (lista)",
+   "kanal": "Winterfell",
+   "wraca": "300-05-22",
+   "zamyka": "pismo opieczetowane przez Krola + lista domow",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

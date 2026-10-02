@@ -5904,7 +5904,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-23",
    "zamyka": "zgoda Krola + miejsce wskazane",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-22 (rzut 32) - Krol sie zgadza: DRZEWO (nie kamien, bez imienia) przy cieplej sadzawce, po wschodniej stronie; gatunek wybieraja Symon i Mira; ogrodnik zamkowy - sadzonka i miejsce"
   },
   {
    "data": "300-05-22",
@@ -5976,6 +5976,15 @@
    "kanal": "kruki Winterfell-(Wyspa Niedzwiedzia, Palec przez Fose, Barrowton, Karhold, Ostatnie Domostwo, Wdowia Straz, Stary Zamek, Dreadfort, Bialy Port)",
    "wraca": "300-05-23",
    "zamyka": "odpisy wyslane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-22",
+   "co": "DRZEWO DLA SIGURDA W GAJU WINTERFELL - przy cieplej sadzawce, wschodnia strona (zgoda Krola 05-22). Gatunek - wybieraja Symon i Mira; ogrodnik zamkowy daje sadzonke i pokazuje miejsce; posadzenie - kiedy Symon i Mira zdecyduja.",
+   "kto": "SYMON + MIRA + OGRODNIK ZAMKOWY",
+   "kanal": "Winterfell",
+   "wraca": "300-05-25",
+   "zamyka": "drzewo posadzone",
    "status": "otwarte"
   }
  ],

@@ -5419,6 +5419,15 @@
    "wraca": "300-06-15",
    "zamyka": "mur od morza i wieza stoja; Hendry moze wprowadzic ludzi",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-16",
+   "co": "⚠ ALARM ZASADY 36 - ZAMEK FOSY CAILIN: SPRAWA ZYWA BEZ OPERACJI. Stan z ksiag: z 20 wiez stoja 3 (ustabilizowane 299-05), WIEZA BRAMNA mieszkalna = siedziba pana, brama dziala i jest broniona; 'plan pokoleniowy' Donnela rozrysowany - ale DONNEL OBROK od 299-08 prowadzi DUSTINPORT, a od tamtej pory przy zamku nikt nie prowadzi robot (zadnego meldunku, zadnego etapu). Ograniczenie Orbela: WIEZ FOSY NIE ROZBIERA SIE NA KAMIEN. Nowa presja: rozkaz 05-14 - 50 stalych w Fosie (z ~50 dzis) + szkolenie rezerwy - KWATERY i zbrojownia lenna na 700 kompletow. DO DECYZJI PANA: kto prowadzi zamek (mistrz robot) i co pierwsze (np. koszary/zbrojownia w obrebie murow, czwarta wieza, mur miedzy wiezami).",
+   "kto": "SYMON -> GARRICK (obsada)",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-05-20",
+   "zamyka": "mistrz robot zamku obsadzony i pierwszy etap z data",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

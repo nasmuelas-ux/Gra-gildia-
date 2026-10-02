@@ -645,3 +645,10 @@ Na skraju ogrodów, przy kanale i wejściu do Lecznicy: niska, stabilna wieża z
 - **Ludzie, którzy już są** — w lennie leczy **Nina, zielarka-medyczka włości** (z uczennicą); Dom ma spółkę **zielarnię** i **lecznicę** (rozliczenie Hala). Do Fosy płynie **maester Edmund — ziołolecznictwo, srebrne ogniwo** (~07-01). Kompleks jest domem dla tego, co już działa, nie nowym urzędem.
 - **Łaźnia** — Część Trzecia ma już **łaźnię miejską** ogrzewaną torfem; kąpielisko Lecznicy jest lecznicze, osobne.
 - **Kolejność** — Szklarnie są w **Etapie IV** miasta (co oddycha); Lecznica może ruszyć wcześniej w izbach tymczasowych.
+
+### ROZSTRZYGNIĘCIA LORDA — 300-05-19 (wg rekomendacji, przyjęte w całości)
+- **Sprzedaż** — leki i zioła **dla ludzi lenna i okolicy: targ Miasta Dolnego** (na ląd); **wywóz na morze: przez Biały Port** (Hal, kantor Domu). Port Wschodni zostaje dokiem.
+- **Ogień** — **Apteka (IV), Lecznica (V) i Latarnia Ziół — w Dzielnicy Zielonej, za kanałem.** Park (I) i Arboretum (II) — w Mieście Górnym przy Dworze. **Kanał jest granicą kwartału, most — jego osią** (oś widokowa z Oranżerii biegnie przez most).
+- **Gaj dworski — zwykłe drzewa**, bez czardrzewa. Czardrzewo miasta stoi na placu Miasta Górnego.
+- **Szkło z Myr** — wchodzi do przeliczenia: **Hal podaje wycenę i czas dostawy** (bez zamówienia; zamówienie po rachunku).
+- **Do przeliczenia i do kolejki:** Garrick + Warryn wliczają kwartał w koszt etapami i kolejkę kamienia i rąk (Szklarnie — Etap IV; Lecznica może ruszyć wcześniej w izbach tymczasowych). Weylin — sieć pary i ciepłej wody dla szklarni, Sadzawki i kąpieliska.

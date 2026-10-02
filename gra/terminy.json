@@ -5665,11 +5665,20 @@
   },
   {
    "data": "300-05-19",
-   "co": "LATARNIA PIORA I PLOMIENIA (projekt_cailin.md) - DO RACHUNKU I KOLEJKI: Garrick + Warryn wliczaja budynek w koszt etapami i kolejke kamienia/rak obok osmiu budow (etap III/IV); WEYLIN - spad dla kola wodnego papierni przy Wielkiej Sluzie. Rozstrzygniecia: pale olcha, odlewnia w Dzielnicy Zielonej, poziom 3 - biblioteka robocza. Wlasni ludzie - bez rzutu.",
+   "co": "LATARNIA PIORA I PLOMIENIA (projekt_cailin.md) - DO RACHUNKU I KOLEJKI: Garrick + Warryn wliczaja budynek w koszt etapami i kolejke kamienia/rak obok osmiu budow (etap III/IV); WEYLIN - spad dla kola wodnego papierni przy Wielkiej Sluzie. Rozstrzygniecia: pale olcha, odlewnia w Dzielnicy Zielonej, poziom 3 - biblioteka robocza. Wlasni ludzie - bez rzutu. ### 05-19 DOPISANE: BAGIENNE OGRODY (arboretum, szklarnie, apteka, lecznica) - ten sam rachunek i kolejka: Park i Arboretum w Miescie Gornym, Apteka/Lecznica/Latarnia Ziol w Dzielnicy Zielonej; szklarnie etap IV, lecznica wczesniej w izbach tymczasowych; WEYLIN - siec pary i cieplej wody (szklarnie, Sadzawka, kapielisko).",
    "kto": "GARRICK + WARRYN / WEYLIN",
    "kanal": "kruk Winterfell-Fosa (05-20) i z powrotem",
    "wraca": "300-05-24",
-   "zamyka": "Latarnia w kolejce z miejscem i kosztem etapami; rachunek spadu Weylina",
+   "zamyka": "Latarnia i Bagienne Ogrody w kolejce z miejscem i kosztem etapami; rachunki Weylina (spad kola, siec pary)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "HAL - SZKLO Z MYR: wycena i czas dostawy szkla do szklarni (Bagienne Ogrody, Dzielnica Zielona) - bez zamowienia; zamowienie po rachunku. Kwoty z jego slowa, nie z glowy (zasada 43). Wlasny czlowiek - bez rzutu; cena i termin Myrijczykow - z ich slowa przy odpowiedzi.",
+   "kto": "HAL",
+   "kanal": "kruk Winterfell-Bialy Port (05-20) i z powrotem; Hal pyta przez korespondentow",
+   "wraca": "300-05-26",
+   "zamyka": "wycena i czas dostawy na pismie (albo nazwane, czego jeszcze nie wiadomo)",
    "status": "otwarte"
   }
  ],

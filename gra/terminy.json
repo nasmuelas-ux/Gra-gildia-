@@ -5824,6 +5824,15 @@
    "wraca": "300-05-24",
    "zamyka": "listwy stoja, wpis w ksiedze wyciagu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-21",
+   "co": "ROZKAZ DO VEMUNDA OD KOTWY (i SIGRUN) PO NARADZIE O STARKPORCIE: (1) Vemund ZOSTAJE na Cyplu - przyczolek staje sie PRZYSTANIA KORONY DLA WOLNYCH LUDZI (pomost, szopy, kwit; ziarno/narzedzia/sol morzem przez niego; widzi, kto przysiegal); (2) spis imienny ~40 ludzi: kto Vemunda, kto Sigrun; (3) reszta wg rozstrzygniec narady (Sigrun, twierdza na Kamiennym Brzegu). Wlasni ludzie Korony - bez rzutu na wykonanie.",
+   "kto": "SYMON -> VEMUND + SIGRUN",
+   "kanal": "kruk Winterfell-Fosa (05-21) + jezdziec Fosa-Dustinport + lodz na Cypel",
+   "wraca": "300-05-29",
+   "zamyka": "rozkaz na Cyplu (E ~05-29); potwierdzenie w karcie Starkportu 06-25",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

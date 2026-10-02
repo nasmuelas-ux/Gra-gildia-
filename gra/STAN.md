@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**112 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**110 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -511,8 +511,8 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-22** — GARNIZON KAMIENNEGO BRZEGU 150 - ZOLD DO KONCA ROKU (Kasa 3): stawka ~3 smoki/mies. na PIECDZIESIECIU (40 miedziakow dziennie na glowe), narastanie: 50 od ~05-28, +50 od 07-01, +50 od VIII. Suma i miesieczny koszt z ksiegi Gawena (zasada 43). · _kto:_ **GAWEN (Skarb)** · _zamyka:_ zold w ksiedze Skarbu: miesiecznie i do konca roku **⚠ ZAMKNIETE 300-05-23 - GAWEN: ~53 SMOKI DO KONCA ROKU; 9 SMOKOW/MIES. PRZY PELNYCH 150 (KURS 40 MIEDZIAKOW/DZIEN)**
 - **300-05-22** — GARNIZON KAMIENNEGO BRZEGU 150 - ZBROJOWNIA: czy zbrojownia Winterfell da komplety (wlocznia + miecz przy lzejszym komplecie, rozkaz 05-02) na drugie i trzecie piecdziesiat; miecze najpierw dla brzegu. · _kto:_ **SER RODRIK** · _zamyka:_ spis kompletow: jest / brakuje ile i do kiedy **⚠ ZAMKNIETE 300-05-22 (RODRIK PRZY KOLACJI) - WLOCZNIE NA DRUGIE 50 SA; MIECZE NA DRUGIE 50 - KOWALE ZAMKOWI DO VII; NA TRZECIE 50 - PO PRZYJEZDZIE KOWALI Z HARRENHALU**
 - **300-05-22** — GARNIZON KAMIENNEGO BRZEGU - DRUGI NABOR 50 (VIII, po palisadzie): z osad Sigrun i wsi brzegu; pod Ulrikiem; zold Kasa 3. Odzew - RZUT przy naborze. · _kto:_ **CORWIN + ULRIC (na miejscu)** · _zamyka:_ 50 imiennie przyjetych (rzut odzewu)
-- **300-05-22** — MIRA - LIST DO ATELIER W BIALYM PORCIE (wlasna reka): dwie najlepsze szwaczki do Winterfell, reszta zostaje pod najstarsza. Rodzina/Dom - bez rzutu na wydanie; zgoda szwaczek na przeprowadzke - wola obca, RZUT przy odpowiedzi. · _kto:_ **MIRA -> ATELIER (Bialy Port)** · _zamyka:_ odpowiedz szwaczek (rzut) + data przyjazdu
-- **300-05-22** — PANI FOSY - ODPISY DO MIRY: od nastepnego zbiorczego Garricka (co 7 dni) i karty szkoly Mabel Siwej (co 30 dni) - odpis do Miry w Winterfell. List Miry do Garricka (05-23) + slowo Symona. Wlasni ludzie - bez rzutu. · _kto:_ **MIRA (list) -> GARRICK + MABEL SIWA** · _zamyka:_ pierwszy zbiorczy z odpisem dla Miry
+- **300-05-22** — MIRA - LIST DO ATELIER W BIALYM PORCIE (wlasna reka): dwie najlepsze szwaczki do Winterfell, reszta zostaje pod najstarsza. Rodzina/Dom - bez rzutu na wydanie; zgoda szwaczek na przeprowadzke - wola obca, RZUT przy odpowiedzi. · _kto:_ **MIRA -> ATELIER (Bialy Port)** · _zamyka:_ odpowiedz szwaczek (rzut) + data przyjazdu **⚠ WYSLANY 300-05-23 - ODPOWIEDZ SZWACZEK ~05-27 (RZUT)**
+- **300-05-22** — PANI FOSY - ODPISY DO MIRY: od nastepnego zbiorczego Garricka (co 7 dni) i karty szkoly Mabel Siwej (co 30 dni) - odpis do Miry w Winterfell. List Miry do Garricka (05-23) + slowo Symona. Wlasni ludzie - bez rzutu. · _kto:_ **MIRA (list) -> GARRICK + MABEL SIWA** · _zamyka:_ pierwszy zbiorczy z odpisem dla Miry **⚠ LIST WYSLANY 300-05-23 (MIRA + DOPISEK I PIECZEC SYMONA) - ODPIS OD NASTEPNEGO ZBIORCZEGO**
 - **300-05-22** — PANI FOSY - PIERWSZY OBJAZD MIRY NA FOSE (raz na pore roku, z Dagonem). Data - wybiera Mira. · _kto:_ **MIRA + DAGON** · _zamyka:_ Mira na Fosie (data od Miry)
 - **300-05-23** — SZKLO Z MYR - OSTRZEZENIE WILLI: posrednik z Myr (pyta ile szkla kupuje Polnoc i ktoredy zboze z zewnatrz) placi przez DOM SZKLARSKI ORRELLO. Wycena szkla z Myr (Hal/Nesta, ~05-27) - NIE przez Orrello; Nesta ma wiedziec. · _kto:_ **SYMON -> HAL + NESTA** · _zamyka:_ wycena szkla sprawdzona: od kogo (nie Orrello)
 - **300-05-23** — KOWALE Z HARRENHALU - PRZYJAZD po ratyfikacji (~VII): pieciu (z Gendrym), dwaj dymarze, gornik; do zbrojowni Korony i rudy w Wilczym Lesie. Arya - wiedza tylko (obietnica). · _kto:_ **SER ROBIN RYGER -> kolumna Dorzecza** · _zamyka:_ kowale w Winterfell
@@ -1479,8 +1479,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-22] `rodzina/MIRA`: 300-05-22 WIECZOR, KOMNATY KROLEWSKIE - SYMON Z MIRA ODWIEDZAJA KROLA I KROLOWA. Bez rzutu (wizyta prywatna). Ogien, futra na lawach, kolyska przy kominku - maly ksiaze EDDARD (nazwany w gaj…
-- [300-05-22] `robb_stark`: 300-05-22 WIECZOR, KOMNATY KROLEWSKIE - SYMON Z MIRA ODWIEDZAJA KROLA I KROLOWA. Bez rzutu (wizyta prywatna). Ogien, futra na lawach, kolyska przy kominku - maly ksiaze EDDARD (nazwany w gaj…
 - [300-05-22] `dziennik`: 300-05-22 POZNY WIECZOR, WIEZA STRAZNICZA - SYMON DZIEKUJE KROLOWI I KROLOWEJ; W DRODZE I W KOMNACIE MOWI MIRZE: (1) MUSIMY MIEC JEDNO NASZE GLOWNE MIEJSCE - PROSI, ZEBY TO BYL WINTERFELL; (…
 - [300-05-22] `rodzina/MIRA`: 300-05-22 POZNY WIECZOR, WIEZA STRAZNICZA - SYMON DZIEKUJE KROLOWI I KROLOWEJ; W DRODZE I W KOMNACIE MOWI MIRZE: (1) MUSIMY MIEC JEDNO NASZE GLOWNE MIEJSCE - PROSI, ZEBY TO BYL WINTERFELL; (…
 - [300-05-22] `MIRA`: 300-05-22 - ⚑ GLOWNE MIEJSCE RODZINY TALLY: WINTERFELL (prosba Symona, zgoda Miry). MIRA - PANI FOSY z Winterfell: edukacja i rozwoj calego domu + atelier. Jej trzy warunki (propozycje do sl…
@@ -1491,3 +1489,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-23] `dziennik`: 300-05-23 RANEK (SOBOTA), WINTERFELL - SEN RZUT 72: noc dobra; zdrowie 100, zmeczenie 40->2, sytosc 100->72. POGODA RZUT 65: cieply, sloneczny dzien wiosny, wiatr z poludnia; drogi suche; kr…
 - [300-05-23] `dziennik`: 300-05-23 RANEK, KOMNATA NAMIESTNIKA + WIEZA MAESTERA - ⚑ SYMON: PRZYSPIESZYC PRZYJAZD MAESTERA WYSTANA DO CZARNEGO ZAMKU. Bez rzutu na wydanie. LUWIN liczy z zapisu (rozkaz 05-01): Fosa -> …
 - [300-05-23] `WYSTAN`: 300-05-23 RANEK, KOMNATA NAMIESTNIKA + WIEZA MAESTERA - ⚑ SYMON: PRZYSPIESZYC PRZYJAZD MAESTERA WYSTANA DO CZARNEGO ZAMKU. Bez rzutu na wydanie. LUWIN liczy z zapisu (rozkaz 05-01): Fosa -> …
+- [300-05-23] `dziennik`: 300-05-23 PRZED POLUDNIEM, WIEZA STRAZNICZA - SYMON I MIRA PISZA DWA LISTY. Bez rzutu (rodzina, wlasni ludzie). Mira przy stole pod oknem, Symon obok; Lyra na podlodze z Rhona i drewnianym k…
+- [300-05-23] `rodzina/MIRA`: 300-05-23 PRZED POLUDNIEM, WIEZA STRAZNICZA - SYMON I MIRA PISZA DWA LISTY. Bez rzutu (rodzina, wlasni ludzie). Mira przy stole pod oknem, Symon obok; Lyra na podlodze z Rhona i drewnianym k…

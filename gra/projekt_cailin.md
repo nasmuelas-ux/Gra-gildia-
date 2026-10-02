@@ -547,7 +547,7 @@ _Zwana też **Płomienistym Skryptorium** albo **Domem Czytelnika**._
 **Lokalizacja:** Miasto Górne, przy skrzyżowaniu Kanału Wielkiego · **Inwestor:** Dom Handlowy Tally (Kasa 1) · **Doktryna:** *„Poznasz ich po porządku, nie po blasku."* · **Zawołanie:** *„Płomień i pióro."*
 
 ## I. Architektura zewnętrzna i materiały
-Żelazna zasada miasta: **kamień na dole, drewno u góry, zieleń na wierzchu**, na ruszcie z pali.
+Żelazna zasada miasta: **kamień na dole, drewno u góry, zieleń na wierzchu**, na ruszcie z pali olchowych.
 - **Baza i elewacja** — dwa dolne poziomy z ciosanego bazaltu (węgiel, grafit); wyżej ciemny modrzew; zwieńczenie — użytkowy dach darniowy z tarasem i zbiorem deszczówki.
 - **Ogrzewanie parowe** — budynek wpięty w miejską sieć pary: rury pod posadzką chronią papier i archiwalia przed wilgocią, nie dają instalacji zamarznąć; po skryptorium i bibliotece chodzi się boso albo w lekkim obuwiu.
 - **Pomarańcz jako znak** — wyłącznie nawigacyjnie i funkcjonalnie: główne wrota w głębokim pomarańczu; przy nabrzeżu wysoka latarnia z pomarańczowym szkłem, wskazująca przystań łodziom z surowcem.
@@ -558,9 +558,9 @@ _Zwana też **Płomienistym Skryptorium** albo **Domem Czytelnika**._
 [WIEŻA]    ROZŻARZONA LATARNIA TALLYCH (znak nawigacyjny; herb w ogniu)
 [DACH]     OGRÓD DARNIOWY (deszczówka, ogród, izolacja)
 [POZIOM 4] KANTOR — PIĘTRO NARAD (Tam i Hal, Miedziany Stół, administracja)
-[POZIOM 3] BIBLIOTEKA I ARCHIWUM (sklepienia kamienne, czarny dąb, zastrzeżenie ogniowe)
+[POZIOM 3] BIBLIOTEKA ROBOCZA (sklepienia kamienne, czarny dąb, zastrzeżenie ogniowe)
 [POZIOM 2] SZKOŁA TALLYCH I SKRYPTORIUM (klasy, pulpity pisarzy, izba egzaminacyjna)
-[POZIOM 1] DRUKARNIA I INTROLIGATORNIA (prasy, odlewarnia czcionek, suszarnia)
+[POZIOM 1] DRUKARNIA I INTROLIGATORNIA (prasy, suszarnia; odlewnia w Dzielnicy Zielonej)
 [PRZYZIEM] PAPIERNIA MŁYŃSKA (koło wodne od Kanału Wielkiego, stępy, kadzie)
 ```
 
@@ -586,3 +586,9 @@ Smukła wieża ponad ogrodem darniowym — **kuta, czerniona stal i grube szkło
 - **Drukarnia** — dziś na Fosie działa **Etap I: drzeworyt i prasa śrubowa** (Wat). Ruchoma czcionka ołowiana to etap późniejszy; budynek ma na nią miejsce.
 - **Miedziany Stół** — tajna księga zostaje tylko u Tama i lorda; przy Stole siedzi też Hal, więc tajna księga na Stół nie trafia (ustrój domu, 300-01-27).
 - **Kolejność** — budynek jest w **Etapie III/IV** miasta (co widać, co oddycha); papiernia i szkoła mogą ruszyć wcześniej w istniejących izbach. Skryptorium Ilaria rusza ~06-20 w izbach tymczasowych.
+
+### ROZSTRZYGNIĘCIA LORDA — 300-05-19
+- **Pale — OLCHA.** Jak w całym mieście.
+- **Odlewnia czcionek — w DZIELNICY ZIELONEJ**, za kanałem, z resztą ognia (zasada XI bez wyjątku). Czcionki przychodzą do drukarni łodzią. Poziom 1 zostaje: prasy, introligatornia, suszarnia — **bez pieców**.
+- **Poziom 3 — BIBLIOTEKA ROBOCZA**, nie Archiwum Domu. **Archiwum Domu stoi osobno**, jak w Części Trzeciej (najlepiej strzeżony budynek po bramie). Zastrzeżenie ogniowe poziomu 3 zostaje.
+- **Do przeliczenia i do kolejki:** budynek wchodzi do rachunku kosztów etapami i do kolejki kamienia i rąk (Garrick + Warryn, przy ośmiu budowach); **spad dla koła przy Wielkiej Śluzie — Weylin**.

@@ -3487,7 +3487,7 @@
   },
   {
    "data": "300-04-06",
-   "co": "⚠ BASZTA PRZYSTANI WILKA POD DACHEM PRZED PRZYJAZDEM BRYNDENA (~06-15) - akademia potrzebuje baszty. Kamien idzie DRUGI w kolejce (po przewloce/grobli). Bors podaje date w karcie 05-06; jesli kamien nie zdazy - mowi to wprost.",
+   "co": "⚠ BASZTA PRZYSTANI WILKA POD DACHEM PRZED PRZYJAZDEM BRYNDENA (~06-15) - akademia potrzebuje baszty. Kamien idzie DRUGI w kolejce (po przewloce/grobli). Bors podaje date w karcie 05-06; jesli kamien nie zdazy - mowi to wprost. ### 05-17: zgoda na DACH TYMCZASOWY Z DREWNA (mury do I pietra); kamien - gorne pietro po grobli.",
    "kto": "BORS + ORBELO/TORGIL (kamien)",
    "kanal": "karta Borsa (kruk Bialy Port-Fosa, Garrick)",
    "wraca": "300-06-10",
@@ -5400,7 +5400,7 @@
    "kanal": "karta I przez Garricka",
    "wraca": "300-05-20",
    "zamyka": "zgoda albo nie na dach tymczasowy",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-17 - ZGODA pana na dach tymczasowy z drewna; koszt z ksiegi wspolwlascicieli (1/2-1/4-1/4); kruk do Fosy 05-18 o swicie."
   },
   {
    "data": "300-05-16",
@@ -5409,7 +5409,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-20",
    "zamyka": "decyzja albo zostaje jak jest",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-17 - decyzja pana: nabor PONOWIONY 05-18, stawka +25% dla wszystkich (takze szesciu). Odzew - nowy termin 05-19 (rzut)."
   },
   {
    "data": "300-05-16",
@@ -5445,6 +5445,24 @@
    "kanal": "kruk Winterfell-Raventree (przez Riverrun)",
    "wraca": "300-05-29",
    "zamyka": "odpowiedz Blackwooda (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "RUDA - NABOR PONOWIONY ZE STAWKA +25% (decyzja pana 05-17): Gawen wywiesza na slupie w Zimowym Miescie i przez soltysow domeny; +25% dla wszystkich, takze dla szesciu juz zapisanych; kwota = dotychczasowa stawka Kasy 3 x 1,25. Pamiec zarazy przy Czerwonym Strumieniu nadal stoi.",
+   "kto": "GAWEN (Skarb, Kasa 3) -> ludzie Zimowego Miasta i domeny",
+   "kanal": "slup w Zimowym Miescie + soltysi",
+   "wraca": "300-05-19",
+   "zamyka": "liczba zapisanych (rzut odzewu)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-17",
+   "co": "CYTADELA - PROSBA O ODPISY ZAPISKOW POLNOCY O POGODZIE, ZIMACH I DLUGOSCI POR ROKU (list 05-17, pkt 8). Luwin: 'uczciwa wymiana' za Orwyna i Edmunda. 05-17: Symon zlecil Branowi - Bran ODMOWIL (rzut 17): 'robota dla maestera; zapytaj Luwina - on ma klucz do tych ksiag'. Sprawa u Symona - do obsadzenia.",
+   "kto": "SYMON (obsada)",
+   "kanal": "kruk Winterfell-Stare Miasto (lancuch maesterski) - przy odpowiedzi",
+   "wraca": "bez daty - do obsadzenia",
+   "zamyka": "ktos obsadzony i data odpisow",
    "status": "otwarte"
   }
  ],

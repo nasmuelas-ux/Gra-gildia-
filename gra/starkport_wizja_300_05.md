@@ -55,3 +55,47 @@ Król wymienia z pamięci to, co widział w Białym Porcie i w Riverrun, oraz to
 - Kolejność traktów i koszt według ceny mili — Gawen.
 - Etapy portu po pomiarze Weylina (~06-05 E).
 - Plan miasta (pierścienie, kwartały, budynki szczególne) — Weylin, po pomiarze.
+
+---
+
+## ROZSTRZYGNIĘCIE NAMIESTNIKA (300-05-21, w solarze, po wizji Króla)
+> **Najpierw trakt do Deepwood i przystań, potem stocznie. Rozpisać.**
+
+O Wymanie, według pana: zachodni port nie jest konkurencją dla Białego Portu. Na zachodzie będą trzy porty: **Gorący Port, Dustinport i Starkport**. Starkport leży najdalej na północy, więc musi **mocniej zachęcać**, żeby ktoś tam w ogóle popłynął. Trzeba go uczynić naprawdę atrakcyjnym.
+O żelaznych, według pana: Starkport zostanie skończony w całości może pod koniec życia Króla, dla jego dzieci albo wnuków. Do tego czasu problemu żelaznych już nie będzie, a Północ będzie miała własną flotę.
+
+---
+
+## ETAPY STARKPORTU — rozpisane 300-05-21
+*Kolejność jest wiążąca. Daty są podane tam, gdzie da się je podać; reszta zależy od spustu (pomiar, zgoda), a nie od kalendarza.*
+
+### S1 — TRAKT DO DEEPWOOD *(pierwszy, równolegle z przystanią)*
+1. **Zgoda Glovera** na trakt przez jego ziemię. List do **Robetta Glovera** w Deepwood (pod nieobecność Galbarta), kruk Winterfell–Deepwood 05-21. Odpowiedź ~05-27, **rzut** (wola obca).
+2. **Pomiar trasy z tyczką.** Człowiek Glovera, który zna las, i człowiek Korony, który liczy. Jedno przejście, podpis co milę (wzór pomiaru przewłoki). Rusza po zgodzie.
+3. **Koszt według ceny mili** (standard traktu, 299-09-09): Wilczy Las to **grunt II klasy: 18–25 smoków za milę**; mosty drewniane 8–15 smoków za sztukę, przepusty 1–2. Liczy **Gawen** po pomiarze. Sumy nie podaje się przed pomiarem (zasada 43).
+4. **Wykonawcy miejscowi** — ludzie Glovera i wsie po drodze, za dniówki według ogłoszonej stawki. Ani darowizna, ani robocizna (wzór instrukcji misji 299-09-10).
+5. **Odbiór odcinków:** **rachmistrz odbiorczy kancelarii**, który odpowiada przed Królem, a nie przed Namiestnikiem (*„odcinków nie odbiera ten, kto na nich zyskuje”*).
+
+**Zamyka S1:** wóz z drewnem z Deepwood dojeżdża do przystani Starkportu po trakcie odebranym milą po mili.
+
+### S2 — PRZYSTAŃ *(pierwsza, w pierścieniu twierdzy)*
+1. **Palisada i wieża ognia** na szczycie nad Zatoką Kamieni (Corwin z pięćdziesięcioma i osadnicy Sigrun; ~05-28 na miejscu, palisada ~06-15). **Woda przed pierwszym palem** — Brann.
+2. **Pomiar zatoki i wody** — Weylin (na miejscu ~06-05 E): głębokość, dno, wiatr, miejsce pomostu, ile miesięcy morze zostaje otwarte.
+3. **Pomost i nabrzeże dla łodzi** — po pomiarze, w miejscu wskazanym przez Weylina.
+4. **Komora Korony** — waga, kwit, rubryka SKĄD / CO / ILE / CZYJE. Pisarza wskazuje Gawen.
+5. **Solarnia Korony i tkalnia sieci** — obsada od Sigrun i Branna Mokrego, koszt od Gawena (termin 05-29).
+6. **Szopy i spichlerz** — ziarno dla osadników przed nimi albo razem z nimi (Gawen i Orland, 05-24).
+7. **Owce** — oferta od Gawena 05-25, zakup przed zimą (rzut).
+
+**Zamyka S2:** pierwsza łódź rozładowana przez komorę z kwitem · solarnia warzy · sieci na wodzie.
+
+### S3 — STOCZNIE *(po przystani)*
+1. **Pochylnia** w miejscu wskazanym przez Weylina.
+2. **Drewno** z Wilczego Lasu (traktem S1 i spławem), **smoła** od Glovera.
+3. **Cieśle okrętowi** — skąd ich wziąć, rozstrzyga się przy otwarciu S3 (do rozstrzygnięcia).
+4. **Suchy dok** — kamień i robota Weylina, po stoczni, nie przed nią.
+
+**Zamyka S3:** pierwszy kadłub z własnego drewna na wodzie.
+
+### Później (wizja, bez dat — zasada 41)
+Trakty do Torrhen's Square, Barrowton i Rills · baza floty i Akademia Morska · gaj z drzewem-sercem · Sala Zachodu · targi · Latarnia Wilka · pierścienie miasta.

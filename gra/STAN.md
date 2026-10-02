@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**86 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**85 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -351,7 +351,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-04-26** — DWA NAZWISKA (trzecie - Mur - ZAMKNIETE 300-04-26: HALLIS MOLLEN) DLA KROLA: Wielki Zarzadca Kamiennego Brzegu, Wielki Kasztelan Kamiennego Brzegu, posel na Mur w miejsce Osrica. Mysl Krola: zapytac Torrena Solnego (stamtad), komu ludzie brzegu wierza. ### 05-02: KASZTELAN OBSADZONY - ser Corwin Lodowy (+ setnik Ulric Sekaty); zostaje WIELKI ZARZADCA (po Torrenie). · _kto:_ **SYMON -> KROL** · _zamyka:_ nazwiska na stole Krola po odpowiedzi Torrena (~05-09); Kasztelan raczej z Winterfell **⚠ OTWARTE - 05-11: BRANN MOKRY WEZWANY DO WINTERFELL (KRUK DO DEEPWOOD + JEZDZIEC LANCUCHA OGNI), ~05-28/30; DECYZJA PO ROZMOWIE Z NIM; PISARZ PRZY NIM - DO WSKAZANIA.**
 - **300-04-26** — LIST DO TORRENA SOLNEGO: kto na Kamiennym Brzegu nadaje sie na Wielkiego Zarzadce (liczy, ludzie sluchaja, przezyl najazdy i zostal) - i czy ktos na Kasztelana; ile wsi i dymow wie z pamieci. ### +04-27: SOL I SIECI DLA STARKPORTU - szukac na Kamiennym Brzegu (wsie rybackie, panwie), dostawa lodzia/Dustinport, placi Kasa 3. · _kto:_ **SYMON -> TORREN SOLNY** · _zamyka:_ lista nazwisk od Torrena **⚠ ZAMKNIETE 300-05-10 (RZUT 17, PROG 45): JEDNA KONSEKWENCJA - TORREN PODAJE JEDNO NAZWISKO, NIE LISTE: BRANN MOKRY, STARSZY RYBAKOW Z ZATOKI KAMIENI - 'LUDZIE GO SLUCHAJA, PRZEZYL TRZY NAJAZDY I NIE WYJECHAL' - ALE NIE CZYTA I NIE PISZE, LICZY NA WEZLACH. TORREN: 'DAJCIE MU PISARZA, A BEDZIE NAJLEPSZYM, JAKIEGO MACIE. INNEGO NIE ZNAM.' NA KASZTELANA - NIKOGO (CORWIN JUZ OBSADZONY).**
 - **300-04-26** — BAZOWY GARNIZON KAMIENNEGO BRZEGU - trzon z Winterfell pod Kasztelanem; liczba przy spisie zbrojowni Rodrika i z Osrikiem; najpierw palisada i wieza sygnalowa przy lancuchu ogni Gloverow. · _kto:_ **KROL / SYMON / OSRIC** · _zamyka:_ liczba ludzi + miejsce palisady (po powrocie Osrica)
-- **300-04-26** — LORD LARENCE HORNWOOD PRZEZ WINTERFELL: Krol wzywa kuratora Galbarta Glovera - chlopak ma stanac w Winterfell na ucztę 05-10 (gaj rano, przed Krolem), potem do Hornwood z lady Donella. ### 05-01 (11): Larence chory (zimnica) - wyjazd ~05-08, w Winterfell ~05-17/18 PO UCZCIE; Galbart na ucztę sam. ### 05-02: przedstawienie przy gaju przez Galbarta w dniu przyjazdu. · _kto:_ **KROL -> GALBART GLOVER (do wiad. Robett)** · _zamyka:_ odpowiedz Glovera (rzut) + Larence w Winterfell ~05-10/11 - NA STYK Z UCZTA
+- **300-04-26** — LORD LARENCE HORNWOOD PRZEZ WINTERFELL: Krol wzywa kuratora Galbarta Glovera - chlopak ma stanac w Winterfell na ucztę 05-10 (gaj rano, przed Krolem), potem do Hornwood z lady Donella. ### 05-01 (11): Larence chory (zimnica) - wyjazd ~05-08, w Winterfell ~05-17/18 PO UCZCIE; Galbart na ucztę sam. ### 05-02: przedstawienie przy gaju przez Galbarta w dniu przyjazdu. · _kto:_ **KROL -> GALBART GLOVER (do wiad. Robett)** · _zamyka:_ odpowiedz Glovera (rzut) + Larence w Winterfell ~05-10/11 - NA STYK Z UCZTA **⚠ ZAMKNIETE 300-05-17 - LARENCE W WINTERFELL (PO POLUDNIU, OPOZNIONY BLOTEM), PRZEDSTAWIONY PRZY GAJU PRZEZ GALBARTA; WIERNOSC KROLOWI ZLOZONA. DONELLA - CHLODNY POCZATEK (RZUT 48).**
 - **300-04-27** — LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). · _kto:_ **BRAN -> HALLIS -> JON** · _zamyka:_ list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem
 - **300-04-28** — ODPOWIEDZ KROLA STANNISOWI (podpisana): data przyjeta; dzieki za koniec zakupow; obsydian na Mur - przyjmie Hallis; Hallis z oddzialem na Murze - mozna sie zwracac, bez ograniczen, zwiad Polnocy, nie wrog; Mur karmiony; Korona bez glosu w wyborze Lorda Dowodcy. · _kto:_ **KROL -> STANNIS (przez Davosa)** · _zamyka:_ odpowiedz Stannisa/Davosa albo cisza (cisza tez jest odpowiedzia)
 - **300-04-28** — HELMY LANNISTEROW (40 w zbrojowni) - rozmontowac i przetopic (kowal zamkowy); SKUP lannisterskiego ekwipunku z lupow po cenie ze slupa - ogloszenie razem z wezwaniem rzemieslnikow. · _kto:_ **RODRIK (kowal) + GAWEN (skup)** · _zamyka:_ helmy przetopione; skup ogloszony **⚠ ZAMKNIETE 300-05-15 (PORZADEK; WLASNI LUDZIE - BEZ RZUTU): KOWAL ZAMKOWY ROZEBRAL 40 HELMOW - STAL IDZIE NA GROTY WLOCZNI I OKUCIA TARCZ (RODRIK). SKUP LUPOW - TRWA NA SLUPIE W JURYSDYKCJI GAWENA (ILOSCI W JEGO KSIEDZE, NIE Z GLOWY).**
@@ -621,10 +621,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-05-17 popoludnie · zima (300)
+- **Data:** 300-05-17 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 38**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 40**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1341,8 +1341,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-17] `dziennik`: 300-05-17 PO OBIEDZIE - MYSL SYMONA (nie rozkaz, nie rozmowa) o SCHRONIENIU DLA MARGAERY: Reach, gdyby chcial, sam moze wyciagnac Margaery z Krolewskiej Przystani do Wysokogrodu i Lannistero…
-- [300-05-17] `dziennik`: 300-05-17 PO OBIEDZIE (cd.) - MYSL SYMONA: czy schronienie dla Margaery to w ogole watek, ktory mozemy zaproponowac - czy Tyrellowie w ogole chca ja ewakuowac? Bez rzutu. STAN Z KSIAG: zadne…
 - [300-05-17] `dziennik`: 300-05-17 PO OBIEDZIE (cd.) - DECYZJA SYMONA: SCHRONIENIE DLA MARGAERY - NIE PODEJMOWAC TEMATU do czasu rozmowy i nawiazania STALEGO KONTAKTU z lordem Mace'em Tyrellem albo z lady Olenna. Be…
 - [300-05-17] `kanal_olenna_tyrell_1127`: 300-05-17 PO OBIEDZIE (cd.) - DECYZJA SYMONA: SCHRONIENIE DLA MARGAERY - NIE PODEJMOWAC TEMATU do czasu rozmowy i nawiazania STALEGO KONTAKTU z lordem Mace'em Tyrellem albo z lady Olenna. Be…
 - [300-05-17] `dziennik`: 300-05-17 PO POLUDNIU (wczesnie), SOLAR KROLA - SYMON IDZIE DO KROLA W SPRAWIE HARRIONA KARSTARKA. Mzawka na szybach, ogien w kominku. Krol sam, nad mapa Przesmyku; Szary Wicher pod oknem. B…
@@ -1353,3 +1351,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-17] `harrion_karstark_poszukiwanie_299_11`: 300-05-17 PO POLUDNIU, SOLAR KROLA (cd.) - SYMON: 'A tajna akcja przechwycenia?' BEZ RZUTU - zasada 27: sprawa rozstrzygnieta 300-04-05 (rzut 16, prog 55 - Krol: NIE odbijac po cichu; wiedzi…
 - [300-05-17] `dziennik`: 300-05-17 PO POLUDNIU, SOLAR KROLA (koniec) - SYMON MOWI KROLOWI TYLKO TYLE: Karstark czeka na nasz ruch; on jest najwazniejszy. Bez rzutu (slowo doradcy, nie prosba). KROL kiwa glowa, krotk…
 - [300-05-17] `dziennik`: 300-05-17 PO POLUDNIU, SOLAR KROLA (przy wyjsciu, przed gajem) - SYMON PYTA SZYBKO, CO KROL SPRAWDZA NA MAPIE PRZESMYKU. Bez rzutu. KROL, nie podnoszac glowy: 'Twoj plan Hendry'ego przychodz…
+- [300-05-17] `dziennik`: 300-05-17 POZNE POPOLUDNIE, GAJ BOGOW - SYMON CZEKA NA LARENCE'A (~poltorej godziny w mzawce pod czardrzewem; zmeczenie 38->40). Rog przy bramie; orszak z Deepwood wjezdza ublocony po osie -…
+- [300-05-17] `hornwood_proznia_dreadfort_299_08`: 300-05-17 POZNE POPOLUDNIE, GAJ BOGOW - SYMON CZEKA NA LARENCE'A (~poltorej godziny w mzawce pod czardrzewem; zmeczenie 38->40). Rog przy bramie; orszak z Deepwood wjezdza ublocony po osie -…

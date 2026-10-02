@@ -5472,7 +5472,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-06-01",
    "zamyka": "dowodca wskazany albo zgoda na szukanie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-18 - decyzja pana: ktos z AWANSU (wskazuje Hendry), doszkalanie w akademii w Przystani Wilka na koszt pana (Kasa 1)."
   },
   {
    "data": "300-05-18",
@@ -5490,7 +5490,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-01",
    "zamyka": "decyzja: skad i ile",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-18 - decyzja pana: konie male, silne, bagienne - jak rekomendowal Krol (garrony; Ryswellowie). Zakup: Hendry + Warryn, Kasa 2."
   },
   {
    "data": "300-05-18",
@@ -5499,6 +5499,24 @@
    "kanal": "zbiorcze (kruk Fosa-Winterfell)",
    "wraca": "300-05-25",
    "zamyka": "kurzawka opanowana - stan w zbiorczym",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "DOWODCA SETKI GORACEGO PORTU - Z AWANSU: Hendry wskazuje imiennie czlowieka z lenna (zasada 12); po wskazaniu - do akademii w Przystani Wilka (zbrojmistrz Fosy, od ~06-15 Brynden), koszt nauki i utrzymania - Kasa 1 pana.",
+   "kto": "HENDRY",
+   "kanal": "kruk Winterfell-Fosa (05-18) i z powrotem",
+   "wraca": "300-05-22",
+   "zamyka": "imie awansowanego + data wejscia do akademii",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-18",
+   "co": "GARRONY DLA JAZDY LENNA (50) - zakup wg rady Krola (Ryswellowie maja najlepsze); Hendry + Warryn, koszt Kasa 2. Sprzedaz - wola Ryswellow (RZUT przy odpowiedzi): ile koni, kiedy, za ile (kwoty z ich slowa).",
+   "kto": "HENDRY + WARRYN -> RYSWELLOWIE",
+   "kanal": "kruk Fosa-Rills (przez Barrowton) albo czlowiek Hendry'ego traktem - wybiera Hendry",
+   "wraca": "300-06-01",
+   "zamyka": "odpowiedz Ryswellow (rzut)",
    "status": "otwarte"
   }
  ],

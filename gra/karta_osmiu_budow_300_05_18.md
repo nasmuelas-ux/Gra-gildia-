@@ -41,3 +41,10 @@ Herwin zwołuje ławę na **dzień targowy 05-23**. Mur płaci lenno, a bruk i l
 
 ## 5. KOSZT ETAPAMI
 W księdze Hala (Kasa 1: Dwór, szklarnie) i lenna (Kasa 2: wieże, mur, kwatery, spichlerze). **Bufor Hala, 1000 w Kasie 1, zostaje nietknięty.** Garrick pisze tylko: *„Żadna z ośmiu nie czeka na pieniądz.”*
+
+---
+
+## ROZSTRZYGNIĘCIE PANA (300-05-22, kruk do Fosy)
+- **Trzy miejsca spichlerzy zatwierdzone** (grobla pod bramą · Przystań Wilka nad wodą · bród na trakcie do Dorzecza).
+- **Nabór murarzy i cieśli zatwierdzony.** Stawkę ustala Warryn z księgi lenna; odzew ~06-01 (rzut).
+- **Więcej kamienia od Flintów do rozważenia:** ile, czym, którędy, czy odciąży kolejkę; zgoda Flinta — rzut (~05-28).

@@ -5940,7 +5940,7 @@
    "kanal": "kruk Winterfell-Fosa",
    "wraca": "300-05-23",
    "zamyka": "decyzja pana w kruku do Fosy",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-22 - pan zatwierdza trzy miejsca spichlerzy i nabor; kruk do Fosy 05-22 (+ kamien od Flintow do rozwazenia)"
   },
   {
    "data": "300-05-22",
@@ -5949,6 +5949,24 @@
    "kanal": "zbiorczy Garricka co 7 dni",
    "wraca": "300-07-15",
    "zamyka": "piec spichlerzy wiejskich z ksiega (pierwszy checkpoint twardy)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-22",
+   "co": "NABOR MURARZY I CIESLI DLA LENNA (zatwierdzony 05-22): Warryn ustala stawke z ksiegi lenna, ogloszenie na slupie w Cailin i przez jezdzcow. Odzew (ilu przyszlo) - RZUT przy pierwszym meldunku.",
+   "kto": "WARRYN + GARRICK",
+   "kanal": "kruk Winterfell-Fosa (05-22) + zbiorczy Garricka",
+   "wraca": "300-06-01",
+   "zamyka": "stawka ogloszona + liczba przyjetych imiennie (rzut odzewu)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-22",
+   "co": "WIECEJ KAMIENIA OD FLINTOW (Palec Flinta) - rozwazyc: ile Flint moze dac, lodzia czy wozem, ktoredy do Fosy, czy odciazy kolejke (baszta Przystani Wilka, wieze zamku, spichlerze). Czlowiek Fosy jest na Palcu po kamien. Zgoda Flinta na wiekszy kamien - RZUT (jedna rozmowa razem z propozycja punktu ognia - zasada 27: osobna sprawa, osobny rzut).",
+   "kto": "GARRICK + WARRYN -> czlowiek Fosy na Palcu -> FLINT",
+   "kanal": "kruk Winterfell-Fosa (05-22) + lodz/jezdziec na Palec + kruk z Fosy",
+   "wraca": "300-05-28",
+   "zamyka": "rachunek kamienia od Flinta (ile, czym, ktoredy) + zgoda Flinta (rzut)",
    "status": "otwarte"
   }
  ],

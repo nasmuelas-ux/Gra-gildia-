@@ -5836,7 +5836,7 @@
   },
   {
    "data": "300-05-21",
-   "co": "KARTA MIASTA STARKPORTU - STAN: czy jest pod pieczecia Krola (warunek Sigrun: przed pierwsza zima). Luwin z Tobinem sprawdzaja rejestr kancelarii. Luka w ksiedze = brak wpisu, nie brak zdarzenia.",
+   "co": "KARTA MIASTA STARKPORTU - STAN: czy jest pod pieczecia Krola (warunek Sigrun: przed pierwsza zima). Luwin z Tobinem sprawdzaja rejestr kancelarii. Luka w ksiedze = brak wpisu, nie brak zdarzenia. ### 05-21 (Krol, rzut 92): DO KARTY WCHODZI - 30 DNI DARMOWEGO SKLADU KONSYGNACYJNEGO KORONY dla kupcow zagranicznych + gielda prowadzona przez urzednikow Korony (prowizja do Komory, jedna stawka ogloszona) + kwit skladowy i odpowiedzialnosc za towar; zamtuzy na prawie miasta, pod straza miejska.",
    "kto": "LUWIN + TOBIN SZALA",
    "kanal": "Winterfell (rejestr kancelarii)",
    "wraca": "300-05-22",
@@ -5872,7 +5872,7 @@
   },
   {
    "data": "300-05-21",
-   "co": "WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEKT STARKPORTU: port, umocnienia, miasto, budynki. Dni Weylina placi KASA 3 (robota Korony; Gawen zapisuje). Wlasny czlowiek - bez rzutu na wykonanie.",
+   "co": "WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEKT STARKPORTU: port, umocnienia, miasto, budynki. Dni Weylina placi KASA 3 (robota Korony; Gawen zapisuje). Wlasny czlowiek - bez rzutu na wykonanie. ### 05-21: przy pomiarze szukac GORACYCH ZRODEL (laznie Slonecznego Azylu); inaczej ogrzewanie torfem/drewnem spod podlogi. Miejsce na SKLADY OLEJU I TRANU osobno, za murem ogniowym, nad woda.",
    "kto": "SYMON -> WEYLIN (Fosa)",
    "kanal": "kruk Winterfell-Fosa (05-21) + droga Fosa-Kamienny Brzeg (E: tygodnie)",
    "wraca": "300-06-05",

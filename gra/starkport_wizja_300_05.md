@@ -99,3 +99,34 @@ O żelaznych, według pana: Starkport zostanie skończony w całości może pod 
 
 ### Później (wizja, bez dat — zasada 41)
 Trakty do Torrhen's Square, Barrowton i Rills · baza floty i Akademia Morska · gaj z drzewem-sercem · Sala Zachodu · targi · Latarnia Wilka · pierścienie miasta.
+
+---
+
+## ⚠ VOID (300-05-21, zasada 3; słowo pana)
+Zdanie Króla „na zachodzie będą trzy porty, a na wschodzie żadnego poza nim; Biały Port zostaje jedynym portem wschodu” jest **nieważne**. Było sprzeczne z zapisem: na wschodzie powstają **Karport** (Karstark) i **Boltonsgate** (Bolton), oba z prawem składu (miasta_polnocy.md), i Wyman już o nich wie. Według pana: **Wyman nie traci na rozwoju Północy. Żaden z nowych portów nie zbuduje dwóch Białych Portów.** Na zachodzie są już trzy porty: Gorący Port, Dustinport i Starkport.
+
+## ZACHĘTA STARKPORTU — propozycja Namiestnika (300-05-21)
+**Cel:** kupiec, który płynie na przewłokę albo z towarem do Białego Portu, ma zawinąć do Starkportu.
+
+1. **DZIELNICA „SŁONECZNY AZYL”**
+   - murowane domy kupieckie ogrzewane od podłogi;
+   - luksusowe łaźnie termalne;
+   - kryte szklarnie z zielenią;
+   - najlepsze zamtuzy w tej części świata.
+2. **DARMOWE SKŁADY KONSYGNACYJNE KORONY — 30 DNI**
+   - Zagraniczny kupiec zostawia towar w królewskim składzie na 30 dni, za darmo, kiedy płynie na przewłokę albo po towar do Dustinportu czy gdzie indziej.
+   - **Wielka giełda, otwarta i zadaszona.** Obsługa giełdy może w tym czasie w imieniu kupca prowadzić sprzedaż części towaru.
+   - **Logika:** kupcy z Dorne, Lannisportu i Reach rzadko płyną na Północ tylko po to, żeby rozładować statek w jednym miejscu. Chcą przywieźć towar z południa, a w drodze powrotnej załadować koggę po brzegi tym, na czym zarobią fortunę w domu: futrami, żelazodrzewem, tranem wielorybim.
+
+## ODPOWIEDŹ KRÓLA — rzut 92 (przyjmuje z zapałem)
+- **Składy:** „To jest odpowiedź na moje *komu sprzedamy*. Kupiec nie płynie po jeden port, płynie po pełną ładownię w drodze powrotnej.”
+  - **Trzydzieści dni darmowego składu Król wpisze do karty miasta**, żeby nikt po nim nie mógł tego cofnąć jednym słowem. To prerogatywa Króla.
+  - Giełdę prowadzą **urzędnicy Korony**, nie Dom Tally (mur trzech kas). Prowizja od sprzedaży w imieniu kupca idzie do Komory Korony, w tej samej stawce dla każdego, ogłoszonej.
+- **Słoneczny Azyl:** „Kapitan, który przez trzy tygodnie jadł solone mięso na mokrym pokładzie, zapamięta ciepłą podłogę i łaźnię dłużej niż cło.”
+  - **Zamtuzy:** stoją na **prawie miasta**, pod strażą miejską, z lekarzem z Lecznicy. „Nie pod moim imieniem i nie pod twoim. Miasto je trzyma i miasto za nie odpowiada.”
+
+### Uwagi Luwina (zasada 8)
+1. **Ciepło:** gorące źródła są pod Winterfell, ale o żadnych na Kamiennym Brzegu nie wiadomo. Weylin ma ich szukać przy pomiarze. Jeśli ich nie ma, łaźnie i podłogi grzeje się jak na Fosie: torf i drewno, piec pod podłogą.
+2. **Ogień:** tran wielorybi, futra i smoła w jednym składzie to beczka prochu bez prochu. Składy oleju i tranu stoją **osobno, za murem ogniowym, nad wodą** (wzór zasady XI z Cailin).
+3. **Szkło do szklarni:** to samo pytanie co na Fosie, czyli Myr (wycena ~05-27) albo własne.
+4. **Odpowiedzialność:** kto płaci, jak towar zgnije, spłonie albo zginie ze składu. To kwit składowy i rubryka w karcie, przed pierwszym kupcem.

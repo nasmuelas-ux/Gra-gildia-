@@ -5688,7 +5688,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-20",
    "zamyka": "rozmowa odbyta",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-20 - odbyta: najpierw mur, potem statek (propozycja Krola); Reach jako klient; staly rozkaz czterech ogni; oczy na Pyke - Willa; Goracy Port na wielki najazd - opuscic na czas."
   },
   {
    "data": "300-05-20",
@@ -5724,6 +5724,15 @@
    "kanal": "siatka Willi (14/35)",
    "wraca": "300-07-01",
    "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-20",
+   "co": "ROZKAZ DLA HENDRY'EGO NA CZTERY OGNIE (rada Krola 05-20): Goracy Port na wielki najazd - opuscic na czas; ludzie w gore Goraczki do Fosy; co sie da - lodziami, reszta spalona; Goraczke zamknac lancuchem albo zatopionymi barkami ponizej Fosy (rachunek Weylina i Hendry'ego); Fosa trzyma do odsieczy. Symon przekaze OSOBISCIE przy pobycie na Fosie.",
+   "kto": "SYMON -> HENDRY",
+   "kanal": "osobiscie na Fosie",
+   "wraca": null,
+   "zamyka": "rozkaz przekazany Hendry'emu",
    "status": "otwarte"
   }
  ],

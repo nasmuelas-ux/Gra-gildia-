@@ -6022,6 +6022,24 @@
    "wraca": "300-05-27",
    "zamyka": "odpowiedz szwaczek (rzut) + data przyjazdu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-22",
+   "co": "PANI FOSY - ODPISY DO MIRY: od nastepnego zbiorczego Garricka (co 7 dni) i karty szkoly Mabel Siwej (co 30 dni) - odpis do Miry w Winterfell. List Miry do Garricka (05-23) + slowo Symona. Wlasni ludzie - bez rzutu.",
+   "kto": "MIRA (list) -> GARRICK + MABEL SIWA",
+   "kanal": "kruk Winterfell-Fosa (05-23)",
+   "wraca": "300-06-01",
+   "zamyka": "pierwszy zbiorczy z odpisem dla Miry",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-22",
+   "co": "PANI FOSY - PIERWSZY OBJAZD MIRY NA FOSE (raz na pore roku, z Dagonem). Data - wybiera Mira.",
+   "kto": "MIRA + DAGON",
+   "kanal": "trakt Winterfell-Fosa",
+   "wraca": "300-07-15",
+   "zamyka": "Mira na Fosie (data od Miry)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

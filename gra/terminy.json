@@ -5851,6 +5851,24 @@
    "wraca": "300-05-24",
    "zamyka": "zrodlo ziarna, droga, data dostawy na brzeg",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-21",
+   "co": "STARKPORT / KAMIENNY BRZEG - SOLARNIA KORONY (warzelnia: panew, woda morska, opal - drewno albo torf) + TKALNIA SIECI (przedza lniana/konopna - kupic albo zasiac len). OBSADA (zasada 12): Sigrun ze swojego spisu (rzemieslnicy z papierami) + Brann Mokry (sieci). Koszt etapami z ksiegi Gawena (zasada 43). Wlasni ludzie - bez rzutu na wykonanie.",
+   "kto": "GAWEN (koszt) + SIGRUN (obsada) + BRANN MOKRY (sieci)",
+   "kanal": "Winterfell + rozkaz do Sigrun (kruk Winterfell-Fosa + jezdziec + lodz)",
+   "wraca": "300-05-29",
+   "zamyka": "obsada imienna + koszt + skad przedza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-21",
+   "co": "STADA OWIEC DLA KAMIENNEGO BRZEGU - skad (sprzedajacy), ile glow, za ile, ktoredy pedzic/wiezc - PRZED ZIMA. Welna (odzienie, koce), mieso, mleko - nie sieci. Wola sprzedajacych - RZUT przy zakupie.",
+   "kto": "GAWEN -> SYMON",
+   "kanal": "Winterfell",
+   "wraca": "300-05-25",
+   "zamyka": "oferta: sprzedajacy, liczba, cena, droga (potem rzut przy zakupie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

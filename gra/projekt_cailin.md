@@ -537,3 +537,52 @@ Podniesione przez Herwina jako brak całego planu: *„Tu jest napisane, jak mia
 **ETAP IV — CO ODDYCHA.** Dzielnica zielona, para pod ulicami, kolor.
 
 > **Żaden etap nie rusza bez dwóch rzeczy: NAZWISKA i LICZBY Z KARTY** *(gęby · korce · na ile dni starczy — pierwsza 300-03-07)*.
+
+---
+
+# LATARNIA PIÓRA I PŁOMIENIA — PŁOMIENISTE SKRYPTORIUM DOMU TALLY
+### dopisana 300-05-19 w Winterfell przez lorda Symona — projekt architektoniczno-funkcjonalny, podstawa do wykonania
+_Zwana też **Płomienistym Skryptorium** albo **Domem Czytelnika**._
+
+**Lokalizacja:** Miasto Górne, przy skrzyżowaniu Kanału Wielkiego · **Inwestor:** Dom Handlowy Tally (Kasa 1) · **Doktryna:** *„Poznasz ich po porządku, nie po blasku."* · **Zawołanie:** *„Płomień i pióro."*
+
+## I. Architektura zewnętrzna i materiały
+Żelazna zasada miasta: **kamień na dole, drewno u góry, zieleń na wierzchu**, na ruszcie z pali.
+- **Baza i elewacja** — dwa dolne poziomy z ciosanego bazaltu (węgiel, grafit); wyżej ciemny modrzew; zwieńczenie — użytkowy dach darniowy z tarasem i zbiorem deszczówki.
+- **Ogrzewanie parowe** — budynek wpięty w miejską sieć pary: rury pod posadzką chronią papier i archiwalia przed wilgocią, nie dają instalacji zamarznąć; po skryptorium i bibliotece chodzi się boso albo w lekkim obuwiu.
+- **Pomarańcz jako znak** — wyłącznie nawigacyjnie i funkcjonalnie: główne wrota w głębokim pomarańczu; przy nabrzeżu wysoka latarnia z pomarańczowym szkłem, wskazująca przystań łodziom z surowcem.
+
+## II. Przekrój pionowy — od ciężkiej pracy na dole do cichej na górze
+
+```text
+[WIEŻA]    ROZŻARZONA LATARNIA TALLYCH (znak nawigacyjny; herb w ogniu)
+[DACH]     OGRÓD DARNIOWY (deszczówka, ogród, izolacja)
+[POZIOM 4] KANTOR — PIĘTRO NARAD (Tam i Hal, Miedziany Stół, administracja)
+[POZIOM 3] BIBLIOTEKA I ARCHIWUM (sklepienia kamienne, czarny dąb, zastrzeżenie ogniowe)
+[POZIOM 2] SZKOŁA TALLYCH I SKRYPTORIUM (klasy, pulpity pisarzy, izba egzaminacyjna)
+[POZIOM 1] DRUKARNIA I INTROLIGATORNIA (prasy, odlewarnia czcionek, suszarnia)
+[PRZYZIEM] PAPIERNIA MŁYŃSKA (koło wodne od Kanału Wielkiego, stępy, kadzie)
+```
+
+1. **Przyziemie — Papiernia Młyńska (woda i napęd).** Papier na potrzeby własne i na handel. Woda z Kanału Wielkiego obraca koło, koło porusza drewniane stępy miażdżące lniane szmaty; para z sieci przyspiesza suszenie arkuszy.
+2. **Poziom 1 — Drukarnia i Introligatornia (płomień i ołów).** Księgi, druki urzędowe, mapy. Grafitowe ściany odporne na sadzę; odlewanie czcionek z ołowiu, piece, ciężkie prasy ręczne.
+3. **Poziom 2 — Szkoła Tallych i Skryptorium (pióro i nauka).** Osobne sale nauki podstawowej (litery, rachunki, miary); pulpity wykwalifikowanych pisarzy; **surowa izba egzaminacyjna**; przy drzwiach tablica z jednolitym cennikiem czesnego.
+4. **Poziom 3 — Biblioteka i Archiwum Domu (wiedza i porządek).** **Zastrzeżenie ogniowe:** poziom odcięty od niższych grubym stropem z łupka i żelaznymi drzwiami; całkowity zakaz otwartego ognia. Regały z czarnego dębu w geometrycznym porządku; światło z górnych świetlików i lamp w zamkniętych kloszach.
+5. **Poziom 4 — Kantor, piętro narad (administracja i decyzje).** Centrum dowodzenia Domu Handlowego: jasny modrzew, widok na kanał; **Miedziany Stół** (narady lorda, Tama i Hala), stanowisko rachmistrza, boks łowcy talentów, miejsce pracy faktorów.
+
+## III. Rozżarzona Latarnia Tallych
+Smukła wieża ponad ogrodem darniowym — **kuta, czerniona stal i grube szkło w kolorze pomarańczy i miedzi**. Wewnątrz klosza stały ogień, prowadzony miedzianymi ekranami tak, że cień rzucany na mgłę Cailin układa się w **płomień otaczający pionowe pióro**. Znak nawigacyjny dla łodzi na skrzyżowaniu Kanału Wielkiego i herb rodu w świetle: *ogień świecący przez własną mgłę.*
+
+## IV. Organizacja
+1. **Trzy ręce** — dyrektor szkoły uczy i nie dotyka pieniędzy; rachmistrz prowadzi pieniądze pod Tamem; łowca talentów szuka w terenie i nie egzaminuje.
+2. **Zasada Hala** — szkoła wychodzi na zero albo lepiej: *„płacący utrzymują darmowych"*.
+3. **Strój** — uczniowie w prostych grafitowych kaftanach; **nauczyciele w pomarańczowych kołnierzach** *(nowy wiersz zasady stroju)*; po siedmiu latach wychowanek kantoru dostaje pomarańczową szarfę faktora.
+
+## V. UWAGI WYKONAWCZE — zgodność z resztą projektu (spisane przy dopisaniu, do rozstrzygnięcia przez lorda przed budową)
+- **Pale** — w projekcie stoi „dębowe"; obowiązuje **olcha** (poprawka cechu z Braavos 299-12-17: pal trwa, bo nigdy nie wychodzi z wody). Dąb nie szkodzi, ale kosztuje więcej i niczego nie dodaje.
+- **Ogień w Mieście Górnym** — zasada XI: *piekarnie, kuźnie i warzelnia wyłącznie w dzielnicy oddzielonej kanałem*. **Odlewarnia czcionek z piecami** to ogień kuźniany; wymaga wyjątku od zasady albo przeniesienia odlewni do Dzielnicy Zielonej (czcionki przywozi się łodzią).
+- **Archiwum nad piecami** — przy Pomarańczowym Dworze zapisano: *Archiwum Domu nie stoi w tym budynku* (bezpieczeństwo ogniowe). Tu Archiwum stoi **dwa piętra nad drukarnią i stały ogień płonie nad nim, w latarni**. Strop z łupka i żelazne drzwi to dobra zapora — rozstrzygnąć: czy to **Archiwum Domu**, czy **biblioteka robocza** (a Archiwum zostaje w osobnym budynku, jak w Części Trzeciej).
+- **Koło wodne** — Kanał Wielki jest kanałem ogrzewanym i niemal stojącym; koło potrzebuje spadu. Spad jest przy **Wielkiej Śluzie** (Wieża Bramna) — rachunek dla maestera Weylina, zanim wbije się pierwszy pal.
+- **Drukarnia** — dziś na Fosie działa **Etap I: drzeworyt i prasa śrubowa** (Wat). Ruchoma czcionka ołowiana to etap późniejszy; budynek ma na nią miejsce.
+- **Miedziany Stół** — tajna księga zostaje tylko u Tama i lorda; przy Stole siedzi też Hal, więc tajna księga na Stół nie trafia (ustrój domu, 300-01-27).
+- **Kolejność** — budynek jest w **Etapie III/IV** miasta (co widać, co oddycha); papiernia i szkoła mogą ruszyć wcześniej w istniejących izbach. Skryptorium Ilaria rusza ~06-20 w izbach tymczasowych.

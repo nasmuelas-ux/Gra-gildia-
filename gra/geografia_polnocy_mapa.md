@@ -35,7 +35,7 @@
 - **The Twins** (Frey) — na płd krańcu, właściwie pogranicze Dorzecza (osobna zach. przeprawa, NIE Fosa).
 
 ## ZIEMIE NICZYJE / „UNKNOWN" — DO WZIĘCIA
-- **Sea Dragon Point (zach)** — **NIEOBSADZONE.** Miejsce planowanego **STARKPORTU** → zakładanie na WOLNEJ ziemi = zasiedlenie przez Koronę, nie negocjacja z lordem. Czysta karta, zachodnia brama morska.
+- **Sea Dragon Point (zach)** — **NIEOBSADZONE.** ~~Miejsce planowanego STARKPORTU~~ → **od 300-05-21 (Król, rzut 73): ZIEMIA DLA WOLNYCH LUDZI** (ogniska Mance'a, z nadania Króla, za przysięgą). **Starkport przeniesiony na Kamienny Brzeg** — centralna twierdza i kwiat brzegu.
 - **Stony Shore / Kamienisty Brzeg (zach, niżej)** — **NIEOBSADZONE.** Ubogie, mgliste, grabione przez żelaznych. Do wzięcia i obrony morską dźwignią. Sąsiaduje z Ryswell/Dustin.
 - **WNIOSEK:** zachodnie wybrzeże wolnej Północy jest w połowie **bezpańskie** — albo Korony (gdy weźmie i obroni), albo Krakenów (gdy zostawi). Zachód = **granica ekspansji** wolnej Północy.
 

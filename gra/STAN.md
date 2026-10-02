@@ -25,11 +25,10 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**104 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
+**103 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🟡 WRACA DZIS
 - MIRA Z LYRA I RHONA - DROGA Z BIALEGO PORTU DO WINTERFELL (kareta Hala), wyjazd ~05-08. · _kanal:_ trakt Bialy Port-Winterfell
-- NARADA: ROZBUDOWA STARKPORTU - projekt portow, umocnien, miasta i budynkow. Symon + Krol + Luwin, solar Krola, po probie windy Bra… · _kanal:_ Winterfell (solar Krola)
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -491,7 +490,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-20** — SOL NA WOLNYM PRAWIE - doktryna pana 05-20: zaden monopol (ani Boltona, ani Korony, ani Domu Tally). Regale soli Korony -> PRAWO DLA KAZDEGO: miara, rejestr, cena ogloszona, zakaz wylacznosci (zasada 299-12-31). Eskadra Dustinportu kupuje sol, nie warzy. To zmiana prawa Korony - przedlozyc Krolowi (zasada 22); Namiestnik jako strona (warzelnia Domu) nie rozstrzyga sam. · _kto:_ **SYMON -> KROL** · _zamyka:_ decyzja Krola o soli na wolnym prawie **⚠ VOID 300-05-20 - NA SLOWO GRACZA: BEZ DOKTRYNY; ROZWIAZANIE TYLKO DLA DUSTINPORTU (DONNEL KUPUJE SOL NA RYNKU).**
 - **300-05-20** — LIST DO LADY BARBREY DUSTIN - SOLARNIA W DUSTINPORCIE JEJ: stawia i prowadzi ona (jej brzeg, warzelnia, zysk); eskadra Korony kupuje od niej sol dla polowu, z kwitem. Wola obca - RZUT przy odpowiedzi. · _kto:_ **SYMON -> BARBREY DUSTIN** · _zamyka:_ odpowiedz Barbrey (rzut)
 - **300-05-20** — PRAWO SOLARNI MORSKIEJ - kazdy dom nadmorski zachodu i wschodu, ktory nie ma solarni morskiej, dostaje prawo do jednej (wola pana: 'walczymy z glodem, wiec sol niech bedzie wszedzie'). Sol jest regale Korony - pismo pod PIECZEC KROLA (Symon przedklada). Lista domow nadmorskich bez solarni - kancelaria z rejestru domow. · _kto:_ **SYMON -> KROL (pieczec); TOBIN SZALA (lista)** · _zamyka:_ pismo opieczetowane przez Krola + lista domow
-- **300-05-20** — NARADA: ROZBUDOWA STARKPORTU - projekt portow, umocnien, miasta i budynkow. Symon + Krol + Luwin, solar Krola, po probie windy Brana, przed poludniem. Luwin przynosi mape cypla, kodeks portowy, karte Vemunda (04-25). ### 05-20 wieczor - WOLA PANA: STARKPORT NA KAMIENNYM BRZEGU (centralna twierdza i kwiat), CYPEL MORSKIEGO SMOKA DLA DZIKICH. Krol potwierdza przeniesienie (fundacja z Rady). Na stol: przyczolek Vemunda na Cyplu (co z nim), osadnicy Sigrun, miejsce twierdzy, spiecie z etapami Kamiennego Brzegu. · _kto:_ **SYMON + KROL + LUWIN** · _zamyka:_ Krol potwierdza przeniesienie + kierunek projektu (port, mury, miasto, budynki) i kto rysuje
+- **300-05-20** — NARADA: ROZBUDOWA STARKPORTU - projekt portow, umocnien, miasta i budynkow. Symon + Krol + Luwin, solar Krola, po probie windy Brana, przed poludniem. Luwin przynosi mape cypla, kodeks portowy, karte Vemunda (04-25). ### 05-20 wieczor - WOLA PANA: STARKPORT NA KAMIENNYM BRZEGU (centralna twierdza i kwiat), CYPEL MORSKIEGO SMOKA DLA DZIKICH. Krol potwierdza przeniesienie (fundacja z Rady). Na stol: przyczolek Vemunda na Cyplu (co z nim), osadnicy Sigrun, miejsce twierdzy, spiecie z etapami Kamiennego Brzegu. · _kto:_ **SYMON + KROL + LUWIN** · _zamyka:_ Krol potwierdza przeniesienie + kierunek projektu (port, mury, miasto, budynki) i kto rysuje **⚠ W TOKU 300-05-21 - KROL POTWIERDZIL PRZENIESIENIE (RZUT 73), WARUNEK: NAJPIERW TWIERDZA, POTEM KWIAT; RESZTA NA STOLE**
 - **300-05-21** — KWIT OBSYDIANU - KOPIA DLA STANNISA przez Davosa (prosba Stannisa 05-21). · _kto:_ **OSRIC -> DAVOS** · _zamyka:_ kopia wyslana
 - **300-05-21** — WINDA BRANA - PROWADNICE W SZYBIE (dwie listwy, zeby kosz nie stukal o sciane) + smarowanie bebna przy hamulcu; ksiega wyciagu co tydzien. · _kto:_ **CIESLA WINTERFELL** · _zamyka:_ listwy stoja, wpis w ksiedze wyciagu
 
@@ -1429,8 +1428,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-20] `dziennik`: 300-05-20 KOLACJA (cd.) - SYMON PROSI KROLA I LUWINA O CHWILE JUTRO: ROZBUDOWA STARKPORTU (Cypel Morskiego Smoka, obok Kamiennego Brzegu) - zaprojektowac porty, umocnienia, ale tez miasto i …
-- [300-05-20] `robb_stark`: 300-05-20 KOLACJA (cd.) - SYMON PROSI KROLA I LUWINA O CHWILE JUTRO: ROZBUDOWA STARKPORTU (Cypel Morskiego Smoka, obok Kamiennego Brzegu) - zaprojektowac porty, umocnienia, ale tez miasto i …
 - [300-05-20] `dziennik`: 300-05-20 WIECZOR - ⚑ SYMON (wola pana): STARKPORT POWSTANIE NA KAMIENNYM BRZEGU - jego centralna twierdza i kwiat. CYPEL MORSKIEGO SMOKA IDZIE DLA DZIKICH. Bez rzutu (decyzja pana). Z ZAPIS…
 - [300-05-20] `robb_stark`: 300-05-20 WIECZOR - ⚑ SYMON (wola pana): STARKPORT POWSTANIE NA KAMIENNYM BRZEGU - jego centralna twierdza i kwiat. CYPEL MORSKIEGO SMOKA IDZIE DLA DZIKICH. Bez rzutu (decyzja pana). Z ZAPIS…
 - [300-05-20] `BRAN`: 300-05-20 WIECZOR, IZBA BRANA - SYMON ODWIEDZA BRANA. Bez rzutu. Wiatr jeszcze w okiennicach, deszcz slabszy; okno zamkniete na skobel. Lato niespokojny po calym dniu w zamku, chodzi od drzw…
@@ -1441,3 +1438,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-21] `dziennik`: 300-05-21 SNIADANIE, WIELKA SALA - po nawalnicy chlodno, okna otwarte na wilgotne powietrze; przy wysokim stole wiecej miejsca (Gloverowie i Hornwoodowie odjechali o swicie). Owsianka z miod…
 - [300-05-21] `BRAN`: 300-05-21 PO SNIADANIU, WIEZA BRANA - PROBA WINDY. SYMON IDZIE Z BRANEM NA GORE DO ZAPADKI (Hodor wnosi Brana po schodach - Bran oglada probe worka z gory, obok Symona). RZUT 44 (prog 40): U…
 - [300-05-21] `dziennik`: 300-05-21 PO SNIADANIU, WIEZA BRANA - PROBA WINDY. SYMON IDZIE Z BRANEM NA GORE DO ZAPADKI (Hodor wnosi Brana po schodach - Bran oglada probe worka z gory, obok Symona). RZUT 44 (prog 40): U…
+- [300-05-21] `dziennik`: 300-05-21 PRZED POLUDNIEM, SOLAR KROLA - NARADA O STARKPORCIE (Symon, Krol, Luwin). Na stole mapa zachodniego wybrzeza z wczoraj (rogi pod kubkami), mapa Cypla, kodeks portowy, karta Vemunda…
+- [300-05-21] `robb_stark`: 300-05-21 PRZED POLUDNIEM, SOLAR KROLA - NARADA O STARKPORCIE (Symon, Krol, Luwin). Na stole mapa zachodniego wybrzeza z wczoraj (rogi pod kubkami), mapa Cypla, kodeks portowy, karta Vemunda…

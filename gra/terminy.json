@@ -4860,7 +4860,7 @@
    "kanal": "w Winterfell",
    "wraca": "300-05-24",
    "zamyka": "plan rezerwy na pismie",
-   "status": "W TOKU 300-05-24 - plan Osrica na stole (gra/rezerwa_plan_300_05.md); do slowa pana: zacheta (a/b/c), dziesietnicy, start domeny"
+   "status": "ZAMKNIETE 300-05-24 - plan przyjety: wlocznia i luk w chacie; ulga 1/10 czynszu domeny za pelny rok cwiczen (Krol); tarcza do strzelania przy wsi; VI spis Kamiennego Brzegu, VII domena, IX/X tydzien jesienny"
   },
   {
    "data": "300-05-03",
@@ -6084,6 +6084,33 @@
    "kanal": "kruk Winterfell-Bialy Port + statek BP-Braavos i z powrotem (~48 dni)",
    "wraca": "300-07-10",
    "zamyka": "odpowiedz Nesty (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-24",
+   "co": "REZERWA - SPIS KAMIENNEGO BRZEGU (VI): imiennie, wies po wsi (imie / wies / co umie / gdzie bron); wlocznia i luk w chacie; tarcza do strzelania przy wsi. Ulric + Corwin + Brann.",
+   "kto": "ULRIC + CORWIN (+ BRANN MOKRY)",
+   "kanal": "przez Dustinport + kruk z Fosy",
+   "wraca": "300-06-30",
+   "zamyka": "spis imienny Kamiennego Brzegu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-24",
+   "co": "REZERWA - SPIS DOMENY I PIERWSZY DZIEN CWICZEN (VII, po sianokosach): Zimowe Miasto i wsie domeny; ogloszenie ulgi 1/10 czynszu za pelny rok cwiczen.",
+   "kto": "SER RODRIK + pisarz Korony",
+   "kanal": "Winterfell / domena",
+   "wraca": "300-07-20",
+   "zamyka": "spis + pierwszy dzien cwiczen odbyty (odzew - rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-24",
+   "co": "REZERWA - KOSZT: lzejszy komplet Z LUKIEM (luczarze Zimowego Miasta) + pensje dziesietnikow + ubytek czynszu z ulgi 1/10. Liczy Gawen z ksiegi (zasada 43).",
+   "kto": "GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-05-27",
+   "zamyka": "cena kompletu z lukiem, pensja dziesietnika, ubytek czynszu",
    "status": "otwarte"
   }
  ],

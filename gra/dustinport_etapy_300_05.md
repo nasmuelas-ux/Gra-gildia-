@@ -34,7 +34,7 @@
 - **Rozbudowa ku ujściu** (spis 299-09: *„część przedsięwzięcia, nie dodatek"*) — przystań rzeczna dostaje **morskie nabrzeże**.
 - **Latarnia** u ujścia (punkt łańcucha i znak dla eskadry).
 - **Szopy na zimowanie kadłubów** — kadłub na brzegu, osmolony i przykryty, kosztuje grosze; na wodzie — kosztuje załogę.
-- **Solarnia** dla połowu. ⚠ **Sól jest regale** i jedynym towarem, którym Dreadfort kupuje małe domy (nazwane 02-18) — solarnia Korony to rachunek z Dreadfortem, do policzenia, zanim stanie.
+- **Solarnia lady Dustin** (300-05-20) — stawia i prowadzi Barbrey; eskadra kupuje od niej sól z kwitem; do tego czasu sól z rynku (krok 5).
 
 **Zamyka E2:** nabrzeże przyjmuje okręt morski · latarnia pali się w łańcuchu · szopy na sześć.
 

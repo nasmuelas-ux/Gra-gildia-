@@ -5706,6 +5706,24 @@
    "kanal": "do ustalenia (Willa / Theon / handel)",
    "wraca": "300-05-27",
    "zamyka": "decyzja: kto patrzy na Pyke i jaka droga",
+   "status": "ZAMKNIETE 300-05-20 - decyzja pana: WILLA (siatka)."
+  },
+  {
+   "data": "300-05-20",
+   "co": "WILLA - OCZY NA PYKE: plan (kto, jaka droga, jak czesto, jak meldunek dojdzie przed czterema ogniami). Cel: zbieranie floty i wiec kapitanow tygodnie przed duzym najazdem; wylacznie wiedza. Punkt wyjscia: Rodrik Harlaw / Asha, forma ladunek i rachunek.",
+   "kto": "WILLA",
+   "kanal": "kruk Winterfell-Fosa (05-21) i z powrotem",
+   "wraca": "300-05-25",
+   "zamyka": "plan Willi na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-20",
+   "co": "OCZY NA PYKE - PIERWSZY MELDUNEK z Wysp (siatka Willi): stan floty, nastroj kapitanow, czy mowi sie o wiecu. RZUT przy meldunku (obce Wyspy).",
+   "kto": "WILLA (siatka)",
+   "kanal": "siatka Willi (14/35)",
+   "wraca": "300-07-01",
+   "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
    "status": "otwarte"
   }
  ],

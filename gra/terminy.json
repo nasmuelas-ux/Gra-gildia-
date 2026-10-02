@@ -5458,11 +5458,11 @@
   },
   {
    "data": "300-05-17",
-   "co": "CYTADELA - PROSBA O ODPISY ZAPISKOW POLNOCY O POGODZIE, ZIMACH I DLUGOSCI POR ROKU (list 05-17, pkt 8). Luwin: 'uczciwa wymiana' za Orwyna i Edmunda. 05-17: Symon zlecil Branowi - Bran ODMOWIL (rzut 17): 'robota dla maestera; zapytaj Luwina - on ma klucz do tych ksiag'. Sprawa u Symona - do obsadzenia.",
-   "kto": "SYMON (obsada)",
+   "co": "CYTADELA - PROSBA O ODPISY ZAPISKOW POLNOCY O POGODZIE, ZIMACH I DLUGOSCI POR ROKU (list 05-17, pkt 8). Luwin: 'uczciwa wymiana' za Orwyna i Edmunda. 05-17: Symon zlecil Branowi - Bran ODMOWIL (rzut 17): 'robota dla maestera; zapytaj Luwina - on ma klucz do tych ksiag'. Sprawa u Symona - do obsadzenia. ### 05-17 DECYZJA PANA: nie Luwin (ma dosc - edukacja, szkola); ZADANIE SKRYPTORIUM NA FOSIE (Ilario), gdy ruszy ~06-20/22. Przy starcie: miejsce w kolejce (po prawach Korony) i zrodla (ksiegi Luwina w Winterfell - jada na Fose albo pisarz do Winterfell).",
+   "kto": "SKRYPTORIUM FOSY (Ilario) <- SYMON",
    "kanal": "kruk Winterfell-Stare Miasto (lancuch maesterski) - przy odpowiedzi",
-   "wraca": "bez daty - do obsadzenia",
-   "zamyka": "ktos obsadzony i data odpisow",
+   "wraca": "300-06-22",
+   "zamyka": "zadanie przyjete przez Ilaria: kolejka, zrodla, data odpisow",
    "status": "otwarte"
   }
  ],

@@ -5769,6 +5769,15 @@
    "kanal": "Winterfell (Krol); kruk Winterfell-Barrowton; kruk Winterfell-Dreadfort",
    "wraca": "300-05-27",
    "zamyka": "zgoda Krola i ksztalt propozycji; potem listy",
+   "status": "VOID 300-05-20 - pan odwolal (nic nie wyszlo); zastapione: SOL NA WOLNYM PRAWIE (osobna pozycja)."
+  },
+  {
+   "data": "300-05-20",
+   "co": "SOL NA WOLNYM PRAWIE - doktryna pana 05-20: zaden monopol (ani Boltona, ani Korony, ani Domu Tally). Regale soli Korony -> PRAWO DLA KAZDEGO: miara, rejestr, cena ogloszona, zakaz wylacznosci (zasada 299-12-31). Eskadra Dustinportu kupuje sol, nie warzy. To zmiana prawa Korony - przedlozyc Krolowi (zasada 22); Namiestnik jako strona (warzelnia Domu) nie rozstrzyga sam.",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-27",
+   "zamyka": "decyzja Krola o soli na wolnym prawie",
    "status": "otwarte"
   }
  ],

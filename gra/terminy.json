@@ -5437,6 +5437,15 @@
    "wraca": "300-05-20",
    "zamyka": "obsada, kolejka kamienia i rak, koszt etapami, harmonogramy z datami; uchwala lawy o udziale miasta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-16",
+   "co": "LIST SYMONA DO LORDA BLACKWOODA (Raventree Hall): pisze kroniki Polnocy; chcialby kiedys porozmawiac o tym, ze Blackwoodowie jako jedyni w Dorzeczu trzymaja starych bogow. Bez slowa o Branie, wargach, Krwawym Kruku wprost. (Zapis: Blackwoodowie - czesc 'riverlandzkiej twarzy' Kompanii Polnoc-Dorzecze; martwe czardrzewo w sercu zamku - list maestera Riverrun 04-22.) RZUT na odpowiedz przy powrocie.",
+   "kto": "SYMON -> LORD BLACKWOOD",
+   "kanal": "kruk Winterfell-Raventree (przez Riverrun)",
+   "wraca": "300-05-29",
+   "zamyka": "odpowiedz Blackwooda (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

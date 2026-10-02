@@ -4023,7 +4023,7 @@
    "kanal": "Gulltown (korespondent Nesty) - tylko nasluch",
    "wraca": "300-05-19",
    "zamyka": "list od Baelisha albo przeglad kart",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-19 przegladem kart - od Baelisha nic; Gulltown cicho. Wiesc o doreczeniu posazka ~06-05 (osobny termin)."
   },
   {
    "data": "300-04-19",
@@ -4032,7 +4032,7 @@
    "kanal": "wlasna robota (Winterfell)",
    "wraca": "300-05-19",
    "zamyka": "karty poprawione",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-19 - 12 kart poprawionych: trzy klamaly ([7] Zelazne Wyspy, [10] Mur, [5] Dorzecze), dwie bez ruchu ([9] Bank, [12] Wiara), reszta dopiski. Wynikly: lodz Jastrzebi + pytanie do Reeda (luka Przesmyku), data kolumny Umbera."
   },
   {
    "data": "300-04-19",
@@ -5589,6 +5589,15 @@
    "kanal": "kruk Winterfell-Ostatnie Ognisko i z powrotem",
    "wraca": "300-05-26",
    "zamyka": "data pierwszej kolumny na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "PRZEGLAD KART KROLESTW z Sansa - DRUGI (miesieczny): 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Na wierzchu [10] Mur.",
+   "kto": "SYMON + SANSA",
+   "kanal": "wlasna robota (Winterfell)",
+   "wraca": "300-06-19",
+   "zamyka": "karty poprawione",
    "status": "otwarte"
   }
  ],

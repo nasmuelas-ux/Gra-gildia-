@@ -696,10 +696,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-05-24 ranek · zima (300)
+- **Data:** 300-05-24 poludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 72 · Zmeczenie 0**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 0**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1491,7 +1491,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-23] `rodzina/MIRA`: 300-05-23 POZNY WIECZOR, BOZY GAJ - SYMON I MIRA SIEDZA W GAJU. Bez rzutu (rodzina). Cieply wieczor, pierwszy taki; para nad ciepla sadzawka, ksiezyc przez korony debow, swierszcze w trawie.…
 - [300-05-23] `dziennik`: 300-05-23 NOC - Symon pyta Mire, czy czegos chce, zanim pojda spac. Mira, juz w progu komnaty: 'Niczego. Wszystko, czego chcialam, dzis dostalam.' Ida spac przed polnoca.
 - [300-05-23] `rodzina/MIRA`: 300-05-23 NOC - 'Niczego. Wszystko, czego chcialam, dzis dostalam.'
 - [300-05-24] `dziennik`: 300-05-24 RANEK (NIEDZIELA), WINTERFELL - SEN RZUT 49: noc zwykla - Lyra budzi sie dwa razy (zeby), raz wstaje Symon; zdrowie 100, zmeczenie 26->0, sytosc 100->72. POGODA RZUT 43: pochmurno,…
@@ -1503,3 +1502,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-24] `stala_armia_1000_299_08`: 300-05-24 SOLAR KROLA (cd.) - ⚑ SYMON: (1) BRON REZERWISTY W CHACIE - WLOCZNIA I LUK; (2) ZACHETA - (b) ULGA W CZYNSZU DOMENY. Bez rzutu (Krol sam podal wybor Namiestnikowi). KROL o uldze (t…
 - [300-05-24] `dziennik`: 300-05-24 SOLAR KROLA (cd.) - ⚑ SYMON: ZAWODY LUCZNICZE DLA LUDZI Z GMINU NA TARGACH I JARMARKACH - staly zwyczaj. Bez rzutu (kierunek Namiestnika w zatwierdzonej sprawie rezerwy). KROL usmi…
 - [300-05-24] `robb_stark`: 300-05-24 SOLAR KROLA (cd.) - ⚑ SYMON: ZAWODY LUCZNICZE DLA LUDZI Z GMINU NA TARGACH I JARMARKACH - staly zwyczaj. Bez rzutu (kierunek Namiestnika w zatwierdzonej sprawie rezerwy). KROL usmi…
+- [300-05-24] `dziennik`: 300-05-24 OBIAD, WIELKA SALA - PROBA OCHMISTRZOW. Pochmurno, lagodnie. Zupa z kapusty z boczkiem, pieczen wolowa, chleb, ser, piwo; dla dzieci mleko. Bez rzutow (obserwacja; wybor - Symon). …

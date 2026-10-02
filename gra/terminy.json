@@ -208,7 +208,7 @@
    "co": "BRACTWO RZEMIOSLA WOLNEGO - miasto wykonuje statut",
    "kto": "miasto Cailin",
    "zamyka": "wykonanie",
-   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose).",
+   "status": "ZAMKNIETE 300-05-16 (zbiorcze 04-25..05-09): miasto wykonuje statut - lawa wpisuje warsztaty wolne; spory o cech - zero; dalej w rytmie zbiorczego.",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01"
   },
@@ -244,7 +244,7 @@
    "co": "WILLA: druga droga na poludnie - dwie kolumny rejestru; czyta MELLA, wynik do Willi szyfrem ### 300-03-14 ROZSTRZYGNIECIE (zasada 40): NIE JEST ZALEGLE NA FOSIE - JEST ZALEGLE W REKU PANA. Kanal to 'wlasny czlowiek na Fosie', wiec rzecz zlecona i obsadzona idzie bez niego (zasady 7 i 42); wynik wchodzi do MELDUNKU ZBIORCZEGO GARRICKA, ktory od 300-03-05 idzie ZA NAMIESTNIKIEM, nie na Fose. Symon wyjezdza 03-15 i staje w Winterfell ~03-20 - tam go dogoni. TO JEST DOKLADNIE TA SAMA RZECZ, CO MELDUNEK VII OSRICA, ktory lezal, bo adres byl staly, a Namiestnik nie.",
    "kto": "MELLA -> HARROL -> WILLA",
    "zamyka": "odczyt kolumn",
-   "status": "IDZIE BEZ PANA - wynik w meldunku zbiorczym Garricka, dogoni w Winterfell ~300-03-20",
+   "status": "ZAMKNIETE 300-05-16 (porzadek): odczyt Melli szedl do Willi szyfrem od III; sprawa wchlonieta przez szeroki trop i zlecenia Willi (Harrion) - bez osobnej operacji.",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13"
   },
@@ -534,9 +534,9 @@
    "co": "NESTA - ROZGLOSIC W BRAAVOS PRZYWILEJE FOSY; ludzie maja kierunek. ALE rozglaszanie ZACZYNA SIE PO PODPISIE, nie przed. ⚠ DATA POPRAWIONA 300-03-03 z V/300 - ale tu poprawka mniej znaczy: rozglaszanie i tak ZACZYNA SIE PO PODPISIE przywileju, nie po dojsciu listu.",
    "kto": "NESTA",
    "zamyka": "podpis przywileju -> potem rozglos",
-   "status": "otwarte - warunkowe",
+   "status": "otwarte - warunkowe ### 05-16: BEZ DATY - spust to podpis przywileju Fosy (brak w zapisie, kiedy) - przeniesione do 'bez daty' (zasada 41).",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": "300-05-15"
+   "wraca": null
   },
   {
    "data": "wyslany 300-03-03 o brzasku",
@@ -992,7 +992,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "kamien rozpisany na trzy budowy z iloscia przy kazdej",
-   "status": "IDZIE BEZ PANA - wynik w meldunku zbiorczym Garricka, dogoni w Winterfell ~300-03-20"
+   "status": "ZAMKNIETE 300-05-16: kolejnosc wykonana - kamien z Goracego Portu najpierw na groble/przewloke, potem baszta Przystani Wilka (zbiorczy 05-09)."
   },
   {
    "data": "300-03-20",
@@ -1001,7 +1001,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-11",
    "zamyka": "karta przewozu: dni, wozy, przeladunki, koszt na sazen",
-   "status": "IDZIE BEZ PANA (zasady 7 i 42) - karta przewozu wchodzi do meldunku zbiorczego. Nastepny meldunek 300-04-11."
+   "status": "ZAMKNIETE 300-05-16 (zbiorczy 05-09): Torgil Woznica - pierwszy kamien z Goracego Portu na Fosie 05-08; trasa zmierzona: Fever barkami 4 dni, od Cailin wozem; karta przewozu w ksiedze."
   },
   {
    "data": "300-03-31 - ZAPADA W TYM MIESIACU",
@@ -1129,7 +1129,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "lista nazwisk, ktore ruszyly zboze ku poludniu, z ksiag - nie z siatki",
-   "status": "IDZIE BEZ PANA - wynik w meldunku zbiorczym Garricka, dogoni w Winterfell ~300-03-20"
+   "status": "ZAMKNIETE 300-05-16 (porzadek): sito komor dziala (Garth) - narzedzie zastapilo trop; wyniki w rejestrze skupu."
   },
   {
    "data": "300-03-07",
@@ -1260,7 +1260,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-13",
    "zamyka": "pulap 1/5 obrotu okregu na slupie - obowiazuje kazdego, nie wymienia nikogo",
-   "status": "IDZIE BEZ PANA - wynik w meldunku zbiorczym Garricka, dogoni w Winterfell ~300-03-20"
+   "status": "ZAMKNIETE 300-05-16 (zbiorczy 05-02): REJESTR KUPUJACYCH ILOSCIAMI przy komorach prowadzony od IV (Garth) - kazdy skup ponad miare z imieniem i pieczecia; jedenascie wpisow, w tym dwa z Bialego Portu."
   },
   {
    "data": "300-03-07",
@@ -1323,7 +1323,7 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-04-01",
    "zamyka": "jeden murowany spichlerz z ksiega i zarzadca",
-   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose)."
+   "status": "ZAMKNIETE jako operacja 300-05-16 (zbiorczy 05-09): spichlerz murowany w pierwszym okregu stoi do dachu, ksiega z imieniem i liczba workow zalozona; straznicy dwaj; dalsze okregi - w rytmie zbiorczego."
   },
   {
    "data": "300-03-04",
@@ -1856,7 +1856,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-03-31",
    "zamyka": "340 wykupione i umorzone, ksiega weksli zamknieta na zero",
-   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose)."
+   "status": "ZAMKNIETE 300-05-16 (porzadek): wykup wykonany 300-03-31 zgodnie z planem (bilans Hala za IV, 05-05) - warstwa wekslowa zamknieta."
   },
   {
    "data": "300-03-31",
@@ -1865,7 +1865,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-04-01",
    "zamyka": "plan wiosenny: ktore ramie dostaje ile z tego, co schodzi",
-   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose)."
+   "status": "ZAMKNIETE 300-05-16 (porzadek): marzec przy zerze - jak przewidziano; kwiecien odlozyl (bilans Hala 05-05)."
   },
   {
    "data": "300-03-11",
@@ -2626,7 +2626,7 @@
    "kanal": "kantor Bialy Port",
    "wraca": "300-03-14",
    "zamyka": "rachuba towaru wpisana jako stala pozycja kwartalna i sufit ogloszony wierzycielom",
-   "status": "IDZIE SAMO (zasada 7) - Tam liczy, Hal wystawia; meldunek w rachubie kwartalnej"
+   "status": "ZAMKNIETE jako operacja 300-05-16: Tam liczy, Hal wystawia - dziala; meldunek kwartalny w bilansie Hala."
   },
   {
    "data": "wiosna 300",
@@ -2761,7 +2761,7 @@
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "300-04-01",
    "zamyka": "slowo Mallistera i czlowiek na miejscu",
-   "status": "w biegu - idzie samo (zasada 7), bez pana; wynik w najblizszym meldunku kanalem wlasciwym (Hal / Garrick na Fose)."
+   "status": "ZAMKNIETE jako operacja 300-05-16 (karta Hala): placowka otwarta w IV, pierwszy ladunek zboza Mallisterow przez Seagard w V; koszt i przychod - w ksiedze Hala (zasada 43), dalej w bilansie miesiecznym."
   },
   {
    "data": "~300-04-06",
@@ -2814,7 +2814,7 @@
    "kanal": "kantor Bialy Port",
    "wraca": "300-04-30",
    "zamyka": "pierwszy miesiac bez zdarzenia jednorazowego zamkniety i policzony",
-   "status": "w biegu - miesiac liczony; zamkniecie 300-04-30 (Hal/Tam).",
+   "status": "ZAMKNIETE 300-05-16 (porzadek): kwiecien odlozyl - bilans Hala 05-05; liczby w kasa.py.",
    "co": "⚑ KWIECIEN - PIERWSZY MIESIAC, KTORY COKOLWIEK ODLOZY. Marzec konczy sie przy zerze: wykup 340, przewloka 230-325 i od 300-03-15 zaplata lennu w monecie 40-90 miesiecznie. KWIECIEN NIE MA ZADNEGO ZDARZENIA JEDNORAZOWEGO, wiec caly wynik operacyjny (390-585) zostaje w skrzyni - MINUS Seagard, ktory od kwietnia kosztuje 18-30. ⚠ I TU ZBIEGAJA SIE TRZY RZECZY NARAZ, WSZYSTKIE CZEKAJACE NA TE SAMA MONETE: szmaty dla papierni · surowiec i kanal dla bursztynu · zakladanie Seagard. Wiosna jest pora, w ktorej ramiona potrzebuja kapitalu - a kwiecien jest pierwszym miesiacem, ktory go ma."
   },
   {
@@ -3071,7 +3071,7 @@
    "kanal": "kantor Bialy Port",
    "wraca": "300-04-08",
    "zamyka": "pierwszy egzemplarz sprzedany i wpisany do rejestru przeniesien",
-   "status": "w biegu od dzis - Hal i notariusz Domu na Fosie otwieraja sprzedaz (zasada 7). Pierwszy egzemplarz i wpis do rejestru przeniesien - w meldunku Hala.",
+   "status": "ZAMKNIETE 300-05-16 (porzadek): 800 w Kasie 2 od 300-04-01; rejestr imienny u notariusza Domu na Fosie prowadzony; kupon od 301-04-01.",
    "co": "EMISJA OBLIGACJI LENNA RUSZA - 300-04-01, +800 do Kasy 2. Warunki na kazdym egzemplarzu: IMIENNA · rejestr przeniesien u notariusza Domu na Fosie · zadne przeniesienie niewazne bez wpisu · PIERWOKUP LENNA po cenie nominalnej. Data nie z ostroznosci, tylko z wlasnego kalendarza: 340 weksli Domu zapada 300-03-30, a swojego papieru nie sprzedaje sie w miesiacu wykupu wlasnego. Wpisane do silnika (gra/ekonomia.json, zdarzenia) i do gra/KSIEGA_ZOBOWIAZAN.md."
   },
   {
@@ -3310,9 +3310,9 @@
    "co": "PRZEDSTAWICIEL DOMU TALLY W REACH - rozkaz pana 300-04-02: najpierw ludzie, potem towar. OBSADA: HAL (od 300-01-26 obsadza filie sam). DROGA: statkiem Kompanii z Bialego Portu na poludnie (NIE krukiem przez Starmiasto - kanal znany Cytadeli). JAWNIE, pod znakiem Domu - nie 'cichy kantor', o ktory Olenna juz odpowiedziala. Siedziba: Hal wskaze miejsce (Highgarden to zamek, nie miasto). ### 300-04-02: IDZIE Z LISTA PROPOZYCJI (rozkaz pana): (a) TOWARY POLNOCY - drewno okretowe, futra i skory fok, smola, sol z warzelni Domu (liste sklada Hal); (b) ATELIER TALLY - bizuteria (bursztyn, gagat, srebro, stal woronowana: Marro, Torghen), welin i atrament (Wat), tkaniny i ubrania Polnocy (Mira). Atelier jest W DOMU od wniesienia Miry (299-11-29; warunek - wykup styczniowego papieru - spelniony wykupem 340). Pozycje Atelier ida na liste od razu; liste sklada Hal z Marrem.",
    "kto": "HAL -> czlowiek Domu",
    "kanal": "morze na poludnie (Reach, Highgarden)",
-   "wraca": "~300-05-15",
+   "wraca": "300-06-01",
    "zamyka": "przedstawiciel na miejscu i pierwszy meldunek",
-   "status": "otwarte - rozkaz idzie krukiem do Hala"
+   "status": "otwarte - rozkaz idzie krukiem do Hala ### 05-16: NIE PRZYSZLO I WIADOMO DLACZEGO - czlowiek Domu w drodze morzem do Reach; pierwszy meldunek przez Hala ~06-01 (razem z kontraktem dla Olenny)."
   },
   {
    "data": "300-04-02",
@@ -3591,7 +3591,7 @@
    "kanal": "trakt / kruk Winterfell-Fosa, kruk Winterfell-Bialy Port",
    "wraca": "300-05-16",
    "zamyka": "pierwszy targ w kazdym z dwoch miast, z ksiega",
-   "status": "otwarte ### 05-15: wynik w meldunku zbiorczym Garricka (05-16) - razem z dlugiem dziewieciu pozycji."
+   "status": "ZAMKNIETE 300-05-16 (rzut 2, prog 45): TARG SLABY - JEDNA KONSEKWENCJA. W Cailin i Bialym Porcie sprzedano mala czesc skor i welny Korony: kupcy Bialego Portu maja wlasny towar z zimy i cena ze slupa Korony stoi powyzej ich ceny; wiekszosc towaru wraca do skladu Korony. Monety mniej, niz liczono - Gawen przelicza (bez kwot z glowy)."
   },
   {
    "data": "300-04-06",
@@ -3834,7 +3834,7 @@
    "kanal": "robota na miejscu (Fosa)",
    "wraca": "300-05-16",
    "zamyka": "kamien mlynski wskazany z data",
-   "status": "otwarte - 300-04-21 ROZSTRZYGNIETE: kamien z lomu Goracego Portu (Harlon wycina, Torgil wiezie); gotowe ~05-15. ### 05-15: wynik w meldunku zbiorczym Garricka (05-16) - razem z dlugiem dziewieciu pozycji."
+   "status": "ZAMKNIETE 300-05-16 (zbiorczy 05-09): kamien mlynski z lomu Goracego Portu wyciety (Harlon), na barce w gore Goraczki; mlyn ruszy ~05-20 (Weylin+Kessel)."
   },
   {
    "data": "300-04-13",
@@ -4815,7 +4815,7 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport (05-03); kruk Winterfell-Deepwood (05-03)",
    "wraca": "300-05-16",
    "zamyka": "potwierdzenie gotowosci (ludzie przy plazach, rybacy spisani)",
-   "status": "otwarte ### 05-15: wynik w meldunku zbiorczym Garricka (05-16) - razem z dlugiem dziewieciu pozycji."
+   "status": "ZAMKNIETE 300-05-16 (zbiorczy 05-09 + slowo Harla): GOTOWOSC POTWIERDZONA - ludzie przy trzech plazach (Klif Mew, Czarny Piasek, Ujscie Mglistej), rybacy Kamienistego Brzegu spisani, ogien Gloverow umowiony (Robett), eskadra Torrena wie, gdzie zamykac. Czekaja na zelaznych."
   },
   {
    "data": "300-05-02",
@@ -5238,7 +5238,7 @@
    "kanal": "slup w Zimowym Miescie + soltysi domeny",
    "wraca": "300-05-16",
    "zamyka": "ilu sie zglosilo, imiennie u Gawena",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-16 (rzut 13, prog 45): ODZEW SLABY - JEDNA KONSEKWENCJA: zglosilo sie SZESCIU (dwaj wedrowni, czterech z Zimowego Miasta). Potomkowie ludzi z Czerwonego Strumienia sa - ale NIE PRZYSZLI: w Zimowym Miescie pamieta sie, ze wies 'wymarla od zarazy' - 'tam sie umiera'. Grim rusza z mniejsza ekipa."
   },
   {
    "data": "300-05-13",
@@ -5265,7 +5265,7 @@
    "kanal": "slup Zimowego Miasta + Grim na Smolnej Polanie",
    "wraca": "300-05-16",
    "zamyka": "smolarze przyjeli albo nie - i wiadomo dlaczego",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-16 (rzut 50, prog 45): SMOLARZE PRZYJELI - Grim byl pierwszy, przed slupem. Cena na slupie jak u Gawena; kowale miasta pierwsi; najstarszy smolarz z Polany najmuje sie za zold uczyc nowych mielerzy przy Czerwonym Strumieniu."
   },
   {
    "data": "300-05-14",
@@ -5274,7 +5274,7 @@
    "kanal": "kruk Fosa-Winterfell (zbiorczy) + kruk Bialy Port-Winterfell",
    "wraca": "300-05-16",
    "zamyka": "kazda z dziewieciu - zamknieta albo z nowa operacja",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-16 - poczta odebrana: zbiorcze 04-25/05-02/05-09, karty Borsa i Theomore'a (05-06), karty Spichlerza (04-25, 05-09); dziewiec pozycji 'w biegu' zamknietych."
   },
   {
    "data": "300-05-14",
@@ -5392,6 +5392,24 @@
    "wraca": "300-06-20",
    "zamyka": "odpowiedz Mance'a (rzut) albo wiesc o Dacey",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-16",
+   "co": "⚠ BASZTA PRZYSTANI WILKA - PROSBA BORSA (karta 05-06): kamien z Goracego Portu idzie po grobli/przewloce, wiec baszta nie bedzie w kamieniu pod dachem przed ~06-15. Bors proponuje DACH TYMCZASOWY Z DREWNA na murach do pierwszego pietra - Brynden ma gdzie mieszkac i uczyc; kamien dokonczy gorne pietro po grobli. Koszt drewna - z ksiegi wspolwlascicieli (Korona 1/2, Cerwyn 1/4, Manderly 1/4). DECYZJA - pana / Krola.",
+   "kto": "BORS -> SYMON / KROL",
+   "kanal": "karta I przez Garricka",
+   "wraca": "300-05-20",
+   "zamyka": "zgoda albo nie na dach tymczasowy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-16",
+   "co": "RUDA - ZA MALO RAK: szesciu z naboru (odzew 13 - zaraza pamietana w Zimowym Miescie). Grim rusza ~05-20 z mniejsza ekipa: dwie dymarki zamiast czterech. Decyzja pana, czy cos z tym zrobic (np. kaplan/septon albo maester o zarazy, wyzsza dniowka, osadnicy z Fosy) - albo zostawic.",
+   "kto": "SYMON / GAWEN / GRIM",
+   "kanal": "Winterfell",
+   "wraca": "300-05-20",
+   "zamyka": "decyzja albo zostaje jak jest",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -5488,7 +5506,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-04-18",
+   "ostatnio_odebrane": "300-05-09",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -5500,7 +5518,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-04-06",
+   "ostatnio_odebrane": "300-05-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -5512,7 +5530,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-04-06",
+   "ostatnio_odebrane": "300-05-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -5549,7 +5567,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-04-11",
+   "ostatnio_odebrane": "300-05-09",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

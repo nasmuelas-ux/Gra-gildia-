@@ -5626,6 +5626,15 @@
    "wraca": "300-05-26",
    "zamyka": "raport na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "DORZECZE - MAPA FRAKCJI z Sansa PO ODPOWIEDZI EDMURE'A/CATELYN (~05-26): kto przysiega Riverrun, gdzie garnizony Lannisterow, kto z kim w sporze (Blackwood/Bracken i inne), Harrenhal, Maidenpool; gdzie Polnoc moze pomoc godzic - PRZEZ EDMURE'A, nie ponad nim (rada Sansy).",
+   "kto": "SYMON + SANSA",
+   "kanal": "wlasna robota (Winterfell)",
+   "wraca": "300-05-27",
+   "zamyka": "mapa frakcji na karcie [5]",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

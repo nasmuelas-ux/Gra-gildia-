@@ -5602,11 +5602,20 @@
   },
   {
    "data": "300-05-19",
-   "co": "WILLA - CZEMU ZWINIETO POLUDNIE (pytanie Symona). Z zapisu: odstawienie rozkazem pana 300-03-03 po zwezeniu na Baelisha (r9, jedna reka milczy, firewall trzymal); kanal przejety (03-17) i grany swiadomie (03-19); trop zwiniety 04-28. Willa odpowiada: stan dzis - co zostalo z rak i z przejetego kanalu.",
+   "co": "WILLA - CZEMU ZWINIETO POLUDNIE (pytanie Symona). Z zapisu: odstawienie rozkazem pana 300-03-03 po zwezeniu na Baelisha (r9, jedna reka milczy, firewall trzymal); kanal przejety (03-17) i grany swiadomie (03-19); trop zwiniety 04-28. Willa odpowiada: stan dzis - co zostalo z rak i z przejetego kanalu. ### DOPISANE 05-19: (a) USPIENI W MIESCIE KP wg rady Sansy (nie dwor; bez polnocnego akcentu; prawdziwy interes; tylko sluchanie, meldunek miesieczny); (b) DOKTRYNA: siatka poludniowa ROSNIE; przy wpadce odciac ogniwo, nie zatrzymywac calosci. Willa odpowiada planem.",
    "kto": "SYMON -> WILLA",
    "kanal": "kruk Winterfell-Fosa (05-19) i z powrotem",
    "wraca": "300-05-23",
-   "zamyka": "odpowiedz Willi na pismie",
+   "zamyka": "odpowiedz Willi: powod (03-03) + stan + PLAN usypiania w KP i doktryna odcinania",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "SIATKA POLUDNIOWA - PIERWSI USPIENI W KROLEWSKIEJ PRZYSTANI: osadzenie wg planu Willi (po odpowiedzi ~05-23). Rzut przy pierwszym meldunku (miasto obce - czy ktos sie osadzil i jak gleboko). Kanal siatki: 14 dni w jedna strone, 35 w obie.",
+   "kto": "WILLA (siatka)",
+   "kanal": "siatka Willi (14/35)",
+   "wraca": "300-07-01",
+   "zamyka": "pierwszy meldunek z miasta albo nazwana przyczyna braku",
    "status": "otwarte"
   }
  ],

@@ -60,3 +60,4 @@
 - **Broń w chacie: WŁÓCZNIA I ŁUK** (Namiestnik). Przy każdej wsi tarcza do strzelania; na dzień ćwiczeń strzał na miarę — 5 z 10 na 50 kroków = strzały ze zbrojowni za darmo (Osric).
 - **Zachęta: (b) ULGA W CZYNSZU DOMENY** — **1/10 czynszu za pełny rok** ćwiczeń (wszystkie dni + tydzień jesienny); kto opuści bez powodu, traci ulgę na ten rok (Król).
 - Start: Kamienny Brzeg VI, domena VII, tydzień jesienny IX/X. Koszt kompletu z łukiem i dziesiętników — Gawen (~05-27).
+- **ZAWODY ŁUCZNICZE DLA GMINU na targach i jarmarkach** (Namiestnik) — stały zwyczaj. Nagroda: łuk ze zbrojowni Korony + imię na słupie targowym (Król); reszta — Gawen. Pierwsze: Zimowe Miasto, w dzień pierwszego ćwiczenia rezerwy domeny (VII). Łuk wręcza Arya.

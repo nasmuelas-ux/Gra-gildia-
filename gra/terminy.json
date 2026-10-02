@@ -5689,6 +5689,24 @@
    "wraca": "300-05-20",
    "zamyka": "rozmowa odbyta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-20",
+   "co": "STALY ROZKAZ KROLA - CZTERY OGNIE (WIELKA FLOTA): nowy znak na karcie ognia (cztery kosze + rog ciagly = wiecej okretow niz palcow obu rak; Luwin dopisuje); na cztery ognie choragwie zachodu zbieraja sie BEZ CZEKANIA NA KRUKA, kazdy pan w swoim miejscu zbiorki (podaje zawczasu): Glover, Tallhart, Dustin, Flint z Palca, Mormontowie; garnizony Korony (Kamienny Brzeg, Dustinport) i jazda Hendry'ego (rozkaz Krola wg warunku wezwania 05-14); Krol rusza z Winterfell. Odpisy krukami do panow zachodu 05-21. Odpowiedzi panow (miejsca zbiorki) - RZUT przy kazdej.",
+   "kto": "KROL (pieczec) + LUWIN (karta) -> panowie zachodu",
+   "kanal": "kruki Winterfell-Deepwood / Kwadrat Torrhena / Barrowton / Palec / Wyspa Niedzwiedzia (05-21)",
+   "wraca": "300-05-28",
+   "zamyka": "karta ognia z czterema ogniami w punktach + miejsca zbiorki od panow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-20",
+   "co": "OCZY NA PYKE - zlecenie Krola dla Symona ('dostan mi oczy na Pyke'): kto zobaczy zbieranie floty i wiec kapitanow tygodnie przed najazdem. Z zapisu dzwignia (5) z 04-06: CZYTELNIK - Rodrik Harlaw (za nim Asha), cienka nic Willi, forma: ladunek i rachunek, nie poselstwo. Do decyzji Symona: kto i jak.",
+   "kto": "SYMON (decyzja)",
+   "kanal": "do ustalenia (Willa / Theon / handel)",
+   "wraca": "300-05-27",
+   "zamyka": "decyzja: kto patrzy na Pyke i jaka droga",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

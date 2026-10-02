@@ -5184,7 +5184,7 @@
    "kanal": "jezdziec zamek Cerwyn-Winterfell (blisko)",
    "wraca": "300-05-19",
    "zamyka": "chlopiec w Winterfell, przyjety",
-   "status": "otwarte"
+   "status": "otwarte ### 05-19 rano: deszcz (pogoda 30) - jezdziec z chlopcem dojedzie po poludniu."
   },
   {
    "data": "300-05-12",
@@ -5283,11 +5283,11 @@
    "kanal": "kruk Winterfell-Barrowton (05-15 rano)",
    "wraca": "300-05-19",
    "zamyka": "odpowiedz lady Dustin (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-19 - rzut 11: Barrowton w lancuchu ognia (punkty, ludzie, karta znakow), ALE straznikow oplaca SAM - odmowa zoldu Korony ('od czasow Pierwszych Ludzi')."
   },
   {
    "data": "300-05-14",
-   "co": "JEDNA STAWKA DLA WSZYSTKICH STRAZNIKOW OGNIA - decyzja Symona 05-14 ('tym samym wszystkim powinnismy zaplacic'): GAWEN zestawia liste punktow lancucha (Gloverowie/Robett, Kamienny Brzeg, Dustinport/Donnel, Wyspa Niedzwiedzia/Maege, Barrowlandy jesli przyjmie, GORACY PORT - nowy punkt Fosy, PALEC FLINTA jesli przyjmie) i jedna stawke z Kasy 3, imiennie, z kwitem. Kwoty z ksiegi Gawena (zasada 43). Wlasny czlowiek Korony - bez rzutu.",
+   "co": "JEDNA STAWKA DLA WSZYSTKICH STRAZNIKOW OGNIA - decyzja Symona 05-14 ('tym samym wszystkim powinnismy zaplacic'): GAWEN zestawia liste punktow lancucha (Gloverowie/Robett, Kamienny Brzeg, Dustinport/Donnel, Wyspa Niedzwiedzia/Maege, Barrowlandy jesli przyjmie, GORACY PORT - nowy punkt Fosy, PALEC FLINTA jesli przyjmie) i jedna stawke z Kasy 3, imiennie, z kwitem. Kwoty z ksiegi Gawena (zasada 43). Wlasny czlowiek Korony - bez rzutu. ### 05-19: BARROWLANDY POZA STAWKA - lady Dustin placi swoim sama (rzut 11); Gawen liczy lancuch bez nich.",
    "kto": "GAWEN (Skarb)",
    "kanal": "Winterfell",
    "wraca": "300-05-21",
@@ -5454,7 +5454,7 @@
    "kanal": "slup w Zimowym Miescie + soltysi",
    "wraca": "300-05-19",
    "zamyka": "liczba zapisanych (rzut odzewu)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-19 - rzut 49: siedmiu nowych, razem 13; trzy dymarki zamiast czterech; Grim rusza 05-20."
   },
   {
    "data": "300-05-17",
@@ -5544,7 +5544,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-19",
    "zamyka": "akt spisany i opieczetowany",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-18 wieczor - akt spisany (pisarz Luwina), pieczec kuratora Galbarta."
   },
   {
    "data": "300-05-18",

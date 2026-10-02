@@ -71,7 +71,8 @@
 2. **Nabrzeże morskie** — pale olchowe, kamień przy krawędzi.
 3. **Latarnia** — punkt łańcucha ognia i znak eskadry.
 4. **Szopy zimowe na sześć kadłubów.**
-5. **SÓL — BEZ SOLARNI KORONY** (rozstrzygnięcie pana 300-05-20, tylko dla Dustinportu; udział dla Dreadfortu odwołany): Korona **nie stawia solarni**. **Donnel kupuje sól dla połowu tam, gdzie taniej i pewniej** — od ludzi Barbrey, z Białego Portu, z Dreadfortu, od kogokolwiek — z kwitem, po cenie z rynku. Nic się nie zmienia w prawie i nikomu nic się nie odbiera.
+5. **SOLARNIA LADY DUSTIN** (rozstrzygnięcie pana 300-05-20; udział dla Dreadfortu odwołany): solarnię w Dustinporcie **stawia i prowadzi lady Barbrey Dustin** — jej brzeg, jej warzelnia, jej zysk; **eskadra kupuje od niej** sól dla połowu, z kwitem. Do czasu jej solarni Donnel kupuje sól na rynku, gdzie taniej i pewniej. Propozycja idzie listem; jej odpowiedź — rzut.
+   Obok: **każdy dom nadmorski zachodu i wschodu, który nie ma solarni morskiej, dostaje prawo do jednej** — *„walczymy z głodem, więc sól niech będzie wszędzie”* (pismo pod pieczęć Króla — sól jest regale Korony).
 
 ### E3 — BAZA STAŁA
 1. **Rezerwa kadłubów na brzegu** — osmolone, przykryte, pilnowane; stan czytany na głos raz w roku.

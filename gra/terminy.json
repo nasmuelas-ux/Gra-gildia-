@@ -5553,11 +5553,11 @@
    "kanal": "Winterfell (przed wyjazdem)",
    "wraca": "300-05-20",
    "zamyka": "decyzja albo zostaje jak jest",
-   "status": "ZAMKNIETE 300-05-18 - Galbart (rzut 97): 20 ludzi z druzyny Glovera (z Deepwood, znaja Larence'a), dziesietnik OSGAR; pod choragwia Hornwood, zold Glovera przez rok, ucza hornwoodzkich chlopakow; wracaja, gdy Larence ma 20 swoich."
+   "status": "ZAMKNIETE 300-05-18 - Galbart (rzut 97): 20 ludzi z druzyny Glovera (z Deepwood, znaja Larence'a), dziesietnik FENNICK; pod choragwia Hornwood, zold Glovera przez rok, ucza hornwoodzkich chlopakow; wracaja, gdy Larence ma 20 swoich."
   },
   {
    "data": "300-05-18",
-   "co": "HORNWOOD - WLASNA DRUZYNA LARENCE'A: dwudziestu Glovera (Osgar) uczy chlopakow Hornwood; gdy Larence ma dwudziestu swoich - ludzie Glovera wracaja do Deepwood. Zold Glovera przez rok (do ~300-05-18 nastepnego roku). Stan - przy pierwszym meldunku z Hornwood.",
+   "co": "HORNWOOD - WLASNA DRUZYNA LARENCE'A: dwudziestu Glovera (Fennick) uczy chlopakow Hornwood; gdy Larence ma dwudziestu swoich - ludzie Glovera wracaja do Deepwood. Zold Glovera przez rok (do ~300-05-18 nastepnego roku). Stan - przy pierwszym meldunku z Hornwood.",
    "kto": "LARENCE + DONELLA / OSGAR",
    "kanal": "kruk Hornwood-Winterfell (przez Bialy Port albo jezdziec)",
    "wraca": "300-07-01",

@@ -5563,6 +5563,24 @@
    "wraca": "300-07-01",
    "zamyka": "pierwszy meldunek: ilu chlopakow pod nauka",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "MCHOWE JASTRZEBIE - LODZ NA LUCE PRZESMYKU: dwoch z kagancem/ogniem sygnalowym na zachodnim brzegu Przesmyku miedzy Palcem Flintow a Goracym Portem; zagiel -> ogien na najblizszym punkcie lancucha + znak do Fosy. Obsada i zmiany - Hendry. Wlasni ludzie - bez rzutu.",
+   "kto": "HENDRY -> MCHOWE JASTRZEBIE",
+   "kanal": "kruk Winterfell-Fosa (05-19) i z powrotem",
+   "wraca": "300-05-23",
+   "zamyka": "lodz na wodzie: imiona, zmiany, od kiedy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "REEDOWIE - OGIEN U UJSC PRZESMYKU: list do Howlanda Reeda - czy krannogi dadza znak/zapala ogien na widok zelaznego zagla (wg karty znakow ognia). Wola obca - RZUT przy odpowiedzi; odpowiedz moze przyjsc tez przez Jojena i Meere (~05-30..06-05).",
+   "kto": "SYMON -> HOWLAND REED",
+   "kanal": "kruk Winterfell-Fosa (05-19) + poslaniec przy grobli",
+   "wraca": "300-06-05",
+   "zamyka": "odpowiedz Reeda (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

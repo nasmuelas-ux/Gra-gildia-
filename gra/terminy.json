@@ -6046,9 +6046,9 @@
    "co": "SZKLO Z MYR - OSTRZEZENIE WILLI: posrednik z Myr (pyta ile szkla kupuje Polnoc i ktoredy zboze z zewnatrz) placi przez DOM SZKLARSKI ORRELLO. Wycena szkla z Myr (Hal/Nesta, ~05-27) - NIE przez Orrello; Nesta ma wiedziec.",
    "kto": "SYMON -> HAL + NESTA",
    "kanal": "kruk Winterfell-Bialy Port (Hal) + list do Nesty",
-   "wraca": "300-05-27",
+   "wraca": "300-05-28",
    "zamyka": "wycena szkla sprawdzona: od kogo (nie Orrello)",
-   "status": "otwarte"
+   "status": "WYSLANE 300-05-23 - kruk do Hala o swicie 05-24 (u Hala ~05-26); list do Nesty przez Hala; odpowiedz Hala ~05-28: czy wycena szla przez Orrello"
   },
   {
    "data": "300-05-23",
@@ -6075,6 +6075,15 @@
    "kanal": "Winterfell",
    "wraca": "300-06-06",
    "zamyka": "luka zamknieta (przerzut albo Seagard) w nastepnej karcie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-23",
+   "co": "NESTA - ORRELLO: kto w Braavos/Pentos handluje z domem szklarskim Orrello z Myr i czy ma wspolnika placacego za cudze pytania (sluchac, nie pytac). List przez Hala, statkiem. Kantor wlasny - bez rzutu na wydanie; co uslyszy - rzut przy odpowiedzi.",
+   "kto": "SYMON -> NESTA (przez Hala)",
+   "kanal": "kruk Winterfell-Bialy Port + statek BP-Braavos i z powrotem (~48 dni)",
+   "wraca": "300-07-10",
+   "zamyka": "odpowiedz Nesty (rzut)",
    "status": "otwarte"
   }
  ],

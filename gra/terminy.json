@@ -5761,6 +5761,15 @@
    "wraca": "300-06-02",
    "zamyka": "harmonogram etapow z datami i nazwiskami na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-20",
+   "co": "SOLARNIA DUSTINPORTU (E2) - UDZIAL DLA DREADFORTU (zamysl pana 05-20). Przed listem do Roose'a: (a) zgoda Krola - sol to regale Korony; (b) slowo Barbrey - jej brzeg z paktu, a ona odwrocila sie od Roose'a (05-14). Kolejnosc proponowana: Krol -> Barbrey -> Roose. Ksztalt udzialu (ile, za co, kto liczy) - do ustalenia.",
+   "kto": "SYMON (decyzja) -> KROL / BARBREY / ROOSE",
+   "kanal": "Winterfell (Krol); kruk Winterfell-Barrowton; kruk Winterfell-Dreadfort",
+   "wraca": "300-05-27",
+   "zamyka": "zgoda Krola i ksztalt propozycji; potem listy",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

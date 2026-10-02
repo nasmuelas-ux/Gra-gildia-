@@ -52,3 +52,29 @@
 - **Najpierw mur, potem statek** (300-05-20): zabieranie żelaznych statków wstrzymane do palisady na Kamiennym Brzegu i muru w Gorącym Porcie — Dustinport trzyma gotowość, nie rusza statku.
 - **Cztery ognie** (stały rozkaz Króla 300-05-20): garnizon Dustinportu i eskadra są w nim imiennie.
 - **Plaże Theona** — rybacy spisani, ogień umówiony (05-16).
+
+---
+
+## KROKI W ETAPACH — rozpisane 300-05-20 na polecenie pana
+*Kolejność kroków jest wiążąca; daty podaje Donnel z Torrenem (~06-02). Do tego czasu — kolejność, nie kalendarz.*
+
+### E1 — SZEŚĆ MOKRYCH
+1. **Spis imienny ludzi przyczółka** (226) — kto wiosłuje, kto buduje, kto odbity bez domu (rubryka 1 karty).
+2. **Załogi czterech kolejnych kadłubów** — Barrowlandczycy trzonem (słowo z Barbrey przez Donnela), rybacy uzupełnieniem; kartka stawki/podziału łupu przy każdym kadłubie (*„stawka ogłoszona, nie umawiana osobno"*).
+3. **Wodowanie po kolei** — kadłub nie schodzi na wodę bez załogi spisanej z imienia.
+4. **Palisada od strony wody i wieża ognia** — kosz na nogach, sucha skrzynia, róg (karta ognia Luwina); punkt odpowiada na znak sąsiada.
+5. **Komora połowu przy zejściu na ląd** — jedna miara, kwit, rubryka SKĄD / CO / ILE / CZYJE; połowa do spichrza Korony, połowa załodze imiennie.
+6. **Szew z Barrowlandami** — ustalić z ludźmi Barbrey, KIEDY pali się ich ognisko (dziś: nieregularnie) — przez Donnela, bez nacisku (Król 04-11: bez żądań wobec lady Dustin).
+
+### E2 — PRZYSTAŃ U UJŚCIA
+1. **Pomiar ujścia** — głębokość, dno, gdzie stanie nabrzeże (Weylin albo człowiek Orbela — rachunek, nie oko).
+2. **Nabrzeże morskie** — pale olchowe, kamień przy krawędzi.
+3. **Latarnia** — punkt łańcucha ognia i znak eskadry.
+4. **Szopy zimowe na sześć kadłubów.**
+5. **SOLARNIA — PROPOZYCJA UDZIAŁU DLA DREADFORTU** (rozstrzygnięcie pana 300-05-20): zamiast zabierać Boltonowi narzędzie — **dać mu w nim udział**. Kształt, warunki i kolejność rozmów — w osobnej pozycji (⚠ sól to regale Korony; brzeg to ziemia Barbrey z paktu).
+
+### E3 — BAZA STAŁA
+1. **Rezerwa kadłubów na brzegu** — osmolone, przykryte, pilnowane; stan czytany na głos raz w roku.
+2. **Warsztat remontowy** — smoła z Deepwood, płótno, liny; drewno z Barrowton i z daniny Mormontów.
+3. **Rezerwa wioślarzy z rybaków** — spis przy ruszeniu, dni ćwiczeń (zgodnie z planem rezerwy Osrica).
+4. **Węzeł poczty do Starkportu** — stały rytm jeźdźca/łodzi.

@@ -3978,7 +3978,7 @@
    "kanal": "robota na miejscu (Winterfell)",
    "wraca": "300-05-21",
    "zamyka": "wyciag chodzi z Branem",
-   "status": "otwarte - 05-09 (6): kolowrot pekl na probie z polanami; nowa os + druga zapadka ~05-16."
+   "status": "ZAMKNIETE 300-05-21 (rzut 44) - podwojny worek trzyma, BRAN WJECHAL SAM; ksiega wyciagu otwarta"
   },
   {
    "data": "300-04-18",
@@ -5814,6 +5814,15 @@
    "kanal": "kruk Czarny Zamek/Winterfell - Bialy Port",
    "wraca": "300-05-25",
    "zamyka": "kopia wyslana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-21",
+   "co": "WINDA BRANA - PROWADNICE W SZYBIE (dwie listwy, zeby kosz nie stukal o sciane) + smarowanie bebna przy hamulcu; ksiega wyciagu co tydzien.",
+   "kto": "CIESLA WINTERFELL",
+   "kanal": "robota na miejscu",
+   "wraca": "300-05-24",
+   "zamyka": "listwy stoja, wpis w ksiedze wyciagu",
    "status": "otwarte"
   }
  ],

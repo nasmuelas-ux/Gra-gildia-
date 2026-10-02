@@ -5896,6 +5896,15 @@
    "wraca": "300-05-27",
    "zamyka": "zgoda Glovera + imie czlowieka do pomiaru (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-21",
+   "co": "MIEJSCE DLA SIGURDA W BOZYM GAJU WINTERFELL - obietnica Symona dla Miry (05-21). Wola Miry: nie pod drzewem serca ('tam sa Starkowie'), z boku, przy wodzie. Gaj Starkow - zgoda Krola (Symon pyta; Mira chce pojsc z nim).",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-23",
+   "zamyka": "zgoda Krola + miejsce wskazane",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

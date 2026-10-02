@@ -4482,7 +4482,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-22",
    "zamyka": "liczba ludzi + miejsce palisady (po powrocie Osrica)",
-   "status": "otwarte - Osric wraca dzis; liczba przy rozmowie Krol/Symon/Osric"
+   "status": "ZAMKNIETE 300-05-22 - 150 stalych do zimy (50 Winterfell ~05-28 / 50 z brzegu 07-01 / 50 drugi nabor VIII); rezerwa z rybakow + odsiecz Gloverow i Torrena; zbrojownia - Rodrik, zold - Gawen"
   },
   {
    "data": "300-04-26",
@@ -5986,6 +5986,33 @@
    "wraca": "300-05-25",
    "zamyka": "drzewo posadzone",
    "status": "ZAMKNIETE 300-05-22 - jarzebina posadzona przez Symona i Mire"
+  },
+  {
+   "data": "300-05-22",
+   "co": "GARNIZON KAMIENNEGO BRZEGU 150 - ZOLD DO KONCA ROKU (Kasa 3): stawka ~3 smoki/mies. na czlowieka (z naboru 07-01), narastanie: 50 od ~05-28, +50 od 07-01, +50 od VIII. Suma i miesieczny koszt z ksiegi Gawena (zasada 43).",
+   "kto": "GAWEN (Skarb)",
+   "kanal": "Winterfell",
+   "wraca": "300-05-23",
+   "zamyka": "zold w ksiedze Skarbu: miesiecznie i do konca roku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-22",
+   "co": "GARNIZON KAMIENNEGO BRZEGU 150 - ZBROJOWNIA: czy zbrojownia Winterfell da komplety (wlocznia + miecz przy lzejszym komplecie, rozkaz 05-02) na drugie i trzecie piecdziesiat; miecze najpierw dla brzegu.",
+   "kto": "SER RODRIK",
+   "kanal": "Winterfell",
+   "wraca": "300-05-23",
+   "zamyka": "spis kompletow: jest / brakuje ile i do kiedy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-22",
+   "co": "GARNIZON KAMIENNEGO BRZEGU - DRUGI NABOR 50 (VIII, po palisadzie): z osad Sigrun i wsi brzegu; pod Ulrikiem; zold Kasa 3. Odzew - RZUT przy naborze.",
+   "kto": "CORWIN + ULRIC (na miejscu)",
+   "kanal": "przez Dustinport + kruk z Fosy",
+   "wraca": "300-08-15",
+   "zamyka": "50 imiennie przyjetych (rzut odzewu)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

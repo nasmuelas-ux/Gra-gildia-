@@ -4120,9 +4120,9 @@
    "co": "OBSYDIAN NA MUR - trzy skrzynie ze skladu Domu w Bialym Porcie (dar Stannisa), wozem Korony przez Winterfell (Luwin wazy drugi raz) do Czarnego Zamku; odbiera Osric, kwit wagowy dla Strazy. Przewoz Kasa 3.",
    "kto": "HAL (wydanie) -> woz Korony -> OSRIC",
    "kanal": "kruk Winterfell-Bialy Port (rozkaz 04-22) + woz Bialy Port-Czarny Zamek (~26 dni)",
-   "wraca": "300-05-20",
+   "wraca": "300-05-21",
    "zamyka": "kwit wagowy z Czarnego Zamku",
-   "status": "otwarte ### 05-18: NIE PRZYSZLO I WIADOMO DLACZEGO - woz na Murze ~dzis; kwit krukiem od Osrica ~05-20."
+   "status": "otwarte ### 05-18: NIE PRZYSZLO I WIADOMO DLACZEGO - woz na Murze ~dzis; kwit krukiem od Osrica ~05-20. ### 05-20: nawalnica - kruki stoja; ~05-21."
   },
   {
    "data": "300-04-21",
@@ -4336,9 +4336,9 @@
    "co": "DRUKARNIA NA FOSIE - ETAP I (drzeworyt): izba warsztatu (Garrick), rzezbiarz spod grobli (klocki), prasa srubowa wg rysunku czeladnika Wata (ciesle Fosy), farba (sadza torfowa + olej lniany), papier Wata. Pierwsze produkty: TABLICA KURSU I MIAR KORONY, KALENDARZ 301. Placi Dom.",
    "kto": "GARRICK (miejsce, ludzie) + WAT (prasa, papier, farba)",
    "kanal": "kruk Winterfell-Fosa + kruk Winterfell-Bialy Port (04-26); czeladnik Wata jezdziec BP-Fosa",
-   "wraca": "300-05-20",
+   "wraca": "300-05-22",
    "zamyka": "PIERWSZA ODBITKA tablicy na stole (rzut przy odbitce)",
-   "status": "otwarte"
+   "status": "otwarte ### 05-20: odbitka na Fosie; wiesc krukiem ~05-22 (nawalnica 05-20)."
   },
   {
    "data": "300-04-25",
@@ -4552,9 +4552,9 @@
    "co": "ODPOWIEDZ KROLA STANNISOWI (podpisana): data przyjeta; dzieki za koniec zakupow; obsydian na Mur - przyjmie Hallis; Hallis z oddzialem na Murze - mozna sie zwracac, bez ograniczen, zwiad Polnocy, nie wrog; Mur karmiony; Korona bez glosu w wyborze Lorda Dowodcy.",
    "kto": "KROL -> STANNIS (przez Davosa)",
    "kanal": "kruk Winterfell-Bialy Port (04-29) + Davos",
-   "wraca": "300-05-20",
+   "wraca": "300-05-21",
    "zamyka": "odpowiedz Stannisa/Davosa albo cisza (cisza tez jest odpowiedzia)",
-   "status": "otwarte"
+   "status": "otwarte ### 05-20: nawalnica - nic nie przylatuje; ~05-21."
   },
   {
    "data": "300-04-28",
@@ -4617,7 +4617,7 @@
    "kanal": "w domenie",
    "wraca": "300-05-20",
    "zamyka": "mapa znalezisk domeny (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-20 - rzut 49: mapa skromna - zelazo (Czerwony Strumien, Dolny Bor), glina czerwona ponizej Zimowego Miasta, granit (stary lom Winterfell), siarka - slady przy goracych zrodlach; miedzi, olowiu, soli - nie znaleziono."
   },
   {
    "data": "300-04-29",
@@ -4903,9 +4903,9 @@
    "co": "MIRA Z LYRA I RHONA - DROGA Z BIALEGO PORTU DO WINTERFELL (kareta Hala), wyjazd ~05-08.",
    "kto": "MIRA",
    "kanal": "trakt Bialy Port-Winterfell",
-   "wraca": "300-05-20",
+   "wraca": "300-05-21",
    "zamyka": "Mira w Winterfell",
-   "status": "otwarte"
+   "status": "otwarte ### 05-20: nawalnica - kareta w zajezdzie na trakcie; ~05-21."
   },
   {
    "data": "300-05-04",
@@ -5245,9 +5245,9 @@
    "co": "RUDA W WILCZYM LESIE - PIERWSZA EKIPA WYCHODZI do Czerwonego Strumienia: Grim (prowadzi), Hobb Rdza, Tobbas, czlowiek kasztelana + nabrani z okolicy; dachy, wegiel ze Smolnej Polany, odkopanie dwoch starych dymarek w Dolnym Borze. Dwaj ludzie Dreadfortu dolaczaja ~05-25; z Harrenhalu dymarze i gornik ~VII. Wlasni ludzie Korony - bez rzutu; rzut na pierwszy wytop.",
    "kto": "GRIM",
    "kanal": "Winterfell -> Wilczy Las (Czerwony Strumien)",
-   "wraca": "300-05-20",
+   "wraca": "300-05-21",
    "zamyka": "ekipa na miejscu, pierwsza dymarka odkopana",
-   "status": "otwarte"
+   "status": "otwarte ### 05-20: nawalnica - wyjscie 05-21 (13 ludzi, trzy dymarki)."
   },
   {
    "data": "300-05-13",
@@ -5434,9 +5434,9 @@
    "co": "ROZKAZ PANA 05-16 - OSIEM BUDOW (decyzja gracza, wlasni ludzie - bez rzutu na wykonanie; zasada 12 - obsade wskazuje Garrick). (1) ZAMEK: ODBUDOWAC WIEZE i podnosic je docelowo do pelnej wysokosci (z 20 stoja 3; wiez nie rozbiera sie na kamien - Orbelo). (2) MUR KURTYNOWY MIEDZY WIEZAMI (czarny bazalt, darn i mech - projekt Cailin). (3) KWATERY, STAJNIE, ZBROJOWNIA lenna (pod 200 stalych, rezerwe i 700 kompletow - rozkaz 05-14). (4) CAILIN ETAP III: BRUK (plyty bazaltu), MURY, LATARNIE (pomaranczowe szklo w czarnych ramach) - zasada finansowania: MUR placi lenno; BRUK i LATARNIE to 'wierzch' - miasto, a lenno doklada tyle, ile miasto zbierze -> Herwin i lawa uchwalaja swoj udzial (LORD NADAJE, MIASTO SADZI). (5) POMARANCZOWY DWOR - siedziba Domu Tally w Miescie Gornym (projekt Cailin): bazalt na dole, rudy piaskowiec i modrzew wyzej, Wielka Oranzeria polaczona ze szklarniami, Brama Goscinnosci; ZASTRZEZENIE OGNIOWE z projektu obowiazuje (piec pod podloga, kominy w bazalcie, zero otwartego ognia w Oranzerii, Archiwum NIE w tym budynku). Kasa 1 (Dom). (6) SZKLARNIE - ROZBUDOWA (Dzielnica Zielona: bazaltowe ramy, szklo zielonkawe - z Myr przez Neste/Pentos albo wlasne z surowcow bagiennych; piece torfowe pod spodem). ODPOWIEDZ GARRICKA Z WARRYNEM (jedna karta rak, Melli rejestr): mistrz robot zamku (nazwisko), KOLEJKA KAMIENIA I RAK (te same rece i ten sam kamien bior: grobla, przewloka, Goracy Port, baszta Przystani Wilka, Glebokorzen - a teraz szesc nowych), koszt etapami z ksiegi (Kasa 1/2 - zasada 43), harmonogram wlasny kazdego urzedu z datami; Herwin - udzial miasta. ### DOPISANE W TYM SAMYM LISCIE: (7) SPICHLERZ W KAZDEJ WSI LENNA - murowany nowy albo umocnienie istniejacego, JAKO DAR PANA (lenno placi; wies trzyma; zasady Etapu 0: ksiega z imieniem i liczba workow, zarzadca, ktory sam nie handluje, prawo pisemnej odmowy). (8) TRZY WIELKIE SPICHLERZE LENNA, rozlozone strategicznie (miejsca proponuje WARRYN z ORLANDEM - przy drogach, wodzie i bramie; pan zatwierdza). CEL: szybsza realizacja karty zimy (karta zywnosciowa Orlanda i Warryna - dni chleba na gebe). ⚠ Spichlerz trzeba czyms napelnic: bagno nie rodzi chleba (zboze z importu - Tallhart, Reach, Biały Port). ### DOPISEK PANA: 'PIENIADZE NIE GRAJA ROLI' - pieniadz nie hamuje zadnej z osmiu budow; Garrick, Warryn i Hal wydaja bez pytania o kazda pozycje (zgoda z gory, zasada 42 - meldunek po fakcie). Stale zasady, ktorych dopisek nie zmienia (gracz nie uchylil): BUFOR HALA 1000 w Kasie 1 nietykalny; kwoty z ksiag, nie z glowy (zasada 43). Realne hamulce zostaja: kamien, rece, pora roku, szklo z Myr.",
    "kto": "GARRICK + WARRYN (+ Herwin i lawa; Hal - Kasa 1)",
    "kanal": "kruk Winterfell-Fosa (05-16)",
-   "wraca": "300-05-20",
+   "wraca": "300-05-21",
    "zamyka": "obsada, kolejka kamienia i rak, koszt etapami, harmonogramy z datami; uchwala lawy o udziale miasta",
-   "status": "otwarte"
+   "status": "otwarte ### 05-20: odpowiedz (pisana 05-18) - kruk utknal w nawalnicy; ~05-21."
   },
   {
    "data": "300-05-16",
@@ -5622,8 +5622,8 @@
    "data": "300-05-19",
    "co": "HAL - RAPORT ANALITYCZNY: ZLOTO LANNISTEROW W OCZACH RYNKU (z placowek: Braavos, Pentos, Seagard, Rozdroze, Reach od VI) - jak kupcy przyjmuja zloto i weksle Lwa, kredyt Lannisportu, czym placi Twierdza, co mowia nabrzeza o kopalniach Zachodu. Fakty i zrodla, bez dokladnych liczb; czego nie wie - pisze, ze nie wie. Wlasny czlowiek - bez rzutu. ### 05-19 POPRAWKA PANA: osobno, nie z bilansem - zestawienie z DOTYCHCZASOWYCH sygnalow rynkowych, bez nowego zbierania.",
    "kto": "HAL (Bialy Port)",
-   "kanal": "kruk Winterfell-Bialy Port (05-20) i z powrotem",
-   "wraca": "300-05-26",
+   "kanal": "kruk Winterfell-Bialy Port (05-21 - nawalnica 05-20) i z powrotem",
+   "wraca": "300-05-27",
    "zamyka": "raport na pismie",
    "status": "otwarte"
   },
@@ -5641,7 +5641,7 @@
    "co": "NESTA - POSREDNIK Z MYR: od 299-12-31 (zlecenie Willa + Nesta) w ksiedze nic; co ustalila, kto za nim stoi albo czego nie wiadomo; czy dalej pyta o porty i zboze. Wlasny czlowiek; wynik ustalenia - RZUT przy meldunku.",
    "kto": "SYMON -> NESTA (Braavos)",
    "kanal": "kruk Winterfell-Bialy Port (05-20) + morze Bialy Port-Braavos i z powrotem (~48 dni)",
-   "wraca": "300-07-06",
+   "wraca": "300-07-07",
    "zamyka": "meldunek Nesty",
    "status": "otwarte"
   },
@@ -5667,8 +5667,8 @@
    "data": "300-05-19",
    "co": "LATARNIA PIORA I PLOMIENIA (projekt_cailin.md) - DO RACHUNKU I KOLEJKI: Garrick + Warryn wliczaja budynek w koszt etapami i kolejke kamienia/rak obok osmiu budow (etap III/IV); WEYLIN - spad dla kola wodnego papierni przy Wielkiej Sluzie. Rozstrzygniecia: pale olcha, odlewnia w Dzielnicy Zielonej, poziom 3 - biblioteka robocza. Wlasni ludzie - bez rzutu. ### 05-19 DOPISANE: BAGIENNE OGRODY (arboretum, szklarnie, apteka, lecznica) - ten sam rachunek i kolejka: Park i Arboretum w Miescie Gornym, Apteka/Lecznica/Latarnia Ziol w Dzielnicy Zielonej; szklarnie etap IV, lecznica wczesniej w izbach tymczasowych; WEYLIN - siec pary i cieplej wody (szklarnie, Sadzawka, kapielisko).",
    "kto": "GARRICK + WARRYN / WEYLIN",
-   "kanal": "kruk Winterfell-Fosa (05-20) i z powrotem",
-   "wraca": "300-05-24",
+   "kanal": "kruk Winterfell-Fosa (05-21 - nawalnica 05-20) i z powrotem",
+   "wraca": "300-05-25",
    "zamyka": "Latarnia i Bagienne Ogrody w kolejce z miejscem i kosztem etapami; rachunki Weylina (spad kola, siec pary)",
    "status": "otwarte"
   },
@@ -5677,7 +5677,7 @@
    "co": "HAL - SZKLO Z MYR: wycena i czas dostawy szkla do szklarni (Bagienne Ogrody, Dzielnica Zielona) - bez zamowienia; zamowienie po rachunku. Kwoty z jego slowa, nie z glowy (zasada 43). Wlasny czlowiek - bez rzutu; cena i termin Myrijczykow - z ich slowa przy odpowiedzi.",
    "kto": "HAL",
    "kanal": "kruk Winterfell-Bialy Port (05-20) i z powrotem; Hal pyta przez korespondentow",
-   "wraca": "300-05-26",
+   "wraca": "300-05-27",
    "zamyka": "wycena i czas dostawy na pismie (albo nazwane, czego jeszcze nie wiadomo)",
    "status": "otwarte"
   },

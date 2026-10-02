@@ -5,7 +5,7 @@
   "dzien": 19,
   "era": "AC"
  },
- "pora": "popoludnie",
+ "pora": "wieczor",
  "sezon": "zima (300)",
  "pogoda": "RZUT 30 (300-05-19) - deszcz od switu, rowny, zimny, wiatr z zachodu; drogi rozmiekle.",
  "dzien_tygodnia_nr": 2,
@@ -141,7 +141,7 @@
  "lokacja": "BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-03-30.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "popoludnie",
+ "pora_dnia": "wieczor",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "BIALY PORT",
  "geografia_lod_porty_299_08": {
@@ -242,7 +242,7 @@
  "_dziennik_inbound_299_09_16": 3,
  "_dziennik_inbound_299_09_17": 2,
  "_dziennik_inbound_299_09_18": 1,
- "_dziennik_nota": 1222,
+ "_dziennik_nota": 1223,
  "rok": 300,
  "miesiac": 3,
  "_dziennik_termin_rickon_liczba_300_02_07": 1,

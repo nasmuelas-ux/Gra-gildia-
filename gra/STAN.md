@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**111 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- MIRA Z LYRA I RHONA - DROGA Z BIALEGO PORTU DO WINTERFELL (kareta Hala), wyjazd ~05-08. · _kanal:_ trakt Bialy Port-Winterfell
+**110 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -390,7 +387,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-03** — ODPOWIEDZ DO MAEGE MORMONT (slowo Krola): lodzie i zalogi STOJA W GOTOWOSCI; najpierw idzie POSEL RANGI LORDA do Mance'a (nazwisko do uczty 05-10); przewoz ruszy po jego slowie. Lady Maege i tak jedzie na ucztę (lodzia przez Zatoke Lodu na lad pod Deepwood, dalej konno przez Wilczy Las) - dalsze ustalenia przy stole. · _kto:_ **KROL/SYMON -> MAEGE (Wyspa Niedzwiedzia)** · _zamyka:_ list doreczony (jesli Maege juz w drodze - czeka na wyspie; rozmowa na uczcie) **⚠ ZAMKNIETE 300-05-07 - LIST DORECZONY NA WYSPE NIEDZWIEDZIA (PTAK 05-04 W POLUDNIE, 3 DNI); MAEGE I TAK W DRODZE NA UCZTĘ (LODZIA PRZEZ ZATOKE LODU, DALEJ KONNO PRZEZ WILCZY LAS) - DALSZE USTALENIA PRZY STOLE.**
 - **300-05-03** — DO OSRICA I HALLISA (Czarny Zamek): od trzech dzikich przy Murze (MIEJSCE, WARUNEK I IMIE z 03-17) - ustalic PRZEWODNIKA i TRASE dla posla Krola rangi lorda z lekkim orszakiem (do Mance'a, nie do walki; wycofanie szybkie). Osric przekazuje to Hallisowi przy zmianie (~05-10). Bez imion na pismie; odpowiedz 'o tym, o co pytano'. · _kto:_ **SYMON -> OSRIC + HALLIS** · _zamyka:_ meldunek: jest przewodnik / trasa / czego trzej sie boja **⚠ ZAMKNIETE 300-05-11 (OSRIC, RZUT 85; HALLIS JESZCZE W DRODZE): Z TRZECH DZIKICH PRZY MURZE ZOSTALO DWOCH (TRZECI - DRUGI POSEL, NIE WROCIL). JEDEN ZGADZA SIE PROWADZIC - STARSZY, IMIE 'O TYM, O KOGO PYTANO' (BEZ IMION NA PISMIE); WARUNEK: JEGO RODZINA NA WOLNIZNIE DOSTAJE MIEJSCE OD DNIA WYJSCIA (WZOR Z MARCA). I WIECEJ: ON ZNA STARA MOWE I TROCHE WSPOLNEJ - 'BEDZIE I DROGA, I JEZYKIEM'. TRASA: OD CZARNEGO ZAMKU NA POLNOCNY ZACHOD, PRZEZ NAWIEDZONY LAS DO MLECZNEJ WODY I W GORE RZEKI; LUD MANCE'A - WEDLUG NIEGO - ZSZEDL JUZ Z MROZNYCH KLOW W DOLNY BIEG MLECZNEJ, 'DWA, TRZY TYGODNIE PIECHOTA OD MURU'. CZEGO SIE BOJA: LIST I CHORAGWI (JAK MOWILA OSHA).**
 - **300-05-04** — HOBB RDZA (ruda darniowa, Fosa) + TOBBAS (gornik ze sztolni Burleyow, rejestr Melli) - przyjazd do Winterfell, dolaczaja do GRIMA OD DYMARKI (po jego meldunku z Wilczego Lasu ~05-10) - gory/klany. · _kto:_ **GARRICK -> WINTERFELL** · _zamyka:_ obaj w Winterfell, przydzieleni do Grima **⚠ ZAMKNIETE 300-05-11 - HOBB RDZA I TOBBAS W WINTERFELL (WIECZOREM 05-10, BEZ RZUTU - WLASNI); GRIM WROCIL Z WILCZEGO LASU. TROJKA RAZEM.**
-- **300-05-04** — MIRA Z LYRA I RHONA - DROGA Z BIALEGO PORTU DO WINTERFELL (kareta Hala), wyjazd ~05-08. · _kto:_ **MIRA** · _zamyka:_ Mira w Winterfell **⚠ OTWARTE ### 05-20: NAWALNICA - KARETA W ZAJEZDZIE NA TRAKCIE; ~05-21.**
+- **300-05-04** — MIRA Z LYRA I RHONA - DROGA Z BIALEGO PORTU DO WINTERFELL (kareta Hala), wyjazd ~05-08. · _kto:_ **MIRA** · _zamyka:_ Mira w Winterfell **⚠ ZAMKNIETE 300-05-21 - MIRA, LYRA I RHONA W WINTERFELL (POPOLUDNIE); KOMNATY W WIEZY STRAZNICZEJ**
 - **300-05-04** — LIST DO MIRY - ZAMOWIENIE KROLOWEJ ROSLIN: suknia na lato, 'ktorej nikt wczesniej nie nosil'; placi szkatula krolowej (nie Korona); miare Mira bierze w Winterfell po przyjezdzie (~05-20); kolor z Sansa ('nie szary'). Symon zapowiedzial, ze napisze - NIE NAPISANY. Okno: kruk do BP 2 dni, Mira wyjezdza ~05-08 - list z poczty 05-05 zdazy. · _kto:_ **SYMON -> MIRA** · _zamyka:_ list wyslany przed wyjazdem Miry albo sprawa ustnie po jej przyjezdzie **⚠ ZAMKNIETE 300-05-07 - LIST U MIRY W BIALYM PORCIE PRZED JEJ WYJAZDEM (~05-08). ODPOWIEDZ - USTNIE PO PRZYJEZDZIE (~05-20).**
 - **300-05-05** — JOJEN I MEERA REED - droga z Szarych Wod do Winterfell (od Reeda, rzut 93). Wyjda, gdy woda opadnie (~05-15/20); przez Fose (Garrick daje konie/eskorte, jesli zechca); w Winterfell ~05-30..06-05. Do tego czasu: Bran - napar, jesli boi sie spadania (slowo Reeda: 'do przyjazdu mego syna, nie dluzej'). Krol - wie, ze goscie od Reeda (dzieci przyjaciela ojca); TRESC o snach - tajemnica Brana. · _kto:_ **HOWLAND REED -> WINTERFELL** · _zamyka:_ Jojen i Meera w Winterfell
 - **300-05-05** — ROZMOWA Z OSHA O INNYCH - na prosbe Symona; ona: 'wieczorem, jak kucharz pusci, przy ogniu, nie w solarze'. Dzien nie ustalony. · _kto:_ **SYMON + OSHA** · _zamyka:_ rozmowa odbyta **⚠ ZAMKNIETE 300-05-05 - ROZMOWA W STAREJ KUCHNI: UMARLI (21), SKAD JEST (42), SPIEWACY (73), WLOCZNICZKA (53), JEZYKI, OSIADANIE, PRZYSIEGA, THENNOWIE. OSHA ZGODZI SIE MOWIC Z BRANEM - JESLI ON ZECHCE, W DZIEN, PRZY KIMS.**
@@ -674,7 +671,7 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-05-21 poludnie · zima (300)
+- **Data:** 300-05-21 popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
 - **Zdrowie 100 · Sytosc 100 · Zmeczenie 48**
@@ -1444,8 +1441,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-21] `robb_stark`: 300-05-21 SOLAR KROLA (cd.) - ⚑ SYMON: STARKPORT RYSUJE WEYLIN; NAJPIERW POMIAR ZATOKI I WODY. Bez rzutu (wlasny czlowiek; szczegol sprawy z rzutu 73). KROL: 'Ten od wody z przewloki. Dobrze…
-- [300-05-21] `dziennik`: 300-05-21 SOLAR KROLA (po naradzie) - SYMON ZATRZYMUJE KROLA: WIZJA STARKPORTU NA PRZYSZLOSC - najwiekszy port Korony, spienieza caly zachod; (1) trakty do wszystkich lenn zachodu; (2) port …
 - [300-05-21] `robb_stark`: 300-05-21 SOLAR KROLA (po naradzie) - SYMON ZATRZYMUJE KROLA: WIZJA STARKPORTU NA PRZYSZLOSC - najwiekszy port Korony, spienieza caly zachod; (1) trakty do wszystkich lenn zachodu; (2) port …
 - [300-05-21] `dziennik`: 300-05-21 SOLAR KROLA (cd.) - ⚑ SYMON: NAJPIERW TRAKT DO DEEPWOOD I PRZYSTAN, POTEM STOCZNIE - ROZPISAC. O WYMANIE: zachodni port nie jest konkurencja dla Bialego Portu; na zachodzie beda tr…
 - [300-05-21] `robb_stark`: 300-05-21 SOLAR KROLA (cd.) - ⚑ SYMON: NAJPIERW TRAKT DO DEEPWOOD I PRZYSTAN, POTEM STOCZNIE - ROZPISAC. O WYMANIE: zachodni port nie jest konkurencja dla Bialego Portu; na zachodzie beda tr…
@@ -1456,3 +1451,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-21] `dziennik`: 300-05-21 POLUDNIE, DZIEDZINIEC CWICZEBNY - TRENING U MISTRZA Z BRAAVOS. Bez rzutu (wlasny czlowiek Korony). Po nawalnicy: kaluze, bloto po kostki przy studni, niebo zaciagniete, wiatr slabn…
 - [300-05-21] `dziennik`: 300-05-21 OBIAD, WIELKA SALA - chmury sie przecieraja, pierwsze slonce od dwoch dni na posadzce. Gulasz z wolowiny z rzepa, chleb, ser, piwo; dla dzieci kompot z suszonych jablek. Bez rzutow…
 - [300-05-21] `BRAN`: 300-05-21 OBIAD - Ellard pozycza Branowi druga czesc Dziejow Pierwszych Ludzi ('Prosze uwazac na grzbiet. Jest stary.'). Bran o windzie opowiada Sansie trzeci raz.
+- [300-05-21] `dziennik`: 300-05-21 POPOLUDNIE, BRAMA WINTERFELL - MIRA PRZYJEZDZA. Bez rzutu (rodzina). Slonce przez rozdarte chmury; trakt blotnisty, kareta Hala (czworka kasztanow) ochlapana po drzwi; obok jezdni …
+- [300-05-21] `rodzina/MIRA`: 300-05-21 POPOLUDNIE, BRAMA WINTERFELL - MIRA PRZYJEZDZA. Bez rzutu (rodzina). Slonce przez rozdarte chmury; trakt blotnisty, kareta Hala (czworka kasztanow) ochlapana po drzwi; obok jezdni …

@@ -5410,6 +5410,15 @@
    "wraca": "300-05-20",
    "zamyka": "decyzja albo zostaje jak jest",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-16",
+   "co": "ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'). Kolejnosc: mur od strony morza i wieza z ogniem (punkt lancucha, karta ognia) PRZED ludzmi Hendry'ego (100 - wchodza, gdy mur stoi; rada Krola 05-14); kamien z wlasnego lomu (Harlon). Nic poza tym na teraz (zadnych skladow i targu). Wlasni ludzie - bez rzutu. NAZEWNICTWO: Goracy Port = ZACHOD (ujscie Goraczki, Zatoka Plonacej Wody); PORT WSCHODNI = Ujscie Tally-Manderly na koncu przewloki (wschod); STARKPORT = port Korony na Kamienistym Brzegu.",
+   "kto": "HARLON Z BRODU (+ Garrick, Hendry)",
+   "kanal": "kruk Winterfell-Fosa (05-16) + robota na miejscu",
+   "wraca": "300-06-15",
+   "zamyka": "mur od morza i wieza stoja; Hendry moze wprowadzic ludzi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

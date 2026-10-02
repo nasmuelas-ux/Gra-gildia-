@@ -5796,7 +5796,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-22",
    "zamyka": "pismo opieczetowane przez Krola + lista domow",
-   "status": "GOTOWE 300-05-22 - pismo + lista na stole Symona; czeka na przedlozenie Krolowi (pieczec)"
+   "status": "ZAMKNIETE 300-05-22 - pismo pod pieczecia Krola; odpisy do domow z listy + Dreadfort i Bialy Port"
   },
   {
    "data": "300-05-20",
@@ -5967,6 +5967,15 @@
    "kanal": "kruk Winterfell-Fosa (05-22) + lodz/jezdziec na Palec + kruk z Fosy",
    "wraca": "300-05-28",
    "zamyka": "rachunek kamienia od Flinta (ile, czym, ktoredy) + zgoda Flinta (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-22",
+   "co": "PRAWO SOLARNI MORSKIEJ - ODPISY (pod pieczecia Krola 05-22) do: Mormont, Flint z Palca, Dustin, Karstark, Umber, Flint z Wdowiej Strazy, Locke + Dreadfort i Bialy Port ('zeby nikt nie mowil, ze pisalismy za ich plecami' - Krol). Bez odpowiedzi wymaganej; kazdy dom sam powie, czy ma solarnie i czy stawia.",
+   "kto": "TOBIN SZALA (odpisy) -> kruki",
+   "kanal": "kruki Winterfell-(Wyspa Niedzwiedzia, Palec przez Fose, Barrowton, Karhold, Ostatnie Domostwo, Wdowia Straz, Stary Zamek, Dreadfort, Bialy Port)",
+   "wraca": "300-05-23",
+   "zamyka": "odpisy wyslane",
    "status": "otwarte"
   }
  ],

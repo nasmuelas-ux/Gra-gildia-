@@ -4869,7 +4869,7 @@
    "kanal": "rozmowa w Winterfell; lordowie na uczcie 05-10",
    "wraca": "300-05-15",
    "zamyka": "nazwisko posla, sklad orszaku, data wyjscia",
-   "status": "otwarte - 05-10: posel DACEY MORMONT - zgoda Maege i Dacey (57); Umber eskorta (49); do ustalenia: data wyjazdu, slowa posla (+ 'bez klekania' - Krol jeszcze nie slyszal), ktos ze stara mowa."
+   "status": "ZAMKNIETE 300-05-15 - POSELSTWO WYJECHALO: Dacey Mormont + dwoje z Wyspy; eskorta Wielkiego Jona z ludzmi Umberow do Muru; Osha do Muru (bez imienia na liscie). Lady Maege - do domu (z karta ognia). Ser Perwyn - na poludnie traktem przez Fose."
   },
   {
    "data": "300-05-03",
@@ -5364,7 +5364,7 @@
    "kanal": "Winterfell - dziedziniec, Brama",
    "wraca": "300-05-15",
    "zamyka": "wyjechali",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-15 - POSELSTWO WYJECHALO: Dacey Mormont + dwoje z Wyspy; eskorta Wielkiego Jona z ludzmi Umberow do Muru; Osha do Muru (bez imienia na liscie). Lady Maege - do domu (z karta ognia). Ser Perwyn - na poludnie traktem przez Fose."
   },
   {
    "data": "300-05-14",
@@ -5373,6 +5373,24 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski) - wylot 05-15 rano",
    "wraca": "300-05-26",
    "zamyka": "mapa lojalnosci Dorzecza od Riverrun (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-15",
+   "co": "POSELSTWO NA CZARNYM ZAMKU (Winterfell -> Mur ~12-14 dni): Osha wybiera przewodnika sposrod dwoch dzikich (starszy zna stara mowe - Osric 85); rodzina przewodnika na wolnizne; Wielki Jon zostaje 'ani kroku dalej'; posel pyta o Jona USTNIE. Wiesc kruk Czarny Zamek-Winterfell (Osric/Clydas).",
+   "kto": "DACEY / WIELKI JON / OSHA / OSRIC",
+   "kanal": "kruk Czarny Zamek-Winterfell",
+   "wraca": "300-05-29",
+   "zamyka": "poselstwo przeszlo za Mur z przewodnikiem (albo nie - i dlaczego)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-15",
+   "co": "POSELSTWO U MANCE'A (E): Nawiedzony Las -> dolny bieg Mlecznej Wody, 2-3 tygodnie od Muru; slowa Krola (Cypel, bez klekania, przysiega przy drzewie, przy Innych z Polnoca, bez najazdow, kto nie przysiegnie nie siada). RZUT na przyjecie przy spotkaniu. Wiesc - gdy Dacey wroci do Muru albo przysle znak.",
+   "kto": "DACEY MORMONT",
+   "kanal": "za Murem - brak kanalu; wiesc przez Mur",
+   "wraca": "300-06-20",
+   "zamyka": "odpowiedz Mance'a (rzut) albo wiesc o Dacey",
    "status": "otwarte"
   }
  ],

@@ -5647,10 +5647,10 @@
   },
   {
    "data": "300-05-19",
-   "co": "OCHMISTRZ WYCHOWANKOW WINTERFELL - KANDYDACI: Gawen podaje 2-3 imiona metoda 'wsrod odstawionych' wg profilu (nakarmil i polozyl spac wielu obcych naraz i umial powiedziec ilu; nie Tally, nie Stark, taki, ktoremu da sie powiedziec). Symon wybiera, Krol zatwierdza; zgoda kandydata - RZUT. ### POPRAWKA 05-19: w domu jest 33 dzieci (31 z 26 domow od III + Walder + Ellard) - dom prowadza doraznie Luwin, Niania, ser Rodrik.",
+   "co": "OCHMISTRZ WYCHOWANKOW WINTERFELL - KANDYDACI: Gawen podaje 2-3 imiona metoda 'wsrod odstawionych' wg profilu (nakarmil i polozyl spac wielu obcych naraz i umial powiedziec ilu; nie Tally, nie Stark, taki, ktoremu da sie powiedziec). Symon wybiera, Krol zatwierdza; zgoda kandydata - RZUT. ### POPRAWKA 05-19: w domu jest 33 dzieci (31 z 26 domow od III + Walder + Ellard) - dom prowadza doraznie Luwin, Niania, ser Rodrik. ### 05-23 (rada Miry, slowo pana): PROBA PRZY OBIEDZIE 05-24 - Helga i Bennet przy stole wychowankow, bez mowienia po co; potem wybor (albo oboje: Helga - dom, Bennet - kuchnia domu) -> Krol -> zgoda (rzut).",
    "kto": "GAWEN -> SYMON -> KROL",
    "kanal": "Winterfell",
-   "wraca": "300-05-22",
+   "wraca": "300-05-24",
    "zamyka": "lista kandydatow na stole",
    "status": "PRZYSZLO 300-05-22 - Gawen: Helga Szeroka, Bennet Piekarz; wybor Symona -> Krol -> zgoda (rzut)"
   },

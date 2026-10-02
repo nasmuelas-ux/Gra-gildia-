@@ -5734,6 +5734,24 @@
    "wraca": null,
    "zamyka": "rozkaz przekazany Hendry'emu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-20",
+   "co": "ROZKAZ PANA - ZABIERANIE ZELAZNYCH STATKOW WSTRZYMANE ('najpierw mur, potem statek'): do palisady i wiezy na Kamiennym Brzegu (E1 ~06-15) i muru od morza w Goracym Porcie. Gotowosc zostaje, odstraszanie ogniem bez zmian. Adresaci: Theon, Torren, Harl (Dustinport), Robett Glover. Wlasni ludzie - bez rzutu. Potwierdzenie odbioru.",
+   "kto": "SYMON -> THEON, TORREN, HARL, ROBETT",
+   "kanal": "kruk Winterfell-Fosa (05-21) + jezdziec Fosa-Dustinport (4 dni); kruk Winterfell-Deepwood (05-21)",
+   "wraca": "300-05-29",
+   "zamyka": "potwierdzenie odbioru z Dustinportu i Deepwood",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-20",
+   "co": "LIST DO WYMANA - PRZEWLOKA A REACH: Reach klientem, nie wspolnikiem; zasada Wymana (Cailin bez wschodniej wody) stoi; jedno zdanie do kontraktu z Olenna (tansze zboze zachodnim morzem + eskorta); o przewloce glosno dopiero po murze w Goracym Porcie. Prosba o jego zdanie, zanim cokolwiek pojdzie do Hala. Wola obca - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> WYMAN MANDERLY",
+   "kanal": "kruk Winterfell-Bialy Port (05-21) i z powrotem",
+   "wraca": "300-05-25",
+   "zamyka": "odpowiedz Wymana (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

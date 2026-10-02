@@ -3382,9 +3382,9 @@
    "co": "LUPACZ KAMIENIA I SYN - PODROZ PLACI DOM (kantor Nesty w Braavos). Potwierdzenie Nesty + KWIT ARMATORA (kwota do ksiegi dopiero z kwitu). Jada ze statkiem kadr; praca: Kamien i Budowa (Orbelo), Fosa.",
    "kto": "SYMON -> NESTA (Braavos)",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": "300-05-23",
+   "wraca": "300-06-15",
    "zamyka": "kwit armatora + data wyplyniecia",
-   "status": "otwarte"
+   "status": "W DRODZE 300-05-23 - wyplyneli z Braavos; kwit armatora z nimi; Bialy Port ~06-15 (E)"
   },
   {
    "data": "300-04-05",
@@ -5139,7 +5139,7 @@
    "kanal": "kruk Winterfell-Riverrun (05-12)",
    "wraca": "300-05-23",
    "zamyka": "zgoda ser Robina (rzut) + data wyjazdu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-23 (rzut 58) - zgoda ser Robina: pieciu (z Gendrym) + dwaj dymarze + gornik; wyjazd po ratyfikacji ~VII"
   },
   {
    "data": "300-05-11",
@@ -5571,7 +5571,7 @@
    "kanal": "kruk Winterfell-Fosa (05-19) i z powrotem",
    "wraca": "300-05-23",
    "zamyka": "lodz na wodzie: imiona, zmiany, od kiedy",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-23 - lodz na wodzie od 05-22: Hob Trzcina i Garet Sowa, zmiana co 5 dni"
   },
   {
    "data": "300-05-19",
@@ -5607,7 +5607,7 @@
    "kanal": "kruk Winterfell-Fosa (05-19) i z powrotem",
    "wraca": "300-05-23",
    "zamyka": "odpowiedz Willi: powod (03-03) + stan + PLAN usypiania w KP i doktryna odcinania",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-23 (rzut 80) - powod, stan (dwie rece uspione w KP), plan trzech uspionych do 07-01, doktryna przyjeta; posrednik z Myr placi przez dom szklarski Orrello"
   },
   {
    "data": "300-05-19",
@@ -5976,7 +5976,7 @@
    "kanal": "kruki Winterfell-(Wyspa Niedzwiedzia, Palec przez Fose, Barrowton, Karhold, Ostatnie Domostwo, Wdowia Straz, Stary Zamek, Dreadfort, Bialy Port)",
    "wraca": "300-05-23",
    "zamyka": "odpisy wyslane",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-23 - odpisy wyslane (9 domow)"
   },
   {
    "data": "300-05-22",
@@ -5989,12 +5989,12 @@
   },
   {
    "data": "300-05-22",
-   "co": "GARNIZON KAMIENNEGO BRZEGU 150 - ZOLD DO KONCA ROKU (Kasa 3): stawka ~3 smoki/mies. na czlowieka (z naboru 07-01), narastanie: 50 od ~05-28, +50 od 07-01, +50 od VIII. Suma i miesieczny koszt z ksiegi Gawena (zasada 43).",
+   "co": "GARNIZON KAMIENNEGO BRZEGU 150 - ZOLD DO KONCA ROKU (Kasa 3): stawka ~3 smoki/mies. na PIECDZIESIECIU (40 miedziakow dziennie na glowe), narastanie: 50 od ~05-28, +50 od 07-01, +50 od VIII. Suma i miesieczny koszt z ksiegi Gawena (zasada 43).",
    "kto": "GAWEN (Skarb)",
    "kanal": "Winterfell",
    "wraca": "300-05-23",
    "zamyka": "zold w ksiedze Skarbu: miesiecznie i do konca roku",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-23 - Gawen: ~53 smoki do konca roku; 9 smokow/mies. przy pelnych 150 (kurs 40 miedziakow/dzien)"
   },
   {
    "data": "300-05-22",
@@ -6039,6 +6039,24 @@
    "kanal": "trakt Winterfell-Fosa",
    "wraca": "300-07-15",
    "zamyka": "Mira na Fosie (data od Miry)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-23",
+   "co": "SZKLO Z MYR - OSTRZEZENIE WILLI: posrednik z Myr (pyta ile szkla kupuje Polnoc i ktoredy zboze z zewnatrz) placi przez DOM SZKLARSKI ORRELLO. Wycena szkla z Myr (Hal/Nesta, ~05-27) - NIE przez Orrello; Nesta ma wiedziec.",
+   "kto": "SYMON -> HAL + NESTA",
+   "kanal": "kruk Winterfell-Bialy Port (Hal) + list do Nesty",
+   "wraca": "300-05-27",
+   "zamyka": "wycena szkla sprawdzona: od kogo (nie Orrello)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-23",
+   "co": "KOWALE Z HARRENHALU - PRZYJAZD po ratyfikacji (~VII): pieciu (z Gendrym), dwaj dymarze, gornik; do zbrojowni Korony i rudy w Wilczym Lesie. Arya - wiedza tylko (obietnica).",
+   "kto": "SER ROBIN RYGER -> kolumna Dorzecza",
+   "kanal": "trakt Dorzecze-Fosa-Winterfell",
+   "wraca": "300-07-20",
+   "zamyka": "kowale w Winterfell",
    "status": "otwarte"
   }
  ],
@@ -6197,7 +6215,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-05-09",
+   "ostatnio_odebrane": "300-05-23",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

@@ -5850,7 +5850,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-24",
    "zamyka": "zrodlo ziarna, droga, data dostawy na brzeg",
-   "status": "otwarte"
+   "status": "PRZYSZLO 300-05-23 (karta Spichlerza) - propozycja: zboze z Barrowlandow od lady Dustin, morzem z Dustinportu kadlubami Torrena; 4 tygodnie (~76 korcy E); zakup - rzut; decyzja Symona"
   },
   {
    "data": "300-05-21",
@@ -6066,6 +6066,15 @@
    "kanal": "kruk Winterfell-Bialy Port i z powrotem",
    "wraca": "300-05-27",
    "zamyka": "data i statek",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-23",
+   "co": "ZIMOWE MIASTO - PRZEDNOWEK: kolumna biezaca krotko o ~2 tygodnie (E) do zniw. Orland: przerzut z komor albo pierwszy ladunek z Seagard; siewne i zapas nietykalne. Kolumna 'ludzie i wojsko' spozniona tydzien (pisarz skladu chory).",
+   "kto": "ORLAND KORZEC",
+   "kanal": "Winterfell",
+   "wraca": "300-06-06",
+   "zamyka": "luka zamknieta (przerzut albo Seagard) w nastepnej karcie",
    "status": "otwarte"
   }
  ],

@@ -592,3 +592,56 @@ Smukła wieża ponad ogrodem darniowym — **kuta, czerniona stal i grube szkło
 - **Odlewnia czcionek — w DZIELNICY ZIELONEJ**, za kanałem, z resztą ognia (zasada XI bez wyjątku). Czcionki przychodzą do drukarni łodzią. Poziom 1 zostaje: prasy, introligatornia, suszarnia — **bez pieców**.
 - **Poziom 3 — BIBLIOTEKA ROBOCZA**, nie Archiwum Domu. **Archiwum Domu stoi osobno**, jak w Części Trzeciej (najlepiej strzeżony budynek po bramie). Zastrzeżenie ogniowe poziomu 3 zostaje.
 - **Do przeliczenia i do kolejki:** budynek wchodzi do rachunku kosztów etapami i do kolejki kamienia i rąk (Garrick + Warryn, przy ośmiu budowach); **spad dla koła przy Wielkiej Śluzie — Weylin**.
+
+---
+
+# BAGIENNE OGRODY — ARBORETUM, SZKLARNIE, APTEKA I LECZNICA DOMU TALLY
+### dopisane 300-05-19 w Winterfell przez lorda Symona — projekt architektoniczno-krajobrazowy, podstawa do wykonania
+_Oficjalnie: **Arboretum, Szklarnie, Apteka i Lecznica Domu Tally**._
+
+**Lokalizacja:** Miasto Górne / Dzielnica Zielona, przylegające do Pomarańczowego Dworu · **Inwestor:** Dom Handlowy Tally (Kasa 1) · **Doktryna:** *„Poznasz ich po porządku, nie po blasku."* · **Zawołanie:** *„Płomień i pióro."*
+
+## I. Architektura i materiał
+Jeden kwartał: reprezentacja, ogród, apteka i lecznica. Zasada miasta: **kamień na dole, drewno u góry, zieleń na wierzchu**, na ruszcie z pali (olcha — jak w całym mieście) i bazaltu, uniesionym nad trzęsawiskiem.
+- **Ogrzewanie parą i torfem** — rury pod alejkami, salami chorych i rabatami, z miejskich pieców i własnej torfowni: suchość w budynkach, stały mikroklimat w szklarniach, ciepłe posadzki z grafitowego łupka; chodzi się boso albo w lekkim obuwiu, jak w Dworze.
+- **Szkło z Myr i ciemny modrzew** — pawilony i szklarnie na ramach z opalanego modrzewia, ze szkłem z Myr.
+- **Pomarańcz jako znak** — pomarańczowa Brama Parkowa i drzwi Lecznicy; miedziano-pomarańczowe latarnie na skrzyżowaniach alejek; ciepła, pomarańczowo podświetlona mgła nad grządkami.
+
+## II. Widok z Pomarańczowego Dworu
+Kompleks leży na osi widokowej **Wielkiej Oranżerii** — tam, gdzie lord przyjmuje gości. Z Oranżerii widać geometryczną panoramę parku i przeszklonych skrzydeł, spływającą ku kanałowi. Alejki, kwatery zielarskie i skrzydła Apteki i Lecznicy w surowym, symetrycznym porządku; w środku osi **Okrągła Sadzawka** z ciepłą wodą leczniczą i lekką miedzianą mgłą.
+
+## III. Pięć stref — od parku do lecznicy
+
+```text
+[ POMARAŃCZOWY DWÓR ] ---> (Wielka Oranżeria i taras)
+         ||
+  STREFA I    PARK DWORSKI (gaj, aleje)
+  STREFA II   ARBORETUM I OGRÓD BOTANICZNY (rzadkie gatunki)
+  STREFA III  SZKLARNIE NA SZKLE Z MYR (zioła, owoce)
+  STREFA IV   APTEKA I PRACOWNIA (destylacja ziół)
+  STREFA V    LECZNICA MIEJSKA I PRZYSTAŃ (sale chorych)
+```
+
+1. **Strefa I — Park Dworski (cisza i reprezentacja).** Tuż przy Dworze. Ciepłe aleje z szlifowanego grafitowego bazaltu, dojrzałe drzewa; w sercu kameralny gaj — do namysłu, rekonwalescencji i prywatnych narad lorda.
+2. **Strefa II — Arboretum i Ogród Botaniczny (nauka).** Rzadkie drzewa i krzewy z różnych stron świata, aklimatyzowane ciepłem spod ziemi. Opisane na miedzianych tabliczkach tłoczonym pismem — żywa encyklopedia dla aptekarzy, medyków i uczniów.
+3. **Strefa III — Szklarnie (płomień i ziemia).** Długie nawy szklane na bazaltowych cokołach. Cały rok: zioła lecznicze, owoce cytrusowe, rośliny barwierskie, rzadkie przyprawy; podłoże stale zasilane ciepłą wodą i parą.
+4. **Strefa IV — Apteka Domu Tally (pracownia i proszki).** Masywny bazalt z modrzewiem, połączony ze szklarniami. Przerób ziół, destylacja olejków, suszarnie parowe; leki, maści, opatrunki. **Kantor wydawania leków** dla mieszkańców lenna i do wysyłki handlowej.
+5. **Strefa V — Lecznica Miejska i Przystań (zdrowie).** Skrzydło z widokiem na Kanał Wielki i ogród, odgrodzone od miasta zielenią. Ciche, czyste sale chorych i rannych z ciepłymi posadzkami, izba zabiegowa, kąpielisko z ciepłą wodą. Przystań — chorzy i surowce wprost z łodzi.
+
+## IV. Latarnia Ziół i Ognia
+Na skraju ogrodów, przy kanale i wejściu do Lecznicy: niska, stabilna wieża ze stali i pomarańczowego witrażu, osłaniająca stale płonący piec torfowo-parowy. Światło rozchodzi się w parze ze szklarni i kąpieliska — **pomarańczowa łuna nad ogrodami**, widoczna z okien Dworu o zmierzchu.
+
+## V. Zasady
+1. **Obieg i rachunek** — szklarnie dają aptece, apteka lecznicy. Nadwyżki leków i ziół idą na sprzedaż; z tego opał i **darmowe leczenie mieszkańców lenna**.
+2. **Czystość** — ciągły przepływ gorącej pary i wrzątku: izby lecznicze i narzędzia wyparzane.
+3. **Strój** — medycy, aptekarze i ogrodnicy: surowe, ciemnografitowe kaftany z **pomarańczową lamówką przy kołnierzu** *(nowy wiersz zasady stroju — im wyższa ranga, tym mniej koloru)*.
+
+## VI. UWAGI WYKONAWCZE — zgodność z resztą projektu (do rozstrzygnięcia przez lorda)
+- **Pale** — w projekcie „dębowe"; obowiązuje **olcha** (rozstrzygnięcie lorda 300-05-19 przy Latarni Pióra) — wpisane.
+- **Sprzedaż przez Port Wschodni** — wg Części Czwartej III-a *Cailin nie ma wschodniej wody*: Port Wschodni/Ujście jest **dokiem, nie targiem** (umowa z Wymanem — „dok tylko podaje"). Nadwyżki leków sprzedaje się **w Białym Porcie** (albo na targu Miasta Dolnego, na ląd). Do rozstrzygnięcia: Biały Port czy targ Cailin.
+- **Ogień** — zasada XI: ogień warsztatowy wyłącznie w dzielnicy za kanałem. **Destylarnie i piec Latarni Ziół** to ogień stały — **Apteka (IV), Lecznica (V) i Latarnia Ziół stają po stronie Dzielnicy Zielonej**, za kanałem; Park (I) i Arboretum (II) mogą leżeć przy Dworze w Mieście Górnym. Kanał jest wtedy granicą kwartału, a most — jego osią.
+- **Gaj w Parku Dworskim** — czardrzewa nie sadzi się jak drzewa ogrodowego; Miasto Górne ma już **gaj z czardrzewem na placu** (Część Trzecia, V). Do rozstrzygnięcia: gaj dworski bez czardrzewa (zwykłe drzewa), czy młode czardrzewo — rzecz dla Reedów i starych bogów, nie dla ogrodnika.
+- **Szkło z Myr** — zamawia się przez morze **z wyprzedzeniem lat** (zapis 300-02-25); bez szkła szklarnie są bazaltowymi ramami. Zamówienie przez Nestę/Hala — pierwsza rzecz, jeśli ten kwartał ma kiedyś stanąć.
+- **Ludzie, którzy już są** — w lennie leczy **Nina, zielarka-medyczka włości** (z uczennicą); Dom ma spółkę **zielarnię** i **lecznicę** (rozliczenie Hala). Do Fosy płynie **maester Edmund — ziołolecznictwo, srebrne ogniwo** (~07-01). Kompleks jest domem dla tego, co już działa, nie nowym urzędem.
+- **Łaźnia** — Część Trzecia ma już **łaźnię miejską** ogrzewaną torfem; kąpielisko Lecznicy jest lecznicze, osobne.
+- **Kolejność** — Szklarnie są w **Etapie IV** miasta (co oddycha); Lecznica może ruszyć wcześniej w izbach tymczasowych.

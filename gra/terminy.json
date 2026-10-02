@@ -5602,7 +5602,7 @@
   },
   {
    "data": "300-05-19",
-   "co": "WILLA - CZEMU ZWINIETO POLUDNIE (pytanie Symona). Z zapisu: odstawienie rozkazem pana 300-03-03 po zwezeniu na Baelisha (r9, jedna reka milczy, firewall trzymal); kanal przejety (03-17) i grany swiadomie (03-19); trop zwiniety 04-28. Willa odpowiada: stan dzis - co zostalo z rak i z przejetego kanalu. ### DOPISANE 05-19: (a) USPIENI W MIESCIE KP wg rady Sansy (nie dwor; bez polnocnego akcentu; prawdziwy interes; tylko sluchanie, meldunek miesieczny); (b) DOKTRYNA: siatka poludniowa ROSNIE; przy wpadce odciac ogniwo, nie zatrzymywac calosci. Willa odpowiada planem.",
+   "co": "WILLA - CZEMU ZWINIETO POLUDNIE (pytanie Symona). Z zapisu: odstawienie rozkazem pana 300-03-03 po zwezeniu na Baelisha (r9, jedna reka milczy, firewall trzymal); kanal przejety (03-17) i grany swiadomie (03-19); trop zwiniety 04-28. Willa odpowiada: stan dzis - co zostalo z rak i z przejetego kanalu. ### DOPISANE 05-19: (a) USPIENI W MIESCIE KP wg rady Sansy (nie dwor; bez polnocnego akcentu; prawdziwy interes; tylko sluchanie, meldunek miesieczny); (b) DOKTRYNA: siatka poludniowa ROSNIE; przy wpadce odciac ogniwo, nie zatrzymywac calosci. Willa odpowiada planem. ### DOPISANE 05-19 (2): POSREDNIK Z MYR - co ustalono od 299-12-31 (rzut przy odpowiedzi).",
    "kto": "SYMON -> WILLA",
    "kanal": "kruk Winterfell-Fosa (05-19) i z powrotem",
    "wraca": "300-05-23",
@@ -5634,6 +5634,15 @@
    "kanal": "wlasna robota (Winterfell)",
    "wraca": "300-05-27",
    "zamyka": "mapa frakcji na karcie [5]",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-19",
+   "co": "NESTA - POSREDNIK Z MYR: od 299-12-31 (zlecenie Willa + Nesta) w ksiedze nic; co ustalila, kto za nim stoi albo czego nie wiadomo; czy dalej pyta o porty i zboze. Wlasny czlowiek; wynik ustalenia - RZUT przy meldunku.",
+   "kto": "SYMON -> NESTA (Braavos)",
+   "kanal": "kruk Winterfell-Bialy Port (05-20) + morze Bialy Port-Braavos i z powrotem (~48 dni)",
+   "wraca": "300-07-06",
+   "zamyka": "meldunek Nesty",
    "status": "otwarte"
   }
  ],
@@ -5832,6 +5841,18 @@
    "opoznienie": 0,
    "ostatnio_odebrane": "300-05-05",
    "zrodlo": "terminy (HAL - PELNE ROZLICZENIE)"
+  },
+  {
+   "id": "POLISA_ROCZNA",
+   "co": "HAL - LINIJKA W BILANSIE: czy ubezpieczyciele w Pentos i Braavos daja polise na rejsy do Bialego Portu na CALY ROK, czy nadal tylko na sezon (miernik wiary Wolnych Miast w przetrwanie Polnocy; Illyrio 299-12). Wola ubezpieczycieli - RZUT przy kazdym odczycie.",
+   "kto": "HAL",
+   "kanal": "kruk Bialy Port-Winterfell (z bilansem)",
+   "rytm": {
+    "dzien_miesiaca": 5
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-05-05",
+   "zrodlo": "rozkaz pana 300-05-19 (rada Sansy)"
   }
  ]
 }

@@ -5620,10 +5620,10 @@
   },
   {
    "data": "300-05-19",
-   "co": "HAL - RAPORT ANALITYCZNY: ZLOTO LANNISTEROW W OCZACH RYNKU (z placowek: Braavos, Pentos, Seagard, Rozdroze, Reach od VI) - jak kupcy przyjmuja zloto i weksle Lwa, kredyt Lannisportu, czym placi Twierdza, co mowia nabrzeza o kopalniach Zachodu. Fakty i zrodla, bez dokladnych liczb; czego nie wie - pisze, ze nie wie. Wlasny czlowiek - bez rzutu.",
+   "co": "HAL - RAPORT ANALITYCZNY: ZLOTO LANNISTEROW W OCZACH RYNKU (z placowek: Braavos, Pentos, Seagard, Rozdroze, Reach od VI) - jak kupcy przyjmuja zloto i weksle Lwa, kredyt Lannisportu, czym placi Twierdza, co mowia nabrzeza o kopalniach Zachodu. Fakty i zrodla, bez dokladnych liczb; czego nie wie - pisze, ze nie wie. Wlasny czlowiek - bez rzutu. ### 05-19 POPRAWKA PANA: osobno, nie z bilansem - zestawienie z DOTYCHCZASOWYCH sygnalow rynkowych, bez nowego zbierania.",
    "kto": "HAL (Bialy Port)",
-   "kanal": "kruk Winterfell-Bialy Port (05-20) + raport z bilansem czerwcowym",
-   "wraca": "300-06-08",
+   "kanal": "kruk Winterfell-Bialy Port (05-20) i z powrotem",
+   "wraca": "300-05-26",
    "zamyka": "raport na pismie",
    "status": "otwarte"
   }

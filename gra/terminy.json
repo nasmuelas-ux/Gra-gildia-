@@ -4048,9 +4048,9 @@
    "co": "POSAZEK PRZEDRZEZNIACZA DLA BAELISHA - Atelier Tally (Marro), srebro/stal; dopisek wylacznie 'Od Namiestnika Krola Polnocy'. Rozkaz do Hala 04-20 (u niego 04-22), robota ~5 dni, statek do Gulltown, korespondent Nesty do Orlego Gniazda.",
    "kto": "HAL + MARRO -> korespondent Gulltown -> ORLE GNIAZDO",
    "kanal": "paczka Bialy Port-Gulltown-Orle Gniazdo (~18 dni)",
-   "wraca": "300-05-17",
+   "wraca": "300-06-05",
    "zamyka": "dar doreczony (rzut na reakcje przy doreczeniu); odpowiedz, jesli przyjdzie, pozniej",
-   "status": "otwarte - W DRODZE (idzie samo, zasada 7): pogoda przytrzymala rozkaz tylko 04-20/21; do Hala wyszedl 04-22 (u niego 04-24); robota Marro ~5 dni; statek Bialy Port-Gulltown; Orle Gniazdo ~05-17. RZUT na reakcje przy doreczeniu."
+   "status": "w drodze/doreczony ~05-17 (E) - WIESC O DORECZENIU I REAKCJI: przez korespondenta Nesty w Gulltown -> statek -> Bialy Port -> kruk; realnie ~06-05. RZUT na reakcje - gdy wiesc przyjdzie (zasada 34: bez kanalu nie ma wiadomosci)."
   },
   {
    "data": "300-04-20",
@@ -4797,7 +4797,7 @@
    "kanal": "kruk Winterfell-Stare Miasto (Cytadela), wylot 05-01",
    "wraca": "300-05-17",
    "zamyka": "odpowiedz Cytadeli (rzut): kto, kiedy, na jakich warunkach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-17 (rzut 94): CYTADELA PRZYZNALA OBU - i WIECEJ. (1) MAESTER ORWYN (melioracja, wody i grunty; ogniwa zelazo i miedz) - 'prowadzil osuszanie mokradel nad Miodowinem'; (2) MAESTER EDMUND (ziololecznictwo, ogniwo srebrne - leczenie). Obaj plyna z Starego Miasta statkiem do Bialego Portu, w Fosie ~07-01 (E). DODATKOWO: odpis traktatu o osuszaniu mokradel Reach (dar biblioteki Cytadeli dla Fosy) i zgoda na czasowy pobyt Wystana na Murze 'do odwolania przez Lorda Dowodce'. Utrzymanie maesterow - Kasa 2 (zasada 43)."
   },
   {
    "data": "300-05-02",
@@ -5211,7 +5211,7 @@
    "kanal": "kruk Winterfell-Fosa (05-13 rano) i z powrotem",
    "wraca": "300-05-17",
    "zamyka": "imie czlowieka i dzien wyjscia z Fosy",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-17 (zbiorczy/kruk Garricka; wlasni ludzie - bez rzutu): IMIE - EDRIC SZUWAR, z Mchowych Jastrzebi (Kessel): urodzony pod grobla, matka z rodziny krannogow, trzyma starych bogow, tyczka i lodz od dziecka, malo mowi. Wyszedl z Fosy 05-16 na poludnie przez Przesmyk - do Lucana w Dorzeczu z listem Garricka (przykrywka: zbior do bibliotek o Dzieciach Lasu i Pakcie)."
   },
   {
    "data": "300-05-13",

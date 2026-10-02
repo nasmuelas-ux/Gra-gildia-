@@ -4783,10 +4783,10 @@
   },
   {
    "data": "300-05-01",
-   "co": "MAESTER WYSTAN DO CZARNEGO ZAMKU - w imieniu Namiestnika, pomoc maestrowi Aemonowi; statkiem z Bialego Portu na koszt Symona (Hal organizuje przejazd, koszt z ksiegi). Na Fosie lecznica - Nina i Gytha.",
+   "co": "MAESTER WYSTAN DO CZARNEGO ZAMKU - w imieniu Namiestnika, pomoc maestrowi Aemonowi; statkiem z Bialego Portu na koszt Symona (Hal organizuje przejazd, koszt z ksiegi). Na Fosie lecznica - Nina i Gytha. ### 05-23 PRZYSPIESZENIE: Wschodnia Straznica ma dac swiezego konia i dwoch zwiadowcow na nabrzezu - jazda wzdluz Muru 2-3 dni zamiast 4-5 (rzut przy wiesci - wola Strazy).",
    "kto": "SYMON -> WYSTAN; HAL (statek)",
    "kanal": "kruk Winterfell-Fosa i Winterfell-Bialy Port (05-01); trakt Fosa-BP, statek do Wschodniej Straznicy, Mur",
-   "wraca": "300-05-30",
+   "wraca": "300-05-28",
    "zamyka": "Wystan w Czarnym Zamku przy Aemonie (meldunek przez Hallisa/Clydasa)",
    "status": "otwarte"
   },
@@ -5922,7 +5922,7 @@
    "kanal": "kruk Winterfell-Bialy Port / Czarny Zamek",
    "wraca": "300-05-23",
    "zamyka": "odpowiedz Clydasowi + decyzja o drodze Wystana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-23 - Symon: przyspieszyc; kruk przez Clydasa do Wschodniej Straznicy (kon + dwoch zwiadowcow wzdluz Muru) + kruk do Hala o statku"
   },
   {
    "data": "300-05-22",
@@ -6057,6 +6057,15 @@
    "kanal": "trakt Dorzecze-Fosa-Winterfell",
    "wraca": "300-07-20",
    "zamyka": "kowale w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-23",
+   "co": "HAL - KIEDY I JAKIM STATKIEM WYPLYNAL MAESTER WYSTAN z Bialego Portu do Wschodniej Straznicy (przyspieszenie 05-23).",
+   "kto": "SYMON -> HAL",
+   "kanal": "kruk Winterfell-Bialy Port i z powrotem",
+   "wraca": "300-05-27",
+   "zamyka": "data i statek",
    "status": "otwarte"
   }
  ],

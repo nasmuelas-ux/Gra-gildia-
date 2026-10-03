@@ -6772,7 +6772,7 @@
   },
   {
    "data": "300-05-29",
-   "co": "PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). LYRA JEDZIE (z Rhona); list do Barbrey wyslany 05-29. Dwie noce w Barrow Hall; Garrick uprzedzony 05-29 (szkola Mabel, seminarium). OTWARTE: data wyjazdu. ### 05-30: ARYA JEDZIE (zgoda Catelyn 04-24 r85: z Namiestnikiem, max miesiac; powrot przed zawodami VII); miecz w juku (warunek Krola); dwoch ludzi Krola przy niej. ### 05-30: CALA PRZYBOCZNA 20 (Sten + Dagon); przy Aryi dwaj ludzie Krola (imiona - Krol/Rodrik). ### 05-30: Arya z wlasnymi gwardzistami Gwardii Krolewskiej; Wieza Straznicza pod straza zamkowa. ### 06-03: ARYA KONNO cala droge z Jorelle Mormont i Torvaldem Wullem (decyzja Symona).",
+   "co": "PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). LYRA JEDZIE (z Rhona); list do Barbrey wyslany 05-29. Dwie noce w Barrow Hall; Garrick uprzedzony 05-29 (szkola Mabel, seminarium). OTWARTE: data wyjazdu. ### 05-30: ARYA JEDZIE (zgoda Catelyn 04-24 r85: z Namiestnikiem, max miesiac; powrot przed zawodami VII); miecz w juku (warunek Krola); dwoch ludzi Krola przy niej. ### 05-30: CALA PRZYBOCZNA 20 (Sten + Dagon); przy Aryi dwaj ludzie Krola (imiona - Krol/Rodrik). ### 05-30: Arya z wlasnymi gwardzistami Gwardii Krolewskiej; Wieza Straznicza pod straza zamkowa. ### 06-03: ARYA KONNO cala droge z Jorelle Mormont i Torvaldem Wullem (decyzja Symona). ### 06-05: PREZENT - rekawice do jazdy od Miry przy powitaniu; KOPIEC WILLAMA - Symon osobno, wieczorem ('gdzie juz doszlismy'), nie jako prezent.",
    "kto": "SYMON + MIRA (Dagon)",
    "kanal": "trakt Winterfell-Barrowton-Fosa",
    "wraca": "300-06-08",
@@ -6948,6 +6948,15 @@
    "kanal": "kruki z wiezy Luwina; do Palca przez Fose + lodz",
    "wraca": "300-06-14",
    "zamyka": "odpowiedzi panow (rzut) + pierwsze imiona do wpinow z meldunku Robetta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-05",
+   "co": "RECKAWICE DO JAZDY DLA LADY BARBREY DUSTIN - prezent od Miry (pani domu pani domu): ciemna skora z Zimowego Miasta, srebrne wyszycie na mankiecie; szyja Tessa i Marga, haft Mira. Placi ksiega atelier. Bez rzutu (wlasne).",
+   "kto": "MIRA + TESSA + MARGA",
+   "kanal": "Winterfell",
+   "wraca": "300-06-07",
+   "zamyka": "rekawice gotowe przed wyjazdem na Barrow Hall",
    "status": "otwarte"
   }
  ],

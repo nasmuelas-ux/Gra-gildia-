@@ -797,7 +797,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-06-06 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 43**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 45**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1691,8 +1691,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-06] `rodzina/MIRA`: Wie od Symona: goscie to dzieci Howlanda Reeda, przyjaciele Brana. Nic wiecej (sny i napar - tajemnica).
-- [300-06-06] `dziennik`: 300-06-06 POLUDNIE, DZIEDZINIEC CWICZEBNY I KORYTO PRZY KUZNI (pochmurno, cieplo) - TRENING U MISTRZA Z BRAAVOS. Bez rzutu. Mistrz: 'Miedzy Winterfell a Barrowton sa brody. Na brodzie kazdy …
 - [300-06-06] `dziennik`: 300-06-06 OBIAD, WIELKA SALA - Symon z Mira; Lyra z Rhona i Kamykiem na gorze. Bez rzutow. Pochmurno, cieplo. Zupa grochowa z wedzonka, kaszanka z cebula, chleb Benneta, kiszone ogorki, piwo…
 - [300-06-06] `dziennik`: 300-06-06 POPOLUDNIE, BIBLIOTEKA WINTERFELL - SYMON ODWIEDZA WYCHOWANKA CERWYNA, ELLARDA (9 lat, w Winterfell od 05-19). Bez rzutu (wizyta, bez stawki). Godzina biblioteczna wg Luwina; Ellar…
 - [300-06-06] `ELLARD_CERWYN`: Wizyta Symona 06-06: pisze rowniej (Luwin), list do Jonelle wyslany koniec V, je pod okiem Helgi, noce spokojne. Pokazal w Dziejach Pierwszych Ludzi ustep o Krolach Kurhanow i Wielkim Kurhan…
@@ -1703,3 +1701,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-06] `howland_reed`: List przez Meere do Krola 06-06: pozdrowienia; dzieci zostaja w Winterfell 'jak dlugo ksiaze Brandon zechce'.
 - [300-06-06] `JOJEN_REED`: W Winterfell od 06-06. ~13 lat, blady, oczy zielone jak mech; je malo. Do Symona: 'Dziekuje za kopiec Willama. Ojciec mowil, ze wy zapytaliscie pierwsi od siedemnastu lat.'
 - [300-06-06] `MEERA_REED`: W Winterfell od 06-06. ~16 lat, trojzab i siec. Przy Mirze przy kolacji; droga: trzy dni na grobli pod Fosa, Garrick nakarmil.
+- [300-06-06] `dziennik`: 300-06-06 POZNY WIECZOR, IZBA BRANA - SYMON SAM (bez Miry). W izbie: Bran w lozku, Jojen na zydlu przy oknie, Meera na podlodze przy kominku z siecia na kolanach, Lato przy Branie, Hodor na …
+- [300-06-06] `starkowie/BRAN`: Wieczor: Jojen (rzut 24) - nie dzis, najpierw sam z Branem; 'On pije, zeby nie snic. A on musi snic.' Bran pyta Symona, czy pic napar dzis.

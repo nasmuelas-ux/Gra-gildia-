@@ -5164,9 +5164,9 @@
    "co": "KAMIEN Z PALCA FLINTA DLA FOSY (granit) + TRAN I SKORY FOK NA TARG W CAILIN - zgoda w zasadzie (Flint z Palca, 71). Droga: lodzie Flinta przez Zatoke Plonacej Wody do ujscia Goraczki (Goracy Port) -> barki Fosy w gore Goraczki do Cailin. Zaplata po cenie ze slupa, czesc w SOLI i ZBOZU. Warunek Flinta: ktos z Fosy (Orbelo / Vard Kilof?) przyjezdza na Palec obejrzec lom i powiedziec, jakie bloki. Ilosci i ceny - po obejrzeniu i ze slupa (zasada 43).",
    "kto": "SYMON -> GARRICK / ORBELO + FLINT Z PALCA",
    "kanal": "kruk Winterfell-Fosa + jezdziec/lodz na Palec",
-   "wraca": "300-06-07",
+   "wraca": "300-06-10",
    "zamyka": "lom obejrzany, pierwszy transport kamienia",
-   "status": "otwarte - 05-11: POLECENIE DO FOSY (Garrick wybiera czlowieka i decyduje) - kruk 05-12; czlowiek na Palcu ~05-20/22; Flint w domu ~05-18. ### 06-02: narada u Krola przesunieta na 06-07 po sniadaniu (przed wyjazdem Namiestnika 06-08)."
+   "status": "otwarte - 05-11: POLECENIE DO FOSY (Garrick wybiera czlowieka i decyduje) - kruk 05-12; czlowiek na Palcu ~05-20/22; Flint w domu ~05-18."
   },
   {
    "data": "300-05-11",
@@ -6417,7 +6417,7 @@
    "kanal": "kruk Winterfell-Riverrun (~06-10) i z powrotem",
    "wraca": "300-06-16",
    "zamyka": "zgoda Edmure'a (rzut) + data jego listow",
-   "status": "otwarte"
+   "status": "otwarte ### 06-02: tresc listu na naradzie 06-07 (przed wyjazdem Namiestnika)."
   },
   {
    "data": "300-05-26",
@@ -6604,9 +6604,9 @@
    "co": "HAL - KTO KARMI W DORZECZU: przez placowke przy Seagardzie i Kompanie - ile zboza wychodzi z Dorzecza za morze i czyje; kto zaopatruje garnizony Lannisterow w Maidenpool i Darry. Do aktu zlamania ugody (~06-28).",
    "kto": "HAL (placowka Seagard, Kompania Polnoc-Dorzecze)",
    "kanal": "kruk Winterfell-Bialy Port (05-26 wieczor) + statek/goniec Kompanii do Seagardu i z powrotem",
-   "wraca": "300-06-07",
+   "wraca": "300-06-10",
    "zamyka": "odpowiedz Hala na pismie",
-   "status": "otwarte ### 06-02: narada u Krola przesunieta na 06-07 po sniadaniu (przed wyjazdem Namiestnika 06-08)."
+   "status": "otwarte"
   },
   {
    "data": "300-05-26",

@@ -4446,7 +4446,7 @@
    "kanal": "w zamku",
    "wraca": "300-05-30",
    "zamyka": "nazwiska na stole Krola po odpowiedzi Torrena (~05-09); Kasztelan raczej z Winterfell",
-   "status": "otwarte - 05-11: BRANN MOKRY WEZWANY do Winterfell (kruk do Deepwood + jezdziec lancucha ogni), ~05-28/30; decyzja po rozmowie z nim; pisarz przy nim - do wskazania."
+   "status": "ZAMKNIETE 300-05-30 (rzut 64) - WIELKI ZARZADCA: BRANN MOKRY (mianowany przez Krola); kasztelan Corwin (05-02); posel na Mur Hallis (04-26)."
   },
   {
    "data": "300-04-26",
@@ -6804,6 +6804,15 @@
    "kanal": "pakiet do Nesty",
    "wraca": "300-07-15",
    "zamyka": "imie mistrza albo 'nie ma'",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-30",
+   "co": "PISARZ DLA BRANNA MOKREGO (Wielki Zarzadca Kamiennego Brzegu): mlody, z brzegu albo taki, co nauczy sie wezlow - 'ja mu powiem, on zapisze'. Wskazuje kancelaria; jedzie z Brannem na Kamienny Brzeg.",
+   "kto": "TOBIN SZALA (kancelaria) -> BRANN",
+   "kanal": "Winterfell",
+   "wraca": "300-06-02",
+   "zamyka": "imie pisarza + dzien wyjazdu Branna",
    "status": "otwarte"
   }
  ],

@@ -6193,6 +6193,15 @@
    "wraca": "300-06-01",
    "zamyka": "odpowiedz Flinta (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "WIEZA STRAZNICZA NA STALE DLA RODZINY TALLY - wpis do ksiegi zamku Winterfell (slowo Krola 05-25).",
+   "kto": "KASZTELAN WINTERFELL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-27",
+   "zamyka": "wpis w ksiedze zamku",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

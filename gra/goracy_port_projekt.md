@@ -88,3 +88,8 @@ Trzy warstwy jak w rozdziale o ruszcie Cailin: aleje i kanały dokowe na powierz
 - **Starkport jako postój.** To port **Korony** na Kamiennym Brzegu, dziś w budowie: palisada i wieża ~06-15, stocznie dopiero po trakcie i przystani. Dopóki nie ma tam redy, statkom brakuje miejsca do odesłania. Bliżej jest Dustinport (przyczółek Korony, eskadra Torrena).
 - **Stocznia wzoru braavoskiego.** Szkutników i specjalistów z Braavos zamówiła Korona. O ich los pytamy Nestę (~07-15). Stocznia lenna potrzebowałaby własnych ludzi albo zgody Korony na podział.
 - **⚠ Inwestor i flaga.** W projekcie inwestorem jest Dom Handlowy i nad miastem wisi flaga Domu. Gorący Port należy jednak do **lenna Fosy** (Harlon, Kasa 2). Przy ruszcie Cailin pan postanowił 05-26: płaci lenno, opłatę kanałową pobiera miasto. **Do słowa pana:** czy tak samo tutaj (mur, wieże i łańcuch to lenno, a kantor portowy i stocznia to Dom?), i czyja chorągiew wisi na wieżach. W projekcie Cailin pomarańcz znaczy *„tu odpowiada dom Tally”*.
+
+## DECYZJE PANA (300-05-26)
+- **Płaci Dom** (Kasa 1). Słowa pana: *„To nie ma znaczenia: Dom Tally i lenno Tallych należą do Tallych.”* Księgi i tak zostają osobne, a koszt Gorącego Portu idzie do księgi Domu (Hal).
+- **Na wieżach chorągiew Tallych.**
+- Budowa ponad etap I (mur, wieża ognia z rozkazu 05-16) **nadal nie jest zlecona**.

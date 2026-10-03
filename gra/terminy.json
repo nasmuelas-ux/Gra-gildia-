@@ -5731,9 +5731,9 @@
    "co": "ROZKAZ DLA HENDRY'EGO NA CZTERY OGNIE (rada Krola 05-20): Goracy Port na wielki najazd - opuscic na czas; ludzie w gore Goraczki do Fosy; co sie da - lodziami, reszta spalona; Goraczke zamknac lancuchem albo zatopionymi barkami ponizej Fosy (rachunek Weylina i Hendry'ego); Fosa trzyma do odsieczy. Symon przekaze OSOBISCIE przy pobycie na Fosie.",
    "kto": "SYMON -> HENDRY",
    "kanal": "osobiscie na Fosie",
-   "wraca": null,
+   "wraca": "300-05-27",
    "zamyka": "rozkaz przekazany Hendry'emu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - WYSLANY KRUKIEM (nie osobiscie) do Hendry'ego i Garricka."
   },
   {
    "data": "300-05-20",
@@ -6174,7 +6174,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-28",
    "zamyka": "wybor + list do sprzedajacego",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - wybor: HORNWOOD; list Gawena do Larence'a; rzut zakupu 87 (TAK) - odpowiedz ~05-30."
   },
   {
    "data": "300-05-25",
@@ -6705,6 +6705,24 @@
    "kanal": "kruki z lenn",
    "wraca": "300-06-12",
    "zamyka": "lista lenn z data zalozenia ksiegi (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "OWCE Z HORNWOOD - odpowiedz Larence'a (stado, cena wg oferty, data wypedzenia na Kamienny Brzeg). RZUT ZAKUPU JUZ RZUCONY: 87 - TAK.",
+   "kto": "GAWEN -> LARENCE HORNWOOD (+ lady Donella)",
+   "kanal": "kruk Winterfell-Hornwood i z powrotem",
+   "wraca": "300-05-30",
+   "zamyka": "stado wypedzone, data przybycia na Kamienny Brzeg (E ~5 tyg.)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "ROZKAZ NA CZTERY OGNIE - potwierdzenie odbioru od Hendry'ego i Garricka + rachunek lancucha/barek na Goraczce ponizej Fosy (Hendry + Orbelo).",
+   "kto": "HENDRY + GARRICK (+ ORBELO)",
+   "kanal": "kruk Winterfell-Fosa (05-27) i z powrotem",
+   "wraca": "300-06-01",
+   "zamyka": "potwierdzenie + miejsce na lancuch/barki",
    "status": "otwarte"
   }
  ],

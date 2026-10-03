@@ -6129,7 +6129,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-27",
    "zamyka": "imie na noc w domu wychowankow",
-   "status": "PRZYSZLO 300-05-27 - Gawen i Luwin wskazuja GERTE (wdowa po strazniku bramy, dwoje dzieci), 15 miedz./noc (E). Do slowa pana."
+   "status": "ZAMKNIETE 300-05-27 - GERTA na noce od 05-27, 15 miedz./noc (E)."
   },
   {
    "data": "300-05-24",
@@ -6678,7 +6678,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-29",
    "zamyka": "decyzja o formularzu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - TAK: formularz pod pieczecia Krola (Orland sklada, Tobin przepisuje)."
   },
   {
    "data": "300-05-27",
@@ -6687,6 +6687,24 @@
    "kanal": "Winterfell",
    "wraca": "300-05-28",
    "zamyka": "tak/nie dla Gerty",
+   "status": "ZAMKNIETE 300-05-27 - GERTA na noce od 05-27, 15 miedz./noc (E)."
+  },
+  {
+   "data": "300-05-27",
+   "co": "SPICHLERZ ETAP I - FORMULARZ DO PIECZECI KROLA: Orland sklada karte, Tobin przepisuje na kazde lenno; Namiestnik niesie do Krola.",
+   "kto": "ORLAND + TOBIN -> SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-28",
+   "zamyka": "karty z pieczecia Krola gotowe do wysylki",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "SPICHLERZ ETAP I - ODPOWIEDZI LORDOW NA FORMULARZ (kto zaklada ksiege i od kiedy). JEDEN RZUT na cala fale (zasada 27).",
+   "kto": "LORDOWIE POLNOCY -> ORLAND",
+   "kanal": "kruki z lenn",
+   "wraca": "300-06-12",
+   "zamyka": "lista lenn z data zalozenia ksiegi (rzut)",
    "status": "otwarte"
   }
  ],

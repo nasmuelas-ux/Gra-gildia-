@@ -6202,6 +6202,24 @@
    "wraca": "300-05-27",
    "zamyka": "wpis w ksiedze zamku",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "PRZYBOCZNA 20 - KWATERA: izba strazy na dole Wiezy Strazniczej (oddzial I, Sten) + strych nad stajnia przy wiezy - siano precz, prycze (oddzial II, Dagon). Wikt z kuchni zamku, platny kasztelanowi z Kasy 1 (stawka z jego ksiegi).",
+   "kto": "KASZTELAN WINTERFELL + STEN + DAGON",
+   "kanal": "Winterfell",
+   "wraca": "300-05-27",
+   "zamyka": "dwudziestu pod dachem + stawka wiktu w ksiedze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "PRZYBOCZNA 20 - CWICZENIA: godzina dziennie na dziedzincu cwiczebnym po rekrutach Rodrika, przed wieczerza; wspolnie z ludzmi ser Alyna, jesli Alyn zechce (prosba Stena z 04-11). Zgoda Alyna - jego wola (rycerz Korony) - przy rozmowie.",
+   "kto": "STEN + SER ALYN",
+   "kanal": "Winterfell",
+   "wraca": "300-05-27",
+   "zamyka": "pierwsza wspolna godzina albo odmowa Alyna",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

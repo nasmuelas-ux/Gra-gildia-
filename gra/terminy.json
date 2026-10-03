@@ -2876,9 +2876,9 @@
    "data": "300-03-16",
    "kto": "THEOMORE (siedmiu kopistow) + papiernia Wata + szkola Fosy",
    "kanal": "woz Bialy Port-Fosa",
-   "wraca": "~300-12 (pierwszy odpis przed siewem nastepnego roku)",
+   "wraca": "300-06-20",
    "zamyka": "pierwsza skrzynia odpisow wyjezdza z Nowego Zamku na Fose",
-   "status": "otwarte - ROZKAZ WYDANY, RZECZ IDZIE",
+   "status": "otwarte - ROZKAZ WYDANY, RZECZ IDZIE ### DATA 06-01: kontrola przy starcie skryptorium na Fosie (~06-20); pierwszy odpis przed siewem 301 (~300-12).",
    "co": "ODPISY GLEBOKORZENIA JADA NA FOSE - DRUGIE MIEJSCE OBSADZONE. Rozkaz gracza 300-03-16. Siedmiu uczniow, GODZINA DZIENNIE, przepisuje - nie jako nauka (choc jest), tylko zeby ODPIS WYJECHAL Z IZBY. NIE JEST TO NOWA ZASADA: to wpisanie Glebokorzenia do ZASADY TRZECH ODPISOW z 299-09-08 (Winterfell, pytanie Brana). SPOSOB SPRAWDZONY I BEZ KUPOWANIA PERGAMINU: papiernia Wata, dwie kadzie, tani material - 'najtansza ksiazka na Polnocy, przepisywana jako cwiczenie uczniow'. POWOD, PODANY PRZEZ THEOMORE'A: 'Te dwie ksiegi zginely nie dlatego, ze staly przy kominie - zginely dlatego, ze BYLY JEDNE. JEDNO MIEJSCE TO ZADNE MIEJSCE.'"
   },
   {
@@ -2987,9 +2987,9 @@
    "data": "300-03-17",
    "kto": "HAL SIEROTA (kantor Bialy Port)",
    "kanal": "na miejscu / ksiega zaliczek",
-   "wraca": "stala dyspozycja - sprawdzana z kazdym meldunkiem z Rozdroza",
+   "wraca": "300-06-16",
    "zamyka": "nie zamyka sie - ma trwac, dopoki nasluch nie da nazwiska",
-   "status": "otwarte",
+   "status": "otwarte ### DATA 06-01: kontrola przy meldunku z Rozdroza (Deron, 06-16), potem z kazdym meldunkiem.",
    "co": "WYPLATY NA ZNAK MILCZACEJ REKI IDA DALEJ BEZ ZMIANY - dyspozycja stala. Co do dnia, ta sama kwota, to samo miejsce, zaden pisarz nie wie dlaczego. ⚠ W DNIU, W KTORYM WYPLATA NIE ZEJDZIE, ON PRZESTAJE PRZYCHODZIC I NIE DOWIEMY SIE O NIM JUZ NIGDY NICZEGO. To najtanszy nasluch, jaki ten Dom mial - i placi go ten, kogo sie slucha."
   },
   {

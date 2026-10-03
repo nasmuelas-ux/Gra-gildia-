@@ -6733,6 +6733,15 @@
    "wraca": "300-06-08",
    "zamyka": "zgoda Wulla + data przewodnika; kto z klanow dolacza (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-28",
+   "co": "LIST DO WYSTANA (Czarny Zamek) - obietnica dla Brana 05-28: niech patrzy na tych, ktorych przynosza zza Muru. BEZ IMIENIA JONA (zakaz Krola 299-09-14), BEZ HASLA NYMERIA; Wystan to kanal znany Cytadeli - tresc tak, zeby obcy czytelnik nic nie zrozumial. Tresc - slowa pana.",
+   "kto": "SYMON -> WYSTAN",
+   "kanal": "kruk Winterfell-Czarny Zamek",
+   "wraca": "300-05-29",
+   "zamyka": "list wyslany",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

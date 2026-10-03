@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 2,
+  "dzien": 3,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 60 (300-06-02) - cieplo, lekkie chmury, przyjemnie; bez konsekwencji.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 76 (300-06-03) - pogodnie i cieplo, lekki wiatr z zachodu.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

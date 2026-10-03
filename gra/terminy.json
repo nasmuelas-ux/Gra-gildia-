@@ -6136,9 +6136,9 @@
    "co": "KARTA MIASTA STARKPORTU - ODPIS DLA SIGRUN (pieczec Krola 05-24; ulga 5 lat; 30 dni skladu; gielda; zamtuzy na prawie miasta). Warunek Sigrun spelniony przed zima.",
    "kto": "TOBIN -> SIGRUN",
    "kanal": "kruk Winterfell-Fosa (05-25) + jezdziec Fosa-Dustinport + lodz na Kamienny Brzeg",
-   "wraca": "300-06-03",
+   "wraca": "300-06-25",
    "zamyka": "odpis u Sigrun (potwierdzenie w karcie Starkportu)",
-   "status": "otwarte"
+   "status": "otwarte - na Kamiennym Brzegu (E); potwierdzenie z karta Starkportu"
   },
   {
    "data": "300-05-24",
@@ -6507,7 +6507,7 @@
    "kanal": "kruk Winterfell-zamek Cerwyn (05-26) i z powrotem",
    "wraca": "300-06-03",
    "zamyka": "odpowiedz Cerwyna (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-03 (rzut 81) - TAK: ludzie Cerwyna, start od VIII po przebiegu T3-A; jego cwierc mostu po rysunku Borsa."
   },
   {
    "data": "300-05-26",
@@ -6831,7 +6831,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-03",
    "zamyka": "imiona dwoch gwardzistow Aryi",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-03 - JORELLE MORMONT i TORVALD WULL (Gwardia Krolewska)."
   },
   {
    "data": "300-05-30",
@@ -6903,7 +6903,7 @@
    "kanal": "trakt Winterfell-Deepwood-Kamienny Brzeg",
    "wraca": "300-06-03",
    "zamyka": "wyjazd o swicie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-03 - wyjechali o swicie."
   },
   {
    "data": "300-06-02",

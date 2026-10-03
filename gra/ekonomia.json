@@ -595,12 +595,22 @@
      "wzrost_mies": 0.015,
      "sufit": 120,
      "zrodlo": "⚑ USTALONE 300-03-15. Pomysl MARSZALKA OSRICA, 299-08-22 (rzut NAT 100), wpisany do umowy Kompanii: KOMPANIA PLACI ZA KONWOJ, KORONA DAJE LUDZI - za pieniadze, a nie z laski. ⚠ TO NIE JEST ZWYKLA POZYCJA DOCHODU: to PIERWSZA POKOJOWA, OPLACANA ROBOTA DLA ZOLNIERZA KORONY. Kilkudziesieciu zawodowych ludzi utrzymywanych PRZEZ HANDEL - nie z podatku i nie z topniejacego worka wojennego. Rozwiazuje glowna przeszkode stalej armii, ktora nigdy nie byla brakiem ludzi, tylko brakiem ZRODLA ZOLDU W CZASIE POKOJU. Rosnie razem z ruchem przez Przesmyk, ktory rosnie sam."
+    },
+    {
+     "nazwa": "SPIENIEZENIE SWIADCZEN W NATURZE - daniny i czynsze w towarze sprzedawane przez komory i placowki (Dom jako posrednik z prowizja)",
+     "typ": "przychod",
+     "min": 486,
+     "max": 972,
+     "okres": "miesiac",
+     "od": "300-06-01",
+     "do": null,
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-06-07: 'musimy uwzgledniac spienieznie towarow - to, co pokazujesz, to podatki; Korona zarabia znacznie wiecej i tego wgl nie uwzgledniamy'. KOTWICA Z ZAPISU: swiadczenia w naturze sa 5-10 razy wieksze od pienieznych (291,67/mies w monecie przed korekta skali) = 1458-2917/mies w towarze. CZESC SPRZEDAWANA ~1/3 (E - szacunek GM, do korekty przez gracza); reszta zjadana przez garnizony, Mur, domene i wydawana w naturze. Korekta skali i +10% dzialaja jak na kazdy przychod."
     }
    ],
    "nieznane": [
     {
      "nazwa": "swiadczenia w naturze",
-     "powod": "Polnoc jest NIEZMONETYZOWANA: swiadczenia w naturze sa 5-10 razy wieksze od pienieznych. Kasa 3 liczy WYLACZNIE monete."
+     "powod": "Polnoc jest NIEZMONETYZOWANA: swiadczenia w naturze sa 5-10 razy wieksze od pienieznych. Kasa 3 liczy WYLACZNIE monete. ### 300-06-07: CZESC SPRZEDAWANA (~1/3, E) WCHODZI JAKO POZYCJA 'SPIENIEZENIE SWIADCZEN W NATURZE'. Reszta (zjadana w naturze) nadal poza suma."
     }
    ],
    "co_prowadzi_a_nie_posiada": [

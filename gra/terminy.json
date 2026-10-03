@@ -6327,7 +6327,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-07",
    "zamyka": "decyzja Krola o zakupie (rzut przy kontraktach)",
-   "status": "narada 06-07: plan na stole, liczby Gawena; luka ~190 tys. korcy - CZEKA NA SLOWO SYMONA (co w 300, co odlozyc, kto pozycza); decyzja Krola po nim."
+   "status": "zamkniete 300-06-07 - DECYZJA KROLA na slowo Symona: w 300 PILNE (garnizony ~3500) + CYPEL (~143 000 korcy); zapas zimowy - 301. Kasa 3 przeliczona ze spienieznieniem swiadczen w naturze (~1750-4320/mies). Platnosc trzy raty VIII-X, do 1/3 towarem."
   },
   {
    "data": "300-05-25",
@@ -6520,7 +6520,7 @@
   },
   {
    "data": "300-05-26",
-   "co": "ZAPAS ZIMOWY NA 30-40 TYS. DUSZ - zamiar pana (05-26). Orland liczy (E, z kart): ile korcy na dusze na miesiac zimy, ile miesiecy, ile spichlerzy tej wielkosci (trzy wielkie spichlerze lenna + Spichlerz Polnocy), skad ziarno (zakupy lato 300: Dorzecze/Reach/Pentos) i co z tego jest juz w kolumnach. ZAKRES ROZSTRZYGNIETY 05-26: LENNO TALLY (Kasa 2) - Fosa, miasto Cailin, wsie, ekipy drog, osadnicy; osobno od Spichlerza Polnocy Korony. Orland + Warryn: ile spichlerzy ponad trzy wielkie, skad ziarno dla lenna (import: Tallhart, Reach, Bialy Port; trakty 2 i 3). Siewne nietykalne. LENNO DZIS: 15-20 tys. dusz (zapis 05-14, potwierdzone przez gracza 05-26) - zapas = ok. dwa razy dzisiejsza ludnosc; Orland liczy tez biezace zapotrzebowanie lenna.",
+   "co": "ZAPAS ZIMOWY NA 30-40 TYS. DUSZ - zamiar pana (05-26). Orland liczy (E, z kart): ile korcy na dusze na miesiac zimy, ile miesiecy, ile spichlerzy tej wielkosci (trzy wielkie spichlerze lenna + Spichlerz Polnocy), skad ziarno (zakupy lato 300: Dorzecze/Reach/Pentos) i co z tego jest juz w kolumnach. ZAKRES ROZSTRZYGNIETY 05-26: LENNO TALLY (Kasa 2) - Fosa, miasto Cailin, wsie, ekipy drog, osadnicy; osobno od Spichlerza Polnocy Korony. Orland + Warryn: ile spichlerzy ponad trzy wielkie, skad ziarno dla lenna (import: Tallhart, Reach, Bialy Port; trakty 2 i 3). Siewne nietykalne. LENNO DZIS: 15-20 tys. dusz (zapis 05-14, potwierdzone przez gracza 05-26) - zapas = ok. dwa razy dzisiejsza ludnosc; Orland liczy tez biezace zapotrzebowanie lenna. ### 06-07: ODLOZONY NA 301 (decyzja Krola).",
    "kto": "ORLAND KORZEC + WARRYN (+ GAWEN/HAL koszt, Kasa 2)",
    "kanal": "Winterfell",
    "wraca": "300-06-06",
@@ -7047,6 +7047,15 @@
    "kanal": "osobiscie, izba Brana",
    "wraca": "300-06-07",
    "zamyka": "rozmowa we czworo + decyzja pana, czy i jak pomoze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "GAWEN - KSIEGA SKARBU PRZEPISANA: Korona, nie tylko skarb (moneta + spienieznienie swiadczen w naturze + co zjadane w naturze, osobnymi kolumnami). Polecenie Krola 06-07. Wlasny - bez rzutu.",
+   "kto": "GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-07-05",
+   "zamyka": "nowa ksiega Skarbu w trzech kolumnach",
    "status": "otwarte"
   }
  ],

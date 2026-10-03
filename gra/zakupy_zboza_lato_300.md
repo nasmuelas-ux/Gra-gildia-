@@ -83,3 +83,9 @@ Plan z liczbą (Orland), kosztem i źródłem monety (Gawen) oraz kanałami (Rod
 3. **Zapas na 30–40 tys. rozłożyć na lata:** transza I mniejsza albo w 301.
 4. **Płacić towarem** (futra, drewno, tran, sól), według Gawena do ~⅓. **⚠ Obsydianu nie, bo warunkiem Stannisa jest, że idzie na Mur, nie do skarbca. Skreślony z listy zapłaty.**
 5. **Pożyczyć na zboże:** obligacja zbożowa Korony (Wyman, Żelazny Bank przez Nestę, Dom Tally na procent i jawnie, mur trzech kas). Spłata po zimie.
+
+### ROZSTRZYGNIĘCIE 06-07 (słowo pana, decyzja Króla)
+- **W 300 kupujemy to, co pilne, i Cypel:** garnizony (~3 500 korcy) i Cypel na pierwszą zimę (~143 000 korcy). Przednówek i Sigrun idą już z komór.
+- **Zapas zimowy na 30–40 tys. dusz zostaje odłożony.** Na razie nie ma decyzji, z czego go finansować.
+- **Poprawka rachunku Skarbu (wskazanie pana):** Kasa 3 liczyła dotąd tylko monetę, czyli podatki. **Od VI wchodzi nowa pozycja: spieniężenie świadczeń w naturze.** To daniny i czynsze w towarze sprzedawane przez komory i placówki. Kotwica z zapisu: świadczenia w naturze są 5–10 razy większe od pieniężnych. Sprzedaje się ~⅓ (E). **Kasa 3 w VI: ~1 750–4 320 smoków miesięcznie** (wcześniej ~680–1 110).
+- **Nowy rachunek Gawena (E):** zakup 146 500 korcy po ~20 jeleni to **~14 650 smoków**. Płatność w trzech ratach przy dostawach VIII–X, do ⅓ towarem. Przy połowie dochodu VI–XI odłożonej na zboże jest **~5 250–12 950 smoków**. Na górnym brzegu starczy. Na dolnym Cypel dostanie mniej w X, a resztę w XI.

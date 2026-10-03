@@ -5040,7 +5040,7 @@
    "kanal": "kruk Winterfell-Deepwood",
    "wraca": "300-06-06",
    "zamyka": "rozkaz przez Galbarta + stawka Gawena",
-   "status": "otwarte - Robett (rzut 24): bez slowa Galbarta nie stawia; Galbart w Deepwood ~06-05"
+   "status": "zrobione 300-06-03 - list Krola przez Galbarta wyszedl krukiem do Deepwood (~06-05). Dalej: osobna operacja - lista Robetta."
   },
   {
    "data": "300-05-10",
@@ -6912,6 +6912,15 @@
    "kanal": "Fosa",
    "wraca": "300-08-30",
    "zamyka": "ksiazka w rekach Brana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-03",
+   "co": "STRAZ GRANICY CYPLA - LISTA IMIENNA ROBETTA przez Galbarta (sklad, liczba ludzi) + STAWKA GAWENA (40 m/dzien na czlowieka, Kasa 3). Odpowiedz na list Krola z 06-03. Bez nowego rzutu - prosba Galbarta, sprawa przyjeta 05-10.",
+   "kto": "ROBETT -> GALBART -> KROL; GAWEN",
+   "kanal": "kruk Deepwood-Winterfell",
+   "wraca": "300-06-12",
+   "zamyka": "lista imienna na stole + zold liczony od dnia przyjecia",
    "status": "otwarte"
   }
  ],

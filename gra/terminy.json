@@ -6165,7 +6165,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-28",
    "zamyka": "odpowiedz Krola dla Wulla",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - Krol: 1/10 urobku (ruda albo zelazo przy hucie, odwazone przy czlowieku klanu), ta sama miara dla kazdego klanu; list Krola z odpisami do klanow."
   },
   {
    "data": "300-05-25",
@@ -6723,6 +6723,15 @@
    "kanal": "kruk Winterfell-Fosa (05-27) i z powrotem",
    "wraca": "300-06-01",
    "zamyka": "potwierdzenie + miejsce na lancuch/barki",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "KLANY GORSKIE - ODPOWIEDZ NA LIST KROLA (1/10 urobku, ta sama miara dla kazdego klanu): Wull - przyjmuje i kiedy przewodnik; Norrey, Liddle, Flint, Burley, Harclay - czy dolaczaja. RZUT przy odpowiedzi (jeden na cala sprawe).",
+   "kto": "KROL -> WULL (+ odpisy do klanow)",
+   "kanal": "goniec Osrica w gory i z powrotem",
+   "wraca": "300-06-08",
+   "zamyka": "zgoda Wulla + data przewodnika; kto z klanow dolacza (rzut)",
    "status": "otwarte"
   }
  ],

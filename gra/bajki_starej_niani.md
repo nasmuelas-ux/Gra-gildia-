@@ -83,4 +83,107 @@
 
 ---
 
+# CZĘŚĆ DRUGA: ZE ZBIORU ŚWIADECTW
+### Przepisane 300-06-04 przed południem z zapisków przechowywanych u Brana (biblioteka, półka opowieści, przewiązane sznurkiem) i z własnych notatek Symona. Porządkowanie poszukiwań o Innych.
+*Reguły zapisu z 299-09-07, te same co wyżej: (I) najstaranniej zapisuje się to, czego opowiadający nie rozumie; takie miejsca mają na marginesie znak **⟡**; (II) zapisuje się wersje, nie jedną wersję; (III) zapisuje się łańcuch przekazu; (IV) nie pyta się naprowadzająco.*
+*Czego tu NIE MA: tajemnic żywych (sny dzieci Starków, krypty, sen o upadku). Te nie wchodzą do żadnego zbioru.*
+
+---
+
+## 6. O DŁUGIEJ NOCY — WERSJA PIERWSZA (spisana 299-09-07)
+*Źródło: Stara Niania, izba przy schodach, noc 299-09-07, przy Rickonie. Spisane ręką Symona słowo w słowo, poprawione przez Nianię trzy razy w pierwszej godzinie (nie treść, tylko słowa: „zimne”, nie „zimni”). Łańcuch przekazu: „moja babka, a jej babka jej, i tamta swojej; cztery kobiety w tył i dalej już nie umiem policzyć”.*
+
+> Była noc, która trwała pokolenie. Dzieci rodziły się w ciemności, żyły w ciemności i umierały w ciemności.
+>
+> **Najpierw przyszedł mróz, nie oni.** Lato skończyło się w kilka dni i nie wróciło. Ludzie mówili, że to zwyczajna zima, dopóki dało się tak mówić.
+>
+> Potem przyszli z zimnem. Zimne, martwe, na martwych koniach, ze sforą bladych pająków wielkich jak psy. Karmiły się krwią dzieci. Nie znosiły trzech rzeczy: **żelaza, ognia i dotyku słońca.**
+>
+> I **umarli nie zostawali umarłymi.** Wieś, która padła w nocy, rano wstawała i szła dalej na południe. To było najgorsze.
+>
+> Walczono ogniem, zawsze ogniem. Palili chałupy, lasy, siebie nawzajem, jak trzeba było. I **palili swoich zmarłych** zaraz, bez czekania na obrzęd, *„bo umarły nie zostawał umarłym; kto zostawił brata w ziemi, ten spotykał brata na trakcie”*.
+>
+> Ostatni bohater poszedł szukać dzieci lasu. Miał miecz, konia, psa i **dwunastu towarzyszy**. Stracił wszystkich i szedł dalej, bo szedł po nie, a nie po sławę. I znalazł. I to one wiedziały jak. Dały im **⟡ „sto sztuk szkła, które nie jest szkłem”**, i **⟡ „rodziło się w ogniu góry”**.
+>
+> Potem była Bitwa o Świt. A potem postawiono Mur. *„Po tym, chłopcze. Nie przedtem. Po. Bo przedtem nikomu się nie śniło, że trzeba.”*
+
+**Wersje (reguła II):**
+- *Pająki:* Rickon mówi **sto**. Niania mówi: **„nikt ich nie liczył”**.
+- *Żelazo:* w opowieści go nie znosili, ale Niania sama się poprawiła: *„w opowieści zwykłe miecze też nie pomagały; nie umiem tego pogodzić i nie będę zgadywać”*.
+- *Z wersją 3 (spisaną 300-06-01):* tam bohater ma **„kilku towarzyszy”**, tu **dwunastu**; tam jest **„czarne szkło, które rodzi się w ogniu”**, tu **⟡ „sto sztuk szkła, które nie jest szkłem” i „ogień góry”**. Ta sama Niania, dziewięć miesięcy później. Starszy zapis zostaje obok nowszego. Niczego nie rozstrzygam.
+
+**Czego opowieść nie mówi** (słowami Niani): kim oni są, ilu ich było, ile trwała wojna i jak się skończyło. Między Bitwą o Świt a końcem nie ma niczego, *„jakby ten, kto to opowiedział, przy tej jednej rzeczy nie był obecny”*. I jej wniosek: *„Myślę, że dlatego, że ci, co to opowiedzieli pierwsi, też nie wiedzieli. Człowiek, który ucieka, opisuje to, co widział, nie to, co to było.”*
+
+*Dopisek Niani na końcu tamtej nocy, choć nie jest częścią opowieści:* *„Mnie przez sześćdziesiąt lat mówiono, że ja opowiadam dzieciom bajki. Ja się nie obrażałam. Ja tylko nigdy nie rozumiałam, czemu dziecko ma słuchać czegoś, czego dorosły nie chce zapisać.”*
+
+---
+
+## 7. O KRUKU Z TRZEMA OCZAMI (fragment)
+*Źródło: Stara Niania, popołudnie 300-04-13. Pytanie zadane ogólnie. Łańcuch: „mam kawałek od babki, a babka miała go od swojej”. Niania sama mówi, że to strzęp, nie cała bajka.*
+
+> W czasach, kiedy Dzieci Lasu jeszcze śpiewały pieśni ziemi, byli między nimi **zielonowidzowie**, co widzieli oczami ptaków i wilków, a najstarsi oczami drzew.
+>
+> Najstarszy z nich nie umarł, tylko **zszedł pod ziemię, w korzenie czardrzewa**, i tam patrzy dalej, na to, co było, i na to, co będzie.
+>
+> Kiedy chce kogoś zawołać, wysyła kruka. A kruk ma trzecie oko, ⟡ *„bo to jego oko, nie ptasie”*.
+>
+> I zdanie, które babka mówiła zawsze na koniec: **„Kogo kruk zawoła, ten nie zaśnie spokojnie, dopóki nie pójdzie albo nie odmówi.”**
+
+**Czego nie ma** (jej własne „nie wiem”): gdzie są te korzenie; czy wołanie jest dobre, czy złe; czy ktoś kiedyś poszedł i wrócił. *„Tego babka nie wiedziała, to i ja nie wiem. Nie będę zgadywać.”*
+
+---
+
+## 8. Z UST MAESTRA LUWINA: O KRÓLU WARGÓW Z PRZYLĄDKA MORSKIEGO SMOKA
+*Źródło: maester Luwin, Wielka Sala na stronie, 300-04-17. Luwin podaje to ostrożnie, jako rzecz z kronik Starków, nie z Cytadeli.*
+
+> Na Przylądku Morskiego Smoka panował niegdyś **Król Wargów**. Był sprzymierzony z Dziećmi Lasu. Starkowie go pokonali. Jego synów stracono, a **córki wzięto za żony do Winterfell**.
+
+*Słowa maestra:* *„Kronika mówi to jako fakt polityczny. Co z tego wynika, kronika nie mówi.”*
+*Do porównania (reguła II):* Galbart Glover (05-12) zna podanie, że przodkowie Gloverów stali przy Starkach przy zdobyciu Cypla na Królu Wargów i za to dostali las. Księgi z tamtych czasów spłonęły w Deepwood. Dwa niezależne źródła mówią to samo: wojna była i Starkowie ją wygrali. O tym, co Król Wargów umiał, milczą oba.
+
+---
+
+## 9. Z UST MAESTRA LUWINA: O SZKLANYCH ŚWIECACH STAREGO MIASTA
+*Źródło: maester Luwin, 300-04-17. To, co wie z Cytadeli.*
+
+> W Cytadeli w Starym Mieście stoją **świece ze szkła**, z obsydianu. Palą się bez ciepła. Nikt ich nie zapalił od stuleci. Cytadela uczy, że **magia umarła razem ze smokami**.
+
+*Zdanie maestra od siebie:* *„Miałem nauczyciela, który mówił, że umierała na długo przed nimi, a smoki były ostatnim, co jeszcze się paliło. Wtedy się z niego śmiałem.”*
+
+**Jak Luwin dzieli to, co wie** (jego rozróżnienie, przepisane bez zmian):
+- **(A) Cytadela uznaje za historię:** Dzieci Lasu istniały: groty obsydianowe, twarze na czardrzewach, Pakt na Wyspie Twarzy. Pierwsi Ludzie przyjęli ich bogów. Obsydian z torfu: *„to macie na wadze, to jest rzecz”*.
+- **(B) Cytadela zapisuje, ale nazywa podaniem:** Długa Noc i Bitwa o Świt; Młot Wód, który rozbił Przesmyk (*„maesterzy piszą: podanie; ale Przesmyk jest rozbity i ktoś go rozbił albo coś”*); zielonowidzowie (*„widzieli oczami zwierząt i oczami czardrzew, tak piszą najstarsze odpisy”*); zmiennoskórzy za Murem (*„Nocna Straż ma ich w raportach od tysięcy lat; sucho, jak pogodę”*).
+- **(C)** Król Wargów (bajka 8).
+- **(D)** Szklane świece (ta bajka).
+
+---
+
+## KARTA PORZĄDKOWA: TRZY STOSY BRANA
+*Metoda, którą Bran wymyślił sam, 299-09-08, przy świecy, z samego czytania: każdą rzecz kładzie się na jeden z trzech stosów: **(a) co mówią wszyscy · (b) co mówi tylko jeden · (c) co się kłóci.** Przepisane 300-06-04 z kart Brana, za jego zgodą, i uzupełnione o świadectwa zebrane do dziś.*
+
+| stos | rzecz | kto mówi |
+|---|---|---|
+| **(a) wszyscy** | **Najpierw przyszedł mróz.** Lato, które nie chce się skończyć, zima, która nie chce się skończyć, dopiero potem oni. | Niania (6, 3), wszystkie wersje w bibliotece. Lord Eddard pytał Nianię właśnie o to: *„Oni przychodzą razem z mrozem, czy mróz przychodzi przed nimi?”* Odpowiedź: mróz idzie pierwszy. |
+| **(a) wszyscy** | Ogień działa. | Niania (6, 3), Luwin (B: Długa Noc) |
+| **(a) wszyscy** | Mur postawiono **po**, nie przed. | Niania (6), Brandon Budowniczy (4), kroniki |
+| **(a) wszyscy** | Dzieci Lasu istniały i miały obsydian. | Luwin (A), Niania (6), obsydian Fosy na wadze (Reed 299-10-04) |
+| **(b) jeden** | Umarli wstają, wieś idzie dalej na południe. | Niania (6) |
+| **(b) jeden** | **Palić zmarłych.** Jedyna wykonalna instrukcja w całej opowieści. | Niania (6). Północ grzebie swoich w kryptach. Nierozstrzygnięte. |
+| **(b) jeden** | Zielonowidz w korzeniach i kruk z trzema oczami. | Niania (7). Luwin zna zielonowidzów tylko z najstarszych odpisów (B). |
+| **(b) jeden** | Magia umarła **przed** smokami. | nauczyciel Luwina (9) |
+| **(c) kłóci się** | Żelazo: nie znosili go / zwykłe miecze nie pomagały. | Niania (6), sama ze sobą |
+| **(c) kłóci się** | Towarzysze bohatera: dwunastu / kilku. | Niania 299-09 (6) / Niania 300-06 (3) |
+| **(c) kłóci się** | Szkło: „sto sztuk szkła, które nie jest szkłem, z ognia góry” / „czarne szkło, które rodzi się w ogniu”. | Niania (6) / Niania (3) |
+| **(c) kłóci się** | Pająki: sto / nikt nie liczył. | Rickon / Niania |
+
+**Cztery wnioski Brana z 299-09-08** (jego słowami):
+1. *„Zimno jest w każdej wersji. Reszta nie.”*
+2. *„My nie mamy opowieści o pokonaniu ich. My mamy opowieści o tym, że noc się skończyła.”* W żadnej opowieści nikt nie zabija ani jednego z nich. Nawet Ostatni Bohater nie wygrywa. Znajduje dzieci.
+3. **Pytanie o kamień:** Pierwsi Ludzie mieli już brąz. Po co Dzieci trzymały się noży z kamienia? *„Albo byli głupi, albo kamień robił coś, czego brąz nie robił.”* Trop otwarty.
+4. *„Nikt się nie przygotował. Wszyscy zbudowali dopiero potem.”* Gdyby miało przyjść znowu, bylibyśmy pierwsi, którzy coś zrobili **przedtem**.
+
+**Czego nie znaleziono i gdzie szukano** (reguła Brana: „przeszedłem te i te księgi i nie ma tam nic”): kim oni są — nie ma u Niani, u Luwina, u septona (300-04-13), u Theomore'a (300-04-17: „skrzynie Manderlych pamiętają Reach, nie Północ”), u Boltona (300-04-18: „Dreadfort prowadzi rachunki, nie bajki”), u maestra Riverrun (300-04-22). **Do sprawdzenia:** Księgi Zimowe Zamku (najniższa półka biblioteki, 300-04-10); krannogowie (goście z Przesmyku ~06-06/07).
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

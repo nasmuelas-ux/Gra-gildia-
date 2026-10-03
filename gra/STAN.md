@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**113 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**112 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -533,7 +533,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-25** — LIST DO FLINTA Z PALCA - ZELAZNI I ODSIECZ NA SYGNAL: lodz Mchowych Jastrzebi, Goracy Port + jazda Fosy od ladu, eskadra od morza; druga polowa propozycji punktu ognia. Wola obca - RZUT przy odpowiedzi. · _kto:_ **SYMON -> FLINT Z PALCA** · _zamyka:_ odpowiedz Flinta (rzut)
 - **300-05-25** — WIEZA STRAZNICZA NA STALE DLA RODZINY TALLY - wpis do ksiegi zamku Winterfell (slowo Krola 05-25). · _kto:_ **KASZTELAN WINTERFELL** · _zamyka:_ wpis w ksiedze zamku
 - **300-05-25** — PRZYBOCZNA 20 - KWATERA: izba strazy na dole Wiezy Strazniczej (oddzial I, Sten) + strych nad stajnia przy wiezy - siano precz, prycze (oddzial II, Dagon). Wikt z kuchni zamku, platny kasztelanowi z Kasy 1 (stawka z jego ksiegi). · _kto:_ **KASZTELAN WINTERFELL + STEN + DAGON** · _zamyka:_ dwudziestu pod dachem + stawka wiktu w ksiedze
-- **300-05-25** — PRZYBOCZNA 20 - CWICZENIA: godzina dziennie na dziedzincu cwiczebnym po rekrutach Rodrika, przed wieczerza; wspolnie z ludzmi ser Alyna, jesli Alyn zechce (prosba Stena z 04-11). Zgoda Alyna - jego wola (rycerz Korony) - przy rozmowie. · _kto:_ **STEN + SER ALYN** · _zamyka:_ pierwsza wspolna godzina albo odmowa Alyna
+- **300-05-25** — PRZYBOCZNA 20 - CWICZENIA: godzina dziennie na dziedzincu cwiczebnym po rekrutach Rodrika, przed wieczerza; wspolnie z ludzmi ser Alyna, jesli Alyn zechce (prosba Stena z 04-11). Zgoda Alyna - jego wola (rycerz Korony) - przy rozmowie. · _kto:_ **STEN + SER ALYN** · _zamyka:_ pierwsza wspolna godzina albo odmowa Alyna **⚠ ALYN SIE ZGODZIL 300-05-25 (RODRIK PRZY KOLACJI) - PIERWSZA WSPOLNA GODZINA 05-26**
 - **300-05-25** — WIEZA STRAZNICZA - URZADZENIE: II pietro szwalnia i biuro Miry (dlugi stol do krojenia, polki na sukna, pulpit do ksiag Fosy); III pietro mala biblioteka (polki, latarnia za szklem, bez otwartego ognia; okiennice od zachodu). Ciesla i stolarz zamkowi, oplata kasztelanowi z Kasy 1 (stawka z jego ksiegi). · _kto:_ **CIESLA + STOLARZ ZAMKOWY (kasztelan)** · _zamyka:_ stol w szwalni + polki w bibliotece
 - **300-05-25** — LISTA KSIAG (Luwin, reka wlasna): DOM - dzieje i rody, kroniki, genealogie, mapy; URZAD - prawo (z morskim Braavos), rachunek, ziola i leczenie, budowanie i woda, zegluga. 'Najpierw to, czego nikt na Polnocy nie ma.' ### DOPISANE 05-25: (3) LITERATURA, POEZJA, BAJKI (piesni i ballady spisane, poezja Starego Miasta i Braavos, opowiesci dla dzieci); (4) RELIGIJNE (Siedmioramienna Gwiazda, zywoty, hymny; ksiegi o wierze Pana Swiatla i bogow Braavos - zeby rozumiec kupcow). Pomysl Luwina na pozniej: spisac bajki Starej Niani (skryptorium). ### DOPISANE 05-25: (5) INNE JEZYKI - wysoki valyrianski, braavoski i dialekty Wolnych Miast, SLOWNIKI I ELEMENTARZE na wspolny (do nauki urzednikow i wychowankow). Pomysl Luwina: spisac Stara Mowe, poki zyje tlumacz spod Muru. · _kto:_ **LUWIN** · _zamyka:_ lista na stole Symona (idzie z krukiem do Hala)
 - **300-05-25** — ZAKUP KSIAG - HAL (Bialy Port): z kazdego statku z Braavos i Starego Miasta wg listy Luwina; Kasa 1 poza buforem 1000; spis: tytul, skad, za ile. Pierwszy spis zakupow w bilansie miesiecznym. · _kto:_ **SYMON -> HAL** · _zamyka:_ pierwszy spis zakupow (bilans 06-05)
@@ -712,10 +712,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-05-25 popoludnie · zima (300)
+- **Data:** 300-05-25 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 24**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 30**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1523,7 +1523,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-25] `dziennik`: 300-05-25 SOLAR KROLA (cd.) - SYMON: PRZYBOCZNA W KOMPLECIE - 20 (oddzial I Stena, 10, w Winterfell; oddzial II Dagona, 10, przyjechal z Mira 05-21); chca cwiczyc i trzeba ich gdzies polozyc…
 - [300-05-25] `robb_stark`: 300-05-25 SOLAR KROLA (cd.) - SYMON: PRZYBOCZNA W KOMPLECIE - 20 (oddzial I Stena, 10, w Winterfell; oddzial II Dagona, 10, przyjechal z Mira 05-21); chca cwiczyc i trzeba ich gdzies polozyc…
 - [300-05-25] `dwor/STEN`: 300-05-25 - Krol: przyboczna 20 - izba strazy na dole Wiezy Strazniczej (10) + strych nad stajnia przy wiezy (10); godzina dziennie na dziedzincu po rekrutach Rodrika, z ludzmi ser Alyna jes…
 - [300-05-25] `dziennik`: 300-05-25 SOLAR KROLA (cd.) - SYMON PYTA, ILE POZIOMOW MA WIEZA STRAZNICZA. Bez rzutu. KROL (zna swoj zamek): 'Cztery i dach.' OPIS USTALONY (zgodny z zapisem 05-21/22/25): PARTER - izba str…
@@ -1535,3 +1534,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-25] `MIRA`: 300-05-25 - BIBLIOTEKA DOMU I URZEDU: zakup przez Hala (Bialy Port) i Neste (Braavos) wg listy Luwina; odpisy ksiag urzedowych dla Fosy - pisarze szkoly pod okiem Miry; oryginaly w Wiezy Str…
 - [300-05-25] `dziennik`: 300-05-25 POPOLUDNIE - ⚑ SYMON DOPISUJE DO LISTY KSIAG: (3) LITERATURA, POEZJA I BAJKI; (4) KSIEGI RELIGIJNE. Bez rzutu. LUWIN dopisuje: (3) piesni i ballady spisane (Poludnie spisuje, Polno…
 - [300-05-25] `dziennik`: 300-05-25 POPOLUDNIE - ⚑ SYMON DOPISUJE: (5) KSIEGI W INNYCH JEZYKACH. Bez rzutu. LUWIN: 'Dobrze - i nie tylko do czytania, ale do nauki.' Dopisuje: WYSOKI VALYRIANSKI (klasyka, ktora czyta …
+- [300-05-25] `dziennik`: 300-05-25 KOLACJA, WIELKA SALA - cieply wieczor, okna otwarte, jaskolki nad dziedzincem. Pstrag z rzeki, mloda rzepa z maslem, chleb Benneta, ser, piwo; dla dzieci kompot. Bez rzutow. Zmecze…

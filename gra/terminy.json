@@ -6904,6 +6904,15 @@
    "wraca": "300-06-03",
    "zamyka": "wyjazd o swicie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-02",
+   "co": "KSIAZKA O PTAKACH Z BAGIEN DLA BRANA - skryptorium na Fosie (Ilario): spisac z ust ptasznikow i mysliwych Przesmyku (+ zapiski Glebokorzenia, jesli sa), z rycinami. Mira przekazuje zamowienie osobiscie (~06-12); start ze skryptorium (~06-20).",
+   "kto": "ILARIO (skryptorium Fosy) <- MIRA",
+   "kanal": "Fosa",
+   "wraca": "300-08-30",
+   "zamyka": "ksiazka w rekach Brana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

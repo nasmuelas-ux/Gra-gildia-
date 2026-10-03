@@ -53,4 +53,19 @@
 
 ---
 
+## 4. O BRANDONIE BUDOWNICZYM
+*Spisane 300-06-02 wieczorem, w izbie Niani. Niania przędła tym razem naprawdę, wrzeciono stukało o podłogę między zdaniami.*
+
+> Kiedy Długa Noc się skończyła, a ludzie wyszli z ciemności i policzyli, ilu ich zostało, był wśród nich chłopak imieniem Brandon. Nie był najsilniejszy ani najmądrzejszy. Ale jako jedyny, patrząc na zgliszcza, nie pytał „kto to zrobił”, tylko „co tu postawimy”.
+>
+> Postawił Mur. Siedemset stóp lodu od morza do morza, żeby to, co przyszło z północy, nigdy już nie przeszło. Postawił Winterfell, z gorącą wodą w ścianach, żeby jego dzieci nigdy nie zamarzły tak, jak zamarzali ich dziadowie. Mówią, że postawił też Koniec Burzy na południu, ale to już inna bajka i wiatr ją zabiera.
+>
+> A teraz posłuchaj dobrze, dziecko, bo tego w pieśniach nie śpiewają. **Brandon nie zbudował niczego sam.** Olbrzymi nosili mu bloki lodu, których nie uniosłoby stu ludzi. Dzieci lasu szeptały mu, gdzie ziemia jest ciepła, a gdzie lód się nie stopi. Mówią nawet, że wplatały w mury czary, żeby nic zimnego nie przeszło. A zwykli ludzie, których imion nikt nie zapamiętał, kopali, cięli, nosili i umierali przy tej robocie, i bez nich nie byłoby nic.
+>
+> Dlatego w Winterfell pamięta się Budowniczego. Ale kto ma rozum, pamięta też tych, których imion nie ma.
+
+*Dopisek spisującego:* Niania odłożyła wrzeciono i powiedziała do mnie: *„Słyszałam, że budujecie drogi aż do Riverrun, a ludzi do roboty przyszło dwunastu. Brandon miał olbrzymów, panie. Wy macie tylko ludzi. To szukajcie ludzi, nie kamienia. Kamienia jest dość.”*
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

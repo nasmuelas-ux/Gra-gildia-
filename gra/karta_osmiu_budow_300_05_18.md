@@ -22,7 +22,7 @@ Wskazuje Garrick (zasada 12). Orbelo to ten od kamienia, który powiedział, że
 | 6 | **(1) Wieże zamku** | bazalt z łomu, po baszcie Borsa | Orbelo + murarze zwolnieni z baszty | **07-01** | **pierwsza z siedemnastu wież podniesiona do pełnej wysokości przed mrozem — 10-15**. Jedna wieża na sezon (E). |
 | 7 | **(8) Trzy wielkie spichlerze lenna** | bazalt i olcha | po spichlerzach wiejskich | **07-15** | miejsca zatwierdzone przez pana (niżej) |
 | 8 | **(2) Mur kurtynowy** | bazalt, darń i mech | po dwóch wieżach | **wiosna 301** (E) | pierwszy odcinek między dwiema podniesionymi wieżami |
-| 9 | **(4) Cailin, etap III** — mury, bruk, latarnie | mur: lenno; bruk i latarnie: udział miasta | po kurtynie | **301** (E) | uchwała ławy (niżej) |
+| 9 | **(4) Cailin, etap III** — mury, bruk, latarnie | mur i **bruk: lenno w pełni** (05-26); latarnie: pół miasto, pół lenno | po kurtynie | **301** (E) | uchwała ławy (niżej) |
 | 10 | **(6) Szklarnie — rozbudowa** | bazaltowe ramy | po wycenie szkła | **po 05-27** (wycena Myr) | pierwszy rząd ram pod szkłem |
 | 11 | **(5) Pomarańczowy Dwór** | bazalt, rudy piaskowiec, modrzew | po etapie III miasta | **301/302** (E) | fundament |
 | 12 | **Głębokorzeń** | jak w kolejce kwietniowej | — | po baszcie | — |
@@ -48,3 +48,8 @@ W księdze Hala (Kasa 1: Dwór, szklarnie) i lenna (Kasa 2: wieże, mur, kwatery
 - **Trzy miejsca spichlerzy zatwierdzone** (grobla pod bramą · Przystań Wilka nad wodą · bród na trakcie do Dorzecza).
 - **Nabór murarzy i cieśli zatwierdzony.** Stawkę ustala Warryn z księgi lenna; odzew ~06-01 (rzut).
 - **Więcej kamienia od Flintów do rozważenia:** ile, czym, którędy, czy odciąży kolejkę; zgoda Flinta — rzut (~05-28).
+
+## ROZSTRZYGNIĘCIE PANA (300-05-26, kruk do Fosy)
+- **Bruk Cailin płaci lenno w pełni** (Kasa 2). Ława nie dołożyła (rzut 12: *„droga do zamku to droga lorda”*), więc lord płaci swoją drogę.
+- Latarnie bez zmian: połowa miasto (uchwała ławy), połowa lenno.
+- Kolejka bez zmian: bruk idzie jako pozycja 9, po murze kurtynowym (301, E).

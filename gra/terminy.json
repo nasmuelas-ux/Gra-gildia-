@@ -6598,6 +6598,24 @@
    "wraca": "300-06-15",
    "zamyka": "imie mistrzyni",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "HAL - KTO KARMI W DORZECZU: przez placowke przy Seagardzie i Kompanie - ile zboza wychodzi z Dorzecza za morze i czyje; kto zaopatruje garnizony Lannisterow w Maidenpool i Darry. Do aktu zlamania ugody (~06-28).",
+   "kto": "HAL (placowka Seagard, Kompania Polnoc-Dorzecze)",
+   "kanal": "kruk Winterfell-Bialy Port (05-26 wieczor) + statek/goniec Kompanii do Seagardu i z powrotem",
+   "wraca": "300-06-10",
+   "zamyka": "odpowiedz Hala na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "DERON SUCHY (Rozdroze) - KTO KUPUJE, KTO SPRZEDAJE: kto na Rozdrozu kupuje chleb i zboze (garnizony? wsie?), a kto sprzedaje - z wozow i rachunkow gospody. Do aktu zlamania ugody (~06-28).",
+   "kto": "DERON SUCHY",
+   "kanal": "kanal handlowy przez Lucana (Dorzecze; 10 dni tam, ~21 lacznie)",
+   "wraca": "300-06-16",
+   "zamyka": "odpowiedz Derona na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

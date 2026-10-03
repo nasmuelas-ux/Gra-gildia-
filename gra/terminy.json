@@ -6966,7 +6966,7 @@
    "kanal": "decyzja pana",
    "wraca": "300-06-20",
    "zamyka": "nazwisko mistrza wydawnictwa",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-05 - PAN: ILARIO mistrzem wydawnictwa z dniem przyjazdu (~06-20); Wat - papiernia, dostawca."
   },
   {
    "data": "300-06-05",
@@ -7002,6 +7002,15 @@
    "kanal": "Fosa",
    "wraca": "300-09-01",
    "zamyka": "lista uczniow i nauczycieli po naborze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-05",
+   "co": "LOWCY TALENTOW W SEPTACH I W DORZECZU - dzieci nisko urodzone, bekarty, zablakane (sieroty wojenne); stypendium Domu (wikt i dach), odpracowanie 3 lata. Pisma: septon Winterfell (ustnie), septa BP (Hal), septy i panowie Dorzecza (Lucan, Deron Suchy, placowka Riverrun/Seagard). Transport: kolumny Kompanii z opiekunem. JEDEN RZUT na odzew (wola septonow i Dorzecza); Wiara zapyta o Siedmiu.",
+   "kto": "SYMON -> SEPTONI / LUCAN / DERON / HAL",
+   "kanal": "ustnie + kruki + Lucan (Dorzecze ~10 dni)",
+   "wraca": "300-07-15",
+   "zamyka": "pierwsza lista dzieci zgloszonych + odpowiedz Wiary",
    "status": "otwarte"
   }
  ],

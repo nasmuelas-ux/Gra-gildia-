@@ -21,7 +21,7 @@ Szukano w obu księgach (zasada 37). **Kandydaci z zapisu:**
 2. **Wat**: zbudował prasę, papiernia na nim. Doktryna Domu (299-09-05) mówi jednak: *„fach i księgi nigdy w jednej ręce; kto zarządza, nie mierzy sam siebie”*. Papiernia ma zostać dostawcą z osobną księgą.
 3. **Theomore** (Głębokorzeń): współpraca, uczniowie-czeladnicy. Ma własny dom, więc wchodzi jako partner, nie jako pracownik.
 
-**⚑ DO SŁOWA PANA:** kto zostaje mistrzem.
+**⚑ ROZSTRZYGNIĘCIE PANA 300-06-05: MISTRZEM WYDAWNICTWA ZOSTAJE ILARIO** (skryptorium, drukarnia, wydawnictwo) z dniem przyjazdu na Fosę (~06-20). Wat zostaje mistrzem papierni i dostawcą z osobną księgą.
 
 ## III. 50 SKRYBÓW: SKĄD (świat nie ma ich na półce, zasada 8)
 Ludzi piszących na Północy jest mało. Nabór idzie falami i każde źródło ma swój termin:
@@ -42,7 +42,10 @@ Ludzi piszących na Północy jest mało. Nabór idzie falami i każde źródło
 - **Łowcy talentów.** Kto widzi zdolne dziecko, zgłasza je: septonowie, maester Wystan, sędziowie objazdowi (Halder Szary), poborcy i komory, Theomore, Bors w Przystani Wilka, Corwin. Potem **egzamin w izbie egzaminacyjnej** (jak w projekcie Latarni) i **stypendium Domu** (wikt i dach) dla zdolnych biednych.
 - **20 pracowników:** kuchnia, internat, pranie, opał, odźwierny, pisarz rachunku szkoły.
 - **Internat** dla dzieci spoza Fosy: miejsce i dach rozpisze Garrick.
-**⚑ DO SŁOWA PANA (propozycja Miry):** czy stypendysta odpracowuje naukę (np. 3 lata w Domu albo w Koronie), czy nie.
+**⚑ ROZSTRZYGNIĘCIE PANA 300-06-05: STYPENDYSTA ODPRACOWUJE 3 LATA** (w Domu albo w Koronie, gdzie go poślą).
+- **Gdzie szukać, słowo pana:** także **w septach** (Winterfell, Biały Port, septy Dorzecza) i **w Dorzeczu**. Najbardziej szukamy **dzieci nisko urodzonych, bękartów i zabłąkanych** (sierot wojennych, dzieci bez nikogo).
+- **Kanały do Dorzecza:** Lucan, Deron Suchy (Rozdroże), placówka Domu w Riverrun i przy Seagardzie. Dzieci jadą na północ kolumnami Kompanii z opiekunem.
+- **Wiara** prawie na pewno zapyta, czy dziecko z septy zostanie przy Siedmiu. Na Fosie są dwie wiary obok siebie; odpowiedź do słowa pana, gdy septy odpiszą.
 
 ## V. TERMINY
 | data | co | kto |

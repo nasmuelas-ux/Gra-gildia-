@@ -1098,5 +1098,18 @@
    "opis": "BUFOR HALA 1000 (decyzja 300-04-26) - napelniony z wyniku IV/300; od V stoi pelny i nie zjada gotowki."
   },
   "towar_wlosci": "Zaplata lennu za towar wlosci (40-90/mies, w monecie) to KAPITAL OBROTOWY - wraca przy sprzedazy i siedzi w marzy. NIE jest odplywem wolnej gotowki."
- }
+ },
+ "_korekty_dodatkowe": [
+  {
+   "od": "300-06-01",
+   "mnoznik": 1.1,
+   "kasy": [
+    "KASA 1 - DOM HANDLOWY TALLY",
+    "KASA 3 - SKARB POLNOCY"
+   ],
+   "dotyczy": "PRZYCHODY (jak korekta skali): koszty, obrot informacyjny, zdarzenia i pozycje 'bez_skali' bez zmian.",
+   "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-06-05: 'prosba o podkrecenie calej ekonomii Korony i Domu o 10%'. MA MOC ZAPISU (zasada 43).",
+   "uzasadnienie_w_swiecie": "Polisa roczna z Braavos (rzut 73, 06-05): fracht do Bialego Portu ubezpieczony caly rok - mniej przestojow zima, tansze kredyty pod ladunek, wiecej kupcow z Essos. Zaufanie Wolnych Miast do Korony Polnocy rosnie."
+  }
+ ]
 }

@@ -134,7 +134,16 @@ def skala(E, kasa, poz, r, m):
     v = parsuj(K["od"])
     if (r * MIES_W_ROKU + m) < (v[0] * MIES_W_ROKU + v[1]):
         return (1.0, 1.0)
-    return (float(K["mnoznik_min"]), float(K["mnoznik_max"]))
+    f0, f1 = float(K["mnoznik_min"]), float(K["mnoznik_max"])
+    # korekty dodatkowe (np. +10% od 300-06-01, rozstrzygniecie gracza 300-06-05)
+    for D in E.get("_korekty_dodatkowe", []):
+        if kasa not in D["kasy"]:
+            continue
+        w = parsuj(D["od"])
+        if (r * MIES_W_ROKU + m) >= (w[0] * MIES_W_ROKU + w[1]):
+            f0 *= float(D["mnoznik"])
+            f1 *= float(D["mnoznik"])
+    return (f0, f1)
 
 
 def fmt(lo, hi, szer=0):
@@ -274,6 +283,8 @@ def drukuj(zakres, r, m, d, wynik):
         if K:
             print("KOREKTA SKALI od %s: przychody %s x%g (min) .. x%g (max); koszty bez zmian."
                   % (K["od"], "/".join(k.split(" - ")[0] for k in K["kasy"]), K["mnoznik_min"], K["mnoznik_max"]))
+        for D in L("ekonomia.json").get("_korekty_dodatkowe", []):
+            print("KOREKTA DODATKOWA od %s: przychody %s x%g." % (D["od"], "/".join(k.split(" - ")[0] for k in D["kasy"]), D["mnoznik"]))
         print("-" * 78)
     glo = ghi = 0.0
     for nazwa, k in wynik.items():

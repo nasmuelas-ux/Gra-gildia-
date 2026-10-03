@@ -6958,6 +6958,51 @@
    "wraca": "300-06-07",
    "zamyka": "rekawice gotowe przed wyjazdem na Barrow Hall",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-05",
+   "co": "WYDAWNICTWO DOMU TALLY - MISTRZ (glowa, obsadza pan): kandydaci Ilario / Wat / Theomore (gra/wydawnictwo_i_szkola_tally_300_06.md).",
+   "kto": "SYMON",
+   "kanal": "decyzja pana",
+   "wraca": "300-06-20",
+   "zamyka": "nazwisko mistrza wydawnictwa",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-05",
+   "co": "HAL - WYCENA WYDAWNICTWA I SZKOLY: placa skryby i nauczyciela, internat, papier i prasa, izby do czasu Latarni; do Kasy 1 jako glowne przedsiebiorstwo. Bez rzutu (wlasny).",
+   "kto": "HAL",
+   "kanal": "kruk Winterfell-Bialy Port (06-05) / odpowiedz kruk",
+   "wraca": "300-06-15",
+   "zamyka": "wycena na stole",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-05",
+   "co": "SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni).",
+   "kto": "MIRA + GARRICK",
+   "kanal": "osobiscie na Fosie (podroz przez Barrowton)",
+   "wraca": "300-06-14",
+   "zamyka": "plan izb i internatu + lista nauczycieli + pismo do lowcow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-05",
+   "co": "NABOR SKRYBOW I (cel 50: ~15 do VIII, ~30 do X, 50 do wiosny 301) - Fosa (szkola, spis 299-06, rejestr Melli), Glebokorzen, Bialy Port (Hal), Braavos (Nesta). JEDEN RZUT na odzew fali.",
+   "kto": "GARRICK / HAL / NESTA / THEOMORE",
+   "kanal": "kruki + statki Braavos",
+   "wraca": "300-07-15",
+   "zamyka": "lista imienna pierwszej fali",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-05",
+   "co": "SZKOLA - PIERWSZY NABOR DO 300 Z LOWCAMI TALENTOW + SEMINARIUM NAUCZYCIELI I (arkusz Miry). Rzut na odzew przy naborze.",
+   "kto": "MIRA",
+   "kanal": "Fosa",
+   "wraca": "300-09-01",
+   "zamyka": "lista uczniow i nauczycieli po naborze",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

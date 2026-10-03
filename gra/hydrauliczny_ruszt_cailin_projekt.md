@@ -57,3 +57,9 @@ Kręgosłup infrastrukturalny Cailin. Ze względu na grząskie podłoże cały s
 - **Farbiarnia atelier** stoi na końcu kanału (decyzja 05-26), więc jej osadnik leży poniżej miasta. To się zgadza.
 - **⚠ Kto płaci i czyja opłata.** Inwestorem w projekcie jest „Dom Handlowy Tally”. Kanały i kanalizacja to jednak miasto i lenno: miasto ma burmistrza Herwina, ławę i kasę miejską, a doktryna mówi *„lord nadaje, miasto sądzi”*. Mur trzech kas oddziela Kasę 1 (Dom) od Kasy 2 (lenno). Bruk miasta płaci lenno (05-26). Opłata kanałowa od każdej barki w Kanale Wielkim to opłata miejska albo myto lenna, a nie przychód Domu. **Do słowa pana:** płatnik (lenno, miasto, czy po części) i kto pobiera opłatę.
 - **Kolejność:** w kolejce Warryna Cailin etap III (mury, bruk, latarnie) idzie w 301 (E). Ruszt hydrauliczny to etap III i IV.
+
+## DECYZJE PANA (300-05-26)
+- **Płaci lenno** (Kasa 2), a nie Dom Handlowy. Inwestorem rusztu jest lenno Tally.
+- **Opłatę kanałową pobiera miasto** (kasa miejska, Herwin i ława). Przeznaczenie zostaje jak w projekcie: torf do pieców i utrzymanie palowania.
+- **Lecznica Niny zostanie przeniesiona do ogrodów** (Dzielnica Zielona) i tam będzie poza głównym układem miasta. Komora termiczna na ścieki lecznicy zostaje przy niej, na miejscu w ogrodach.
+- Budowa rusztu nadal **nie jest zlecona**. Lecznica też jeszcze się nie przenosi; to plan, bez terminu.

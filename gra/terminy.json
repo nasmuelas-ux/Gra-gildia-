@@ -5850,7 +5850,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-24",
    "zamyka": "zrodlo ziarna, droga, data dostawy na brzeg",
-   "status": "PRZYSZLO 300-05-23 (karta Spichlerza) - propozycja: zboze z Barrowlandow od lady Dustin, morzem z Dustinportu kadlubami Torrena; 4 tygodnie (~76 korcy E); zakup - rzut; decyzja Symona"
+   "status": "ZAMKNIETE 300-05-24 - przyjeta propozycja: zboze z Barrowlandow morzem; list do Barbrey + rozkaz Donnel/Torren 05-25"
   },
   {
    "data": "300-05-21",
@@ -5913,7 +5913,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-24",
    "zamyka": "karta pod pieczecia; odpis dla Sigrun z rozkazem",
-   "status": "TEKST GOTOWY 300-05-24 - na stole Symona, do przedlozenia Krolowi"
+   "status": "ZAMKNIETE 300-05-24 - pieczec Krola; ulga osadnikow 5 lat (jak Zimowe Miasto, reka Krola); odpis dla Sigrun 05-25"
   },
   {
    "data": "300-05-22",
@@ -6129,6 +6129,24 @@
    "kanal": "Winterfell",
    "wraca": "300-05-27",
    "zamyka": "imie na noc w domu wychowankow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-24",
+   "co": "KARTA MIASTA STARKPORTU - ODPIS DLA SIGRUN (pieczec Krola 05-24; ulga 5 lat; 30 dni skladu; gielda; zamtuzy na prawie miasta). Warunek Sigrun spelniony przed zima.",
+   "kto": "TOBIN -> SIGRUN",
+   "kanal": "kruk Winterfell-Fosa (05-25) + jezdziec Fosa-Dustinport + lodz na Kamienny Brzeg",
+   "wraca": "300-06-03",
+   "zamyka": "odpis u Sigrun (potwierdzenie w karcie Starkportu)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-24",
+   "co": "ZBOZE Z BARROWLANDOW DLA OSADNIKOW SIGRUN - zakup u lady Barbrey Dustin, pierwsza partia ~76 korcy (4 tygodnie, E), Kasa 3 po cenie rynku Barrowton; przewoz morzem z Dustinportu na Kamienny Brzeg kadlubami Torrena. Zgoda Barbrey - RZUT.",
+   "kto": "SYMON -> BARBREY DUSTIN; DONNEL + TORREN (przewoz)",
+   "kanal": "kruk Winterfell-Barrowton (05-25) i z powrotem; kruk Winterfell-Fosa + jezdziec do Dustinportu",
+   "wraca": "300-05-29",
+   "zamyka": "zgoda Barbrey (rzut) + data zaladunku",
    "status": "otwarte"
   }
  ],

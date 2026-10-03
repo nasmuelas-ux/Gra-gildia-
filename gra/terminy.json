@@ -5310,7 +5310,7 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec/lodz na Palec",
    "wraca": "300-05-26",
    "zamyka": "Flint przyjal albo nie (rzut)",
-   "status": "otwarte - rozmowa z Flintem ~05-22/23, wiesc lodzia na Fose + kruk ~05-26 (rzut przy wiesci)"
+   "status": "ZAMKNIETE 300-05-26 (rzut 4) - ODMOWA: ogien Flintow nie za stawke Korony; kamien sprzedany"
   },
   {
    "data": "300-05-14",
@@ -5373,7 +5373,7 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski) - wylot 05-15 rano",
    "wraca": "300-05-26",
    "zamyka": "mapa lojalnosci Dorzecza od Riverrun (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-26 (rzut 16) - lista lordow (Mallister, Blackwood, Bracken, Vance, Piper, Mooton), BEZ garnizonow Lannisterow; Edmure pyta po co; Catelyn napisze sama"
   },
   {
    "data": "300-05-15",
@@ -5535,7 +5535,7 @@
    "kanal": "kruk Winterfell-Dreadfort (05-19, tam 3, wraca lacznie 7)",
    "wraca": "300-05-26",
    "zamyka": "imie obserwatora Dreadfortu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-26 (rzut 31) - obserwator HALT SZARY z pisarzem na 06-12; Roose zada pomiaru od jego kamienia granicznego - spor do Cerwyna"
   },
   {
    "data": "300-05-18",
@@ -5589,7 +5589,7 @@
    "kanal": "kruk Winterfell-Ostatnie Ognisko i z powrotem",
    "wraca": "300-05-26",
    "zamyka": "data pierwszej kolumny na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-26 (rzut 74) - pierwsza kolumna 06-08 z Ostatniego Domostwa, na Murze ~06-20"
   },
   {
    "data": "300-05-19",
@@ -6219,7 +6219,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-26",
    "zamyka": "pierwsza wspolna godzina albo odmowa Alyna",
-   "status": "ALYN SIE ZGODZIL 300-05-25 (Rodrik przy kolacji) - pierwsza wspolna godzina 05-26"
+   "status": "dzis przed wieczerza (deszcz - kryta zbrojownia)"
   },
   {
    "data": "300-05-25",
@@ -6237,7 +6237,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-26",
    "zamyka": "lista na stole Symona (idzie z krukiem do Hala)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-26 - lista gotowa, leci do Hala po poludniu (deszcz)"
   },
   {
    "data": "300-05-25",
@@ -6345,6 +6345,24 @@
    "kanal": "kruk Winterfell-Bialy Port (05-26) + statek BP-Braavos i z powrotem",
    "wraca": "300-07-15",
    "zamyka": "stan zamowienia szkutnikow (albo: nie bylo) + odpowiedz o ludziach ze stoczni",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "KOLUMNA UMBERA NA MUR - pierwsza: wyjazd z Ostatniego Domostwa 06-08, na Murze ~06-20; kwit Osrica/Hallisa przy odbiorze; 40-60 za kolumne (Gawen, Kasa 3).",
+   "kto": "UMBER -> HALLIS/CLYDAS",
+   "kanal": "kruk Czarny Zamek-Winterfell",
+   "wraca": "300-06-21",
+   "zamyka": "kwit odbioru na Murze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "POMIAR GRANICY HORNWOOD/DREADFORT 06-12 - SPOR O PUNKT WYJSCIA: Roose zada pomiaru od starego kamienia Dreadfortu i wg jego mapy; obserwator Halt Szary z pisarzem. Cerwyn rozstrzyga na miejscu (dwie pieczecie, pisarz rewizji); Donella i Larence ze swoja mapa.",
+   "kto": "CERWYN (Justycjariusz)",
+   "kanal": "na miejscu",
+   "wraca": "300-06-12",
+   "zamyka": "pomiar odbyty, punkt wyjscia rozstrzygniety",
    "status": "otwarte"
   }
  ],

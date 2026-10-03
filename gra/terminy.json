@@ -6526,6 +6526,78 @@
    "wraca": "300-06-06",
    "zamyka": "rachunek zapasu na 30-40 tys. dusz w karcie Spichlerza (E)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "GP-1 GORACY PORT - RYSUNEK ETAPOW I-II: linia muru od morza, Wieza Morska, Wieza Polnocna, rynna lancucha; pomiar ujscia i dna. Rysownika wskazuje Garrick (zasada 12; Weylin na Kamiennym Brzegu). Wlasni ludzie.",
+   "kto": "GARRICK -> rysownik + HARLON",
+   "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
+   "wraca": "300-07-01",
+   "zamyka": "rysunek etapow I-II na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "GP-3/4 GORACY PORT - PIERWSZY ODCINEK MURU OD MORZA (front ujscia) POD KORONA + WIEZA MORSKA DO II KONDYGNACJI przed mrozem. Placi Dom; wykonawcy moga byc spoza lenna.",
+   "kto": "HARLON (+ Hal - ksiega Domu)",
+   "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
+   "wraca": "300-10-15",
+   "zamyka": "odcinek muru pod korona i wieza do II kondygnacji",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "R-0 RUSZT CAILIN - RYSUNEK SIECI (spadki, trzy poziomy, kolektor pod Miastem Dolnym) z maestrem ORWYNEM (melioracja, przyjazd ~07-01) i Orbelem. Kolektor przed brukiem.",
+   "kto": "ORWYN + ORBELO (Garrick)",
+   "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
+   "wraca": "300-08-15",
+   "zamyka": "rysunek sieci na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "R-1 WIELKA SLUZA - komora zamknieta Z GNIAZDEM NA WAL mlyna (rysunek 300-02-25).",
+   "kto": "ORBELO (Weylin, gdy wroci)",
+   "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
+   "wraca": "300-10-15",
+   "zamyka": "komora zamknieta z gniazdem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "A-3 ATELIER - DZIALKA przy bulwarze Kanalu Wielkiego (Miasto Gorne, obok Pomaranczowego Dworu): prosba Domu do Herwina i lawy. Dzialki losuje lawa jawnie - wola miasta, RZUT przy uchwale.",
+   "kto": "HERWIN + LAWA",
+   "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
+   "wraca": "300-07-01",
+   "zamyka": "uchwala lawy o dzialce (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "GP-2 WYCENA LANCUCHA I KOLOWROTU (Goracy Port): ile zelaza, kto kuje (kowale z Harrenhalu ~VII?), czas. Ksiega Domu.",
+   "kto": "HAL",
+   "kanal": "kruk Winterfell-Bialy Port (05-26 po poludniu) i z powrotem",
+   "wraca": "300-08-01",
+   "zamyka": "wycena na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "R-2 WYCENA MIEDZI I RUR na magistrale parowa Cailin: skad (Pentos, Braavos), ile, czas.",
+   "kto": "HAL (+ Nesta, Obaro)",
+   "kanal": "kruk Winterfell-Bialy Port (05-26 po poludniu) i z powrotem",
+   "wraca": "300-07-15",
+   "zamyka": "wycena na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "A-2 MIRA - IMIE MISTRZYNI ATELIER NA CAILIN ('nie powiem, poki nie bede pewna').",
+   "kto": "MIRA",
+   "kanal": "Winterfell",
+   "wraca": "300-06-15",
+   "zamyka": "imie mistrzyni",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

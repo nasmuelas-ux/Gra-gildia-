@@ -38,3 +38,24 @@ Orland i Gawen liczą, ile brakuje Północy do wiosny 301: domenie, garnizonom 
 
 ## DO KRÓLA
 Plan z liczbą (Orland), kosztem i źródłem monety (Gawen) oraz kanałami (Rodwell, Hal) trafia na stół Króla. **Decyzja o zakupie należy do Króla.**
+
+---
+
+## KARTA ORLANDA KORCA, 300-06-06 (na naradę u Króla 06-07)
+*Orland liczy w korcach, nie w monecie. Koszt i źródło monety poda Gawen na naradzie. Wszystko jest szacunkiem (E) z kart, z wyjątkiem stawki dziennej, którą wziął z zapisu.*
+**Stawka:** z kolumny Bryena w Dustinporcie (226 ludzi zjada 70 korcy tygodniowo) wychodzi **~0,3 korca na człowieka tygodniowo, czyli ~1,3 korca miesięcznie.**
+
+| # | kolumna | ludzie | okres | korce (E) | skąd (propozycja Orlanda) |
+|---|---|---|---|---|---|
+| 1 | **Przednówek Zimowego Miasta**: luka ~2 tygodnie do żniw | ~3–4 tys. (E, miasto w budowie) | 2 tygodnie | **~2 000–2 600** | **przerzut z komór Korony w Winterfell, od zaraz.** Seagard jest za daleko na tę lukę. |
+| 2 | **Osadnicy Sigrun** do żniw (Barbrey sprzeda dopiero po żniwach) | ~73 | ~3 miesiące | **~300** | przerzut z komór Korony, łodzią Torrena przez Dustinport |
+| 3 | **Garnizony**: Winterfell 400 i Kamienny Brzeg 150 | 550 | VI/300–III/301 (10 miesięcy) | ~7 150, **z czego zakup ~3 500** | resztę daje domena w naturze |
+| 4 | **Cypel, dzicy, pierwsza zima** (Tallhart po cenie z obwieszczenia) | 22 000 | do pierwszych żniw 301 (~10 miesięcy) | **~143 000** (połowa potrzeby; drugą połowę dadzą ryby, polowanie i ich własne zapasy, E) | Tallhart, potem Dorzecze i Reach |
+| 5 | **Zapas zimowy na 30–40 tys. dusz** (zamiar pana z 05-26) | 30–40 tys. | 6 miesięcy zimy (E) | **~234 000–312 000** | **w trzech transzach (300, 301, 302).** Transza I w 300: **~80 000–100 000** |
+| | **ZAKUP W 300** (kolumny 3 + 4 + transza I zapasu) | | | **~225 000–245 000** | Dorzecze, Reach, Pentos: każdy kierunek osobnym kontraktem |
+
+**Wnioski Orlanda:**
+- **Kolumny 1 i 2 nie czekają na naradę.** To przerzut z komór, a komory należą do Korony. Orland prosi tylko o słowo, żeby ruszyć dziś.
+- **Cypel i zapas razem to ponad dziewięć dziesiątych całości.** Wielkość zakupu zależy od tego, ile dzicy na Cyplu wyżywią się sami.
+- **Gdzie to zmieścić:** trzy wielkie spichlerze lenna (grobla, Gorący Port, Przystań Wilka) i Spichlerz Północy. Pojemność poda Warryn. *„Zapasu na trzy lata nie wsadza się do spichlerzy, które mają stanąć za rok.”*
+- **Zboża siewnego nie rusza się.**

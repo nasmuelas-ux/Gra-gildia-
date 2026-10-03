@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 5,
+  "dzien": 6,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 100 (300-06-05) - dzien idealny: czyste niebo, cieplo bez upalu, lekki wiatr z zachodu, drogi suche; kruki leca.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 53 (300-06-06) - pochmurno z przejasnieniami, cieplo, lekki wiatr z zachodu; kruki leca.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -6075,7 +6075,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-06",
    "zamyka": "luka zamknieta (przerzut albo Seagard) w nastepnej karcie",
-   "status": "otwarte"
+   "status": "karta Orlanda 06-06: luka ~2 tyg., ~2000-2600 korcy (E); propozycja: przerzut z komor Korony w Winterfell od zaraz - CZEKA NA SLOWO PANA (nowy termin 06-06)."
   },
   {
    "data": "300-05-23",
@@ -6309,7 +6309,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-06",
    "zamyka": "liczba korcy z podzialem na kolumny (w karcie Spichlerza 06-06)",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-06 - karta Orlanda w gra/zakupy_zboza_lato_300.md: zakup w 300 ~225-245 tys. korcy (E): garnizony ~3500, Cypel ~143 000, transza I zapasu ~80-100 tys.; koszt - Gawen na naradzie 06-07."
   },
   {
    "data": "300-05-25",
@@ -6525,7 +6525,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-06",
    "zamyka": "rachunek zapasu na 30-40 tys. dusz w karcie Spichlerza (E)",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-06 - Orland: ~234-312 tys. korcy na 6 mies. zimy (E), w trzech transzach 300/301/302; pojemnosc spichlerzy - Warryn. Karta w gra/zakupy_zboza_lato_300.md."
   },
   {
    "data": "300-05-26",
@@ -6750,7 +6750,7 @@
    "kanal": "Winterfell + kruk Winterfell-Fosa",
    "wraca": "300-06-06",
    "zamyka": "zrodlo zboza dla osadnikow do zniw (razem z karta Spichlerza)",
-   "status": "otwarte"
+   "status": "karta Orlanda 06-06: ~300 korcy (E), przerzut z komor Korony lodzia Torrena przez Dustinport - CZEKA NA SLOWO PANA (nowy termin 06-06)."
   },
   {
    "data": "300-05-29",
@@ -7021,6 +7021,15 @@
    "wraca": "300-06-12",
    "zamyka": "odpowiedz Wata (kto prowadzi) + miejsce i woda w Zimowym Miescie + wycena Hala",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-06",
+   "co": "PRZERZUT Z KOMOR KORONY (prosba Orlanda, karta 06-06): (1) Zimowe Miasto - luka przednowku ~2 tyg., ~2000-2600 korcy; (2) osadnicy Sigrun - ~300 korcy lodzia Torrena przez Dustinport. Wlasne komory, bez rzutu - potrzebne SLOWO PANA (albo Krola na naradzie).",
+   "kto": "SYMON/KROL -> ORLAND",
+   "kanal": "Winterfell",
+   "wraca": "300-06-07",
+   "zamyka": "slowo pana i ruszony przerzut",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -7129,7 +7138,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-05-06",
+   "ostatnio_odebrane": "300-06-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -7141,7 +7150,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-05-06",
+   "ostatnio_odebrane": "300-06-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -7203,7 +7212,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-05-29",
+   "ostatnio_odebrane": "300-06-06",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

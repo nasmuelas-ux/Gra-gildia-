@@ -5652,7 +5652,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-24",
    "zamyka": "lista kandydatow na stole",
-   "status": "PRZYSZLO 300-05-22 - Gawen: Helga Szeroka, Bennet Piekarz; wybor Symona -> Krol -> zgoda (rzut)"
+   "status": "ZAMKNIETE 300-05-24 - HELGA SZEROKA (ochmistrzyni, rzut 18: od switu do wieczerzy, noce nie jej - zajazd w Zimowym Miescie) + BENNET PIEKARZ (kuchnia, rzut 73); Krol zatwierdzil"
   },
   {
    "data": "300-05-19",
@@ -6120,6 +6120,15 @@
    "kanal": "Winterfell / Zimowe Miasto",
    "wraca": "300-07-20",
    "zamyka": "zawody odbyte, zwyciezca imiennie na slupie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-24",
+   "co": "DOM WYCHOWANKOW - NOC BEZ OCHMISTRZYNI: Helga jest od switu do wieczerzy (zajazd w Zimowym Miescie, rzut 18). Kto prowadzi noce (33 dzieci, jeden placze w nocy) - dotad doraznie Niania i ser Rodrik. Do wskazania (zasada 12 - urzad: Gawen/Luwin).",
+   "kto": "SYMON -> GAWEN + LUWIN",
+   "kanal": "Winterfell",
+   "wraca": "300-05-27",
+   "zamyka": "imie na noc w domu wychowankow",
    "status": "otwarte"
   }
  ],

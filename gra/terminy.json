@@ -2635,7 +2635,7 @@
    "kanal": "meldunek Hala",
    "wraca": "300-06-05",
    "zamyka": "decyzja, czy ktorakolwiek linia dostaje pierwszenstwo, czy sufit zostaje nietkniety",
-   "status": "otwarte - spust na wiosne ### DATA 06-01: przy bilansie miesiecznym Hala (06-05) - stan sufitu papieru i zapasu obrotowego."
+   "status": "zamkniete 300-06-05 - bilans Hala za V: ZADNA z trzech linii nie stoi z braku papieru (papiernia na skupie szmat, Marro pracuje, ubezpieczenia dzialaja; wolna gotowka V 716-1980). Hal: sufit zostaje nietkniety, chyba ze pan postanowi inaczej."
   },
   {
    "data": "od 300-03-13",
@@ -4050,7 +4050,7 @@
    "kanal": "paczka Bialy Port-Gulltown-Orle Gniazdo (~18 dni)",
    "wraca": "300-06-05",
    "zamyka": "dar doreczony (rzut na reakcje przy doreczeniu); odpowiedz, jesli przyjdzie, pozniej",
-   "status": "w drodze/doreczony ~05-17 (E) - WIESC O DORECZENIU I REAKCJI: przez korespondenta Nesty w Gulltown -> statek -> Bialy Port -> kruk; realnie ~06-05. RZUT na reakcje - gdy wiesc przyjdzie (zasada 34: bez kanalu nie ma wiadomosci)."
+   "status": "zamkniete 300-06-05 (rzut 26) - doreczony; Baelish przyjal, listu brak. JEDNA KONSEKWENCJA: zapytal korespondenta Nesty, kto mu placi - padlo 'kantor z Braavos'. Baelish ma nitke do kantoru Nesty."
   },
   {
    "data": "300-04-20",
@@ -5017,7 +5017,7 @@
   },
   {
    "data": "300-05-10",
-   "co": "KOSCI WILLAMA DUSTINA Z DORNE DO BARROWTON - obietnica Symona dla lady Barbrey. Krok 1: HOWLAND REED - dokladne miejsce kopca przy Wiezy Radosci (jedyny zywy swiadek) - list albo przez Jojena/Meere (~koniec V). Krok 2: list do Dorana Martella przez Neste (Braavos-Sloneczna Wlocznia ~43 dni) - zgoda i przewodnik w Czerwonych Gorach. Krok 3: kto jedzie (ludzie Dustinow? Domu?) i droga morzem.",
+   "co": "KOSCI WILLAMA DUSTINA Z DORNE DO BARROWTON - obietnica Symona dla lady Barbrey. Krok 1: HOWLAND REED - dokladne miejsce kopca przy Wiezy Radosci (jedyny zywy swiadek) - list albo przez Jojena/Meere (~koniec V). Krok 2: list do Dorana Martella przez Neste (Braavos-Sloneczna Wlocznia ~43 dni) - zgoda i przewodnik w Czerwonych Gorach. Krok 3: kto jedzie (ludzie Dustinow? Domu?) i droga morzem. ### 06-05 REED (rzut 67): miejsce znane - trzeci kopiec od wiezy ku przeleczy, plaski kamien z imieniem runami. PRZELECZ TRZYMA YRONWOOD - potrzebna zgoda Dorne (list do Oberyna przez Neste, ~08-06).",
    "kto": "SYMON",
    "kanal": "Reed (Fosa/grobla) + Nesta (Dorne)",
    "wraca": "300-08-15",
@@ -5148,7 +5148,7 @@
    "kanal": "kruk Winterfell-Fosa (05-12) + poslaniec przy grobli",
    "wraca": "300-06-05",
    "zamyka": "Reed wskazuje miejsce (albo przez Jojena/Meere)",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-05 (rzut 67) - Reed wskazal: osiem kopcow z kamieni wiezy, Willam w TRZECIM od wiezy, liczac ku przeleczy; na jego kopcu plaski kamien z imieniem wyrytym runami (slowa Reeda: 'Eddard kazal wyryc kazde imie, zeby rodziny poznaly'). Przelecz trzyma Yronwood - bez zgody Dorne nikt tam nie kopie."
   },
   {
    "data": "300-05-11",
@@ -5580,7 +5580,7 @@
    "kanal": "kruk Winterfell-Fosa (05-19) + poslaniec przy grobli",
    "wraca": "300-06-05",
    "zamyka": "odpowiedz Reeda (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-05 (rzut 25) - JEDNA KONSEKWENCJA: krannogi NIE pala ognia ('ogien na bagnach widac z daleka, a nas ma nie byc widac'); na widok zelaznego zagla daja znac LODZIA do grobli Fosy (wolniej niz ogien, pewniej niz nic). Ujscie Przesmyku bez punktu ognia."
   },
   {
    "data": "300-05-19",
@@ -5872,10 +5872,10 @@
   },
   {
    "data": "300-05-21",
-   "co": "WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEKT STARKPORTU: port, umocnienia, miasto, budynki. Dni Weylina placi KASA 3 (robota Korony; Gawen zapisuje). Wlasny czlowiek - bez rzutu na wykonanie. ### 05-21: przy pomiarze szukac GORACYCH ZRODEL (laznie Slonecznego Azylu); inaczej ogrzewanie torfem/drewnem spod podlogi. Miejsce na SKLADY OLEJU I TRANU osobno, za murem ogniowym, nad woda.",
+   "co": "WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEKT STARKPORTU: port, umocnienia, miasto, budynki. Dni Weylina placi KASA 3 (robota Korony; Gawen zapisuje). Wlasny czlowiek - bez rzutu na wykonanie. ### 05-21: przy pomiarze szukac GORACYCH ZRODEL (laznie Slonecznego Azylu); inaczej ogrzewanie torfem/drewnem spod podlogi. Miejsce na SKLADY OLEJU I TRANU osobno, za murem ogniowym, nad woda. ### 06-05: brak kanalu z Kamiennego Brzegu na dzis - potwierdzenie przybycia Weylina z meldunkiem Corwina o punkcie ognia (~06-14).",
    "kto": "SYMON -> WEYLIN (Fosa)",
    "kanal": "kruk Winterfell-Fosa (05-21) + droga Fosa-Kamienny Brzeg (E: tygodnie)",
-   "wraca": "300-06-05",
+   "wraca": "300-06-14",
    "zamyka": "Weylin na miejscu (E ~06-05); pomiar na stole (data od Weylina)",
    "status": "otwarte"
   },
@@ -6651,7 +6651,7 @@
    "kanal": "trakt Bialy Port-Winterfell",
    "wraca": "300-06-05",
    "zamyka": "szwaczki na miejscu",
-   "status": "otwarte"
+   "status": "zrobione 300-06-05 - Tessa i Marga w Winterfell przed poludniem, wozem Domu przez Cerwyn; Tessa wiezie suknie dla Miry (skonczona) i wykroje; Marga zostaje urzadzac II pietro Wiezy."
   },
   {
    "data": "300-05-27",
@@ -7144,7 +7144,7 @@
     "dzien_miesiaca": 5
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-05-05",
+   "ostatnio_odebrane": "300-06-05",
    "zrodlo": "terminy (HAL - PELNE ROZLICZENIE)"
   },
   {
@@ -7156,7 +7156,7 @@
     "dzien_miesiaca": 5
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-05-05",
+   "ostatnio_odebrane": "300-06-05",
    "zrodlo": "rozkaz pana 300-05-19 (rada Sansy)"
   }
  ]

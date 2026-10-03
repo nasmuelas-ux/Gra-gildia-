@@ -187,4 +187,22 @@
 
 ---
 
+# CZĘŚĆ PIERWSZA, CIĄG DALSZY: BAJKI WIECZORNE
+*Numeracja wspólna z częścią drugą.*
+
+## 10. O LANNIE SPRYTNYM
+*Spisane 300-06-04 późnym wieczorem, w izbie Niani. Chłodny wiatr z północy po upalnym dniu. Niania przędła i śmiała się pod nosem, zanim zaczęła.*
+
+> Dawno temu, kiedy na zachodzie, w wielkiej Skale nad morzem, siedzieli jeszcze Casterly'owie, przyszedł tam chłopak bez ziemi i bez miecza. Nazywał się Lann i miał tylko głowę, za to sprytną jak lis w kurniku.
+>
+> Casterly'owie mieli w Skale złoto. Tyle złota, że nie umieli go policzyć. A Lann znalazł w skale szczelinę, o której nikt nie wiedział, i wchodził nią nocą. Szeptał im przy łóżkach okropne rzeczy, aż bali się spać. Wpuszczał im lwy do sypialni. Podbierał im złoto tak powoli, że nikt nie zauważył, aż było za późno. Aż w końcu Casterly'owie uciekli ze Skały i nawet nie wiedzieli przed kim.
+>
+> Mówią też, że Lann ukradł słońcu trochę światła, żeby mieć złote włosy. Ja wam powiem, dziecko, że to akurat bajka, ale reszta nie.
+>
+> I najważniejsze, bo tego się nie śpiewa. **To, co się weźmie sprytem, sprytem trzeba potem pilnować.** Lann o tym wiedział. Dlatego jego dzieci i dzieci jego dzieci zawsze liczyły złoto i zawsze płaciły długi. Nie z uczciwości. Ze strachu, że ktoś inny znajdzie szczelinę.
+
+*Dopisek spisującego:* Niania odłożyła wrzeciono i powiedziała do mnie: *„Mówią, że Lannisterowie zawsze płacą długi. Złoto w tej Skale kiedyś się kończy, panie. Spryt się nie kończy. Ja bym się bardziej bała Lannistera bez złota niż Lannistera ze złotem.”*
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

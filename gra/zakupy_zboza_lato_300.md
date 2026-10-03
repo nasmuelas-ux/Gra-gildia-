@@ -89,3 +89,13 @@ Plan z liczbą (Orland), kosztem i źródłem monety (Gawen) oraz kanałami (Rod
 - **Zapas zimowy na 30–40 tys. dusz zostaje odłożony.** Na razie nie ma decyzji, z czego go finansować.
 - **Poprawka rachunku Skarbu (wskazanie pana):** Kasa 3 liczyła dotąd tylko monetę, czyli podatki. **Od VI wchodzi nowa pozycja: spieniężenie świadczeń w naturze.** To daniny i czynsze w towarze sprzedawane przez komory i placówki. Kotwica z zapisu: świadczenia w naturze są 5–10 razy większe od pieniężnych. Sprzedaje się ~⅓ (E). **Kasa 3 w VI: ~1 750–4 320 smoków miesięcznie** (wcześniej ~680–1 110).
 - **Nowy rachunek Gawena (E):** zakup 146 500 korcy po ~20 jeleni to **~14 650 smoków**. Płatność w trzech ratach przy dostawach VIII–X, do ⅓ towarem. Przy połowie dochodu VI–XI odłożonej na zboże jest **~5 250–12 950 smoków**. Na górnym brzegu starczy. Na dolnym Cypel dostanie mniej w X, a resztę w XI.
+
+---
+
+## HANDEL KORONY: PRZEPUSTOWOŚĆ BIAŁEGO PORTU I REACH PRZEZ GORĄCY PORT (słowo pana 06-07, zgoda Króla)
+*Myśl pana: im więcej towaru z danin się **sprzeda albo przerobi**, tym więcej da Korona.*
+1. **Biały Port: przepustowość.** Port jest Wymana, więc Korona nie rozkazuje, tylko proponuje. **Dom Tally finansuje** (Kasa 1) nowy skład przy nabrzeżu, drugi żuraw i pomost przeładunkowy. Port pozostaje Wymana, a opłaty portowe idą do Wymana. List Króla i Namiestnika do Wymana idzie krukiem dziś. **Wola Wymana: rzut przy odpowiedzi (~06-15).**
+2. **Reach przez Gorący Port: kontrakt Korony.** Przedstawiciel Domu w Highgarden dostaje nowy mandat: ma rozmawiać **w imieniu Korony** (zboże Reach za drewno, sól, futra i tran Północy, cena ustalona z góry, wiele lat, eskorta Redwyne'a). Miejsce wyładunku: **Gorący Port**, a do czasu nabrzeża Dustinport. Olenna odpowie po żniwach (~VIII, rzut 59 już padł, więc nie ma nowego rzutu).
+   - ⚠ **Problem (zasada 8):** nabrzeże Gorącego Portu z dwoma żurawiami (GP-7) jest planowane na **lato 301**, a zboże Reach przyjdzie w **X 300**.
+   - **Rozwiązanie:** pomost tymczasowy z drewna i jeden żuraw przy ujściu do **IX 300**. Robi Harlon, płaci Dom, materiał to drewno z kolejki, nie kamień. Mur od morza idzie dalej bez zmian.
+3. **Przetwarzanie towaru z danin w warsztatach Domu:** skóry do garbarzy, wełna do przędzalni i farbiarni (atelier, A-4), ryby do wędzarni, drewno do bednarni i tartaku, sól do warzelni. **Korona płaci Domowi prowizję za obróbkę i sprzedaje drożej.** Gawen i Hal liczą, ile z ⅓ sprzedawanego towaru da się przerobić. Liczba wejdzie do nowej księgi Skarbu (07-05).

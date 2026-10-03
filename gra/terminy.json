@@ -7057,6 +7057,42 @@
    "wraca": "300-07-05",
    "zamyka": "nowa ksiega Skarbu w trzech kolumnach",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "WYMAN - PRZEPUSTOWOSC BIALEGO PORTU: list Krola i Namiestnika - Dom Tally finansuje sklad przy nabrzezu, drugi zuraw i pomost przeladunkowy (Kasa 1); port i oplaty Wymana. RZUT przy odpowiedzi.",
+   "kto": "KROL + SYMON -> WYMAN MANDERLY",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-06-15",
+   "zamyka": "odpowiedz Wymana (rzut) + miejsce na nabrzezu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "GORACY PORT - POMOST TYMCZASOWY Z DREWNA I JEDEN ZURAW przy ujsciu (pod zboze Reach w X 300; nabrzeze GP-7 dopiero lato 301). Harlon, Dom placi, drewno z kolejki, mur od morza bez zmian. Wlasni - bez rzutu.",
+   "kto": "SYMON -> GARRICK -> HARLON",
+   "kanal": "kruk Winterfell-Fosa (06-07)",
+   "wraca": "300-09-15",
+   "zamyka": "pomost i zuraw gotowe na pierwszy statek z Reach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "REACH - MANDAT KORONY DLA PRZEDSTAWICIELA DOMU W HIGHGARDEN: kontrakt w imieniu Korony - zboze za drewno/sol/futra/tran, cena z gory, wiele lat, eskorta Redwyne'a; wyladunek Goracy Port (do czasu - Dustinport). Odpowiedz Olenny po zniwach (rzut 59 juz padl).",
+   "kto": "KROL/SYMON -> HAL -> przedstawiciel -> OLENNA",
+   "kanal": "kruk do Hala + statek do Reach",
+   "wraca": "300-08-15",
+   "zamyka": "odpowiedz Olenny na kontrakt Korony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "PRZETWARZANIE TOWARU Z DANIN W WARSZTATACH DOMU (garbarnia, przedzalnia/farbiarnia, wedzarnia, bednarnia, warzelnia) - Gawen + Hal: ile z 1/3 sprzedawanej mozna przerobic, prowizja Domu, cena po obrobce. Wlasni - bez rzutu.",
+   "kto": "GAWEN + HAL",
+   "kanal": "Winterfell / kruk BP",
+   "wraca": "300-07-05",
+   "zamyka": "liczba w nowej ksiedze Skarbu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

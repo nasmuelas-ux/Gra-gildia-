@@ -6814,6 +6814,15 @@
    "wraca": "300-06-02",
    "zamyka": "imie pisarza + dzien wyjazdu Branna",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-30",
+   "co": "LIST DO SER CORWINA (przedstawienie Branna Mokrego, podzial urzedow, wspolpraca) - potwierdzenie odbioru w meldunku Corwina.",
+   "kto": "SYMON -> CORWIN",
+   "kanal": "kruk Winterfell-Deepwood + jezdziec Gloverow na Kamienny Brzeg",
+   "wraca": "300-06-04",
+   "zamyka": "potwierdzenie odbioru",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

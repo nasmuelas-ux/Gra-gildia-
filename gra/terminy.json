@@ -5382,7 +5382,7 @@
    "kanal": "kruk Czarny Zamek-Winterfell",
    "wraca": "300-05-29",
    "zamyka": "poselstwo przeszlo za Mur z przewodnikiem (albo nie - i dlaczego)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-29 (rzut 20) - przeszlo za Mur 05-27 ze starszym przewodnikiem; kruk o Benjena spoznil sie o dzien - czeka u Clydasa."
   },
   {
    "data": "300-05-15",
@@ -5445,7 +5445,7 @@
    "kanal": "kruk Winterfell-Raventree (przez Riverrun)",
    "wraca": "300-05-29",
    "zamyka": "odpowiedz Blackwooda (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-29 (rzut 1) - odmowa: 'Drzewo w Raventree nie rozmawia z kronikarzami.'"
   },
   {
    "data": "300-05-18",
@@ -5742,7 +5742,7 @@
    "kanal": "kruk Winterfell-Fosa (05-21) + jezdziec Fosa-Dustinport (4 dni); kruk Winterfell-Deepwood (05-21)",
    "wraca": "300-05-29",
    "zamyka": "potwierdzenie odbioru z Dustinportu i Deepwood",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-29 - odbior potwierdzony (Torren, Harl, Theon; Robett)."
   },
   {
    "data": "300-05-20",
@@ -5830,9 +5830,9 @@
    "co": "ROZKAZ DO VEMUNDA OD KOTWY (i SIGRUN) PO NARADZIE O STARKPORCIE: (1) Vemund ZOSTAJE na Cyplu - przyczolek staje sie PRZYSTANIA KORONY DLA WOLNYCH LUDZI (pomost, szopy, kwit; ziarno/narzedzia/sol morzem przez niego; widzi, kto przysiegal); (2) spis imienny ~40 ludzi: kto Vemunda, kto Sigrun; (3) reszta wg rozstrzygniec narady (Sigrun, twierdza na Kamiennym Brzegu). Wlasni ludzie Korony - bez rzutu na wykonanie. ### 05-21: SIGRUN I JEJ OSADNICY PRZECHODZA NA KAMIENNY BRZEG (do Starkportu); warunki Sigrun ida z nia. ### 05-21: OSADNICY SIGRUN JADA OD RAZU - stawiaja palisade na Kamiennym Brzegu RAZEM Z CORWINEM (Corwin ~05-28). ### 05-21: TWIERDZA STARKPORTU - najwyzszy punkt nad Zatoka Kamieni, przy wsi Branna Mokrego; palisada E1 tam (pierwszy pierscien). WODA NA SZCZYCIE: zrodlo/studnia/cysterna - zapytac Branna PRZED pierwszym palem. ### 05-21: PROJEKT - WEYLIN (pomiar zatoki i wody, potem port, mur, miasto, budynki). Pierwsza odpowiedz o wodzie - Brann Corwinowi (~05-28). Pismo: Tobin Szala, pieczec Krola.",
    "kto": "SYMON -> VEMUND + SIGRUN",
    "kanal": "kruk Winterfell-Fosa (05-21) + jezdziec Fosa-Dustinport + lodz na Cypel",
-   "wraca": "300-05-29",
+   "wraca": "300-06-25",
    "zamyka": "rozkaz na Cyplu (E ~05-29); potwierdzenie w karcie Starkportu 06-25",
-   "status": "otwarte"
+   "status": "W DRODZE/NA MIEJSCU (E 05-29) - potwierdzenie z karta Starkportu 06-25."
   },
   {
    "data": "300-05-21",
@@ -5859,7 +5859,7 @@
    "kanal": "Winterfell + rozkaz do Sigrun (kruk Winterfell-Fosa + jezdziec + lodz)",
    "wraca": "300-05-29",
    "zamyka": "obsada imienna + koszt + skad przedza",
-   "status": "otwarte"
+   "status": "CZESCIOWO 300-05-29 - koszt: Gawen pyta Hala o wzor warzelni Domu (06-08); obsada - Sigrun z karta 06-25; sieci - Brann (~05-30)."
   },
   {
    "data": "300-05-21",
@@ -6147,7 +6147,7 @@
    "kanal": "kruk Winterfell-Barrowton (05-25) i z powrotem; kruk Winterfell-Fosa + jezdziec do Dustinportu",
    "wraca": "300-05-29",
    "zamyka": "zgoda Barbrey (rzut) + data zaladunku",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-29 (rzut 3) - Barbrey: nie przed zniwami; sprzedaz po zniwach (VIII). Osadnicy do zniw - komory Korony albo Seagard."
   },
   {
    "data": "300-05-25",
@@ -6183,7 +6183,7 @@
    "kanal": "kruk Winterfell-Barrowton (05-25) i z powrotem",
    "wraca": "300-05-29",
    "zamyka": "odpowiedz Barbrey (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-29 (rzut 7) - przyjmuje odsiecz; pora i miejsce ognia tylko z czlowiekiem osobiscie w Barrow Hall."
   },
   {
    "data": "300-05-25",
@@ -6291,7 +6291,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-29",
    "zamyka": "lista kandydatow + plan szkolenia z datami",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-29 - Odo Kreska, Jeyne Tablica, Hother Krzywy, Willem ze Studni; szkolenie u Bryena 06-01-07-15; objazd po 06-12."
   },
   {
    "data": "300-05-25",
@@ -6742,6 +6742,33 @@
    "wraca": "300-05-29",
    "zamyka": "list wyslany",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-29",
+   "co": "OSADNICY SIGRUN - ZBOZE DO ZNIW (Barbrey sprzeda dopiero po zniwach, rzut 3): Orland - przerzut z komor Korony albo pierwszy ladunek z Seagardu; przewoz morzem kadlubami Torrena. Siewne i zapas nietykalne.",
+   "kto": "ORLAND KORZEC (+ Torren przewoz)",
+   "kanal": "Winterfell + kruk Winterfell-Fosa",
+   "wraca": "300-06-06",
+   "zamyka": "zrodlo zboza dla osadnikow do zniw (razem z karta Spichlerza)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-29",
+   "co": "BARBREY - CZLOWIEK OSOBISCIE W BARROW HALL (pora i miejsce ognia, szew Barrowlandy-Dustinport): kto jedzie - Donnel z Dustinportu albo ktos z Fosy/Korony. Do slowa pana.",
+   "kto": "SYMON (decyzja)",
+   "kanal": "Winterfell",
+   "wraca": "300-06-01",
+   "zamyka": "decyzja, kto jedzie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-29",
+   "co": "SOLARNIA KAMIENNEGO BRZEGU - KOSZT ZALOZENIA (wzor: warzelnia Domu, Kasa 1) - Hal podaje Gawenowi.",
+   "kto": "HAL -> GAWEN",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-06-08",
+   "zamyka": "koszt panwi i warzelni na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -6924,7 +6951,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-05-22",
+   "ostatnio_odebrane": "300-05-29",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

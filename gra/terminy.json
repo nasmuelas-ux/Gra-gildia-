@@ -6508,6 +6508,15 @@
    "wraca": "300-06-03",
    "zamyka": "odpowiedz Cerwyna (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "WYKONAWCY DROG - ZAPLECZE: (1) kwatery przy stacjach mulow (Warryn - ile miejsc na stacje, ktora stacja pierwsza); (2) WIKT Z LENNA - Orland/Warryn dopisuja geby ekip do karty zywnosciowej Fosy (dni chleba); (3) SZKOLA FOSY liczy dzieci rodzin przybywajacych; (4) MIASTO CAILIN - Herwin i lawa: gdzie osiada ten, kto zostaje (dzialki, rok i dzien). Wlasni ludzie (bez rzutu) - Herwin/lawa przy dzialkach to wola miasta, rzut tylko jesli lawa ma uchwalac.",
+   "kto": "WARRYN + ORLAND + SZKOLA FOSY + HERWIN",
+   "kanal": "kruk Winterfell-Fosa (05-26 po poludniu, z rozkazem o traktach) i z powrotem",
+   "wraca": "300-06-08",
+   "zamyka": "liczba kwater na stacje, geby w karcie zimy, liczba dzieci, miejsce osadnictwa w Cailin",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

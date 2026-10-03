@@ -115,3 +115,10 @@
 | **T3-C** | Castle Cerwyn → Winterfell (~25 mil), poprawa Traktu Królewskiego | Król (domena) | ręce domeny | do Króla razem z traktem 1 — **06-10** | VII, po sianokosach | odcinek gotowy przed mrozem — **10-15** |
 
 **Kamień:** pan kupuje kamień od Flintów (300-05-26). Granit z Palca idzie łodzią do Gorącego Portu i barką w górę Gorączki do Cailin. Ilość ustala człowiek Fosy na Palcu, a zgoda Flinta na większą ilość to rzut przy odpowiedzi (**05-28**).
+
+## ZAPLECZE WYKONAWCÓW (decyzja pana 300-05-26, przy śniadaniu, na pytania Miry)
+- **Kwatery przy stacjach mułów.** Każda stacja to popas, woda, kowal, waga i kwatera ekipy odcinka.
+- **Fosa karmi** ekipy na odcinkach lenna. Gęby ekip trzeba dopisać do karty zimy Orlanda (uwaga Miry: dni chleba się skrócą).
+- **Szkoła Fosy liczy dzieci** przybywających rodzin.
+- **Cailin i całe lenno to wielki plac budowy.** Kto zostanie, zamieszka w mieście Cailin.
+- Termin: **06-08**.

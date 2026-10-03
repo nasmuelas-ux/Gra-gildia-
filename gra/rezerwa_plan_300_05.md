@@ -61,3 +61,5 @@
 - **Zachęta: (b) ULGA W CZYNSZU DOMENY** — **1/10 czynszu za pełny rok** ćwiczeń (wszystkie dni + tydzień jesienny); kto opuści bez powodu, traci ulgę na ten rok (Król).
 - Start: Kamienny Brzeg VI, domena VII, tydzień jesienny IX/X. Koszt kompletu z łukiem i dziesiętników — Gawen (~05-27).
 - **ZAWODY ŁUCZNICZE DLA GMINU na targach i jarmarkach** (Namiestnik) — stały zwyczaj. Nagroda: łuk ze zbrojowni Korony + imię na słupie targowym (Król); reszta — Gawen. Pierwsze: Zimowe Miasto, w dzień pierwszego ćwiczenia rezerwy domeny (VII). Łuk wręcza Arya.
+
+- **300-05-30: ULGA TAKŻE DLA MIESZCZAN ZIMOWEGO MIASTA** (Namiestnik publicznie, na pytanie bednarza Torvina Obręcza). ⚠ Do potwierdzenia przez Króla (ulga domeny była jego słowem, zasada 22). Gawen liczy ubytek czynszu razem z miastem (06-10).

@@ -6655,7 +6655,7 @@
   },
   {
    "data": "300-05-27",
-   "co": "REZERWA - UBYTEK CZYNSZU Z ULGI 1/10 - z ksiag wsi domeny.",
+   "co": "REZERWA - UBYTEK CZYNSZU Z ULGI 1/10 - z ksiag wsi domeny. ### 05-30: liczyc RAZEM Z MIASTEM (ulga dla mieszczan).",
    "kto": "GAWEN",
    "kanal": "Winterfell",
    "wraca": "300-06-10",
@@ -6831,6 +6831,15 @@
    "kanal": "Winterfell",
    "wraca": "300-06-03",
    "zamyka": "imiona dwoch gwardzistow Aryi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-30",
+   "co": "ULGA REZERWY DLA MIESZCZAN ZIMOWEGO MIASTA - slowo Namiestnika na placu 05-30; potwierdzenie Krola (zasada 22 - ulga domeny byla slowem Krola 05-24) i wpis na slup Korony.",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-31",
+   "zamyka": "potwierdzenie Krola + ogloszenie na slupie",
    "status": "otwarte"
   }
  ],

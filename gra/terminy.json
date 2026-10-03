@@ -4608,7 +4608,7 @@
    "kanal": "jezdziec w gory (po znalezieniu czlowieka)",
    "wraca": "300-05-25",
    "zamyka": "meldunek z gor: gdzie, co, ile (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 (rzut 34) - odpowiedzial tylko Wull: przewodnik tak, za udzial z wydobycia; reszta cisza"
   },
   {
    "data": "300-04-28",
@@ -4831,9 +4831,9 @@
    "co": "KAMIENNY BRZEG - 50 WETERANOW Z WINTERFELL (dobiera Ulric Sekaty) + ser Corwin Lodowy; WYJAZD PO UCZCIE; palisada i wieza sygnalowa przy lancuchu ogni Gloverow.",
    "kto": "CORWIN + ULRIC",
    "kanal": "marsz Winterfell - Kamienny Brzeg",
-   "wraca": "300-05-25",
+   "wraca": "300-05-28",
    "zamyka": "oddzial na miejscu, palisada zaczeta",
-   "status": "otwarte"
+   "status": "otwarte - w drodze, na brzegu ~05-28"
   },
   {
    "data": "300-05-02",
@@ -5038,9 +5038,9 @@
    "co": "STRAZ GRANICY CYPLA NA KOSZT KORONY - pilnuje ROBETT GLOVER (lancuch ogni). Prosba Galbarta: rozkaz dla Robetta PRZEZ GALBARTA jako pana Deepwood ('Deepwood sluzy Koronie, a nie Korona zabrala mi brata'). Koszt - GAWEN liczy (Kasa 3); sklad i liczba ludzi - Robett.",
    "kto": "KROL/SYMON -> GALBART -> ROBETT; GAWEN",
    "kanal": "kruk Winterfell-Deepwood",
-   "wraca": "300-05-25",
+   "wraca": "300-06-06",
    "zamyka": "rozkaz przez Galbarta + stawka Gawena",
-   "status": "otwarte"
+   "status": "otwarte - Robett (rzut 24): bez slowa Galbarta nie stawia; Galbart w Deepwood ~06-05"
   },
   {
    "data": "300-05-10",
@@ -5103,7 +5103,7 @@
    "kanal": "trakt Dreadfort-Winterfell",
    "wraca": "300-05-25",
    "zamyka": "obaj u Grima",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 (rzut 40) - Tybald Lamacz i Ralf od Pieca w Winterfell; 05-26 do Grima"
   },
   {
    "data": "300-05-11",
@@ -5193,7 +5193,7 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Bialy Port",
    "wraca": "300-05-25",
    "zamyka": "beczulka i przepisy w Bialym Porcie (wiesc od Nesty albo od Wymana)",
-   "status": "otwarte - wiesc z odpowiedzia Wymana ~05-25"
+   "status": "ZAMKNIETE 300-05-25 - doszla; Wyman dziekuje, Nelda ma miejsce przy jego stole"
   },
   {
    "data": "300-05-12",
@@ -5481,7 +5481,7 @@
    "kanal": "kruk Fosa-Winterfell",
    "wraca": "300-05-25",
    "zamyka": "karta kosztow na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 - zold 200 ~12 smokow/mies. (E, kurs); pasza jazdy osobno od zniw"
   },
   {
    "data": "300-05-18",
@@ -5499,7 +5499,7 @@
    "kanal": "zbiorcze (kruk Fosa-Winterfell)",
    "wraca": "300-05-25",
    "zamyka": "kurzawka opanowana - stan w zbiorczym",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 - pale weszly, kladzenie wraca od 05-21"
   },
   {
    "data": "300-05-18",
@@ -5524,9 +5524,9 @@
    "co": "CERWYN - PRZYSPIESZONY POMIAR GRANICY HORNWOOD/DREADFORT: jezdziec Korony za Justycjariuszem w objezdzie zachodu z pismem Namiestnika - najblizsza data pomiaru (tryb 04-02: dwie pieczecie, pisarz rewizji). Urzednik Korony - bez rzutu na wykonanie; data zalezy od tego, gdzie jest w objezdzie.",
    "kto": "CERWYN (Justycjariusz) <- SYMON",
    "kanal": "jezdziec Korony na zachod (trasa objazdu w kancelarii) i z powrotem - E ~3 dni w jedna strone",
-   "wraca": "300-05-25",
+   "wraca": "300-06-12",
    "zamyka": "data pomiaru od Cerwyna",
-   "status": "otwarte"
+   "status": "otwarte - data pomiaru 06-12"
   },
   {
    "data": "300-05-19",
@@ -5670,7 +5670,7 @@
    "kanal": "kruk Winterfell-Fosa (05-21 - nawalnica 05-20) i z powrotem",
    "wraca": "300-05-25",
    "zamyka": "Latarnia i Bagienne Ogrody w kolejce z miejscem i kosztem etapami; rachunki Weylina (spad kola, siec pary)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 - w kolejce po Cailin III (301/302 E); spad - czeka na Weylina/Orwyna"
   },
   {
    "data": "300-05-19",
@@ -5715,7 +5715,7 @@
    "kanal": "kruk Winterfell-Fosa (05-21) i z powrotem",
    "wraca": "300-05-25",
    "zamyka": "plan Willi na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 - plan: kupiec ksiag z Braavos (Harlaw, Lordsport), meldunek przez Braavos/Neste; nie zdazy przed ogniami - 3-4 tyg."
   },
   {
    "data": "300-05-20",
@@ -5751,7 +5751,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-21) i z powrotem",
    "wraca": "300-05-25",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 (rzut 71) - tak; eskorta tylko Redwyne (slowo Olenny za wnuka)"
   },
   {
    "data": "300-05-20",
@@ -5787,7 +5787,7 @@
    "kanal": "kruk Winterfell-Barrowton (05-21) i z powrotem",
    "wraca": "300-05-25",
    "zamyka": "odpowiedz Barbrey (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 (rzut 81) - tak; cena soli dla eskadry raz w roku, jesienia"
   },
   {
    "data": "300-05-20",
@@ -5814,7 +5814,7 @@
    "kanal": "kruk Czarny Zamek/Winterfell - Bialy Port",
    "wraca": "300-05-25",
    "zamyka": "kopia wyslana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 - wyslana do Davosa"
   },
   {
    "data": "300-05-21",
@@ -5868,7 +5868,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-25",
    "zamyka": "oferta: sprzedajacy, liczba, cena, droga (potem rzut przy zakupie)",
-   "status": "otwarte"
+   "status": "PRZYSZLO 300-05-25 - dwie oferty: Hornwood (taniej, daleko) / Rills (blizej, drozej); decyzja Symona, zakup - rzut"
   },
   {
    "data": "300-05-21",
@@ -5886,7 +5886,7 @@
    "kanal": "kruk Winterfell-Fosa (05-21) i z powrotem",
    "wraca": "300-05-25",
    "zamyka": "imie zastepcy albo lista spraw wstrzymanych do powrotu Weylina",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 - przewloka: Tommard Kosa; port wschodni i spad Latarni czekaja na Weylina/Orwyna (~07-01)"
   },
   {
    "data": "300-05-21",
@@ -5931,7 +5931,7 @@
    "kanal": "Fosa (lawa 05-23) + kruk Fosa-Winterfell",
    "wraca": "300-05-25",
    "zamyka": "uchwala lawy z liczba lub udzialem (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-25 (rzut 12) - lawa tylko polowa latarni; bruk - lenno w calosci albo czeka"
   },
   {
    "data": "300-05-22",
@@ -6148,6 +6148,33 @@
    "wraca": "300-05-29",
    "zamyka": "zgoda Barbrey (rzut) + data zaladunku",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "BRUK CAILIN (etap III) - lawa nie dolozy (rzut 12, 'droga do zamku to droga lorda'). Decyzja pana: lenno placi bruk w calosci albo bruk czeka. Latarnie - polowa miasto.",
+   "kto": "SYMON -> GARRICK + HERWIN",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-05-28",
+   "zamyka": "decyzja pana o bruku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "WULL - UDZIAL W ZELAZIE: Wull daje przewodnika, chce udzialu z tego, co sie wyniesie z jego gor. Ziemia klanow - decyzja Krola (Symon przedklada).",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-28",
+   "zamyka": "odpowiedz Krola dla Wulla",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "OWCE DLA KAMIENNEGO BRZEGU - wybor oferty: HORNWOOD (Owcze Wzgorza, taniej, ~5 tyg. pedzenia E, pieniadz do Larence'a) albo RILLS (Ryswellowie, blizej, drozej). Zakup - RZUT.",
+   "kto": "SYMON -> GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-05-28",
+   "zamyka": "wybor + list do sprzedajacego",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -6244,7 +6271,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-05-16",
+   "ostatnio_odebrane": "300-05-23",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -6292,7 +6319,7 @@
     "dzien_miesiaca": 20
    },
    "opoznienie": 5,
-   "ostatnio_odebrane": "300-04-20",
+   "ostatnio_odebrane": "300-05-20",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

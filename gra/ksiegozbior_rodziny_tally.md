@@ -48,6 +48,6 @@
 ---
 
 ## DO ZROBIENIA
-- Księgi z izby przy Schodach (nr 1–4, 12) i z atelier (nr 8, 9) **są w Białym Porcie**. Przewiezienie ich do Winterfell to osobna sprawa (wozem Domu albo z Tessą i Margą przy następnej okazji).
+- **300-05-30 ROZKAZ PANA: wszystkie księgi z Białego Portu jadą do Wieży Strażniczej** (Hal, wozem Domu przez Cerwyn, ~06-10/12). Z atelier (nr 8, 9) przyjadą **odpisy**, oryginały zostają przy szwaczkach (prośba Miry).
 - Odpis *Zielnika* dla lecznicy Niny: do skryptorium na Fosie, gdy ruszy (~06-20/22).
 - Ten spis jest zalążkiem katalogu biblioteki na III piętrze. Księgi z zamówienia przez Hala i Nestę (lista Luwina, pięć działów) dojdą jako księgi rodziny albo Korony, zależnie od tego, kto zapłaci.

@@ -6841,6 +6841,15 @@
    "wraca": "300-05-31",
    "zamyka": "potwierdzenie Krola + ogloszenie na slupie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-30",
+   "co": "KSIEGI RODZINY Z BIALEGO PORTU DO WIEZY STRAZNICZEJ (izba przy Schodach: Gwiazda, Rachunek braavoski, Prawa BP, Rzeki i trakty, Standardy audytu; z atelier - odpisy ksiegi krojow i rejestru probek wg prosby Miry). Wozem Domu przez Cerwyn, Kasa 1; odbiera kasztelan.",
+   "kto": "HAL -> KASZTELAN WINTERFELL",
+   "kanal": "kruk Winterfell-Bialy Port + woz Domu traktem",
+   "wraca": "300-06-12",
+   "zamyka": "skrzynie w bibliotece Wiezy Strazniczej",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -6922,6 +6922,33 @@
    "wraca": "300-06-12",
    "zamyka": "lista imienna na stole + zold liczony od dnia przyjecia",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-03",
+   "co": "KAMIENNY BRZEG - PUNKT OGNIA: ser Corwin wskazuje miejsce (widzi najblizszy punkt Gloverow, uzgodnione z Robettem), imiona straznikow z jego piecdziesieciu, dzien pierwszego zapalenia. Stawka Korony z Kasy 3 (Gawen dopisuje). Bez rzutu (wlasny).",
+   "kto": "SYMON -> CORWIN; ROBETT; GAWEN",
+   "kanal": "kruk Winterfell-Deepwood + jezdziec Gloverow; meldunek ta sama droga",
+   "wraca": "300-06-14",
+   "zamyka": "punkt ognia Kamiennego Brzegu w lancuchu, imiennie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-03",
+   "co": "WPINY KROLA - 'STRAZNIK LANCUCHA OGNIA' (zelazo, plomien) i 'OBRONCA WYBRZEZA' (srebro, wilk nad fala): wzor Krol + Symon, wykuwa MIKKEN, koszt Gawen (Kasa 3). Pierwsza partia gotowa. Bez rzutu (ludzie zamku).",
+   "kto": "MIKKEN; GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-06-20",
+   "zamyka": "pierwsze wpiny w skarbcu Korony + koszt w ksiedze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-03",
+   "co": "OGLOSZENIE KROLA O WPINACH do panow wybrzeza (Glover, Tallhart, Dustin, Mormont, Flint, Corwin, Torren) - kruki 06-04 rano. Odzew panow (szczegolnie Flint: honor, nie zold) - JEDEN RZUT na cala fale przy odpowiedziach.",
+   "kto": "KROL -> PANOWIE WYBRZEZA",
+   "kanal": "kruki z wiezy Luwina; do Palca przez Fose + lodz",
+   "wraca": "300-06-14",
+   "zamyka": "odpowiedzi panow (rzut) + pierwsze imiona do wpinow z meldunku Robetta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

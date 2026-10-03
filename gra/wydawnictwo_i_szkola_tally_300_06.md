@@ -11,7 +11,7 @@
 |---|---|---|
 | **Skryptorium** | Ilario (mistrz, z Braavos, przyjazd ~06-20) + czterech pisarzy z Braavos; uczniowie Głębokorzenia jako czeladnicy | **50 skrybów** w skryptorium, wydawnictwie i drukarni razem |
 | **Drukarnia** | Wat + czeladnik; prasa śrubowa; pierwsza odbitka czysta 05-22 (tablica kursu i miar, 40 odbitek); kalendarz 301 w klockach | część wydawnictwa |
-| **Papiernia** | Wat, dwie kadzie, skup szmat w BP | **dostawca** wydawnictwa, osobna księga |
+| **Papiernia** | Wat, dwie kadzie na Fosie (młyn poza miastem), skup szmat w BP | **dostawca** wydawnictwa, osobna księga · **06-05: rozkaz pana — druga papiernia na Fosie (drugi młyn) i trzecia w Zimowym Mieście; Dom płaci; Wat odpowie, czy prowadzi sam** |
 | **Szkoła Fosy** | pod Mirą; sześciu pisarzy od 299-06; koszt 9/mies | **300 uczniów · 40 nauczycieli · 20 pracowników** |
 | **Siedziba docelowa** | Latarnia Pióra i Płomienia (projekt Cailin, Miasto Górne; kolejka po Cailin III, 301/302 E) | do czasu Latarni: izby na Fosie (rozpisze Garrick) |
 

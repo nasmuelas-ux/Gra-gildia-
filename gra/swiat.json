@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 5,
-  "dzien": 27,
+  "dzien": 28,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 26 (300-05-27) - chlodno, mzawka ze wschodu; jedna konsekwencja: dziedziniec cwiczebny w blocie - cwiczenia pod dachem (ujezdzalnia, zbrojownia).",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 90 (300-05-28) - piekny dzien: slonce od switu, cieplo, lekki wiatr z poludnia; blotko schnie do poludnia.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

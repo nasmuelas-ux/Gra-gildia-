@@ -4788,7 +4788,7 @@
    "kanal": "kruk Winterfell-Fosa i Winterfell-Bialy Port (05-01); trakt Fosa-BP, statek do Wschodniej Straznicy, Mur",
    "wraca": "300-05-28",
    "zamyka": "Wystan w Czarnym Zamku przy Aemonie (meldunek przez Hallisa/Clydasa)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-28 (rzut 74) - Wystan w Czarnym Zamku 05-26 wieczorem, przy Aemonie."
   },
   {
    "data": "300-05-01",
@@ -4831,9 +4831,9 @@
    "co": "KAMIENNY BRZEG - 50 WETERANOW Z WINTERFELL (dobiera Ulric Sekaty) + ser Corwin Lodowy; WYJAZD PO UCZCIE; palisada i wieza sygnalowa przy lancuchu ogni Gloverow.",
    "kto": "CORWIN + ULRIC",
    "kanal": "marsz Winterfell - Kamienny Brzeg",
-   "wraca": "300-05-28",
+   "wraca": "300-05-31",
    "zamyka": "oddzial na miejscu, palisada zaczeta",
-   "status": "otwarte - w drodze, na brzegu ~05-28"
+   "status": "otwarte - 05-28: nie przyszlo i wiadomo dlaczego (wiezy ognia jeszcze nie ma; jezdziec do Deepwood + kruk ~05-31)"
   },
   {
    "data": "300-05-02",
@@ -5128,9 +5128,9 @@
    "co": "KAMIENNY BRZEG - ETAPY (zatwierdzone 05-11): E0 50 weteranow na miejscu ~05-28; E1 palisada + wieza w lancuchu ogni ~06-15; E2 50 miejscowych ~06-30; E3 rezerwa z rybakow + Wielki Zarzadca ~08-31. Meldunek Corwina na kazdy etap. ### 05-21: OSADNICY SIGRUN (61 wg 03-16) dolaczaja od razu - stawiaja palisade razem z Corwinem; Starkport na Kamiennym Brzegu (Krol, rzut 73). ### 05-21: MIEJSCE - najwyzszy punkt nad Zatoka Kamieni przy wsi Branna Mokrego (twierdza Starkportu); palisada + wieza ognia tam; woda (zrodlo/cysterna) przed pierwszym palem.",
    "kto": "CORWIN + ULRIC",
    "kanal": "lancuch ogni / kruk przez Deepwood",
-   "wraca": "300-05-28",
+   "wraca": "300-05-31",
    "zamyka": "E0 - garnizon na miejscu",
-   "status": "otwarte"
+   "status": "otwarte - 05-28: nie przyszlo i wiadomo dlaczego (wiezy ognia jeszcze nie ma; jezdziec do Deepwood + kruk ~05-31)"
   },
   {
    "data": "300-05-11",
@@ -5697,7 +5697,7 @@
    "kanal": "kruki Winterfell-Deepwood / Kwadrat Torrhena / Barrowton / Palec / Wyspa Niedzwiedzia (05-21)",
    "wraca": "300-05-28",
    "zamyka": "karta ognia z czterema ogniami w punktach + miejsca zbiorki od panow",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-28 (rzut 27) - miejsca zbiorki: Glover (Deepwood), Tallhart (Kwadrat Torrhena), Dustin (Barrowton), Mormontowie (Zatoka Lodu); FLINT Z PALCA - bez miejsca zbiorki, broni Palca (odsiecz do niego)."
   },
   {
    "data": "300-05-20",
@@ -5967,7 +5967,7 @@
    "kanal": "kruk Winterfell-Fosa (05-22) + lodz/jezdziec na Palec + kruk z Fosy",
    "wraca": "300-05-28",
    "zamyka": "rachunek kamienia od Flinta (ile, czym, ktoredy) + zgoda Flinta (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-28 (rzut 70) - TAK: dwie lodzie granitu na tydzien do zniw (E), cena ze slupa, czesc w soli i zbozu; Warryn wpisuje do kolejki."
   },
   {
    "data": "300-05-22",

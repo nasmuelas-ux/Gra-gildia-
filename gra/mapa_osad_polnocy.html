@@ -1,0 +1,209 @@
+<title>Nowe osady i porty Północy</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Spectral:wght@400;600&family=IBM+Plex+Sans+Condensed:wght@400;600&display=swap">
+<style>
+/* Układ: duża mapa na całą szerokość z przybliżaniem i przesuwaniem, pod nią legenda, niżej rejestr; klik w rejestrze przybliża miejsce. */
+:root{
+  --bg:#eef0ee; --panel:#f8f9f7; --fg:#1f2522; --muted:#5d6762; --line:#c9cfcb;
+  --crown:#1d3f8f; --tally:#d9560c; --mixed:#b0560f; --lord:#5a3a1e; --free:#2f7a28;
+  --accent:#d9560c;
+  --display:"IM Fell English SC", "Spectral", Georgia, serif;
+  --body:"Spectral", Georgia, serif;
+  --ui:"IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#151a19; --panel:#1c2321; --fg:#e4e8e3; --muted:#9aa5a0; --line:#2f3a37; --accent:#f08a45; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#151a19; --panel:#1c2321; --fg:#e4e8e3; --muted:#9aa5a0; --line:#2f3a37; --accent:#f08a45; color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:1400px;margin:0 auto;padding-inline:16px;padding-block:20px 48px}
+header h1{font-family:var(--display);font-weight:400;font-size:clamp(28px,4.4vw,42px);line-height:1.1;margin:0;text-wrap:balance}
+header p{color:var(--muted);margin:6px 0 0;max-width:75ch}
+header a{color:var(--accent)}
+.stamp{font-family:var(--ui);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
+
+.mapbox{position:relative;margin-top:16px;height:min(86vh,1100px);min-height:420px;background:#0b0d0c;border:1px solid var(--line);border-radius:6px;overflow:hidden;touch-action:none;cursor:grab;user-select:none}
+.mapbox.drag{cursor:grabbing}
+.mapbox svg{display:block;width:100%;height:100%}
+.ctl{position:absolute;top:10px;right:10px;display:flex;flex-direction:column;gap:6px;z-index:2}
+.ctl button{font-family:var(--ui);font-size:18px;font-weight:600;min-width:40px;height:40px;padding:0 10px;border-radius:6px;border:1px solid #0006;background:#fffffff0;color:#111;cursor:pointer}
+.ctl button.wide{font-size:13px}
+.hint{position:absolute;left:10px;bottom:10px;font-family:var(--ui);font-size:12px;color:#fff;background:#000a;padding:4px 8px;border-radius:4px;pointer-events:none}
+
+.legend{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:12px;font-family:var(--ui);font-size:13.5px;align-items:center}
+.legend span{display:inline-flex;align-items:center;gap:7px}
+.legend .sep{width:1px;height:18px;background:var(--line)}
+
+.mk .body{stroke:#fff;stroke-width:2}
+.mk.pap .body{fill:#fffffff0 !important;stroke-width:3.2;stroke-dasharray:4 2.5}
+.mk text{font-family:var(--ui);font-size:13px;font-weight:600;fill:#111;paint-order:stroke;stroke:#fff;stroke-width:3.6px;stroke-linejoin:round;cursor:pointer}
+.mk text.small{font-size:11.5px}
+.mk{cursor:pointer}
+.mk.sel .halo{display:block}
+.halo{display:none;fill:none;stroke:#ffd23f;stroke-width:4}
+.route{fill:none;stroke-width:3;stroke-dasharray:7 5;vector-effect:non-scaling-stroke}
+.rlbl{font-family:var(--ui);font-weight:600;font-style:italic;fill:#111;paint-order:stroke;stroke:#fff;stroke-linejoin:round}
+
+section{margin-top:28px}
+section h2{font-family:var(--ui);font-weight:600;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+.reg{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:18px}
+.group h3{font-family:var(--display);font-weight:400;font-size:20px;margin:0 0 6px;display:flex;align-items:center;gap:8px}
+.group h3 i{width:11px;height:11px;border-radius:50%;display:inline-block}
+.group ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+.group li{border-bottom:1px solid var(--line)}
+.group li button{all:unset;box-sizing:border-box;width:100%;padding:8px 4px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;cursor:pointer;border-radius:4px}
+.group li button:hover,.group li button:focus-visible{background:color-mix(in srgb,var(--accent) 10%,transparent)}
+.group li button.on{background:color-mix(in srgb,var(--accent) 16%,transparent)}
+.group li b{font-weight:600}
+.group li .where{grid-column:1/-1;color:var(--muted);font-size:13.5px}
+.pill{font-family:var(--ui);font-size:11.5px;letter-spacing:.04em;padding:1px 8px;border-radius:999px;border:1px solid var(--line);white-space:nowrap;align-self:start}
+.pill.stoi{background:color-mix(in srgb,var(--free) 18%,transparent)}
+.pill.bud{background:color-mix(in srgb,var(--tally) 18%,transparent)}
+.pill.pap{border-style:dashed}
+.note{font-family:var(--ui);font-size:12.5px;color:var(--muted);margin-top:14px;max-width:90ch}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="stamp">Kancelaria Namiestnika · stan na 300-05-26</div>
+  <h1>Nowe osady i porty Północy</h1>
+  <p>Fundacje z rejestru osad naniesione na mapę Północy gracza. Kółkiem myszy albo dwoma palcami przybliżasz, przeciągając przesuwasz. Kliknięcie miejsca w rejestrze pod mapą od razu je przybliża. Pełna mapa świata: <a href="https://quartermaester.info/" target="_blank" rel="noopener">quartermaester.info</a>.</p>
+</header>
+
+<div class="mapbox" id="box">
+  <svg id="map" viewBox="0 0 575 620" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Mapa Północy z nowymi osadami i portami">
+    <image href="mapa_polnocy_gracza.png" x="0" y="0" width="575" height="620"/>
+    <g id="routes"></g>
+    <g id="marks"></g>
+  </svg>
+  <div class="ctl">
+    <button id="zin" aria-label="Przybliż">+</button>
+    <button id="zout" aria-label="Oddal">−</button>
+    <button id="zall" class="wide">cała</button>
+  </div>
+  <div class="hint" id="hint">przybliż: kółko / szczypanie · przesuń: przeciągnij</div>
+</div>
+
+<div class="legend">
+  <span><svg width="14" height="14"><circle cx="7" cy="7" r="6" fill="var(--crown)"/></svg>Korona</span>
+  <span><svg width="14" height="14"><circle cx="7" cy="7" r="6" fill="var(--tally)"/></svg>Dom Tally</span>
+  <span><svg width="14" height="14"><circle cx="7" cy="7" r="6" fill="var(--mixed)"/></svg>Tally i Manderly po połowie</span>
+  <span><svg width="14" height="14"><circle cx="7" cy="7" r="6" fill="var(--lord)"/></svg>Lordowie (Karstark, Bolton, Flint)</span>
+  <span><svg width="14" height="14"><circle cx="7" cy="7" r="6" fill="var(--free)"/></svg>Wolni ludzie</span>
+  <span class="sep"></span>
+  <span><svg width="14" height="14"><rect x="3" y="3" width="8" height="8" transform="rotate(45 7 7)" fill="var(--fg)"/></svg>port / przystań</span>
+  <span><svg width="14" height="14"><circle cx="7" cy="7" r="5" fill="var(--fg)"/></svg>osada / miasto</span>
+  <span><svg width="14" height="14"><circle cx="7" cy="7" r="5" fill="none" stroke="var(--fg)" stroke-width="1.6" stroke-dasharray="3 2"/></svg>przerywany: tylko na papierze</span>
+  <span><svg width="26" height="8"><line x1="0" y1="4" x2="26" y2="4" stroke="var(--fg)" stroke-width="2" stroke-dasharray="5 3"/></svg>trakt / przewłoka</span>
+</div>
+
+<section>
+<h2>Rejestr miejsc · kliknij, aby pokazać na mapie</h2>
+<div class="reg" id="reg"></div>
+<p class="note">Podkład to mapa gracza z granicami rodów, więc przy dużym przybliżeniu się rozmywa. Położenia nowych miejsc są przybliżone. Karport i Boltonsgate stoją nad Morzem Drżącym, na wybrzeżu Karholdu i Dreadfortu. Starkport stoi na Kamiennym Brzegu od 300-05-21 (Król, rzut 73), a Cypel Morskiego Smoka przeszedł na wolnych ludzi.</p>
+</section>
+</div>
+
+<script>
+const COL={crown:'#1d3f8f',tally:'#d9560c',mixed:'#b0560f',lord:'#5a3a1e',free:'#2f7a28'};
+const OWN=[['crown','Korona'],['tally','Dom Tally'],['mixed','Tally i Manderly'],['lord','Lordowie'],['free','Wolni ludzie']];
+const PILL={stoi:'stoi',bud:'w budowie',pap:'na papierze'};
+// x,y w układzie mapy 575×620; t: p = port, o = osada; s: stoi / bud / pap; a: strona etykiety
+const P=[
+ {id:'stark',n:'Starkport',x:40,y:395,o:'crown',t:'p',s:'bud',a:'r',big:1,d:'Kamienny Brzeg, twierdza na szczycie nad Zatoką Kamieni przy wsi Branna. Karta miasta pod pieczęcią (05-24), palisada z Corwinem i Sigrun, pomiar Weylina ~06-05.'},
+ {id:'vem',n:'Przystań Vemunda',x:80,y:292,o:'crown',t:'p',s:'stoi',a:'b',d:'Vemund od Kotwy: pomost, trzy szopy, ok. 40 ludzi. Przystań Korony dla wolnych ludzi.'},
+ {id:'cypel',n:'Cypel – wolni ludzie',x:102,y:282,o:'free',t:'o',s:'pap',a:'t',d:'Cypel Morskiego Smoka. Ziemia z nadania Króla, każde ognisko osobno. Poselstwo Dacey jest w drodze do Mance’a.'},
+ {id:'dust',n:'Dustinport',x:142,y:461,o:'crown',t:'p',s:'stoi',a:'r',d:'Przystań rzeczna pod Barrowton, 226 ludzi, eskadra Torrena.'},
+ {id:'e2',n:'ujście E2',x:136,y:480,o:'crown',t:'p',s:'pap',a:'l',sm:1,d:'Etap E2 Dustinportu: nabrzeże u ujścia, latarnia i solarnia lady Dustin.'},
+ {id:'wilk',n:'Przystań Wilka',x:300,y:372,o:'crown',t:'p',s:'bud',a:'r',d:'Zakole górnego Białego Noża. Korona ½, Cerwyn ¼, Manderly ¼. Baszta pod dachem do 06-14. W spisie przystani wschodu figuruje jako „Biały Nóż (zalążek)”.'},
+ {id:'ruda',n:'Ruda',x:226,y:226,o:'crown',t:'o',s:'bud',a:'r',sm:1,d:'Obóz rudny w Wilczym Lesie nad Czerwonym Strumieniem: ekipa Grima i dwaj ludzie z Dreadfortu.'},
+ {id:'fosa',n:'Fosa · Cailin',x:232,y:497,o:'tally',t:'o',s:'bud',a:'t',big:1,d:'Miasto z ławą i prawem składu. Wieże, mur kurtynowy, spichlerze, Pomarańczowy Dwór i Latarnia Pióra.'},
+ {id:'gor',n:'Gorący Port',x:210,y:512,o:'tally',t:'p',s:'bud',a:'l',d:'Zachodnie wybrzeże u ujścia Gorączki. Mur od morza i wieża ognia, docelowo siedziba Głębokorzenia.'},
+ {id:'ujm',n:'Ujście T–M',x:294,y:507,o:'mixed',t:'p',s:'pap',a:'r',d:'Port wschodni na końcu przewłoki, po połowie z Manderlym. Najpierw pomost.'},
+ {id:'kar',n:'Karport',x:538,y:262,o:'lord',t:'p',s:'pap',a:'l',d:'Karstark. Miasto portowe z prawem składu, na wybrzeżu Karholdu nad Morzem Drżącym.'},
+ {id:'bol',n:'Boltonsgate',x:484,y:322,o:'lord',t:'p',s:'pap',a:'r',d:'Bolton. Miasto portowe z prawem składu na wybrzeżu Dreadfortu, za budowę obu przystani.'},
+ {id:'ost',n:'Ostatnia Rzeka',x:458,y:268,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Karholdu. Zapis nie mówi, że stoi.'},
+ {id:'plw',n:'Płacząca Woda',x:452,y:312,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Dreadfortu. Zapis nie mówi, że stoi.'},
+ {id:'zg',n:'Złamana Gałąź',x:410,y:300,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Dreadfortu. Zapis nie mówi, że stoi.'},
+ {id:'fok',n:'Zatoka Fok',x:500,y:362,o:'lord',t:'p',s:'pap',a:'r',sm:1,d:'Przystań Flintów z Wdowiej Strażnicy. Zapis nie mówi, że stoi.'},
+];
+const R=[
+ {n:'trakt S1 do Deepwood',d:'M40 395 L70 362 L112 326 L168 280',c:COL.crown,lx:118,ly:338},
+ {n:'przewłoka',d:'M232 497 L262 503 L294 507',c:COL.tally,lx:232,ly:524},
+];
+
+const NS='http://www.w3.org/2000/svg';
+const svg=document.getElementById('map'), box=document.getElementById('box');
+const gm=document.getElementById('marks'), gr=document.getElementById('routes');
+const el=(t,a,p)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);if(p)p.appendChild(e);return e};
+
+R.forEach(r=>{el('path',{d:r.d,class:'route',stroke:r.c},gr);r.t=el('text',{class:'rlbl',x:r.lx,y:r.ly},gr);r.t.textContent=r.n});
+
+P.forEach(p=>{
+  const g=el('g',{class:'mk '+(p.s==='pap'?'pap':''),'data-id':p.id},gm);
+  const inner=el('g',{},g); p.g=g; p.inner=inner;
+  const s=p.big?9:p.t==='p'?7.5:7;
+  el(p.t==='p'?'rect':'circle',p.t==='p'?{class:'halo',x:-s-6,y:-s-6,width:2*s+12,height:2*s+12,rx:4,transform:'rotate(45)'}:{class:'halo',r:s+7},inner);
+  if(p.t==='p') el('rect',{class:'body',x:-s,y:-s,width:2*s,height:2*s,transform:'rotate(45)',fill:COL[p.o],stroke:COL[p.o]},inner);
+  else el('circle',{class:'body',r:s,fill:COL[p.o],stroke:COL[p.o]},inner);
+  if(p.s==='pap') inner.lastChild.style.stroke=COL[p.o];
+  const off=s+6, pos={r:[off,4.5,'start'],l:[-off,4.5,'end'],t:[0,-off-2,'middle'],b:[0,off+12,'middle']}[p.a];
+  const tx=el('text',{x:pos[0],y:pos[1],'text-anchor':pos[2],class:p.sm?'small':''},inner); tx.textContent=p.n;
+  g.addEventListener('click',e=>{e.stopPropagation();select(p.id,false)});
+});
+
+// widok
+const W=575,H=620; let vb={x:0,y:0,w:W,h:H};
+function aspect(){const r=box.getBoundingClientRect();return r.height/r.width}
+function apply(){
+  svg.setAttribute('viewBox',`${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
+  const k=vb.w/box.getBoundingClientRect().width*1.3; // jednostki mapy na piksel ekranu, z zapasem na czytelność
+  P.forEach(p=>{p.g.setAttribute('transform',`translate(${p.x} ${p.y})`);p.inner.setAttribute('transform',`scale(${k})`)});
+  R.forEach(r=>{r.t.setAttribute('font-size',12*k);r.t.setAttribute('stroke-width',3.4*k)});
+}
+function fit(){const a=aspect();if(H/W>a){vb.h=H;vb.w=H/a}else{vb.w=W;vb.h=W*a}vb.x=(W-vb.w)/2;vb.y=(H-vb.h)/2;apply()}
+function zoomAt(f,cx,cy){
+  const a=aspect(),maxW=Math.max(W,H/a)*1.2;
+  let nw=Math.min(maxW,Math.max(45,vb.w*f));f=nw/vb.w;
+  vb.x=cx-(cx-vb.x)*f;vb.y=cy-(cy-vb.y)*f;vb.w=nw;vb.h=nw*a;apply();
+}
+function toMap(clientX,clientY){const r=box.getBoundingClientRect();return[vb.x+(clientX-r.left)/r.width*vb.w,vb.y+(clientY-r.top)/r.height*vb.h]}
+function center(x,y,w){const a=aspect();vb.w=w;vb.h=w*a;vb.x=x-w/2;vb.y=y-vb.h/2;apply()}
+
+box.addEventListener('wheel',e=>{e.preventDefault();const[m,n]=toMap(e.clientX,e.clientY);zoomAt(Math.exp(e.deltaY*0.0015),m,n);hideHint()},{passive:false});
+const pts=new Map();let last=null;
+box.addEventListener('pointerdown',e=>{if(e.target.closest('.ctl'))return;box.setPointerCapture(e.pointerId);pts.set(e.pointerId,[e.clientX,e.clientY]);box.classList.add('drag');last=null;hideHint()});
+box.addEventListener('pointermove',e=>{
+  if(!pts.has(e.pointerId))return;const prev=pts.get(e.pointerId);pts.set(e.pointerId,[e.clientX,e.clientY]);
+  const r=box.getBoundingClientRect(),k=vb.w/r.width;
+  if(pts.size===1){vb.x-=(e.clientX-prev[0])*k;vb.y-=(e.clientY-prev[1])*k;apply()}
+  else if(pts.size===2){const[a,b]=[...pts.values()];const d=Math.hypot(a[0]-b[0],a[1]-b[1]);const mx=(a[0]+b[0])/2,my=(a[1]+b[1])/2;
+    if(last){const[m,n]=toMap(mx,my);zoomAt(last.d/d,m,n);vb.x-=(mx-last.mx)*k;vb.y-=(my-last.my)*k;apply()}last={d,mx,my}}
+});
+const up=e=>{pts.delete(e.pointerId);last=null;if(!pts.size)box.classList.remove('drag')};
+box.addEventListener('pointerup',up);box.addEventListener('pointercancel',up);
+document.getElementById('zin').onclick=()=>zoomAt(1/1.5,vb.x+vb.w/2,vb.y+vb.h/2);
+document.getElementById('zout').onclick=()=>zoomAt(1.5,vb.x+vb.w/2,vb.y+vb.h/2);
+document.getElementById('zall').onclick=()=>{select(null);fit()};
+function hideHint(){document.getElementById('hint').style.display='none'}
+new ResizeObserver(()=>{const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;vb.h=vb.w*aspect();vb.x=cx-vb.w/2;vb.y=cy-vb.h/2;apply()}).observe(box);
+
+// rejestr
+const reg=document.getElementById('reg');
+OWN.forEach(([o,name])=>{
+  const items=P.filter(p=>p.o===o);if(!items.length)return;
+  const d=document.createElement('div');d.className='group';
+  d.innerHTML=`<h3><i style="background:${COL[o]}"></i>${name}</h3><ul></ul>`;
+  items.forEach(p=>{const li=document.createElement('li');li.innerHTML=`<button data-id="${p.id}"><b>${p.n}</b><span class="pill ${p.s}">${PILL[p.s]}</span><span class="where">${p.d}</span></button>`;
+    li.firstChild.onclick=()=>select(p.id,true);d.querySelector('ul').appendChild(li)});
+  reg.appendChild(d);
+});
+function select(id,zoom){
+  P.forEach(p=>p.g.classList.toggle('sel',p.id===id));
+  document.querySelectorAll('.reg button').forEach(b=>b.classList.toggle('on',b.dataset.id===id));
+  if(!id)return;const p=P.find(q=>q.id===id);gm.appendChild(p.g);
+  if(zoom){center(p.x,p.y,200);box.scrollIntoView({behavior:'smooth',block:'center'})}
+}
+fit();
+</script>

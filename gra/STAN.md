@@ -25,7 +25,13 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**123 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**122 otwartych** · **0 PRZETERMINOWANYCH** · 4 wraca dzis
+
+### 🟡 WRACA DZIS
+- ZAKUPY ZBOZA LATO 300 - PLAN NA STOL KROLA: liczba (Orland), koszt i zrodlo monety (Gawen), kanaly (Rodwell, Hal). Decyzja Krola. · _kanal:_ Winterfell
+- T1-B ODNOGA DO BLIZNIAKOW - przebieg z pomiaru Brenna z Brodu na stol Krola razem z planem zbozowym i T3-C. Dlug Korony wobec Wald… · _kanal:_ Winterfell
+- RECKAWICE DO JAZDY DLA LADY BARBREY DUSTIN - prezent od Miry (pani domu pani domu): ciemna skora z Zimowego Miasta, srebrne wyszyc… · _kanal:_ Winterfell
+- BRAN + JOJEN + MEERA -> SYMON: CO JOJEN POWIEDZIAL BRANOWI (umowa 05-13: 'dowiemy sie razem; wtedy ty zdecydujesz, czy pomozesz').… · _kanal:_ osobiscie, izba Brana
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -579,7 +585,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-26** — DERON SUCHY (Rozdroze) - KTO KUPUJE, KTO SPRZEDAJE: kto na Rozdrozu kupuje chleb i zboze (garnizony? wsie?), a kto sprzedaje - z wozow i rachunkow gospody. Do aktu zlamania ugody (~06-28). · _kto:_ **DERON SUCHY** · _zamyka:_ odpowiedz Derona na pismie
 - **300-05-26** — BENJEN STARK - PYTANIE DOLACZONE DO POSELSTWA DACEY: za Murem, ustnie, u Mance'a i wsrod dzikich - czy ktos widzial albo slyszal o Benjenie (Pierwszy Zwiadowca, wyszedl z szescioma, nie wrocil). Jawnie, z imieniem. Jesli poselstwo juz za Murem - list u Clydasa do powrotu (wiesc 05-29). · _kto:_ **SYMON -> CLYDAS -> DACEY MORMONT** · _zamyka:_ odpowiedz poselstwa o Benjenie (z rzutem spotkania z Mance'em)
 - **300-05-27** — SZKLO Z MYR - WYMIAR RAM SZKLARNI (szerokosc, wysokosc tafli, liczba) od WERRANA -> Hal -> Myr. Bez miary Myr nie wycenia. · _kto:_ **WERRAN (Fosa) -> HAL** · _zamyka:_ wymiar tafli i liczba u Hala
-- **300-05-27** — TRAKT S1 - CZLOWIEK DO POMIARU Z TYCZKA od Gloverow - za slowem GALBARTA (w Deepwood ~06-05). Robett zgodzil sie na trakt (rzut 26). · _kto:_ **GALBART -> ROBETT GLOVER** · _zamyka:_ imie czlowieka do pomiaru (bez nowego rzutu - sprawa ma rzut 26)
+- **300-05-27** — TRAKT S1 - CZLOWIEK DO POMIARU Z TYCZKA od Gloverow - za slowem GALBARTA (w Deepwood ~06-05). Robett zgodzil sie na trakt (rzut 26). · _kto:_ **GALBART -> ROBETT GLOVER** · _zamyka:_ imie czlowieka do pomiaru (bez nowego rzutu - sprawa ma rzut 26) **⚠ ZAMKNIETE 300-06-07 - GALBART: HOLT SOSNA, LESNIK ROBETTA; WYJDZIE Z TYCZKA, GDY MIERNICZY KORONY PRZYJDZIE DO DEEPWOOD.**
 - **300-05-27** — REZERWA - UBYTEK CZYNSZU Z ULGI 1/10 - z ksiag wsi domeny. ### 05-30: liczyc RAZEM Z MIASTEM (ulga dla mieszczan). · _kto:_ **GAWEN** · _zamyka:_ ubytek czynszu na pismie
 - **300-05-27** — WINDA W WIEZY STRAZNICZEJ - PROBA Z PODWOJNYM CIEZAREM (pięc poprawek). RZUT przy probie. · _kto:_ **CIESLA + KOWAL ZAMKOWY** · _zamyka:_ proba udana / co poprawic (rzut)
 - **300-05-27** — SPICHLERZ POLNOCY ETAP I - SLOWO PANA (i Krola): formularz zgloszenia (karta z czterema kolumnami i data) pod pieczecia Krola do kazdego lorda? Na pismie nie zglosil sie nikt (rzut 2). · _kto:_ **SYMON -> KROL** · _zamyka:_ decyzja o formularzu **⚠ ZAMKNIETE 300-05-27 - TAK: FORMULARZ POD PIECZECIA KROLA (ORLAND SKLADA, TOBIN PRZEPISUJE).**
@@ -795,10 +801,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-06 ranek · zima (300)
+- **Data:** 300-06-07 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 45**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 19**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1693,8 +1699,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-06] `ELLARD_CERWYN`: Wizyta Symona 06-06: pisze rowniej (Luwin), list do Jonelle wyslany koniec V, je pod okiem Helgi, noce spokojne. Pokazal w Dziejach Pierwszych Ludzi ustep o Krolach Kurhanow i Wielkim Kurhan…
-- [300-06-06] `ksiega_mistyki_polnocy_300_04`: ZBIEZNOSC (stos a): Wielki Kurhan nad Pierwszym Krolem; Krolowie Kurhanow = 'Krolowie Pierwszych Ludzi'; wojny ze Starkami o to slowo - Niania (bajka 5, 06-03) i 'Dzieje Pierwszych Ludzi' (o…
 - [300-06-06] `dziennik`: 300-06-06 POZNE POPOLUDNIE, DROGA POD BRAMA LOWCOW / BRAMA POLUDNIOWA - SPACER: Symon, Mira, Lyra, Kamyk; dwaj przyboczni. Bez rzutow. Chmury sie przecieraja, cieplo. Ida sciezka wzdluz muro…
 - [300-06-06] `starkowie/BRAN`: Czekal na murze nad brama od poludnia (Hodor). Reedowie przyjechali przed wieczorem.
 - [300-06-06] `dziennik`: 300-06-06 WIECZERZA, WIELKA SALA - SYMON Z MIRA; ZAPRASZA JOJENA I MEERE REED DO WYSOKIEGO STOLU I PRZEDSTAWIA ICH. Bez rzutu (goscinnosc, prawo goscia). Reedowie przebrani w czyste koszule …
@@ -1705,3 +1709,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-06] `starkowie/BRAN`: Wieczor: Jojen (rzut 24) - nie dzis, najpierw sam z Branem; 'On pije, zeby nie snic. A on musi snic.' Bran pyta Symona, czy pic napar dzis.
 - [300-06-06] `dziennik`: 300-06-06 POZNY WIECZOR, IZBA BRANA (cd.) - SYMON: 'Nie pij dzis. Porozmawiaj z Jojenem. Jutro mi powiecie.' Bez rzutu. Bran odsuwa kubek na brzeg stolu - nie wylewa, tylko odsuwa. Kiwa glow…
 - [300-06-06] `starkowie/BRAN`: Symon: nie pij dzis, porozmawiaj z Jojenem, jutro mi powiecie. Pierwsza noc bez naparu od przyjazdu Reedow; Meera wartuje przy drzwiach.
+- [300-06-06] `dziennik`: 300-06-06 POZNY WIECZOR, IZBA NIANI - BAJKA 12: O BAELU BARDZIE I ZIMOWEJ ROZY. Bez rzutu. Dopisek Niani: 'Spisujcie imiona dzikich na Cyplu. Wszystkie. Zeby za piecdziesiat lat nikt nie zab…
+- [300-06-07] `dziennik`: 300-06-07 RANEK (SOBOTA), WINTERFELL - SEN RZUT 40: noc przecietna; zdrowie 100, zmeczenie 47->19, sytosc 100->72. POGODA RZUT 40: pochmurno, chlodniej, wiatr z polnocy, bez deszczu; kruki l…

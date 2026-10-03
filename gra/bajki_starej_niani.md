@@ -221,4 +221,23 @@
 
 ---
 
+## 12. O BAELU BARDZIE I ZIMOWEJ RÓŻY
+*Spisane 300-06-06 późnym wieczorem, w izbie Niani. Niania wiedziała już, że przyjechali goście z bagien. „Dziś opowiem o gościu, który przyszedł z drugiej strony.”*
+
+> Był za Murem król, Bael, którego nazywali Bardem, bo grał i śpiewał tak, że kobiety płakały, a mężczyźni zapominali, po co wyciągnęli miecze.
+>
+> Przyszedł do Winterfell przebrany za zwykłego śpiewaka. Lord Stark, Brandon, posadził go przy ogniu, dał mu chleba i soli i słuchał pieśni przez całą zimę. A wiosną, z wdzięczności, powiedział: „Proś, o co chcesz.” Bael odpowiedział: „O kwiat. Najpiękniejszy, jaki rośnie w ogrodach Winterfell.”
+>
+> Zimowe róże właśnie zakwitły w szklarni, niebieskie jak lód. Lord się zgodził. Rano róże były na miejscu, ale **zniknęła córka lorda**. Bael wziął najpiękniejszy kwiat, tak jak obiecał.
+>
+> Szukano jej wszędzie, za Murem i przed Murem, i nie znaleziono. Dopiero po roku wróciła sama, z synkiem na ręku. Mówią, że przez cały ten czas mieszkali z Baelem **w kryptach, pod samym zamkiem**, między starymi królami, i nikt nie pomyślał, żeby tam zajrzeć.
+>
+> Ten synek wyrósł na lorda Winterfell. I kiedy wiele lat później Bael przyszedł z wojną, stanęli naprzeciw siebie, ojciec i syn. Bael poznał go i nie podniósł ręki. Syn nie poznał ojca. Zabił go. A kiedy matka zobaczyła głowę Baela na włóczni, rzuciła się z wieży.
+>
+> Dlatego, dziecko, kiedy przychodzi gość z drugiej strony i siedzi przy twoim ogniu, patrz mu w twarz i ucz się jej. Bo może kiedyś będziesz musiał ją poznać.
+
+*Dopisek spisującego:* Niania odłożyła przęślicę i powiedziała do mnie: *„Dajecie dzikim ziemię na Cyplu. Dobrze. Krew Starków i krew zza Muru już się raz pomieszały, panie, i nic złego się nie stało, dopóki ktoś nie zapomniał, czyja jest czyja. Spisujcie ich imiona. Wszystkie. Żeby za pięćdziesiąt lat nikt nie zabijał ojca, którego nie poznał.”*
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

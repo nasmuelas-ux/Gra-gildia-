@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 6,
+  "dzien": 7,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 53 (300-06-06) - pochmurno z przejasnieniami, cieplo, lekki wiatr z zachodu; kruki leca.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 40 (300-06-07) - pochmurno, chlodniej, wiatr z polnocy, bez deszczu; kruki leca.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

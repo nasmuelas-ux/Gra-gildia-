@@ -6642,7 +6642,7 @@
    "kanal": "kruk Winterfell-Deepwood",
    "wraca": "300-06-07",
    "zamyka": "imie czlowieka do pomiaru (bez nowego rzutu - sprawa ma rzut 26)",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-07 - Galbart: HOLT SOSNA, lesnik Robetta; wyjdzie z tyczka, gdy mierniczy Korony przyjdzie do Deepwood."
   },
   {
    "data": "300-05-27",
@@ -7205,7 +7205,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-05-23",
+   "ostatnio_odebrane": "300-06-07",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

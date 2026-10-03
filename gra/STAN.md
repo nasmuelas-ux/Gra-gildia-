@@ -804,7 +804,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-06-07 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 72 · Zmeczenie 19**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 19**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1699,7 +1699,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-06] `dziennik`: 300-06-06 POZNE POPOLUDNIE, DROGA POD BRAMA LOWCOW / BRAMA POLUDNIOWA - SPACER: Symon, Mira, Lyra, Kamyk; dwaj przyboczni. Bez rzutow. Chmury sie przecieraja, cieplo. Ida sciezka wzdluz muro…
 - [300-06-06] `starkowie/BRAN`: Czekal na murze nad brama od poludnia (Hodor). Reedowie przyjechali przed wieczorem.
 - [300-06-06] `dziennik`: 300-06-06 WIECZERZA, WIELKA SALA - SYMON Z MIRA; ZAPRASZA JOJENA I MEERE REED DO WYSOKIEGO STOLU I PRZEDSTAWIA ICH. Bez rzutu (goscinnosc, prawo goscia). Reedowie przebrani w czyste koszule …
 - [300-06-06] `howland_reed`: List przez Meere do Krola 06-06: pozdrowienia; dzieci zostaja w Winterfell 'jak dlugo ksiaze Brandon zechce'.
@@ -1711,3 +1710,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-06] `starkowie/BRAN`: Symon: nie pij dzis, porozmawiaj z Jojenem, jutro mi powiecie. Pierwsza noc bez naparu od przyjazdu Reedow; Meera wartuje przy drzwiach.
 - [300-06-06] `dziennik`: 300-06-06 POZNY WIECZOR, IZBA NIANI - BAJKA 12: O BAELU BARDZIE I ZIMOWEJ ROZY. Bez rzutu. Dopisek Niani: 'Spisujcie imiona dzikich na Cyplu. Wszystkie. Zeby za piecdziesiat lat nikt nie zab…
 - [300-06-07] `dziennik`: 300-06-07 RANEK (SOBOTA), WINTERFELL - SEN RZUT 40: noc przecietna; zdrowie 100, zmeczenie 47->19, sytosc 100->72. POGODA RZUT 40: pochmurno, chlodniej, wiatr z polnocy, bez deszczu; kruki l…
+- [300-06-07] `dziennik`: 300-06-07 SNIADANIE, WIELKA SALA - Symon z Mira i Lyra; Kamyk. Bez rzutow. Pochmurno, chlodny wiatr z polnocy - pierwszy raz od tygodnia ogien w kominku sali. Kasza jaglana z mlekiem, jajka,…

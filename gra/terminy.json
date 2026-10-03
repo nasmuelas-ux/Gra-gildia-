@@ -6246,7 +6246,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-26)",
    "wraca": "300-06-07",
    "zamyka": "pierwszy spis zakupow (bilans 06-05)",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-05 - pierwszy spis w bilansie: 4 ksiegi (~10 smokow E): Prawo morskie Braavos, Slownik braavosko-wspolny z elementarzem valyrianskiego, Miary wagi i monety Wolnych Miast, Siedmioramienna Gwiazda (septa BP). Ze Starego Miasta brak statku. Jada z ksiegami rodziny do Wiezy (~06-12). Zakup trwa dalej z kazdym statkiem - kolejny spis w bilansie 07-05."
   },
   {
    "data": "300-05-25",
@@ -6844,7 +6844,7 @@
   },
   {
    "data": "300-05-30",
-   "co": "KSIEGI RODZINY Z BIALEGO PORTU DO WIEZY STRAZNICZEJ (izba przy Schodach: Gwiazda, Rachunek braavoski, Prawa BP, Rzeki i trakty, Standardy audytu; z atelier - odpisy ksiegi krojow i rejestru probek wg prosby Miry). Wozem Domu przez Cerwyn, Kasa 1; odbiera kasztelan.",
+   "co": "KSIEGI RODZINY Z BIALEGO PORTU DO WIEZY STRAZNICZEJ (izba przy Schodach: Gwiazda, Rachunek braavoski, Prawa BP, Rzeki i trakty, Standardy audytu; z atelier - odpisy ksiegi krojow i rejestru probek wg prosby Miry). Wozem Domu przez Cerwyn, Kasa 1; odbiera kasztelan. ### 06-05: w tym samym wozie 4 ksiegi z zakupu Hala (dla biblioteki Domu/urzedu).",
    "kto": "HAL -> KASZTELAN WINTERFELL",
    "kanal": "kruk Winterfell-Bialy Port + woz Domu traktem",
    "wraca": "300-06-12",

@@ -22,7 +22,7 @@
 - **ŁAWA** — siedzi i **sądzi** (300-03-04 sądziła kowala Bruska od Miecha); **własna pieczęć miasta i podpisy ławy**
 - **SĄD GRODZKI** — Roderyk; opłaty sądowe rosną i zmieniają rodzaj spraw
 - **SŁUP** — nadania, listy z imionami, progi głodu, ceny; odświeżany każdego dnia targowego
-- **~1400 dusz z okładem** (spis Alys, 300-02-25) + 400 przybyszów w rejestrze dniówek Melli
+- **~1400 dusz z okładem** (spis Alys, 300-02-25) + 400 przybyszów w rejestrze dniówek Melli — to samo **miasto**. **Całe lenno Tally: ~12 500 dusz** (300-05-26, gracz; zastępuje szacunek E 15–20 tys. z 05-14).
 - **WAGA I TARG** działają · **miarka młynarska** · **opłata piecowa**
 - **Własne pismo do Korony** wysłane pod pieczęcią miasta, krukiem, 300-03-04
 

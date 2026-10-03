@@ -14,7 +14,7 @@
 | 2 | **Rachunek kupiecki braavoski**, podręcznik podwójnego zapisu | kupiony od kantoru Nesty w 297, kiedy Symon uczył się rachunku | izba przy Schodach | mocno zaczytany, marginesy pełne jego cyfr. To z niego wyrosły jego Standardy Audytu | **S** |
 | 3 | **Prawa i zwyczaje Białego Portu** (prawo kupieckie, miary, cła), odpis | kupiony od kancelisty Nowego Zamku w 298 | izba przy Schodach | do prawa składu i pierwszej karty celnej | **S** |
 | 4 | **Rzeki i trakty Północy**, zapiski żeglarza z Białego Noża | wymieniony za odpis listu u flisaka w 298 | izba przy Schodach | mapki rzeki rysowane ręką, mielizny i progi; korzystał z nich przy korytarzu rzecznym do Winterfell (298-10) | **S** |
-| 5 | **Pieśni i ballady Doliny** | Zimowe Miasto, od Oswina Skrzyni, 300-05-30, 1 smok | Winterfell, Wieża Strażnicza | mała, bez zdobień | **Z** |
+| 5 | **Pieśni i ballady Doliny** | Zimowe Miasto, od Oswina Skrzyni, 300-05-30, 1 smok | Winterfell, Wieża Strażnicza | mała, bez zdobień; pożyczona Branowi 05-31, oddana 06-03 (zakładka z liścia przy pieśni o Królu Gór i Dolin) | **Z** |
 | 6 | **Zielnik północny** | Zimowe Miasto, od Oswina Skrzyni, 300-05-30, 3 smoki | Winterfell | z dopiskami czyjegoś maestra; dla lecznicy Niny warto zrobić odpis | **Z** |
 | — | *książka o rachunkach* | **pożyczona od Nesty**, dalej pożyczona Halowi | u Hala | nie jest własnością rodziny | **Z** |
 

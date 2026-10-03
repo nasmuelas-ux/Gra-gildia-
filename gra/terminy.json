@@ -7029,6 +7029,15 @@
    "kanal": "Winterfell",
    "wraca": "300-06-07",
    "zamyka": "slowo pana i ruszony przerzut",
+   "status": "zrobione 300-06-06 - SLOWO PANA: przerzut rusza. (1) Zimowe Miasto ~2000-2600 korcy z komor Winterfell - wozy od poludnia, wydawanie przez kasztelana wg kart Orlanda; (2) Sigrun ~300 korcy - kruk do Torrena, lodz przez Dustinport."
+  },
+  {
+   "data": "300-06-06",
+   "co": "PRZERZUT Z KOMOR - WYKONANIE: Zimowe Miasto (wozy, kasztelan, wydawanie wg kart) i Sigrun (lodz Torrena przez Dustinport). Meldunek Orlanda: ile wydano, ile zostalo w komorach. Wlasne - bez rzutu.",
+   "kto": "ORLAND + KASZTELAN; TORREN",
+   "kanal": "Winterfell; kruk Winterfell-Fosa-Dustinport",
+   "wraca": "300-06-14",
+   "zamyka": "luka przednowku zamknieta + zboze u Sigrun",
    "status": "otwarte"
   }
  ],

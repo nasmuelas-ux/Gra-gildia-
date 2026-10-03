@@ -5760,7 +5760,7 @@
    "kanal": "kruk Winterfell-Fosa (05-21) + jezdziec Fosa-Dustinport (4 dni) i z powrotem",
    "wraca": "300-06-02",
    "zamyka": "harmonogram etapow z datami i nazwiskami na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-02 - kroki z datami (E1: 06-10 spis, 06-20 komora, 06-30 zalogi, 07-15 palisada+wieza, 08-15 szosty kadlub; E2: 09-01 pomiar ujscia, 10-15 szopy; nabrzeze+latarnia wiosna 301)."
   },
   {
    "data": "300-05-20",
@@ -6786,7 +6786,7 @@
    "kanal": "kruk Winterfell-Barrowton (05-29) i z powrotem",
    "wraca": "300-06-02",
    "zamyka": "odpowiedz Barbrey (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-02 (rzut 63) - TAK, dwie noce; jej czlowiek od ognisk przy rozmowie; pyta o kosci Willama."
   },
   {
    "data": "300-05-30",
@@ -6813,7 +6813,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-02",
    "zamyka": "imie pisarza + dzien wyjazdu Branna",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-02 - EDRIN PIORO (17 l., wnuk rybaka z Zatoki Kamieni); wyjazd z Brannem 06-03."
   },
   {
    "data": "300-05-30",
@@ -6858,6 +6858,51 @@
    "kanal": "Zgromadzenie rodziny",
    "wraca": "300-07-01",
    "zamyka": "liczba podana, akt podpisany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-02",
+   "co": "DUSTINPORT E1 - SPIS IMIENNY 226 ludzi przyczolka.",
+   "kto": "DONNEL OBROK",
+   "kanal": "jezdziec Dustinport-Fosa + kruk",
+   "wraca": "300-06-10",
+   "zamyka": "spis imienny",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-02",
+   "co": "DUSTINPORT E1 - PALISADA OD WODY I WIEZA OGNIA w lancuchu.",
+   "kto": "DONNEL + TORREN",
+   "kanal": "jak wyzej",
+   "wraca": "300-07-15",
+   "zamyka": "palisada i wieza ognia stoja",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-02",
+   "co": "DUSTINPORT E1 - SZOSTY KADLUB NA WODZIE (wodowanie od 07-01, zalogi imiennie do 06-30).",
+   "kto": "TORREN SOLNY",
+   "kanal": "jak wyzej",
+   "wraca": "300-08-15",
+   "zamyka": "szesc kadlubow na wodzie z imiennymi zalogami",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-02",
+   "co": "DUSTINPORT E2 - SZOPY ZIMOWE NA SZESC KADLUBOW (przed mrozem); pomiar ujscia 09-01.",
+   "kto": "DONNEL + czlowiek Orbela",
+   "kanal": "jak wyzej",
+   "wraca": "300-10-15",
+   "zamyka": "szopy na szesc",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-02",
+   "co": "BRANN MOKRY I EDRIN PIORO - WYJAZD NA KAMIENNY BRZEG (odpis listu do Corwina przy Brannie).",
+   "kto": "BRANN + EDRIN",
+   "kanal": "trakt Winterfell-Deepwood-Kamienny Brzeg",
+   "wraca": "300-06-03",
+   "zamyka": "wyjazd o swicie",
    "status": "otwarte"
   }
  ],
@@ -6955,7 +7000,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-05-23",
+   "ostatnio_odebrane": "300-06-01",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

@@ -79,3 +79,8 @@
 2. **Warsztat remontowy** — smoła z Deepwood, płótno, liny; drewno z Barrowton i z daniny Mormontów.
 3. **Rezerwa wioślarzy z rybaków** — spis przy ruszeniu, dni ćwiczeń (zgodnie z planem rezerwy Osrica).
 4. **Węzeł poczty do Starkportu** — stały rytm jeźdźca/łodzi.
+
+## DATY KROKÓW — Donnel Obrok i Torren Solny (300-06-02)
+- **E1:** spis imienny 226 — **06-10** · komora połowu z kwitem — **06-20** · załogi czterech kadłubów — **06-30** · wodowanie po kolei od **07-01**, szósty kadłub na wodzie — **08-15** · palisada od wody i wieża ognia — **07-15** · szew z Barrowlandami — przy wizycie Namiestnika w Barrow Hall (**~06-10**).
+- **E2:** pomiar ujścia — **09-01** (człowiek Orbela) · szopy zimowe na sześć — **10-15** · nabrzeże morskie i latarnia — **wiosna 301** · solarnia — według lady Barbrey.
+- **E3:** **301**.

@@ -36,4 +36,21 @@
 
 ---
 
+## 3. O DŁUGIEJ NOCY
+*Spisane 300-06-01 późnym wieczorem, w izbie Niani. Okno otwarte na ciepłą noc; Niania kazała je zamknąć, „zanim zacznę, bo to nie jest bajka na otwarte okno”.*
+
+> Dawno, dawno temu, osiem tysięcy lat i więcej, przyszła zima, która nie miała końca. Trwała całe pokolenie. Dzieci rodziły się w ciemności i umierały w ciemności, i nigdy nie widziały słońca. Mówią, że królowie zamarzali na swoich tronach, a pastuchy przy swoich owcach. Matki dusiły dzieci, żeby nie patrzyły, jak umierają z głodu, i płakały, a łzy zamarzały im na policzkach.
+>
+> I w tej ciemności po raz pierwszy przyszli **Inni**. Zimne, martwe rzeczy, które nienawidziły żelaza, ognia i dotyku słońca, i wszystkiego, w czym płynie gorąca krew. Jechali na bladych pająkach wielkich jak psy i zmiatali twierdze, miasta i królestwa. A bohaterowie, którzy wyszli przeciw nim, padali, i ich trupy wstawały i szły z Innymi.
+>
+> Ludzie nie mieli już dokąd uciekać. Wtedy ostatni bohater wyruszył szukać dzieci lasu, bo one znały dawną magię. Wziął miecz, konia, psa i kilku towarzyszy. Psa stracił, konia mu zamroziło, towarzysze padli jeden po drugim. A on szedł dalej, sam.
+>
+> *(Tu Niania przerwała i długo patrzyła w ogień.)*
+>
+> Co było dalej, każdy mówi inaczej. Ale wiadomo, czym się skończyło: Inni zostali zepchnięci na północ, a potem zbudowano Mur, żeby nigdy nie wrócili. I Starkowie z Winterfell przysięgli go pilnować.
+
+*Dopisek spisującego:* Spytałem, czym ostatni bohater ich pokonał. Niania odpowiedziała tylko: *„Stal nic nie robi, panie. Ogień robi. I czarne szkło, które rodzi się w ogniu. Tak mówiła moja babka. A wy już to wiecie, bo Król to powiedział na głos.”* Potem kazała mi otworzyć okno z powrotem.
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

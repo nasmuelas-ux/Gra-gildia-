@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 1,
+  "dzien": 2,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 81 (300-06-01) - slonecznie i cieplo, pierwszy letni dzien; drogi suche.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 60 (300-06-02) - cieplo, lekkie chmury, przyjemnie; bez konsekwencji.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

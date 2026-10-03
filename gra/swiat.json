@@ -1,14 +1,14 @@
 {
  "data": {
   "rok": 300,
-  "miesiac": 5,
-  "dzien": 30,
+  "miesiac": 6,
+  "dzien": 1,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 44 (300-05-30) - zmienne chmury, sucho, lagodnie; bez konsekwencji.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 81 (300-06-01) - slonecznie i cieplo, pierwszy letni dzien; drogi suche.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

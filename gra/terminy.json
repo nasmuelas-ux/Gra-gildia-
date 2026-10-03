@@ -7230,6 +7230,18 @@
    "opoznienie": 0,
    "ostatnio_odebrane": "300-06-05",
    "zrodlo": "rozkaz pana 300-05-19 (rada Sansy)"
+  },
+  {
+   "id": "KSIEGI_HALA",
+   "co": "HAL - KSIEGI KUPIONE W MIESIACU: spis (tytul, skad, za ile - E wg cennika 1-5 smokow) + wysylka wozem Domu przez Cerwyn do Winterfell, biblioteka Wiezy Strazniczej (odbiera kasztelan albo pan). Dzien po bilansie (rozkaz pana 300-06-05). Wlasny - bez rzutu; to, co przyplynelo statkami, zalezy od portu.",
+   "kto": "HAL",
+   "kanal": "kruk Bialy Port-Winterfell (spis) + woz Domu traktem (~7 dni)",
+   "rytm": {
+    "dzien_miesiaca": 6
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-06-06",
+   "zrodlo": "rozkaz pana 300-06-05"
   }
  ]
 }

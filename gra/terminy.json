@@ -6331,11 +6331,11 @@
   },
   {
    "data": "300-05-25",
-   "co": "DWA WOLY (wzor I normy okretowej Polnocy - handlowy) DLA DOMU TALLY - zamowienie w stoczni Bialego Portu przez Hala: stocznia, rysownik podlogi (czlowiek od linii - szkutnicy Wymana?), cena i termin wodowania z oferty; barwy Tally (flaga domu handlowego, kadlub smolny z pomaranczowym pasem). Kasa 1 poza buforem. Zgoda stoczni i termin - RZUT przy zamowieniu. Imiona statkow - pan.",
-   "kto": "SYMON -> HAL",
-   "kanal": "kruk Winterfell-Bialy Port (05-26) i z powrotem",
-   "wraca": "300-06-07",
-   "zamyka": "oferta stoczni: rysownik, cena, termin wodowania (rzut)",
+   "co": "DWA WOLY (wzor I normy okretowej Polnocy - handlowy) DLA DOMU TALLY - ### ZMIANA 05-25: BUDOWA W BRAAVOS (szybciej; ludzie od linii na miejscu). Nesta zamawia w stoczni braawijskiej (NIE nikt zwiazany z Orrello), Hal placi i przyjmuje w Bialym Porcie; norma okretowa (opis Wolu) idzie z listem; przeprowadzenie przez Morze Waskie - zaloga do ustalenia. Barwy Tally. Kasa 1 poza buforem. Zgoda stoczni, cena, termin - RZUT przy odpowiedzi Nesty. Imiona - pan.",
+   "kto": "SYMON -> NESTA (Braavos) przez HALA",
+   "kanal": "kruk Winterfell-Bialy Port (05-26) + statek BP-Braavos i z powrotem (~48 dni)",
+   "wraca": "300-07-15",
+   "zamyka": "oferta stoczni braawijskiej: cena, termin wodowania, przeprowadzenie (rzut)",
    "status": "otwarte"
   }
  ],

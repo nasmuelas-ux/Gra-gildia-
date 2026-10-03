@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**142 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**141 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -468,7 +468,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-19** — WILLA - CZEMU ZWINIETO POLUDNIE (pytanie Symona). Z zapisu: odstawienie rozkazem pana 300-03-03 po zwezeniu na Baelisha (r9, jedna reka milczy, firewall trzymal); kanal przejety (03-17) i grany swiadomie (03-19); trop zwiniety 04-28. Willa odpowiada: stan dzis - co zostalo z rak i z przejetego kanalu. ### DOPISANE 05-19: (a) USPIENI W MIESCIE KP wg rady Sansy (nie dwor; bez polnocnego akcentu; prawdziwy interes; tylko sluchanie, meldunek miesieczny); (b) DOKTRYNA: siatka poludniowa ROSNIE; przy wpadce odciac ogniwo, nie zatrzymywac calosci. Willa odpowiada planem. ### DOPISANE 05-19 (2): POSREDNIK Z MYR - co ustalono od 299-12-31 (rzut przy odpowiedzi). · _kto:_ **SYMON -> WILLA** · _zamyka:_ odpowiedz Willi: powod (03-03) + stan + PLAN usypiania w KP i doktryna odcinania **⚠ ZAMKNIETE 300-05-23 (RZUT 80) - POWOD, STAN (DWIE RECE USPIONE W KP), PLAN TRZECH USPIONYCH DO 07-01, DOKTRYNA PRZYJETA; POSREDNIK Z MYR PLACI PRZEZ DOM SZKLARSKI ORRELLO**
 - **300-05-19** — SIATKA POLUDNIOWA - PIERWSI USPIENI W KROLEWSKIEJ PRZYSTANI: osadzenie wg planu Willi (po odpowiedzi ~05-23). Rzut przy pierwszym meldunku (miasto obce - czy ktos sie osadzil i jak gleboko). Kanal siatki: 14 dni w jedna strone, 35 w obie. · _kto:_ **WILLA (siatka)** · _zamyka:_ pierwszy meldunek z miasta albo nazwana przyczyna braku
 - **300-05-19** — HAL - RAPORT ANALITYCZNY: ZLOTO LANNISTEROW W OCZACH RYNKU (z placowek: Braavos, Pentos, Seagard, Rozdroze, Reach od VI) - jak kupcy przyjmuja zloto i weksle Lwa, kredyt Lannisportu, czym placi Twierdza, co mowia nabrzeza o kopalniach Zachodu. Fakty i zrodla, bez dokladnych liczb; czego nie wie - pisze, ze nie wie. Wlasny czlowiek - bez rzutu. ### 05-19 POPRAWKA PANA: osobno, nie z bilansem - zestawienie z DOTYCHCZASOWYCH sygnalow rynkowych, bez nowego zbierania. · _kto:_ **HAL (Bialy Port)** · _zamyka:_ raport na pismie
-- **300-05-19** — DORZECZE - MAPA FRAKCJI z Sansa PO ODPOWIEDZI EDMURE'A/CATELYN (~05-26): kto przysiega Riverrun, gdzie garnizony Lannisterow, kto z kim w sporze (Blackwood/Bracken i inne), Harrenhal, Maidenpool; gdzie Polnoc moze pomoc godzic - PRZEZ EDMURE'A, nie ponad nim (rada Sansy). · _kto:_ **SYMON + SANSA** · _zamyka:_ mapa frakcji na karcie [5]
+- **300-05-19** — DORZECZE - MAPA FRAKCJI z Sansa PO ODPOWIEDZI EDMURE'A/CATELYN (~05-26): kto przysiega Riverrun, gdzie garnizony Lannisterow, kto z kim w sporze (Blackwood/Bracken i inne), Harrenhal, Maidenpool; gdzie Polnoc moze pomoc godzic - PRZEZ EDMURE'A, nie ponad nim (rada Sansy). · _kto:_ **SYMON + SANSA** · _zamyka:_ mapa frakcji na karcie [5] **⚠ ZAMKNIETE 300-05-26 - MAPA FRAKCJI DORZECZA NA KARCIE [5] Z SANSA (SZESC DOMOW PRZY RIVERRUN, MOOTON POD GARNIZONEM, FREY, GARNIZONY PEWNE: MAIDENPOOL I DARRY; RESZTA PO LISCIE ZWIADOWCOW ~06-26).**
 - **300-05-19** — NESTA - POSREDNIK Z MYR: od 299-12-31 (zlecenie Willa + Nesta) w ksiedze nic; co ustalila, kto za nim stoi albo czego nie wiadomo; czy dalej pyta o porty i zboze. Wlasny czlowiek; wynik ustalenia - RZUT przy meldunku. · _kto:_ **SYMON -> NESTA (Braavos)** · _zamyka:_ meldunek Nesty
 - **300-05-19** — OCHMISTRZ WYCHOWANKOW WINTERFELL - KANDYDACI: Gawen podaje 2-3 imiona metoda 'wsrod odstawionych' wg profilu (nakarmil i polozyl spac wielu obcych naraz i umial powiedziec ilu; nie Tally, nie Stark, taki, ktoremu da sie powiedziec). Symon wybiera, Krol zatwierdza; zgoda kandydata - RZUT. ### POPRAWKA 05-19: w domu jest 33 dzieci (31 z 26 domow od III + Walder + Ellard) - dom prowadza doraznie Luwin, Niania, ser Rodrik. ### 05-23 (rada Miry, slowo pana): PROBA PRZY OBIEDZIE 05-24 - Helga i Bennet przy stole wychowankow, bez mowienia po co; potem wybor (albo oboje: Helga - dom, Bennet - kuchnia domu) -> Krol -> zgoda (rzut). · _kto:_ **GAWEN -> SYMON -> KROL** · _zamyka:_ lista kandydatow na stole **⚠ ZAMKNIETE 300-05-24 - HELGA SZEROKA (OCHMISTRZYNI, RZUT 18: OD SWITU DO WIECZERZY, NOCE NIE JEJ - ZAJAZD W ZIMOWYM MIESCIE) + BENNET PIEKARZ (KUCHNIA, RZUT 73); KROL ZATWIERDZIL**
 - **300-05-19** — RACHMISTRZ WYCHOWANKOW WINTERFELL - obsadza Skarbnik ze swojej reki (podlega Skarbnikowi, nie Ochmistrzowi; fach i ksiegi nigdy w jednej rece). Wlasny czlowiek - bez rzutu. · _kto:_ **GAWEN** · _zamyka:_ imie rachmistrza w ksiedze Skarbu **⚠ ZAMKNIETE 300-05-24 - GAWEN: EDRIK PIORO (PISARZ SKARBU)**
@@ -752,7 +752,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-05-26 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 28**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 30**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 2 smokow + 55 jeleni + 1 mied
@@ -1597,9 +1597,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-26] `HAL`: 300-05-26 - Goracy Port (projekt pana, gra/goracy_port_projekt.md): platnikiem DOM (Kasa 1), choragiew Tallych. Etapy ponad mur i wieze ognia - nie zlecone.
-- [300-05-26] `dziennik`: 300-05-26 PRZED POLUDNIEM, SOLAR NA WIEZY - na polecenie pana ROZPISANE PUNKTY KONTROLNE trzech projektow: gra/punkty_kontrolne_projektow_300_05.md. GORACY PORT GP-0..10 (wieza ognia 06-15; …
-- [300-05-26] `dziennik`: 300-05-26 PRZED POLUDNIEM, SOLAR NA WIEZY - ⚑ PAN WYSYLA ROZKAZ DO FOSY I LIST DO HALA wg rozpiski punktow kontrolnych (gra/punkty_kontrolne_projektow_300_05.md). Kruki PO POLUDNIU (pogoda 1…
 - [300-05-26] `lenno/GARRICK`: 300-05-26 PRZED POLUDNIEM, SOLAR NA WIEZY - ⚑ PAN WYSYLA ROZKAZ DO FOSY I LIST DO HALA wg rozpiski punktow kontrolnych (gra/punkty_kontrolne_projektow_300_05.md). Kruki PO POLUDNIU (pogoda 1…
 - [300-05-26] `HAL`: 300-05-26 PRZED POLUDNIEM, SOLAR NA WIEZY - ⚑ PAN WYSYLA ROZKAZ DO FOSY I LIST DO HALA wg rozpiski punktow kontrolnych (gra/punkty_kontrolne_projektow_300_05.md). Kruki PO POLUDNIU (pogoda 1…
 - [300-05-26] `dziennik`: 300-05-26 PRZED POLUDNIEM, KRYTA UJEZDZALNIA (deszcz - dziedziniec cwiczebny mokry) - TRENING U MISTRZA Z BRAAVOS. Bez rzutu (wlasny czlowiek Korony). Mzawka, chlodno, piasek ujezdzalni wilg…
@@ -1609,3 +1606,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-26] `rodzina/MIRA`: 300-05-26 PO POLUDNIU, BOZOGAJ PRZY JARZEBINIE SIGURDA - SYMON PYTA MIRE, CZY CHCE MIEC KOLEJNE DZIECKO. Bez rzutu (rozmowa z zona; jej odpowiedz z postaci i z zapisu: porod 300-03-04 - syn …
 - [300-05-26] `dziennik`: 300-05-26 BOZOGAJ (cd.) - SYMON DO MIRY: chce po prostu, zeby sie kochali i byli blisko; czy z tego bedzie dziecko, czy nie - obojetne. Jesli chce, moga zapytac tez lekarza. Bez rzutu. MIRA …
 - [300-05-26] `rodzina/MIRA`: 300-05-26 BOZOGAJ (cd.) - SYMON DO MIRY: chce po prostu, zeby sie kochali i byli blisko; czy z tego bedzie dziecko, czy nie - obojetne. Jesli chce, moga zapytac tez lekarza. Bez rzutu. MIRA …
+- [300-05-26] `dziennik`: 300-05-26 POPOLUDNIE, KOMNATA SANSY - PRZEGLAD Z SANSA; SYMON PRZYPROWADZA MIRE, chce ja wprowadzic w gre krolewska (karty rodow, mapa frakcji). RZUT 30 (wola Sansy - kogo wpuszcza do kart):…
+- [300-05-26] `SANSA`: 300-05-26 POPOLUDNIE, KOMNATA SANSY - PRZEGLAD Z SANSA; SYMON PRZYPROWADZA MIRE, chce ja wprowadzic w gre krolewska (karty rodow, mapa frakcji). RZUT 30 (wola Sansy - kogo wpuszcza do kart):…
+- [300-05-26] `rodzina/MIRA`: 300-05-26 POPOLUDNIE, KOMNATA SANSY - PRZEGLAD Z SANSA; SYMON PRZYPROWADZA MIRE, chce ja wprowadzic w gre krolewska (karty rodow, mapa frakcji). RZUT 30 (wola Sansy - kogo wpuszcza do kart):…

@@ -6616,6 +6616,15 @@
    "wraca": "300-06-16",
    "zamyka": "odpowiedz Derona na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "BENJEN STARK - PYTANIE DOLACZONE DO POSELSTWA DACEY: za Murem, ustnie, u Mance'a i wsrod dzikich - czy ktos widzial albo slyszal o Benjenie (Pierwszy Zwiadowca, wyszedl z szescioma, nie wrocil). Jawnie, z imieniem. Jesli poselstwo juz za Murem - list u Clydasa do powrotu (wiesc 05-29).",
+   "kto": "SYMON -> CLYDAS -> DACEY MORMONT",
+   "kanal": "kruk Winterfell-Czarny Zamek (05-26 wieczor); odpowiedz z poselstwem",
+   "wraca": "300-06-20",
+   "zamyka": "odpowiedz poselstwa o Benjenie (z rzutem spotkania z Mance'em)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

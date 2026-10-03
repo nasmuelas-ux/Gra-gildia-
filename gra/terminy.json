@@ -6301,6 +6301,33 @@
    "wraca": "300-05-30",
    "zamyka": "imie mistrza i data albo 'pusto' z powodem",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "ZAKUPY ZBOZA LATO 300 - ILE: Orland + Gawen licza niedobor Polnocy do wiosny 301 (domena, garnizony 400+150, osady Sigrun i Cypel, przednowek Zimowego Miasta, rezerwa na wczesna zime); siewne osobno. Z kart Spichlerza i kart zywnosciowych.",
+   "kto": "ORLAND KORZEC + GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-06-06",
+   "zamyka": "liczba korcy z podzialem na kolumny (w karcie Spichlerza 06-06)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "ZAKUPY ZBOZA LATO 300 - KANALY I KOSZT: Rodwell (agencja) + Hal (Seagard, Obaro/Pentos, wyladunek BP) - ceny, fracht, terminy dostaw dla trzech kierunkow (Dorzecze, Reach, Pentos); Gawen - ile udzwignie Kasa 3 i co mozna zaplacic towarem. Kazdy kierunek osobno.",
+   "kto": "RODWELL + HAL + GAWEN",
+   "kanal": "Winterfell + kruk Winterfell-Bialy Port",
+   "wraca": "300-06-08",
+   "zamyka": "trzy karty kierunkow z cena i terminem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "ZAKUPY ZBOZA LATO 300 - PLAN NA STOL KROLA: liczba (Orland), koszt i zrodlo monety (Gawen), kanaly (Rodwell, Hal). Decyzja Krola.",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-06-10",
+   "zamyka": "decyzja Krola o zakupie (rzut przy kontraktach)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

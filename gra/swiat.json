@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 5,
-  "dzien": 29,
+  "dzien": 30,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 37 (300-05-29) - pochmurno, sucho, chlodny wiatr z polnocy; bez konsekwencji.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 44 (300-05-30) - zmienne chmury, sucho, lagodnie; bez konsekwencji.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

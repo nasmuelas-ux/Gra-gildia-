@@ -3272,9 +3272,9 @@
    "co": "PROWIZJA MISTRZA HANDLU OD DREWNA - stala i jawna (uchwala Handlu 300-04-01). WYSOKOSC Z KSIEGI, nie z glowy: kancelista Wymana + HAL/TAM licza z kosztu obslugi (waga, skladanie, zaladunek, ksiega). Ogloszona na slupie i w kazdej przystani, zanim ruszy pierwsza sprzedaz po odwilzy.",
    "kto": "WYMAN (kancelista) + HAL/TAM",
    "kanal": "kruk Bialy Port-Fosa",
-   "wraca": "300-05-30",
+   "wraca": "300-06-01",
    "zamyka": "prowizja ogloszona na pismie",
-   "status": "otwarte"
+   "status": "otwarte - 05-30: kanal Bialy Port-Fosa; w zbiorczym Garricka ~06-01"
   },
   {
    "data": "300-04-02",
@@ -5121,7 +5121,7 @@
    "kanal": "kruk Winterfell-Deepwood (05-12) + jezdziec",
    "wraca": "300-05-30",
    "zamyka": "Brann w Winterfell",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-30 (rzut 92) - Brann w Winterfell przed poludniem."
   },
   {
    "data": "300-05-11",
@@ -6300,7 +6300,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-26) i z powrotem",
    "wraca": "300-05-30",
    "zamyka": "imie mistrza i data albo 'pusto' z powodem",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-30 - PUSTO: cech BP nie puszcza mistrza rewizji; propozycja Hala - Nesta/Antaryonowie (~07-15)."
   },
   {
    "data": "300-05-25",
@@ -6480,7 +6480,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-26) i z powrotem",
    "wraca": "300-05-30",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-30 (rzut 86) - TAK: wlasne ekipy Bialego Portu, start od VII po przebiegu T2-A; plyty z jego skladu."
   },
   {
    "data": "300-05-26",
@@ -6714,7 +6714,7 @@
    "kanal": "kruk Winterfell-Hornwood i z powrotem",
    "wraca": "300-05-30",
    "zamyka": "stado wypedzone, data przybycia na Kamienny Brzeg (E ~5 tyg.)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-30 (rzut 87) - stado wypedzane 06-02; Kamienny Brzeg ~07-07 (E)."
   },
   {
    "data": "300-05-27",
@@ -6786,6 +6786,24 @@
    "kanal": "kruk Winterfell-Barrowton (05-29) i z powrotem",
    "wraca": "300-06-02",
    "zamyka": "odpowiedz Barbrey (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-30",
+   "co": "OWCE Z HORNWOOD NA KAMIENNYM BRZEGU (wypedzone 06-02, pastuchy Hornwoodu).",
+   "kto": "PASTUCHY HORNWOODU -> CORWIN/SIGRUN",
+   "kanal": "trakt Hornwood-Kamienny Brzeg",
+   "wraca": "300-07-07",
+   "zamyka": "stado na miejscu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-30",
+   "co": "DOM AUDYTOWY TALLY - MISTRZ Z BRAAVOS: pytanie do Nesty (Antaryonowie) w pakiecie.",
+   "kto": "HAL -> NESTA",
+   "kanal": "pakiet do Nesty",
+   "wraca": "300-07-15",
+   "zamyka": "imie mistrza albo 'nie ma'",
    "status": "otwarte"
   }
  ],

@@ -5373,7 +5373,7 @@
    "kanal": "kruk Winterfell-Riverrun (lancuch maesterski) - wylot 05-15 rano",
    "wraca": "300-05-26",
    "zamyka": "mapa lojalnosci Dorzecza od Riverrun (rzut)",
-   "status": "ZAMKNIETE 300-05-26 (rzut 16) - lista lordow (Mallister, Blackwood, Bracken, Vance, Piper, Mooton), BEZ garnizonow Lannisterow; Edmure pyta po co; Catelyn napisze sama"
+   "status": "ZAMKNIETE 300-05-26 (rzut 16; tresc po VOID) - lordowie (Mallister, Blackwood, Bracken, Vance, Piper, Mooton + Frey); Lannisterowie pewni: Maidenpool, Darry; reszta - zwiadowcy Edmure'a, lista za miesiac"
   },
   {
    "data": "300-05-15",
@@ -6363,6 +6363,15 @@
    "kanal": "na miejscu",
    "wraca": "300-06-12",
    "zamyka": "pomiar odbyty, punkt wyjscia rozstrzygniety",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "EDMURE - PELNA LISTA GARNIZONOW LANNISTEROW W DORZECZU (zwiadowcy wzdluz Tridentu i Zielonych Widel); pewne dzis: Maidenpool, Darry. Catelyn: pomoze list od Krola z podziekowaniem.",
+   "kto": "EDMURE TULLY",
+   "kanal": "kruk Riverrun-Winterfell",
+   "wraca": "300-06-26",
+   "zamyka": "lista garnizonow (rzut przy odpowiedzi)",
    "status": "otwarte"
   }
  ],

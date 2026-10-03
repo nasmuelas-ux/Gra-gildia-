@@ -49,7 +49,7 @@
 | **RAZEM (bez mostów)** | **~1 450–3 000 smoków** |
 
 - **Po co:** przez ten trakt idzie zboże z Białego Portu do trzech wielkich spichlerzy lenna, kamień ze wschodu na przewłokę i kolumny dla garnizonów. Trakt 6–8 dni zimą da się jechać tylko wtedy, gdy wóz się nie zakopuje.
-- **Ziemie:** lenno Tally i ziemie Manderly'ego. Odcinek Manderly'ego wymaga **zgody Wymana i ustalenia udziału**: koszt, myto albo kamień z Białego Portu. Jego wola, więc **rzut przy odpowiedzi.**
+- **Ziemie:** lenno Tally i ziemie Manderly'ego. Odcinek Manderly'ego: **zgoda Wymana już jest** (rozstrzygnięcie niżej).
 - **Ręce:** z Północy, czyli z tej samej kolejki co osiem budów (Warryn). Garrick musi wskazać mierniczego (zasada 12) i miejsce w kolejce.
 - **Czas (E):** 3–4 sezony.
 
@@ -60,12 +60,12 @@
 |---|---:|---|---:|
 | A. Fosa → Przystań Wilka (nowy, na wschód od Traktu Królewskiego ku Białemu Nożowi) | ~180 | 140 I + 40 II | 1 580–2 540 |
 | B. Przystań Wilka → Castle Cerwyn | ~60 | 50 I + 10 II | 500–800 |
-| C. Castle Cerwyn → Winterfell: **poprawa Traktu Królewskiego**, żwir na miejscu | ~70 | I (5–7) | 350–490 |
+| C. Castle Cerwyn → Winterfell: **poprawa Traktu Królewskiego**, żwir na miejscu. Zamek Cerwyn leży pół dnia jazdy na południe od Winterfell (zapis 300-02-16). | ~25 | I (5–7) | 125–175 |
 | obiekty: **most kamienny na Białym Nożu przy Przystani Wilka**, 2 wieże, 3 składy, przepusty, słupy | | | 200–400 |
-| **RAZEM** | **~310** | | **~2 630–4 230 smoków** |
+| **RAZEM** | **~265** | | **~2 405–3 915 smoków** |
 
 - **Po co:** Przystań Wilka staje się węzłem. Tu spotykają się woda Białego Noża (do Białego Portu), trakt do Fosy i trakt do stolicy. Zboże i kamień mogą iść rzeką, a wracać lądem, albo odwrotnie.
-- **Udziały:** Przystań Wilka należy w połowie do Korony, w ćwierci do Cerwyna i w ćwierci do Manderly'ego. Trakt przechodzi przez ziemie Cerwyna i Manderly'ego, więc potrzebne są **zgody obu** (rzut przy każdej odpowiedzi).
+- **Udziały:** Przystań Wilka należy w połowie do Korony, w ćwierci do Cerwyna i w ćwierci do Manderly'ego. Trakt przechodzi przez ziemie Cerwyna i Manderly'ego. **Zgody obu już są** (rozstrzygnięcie niżej).
 - **Ręce:** odcinek C może iść rękami domeny Korony (z dniówką i rezerwą jako dniem pracy), a odcinki A i B idą z kolejki Fosy.
 - **Do rozstrzygnięcia przez pomiar:** czy odcinek A ma odejść od Traktu 2 (wspólne pierwsze mile od Fosy), co jest tańsze, czy biec osobno.
 
@@ -76,7 +76,7 @@
 |---|---:|---|---|
 | 1. Nitka zachodnia | 3 400–5 530 | Dorzecze, za dniówkę | po ratyfikacji (VII) |
 | 2. Fosa–Biały Port | 1 450–3 000 + mosty | kolejka Fosy + nabór | po pomiarze i zgodzie Wymana |
-| 3. Fosa–Wilk–Cerwyn–Winterfell | 2 630–4 230 | Fosa (A, B) + domena (C) | po pomiarze i zgodach |
+| 3. Fosa–Wilk–Cerwyn–Winterfell | 2 405–3 915 | Fosa (A, B) + domena (C) | po pomiarze i zgodach |
 
 **Hamulec jest ten sam, który Warryn nazwał w karcie ośmiu budów: kamień i ręce, a nie pieniądz.** Trakty 2 i 3 biorą ludzi z tej samej kolejki.
 
@@ -84,3 +84,14 @@
 1. **Kto płaci:** Korona, lenno Tally czy po odcinkach z lordami, osobno dla każdego traktu.
 2. **Listy:** do Wymana (trakt 2 i odcinek A trzeciego), do Cerwyna (trakt 3) i do Króla (trakt 1, prerogatywa).
 3. **Rozkaz do Fosy:** mierniczy na trakty 2 i 3 oraz miejsce w kolejce rąk.
+
+---
+
+## ROZSTRZYGNIĘCIE PANA (300-05-26, ranek)
+- **Płaci Fosa i lordowie.** Lenno Tally (Kasa 2) płaci odcinki na swojej ziemi i prowadzi robotę z kolejki Fosy. Każdy lord płaci odcinek na swojej ziemi.
+- **Wyman i Cerwyn: zgoda jest, bez rzutu.** Pan mówi, że to już ustalono. Zapis to potwierdza:
+  - **Wyman (299-05-25):** trakt Fosa–Biały Port to *„wspólne marzenie pokoleniowe”*; pomoże na uczciwych warunkach. Program drogowy Korony obejmuje też jego ziemie.
+  - **Cerwyn (300-02-20, zamek Cerwyn):** program drogowy przyjęty jako jedna rzecz, *„obaj zarobimy, i to nie trochę”*. Jego warunek stoi: **Dom Tally płaci, ale nie koordynuje dróg Korony.** Robotników na wszystkich budowach liczy człowiek Gawena.
+- **Odnoga do Bliźniaków (trakt 1, odcinek B)** jest w zapisie **długiem Korony wobec Waldera** (299-09-09). Zostaje przy Koronie, dopóki pan nie powie inaczej.
+- **Odcinek C traktu 3 (Cerwyn → Winterfell)** to Trakt Królewski na ziemi domeny, więc lordem jest tu Król. Robią go ręce domeny.
+- **Trakt 1 w Dorzeczu:** lordowie odcinków to Frey, Mallister i Tully. Rozmowa z nimi idzie przez Króla (prerogatywa) i dopiero po ratyfikacji.

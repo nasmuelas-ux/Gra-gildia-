@@ -6421,11 +6421,11 @@
   },
   {
    "data": "300-05-26",
-   "co": "TRZY NOWE TRAKTY (rozpiska gra/trakty_nowe_budowy_300_05.md) - SLOWO PANA: kto placi kazdy trakt; listy do Wymana (trakt 2 + odcinek A traktu 3), do Cerwyna (trakt 3), do Krola (trakt 1 - prerogatywa, protektorat); rozkaz do Fosy - mierniczy na trakty 2 i 3 (Garrick, zasada 12) i miejsce w kolejce rak (Warryn). Kwoty E - Gawen sprawdza z ksiega.",
+   "co": "TRZY NOWE TRAKTY (rozpiska gra/trakty_nowe_budowy_300_05.md) - PLATNIK ROZSTRZYGNIETY 05-26 (Fosa i lordowie; Wyman i Cerwyn zgodni). ZOSTAJE: rozkaz do Fosy - mierniczy na trakty 2 i 3 (Garrick, zasada 12) i miejsce w kolejce rak (Warryn); trakt 1 do Krola (prerogatywa, protektorat, po ratyfikacji); wiadomosc do Wymana i Cerwyna o przekroju i starcie ich odcinkow. Kwoty E - Gawen sprawdza z ksiega.",
    "kto": "SYMON (-> GAWEN, KROL, WYMAN, CERWYN, GARRICK)",
    "kanal": "Winterfell",
    "wraca": "300-05-28",
-   "zamyka": "platnik dla kazdego traktu + wyslane listy i rozkaz",
+   "zamyka": "rozkaz do Fosy wyslany + trakt 1 na stole Krola",
    "status": "otwarte"
   }
  ],

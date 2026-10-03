@@ -63,3 +63,5 @@ Kręgosłup infrastrukturalny Cailin. Ze względu na grząskie podłoże cały s
 - **Opłatę kanałową pobiera miasto** (kasa miejska, Herwin i ława). Przeznaczenie zostaje jak w projekcie: torf do pieców i utrzymanie palowania.
 - **Lecznica Niny zostanie przeniesiona do ogrodów** (Dzielnica Zielona) i tam będzie poza głównym układem miasta. Komora termiczna na ścieki lecznicy zostaje przy niej, na miejscu w ogrodach.
 - Budowa rusztu nadal **nie jest zlecona**. Lecznica też jeszcze się nie przenosi; to plan, bez terminu.
+
+**Punkty kontrolne:** `punkty_kontrolne_projektow_300_05.md` (300-05-26).

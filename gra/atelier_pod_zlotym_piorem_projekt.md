@@ -65,3 +65,5 @@ Ciąg technologiczny od surowej obróbki i farbowania na dole, przez masową szw
 - **Marro jako najemca** w budynku: własne drzwi, własny klucz, własna księga.
 - Atelier jest liczone w Domu, z własną księgą: *„jesteśmy teraz połączeni”*.
 - **Budowy nadal nie zlecono.**
+
+**Punkty kontrolne:** `punkty_kontrolne_projektow_300_05.md` (300-05-26).

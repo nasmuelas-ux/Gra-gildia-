@@ -93,3 +93,5 @@ Trzy warstwy jak w rozdziale o ruszcie Cailin: aleje i kanały dokowe na powierz
 - **Płaci Dom** (Kasa 1). Słowa pana: *„To nie ma znaczenia: Dom Tally i lenno Tallych należą do Tallych.”* Księgi i tak zostają osobne, a koszt Gorącego Portu idzie do księgi Domu (Hal).
 - **Na wieżach chorągiew Tallych.**
 - Budowa ponad etap I (mur, wieża ognia z rozkazu 05-16) **nadal nie jest zlecona**.
+
+**Punkty kontrolne:** `punkty_kontrolne_projektow_300_05.md` (300-05-26).

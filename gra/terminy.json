@@ -6385,7 +6385,7 @@
   },
   {
    "data": "300-05-26",
-   "co": "AKT ZLAMANIA UGODY 299-04-20 (Lannisterowie nie wycofali sie z Dorzecza) - JEDNO PISMO pod pieczecia Krola, z PELNA LISTA garnizonow i data, do Krolewskiej Przystani. Po liscie Edmure'a (~06-26). ⚠ MAIDENPOOL = HARRION KARSTARK - najpierw rozstrzygniecie z Karstarkiem, potem pismo o Maidenpool (Krol; kolejnosc Sansy). ### 05-26: BEZ STANNISA (nie jest strona ugody - slowo pana). SWIADKOWIE: Edmure (Trident, pan Mootona) i DORNE (autonomia na tym samym papierze). W AKCIE - garnizon i JENIEC w Maidenpool jako jedno zlamanie (wyjscie + wydanie Harriona) - tylko za zgoda Rickarda Karstarka w twarz. ### 05-26 (rzut 72): ADRESACI - LANNISTEROWIE (KP), DORNE, REACH (Olenna), ZELAZNY BANK (Braavos) + odpis Edmure; JEDEN TEKST, jedna data; do Banku kanalem Korony (maester Bialego Portu -> Braavos), NIE przez Dom Tally; Harrion tylko za zgoda Rickarda. ### 05-26 (slowo pana, Krol przyjmuje): RICKARDA NIE PYTAMY - MOWIMY. Akt obejmuje garnizony i JENCA w Maidenpool bez pytania o zgode; Rickard dostaje list Krola (reka Krola) kilka dni PRZED aktem: co, kiedy, do kogo - ryzyko bierze Krol. ### 05-26 (slowo pana): W AKCIE - WSZYSCY WIEZNIOWIE z listy 271 (pokwitowanej przez KP 03-27), Harrion jako jeden z nich; WYMIANA DWUSTRONNA - Korona oddaje swoich jencow (rejestr Cerwyna).",
+   "co": "AKT ZLAMANIA UGODY 299-04-20 (Lannisterowie nie wycofali sie z Dorzecza) - JEDNO PISMO pod pieczecia Krola, z PELNA LISTA garnizonow i data, do Krolewskiej Przystani. Po liscie Edmure'a (~06-26). ⚠ MAIDENPOOL = HARRION KARSTARK - najpierw rozstrzygniecie z Karstarkiem, potem pismo o Maidenpool (Krol; kolejnosc Sansy). ### 05-26: BEZ STANNISA (nie jest strona ugody - slowo pana). SWIADKOWIE: Edmure (Trident, pan Mootona) i DORNE (autonomia na tym samym papierze). W AKCIE - garnizon i JENIEC w Maidenpool jako jedno zlamanie (wyjscie + wydanie Harriona) - tylko za zgoda Rickarda Karstarka w twarz. ### 05-26 (rzut 72): ADRESACI - LANNISTEROWIE (KP), DORNE, REACH (Olenna), ZELAZNY BANK (Braavos) + odpis Edmure; JEDEN TEKST, jedna data; do Banku kanalem Korony (maester Bialego Portu -> Braavos), NIE przez Dom Tally; Harrion tylko za zgoda Rickarda. ### 05-26 (slowo pana, Krol przyjmuje): RICKARDA NIE PYTAMY - MOWIMY. Akt obejmuje garnizony i JENCA w Maidenpool bez pytania o zgode; Rickard dostaje list Krola (reka Krola) kilka dni PRZED aktem: co, kiedy, do kogo - ryzyko bierze Krol. ### 05-26 (slowo pana): W AKCIE - WSZYSCY WIEZNIOWIE z listy 271 (pokwitowanej przez KP 03-27), Harrion jako jeden z nich; WYMIANA DWUSTRONNA - Korona oddaje swoich jencow (rejestr Cerwyna). ### 05-26: rownolegle EDMURE pisze do swoich wasali z garnizonami Lannisterow (ten sam tekst, zapowiedz odpisow) - prosba w drugim liscie Krola ~06-10.",
    "kto": "KROL + SYMON (Tobin - tekst)",
    "kanal": "kruki Korony: Krolewska Przystan, Slonecznia, Wysogrod, Braavos (przez maestra Bialego Portu); odpis Riverrun",
    "wraca": "300-06-28",
@@ -6408,6 +6408,15 @@
    "kanal": "Winterfell / kruk za Cerwynem",
    "wraca": "300-06-20",
    "zamyka": "lista naszych jencow do aktu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "DRUGI LIST KROLA DO EDMURE'A (~06-10, po podziekowaniu): prosba, by Edmure napisal do wasali z garnizonami Lannisterow (pewne: Mooton/Maidenpool; Darry; reszta wg zwiadowcow), ze to zlamanie traktatu i ze ten sam odpis idzie do Reach, Dorne, Lannisterow i Zelaznego Banku - listy Edmure'a maja wyjsc RAZEM z aktem (~06-28). Wola Edmure'a - RZUT przy odpowiedzi.",
+   "kto": "KROL -> EDMURE",
+   "kanal": "kruk Winterfell-Riverrun (~06-10) i z powrotem",
+   "wraca": "300-06-16",
+   "zamyka": "zgoda Edmure'a (rzut) + data jego listow",
    "status": "otwarte"
   }
  ],

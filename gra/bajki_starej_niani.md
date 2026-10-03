@@ -68,4 +68,19 @@
 
 ---
 
+## 5. O PIERWSZYM KRÓLU W WIELKIM KURHANIE
+*Spisane 300-06-03 późnym wieczorem, w izbie Niani. Niania nie przędła; trzymała w dłoniach kubek z ciepłym mlekiem i nie piła. „Jedziecie do Barrowton. To wam opowiem, co tam leży.”*
+
+> Kiedy Pierwsi Ludzie przeszli przez Ramię Dorne, zanim ktokolwiek je złamał, przyszli na Północ z brązem i końmi. I był wśród nich jeden, który szedł przodem. Nie był najstarszy ani najbogatszy. Ale kiedy inni pytali „dokąd”, on już szedł. Dlatego nazwali go Pierwszym Królem.
+>
+> Walczył z dziećmi lasu i z olbrzymami, a potem, kiedy przyszedł pakt, odłożył miecz i nauczył się patrzeć na drzewa z twarzami. Rządził długo. A kiedy umarł, jego ludzie nie spalili go i nie pochowali w ziemi jak chłopa. Usypali nad nim górę. Każdy przyniósł kamień i garść ziemi, i nosili tak długo, aż kurhan był wyższy niż dąb. Dlatego Wielki Kurhan stoi do dziś, a miasto wyrosło wokół niego jak grzyby wokół pnia.
+>
+> Ci, którzy pilnowali kurhanu, nazwali się potem Królami Kurhanów. I mówili, że skoro strzegą Pierwszego Króla, to są królami Pierwszych Ludzi, wszystkich, a nie tylko swoich. Starkom z Winterfell to się nie podobało. Bili się o to tysiąc lat, dziecko, tysiąc lat o jedno słowo. Aż Królowie Kurhanów ugięli kolano. Ale kurhanu nikt nie ruszył. Ani Starkowie, ani nikt inny.
+>
+> A teraz słuchaj, bo to jest najważniejsze. **W Barrowlandach zmarły bez kurhanu to zmarły, który nie skończył drogi.** Leży gdzieś pod cudzym niebem i chodzi. Nie straszy, nie. Chodzi i szuka, gdzie ma się położyć. Dlatego ludzie z Barrowlandów zawsze wracają po swoich. Choćby po kości. Choćby po latach.
+
+*Dopisek spisującego:* Niania postawiła kubek i powiedziała do mnie, nie do dziecka: *„Lady Dustin czeka na kości męża od siedemnastu lat. Obiecaliście jej je, panie. Kiedy wejdziecie pod jej dach, nie mówcie jej, że szukacie. Powiedzcie, gdzie już doszliście. Barrowlandczyk zniesie każde czekanie, byle widział, że droga idzie.”* Potem dodała już łagodniej: *„I nie wchodźcie na Wielki Kurhan. Obcy tam nie wchodzą. Nawet Starkowie.”*
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

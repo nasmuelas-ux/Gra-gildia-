@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 3,
+  "dzien": 4,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 76 (300-06-03) - pogodnie i cieplo, lekki wiatr z zachodu.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 47 (300-06-04) - pochmurno, cieplo, bez deszczu, slaby wiatr z poludnia; kruki leca.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

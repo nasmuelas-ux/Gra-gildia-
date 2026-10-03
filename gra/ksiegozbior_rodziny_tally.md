@@ -42,7 +42,7 @@
 | 14 | **Projekt Cailin** (trakt, forteca, miasto, arteria zachód–wschód) | `projekt_cailin.md` | | **Z** |
 | 15 | **Standard traktu Północy** | `standard_traktu_polnocy.md` | | **Z** |
 | 16 | **Kronika** | `kronika.md`; Symon pisze kroniki Północy | | **Z** |
-| 17 | **Bajki Starej Niani**, spisywane od 300-05-28 | `bajki_starej_niani.md` (na razie jedna: *O Nocnym Królu*) | | **Z** |
+| 17 | **Bajki Starej Niani**, spisywane od 300-05-28 | `bajki_starej_niani.md` (do 06-03 pięć: *O Nocnym Królu*, *O Szczurzym Kucharzu*, *O Długiej Nocy*, *O Brandonie Budowniczym*, *O Pierwszym Królu w Wielkim Kurhanie*) | | **Z** |
 | 18 | **Projekty z 300-05-26**: Atelier Pod Złotym Piórem, Hydrauliczny Ruszt Cailin, Gorący Port | pliki projektów | | **Z** |
 
 ---

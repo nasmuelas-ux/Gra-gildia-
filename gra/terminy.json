@@ -6373,6 +6373,24 @@
    "wraca": "300-06-26",
    "zamyka": "lista garnizonow (rzut przy odpowiedzi)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "LIST KROLA DO EDMURE'A - PODZIEKOWANIE (reka Krola): za szesciu lordow, Seagard i placowki, za prawde zamiast zgadywania; o reszte garnizonow - w nastepnym liscie. Rada Catelyn.",
+   "kto": "KROL -> EDMURE",
+   "kanal": "kruk Winterfell-Riverrun (05-26 po poludniu)",
+   "wraca": "300-05-27",
+   "zamyka": "list wyslany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "AKT ZLAMANIA UGODY 299-04-20 (Lannisterowie nie wycofali sie z Dorzecza) - JEDNO PISMO pod pieczecia Krola, z PELNA LISTA garnizonow i data, do Krolewskiej Przystani, kopia dla Stannisa (gwarant niepodleglosci). Po liscie Edmure'a (~06-26). ⚠ MAIDENPOOL = HARRION KARSTARK - najpierw rozstrzygniecie z Karstarkiem, potem pismo o Maidenpool (Krol; kolejnosc Sansy).",
+   "kto": "KROL + SYMON (Tobin - tekst)",
+   "kanal": "kruk Winterfell-Krolewska Przystan + kopia przez Davosa",
+   "wraca": "300-06-28",
+   "zamyka": "pismo wyslane (albo swiadomie odlozone z powodu Maidenpool)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

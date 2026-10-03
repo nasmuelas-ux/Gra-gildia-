@@ -534,9 +534,9 @@
    "co": "NESTA - ROZGLOSIC W BRAAVOS PRZYWILEJE FOSY; ludzie maja kierunek. ALE rozglaszanie ZACZYNA SIE PO PODPISIE, nie przed. ⚠ DATA POPRAWIONA 300-03-03 z V/300 - ale tu poprawka mniej znaczy: rozglaszanie i tak ZACZYNA SIE PO PODPISIE przywileju, nie po dojsciu listu.",
    "kto": "NESTA",
    "zamyka": "podpis przywileju -> potem rozglos",
-   "status": "otwarte - warunkowe ### 05-16: BEZ DATY - spust to podpis przywileju Fosy (brak w zapisie, kiedy) - przeniesione do 'bez daty' (zasada 41).",
+   "status": "otwarte - warunkowe ### 05-16: BEZ DATY - spust to podpis przywileju Fosy (brak w zapisie, kiedy) - przeniesione do 'bez daty' (zasada 41). ### DATA 06-01: sprawdzic w pakiecie Nesty (~07-15), czy przywilej Fosy podpisany; jesli tak - rozglaszanie rusza.",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": null
+   "wraca": "300-07-15"
   },
   {
    "data": "wyslany 300-03-03 o brzasku",
@@ -2597,9 +2597,9 @@
    "co": "⚠ DZIEN, W KTORYM ZAKAZ EKSPORTU Z CAILIN ZACZNIE KOSZTOWAC. Filar ① obrony (Bractwo, 300-02-28) dziala za darmo tylko dopoty, dopoki grobla, forteca, miasto, Dustinport i drwale na Murze biora cala produkcje. Gdy przestana, 'dopoki lord nie postanowi osobno' przestanie byc formula i stanie sie decyzja: otworzyc targ i obudzic cech, albo trzymac wyrob w lennie i zdusic wlasne rzemioslo. ZEGAR NIE JEST URZEDOWY, TYLKO BUDOWLANY - rozpozna go ten, kto liczy odbior na budowach, nie kalendarz.",
    "kto": "WARRYN (wykonanie na spust) / karta odbioru",
    "kanal": "karta odbioru z budow",
-   "wraca": null,
+   "wraca": "300-07-01",
    "zamyka": "decyzja lorda o otwarciu albo zamknieciu targu dla wyrobu Cailin",
-   "status": "otwarte - ze spustem; ROZSTRZYGNIETE NA ZAPAS 300-04-22: przy nadwyzce - TARG DLA POLNOCY (bez wywozu za Przesmyk), Warryn otwiera sam i melduje; w Cailin tylko BRACTWA, nie cechy."
+   "status": "otwarte - ze spustem; ROZSTRZYGNIETE NA ZAPAS 300-04-22: przy nadwyzce - TARG DLA POLNOCY (bez wywozu za Przesmyk), Warryn otwiera sam i melduje; w Cailin tylko BRACTWA, nie cechy. ### DATA 06-01: przeglad produkcji Fosy wobec budow w zbiorczym Garricka 07-01 (Warryn: czy jest nadwyzka)."
   },
   {
    "data": "~300-03-22 do 300-03-24",
@@ -2615,9 +2615,9 @@
    "co": "ZIARNO PORTOWE NA POLACH FOSY - ZEGAR NAPIETY BEZ ZAPASU. Odczyt w Bialym Porcie ~300-03-22/24, potem trakt do Fosy kolejne 6-8 dni. Wchodzi w siew, ale nie ma marginesu na drugi sztorm ani na powtorny odczyt. ⚠ JESLI ODCZYT ODRZUCI DUZA CZESC - a w Barrowton odrzucono TRZECIA - nie bedzie juz czasu na trzecie zrodlo. REZERWY, KTORE WTEDY ZOSTAJA I OBIE SA ZLE: wlasna PRZEGRODA SIEWNA FOSY (nietykalna i ma nia pozostac - lord otwierajacy swoja przegrode w pierwszym trudnym tygodniu przestaje byc wiarygodny) oraz wsie Fosy, male partie, drozej i wolniej.",
    "kto": "WARRYN / ORLAND / HAL",
    "kanal": "trakt Bialy Port-Fosa",
-   "wraca": null,
+   "wraca": "300-06-12",
    "zamyka": "ziarno w skladzie Fosy albo jawne ogloszenie braku przed siewem",
-   "status": "otwarte - spust na wynik odczytu"
+   "status": "otwarte - spust na wynik odczytu ### DATA 06-01: siew minal - stan wschodow ziarna portowego obejrzy Namiestnik osobiscie na Fosie (~06-12)."
   },
   {
    "data": "300-03-14",
@@ -2633,18 +2633,18 @@
    "co": "⚠ SUFIT SPADA DOKLADNIE WTEDY, KIEDY DOM POTRZEBUJE PAPIERU NAJBARDZIEJ. Skrzynia po wykupie 340 przy zerze, zapas obrotowy na dnie, kapital wiosenny to ~650 towaru Korony - a kazdy smok tego towaru sprzedany OBNIZA SUFIT, bo zamienia sie w monete. W tym samym czasie przewloka zjada 230-325, papiernia czeka na SZMATY (a Korona wlasnie zaczela kupowac pergamin), Marro czeka na SUROWIEC BURSZTYNOWY po roku bez kamieni, a ubezpieczenia frachtu na METODE od Nesty. TO NIE JEST BLAD REGULY - TO JEJ CENA, przyjeta swiadomie 300-03-13. DO OBSERWOWANIA: czy ktoras z tych trzech linii staje z braku papieru.",
    "kto": "HAL / SYMON",
    "kanal": "meldunek Hala",
-   "wraca": null,
+   "wraca": "300-06-05",
    "zamyka": "decyzja, czy ktorakolwiek linia dostaje pierwszenstwo, czy sufit zostaje nietkniety",
-   "status": "otwarte - spust na wiosne"
+   "status": "otwarte - spust na wiosne ### DATA 06-01: przy bilansie miesiecznym Hala (06-05) - stan sufitu papieru i zapasu obrotowego."
   },
   {
    "data": "od 300-03-13",
    "co": "SEMINARIUM NAUCZYCIELI NA FOSIE - SZKOLA LENNA, ustanowiona przy lozku 300-03-13. ⚠ ZASIEG: LENNO FOSY CAILIN. Czysta prerogatywa pana, ten sam tytul co szkola Fosy, lecznica, szklarnie i Bractwo. Nikt tego nie zatwierdza i nikomu sie z tego nie tlumaczy. Kasa 2. Odpowiedz na pytanie Miry, ktore sama rozdzielila: nie 'kto nauczy dziesiecioro' (to szkola, stoi), tylko KTO NAUCZY ICH UCZYC. GLOWA: MIRA - prowadzi, nie asystuje. DRUGA REKA: ILARIO, warunkowo, jego odpowiedz wraca 300-04-22. ZASADA 42: miejsce, sluchacze, porzadek dnia i kasa obsadza GLOWA; do pana wraca meldunek, nie pytanie. ⚠ ZEGAR NIEURZEDOWY: dziewiaty dzien goraczki poloznej, okno do 300-03-18. ### SPRAWA KORONY STANIE SIE Z TEGO DOPIERO WTEDY, GDY KORONA ZECHCE TEN SPOSOB PRZEJAC DLA CALEJ POLNOCY - to dzis nie istnieje.",
    "kto": "MIRA (glowa) / ILARIO (od ~300-04-22, warunkowo)",
    "kanal": "przy lozku, potem meldunek z Fosy",
-   "wraca": null,
+   "wraca": "300-06-12",
    "zamyka": "pierwszy sluchacz seminarium przyjety",
-   "status": "ustanowione - czeka na glowe"
+   "status": "ustanowione - czeka na glowe ### DATA 06-01: Mira na Fosie (~06-12) - otwarcie seminarium na miejscu."
   },
   {
    "data": "300-03-14",
@@ -2714,9 +2714,9 @@
    "co": "POWROT MIRY NA FOSE - NIE MA DATY I NIE BEDZIE JEJ, DOPOKI TRZYMA GORACZKA. Trakt Bialy Port-Fosa to 6-8 dni zima; ona jest w dziesiatym dniu i nie wstaje. Warunek Rhony: najpierw ma przejsc goraczka, potem liczy sie dni. ### SEMINARIUM NIE CZEKA NA JEJ NOGI: zaczyna z lozka, piorem - kogo sie uczy uczyc i czego ma NIE robic. Zasada 42 uzyta przez nia sama, zanim ktokolwiek jej ja przypomnial.",
    "kto": "MIRA · RHONA i THEOMORE (slowo o zdatnosci) · STEN (calosc) / DAGON (oddzial II przy Mirze) · ALYS i BRAN (odbior na Fosie)",
    "kanal": "na miejscu, Bialy Port",
-   "wraca": null,
+   "wraca": "300-06-12",
    "zamyka": "Mira w Fosie Cailin, cala",
-   "status": "UKLAD ZROBIONY 300-03-18 WIECZOREM, DATA NADAL WARUNKOWA - i to jest wlasciwy stan, nie luka. ROZSTRZYGNIECIE GRACZA, powiedziane jej w oczy: RUSZA NA FOSE, GDY WYDOBRZEJE - nie na date, tylko na slowo Rhony i Theomore'a. JEDZIE Z ODDZIALEM II PRZYBOCZNEJ - etat to DWA oddzialy (dopisane 300-03-18 na wskazanie gracza), wiec oddzial I rusza z panem na Winterfell W PELNEJ SILE i nic z niego nie wykrojono. Oddzial II prowadzi DAGON. NA FOSIE ODBIERAJA JA ALYS I BRAN - majordomat Fosy od 299-07, ona dom i klucze, on roboty. Trakt 6-8 dni. Theomore 300-03-15: TYGODNIE, NIE DNI - wiec spodziewane najwczesniej przelom III/IV, i nikt tego nie przyspiesza."
+   "status": "UKLAD ZROBIONY 300-03-18 WIECZOREM, DATA NADAL WARUNKOWA - i to jest wlasciwy stan, nie luka. ROZSTRZYGNIECIE GRACZA, powiedziane jej w oczy: RUSZA NA FOSE, GDY WYDOBRZEJE - nie na date, tylko na slowo Rhony i Theomore'a. JEDZIE Z ODDZIALEM II PRZYBOCZNEJ - etat to DWA oddzialy (dopisane 300-03-18 na wskazanie gracza), wiec oddzial I rusza z panem na Winterfell W PELNEJ SILE i nic z niego nie wykrojono. Oddzial II prowadzi DAGON. NA FOSIE ODBIERAJA JA ALYS I BRAN - majordomat Fosy od 299-07, ona dom i klucze, on roboty. Trakt 6-8 dni. Theomore 300-03-15: TYGODNIE, NIE DNI - wiec spodziewane najwczesniej przelom III/IV, i nikt tego nie przyspiesza. ### DATA 06-01: goraczka minela 03-18; Mira jedzie z Symonem (wyjazd ~06-08, Fosa ~06-12 po Barrow Hall)."
   },
   {
    "data": "300-03-14",

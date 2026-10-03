@@ -409,6 +409,15 @@
   "zdrowie": "zdrowa",
   "chrzest": "po Owenie, gdy Mira wstanie"
  },
+ "pies_rodziny": {
+  "imie": "Kamyk",
+  "czlonek_rodziny": "TAK - slowo pana 300-06-04: 'to nasz czlonek rodziny'",
+  "skad": "psiarnia zamkowa Winterfell (Farlen), z tego samego miotu co szczeniak Larence'a Hornwooda; dar Krola przez Farlena 300-06-02",
+  "imie_nadala": "Lyra (wsadzila mu kamyk do miski)",
+  "charakter": "spokojny; wchodzi do wody i nie wie, co dalej; wypluwa poziomki",
+  "opieka": "rada Farlena: karmic trzy razy dziennie, nie zostawiac samego w wozie; spi w koszu przy lozku Lyry",
+  "podroz": "na Fose ~06-08 wozem z Rhona i Lyra"
+ },
  "log_kasy": {
   "_lista_w_dzienniku": 22
  },

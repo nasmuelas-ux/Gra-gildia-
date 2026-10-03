@@ -164,6 +164,7 @@
 | stos | rzecz | kto mówi |
 |---|---|---|
 | **(a) wszyscy** | **Najpierw przyszedł mróz.** Lato, które nie chce się skończyć, zima, która nie chce się skończyć, dopiero potem oni. | Niania (6, 3), wszystkie wersje w bibliotece. Lord Eddard pytał Nianię właśnie o to: *„Oni przychodzą razem z mrozem, czy mróz przychodzi przed nimi?”* Odpowiedź: mróz idzie pierwszy. |
+| **(a) wszyscy** | Wielki Kurhan usypano nad Pierwszym Królem; Królowie Kurhanów nazywali się królami Pierwszych Ludzi; Starkowie bili się z nimi o to słowo. | Niania (5) · *Dzieje Pierwszych Ludzi*, odpis z BP, księga Ellarda Cerwyna (06-06) |
 | **(a) wszyscy** | Ogień działa. | Niania (6, 3), Luwin (B: Długa Noc) |
 | **(a) wszyscy** | Mur postawiono **po**, nie przed. | Niania (6), Brandon Budowniczy (4), kroniki |
 | **(a) wszyscy** | Dzieci Lasu istniały i miały obsydian. | Luwin (A), Niania (6), obsydian Fosy na wadze (Reed 299-10-04) |

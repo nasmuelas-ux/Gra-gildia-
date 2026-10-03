@@ -6220,6 +6220,15 @@
    "wraca": "300-05-27",
    "zamyka": "pierwsza wspolna godzina albo odmowa Alyna",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "WIEZA STRAZNICZA - URZADZENIE: II pietro szwalnia i biuro Miry (dlugi stol do krojenia, polki na sukna, pulpit do ksiag Fosy); III pietro mala biblioteka (polki, latarnia za szklem, bez otwartego ognia; okiennice od zachodu). Ciesla i stolarz zamkowi, oplata kasztelanowi z Kasy 1 (stawka z jego ksiegi).",
+   "kto": "CIESLA + STOLARZ ZAMKOWY (kasztelan)",
+   "kanal": "Winterfell",
+   "wraca": "300-06-05",
+   "zamyka": "stol w szwalni + polki w bibliotece",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

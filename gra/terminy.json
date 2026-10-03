@@ -6337,6 +6337,15 @@
    "wraca": "300-07-15",
    "zamyka": "oferta stoczni braawijskiej: cena, termin wodowania, przeprowadzenie (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "SZKUTNICY I SPECJALISCI Z BRAAVOS DLA KORONY - w ksiegach brak wpisu o zamowieniu (jest tylko pomysl przy Przystani Wilka; kadry 03-28 to Dom: ubezpieczenia, papiernia, miary). Nesta potwierdza: czy zamowienie jest, kto/ilu/kiedy; jesli nie - czy stocznia od Wolow odda 2-3 ludzi na rok (umowa jak 03-28). Pytanie leci z listem o Woly (przez Hala 05-26).",
+   "kto": "SYMON -> NESTA (przez Hala)",
+   "kanal": "kruk Winterfell-Bialy Port (05-26) + statek BP-Braavos i z powrotem",
+   "wraca": "300-07-15",
+   "zamyka": "stan zamowienia szkutnikow (albo: nie bylo) + odpowiedz o ludziach ze stoczni",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

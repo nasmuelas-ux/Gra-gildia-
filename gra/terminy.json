@@ -6741,7 +6741,7 @@
    "kanal": "kruk Winterfell-Czarny Zamek",
    "wraca": "300-05-29",
    "zamyka": "list wyslany",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-29 - wyslany (Hallis wie; 'wrocil')."
   },
   {
    "data": "300-05-29",
@@ -6759,7 +6759,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-01",
    "zamyka": "decyzja, kto jedzie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-29 - jedzie SAM NAMIESTNIK z Mira, po przybyciu Reedow, przez Barrowton na Fose."
   },
   {
    "data": "300-05-29",
@@ -6768,6 +6768,15 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-06-08",
    "zamyka": "koszt panwi i warzelni na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-29",
+   "co": "PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). OTWARTE: Lyra; list zapowiadajacy do Barbrey; data wyjazdu.",
+   "kto": "SYMON + MIRA (Dagon)",
+   "kanal": "trakt Winterfell-Barrowton-Fosa",
+   "wraca": "300-06-06",
+   "zamyka": "data wyjazdu ustalona (po Reedach)",
    "status": "otwarte"
   }
  ],

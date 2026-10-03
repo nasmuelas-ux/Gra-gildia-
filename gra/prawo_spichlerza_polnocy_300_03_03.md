@@ -134,7 +134,7 @@ Odpowiedź na zdanie z 300-02-15: *„ziarno siewne jest zjadane po jednym worku
 > ### **KORONA KUPUJE RAZ, LATEM, KONTRAKTEM.**
 
 **To jest ten etap, o który pytasz — i to jedyny, którego w ustawie dotąd nie było.** Dopisany tu jako **kierunek z warunkiem, nie jako obowiązek z datą**, bo:
-- **czterdzieści domów to czterdzieści ław i czterdzieści kas**, a Korona nie ma dziś czym tego objechać *(Mistrz Domu Audytowego nie istnieje, lustrator jest jeden i wypożyczony)*;
+- **czterdzieści domów to czterdzieści ław i czterdzieści kas**, a Korona nie ma dziś czym tego objechać *(lustrator jest jeden i wypożyczony; **od 300-05-25 Korona szkoli własnych lustratorów z rachmistrzów** — Dom Audytowy Tally wykreślony z tej drogi, rozstrzygnięcie Namiestnika)*;
 - **Etap II wymaga, żeby Etap I już czytał** — skład bez księgi to szopa;
 - **zakup państwowy wymaga monety**, a Korona bierze w monecie 3000-6000 smoków rocznie i jest winna Domowi 695.
 

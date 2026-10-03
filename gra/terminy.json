@@ -6283,6 +6283,24 @@
    "wraca": "300-05-27",
    "zamyka": "lista lenn z data startu ksiegi Etapu I (albo: nikt)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "LUSTRATORZY KORONY Z RACHMISTRZOW - Gawen wskazuje kandydatow ze Skarbu (ilu, kto), szkoli Bryen (osobna ksiega objazdu); lustrator nie bada lenna, z ktorego pochodzi; podlega Skarbnikowi i Krolowi, nie Namiestnikowi. Cel: rewizja ksiag Etapu I u lordow przed otwarciem Etapu II. Krol - do wiadomosci (urzad Korony).",
+   "kto": "GAWEN + BRYEN (-> KROL)",
+   "kanal": "Winterfell",
+   "wraca": "300-05-29",
+   "zamyka": "lista kandydatow + plan szkolenia z datami",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "HAL - DOM AUDYTOWY TALLY: CZY MISTRZ OBSADZONY? (02-27: zarzadca i rachmistrz sa, mistrza brak - cech w Bialym Porcie ich nie wypuszcza). Odpowiedz: imie i od kiedy - albo nadal pusto i dlaczego (moze z Braavos przez Neste?). Pytanie leci z krukiem 05-26 (lista ksiag).",
+   "kto": "SYMON -> HAL",
+   "kanal": "kruk Winterfell-Bialy Port (05-26) i z powrotem",
+   "wraca": "300-05-30",
+   "zamyka": "imie mistrza i data albo 'pusto' z powodem",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

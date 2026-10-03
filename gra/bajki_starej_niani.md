@@ -205,4 +205,19 @@
 
 ---
 
+## 11. O DWÓCH BRANDONACH: TYM, CO BUDOWAŁ OKRĘTY, I TYM, CO JE SPALIŁ
+*Spisane 300-06-05 wieczorem, w izbie Niani. Okno otwarte na ciepłą noc. Niania przędła i patrzyła w ogień, a nie na mnie.*
+
+> Był w Winterfell król, Brandon, którego nazwali **Budowniczym Okrętów**. Nie budował murów jak tamten pierwszy. Budował statki, duże, z dębu z Wilczego Lasu, i patrzył na zachód, za Zatokę Lodu i dalej, gdzie nikt nie pływał.
+>
+> Mówił, że za Morzem Zachodzącego Słońca jest drugi brzeg, i chciał go zobaczyć sam. Wziął najlepszych ludzi, najlepsze statki i odpłynął. **I nie wrócił.** Ani on, ani żaden z jego statków. Nikt nie wie, czy znalazł brzeg, czy go morze zjadło. Tego bajka nie mówi, a ja nie będę zmyślać.
+>
+> Został po nim syn, też Brandon. Czekał na ojca rok, i drugi, i trzeci. A kiedy przestał czekać, zebrał wszystkie statki, które zostały w porcie, i je **spalił**. Wszystkie co do jednego. Dlatego nazwali go **Podpalaczem**. Mówią, że stał na brzegu i patrzył, aż ostatni maszt wpadł do wody, i nikt nie śmiał go zatrzymać.
+>
+> I od tamtej pory, dziecko, Starkowie nie mieli floty. Ojciec dał morzu wszystko, a syn morzu wszystko odebrał. Żaden z nich nie zapytał tych, co zostali na brzegu, czego oni chcą.
+
+*Dopisek spisującego:* Niania odłożyła przęślicę i powiedziała do mnie: *„Budujecie okręty, panie, słyszałam. Eskadra, stocznie, porty. Dobrze. Tylko budujcie tak, żeby nie wszystko płynęło za jednym człowiekiem. I żeby po was nie przyszedł ktoś, kto je spali z żalu. Żal pali szybciej niż smoła.”*
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

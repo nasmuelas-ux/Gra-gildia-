@@ -171,6 +171,7 @@
 | **(b) jeden** | **Palić zmarłych.** Jedyna wykonalna instrukcja w całej opowieści. | Niania (6). Północ grzebie swoich w kryptach. Nierozstrzygnięte. |
 | **(b) jeden** | Zielonowidz w korzeniach i kruk z trzema oczami. | Niania (7). Luwin zna zielonowidzów tylko z najstarszych odpisów (B). |
 | **(b) jeden** | Magia umarła **przed** smokami. | nauczyciel Luwina (9) |
+| **(b) jeden** | ⟡ „Góra, w której ogień rodzi szkło” to **Smocza Skała**: wyspa-wulkan, cała w żyłach smoczego szkła. **Hipoteza spisującego, nie świadectwo.** Bran: Smocza Skała leży daleko na południu, a Długa Noc była tutaj; obsydian jest też w torfie Fosy, więc może takich gór było więcej. | Symon (300-06-04 wieczór), zarzut Brana tego samego wieczoru |
 | **(c) kłóci się** | Żelazo: nie znosili go / zwykłe miecze nie pomagały. | Niania (6), sama ze sobą |
 | **(c) kłóci się** | Towarzysze bohatera: dwunastu / kilku. | Niania 299-09 (6) / Niania 300-06 (3) |
 | **(c) kłóci się** | Szkło: „sto sztuk szkła, które nie jest szkłem, z ognia góry” / „czarne szkło, które rodzi się w ogniu”. | Niania (6) / Niania (3) |

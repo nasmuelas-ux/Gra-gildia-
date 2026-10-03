@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**137 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- SPICHLERZ ETAP I - FORMULARZ DO PIECZECI KROLA: Orland sklada karte, Tobin przepisuje na kazde lenno; Namiestnik niesie do Krola. · _kanal:_ Winterfell
+**136 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -589,7 +586,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-27** — WINDA W WIEZY STRAZNICZEJ - PROBA Z PODWOJNYM CIEZAREM (pięc poprawek). RZUT przy probie. · _kto:_ **CIESLA + KOWAL ZAMKOWY** · _zamyka:_ proba udana / co poprawic (rzut)
 - **300-05-27** — SPICHLERZ POLNOCY ETAP I - SLOWO PANA (i Krola): formularz zgloszenia (karta z czterema kolumnami i data) pod pieczecia Krola do kazdego lorda? Na pismie nie zglosil sie nikt (rzut 2). · _kto:_ **SYMON -> KROL** · _zamyka:_ decyzja o formularzu **⚠ ZAMKNIETE 300-05-27 - TAK: FORMULARZ POD PIECZECIA KROLA (ORLAND SKLADA, TOBIN PRZEPISUJE).**
 - **300-05-27** — DOM WYCHOWANKOW - NOC: slowo pana o GERCIE (wdowa po strazniku bramy, 15 miedz./noc E). · _kto:_ **SYMON** · _zamyka:_ tak/nie dla Gerty **⚠ ZAMKNIETE 300-05-27 - GERTA NA NOCE OD 05-27, 15 MIEDZ./NOC (E).**
-- **300-05-27** — SPICHLERZ ETAP I - FORMULARZ DO PIECZECI KROLA: Orland sklada karte, Tobin przepisuje na kazde lenno; Namiestnik niesie do Krola. · _kto:_ **ORLAND + TOBIN -> SYMON -> KROL** · _zamyka:_ karty z pieczecia Krola gotowe do wysylki
+- **300-05-27** — SPICHLERZ ETAP I - FORMULARZ DO PIECZECI KROLA: Orland sklada karte, Tobin przepisuje na kazde lenno; Namiestnik niesie do Krola. · _kto:_ **ORLAND + TOBIN -> SYMON -> KROL** · _zamyka:_ karty z pieczecia Krola gotowe do wysylki **⚠ ZAMKNIETE 300-05-28 - PIECZEC KROLA NA KAZDEJ KARCIE; KRUKI DO LENN 05-28. ODPOWIEDZI 06-12 (RZUT).**
 - **300-05-27** — SPICHLERZ ETAP I - ODPOWIEDZI LORDOW NA FORMULARZ (kto zaklada ksiege i od kiedy). JEDEN RZUT na cala fale (zasada 27). · _kto:_ **LORDOWIE POLNOCY -> ORLAND** · _zamyka:_ lista lenn z data zalozenia ksiegi (rzut)
 - **300-05-27** — OWCE Z HORNWOOD - odpowiedz Larence'a (stado, cena wg oferty, data wypedzenia na Kamienny Brzeg). RZUT ZAKUPU JUZ RZUCONY: 87 - TAK. · _kto:_ **GAWEN -> LARENCE HORNWOOD (+ lady Donella)** · _zamyka:_ stado wypedzone, data przybycia na Kamienny Brzeg (E ~5 tyg.)
 - **300-05-27** — ROZKAZ NA CZTERY OGNIE - potwierdzenie odbioru od Hendry'ego i Garricka + rachunek lancucha/barek na Goraczce ponizej Fosy (Hendry + Orbelo). · _kto:_ **HENDRY + GARRICK (+ ORBELO)** · _zamyka:_ potwierdzenie + miejsce na lancuch/barki
@@ -1630,8 +1627,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-05-27] `robb_stark`: 300-05-27 SOLAR KROLA (cd.) - ⚑ SYMON: 1/10 UROBKU, TA SAMA MIARA DLA KAZDEGO KLANU. Bez rzutu (Krol przyjmuje slowo Namiestnika w ramach swojej zasady). KROL: 'Dziesiata czesc. Uczciwie - m…
-- [300-05-27] `dziennik`: 300-05-27 SNIADANIE, WIELKA SALA - Symon dziekuje Krolowi; sniadanie z Mira i Lyra. Bez rzutow. Mzawka, chlodno, ogien w obu kominkach. Owsianka z miodem, chleb Benneta, jajka, maslo, mleko.…
 - [300-05-27] `dziennik`: 300-05-27 PRZED POLUDNIEM, KRYTA ZBROJOWNIA (dziedziniec w blocie - pogoda 26) - TRENING U MISTRZA Z BRAAVOS. Bez rzutu. Ciasno: stojaki z wloczniami, skrzynie, niska belka. Mistrz: 'Na dzie…
 - [300-05-27] `dziennik`: 300-05-27 OBIAD, WIELKA SALA - Symon z Mira (Lyra z Rhona). Bez rzutow. Mzawka ustaje, chmury wysoko. Zupa fasolowa z wedzonka, pieczony pstrag, kasza, chleb Benneta, piwo. Sytosc 92->100. M…
 - [300-05-27] `dziennik`: 300-05-27 PO POLUDNIU - SPACER PO MURACH: Symon, Mira, Lyra. Bez rzutow. Chmury wysoko, wilgotne powietrze, widok na Zimowe Miasto i trakt krolewski na poludnie. Na murach straznicy salutuja…
@@ -1642,3 +1637,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-05-27] `dziennik`: 300-05-27 NOC - Symon dziekuje Branowi; z Mira spac przed polnoca. Koniec dnia.
 - [300-05-28] `dziennik`: 300-05-28 RANEK (CZWARTEK), WINTERFELL - SEN RZUT 91: noc znakomita - Lyra przespala cala noc, pierwszy raz od tygodnia; zdrowie 100, zmeczenie 40->2, sytosc 100->72. POGODA RZUT 90: piekny …
 - [300-05-28] `dziennik`: 300-05-28 SNIADANIE, WIELKA SALA - Symon z Mira i Lyra. Bez rzutow. Slonce przez wschodnie okna, okna otwarte. Owsianka z miodem, jajka, chleb Benneta, maslo, pierwsze rzodkiewki. Lyra wyspa…
+- [300-05-28] `dziennik`: 300-05-28 PRZED POLUDNIEM, SOLAR KROLA - SYMON Z KARTAMI FORMULARZA SPICHLERZA (Orland; po jednej na lenno wg rejestru Tobina). Bez rzutu (program Korony z Rady 03-30; prerogatywa Krola - pi…
+- [300-05-28] `robb_stark`: 300-05-28 PRZED POLUDNIEM, SOLAR KROLA - SYMON Z KARTAMI FORMULARZA SPICHLERZA (Orland; po jednej na lenno wg rejestru Tobina). Bez rzutu (program Korony z Rady 03-30; prerogatywa Krola - pi…

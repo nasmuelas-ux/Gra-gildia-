@@ -6229,6 +6229,42 @@
    "wraca": "300-06-05",
    "zamyka": "stol w szwalni + polki w bibliotece",
    "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "LISTA KSIAG (Luwin, reka wlasna): DOM - dzieje i rody, kroniki, genealogie, mapy; URZAD - prawo (z morskim Braavos), rachunek, ziola i leczenie, budowanie i woda, zegluga. 'Najpierw to, czego nikt na Polnocy nie ma.'",
+   "kto": "LUWIN",
+   "kanal": "Winterfell",
+   "wraca": "300-05-26",
+   "zamyka": "lista na stole Symona (idzie z krukiem do Hala)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "ZAKUP KSIAG - HAL (Bialy Port): z kazdego statku z Braavos i Starego Miasta wg listy Luwina; Kasa 1 poza buforem 1000; spis: tytul, skad, za ile. Pierwszy spis zakupow w bilansie miesiecznym.",
+   "kto": "SYMON -> HAL",
+   "kanal": "kruk Winterfell-Bialy Port (05-26)",
+   "wraca": "300-06-07",
+   "zamyka": "pierwszy spis zakupow (bilans 06-05)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "ZAKUP KSIAG - NESTA (Braavos): wg listy Luwina, kramy przy Fioletowej Lagunie i kupcy ksiag; statkiem do Bialego Portu. Kantor wlasny - bez rzutu na wydanie; co uda sie kupic - rzut przy odpowiedzi.",
+   "kto": "SYMON -> NESTA (przez Hala)",
+   "kanal": "kruk do Hala + statek BP-Braavos i z powrotem (~48 dni)",
+   "wraca": "300-07-15",
+   "zamyka": "pierwsza skrzynia ksiag z Braavos w Bialym Porcie (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-25",
+   "co": "KOPIOWANIE KSIAG URZEDOWYCH DLA FOSY - pisarze szkoly na Fosie pod okiem Miry (do czasu skryptorium w Latarni); dniowka Kasa 2; oryginaly w Winterfell. Start - z pierwsza ksiega kupiona.",
+   "kto": "MIRA (Pani Fosy) + pisarze szkoly Fosy",
+   "kanal": "Winterfell / Fosa",
+   "wraca": "300-07-15",
+   "zamyka": "pierwszy odpis na Fosie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

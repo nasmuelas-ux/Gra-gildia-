@@ -6327,7 +6327,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-07",
    "zamyka": "decyzja Krola o zakupie (rzut przy kontraktach)",
-   "status": "otwarte ### 06-02: narada u Krola przesunieta na 06-07 po sniadaniu (przed wyjazdem Namiestnika 06-08)."
+   "status": "narada 06-07: plan na stole, liczby Gawena; luka ~190 tys. korcy - CZEKA NA SLOWO SYMONA (co w 300, co odlozyc, kto pozycza); decyzja Krola po nim."
   },
   {
    "data": "300-05-25",
@@ -6412,7 +6412,7 @@
   },
   {
    "data": "300-05-26",
-   "co": "DRUGI LIST KROLA DO EDMURE'A (~06-10, po podziekowaniu): prosba, by Edmure napisal do wasali z garnizonami Lannisterow (pewne: Mooton/Maidenpool; Darry; reszta wg zwiadowcow), ze to zlamanie traktatu i ze ten sam odpis idzie do Reach, Dorne, Lannisterow i Zelaznego Banku - listy Edmure'a maja wyjsc RAZEM z aktem (~06-28). Wola Edmure'a - RZUT przy odpowiedzi.",
+   "co": "DRUGI LIST KROLA DO EDMURE'A (~06-10, po podziekowaniu): prosba, by Edmure napisal do wasali z garnizonami Lannisterow (pewne: Mooton/Maidenpool; Darry; reszta wg zwiadowcow), ze to zlamanie traktatu i ze ten sam odpis idzie do Reach, Dorne, Lannisterow i Zelaznego Banku - listy Edmure'a maja wyjsc RAZEM z aktem (~06-28). Wola Edmure'a - RZUT przy odpowiedzi. ### 06-07: LIST NAPISANY PRZEZ KROLA na naradzie, kruk Winterfell-Riverrun dzis; odpowiedz (rzut) ~06-16.",
    "kto": "KROL -> EDMURE",
    "kanal": "kruk Winterfell-Riverrun (~06-10) i z powrotem",
    "wraca": "300-06-16",
@@ -6448,10 +6448,10 @@
   },
   {
    "data": "300-05-26",
-   "co": "T1-B ODNOGA DO BLIZNIAKOW - przebieg z pomiaru Brenna z Brodu na stol Krola razem z planem zbozowym i T3-C. Dlug Korony wobec Waldera; roboty po ratyfikacji.",
+   "co": "T1-B ODNOGA DO BLIZNIAKOW - przebieg z pomiaru Brenna z Brodu na stol Krola razem z planem zbozowym i T3-C. Dlug Korony wobec Waldera; roboty po ratyfikacji. ### 06-07 narada: pomiar Brenna nieskonczony (termin 06-15) - przebieg na stol po pomiarze.",
    "kto": "SYMON -> KROL (Brenn z Brodu - przebieg)",
    "kanal": "Winterfell",
-   "wraca": "300-06-07",
+   "wraca": "300-06-15",
    "zamyka": "decyzja Krola o starcie T1-B i T3-C",
    "status": "otwarte ### 06-02: narada u Krola przesunieta na 06-07 po sniadaniu (przed wyjazdem Namiestnika 06-08)."
   },

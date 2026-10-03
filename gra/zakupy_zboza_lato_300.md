@@ -59,3 +59,27 @@ Plan z liczbą (Orland), kosztem i źródłem monety (Gawen) oraz kanałami (Rod
 - **Cypel i zapas razem to ponad dziewięć dziesiątych całości.** Wielkość zakupu zależy od tego, ile dzicy na Cyplu wyżywią się sami.
 - **Gdzie to zmieścić:** trzy wielkie spichlerze lenna (grobla, Gorący Port, Przystań Wilka) i Spichlerz Północy. Pojemność poda Warryn. *„Zapasu na trzy lata nie wsadza się do spichlerzy, które mają stanąć za rok.”*
 - **Zboża siewnego nie rusza się.**
+
+---
+
+## LICZBY GAWENA I NARADA U KRÓLA, 300-06-07
+*Gawen liczy z ceny, która jest w zapisie: **40 jeleni za korzec** (Dorzecze, jesień 299, rok głodu, rachunek Lucana i Donelli). Ceny po żniwach na Południu to szacunek Gawena (E). Pewnej liczby nie ma, dopóki Rodwell i Hal nie przyślą cen (termin 06-08).*
+
+| kierunek | cena za korzec (E) | uwagi |
+|---|---|---|
+| Reach, po żniwach | ~15–20 jeleni | najtańszy; eskorta Redwyne'a; wyładunek na zachodnich portach |
+| Dorzecze | ~25–30 jeleni | samo wychodzi z wojny; lądem dopiero po ratyfikacji |
+| Pentos | ~20 jeleni + fracht ~8 | najdłużej; nie przez dom Orrello |
+| Tallhart (Cypel) | cena ze słupa (Gawen sprawdzi) | „pierwszy statek i pierwszy miesiąc”, więcej nie wykarmi |
+
+**Rachunek Gawena (E):**
+- **225–245 tys. korcy po ~20 jeleni to ~22 500–24 500 smoków.** Kasa 3 zarabia ~680–1 110 smoków miesięcznie, czyli to jest **dochód Skarbu z dwóch lat**.
+- Bez ruszania żołdu, Muru i budów Korona udźwignie do IX **~3 000–4 000 smoków**. Za to przy ~20 jeleni kupi **~30–40 tys. korcy**.
+- **Luka: ~190 tys. korcy.**
+
+**Pięć dróg Gawena (do decyzji Króla):**
+1. **Najpierw to, co nie może czekać:** przednówek i Sigrun (z komór, już jedzie), garnizony (~3 500), Cypel na pierwszą zimę w minimum.
+2. **Cypel karmi się bardziej sam:** ryby, foki, polowanie, a od Korony tylko uzupełnienie. Pytanie do Króla: czy dzicy spłacają zboże pracą (drogi, Mur) albo towarem (futra, foki).
+3. **Zapas na 30–40 tys. rozłożyć na lata:** transza I mniejsza albo w 301.
+4. **Płacić towarem** (futra, drewno, tran, sól), według Gawena do ~⅓. **⚠ Obsydianu nie, bo warunkiem Stannisa jest, że idzie na Mur, nie do skarbca. Skreślony z listy zapłaty.**
+5. **Pożyczyć na zboże:** obligacja zbożowa Korony (Wyman, Żelazny Bank przez Nestę, Dom Tally na procent i jawnie, mur trzech kas). Spłata po zimie.

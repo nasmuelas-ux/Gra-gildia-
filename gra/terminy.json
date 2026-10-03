@@ -5625,7 +5625,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-21 - nawalnica 05-20) i z powrotem",
    "wraca": "300-05-27",
    "zamyka": "raport na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - raport Hala (bez liczb): BvB przyjmuje zloto, weksle dyskontuje glebiej; Pentos woli monete; garnizony placa kwitem; poglosk o slabszych zylach."
   },
   {
    "data": "300-05-19",
@@ -5679,7 +5679,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-20) i z powrotem; Hal pyta przez korespondentow",
    "wraca": "300-05-27",
    "zamyka": "wycena i czas dostawy na pismie (albo nazwane, czego jeszcze nie wiadomo)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - Myr wycenia tylko z miara tafli; dostawa 2-3 mies. (E). Nowy termin: wymiar ram od Werrana."
   },
   {
    "data": "300-05-19",
@@ -5895,7 +5895,7 @@
    "kanal": "kruk Winterfell-Deepwood (05-21) i z powrotem",
    "wraca": "300-05-27",
    "zamyka": "zgoda Glovera + imie czlowieka do pomiaru (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 (rzut 26) - zgoda Robetta na trakt TAK; czlowiek do pomiaru dopiero za slowem Galbarta (~06-05). Nowy termin 06-07."
   },
   {
    "data": "300-05-21",
@@ -6021,7 +6021,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-23) i z powrotem",
    "wraca": "300-05-27",
    "zamyka": "odpowiedz szwaczek (rzut) + data przyjazdu",
-   "status": "WYSLANY 300-05-23 - odpowiedz szwaczek ~05-27 (rzut)"
+   "status": "ZAMKNIETE 300-05-27 (rzut 73) - Tessa i Marga jada; wyjazd 05-28, Winterfell ~06-05 (E)."
   },
   {
    "data": "300-05-22",
@@ -6066,7 +6066,7 @@
    "kanal": "kruk Winterfell-Bialy Port i z powrotem",
    "wraca": "300-05-27",
    "zamyka": "data i statek",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - Wystan wyplynal 05-11 na 'Szarej Foce'; Wschodnia Straznica E ~05-23/25."
   },
   {
    "data": "300-05-23",
@@ -6111,7 +6111,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-27",
    "zamyka": "cena kompletu z lukiem, pensja dziesietnika, ubytek czynszu",
-   "status": "otwarte"
+   "status": "CZESCIOWO 300-05-27 - komplet z lukiem ~2,3-3,5 smoka (E); dziesietnik 10 miedz./dzien (~18 smokow rocznie na 100, E); UBYTEK CZYNSZU - Gawen 06-10."
   },
   {
    "data": "300-05-24",
@@ -6129,7 +6129,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-27",
    "zamyka": "imie na noc w domu wychowankow",
-   "status": "otwarte"
+   "status": "PRZYSZLO 300-05-27 - Gawen i Luwin wskazuja GERTE (wdowa po strazniku bramy, dwoje dzieci), 15 miedz./noc (E). Do slowa pana."
   },
   {
    "data": "300-05-24",
@@ -6201,7 +6201,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-27",
    "zamyka": "wpis w ksiedze zamku",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - wpis w ksiedze zamku."
   },
   {
    "data": "300-05-25",
@@ -6210,7 +6210,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-27",
    "zamyka": "dwudziestu pod dachem + stawka wiktu w ksiedze",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 - dwudziestu pod dachem; wikt 8 miedz./geba/dzien (E), Kasa 1."
   },
   {
    "data": "300-05-25",
@@ -6273,7 +6273,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-27",
    "zamyka": "ogledziny: szyb jest/nie ma + termin roboty",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 (rzut 64) - SZYB JEST (stary szyb na polana, do poszerzenia); robota od 05-28, proba ~06-18."
   },
   {
    "data": "300-05-25",
@@ -6282,7 +6282,7 @@
    "kanal": "Winterfell",
    "wraca": "300-05-27",
    "zamyka": "lista lenn z data startu ksiegi Etapu I (albo: nikt)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-27 (rzut 2) - NIKT NA PISMIE. Orland proponuje formularz pod pieczecia Krola. Do slowa pana."
   },
   {
    "data": "300-05-25",
@@ -6381,7 +6381,7 @@
    "kanal": "kruk Winterfell-Riverrun (05-26 po poludniu)",
    "wraca": "300-05-27",
    "zamyka": "list wyslany",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-05-26 - wyslany po poludniu."
   },
   {
    "data": "300-05-26",
@@ -6624,6 +6624,69 @@
    "kanal": "kruk Winterfell-Czarny Zamek (05-26 wieczor); odpowiedz z poselstwem",
    "wraca": "300-06-20",
    "zamyka": "odpowiedz poselstwa o Benjenie (z rzutem spotkania z Mance'em)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "SZKLO Z MYR - WYMIAR RAM SZKLARNI (szerokosc, wysokosc tafli, liczba) od WERRANA -> Hal -> Myr. Bez miary Myr nie wycenia.",
+   "kto": "WERRAN (Fosa) -> HAL",
+   "kanal": "kruk Winterfell-Fosa i Fosa-Bialy Port",
+   "wraca": "300-06-08",
+   "zamyka": "wymiar tafli i liczba u Hala",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "TRAKT S1 - CZLOWIEK DO POMIARU Z TYCZKA od Gloverow - za slowem GALBARTA (w Deepwood ~06-05). Robett zgodzil sie na trakt (rzut 26).",
+   "kto": "GALBART -> ROBETT GLOVER",
+   "kanal": "kruk Winterfell-Deepwood",
+   "wraca": "300-06-07",
+   "zamyka": "imie czlowieka do pomiaru (bez nowego rzutu - sprawa ma rzut 26)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "SZWACZKI TESSA I MARGA w Winterfell (wyjazd BP 05-28, wozem Domu przez Cerwyn).",
+   "kto": "TESSA + MARGA",
+   "kanal": "trakt Bialy Port-Winterfell",
+   "wraca": "300-06-05",
+   "zamyka": "szwaczki na miejscu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "REZERWA - UBYTEK CZYNSZU Z ULGI 1/10 - z ksiag wsi domeny.",
+   "kto": "GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-06-10",
+   "zamyka": "ubytek czynszu na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "WINDA W WIEZY STRAZNICZEJ - PROBA Z PODWOJNYM CIEZAREM (pięc poprawek). RZUT przy probie.",
+   "kto": "CIESLA + KOWAL ZAMKOWY",
+   "kanal": "Winterfell",
+   "wraca": "300-06-18",
+   "zamyka": "proba udana / co poprawic (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "SPICHLERZ POLNOCY ETAP I - SLOWO PANA (i Krola): formularz zgloszenia (karta z czterema kolumnami i data) pod pieczecia Krola do kazdego lorda? Na pismie nie zglosil sie nikt (rzut 2).",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-05-29",
+   "zamyka": "decyzja o formularzu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-27",
+   "co": "DOM WYCHOWANKOW - NOC: slowo pana o GERCIE (wdowa po strazniku bramy, 15 miedz./noc E).",
+   "kto": "SYMON",
+   "kanal": "Winterfell",
+   "wraca": "300-05-28",
+   "zamyka": "tak/nie dla Gerty",
    "status": "otwarte"
   }
  ],

@@ -95,3 +95,23 @@
 - **Odnoga do Bliźniaków (trakt 1, odcinek B)** jest w zapisie **długiem Korony wobec Waldera** (299-09-09). Zostaje przy Koronie, dopóki pan nie powie inaczej.
 - **Odcinek C traktu 3 (Cerwyn → Winterfell)** to Trakt Królewski na ziemi domeny, więc lordem jest tu Król. Robią go ręce domeny.
 - **Trakt 1 w Dorzeczu:** lordowie odcinków to Frey, Mallister i Tully. Rozmowa z nimi idzie przez Króla (prerogatywa) i dopiero po ratyfikacji.
+
+---
+
+## KARTA ODCINKÓW — KAŻDY ODCINEK TO OSOBNA BUDOWA (rozkaz pana 300-05-26)
+*„Ruszamy z całym terminarzem.” Każdy wiersz ma płatnika, ręce, pierwszą operację z datą i checkpoint. Daty startu i checkpointy są szacunkiem (E); ustawi je kolejka Warryna po pomiarze. Ludzi na każdej budowie liczy człowiek Gawena (warunek Cerwyna z 300-02-20).*
+
+| ID | odcinek | płaci | ręce | pierwsza operacja (termin) | start robót (E) | checkpoint (E) |
+|---|---|---|---|---|---|---|
+| **T1-A** | grobla przez Przesmyk | lenno | Fosa | **w biegu**, karta ośmiu budów nr 2 | — | grobla przejezdna |
+| **T1-B** | odnoga Trakt Królewski → Bliźniaki (~30 mil) | Korona (dług wobec Waldera) | Dorzecze, za dniówkę | przebieg z pomiaru Brenna z Brodu na stół Króla — **06-10** | VII, po ratyfikacji | pierwsze 10 mil przed mrozem — **10-15** |
+| **T1-C** | Bliźniaki → Seagard (~55 mil) | Fosa + Frey i Mallister | Dorzecze, za dniówkę | list Króla do Freya i Mallistera po ratyfikacji — **07-05** | wiosna 301 | — |
+| **T1-D** | Seagard → Riverrun (~150 mil) | Fosa + Mallister i Tully | Dorzecze, za dniówkę | list Króla do Edmure'a po ratyfikacji — **07-05** | 301 | — |
+| **T2-A** | Fosa → granica lenna, dwutor | lenno | Fosa + wykonawcy spoza lenna | pomiar z tyczką od 06-05, przebieg na piśmie — **06-25** | VII | pierwsze 5 mil dwutoru i stacja mułów nr 1 przed mrozem — **10-15** |
+| **T2-B** | granica → Biały Port, dwutor | Wyman | ludzie Wymana | odpowiedź Wymana: kto, kiedy, ilu — **05-30** (rzut) | wg Wymana | — |
+| **T3-A** | Fosa → Przystań Wilka (~180 mil) | lenno na swojej ziemi, lordowie na swojej | Fosa + wykonawcy spoza lenna | pomiar z tyczką od 06-10, przebieg na piśmie — **07-05** | VIII | — |
+| **T3-M** | most kamienny na Białym Nożu przy Przystani Wilka | wg udziałów przystani: Korona ½, Cerwyn ¼, Manderly ¼ | murarze baszty (Bors), po dachu baszty | wycena i miejsce mostu — **06-20** | VII | filary przed mrozem — **10-15** |
+| **T3-B** | Przystań Wilka → Castle Cerwyn (~60 mil) | Cerwyn | ludzie Cerwyna | odpowiedź Cerwyna: kto, kiedy, ilu — **06-03** (rzut) | wg Cerwyna | — |
+| **T3-C** | Castle Cerwyn → Winterfell (~25 mil), poprawa Traktu Królewskiego | Król (domena) | ręce domeny | do Króla razem z traktem 1 — **06-10** | VII, po sianokosach | odcinek gotowy przed mrozem — **10-15** |
+
+**Kamień:** pan kupuje kamień od Flintów (300-05-26). Granit z Palca idzie łodzią do Gorącego Portu i barką w górę Gorączki do Cailin. Ilość ustala człowiek Fosy na Palcu, a zgoda Flinta na większą ilość to rzut przy odpowiedzi (**05-28**).

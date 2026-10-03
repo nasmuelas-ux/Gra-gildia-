@@ -5962,7 +5962,7 @@
   },
   {
    "data": "300-05-22",
-   "co": "WIECEJ KAMIENIA OD FLINTOW (Palec Flinta) - rozwazyc: ile Flint moze dac, lodzia czy wozem, ktoredy do Fosy, czy odciazy kolejke (baszta Przystani Wilka, wieze zamku, spichlerze). Czlowiek Fosy jest na Palcu po kamien. Zgoda Flinta na wiekszy kamien - RZUT (jedna rozmowa razem z propozycja punktu ognia - zasada 27: osobna sprawa, osobny rzut).",
+   "co": "WIECEJ KAMIENIA OD FLINTOW (Palec Flinta) - rozwazyc: ile Flint moze dac, lodzia czy wozem, ktoredy do Fosy, czy odciazy kolejke (baszta Przystani Wilka, wieze zamku, spichlerze). Czlowiek Fosy jest na Palcu po kamien. Zgoda Flinta na wiekszy kamien - RZUT (jedna rozmowa razem z propozycja punktu ognia - zasada 27: osobna sprawa, osobny rzut). ### 05-26 DECYZJA PANA: KUPUJEMY KAMIEN OD FLINTOW (takze pod trakty 2 i 3). Rzut zostaje przy odpowiedzi Flinta.",
    "kto": "GARRICK + WARRYN -> czlowiek Fosy na Palcu -> FLINT",
    "kanal": "kruk Winterfell-Fosa (05-22) + lodz/jezdziec na Palec + kruk z Fosy",
    "wraca": "300-05-28",
@@ -6426,6 +6426,87 @@
    "kanal": "Winterfell",
    "wraca": "300-05-28",
    "zamyka": "rozkaz do Fosy wyslany + trakt 1 na stole Krola",
+   "status": "ZAMKNIETE 300-05-26 - rozkaz do Fosy wyslany, listy do Wymana i Cerwyna wyslane; kazdy odcinek ma wlasny termin (T1-B..T3-C)."
+  },
+  {
+   "data": "300-05-26",
+   "co": "FOSA - MIERNICZY NA TRAKTY 2 i 3 (Garrick, zasada 12) + ODCINKI T2-A i T3-A W KOLEJCE KAMIENIA I RAK (Warryn) - z datami startu. Wlasni ludzie, bez rzutu.",
+   "kto": "GARRICK + WARRYN",
+   "kanal": "kruk Winterfell-Fosa (05-26) i z powrotem",
+   "wraca": "300-06-01",
+   "zamyka": "imiona mierniczych + miejsce odcinkow w kolejce z datami",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "WYKONAWCY DROG SPOZA LENNA - ogloszona stawka (jak nabor murarzy i ciesli), szukaja Warryn i Herwin; odzew - RZUT.",
+   "kto": "WARRYN + HERWIN",
+   "kanal": "Fosa (ogloszenie na slupie i targu) + kruk Fosa-Winterfell",
+   "wraca": "300-06-08",
+   "zamyka": "lista ekip spoza lenna z liczba ludzi (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "T1-B ODNOGA DO BLIZNIAKOW - przebieg z pomiaru Brenna z Brodu na stol Krola razem z planem zbozowym i T3-C. Dlug Korony wobec Waldera; roboty po ratyfikacji.",
+   "kto": "SYMON -> KROL (Brenn z Brodu - przebieg)",
+   "kanal": "Winterfell",
+   "wraca": "300-06-10",
+   "zamyka": "decyzja Krola o starcie T1-B i T3-C",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "T1-C i T1-D (BLIZNIAKI-SEAGARD, SEAGARD-RIVERRUN) - listy Krola do Freya, Mallistera i Edmure'a PO RATYFIKACJI: zgoda na odcinki, udzial lordow, rece Dorzecza za dniowke. Wola obca - RZUT przy odpowiedziach.",
+   "kto": "KROL (prerogatywa) <- SYMON",
+   "kanal": "kruki Winterfell-Blizniaki / Seagard / Riverrun",
+   "wraca": "300-07-05",
+   "zamyka": "listy wyslane po ratyfikacji",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "T2-A POMIAR FOSA -> GRANICA LENNA (dwutor) - mierniczy z tyczka od 06-05; przebieg, mosty, miejsca stacji mulow na pismie.",
+   "kto": "MIERNICZY FOSY (wskaze Garrick)",
+   "kanal": "Fosa + kruk Fosa-Winterfell",
+   "wraca": "300-06-25",
+   "zamyka": "przebieg T2-A na pismie z lista mostow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "T2-B WYMAN - jego wykonawcy na odcinek granica -> Bialy Port (dwutor, przekroj w liscie): kto, kiedy, ilu. Wola obca - RZUT.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "kruk Winterfell-Bialy Port (05-26) i z powrotem",
+   "wraca": "300-05-30",
+   "zamyka": "odpowiedz Wymana (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "T3-A POMIAR FOSA -> PRZYSTAN WILKA - mierniczy z tyczka od 06-10; przebieg i podzial na ziemie (lenno / Manderly / Cerwyn) na pismie.",
+   "kto": "MIERNICZY FOSY (wskaze Garrick)",
+   "kanal": "Fosa + kruk Fosa-Winterfell",
+   "wraca": "300-07-05",
+   "zamyka": "przebieg T3-A z podzialem na ziemie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "T3-M MOST KAMIENNY NA BIALYM NOZU przy Przystani Wilka - wycena i miejsce (po dachu baszty 06-14); platnicy wg udzialow przystani: Korona 1/2, Cerwyn 1/4, Manderly 1/4.",
+   "kto": "BORS (Przystan Wilka) + WARRYN",
+   "kanal": "kruk Fosa-Winterfell",
+   "wraca": "300-06-20",
+   "zamyka": "wycena i miejsce mostu na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-26",
+   "co": "T3-B CERWYN - jego wykonawcy na odcinek Przystan Wilka -> Castle Cerwyn: kto, kiedy, ilu. Cerwyn w objezdzie do ~06-01. Wola obca - RZUT.",
+   "kto": "SYMON -> CERWYN",
+   "kanal": "kruk Winterfell-zamek Cerwyn (05-26) i z powrotem",
+   "wraca": "300-06-03",
+   "zamyka": "odpowiedz Cerwyna (rzut)",
    "status": "otwarte"
   }
  ],

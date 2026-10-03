@@ -21,4 +21,19 @@
 
 ---
 
+## 2. O SZCZURZYM KUCHARZU
+*Spisane 300-05-30 wieczorem, w izbie Niani. Rickon spał już u siebie, Kudłaty Pies pod drzwiami. Niania grzała ręce nad kubkiem z mlekiem.*
+
+> W Forcie Nocy, kiedy jeszcze stała w nim Straż i ognie paliły się na wszystkich wieżach, był kucharz. Dobry kucharz, mówią, najlepszy na całym Murze. A był też wtedy król, andalski król z południa, i ten król przyjechał na Mur ze swoim synem, bo chciał zobaczyć, gdzie kończy się świat.
+>
+> Kucharz miał do tego króla urazę. O co, tego bajka nie mówi, a ja nie będę zmyślać. Może o ziemię, może o krew, może o nic, bo ludzie potrafią nienawidzić o nic. I kiedy królewski syn usiadł przy stole, przy ogniu, pod dachem Straży, kucharz go zabił. Pociął, upiekł w wielkim pasztecie z boczkiem i porem, i podał ojcu. A ojciec zjadł i pochwalił. Dwa razy sobie dołożył.
+>
+> I bogowie zamienili kucharza w wielkiego białego szczura, który może jeść tylko własne młode. I do dziś biega po Forcie Nocy i zjada swoje dzieci, i nigdy się nie nasyci.
+>
+> A teraz posłuchaj, dziecko, bo to jest najważniejsze, a ludzie zawsze to gubią. **Bogowie nie ukarali go za morderstwo.** Ludzie zabijają ludzi i bogowie na to patrzą. **Ani za to, że podał ojcu syna w pasztecie.** Ukarali go za to, że zabił **gościa pod swoim dachem**. Kto zje twój chleb i twoją sól, ten jest święty, dopóki siedzi przy twoim ogniu. Tego nie wybaczają ani starzy bogowie, ani nowi.
+
+*Dopisek spisującego:* Kiedy odłożyłem pióro, Niania powiedziała do mnie: *„Słyszałam, że jedziecie w gości do lady Dustin. Pamiętajcie, panie, że prawo gościa wiąże w obie strony. Gospodarz nie skrzywdzi gościa, a gość nie przynosi pod cudzy dach tego, czego gospodarz nie chce tam mieć.”*
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

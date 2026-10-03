@@ -53,7 +53,8 @@ Do tego: **Hal — dyrektor generalny** (Fosa), Tam i Wick przy księgach, Deman
 
 ## CO NIE JEST MOJE — i ma tak zostać
 
-> **ATELIER MIRY.** Jej grunt, jej marka, jej pieczęć. Dom handlowy pomaga do noszenia i liczenia — **bez wtrącania się w rzemiosło.** Dopisane własną ręką pod pieczęcią: *to nie jest zlecenie domu handlowego.*
+> ⚠ **NIEAKTUALNE od 299-11-29:** Mira wstąpiła do Domu jako wspólniczka i wniosła atelier z własną księgą (wycena 300-02-06: 520). Zob. VOID 300-04-02 i 300-05-26.
+> ~~**ATELIER MIRY.** Jej grunt, jej marka, jej pieczęć. Dom handlowy pomaga do noszenia i liczenia — **bez wtrącania się w rzemiosło.** Dopisane własną ręką pod pieczęcią: *to nie jest zlecenie domu handlowego.*~~
 
 ---
 

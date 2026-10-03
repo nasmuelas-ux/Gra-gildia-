@@ -46,8 +46,8 @@ Ciąg technologiczny od surowej obróbki i farbowania na dole, przez masową szw
 ---
 
 ## ZGODNOŚĆ Z ZAPISEM (zasada 1)
-- **Atelier jest Miry** (spis przedsiębiorstw 299-09): *„jej grunt, jej marka, jej pieczęć; dom handlowy pomaga nosić i liczyć, bez wtrącania się w rzemiosło”*. Mira dopisała własną ręką: *„to nie jest zlecenie domu handlowego”*. W projekcie inwestorem jest „Dom Handlowy Tally / Patronat Lady Tally”, a to zapisowi przeczy.
-- **Warsztat bursztynu Marra należy do Domu Handlowego** (Kasa 1). Jeden budynek mieściłby więc dwóch właścicieli i dwie księgi.
+- **Atelier jest w Domu.** 299-11-29 Mira wstąpiła do Domu Tally jako wspólniczka, wnosząc dom, warsztat i atelier, przy czym atelier ma **własną księgę**. Wycena z 300-02-06: atelier 520, cały wkład 875, udział około 1/6. Inwestor „Dom Handlowy Tally / Patronat Lady Tally” jest więc **zgodny z zapisem**. *(VOID 300-05-26: uwaga, że atelier „nie jest Domu”, oparta na nieaktualnej rubryce z 299-09.)*
+- **Warsztat bursztynu Marra też jest w Domu** (Kasa 1). W jednym budynku są więc dwie księgi jednego Domu.
 - **Sieć parowa Cailin jeszcze nie istnieje.** W projekcie Cailin rozdział IX „Ciepło i para” jest **PUSTY**, a para pod ulicami to dopiero etap IV. Do tego czasu budynek grzeje własnym piecem pod podłogą, z kominami w bazalcie (ta sama klauzula ogniowa co w Pomarańczowym Dworze).
 - **Szkło z Myr:** wycena i czas dostawy przyjdą od Hala 05-27.
 - **Pomarańczowy Dwór,** obok którego stanąłby budynek, ma w kolejce Warryna termin 301/302 (E).
@@ -56,6 +56,12 @@ Ciąg technologiczny od surowej obróbki i farbowania na dole, przez masową szw
 - „Lady Mikii” na poziomie 3 to pomyłka w pisowni; chodzi o atelier Lady Tally, czyli Miry.
 
 ## UWAGI MIRY (300-05-26, przy śniadaniu)
-1. **Pieczęć.** Atelier, szwalnia i farbiarnia są jej, pod jej pieczęcią. Pracownia jubilerska Marra może stać w tym samym budynku jako **najemca Domu**, ale z własnymi drzwiami, własną księgą i własnym kluczem. *„Jeden dom, dwie księgi. Tak jak u ciebie z kasami.”*
+1. ~~Pieczęć: atelier nie jest Domu~~ — **VOID** (zasada 3). Mira mówi poprawnie: *„Sama to podpisałam, rylcem, pierwsza. Z własną księgą.”* Atelier i pracownia Marra mają osobne księgi jednego Domu: *„wtedy przy każdym bilansie widać, kto zarabia na kim”*.
 2. **Farbiarnia nie przy bulwarze.** Barwnik i ług płyną kanałem w dół. Gdyby farbiarnia stała w Mieście Górnym, cały Kanał Wielki pod salonem byłby pomarańczowy i śmierdział octem. Jej zdaniem farbiarnię i pralnię trzeba postawić **niżej, na końcu kanału**, poniżej miasta, a do budynku przy bulwarze przewozić gotowe sukno.
 3. **Kto na miejscu.** Mira mieszka w Winterfell. Atelier w Cailin potrzebuje mistrzyni, która będzie tam co dzień; jej imienia Mira jeszcze nie podaje. Szwaczki dla Miry: odpowiedź (rzut) 05-27.
+
+## DECYZJE PANA (300-05-26)
+- **Farbiarnia i pralnia na końcu kanału,** poniżej miasta. Do budynku przy bulwarze idzie gotowe sukno.
+- **Marro jako najemca** w budynku: własne drzwi, własny klucz, własna księga.
+- Atelier jest liczone w Domu, z własną księgą: *„jesteśmy teraz połączeni”*.
+- **Budowy nadal nie zlecono.**

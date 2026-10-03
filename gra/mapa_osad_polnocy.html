@@ -29,6 +29,10 @@ header a{color:var(--accent)}
 .ctl{position:absolute;top:10px;right:10px;display:flex;flex-direction:column;gap:6px;z-index:2}
 .ctl button{font-family:var(--ui);font-size:18px;font-weight:600;min-width:40px;height:40px;padding:0 10px;border-radius:6px;border:1px solid #0006;background:#fffffff0;color:#111;cursor:pointer}
 .ctl button.wide{font-size:13px}
+.lay{position:absolute;top:10px;left:10px;display:flex;gap:0;z-index:2;border-radius:6px;overflow:hidden;border:1px solid #0006}
+.lay button{font-family:var(--ui);font-size:13px;font-weight:600;height:36px;padding:0 12px;border:0;background:#fffffff0;color:#111;cursor:pointer}
+.lay button.on{background:#1d3f8f;color:#fff}
+.route.solid{stroke-dasharray:none}
 .hint{position:absolute;left:10px;bottom:10px;font-family:var(--ui);font-size:12px;color:#fff;background:#000a;padding:4px 8px;border-radius:4px;pointer-events:none}
 
 .legend{display:flex;flex-wrap:wrap;gap:8px 20px;margin-top:12px;font-family:var(--ui);font-size:13.5px;align-items:center}
@@ -68,15 +72,16 @@ section h2{font-family:var(--ui);font-weight:600;font-size:12px;letter-spacing:.
 <header>
   <div class="stamp">Kancelaria Namiestnika · stan na 300-05-26</div>
   <h1>Nowe osady i porty Północy</h1>
-  <p>Fundacje z rejestru osad naniesione na mapę Północy gracza. Kółkiem myszy albo dwoma palcami przybliżasz, przeciągając przesuwasz. Kliknięcie miejsca w rejestrze pod mapą od razu je przybliża. Pełna mapa świata: <a href="https://quartermaester.info/" target="_blank" rel="noopener">quartermaester.info</a>.</p>
+  <p>Fundacje z rejestru osad naniesione na mapę Północy gracza. Kółkiem myszy albo dwoma palcami przybliżasz, przeciągając przesuwasz. Kliknięcie miejsca w rejestrze pod mapą od razu je przybliża. Dwie warstwy do wyboru w lewym górnym rogu: mapa Westeros i mapa rodów gracza. Położenia są poglądowe. Pełna mapa świata: <a href="https://quartermaester.info/" target="_blank" rel="noopener">quartermaester.info</a>.</p>
 </header>
 
 <div class="mapbox" id="box">
   <svg id="map" viewBox="0 0 575 620" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Mapa Północy z nowymi osadami i portami">
-    <image href="mapa_polnocy_gracza.png" x="0" y="0" width="575" height="620"/>
+    <image href="mapa_westeros.png" x="0" y="0" width="1080" height="1606"/>
     <g id="routes"></g>
     <g id="marks"></g>
   </svg>
+  <div class="lay"><button data-l="wes" class="on">Westeros</button><button data-l="rod">mapa rodów</button></div>
   <div class="ctl">
     <button id="zin" aria-label="Przybliż">+</button>
     <button id="zout" aria-label="Oddal">−</button>
@@ -95,13 +100,14 @@ section h2{font-family:var(--ui);font-weight:600;font-size:12px;letter-spacing:.
   <span><svg width="14" height="14"><rect x="3" y="3" width="8" height="8" transform="rotate(45 7 7)" fill="var(--fg)"/></svg>port / przystań</span>
   <span><svg width="14" height="14"><circle cx="7" cy="7" r="5" fill="var(--fg)"/></svg>osada / miasto</span>
   <span><svg width="14" height="14"><circle cx="7" cy="7" r="5" fill="none" stroke="var(--fg)" stroke-width="1.6" stroke-dasharray="3 2"/></svg>przerywany: tylko na papierze</span>
-  <span><svg width="26" height="8"><line x1="0" y1="4" x2="26" y2="4" stroke="var(--fg)" stroke-width="2" stroke-dasharray="5 3"/></svg>trakt / przewłoka</span>
+  <span><svg width="26" height="8"><line x1="0" y1="4" x2="26" y2="4" stroke="var(--fg)" stroke-width="2.5"/></svg>trasa w budowie</span>
+  <span><svg width="26" height="8"><line x1="0" y1="4" x2="26" y2="4" stroke="var(--fg)" stroke-width="2" stroke-dasharray="5 3"/></svg>trasa planowana / w pomiarze</span>
 </div>
 
 <section>
 <h2>Rejestr miejsc · kliknij, aby pokazać na mapie</h2>
 <div class="reg" id="reg"></div>
-<p class="note">Podkład to mapa gracza z granicami rodów, więc przy dużym przybliżeniu się rozmywa. Położenia nowych miejsc są przybliżone. Karport i Boltonsgate stoją nad Morzem Drżącym, na wybrzeżu Karholdu i Dreadfortu. Starkport stoi na Kamiennym Brzegu od 300-05-21 (Król, rzut 73), a Cypel Morskiego Smoka przeszedł na wolnych ludzi.</p>
+<p class="note">Trasy z rejestru: trakt S1 Starkport–Deepwood (czeka na zgodę Glovera), przewłoka (w budowie), pień przez groblę i Trakt Królewski oraz dwie gałęzie zachodnie do Bliźniaków i Riverrun (tylko pomiar do ratyfikacji, koniec VI). Odnogi na Samotne Wzgórza (Tove) nie rysuję, bo zapis nie podaje jej przebiegu. Podkłady mają niską rozdzielczość i przy dużym przybliżeniu się rozmywają. Położenia nowych miejsc są przybliżone. Karport i Boltonsgate stoją nad Morzem Drżącym, na wybrzeżu Karholdu i Dreadfortu. Starkport stoi na Kamiennym Brzegu od 300-05-21 (Król, rzut 73), a Cypel Morskiego Smoka przeszedł na wolnych ludzi.</p>
 </section>
 </div>
 
@@ -111,26 +117,29 @@ const OWN=[['crown','Korona'],['tally','Dom Tally'],['mixed','Tally i Manderly']
 const PILL={stoi:'stoi',bud:'w budowie',pap:'na papierze'};
 // x,y w układzie mapy 575×620; t: p = port, o = osada; s: stoi / bud / pap; a: strona etykiety
 const P=[
- {id:'stark',n:'Starkport',x:40,y:395,o:'crown',t:'p',s:'bud',a:'r',big:1,d:'Kamienny Brzeg, twierdza na szczycie nad Zatoką Kamieni przy wsi Branna. Karta miasta pod pieczęcią (05-24), palisada z Corwinem i Sigrun, pomiar Weylina ~06-05.'},
- {id:'vem',n:'Przystań Vemunda',x:80,y:292,o:'crown',t:'p',s:'stoi',a:'b',d:'Vemund od Kotwy: pomost, trzy szopy, ok. 40 ludzi. Przystań Korony dla wolnych ludzi.'},
- {id:'cypel',n:'Cypel – wolni ludzie',x:102,y:282,o:'free',t:'o',s:'pap',a:'t',d:'Cypel Morskiego Smoka. Ziemia z nadania Króla, każde ognisko osobno. Poselstwo Dacey jest w drodze do Mance’a.'},
- {id:'dust',n:'Dustinport',x:142,y:461,o:'crown',t:'p',s:'stoi',a:'r',d:'Przystań rzeczna pod Barrowton, 226 ludzi, eskadra Torrena.'},
- {id:'e2',n:'ujście E2',x:136,y:480,o:'crown',t:'p',s:'pap',a:'l',sm:1,d:'Etap E2 Dustinportu: nabrzeże u ujścia, latarnia i solarnia lady Dustin.'},
- {id:'wilk',n:'Przystań Wilka',x:300,y:372,o:'crown',t:'p',s:'bud',a:'r',d:'Zakole górnego Białego Noża. Korona ½, Cerwyn ¼, Manderly ¼. Baszta pod dachem do 06-14. W spisie przystani wschodu figuruje jako „Biały Nóż (zalążek)”.'},
- {id:'ruda',n:'Ruda',x:226,y:226,o:'crown',t:'o',s:'bud',a:'r',sm:1,d:'Obóz rudny w Wilczym Lesie nad Czerwonym Strumieniem: ekipa Grima i dwaj ludzie z Dreadfortu.'},
- {id:'fosa',n:'Fosa · Cailin',x:232,y:497,o:'tally',t:'o',s:'bud',a:'t',big:1,d:'Miasto z ławą i prawem składu. Wieże, mur kurtynowy, spichlerze, Pomarańczowy Dwór i Latarnia Pióra.'},
- {id:'gor',n:'Gorący Port',x:210,y:512,o:'tally',t:'p',s:'bud',a:'l',d:'Zachodnie wybrzeże u ujścia Gorączki. Mur od morza i wieża ognia, docelowo siedziba Głębokorzenia.'},
- {id:'ujm',n:'Ujście T–M',x:294,y:507,o:'mixed',t:'p',s:'pap',a:'r',d:'Port wschodni na końcu przewłoki, po połowie z Manderlym. Najpierw pomost.'},
- {id:'kar',n:'Karport',x:538,y:262,o:'lord',t:'p',s:'pap',a:'l',d:'Karstark. Miasto portowe z prawem składu, na wybrzeżu Karholdu nad Morzem Drżącym.'},
- {id:'bol',n:'Boltonsgate',x:484,y:322,o:'lord',t:'p',s:'pap',a:'r',d:'Bolton. Miasto portowe z prawem składu na wybrzeżu Dreadfortu, za budowę obu przystani.'},
- {id:'ost',n:'Ostatnia Rzeka',x:458,y:268,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Karholdu. Zapis nie mówi, że stoi.'},
- {id:'plw',n:'Płacząca Woda',x:452,y:312,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Dreadfortu. Zapis nie mówi, że stoi.'},
- {id:'zg',n:'Złamana Gałąź',x:410,y:300,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Dreadfortu. Zapis nie mówi, że stoi.'},
- {id:'fok',n:'Zatoka Fok',x:500,y:362,o:'lord',t:'p',s:'pap',a:'r',sm:1,d:'Przystań Flintów z Wdowiej Strażnicy. Zapis nie mówi, że stoi.'},
+ {id:'stark',w:[100,442],n:'Starkport',x:40,y:395,o:'crown',t:'p',s:'bud',a:'r',big:1,d:'Kamienny Brzeg, twierdza na szczycie nad Zatoką Kamieni przy wsi Branna. Karta miasta pod pieczęcią (05-24), palisada z Corwinem i Sigrun, pomiar Weylina ~06-05.'},
+ {id:'vem',w:[205,284],n:'Przystań Vemunda',x:80,y:292,o:'crown',t:'p',s:'stoi',a:'b',d:'Vemund od Kotwy: pomost, trzy szopy, ok. 40 ludzi. Przystań Korony dla wolnych ludzi.'},
+ {id:'cypel',w:[180,262],n:'Cypel – wolni ludzie',x:102,y:282,o:'free',t:'o',s:'pap',a:'t',d:'Cypel Morskiego Smoka. Ziemia z nadania Króla, każde ognisko osobno. Poselstwo Dacey jest w drodze do Mance’a.'},
+ {id:'dust',w:[282,500],n:'Dustinport',x:142,y:461,o:'crown',t:'p',s:'stoi',a:'r',d:'Przystań rzeczna pod Barrowton, 226 ludzi, eskadra Torrena.'},
+ {id:'e2',w:[236,566],n:'ujście E2',x:136,y:480,o:'crown',t:'p',s:'pap',a:'l',sm:1,d:'Etap E2 Dustinportu: nabrzeże u ujścia, latarnia i solarnia lady Dustin.'},
+ {id:'wilk',w:[468,420],n:'Przystań Wilka',x:300,y:372,o:'crown',t:'p',s:'bud',a:'r',d:'Zakole górnego Białego Noża. Korona ½, Cerwyn ¼, Manderly ¼. Baszta pod dachem do 06-14. W spisie przystani wschodu figuruje jako „Biały Nóż (zalążek)”.'},
+ {id:'ruda',w:[318,316],n:'Ruda',x:226,y:226,o:'crown',t:'o',s:'bud',a:'r',sm:1,d:'Obóz rudny w Wilczym Lesie nad Czerwonym Strumieniem: ekipa Grima i dwaj ludzie z Dreadfortu.'},
+ {id:'fosa',w:[440,563],n:'Fosa · Cailin',x:232,y:497,o:'tally',t:'o',s:'bud',a:'t',big:1,d:'Miasto z ławą i prawem składu. Wieże, mur kurtynowy, spichlerze, Pomarańczowy Dwór i Latarnia Pióra.'},
+ {id:'gor',w:[352,570],n:'Gorący Port',x:210,y:512,o:'tally',t:'p',s:'bud',a:'l',d:'Zachodnie wybrzeże u ujścia Gorączki. Mur od morza i wieża ognia, docelowo siedziba Głębokorzenia.'},
+ {id:'ujm',w:[492,576],n:'Ujście T–M',x:294,y:507,o:'mixed',t:'p',s:'pap',a:'r',d:'Port wschodni na końcu przewłoki, po połowie z Manderlym. Najpierw pomost.'},
+ {id:'kar',w:[718,282],n:'Karport',x:538,y:262,o:'lord',t:'p',s:'pap',a:'l',d:'Karstark. Miasto portowe z prawem składu, na wybrzeżu Karholdu nad Morzem Drżącym.'},
+ {id:'bol',w:[655,372],n:'Boltonsgate',x:484,y:322,o:'lord',t:'p',s:'pap',a:'r',d:'Bolton. Miasto portowe z prawem składu na wybrzeżu Dreadfortu, za budowę obu przystani.'},
+ {id:'ost',w:[618,290],n:'Ostatnia Rzeka',x:458,y:268,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Karholdu. Zapis nie mówi, że stoi.'},
+ {id:'plw',w:[622,372],n:'Płacząca Woda',x:452,y:312,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Dreadfortu. Zapis nie mówi, że stoi.'},
+ {id:'zg',w:[636,466],n:'Złamana Gałąź',x:410,y:300,o:'lord',t:'p',s:'pap',a:'l',sm:1,d:'Przystań rzeczna Dreadfortu. Zapis nie mówi, że stoi.'},
+ {id:'fok',w:[700,486],n:'Zatoka Fok',x:500,y:362,o:'lord',t:'p',s:'pap',a:'r',sm:1,d:'Przystań Flintów z Wdowiej Strażnicy. Zapis nie mówi, że stoi.'},
 ];
 const R=[
- {n:'trakt S1 do Deepwood',d:'M40 395 L70 362 L112 326 L168 280',c:COL.crown,lx:118,ly:338},
- {n:'przewłoka',d:'M232 497 L262 503 L294 507',c:COL.tally,lx:232,ly:524},
+ {n:'trakt S1 do Deepwood',d:'M40 395 L70 362 L112 326 L168 280',w:'M100 442 L150 410 L220 352 L270 305 L298 279',c:COL.crown,l:[118,338],wl:[190,392]},
+ {n:'przewłoka',d:'M232 497 L262 503 L294 507',w:'M440 563 L466 570 L492 576',c:COL.tally,l:[232,524],wl:[448,590],solid:1},
+ {n:'pień: grobla i Trakt Królewski',w:'M440 563 L442 640 L444 700 L446 740',c:COL.crown,wl:[452,660]},
+ {n:'gałąź I do Bliźniaków',w:'M446 740 L420 738 L389 736',c:COL.crown,wl:[392,724]},
+ {n:'gałąź II do Riverrun',w:'M446 800 L410 850 L371 898',c:COL.crown,wl:[300,850]},
 ];
 
 const NS='http://www.w3.org/2000/svg';
@@ -138,7 +147,7 @@ const svg=document.getElementById('map'), box=document.getElementById('box');
 const gm=document.getElementById('marks'), gr=document.getElementById('routes');
 const el=(t,a,p)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);if(p)p.appendChild(e);return e};
 
-R.forEach(r=>{el('path',{d:r.d,class:'route',stroke:r.c},gr);r.t=el('text',{class:'rlbl',x:r.lx,y:r.ly},gr);r.t.textContent=r.n});
+R.forEach(r=>{r.p=el('path',{class:'route'+(r.solid?' solid':''),stroke:r.c},gr);r.t=el('text',{class:'rlbl'},gr);r.t.textContent=r.n});
 
 P.forEach(p=>{
   const g=el('g',{class:'mk '+(p.s==='pap'?'pap':''),'data-id':p.id},gm);
@@ -154,12 +163,18 @@ P.forEach(p=>{
 });
 
 // widok
-const W=575,H=620; let vb={x:0,y:0,w:W,h:H};
+const L={wes:{img:'mapa_westeros.png',W:1080,H:1606,start:[60,190,760,620]},rod:{img:'mapa_polnocy_gracza.png',W:575,H:620}};
+let W=575,H=620,layer='wes'; let vb={x:0,y:0,w:W,h:H};
+function setLayer(id){layer=id;const c=L[id];W=c.W;H=c.H;const im=svg.querySelector('image');im.setAttribute('href',c.img);im.setAttribute('width',W);im.setAttribute('height',H);
+  document.querySelectorAll('.lay button').forEach(b=>b.classList.toggle('on',b.dataset.l===id));
+  R.forEach(r=>{const d=id==='wes'?r.w:r.d,lp=id==='wes'?r.wl:r.l;r.p.style.display=r.t.style.display=d?'':'none';if(d){r.p.setAttribute('d',d);r.t.setAttribute('x',lp[0]);r.t.setAttribute('y',lp[1])}});
+  if(c.start){const[x,y,w,h]=c.start,a=aspect();if(h/w>a){vb.h=h;vb.w=h/a}else{vb.w=w;vb.h=w*a}vb.x=x+w/2-vb.w/2;vb.y=y+h/2-vb.h/2;apply()}else fit()}
+const pos=p=>layer==='wes'?p.w:[p.x,p.y];
 function aspect(){const r=box.getBoundingClientRect();return r.height/r.width}
 function apply(){
   svg.setAttribute('viewBox',`${vb.x} ${vb.y} ${vb.w} ${vb.h}`);
   const k=vb.w/box.getBoundingClientRect().width*1.3; // jednostki mapy na piksel ekranu, z zapasem na czytelność
-  P.forEach(p=>{p.g.setAttribute('transform',`translate(${p.x} ${p.y})`);p.inner.setAttribute('transform',`scale(${k})`)});
+  P.forEach(p=>{const[x,y]=pos(p);p.g.setAttribute('transform',`translate(${x} ${y})`);p.inner.setAttribute('transform',`scale(${k})`)});
   R.forEach(r=>{r.t.setAttribute('font-size',12*k);r.t.setAttribute('stroke-width',3.4*k)});
 }
 function fit(){const a=aspect();if(H/W>a){vb.h=H;vb.w=H/a}else{vb.w=W;vb.h=W*a}vb.x=(W-vb.w)/2;vb.y=(H-vb.h)/2;apply()}
@@ -203,7 +218,8 @@ function select(id,zoom){
   P.forEach(p=>p.g.classList.toggle('sel',p.id===id));
   document.querySelectorAll('.reg button').forEach(b=>b.classList.toggle('on',b.dataset.id===id));
   if(!id)return;const p=P.find(q=>q.id===id);gm.appendChild(p.g);
-  if(zoom){center(p.x,p.y,200);box.scrollIntoView({behavior:'smooth',block:'center'})}
+  if(zoom){center(...pos(p),layer==='wes'?260:200);box.scrollIntoView({behavior:'smooth',block:'center'})}
 }
-fit();
+document.querySelectorAll('.lay button').forEach(b=>b.onclick=()=>setLayer(b.dataset.l));
+setLayer('wes');
 </script>

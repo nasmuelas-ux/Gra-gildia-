@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**123 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**122 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -389,7 +389,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-04** — HOBB RDZA (ruda darniowa, Fosa) + TOBBAS (gornik ze sztolni Burleyow, rejestr Melli) - przyjazd do Winterfell, dolaczaja do GRIMA OD DYMARKI (po jego meldunku z Wilczego Lasu ~05-10) - gory/klany. · _kto:_ **GARRICK -> WINTERFELL** · _zamyka:_ obaj w Winterfell, przydzieleni do Grima **⚠ ZAMKNIETE 300-05-11 - HOBB RDZA I TOBBAS W WINTERFELL (WIECZOREM 05-10, BEZ RZUTU - WLASNI); GRIM WROCIL Z WILCZEGO LASU. TROJKA RAZEM.**
 - **300-05-04** — MIRA Z LYRA I RHONA - DROGA Z BIALEGO PORTU DO WINTERFELL (kareta Hala), wyjazd ~05-08. · _kto:_ **MIRA** · _zamyka:_ Mira w Winterfell **⚠ ZAMKNIETE 300-05-21 - MIRA, LYRA I RHONA W WINTERFELL (POPOLUDNIE); KOMNATY W WIEZY STRAZNICZEJ**
 - **300-05-04** — LIST DO MIRY - ZAMOWIENIE KROLOWEJ ROSLIN: suknia na lato, 'ktorej nikt wczesniej nie nosil'; placi szkatula krolowej (nie Korona); miare Mira bierze w Winterfell po przyjezdzie (~05-20); kolor z Sansa ('nie szary'). Symon zapowiedzial, ze napisze - NIE NAPISANY. Okno: kruk do BP 2 dni, Mira wyjezdza ~05-08 - list z poczty 05-05 zdazy. · _kto:_ **SYMON -> MIRA** · _zamyka:_ list wyslany przed wyjazdem Miry albo sprawa ustnie po jej przyjezdzie **⚠ ZAMKNIETE 300-05-07 - LIST U MIRY W BIALYM PORCIE PRZED JEJ WYJAZDEM (~05-08). ODPOWIEDZ - USTNIE PO PRZYJEZDZIE (~05-20).**
-- **300-05-05** — JOJEN I MEERA REED - droga z Szarych Wod do Winterfell (od Reeda, rzut 93). Wyjda, gdy woda opadnie (~05-15/20); przez Fose (Garrick daje konie/eskorte, jesli zechca); w Winterfell ~05-30..06-05. Do tego czasu: Bran - napar, jesli boi sie spadania (slowo Reeda: 'do przyjazdu mego syna, nie dluzej'). Krol - wie, ze goscie od Reeda (dzieci przyjaciela ojca); TRESC o snach - tajemnica Brana. · _kto:_ **HOWLAND REED -> WINTERFELL** · _zamyka:_ Jojen i Meera w Winterfell **⚠ OTWARTE - 06-01 (RZUT 5): OPOZNIENIE - NA FOSIE 05-30, TRAKTEM Z ESKORTA GARRICKA OD 05-31; WINTERFELL ~06-06/07**
+- **300-05-05** — JOJEN I MEERA REED - droga z Szarych Wod do Winterfell (od Reeda, rzut 93). Wyjda, gdy woda opadnie (~05-15/20); przez Fose (Garrick daje konie/eskorte, jesli zechca); w Winterfell ~05-30..06-05. Do tego czasu: Bran - napar, jesli boi sie spadania (slowo Reeda: 'do przyjazdu mego syna, nie dluzej'). Krol - wie, ze goscie od Reeda (dzieci przyjaciela ojca); TRESC o snach - tajemnica Brana. · _kto:_ **HOWLAND REED -> WINTERFELL** · _zamyka:_ Jojen i Meera w Winterfell **⚠ ZAMKNIETE 300-06-06 - JOJEN I MEERA W WINTERFELL PRZED WIECZOREM (TRAKTEM OD POLUDNIA, KUCYK JUCZNY); BRAN CZEKAL NA MURZE.**
 - **300-05-05** — ROZMOWA Z OSHA O INNYCH - na prosbe Symona; ona: 'wieczorem, jak kucharz pusci, przy ogniu, nie w solarze'. Dzien nie ustalony. · _kto:_ **SYMON + OSHA** · _zamyka:_ rozmowa odbyta **⚠ ZAMKNIETE 300-05-05 - ROZMOWA W STAREJ KUCHNI: UMARLI (21), SKAD JEST (42), SPIEWACY (73), WLOCZNICZKA (53), JEZYKI, OSIADANIE, PRZYSIEGA, THENNOWIE. OSHA ZGODZI SIE MOWIC Z BRANEM - JESLI ON ZECHCE, W DZIEN, PRZY KIMS.**
 - **300-05-06** — ROOSE BOLTON - ROZMOWA O BOLTONSGATE (miasto panskie + prawo skladu za obie przystanie; regalia przy Boltonie, straz przy miescie). Roose na jedna noc: 10-go po poludniu - 11-go swit; pismo o przystaniach podpisze przy stole, rozmowa 11-go rano przed wyjazdem. · _kto:_ **KROL + SYMON + ROOSE** · _zamyka:_ rozmowa odbyta: tak / nie / warunek **⚠ ZAMKNIETE 300-05-11 (100): BOLTONSGATE - KARTA Z PIECZECIAMI KROLA I BOLTONA; KLAUZULA: 'PRAWA PRZECHODZA NA DZIEDZICA DREADFORTU Z PRAWEGO LOZA, I NA NIKOGO INNEGO, CHOCBY UZNANEGO' (TOBIN). PRZYSTANIE V-VIII ZA SWOJE; IMIONA PRZY WAGACH NA PISMIE.**
 - **300-05-06** — LOCKE - nie przyjedzie na ucztę: spor o pale z Wdowia Straznica (Justycjariusz, mediacja od 04-02) nierozstrzygniety. Podarek: skora foki. Do rozstrzygniecia: sprawa pali u Cerwyna (Justycjariusz) - przyspieszyc? ### 05-08 SYMON: sadzic PO UCZCIE, bez pospiechu (zwykly tryb). Cerwyn w objezdzie po uczcie, na miejscu sporu, mediacja najpierw; pisze sam do Locke'a, ze sprawa idzie zwyklym trybem. · _kto:_ **LOCKE / CERWYN (Justycjariusz)** · _zamyka:_ spor pali orzeczony albo zalagodzony
@@ -797,7 +797,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-06-06 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 34**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 37**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1691,8 +1691,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-05] `dziennik`: 300-06-05 POPOLUDNIE - ⚑ PAN: KSIEGI SPROWADZAC DO WINTERFELL; NOWY CYKL 'KSIEGI_HALA' - co miesiac DZIEN PO BILANSIE (6.): spis zakupow + woz Domu do biblioteki Wiezy. Pierwsze cztery ksieg…
-- [300-06-05] `dziennik`: 300-06-05 WIECZERZA, WIELKA SALA - Symon z Mira (Lyra spi, Rhona przy niej). Bez rzutow. Cieply, czysty wieczor, okna otwarte, jaskolki. Pstrag w masle z koperkiem, mlode ziemniaki, salata z…
 - [300-06-05] `dziennik`: 300-06-05 POZNY WIECZOR, IZBA NIANI - BAJKA 11: O DWOCH BRANDONACH (Budowniczy Okretow i Podpalacz). Bez rzutu. Dopisek Niani: 'budujcie tak, zeby nie wszystko plynelo za jednym czlowiekiem;…
 - [300-06-06] `dziennik`: 300-06-06 RANEK (PIATEK), WINTERFELL - SEN RZUT 29: noc slaba - goraco pod dachem, Lyra marudzi do polnocy; zdrowie 100, zmeczenie 36->14, sytosc 100->72. POGODA RZUT 53: pochmurno z przejas…
 - [300-06-06] `dziennik`: 300-06-06 RANEK - ⚑ PAN: ZGODA NA PRZERZUT Z KOMOR KORONY (Zimowe Miasto ~2000-2600 korcy, Sigrun ~300). Orland rusza od razu; Torren krukiem. ### SNIADANIE, WIELKA SALA - Symon z Mira i Lyr…
@@ -1703,3 +1701,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-06] `dziennik`: 300-06-06 POPOLUDNIE, BIBLIOTEKA WINTERFELL - SYMON ODWIEDZA WYCHOWANKA CERWYNA, ELLARDA (9 lat, w Winterfell od 05-19). Bez rzutu (wizyta, bez stawki). Godzina biblioteczna wg Luwina; Ellar…
 - [300-06-06] `ELLARD_CERWYN`: Wizyta Symona 06-06: pisze rowniej (Luwin), list do Jonelle wyslany koniec V, je pod okiem Helgi, noce spokojne. Pokazal w Dziejach Pierwszych Ludzi ustep o Krolach Kurhanow i Wielkim Kurhan…
 - [300-06-06] `ksiega_mistyki_polnocy_300_04`: ZBIEZNOSC (stos a): Wielki Kurhan nad Pierwszym Krolem; Krolowie Kurhanow = 'Krolowie Pierwszych Ludzi'; wojny ze Starkami o to slowo - Niania (bajka 5, 06-03) i 'Dzieje Pierwszych Ludzi' (o…
+- [300-06-06] `dziennik`: 300-06-06 POZNE POPOLUDNIE, DROGA POD BRAMA LOWCOW / BRAMA POLUDNIOWA - SPACER: Symon, Mira, Lyra, Kamyk; dwaj przyboczni. Bez rzutow. Chmury sie przecieraja, cieplo. Ida sciezka wzdluz muro…
+- [300-06-06] `starkowie/BRAN`: Czekal na murze nad brama od poludnia (Hodor). Reedowie przyjechali przed wieczorem.

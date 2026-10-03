@@ -1,5 +1,6 @@
 # GEOGRAFIA POLITYCZNA PÓŁNOCY — MAPA KANONICZNA
 ### Źródło prawdy: mapa gracza (299-06-27). Ta mapa nadrzędna nad wcześniejszymi opisami.
+### Plik mapy: `gra/mapa_polnocy_gracza.png` (wgrana ponownie 300-05-26). Nowe fundacje naniesione na nią: artefakt „Nowe osady i porty Północy”.
 
 ## UKŁAD (region → ród → siedziba)
 

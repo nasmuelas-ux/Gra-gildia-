@@ -6772,11 +6772,20 @@
   },
   {
    "data": "300-05-29",
-   "co": "PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). OTWARTE: Lyra; list zapowiadajacy do Barbrey; data wyjazdu.",
+   "co": "PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). LYRA JEDZIE (z Rhona); list do Barbrey wyslany 05-29. OTWARTE: data wyjazdu.",
    "kto": "SYMON + MIRA (Dagon)",
    "kanal": "trakt Winterfell-Barrowton-Fosa",
    "wraca": "300-06-06",
    "zamyka": "data wyjazdu ustalona (po Reedach)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-05-29",
+   "co": "LADY BARBREY - ODPOWIEDZ NA ZAPOWIEDZ WIZYTY Namiestnika z lady Mira i corka w Barrow Hall (po Reedach, poczatek VI). RZUT przy odpowiedzi.",
+   "kto": "SYMON -> BARBREY DUSTIN",
+   "kanal": "kruk Winterfell-Barrowton (05-29) i z powrotem",
+   "wraca": "300-06-02",
+   "zamyka": "odpowiedz Barbrey (rzut)",
    "status": "otwarte"
   }
  ],

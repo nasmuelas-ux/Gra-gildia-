@@ -7462,6 +7462,33 @@
    "wraca": "300-06-22",
    "zamyka": "izby gotowe, pisarze w nich",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "DOM DOMU TALLY W CAILIN DLA SWOICH (zgoda pana 06-19, propozycja Alys): kamienica kanalowa wg standardu projektu Cailin - pisarze, nauczyciele, internat; Kasa 1; ciesle Brana PO SIANOKOSACH. DZIALKA: wg karty miasta los lawy jawnie - Dom staje do losowania jak kazdy (Herwin 06-19). Koszt E - wycena Hala/Warryna. Wlasni - bez rzutu.",
+   "kto": "BRAN (roboty) + ALYS (dom) + HAL (koszt)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "dzialka z losu lawy + start budowy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "KAMIENICE W CAILIN - PIENIADZE DOMU NA BUDOWE wg projektu Cailin (wola pana 06-19, rozmowa z burmistrzem HERWINEM SZALA). RZUT 24 - WARUNEK LAWY: pieniadze Domu TYLKO JAKO POZYCZKA dla kasy miejskiej (splata z czynszow kamienic), nie dar czyniacy Dom wlascicielem; kamienice miejskie albo mieszczanskie; dzialki losuje lawa. DO DECYZJI PANA: przyjac warunek (pozyczka - kwota, procent, termin; mur trzech kas: Kasa 1 -> kasa miejska) albo nie. Budowa po sianokosach.",
+   "kto": "SYMON -> HERWIN SZALA + LAWA; HAL (Kasa 1)",
+   "kanal": "na miejscu",
+   "wraca": "300-06-22",
+   "zamyka": "umowa pozyczki z miastem albo rezygnacja",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzie twierdzy. Projekt: WEYLIN (inzynier zamkowy; dzis na Kamiennym Brzegu - po powrocie ~VII) + Orbelo; mur = LENNO (Kasa 2, regula 'pod ziemia i mur'). ZASADA 8 (Herwin): kto trzyma bramy miasta - pokoj: lawa, wojna: Hendry; ma to stac w karcie miasta, bo karta daje azyl i 'powietrze miasta czyni wolnym'. DO DECYZJI PANA: zapis w karcie.",
+   "kto": "SYMON -> WEYLIN + HERWIN + HENDRY",
+   "kanal": "na miejscu; Weylin po powrocie",
+   "wraca": "300-07-15",
+   "zamyka": "obrys polaczenia na rysunku + zapis o bramach w karcie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

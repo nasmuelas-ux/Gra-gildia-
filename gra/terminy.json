@@ -7834,11 +7834,20 @@
   },
   {
    "data": "300-06-20",
-   "co": "GRANICA MIASTA CAILIN SLUPAMI (wniosek sedziego Roderyka 06-20, do slowa pana): gdzie konczy sie sad lawy, a zaczyna sad grodzki - dzis 'przybysz w szopie pod grobla' nie wie, kto go sadzi; wytyczyc granice karty miasta slupami z pieczecia miasta i lenna; Herwin + Roderyk + pisarz grodzki. Bez rzutu, jesli pan nada.",
+   "co": "GRANICA MIASTA CAILIN SLUPAMI (wniosek sedziego Roderyka 06-20, do slowa pana): gdzie konczy sie sad lawy, a zaczyna sad grodzki - dzis 'przybysz w szopie pod grobla' nie wie, kto go sadzi; wytyczyc granice karty miasta slupami z pieczecia miasta i lenna; Herwin + Roderyk + pisarz grodzki. Bez rzutu, jesli pan nada. ### 06-20 ZGODA PANA - nadane; slupy z pieczecia miasta i lenna, wpis do karty miasta (lawa) i do ksiegi sadu grodzkiego.",
    "kto": "RODERYK + HERWIN",
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "decyzja pana; slupy granicy wbite",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "DRUGI PISARZ SADOWY DLA SADU GRODZKIEGO - z nowej KANCELARII LENNA (rozkaz pana 06-20); pierwszy wolny piszacy z werbunku Garricka idzie do Roderyka. Wlasni - bez rzutu.",
+   "kto": "GARRICK -> RODERYK",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "drugi pisarz przy sadzie grodzkim",
    "status": "otwarte"
   }
  ],

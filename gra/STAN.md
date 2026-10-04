@@ -25,7 +25,24 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**131 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**131 otwartych** · **0 PRZETERMINOWANYCH** · 15 wraca dzis
+
+### 🟡 WRACA DZIS
+- ZIARNO PORTOWE NA POLACH FOSY - ZEGAR NAPIETY BEZ ZAPASU. Odczyt w Bialym Porcie ~300-03-22/24, potem trakt do Fosy kolejne 6-8 dn… · _kanal:_ trakt Bialy Port-Fosa
+- SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJ… · _kanal:_ wlasny czlowiek na Fosie
+- ⚠ BASZTA PRZYSTANI WILKA POD DACHEM PRZED PRZYJAZDEM BRYNDENA (~06-15) - akademia potrzebuje baszty. Kamien idzie DRUGI w kolejce … · _kanal:_ karta Borsa (kruk Bialy Port-Fosa, Garrick)
+- LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie… · _kanal:_ Hallis na Mur (wyjazd 04-29)
+- KAMIEN Z PALCA FLINTA DLA FOSY (granit) + TRAN I SKORY FOK NA TARG W CAILIN - zgoda w zasadzie (Flint z Palca, 71). Droga: lodzie … · _kanal:_ kruk Winterfell-Fosa + jezdziec/lodz na Palec
+- KROK 2 - PRZYBICIE NA WYSPE TWARZY (E). Fosa -> Przesmyk -> Dorzecze do Lucana (~10 dni) -> lodz na Oku Boga. Rybacy od wiekow nie… · _kanal:_ przez Lucana (Dorzecze)
+- CERWYN - PRZYSPIESZONY POMIAR GRANICY HORNWOOD/DREADFORT: jezdziec Korony za Justycjariuszem w objezdzie zachodu z pismem Namiestn… · _kanal:_ jezdziec Korony na zachod (trasa objazdu w kancelarii) i z powrotem - E ~3 dni w jedna strone
+- POMIAR GRANICY HORNWOOD/DREADFORT 06-12 - SPOR O PUNKT WYJSCIA: Roose zada pomiaru od starego kamienia Dreadfortu i wg jego mapy; … · _kanal:_ na miejscu
+- HAL - KTO KARMI W DORZECZU: przez placowke przy Seagardzie i Kompanie - ile zboza wychodzi z Dorzecza za morze i czyje; kto zaopat… · _kanal:_ kruk Winterfell-Bialy Port (05-26 wieczor) + statek/goniec Kompanii do Seagardu i z powrotem
+- REZERWA - UBYTEK CZYNSZU Z ULGI 1/10 - z ksiag wsi domeny. ### 05-30: liczyc RAZEM Z MIASTEM (ulga dla mieszczan). ### 06-10: pan … · _kanal:_ Winterfell
+- SPICHLERZ ETAP I - ODPOWIEDZI LORDOW NA FORMULARZ (kto zaklada ksiege i od kiedy). JEDEN RZUT na cala fale (zasada 27). · _kanal:_ kruki z lenn
+- KSIEGI RODZINY Z BIALEGO PORTU DO WIEZY STRAZNICZEJ (izba przy Schodach: Gwiazda, Rachunek braavoski, Prawa BP, Rzeki i trakty, St… · _kanal:_ kruk Winterfell-Bialy Port + woz Domu traktem
+- DUSTINPORT E1 - SPIS IMIENNY 226 ludzi przyczolka. ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hal… · _kanal:_ jezdziec Dustinport-Fosa + kruk
+- STRAZ GRANICY CYPLA - LISTA IMIENNA ROBETTA przez Galbarta (sklad, liczba ludzi) + STAWKA GAWENA (40 m/dzien na czlowieka, Kasa 3)… · _kanal:_ kruk Deepwood-Winterfell
+- POCZTA PANA W DRODZE: Luwin przekazuje listy do pana krukiem Winterfell-Barrowton (do 06-13), potem na Fose. ZBIORCZY GARRICKA (pi… · _kanal:_ kruk Winterfell-Barrowton (2 dni)
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -815,10 +832,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-11 wieczor · zima (300)
+- **Data:** 300-06-12 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 65**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 31**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1734,7 +1751,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-10] `dziennik`: 300-06-10 RANEK (WTOREK), ZAGRODA HAMARA - SEN RZUT 32: noc slabsza - psy Hamara szczekaly na lisa, Kamyk odpowiadal; zdrowie 100, zmeczenie 75->51, sytosc 100->72. POGODA RZUT 75: pogodnie,…
 - [300-06-10] `dziennik`: 300-06-10 SNIADANIE U HAMARA (Symon, Mira, Arya; Lyra) - placki owsiane, maslanka, jaja. Bez rzutow. Dagon placi (Kasa 1); synowa Hamara dziekuje Rhonie - dziecko przespalo noc bez kaszlu. P…
 - [300-06-10] `poprawki`: POPROWKA (zasada 1/3): Barbrey 300-05-10 powiedziala 'CZTERNASCIE LAT' (czekanie na kosci Willama). W dopisku Niani do bajki 5 (06-03) i w slowach Jojena (06-06: 'zapytaliscie pierwsi od sie…
 - [300-06-10] `dziennik`: 300-06-10 POPOLUDNIE -> WIECZOR, BARROWLANDY. Bez rzutow (Barbrey przyjela wizyte - rzut 63, 05-26). Na postoju w poludnie zjedli (sytosc 100). Po poludniu z zachodu nadjezdza szesciu jezdny…
@@ -1746,3 +1762,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-11] `dziennik`: 300-06-11 SNIADANIE W STRAZNICY (Symon, Mira, Arya; Lyra) - owsianka z kuchni Dustinow, chleb, ser owczy, mleko. Bez rzutow. Ser Harwood je z nimi przy jednym stole pierwszy raz - o pogodzie…
 - [300-06-11] `dziennik`: 300-06-11 POPOLUDNIE -> WIECZOR. Bez rzutow. Popas we wsi w poludnie (chleb, ser, piwo od soltysa - sytosc 100). Popoludnie cieple; z zachodu pierwszy raz widac na horyzoncie WIELKI KURHAN p…
 - [300-06-11] `dziennik`: 300-06-11 WIECZOR, DZIEDZINIEC DWORU W LESZCZYNACH - TRENING Z ARYA (kije; Jorelle patrzy; lady Alysanne z ganku). Bez rzutu. Dzis Symon prowadzi: oslona drugiego (lekcja mistrza z 06-05) - …
+- [300-06-12] `dziennik`: 300-06-12 RANEK (CZWARTEK), DWOR W LESZCZYNACH - SEN RZUT 63: noc dobra; zdrowie 100, zmeczenie 65->31, sytosc 100->72. POGODA RZUT 44: pochmurno, chlodniej, wiatr z zachodu, bez deszczu. Pi…

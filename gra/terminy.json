@@ -7807,11 +7807,29 @@
   },
   {
    "data": "300-06-20",
-   "co": "PROBA CZCIONKI RUCHOMEJ (Ilario po rozmowie z panem 06-20; plan z 300-04-25 'drzeworyt, potem czcionka' i odlewnia czcionek w Latarni - Dzielnica Zielona): jedna strona alfabetu i jeden akapit praw komor. TRZY RZECZY DO ZROBIENIA (Ilario): (1) STEMPLE i FORMA - rytownik z WARSZTATU JUBILERSKIEGO DOMU (Marr, bursztyn) tnie stemple liter; (2) STOP - olow z cyna (maester WYSTAN zna olow - 'czarne zelazo, miedz, olow'), mala odlewnia NIE w miescie z trzciny (zasada XI) - poza kanalem, przy kuzni; (3) FARBA OLEJNA - olej lniany + sadza (atrament wodny splywa z metalu); papier Wata klejony mocniej. Kasa 1. WYNALAZEK - RZUT przy pierwszej odbitce.",
+   "co": "PROBA CZCIONKI RUCHOMEJ (Ilario po rozmowie z panem 06-20; plan z 300-04-25 'drzeworyt, potem czcionka' i odlewnia czcionek w Latarni - Dzielnica Zielona): jedna strona alfabetu i jeden akapit praw komor. TRZY RZECZY DO ZROBIENIA (Ilario): (1) STEMPLE i FORMA - rytownik z WARSZTATU JUBILERSKIEGO DOMU (Marr, bursztyn) tnie stemple liter; (2) STOP - olow z cyna (maester WYSTAN zna olow - 'czarne zelazo, miedz, olow'), mala odlewnia NIE w miescie z trzciny (zasada XI) - poza kanalem, przy kuzni; (3) FARBA OLEJNA - olej lniany + sadza (atrament wodny splywa z metalu); papier Wata klejony mocniej. Kasa 1. WYNALAZEK - RZUT przy pierwszej odbitce. ### 06-20 ZGODA PANA NA PROBE. Kroki posrednie: list do Hala o rytownika od Marra (stemple) - dzis z poczta BP, odpowiedz ~07-05; proba farby olejnej (olej lniany + sadza) na drzeworycie kalendarza ~07-15; odlew pierwszych liter ~08-01; odbitka ~08-15 (rzut).",
    "kto": "ILARIO + MARR (warsztat jubilerski) + WYSTAN (olow) + czeladnik Wata (prasa)",
    "kanal": "Fosa; Marr - list przez Hala",
    "wraca": "300-08-15",
    "zamyka": "pierwsza odbitka z czcionki ruchomej (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "CZCIONKA - RYTOWNIK OD MARRA (warsztat jubilerski Domu, Bialy Port) na Fose do ciecia stempli liter: list Ilaria + pieczec pana do Hala z poczta BP dzis; Hal decyduje, kogo moze puscic (bursztyn ma zamowienia). Wlasni - bez rzutu.",
+   "kto": "HAL + MARR",
+   "kanal": "poczta Fosa-Bialy Port",
+   "wraca": "300-07-05",
+   "zamyka": "rytownik w drodze albo stemple ciete w BP wg wzornika Ilaria",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "CZCIONKA - PROBA FARBY OLEJNEJ (olej lniany + sadza) na drzeworycie kalendarza 301; papier Wata klejony mocniej (czeladnik Wata na Fosie). Wlasni - bez rzutu.",
+   "kto": "ILARIO + czeladnik Wata",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "farba trzyma na klocku, nie przebija papieru",
    "status": "otwarte"
   }
  ],

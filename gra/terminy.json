@@ -6318,7 +6318,7 @@
    "kanal": "Winterfell + kruk Winterfell-Bialy Port",
    "wraca": "300-06-08",
    "zamyka": "trzy karty kierunkow z cena i terminem",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-08 - Rodwell + Hal: ceny potwierdzaja widelki Gawena (Reach po zniwach ~16-18 jeleni, Dorzecze ~27, Pentos ~19 + fracht ~8, E); Tallhart - cena ze slupa; trzy kontrakty osobno."
   },
   {
    "data": "300-05-25",
@@ -6444,7 +6444,7 @@
    "kanal": "Fosa (ogloszenie na slupie i targu) + kruk Fosa-Winterfell",
    "wraca": "300-06-08",
    "zamyka": "lista ekip spoza lenna z liczba ludzi (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-08 (rzut 52) - TAK, skromnie: trzy ekipy ~65 ludzi (E): z Dorzecza ~30 (kopacze), z Barrowlandow ~20, ciesle z Bialego Portu ~15; na stawce ogloszonej; przy T2-A i T3-A od ~06-15."
   },
   {
    "data": "300-05-26",
@@ -6516,7 +6516,7 @@
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu, z rozkazem o traktach) i z powrotem",
    "wraca": "300-06-08",
    "zamyka": "liczba kwater na stacje, geby w karcie zimy, liczba dzieci, miejsce osadnictwa w Cailin",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-08 - Warryn: kwatery ~20 na stacje mulow (E), pierwsza stacja na T2-A pod Fosa; Orland: +65 geb w karcie Fosy; szkola: 14 dzieci rodzin ekip (E); Herwin: osiedlajacy sie - dzialki przy Miescie Dolnym, prawo roku i dnia."
   },
   {
    "data": "300-05-26",
@@ -6633,7 +6633,7 @@
    "kanal": "kruk Winterfell-Fosa i Fosa-Bialy Port",
    "wraca": "300-06-08",
    "zamyka": "wymiar tafli i liczba u Hala",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-08 - Werran podal Halowi wymiar tafli i liczbe ram; Hal pisze do Myr (nie przez Orrello)."
   },
   {
    "data": "300-05-27",
@@ -6732,7 +6732,7 @@
    "kanal": "goniec Osrica w gory i z powrotem",
    "wraca": "300-06-08",
    "zamyka": "zgoda Wulla + data przewodnika; kto z klanow dolacza (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-08 (rzut 44) - JEDNA KONSEKWENCJA: WULL, NORREY, LIDDLE przyjmuja 1/10, przewodnik Wulla ~06-25 do Osrica; FLINT GORSKI, BURLEY, HARCLAY czekaja, az Korona zaplaci Wullowi pierwszy raz ('niech zobacza, ze Korona placi')."
   },
   {
    "data": "300-05-28",
@@ -6768,7 +6768,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-06-08",
    "zamyka": "koszt panwi i warzelni na pismie",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-08 - Hal przyslal Gawenowi wycene wg wzoru warzelni Domu (Kasa 1); liczba w ksiedze Gawena."
   },
   {
    "data": "300-05-29",
@@ -6777,7 +6777,7 @@
    "kanal": "trakt Winterfell-Barrowton-Fosa",
    "wraca": "300-06-08",
    "zamyka": "data wyjazdu ustalona (po Reedach)",
-   "status": "otwarte - 06-01: Reedowie ~06-06/07 -> wyjazd ~06-08"
+   "status": "W DRODZE od 300-06-08 o swicie - Barrow Hall 2 noce, potem Fosa."
   },
   {
    "data": "300-05-29",
@@ -6957,7 +6957,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-07",
    "zamyka": "rekawice gotowe przed wyjazdem na Barrow Hall",
-   "status": "otwarte"
+   "status": "zrobione 300-06-07 wieczorem - Mira skonczyla haft o swiecy; rekawice w plotnie w skrzyni Miry."
   },
   {
    "data": "300-06-05",

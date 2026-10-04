@@ -5,7 +5,7 @@
   "dzien": 18,
   "era": "AC"
  },
- "pora": "poludnie",
+ "pora": "popoludnie",
  "sezon": "zima (300)",
  "pogoda": "RZUT 66 (300-06-18) - pogodnie z oblokami, sucho, lekki wiatr z polnocy; Fosa po poludniu.",
  "dzien_tygodnia_nr": 3,
@@ -87,7 +87,7 @@
  "mechanika_rutyna_poranna": "RANEK zawsze zawiera: (1) pogoda+zdarzenie, (2) kalendarz (targ/swieto/clo), (3) stan postaci, (4) PRZEGLAD KORESPONDENCJI/POCZTY (listy, poslancy, slowo z targu/portu - rzut na inbound), (5) watki w toku. Korespondencja jest STALYM elementem, nie na zadanie.",
  "_dziennik_mechanika_relief_finansowanie": 1,
  "wielki_targ": false,
- "lokacja_gracza": "W DRODZE NA BIALY PORT od 300-03-05 (wyjazd o dwa dni wczesniej po kruku Rhony). Bialy Port ~03-12/03-14, dalej Winterfell ~03-20, WIELKA RADA 300-03-30. ⚠ ADRES RUCHOMY: meldunki ida ZA NIM, nie na Fose (kancelaria Garricka przekierowuje).",
+ "lokacja_gracza": "FOSA CAILIN od 300-06-18 (po podrozy Winterfell->Barrow Hall->Fosa). Powrot do Winterfell przed ratyfikacja (~06-30).",
  "zaplanowane_zdarzenia": [
   "298-~polowa/koniec sierpnia: POWROT 2. ambasady Fenna od Halvarda (wiecej wolumenu + ku wylacznosci; odprawa rzut 74 sklonna ku dobremu).",
   "298-08-01: DZIEN BILANSU (miesiac 07 na pelna skale - pergamin/wor Tama/kredyt/premium/arteria).",
@@ -141,7 +141,7 @@
  "lokacja": "BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-03-30.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "poludnie",
+ "pora_dnia": "popoludnie",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "BIALY PORT",
  "geografia_lod_porty_299_08": {

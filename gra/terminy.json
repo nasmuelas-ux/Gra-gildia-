@@ -7744,11 +7744,20 @@
   },
   {
    "data": "300-06-19",
-   "co": "LAWA CAILIN - GLOSOWANIE USTAWY BUDOWLANEJ (propozycja Herwina, zgoda pana 06-19): (1) nowy dom - przyziemie i komin z kamienia; (2) dach darniowy, trzcina tylko do konca 301; (3) zakaz nowej trzciny na dachach przy kanale glownym od zaraz; (4) szopy i baraki drewniane tylko jako tymczasowe, z data rozbiorki; (5) budynki publiczne caly bazalt. Glosowanie w najblizszy dzien targowy - 06-26. WOLA LAWY - RZUT przy glosowaniu. OD ZARAZ, BEZ GLOSU: Herwin i Bennis egzekwuja to, co juz stoi w STANDARDZIE B (komin w kamieniu, palenisko nie w scianie, prog nad wysoka woda) - wzornik przy wadze.",
+   "co": "LAWA CAILIN - GLOSOWANIE USTAWY BUDOWLANEJ (propozycja Herwina, zgoda pana 06-19): (1) nowy dom - przyziemie i komin z kamienia; (2) dach darniowy, trzcina tylko do konca 301; (3) zakaz nowej trzciny na dachach przy kanale glownym od zaraz; (4) szopy i baraki drewniane tylko jako tymczasowe, z data rozbiorki; (5) budynki publiczne caly bazalt. Glosowanie w najblizszy dzien targowy - 06-26. WOLA LAWY - RZUT przy glosowaniu. OD ZARAZ, BEZ GLOSU: Herwin i Bennis egzekwuja to, co juz stoi w STANDARDZIE B (komin w kamieniu, palenisko nie w scianie, prog nad wysoka woda) - wzornik przy wadze. ### 06-19 PAN (zalecenie): (6) BIELENIE DREWNA WAPNEM - sciany, belki, szopy i baraki (antyseptycznie: plesn, robactwo; wolniej sie zajmuje). Dla mieszczan - ZALECENIE w ustawie, wapno po cenie kosztu przy wadze; dla budynkow LENNA I DOMU (baraki, sklad lin, straznica, kwatery) - NAKAZ od zaraz.",
    "kto": "HERWIN + LAWA; BENNIS (wzornik)",
    "kanal": "na miejscu",
    "wraca": "300-06-26",
    "zamyka": "uchwala lawy (rzut) i ogloszenie na slupie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu.",
+   "kto": "WARRYN + ORBELO",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "zrodlo wapna i plan (kupno/wapiennik) z kosztem E",
    "status": "otwarte"
   }
  ],

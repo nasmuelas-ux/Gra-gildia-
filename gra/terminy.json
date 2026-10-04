@@ -7417,6 +7417,24 @@
    "wraca": "300-07-14",
    "zamyka": "siano zebrane, rachunek dniowek w ksiedze",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "HAL - SKUP PAPIEROW DLUZNYCH LANNISTEROW (rozkaz pana 06-19): wszystkie, jakie sie da, przez placowki Domu - Riverrun (Lyman od Brodow), Seagard, Rozdroze (Deron), Bialy Port, Braavos (Nesta): KWITY REKWIZYCYJNE garnizonow Lwa (kraza ponizej wartosci - Deron 06-18, Hal 05-27) i WEKSLE LANNISPORTU (Bank dyskontuje glebiej - Hal 05-27). Na rachunek DOMU (Kasa 1), nie Korony (mur trzech kas). Cel: Dom wierzycielem Lwa - dzwignia przy akcie i wobec Banku. Wlasni - bez rzutu na wykonanie; ILE SIE DA KUPIC i po ile - rynek, RZUT przy pierwszym meldunku. Pytania, ktore Hal postawi (zasada 8, do odpowiedzi pana): sufit kwoty z plynnosci Kasy 1; czy kupowac jawnie czy przez posrednikow (kto kupuje papier Lwa - widac); czy KP w ogole uzna kwity w reku polnocnego domu.",
+   "kto": "SYMON -> HAL -> placowki",
+   "kanal": "list pana z poczta Fosa-Bialy Port (dzis); placowki - kanaly Domu",
+   "wraca": "300-07-05",
+   "zamyka": "pierwszy meldunek Hala: co kupiono, po ile, gdzie (rzut) + jego pytania",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "KOMPANIA POLNOC-DORZECZE - SUGESTIA PANA (06-19): dostarczac ZBOZE lordom Dorzecza, ktorzy go nie maja, PO STAWKACH NIZSZYCH NIZ LANNISTEROWIE (kwit rekwizycyjny), ale POD REKA EDMURE'A - rozdawnictwo w imieniu Riverrun, nie Polnocy. Dom jest tylko koordynatorem ze stawka (nie strona) - sugestia idzie przez Lymana od Brodow (placowka Riverrun) do wspolnikow Kompanii i do Edmure'a. WOLA EDMURE'A I WSPOLNIKOW - RZUT przy odpowiedzi. ZASADA 8 (do wiedzy pana): zrodlo zboza - Reach/Mallisterowie; kazdy korzec dla Dorzecza to korzec, ktorego nie kupi Polnoc (zakup 300 ~225-245k korcy) - trzeba rozdzielic, z czego idzie; Lannisterowie zobacza, kto podcina ich rekwizycje.",
+   "kto": "SYMON -> LYMAN OD BRODOW (Riverrun) -> wspolnicy Kompanii + EDMURE",
+   "kanal": "jezdziec Fosa-Przesmyk-Riverrun (~10 dni) i z powrotem",
+   "wraca": "300-07-10",
+   "zamyka": "odpowiedz Edmure'a i Kompanii (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

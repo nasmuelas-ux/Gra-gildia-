@@ -5593,10 +5593,10 @@
   },
   {
    "data": "300-05-19",
-   "co": "PRZEGLAD KART KROLESTW z Sansa - DRUGI (miesieczny): 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Na wierzchu [10] Mur.",
+   "co": "PRZEGLAD KART KROLESTW z Sansa - DRUGI (miesieczny): 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Na wierzchu [10] Mur. ### 06-18: pan na Fosie - PRZELOZONE NA POWROT do Winterfell (~07-01); Sansa dostaje wiadomosc w liscie do Krola.",
    "kto": "SYMON + SANSA",
    "kanal": "wlasna robota (Winterfell)",
-   "wraca": "300-06-19",
+   "wraca": "300-07-01",
    "zamyka": "karty poprawione",
    "status": "otwarte"
   },
@@ -7335,7 +7335,7 @@
    "kanal": "osobiscie na Fosie 06-18; soltys Kamiennej Woli wie od dzis",
    "wraca": "300-06-19",
    "zamyka": "ogloszenie na slupie + decyzja o przybyszach",
-   "status": "otwarte - 06-18: Garrick i Mella przyjeli rozkaz; ogloszenie na slupie jutro rano (dzien targowy); PYTANIE DO PANA: ~400 przybyszow bez pol - co z nimi przez dwa tygodnie."
+   "status": "ZAMKNIETE 300-06-18: rozkaz na slupie jutro (dzien targowy) + przez soltysow; PRZYBYSZE (~400, bez pol): LENNO PLACI IM ZA POMOC W SIANOKOSACH - dniowka przy kosie we wsiach lenna zamiast przy grobli; Mella rozdziela ludzi na wsie wg prosb soltysow; stawka = dniowka z rejestru (Kasa 2, Gawen/Garrick licza; koszt E w bilansie). Bez rzutu (wlasni, oplaceni)."
   },
   {
    "data": "300-06-17",
@@ -7362,7 +7362,7 @@
    "kanal": "-",
    "wraca": "300-06-20",
    "zamyka": "decyzja pana: druga proba (kiedy) albo wstrzymanie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-18: DECYZJA PANA: TAK - DRUGA PROBA EDRICA wg rady Jojena (bez zelaza na brzegu, nic nie ciac, ogien z przywiezionego drewna albo wcale; zostawic cos w zamian za rybe). Rozkaz przez Lucana / jego zastepce."
   },
   {
    "data": "300-06-18",
@@ -7371,7 +7371,7 @@
    "kanal": "jezdziec Fosa-Dustinport (4 dni)",
    "wraca": "300-06-22",
    "zamyka": "decyzja pana i rozkaz do Donnela",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-18: DECYZJA PANA: TAK - rodziny 30 ludzi do Dustinportu przed zima; chaty poza barakami."
   },
   {
    "data": "300-06-18",
@@ -7380,6 +7380,42 @@
    "kanal": "osobiscie na Fosie",
    "wraca": "300-06-19",
    "zamyka": "decyzja pana",
+   "status": "ZAMKNIETE 300-06-18: DECYZJA PANA: TAK - rekruci ze wsi lenna na sianokosy do domu (dwa tygodnie, ~07-01..07-14), wracaja do Hendry'ego po sianokosach; przybysze w szkoleniu zostaja."
+  },
+  {
+   "data": "300-06-18",
+   "co": "WYSPA TWARZY - DRUGA PROBA EDRICA SZUWARA (rozkaz pana 06-18): rada Jojena - bez zelaza na brzegu, nic nie ciac, zostawic cos w zamian. Rozkaz jezdzcem przez Przesmyk do Lucana (zanim wyjedzie do Winterfell ~07-10) albo do jego zastepcy. RZUT PRZY PRZYBICIU (sprawa zewnetrzna). Wiesc przez Fose/Lucana.",
+   "kto": "SYMON -> LUCAN (zastepca) -> EDRIC",
+   "kanal": "jezdziec Fosa-Przesmyk-Dorzecze (~10 dni) + lodz na Oku Boga; wiesc ta sama droga",
+   "wraca": "300-07-12",
+   "zamyka": "przybil i wiadomo, co zastal (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-18",
+   "co": "DUSTINPORT - CHATY DLA RODZIN 30 LUDZI (rozkaz pana 06-18): Donnel buduje rekami wlasnej zalogi poza barakami, za murem od ladu; drewno z zapasu budowy; koszt Korony (baza marynarki - Kasa 3, Gawen dopisuje, E). Rodziny jada przed zima kolumna Kompanii. Wlasni - bez rzutu.",
+   "kto": "SYMON -> DONNEL",
+   "kanal": "jezdziec Fosa-Dustinport (4 dni); potwierdzenie w karcie Donnela 07-08",
+   "wraca": "300-07-14",
+   "zamyka": "chaty stoja, lista rodzin",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-18",
+   "co": "SKAGOS - ODPOWIEDZ ('Niech Stark przyplynie sam', czlowiek Magnara z Kingshouse, rzut 8) PRZEDLOZONA KROLOWI listem Namiestnika z Fosy (kruk Fosa-Winterfell dzis). PREROGATYWA KROLA (zasada 22) - Namiestnik nie doradza w liscie poza faktami; decyzja Krola (RZUT przy odpowiedzi).",
+   "kto": "SYMON -> KROL",
+   "kanal": "kruk Fosa-Winterfell (2-3 dni) i z powrotem",
+   "wraca": "300-06-24",
+   "zamyka": "decyzja Krola o Skagos",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-18",
+   "co": "SIANOKOSY W LENNIE - PRZYBYSZE NA DNIOWKACH PRZY KOSIE (lenno placi): Mella rozdziela ~400 ludzi na wsie wg prosb soltysow; kontrola: ile wsi, ilu ludzi, ile kosztowalo (Kasa 2). Wlasni - bez rzutu.",
+   "kto": "MELLA + GARRICK + soltysi",
+   "kanal": "meldunek zbiorczy Garricka",
+   "wraca": "300-07-14",
+   "zamyka": "siano zebrane, rachunek dniowek w ksiedze",
    "status": "otwarte"
   }
  ],

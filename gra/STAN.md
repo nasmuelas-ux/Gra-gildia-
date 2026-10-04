@@ -610,7 +610,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-29** — OSADNICY SIGRUN - ZBOZE DO ZNIW (Barbrey sprzeda dopiero po zniwach, rzut 3): Orland - przerzut z komor Korony albo pierwszy ladunek z Seagardu; przewoz morzem kadlubami Torrena. Siewne i zapas nietykalne. · _kto:_ **ORLAND KORZEC (+ Torren przewoz)** · _zamyka:_ zrodlo zboza dla osadnikow do zniw (razem z karta Spichlerza) **⚠ KARTA ORLANDA 06-06: ~300 KORCY (E), PRZERZUT Z KOMOR KORONY LODZIA TORRENA PRZEZ DUSTINPORT - CZEKA NA SLOWO PANA (NOWY TERMIN 06-06).**
 - **300-05-29** — BARBREY - CZLOWIEK OSOBISCIE W BARROW HALL (pora i miejsce ognia, szew Barrowlandy-Dustinport): kto jedzie - Donnel z Dustinportu albo ktos z Fosy/Korony. Do slowa pana. · _kto:_ **SYMON (decyzja)** · _zamyka:_ decyzja, kto jedzie **⚠ ZAMKNIETE 300-05-29 - JEDZIE SAM NAMIESTNIK Z MIRA, PO PRZYBYCIU REEDOW, PRZEZ BARROWTON NA FOSE.**
 - **300-05-29** — SOLARNIA KAMIENNEGO BRZEGU - KOSZT ZALOZENIA (wzor: warzelnia Domu, Kasa 1) - Hal podaje Gawenowi. · _kto:_ **HAL -> GAWEN** · _zamyka:_ koszt panwi i warzelni na pismie **⚠ ZAMKNIETE 300-06-08 - HAL PRZYSLAL GAWENOWI WYCENE WG WZORU WARZELNI DOMU (KASA 1); LICZBA W KSIEDZE GAWENA.**
-- **300-05-29** — PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). LYRA JEDZIE (z Rhona); list do Barbrey wyslany 05-29. Dwie noce w Barrow Hall; Garrick uprzedzony 05-29 (szkola Mabel, seminarium). OTWARTE: data wyjazdu. ### 05-30: ARYA JEDZIE (zgoda Catelyn 04-24 r85: z Namiestnikiem, max miesiac; powrot przed zawodami VII); miecz w juku (warunek Krola); dwoch ludzi Krola przy niej. ### 05-30: CALA PRZYBOCZNA 20 (Sten + Dagon); przy Aryi dwaj ludzie Krola (imiona - Krol/Rodrik). ### 05-30: Arya z wlasnymi gwardzistami Gwardii Krolewskiej; Wieza Straznicza pod straza zamkowa. ### 06-03: ARYA KONNO cala droge z Jorelle Mormont i Torvaldem Wullem (decyzja Symona). ### 06-05: PREZENT - rekawice do jazdy od Miry przy powitaniu; KOPIEC WILLAMA - Symon osobno, wieczorem ('gdzie juz doszlismy'), nie jako prezent. · _kto:_ **SYMON + MIRA (Dagon)** · _zamyka:_ data wyjazdu ustalona (po Reedach) **⚠ W DRODZE OD 300-06-08 RANO. BARROW HALL ~06-12 WIECZOREM (E), DWIE NOCE, WYJAZD 06-14, FOSA ~06-17.**
+- **300-05-29** — PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). LYRA JEDZIE (z Rhona); list do Barbrey wyslany 05-29. Dwie noce w Barrow Hall; Garrick uprzedzony 05-29 (szkola Mabel, seminarium). OTWARTE: data wyjazdu. ### 05-30: ARYA JEDZIE (zgoda Catelyn 04-24 r85: z Namiestnikiem, max miesiac; powrot przed zawodami VII); miecz w juku (warunek Krola); dwoch ludzi Krola przy niej. ### 05-30: CALA PRZYBOCZNA 20 (Sten + Dagon); przy Aryi dwaj ludzie Krola (imiona - Krol/Rodrik). ### 05-30: Arya z wlasnymi gwardzistami Gwardii Krolewskiej; Wieza Straznicza pod straza zamkowa. ### 06-03: ARYA KONNO cala droge z Jorelle Mormont i Torvaldem Wullem (decyzja Symona). ### 06-05: PREZENT - rekawice do jazdy od Miry przy powitaniu; KOPIEC WILLAMA - Symon osobno, wieczorem ('gdzie juz doszlismy'), nie jako prezent. · _kto:_ **SYMON + MIRA (Dagon)** · _zamyka:_ data wyjazdu ustalona (po Reedach) **⚠ W BARROW HALL OD 300-06-12 POPOLUDNIE; DWIE NOCE (06-12, 06-13); WYJAZD NA FOSE 06-14.**
 - **300-05-29** — LADY BARBREY - ODPOWIEDZ NA ZAPOWIEDZ WIZYTY Namiestnika z lady Mira i corka w Barrow Hall (po Reedach, poczatek VI). RZUT przy odpowiedzi. · _kto:_ **SYMON -> BARBREY DUSTIN** · _zamyka:_ odpowiedz Barbrey (rzut) **⚠ ZAMKNIETE 300-06-02 (RZUT 63) - TAK, DWIE NOCE; JEJ CZLOWIEK OD OGNISK PRZY ROZMOWIE; PYTA O KOSCI WILLAMA.**
 - **300-05-30** — OWCE Z HORNWOOD NA KAMIENNYM BRZEGU (wypedzone 06-02, pastuchy Hornwoodu). · _kto:_ **PASTUCHY HORNWOODU -> CORWIN/SIGRUN** · _zamyka:_ stado na miejscu
 - **300-05-30** — DOM AUDYTOWY TALLY - MISTRZ Z BRAAVOS: pytanie do Nesty (Antaryonowie) w pakiecie. · _kto:_ **HAL -> NESTA** · _zamyka:_ imie mistrza albo 'nie ma'
@@ -832,10 +832,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-12 poludnie · zima (300)
+- **Data:** 300-06-12 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 37**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 43**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1751,8 +1751,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-10] `poprawki`: POPROWKA (zasada 1/3): Barbrey 300-05-10 powiedziala 'CZTERNASCIE LAT' (czekanie na kosci Willama). W dopisku Niani do bajki 5 (06-03) i w slowach Jojena (06-06: 'zapytaliscie pierwsi od sie…
-- [300-06-10] `dziennik`: 300-06-10 POPOLUDNIE -> WIECZOR, BARROWLANDY. Bez rzutow (Barbrey przyjela wizyte - rzut 63, 05-26). Na postoju w poludnie zjedli (sytosc 100). Po poludniu z zachodu nadjezdza szesciu jezdny…
 - [300-06-10] `dziennik`: 300-06-10 WIECZOR, DZIEDZINIEC STRAZNICY PRZY KOPCU - SYMON ROZMAWIA Z SER HARWOODEM WRZOSEM. RZUT 9 (prog 50): JEDNA KONSEKWENCJA - zimny i zamkniety. Odpowiada krotko, o lady mowi tylko 'm…
 - [300-06-10] `dziennik`: 300-06-10 WIECZOR, STRAZNICA PRZY KOPCU (cd.) - ⚑ SYMON DO STENA: pod dachem Dustinow zdjac warty; jedynie, zeby kazdy z rodziny mial kogos niedaleko. Bez rzutu. STEN - bez dyskusji: warty z…
 - [300-06-10] `STEN`: Pod dachem Dustinow: bez wart na widoku; kazdy z rodziny ma kogos blisko (Dagon w izbie obok, przyboczny przy Aryi). Tak samo w Barrow Hall.
@@ -1763,3 +1761,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-11] `dziennik`: 300-06-11 WIECZOR, DZIEDZINIEC DWORU W LESZCZYNACH - TRENING Z ARYA (kije; Jorelle patrzy; lady Alysanne z ganku). Bez rzutu. Dzis Symon prowadzi: oslona drugiego (lekcja mistrza z 06-05) - …
 - [300-06-12] `dziennik`: 300-06-12 RANEK (CZWARTEK), DWOR W LESZCZYNACH - SEN RZUT 63: noc dobra; zdrowie 100, zmeczenie 65->31, sytosc 100->72. POGODA RZUT 44: pochmurno, chlodniej, wiatr z zachodu, bez deszczu. Pi…
 - [300-06-12] `dziennik`: 300-06-12 SNIADANIE U LADY ALYSANNE (Symon, Mira, Arya; Lyra) - jaja, chleb, miod, mleko. Bez rzutow. Lady Alysanne na pozegnanie daje Lyrze drewnianego konika po synu ('juz za duzy na niego…
+- [300-06-12] `dziennik`: 300-06-12 POPOLUDNIE, BARROWTON -> BARROW HALL. Przez Barrowton: palisada, dymy, targ przy bramie, ludzie zdejmuja czapki przed Dustinowa eskorta i patrza na plaszcze Tallych. BARROW HALL - …
+- [300-06-12] `barbrey_dustin`: Powitanie Symona, Miry, Aryi w Barrow Hall (rzut 68): rekawice od Miry zalozone od razu ('ktos patrzyl na moje dlonie w marcu'); docenia zdjete warty ('pod moim dachem nikt was nie tknie'). …

@@ -7183,6 +7183,24 @@
    "wraca": "300-06-20",
    "zamyka": "wszystkie cztery wykonane",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-08",
+   "co": "T3-C - MOST PRZY BRODZIE (zajazd Ody, Trakt Krolewski Winterfell-Cerwyn): w ramach T3-C, przed roztopami 301; brod stoi wiosna ~3 tygodnie pod woda. Do Krola krukiem z Barrowton (domena placi). Rece domeny; ciesle - E.",
+   "kto": "SYMON -> KROL (domena) / kasztelan",
+   "kanal": "kruk Barrowton-Winterfell",
+   "wraca": "300-10-15",
+   "zamyka": "most stoi przed mrozem albo przynajmniej przyczolki",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-09",
+   "co": "POCZTA PANA W DRODZE: Luwin przekazuje listy do pana krukiem Winterfell-Barrowton (do 06-13), potem na Fose. ZBIORCZY GARRICKA (pisany 06-07, w Winterfell 06-09) - czytany w Barrow Hall ~06-12.",
+   "kto": "LUWIN -> SYMON",
+   "kanal": "kruk Winterfell-Barrowton (2 dni)",
+   "wraca": "300-06-12",
+   "zamyka": "poczta odczytana w Barrow Hall",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -7279,7 +7297,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-06-01",
+   "ostatnio_odebrane": "300-06-07",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

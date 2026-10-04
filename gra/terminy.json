@@ -7246,6 +7246,24 @@
    "wraca": "300-07-05",
    "zamyka": "wagowy i pisarz w Barrowton + ksiega skladu zalozona",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-12",
+   "co": "BARROWTON - LAWA UCHWALA POSTOJ SKLADOWY: kupcy z Reach - jeden dzien, kupcy Bialego Portu - trzy dni (propozycja Barbrey, zgoda Symona). Wola lawy Barrowton - w reku lady Barbrey.",
+   "kto": "BARBREY -> LAWA BARROWTON",
+   "kanal": "kruk Barrowton-Winterfell",
+   "wraca": "300-07-15",
+   "zamyka": "uchwala lawy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-12",
+   "co": "DUSTINPORT - PRZYSTAN HANDLOWA (przyszlosc, po przewloce): port lady Barbrey; dwaj wagowi (Barrowlandow i Tallych); oplaty portowe - Barbrey; KOMORA CELNA KORONY - kiedys (prerogatywa). Plan - przy etapie E2/E3 Dustinportu.",
+   "kto": "SYMON + BARBREY + DONNEL",
+   "kanal": "etapy Dustinportu",
+   "wraca": "301-05-01",
+   "zamyka": "plan przystani handlowej na stole",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

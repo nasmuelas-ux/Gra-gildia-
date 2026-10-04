@@ -674,7 +674,7 @@ _Zamkniete ostatnio:_ Cerwyn wyjezdza; odpis urzadzen Fosy ma byc gotowy ### 300
 - **MARSZALEK FORTECY / KAPITAN DOMU TALLY:** HENDRY _(~50 druzyna + obrona Fosy; pismo o granicach urzedu 300-02-28)_
 - **DOWODCA PRZYBOCZNEJ:** STEN _(⚠ LICZBY PODANE PRZEZ GRACZA 300-03-18 I WPISANE JAKO ETAT, NIE JAKO PROZA (zasada 38). Dotad ksiega miala jeden urzad bez sily i przedawniona notke 'pod nim DAGON i HARL' - HARL od 300-03-02 jest dziesietnikiem w DUSTINPORCIE i nie wchodzi do zadnego z dwoch oddzialow. STEN dowodzi calosc i - jak dowodca Mchowych Jastrzebi - podlega BEZPOSREDNIO SYMONOWI. ⚠ RACHUNKOWO OSOBNO, ZEBY NIKT TEGO NIE POLICZYL DWA RAZY: ~50 druzyny HENDRY'EGO (marszalek fortecy / kapitan Domu Tally) to INNA LINIA niz ci dwudziestu.)_
 - **DZIESIETNIK (Dustinport):** HARL _(prowadzi dziesieciu z Theonem; swita przy wjezdzie, straz kilka dni, powrot)_
-- **ZBROJMISTRZ:** stary zbrojmistrz (imie nie pada w zapisie) _(bron, cwiczenie, chlopcy; arsenal i zapasy zbrojne (OSOBNO od prowiantu garnizonu))_
+- **ZBROJMISTRZ:** stary zbrojmistrz OSWALD TARCZA (imie padlo 300-06-19) _(bron, cwiczenie, chlopcy; arsenal i zapasy zbrojne (OSOBNO od prowiantu garnizonu))_
 - **MAESTER:** WYSTAN _(srebro, czarne zelazo, miedz, OLOW (trucizny); trzeci odczyt ziarna na Fosie)_
 - **SEDZIA - SAD GRODZKI:** RODERYK _(umowy od rownowartosci 30 korcy; orzeka 'jedna sakiewka' (300-03-03))_
 - **MAJORDOM FOSY:** ALYS _(dom, izby, goscie, SPIZARNIA I KLUCZE. Majordomat Fosy od 299-07 to ALYS I BRAN RAZEM: ona dom, on roboty.)_
@@ -840,7 +840,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-06-19 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 21**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 39**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1778,7 +1778,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-18] `starkowie/ARYA`: 300-06-18 POZNE POPOLUDNIE, FOSA - SYMON PROWADZI ARYE DO MELLI (cel przyjazdu Aryi: zgoda Catelyn 04-24 r85 - 'zobaczyc Melle', nie dluzej niz miesiac; listy 04-11). Bez rzutu (spotkanie, k…
 - [300-06-18] `dziennik`: 300-06-18 WIECZOR, FOSA - SYMON ZOSTAWIA ARYE Z MELLA (Dagon przy drzwiach z dala) i IDZIE NA KOLACJE Z MIRA wg kuchni Fosy - NELDA OD KOTLA gotuje na powrot pana: zupa z rakow z Przesmyku z…
 - [300-06-18] `rodzina/MIRA`: 300-06-18 WIECZOR, FOSA - SYMON ZOSTAWIA ARYE Z MELLA (Dagon przy drzwiach z dala) i IDZIE NA KOLACJE Z MIRA wg kuchni Fosy - NELDA OD KOTLA gotuje na powrot pana: zupa z rakow z Przesmyku z…
 - [300-06-19] `dziennik`: 300-06-19 SWIT (CZWARTEK), FOSA - SEN RZUT 46: sredni; burza po polnocy budzi Lyre (pioruny), Mira ja uspokaja, potem cisza; zdrowie 100, zmeczenie 49->21, sytosc 100->72. POGODA RZUT 4: JED…
@@ -1790,3 +1789,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-19] `HAL`: Rozkaz pana 06-19: skup papierow dluznych Lannisterow (kwity rekwizycyjne + weksle Lannisportu) przez placowki Domu, na rachunek Kasy 1; meldunek ~07-05.
 - [300-06-19] `dziennik`: 300-06-19 PRZEDPOLUDNIE, GABINET - SYMON DOPISUJE DO HALA (ta sama poczta BP): skupowac papiery Lwa PRZEZ SLUPY za prowizja; zbierac jako calosc; Dom odezwie sie jako wierzyciel po czasie; n…
 - [300-06-19] `HAL`: Dopisek 06-19: skup przez slupy za prowizja, jedna calosc, ujawnienie jako wierzyciel na znak pana; zebrac znaczaca kwote (sufit Hal wg Kasy 1).
+- [300-06-19] `dziennik`: 300-06-19 PRZEDPOLUDNIE-POLUDNIE, DZIEDZINIEC FOSY - TRENING U LOKALNEGO INSTRUKTORA: STARY ZBROJMISTRZ FOSY (w obsadzie od 299-06-23 bez imienia; przedstawia sie: OSWALD TARCZA, ~60 lat, sl…

@@ -7525,6 +7525,33 @@
    "wraca": "300-07-20",
    "zamyka": "uchwala lawy (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "WYPLATY DNIOWEK RANO PRZY WADZE, nie wieczorem (decyzja pana 06-19 na wniosek Herwina) - Mella + Garrick od najblizszej wyplaty; ogloszenie na slupie. Wlasni - bez rzutu.",
+   "kto": "MELLA + GARRICK",
+   "kanal": "na miejscu",
+   "wraca": "300-06-26",
+   "zamyka": "pierwsza wyplata rano przy wadze; meldunek ławy o bojkach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "KLUCZNIK LOCHU - WSKAZUJE SEDZIA RODERYK (decyzja pana 06-19: obsadzic domyslnie, imienia panu nie trzeba - wpis do obsady przez pisarza grodzkiego). Zasada 'kto chwyta, ten nie trzyma' - straznik bramy oddaje klucz. Wlasni - bez rzutu.",
+   "kto": "RODERYK",
+   "kanal": "na miejscu",
+   "wraca": "300-06-24",
+   "zamyka": "klucznik obsadzony, klucz u niego",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "MCHOWE JASTRZEBIE PATROLUJA ULICE CAILIN do czasu powolania STRAZY MIEJSKIEJ (rozkaz pana do KESSELA BRODATEGO 06-19). Miasto lezy w lenne; miasto sadzi samo, a gdy nie daje rady - daje znac panu. ZASADA 8: ~15 ludzi na miasto, groble i wode - Kessel powie, czego mu brakuje (ludzi albo zmian). Wlasni - bez rzutu.",
+   "kto": "SYMON -> KESSEL BRODATY; HERWIN",
+   "kanal": "na miejscu",
+   "wraca": "300-07-01",
+   "zamyka": "patrole chodza; meldunek Kessela o obsadzie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

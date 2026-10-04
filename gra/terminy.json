@@ -7555,11 +7555,74 @@
   },
   {
    "data": "300-06-19",
-   "co": "MCHOWE JASTRZEBIE DO 100 (rozkaz pana 06-19; dzis 20): straz lenna - ulice Cailin (do strazy miejskiej), grobla i woda, Goracy Port (wkrotce), PATROL CALEJ GRANICY LENNA. Kasa 2 (stala zaplata z kasy lenna). Dowodzi KESSEL BRODATY (podlega panu, nie Hendry'emu). PLAN KESSELA (fale, E): +30 po sianokosach (~VIII), +50 do X; dziesietnicy z najlepszych dwudziestu + przeniesieni od Hendry'ego (zgoda Hendry'ego). ZASADA 8 - CZEGO TRZEBA: (a) DOWODCOW - 'zaden z naszych nie dowodzil dziesiecioma' - dziesieciu dziesietnikow; (b) LODZI - plaskodenne olchowe, ciesla Brana, olcha z lasu lenna (lesniczy - WAKAT); (c) KUSZ - zbrojownia i kowale (kuznia ma czterech); (d) BARAKOW - przy grobli; (e) CHLEBA - 80 nowych gab (Orland/spichlerz); (f) KONKURENCJA O LUDZI z naborem Hendry'ego (cel 200, jest 61) i z dniowkami. Kosztorys: Warryn/Garrick (E). NABOR - wola wolnych ludzi: RZUT przy pierwszym meldunku Kessela.",
+   "co": "MCHOWE JASTRZEBIE DO 100 (rozkaz pana 06-19; dzis 20): straz lenna - ulice Cailin (do strazy miejskiej), grobla i woda, Goracy Port (wkrotce), PATROL CALEJ GRANICY LENNA. Kasa 2 (stala zaplata z kasy lenna). Dowodzi KESSEL BRODATY (podlega panu, nie Hendry'emu). PLAN KESSELA (fale, E): +30 po sianokosach (~VIII), +50 do X; dziesietnicy z najlepszych dwudziestu + przeniesieni od Hendry'ego (zgoda Hendry'ego). ZASADA 8 - CZEGO TRZEBA: (a) DOWODCOW - 'zaden z naszych nie dowodzil dziesiecioma' - dziesieciu dziesietnikow; (b) LODZI - plaskodenne olchowe, ciesla Brana, olcha z lasu lenna (lesniczy - WAKAT); (c) KUSZ - zbrojownia i kowale (kuznia ma czterech); (d) BARAKOW - przy grobli; (e) CHLEBA - 80 nowych gab (Orland/spichlerz); (f) KONKURENCJA O LUDZI z naborem Hendry'ego (cel 200, jest 61) i z dniowkami. Kosztorys: Warryn/Garrick (E). NABOR - wola wolnych ludzi: RZUT przy pierwszym meldunku Kessela. ### 06-19: ZGODA PANA NA PLAN KESSELA I BRAKI - terminy osobno: dziesietnicy 07-01, lesniczy 06-26, chleb i kosztorys 07-05, lodzie/kusze/baraki 08-01; pierwsza fala - meldunek 07-15 (rzut).",
    "kto": "SYMON -> KESSEL BRODATY; HENDRY; WARRYN/GARRICK (koszt)",
    "kanal": "na miejscu",
    "wraca": "300-07-15",
    "zamyka": "pierwsza fala przyjeta imiennie (rzut) + kosztorys",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "JASTRZEBIE 100 - DZIESIETNICY: Kessel wybiera szesciu z wlasnych dwudziestu, HENDRY oddaje czterech ze swojej druzyny (rozkaz pana 06-19); szkolenie dowodzenia u Kessela. Wlasni - bez rzutu.",
+   "kto": "KESSEL + HENDRY",
+   "kanal": "na miejscu",
+   "wraca": "300-07-01",
+   "zamyka": "dziesieciu dziesietnikow imiennie w ksiedze Jastrzebi (pisarz grodzki)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "LESNICZY PRZYSIEGLY LENNA - OBSADZIC (wakat od 300-02; potrzebny do wyrebu olchy na lodzie Jastrzebi i regale lesnego). Szuka WARRYN w OBU SPISACH (zasada 37: spis mieszkancow 299-06 + rejestr dniowek Melli). Wlasni - bez rzutu.",
+   "kto": "WARRYN (+ Mella)",
+   "kanal": "na miejscu",
+   "wraca": "300-06-26",
+   "zamyka": "lesniczy obsadzony imiennie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "JASTRZEBIE 100 - LODZIE: plaskodenne olchowe na tyczkach, pierwsze szesc pod pierwsza fale (+30); ciesla Brana po sianokosach, olcha z lasu lenna (lesniczy). Kasa 2.",
+   "kto": "BRAN (ciesla) + lesniczy",
+   "kanal": "na miejscu",
+   "wraca": "300-08-01",
+   "zamyka": "szesc lodzi na wodzie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "JASTRZEBIE 100 - KUSZE: trzydziesci pod pierwsza fale; zbrojmistrz Fosy + kuznia (czterech kowali; ruda z Wilczego Lasu - zelazo na okucia). Kasa 2.",
+   "kto": "ZBROJMISTRZ FOSY + kuznia",
+   "kanal": "na miejscu",
+   "wraca": "300-08-01",
+   "zamyka": "trzydziesci kusz w zbrojowni",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "JASTRZEBIE 100 - BARAKI PRZY GROBLI dla pierwszej fali (30): Bran, po sianokosach; z zapasu drewna budowy. Kasa 2.",
+   "kto": "BRAN",
+   "kanal": "na miejscu",
+   "wraca": "300-08-01",
+   "zamyka": "baraki pod dachem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "JASTRZEBIE 100 - CHLEB: Orland dolicza 80 gab do karty Spichlerza lenna (najpierw +30 od VIII). Wlasni - bez rzutu.",
+   "kto": "ORLAND KORZEC",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "pozycja w karcie Spichlerza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "JASTRZEBIE 100 - KOSZTORYS: zold (stala zaplata z kasy lenna), lodzie, kusze, baraki, chleb - Warryn i Garrick, do Kasy 2 (E -> liczby).",
+   "kto": "WARRYN + GARRICK",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "kosztorys na stole pana",
    "status": "otwarte"
   }
  ],

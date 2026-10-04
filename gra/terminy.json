@@ -7867,6 +7867,15 @@
    "wraca": "300-07-05",
    "zamyka": "saldo rzeczywiste skarbca lenna na pismie; korekta Hala, jesli potrzebna",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "KSIEGA SKLADU CAILIN - PIERWSZE LICZBY (prawo skladu nadane przez Krola ~300-03-30; kwot brak w zapisie - zasada 43): Bennis (waga) + Warryn wyciagaja z ksiegi skladu od wiosny: ile wozow stanelo, ile oplat skladowych/odstepnego wplynelo do skarbca lenna (regale pana), ile zostalo w miescie (tragarze, strawa, noclegi). Liczba wchodzi do rubryki lenna w kasa.py (koniec 'NIEZNANE'). Wlasni - bez rzutu.",
+   "kto": "WARRYN + BENNIS",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "prawo skladu z liczba w rachunku lenna",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

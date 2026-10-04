@@ -7507,6 +7507,24 @@
    "wraca": "300-06-26",
    "zamyka": "dopisek w karcie i na slupie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "SPIS LETNI CAILIN (propozycja Herwina 06-19): po sianokosach, dymy i dusze imiennie - Mella (przybysze) + Alys (lenno) + pisarz grodzki; ostatni spis 02-25 (~1400 + ~400 przybyszow). Wlasni + miasto - bez rzutu.",
+   "kto": "HERWIN + MELLA + ALYS",
+   "kanal": "na miejscu",
+   "wraca": "300-07-25",
+   "zamyka": "liczba dusz i dymow na slupie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "KASA MIEJSKA CAILIN - PODATEK MIEJSKI (zamiar Herwina 06-19): lawa nie uchwalila dotad zadnego podatku; kasa zyje z wagi (Bennis) i niczego wiecej - na bruk, mury, straz brak. Herwin przedlozy lawie po sianokosach MALE PODYMNE albo OPLATE BRAMNA - zeby miasto mialo z czego splacac pozyczke 0,5%. Wola lawy - RZUT przy uchwale.",
+   "kto": "HERWIN -> LAWA",
+   "kanal": "na miejscu",
+   "wraca": "300-07-20",
+   "zamyka": "uchwala lawy (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

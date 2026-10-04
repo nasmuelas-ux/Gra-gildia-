@@ -25,11 +25,10 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**126 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
+**125 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🟡 WRACA DZIS
 - RECKAWICE DO JAZDY DLA LADY BARBREY DUSTIN - prezent od Miry (pani domu pani domu): ciemna skora z Zimowego Miasta, srebrne wyszyc… · _kanal:_ Winterfell
-- BRAN + JOJEN + MEERA -> SYMON: CO JOJEN POWIEDZIAL BRANOWI (umowa 05-13: 'dowiemy sie razem; wtedy ty zdecydujesz, czy pomozesz').… · _kanal:_ osobiscie, izba Brana
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -625,7 +624,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-06-05** — LOWCY TALENTOW W SEPTACH I W DORZECZU - dzieci nisko urodzone, bekarty, zablakane (sieroty wojenne); stypendium Domu (wikt i dach), odpracowanie 3 lata. Pisma: septon Winterfell (ustnie), septa BP (Hal), septy i panowie Dorzecza (Lucan, Deron Suchy, placowka Riverrun/Seagard). Transport: kolumny Kompanii z opiekunem. JEDEN RZUT na odzew (wola septonow i Dorzecza); Wiara zapyta o Siedmiu. · _kto:_ **SYMON -> SEPTONI / LUCAN / DERON / HAL** · _zamyka:_ pierwsza lista dzieci zgloszonych + odpowiedz Wiary
 - **300-06-05** — WAT (Bialy Port) - DRUGA PAPIERNIA NA FOSIE CAILIN i TRZECIA W ZIMOWYM MIESCIE (strumien przy brodzie w Wilczym Lesie - E); Dom finansuje. Pytanie pana: Wat sam czy dwoch roznych papiernikow. Szmaty: skup BP + scinki szwalni w Winterfell. Bez rzutu (wlasny). ### VOID 06-05: 'pierwsza papiernia na Fosie / drugi mlyn' - pierwsza papiernia Wata jest w BIALYM PORCIE (wskazanie gracza). · _kto:_ **SYMON -> WAT; HAL (wycena)** · _zamyka:_ odpowiedz Wata (kto prowadzi) + miejsce i woda w Zimowym Miescie + wycena Hala
 - **300-06-06** — PRZERZUT Z KOMOR - WYKONANIE: Zimowe Miasto (wozy, kasztelan, wydawanie wg kart) i Sigrun (lodz Torrena przez Dustinport). Meldunek Orlanda: ile wydano, ile zostalo w komorach. Wlasne - bez rzutu. · _kto:_ **ORLAND + KASZTELAN; TORREN** · _zamyka:_ luka przednowku zamknieta + zboze u Sigrun
-- **300-06-06** — BRAN + JOJEN + MEERA -> SYMON: CO JOJEN POWIEDZIAL BRANOWI (umowa 05-13: 'dowiemy sie razem; wtedy ty zdecydujesz, czy pomozesz'). Pierwsza noc Brana bez naparu. Przed wyjazdem pana na Barrow Hall (06-08). Tajemnica - poza ksiegami urzedow; Mira nie wie. · _kto:_ **BRAN, JOJEN, MEERA -> SYMON** · _zamyka:_ rozmowa we czworo + decyzja pana, czy i jak pomoze
+- **300-06-06** — BRAN + JOJEN + MEERA -> SYMON: CO JOJEN POWIEDZIAL BRANOWI (umowa 05-13: 'dowiemy sie razem; wtedy ty zdecydujesz, czy pomozesz'). Pierwsza noc Brana bez naparu. Przed wyjazdem pana na Barrow Hall (06-08). Tajemnica - poza ksiegami urzedow; Mira nie wie. · _kto:_ **BRAN, JOJEN, MEERA -> SYMON** · _zamyka:_ rozmowa we czworo + decyzja pana, czy i jak pomoze **⚠ ROZMOWA ODBYTA 06-07 PRZED POLUDNIEM - JOJEN POWIEDZIAL (WARG, KRUK ZA MUREM, NAPAR, 'ZA MUR NIE TERAZ'); CZEKA NA DECYZJE SYMONA, CZY I JAK POMOZE.**
 - **300-06-07** — GAWEN - KSIEGA SKARBU PRZEPISANA: Korona, nie tylko skarb (moneta + spienieznienie swiadczen w naturze + co zjadane w naturze, osobnymi kolumnami). Polecenie Krola 06-07. Wlasny - bez rzutu. · _kto:_ **GAWEN** · _zamyka:_ nowa ksiega Skarbu w trzech kolumnach
 - **300-06-07** — WYMAN - PRZEPUSTOWOSC BIALEGO PORTU: list Krola i Namiestnika - Dom Tally finansuje sklad przy nabrzezu, drugi zuraw i pomost przeladunkowy (Kasa 1); port i oplaty Wymana. RZUT przy odpowiedzi. · _kto:_ **KROL + SYMON -> WYMAN MANDERLY** · _zamyka:_ odpowiedz Wymana (rzut) + miejsce na nabrzezu **⚠ VOID 300-06-07 - BLAD GM (ZASADA 3): PAN MOWIL O SZYBSZYM SPIENIEZANIU TOWARU W BIALYM PORCIE, NIE O ROZBUDOWIE PORTU. LIST DO WYMANA NIE WYSZEDL. ZASTAPIONE POZYCJA 'HAL - SZYBKIE SPIENIEZANIE TOWARU KORONY W BIALYM PORCIE'.**
 - **300-06-07** — GORACY PORT - POMOST TYMCZASOWY Z DREWNA I JEDEN ZURAW przy ujsciu (pod zboze Reach w X 300; nabrzeze GP-7 dopiero lato 301). Harlon, Dom placi, drewno z kolejki, mur od morza bez zmian. Wlasni - bez rzutu. · _kto:_ **SYMON -> GARRICK -> HARLON** · _zamyka:_ pomost i zuraw gotowe na pierwszy statek z Reach
@@ -808,7 +807,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-06-07 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 19**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 22**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1709,10 +1708,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-06] `starkowie/BRAN`: Symon: nie pij dzis, porozmawiaj z Jojenem, jutro mi powiecie. Pierwsza noc bez naparu od przyjazdu Reedow; Meera wartuje przy drzwiach.
-- [300-06-06] `dziennik`: 300-06-06 POZNY WIECZOR, IZBA NIANI - BAJKA 12: O BAELU BARDZIE I ZIMOWEJ ROZY. Bez rzutu. Dopisek Niani: 'Spisujcie imiona dzikich na Cyplu. Wszystkie. Zeby za piecdziesiat lat nikt nie zab…
-- [300-06-07] `dziennik`: 300-06-07 RANEK (SOBOTA), WINTERFELL - SEN RZUT 40: noc przecietna; zdrowie 100, zmeczenie 47->19, sytosc 100->72. POGODA RZUT 40: pochmurno, chlodniej, wiatr z polnocy, bez deszczu; kruki l…
-- [300-06-07] `dziennik`: 300-06-07 SNIADANIE, WIELKA SALA - Symon z Mira i Lyra; Kamyk. Bez rzutow. Pochmurno, chlodny wiatr z polnocy - pierwszy raz od tygodnia ogien w kominku sali. Kasza jaglana z mlekiem, jajka,…
 - [300-06-07] `dziennik`: 300-06-07 PRZED POLUDNIEM, SOLAR KROLA - NARADA: KROL, SYMON, GAWEN, ORLAND KORZEC (Luwin przy oknie). Bez rzutu (narada; decyzje Krola). (1) PLAN ZBOZOWY - karta Orlanda (zakup w 300 ~225-2…
 - [300-06-07] `robb_stark`: Narada 06-07: luka zbozowa ~190 tys. korcy; pyta Symona, co kupic w 300, co odlozyc, kto pozycza. T3-C zatwierdzony (VII). Drugi list do Edmure'a napisany. T1-B po pomiarze Brenna (06-15).
 - [300-06-07] `dziennik`: 300-06-07 SOLAR KROLA (cd.) - SLOWO SYMONA: KUPUJEMY PILNE I CYPEL (garnizony ~3500 + Cypel ~143 000 korcy). ZAPAS ZIMOWY - odlozony. ORAZ: rachunek Skarbu liczy tylko podatki w monecie - tr…
@@ -1721,3 +1716,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-07] `robb_stark`: Zgoda: Bialy Port - list do Wymana 'jak do wspolnika'; Reach - kontrakt Korony przez Goracy Port; przetwarzanie towaru z danin w warsztatach Domu.
 - [300-06-07] `poprawki`: POPRAWKA (zasada 3, wskazanie gracza): 'zwiekszyc przepustowosc Bialego Portu' = SZYBSZE SPIENIEZANIE TOWARU w Bialym Porcie, NIE rozbudowa portu. VOID: list Krola i Namiestnika do Wymana o …
 - [300-06-07] `dziennik`: 300-06-07 SOLAR KROLA (cd.) - POPRAWKA PANA: chodzi o SZYBSZE SPIENIEZANIE towaru Korony w Bialym Porcie. Symon pisze do Hala (kruk dzis): kwit skladowy z zaliczka w monecie od reki, sprzeda…
+- [300-06-07] `dziennik`: 300-06-07 PRZED POLUDNIEM, IZBA BRANA - SYMON U BRANA I REEDOW (umowa 05-13 dotrzymana; bez nowego rzutu - sprawa miala rzut 24 'nie dzis', dzis jest jutro). Drzwi zamkniete, Hodor na koryta…
+- [300-06-07] `starkowie/BRAN`: Jojen (06-07): Bran jest wargiem; kruk z trzema oczami pod korzeniami czardrzewa za Murem; napar przytepia dar; za Mur NIE TERAZ - najpierw nauczyc sie patrzec i wracac. Bran czeka na decyzj…
+- [300-06-07] `JOJEN_REED`: Mowi Symonowi o zielonych snach, Branie-wargu, kruku za Murem, naparze; 'za Mur nie teraz'. O Symonie: 'snilem pioro, ktore plonie i sie nie spala'.
+- [300-06-07] `ksiega_mistyki_polnocy_300_04`: ZBIEZNOSC (tajemnica, poza ksiega jawna): Jojen - zielonowidz/kruk pod korzeniami czardrzewa za Murem; Niania (bajka 7, 300-04-13) - najstarszy zielonowidz zszedl w korzenie czardrzewa i wol…

@@ -7222,11 +7222,20 @@
   },
   {
    "data": "300-06-09",
-   "co": "WSPOLNY ZAKUP ZBOZA Z LORDAMI - jeden kontrakt Korony (Rodwell, Gawen), kazdy lord placi swoja czesc po cenie kontraktu, bez marzy; zapotrzebowanie z formularza Etapu I. JEDEN RZUT na odzew lordow.",
+   "co": "WSPOLNY ZAKUP Z LORDAMI (z zalozenia karty Spichlerza, Etap II: 'Korona kupuje raz, latem, kontraktem') - BEZ RZUTU (VOID rzutu 06-09, wskazanie gracza): zgranie na podstawie wyliczenia. Zapotrzebowanie lordow z formularza Etapu I (06-12) + karta Orlanda; jeden kontrakt Korony (Rodwell, Gawen); kazdy lord placi swoja czesc po cenie kontraktu bez marzy. Kupujemy: zboze jadalne, ROSLINY STRACZKOWE (groch, bob, soczewica), inna zywnosc na zime, osobno ziarno i nasiona SIEWNE przystosowane do Polnocy.",
    "kto": "KROL -> LORDOWIE (Rodwell, Gawen)",
    "kanal": "kruki Krola do lordow (po liscie pana, ~06-15)",
    "wraca": "300-07-05",
-   "zamyka": "lista lordow w kontrakcie + ilosci",
+   "zamyka": "kontrakt z lista lordow i ilosciami (z formularza + karta Orlanda)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-09",
+   "co": "OKOLNIK NAMIESTNIKA DO LORDOW: Polnoc odchodzi od zboz i roslin poludniowych (marzna w klosie) - zyto ozime, jeczmien, owies, groch, bob, rzepa, kapusta; ziarno siewne z kontraktu Korony po cenie kosztu; zalecenie, nie nakaz; skutek w plonach po zniwach 301. Wysyla Luwin z Winterfell po liscie pana (kruk Barrowton 06-12 -> Winterfell 06-14).",
+   "kto": "SYMON -> LUWIN -> LORDOWIE",
+   "kanal": "kruk Barrowton-Winterfell + kruki Luwina do lordow",
+   "wraca": "300-06-16",
+   "zamyka": "okolnik rozeslany",
    "status": "otwarte"
   }
  ],

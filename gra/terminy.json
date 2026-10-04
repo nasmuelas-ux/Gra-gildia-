@@ -7876,6 +7876,24 @@
    "wraca": "300-07-05",
    "zamyka": "prawo skladu z liczba w rachunku lenna",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "SKLAD GLOWNY CAILIN PRZED BRUKIEM (decyzja pana 06-20, rada Warryna): w kolejce kamienia sklad (bazalt, ogrzewany od spodu, bez okien w przyziemiu - projekt Cailin V) wchodzi przed bruk (poz. 9); placi lenno (pod ziemia/mur/sklad - regale). Warryn przestawia kolejke i podaje date startu.",
+   "kto": "WARRYN + ORBELO",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "sklad w kolejce z data startu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "KOMORA CELNA FOSY - MELDUNEK DLA PANA (pytanie 06-20 'jak wyglada sytuacja cla?'): GARTH (celnik Korony) + WARRYN: ruch przez komore od wiosny (wozy, lodzie), ile cla Korony przekazano Gawenowi, ile WYNAGRODZENIA ZA POBOR wplynelo do skarbca lenna, jak Garth liczy towary SPOZA ZYWNOSCI (czy wg czterech klas taryfy Gawena z 299-09 - w ksiedze lenna nie stoi, czy taryfe przyjeto), przemyt przez bagna (z Roderykiem i Kesselem). Cло to KORONA (Kasa 3) - lenno tylko pobiera.",
+   "kto": "GARTH + WARRYN",
+   "kanal": "na miejscu",
+   "wraca": "300-06-24",
+   "zamyka": "meldunek komory na stole pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -7636,7 +7636,7 @@
   },
   {
    "data": "300-06-19",
-   "co": "RADA LENNA FOSY - POWOLANA (rozkaz pana 06-19; ksztalt z propozycji 300-03-03): PIEC KRZESEL - KANCLERZ GARRICK (przewodniczy pod nieobecnosc pana), RZADCA WARRYN (ziemia, budowy, Kasa 2), KAPITAN HENDRY (druzyna, obrona, brama), MAESTER WYSTAN (wiedza, kruki, lecznictwo), SEDZIA RODERYK (sad grodzki, umowy, spory); na wezwanie: Kessel (Jastrzebie), Orland (spichlerz), Alys i Bran (majordomat), Mella (ludzie), Herwin (glos miasta, bez glosu w lennie). Wywiadu przy tym stole NIE MA (ksiega Domu). Zbiera sie CO SIEDEM DNI, w staly dzien, takze bez pana; porzadek przy sporze: budowy - Warryn, obrona - Hendry, prawo - Roderyk, reszta - Garrick; rozbieznosc zapisuje sie jako fakt (dwie opinie z data i decyzja). Protokol do pana co tydzien kruk/poczta. Pierwsze posiedzenie z panem: 06-21. ### 06-19 PAN: RAPORT RADY LISTEM DO PANA CO DWA TYGODNIE (sprawy lenna) - cykl RAPORT_RADY_LENNA; posiedzenia dalej co 7 dni. ### 06-21: PIERWSZE POSIEDZENIE Z PANEM odbyte - 5 spraw do slowa pana (A-E w dzienniku). ### ⚠ POPRAWKA 300-06-21 (VOID, wskazanie gracza): MAESTER WYSTAN JEST NA MURZE (Czarny Zamek od 05-26, przy Aemonie; Cytadela: 'do odwolania przez Lorda Dowodce'). Na Fosie maestera NIE MA - krzeslo maestra w radzie PUSTE do przyjazdu maesterow z Cytadeli (Orwyn/Edmund, Fosa E ~07-01); lecznictwo na wezwanie: NINA (lecznica, z Gytha). Rada 06-21 - meldunek 'Wystana' VOID.",
+   "co": "RADA LENNA FOSY - POWOLANA (rozkaz pana 06-19; ksztalt z propozycji 300-03-03): PIEC KRZESEL - KANCLERZ GARRICK (przewodniczy pod nieobecnosc pana), RZADCA WARRYN (ziemia, budowy, Kasa 2), KAPITAN HENDRY (druzyna, obrona, brama), MAESTER WYSTAN (wiedza, kruki, lecznictwo), SEDZIA RODERYK (sad grodzki, umowy, spory); na wezwanie: Kessel (Jastrzebie), Orland (spichlerz), Alys i Bran (majordomat), Mella (ludzie), Herwin (glos miasta, bez glosu w lennie). Wywiadu przy tym stole NIE MA (ksiega Domu). Zbiera sie CO SIEDEM DNI, w staly dzien, takze bez pana; porzadek przy sporze: budowy - Warryn, obrona - Hendry, prawo - Roderyk, reszta - Garrick; rozbieznosc zapisuje sie jako fakt (dwie opinie z data i decyzja). Protokol do pana co tydzien kruk/poczta. Pierwsze posiedzenie z panem: 06-21. ### 06-19 PAN: RAPORT RADY LISTEM DO PANA CO DWA TYGODNIE (sprawy lenna) - cykl RAPORT_RADY_LENNA; posiedzenia dalej co 7 dni. ### 06-21: PIERWSZE POSIEDZENIE Z PANEM odbyte - 5 spraw do slowa pana (A-E w dzienniku). ### ⚠ POPRAWKA 300-06-21 (VOID, wskazanie gracza): MAESTER WYSTAN JEST NA MURZE (Czarny Zamek od 05-26, przy Aemonie; Cytadela: 'do odwolania przez Lorda Dowodce'). Na Fosie maestera NIE MA - krzeslo maestra w radzie PUSTE do przyjazdu maesterow z Cytadeli (Orwyn/Edmund, Fosa E ~07-01); lecznictwo na wezwanie: NINA (lecznica, z Gytha). Rada 06-21 - meldunek 'Wystana' VOID. ### 06-21 PAN: STALY DZIEN RADY - SOBOTA PO SNIADANIU (nastepna 06-28).",
    "kto": "GARRICK + rada",
    "kanal": "na miejscu; protokol do pana",
    "wraca": "300-06-21",
@@ -7986,6 +7986,42 @@
    "co": "ZWYCZAJ LESNY LENNA - OGLOSZENIE NA SLUPIE (nadanie pana 06-20): CHRUST I WIATROLOMY WOLNO; budulec, zywe drzewo i sprzedaz drewna - regale pana do prawa lesnego. Dwie wstrzymane sprawy o zywe drzewo - Roderyk sadzi po obsadzeniu lesniczego (lesniczy jako swiadek). Wlasni - bez rzutu.",
    "kto": "Roderyk + Warryn (lesniczy)",
    "kanal": "na miejscu (Fosa)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "KOLEJNOSC WYDATKOW LENNA (zgoda pana 06-21, propozycja Warryna): (a) ludzie - zold, dniowki, pisarze, zwrot dniowek, OBIAD SZKOLNY od 07-01; (b) ogien, goraczka, kadzielnice; (c) Jastrzebie - pierwsza fala; (d) baraki i izby; (e) kamien (wieze, mur, bruk) - z obligacji i po zniwach. Kosztorysy i kwota obiadu szkolnego - 07-05. Wlasni - bez rzutu.",
+   "kto": "WARRYN",
+   "kanal": "na miejscu; raport rady",
+   "wraca": "300-07-05",
+   "zamyka": "kosztorysy w kolejnosci a-e, kwota obiadu szkolnego",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "JAWNA POZYCZKA DOMU DLA LENNA - JESLI LIPIEC NIE DOMKNIE (zgoda pana 06-21): z sakwy pana na skarbiec lenna (odrebna pozycja), NA PAPIERZE - kwota, termin zwrotu, wpis w obu ksiegach (Hal + Warryn); bez procentu (ta sama sakwa) - E. Spust: rozliczenie skarbca lenna 07-05 / 08-05 - jesli (a)-(c) nie mieszcza sie w skarbcu, Warryn pisze wniosek do Hala z kwota. Kwot z glowy brak (zasada 43). Wlasni - bez rzutu.",
+   "kto": "WARRYN -> HAL",
+   "kanal": "kruk Fosa-Winterfell / poczta Domu",
+   "wraca": "300-08-05",
+   "zamyka": "wniosek z kwota albo stwierdzenie, ze lipiec domknal",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "10 LUDZI Z DRUZYNY NA ULICE CAILIN DO PIERWSZEJ FALI JASTRZEBI (zgoda pana 06-21, propozycja Hendry'ego): na ulicy pod rozkazem Kessela, w dyscyplinie Hendry'ego; od dzis do pierwszej fali (+30, E ~07-15). Noca na ulicach: 3-4 Jastrzebi + 10 z druzyny. Wlasni - bez rzutu.",
+   "kto": "HENDRY + KESSEL",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "pierwsza fala Jastrzebi na miejscu - druzyna wraca do twierdzy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "KRANNOGOWIE NA BARKI ZBOZOWE (zgoda pana 06-21, propozycja Garricka): zalogi barek z Goracego Portu w gore Goraczki do spichlerza Fosy w IX-X, za dniowke; umowa przez HOWLANDA REEDA - list Garricka w imieniu pana (krannogowie raportuja juz Fosie - kanal: poslancy krannogow). Wola obca - RZUT przy odpowiedzi Reeda.",
+   "kto": "GARRICK -> REED",
+   "kanal": "poslaniec krannogow Fosa-Szara Woda",
+   "wraca": "300-07-10",
+   "zamyka": "odpowiedz Reeda (ilu, za ile, od kiedy)",
    "status": "otwarte"
   }
  ],

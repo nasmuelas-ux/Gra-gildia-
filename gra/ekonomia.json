@@ -1130,6 +1130,7 @@
   "sklad": "Obliczone wstecz od 300-03-18 (scalenie sakwy) z rubryki KASA 2 (kasa.py, wynik operacyjny po garnizonie i szkole): III od 18-go ~18..62 (14/31 miesiaca) + IV 115..486 + EMISJA OBLIGACJI LENNA +800 (04-01) + V 117..493 + VI do 20-go ~79..333 (20/30) - PRZEWLOKA 318 (z obligacji) = 811..1856 (E, zaokr.).",
   "do_rozliczenia": "WYDATKI BUDOW LENNA placone 'z biezacego' (grobla, trakt i odnogi, spichlerze wiejskie od 06-05, kwatery od 06-10, Goracy Port - mur, nabor murarzy, dniowki) NIE SA w rubryce Kasa 2 kasa.py - saldo jest PRZED ich potraceniem. Warryn rozlicza z ksiegi lenna do 07-05 (zasada 43: liczb sie nie zgaduje).",
   "obligacja": "z 800 zostalo 482 po przewloce - czesc salda; kupon 68 rocznie od 301-04-01; wykup 800 w 315-04-01.",
-  "zrodlo": "rozstrzygniecie gracza 300-06-20 (Fosa, izba rzadcy); kasa.py miesiac 300-03..06"
+  "zrodlo": "rozstrzygniecie gracza 300-06-20 (Fosa, izba rzadcy); kasa.py miesiac 300-03..06",
+  "pozyczka_domu": "ZGODA PANA 300-06-21: jawna pozyczka z sakwy pana na skarbiec lenna, gdyby lipiec nie domknal pozycji (a)-(c) kolejnosci Warryna; na papierze w obu ksiegach (Hal + Warryn), kwota z wniosku Warryna przy rozliczeniu 07-05/08-05; bez procentu (E). Na dzis: NIE UDZIELONA."
  }
 }

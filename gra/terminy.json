@@ -5593,10 +5593,10 @@
   },
   {
    "data": "300-05-19",
-   "co": "PRZEGLAD KART KROLESTW z Sansa - DRUGI (miesieczny): 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Na wierzchu [10] Mur. ### 06-18: pan na Fosie - PRZELOZONE NA POWROT do Winterfell (~07-01); Sansa dostaje wiadomosc w liscie do Krola.",
+   "co": "PRZEGLAD KART KROLESTW z Sansa - DRUGI (miesieczny): 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Na wierzchu [10] Mur. ### 06-18: pan na Fosie - PRZELOZONE NA POWROT do Winterfell (~07-01); Sansa dostaje wiadomosc w liscie do Krola. ### 06-19: pan zostaje na Fosie do 07-02 - przeglad po powrocie (~07-09).",
    "kto": "SYMON + SANSA",
    "kanal": "wlasna robota (Winterfell)",
-   "wraca": "300-07-01",
+   "wraca": "300-07-09",
    "zamyka": "karty poprawione",
    "status": "otwarte"
   },
@@ -7434,6 +7434,15 @@
    "kanal": "jezdziec Fosa-Przesmyk-Riverrun (~10 dni) i z powrotem",
    "wraca": "300-07-10",
    "zamyka": "odpowiedz Edmure'a i Kompanii (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "POWROT RODZINY DO WINTERFELL (decyzja pana 06-19: zostaje z Mira i Lyra na Fosie do pierwszej lekcji szkoly 07-01): wyjazd 07-02 - Symon, Mira, Lyra, Rhona, ARYA (warunek Krola: 'jedzie z toba i wraca z toba'; warunek Catelyn: nie dluzej niz miesiac - od 06-08, granica ~07-08), przyboczni; trakt Fosa-Winterfell 6 dni, w Winterfell ~07-08. ### DRUGA RATYFIKACJA (koniec VI) wg zapisu idzie przez CATELYN/LUCANA po stronie Dorzecza - obecnosc Namiestnika nie jest w niej zapisana; jesli pan chce ja wstrzymac do powrotu - to prerogatywa Krola (list). Krol nie wie jeszcze o przedluzeniu pobytu (kanal: kruk Fosa-Winterfell).",
+   "kto": "SYMON + rodzina + przyboczni",
+   "kanal": "trakt Fosa-Winterfell",
+   "wraca": "300-07-08",
+   "zamyka": "rodzina i Arya w Winterfell",
    "status": "otwarte"
   }
  ],

@@ -7966,6 +7966,27 @@
    "wraca": "300-07-15",
    "zamyka": "meldunek Willi (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-22",
+   "co": "ZWROT ZATRZYMANYCH DNIOWEK ROBOTNIKOM (decyzja pana 06-20, rada Roderyka): ze SKARBCA LENNA od razu, przy wadze rano, do reki przez pisarza; kwota z rejestru Melli (E kilka-kilkanascie smokow); lenno sciaga od nadzorcow wyrokiem sadu grodzkiego. Powrot skazanych do nadzoru - Garrick (zasada 42). Wlasni - bez rzutu.",
+   "kto": "Warryn + Mella + Roderyk",
+   "kanal": "na miejscu (Fosa)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-22",
+   "co": "WYPLATA DNIOWEK PRZY WADZE - DO REKI DAJE PISARZ, NADZORCA TYLKO POSWIADCZA (decyzja pana 06-20). Wlasni - bez rzutu.",
+   "kto": "Mella + Garrick",
+   "kanal": "na miejscu (Fosa)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "ZWYCZAJ LESNY LENNA - OGLOSZENIE NA SLUPIE (nadanie pana 06-20): CHRUST I WIATROLOMY WOLNO; budulec, zywe drzewo i sprzedaz drewna - regale pana do prawa lesnego. Dwie wstrzymane sprawy o zywe drzewo - Roderyk sadzi po obsadzeniu lesniczego (lesniczy jako swiadek). Wlasni - bez rzutu.",
+   "kto": "Roderyk + Warryn (lesniczy)",
+   "kanal": "na miejscu (Fosa)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

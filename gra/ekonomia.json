@@ -1121,5 +1121,15 @@
    "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-06-05: 'prosba o podkrecenie calej ekonomii Korony i Domu o 10%'. MA MOC ZAPISU (zasada 43).",
    "uzasadnienie_w_swiecie": "Polisa roczna z Braavos (rzut 73, 06-05): fracht do Bialego Portu ubezpieczony caly rok - mniej przestojow zima, tansze kredyty pod ladunek, wiecej kupcow z Essos. Zaufanie Wolnych Miast do Korony Polnocy rosnie."
   }
- ]
+ ],
+ "_skarbiec_lenna": {
+  "_opis": "SKARBIEC LENNA FOSY CAILIN - ODREBNA POZYCJA (rozstrzygniecie gracza 300-06-20). Sakwa pana jest jedna (300-03-18), ale LENNO MA WLASNY SKARBIEC i wlasne saldo - NIE wchodzi w obroty, wolna gotowke ani bufor Domu. Przeplyw Dom<->lenno tylko jawnie zapisany (jak pozyczka). Trzyma: WARRYN (rzadca), na Fosie; rada lenna widzi saldo w raporcie co 14 dni.",
+  "na_dzien": "300-06-20",
+  "min": 811,
+  "max": 1856,
+  "sklad": "Obliczone wstecz od 300-03-18 (scalenie sakwy) z rubryki KASA 2 (kasa.py, wynik operacyjny po garnizonie i szkole): III od 18-go ~18..62 (14/31 miesiaca) + IV 115..486 + EMISJA OBLIGACJI LENNA +800 (04-01) + V 117..493 + VI do 20-go ~79..333 (20/30) - PRZEWLOKA 318 (z obligacji) = 811..1856 (E, zaokr.).",
+  "do_rozliczenia": "WYDATKI BUDOW LENNA placone 'z biezacego' (grobla, trakt i odnogi, spichlerze wiejskie od 06-05, kwatery od 06-10, Goracy Port - mur, nabor murarzy, dniowki) NIE SA w rubryce Kasa 2 kasa.py - saldo jest PRZED ich potraceniem. Warryn rozlicza z ksiegi lenna do 07-05 (zasada 43: liczb sie nie zgaduje).",
+  "obligacja": "z 800 zostalo 482 po przewloce - czesc salda; kupon 68 rocznie od 301-04-01; wykup 800 w 315-04-01.",
+  "zrodlo": "rozstrzygniecie gracza 300-06-20 (Fosa, izba rzadcy); kasa.py miesiac 300-03..06"
+ }
 }

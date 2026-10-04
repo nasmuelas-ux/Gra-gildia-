@@ -7858,6 +7858,15 @@
    "wraca": "300-06-26",
    "zamyka": "wpis w karcie, ogloszenie, ksiega skazanych zalozona",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "SKARBIEC LENNA - ROZLICZENIE WSTECZ (rozkaz pana 06-20): Warryn z ksiegi lenna potraca od salda 811..1856 (E, wynik Kasy 2 od 03-18 + obligacja - przewloka) WSZYSTKIE WYDATKI BUDOW placone z biezacego (grobla, trakt i odnogi, spichlerze wiejskie, kwatery, Goracy Port, nabor, dniowki) i podaje SALDO RZECZYWISTE SKARBCA LENNA; od tej daty skarbiec lenna prowadzony osobno (wplywy, wydatki, saldo co miesiac), poza obrotami Domu. Hal - sprawdza, czy akt 06-01 (wolna gotowka Domu 759-2066) nie zawieral wyniku lenna; jesli tak - koryguje w bilansie 07-05.",
+   "kto": "WARRYN; HAL (kontrola)",
+   "kanal": "na miejscu; list do Hala",
+   "wraca": "300-07-05",
+   "zamyka": "saldo rzeczywiste skarbca lenna na pismie; korekta Hala, jesli potrzebna",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

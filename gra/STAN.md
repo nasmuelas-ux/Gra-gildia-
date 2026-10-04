@@ -25,7 +25,52 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**136 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**136 otwartych** · **0 PRZETERMINOWANYCH** · 43 wraca dzis
+
+### 🟡 WRACA DZIS
+- ZIARNO PORTOWE NA POLACH FOSY - ZEGAR NAPIETY BEZ ZAPASU. Odczyt w Bialym Porcie ~300-03-22/24, potem trakt do Fosy kolejne 6-8 dn… · _kanal:_ trakt Bialy Port-Fosa
+- WYPLATY NA ZNAK MILCZACEJ REKI IDA DALEJ BEZ ZMIANY - dyspozycja stala. Co do dnia, ta sama kwota, to samo miejsce, zaden pisarz n… · _kanal:_ na miejscu / ksiega zaliczek
+- SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJ… · _kanal:_ wlasny czlowiek na Fosie
+- PRZYSTAN NA OSTATNIEJ RZECE (KARHOLD) - KARSTARK PRZYJAL (rzut 26/25). Trzy klucze: czlowiek Karholdu przy wadze, pisarz Korony pr… · _kanal:_ wlasny czlowiek na Fosie
+- BRYNDEN TULLY PRZYJEZDZA DO PRZYSTANI WILKA - pierwszy mistrz akademii. Warunki: 'z pierwsza woda' i slowo Catelyn, ze Riverrun go… · _kanal:_ poczta Korony na poludnie przez Przesmyk
+- TRAKT - ODNOGA POLUDNIOWA (Fosa -> Przesmyk -> most Blizniakow) ZMIERZONA W CALOSCI: odcinki z tyczka, kazdy z nazwiskiem i data, … · _kanal:_ meldunek zbiorczy Fosy (Garrick), kruk Winterfell-Fosa
+- TRAKT - ODNOGA NA SAMOTNE WZGORZA ZMIERZONA W CALOSCI: odcinki z tyczka, nazwisko i data, splawnosc. Meldunek co 7 dni w zbiorczym… · _kanal:_ meldunek zbiorczy Fosy (Garrick), kruk Winterfell-Fosa
+- MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt t… · _kanal:_ przez Dustinport (Torren)
+- REACH - WYCHOWANEK TYRELLOW W SZKOLE KROLA (rada Sansy): kuzyn, nie dziedzic. Dopiero gdy kontrakt stoi. Decyzja Krola. ### 06-15:… · _kanal:_ -
+- LIST KROLA DO PANOW SKAGOS: przypomnienie przysiegi zlozonej Starkom; wezwanie do odpowiedzi NA PISMIE DO WYZNACZONEGO DNIA (kto r… · _kanal:_ LADY LYESSA FLINT - list do reki na uczcie 05-10; lodz z Wdowiej Straznicy po jej powrocie
+- NESTA - PROBIERCA I GORNIK Z BRAAVOS na umowie Korony (przy nastepnym liscie do Braavos). ### 06-15: ulewa (rzut 2) - kolumna na F… · _kanal:_ list przez Fose-Braavos
+- REKRUTACJA - GARNIZON WINTERFELL DO 400 (+138); zold z Kasy 3 (~8,3 smoka/mies. wg stawki 40 m/dzien); wybor - ser Alyn i Davin od… · _kanal:_ nabor w Zimowym Miescie i domenie
+- LOCKE - nie przyjedzie na ucztę: spor o pale z Wdowia Straznica (Justycjariusz, mediacja od 04-02) nierozstrzygniety. Podarek: sko… · _kanal:_ kruk Winterfell-Stary Zamek
+- ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku… · _kanal:_ Winterfell (uczta) -> kruk Winterfell-Torrhen's Square
+- KROK 2 - PRZYBICIE NA WYSPE TWARZY (E). Fosa -> Przesmyk -> Dorzecze do Lucana (~10 dni) -> lodz na Oku Boga. Rybacy od wiekow nie… · _kanal:_ przez Lucana (Dorzecze)
+- KROK 3 - MELDUNEK Z WYSPY TWARZY (E): przez Lucana na Fose, kruk do Winterfell. Do rak Symona; tresc Branowi wedle uznania Symona.… · _kanal:_ przez Lucana (Dorzecze) + kruk Fosa-Winterfell
+- RUDA W WILCZYM LESIE - PIERWSZY WYTOP (E): lupa zelaza z rudy darniowej w odbudowanej dymarce; RZUT przy wytopie. Wynik - do Gawen… · _kanal:_ poslaniec Wilczy Las-Winterfell
+- NABOR DO SIL LENNA (cel 200) - PIERWSZY MIESIAC: ilu przyszlo, imiennie w ksiedze Hendry'ego. RZUT na odzew (ludzie wolni lenna i … · _kanal:_ meldunek zbiorczy Garricka
+- ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'… · _kanal:_ kruk Winterfell-Fosa (05-16) + robota na miejscu
+- CERWYN - PRZYSPIESZONY POMIAR GRANICY HORNWOOD/DREADFORT: jezdziec Korony za Justycjariuszem w objezdzie zachodu z pismem Namiestn… · _kanal:_ jezdziec Korony na zachod (trasa objazdu w kancelarii) i z powrotem - E ~3 dni w jedna strone
+- WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEK… · _kanal:_ kruk Winterfell-Fosa (05-21) + droga Fosa-Kamienny Brzeg (E: tygodnie)
+- POMIAR GRANICY HORNWOOD/DREADFORT 06-12 - SPOR O PUNKT WYJSCIA: Roose zada pomiaru od starego kamienia Dreadfortu i wg jego mapy; … · _kanal:_ na miejscu
+- DRUGI LIST KROLA DO EDMURE'A (~06-10, po podziekowaniu): prosba, by Edmure napisal do wasali z garnizonami Lannisterow (pewne: Moo… · _kanal:_ kruk Winterfell-Riverrun (~06-10) i z powrotem
+- T1-B ODNOGA DO BLIZNIAKOW - przebieg z pomiaru Brenna z Brodu na stol Krola razem z planem zbozowym i T3-C. Dlug Korony wobec Wald… · _kanal:_ Winterfell
+- A-2 MIRA - IMIE MISTRZYNI ATELIER NA CAILIN ('nie powiem, poki nie bede pewna'). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-… · _kanal:_ Winterfell
+- DERON SUCHY (Rozdroze) - KTO KUPUJE, KTO SPRZEDAJE: kto na Rozdrozu kupuje chleb i zboze (garnizony? wsie?), a kto sprzedaje - z w… · _kanal:_ kanal handlowy przez Lucana (Dorzecze; 10 dni tam, ~21 lacznie)
+- WINDA W WIEZY STRAZNICZEJ - PROBA Z PODWOJNYM CIEZAREM (pięc poprawek). RZUT przy probie. · _kanal:_ Winterfell
+- SPICHLERZ ETAP I - ODPOWIEDZI LORDOW NA FORMULARZ (kto zaklada ksiege i od kiedy). JEDEN RZUT na cala fale (zasada 27). ### 06-12:… · _kanal:_ kruki z lenn
+- KSIEGI RODZINY Z BIALEGO PORTU DO WIEZY STRAZNICZEJ (izba przy Schodach: Gwiazda, Rachunek braavoski, Prawa BP, Rzeki i trakty, St… · _kanal:_ kruk Winterfell-Bialy Port + woz Domu traktem
+- STRAZ GRANICY CYPLA - LISTA IMIENNA ROBETTA przez Galbarta (sklad, liczba ludzi) + STAWKA GAWENA (40 m/dzien na czlowieka, Kasa 3)… · _kanal:_ kruk Deepwood-Winterfell
+- KAMIENNY BRZEG - PUNKT OGNIA: ser Corwin wskazuje miejsce (widzi najblizszy punkt Gloverow, uzgodnione z Robettem), imiona strazni… · _kanal:_ kruk Winterfell-Deepwood + jezdziec Gloverow; meldunek ta sama droga
+- OGLOSZENIE KROLA O WPINACH do panow wybrzeza (Glover, Tallhart, Dustin, Mormont, Flint, Corwin, Torren) - kruki 06-04 rano. Odzew … · _kanal:_ kruki z wiezy Luwina; do Palca przez Fose + lodz
+- HAL - WYCENA WYDAWNICTWA I SZKOLY: placa skryby i nauczyciela, internat, papier i prasa, izby do czasu Latarni; do Kasy 1 jako glo… · _kanal:_ kruk Winterfell-Bialy Port (06-05) / odpowiedz kruk
+- SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do… · _kanal:_ osobiscie na Fosie (podroz przez Barrowton)
+- WAT (Bialy Port) - DRUGA PAPIERNIA NA FOSIE CAILIN i TRZECIA W ZIMOWYM MIESCIE (strumien przy brodzie w Wilczym Lesie - E); Dom fi… · _kanal:_ kruk Winterfell-Bialy Port (06-05); odpowiedz krukiem BP-Fosa do pana w podrozy (albo przez Hala)
+- PRZERZUT Z KOMOR - WYKONANIE: Zimowe Miasto (wozy, kasztelan, wydawanie wg kart) i Sigrun (lodz Torrena przez Dustinport). Meldune… · _kanal:_ Winterfell; kruk Winterfell-Fosa-Dustinport
+- HAL - SZYBKIE SPIENIEZANIE TOWARU KORONY W BIALYM PORCIE (slowo pana 06-07): (1) KWIT SKLADOWY - towar Korony wchodzi do skladu Do… · _kanal:_ kruk Winterfell-Bialy Port (06-07)
+- LUCAN -> EDRIC SZUWAR: rada Jojena - nie brac zelaza na brzeg Wyspy Twarzy, nie ciac drzew; dojdzie po przybiciu (~06-17), wazna n… · _kanal:_ kruk Winterfell-Fosa + jezdziec przez Przesmyk (~10 dni)
+- OKOLNIK NAMIESTNIKA DO LORDOW: Polnoc odchodzi od zboz i roslin poludniowych (marzna w klosie) - zyto ozime, jeczmien, owies, groc… · _kanal:_ kruk Barrowton-Winterfell + kruki Luwina do lordow
+- AEMON - MELDUNEK CLYDASA z 06-13 (rzut 20 juz padl na Murze): do Winterfell, Luwin przesle na Fose - odczyt ~06-17. ### 06-15: ule… · _kanal:_ kruk Czarny Zamek-Winterfell + Winterfell-Fosa
+- KARTA II DONNELA (pisana 06-08) - przechodzi przez Fose; odczyt na Fosie ~06-17. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-… · _kanal:_ jezdziec Dustinport-Fosa
+- DNIOWKI W LENNIE STAJA NA SIANOKOSY (rozkaz Symona, Kamienna Wola 06-16, na pytanie soltysa): przez czas sianokosow (~07-01, ok. d… · _kanal:_ osobiscie na Fosie 06-18; soltys Kamiennej Woli wie od dzis
+- PRZEPUST POD GROBLA DLA OLSZYN (prosba wojta Tommena Kladki 06-17): od kiedy stoi grobla, woda po deszczu schodzi z dolnych lak Ol… · _kanal:_ osobiscie na Fosie 06-18
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -827,10 +872,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-17 wieczor · zima (300)
+- **Data:** 300-06-18 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 59**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 33**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1758,7 +1803,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-16] `dziennik`: 300-06-16 WIECZOR - KAMIEN Z DWIEMA PIECZECIAMI (granica lenna Fosy od zachodu: topor Dustinow / pioro z plomieniem Tallych). Konno popoludnie: zmeczenie 37->44. Bez rzutu. SER HARWOOD ODDAJ…
 - [300-06-16] `dziennik`: 300-06-16 WIECZOR, KAMIENNA WOLA - SYMON DO SOLTYSA: na sianokosy dniowki staja. Bez rzutu (rozkaz pana we wlasnym lennie). Soltys: ulga, klania sie nisko; 'To chlopaki wroca same - powiem i…
 - [300-06-16] `dziennik`: 300-06-16 WIECZOR, KAMIENNA WOLA - TRENING Z ARYA za stodola, na klepisku (wlasny, bez rzutu): dzieci ze wsi patrza zza plotu; Arya uczy przejscia z obrony w sztych po kroku w bok (cd. naroz…
 - [300-06-17] `dziennik`: 300-06-17 SWIT (WTOREK), KAMIENNA WOLA - SEN RZUT 58: sredni, cicha wies, Lyra przespala noc; zdrowie 100, zmeczenie 60->30, sytosc 100->72. POGODA RZUT 14: JEDNA KONSEKWENCJA - gesta mgla z…
@@ -1770,3 +1814,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-17] `dziennik`: 300-06-17 WIECZOR, OLSZYNY - TRENING Z ARYA na lace za domem wojta (wlasny, bez rzutu): Arya po raz pierwszy daje Symonowi prowadzic - on atakuje, ona broni; uczy czytac jej ramie, nie miecz…
 - [300-06-17] `dziennik`: 300-06-17 WIECZOR, OLSZYNY - SYMON ROZMAWIA Z WOJTEM (wojt: TOMMEN KLADKA, ~50 lat, byly flisak, wybrany przez wies; w ksiedze dotad bez imienia). Bez rzutu (rozmowa, meldunek z dolu). CO MO…
 - [300-06-17] `dziennik`: 300-06-17 WIECZOR, OLSZYNY - SYMON DO WOJTA: na sianokosy dniowki staja; przepust zleci Garrickowi. Bez rzutu (rozkaz pana we wlasnym lennie). Wojt Tommen Kladka wstaje, klania sie, pierwszy…
+- [300-06-18] `dziennik`: 300-06-18 SWIT (SRODA), OLSZYNY - SEN RZUT 31: slabszy; Lyra z zebami nad ranem (Rhona: dziasla, bez goraczki), Symon budzi sie przed switem i nie zasypia - glowa przy poczcie; zdrowie 100, …

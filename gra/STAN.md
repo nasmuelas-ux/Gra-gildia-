@@ -825,10 +825,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-14 poludnie · zima (300)
+- **Data:** 300-06-14 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 35**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 43**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1754,7 +1754,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-13] `rodzina/MIRA`: Targ w Barrowton i tkaczki Barbrey: welna z Rills ~1/4 tansza niz w BP (E); proponuje czlowieka atelier kupujacego welne z prawa skladu w Barrowton (plaszcze przybocznych, farbiarnia Cailin)…
 - [300-06-13] `dziennik`: 300-06-13 POPOLUDNIE (cd.) - ⚑ SYMON: ZGODA - atelier wysyla czlowieka do Barrowton po welne (z prawa skladu, prosto od tkaczek i z Rills). Bez rzutu (atelier - wlasne, ksiega atelier). MIRA…
 - [300-06-13] `rodzina/MIRA`: Zgoda Symona: atelier wysyla kupca welny do Barrowton (wybierze najstarsza szwaczka BP); ~VII.
 - [300-06-13] `dziennik`: 300-06-13 PRZED WYJSCIEM - SYMON PYTA LADY BARBREY, CZY MAJA TU GAJ Z CZARDRZEWEM. Bez rzutu. BARBREY: 'Jest. Stare drzewo pod polnocnym zboczem Wielkiego Kurhanu, starsze niz miasto. Ale Du…
@@ -1766,3 +1765,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-14] `dziennik`: 300-06-14 RANEK (SOBOTA), BARROW HALL - SEN RZUT 1: JEDNA KONSEKWENCJA - LYRA KASZLE od polnocy (zlapala od dziecka w zagrodzie Hamara); Symon i Mira na zmiane przy niej, Rhona z ziolami i p…
 - [300-06-14] `dziennik`: 300-06-14 SNIADANIE I WYJAZD Z BARROW HALL. Sniadanie w izbie goscinnej (Symon, Mira, Arya; Lyra z Rhona, kaszel lzejszy) - owsianka, chleb, miod, mleko. Bez rzutow. POZEGNANIE na schodach: …
 - [300-06-14] `barbrey_dustin`: Pozegnanie: zaprasza Mire na jesien ('pani Fosy u pani Barrowton'); do Symona 'Trzeci od wiezy. Pamietam.'; Aryi daje puslisko z toporami Dustinow.
+- [300-06-14] `dziennik`: 300-06-14 POPOLUDNIE -> WIECZOR. Bez rzutow. Popas w poludnie (chleb, ser, wedzonka z Barrow Hall - sytosc 100). Wrzosowiska przechodza w niskie, podmokle laki - pierwsze trzcinowiska; powie…

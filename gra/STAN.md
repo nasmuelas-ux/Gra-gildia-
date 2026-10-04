@@ -25,11 +25,10 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**130 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
+**129 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🟡 WRACA DZIS
 - RECKAWICE DO JAZDY DLA LADY BARBREY DUSTIN - prezent od Miry (pani domu pani domu): ciemna skora z Zimowego Miasta, srebrne wyszyc… · _kanal:_ Winterfell
-- SYMON -> LUWIN (SAM): napar Brana - przestac podawac / jak to ujac (tajemnica Brana i Reedow). Przed wyjazdem na Barrow Hall. · _kanal:_ osobiscie
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -632,7 +631,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-06-07** — REACH - MANDAT KORONY DLA PRZEDSTAWICIELA DOMU W HIGHGARDEN: kontrakt w imieniu Korony - zboze za drewno/sol/futra/tran, cena z gory, wiele lat, eskorta Redwyne'a; wyladunek Goracy Port (do czasu - Dustinport). Odpowiedz Olenny po zniwach (rzut 59 juz padl). · _kto:_ **KROL/SYMON -> HAL -> przedstawiciel -> OLENNA** · _zamyka:_ odpowiedz Olenny na kontrakt Korony
 - **300-06-07** — PRZETWARZANIE TOWARU Z DANIN W WARSZTATACH DOMU (garbarnia, przedzalnia/farbiarnia, wedzarnia, bednarnia, warzelnia) - Gawen + Hal: ile z 1/3 sprzedawanej mozna przerobic, prowizja Domu, cena po obrobce. Wlasni - bez rzutu. · _kto:_ **GAWEN + HAL** · _zamyka:_ liczba w nowej ksiedze Skarbu
 - **300-06-07** — HAL - SZYBKIE SPIENIEZANIE TOWARU KORONY W BIALYM PORCIE (slowo pana 06-07): (1) KWIT SKLADOWY - towar Korony wchodzi do skladu Domu w BP, Hal wystawia kwit z wycena po cenie ogloszonej; Korona bierze od reki zaliczke w monecie (czesc wyceny, warstwa kredytowa Domu, dyskonto jawne), reszta przy sprzedazy; (2) SPRZEDAZ NA BIEZACO - kazdy statek z Braavos, Pentos i Reach dostaje liste towaru Korony przy nabrzezu; licytacja w skladzie co tydzien; (3) CO NIE SPRZEDANE W MIESIAC - do przerobu w warsztatach Domu. Wszystko jawnie, Dom bierze prowizje i dyskonto, nie kupuje na wlasny rachunek (mur trzech kas). Wlasny - bez rzutu. · _kto:_ **SYMON -> HAL (+ GAWEN)** · _zamyka:_ pierwszy kwit skladowy i pierwsza zaliczka dla Korony + stawka dyskonta
-- **300-06-07** — SYMON -> LUWIN (SAM): napar Brana - przestac podawac / jak to ujac (tajemnica Brana i Reedow). Przed wyjazdem na Barrow Hall. · _kto:_ **SYMON -> LUWIN** · _zamyka:_ rozmowa z Luwinem i to, co Luwin zrobi z naparem
+- **300-06-07** — SYMON -> LUWIN (SAM): napar Brana - przestac podawac / jak to ujac (tajemnica Brana i Reedow). Przed wyjazdem na Barrow Hall. · _kto:_ **SYMON -> LUWIN** · _zamyka:_ rozmowa z Luwinem i to, co Luwin zrobi z naparem **⚠ ZAMKNIETE 300-06-07 - LUWIN ODSTAWIA NAPAR (CHYBA ZE BRAN POPROSI), DAJE ZIOLA NA POT I USPOKOJENIE; NIE PYTA O REEDOW; PROSI O WIEDZE DOT. ZDROWIA BRANA.**
 - **300-06-07** — BRAN + JOJEN - NAUKA W BOZOGAJU O SWICIE (wejscie w Lato na jawie i powrot). Meldunek ustny dla Symona po powrocie z Fosy - co umie. Bez rzutu na wykonanie; postep - rzut przy meldunku. · _kto:_ **BRAN + JOJEN + MEERA** · _zamyka:_ co Bran umie po trzech tygodniach
 - **300-06-07** — BRAN MOWI KROLOWI SAM - gdy umie wejsc w Lato na jawie: dowod na murach (Lato w Wilczym Lesie: kto przy brodzie, ile wozow na trakcie; Krol sprawdza), potem o kruku za Murem. W obecnosci Symona. Data - gdy Bran bedzie gotow (po meldunku ~06-28). · _kto:_ **BRAN -> KROL (przy Symonie)** · _zamyka:_ Krol wie i odpowiada
 - **300-06-07** — HOWLAND REED - ZIELONI LUDZIE Z WYSPY TWARZY: czy moga pomoc Branowi i Polnocy; czego Reed sie tam nauczyl; czy mozna ich zapytac przez Edrica. List zamkniety Symona. RZUT przy odpowiedzi. · _kto:_ **SYMON -> HOWLAND REED** · _zamyka:_ odpowiedz Reeda (rzut)
@@ -1719,8 +1718,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-07] `dziennik`: 300-06-07 IZBA BRANA (cd.) - SYMON: 'Jestem Namiestnikiem Krola, nie Krolem. Jesli puszcze Brana za Mur bez jego wiedzy, zawiode zaufanie Krola. Nie wiem, czy Robba da sie przekonac do tego,…
-- [300-06-07] `starkowie/BRAN`: UMOWA: za Mur nic bez Krola; Bran sam powie Robbowi, gdy pokaze dowod (Lato na jawie: 'kto przy brodzie, ile wozow' - Robb sprawdzi), przy Symonie.
 - [300-06-07] `robb_stark`: (nie wie) Umowa Symon-Bran-Reedowie: za Mur nic bez Krola; Bran sam powie Robbowi z dowodem, gdy bedzie umial.
 - [300-06-07] `dziennik`: 300-06-07 IZBA BRANA (cd.) - SYMON MOWI REEDOM I BRANOWI: wyslal zwiadowce na wyspe (gracz: 'ksiezycowa wyspa'; w ksiegach - WYSPA TWARZY na Oku Boga, EDRIC SZUWAR z Mchowych Jastrzebi, matk…
 - [300-06-07] `MEERA_REED`: O Wyspie Twarzy: ojciec (Howland) plynal tam mlodo, przed wojna, wrocil; 'Zieloni Ludzie jeszcze sa'.
@@ -1731,3 +1728,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-07] `JOJEN_REED`: Rzut 97 - zielone sny: klucz ('pokazuja, co bedzie, jesli nikt nic nie zrobi'); morze na zachodnim brzegu dwa razy (z ogniem / bez); bialy chlod, Mur ciemny w jednym miejscu; czarny brat wsr…
 - [300-06-07] `ksiega_mistyki_polnocy_300_04`: (tajemnica) Jojen o zielonych snach: nie klamia, nie mowia kiedy i jak; pokazuja bieg bez dzialania - Howland zmienil jeden. Zbieznosci: morze/ogien (lancuch), Skala bez zlota (Sansa), budow…
 - [300-06-07] `dziennik`: 300-06-07 WCZESNE POPOLUDNIE, WIEZA MAESTRA - SYMON U LUWINA W SPRAWIE NAPARU BRANA (sam, drzwi zamkniete). Bez rzutu (rozpoczecie rozmowy). LUWIN odklada pioro, zanim Symon skonczy pierwsze…
+- [300-06-07] `dziennik`: 300-06-07 WIEZA MAESTRA (cd.) - SYMON DO LUWINA: 'Jeszcze nie wiem. Ale po to sprowadzilem dzieci Howlanda Reeda, zeby sie dowiedziec. Sny Brana moga nie byc tylko snami.' Bez rzutu (Luwin z…
+- [300-06-07] `LUWIN`: Napar Brana - odstawiony od 06-07 (chyba ze Bran poprosi); na pot i uspokojenie mieta/rumianek/miod. 'Probowalem zapalic szklana swiece - nie zapalila sie. Nie powiem, ze to tylko sny, i nie…

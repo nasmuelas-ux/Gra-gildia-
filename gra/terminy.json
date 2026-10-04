@@ -7645,11 +7645,20 @@
   },
   {
    "data": "300-06-19",
-   "co": "WERBUNEK PISZACYCH DLA KANCELARII LENNA (rozkaz pana 06-19): KONTRAKTY na pismie (rok, stawka z ksiegi lenna) i DWIE WYPLATY Z GORY przy podpisie; ogloszenie na slupach w Cailin i przy bramie, wiesc przez kupcow i wozakow na trakt i do Bialego Portu, przez septy (lowcy talentow Miry). 'Niech wiesc sie niesie, ze Fosa potrzebuje piszacych.' Podpisuje GARRICK. Odzew - wola wolnych ludzi: RZUT przy pierwszym meldunku. ZASADA 8 (do wiedzy pana): (a) dwie wyplaty z gory - kontrakt musi miec zwrot zaliczki przy zerwaniu, inaczej ktos wezmie i pojdzie; (b) Cech Pisarzy Bialego Portu (Harwin, wrog od 297) zobaczy, ze Fosa podkupuje mu ludzi; (c) ci sami ludzie sa potrzebni skryptorium i szkole.",
+   "co": "WERBUNEK PISZACYCH DLA KANCELARII LENNA (rozkaz pana 06-19): KONTRAKTY na pismie (rok, stawka z ksiegi lenna) i DWIE WYPLATY Z GORY przy podpisie; ogloszenie na slupach w Cailin i przy bramie, wiesc przez kupcow i wozakow na trakt i do Bialego Portu, przez septy (lowcy talentow Miry). 'Niech wiesc sie niesie, ze Fosa potrzebuje piszacych.' Podpisuje GARRICK. Odzew - wola wolnych ludzi: RZUT przy pierwszym meldunku. ZASADA 8 (do wiedzy pana): (a) dwie wyplaty z gory - kontrakt musi miec zwrot zaliczki przy zerwaniu, inaczej ktos wezmie i pojdzie; (b) Cech Pisarzy Bialego Portu (Harwin, wrog od 297) zobaczy, ze Fosa podkupuje mu ludzi; (c) ci sami ludzie sa potrzebni skryptorium i szkole. ### 06-19 PAN (doktryna): 'NIE PODKUPUJEMY, TYLKO ZACHECAMY - MAJA WOLNA WOLE.' W ogloszeniu i w listach: zaproszenie, nie wyciaganie; nikogo nie zrywa sie z kontraktu u innego pana ani cechu (kto ma umowe - konczy ja, potem przychodzi).",
    "kto": "GARRICK (+ regent kancelarii)",
    "kanal": "slupy Cailin, trakt, Bialy Port (Hal), septy",
    "wraca": "300-07-15",
    "zamyka": "ilu podpisalo kontrakt imiennie (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "BRACTWO PISARZY W CAILIN - NIEZALEZNE (zacheta pana 06-19; nie nadanie): piszacy sami zakladaja swoje bractwo - wzor Bractwa Rzemiosla Wolnego (otwarty egzamin, bez wpisowego dla synow, bez limitu, fundusz samopomocy), niezalezne od Domu i od kancelarii. Pan zacheca i daje izbe na zebrania; statut pisza oni. Warunek naturalny: najpierw musza byc piszacy (werbunek ~07-15). Wola piszacych - RZUT przy zalozeniu. Odpowiedz na Cech Pisarzy Bialego Portu bez wojny: 'u nas cech nie zamyka nikomu drogi'.",
+   "kto": "piszacy z Cailin (kancelaria, skryptorium, szkola) - z zacheta pana; Herwin (izba)",
+   "kanal": "na miejscu",
+   "wraca": "300-08-15",
+   "zamyka": "bractwo zalozone wlasnym statutem (rzut) albo jeszcze nie",
    "status": "otwarte"
   }
  ],

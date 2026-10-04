@@ -805,10 +805,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-08 poludnie · zima (300)
+- **Data:** 300-06-08 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 35**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 43**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1714,7 +1714,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-07] `rodzina/MIRA`: Symon: za Mur - nie on (nie jego rola). O wizji Jojena (pioro w ogniu, ktore sie nie spala): 'Plomien i pioro - nasz herb. Grzejesz, a nie palisz.'
 - [300-06-07] `starkowie/BRAN`: Postanowienie Symona (w rozmowie z Mira): za Mur nie on; jesli Krol zgodzi sie kiedys - Symon znajdzie ludzi.
 - [300-06-07] `dziennik`: 300-06-07 SCIEZKA POD MURAMI (cd.) - SYMON MOWI MIRZE O RICKONIE: moze wchodzic w Kudlacza (sny), i o KRYPTACH (300-04-12): Kudlacz schodzi nizej niz posagi, Rickon za nim 'do polowy, gdzie …
 - [300-06-07] `rodzina/MIRA`: Wie o Rickonie (sny z Kudlaczem, krypty, obietnica z krzyzykiem). Radzi: powiedziec Jojenowi o Rickonie (bedzie na miejscu pod nieobecnosc), i powiedziec Rickonowi, ze Jojen wie.
@@ -1726,3 +1725,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-08] `dziennik`: 300-06-07 NOC - Symon z Mira spac przed polnoca. 300-06-08 RANEK (NIEDZIELA), WINTERFELL - SEN RZUT 34: noc slabsza - Lyra podniecona skrzyniami, zasnela pozno; zdrowie 100, zmeczenie 53->29…
 - [300-06-08] `dziennik`: 300-06-08 SNIADANIE PRZED DROGA, WIELKA SALA - Symon z Mira, Lyra, Arya i przyboczna (Sten, Dagon i dwudziestu przy dlugim stole, Jorelle i Torvald przy Aryi). Bez rzutow. Slonce przez okna.…
 - [300-06-08] `dziennik`: 300-06-08 SWIT -> POLUDNIE, TRAKT NA POLUDNIE - WYJAZD DO BARROW HALL. Symon dziekuje Krolowi przy bramie; Krol podaje reke, potem kladzie dlon na glowie Aryi: 'Sluchaj Jorelle.' Arya: 'Zaws…
+- [300-06-08] `dziennik`: 300-06-08 POPOLUDNIE -> WIECZOR, TRAKT -> ZAJAZD PRZY BRODZIE. Bez rzutow. Na postoju w poludnie zjedli (kurczaki) - sytosc 100. Popoludnie cieple, kurz; Arya dostaje swoj galop na prostej z…

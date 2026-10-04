@@ -7047,7 +7047,7 @@
    "kanal": "osobiscie, izba Brana",
    "wraca": "300-06-07",
    "zamyka": "rozmowa we czworo + decyzja pana, czy i jak pomoze",
-   "status": "rozmowa odbyta 06-07 przed poludniem - Jojen powiedzial (warg, kruk za Murem, napar, 'za Mur nie teraz'); CZEKA NA DECYZJE SYMONA, czy i jak pomoze."
+   "status": "zamkniete 300-06-07 - SYMON POMOZE: bozogaj o swicie (rozkaz strazy), rozmowa z Luwinem o naparze (sam); 'za Mur nie teraz'."
   },
   {
    "data": "300-06-07",
@@ -7101,6 +7101,24 @@
    "kanal": "kruk Winterfell-Bialy Port (06-07)",
    "wraca": "300-06-15",
    "zamyka": "pierwszy kwit skladowy i pierwsza zaliczka dla Korony + stawka dyskonta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "SYMON -> LUWIN (SAM): napar Brana - przestac podawac / jak to ujac (tajemnica Brana i Reedow). Przed wyjazdem na Barrow Hall.",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "osobiscie",
+   "wraca": "300-06-07",
+   "zamyka": "rozmowa z Luwinem i to, co Luwin zrobi z naparem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "BRAN + JOJEN - NAUKA W BOZOGAJU O SWICIE (wejscie w Lato na jawie i powrot). Meldunek ustny dla Symona po powrocie z Fosy - co umie. Bez rzutu na wykonanie; postep - rzut przy meldunku.",
+   "kto": "BRAN + JOJEN + MEERA",
+   "kanal": "osobiscie (po powrocie pana)",
+   "wraca": "300-06-28",
+   "zamyka": "co Bran umie po trzech tygodniach",
    "status": "otwarte"
   }
  ],

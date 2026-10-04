@@ -7264,6 +7264,15 @@
    "wraca": "301-05-01",
    "zamyka": "plan przystani handlowej na stole",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-13",
+   "co": "AEMON - MELDUNEK CLYDASA z 06-13 (rzut 20 juz padl na Murze): do Winterfell, Luwin przesle na Fose - odczyt ~06-17.",
+   "kto": "CLYDAS -> LUWIN -> SYMON",
+   "kanal": "kruk Czarny Zamek-Winterfell + Winterfell-Fosa",
+   "wraca": "300-06-17",
+   "zamyka": "meldunek odczytany",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -7446,7 +7455,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-06",
+   "ostatnio_odebrane": "300-06-13",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

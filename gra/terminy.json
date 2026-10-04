@@ -7903,6 +7903,69 @@
    "wraca": "300-07-10",
    "zamyka": "kapliczka stoi, gwiazdy na niej; dab czysty",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "PRZEMYT - KOMORA OSTATNIEJ REKI (zgoda pana 06-20, wniosek Rorika): waga miejska Cailin i kazda waga lenna nie przyjmuje ladunku powyzej progu bez pieczeci na liscie przewozowym (prawo o skladach); waga miejska - uchwala lawy przy ustawie budowlanej (06-26, rzut przy glosowaniu); wagi lenna - rozkaz Warryna od zaraz.",
+   "kto": "HERWIN + LAWA; WARRYN",
+   "kanal": "na miejscu / poczta",
+   "wraca": "300-06-26",
+   "zamyka": "wagi lenna od zaraz; waga miejska - uchwala lawy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "PRZEMYT - BIALY PORT CZYTA TE SAME PIECZECIE (zgoda pana 06-20): list Namiestnika do lorda Wymana (jedna brama w BP stoi na jego slowie - 'liczyc tak, pobierac nie' 04-26): komora BP sprawdza pieczec na liscie przewozowym ladunkow z Przesmyku. Wola Wymana - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "na miejscu / poczta",
+   "wraca": "300-07-05",
+   "zamyka": "odpowiedz Wymana (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "PRZEMYT - LICENCJA WYWOZU NADWYZKI ZYWNOSCI ZA OPLATA (zgoda pana 06-20, wniosek Rorika) - do przegladu nadwyzki 07-01: jesli nadwyzka jest, jawna licencja wywozu za oplata ponizej kosztu przemytu; clo to Korona - wniosek Namiestnika do Skarbnika Gawena / Krola (prerogatywa stawek Korony).",
+   "kto": "SYMON -> GAWEN / KROL",
+   "kanal": "na miejscu / poczta",
+   "wraca": "300-07-01",
+   "zamyka": "decyzja Korony o licencji wywozu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "KOMORY W GORACYM PORCIE I NA PRZEWLOCE (PORT WSCHODNI) - przed pomostem (IX) (zgoda pana 06-20): sluzba komor Gartha pod Gawenem - ludzie, waga, pieczecie, tablica kursu, ksiega bramy; jedna brama (clo Korony + myto lenna). Garth (objazd) + Rorik (wzor z Fosy).",
+   "kto": "GARTH (sluzba komor) + RORIK; GAWEN",
+   "kanal": "na miejscu / poczta",
+   "wraca": "300-08-25",
+   "zamyka": "komory stoja z ludzmi przed pierwszym zbozem Reach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "KOMORA FOSY - DWOCH PSIARZY I WAGOWY WIECEJ (zgoda pana 06-20): dobiera Rorik (zasada 42); placi Korona (Gawen).",
+   "kto": "RORIK",
+   "kanal": "na miejscu / poczta",
+   "wraca": "300-07-05",
+   "zamyka": "trzech nowych przy bramie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "PRZEMYT - NOCNE POSTERUNKI NA CZTERECH GARDLACH BAGNA (zgoda pana 06-20, plan Kessela): od zaraz dwa gardla najbardziej uczeszczane z dzisiejszych ludzi; wszystkie cztery po pierwszej fali (+30, VIII); lodz, kaganiec, rog; doniesienia krannogow -> do najblizszego posterunku. STALA PREMIA ZA NOC NA GARDLE (bez udzialu w lupie) - Warryn, ze skarbca lenna.",
+   "kto": "KESSEL; WARRYN (premia)",
+   "kanal": "na miejscu / poczta",
+   "wraca": "300-06-27",
+   "zamyka": "dwa gardla obsadzone noca; premia w ksiedze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-20",
+   "co": "PRZEMYT - KTO ORGANIZUJE (zgoda pana 06-20, wniosek Kessela): rytm lodzi/dni barki (zapis 299-10), 'piata rzecz przy wodzie' (Reed), budynek z podniesiona podloga przy przystani - list pana do WILLI (uszy Domu; firewall - ksiega Domu, nie rady lenna): kto stoi za ruchem. Wynik - RZUT przy meldunku.",
+   "kto": "SYMON -> WILLA",
+   "kanal": "na miejscu / poczta",
+   "wraca": "300-07-15",
+   "zamyka": "meldunek Willi (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

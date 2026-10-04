@@ -7759,6 +7759,24 @@
    "wraca": "300-07-05",
    "zamyka": "zrodlo wapna i plan (kupno/wapiennik) z kosztem E",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "ARYA - LEKCJA U BRAAWOSKIEGO MISTRZA FOSY (zgoda pana 06-19): rano na dziedzincu, przed slupem; jawnie (warunek Krola z 299-09-14: nie po kryjomu). Wlasni - bez rzutu.",
+   "kto": "MISTRZ TANCA WODNEGO FOSY + ARYA",
+   "kanal": "na miejscu",
+   "wraca": "300-06-20",
+   "zamyka": "lekcja odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "ARYA NA PATROLU Z MCHOWYMI JASTRZEBIAMI (zgoda pana 06-19): dzienny patrol lodziami po kanalach i wzdluz grobli pod Fosa (nie zachodni brzeg Przesmyku); jej gwardzisci (dwaj ludzie Krola + Dagon) w lodzi obok; Kessel prowadzi; tyczka i kusza do sprobowania. Wlasni - bez rzutu.",
+   "kto": "KESSEL + ARYA + Dagon i ludzie Krola",
+   "kanal": "na miejscu",
+   "wraca": "300-06-22",
+   "zamyka": "patrol odbyty",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

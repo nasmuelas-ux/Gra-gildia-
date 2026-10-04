@@ -7438,11 +7438,20 @@
   },
   {
    "data": "300-06-19",
-   "co": "POWROT RODZINY DO WINTERFELL (decyzja pana 06-19: zostaje z Mira i Lyra na Fosie do pierwszej lekcji szkoly 07-01): wyjazd 07-02 - Symon, Mira, Lyra, Rhona, ARYA (warunek Krola: 'jedzie z toba i wraca z toba'; warunek Catelyn: nie dluzej niz miesiac - od 06-08, granica ~07-08), przyboczni; trakt Fosa-Winterfell 6 dni, w Winterfell ~07-08. ### DRUGA RATYFIKACJA (koniec VI) wg zapisu idzie przez CATELYN/LUCANA po stronie Dorzecza - obecnosc Namiestnika nie jest w niej zapisana; jesli pan chce ja wstrzymac do powrotu - to prerogatywa Krola (list). Krol nie wie jeszcze o przedluzeniu pobytu (kanal: kruk Fosa-Winterfell).",
+   "co": "POWROT RODZINY DO WINTERFELL (decyzja pana 06-19: zostaje z Mira i Lyra na Fosie do pierwszej lekcji szkoly 07-01): wyjazd 07-02 - Symon, Mira, Lyra, Rhona, ARYA (warunek Krola: 'jedzie z toba i wraca z toba'; warunek Catelyn: nie dluzej niz miesiac - od 06-08, granica ~07-08), przyboczni; trakt Fosa-Winterfell 6 dni, w Winterfell ~07-08. ### DRUGA RATYFIKACJA (koniec VI) wg zapisu idzie przez CATELYN/LUCANA po stronie Dorzecza - obecnosc Namiestnika nie jest w niej zapisana; jesli pan chce ja wstrzymac do powrotu - to prerogatywa Krola (list). Krol nie wie jeszcze o przedluzeniu pobytu (kanal: kruk Fosa-Winterfell). ### 06-19: Krol zawiadomiony listem (kruk dzis), odpowiedz ~06-23.",
    "kto": "SYMON + rodzina + przyboczni",
    "kanal": "trakt Fosa-Winterfell",
    "wraca": "300-07-08",
    "zamyka": "rodzina i Arya w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "LIST NAMIESTNIKA DO KROLA (06-19): zostaje na Fosie do 07-02 (pierwsza lekcja szkoly 07-01, rodzina); w Winterfell ~07-08 z Arya; druga ratyfikacja go nie potrzebuje - idzie przez Catelyn/Lucana. Kruk Fosa-Winterfell dzis. Odpowiedz Krola (rzut na jego reakcje) ~06-23.",
+   "kto": "SYMON -> KROL",
+   "kanal": "kruk Fosa-Winterfell (2-3 dni) i z powrotem",
+   "wraca": "300-06-23",
+   "zamyka": "odpowiedz Krola",
    "status": "otwarte"
   }
  ],

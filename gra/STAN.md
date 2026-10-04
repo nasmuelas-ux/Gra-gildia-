@@ -821,10 +821,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-13 poludnie · zima (300)
+- **Data:** 300-06-13 popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 19**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 27**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1746,8 +1746,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-12] `barbrey_dustin`: Prawo skladu Barrowton (od 05-10): 3 dni postoju (lawa 05-20); targ co 3 dni; nowe kramy przed palisada; most niesie ruch. Klopot: kupcy Wymana narzekaja, dwaj objezdzaja przez Fose; przyszl…
-- [300-06-12] `dziennik`: 300-06-12 NOC, SOLAR LADY BARBREY (cd.) - ⚑ SYMON: ZGODA - Hal wysle WAGOWEGO I PISARZA SKLADU do Barrowton na rok (placi miasto Barrowton, jawnie; ludzie Domu, ksiega skladu miasta - nie Do…
 - [300-06-12] `barbrey_dustin`: Zgoda Symona: wagowy i pisarz skladu od Hala na rok (placi miasto), wzor ksiegi z Fosy. 'Waga Tallych w Barrowton. Wyman sie skrzywi. Dobrze.'
 - [300-06-12] `dziennik`: 300-06-12 NOC, SOLAR LADY BARBREY (cd.) - SYMON O MAPIE: Bialy Port lezy na WSCHODZIE, Barrowton i Cailin po ZACHODNIEJ stronie (GM: w slowach gracza strony odwrocone - Symon mowi to zgodnie…
 - [300-06-12] `barbrey_dustin`: O przewloce: zachod Polnocy (Rills, Deepwood, Kwadrat) bedzie zaopatrywany przez Barrowton - 'innej drogi nie ma'; postoj skladowy dla Reach - dzien, dla Wymana - trzy (propozycja). Dustinpo…
@@ -1758,3 +1756,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-13] `barbrey_dustin`: Wzgorze Starej Strazy: szew ognia ustalony - jej ogien na Wzgorzu, Dustinport na wysokim cyplu; proba co siodmy dzien o zmierzchu; przy cyplu czlowiek Donnela i jej.
 - [300-06-13] `dziennik`: 300-06-13 POLUDNIE, WZGORZE STAREJ STRAZY (cd.) - SYMON DO BARBREY: to samo w druga strone - jesli cos sie stanie u niej, TALLY PRZYJDA Z ODSIECZA (Dom i lenno Fosy, nie tylko Korona: jazda …
 - [300-06-13] `barbrey_dustin`: RZUT 83: WZAJEMNA ODSIECZ - Tally przyjda na jej ogien; Barrowlandy wysla jezdnych (~100+, Harwood) na ogien Goracego Portu/Fosy. Chce tego w karcie ognia. Uscisk reki w rekawicy od Miry.
+- [300-06-13] `dziennik`: 300-06-13 POPOLUDNIE, POWROT DO BARROW HALL I POZNY OBIAD Z MIRA (w izbie goscinnej; Lyra przy stole na kolanach Miry, Arya z Jorelle w sali). Bez rzutow. Zupa z soczewicy, kurczak w ziolach…
+- [300-06-13] `rodzina/MIRA`: Targ w Barrowton i tkaczki Barbrey: welna z Rills ~1/4 tansza niz w BP (E); proponuje czlowieka atelier kupujacego welne z prawa skladu w Barrowton (plaszcze przybocznych, farbiarnia Cailin)…

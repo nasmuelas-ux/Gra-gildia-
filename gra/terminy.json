@@ -7291,6 +7291,15 @@
    "wraca": "300-06-25",
    "zamyka": "wpis w karcie ognia + rozkaz Hendry'ego",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-13",
+   "co": "ATELIER - KUPIEC WELNY W BARROWTON: wybiera najstarsza szwaczka atelier (BP) na list Miry; kupuje z prawa skladu i od tkaczek Barbrey (welna z Rills); na plaszcze przybocznych i farbiarnie Cailin; transport do Fosy. Ksiega atelier. Wlasne - bez rzutu.",
+   "kto": "MIRA -> ATELIER BP",
+   "kanal": "list Miry z Barrowton/Fosy do BP",
+   "wraca": "300-07-15",
+   "zamyka": "kupiec w Barrowton + pierwsza bela welny",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

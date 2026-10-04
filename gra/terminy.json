@@ -7147,6 +7147,42 @@
    "wraca": "300-06-17",
    "zamyka": "rada przekazana Edricowi (albo jego wiesc przyszla wczesniej)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-08",
+   "co": "KOSZARY PRZYBOCZNEJ W ZIMOWYM MIESCIE - duzy budynek przy faktorii Domu; kazdy przyboczny wlasna izba; rodziny moga zamieszkac. Kasa 1. Faktor + Hal: wybor budynku i wycena; potem przebudowa. Wlasni - bez rzutu.",
+   "kto": "SYMON -> FAKTOR ZIMOWEGO MIASTA + HAL",
+   "kanal": "kruk z drogi przez Winterfell (Luwin) / list z Barrow Hall",
+   "wraca": "300-06-25",
+   "zamyka": "budynek kupiony i wycena przebudowy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-08",
+   "co": "PRZYBOCZNA - NAUKA CZYTANIA I PISANIA: Aldwin godzina dziennie po warcie (droga, Winterfell); na Fosie szkola Miry (Rowan Szczupak pierwszy). Meldunek Aldwina: kto czyta rozkaz.",
+   "kto": "ALDWIN + MIRA",
+   "kanal": "osobiscie",
+   "wraca": "300-09-01",
+   "zamyka": "lista: kto czyta rozkaz do konca",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-08",
+   "co": "PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy drzwiach rodziny, obcy przy Lyrze nigdy sam); po powrocie lekcja mistrza z Braavos (skrytobojca) i Luwina (trucizny, odtrutki, szkatulka); Willa - najemne noze.",
+   "kto": "STEN + MISTRZ Z BRAAVOS + LUWIN + WILLA",
+   "kanal": "osobiscie / kruk",
+   "wraca": "300-07-05",
+   "zamyka": "lekcje odbyte + szkatulka z odtrutkami przy rodzinie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-08",
+   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana.",
+   "kto": "STEN / DAGON / TESSA / KASZTELAN",
+   "kanal": "osobiscie + kruk do kasztelana",
+   "wraca": "300-06-20",
+   "zamyka": "wszystkie cztery wykonane",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

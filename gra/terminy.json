@@ -7705,6 +7705,33 @@
    "wraca": "300-08-15",
    "zamyka": "plan przyjecia: barki, eskorta, sklad pod brama",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "OGIEN W CAILIN - STRAZ OGNIOWA DORAZNA (zgoda pana 06-19, rada Hendry'ego): bosaki, drabiny, beczki z woda przy kazdym rzedzie domow i szop, DZWON PRZY WADZE na pozar; Jastrzebie na nocnym obchodzie licza ognie w piecach. Miasto (Herwin) + lenno (Bran - beczki i drabiny, Kasa 2) + Kessel (obchod). Wlasni - bez rzutu.",
+   "kto": "HERWIN + BRAN + KESSEL",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "beczki, drabiny i dzwon stoja; obchod chodzi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "GORACZKA BAGIENNA - PRZYGOTOWANIE PRZED LIPCEM (zgoda pana 06-19): baraki dla dniowkowych NA SUCHYM, z dala od stojacej wody (Bran - wybor miejsca przed budowa); NINA i maester WYSTAN: zapas ziol i kory, izba na chorych osobno od barakow, woda pitna gotowana przy barakach (protokol jak w drodze). Wlasni - bez rzutu; czy goraczka przyjdzie - RZUT w lipcu (natura).",
+   "kto": "NINA + WYSTAN + BRAN",
+   "kanal": "na miejscu",
+   "wraca": "300-07-01",
+   "zamyka": "izba chorych, zapas lekow, miejsce barakow na suchym",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "STRAZNICA ZA CAILIN OD POLNOCY (rozkaz pana 06-19, do czasu murow): Hendry stawia drewniana wieze z palisada na suchym za miastem od strony polnocnej (trakt na Barrowlandy/Winterfell), z ogniem sygnalowym w lancuchu; obsada z druzyny. Kasa 2. Wlasni - bez rzutu.",
+   "kto": "HENDRY (+ Bran - ciesle)",
+   "kanal": "na miejscu",
+   "wraca": "300-08-01",
+   "zamyka": "straznica stoi, obsadzona, ogien w karcie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

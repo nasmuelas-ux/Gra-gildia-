@@ -7330,11 +7330,20 @@
   },
   {
    "data": "300-06-16",
-   "co": "DNIOWKI W LENNIE STAJA NA SIANOKOSY (rozkaz Symona, Kamienna Wola 06-16, na pytanie soltysa): przez czas sianokosow (~07-01, ok. dwa tygodnie) grobla i budowy lenna nie biora ludzi na dniowki; chlopcy wracaja do kos. Ogloszenie na slupie w Cailin i przez soltysow. Wlasni ludzie - bez rzutu. SKUTEK (zasada 8): budowy lenna stoja ~2 tygodnie - harmonogram grobli i robot przesuwa sie o tyle; PYTANIE OTWARTE do pana: przybysze z rejestru dniowek Melli (~400, bez wlasnych pol) - co z nimi przez te dwa tygodnie (Garrick/Mella zapytaja na Fosie).",
+   "co": "DNIOWKI W LENNIE STAJA NA SIANOKOSY (rozkaz Symona, Kamienna Wola 06-16, na pytanie soltysa): przez czas sianokosow (~07-01, ok. dwa tygodnie) grobla i budowy lenna nie biora ludzi na dniowki; chlopcy wracaja do kos. Ogloszenie na slupie w Cailin i przez soltysow. Wlasni ludzie - bez rzutu. SKUTEK (zasada 8): budowy lenna stoja ~2 tygodnie - harmonogram grobli i robot przesuwa sie o tyle; PYTANIE OTWARTE do pana: przybysze z rejestru dniowek Melli (~400, bez wlasnych pol) - co z nimi przez te dwa tygodnie (Garrick/Mella zapytaja na Fosie). ### 06-17: Olszyny (wojt Tommen Kladka) wiedza od pana - czterech chlopcow z Olszyn na dniowkach przy grobli wroci na sianokosy.",
    "kto": "SYMON -> GARRICK + MELLA (rejestr dniowek) + soltysi",
    "kanal": "osobiscie na Fosie 06-18; soltys Kamiennej Woli wie od dzis",
    "wraca": "300-06-18",
    "zamyka": "ogloszenie na slupie + decyzja o przybyszach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-17",
+   "co": "PRZEPUST POD GROBLA DLA OLSZYN (prosba wojta Tommena Kladki 06-17): od kiedy stoi grobla, woda po deszczu schodzi z dolnych lak Olszyn o 1-2 dni dluzej - jeden kamienny przepust pod grobla albo row odplywowy. Zleca Symon GARRICKOWI (budowy lenna); wlasni ludzie - bez rzutu. Uwaga: dniowki staja na sianokosy (~07-01, 2 tyg.) - przepust przed sianokosami albo po.",
+   "kto": "SYMON -> GARRICK",
+   "kanal": "osobiscie na Fosie 06-18",
+   "wraca": "300-06-18",
+   "zamyka": "Garrick wyznacza miejsce, termin i ludzi przepustu",
    "status": "otwarte"
   }
  ],

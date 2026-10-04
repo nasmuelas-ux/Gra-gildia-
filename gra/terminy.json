@@ -7240,7 +7240,7 @@
   },
   {
    "data": "300-06-12",
-   "co": "BARROWTON - WAGOWY I PISARZ SKLADU OD DOMU (Hal, na rok, placi miasto Barrowton) + WZOR KSIEGI Z FOSY (Etap I: waga, kwit, stan ziarna, cztery kolumny; odpis przez Garricka). Wlasni - bez rzutu.",
+   "co": "BARROWTON - WAGOWY I PISARZ SKLADU OD DOMU (Hal, na rok, placi miasto Barrowton) + WZOR KSIEGI Z FOSY (Etap I: waga, kwit, stan ziarna, cztery kolumny; odpis przez Garricka). Wlasni - bez rzutu. ### 06-18 (Fosa): list pana do Hala (wagowy + pisarz na rok, placi Barrowton) wychodzi jutro z poczta BP; Garrick robi odpis wzoru ksiegi Etapu I - jedzie do Barrowton z najblizszym wozem (E ~06-25).",
    "kto": "SYMON -> HAL + GARRICK",
    "kanal": "list z Fosy (~06-17) do Hala + odpis z Fosy do Barrowton",
    "wraca": "300-07-05",
@@ -7276,7 +7276,7 @@
   },
   {
    "data": "300-06-13",
-   "co": "SZEW OGNIA BARROWLANDY-DUSTINPORT - USTALONY NA WZGORZU STAREJ STRAZY: ogien Barrowlandow na Wzgorzu (ludzie Barbrey, bez stawki, wpiny tak); ogien Dustinportu NA WYSOKIM CYPLU nad zatoka - postawic (Donnel/Torren, czlowiek Donnela + czlowiek Barbrey); proba co siodmy dzien o zmierzchu; karta: trzy ognie walka, cztery flota. Rozkaz do Donnela - z Fosy. Wlasni - bez rzutu.",
+   "co": "SZEW OGNIA BARROWLANDY-DUSTINPORT - USTALONY NA WZGORZU STAREJ STRAZY: ogien Barrowlandow na Wzgorzu (ludzie Barbrey, bez stawki, wpiny tak); ogien Dustinportu NA WYSOKIM CYPLU nad zatoka - postawic (Donnel/Torren, czlowiek Donnela + czlowiek Barbrey); proba co siodmy dzien o zmierzchu; karta: trzy ognie walka, cztery flota. Rozkaz do Donnela - z Fosy. Wlasni - bez rzutu. ### 06-18 (Fosa): ROZKAZ DO DONNELA (ogien na wysokim cyplu nad zatoka, czlowiek Donnela + czlowiek Barbrey, proba co 7. dzien o zmierzchu) jedzie jutro tym samym jezdzcem co rozkaz o chatach; u Donnela ~06-22.",
    "kto": "SYMON -> DONNEL/TORREN; BARBREY",
    "kanal": "jezdziec Fosa-Dustinport (4 dni)",
    "wraca": "300-07-01",
@@ -7285,12 +7285,12 @@
   },
   {
    "data": "300-06-13",
-   "co": "KARTA OGNIA - WZAJEMNA ODSIECZ TALLY-DUSTIN (rzut 83): na ogien Barrowlandow - jazda Fosy (Hendry), setka Goracego Portu, eskadra od morza; na ogien Goracego Portu/Fosy - jezdni Barrowlandow (~100+, ser Harwood). Wpisac do karty ognia (Luwin) i do rozkazow Hendry'ego; sprawdzic widocznosc ognia Fosy/Goracego Portu ze Wzgorza albo przez cypel.",
+   "co": "KARTA OGNIA - WZAJEMNA ODSIECZ TALLY-DUSTIN (rzut 83): na ogien Barrowlandow - jazda Fosy (Hendry), setka Goracego Portu, eskadra od morza; na ogien Goracego Portu/Fosy - jezdni Barrowlandow (~100+, ser Harwood). Wpisac do karty ognia (Luwin) i do rozkazow Hendry'ego; sprawdzic widocznosc ognia Fosy/Goracego Portu ze Wzgorza albo przez cypel. ### 06-18 (Fosa): HENDRY dostal rozkaz osobiscie (jazda Fosy na ogien Barrowlandow; setka Goracego Portu; eskadra - przez Torrena); wpis do karty ognia - w liscie pana do Krola dzis (Luwin wpisuje).",
    "kto": "SYMON -> LUWIN (karta) + HENDRY; BARBREY",
    "kanal": "z Fosy",
-   "wraca": "300-06-25",
+   "wraca": "300-06-24",
    "zamyka": "wpis w karcie ognia + rozkaz Hendry'ego",
-   "status": "otwarte"
+   "status": "otwarte - rozkaz Hendry'ego wydany 06-18; czeka wpis Luwina (potwierdzenie ~06-24) i proba widocznosci."
   },
   {
    "data": "300-06-13",

@@ -7732,6 +7732,15 @@
    "wraca": "300-08-01",
    "zamyka": "straznica stoi, obsadzona, ogien w karcie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "KADZIELNICE MIEJSKIE OD ZARAZ (rozkaz pana 06-19, z projektu Cailin XI/XIV, przyspieszone): tlace sie cale lato przeciw komarom - TORF (regale lenna) + 'BAGNO ROSNACE' (ziele bagienne, wskazuje NINA), na slupach PRZY MOSTACH I KLADKACH NAD WODA, przy BARAKACH, przy SZKOLE i przy izbie chorych; obsluga - nocny obchod Jastrzebi + dzieci z dniowek za grosz (dosypywanie). ZASADA 8: zar w miescie z drewna i trzciny - kadzielnice TYLKO NAD WODA albo na kamieniu, kosz nakryty; KUZNIA (czterech) zajeta kuszami - kosze z GLINY u garncarza zamiast zelaza. Placi LENNO (Kasa 2), zeby nie czekac na podatek miejski. Reszta z XI od razu: wiadro przy kazdym domu nad kanalem; piekarnie i kuznie - przy nowych budowach tylko za kanalem.",
+   "kto": "HERWIN + NINA (ziele) + BRAN (slupy) + KESSEL (obchod)",
+   "kanal": "na miejscu",
+   "wraca": "300-06-26",
+   "zamyka": "pierwsze kadzielnice tla sie przy mostach i barakach",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

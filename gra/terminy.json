@@ -7282,6 +7282,15 @@
    "wraca": "300-07-01",
    "zamyka": "pierwsza proba: oba ognie odpowiadaja",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-13",
+   "co": "KARTA OGNIA - WZAJEMNA ODSIECZ TALLY-DUSTIN (rzut 83): na ogien Barrowlandow - jazda Fosy (Hendry), setka Goracego Portu, eskadra od morza; na ogien Goracego Portu/Fosy - jezdni Barrowlandow (~100+, ser Harwood). Wpisac do karty ognia (Luwin) i do rozkazow Hendry'ego; sprawdzic widocznosc ognia Fosy/Goracego Portu ze Wzgorza albo przez cypel.",
+   "kto": "SYMON -> LUWIN (karta) + HENDRY; BARBREY",
+   "kanal": "z Fosy",
+   "wraca": "300-06-25",
+   "zamyka": "wpis w karcie ognia + rozkaz Hendry'ego",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

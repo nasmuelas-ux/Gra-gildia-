@@ -6775,9 +6775,9 @@
    "co": "PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). LYRA JEDZIE (z Rhona); list do Barbrey wyslany 05-29. Dwie noce w Barrow Hall; Garrick uprzedzony 05-29 (szkola Mabel, seminarium). OTWARTE: data wyjazdu. ### 05-30: ARYA JEDZIE (zgoda Catelyn 04-24 r85: z Namiestnikiem, max miesiac; powrot przed zawodami VII); miecz w juku (warunek Krola); dwoch ludzi Krola przy niej. ### 05-30: CALA PRZYBOCZNA 20 (Sten + Dagon); przy Aryi dwaj ludzie Krola (imiona - Krol/Rodrik). ### 05-30: Arya z wlasnymi gwardzistami Gwardii Krolewskiej; Wieza Straznicza pod straza zamkowa. ### 06-03: ARYA KONNO cala droge z Jorelle Mormont i Torvaldem Wullem (decyzja Symona). ### 06-05: PREZENT - rekawice do jazdy od Miry przy powitaniu; KOPIEC WILLAMA - Symon osobno, wieczorem ('gdzie juz doszlismy'), nie jako prezent.",
    "kto": "SYMON + MIRA (Dagon)",
    "kanal": "trakt Winterfell-Barrowton-Fosa",
-   "wraca": "300-06-08",
+   "wraca": "300-06-12",
    "zamyka": "data wyjazdu ustalona (po Reedach)",
-   "status": "otwarte - 300-06-08 o swicie KOLUMNA GOTOWA pod Wieza; wyjazd na slowo pana. Barrow Hall 2 noce, potem Fosa."
+   "status": "W DRODZE od 300-06-08 rano. Barrow Hall ~06-12 wieczorem (E), dwie noce, wyjazd 06-14, Fosa ~06-17."
   },
   {
    "data": "300-05-29",
@@ -6979,10 +6979,10 @@
   },
   {
    "data": "300-06-05",
-   "co": "SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni).",
+   "co": "SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni). ### 06-08: Mira na Fosie ~06-17 (droga przez Barrowton).",
    "kto": "MIRA + GARRICK",
    "kanal": "osobiscie na Fosie (podroz przez Barrowton)",
-   "wraca": "300-06-14",
+   "wraca": "300-06-18",
    "zamyka": "plan izb i internatu + lista nauczycieli + pismo do lowcow",
    "status": "otwarte"
   },
@@ -7018,7 +7018,7 @@
    "co": "WAT (Bialy Port) - DRUGA PAPIERNIA NA FOSIE CAILIN i TRZECIA W ZIMOWYM MIESCIE (strumien przy brodzie w Wilczym Lesie - E); Dom finansuje. Pytanie pana: Wat sam czy dwoch roznych papiernikow. Szmaty: skup BP + scinki szwalni w Winterfell. Bez rzutu (wlasny). ### VOID 06-05: 'pierwsza papiernia na Fosie / drugi mlyn' - pierwsza papiernia Wata jest w BIALYM PORCIE (wskazanie gracza).",
    "kto": "SYMON -> WAT; HAL (wycena)",
    "kanal": "kruk Winterfell-Bialy Port (06-05); odpowiedz krukiem BP-Fosa do pana w podrozy (albo przez Hala)",
-   "wraca": "300-06-12",
+   "wraca": "300-06-17",
    "zamyka": "odpowiedz Wata (kto prowadzi) + miejsce i woda w Zimowym Miescie + wycena Hala",
    "status": "otwarte"
   },

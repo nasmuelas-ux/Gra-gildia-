@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**122 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey … · _kanal:_ trakt Winterfell-Barrowton-Fosa
+**121 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -596,7 +593,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-29** — OSADNICY SIGRUN - ZBOZE DO ZNIW (Barbrey sprzeda dopiero po zniwach, rzut 3): Orland - przerzut z komor Korony albo pierwszy ladunek z Seagardu; przewoz morzem kadlubami Torrena. Siewne i zapas nietykalne. · _kto:_ **ORLAND KORZEC (+ Torren przewoz)** · _zamyka:_ zrodlo zboza dla osadnikow do zniw (razem z karta Spichlerza) **⚠ KARTA ORLANDA 06-06: ~300 KORCY (E), PRZERZUT Z KOMOR KORONY LODZIA TORRENA PRZEZ DUSTINPORT - CZEKA NA SLOWO PANA (NOWY TERMIN 06-06).**
 - **300-05-29** — BARBREY - CZLOWIEK OSOBISCIE W BARROW HALL (pora i miejsce ognia, szew Barrowlandy-Dustinport): kto jedzie - Donnel z Dustinportu albo ktos z Fosy/Korony. Do slowa pana. · _kto:_ **SYMON (decyzja)** · _zamyka:_ decyzja, kto jedzie **⚠ ZAMKNIETE 300-05-29 - JEDZIE SAM NAMIESTNIK Z MIRA, PO PRZYBYCIU REEDOW, PRZEZ BARROWTON NA FOSE.**
 - **300-05-29** — SOLARNIA KAMIENNEGO BRZEGU - KOSZT ZALOZENIA (wzor: warzelnia Domu, Kasa 1) - Hal podaje Gawenowi. · _kto:_ **HAL -> GAWEN** · _zamyka:_ koszt panwi i warzelni na pismie **⚠ ZAMKNIETE 300-06-08 - HAL PRZYSLAL GAWENOWI WYCENE WG WZORU WARZELNI DOMU (KASA 1); LICZBA W KSIEDZE GAWENA.**
-- **300-05-29** — PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). LYRA JEDZIE (z Rhona); list do Barbrey wyslany 05-29. Dwie noce w Barrow Hall; Garrick uprzedzony 05-29 (szkola Mabel, seminarium). OTWARTE: data wyjazdu. ### 05-30: ARYA JEDZIE (zgoda Catelyn 04-24 r85: z Namiestnikiem, max miesiac; powrot przed zawodami VII); miecz w juku (warunek Krola); dwoch ludzi Krola przy niej. ### 05-30: CALA PRZYBOCZNA 20 (Sten + Dagon); przy Aryi dwaj ludzie Krola (imiona - Krol/Rodrik). ### 05-30: Arya z wlasnymi gwardzistami Gwardii Krolewskiej; Wieza Straznicza pod straza zamkowa. ### 06-03: ARYA KONNO cala droge z Jorelle Mormont i Torvaldem Wullem (decyzja Symona). ### 06-05: PREZENT - rekawice do jazdy od Miry przy powitaniu; KOPIEC WILLAMA - Symon osobno, wieczorem ('gdzie juz doszlismy'), nie jako prezent. · _kto:_ **SYMON + MIRA (Dagon)** · _zamyka:_ data wyjazdu ustalona (po Reedach) **⚠ OTWARTE - 300-06-08 O SWICIE KOLUMNA GOTOWA POD WIEZA; WYJAZD NA SLOWO PANA. BARROW HALL 2 NOCE, POTEM FOSA.**
+- **300-05-29** — PODROZ SYMONA I MIRY NA FOSE PRZEZ BARROWTON - po przybyciu dzieci Reeda (Jojen, Meera ~05-30-06-05). W Barrow Hall: lady Barbrey - pora i miejsce ognia (szew z Dustinportem). Eskorta: oddzial II przybocznej (Dagon). LYRA JEDZIE (z Rhona); list do Barbrey wyslany 05-29. Dwie noce w Barrow Hall; Garrick uprzedzony 05-29 (szkola Mabel, seminarium). OTWARTE: data wyjazdu. ### 05-30: ARYA JEDZIE (zgoda Catelyn 04-24 r85: z Namiestnikiem, max miesiac; powrot przed zawodami VII); miecz w juku (warunek Krola); dwoch ludzi Krola przy niej. ### 05-30: CALA PRZYBOCZNA 20 (Sten + Dagon); przy Aryi dwaj ludzie Krola (imiona - Krol/Rodrik). ### 05-30: Arya z wlasnymi gwardzistami Gwardii Krolewskiej; Wieza Straznicza pod straza zamkowa. ### 06-03: ARYA KONNO cala droge z Jorelle Mormont i Torvaldem Wullem (decyzja Symona). ### 06-05: PREZENT - rekawice do jazdy od Miry przy powitaniu; KOPIEC WILLAMA - Symon osobno, wieczorem ('gdzie juz doszlismy'), nie jako prezent. · _kto:_ **SYMON + MIRA (Dagon)** · _zamyka:_ data wyjazdu ustalona (po Reedach) **⚠ W DRODZE OD 300-06-08 RANO. BARROW HALL ~06-12 WIECZOREM (E), DWIE NOCE, WYJAZD 06-14, FOSA ~06-17.**
 - **300-05-29** — LADY BARBREY - ODPOWIEDZ NA ZAPOWIEDZ WIZYTY Namiestnika z lady Mira i corka w Barrow Hall (po Reedach, poczatek VI). RZUT przy odpowiedzi. · _kto:_ **SYMON -> BARBREY DUSTIN** · _zamyka:_ odpowiedz Barbrey (rzut) **⚠ ZAMKNIETE 300-06-02 (RZUT 63) - TAK, DWIE NOCE; JEJ CZLOWIEK OD OGNISK PRZY ROZMOWIE; PYTA O KOSCI WILLAMA.**
 - **300-05-30** — OWCE Z HORNWOOD NA KAMIENNYM BRZEGU (wypedzone 06-02, pastuchy Hornwoodu). · _kto:_ **PASTUCHY HORNWOODU -> CORWIN/SIGRUN** · _zamyka:_ stado na miejscu
 - **300-05-30** — DOM AUDYTOWY TALLY - MISTRZ Z BRAAVOS: pytanie do Nesty (Antaryonowie) w pakiecie. · _kto:_ **HAL -> NESTA** · _zamyka:_ imie mistrza albo 'nie ma'
@@ -617,7 +614,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-06-03** — OGLOSZENIE KROLA O WPINACH do panow wybrzeza (Glover, Tallhart, Dustin, Mormont, Flint, Corwin, Torren) - kruki 06-04 rano. Odzew panow (szczegolnie Flint: honor, nie zold) - JEDEN RZUT na cala fale przy odpowiedziach. · _kto:_ **KROL -> PANOWIE WYBRZEZA** · _zamyka:_ odpowiedzi panow (rzut) + pierwsze imiona do wpinow z meldunku Robetta
 - **300-06-05** — WYDAWNICTWO DOMU TALLY - MISTRZ (glowa, obsadza pan): kandydaci Ilario / Wat / Theomore (gra/wydawnictwo_i_szkola_tally_300_06.md). · _kto:_ **SYMON** · _zamyka:_ nazwisko mistrza wydawnictwa **⚠ ZAMKNIETE 300-06-05 - PAN: ILARIO MISTRZEM WYDAWNICTWA Z DNIEM PRZYJAZDU (~06-20); WAT - PAPIERNIA, DOSTAWCA.**
 - **300-06-05** — HAL - WYCENA WYDAWNICTWA I SZKOLY: placa skryby i nauczyciela, internat, papier i prasa, izby do czasu Latarni; do Kasy 1 jako glowne przedsiebiorstwo. Bez rzutu (wlasny). · _kto:_ **HAL** · _zamyka:_ wycena na stole
-- **300-06-05** — SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni). · _kto:_ **MIRA + GARRICK** · _zamyka:_ plan izb i internatu + lista nauczycieli + pismo do lowcow
+- **300-06-05** — SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni). ### 06-08: Mira na Fosie ~06-17 (droga przez Barrowton). · _kto:_ **MIRA + GARRICK** · _zamyka:_ plan izb i internatu + lista nauczycieli + pismo do lowcow
 - **300-06-05** — NABOR SKRYBOW I (cel 50: ~15 do VIII, ~30 do X, 50 do wiosny 301) - Fosa (szkola, spis 299-06, rejestr Melli), Glebokorzen, Bialy Port (Hal), Braavos (Nesta). JEDEN RZUT na odzew fali. · _kto:_ **GARRICK / HAL / NESTA / THEOMORE** · _zamyka:_ lista imienna pierwszej fali
 - **300-06-05** — SZKOLA - PIERWSZY NABOR DO 300 Z LOWCAMI TALENTOW + SEMINARIUM NAUCZYCIELI I (arkusz Miry). Rzut na odzew przy naborze. · _kto:_ **MIRA** · _zamyka:_ lista uczniow i nauczycieli po naborze
 - **300-06-05** — LOWCY TALENTOW W SEPTACH I W DORZECZU - dzieci nisko urodzone, bekarty, zablakane (sieroty wojenne); stypendium Domu (wikt i dach), odpracowanie 3 lata. Pisma: septon Winterfell (ustnie), septa BP (Hal), septy i panowie Dorzecza (Lucan, Deron Suchy, placowka Riverrun/Seagard). Transport: kolumny Kompanii z opiekunem. JEDEN RZUT na odzew (wola septonow i Dorzecza); Wiara zapyta o Siedmiu. · _kto:_ **SYMON -> SEPTONI / LUCAN / DERON / HAL** · _zamyka:_ pierwsza lista dzieci zgloszonych + odpowiedz Wiary
@@ -808,10 +805,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-08 ranek · zima (300)
+- **Data:** 300-06-08 poludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 29**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 35**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1618,7 +1615,7 @@ _(pelna lista spraw: gra/sprawy.json)_
 - **300-06-05** — RECKAWICE DO JAZDY DLA LADY BARBREY DUSTIN - prezent od Miry (pani domu pani domu): ciemna skora z Zimowego Miasta, srebrne wyszycie na mankiecie; szyja Tessa i Marga, haft Mira. Placi ksiega atelier. Bez rzutu (wlasne).
 - **300-06-05** — WYDAWNICTWO DOMU TALLY - MISTRZ (glowa, obsadza pan): kandydaci Ilario / Wat / Theomore (gra/wydawnictwo_i_szkola_tally_300_06.md).
 - **300-06-05** — HAL - WYCENA WYDAWNICTWA I SZKOLY: placa skryby i nauczyciela, internat, papier i prasa, izby do czasu Latarni; do Kasy 1 jako glowne przedsiebiorstwo. Bez rzutu (wlasny).
-- **300-06-05** — SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni).
+- **300-06-05** — SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni). ### 06-08: Mira na Fosie ~06-17 (droga przez Barrowton).
 - **300-06-05** — NABOR SKRYBOW I (cel 50: ~15 do VIII, ~30 do X, 50 do wiosny 301) - Fosa (szkola, spis 299-06, rejestr Melli), Glebokorzen, Bialy Port (Hal), Braavos (Nesta). JEDEN RZUT na odzew fali.
 - **300-06-05** — SZKOLA - PIERWSZY NABOR DO 300 Z LOWCAMI TALENTOW + SEMINARIUM NAUCZYCIELI I (arkusz Miry). Rzut na odzew przy naborze.
 - **300-06-05** — LOWCY TALENTOW W SEPTACH I W DORZECZU - dzieci nisko urodzone, bekarty, zablakane (sieroty wojenne); stypendium Domu (wikt i dach), odpracowanie 3 lata. Pisma: septon Winterfell (ustnie), septa BP (Hal), septy i panowie Dorzecza (Lucan, Deron Suchy, placowka Riverrun/Seagard). Transport: kolumny Kompanii z opiekunem. JEDEN RZUT na odzew (wola septonow i Dorzecza); Wiara zapyta o Siedmiu.
@@ -1717,7 +1714,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-07] `dziennik`: 300-06-07 SCIEZKA POD MURAMI (cd.) - SYMON DO MIRY: 'Mysle, ze to nie moja rola, zeby mu pomagac w ten sposob' (za Mur - nie on). I MOWI JEJ O WIZJI JOJENA: pioro, ktore plonie i sie nie spa…
 - [300-06-07] `rodzina/MIRA`: Symon: za Mur - nie on (nie jego rola). O wizji Jojena (pioro w ogniu, ktore sie nie spala): 'Plomien i pioro - nasz herb. Grzejesz, a nie palisz.'
 - [300-06-07] `starkowie/BRAN`: Postanowienie Symona (w rozmowie z Mira): za Mur nie on; jesli Krol zgodzi sie kiedys - Symon znajdzie ludzi.
 - [300-06-07] `dziennik`: 300-06-07 SCIEZKA POD MURAMI (cd.) - SYMON MOWI MIRZE O RICKONIE: moze wchodzic w Kudlacza (sny), i o KRYPTACH (300-04-12): Kudlacz schodzi nizej niz posagi, Rickon za nim 'do polowy, gdzie …
@@ -1729,3 +1725,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-07] `dziennik`: 300-06-07 POZNY WIECZOR, IZBA NIANI - BAJKA 13: O MLOCIE WOD (Przesmyk, bagna, Fosa). Bez rzutu. Dopisek Niani: 'Ziemia tam pamieta, ze ktos ja zlamal - grobla tonie, jak ktos buduje bez pyt…
 - [300-06-08] `dziennik`: 300-06-07 NOC - Symon z Mira spac przed polnoca. 300-06-08 RANEK (NIEDZIELA), WINTERFELL - SEN RZUT 34: noc slabsza - Lyra podniecona skrzyniami, zasnela pozno; zdrowie 100, zmeczenie 53->29…
 - [300-06-08] `dziennik`: 300-06-08 SNIADANIE PRZED DROGA, WIELKA SALA - Symon z Mira, Lyra, Arya i przyboczna (Sten, Dagon i dwudziestu przy dlugim stole, Jorelle i Torvald przy Aryi). Bez rzutow. Slonce przez okna.…
+- [300-06-08] `dziennik`: 300-06-08 SWIT -> POLUDNIE, TRAKT NA POLUDNIE - WYJAZD DO BARROW HALL. Symon dziekuje Krolowi przy bramie; Krol podaje reke, potem kladzie dlon na glowie Aryi: 'Sluchaj Jorelle.' Arya: 'Zaws…

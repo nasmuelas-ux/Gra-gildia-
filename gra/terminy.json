@@ -5125,10 +5125,10 @@
   },
   {
    "data": "300-05-11",
-   "co": "KAMIENNY BRZEG - ETAPY (zatwierdzone 05-11): E0 50 weteranow na miejscu ~05-28; E1 palisada + wieza w lancuchu ogni ~06-15; E2 50 miejscowych ~06-30; E3 rezerwa z rybakow + Wielki Zarzadca ~08-31. Meldunek Corwina na kazdy etap. ### 05-21: OSADNICY SIGRUN (61 wg 03-16) dolaczaja od razu - stawiaja palisade razem z Corwinem; Starkport na Kamiennym Brzegu (Krol, rzut 73). ### 05-21: MIEJSCE - najwyzszy punkt nad Zatoka Kamieni przy wsi Branna Mokrego (twierdza Starkportu); palisada + wieza ognia tam; woda (zrodlo/cysterna) przed pierwszym palem.",
+   "co": "KAMIENNY BRZEG - ETAPY (zatwierdzone 05-11): E0 50 weteranow na miejscu ~05-28; E1 palisada + wieza w lancuchu ogni ~06-15; E2 50 miejscowych ~06-30; E3 rezerwa z rybakow + Wielki Zarzadca ~08-31. Meldunek Corwina na kazdy etap. ### 05-21: OSADNICY SIGRUN (61 wg 03-16) dolaczaja od razu - stawiaja palisade razem z Corwinem; Starkport na Kamiennym Brzegu (Krol, rzut 73). ### 05-21: MIEJSCE - najwyzszy punkt nad Zatoka Kamieni przy wsi Branna Mokrego (twierdza Starkportu); palisada + wieza ognia tam; woda (zrodlo/cysterna) przed pierwszym palem. ### 06-21: wg meldunku 06-18 pierwsze zapalenie ognia Corwina dzis; wiesc na Fose przez Dustinport (E ~06-26).",
    "kto": "CORWIN + ULRIC",
    "kanal": "lancuch ogni / kruk przez Deepwood",
-   "wraca": "300-06-15",
+   "wraca": "300-06-26",
    "zamyka": "E0 - garnizon na miejscu",
    "status": "E0 ZAMKNIETE 300-06-01 (garnizon na miejscu); E1 palisada + wieza ~06-15 w biegu"
   },
@@ -7771,7 +7771,7 @@
   },
   {
    "data": "300-06-19",
-   "co": "ARYA NA PATROLU Z MCHOWYMI JASTRZEBIAMI (zgoda pana 06-19): dzienny patrol lodziami po kanalach i wzdluz grobli pod Fosa (nie zachodni brzeg Przesmyku); jej gwardzisci (dwaj ludzie Krola + Dagon) w lodzi obok; Kessel prowadzi; tyczka i kusza do sprobowania. Wlasni - bez rzutu. ### 06-20: pan pozwolil wziac IGLE do lodzi; patrol 06-21.",
+   "co": "ARYA NA PATROLU Z MCHOWYMI JASTRZEBIAMI (zgoda pana 06-19): dzienny patrol lodziami po kanalach i wzdluz grobli pod Fosa (nie zachodni brzeg Przesmyku); jej gwardzisci (dwaj ludzie Krola + Dagon) w lodzi obok; Kessel prowadzi; tyczka i kusza do sprobowania. Wlasni - bez rzutu. ### 06-20: pan pozwolil wziac IGLE do lodzi; patrol 06-21. ### 06-21: deszcz i fala (pogoda 15) - Kessel przesuwa patrol na 06-22.",
    "kto": "KESSEL + ARYA + Dagon i ludzie Krola",
    "kanal": "na miejscu",
    "wraca": "300-06-22",
@@ -8156,7 +8156,7 @@
     "dzien_miesiaca": 15
    },
    "opoznienie": 6,
-   "ostatnio_odebrane": "300-05-15",
+   "ostatnio_odebrane": "300-06-15",
    "zrodlo": "terminy (KARTA THEONA)"
   },
   {

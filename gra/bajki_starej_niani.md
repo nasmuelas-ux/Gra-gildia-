@@ -171,6 +171,7 @@
 | **(b) jeden** | Umarli wstają, wieś idzie dalej na południe. | Niania (6) |
 | **(b) jeden** | **Palić zmarłych.** Jedyna wykonalna instrukcja w całej opowieści. | Niania (6). Północ grzebie swoich w kryptach. Nierozstrzygnięte. |
 | **(b) jeden** | Zielonowidz w korzeniach i kruk z trzema oczami. | Niania (7). Luwin zna zielonowidzów tylko z najstarszych odpisów (B). |
+| **(b) jeden** | Królów Kurhanów chowano z kawałkiem czarnego szkła w dłoni, *„by nie wstali”*. W trzech kurhanach otwartych przy budowie wału znaleziono szkło w dłoni. | Kronika Królów Kurhanów i maester Barrow Hall (300-06-13); zgadza się z Nianią (6): „umarli nie zostawali umarłymi” |
 | **(b) jeden** | Magia umarła **przed** smokami. | nauczyciel Luwina (9) |
 | **(b) jeden** | ⟡ „Góra, w której ogień rodzi szkło” to **Smocza Skała**: wyspa-wulkan, cała w żyłach smoczego szkła. **Hipoteza spisującego, nie świadectwo.** Bran: Smocza Skała leży daleko na południu, a Długa Noc była tutaj; obsydian jest też w torfie Fosy, więc może takich gór było więcej. Symon dodaje: w Valyrii było wiele takich gór (Czternaście Płomieni). Wniosek Brana: *„To może «z ognia góry» to nie jest miejsce, tylko skąd się bierze. Każda góra, która płonie, rodzi szkło.”* Do sprawdzenia u Luwina: czy na Północy były kiedyś góry, które dymiły. | Symon (300-06-04 wieczór), zarzut i wniosek Brana tego samego wieczoru |
 | **(c) kłóci się** | Żelazo: nie znosili go / zwykłe miecze nie pomagały. | Niania (6), sama ze sobą |

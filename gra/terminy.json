@@ -7300,6 +7300,15 @@
    "wraca": "300-07-15",
    "zamyka": "kupiec w Barrowton + pierwsza bela welny",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-13",
+   "co": "ODPIS KRONIKI KROLOW KURHANOW (Barrow Hall) DLA SKRYPTORIUM NA FOSIE - maester Haldan pyta lady Barbrey; papier i rece od wydawnictwa Domu (Ilario). Wola Barbrey - maester spodziewa sie zgody (rzut 89 juz padl).",
+   "kto": "MAESTER HALDAN -> BARBREY; ILARIO",
+   "kanal": "osobiscie / list do Fosy",
+   "wraca": "300-06-14",
+   "zamyka": "zgoda lady + plan odpisu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

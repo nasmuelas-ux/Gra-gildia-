@@ -7065,7 +7065,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-06-15",
    "zamyka": "odpowiedz Wymana (rzut) + miejsce na nabrzezu",
-   "status": "otwarte"
+   "status": "VOID 300-06-07 - blad GM (zasada 3): pan mowil o SZYBSZYM SPIENIEZANIU towaru w Bialym Porcie, nie o rozbudowie portu. List do Wymana NIE wyszedl. Zastapione pozycja 'HAL - SZYBKIE SPIENIEZANIE TOWARU KORONY W BIALYM PORCIE'."
   },
   {
    "data": "300-06-07",
@@ -7092,6 +7092,15 @@
    "kanal": "Winterfell / kruk BP",
    "wraca": "300-07-05",
    "zamyka": "liczba w nowej ksiedze Skarbu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "HAL - SZYBKIE SPIENIEZANIE TOWARU KORONY W BIALYM PORCIE (slowo pana 06-07): (1) KWIT SKLADOWY - towar Korony wchodzi do skladu Domu w BP, Hal wystawia kwit z wycena po cenie ogloszonej; Korona bierze od reki zaliczke w monecie (czesc wyceny, warstwa kredytowa Domu, dyskonto jawne), reszta przy sprzedazy; (2) SPRZEDAZ NA BIEZACO - kazdy statek z Braavos, Pentos i Reach dostaje liste towaru Korony przy nabrzezu; licytacja w skladzie co tydzien; (3) CO NIE SPRZEDANE W MIESIAC - do przerobu w warsztatach Domu. Wszystko jawnie, Dom bierze prowizje i dyskonto, nie kupuje na wlasny rachunek (mur trzech kas). Wlasny - bez rzutu.",
+   "kto": "SYMON -> HAL (+ GAWEN)",
+   "kanal": "kruk Winterfell-Bialy Port (06-07)",
+   "wraca": "300-06-15",
+   "zamyka": "pierwszy kwit skladowy i pierwsza zaliczka dla Korony + stawka dyskonta",
    "status": "otwarte"
   }
  ],

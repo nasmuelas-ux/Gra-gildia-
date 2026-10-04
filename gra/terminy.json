@@ -7888,8 +7888,8 @@
   },
   {
    "data": "300-06-20",
-   "co": "KOMORA CELNA FOSY - MELDUNEK DLA PANA (pytanie 06-20 'jak wyglada sytuacja cla?'): GARTH (celnik Korony) + WARRYN: ruch przez komore od wiosny (wozy, lodzie), ile cla Korony przekazano Gawenowi, ile WYNAGRODZENIA ZA POBOR wplynelo do skarbca lenna, jak Garth liczy towary SPOZA ZYWNOSCI (czy wg czterech klas taryfy Gawena z 299-09 - w ksiedze lenna nie stoi, czy taryfe przyjeto), przemyt przez bagna (z Roderykiem i Kesselem). Clo to KORONA (Kasa 3) - lenno tylko pobiera.",
-   "kto": "GARTH + WARRYN",
+   "co": "KOMORA CELNA FOSY - MELDUNEK DLA PANA (pytanie 06-20; po POPRAWCE zapisu): pisarz komory Fosy (komore prowadzi od 04-26) + Warryn: ruch przez brame od wiosny, ile cla Korony (kolumna 1/20) poszlo do Gawena, ile MYTA LENNA (kolumna 1/40) do skarbca lenna, ile ladunkow wodnych z pieczecia na liscie przewozowym, ile 'towaru znalezionego' i przemytu (z Kesselem i Roderykiem). GARTH - w objezdzie sluzby komor (BP, Dustinport, przystanie) - jego stan przez Gawena.",
+   "kto": "PISARZ KOMORY FOSY + WARRYN; GARTH (sluzba komor, w objezdzie) - przez Gawena",
    "kanal": "na miejscu",
    "wraca": "300-06-24",
    "zamyka": "meldunek komory na stole pana",

@@ -7672,11 +7672,20 @@
   },
   {
    "data": "300-06-19",
-   "co": "DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; kupowac domy. Mur trzech kas: ludzie Domu - Kasa 1 (Hal), ludzie lenna - Kasa 2 (Warryn). KROK 1 (Garrick + Alys + Mella, kancelaria): SPIS - kto ze stalych (kontrakt/zold) nie ma wlasnej izby, ile rodzin, ile dzieci. PYTANIE GARRICKA (do slowa pana): ZAKRES - stali (kontrakt, zold: druzyna, Jastrzebie, urzednicy, pisarze, nauczyciele) czy takze DNIOWKOWI (~400 przybyszow)? ZASADA 8: (a) w Cailin wolnych domow prawie nie ma, a czynsze juz skoczyly (Alys) - skup wywinduje ceny i wypchnie mieszczan z izb; (b) lawa nie chciala, by Dom byl panem kamienic (rzut 24) - skup istniejacych domow czyni Dom najwiekszym gospodarzem w miescie; (c) PROPOZYCJA GARRICKA: kupowac tylko tam, gdzie ktos sam sprzedaje po cenie ze slupa; reszte STAWIAC (dom Domu, kamienice z pozyczki 0,5%, baraki rodzinne przy grobli dla Jastrzebi i druzyny) - do slowa pana.",
+   "co": "DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; kupowac domy. Mur trzech kas: ludzie Domu - Kasa 1 (Hal), ludzie lenna - Kasa 2 (Warryn). KROK 1 (Garrick + Alys + Mella, kancelaria): SPIS - kto ze stalych (kontrakt/zold) nie ma wlasnej izby, ile rodzin, ile dzieci. PYTANIE GARRICKA (do slowa pana): ZAKRES - stali (kontrakt, zold: druzyna, Jastrzebie, urzednicy, pisarze, nauczyciele) czy takze DNIOWKOWI (~400 przybyszow)? ZASADA 8: (a) w Cailin wolnych domow prawie nie ma, a czynsze juz skoczyly (Alys) - skup wywinduje ceny i wypchnie mieszczan z izb; (b) lawa nie chciala, by Dom byl panem kamienic (rzut 24) - skup istniejacych domow czyni Dom najwiekszym gospodarzem w miescie; (c) PROPOZYCJA GARRICKA: kupowac tylko tam, gdzie ktos sam sprzedaje po cenie ze slupa; reszte STAWIAC (dom Domu, kamienice z pozyczki 0,5%, baraki rodzinne przy grobli dla Jastrzebi i druzyny) - do slowa pana. ### 06-19 ROZSTRZYGNIECIE PANA: (1) STALI (KONTRAKT/ZOLD) - IZBA NA WYLACZNOSC, PRZEKAZYWANA NA WLASNOSC; (2) KTO JUZ MA WLASNY DOM - PREMIA zamiast (wysokosc: Warryn - Kasa 2 / Hal - Kasa 1, E); (3) TYMCZASOWI (DNIOWKOWI) - BARAKI WIELOOSOBOWE (osobny termin). PYTANIE GARRICKA do slowa pana (zasada 8): wlasnosc od razu czy po roku sluzby / zwrot przy zerwaniu w pierwszym roku - inaczej ktos wezmie dom i odejdzie nastepnego dnia.",
    "kto": "GARRICK + ALYS + MELLA; HAL (Kasa 1) + WARRYN (Kasa 2)",
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "spis bezdomnych pracujacych + plan (kupno/budowa) z kosztem E",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "BARAKI WIELOOSOBOWE DLA PRACOWNIKOW TYMCZASOWYCH (rozkaz pana 06-19): dla dniowkowych/przybyszow (~400) - pod dachem, z piecem, wychodkiem i studnia (etap 0 Herwina: dach, woda, wychodki, ogien); przy grobli i przy trakcie, gdzie robota. Kasa 2 (lenno; budowy lenna). Bran - ciesle po sianokosach; Warryn - koszt E. Wlasni - bez rzutu.",
+   "kto": "BRAN + WARRYN",
+   "kanal": "na miejscu",
+   "wraca": "300-08-15",
+   "zamyka": "pierwsze baraki pod dachem, ilu miesci",
    "status": "otwarte"
   }
  ],

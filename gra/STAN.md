@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**150 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- ARYA - LEKCJA U BRAAWOSKIEGO MISTRZA FOSY (zgoda pana 06-19): rano na dziedzincu, przed slupem; jawnie (warunek Krola z 299-09-14:… · _kanal:_ na miejscu
+**149 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -703,7 +700,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-06-19** — KADZIELNICE MIEJSKIE OD ZARAZ (rozkaz pana 06-19, z projektu Cailin XI/XIV, przyspieszone): tlace sie cale lato przeciw komarom - TORF (regale lenna) + 'BAGNO ROSNACE' (ziele bagienne, wskazuje NINA), na slupach PRZY MOSTACH I KLADKACH NAD WODA, przy BARAKACH, przy SZKOLE i przy izbie chorych; obsluga - nocny obchod Jastrzebi + dzieci z dniowek za grosz (dosypywanie). ZASADA 8: zar w miescie z drewna i trzciny - kadzielnice TYLKO NAD WODA albo na kamieniu, kosz nakryty; KUZNIA (czterech) zajeta kuszami - kosze z GLINY u garncarza zamiast zelaza. Placi LENNO (Kasa 2), zeby nie czekac na podatek miejski. Reszta z XI od razu: wiadro przy kazdym domu nad kanalem; piekarnie i kuznie - przy nowych budowach tylko za kanalem. · _kto:_ **HERWIN + NINA (ziele) + BRAN (slupy) + KESSEL (obchod)** · _zamyka:_ pierwsze kadzielnice tla sie przy mostach i barakach
 - **300-06-19** — LAWA CAILIN - GLOSOWANIE USTAWY BUDOWLANEJ (propozycja Herwina, zgoda pana 06-19): (1) nowy dom - przyziemie i komin z kamienia; (2) dach darniowy, trzcina tylko do konca 301; (3) zakaz nowej trzciny na dachach przy kanale glownym od zaraz; (4) szopy i baraki drewniane tylko jako tymczasowe, z data rozbiorki; (5) budynki publiczne caly bazalt. Glosowanie w najblizszy dzien targowy - 06-26. WOLA LAWY - RZUT przy glosowaniu. OD ZARAZ, BEZ GLOSU: Herwin i Bennis egzekwuja to, co juz stoi w STANDARDZIE B (komin w kamieniu, palenisko nie w scianie, prog nad wysoka woda) - wzornik przy wadze. ### 06-19 PAN (zalecenie): (6) BIELENIE DREWNA WAPNEM - sciany, belki, szopy i baraki (antyseptycznie: plesn, robactwo; wolniej sie zajmuje). Dla mieszczan - ZALECENIE w ustawie, wapno po cenie kosztu przy wadze; dla budynkow LENNA I DOMU (baraki, sklad lin, straznica, kwatery) - NAKAZ od zaraz. · _kto:_ **HERWIN + LAWA; BENNIS (wzornik)** · _zamyka:_ uchwala lawy (rzut) i ogloszenie na slupie
 - **300-06-19** — WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu. · _kto:_ **WARRYN + ORBELO** · _zamyka:_ zrodlo wapna i plan (kupno/wapiennik) z kosztem E
-- **300-06-19** — ARYA - LEKCJA U BRAAWOSKIEGO MISTRZA FOSY (zgoda pana 06-19): rano na dziedzincu, przed slupem; jawnie (warunek Krola z 299-09-14: nie po kryjomu). Wlasni - bez rzutu. · _kto:_ **MISTRZ TANCA WODNEGO FOSY + ARYA** · _zamyka:_ lekcja odbyta
+- **300-06-19** — ARYA - LEKCJA U BRAAWOSKIEGO MISTRZA FOSY (zgoda pana 06-19): rano na dziedzincu, przed slupem; jawnie (warunek Krola z 299-09-14: nie po kryjomu). Wlasni - bez rzutu. · _kto:_ **MISTRZ TANCA WODNEGO FOSY + ARYA** · _zamyka:_ lekcja odbyta **⚠ ZAMKNIETE 300-06-20: LEKCJA ODBYTA O SWICIE NA DZIEDZINCU, JAWNIE. MISTRZ: 'KTO CIE UCZYL?' ARYA: 'KTOS, KTO NIE ZYJE.' MISTRZ KLANIA SIE LEKKO; IMIENIA NIE PADA. CHCE JA WIDZIEC JESZCZE - 'JESLI PAN POZWOLI I JEJ BRAT'.**
 - **300-06-19** — ARYA NA PATROLU Z MCHOWYMI JASTRZEBIAMI (zgoda pana 06-19): dzienny patrol lodziami po kanalach i wzdluz grobli pod Fosa (nie zachodni brzeg Przesmyku); jej gwardzisci (dwaj ludzie Krola + Dagon) w lodzi obok; Kessel prowadzi; tyczka i kusza do sprobowania. Wlasni - bez rzutu. · _kto:_ **KESSEL + ARYA + Dagon i ludzie Krola** · _zamyka:_ patrol odbyty
 - **300-06-20** — SKRYPTORIUM - PIERWSZA SKLADKA ODPISANA (Ilario + czterech; dyktando, karty liniowane z prasy): prawa Korony dla komor i lordow; potem ksiazka o ptakach z bagien dla Brana (zamowienie 06-02). Wlasni - bez rzutu. · _kto:_ **ILARIO** · _zamyka:_ pierwsza skladka gotowa
 
@@ -1859,7 +1856,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-19] `HERWIN_SZALA`: 300-06-19 POZNY WIECZOR, DOM BURMISTRZA - SYMON: zgoda; wdrazac i dodac terminy glosowania. Bez rzutu (rzut przy glosowaniu lawy 06-26). HERWIN: 'W czwartek targowy (06-26) lawa siedzi - pos…
 - [300-06-19] `dziennik`: 300-06-19 POZNY WIECZOR, DOM BURMISTRZA (cd.) - SYMON: polecam bielenie drewna wapnem - dziala antyseptycznie. Bez rzutu. HERWIN: 'Matka bielila chlew co wiosne - krowy mniej chorowaly.' Dop…
 - [300-06-19] `HERWIN_SZALA`: 300-06-19 POZNY WIECZOR, DOM BURMISTRZA (cd.) - SYMON: polecam bielenie drewna wapnem - dziala antyseptycznie. Bez rzutu. HERWIN: 'Matka bielila chlew co wiosne - krowy mniej chorowaly.' Dop…
 - [300-06-19] `dziennik`: 300-06-19 POZNY WIECZOR, WIEZA STRAZNICZA FOSY, IZBA ARYI - SYMON: jak ci sie podoba na Fosie? Bez rzutu (rozmowa; relacja dobra). Arya siedzi w oknie, nogi na zewnatrz nad fosa (Dagon pod d…
@@ -1871,3 +1867,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-19] `dziennik`: 300-06-19 NOC, KOMNATA (cd.) - SYMON DO MIRY: Fosa to plac budowy, strasznie duzo sie tu dzieje; w Winterfell jest spokojniej. Bez rzutu. MIRA odklada pioro: 'W Winterfell jest spokojniej, b…
 - [300-06-19] `rodzina/MIRA`: 300-06-19 NOC, KOMNATA (cd.) - SYMON DO MIRY: Fosa to plac budowy, strasznie duzo sie tu dzieje; w Winterfell jest spokojniej. Bez rzutu. MIRA odklada pioro: 'W Winterfell jest spokojniej, b…
 - [300-06-20] `dziennik`: 300-06-20 SWIT (PIATEK), FOSA - SEN RZUT 88: znakomity; cisza, dym bagna w misce, Lyra przespala noc; zdrowie 100, zmeczenie 55->15, sytosc 100->72. POGODA RZUT 80: slonecznie, cieplo, lekki…
+- [300-06-20] `starkowie/ARYA`: 300-06-20 SWIT, DZIEDZINIEC FOSY - LEKCJA U BRAAWOSKIEGO MISTRZA (zgoda pana 06-19). Bez rzutu. Po trzech wymianach mistrz opuszcza miecz: 'Kto cie uczyl?' Arya, po chwili: 'Ktos, kto nie zy…

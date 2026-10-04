@@ -7308,6 +7308,15 @@
    "kanal": "osobiscie / list do Fosy",
    "wraca": "300-06-14",
    "zamyka": "zgoda lady + plan odpisu",
+   "status": "zamkniete 300-06-13 - BARBREY ZGODA: odpis jedzie na Fose, 'tak, jak jest - z wojnami ze Starkami tez; nie poprawiajcie'. Odpis - skryptorium Fosy (Ilario, od ~06-20)."
+  },
+  {
+   "data": "300-06-13",
+   "co": "SKRYPTORIUM FOSY - ODPIS KRONIKI KROLOW KURHANOW (zgoda Barbrey 06-13): oryginal pozycza maester Haldan albo pisarz jedzie do Barrow Hall; 'tak, jak jest, nie poprawiac'. Wlasni - bez rzutu.",
+   "kto": "ILARIO + MAESTER HALDAN",
+   "kanal": "Fosa-Barrowton (3 dni)",
+   "wraca": "300-08-15",
+   "zamyka": "odpis w bibliotece Fosy + egzemplarz dla Barrow Hall",
    "status": "otwarte"
   }
  ],

@@ -7453,6 +7453,15 @@
    "wraca": "300-06-23",
    "zamyka": "odpowiedz Krola",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "SKLAD LIN NAD BRAMA -> IZBY DLA PISARZY Z BRAAVOS (zgoda pana 06-19): Alys bieli i stawia prycze w trzy dni; do tego czasu Ilario z zona i czterej pisarze w izbach goscinnych. Wlasni - bez rzutu.",
+   "kto": "ALYS",
+   "kanal": "na miejscu",
+   "wraca": "300-06-22",
+   "zamyka": "izby gotowe, pisarze w nich",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -7273,6 +7273,15 @@
    "wraca": "300-06-17",
    "zamyka": "meldunek odczytany",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-13",
+   "co": "SZEW OGNIA BARROWLANDY-DUSTINPORT - USTALONY NA WZGORZU STAREJ STRAZY: ogien Barrowlandow na Wzgorzu (ludzie Barbrey, bez stawki, wpiny tak); ogien Dustinportu NA WYSOKIM CYPLU nad zatoka - postawic (Donnel/Torren, czlowiek Donnela + czlowiek Barbrey); proba co siodmy dzien o zmierzchu; karta: trzy ognie walka, cztery flota. Rozkaz do Donnela - z Fosy. Wlasni - bez rzutu.",
+   "kto": "SYMON -> DONNEL/TORREN; BARBREY",
+   "kanal": "jezdziec Fosa-Dustinport (4 dni)",
+   "wraca": "300-07-01",
+   "zamyka": "pierwsza proba: oba ognie odpowiadaja",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -812,7 +812,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-06-07 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 24**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 42**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1718,7 +1718,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-07] `robb_stark`: (nie wie) Umowa Symon-Bran-Reedowie: za Mur nic bez Krola; Bran sam powie Robbowi z dowodem, gdy bedzie umial.
 - [300-06-07] `dziennik`: 300-06-07 IZBA BRANA (cd.) - SYMON MOWI REEDOM I BRANOWI: wyslal zwiadowce na wyspe (gracz: 'ksiezycowa wyspa'; w ksiegach - WYSPA TWARZY na Oku Boga, EDRIC SZUWAR z Mchowych Jastrzebi, matk…
 - [300-06-07] `MEERA_REED`: O Wyspie Twarzy: ojciec (Howland) plynal tam mlodo, przed wojna, wrocil; 'Zieloni Ludzie jeszcze sa'.
 - [300-06-07] `JOJEN_REED`: O Edricu: 'nie przybije, jesli wyspa nie zechce'; rada: bez zelaza na brzegu, nie ciac drzew.
@@ -1730,3 +1729,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-07] `dziennik`: 300-06-07 WCZESNE POPOLUDNIE, WIEZA MAESTRA - SYMON U LUWINA W SPRAWIE NAPARU BRANA (sam, drzwi zamkniete). Bez rzutu (rozpoczecie rozmowy). LUWIN odklada pioro, zanim Symon skonczy pierwsze…
 - [300-06-07] `dziennik`: 300-06-07 WIEZA MAESTRA (cd.) - SYMON DO LUWINA: 'Jeszcze nie wiem. Ale po to sprowadzilem dzieci Howlanda Reeda, zeby sie dowiedziec. Sny Brana moga nie byc tylko snami.' Bez rzutu (Luwin z…
 - [300-06-07] `LUWIN`: Napar Brana - odstawiony od 06-07 (chyba ze Bran poprosi); na pot i uspokojenie mieta/rumianek/miod. 'Probowalem zapalic szklana swiece - nie zapalila sie. Nie powiem, ze to tylko sny, i nie…
+- [300-06-07] `dziennik`: 300-06-07 POPOLUDNIE, DZIEDZINIEC CWICZEBNY I STAJNIA (pochmurno, chlodny wiatr z polnocy) - TRENING U MISTRZA Z BRAAVOS, OSTATNI PRZED DROGA. Bez rzutu. Mistrz: 'Jutro jedziesz. Dzis z koni…

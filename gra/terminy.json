@@ -7660,6 +7660,24 @@
    "wraca": "300-08-15",
    "zamyka": "bractwo zalozone wlasnym statutem (rzut) albo jeszcze nie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "ZIEC GARRICKA (rybak spod Bialego Portu) Z RODZINA DO CAILIN - zgoda pana 06-19: Garrick pisze do corki Maege; jesli zechca - woz Domu traktem BP-Fosa, Dom placi przejazd; ziec - polow wegorza siecia dla lenna i targu (Nelda). Wola rodziny - bez rzutu na pismo; ich decyzja w odpowiedzi.",
+   "kto": "GARRICK -> corka Maege i ziec",
+   "kanal": "poczta Fosa-Bialy Port",
+   "wraca": "300-07-10",
+   "zamyka": "odpowiedz rodziny; przyjazd albo nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; kupowac domy. Mur trzech kas: ludzie Domu - Kasa 1 (Hal), ludzie lenna - Kasa 2 (Warryn). KROK 1 (Garrick + Alys + Mella, kancelaria): SPIS - kto ze stalych (kontrakt/zold) nie ma wlasnej izby, ile rodzin, ile dzieci. PYTANIE GARRICKA (do slowa pana): ZAKRES - stali (kontrakt, zold: druzyna, Jastrzebie, urzednicy, pisarze, nauczyciele) czy takze DNIOWKOWI (~400 przybyszow)? ZASADA 8: (a) w Cailin wolnych domow prawie nie ma, a czynsze juz skoczyly (Alys) - skup wywinduje ceny i wypchnie mieszczan z izb; (b) lawa nie chciala, by Dom byl panem kamienic (rzut 24) - skup istniejacych domow czyni Dom najwiekszym gospodarzem w miescie; (c) PROPOZYCJA GARRICKA: kupowac tylko tam, gdzie ktos sam sprzedaje po cenie ze slupa; reszte STAWIAC (dom Domu, kamienice z pozyczki 0,5%, baraki rodzinne przy grobli dla Jastrzebi i druzyny) - do slowa pana.",
+   "kto": "GARRICK + ALYS + MELLA; HAL (Kasa 1) + WARRYN (Kasa 2)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "spis bezdomnych pracujacych + plan (kupno/budowa) z kosztem E",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

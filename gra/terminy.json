@@ -7636,12 +7636,12 @@
   },
   {
    "data": "300-06-19",
-   "co": "RADA LENNA FOSY - POWOLANA (rozkaz pana 06-19; ksztalt z propozycji 300-03-03): PIEC KRZESEL - KANCLERZ GARRICK (przewodniczy pod nieobecnosc pana), RZADCA WARRYN (ziemia, budowy, Kasa 2), KAPITAN HENDRY (druzyna, obrona, brama), MAESTER WYSTAN (wiedza, kruki, lecznictwo), SEDZIA RODERYK (sad grodzki, umowy, spory); na wezwanie: Kessel (Jastrzebie), Orland (spichlerz), Alys i Bran (majordomat), Mella (ludzie), Herwin (glos miasta, bez glosu w lennie). Wywiadu przy tym stole NIE MA (ksiega Domu). Zbiera sie CO SIEDEM DNI, w staly dzien, takze bez pana; porzadek przy sporze: budowy - Warryn, obrona - Hendry, prawo - Roderyk, reszta - Garrick; rozbieznosc zapisuje sie jako fakt (dwie opinie z data i decyzja). Protokol do pana co tydzien kruk/poczta. Pierwsze posiedzenie z panem: 06-21. ### 06-19 PAN: RAPORT RADY LISTEM DO PANA CO DWA TYGODNIE (sprawy lenna) - cykl RAPORT_RADY_LENNA; posiedzenia dalej co 7 dni.",
+   "co": "RADA LENNA FOSY - POWOLANA (rozkaz pana 06-19; ksztalt z propozycji 300-03-03): PIEC KRZESEL - KANCLERZ GARRICK (przewodniczy pod nieobecnosc pana), RZADCA WARRYN (ziemia, budowy, Kasa 2), KAPITAN HENDRY (druzyna, obrona, brama), MAESTER WYSTAN (wiedza, kruki, lecznictwo), SEDZIA RODERYK (sad grodzki, umowy, spory); na wezwanie: Kessel (Jastrzebie), Orland (spichlerz), Alys i Bran (majordomat), Mella (ludzie), Herwin (glos miasta, bez glosu w lennie). Wywiadu przy tym stole NIE MA (ksiega Domu). Zbiera sie CO SIEDEM DNI, w staly dzien, takze bez pana; porzadek przy sporze: budowy - Warryn, obrona - Hendry, prawo - Roderyk, reszta - Garrick; rozbieznosc zapisuje sie jako fakt (dwie opinie z data i decyzja). Protokol do pana co tydzien kruk/poczta. Pierwsze posiedzenie z panem: 06-21. ### 06-19 PAN: RAPORT RADY LISTEM DO PANA CO DWA TYGODNIE (sprawy lenna) - cykl RAPORT_RADY_LENNA; posiedzenia dalej co 7 dni. ### 06-21: PIERWSZE POSIEDZENIE Z PANEM odbyte - 5 spraw do slowa pana (A-E w dzienniku).",
    "kto": "GARRICK + rada",
    "kanal": "na miejscu; protokol do pana",
    "wraca": "300-06-21",
    "zamyka": "pierwsze posiedzenie i protokol",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-21 - pierwsze posiedzenie odbyte; posiedzenia co 7 dni (dzien wg slowa pana)"
   },
   {
    "data": "300-06-19",

@@ -28,6 +28,12 @@
 
 **Doktryna ustrojowa, obowiązująca:** **LORD NADAJE — MIASTO SĄDZI.**
 
+**⚑ KARTA MIASTA — DOPISKI 300-06-19/20 (nadanie pana, wpis ławy):**
+- **BRAMY:** w pokoju trzyma ława, w wojnie kapitan Fosy (Hendry). Azyl i „powietrze miasta czyni wolnym” bez zmian.
+- **GRANICA MIASTA SŁUPAMI** z pieczęcią miasta i lenna — wewnątrz sądzi ława, poza — sąd grodzki.
+- **PODZIAŁ SĄDÓW (7 punktów Herwina, zgoda pana 300-06-20):** (1) miejsce, nie pochodzenie; (2) krew (zabójstwo, gwałt, podpalenie, bunt) → sąd pana; sprawy Korony → Justycjariusz; (3) regalia pana (myto, przemyt, las, torf, miarka) → sąd pana także w mieście; (4) żołnierz za służbę → kapitan, przeciw mieszczaninowi → sąd miejsca; (5) odwołanie: ława → sąd pana → Justycjariusz; (6) jedna księga skazanych dla obu sądów; (7) miasto rośnie przesuwaniem słupów — na wniosek ławy, nadaniem pana.
+- **Skutek nazwany:** grzywny ławy → kasa miejska; sądu grodzkiego → Kasa 2.
+
 **⚑ PRAWO SKŁADU — NADANE PRZED RADĄ (~300-03-30), jak Król obiecał 300-02-07.** Wniosek złożyło samo miasto, własnym pismem. *(Poprawka 300-04-29 na wskazanie gracza: zapis urwał się na obietnicy; rozstrzygnięcie zapadło, pisarz go nie dopisał — dziura w księdze jest brakiem zapisu, nie zdarzenia, 300-03-15.)* Regale pana (doktryna miasta_polnocy.md); kwoty wpływu brak w zapisie.
 
 **⚠ CECHÓW NIE MA I NIE BĘDZIE** — nie z braku, lecz z nadania: **BRACTWO RZEMIOSŁA WOLNEGO**, `gra/bractwo_rzemiosla_wolnego.md`, nadane 300-02-28 na całe lenno. Miejsce cechu zajmują cztery filary: **Izba Miar i Standardów · Kasa Postępu · otwarty egzamin mistrzowski · Fundusz Samopomocy z cła jakości.** Do tego **azyl** dla wypchniętych przez obce cechy.

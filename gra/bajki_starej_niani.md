@@ -240,4 +240,19 @@
 
 ---
 
+## 13. O MŁOCIE WÓD
+*Spisane 300-06-07 późnym wieczorem, w izbie Niani, w przeddzień wyjazdu na Fosę przez Barrowton. Niania wiedziała, dokąd jadę. „Na Fosę, to opowiem wam, skąd się wzięły te bagna.”*
+
+> Kiedy Pierwsi Ludzie przyszli ze wschodu przez Ramię, z brązem i końmi, dzieci lasu najpierw patrzyły. Potem ludzie zaczęli ścinać drzewa z twarzami, bo myśleli, że to tylko drzewa. I dzieci lasu zrozumiały, że ci przybysze nie przestaną iść.
+>
+> Wtedy ich zielonowidzowie zebrali się razem i przez wiele dni i nocy śpiewali do ziemi. Mówią, że **ściągnęli z nieba młot wód**. Ziemia na Przesmyku pękła, morze weszło w ląd i wszystko, co było suche, zrobiło się mokre. Mówią, że chcieli zalać cały Przesmyk i odciąć północ od południa, tak jak wcześniej odcięli Ramię Dorne.
+>
+> Nie udało im się do końca. Przesmyk nie zatonął. **Został bagnem**, a my mamy dziś Fosę i groble, i to, że nikt z południa nie przeszedł tamtędy wbrew Północy, jeśli Północ tego nie chciała.
+>
+> Mówią też, że nie wszyscy zielonowidzowie wrócili z tego śpiewania. Ziemia wzięła ich w zapłatę.
+
+*Dopisek spisującego:* Niania odłożyła przęślicę i powiedziała do mnie: *„Ziemia tam pamięta, że ktoś ją złamał, panie. Dlatego grobla tonie, jak ktoś buduje bez pytania. A krannogowie wiedzą, gdzie stawiać stopę, bo pytają od tysięcy lat. Wy macie teraz u siebie dwoje ich dzieci. Słuchajcie ich na Fosie bardziej niż mierniczych.”* A po chwili, już łagodniej: *„Szczęśliwej drogi. Opowiecie mi kurhany, jak wrócicie. Mnie już nikt tam nie zawiezie.”*
+
+---
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

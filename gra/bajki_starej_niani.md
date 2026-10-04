@@ -79,7 +79,7 @@
 >
 > A teraz słuchaj, bo to jest najważniejsze. **W Barrowlandach zmarły bez kurhanu to zmarły, który nie skończył drogi.** Leży gdzieś pod cudzym niebem i chodzi. Nie straszy, nie. Chodzi i szuka, gdzie ma się położyć. Dlatego ludzie z Barrowlandów zawsze wracają po swoich. Choćby po kości. Choćby po latach.
 
-*Dopisek spisującego:* Niania postawiła kubek i powiedziała do mnie, nie do dziecka: *„Lady Dustin czeka na kości męża od siedemnastu lat. Obiecaliście jej je, panie. Kiedy wejdziecie pod jej dach, nie mówcie jej, że szukacie. Powiedzcie, gdzie już doszliście. Barrowlandczyk zniesie każde czekanie, byle widział, że droga idzie.”* Potem dodała już łagodniej: *„I nie wchodźcie na Wielki Kurhan. Obcy tam nie wchodzą. Nawet Starkowie.”*
+*Dopisek spisującego:* Niania postawiła kubek i powiedziała do mnie, nie do dziecka: *„Lady Dustin czeka na kości męża od czternastu lat. Obiecaliście jej je, panie. Kiedy wejdziecie pod jej dach, nie mówcie jej, że szukacie. Powiedzcie, gdzie już doszliście. Barrowlandczyk zniesie każde czekanie, byle widział, że droga idzie.”* Potem dodała już łagodniej: *„I nie wchodźcie na Wielki Kurhan. Obcy tam nie wchodzą. Nawet Starkowie.”*
 
 ---
 

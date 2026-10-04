@@ -811,10 +811,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-09 ranek · zima (300)
+- **Data:** 300-06-09 poludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 72 · Zmeczenie 39**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 45**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1726,7 +1726,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-08] `starkowie/ARYA`: Trening z Symonem na podworzu zajazdu (kije, Jorelle pilnuje): piec ruchow mistrza za 'taniec wody' Syria. Chce cwiczyc na kazdym postoju (Jorelle: na kazdym wieczornym).
 - [300-06-08] `dziennik`: 300-06-08 NOC, IZBA WSPOLNA ZAJAZDU (ogien dogasa, przyboczni spia) - SYMON Z MIRA I ARYA. Symon pyta, jak wygladalo to, ze opuscila Krolewska Przystan, kiedy Sansa tam zostala - 'nie musisz…
 - [300-06-08] `starkowie/ARYA`: Rzut 62 - o odejsciu z KP: Syrio z drewnianym mieczem ('biegnij, nie dzis'); stajnia - 'zrobilam cos, czego nie powiem'; ulice; Sept Baelora - Sansa przy Joffreyu, Yoren zakryl jej oczy; o S…
 - [300-06-08] `dziennik`: 300-06-08 NOC, IZBA SYMONA I MIRY W ZAJEZDZIE (Lyra spi, Kamyk w nogach) - SYMON NA OSOBNOSCI DO MIRY: chlopcy Starkow sa wargami, a dwie dziewczyny nosza w sobie traumy. Bez rzutu (zona). M…
@@ -1738,3 +1737,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-08] `dziennik`: 300-06-08 NOC, IZBA WSPOLNA - SYMON ROZMAWIA Z GOSPODYNIA ODA przed snem (ona zmywa kubki, on siedzi przy dogasajacym ogniu). RZUT 24 (prog 50): JEDNA KONSEKWENCJA - zmeczona, mowi malo i os…
 - [300-06-08] `dziennik`: 300-06-08 NOC - ⚑ PAN: MOST PRZY BRODZIE budujemy w ramach T3-C (do Krola z Barrowton). Symon z Mira spac.
 - [300-06-09] `dziennik`: 300-06-09 RANEK (PONIEDZIALEK), ZAJAZD PRZY BRODZIE - SEN RZUT 46: noc przecietna (obcy zajazd, Kamyk szczekal na kota); zdrowie 100, zmeczenie 69->39, sytosc 100->72. POGODA RZUT 64: pogodn…
+- [300-06-09] `dziennik`: 300-06-09 SNIADANIE W ZAJEZDZIE (Symon, Mira, Arya; Lyra na kolanach Miry) - placki z serem od Ody, jajka, mleko. Bez rzutow. Symon placi Odzie (Kasa 1, rachunek Dagona). Arya pyta Ode o mos…

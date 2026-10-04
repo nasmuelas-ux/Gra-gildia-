@@ -7129,6 +7129,24 @@
    "wraca": "300-07-15",
    "zamyka": "Krol wie i odpowiada",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "HOWLAND REED - ZIELONI LUDZIE Z WYSPY TWARZY: czy moga pomoc Branowi i Polnocy; czego Reed sie tam nauczyl; czy mozna ich zapytac przez Edrica. List zamkniety Symona. RZUT przy odpowiedzi.",
+   "kto": "SYMON -> HOWLAND REED",
+   "kanal": "kruk Winterfell-Fosa + poslaniec przy grobli",
+   "wraca": "300-06-25",
+   "zamyka": "odpowiedz Reeda (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-07",
+   "co": "LUCAN -> EDRIC SZUWAR: rada Jojena - nie brac zelaza na brzeg Wyspy Twarzy, nie ciac drzew; dojdzie po przybiciu (~06-17), wazna na powrot albo druga probe. Bez rzutu (przekazanie).",
+   "kto": "SYMON -> LUCAN -> EDRIC",
+   "kanal": "kruk Winterfell-Fosa + jezdziec przez Przesmyk (~10 dni)",
+   "wraca": "300-06-17",
+   "zamyka": "rada przekazana Edricowi (albo jego wiesc przyszla wczesniej)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

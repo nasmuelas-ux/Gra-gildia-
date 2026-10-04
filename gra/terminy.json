@@ -7237,6 +7237,15 @@
    "wraca": "300-06-16",
    "zamyka": "okolnik rozeslany",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-12",
+   "co": "BARROWTON - WAGOWY I PISARZ SKLADU OD DOMU (Hal, na rok, placi miasto Barrowton) + WZOR KSIEGI Z FOSY (Etap I: waga, kwit, stan ziarna, cztery kolumny; odpis przez Garricka). Wlasni - bez rzutu.",
+   "kto": "SYMON -> HAL + GARRICK",
+   "kanal": "list z Fosy (~06-17) do Hala + odpis z Fosy do Barrowton",
+   "wraca": "300-07-05",
+   "zamyka": "wagowy i pisarz w Barrowton + ksiega skladu zalozona",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

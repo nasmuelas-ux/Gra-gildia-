@@ -2612,10 +2612,10 @@
   },
   {
    "data": "przelom marca i kwietnia",
-   "co": "ZIARNO PORTOWE NA POLACH FOSY - ZEGAR NAPIETY BEZ ZAPASU. Odczyt w Bialym Porcie ~300-03-22/24, potem trakt do Fosy kolejne 6-8 dni. Wchodzi w siew, ale nie ma marginesu na drugi sztorm ani na powtorny odczyt. ⚠ JESLI ODCZYT ODRZUCI DUZA CZESC - a w Barrowton odrzucono TRZECIA - nie bedzie juz czasu na trzecie zrodlo. REZERWY, KTORE WTEDY ZOSTAJA I OBIE SA ZLE: wlasna PRZEGRODA SIEWNA FOSY (nietykalna i ma nia pozostac - lord otwierajacy swoja przegrode w pierwszym trudnym tygodniu przestaje byc wiarygodny) oraz wsie Fosy, male partie, drozej i wolniej.",
+   "co": "ZIARNO PORTOWE NA POLACH FOSY - ZEGAR NAPIETY BEZ ZAPASU. Odczyt w Bialym Porcie ~300-03-22/24, potem trakt do Fosy kolejne 6-8 dni. Wchodzi w siew, ale nie ma marginesu na drugi sztorm ani na powtorny odczyt. ⚠ JESLI ODCZYT ODRZUCI DUZA CZESC - a w Barrowton odrzucono TRZECIA - nie bedzie juz czasu na trzecie zrodlo. REZERWY, KTORE WTEDY ZOSTAJA I OBIE SA ZLE: wlasna PRZEGRODA SIEWNA FOSY (nietykalna i ma nia pozostac - lord otwierajacy swoja przegrode w pierwszym trudnym tygodniu przestaje byc wiarygodny) oraz wsie Fosy, male partie, drozej i wolniej. ### 06-12: Namiestnik obejrzy wschody osobiscie na Fosie ~06-17.",
    "kto": "WARRYN / ORLAND / HAL",
    "kanal": "trakt Bialy Port-Fosa",
-   "wraca": "300-06-12",
+   "wraca": "300-06-17",
    "zamyka": "ziarno w skladzie Fosy albo jawne ogloszenie braku przed siewem",
    "status": "otwarte - spust na wynik odczytu ### DATA 06-01: siew minal - stan wschodow ziarna portowego obejrzy Namiestnik osobiscie na Fosie (~06-12)."
   },
@@ -3250,10 +3250,10 @@
   },
   {
    "data": "300-04-02",
-   "co": "SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie. ### 05-18 DECYZJA PANA: MIERZYC SZYBKO, obie strony obserwuja (tryb 04-02). Jezdziec za Cerwynem 05-19, kruk do Dreadfortu 05-19.",
+   "co": "SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie. ### 05-18 DECYZJA PANA: MIERZYC SZYBKO, obie strony obserwuja (tryb 04-02). Jezdziec za Cerwynem 05-19, kruk do Dreadfortu 05-19. ### 06-12: pomiar trwa dzis na granicy; wiesc do Winterfell ~06-15, do pana na Fosie ~06-18.",
    "kto": "CERWYN (Justycjariusz) + DONELLA HORNWOOD + DREADFORT",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-06-12",
+   "wraca": "300-06-18",
    "zamyka": "pomiar wykonany; ugoda albo wyrok",
    "status": "otwarte - pomiar Cerwyna 06-12",
    "sprawdzaj_co": 30
@@ -3492,7 +3492,7 @@
    "kanal": "karta Borsa (kruk Bialy Port-Fosa, Garrick)",
    "wraca": "300-06-12",
    "zamyka": "baszta pod dachem - albo nazwana data i przyczyna",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-12 (zbiorczy Garricka 06-07): pierwsze pietro pod dachem tymczasowym, izba mistrza i sala cwiczen gotowe; Ottar Rudy na miejscu; gorne pietro w kamieniu - kolejka."
   },
   {
    "data": "300-04-06",
@@ -4540,10 +4540,10 @@
   },
   {
    "data": "300-04-27",
-   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34).",
+   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20.",
    "kto": "BRAN -> HALLIS -> JON",
    "kanal": "Hallis na Mur (wyjazd 04-29)",
-   "wraca": "300-06-12",
+   "wraca": "300-06-20",
    "zamyka": "list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem",
    "status": "otwarte"
   },
@@ -5166,7 +5166,7 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec/lodz na Palec",
    "wraca": "300-06-12",
    "zamyka": "lom obejrzany, pierwszy transport kamienia",
-   "status": "otwarte - 05-11: POLECENIE DO FOSY (Garrick wybiera czlowieka i decyduje) - kruk 05-12; czlowiek na Palcu ~05-20/22; Flint w domu ~05-18."
+   "status": "zamkniete 300-06-12 (zbiorczy Garricka): Vard Kilof byl na Palcu (~05-21), bloki wskazane; PIERWSZE TRZY LODZIE Flinta z granitem w Goracym Porcie ~06-05, barkami w gore Goraczki; zaplata wg slupa, czesc w soli; tran i skory fok na targu w Cailin."
   },
   {
    "data": "300-05-11",
@@ -5215,10 +5215,10 @@
   },
   {
    "data": "300-05-13",
-   "co": "KROK 2 - PRZYBICIE NA WYSPE TWARZY (E). Fosa -> Przesmyk -> Dorzecze do Lucana (~10 dni) -> lodz na Oku Boga. Rybacy od wiekow nie przybijaja - RZUT przy przybiciu (sprawa zewnetrzna: wyspa, woda, ludzie Dorzecza). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34).",
+   "co": "KROK 2 - PRZYBICIE NA WYSPE TWARZY (E). Fosa -> Przesmyk -> Dorzecze do Lucana (~10 dni) -> lodz na Oku Boga. Rybacy od wiekow nie przybijaja - RZUT przy przybiciu (sprawa zewnetrzna: wyspa, woda, ludzie Dorzecza). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: w pakiecie brak - wiesc Lucana (rzut 50 juz padl) idzie przez Fose; odczyt na Fosie ~06-17.",
    "kto": "czlowiek z Fosy + LUCAN",
    "kanal": "przez Lucana (Dorzecze)",
-   "wraca": "300-06-12",
+   "wraca": "300-06-17",
    "zamyka": "przybil albo nie - i wiadomo dlaczego",
    "status": "otwarte - rzut 50 rzucony 06-01, rozstrzyga sie przy wiesci przez Lucana"
   },
@@ -5521,10 +5521,10 @@
   },
   {
    "data": "300-05-19",
-   "co": "CERWYN - PRZYSPIESZONY POMIAR GRANICY HORNWOOD/DREADFORT: jezdziec Korony za Justycjariuszem w objezdzie zachodu z pismem Namiestnika - najblizsza data pomiaru (tryb 04-02: dwie pieczecie, pisarz rewizji). Urzednik Korony - bez rzutu na wykonanie; data zalezy od tego, gdzie jest w objezdzie.",
+   "co": "CERWYN - PRZYSPIESZONY POMIAR GRANICY HORNWOOD/DREADFORT: jezdziec Korony za Justycjariuszem w objezdzie zachodu z pismem Namiestnika - najblizsza data pomiaru (tryb 04-02: dwie pieczecie, pisarz rewizji). Urzednik Korony - bez rzutu na wykonanie; data zalezy od tego, gdzie jest w objezdzie. ### 06-12: pomiar trwa dzis na granicy; wiesc do Winterfell ~06-15, do pana na Fosie ~06-18.",
    "kto": "CERWYN (Justycjariusz) <- SYMON",
    "kanal": "jezdziec Korony na zachod (trasa objazdu w kancelarii) i z powrotem - E ~3 dni w jedna strone",
-   "wraca": "300-06-12",
+   "wraca": "300-06-18",
    "zamyka": "data pomiaru od Cerwyna",
    "status": "otwarte - data pomiaru 06-12"
   },
@@ -6358,10 +6358,10 @@
   },
   {
    "data": "300-05-26",
-   "co": "POMIAR GRANICY HORNWOOD/DREADFORT 06-12 - SPOR O PUNKT WYJSCIA: Roose zada pomiaru od starego kamienia Dreadfortu i wg jego mapy; obserwator Halt Szary z pisarzem. Cerwyn rozstrzyga na miejscu (dwie pieczecie, pisarz rewizji); Donella i Larence ze swoja mapa.",
+   "co": "POMIAR GRANICY HORNWOOD/DREADFORT 06-12 - SPOR O PUNKT WYJSCIA: Roose zada pomiaru od starego kamienia Dreadfortu i wg jego mapy; obserwator Halt Szary z pisarzem. Cerwyn rozstrzyga na miejscu (dwie pieczecie, pisarz rewizji); Donella i Larence ze swoja mapa. ### 06-12: pomiar trwa dzis na granicy; wiesc do Winterfell ~06-15, do pana na Fosie ~06-18.",
    "kto": "CERWYN (Justycjariusz)",
    "kanal": "na miejscu",
-   "wraca": "300-06-12",
+   "wraca": "300-06-18",
    "zamyka": "pomiar odbyty, punkt wyjscia rozstrzygniety",
    "status": "otwarte"
   },
@@ -6606,7 +6606,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-26 wieczor) + statek/goniec Kompanii do Seagardu i z powrotem",
    "wraca": "300-06-12",
    "zamyka": "odpowiedz Hala na pismie",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-12 (list Hala, wlasny): przez Seagard i Kompanie - zboze Mallisterow wychodzi morzem do Lys i Braavos po cenach wojennych; GARNIZONY LANNISTEROW (Maidenpool, Darry) karmia sie z rekwizycji i z monety Lwa skupowanej u drobnych lordow nad Zielonymi Widlami; w Maidenpool port przyjmuje statki z Krolewskiej Przystani raz na dwa tygodnie. Hal: 'Lew placi, poki ma czym. Rzeczni lordowie biora, bo nikt inny nie kupuje.'"
   },
   {
    "data": "300-05-26",
@@ -6660,7 +6660,7 @@
    "kanal": "Winterfell",
    "wraca": "300-06-12",
    "zamyka": "ubytek czynszu na pismie",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-12 (Gawen, wlasny): ulga 1/10 dla cwiczacych w rezerwie, wies i miasto razem - przy ~1/3 dymow cwiczacych ubytek ~3% czynszu domeny i Zimowego Miasta; w monecie ~20-35 smokow rocznie (E), reszta w naturze. Gawen: 'Tanio jak na rezerwe.'"
   },
   {
    "data": "300-05-27",
@@ -6700,10 +6700,10 @@
   },
   {
    "data": "300-05-27",
-   "co": "SPICHLERZ ETAP I - ODPOWIEDZI LORDOW NA FORMULARZ (kto zaklada ksiege i od kiedy). JEDEN RZUT na cala fale (zasada 27).",
+   "co": "SPICHLERZ ETAP I - ODPOWIEDZI LORDOW NA FORMULARZ (kto zaklada ksiege i od kiedy). JEDEN RZUT na cala fale (zasada 27). ### 06-12: odpowiedzi w Winterfell dzis; Luwin przesle na Fose - odczyt (rzut) ~06-17.",
    "kto": "LORDOWIE POLNOCY -> ORLAND",
    "kanal": "kruki z lenn",
-   "wraca": "300-06-12",
+   "wraca": "300-06-17",
    "zamyka": "lista lenn z data zalozenia ksiegi (rzut)",
    "status": "otwarte"
   },
@@ -6844,10 +6844,10 @@
   },
   {
    "data": "300-05-30",
-   "co": "KSIEGI RODZINY Z BIALEGO PORTU DO WIEZY STRAZNICZEJ (izba przy Schodach: Gwiazda, Rachunek braavoski, Prawa BP, Rzeki i trakty, Standardy audytu; z atelier - odpisy ksiegi krojow i rejestru probek wg prosby Miry). Wozem Domu przez Cerwyn, Kasa 1; odbiera kasztelan. ### 06-05: w tym samym wozie 4 ksiegi z zakupu Hala (dla biblioteki Domu/urzedu).",
+   "co": "KSIEGI RODZINY Z BIALEGO PORTU DO WIEZY STRAZNICZEJ (izba przy Schodach: Gwiazda, Rachunek braavoski, Prawa BP, Rzeki i trakty, Standardy audytu; z atelier - odpisy ksiegi krojow i rejestru probek wg prosby Miry). Wozem Domu przez Cerwyn, Kasa 1; odbiera kasztelan. ### 06-05: w tym samym wozie 4 ksiegi z zakupu Hala (dla biblioteki Domu/urzedu). ### 06-12: woz w Winterfell dzis (E); potwierdzenie kasztelana na Fosie ~06-17.",
    "kto": "HAL -> KASZTELAN WINTERFELL",
    "kanal": "kruk Winterfell-Bialy Port + woz Domu traktem",
-   "wraca": "300-06-12",
+   "wraca": "300-06-17",
    "zamyka": "skrzynie w bibliotece Wiezy Strazniczej",
    "status": "otwarte"
   },
@@ -6867,7 +6867,7 @@
    "kanal": "jezdziec Dustinport-Fosa + kruk",
    "wraca": "300-06-12",
    "zamyka": "spis imienny",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-12 (jezdziec Donnela -> Fosa -> zbiorczy): spis imienny 226 przyczolka zrobiony - w tym 31 dotad nie wpisanych na liste porcji (z odbitych bez domu, przybywali pojedynczo); porcje wyrownane."
   },
   {
    "data": "300-06-02",
@@ -6916,10 +6916,10 @@
   },
   {
    "data": "300-06-03",
-   "co": "STRAZ GRANICY CYPLA - LISTA IMIENNA ROBETTA przez Galbarta (sklad, liczba ludzi) + STAWKA GAWENA (40 m/dzien na czlowieka, Kasa 3). Odpowiedz na list Krola z 06-03. Bez nowego rzutu - prosba Galbarta, sprawa przyjeta 05-10.",
+   "co": "STRAZ GRANICY CYPLA - LISTA IMIENNA ROBETTA przez Galbarta (sklad, liczba ludzi) + STAWKA GAWENA (40 m/dzien na czlowieka, Kasa 3). Odpowiedz na list Krola z 06-03. Bez nowego rzutu - prosba Galbarta, sprawa przyjeta 05-10. ### 06-12: kruk z Deepwood w Winterfell ~dzis; Luwin przesle na Fose.",
    "kto": "ROBETT -> GALBART -> KROL; GAWEN",
    "kanal": "kruk Deepwood-Winterfell",
-   "wraca": "300-06-12",
+   "wraca": "300-06-17",
    "zamyka": "lista imienna na stole + zold liczony od dnia przyjecia",
    "status": "otwarte"
   },
@@ -7200,7 +7200,7 @@
    "kanal": "kruk Winterfell-Barrowton (2 dni)",
    "wraca": "300-06-12",
    "zamyka": "poczta odczytana w Barrow Hall",
-   "status": "otwarte"
+   "status": "zamkniete 300-06-12 - pakiet Luwina odczytany w Barrow Hall; dalej poczta na Fose."
   },
   {
    "data": "300-06-09",

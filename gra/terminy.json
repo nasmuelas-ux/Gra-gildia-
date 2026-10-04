@@ -7210,6 +7210,24 @@
    "wraca": "300-07-10",
    "zamyka": "Lucan w Winterfell + imie zastepcy w Dorzeczu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-09",
+   "co": "ZIARNO SIEWNE POLNOCNE - Orland: osobna kolumna siewnego; zrodla: zyto ozime, jeczmien i owies krotkiego sezonu (gory, polnoc Dorzecza), wymiana nasion ze spichrzy lordow; Rodwell - kto sprzedaje. Wlasni - bez rzutu.",
+   "kto": "ORLAND + RODWELL (Krol, Gawen)",
+   "kanal": "kruk Barrowton-Winterfell (06-12) + odpowiedz na Fose",
+   "wraca": "300-06-25",
+   "zamyka": "kolumna siewnego w karcie + zrodla i ilosci (E)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-09",
+   "co": "WSPOLNY ZAKUP ZBOZA Z LORDAMI - jeden kontrakt Korony (Rodwell, Gawen), kazdy lord placi swoja czesc po cenie kontraktu, bez marzy; zapotrzebowanie z formularza Etapu I. JEDEN RZUT na odzew lordow.",
+   "kto": "KROL -> LORDOWIE (Rodwell, Gawen)",
+   "kanal": "kruki Krola do lordow (po liscie pana, ~06-15)",
+   "wraca": "300-07-05",
+   "zamyka": "lista lordow w kontrakcie + ilosci",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

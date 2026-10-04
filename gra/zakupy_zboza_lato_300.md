@@ -103,3 +103,9 @@ Plan z liczbą (Orland), kosztem i źródłem monety (Gawen) oraz kanałami (Rod
    - ⚠ **Problem (zasada 8):** nabrzeże Gorącego Portu z dwoma żurawiami (GP-7) jest planowane na **lato 301**, a zboże Reach przyjdzie w **X 300**.
    - **Rozwiązanie:** pomost tymczasowy z drewna i jeden żuraw przy ujściu do **IX 300**. Robi Harlon, płaci Dom, materiał to drewno z kolejki, nie kamień. Mur od morza idzie dalej bez zmian.
 3. **Przetwarzanie towaru z danin w warsztatach Domu:** skóry do garbarzy, wełna do przędzalni i farbiarni (atelier, A-4), ryby do wędzarni, drewno do bednarni i tartaku, sól do warzelni. **Korona płaci Domowi prowizję za obróbkę i sprzedaje drożej.** Gawen i Hal liczą, ile z ⅓ sprzedawanego towaru da się przerobić. Liczba wejdzie do nowej księgi Skarbu (07-05).
+
+---
+
+## LIST PANA Z DROGI, 300-06-09 (do Króla, Gawena i Orlanda; krukiem z Barrowton 06-12)
+1. **Ziarno siewne kupujemy tylko takie, które jest dostosowane do klimatu Północy.** Zboże z Reach jest dobre do jedzenia, ale nie do siewu, bo przywykło do długiego lata. Do siewu potrzebne są odmiany o krótkim sezonie, które znoszą przymrozek: **żyto ozime** (siew w IX, termin Osrica), **jęczmień i owies jare z gór i z północy Dorzecza**. Wymiana nasion ze spichrzy lordów Północy, które dały plon w zeszłym roku. Orland prowadzi osobną kolumnę **ziarna siewnego** i nie miesza go z jadalnym (zasada Spichlerza: siewnego się nie rusza).
+2. **Wspólny zakup z lordami, żeby wszyscy dostali lepszy kontrakt.** Korona zbiera zapotrzebowanie lordów (odpowiedzi na formularz Etapu I przychodzą 06-12) i **kupuje jednym kontraktem**: większa ilość daje lepszą cenę i jedną eskortę. Agencja Rodwella prowadzi zakup, a Gawen rozlicza. **Każdy lord płaci za swoją część**, według ceny z kontraktu i bez marży Korony (cena ogłoszona). Ładunki są rozdzielane według kwitów. Zgoda lordów: **jeden rzut na całą falę** przy odpowiedziach.

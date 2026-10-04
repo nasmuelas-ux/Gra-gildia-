@@ -7624,6 +7624,24 @@
    "wraca": "300-07-05",
    "zamyka": "kosztorys na stole pana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "KANCELARIA LENNA FOSY - URZAD ZAMIAST ZASTEPCY (rozkaz pana 06-19): KANCLERZ GARRICK na czele; REGENT KANCELARII (starszy pisarz - prowadzi kancelarie na co dzien, poczte, ksiegi przychodzace); PISARZE DZIALOW (po jednym: budowy i Kasa 2 - przy Warrynie; ludzie i dniowki - przy Melli; spichlerz - przy Orlandzie; straz i bron - przy Hendrym/Kesselu; szkola - przy Mirze/Mabel); SPRAWCY (referenci - prowadza jedna sprawe od poczatku do konca i melduja regentowi); pisarz grodzki i bramowy - jak sa. Obsade wskazuje GARRICK (zasada 12/42), szuka w OBU SPISACH (zasada 37: rubryki CZYTA/PISZE/LICZY). Kasa 2, koszt E - Warryn. ZASADA 8: ludzi piszacych jest malo - o tych samych biora skryptorium (50 skrybow) i szkola (40 nauczycieli); kancelaria bierze pierwsza, ale tylko po dwoch-trzech na raz.",
+   "kto": "GARRICK",
+   "kanal": "na miejscu",
+   "wraca": "300-07-01",
+   "zamyka": "regent i pisarze dzialow imiennie w ksiedze kancelarii",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "RADA LENNA FOSY - POWOLANA (rozkaz pana 06-19; ksztalt z propozycji 300-03-03): PIEC KRZESEL - KANCLERZ GARRICK (przewodniczy pod nieobecnosc pana), RZADCA WARRYN (ziemia, budowy, Kasa 2), KAPITAN HENDRY (druzyna, obrona, brama), MAESTER WYSTAN (wiedza, kruki, lecznictwo), SEDZIA RODERYK (sad grodzki, umowy, spory); na wezwanie: Kessel (Jastrzebie), Orland (spichlerz), Alys i Bran (majordomat), Mella (ludzie), Herwin (glos miasta, bez glosu w lennie). Wywiadu przy tym stole NIE MA (ksiega Domu). Zbiera sie CO SIEDEM DNI, w staly dzien, takze bez pana; porzadek przy sporze: budowy - Warryn, obrona - Hendry, prawo - Roderyk, reszta - Garrick; rozbieznosc zapisuje sie jako fakt (dwie opinie z data i decyzja). Protokol do pana co tydzien kruk/poczta. Pierwsze posiedzenie z panem: 06-21.",
+   "kto": "GARRICK + rada",
+   "kanal": "na miejscu; protokol do pana",
+   "wraca": "300-06-21",
+   "zamyka": "pierwsze posiedzenie i protokol",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

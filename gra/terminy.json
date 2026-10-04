@@ -7201,6 +7201,15 @@
    "wraca": "300-06-12",
    "zamyka": "poczta odczytana w Barrow Hall",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-09",
+   "co": "LUCAN WRACA JAKO DORADCA - list pana: prosto do Winterfell; zastepce w Dorzeczu (Kompania, Edric/Wyspa Twarzy, Edmure) wskazuje sam. Wlasny - bez rzutu.",
+   "kto": "SYMON -> LUCAN",
+   "kanal": "przyboczny Traktem Krolewskim na Fose (~06-13) + goniec Garricka przez Przesmyk (~06-23)",
+   "wraca": "300-07-10",
+   "zamyka": "Lucan w Winterfell + imie zastepcy w Dorzeczu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -5323,10 +5323,10 @@
   },
   {
    "data": "300-05-14",
-   "co": "NABOR DO SIL LENNA (cel 200) - PIERWSZY MIESIAC: ilu przyszlo, imiennie w ksiedze Hendry'ego. RZUT na odzew (ludzie wolni lenna i przybysze - sprawa zewnetrzna).",
+   "co": "NABOR DO SIL LENNA (cel 200) - PIERWSZY MIESIAC: ilu przyszlo, imiennie w ksiedze Hendry'ego. RZUT na odzew (ludzie wolni lenna i przybysze - sprawa zewnetrzna). ### 06-14: pan w drodze Barrowton->Fosa; odczyt na Fosie ~06-17 (zasada 34).",
    "kto": "HENDRY",
    "kanal": "meldunek zbiorczy Garricka",
-   "wraca": "300-06-14",
+   "wraca": "300-06-17",
    "zamyka": "liczba przyjetych i w szkoleniu",
    "status": "otwarte"
   },
@@ -5872,10 +5872,10 @@
   },
   {
    "data": "300-05-21",
-   "co": "WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEKT STARKPORTU: port, umocnienia, miasto, budynki. Dni Weylina placi KASA 3 (robota Korony; Gawen zapisuje). Wlasny czlowiek - bez rzutu na wykonanie. ### 05-21: przy pomiarze szukac GORACYCH ZRODEL (laznie Slonecznego Azylu); inaczej ogrzewanie torfem/drewnem spod podlogi. Miejsce na SKLADY OLEJU I TRANU osobno, za murem ogniowym, nad woda. ### 06-05: brak kanalu z Kamiennego Brzegu na dzis - potwierdzenie przybycia Weylina z meldunkiem Corwina o punkcie ognia (~06-14).",
+   "co": "WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEKT STARKPORTU: port, umocnienia, miasto, budynki. Dni Weylina placi KASA 3 (robota Korony; Gawen zapisuje). Wlasny czlowiek - bez rzutu na wykonanie. ### 05-21: przy pomiarze szukac GORACYCH ZRODEL (laznie Slonecznego Azylu); inaczej ogrzewanie torfem/drewnem spod podlogi. Miejsce na SKLADY OLEJU I TRANU osobno, za murem ogniowym, nad woda. ### 06-05: brak kanalu z Kamiennego Brzegu na dzis - potwierdzenie przybycia Weylina z meldunkiem Corwina o punkcie ognia (~06-14). ### 06-14: pan w drodze Barrowton->Fosa; odczyt na Fosie ~06-17 (zasada 34).",
    "kto": "SYMON -> WEYLIN (Fosa)",
    "kanal": "kruk Winterfell-Fosa (05-21) + droga Fosa-Kamienny Brzeg (E: tygodnie)",
-   "wraca": "300-06-14",
+   "wraca": "300-06-17",
    "zamyka": "Weylin na miejscu (E ~06-05); pomiar na stole (data od Weylina)",
    "status": "otwarte"
   },
@@ -6925,10 +6925,10 @@
   },
   {
    "data": "300-06-03",
-   "co": "KAMIENNY BRZEG - PUNKT OGNIA: ser Corwin wskazuje miejsce (widzi najblizszy punkt Gloverow, uzgodnione z Robettem), imiona straznikow z jego piecdziesieciu, dzien pierwszego zapalenia. Stawka Korony z Kasy 3 (Gawen dopisuje). Bez rzutu (wlasny).",
+   "co": "KAMIENNY BRZEG - PUNKT OGNIA: ser Corwin wskazuje miejsce (widzi najblizszy punkt Gloverow, uzgodnione z Robettem), imiona straznikow z jego piecdziesieciu, dzien pierwszego zapalenia. Stawka Korony z Kasy 3 (Gawen dopisuje). Bez rzutu (wlasny). ### 06-14: pan w drodze Barrowton->Fosa; odczyt na Fosie ~06-17 (zasada 34).",
    "kto": "SYMON -> CORWIN; ROBETT; GAWEN",
    "kanal": "kruk Winterfell-Deepwood + jezdziec Gloverow; meldunek ta sama droga",
-   "wraca": "300-06-14",
+   "wraca": "300-06-17",
    "zamyka": "punkt ognia Kamiennego Brzegu w lancuchu, imiennie",
    "status": "otwarte"
   },
@@ -6943,10 +6943,10 @@
   },
   {
    "data": "300-06-03",
-   "co": "OGLOSZENIE KROLA O WPINACH do panow wybrzeza (Glover, Tallhart, Dustin, Mormont, Flint, Corwin, Torren) - kruki 06-04 rano. Odzew panow (szczegolnie Flint: honor, nie zold) - JEDEN RZUT na cala fale przy odpowiedziach.",
+   "co": "OGLOSZENIE KROLA O WPINACH do panow wybrzeza (Glover, Tallhart, Dustin, Mormont, Flint, Corwin, Torren) - kruki 06-04 rano. Odzew panow (szczegolnie Flint: honor, nie zold) - JEDEN RZUT na cala fale przy odpowiedziach. ### 06-14: pan w drodze Barrowton->Fosa; odczyt na Fosie ~06-17 (zasada 34).",
    "kto": "KROL -> PANOWIE WYBRZEZA",
    "kanal": "kruki z wiezy Luwina; do Palca przez Fose + lodz",
-   "wraca": "300-06-14",
+   "wraca": "300-06-17",
    "zamyka": "odpowiedzi panow (rzut) + pierwsze imiona do wpinow z meldunku Robetta",
    "status": "otwarte"
   },
@@ -7033,10 +7033,10 @@
   },
   {
    "data": "300-06-06",
-   "co": "PRZERZUT Z KOMOR - WYKONANIE: Zimowe Miasto (wozy, kasztelan, wydawanie wg kart) i Sigrun (lodz Torrena przez Dustinport). Meldunek Orlanda: ile wydano, ile zostalo w komorach. Wlasne - bez rzutu.",
+   "co": "PRZERZUT Z KOMOR - WYKONANIE: Zimowe Miasto (wozy, kasztelan, wydawanie wg kart) i Sigrun (lodz Torrena przez Dustinport). Meldunek Orlanda: ile wydano, ile zostalo w komorach. Wlasne - bez rzutu. ### 06-14: pan w drodze Barrowton->Fosa; odczyt na Fosie ~06-17 (zasada 34).",
    "kto": "ORLAND + KASZTELAN; TORREN",
    "kanal": "Winterfell; kruk Winterfell-Fosa-Dustinport",
-   "wraca": "300-06-14",
+   "wraca": "300-06-17",
    "zamyka": "luka przednowku zamknieta + zboze u Sigrun",
    "status": "otwarte"
   },
@@ -7318,6 +7318,15 @@
    "wraca": "300-08-15",
    "zamyka": "odpis w bibliotece Fosy + egzemplarz dla Barrow Hall",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-14",
+   "co": "KARTA II DONNELA (pisana 06-08) - przechodzi przez Fose; odczyt na Fosie ~06-17.",
+   "kto": "DONNEL -> GARRICK -> SYMON",
+   "kanal": "jezdziec Dustinport-Fosa",
+   "wraca": "300-06-17",
+   "zamyka": "karta odczytana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -7450,7 +7459,7 @@
     "dzien_miesiaca": 8
    },
    "opoznienie": 6,
-   "ostatnio_odebrane": "300-05-08",
+   "ostatnio_odebrane": "300-06-08",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

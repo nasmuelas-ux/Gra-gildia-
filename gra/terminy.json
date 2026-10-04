@@ -7479,15 +7479,33 @@
    "kanal": "na miejscu",
    "wraca": "300-06-22",
    "zamyka": "umowa pozyczki z miastem albo rezygnacja",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-19 - DECYZJA PANA: POZYCZKA DOMU (Kasa 1) DLA KASY MIEJSKIEJ CAILIN NA 0,5% ROCZNIE, splata z czynszow kamienic; kamienice miejskie/mieszczanskie; dzialki z losu lawy. Kwote i termin splaty licza HAL i HERWIN z lawa (wycena kamienicy kanalowej - E do Hala)."
   },
   {
    "data": "300-06-19",
-   "co": "FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzie twierdzy. Projekt: WEYLIN (inzynier zamkowy; dzis na Kamiennym Brzegu - po powrocie ~VII) + Orbelo; mur = LENNO (Kasa 2, regula 'pod ziemia i mur'). ZASADA 8 (Herwin): kto trzyma bramy miasta - pokoj: lawa, wojna: Hendry; ma to stac w karcie miasta, bo karta daje azyl i 'powietrze miasta czyni wolnym'. DO DECYZJI PANA: zapis w karcie.",
+   "co": "FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzie twierdzy. Projekt: WEYLIN (inzynier zamkowy; dzis na Kamiennym Brzegu - po powrocie ~VII) + Orbelo; mur = LENNO (Kasa 2, regula 'pod ziemia i mur'). ZASADA 8 (Herwin): kto trzyma bramy miasta - pokoj: lawa, wojna: Hendry; ma to stac w karcie miasta, bo karta daje azyl i 'powietrze miasta czyni wolnym'. DO DECYZJI PANA: zapis w karcie. ### 06-19 DECYZJA PANA: BRAMY MIASTA - W POKOJU LAWA, W WOJNIE HENDRY; dopisek do karty miasta (lord nadaje, lawa wpisuje).",
    "kto": "SYMON -> WEYLIN + HERWIN + HENDRY",
    "kanal": "na miejscu; Weylin po powrocie",
    "wraca": "300-07-15",
    "zamyka": "obrys polaczenia na rysunku + zapis o bramach w karcie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%.",
+   "kto": "HAL + HERWIN SZALA + lawa",
+   "kanal": "list pana do Hala (poczta BP) + na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "umowa pozyczki podpisana, kwota i termin na slupie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-19",
+   "co": "KARTA MIASTA CAILIN - DOPISEK O BRAMACH (nadanie pana 06-19): w pokoju bramy miasta trzyma lawa, w wojnie - kapitan Fosy (Hendry); azyl i 'powietrze miasta czyni wolnym' bez zmian. Lawa wpisuje i wiesza na slupie.",
+   "kto": "HERWIN + lawa; pisarz grodzki",
+   "kanal": "na miejscu",
+   "wraca": "300-06-26",
+   "zamyka": "dopisek w karcie i na slupie",
    "status": "otwarte"
   }
  ],

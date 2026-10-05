@@ -921,10 +921,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-21 popoludnie · zima (300)
+- **Data:** 300-06-21 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 58**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 64**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1943,7 +1943,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-21] `lenno/HENDRY`: 06-21: rozkaz pana - murowane koszary dla zolnierzy i rekrutow; Hendry z Warrynem i Harlonem - projekt/kosztorys 07-05; pyta o stan tymczasowy rekrutow.
 - [300-06-21] `dziennik`: 300-06-21 POPOLUDNIE, TWIERDZA - SYMON: najpierw mur (Goracy Port), kamien po zniwach; zolnierze stali moga mieszkac w swoich domach. Bez rzutu. HENDRY od razu przestawia w glowie: 'To zwaln…
 - [300-06-21] `lenno/HENDRY`: 06-21: pan - mur GP pierwszy, koszary po zniwach; stali w domach. Hendry: rekruci do suchych prycz w twierdzy od dzis; dziesiatka dyzurna stale w twierdzy.
 - [300-06-21] `dziennik`: 300-06-21 POPOLUDNIE, TWIERDZA - ⚑ SYMON: (1) garnizon Goracego Portu mieszka tam na stale albo jest tam skoszarowany; (2) zolnierze dostaja mieszkania sluzbowe i dodatki. Bez rzutu. HENDRY:…
@@ -1955,3 +1954,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-21] `poprawki`: 300-06-21 POPRAWKA (wskazanie gracza): 'powinnosc wobec pana' znaczy: ZA CWICZENIA LENNO PLACI (dniowka + chleb), ZA WEZWANIE DO WALKI W WYNIKU ZAGROZENIA - NIE. Moj odczyt 'ruszenie bez dni…
 - [300-06-21] `dziennik`: ⚠ 300-06-21 POPRAWKA (wskazanie gracza): 'powinnosc wobec pana' znaczy: ZA CWICZENIA LENNO PLACI (dniowka + chleb), ZA WEZWANIE DO WALKI W WYNIKU ZAGROZENIA - NIE. Moj odczyt 'ruszenie bez d…
 - [300-06-21] `dziennik`: 300-06-21 WIECZOR, KWATERA KAPITANA - SYMON doprecyzowuje: za cwiczenia placimy, za wezwanie do walki w wyniku zagrozenia - nie. Bez rzutu. HENDRY skresla linijke i wpisuje nowa: 'Tak jest p…
+- [300-06-21] `dziennik`: 300-06-21 WIECZOR, FOSA - KOLACJA (Symon - wciaz w kolczudze, Mira, Arya; Lyra na kolanach Miry). Nelda: smazony okon, kasza z grzybami, chleb, rzodkiew, kwasne mleko, piwo. Zmeczenie 58->64…

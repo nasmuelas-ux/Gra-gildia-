@@ -5332,7 +5332,7 @@
   },
   {
    "data": "300-05-14",
-   "co": "REZERWA LENNA I SZKOLENIE - Hendry zaczyna tworzyc rezerwe (pospolite ruszenie lenna: spis przy ruszeniu, dni cwiczen); obecny garnizon szkoli. Spojnosc z planem rezerwy Korony (Osric ~05-24). ### 06-19 HENDRY: spis ruszenia po sianokosach (wsie przy kosach) - ~07-25.",
+   "co": "REZERWA LENNA I SZKOLENIE - Hendry zaczyna tworzyc rezerwe (pospolite ruszenie lenna: spis przy ruszeniu, dni cwiczen); obecny garnizon szkoli. Spojnosc z planem rezerwy Korony (Osric ~05-24). ### 06-19 HENDRY: spis ruszenia po sianokosach (wsie przy kosach) - ~07-25. ### 06-21: PLAN SPISANY - gra/plan_druzyny_i_ruszenia_fosy_300_06.md (druzyna zawodowa, rekruci, proba co pol roku, szkola dowodzenia, ruszenie lenna).",
    "kto": "HENDRY + (Osric - wzor)",
    "kanal": "meldunek zbiorczy Garricka",
    "wraca": "300-07-25",
@@ -8148,6 +8148,15 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "program rekrutow ruszyl; pierwsza proba ~10-01",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "SZKOLA DOWODZENIA DRUZYNY FOSY (rozkaz pana 06-21: 'ucz ich tez dowodzenia, ten co sie nadaje - to oni beda dowodzic pospolitym ruszeniem'). Plan: gra/plan_druzyny_i_ruszenia_fosy_300_06.md pkt 7-8: trzy szczeble (starszy zolnierz / dziesietnik / setnik), kazdy dziesietnik ma STALA dziesiatke ruszenia (z jednej wsi) + zastepce ze wsi; rachunek E: 500 ruszenia = 50 dziesietnikow + 5 setnikow z ~200 stalych. Pierwszy kurs dziesietnika ruszenia - VIII (po spisie ruszenia ~07-25). OTWARTE DO SLOWA PANA: (1) ruszenie dobrowolne-platne czy powinnosc; (2) dodatek dowodczy; (3) bron w chacie - wlocznia+luk czy wlocznia+kusza. Wlasni - bez rzutu.",
+   "kto": "HENDRY",
+   "kanal": "na miejscu",
+   "wraca": "300-07-25",
+   "zamyka": "spis ruszenia + lista kandydatow na dziesietnikow ruszenia",
    "status": "otwarte"
   }
  ],

@@ -4,6 +4,7 @@
 *Status: **projekt** — kolejność Miry przyjęta jako propozycja; budowa wg kolejności wydatków Warryna (a–e) i progu rady (ponad 50 smoków — pieczęć pana). **Kwot z głowy nie ma** (zasada 43): kosztorysy — Warryn (lenno) i Hal (Dom). Liczby ludzi — E.*
 
 **Wspólne zasady wszystkich pięciu** (z projektu Cailin i doświadczenia Fosy):
+- **⚑ ŚWIECKIE — BEZ WIARY** (wola pana, 06-23): wszystkie pięć prowadzi Dom Tally albo lenno, nie septa ani gaj. Kto chce się modlić — kapliczka Siedmiu na rozstajach i gaj są obok; domy nie pytają o wiarę i jej nie uczą. Owen — wzór i rada, nie zarząd.
 - **Kamień na dole, drewno u góry, wapno na drewnie** (bielenie — ustawa budowlana ławy 06-26); **piec pod podłogą, kominy w kamieniu**; ogień zawsze za kanałem albo na kamieniu.
 - **Na suchym, z dala od stojącej wody** (gorączka); **woda pita gotowana**; **izba chorych osobno** (Nina).
 - **Każde drzwi mają księgę z imieniem** — kto wszedł, kiedy, co dostał. *Jałmużna bez księgi to łaska; z księgą — urząd, który da się sprawdzić.*
@@ -45,7 +46,7 @@
 - **Miejsce:** **obok szkoły** — dziecko przechodzi z sypialni do ławy przez jedno podwórze; dalej od karczm i portu.
 - **Budynek:** dom piętrowy — parter kamienny (kuchnia, izba jadalna, izba chorych osobno), piętro z bali bielonych — **sypialnie po 8 łóżek** (E, chłopcy / dziewczęta osobno), izba opiekunki przy schodach. **Każde dziecko ma własne łóżko, skrzynkę z imieniem i miejsce przy stole** (zasada domu dla każdego, 06-19 — izba na wyłączność dla dorosłych; dla dziecka — łóżko na wyłączność).
 - **Zasady:** dach, miska, szkoła; **imię i skąd do księgi** (żeby rodzina mogła kiedyś znaleźć — prawo o zaginionych); rodzeństwo **nie rozdzielane**; od dwunastego roku — **nauka fachu** (Bractwo, szwalnia Miry, kancelaria, drużyna) i **ścieżka wychowanków Domu** dla zdolnych.
-- **Obsada:** **opiekunka z Białego Portu wskazana przez Owena** (list do Owena już poszedł 06-22 — pytanie dopisze Mira), dwie pomocnice z Cailin.
+- **Obsada:** **opiekunka świecka** (z Cailin albo z Białego Portu; Mira pyta Owena o radę i o kobietę z doświadczeniem z jego sierocińca — nie o septę), dwie pomocnice z Cailin.
 - **Kasa:** **Dom (Kasa 1) — jałmużna Domu** („chleb · zima · wdowy · nauka”), szkoła — lenno.
 - **Pierwsze dzieci:** z listy Miry z przedmieścia (06-22) — m.in. **Tilda** (siostra Willema, jeśli brat trafi na roboty albo dalej).
 - **Zasada 8:** wiara — Owen jest Siedmiu, połowa dzieci starych bogów; **dom nie wybiera wiary za dziecko** (na Fosie dwie wiary obok siebie — kapliczka Siedmiu i gaj).

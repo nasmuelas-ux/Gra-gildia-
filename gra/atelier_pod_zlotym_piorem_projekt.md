@@ -51,7 +51,7 @@ Ciąg technologiczny od surowej obróbki i farbowania na dole, przez masową szw
 - **Sieć parowa Cailin jeszcze nie istnieje.** W projekcie Cailin rozdział IX „Ciepło i para” jest **PUSTY**, a para pod ulicami to dopiero etap IV. Do tego czasu budynek grzeje własnym piecem pod podłogą, z kominami w bazalcie (ta sama klauzula ogniowa co w Pomarańczowym Dworze).
 - **Szkło z Myr:** wycena i czas dostawy przyjdą od Hala 05-27.
 - **Pomarańczowy Dwór,** obok którego stanąłby budynek, ma w kolejce Warryna termin 301/302 (E).
-- **Doktryna stroju** jest zgodna z `struktura_domu_tally.md`: *„Poznasz ich po porządku, nie po blasku”*. Pomarańcz jest znakiem, a nie tłem.
+- **Doktryna stroju** jest zgodna z `rod_tally.md` (Zasada stroju; do 300-06-22 w `struktura_domu_tally.md`): *„Poznasz ich po porządku, nie po blasku”*. Pomarańcz jest znakiem, a nie tłem.
 - **Sukno z Reach** przez Gorący Port i przewłokę jest zgodne z linią Króla: Reach jest klientem przewłoki.
 - „Lady Mikii” na poziomie 3 to pomyłka w pisowni; chodzi o atelier Lady Tally, czyli Miry.
 

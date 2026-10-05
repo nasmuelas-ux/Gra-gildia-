@@ -8383,6 +8383,33 @@
    "wraca": "300-07-01",
    "zamyka": "tabliczka Izby Riversa w szkole na pierwsza lekcje 07-01; zeszyt po powrocie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "PIECIORO DRZWI (projekt Miry, wola pana 06-23: zapisac i zaprojektowac kazdy; gra/projekt_pieciu_drzwi_cailin_300_06.md): (1) DOM PIERWSZEJ NOCY przy grobli (3 noce raz w roku, ~2x20 prycz E, ksiega przybyszow przy drzwiach; LENNO) + (4) DOM DLA SIEROT przy szkole (lozko na wylacznosc, rodzenstwo razem, imie i skad do ksiegi; DOM - Kasa 1) - MIEJSCE I KOSZTORYS: Bran + Alys (budynki, miejsce na suchym), Warryn (lenno), Hal (Dom), Roderyk (ksiega). Budowa przed zima. Wlasni - bez rzutu.",
+   "kto": "BRAN + ALYS + WARRYN + HAL (nadzor MIRA)",
+   "kanal": "na miejscu; kruk do Hala",
+   "wraca": "300-07-05",
+   "zamyka": "miejsca i kosztorysy (1) i (4) na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "PIECIORO DRZWI (projekt Miry, wola pana 06-23: zapisac i zaprojektowac kazdy; gra/projekt_pieciu_drzwi_cailin_300_06.md): (4) OPIEKUNKA DOMU SIEROT - pytanie do septona OWENA (wzor jego sierocinca): Mira dopisuje do korespondencji z Owenem (list Symona poszedl 06-22 - drugi list Miry kurierem Domu). Wola Owena / kobiety - RZUT przy odpowiedzi.",
+   "kto": "MIRA -> OWEN",
+   "kanal": "kurier Domu Fosa-Bialy Port",
+   "wraca": "300-07-20",
+   "zamyka": "opiekunka wskazana albo odmowa",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "PIECIORO DRZWI (projekt Miry, wola pana 06-23: zapisac i zaprojektowac kazdy; gra/projekt_pieciu_drzwi_cailin_300_06.md): (2) KOCIOL ZIMOWY - rejestr potrzeby (rachmistrz reliefu Domu dla Fosy + Mella) do X; wydawanie od pierwszego mrozu; Kasa 1 (jalmuzna Domu). (3) SZKOLA WIECZORNA dla doroslych - po sianokosach (VIII), izby szkoly, 2 wieczory, liczenie/litery/prawo na glos; lenno. (5) LAZNIA - po szklarniach (301 E); do tego czasu balie i ciepla woda przy barakach (Nina). Wlasni - bez rzutu.",
+   "kto": "MIRA + rachmistrz reliefu + MABEL + NINA",
+   "kanal": "na miejscu",
+   "wraca": "300-08-15",
+   "zamyka": "szkola wieczorna ruszyla; rejestr kotla zalozony",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

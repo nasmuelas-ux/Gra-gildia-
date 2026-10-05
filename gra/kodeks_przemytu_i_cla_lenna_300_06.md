@@ -40,3 +40,25 @@ Pan **przedkłada Królowi** te same stopnie dla cła Korony: potrójne cło i w
 6. **PRĘGIERZ.** W Cailin go nie ma. Postawić przy wadze (miasto, za zgodą ławy) albo pod bramą Fosy (sąd grodzki).
 
 *Zaświadcza RODERYK, sędzia grodzki. Pieczęć pana (część A).*
+
+---
+
+## ROZSTRZYGNIĘCIE PANA (300-06-23, przed południem)
+1. ⚑ **Przy zbożu i broni rozstrzyga MOTYW, nie ilość.** Przemyt **dla zysku albo na handel**, zwłaszcza do wroga, oznacza **szubienicę**. Przemyt **z nędzy, dla własnej rodziny** sąd grodzki osądza jak drobny przemyt (grzywna i ciężkie prace). *(Formuła sędziego Roderyka spisana z woli pana. Motyw orzeka sąd, a wyrok na gardło zatwierdza pan, bo to sprawa zastrzeżona.)*
+2. ⚑ **Szubienica z katem.** Lenno potrzebuje kata, którego wskaże Roderyk z Hendrym. *Roderyk: „Odstępstwo od zwyczaju miecza będzie komentowane. Niech pan wie o tym z góry.”*
+3. ⚑ **Na bagnach przewagę mają Jastrzębie**, bo to ich teren. Obserwują z ukrycia i dają strzały ostrzegawcze. *Pan: „Jeśli przemytnicy zaczną ginąć, to w końcu przestaną.”* Kessel przyjmuje.
+4. ⚑ **Zamiast lochu, do czasu jego budowy, zsyłka na MUR.** Skazanych zabiera kolumna Umbera albo oddział Hallisa, na kwit odbioru Nocnej Straży.
+   - *Roderyk:* zsyłka na Mur kończy się przysięgą na całe życie. Doczasowy jest brak lochu, a nie kara. Kto raz pojedzie, nie wraca.
+5. ⚑ **Celnik albo poborca, który przyjmie łapówkę, płaci dziesięciokrotność łapówki i traci urząd.**
+6. ⚑ **Pręgierza nie ma.** Zastępują go **ciężkie prace**: grobla, łom Gorącego Portu, torf. *(Odczyt prowadzącego: punkt 6 rozumiem jako zastąpienie pręgierza, a gracz może to poprawić.)*
+
+**Kary po rozstrzygnięciu (część A):**
+- drobny przemyt: wysoka grzywna i ciężkie prace;
+- luksus i inne towary: konfiskata towaru, wozów i łodzi, wygnanie z zakazem wstępu;
+- zboże i broń dla zysku: szubienica z katem;
+- zboże i broń z nędzy: grzywna i ciężkie prace;
+- obejście myta: potrójne myto i grzywna;
+- zjazd ze szlaku: konfiskata wszystkiego;
+- przekupstwo: przepadek towaru i zsyłka na Mur (do czasu lochu);
+- ucieczka i recydywa: zsyłka na Mur (do czasu lochu);
+- przekupny celnik: dziesięciokrotność i utrata urzędu.

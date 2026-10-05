@@ -8287,12 +8287,12 @@
   },
   {
    "data": "300-06-23",
-   "co": "KODEKS PRZEMYTU I CLA LENNA - CZESC A (prawo pana: myto lenna, regale, woda) - rozkaz pana 06-23, spisany: gra/kodeks_przemytu_i_cla_lenna_300_06.md. Drobny przemyt - wysoka grzywna + pregierz; luksus i inne - konfiskata towaru, wozow, lodzi/statkow + wygnanie z zakazem wstepu; ZBOZE I BRON - SMIERC PRZEZ POWIESZENIE; obejscie myta - potrojne myto + wysoka grzywna; zjazd ze szlaku - konfiskata wszystkiego; przekupstwo - przepadek + loch; ucieczka/recydywa - loch. Ogloszenie 06-24 z prawem wody; obowiazuje od 07-01. DO SLOWA PANA (uwagi wykonawcow): (1) prog dla zboza/broni (Roderyk); (2) szubienica z katem czy miecz z reki pana (zwyczaj Polnocy); (3) Kessel - opor przy abordazu przemytnikow zboza; (4) loch - postawic albo praca na grobli w kajdanach; (5) kara dla celnika/poborcy, ktory wezmie (Rorik); (6) pregierz - gdzie.",
+   "co": "KODEKS PRZEMYTU I CLA LENNA - CZESC A (prawo pana: myto lenna, regale, woda) - rozkaz pana 06-23, spisany: gra/kodeks_przemytu_i_cla_lenna_300_06.md. Drobny przemyt - wysoka grzywna + pregierz; luksus i inne - konfiskata towaru, wozow, lodzi/statkow + wygnanie z zakazem wstepu; ZBOZE I BRON - SMIERC PRZEZ POWIESZENIE; obejscie myta - potrojne myto + wysoka grzywna; zjazd ze szlaku - konfiskata wszystkiego; przekupstwo - przepadek + loch; ucieczka/recydywa - loch. Ogloszenie 06-24 z prawem wody; obowiazuje od 07-01. DO SLOWA PANA (uwagi wykonawcow): (1) prog dla zboza/broni (Roderyk); (2) szubienica z katem czy miecz z reki pana (zwyczaj Polnocy); (3) Kessel - opor przy abordazu przemytnikow zboza; (4) loch - postawic albo praca na grobli w kajdanach; (5) kara dla celnika/poborcy, ktory wezmie (Rorik); (6) pregierz - gdzie. ### 06-23 PAN ROZSTRZYGNAL 6 UWAG: (1) MOTYW, nie ilosc - dla zysku/handlu (zwl. do wroga) szubienica, z nedzy dla rodziny - grzywna + ciezkie prace (formula Roderyka; wyrok na gardlo - pan zatwierdza); (2) SZUBIENICA Z KATEM - kat do wskazania (Roderyk+Hendry); (3) Jastrzebie obserwuja z ukrycia, strzaly ostrzegawcze - 'jak zaczna ginac, przestana'; (4) do czasu lochu - ZSYLKA NA MUR (kolumna Umbera/oddzial Hallisa, kwit Strazy; dozywocie przysiegi); (5) przekupny celnik/poborca - 10-krotnosc + utrata urzedu; (6) pregierza nie ma - CIEZKIE PRACE (grobla, lom GP, torf) [odczyt GM]. Ogloszenie 06-24 z prawem wody; od 07-01.",
    "kto": "RODERYK + KESSEL + RORIK <- SYMON",
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "odpowiedzi pana na 6 uwag + ogloszenie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-23 - rozstrzygniete; ogloszenie 06-24, obowiazuje od 07-01"
   },
   {
    "data": "300-06-23",
@@ -8301,6 +8301,24 @@
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-07-08",
    "zamyka": "decyzja Krola o karach celnych",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "KAT LENNA - DO WSKAZANIA (kodeks przemytu 06-23: szubienica z katem): Roderyk + Hendry; oraz SZUBIENICA - miejsce (pod brama Fosy, sad grodzki). Odstepstwo od zwyczaju miecza - bedzie komentowane (Roderyk). Wlasni - bez rzutu.",
+   "kto": "RODERYK + HENDRY",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "kat imiennie w obsadzie sadu grodzkiego + miejsce szubienicy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "ZSYLKA NA MUR ZAMIAST LOCHU (kodeks 06-23, do czasu budowy lochu): uzgodnic z Nocna Straza tryb przyjmowania skazanych z lenna (Hallis na Murze / Czarny Zamek) i transport - kolumna Umbera (dwie na kwartal) albo eskorta Jastrzebi do Ostatniego Domostwa. Kwit odbioru Strazy do ksiegi skazanych. Pismo sadu grodzkiego przez Winterfell (Luwin) do Hallisa/Clydasa. Odpowiedz Strazy - RZUT.",
+   "kto": "RODERYK -> HALLIS/CLYDAS",
+   "kanal": "kruk Fosa-Winterfell-Czarny Zamek",
+   "wraca": "300-07-20",
+   "zamyka": "tryb przyjecia skazanych przez Straz",
    "status": "otwarte"
   }
  ],

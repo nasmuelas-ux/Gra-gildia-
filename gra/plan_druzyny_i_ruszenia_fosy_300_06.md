@@ -124,7 +124,7 @@ Każdy żołnierz stały, także dziesiętnik, co pół roku przechodzi próbę:
 - **tydzień jesienią po żniwach (IX/X)**: szyk, ruszenie na sygnał, marsz do wieży ognia i na groblę;
 - pierwszy dzień ćwiczeń po spisie (VIII).
 
-**Broń przy chacie:** wzorem Korony włócznia (i łuk) w chacie, a reszta w **skrzyni wsi** pod spisem i kwitem, u starszego wsi albo przy wieży ognia.
+**Broń przy chacie:** ⚑ **włócznia i łuk** w chacie (06-21), a reszta w **skrzyni wsi** pod spisem i kwitem, u starszego wsi albo przy wieży ognia.
 
 **Ruszenie na sygnał:** łańcuch ogni, róg i dzwon. Zbiórka w ciągu jednego dnia przy najbliższej wieży albo pod bramą Fosy.
 
@@ -164,7 +164,9 @@ Dla porównania stawka z kursu: żołd zbrojnego to 40 miedziaków dziennie (eko
 
 ---
 
-## OTWARTE: DO SŁOWA PANA
-1. **Ruszenie lenna: dobrowolne i płatne** (dniówka, ulga, jak u Korony), **czy powinność lenna** (obowiązek wobec pana, bez dniówki)?
-2. **Dodatek dowódczy** dla dziesiętnika i setnika ruszenia: tak czy nie? Kwotę poda Warryn.
-3. **Broń w chacie ruszenia lenna:** włócznia i łuk jak u Korony, czy **włócznia i kusza**, bo kusza jest bronią lenna?
+## ROZSTRZYGNIĘCIE PANA (300-06-21, wieczór)
+1. ⚑ **Ruszenie lenna to POWINNOŚĆ WOBEC PANA.** Nie jest dobrowolne i nie dostaje dniówki, inaczej niż rezerwa Korony. Spis obejmuje każdego zdolnego mężczyznę lenna od 16 do 50 lat. Dni ćwiczeń są obowiązkowe.
+   - *Hendry (w zakresie rady, poniżej progu 50):* w dzień ćwiczeń **chleb z wiktu twierdzy**. „Powinność nie znaczy głodny.”
+   - *Zasada 8 (Hendry):* przy Przesmyku ludzie znają plan Korony („u Króla płacą za dzień”). Lenno musi wytłumaczyć różnicę na słupie: powinność daje ochronę pana, ziemię lenna i sąd pana, a nie dniówkę.
+2. ⚑ **Dodatek dowódczy: TAK.** Dostaje go dziesiętnik i setnik ruszenia (z drużyny) oraz zastępca ze wsi. Kwotę poda Warryn 07-05.
+3. ⚑ **Broń w chacie: WŁÓCZNIA I ŁUK**, wzorem Korony. Przy każdej wsi tarcza do strzelania, a reszta kompletu w skrzyni wsi. Kusza zostaje bronią drużyny i Jastrzębi.

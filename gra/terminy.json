@@ -8098,11 +8098,11 @@
   },
   {
    "data": "300-06-21",
-   "co": "PROPOZYCJA ARYI DO KROLA - SLOWO O LANNISTERACH (przedlozona listem Namiestnika z Fosy 06-21; PREROGATYWA KROLA, zasada 22 - Namiestnik przedklada, nie wdraza): Krol przy lordach mowi na glos, ze Eddard Stark byl niewinny i ze jego zabojcy NIE SA przyjaciolmi Polnocy, nawet bez wojny; nikt z Polnocy nie przyjmuje od nich podarkow ani nie jezdzi na ich uczty. Bez wezwania do wojny. W liscie: 'mysl Aryi, slowo jej' (Arya chciala, zeby powiedzial to w radzie - pan mowi to tez osobiscie w Winterfell ~07-08). Odpowiedz Krola - RZUT na jego reakcje.",
-   "kto": "SYMON -> KROL",
-   "kanal": "kruk Fosa-Winterfell (2-3 dni) i z powrotem",
-   "wraca": "300-06-26",
-   "zamyka": "odpowiedz Krola",
+   "co": "PROPOZYCJA ARYI DO KROLA - SLOWO O LANNISTERACH (06-21; PREROGATYWA KROLA, zasada 22): Krol przy lordach mowi na glos, ze Eddard Stark byl niewinny i ze jego zabojcy NIE SA przyjaciolmi Polnocy, nawet bez wojny; nikt z Polnocy nie przyjmuje od nich podarkow ani nie jezdzi na ich uczty. Bez wezwania do wojny. ⚠ POPRAWKA 06-21 (gracz): LISTU NIE MA - pan ROZMAWIA O TYM Z KROLEM OSOBISCIE po powrocie do Winterfell (~07-08). Reakcja Krola - RZUT przy rozmowie.",
+   "kto": "SYMON -> KROL (osobiscie)",
+   "kanal": "rozmowa w Winterfell",
+   "wraca": "300-07-08",
+   "zamyka": "rozmowa z Krolem",
    "status": "otwarte"
   }
  ],

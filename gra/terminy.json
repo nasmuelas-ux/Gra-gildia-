@@ -8296,8 +8296,8 @@
   },
   {
    "data": "300-06-23",
-   "co": "KODEKS PRZEMYTU I CLA - CZESC B (CLO KORONY) - PRZEDLOZYC KROLOWI (zasada 22: kary za clo Korony stanowi Krol; sady - Justycjariusz): potrojne clo + grzywna za obejscie, konfiskata wszystkiego za zjazd ze szlaku, przepadek + loch za przekupstwo, loch za ucieczke/recydywe. Rozmowa w Winterfell ~07-08 (razem ze Skagos, T1-B, smoczym szklem). Do tego czasu przy komorze - prawo komor 04-21 (towar znaleziony). ### 06-23: kary celne do Krola - wg stopni EDYKTU SPRAWIEDLIWOSCI KANALOWEJ (gra/edykt_sprawiedliwosci_kanalowej_300_06.md).",
-   "kto": "SYMON -> KROL",
+   "co": "KODEKS PRZEMYTU I CLA - CZESC B (CLO KORONY) - PRZEDLOZYC KROLOWI (zasada 22: kary za clo Korony stanowi Krol; sady - Justycjariusz): potrojne clo + grzywna za obejscie, konfiskata wszystkiego za zjazd ze szlaku, przepadek + loch za przekupstwo, loch za ucieczke/recydywe. Rozmowa w Winterfell ~07-08 (razem ze Skagos, T1-B, smoczym szklem). Do tego czasu przy komorze - prawo komor 04-21 (towar znaleziony). ### 06-23: kary celne do Krola - wg stopni EDYKTU SPRAWIEDLIWOSCI KANALOWEJ (gra/edykt_sprawiedliwosci_kanalowej_300_06.md). ### 06-23: ROZSZERZONE - PROJEKT NAMIESTNIKA KODEKSOW I DZIALAN DLA KORONY: gra/projekt_kodeksow_korony_300_06.md (A kary celne, B sad przy bramie, C kontrola zywnosci, D czystosc sluzby + Inspektorzy Czystej Bramy, E wody i bandery Korony, F jeden tryb zsylki na Mur, G kara smierci ostateczna; dzialania od razu: Fosa jako proba Korony, rozkaz kontroli zywnosci, pismo do Strazy, lustratorzy). Przed Krolem - odpis do CERWYNA i GAWENA (kruk Fosa-Winterfell).",
+   "kto": "SYMON -> KROL (po lekturze Cerwyna i Gawena)",
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-07-08",
    "zamyka": "decyzja Krola o karach celnych",
@@ -8337,6 +8337,15 @@
    "kanal": "na miejscu; slupy",
    "wraca": "300-07-01",
    "zamyka": "kontroler wskazany, punkt dziala od 07-01",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "PROJEKT KODEKSOW KORONY - ODPISY DO LEKTURY: Justycjariusz CERWYN (sady Korony, sad przy bramie, kary) i Skarbnik GAWEN (komory, Kasa 3, lustratorzy, bandery) - kruk Fosa-Winterfell (Cerwyn - przez Winterfell za nim). Uwagi obu na stole przed rozmowa z Krolem ~07-08. Wola obca (urzednicy Korony, ich zdanie) - RZUT przy uwagach.",
+   "kto": "SYMON -> CERWYN + GAWEN",
+   "kanal": "kruk Fosa-Winterfell",
+   "wraca": "300-07-06",
+   "zamyka": "uwagi Cerwyna i Gawena do projektu",
    "status": "otwarte"
   }
  ],

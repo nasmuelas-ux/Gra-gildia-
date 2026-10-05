@@ -8203,6 +8203,15 @@
    "wraca": "300-07-10",
    "zamyka": "skrzynia przeczytana, wypisane tropy",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-22",
+   "co": "LIST SYMONA DO SEPTONA OWENA (Septa Sniegow, Bialy Port) - prywatny: jak sie ma, dawno nie pisali; podziekowanie za pomoc i za wszystko. Dopisek Miry. Kurier Domu Fosa -> Bialy Port (wychodzi 06-23 razem z pismem do Willama; w BP E ~06-30). Odpowiedz Owena - na adres Winterfell (pan tam od ~07-08), E ~07-12. RZUT przy odpowiedzi (jego stan, co pisze).",
+   "kto": "SYMON -> OWEN",
+   "kanal": "kurier Domu Fosa-BP; odpowiedz kurier/kruk BP-Winterfell",
+   "wraca": "300-07-12",
+   "zamyka": "odpowiedz Owena",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

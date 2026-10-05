@@ -52,3 +52,39 @@ Komora kartowa ma jednego człowieka i nie ma wagi, więc nie zrobi czterech str
 **Koszt** (przebudowa wjazdu na cztery stanowiska przy bramie Fosy, sondy, czerpaki, tablice, ludzie do rotacji) pokrywa **Kasa 3**. Kosztorys przygotuje Garth z Gawenem. *Kwot z głowy nie ma.*
 
 *Symon Tally, Namiestnik Króla Północy. Pieczęć Namiestnika.*
+
+---
+
+## VI. LUDZIE (rozkaz Namiestnika 300-06-23, dopisek)
+**Zatrudniać ludzi.** Każda komora pełna dostaje obsadę na **pełną rotację** (pkt III-2):
+- **pisarz rejestru** (czyta, pisze, liczy);
+- **wagowy z inspektorem** (zna wagę i towar; nie musi pisać, ale musi liczyć);
+- **poborca** (czyta, pisze, liczy);
+- **strażnik bramy wyjazdowej** i **psiarze**.
+
+Przy rotacji co trzy dni potrzeba **po dwie osoby na każde stanowisko**.
+- **Kto zatrudnia:** prowadzący komorę (na Fosie Rorik, w Białym Porcie jego odpowiednik), zgodnie z zasadą 42. **Szuka w obu księgach** (spis mieszkańców i rejestr dniówek, zasada 37).
+- **Płaci Korona** (Kasa 3), według stawki Gawena.
+- **Umowa** jak przy kancelarii lenna: **na piśmie, z klauzulą zwrotu zaliczki**. *„Nie podkupujemy, tylko zachęcamy. Mają wolną wolę”* (doktryna pana).
+- *Zasada 8:* ludzi piszących jest mało, a o tych samych zabiegają kancelaria lenna, skryptorium i szkoła. Komora bierze najpierw **wagowych i strażników**, bo tu wystarczą ręce i oko. Pisarzy i poborców szuka **w drugiej kolejności**, a ich naukę może przejąć szkoła Miry (wieczorem).
+
+## VII. KOMORY MORSKIE: TA SAMA ZASADA NA WODZIE
+*Biały Port (komora pełna) · Gorący Port i port wschodni na przewłoce (komory od ~IX, termin 08-25) · później Przystań Wilka, Starkport, Kamienny Brzeg i przystanie kartowe nad morzem.*
+
+```
+[1. REDA: ZGŁOSZENIE] ──► [2. NABRZEŻE: ROZŁADUNEK, WAGA, OGLĘDZINY]
+                                          │
+                                          ▼
+[4. WYJŚCIE Z PORTU] ◄── [3. SZOPA CELNA: KASA]
+```
+
+1. **Reda, czyli zgłoszenie.** Statek **staje na redzie**. **Łódź celna** podpływa, przekazuje **numerowany kwit wjazdowy** i odbiera **wykaz ładunku**: co, ile, skąd, dokąd i nazwisko szypra. Statek nie przybija do nabrzeża, zanim nie dostanie kwitu.
+2. **Nabrzeże, czyli rozładunek pod okiem.** Rozładunek wolno robić **tylko na wyznaczonym nabrzeżu celnym**. Towar idzie na **wagę ze znakiem normy**. Inspektor schodzi do ładowni (sonda i czerpak) i porównuje towar z wykazem. **Żywność przechodzi bezpłatną kontrolę stanu.** Towar strategiczny i zaporowy kieruje się zawsze na tor czerwony.
+3. **Szopa celna, czyli kasa.** Opłata **w monecie według Karty Celnej**. Szyper dostaje **pokwitowanie, pieczęć wyjazdową i pomarańczową banderę celną**.
+4. **Wyjście z portu.** Strażnik przy wyjściu sprawdza **tylko banderę i pieczęć**. Statek **bez bandery** nie wychodzi. **Kto wyjdzie bez bandery albo wyładuje towar poza nabrzeżem celnym, odpowiada za ominięcie komory** (stopień II).
+- **Tory:** **zielony** dla stałych statków przybrzeżnych z historią czystych odpraw (co dziesiąty kontrolowany), **czerwony** dla obcych, z Wolnych Miast, ze Wschodu i z ładunkiem strategicznym.
+- **Trzy pary oczu, rotacja, taryfa na tablicy przy szopie celnej, próby uczciwości i liczby dnia** obowiązują tak samo jak na lądzie.
+- **Łodzie celne** prowadzi straż portowa: w Gorącym Porcie Mchowe Jastrzębie, w Białym Porcie ludzie Korony. Ich obsada i koszt idą do kosztorysu Gartha z Gawenem (Kasa 3).
+- *Zasada 8 (dziura nr 1 z Karty: „brzeg”):* komora morska łapie tylko tego, kto **wpływa do portu**. Plażę przegrywa się dalej, a wyłapuje ją dopiero waga miejska („skąd kwit?”) i komora wodna (projekt Korony, pkt E, czeka na Króla).
+
+*Symon Tally, Namiestnik. Pieczęć Namiestnika.*

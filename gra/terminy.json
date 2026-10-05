@@ -7933,7 +7933,7 @@
   },
   {
    "data": "300-06-20",
-   "co": "KOMORY W GORACYM PORCIE I NA PRZEWLOCE (PORT WSCHODNI) - przed pomostem (IX) (zgoda pana 06-20): sluzba komor Gartha pod Gawenem - ludzie, waga, pieczecie, tablica kursu, ksiega bramy; jedna brama (clo Korony + myto lenna). Garth (objazd) + Rorik (wzor z Fosy).",
+   "co": "KOMORY W GORACYM PORCIE I NA PRZEWLOCE (PORT WSCHODNI) - przed pomostem (IX) (zgoda pana 06-20): sluzba komor Gartha pod Gawenem - ludzie, waga, pieczecie, tablica kursu, ksiega bramy; jedna brama (clo Korony + myto lenna). Garth (objazd) + Rorik (wzor z Fosy). ### 06-23: organizowane wg 'Organizacji komory celnej' pkt VII (KOMORY MORSKIE: reda - nabrzeze - szopa celna - wyjscie z bandera).",
    "kto": "GARTH (sluzba komor) + RORIK; GAWEN",
    "kanal": "na miejscu / poczta",
    "wraca": "300-08-25",
@@ -8350,11 +8350,20 @@
   },
   {
    "data": "300-06-23",
-   "co": "ORGANIZACJA KOMORY CELNEJ - ROZKAZ NAMIESTNIKA DO GARTHA (wersja dopasowana: oplaty w monecie wg Karty, zywnosc na przywoz 0, bez dziesieciny w towarze): gra/organizacja_komory_celnej_300_06.md - cztery strefy (rejestr, waga i ogledziny, kasa, brama wyjazdowa), tor zielony/czerwony, trzy pary oczu, rotacja co 3 dni, taryfa na tablicy, proby uczciwosci (przelozony + swiadek), kontrola rownolegla zostaje, liczby dnia; komory kartowe - wersja skrocona. KOLEJNOSC: Fosa (Rorik - od zaraz, proba) -> Bialy Port -> kartowe. Kanal: kruk Fosa-Winterfell do Gawena (Garth w objezdzie - Gawen przekazuje); odpis do Rorika na miejscu. Urzednicy Korony - bez rzutu na wykonanie; kosztorys - Garth z Gawenem (Kasa 3). Meldunek Gartha o wdrozeniu na Fosie.",
+   "co": "ORGANIZACJA KOMORY CELNEJ - ROZKAZ NAMIESTNIKA DO GARTHA (wersja dopasowana: oplaty w monecie wg Karty, zywnosc na przywoz 0, bez dziesieciny w towarze): gra/organizacja_komory_celnej_300_06.md - cztery strefy (rejestr, waga i ogledziny, kasa, brama wyjazdowa), tor zielony/czerwony, trzy pary oczu, rotacja co 3 dni, taryfa na tablicy, proby uczciwosci (przelozony + swiadek), kontrola rownolegla zostaje, liczby dnia; komory kartowe - wersja skrocona. KOLEJNOSC: Fosa (Rorik - od zaraz, proba) -> Bialy Port -> kartowe. Kanal: kruk Fosa-Winterfell do Gawena (Garth w objezdzie - Gawen przekazuje); odpis do Rorika na miejscu. Urzednicy Korony - bez rzutu na wykonanie; kosztorys - Garth z Gawenem (Kasa 3). Meldunek Gartha o wdrozeniu na Fosie. ### 06-23 DOPISEK: VI ZATRUDNIAC - pelna obsada rotacji (po 2 na stanowisko) w komorach pelnych; zatrudnia prowadzacy komore (Rorik na Fosie), oba spisy, umowa z klauzula zwrotu, Kasa 3; najpierw wagowi i straznicy, potem pisarze/poborcy. VII KOMORY MORSKIE - ta sama zasada na wodzie: reda (zgloszenie, kwit, wykaz) -> nabrzeze celne (waga, ogledziny ladowni) -> szopa celna (kasa, bandera) -> wyjscie z portu (tylko bandera i pieczec); tory, trzy pary oczu, liczby dnia; lodzie celne - Jastrzebie (GP) / ludzie Korony (BP). Kolejnosc: Bialy Port + Goracy Port i port wschodni (komory ~IX).",
    "kto": "SYMON -> GARTH (przez Gawena) + RORIK",
    "kanal": "kruk Fosa-Winterfell; na miejscu",
    "wraca": "300-07-15",
    "zamyka": "komora Fosy pracuje w czterech strefach + kosztorys Gartha",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "KOMORA FOSY - ZATRUDNIENIE DO ROTACJI (rozkaz Namiestnika 06-23): Rorik zatrudnia - po dwoch na stanowisko (rejestr, waga/inspekcja, kasa, brama wyjazdowa) + psiarze; najpierw wagowi i straznicy, potem piszacy; oba spisy (zasada 37); umowa z klauzula zwrotu; zold Kasa 3 (Gawen). Ludzie wolni - RZUT na nabor przy pierwszym meldunku.",
+   "kto": "RORIK KWITEK",
+   "kanal": "na miejscu",
+   "wraca": "300-07-10",
+   "zamyka": "ilu przyjeto imiennie, rotacja trzech stanowisk dziala",
    "status": "otwarte"
   }
  ],

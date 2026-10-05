@@ -31,7 +31,7 @@ Przemyt jest nie tylko kradzieżą myta — to **zamach na bezpieczeństwo bagna
    - **sabotaż grobli, śluzy, tamy lub umocnień** (rozkopanie grobli, zniszczenie śluzy, podpalenie wieży ognia);
    - **zdradę obronności** — przekazanie wrogom planów murów, wież, łańcucha ogni lub przejść przez bagno;
    - **zabicie strażnika lub urzędnika lenna na służbie**.
-2. **Forma:** **szubienica z katem** (wola pana, 300-06-23). *Roderyk: odejście od zwyczaju miecza będzie komentowane.*
+2. **Forma:** **ścięcie mieczem** (wola pana, 300-06-23 — zamiast szubienicy). Wedle zwyczaju Północy **wyrok wykonuje ten, kto go wydał** — pan, własną ręką. *Roderyk: „Tak robił lord Eddard. Tego nikt nie będzie komentował.”*
 3. **Wyrok na gardło zatwierdza pan** (sprawy zastrzeżone, 300-06-21). **Prawo łaski — tylko pan:** zamiana na **dożywotnie ciężkie roboty** albo **zsyłkę na Mur**.
 
 ## IV. SĄD WAGI I DZIAŁANIE STRAŻY

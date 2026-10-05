@@ -8347,6 +8347,15 @@
    "wraca": "300-07-06",
    "zamyka": "uwagi Cerwyna i Gawena do projektu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "ORGANIZACJA KOMORY CELNEJ - ROZKAZ NAMIESTNIKA DO GARTHA (wersja dopasowana: oplaty w monecie wg Karty, zywnosc na przywoz 0, bez dziesieciny w towarze): gra/organizacja_komory_celnej_300_06.md - cztery strefy (rejestr, waga i ogledziny, kasa, brama wyjazdowa), tor zielony/czerwony, trzy pary oczu, rotacja co 3 dni, taryfa na tablicy, proby uczciwosci (przelozony + swiadek), kontrola rownolegla zostaje, liczby dnia; komory kartowe - wersja skrocona. KOLEJNOSC: Fosa (Rorik - od zaraz, proba) -> Bialy Port -> kartowe. Kanal: kruk Fosa-Winterfell do Gawena (Garth w objezdzie - Gawen przekazuje); odpis do Rorika na miejscu. Urzednicy Korony - bez rzutu na wykonanie; kosztorys - Garth z Gawenem (Kasa 3). Meldunek Gartha o wdrozeniu na Fosie.",
+   "kto": "SYMON -> GARTH (przez Gawena) + RORIK",
+   "kanal": "kruk Fosa-Winterfell; na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "komora Fosy pracuje w czterech strefach + kosztorys Gartha",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

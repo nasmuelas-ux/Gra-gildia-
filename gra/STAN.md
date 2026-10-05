@@ -911,10 +911,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-21 przedpoludnie · zima (300)
+- **Data:** 300-06-21 poludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 31**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 31**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1923,8 +1923,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-21] `lenno/WARRYN`: 06-21: pierwsza Rada Lenna z panem - patrz dziennik 06-21 (5 spraw do slowa pana: kolejnosc wydatkow, pozyczka Domu, 10 z druzyny na ulice, krannogowie na barki, sobota).
-- [300-06-21] `lenno/HENDRY`: 06-21: pierwsza Rada Lenna z panem - patrz dziennik 06-21 (5 spraw do slowa pana: kolejnosc wydatkow, pozyczka Domu, 10 z druzyny na ulice, krannogowie na barki, sobota).
 - [300-06-21] `lenno/RODERYK`: 06-21: pierwsza Rada Lenna z panem - patrz dziennik 06-21 (5 spraw do slowa pana: kolejnosc wydatkow, pozyczka Domu, 10 z druzyny na ulice, krannogowie na barki, sobota).
 - [300-06-21] `lenno/KESSEL`: 06-21: pierwsza Rada Lenna z panem - patrz dziennik 06-21 (5 spraw do slowa pana: kolejnosc wydatkow, pozyczka Domu, 10 z druzyny na ulice, krannogowie na barki, sobota).
 - [300-06-21] `poprawki`: 300-06-21 VOID (wskazanie gracza: 'Wystan jest na Murze teraz'): MAESTER WYSTAN od 05-26 w CZARNYM ZAMKU przy Aemonie (rozkaz 05-01, przyspieszony 05-23, przyjazd 05-28 rzut 74; Cytadela - p…
@@ -1935,3 +1933,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-21] `dziennik`: 300-06-21 PRZEDPOLUDNIE, RADA LENNA - SYMON: ZGODA NA WSZYSTKIE CZTERY PROPOZYCJE (sprawy zastrzezone + sekretarz rady; narzedzia - pietno, kwit, nadzorca placi; dzwon - dwa sygnaly, proba w…
 - [300-06-21] `dziennik`: 300-06-21 PRZED POLUDNIEM, SALA RADY - SYMON DO GARRICKA: PROG WYDATKU = 50 SMOKOW jednorazowo. Garrick wpisuje w puste miejsce w ksiedze rady: 'ponad piecdziesiat smokow - pieczec pana'. Be…
 - [300-06-21] `lenno/GARRICK`: 06-21: prog rady - 50 smokow jednorazowo; ponad - pieczec pana.
+- [300-06-21] `dziennik`: 300-06-21 POLUDNIE, FOSA - OBIAD Z ARYA (Mira spi z Lyra po zlej nocy - Rhona: 'niech spia obie'). Nelda: zupa z kapusty z boczkiem, pstrag pieczony z masłem, chleb, groch z cebula, maslanka…
+- [300-06-21] `starkowie/ARYA`: 06-21 obiad z Symonem po radzie lenna (siedziala w kacie): rada 'kloci sie o kilofy, nie klamie'; cytat Neda o gwozdziu i wojnie; pyta, czy ktos w Winterfell mowi Robbowi, ze sie myli.

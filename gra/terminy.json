@@ -8026,12 +8026,12 @@
   },
   {
    "data": "300-06-21",
-   "co": "SPRAWY ZASTRZEZONE DLA PANA - wpis do ksiegi Rady Lenna (zgoda pana 06-21, propozycja Garricka): nadanie ziemi; wyrok na gardlo; umowy z lordami i Korona; zmiana karty miasta; obsadzenie krzesla rady; wydatek jednorazowy ponad PROG. PROG - DO SLOWA PANA (nie podany 06-21; do tego czasu Garrick wstrzymuje do pana kazdy wydatek spoza kolejnosci a-e). Reszta - rada i protokol.",
+   "co": "SPRAWY ZASTRZEZONE DLA PANA - wpis do ksiegi Rady Lenna (zgoda pana 06-21, propozycja Garricka): nadanie ziemi; wyrok na gardlo; umowy z lordami i Korona; zmiana karty miasta; obsadzenie krzesla rady; wydatek jednorazowy ponad PROG. PROG - DO SLOWA PANA (nie podany 06-21; do tego czasu Garrick wstrzymuje do pana kazdy wydatek spoza kolejnosci a-e). Reszta - rada i protokol. ### 06-21 PAN: PROG = 50 SMOKOW jednorazowo. Wydatek ponad 50 smokow czeka na pieczec pana; do 50 - rada i protokol.",
    "kto": "GARRICK <- SYMON (prog)",
    "kanal": "na miejscu",
    "wraca": "300-06-28",
    "zamyka": "wpis w ksiedze rady + prog podany przez pana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-21 - wpis w ksiedze rady, prog 50 smokow"
   },
   {
    "data": "300-06-21",

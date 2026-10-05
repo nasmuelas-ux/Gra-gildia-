@@ -8329,6 +8329,15 @@
    "wraca": "300-07-01",
    "zamyka": "edykt ogloszony, sad wagi obsadzony, bandery wydawane",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "PRAWO O KONTROLI I PRZEMYCIE ZYWNOSCI (wola pana 06-23, wariant a - kontrola BEZ OPLATY, przywoz wolny, bez dziesieciny): gra/prawo_zywnosci_fosy_300_06.md. Ogloszenie 06-24 z prawem wody i edyktem; od 07-01. Do wykonania: (1) KONTROLER SPICHLERZA - wskazuje Warryn (zasada 42); (2) punkt kontrolny przy bramie na grobli + przy komorze GP/barki na Goraczce; (3) miejsce spalania zepsutej zywnosci (poza miastem, nad woda - zasada ognia); (4) Nina - glos w sprawie zepsucia; (5) odpis do Orlanda (zboze Korony - kontrola bez oplaty). Sprawy - Sad Wagi (2 godziny dla zywnosci). Wlasni - bez rzutu.",
+   "kto": "WARRYN + RODERYK + HENDRY + RORIK",
+   "kanal": "na miejscu; slupy",
+   "wraca": "300-07-01",
+   "zamyka": "kontroler wskazany, punkt dziala od 07-01",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

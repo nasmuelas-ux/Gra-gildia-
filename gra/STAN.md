@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**197 otwartych** · **1 PRZETERMINOWANYCH** · 2 wraca dzis
+**196 otwartych** · **1 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
@@ -33,7 +33,6 @@ _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy 
 
 ### 🟡 WRACA DZIS
 - MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt t… · _kanal:_ przez Dustinport (Torren)
-- ARYA NA PATROLU Z MCHOWYMI JASTRZEBIAMI (zgoda pana 06-19): dzienny patrol lodziami po kanalach i wzdluz grobli pod Fosa (nie zach… · _kanal:_ na miejscu
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -709,7 +708,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-06-19** — LAWA CAILIN - GLOSOWANIE USTAWY BUDOWLANEJ (propozycja Herwina, zgoda pana 06-19): (1) nowy dom - przyziemie i komin z kamienia; (2) dach darniowy, trzcina tylko do konca 301; (3) zakaz nowej trzciny na dachach przy kanale glownym od zaraz; (4) szopy i baraki drewniane tylko jako tymczasowe, z data rozbiorki; (5) budynki publiczne caly bazalt. Glosowanie w najblizszy dzien targowy - 06-26. WOLA LAWY - RZUT przy glosowaniu. OD ZARAZ, BEZ GLOSU: Herwin i Bennis egzekwuja to, co juz stoi w STANDARDZIE B (komin w kamieniu, palenisko nie w scianie, prog nad wysoka woda) - wzornik przy wadze. ### 06-19 PAN (zalecenie): (6) BIELENIE DREWNA WAPNEM - sciany, belki, szopy i baraki (antyseptycznie: plesn, robactwo; wolniej sie zajmuje). Dla mieszczan - ZALECENIE w ustawie, wapno po cenie kosztu przy wadze; dla budynkow LENNA I DOMU (baraki, sklad lin, straznica, kwatery) - NAKAZ od zaraz. · _kto:_ **HERWIN + LAWA; BENNIS (wzornik)** · _zamyka:_ uchwala lawy (rzut) i ogloszenie na slupie
 - **300-06-19** — WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu. · _kto:_ **WARRYN + ORBELO** · _zamyka:_ zrodlo wapna i plan (kupno/wapiennik) z kosztem E
 - **300-06-19** — ARYA - LEKCJA U BRAAWOSKIEGO MISTRZA FOSY (zgoda pana 06-19): rano na dziedzincu, przed slupem; jawnie (warunek Krola z 299-09-14: nie po kryjomu). Wlasni - bez rzutu. · _kto:_ **MISTRZ TANCA WODNEGO FOSY + ARYA** · _zamyka:_ lekcja odbyta **⚠ ZAMKNIETE 300-06-20: LEKCJA ODBYTA O SWICIE NA DZIEDZINCU, JAWNIE. MISTRZ: 'KTO CIE UCZYL?' ARYA: 'KTOS, KTO NIE ZYJE.' MISTRZ KLANIA SIE LEKKO; IMIENIA NIE PADA. CHCE JA WIDZIEC JESZCZE - 'JESLI PAN POZWOLI I JEJ BRAT'.**
-- **300-06-19** — ARYA NA PATROLU Z MCHOWYMI JASTRZEBIAMI (zgoda pana 06-19): dzienny patrol lodziami po kanalach i wzdluz grobli pod Fosa (nie zachodni brzeg Przesmyku); jej gwardzisci (dwaj ludzie Krola + Dagon) w lodzi obok; Kessel prowadzi; tyczka i kusza do sprobowania. Wlasni - bez rzutu. ### 06-20: pan pozwolil wziac IGLE do lodzi; patrol 06-21. ### 06-21: deszcz i fala (pogoda 15) - Kessel przesuwa patrol na 06-22. ### 06-22: pogoda 60 - woda spokojna, patrol wyplywa po sniadaniu (Kanal Wierzbowy, potem grobla); powrot wieczorem. · _kto:_ **KESSEL + ARYA + Dagon i ludzie Krola** · _zamyka:_ patrol odbyty
+- **300-06-19** — ARYA NA PATROLU Z MCHOWYMI JASTRZEBIAMI (zgoda pana 06-19): dzienny patrol lodziami po kanalach i wzdluz grobli pod Fosa (nie zachodni brzeg Przesmyku); jej gwardzisci (dwaj ludzie Krola + Dagon) w lodzi obok; Kessel prowadzi; tyczka i kusza do sprobowania. Wlasni - bez rzutu. ### 06-20: pan pozwolil wziac IGLE do lodzi; patrol 06-21. ### 06-21: deszcz i fala (pogoda 15) - Kessel przesuwa patrol na 06-22. ### 06-22: pogoda 60 - woda spokojna, patrol wyplywa po sniadaniu (Kanal Wierzbowy, potem grobla); powrot wieczorem. · _kto:_ **KESSEL + ARYA + Dagon i ludzie Krola** · _zamyka:_ patrol odbyty **⚠ ZAMKNIETE 300-06-22 - PATROL ODBYTY (KANAL WIERZBOWY, GROBLA); ARYA WROCILA MOKRA DO KOLAN**
 - **300-06-20** — SKRYPTORIUM - PIERWSZA SKLADKA ODPISANA (Ilario + czterech; dyktando, karty liniowane z prasy): prawa Korony dla komor i lordow; potem ksiazka o ptakach z bagien dla Brana (zamowienie 06-02). Wlasni - bez rzutu. · _kto:_ **ILARIO** · _zamyka:_ pierwsza skladka gotowa
 - **300-06-20** — BRAAWOSKI MISTRZ FOSY (pierwszy instruktor Symona) PRZYJEZDZA DO WINTERFELL ZIMA (zaproszenie pana 06-20): gdy grobla zamarznie i druzyna siedzi w kwaterach; spotkanie z mistrzem sali (jego dawna sala), lekcje Aryi i pana. Zastepstwo przy druzynie Fosy na ten czas - wskazuje Hendry. Wlasni - bez rzutu. · _kto:_ **MISTRZ TANCA WODNEGO FOSY + HENDRY (zastepstwo)** · _zamyka:_ mistrz w Winterfell albo nowa data (mroz)
 - **300-06-20** — SKRYPTORIUM - ODPISY PIECIU KSIAG ILARIA (zlecenie pana 06-20; za zgoda wlasciciela): kolejnosc Ilaria - (1) WZORNIK KROJU (po egzemplarzu dla kazdego skryby - fundament skryptorium) ~07-01; (2) ELEMENTARZ KSIAG PODWOJNYCH ~07-15; (3) O CZTERNASTU PLOMIENIACH ~08-01; (4) KRONIKA TAJEMNEGO MIASTA ~08-15; (5) PIESNI Z LYS ~08-15 (przepisuje Jessa wieczorami). Po pierwszej skladce (prawa komor) i obok ksiazki o ptakach dla Brana. Kasa 1. ZASADA 8: piec rak, trzy zamowienia naraz - kolejka; PYTANIE ILARIA: ile odpisow kazdej (zasada trzech odpisow z 299-09-08: trzy miejsca - Fosa, Winterfell, Bialy Port?). ### 06-20 PAN: PO DWA ODPISY KAZDEJ - FOSA (archiwum) i WINTERFELL (biblioteka Wiezy); oryginaly zostaja u Ilaria (trzecie miejsce). · _kto:_ **ILARIO + czterech pisarzy (+ Jessa)** · _zamyka:_ wzornik odpisany; dalej wg kolejki
@@ -936,10 +935,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-22 popoludnie · zima (300)
+- **Data:** 300-06-22 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 65**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 71**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1968,8 +1967,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-22] `lenno/WARRYN`: 06-22: obsydian z torfu - 7 garsci (E) + grot i noz cale; poludniowe torfowisko; propozycja: placic tylko z urobkiem z wyznaczonego ciecia (kopacze ryja doly); pyta, czy grot i noz jada do W…
-- [300-06-22] `dziennik`: 300-06-22 PRZED POLUDNIEM, IZBA RZADCY - SYMON: (1) tak - placic tylko z urobkiem z wyznaczonego ciecia; (2) grot i noz zostaja w domu, na Fosie. Bez rzutu. WARRYN wpisuje; 'Jorren oglosi to…
 - [300-06-22] `dziennik`: 300-06-22 PRZED POLUDNIEM-POLUDNIE, DZIEDZINIEC FOSY - TRENING U BRAAWOSKIEGO MISTRZA (bez kolczugi; wlasny, bez rzutu). Pochmurno, sucho - dobry grunt. LEKCJA: MIECZ PRZECIW WLOCZNI ('pol l…
 - [300-06-22] `dziennik`: 300-06-22 POLUDNIE, IZBA PRZY KUCHNI - OBIAD Z MIRA (Lyra na kolanach; Rhona je z nimi - niedziela). Nelda: rosol z kury z makaronem, pieczona kaczka z jablkami (niedzielna), kasza, ogorki k…
 - [300-06-22] `rhona_siostra_miry`: 06-22 obiad: przy Symonie i Mirze - 'Derren mial dwie corki, jak bylam w Sitowiu trzy lata temu. Jedna nosi imie po matce.' (most do Derrena zaczyna sie ruszac - z jej inicjatywy).
@@ -1980,3 +1977,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-22] `dziennik`: 300-06-22 POPOLUDNIE, PLAC PRZY WADZE - SYMON odchodzi od handlarza, szuka straznika i mowi mu o oszustwie. Bez rzutu (wlasni ludzie; handlarz bez szans - plac maly, straz przy wadze). STRAZ…
 - [300-06-22] `lenno/RODERYK`: 06-22 (niedziela): przyprowadzony handlarz z Dorzecza - sprzedawal 'smocze szklo' (6 obsydian z torfu bez kwitu + 8 szkla butelkowego); regale pana -> sad grodzki; trop: kupil od 'chlopaka o…
 - [300-06-22] `dziennik`: 300-06-22 POPOLUDNIE - ⚑ SYMON KAZE STRAZNIKOM TROPIC kopacza. RZUT 1 (jeden rzut na sprawe, zasada 27): JEDNA KONSEKWENCJA - UCIEKL. Straznicy (dwaj z druzyny) z handlarzem i JORRENEM LUTEM…
+- [300-06-22] `dziennik`: 300-06-22 WIECZOR, IZBA PRZY KUCHNI - KOLACJA Z MIRA, CZEKAJA NA ARYE. Nelda: zupa rybna, chleb, twarog z rzodkiewka, resztki niedzielnej kaczki, piwo. Zmeczenie 65->71. Bez rzutu. MIRA O PR…
+- [300-06-22] `starkowie/ARYA`: 06-22 patrol z Kesselem: tyczka pol mili, kusza - trafila za drugim, wpadla do wody do kolan; widziala dwie lodzie bez pieczeci (Kessel zapisal). Chce jutro plynac z Kesselem za zbiegiem.

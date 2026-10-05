@@ -8068,6 +8068,42 @@
    "wraca": "300-07-15",
    "zamyka": "ksiega lezy przy bramie, pisarz bramowy wpisuje",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "KARB NA BUDOWACH LENNA (pomysl ARYI STARK 06-21, wdrozenie - rozkaz pana): kij leszczynowy z nacieciem za kazdy przepracowany dzien, przelamany wzdluz - polowa u robotnika, polowa u pisarza wyplat; przy wyplacie przy wadze sklada sie obie polowy (dla nieczytajacych i nieliczacych; obok rejestru Melli, nie zamiast). Kije - ciesla lenna; pietno brygady na kiju. Start: pierwsza wyplata po zrobieniu kijow (E ~06-29). ZASADA 8: nadzorcy beda krzywo patrzec - to jest wlasnie sens. Wlasni - bez rzutu.",
+   "kto": "GARRICK + MELLA (+ ciesla)",
+   "kanal": "na miejscu",
+   "wraca": "300-06-29",
+   "zamyka": "pierwsza wyplata na karb",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "PRZYSIEZNY OD SKARG NA KAZDEJ WIEKSZEJ BUDOWIE LENNA (pomysl ARYI 06-21, rozkaz pana): grobla, trakt, Goracy Port, miasto Cailin - po jednym; NIE nadzorca i NIE z jego brygady; podlega SADOWI GRODZKIEMU (Roderyk), odpis skarg do Melli; robotnik idzie do niego, nie do nadzorcy. Obsade wskazuje GARRICK (zasada 42), szuka w obu spisach (zasada 37). Wlasni - bez rzutu.",
+   "kto": "GARRICK -> RODERYK",
+   "kanal": "na miejscu",
+   "wraca": "300-07-01",
+   "zamyka": "przysiezni imiennie w ksiedze kancelarii",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "KARB I PRZYSIEZNY OD SKARG NA BUDOWACH KORONY (rozkaz Namiestnika w imieniu Krola, pomysl Aryi Stark): list do SKARBNIKA GAWENA - trakty (T1, T3), Starkport, komory, Zimowe Miasto/spichlerz, wieze lancucha; ten sam wzor co w lennie (kij na pol; przysiezny poza nadzorem, podlega Justycjariuszowi/sedziom objazdowym). Wdraza Gawen (urzednik Korony - bez rzutu); koszt grosze - Kasa 3. Kruk Fosa-Winterfell dzis.",
+   "kto": "SYMON -> GAWEN",
+   "kanal": "kruk Fosa-Winterfell",
+   "wraca": "300-07-08",
+   "zamyka": "meldunek Gawena: na ktorych budowach dziala",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "PROPOZYCJA ARYI DO KROLA - SLOWO O LANNISTERACH (przedlozona listem Namiestnika z Fosy 06-21; PREROGATYWA KROLA, zasada 22 - Namiestnik przedklada, nie wdraza): Krol przy lordach mowi na glos, ze Eddard Stark byl niewinny i ze jego zabojcy NIE SA przyjaciolmi Polnocy, nawet bez wojny; nikt z Polnocy nie przyjmuje od nich podarkow ani nie jezdzi na ich uczty. Bez wezwania do wojny. W liscie: 'mysl Aryi, slowo jej' (Arya chciala, zeby powiedzial to w radzie - pan mowi to tez osobiscie w Winterfell ~07-08). Odpowiedz Krola - RZUT na jego reakcje.",
+   "kto": "SYMON -> KROL",
+   "kanal": "kruk Fosa-Winterfell (2-3 dni) i z powrotem",
+   "wraca": "300-06-26",
+   "zamyka": "odpowiedz Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

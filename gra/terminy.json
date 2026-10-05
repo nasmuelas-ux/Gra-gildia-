@@ -8257,6 +8257,33 @@
    "wraca": "300-06-23",
    "zamyka": "zbieg zlapany albo trop urwany u granicy krannogow",
    "status": "ZAMKNIETE 300-06-23 (rzut 88): Willem zlapany na kepie przy granicy wody krannogow; oddany do sadu grodzkiego"
+  },
+  {
+   "data": "300-06-23",
+   "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (1) MAPA BAGNA LENNA - kanaly, kepy, gardla, torfowiska, brody, szlaki krannogow; skala i nazwy; dwa egzemplarze (Fosa + Winterfell). Prowadzi KESSEL (lodzie, ludzie znad wody) + pisarz z kancelarii (rysunek) + JORREN LUT (torfowiska) + PRZEWODNIK KRANNOG (przez Reeda - bez niego mapa ma dziury tam, gdzie woda jest ich). Wlasni - bez rzutu; przewodnik - wola Reeda (pkt 2).",
+   "kto": "KESSEL + pisarz kancelarii + JORREN LUT",
+   "kanal": "na miejscu",
+   "wraca": "300-08-15",
+   "zamyka": "mapa bagna lenna na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (2) GRANICA Z REEDAMI (Szara Woda) - OZNACZYC: list pana do HOWLANDA REEDA (Garrick spisuje, pieczec lenna): propozycja wspolnego oznaczenia granicy wody lenna i wody krannogow (tyczki z pomaranczowym znakiem po stronie lenna), przewodnik krannog do mapy, ZNAK/PRZEPUSTKA dla ludzi Reeda w strefach lenna (zeby zaden krannog nie dostal belta). Granica dwoch lenn = zgoda obu; spor - Justycjariusz. Kanal: poslaniec krannogow. Wola Reeda - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> HOWLAND REED (Garrick pisze)",
+   "kanal": "poslaniec krannogow Fosa-Szara Woda",
+   "wraca": "300-07-15",
+   "zamyka": "odpowiedz Reeda: granica, przewodnik, znak dla jego ludzi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (3) PRAWO WODY ZAKAZANEJ - TRYB (wola pana): STREFY ZAKAZANE wyznaczone na mapie i znakami w wodzie; kazda lodz w strefie bez zgody: (a) OBSERWACJA (kto, ile ludzi, co wiezie, skad), (b) wezwanie glosem/rogiem, (c) STRZAL OSTRZEGAWCZY z kuszy w wode przed dziob, (d) ABORDAZ - lodz zatrzymana, ludzie i towar do sadu grodzkiego, (e) OPOR ZBROJNY - JASTRZEBIE ZABIJAJA. Nie ma 'zawracamy i puszczamy'. Spisuje RODERYK jako prawo pana dla wody lenna (regale; sad grodzki); OGLOSZENIE na slupach (Cailin, brama, przystanie, Goracy Port) i przez krannogow - zanim pierwszy belt padnie ('kto nie wiedzial, ten nie byl ostrzezony'). Znaki lodzi lenna: tabliczka z pieczecia lenna dla rybakow, przewoznikow i torfiarzy (wzor: pieczec na liscie przewozowym 04-21). Strzela sie dopiero od dnia ogloszenia i tylko w strefach na mapie. Wlasni - bez rzutu.",
+   "kto": "RODERYK (prawo) + KESSEL (wykonanie) + GARRICK (ogloszenie, tabliczki)",
+   "kanal": "na miejscu; slupy",
+   "wraca": "300-07-05",
+   "zamyka": "prawo spisane, ogloszone, tabliczki wydane - pierwszy dzien obowiazywania",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

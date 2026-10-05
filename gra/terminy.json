@@ -8242,7 +8242,7 @@
   },
   {
    "data": "300-06-22",
-   "co": "HANDLARZ 'SMOCZYM SZKLEM' (zatrzymany 06-22 na placu przy wadze po slowie pana): 6 odlamkow obsydianu z torfu bez kwitu + 8 podrobek; oszukani zwroceni. SAD GRODZKI (regale pana - torf) - Roderyk sadzi; TROP: obsydian kupiony od chlopaka z poludniowego torfowiska (kopacze z dolow) - Jorren Lut i Roderyk; handlarz pozna go z twarzy przy wadze torfu. Obsydian - do skrzynki pod pieczecia lenna z kwitem. Wlasni - bez rzutu na wykonanie. ### 06-22 POSCIG (rzut 1): KOPACZ WILLEM ZE SZOPY (rejestr Melli, przybysz z Dorzecza) UCIEKL w trzciny ku Przesmykowi przed strazą - ostrzezony z targu. Drugi kopacz zostal i zeznal (doly kopal, kamienia nie sprzedawal - Jorren potwierdza z kwitow). Dalej: KESSEL (Jastrzebie, woda) od 06-23 + doniesienia krannogow (kanal Reeda).",
+   "co": "HANDLARZ 'SMOCZYM SZKLEM' (zatrzymany 06-22 na placu przy wadze po slowie pana): 6 odlamkow obsydianu z torfu bez kwitu + 8 podrobek; oszukani zwroceni. SAD GRODZKI (regale pana - torf) - Roderyk sadzi; TROP: obsydian kupiony od chlopaka z poludniowego torfowiska (kopacze z dolow) - Jorren Lut i Roderyk; handlarz pozna go z twarzy przy wadze torfu. Obsydian - do skrzynki pod pieczecia lenna z kwitem. Wlasni - bez rzutu na wykonanie. ### 06-22 POSCIG (rzut 1): KOPACZ WILLEM ZE SZOPY (rejestr Melli, przybysz z Dorzecza) UCIEKL w trzciny ku Przesmykowi przed strazą - ostrzezony z targu. Drugi kopacz zostal i zeznal (doly kopal, kamienia nie sprzedawal - Jorren potwierdza z kwitow). Dalej: KESSEL (Jastrzebie, woda) od 06-23 + doniesienia krannogow (kanal Reeda). ### 06-23: WILLEM ZE SZOPY ZLAPANY (rzut 88) - przy nim 2 garsci obsydianu (E) + wiekszy odlamek + 3 jelenie; zeznal (sierota z Dorzecza, siostra w Cailin; sprzedawal, bo handlarz placil wiecej niz grosz z wagi). Obaj u Roderyka.",
    "kto": "RODERYK + JORREN LUT",
    "kanal": "na miejscu",
    "wraca": "300-06-24",
@@ -8256,7 +8256,7 @@
    "kanal": "na miejscu",
    "wraca": "300-06-23",
    "zamyka": "zbieg zlapany albo trop urwany u granicy krannogow",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-23 (rzut 88): Willem zlapany na kepie przy granicy wody krannogow; oddany do sadu grodzkiego"
   }
  ],
  "_dopiski_300_03_18": [

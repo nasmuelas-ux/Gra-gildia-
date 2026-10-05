@@ -8023,6 +8023,51 @@
    "wraca": "300-07-10",
    "zamyka": "odpowiedz Reeda (ilu, za ile, od kiedy)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "SPRAWY ZASTRZEZONE DLA PANA - wpis do ksiegi Rady Lenna (zgoda pana 06-21, propozycja Garricka): nadanie ziemi; wyrok na gardlo; umowy z lordami i Korona; zmiana karty miasta; obsadzenie krzesla rady; wydatek jednorazowy ponad PROG. PROG - DO SLOWA PANA (nie podany 06-21; do tego czasu Garrick wstrzymuje do pana kazdy wydatek spoza kolejnosci a-e). Reszta - rada i protokol.",
+   "kto": "GARRICK <- SYMON (prog)",
+   "kanal": "na miejscu",
+   "wraca": "300-06-28",
+   "zamyka": "wpis w ksiedze rady + prog podany przez pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "SEKRETARZ RADY LENNA - pisarz z kancelarii prowadzi protokol (zgoda pana 06-21). Wskazuje GARRICK (zasada 42). Wlasni - bez rzutu.",
+   "kto": "GARRICK",
+   "kanal": "na miejscu",
+   "wraca": "300-06-28",
+   "zamyka": "sekretarz przy stole na radzie 06-28",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "NARZEDZIA LENNA (zgoda pana 06-21, propozycja Warryna): PIETNO LENNA na kazdym narzedziu; wydawanie RANO na kwit przy wadze (pisarz wyplat), zdawanie wieczorem; brak - z dniowki NADZORCY BRYGADY, nie robotnika. Spis narzedzi lenna. Kowal - pietno. Wlasni - bez rzutu.",
+   "kto": "WARRYN + Mella (pisarz wyplat)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "spis narzedzi + pietno + kwit dziala",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "DZWON NA BRAMIE FOSY/CAILIN (zgoda pana 06-21, propozycja Hendry'ego): CIAGLY = POZAR (wiadra, domy nad kanalem); TRZY I PRZERWA = BRON (kobiety i dzieci do twierdzy, mezczyzni z bronia na groble). Proba raz w miesiacu w dzien targowy, zapowiedziana (ogloszenie lawy i slup). Dzwon - Bialy Port albo odlew; koszt E - Warryn do 07-05, skarbiec lenna (pozycja b - ogien). Do czasu dzwonu: te same sygnaly ROGIEM bramy. Wlasni - bez rzutu.",
+   "kto": "HENDRY + WARRYN (+ Herwin - ogloszenie)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "koszt i zrodlo dzwonu; sygnaly ogloszone",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "KSIEGA PRZYBYSZOW PRZY BRAMIE (zgoda pana 06-21, propozycja Roderyka): kto zostaje w lennie dluzej niz trzy noce - imie, skad, co umie, gdzie spi; odpis do Melli (spis) i kancelarii; podstawa 'kto go sadzi'. Prowadzi PISARZ BRAMOWY z werbunku kancelarii (pierwszy wolny po pisarzu sadowym). ZASADA 8: kolejka w dzien wozow. Wlasni - bez rzutu.",
+   "kto": "RODERYK + GARRICK (pisarz bramowy)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "ksiega lezy przy bramie, pisarz bramowy wpisuje",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

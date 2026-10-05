@@ -25,7 +25,8 @@
 - **Nagroda dla wskazującego** ukryty skład albo przemyt: 10% przejętego towaru. Imię wskazującego zna tylko sąd.
 
 ## B. SĄD PRZY BRAMIE (sąd celny Korony)
-- Sprawy cła Korony sądzi **Justycjariusz** (podział sądów, pkt 2). Żeby nie stały miesiącami, proponuje się **sąd przy komorze**: **delegat Justycjariusza albo sędzia objazdowy** i **dwóch ławników z miejscowej ławy**.
+- Sprawy cła Korony sądzi **Justycjariusz** (podział sądów, pkt 2). Żeby nie stały miesiącami, proponuje się **sąd przy komorze**: **⚑ przy KAŻDEJ komorze stały SĘDZIA KORONNY** (wola Namiestnika, 06-23), mianowany przez Króla na wniosek Justycjariusza i podległy Justycjariuszowi, oraz **dwóch ławników z miejscowej ławy**.
+- *Uwaga wykonawcza (zasada 8):* komór jest **dziewięć** (pełne: Biały Port i Fosa; kartowe: Stary Zamek, Wdowia Strażnica, Barrowton, Deepwood Motte, Niedźwiedzia Wyspa, przystań Karholdu, obejścia Przesmyku). Dziewięciu ludzi, którzy znają prawo i piszą, to **więcej, niż Północ ma dziś wolnych**. Dlatego obsadza się je **kolejno**: najpierw komory pełne (Biały Port, Fosa), potem kartowe, w miarę jak przybywa ludzi (praktykanci prawa przy Justycjariuszu, Głębokorzeń). Do czasu obsadzenia danej komory sądzi tam sędzia objazdowy. Żołd idzie z Kasy 3, a kwotę poda Gawen.
 - **Wyrok w ciągu 3 godzin od zatrzymania**, a przy żywności w ciągu 2 godzin. Bez wyroku w tym czasie łódź albo wóz zostaje zwolniony **za kaucją**, a sprawa toczy się zwykłym trybem.
 - **Dowodem jest waga, księga i skrytka. Tortury są zakazane.**
 - **Odwołanie** przysługuje do Justycjariusza, a od niego do Króla.

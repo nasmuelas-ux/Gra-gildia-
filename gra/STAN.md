@@ -935,10 +935,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-22 poludnie · zima (300)
+- **Data:** 300-06-22 popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 62**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 65**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1966,7 +1966,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-22] `dziennik`: 300-06-22 PRZED POLUDNIEM, IZBA PRZY KUCHNI - SYMON PISZE DO SEPTONA OWENA (Septa Sniegow, BP) - wlasna reka, pieczec Domu: pyta, jak sie ma, bo dawno nie pisali; dziekuje za pomoc i za wszy…
 - [300-06-22] `septon_owen`: 06-22: list Symona z Fosy - jak sie ma, dawno nie pisali, podziekowanie za pomoc i za wszystko; dopisek Miry. Odpowiedz ~07-12 do Winterfell.
 - [300-06-22] `dziennik`: 300-06-22 PRZED POLUDNIEM - SYMON: nie pisze do Davosa; sprawe WIECEJ SMOCZEGO SZKLA DLA WINTERFELL omowi najpierw z Krolem (Winterfell ~07-08) - warunek Stannisa 'na Mur', prosba Davosa 'ni…
 - [300-06-22] `dziennik`: 300-06-22 PRZED POLUDNIEM, IZBA RZADCY - SYMON U WARRYNA: ile czarnego kamienia odlozyly torfiarnie od 03-18. Bez rzutu (ksiega lenna; liczby z zapisu + E). WARRYN otwiera osobna kartke w ks…
@@ -1978,3 +1977,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-22] `dziennik`: 300-06-22 PO OBIEDZIE (przed wyjsciem na przedmiescie) - SYMON do Miry: to jej wola; moze jej tylko powiedziec, ze ona nie musi szukac - wie, gdzie jest jej rodzina; on nie mial takiego szcz…
 - [300-06-22] `rodzina/MIRA`: 06-22: po slowach Symona ('ty wiesz, gdzie jest twoja rodzina; ja nie mialem tego szczescia') - Mira: jesienia, gdy bedzie w BP przy atelier, pojedzie do Sitowia; Rhona pojedzie z nia ('ja z…
 - [300-06-22] `rhona_siostra_miry`: 06-22: deklaruje, ze pojedzie z Mira do Sitowia jesienia - most do Derrena.
+- [300-06-22] `dziennik`: 300-06-22 POPOLUDNIE (NIEDZIELA), PLAC PRZY WADZE W CAILIN - SYMON NA TARGU. Bez rzutu (obraz miasta; ceny z kursu swiat.json; E). Przyboczny (Sten) dwa kroki z tylu. ⚠ ZAPIS: staly dzien ta…

@@ -8113,6 +8113,24 @@
    "wraca": "300-07-05",
    "zamyka": "projekt, miejsce i kosztorys koszar na stole pana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "GARNIZON GORACEGO PORTU - MIESZKA NA MIEJSCU (rozkaz pana 06-21): setka Hendry'ego, gdy wejdzie za mur od morza (rozkaz 05-16 'najpierw mur'), mieszka w Goracym Porcie NA STALE albo jest tam skoszarowana - nie dojezdza z Fosy. Kwatery w obrebie muru (Wieza Morska / Polnocna + izby przy murze) - do rysunku GP-1 (Garrick/rysownik). ZASADA 8: rodziny w porcie dopiero za murem; port na krawedzi zelaznych. Wlasni - bez rzutu.",
+   "kto": "HENDRY + HARLON + GARRICK (GP-1)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "kwatery garnizonu GP na rysunku GP-1",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-21",
+   "co": "ZOLNIERZE LENNA - MIESZKANIA SLUZBOWE I DODATKI (rozkaz pana 06-21): kazdy zolnierz stalej druzyny dostaje MIESZKANIE SLUZBOWE (lenna - na czas sluzby) albo izbe; do tego DODATKI. Propozycja Hendry'ego (do slowa pana): dodatek RODZINNY (zona, dzieci), dodatek GRANICZNY (Goracy Port, posterunki na gardlach), dodatek KONNY (jazda - pasza i podkowy). Kwoty - WARRYN z kosztorysem 07-05 (zasada 43). PYTANIE OTWARTE (Hendry): sluzbowe a polityka 'dom na wlasnosc' 06-19 (wlasnosc po roku) - czy zolnierz po roku dostaje izbe na wlasnosc jak inni, czy sluzbowe zostaje sluzbowym. Skarbiec lenna.",
+   "kto": "HENDRY + WARRYN (+ GARRICK - izby)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "kwoty dodatkow + regula mieszkan sluzbowych",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

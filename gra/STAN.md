@@ -915,10 +915,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-06-21 poludnie · zima (300)
+- **Data:** 300-06-21 popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 31**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 53**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -1931,7 +1931,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-21] `starkowie/ARYA`: 06-21 jej propozycje: KARB (kij z nacieciami na pol, jak Weese w Harrenhal) dla robotnikow nieczytajacych + czlowiek od skarg spoza nadzoru na kazdej budowie; Robb ma powiedziec przy lordach…
 - [300-06-21] `dziennik`: 300-06-21 POLUDNIE, OBIAD (koniec) - ⚑ SYMON: ZAPISAC I WDROZYC pomysly Aryi. Bez rzutow na wydanie. (1) LENNO - rozkaz pana: KARB na budowach (kij na pol, pisarz wyplat; start E ~06-29) + P…
 - [300-06-21] `starkowie/ARYA`: 06-21: pan wdrozyl jej karb i przysieznego od skarg (lenno + Korona); jej slowo o Lannisterach poszlo do Krola listem z dopiskiem, ze to jej mysl. 'Weese by sie wsciekl.' - smiech.
 - [300-06-21] `poprawki`: 300-06-21 POPRAWKA (zasada 31, wskazanie gracza): 'zapisac i wdrozyc' NIE oznaczalo listu do Krola - zamienilem decyzje pana w akt. SLOWO O LANNISTERACH: LISTU Z FOSY NIE BYLO; pan porozmawi…
@@ -1943,3 +1942,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-21] `poprawki`: 300-06-21 (GM, przed wyrenderowaniem): we wpisie o Mormontach wykreslone zdanie Aryi o 'liscie Lyanny do Stannisa' - w zapisie gry takiego listu NIE MA (zasada 1). Arya wymienia tylko Maege …
 - [300-06-21] `dziennik`: 300-06-21 POLUDNIE (cd.) - SYMON do Aryi: 'Twoja gwardzistka jest Mormontka' (JORELLE MORMONT, Gwardia Krolewska, siostra Dacey - przy Aryi od 06-03). Bez rzutu. ARYA - 'Wiem! Dlatego ja lub…
 - [300-06-21] `starkowie/ARYA`: 06-21: Jorelle Mormont (jej gwardzistka) - 'na Wyspie pyta sie, czy dziewczyna umie, nie czy moze'.
+- [300-06-21] `dziennik`: 300-06-21 WCZESNE POPOLUDNIE, DZIEDZINIEC FOSY - TRENING U BRAAWOSKIEGO MISTRZA - W KOLCZUDZE (wola pana). Bruk mokry po deszczu, niebo sie przeciera. Wlasny czlowiek - bez rzutu. MISTRZ krz…

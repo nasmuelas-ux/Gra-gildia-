@@ -41,7 +41,7 @@
   - **rodzinny:** na żonę i dzieci;
   - **graniczny:** Gorący Port i nocne posterunki na gardłach bagna;
   - **konny:** pasza i podkowy dla jazdy;
-  - *propozycja Hendry'ego do słowa pana:* **dowódczy**, dla dziesiętnika i setnika ruszenia (pkt 7).
+  - **dowódczy** ⚑ (06-21): dla dziesiętnika i setnika ruszenia oraz zastępcy ze wsi (pkt 7).
 - **Barwy:** pomarańczowa szarfa z piórem-płomieniem nosi już każdy. Tabardy, płaszcze, lekkie kolczugi i kusze według projektu drużyny Domu Tally są w etapie „ekwipunek na 700” (termin 09-01).
 
 ## 4. SZKOLENIE STAŁYCH
@@ -120,8 +120,8 @@ Każdy żołnierz stały, także dziesiętnik, co pół roku przechodzi próbę:
   - **z 200 stałych szkoła dowodzenia musi więc dać około 55 dowódców**, czyli co czwartego.
 
 **Ćwiczenia ruszenia** (wzorem rezerwy Korony, plan Osrica 05-24):
-- **jeden dzień w miesiącu**, w dzień targowy, żeby nikt nie tracił dnia przy polu;
-- **tydzień jesienią po żniwach (IX/X)**: szyk, ruszenie na sygnał, marsz do wieży ognia i na groblę;
+- **jeden dzień w miesiącu**, w dzień targowy, żeby nikt nie tracił dnia przy polu. ⚑ **Dzień ćwiczeń jest PŁATNY** (dniówka i chleb, 06-21);
+- **tydzień jesienią po żniwach (IX/X)**: szyk, ruszenie na sygnał, marsz do wieży ognia i na groblę; ⚑ Płatny jak dni ćwiczeń;
 - pierwszy dzień ćwiczeń po spisie (VIII).
 
 **Broń przy chacie:** ⚑ **włócznia i łuk** w chacie (06-21), a reszta w **skrzyni wsi** pod spisem i kwitem, u starszego wsi albo przy wieży ognia.
@@ -153,7 +153,7 @@ Każdy żołnierz stały, także dziesiętnik, co pół roku przechodzi próbę:
 ## 11. KOSZT
 Bez kwot (zasada 43). Pozycje do kosztorysu Warryna (07-05):
 - żołd przyrostu do 200;
-- dodatki: rodzinny, graniczny, konny i ewentualnie dowódczy;
+- dodatki: rodzinny, graniczny, konny i dowódczy;
 - broń ćwiczebna i cele;
 - pasza i podkowy;
 - dni ćwiczeń ruszenia (dniówka, chleb);
@@ -165,8 +165,9 @@ Dla porównania stawka z kursu: żołd zbrojnego to 40 miedziaków dziennie (eko
 ---
 
 ## ROZSTRZYGNIĘCIE PANA (300-06-21, wieczór)
-1. ⚑ **Ruszenie lenna to POWINNOŚĆ WOBEC PANA.** Nie jest dobrowolne i nie dostaje dniówki, inaczej niż rezerwa Korony. Spis obejmuje każdego zdolnego mężczyznę lenna od 16 do 50 lat. Dni ćwiczeń są obowiązkowe.
-   - *Hendry (w zakresie rady, poniżej progu 50):* w dzień ćwiczeń **chleb z wiktu twierdzy**. „Powinność nie znaczy głodny.”
-   - *Zasada 8 (Hendry):* przy Przesmyku ludzie znają plan Korony („u Króla płacą za dzień”). Lenno musi wytłumaczyć różnicę na słupie: powinność daje ochronę pana, ziemię lenna i sąd pana, a nie dniówkę.
+1. ⚑ **Ruszenie lenna to POWINNOŚĆ WOBEC PANA.** Spis obejmuje każdego zdolnego mężczyznę lenna od 16 do 50 lat, a dni ćwiczeń są obowiązkowe. *(Doprecyzowanie pana, 06-21 wieczór.)*
+   - **ĆWICZENIA SĄ PŁATNE:** dzień w miesiącu i tydzień jesienny, dniówka i chleb, tak jak u Korony. Kwota z kursu, liczy Warryn 07-05.
+   - **WEZWANIE DO WALKI W RAZIE ZAGROŻENIA NIE JEST PŁATNE.** To jest właśnie powinność wobec pana: ogień w łańcuchu, róg albo dzwon, i ruszenie staje bez dniówki.
+   - *VOID (GM):* wcześniejszy zapis „nie dostaje dniówki”, „chleb z wiktu twierdzy” i uwaga o słupie były błędnym odczytaniem odpowiedzi pana.
 2. ⚑ **Dodatek dowódczy: TAK.** Dostaje go dziesiętnik i setnik ruszenia (z drużyny) oraz zastępca ze wsi. Kwotę poda Warryn 07-05.
 3. ⚑ **Broń w chacie: WŁÓCZNIA I ŁUK**, wzorem Korony. Przy każdej wsi tarcza do strzelania, a reszta kompletu w skrzyni wsi. Kusza zostaje bronią drużyny i Jastrzębi.

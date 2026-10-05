@@ -8212,6 +8212,15 @@
    "wraca": "300-07-12",
    "zamyka": "odpowiedz Owena",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-22",
+   "co": "SMOCZE SZKLO DLA POLNOCY (WINTERFELL) - WIECEJ: pan omowi z KROLEM osobiscie w Winterfell (~07-08), zanim cokolwiek pojdzie do Stannisa/Davosa (decyzja pana 06-22, wariant c). Na stole: (1) warunek Stannisa - szklo 'na Mur' (skreslone z towarow Korony 06-07); prosba o wiecej dla Winterfell = prosba o zmiane warunku - list w imieniu Krola, Krol podpisuje; (2) prosba Davosa - o szkle NIC NA PAPIERZE (300-03): forma listu bez slowa 'szklo' albo slowo ustnie (jak Dagon w III); (3) kanal - Davos przez Bialy Port. Drugie zrodlo wlasne: torfiarnie Fosy odkladaja czarny kamien (od 300-03-18) - ile zebrano, sprawdzic przy okazji. Prerogatywa Krola (zasada 22).",
+   "kto": "SYMON -> KROL",
+   "kanal": "rozmowa w Winterfell",
+   "wraca": "300-07-08",
+   "zamyka": "decyzja Krola: czy i jak prosic Stannisa",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

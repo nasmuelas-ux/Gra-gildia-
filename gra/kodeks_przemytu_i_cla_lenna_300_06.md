@@ -1,3 +1,5 @@
+> ## ⚠ COFNIĘTY 300-06-23 PRZED OGŁOSZENIEM (wola pana). ZASTĄPIONY: `gra/edykt_sprawiedliwosci_kanalowej_300_06.md`. Zostaje jako zapis historii.
+
 # KODEKS PRZEMYTU I CŁA: LENNO FOSY CAILIN
 ### Rozkaz pana, 300-06-23. Spisuje sędzia RODERYK. Dopisany do Prawa wody zakazanej (`gra/prawo_wody_zakazanej_300_06.md`).
 

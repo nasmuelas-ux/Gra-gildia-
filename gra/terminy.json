@@ -8292,11 +8292,11 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "odpowiedzi pana na 6 uwag + ogloszenie",
-   "status": "ZAMKNIETE 300-06-23 - rozstrzygniete; ogloszenie 06-24, obowiazuje od 07-01"
+   "status": "COFNIETY 300-06-23 przed ogloszeniem - zastapiony EDYKTEM SPRAWIEDLIWOSCI KANALOWEJ"
   },
   {
    "data": "300-06-23",
-   "co": "KODEKS PRZEMYTU I CLA - CZESC B (CLO KORONY) - PRZEDLOZYC KROLOWI (zasada 22: kary za clo Korony stanowi Krol; sady - Justycjariusz): potrojne clo + grzywna za obejscie, konfiskata wszystkiego za zjazd ze szlaku, przepadek + loch za przekupstwo, loch za ucieczke/recydywe. Rozmowa w Winterfell ~07-08 (razem ze Skagos, T1-B, smoczym szklem). Do tego czasu przy komorze - prawo komor 04-21 (towar znaleziony).",
+   "co": "KODEKS PRZEMYTU I CLA - CZESC B (CLO KORONY) - PRZEDLOZYC KROLOWI (zasada 22: kary za clo Korony stanowi Krol; sady - Justycjariusz): potrojne clo + grzywna za obejscie, konfiskata wszystkiego za zjazd ze szlaku, przepadek + loch za przekupstwo, loch za ucieczke/recydywe. Rozmowa w Winterfell ~07-08 (razem ze Skagos, T1-B, smoczym szklem). Do tego czasu przy komorze - prawo komor 04-21 (towar znaleziony). ### 06-23: kary celne do Krola - wg stopni EDYKTU SPRAWIEDLIWOSCI KANALOWEJ (gra/edykt_sprawiedliwosci_kanalowej_300_06.md).",
    "kto": "SYMON -> KROL",
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-07-08",
@@ -8305,7 +8305,7 @@
   },
   {
    "data": "300-06-23",
-   "co": "KAT LENNA - DO WSKAZANIA (kodeks przemytu 06-23: szubienica z katem): Roderyk + Hendry; oraz SZUBIENICA - miejsce (pod brama Fosy, sad grodzki). Odstepstwo od zwyczaju miecza - bedzie komentowane (Roderyk). Wlasni - bez rzutu.",
+   "co": "KAT LENNA - DO WSKAZANIA (kodeks przemytu 06-23: szubienica z katem): Roderyk + Hendry; oraz SZUBIENICA - miejsce (pod brama Fosy, sad grodzki). Odstepstwo od zwyczaju miecza - bedzie komentowane (Roderyk). Wlasni - bez rzutu. ### 06-23: EDYKT - kara smierci tylko za 3 czyny (sabotaz grobli/sluz/umocnien, zdrada obronnosci, zabicie straznika/urzednika na sluzbie); szubienica z katem zostaje.",
    "kto": "RODERYK + HENDRY",
    "kanal": "na miejscu",
    "wraca": "300-07-15",
@@ -8314,11 +8314,20 @@
   },
   {
    "data": "300-06-23",
-   "co": "ZSYLKA NA MUR ZAMIAST LOCHU (kodeks 06-23, do czasu budowy lochu): uzgodnic z Nocna Straza tryb przyjmowania skazanych z lenna (Hallis na Murze / Czarny Zamek) i transport - kolumna Umbera (dwie na kwartal) albo eskorta Jastrzebi do Ostatniego Domostwa. Kwit odbioru Strazy do ksiegi skazanych. Pismo sadu grodzkiego przez Winterfell (Luwin) do Hallisa/Clydasa. Odpowiedz Strazy - RZUT.",
+   "co": "ZSYLKA NA MUR ZAMIAST LOCHU (kodeks 06-23, do czasu budowy lochu): uzgodnic z Nocna Straza tryb przyjmowania skazanych z lenna (Hallis na Murze / Czarny Zamek) i transport - kolumna Umbera (dwie na kwartal) albo eskorta Jastrzebi do Ostatniego Domostwa. Kwit odbioru Strazy do ksiegi skazanych. Pismo sadu grodzkiego przez Winterfell (Luwin) do Hallisa/Clydasa. Odpowiedz Strazy - RZUT. ### 06-23: EDYKT - Mur jako kara za towary niebezpieczne (st. III) i forma laski pana; nadal potrzebny tryb przyjecia przez Straz.",
    "kto": "RODERYK -> HALLIS/CLYDAS",
    "kanal": "kruk Fosa-Winterfell-Czarny Zamek",
    "wraca": "300-07-20",
    "zamyka": "tryb przyjecia skazanych przez Straz",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-23",
+   "co": "EDYKT SPRAWIEDLIWOSCI KANALOWEJ I PORTOWEJ (wola pana 06-23, wersja dopasowana do swiata): gra/edykt_sprawiedliwosci_kanalowej_300_06.md. Ogloszenie 06-24 (slupy, herold przy wadze, po nabozenstwie, krannogowie przez poslanca) RAZEM z prawem wody; OBOWIAZUJE OD 07-01. Do wykonania przed 07-01: (1) SAD WAGI - delegat sadu grodzkiego dla Goracego Portu + dwaj lawnicy (lawa/Bractwo) - Roderyk z Herwinem; (2) POMARANCZOWE BANDERY I LATARNIE - wzor i wydawanie (komora - Rorik; kancelaria - tabliczki+bandery dla lodzi lenna) - plotno przez atelier Miry; (3) TABLICA KAUCJI sadu wagi (Roderyk); (4) INSPEKTORZY CZYSTEGO KANALU - pierwszych dwoch wskazuje pan z Roderykiem (imiona tylko u nich); premia roczna - kwota Warryn; (5) TABLICE MOSIEZNE - Goracy Port (komora) i sluza mlyna w Cailin - rytownik Marr, koszt Warryn (ponad 50 smokow - pieczec pana jest). Wlasni - bez rzutu.",
+   "kto": "RODERYK + RORIK + KESSEL + WARRYN + HERWIN",
+   "kanal": "na miejscu; slupy",
+   "wraca": "300-07-01",
+   "zamyka": "edykt ogloszony, sad wagi obsadzony, bandery wydawane",
    "status": "otwarte"
   }
  ],

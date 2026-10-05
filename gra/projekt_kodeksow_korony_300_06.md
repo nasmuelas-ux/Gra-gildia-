@@ -49,9 +49,9 @@
 - **Pierwsza komora wodna** to wypełnienie dziury nr 1 z Karty: Biały Port i ujście przy Fosie, obsadzone ludźmi Korony.
 - **Prawo wody zakazanej w portach Korony**: pas wokół nabrzeży, wież i składów Korony, z tym samym trybem co w lennie (obserwacja, wezwanie, strzał ostrzegawczy, abordaż).
 
-## F. ZSYŁKA NA MUR: JEDEN TRYB DLA CAŁEJ PÓŁNOCY
-- **Umowa Korony z Nocną Strażą**: skazanych z każdego lenna i z domeny przyjmuje Straż na kwit. Transportują ich kolumny zaopatrzenia Umbera (dwie na kwartał, kontrakt Korony) albo eskorta do Ostatniego Domostwa.
-- Kwit Straży trafia do **jednej księgi skazanych Korony**.
+## F. ZSYŁKA NA MUR
+- **Tryb jest zwyczajowy i nie wymaga umowy ani zawiadamiania Nocnej Straży** (wola pana, 06-23): Straż od zawsze przyjmuje skazanych, którzy wybierają czerń.
+- Skazanych z lenn i z domeny **odstawia się** z kolumnami zaopatrzenia Umbera (dwie na kwartał, kontrakt Korony) albo z eskortą do Ostatniego Domostwa. Do **jednej księgi skazanych Korony** wpisuje się tylko, kto i kiedy został odstawiony.
 
 ## G. KARA ŚMIERCI W PRAWIE KORONY: ŚRODEK OSTATECZNY
 - Tylko za: **sabotaż wieży ognia, traktu, mostu albo umocnienia Korony**; **zdradę obronności Północy**; **zabicie urzędnika lub strażnika Korony na służbie**.
@@ -62,8 +62,7 @@
 ## DZIAŁANIA, KTÓRE KORONA MOŻE PODJĄĆ OD RAZU (nie czekając na Radę)
 1. **Uznać Fosę za próbę Korony**: lenno już stosuje te prawa, a sprawozdanie z sezonu trafi do Króla i Justycjariusza.
 2. **Wydać rozkaz** o bezpłatnej kontroli żywności przy komorach pełnych. To rozkaz administracyjny, nie kara, więc nie wymaga Rady.
-3. **Wysłać pismo do Nocnej Straży** w sprawie trybu przyjmowania skazanych (sprawa Króla, przez Hallisa).
-4. **Zlecić Gawenowi i Bryenowi**, żeby lustratorzy zaczęli od komór pełnych.
-5. **Na Radzie**: kary celne (A), sąd przy bramie (B), czystość służby (D), wody i bandery (E), kara śmierci (G), razem z Prawem o składach zboża.
+3. **Zlecić Gawenowi i Bryenowi**, żeby lustratorzy zaczęli od komór pełnych.
+4. **Na Radzie**: kary celne (A), sąd przy bramie (B), czystość służby (D), wody i bandery (E), kara śmierci (G), razem z Prawem o składach zboża.
 
 *Symon Tally, Namiestnik Króla Północy. Projekt, nie prawo, dopóki Król nie podpisze.*

@@ -8500,6 +8500,60 @@
    "wraca": "300-07-05",
    "zamyka": "obie izby gotowe",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "CP-0 RACHUNEK TORFU (etapy projektu Cailin, ciepło i para): ile torfiarnia daje rocznie, ilu kopie, kto ile spala (szklarnie, chalupy, kadzielnice, warzelnia, Fosa), ile zostaje na zime. Wlasni - bez rzutu.",
+   "kto": "JORREN LUT + WARRYN",
+   "kanal": "na miejscu",
+   "wraca": "300-08-15",
+   "zamyka": "rachunek torfu na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "PC-0 KAPITAN PORTU CAILIN - obsadzic imiennie (zasada 42, oba spisy): czyta, liczy, zna wode i wozy; potem PC-2 place wozowe i stajnie drewniane przy grobli pod zboze z Reach (IX). Wlasni - bez rzutu.",
+   "kto": "GARRICK (wskazuje)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "kapitan portu imiennie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "SF-0 SPLAW RZEKA FEVER - POMIAR LETNI (glebokosc, bystrza, mielizny, sciezka holownicza, przystanie) - do mapy bagna; prowadzi KESSEL (prop.). SF-2 pomiar zimowy (tygodnie pod lodem) zima 300/301. Wlasni - bez rzutu.",
+   "kto": "KESSEL + pisarz kancelarii",
+   "kanal": "na miejscu",
+   "wraca": "300-08-15",
+   "zamyka": "pomiar letni na mapie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "WEYLIN PO POWROCIE (~VII) - KOLEJKA RYSUNKOW wg etapow projektu Cailin: MF-1 obwod murow miasta+fortecy i PC-1 basen/brama wodna (09-01..09-15) PRZED PD-1 Pomaranczowy Dwor (09-15); LP-1 spad kola przy Wielkiej Sluzie z R-1 (10-15); CP siec pary z Orwynem. Wlasny - bez rzutu.",
+   "kto": "WEYLIN + ORBELO (+ Orwyn, Hendry)",
+   "kanal": "na miejscu",
+   "wraca": "300-09-15",
+   "zamyka": "rysunki MF-1, PC-1, PD-1 na stole",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "CP-1 WZORNIK PIECA POD PODLOGA (kanaly w posadzce, komin w bazalcie) - standard dla budynkow publicznych, lecznicy, szkoly, internatu; wisi u wagowego obok wzornika. Wlasni - bez rzutu.",
+   "kto": "BENNIS + WERRAN",
+   "kanal": "na miejscu",
+   "wraca": "300-09-01",
+   "zamyka": "wzornik u wagowego",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "ETAP 0 - WYCHODKI: dol na kazdy barak, z dala od wody pitnej (brak w zapisie imiennie) - prowadzi HERWIN (prop.) z Nina.",
+   "kto": "HERWIN + NINA",
+   "kanal": "na miejscu",
+   "wraca": "300-08-01",
+   "zamyka": "wychodki przy kazdym baraku",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -698,3 +698,7 @@ Na skraju ogrodów, przy kanale i wejściu do Lecznicy: niska, stabilna wieża z
 | **5** | **Szkoła i internat** | dzieci | **od 07-01** (Nina ogląda dzieci z przedmieścia), stała izba w internacie (~08-25) | Nina / Gytha w dni szkolne |
 
 *Zasada 8: każda mała lecznica to człowiek, którego Nina musi najpierw wyuczyć. Sieć rośnie w tempie uczennic, a nie w tempie budów. Dlatego trzecia i czwarta uczennica są potrzebne od zaraz.*
+
+---
+# ETAPY RESZTY PROJEKTU — `gra/etapy_projektu_cailin_300_06.md` (300-06-26)
+**Pomarańczowy Dwór (PD-0..6) · Latarnia Pióra i Płomienia (LP-0..6 + Archiwum Domu) · IX Ciepło i para (CP-0..6) · VI Port Cailin (PC-0..6) · Spław rzeką Fever (SF-0..5) · Etapy miasta 0–IV jako lista · Mury miasta i forteca jako jedna całość (MF-0..7).** Tabela obsady z 300-02-27 (punkt 10 E) jest **historyczna**; obsadę bieżącą (propozycje do słowa pana) podaje plik etapów.

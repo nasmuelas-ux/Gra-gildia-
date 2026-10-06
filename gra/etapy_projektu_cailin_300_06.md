@@ -148,3 +148,38 @@
 - **Mury:** prowadzi lenno (Garrick), rysunki robi Weylin.
 
 *Zasada 8: Weylin jest w pięciu wierszach naraz (PD-1, LP-1, PC-1, MF-1, CP). Wraca z Kamiennego Brzegu około lipca i będzie wąskim gardłem. Kolejność jego rysunków: **MF-1 i PC-1 przed PD-1**, bo mur i port idą przed Dworem.*
+
+---
+
+## ⚑ PRZYDZIAŁ NOWYCH MAESTRÓW: wola pana 300-06-26
+*Nowi maestrowie z Cytadeli (list 05-17, rzut 94) przyjeżdżają **~07-01** z Białego Portu i składają przysięgę służby panu Fosy według zwyczaju. Przydział zaczyna obowiązywać od przysięgi. **Odciąża to Weylina**, który miał być w pięciu wierszach naraz. Weylin zostaje przy tym, co jest jego rzemiosłem: mury, wieże, Dwór.*
+
+### MAESTER ORWYN: wody, grunty, groble i kanały; ogniwa żelaza i miedzi
+*Osuszał mokradła nad Miodowinem dla lorda Hightower. „Cierpliwy, uparty, nie lubi pośpiechu. W bagnie to zaleta” (Cytadela). „Nudny jak kanał i równie pożyteczny” (Luwin).*
+
+| Część | Co przejmuje | Zamiast |
+|---|---|---|
+| **Ruszt (R)** | **R-0 rysunek sieci** (08-15, było już jego), **R-1 Wielka Śluza** razem z Orbelo | — / Weylin, gdy wróci |
+| **Ciepło i para (CP)** | **rysunek sieci pary i ciepłej wody** (CP-4 do CP-6), **R-2 / CP-5 magistrala** (miedź: jego ogniwo) | Weylin |
+| **Port Cailin (PC)** | **PC-1 pomiar basenu i bramy wodnej** (09-01), potem PC-5 basen | Weylin |
+| **Latarnia Pióra (LP)** | **LP-1 spad dla koła papierni** przy Wielkiej Śluzie (10-15, razem z R-1) | Weylin |
+| **Spław Fever (SF)** | **doradca Kessela**: głębokość, bystrza, przystanie (SF-0, SF-4); **zimowy pomiar lodu** (SF-2) prowadzi z nim | — |
+| **Bagienne Ogrody (BO)** | **BO-1**: komora termiczna, dopływ i odpływ wody do kąpieliska przepływowego | Weylin |
+| **Etap 0 miasta** | **wychodki i woda pitna** razem z Herwinem i Niną: gdzie dół, a gdzie studnia (z dala od siebie) | — |
+
+### MAESTER EDMUND: ziołolecznictwo i lecznictwo; srebrne ogniwo
+*Służył przy zarazie w Starym Mieście. „Zna trucizny po to, żeby ich nie używać” (Cytadela).*
+
+| Część | Co przejmuje | Uwagi |
+|---|---|---|
+| **Bagienne Ogrody (BO)** | **BO-3 Apteka**: on jest **zielarzem-aptekarzem**, którego brakowało w warunku BO-3; destylarnia, suszarnie, **kantor leków** | warunek BO-3 spełniony z jego przyjazdem |
+| **Lecznica (BO-0 do BO-2)** | lekarz lecznicy **obok Niny i Vessara**: izba gorączki, izba odosobnienia, **księga medycyny** (trzy ręce: zielarka, braawoski lekarz, maester) | **Nina zostaje głową lecznicy** (zasada 42: kto prowadzi, ten obsadza). Edmund pracuje z nią, nie nad nią |
+| **Sieć małych lecznic** | **nauka uczennic Niny** (litery i księga chorych) | uczennice uczą się szybciej, gdy ktoś zna pismo |
+| **Ciepło i para (CP-3)** | szklarnie jako ogród apteki: **co sadzić pod szkłem** (zioła lecznicze), razem z Werranem | BO-4 |
+| **Prawo o żywności** | **biegły przy Sądzie Wagi** w sporach o zepsucie, obok Niny (prawo żywności I-2) | od 07-01 |
+
+### WEYLIN (zostaje przy swoim)
+**MF-1 obwód murów miasta i fortecy** (09-15) → **PD-1 Pomarańczowy Dwór** → wieże i kurtyna (MF-3, MF-4). Odciążony z portu, pary, spadu i rusztu.
+
+### KRZESŁO MAESTRA W RADZIE LENNA
+Puste od 05-26 (Wystan na Murze). **Kto z dwóch je zajmie, ustala pan przy przysiędze 07-01.** *(Propozycja: Orwyn, bo rada lenna to dziś głównie grunt, woda i budowy. Edmund jest zawsze na wezwanie w sprawach zdrowia.)*

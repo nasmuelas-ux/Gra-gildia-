@@ -8530,7 +8530,7 @@
   },
   {
    "data": "300-06-26",
-   "co": "WEYLIN PO POWROCIE (~VII) - KOLEJKA RYSUNKOW wg etapow projektu Cailin: MF-1 obwod murow miasta+fortecy i PC-1 basen/brama wodna (09-01..09-15) PRZED PD-1 Pomaranczowy Dwor (09-15); LP-1 spad kola przy Wielkiej Sluzie z R-1 (10-15); CP siec pary z Orwynem. Wlasny - bez rzutu.",
+   "co": "WEYLIN PO POWROCIE (~VII) - KOLEJKA RYSUNKOW wg etapow projektu Cailin: MF-1 obwod murow miasta+fortecy i PC-1 basen/brama wodna (09-01..09-15) PRZED PD-1 Pomaranczowy Dwor (09-15); LP-1 spad kola przy Wielkiej Sluzie z R-1 (10-15); CP siec pary z Orwynem. Wlasny - bez rzutu. ### 06-26 PRZYDZIAL MAESTROW (pan): PC-1 basen, LP-1 spad, siec pary CP, R-1 sluza (z Orbelo), BO-1 - przejmuje MAESTER ORWYN; Weylinowi zostaje MF-1 (09-15) -> PD-1 -> wieze i kurtyna.",
    "kto": "WEYLIN + ORBELO (+ Orwyn, Hendry)",
    "kanal": "na miejscu",
    "wraca": "300-09-15",
@@ -8553,6 +8553,15 @@
    "kanal": "na miejscu",
    "wraca": "300-08-01",
    "zamyka": "wychodki przy kazdym baraku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "MAESTROWIE ORWYN I EDMUND NA FOSIE (~07-01): PRZYSIEGA SLUZBY PANU + PRZYDZIAL wg etapow projektu Cailin (wola pana 06-26): ORWYN - ruszt R-0/R-1, siec pary CP, PC-1 basen, LP-1 spad, doradca Kessela przy Fever (SF), BO-1 woda lecznicy, wychodki i studnie etapu 0; EDMUND - apteka BO-3 (zielarz-aptekarz), lekarz lecznicy obok Niny (Nina glowa), nauka uczennic, szklarnie-ogrod apteki z Werranem, bieglly przy Sadzie Wagi (zywnosc). KRZESLO MAESTRA W RADZIE LENNA - pan wskazuje przy przysiedze (prop. Orwyn). Do tego: pytanie o ksiege przyjec Cytadeli (Aemon Rivers) - watek korzeni. Wlasni - bez rzutu.",
+   "kto": "SYMON + ORWYN + EDMUND",
+   "kanal": "osobiscie na Fosie",
+   "wraca": "300-07-01",
+   "zamyka": "przysiega zlozona, przydzial przyjety, krzeslo rady obsadzone",
    "status": "otwarte"
   }
  ],

@@ -25,7 +25,40 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**200 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**200 otwartych** · **0 PRZETERMINOWANYCH** · 31 wraca dzis
+
+### 🟡 WRACA DZIS
+- LOCKE - nie przyjedzie na ucztę: spor o pale z Wdowia Straznica (Justycjariusz, mediacja od 04-02) nierozstrzygniety. Podarek: sko… · _kanal:_ kruk Winterfell-Stary Zamek
+- WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEK… · _kanal:_ kruk Winterfell-Fosa (05-21) + droga Fosa-Kamienny Brzeg (E: tygodnie)
+- T1-C i T1-D (BLIZNIAKI-SEAGARD, SEAGARD-RIVERRUN) - listy Krola do Freya, Mallistera i Edmure'a PO RATYFIKACJI: zgoda na odcinki, … · _kanal:_ kruki Winterfell-Blizniaki / Seagard / Riverrun
+- T3-A POMIAR FOSA -> PRZYSTAN WILKA - mierniczy z tyczka od 06-10; przebieg i podzial na ziemie (lenno / Manderly / Cerwyn) na pism… · _kanal:_ Fosa + kruk Fosa-Winterfell
+- GAWEN - KSIEGA SKARBU PRZEPISANA: Korona, nie tylko skarb (moneta + spienieznienie swiadczen w naturze + co zjadane w naturze, oso… · _kanal:_ Winterfell
+- PRZETWARZANIE TOWARU Z DANIN W WARSZTATACH DOMU (garbarnia, przedzalnia/farbiarnia, wedzarnia, bednarnia, warzelnia) - Gawen + Hal… · _kanal:_ Winterfell / kruk BP
+- PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy… · _kanal:_ osobiscie / kruk
+- WSPOLNY ZAKUP Z LORDAMI (z zalozenia karty Spichlerza, Etap II: 'Korona kupuje raz, latem, kontraktem') - BEZ RZUTU (VOID rzutu 06… · _kanal:_ kruki Krola do lordow (po liscie pana, ~06-15)
+- BARROWTON - WAGOWY I PISARZ SKLADU OD DOMU (Hal, na rok, placi miasto Barrowton) + WZOR KSIEGI Z FOSY (Etap I: waga, kwit, stan zi… · _kanal:_ list z Fosy (~06-17) do Hala + odpis z Fosy do Barrowton
+- HAL - SKUP PAPIEROW DLUZNYCH LANNISTEROW (rozkaz pana 06-19): wszystkie, jakie sie da, przez placowki Domu - Riverrun (Lyman od Br… · _kanal:_ list pana z poczta Fosa-Bialy Port (dzis); placowki - kanaly Domu
+- POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamie… · _kanal:_ list pana do Hala (poczta BP) + na miejscu
+- JASTRZEBIE 100 - KOSZTORYS: zold (stala zaplata z kasy lenna), lodzie, kusze, baraki, chleb - Warryn i Garrick, do Kasy 2 (E -> li… · _kanal:_ na miejscu
+- DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; … · _kanal:_ na miejscu
+- OGIEN W CAILIN - STRAZ OGNIOWA DORAZNA (zgoda pana 06-19, rada Hendry'ego): bosaki, drabiny, beczki z woda przy kazdym rzedzie dom… · _kanal:_ na miejscu
+- WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z … · _kanal:_ na miejscu
+- CZCIONKA - RYTOWNIK OD MARRA (warsztat jubilerski Domu, Bialy Port) na Fose do ciecia stempli liter: list Ilaria + pieczec pana do… · _kanal:_ poczta Fosa-Bialy Port
+- SKARBIEC LENNA - ROZLICZENIE WSTECZ (rozkaz pana 06-20): Warryn z ksiegi lenna potraca od salda 811..1856 (E, wynik Kasy 2 od 03-1… · _kanal:_ na miejscu; list do Hala
+- KSIEGA SKLADU CAILIN - PIERWSZE LICZBY (prawo skladu nadane przez Krola ~300-03-30; kwot brak w zapisie - zasada 43): Bennis (waga… · _kanal:_ na miejscu
+- SKLAD GLOWNY CAILIN PRZED BRUKIEM (decyzja pana 06-20, rada Warryna): w kolejce kamienia sklad (bazalt, ogrzewany od spodu, bez ok… · _kanal:_ na miejscu
+- KOMORA FOSY - DWOCH PSIARZY I WAGOWY WIECEJ (zgoda pana 06-20): dobiera Rorik (zasada 42); placi Korona (Gawen). · _kanal:_ na miejscu / poczta
+- KOLEJNOSC WYDATKOW LENNA (zgoda pana 06-21, propozycja Warryna): (a) ludzie - zold, dniowki, pisarze, zwrot dniowek, OBIAD SZKOLNY… · _kanal:_ na miejscu; raport rady
+- NARZEDZIA LENNA (zgoda pana 06-21, propozycja Warryna): PIETNO LENNA na kazdym narzedziu; wydawanie RANO na kwit przy wadze (pisar… · _kanal:_ na miejscu
+- DZWON NA BRAMIE FOSY/CAILIN (zgoda pana 06-21, propozycja Hendry'ego): CIAGLY = POZAR (wiadra, domy nad kanalem); TRZY I PRZERWA =… · _kanal:_ na miejscu
+- KOSZARY MUROWANE DLA ZOLNIERZY I REKRUTOW LENNA (rozkaz pana 06-21, przy przegladzie garnizonu): zamiast kwater drewnianych pod 20… · _kanal:_ na miejscu
+- GARNIZON GORACEGO PORTU - MIESZKA NA MIEJSCU (rozkaz pana 06-21): setka Hendry'ego, gdy wejdzie za mur od morza (rozkaz 05-16 'naj… · _kanal:_ na miejscu
+- ZOLNIERZE LENNA - MIESZKANIA SLUZBOWE I DODATKI (rozkaz pana 06-21): kazdy zolnierz stalej druzyny dostaje MIESZKANIE SLUZBOWE (le… · _kanal:_ na miejscu
+- PIECIORO DRZWI (projekt Miry, wola pana 06-23: zapisac i zaprojektowac kazdy; gra/projekt_pieciu_drzwi_cailin_300_06.md): (1) DOM … · _kanal:_ na miejscu; kruk do Hala
+- PIECIORO DRZWI (projekt Miry, wola pana 06-23: zapisac i zaprojektowac kazdy; gra/projekt_pieciu_drzwi_cailin_300_06.md): (4) OPIE… · _kanal:_ na miejscu
+- LECZNICA FOSY - IZBA GORACZKI OSOBNO OD RAN + IZBA ODOSOBNIENIA PRZY PRZYSTANI NA GROBLI (BO-0, uwagi Vessara 06-26): szopa wybiel… · _kanal:_ na miejscu
+- UT-0 UMOCNIENIE TRAKTU - ZASADY NA PISMIE (poprawka pana 06-28): TRAKT KROLEWSKI - wlasciciel KORONA; DOM TALLY finansuje calosc j… · _kanal:_ na miejscu / poczta BP
+- GRANICA MIASTA CAILIN - SLUPY TYMCZASOWE wg planu (zamek / miasto / lenno + obszary planowe w rezerwie); przy kazdej szopie przedm… · _kanal:_ na miejscu; meldunek w zbiorczym Garricka
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1003,10 +1036,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-04 wieczor · zima (300)
+- **Data:** 300-07-05 rano · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 18**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 0**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 45 smokow + 54 jeleni + 11 mied
@@ -2109,7 +2142,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-04] `dziennik`: SNIADANIE U GUNTHORA (Wrzosowa): owsianka na mleku owczym, chleb owsiany, twarog, miod wrzosowy. Sytosc 72->92. Bez rzutu. ⚑ SYMON DAJE GUNTHOROWI 1 ZLOTEGO SMOKA z wlasnej sakiewki (46->45 …
 - [300-07-04] `dziennik`: POLUDNIE - POSTOJ POD BUKAMI PRZY TRAKCIE (osloniete od wiatru NW, strumien). SYMON: 'Dobrze, odpoczywamy.' Bez rzutu. Konie rozkulbaczone do polowy, pojone; przyboczni jedza z koszy przy ko…
 - [300-07-04] `dziennik`: POPOLUDNIE -> WIECZOR, TRAKT KROLEWSKI NA POLNOC. Bez rzutu (pogoda 61 caly dzien: chmury, chlodny wiatr NW, sucho). Pan nie jadl na postoju (sytosc 92 bez zmian). Zmeczenie 6->12. Pola owsa…
 - [300-07-04] `dziennik`: WIECZOR, ZAJAZD 'POD TOPOREM' - KOLACJA w izbie wspolnej, stol pod sciana (Sten wybral; rodzina pod sciana, pan od strony izby): Symon, Mira, Arya, Lyra, Rhona; Jorelle i Torvald przy koncu …
@@ -2121,3 +2153,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-04] `dziennik`: ZAJAZD 'POD TOPOREM' (cd.) - SYMON MOWI TORGENOWI, co wie nowszego: (a) MAESTER WYSTAN przy Aemonie od 05-26 (przyslany z Cytadeli przez Fose i Bialy Port); (b) HALLIS MOLLEN przejal sprawy …
 - [300-07-04] `dziennik`: ZAJAZD 'POD TOPOREM' (cd.) - SYMON do Torgena: 'Wiem, ale jesli opowiesci zza Muru sa prawdziwe, to musimy zaryzykowac.' Bez rzutu (slowa, nie akt). TORGEN: patrzy dlugo; 'Pierwszy pan z pol…
 - [300-07-04] `dziennik`: ZAJAZD 'POD TOPOREM' (cd.) - ROZMOWA PRZY STOLE (Symon, Mira, Arya, Rhona z Lyra; Jorelle i Torvald na koncu stolu). Bez rzutu. MIRA (cicho): 'Ten chlopak patrzyl na nia przez cala kolacje, …
+- [300-07-05] `dziennik`: 300-07-05 RANEK (SOBOTA), ZAJAZD 'POD TOPOREM' (rozstaj drogi z Barrowton). Wieczorem pan zaniosl Lyre na gore na rekach. SEN RZUT 79: noc dobra - halas poganiaczy ucichl przed polnoca, Lyra…

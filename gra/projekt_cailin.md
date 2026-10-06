@@ -705,4 +705,4 @@ Na skraju ogrodów, przy kanale i wejściu do Lecznicy: niska, stabilna wieża z
 
 ---
 # UMOCNIENIE TRAKTU (GROBLA T1-A) — `gra/umocnienie_traktu_grobla_300_06.md` (300-06-28)
-**Wola pana 300-06-28:** umocnienie grobli przez Przesmyk (przęsła zwodzone, wieże z komorą i ogniem w łańcuchu) + **KANAŁ PRZYTRAKTOWY dla barek tuż przy grobli** (trzyma pale w wodzie; zapora przy każdym przęśle). **FINANSUJE W CAŁOŚCI DOM TALLY** — bezzwrotne zasilenie Kasy 2 (wzór przewłoki); myto zostaje przy lennie; podział z 299-09-09 (Korona ~2/3) przestaje obowiązywać — do wiadomości Króla. Etapy UT-0..7.
+**Wola pana 300-06-28:** umocnienie grobli przez Przesmyk (przęsła zwodzone, wieże z komorą i ogniem w łańcuchu) + **KANAŁ PRZYTRAKTOWY dla barek tuż przy grobli** (trzyma pale w wodzie; zapora przy każdym przęśle). **TRAKT JEST KRÓLEWSKI** (właściciel Korona; myto/cło przy wieżach — Król); **FINANSUJE W CAŁOŚCI DOM TALLY jako DAR dla Korony** (nic w zamian); **nic poza pasem traktu — nie budujemy na bagnach Reedów** (poprawka pana 06-28). Etapy UT-0..7.

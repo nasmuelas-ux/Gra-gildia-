@@ -8638,8 +8638,8 @@
   },
   {
    "data": "300-06-28",
-   "co": "UT-0 UMOCNIENIE TRAKTU - ZASADY NA PISMIE + LICZBA WYJSCIOWA MYTA GROBLI (przed pierwszym palem umocnien): finansuje DOM TALLY w calosci (bezzwrotne zasilenie Kasy 2), myto lenna, kanal przytraktowy i przesla. Razem z rozliczeniem skarbca. Wlasni - bez rzutu.",
-   "kto": "WARRYN + HAL",
+   "co": "UT-0 UMOCNIENIE TRAKTU - ZASADY NA PISMIE (poprawka pana 06-28): TRAKT KROLEWSKI - wlasciciel KORONA; DOM TALLY finansuje calosc jako DAR dla Korony (Kasa 1 -> Korona, ksiega darow jawna, nic w zamian); wszystko TYLKO W PASIE TRAKTU, nic na bagnach Reedow; dzisiejszy ruch i oplaty na trakcie jako liczba wyjsciowa dla Krola. Wlasni - bez rzutu.",
+   "kto": "HAL (Dom) + GAWEN (Korona) + RORIK (ruch)",
    "kanal": "na miejscu / poczta BP",
    "wraca": "300-07-05",
    "zamyka": "zasady i liczba myta w ksiedze",
@@ -8647,7 +8647,7 @@
   },
   {
    "data": "300-06-28",
-   "co": "UT-0K UMOCNIENIE TRAKTU - DO WIADOMOSCI KROLA: Korona zwolniona z ~2/3 (decyzja 299-09-09); Dom Tally finansuje sam; clo Korony przy komorach kartowych bez zmian. Prerogatywa Krola, jesli zechce udzialu - RZUT przy rozmowie.",
+   "co": "UT-0K UMOCNIENIE TRAKTU - DO KROLA (Winterfell ~07-08): Dom bierze na siebie calosc jako DAR; Korona zwolniona z ~2/3 (299-09-09); MYTO I CLO PRZY WIEZACH na drodze krolewskiej USTALA KROL (prerogatywa); obsada wiez - ludzie Fosy w sluzbie Korony albo wlasni Korony. RZUT przy decyzji Krola.",
    "kto": "SYMON -> KROL",
    "kanal": "Winterfell (osobiscie)",
    "wraca": "300-07-08",
@@ -8656,7 +8656,7 @@
   },
   {
    "data": "300-06-28",
-   "co": "UT-1 MAPA GROBLI DO UMOCNIEN: gdzie przecinaja ja kanaly i gardla (przesla), twardy grunt pod wieze, linia kanalu przytraktowego. Wlasni - bez rzutu.",
+   "co": "UT-1 MAPA PASA TRAKTU KROLEWSKIEGO: granice pasa, gdzie przecinaja go kanaly i gardla (przesla), twardy grunt pod wieze, linia kanalu przytraktowego W PASIE - nic poza pasem (nie budujemy na bagnach Reedow). Wlasni - bez rzutu.",
    "kto": "KESSEL + MAESTER ORWYN",
    "kanal": "na miejscu",
    "wraca": "300-09-01",

@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**205 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- NIEDZIELA BEZ PISM (propozycja Miry 06-25, zgoda pana): 06-29 dzien tylko dla rodziny - gaj albo lodz po kanale; bez Garricka, poc… · _kanal:_ na miejscu
+**204 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -781,7 +778,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-06-25** — HOWLAND REED PRZYJEDZIE DO WINTERFELL 'jak liscie opadna' (list 06-25, rzut 90): do dzieci i do Brana; slowo lorda Reeda, bez daty. Sprawdzenie przy pierwszych przymrozkach. · _kto:_ **HOWLAND REED** · _zamyka:_ Reed w Winterfell albo wiesc, ze nie
 - **300-06-25** — INTERNAT SZKOLY FOSY - stara stajnia jazdy przy wschodnim murze (Garrick): siano wyniesc, wapno, piec pod podloga, przegroda, ~20 lozek ze skrzynkami (E); gotowy przed naborem. Kasa 1 (Dom, wycena Hal). Wlasni - bez rzutu. · _kto:_ **GARRICK + ciesla; HAL (wycena)** · _zamyka:_ internat gotowy na pierwsze dzieci z wsi
 - **300-06-25** — LOWCY TALENTOW - PISMO MIRY I GARRICKA (wychodzi 06-26): septoni, sedziowie objazdowi, komory, Theomore, Bors, Corwin (Wystan skreslony - Mur); dwie rubryki: dzieci, ktore licza lepiej niz ojciec / dorosli, ktorzy umieja UCZYC. Odpowiedzi zbiera Mabel. Odzew - RZUT przy naborze 09-01. · _kto:_ **MIRA + GARRICK -> lowcy; MABEL** · _zamyka:_ lista kandydatow na nabor
-- **300-06-26** — NIEDZIELA BEZ PISM (propozycja Miry 06-25, zgoda pana): 06-29 dzien tylko dla rodziny - gaj albo lodz po kanale; bez Garricka, poczty, mistrza. Rzeczy ida same (karb - Garrick, obsydian - Warryn). · _kto:_ **SYMON + MIRA + LYRA (+ ARYA)** · _zamyka:_ dzien spedzony
+- **300-06-26** — NIEDZIELA BEZ PISM (propozycja Miry 06-25, zgoda pana): 06-29 dzien tylko dla rodziny - gaj albo lodz po kanale; bez Garricka, poczty, mistrza. Rzeczy ida same (karb - Garrick, obsydian - Warryn). · _kto:_ **SYMON + MIRA + LYRA (+ ARYA)** · _zamyka:_ dzien spedzony **⚠ ZAMKNIETE 06-29 - DZIEN SPEDZONY (RANO DOM, PO POLUDNIU LODZ DO GAJU)**
 - **300-06-26** — LESNICZY ODO SMOLARZ - PRZYSIEGA przed Roderykiem (sobota, przy radzie lenna). · _kto:_ **RODERYK + ODO** · _zamyka:_ przysiega zlozona **⚠ ZAMKNIETE 06-28 - PRZYSIEGA ZLOZONA PRZED RODERYKIEM NA RADZIE**
 - **300-06-26** — LECZNICA - TRZECIA I CZWARTA UCZENNICA NINY (wola pana 06-26): imie daje NINA (zasada: kto pracuje, ten nazywa); szuka w obu spisach + wsrod kobiet, ktore opatruja po barakach. Wlasni - bez rzutu. · _kto:_ **NINA (+ Mella, spisy)** · _zamyka:_ dwie nowe uczennice imiennie
 - **300-06-26** — MALA LECZNICA nr 1 PRZY BARAKACH I GROBLI (siec malych lecznic, projekt_cailin VIII): szopa wybielona, wrzatek, ksiega, goraczka osobno; GYTHA. Miejsce wskazuje Garrick. Wlasni - bez rzutu. · _kto:_ **GARRICK (miejsce) + GYTHA + NINA** · _zamyka:_ mala lecznica przyjmuje pierwszych
@@ -982,7 +979,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-06-29 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 25**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 32**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 46 smokow + 54 jeleni + 11 mied
@@ -2059,7 +2056,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-06-28] `dziennik`: 300-06-28 (cd.) - ⚑ PAN: trakt jest KROLEWSKI i nie nalezy do Reedow; nie budujemy nic na ich bagnach. Poprawione w gra/umocnienie_traktu_grobla_300_06.md: wlasciciel KORONA; Dom Tally placi…
 - [300-06-28] `dziennik`: 300-06-28 (cd.) - ⚑ PAN: NA GROBLI TYLKO DWIE STRAZNICE Z PRZESLEM ZWODZONYM, NIE WIECEJ: (1) GRANICZNA - na granicy Przesmyku z Dorzeczem (od Riverrun); (2) SRODKOWA - w polowie grobli. Pol…
 - [300-06-28] `dziennik`: 300-06-28 (cd.) - ⚑ PAN (ostatecznie): 4 STRAZNICE (po 2 obok siebie) i 2 MOSTY obok nich - DWA PUNKTY: GRANICZNY (granica z Dorzeczem) i SRODKOWY (polowa grobli); w kazdym para strazic po o…
 - [300-06-28] `dziennik`: 300-06-28 POZNE POPOLUDNIE - POWROT TRAKTEM KU FOSIE; SYMON PATRZY NA BAGNA PO OBU STRONACH. Bez rzutu. Zmeczenie 26->29. ZACHOD: plaska zielono-szara rownina trzcin i torfowych oczek az po …
@@ -2071,3 +2067,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-06-28] `dziennik`: 300-06-28 KOLACJA (cd.) - SYMON do Aryi: takie decyzje musi podjac jej brat (Krol); on moze jej tylko powiedziec, ze jest tu mile widziana. Bez rzutu. ARYA - chwile patrzy, potem kiwa glowa,…
 - [300-06-29] `dziennik`: 300-06-29 RANEK (NIEDZIELA - DZIEN BEZ PISM), FOSA - SEN RZUT 55: noc przecietna; zdrowie 100, zmeczenie 53->25, sytosc 100->72. POGODA RZUT 9 - JEDNA KONSEKWENCJA: deszcz z wiatrem od morza…
 - [300-06-29] `dziennik`: 300-06-29 SNIADANIE (NIEDZIELA), IZBA RODZINNA - Symon, Mira, Arya, Lyra, Kamyk. Deszcz za oknem, ogien w kominku. Nelda (niedzielne, jak 06-22): jajecznica na boczku, chleb pszenny, miod, s…
+- [300-06-29] `dziennik`: 300-06-29 PRZEDPOLUDNIE W DOMU (deszcz): Mira z Lyra i Kamykiem na kocu przy kominku, Arya uczy Lyre 'lodz' i 'woda'; Symon z rodzina - bez pism. KOLO POLUDNIA DESZCZ USTAJE (pogoda 9 - kons…

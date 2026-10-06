@@ -33,3 +33,6 @@
 
 ## IV. ZASADA 8
 Herwin powiedział to sam 06-20: *grzywny z ławy idą do kasy miejskiej, z sądu grodzkiego do Kasy 2. Im więcej miasta, tym mniej grzywien pana.* Przedmieście w obrysie przechodzi pod ławę, a z nim jego grzywny.
+
+## V. SŁOWO PANA 06-30
+*„Kasa miejska potrzebuje pieniędzy. Lennu nie zależy na grzywnach, tylko na sprawiedliwości.”* Przesunięcie grzywien z przedmieścia do kasy miejskiej zostało przyjęte świadomie. Grzywna nie jest dochodem lenna: wymiaru kary nie ustala się pod kasę.

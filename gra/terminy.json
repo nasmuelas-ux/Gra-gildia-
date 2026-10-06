@@ -2599,7 +2599,7 @@
    "kanal": "karta odbioru z budow",
    "wraca": "300-07-01",
    "zamyka": "decyzja lorda o otwarciu albo zamknieciu targu dla wyrobu Cailin",
-   "status": "otwarte - ze spustem; ROZSTRZYGNIETE NA ZAPAS 300-04-22: przy nadwyzce - TARG DLA POLNOCY (bez wywozu za Przesmyk), Warryn otwiera sam i melduje; w Cailin tylko BRACTWA, nie cechy. ### DATA 06-01: przeglad produkcji Fosy wobec budow w zbiorczym Garricka 07-01 (Warryn: czy jest nadwyzka)."
+   "status": "ZAMKNIETE 300-06-30: ⚑ DECYZJA PANA - 'Eksport z Cailin, zgoda.' TARG OTWARTY dla wyrobu Cailin od dzis, bez czekania na spust z karty odbioru (w sianokosy grobla i tak stoi - Garrick 06-30). Wg ramy 04-22: rynek POLNOCY; wywoz ZA PRZESMYK - nadal zakaz z 04-22, dopoki pan nie zdejmie osobno. Tylko bractwa, nie cechy. Budowy maja pierwszenstwo przy odbiorze (Warryn trzyma kolejke). Rubryka pochodzenia na liscie przewozowym (03-20) zostaje - 'beczki z Cailin nie ida na targ' (03-13) dotyczy odtad tylko tego, co zamowione na budowe. Wykonanie: Warryn, meldunek tego samego dnia."
   },
   {
    "data": "~300-03-22 do 300-03-24",
@@ -8715,6 +8715,15 @@
    "kanal": "kruk Fosa-Bialy Port dzis (z listami do Hala i Tama), statek BP-Braavos ~3 tyg.; odpowiedz ta sama droga + czas szukania",
    "wraca": "300-09-01",
    "zamyka": "nazwiska i warunki od Nesty (rzut) albo nazwana przyczyna braku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "CECHY BIALEGO PORTU WOBEC WYROBU CAILIN NA TARGU (zasada 8 - skutek otwarcia eksportu 06-30). Zapis 02-28: 'nie azyl uruchamia cech, tylko EKSPORT' - wyrob z pieczecia Bractwa (takze od wykletych przez cech) na straganie w Bialym Porcie cechy czytaja jako wypowiedzenie. 'Przyjda do Hala, nie do pana' - odpowiedz Hala ustalona 02-28: 'To jest nadanie mojego pana w jego lennie. Ja tu handluje.' Pierwszy woz z Fosy ~07-02..05, Bialy Port 6-8 dni. RZUT przy meldunku Hala (cechy - strona zewnetrzna).",
+   "kto": "HAL (Bialy Port) / cechy",
+   "kanal": "woz Fosa-Bialy Port; meldunek Hala krukiem do Winterfell",
+   "wraca": "300-07-15",
+   "zamyka": "meldunek Hala: co zrobily cechy (albo nic)",
    "status": "otwarte"
   }
  ],

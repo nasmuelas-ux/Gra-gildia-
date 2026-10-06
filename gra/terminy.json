@@ -8896,6 +8896,15 @@
    "wraca": "300-08-01",
    "zamyka": "liczba podana, akt podpisany",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-01",
+   "co": "⚑ WYPLATA 500 SMOKOW - DYWIDENDA I PREMIA DLA WSPOLNIKOW (rozkaz pana 07-01, po rewizji VII; z wolnej gotowki miesiaca 879-2 424 - Kasa 1; bufor 1000 nietkniety). WSPOLNICY CALOSCI (Zgromadzenie, 300-01-27): SYMON, NESTA, MIRA (~1/6 - wycena 300-02-06), HAL. Podzial liczy RACHMISTRZ GLOWNY TAM wg umow (udzialy Nesty i Hala - z umow, nie z glowy; zasada 43); wyplaca HAL (Bialy Port), Nesta - listem kredytowym do Braavos. ⚠ DO SLOWA PANA: co jest 'premia' i dla kogo - (a) czesc 500 dla wspolnikow calosci ponad dywidende, czy (b) premia dla MLODSZYCH WSPOLNIKOW (zarzadcy filii: Lyman, Deron, Obaro, Bialy Port...) wg wyniku ich filii - i w jakiej proporcji do dywidendy. Rozkaz do Tama i Hala - jutrzejszy kruk z odpisami rewizji.",
+   "kto": "SYMON -> TAM (podzial) -> HAL (wyplata)",
+   "kanal": "kruk Fosa-Bialy Port 07-02",
+   "wraca": "300-07-12",
+   "zamyka": "podzial Tama na pismie + kwity wyplat",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

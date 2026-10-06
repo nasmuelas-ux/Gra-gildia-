@@ -5,7 +5,7 @@
   "dzien": 30,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "noc",
  "sezon": "zima (300)",
  "pogoda": "RZUT 19 (300-06-30) - JEDNA KONSEKWENCJA: gesta mgla na bagnie do poludnia; lodzie stoja do poludnia.",
  "dzien_tygodnia_nr": 1,
@@ -141,7 +141,7 @@
  "lokacja": "BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-03-30.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "wieczor",
+ "pora_dnia": "noc",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "BIALY PORT",
  "geografia_lod_porty_299_08": {

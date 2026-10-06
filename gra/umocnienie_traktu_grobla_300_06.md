@@ -27,18 +27,19 @@ Wzdłuż grobli, **tuż przy niej**, biegnie kanał dla płaskodennych barek (wz
 
 ---
 
-## ⚑ TYLKO DWIE STRAŻNICE Z PRZĘSŁEM (wola pana 300-06-28)
-**Na całej grobli przez Przesmyk stoją tylko dwie strażnice z przęsłem zwodzonym, nie więcej:**
-1. **STRAŻNICA GRANICZNA** na **granicy Przesmyku z Dorzeczem** (od strony Riverrun), czyli na południowym końcu grobli. Pierwsza rzecz, którą widzi przychodzący z południa.
-2. **STRAŻNICA ŚRODKOWA** w **połowie grobli** (~30 mil E od Fosy, dokładne miejsce wskaże mapa UT-1).
+## ⚑ DWA PUNKTY, CZTERY STRAŻNICE, DWA MOSTY (wola pana 300-06-28, ostatecznie)
+**Na całej grobli przez Przesmyk są tylko dwa umocnione punkty. W każdym stoi para strażnic, po jednej z każdej strony mostu zwodzonego.** Razem są **4 strażnice i 2 mosty**, nie więcej:
+1. **PUNKT GRANICZNY** na **granicy Przesmyku z Dorzeczem**, od strony Riverrun: **dwie strażnice obok siebie**, między nimi **most zwodzony**. Przychodzący z południa widzi go pierwszy.
+2. **PUNKT ŚRODKOWY** w **połowie grobli** (~30 mil E od Fosy; miejsce wskaże mapa UT-1): **dwie strażnice obok siebie** i między nimi **most zwodzony**.
 
-Północny koniec grobli zamyka **Fosa Cailin** z Wieżą Bramną i Wielką Śluzą. Trzy punkty na jednej drodze: **granica, środek, brama.**
-*Pozostałe przecięcia grobli przez naturalne kanały to zwykłe mosty i przepusty, bez wież.* Wieża „przy każdym przęśle” z projektu z 299 roku jest **VOID**.
+Każda para działa jak brama. Strażnica południowa przyjmuje i sprawdza, strażnica północna podnosi most i trzyma ogień. Kiedy jedna padnie, druga dalej zamyka przejście.
+Północny koniec grobli zamyka **Fosa Cailin** (Wieża Bramna, Wielka Śluza). Na drodze są trzy bramy: **granica, środek, Fosa.**
+*Pozostałe przecięcia grobli przez naturalne kanały to zwykłe przepusty, bez wież i bez mostów zwodzonych.* Wieża „przy każdym przęśle” z projektu z 299 roku jest **VOID**, a tak samo wcześniejszy zapis „dwie strażnice” z tego dnia.
 
 ## ELEMENTY UMOCNIENIA
 - **Szerokość grobli na dwa wozy:** kupcy się miną, armia nie rozwinie szyku.
-- **Dwa przęsła zwodzone**, po jednym przy każdej strażnicy (granicznej i środkowej). Podnosi się je z wieży, a kanał przy nich zamyka zapora.
-- **Wieża strażnicza przy każdym z dwóch przęseł.** Ma kamienny parter, drewno wyżej, ogień w łańcuchu ogni (kosz na dachu), dzwon albo róg, izbę dla czterech do sześciu ludzi, skład smoły i torfu na ogień (zapis o Innych: *„ogień działa”*) oraz pochodnie.
+- **Dwa mosty zwodzone**, po jednym w każdym punkcie, między parą strażnic. Podnosi go strażnica północna, a kanał przy moście zamyka zapora.
+- **Cztery strażnice, po dwie przy każdym moście.** Ma kamienny parter, drewno wyżej, ogień w łańcuchu ogni (kosz na dachu), dzwon albo róg, izbę dla czterech do sześciu ludzi, skład smoły i torfu na ogień (zapis o Innych: *„ogień działa”*) oraz pochodnie.
 - **Komora Korony przy wieży** dla wagi, bandery i kwitu. Opłaty ustala Król. Wieża pobiera myto i pilnuje mostu, więc się utrzymuje.
 - **Przystań barek** przy każdej wieży: pomost, mała szopa, miejsce na noc.
 
@@ -51,12 +52,12 @@ Północny koniec grobli zamyka **Fosa Cailin** z Wieżą Bramną i Wielką Ślu
 |---|---|---|---|---|
 | **UT-0** | **zasady na piśmie:** dar Domu dla Korony (Kasa 1 → Korona, księga darów jawna), kanał i przęsła w pasie traktu; **dzisiejszy ruch i opłaty** na trakcie jako liczba wyjściowa dla Króla | Hal (Dom), Gawen (Korona), Rorik (ruch z komory) | **07-05** | — |
 | **UT-0K** | **do Króla:** Dom bierze na siebie całość jako dar; Korona zwolniona z 2/3 z 299-09-09; **myto i cło przy wieżach ustala Król** | pan → Król | **~07-08** | rzut przy decyzji Króla |
-| **UT-1** | **mapa pasa traktu:** granice pasa Traktu Królewskiego; **miejsce dwóch strażnic** (granica i środek) na twardym gruncie; zwykłe mosty i przepusty; linia kanału **w pasie** | **Kessel** (mapa bagna) + **maester Orwyn** | **09-01** | mapa bagna (08-15) |
+| **UT-1** | **mapa pasa traktu:** granice pasa Traktu Królewskiego; **miejsce dwóch punktów** (granica i środek) na twardym gruncie, każdy na parę strażnic i most; zwykłe mosty i przepusty; linia kanału **w pasie** | **Kessel** (mapa bagna) + **maester Orwyn** | **09-01** | mapa bagna (08-15) |
 | **UT-2** | **rysunek:** przekrój grobli z kanałem (szerokość i głębokość pod Muła, spad, ujście do Gorączki); wzór przęsła zwodzonego z zaporą; wzór wieży z komorą i przystanią | **Orwyn** (woda, kanał, zapory) + **Weylin** (wieża, przęsło) | **10-15** | UT-1; Weylin po MF-1 |
 | **UT-3** | **kosztorys** od mili i od przęsła z wieżą; harmonogram na lata; ile rocznie z wolnej gotówki Domu bez ruszania bufora | **Hal** + Warryn | **11-01** | UT-2 |
-| **UT-4** | **STRAŻNICA ŚRODKOWA z przęsłem** (połowa grobli) — bliżej, kamień barką, wzór dla drugiej *(kolejność do słowa pana)* | **Bran** (budowa), Weylin | **zima 300/301** (pale wbija się z lodu, E) → **301** | UT-3, kamień z kolejki |
+| **UT-4** | **PUNKT ŚRODKOWY: dwie strażnice + most zwodzony** (połowa grobli) — bliżej, kamień barką, wzór dla granicznego *(kolejność do słowa pana)* | **Bran** (budowa), Weylin | **zima 300/301** (pale wbija się z lodu, E) → **301** | UT-3, kamień z kolejki |
 | **UT-5** | **kanał przytraktowy, pierwsze 5 mil** od Fosy na południe, razem z dalszym nasypem grobli | Bran + Orwyn | **301** | UT-2; po sianokosach |
-| **UT-6** | **STRAŻNICA GRANICZNA z przęsłem** na granicy z Dorzeczem; ogień w łańcuchu, który łączy się z Dorzeczem | Bran, Weylin; Hendry (obsada) | **302** | kolejka kamienia; zgoda Króla na obsadę |
+| **UT-6** | **PUNKT GRANICZNY: dwie strażnice + most zwodzony** na granicy z Dorzeczem; ogień w łańcuchu, który łączy się z Dorzeczem | Bran, Weylin; Hendry (obsada) | **302** | kolejka kamienia; zgoda Króla na obsadę |
 | **UT-7** | **do granicy Przesmyku** (~60 mil): grobla, kanał, przęsła, wieże; połączenie z T1-B (odnoga do Bliźniaków) i Traktem Królewskim | wszyscy powyżej | **302–303** | — |
 
 **Obsada wież:** ludzie drużyny (Hendry) i Jastrzębie (Kessel) na zmianę, z dodatkiem granicznym. **Komory:** wagowy z rotacją (organizacja komory Gartha). Przęsło podnosi się na rozkaz dowódcy wieży w razie ognia w łańcuchu albo na róg z Fosy. *(Obsada wież na drodze królewskiej: ludzie lenna Fosy w służbie Korony, do słowa Króla, czy Korona chce własnych.)*
@@ -65,7 +66,7 @@ Północny koniec grobli zamyka **Fosa Cailin** z Wieżą Bramną i Wielką Ślu
 
 ## ZASADA 8: CO TO PRZYNIESIE
 1. **Pieniądze.** To największa budowa, jaką Dom bierze na siebie sam. Bez kosztorysu (UT-3) nie wiadomo, czy wystarczy 5 lat, czy trzeba 10. Bufor 1000 zostaje nietknięty.
-2. **Kanał to nowa droga dla przemytu.** Strażnice są tylko dwie, więc między nimi barki pilnują **Jastrzębie z łodzi** (patrol, nie wieże), a bandery sprawdza się w Fosie i przy strażnicach.
+2. **Kanał to nowa droga dla przemytu.** Punkty są tylko dwa, więc między nimi barki pilnują **Jastrzębie z łodzi** (patrol, nie wieże), a bandery sprawdza się w Fosie i przy strażnicach.
 3. **Pas traktu.** Wszystko mieści się w pasie Traktu Królewskiego, a na bagnach Reedów nic nie powstaje (wola pana). Mapa UT-1 musi więc wyznaczyć pas dokładnie, zanim wbije się pierwszy pal.
 4. **Gorączka.** Nowa woda przy ludziach oznacza komary. Woda musi płynąć, a przy wieżach mają stać kadzielnice i małe lecznice (sieć Niny).
 5. **Ręce.** Grobla, przewłoka, Gorący Port, mury i trakty biorą z tej samej puli ludzi. Kanał jest robotą ziemną, więc da się ją robić tymi samymi ludźmi co nasyp grobli, ale sianokosy i żniwa zabierają ich co roku.

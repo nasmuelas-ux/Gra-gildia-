@@ -7384,7 +7384,7 @@
   },
   {
    "data": "300-06-18",
-   "co": "WYSPA TWARZY - DRUGA PROBA EDRICA SZUWARA (rozkaz pana 06-18): rada Jojena - bez zelaza na brzegu, nic nie ciac, zostawic cos w zamian. Rozkaz jezdzcem przez Przesmyk do Lucana (zanim wyjedzie do Winterfell ~07-10) albo do jego zastepcy. RZUT PRZY PRZYBICIU (sprawa zewnetrzna). Wiesc przez Fose/Lucana.",
+   "co": "WYSPA TWARZY - DRUGA PROBA EDRICA SZUWARA (rozkaz pana 06-18): rada Jojena - bez zelaza na brzegu, nic nie ciac, zostawic cos w zamian. Rozkaz jezdzcem przez Przesmyk do Lucana (zanim wyjedzie do Winterfell ~07-10) albo do jego zastepcy. RZUT PRZY PRZYBICIU (sprawa zewnetrzna). Wiesc przez Fose/Lucana. ### 06-28 PAN: PYTANIE DLA EDRICA (jedno, wg rady Reeda): 'KIM SA INNI I CZEGO CHCA?' - list zamkniety jezdzcem przez Przesmyk dzis po poludniu (~07-08 u Lucana/zastepcy). Jesli Edric juz przybil - pytanie czeka na trzecia probe. Przykrywka bez zmian (drzewa i Pakt do bibliotek), ANI SLOWA O BRANIE.",
    "kto": "SYMON -> LUCAN (zastepca) -> EDRIC",
    "kanal": "jezdziec Fosa-Przesmyk-Dorzecze (~10 dni) + lodz na Oku Boga; wiesc ta sama droga",
    "wraca": "300-07-12",
@@ -8616,6 +8616,15 @@
    "kanal": "na miejscu",
    "wraca": "300-09-01",
    "zamyka": "place i stajnie stoja",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-28",
+   "co": "WYSPA TWARZY - DRUGI CZLOWIEK Z FOSY Z PYTANIEM 4 (rozkaz pana 06-28): 'JAK ODNOWIC PAKT?' - jedno pytanie (rada Reeda). Kryteria jak przy Edricu (05-13): wierzy w starych bogow, umie lodz i wode, malomowny; najlepiej z matka z bagien. WYBIERA GARRICK z WARRYNEM i KESSELEM (zasada 42) - imie do 06-30. Przykrywka: drugi pisarz zbioru o Dzieciach i Pakcie; bez zelaza na brzegu, nic nie ciac, zostawic cos w zamian; plynie OSOBNO od Edrica (inny dzien, inna lodz). Droga: przez Przesmyk do Lucana/zastepcy (~10 dni), lodz na Oku Boga. RZUT PRZY PRZYBICIU (osobna sprawa). Zasada 8 (Jojen): 'wyspa sama wybiera' - dwie lodzie moga wygladac jak wolanie, nie jak przyplyniecie.",
+   "kto": "GARRICK + WARRYN + KESSEL -> czlowiek -> LUCAN (zastepca)",
+   "kanal": "jezdziec/czlowiek przez Przesmyk + lodz na Oku Boga",
+   "wraca": "300-06-30",
+   "zamyka": "czlowiek wybrany imiennie i w drodze",
    "status": "otwarte"
   }
  ],

@@ -4846,10 +4846,10 @@
   },
   {
    "data": "300-05-02",
-   "co": "REKRUTACJA 50 Z OBSZARU KAMIENNEGO BRZEGU (pod Ulrikiem, obok rybakow z planu Theona); zold ~3 smoki/mies. z Kasy 3.",
+   "co": "REKRUTACJA 50 Z OBSZARU KAMIENNEGO BRZEGU (pod Ulrikiem, obok rybakow z planu Theona); zold ~3 smoki/mies. z Kasy 3. ### 07-01: meldunek Corwina idzie do WINTERFELL (zasada 34) - pan odczyta na miejscu ~07-08.",
    "kto": "CORWIN + ULRIC (+ Torren - wsie)",
    "kanal": "na miejscu po przyjezdzie",
-   "wraca": "300-07-01",
+   "wraca": "300-07-08",
    "zamyka": "50 miejscowych pod bronia",
    "status": "otwarte"
   },
@@ -5557,10 +5557,10 @@
   },
   {
    "data": "300-05-18",
-   "co": "HORNWOOD - WLASNA DRUZYNA LARENCE'A: dwudziestu Glovera (Fennick) uczy chlopakow Hornwood; gdy Larence ma dwudziestu swoich - ludzie Glovera wracaja do Deepwood. Zold Glovera przez rok (do ~300-05-18 nastepnego roku). Stan - przy pierwszym meldunku z Hornwood.",
+   "co": "HORNWOOD - WLASNA DRUZYNA LARENCE'A: dwudziestu Glovera (Fennick) uczy chlopakow Hornwood; gdy Larence ma dwudziestu swoich - ludzie Glovera wracaja do Deepwood. Zold Glovera przez rok (do ~300-05-18 nastepnego roku). Stan - przy pierwszym meldunku z Hornwood. ### 07-01: kanal - kruk do Winterfell; odczyt ~07-08.",
    "kto": "LARENCE + DONELLA / OSGAR",
    "kanal": "kruk Hornwood-Winterfell (przez Bialy Port albo jezdziec)",
-   "wraca": "300-07-01",
+   "wraca": "300-07-08",
    "zamyka": "pierwszy meldunek: ilu chlopakow pod nauka",
    "status": "otwarte"
   },
@@ -5616,7 +5616,7 @@
    "kanal": "siatka Willi (14/35)",
    "wraca": "300-07-01",
    "zamyka": "pierwszy meldunek z miasta albo nazwana przyczyna braku",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01 - RZUT 34 (prog 50) - JEDNA KONSEKWENCJA: z dwoch rak uspionych OSADZILA SIE JEDNA - Braavosczyk przy porcie (pisarz u dostawcy lin i smoly, ma powod, by stac na nabrzezu); DRUGA NIE - nie znalazla roboty z prawdziwym interesem i wrocila na statek ('lepiej wrocic niz stac na rogu i byc widocznym' - jej zasada). Pierwszy meldunek z miasta - za miesiac (kanal 14/35). Willa szuka drugiej reki ta sama droga (Braavosczycy przez faktorie, nie Nesta). Kartka Willi: litera i liczba, bez imion."
   },
   {
    "data": "300-05-19",
@@ -5724,7 +5724,7 @@
    "kanal": "siatka Willi (14/35)",
    "wraca": "300-07-01",
    "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01 - RZUT 6 - NAZWANA PRZYCZYNA BRAKU (jedna konsekwencja): kupiec ksiag NIE DOPLYNAL do Lordsportu w tym rejsie - w Braavos stoi z peknieta stepka u szkutnika; meldunku z Wysp nie ma. Nastepny rejs ~07-20 (E), meldunek realnie ~VIII polowa. Do tego czasu jedynym ostrzezeniem z Wysp pozostaje ogien (karta ognia). Wiesc przez paczke Nesty (poczta) i kruk Bialy Port-Fosa."
   },
   {
    "data": "300-05-20",
@@ -6529,10 +6529,10 @@
   },
   {
    "data": "300-05-26",
-   "co": "GP-1 GORACY PORT - RYSUNEK ETAPOW I-II: linia muru od morza, Wieza Morska, Wieza Polnocna, rynna lancucha; pomiar ujscia i dna. Rysownika wskazuje Garrick (zasada 12; Weylin na Kamiennym Brzegu). Wlasni ludzie.",
+   "co": "GP-1 GORACY PORT - RYSUNEK ETAPOW I-II: linia muru od morza, Wieza Morska, Wieza Polnocna, rynna lancucha; pomiar ujscia i dna. Rysownika wskazuje Garrick (zasada 12; Weylin na Kamiennym Brzegu). Wlasni ludzie. ### 07-01: rysunek czeka na RYSOWNIKA (szukani - skryptorium, termin 07-15); pomiar Harlona jest.",
    "kto": "GARRICK -> rysownik + HARLON",
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
-   "wraca": "300-07-01",
+   "wraca": "300-07-20",
    "zamyka": "rysunek etapow I-II na pismie",
    "status": "otwarte"
   },
@@ -6570,7 +6570,7 @@
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
    "wraca": "300-07-01",
    "zamyka": "uchwala lawy o dzialce (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01 - RZUT 36 (prog 50) - JEDNA KONSEKWENCJA: lawa PRZYZNAJE DZIALKE, ale NIE PRZY BULWARZE - rzad dalej, przy bocznym kanale (ten sam, przy ktorym dom farbiarza/szwalnia Orsy); bulwar Kanalu Wielkiego zostaje do losowania mieszczan ('lord buduje Dwor przy bulwarze; dwoch dzialek pana obok siebie przy bulwarze lawa nie da' - glosowanie podzielone). Herwin pisze rzeczowo. Wpis do ksiegi dzialek; czynsz gruntowy wg karty miasta."
   },
   {
    "data": "300-05-26",
@@ -7177,10 +7177,10 @@
   },
   {
    "data": "300-06-08",
-   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: kasztelan (kruk): PRZEGRODA w izbie strazy Wiezy postawiona. Zostaja: narzuty (Tessa, targ 06-26), urlop Gareda (VIII), Rowan do szkoly (07-01). ### 300-06-26: Tessa kupila plotno na targu (pod daszkami); narzuty szyje szwalnia Miry/Orsy.",
+   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: kasztelan (kruk): PRZEGRODA w izbie strazy Wiezy postawiona. Zostaja: narzuty (Tessa, targ 06-26), urlop Gareda (VIII), Rowan do szkoly (07-01). ### 300-06-26: Tessa kupila plotno na targu (pod daszkami); narzuty szyje szwalnia Miry/Orsy. ### 07-01: ROWAN SZCZUPAK - do szkoly Fosy od dzis (zrobione); narzuty - szwalnia (w toku); zostaje URLOP GAREDA (VIII).",
    "kto": "STEN / DAGON / TESSA / KASZTELAN",
    "kanal": "osobiscie + kruk do kasztelana",
-   "wraca": "300-07-01",
+   "wraca": "300-08-01",
    "zamyka": "wszystkie cztery wykonane",
    "status": "otwarte"
   },
@@ -7276,10 +7276,10 @@
   },
   {
    "data": "300-06-13",
-   "co": "SZEW OGNIA BARROWLANDY-DUSTINPORT - USTALONY NA WZGORZU STAREJ STRAZY: ogien Barrowlandow na Wzgorzu (ludzie Barbrey, bez stawki, wpiny tak); ogien Dustinportu NA WYSOKIM CYPLU nad zatoka - postawic (Donnel/Torren, czlowiek Donnela + czlowiek Barbrey); proba co siodmy dzien o zmierzchu; karta: trzy ognie walka, cztery flota. Rozkaz do Donnela - z Fosy. Wlasni - bez rzutu. ### 06-18 (Fosa): ROZKAZ DO DONNELA (ogien na wysokim cyplu nad zatoka, czlowiek Donnela + czlowiek Barbrey, proba co 7. dzien o zmierzchu) jedzie jutro tym samym jezdzcem co rozkaz o chatach; u Donnela ~06-22.",
+   "co": "SZEW OGNIA BARROWLANDY-DUSTINPORT - USTALONY NA WZGORZU STAREJ STRAZY: ogien Barrowlandow na Wzgorzu (ludzie Barbrey, bez stawki, wpiny tak); ogien Dustinportu NA WYSOKIM CYPLU nad zatoka - postawic (Donnel/Torren, czlowiek Donnela + czlowiek Barbrey); proba co siodmy dzien o zmierzchu; karta: trzy ognie walka, cztery flota. Rozkaz do Donnela - z Fosy. Wlasni - bez rzutu. ### 06-18 (Fosa): ROZKAZ DO DONNELA (ogien na wysokim cyplu nad zatoka, czlowiek Donnela + czlowiek Barbrey, proba co 7. dzien o zmierzchu) jedzie jutro tym samym jezdzcem co rozkaz o chatach; u Donnela ~06-22. ### 07-01: pierwsza proba po rozkazie (~06-22) - meldunek Donnela jezdzcem idzie na Fose ~07-03, pan juz w drodze - odczyt przez Garricka do Winterfell.",
    "kto": "SYMON -> DONNEL/TORREN; BARBREY",
    "kanal": "jezdziec Fosa-Dustinport (4 dni)",
-   "wraca": "300-07-01",
+   "wraca": "300-07-08",
    "zamyka": "pierwsza proba: oba ognie odpowiadaja",
    "status": "otwarte"
   },
@@ -7551,7 +7551,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "patrole chodza; meldunek Kessela o obsadzie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01 - patrole chodza; meldunek Kessela 06-30 (noca 3-4 Jastrzebi + 10 z druzyny; druga lodz zamowiona - delegacja stala)."
   },
   {
    "data": "300-06-19",
@@ -7632,7 +7632,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "regent i pisarze dzialow imiennie w ksiedze kancelarii",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01 (wlasni, zasada 7): Garrick wpisal regenta i pisarzy dzialow imiennie w ksiedze kancelarii; na czas nieobecnosci pana lenno i pieczec trzyma Garrick (rada 06-28)."
   },
   {
    "data": "300-06-19",
@@ -7695,7 +7695,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "rubryka w rejestrze, pierwszy nabor wg podzialu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: rubryka 'woda/sucho' w rejestrze Melli; nabor wg podzialu po sianokosach."
   },
   {
    "data": "300-06-19",
@@ -7722,7 +7722,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "izba chorych, zapas lekow, miejsce barakow na suchym",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: izba chorych otwarta od dzis (Nina, Gytha; Vessaro), zapas lekow i kadzidel, miejsce barakow na suchym wyznaczone (Bran)."
   },
   {
    "data": "300-06-19",
@@ -7785,7 +7785,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "pierwsza skladka gotowa",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: pierwsza skladka praw Korony odpisana (dyktando, karty liniowane)."
   },
   {
    "data": "300-06-20",
@@ -7798,10 +7798,10 @@
   },
   {
    "data": "300-06-20",
-   "co": "SKRYPTORIUM - ODPISY PIECIU KSIAG ILARIA (zlecenie pana 06-20; za zgoda wlasciciela): kolejnosc Ilaria - (1) WZORNIK KROJU (po egzemplarzu dla kazdego skryby - fundament skryptorium) ~07-01; (2) ELEMENTARZ KSIAG PODWOJNYCH ~07-15; (3) O CZTERNASTU PLOMIENIACH ~08-01; (4) KRONIKA TAJEMNEGO MIASTA ~08-15; (5) PIESNI Z LYS ~08-15 (przepisuje Jessa wieczorami). Po pierwszej skladce (prawa komor) i obok ksiazki o ptakach dla Brana. Kasa 1. ZASADA 8: piec rak, trzy zamowienia naraz - kolejka; PYTANIE ILARIA: ile odpisow kazdej (zasada trzech odpisow z 299-09-08: trzy miejsca - Fosa, Winterfell, Bialy Port?). ### 06-20 PAN: PO DWA ODPISY KAZDEJ - FOSA (archiwum) i WINTERFELL (biblioteka Wiezy); oryginaly zostaja u Ilaria (trzecie miejsce).",
+   "co": "SKRYPTORIUM - ODPISY PIECIU KSIAG ILARIA (zlecenie pana 06-20; za zgoda wlasciciela): kolejnosc Ilaria - (1) WZORNIK KROJU (po egzemplarzu dla kazdego skryby - fundament skryptorium) ~07-01; (2) ELEMENTARZ KSIAG PODWOJNYCH ~07-15; (3) O CZTERNASTU PLOMIENIACH ~08-01; (4) KRONIKA TAJEMNEGO MIASTA ~08-15; (5) PIESNI Z LYS ~08-15 (przepisuje Jessa wieczorami). Po pierwszej skladce (prawa komor) i obok ksiazki o ptakach dla Brana. Kasa 1. ZASADA 8: piec rak, trzy zamowienia naraz - kolejka; PYTANIE ILARIA: ile odpisow kazdej (zasada trzech odpisow z 299-09-08: trzy miejsca - Fosa, Winterfell, Bialy Port?). ### 06-20 PAN: PO DWA ODPISY KAZDEJ - FOSA (archiwum) i WINTERFELL (biblioteka Wiezy); oryginaly zostaja u Ilaria (trzecie miejsce). ### 07-01: wzornik w toku.",
    "kto": "ILARIO + czterech pisarzy (+ Jessa)",
    "kanal": "na miejscu",
-   "wraca": "300-07-01",
+   "wraca": "300-07-15",
    "zamyka": "wzornik odpisany; dalej wg kolejki",
    "status": "otwarte"
   },
@@ -7924,10 +7924,10 @@
   },
   {
    "data": "300-06-20",
-   "co": "PRZEMYT - LICENCJA WYWOZU NADWYZKI ZYWNOSCI ZA OPLATA (zgoda pana 06-20, wniosek Rorika) - do przegladu nadwyzki 07-01: jesli nadwyzka jest, jawna licencja wywozu za oplata ponizej kosztu przemytu; clo to Korona - wniosek Namiestnika do Skarbnika Gawena / Krola (prerogatywa stawek Korony).",
+   "co": "PRZEMYT - LICENCJA WYWOZU NADWYZKI ZYWNOSCI ZA OPLATA (zgoda pana 06-20, wniosek Rorika) - do przegladu nadwyzki 07-01: jesli nadwyzka jest, jawna licencja wywozu za oplata ponizej kosztu przemytu; clo to Korona - wniosek Namiestnika do Skarbnika Gawena / Krola (prerogatywa stawek Korony). ### 07-01: na stol Krola (agenda ~07-08, pkt 5).",
    "kto": "SYMON -> GAWEN / KROL",
    "kanal": "na miejscu / poczta",
-   "wraca": "300-07-01",
+   "wraca": "300-07-08",
    "zamyka": "decyzja Korony o licencji wywozu",
    "status": "otwarte"
   },
@@ -8085,7 +8085,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "przysiezni imiennie w ksiedze kancelarii",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: przysiezni imiennie w ksiedze kancelarii (Garrick -> Roderyk)."
   },
   {
    "data": "300-06-21",
@@ -8139,14 +8139,14 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "rozpiska tygodnia na scianie twierdzy + pierwszy manewr",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: rozpiska tygodnia wisi na scianie twierdzy; pierwszy manewr w przyszlym tygodniu (Hendry)."
   },
   {
    "data": "300-06-21",
-   "co": "REKRUCI LENNA - OSOBNY PROGRAM (rozkaz pana 06-21): TRZY MIESIACE PODSTAWY - dyscyplina, forma, wlocznia i tarcza w szyku (najprostsze, co trzyma linie), kusza; litery - imie i rozkaz. Po trzech miesiacach PROBA: zdal - do druzyny stalej (mieszkanie sluzbowe, dodatki, rok do wlasnosci); nie zdal - do rezerwy albo do domu. Rekruci ze wsi wracaja po sianokosach (~07-20). Prowadzi dziesietnik od rekrutow (Hendry wskazuje). Wlasni - bez rzutu.",
+   "co": "REKRUCI LENNA - OSOBNY PROGRAM (rozkaz pana 06-21): TRZY MIESIACE PODSTAWY - dyscyplina, forma, wlocznia i tarcza w szyku (najprostsze, co trzyma linie), kusza; litery - imie i rozkaz. Po trzech miesiacach PROBA: zdal - do druzyny stalej (mieszkanie sluzbowe, dodatki, rok do wlasnosci); nie zdal - do rezerwy albo do domu. Rekruci ze wsi wracaja po sianokosach (~07-20). Prowadzi dziesietnik od rekrutow (Hendry wskazuje). Wlasni - bez rzutu. ### 07-01: rekruci ze wsi na sianokosach (decyzja 06-18) - program wraca po nich.",
    "kto": "HENDRY",
    "kanal": "na miejscu",
-   "wraca": "300-07-01",
+   "wraca": "300-07-20",
    "zamyka": "program rekrutow ruszyl; pierwsza proba ~10-01",
    "status": "otwarte"
   },
@@ -8283,7 +8283,7 @@
    "kanal": "na miejscu; slupy",
    "wraca": "300-07-01",
    "zamyka": "prawo spisane, ogloszone, tabliczki wydane - pierwszy dzien obowiazywania",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: prawo wody zakazanej OBOWIAZUJE od dzis; tabliczki wydane, znaki w wodzie (Kessel)."
   },
   {
    "data": "300-06-23",
@@ -8328,7 +8328,7 @@
    "kanal": "na miejscu; slupy",
    "wraca": "300-07-01",
    "zamyka": "edykt ogloszony, sad wagi obsadzony, bandery wydawane",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: edykt OBOWIAZUJE od dzis; Sad Wagi obsadzony (delegat Oswell Trzcina + dwaj lawnicy), bandery wydawane (40 - szwalnia Orsy)."
   },
   {
    "data": "300-06-23",
@@ -8337,7 +8337,7 @@
    "kanal": "na miejscu; slupy",
    "wraca": "300-07-01",
    "zamyka": "kontroler wskazany, punkt dziala od 07-01",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: punkt kontroli dziala od dzis; kontroler spichlerza DENNET MIARKA (rada 06-28); bez oplaty, przywoz wolny."
   },
   {
    "data": "300-06-23",
@@ -8382,7 +8382,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "tabliczka Izby Riversa w szkole na pierwsza lekcje 07-01; zeszyt po powrocie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: tabliczka 'Izba Riversa' wisi; ZESZYT Aemona Riversa - pan przywiezie z Winterfell (osobna rzecz, przy powrocie)."
   },
   {
    "data": "300-06-23",
@@ -8823,6 +8823,15 @@
    "kanal": "zbiorczy Garricka",
    "wraca": "300-10-31",
    "zamyka": "studnie/cysterny pierwszej fali gotowe; reszta na wiosne 301",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-01",
+   "co": "OCZY NA PYKE - PIERWSZY MELDUNEK (drugie podejscie): kupiec ksiag po naprawie stepki wyplywa ~07-20; meldunek przez Braavos. RZUT przy meldunku (obce Wyspy).",
+   "kto": "WILLA (siatka)",
+   "kanal": "siatka Willi przez Braavos -> raport Willi (Winterfell)",
+   "wraca": "300-08-15",
+   "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
    "status": "otwarte"
   }
  ],

@@ -7839,7 +7839,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "decyzja pana; slupy granicy wbite",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-30: ⚑ DECYZJA PANA - granica wg planow fortecy i miasta; zamek i obszary planowe wskazane: gra/granica_miasta_cailin_300_06.md. Slupy tymczasowe do ~07-05 (Roderyk, Herwin, pisarz grodzki); stale po MF-1 (09-15) - osobny termin."
   },
   {
    "data": "300-06-20",
@@ -8724,6 +8724,24 @@
    "kanal": "cechy -> pan w Winterfell (list/kruk); woz Fosa-Bialy Port",
    "wraca": "300-07-15",
    "zamyka": "cechy pisza do pana / ida do Wymana / nic (rzut przy pierwszym ruchu, ~07-15)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "GRANICA MIASTA CAILIN - SLUPY STALE Z KAMIENIA na linii muru wg rysunku obwodu MF-1 (Weylin, 09-15); wpis do karty miasta i ksiegi sadu grodzkiego. Do tego czasu slupy tymczasowe (wbite ~07-05). Plik: gra/granica_miasta_cailin_300_06.md.",
+   "kto": "RODERYK + HERWIN + pisarz grodzki; WEYLIN (linia)",
+   "kanal": "na miejscu",
+   "wraca": "300-09-25",
+   "zamyka": "slupy stale wbite, wpis w obu ksiegach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "GRANICA MIASTA CAILIN - SLUPY TYMCZASOWE wg planu (zamek / miasto / lenno + obszary planowe w rezerwie); przy kazdej szopie przedmiescia wpis, po ktorej stronie slupa. Wlasni - bez rzutu.",
+   "kto": "RODERYK + HERWIN + pisarz grodzki",
+   "kanal": "na miejscu; meldunek w zbiorczym Garricka",
+   "wraca": "300-07-05",
+   "zamyka": "slupy tymczasowe wbite; spis szop po obu stronach",
    "status": "otwarte"
   }
  ],

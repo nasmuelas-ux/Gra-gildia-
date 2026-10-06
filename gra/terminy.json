@@ -8580,7 +8580,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-01",
    "zamyka": "objazd odbyty",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: objazd odbyty z Orwynem, Arya, przybocznymi; Korm Palik na miejscu. Diagnoza Orwyna na trzeciej mili - osobny termin."
   },
   {
    "data": "300-06-27",
@@ -8877,6 +8877,15 @@
    "kanal": "na miejscu; raport Mabel",
    "wraca": "300-07-15",
    "zamyka": "karta regul wisi w szkole; pierwsza lekcja ziol odbyta; kartka Orwyna o internacie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-01",
+   "co": "PRZEWLOKA - TRZECIA MILA, KURZAWKA: DIAGNOZA I SPOSOB MAESTRA ORWYNA (objazd 07-01). DIAGNOZA: to nie miekki grunt, tylko ZRODLO POD SPODEM - woda idzie z dolu (Orwyn wbija tyczke - wraca ciepla od wody, piasek 'gotuje sie' przy wyciaganiu); pale tona, bo im wiecej bija, tym bardziej rozbijaja warstwe nad zrodlem. SPOSOB (Miodowin): (1) PRZESTAC BIC PALE w kurzawce; (2) ROW ODPROWADZAJACY ZRODLO w bok, do kanalu, pod spad - zeby woda miala gdzie isc; (3) MATERAC Z FASZYNY (wiklina i olcha w wiazkach, warstwami na krzyz) na calej szerokosci, obciazony kamieniem - 'droga ma plywac, nie stac'; (4) dopiero na tym lekki nasyp. KOSZT: 4-6 tygodni (E) i duzo wikliny/olchy - przez lesniczego (regale); ludzie po sianokosach. Prowadzi KORM PALIK, fachowo ORWYN. Wlasni - bez rzutu na wykonanie; rzut tylko, jesli zrodlo okaze sie wieksze (przy pierwszym rowie).",
+   "kto": "KORM PALIK (+ ORWYN; lesniczy - faszyna)",
+   "kanal": "na miejscu; zbiorczy Garricka",
+   "wraca": "300-08-15",
+   "zamyka": "row zrodla wykopany, materac faszynowy na trzeciej mili, nasyp ruszyl",
    "status": "otwarte"
   }
  ],

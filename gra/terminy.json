@@ -7204,7 +7204,7 @@
   },
   {
    "data": "300-06-09",
-   "co": "LUCAN WRACA JAKO DORADCA - list pana: prosto do Winterfell; zastepce w Dorzeczu (Kompania, Edric/Wyspa Twarzy, Edmure) wskazuje sam. Wlasny - bez rzutu.",
+   "co": "LUCAN WRACA JAKO DORADCA - list pana: prosto do Winterfell; zastepce w Dorzeczu (Kompania, Edric/Wyspa Twarzy, Edmure) wskazuje sam. Wlasny - bez rzutu. ### 06-30: DOSTAJE ZADANIE - interpretuje miesieczny raport Willi i Tama (obie karty) od ~08-03.",
    "kto": "SYMON -> LUCAN",
    "kanal": "przyboczny Traktem Krolewskim na Fose (~06-13) + goniec Garricka przez Przesmyk (~06-23)",
    "wraca": "300-07-10",
@@ -8706,6 +8706,15 @@
    "kanal": "decyzja pana",
    "wraca": "300-08-01",
    "zamyka": "wskazana osoba",
+   "status": "ZAMKNIETE 300-06-30: WSKAZANY LUCAN (wraca jako doradca do Winterfell ~07-10). Pierwszy raport ~08-03 czyta on. ⚠ zasada 8: dotad sam byl zrodlem z Dorzecza i prowadzil weksle Domu w Dorzeczu - przy karcie Dorzecza czyta czesciowo o wlasnych sprawach. Willa dostaje tylko 'jest' (bez imienia - jej prosba)."
+  },
+  {
+   "data": "300-06-30",
+   "co": "KADRY Z BRAAVOS II - DORADCA EKONOMICZNY I LINGWISTA (wola pana 06-30). Zlecenie DOMU (Kasa 1), forma jak kadry z 300-02-07/03-28: list pana do NESTY (Braavos) przez Bialy Port, papier przez HALA; umowa z kazdym osobno, termin powrotu, kara za zerwanie po OBU stronach; metoda Gawena - szukac wsrod ODSTAWIONYCH. (1) DORADCA EKONOMICZNY: Braavosczyk (najlepiej), wyksztalcony w rachunku i ekonomii miast, ktory BUDOWAL/rozwijal wolne miasta - urzednik dawnej administracji (Klucznik, Morski Wladca, port, Arsenal - nie wymagac ksiag Arsenalu), czlowiek domu bankowego albo kupieckiego od wielkich przedsiewziec; miejsce: WINTERFELL przy panu. (2) LINGWISTA Z ESSOS: jezyki Wolnych Miast, wysoki i niski valyrianski, najlepiej tez ghiscari/dothracki; do Winterfell (tlumaczenia, nauka, ksiegi). Zasada z 299-09-19: tlumacza nie bierze sie od gospodarza. Lucan zostaje interpretatorem raportu niezaleznie od tego. RZUT PRZY ODPOWIEDZI NESTY (obcy ludzie, Braavos na swoich warunkach).",
+   "kto": "SYMON -> NESTA (Braavos), papier HAL",
+   "kanal": "kruk Fosa-Bialy Port dzis (z listami do Hala i Tama), statek BP-Braavos ~3 tyg.; odpowiedz ta sama droga + czas szukania",
+   "wraca": "300-09-01",
+   "zamyka": "nazwiska i warunki od Nesty (rzut) albo nazwana przyczyna braku",
    "status": "otwarte"
   }
  ],

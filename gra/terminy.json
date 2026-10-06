@@ -7204,7 +7204,7 @@
   },
   {
    "data": "300-06-09",
-   "co": "LUCAN WRACA JAKO DORADCA - list pana: prosto do Winterfell; zastepce w Dorzeczu (Kompania, Edric/Wyspa Twarzy, Edmure) wskazuje sam. Wlasny - bez rzutu. ### 06-30: DOSTAJE ZADANIE - interpretuje miesieczny raport Willi i Tama (obie karty) od ~08-03.",
+   "co": "LUCAN WRACA JAKO DORADCA - list pana: prosto do Winterfell; zastepce w Dorzeczu (Kompania, Edric/Wyspa Twarzy, Edmure) wskazuje sam. Wlasny - bez rzutu. ### 06-30: DOSTAJE ZADANIE - interpretuje miesieczny raport Willi i Tama (obie karty) od ~08-03. ### 06-30: pan potwierdza - zastepce wskazuje LUCAN; imie przywozi ze soba (~07-10) albo pisze wczesniej.",
    "kto": "SYMON -> LUCAN",
    "kanal": "przyboczny Traktem Krolewskim na Fose (~06-13) + goniec Garricka przez Przesmyk (~06-23)",
    "wraca": "300-07-10",
@@ -8706,7 +8706,7 @@
    "kanal": "decyzja pana",
    "wraca": "300-08-01",
    "zamyka": "wskazana osoba",
-   "status": "ZAMKNIETE 300-06-30: WSKAZANY LUCAN (wraca jako doradca do Winterfell ~07-10). Pierwszy raport ~08-03 czyta on. ⚠ zasada 8: dotad sam byl zrodlem z Dorzecza i prowadzil weksle Domu w Dorzeczu - przy karcie Dorzecza czyta czesciowo o wlasnych sprawach. Willa dostaje tylko 'jest' (bez imienia - jej prosba)."
+   "status": "ZAMKNIETE 300-06-30: WSKAZANY LUCAN (wraca jako doradca do Winterfell ~07-10). Pierwszy raport ~08-03 czyta on. ⚠ zasada 8: dotad sam byl zrodlem z Dorzecza i prowadzil weksle Domu w Dorzeczu - przy karcie Dorzecza czyta czesciowo o wlasnych sprawach. Willa dostaje tylko 'jest' (bez imienia - jej prosba). ### 06-30 PAN: Lucan wskazuje swoje zastepstwo w Dorzeczu (potwierdzenie rozkazu z 06-09) - zastepca przejmuje sprawy Dorzecza (Kompania, weksle, Edric/Wyspa Twarzy, Edmure), wiec karta Dorzecza przestaje byc jego wlasnym rachunkiem. Kanal Willi 'przez Lucana' - jej sprawa (delegacja stala 03-27)."
   },
   {
    "data": "300-06-30",

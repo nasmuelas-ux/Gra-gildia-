@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 28,
+  "dzien": 29,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 61 (300-06-28) - pochmurno, sucho, chlodny wiatr od morza; woda opada.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 9 (300-06-29) - JEDNA KONSEKWENCJA: deszcz z wiatrem od morza do poludnia; kanaly wzburzone - lodz do gaju dopiero po poludniu, jesli przestanie.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -6979,12 +6979,12 @@
   },
   {
    "data": "300-06-05",
-   "co": "SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni). ### 06-08: Mira na Fosie ~06-17 (droga przez Barrowton). ### 06-18 (Fosa): Mira na Fosie od dzis (z panem) - zaczyna od izby pod pierwsza klase i listy dzieci od Ilaria. ### 300-06-25: dzis obchod Miry z Garrickiem (izby, internat), wieczorem plan na stol pana.",
+   "co": "SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni). ### 06-08: Mira na Fosie ~06-17 (droga przez Barrowton). ### 06-18 (Fosa): Mira na Fosie od dzis (z panem) - zaczyna od izby pod pierwsza klase i listy dzieci od Ilaria. ### 300-06-25: dzis obchod Miry z Garrickiem (izby, internat), wieczorem plan na stol pana. ### 06-25 WIECZOR: PLAN NA STOLE PANA - gra/plan_szkoly_fosy_300_06.md (izby I/II + Izba Riversa; INTERNAT w starej stajni jazdy przy wschodnim murze ~20 lozek E, gotowy do ~08-25; ~50 dzieci na start; Nina oglada dzieci z przedmiescia; nauczyciele: Mabel + 2 uczacych + 4 piszacych + pomocnicy z dzieci; pismo do lowcow talentow wychodzi 06-26).",
    "kto": "MIRA + GARRICK",
    "kanal": "osobiscie na Fosie (podroz przez Barrowton)",
    "wraca": "300-06-25",
    "zamyka": "plan izb i internatu + lista nauczycieli + pismo do lowcow",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - PLAN IZB, INTERNATU, NAUCZYCIELI NA PISMIE"
   },
   {
    "data": "300-06-05",
@@ -8436,6 +8436,24 @@
    "kanal": "poslaniec krannogow / Winterfell",
    "wraca": "300-09-20",
    "zamyka": "Reed w Winterfell albo wiesc, ze nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-25",
+   "co": "INTERNAT SZKOLY FOSY - stara stajnia jazdy przy wschodnim murze (Garrick): siano wyniesc, wapno, piec pod podloga, przegroda, ~20 lozek ze skrzynkami (E); gotowy przed naborem. Kasa 1 (Dom, wycena Hal). Wlasni - bez rzutu.",
+   "kto": "GARRICK + ciesla; HAL (wycena)",
+   "kanal": "na miejscu",
+   "wraca": "300-08-25",
+   "zamyka": "internat gotowy na pierwsze dzieci z wsi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-25",
+   "co": "LOWCY TALENTOW - PISMO MIRY I GARRICKA (wychodzi 06-26): septoni, sedziowie objazdowi, komory, Theomore, Bors, Corwin (Wystan skreslony - Mur); dwie rubryki: dzieci, ktore licza lepiej niz ojciec / dorosli, ktorzy umieja UCZYC. Odpowiedzi zbiera Mabel. Odzew - RZUT przy naborze 09-01.",
+   "kto": "MIRA + GARRICK -> lowcy; MABEL",
+   "kanal": "poczta / kruk / jezdzcy",
+   "wraca": "300-09-01",
+   "zamyka": "lista kandydatow na nabor",
    "status": "otwarte"
   }
  ],

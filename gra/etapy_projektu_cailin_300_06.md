@@ -40,7 +40,7 @@
 | *AD* | **Archiwum Domu stoi osobno** (rozstrzygnięcie 05-19): budynek w Mieście Górnym, mur gruby, piec pod podłogą | ręce Domu | **etap III** | patrz pkt 5 |
 
 ## 3. CIEPŁO I PARA (CP): rozdział IX, dotąd PUSTY
-*Prowadzi **WERRAN** (prop.), bo jego szklarnie już dziś palą torfem przez cały rok. Torf daje **JORREN LUT** (torfowiska). Sieć rysują **Weylin** i maester **Orwyn** (melioracja, ~07-01).*
+*Prowadzi **WERRAN** (zatwierdzone 06-26), bo jego szklarnie już dziś palą torfem przez cały rok. Torf daje **JORREN LUT** (torfowiska). Sieć rysują **Weylin** i maester **Orwyn** (melioracja, ~07-01).*
 *Najpierw trzeba wiedzieć, **ile torfu jest**. Szklarnie, chałupy, kadzielnice, warzelnia, a potem piece miejskie biorą z tego samego stosu.*
 
 | ID | punkt kontrolny | kto | kiedy (E) | warunek |
@@ -69,7 +69,7 @@
 | PC-6 | **ogrzewane stajnie kamienne**, potem **żurawie** | ręce lenna i miasta | **302** | PC-5 |
 
 ## 5. SPŁAW RZEKĄ FEVER (SF): dotąd NIKT
-*Prowadzi **KESSEL BRODATY** (prop.), bo Jastrzębie i tak są na wodzie. Załogi dają **krannogowie** (umowa przez Reeda, ~07-10). Łodzie budują **szkutnicy** (odpowiedź Nesty ~07-15). Od tego, co zmierzy Kessel, zależy, jakie terminy można obiecać Gorącemu Portowi.*
+*Prowadzi **KESSEL BRODATY** (zatwierdzone 06-26), bo Jastrzębie i tak są na wodzie. Załogi dają **krannogowie** (umowa przez Reeda, ~07-10). Łodzie budują **szkutnicy** (odpowiedź Nesty ~07-15). Od tego, co zmierzy Kessel, zależy, jakie terminy można obiecać Gorącemu Portowi.*
 
 | ID | punkt kontrolny | kto | kiedy (E) | warunek |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@
 **ETAP 0: ROK PLACU BUDOWY (300, teraz)**
 - **Dach:** baraki na suchym, Dom Pierwszej Nocy (pięcioro drzwi), internat (08-25), izby służbowe dla ludzi Domu i lenna.
 - **Woda:** gotowana woda wszędzie, gdzie się je i leczy.
-- **Wychodki:** dół na każdy barak, z dala od wody pitnej. W zapisie tego **nie ma imiennie**. Prowadzi **Herwin** (prop.) z Niną, do **08-01**.
+- **Wychodki:** dół na każdy barak, z dala od wody pitnej. W zapisie tego **nie ma imiennie**. Prowadzi **Herwin** z Niną i maestrem Orwynem (zatwierdzone 06-26), do **08-01**.
 - **Ogień:** doraźna straż ogniowa (bosaki, drabiny, beczki), wiadro przy każdym domu nad kanałem, dzwon na bramie (07-05), ustawa budowlana (06-26).
 - **Zdrowie:** kadzielnice (od 06-26), lecznica Fosy (BO-0), mała lecznica przy barakach (07-15).
 - **Ludzie:** karb i przysiężni od skarg, wypłaty rano przy wadze, księga przybyszów.
@@ -139,7 +139,7 @@
 
 ---
 
-## NOWA OBSADA (PROPOZYCJE: do słowa pana)
+## NOWA OBSADA (⚑ ZATWIERDZONA przez pana 300-06-26)
 - **Ciepło i para:** prowadzi **WERRAN**; rachunek torfu **Jorren Lut i Warryn**.
 - **Port Cailin:** **KAPITAN PORTU**, którego wskazuje Garrick.
 - **Spław rzeką Fever:** prowadzi **KESSEL BRODATY**.

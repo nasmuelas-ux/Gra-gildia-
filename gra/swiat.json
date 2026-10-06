@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 25,
+  "dzien": 26,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 92 (300-06-25) - pogoda dobra: slonce po deszczu, cieplo, lekki wiatr od morza, woda na bagnach spokojna; poslaniec krannogow wyplywa o swicie.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 8 (300-06-26) - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, deszcz z wiatrem; poczta stoi (kruk z Winterfell i jezdziec z Dustinportu - 06-27).",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

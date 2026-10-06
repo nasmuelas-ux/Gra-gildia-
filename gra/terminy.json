@@ -3883,10 +3883,10 @@
   },
   {
    "data": "300-04-15",
-   "co": "MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): wiesci brak i wiadomo dlaczego: lodzie z fok ~06-15, meldunek o ogniu idzie przez Dustinport (Torren) i jezdzca do Fosy (4 dni) - ~06-22. ### 06-24: NIE PRZYSZLO I WIADOMO DLACZEGO - kanal przez Dustinport (Torren), jezdziec do Fosy; razem z wiescia o ogniu Corwina ~06-26.",
+   "co": "MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): wiesci brak i wiadomo dlaczego: lodzie z fok ~06-15, meldunek o ogniu idzie przez Dustinport (Torren) i jezdzca do Fosy (4 dni) - ~06-22. ### 06-24: NIE PRZYSZLO I WIADOMO DLACZEGO - kanal przez Dustinport (Torren), jezdziec do Fosy; razem z wiescia o ogniu Corwina ~06-26. ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie); wiesc z jezdzcem 06-27. RZUT na meldunek wykonany dzis: 89 (prog 45) - wynik wchodzi z jezdzcem.",
    "kto": "MAEGE MORMONT",
    "kanal": "przez Dustinport (Torren)",
-   "wraca": "300-06-26",
+   "wraca": "300-06-27",
    "zamyka": "ogien Wyspy zapalony, pierwszy meldunek",
    "status": "otwarte - 06-01 (rzut 22): nie plonie - lodzie z fok pozno; ~06-15"
   },
@@ -6133,10 +6133,10 @@
   },
   {
    "data": "300-05-24",
-   "co": "KARTA MIASTA STARKPORTU - ODPIS DLA SIGRUN (pieczec Krola 05-24; ulga 5 lat; 30 dni skladu; gielda; zamtuzy na prawie miasta). Warunek Sigrun spelniony przed zima. ### 300-06-25: odpis szedl kruk -> Fosa -> jezdziec do Dustinportu -> lodz; potwierdzenie Sigrun wraca ta sama droga - z jezdzcem z Dustinportu 06-26 (razem z wiescia Maege).",
+   "co": "KARTA MIASTA STARKPORTU - ODPIS DLA SIGRUN (pieczec Krola 05-24; ulga 5 lat; 30 dni skladu; gielda; zamtuzy na prawie miasta). Warunek Sigrun spelniony przed zima. ### 300-06-25: odpis szedl kruk -> Fosa -> jezdziec do Dustinportu -> lodz; potwierdzenie Sigrun wraca ta sama droga - z jezdzcem z Dustinportu 06-26 (razem z wiescia Maege). ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie); potwierdzenie Sigrun z jezdzcem 06-27.",
    "kto": "TOBIN -> SIGRUN",
    "kanal": "kruk Winterfell-Fosa (05-25) + jezdziec Fosa-Dustinport + lodz na Kamienny Brzeg",
-   "wraca": "300-06-26",
+   "wraca": "300-06-27",
    "zamyka": "odpis u Sigrun (potwierdzenie w karcie Starkportu)",
    "status": "otwarte - na Kamiennym Brzegu (E); potwierdzenie z karta Starkportu"
   },
@@ -6367,10 +6367,10 @@
   },
   {
    "data": "300-05-26",
-   "co": "EDMURE - PELNA LISTA GARNIZONOW LANNISTEROW W DORZECZU (zwiadowcy wzdluz Tridentu i Zielonych Widel); pewne dzis: Maidenpool, Darry. Catelyn: pomoze list od Krola z podziekowaniem.",
+   "co": "EDMURE - PELNA LISTA GARNIZONOW LANNISTEROW W DORZECZU (zwiadowcy wzdluz Tridentu i Zielonych Widel); pewne dzis: Maidenpool, Darry. Catelyn: pomoze list od Krola z podziekowaniem. ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie). RZUT przy odpowiedzi wykonany dzis: 24 (prog 45) - JEDNA KONSEKWENCJA, tresc wchodzi z krukiem 06-27: lista NIEPELNA - Trident potwierdzony, Zielone Widly nie przeszle (ziemie Freyow, zwiadowcy bez pisma Waldera nie przepuszczeni).",
    "kto": "EDMURE TULLY",
    "kanal": "kruk Riverrun-Winterfell",
-   "wraca": "300-06-26",
+   "wraca": "300-06-27",
    "zamyka": "lista garnizonow (rzut przy odpowiedzi)",
    "status": "otwarte"
   },
@@ -6592,12 +6592,12 @@
   },
   {
    "data": "300-05-26",
-   "co": "A-2 MIRA - IMIE MISTRZYNI ATELIER NA CAILIN ('nie powiem, poki nie bede pewna'). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): Mira na Fosie od dzis - imie mistrzyni powie sama, gdy bedzie pewna. ### 300-06-25: Mira: 'w czwartek, jak mowilam' (06-24).",
+   "co": "A-2 MIRA - IMIE MISTRZYNI ATELIER NA CAILIN ('nie powiem, poki nie bede pewna'). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): Mira na Fosie od dzis - imie mistrzyni powie sama, gdy bedzie pewna. ### 300-06-25: Mira: 'w czwartek, jak mowilam' (06-24). ### 300-06-26: MIRA (czwartek, rano): ORSA - ~40, wdowa po tkaczu z Dorzecza (spod Miasta Lorda Harrowaya), na przedmiesciu przy grobli od zimy; kroila w szwalni panskiego domu; liczy, nie pisze; dwoje dzieci na liscie szkoly. Mira patrzyla tydzien, jak szyje probne bandery. Szwalnia w Cailin od VII - Orsa na co dzien, Mira nadzor.",
    "kto": "MIRA",
    "kanal": "osobiscie na Fosie",
    "wraca": "300-06-26",
    "zamyka": "imie mistrzyni",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-26 - MISTRZYNI: ORSA"
   },
   {
    "data": "300-05-26",
@@ -7006,7 +7006,7 @@
   },
   {
    "data": "300-06-05",
-   "co": "LOWCY TALENTOW W SEPTACH I W DORZECZU - dzieci nisko urodzone, bekarty, zablakane (sieroty wojenne); stypendium Domu (wikt i dach), odpracowanie 3 lata. Pisma: septon Winterfell (ustnie), septa BP (Hal), septy i panowie Dorzecza (Lucan, Deron Suchy, placowka Riverrun/Seagard). Transport: kolumny Kompanii z opiekunem. JEDEN RZUT na odzew (wola septonow i Dorzecza); Wiara zapyta o Siedmiu.",
+   "co": "LOWCY TALENTOW W SEPTACH I W DORZECZU - dzieci nisko urodzone, bekarty, zablakane (sieroty wojenne); stypendium Domu (wikt i dach), odpracowanie 3 lata. Pisma: septon Winterfell (ustnie), septa BP (Hal), septy i panowie Dorzecza (Lucan, Deron Suchy, placowka Riverrun/Seagard). Transport: kolumny Kompanii z opiekunem. JEDEN RZUT na odzew (wola septonow i Dorzecza); Wiara zapyta o Siedmiu. ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie); pismo wychodzi 06-27.",
    "kto": "SYMON -> SEPTONI / LUCAN / DERON / HAL",
    "kanal": "ustnie + kruki + Lucan (Dorzecze ~10 dni)",
    "wraca": "300-07-15",
@@ -7177,7 +7177,7 @@
   },
   {
    "data": "300-06-08",
-   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: kasztelan (kruk): PRZEGRODA w izbie strazy Wiezy postawiona. Zostaja: narzuty (Tessa, targ 06-26), urlop Gareda (VIII), Rowan do szkoly (07-01).",
+   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: kasztelan (kruk): PRZEGRODA w izbie strazy Wiezy postawiona. Zostaja: narzuty (Tessa, targ 06-26), urlop Gareda (VIII), Rowan do szkoly (07-01). ### 300-06-26: Tessa kupila plotno na targu (pod daszkami); narzuty szyje szwalnia Miry/Orsy.",
    "kto": "STEN / DAGON / TESSA / KASZTELAN",
    "kanal": "osobiscie + kruk do kasztelana",
    "wraca": "300-07-01",
@@ -7501,12 +7501,12 @@
   },
   {
    "data": "300-06-19",
-   "co": "KARTA MIASTA CAILIN - DOPISEK O BRAMACH (nadanie pana 06-19): w pokoju bramy miasta trzyma lawa, w wojnie - kapitan Fosy (Hendry); azyl i 'powietrze miasta czyni wolnym' bez zmian. Lawa wpisuje i wiesza na slupie.",
+   "co": "KARTA MIASTA CAILIN - DOPISEK O BRAMACH (nadanie pana 06-19): w pokoju bramy miasta trzyma lawa, w wojnie - kapitan Fosy (Hendry); azyl i 'powietrze miasta czyni wolnym' bez zmian. Lawa wpisuje i wiesza na slupie. ### 300-06-26: lawa wpisala w deszczu pod daszkiem wagi; na slupie pod deszczowka.",
    "kto": "HERWIN + lawa; pisarz grodzki",
    "kanal": "na miejscu",
    "wraca": "300-06-26",
    "zamyka": "dopisek w karcie i na slupie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-26 - WPISANE"
   },
   {
    "data": "300-06-19",
@@ -7528,12 +7528,12 @@
   },
   {
    "data": "300-06-19",
-   "co": "WYPLATY DNIOWEK RANO PRZY WADZE, nie wieczorem (decyzja pana 06-19 na wniosek Herwina) - Mella + Garrick od najblizszej wyplaty; ogloszenie na slupie. Wlasni - bez rzutu.",
+   "co": "WYPLATY DNIOWEK RANO PRZY WADZE, nie wieczorem (decyzja pana 06-19 na wniosek Herwina) - Mella + Garrick od najblizszej wyplaty; ogloszenie na slupie. Wlasni - bez rzutu. ### 300-06-26: pierwsza wyplata rano pod daszkiem wagi (sztorm); Mella przy liscie, Garrick przy skrzyni. Meldunek lawy: bez bojek, jedna klotnia o kolejke.",
    "kto": "MELLA + GARRICK",
    "kanal": "na miejscu",
    "wraca": "300-06-26",
    "zamyka": "pierwsza wyplata rano przy wadze; meldunek ławy o bojkach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-26 - PIERWSZA WYPLATA RANO"
   },
   {
    "data": "300-06-19",
@@ -7573,12 +7573,12 @@
   },
   {
    "data": "300-06-19",
-   "co": "LESNICZY PRZYSIEGLY LENNA - OBSADZIC (wakat od 300-02; potrzebny do wyrebu olchy na lodzie Jastrzebi i regale lesnego). Szuka WARRYN w OBU SPISACH (zasada 37: spis mieszkancow 299-06 + rejestr dniowek Melli). Wlasni - bez rzutu.",
+   "co": "LESNICZY PRZYSIEGLY LENNA - OBSADZIC (wakat od 300-02; potrzebny do wyrebu olchy na lodzie Jastrzebi i regale lesnego). Szuka WARRYN w OBU SPISACH (zasada 37: spis mieszkancow 299-06 + rejestr dniowek Melli). Wlasni - bez rzutu. ### 300-06-26: WARRYN z obu spisow: ODO SMOLARZ (~50, byly weglarz z lasu za Przesmykiem, zna olsze i kazda sciezke; liczy, nie pisze - do ksiegi pisarz kancelarii). Przysiega przed Roderykiem w sobote.",
    "kto": "WARRYN (+ Mella)",
    "kanal": "na miejscu",
    "wraca": "300-06-26",
    "zamyka": "lesniczy obsadzony imiennie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-26 - ODO SMOLARZ"
   },
   {
    "data": "300-06-19",
@@ -7735,21 +7735,21 @@
   },
   {
    "data": "300-06-19",
-   "co": "KADZIELNICE MIEJSKIE OD ZARAZ (rozkaz pana 06-19, z projektu Cailin XI/XIV, przyspieszone): tlace sie cale lato przeciw komarom - TORF (regale lenna) + 'BAGNO ROSNACE' (ziele bagienne, wskazuje NINA), na slupach PRZY MOSTACH I KLADKACH NAD WODA, przy BARAKACH, przy SZKOLE i przy izbie chorych; obsluga - nocny obchod Jastrzebi + dzieci z dniowek za grosz (dosypywanie). ZASADA 8: zar w miescie z drewna i trzciny - kadzielnice TYLKO NAD WODA albo na kamieniu, kosz nakryty; KUZNIA (czterech) zajeta kuszami - kosze z GLINY u garncarza zamiast zelaza. Placi LENNO (Kasa 2), zeby nie czekac na podatek miejski. Reszta z XI od razu: wiadro przy kazdym domu nad kanalem; piekarnie i kuznie - przy nowych budowach tylko za kanalem.",
+   "co": "KADZIELNICE MIEJSKIE OD ZARAZ (rozkaz pana 06-19, z projektu Cailin XI/XIV, przyspieszone): tlace sie cale lato przeciw komarom - TORF (regale lenna) + 'BAGNO ROSNACE' (ziele bagienne, wskazuje NINA), na slupach PRZY MOSTACH I KLADKACH NAD WODA, przy BARAKACH, przy SZKOLE i przy izbie chorych; obsluga - nocny obchod Jastrzebi + dzieci z dniowek za grosz (dosypywanie). ZASADA 8: zar w miescie z drewna i trzciny - kadzielnice TYLKO NAD WODA albo na kamieniu, kosz nakryty; KUZNIA (czterech) zajeta kuszami - kosze z GLINY u garncarza zamiast zelaza. Placi LENNO (Kasa 2), zeby nie czekac na podatek miejski. Reszta z XI od razu: wiadro przy kazdym domu nad kanalem; piekarnie i kuznie - przy nowych budowach tylko za kanalem. ### 300-06-26: kosze z gliny od garncarza na slupach przy mostach, barakach, szkole i izbie chorych - stoja; w sztormie zapalone tylko pod daszkami przy barakach, reszta po deszczu (Kessel - obchod nocny).",
    "kto": "HERWIN + NINA (ziele) + BRAN (slupy) + KESSEL (obchod)",
    "kanal": "na miejscu",
    "wraca": "300-06-26",
    "zamyka": "pierwsze kadzielnice tla sie przy mostach i barakach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-26 - KOSZE STOJA, PIERWSZE TLA SIE"
   },
   {
    "data": "300-06-19",
-   "co": "LAWA CAILIN - GLOSOWANIE USTAWY BUDOWLANEJ (propozycja Herwina, zgoda pana 06-19): (1) nowy dom - przyziemie i komin z kamienia; (2) dach darniowy, trzcina tylko do konca 301; (3) zakaz nowej trzciny na dachach przy kanale glownym od zaraz; (4) szopy i baraki drewniane tylko jako tymczasowe, z data rozbiorki; (5) budynki publiczne caly bazalt. Glosowanie w najblizszy dzien targowy - 06-26. WOLA LAWY - RZUT przy glosowaniu. OD ZARAZ, BEZ GLOSU: Herwin i Bennis egzekwuja to, co juz stoi w STANDARDZIE B (komin w kamieniu, palenisko nie w scianie, prog nad wysoka woda) - wzornik przy wadze. ### 06-19 PAN (zalecenie): (6) BIELENIE DREWNA WAPNEM - sciany, belki, szopy i baraki (antyseptycznie: plesn, robactwo; wolniej sie zajmuje). Dla mieszczan - ZALECENIE w ustawie, wapno po cenie kosztu przy wadze; dla budynkow LENNA I DOMU (baraki, sklad lin, straznica, kwatery) - NAKAZ od zaraz.",
+   "co": "LAWA CAILIN - GLOSOWANIE USTAWY BUDOWLANEJ (propozycja Herwina, zgoda pana 06-19): (1) nowy dom - przyziemie i komin z kamienia; (2) dach darniowy, trzcina tylko do konca 301; (3) zakaz nowej trzciny na dachach przy kanale glownym od zaraz; (4) szopy i baraki drewniane tylko jako tymczasowe, z data rozbiorki; (5) budynki publiczne caly bazalt. Glosowanie w najblizszy dzien targowy - 06-26. WOLA LAWY - RZUT przy glosowaniu. OD ZARAZ, BEZ GLOSU: Herwin i Bennis egzekwuja to, co juz stoi w STANDARDZIE B (komin w kamieniu, palenisko nie w scianie, prog nad wysoka woda) - wzornik przy wadze. ### 06-19 PAN (zalecenie): (6) BIELENIE DREWNA WAPNEM - sciany, belki, szopy i baraki (antyseptycznie: plesn, robactwo; wolniej sie zajmuje). Dla mieszczan - ZALECENIE w ustawie, wapno po cenie kosztu przy wadze; dla budynkow LENNA I DOMU (baraki, sklad lin, straznica, kwatery) - NAKAZ od zaraz. ### 300-06-26: RZUT 31 (prog 45) - JEDNA KONSEKWENCJA: ustawa PRZYJETA bez pkt (2) w tej formie - trzcina na dachach poza kanalem glownym do konca 302 (nie 301), bo darn i lupek drozsze niz kieszen przedmiescia; reszta (1, 3, 4, 5, 6-zalecenie wapna) i KOMORA OSTATNIEJ REKI na wadze miejskiej - przyjete. Na slupie.",
    "kto": "HERWIN + LAWA; BENNIS (wzornik)",
    "kanal": "na miejscu",
    "wraca": "300-06-26",
    "zamyka": "uchwala lawy (rzut) i ogloszenie na slupie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-26 - USTAWA PRZYJETA (pkt 2 -> koniec 302)"
   },
   {
    "data": "300-06-19",
@@ -7852,12 +7852,12 @@
   },
   {
    "data": "300-06-20",
-   "co": "KARTA MIASTA CAILIN - WPIS PODZIALU SADOW (7 punktow, nadanie pana 06-20) + granica slupami + bramy: lawa wpisuje do karty, pisarz grodzki do ksiegi sadu; ogloszenie na slupie; JEDNA KSIEGA SKAZANYCH zalozona wspolnie (Roderyk + pisarz lawy). Odpis dla Roderyka do przeczytania przed wpisem. Wlasni + miasto - bez rzutu (nadanie pana).",
+   "co": "KARTA MIASTA CAILIN - WPIS PODZIALU SADOW (7 punktow, nadanie pana 06-20) + granica slupami + bramy: lawa wpisuje do karty, pisarz grodzki do ksiegi sadu; ogloszenie na slupie; JEDNA KSIEGA SKAZANYCH zalozona wspolnie (Roderyk + pisarz lawy). Odpis dla Roderyka do przeczytania przed wpisem. Wlasni + miasto - bez rzutu (nadanie pana). ### 300-06-26: wpis w karcie, ogloszenie na slupie; jedna ksiega skazanych prowadzona od 06-24 (Willem, handlarz) - Roderyk + pisarz lawy.",
    "kto": "HERWIN + LAWA; RODERYK; pisarz grodzki",
    "kanal": "na miejscu",
    "wraca": "300-06-26",
    "zamyka": "wpis w karcie, ogloszenie, ksiega skazanych zalozona",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-26 - WPISANE"
   },
   {
    "data": "300-06-20",
@@ -7906,12 +7906,12 @@
   },
   {
    "data": "300-06-20",
-   "co": "PRZEMYT - KOMORA OSTATNIEJ REKI (zgoda pana 06-20, wniosek Rorika): waga miejska Cailin i kazda waga lenna nie przyjmuje ladunku powyzej progu bez pieczeci na liscie przewozowym (prawo o skladach); waga miejska - uchwala lawy przy ustawie budowlanej (06-26, rzut przy glosowaniu); wagi lenna - rozkaz Warryna od zaraz.",
+   "co": "PRZEMYT - KOMORA OSTATNIEJ REKI (zgoda pana 06-20, wniosek Rorika): waga miejska Cailin i kazda waga lenna nie przyjmuje ladunku powyzej progu bez pieczeci na liscie przewozowym (prawo o skladach); waga miejska - uchwala lawy przy ustawie budowlanej (06-26, rzut przy glosowaniu); wagi lenna - rozkaz Warryna od zaraz. ### 300-06-26: wagi lenna od 06-20 (Warryn); waga miejska - uchwala lawy dzis.",
    "kto": "HERWIN + LAWA; WARRYN",
    "kanal": "na miejscu / poczta",
    "wraca": "300-06-26",
    "zamyka": "wagi lenna od zaraz; waga miejska - uchwala lawy",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-26 - WAGI LENNA + WAGA MIEJSKA"
   },
   {
    "data": "300-06-20",
@@ -8454,6 +8454,24 @@
    "kanal": "poczta / kruk / jezdzcy",
    "wraca": "300-09-01",
    "zamyka": "lista kandydatow na nabor",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "NIEDZIELA BEZ PISM (propozycja Miry 06-25, zgoda pana): 06-29 dzien tylko dla rodziny - gaj albo lodz po kanale; bez Garricka, poczty, mistrza. Rzeczy ida same (karb - Garrick, obsydian - Warryn).",
+   "kto": "SYMON + MIRA + LYRA (+ ARYA)",
+   "kanal": "na miejscu",
+   "wraca": "300-06-29",
+   "zamyka": "dzien spedzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "LESNICZY ODO SMOLARZ - PRZYSIEGA przed Roderykiem (sobota, przy radzie lenna).",
+   "kto": "RODERYK + ODO",
+   "kanal": "na miejscu",
+   "wraca": "300-06-28",
+   "zamyka": "przysiega zlozona",
    "status": "otwarte"
   }
  ],

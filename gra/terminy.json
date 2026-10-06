@@ -8752,6 +8752,33 @@
    "wraca": null,
    "zamyka": "decyzja pana o powolaniu albo odlozeniu",
    "status": "otwarte - bez daty (zyczenie, zasada 41)"
+  },
+  {
+   "data": "300-06-30",
+   "co": "SPIS CALEGO LENNA FOSY CAILIN - WSZYSTKIE WSIE, PRZYSIOLKI I OSADY NA KEPACH, NAPRAWDE (rozkaz pana 06-30, propozycja Warryna). Dom po domu: DUSZE (imiennie, z wiekiem; dzieci osobno), RECE DO PRACY, POLA, BYDLO. Prowadzi WARRYN (zasada 42 - sam dobiera pisarzy; metoda Alys z lutego); w kazdej wsi SOLTYS + LAWA PRZYSIEGLA WSI + pisarz; INGA (poborca) i SARRA (urbarz) zderzaja z urbarzem; na kepy i glebokie bagno - pisarz LODZIA JASTRZEBI (Jastrzebie tylko wioza, pyta pisarz). Ludzi Reeda (krannogowie pod jego reka) NIE liczy sie - granica z Reedem czeka na jego odpowiedz (~07-15). OGLOSZENIE Z GORY (Garrick, slupy i soltysi, przed pierwszym domem): 'SPIS NIE PODNOSI CZYNSZU.' ZASADA 8 (jedna): ZNIWA w VIII zabieraja ludzi i soltysow - wiec DWA PRZEJSCIA: (1) KROTKIE po sianokosach - dusze i dzieci (lista dla naboru szkoly 09-01); (2) PELNE po zniwach - rece, pola, bydlo. Kasa 2 (dniowki pisarzy). Wlasni - bez rzutu na wykonanie.",
+   "kto": "WARRYN (+ soltysi, lawy wsi, INGA, SARRA, pisarze; KESSEL - lodzie)",
+   "kanal": "na miejscu; meldunek w zbiorczym Garricka",
+   "wraca": "300-08-25",
+   "zamyka": "(1) przejscie krotkie: dusze i dzieci wszystkich wsi na papierze przed 09-01; (2) pelne - termin osobny po zniwach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "SPIS CALEGO LENNA - PRZEJSCIE PELNE (po zniwach): rece do pracy, pola, bydlo, dom po domu; zderzenie z urbarzem; jedna liczba lenna zamiast '15-20 tys.'.",
+   "kto": "WARRYN",
+   "kanal": "na miejscu; zbiorczy Garricka",
+   "wraca": "300-10-15",
+   "zamyka": "spis lenna kompletny, liczba na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "⚑ DELEGACJA STALA DLA KESSELA (wola pana 06-30): 'Nie pytaj mnie, czy mozesz miec wiecej lodzi - rozbudowuj to tak mocno, jak chcesz.' LODZIE, WIOSLA, TYCZKI, KUSZE, ROGI, PRZYSTANIE JASTRZEBI - Kessel zamawia sam, BEZ PYTANIA PANA. Placi KASA 2: skarbnik GERRIK liczy, rzadca WARRYN wydaje na kwit (zasada: kto liczy, nie wydaje). Drewno - przez lesniczego (Sigurd Olcha / Odo Smolarz, regale). Meldunek po fakcie w zbiorczym Garricka. Pierwsza pozycja: druga lodz na noc przy przystani. Kwot z glowy nie ma (zasada 43) - koszt pokazuje ksiega.",
+   "kto": "KESSEL (wykonanie), WARRYN + GERRIK (kasa)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "druga lodz nocna w sluzbie + pierwszy meldunek zakupow w zbiorczym",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

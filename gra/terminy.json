@@ -8071,10 +8071,10 @@
   },
   {
    "data": "300-06-21",
-   "co": "KARB NA BUDOWACH LENNA (pomysl ARYI STARK 06-21, wdrozenie - rozkaz pana): kij leszczynowy z nacieciem za kazdy przepracowany dzien, przelamany wzdluz - polowa u robotnika, polowa u pisarza wyplat; przy wyplacie przy wadze sklada sie obie polowy (dla nieczytajacych i nieliczacych; obok rejestru Melli, nie zamiast). Kije - ciesla lenna; pietno brygady na kiju. Start: pierwsza wyplata po zrobieniu kijow (E ~06-29). ZASADA 8: nadzorcy beda krzywo patrzec - to jest wlasnie sens. Wlasni - bez rzutu.",
+   "co": "KARB NA BUDOWACH LENNA (pomysl ARYI STARK 06-21, wdrozenie - rozkaz pana): kij leszczynowy z nacieciem za kazdy przepracowany dzien, przelamany wzdluz - polowa u robotnika, polowa u pisarza wyplat; przy wyplacie przy wadze sklada sie obie polowy (dla nieczytajacych i nieliczacych; obok rejestru Melli, nie zamiast). Kije - ciesla lenna; pietno brygady na kiju. Start: pierwsza wyplata po zrobieniu kijow (E ~06-29). ZASADA 8: nadzorcy beda krzywo patrzec - to jest wlasnie sens. Wlasni - bez rzutu. ### 06-28: pierwsza wyplata przeniesiona na PONIEDZIALEK 06-30 (niedziela) - zgoda pana.",
    "kto": "GARRICK + MELLA (+ ciesla)",
    "kanal": "na miejscu",
-   "wraca": "300-06-29",
+   "wraca": "300-06-30",
    "zamyka": "pierwsza wyplata na karb",
    "status": "otwarte"
   },
@@ -8512,12 +8512,12 @@
   },
   {
    "data": "300-06-26",
-   "co": "PC-0 KAPITAN PORTU CAILIN - obsadzic imiennie (zasada 42, oba spisy): czyta, liczy, zna wode i wozy; potem PC-2 place wozowe i stajnie drewniane przy grobli pod zboze z Reach (IX). Wlasni - bez rzutu.",
+   "co": "PC-0 KAPITAN PORTU CAILIN - obsadzic imiennie (zasada 42, oba spisy): czyta, liczy, zna wode i wozy; potem PC-2 place wozowe i stajnie drewniane przy grobli pod zboze z Reach (IX). Wlasni - bez rzutu. ### 06-28 RADA, ZGODA PANA: KAPITAN PORTU CAILIN - HARWIN LOPATA (byly przewoznik z grobli; zna lodzie i wozy, liczy) + PISARZ PRZY NIM (Garrick wskaze z kancelarii). PC-2 place wozowe i stajnie drewniane pod zboze z Reach (IX) - Harwin z Branem.",
    "kto": "GARRICK (wskazuje)",
    "kanal": "na miejscu",
    "wraca": "300-07-15",
    "zamyka": "kapitan portu imiennie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 06-28 - HARWIN LOPATA + PISARZ"
   },
   {
    "data": "300-06-26",
@@ -8598,15 +8598,24 @@
    "kanal": "na miejscu",
    "wraca": "300-06-28",
    "zamyka": "rada odbyta, protokol sekretarza",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 06-28 - RADA ODBYTA, PROTOKOL ALYNA; KAPITAN PORTU HARWIN + PISARZ; KARB 06-30"
   },
   {
    "data": "300-06-28",
-   "co": "KARB - PIERWSZA WYPLATA PRZENIESIONA z niedzieli 06-29 na PONIEDZIALEK 06-30 rano przy wadze (sprawa z sali, Warryn; pan - zgoda/odmowa).",
+   "co": "KARB - PIERWSZA WYPLATA PRZENIESIONA z niedzieli 06-29 na PONIEDZIALEK 06-30 rano przy wadze (sprawa z sali, Warryn; pan - zgoda/odmowa). ### 06-28 ZGODA PANA.",
    "kto": "GARRICK + MELLA",
    "kanal": "na miejscu",
    "wraca": "300-06-30",
    "zamyka": "pierwsza wyplata na karb",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-28",
+   "co": "PC-2 PORT CAILIN - PLACE WOZOWE I STAJNIE DREWNIANE przy grobli pod zboze z Reach i tabory (IX); prowadzi kapitan portu HARWIN LOPATA z Branem (ciesle po sianokosach). Wlasni - bez rzutu.",
+   "kto": "HARWIN LOPATA + BRAN",
+   "kanal": "na miejscu",
+   "wraca": "300-09-01",
+   "zamyka": "place i stajnie stoja",
    "status": "otwarte"
   }
  ],

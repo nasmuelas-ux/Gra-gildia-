@@ -702,3 +702,7 @@ Na skraju ogrodów, przy kanale i wejściu do Lecznicy: niska, stabilna wieża z
 ---
 # ETAPY RESZTY PROJEKTU — `gra/etapy_projektu_cailin_300_06.md` (300-06-26)
 **Pomarańczowy Dwór (PD-0..6) · Latarnia Pióra i Płomienia (LP-0..6 + Archiwum Domu) · IX Ciepło i para (CP-0..6) · VI Port Cailin (PC-0..6) · Spław rzeką Fever (SF-0..5) · Etapy miasta 0–IV jako lista · Mury miasta i forteca jako jedna całość (MF-0..7).** Tabela obsady z 300-02-27 (punkt 10 E) jest **historyczna**; obsadę bieżącą (propozycje do słowa pana) podaje plik etapów.
+
+---
+# UMOCNIENIE TRAKTU (GROBLA T1-A) — `gra/umocnienie_traktu_grobla_300_06.md` (300-06-28)
+**Wola pana 300-06-28:** umocnienie grobli przez Przesmyk (przęsła zwodzone, wieże z komorą i ogniem w łańcuchu) + **KANAŁ PRZYTRAKTOWY dla barek tuż przy grobli** (trzyma pale w wodzie; zapora przy każdym przęśle). **FINANSUJE W CAŁOŚCI DOM TALLY** — bezzwrotne zasilenie Kasy 2 (wzór przewłoki); myto zostaje przy lennie; podział z 299-09-09 (Korona ~2/3) przestaje obowiązywać — do wiadomości Króla. Etapy UT-0..7.

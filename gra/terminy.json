@@ -8635,6 +8635,51 @@
    "wraca": "300-07-08",
    "zamyka": "wypis Luwina na stole pana w Winterfell",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-28",
+   "co": "UT-0 UMOCNIENIE TRAKTU - ZASADY NA PISMIE + LICZBA WYJSCIOWA MYTA GROBLI (przed pierwszym palem umocnien): finansuje DOM TALLY w calosci (bezzwrotne zasilenie Kasy 2), myto lenna, kanal przytraktowy i przesla. Razem z rozliczeniem skarbca. Wlasni - bez rzutu.",
+   "kto": "WARRYN + HAL",
+   "kanal": "na miejscu / poczta BP",
+   "wraca": "300-07-05",
+   "zamyka": "zasady i liczba myta w ksiedze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-28",
+   "co": "UT-0K UMOCNIENIE TRAKTU - DO WIADOMOSCI KROLA: Korona zwolniona z ~2/3 (decyzja 299-09-09); Dom Tally finansuje sam; clo Korony przy komorach kartowych bez zmian. Prerogatywa Krola, jesli zechce udzialu - RZUT przy rozmowie.",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell (osobiscie)",
+   "wraca": "300-07-08",
+   "zamyka": "Krol przyjal do wiadomosci / zdecydowal o udziale",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-28",
+   "co": "UT-1 MAPA GROBLI DO UMOCNIEN: gdzie przecinaja ja kanaly i gardla (przesla), twardy grunt pod wieze, linia kanalu przytraktowego. Wlasni - bez rzutu.",
+   "kto": "KESSEL + MAESTER ORWYN",
+   "kanal": "na miejscu",
+   "wraca": "300-09-01",
+   "zamyka": "mapa przesel i kanalu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-28",
+   "co": "UT-2 RYSUNEK GROBLI Z KANALEM PRZYTRAKTOWYM, PRZESLA ZWODZONEGO Z ZAPORA, WIEZY Z KOMORA I PRZYSTANIA. Wlasni - bez rzutu.",
+   "kto": "ORWYN + WEYLIN",
+   "kanal": "na miejscu",
+   "wraca": "300-10-15",
+   "zamyka": "rysunki na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-28",
+   "co": "UT-3 KOSZTORYS UMOCNIENIA TRAKTU (od mili i od przesla z wieza) + harmonogram na lata z wolnej gotowki Domu, bez ruszania bufora 1000 (zasada 43). Wlasni - bez rzutu.",
+   "kto": "HAL + WARRYN",
+   "kanal": "poczta BP / na miejscu",
+   "wraca": "300-11-01",
+   "zamyka": "kosztorys i harmonogram",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

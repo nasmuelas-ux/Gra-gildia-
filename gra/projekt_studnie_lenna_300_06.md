@@ -30,7 +30,7 @@
 | **ST-3** | **pierwsza fala przed mrozem**: wsie, które piją z rowu | Warryn, ręce wsi | **do 10-31** | ST-2; ziemia jeszcze nie zamarzła |
 | **ST-4** | pozostałe wsie z twardym gruntem | Warryn, ręce wsi | **wiosna 301** | po roztopach |
 | **ST-5** | **cysterny na kępach** | Warryn + Orwyn; łodzie Jastrzębi do transportu | **301** | ST-0 (wzór cysterny) |
-| **ST-6** | **utrzymanie**: w każdej wsi stróż studni (wyznacza sołtys), czyszczenie raz w roku, przegląd przy każdym spisie | sołtysi; spis | stale | — |
+| **ST-6** | **utrzymanie należy do WSI** (wola pana 06-30): lenno kopie i obudowuje, a o studnię dba wieś: czyszczenie, naprawy, stróż studni. **Lenno studni nie czyści.** Przy spisie sprawdza się tylko, czy studnia działa | sołtys i ława wsi | stale | — |
 
 ## ZASADA 8: CO TO PRZYNIESIE
 1. **Mróz.** Od listopada nie da się kopać. Czego nie zrobi się w ST-3, czeka do wiosny.
@@ -38,5 +38,9 @@
 3. **Woda bagienna.** Nie każda głęboka studnia da czystą wodę. Tam, gdzie nie da, robi się cysternę. Orwyn sprawdza wodę z każdej nowej studni.
 4. **Spory o miejsce.** Kto da grunt pod studnię, a kto do niej nie dopuści sąsiada? Dlatego studnia stoi na ziemi wspólnej, a spór rozstrzyga ława wsi.
 5. **Obietnica.** Wieś, która zobaczy studnię u sąsiada, zapyta o swoją. Dlatego kolejność jest jawna i każda wieś dostaje odpowiedź na piśmie (zasada spisu potrzeb z 06-30).
+
+## UWAGA PANA 06-30
+- **Każda wieś dba o swoją studnię.** Lenno daje studnię, a utrzymanie należy do wsi.
+- **Kładki, mosty i inne potrzeby** wieś zgłasza **sama w prośbach** (spis potrzeb, „trzy rzeczy”). Projekt studni ich nie obejmuje.
 
 *Spisano z woli pana. Prowadzi: Warryn. Fachowo: Orwyn, Nina. Kasa 2.*

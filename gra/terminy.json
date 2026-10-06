@@ -3288,10 +3288,10 @@
   },
   {
    "data": "300-04-02",
-   "co": "DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu nic do rzeczy (brama niepotrzebna). LODZIE: MORMONTOW + WLASNE (eskadra Torrena z Dustinportu). Warunek natury: otwarta woda po odwilzy. Otwarte: prosba do Maege Mormont o lodzie (wyjezdza dzis); rozkaz dla Torrena; zapewnienie dla Mance'a. ### 06-20 (pan na Fosie): czeka na poselstwo Dacey (wiesc przez Mur, potem Winterfell-Fosa).",
+   "co": "DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu nic do rzeczy (brama niepotrzebna). LODZIE: MORMONTOW + WLASNE (eskadra Torrena z Dustinportu). Warunek natury: otwarta woda po odwilzy. Otwarte: prosba do Maege Mormont o lodzie (wyjezdza dzis); rozkaz dla Torrena; zapewnienie dla Mance'a. ### 06-20 (pan na Fosie): czeka na poselstwo Dacey (wiesc przez Mur, potem Winterfell-Fosa). ### 300-06-28: czeka na slowo Mance'a (poselstwo, ~07-15). LODZIE: Maege daje DWIE z fok 'gdy Mance powie tak' (06-27); eskadra Torrena - rozkaz po slowie Mance'a.",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-06-28",
+   "wraca": "300-07-15",
    "zamyka": "lodzie zebrane i droga uzgodniona z Mance'em",
    "status": "otwarte - 06-01: bez kontaktu z Mance'em; czeka na poselstwo Dacey"
   },
@@ -5386,10 +5386,10 @@
   },
   {
    "data": "300-05-15",
-   "co": "POSELSTWO U MANCE'A (E): Nawiedzony Las -> dolny bieg Mlecznej Wody, 2-3 tygodnie od Muru; slowa Krola (Cypel, bez klekania, przysiega przy drzewie, przy Innych z Polnoca, bez najazdow, kto nie przysiegnie nie siada). RZUT na przyjecie przy spotkaniu. Wiesc - gdy Dacey wroci do Muru albo przysle znak. ### 06-20 (pan na Fosie): za Murem brak kanalu; wiesc przez Mur i Winterfell do Fosy - nie wczesniej niz ~06-28 (E).",
+   "co": "POSELSTWO U MANCE'A (E): Nawiedzony Las -> dolny bieg Mlecznej Wody, 2-3 tygodnie od Muru; slowa Krola (Cypel, bez klekania, przysiega przy drzewie, przy Innych z Polnoca, bez najazdow, kto nie przysiegnie nie siada). RZUT na przyjecie przy spotkaniu. Wiesc - gdy Dacey wroci do Muru albo przysle znak. ### 06-20 (pan na Fosie): za Murem brak kanalu; wiesc przez Mur i Winterfell do Fosy - nie wczesniej niz ~06-28 (E). ### 300-06-28: NIE PRZYSZLO I WIADOMO DLACZEGO: 06-28 to dzien (E) dojscia poselstwa do Mance'a; za Murem kanalu nie ma - wiesc wraca z poselstwem na Mur (2-3 tyg.), potem kruk Czarny Zamek-Winterfell; pan w Winterfell od ~07-08. Rzut przy wiesci.",
    "kto": "DACEY MORMONT",
    "kanal": "za Murem - brak kanalu; wiesc przez Mur",
-   "wraca": "300-06-28",
+   "wraca": "300-07-15",
    "zamyka": "odpowiedz Mance'a (rzut) albo wiesc o Dacey",
    "status": "otwarte"
   },
@@ -6385,10 +6385,10 @@
   },
   {
    "data": "300-05-26",
-   "co": "AKT ZLAMANIA UGODY 299-04-20 (Lannisterowie nie wycofali sie z Dorzecza) - JEDNO PISMO pod pieczecia Krola, z PELNA LISTA garnizonow i data, do Krolewskiej Przystani. Po liscie Edmure'a (~06-26). ⚠ MAIDENPOOL = HARRION KARSTARK - najpierw rozstrzygniecie z Karstarkiem, potem pismo o Maidenpool (Krol; kolejnosc Sansy). ### 05-26: BEZ STANNISA (nie jest strona ugody - slowo pana). SWIADKOWIE: Edmure (Trident, pan Mootona) i DORNE (autonomia na tym samym papierze). W AKCIE - garnizon i JENIEC w Maidenpool jako jedno zlamanie (wyjscie + wydanie Harriona) - tylko za zgoda Rickarda Karstarka w twarz. ### 05-26 (rzut 72): ADRESACI - LANNISTEROWIE (KP), DORNE, REACH (Olenna), ZELAZNY BANK (Braavos) + odpis Edmure; JEDEN TEKST, jedna data; do Banku kanalem Korony (maester Bialego Portu -> Braavos), NIE przez Dom Tally; Harrion tylko za zgoda Rickarda. ### 05-26 (slowo pana, Krol przyjmuje): RICKARDA NIE PYTAMY - MOWIMY. Akt obejmuje garnizony i JENCA w Maidenpool bez pytania o zgode; Rickard dostaje list Krola (reka Krola) kilka dni PRZED aktem: co, kiedy, do kogo - ryzyko bierze Krol. ### 05-26 (slowo pana): W AKCIE - WSZYSCY WIEZNIOWIE z listy 271 (pokwitowanej przez KP 03-27), Harrion jako jeden z nich; WYMIANA DWUSTRONNA - Korona oddaje swoich jencow (rejestr Cerwyna). ### 05-26: rownolegle EDMURE pisze do swoich wasali z garnizonami Lannisterow (ten sam tekst, zapowiedz odpisow) - prosba w drugim liscie Krola ~06-10.",
+   "co": "AKT ZLAMANIA UGODY 299-04-20 (Lannisterowie nie wycofali sie z Dorzecza) - JEDNO PISMO pod pieczecia Krola, z PELNA LISTA garnizonow i data, do Krolewskiej Przystani. Po liscie Edmure'a (~06-26). ⚠ MAIDENPOOL = HARRION KARSTARK - najpierw rozstrzygniecie z Karstarkiem, potem pismo o Maidenpool (Krol; kolejnosc Sansy). ### 05-26: BEZ STANNISA (nie jest strona ugody - slowo pana). SWIADKOWIE: Edmure (Trident, pan Mootona) i DORNE (autonomia na tym samym papierze). W AKCIE - garnizon i JENIEC w Maidenpool jako jedno zlamanie (wyjscie + wydanie Harriona) - tylko za zgoda Rickarda Karstarka w twarz. ### 05-26 (rzut 72): ADRESACI - LANNISTEROWIE (KP), DORNE, REACH (Olenna), ZELAZNY BANK (Braavos) + odpis Edmure; JEDEN TEKST, jedna data; do Banku kanalem Korony (maester Bialego Portu -> Braavos), NIE przez Dom Tally; Harrion tylko za zgoda Rickarda. ### 05-26 (slowo pana, Krol przyjmuje): RICKARDA NIE PYTAMY - MOWIMY. Akt obejmuje garnizony i JENCA w Maidenpool bez pytania o zgode; Rickard dostaje list Krola (reka Krola) kilka dni PRZED aktem: co, kiedy, do kogo - ryzyko bierze Krol. ### 05-26 (slowo pana): W AKCIE - WSZYSCY WIEZNIOWIE z listy 271 (pokwitowanej przez KP 03-27), Harrion jako jeden z nich; WYMIANA DWUSTRONNA - Korona oddaje swoich jencow (rejestr Cerwyna). ### 05-26: rownolegle EDMURE pisze do swoich wasali z garnizonami Lannisterow (ten sam tekst, zapowiedz odpisow) - prosba w drugim liscie Krola ~06-10. ### 300-06-28: dzien aktu; lista Edmure'a NIEPELNA (rzut 24, Zielone Widly). Co Krol zrobil (wyslal z lista niepelna albo wstrzymal) - kruk Winterfell-Fosa ~06-30; RZUT na decyzje Krola przy wiesci.",
    "kto": "KROL + SYMON (Tobin - tekst)",
    "kanal": "kruki Korony: Krolewska Przystan, Slonecznia, Wysogrod, Braavos (przez maestra Bialego Portu); odpis Riverrun",
-   "wraca": "300-06-28",
+   "wraca": "300-06-30",
    "zamyka": "pismo wyslane (albo swiadomie odlozone z powodu Maidenpool)",
    "status": "otwarte"
   },
@@ -6619,10 +6619,10 @@
   },
   {
    "data": "300-05-26",
-   "co": "BENJEN STARK - PYTANIE DOLACZONE DO POSELSTWA DACEY: za Murem, ustnie, u Mance'a i wsrod dzikich - czy ktos widzial albo slyszal o Benjenie (Pierwszy Zwiadowca, wyszedl z szescioma, nie wrocil). Jawnie, z imieniem. Jesli poselstwo juz za Murem - list u Clydasa do powrotu (wiesc 05-29). ### 06-20 (pan na Fosie): razem z poselstwem Dacey.",
+   "co": "BENJEN STARK - PYTANIE DOLACZONE DO POSELSTWA DACEY: za Murem, ustnie, u Mance'a i wsrod dzikich - czy ktos widzial albo slyszal o Benjenie (Pierwszy Zwiadowca, wyszedl z szescioma, nie wrocil). Jawnie, z imieniem. Jesli poselstwo juz za Murem - list u Clydasa do powrotu (wiesc 05-29). ### 06-20 (pan na Fosie): razem z poselstwem Dacey. ### 300-06-28: idzie z poselstwem Dacey - wiesc razem z nim (~07-15, Winterfell).",
    "kto": "SYMON -> CLYDAS -> DACEY MORMONT",
    "kanal": "kruk Winterfell-Czarny Zamek (05-26 wieczor); odpowiedz z poselstwem",
-   "wraca": "300-06-28",
+   "wraca": "300-07-15",
    "zamyka": "odpowiedz poselstwa o Benjenie (z rzutem spotkania z Mance'em)",
    "status": "otwarte"
   },
@@ -7114,10 +7114,10 @@
   },
   {
    "data": "300-06-07",
-   "co": "BRAN + JOJEN - NAUKA W BOZOGAJU O SWICIE (wejscie w Lato na jawie i powrot). Meldunek ustny dla Symona po powrocie z Fosy - co umie. Bez rzutu na wykonanie; postep - rzut przy meldunku.",
+   "co": "BRAN + JOJEN - NAUKA W BOZOGAJU O SWICIE (wejscie w Lato na jawie i powrot). Meldunek ustny dla Symona po powrocie z Fosy - co umie. Bez rzutu na wykonanie; postep - rzut przy meldunku. ### 300-06-28: meldunek ustny - osobiscie po powrocie pana do Winterfell (~07-08).",
    "kto": "BRAN + JOJEN + MEERA",
    "kanal": "osobiscie (po powrocie pana)",
-   "wraca": "300-06-28",
+   "wraca": "300-07-08",
    "zamyka": "co Bran umie po trzech tygodniach",
    "status": "otwarte"
   },
@@ -8035,12 +8035,12 @@
   },
   {
    "data": "300-06-21",
-   "co": "SEKRETARZ RADY LENNA - pisarz z kancelarii prowadzi protokol (zgoda pana 06-21). Wskazuje GARRICK (zasada 42). Wlasni - bez rzutu.",
+   "co": "SEKRETARZ RADY LENNA - pisarz z kancelarii prowadzi protokol (zgoda pana 06-21). Wskazuje GARRICK (zasada 42). Wlasni - bez rzutu. ### 300-06-28: GARRICK wskazal: ALYN SKROBEK (~25, pisarz kancelarii lenna od 06-19, rowne pismo, liczy szybko; syn bednarza z Cailin). Przy stole od dzis.",
    "kto": "GARRICK",
    "kanal": "na miejscu",
    "wraca": "300-06-28",
    "zamyka": "sekretarz przy stole na radzie 06-28",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-28 - ALYN SKROBEK"
   },
   {
    "data": "300-06-21",

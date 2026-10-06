@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 27,
+  "dzien": 28,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 4 (300-06-27) - JEDNA KONSEKWENCJA: sztorm wrocil w nocy, ulewa i wiatr od morza; woda wysoka - na przewloce druga mila pod woda.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 61 (300-06-28) - pochmurno, sucho, chlodny wiatr od morza; woda opada.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

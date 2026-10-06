@@ -8788,6 +8788,15 @@
    "wraca": "300-07-01",
    "zamyka": "lekcja odbyta, slowo pana powiedziane",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "⚑ STUDNIA W KAZDEJ WSI LENNA - NA KOSZT LENNA (rozkaz pana 06-30, po spacerze: we wsi kosiarzy za gajem woda metna, dzieci pija z rowu). KASA 2 (Gerrik liczy, Warryn wydaje; kwot z glowy nie ma - zasada 43). PROWADZI WARRYN; FACHOWO maester ORWYN (przydzial 06-26: wychodki i studnie) + NINA (woda a goraczka: gotowac, z dala od rowu i wychodka). KOLEJNOSC: (1) od razu po sianokosach - WIES KOSIARZY ZA GAJEM (widziana przez pana); (2) dalej wg KSIEGI WSI ze spisu (pierwsze przejscie ~09-01: ktora wies ma studnie, ktora zla, ktora zadnej) - najpierw te, gdzie pija z rowu. ZASADA 8 (Orwyn/Warryn): na bagnie studnia kopana plytko daje te sama wode co row - studnia GLEBOKA, cembrowina z kamienia albo dębowych klepek, daszek, zuraw, min. ~30 krokow od rowu i wychodka (E); NA KEPACH, gdzie nie ma twardej warstwy - CYSTERNA NA DESZCZOWKE z dachu zamiast studni. Kopia ludzie wsi za dniowke lenna (Mella, karb). Wlasni - bez rzutu na wykonanie.",
+   "kto": "WARRYN (+ ORWYN, NINA; Gerrik - kasa)",
+   "kanal": "na miejscu; meldunek w zbiorczym Garricka",
+   "wraca": "300-08-15",
+   "zamyka": "studnia we wsi za gajem gotowa + lista studni/cystern dla wszystkich wsi z ksiegi wsi (kolejnosc jawna, rada lenna)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

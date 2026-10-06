@@ -8923,6 +8923,18 @@
    "opoznienie": 2,
    "ostatnio_odebrane": "300-06-21",
    "zrodlo": "rozkaz pana 300-06-19"
+  },
+  {
+   "id": "RAPORT_WILLI",
+   "co": "RAPORT WILLI DLA PANA (wola pana 300-06-30) - DWIE KARTY: (A) SWIAT - Siedem Krolestw i Essos, region po regionie, TRZY KOLUMNY: liczby (ceny, kredyt, ruch statkow, ksiegi placowek) · jawne (co sie mowi, oglaszane, poselstwa) · siatka (litera i liczba, BEZ IMION - pan nie chce znac imion, 300-02-25); kazda pozycja z DATA ZRODLA (ile dni stara); BIALE PLAMY wypisane co miesiac wprost (bez kanalu nie ma wiadomosci - zasada 34). (B) POLNOC - co slychac na targach, traktach, w portach i przy placowkach Domu (Maega, filie, trakt, Bialy Port); NIE sale lordow (to Ucho Korony - krzeslo puste). POZA KOLEJKA: co ma DATE albo LICZBE LUDZI POD BRONIA idzie od razu, bez czekania na pierwszego (wzor Berona 300-02-27). Kwartalny przeglad wlasnych liczb Willi - osobno, bez zmian.",
+   "kto": "WILLA",
+   "kanal": "kruk Fosa-Winterfell, pieczec domowa, szyfr Harrola",
+   "rytm": {
+    "dzien_miesiaca": 1
+   },
+   "opoznienie": 2,
+   "ostatnio_odebrane": "300-07-01",
+   "zrodlo": "dziennik 300-06-30 (izba Willi); pierwszy raport pisany 300-08-01"
   }
  ]
 }

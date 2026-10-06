@@ -7915,10 +7915,10 @@
   },
   {
    "data": "300-06-20",
-   "co": "PRZEMYT - BIALY PORT CZYTA TE SAME PIECZECIE (zgoda pana 06-20): list Namiestnika do lorda Wymana (jedna brama w BP stoi na jego slowie - 'liczyc tak, pobierac nie' 04-26): komora BP sprawdza pieczec na liscie przewozowym ladunkow z Przesmyku. Wola Wymana - RZUT przy odpowiedzi.",
+   "co": "PRZEMYT - BIALY PORT CZYTA TE SAME PIECZECIE (zgoda pana 06-20): list Namiestnika do lorda Wymana (jedna brama w BP stoi na jego slowie - 'liczyc tak, pobierac nie' 04-26): komora BP sprawdza pieczec na liscie przewozowym ladunkow z Przesmyku. Wola Wymana - RZUT przy odpowiedzi. ### 06-24: LIST WYSLANY (pieczec Namiestnika), kruk Fosa-Bialy Port (2 dni) - u Wymana ~06-26; odpowiedz krukiem ~06-30 (E: Wyman radzi sie swojej komory). Tresc: komora BP sprawdza pieczec komory Fosy na liscie przewozowym kazdego ladunku z Przesmyku; ladunek bez pieczeci - wpis 'znaleziony' i zatrzymanie do wyjasnienia; pobor bez zmian ('liczyc tak, pobierac nie', 04-26); odpis edyktu lenna i prawa zywnosci do wiadomosci.",
    "kto": "SYMON -> WYMAN",
-   "kanal": "na miejscu / poczta",
-   "wraca": "300-07-05",
+   "kanal": "kruk Fosa-Bialy Port (06-24) + kruk zwrotny",
+   "wraca": "300-06-30",
    "zamyka": "odpowiedz Wymana (rzut)",
    "status": "otwarte"
   },

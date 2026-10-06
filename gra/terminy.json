@@ -8787,7 +8787,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-01",
    "zamyka": "lekcja odbyta, slowo pana powiedziane",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: SLOWO PANA POWIEDZIANE pod brama, przed sniadaniem, dzieciom z przedmiescia (~20, E); lekcja poprowadzona przez Mabel i dwoch uczacych w izbach I i II; frekwencja dnia drugiego - rzut przy meldunku Mabel (pierwszy raport tygodniowy do Winterfell)."
   },
   {
    "data": "300-06-30",
@@ -8832,6 +8832,15 @@
    "kanal": "siatka Willi przez Braavos -> raport Willi (Winterfell)",
    "wraca": "300-08-15",
    "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-01",
+   "co": "SZKOLA FOSY - DRUGI DZIEN (07-02) I PIERWSZY TYDZIEN: ile dzieci wraca (Mabel: 'jak przyjda drugiego dnia, to zostana'). RZUT przy pierwszym raporcie Mabel (rodziny przedmiescia i wsi - wola obca). Pierwszy raport tygodniowy krukiem do Winterfell.",
+   "kto": "MABEL SIWA",
+   "kanal": "kruk Fosa-Winterfell (raport co tydzien)",
+   "wraca": "300-07-09",
+   "zamyka": "pierwszy raport Mabel z liczba dzieci",
    "status": "otwarte"
   }
  ],

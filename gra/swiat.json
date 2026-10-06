@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 29,
+  "dzien": 30,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 9 (300-06-29) - JEDNA KONSEKWENCJA: deszcz z wiatrem od morza do poludnia; kanaly wzburzone - lodz do gaju dopiero po poludniu, jesli przestanie.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 19 (300-06-30) - JEDNA KONSEKWENCJA: gesta mgla na bagnie do poludnia; lodzie stoja do poludnia.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -268,12 +268,12 @@
   },
   {
    "data": "koniec VI/300",
-   "co": "DRUGA RATYFIKACJA traktatu z Dorzeczem; zakaz zaliczek przed ratyfikacja",
+   "co": "DRUGA RATYFIKACJA traktatu z Dorzeczem; zakaz zaliczek przed ratyfikacja ### 300-06-30: NIE PRZYSZLO I WIADOMO DLACZEGO: ratyfikacja w Riverrun koniec VI; kruk Riverrun-Winterfell, pan od 07-02 w drodze - wiesc czeka w Winterfell (~07-08). RZUT wykonany dzis: 76 (prog 45) - wynik wchodzi z wiescia.",
    "kto": "Catelyn / Lucan",
    "zamyka": "ratyfikacja",
    "status": "otwarte",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-06-30"
+   "wraca": "300-07-08"
   },
   {
    "data": "bez daty - CISZA",
@@ -5071,10 +5071,10 @@
   },
   {
    "data": "300-05-10",
-   "co": "ODNOGA DROGI DO MOSTU BLIZNIAKOW - odpowiedz Symona dla Waldera przez ser Perwyna: PO RATYFIKACJI (koniec VI/300), NA PISMIE. Do tego czasu tylko pomiar. Pismo dla Blizniakow - po ratyfikacji Edmure'a.",
+   "co": "ODNOGA DROGI DO MOSTU BLIZNIAKOW - odpowiedz Symona dla Waldera przez ser Perwyna: PO RATYFIKACJI (koniec VI/300), NA PISMIE. Do tego czasu tylko pomiar. Pismo dla Blizniakow - po ratyfikacji Edmure'a. ### 300-06-30: pismo dla Waldera PO RATYFIKACJI - wiesc o ratyfikacji w Winterfell ~07-08; pan pisze stamtad (kruk Winterfell-Blizniaki).",
    "kto": "SYMON -> WALDER FREY (przez Perwyna)",
    "kanal": "kruk Winterfell-Blizniaki",
-   "wraca": "300-06-30",
+   "wraca": "300-07-08",
    "zamyka": "pismo o odnodze po ratyfikacji",
    "status": "otwarte"
   },
@@ -6088,10 +6088,10 @@
   },
   {
    "data": "300-05-24",
-   "co": "REZERWA - SPIS KAMIENNEGO BRZEGU (VI): imiennie, wies po wsi (imie / wies / co umie / gdzie bron); wlocznia i luk w chacie; tarcza do strzelania przy wsi. Ulric + Corwin + Brann.",
+   "co": "REZERWA - SPIS KAMIENNEGO BRZEGU (VI): imiennie, wies po wsi (imie / wies / co umie / gdzie bron); wlocznia i luk w chacie; tarcza do strzelania przy wsi. Ulric + Corwin + Brann. ### 300-06-30: jezdziec z Dustinportu nastepny ~07-03 - Garrick przesle do Winterfell; odczyt ~07-08.",
    "kto": "ULRIC + CORWIN (+ BRANN MOKRY)",
    "kanal": "przez Dustinport + kruk z Fosy",
-   "wraca": "300-06-30",
+   "wraca": "300-07-08",
    "zamyka": "spis imienny Kamiennego Brzegu",
    "status": "otwarte"
   },
@@ -6385,12 +6385,12 @@
   },
   {
    "data": "300-05-26",
-   "co": "AKT ZLAMANIA UGODY 299-04-20 (Lannisterowie nie wycofali sie z Dorzecza) - JEDNO PISMO pod pieczecia Krola, z PELNA LISTA garnizonow i data, do Krolewskiej Przystani. Po liscie Edmure'a (~06-26). ⚠ MAIDENPOOL = HARRION KARSTARK - najpierw rozstrzygniecie z Karstarkiem, potem pismo o Maidenpool (Krol; kolejnosc Sansy). ### 05-26: BEZ STANNISA (nie jest strona ugody - slowo pana). SWIADKOWIE: Edmure (Trident, pan Mootona) i DORNE (autonomia na tym samym papierze). W AKCIE - garnizon i JENIEC w Maidenpool jako jedno zlamanie (wyjscie + wydanie Harriona) - tylko za zgoda Rickarda Karstarka w twarz. ### 05-26 (rzut 72): ADRESACI - LANNISTEROWIE (KP), DORNE, REACH (Olenna), ZELAZNY BANK (Braavos) + odpis Edmure; JEDEN TEKST, jedna data; do Banku kanalem Korony (maester Bialego Portu -> Braavos), NIE przez Dom Tally; Harrion tylko za zgoda Rickarda. ### 05-26 (slowo pana, Krol przyjmuje): RICKARDA NIE PYTAMY - MOWIMY. Akt obejmuje garnizony i JENCA w Maidenpool bez pytania o zgode; Rickard dostaje list Krola (reka Krola) kilka dni PRZED aktem: co, kiedy, do kogo - ryzyko bierze Krol. ### 05-26 (slowo pana): W AKCIE - WSZYSCY WIEZNIOWIE z listy 271 (pokwitowanej przez KP 03-27), Harrion jako jeden z nich; WYMIANA DWUSTRONNA - Korona oddaje swoich jencow (rejestr Cerwyna). ### 05-26: rownolegle EDMURE pisze do swoich wasali z garnizonami Lannisterow (ten sam tekst, zapowiedz odpisow) - prosba w drugim liscie Krola ~06-10. ### 300-06-28: dzien aktu; lista Edmure'a NIEPELNA (rzut 24, Zielone Widly). Co Krol zrobil (wyslal z lista niepelna albo wstrzymal) - kruk Winterfell-Fosa ~06-30; RZUT na decyzje Krola przy wiesci.",
+   "co": "AKT ZLAMANIA UGODY 299-04-20 (Lannisterowie nie wycofali sie z Dorzecza) - JEDNO PISMO pod pieczecia Krola, z PELNA LISTA garnizonow i data, do Krolewskiej Przystani. Po liscie Edmure'a (~06-26). ⚠ MAIDENPOOL = HARRION KARSTARK - najpierw rozstrzygniecie z Karstarkiem, potem pismo o Maidenpool (Krol; kolejnosc Sansy). ### 05-26: BEZ STANNISA (nie jest strona ugody - slowo pana). SWIADKOWIE: Edmure (Trident, pan Mootona) i DORNE (autonomia na tym samym papierze). W AKCIE - garnizon i JENIEC w Maidenpool jako jedno zlamanie (wyjscie + wydanie Harriona) - tylko za zgoda Rickarda Karstarka w twarz. ### 05-26 (rzut 72): ADRESACI - LANNISTEROWIE (KP), DORNE, REACH (Olenna), ZELAZNY BANK (Braavos) + odpis Edmure; JEDEN TEKST, jedna data; do Banku kanalem Korony (maester Bialego Portu -> Braavos), NIE przez Dom Tally; Harrion tylko za zgoda Rickarda. ### 05-26 (slowo pana, Krol przyjmuje): RICKARDA NIE PYTAMY - MOWIMY. Akt obejmuje garnizony i JENCA w Maidenpool bez pytania o zgode; Rickard dostaje list Krola (reka Krola) kilka dni PRZED aktem: co, kiedy, do kogo - ryzyko bierze Krol. ### 05-26 (slowo pana): W AKCIE - WSZYSCY WIEZNIOWIE z listy 271 (pokwitowanej przez KP 03-27), Harrion jako jeden z nich; WYMIANA DWUSTRONNA - Korona oddaje swoich jencow (rejestr Cerwyna). ### 05-26: rownolegle EDMURE pisze do swoich wasali z garnizonami Lannisterow (ten sam tekst, zapowiedz odpisow) - prosba w drugim liscie Krola ~06-10. ### 300-06-28: dzien aktu; lista Edmure'a NIEPELNA (rzut 24, Zielone Widly). Co Krol zrobil (wyslal z lista niepelna albo wstrzymal) - kruk Winterfell-Fosa ~06-30; RZUT na decyzje Krola przy wiesci. ### 300-06-30: kruk z Winterfell (rano). KROL - RZUT 91: AKT WYSLANY 06-28 pod pieczecia Krola do KP, Dorne, Wysogrodu i Banku (przez maestra BP), odpis Edmure: lista z Tridentu (Maidenpool jako garnizon, Darry, Brod Rubinowy) + zdanie 'oraz inne, ktorych lista zostanie dolaczona' (Zielone Widly); HARRION - BEZ WZMIANKI, do rozmowy z Karstarkiem w twarz (kolejnosc Sansy). Krol dopisal od siebie list do Waldera przez Perwyna: niech przepusci zwiadowcow Edmure'a - 'Most nalezy do Freya, prawda do wszystkich'.",
    "kto": "KROL + SYMON (Tobin - tekst)",
    "kanal": "kruki Korony: Krolewska Przystan, Slonecznia, Wysogrod, Braavos (przez maestra Bialego Portu); odpis Riverrun",
    "wraca": "300-06-30",
    "zamyka": "pismo wyslane (albo swiadomie odlozone z powodu Maidenpool)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-30 - AKT WYSLANY (RZUT 91)"
   },
   {
    "data": "300-05-26",
@@ -7348,12 +7348,12 @@
   },
   {
    "data": "300-06-18",
-   "co": "PRZEPUST POD GROBLA DLA OLSZYN - BUDOWA (Garrick; miejsce wskazuje wojt Tommen Kladka); przed sianokosami. Wlasni - bez rzutu.",
+   "co": "PRZEPUST POD GROBLA DLA OLSZYN - BUDOWA (Garrick; miejsce wskazuje wojt Tommen Kladka); przed sianokosami. Wlasni - bez rzutu. ### 300-06-30: Garrick (zbiorczy): przepust stoi przed sianokosami, woda z Olszyn odchodzi pod grobla; wojt Tommen Kladka odebral.",
    "kto": "GARRICK",
    "kanal": "meldunek zbiorczy Garricka",
    "wraca": "300-06-30",
    "zamyka": "przepust stoi, woda schodzi",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-30 - PRZEPUST STOI"
   },
   {
    "data": "300-06-18",
@@ -7915,12 +7915,12 @@
   },
   {
    "data": "300-06-20",
-   "co": "PRZEMYT - BIALY PORT CZYTA TE SAME PIECZECIE (zgoda pana 06-20): list Namiestnika do lorda Wymana (jedna brama w BP stoi na jego slowie - 'liczyc tak, pobierac nie' 04-26): komora BP sprawdza pieczec na liscie przewozowym ladunkow z Przesmyku. Wola Wymana - RZUT przy odpowiedzi. ### 06-24: LIST WYSLANY (pieczec Namiestnika), kruk Fosa-Bialy Port (2 dni) - u Wymana ~06-26; odpowiedz krukiem ~06-30 (E: Wyman radzi sie swojej komory). Tresc: komora BP sprawdza pieczec komory Fosy na liscie przewozowym kazdego ladunku z Przesmyku; ladunek bez pieczeci - wpis 'znaleziony' i zatrzymanie do wyjasnienia; pobor bez zmian ('liczyc tak, pobierac nie', 04-26); odpis edyktu lenna i prawa zywnosci do wiadomosci.",
+   "co": "PRZEMYT - BIALY PORT CZYTA TE SAME PIECZECIE (zgoda pana 06-20): list Namiestnika do lorda Wymana (jedna brama w BP stoi na jego slowie - 'liczyc tak, pobierac nie' 04-26): komora BP sprawdza pieczec na liscie przewozowym ladunkow z Przesmyku. Wola Wymana - RZUT przy odpowiedzi. ### 06-24: LIST WYSLANY (pieczec Namiestnika), kruk Fosa-Bialy Port (2 dni) - u Wymana ~06-26; odpowiedz krukiem ~06-30 (E: Wyman radzi sie swojej komory). Tresc: komora BP sprawdza pieczec komory Fosy na liscie przewozowym kazdego ladunku z Przesmyku; ladunek bez pieczeci - wpis 'znaleziony' i zatrzymanie do wyjasnienia; pobor bez zmian ('liczyc tak, pobierac nie', 04-26); odpis edyktu lenna i prawa zywnosci do wiadomosci. ### 300-06-30: kruk z Bialego Portu. WYMAN - RZUT 63: ZGODA. Komora BP od 07-01 sprawdza pieczec komory Fosy na listach ladunkow z Przesmyku; bez pieczeci - 'znaleziony' i zatrzymanie; pobor bez zmian. Wyman w zamian (rzecz rozsadna): Fosa czyta pieczec komory BP na ladunkach idacych przewloka i przez Przesmyk w druga strone. 'Jedna brama ma dwa skrzydla.'",
    "kto": "SYMON -> WYMAN",
    "kanal": "kruk Fosa-Bialy Port (06-24) + kruk zwrotny",
    "wraca": "300-06-30",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-30 - ZGODA WYMANA (RZUT 63)"
   },
   {
    "data": "300-06-20",
@@ -8071,12 +8071,12 @@
   },
   {
    "data": "300-06-21",
-   "co": "KARB NA BUDOWACH LENNA (pomysl ARYI STARK 06-21, wdrozenie - rozkaz pana): kij leszczynowy z nacieciem za kazdy przepracowany dzien, przelamany wzdluz - polowa u robotnika, polowa u pisarza wyplat; przy wyplacie przy wadze sklada sie obie polowy (dla nieczytajacych i nieliczacych; obok rejestru Melli, nie zamiast). Kije - ciesla lenna; pietno brygady na kiju. Start: pierwsza wyplata po zrobieniu kijow (E ~06-29). ZASADA 8: nadzorcy beda krzywo patrzec - to jest wlasnie sens. Wlasni - bez rzutu. ### 06-28: pierwsza wyplata przeniesiona na PONIEDZIALEK 06-30 (niedziela) - zgoda pana.",
+   "co": "KARB NA BUDOWACH LENNA (pomysl ARYI STARK 06-21, wdrozenie - rozkaz pana): kij leszczynowy z nacieciem za kazdy przepracowany dzien, przelamany wzdluz - polowa u robotnika, polowa u pisarza wyplat; przy wyplacie przy wadze sklada sie obie polowy (dla nieczytajacych i nieliczacych; obok rejestru Melli, nie zamiast). Kije - ciesla lenna; pietno brygady na kiju. Start: pierwsza wyplata po zrobieniu kijow (E ~06-29). ZASADA 8: nadzorcy beda krzywo patrzec - to jest wlasnie sens. Wlasni - bez rzutu. ### 06-28: pierwsza wyplata przeniesiona na PONIEDZIALEK 06-30 (niedziela) - zgoda pana. ### 300-06-30: PIERWSZA WYPLATA NA KARB rano przy wadze - Mella przy liscie, Garrick przy skrzyni, ciesla z zapasem kijow; ludzie skladaja polowki, naciecia sie zgadzaja; jeden nadzorca brygady grobli kreci nosem (zasada 8 - tak ma byc).",
    "kto": "GARRICK + MELLA (+ ciesla)",
    "kanal": "na miejscu",
    "wraca": "300-06-30",
    "zamyka": "pierwsza wyplata na karb",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-30 - KARB DZIALA"
   },
   {
    "data": "300-06-21",
@@ -8584,12 +8584,12 @@
   },
   {
    "data": "300-06-27",
-   "co": "AKT ZLAMANIA UGODY - LISTA EDMURE'A NIEPELNA (rzut 24): Zielone Widly bez zwiadu (Freyowie nie przepuscili). Krol decyduje: akt z lista niepelna ('i inne, ktorych lista zostanie dolaczona') albo wstrzymac do zwiadu; ewentualnie pismo do Waldera o przepuszczenie zwiadowcow (przez Perwyna). Pan uslyszy w Winterfell / krukiem.",
+   "co": "AKT ZLAMANIA UGODY - LISTA EDMURE'A NIEPELNA (rzut 24): Zielone Widly bez zwiadu (Freyowie nie przepuscili). Krol decyduje: akt z lista niepelna ('i inne, ktorych lista zostanie dolaczona') albo wstrzymac do zwiadu; ewentualnie pismo do Waldera o przepuszczenie zwiadowcow (przez Perwyna). Pan uslyszy w Winterfell / krukiem. ### 300-06-30: rozstrzygniete przez Krola (rzut 91) - akt z lista niepelna + dopisek; list do Waldera o zwiadowcow.",
    "kto": "KROL (prerogatywa); TOBIN",
    "kanal": "Winterfell",
    "wraca": "300-07-08",
    "zamyka": "decyzja Krola o akcie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-30 - AKT WYSLANY Z DOPISKIEM"
   },
   {
    "data": "300-06-27",
@@ -8607,7 +8607,7 @@
    "kanal": "na miejscu",
    "wraca": "300-06-30",
    "zamyka": "pierwsza wyplata na karb",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-30 - WYPLATA ODBYTA"
   },
   {
    "data": "300-06-28",
@@ -8620,10 +8620,10 @@
   },
   {
    "data": "300-06-28",
-   "co": "WYSPA TWARZY - DRUGI CZLOWIEK Z FOSY Z PYTANIEM 4 (rozkaz pana 06-28): 'JAK ODNOWIC PAKT?' - jedno pytanie (rada Reeda). Kryteria jak przy Edricu (05-13): wierzy w starych bogow, umie lodz i wode, malomowny; najlepiej z matka z bagien. WYBIERA GARRICK z WARRYNEM i KESSELEM (zasada 42) - imie do 06-30. Przykrywka: drugi pisarz zbioru o Dzieciach i Pakcie; bez zelaza na brzegu, nic nie ciac, zostawic cos w zamian; plynie OSOBNO od Edrica (inny dzien, inna lodz). Droga: przez Przesmyk do Lucana/zastepcy (~10 dni), lodz na Oku Boga. RZUT PRZY PRZYBICIU (osobna sprawa). Zasada 8 (Jojen): 'wyspa sama wybiera' - dwie lodzie moga wygladac jak wolanie, nie jak przyplyniecie.",
-   "kto": "GARRICK + WARRYN + KESSEL -> czlowiek -> LUCAN (zastepca)",
+   "co": "WYSPA TWARZY - DRUGI CZLOWIEK Z FOSY Z PYTANIEM 4 (rozkaz pana 06-28): 'JAK ODNOWIC PAKT?' - jedno pytanie (rada Reeda). Kryteria jak przy Edricu (05-13): wierzy w starych bogow, umie lodz i wode, malomowny; najlepiej z matka z bagien. WYBIERA GARRICK z WARRYNEM i KESSELEM (zasada 42) - imie do 06-30. Przykrywka: drugi pisarz zbioru o Dzieciach i Pakcie; bez zelaza na brzegu, nic nie ciac, zostawic cos w zamian; plynie OSOBNO od Edrica (inny dzien, inna lodz). Droga: przez Przesmyk do Lucana/zastepcy (~10 dni), lodz na Oku Boga. RZUT PRZY PRZYBICIU (osobna sprawa). Zasada 8 (Jojen): 'wyspa sama wybiera' - dwie lodzie moga wygladac jak wolanie, nie jak przyplyniecie. ### 300-06-30: WYBRANY (Kessel z Garrickiem i Warrynem): TAM KEPA (~30, z Jastrzebi; matka z krannogow, ojciec flisak; 'spiewa do drzew, jak mysli, ze nikt nie slyszy'; malomowny, lodz i woda od dziecka). POGODA (rzut 19 - jedna konsekwencja): gesta mgla na bagnie do poludnia - wyrusza JUTRO o swicie przez Przesmyk; u Lucana/zastepcy ~07-11; rzut przy przybiciu.",
+   "kto": "TAM KEPA -> LUCAN (zastepca)",
    "kanal": "jezdziec/czlowiek przez Przesmyk + lodz na Oku Boga",
-   "wraca": "300-06-30",
+   "wraca": "300-07-20",
    "zamyka": "czlowiek wybrany imiennie i w drodze",
    "status": "otwarte"
   },
@@ -8776,7 +8776,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-06-21",
+   "ostatnio_odebrane": "300-06-28",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

@@ -8323,7 +8323,7 @@
   },
   {
    "data": "300-06-23",
-   "co": "EDYKT SPRAWIEDLIWOSCI KANALOWEJ I PORTOWEJ (wola pana 06-23, wersja dopasowana do swiata): gra/edykt_sprawiedliwosci_kanalowej_300_06.md. Ogloszenie 06-24 (slupy, herold przy wadze, po nabozenstwie, krannogowie przez poslanca) RAZEM z prawem wody; OBOWIAZUJE OD 07-01. Do wykonania przed 07-01: (1) SAD WAGI - delegat sadu grodzkiego dla Goracego Portu + dwaj lawnicy (lawa/Bractwo) - Roderyk z Herwinem; (2) POMARANCZOWE BANDERY I LATARNIE - wzor i wydawanie (komora - Rorik; kancelaria - tabliczki+bandery dla lodzi lenna) - plotno przez atelier Miry; (3) TABLICA KAUCJI sadu wagi (Roderyk); (4) INSPEKTORZY CZYSTEGO KANALU - pierwszych dwoch wskazuje pan z Roderykiem (imiona tylko u nich); premia roczna - kwota Warryn; (5) TABLICE MOSIEZNE - Goracy Port (komora) i sluza mlyna w Cailin - rytownik Marr, koszt Warryn (ponad 50 smokow - pieczec pana jest). Wlasni - bez rzutu.",
+   "co": "EDYKT SPRAWIEDLIWOSCI KANALOWEJ I PORTOWEJ (wola pana 06-23, wersja dopasowana do swiata): gra/edykt_sprawiedliwosci_kanalowej_300_06.md. Ogloszenie 06-24 (slupy, herold przy wadze, po nabozenstwie, krannogowie przez poslanca) RAZEM z prawem wody; OBOWIAZUJE OD 07-01. Do wykonania przed 07-01: (1) SAD WAGI - delegat sadu grodzkiego dla Goracego Portu + dwaj lawnicy (lawa/Bractwo) - Roderyk z Herwinem; (2) POMARANCZOWE BANDERY I LATARNIE - wzor i wydawanie (komora - Rorik; kancelaria - tabliczki+bandery dla lodzi lenna) - plotno przez atelier Miry; (3) TABLICA KAUCJI sadu wagi (Roderyk); (4) INSPEKTORZY CZYSTEGO KANALU - pierwszych dwoch wskazuje pan z Roderykiem (imiona tylko u nich); premia roczna - kwota Warryn; (5) TABLICE MOSIEZNE - Goracy Port (komora) i sluza mlyna w Cailin - rytownik Marr, koszt Warryn (ponad 50 smokow - pieczec pana jest). Wlasni - bez rzutu. ### 06-28 RADA: SAD WAGI - delegat sadu grodzkiego do Goracego Portu: OSWELL TRZCINA (~50, lawnik Cailin, kupiec trzcina, czyta) - wskazal Roderyk; lawnicy: po dwoch z lawy i z Bractwa, losowani co miesiac (Herwin). BANDERY: wzor Rorika (pomaranczowa welna, podwojny brzeg, plotno na pieczec - probki Orsy), pierwsze 40 do 07-01 szyje Orsa w izbie Miry na Fosie (dom pod szwalnie - Mira szuka); LATARNIE pomaranczowe - kowal, 10 do 07-15.",
    "kto": "RODERYK + RORIK + KESSEL + WARRYN + HERWIN",
    "kanal": "na miejscu; slupy",
    "wraca": "300-07-01",
@@ -8332,7 +8332,7 @@
   },
   {
    "data": "300-06-23",
-   "co": "PRAWO O KONTROLI I PRZEMYCIE ZYWNOSCI (wola pana 06-23, wariant a - kontrola BEZ OPLATY, przywoz wolny, bez dziesieciny): gra/prawo_zywnosci_fosy_300_06.md. Ogloszenie 06-24 z prawem wody i edyktem; od 07-01. Do wykonania: (1) KONTROLER SPICHLERZA - wskazuje Warryn (zasada 42); (2) punkt kontrolny przy bramie na grobli + przy komorze GP/barki na Goraczce; (3) miejsce spalania zepsutej zywnosci (poza miastem, nad woda - zasada ognia); (4) Nina - glos w sprawie zepsucia; (5) odpis do Orlanda (zboze Korony - kontrola bez oplaty). Sprawy - Sad Wagi (2 godziny dla zywnosci). Wlasni - bez rzutu.",
+   "co": "PRAWO O KONTROLI I PRZEMYCIE ZYWNOSCI (wola pana 06-23, wariant a - kontrola BEZ OPLATY, przywoz wolny, bez dziesieciny): gra/prawo_zywnosci_fosy_300_06.md. Ogloszenie 06-24 z prawem wody i edyktem; od 07-01. Do wykonania: (1) KONTROLER SPICHLERZA - wskazuje Warryn (zasada 42); (2) punkt kontrolny przy bramie na grobli + przy komorze GP/barki na Goraczce; (3) miejsce spalania zepsutej zywnosci (poza miastem, nad woda - zasada ognia); (4) Nina - glos w sprawie zepsucia; (5) odpis do Orlanda (zboze Korony - kontrola bez oplaty). Sprawy - Sad Wagi (2 godziny dla zywnosci). Wlasni - bez rzutu. ### 06-28 RADA: KONTROLER SPICHLERZA - DENNET MIARKA (~35, wagowy przy spichlerzu pod brama; czyta, liczy) - wskazal Warryn; punkt kontrolny przy bramie na grobli; spalanie zepsutego - na kamieniu za kanalem.",
    "kto": "WARRYN + RODERYK + HENDRY + RORIK",
    "kanal": "na miejscu; slupy",
    "wraca": "300-07-01",
@@ -8472,7 +8472,7 @@
    "kanal": "na miejscu",
    "wraca": "300-06-28",
    "zamyka": "przysiega zlozona",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 06-28 - PRZYSIEGA ZLOZONA PRZED RODERYKIEM NA RADZIE"
   },
   {
    "data": "300-06-26",
@@ -8593,11 +8593,20 @@
   },
   {
    "data": "300-06-27",
-   "co": "RADA LENNA 06-28 (sobota, pierwsza z SEKRETARZEM) - PORZADEK PRZYJETY PRZEZ PANA 06-27: (1) przysiega lesniczego Oda; (2) przed 07-01: Sad Wagi (delegat GP, lawnicy), bandery i latarnie (Rorik/Orsa), kontroler spichlerza (Warryn); (3) podzialy z etapow Cailin do wiadomosci (Werran, Kessel, kapitan portu - 2 kandydatow Garricka, wychodki - Herwin; male lecznice, izby Niny); (4) kolejnosc wydatkow i stan skarbca (liczby 07-05); (5) wyjazd pana 07-02 - lenno i pieczec przy kanclerzu Garricku, sprawy zastrzezone krukiem do pana; (6) sprawy z sali.",
+   "co": "RADA LENNA 06-28 (sobota, pierwsza z SEKRETARZEM) - PORZADEK PRZYJETY PRZEZ PANA 06-27: (1) przysiega lesniczego Oda; (2) przed 07-01: Sad Wagi (delegat GP, lawnicy), bandery i latarnie (Rorik/Orsa), kontroler spichlerza (Warryn); (3) podzialy z etapow Cailin do wiadomosci (Werran, Kessel, kapitan portu - 2 kandydatow Garricka, wychodki - Herwin; male lecznice, izby Niny); (4) kolejnosc wydatkow i stan skarbca (liczby 07-05); (5) wyjazd pana 07-02 - lenno i pieczec przy kanclerzu Garricku, sprawy zastrzezone krukiem do pana; (6) sprawy z sali. ### 06-28: RADA ODBYTA (protokol: Alyn Skrobek) - czeka na slowo pana w 2 sprawach: KAPITAN PORTU (Garrick - dwoch kandydatow) i KARB (Warryn - przeniesienie na 06-30).",
    "kto": "SYMON + RADA LENNA (Garrick, Warryn, Hendry, Roderyk; sekretarz)",
    "kanal": "na miejscu",
    "wraca": "300-06-28",
    "zamyka": "rada odbyta, protokol sekretarza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-28",
+   "co": "KARB - PIERWSZA WYPLATA PRZENIESIONA z niedzieli 06-29 na PONIEDZIALEK 06-30 rano przy wadze (sprawa z sali, Warryn; pan - zgoda/odmowa).",
+   "kto": "GARRICK + MELLA",
+   "kanal": "na miejscu",
+   "wraca": "300-06-30",
+   "zamyka": "pierwsza wyplata na karb",
    "status": "otwarte"
   }
  ],

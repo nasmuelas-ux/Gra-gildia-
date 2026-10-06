@@ -1003,13 +1003,13 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-04 rano · zima (300)
+- **Data:** 300-07-04 poludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 72 · Zmeczenie 0**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 6**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
-- **Wolne:** 46 smokow + 54 jeleni + 11 mied
+- **Wolne:** 45 smokow + 54 jeleni + 11 mied
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 300-03-01
 
 ## UMIEJETNOSCI
@@ -2109,7 +2109,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-03] `dziennik`: 300-07-03 RANEK (CZWARTEK), ZAJAZD PRZY TRAKCIE (dzien drogi na polnoc od Fosy). SEN RZUT 33: noc plytsza niz zwykle - kolo polnocy wilki za lasem odezwaly sie raz, dlugo, Lyra sie przebudzi…
 - [300-07-03] `dziennik`: SNIADANIE W ZAJEZDZIE ODGERA: placki z owsa na smalcu, jajka, kwasne mleko, chleb, miod; corka Odgera nosi. Arya schodzi ostatnia, z odciskiem lawy na policzku, je dwie porcje i nic nie mowi…
 - [300-07-03] `dziennik`: POLUDNIE, POSTOJ PRZY STRUMIENIU POD KAMIENNYM MOSTKIEM (Trakt Krolewski, ~poltora dnia na polnoc od Fosy). SYMON rozglada sie: czyja to ziemia? Bez rzutu (wiedza z drogi; TORVALD WULL - 'zn…
 - [300-07-03] `dziennik`: POPOLUDNIE -> WIECZOR, TRAKT KROLEWSKI NA POLNOC. SYMON: 'Jedziemy dalej' - postoj krotki; obiadu pan nie zarzadzil (Mira zwija chleb z powrotem do kosza; sytosc bez zmian 92). Bez rzutu (po…
@@ -2121,3 +2120,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-03] `dziennik`: WIECZOR, WRZOSOWA (cd.) - SYMON pyta GUNTHORA o dzieci i wnuki. Bez rzutu. RODZINA SOLTYSA (E, NPC drugiego planu): dwaj synowie - starszy BRAM (maz synowej HILDY, ktora prowadzi dom; dzis z…
 - [300-07-03] `dziennik`: POZNY WIECZOR - SYMON SPACERUJE PO WRZOSOWEJ (Sten i jeden przyboczny z tylu, bez widocznej warty). Bez rzutu. Zmeczenie 26->28. Co widac: kilkanascie chat z darni i kamienia wzdluz jednej d…
 - [300-07-04] `dziennik`: 300-07-04 RANEK (PIATEK), WRZOSOWA (wies soltysa Gunthora, Barrowlandy, przy Trakcie Krolewskim). SEN RZUT 94: noc znakomita - cisza, siennik pachnie wrzosem, Lyra przespala cala noc; zdrowi…
+- [300-07-04] `dziennik`: SNIADANIE U GUNTHORA (Wrzosowa): owsianka na mleku owczym, chleb owsiany, twarog, miod wrzosowy. Sytosc 72->92. Bez rzutu. ⚑ SYMON DAJE GUNTHOROWI 1 ZLOTEGO SMOKA z wlasnej sakiewki (46->45 …

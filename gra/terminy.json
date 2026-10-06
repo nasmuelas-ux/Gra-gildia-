@@ -3240,12 +3240,12 @@
   },
   {
    "data": "300-04-02",
-   "co": "SPOR: WDOWIA STRAZNICA / STARY ZAMEK - przerebla na zamarznietej zatoce. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Sugestia Namiestnika: linie wyznaczyc PALAMI, gdy lod zejdzie (lod nie trzyma kamienia). ### 06-20 (pan na Fosie): wyrok Cerwyna (po zejsciu lodu) - wiesc przez Winterfell i kruk do Fosy ~06-25 (zasada 34).",
+   "co": "SPOR: WDOWIA STRAZNICA / STARY ZAMEK - przerebla na zamarznietej zatoce. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Sugestia Namiestnika: linie wyznaczyc PALAMI, gdy lod zejdzie (lod nie trzyma kamienia). ### 06-20 (pan na Fosie): wyrok Cerwyna (po zejsciu lodu) - wiesc przez Winterfell i kruk do Fosy ~06-25 (zasada 34). ### 300-06-25: RZUT 100 (prog 45) - UGODA, nie wyrok. Cerwyn zebral obie strony na brzegu po zejsciu lodu; lady Lyessa i ludzie Starego Zamku (Locke) sami wskazali linie; PALE WBITE OD RAZU, latem, na plyciznie - 'zima lod przymarznie do pali i linie bedzie widac'; obie pieczecie pod ugoda, odpis u Cerwyna. Wiesc krukiem Winterfell-Fosa. Skutek uboczny: powod nieprzyjazdu Locke'a na uczte (spor o pale) znika.",
    "kto": "CERWYN (Justycjariusz) + LYESSA FLINT + STARY ZAMEK",
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-06-25",
    "zamyka": "ugoda albo wyrok; linia palami po odwilzy",
-   "status": "otwarte - 06-01 (rzut 26): mediacja nieudana; wyrok Cerwyna po zejsciu lodu, linia palami",
+   "status": "ZAMKNIETE 300-06-25 - UGODA (RZUT 100), PALE WBITE",
    "sprawdzaj_co": 30
   },
   {
@@ -4540,10 +4540,10 @@
   },
   {
    "data": "300-04-27",
-   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20. ### 06-20 (pan na Fosie): wiesc z Muru przez Winterfell do Fosy ~06-25.",
+   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20. ### 06-20 (pan na Fosie): wiesc z Muru przez Winterfell do Fosy ~06-25. ### 300-06-25: wiesc z Muru (Clydas przez Winterfell): HALLIS doszedl z kolumna Umbera 06-20; Jona na Murze nie ma - list oddal DACEY MORMONT do reki, bo poselstwo idzie do Mance'a, wsrod ktorego Jona widziano. Bez rzutu (decyzja wlasnego czlowieka). Dalej - z poselstwem.",
    "kto": "BRAN -> HALLIS -> JON",
-   "kanal": "Hallis na Mur (wyjazd 04-29)",
-   "wraca": "300-06-25",
+   "kanal": "poselstwo Dacey -> Mur -> Winterfell",
+   "wraca": "300-07-08",
    "zamyka": "list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem",
    "status": "otwarte"
   },
@@ -4729,12 +4729,12 @@
   },
   {
    "data": "300-04-30",
-   "co": "LIST KROLA DO PANOW SKAGOS: przypomnienie przysiegi zlozonej Starkom; wezwanie do odpowiedzi NA PISMIE DO WYZNACZONEGO DNIA (kto rzadzi, czy przysiega stoi); daniny liczone dzis wedle zdolnosci, jak na Radzie. BEZ grozby w liscie - co z cisza, postanowi Krol. ### 05-10: ODPOWIEDZ MOZE BYC USTNA - przez czlowieka lady Lyessy (zgoda Symona); maester Wdowiej Straznicy spisuje slowo w slowo z imieniem mowiacego. Lodz z Wdowiej Straznicy ~05-20. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): ODPOWIEDZ (rzut 8) - ustna, przez czlowieka lady Lyessy, spisana przez maestra Wdowiej Straznicy z imieniem mowiacego (czlowiek MAGNARA z Kingshouse): 'Przysiega stoi przy Starku, nie przy pergaminie. Niech Stark przyplynie sam.' Ani slowa o daninach. DECYZJA KROLA (prerogatywa, zasada 22) - Namiestnik przedklada przy powrocie / listem.",
+   "co": "LIST KROLA DO PANOW SKAGOS: przypomnienie przysiegi zlozonej Starkom; wezwanie do odpowiedzi NA PISMIE DO WYZNACZONEGO DNIA (kto rzadzi, czy przysiega stoi); daniny liczone dzis wedle zdolnosci, jak na Radzie. BEZ grozby w liscie - co z cisza, postanowi Krol. ### 05-10: ODPOWIEDZ MOZE BYC USTNA - przez czlowieka lady Lyessy (zgoda Symona); maester Wdowiej Straznicy spisuje slowo w slowo z imieniem mowiacego. Lodz z Wdowiej Straznicy ~05-20. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): ODPOWIEDZ (rzut 8) - ustna, przez czlowieka lady Lyessy, spisana przez maestra Wdowiej Straznicy z imieniem mowiacego (czlowiek MAGNARA z Kingshouse): 'Przysiega stoi przy Starku, nie przy pergaminie. Niech Stark przyplynie sam.' Ani slowa o daninach. DECYZJA KROLA (prerogatywa, zasada 22) - Namiestnik przedklada przy powrocie / listem. ### 300-06-25: odpowiedz przyszla 06-18 (rzut 8) - sprawa idzie terminem SKAGOS - ODPOWIEDZ (Krol ~07-08).",
    "kto": "KROL -> SKAGOS",
    "kanal": "LADY LYESSA FLINT - list do reki na uczcie 05-10; lodz z Wdowiej Straznicy po jej powrocie",
    "wraca": "300-06-25",
    "zamyka": "odpowiedz Skagos albo cisza do terminu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - ODPOWIEDZ OTRZYMANA 06-18; DALEJ U KROLA"
   },
   {
    "data": "300-04-30",
@@ -4981,10 +4981,10 @@
   },
   {
    "data": "300-05-09",
-   "co": "ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku. Tallhart: pierwszy statek i pierwszy miesiac; reszte liczy z maesterem do zniw ('22 tys. korcy/mies. to pol Polnocy'). Kontrakt pisze GAWEN (Kasa 3); wchodzi w zycie, gdy Mance da slowo. Ilosc i cena - po rachunku maestera i slupie (zasada 43). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): kontrakt Gawena gotowy w projekcie; wchodzi w zycie, gdy Mance da slowo - poselstwo Dacey ~06-20, wiesc ~06-25.",
+   "co": "ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku. Tallhart: pierwszy statek i pierwszy miesiac; reszte liczy z maesterem do zniw ('22 tys. korcy/mies. to pol Polnocy'). Kontrakt pisze GAWEN (Kasa 3); wchodzi w zycie, gdy Mance da slowo. Ilosc i cena - po rachunku maestera i slupie (zasada 43). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): kontrakt Gawena gotowy w projekcie; wchodzi w zycie, gdy Mance da slowo - poselstwo Dacey ~06-20, wiesc ~06-25. ### 300-06-25: kontrakt Gawena gotowy w projekcie, wchodzi w zycie, gdy Mance da slowo; poselstwo Dacey u Mance'a ~06-28, wiesc przez Mur do Winterfell - pan w Winterfell ~07-08.",
    "kto": "GAWEN + TALLHART",
-   "kanal": "Winterfell (uczta) -> kruk Winterfell-Torrhen's Square",
-   "wraca": "300-06-25",
+   "kanal": "Winterfell (pan na miejscu)",
+   "wraca": "300-07-08",
    "zamyka": "kontrakt na pismie z iloscia pierwszej dostawy",
    "status": "otwarte"
   },
@@ -6133,10 +6133,10 @@
   },
   {
    "data": "300-05-24",
-   "co": "KARTA MIASTA STARKPORTU - ODPIS DLA SIGRUN (pieczec Krola 05-24; ulga 5 lat; 30 dni skladu; gielda; zamtuzy na prawie miasta). Warunek Sigrun spelniony przed zima.",
+   "co": "KARTA MIASTA STARKPORTU - ODPIS DLA SIGRUN (pieczec Krola 05-24; ulga 5 lat; 30 dni skladu; gielda; zamtuzy na prawie miasta). Warunek Sigrun spelniony przed zima. ### 300-06-25: odpis szedl kruk -> Fosa -> jezdziec do Dustinportu -> lodz; potwierdzenie Sigrun wraca ta sama droga - z jezdzcem z Dustinportu 06-26 (razem z wiescia Maege).",
    "kto": "TOBIN -> SIGRUN",
    "kanal": "kruk Winterfell-Fosa (05-25) + jezdziec Fosa-Dustinport + lodz na Kamienny Brzeg",
-   "wraca": "300-06-25",
+   "wraca": "300-06-26",
    "zamyka": "odpis u Sigrun (potwierdzenie w karcie Starkportu)",
    "status": "otwarte - na Kamiennym Brzegu (E); potwierdzenie z karta Starkportu"
   },
@@ -6223,10 +6223,10 @@
   },
   {
    "data": "300-05-25",
-   "co": "WIEZA STRAZNICZA - URZADZENIE: II pietro szwalnia i biuro Miry (dlugi stol do krojenia, polki na sukna, pulpit do ksiag Fosy); III pietro mala biblioteka (polki, latarnia za szklem, bez otwartego ognia; okiennice od zachodu). Ciesla i stolarz zamkowi, oplata kasztelanowi z Kasy 1 (stawka z jego ksiegi). ### 05-25: PO WINDZIE (slowo pana) - szwalnia i biblioteka czekaja na ciesle; Mira kroi do tego czasu u krolowej.",
+   "co": "WIEZA STRAZNICZA - URZADZENIE: II pietro szwalnia i biuro Miry (dlugi stol do krojenia, polki na sukna, pulpit do ksiag Fosy); III pietro mala biblioteka (polki, latarnia za szklem, bez otwartego ognia; okiennice od zachodu). Ciesla i stolarz zamkowi, oplata kasztelanowi z Kasy 1 (stawka z jego ksiegi). ### 05-25: PO WINDZIE (slowo pana) - szwalnia i biblioteka czekaja na ciesle; Mira kroi do tego czasu u krolowej. ### 300-06-25: kasztelan (kruk): winda skonczona, ciesla i stolarz weszli na II pietro - stol do krojenia stoi, polki na sukna w robocie; biblioteka (III) po szwalni. Gotowe na powrot rodziny.",
    "kto": "CIESLA + STOLARZ ZAMKOWY (kasztelan)",
-   "kanal": "Winterfell",
-   "wraca": "300-06-25",
+   "kanal": "Winterfell (na miejscu)",
+   "wraca": "300-07-08",
    "zamyka": "stol w szwalni + polki w bibliotece",
    "status": "otwarte"
   },
@@ -6394,21 +6394,21 @@
   },
   {
    "data": "300-05-26",
-   "co": "LIST KROLA DO RICKARDA KARSTARKA (reka Krola): co Korona pisze w akcie zlamania ugody (garnizony + wydanie Harriona z Maidenpool), do kogo (Lannisterowie, Dorne, Reach, Zelazny Bank, odpis Edmure), kiedy; ryzyko bierze Krol. Nie prosba o zgode - zawiadomienie przed aktem. ### 05-26: akt zada wszystkich 271 z listy - Harrion wsrod nich. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
+   "co": "LIST KROLA DO RICKARDA KARSTARKA (reka Krola): co Korona pisze w akcie zlamania ugody (garnizony + wydanie Harriona z Maidenpool), do kogo (Lannisterowie, Dorne, Reach, Zelazny Bank, odpis Edmure), kiedy; ryzyko bierze Krol. Nie prosba o zgode - zawiadomienie przed aktem. ### 05-26: akt zada wszystkich 271 z listy - Harrion wsrod nich. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: kruk z Winterfell: Krol napisal wlasna reka i wyslal do Karholdu (E ~06-21) - zawiadomienie, nie prosba. Reakcja Karstarka - osobny termin.",
    "kto": "KROL -> RICKARD KARSTARK",
    "kanal": "kruk Winterfell-Karhold",
    "wraca": "300-06-25",
    "zamyka": "list wyslany kilka dni przed aktem (~06-28)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - LIST WYSLANY"
   },
   {
    "data": "300-05-26",
-   "co": "WYMIANA JENCOW - NASZA STRONA: rejestr Cerwyna (marzec) - ilu jencow Lannisterow trzyma Polnoc i Dorzecze, imiennie, gdzie; do aktu jako oferta wymiany dwustronnej. ### 06-20 (pan na Fosie): rejestr Cerwyna do Tobina w Winterfell - potwierdzenie krukiem do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
+   "co": "WYMIANA JENCOW - NASZA STRONA: rejestr Cerwyna (marzec) - ilu jencow Lannisterow trzyma Polnoc i Dorzecze, imiennie, gdzie; do aktu jako oferta wymiany dwustronnej. ### 06-20 (pan na Fosie): rejestr Cerwyna do Tobina w Winterfell - potwierdzenie krukiem do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: Tobin potwierdza: rejestr Cerwyna (imiennie, gdzie trzymani) w Winterfell, wpisany do aktu jako oferta wymiany dwustronnej.",
    "kto": "CERWYN (rejestr) -> TOBIN (do aktu)",
    "kanal": "Winterfell / kruk za Cerwynem",
    "wraca": "300-06-25",
    "zamyka": "lista naszych jencow do aktu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - REJESTR W AKCIE"
   },
   {
    "data": "300-05-26",
@@ -6466,12 +6466,12 @@
   },
   {
    "data": "300-05-26",
-   "co": "T2-A POMIAR FOSA -> GRANICA LENNA (dwutor) - mierniczy z tyczka od 06-05; przebieg, mosty, miejsca stacji mulow na pismie.",
+   "co": "T2-A POMIAR FOSA -> GRANICA LENNA (dwutor) - mierniczy z tyczka od 06-05; przebieg, mosty, miejsca stacji mulow na pismie. ### 300-06-25: MIERNICZY oddaje Garrickowi przebieg na pismie: trasa po suchym grzbiecie wzdluz traktu, mosty i przepusty wypisane imiennie (E: kilka na strumieniach), stacje mulow co dzien drogi. Odpis do Winterfell i do WYMANA (start T2-B, jego ekipy) - kruk dzis. Wlasny - bez rzutu.",
    "kto": "MIERNICZY FOSY (wskaze Garrick)",
    "kanal": "Fosa + kruk Fosa-Winterfell",
    "wraca": "300-06-25",
    "zamyka": "przebieg T2-A na pismie z lista mostow",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - PRZEBIEG NA PISMIE"
   },
   {
    "data": "300-05-26",
@@ -6493,12 +6493,12 @@
   },
   {
    "data": "300-05-26",
-   "co": "T3-M MOST KAMIENNY NA BIALYM NOZU przy Przystani Wilka - wycena i miejsce (po dachu baszty 06-14); platnicy wg udzialow przystani: Korona 1/2, Cerwyn 1/4, Manderly 1/4. ### 06-20 (pan na Fosie): Bors (Przystan Wilka) pisze przez Winterfell - kruk do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
+   "co": "T3-M MOST KAMIENNY NA BIALYM NOZU przy Przystani Wilka - wycena i miejsce (po dachu baszty 06-14); platnicy wg udzialow przystani: Korona 1/2, Cerwyn 1/4, Manderly 1/4. ### 06-20 (pan na Fosie): Bors (Przystan Wilka) pisze przez Winterfell - kruk do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: BORS (kruk przez Winterfell): miejsce - powyzej przystani, gdzie Bialy Noz zweza sie na skalnym dnie; wycena na pismie do Warryna (kwota w ksiedze, zasada 43). Udzialy platnikow (Korona 1/2, Cerwyn 1/4, Manderly 1/4) - do stolu Krola ~07-08.",
    "kto": "BORS (Przystan Wilka) + WARRYN",
    "kanal": "kruk Fosa-Winterfell",
    "wraca": "300-06-25",
    "zamyka": "wycena i miejsce mostu na pismie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - WYCENA I MIEJSCE NA PISMIE"
   },
   {
    "data": "300-05-26",
@@ -6592,10 +6592,10 @@
   },
   {
    "data": "300-05-26",
-   "co": "A-2 MIRA - IMIE MISTRZYNI ATELIER NA CAILIN ('nie powiem, poki nie bede pewna'). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): Mira na Fosie od dzis - imie mistrzyni powie sama, gdy bedzie pewna.",
+   "co": "A-2 MIRA - IMIE MISTRZYNI ATELIER NA CAILIN ('nie powiem, poki nie bede pewna'). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): Mira na Fosie od dzis - imie mistrzyni powie sama, gdy bedzie pewna. ### 300-06-25: Mira: 'w czwartek, jak mowilam' (06-24).",
    "kto": "MIRA",
-   "kanal": "Winterfell",
-   "wraca": "300-06-25",
+   "kanal": "osobiscie na Fosie",
+   "wraca": "300-06-26",
    "zamyka": "imie mistrzyni",
    "status": "otwarte"
   },
@@ -6934,12 +6934,12 @@
   },
   {
    "data": "300-06-03",
-   "co": "WPINY KROLA - 'STRAZNIK LANCUCHA OGNIA' (zelazo, plomien) i 'OBRONCA WYBRZEZA' (srebro, wilk nad fala): wzor Krol + Symon, wykuwa MIKKEN, koszt Gawen (Kasa 3). Pierwsza partia gotowa. Bez rzutu (ludzie zamku). ### 06-20 (pan na Fosie): wiesc od Mikkena/Gawena przez Luwina do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
+   "co": "WPINY KROLA - 'STRAZNIK LANCUCHA OGNIA' (zelazo, plomien) i 'OBRONCA WYBRZEZA' (srebro, wilk nad fala): wzor Krol + Symon, wykuwa MIKKEN, koszt Gawen (Kasa 3). Pierwsza partia gotowa. Bez rzutu (ludzie zamku). ### 06-20 (pan na Fosie): wiesc od Mikkena/Gawena przez Luwina do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: Gawen (kruk): pierwsza partia od Mikkena w skarbcu Korony, koszt w ksiedze Kasy 3.",
    "kto": "MIKKEN; GAWEN",
    "kanal": "Winterfell",
    "wraca": "300-06-25",
    "zamyka": "pierwsze wpiny w skarbcu Korony + koszt w ksiedze",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - PIERWSZA PARTIA W SKARBCU"
   },
   {
    "data": "300-06-03",
@@ -6979,7 +6979,7 @@
   },
   {
    "data": "300-06-05",
-   "co": "SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni). ### 06-08: Mira na Fosie ~06-17 (droga przez Barrowton). ### 06-18 (Fosa): Mira na Fosie od dzis (z panem) - zaczyna od izby pod pierwsza klase i listy dzieci od Ilaria.",
+   "co": "SZKOLA FOSY 300/40/20 - MIRA NA MIEJSCU z Garrickiem: izby, internat, lista nauczycieli z tego, co jest; lowcy talentow - pismo do septonow, Wystana, sedziow objazdowych, komor, Theomore'a, Borsa, Corwina. Bez rzutu (wlasni). ### 06-08: Mira na Fosie ~06-17 (droga przez Barrowton). ### 06-18 (Fosa): Mira na Fosie od dzis (z panem) - zaczyna od izby pod pierwsza klase i listy dzieci od Ilaria. ### 300-06-25: dzis obchod Miry z Garrickiem (izby, internat), wieczorem plan na stol pana.",
    "kto": "MIRA + GARRICK",
    "kanal": "osobiscie na Fosie (podroz przez Barrowton)",
    "wraca": "300-06-25",
@@ -7132,12 +7132,12 @@
   },
   {
    "data": "300-06-07",
-   "co": "HOWLAND REED - ZIELONI LUDZIE Z WYSPY TWARZY: czy moga pomoc Branowi i Polnocy; czego Reed sie tam nauczyl; czy mozna ich zapytac przez Edrica. List zamkniety Symona. RZUT przy odpowiedzi.",
+   "co": "HOWLAND REED - ZIELONI LUDZIE Z WYSPY TWARZY: czy moga pomoc Branowi i Polnocy; czego Reed sie tam nauczyl; czy mozna ich zapytac przez Edrica. List zamkniety Symona. RZUT przy odpowiedzi. ### 300-06-25: RZUT 90 (prog 50) - ODPOWIEDZ PRZYSZLA: poslaniec krannogow z Szarych Wod przy grobli o swicie (mija sie z naszym, ktory wyplywa z prawem wody), list zamkniety do rak pana. Tresc w dzienniku 06-25.",
    "kto": "SYMON -> HOWLAND REED",
    "kanal": "kruk Winterfell-Fosa + poslaniec przy grobli",
    "wraca": "300-06-25",
    "zamyka": "odpowiedz Reeda (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - ODPOWIEDZ REEDA (RZUT 90)"
   },
   {
    "data": "300-06-07",
@@ -7150,10 +7150,10 @@
   },
   {
    "data": "300-06-08",
-   "co": "KOSZARY PRZYBOCZNEJ W ZIMOWYM MIESCIE - duzy budynek przy faktorii Domu; kazdy przyboczny wlasna izba; rodziny moga zamieszkac. Kasa 1. Faktor + Hal: wybor budynku i wycena; potem przebudowa. Wlasni - bez rzutu.",
+   "co": "KOSZARY PRZYBOCZNEJ W ZIMOWYM MIESCIE - duzy budynek przy faktorii Domu; kazdy przyboczny wlasna izba; rodziny moga zamieszkac. Kasa 1. Faktor + Hal: wybor budynku i wycena; potem przebudowa. Wlasni - bez rzutu. ### 300-06-25: faktor Zimowego Miasta (kruk przez Luwina): budynek wskazany - dawny sklad welny przy faktorii, kamienny parter; wycena przebudowy u Hala (Kasa 1). Pan obejrzy na miejscu.",
    "kto": "SYMON -> FAKTOR ZIMOWEGO MIASTA + HAL",
-   "kanal": "kruk z drogi przez Winterfell (Luwin) / list z Barrow Hall",
-   "wraca": "300-06-25",
+   "kanal": "Winterfell (pan na miejscu) + Hal",
+   "wraca": "300-07-10",
    "zamyka": "budynek kupiony i wycena przebudowy",
    "status": "otwarte"
   },
@@ -7177,10 +7177,10 @@
   },
   {
    "data": "300-06-08",
-   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
+   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: kasztelan (kruk): PRZEGRODA w izbie strazy Wiezy postawiona. Zostaja: narzuty (Tessa, targ 06-26), urlop Gareda (VIII), Rowan do szkoly (07-01).",
    "kto": "STEN / DAGON / TESSA / KASZTELAN",
    "kanal": "osobiscie + kruk do kasztelana",
-   "wraca": "300-06-25",
+   "wraca": "300-07-01",
    "zamyka": "wszystkie cztery wykonane",
    "status": "otwarte"
   },
@@ -7213,12 +7213,12 @@
   },
   {
    "data": "300-06-09",
-   "co": "ZIARNO SIEWNE POLNOCNE - Orland: osobna kolumna siewnego; zrodla: zyto ozime, jeczmien i owies krotkiego sezonu (gory, polnoc Dorzecza), wymiana nasion ze spichrzy lordow; Rodwell - kto sprzedaje. Wlasni - bez rzutu.",
+   "co": "ZIARNO SIEWNE POLNOCNE - Orland: osobna kolumna siewnego; zrodla: zyto ozime, jeczmien i owies krotkiego sezonu (gory, polnoc Dorzecza), wymiana nasion ze spichrzy lordow; Rodwell - kto sprzedaje. Wlasni - bez rzutu. ### 300-06-25: Orland (kruk): kolumna siewnego w karcie Spichlerza; zrodla wpisane (wymiana nasion ze spichrzy lordow; zyto ozime i jeczmien krotkiego sezonu z gor; polnoc Dorzecza po ratyfikacji) - ilosci E. Rodwell szuka sprzedajacych.",
    "kto": "ORLAND + RODWELL (Krol, Gawen)",
    "kanal": "kruk Barrowton-Winterfell (06-12) + odpowiedz na Fose",
    "wraca": "300-06-25",
    "zamyka": "kolumna siewnego w karcie + zrodla i ilosci (E)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-25 - KOLUMNA SIEWNEGO W KARCIE"
   },
   {
    "data": "300-06-09",
@@ -7285,12 +7285,12 @@
   },
   {
    "data": "300-06-13",
-   "co": "KARTA OGNIA - WZAJEMNA ODSIECZ TALLY-DUSTIN (rzut 83): na ogien Barrowlandow - jazda Fosy (Hendry), setka Goracego Portu, eskadra od morza; na ogien Goracego Portu/Fosy - jezdni Barrowlandow (~100+, ser Harwood). Wpisac do karty ognia (Luwin) i do rozkazow Hendry'ego; sprawdzic widocznosc ognia Fosy/Goracego Portu ze Wzgorza albo przez cypel. ### 06-18 (Fosa): HENDRY dostal rozkaz osobiscie (jazda Fosy na ogien Barrowlandow; setka Goracego Portu; eskadra - przez Torrena); wpis do karty ognia - w liscie pana do Krola dzis (Luwin wpisuje). ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
+   "co": "KARTA OGNIA - WZAJEMNA ODSIECZ TALLY-DUSTIN (rzut 83): na ogien Barrowlandow - jazda Fosy (Hendry), setka Goracego Portu, eskadra od morza; na ogien Goracego Portu/Fosy - jezdni Barrowlandow (~100+, ser Harwood). Wpisac do karty ognia (Luwin) i do rozkazow Hendry'ego; sprawdzic widocznosc ognia Fosy/Goracego Portu ze Wzgorza albo przez cypel. ### 06-18 (Fosa): HENDRY dostal rozkaz osobiscie (jazda Fosy na ogien Barrowlandow; setka Goracego Portu; eskadra - przez Torrena); wpis do karty ognia - w liscie pana do Krola dzis (Luwin wpisuje). ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: Luwin (kruk): wpisane do karty ognia; Hendry ma rozkaz od 06-18. Widocznosc ognia Fosy ze Wzgorza - do proby szwu (07-01).",
    "kto": "SYMON -> LUWIN (karta) + HENDRY; BARBREY",
    "kanal": "z Fosy",
    "wraca": "300-06-25",
    "zamyka": "wpis w karcie ognia + rozkaz Hendry'ego",
-   "status": "otwarte - rozkaz Hendry'ego wydany 06-18; czeka wpis Luwina (potwierdzenie ~06-24) i proba widocznosci."
+   "status": "ZAMKNIETE 300-06-25 - WPIS W KARCIE"
   },
   {
    "data": "300-06-13",
@@ -8409,6 +8409,33 @@
    "kanal": "na miejscu",
    "wraca": "300-08-15",
    "zamyka": "szkola wieczorna ruszyla; rejestr kotla zalozony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-25",
+   "co": "KARSTARK - REAKCJA NA LIST KROLA (akt zlamania ugody, Maidenpool = Harrion): Krol zawiadomil reka wlasna ~06-21. Wola Karstarka - RZUT przy odpowiedzi. Pan uslyszy w Winterfell.",
+   "kto": "RICKARD KARSTARK -> KROL",
+   "kanal": "kruk Karhold-Winterfell",
+   "wraca": "300-07-08",
+   "zamyka": "odpowiedz Karstarka albo cisza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-25",
+   "co": "T3-M MOST NA BIALYM NOZU - UDZIALY PLATNIKOW I ZGODA (Korona 1/2, Cerwyn 1/4, Manderly 1/4) po wycenie Borsa: do stolu Krola razem z T1-B. Cerwyn i Wyman - RZUT przy zgodzie.",
+   "kto": "SYMON -> KROL; CERWYN; WYMAN",
+   "kanal": "Winterfell (pan na miejscu)",
+   "wraca": "300-07-08",
+   "zamyka": "zgoda trzech platnikow na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-25",
+   "co": "HOWLAND REED PRZYJEDZIE DO WINTERFELL 'jak liscie opadna' (list 06-25, rzut 90): do dzieci i do Brana; slowo lorda Reeda, bez daty. Sprawdzenie przy pierwszych przymrozkach.",
+   "kto": "HOWLAND REED",
+   "kanal": "poslaniec krannogow / Winterfell",
+   "wraca": "300-09-20",
+   "zamyka": "Reed w Winterfell albo wiesc, ze nie",
    "status": "otwarte"
   }
  ],

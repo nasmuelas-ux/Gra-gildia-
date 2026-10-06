@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 24,
+  "dzien": 25,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 18 (300-06-24) - JEDNA KONSEKWENCJA: ulewa z wiatrem od zachodu do poludnia; poslaniec krannogow (list do Reeda + prawo wody) nie wyplywa - rusza 06-25 o swicie.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 92 (300-06-25) - pogoda dobra: slonce po deszczu, cieplo, lekki wiatr od morza, woda na bagnach spokojna; poslaniec krannogow wyplywa o swicie.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

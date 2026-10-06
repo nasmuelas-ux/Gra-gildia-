@@ -8860,6 +8860,15 @@
    "wraca": "300-07-25",
    "zamyka": "zestawienie danych zim gotowe do wymiany (bez spizarni)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-01",
+   "co": "ODPIS Z GLEBOKORZENIA DLA MAESTRA ORWYNA NA FOSE (rozkaz pana 07-01): z ksiag pogody i swiadectw zim ze zbioru 299-09/10 - TYLKO pogoda i dlugosc zim (filtr Orwyna: bez rachunkow spizarni; bez wiedzy krannogow - granica Reeda). Prosba pana do THEOMORE'A osobiscie w Winterfell (~07-08); odpis robia uczniowie Glebokorzenia; wlasna droga Korony, nie kanalem Cytadeli. ZASADA 8: Theomore postawil 299-09-21 granice wobec Cytadeli - odpis dla maestra Cytadeli moze dac w wyborze albo z warunkiem; to jego prawo jako mistrza Glebokorzenia.",
+   "kto": "SYMON -> THEOMORE -> ORWYN",
+   "kanal": "osobiscie w Winterfell; odpis jezdzcem/wozem Winterfell-Fosa",
+   "wraca": "300-08-15",
+   "zamyka": "odpis u Orwyna albo nazwana przyczyna (warunek Theomore'a)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

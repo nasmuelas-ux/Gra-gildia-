@@ -706,3 +706,9 @@ Na skraju ogrodów, przy kanale i wejściu do Lecznicy: niska, stabilna wieża z
 ---
 # UMOCNIENIE TRAKTU (GROBLA T1-A) — `gra/umocnienie_traktu_grobla_300_06.md` (300-06-28)
 **Wola pana 300-06-28:** umocnienie grobli przez Przesmyk (przęsła zwodzone, wieże z komorą i ogniem w łańcuchu) + **KANAŁ PRZYTRAKTOWY dla barek tuż przy grobli** (trzyma pale w wodzie; zapora przy każdym przęśle). **TRAKT JEST KRÓLEWSKI** (właściciel Korona; myto/cło przy wieżach — Król); **FINANSUJE W CAŁOŚCI DOM TALLY jako DAR dla Korony** (nic w zamian); **nic poza pasem traktu — nie budujemy na bagnach Reedów** (poprawka pana 06-28). Etapy UT-0..7.
+
+
+# UWAGI MAESTRA ORWYNA — 300-07-01 (pierwsze czytanie projektu)
+1. **Ciepło do kanałów tylko zimą**, od pierwszego mrozu do odwilży. Latem para idzie zrzutem do Gorączki, bo ciepła stojąca woda i mgła rodzą gorączkę i grzyb w belkach.
+2. **Kanał przytraktowy**: między kanałem a groblą zostawić **pas 3–4 kroków**, a skarpę obłożyć faszyną. Przy każdym przęśle **zastawka**, żeby poziom wody stał równo (pale zostają w wodzie), a woda mimo to płynęła. Kanał bez spadu jest stawem.
+3. **Przewłoka**: źródło na trzeciej mili może nie być jedynym, więc „pięć mil, które wyglądają na twarde” trzeba sprawdzić latem i zimą. **Odprowadzone źródło może zasilać mokrą drogę włóki okrętowej i kanał.** *„Woda, która wam psuje groblę, może wam smarować płozy.”*

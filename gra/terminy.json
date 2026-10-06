@@ -8590,6 +8590,15 @@
    "wraca": "300-07-08",
    "zamyka": "decyzja Krola o akcie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-27",
+   "co": "RADA LENNA 06-28 (sobota, pierwsza z SEKRETARZEM) - PORZADEK PRZYJETY PRZEZ PANA 06-27: (1) przysiega lesniczego Oda; (2) przed 07-01: Sad Wagi (delegat GP, lawnicy), bandery i latarnie (Rorik/Orsa), kontroler spichlerza (Warryn); (3) podzialy z etapow Cailin do wiadomosci (Werran, Kessel, kapitan portu - 2 kandydatow Garricka, wychodki - Herwin; male lecznice, izby Niny); (4) kolejnosc wydatkow i stan skarbca (liczby 07-05); (5) wyjazd pana 07-02 - lenno i pieczec przy kanclerzu Garricku, sprawy zastrzezone krukiem do pana; (6) sprawy z sali.",
+   "kto": "SYMON + RADA LENNA (Garrick, Warryn, Hendry, Roderyk; sekretarz)",
+   "kanal": "na miejscu",
+   "wraca": "300-06-28",
+   "zamyka": "rada odbyta, protokol sekretarza",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

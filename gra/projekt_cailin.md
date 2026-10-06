@@ -652,3 +652,49 @@ Na skraju ogrodów, przy kanale i wejściu do Lecznicy: niska, stabilna wieża z
 - **Gaj dworski — zwykłe drzewa**, bez czardrzewa. Czardrzewo miasta stoi na placu Miasta Górnego.
 - **Szkło z Myr** — wchodzi do przeliczenia: **Hal podaje wycenę i czas dostawy** (bez zamówienia; zamówienie po rachunku).
 - **Do przeliczenia i do kolejki:** Garrick + Warryn wliczają kwartał w koszt etapami i kolejkę kamienia i rąk (Szklarnie — Etap IV; Lecznica może ruszyć wcześniej w izbach tymczasowych). Weylin — sieć pary i ciepłej wody dla szklarni, Sadzawki i kąpieliska.
+
+### ROZSTRZYGNIĘCIA LORDA — 300-06-26 (lecznica na Fosie; uwagi Niny, Vessara i Gythy przyjęte w całości)
+- **Strefa V: Lecznica Miejska i Przystań.** Dopisuje się do niej:
+  1. **izbę gorączki osobno od ran**. Zawsze, także w izbach tymczasowych (Vessaro);
+  2. **kąpielisko przepływowe**. Woda płynie i jest zmieniana; *„ciepła woda, która stoi, hoduje gorączkę lepiej niż bagno”* (Vessaro). Dopływ świeżej wody idzie z Kanału Wielkiego, odpływ przez komorę termiczną (ruszt, poziom -2);
+  3. **izbę odosobnienia przy przystani**. Chory z łodzi albo z obcego portu nie wchodzi na sale, zanim nie przejdzie odosobnienia. Długość ustala lekarz (wzór braawoski: 40 dni dla statku z zarazą);
+  4. **drzwi od strony baraków i ulicy roboczej, bez schodów i bez odźwiernego**, tak żeby człowiek z baraku nie bał się wejść (Gytha). Wejście od Dworu i Oranżerii jest osobne, dla gości.
+- **Ludzie przed murami** (Nina): **trzecia i czwarta uczennica** od zaraz. Imię daje Nina, nie lord. Uczy się latami, a mury stawia się szybciej.
+- **⚑ MAŁE LECZNICE (wola lorda 300-06-26):** obok lecznicy miejskiej mogą powstawać mniejsze lecznice. Opis w części **„SIEĆ MAŁYCH LECZNIC”** niżej.
+
+## VII. ETAPY BAGIENNYCH OGRODÓW (rozpisane 300-06-26)
+*Kolejność według zasady: **najpierw to, co leczy, potem to, co zarabia, na końcu to, co cieszy oko**. Każdy etap rusza dopiero z **NAZWISKIEM i LICZBĄ Z KARTY** (zasada projektu Cailin). Daty są szacunkiem (E). **Kwot z głowy nie ma** (zasada 43): kosztorys przygotowują Garrick, Warryn i Hal (Kasa 1). Kwartał wchodzi do kolejki kamienia i rąk po murze Gorącego Portu i po koszarach.*
+
+| Etap | Co | Kiedy (E) | Warunek startu | Kto |
+|---|---|---|---|---|
+| **BO-0: LECZNICA, KTÓRA JUŻ JEST** | Lecznica Fosy w izbach tymczasowych: izba chorych osobno (od 07-01); **izba gorączki osobno od ran**; **izba odosobnienia** przy przystani na grobli (szopa wybielona, prycze, wrzątek); **trzecia i czwarta uczennica**; pierwsza **mała lecznica przy barakach** (Gytha); księga medycyny Niny i Vessara | **300, od zaraz** | jest: Nina, Gytha, Vessaro, maester Edmund (~07-01) | Nina, Vessaro; miejsce Garrick |
+| **BO-1: POD ZIEMIĄ** | Ruszt z pali olchowych i bazaltu pod Strefę V i IV; **komora termiczna** na ścieki lecznicy i apteki; dopływ i odpływ wody do kąpieliska; przystań (pale i pomost) | **301**, razem z **Etapem I miasta** (co pod ziemią) | ruszt i kolektor z projektu rusztu (zlecenie lorda) | Garrick, Weylin, Harlon |
+| **BO-2: LECZNICA MIEJSKA (Strefa V)** | Skrzydło sal: rany, gorączka i odosobnienie osobno; izba zabiegowa; **piec pod podłogą na torf** (para przyjdzie później); drzwi od baraków bez schodów; przystań czynna; kąpielisko przepływowe | **301–302** | BO-1 stoi; są **ludzie** (co najmniej 4 uczennice + lekarz + maester) | Nina, Vessaro, Edmund; budowa Garrick |
+| **BO-3: APTEKA I LATARNIA ZIÓŁ (Strefa IV)** | Pracownia, suszarnie, destylarnia (ogień za kanałem); **kantor wydawania leków**: dla lenna darmo, na sprzedaż przez targ Miasta Dolnego, za morze przez Biały Port; Latarnia Ziół z piecem | **302** | lecznica działa; jest **zielarz-aptekarz** (do znalezienia; łowcy talentów) | Nina, Edmund; sprzedaż Hal |
+| **BO-4: SZKLARNIE (Strefa III)** | Nawy na bazaltowych cokołach, **szkło z Myr** (wycena Hala w toku, wymiar ram od Werrana 06-08; *nie przez Orrello*); ogrzewanie najpierw torfem pod podłogą, potem parą | **302+**, razem z **Etapem IV miasta** (co oddycha) | szkło przypłynęło (zamówienie z wyprzedzeniem lat) | Werran, Hal, Weylin |
+| **BO-5: ARBORETUM I PARK (Strefy II i I)** | Arboretum z miedzianymi tabliczkami; park dworski ze zwykłymi drzewami, **bez czardrzewa** (rozstrzygnięcie 05-19; i słowo Reeda 06-25: *nie ścina się czardrzew i nie przesadza się ich jak ogrodu*); Okrągła Sadzawka; Brama Parkowa | **po Pomarańczowym Dworze** (kolejka 301/302 E, potem) | Dwór stoi | Werran, ogrodnicy |
+
+*Zasada 8: im lepsza lecznica, tym więcej ludzi przyjdzie do niej z daleka, także z gorączką z obcych stron. Dlatego izba odosobnienia powstaje w BO-0, a nie w BO-2.*
+
+## VIII. SIEĆ MAŁYCH LECZNIC (wola lorda 300-06-26)
+*Lecznica miejska jest jedna. Ludzi, którzy jej potrzebują, jest wielu i są rozproszeni. **Mała lecznica to izba, wrzątek, księga i jedna para rąk od Niny.** Nie potrzebuje szkła ani pary.*
+
+**Wspólne zasady:**
+- gotowana woda;
+- **gorączka osobno od ran**;
+- księga z imieniem (kto przyszedł, z czym, co dostał);
+- obsada od Niny (uczennica albo pomocnica po nauce u niej);
+- **cięższe przypadki idą do lecznicy Fosy** (później miejskiej);
+- leki z apteki Niny, a później z apteki Domu.
+
+**Kasa:** tak jak lecznica Fosy (zielarnia i lecznica Domu, rozliczenie Hala). Gdyby któraś była lenna, decyduje rada lenna (próg 50 smoków).
+
+| # | Gdzie | Dla kogo | Kiedy (E) | Kto |
+|---|---|---|---|---|
+| **1** | **Przy barakach i grobli** | dniówkowi, ludzie grobli i przybysze; obok **Domu Pierwszej Nocy** (pięcioro drzwi) | **od 07-01 do 07-15**, w istniejącej szopie, wybielonej | **Gytha Kadziel** (*„oni przychodzą do mnie pierwsi”*) |
+| **2** | **Gorący Port** | setka Hendry'ego i port | **gdy garnizon wejdzie za mur od morza** (GP-1) | uczennica Niny + cyrulik drużyny |
+| **3** | **Przewłoka / port wschodni** | flisacy, przewoźnicy; **izba odosobnienia dla łodzi z obcych portów** | **z komorą przewłoki (~IX)** | uczennica Niny |
+| **4** | **Wsie lenna (objazd)** | wsie bez nikogo, kto leczy | **raz w miesiącu**, w **dzień ćwiczeń ruszenia** (ludzie i tak są zebrani) | uczennica Niny objazdem; izba przy sołtysie |
+| **5** | **Szkoła i internat** | dzieci | **od 07-01** (Nina ogląda dzieci z przedmieścia), stała izba w internacie (~08-25) | Nina / Gytha w dni szkolne |
+
+*Zasada 8: każda mała lecznica to człowiek, którego Nina musi najpierw wyuczyć. Sieć rośnie w tempie uczennic, a nie w tempie budów. Dlatego trzecia i czwarta uczennica są potrzebne od zaraz.*

@@ -8473,6 +8473,33 @@
    "wraca": "300-06-28",
    "zamyka": "przysiega zlozona",
    "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "LECZNICA - TRZECIA I CZWARTA UCZENNICA NINY (wola pana 06-26): imie daje NINA (zasada: kto pracuje, ten nazywa); szuka w obu spisach + wsrod kobiet, ktore opatruja po barakach. Wlasni - bez rzutu.",
+   "kto": "NINA (+ Mella, spisy)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "dwie nowe uczennice imiennie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "MALA LECZNICA nr 1 PRZY BARAKACH I GROBLI (siec malych lecznic, projekt_cailin VIII): szopa wybielona, wrzatek, ksiega, goraczka osobno; GYTHA. Miejsce wskazuje Garrick. Wlasni - bez rzutu.",
+   "kto": "GARRICK (miejsce) + GYTHA + NINA",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "mala lecznica przyjmuje pierwszych",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-26",
+   "co": "LECZNICA FOSY - IZBA GORACZKI OSOBNO OD RAN + IZBA ODOSOBNIENIA PRZY PRZYSTANI NA GROBLI (BO-0, uwagi Vessara 06-26): szopa wybielona, prycze, wrzatek. Wlasni - bez rzutu.",
+   "kto": "NINA + VESSARO; GARRICK (miejsce)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-05",
+   "zamyka": "obie izby gotowe",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

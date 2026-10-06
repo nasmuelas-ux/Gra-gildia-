@@ -6858,7 +6858,7 @@
    "kanal": "Zgromadzenie rodziny",
    "wraca": "300-07-01",
    "zamyka": "liczba podana, akt podpisany",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-01: akt na Fosie, forma z 06-01; pisarz przysiegly lawy Cailin EDRIN WOSK swiadkiem aktu, nie tresci. LICZBA DOMU VII/300 (kasa.py, smoki/mies, pasma): OBROT 13 165-34 620; PRZYCHOD 7 405-15 182; ZYSK 1 352-3 233; WOLNA GOTOWKA 879-2 424; kapital 4 000-6 000 (dzwignia x2,2-8,7). Mira przepisuje dwa razy (Nesta, Hal), pieczec domowa; kruki jutro rano. ⚠ korekta Hala 07-05 (czy liczba nie zawiera wyniku lenna) - otwarta."
   },
   {
    "data": "300-06-02",
@@ -8886,6 +8886,15 @@
    "kanal": "na miejscu; zbiorczy Garricka",
    "wraca": "300-08-15",
    "zamyka": "row zrodla wykopany, materac faszynowy na trzeciej mili, nasyp ruszyl",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-01",
+   "co": "REWIZJA DOMU - nastepny pierwszy dzien miesiaca (VIII): liczba Domu przy Mirze i pisarzu przysieglym (forma z 06-01). Pan w Winterfell - akt w Winterfell (Aldric Sznur, pisarz przysiegly lawy Zimowego Miasta).",
+   "kto": "SYMON + MIRA + pisarz przysiegly",
+   "kanal": "Zgromadzenie rodziny",
+   "wraca": "300-08-01",
+   "zamyka": "liczba podana, akt podpisany",
    "status": "otwarte"
   }
  ],

@@ -8842,6 +8842,24 @@
    "wraca": "300-07-09",
    "zamyka": "pierwszy raport Mabel z liczba dzieci",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-01",
+   "co": "KSIEGA POGODY FOSY CAILIN - prowadzi maester ORWYN od 07-01 (zgoda pana: 'mozecie probowac'): codziennie niebo, wiatr, mroz, mgla, woda w kanale (poziom), pierwsze/ostatnie przymrozki; osobna rubryka EDMUNDA - goraczka i komary wg pogody. ZASTRZEZENIE PANA: Przesmyk ma pogode WLASNA, inna niz Winterfell i dalsza Polnoc - ksiega Fosy nie zastepuje innych, tylko dochodzi do nich. Wymiana z Cytadela: pogoda i dlugosc zim TAK, spizarnie NIE (Orwyn 07-01). Pierwsze zestawienie po kwartale.",
+   "kto": "ORWYN (+ EDMUND)",
+   "kanal": "na miejscu; odpis do Winterfell kwartalnie",
+   "wraca": "300-10-01",
+   "zamyka": "pierwszy kwartal ksiegi pogody zestawiony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-01",
+   "co": "DANE ZIM Z POLNOCY - ZEBRAC DO WYMIANY Z CYTADELA (pan: 'takie dane zbieralismy z Polnocy, postaram sie to zebrac'). Z ZAPISU: ZBIOR SWIADECTW POLNOCY 299-09/10 - czternascie pism do maesterow; odkrycie 299-10-20: trzeba pytac o KSIEGI POGODY (Dreadfort - ksiega pogody maestera; Ostatnie Ognisko - kronika); material w GLEBOKORZENIU (Theomore) i u LUWINA (Ksiegi Zimowe zamku - wypis na powrot pana). FILTR ORWYNA: wysylac pogode i dlugosc zim, NIE rachunki spizarni (licznik wytrzymalosci zamkow). Glebokorzen pozostaje niezalezny od Cytadeli (299-09-10) - wymiana, nie oddanie. Zestawia pan z Theomore'em i Luwinem w Winterfell.",
+   "kto": "SYMON + THEOMORE + LUWIN",
+   "kanal": "Winterfell (~07-08)",
+   "wraca": "300-07-25",
+   "zamyka": "zestawienie danych zim gotowe do wymiany (bez spizarni)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

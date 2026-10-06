@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 7,
-  "dzien": 1,
+  "dzien": 2,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 65 (300-07-01) - pogodnie, cieplo, lekki wiatr z zachodu; bagno suche na wierzchu; dobry dzien na lodzie i na droge.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 79 (300-07-02) - slonecznie, cieplo, lekki wiatr z poludnia; trakt suchy - dobry dzien na droge.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {
@@ -141,7 +141,7 @@
  "lokacja": "BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-03-30.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "wieczor",
+ "pora_dnia": "ranek",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "BIALY PORT",
  "geografia_lod_porty_299_08": {

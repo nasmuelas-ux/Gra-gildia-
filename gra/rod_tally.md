@@ -24,6 +24,32 @@ _Plik wydzielony 300-06-22 na polecenie pana, z `struktura_domu_tally.md`. Ten p
 - **Preceptor Lyry:** lekarz z Braavos sprowadzony przez Nestę (299-06-23, Kasa 1).
 - **Ścieżka maestra** jest dla **młodszych synów** (zob. II). Łańcuch oznacza śluby, a więc odejście z rodu: bez nazwiska, żony i dzieci. Wpisuje się to jawnie. **⚑ Pan, 06-22: Lyra nie zostanie maestrem.**
 
+
+## I-A. PLAN NAUKI RODU TALLY: SPISAŁA MIRA (300-07-01, wieczorem), dla pana na drogę (07-02)
+*Szkic do słowa pana. Wiek progu ustala pan. Kwot nie ma, bo wszystko to robią ludzie Domu i lenna.*
+
+**1. Dom (do ~7 lat).** Mowa, pieśni i bajki (Niania, Rhona). Litery jako zabawa: matka, tabliczka, węgiel. Pływanie i łódź, bo **na bagnie dziecko, które nie pływa, jest w niebezpieczeństwie**. Zwierzęta: pies, koń. Prawo gościa i obyczaj obu wiar przy stole.
+
+**2. Szkoła wspólna (~7 do progu).** Razem z dziećmi Fosy albo Winterfell, **na tej samej ławie**. Litery, pisanie, rachunek, miara. Dzieje rodów Północy. Zioła i rany (Nina, Edmund). Konno, łuk, nóż, a dla chętnych miecz. **Jedno rzemiosło własnymi rękami doprowadzone do rzeczy, która działa** (Kanon Starków). Do tego to, czego Starkowie nie potrzebują: **księga, igła, kantor i port**, czyli rachunek kupiecki, szycie, ważenie towaru i rozładunek.
+
+**3. Próba progu (~12 lat).** Litery i miara według Kanonu. Dziecko **samo wpisuje wybór do księgi własnymi słowami**.
+
+**4. Ścieżki po progu.**
+- **Kantor (Dom):** kopista, faktor, zarządca filii, wspólnik. Awans za wykonane zadanie, nie z wiekiem.
+- **Lenno (urząd):** pisarz przy kancelarii, potem przy radzie.
+- **Miecz:** drużyna, potem szkoła dowodzenia.
+- **Uczony:** Głębokorzeń. Łańcuch Cytadeli tylko dla młodszych synów, jawnie jako śluby (wyjście z rodu). **Lyra nie zostanie maestrem** (pan, 06-22).
+- **Artysta:** rytownik, iluminator, muzyk, budowniczy (wg słów pana 06-22).
+- **Morze i port:** u Torrena albo u Wymana.
+
+**5. Dla córek tak samo jak dla synów.** Rachunek, księga i kantor obowiązują wszystkich. *„Córka, która nie umie liczyć, będzie liczona przez innych”* (Mira).
+
+**6. Dziedzic.** Rylec i tabliczka, nie tylko miecz (Zasada stroju, 299-09-04). **Rok w filii Domu i rok przy radzie lenna** przed objęciem czegokolwiek.
+
+**7. Preceptor Lyry:** lekarz z Braavos (Nesta, 299-06-23). Z Rhoną i Niną na co dzień.
+
+*Mira na marginesie: „Najważniejsze nie jest to, czego się nauczą, tylko z kim. Na jednej ławie z dziećmi przedmieścia. Wtedy nie wyrosną na panów, którzy nie wiedzą, ile kosztuje gwóźdź.”*
+
 *Zapis: tę zasadę pan pamiętał, ale w księdze jej nie było. Wpisana 06-22 z rozstrzygnięciem wątpliwości na korzyść gracza (poprawki 06-22).*
 
 ---

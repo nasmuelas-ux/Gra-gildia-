@@ -1030,13 +1030,13 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-06 rano · zima (300)
+- **Data:** 300-07-06 poludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 2**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 8**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
-- **Wolne:** 45 smokow + 54 jeleni + 11 mied
+- **Wolne:** 44 smokow + 54 jeleni + 11 mied
 - **Dzien Bilansu:** 1. dnia miesiaca · nastepny 300-03-01
 
 ## UMIEJETNOSCI
@@ -2137,7 +2137,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-05] `dziennik`: SMOLARNIA (cd.) - SYMON pyta TOMASA, jak przezyli wojne. Bez rzutu (obraz z dolu; zgodny z zapisem: ludzie Cerwynow na poludniu, Zielone Widly - jak maz Ody z Zajazdu przy Brodzie). TOMAS: (…
 - [300-07-05] `dziennik`: SMOLARNIA - KOLACJA w domu Tomasa (Symon, Mira, Arya, Rhona, Lyra; Jorelle i Torvald przy koncu stolu). Groch z wedzonka z garnka Asy, chleb, maslo, kwasne mleko. Sytosc 100 (bez zmian), zme…
 - [300-07-05] `poprawki`: Zasada 31: w nocie kolacji w Smolarni wpisalem 'Symon opowiada przy stole o Tomasie' - tego pan nie powiedzial. VOID. Mira wie o szkole, bo przez polane slychac bylo krzyk Odda 'Szkola. Mamo…
 - [300-07-05] `dziennik`: POZNY WIECZOR - SPACER PO SMOLARNI (Sten i jeden przyboczny z tylu). Bez rzutu. Zmeczenie 19->21. Co widac: doly smolne na skraju polany - dwa pracuja, przy kazdym czuwa jeden czlowiek na no…
@@ -2149,3 +2148,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-06] `dziennik`: SMOLARNIA (cd.) - SYMON wita ROLFA w progu. Bez rzutu. ROLF: klania sie niezgrabnie, ociera dlon o fartuch, zanim ja poda, i zaraz cofa - czarna. Ostrozny, nie wrogi: 'Chlopak mowi, ze pan g…
 - [300-07-06] `dziennik`: SMOLARNIA (cd.) - ⚑ SYMON do Rolfa: 'Jest zdolny, niech przyjdzie i sie nauczy.' Bez rzutu (slowo pana; rodzina zgadza sie sama - Tomas juz to ulozyl wczoraj). ROLF: patrzy na ojca; Tomas ki…
 - [300-07-06] `dziennik`: SMOLARNIA (cd.) - ⚑ SYMON PISZE LIST DO LUWINA (zestaw pisarski z juku; reka wlasna; pieczec pierscienia - pioro i plomien, na wosku od Asy - swieca loju): przyjac do szkoly w Winterfell ODD…
+- [300-07-06] `dziennik`: SMOLARNIA - WYJAZD. ⚑ SYMON dziekuje i zostawia TOMASOWI 1 ZLOTEGO SMOKA z wlasnej sakiewki (45->44). Bez rzutu. Tomas obraca monete, kladzie ja na stole przed Asa: 'Na buty dla chlopaka. Do…

@@ -8755,16 +8755,16 @@
   },
   {
    "data": "300-06-30",
-   "co": "SPIS CALEGO LENNA FOSY CAILIN - WSZYSTKIE WSIE, PRZYSIOLKI I OSADY NA KEPACH, NAPRAWDE (rozkaz pana 06-30, propozycja Warryna). Dom po domu: DUSZE (imiennie, z wiekiem; dzieci osobno), RECE DO PRACY, POLA, BYDLO. Prowadzi WARRYN (zasada 42 - sam dobiera pisarzy; metoda Alys z lutego); w kazdej wsi SOLTYS + LAWA PRZYSIEGLA WSI + pisarz; INGA (poborca) i SARRA (urbarz) zderzaja z urbarzem; na kepy i glebokie bagno - pisarz LODZIA JASTRZEBI (Jastrzebie tylko wioza, pyta pisarz). Ludzi Reeda (krannogowie pod jego reka) NIE liczy sie - granica z Reedem czeka na jego odpowiedz (~07-15). OGLOSZENIE Z GORY (Garrick, slupy i soltysi, przed pierwszym domem): 'SPIS NIE PODNOSI CZYNSZU.' ZASADA 8 (jedna): ZNIWA w VIII zabieraja ludzi i soltysow - wiec DWA PRZEJSCIA: (1) KROTKIE po sianokosach - dusze i dzieci (lista dla naboru szkoly 09-01); (2) PELNE po zniwach - rece, pola, bydlo. Kasa 2 (dniowki pisarzy). Wlasni - bez rzutu na wykonanie.",
+   "co": "SPIS CALEGO LENNA FOSY CAILIN - WSZYSTKIE WSIE, PRZYSIOLKI I OSADY NA KEPACH, NAPRAWDE (rozkaz pana 06-30, propozycja Warryna). Dom po domu: DUSZE (imiennie, z wiekiem; dzieci osobno), RECE DO PRACY, POLA, BYDLO. Prowadzi WARRYN (zasada 42 - sam dobiera pisarzy; metoda Alys z lutego); w kazdej wsi SOLTYS + LAWA PRZYSIEGLA WSI + pisarz; INGA (poborca) i SARRA (urbarz) zderzaja z urbarzem; na kepy i glebokie bagno - pisarz LODZIA JASTRZEBI (Jastrzebie tylko wioza, pyta pisarz). Ludzi Reeda (krannogowie pod jego reka) NIE liczy sie - granica z Reedem czeka na jego odpowiedz (~07-15). OGLOSZENIE Z GORY (Garrick, slupy i soltysi, przed pierwszym domem): 'SPIS NIE PODNOSI CZYNSZU.' ZASADA 8 (jedna): ZNIWA w VIII zabieraja ludzi i soltysow - wiec DWA PRZEJSCIA: (1) KROTKIE po sianokosach - dusze i dzieci (lista dla naboru szkoly 09-01); (2) PELNE po zniwach - rece, pola, bydlo. Kasa 2 (dniowki pisarzy). Wlasni - bez rzutu na wykonanie. ### ⚑ DOPISEK PANA 06-30: (A) KSIEGA WSI LENNA - IMIENNIE kazda wies, przysiolek i osada na kepie (nazwa, polozenie, ile dymow), IMIE KAZDEGO SOLTYSA (a gdzie go nie ma - kto mowi za wies), sklad lawy wsi; odpis dla pana do Winterfell. (B) BADANIE POTRZEB WSI - przy pierwszym przejsciu soltys z lawa podaje TRZY RZECZY, KTORYCH WSI NAJBARDZIEJ BRAKUJE (studnia, droga, most, mlyn, ziarno siewne, narzedzia, bydlo, lecznica/zielarka, szkola, ochrona, cokolwiek); przy pelnym przejsciu pisarz sprawdza na oko. ZASADA 8 (Warryn): pytanie o potrzeby to obietnica - kazda wies dostaje ODPOWIEDZ na pismie (co, kiedy, albo dlaczego nie), a kolejnosc ustala rada lenna jawnie; inaczej drugiego spisu nikt juz nie wpusci.",
    "kto": "WARRYN (+ soltysi, lawy wsi, INGA, SARRA, pisarze; KESSEL - lodzie)",
    "kanal": "na miejscu; meldunek w zbiorczym Garricka",
    "wraca": "300-08-25",
-   "zamyka": "(1) przejscie krotkie: dusze i dzieci wszystkich wsi na papierze przed 09-01; (2) pelne - termin osobny po zniwach",
+   "zamyka": "(1) przejscie krotkie: KSIEGA WSI (wsie, przysiolki, soltysi imiennie) + dusze i dzieci + TRZY POTRZEBY kazdej wsi - na papierze przed 09-01; (2) pelne - termin osobny po zniwach",
    "status": "otwarte"
   },
   {
    "data": "300-06-30",
-   "co": "SPIS CALEGO LENNA - PRZEJSCIE PELNE (po zniwach): rece do pracy, pola, bydlo, dom po domu; zderzenie z urbarzem; jedna liczba lenna zamiast '15-20 tys.'.",
+   "co": "SPIS CALEGO LENNA - PRZEJSCIE PELNE (po zniwach): rece do pracy, pola, bydlo, dom po domu; zderzenie z urbarzem; jedna liczba lenna zamiast '15-20 tys.'. + sprawdzenie potrzeb wsi na oko; LISTA POTRZEB WSZYSTKICH WSI na rade lenna (kolejnosc jawna) i odpowiedz na pismie do kazdej wsi.",
    "kto": "WARRYN",
    "kanal": "na miejscu; zbiorczy Garricka",
    "wraca": "300-10-15",

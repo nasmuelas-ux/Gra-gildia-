@@ -6394,19 +6394,19 @@
   },
   {
    "data": "300-05-26",
-   "co": "LIST KROLA DO RICKARDA KARSTARKA (reka Krola): co Korona pisze w akcie zlamania ugody (garnizony + wydanie Harriona z Maidenpool), do kogo (Lannisterowie, Dorne, Reach, Zelazny Bank, odpis Edmure), kiedy; ryzyko bierze Krol. Nie prosba o zgode - zawiadomienie przed aktem. ### 05-26: akt zada wszystkich 271 z listy - Harrion wsrod nich.",
+   "co": "LIST KROLA DO RICKARDA KARSTARKA (reka Krola): co Korona pisze w akcie zlamania ugody (garnizony + wydanie Harriona z Maidenpool), do kogo (Lannisterowie, Dorne, Reach, Zelazny Bank, odpis Edmure), kiedy; ryzyko bierze Krol. Nie prosba o zgode - zawiadomienie przed aktem. ### 05-26: akt zada wszystkich 271 z listy - Harrion wsrod nich. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
    "kto": "KROL -> RICKARD KARSTARK",
    "kanal": "kruk Winterfell-Karhold",
-   "wraca": "300-06-24",
+   "wraca": "300-06-25",
    "zamyka": "list wyslany kilka dni przed aktem (~06-28)",
    "status": "otwarte"
   },
   {
    "data": "300-05-26",
-   "co": "WYMIANA JENCOW - NASZA STRONA: rejestr Cerwyna (marzec) - ilu jencow Lannisterow trzyma Polnoc i Dorzecze, imiennie, gdzie; do aktu jako oferta wymiany dwustronnej. ### 06-20 (pan na Fosie): rejestr Cerwyna do Tobina w Winterfell - potwierdzenie krukiem do Fosy ~06-24.",
+   "co": "WYMIANA JENCOW - NASZA STRONA: rejestr Cerwyna (marzec) - ilu jencow Lannisterow trzyma Polnoc i Dorzecze, imiennie, gdzie; do aktu jako oferta wymiany dwustronnej. ### 06-20 (pan na Fosie): rejestr Cerwyna do Tobina w Winterfell - potwierdzenie krukiem do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
    "kto": "CERWYN (rejestr) -> TOBIN (do aktu)",
    "kanal": "Winterfell / kruk za Cerwynem",
-   "wraca": "300-06-24",
+   "wraca": "300-06-25",
    "zamyka": "lista naszych jencow do aktu",
    "status": "otwarte"
   },
@@ -6493,10 +6493,10 @@
   },
   {
    "data": "300-05-26",
-   "co": "T3-M MOST KAMIENNY NA BIALYM NOZU przy Przystani Wilka - wycena i miejsce (po dachu baszty 06-14); platnicy wg udzialow przystani: Korona 1/2, Cerwyn 1/4, Manderly 1/4. ### 06-20 (pan na Fosie): Bors (Przystan Wilka) pisze przez Winterfell - kruk do Fosy ~06-24.",
+   "co": "T3-M MOST KAMIENNY NA BIALYM NOZU przy Przystani Wilka - wycena i miejsce (po dachu baszty 06-14); platnicy wg udzialow przystani: Korona 1/2, Cerwyn 1/4, Manderly 1/4. ### 06-20 (pan na Fosie): Bors (Przystan Wilka) pisze przez Winterfell - kruk do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
    "kto": "BORS (Przystan Wilka) + WARRYN",
    "kanal": "kruk Fosa-Winterfell",
-   "wraca": "300-06-24",
+   "wraca": "300-06-25",
    "zamyka": "wycena i miejsce mostu na pismie",
    "status": "otwarte"
   },
@@ -6934,10 +6934,10 @@
   },
   {
    "data": "300-06-03",
-   "co": "WPINY KROLA - 'STRAZNIK LANCUCHA OGNIA' (zelazo, plomien) i 'OBRONCA WYBRZEZA' (srebro, wilk nad fala): wzor Krol + Symon, wykuwa MIKKEN, koszt Gawen (Kasa 3). Pierwsza partia gotowa. Bez rzutu (ludzie zamku). ### 06-20 (pan na Fosie): wiesc od Mikkena/Gawena przez Luwina do Fosy ~06-24.",
+   "co": "WPINY KROLA - 'STRAZNIK LANCUCHA OGNIA' (zelazo, plomien) i 'OBRONCA WYBRZEZA' (srebro, wilk nad fala): wzor Krol + Symon, wykuwa MIKKEN, koszt Gawen (Kasa 3). Pierwsza partia gotowa. Bez rzutu (ludzie zamku). ### 06-20 (pan na Fosie): wiesc od Mikkena/Gawena przez Luwina do Fosy ~06-24. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
    "kto": "MIKKEN; GAWEN",
    "kanal": "Winterfell",
-   "wraca": "300-06-24",
+   "wraca": "300-06-25",
    "zamyka": "pierwsze wpiny w skarbcu Korony + koszt w ksiedze",
    "status": "otwarte"
   },
@@ -7177,10 +7177,10 @@
   },
   {
    "data": "300-06-08",
-   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian.",
+   "co": "PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
    "kto": "STEN / DAGON / TESSA / KASZTELAN",
    "kanal": "osobiscie + kruk do kasztelana",
-   "wraca": "300-06-24",
+   "wraca": "300-06-25",
    "zamyka": "wszystkie cztery wykonane",
    "status": "otwarte"
   },
@@ -7285,10 +7285,10 @@
   },
   {
    "data": "300-06-13",
-   "co": "KARTA OGNIA - WZAJEMNA ODSIECZ TALLY-DUSTIN (rzut 83): na ogien Barrowlandow - jazda Fosy (Hendry), setka Goracego Portu, eskadra od morza; na ogien Goracego Portu/Fosy - jezdni Barrowlandow (~100+, ser Harwood). Wpisac do karty ognia (Luwin) i do rozkazow Hendry'ego; sprawdzic widocznosc ognia Fosy/Goracego Portu ze Wzgorza albo przez cypel. ### 06-18 (Fosa): HENDRY dostal rozkaz osobiscie (jazda Fosy na ogien Barrowlandow; setka Goracego Portu; eskadra - przez Torrena); wpis do karty ognia - w liscie pana do Krola dzis (Luwin wpisuje).",
+   "co": "KARTA OGNIA - WZAJEMNA ODSIECZ TALLY-DUSTIN (rzut 83): na ogien Barrowlandow - jazda Fosy (Hendry), setka Goracego Portu, eskadra od morza; na ogien Goracego Portu/Fosy - jezdni Barrowlandow (~100+, ser Harwood). Wpisac do karty ognia (Luwin) i do rozkazow Hendry'ego; sprawdzic widocznosc ognia Fosy/Goracego Portu ze Wzgorza albo przez cypel. ### 06-18 (Fosa): HENDRY dostal rozkaz osobiscie (jazda Fosy na ogien Barrowlandow; setka Goracego Portu; eskadra - przez Torrena); wpis do karty ognia - w liscie pana do Krola dzis (Luwin wpisuje). ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25.",
    "kto": "SYMON -> LUWIN (karta) + HENDRY; BARBREY",
    "kanal": "z Fosy",
-   "wraca": "300-06-24",
+   "wraca": "300-06-25",
    "zamyka": "wpis w karcie ognia + rozkaz Hendry'ego",
    "status": "otwarte - rozkaz Hendry'ego wydany 06-18; czeka wpis Luwina (potwierdzenie ~06-24) i proba widocznosci."
   },

@@ -8791,11 +8791,38 @@
   },
   {
    "data": "300-06-30",
-   "co": "⚑ STUDNIA W KAZDEJ WSI LENNA - NA KOSZT LENNA (rozkaz pana 06-30, po spacerze: we wsi kosiarzy za gajem woda metna, dzieci pija z rowu). KASA 2 (Gerrik liczy, Warryn wydaje; kwot z glowy nie ma - zasada 43). PROWADZI WARRYN; FACHOWO maester ORWYN (przydzial 06-26: wychodki i studnie) + NINA (woda a goraczka: gotowac, z dala od rowu i wychodka). KOLEJNOSC: (1) od razu po sianokosach - WIES KOSIARZY ZA GAJEM (widziana przez pana); (2) dalej wg KSIEGI WSI ze spisu (pierwsze przejscie ~09-01: ktora wies ma studnie, ktora zla, ktora zadnej) - najpierw te, gdzie pija z rowu. ZASADA 8 (Orwyn/Warryn): na bagnie studnia kopana plytko daje te sama wode co row - studnia GLEBOKA, cembrowina z kamienia albo dębowych klepek, daszek, zuraw, min. ~30 krokow od rowu i wychodka (E); NA KEPACH, gdzie nie ma twardej warstwy - CYSTERNA NA DESZCZOWKE z dachu zamiast studni. Kopia ludzie wsi za dniowke lenna (Mella, karb). Wlasni - bez rzutu na wykonanie.",
+   "co": "⚑ STUDNIA W KAZDEJ WSI LENNA - NA KOSZT LENNA (rozkaz pana 06-30, po spacerze: we wsi kosiarzy za gajem woda metna, dzieci pija z rowu). KASA 2 (Gerrik liczy, Warryn wydaje; kwot z glowy nie ma - zasada 43). PROWADZI WARRYN; FACHOWO maester ORWYN (przydzial 06-26: wychodki i studnie) + NINA (woda a goraczka: gotowac, z dala od rowu i wychodka). KOLEJNOSC: (1) od razu po sianokosach - WIES KOSIARZY ZA GAJEM (widziana przez pana); (2) dalej wg KSIEGI WSI ze spisu (pierwsze przejscie ~09-01: ktora wies ma studnie, ktora zla, ktora zadnej) - najpierw te, gdzie pija z rowu. ZASADA 8 (Orwyn/Warryn): na bagnie studnia kopana plytko daje te sama wode co row - studnia GLEBOKA, cembrowina z kamienia albo dębowych klepek, daszek, zuraw, min. ~30 krokow od rowu i wychodka (E); NA KEPACH, gdzie nie ma twardej warstwy - CYSTERNA NA DESZCZOWKE z dachu zamiast studni. Kopia ludzie wsi za dniowke lenna (Mella, karb). Wlasni - bez rzutu na wykonanie. ### 06-30: ZAPISANE JAKO PROJEKT DO WDROZENIA - gra/projekt_studnie_lenna_300_06.md (etapy ST-0..ST-6).",
    "kto": "WARRYN (+ ORWYN, NINA; Gerrik - kasa)",
    "kanal": "na miejscu; meldunek w zbiorczym Garricka",
    "wraca": "300-08-15",
    "zamyka": "studnia we wsi za gajem gotowa + lista studni/cystern dla wszystkich wsi z ksiegi wsi (kolejnosc jawna, rada lenna)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "ST-0 STUDNIE LENNA - WZOR STUDNI I CYSTERNY NA PISMIE + rubryka 'woda' (jest / zla / brak) w spisie wsi (gra/projekt_studnie_lenna_300_06.md).",
+   "kto": "ORWYN + NINA",
+   "kanal": "na miejscu",
+   "wraca": "300-07-15",
+   "zamyka": "wzor na pismie; rubryka w karcie spisu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "ST-2 STUDNIE LENNA - lista wszystkich wsi z rubryka 'woda' z ksiegi wsi; KOLEJNOSC JAWNA na radzie lenna; odpowiedz na pismie do kazdej wsi.",
+   "kto": "WARRYN -> RADA LENNA",
+   "kanal": "rada lenna",
+   "wraca": "300-09-15",
+   "zamyka": "kolejnosc uchwalona i ogloszona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-30",
+   "co": "ST-3 STUDNIE LENNA - PIERWSZA FALA PRZED MROZEM: wsie, ktore pija z rowu (wg ST-2).",
+   "kto": "WARRYN (+ ORWYN; rece wsi)",
+   "kanal": "zbiorczy Garricka",
+   "wraca": "300-10-31",
+   "zamyka": "studnie/cysterny pierwszej fali gotowe; reszta na wiosne 301",
    "status": "otwarte"
   }
  ],

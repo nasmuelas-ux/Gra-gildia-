@@ -21,6 +21,6 @@
 13. **Przegląd kart królestw z Sansą** (~07-09).
 
 ## D. DO ROZWAŻENIA (od dziś, nie ma jeszcze terminu)
-14. **Ucho Korony stoi puste.** Willa nie słucha w salach lordów, bo to robota Korony. Sprawa pana i Króla.
+14. ~~Ucho Korony stoi puste~~ — **VOID (poprawka pana 06-30): krzesło obsadzone 300-03-30**, zapis niejawny w `gra/ukryte/`. Do Króla nie idzie nic.
 15. *(Rodzina)* Arya chce wracać na Fosę. Decydują Catelyn i Król; warunek Catelyn: nie dłużej niż miesiąc.
 16. *(Bran, ~07-15)* Bran sam mówi Królowi, przy panu. Inicjatywa należy do Brana.

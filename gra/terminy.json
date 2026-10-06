@@ -8719,11 +8719,11 @@
   },
   {
    "data": "300-06-30",
-   "co": "CECHY BIALEGO PORTU WOBEC WYROBU CAILIN NA TARGU (zasada 8 - skutek otwarcia eksportu 06-30). Zapis 02-28: 'nie azyl uruchamia cech, tylko EKSPORT' - wyrob z pieczecia Bractwa (takze od wykletych przez cech) na straganie w Bialym Porcie cechy czytaja jako wypowiedzenie. 'Przyjda do Hala, nie do pana' - odpowiedz Hala ustalona 02-28: 'To jest nadanie mojego pana w jego lennie. Ja tu handluje.' Pierwszy woz z Fosy ~07-02..05, Bialy Port 6-8 dni. RZUT przy meldunku Hala (cechy - strona zewnetrzna).",
-   "kto": "HAL (Bialy Port) / cechy",
-   "kanal": "woz Fosa-Bialy Port; meldunek Hala krukiem do Winterfell",
+   "co": "CECHY BIALEGO PORTU WOBEC WYROBU CAILIN NA TARGU (zasada 8 - skutek otwarcia eksportu 06-30). Zapis 02-28: 'nie azyl uruchamia cech, tylko EKSPORT' - wyrob z pieczecia Bractwa (takze od wykletych przez cech) na straganie w Bialym Porcie cechy czytaja jako wypowiedzenie. 'Przyjda do Hala, nie do pana' - odpowiedz Hala ustalona 02-28: 'To jest nadanie mojego pana w jego lennie. Ja tu handluje.' Pierwszy woz z Fosy ~07-02..05, Bialy Port 6-8 dni. RZUT przy meldunku Hala (cechy - strona zewnetrzna). ### ⚑ WOLA PANA 06-30 (zmienia instrukcje z 02-28): 'Cechy Bialego Portu to cechy Bialego Portu, Bractwa Cailin to Bractwa Cailin, KUPIEC MOZE HANDLOWAC GDZIE CHCE I CZYM CHCE. Jesli beda mialy problem - NIECH ROZMAWIAJA ZE MNA.' HAL NIE PROWADZI SPORU - odsyla cechy do pana (Winterfell), nic ponadto. Dopisek do listu do Hala - dzisiejszy kruk. ⚠ Uwaga z zapisu (nie sprzeciw): prawo targu W SAMYM Bialym Porcie stanowi miasto Wymana - jesli cechy pojda do Wymana zamiast do pana, rozmowa przejdzie przez niego.",
+   "kto": "cechy Bialego Portu -> SYMON (Hal tylko odsyla)",
+   "kanal": "cechy -> pan w Winterfell (list/kruk); woz Fosa-Bialy Port",
    "wraca": "300-07-15",
-   "zamyka": "meldunek Hala: co zrobily cechy (albo nic)",
+   "zamyka": "cechy pisza do pana / ida do Wymana / nic (rzut przy pierwszym ruchu, ~07-15)",
    "status": "otwarte"
   }
  ],

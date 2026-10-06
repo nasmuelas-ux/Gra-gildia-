@@ -3883,10 +3883,10 @@
   },
   {
    "data": "300-04-15",
-   "co": "MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): wiesci brak i wiadomo dlaczego: lodzie z fok ~06-15, meldunek o ogniu idzie przez Dustinport (Torren) i jezdzca do Fosy (4 dni) - ~06-22.",
+   "co": "MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): wiesci brak i wiadomo dlaczego: lodzie z fok ~06-15, meldunek o ogniu idzie przez Dustinport (Torren) i jezdzca do Fosy (4 dni) - ~06-22. ### 06-24: NIE PRZYSZLO I WIADOMO DLACZEGO - kanal przez Dustinport (Torren), jezdziec do Fosy; razem z wiescia o ogniu Corwina ~06-26.",
    "kto": "MAEGE MORMONT",
    "kanal": "przez Dustinport (Torren)",
-   "wraca": "300-06-22",
+   "wraca": "300-06-26",
    "zamyka": "ogien Wyspy zapalony, pierwszy meldunek",
    "status": "otwarte - 06-01 (rzut 22): nie plonie - lodzie z fok pozno; ~06-15"
   },
@@ -7542,7 +7542,7 @@
    "kanal": "na miejscu",
    "wraca": "300-06-24",
    "zamyka": "klucznik obsadzony, klucz u niego",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-24 - klucznik: DORAN ZASUWA (byly straznik z Bialego Portu, nie pije - kandydat Roderyka z 06-20); klucz od piwnicy pod brama u niego, nie u straznika bramy"
   },
   {
    "data": "300-06-19",
@@ -7893,7 +7893,7 @@
    "kanal": "na miejscu",
    "wraca": "300-06-24",
    "zamyka": "meldunek komory na stole pana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-24 - meldunek Rorika i Warryna na stole (ruch od 04-26, towar znaleziony, pieczecie wodne; kwoty - w ksiedze, do rozliczenia skarbca 07-05)"
   },
   {
    "data": "300-06-20",
@@ -8247,7 +8247,7 @@
    "kanal": "na miejscu",
    "wraca": "300-06-24",
    "zamyka": "wyrok + ustalony kopacz",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-24 - wyroki sadu grodzkiego wg prawa sprzed 07-01 (dziennik 06-24)"
   },
   {
    "data": "300-06-23",
@@ -8269,7 +8269,7 @@
   },
   {
    "data": "300-06-23",
-   "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (2) GRANICA Z REEDAMI (Szara Woda) - OZNACZYC: list pana do HOWLANDA REEDA (Garrick spisuje, pieczec lenna): propozycja wspolnego oznaczenia granicy wody lenna i wody krannogow (tyczki z pomaranczowym znakiem po stronie lenna), przewodnik krannog do mapy, ZNAK/PRZEPUSTKA dla ludzi Reeda w strefach lenna (zeby zaden krannog nie dostal belta). Granica dwoch lenn = zgoda obu; spor - Justycjariusz. Kanal: poslaniec krannogow. Wola Reeda - RZUT przy odpowiedzi.",
+   "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (2) GRANICA Z REEDAMI (Szara Woda) - OZNACZYC: list pana do HOWLANDA REEDA (Garrick spisuje, pieczec lenna): propozycja wspolnego oznaczenia granicy wody lenna i wody krannogow (tyczki z pomaranczowym znakiem po stronie lenna), przewodnik krannog do mapy, ZNAK/PRZEPUSTKA dla ludzi Reeda w strefach lenna (zeby zaden krannog nie dostal belta). Granica dwoch lenn = zgoda obu; spor - Justycjariusz. Kanal: poslaniec krannogow. Wola Reeda - RZUT przy odpowiedzi. ### 06-24: ulewa (pogoda 18) - poslaniec krannogow z listem do Reeda i odpisem prawa wody wyrusza 06-25 o swicie.",
    "kto": "SYMON -> HOWLAND REED (Garrick pisze)",
    "kanal": "poslaniec krannogow Fosa-Szara Woda",
    "wraca": "300-07-15",

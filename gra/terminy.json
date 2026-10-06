@@ -3883,12 +3883,12 @@
   },
   {
    "data": "300-04-15",
-   "co": "MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): wiesci brak i wiadomo dlaczego: lodzie z fok ~06-15, meldunek o ogniu idzie przez Dustinport (Torren) i jezdzca do Fosy (4 dni) - ~06-22. ### 06-24: NIE PRZYSZLO I WIADOMO DLACZEGO - kanal przez Dustinport (Torren), jezdziec do Fosy; razem z wiescia o ogniu Corwina ~06-26. ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie); wiesc z jezdzcem 06-27. RZUT na meldunek wykonany dzis: 89 (prog 45) - wynik wchodzi z jezdzcem.",
+   "co": "MAEGE - OGIEN WYSPY NIEDZWIEDZIEJ W LANCUCHU od powrotu lodzi z fok. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): wiesci brak i wiadomo dlaczego: lodzie z fok ~06-15, meldunek o ogniu idzie przez Dustinport (Torren) i jezdzca do Fosy (4 dni) - ~06-22. ### 06-24: NIE PRZYSZLO I WIADOMO DLACZEGO - kanal przez Dustinport (Torren), jezdziec do Fosy; razem z wiescia o ogniu Corwina ~06-26. ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie); wiesc z jezdzcem 06-27. RZUT na meldunek wykonany dzis: 89 (prog 45) - wynik wchodzi z jezdzcem. ### 300-06-27: jezdziec z Dustinportu (doszedl wieczorem 06-26 w przerwie sztormu). RZUT 89: OGIEN WYSPY NIEDZWIEDZIEJ ZAPALONY na wzgorzu nad Lasem Niedzwiedzim od powrotu lodzi z fok; pierwsza proba - odpowiedzial ogien Corwina na Kamiennym Brzegu; karta ognia - Luwin dopisze. Maege dopisuje od siebie: lodzie z fok wrocily pelne; DWIE moze dac na Zatoke Lodu, 'gdy Mance powie tak' (Droga 22 tysiecy).",
    "kto": "MAEGE MORMONT",
    "kanal": "przez Dustinport (Torren)",
    "wraca": "300-06-27",
    "zamyka": "ogien Wyspy zapalony, pierwszy meldunek",
-   "status": "otwarte - 06-01 (rzut 22): nie plonie - lodzie z fok pozno; ~06-15"
+   "status": "ZAMKNIETE 300-06-27 - OGIEN ZAPALONY (RZUT 89)"
   },
   {
    "data": "300-04-15",
@@ -6133,12 +6133,12 @@
   },
   {
    "data": "300-05-24",
-   "co": "KARTA MIASTA STARKPORTU - ODPIS DLA SIGRUN (pieczec Krola 05-24; ulga 5 lat; 30 dni skladu; gielda; zamtuzy na prawie miasta). Warunek Sigrun spelniony przed zima. ### 300-06-25: odpis szedl kruk -> Fosa -> jezdziec do Dustinportu -> lodz; potwierdzenie Sigrun wraca ta sama droga - z jezdzcem z Dustinportu 06-26 (razem z wiescia Maege). ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie); potwierdzenie Sigrun z jezdzcem 06-27.",
+   "co": "KARTA MIASTA STARKPORTU - ODPIS DLA SIGRUN (pieczec Krola 05-24; ulga 5 lat; 30 dni skladu; gielda; zamtuzy na prawie miasta). Warunek Sigrun spelniony przed zima. ### 300-06-25: odpis szedl kruk -> Fosa -> jezdziec do Dustinportu -> lodz; potwierdzenie Sigrun wraca ta sama droga - z jezdzcem z Dustinportu 06-26 (razem z wiescia Maege). ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie); potwierdzenie Sigrun z jezdzcem 06-27. ### 300-06-27: Sigrun potwierdza: odpis karty (pieczec Krola 05-24) u niej, przeczytany ludziom na Kamiennym Brzegu przy palisadzie.",
    "kto": "TOBIN -> SIGRUN",
    "kanal": "kruk Winterfell-Fosa (05-25) + jezdziec Fosa-Dustinport + lodz na Kamienny Brzeg",
    "wraca": "300-06-27",
    "zamyka": "odpis u Sigrun (potwierdzenie w karcie Starkportu)",
-   "status": "otwarte - na Kamiennym Brzegu (E); potwierdzenie z karta Starkportu"
+   "status": "ZAMKNIETE 300-06-27 - ODPIS U SIGRUN"
   },
   {
    "data": "300-05-24",
@@ -6367,12 +6367,12 @@
   },
   {
    "data": "300-05-26",
-   "co": "EDMURE - PELNA LISTA GARNIZONOW LANNISTEROW W DORZECZU (zwiadowcy wzdluz Tridentu i Zielonych Widel); pewne dzis: Maidenpool, Darry. Catelyn: pomoze list od Krola z podziekowaniem. ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie). RZUT przy odpowiedzi wykonany dzis: 24 (prog 45) - JEDNA KONSEKWENCJA, tresc wchodzi z krukiem 06-27: lista NIEPELNA - Trident potwierdzony, Zielone Widly nie przeszle (ziemie Freyow, zwiadowcy bez pisma Waldera nie przepuszczeni).",
+   "co": "EDMURE - PELNA LISTA GARNIZONOW LANNISTEROW W DORZECZU (zwiadowcy wzdluz Tridentu i Zielonych Widel); pewne dzis: Maidenpool, Darry. Catelyn: pomoze list od Krola z podziekowaniem. ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie). RZUT przy odpowiedzi wykonany dzis: 24 (prog 45) - JEDNA KONSEKWENCJA, tresc wchodzi z krukiem 06-27: lista NIEPELNA - Trident potwierdzony, Zielone Widly nie przeszle (ziemie Freyow, zwiadowcy bez pisma Waldera nie przepuszczeni). ### 300-06-27: kruk przez Winterfell (doszedl wieczorem 06-26 w przerwie sztormu). RZUT 24 (prog 45) - JEDNA KONSEKWENCJA: LISTA NIEPELNA. Potwierdzone nad Tridentem: MAIDENPOOL, DARRY, posterunek przy BRODZIE RUBINOWYM (imiennie dowodcy i liczby E). ZIELONE WIDLY - LUKA: zwiadowcy Edmure'a nie przepuszczeni przez ziemie Freyow bez pisma Waldera. Odpis do Tobina do aktu (~06-28); Krol decyduje, czy akt idzie z lista niepelna.",
    "kto": "EDMURE TULLY",
    "kanal": "kruk Riverrun-Winterfell",
    "wraca": "300-06-27",
    "zamyka": "lista garnizonow (rzut przy odpowiedzi)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-27 - LISTA NIEPELNA (RZUT 24)"
   },
   {
    "data": "300-05-26",
@@ -7951,12 +7951,12 @@
   },
   {
    "data": "300-06-20",
-   "co": "PRZEMYT - NOCNE POSTERUNKI NA CZTERECH GARDLACH BAGNA (zgoda pana 06-20, plan Kessela): od zaraz dwa gardla najbardziej uczeszczane z dzisiejszych ludzi; wszystkie cztery po pierwszej fali (+30, VIII); lodz, kaganiec, rog; doniesienia krannogow -> do najblizszego posterunku. STALA PREMIA ZA NOC NA GARDLE (bez udzialu w lupie) - Warryn, ze skarbca lenna.",
+   "co": "PRZEMYT - NOCNE POSTERUNKI NA CZTERECH GARDLACH BAGNA (zgoda pana 06-20, plan Kessela): od zaraz dwa gardla najbardziej uczeszczane z dzisiejszych ludzi; wszystkie cztery po pierwszej fali (+30, VIII); lodz, kaganiec, rog; doniesienia krannogow -> do najblizszego posterunku. STALA PREMIA ZA NOC NA GARDLE (bez udzialu w lupie) - Warryn, ze skarbca lenna. ### 300-06-27: Kessel (meldunek rano): dwa gardla najbardziej uczeszczane obsadzone noca mimo sztormu - lodz, kaganiec pod oslona, rog; premia za noc w ksiedze Warryna. Wszystkie cztery - po pierwszej fali (+30, VIII).",
    "kto": "KESSEL; WARRYN (premia)",
    "kanal": "na miejscu / poczta",
    "wraca": "300-06-27",
    "zamyka": "dwa gardla obsadzone noca; premia w ksiedze",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-06-27 - DWA GARDLA OBSADZONE"
   },
   {
    "data": "300-06-20",
@@ -8575,11 +8575,20 @@
   },
   {
    "data": "300-06-26",
-   "co": "OBJAZD PRZEWLOKI (wola pana 06-26): pan z grupa (przyboczni, Arya, Korm Palik na miejscu) oglada przewloke - druga mila przejezdna, trzecia - kurzawka ('stoimy na trzeciej mili do powrotu Weylina / Orwyna'). 'Poszerzanie kanalu' - w zapisie trwajacych robot przy kanale BRAK (Kanal Wielki R-5 - 301); do sprawdzenia na miejscu, co pan ma na mysli. Wyjazd rano 06-27 (pogoda - rzut nocny).",
+   "co": "OBJAZD PRZEWLOKI (wola pana 06-26): pan z grupa (przyboczni, Arya, Korm Palik na miejscu) oglada przewloke - druga mila przejezdna, trzecia - kurzawka ('stoimy na trzeciej mili do powrotu Weylina / Orwyna'). 'Poszerzanie kanalu' - w zapisie trwajacych robot przy kanale BRAK (Kanal Wielki R-5 - 301); do sprawdzenia na miejscu, co pan ma na mysli. Wyjazd rano 06-27 (pogoda - rzut nocny). ### 300-06-27: POGODA RZUT 4 - JEDNA KONSEKWENCJA: sztorm wrocil w nocy z pelna sila; rano woda wysoka - na przewloce DRUGA MILA POD WODA, kurzawka trzeciej rozlana. Dojazd mozliwy do konca pierwszej mili (po grobli); dalej tylko lodzia. Decyzja pana.",
    "kto": "SYMON + przyboczni + ARYA; KORM PALIK",
    "kanal": "osobiscie",
    "wraca": "300-06-27",
    "zamyka": "objazd odbyty",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-06-27",
+   "co": "AKT ZLAMANIA UGODY - LISTA EDMURE'A NIEPELNA (rzut 24): Zielone Widly bez zwiadu (Freyowie nie przepuscili). Krol decyduje: akt z lista niepelna ('i inne, ktorych lista zostanie dolaczona') albo wstrzymac do zwiadu; ewentualnie pismo do Waldera o przepuszczenie zwiadowcow (przez Perwyna). Pan uslyszy w Winterfell / krukiem.",
+   "kto": "KROL (prerogatywa); TOBIN",
+   "kanal": "Winterfell",
+   "wraca": "300-07-08",
+   "zamyka": "decyzja Krola o akcie",
    "status": "otwarte"
   }
  ],
@@ -8725,7 +8734,7 @@
     "dzien_miesiaca": 20
    },
    "opoznienie": 5,
-   "ostatnio_odebrane": "300-05-20",
+   "ostatnio_odebrane": "300-06-20",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -8763,7 +8772,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-20",
+   "ostatnio_odebrane": "300-06-27",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

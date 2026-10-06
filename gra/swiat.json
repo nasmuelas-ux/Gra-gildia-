@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 6,
-  "dzien": 26,
+  "dzien": 27,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 8 (300-06-26) - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, deszcz z wiatrem; poczta stoi (kruk z Winterfell i jezdziec z Dustinportu - 06-27).",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 4 (300-06-27) - JEDNA KONSEKWENCJA: sztorm wrocil w nocy, ulewa i wiatr od morza; woda wysoka - na przewloce druga mila pod woda.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

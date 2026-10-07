@@ -1141,5 +1141,22 @@
   "naleznosci_kwit_i_towar_w_drodze": 1205,
   "metoda": "E, wzor skarbca lenna 06-20: wplywy w monecie z modelu kasa.py od 300-04-01 (moneta+eskorta IV-VII ~2220-3634; spieniezenie natury VI-VII ~1552-4657, z czego ~60% w monecie - zaliczka 6/10 kwitu skladowego, ~40% w kwicie/towarze) = 3151-6428; wydatki Korony IV-VII BEZ LICZBY w ksiedze Skarbu (Przystan Wilka, trakty i mosty, ziarno siewne, Kamienny Brzeg, Mur, kancelaria, Dustinport/Starkport, itd.) 40-80% wplywow. Rzut 47 -> wplywy ~4691, wydatki ~61% (~2870), moneta ~1820, naleznosci ~1205. ZIMOWA STRAZ I GARNIZON WF - poza ta liczba (ksiega kasztelana do 07-26).",
   "zrodlo": "liczenie Gawena 300-07-14 (rzut 47 na ustalenie wielkosci), gra/ukryte/rzuty.log"
+ },
+ "_udzialy_wspolnikow": {
+  "_opis": "UDZIALY WSPOLNIKOW CALOSCI DOMU TALLY W ZYSKU (ustalone slowem pana/gracza 300-07-14). Wedlug nich Tam liczy kazda wyplate.",
+  "Symon": "1/3",
+  "Nesta": "1/3",
+  "Hal": "1/6",
+  "Mira": "1/6",
+  "premia_filii": "osobno - dla zarzadcow filii (mlodszych wspolnikow), nie z udzialow calosci",
+  "wyplata_VII_300": {
+   "dywidenda": 500,
+   "Symon": 166.67,
+   "Nesta": 166.67,
+   "Hal": 83.33,
+   "Mira": 83.33,
+   "premia_filii": 200,
+   "data": "300-07-12"
+  }
  }
 }

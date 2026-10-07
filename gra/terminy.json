@@ -9454,6 +9454,15 @@
    "wraca": "300-07-22",
    "zamyka": "rozpiska wyprawy i garnizonu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-12",
+   "co": "ZNAKI MOBILIZACJI LWA - RUBRYKA W RAPORCIE DOMU 1-GO (slowo pana 07-12): TAM - sygnaly gospodarcze (owies, podkowy, sukno, sol, konie, zaciag za zold; Seagard, Rozdroze, KP, kapitanowie z Lannisportu); WILLA - siatka (uspieni w KP, droga przez Rozdroze: oddzialy pod lwem - ilu, skad, dokad); metoda - Willi. Pilne (liczba ludzi pod bronia, data marszu) poza kolejka. ZACHOD bez oczu - biala plama z data. Wlasni - bez rzutu na wyslanie; tresc przy wiesci.",
+   "kto": "WILLA + TAM (Dom)",
+   "kanal": "kruk Winterfell-Fosa (Willa); kruk przez Bialy Port (Tam)",
+   "wraca": "300-08-03",
+   "zamyka": "pierwsza rubryka znakow mobilizacji w raporcie 08-01 (u pana ~08-03) albo meldunek pilny",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

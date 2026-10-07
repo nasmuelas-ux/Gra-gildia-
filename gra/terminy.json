@@ -9580,6 +9580,15 @@
    "wraca": "300-07-28",
    "zamyka": "moneta u faktora ZM, kwit w ksiedze Domu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-14",
+   "co": "KOSZARY SZARYCH PLASZCZY - RODZINY RAZEM W KOSZARACH (slowo pana 07-14): kilka izb podwojnych na rodziny (dwie izby w jedna, drzwi miedzy); Sten daje faktorowi liste rodzin (07-15); wprowadzenie ~IX bez zmian; koszt - ksiega Hala. Wlasni - bez rzutu.",
+   "kto": "STEN -> FAKTOR ZM; ciesle",
+   "kanal": "na miejscu, Zimowe Miasto",
+   "wraca": "300-09-01",
+   "zamyka": "koszary gotowe, przyboczni i rodziny wprowadzeni",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

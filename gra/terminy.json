@@ -9129,7 +9129,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-11",
    "zamyka": "rozmowa odbyta",
-   "status": "otwarte - slowo pana 07-10: JUTRO (07-11)"
+   "status": "zamkniete 300-07-11: powiedziane; Krol uwierzyl (rzut 43) - konsekwencja: krata na trzecich schodach"
   },
   {
    "data": "300-07-10",
@@ -9148,6 +9148,15 @@
    "wraca": "300-08-05",
    "zamyka": "instrukcja w Ksiedze Zimy / straz rozpisana na okret przed wyjazdem",
    "status": "zamkniete 300-07-11: niepotrzebne - karta Zimowej Strazy (III, IX) juz to obejmuje (pan); Krol do Rodrika ustnie tylko: 'okret liczy sie jak obcy zamek'"
+  },
+  {
+   "data": "300-07-11",
+   "co": "KRYPTY - KRATA NA TRZECICH SCHODACH (slowo Krola 07-11, rzut 43 - konsekwencja): kowal zamkowy, krata z drzwiczkami, klucz u Krola; szczelina dla Kudlacza zostaje; Rickon nie dalej niz krata. Rickon przeciw.",
+   "kto": "KROL -> KOWAL ZAMKOWY (przez kasztelana)",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-13",
+   "zamyka": "krata stoi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

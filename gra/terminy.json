@@ -8980,7 +8980,7 @@
   },
   {
    "data": "300-07-09",
-   "co": "KARSTARK - ODPOWIEDZ KROLA NA WARUNEK 'HARRION Z IMIENIA' (decyzja 07-09, rzut 9 - jedna konsekwencja): KROL ODMAWIA TERAZ wpisania imienia Harriona do pisma do Lannisterow ('Imie w liscie do Lwa to cena na jego glowie. Tywin podniesie ja, a potem kaze komus ja zaplacic.'); pisze do Rickarda sam, ze sprawa Harriona idzie inna droga (Edmure/Maidenpool, wymiana jencow - bez slowa na pismie do KP). KONSEKWENCJA: Karstark uslyszy 'nie' - jego zal rosnie (sprawa do jesieni); RZUT przy jego odpowiedzi.",
+   "co": "KARSTARK - ODPOWIEDZ KROLA NA WARUNEK 'HARRION Z IMIENIA' (decyzja 07-09, rzut 9 - jedna konsekwencja): KROL ODMAWIA TERAZ wpisania imienia Harriona do pisma do Lannisterow ('Imie w liscie do Lwa to cena na jego glowie. Tywin podniesie ja, a potem kaze komus ja zaplacic.'); pisze do Rickarda sam, ze sprawa Harriona idzie inna droga (Edmure/Maidenpool, wymiana jencow - bez slowa na pismie do KP). KONSEKWENCJA: Karstark uslyszy 'nie' - jego zal rosnie (sprawa do jesieni); RZUT przy jego odpowiedzi. ### 07-11: ZMIANA - rozkaz Krola dla Dorzecza (rzut 99) z odpisem do Kevana/Tywina NAZYWA HARRIONA jako warunek wyjscia z Maidenpool ('warunkiem, nie cena'). Warunek Rickarda (imie w pismie do Lwa) spelniony w tresci - odczyt Sansy. Odpowiedz Rickarda (statki na Skagos?) - RZUT przy wiesci.",
    "kto": "KROL -> RICKARD KARSTARK",
    "kanal": "kruk Winterfell-Karhold",
    "wraca": "300-07-16",
@@ -9373,6 +9373,15 @@
    "wraca": "300-08-05",
    "zamyka": "Harrion wydany albo odmowa Lwa",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "MAIDENPOOL - CZY LEW WYWOZI HARRIONA PRZED 08-05 (ryzyko wskazane przez Sanse 07-11): obserwowac droge z Maidenpool na poludnie - wozy z eskorta przed terminem. Kto: LYMAN (Riverrun) i DERON SUCHY (Rozdroze) - przez Lucana. Odczyt - rzut przy meldunku.",
+   "kto": "LUCAN -> LYMAN + DERON",
+   "kanal": "jezdziec/kruk do Riverrun; meldunek przez Lymana",
+   "wraca": "300-08-01",
+   "zamyka": "meldunek: Harrion w Maidenpool albo wywieziony",
+   "status": "otwarte - do slowa pana (rada Sansy)"
   }
  ],
  "_dopiski_300_03_18": [

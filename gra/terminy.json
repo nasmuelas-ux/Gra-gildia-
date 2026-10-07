@@ -2241,10 +2241,10 @@
   },
   {
    "data": "300-03-12",
-   "co": "GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem.' [VOID 300-04-13: Catelyn jest w Dorzeczu, nie w Dolinie.] Dolina nic nie powiedziala. ### WRACA, GDY DOLINA COKOLWIEK POWIE - i wtedy bedzie to decyzja o interesie, nie o zakladzie. ### 06-15: decyzja stoi; przeglad przy kartach krolestw (VII).",
+   "co": "GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem.' [VOID 300-04-13: Catelyn jest w Dorzeczu, nie w Dolinie.] Dolina nic nie powiedziala. ### WRACA, GDY DOLINA COKOLWIEK POWIE - i wtedy bedzie to decyzja o interesie, nie o zakladzie. ### 06-15: decyzja stoi; przeglad przy kartach krolestw (VII). ### 07-10 PRZEGLAD PANA: ZOSTAWIC - Gulltown zamkniete, dopoki Dolina nie przemowi. Nastepny przeglad przy kartach krolestw (VIII).",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-07-15",
+   "wraca": "300-08-10",
    "zamyka": "Dolina mowi cokolwiek - wtedy pytanie wraca",
    "status": "otwarte - ODLOZONE Z POWODEM"
   },
@@ -9093,6 +9093,15 @@
    "kanal": "Winterfell",
    "wraca": "300-08-01",
    "zamyka": "dwa imiona sedziow + pisarze przy komorach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-10",
+   "co": "LYS I DLUGI LANNISTEROW - PROBA SANSY (narada 07-10): hipoteza (ODCZYT, nie fakt): kupiec z Lys, ktory skupuje kwity rekwizycyjne Lwa na Rozdrozu i w Maidenpool (Lucan) i pytal o zboze 'z Myr' (Nesta), moze byc REKA SAMEGO TYWINA - dluznik wykupujacy wlasne dlugi tanio przez posrednika. PROBA: ludzie Hala PODNOSZA CENE na kwity (kilka partii); jesli Lyseni przebija za kazdym razem niezaleznie od ceny - kupuje dluznik (bo dla niego kwit wart jest pelnej wartosci); jesli odpuszcza - spekulant. Druga proba (Willa/Hal): gdzie Lyseni kwity ODDAJE - jesli nigdzie nie wystawia ich do zaplaty w KP, tylko znikaja - to wykup. Wynik - RZUT przy meldunku Hala.",
+   "kto": "HAL (cena) + WILLA (gdzie znikaja kwity) ; SANSA (odczyt)",
+   "kanal": "kruk Winterfell-Bialy Port; siatka Willi",
+   "wraca": "300-08-05",
+   "zamyka": "wiadomo, czy Lyseni to dluznik czy spekulant (albo wiadomo, czemu nie wiadomo)",
    "status": "otwarte"
   }
  ],

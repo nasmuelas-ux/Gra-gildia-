@@ -9070,7 +9070,7 @@
   },
   {
    "data": "300-07-10",
-   "co": "DREADFORT NA SKAGOS - WEZWANIE KROLA (zgoda pana 07-10, pomysl Krola i Cerwyna): Krol wzywa z Dreadfortu DWUDZIESTU ZBROJNYCH na wyprawe na Skagos 'jako honor i powinnosc'; w liscie prosi o 'synow urzednikow Dreadfortu' do wlasnej strazy okretu (wsrod nich - syn swiadka, bez wyrozniania; Cerwyn podaje Krolowi imie ustnie). Cel: Roose widzi flote z pokladu; syn swiadka w sluzbie Korony, daleko od Dreadfortu. List Krola po wyjezdzie swiadka (~07-15). Wola Roose'a - RZUT przy odpowiedzi. ### 07-10: dwudziestu wsiada na okret Krola W BOLTONSGATE podczas wizyty (~08-14).",
+   "co": "DREADFORT NA SKAGOS - WEZWANIE KROLA (zgoda pana 07-10, pomysl Krola i Cerwyna): Krol wzywa z Dreadfortu DWUDZIESTU ZBROJNYCH na wyprawe na Skagos 'jako honor i powinnosc'; w liscie prosi o 'synow urzednikow Dreadfortu' do wlasnej strazy okretu (wsrod nich - syn swiadka, bez wyrozniania; Cerwyn podaje Krolowi imie ustnie). Cel: Roose widzi flote z pokladu; syn swiadka w sluzbie Korony, daleko od Dreadfortu. List Krola po wyjezdzie swiadka (~07-15). Wola Roose'a - RZUT przy odpowiedzi. ### 07-10: dwudziestu wsiada na okret Krola W BOLTONSGATE podczas wizyty (~08-14). ### 07-10 (rada Sansy, slowo pana 'tak'): NA CZELE DWUDZIESTU - RAMSAY, WEZWANY Z IMIENIA jako dowodca ludzi Dreadfortu na wyprawe (zeby w czasie porodu Waldy - IX/X - byl na okrecie Krola). PREROGATYWA KROLA - pan przedklada Krolowi (rzut przy decyzji).",
    "kto": "KROL -> ROOSE BOLTON",
    "kanal": "kruk Winterfell-Dreadfort",
    "wraca": "300-07-22",
@@ -9102,6 +9102,15 @@
    "kanal": "kruk Winterfell-Bialy Port; siatka Willi",
    "wraca": "300-08-05",
    "zamyka": "wiadomo, czy Lyseni to dluznik czy spekulant (albo wiadomo, czemu nie wiadomo)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-10",
+   "co": "WALDA BOLTON - POROD (maester Dreadfortu: 'przed zima', ~IX/X) - OBAWY O DZIEDZICA (odczyt Sansy: dzien porodu najniebezpieczniejszy na Dreadforcie; klauzula prawego loza przeciw Ramsayowi). SLOWO PANA 07-10: (1) Ramsay na czele dwudziestu na Skagos - do Krola; (2) NIC BEZ ZGODY BOLTONA - zadnej poloznej, maestra ani listu Krolowej do Waldy z oferta pomocy, zanim Roose sie nie zgodzi; (3) KROL PRZY WIZYCIE W DREADFORCIE (~08-14) PYTA ROOSE'A PRYWATNIE: czy Walda chce rodzic w Winterfell ('o kazdej porze dnia i nocy' - 05-10) albo czy przyjmie polozna/maestra od Korony. Wola Roose'a - RZUT przy rozmowie.",
+   "kto": "KROL -> ROOSE (prywatnie, przy wizycie)",
+   "kanal": "osobiscie, Dreadfort",
+   "wraca": "300-08-14",
+   "zamyka": "odpowiedz Roose'a: Winterfell / pomoc Korony / nic",
    "status": "otwarte"
   }
  ],

@@ -1133,5 +1133,13 @@
   "zrodlo": "rozstrzygniecie gracza 300-06-20 (Fosa, izba rzadcy); kasa.py miesiac 300-03..06",
   "pozyczka_domu": "ZGODA PANA 300-06-21: jawna pozyczka z sakwy pana na skarbiec lenna, gdyby lipiec nie domknal pozycji (a)-(c) kolejnosci Warryna; na papierze w obu ksiegach (Hal + Warryn), kwota z wniosku Warryna przy rozliczeniu 07-05/08-05; bez procentu (E). Na dzis: NIE UDZIELONA.",
   "prog_rady": "300-06-21: wydatek jednorazowy ze skarbca lenna PONAD 50 SMOKOW - tylko za pieczecia pana; do 50 - Rada Lenna i protokol."
+ },
+ "_skarbiec_korony": {
+  "_opis": "SKRZYNIA SKARBU KORONY (Kasa 3) - USTALONA PRZY LICZENIU 300-07-14 (Gawen + Beron swiadek). Od tej liczby sie liczy dalej (zasada 43: liczba raz ustalona jest ustalona).",
+  "na_dzien": "300-07-14",
+  "moneta_w_skrzyni": 1820,
+  "naleznosci_kwit_i_towar_w_drodze": 1205,
+  "metoda": "E, wzor skarbca lenna 06-20: wplywy w monecie z modelu kasa.py od 300-04-01 (moneta+eskorta IV-VII ~2220-3634; spieniezenie natury VI-VII ~1552-4657, z czego ~60% w monecie - zaliczka 6/10 kwitu skladowego, ~40% w kwicie/towarze) = 3151-6428; wydatki Korony IV-VII BEZ LICZBY w ksiedze Skarbu (Przystan Wilka, trakty i mosty, ziarno siewne, Kamienny Brzeg, Mur, kancelaria, Dustinport/Starkport, itd.) 40-80% wplywow. Rzut 47 -> wplywy ~4691, wydatki ~61% (~2870), moneta ~1820, naleznosci ~1205. ZIMOWA STRAZ I GARNIZON WF - poza ta liczba (ksiega kasztelana do 07-26).",
+  "zrodlo": "liczenie Gawena 300-07-14 (rzut 47 na ustalenie wielkosci), gra/ukryte/rzuty.log"
  }
 }

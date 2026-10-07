@@ -9184,6 +9184,24 @@
    "wraca": "300-07-25",
    "zamyka": "plan Ilaria z nakladem i cena (07-25); zamowienia zamkniete 09-30; kalendarze rozwiezione przed 301-01-01",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "NESTA - UBEZPIECZYCIELE W BRAAVOS (rada Lucana, zgoda pana 07-11): nie CO wiedza o zelaznych, tylko OD KIEDY wylaczyli zachodnie wybrzeze (Dustinport, Kamienny Brzeg) z polisy i KTO PIERWSZY o to prosil / komu odmowili. Bez imienia Korony. Odpowiedz - RZUT przy meldunku.",
+   "kto": "SYMON -> NESTA (kantor Braavos)",
+   "kanal": "kruk Winterfell-Bialy Port + statek do Braavos (~3 tyg.) i z powrotem",
+   "wraca": "300-08-28",
+   "zamyka": "meldunek Nesty: data i kto",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "SEAGARD - PLACOWKA SLUCHA O ZELAZNYCH ZAGLACH (rada Lucana, zgoda pana 07-11): kupiec pyta u Mallisterow i w porcie o zagle z Wysp, bo 'boi sie o towar' - liczba, kierunek, kiedy; zadnych pytan o Korone. Meldunek do Lucana przez Lymana. Odzew Mallisterow - RZUT przy pierwszym meldunku.",
+   "kto": "LUCAN -> placowka Seagard (przez Lymana od Brodow)",
+   "kanal": "jezdziec Winterfell-Fosa-Przesmyk-Riverrun-Seagard (~14 dni) i z powrotem",
+   "wraca": "300-08-10",
+   "zamyka": "pierwszy meldunek o zaglach z Seagard",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**192 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**191 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -862,7 +862,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-11** — NESTA - UBEZPIECZYCIELE W BRAAVOS (rada Lucana, zgoda pana 07-11): nie CO wiedza o zelaznych, tylko OD KIEDY wylaczyli zachodnie wybrzeze (Dustinport, Kamienny Brzeg) z polisy i KTO PIERWSZY o to prosil / komu odmowili. Bez imienia Korony. Odpowiedz - RZUT przy meldunku. · _kto:_ **SYMON -> NESTA (kantor Braavos)** · _zamyka:_ meldunek Nesty: data i kto
 - **300-07-11** — SEAGARD - PLACOWKA SLUCHA O ZELAZNYCH ZAGLACH (rada Lucana, zgoda pana 07-11): kupiec pyta u Mallisterow i w porcie o zagle z Wysp, bo 'boi sie o towar' - liczba, kierunek, kiedy; zadnych pytan o Korone. Meldunek do Lucana przez Lymana. Odzew Mallisterow - RZUT przy pierwszym meldunku. · _kto:_ **LUCAN -> placowka Seagard (przez Lymana od Brodow)** · _zamyka:_ pierwszy meldunek o zaglach z Seagard
 - **300-07-11** — PYKE - ZLOTO NA TARGU W LORDSPORT (rada Lucana, zgoda pana 07-11; dopisek do listu Willi): czy zelazni tego lata PLACA zlotem za drewno, smole, zelazo; czyja moneta; od kiedy. Oczy: kupiec ksiag (rejs ~07-20) + nic do Harlawa. Sluchac, nie pytac. Proba hipotezy 'Lew przez trzecia reke'. Odpowiedz - RZUT przy meldunku. · _kto:_ **WILLA (kupiec ksiag, nic Harlawa)** · _zamyka:_ meldunek o monecie na targu w Lordsport
-- **300-07-11** — KARHOLD NA WYPRAWIE - RADA DO KROLA (Lucan, zgoda pana 07-11): przy Karholdzie bekart z Dreadfortu NIE SCHODZI na lad; chorągiew Dreadfortu nie na maszcie Krola. Pan przedklada Krolowi. Slowo Krola - RZUT przy przedlozeniu (prerogatywa). · _kto:_ **SYMON -> KROL** · _zamyka:_ slowo Krola
+- **300-07-11** — KARHOLD NA WYPRAWIE - RADA DO KROLA (Lucan, zgoda pana 07-11): przy Karholdzie bekart z Dreadfortu NIE SCHODZI na lad; chorągiew Dreadfortu nie na maszcie Krola. Pan przedklada Krolowi. Slowo Krola - RZUT przy przedlozeniu (prerogatywa). · _kto:_ **SYMON -> KROL** · _zamyka:_ slowo Krola **⚠ ZAMKNIETE 300-07-11: KROL TAK (RZUT 37) - PRZY KARHOLDZIE SCHODZI TYLKO KROL ZE STRAZA; KONSEKWENCJA: LORDOWIE FLOTY NA POKLADZIE, SZEMRANIE**
 - **300-07-11** — DREADFORT - UBYTEK LUDZI LICZONY W TRZECH OKRESACH (rada Lucana, zgoda pana 07-11; dopisek do Willi): przed wyjazdem bekarta na Skagos (~08-12), w czasie wyprawy, po powrocie - ta sama metoda co od dwoch lat, bez nowych pytan. Naturalna proba bez swiadka. Wlasni - bez rzutu na liczenie; odczyt - przy meldunku. · _kto:_ **WILLA** · _zamyka:_ trzy liczby obok siebie (przed / w czasie / po)
 - **300-07-11** — ZAKRES REGENCJI NAMIESTNIKA NA CZAS WYPRAWY (rada Lucana, zgoda pana 07-11; Krol 07-09: 'spiszemy przed wyplynieciem, czego nie rozstrzygasz sam'): (a) czego regent nie rozstrzyga sam; (b) CO, JESLI KROL NIE WROCI - dziedzic Eddard (ur. 300-04-14/15), Krolowa Roslin, luka maloletnosci w karcie Zimowej Strazy (powinnosc Pierwszego Miecza do urzedu, nie do slowa osoby - wymaga slowa Krola i Pierwszego Miecza). Szkic - Lucan; czyta Cerwyn; podpis Krola. Slowo Krola - RZUT przy przedlozeniu. · _kto:_ **LUCAN (szkic) -> SYMON -> CERWYN (prawo) -> KROL + SER RODRIK** · _zamyka:_ akt regencji podpisany przez Krola przed wyjazdem
 - **300-07-11** — MANCE - DWA LISTY PRZED ODPOWIEDZIA (rada Lucana, zgoda pana 07-11): szkic na TAK (Cypel, przewoz przez Zatoke Lodu, zboze Tallharta, co powiedziec lordom tego samego dnia) i na NIE (dzicy przyjda bez przysiegi - lancuch ognia, Mur, Kamienny Brzeg). Lucan pisze, pan przedklada Krolowi (list Korony - Krol). Wlasni - bez rzutu. · _kto:_ **LUCAN -> SYMON -> KROL** · _zamyka:_ oba szkice gotowe przed wiescia od Dacey (~07-15)
@@ -2211,7 +2211,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-11] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON: czy Lucan chce cos jeszcze dodac? Bez rzutu. LUCAN - trzy rzeczy: (1) UMOWA - 'Moj wzor zaplaty lezy u ciebie bez slowa: pensja jak Garrick, ale mniej, plu…
 - [300-07-11] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON: zgoda na UMOWE Lucana (wzor: pensja stala liczona przez Hala wzgledem Garricka - mniej; premia od wyniku policzalnego w ksiedze Hala: Kompania, kwity Lwa…
 - [300-07-11] `LUCAN`: UMOWA DORADCY - ZGODA PANA na wzor Lucana (pensja < Garrick, premia od liczb Hala; Kasa 1/Kasa 2). Kwoty liczy Hal. Symon na pytanie Lucana o siebie: 'Coraz lepiej, spedzam wiecej czasu z ro…
 - [300-07-11] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON PISZE DO GARRICKA (wlasna reka, pieczec Namiestnika, kruk Winterfell-Fosa dzis): Lucan Wode jest doradca pana - rozwoj Domu i lenna, czyta stol pana; GARR…
@@ -2223,3 +2222,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-11] `MIRA`: OBIAD (cd.) - Symon gratuluje Mirze. Mira: 'Dziekuje.' - i, ciszej: 'Dobrze, ze zapytales.'
 - [300-07-11] `dziennik`: PO OBIEDZIE, SOLAR KROLA - SYMON PRZEDKLADA PLAN DLA DORZECZA (Protektorat; wykonanie aktu zlamania ugody z 06-28): rozkaz Krola Tridentu do Edmure'a - lordowie Dorzecza OTACZAJA garnizony L…
 - [300-07-11] `EDMURE`: ROZKAZ KROLA TRIDENTU (rzut 99): otoczyc garnizony Lwa bez szturmu; zakaz handlu i kwitow Lwa; wyjscie do 300-08-05 wolna droga na poludnie; najpierw liczba (10 dni, Lyman); straze drog karm…
+- [300-07-11] `dziennik`: SOLAR KROLA (cd.) - SYMON mowi Krolowi o KARHOLDZIE I BEKARCIE (rada Lucana): przy Karholdzie bekart nie schodzi na lad; chorągiew Dreadfortu nie na maszcie Krola. RZUT 37 (prerogatywa): TAK…

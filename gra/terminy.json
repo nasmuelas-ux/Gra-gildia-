@@ -8971,7 +8971,7 @@
   },
   {
    "data": "300-07-09",
-   "co": "SKAGOS - WYPRAWA KROLA Z FLOTA (decyzja 07-09, rzut 92): Krol plynie na czele floty wschodu z obstawa, by oficjalnie przyjac przysiege Skagos; MIEJSCE WYZNACZA KROL - plaza pod Kingshouse, pod choragwia Starkow, Magnar przychodzi na brzeg. FLOTA: okrety wojenne WYMANA + lodzie FLINTOW z Wdowiej Straznicy (lady Lyessa) + (jesli da) Mormontowie; BEZ KARHOLDU ('nie potrzebujemy jego statkow' - Karhold ma ich niewiele, zgodnie ze slowem pana). Pora: koniec lata, przed jesiennymi sztormami (E ~08-25..09-10). KOMUNIKAT USTNY przez czlowieka Lyessy do Kingshouse. Koszt - Kasa 3, kosztorys GAWEN (E). Listy Krola: Wyman (okrety, liczba), Lyessa (lodzie + posel). Wola Wymana i Lyessy - RZUT przy odpowiedziach.",
+   "co": "SKAGOS - WYPRAWA KROLA Z FLOTA (decyzja 07-09, rzut 92): Krol plynie na czele floty wschodu z obstawa, by oficjalnie przyjac przysiege Skagos; MIEJSCE WYZNACZA KROL - plaza pod Kingshouse, pod choragwia Starkow, Magnar przychodzi na brzeg. FLOTA: okrety wojenne WYMANA + lodzie FLINTOW z Wdowiej Straznicy (lady Lyessa) + (jesli da) Mormontowie; BEZ KARHOLDU ('nie potrzebujemy jego statkow' - Karhold ma ich niewiele, zgodnie ze slowem pana). Pora: koniec lata, przed jesiennymi sztormami (E ~08-25..09-10). KOMUNIKAT USTNY przez czlowieka Lyessy do Kingshouse. Koszt - Kasa 3, kosztorys GAWEN (E). Listy Krola: Wyman (okrety, liczba), Lyessa (lodzie + posel). Wola Wymana i Lyessy - RZUT przy odpowiedziach. ### 07-10 (rada pana, rzut 4 - jedna konsekwencja): TRASA = OBJAZD WSCHODU: Bialy Port -> BOLTONSGATE i DREADFORT (Krol wita Roose'a u siebie, 'zeby Bolton nie byl jedynym, ktorego omijam'; dwudziestu z Dreadfortu wsiada TAM) -> KARHOLD / Ostatnia Rzeka (Rickard) -> SKAGOS (plaza pod Kingshouse). KONSEKWENCJA: objazd dodaje ~10 dni, a Zatoka Fok po polowie IX sztormuje - WYPLYNIECIE PRZESUNIETE NA ~08-12 z Bialego Portu (Krol z Winterfell ~08-05); Wyman musi miec okrety gotowe do ~08-10 (w liscie Krola) - mniej czasu z matka po jej powrocie (~07-25).",
    "kto": "KROL -> WYMAN, LYESSA FLINT; GAWEN (koszt)",
    "kanal": "kruki Winterfell-Bialy Port / Wdowia Straznica",
    "wraca": "300-07-20",
@@ -9034,10 +9034,10 @@
   },
   {
    "data": "300-07-09",
-   "co": "POD NIEOBECNOSC KROLA (wyprawa na Skagos ~08-25..09-10): NAMIESTNIK ZOSTAJE W WINTERFELL PRZY KROLESTWIE (slowo pana 07-09); pieczec i decyzje biezace - Namiestnik; prerogatywy - czekaja na Krola albo krukiem na okret (Wyman). Ustalic przed wyplynieciem: zakres i lista spraw, ktorych Namiestnik nie rozstrzyga sam.",
+   "co": "POD NIEOBECNOSC KROLA (wyprawa na Skagos ~08-25..09-10): NAMIESTNIK ZOSTAJE W WINTERFELL PRZY KROLESTWIE (slowo pana 07-09); pieczec i decyzje biezace - Namiestnik; prerogatywy - czekaja na Krola albo krukiem na okret (Wyman). Ustalic przed wyplynieciem: zakres i lista spraw, ktorych Namiestnik nie rozstrzyga sam. ### 07-10: wyjazd Krola z Winterfell ~08-05 (objazd wschodu + Skagos) - zastepstwo od tej daty.",
    "kto": "KROL + SYMON",
    "kanal": "osobiscie",
-   "wraca": "300-08-20",
+   "wraca": "300-08-01",
    "zamyka": "zakres zastepstwa spisany przed wyplynieciem",
    "status": "otwarte"
   },
@@ -9070,7 +9070,7 @@
   },
   {
    "data": "300-07-10",
-   "co": "DREADFORT NA SKAGOS - WEZWANIE KROLA (zgoda pana 07-10, pomysl Krola i Cerwyna): Krol wzywa z Dreadfortu DWUDZIESTU ZBROJNYCH na wyprawe na Skagos 'jako honor i powinnosc'; w liscie prosi o 'synow urzednikow Dreadfortu' do wlasnej strazy okretu (wsrod nich - syn swiadka, bez wyrozniania; Cerwyn podaje Krolowi imie ustnie). Cel: Roose widzi flote z pokladu; syn swiadka w sluzbie Korony, daleko od Dreadfortu. List Krola po wyjezdzie swiadka (~07-15). Wola Roose'a - RZUT przy odpowiedzi.",
+   "co": "DREADFORT NA SKAGOS - WEZWANIE KROLA (zgoda pana 07-10, pomysl Krola i Cerwyna): Krol wzywa z Dreadfortu DWUDZIESTU ZBROJNYCH na wyprawe na Skagos 'jako honor i powinnosc'; w liscie prosi o 'synow urzednikow Dreadfortu' do wlasnej strazy okretu (wsrod nich - syn swiadka, bez wyrozniania; Cerwyn podaje Krolowi imie ustnie). Cel: Roose widzi flote z pokladu; syn swiadka w sluzbie Korony, daleko od Dreadfortu. List Krola po wyjezdzie swiadka (~07-15). Wola Roose'a - RZUT przy odpowiedzi. ### 07-10: dwudziestu wsiada na okret Krola W BOLTONSGATE podczas wizyty (~08-14).",
    "kto": "KROL -> ROOSE BOLTON",
    "kanal": "kruk Winterfell-Dreadfort",
    "wraca": "300-07-22",

@@ -9282,7 +9282,7 @@
    "kanal": "osobiscie, Winterfell; rozkaz krukiem Winterfell-Riverrun",
    "wraca": "300-07-12",
    "zamyka": "slowo Krola (rozkaz wyslany albo odlozony z data)",
-   "status": "otwarte - pan idzie z planem do Krola 07-12"
+   "status": "zamkniete 300-07-11: KROL TAK (rzut 99) - rozkaz wyslany dzis o zmierzchu; dalej osobne pozycje"
   },
   {
    "data": "300-07-11",
@@ -9336,6 +9336,42 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-31",
    "zamyka": "pierwsza karta szkoly ZM od Miry",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "DORZECZE - ROZKAZ KROLA TRIDENTU W WYKONANIU (rzut 99): (a) Edmure + Lyman licza garnizony i ludzi w 10 dni; (b) obwieszczenie na slupach (zakaz handlu z garnizonami i kwitow Lwa); (c) lordowie otaczaja garnizony bez szturmu; (d) DZIEN WYJSCIA 300-08-05, wolna droga na poludnie z bronia i chorągwiami. Odpowiedz Edmure'a (wykonanie) i reakcja garnizonow/Tywina - RZUTY przy wiesciach.",
+   "kto": "KROL -> EDMURE (+ LYMAN liczy)",
+   "kanal": "kruk Winterfell-Riverrun (o zmierzchu 07-11); wiesc z Riverrun krukiem",
+   "wraca": "300-07-21",
+   "zamyka": "liczba Edmure'a + obwieszczenie na slupach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "DORZECZE - DZIEN WYJSCIA GARNIZONOW LWA: 300-08-05 (slowo Krola). Czy wyszli, ktore, dokad; kto zostal. Krol chce wiedziec przed wyjazdem na Skagos.",
+   "kto": "EDMURE -> KROL",
+   "kanal": "kruk Riverrun-Winterfell",
+   "wraca": "300-08-05",
+   "zamyka": "meldunek o wyjsciu (albo o odmowie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "DORZECZE - ZIARNO DLA STRAZY DROG EDMURE'A NA CZAS OBLEZENIA (Krol 07-11): przez Kompanie, placi Korona (Kasa 3, Gawen); 'syci moi, glodni ich'. Ilosc - Edmure podaje ludzi, Gawen liczy. Urzednicy/Kompania - bez rzutu na wyslanie.",
+   "kto": "GAWEN (Kasa 3) + KOMPANIA (Lyman)",
+   "kanal": "kruk Winterfell-Riverrun; kolumny Kompanii",
+   "wraca": "300-07-25",
+   "zamyka": "pierwsza kolumna ziarna u strazy Edmure'a",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "MAIDENPOOL - WOLNA DROGA TYLKO Z HARRIONEM (Krol 07-11): garnizon Maidenpool wychodzi, gdy Harrion Karstark zostanie wydany czlowiekowi Karstarka przy wymianie jencow; 'kto wyjdzie bez niego, nie wyjdzie wcale'. List Krola do Rickarda: 'Twoj syn jest warunkiem, nie cena.' Odpowiedz Lwa - RZUT przy wiesci.",
+   "kto": "KROL -> EDMURE / garnizon Maidenpool; KROL -> RICKARD",
+   "kanal": "kruk Winterfell-Riverrun; kruk Winterfell-Karhold",
+   "wraca": "300-08-05",
+   "zamyka": "Harrion wydany albo odmowa Lwa",
    "status": "otwarte"
   }
  ],

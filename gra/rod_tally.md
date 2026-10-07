@@ -26,13 +26,13 @@ _Plik wydzielony 300-06-22 na polecenie pana, z `struktura_domu_tally.md`. Ten p
 
 
 ## I-A. PLAN NAUKI RODU TALLY: SPISAŁA MIRA (300-07-01, wieczorem), dla pana na drogę (07-02)
-*Szkic do słowa pana. Wiek progu ustala pan. Kwot nie ma, bo wszystko to robią ludzie Domu i lenna.*
+*Szkic do słowa pana. **Wiek progu: 7 lat — pan, 300-07-09 (Winterfell).** Kwot nie ma, bo wszystko to robią ludzie Domu i lenna.*
 
 **1. Dom (do ~7 lat).** Mowa, pieśni i bajki (Niania, Rhona). Litery jako zabawa: matka, tabliczka, węgiel. Pływanie i łódź, bo **na bagnie dziecko, które nie pływa, jest w niebezpieczeństwie**. Zwierzęta: pies, koń. Prawo gościa i obyczaj obu wiar przy stole.
 
 **2. Szkoła wspólna (~7 do progu).** Razem z dziećmi Fosy albo Winterfell, **na tej samej ławie**. Litery, pisanie, rachunek, miara. Dzieje rodów Północy. Zioła i rany (Nina, Edmund). Konno, łuk, nóż, a dla chętnych miecz. **Jedno rzemiosło własnymi rękami doprowadzone do rzeczy, która działa** (Kanon Starków). Do tego to, czego Starkowie nie potrzebują: **księga, igła, kantor i port**, czyli rachunek kupiecki, szycie, ważenie towaru i rozładunek.
 
-**3. Próba progu (~12 lat).** Litery i miara według Kanonu. Dziecko **samo wpisuje wybór do księgi własnymi słowami**.
+**3. Próba progu — 7 LAT (słowo pana 300-07-09).** ~~(~12 lat)~~ Litery i miara według Kanonu. Dziecko **samo wpisuje wybór do księgi własnymi słowami**.
 
 **4. Ścieżki po progu.**
 - **Kantor (Dom):** kopista, faktor, zarządca filii, wspólnik. Awans za wykonane zadanie, nie z wiekiem.

@@ -8166,7 +8166,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-08",
    "zamyka": "spisany plan nauki rodu Tally przeczytany przez pana",
-   "status": "SPISANY 300-07-01 wieczorem (Mira) - gra/rod_tally.md cz. I-A; dany panu rano 07-02 na droge. ZAMYKA SIE, gdy pan przeczyta (slowo pana: wiek progu, uwagi)."
+   "status": "ZAMKNIETE 300-07-09 - spisany 07-01 (Mira); pan zatwierdzil; WIEK PROGU: 7 LAT."
   },
   {
    "data": "300-06-22",
@@ -9057,6 +9057,15 @@
    "kanal": "ustnie: jezdziec Winterfell -> Dagon (pas sporny); Hal - kruk do BP (bez imienia: 'rodzina pod opieka Domu z Placzacej Wody')",
    "wraca": "300-07-22",
    "zamyka": "swiadek z rodzina w Przystani Wilka albo wiadomo, czemu nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "RICKON - BRAN PYTA BRATA, CZY MOZE POWIEDZIEC ROBBOWI O JEGO SNACH (Kudlacz, krypty) - rada Miry, zgoda pana 07-09. Obietnica pana wobec Rickona (04-12: nie mowic Robbowi) NIENARUSZONA - mowi Bran, jesli Rickon pozwoli. Wola Rickona - RZUT przy odpowiedzi. Jesli tak - Bran mowi Krolowi przy panu (jak 07-08).",
+   "kto": "SYMON -> BRAN -> RICKON",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-11",
+   "zamyka": "zgoda albo odmowa Rickona; jesli zgoda - Krol wie",
    "status": "otwarte"
   }
  ],

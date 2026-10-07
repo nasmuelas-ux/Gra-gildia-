@@ -3415,10 +3415,10 @@
   },
   {
    "data": "300-04-06",
-   "co": "BRYNDEN TULLY PRZYJEZDZA DO PRZYSTANI WILKA - pierwszy mistrz akademii. Warunki: 'z pierwsza woda' i slowo Catelyn, ze Riverrun go nie potrzebuje; zastepce wybiera sam na miejscu. ### 05-14 (Symon): PRZY PRZYJEZDZIE - Symon prosi Bryndena o STATUS DORZECZA: przygotowanie Dorzecza do wojny (zadanie Bryndena - slowo gracza; zapis 298-11: wspolny plan Symona i Bryndena dlugiej wojny), garnizony, wiernosc lordow - porownac z odpowiedzia Edmure'a/Catelyn (~05-26). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): NIE PRZYJECHAL (rzut 34) - list Bryndena przez Przesmyk: Riverrun trzyma go, dopoki listy Edmure'a nie wyjda razem z aktem (~06-28); 'w Przystani Wilka bede ~07-10'. Baszta Borsa gotowa. ### 07-10: NIE PRZYSZLO I WIADOMO DLACZEGO: wiesc z Przystani Wilka idzie jezdzcem Borsa przez zamek Cerwyn albo krukiem przez Fose - w Winterfell ~07-13 (zasada 34).",
+   "co": "BRYNDEN TULLY PRZYJEZDZA DO PRZYSTANI WILKA - pierwszy mistrz akademii. Warunki: 'z pierwsza woda' i slowo Catelyn, ze Riverrun go nie potrzebuje; zastepce wybiera sam na miejscu. ### 05-14 (Symon): PRZY PRZYJEZDZIE - Symon prosi Bryndena o STATUS DORZECZA: przygotowanie Dorzecza do wojny (zadanie Bryndena - slowo gracza; zapis 298-11: wspolny plan Symona i Bryndena dlugiej wojny), garnizony, wiernosc lordow - porownac z odpowiedzia Edmure'a/Catelyn (~05-26). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): NIE PRZYJECHAL (rzut 34) - list Bryndena przez Przesmyk: Riverrun trzyma go, dopoki listy Edmure'a nie wyjda razem z aktem (~06-28); 'w Przystani Wilka bede ~07-10'. Baszta Borsa gotowa. ### 07-10: NIE PRZYSZLO I WIADOMO DLACZEGO: wiesc z Przystani Wilka idzie jezdzcem Borsa przez zamek Cerwyn albo krukiem przez Fose - w Winterfell ~07-13 (zasada 34). ### 07-13: dzis wiesci byc nie moze - burza (pogoda 3), kruki nie lataja, Przystan Wilka -> Winterfell jezdzcem Borsa; WIESC ~07-14 (rzut przy wiesci).",
    "kto": "BRYNDEN TULLY",
    "kanal": "poczta Korony na poludnie przez Przesmyk",
-   "wraca": "300-07-13",
+   "wraca": "300-07-14",
    "zamyka": "Brynden w baszcie Przystani Wilka - albo list z nowa data",
    "status": "otwarte"
   },
@@ -9156,7 +9156,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-13",
    "zamyka": "krata stoi",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-13 - krata stoi (kowal zamkowy skonczyl 07-12 wieczorem; Rickon przy kolacji: 'ma juz wszystkie prety'); klucz u kasztelana. Wlasni - bez rzutu."
   },
   {
    "data": "300-07-11",
@@ -9403,7 +9403,7 @@
   },
   {
    "data": "300-07-12",
-   "co": "DORZECZE - POPRAWKA DO ROZKAZU (Mala Rada 07-12): Korona NIE karmi strazy Edmure'a swoim zbozem; Edmure karmi je z ziarna Tridentu. Korona daje DWOCH KWATERMISTRZOW (z wojny w Dorzeczu, wskazuje RODRIK - zasada 42) do koordynacji rozdzialu. Kruk Krola z poprawka 07-13. Odpowiedz Edmure'a - RZUT przy wiesci.",
+   "co": "DORZECZE - POPRAWKA DO ROZKAZU (Mala Rada 07-12): Korona NIE karmi strazy Edmure'a swoim zbozem; Edmure karmi je z ziarna Tridentu. Korona daje DWOCH KWATERMISTRZOW (z wojny w Dorzeczu, wskazuje RODRIK - zasada 42) do koordynacji rozdzialu. Kruk Krola z poprawka 07-13. Odpowiedz Edmure'a - RZUT przy wiesci. ### 07-13: burza (pogoda 3) - kruk leci 07-14 o swicie.",
    "kto": "KROL -> EDMURE; RODRIK (kwatermistrzowie)",
    "kanal": "kruk Winterfell-Riverrun; kwatermistrzowie traktem (~12 dni)",
    "wraca": "300-07-25",
@@ -9457,7 +9457,7 @@
   },
   {
    "data": "300-07-12",
-   "co": "ZNAKI MOBILIZACJI LWA - RUBRYKA W RAPORCIE DOMU 1-GO (slowo pana 07-12): TAM - sygnaly gospodarcze (owies, podkowy, sukno, sol, konie, zaciag za zold; Seagard, Rozdroze, KP, kapitanowie z Lannisportu); WILLA - siatka (uspieni w KP, droga przez Rozdroze: oddzialy pod lwem - ilu, skad, dokad); metoda - Willi. Pilne (liczba ludzi pod bronia, data marszu) poza kolejka. ZACHOD bez oczu - biala plama z data. Wlasni - bez rzutu na wyslanie; tresc przy wiesci.",
+   "co": "ZNAKI MOBILIZACJI LWA - RUBRYKA W RAPORCIE DOMU 1-GO (slowo pana 07-12): TAM - sygnaly gospodarcze (owies, podkowy, sukno, sol, konie, zaciag za zold; Seagard, Rozdroze, KP, kapitanowie z Lannisportu); WILLA - siatka (uspieni w KP, droga przez Rozdroze: oddzialy pod lwem - ilu, skad, dokad); metoda - Willi. Pilne (liczba ludzi pod bronia, data marszu) poza kolejka. ZACHOD bez oczu - biala plama z data. Wlasni - bez rzutu na wyslanie; tresc przy wiesci. ### 07-13: burza (pogoda 3) - kruk leci 07-14 o swicie.",
    "kto": "WILLA + TAM (Dom)",
    "kanal": "kruk Winterfell-Fosa (Willa); kruk przez Bialy Port (Tam)",
    "wraca": "300-08-03",

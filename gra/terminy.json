@@ -6453,7 +6453,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-08",
    "zamyka": "decyzja Krola o starcie T1-B i T3-C",
-   "status": "ZAMKNIETE 300-07-09 - KROL (rzut 46): PRZEBIEG T1-B wg pomiaru Brenna PRZYJETY; dlug Korony wobec Waldera (zboze odnoga) uznany na pismie; pismo do Blizniakow pisze pan (osobny termin). [poprzednio: otwarte ### 06-02: narada u Krola przesunieta na 06-07 po sniadaniu (przed wyjazdem Namiestnika 06-08).]"
+   "status": "ZAMKNIETE 300-07-09 - KROL (rzut 46): PRZEBIEG T1-B wg pomiaru Brenna PRZYJETY; dlug Korony wobec Waldera (zboze odnoga) uznany na pismie; pismo do Blizniakow pisze pan (osobny termin). [poprzednio: (byl: otw.) ### 06-02: narada u Krola przesunieta na 06-07 po sniadaniu (przed wyjazdem Namiestnika 06-08).]"
   },
   {
    "data": "300-05-26",
@@ -7227,7 +7227,7 @@
    "kanal": "kruki Krola do lordow (po liscie pana, ~06-15)",
    "wraca": "300-07-12",
    "zamyka": "kontrakt z lista lordow i ilosciami (z formularza + karta Orlanda)",
-   "status": "ZAMKNIETE 300-07-09 - KROL PODPISAL (rzut 50): kontrakt Korony za jedenastu lordow (ilosci z formularzy, E); trzy kolumny - zboze jadalne, straczkowe, SIEWNE polnocne osobno; kazdy lord placi swoja czesc po cenie kontraktu bez marzy Korony. Dreadfort NIE wchodzi (cisza Boltona). Drzwi otwarte dla spoznionych do 08-01."
+   "status": "ZAMKNIETE 300-07-09 - KROL PODPISAL (rzut 50): kontrakt Korony za jedenastu lordow (ilosci z formularzy, E); trzy kolumny - zboze jadalne, straczkowe, SIEWNE polnocne osobno; kazdy lord placi swoja czesc po cenie kontraktu bez marzy Korony. Dreadfort NIE wchodzi (cisza Boltona). Drzwi (byl: otw.) dla spoznionych do 08-01."
   },
   {
    "data": "300-06-09",
@@ -7443,7 +7443,7 @@
    "kanal": "trakt Fosa-Winterfell",
    "wraca": "300-07-08",
    "zamyka": "rodzina i Arya w Winterfell",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-08 - rodzina i Arya w Winterfell wieczorem 07-08 (w terminie Catelyn)."
   },
   {
    "data": "300-06-19",

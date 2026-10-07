@@ -3415,12 +3415,12 @@
   },
   {
    "data": "300-04-06",
-   "co": "BRYNDEN TULLY PRZYJEZDZA DO PRZYSTANI WILKA - pierwszy mistrz akademii. Warunki: 'z pierwsza woda' i slowo Catelyn, ze Riverrun go nie potrzebuje; zastepce wybiera sam na miejscu. ### 05-14 (Symon): PRZY PRZYJEZDZIE - Symon prosi Bryndena o STATUS DORZECZA: przygotowanie Dorzecza do wojny (zadanie Bryndena - slowo gracza; zapis 298-11: wspolny plan Symona i Bryndena dlugiej wojny), garnizony, wiernosc lordow - porownac z odpowiedzia Edmure'a/Catelyn (~05-26). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): NIE PRZYJECHAL (rzut 34) - list Bryndena przez Przesmyk: Riverrun trzyma go, dopoki listy Edmure'a nie wyjda razem z aktem (~06-28); 'w Przystani Wilka bede ~07-10'. Baszta Borsa gotowa. ### 07-10: NIE PRZYSZLO I WIADOMO DLACZEGO: wiesc z Przystani Wilka idzie jezdzcem Borsa przez zamek Cerwyn albo krukiem przez Fose - w Winterfell ~07-13 (zasada 34). ### 07-13: dzis wiesci byc nie moze - burza (pogoda 3), kruki nie lataja, Przystan Wilka -> Winterfell jezdzcem Borsa; WIESC ~07-14 (rzut przy wiesci). ### 07-13 WIECZOR: WEZWANIE do Winterfell (Krol przez Namiestnika) - jezdziec przybocznej o swicie 07-14; jesli Brynden w baszcie - w Winterfell ~07-15/16 (program akademii, setnicy, kurs); jesli nie - wiesc od Borsa.",
+   "co": "BRYNDEN TULLY PRZYJEZDZA DO PRZYSTANI WILKA - pierwszy mistrz akademii. Warunki: 'z pierwsza woda' i slowo Catelyn, ze Riverrun go nie potrzebuje; zastepce wybiera sam na miejscu. ### 05-14 (Symon): PRZY PRZYJEZDZIE - Symon prosi Bryndena o STATUS DORZECZA: przygotowanie Dorzecza do wojny (zadanie Bryndena - slowo gracza; zapis 298-11: wspolny plan Symona i Bryndena dlugiej wojny), garnizony, wiernosc lordow - porownac z odpowiedzia Edmure'a/Catelyn (~05-26). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): NIE PRZYJECHAL (rzut 34) - list Bryndena przez Przesmyk: Riverrun trzyma go, dopoki listy Edmure'a nie wyjda razem z aktem (~06-28); 'w Przystani Wilka bede ~07-10'. Baszta Borsa gotowa. ### 07-10: NIE PRZYSZLO I WIADOMO DLACZEGO: wiesc z Przystani Wilka idzie jezdzcem Borsa przez zamek Cerwyn albo krukiem przez Fose - w Winterfell ~07-13 (zasada 34). ### 07-13: dzis wiesci byc nie moze - burza (pogoda 3), kruki nie lataja, Przystan Wilka -> Winterfell jezdzcem Borsa; WIESC ~07-14 (rzut przy wiesci). ### 07-13 WIECZOR: WEZWANIE do Winterfell (Krol przez Namiestnika) - jezdziec przybocznej o swicie 07-14; jesli Brynden w baszcie - w Winterfell ~07-15/16 (program akademii, setnicy, kurs); jesli nie - wiesc od Borsa. ### 07-14 RZUT 48 (prog 45): TAK, na styk - stanal w baszcie Przystani Wilka 07-12 wieczorem, przed burza, z malym orszakiem. Wiesc od Borsa - jezdziec, drogi rozmyte (pogoda 9) - w Winterfell wieczorem 07-14. Wezwanie Krola w drodze (jezdziec o swicie) - Brynden w Winterfell ~07-16.",
    "kto": "BRYNDEN TULLY",
    "kanal": "poczta Korony na poludnie przez Przesmyk",
    "wraca": "300-07-14",
    "zamyka": "Brynden w baszcie Przystani Wilka - albo list z nowa data",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 - Brynden w baszcie Przystani Wilka od 07-12 (rzut 48); wezwanie do Winterfell - osobny krok (~07-16)."
   },
   {
    "data": "300-04-06",
@@ -7393,10 +7393,10 @@
   },
   {
    "data": "300-06-18",
-   "co": "DUSTINPORT - CHATY DLA RODZIN 30 LUDZI (rozkaz pana 06-18): Donnel buduje rekami wlasnej zalogi poza barakami, za murem od ladu; drewno z zapasu budowy; koszt Korony (baza marynarki - Kasa 3, Gawen dopisuje, E). Rodziny jada przed zima kolumna Kompanii. Wlasni - bez rzutu.",
+   "co": "DUSTINPORT - CHATY DLA RODZIN 30 LUDZI (rozkaz pana 06-18): Donnel buduje rekami wlasnej zalogi poza barakami, za murem od ladu; drewno z zapasu budowy; koszt Korony (baza marynarki - Kasa 3, Gawen dopisuje, E). Rodziny jada przed zima kolumna Kompanii. Wlasni - bez rzutu. ### 07-14 KARTA DONNELA (pisana 07-08): chaty dla polowy rodzin stoja, reszta do konca VII - drewno z tego samego wyrebu co kadluby, kadluby maja pierwszenstwo.",
    "kto": "SYMON -> DONNEL",
    "kanal": "jezdziec Fosa-Dustinport (4 dni); potwierdzenie w karcie Donnela 07-08",
-   "wraca": "300-07-14",
+   "wraca": "300-08-01",
    "zamyka": "chaty stoja, lista rodzin",
    "status": "otwarte"
   },
@@ -7416,7 +7416,7 @@
    "kanal": "meldunek zbiorczy Garricka",
    "wraca": "300-07-14",
    "zamyka": "siano zebrane, rachunek dniowek w ksiedze",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 (zbiorczy Garricka 07-12): siano zebrane we wsiach z prosb soltysow, dwie wsie na mokradlach koncza po deszczu; rachunek dniowek w ksiedze lenna (Warryn)."
   },
   {
    "data": "300-06-19",
@@ -7434,7 +7434,7 @@
    "kanal": "jezdziec Fosa-Przesmyk-Riverrun (~10 dni) i z powrotem",
    "wraca": "300-07-14",
    "zamyka": "odpowiedz Edmure'a i Kompanii (rzut)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 - RZUT 81: TAK. Edmure i wspolnicy Kompanii przyjmuja: Kompania dostarcza zboze lordom Dorzecza, ktorzy go nie maja, po stawce nizszej niz kwit Lwa, pod reka i pieczecia Riverrun; zrodlo - Reach/Mallisterowie (nie Polnoc); Dom - koordynator ze stawka. Lyman prowadzi. ZASADA 8: Lew zobaczy, kto podcina rekwizycje - w tym samym miesiacu co rozkaz Krola o garnizonach."
   },
   {
    "data": "300-06-19",
@@ -7668,7 +7668,7 @@
    "kanal": "poczta Fosa-Bialy Port",
    "wraca": "300-07-14",
    "zamyka": "odpowiedz rodziny; przyjazd albo nie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 - wola rodziny (bez rzutu): corka Maege i ziec PRZYJEZDZAJA wozem Domu w VIII, po sezonie wegorza; Nelda czeka na sieci."
   },
   {
    "data": "300-06-19",
@@ -7902,7 +7902,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-14",
    "zamyka": "kapliczka stoi, gwiazdy na niej; dab czysty",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 (zbiorczy): kapliczka stoi przy rozstaju, gwiazdy na niej; dab czysty; Elwyn poswiecil w siodmy dzien."
   },
   {
    "data": "300-06-20",
@@ -8022,7 +8022,7 @@
    "kanal": "poslaniec krannogow Fosa-Szara Woda",
    "wraca": "300-07-14",
    "zamyka": "odpowiedz Reeda (ilu, za ile, od kiedy)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 - RZUT 37, JEDNA KONSEKWENCJA: Reed TAK, ale DWIE ZALOGI (nie pelna obsada barek) i zaplata SOLA I ZELAZEM (groty, haki), nie moneta - 'moneta na bagnach nie rosnie'. Garrick: reszta barek - ludzie lenna. Ilosc soli/zelaza - Warryn liczy."
   },
   {
    "data": "300-06-21",
@@ -8364,7 +8364,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-14",
    "zamyka": "ilu przyjeto imiennie, rotacja trzech stanowisk dziala",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 (zbiorczy): Rorik przyjal po dwoch na kazde z trzech stanowisk (szesciu, imiona w ksiedze komory); rotacja dziala od 07-08."
   },
   {
    "data": "300-06-23",
@@ -8373,7 +8373,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-14",
    "zamyka": "dom wynajety, szwaczki przyjete, pierwsze bandery uszyte",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 (zbiorczy): dom wynajety (umowa 06-30), Orsa prowadzi, szwaczki przyjete, pierwsze bandery uszyte - Mira wie z listu Orsy."
   },
   {
    "data": "300-06-23",
@@ -8904,7 +8904,7 @@
    "kanal": "kruk Fosa-Bialy Port 07-02",
    "wraca": "300-07-14",
    "zamyka": "podzial Tama na pismie (dywidenda 500 + premia filii 200) + kwity wyplat",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-14 - list Hala (kruk BP-Winterfell): wyplata 500 (dywidenda) + 200 (premia filii) wykonana 07-12 wg podzialu Tama; kwity podpisane, odpisy do pana."
   },
   {
    "data": "300-07-01",
@@ -9241,7 +9241,7 @@
   },
   {
    "data": "300-07-11",
-   "co": "MANCE - DWA LISTY PRZED ODPOWIEDZIA (rada Lucana, zgoda pana 07-11): szkic na TAK (Cypel, przewoz przez Zatoke Lodu, zboze Tallharta, co powiedziec lordom tego samego dnia) i na NIE (dzicy przyjda bez przysiegi - lancuch ognia, Mur, Kamienny Brzeg). Lucan pisze, pan przedklada Krolowi (list Korony - Krol). Wlasni - bez rzutu. ### 07-13 PAN: do szkicu TAK - WARUNEK: zboze dla Cypla (~143 tys. korcy, czesc zakupu Korony) SPLACANE PRACA I TOWAREM; przedstawiony dzikim w liscie, nie dopisany po fakcie. Rodzaj pracy/towaru i przelicznik - do ustalenia (Gawen liczy korce).",
+   "co": "MANCE - DWA LISTY PRZED ODPOWIEDZIA (rada Lucana, zgoda pana 07-11): szkic na TAK (Cypel, przewoz przez Zatoke Lodu, zboze Tallharta, co powiedziec lordom tego samego dnia) i na NIE (dzicy przyjda bez przysiegi - lancuch ognia, Mur, Kamienny Brzeg). Lucan pisze, pan przedklada Krolowi (list Korony - Krol). Wlasni - bez rzutu. ### 07-13 PAN: do szkicu TAK - WARUNEK: zboze dla Cypla (~143 tys. korcy, czesc zakupu Korony) SPLACANE PRACA I TOWAREM; przedstawiony dzikim w liscie, nie dopisany po fakcie. Rodzaj pracy/towaru i przelicznik - do ustalenia (Gawen liczy korce). ### 07-14: oba szkice gotowe u Lucana (TAK z warunkiem Cypla: splata praca i towarem) - do przedlozenia Krolowi przez pana.",
    "kto": "LUCAN -> SYMON -> KROL",
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-14",
@@ -9526,6 +9526,15 @@
    "wraca": "300-07-14",
    "zamyka": "liczba skrzyni na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-14",
+   "co": "BRYNDEN DO WINTERFELL NA WEZWANIE KROLA (07-13): program akademii, setnicy z weteranow, kurs. Drogi rozmyte - ~07-16.",
+   "kto": "BRYNDEN TULLY",
+   "kanal": "jezdziec przybocznej Winterfell-Przystan Wilka",
+   "wraca": "300-07-16",
+   "zamyka": "Brynden w Winterfell",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -9622,7 +9631,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-07-05",
+   "ostatnio_odebrane": "300-07-12",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -9658,7 +9667,7 @@
     "dzien_miesiaca": 8
    },
    "opoznienie": 6,
-   "ostatnio_odebrane": "300-06-08",
+   "ostatnio_odebrane": "300-07-08",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

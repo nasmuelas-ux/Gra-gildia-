@@ -9511,11 +9511,20 @@
   },
   {
    "data": "300-07-13",
-   "co": "SKARB - ZAMKNIECIE LIPCA I JEDNA LICZBA SKRZYNI (pismo Gawena 07-13): stan skrzyni w monecie na 07-31 + brakujace liczby obciazen do jednej ksiegi: Skagos (Wyman ~07-20), kolumna Muru (Orland/Umber), kosztorys rezerwy (Osric), zold Zimowej Strazy i garnizonu WF (ksiega kasztelana), setnicy/akademia, polowa Przystani Wilka. Na Mala Rade ~07-26 - co bedzie; pelna liczba po 07-31.",
+   "co": "SKARB - ZAMKNIECIE LIPCA I JEDNA LICZBA SKRZYNI (pismo Gawena 07-13): stan skrzyni w monecie na 07-31 + brakujace liczby obciazen do jednej ksiegi: Skagos (Wyman ~07-20), kolumna Muru (Orland/Umber), kosztorys rezerwy (Osric), zold Zimowej Strazy i garnizonu WF (ksiega kasztelana), setnicy/akademia, polowa Przystani Wilka. Na Mala Rade ~07-26 - co bedzie; pelna liczba po 07-31. ### 07-13 PAN: zliczyc WSZYSTKIE koszty Korony (kazda ksiega: Skarb, kasztelan, Osric, Orland). Zboze: 14 650 to tylko czesc Korony (garnizony + Cypel); lordowie placa swoje kolumny sami. OTWARTE: (a) czy Korona wyklada za lordow przy zaplacie kupcowi (warunki ~08-25); (b) Cypel - splata praca/towarem? (nierozstrzygniete od 06-07).",
    "kto": "GAWEN (+ kasztelan, Osric, Orland)",
    "kanal": "osobiscie Winterfell; kruki do Osrica",
    "wraca": "300-08-01",
    "zamyka": "jedna liczba skrzyni na 07-31 + obciazenia z liczbami w jednej ksiedze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-13",
+   "co": "SKRZYNIA SKARBU KORONY - LICZENIE (prosba pana 07-13): Gawen liczy jutro rano monete w skrzyni przy BERONIE jako swiadku; osobno: kwit skladowy (zaliczka), towar w drodze. Liczba na pismie przed poludniem 07-14. METODA GM (zasada 43, wzor skarbca lenna 06-20): saldo z modelu Kasy 3 wstecz minus koszty z zapisu - E, ustalone przy liczeniu.",
+   "kto": "GAWEN + BERON (swiadek)",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-14",
+   "zamyka": "liczba skrzyni na pismie",
    "status": "otwarte"
   }
  ],

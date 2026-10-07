@@ -1,4 +1,5 @@
-# KARTA PRZYBOCZNEJ DOMU TALLY
+# SZARE PŁASZCZE — KARTA PRZYBOCZNEJ DOMU TALLY
+_Nazwa nadana słowem pana 300-07-12. Pod spodem jest barwa Domu, z wierzchu szary płaszcz. „I tak ludzie będą nas tak wołać”, powiedział Sten._
 _Szkic spisany 300-07-12 w zbrojowni Winterfell. Spisali: Namiestnik Symon Tally, kapitan przybocznej STEN i mistrz z Braavos. Luwin dopisał część o truciźnie. Wzorem była karta Zimowej Straży z 299-08-12. Przyboczna nie jest jednak gwardią Korony, tylko strażą Domu._
 _Status: **PRZYJĘTA słowem pana 300-07-12.** Kolejność ochrony zatwierdzona, a przysięga składana bez wiary, przed rodziną pana. Sąd w lennie i w jurysdykcji Domu należy do pana._
 

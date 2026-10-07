@@ -256,4 +256,18 @@
 
 ---
 
+## 14. O RODRIKU STARKU I WYSPIE NIEDŹWIEDZIEJ
+*Spisane 300-07-14 późnym wieczorem, w izbie Niani przy psiarni. Pierwsza bajka od powrotu z Fosy. Niania wiedziała, że jutro może przyjść wieść o pannie Mormont zza Muru. „To opowiem o Mormontach, żeby im się wiodło.”*
+
+> Wyspa Niedźwiedzia nie zawsze była Mormontów. Dawno temu siedzieli na niej żelaźni ludzie z Wysp, bo żelaźni siadają wszędzie, gdzie mogą przybić łodzią, a potem mówią, że tak było zawsze.
+>
+> Lord Winterfell, Rodrik Stark, odbił ją od nich. I wiecie, jak? Nie mieczem i nie flotą. **Zapasami.** Stanął z ich wodzem w kręgu, na gołej ziemi, bez zbroi, i powalił go trzy razy z trzech. Żelaźni przysięgali na swego utopionego boga, że kto przegra, ten odpłynie, i odpłynęli. Bo nawet żelazny człowiek boi się złamać słowo przed swoim bogiem, kiedy wszyscy patrzą.
+>
+> A Rodrik nie wziął wyspy dla siebie. Dał ją Mormontom, bo ich niedźwiedzie już tam łowiły, a ich kobiety już tam broniły brzegu, kiedy mężczyzn nie było. Od tej pory na Wyspie Niedźwiedziej kobiety noszą topory i nikt na Północy się z tego nie śmieje. A kto się śmiał, ten nie wracał na obiad.
+>
+> Pamiętaj, dziecko: nie każdą ziemię bierze się mieczem. Czasem wystarczy stanąć w kręgu i nie upaść. I nie każdą, którą się weźmie, trzeba trzymać samemu.
+
+*Dopisek spisującego:* Niania odłożyła przęślicę i powiedziała do mnie: *„Panna Dacey jest z tej krwi. Jak wróci zza Muru, to wróci na własnych nogach albo wcale. Nie wysyłajcie po nią nikogo, kto będzie ją niósł.”* Potem, już innym głosem: *„A kurhany? Obiecaliście mi kurhany, jak wrócicie. Wróciliście tydzień temu, panie.”*
+
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

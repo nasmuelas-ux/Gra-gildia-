@@ -9165,7 +9165,7 @@
    "kanal": "kruk Winterfell-Bialy Port / Fosa",
    "wraca": "300-07-20",
    "zamyka": "umowa na pismie z kwotami",
-   "status": "otwarte - czeka na slowo pana co do wzoru"
+   "status": "otwarte - WZOR ZATWIERDZONY przez pana 07-11; Hal liczy kwoty"
   },
   {
    "data": "300-07-11",
@@ -9291,6 +9291,15 @@
    "kanal": "kruk Winterfell-Bialy Port (osobna kartka, pieczec domowa)",
    "wraca": "300-08-05",
    "zamyka": "spis kwitow przed/po ugodzie w rekach pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "LIST PANA DO GARRICKA O LUCANIE (rada Lucana, zamiar pana 07-11): wlasna reka - Lucan jest doradca Namiestnika (rozwoj Domu i lenna, 'ten, ktory czyta'); Garrick dalej PROWADZI lenno; Lucan czyta i radzi, nie rozkazuje. Zanim Garrick zobaczy pismo Lucana w innym liscie.",
+   "kto": "SYMON -> GARRICK",
+   "kanal": "kruk Winterfell-Fosa",
+   "wraca": "300-07-11",
+   "zamyka": "list napisany i wyslany",
    "status": "otwarte"
   }
  ],

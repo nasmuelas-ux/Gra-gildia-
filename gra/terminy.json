@@ -9301,6 +9301,24 @@
    "wraca": "300-07-11",
    "zamyka": "list napisany i wyslany",
    "status": "zamkniete 300-07-11: list napisany wlasna reka, kruk do Fosy"
+  },
+  {
+   "data": "300-07-11",
+   "co": "LANCUCH ZIMOWY DOMU (oddzielna pozycja w obrotach, pan 07-11; wdraza LUCAN): warzelnia + wedzarnia + bednarnia w jednej ksiedze; ZARZADCA LANCUCHA w BP (z ludzi Hala); BECZKA ZIMOWA (miara Korony, data, pieczec Domu, reczenie roku); klienci: Spichlerz, Mur, Cypel, Dorzecze (Kompania), Essos (Nesta); zamowienia jesienne z zadatkiem; sklady BP/Fosa/Winterfell. KROK 1: karta lancucha od Lucana do Hala ~07-20; KROK 2: koszty Hala ~08-05; KROK 3: zamowienia zimowe do konca IX. Wlasni - bez rzutu; odzew klientow - rzut przy zamowieniach.",
+   "kto": "LUCAN (wdrozenie) + HAL (skarbnik) + TAM (wynik)",
+   "kanal": "kruk Winterfell-Bialy Port; osobiscie w BP (jesli pan pozwoli)",
+   "wraca": "300-08-05",
+   "zamyka": "karta lancucha + koszty Hala na stole; potem zamowienia (09-30)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "IZBA ROZRACHUNKOWA DOMU (oddzielna pozycja w obrotach, pan 07-11; wdraza LUCAN): LIST IZBY (wplata w punkcie A, wyplata w B, dwie pieczecie, numer, ksiega lustrzana), grosz od przelewu, rozliczenie miedzy punktami raz w miesiacu (moneta tylko za roznice), limit listu wg monety w punkcie; zasada: nie pozyczamy z cudzego. Start: BIALY PORT - RIVERRUN (Lyman) od IX; potem Seagard, Fosa, Winterfell, Braavos, Pentos. KROK 1: karta izby od Lucana do Hala ~07-20; KROK 2: rezerwy monety w punktach - Hal ~08-05; KROK 3: proba od IX. Wlasni - bez rzutu; zaufanie kupcow - rzut przy pierwszym miesiacu.",
+   "kto": "LUCAN (wdrozenie) + HAL (skarbnik) + LYMAN (Riverrun) + TAM (wynik)",
+   "kanal": "kruk Winterfell-BP-Riverrun",
+   "wraca": "300-08-05",
+   "zamyka": "karta izby + rezerwy Hala; pierwszy przelew w IX",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -9067,6 +9067,24 @@
    "wraca": "300-07-11",
    "zamyka": "zgoda albo odmowa Rickona; jesli zgoda - Krol wie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-10",
+   "co": "DREADFORT NA SKAGOS - WEZWANIE KROLA (zgoda pana 07-10, pomysl Krola i Cerwyna): Krol wzywa z Dreadfortu DWUDZIESTU ZBROJNYCH na wyprawe na Skagos 'jako honor i powinnosc'; w liscie prosi o 'synow urzednikow Dreadfortu' do wlasnej strazy okretu (wsrod nich - syn swiadka, bez wyrozniania; Cerwyn podaje Krolowi imie ustnie). Cel: Roose widzi flote z pokladu; syn swiadka w sluzbie Korony, daleko od Dreadfortu. List Krola po wyjezdzie swiadka (~07-15). Wola Roose'a - RZUT przy odpowiedzi.",
+   "kto": "KROL -> ROOSE BOLTON",
+   "kanal": "kruk Winterfell-Dreadfort",
+   "wraca": "300-07-22",
+   "zamyka": "Bolton przysyla dwudziestu (z kim) albo odmawia/zwleka",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-10",
+   "co": "KARSTARK - WZMOCNIC (slowo pana 07-10, decyzja Krola rzut 44): (1) KROL ZAWIJA DO KARHOLDU w drodze na Skagos, schodzi na brzeg, rozmawia z Rickardem w twarz (rada Sansy); (2) CZLOWIEK KARSTARKA przy wymianie jencow w Maidenpool (Edmure - list Krola); (3) STRAZ MARCHII Karholdu (od 04-01 w sluzbie Korony) - ogloszona publicznie przy lordach jako 'oko Krola na wschodzie', z zoldem Korony. KONSEKWENCJA (rzut 44): Bolton odczyta to jako nacisk - 'wzmocnic Karstarka to powiedziec Boltonowi, kto pilnuje jego drzwi' (Krol); napiecie na wschodzie rosnie. List Krola do Rickarda (zapowiedz wizyty) - razem z odpowiedzia na jego warunek.",
+   "kto": "KROL -> RICKARD KARSTARK ; KROL -> EDMURE (Maidenpool)",
+   "kanal": "kruk Winterfell-Karhold / Riverrun",
+   "wraca": "300-07-20",
+   "zamyka": "Rickard wie o wizycie; czlowiek Karstarka wskazany do Maidenpool",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

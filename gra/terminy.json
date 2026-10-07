@@ -9571,6 +9571,15 @@
    "wraca": "300-08-25",
    "zamyka": "wpis notarialny + potwierdzenia Hala i Nesty",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-14",
+   "co": "HAL - WYROWNANIE PLACOWKI WINTERFELL 250 SMOKOW (wyplata dywidendy VII pana 166,67 + Miry 83,33 w faktorii ZM 07-14); faktor do wyrownania kupuje tylko na kwit (zasada 8). Od dzis wyplaty wspolnikow mozna odbierac w faktorii, z wyrownaniem od Hala. Wlasni - bez rzutu.",
+   "kto": "HAL -> faktor ZM",
+   "kanal": "kruk Winterfell-Bialy Port; moneta - najblizsza kolumna/woz BP-Winterfell",
+   "wraca": "300-07-28",
+   "zamyka": "moneta u faktora ZM, kwit w ksiedze Domu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

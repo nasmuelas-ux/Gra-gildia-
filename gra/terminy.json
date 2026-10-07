@@ -8220,7 +8220,7 @@
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-07-08",
    "zamyka": "decyzja Krola: czy i jak prosic Stannisa",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - DECYZJA KROLA (rzut 18 - jedna konsekwencja): NIE PROSIC STANNISA o zmiane warunku ('prosba o laske to dlug - Stannis go zapamieta i policzy'); szklo od Stannisa zostaje na Murze. Winterfell - ZE ZRODLA WLASNEGO (torfiarnie Fosy). Zakaz Krola: ZADNEGO SZKLA Z KURHANOW."
   },
   {
    "data": "300-06-22",
@@ -8994,6 +8994,15 @@
    "kanal": "kruk Winterfell-BP + statek BP-Stare Miasto (~3 tyg. w jedna strone)",
    "wraca": "300-08-25",
    "zamyka": "odpowiedz Reach: cena, ilosc, termin dostawy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "CZARNY KAMIEN Z TORFIARNI FOSY - ZRODLO WLASNE SMOCZEGO SZKLA (decyzja Krola 07-09): GARRICK liczy, ile odlozono od 300-03-18, i przysyla probke do Winterfell; LUWIN sprawdza, czy to szklo (obsydian) czy zwykly kamien; jesli szklo - torfiarze odkladaja kazdy kawalek na kwit (platne z Kasy 3, zbiera Korona). ZAKAZ: zadnego szkla z kurhanow (Krol).",
+   "kto": "GARRICK (Fosa) -> LUWIN (Winterfell)",
+   "kanal": "kruk Winterfell-Fosa + woz z probka",
+   "wraca": "300-07-25",
+   "zamyka": "probka zbadana przez Luwina; ilosc na kwicie",
    "status": "otwarte"
   }
  ],

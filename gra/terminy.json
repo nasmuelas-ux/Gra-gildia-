@@ -7407,7 +7407,7 @@
    "kanal": "kruk Fosa-Winterfell (2-3 dni) i z powrotem",
    "wraca": "300-07-08",
    "zamyka": "decyzja Krola o Skagos",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - DECYZJA KROLA (rzut 92): plynie Z FLOTA, na swoich warunkach; tresc w dzienniku 07-09."
   },
   {
    "data": "300-06-18",
@@ -8967,6 +8967,24 @@
    "kanal": "kruk Winterfell-Bialy Port (list pana dzis)",
    "wraca": "300-08-05",
    "zamyka": "meldunek w bilansie VII: ile kupiono i ile gotowki zostalo",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "SKAGOS - WYPRAWA KROLA Z FLOTA (decyzja 07-09, rzut 92): Krol plynie na czele floty wschodu z obstawa, by oficjalnie przyjac przysiege Skagos; MIEJSCE WYZNACZA KROL - plaza pod Kingshouse, pod choragwia Starkow, Magnar przychodzi na brzeg. FLOTA: okrety wojenne WYMANA + lodzie FLINTOW z Wdowiej Straznicy (lady Lyessa) + (jesli da) Mormontowie; BEZ KARHOLDU ('nie potrzebujemy jego statkow' - Karhold ma ich niewiele, zgodnie ze slowem pana). Pora: koniec lata, przed jesiennymi sztormami (E ~08-25..09-10). KOMUNIKAT USTNY przez czlowieka Lyessy do Kingshouse. Koszt - Kasa 3, kosztorys GAWEN (E). Listy Krola: Wyman (okrety, liczba), Lyessa (lodzie + posel). Wola Wymana i Lyessy - RZUT przy odpowiedziach.",
+   "kto": "KROL -> WYMAN, LYESSA FLINT; GAWEN (koszt)",
+   "kanal": "kruki Winterfell-Bialy Port / Wdowia Straznica",
+   "wraca": "300-07-20",
+   "zamyka": "odpowiedzi Wymana i Lyessy + kosztorys Gawena; komunikat do Kingshouse wyslany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "KARSTARK - ODPOWIEDZ KROLA NA WARUNEK 'HARRION Z IMIENIA' (decyzja 07-09, rzut 9 - jedna konsekwencja): KROL ODMAWIA TERAZ wpisania imienia Harriona do pisma do Lannisterow ('Imie w liscie do Lwa to cena na jego glowie. Tywin podniesie ja, a potem kaze komus ja zaplacic.'); pisze do Rickarda sam, ze sprawa Harriona idzie inna droga (Edmure/Maidenpool, wymiana jencow - bez slowa na pismie do KP). KONSEKWENCJA: Karstark uslyszy 'nie' - jego zal rosnie (sprawa do jesieni); RZUT przy jego odpowiedzi.",
+   "kto": "KROL -> RICKARD KARSTARK",
+   "kanal": "kruk Winterfell-Karhold",
+   "wraca": "300-07-16",
+   "zamyka": "odpowiedz Karstarka na list Krola albo cisza",
    "status": "otwarte"
   }
  ],

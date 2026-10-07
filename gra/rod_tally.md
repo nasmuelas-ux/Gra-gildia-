@@ -159,6 +159,14 @@ W praktyce faktorzy w odległych filiach ubierają się po kupiecku i **noszą z
 
 ---
 
+## SZARE PŁASZCZE — PRZYBOCZNA DOMU (od 300-07-12)
+
+**Szarość jest trzecią barwą Domu**, obok płomiennego pomarańczu i bieli, ze słowa pana z 300-07-12. To szarość popiołu i stali: barwa tego, kto siedzi przy ogniu i pilnuje, żeby nie wyszedł z paleniska.
+
+Płaszcz jest szary z wierzchu, z pomarańczową podszewką, a w misjach noszony podszewką do środka. Na zapince jest pióro i płomień. Kartę przybocznej zawiera plik `gra/karta_przybocznej_domu_tally.md`.
+
+---
+
 ## DRUŻYNA
 
 Ciemna baza. Pomarańczowy tabard lub szarfa z piórem-płomieniem. Płaszcz z pomarańczową podszewką. **Oficerowie — pomarańczowy kołnierz.**

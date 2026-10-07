@@ -5076,7 +5076,7 @@
    "kanal": "kruk Winterfell-Blizniaki",
    "wraca": "300-07-08",
    "zamyka": "pismo o odnodze po ratyfikacji",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - PISMO PANA WYSLANE (kruk Winterfell-Blizniaki, do ser Perwyna dla lorda Waldera)."
   },
   {
    "data": "300-05-10",
@@ -9039,6 +9039,15 @@
    "kanal": "osobiscie",
    "wraca": "300-08-20",
    "zamyka": "zakres zastepstwa spisany przed wyplynieciem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "WALDER FREY - ODPOWIEDZ NA PISMO O ODNODZE T1-B (pismo pana przez Perwyna 07-09): przebieg Brenna przyjety przez Krola; dlug Korony za zboze odnoga uznany na pismie; budowa odnogi - rece Dorzecza za dniowke, udzial Freya w odcinku na jego ziemi. Wola Waldera - RZUT przy odpowiedzi.",
+   "kto": "WALDER (przez PERWYNA) -> SYMON",
+   "kanal": "kruk Blizniaki-Winterfell",
+   "wraca": "300-07-16",
+   "zamyka": "odpowiedz Waldera albo cisza",
    "status": "otwarte"
   }
  ],

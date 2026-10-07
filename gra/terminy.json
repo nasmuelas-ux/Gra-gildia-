@@ -9535,6 +9535,24 @@
    "wraca": "300-07-16",
    "zamyka": "Brynden w Winterfell",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-14",
+   "co": "HAL - MIESIECZNY STAN SKARBCA DOMU + WYPLATA CO MIESIAC DLA WSPOLNIKOW (list pana 07-14): po kazdym bilansie - moneta, naleznosci, bufor; BUFOR 1000 = LIMIT (ponizej nie schodzi zadna wyplata); wyplata co miesiac wszystkim wspolnikom z nadwyzki ponad bufor i reinwestycje, wg umow (Tam liczy, Hal wyplaca). Hal odpisuje z proporcja (wyplata / obrot). Wlasni - bez rzutu.",
+   "kto": "SYMON -> HAL (+ TAM)",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-07-18",
+   "zamyka": "odpowiedz Hala z proporcja + pierwszy raport skarbca po bilansie VII (~08-05)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-14",
+   "co": "SKARB KORONY - MIESIECZNY RAPORT SKARBCA PO BILANSIE (slowo pana 07-14): Gawen co miesiac, po bilansie - moneta w skrzyni + naleznosci, obok dochodow i kosztow. Pierwszy - po zamknieciu VII.",
+   "kto": "GAWEN",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-08-01",
+   "zamyka": "pierwszy raport skarbca (stan na 07-31)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

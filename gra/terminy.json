@@ -9250,10 +9250,10 @@
   },
   {
    "data": "300-07-11",
-   "co": "CYPEL - RACHUNEK CHLEBA NA PIERWSZA ZIME DZIKICH (rada Lucana, zgoda pana 07-11): ile korcy miesiecznie dla 22 tys. (i dla mniejszej liczby, jesli przyjdzie mniej), skad (zboze Tallharta, Spichlerz, kontrakt z Reach), ile do zniw 301; obok - ile Polnoc moze dac bez ruszania siewnego. Liczy SPICHLERZ (Orland, Mistrz Zapasow) z Gawenem. Urzednicy Korony - bez rzutu.",
+   "co": "SPICHLERZ - RACHUNEK: CYPEL, MUR, WOJNA (ROK+) NA PIERWSZA ZIME DZIKICH (rada Lucana, zgoda pana 07-11): ile korcy miesiecznie dla 22 tys. (i dla mniejszej liczby, jesli przyjdzie mniej), skad (zboze Tallharta, Spichlerz, kontrakt z Reach), ile do zniw 301; obok - ile Polnoc moze dac bez ruszania siewnego. Liczy SPICHLERZ (Orland, Mistrz Zapasow) z Gawenem. Urzednicy Korony - bez rzutu. ROZSZERZONE 07-11 (pan): + ZBOZE NA MOBILIZACJE I WYZYWIENIE WOJNY na ponad rok naprzod (ile korcy na ile ludzi pod bronia, z czego, bez ruszania siewnego) + WYZYWIENIE MURU (Straz ~524 + przybywajacy) - wszystko w jednym rachunku obok siebie: Cypel / Mur / wojna / zapas Polnocy.",
    "kto": "KANCELARIA NAMIESTNIKA -> ORLAND (Spichlerz) + GAWEN",
    "kanal": "osobiscie / kruk",
-   "wraca": "300-07-25",
+   "wraca": "300-07-30",
    "zamyka": "rachunek na pismie przed decyzja o przewozie",
    "status": "otwarte"
   },
@@ -9264,6 +9264,15 @@
    "kanal": "kolumna ziarna / kruk Czarny Zamek-Winterfell",
    "wraca": "300-08-10",
    "zamyka": "pierwszy meldunek posterunku o obu sprawach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "PENTOS I MYR - CZY KTOS SZYKUJE FLOTE DLA DAENERYS (rada Lucana, zgoda pana 07-11; dopisek do Willi): w ksiedze placowki Pentos (Obaro, co miesiac do Nesty) i w tym, co slychac z Myr - zakupy drewna okretowego, smoly, zboza na dlugi rejs, najem statkow. 'Flota zaczyna sie od zamowien.' Willa czyta liczby. Odczyt - rzut przy meldunku.",
+   "kto": "WILLA (ksiega Pentos przez Neste)",
+   "kanal": "ksiega Obaro -> Nesta -> Willa; karta SWIAT co miesiac 1.",
+   "wraca": "300-09-01",
+   "zamyka": "pierwszy odczyt w karcie SWIAT (zakupy tak/nie)",
    "status": "otwarte"
   }
  ],

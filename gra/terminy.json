@@ -6462,7 +6462,7 @@
    "kanal": "kruki Winterfell-Blizniaki / Seagard / Riverrun",
    "wraca": "300-07-05",
    "zamyka": "listy wyslane po ratyfikacji",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - listy Krola do FREYA, MALLISTERA i EDMURE'A wyslane (kruki dzis). Odpowiedzi - nowy termin (rzut)."
   },
   {
    "data": "300-05-26",
@@ -7929,7 +7929,7 @@
    "kanal": "na miejscu / poczta",
    "wraca": "300-07-08",
    "zamyka": "decyzja Korony o licencji wywozu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - KROL (rzut 5 - jedna konsekwencja): NADWYZKI W TYM ROKU NIE MA (pozna wiosna, spichlerze w polowie) - LICENCJI NIE BEDZIE; ani korca na wywoz do zniw 301. KONSEKWENCJA: przemyt zywnosci bedzie sie bardziej oplacal - wiecej roboty dla komor i Jastrzebi (Rorik, Kessel)."
   },
   {
    "data": "300-06-20",
@@ -8103,7 +8103,7 @@
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-07-08",
    "zamyka": "rozmowa z Krolem",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - KROL (rzut 9 - jedna konsekwencja): NIE TERAZ - powie to przy lordach, ale dopiero po powrocie matki i przy niej ('to slowo o moim ojcu - matka ma je uslyszec pierwsza, nie z drugiej reki'); KONSEKWENCJA: Arya uslyszy 'nie teraz' - jej pomysl odlozony."
   },
   {
    "data": "300-06-21",
@@ -8296,10 +8296,10 @@
   },
   {
    "data": "300-06-23",
-   "co": "KODEKS PRZEMYTU I CLA - CZESC B (CLO KORONY) - PRZEDLOZYC KROLOWI (zasada 22: kary za clo Korony stanowi Krol; sady - Justycjariusz): potrojne clo + grzywna za obejscie, konfiskata wszystkiego za zjazd ze szlaku, przepadek + loch za przekupstwo, loch za ucieczke/recydywe. Rozmowa w Winterfell ~07-08 (razem ze Skagos, T1-B, smoczym szklem). Do tego czasu przy komorze - prawo komor 04-21 (towar znaleziony). ### 06-23: kary celne do Krola - wg stopni EDYKTU SPRAWIEDLIWOSCI KANALOWEJ (gra/edykt_sprawiedliwosci_kanalowej_300_06.md). ### 06-23: ROZSZERZONE - PROJEKT NAMIESTNIKA KODEKSOW I DZIALAN DLA KORONY: gra/projekt_kodeksow_korony_300_06.md (A kary celne, B sad przy bramie, C kontrola zywnosci, D czystosc sluzby + Inspektorzy Czystej Bramy, E wody i bandery Korony, F jeden tryb zsylki na Mur, G kara smierci ostateczna; dzialania od razu: Fosa jako proba Korony, rozkaz kontroli zywnosci, pismo do Strazy, lustratorzy). Przed Krolem - odpis do CERWYNA i GAWENA (kruk Fosa-Winterfell). ### 06-23 PAN: pkt B - przy KAZDEJ komorze staly SEDZIA KORONNY (mianuje Krol na wniosek Justycjariusza); 9 komor - obsadzanie kolejno (pelne najpierw), do tego czasu sedzia objazdowy; zold Kasa 3 (Gawen). ### 06-23: PAN AKCEPTUJE PROJEKT KODEKSOW KORONY (wersja z poprawkami F i B) - idzie do Cerwyna i Gawena, potem do Krola.",
+   "co": "KODEKS PRZEMYTU I CLA - CZESC B (CLO KORONY) - PRZEDLOZYC KROLOWI (zasada 22: kary za clo Korony stanowi Krol; sady - Justycjariusz): potrojne clo + grzywna za obejscie, konfiskata wszystkiego za zjazd ze szlaku, przepadek + loch za przekupstwo, loch za ucieczke/recydywe. Rozmowa w Winterfell ~07-08 (razem ze Skagos, T1-B, smoczym szklem). Do tego czasu przy komorze - prawo komor 04-21 (towar znaleziony). ### 06-23: kary celne do Krola - wg stopni EDYKTU SPRAWIEDLIWOSCI KANALOWEJ (gra/edykt_sprawiedliwosci_kanalowej_300_06.md). ### 06-23: ROZSZERZONE - PROJEKT NAMIESTNIKA KODEKSOW I DZIALAN DLA KORONY: gra/projekt_kodeksow_korony_300_06.md (A kary celne, B sad przy bramie, C kontrola zywnosci, D czystosc sluzby + Inspektorzy Czystej Bramy, E wody i bandery Korony, F jeden tryb zsylki na Mur, G kara smierci ostateczna; dzialania od razu: Fosa jako proba Korony, rozkaz kontroli zywnosci, pismo do Strazy, lustratorzy). Przed Krolem - odpis do CERWYNA i GAWENA (kruk Fosa-Winterfell). ### 06-23 PAN: pkt B - przy KAZDEJ komorze staly SEDZIA KORONNY (mianuje Krol na wniosek Justycjariusza); 9 komor - obsadzanie kolejno (pelne najpierw), do tego czasu sedzia objazdowy; zold Kasa 3 (Gawen). ### 06-23: PAN AKCEPTUJE PROJEKT KODEKSOW KORONY (wersja z poprawkami F i B) - idzie do Cerwyna i Gawena, potem do Krola. ### 07-09 (solar Krola): KROL: 'Bez Cerwyna nie stanowie kar' - odlozone do uwag Justycjariusza (mediacja 07-10).",
    "kto": "SYMON -> KROL (po lekturze Cerwyna i Gawena)",
    "kanal": "rozmowa w Winterfell",
-   "wraca": "300-07-08",
+   "wraca": "300-07-12",
    "zamyka": "decyzja Krola o karach celnych",
    "status": "otwarte"
   },
@@ -8422,10 +8422,10 @@
   },
   {
    "data": "300-06-25",
-   "co": "T3-M MOST NA BIALYM NOZU - UDZIALY PLATNIKOW I ZGODA (Korona 1/2, Cerwyn 1/4, Manderly 1/4) po wycenie Borsa: do stolu Krola razem z T1-B. Cerwyn i Wyman - RZUT przy zgodzie.",
+   "co": "T3-M MOST NA BIALYM NOZU - UDZIALY PLATNIKOW I ZGODA (Korona 1/2, Cerwyn 1/4, Manderly 1/4) po wycenie Borsa: do stolu Krola razem z T1-B. Cerwyn i Wyman - RZUT przy zgodzie. ### 07-09 (solar Krola): KROL: polowa Korony - TAK (Kasa 3, po rysunku i wycenie Borsa). Zgoda Cerwyna i Wymana - na RADZIE TRZECH ~07-25 (rzuty tam).",
    "kto": "SYMON -> KROL; CERWYN; WYMAN",
    "kanal": "Winterfell (pan na miejscu)",
-   "wraca": "300-07-08",
+   "wraca": "300-07-25",
    "zamyka": "zgoda trzech platnikow na pismie",
    "status": "otwarte"
   },
@@ -8652,7 +8652,7 @@
    "kanal": "Winterfell (osobiscie)",
    "wraca": "300-07-08",
    "zamyka": "Krol przyjal do wiadomosci / zdecydowal o udziale",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - KROL (rzut 9 - jedna konsekwencja): daru CALOSCI nie przyjmuje - 'droga Krola, ktora w calosci postawil Dom Tally, w ustach ludzi bedzie droga Tallych'; Dom - 2/3 jako dar (jawnie w ksiedze darow), KORONA PLACI 1/3 z Kasy 3; MYTO przy wiezach - niskie, ustali Gawen po roku ruchu; obsada wiez - LUDZIE KORONY (garnizon). KONSEKWENCJA: Kasa 3 zajeta flota na Skagos - 1/3 Korony dopiero od 301; UMOCNIENIE TRAKTU IDZIE WOLNIEJ (najpierw odcinki, ktore Dom placi)."
   },
   {
    "data": "300-06-28",
@@ -9012,6 +9012,33 @@
    "kanal": "poslaniec ustny przez Bialy Port",
    "wraca": "300-08-20",
    "zamyka": "ladunek na Murze albo odmowa/odroczenie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "T1-C / T1-D - ODPOWIEDZI FREYA, MALLISTERA I EDMURE'A na listy Krola (07-09): zgoda na odcinki Blizniaki-Seagard i Seagard-Riverrun, udzial lordow, rece Dorzecza za dniowke. Wola obca - RZUT przy kazdej odpowiedzi.",
+   "kto": "FREY, MALLISTER, EDMURE -> KROL",
+   "kanal": "kruki Blizniaki/Seagard/Riverrun-Winterfell",
+   "wraca": "300-07-20",
+   "zamyka": "trzy odpowiedzi albo cisza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "ARYA - POWROT NA FOSE: decyzja po przyjezdzie LADY CATELYN (~07-25). Krol 07-09: 'Zapytamy matke. Ja bym jej pozwolil - z wami.' Warunek Catelyn z VI: nie dluzej niz miesiac.",
+   "kto": "CATELYN + KROL",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-27",
+   "zamyka": "slowo Catelyn",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "POD NIEOBECNOSC KROLA (wyprawa na Skagos ~08-25..09-10): NAMIESTNIK ZOSTAJE W WINTERFELL PRZY KROLESTWIE (slowo pana 07-09); pieczec i decyzje biezace - Namiestnik; prerogatywy - czekaja na Krola albo krukiem na okret (Wyman). Ustalic przed wyplynieciem: zakres i lista spraw, ktorych Namiestnik nie rozstrzyga sam.",
+   "kto": "KROL + SYMON",
+   "kanal": "osobiscie",
+   "wraca": "300-08-20",
+   "zamyka": "zakres zastepstwa spisany przed wyplynieciem",
    "status": "otwarte"
   }
  ],

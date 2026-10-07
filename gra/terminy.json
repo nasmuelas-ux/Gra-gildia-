@@ -7492,11 +7492,11 @@
   },
   {
    "data": "300-06-19",
-   "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%. ### 07-09 (Winterfell, stos Poludnie i morze): RZUT 9 - JEDNA KONSEKWENCJA: LAWA CAILIN ODRZUCA POZYCZKE W TEJ FORMIE - nie zgodzi sie na splate z czynszow ('Dom bedzie zbieral nasze czynsze - to juz pan kamienic'); proponuje w zamian POZYCZKE W MATERIALE (kamien, wapno, belki z magazynu Domu) splacana moneta z kasy miejskiej. Do slowa pana.",
+   "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%. ### 07-09 (Winterfell, stos Poludnie i morze): RZUT 9 - JEDNA KONSEKWENCJA: LAWA CAILIN ODRZUCA POZYCZKE W TEJ FORMIE - nie zgodzi sie na splate z czynszow ('Dom bedzie zbieral nasze czynsze - to juz pan kamienic'); proponuje w zamian POZYCZKE W MATERIALE (kamien, wapno, belki z magazynu Domu) splacana moneta z kasy miejskiej. Do slowa pana. ### 07-09 SLOWO PANA: 'Zgodnie z tym, jak Cailin chce' - POZYCZKA W MATERIALE (kamien, wapno, belki z magazynu Domu), splata moneta z kasy miejskiej, 0,5% rocznie; umowa Hal + Herwin + lawa, na slup.",
    "kto": "HAL + HERWIN SZALA + lawa",
    "kanal": "list pana do Hala (poczta BP) + na miejscu",
    "wraca": "300-07-20",
-   "zamyka": "umowa pozyczki podpisana, kwota i termin na slupie",
+   "zamyka": "umowa pozyczki w materiale podpisana, wykaz materialu i termin splaty na slupie",
    "status": "otwarte"
   },
   {
@@ -8958,6 +8958,15 @@
    "kanal": "kruk Winterfell-Bialy Port (zaproszenie) ; osobiscie Winterfell",
    "wraca": "300-07-25",
    "zamyka": "posiedzenie odbyte, ustalenia spisane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "SKUP PAPIEROW LWA - BEZ LIMITU (slowo pana 07-09 do Hala): skupowac kwity rekwizycyjne i weksle Lannisportu bez sufitu, przez slupy; papier Lwa jako NACISK POLITYCZNY Korony/Domu - nie martwic sie, czy KP uzna kwity. Hal melduje w bilansie miesiecznym (co, po ile, gdzie). ZASADA 8 (do wiedzy pana, zdanie Hala przyjdzie z odpowiedzia): ta sama gotowka Kasy 1 - wyplata 700 (07-12), pozyczka w materiale dla Cailin, domy dla ludzi Domu.",
+   "kto": "HAL -> placowki (slupy)",
+   "kanal": "kruk Winterfell-Bialy Port (list pana dzis)",
+   "wraca": "300-08-05",
+   "zamyka": "meldunek w bilansie VII: ile kupiono i ile gotowki zostalo",
    "status": "otwarte"
   }
  ],

@@ -9490,6 +9490,15 @@
    "wraca": "300-07-26",
    "zamyka": "posiedzenie odbyte, protokol",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-12",
+   "co": "SETNICY Z WETERANOW - AKADEMIA (slowo pana 07-12): Rodrik (Pierwszy Miecz) + Osric (Marszalek, spis): lista weteranow na setnikow rezerwy Korony (~10, E) - garnizon WF, wroceni z poboru (Glover, Tallhart, Dustin - za wiedza lordow; Korona zaprasza, nie bierze), Fosa; nominacje setnikow; kurs w Akademii Wojskowej - program i termin do slowa Bryndena (przyjazd 07-13; Rada Trzech ~07-25). Zold i koszt kursu - Gawen. Odzew i zgoda lordow - RZUT przy wynikach.",
+   "kto": "SER RODRIK + OSRIC -> BRYNDEN; GAWEN (koszt)",
+   "kanal": "osobiscie Winterfell; kruki do lordow i Osrica",
+   "wraca": "300-07-26",
+   "zamyka": "lista kandydatow na Mala Rade 07-26 + slowo Bryndena o kursie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -4540,10 +4540,10 @@
   },
   {
    "data": "300-04-27",
-   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20. ### 06-20 (pan na Fosie): wiesc z Muru przez Winterfell do Fosy ~06-25. ### 300-06-25: wiesc z Muru (Clydas przez Winterfell): HALLIS doszedl z kolumna Umbera 06-20; Jona na Murze nie ma - list oddal DACEY MORMONT do reki, bo poselstwo idzie do Mance'a, wsrod ktorego Jona widziano. Bez rzutu (decyzja wlasnego czlowieka). Dalej - z poselstwem.",
+   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20. ### 06-20 (pan na Fosie): wiesc z Muru przez Winterfell do Fosy ~06-25. ### 300-06-25: wiesc z Muru (Clydas przez Winterfell): HALLIS doszedl z kolumna Umbera 06-20; Jona na Murze nie ma - list oddal DACEY MORMONT do reki, bo poselstwo idzie do Mance'a, wsrod ktorego Jona widziano. Bez rzutu (decyzja wlasnego czlowieka). Dalej - z poselstwem. ### 07-09 (Winterfell, stos Korony): list u Dacey w poselstwie za Murem - wiesc z poselstwem ~07-15.",
    "kto": "BRAN -> HALLIS -> JON",
    "kanal": "poselstwo Dacey -> Mur -> Winterfell",
-   "wraca": "300-07-08",
+   "wraca": "300-07-20",
    "zamyka": "list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem",
    "status": "otwarte"
   },
@@ -4846,10 +4846,10 @@
   },
   {
    "data": "300-05-02",
-   "co": "REKRUTACJA 50 Z OBSZARU KAMIENNEGO BRZEGU (pod Ulrikiem, obok rybakow z planu Theona); zold ~3 smoki/mies. z Kasy 3. ### 07-01: meldunek Corwina idzie do WINTERFELL (zasada 34) - pan odczyta na miejscu ~07-08.",
+   "co": "REKRUTACJA 50 Z OBSZARU KAMIENNEGO BRZEGU (pod Ulrikiem, obok rybakow z planu Theona); zold ~3 smoki/mies. z Kasy 3. ### 07-01: meldunek Corwina idzie do WINTERFELL (zasada 34) - pan odczyta na miejscu ~07-08. ### 07-09 (Winterfell, stos Korony): RZUT 35: TRZYDZIESTU JEDEN pod bronia; rybacy latem na sledziu - reszta po sezonie (Ulric).",
    "kto": "CORWIN + ULRIC (+ Torren - wsie)",
    "kanal": "na miejscu po przyjezdzie",
-   "wraca": "300-07-08",
+   "wraca": "300-09-15",
    "zamyka": "50 miejscowych pod bronia",
    "status": "otwarte"
   },
@@ -4950,7 +4950,7 @@
    "kanal": "kruk Winterfell-Stary Zamek",
    "wraca": "300-07-05",
    "zamyka": "spor pali orzeczony albo zalagodzony",
-   "status": "otwarte"
+   "status": "ZAMKNIETE (wiesc 06-25, rzut 100): UGODA Wdowia Straznica/Stary Zamek - pale wbite; potwierdzone w poczcie 07-09."
   },
   {
    "data": "300-05-06",
@@ -4981,10 +4981,10 @@
   },
   {
    "data": "300-05-09",
-   "co": "ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku. Tallhart: pierwszy statek i pierwszy miesiac; reszte liczy z maesterem do zniw ('22 tys. korcy/mies. to pol Polnocy'). Kontrakt pisze GAWEN (Kasa 3); wchodzi w zycie, gdy Mance da slowo. Ilosc i cena - po rachunku maestera i slupie (zasada 43). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): kontrakt Gawena gotowy w projekcie; wchodzi w zycie, gdy Mance da slowo - poselstwo Dacey ~06-20, wiesc ~06-25. ### 300-06-25: kontrakt Gawena gotowy w projekcie, wchodzi w zycie, gdy Mance da slowo; poselstwo Dacey u Mance'a ~06-28, wiesc przez Mur do Winterfell - pan w Winterfell ~07-08.",
+   "co": "ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku. Tallhart: pierwszy statek i pierwszy miesiac; reszte liczy z maesterem do zniw ('22 tys. korcy/mies. to pol Polnocy'). Kontrakt pisze GAWEN (Kasa 3); wchodzi w zycie, gdy Mance da slowo. Ilosc i cena - po rachunku maestera i slupie (zasada 43). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): kontrakt Gawena gotowy w projekcie; wchodzi w zycie, gdy Mance da slowo - poselstwo Dacey ~06-20, wiesc ~06-25. ### 300-06-25: kontrakt Gawena gotowy w projekcie, wchodzi w zycie, gdy Mance da slowo; poselstwo Dacey u Mance'a ~06-28, wiesc przez Mur do Winterfell - pan w Winterfell ~07-08. ### 07-09 (Winterfell, stos Korony): kontrakt dalej czeka na slowo Mance'a (poselstwo Dacey - wiesc ~07-15).",
    "kto": "GAWEN + TALLHART",
    "kanal": "Winterfell (pan na miejscu)",
-   "wraca": "300-07-08",
+   "wraca": "300-07-20",
    "zamyka": "kontrakt na pismie z iloscia pierwszej dostawy",
    "status": "otwarte"
   },
@@ -5562,7 +5562,7 @@
    "kanal": "kruk Hornwood-Winterfell (przez Bialy Port albo jezdziec)",
    "wraca": "300-07-08",
    "zamyka": "pierwszy meldunek: ilu chlopakow pod nauka",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - pierwszy meldunek (rzut 29): DZIEWIECIU chlopakow pod nauka zamiast dwudziestu - sianokos; Fennick: dwudziestu dopiero po zniwach."
   },
   {
    "data": "300-05-19",
@@ -5872,10 +5872,10 @@
   },
   {
    "data": "300-05-21",
-   "co": "WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEKT STARKPORTU: port, umocnienia, miasto, budynki. Dni Weylina placi KASA 3 (robota Korony; Gawen zapisuje). Wlasny czlowiek - bez rzutu na wykonanie. ### 05-21: przy pomiarze szukac GORACYCH ZRODEL (laznie Slonecznego Azylu); inaczej ogrzewanie torfem/drewnem spod podlogi. Miejsce na SKLADY OLEJU I TRANU osobno, za murem ogniowym, nad woda. ### 06-05: brak kanalu z Kamiennego Brzegu na dzis - potwierdzenie przybycia Weylina z meldunkiem Corwina o punkcie ognia (~06-14). ### 06-14: pan w drodze Barrowton->Fosa; odczyt na Fosie ~06-17 (zasada 34). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): WEYLIN NA KAMIENNYM BRZEGU od 06-04 (meldunek Corwina): mierzy zatoke lodzia z ciezarkiem i lina; na szczycie stara studnia strazy - woda slodka; goracych zrodel dotad nie znalazl. Pomiar na stol ~07-05 (E).",
+   "co": "WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEKT STARKPORTU: port, umocnienia, miasto, budynki. Dni Weylina placi KASA 3 (robota Korony; Gawen zapisuje). Wlasny czlowiek - bez rzutu na wykonanie. ### 05-21: przy pomiarze szukac GORACYCH ZRODEL (laznie Slonecznego Azylu); inaczej ogrzewanie torfem/drewnem spod podlogi. Miejsce na SKLADY OLEJU I TRANU osobno, za murem ogniowym, nad woda. ### 06-05: brak kanalu z Kamiennego Brzegu na dzis - potwierdzenie przybycia Weylina z meldunkiem Corwina o punkcie ognia (~06-14). ### 06-14: pan w drodze Barrowton->Fosa; odczyt na Fosie ~06-17 (zasada 34). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): WEYLIN NA KAMIENNYM BRZEGU od 06-04 (meldunek Corwina): mierzy zatoke lodzia z ciezarkiem i lina; na szczycie stara studnia strazy - woda slodka; goracych zrodel dotad nie znalazl. Pomiar na stol ~07-05 (E). ### 07-09 (Winterfell, stos Korony): POMIAR NA STOLE: zatoka - przy cyplu dno skaliste i glebiej (statek Torrena stanie przy pomoscie), w glebi piasek i plycizna; wiatr - zachodni sztormy jesienia, cypel oslania; studnia strazy na szczycie - slodka, cysterna potrzebna dla miasta; GORACYCH ZRODEL BRAK (ogrzewanie torfem/drewnem pod podloga). Weylin zaczyna PROJEKT STARKPORTU (port, umocnienia, miasto, sklady tranu za murem ogniowym) - na stol ~09-15.",
    "kto": "SYMON -> WEYLIN (Fosa)",
    "kanal": "kruk Winterfell-Fosa (05-21) + droga Fosa-Kamienny Brzeg (E: tygodnie)",
-   "wraca": "300-07-05",
+   "wraca": "300-09-15",
    "zamyka": "Weylin na miejscu (E ~06-05); pomiar na stole (data od Weylina)",
    "status": "otwarte"
   },
@@ -6093,7 +6093,7 @@
    "kanal": "przez Dustinport + kruk z Fosy",
    "wraca": "300-07-08",
    "zamyka": "spis imienny Kamiennego Brzegu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09: spis imienny Kamiennego Brzegu (Ulric, Corwin, Brann) - ok. 120 nazwisk (E), wies po wsi; wlocznia i luk w chacie u polowy; tarcze przy dwoch wsiach."
   },
   {
    "data": "300-05-24",
@@ -6228,7 +6228,7 @@
    "kanal": "Winterfell (na miejscu)",
    "wraca": "300-07-08",
    "zamyka": "stol w szwalni + polki w bibliotece",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 (kasztelan): szwalnia II pietro - stol do krojenia i polki stoja; biblioteka III - polki i latarnia za szklem gotowe."
   },
   {
    "data": "300-05-25",
@@ -6795,7 +6795,7 @@
    "kanal": "trakt Hornwood-Kamienny Brzeg",
    "wraca": "300-07-07",
    "zamyka": "stado na miejscu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 06-27 (karta IV Starkportu): stado doszlo; pastuchy zostaja do strzyzy."
   },
   {
    "data": "300-05-30",
@@ -7056,7 +7056,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-05",
    "zamyka": "nowa ksiega Skarbu w trzech kolumnach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09: nowa ksiega Skarbu w trzech kolumnach (moneta / spienieznione swiadczenia / zjadane w naturze) - Gawen; kwoty w ksiedze (zasada 43)."
   },
   {
    "data": "300-06-07",
@@ -7092,7 +7092,7 @@
    "kanal": "Winterfell / kruk BP",
    "wraca": "300-07-05",
    "zamyka": "liczba w nowej ksiedze Skarbu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 (Gawen+Hal): garbarnia i wedzarnia Domu biora ok. 1/3 sprzedawanej skory i ryby z danin; przedzalnia - welna od jesieni; prowizja Domu - stawka w umowie (E); liczba w nowej ksiedze Skarbu."
   },
   {
    "data": "300-06-07",
@@ -7168,10 +7168,10 @@
   },
   {
    "data": "300-06-08",
-   "co": "PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy drzwiach rodziny, obcy przy Lyrze nigdy sam); po powrocie lekcja mistrza z Braavos (skrytobojca) i Luwina (trucizny, odtrutki, szkatulka); Willa - najemne noze.",
+   "co": "PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy drzwiach rodziny, obcy przy Lyrze nigdy sam); po powrocie lekcja mistrza z Braavos (skrytobojca) i Luwina (trucizny, odtrutki, szkatulka); Willa - najemne noze. ### 07-09 (Winterfell, stos Korony): lekcje po powrocie: mistrz z Braavos (skrytobojca) i Luwin (trucizny, odtrutki) - ustalone na 07-12; szkatulka z odtrutkami od Luwina gotowa w komnacie Tallych.",
    "kto": "STEN + MISTRZ Z BRAAVOS + LUWIN + WILLA",
    "kanal": "osobiscie / kruk",
-   "wraca": "300-07-05",
+   "wraca": "300-07-12",
    "zamyka": "lekcje odbyte + szkatulka z odtrutkami przy rodzinie",
    "status": "otwarte"
   },
@@ -7222,10 +7222,10 @@
   },
   {
    "data": "300-06-09",
-   "co": "WSPOLNY ZAKUP Z LORDAMI (z zalozenia karty Spichlerza, Etap II: 'Korona kupuje raz, latem, kontraktem') - BEZ RZUTU (VOID rzutu 06-09, wskazanie gracza): zgranie na podstawie wyliczenia. Zapotrzebowanie lordow z formularza Etapu I (06-12) + karta Orlanda; jeden kontrakt Korony (Rodwell, Gawen); kazdy lord placi swoja czesc po cenie kontraktu bez marzy. Kupujemy: zboze jadalne, ROSLINY STRACZKOWE (groch, bob, soczewica), inna zywnosc na zime, osobno ziarno i nasiona SIEWNE przystosowane do Polnocy.",
+   "co": "WSPOLNY ZAKUP Z LORDAMI (z zalozenia karty Spichlerza, Etap II: 'Korona kupuje raz, latem, kontraktem') - BEZ RZUTU (VOID rzutu 06-09, wskazanie gracza): zgranie na podstawie wyliczenia. Zapotrzebowanie lordow z formularza Etapu I (06-12) + karta Orlanda; jeden kontrakt Korony (Rodwell, Gawen); kazdy lord placi swoja czesc po cenie kontraktu bez marzy. Kupujemy: zboze jadalne, ROSLINY STRACZKOWE (groch, bob, soczewica), inna zywnosc na zime, osobno ziarno i nasiona SIEWNE przystosowane do Polnocy. ### 07-09 (Winterfell, stos Korony): Gawen+Rodwell: formularze od jedenastu lordow z iloscia (E); kontrakt Korony w projekcie - do podpisu Krola (agenda).",
    "kto": "KROL -> LORDOWIE (Rodwell, Gawen)",
    "kanal": "kruki Krola do lordow (po liscie pana, ~06-15)",
-   "wraca": "300-07-05",
+   "wraca": "300-07-12",
    "zamyka": "kontrakt z lista lordow i ilosciami (z formularza + karta Orlanda)",
    "status": "otwarte"
   },
@@ -7281,7 +7281,7 @@
    "kanal": "jezdziec Fosa-Dustinport (4 dni)",
    "wraca": "300-07-08",
    "zamyka": "pierwsza proba: oba ognie odpowiadaja",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 (meldunek Donnela przez Fose i Garricka): pierwsza proba ~06-29 o zmierzchu - OBA OGNIE ODPOWIEDZIALY (cypel nad zatoka i Wzgorze Starej Strazy); proba co 7. dzien."
   },
   {
    "data": "300-06-13",
@@ -8094,7 +8094,7 @@
    "kanal": "kruk Fosa-Winterfell",
    "wraca": "300-07-08",
    "zamyka": "meldunek Gawena: na ktorych budowach dziala",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 (Gawen): karb dziala na T1 i T3, przy spichlerzu Zimowego Miasta i przy dwoch wiezach lancucha; Starkport i komory - od VIII; przysiezni od skarg podlegaja Justycjariuszowi."
   },
   {
    "data": "300-06-21",
@@ -8341,10 +8341,10 @@
   },
   {
    "data": "300-06-23",
-   "co": "PROJEKT KODEKSOW KORONY - ODPISY DO LEKTURY: Justycjariusz CERWYN (sady Korony, sad przy bramie, kary) i Skarbnik GAWEN (komory, Kasa 3, lustratorzy, bandery) - kruk Fosa-Winterfell (Cerwyn - przez Winterfell za nim). Uwagi obu na stole przed rozmowa z Krolem ~07-08. Wola obca (urzednicy Korony, ich zdanie) - RZUT przy uwagach.",
+   "co": "PROJEKT KODEKSOW KORONY - ODPISY DO LEKTURY: Justycjariusz CERWYN (sady Korony, sad przy bramie, kary) i Skarbnik GAWEN (komory, Kasa 3, lustratorzy, bandery) - kruk Fosa-Winterfell (Cerwyn - przez Winterfell za nim). Uwagi obu na stole przed rozmowa z Krolem ~07-08. Wola obca (urzednicy Korony, ich zdanie) - RZUT przy uwagach. ### 07-09 (Winterfell, stos Korony): RZUT 32: uwagi GAWENA na stole (komory, lustratorzy, bandery - jedna zasadnicza: koszt lustratorow); uwag CERWYNA BRAK - byl na objezdzie, odpis lezy w Winterfell nieprzeczytany; uwagi przy mediacji 07-10.",
    "kto": "SYMON -> CERWYN + GAWEN",
    "kanal": "kruk Fosa-Winterfell",
-   "wraca": "300-07-06",
+   "wraca": "300-07-10",
    "zamyka": "uwagi Cerwyna i Gawena do projektu",
    "status": "otwarte"
   },
@@ -8418,7 +8418,7 @@
    "kanal": "kruk Karhold-Winterfell",
    "wraca": "300-07-08",
    "zamyka": "odpowiedz Karstarka albo cisza",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - odpowiedz Karstarka (rzut 37 - jedna konsekwencja; tresc w dzienniku 07-09)."
   },
   {
    "data": "300-06-25",
@@ -8634,7 +8634,7 @@
    "kanal": "kruk Fosa-Winterfell (2 dni)",
    "wraca": "300-07-08",
    "zamyka": "wypis Luwina na stole pana w Winterfell",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - wypis Luwina na stole (rzut 59; tresc w dzienniku 07-09)."
   },
   {
    "data": "300-06-28",
@@ -9067,7 +9067,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-06",
+   "ostatnio_odebrane": "300-07-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -9079,7 +9079,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-06",
+   "ostatnio_odebrane": "300-07-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -9116,7 +9116,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-21",
+   "ostatnio_odebrane": "300-07-05",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -9141,7 +9141,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-27",
+   "ostatnio_odebrane": "300-07-04",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

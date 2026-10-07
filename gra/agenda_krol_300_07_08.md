@@ -29,3 +29,6 @@
 ## DOPISANE W DRODZE (07-07, zamek Cerwyn)
 - **17. Swiadek w sporze Hornwood/Dreadfort** - list zelazny i ochrona Krola dla niego i rodziny, pomoc w przeprowadzce (imie tylko ustnie; Cerwyn proponuje w cztery oczy przy mediacji ~07-10).
 - **18. Eskorta Justycjariusza** - objazd sedziowski pod choragwia Starkow (ludzie Korony + Cerwynow); zwrot Cerwynowi za ludzi odciagnietych od zamku i sianokosu (kwoty - Gawen, E).
+
+- **19. Karstark (odpowiedz 07-09, rzut 37)** - 'Akt to slowo, slowo to nie syn': Karhold nie da statkow na Skagos, dopoki Krol nie zazada HARRIONA Z IMIENIA w nastepnym pismie do Lannisterow.
+- **20. Wspolny zakup z lordami** - kontrakt Korony (Gawen+Rodwell, 11 lordow z iloscia) do podpisu.

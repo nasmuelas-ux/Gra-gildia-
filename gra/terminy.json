@@ -9283,6 +9283,15 @@
    "wraca": "300-07-12",
    "zamyka": "slowo Krola (rozkaz wyslany albo odlozony z data)",
    "status": "otwarte - pan idzie z planem do Krola 07-12"
+  },
+  {
+   "data": "300-07-11",
+   "co": "HAL - SPIS KWITOW LWA WEDLUG DAT (rada Lucana, zgoda pana 07-11): papiery Lwa w Kasie 1 posortowane: PRZED ugoda 299-04-20 / PO ugodzie; po ugodzie - garnizon, miejsce, data, co wziete. Odpis spisu tylko do rak pana. Dowod rekwizycji w czasie pokoju (zabezpieczenie Domu). Wlasni - bez rzutu.",
+   "kto": "HAL",
+   "kanal": "kruk Winterfell-Bialy Port (osobna kartka, pieczec domowa)",
+   "wraca": "300-08-05",
+   "zamyka": "spis kwitow przed/po ugodzie w rekach pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

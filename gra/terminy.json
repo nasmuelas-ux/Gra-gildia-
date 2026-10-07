@@ -9120,7 +9120,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-11",
    "zamyka": "karta Aryi spisana",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-11: karta spisana u Luwina (polowe napisala Arya)"
   },
   {
    "data": "300-07-10",
@@ -9138,7 +9138,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-11",
    "zamyka": "odpowiedz Luwina; pierwsza lekcja",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-11: Luwin TAK na oba (rzut 87), Krol TAK - srebro Korony (rzut 70); Mira zaczyna 07-15"
   },
   {
    "data": "300-07-11",
@@ -9327,6 +9327,15 @@
    "kanal": "osobiscie (orszak Krola)",
    "wraca": "300-08-20",
    "zamyka": "powrot Lucana z ustaleniami z Halem na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "MIRA W SZKOLE ZIMOWEGO MIASTA - START (Luwin 87, Krol 70): dwa ranki w tygodniu (krojenie i szycie; litery z najmniejszymi u Halli) + KARTA SZKOLY jak na Fosie (ile dzieci, skad, kto czyta/pisze/liczy, kto odpada) + nabor ze wsi. Srebro Korony (Gawen). Mira - bez rzutu.",
+   "kto": "MIRA + LUWIN + HALLA; GAWEN (Kasa 3)",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-31",
+   "zamyka": "pierwsza karta szkoly ZM od Miry",
    "status": "otwarte"
   }
  ],

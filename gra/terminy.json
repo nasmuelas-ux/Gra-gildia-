@@ -9238,6 +9238,33 @@
    "wraca": "300-08-04",
    "zamyka": "akt regencji podpisany przez Krola przed wyjazdem",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "MANCE - DWA LISTY PRZED ODPOWIEDZIA (rada Lucana, zgoda pana 07-11): szkic na TAK (Cypel, przewoz przez Zatoke Lodu, zboze Tallharta, co powiedziec lordom tego samego dnia) i na NIE (dzicy przyjda bez przysiegi - lancuch ognia, Mur, Kamienny Brzeg). Lucan pisze, pan przedklada Krolowi (list Korony - Krol). Wlasni - bez rzutu.",
+   "kto": "LUCAN -> SYMON -> KROL",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-14",
+   "zamyka": "oba szkice gotowe przed wiescia od Dacey (~07-15)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "CYPEL - RACHUNEK CHLEBA NA PIERWSZA ZIME DZIKICH (rada Lucana, zgoda pana 07-11): ile korcy miesiecznie dla 22 tys. (i dla mniejszej liczby, jesli przyjdzie mniej), skad (zboze Tallharta, Spichlerz, kontrakt z Reach), ile do zniw 301; obok - ile Polnoc moze dac bez ruszania siewnego. Liczy SPICHLERZ (Orland, Mistrz Zapasow) z Gawenem. Urzednicy Korony - bez rzutu.",
+   "kto": "KANCELARIA NAMIESTNIKA -> ORLAND (Spichlerz) + GAWEN",
+   "kanal": "osobiscie / kruk",
+   "wraca": "300-07-25",
+   "zamyka": "rachunek na pismie przed decyzja o przewozie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "POSTERUNEK DOMU NA CZARNYM ZAMKU - DWA OKA (rada Lucana, zgoda pana 07-11): (1) WYBOR LORDA DOWODCY - kto i czym zabiega o glosy (dary, obietnice, listy z poludnia); Korona nie wybiera - pilnuje, zeby nikt nie kupil; (2) LISTY NA POLUDNIE - czy z Czarnego Zamku zaczynaja chodzic listy do Krolewskiej Przystani albo do Stannisa (przeciwnicy pokoju z dzikimi). Sluchac, nie pytac. Wlasni - bez rzutu na patrzenie; co zobacza - rzut przy meldunku.",
+   "kto": "POSTERUNEK DOMU (Czarny Zamek), Kasa 1",
+   "kanal": "kolumna ziarna / kruk Czarny Zamek-Winterfell",
+   "wraca": "300-08-10",
+   "zamyka": "pierwszy meldunek posterunku o obu sprawach",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

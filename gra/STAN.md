@@ -25,15 +25,12 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**173 otwartych** · **2 PRZETERMINOWANYCH** · 1 wraca dzis
+**172 otwartych** · **2 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
 - **+1 dni** — T1-B ODNOGA DO BLIZNIAKOW - przebieg z pomiaru Brenna z Brodu na stol Krola razem z planem zbozowym i T3-C. Dlug Korony wobec Wald… · _kanal:_ Winterfell · _zamyka:_ decyzja Krola o starcie T1-B i T3-C
 - **+1 dni** — POWROT RODZINY DO WINTERFELL (decyzja pana 06-19: zostaje z Mira i Lyra na Fosie do pierwszej lekcji szkoly 07-01): wyjazd 07-02 -… · _kanal:_ trakt Fosa-Winterfell · _zamyka:_ rodzina i Arya w Winterfell
-
-### 🟡 WRACA DZIS
-- PRZEGLAD KART KROLESTW z Sansa - DRUGI (miesieczny): 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Na wierzchu [10] Mur. ### … · _kanal:_ wlasna robota (Winterfell)
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -471,7 +468,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-19** — MCHOWE JASTRZEBIE - LODZ NA LUCE PRZESMYKU: dwoch z kagancem/ogniem sygnalowym na zachodnim brzegu Przesmyku miedzy Palcem Flintow a Goracym Portem; zagiel -> ogien na najblizszym punkcie lancucha + znak do Fosy. Obsada i zmiany - Hendry. Wlasni ludzie - bez rzutu. · _kto:_ **HENDRY -> MCHOWE JASTRZEBIE** · _zamyka:_ lodz na wodzie: imiona, zmiany, od kiedy **⚠ ZAMKNIETE 300-05-23 - LODZ NA WODZIE OD 05-22: HOB TRZCINA I GARET SOWA, ZMIANA CO 5 DNI**
 - **300-05-19** — REEDOWIE - OGIEN U UJSC PRZESMYKU: list do Howlanda Reeda - czy krannogi dadza znak/zapala ogien na widok zelaznego zagla (wg karty znakow ognia). Wola obca - RZUT przy odpowiedzi; odpowiedz moze przyjsc tez przez Jojena i Meere (~05-30..06-05). · _kto:_ **SYMON -> HOWLAND REED** · _zamyka:_ odpowiedz Reeda (rzut) **⚠ ZAMKNIETE 300-06-05 (RZUT 25) - JEDNA KONSEKWENCJA: KRANNOGI NIE PALA OGNIA ('OGIEN NA BAGNACH WIDAC Z DALEKA, A NAS MA NIE BYC WIDAC'); NA WIDOK ZELAZNEGO ZAGLA DAJA ZNAC LODZIA DO GROBLI FOSY (WOLNIEJ NIZ OGIEN, PEWNIEJ NIZ NIC). UJSCIE PRZESMYKU BEZ PUNKTU OGNIA.**
 - **300-05-19** — KONTRAKT UMBERA NA ZAOPATRZENIE MURU - DATA PIERWSZEJ KOLUMNY (zasada 36: kontrakt z 05-10 bez otwartej operacji; ziarno na Murze do konca VI). Gawen (Skarb) ustala z Ostatnim Ogniskiem date wyjazdu pierwszej kolumny kontraktu (dwie na kwartal, 40-60 za kolumne wg Gawena). · _kto:_ **GAWEN -> WIELKI JON UMBER** · _zamyka:_ data pierwszej kolumny na pismie **⚠ ZAMKNIETE 300-05-26 (RZUT 74) - PIERWSZA KOLUMNA 06-08 Z OSTATNIEGO DOMOSTWA, NA MURZE ~06-20**
-- **300-05-19** — PRZEGLAD KART KROLESTW z Sansa - DRUGI (miesieczny): 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Na wierzchu [10] Mur. ### 06-18: pan na Fosie - PRZELOZONE NA POWROT do Winterfell (~07-01); Sansa dostaje wiadomosc w liscie do Krola. ### 06-19: pan zostaje na Fosie do 07-02 - przeglad po powrocie (~07-09). · _kto:_ **SYMON + SANSA** · _zamyka:_ karty poprawione
+- **300-05-19** — PRZEGLAD KART KROLESTW z Sansa - DRUGI (miesieczny): 'karta, ktorej nikt nie poprawia, zaczyna klamac'. Na wierzchu [10] Mur. ### 06-18: pan na Fosie - PRZELOZONE NA POWROT do Winterfell (~07-01); Sansa dostaje wiadomosc w liscie do Krola. ### 06-19: pan zostaje na Fosie do 07-02 - przeglad po powrocie (~07-09). · _kto:_ **SYMON + SANSA** · _zamyka:_ karty poprawione **⚠ ZAMKNIETE 300-07-09 - PRZEGLAD ODBYTY (BEZ RZUTU - WLASNA ROBOTA); TRESC W DZIENNIKU 07-09.**
 - **300-05-19** — WILLA - CZEMU ZWINIETO POLUDNIE (pytanie Symona). Z zapisu: odstawienie rozkazem pana 300-03-03 po zwezeniu na Baelisha (r9, jedna reka milczy, firewall trzymal); kanal przejety (03-17) i grany swiadomie (03-19); trop zwiniety 04-28. Willa odpowiada: stan dzis - co zostalo z rak i z przejetego kanalu. ### DOPISANE 05-19: (a) USPIENI W MIESCIE KP wg rady Sansy (nie dwor; bez polnocnego akcentu; prawdziwy interes; tylko sluchanie, meldunek miesieczny); (b) DOKTRYNA: siatka poludniowa ROSNIE; przy wpadce odciac ogniwo, nie zatrzymywac calosci. Willa odpowiada planem. ### DOPISANE 05-19 (2): POSREDNIK Z MYR - co ustalono od 299-12-31 (rzut przy odpowiedzi). · _kto:_ **SYMON -> WILLA** · _zamyka:_ odpowiedz Willi: powod (03-03) + stan + PLAN usypiania w KP i doktryna odcinania **⚠ ZAMKNIETE 300-05-23 (RZUT 80) - POWOD, STAN (DWIE RECE USPIONE W KP), PLAN TRZECH USPIONYCH DO 07-01, DOKTRYNA PRZYJETA; POSREDNIK Z MYR PLACI PRZEZ DOM SZKLARSKI ORRELLO**
 - **300-05-19** — SIATKA POLUDNIOWA - PIERWSI USPIENI W KROLEWSKIEJ PRZYSTANI: osadzenie wg planu Willi (po odpowiedzi ~05-23). Rzut przy pierwszym meldunku (miasto obce - czy ktos sie osadzil i jak gleboko). Kanal siatki: 14 dni w jedna strone, 35 w obie. · _kto:_ **WILLA (siatka)** · _zamyka:_ pierwszy meldunek z miasta albo nazwana przyczyna braku **⚠ ZAMKNIETE 300-07-01 - RZUT 34 (PROG 50) - JEDNA KONSEKWENCJA: Z DWOCH RAK USPIONYCH OSADZILA SIE JEDNA - BRAAVOSCZYK PRZY PORCIE (PISARZ U DOSTAWCY LIN I SMOLY, MA POWOD, BY STAC NA NABRZEZU); DRUGA NIE - NIE ZNALAZLA ROBOTY Z PRAWDZIWYM INTERESEM I WROCILA NA STATEK ('LEPIEJ WROCIC NIZ STAC NA ROGU I BYC WIDOCZNYM' - JEJ ZASADA). PIERWSZY MELDUNEK Z MIASTA - ZA MIESIAC (KANAL 14/35). WILLA SZUKA DRUGIEJ REKI TA SAMA DROGA (BRAAVOSCZYCY PRZEZ FAKTORIE, NIE NESTA). KARTKA WILLI: LITERA I LICZBA, BEZ IMION.**
 - **300-05-19** — HAL - RAPORT ANALITYCZNY: ZLOTO LANNISTEROW W OCZACH RYNKU (z placowek: Braavos, Pentos, Seagard, Rozdroze, Reach od VI) - jak kupcy przyjmuja zloto i weksle Lwa, kredyt Lannisportu, czym placi Twierdza, co mowia nabrzeza o kopalniach Zachodu. Fakty i zrodla, bez dokladnych liczb; czego nie wie - pisze, ze nie wie. Wlasny czlowiek - bez rzutu. ### 05-19 POPRAWKA PANA: osobno, nie z bilansem - zestawienie z DOTYCHCZASOWYCH sygnalow rynkowych, bez nowego zbierania. · _kto:_ **HAL (Bialy Port)** · _zamyka:_ raport na pismie **⚠ ZAMKNIETE 300-05-27 - RAPORT HALA (BEZ LICZB): BVB PRZYJMUJE ZLOTO, WEKSLE DYSKONTUJE GLEBIEJ; PENTOS WOLI MONETE; GARNIZONY PLACA KWITEM; POGLOSK O SLABSZYCH ZYLACH.**
@@ -1029,7 +1026,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-09 poludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 18**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 21**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 43 smokow + 54 jeleni + 11 mied
@@ -2147,7 +2144,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-09] `dziennik`: OBIAD, WIELKA SALA. Zupa grochowa z boczkiem, pieczony kurczak, chleb Benneta, ser, piwo; dla dzieci placki z jablkami. Sytosc 92->100, zmeczenie 10->16 (pol dnia przy pismach). Bez rzutu. K…
 - [300-07-09] `dziennik`: PO OBIEDZIE, SOLAR KROLA - AGENDA. Obecni: KROL, SYMON, GAWEN (nowa ksiega Skarbu pod pacha), LUWIN; Sten za drzwiami. Bez rzutu (otwarcie). Krol: 'Od czego zaczynamy?' Na stole agenda: do d…
 - [300-07-09] `dziennik`: SOLAR KROLA - PKT 1 SKAGOS i PKT 19 KARSTARK. SYMON: zaczynamy od Skagos i Karstarka; Karstark nie ma zbyt wielu okretow, o ile jakies ma (watpliwosc na korzysc gracza: Karhold - kilka lodzi…
 - [300-07-09] `dziennik`: SOLAR KROLA - PKT 17 SWIADEK I LIST ZELAZNY. Symon przedklada (imienia swiadka nie mowi przy Gawenie i Luwinie - Krol sam: 'Imienia nie chce slyszec. Nie tu.'). RZUT 44: ZGODA Z JEDNA KONSEK…
@@ -2159,3 +2155,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-09] `dziennik`: SOLAR KROLA - SYMON wraca do PKT 1 SKAGOS (rozstrzygnietego dzis rzutem 92 - flota, plaza pod Kingshouse, bez Karholdu, koniec lata). Bez nowego rzutu (zasada 27). KROL: 'Ustalilismy. Chyba …
 - [300-07-09] `dziennik`: SOLAR KROLA (cd.). SYMON: pod nieobecnosc Krola (Skagos) ZOSTAJE W WINTERFELL przy krolestwie. Krol: 'Dobrze. Spiszemy przed wyplynieciem, czego nie rozstrzygasz sam.' DALEJ Z LISTY: PKT 2 S…
 - [300-07-09] `dziennik`: POPOLUDNIE, KOMNATA NAMIESTNIKA - ⚑ SYMON PISZE DO LORDA WALDERA FREYA PRZEZ SER PERWYNA (obietnica: 'po ratyfikacji, na pismie' - dotrzymana). Bez rzutu (pismo). TRESC (z ustalen, reka pana…
+- [300-07-09] `dziennik`: PO POLUDNIU, KOMNATA SANSY - PRZEGLAD KART KROLESTW (drugi, miesieczny; od 05-19 przekladany). Bez rzutu (wlasna robota). Okno otwarte, dwanascie kart na stole, kartka 'CO SIE ZMIENILO OD 8 …

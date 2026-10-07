@@ -5,7 +5,7 @@
   "dzien": 11,
   "era": "AC"
  },
- "pora": "poludnie",
+ "pora": "wieczor",
  "sezon": "zima (300)",
  "pogoda": "RZUT 14 (300-07-11) - JEDNA KONSEKWENCJA: deszcz od przed switu, rowny i zimny jak na lipiec; wiatr z polnocy; dziedziniec w kaluzach, bozy gaj mokry - poranna nauka Brana w gaju skrocona.",
  "dzien_tygodnia_nr": 5,
@@ -141,7 +141,7 @@
  "lokacja": "BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-03-30.",
  "_dziennik_stan_poludnia_zelazny_tron_299_07": 1,
  "_dziennik_poludnie_w_ruchu_299_07": 2,
- "pora_dnia": "poludnie",
+ "pora_dnia": "wieczor",
  "_dziennik_stannis_pozycja_potwierdzenie_299_07_24": 1,
  "miasto": "BIALY PORT",
  "geografia_lod_porty_299_08": {

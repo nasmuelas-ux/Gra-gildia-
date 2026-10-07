@@ -1,6 +1,6 @@
 # KARTA PRZYBOCZNEJ DOMU TALLY
 _Szkic spisany 300-07-12 w zbrojowni Winterfell. Spisali: Namiestnik Symon Tally, kapitan przybocznej STEN i mistrz z Braavos. Luwin dopisał część o truciźnie. Wzorem była karta Zimowej Straży z 299-08-12. Przyboczna nie jest jednak gwardią Korony, tylko strażą Domu._
-_Status: **SZKIC — do słowa pana.** Dwie rzeczy czekają na rozstrzygnięcie: kolejność ochrony (pkt IV) i forma przysięgi (pkt VI)._
+_Status: **PRZYJĘTA słowem pana 300-07-12.** Kolejność ochrony zatwierdzona, a przysięga składana bez wiary, przed rodziną pana. Sąd w lennie i w jurysdykcji Domu należy do pana._
 
 ---
 
@@ -38,7 +38,7 @@ Przyboczna to **straż osobista Domu Tally**. Chroni pana, jego rodzinę i jego 
 **Milczenie.** Przyboczny nie powtarza niczego, co usłyszał przy panu, przy jego stole, przy jego papierach i przy jego rodzinie. Nie powtarza tego nikomu, także innym przybocznym, którzy przy tym nie byli. Zapis jest dozwolony tylko w Księdze Przybocznej.
 
 ## IV. Kogo chroni i w jakiej kolejności
-⚠ **DO SŁOWA PANA.** Szkic kapitana:
+**Zatwierdzone słowem pana 300-07-12:**
 1. **Pan.**
 2. **Dzieci pana.** Przy rozdzieleniu przyboczni idą za dzieckiem, a nie za dorosłym, chyba że pan wyda inny jawny rozkaz.
 3. **Pani Domu.**
@@ -65,7 +65,7 @@ Przyboczna to **straż osobista Domu Tally**. Chroni pana, jego rodzinę i jego 
   - **rozkazu:** czy zna granicę.
 
 ## VI. Przysięga
-⚠ **DO SŁOWA PANA:** gdzie przysięga przyboczny. Szkic kapitana: **przed czardrzewem albo w septcie, według wiary przysięgającego. Słowa są te same.** Przysięga odbywa się w obecności pana i kapitana, a kapitan wpisuje imię do Księgi.
+**Słowo pana 300-07-12: PRZYSIĘGA BEZ WIARY, TYLKO PRZED RODZINĄ.** Bez drzewa, septy i bogów. Przyboczny przysięga **przed panem, panią Domu i dziećmi pana**, w domu pana, w obecności kapitana, i patrzy w twarz tym, których będzie chronić. Każdy wierzy, w co chce, ale przysięga jest jedna i składa się ją ludziom. Kapitan wpisuje imię do Księgi.
 
 **ROTA:**
 > Będę przy panu, gdy będzie trzeba, i przy jego dzieciach, gdy jego nie będzie.

@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**193 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy… · _kanal:_ osobiscie / kruk
+**192 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -637,7 +634,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-06-07** — LUCAN -> EDRIC SZUWAR: rada Jojena - nie brac zelaza na brzeg Wyspy Twarzy, nie ciac drzew; dojdzie po przybiciu (~06-17), wazna na powrot albo druga probe. Bez rzutu (przekazanie). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). · _kto:_ **SYMON -> LUCAN -> EDRIC** · _zamyka:_ rada przekazana Edricowi (albo jego wiesc przyszla wczesniej) **⚠ ZAMKNIETE 300-06-18 (POCZTA NA FOSIE): RADA JOJENA U LUCANA ~06-17 - PO POWROCIE EDRICA; WAZNA NA DRUGA PROBE (DECYZJA PANA).**
 - **300-06-08** — KOSZARY PRZYBOCZNEJ W ZIMOWYM MIESCIE - duzy budynek przy faktorii Domu; kazdy przyboczny wlasna izba; rodziny moga zamieszkac. Kasa 1. Faktor + Hal: wybor budynku i wycena; potem przebudowa. Wlasni - bez rzutu. ### 300-06-25: faktor Zimowego Miasta (kruk przez Luwina): budynek wskazany - dawny sklad welny przy faktorii, kamienny parter; wycena przebudowy u Hala (Kasa 1). Pan obejrzy na miejscu. · _kto:_ **SYMON -> FAKTOR ZIMOWEGO MIASTA + HAL** · _zamyka:_ budynek kupiony i wycena przebudowy **⚠ ZAMKNIETE 300-07-10 - FAKTOR ZM: DAWNY SKLAD WELNY PRZY FAKTORII KUPIONY (KASA 1, KWOTA W KSIEDZE HALA); PRZEBUDOWA NA IZBY - W ROBOCIE (OKIENNICE WYMIENIANE - PAN WIDZIAL 07-08); WPROWADZENIE PRZYBOCZNYCH ~IX.**
 - **300-06-08** — PRZYBOCZNA - NAUKA CZYTANIA I PISANIA: Aldwin godzina dziennie po warcie (droga, Winterfell); na Fosie szkola Miry (Rowan Szczupak pierwszy). Meldunek Aldwina: kto czyta rozkaz. · _kto:_ **ALDWIN + MIRA** · _zamyka:_ lista: kto czyta rozkaz do konca
-- **300-06-08** — PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy drzwiach rodziny, obcy przy Lyrze nigdy sam); po powrocie lekcja mistrza z Braavos (skrytobojca) i Luwina (trucizny, odtrutki, szkatulka); Willa - najemne noze. ### 07-09 (Winterfell, stos Korony): lekcje po powrocie: mistrz z Braavos (skrytobojca) i Luwin (trucizny, odtrutki) - ustalone na 07-12; szkatulka z odtrutkami od Luwina gotowa w komnacie Tallych. ### 07-12: LEKCJE DZIS w Winterfell - mistrz z Braavos (skrytobojca), Luwin (trucizny, odtrutki, szkatulka); Sten prowadzi; czesc Willi (najemne noze) - listem. Pora - do slowa pana. · _kto:_ **STEN + MISTRZ Z BRAAVOS + LUWIN + WILLA** · _zamyka:_ lekcje odbyte + szkatulka z odtrutkami przy rodzinie
+- **300-06-08** — PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy drzwiach rodziny, obcy przy Lyrze nigdy sam); po powrocie lekcja mistrza z Braavos (skrytobojca) i Luwina (trucizny, odtrutki, szkatulka); Willa - najemne noze. ### 07-09 (Winterfell, stos Korony): lekcje po powrocie: mistrz z Braavos (skrytobojca) i Luwin (trucizny, odtrutki) - ustalone na 07-12; szkatulka z odtrutkami od Luwina gotowa w komnacie Tallych. ### 07-12: LEKCJE DZIS w Winterfell - mistrz z Braavos (skrytobojca), Luwin (trucizny, odtrutki, szkatulka); Sten prowadzi; czesc Willi (najemne noze) - listem. Pora - do slowa pana. · _kto:_ **STEN + MISTRZ Z BRAAVOS + LUWIN + WILLA** · _zamyka:_ lekcje odbyte + szkatulka z odtrutkami przy rodzinie **⚠ ZAMKNIETE 300-07-12: LEKCJE ODBYTE (LUWIN - TRUCIZNY I SZKATULKA PRZY RODZINIE; MISTRZ Z BRAAVOS - NOZE); CZESC WILLI - OSOBNYM LISTEM**
 - **300-06-08** — PRZYBOCZNA - PROSBY: przegroda w izbie strazy Wiezy (kasztelan, od zaraz); lniane narzuty na lato (Tessa, plotno z targu); URLOP GAREDA KOWADLA po Fosie do BP przed rozwiazaniem zony (~VIII), Dom placi droge; ROWAN SZCZUPAK do szkoly na Fosie. Zgoda pana. ### 06-20 (pan na Fosie): przegroda w izbie strazy Wiezy - potwierdzenie kasztelana krukiem ~06-24; narzuty lniane - Tessa na Fosie kupuje plotno na targu (06-26); urlop Gareda - VIII, bez zmian. ### 06-24: rano ulewa z zachodu (ta sama pogoda, rzut 18) - kruk z Winterfell dzis nie siadl na Fosie; odczyt z nastepnym krukiem 06-25. ### 300-06-25: kasztelan (kruk): PRZEGRODA w izbie strazy Wiezy postawiona. Zostaja: narzuty (Tessa, targ 06-26), urlop Gareda (VIII), Rowan do szkoly (07-01). ### 300-06-26: Tessa kupila plotno na targu (pod daszkami); narzuty szyje szwalnia Miry/Orsy. ### 07-01: ROWAN SZCZUPAK - do szkoly Fosy od dzis (zrobione); narzuty - szwalnia (w toku); zostaje URLOP GAREDA (VIII). · _kto:_ **STEN / DAGON / TESSA / KASZTELAN** · _zamyka:_ wszystkie cztery wykonane
 - **300-06-08** — T3-C - MOST PRZY BRODZIE (zajazd Ody, Trakt Krolewski Winterfell-Cerwyn): w ramach T3-C, przed roztopami 301; brod stoi wiosna ~3 tygodnie pod woda. Do Krola krukiem z Barrowton (domena placi). Rece domeny; ciesle - E. · _kto:_ **SYMON -> KROL (domena) / kasztelan** · _zamyka:_ most stoi przed mrozem albo przynajmniej przyczolki
 - **300-06-09** — POCZTA PANA W DRODZE: Luwin przekazuje listy do pana krukiem Winterfell-Barrowton (do 06-13), potem na Fose. ZBIORCZY GARRICKA (pisany 06-07, w Winterfell 06-09) - czytany w Barrow Hall ~06-12. · _kto:_ **LUWIN -> SYMON** · _zamyka:_ poczta odczytana w Barrow Hall **⚠ ZAMKNIETE 300-06-12 - PAKIET LUWINA ODCZYTANY W BARROW HALL; DALEJ POCZTA NA FOSE.**
@@ -1062,7 +1059,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-12 rano · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 0**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 5**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 43 smokow + 54 jeleni + 11 mied
@@ -2218,7 +2215,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-11] `dziennik`: SOLAR KROLA (cd.) - SYMON mowi Krolowi o REGENCJI (rada Lucana): spisac przed wyplynieciem nie tylko, czego regent nie rozstrzyga sam, ale i co, jesli Krol nie wroci. RZUT 70 (prerogatywa): …
 - [300-07-11] `dziennik`: SOLAR KROLA (cd.) - SYMON: kiedy Krol bedzie na wschodzie, a zelazni albo ktos inny zaatakuje - czy regent moze PODERWAC CHORĄGWIE? Bez nowego rzutu (ta sama sprawa regencji - rzut 70; zasad…
 - [300-07-11] `dziennik`: POPOLUDNIE, KOMNATA SANSY - SYMON przychodzi (po solarze Krola). Bez rzutu. Sansa przy stole z kartami rozlozonymi w wachlarz; okno otwarte po deszczu. Na wierzchu karta [5] DORZECZE - dopis…
 - [300-07-11] `dziennik`: KOMNATA SANSY (cd.) - SYMON mowi Sansie o ROZKAZIE DLA DORZECZA (Krol, rzut 99: otoczyc garnizony, zakaz handlu i kwitow, wyjscie do 08-05, ziarno Korony dla strazy Edmure'a) i o HARRIONIE (…
@@ -2230,3 +2226,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-11] `LYRA`: WIECZOR, KOMNATY TALLYCH - SYMON ZAJMUJE SIE LYRA po kolacji. Bez rzutu. Lyra (~1 rok i pare miesiecy) zabiera ojca na podloge: ukladanie kamykow ze sloika w rzad przy kominku ('jeden... dwa…
 - [300-07-12] `dziennik`: 300-07-12 RANEK (SOBOTA), WINTERFELL. SEN RZUT 63: noc dobra; Lyra raz przez sen 'Kamyk', pies odpowiada stuknieciem ogona; zdrowie 100, zmeczenie 20->0, sytosc 100->72. POGODA RZUT 53: chlo…
 - [300-07-12] `dziennik`: SNIADANIE, WIELKA SALA. Owsianka z miodem, jajka, wedzony boczek, chleb Benneta, maslo, mleko. Sytosc 72->92. Bez rzutu. Przy wysokim stole: Krol, Symon z Mira, Sansa, Arya, Bran (Hodor), Ri…
+- [300-07-12] `dziennik`: PRZED POLUDNIEM, ZBROJOWNIA I KOMNATA LUWINA - LEKCJE OCHRONY (termin 07-12). Obecni: SYMON, STEN, dwaj starsi z oddzialu I; Luwin; MISTRZ Z BRAAVOS. Bez rzutu (wlasni ludzie; wiedza z ich u…

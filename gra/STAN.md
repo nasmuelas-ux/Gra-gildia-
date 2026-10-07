@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**204 otwartych** · **34 PRZETERMINOWANYCH** · 21 wraca dzis
+**203 otwartych** · **34 PRZETERMINOWANYCH** · 20 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
@@ -59,7 +59,6 @@ _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy 
 - REZERWA - SPIS KAMIENNEGO BRZEGU (VI): imiennie, wies po wsi (imie / wies / co umie / gdzie bron); wlocznia i luk w chacie; tarcza… · _kanal:_ przez Dustinport + kruk z Fosy
 - WIEZA STRAZNICZA - URZADZENIE: II pietro szwalnia i biuro Miry (dlugi stol do krojenia, polki na sukna, pulpit do ksiag Fosy); III… · _kanal:_ Winterfell (na miejscu)
 - T1-B ODNOGA DO BLIZNIAKOW - przebieg z pomiaru Brenna z Brodu na stol Krola razem z planem zbozowym i T3-C. Dlug Korony wobec Wald… · _kanal:_ Winterfell
-- BRAN + JOJEN - NAUKA W BOZOGAJU O SWICIE (wejscie w Lato na jawie i powrot). Meldunek ustny dla Symona po powrocie z Fosy - co umi… · _kanal:_ osobiscie (po powrocie pana)
 - SZEW OGNIA BARROWLANDY-DUSTINPORT - USTALONY NA WZGORZU STAREJ STRAZY: ogien Barrowlandow na Wzgorzu (ludzie Barbrey, bez stawki, … · _kanal:_ jezdziec Fosa-Dustinport (4 dni)
 - SKAGOS - ODPOWIEDZ ('Niech Stark przyplynie sam', czlowiek Magnara z Kingshouse, rzut 8) PRZEDLOZONA KROLOWI listem Namiestnika z … · _kanal:_ kruk Fosa-Winterfell (2-3 dni) i z powrotem
 - POWROT RODZINY DO WINTERFELL (decyzja pana 06-19: zostaje z Mira i Lyra na Fosie do pierwszej lekcji szkoly 07-01): wyjazd 07-02 -… · _kanal:_ trakt Fosa-Winterfell
@@ -674,7 +673,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-06-07** — PRZETWARZANIE TOWARU Z DANIN W WARSZTATACH DOMU (garbarnia, przedzalnia/farbiarnia, wedzarnia, bednarnia, warzelnia) - Gawen + Hal: ile z 1/3 sprzedawanej mozna przerobic, prowizja Domu, cena po obrobce. Wlasni - bez rzutu. · _kto:_ **GAWEN + HAL** · _zamyka:_ liczba w nowej ksiedze Skarbu
 - **300-06-07** — HAL - SZYBKIE SPIENIEZANIE TOWARU KORONY W BIALYM PORCIE (slowo pana 06-07): (1) KWIT SKLADOWY - towar Korony wchodzi do skladu Domu w BP, Hal wystawia kwit z wycena po cenie ogloszonej; Korona bierze od reki zaliczke w monecie (czesc wyceny, warstwa kredytowa Domu, dyskonto jawne), reszta przy sprzedazy; (2) SPRZEDAZ NA BIEZACO - kazdy statek z Braavos, Pentos i Reach dostaje liste towaru Korony przy nabrzezu; licytacja w skladzie co tydzien; (3) CO NIE SPRZEDANE W MIESIAC - do przerobu w warsztatach Domu. Wszystko jawnie, Dom bierze prowizje i dyskonto, nie kupuje na wlasny rachunek (mur trzech kas). Wlasny - bez rzutu. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). · _kto:_ **SYMON -> HAL (+ GAWEN)** · _zamyka:_ pierwszy kwit skladowy i pierwsza zaliczka dla Korony + stawka dyskonta **⚠ ZAMKNIETE 300-06-18 (POCZTA NA FOSIE): HAL: PIERWSZY KWIT SKLADOWY WYSTAWIONY 06-14 (WELNA I SKORY Z DANIN KORONY W SKLADZIE DOMU W BP); ZALICZKA DLA KORONY 6/10 WYCENY OD REKI, DYSKONTO JAWNE 3 OD STU; PIERWSZA LICYTACJA W SKLADZIE 06-16 - STATEK Z BRAAVOS WZIAL SKORY; WYNIK W BILANSIE HALA 07-05.**
 - **300-06-07** — SYMON -> LUWIN (SAM): napar Brana - przestac podawac / jak to ujac (tajemnica Brana i Reedow). Przed wyjazdem na Barrow Hall. · _kto:_ **SYMON -> LUWIN** · _zamyka:_ rozmowa z Luwinem i to, co Luwin zrobi z naparem **⚠ ZAMKNIETE 300-06-07 - LUWIN ODSTAWIA NAPAR (CHYBA ZE BRAN POPROSI), DAJE ZIOLA NA POT I USPOKOJENIE; NIE PYTA O REEDOW; PROSI O WIEDZE DOT. ZDROWIA BRANA.**
-- **300-06-07** — BRAN + JOJEN - NAUKA W BOZOGAJU O SWICIE (wejscie w Lato na jawie i powrot). Meldunek ustny dla Symona po powrocie z Fosy - co umie. Bez rzutu na wykonanie; postep - rzut przy meldunku. ### 300-06-28: meldunek ustny - osobiscie po powrocie pana do Winterfell (~07-08). · _kto:_ **BRAN + JOJEN + MEERA** · _zamyka:_ co Bran umie po trzech tygodniach
+- **300-06-07** — BRAN + JOJEN - NAUKA W BOZOGAJU O SWICIE (wejscie w Lato na jawie i powrot). Meldunek ustny dla Symona po powrocie z Fosy - co umie. Bez rzutu na wykonanie; postep - rzut przy meldunku. ### 300-06-28: meldunek ustny - osobiscie po powrocie pana do Winterfell (~07-08). · _kto:_ **BRAN + JOJEN + MEERA** · _zamyka:_ co Bran umie po trzech tygodniach **⚠ ZAMKNIETE 300-07-08 - MELDUNEK USTNY BRANA (RZUT 78): WCHODZI W LATO NA JAWIE I WRACA; DZIS Z LATEM PRZY TRAKCIE POD ZIMOWYM MIASTEM POLICZYL KOLUMNE PANA ZANIM ZAGRAL ROG. GOTOW MOWIC KROLOWI.**
 - **300-06-07** — BRAN MOWI KROLOWI SAM - gdy umie wejsc w Lato na jawie: dowod na murach (Lato w Wilczym Lesie: kto przy brodzie, ile wozow na trakcie; Krol sprawdza), potem o kruku za Murem. W obecnosci Symona. Data - gdy Bran bedzie gotow (po meldunku ~06-28). · _kto:_ **BRAN -> KROL (przy Symonie)** · _zamyka:_ Krol wie i odpowiada
 - **300-06-07** — HOWLAND REED - ZIELONI LUDZIE Z WYSPY TWARZY: czy moga pomoc Branowi i Polnocy; czego Reed sie tam nauczyl; czy mozna ich zapytac przez Edrica. List zamkniety Symona. RZUT przy odpowiedzi. ### 300-06-25: RZUT 90 (prog 50) - ODPOWIEDZ PRZYSZLA: poslaniec krannogow z Szarych Wod przy grobli o swicie (mija sie z naszym, ktory wyplywa z prawem wody), list zamkniety do rak pana. Tresc w dzienniku 06-25. · _kto:_ **SYMON -> HOWLAND REED** · _zamyka:_ odpowiedz Reeda (rzut) **⚠ ZAMKNIETE 300-06-25 - ODPOWIEDZ REEDA (RZUT 90)**
 - **300-06-07** — LUCAN -> EDRIC SZUWAR: rada Jojena - nie brac zelaza na brzeg Wyspy Twarzy, nie ciac drzew; dojdzie po przybiciu (~06-17), wazna na powrot albo druga probe. Bez rzutu (przekazanie). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). · _kto:_ **SYMON -> LUCAN -> EDRIC** · _zamyka:_ rada przekazana Edricowi (albo jego wiesc przyszla wczesniej) **⚠ ZAMKNIETE 300-06-18 (POCZTA NA FOSIE): RADA JOJENA U LUCANA ~06-17 - PO POWROCIE EDRICA; WAZNA NA DRUGA PROBE (DECYZJA PANA).**
@@ -1057,7 +1056,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-08 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 18**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 20**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 43 smokow + 54 jeleni + 11 mied
@@ -2165,7 +2164,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-07] `dziennik`: ZAMEK CERWYN (cd.) - ⚑ SYMON: 'Zgoda.' (1) RADA TRZECH w Winterfell ~07-25 (Wyman albo jego czlowiek; zaproszenie krukiem z Winterfell); (2) odpis KARTY BORSA do Cerwyna co miesiac (Garrick)…
 - [300-07-07] `dziennik`: WYJAZD Z ZAMKU CERWYN (popoludnie). Pozegnanie przy bramie: Medger - 'Dziesiatego'; Jonelle do Miry - 'Jesienia na Fose, jesli ojciec mnie puszcza' (Mira: 'Puszcza.'); Cley do Aryi - 'W Wint…
 - [300-07-07] `dziennik`: ZAJAZD PRZY BRODZIE - SYMON WCHODZI I ROZGLADA SIE. Bez rzutu (to, co widac). (1) DWAJ WOZNICE KORONY z pustymi wozami z komor Winterfell, wracaja z Cerwyna (przerzut ziarna Spichlerza - kwi…
 - [300-07-07] `dziennik`: ZAJAZD PRZY BRODZIE - KOLACJA: gulasz z baraniny z marchwia, chleb Ody (ten sam co w czerwcu), ser, piwo. Sytosc 100 (bez zmian), zmeczenie 12->18. Bez rzutu. Hob konczy kociol - Oda daje mu…
@@ -2177,3 +2175,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-08] `dziennik`: WIELKA SALA (cd.) - SYMON OPOWIADA ELLARDOWI O WIELKIM KURHANIE (dotrzymana obietnica z 06-06). Bez rzutu; tresc z zapisu 06-11..13: zielony, gladki, wyzszy niz najwyzszy dab, bez sciezki na…
 - [300-07-08] `dziennik`: WIELKA SALA (cd.) - SYMON pyta KROLA, jak sie ma on i wszyscy. Bez rzutu (zycie domu; RATYFIKACJA - rzut 76 z 06-30, wynik wchodzi dzis). KROL: (1) 'Edmure ratyfikowal. Pieczec przyszla pier…
 - [300-07-08] `dziennik`: WIELKA SALA (cd.) - SYMON pyta LUWINA, jak sie ma. Bez rzutu. LUWIN (sucho, z usmiechem): 'Stary, Namiestniku. Ale nie starszy niz w czerwcu.' Kolano gorzej na schodach wiezy - 'kruki nie sc…
+- [300-07-08] `BRAN`: WIECZOR, IZBA BRANA - SYMON PO KOLACJI (Hodor odniosl Brana; Meera przy oknie, Jojen na lawie; Lato przy lozku). MELDUNEK NAUKI W BOZOGAJU - RZUT 78: DOBRZE. BRAN: wchodzi w Lato na jawie, n…

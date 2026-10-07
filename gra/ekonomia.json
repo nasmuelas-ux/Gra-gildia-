@@ -1158,5 +1158,14 @@
    "premia_filii": 200,
    "data": "300-07-12"
   }
+ },
+ "_finanse_rodziny": {
+  "_opis": "FINANSE RODZINY TALLY (slowo pana 300-07-14, za zgoda Miry).",
+  "skarbiec_rodu": "NA PRZYSZLOSC - na Fosie Cailin, pod okiem strazy (do zbudowania; dzis brak).",
+  "szkatula_domowa": "wspolna - na dom, Lyre, sluzbe, droge, stol poza stolem Krola; dokladaja oboje (pan wiecej); prowadzi RHONA.",
+  "sakwa_pana": "udzial 1/3 Domu i dochody pana (sakwa jedna od 03-18; lenno - odrebny skarbiec).",
+  "sakiewka_miry": "jej 1/6 z wyplat Domu - do jej wlasnej dyspozycji.",
+  "jawnosc": "MAJATKI OTWARTE PRZED SOBA - bez ukrywania (slowo pana).",
+  "reprezentacja": "z Domu albo z lenna, z rubryka (stroje z atelier po kosztach; goscie lordowie - lenno, kupcy - Dom); wg Zasady Stroju Domu Tally (rod_tally.md II) - bez zlota."
  }
 }

@@ -30,3 +30,9 @@ Mała Rada to **stała rada wykonawcza Króla**. Radzi, przygotowuje sprawy i ko
 - **Co dwa tygodnie** posiedzenie zwyczajne.
 - **Szybciej w sprawach większej wagi.** Zwołuje Namiestnik, a w nagłej potrzebie Kancelaria.
 - **W okresach regencji** rada może obradować częściej.
+
+## VI. Duch rady
+_Słowo Namiestnika, potwierdzone przez Króla 300-07-12._
+- Rada służy także **poprawie funkcjonowania królestwa**. Pomysły i inicjatywy każdego radnego są mile widziane.
+- **Inaczej niż na Wielkiej Radzie mówimy sobie „nie” i nie boimy się siebie nawzajem.** Szukamy najlepszego rozwiązania, a krytyka jest obowiązkiem, nie obrazą.
+- Protokół zapisuje sprzeciw razem z nazwiskiem i powodem, żeby nikt nie musiał go powtarzać za plecami (dopisek Luwina).

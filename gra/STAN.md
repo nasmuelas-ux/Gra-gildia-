@@ -993,6 +993,7 @@ _20 ludzi (06-19 ROZKAZ PANA: DO 100 - fale wg Kessela, ~VIII +30, ~X +50). ⚠ 
 - **POSEL KORONY NA MURZE:** HALLIS MOLLEN (kapitan STRAZY zamku Winterfell - nie gwardia) + 5 zwiadowcow + 2 psiarzy _(Wyznaczony przez Krola na wniosek Namiestnika (rzut 66). Zmienia Osrica; wyjazd ~04-29, na Murze ~05-10, przejecie od Osrica osobiscie. Zadania: Aemon/Clydas, kolumny zbozowe, obsydian ~05-18, wolnizna Daru i slad zaginionego posla (zwiadowcy, psiarze), rozmowa ze Stannisem z listem Krola. Posel Korony, NIE brat Strazy. Straz zamku po nim - zastepca (Krol wskaze).)_
 - **WIELKI KASZTELAN KAMIENNEGO BRZEGU:** SER CORWIN LODOWY (rycerz domowy Winterfell, ~28; czyta i pisze) - setnik: ULRIC SEKATY (~40, setnik spod Oxcross) _(Wskazani przez ser Rodrika (Corwin) i ser Alyna (Ulric); wybor Namiestnika 'obu', nominacja Krola (Rodrik przekazuje 05-03). Wojskowo-sadowy: rezerwy w jednolitych szykach, zbrojownie przy wsiach, straz brzegu, sad. Odpowiada przed Krolem; w sprawach szyku przed Marszalkiem (Osric). Wyjazd z garnizonem bazowym po ~05-22.)_
 - **MISTRZ HANDLU I PORTOW POLNOCY:** lord WYMAN MANDERLY _(Urzad BUDUJE, ale NIE SADZI I NIE POBIERA: trzyma taryfe i miary portowe; bez sadu, sakwy i zbrojnych. NIE DZIEDZICZNY (Symon odmowil co do Wylisa). Siedziba urzedu = faktoria Manderlych w Bialym Porcie (adres Korony). Dopisany do obsady 300-07-12 (luka w spisie - wyszla przy podsumowaniu rady).)_
+- **ZARZADCA DOMENY:** WAKAT - kandydat RODWELL (krzeslo po rachunku u Gawena ~07-19) _(Prowadzi domene Korony (domena = Korona, rzut 59): lasy, futra, ziemia, zelazo, rzeki, natura, targ; dawny Dom Starkow jako reka w handlu. W Malej Radzie. Namiestnik - kierunek; Zarzadca - prowadzi; Skarbnik - liczy (jedna ksiega z rubrykami).)_
 
 ### WINTERFELL — _Korona (Kasa 3) + dom Starkow_
 _Rada 299-09-07 w skladzie: Cerwyn, Gawen, Rodwell, ser Alyn, Luwin, Catelyn._
@@ -1070,7 +1071,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-12 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 24**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 26**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 43 smokow + 54 jeleni + 11 mied
@@ -2236,7 +2237,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-12] `poprawki`: VOID (zasada 1 i 3; wskazanie gracza 'na pewno ktos to sledzi'): w odpowiedzi rady o armii Lwa napisalem 'ZADEN z nich nie liczy wojska Lwa... na samego Lwa nie patrzy nikt'. BLAD - zapis: S…
 - [300-07-12] `dziennik`: MALA RADA (cd.) - SYMON: 'Na pewno ktos to sledzi' - i rozstrzyga: ZNAKI MOBILIZACJI do raportow Domu. Potem do Krola: o rozbiciu wiemy z pola - Krol wie najlepiej, ilu Lew mial, ilu zabito,…
 - [300-07-12] `poprawki`: VOID (zasada 1 i 3; wskazanie gracza): Krol policzyl GORE do rdzenia Lwa 'dzis' ('rycerze, druzyny, Gora'). BLAD - zapis: ugoda 299-04-20 - GREGOR CLEGANE ODDANY DORNE (Oberyn go wzial); los…
 - [300-07-12] `dziennik`: MALA RADA (cd.) - SYMON: los Gory nieznany, Oberyn go zabral. Bez rzutu (z zapisu; VOID w 'poprawki'). KROL: 'Prawda. Gore wydalismy Dorne w ugodzie - to byla cena Elii. Nie licze go.' Rdzen…
@@ -2248,3 +2248,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-12] `poprawki`: VOID (zasada 1; wyszlo przy podsumowaniu skladu): w nocie otwarcia Malej Rady 07-12 'nieobecni: ... Garrick - Fosa'. BLAD - GARRICK jest kanclerzem LENNA Fosy (Kasa 2), nie czlonkiem rady Ko…
 - [300-07-12] `dziennik`: MALA RADA (cd.) - SYMON: podsumujmy, kogo mamy w Malej Radzie. Bez rzutu (z zapisu; obsada.json + rada 299-09-07). ZAPIS: UCHWALONEGO SKLADU 'MALEJ RADY' W KSIEDZE NIE MA - jest sklad RADY z…
 - [300-07-12] `dziennik`: MALA RADA (cd.) - SYMON: 'Jeszcze Wyman.' Bez rzutu (z zapisu). LUWIN sprawdza i przyznaje: lord WYMAN MANDERLY - MISTRZ HANDLU I PORTOW POLNOCY (akt 299-09-22, oglaszany na zjezdzie 299-10-…
+- [300-07-12] `dziennik`: MALA RADA (cd.) - ⚑ SYMON: nazwa - ZARZADCA DOMENY (obsada uzupelniona). Potem: ustalmy, czym jest Mala Rada KOMPETENCYJNIE. Bez rzutu (propozycje radnych; nic nie postanowione - ksztalt do …

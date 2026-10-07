@@ -9175,6 +9175,15 @@
    "wraca": "300-08-05",
    "zamyka": "spis Lymana + pierwsze zamowienia (albo odmowy)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-11",
+   "co": "AKCJA KALENDARZ 301 (rozkaz pana 07-11, osobna linia w ksiedze Hala): trzy wersje - KUPIECKI (targi, weksle, komory i clo, ksiezyc i przyplywy BP), DWORSKI (terminy Korony, daniny, swieta), OBRAZKOWY dla niepiszacych; swieta Siedmiu i starych bogow osobnymi znakami; strona ZIMOWA (Prawo Spichlerza + Glebokorzen); maester ORWYN sprawdza rachunek. ZAMOWIENIA Z ZADATKIEM przez placowki Domu i Kompanie do 300-09-30; druk X-XI; rozwoz przed 301-01-01. Naklad, cena, koszt - ILARIO + HAL (zasada 43). Wlasni - bez rzutu; odzew kupujacych - RZUT przy zamknieciu zamowien.",
+   "kto": "ILARIO (mistrz wydawnictwa) + HAL (cena, ksiega) + placowki/Kompania (zamowienia); LUCAN czyta",
+   "kanal": "kruk Winterfell-Fosa; odpis do Hala (BP)",
+   "wraca": "300-07-25",
+   "zamyka": "plan Ilaria z nakladem i cena (07-25); zamowienia zamkniete 09-30; kalendarze rozwiezione przed 301-01-01",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

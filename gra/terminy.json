@@ -9472,6 +9472,15 @@
    "wraca": "300-07-19",
    "zamyka": "rachunek Rodwella na pismie + ocena Gawena dla Krola",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-12",
+   "co": "JEDNA KSIEGA KORONY - DOMENA = KORONA (Krol 07-12, rzut 59, z warunkiem): Gawen sklada na jednej kartce: (1) ksiega kasztelana + Skarb w jedna ksiege Korony; (2) RUBRYKA danin i cla lordow (jawna - na co poszly) i RUBRYKA wydatkow rodziny Krola; (3) DOM STARKOW - z osobnego bytu w reke domeny w handlu (miejsce Rodwella po jego rachunku ~07-19); (4) natura domeny i Korony - jedna droga na targ. 'Nie nowy urzad - mniej urzedow.' Urzednik - bez rzutu na pisanie; Krol podpisuje.",
+   "kto": "GAWEN (+ kasztelan) -> KROL",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "kartka Gawena u Krola, podpis",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

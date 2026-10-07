@@ -9381,7 +9381,16 @@
    "kanal": "jezdziec/kruk do Riverrun; meldunek przez Lymana",
    "wraca": "300-08-01",
    "zamyka": "meldunek: Harrion w Maidenpool albo wywieziony",
-   "status": "otwarte - do slowa pana (rada Sansy)"
+   "status": "otwarte - zgoda pana 07-11; Lyman melduje krukiem z Riverrun"
+  },
+  {
+   "data": "300-07-11",
+   "co": "DECYZJA PRZED 08-05: CZY KROL PLYNIE NA SKAGOS, JESLI LEW NIE WYJDZIE Z DORZECZA DO 08-05 (rada Sansy, zgoda pana 07-11). Rozstrzyga Krol z Namiestnikiem - przed 08-05, nie 08-05 rano. Prerogatywa - RZUT przy rozstrzygnieciu.",
+   "kto": "SYMON + KROL",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-08-01",
+   "zamyka": "slowo Krola: plynie / zostaje / plynie pozniej",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

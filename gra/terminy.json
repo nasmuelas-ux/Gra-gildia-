@@ -9444,7 +9444,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-13",
    "zamyka": "karta Skarbu na stole",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-13 - pismo Gawena na stole: dochod w pasie 1750-4320/mies; zboze 14 650 (VIII-X); Kamienny Brzeg ~53; kancelaria 60-90/rok; BEZ LICZBY: Skagos, Mur (kolumna Umbera), rezerwa (Osric), Zimowa Straz i garnizon WF (ksiega kasztelana), setnicy/akademia, Przystan Wilka; dlug Domu - reszta ~45 do kwitu Hala; Blizniaki ~07-16; skrzynia - liczba przy zamknieciu VII (07-31)."
   },
   {
    "data": "300-07-12",
@@ -9507,6 +9507,15 @@
    "kanal": "osobiscie Winterfell; kruk BP; statek BP-Braavos",
    "wraca": "300-08-07",
    "zamyka": "rachunek Lucana z liczbami Hala i slowo pana o pierwszej partii do Banku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-13",
+   "co": "SKARB - ZAMKNIECIE LIPCA I JEDNA LICZBA SKRZYNI (pismo Gawena 07-13): stan skrzyni w monecie na 07-31 + brakujace liczby obciazen do jednej ksiegi: Skagos (Wyman ~07-20), kolumna Muru (Orland/Umber), kosztorys rezerwy (Osric), zold Zimowej Strazy i garnizonu WF (ksiega kasztelana), setnicy/akademia, polowa Przystani Wilka. Na Mala Rade ~07-26 - co bedzie; pelna liczba po 07-31.",
+   "kto": "GAWEN (+ kasztelan, Osric, Orland)",
+   "kanal": "osobiscie Winterfell; kruki do Osrica",
+   "wraca": "300-08-01",
+   "zamyka": "jedna liczba skrzyni na 07-31 + obciazenia z liczbami w jednej ksiedze",
    "status": "otwarte"
   }
  ],

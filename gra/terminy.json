@@ -3250,10 +3250,10 @@
   },
   {
    "data": "300-04-02",
-   "co": "SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie. ### 05-18 DECYZJA PANA: MIERZYC SZYBKO, obie strony obserwuja (tryb 04-02). Jezdziec za Cerwynem 05-19, kruk do Dreadfortu 05-19. ### 06-12: pomiar trwa dzis na granicy; wiesc do Winterfell ~06-15, do pana na Fosie ~06-18. ### 06-18 (Fosa): POMIAR 06-12 ODBYTY (rzut 30): Cerwyn zmierzyl od obu kamieni, pas sporny wykazany na mapie pisarza rewizji; HALT SZARY (Dreadfort) nie przylozyl pieczeci - bez dwoch pieczeci nie ma ugody. Cerwyn WSTRZYMAL WYRAB w pasie spornym obu stronom i wzywa Donelle/Larence'a i czlowieka Roose'a na mediacje w Winterfell po ratyfikacji (~07-02). ### 07-02: mediacja w WINTERFELL (Cerwyn, Donella/Larence, czlowiek Roose'a) - pan na miejscu od ~07-08; odczyt tam.",
+   "co": "SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie. ### 05-18 DECYZJA PANA: MIERZYC SZYBKO, obie strony obserwuja (tryb 04-02). Jezdziec za Cerwynem 05-19, kruk do Dreadfortu 05-19. ### 06-12: pomiar trwa dzis na granicy; wiesc do Winterfell ~06-15, do pana na Fosie ~06-18. ### 06-18 (Fosa): POMIAR 06-12 ODBYTY (rzut 30): Cerwyn zmierzyl od obu kamieni, pas sporny wykazany na mapie pisarza rewizji; HALT SZARY (Dreadfort) nie przylozyl pieczeci - bez dwoch pieczeci nie ma ugody. Cerwyn WSTRZYMAL WYRAB w pasie spornym obu stronom i wzywa Donelle/Larence'a i czlowieka Roose'a na mediacje w Winterfell po ratyfikacji (~07-02). ### 07-02: mediacja w WINTERFELL (Cerwyn, Donella/Larence, czlowiek Roose'a) - pan na miejscu od ~07-08; odczyt tam. ### 07-07 (zamek Cerwyn, solar, bez pisarza): Cerwyn wie od swiadka (ustnie, nocą 06-12), ze stary kamien Dreadfortu PRZESUNIETO (~10 lat temu) - swiadek nie zezna. PAN: sprawdzic dowody bez swiadka (drzewa graniczne - uwaga: wyrab w pasie, mogly pasc - pnie tez niosa naciecia; stare miejsce kamienia; ksiega nadan Winterfell). CERWYN: mediacje OTWIERA w Winterfell ~07-10, wysluchuje stron, ORZECZENIE ODRACZA do wynikow z terenu i archiwum.",
    "kto": "CERWYN (Justycjariusz) + DONELLA HORNWOOD + DREADFORT",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-07-10",
+   "wraca": "300-07-16",
    "zamyka": "pomiar wykonany; ugoda albo wyrok",
    "status": "otwarte - pomiar Cerwyna 06-12",
    "sprawdzaj_co": 30
@@ -8922,6 +8922,24 @@
    "kanal": "osobiscie: Rolf z listem pana do straznikow bramy -> Luwin",
    "wraca": "300-10-01",
    "zamyka": "Odd w spisie szkoly Winterfell (albo wiadomo, czemu nie przyszedl)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-07",
+   "co": "HORNWOOD/DREADFORT - DOWODY BEZ SWIADKA (slowo pana 07-07). (a) TEREN: Cley Cerwyn z dwoma ludzmi + lesniczy Hornwoodu przechodza pas sporny - drzewa graniczne z nacieciami (stoja albo pnie po wyrebie), STARE MIEJSCE kamienia (dol, zbita ziemia, kliny); bez kopania przy ludziach Dreadfortu, bez imienia swiadka. Wyjazd z zamku Cerwyn 07-08. (b) ARCHIWUM: Luwin - opis granicy Hornwoodu w nadaniach / zapisach z czasow lorda Rickarda (pan w Winterfell od 07-08).",
+   "kto": "CERWYN -> CLEY (teren) ; SYMON -> LUWIN (archiwum)",
+   "kanal": "teren: jezdziec Cleya do Winterfell ; archiwum: Winterfell osobiscie",
+   "wraca": "300-07-16",
+   "zamyka": "meldunek Cleya z terenu + wypis Luwina (archiwum ~07-09)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-07",
+   "co": "ZELAZNY LIST I OCHRONA KROLA DLA SWIADKA (Hornwood/Dreadfort; imie TYLKO w nocie 07-07 dziennika, nigdzie na pismie Korony do czasu zgody swiadka). Propozycja pana: list zelazny Krola, ochrona dla niego i rodziny, pomoc w przeprowadzce poza Dreadfort. PREROGATYWA KROLA (zasada 22) - pan przedstawia Krolowi w Winterfell 07-08/09; Cerwyn sklada propozycje USTNIE swiadkowi przy mediacji w Winterfell (~07-10), jesli przyjedzie jako czlowiek Roose'a. Zgoda swiadka - RZUT przy rozmowie.",
+   "kto": "SYMON -> KROL (zgoda) ; CERWYN -> swiadek (ustnie)",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-10",
+   "zamyka": "Krol zgadza sie albo nie; swiadek przyjmuje albo odmawia",
    "status": "otwarte"
   }
  ],

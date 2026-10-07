@@ -25,33 +25,34 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**201 otwartych** · **31 PRZETERMINOWANYCH** · 1 wraca dzis
+**201 otwartych** · **32 PRZETERMINOWANYCH** · 2 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
-- **+1 dni** — LOCKE - nie przyjedzie na ucztę: spor o pale z Wdowia Straznica (Justycjariusz, mediacja od 04-02) nierozstrzygniety. Podarek: sko… · _kanal:_ kruk Winterfell-Stary Zamek · _zamyka:_ spor pali orzeczony albo zalagodzony
-- **+1 dni** — WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEK… · _kanal:_ kruk Winterfell-Fosa (05-21) + droga Fosa-Kamienny Brzeg (E: tygodnie) · _zamyka:_ Weylin na miejscu (E ~06-05); pomiar na stole (data od Weylina)
-- **+1 dni** — T1-C i T1-D (BLIZNIAKI-SEAGARD, SEAGARD-RIVERRUN) - listy Krola do Freya, Mallistera i Edmure'a PO RATYFIKACJI: zgoda na odcinki, … · _kanal:_ kruki Winterfell-Blizniaki / Seagard / Riverrun · _zamyka:_ listy wyslane po ratyfikacji
-- **+1 dni** — T3-A POMIAR FOSA -> PRZYSTAN WILKA - mierniczy z tyczka od 06-10; przebieg i podzial na ziemie (lenno / Manderly / Cerwyn) na pism… · _kanal:_ Fosa + kruk Fosa-Winterfell · _zamyka:_ przebieg T3-A z podzialem na ziemie
-- **+1 dni** — GAWEN - KSIEGA SKARBU PRZEPISANA: Korona, nie tylko skarb (moneta + spienieznienie swiadczen w naturze + co zjadane w naturze, oso… · _kanal:_ Winterfell · _zamyka:_ nowa ksiega Skarbu w trzech kolumnach
-- **+1 dni** — PRZETWARZANIE TOWARU Z DANIN W WARSZTATACH DOMU (garbarnia, przedzalnia/farbiarnia, wedzarnia, bednarnia, warzelnia) - Gawen + Hal… · _kanal:_ Winterfell / kruk BP · _zamyka:_ liczba w nowej ksiedze Skarbu
-- **+1 dni** — PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy… · _kanal:_ osobiscie / kruk · _zamyka:_ lekcje odbyte + szkatulka z odtrutkami przy rodzinie
-- **+1 dni** — WSPOLNY ZAKUP Z LORDAMI (z zalozenia karty Spichlerza, Etap II: 'Korona kupuje raz, latem, kontraktem') - BEZ RZUTU (VOID rzutu 06… · _kanal:_ kruki Krola do lordow (po liscie pana, ~06-15) · _zamyka:_ kontrakt z lista lordow i ilosciami (z formularza + karta Orlanda)
-- **+1 dni** — BARROWTON - WAGOWY I PISARZ SKLADU OD DOMU (Hal, na rok, placi miasto Barrowton) + WZOR KSIEGI Z FOSY (Etap I: waga, kwit, stan zi… · _kanal:_ list z Fosy (~06-17) do Hala + odpis z Fosy do Barrowton · _zamyka:_ wagowy i pisarz w Barrowton + ksiega skladu zalozona
-- **+1 dni** — HAL - SKUP PAPIEROW DLUZNYCH LANNISTEROW (rozkaz pana 06-19): wszystkie, jakie sie da, przez placowki Domu - Riverrun (Lyman od Br… · _kanal:_ list pana z poczta Fosa-Bialy Port (dzis); placowki - kanaly Domu · _zamyka:_ pierwszy meldunek Hala: co kupiono, po ile, gdzie (rzut) + jego pytani…
-- **+1 dni** — POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamie… · _kanal:_ list pana do Hala (poczta BP) + na miejscu · _zamyka:_ umowa pozyczki podpisana, kwota i termin na slupie
-- **+1 dni** — JASTRZEBIE 100 - KOSZTORYS: zold (stala zaplata z kasy lenna), lodzie, kusze, baraki, chleb - Warryn i Garrick, do Kasy 2 (E -> li… · _kanal:_ na miejscu · _zamyka:_ kosztorys na stole pana
-- **+1 dni** — DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; … · _kanal:_ na miejscu · _zamyka:_ spis bezdomnych pracujacych + plan (kupno/budowa) z kosztem E
-- **+1 dni** — OGIEN W CAILIN - STRAZ OGNIOWA DORAZNA (zgoda pana 06-19, rada Hendry'ego): bosaki, drabiny, beczki z woda przy kazdym rzedzie dom… · _kanal:_ na miejscu · _zamyka:_ beczki, drabiny i dzwon stoja; obchod chodzi
-- **+1 dni** — WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z … · _kanal:_ na miejscu · _zamyka:_ zrodlo wapna i plan (kupno/wapiennik) z kosztem E
-- **+1 dni** — CZCIONKA - RYTOWNIK OD MARRA (warsztat jubilerski Domu, Bialy Port) na Fose do ciecia stempli liter: list Ilaria + pieczec pana do… · _kanal:_ poczta Fosa-Bialy Port · _zamyka:_ rytownik w drodze albo stemple ciete w BP wg wzornika Ilaria
-- **+1 dni** — SKARBIEC LENNA - ROZLICZENIE WSTECZ (rozkaz pana 06-20): Warryn z ksiegi lenna potraca od salda 811..1856 (E, wynik Kasy 2 od 03-1… · _kanal:_ na miejscu; list do Hala · _zamyka:_ saldo rzeczywiste skarbca lenna na pismie; korekta Hala, jesli potrzeb…
-- **+1 dni** — KSIEGA SKLADU CAILIN - PIERWSZE LICZBY (prawo skladu nadane przez Krola ~300-03-30; kwot brak w zapisie - zasada 43): Bennis (waga… · _kanal:_ na miejscu · _zamyka:_ prawo skladu z liczba w rachunku lenna
-- **+1 dni** — SKLAD GLOWNY CAILIN PRZED BRUKIEM (decyzja pana 06-20, rada Warryna): w kolejce kamienia sklad (bazalt, ogrzewany od spodu, bez ok… · _kanal:_ na miejscu · _zamyka:_ sklad w kolejce z data startu
-- **+1 dni** — KOMORA FOSY - DWOCH PSIARZY I WAGOWY WIECEJ (zgoda pana 06-20): dobiera Rorik (zasada 42); placi Korona (Gawen). · _kanal:_ na miejscu / poczta · _zamyka:_ trzech nowych przy bramie
+- **+2 dni** — LOCKE - nie przyjedzie na ucztę: spor o pale z Wdowia Straznica (Justycjariusz, mediacja od 04-02) nierozstrzygniety. Podarek: sko… · _kanal:_ kruk Winterfell-Stary Zamek · _zamyka:_ spor pali orzeczony albo zalagodzony
+- **+2 dni** — WEYLIN NA KAMIENNY BRZEG - POMIAR ZATOKI KAMIENI I WODY (glebokosc, dno, wiatr, zrodla/studnia/cysterna na szczycie), potem PROJEK… · _kanal:_ kruk Winterfell-Fosa (05-21) + droga Fosa-Kamienny Brzeg (E: tygodnie) · _zamyka:_ Weylin na miejscu (E ~06-05); pomiar na stole (data od Weylina)
+- **+2 dni** — T1-C i T1-D (BLIZNIAKI-SEAGARD, SEAGARD-RIVERRUN) - listy Krola do Freya, Mallistera i Edmure'a PO RATYFIKACJI: zgoda na odcinki, … · _kanal:_ kruki Winterfell-Blizniaki / Seagard / Riverrun · _zamyka:_ listy wyslane po ratyfikacji
+- **+2 dni** — T3-A POMIAR FOSA -> PRZYSTAN WILKA - mierniczy z tyczka od 06-10; przebieg i podzial na ziemie (lenno / Manderly / Cerwyn) na pism… · _kanal:_ Fosa + kruk Fosa-Winterfell · _zamyka:_ przebieg T3-A z podzialem na ziemie
+- **+2 dni** — GAWEN - KSIEGA SKARBU PRZEPISANA: Korona, nie tylko skarb (moneta + spienieznienie swiadczen w naturze + co zjadane w naturze, oso… · _kanal:_ Winterfell · _zamyka:_ nowa ksiega Skarbu w trzech kolumnach
+- **+2 dni** — PRZETWARZANIE TOWARU Z DANIN W WARSZTATACH DOMU (garbarnia, przedzalnia/farbiarnia, wedzarnia, bednarnia, warzelnia) - Gawen + Hal… · _kanal:_ Winterfell / kruk BP · _zamyka:_ liczba w nowej ksiedze Skarbu
+- **+2 dni** — PRZYBOCZNA - OCHRONA PRZED TRUCIZNA I SKRYTOBOJCAMI: protokol Stena od 06-08 (kuchnia pod okiem, kubek i dzban z okiem, warta przy… · _kanal:_ osobiscie / kruk · _zamyka:_ lekcje odbyte + szkatulka z odtrutkami przy rodzinie
+- **+2 dni** — WSPOLNY ZAKUP Z LORDAMI (z zalozenia karty Spichlerza, Etap II: 'Korona kupuje raz, latem, kontraktem') - BEZ RZUTU (VOID rzutu 06… · _kanal:_ kruki Krola do lordow (po liscie pana, ~06-15) · _zamyka:_ kontrakt z lista lordow i ilosciami (z formularza + karta Orlanda)
+- **+2 dni** — BARROWTON - WAGOWY I PISARZ SKLADU OD DOMU (Hal, na rok, placi miasto Barrowton) + WZOR KSIEGI Z FOSY (Etap I: waga, kwit, stan zi… · _kanal:_ list z Fosy (~06-17) do Hala + odpis z Fosy do Barrowton · _zamyka:_ wagowy i pisarz w Barrowton + ksiega skladu zalozona
+- **+2 dni** — HAL - SKUP PAPIEROW DLUZNYCH LANNISTEROW (rozkaz pana 06-19): wszystkie, jakie sie da, przez placowki Domu - Riverrun (Lyman od Br… · _kanal:_ list pana z poczta Fosa-Bialy Port (dzis); placowki - kanaly Domu · _zamyka:_ pierwszy meldunek Hala: co kupiono, po ile, gdzie (rzut) + jego pytani…
+- **+2 dni** — POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamie… · _kanal:_ list pana do Hala (poczta BP) + na miejscu · _zamyka:_ umowa pozyczki podpisana, kwota i termin na slupie
+- **+2 dni** — JASTRZEBIE 100 - KOSZTORYS: zold (stala zaplata z kasy lenna), lodzie, kusze, baraki, chleb - Warryn i Garrick, do Kasy 2 (E -> li… · _kanal:_ na miejscu · _zamyka:_ kosztorys na stole pana
+- **+2 dni** — DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; … · _kanal:_ na miejscu · _zamyka:_ spis bezdomnych pracujacych + plan (kupno/budowa) z kosztem E
+- **+2 dni** — OGIEN W CAILIN - STRAZ OGNIOWA DORAZNA (zgoda pana 06-19, rada Hendry'ego): bosaki, drabiny, beczki z woda przy kazdym rzedzie dom… · _kanal:_ na miejscu · _zamyka:_ beczki, drabiny i dzwon stoja; obchod chodzi
+- **+2 dni** — WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z … · _kanal:_ na miejscu · _zamyka:_ zrodlo wapna i plan (kupno/wapiennik) z kosztem E
+- **+2 dni** — CZCIONKA - RYTOWNIK OD MARRA (warsztat jubilerski Domu, Bialy Port) na Fose do ciecia stempli liter: list Ilaria + pieczec pana do… · _kanal:_ poczta Fosa-Bialy Port · _zamyka:_ rytownik w drodze albo stemple ciete w BP wg wzornika Ilaria
+- **+2 dni** — SKARBIEC LENNA - ROZLICZENIE WSTECZ (rozkaz pana 06-20): Warryn z ksiegi lenna potraca od salda 811..1856 (E, wynik Kasy 2 od 03-1… · _kanal:_ na miejscu; list do Hala · _zamyka:_ saldo rzeczywiste skarbca lenna na pismie; korekta Hala, jesli potrzeb…
+- **+2 dni** — KSIEGA SKLADU CAILIN - PIERWSZE LICZBY (prawo skladu nadane przez Krola ~300-03-30; kwot brak w zapisie - zasada 43): Bennis (waga… · _kanal:_ na miejscu · _zamyka:_ prawo skladu z liczba w rachunku lenna
+- **+2 dni** — SKLAD GLOWNY CAILIN PRZED BRUKIEM (decyzja pana 06-20, rada Warryna): w kolejce kamienia sklad (bazalt, ogrzewany od spodu, bez ok… · _kanal:_ na miejscu · _zamyka:_ sklad w kolejce z data startu
+- **+2 dni** — KOMORA FOSY - DWOCH PSIARZY I WAGOWY WIECEJ (zgoda pana 06-20): dobiera Rorik (zasada 42); placi Korona (Gawen). · _kanal:_ na miejscu / poczta · _zamyka:_ trzech nowych przy bramie
 
 ### 🟡 WRACA DZIS
-- PROJEKT KODEKSOW KORONY - ODPISY DO LEKTURY: Justycjariusz CERWYN (sady Korony, sad przy bramie, kary) i Skarbnik GAWEN (komory, K… · _kanal:_ kruk Fosa-Winterfell
+- NESTA - POSREDNIK Z MYR: od 299-12-31 (zlecenie Willa + Nesta) w ksiedze nic; co ustalila, kto za nim stoi albo czego nie wiadomo;… · _kanal:_ kruk Winterfell-Bialy Port (05-20) + morze Bialy Port-Braavos i z powrotem (~48 dni)
+- OWCE Z HORNWOOD NA KAMIENNYM BRZEGU (wypedzone 06-02, pastuchy Hornwoodu). · _kanal:_ trakt Hornwood-Kamienny Brzeg
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1030,10 +1031,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-06 wieczor · zima (300)
+- **Data:** 300-07-07 rano · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 22**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 0**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 43 smokow + 54 jeleni + 11 mied
@@ -2137,7 +2138,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-06] `dziennik`: JESIONKA - KOLACJA w izbie gospody (stol pod sciana; Symon, Mira, Arya, Rhona z Lyra; Jorelle i Torvald na koncu; przyboczni czesc przy drugim stole, reszta u soltysa). Kella: zupa szczawiow…
 - [300-07-06] `dziennik`: JESIONKA - SYMON IDZIE DO SOLTYSA przy piecu. Bez rzutu. SOLTYS ORMUND (E; ~70, laska, byl soltysem za starego lorda Medgera Cerwyna - kanon: Medger zginal w wojnie). Od siebie: (1) Jesionka…
 - [300-07-06] `dziennik`: JESIONKA (cd.) - SYMON pyta ORMUNDA, jak mu sie wiedzie i jak wies. Bez rzutu (obraz z dolu). ORMUND o sobie: wdowiec od pieciu lat; mieszka u corki i ziecia; wnuczka MARTA (12) liczy za nie…
 - [300-07-06] `dziennik`: JESIONKA (cd.) - SYMON do Ormunda: 'Moze jak sie nauczy, to wroci.' Bez rzutu (slowa, nie akt). ORMUND: dlugo nic; potem 'Wroci i bedzie liczyla lady zamiast lady. Albo wsi zamiast mnie.' - …
@@ -2149,3 +2149,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-06] `ARYA`: Jesionka (cd.) - SYMON: 'No tak, ktos moze probowac na nia zapolowac.' Bez rzutu. ARYA: zaciska szczeke; 'Niech probuja. Ona jest madrzejsza niz oni.' Po chwili, ciszej: 'Ale gdyby... chce w…
 - [300-07-06] `ARYA`: Jesionka (cd.) - SYMON: 'Nie mam co tutaj zrobic, nie mam wplywu na Dorzecze.' Bez rzutu. ARYA: dlugo nic; potem kiwa glowa raz - 'Wiem. Ty nie.' Po chwili, juz po swojemu: 'To ja napisze. D…
 - [300-07-06] `dziennik`: JESIONKA - NOCNY SPACER Z MIRA (Rhona zabiera Lyre na gore; Sten i jeden przyboczny z tylu). Bez rzutu. Zmeczenie 20->22. Wies: jedna droga wzdluz traktu, jesiony nad chatami, swiatla gasna;…
+- [300-07-07] `dziennik`: 300-07-07 RANEK (PONIEDZIALEK), JESIONKA. SEN RZUT 31: noc plytsza - Lyra budzi sie dwa razy (obcy pokoj, psy), Mira wstaje raz, Symon raz; zdrowie 100, zmeczenie 22->0, sytosc 100->72. POGO…

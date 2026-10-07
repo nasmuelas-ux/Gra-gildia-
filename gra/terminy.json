@@ -9112,6 +9112,15 @@
    "wraca": "300-08-14",
    "zamyka": "odpowiedz Roose'a: Winterfell / pomoc Korony / nic",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-10",
+   "co": "ARYA - KARTA KANONU W WINTERFELL: Luwin spisuje Aryi karte (dziesiec dziedzin - co robi tu, do decyzji Catelyn ~07-25); przy zgodzie na Fose karta przepisana na Fose (Orwyn, meldunek miesieczny).",
+   "kto": "LUWIN",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-11",
+   "zamyka": "karta Aryi spisana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -8301,7 +8301,7 @@
    "kanal": "rozmowa w Winterfell",
    "wraca": "300-07-12",
    "zamyka": "decyzja Krola o karach celnych",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-10 - KROL STANOWI KARY (rzut 6 - jedna konsekwencja): potrojne clo + grzywna za obejscie; zjazd ze szlaku - konfiskata TOWARU (nie wozu i koni); przekupstwo - za pierwszym razem grzywna i rok zakazu handlu, loch za drugim; ucieczka/recydywa - loch. SEDZIOWIE KOMOR: dwoch (slowo pana) - JEDEN STALY W BOLTONSGATE, DRUGI OBJAZDOWY; pisarz przysiegly przy kazdej komorze. KONSEKWENCJA: sedzia w Boltonsgate DOPIERO PO SKAGOS (~X) - 'w jednym tygodniu wezwanie, oko Krola w Karholdzie i sedzia w jego porcie - to juz nie sila, to oblezenie; Roose zamknie sie jak ostryga'. Do tego czasu obaj objazdowi."
   },
   {
    "data": "300-06-23",
@@ -9084,6 +9084,15 @@
    "kanal": "kruk Winterfell-Karhold / Riverrun",
    "wraca": "300-07-20",
    "zamyka": "Rickard wie o wizycie; czlowiek Karstarka wskazany do Maidenpool",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-10",
+   "co": "SEDZIOWIE KOMOR KORONY - OBSADA (kodeks B 07-10): dwoch sedziow komor (wskazuje Justycjariusz CERWYN, zasada 42) - do X obaj objazdowi; od ~X jeden STALY W BOLTONSGATE (przy komorze Korony u ujscia Placzacej Wody), drugi objazdowy. Pisarz przysiegly przy kazdej komorze (Gawen). Zold - Kasa 3.",
+   "kto": "CERWYN (imiona) ; GAWEN (pisarze, zold)",
+   "kanal": "Winterfell",
+   "wraca": "300-08-01",
+   "zamyka": "dwa imiona sedziow + pisarze przy komorach",
    "status": "otwarte"
   }
  ],

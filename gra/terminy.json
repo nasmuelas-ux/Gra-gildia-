@@ -7227,7 +7227,7 @@
    "kanal": "kruki Krola do lordow (po liscie pana, ~06-15)",
    "wraca": "300-07-12",
    "zamyka": "kontrakt z lista lordow i ilosciami (z formularza + karta Orlanda)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - KROL PODPISAL (rzut 50): kontrakt Korony za jedenastu lordow (ilosci z formularzy, E); trzy kolumny - zboze jadalne, straczkowe, SIEWNE polnocne osobno; kazdy lord placi swoja czesc po cenie kontraktu bez marzy Korony. Dreadfort NIE wchodzi (cisza Boltona). Drzwi otwarte dla spoznionych do 08-01."
   },
   {
    "data": "300-06-09",
@@ -8985,6 +8985,15 @@
    "kanal": "kruk Winterfell-Karhold",
    "wraca": "300-07-16",
    "zamyka": "odpowiedz Karstarka na list Krola albo cisza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-09",
+   "co": "KONTRAKT ZBOZOWY KORONY Z REACH - WYSLANY (podpis Krola 07-09): jeden kontrakt za Korone i jedenastu lordow (Gawen+Rodwell); droga - kruk do Bialego Portu, dalej statkiem Domu do Starego Miasta/Highgarden (Hal - posrednik, Olenna - kontrakt z 05-25: tansze zboze zachodnim morzem, eskorta Redwyne'ow); dostawa IX-X przez Goracy Port i Przewloke (barki w gore Goraczki - krannogowie). Cena i termin - odpowiedz Reach. Wola Reach - RZUT przy odpowiedzi. Spoznieni lordowie do 08-01 (dopisek).",
+   "kto": "KROL -> GAWEN + RODWELL -> HAL -> REACH (Olenna)",
+   "kanal": "kruk Winterfell-BP + statek BP-Stare Miasto (~3 tyg. w jedna strone)",
+   "wraca": "300-08-25",
+   "zamyka": "odpowiedz Reach: cena, ilosc, termin dostawy",
    "status": "otwarte"
   }
  ],

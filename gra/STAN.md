@@ -25,7 +25,12 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**172 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**172 otwartych** · **0 PRZETERMINOWANYCH** · 3 wraca dzis
+
+### 🟡 WRACA DZIS
+- ARYA - KARTA KANONU W WINTERFELL: Luwin spisuje Aryi karte (dziesiec dziedzin - co robi tu, do decyzji Catelyn ~07-25); przy zgodz… · _kanal:_ osobiscie, Winterfell
+- BRAN MOWI KROLOWI O SNACH RICKONA (Kudlacz, krypty) - zgoda Rickona 07-10 (rzut 62); warunek: Rickon i Kudlacz obecni; Bran mowi p… · _kanal:_ osobiscie, Winterfell
+- MIRA - UCZENIE W SZKOLE ZIMOWEGO MIASTA (pytanie pana 07-10; Mira: tak). Mira sama pyta Luwina i Halle rano 07-11 przy oddaniu lis… · _kanal:_ osobiscie, Winterfell
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1028,10 +1033,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-10 wieczor · zima (300)
+- **Data:** 300-07-11 rano · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 24**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 0**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 43 smokow + 54 jeleni + 11 mied
@@ -2159,8 +2164,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-10] `dziennik`: IZBA BRANA (cd.) - SYMON: 'Jutro.' (Bran i Rickon mowia Krolowi o snach Rickona, przy panu - 07-11). Bran: 'Powiem Rickonowi przy sniadaniu. Kudlacza nie trzeba prosic.' Bez rzutu. Potem SYM…
-- [300-07-10] `dziennik`: IZBA BRANA (cd.) - SYMON pyta Jojena: na czym polega zielonowidzenie? Bez rzutu (wiedza Reedow; jego slowa, nic ponad nie jest ustalone; zgodne z 06-07). JOJEN: TRZY RZECZY, NIE JEDNA - (1) …
 - [300-07-10] `ksiega_mistyki_polnocy_300_04`: (tajemnica) Jojen 07-10: warg / zielone sny / zielonowidz - trzy rzeczy. Zielonowidz patrzy oczami czardrzew, w tym wstecz ('drzewa maja wczoraj'); sciecie czardrzewa = oslepienie (zbieznosc…
 - [300-07-10] `dziennik`: IZBA BRANA (cd.) - SYMON do Jojena: czy nie myslal, ze jesli powie o tych rzeczach wlasciwym ludziom, beda mogli cos zrobic? Bez rzutu (rozmowa; bez nowych snow - nic ponad 06-07 nie jest uj…
 - [300-07-10] `dziennik`: IZBA BRANA (cd.) - SYMON pyta Jojena o INNYCH i to, co dzieje sie za Murem; co powinnismy robic. Bez rzutu (jego wiedza i jego zdanie; bez nowych snow - zgodne z 06-07; nic ponad nie jest us…
@@ -2171,3 +2174,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-10] `MIRA`: KOMNATY (cd.), po ciemku - SYMON pyta Mire, czy chcialaby uczyc w szkole w Zimowym Miescie. Bez rzutu (wola Miry - zona; odpowiada sama). MIRA: odwraca sie od ognia; dluga pauza. 'Tak.' - pi…
 - [300-07-10] `MIRA`: KOMNATY (cd.) - SYMON: a moze pomagac Luwinowi ROZBUDOWYWAC szkole, nie tylko uczyc - to samo, co robi na Fosie? Bez rzutu (wola Miry). MIRA: siada na lozku. 'Na Fosie jestem pania. Mabel pr…
 - [300-07-10] `MIRA`: KOMNATY (cd.) - SYMON: 'Spytaj tez Krola.' Bez rzutu. MIRA: 'Tak. Ale po Luwinie, nie przed.' - zeby Luwin nie uslyszal od Krola, ze ma w szkole nowa pania; 'najpierw ten, czyja to robota, p…
+- [300-07-10] `MIRA`: KOMNATY (cd.) - SYMON do Miry: 'Daj znac jutro.' (o odpowiedzi Luwina i Krola) - Mira, przez sen: 'Dam.' Spimy.
+- [300-07-11] `dziennik`: 300-07-11 RANEK (PIATEK), WINTERFELL. SEN RZUT 80: noc dobra, bez snow; zdrowie 100, zmeczenie 24->0, sytosc 100->72. POGODA RZUT 14 - JEDNA KONSEKWENCJA: deszcz od przed switu, rowny i zimn…

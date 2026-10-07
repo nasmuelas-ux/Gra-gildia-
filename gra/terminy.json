@@ -9553,6 +9553,15 @@
    "wraca": "300-08-01",
    "zamyka": "pierwszy raport skarbca (stan na 07-31)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-14",
+   "co": "LIST KROLA DO MANCE'A - PO WIESCI OD DACEY (Krol 07-14, rzut 52: oba szkice przyjete): TAK -> Krol przepisuje szkic A wlasna reka (pkt 5: chleb za prace i towar 'jak sasiad z sasiadem - umowa, nie danina') + pismo do lordow tego samego dnia + rachunek do Orlanda; NIE -> szkic B bez zmian + listy do Muru i polnocnego brzegu. Skagos - decyzja przed 08-05 (termin 08-01).",
+   "kto": "KROL (podpis) ; SYMON (kancelaria)",
+   "kanal": "kruk Winterfell-Czarny Zamek -> poselstwo",
+   "wraca": "300-07-16",
+   "zamyka": "list wyslany wg odpowiedzi Mance'a",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

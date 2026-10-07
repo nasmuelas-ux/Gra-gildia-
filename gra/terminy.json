@@ -8170,28 +8170,28 @@
   },
   {
    "data": "300-06-22",
-   "co": "SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Namiestnika', NIE Korona, NIE siatka Willi; co dotyka falszerstwa Rymana - do Cerwyna). (1) PISMO NOTARIALNE DOMU DO STAREGO ZAMKU - do maestra WILLAMA (forma c z 300-03-28, wreszcie wyslana): prosba o pamiec, nie o rejestr - kim byl Aemon Rivers (czyj bekart, skad z Dorzecza, kto go przyslal, z kim korespondowal), kto w zamku pamieta chlopca Symona i kto placil za jego utrzymanie. Prywatne, jawne, mozna odmowic - 'odmowa wpisana lepsza niz prosba zapomniana'. Spisuje NOTARIUSZ DOMU (Fosa); kurier Domu Fosa -> Bialy Port -> wybrzezem do Starego Zamku (E ~07-10 na miejscu); odpowiedz do Winterfell E ~07-30. Wola obca - RZUT przy odpowiedzi. ### 07-10: skrzynia w komnacie Namiestnika - czeka, az pan ja otworzy (osobiscie).",
+   "co": "SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Namiestnika', NIE Korona, NIE siatka Willi; co dotyka falszerstwa Rymana - do Cerwyna). (1) PISMO NOTARIALNE DOMU DO STAREGO ZAMKU - do maestra WILLAMA (forma c z 300-03-28, wreszcie wyslana): prosba o pamiec, nie o rejestr - kim byl Aemon Rivers (czyj bekart, skad z Dorzecza, kto go przyslal, z kim korespondowal), kto w zamku pamieta chlopca Symona i kto placil za jego utrzymanie. Prywatne, jawne, mozna odmowic - 'odmowa wpisana lepsza niz prosba zapomniana'. Spisuje NOTARIUSZ DOMU (Fosa); kurier Domu Fosa -> Bialy Port -> wybrzezem do Starego Zamku (E ~07-10 na miejscu); odpowiedz do Winterfell E ~07-30. Wola obca - RZUT przy odpowiedzi.",
    "kto": "NOTARIUSZ DOMU -> MAESTER WILLAM (Stary Zamek)",
    "kanal": "kurier Domu (poczta wlasna, poza Cytadela)",
-   "wraca": "300-07-15",
+   "wraca": "300-07-30",
    "zamyka": "odpowiedz albo wpisana odmowa (data, nazwisko, powod)",
    "status": "otwarte"
   },
   {
    "data": "300-06-22",
-   "co": "SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Namiestnika', NIE Korona, NIE siatka Willi; co dotyka falszerstwa Rymana - do Cerwyna). (2) CYTADELA - KSIEGA PRZYJEC: kim byl Aemon Rivers (rok przyjecia, z czyjej krwi, kto go przedstawil, ogniwa lancucha, przydzial do Starego Zamku). Droga: maesterowie z Cytadeli ORWYN i EDMUND (na Fosie E ~07-01) - pan prosi ich osobiscie, oni pisza do swoich archimaesterow. ⚠ KANAL ZNANY CYTADELI (ostrzezenie 299-06-23) - Cytadela dowie sie, ze Namiestnik pyta o swojego nauczyciela. Odpowiedz ze Starego Miasta E ~09-15. Wola obca - RZUT. ### 07-10: skrzynia w komnacie Namiestnika - czeka, az pan ja otworzy (osobiscie).",
+   "co": "SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Namiestnika', NIE Korona, NIE siatka Willi; co dotyka falszerstwa Rymana - do Cerwyna). (2) CYTADELA - KSIEGA PRZYJEC: kim byl Aemon Rivers (rok przyjecia, z czyjej krwi, kto go przedstawil, ogniwa lancucha, przydzial do Starego Zamku). Droga: maesterowie z Cytadeli ORWYN i EDMUND (na Fosie E ~07-01) - pan prosi ich osobiscie, oni pisza do swoich archimaesterow. ⚠ KANAL ZNANY CYTADELI (ostrzezenie 299-06-23) - Cytadela dowie sie, ze Namiestnik pyta o swojego nauczyciela. Odpowiedz ze Starego Miasta E ~09-15. Wola obca - RZUT.",
    "kto": "SYMON -> ORWYN/EDMUND -> CYTADELA",
    "kanal": "lancuch maesterski (Fosa/Winterfell - Stare Miasto)",
-   "wraca": "300-07-15",
+   "wraca": "300-09-15",
    "zamyka": "wpis z ksiegi przyjec albo odmowa",
    "status": "otwarte"
   },
   {
    "data": "300-06-22",
-   "co": "SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Namiestnika', NIE Korona, NIE siatka Willi; co dotyka falszerstwa Rymana - do Cerwyna). (3) DORZECZE - 'Rivers' to bekart z Dorzecza: (a) list do LYMANA OD BRODOW (placowka Domu w Riverrun): niech cicho pyta starych - septy, maester Riverrun, stara sluzba - o bekarta, ktory ~60-70 lat temu poszedl do Cytadeli i dostal imie Aemon (E). Kurier Domu z kolumna Kompanii; odpowiedz E ~07-30. (b) BRYNDEN TULLY (E ~07-10, Przystan Wilka) - pan pyta osobiscie przy pierwszym spotkaniu; Czarna Ryba pamieta Dorzecze sprzed pol wieku. Wola obca - RZUT przy kazdej odpowiedzi. ### 07-10: skrzynia w komnacie Namiestnika - czeka, az pan ja otworzy (osobiscie).",
+   "co": "SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Namiestnika', NIE Korona, NIE siatka Willi; co dotyka falszerstwa Rymana - do Cerwyna). (3) DORZECZE - 'Rivers' to bekart z Dorzecza: (a) list do LYMANA OD BRODOW (placowka Domu w Riverrun): niech cicho pyta starych - septy, maester Riverrun, stara sluzba - o bekarta, ktory ~60-70 lat temu poszedl do Cytadeli i dostal imie Aemon (E). Kurier Domu z kolumna Kompanii; odpowiedz E ~07-30. (b) BRYNDEN TULLY (E ~07-10, Przystan Wilka) - pan pyta osobiscie przy pierwszym spotkaniu; Czarna Ryba pamieta Dorzecze sprzed pol wieku. Wola obca - RZUT przy kazdej odpowiedzi.",
    "kto": "LYMAN (Riverrun); SYMON -> BRYNDEN",
    "kanal": "kurier Domu z Kompania; osobiscie",
-   "wraca": "300-07-15",
+   "wraca": "300-07-30",
    "zamyka": "odpowiedz Lymana + rozmowa z Bryndenem",
    "status": "otwarte"
   },

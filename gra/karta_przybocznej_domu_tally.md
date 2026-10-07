@@ -71,13 +71,13 @@ Przyboczna to **straż osobista Domu Tally**. Chroni pana, jego rodzinę i jego 
 > Będę przy panu, gdy będzie trzeba, i przy jego dzieciach, gdy jego nie będzie.
 > Nie powtórzę tego, co usłyszę przy jego stole.
 > Nie wezmę daru, którego nie pokażę kapitanowi.
-> Nie zabiję bez wyroku albo bez obrony.
+> Nie podniosę miecza bez rozkazu pana albo bez obrony, a gdy rozkazu nie wykonam, powiem to wprost.
 > Służę Domowi, póki Dom mnie nie zwolni albo ja go nie opuszczę w zgodzie — a i wtedy będę milczał.
 
 ## VII. Reguła — dziesięć punktów
 1. Nie zostawia pana samego z obcym.
 2. Nie powtarza tego, co usłyszał przy panu. Milczenie obowiązuje także po odejściu ze służby, **do śmierci**.
-3. **Wykonuje wyroki, nie rozkazy zabicia.** Rozkaz zabicia bez wyroku sądu albo poza obroną **nie wiąże przybocznego. Dotyczy to także rozkazu pana.** Za odmowę takiego rozkazu nie wolno go ukarać.
+3. **Rozkaz pana.** W lennie i w jurysdykcji Domu rozstrzyga pan. **Pan może nakazać doprowadzić człowieka żywego albo martwego.** Przyboczny **może odmówić** wykonania rozkazu, ale musi to zrobić jawnie, w twarz, a nie po cichu. **Odmowę wpisuje się do Księgi Przybocznej** razem z przyczyną, którą poda. O jego dalszej służbie decyduje pan. *(poprawka pana 300-07-12)*
 4. Dar wart więcej niż koń zgłasza kapitanowi. Kapitan rozstrzyga, czy dar zostaje, czy wraca.
 5. Nie zaciąga długów u ludzi, których dom może chcieć coś od pana.
 6. Nie handluje na własny rachunek z ludźmi, przy których pełni wartę.
@@ -94,10 +94,12 @@ Przyboczna to **straż osobista Domu Tally**. Chroni pana, jego rodzinę i jego 
 | Ukryty dar | Wpis, zwrot daru, odsunięcie |
 | Złamanie milczenia | Wpis, wydalenie, sąd pana |
 | Zostawienie pana albo dziecka samego z obcym | Wpis, wydalenie |
-| Zabicie bez wyroku i poza obroną | Sąd Korony (Justycjariusz), nie pana |
-| Zdrada pana | Sąd Korony |
+| Odmowa rozkazu, jawna | Wpis do Księgi z przyczyną; dalej decyduje pan |
+| Niewykonanie rozkazu po cichu, bez słowa | Wpis, wydalenie |
+| Zabicie bez rozkazu i poza obroną | Sąd pana |
+| Zdrada pana | Sąd pana |
 
-**Pan nie sądzi przybocznego o krew.** Sprawy krwi idą do sądu Korony, żeby nikt nie mógł powiedzieć, że Dom ma własne prawo.
+**W lennie i w jurysdykcji Domu sądzi pan, także w sprawach krwi.** Poza lennem obowiązuje prawo miejsca. *(Poprawka pana 300-07-12: wykreślono sąd Korony nad przybocznymi.)*
 
 ## IX. Żołd i opieka
 - Żołd płaci **Kasa 1** co miesiąc, do ręki, na kwit.

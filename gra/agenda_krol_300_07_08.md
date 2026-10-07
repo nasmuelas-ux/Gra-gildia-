@@ -24,3 +24,8 @@
 14. ~~Ucho Korony stoi puste~~ — **VOID (poprawka pana 06-30): krzesło obsadzone 300-03-30**, zapis niejawny w `gra/ukryte/`. Do Króla nie idzie nic.
 15. *(Rodzina)* Arya chce wracać na Fosę. Decydują Catelyn i Król; warunek Catelyn: nie dłużej niż miesiąc.
 16. *(Bran, ~07-15)* Bran sam mówi Królowi, przy panu. Inicjatywa należy do Brana.
+
+
+## DOPISANE W DRODZE (07-07, zamek Cerwyn)
+- **17. Swiadek w sporze Hornwood/Dreadfort** - list zelazny i ochrona Krola dla niego i rodziny, pomoc w przeprowadzce (imie tylko ustnie; Cerwyn proponuje w cztery oczy przy mediacji ~07-10).
+- **18. Eskorta Justycjariusza** - objazd sedziowski pod choragwia Starkow (ludzie Korony + Cerwynow); zwrot Cerwynowi za ludzi odciagnietych od zamku i sianokosu (kwoty - Gawen, E).

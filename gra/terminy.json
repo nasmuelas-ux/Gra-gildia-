@@ -8950,6 +8950,15 @@
    "wraca": "300-07-12",
    "zamyka": "decyzja Krola: ilu ludzi Korony, czyja choragiew, zwrot za Cerwynow",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-07",
+   "co": "RADA TRZECH WLASCICIELI PRZYSTANI WILKA (Korona 1/2, Cerwyn 1/4, Manderly 1/4) - pierwsze posiedzenie od III, w WINTERFELL, przy jednej mapie: stan baszty i akademii, Brynden, T3-B i most na Bialym Nozu (rysunek Borsa), kto co placi. Zgoda pana 07-07 na prosbe Cerwyna. Zaproszenie do Wymana (on albo jego czlowiek) - list pana z Winterfell krukiem do BP; Bors przysyla karte i rysunek mostu.",
+   "kto": "SYMON (Korona) + CERWYN + WYMAN/czlowiek Wymana ; BORS (karta)",
+   "kanal": "kruk Winterfell-Bialy Port (zaproszenie) ; osobiscie Winterfell",
+   "wraca": "300-07-25",
+   "zamyka": "posiedzenie odbyte, ustalenia spisane",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -9051,7 +9060,7 @@
   },
   {
    "id": "KARTA_BORS",
-   "co": "KARTA I - BORS, PRZYSTAN WILKA (baszta + akademia) - osiem rubryk.",
+   "co": "KARTA I - BORS, PRZYSTAN WILKA (baszta + akademia) - osiem rubryk. | 07-07: ODPIS KARTY DO LORDA CERWYNA (wlasciciel 1/4) co miesiac - Garrick wysyla odpis jezdzcem do zamku Cerwyn.",
    "kto": "BORS",
    "kanal": "przez Garricka",
    "rytm": {

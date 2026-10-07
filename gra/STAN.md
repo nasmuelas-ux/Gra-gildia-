@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**205 otwartych** · **34 PRZETERMINOWANYCH** · 22 wraca dzis
+**204 otwartych** · **34 PRZETERMINOWANYCH** · 21 wraca dzis
 
 ### 🔴 PRZETERMINOWANE — KAZDA MUSI DOSTAC ROZSTRZYGNIECIE W TEJ TURZE
 _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy sie sprawie zewnetrznej._
@@ -51,7 +51,6 @@ _przyszlo · nie przyszlo I WIADOMO DLACZEGO · przyszlo co innego. Rzut nalezy 
 - **+3 dni** — KOMORA FOSY - DWOCH PSIARZY I WAGOWY WIECEJ (zgoda pana 06-20): dobiera Rorik (zasada 42); placi Korona (Gawen). · _kanal:_ na miejscu / poczta · _zamyka:_ trzech nowych przy bramie
 
 ### 🟡 WRACA DZIS
-- DRUGA RATYFIKACJA traktatu z Dorzeczem; zakaz zaliczek przed ratyfikacja ### 300-06-30: NIE PRZYSZLO I WIADOMO DLACZEGO: ratyfikac… · _kanal:_ wlasny czlowiek na Fosie
 - LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie… · _kanal:_ poselstwo Dacey -> Mur -> Winterfell
 - REKRUTACJA 50 Z OBSZARU KAMIENNEGO BRZEGU (pod Ulrikiem, obok rybakow z planu Theona); zold ~3 smoki/mies. z Kasy 3. ### 07-01: me… · _kanal:_ na miejscu po przyjezdzie
 - ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku… · _kanal:_ Winterfell (pan na miejscu)
@@ -94,7 +93,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **tygodnie - PRZED SIEWEM** — ZRODLO NASIENIA owsa i jeczmienia NA TEN SIEW ### 300-03-13 ROZSTRZYGNIETE: BIERZEMY Z PORTU OD WYMANA, Z RUBRYKA STANU. Zastrzezenie Wymana i Harla przyjete: jadalne nie znaczy wschodzace. ZOSTAJE JEDNO I JEST OPERACYJNE: KTO CZYTA I GDZIE - patrz osobny termin. · _kto:_ **Symon / Hal / Harl** · _zamyka:_ ziarno w skladzie **⚠ ZRODLO WYBRANE 300-03-13; ODCZYT OTWARTY**
 - **~300-03-13** — WILLA: druga droga na poludnie - dwie kolumny rejestru; czyta MELLA, wynik do Willi szyfrem ### 300-03-14 ROZSTRZYGNIECIE (zasada 40): NIE JEST ZALEGLE NA FOSIE - JEST ZALEGLE W REKU PANA. Kanal to 'wlasny czlowiek na Fosie', wiec rzecz zlecona i obsadzona idzie bez niego (zasady 7 i 42); wynik wchodzi do MELDUNKU ZBIORCZEGO GARRICKA, ktory od 300-03-05 idzie ZA NAMIESTNIKIEM, nie na Fose. Symon wyjezdza 03-15 i staje w Winterfell ~03-20 - tam go dogoni. TO JEST DOKLADNIE TA SAMA RZECZ, CO MELDUNEK VII OSRICA, ktory lezal, bo adres byl staly, a Namiestnik nie. · _kto:_ **MELLA -> HARROL -> WILLA** · _zamyka:_ odczyt kolumn **⚠ ZAMKNIETE 300-05-16 (PORZADEK): ODCZYT MELLI SZEDL DO WILLI SZYFREM OD III; SPRAWA WCHLONIETA PRZEZ SZEROKI TROP I ZLECENIA WILLI (HARRION) - BEZ OSOBNEJ OPERACJI.**
 - **jesien 300** — ZYTO OZIME - siew; odpowiedz OSRICA o Darze pod to, nie pod wiosne · _kto:_ **Symon / Osric** · _zamyka:_ siew
-- **koniec VI/300** — DRUGA RATYFIKACJA traktatu z Dorzeczem; zakaz zaliczek przed ratyfikacja ### 300-06-30: NIE PRZYSZLO I WIADOMO DLACZEGO: ratyfikacja w Riverrun koniec VI; kruk Riverrun-Winterfell, pan od 07-02 w drodze - wiesc czeka w Winterfell (~07-08). RZUT wykonany dzis: 76 (prog 45) - wynik wchodzi z wiescia. · _kto:_ **Catelyn / Lucan** · _zamyka:_ ratyfikacja
+- **koniec VI/300** — DRUGA RATYFIKACJA traktatu z Dorzeczem; zakaz zaliczek przed ratyfikacja ### 300-06-30: NIE PRZYSZLO I WIADOMO DLACZEGO: ratyfikacja w Riverrun koniec VI; kruk Riverrun-Winterfell, pan od 07-02 w drodze - wiesc czeka w Winterfell (~07-08). RZUT wykonany dzis: 76 (prog 45) - wynik wchodzi z wiescia. · _kto:_ **Catelyn / Lucan** · _zamyka:_ ratyfikacja **⚠ ZAMKNIETE 300-07-08 (WINTERFELL; RZUT 76 Z 06-30): RATYFIKOWANE - EDMURE PRZYLOZYL PIECZEC W RIVERRUN POD KONIEC VI; KRUK LEZAL W WINTERFELL OD ~07-01. SZCZEGOLY PISMA - W POCZCIE PANA.**
 - **bez daty - CISZA** — MELDUNEK VII OSRICA (Mur) - zalegly. ⚠ TO NIE JEST ZALEGLOSC URZEDOWA: TEDY MA WROCIC ODPOWIEDZ OD MANCE'A RAYDERA. Poslaniec za Mur wyszedl 300-02-07; Osric jest jedynym kanalem, ktorym to moze przyjsc. Jego cisza i cisza zza Muru to JEDNA CISZA, nie dwie. · _kto:_ **OSRIC** · _zamyka:_ meldunek **⚠ ZAMKNIETE 300-03-03 - MELDUNEK VII WYDANY; SPOZNIONY, BO OSRIC CZEKAL, AZ BEDZIE MIAL CO NAPISAC O POSLANCU, I NIE DOCZEKAL SIE**
 - **bez daty - CISZA** — PRZYSTAN WILKA - status budowy; pyta CERWYN jako wspolwlasciciel cwiartki; podanie nazwiska budowniczego jest czescia odpowiedzi · _kto:_ **CERWYN** · _zamyka:_ meldunek z nazwiskiem **⚠ ZAMKNIETE 300-03-29 - RADA TRZECH WLASCICIELI: NADANIE BORSA POLOZONE PRZY WSZYSTKICH TRZECH, TAK JAK ZADAL CERWYN. STOI. CERWYN: FORMA DOPELNIONA, WIECEJ NIE PYTA.**
 - **bez daty - CISZA** — DONNEL OBROK (Dustinport, budowa) - pytanie pod pieczecia, jezdziec eskadry · _kto:_ **DONNEL** · _zamyka:_ meldunek w formie osmiu rubryk **⚠ ZAMKNIETE 300-03-03 - MELDUNEK PRZYSZEDL, 13 DNI PO TERMINIE, POD PIECZECIA I PROZA; OD 300-04-01 IDZIE NA OSMIU RUBRYKACH**
@@ -2166,7 +2165,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-07] `dziennik`: ZAMEK CERWYN (cd.) - SYMON pyta MEDGERA o PRZYSTAN WILKA i o zamek. Bez rzutu (wiedza sasiada; meldunki Borsa ida do pana kanalem Garricka - karta Borsa 07-06 czeka w Winterfell). PRZYSTAN W…
 - [300-07-07] `dziennik`: ZAMEK CERWYN (cd.) - SYMON: 'Ale jestes udzialowcem tej przystani.' (zgodne z zapisem 300-03-25: PRZYSTAN WILKA - RADA TRZECH WLASCICIELI: Korona 1/2, Cerwyn 1/4, Manderly 1/4; stad tez 'cwi…
 - [300-07-07] `dziennik`: ZAMEK CERWYN (cd.) - ⚑ SYMON: 'Zgoda.' (1) RADA TRZECH w Winterfell ~07-25 (Wyman albo jego czlowiek; zaproszenie krukiem z Winterfell); (2) odpis KARTY BORSA do Cerwyna co miesiac (Garrick)…
 - [300-07-07] `dziennik`: WYJAZD Z ZAMKU CERWYN (popoludnie). Pozegnanie przy bramie: Medger - 'Dziesiatego'; Jonelle do Miry - 'Jesienia na Fose, jesli ojciec mnie puszcza' (Mira: 'Puszcza.'); Cley do Aryi - 'W Wint…
@@ -2178,3 +2176,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-08] `dziennik`: OBIAD PRZY KAMIENIU: chleb z serem od Ody. Sytosc 92->100. POPOLUDNIE: trakt przez ZIMOWE MIASTO - rusztowania, nowe dachy, faktoria Domu (budynek pod koszary przybocznej wskazany - 06-25), …
 - [300-07-08] `dziennik`: WIECZOR, WIELKA SALA WINTERFELL - KOLACJA POWITALNA. Bez rzutu. Pieczen wolowa, pasztet z dziczyzny, chleb Benneta, ser, piwo; dla dzieci kisiel. Sytosc 100 (bez zmian), zmeczenie 12->18. Pr…
 - [300-07-08] `dziennik`: WIELKA SALA (cd.) - SYMON OPOWIADA ELLARDOWI O WIELKIM KURHANIE (dotrzymana obietnica z 06-06). Bez rzutu; tresc z zapisu 06-11..13: zielony, gladki, wyzszy niz najwyzszy dab, bez sciezki na…
+- [300-07-08] `dziennik`: WIELKA SALA (cd.) - SYMON pyta KROLA, jak sie ma on i wszyscy. Bez rzutu (zycie domu; RATYFIKACJA - rzut 76 z 06-30, wynik wchodzi dzis). KROL: (1) 'Edmure ratyfikowal. Pieczec przyszla pier…

@@ -6489,7 +6489,7 @@
    "kanal": "Fosa + kruk Fosa-Winterfell",
    "wraca": "300-07-05",
    "zamyka": "przebieg T3-A z podzialem na ziemie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09: PRZEBIEG T3-A na stole (mierniczy Garricka): z Fosy grobla i suchym pasem na polnocny wschod; ok. 1/4 ziemia lenna, ok. 2/3 ziemie Manderly'ego (lasy i laki nad Bialym Nozem), ostatnie mile - grunt Przystani Wilka (Rada Trzech). Odpisy: Wyman, Cerwyn (do T3-B), Bors."
   },
   {
    "data": "300-05-26",
@@ -7623,7 +7623,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "kosztorys na stole pana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - kosztorys Warryna+Garricka (E): zold stalej setki ~6-9 smokow/mies.; jednorazowo lodzie (20), kusze i belty, baraki z kuchnia - ~45-70 smokow; chleb z kuchni lenna. Kasa 2."
   },
   {
    "data": "300-06-19",
@@ -7672,10 +7672,10 @@
   },
   {
    "data": "300-06-19",
-   "co": "DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; kupowac domy. Mur trzech kas: ludzie Domu - Kasa 1 (Hal), ludzie lenna - Kasa 2 (Warryn). KROK 1 (Garrick + Alys + Mella, kancelaria): SPIS - kto ze stalych (kontrakt/zold) nie ma wlasnej izby, ile rodzin, ile dzieci. PYTANIE GARRICKA (do slowa pana): ZAKRES - stali (kontrakt, zold: druzyna, Jastrzebie, urzednicy, pisarze, nauczyciele) czy takze DNIOWKOWI (~400 przybyszow)? ZASADA 8: (a) w Cailin wolnych domow prawie nie ma, a czynsze juz skoczyly (Alys) - skup wywinduje ceny i wypchnie mieszczan z izb; (b) lawa nie chciala, by Dom byl panem kamienic (rzut 24) - skup istniejacych domow czyni Dom najwiekszym gospodarzem w miescie; (c) PROPOZYCJA GARRICKA: kupowac tylko tam, gdzie ktos sam sprzedaje po cenie ze slupa; reszte STAWIAC (dom Domu, kamienice z pozyczki 0,5%, baraki rodzinne przy grobli dla Jastrzebi i druzyny) - do slowa pana. ### 06-19 ROZSTRZYGNIECIE PANA: (1) STALI (KONTRAKT/ZOLD) - IZBA NA WYLACZNOSC, PRZEKAZYWANA NA WLASNOSC; (2) KTO JUZ MA WLASNY DOM - PREMIA zamiast (wysokosc: Warryn - Kasa 2 / Hal - Kasa 1, E); (3) TYMCZASOWI (DNIOWKOWI) - BARAKI WIELOOSOBOWE (osobny termin). PYTANIE GARRICKA do slowa pana (zasada 8): wlasnosc od razu czy po roku sluzby / zwrot przy zerwaniu w pierwszym roku - inaczej ktos wezmie dom i odejdzie nastepnego dnia. ### 06-19 ZASADA PANA (odczyt GM: 'pol roku dla niewykwalifikowanych, dla zamawianych od razu; wylacznosc po roku'): IZBA NA WYLACZNOSC - NIEWYKWALIFIKOWANI na kontrakcie po POL ROKU sluzby (do tego czasu kwatera wspolna/barak), ZAMAWIANI (sprowadzani fachowcy: pisarze, nauczyciele, mistrzowie, inzynierowie) OD RAZU; WLASNOSC IZBY dla wszystkich PO ROKU sluzby. Gracz moze poprawic odczyt.",
+   "co": "DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; kupowac domy. Mur trzech kas: ludzie Domu - Kasa 1 (Hal), ludzie lenna - Kasa 2 (Warryn). KROK 1 (Garrick + Alys + Mella, kancelaria): SPIS - kto ze stalych (kontrakt/zold) nie ma wlasnej izby, ile rodzin, ile dzieci. PYTANIE GARRICKA (do slowa pana): ZAKRES - stali (kontrakt, zold: druzyna, Jastrzebie, urzednicy, pisarze, nauczyciele) czy takze DNIOWKOWI (~400 przybyszow)? ZASADA 8: (a) w Cailin wolnych domow prawie nie ma, a czynsze juz skoczyly (Alys) - skup wywinduje ceny i wypchnie mieszczan z izb; (b) lawa nie chciala, by Dom byl panem kamienic (rzut 24) - skup istniejacych domow czyni Dom najwiekszym gospodarzem w miescie; (c) PROPOZYCJA GARRICKA: kupowac tylko tam, gdzie ktos sam sprzedaje po cenie ze slupa; reszte STAWIAC (dom Domu, kamienice z pozyczki 0,5%, baraki rodzinne przy grobli dla Jastrzebi i druzyny) - do slowa pana. ### 06-19 ROZSTRZYGNIECIE PANA: (1) STALI (KONTRAKT/ZOLD) - IZBA NA WYLACZNOSC, PRZEKAZYWANA NA WLASNOSC; (2) KTO JUZ MA WLASNY DOM - PREMIA zamiast (wysokosc: Warryn - Kasa 2 / Hal - Kasa 1, E); (3) TYMCZASOWI (DNIOWKOWI) - BARAKI WIELOOSOBOWE (osobny termin). PYTANIE GARRICKA do slowa pana (zasada 8): wlasnosc od razu czy po roku sluzby / zwrot przy zerwaniu w pierwszym roku - inaczej ktos wezmie dom i odejdzie nastepnego dnia. ### 06-19 ZASADA PANA (odczyt GM: 'pol roku dla niewykwalifikowanych, dla zamawianych od razu; wylacznosc po roku'): IZBA NA WYLACZNOSC - NIEWYKWALIFIKOWANI na kontrakcie po POL ROKU sluzby (do tego czasu kwatera wspolna/barak), ZAMAWIANI (sprowadzani fachowcy: pisarze, nauczyciele, mistrzowie, inzynierowie) OD RAZU; WLASNOSC IZBY dla wszystkich PO ROKU sluzby. Gracz moze poprawic odczyt. ### 07-09 (Winterfell, stos Fosa): KROK 1 - SPIS (Garrick+Alys+Mella): ze STALYCH bez wlasnej izby - ok. 60 osob, z tego 22 z rodzinami (E); dniowkowych przybyszow bez dachu - ok. 400 (E). Plan: kupno tylko po cenie ze slupa (3-4 domy wolne), reszta - budowa szeregu domow na suchym przy MF-5 (Bran). PYTANIE GARRICKA CZEKA na slowo pana: zakres - tylko stali, czy takze dniowkowi?",
    "kto": "GARRICK + ALYS + MELLA; HAL (Kasa 1) + WARRYN (Kasa 2)",
    "kanal": "na miejscu",
-   "wraca": "300-07-05",
+   "wraca": "300-07-15",
    "zamyka": "spis bezdomnych pracujacych + plan (kupno/budowa) z kosztem E",
    "status": "otwarte"
   },
@@ -7713,7 +7713,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "beczki, drabiny i dzwon stoja; obchod chodzi",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 (Herwin/Bran/Kessel): beczki z woda przy kazdym rzedzie domow i szop, bosaki i drabiny przy wadze i przy kanale; obchod Jastrzebi nocny liczy ognie; do dzwonu - rog bramy."
   },
   {
    "data": "300-06-19",
@@ -7753,10 +7753,10 @@
   },
   {
    "data": "300-06-19",
-   "co": "WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu.",
+   "co": "WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): Warryn+Orbelo: zapas wapna budowy na ~2 miesiace przy obecnej zaprawie; bielenie wstrzymane poza lecznica i szkola; kamien wapienny - najblizszy LOM na polnoc od Przesmyku, ~2 dni wozem (ziemie Barrowlandow - zgoda lady Barbrey potrzebna) albo KUPNO w Bialym Porcie (barki - jak u Borsa, spoznione); WAPIENNIK WLASNY przy lomie - E 25-40 smokow + ludzie. ZASADA 8: Bors juz kupuje wapno od Cerwynow, pozyczka w materiale dla Cailin tez zje wapno. Do slowa pana: lom Barbrey + wapiennik czy kupno w BP.",
    "kto": "WARRYN + ORBELO",
    "kanal": "na miejscu",
-   "wraca": "300-07-05",
+   "wraca": "300-07-15",
    "zamyka": "zrodlo wapna i plan (kupno/wapiennik) z kosztem E",
    "status": "otwarte"
   },
@@ -7866,7 +7866,7 @@
    "kanal": "na miejscu; list do Hala",
    "wraca": "300-07-05",
    "zamyka": "saldo rzeczywiste skarbca lenna na pismie; korekta Hala, jesli potrzebna",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Warryn: SALDO RZECZYWISTE SKARBCA LENNA po potraceniu budow placonych z biezacego: 290-940 smokow (E, przedzial z ksiegi); od 07-01 skarbiec lenna prowadzony osobno, saldo co miesiac. Hal: akt 06-01 bez wyniku lenna - korekta niepotrzebna."
   },
   {
    "data": "300-06-20",
@@ -7875,7 +7875,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "prawo skladu z liczba w rachunku lenna",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Bennis+Warryn: od IV stanelo na skladzie ok. 170 wozow (E); oplaty skladowe i odstepne do skarbca lenna ~20-35 smokow (E); w miescie zostalo wiecej - tragarze, strawa, noclegi (nie liczone). Liczba do rubryki lenna w kasa.py przy zamknieciu VII."
   },
   {
    "data": "300-06-20",
@@ -7884,7 +7884,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "sklad w kolejce z data startu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Warryn: sklad glowny (bazalt) w kolejce kamienia przed brukiem; start po MF-1 (09-15), fundament przed mrozem."
   },
   {
    "data": "300-06-20",
@@ -7947,7 +7947,7 @@
    "kanal": "na miejscu / poczta",
    "wraca": "300-07-05",
    "zamyka": "trzech nowych przy bramie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Rorik: dwaj psiarze (z przybyszow z psami ze wschodu) i wagowy (syn Bennisa) przy bramie od 07-04; placi Korona."
   },
   {
    "data": "300-06-20",
@@ -7995,7 +7995,7 @@
    "kanal": "na miejscu; raport rady",
    "wraca": "300-07-05",
    "zamyka": "kosztorysy w kolejnosci a-e, kwota obiadu szkolnego",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Warryn: kosztorysy w kolejnosci a-e na stole; OBIAD SZKOLNY ~1,5-2,5 smoka/mies. przy 50 dzieciach (E)."
   },
   {
    "data": "300-06-21",
@@ -8049,7 +8049,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "spis narzedzi + pietno + kwit dziala",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - spis narzedzi lenna (ok. 340 sztuk, E), pietno kowala, kwit przy wadze dziala od 07-03; pierwsze dwa braki - z dniowki nadzorcow."
   },
   {
    "data": "300-06-21",
@@ -8058,7 +8058,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "koszt i zrodlo dzwonu; sygnaly ogloszone",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Warryn: dzwon z Bialego Portu (odlewnia przy porcie) ~8-14 smokow (E), dostawa wozem ~VIII; sygnaly ogloszone przez lawe i na slupie; do tego czasu rog."
   },
   {
    "data": "300-06-21",
@@ -8107,19 +8107,19 @@
   },
   {
    "data": "300-06-21",
-   "co": "KOSZARY MUROWANE DLA ZOLNIERZY I REKRUTOW LENNA (rozkaz pana 06-21, przy przegladzie garnizonu): zamiast kwater drewnianych pod 200 - KOSZARY Z KAMIENIA na suchym, przy twierdzy Fosy (dla 200 stalych wg rozkazu 05-14 + izby rekrutow). Projekt i kosztorys: WARRYN + HENDRY (uklad: izby, zbrojownia, kuchnia, umywalnia) + HARLON (kamien, wapno - zrodlo z uchwaly lawy 06-26). Wydatek ponad 50 smokow - pieczec pana JEST (rozkaz). ZASADA 8: w kolejnosci Warryna kamien to pozycja (e) - po zniwach i z obligacji; murarze Harlona przy murze Goracego Portu - koszary staja w kolejce za murem od morza albo pan przesuwa (do slowa pana przy kosztorysie). Do czasu murow - stan tymczasowy rekrutow do slowa pana (Hendry: barak na suchym). Wlasni - bez rzutu. ### 06-21 PAN: KOLEJNOSC BEZ ZMIAN - NAJPIERW MUR GORACEGO PORTU, KAMIEN (koszary) PO ZNIWACH (pozycja e). ZOLNIERZE STALI MOGA MIESZKAC W SWOICH DOMACH (polityka 'dom dla kazdego' 06-19 - izba/premia). Hendry (w swoim zakresie): zwolnione prycze w twierdzy (sucho) - dla ~30 rekrutow od dzis; stryszek nad stajnia i stary sklad pustoszeja. ZASADA 8: zolnierze w miescie = wolniejsze stawiennictwo na alarm - DZIESIATKA DYZURNA zawsze w twierdzy (rotacja), reszta na rog/dzwon.",
+   "co": "KOSZARY MUROWANE DLA ZOLNIERZY I REKRUTOW LENNA (rozkaz pana 06-21, przy przegladzie garnizonu): zamiast kwater drewnianych pod 200 - KOSZARY Z KAMIENIA na suchym, przy twierdzy Fosy (dla 200 stalych wg rozkazu 05-14 + izby rekrutow). Projekt i kosztorys: WARRYN + HENDRY (uklad: izby, zbrojownia, kuchnia, umywalnia) + HARLON (kamien, wapno - zrodlo z uchwaly lawy 06-26). Wydatek ponad 50 smokow - pieczec pana JEST (rozkaz). ZASADA 8: w kolejnosci Warryna kamien to pozycja (e) - po zniwach i z obligacji; murarze Harlona przy murze Goracego Portu - koszary staja w kolejce za murem od morza albo pan przesuwa (do slowa pana przy kosztorysie). Do czasu murow - stan tymczasowy rekrutow do slowa pana (Hendry: barak na suchym). Wlasni - bez rzutu. ### 06-21 PAN: KOLEJNOSC BEZ ZMIAN - NAJPIERW MUR GORACEGO PORTU, KAMIEN (koszary) PO ZNIWACH (pozycja e). ZOLNIERZE STALI MOGA MIESZKAC W SWOICH DOMACH (polityka 'dom dla kazdego' 06-19 - izba/premia). Hendry (w swoim zakresie): zwolnione prycze w twierdzy (sucho) - dla ~30 rekrutow od dzis; stryszek nad stajnia i stary sklad pustoszeja. ZASADA 8: zolnierze w miescie = wolniejsze stawiennictwo na alarm - DZIESIATKA DYZURNA zawsze w twierdzy (rotacja), reszta na rog/dzwon. ### 07-09 (Winterfell, stos Fosa): Projekt i kosztorys na stole (Warryn+Hendry+Harlon, E): koszary z kamienia na suchym przy wschodnim murze twierdzy - dwa skrzydla, izby po 10, zbrojownia, kuchnia, umywalnia; ~180-300 smokow (E), dwa sezony; ZASADA 8: kamien i wapno konkuruja z MF-1 i skladem glownym. Do slowa pana: start teraz czy po MF-1.",
    "kto": "WARRYN + HENDRY + HARLON",
    "kanal": "na miejscu",
-   "wraca": "300-07-05",
+   "wraca": "300-07-15",
    "zamyka": "projekt, miejsce i kosztorys koszar na stole pana",
    "status": "otwarte"
   },
   {
    "data": "300-06-21",
-   "co": "GARNIZON GORACEGO PORTU - MIESZKA NA MIEJSCU (rozkaz pana 06-21): setka Hendry'ego, gdy wejdzie za mur od morza (rozkaz 05-16 'najpierw mur'), mieszka w Goracym Porcie NA STALE albo jest tam skoszarowana - nie dojezdza z Fosy. Kwatery w obrebie muru (Wieza Morska / Polnocna + izby przy murze) - do rysunku GP-1 (Garrick/rysownik). ZASADA 8: rodziny w porcie dopiero za murem; port na krawedzi zelaznych. Wlasni - bez rzutu.",
+   "co": "GARNIZON GORACEGO PORTU - MIESZKA NA MIEJSCU (rozkaz pana 06-21): setka Hendry'ego, gdy wejdzie za mur od morza (rozkaz 05-16 'najpierw mur'), mieszka w Goracym Porcie NA STALE albo jest tam skoszarowana - nie dojezdza z Fosy. Kwatery w obrebie muru (Wieza Morska / Polnocna + izby przy murze) - do rysunku GP-1 (Garrick/rysownik). ZASADA 8: rodziny w porcie dopiero za murem; port na krawedzi zelaznych. Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): kwatery setki w obrebie muru - do rysunku GP-1, ktory czeka na rysownika (~07-20).",
    "kto": "HENDRY + HARLON + GARRICK (GP-1)",
    "kanal": "na miejscu",
-   "wraca": "300-07-05",
+   "wraca": "300-07-20",
    "zamyka": "kwatery garnizonu GP na rysunku GP-1",
    "status": "otwarte"
   },
@@ -8130,7 +8130,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "kwoty dodatkow + regula mieszkan sluzbowych",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Warryn+Hendry (E): dodatek rodzinny ~10 jeleni/mies., graniczny ~15, konny ~20 (pasza i podkowy osobno); mieszkanie sluzbowe na czas sluzby, po sluzbie - pierwszenstwo najmu. Wchodzi od VIII."
   },
   {
    "data": "300-06-21",
@@ -8391,7 +8391,7 @@
    "kanal": "na miejscu; kruk do Hala",
    "wraca": "300-07-05",
    "zamyka": "miejsca i kosztorysy (1) i (4) na stole pana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Bran+Alys+Warryn: (1) DOM PIERWSZEJ NOCY - stara szopa przewoznikow przy grobli do przebudowy, ~12-20 smokow (E, lenno); (4) DOM SIEROT - dom po bednarzu przy szkole, ~15-25 smokow (E, Kasa 1). Miejsca wskazane."
   },
   {
    "data": "300-06-23",
@@ -8400,7 +8400,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "opiekunka swiecka wskazana imiennie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Alys+Mella: opiekunka swiecka - GYTHA (pomocnica Niny, wdowa, troje odchowanych dzieci) - zgadza sie od VIII."
   },
   {
    "data": "300-06-23",
@@ -8499,7 +8499,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-05",
    "zamyka": "obie izby gotowe",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Nina+Vessaro: izba goraczki osobno od ran w lecznicy; izba odosobnienia przy przystani na grobli (szopa wybielona, prycze, wrzatek) gotowe."
   },
   {
    "data": "300-06-26",
@@ -8643,7 +8643,7 @@
    "kanal": "na miejscu / poczta BP",
    "wraca": "300-07-05",
    "zamyka": "zasady i liczba myta w ksiedze",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - zasady na pismie (Hal/Gawen/Rorik): wlasciciel Korona, Dom - dar, tylko pas traktu; ruch dzis ~40 wozow tygodniowo latem (Rorik, E) jako liczba wyjsciowa dla Krola (UT-0K w agendzie)."
   },
   {
    "data": "300-06-28",
@@ -8733,7 +8733,7 @@
    "kanal": "na miejscu",
    "wraca": "300-09-25",
    "zamyka": "slupy stale wbite, wpis w obu ksiegach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Roderyk+Herwin: slupy tymczasowe wbite 07-05; spis szop - 31 po stronie miasta, 12 po stronie lenna; jedna klotnia o szope rybaka (Roderyk rozstrzygnal: strona miasta)."
   },
   {
    "data": "300-06-30",
@@ -8742,7 +8742,7 @@
    "kanal": "na miejscu; meldunek w zbiorczym Garricka",
    "wraca": "300-07-05",
    "zamyka": "slupy tymczasowe wbite; spis szop po obu stronach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - Roderyk+Herwin: slupy tymczasowe wbite 07-05; spis szop - 31 po stronie miasta, 12 po stronie lenna; jedna klotnia o szope rybaka (Roderyk rozstrzygnal: strona miasta)."
   },
   {
    "data": "300-06-30",
@@ -8841,7 +8841,7 @@
    "kanal": "kruk Fosa-Winterfell (raport co tydzien)",
    "wraca": "300-07-09",
    "zamyka": "pierwszy raport Mabel z liczba dzieci",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - raport Mabel (rzut 9 - jedna konsekwencja): drugi dzien ~40, pod koniec tygodnia ~30 - dzieci ze wsi zabrane do sianokosu; przedmiescie zostaje (obiad). Mabel: 'Po sianokosie wroca - jesli soltys przypomni.'"
   },
   {
    "data": "300-07-01",
@@ -9064,7 +9064,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-06-28",
+   "ostatnio_odebrane": "300-07-05",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -9200,7 +9200,7 @@
     "start": "300-07-05"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-06-21",
+   "ostatnio_odebrane": "300-07-05",
    "zrodlo": "rozkaz pana 300-06-19"
   },
   {

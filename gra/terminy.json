@@ -5643,7 +5643,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-20) + morze Bialy Port-Braavos i z powrotem (~48 dni)",
    "wraca": "300-07-07",
    "zamyka": "meldunek Nesty",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - meldunek Nesty (rzut 23 - jedna konsekwencja; tresc w dzienniku 07-09)."
   },
   {
    "data": "300-05-19",
@@ -7245,7 +7245,7 @@
    "kanal": "list z Fosy (~06-17) do Hala + odpis z Fosy do Barrowton",
    "wraca": "300-07-05",
    "zamyka": "wagowy i pisarz w Barrowton + ksiega skladu zalozona",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 (Hal): wagowy i pisarz skladu Domu w Barrowton od ~07-01; ksiega skladu zalozona wg wzoru Fosy (odpis Garricka doszedl wozem)."
   },
   {
    "data": "300-06-12",
@@ -7425,7 +7425,7 @@
    "kanal": "list pana z poczta Fosa-Bialy Port (dzis); placowki - kanaly Domu",
    "wraca": "300-07-05",
    "zamyka": "pierwszy meldunek Hala: co kupiono, po ile, gdzie (rzut) + jego pytania",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-09 - pierwszy meldunek Hala (rzut 54; tresc w dzienniku 07-09). Skup trwa - kolejne meldunki w bilansie miesiecznym."
   },
   {
    "data": "300-06-19",
@@ -7492,10 +7492,10 @@
   },
   {
    "data": "300-06-19",
-   "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%.",
+   "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%. ### 07-09 (Winterfell, stos Poludnie i morze): RZUT 9 - JEDNA KONSEKWENCJA: LAWA CAILIN ODRZUCA POZYCZKE W TEJ FORMIE - nie zgodzi sie na splate z czynszow ('Dom bedzie zbieral nasze czynsze - to juz pan kamienic'); proponuje w zamian POZYCZKE W MATERIALE (kamien, wapno, belki z magazynu Domu) splacana moneta z kasy miejskiej. Do slowa pana.",
    "kto": "HAL + HERWIN SZALA + lawa",
    "kanal": "list pana do Hala (poczta BP) + na miejscu",
-   "wraca": "300-07-05",
+   "wraca": "300-07-20",
    "zamyka": "umowa pozyczki podpisana, kwota i termin na slupie",
    "status": "otwarte"
   },
@@ -7816,10 +7816,10 @@
   },
   {
    "data": "300-06-20",
-   "co": "CZCIONKA - RYTOWNIK OD MARRA (warsztat jubilerski Domu, Bialy Port) na Fose do ciecia stempli liter: list Ilaria + pieczec pana do Hala z poczta BP dzis; Hal decyduje, kogo moze puscic (bursztyn ma zamowienia). Wlasni - bez rzutu.",
+   "co": "CZCIONKA - RYTOWNIK OD MARRA (warsztat jubilerski Domu, Bialy Port) na Fose do ciecia stempli liter: list Ilaria + pieczec pana do Hala z poczta BP dzis; Hal decyduje, kogo moze puscic (bursztyn ma zamowienia). Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Poludnie i morze): Hal: Marr nie puszcza nikogo przed koncem zamowien bursztynu; STEMPLE CIETE W BIALYM PORCIE wg wzornika Ilaria przez czeladnika Marra - pierwszy komplet liter ~08-15, wozem na Fose.",
    "kto": "HAL + MARR",
    "kanal": "poczta Fosa-Bialy Port",
-   "wraca": "300-07-05",
+   "wraca": "300-08-15",
    "zamyka": "rytownik w drodze albo stemple ciete w BP wg wzornika Ilaria",
    "status": "otwarte"
   },
@@ -9154,7 +9154,7 @@
     "dzien_miesiaca": 5
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-05",
+   "ostatnio_odebrane": "300-07-05",
    "zrodlo": "terminy (HAL - PELNE ROZLICZENIE)"
   },
   {
@@ -9166,7 +9166,7 @@
     "dzien_miesiaca": 5
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-05",
+   "ostatnio_odebrane": "300-07-05",
    "zrodlo": "rozkaz pana 300-05-19 (rada Sansy)"
   },
   {
@@ -9178,7 +9178,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-06-06",
+   "ostatnio_odebrane": "300-07-06",
    "zrodlo": "rozkaz pana 300-06-05"
   },
   {

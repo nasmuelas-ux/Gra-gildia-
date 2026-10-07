@@ -36,3 +36,16 @@ _Słowo Namiestnika, potwierdzone przez Króla 300-07-12._
 - Rada służy także **poprawie funkcjonowania królestwa**. Pomysły i inicjatywy każdego radnego są mile widziane.
 - **Inaczej niż na Wielkiej Radzie mówimy sobie „nie” i nie boimy się siebie nawzajem.** Szukamy najlepszego rozwiązania, a krytyka jest obowiązkiem, nie obrazą.
 - Protokół zapisuje sprzeciw razem z nazwiskiem i powodem, żeby nikt nie musiał go powtarzać za plecami (dopisek Luwina).
+
+## VII. Kolejność wydatków jednej księgi Korony
+_Podpisana przez Króla 300-07-12 (rzut 100), na wniosek Skarbnika Gawena, za zgodą Namiestnika._
+Gdy przychodzi gorszy miesiąc, płaci się w tej kolejności:
+1. **Chleb:** zboże i Mur.
+2. **Obrona, która już stoi:** garnizony, Kamienny Brzeg, żołd, Zimowa Straż.
+3. **Skagos.**
+4. **Rezerwa, setnicy, Akademia.**
+5. **Budowy:** trakty, UT-0K.
+
+> Dopisek ręką Króla: *„W gorszy miesiąc pierwsze czeka to, co jest moje — stół, uczty, konie Winterfell — zanim zaczeka cokolwiek z tej listy.”*
+
+_Dług Korony wobec Domu Tally (695) jest w praktyce spłacony towarem (~650 do 300-03-18). Ewentualną resztę (~45, E) potwierdza Hal._

@@ -9832,6 +9832,42 @@
    "wraca": "300-07-25",
    "zamyka": "pisarz w akademii + bron wydana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "FAKTOR KROLEWSKI - BIALY PORT: WEZWANIE TRZECH (MERTYN 'OKRETNIK', TORSEN, WHARTON) - pismo kancelarii Namiestnika (Beron): Korona szuka Faktora Krolewskiego na rok, na prowizji, nie lorda; pytania: czy dzis handluje i czym, jaka zdolnosc kupna/sprzedazy hurtem, z kim pracuje; zaproszenie do Winterfell na rozmowe z Namiestnikiem (albo odpowiedz pismem). Wola obca - RZUT przy kazdej odpowiedzi (Wharton - wrogi panu od 298).",
+   "kto": "SYMON (kancelaria) -> MERTYN, TORSEN, WHARTON",
+   "kanal": "kruk Winterfell-Bialy Port (kancelaria), pismo doreczone przez komore BP",
+   "wraca": "300-07-23",
+   "zamyka": "trzy odpowiedzi (rzut kazda) albo cisza; przyjazd ~07-30 (E)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "FAKTOR KROLEWSKI - ZIMOWE MIASTO: REKONESANS REKAMI DOMU (slowo pana 07-17): kto w Zimowym Miescie handluje hurtem, ma kapital i imie, a NIE jest zwiazany z Domem ani z urzedem Korony; Oswyn Miarka (czy jego rozmowy z Halem z 04-26 doszly do czegos; ile handluje na wlasny rachunek) i Sarra z zajazdu (czym obraca, z kim). Wlasni ludzie (Dom) - bez rzutu na zlecenie; jakosc wiesci - rzut przy meldunku.",
+   "kto": "SYMON -> WILLA (siec Domu)",
+   "kanal": "list pana pod pieczecia Domu, kruk do Bialego Portu",
+   "wraca": "300-07-28",
+   "zamyka": "meldunek Willi o kupcach Zimowego Miasta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "FAKTOR KROLEWSKI - BARROWTON: PYTANIE DO LADY DUSTIN (pismo Namiestnika): Korona chce raz na kwartal sprzedawac towar hurtem w miastach z prawem skladu, tez w Barrowton (przy lawie i wadze miejskiej); prosi Barbrey o wskazanie mieszczanina albo kupca - nie lorda - zdolnego byc Faktorem Krolewskim na rok, na prowizji. Wola obca - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> BARBREY DUSTIN",
+   "kanal": "kruk Winterfell-Barrowton",
+   "wraca": "300-07-22",
+   "zamyka": "odpowiedz Barbrey (rzut) albo cisza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "FAKTOR KROLEWSKI - CAILIN: ZNALEZC KOGOS NIEZWIAZANEGO (slowo pana 07-17): prosba do HERWINA SZALY (burmistrz) i lawy - wskazac kupca/mieszczanina NIEZWIAZANEGO ani z lennem, ani z Domem Tally, zdolnego sprzedawac hurtem towar Korony w Cailin (prawo skladu 04-29). Herwin odpowiada przed lawa - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> HERWIN SZALA + lawa Cailin",
+   "kanal": "kruk Winterfell-Fosa (do burmistrza, nie przez Garricka)",
+   "wraca": "300-07-22",
+   "zamyka": "wskazanie (rzut) albo 'nie ma takiego'",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

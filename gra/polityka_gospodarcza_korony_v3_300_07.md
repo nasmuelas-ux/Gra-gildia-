@@ -123,7 +123,7 @@
 - Kupiec z Białego Portu nie wiezie ze sobą 500 smoków. Płaci wekslem, a **Królestwo potwierdza, że to się wykona.**
 
 **Pytanie szkicu (jedyne, ale kluczowe): pokrycie.**
-- Weksel, który Korona poświadcza, **musi mieć pokrycie, zanim go poświadczy**.
+- **POSTANOWIENIE PANA (07-16): ktoś musi dać Koronie te kwoty w zastaw.** Weksel, który Korona poświadcza, **ma pokrycie, zanim zostanie poświadczony**.
 - Kupiec **wpłaca 500 smoków** przy komorze albo w kancelarii misji w Białym Porcie, a dostaje weksel poświadczony.
 - Druga strona przedstawia weksel **i wypłaca się z tej wpłaty**, w misji albo przy komorze.
 - **Bez wpłaty poświadczenie staje się gwarancją Korony**, czyli dokładnie tym kredytem i dźwignią, których pan nie chce.
@@ -132,15 +132,17 @@
 ### N3. Wymiana monety przy komorach
 - **Wymienia celnik**, zapisuje pisarz komory. *Fach i księgi nigdy w jednej ręce.*
 - Słowo „kantor” to tylko nazwa miejsca. **I tak wymieniała wyłącznie Korona**, więc kursu nie ustala nikt inny.
-- **W obrocie na Północy tylko wilk i smok.** Moneta z Essos nie jest przyjmowana bezpośrednio, tylko wymieniana przy komorze. Ręka **Mennicy**.
+- **Doprecyzowanie pana (07-16):** chodzi tylko o to, żeby **na Północy nie płacono monetą z Essos**. **Smok jest akceptowany** obok wilka. **Kupiec z zewnątrz wymienia równowartość** przy komorze. Ręka **Mennicy**.
 - *Zmiana wobec zapisu z 04-24:* na słupie przy wadze była obca moneta „po kursie”. Teraz obcą monetę **tylko się wymienia**.
 
 **Jakie weksle (doprecyzowanie, o które prosił pan):**
 - **(a) WEKSLE KORONY (N2):** poświadczone przez Koronę, z pokryciem.
   - **Wypłaca się je przy komorze w wilkach albo smokach.** Tylko te.
-- **(b) WEKSLE OBCE:** Żelaznego Banku, Lannisportu, domów z Braavos albo Pentos.
-  - **Korona ich NIE skupuje i NIE wypłaca.** Skup obcego weksla to pożyczanie pod cudzą obietnicę, czyli dźwignia.
-  - Takie weksle kupiec realizuje u bankiera, Korona się w to nie miesza.
+- **(b) WEKSLE OBCE:** weksle trasowane Żelaznego Banku albo innego banku. **USTALENIE PANA (07-16): zgoda, ale tylko wtedy, gdy bank potwierdzi BEZPOŚREDNIO Królestwu Północy, że je pokryje.**
+  - Bez takiego potwierdzenia Korona ich nie przyjmuje, bo byłoby to pożyczanie pod cudzą obietnicę.
+  - *Pytanie szkicu:* czy potwierdzenie ma iść **przy każdym wekslu**, czy jako **stała umowa korespondencyjna** z bankiem (które weksle, do jakiej kwoty)?
+  - Kanałem może być **misja Korony w Braavos** (N2), **nie Dom Tally** (mur trzech kas).
+  - *Ryzyko:* bank zechce wzajemności, czyli żeby jego miasto honorowało weksle Korony. Umowa z bankiem to akt Króla.
 
 ### N4. Łączność Korony
 **Cel:** sieć **bardziej niezależna**. Dom Handlowy ma już własne kruki, a Korona swoich ma za mało.
@@ -149,8 +151,10 @@
 
 **Posterunki:** gospody i stacje dla koni, **każda dotowana**.
 
+**USTALENIE PANA (07-16):** **kruki Domu Tally NIE są zalążkiem sieci Korony.** **Królestwo zaczyna budować ją samo.**
+
 **Z zapisu, do połączenia:**
-- **Głębokorzeń prowadzi KRUKARNIĘ** (karta §IX: Theomore, „program, ludzi, badania, bibliotekę, krukarnię…”). To jest gotowe źródło **kruków Korony niezależnych od Cytadeli**.
+- **Głębokorzeń nie jest Domem Tally.** To dom uczonych zaprzysiężony Koronie (Theomore; kolebka w Nowym Zamku z daru Wymana). Prowadzi **własną KRUKARNIĘ** (karta §IX), więc to jest **krukarnia Korony**. Czy ma być zalążkiem, to do słowa pana i Króla.
 - Karta Głębokorzenia mówi też, że maester Południa *„nie może trzymać kruków, pieczęci i ksiąg cudzego domu”*, kiedy prawo wejdzie w życie.
 
 **Obsada:** przełożony łączności, **WAKAT**. To nowe miejsce w Małej Radzie.
@@ -177,7 +181,7 @@
 |---|---|---|---|
 | Polityka gospodarcza, cele §1 | **Król + Namiestnik** | **Zarządca Domeny** | Skarbnik |
 | Inwestycje i dotacje jednostkowe (Z1, Z3) | Król + Namiestnik: kiedy i w co | Zarządca | Skarbnik: kwit i rozliczenie |
-| Warsztaty strategiczne (Z3) | Król | Zarządca | Skarbnik |
+| Warsztaty strategiczne (Z3) | **Król + Namiestnik** (pan 07-16) | Zarządca | Skarbnik |
 | Polityka żywnościowa (Z4) | Król + Namiestnik | **Spichlerz (Orland)** + Zarządca | Skarbnik |
 | Spieniężanie, Faktor, Wielki Targ (N1) | Namiestnik: ogłoszenie i zaproszenia | Faktor Królewski; przewóz: Zarządca | **Skarbnik: pisarz przy wadze przyjmuje zapłatę** |
 | Misje i weksle (N2) | Król: konsul; Namiestnik: wieści | Konsul i kancelaria misji | Skarbnik: pokrycie weksli |
@@ -193,7 +197,7 @@
 3. **Faktor Królewski:** urząd, roczna nominacja, prowizja, zasada „pieniądz nie przez faktora”.
 4. **Prawo składu dla Zimowego Miasta**, jeśli go nie ma.
 5. **Misje i konsulaty** oraz **weksel poświadczany z pokryciem**.
-6. **Tylko wilk i smok w obrocie**, wymiana przy komorach.
+6. **Na Północy nie płaci się monetą z Essos**: wilk i smok tak, obcy kupiec wymienia przy komorze. Do tego **umowa z bankami** o potwierdzaniu ich weksli Królestwu.
 7. **Głębokorzeń:** celibat tak albo nie.
 8. **Przepisanie karty Głębokorzenia, §II:** Korona daje model i dotuje, nie koordynuje szkół.
 9. Zarządca Domeny: nominacja (po 07-19).

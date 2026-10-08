@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 7,
-  "dzien": 15,
+  "dzien": 16,
   "era": "AC"
  },
  "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 33 (300-07-15) - pochmurno, chlodny wiatr z polnocy, bez deszczu; drogi obsychaja.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 23 (300-07-16) - JEDNA KONSEKWENCJA: gesta mgla od rzeki do poludnia; kruki czekaja, poranna poczta dochodzi po poludniu. Potem chlodne slonce.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -270,4 +270,24 @@
 *Dopisek spisującego:* Niania odłożyła przęślicę i powiedziała do mnie: *„Panna Dacey jest z tej krwi. Jak wróci zza Muru, to wróci na własnych nogach albo wcale. Nie wysyłajcie po nią nikogo, kto będzie ją niósł.”* Potem, już innym głosem: *„A kurhany? Obiecaliście mi kurhany, jak wrócicie. Wróciliście tydzień temu, panie.”*
 
 
+---
+
+## 15. O THEONIE STARKU, KTÓREGO ZWALI GŁODNYM WILKIEM
+*Spisane 300-07-15 wieczorem, zza uchylonych drzwi izby Niani. Opowiadała Rickonowi i małemu Walderowi. Kudłaty Pies leżał w progu i przez cały czas mnie widział.*
+
+> Dawno temu, kiedy Andalowie przypłynęli zza morza z gwiazdami wyciętymi na piersiach, przypłynęli i do nas, do ujścia Płaczącej Wody. Mieli żelazo, a myśmy mieli brąz. Mieli łodzie, a myśmy mieli brzeg.
+>
+> W Winterfell był wtedy król Theon. Nazywali go Głodnym Wilkiem, bo nigdy nie miał dosyć: ani wojny, ani zimy, ani wrogów. Nie czekał, aż Andalowie przyjdą pod mury. Zszedł do nich na brzeg i zepchnął ich do wody, zanim zdążyli rozpalić pierwsze ognisko.
+>
+> A potem zrobił rzecz, której nikt się nie spodziewał. Wsiadł na ich łodzie i popłynął tam, skąd przyszli. Spalił ich przystanie, żeby więcej nie mieli z czego wypływać.
+>
+> I Andalowie przez sto lat nie postawili nogi na Północy, dziecko. Wszędzie indziej postawili. U nas nie.
+>
+> *(Tu Rickon zapytał, czy Głodny Wilk był dobry. Niania długo milczała.)*
+>
+> Był potrzebny. To nie jest to samo. Dobry król pilnuje domu. Głodny pilnuje, żeby nikt do domu nie przyszedł. Czasem trzeba jednego, czasem drugiego. Najgorzej, kiedy Głodny Wilk zostaje królem w czasie pokoju, bo wtedy szuka wrogów w swoim własnym domu.
+
+*Dopisek spisującego:* Kiedy chłopcy wyszli, Niania powiedziała, nie odwracając się od ognia: *„Wiem, że staliście za drzwiami, panie. Pies mi powiedział. Spiszcie ją. I pamiętajcie, że król, który płynie na Skagos, ma w sobie trochę Głodnego Wilka. Niech wróci, zanim zgłodnieje.”*
+
+
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.

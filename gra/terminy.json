@@ -9814,6 +9814,15 @@
    "wraca": "300-07-21",
    "zamyka": "odpowiedz Wymana (rzut) albo cisza",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "PRZYSTAN WILKA - WAPNO NA GORNE PIETRO BASZTY (AKADEMIA) - KUPIC TERAZ (slowo Namiestnika 07-17 przy Krolu): Bors kupuje od Cerwynow (drozej) albo z barek BP - co szybciej; koszt z ksiegi trzech wspolwlascicieli (Korona 1/2, Cerwyn 1/4, Manderly 1/4), jak drewno na dach. KAMIEN - na Radzie Trzech (~07-25). Wlasny czlowiek (Bors, nadanie Namiestnika) - bez rzutu; kwota - z karty Borsa (zasada 43).",
+   "kto": "SYMON -> BORS",
+   "kanal": "jezdziec/kruk Winterfell-Przystan Wilka (z Bryndenem przy powrocie albo goniec)",
+   "wraca": "300-07-25",
+   "zamyka": "wapno na placu budowy + kwota w karcie Borsa",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

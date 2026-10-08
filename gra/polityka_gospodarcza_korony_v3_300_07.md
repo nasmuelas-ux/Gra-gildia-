@@ -99,7 +99,7 @@
 **Czym jest misja:**
 - przyjmuje i wykonuje płatności;
 - poświadcza weksle;
-- **reprezentuje Królestwo i wszystkich lordów**;
+- **reprezentuje KORONĘ (Królestwo)**. Poprawka pana 07-17: konsulat działa w imieniu Korony, **nie lordów**. Kupcy i lordowie Północy mogą korzystać z jego usług;
 - nawiązuje kontakty handlowe i chroni interesy gospodarcze;
 - czyta kraj, w którym stoi.
 
@@ -201,7 +201,7 @@
 3. **Faktor Królewski:** urząd, roczna nominacja, prowizja, zasada „pieniądz nie przez faktora”.
 4. **Prawo składu dla Zimowego Miasta**, jeśli go nie ma.
 5. **Misje i konsulaty: najpierw Braavos i Riverrun** oraz **weksel poświadczany z zastawem** i **stała umowa z bankiem**.
-6. **Na Północy nie płaci się monetą z Essos**: wilk i smok tak, obcy kupiec wymienia przy komorze. Do tego **umowa z bankami** o potwierdzaniu ich weksli Królestwu.
+6. **Na Północy nie płaci się monetą z Essos**: wilk i smok tak, obcy kupiec wymienia przy komorze. *Pan 07-17: to **ochrona waluty Korony**, czyli regale mennicy, a nie sprawa lordów.* Do tego **umowa z bankami** o potwierdzaniu ich weksli Królestwu.
 7. **Głębokorzeń:** celibat tak albo nie.
 8. **Przepisanie karty Głębokorzenia, §II:** Korona daje model i dotuje, nie koordynuje szkół.
 9. Zarządca Domeny: nominacja (po 07-19).
@@ -264,3 +264,19 @@
       - *Do ustalenia:* ile drewna Korona ma albo może dać i skąd: lasy domeny, Wilczy Las. Ilość wyjdzie ze spisu A/B/C, ale wyrąb idzie na zamówienie, więc drewno nie musi już leżeć.
       - Linia drewna **Domu Tally** do Pentos (Hal, Obaro) jest **osobna**. Obie mogą sprzedawać, bo nikt nie ma wyłączności na stałe.
     - *Uwaga:* **Obaro** (placówka Domu Tally w Pentos) może kupować jak każdy, ale **nie jest kanałem Korony** (mur trzech kas). Kanałem jest list Króla i ogłoszenie.
+
+
+---
+## 8. STAN PO KRÓLU (07-17)
+- **Całość (rzut 5):** nic dziś nie jest rozstrzygnięte. Mała Rada 07-26 rozpatrzy wszystko punkt po punkcie, każdy punkt z kosztem od Gawena.
+- **Korekta pana przyjęta przez Króla:**
+  - konsulat działa w imieniu Korony, więc to prerogatywa Króla i sprawa na Małą Radę;
+  - zakaz monety z Essos chroni walutę, jest regale mennicy i też idzie na Małą Radę, nie na Wielką.
+- **SPIENIĘŻENIE I TARGI, osobno (rzut 86): TAK, ZACZYNAMY.**
+  - **Gawen:** lista towaru **pewnie wolnego**, do sprzedania od razu, **do 07-21**. Pełny spis A/B/C do 07-26.
+  - **Namiestnik pisze do Wymana:** Wielki Targ w Białym Porcie **po żniwach**.
+  - **Próbne sprzedaże** w Fosie Cailin i w Zimowym Mieście, gdy lista będzie gotowa.
+  - **Listy królewskie** do Braavos i Pentos (domy handlowe), Dorzecza i Reach, gdy lista będzie gotowa.
+  - **Drewno: od razu** przez faktora Illyria w Białym Porcie, przez Mistrza Handlu (Wyman).
+  - **Faktor Królewski:** Namiestnik przynosi **trzech kandydatów**, nie lordów, a Król wybiera.
+  - Pieniądz nie przechodzi przez faktora: płaci się pisarzowi Skarbu przy wadze.

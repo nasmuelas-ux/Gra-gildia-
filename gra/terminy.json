@@ -9769,6 +9769,42 @@
    "wraca": "300-07-26",
    "zamyka": "punkty rozpatrzone na Radzie, kazdy ze slowem Krola",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "SPIENIEZENIE KORONY - LISTA TOWARU PEWNIE WOLNEGO (Krol 07-17, rzut 86): Gawen - co Korona moze sprzedac OD RAZU (kolumna C pewna, bez czekania na caly spis): rodzaj, ilosc, gdzie lezy, wycena po cenie ogloszonej. Pelny spis A/B/C - 07-26. Urzednik - bez rzutu.",
+   "kto": "GAWEN (+ kasztelan, Hal - kwity)",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-21",
+   "zamyka": "lista na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "LIST NAMIESTNIKA DO WYMANA - WIELKI TARG W BIALYM PORCIE PO ZNIWACH (Krol 07-17, rzut 86): prosba Korony o wydarzenie (BP zarabia na oplatach miejskich, nalot kupcow); drewno Korony przez faktora Illyria - przez Mistrza Handlu, od razu (cala partia moze isc do jednego kupca, bez stalej wylacznosci). Do napisania przez pana; odpowiedz Wymana - RZUT.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-07-18",
+   "zamyka": "list wyslany (pan pisze)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "FAKTOR KROLEWSKI - TRZECH KANDYDATOW (Krol 07-17, rzut 86): kupiec / obywatel, wplywowy, zdolny kupowac; NIE lord; nie zwiazany z Domem Tally; kadencja rok, prowizja; pieniadz nie przez faktora. Pan przynosi trzech, Krol wybiera. Pula z zapisu - do przeszukania (oba spisy - zasada 37).",
+   "kto": "SYMON -> KROL",
+   "kanal": "osobiscie",
+   "wraca": "300-07-26",
+   "zamyka": "trzech kandydatow przedlozonych",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "PROBNE SPRZEDAZE KORONY - FOSA CAILIN I ZIMOWE MIASTO + LISTY KROLEWSKIE (Braavos, Pentos - domy handlowe, Dorzecze, Reach) (Krol 07-17, rzut 86): po liscie Gawena (07-21). Kupcy - wola obca: RZUT przy odzewie.",
+   "kto": "SYMON + GAWEN -> KROL (listy)",
+   "kanal": "targi na miejscu; kruki/statki",
+   "wraca": "300-07-28",
+   "zamyka": "pierwsza proba odbyta albo wiadomo, czemu nie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

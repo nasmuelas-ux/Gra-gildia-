@@ -1,5 +1,6 @@
 # Instytucje gospodarcze Korony: symulacja
 ### Szkic Namiestnika, Winterfell, 300-07-16, noc. **NIC NIE JEST WDROŻONE ANI POSTANOWIONE.**
+### ⚠ ZASTAPIONY 300-07-16 (noc) przez `polityka_gospodarcza_korony_v2_300_07.md` - zostaje jako historia mysli (pan przeformulowal intencje).
 *Ludzie wyłącznie z obsady i zapisu. Puste krzesła zostają jako **WAKAT**. Kwot brak, bo nikt ich jeszcze nie policzył (zasada 43).*
 
 ---

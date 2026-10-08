@@ -252,5 +252,15 @@
      - tak samo do **Dorzecza**;
      - informacja do **Reach**.
 10. **PENTOS I DREWNO.** Drewno dla Pentos idzie przez **Faktora Królewskiego w Białym Porcie**, a do tego Korona podchodzi do kupców z Pentos **bezpośrednio**.
-    - *Z zapisu:* kupiec z Pentos daje na piśmie 110–120 jeleni za sztukę suchego drewna spod pokładu.
+    - *Z zapisu (poprawione):* 110–120 jeleni za sztukę suchego drewna spod pokładu to cena **kupca z Braavos** na piśmie, a nie z Pentos. To *„cena jednego kupca, nie kontrakt”* (termin 03-12).
+    - **SZYBKA DROGA (pan, 07-16): FAKTOR ILLYRIA W BIAŁYM PORCIE.**
+      - Siedzi tam od 300-01 jawnie, pod nazwiskiem, w rejestrze i pod cłem Wymana (zgoda Wymana 01-26).
+      - **Illyrio czeka na pierwszą wiadomość o drewnie** (02-16, 03-12). Już w Pentos powiedział: *„pierwszym kupcem na tej liście jestem ja”* (299-12-30).
+      - Korona może do niego wrócić **od razu**, bez czekania na Faktora Królewskiego i na Wielki Targ.
+      - **Zasady z zapisu:**
+        - **zakaz wyłączności** (02-07): żaden obcy faktor nie dostaje wyłączności;
+        - **drewno ładuje się przy wodzie** (Biały Port, Przystań Wilka, Biały Nóż), bo wzięte w głębi lądu to *„darowizna, którą sami sobie robimy”*;
+        - drewno Korony sprzedaje się zorganizowane przez Mistrza Handlu (Wyman), po cenie ogłoszonej.
+      - *Do ustalenia:* ile drewna Korona ma albo może dać i skąd: lasy domeny, Wilczy Las. Ilość wyjdzie ze spisu A/B/C, ale wyrąb idzie na zamówienie, więc drewno nie musi już leżeć.
+      - Linia drewna **Domu Tally** do Pentos (Hal, Obaro) jest **osobna**. Obie mogą sprzedawać, bo wyłączności nie ma nikt.
     - *Uwaga:* **Obaro** (placówka Domu Tally w Pentos) może kupować jak każdy, ale **nie jest kanałem Korony** (mur trzech kas). Kanałem jest list Króla i ogłoszenie.

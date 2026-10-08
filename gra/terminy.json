@@ -9466,7 +9466,7 @@
   },
   {
    "data": "300-07-12",
-   "co": "DOM STARKOW - RACHUNEK RODWELLA PRZED SKARBNIKIEM (Gawen, wlasny urzad; zasada 42): na pismie - co stoi i czemu (dzialy bez operacji w 300; filia Bialy Port bez faktora; dwoch p.o. bez kartki i zatwierdzenia Krola; brak kapitalu w ksiedze), czego brak, co zrobi do konca 300. Gawen ocenia: czlowiek czy urzad; jesli czlowiek - do Krola (nominacja). Namiestnik NIE steruje (slowo pana 07-12). Urzednicy - bez rzutu na wezwanie; ocena Rodwella i jego odpowiedz - RZUT przy rachunku. ### 07-12 KROL (rzut 51): urzad ZARZADCY w Malej Radzie - TAK; Rodwell siada PO tym rachunku, jesli Gawen oceni dobrze; jesli nie - urzad zostaje, czlowieka sie szuka. ### 07-16 (slowo pana do Gawena): 'Namiestnik nie steruje' dotyczylo DOMU STARKOW jako odrebnego, autonomicznego bytu (07-12). Od decyzji Krola 'domena = Korona' (07-12, rzut 59) i urzedu ZARZADCY DOMENY w Malej Radzie - NAMIESTNIK WCHODZI W ZARZADZANIE DOMENA KORONNA (koordynacja jak przy innych urzedach Rady). GAWEN przyjmuje: rachunek Rodwella 07-19 - Namiestnik moze siedziec i pytac; OCENA zostaje Skarbnika (jego wezwanie, zasada 42), NOMINACJA - Krola.",
+   "co": "DOM STARKOW - RACHUNEK RODWELLA PRZED SKARBNIKIEM (Gawen, wlasny urzad; zasada 42): na pismie - co stoi i czemu (dzialy bez operacji w 300; filia Bialy Port bez faktora; dwoch p.o. bez kartki i zatwierdzenia Krola; brak kapitalu w ksiedze), czego brak, co zrobi do konca 300. Gawen ocenia: czlowiek czy urzad; jesli czlowiek - do Krola (nominacja). Namiestnik NIE steruje (slowo pana 07-12). Urzednicy - bez rzutu na wezwanie; ocena Rodwella i jego odpowiedz - RZUT przy rachunku. ### 07-12 KROL (rzut 51): urzad ZARZADCY w Malej Radzie - TAK; Rodwell siada PO tym rachunku, jesli Gawen oceni dobrze; jesli nie - urzad zostaje, czlowieka sie szuka. ### 07-16 (slowo pana do Gawena): 'Namiestnik nie steruje' dotyczylo DOMU STARKOW jako odrebnego, autonomicznego bytu (07-12). Od decyzji Krola 'domena = Korona' (07-12, rzut 59) i urzedu ZARZADCY DOMENY w Malej Radzie - NAMIESTNIK WCHODZI W ZARZADZANIE DOMENA KORONNA (koordynacja jak przy innych urzedach Rady). GAWEN przyjmuje: rachunek Rodwella 07-19 - Namiestnik moze siedziec i pytac; OCENA zostaje Skarbnika (jego wezwanie, zasada 42), NOMINACJA - Krola. ### 07-16 (pan przez Gawena): rachunek Rodwella MA ZAWIERAC STAN TOWARU DOMU STARKOW - co, gdzie, ile, po jakiej wycenie, od kiedy lezy (w ksiedze Skarbu nie ma ani jednej linii kapitalu ani towaru Domu Starkow).",
    "kto": "GAWEN -> RODWELL; potem GAWEN -> KROL",
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-19",
@@ -9696,6 +9696,15 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-17",
    "zamyka": "program i kurs ustalone albo wiadomo, czemu nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-16",
+   "co": "TOWAR NIESPIENIEZONY KORONY - ROZBICIE 1205 (polecenie pana 07-16): Gawen (wlasny urzad) prosi HALA o liste KWITOW SKLADOWYCH KORONY w skladzie Domu: towar, ilosc, wycena po cenie ogloszonej, data przyjecia, ile zaliczki juz wyplacone (6/10), ile czeka (4/10); osobno TOWAR W DRODZE (co, skad, kiedy). Do tego: natura w komorach zamku - ksiega kasztelana (07-26); zboze w komorach - rezerwa, w korcach (Orland, spis na 07-31) - NIE liczone jako towar do sprzedazy. Urzednicy - bez rzutu.",
+   "kto": "GAWEN -> HAL (kwity Korony); kasztelan; Orland",
+   "kanal": "kruk Winterfell-Bialy Port (07-17 z pismami do lordow)",
+   "wraca": "300-07-21",
+   "zamyka": "kartka Gawena: towar Korony niespieniezony - pozycja po pozycji, z suma",
    "status": "otwarte"
   }
  ],

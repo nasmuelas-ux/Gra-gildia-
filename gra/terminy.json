@@ -9534,7 +9534,7 @@
    "kanal": "jezdziec przybocznej Winterfell-Przystan Wilka",
    "wraca": "300-07-16",
    "zamyka": "Brynden w Winterfell",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-16 - Brynden w Winterfell po poludniu (zablocony, drogi rozmyte); narada o akademii z Krolem i ser Rodrikiem - 07-17 rano."
   },
   {
    "data": "300-07-14",
@@ -9687,6 +9687,15 @@
    "kanal": "kruk Blizniaki-Winterfell",
    "wraca": "300-07-24",
    "zamyka": "odpowiedz Waldera albo wiesc z Dreadfortu, albo cisza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-16",
+   "co": "AKADEMIA - NARADA BRYNDENA Z KROLEM I SER RODRIKIEM (wezwanie 07-13): program akademii, setnicy z weteranow (lista Rodrika/Osrica), kurs. Pan - jesli zechce.",
+   "kto": "BRYNDEN + KROL + SER RODRIK (+ OSRIC)",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-17",
+   "zamyka": "program i kurs ustalone albo wiadomo, czemu nie",
    "status": "otwarte"
   }
  ],

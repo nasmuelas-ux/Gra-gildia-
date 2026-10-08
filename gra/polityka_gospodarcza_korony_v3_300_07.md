@@ -213,3 +213,44 @@
 - **Brynden:** pula miejsc Korony w Akademii.
 - **Sansa:** obraz konsulatów i zakazu obcej monety.
 - **Lucan i Hal:** Dom jako wolny pośrednik, bez pierwszeństwa.
+
+---
+
+## 7. ODPOWIEDZI PANA NA PYTANIA OTWARTE (07-16, noc)
+1. **Kaucja faktora: przyjęta zasada „pieniądz nie przez faktora”.** Kupiec płaci pisarzowi Skarbu przy wadze, faktor dostaje prowizję z wpłaty.
+2. **Weksel trasowany** (z zastawem) **załatwia się w komorze albo w kancelarii misji, czyli w konsulacie.** Oba miejsca przyjmują zastaw i poświadczają.
+3. **Krukarnia Głębokorzenia jest zalążkiem łączności Korony, ale łączność wdraża ją NIEZALEŻNIE.** Głębokorzeń daje ptaki i wiedzę, a sieć prowadzi urząd łączności, nie dom uczonych.
+4. **GŁĘBOKORZEŃ: podział na SŁUŻBĘ i NAUKĘ.**
+   - **Nauka.** Badacze, profesorowie i rzemieślnicy (kowale, alchemicy) **mogą zakładać rodziny**, bo nie biorą udziału w bieżącej polityce.
+   - **Służba.** Kiedy maester wyjeżdża „w teren”, żeby służyć lordowi na zamku, **jego rodzina zostaje w Głębokorzeniu.**
+   - **Lord płaci Głębokorzeniowi, nie maesterowi.** Z tych pieniędzy dom utrzymuje żonę i dzieci maestra. Maester **nie ma własnego majątku na zamku lorda**, wszystko kontroluje zakon.
+   - **Nowicjusz może zrezygnować. Przysięga jest ostateczna.** W zapisie jest precedens: uczeń z pierwszej dziesiątki odszedł, bo *„wolał sieci”* (05-06).
+   - *Do dopisania w karcie Głębokorzenia (§VIII przysięga, §IX).* Szkic zauważa: rodzina w Głębokorzeniu to także **najmocniejsza rękojmia wierności** maestra przy lordzie. Lord może to tak odczytać, więc trzeba to nazwać wprost **opieką**, a nie zakładnikiem.
+5. **DOM STARKÓW: rozwiązać, majątek sprzedać, a jego ludzie przechodzą do administracji Korony.** Dotyczy to Rodwella, dwóch pełniących obowiązki (pieniądz i wykonanie) i filii w Białym Porcie (sprzedać). Co dokładnie jest do sprzedania, pokażą rachunek Rodwella (07-19) i spis A/B/C (07-26).
+6. **Szkoła w Zimowym Mieście jest SZKOŁĄ KORONNĄ.** **Edukację Korona chce KONTROLOWAĆ.** Izba uczniowska i praktykanci łączą się z tą szkołą.
+   - *Przez to karta Głębokorzenia §II („Korona planuje i wykonuje naukę”) **zostaje w mocy**, a wcześniejsza uwaga o jej przepisaniu jest **nieaktualna**.*
+   - Szkoły Cailin i Białego Portu: model i dotacja, zgodnie z §N5.
+7. **Łączność i infrastruktura w Małej Radzie: kandydat z uczniów THEOMORE'A.** Wskazuje Theomore (zasada 42).
+   - **Z zapisu, uczniowie Głębokorzenia z nazwanymi domami (przyjazd 06-01):**
+     - WENDEL MORSKI (Manderly);
+     - ULLA KORA (Glover);
+     - BRAN SIWY (Cerwyn);
+     - TOMAS SZNUR (Karstark);
+     - **EDDA Z BRODU (Korona, Kasa 3)**.
+   - *Ryzyko:* to nowicjusze od czerwca. Miejsce w Radzie dla nowicjusza to dużo. Może prowadzić urząd, a z Radą rozmawiać przez Mistrza Nauki, póki nie dojrzeje.
+8. **Głowa Korpusu Podopiecznych. Tak, wybór był podwójny:**
+   - **Helga** w dzień i **Gerta** w nocy (Luwin 07-08: *„pierwszy miesiąc, w którym śpię”*). Gertę wskazali Gawen i Luwin 05-27.
+   - **Halla od Tablic** przejęła połowę lekcji.
+   - **Formalnie** w obsadzie Korony ochmistrzem jest **kasztelan** (scalone 03-03).
+
+   Głowy Korpusu nikt więc nie nazwał, są tylko dwie opiekunki i nauczycielka. Wskazuje **Mistrz Nauki (Luwin)**.
+9. **SPRZEDAŻ: najpierw dokładne policzenie WSZYSTKICH zaległych towarów** (spis A/B/C, Gawen, 07-26). Pan zakłada, że jest ich bardzo dużo. Potem:
+   - **Wyman:** Wielki Targ w Białym Porcie **po żniwach**.
+   - **Próbnie:** sprzedaż w **Fosie Cailin** i w **Zimowym Mieście**.
+   - **LIST KRÓLEWSKI**, czyli ogłoszenie:
+     - do **Braavos** i **Pentos**, do domów handlowych: *„mogą przypłynąć i zabrać”*, plus ogłoszenie wywieszone na miejscu;
+     - tak samo do **Dorzecza**;
+     - informacja do **Reach**.
+10. **PENTOS I DREWNO.** Drewno dla Pentos idzie przez **Faktora Królewskiego w Białym Porcie**, a do tego Korona podchodzi do kupców z Pentos **bezpośrednio**.
+    - *Z zapisu:* kupiec z Pentos daje na piśmie 110–120 jeleni za sztukę suchego drewna spod pokładu.
+    - *Uwaga:* **Obaro** (placówka Domu Tally w Pentos) może kupować jak każdy, ale **nie jest kanałem Korony** (mur trzech kas). Kanałem jest list Króla i ogłoszenie.

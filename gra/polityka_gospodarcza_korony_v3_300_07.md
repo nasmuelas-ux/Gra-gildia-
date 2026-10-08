@@ -174,7 +174,7 @@
 | **KORPUS PODOPIECZNYCH WINTERFELL** (z karty wychowanków) | przekształcić w instytucję i **dodać naukę języków** | 31 dzieci z 26 domów (04-04). Utrzymanie płacą domy. **Ochmistrz:** w obsadzie kasztelan (scalone 03-03), ale Luwin 05-19 mówi: *„nikt ich nie liczy wieczorem po imieniu”*, więc Korpus potrzebuje głowy. Języki: Luwin 05-25 dopisał już księgi valyriańskie i braavoskie (*„język kantorów”*). |
 | **GŁĘBOKORZEŃ** | rozpisać i sprawdzić, kto koordynuje. Ma tworzyć **„super-maesterów”** | **Prowadzi maester THEOMORE** (mistrz Głębokorzenia). Kolebka w Nowym Zamku w Białym Porcie, gmach docelowy w Przystani Wilka. Maester przysięga Głębokorzeniowi, Głębokorzeń Koronie. Może objąć urząd Korony i zachowuje łańcuch. **Celibat: karta MILCZY.** Przysięga ma trzy punkty (wierność, zapis, nauka) i ślubu bezżeństwa w niej nie ma. **Do rozstrzygnięcia: Król z Theomore'em.** |
 | **AKADEMIA WOJSKOWA** (Brynden) | **pula miejsc wysyłanych przez Koronę, pozostałe miejsca do kupienia** | Płatnik Kasa 3. Program z Bryndenem od 07-17. Ile miejsc Korony i za ile reszta, to pytanie do Bryndena i Gawena. |
-| **IZBA UCZNIOWSKA I PRAKTYKANCI** | **połączyć ze szkołą w Zimowym Mieście** | Pytanie: czyja jest ta szkoła (Korony, miasta, z karty)? Jeśli połączenie, to z dotacją Korony, bez sterowania. |
+| **IZBA UCZNIOWSKA I PRAKTYKANCI** | **połączyć ze szkołą w Zimowym Mieście** | **Z zapisu:** szkoła stoi według prawa z 299-09-10 i jest **Luwina** (Mira 07-10: *„Szkoła jest Luwina, nie twoja”*), więc należy do Korony przez Mistrza Nauki. Mira uczy tam od 07-15 (34 dzieci). Może być **szkołą wzorcową Korony**, czyli „modelem”, z którego biorą inni. |
 | **Szkoły w Cailin i w Białym Porcie** | Korona ich nie koordynuje, daje model i może dotować | |
 
 ---

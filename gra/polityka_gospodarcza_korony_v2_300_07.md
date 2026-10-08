@@ -1,5 +1,6 @@
 # Polityka gospodarcza Korony: szkic v2
 ### Namiestnik, Winterfell, 300-07-16, noc. **SZKIC. NIC NIE JEST WDROŻONE ANI POSTANOWIONE.**
+### ⚠ ZASTAPIONY 300-07-16 (noc) przez `polityka_gospodarcza_korony_v3_300_07.md` (porzadkowanie pana).
 *Zastępuje v1 (`projekt_instytucji_gospodarczych_korony_300_07.md`), który zostaje jako historia myślenia. Treść ustaleń należy do pana. Połączenia z zapisem, pytania i ryzyka dopisał szkic. Ludzie wyłącznie z obsady, kwot brak (zasada 43).*
 
 ---

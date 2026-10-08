@@ -105,6 +105,10 @@
 
 **Kto płaci:** Korona, bo ma żywotny interes w spieniężaniu i rozwoju całej Północy i w budowaniu połączeń handlowych.
 
+**Gdzie najpierw (pan, 07-16, potencjalnie):**
+1. **BRAAVOS.** Żelazny Bank i stała umowa o wekslach. Osobne drzwi od kantoru Nesty (Dom Tally).
+2. **RIVERRUN.** Partner traktatu B9 i Paktu Obronnego. W zapisie Korona miała tam już posła: lady Catelyn (299-09). Kompania Północ–Dorzecze (Lyman od Brodów) to nie Korona.
+
 **Konsul:**
 - przysięga **Koronie** i reprezentuje Królestwo **swoim pochodzeniem**;
 - może być drugim lub trzecim synem lorda, **ale to nie jest zasada**. Może pochodzić z innego stanu;
@@ -140,7 +144,7 @@
   - **Wypłaca się je przy komorze w wilkach albo smokach.** Tylko te.
 - **(b) WEKSLE OBCE:** weksle trasowane Żelaznego Banku albo innego banku. **USTALENIE PANA (07-16): zgoda, ale tylko wtedy, gdy bank potwierdzi BEZPOŚREDNIO Królestwu Północy, że je pokryje.**
   - Bez takiego potwierdzenia Korona ich nie przyjmuje, bo byłoby to pożyczanie pod cudzą obietnicę.
-  - *Pytanie szkicu:* czy potwierdzenie ma iść **przy każdym wekslu**, czy jako **stała umowa korespondencyjna** z bankiem (które weksle, do jakiej kwoty)?
+  - **USTALENIE PANA (07-16): STAŁA UMOWA** z bankiem: które weksle i do jakiej kwoty, potwierdzane Królestwu raz, a nie przy każdym wekslu.
   - Kanałem może być **misja Korony w Braavos** (N2), **nie Dom Tally** (mur trzech kas).
   - *Ryzyko:* bank zechce wzajemności, czyli żeby jego miasto honorowało weksle Korony. Umowa z bankiem to akt Króla.
 
@@ -196,7 +200,7 @@
 2. **Trzy nowe miejsca w Małej Radzie:** łączność, infrastruktura i edukacja (Mistrz Nauki).
 3. **Faktor Królewski:** urząd, roczna nominacja, prowizja, zasada „pieniądz nie przez faktora”.
 4. **Prawo składu dla Zimowego Miasta**, jeśli go nie ma.
-5. **Misje i konsulaty** oraz **weksel poświadczany z pokryciem**.
+5. **Misje i konsulaty: najpierw Braavos i Riverrun** oraz **weksel poświadczany z zastawem** i **stała umowa z bankiem**.
 6. **Na Północy nie płaci się monetą z Essos**: wilk i smok tak, obcy kupiec wymienia przy komorze. Do tego **umowa z bankami** o potwierdzaniu ich weksli Królestwu.
 7. **Głębokorzeń:** celibat tak albo nie.
 8. **Przepisanie karty Głębokorzenia, §II:** Korona daje model i dotuje, nie koordynuje szkół.

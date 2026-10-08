@@ -14,7 +14,8 @@
 | **Skarbnik (Gawen)** | Liczy i nie wydaje. Komory Korony podlegają jemu (Garth prowadzi służbę komór). Rozlicza agencję zbożową. Jedna księga od 07-26. |
 | **Mistrz Handlu i Portów (Wyman)** | Buduje, ale nie sądzi i nie pobiera. Trzyma taryfę i miary portowe. Kadencja 5 lat. |
 | **Ludzie Korony w terenie** | **Orland Korzec**: Spichlerz Północy. **Norren Ścisły**: księgi pomostu w Przystani Wilka. **Bors**: gospodarz Przystani Wilka, gdzie Korona ma 1/2. **Brenn z Brodu** i **Tove ze Wzgórz**: odnogi traktu. **Vemund od Kotwy** i **Sigrun**: Kamienisty Brzeg. **Ser Corwin**: Kamienny Brzeg. **Tobin Szala**: Rejestrator Korony. **Theomore**: Głębokorzeń. |
-| **Wakaty, które już są w zapisie** | Wielki Zarządca Kamiennego Brzegu. Mistrz Domu Audytowego (rewizja). Faktor filii w Białym Porcie. |
+| **Wakaty, które już są w zapisie** | Mistrz Domu Audytowego (rewizja). Faktor filii w Białym Porcie. |
+| **Własna wytwórczość Korony, która już stoi** | **Kamienny Brzeg:** Wielki Zarządca **Brann Mokry** (od 05-30, pisze za niego pisarz). **Tkalnia sieci Korony** (prowadzi Gunna). **Solarnia Korony** (decyzja 05-21). |
 | **Zasady, które obowiązują** | Mur trzech kas: Dom Tally to nie Korona. Korona w porcie występuje **jako kupiec, nie pan** i płaci opłaty jak każdy (299-08-28). „Odcinków nie odbiera ten, kto na nich zyskuje” (299-09-10). Celnik mierzy, pisarz zapisuje: fach i księgi nigdy w jednej ręce. Zimowe Miasto ma kartę, a Korona jest tam gwarantem, nie panem. |
 
 ---
@@ -27,7 +28,7 @@
 |---|---|---|---|
 | **1. Własne siły wytwórcze w domenie** | **ZARZĄD DOMENY**, dział **Wytwórczości** | Skarbnik | |
 | **2. Placówki handlowe w kraju, przy komorach** | **FAKTORIE KORONY** (pod Zarządcą) | Skarbnik | **Wyman**: taryfa i miary |
-| **3. Przedstawicielstwa handlowo-dyplomatyczne za granicą** | **POSELSTWA KORONY**: Król i Namiestnik; przy każdym **pisarz handlowy** Zarządcy | Skarbnik | Król (prerogatywa) |
+| **3. Przedstawicielstwa za granicą** | **MISJE HANDLOWE KORONY** (pod Zarządcą), z człowiekiem od wieści, który melduje do kancelarii Namiestnika | Skarbnik | Król: zgoda na otwarcie |
 | **4. Zarząd domen, wsi, miast** | **ZARZĄD DOMENY**, dział **Dóbr** | Skarbnik | Karty miast (miasto z kartą rządzi się samo) |
 | **5. Logistyka i infrastruktura** | **MISTRZ DRÓG, WÓD I SKŁADÓW** (nowe krzesło, WAKAT) | Skarbnik | Wyman: porty |
 | **6. Reforma Domu Starków, wpięcie Skarbnika i Wymana** | wszystko powyżej | jedna księga | Mała Rada: przegląd |
@@ -42,8 +43,8 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
 | Dział | Co robi | Kto dziś (z zapisu) |
 |---|---|---|
 | **Dobra** | Wsie, młyny, lasy, łowiska, kamieniołomy, czynsze, danina. **Osadzanie na pustych zagrodach.** Sołtysi tam, gdzie ich brak. | Spis domeny Rodwella (299-08-28). Przy osadnictwie Sigrun (Kamienisty Brzeg, warunek: sama wybiera). |
-| **Wytwórczość** | Obróbka danin **we własnych warsztatach Korony** tam, gdzie się opłaca: skóry, wełna, ryba, drewno, sól, szkło. Dziś Korona płaci Domowi Tally prowizję za obróbkę (06-07). Część przechodzi do Korony, część zostaje na zlecenie, **w przetargu**. | WAKAT, czyli mistrz wytwórczości. Głębokorzeń (Theomore) jako pracownia uprawy. |
-| **Miasta i ziemie koronne** | **Majątek** Korony w miastach: czynsze, place, udziały. **Nie rządzi** miastem z kartą. | Zimowe Miasto: burmistrz Oswyn Miarka, Korona gwarantem. Przystań Wilka: Bors (Korona 1/2). Kamienny Brzeg: Wielki Zarządca **WAKAT**, przy nim ser Corwin. Kamienisty Brzeg: Vemund i Sigrun. |
+| **Wytwórczość** | Obróbka danin **we własnych warsztatach Korony** tam, gdzie się opłaca: skóry, wełna, ryba, drewno, sól, szkło. Dziś Korona płaci Domowi Tally prowizję za obróbkę (06-07). Część przechodzi do Korony, część zostaje na zlecenie, **w przetargu**. | WAKAT, czyli mistrz wytwórczości. **Wzór już działa:** tkalnia sieci i solarnia Korony na Kamiennym Brzegu (Brann, Gunna). Głębokorzeń (Theomore) jako pracownia uprawy. |
+| **Miasta i ziemie koronne** | **Majątek** Korony w miastach: czynsze, place, udziały. **Nie rządzi** miastem z kartą. | Zimowe Miasto: burmistrz Oswyn Miarka, Korona gwarantem. Przystań Wilka: Bors (Korona 1/2). Kamienny Brzeg: Wielki Zarządca **Brann Mokry**, przy nim ser Corwin (wojsko). Brann prowadzi tkalnię sieci (Gunna) i solarnię Korony, więc **wytwórczość Korony już tam działa**. Kamienisty Brzeg: Vemund i Sigrun. |
 
 **Dwie ręce na stałe** (wniosek z 299-09-12: *„kontrola istnieje tylko wtedy, gdy go nie ma”*). Pod Zarządcą stoją **dwie osobne ręce: pieniądz i wykonanie**. Obecni pełniący obowiązki stają się nimi naprawdę, z kartką i z zatwierdzeniem Króla.
 
@@ -56,10 +57,11 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
 - **Kto:** w każdej faktorii **faktor**, który kupuje i sprzedaje, oraz **pisarz faktorii**. **Celnik** komory jest kimś innym. *Kto pobiera cło, nie handluje przy tej samej wadze.*
 - **Co sprzedają:** najpierw **kolumnę C**, czyli wolny towar (spis na 07-26), potem wyroby Wytwórczości.
 - **Na jakich zasadach:** **jak kupiec, nie jak pan**: taryfa Wymana, opłaty jak każdy, cena ogłoszona.
-- **Gdzie dziś:** w Białym Porcie sprzedaż towaru Korony idzie przez **skład Domu Tally na kwit** (06-07). Faktoria Korony to przejmuje i mur trzech kas przestaje się opierać na jednym człowieku.
+- **Gdzie dziś:** Korona sprzedaje **każdemu, kto kupi**. Skład Domu Tally w Białym Porcie jest tylko **pośrednikiem** (06-07): kwit z zaliczką, licytacja raz w tygodniu, lista towaru dla każdego statku. Faktoria Korony może tę rolę przejąć albo stanąć obok, a pośrednictwo Domu zostaje jako jedna z dróg, nie jedyna.
 
-### C. POSELSTWA KORONY ZA GRANICĄ *(przedstawicielstwa handlowo-dyplomatyczne)*
-- **Prerogatywa Króla.** Poseł jest człowiekiem Króla. Przy nim siedzi **pisarz handlowy** Zarządcy: ceny, kontrakty, kto kupuje.
+### C. MISJE HANDLOWE KORONY ZA GRANICĄ *(poprawka pana: misje handlowe, nie poselstwa)*
+- **Misja handlowa Korony w obcym mieście:** sprzedaje i kupuje dla Korony, zawiera kontrakty i patrzy na ceny. Siedzi w niej **człowiek, który przekazuje informacje** do kancelarii Namiestnika.
+- Nie jest to poseł. Otwarcie nowej placówki Korony wymaga **zgody Króla** (nowy urząd, rzut przy przedłożeniu).
 - **Osobne drzwi** od placówek Domu Tally w Braavos, Pentos i Seagard (słowa Gawena 07-16).
 - **Pierwsze dwa miejsca** do decyzji Króla, z uzasadnieniem z zapisu:
   - **Braavos**, z powodu odczytu Sansy *„uznanie u wierzycieli”*;
@@ -90,7 +92,7 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
 
 ### F. WYMAN *(Mistrz Handlu i Portów)*
 - **Daje reguły, nie prowadzi:** taryfa, miary i porty, dla faktorii tak samo jak dla wszystkich.
-- **Pytany przed** każdą faktorią w porcie i każdym poselstwem z handlem morskim.
+- **Pytany przed** każdą faktorią w porcie i każdą misją handlową z handlem morskim.
 - Na Małą Radę przesyła rachunek **na piśmie** (dalecy, karta 07-12).
 
 ---
@@ -99,7 +101,7 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
 
 ```
                         KRÓL
-                         │  (prerogatywy: krzesła, poselstwa, karty)
+                         │  (prerogatywy: krzesła, misje, karty)
                     MAŁA RADA ── Namiestnik zwołuje i daje kierunek
         ┌────────────────┼──────────────────┬──────────────────┐
   ZARZĄDCA DOMENY     SKARBNIK        MISTRZ DRÓG,        [Wyman: Mistrz
@@ -109,7 +111,7 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
   └ FAKTORIE KORONY    rewizja)        ├ Przystań (Bors,
      (BP, Przystań,                     │  Norren)
       Fosa, K. Bród)                    └ składy (Orland)
-                                                    POSELSTWA (Król) + pisarz handlowy Zarządcy
+                                                    MISJE HANDLOWE (zgoda Króla) + człowiek od wieści
 ```
 
 **Reguła łączenia:** **prowadzi jeden, liczy drugi, reguły daje trzeci.** Żaden nie ma wszystkiego, tak jak przy Kamiennym Brzegu: *„jeden liczy, drugi trzyma miecz i sąd”*.
@@ -120,7 +122,7 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
 
 1. **Korona zaczyna konkurować z kupcami.** Faktoria przy komorze to dla kupca znak, że *„Korona waży i Korona sprzedaje”*. Bez rozdziału celnika od faktora pierwsza skarga przyjdzie w miesiąc.
 2. **Wyman, raz piąty.** Faktoria w Białym Porcie to konkurencja dla handlu Manderlych w jego mieście. Bez pytania go wcześniej uraza wróci (299-08-28).
-3. **Dom Tally traci obrót z towaru Korony** (kwity, obróbka). Uczciwe, ale ktoś to policzy. Lepiej, żeby Hal dowiedział się od pana niż z rynku.
+3. **Dom Tally traci część prowizji pośrednika** (kwity, licytacje, obróbka), bo kupującym może być każdy. Uczciwe, ale ktoś to policzy. Lepiej, żeby Hal dowiedział się od pana niż z rynku.
 4. **Ludzi brakuje.** Szkic administracji (299-09-10) liczył pióra i wyszło za mało. Każda faktoria to dwie piszące ręce. Bez praktykantów pierwsze krzesła obsadzi się kimkolwiek.
 5. **Lordowie** zobaczą Koronę, która handluje przy ich drogach. Pytanie *„czy Korona handluje też w moich komorach?”* musi mieć gotową odpowiedź: **tylko na ziemi Korony i tylko jako kupiec.**
 6. **Koszt wejścia** (najem, ludzie, zapas, warsztaty) jest dziś nieznany. Kolumna C może dać pierwszy kapitał w towarze, ale nikt jej jeszcze nie policzył.
@@ -130,7 +132,7 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
 ## 5. Co rozstrzyga Król (prerogatywa, rzut przy przedłożeniu)
 1. **Zarządca Domeny:** nominacja, po ocenie Gawena (07-19 → 07-20/21).
 2. **Nowe krzesło: Mistrz Dróg, Wód i Składów.** Czy w ogóle, i z jakim zakresem wobec Wymana.
-3. **Poselstwa Korony za granicą:** czy, gdzie najpierw, z czego płacone.
+3. **Misje handlowe Korony za granicą:** czy, gdzie najpierw, z czego płacone, do kogo idą wieści.
 4. **Statut zamiast „Domu Starków”:** nowa nazwa i karta, dwie ręce na stałe, zatwierdzenie pełniących obowiązki.
 5. **Kontrola i rewizja:** wnieść na Wielką Radę (pakiet B) albo zatwierdzić tymczasowo.
 
@@ -148,6 +150,72 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
   - **jeden warsztat Wytwórczości** z tego, co leży w kolumnie C;
   - **jeden przetarg** (agencja zbożowa w nowym trybie).
 - **Faza 3, skala:** dopiero po pierwszym rachunku próby.
+
+---
+
+## 7. INNE ROZWIĄZANIA (warianty do porównania, 07-16 noc)
+*Wariant A to wszystko powyżej: trzy instytucje pod Zarządcą i nowe krzesło Mistrza Dróg.*
+
+### Wariant B: JEDNA KOMPANIA KORONY
+**Kształt.** W miejsce Domu Starków jedna instytucja z kartą Króla, a na czele **Zarządca Domeny**. W środku działy: Dobra, Wytwórczość, Faktorie, Misje handlowe, Przewóz. Kompania ma własną księgę, a **Skarbnik ją rewiduje**. **Wyman** siedzi w jej radzie, bo odpowiada za porty i taryfę.
+
+**Za:**
+- jedna karta, jedna głowa, szybki start;
+- dla obcych jedna nazwa i jeden adres;
+- wieści płyną jednym kanałem.
+
+**Przeciw:**
+- jeden człowiek trzyma ziemię, handel i przewóz, a to łamie regułę *„żaden nie ma wszystkiego”*;
+- w zapisie już raz widać, jak to się kończy: Rodwell z trzema robotami naraz.
+
+### Wariant C: DWIE NOGI, ZIEMIA I HANDEL
+**Kształt.**
+1. **ZARZĄD DOMENY** (Zarządca): ziemia, wsie, majątek Korony w miastach, wytwórczość, budowa dróg i przepraw.
+2. **KOMPANIA HANDLOWA KORONY**: faktorie przy komorach, misje handlowe za granicą (z człowiekiem od wieści), przewóz, czyli wozy, barki i składy na trasie.
+   - Karta Króla i większość Korony.
+   - **Lordowie mogą wnieść udział towarem**, tak jak przy zaliczce.
+   - Wyman daje reguły, Skarbnik rewiduje.
+
+**Za:**
+- rządzenie ziemią i handel to dwa różne rzemiosła i dwa różne ryzyka;
+- lord, który ma udział, staje się **wspólnikiem Korony**, a nie jej konkurentem (ryzyko 5);
+- jego towar, który leży, zamienia się w udział (niepłynność);
+- kupiec słyszy więcej niż urzędnik, więc wieści same siadają w nodze handlowej;
+- forma kompanii ma już precedens: Kompania Północ–Dorzecze.
+
+**Przeciw:**
+- udział daje lordom **głos** w handlu Korony;
+- trzeba statutu i zasad, kto głosuje;
+- Dom Tally koordynuje Kompanię Północ–Dorzecze, więc przy Kompanii Korony **mur trzech kas musi być wyraźny**: Dom nie koordynuje i nie ma udziału.
+
+### Wariant D: REGIONALNI ZARZĄDCY (model Branna)
+**Kształt.**
+- Ziemie Korony dzielą się na okręgi: Zimowe Miasto i okolice Winterfell, Kamienny Brzeg, Przystań Wilka, Kamienisty Brzeg i kolejne.
+- W każdym okręgu jest **Wielki Zarządca** jak Brann: ludzie, ziemia, warsztaty, lokalna faktoria i przewóz na miejscu, a za niego pisze pisarz.
+- **Zarządca Domeny** koordynuje, **Skarbnik** liczy.
+- **Misje za granicą** zostają centralne.
+
+**Za:**
+- **już sprawdzone w zapisie**: Branna ludzie słuchają, tkalnia i solarnia ruszyły;
+- władza blisko ludzi;
+- każdy okręg widać we własnej rubryce.
+
+**Przeciw:**
+- trzeba wielu ludzi formatu Branna;
+- okręg może wrosnąć w człowieka, więc potrzebna **kadencja albo przegląd przed Radą** (zasada z 299-08: urzędy na służbę, dopóki służą).
+
+### Wariant E: KORONA JAKO WŁAŚCICIEL, NIE KUPIEC (minimum)
+**Kształt.** Korona nie handluje sama. Dzierżawi, zleca w przetargach i pobiera czynsz i cło. Zostaje mały urząd: Zarządca i Skarbnik.
+
+**Za:** mało ludzi, zero konkurencji z kupcami.
+
+**Przeciw:** **nie buduje zdolności Korony**, a to był pierwszy cel. Podaję go tylko jako dno, z którym trzeba porównać resztę.
+
+### REKOMENDACJA SZKICU: C + D
+- **Noga ziemi** według wariantu D: regionalni zarządcy jak Brann, Zarządca Domeny nad nimi.
+- **Noga handlu** według wariantu C: Kompania Handlowa Korony z faktoriami, misjami (wieści) i przewozem.
+- **Skarbnik** rewiduje obie. **Wyman** daje reguły portów i taryfy.
+- Zamiast nowego krzesła Mistrza Dróg: **budowa** dróg idzie do nogi ziemi, a **ruch** po drogach do nogi handlu.
 
 ---
 *Status: SZKIC. Polecenie dla Gawena z 07-16 („reforma placówek od zaraz”) jest **WSTRZYMANE** słowem pana: najpierw projekt. Spis wolnego towaru (A/B/C) idzie dalej, bo to wiedza, nie wdrożenie.*

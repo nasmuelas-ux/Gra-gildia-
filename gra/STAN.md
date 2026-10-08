@@ -1022,6 +1022,7 @@ _20 ludzi (06-19 ROZKAZ PANA: DO 100 - fale wg Kessela, ~VIII +30, ~X +50). ⚠ 
 - **WIELKI KASZTELAN KAMIENNEGO BRZEGU:** SER CORWIN LODOWY (rycerz domowy Winterfell, ~28; czyta i pisze) - setnik: ULRIC SEKATY (~40, setnik spod Oxcross) _(Wskazani przez ser Rodrika (Corwin) i ser Alyna (Ulric); wybor Namiestnika 'obu', nominacja Krola (Rodrik przekazuje 05-03). Wojskowo-sadowy: rezerwy w jednolitych szykach, zbrojownie przy wsiach, straz brzegu, sad. Odpowiada przed Krolem; w sprawach szyku przed Marszalkiem (Osric). Wyjazd z garnizonem bazowym po ~05-22.)_
 - **MISTRZ HANDLU I PORTOW POLNOCY:** lord WYMAN MANDERLY _(Urzad BUDUJE, ale NIE SADZI I NIE POBIERA: trzyma taryfe i miary portowe; bez sadu, sakwy i zbrojnych. NIE DZIEDZICZNY (Symon odmowil co do Wylisa). Siedziba urzedu = faktoria Manderlych w Bialym Porcie (adres Korony). Dopisany do obsady 300-07-12 (luka w spisie - wyszla przy podsumowaniu rady).)_
 - **ZARZADCA DOMENY:** WAKAT - kandydat RODWELL (krzeslo po rachunku u Gawena ~07-19) _(Prowadzi domene Korony (domena = Korona, rzut 59): lasy, futra, ziemia, zelazo, rzeki, natura, targ; dawny Dom Starkow jako reka w handlu. W Malej Radzie. Namiestnik - kierunek; Zarzadca - prowadzi; Skarbnik - liczy (jedna ksiega z rubrykami).)_
+- **WIELKI ZARZADCA KAMIENNEGO BRZEGU:** BRANN MOKRY (starszy rybakow z Zatoki Kamieni; nie czyta - liczy na wezlach; pisarz mlody z brzegu) _(Mianowal KROL 05-30 (prerogatywa; wola Branna rzut 64 - TAK); kandydat Torrena (05-10). Warunki: mieszka we wsi przy lodziach; pisarz zapisuje, co on mowi. Prowadzi ludzi, polow, sol, sieci, spis; wojsko/palisada/straz - Corwin. TKALNIA SIECI KORONY - Gunna (zona Branna) z kobietami ze wsi (05-30); SOLARNIA KORONY na Kamiennym Brzegu (decyzja 05-21). Dopisany do obsady 07-16 (luka w spisie - wakat stal mimo nominacji).)_
 
 ### WINTERFELL — _Korona (Kasa 3) + dom Starkow_
 _Rada 299-09-07 w skladzie: Cerwyn, Gawen, Rodwell, ser Alyn, Luwin, Catelyn._
@@ -1068,10 +1069,9 @@ _Mira w Bialym Porcie; rozwiazanie. RHONA: 'to nie bedzie trzeci dzien trzeciego
 - **MAGISTER INZYNIERII** — TRZECH, PODZIELENI RZECZOWO: WEYLIN - inzynier zamkowy (woda, dreny, sluzy, 'urzad na pokolenia'); ORBELO - kamien i budowa; BRAN - majordom robot (grobla, trakt). ISTNIEJE, i jest to najlepiej obsadzony departament lenna.
 - **URZEDNIK MIAR I WAG** — BENNIS OD WAGI - wagowy miasta od 300-03-03, wage trzyma i placi RADA MIASTA, nie zamek. Nad nim HERWIN SZALA, burmistrz, 12 lat przy wadze, autor poprawki o ZNAKU NORMY. ISTNIEJE - ale jako urzad MIASTA. Lenno swojej wagi nie ma i miec nie powinno: lord nadaje regule, miasto sadzi.
 
-### 🔴 WAKATY (3)
+### 🔴 WAKATY (2)
 - **MISTRZ DOMU AUDYTOWEGO** _(KORONA)_ — PIERWSZEGO TRZEBA ZROBIC, NIE ZNALEZC - poza cechem mistrzow rewizji nie ma. TOMMARD KOSA (lustrator Fosy od 300-03-03) jest nasieniem tego urzedu, nie jego zaprzeczeniem.
 - **SOLTYSI - ILE WSI WYBRALO** _(LENNO)_ **PYTANIE BEZ ODPOWIEDZI** — ustroj od 299-08 (jedno palenisko jeden glos, lawa z oboma glosami); Symon pytal, ktore wsie wybraly - odpowiedzi nie dostal.
-- **WIELKI ZARZADCA KAMIENNEGO BRZEGU** _(KORONA)_ **NAZWISKO OD NAMIESTNIKA** — Ustanowiony 300-04-26 (Krol na wniosek Namiestnika). Gospodarczo-administracyjny: organizuje ziemie Korony w imieniu Krola (spis wsi i dymow, spichlerz, targ, droga, podatek w naturze). Odpowiada przed Krolem, melduje co kwartal. Krol: 'jeden liczy, drugi trzyma miecz i sad - zaden nie ma wszystkiego'.
 
 ## ⚠️ OBOWIAZKOWA RAMA RANKA (nie pomijac po kompaktowaniu!)
 Kazdy RANEK renderuj W TEJ KOLEJNOSCI, ZAWSZE:
@@ -2293,8 +2293,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-16] `dziennik`: KOLACJA (cd.) - SYMON do Miry: nie przejmuj sie, chcialas dobrze. Bez rzutu. Mira sciska go za reke pod stolem, usmiecha sie pierwszy raz od poczatku kolacji: 'Jutro ide do niego sama. Bez b…
-- [300-07-16] `dziennik`: KOLACJA (cd.) - SYMON pyta BRYNDENA o lady CATELYN. Bez rzutu (wiedza z zapisu: wyjazd z Riverrun 07-05, trakt przez Przesmyk i Fose, w Winterfell ~07-25). BRYNDEN: wie tyle, co Winterfell -…
 - [300-07-16] `dziennik`: WIECZOR, KOMNATA SANSY - SYMON: ratyfikacja traktatu przez Dorzecze i (potencjalna) umowa z Reach - jak wplywa na WIZERUNEK KROLESTWA. Bez rzutu (odczyty Sansy - notatki, NIE zdarzenia swiat…
 - [300-07-16] `dziennik`: KOMNATA SANSY (cd.) - ⚑ SYMON: TAK (zdanie o zaliczce do pisma Gawena), ale zalozyc tez, ze lordowie moga zaplacic ROWNOWARTOSC INNYMI TOWARAMI - nie wszyscy sa plynni. Bez rzutu (ta sama sp…
 - [300-07-16] `dziennik`: POZNY WIECZOR, KOMNATA NAMIESTNIKA - SYMON wzywa GAWENA: na kiedy bedziemy wiedzieli wiecej o ZARZADCY DOMENY? Bez rzutu (urzednik; z zapisu). GAWEN (z notka pana w reku - przeczytal, pismo …
@@ -2305,3 +2303,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-16] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON pyta GAWENA: jak wyglada STRUKTURA DOMU HANDLOWEGO STARKOW. Bez rzutu (z zapisu; czego nie ma - Gawen mowi, ze nie ma). GAWEN: NA PAPIERZE - (1) DYREKTOR: R…
 - [300-07-16] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON NOTUJE Z BOKU (gra/notatki_reforma_domu_starkow_300_07.md): Dom Starkow - punkty handlowe w kraju i placowki dyplomatyczno-handlowe za granica; Korona musi …
 - [300-07-16] `dziennik`: NOC, KOMNATA NAMIESTNIKA - ⚑ SYMON: 'momencik, jeszcze nic nie wdrazamy - uporzadkujmy projekt, na razie symulujac'. Cele Korony (slowa pana): (1) wlasne sily produkcyjne w domenie - potrzeb…
+- [300-07-16] `poprawki`: VOID (zasada 1; uwaga gracza 'Wielki Zarzadca zostal juz wybrany'): w projekcie instytucji gospodarczych GM wpisal Wielkiego Zarzadce Kamiennego Brzegu jako WAKAT - za lista wakatow w obsada…
+- [300-07-16] `dziennik`: NOC, KOMNATA NAMIESTNIKA (cd.) - SYMON poprawia szkic: (1) Wielki Zarzadca Kamiennego Brzegu juz wybrany (Brann Mokry, 05-30 - VOID wpisu GM, obsada poprawiona); (2) Korona sprzedaje kazdemu…

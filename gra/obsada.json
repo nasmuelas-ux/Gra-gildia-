@@ -467,6 +467,11 @@
     "kto": "WAKAT - kandydat RODWELL (krzeslo po rachunku u Gawena ~07-19)",
     "od": "urzad 300-07-12 (Krol, rzut 51); nazwa - slowo pana 07-12",
     "nota": "Prowadzi domene Korony (domena = Korona, rzut 59): lasy, futra, ziemia, zelazo, rzeki, natura, targ; dawny Dom Starkow jako reka w handlu. W Malej Radzie. Namiestnik - kierunek; Zarzadca - prowadzi; Skarbnik - liczy (jedna ksiega z rubrykami)."
+   },
+   "WIELKI ZARZADCA KAMIENNEGO BRZEGU": {
+    "kto": "BRANN MOKRY (starszy rybakow z Zatoki Kamieni; nie czyta - liczy na wezlach; pisarz mlody z brzegu)",
+    "od": "300-05-30",
+    "nota": "Mianowal KROL 05-30 (prerogatywa; wola Branna rzut 64 - TAK); kandydat Torrena (05-10). Warunki: mieszka we wsi przy lodziach; pisarz zapisuje, co on mowi. Prowadzi ludzi, polow, sol, sieci, spis; wojsko/palisada/straz - Corwin. TKALNIA SIECI KORONY - Gunna (zona Branna) z kobietami ze wsi (05-30); SOLARNIA KORONY na Kamiennym Brzegu (decyzja 05-21). Dopisany do obsady 07-16 (luka w spisie - wakat stal mimo nominacji)."
    }
   },
   "WINTERFELL": {
@@ -559,12 +564,6 @@
    "drabina": "LENNO",
    "pilnosc": "PYTANIE BEZ ODPOWIEDZI",
    "nota": "ustroj od 299-08 (jedno palenisko jeden glos, lawa z oboma glosami); Symon pytal, ktore wsie wybraly - odpowiedzi nie dostal."
-  },
-  {
-   "urzad": "WIELKI ZARZADCA KAMIENNEGO BRZEGU",
-   "drabina": "KORONA",
-   "pilnosc": "NAZWISKO OD NAMIESTNIKA",
-   "nota": "Ustanowiony 300-04-26 (Krol na wniosek Namiestnika). Gospodarczo-administracyjny: organizuje ziemie Korony w imieniu Krola (spis wsi i dymow, spichlerz, targ, droga, podatek w naturze). Odpowiada przed Krolem, melduje co kwartal. Krol: 'jeden liczy, drugi trzyma miecz i sad - zaden nie ma wszystkiego'."
   }
  ],
  "_nie_dotyczy": {

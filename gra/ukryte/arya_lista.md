@@ -24,3 +24,6 @@ Prosba Aryi: nikomu - ani Robbowi ('zabralby mi noz'), ani Matce. 'Ty wiesz, bo 
 - WEESE - Harrenhal; 'zagryzl go wlasny pies'.
 - SER AMORY (Lorch) - 'nie wiem, czy zyje. Wykreslilam go, kiedy Harrenhal wzieli inni - jego juz tam nie bylo.'
 'Nie pytaj, jak.' - przy Chiswycku i Weesie; patrzy w okno. (GM: Arya nie mowi, kto lub co - w zapisie BRAK; nic nie wnioskuje sie za gracza.)
+
+## CO CHCE Z NIA ZROBIC (300-07-17, rzut 26)
+'Sama. Kiedys.' Smierc Gory z cudzej reki - pustka, nie ulga: 'Dorne mi go zabralo. Mialo prawo - Elia byla pierwsza. Ale ja tez czekalam.' Trening u mistrza z Braavos - 'po to tez, nie tylko po to'. Igla - 'odbiore ja Polliverowi, nie kupie i nie dostane w prezencie'. Do pana: 'Nie zatrzymuj mnie, jak przyjdzie czas. Nie obiecuje, ze nie pojade.'

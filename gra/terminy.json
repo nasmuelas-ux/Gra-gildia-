@@ -9340,7 +9340,7 @@
   },
   {
    "data": "300-07-11",
-   "co": "DORZECZE - ROZKAZ KROLA TRIDENTU W WYKONANIU (rzut 99): (a) Edmure + Lyman licza garnizony i ludzi w 10 dni; (b) obwieszczenie na slupach (zakaz handlu z garnizonami i kwitow Lwa); (c) lordowie otaczaja garnizony bez szturmu; (d) DZIEN WYJSCIA 300-08-05, wolna droga na poludnie z bronia i chorągwiami. Odpowiedz Edmure'a (wykonanie) i reakcja garnizonow/Tywina - RZUTY przy wiesciach. ### DOPISEK KROLA 07-11 przed zmierzchem (rada Sansy): MAIDENPOOL OTOCZYC NAJPIERW - od razu, przed liczeniem i obwieszczeniem; droga z Maidenpool zamknieta - kazdy woz i oddzial przed wymiana zatrzymac i przeszukac, bez walki, chyba ze tamci zaczna; Lyman melduje krukiem.",
+   "co": "DORZECZE - ROZKAZ KROLA TRIDENTU W WYKONANIU (rzut 99): (a) Edmure + Lyman licza garnizony i ludzi w 10 dni; (b) obwieszczenie na slupach (zakaz handlu z garnizonami i kwitow Lwa); (c) lordowie otaczaja garnizony bez szturmu; (d) DZIEN WYJSCIA 300-08-05, wolna droga na poludnie z bronia i chorągwiami. Odpowiedz Edmure'a (wykonanie) i reakcja garnizonow/Tywina - RZUTY przy wiesciach. ### DOPISEK KROLA 07-11 przed zmierzchem (rada Sansy): MAIDENPOOL OTOCZYC NAJPIERW - od razu, przed liczeniem i obwieszczeniem; droga z Maidenpool zamknieta - kazdy woz i oddzial przed wymiana zatrzymac i przeszukac, bez walki, chyba ze tamci zaczna; Lyman melduje krukiem. ### 07-17 (zgoda Namiestnika, prosba Bryndena): WIESC O DNIU WYJSCIA (08-05) - pierwszy kruk/jezdziec z kancelarii Namiestnika takze do BRYNDENA w Przystani Wilka, tego samego dnia.",
    "kto": "KROL -> EDMURE (+ LYMAN liczy)",
    "kanal": "kruk Winterfell-Riverrun (o zmierzchu 07-11); wiesc z Riverrun krukiem",
    "wraca": "300-07-21",
@@ -9817,11 +9817,20 @@
   },
   {
    "data": "300-07-17",
-   "co": "PRZYSTAN WILKA - WAPNO NA GORNE PIETRO BASZTY (AKADEMIA) - KUPIC TERAZ (slowo Namiestnika 07-17 przy Krolu): Bors kupuje od Cerwynow (drozej) albo z barek BP - co szybciej; koszt z ksiegi trzech wspolwlascicieli (Korona 1/2, Cerwyn 1/4, Manderly 1/4), jak drewno na dach. KAMIEN - na Radzie Trzech (~07-25). Wlasny czlowiek (Bors, nadanie Namiestnika) - bez rzutu; kwota - z karty Borsa (zasada 43).",
+   "co": "PRZYSTAN WILKA - WAPNO NA GORNE PIETRO BASZTY (AKADEMIA) - KUPIC TERAZ (slowo Namiestnika 07-17 przy Krolu): Bors kupuje od Cerwynow (drozej) albo z barek BP - co szybciej; koszt z ksiegi trzech wspolwlascicieli (Korona 1/2, Cerwyn 1/4, Manderly 1/4), jak drewno na dach. KAMIEN - na Radzie Trzech (~07-25). Wlasny czlowiek (Bors, nadanie Namiestnika) - bez rzutu; kwota - z karty Borsa (zasada 43). ### 07-17: na RADE TRZECH (~07-25) takze POLIGON AKADEMII - ziemia pod miastem na marsz i przeprawe (czyja - Bors; zgoda - Rada Trzech). Plac - dziedziniec baszty (na dwunastu starczy).",
    "kto": "SYMON -> BORS",
    "kanal": "jezdziec/kruk Winterfell-Przystan Wilka (z Bryndenem przy powrocie albo goniec)",
    "wraca": "300-07-25",
    "zamyka": "wapno na placu budowy + kwota w karcie Borsa",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "AKADEMIA - PISARZ I BRON CWICZEBNA (zgoda Namiestnika 07-17, prosby Bryndena): (1) PISARZ do ksiegi akademii - wskazuje BERON z kancelarii (zasada 42), placi Kasa 3; jedzie do Przystani Wilka; (2) BRON CWICZEBNA I TARCZE z lzejszego kompletu zbrojowni Korony - wydaje ser Rodrik, ksieguje Gawen. Urzednicy - bez rzutu.",
+   "kto": "BERON (pisarz); SER RODRIK + GAWEN (bron)",
+   "kanal": "osobiscie, Winterfell -> Przystan Wilka",
+   "wraca": "300-07-25",
+   "zamyka": "pisarz w akademii + bron wydana",
    "status": "otwarte"
   }
  ],

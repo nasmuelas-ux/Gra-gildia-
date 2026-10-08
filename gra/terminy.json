@@ -9561,7 +9561,7 @@
    "kanal": "kruk Winterfell-Czarny Zamek -> poselstwo",
    "wraca": "300-07-16",
    "zamyka": "list wyslany wg odpowiedzi Mance'a",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-15 - list A reka Krola zapieczetowany (kruk do Czarnego Zamku po poludniu), z drugim listem Namiestnika (relacja); pismo do lordow - kruki 07-16 o swicie; rachunek chleba Cypla - do Orlanda."
   },
   {
    "data": "300-07-14",
@@ -9597,6 +9597,24 @@
    "kanal": "trakt Czarny Zamek-Winterfell (jezdziec)",
    "wraca": "300-07-25",
    "zamyka": "Dacey w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-15",
+   "co": "FERMENT PO PRZYJECIU DZIKICH (Krol 07-15): pismo do lordow konczy sie 'kto ma obawe, pisze do Namiestnika' - kancelaria Namiestnika zbiera listy i glosy (kto, co, skad), nie gasi; zestawienie na Mala Rade 07-26. Odzew lordow - RZUT przy pierwszych listach (~07-22).",
+   "kto": "SYMON (kancelaria Namiestnika)",
+   "kanal": "kruki lordow -> Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "zestawienie glosow na Mala Rade",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-15",
+   "co": "RELACJA ZZA MURU OD LUDZI MANCE'A (list Namiestnika 07-15): co widzieli - kto, gdzie, kiedy, ilu, jak sie poruszali, co zatrzymalo, czy umarli wstawali, co pali/tnie/nie dziala; spisane albo slowo w slowo poslowi, kazdy swiadek osobno. Spotkanie - przy drzewie na Cyplu w dniu przysiegi Mance'a (czlowiek Krola). Odpowiedz - RZUT przy wiesci.",
+   "kto": "MANCE RAYDER (przez poselstwo/Mur)",
+   "kanal": "kruk Winterfell-Czarny Zamek + poslaniec za Mur",
+   "wraca": "300-08-20",
+   "zamyka": "relacja na pismie albo z ust posla",
    "status": "otwarte"
   }
  ],

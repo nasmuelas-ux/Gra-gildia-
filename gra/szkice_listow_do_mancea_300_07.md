@@ -59,3 +59,15 @@ _Słowa Króla dla poselstwa Dacey (05-10): Cypel Morskiego Smoka; bez klękania
 # PISMO KORONY DO LORDÓW (tego samego dnia)
 
 > Postanowienie Wielkiej Rady wchodzi w życie. Mance Rayder przyjął słowa Króla. Wolni ludzie zza Muru siadają na Cyplu Morskiego Smoka z nadania Korony, każde ognisko po przysiędze przy drzewie. Droga prowadzi przez Zatokę Lodu, łodziami Mormontów i Korony. Dzień podamy, gdy będą łodzie. Łańcuch ognia, Kamienny Brzeg i Mur czuwają jak dotąd. Kto ma skargę albo obawę, pisze do Namiestnika.
+
+# DRUGI LIST, OD NAMIESTNIKA DO MANCE'A (300-07-15, po słowie Króla)
+
+> Symon Tally, Namiestnik Króla Północy, do Mance'a Raydera.
+>
+> Król pisze do ciebie sam. Ja piszę o jednej rzeczy, której nie ma w jego liście.
+>
+> Chcemy wiedzieć dokładnie, co wasi ludzie widzieli za Murem, i to nie z pieśni. Kto, gdzie, kiedy, ilu ich było, jak wyglądali, jak się poruszali, co ich zatrzymało, a co nie. Czy umarli wstawali i po jakim czasie. Co pali, co tnie, co nie działa. Spisz to albo każ powiedzieć mojemu posłowi słowo w słowo, każdemu, kto widział, osobno. Zapiszemy każde imię i każde zdanie, i nic nie poprawimy.
+>
+> Przy drzewie na Cyplu, w dniu twojej przysięgi, stanie człowiek Króla. Tam porozmawiamy twarzą w twarz.
+>
+> Symon Tally

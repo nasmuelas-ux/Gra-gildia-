@@ -13,11 +13,3 @@ Symon przyszedl bez pytania o nic. Ona, przy hafcie, nie podnoszac glowy: jedna 
 Symon dopowiada z wlasnej wiedzy (zapis 299: Barbrey nosi rane 30 lat - Willam Dustin poszedl na poludnie za Brandonem/Nedem i wrocil koscmi; DOMERIC Bolton chowal sie w Rills, kochala go jak wlasnego, 'polowa serca w tym grobie'; jej granica: 'nie robcie ze mnie wloczni na Dreadfort'). SANSA: o Domericu nie wiedziala. Odpowiedz wedle regul krzesla: 'To zmienia, jak na to patrze. Nie zmienia tego, co widzialam.' I jedno zdanie wlasne, jedyne, jakie dopuszcza: 'Ludzie, ktorzy razem nosza jednego zmarlego, nie potrzebuja sie lubic, zeby przepuszczac sie w drzwiach.' Wniosku nie stawia. Jesli zobaczy wiecej - powie; zamawiac nie wolno.
 Symon mowi jej szczerze: jej ojciec nie zauwazal krzywdy Dustinow i przez dlugi czas ta krzywda w lady Dustin rosla; ludzie w zalu sa zdolni do bardzo zlych rzeczy. SANSA - dlugo nic; potem: 'Ojciec widzial to, co mial przed soba. Barrowton bylo daleko, a on mial Winterfell i nas.' To nie jest obrona, tylko przyznanie. I pytanie, ktore jest jej wlasne, nie rozkaz i nie wniosek: 'Czy ktos od Starkow kiedykolwiek podziekowal jej za Willama? Nie Korona przy poborze - ktos od nas.' Zapis mowi: Korona przypominala sobie o Dustinach tylko przy poborze (299). Sansa nie proponuje, ze napisze - pyta.
 ⚑ ZAPORA MIEDZY KRZESLAMI (dodane 300-04-07 przez sama Sanse, przy przyjeciu jawnego Rejestru relacji): 'Co slysze jako ucho, nie trafia do ksiegi. Co pisze w ksiedze, nie jest uchem.' Jawny rejestr daje jej powod, by pytac ludzi otwarcie - i dokladnie dlatego nie wolno go mieszac z tym krzeslem.
-
----
-## ARYA - LISTA (300-07-17, powiedziana panu w cztery oczy, rzut 88; NIE NA PAPIER KORONY, NIKOMU)
-Mowi ja co noc jak modlitwe. Kolejnosc jej:
-Ser Gregor (dzis - skreslony; 'jedno imie mniej'), Dunsen, Polliver (ma Igle), Raff Slodki, Laskotek, Ogar, Ser Meryn, Ser Ilyn, Krolowa (Cersei), Joffrey.
-Rorge i Gryzacz - 'czasem'.
-Prosba Aryi: nikomu - ani Robbowi ('zabralby mi noz'), ani Matce. 'Ty wiesz, bo pytales wprost. Nikt nie pytal wprost.'
-(Statusy osob poza Gora - w zapisie BRAK; nic tu nie jest wiedza o swiecie, tylko jej lista.)

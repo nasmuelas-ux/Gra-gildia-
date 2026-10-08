@@ -9700,11 +9700,20 @@
   },
   {
    "data": "300-07-16",
-   "co": "TOWAR NIESPIENIEZONY KORONY - ROZBICIE 1205 (polecenie pana 07-16): Gawen (wlasny urzad) prosi HALA o liste KWITOW SKLADOWYCH KORONY w skladzie Domu: towar, ilosc, wycena po cenie ogloszonej, data przyjecia, ile zaliczki juz wyplacone (6/10), ile czeka (4/10); osobno TOWAR W DRODZE (co, skad, kiedy). Do tego: natura w komorach zamku - ksiega kasztelana (07-26); zboze w komorach - rezerwa, w korcach (Orland, spis na 07-31) - NIE liczone jako towar do sprzedazy. Urzednicy - bez rzutu.",
+   "co": "[ZMIENIONE 07-16 - pan doprecyzowal: nie naleznosci, tylko WOLNY TOWAR] TOWAR NIESPIENIEZONY KORONY - ROZBICIE 1205 (polecenie pana 07-16): Gawen (wlasny urzad) prosi HALA o liste KWITOW SKLADOWYCH KORONY w skladzie Domu: towar, ilosc, wycena po cenie ogloszonej, data przyjecia, ile zaliczki juz wyplacone (6/10), ile czeka (4/10); osobno TOWAR W DRODZE (co, skad, kiedy). Do tego: natura w komorach zamku - ksiega kasztelana (07-26); zboze w komorach - rezerwa, w korcach (Orland, spis na 07-31) - NIE liczone jako towar do sprzedazy. Urzednicy - bez rzutu.",
    "kto": "GAWEN -> HAL (kwity Korony); kasztelan; Orland",
    "kanal": "kruk Winterfell-Bialy Port (07-17 z pismami do lordow)",
    "wraca": "300-07-21",
    "zamyka": "kartka Gawena: towar Korony niespieniezony - pozycja po pozycji, z suma",
+   "status": "ZAMKNIETE 300-07-16 - zastapione przez SPIS WOLNEGO TOWARU (nizej); lista kwitow Hala wejdzie do kolumny 'przypisane do transakcji'."
+  },
+  {
+   "data": "300-07-16",
+   "co": "SPIS WOLNEGO TOWARU KORONY I DOMU STARKOW (polecenie pana 07-16): wszystko, co Korona i Dom Starkow maja W TOWARZE i SUROWCU (poza moneta), RODZAJ PO RODZAJU (skory, futra, welna, ryba, sol, drewno, tran i co jeszcze lezy), MIEJSCE PO MIEJSCU (komory Winterfell, sklady Korony w domenie, sklady Domu Starkow, kwity u Hala), w TRZECH KOLUMNACH: (A) przypisane do transakcji (kwit skladowy, kontrakt, zaplata), (B) do uzytku Korony (garnizon, Mur, Spichlerz, budowy, siewne - nietykalne), (C) WOLNE - ani A, ani B. Ilosc w mierze + wycena po cenie ogloszonej. Obsydian - osobna linia, kolumna B (Mur). Prowadzi GAWEN; kasztelan (komory zamku), RODWELL (Dom Starkow - w rachunku 07-19), Hal (lista kwitow Korony), Orland (zboze - tylko jako B). Urzednicy - bez rzutu; brak liczby w ksiedze - stwierdza sie, nie zgaduje (zasada 43). Na Mala Rade razem z jedna ksiega.",
+   "kto": "GAWEN (+ kasztelan, RODWELL, HAL, ORLAND)",
+   "kanal": "osobiscie, Winterfell; kruk do Hala 07-17",
+   "wraca": "300-07-26",
+   "zamyka": "spis na pismie w trzech kolumnach (A/B/C) z suma kolumny C",
    "status": "otwarte"
   }
  ],

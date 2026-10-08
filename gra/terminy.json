@@ -9634,6 +9634,15 @@
    "wraca": "300-07-20",
    "zamyka": "slowo Krola + pismo do lordow",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-15",
+   "co": "MALA OBECNOSC DOMU NA ZACHODZIE (zgoda pana 07-15, model Lucana: gra/model_malej_obecnosci_domu_300_07.md): HAL - kosztorys i kolejnosc; KANTOREK BARROWTON (czlowiek Domu z rodzina); ZNAKI: Torrhen's Square (Tallhart), Deepwood (Glover), Kamienny Brzeg (przy Corwinie), Dustinport (przy Donnelu). Wspolnicy znakow i zgoda lordow miejsca - RZUT przy odpowiedziach. Lucan z Halem w BP od 08-05 (razem z Lancuchem Zimowym). Willa czyta ksiegi, nie obsadza.",
+   "kto": "HAL (+ LUCAN)",
+   "kanal": "kruk Winterfell-Bialy Port; listy do lordow zachodu",
+   "wraca": "300-08-10",
+   "zamyka": "kosztorys Hala + pierwszy kantorek/znak uruchomiony",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

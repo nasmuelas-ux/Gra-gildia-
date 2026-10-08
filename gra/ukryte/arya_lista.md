@@ -18,3 +18,9 @@ Prosba Aryi: nikomu - ani Robbowi ('zabralby mi noz'), ani Matce. 'Ty wiesz, bo 
 - KROLOWA (Cersei) - Lady (wilczyca Sansy) i Ojciec w lochu.
 - JOFFREY - kazal sciac Ojca; pokazal Sansie glowe.
 - RORGE i GRYZACZ - 'czasem': z wozu Yorena, w lancuchach; wyciagnela ich z plonacej stodoly - 'byli zli, ale dalam im zyc, wiec nie wiem, czy moge ich chciec martwych'.
+
+## KOGO JUZ NIE MA NA LISCIE (slowa Aryi 300-07-17)
+- CHISWYCK - Harrenhal; 'spadl z muru'.
+- WEESE - Harrenhal; 'zagryzl go wlasny pies'.
+- SER AMORY (Lorch) - 'nie wiem, czy zyje. Wykreslilam go, kiedy Harrenhal wzieli inni - jego juz tam nie bylo.'
+'Nie pytaj, jak.' - przy Chiswycku i Weesie; patrzy w okno. (GM: Arya nie mowi, kto lub co - w zapisie BRAK; nic nie wnioskuje sie za gracza.)

@@ -218,4 +218,37 @@ Namiestnik wskazuje kierunek, Zarządca prowadzi, Skarbnik liczy (zapis 07-12).
 - Zamiast nowego krzesła Mistrza Dróg: **budowa** dróg idzie do nogi ziemi, a **ruch** po drogach do nogi handlu.
 
 ---
+
+## 8. CZY KORONA W OGÓLE MA HANDLOWAĆ? (pytanie pana, 07-16 noc)
+**Cele, które zostają na pewno:** własne warsztaty i zdolności, zarząd lennami Korony, zarząd dobrami koronnymi.
+
+### Przeciw własnemu handlowi (z zapisu)
+1. **Korona zarabia na cle, nie na handlu.** Gawen: *„Korona nie zarabia na lennikach daniną. Korona zarabia na nich cłem.”* (kalibracja danin 300-02). Każdy kupiec, którego Korona wypycha z rynku, to mniej cła. Sto handlujących obcych daje Koronie więcej niż jeden handlujący urząd.
+2. **Sędzia nie gra.** Korona trzyma taryfę, miarę, komory i wagę. Kiedy sama handluje przy tej wadze, każdy spór staje się sporem z Koroną.
+3. **Namiestnik ma Dom Handlowy.** Jeśli Korona handluje, ktoś powie, że pan robi to przeciw konkurencji. Jeśli nie handluje, ktoś powie, że trzyma ją słabą dla swojego Domu. Żadna z tych dróg nie jest czysta. Najczystsza jest ta, przy której **Korona sprzedaje jawnie wszystkim**.
+4. **Brak kapitału i ludzi.** Skrzynia ~1 820, zboże ~14 650 do zapłacenia w trzech ratach, pióra liczone na palcach. Handel wymaga towaru w obrocie i ryzyka (statek, cena). Skarb *„liczy i nie wydaje”*.
+5. **Wyman.** Handel morski to jego miasto i jego ród.
+
+### Za (z zapisu)
+1. **Danina przychodzi w naturze** (*„piwnice pełne, skrzynia cienka”*, Rodwell 299-08-28). Ktoś musi zamieniać towar na monetę. Jeden pośrednik oznacza zależność.
+2. **Towary strategiczne:** zboże w zimie, sól, sieci, żelazo. Rynek zawodzi właśnie wtedy, kiedy jest najbardziej potrzebny.
+3. **Własne warsztaty** muszą mieć zbyt na nadwyżkę.
+4. **Wieści z zagranicy** są potrzebne.
+
+### Odpowiedź szkicu: **NIE jako kupiec, TAK jako sprzedawca własnego i kupujący potrzebnego**
+> **Korona sprzedaje to, co ma, i kupuje to, czego potrzebuje. Cudzym towarem dla zysku nie handluje.**
+
+| Co | Tak / nie | Jak |
+|---|---|---|
+| **Warsztaty Korony** | **TAK** | wzór Branna (tkalnia, solarnia), w każdym okręgu według potrzeby |
+| **Zarząd dobrami koronnymi** | **TAK** | Zarządca Domeny + regionalni zarządcy (wariant D) |
+| **Zarząd lennami Korony** | **TAK, ale to inna robota** | lenna nadane przez Koronę to **rejestr nadań i powinności** (danina, służba, relewium), a nie gospodarka. Należy do **Kancelarii (rejestr) i Skarbnika (danina)**, nie do Zarządcy. |
+| **Sprzedaż** | **TAK, bez handlu** | **jawna licytacja** w składach i przy komorach Korony, cena ogłoszona, **dla każdego kupca**. Pośrednicy (Dom Tally i inni) wybierani przetargiem, **nigdy jeden**. |
+| **Zakupy** | **TAK** | przetarg według §2E: słup, pieczęcie, odbiorca, który nie kupował, Skarbnik płaci |
+| **Faktorie z własnym obrotem** | **NIE** | Korona nie kupuje po to, żeby sprzedać drożej |
+| **Za granicą** | **LEKKO** | zamiast misji z towarem **jeden agent Korony** w mieście: ceny, kontakty, wieści do kancelarii. **Bez składu i bez kapitału w ryzyku.** Misja z towarem dopiero wtedy, gdy Korona będzie miała nadwyżkę z warsztatów, której nie sprzeda w kraju. |
+
+**Co to zmienia we wcześniejszych wariantach:** noga handlu (C) się kurczy. Zamiast Kompanii Handlowej powstaje **Urząd Sprzedaży i Zakupów Korony**: licytacje, przetargi, agenci za granicą. Licytacje prowadzi Zarządca, przetargi Skarbnik według jednej reguły.
+
+---
 *Status: SZKIC. Polecenie dla Gawena z 07-16 („reforma placówek od zaraz”) jest **WSTRZYMANE** słowem pana: najpierw projekt. Spis wolnego towaru (A/B/C) idzie dalej, bo to wiedza, nie wdrożenie.*

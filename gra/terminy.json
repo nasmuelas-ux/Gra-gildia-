@@ -9250,7 +9250,7 @@
   },
   {
    "data": "300-07-11",
-   "co": "SPICHLERZ - RACHUNEK: CYPEL, MUR, WOJNA (ROK+) NA PIERWSZA ZIME DZIKICH (rada Lucana, zgoda pana 07-11): ile korcy miesiecznie dla 22 tys. (i dla mniejszej liczby, jesli przyjdzie mniej), skad (zboze Tallharta, Spichlerz, kontrakt z Reach), ile do zniw 301; obok - ile Polnoc moze dac bez ruszania siewnego. Liczy SPICHLERZ (Orland, Mistrz Zapasow) z Gawenem. Urzednicy Korony - bez rzutu. ROZSZERZONE 07-11 (pan): + ZBOZE NA MOBILIZACJE I WYZYWIENIE WOJNY na ponad rok naprzod (ile korcy na ile ludzi pod bronia, z czego, bez ruszania siewnego) + WYZYWIENIE MURU (Straz ~524 + przybywajacy) - wszystko w jednym rachunku obok siebie: Cypel / Mur / wojna / zapas Polnocy. ### 07-16: ZLECONE - pismo kancelarii Namiestnika (Beron, pieczec Namiestnika) do ORLANDA, kopia GAWEN; kruk 07-16 po poludniu na Fose. Odpowiedz: rachunek na pismie do 07-30. ### 07-16 DOPISEK PANA: piata kolumna - PENTOS: RESZTA (to, czego nie pokryje Tallhart, Spichlerz i Reach) kupowana w Pentos i wieziona STATKAMI. Orland liczy ILOSC brakujaca w korcach; CENE I FRACHT podaje Dom (placowka Pentos - Obaro, ksiega przez kantor Nesty) - do 07-30 nie zdazy, wiec kolumna bez ceny, cena dopisywana po odpowiedzi.",
+   "co": "SPICHLERZ - RACHUNEK: CYPEL, MUR, WOJNA (ROK+) NA PIERWSZA ZIME DZIKICH (rada Lucana, zgoda pana 07-11): ile korcy miesiecznie dla 22 tys. (i dla mniejszej liczby, jesli przyjdzie mniej), skad (zboze Tallharta, Spichlerz, kontrakt z Reach), ile do zniw 301; obok - ile Polnoc moze dac bez ruszania siewnego. Liczy SPICHLERZ (Orland, Mistrz Zapasow) z Gawenem. Urzednicy Korony - bez rzutu. ROZSZERZONE 07-11 (pan): + ZBOZE NA MOBILIZACJE I WYZYWIENIE WOJNY na ponad rok naprzod (ile korcy na ile ludzi pod bronia, z czego, bez ruszania siewnego) + WYZYWIENIE MURU (Straz ~524 + przybywajacy) - wszystko w jednym rachunku obok siebie: Cypel / Mur / wojna / zapas Polnocy. ### 07-16: ZLECONE - pismo kancelarii Namiestnika (Beron, pieczec Namiestnika) do ORLANDA, kopia GAWEN; kruk 07-16 po poludniu na Fose. Odpowiedz: rachunek na pismie do 07-30. ### 07-16 DOPISEK PANA: piata kolumna - PENTOS: RESZTA (to, czego nie pokryje Tallhart, Spichlerz i Reach) kupowana w Pentos i wieziona STATKAMI. Orland liczy ILOSC brakujaca w korcach; CENE I FRACHT podaje Dom (placowka Pentos - Obaro, ksiega przez kantor Nesty) - do 07-30 nie zdazy, wiec kolumna bez ceny, cena dopisywana po odpowiedzi. ### 07-16: cena i fracht z Pentos - zapytanie idzie LINIA DOMU (pan -> Hal -> Nesta -> Obaro), osobny termin.",
    "kto": "KANCELARIA NAMIESTNIKA -> ORLAND (Spichlerz) + GAWEN",
    "kanal": "kruk Winterfell-Fosa (pismo kancelarii Namiestnika)",
    "wraca": "300-07-30",
@@ -9651,6 +9651,15 @@
    "kanal": "kruk Winterfell-Blizniaki",
    "wraca": "300-07-25",
    "zamyka": "pismo wyslane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-16",
+   "co": "PENTOS - CENA I FRACHT ZBOZA DLA KORONY (slowo pana 07-16, piata kolumna rachunku Orlanda): zapytanie LINIA DOMU wg ustalen 05-25 (gra/zakupy_zboza_lato_300.md): pan -> HAL (Kasa 1, wyladunek w Bialym Porcie) -> NESTA (kantor Braavos, nad ksiega Pentos) -> OBARO (placowka Pentos). Pytanie: cena za korzec po zniwach Poludnia (VIII-IX), fracht do Bialego Portu za korzec, ile da sie kupic i w jakich partiach, termin dostawy przed lodem (X), czy kupiec przyjmie czesc towarem (futra, drewno, tran, obsydian). ZASADY Z ZAPISU: Dom wylacznie POSREDNIKIEM z kontraktem i prowizja, nie kupuje na wlasny rachunek (mur trzech kas); NIE przez dom Orrello; w liscie TYLKO kierunek Pentos - calosci nie widzi nikt poza Gawenem i Krolem. To zapytanie, NIE zakup - decyzja o zakupie nalezy do Krola. Szacunek Gawena 06-07 (E): ~20 jeleni + fracht ~8 za korzec. Odpowiedz przez Hala - E ~09 (statek BP-Braavos-Pentos i z powrotem).",
+   "kto": "SYMON -> HAL -> NESTA -> OBARO",
+   "kanal": "kruk Winterfell-Bialy Port (07-16 po poludniu), dalej statek Domu",
+   "wraca": "300-09-10",
+   "zamyka": "cena i fracht z Pentos na pismie od Hala -> do kolumny 5 rachunku Orlanda i do Gawena",
    "status": "otwarte"
   }
  ],

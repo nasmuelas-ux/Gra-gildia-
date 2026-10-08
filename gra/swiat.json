@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 7,
-  "dzien": 14,
+  "dzien": 15,
   "era": "AC"
  },
  "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 9 (300-07-14) - JEDNA KONSEKWENCJA: zimny deszcz od switu, drogi rozmyte po wczorajszej burzy - jezdzcy jada o pol dnia wolniej; kruki lataja.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 33 (300-07-15) - pochmurno, chlodny wiatr z polnocy, bez deszczu; drogi obsychaja.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

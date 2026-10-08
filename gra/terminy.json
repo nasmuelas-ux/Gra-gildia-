@@ -9691,10 +9691,10 @@
   },
   {
    "data": "300-07-16",
-   "co": "AKADEMIA - NARADA BRYNDENA Z KROLEM I SER RODRIKIEM (wezwanie 07-13): program akademii, setnicy z weteranow (lista Rodrika/Osrica), kurs. Pan - jesli zechce.",
+   "co": "AKADEMIA - NARADA BRYNDENA Z KROLEM I SER RODRIKIEM (wezwanie 07-13): program akademii, setnicy z weteranow (lista Rodrika/Osrica), kurs. Pan - jesli zechce. ### 07-17 RANO: narada w solarze (Krol, Rodrik, Brynden; Namiestnik doszedl z projektem). Brynden spisuje program i kurs setnikow na pismie - przynosi na Mala Rade 07-26.",
    "kto": "BRYNDEN + KROL + SER RODRIK (+ OSRIC)",
    "kanal": "osobiscie, Winterfell",
-   "wraca": "300-07-17",
+   "wraca": "300-07-26",
    "zamyka": "program i kurs ustalone albo wiadomo, czemu nie",
    "status": "otwarte"
   },
@@ -9759,6 +9759,15 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-17",
    "zamyka": "slowo Krola",
+   "status": "ZAMKNIETE 300-07-17 - RZUT 5: Krol nie rozstrzyga dzis; odsyla na MALA RADE 07-26 punkt po punkcie, kazdy z kosztem (Gawen); konsulaty w imieniu lordow i moneta z Essos - na WIELKA RADE (dotykaja lordow). Nic nie odrzucone, nic nie przyjete."
+  },
+  {
+   "data": "300-07-17",
+   "co": "MALA RADA 07-26 - POLITYKA GOSPODARCZA KORONY PUNKT PO PUNKCIE (Krol 07-17, rzut 5): kazdy punkt szkicu v3 osobno, z KOSZTEM na pismie od GAWENA (Faktor Krolewski i prowizja; konsulaty Braavos/Riverrun; lacznosc i posterunki; dotacje; Korpus Podopiecznych; trzy nowe miejsca w Radzie). Co dotyka lordow (konsulaty w imieniu wszystkich lordow, zakaz monety z Essos) - przygotowac pod WIELKA RADE. Przy kazdym punkcie - osobne slowo Krola (rzut) na Radzie.",
+   "kto": "SYMON (przedklada) ; GAWEN (koszty) -> MALA RADA -> KROL",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "punkty rozpatrzone na Radzie, kazdy ze slowem Krola",
    "status": "otwarte"
   }
  ],

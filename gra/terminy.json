@@ -4230,7 +4230,7 @@
    "kanal": "list do Dorne przez Neste (Braavos) - ~86 dni w obie strony",
    "wraca": "300-07-17",
    "zamyka": "odpowiedz z Dorne (rzut) albo cisza",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-17 - RZUT 82: list Dorana (reka maestra, pieczec Martellow, dopisek Oberyna). (1) slowo Oberyna stoi - 'Dorne nie podniesie reki na Polnoc'; (2) GORA NIE ZYJE - sprawiedliwosc dla Elii wymierzona w Slonecznej Wloczni, bez szczegolow; (3) DOM HANDLOWY TALLY - TAK, ale w DESKACH (port u ujscia Zielonej Krwi), nie w Slonecznej Wloczni; pod prawem Dorne i z ich clem. Kanal przez Neste dziala."
   },
   {
    "data": "300-04-22",
@@ -9741,6 +9741,24 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-26",
    "zamyka": "pan zleca przeglad albo odklada",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "DORNE - DOM TALLY W DESKACH (zgoda Dorana 07-17, rzut 82): czy i kiedy Dom otwiera placowke/znak w Deskach (Plankytown) - sprawa DOMU (Hal + Nesta), pod prawem i clem Dorne. Do slowa pana.",
+   "kto": "SYMON -> HAL + NESTA",
+   "kanal": "kruk Winterfell-Bialy Port; Nesta (Braavos)",
+   "wraca": "300-08-15",
+   "zamyka": "pan postanawia: otwieramy / pozniej / nie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-17",
+   "co": "KROL - PRZEDLOZENIE SZKICU v3 POLITYKI GOSPODARCZEJ KORONY (zamiar pana 07-16 wieczorem: 'jutro chce przedstawic to krolowi'): gra/polityka_gospodarcza_korony_v3_300_07.md. Prerogatywy z par. 5 - RZUT przy przedlozeniu (jedna sprawa = jeden rzut na calosc albo osobno na punkty - wedle tego, jak pan przedlozy).",
+   "kto": "SYMON -> KROL",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-07-17",
+   "zamyka": "slowo Krola",
    "status": "otwarte"
   }
  ],

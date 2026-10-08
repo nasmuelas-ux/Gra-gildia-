@@ -37,3 +37,25 @@ _Słowa Króla dla poselstwa Dacey (05-10): Cypel Morskiego Smoka; bez klękania
 
 ## UWAGA LUCANA
 „Warunek pracy i towaru jest dobry. Wolni ludzie nie lubią darów, bo dar to smycz. Praca to umowa. Napisałbym go w liście jako umowę, nie jako cenę.”
+
+---
+
+# LIST KRÓLA DO MANCE'A, WERSJA OSTATECZNA (ręka Króla, 300-07-15, przed pieczęcią)
+
+> Robb ze Starków, Król Północy i Tridentu, do Mance'a Raydera, którego wolni ludzie zwą królem za Murem.
+>
+> Twoje słowo doszło przez lady Dacey Mormont. Przyjmuję je tak, jak je dałeś: całe.
+>
+> Cypel Morskiego Smoka jest moją ziemią, a wy siadacie na niej z mojego nadania. Każde ognisko przysięga osobno, przy drzewie, nie klęcząc. Kto nie przysięgnie, nie siada. Przeciw Innym stoimy razem. Najazdów nie będzie ani z twojej strony, ani z mojej.
+>
+> Dobrze, że chcesz stanąć przy drzewie pierwszy. Ja też tak bym zrobił.
+>
+> Chleb na pierwszą zimę dam za pracę i towar, jak sąsiad sąsiadowi. To umowa, nie danina. Co za co, ustalimy na miejscu, z tymi, którzy znają Cypel.
+>
+> Łodzie: Mormontowie i mój admirał Torren. Kiedy będą gotowe, mój poseł przyniesie ci dzień i miejsce. Nie wcześniej, bo nie obiecuję łodzi, których nie widziałem.
+>
+> Robb Stark
+
+# PISMO KORONY DO LORDÓW (tego samego dnia)
+
+> Postanowienie Wielkiej Rady wchodzi w życie. Mance Rayder przyjął słowa Króla. Wolni ludzie zza Muru siadają na Cyplu Morskiego Smoka z nadania Korony, każde ognisko po przysiędze przy drzewie. Droga prowadzi przez Zatokę Lodu, łodziami Mormontów i Korony. Dzień podamy, gdy będą łodzie. Łańcuch ognia, Kamienny Brzeg i Mur czuwają jak dotąd. Kto ma skargę albo obawę, pisze do Namiestnika.

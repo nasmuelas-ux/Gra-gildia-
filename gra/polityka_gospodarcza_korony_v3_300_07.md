@@ -258,9 +258,9 @@
       - **Illyrio czeka na pierwszą wiadomość o drewnie** (02-16, 03-12). Już w Pentos powiedział: *„pierwszym kupcem na tej liście jestem ja”* (299-12-30).
       - Korona może do niego wrócić **od razu**, bez czekania na Faktora Królewskiego i na Wielki Targ.
       - **Zasady z zapisu:**
-        - **zakaz wyłączności** (02-07): żaden obcy faktor nie dostaje wyłączności;
+        - **zakaz wyłączności** (02-07), **doprecyzowanie pana 07-16:** Korona **może sprzedać całą partię jednemu kupcowi**, ale **nikomu nie daje wyłączności na stałe**;
         - **drewno ładuje się przy wodzie** (Biały Port, Przystań Wilka, Biały Nóż), bo wzięte w głębi lądu to *„darowizna, którą sami sobie robimy”*;
         - drewno Korony sprzedaje się zorganizowane przez Mistrza Handlu (Wyman), po cenie ogłoszonej.
       - *Do ustalenia:* ile drewna Korona ma albo może dać i skąd: lasy domeny, Wilczy Las. Ilość wyjdzie ze spisu A/B/C, ale wyrąb idzie na zamówienie, więc drewno nie musi już leżeć.
-      - Linia drewna **Domu Tally** do Pentos (Hal, Obaro) jest **osobna**. Obie mogą sprzedawać, bo wyłączności nie ma nikt.
+      - Linia drewna **Domu Tally** do Pentos (Hal, Obaro) jest **osobna**. Obie mogą sprzedawać, bo nikt nie ma wyłączności na stałe.
     - *Uwaga:* **Obaro** (placówka Domu Tally w Pentos) może kupować jak każdy, ale **nie jest kanałem Korony** (mur trzech kas). Kanałem jest list Króla i ogłoszenie.

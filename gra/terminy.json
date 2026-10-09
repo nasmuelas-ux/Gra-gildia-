@@ -6057,7 +6057,7 @@
    "kanal": "trakt Dorzecze-Fosa-Winterfell",
    "wraca": "300-07-21",
    "zamyka": "kowale w Winterfell",
-   "status": "otwarte - 07-20 rano: kolumna przy Gosciencu, w Winterfell po poludniu (rzut 52). 07-20 (rzut 44): NIE DZIS - ulewa i bloto; kolumna nocuje w Goscincu; jezdziec z kolumny u bramy wieczorem; przyjazd 07-21 przed poludniem."
+   "status": "zamkniete 300-07-21: KOWALE W WINTERFELL przed poludniem (pieciu z Gendrym, dwaj dymarze, gornik; prowadzil czlowiek ser Robina). Przywital NAMIESTNIK na dziedzincu. Kuznia zamkowa: siedmiu przy dwoch paleniskach do rozbudowy (~08-05) - najstarszy: pierwsze dni stawiaja nowe paleniska sami. Dymarze i gornik - do Wilczego Lasu po dniu odpoczynku (Grim od Dymarki). Nikt nie mowi Gendry'emu o Aryi."
   },
   {
    "data": "300-05-23",
@@ -10236,6 +10236,15 @@
    "kanal": "na miejscu / kruki do lordow",
    "wraca": "300-07-24",
    "zamyka": "po odpowiedzi Wymana: decyzja czy i jak ruszac",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "KOWALE Z HARRENHALU - DYMARZE I GORNIK DO WILCZEGO LASU (do Grima od Dymarki; dymarki Dolny Bor / Czerwony Strumien / Smolna Polana): wyjazd po dniu odpoczynku ~07-23, z wozem Korony; w kuzni zamkowej - pieciu kowali przy rozbudowie do 5 stanowisk (~08-05).",
+   "kto": "ORWYL + kasztelan (woz, przewodnik)",
+   "kanal": "na miejscu",
+   "wraca": "300-07-23",
+   "zamyka": "dymarze i gornik w drodze do Wilczego Lasu",
    "status": "otwarte"
   }
  ],

@@ -10650,6 +10650,15 @@
    "kanal": "kruk Krola do Riverrun",
    "wraca": "300-07-26",
    "zamyka": "slowo Krola: pozyczka tak/nie i na jakich warunkach",
+   "status": "zamkniete 300-07-26 MALA RADA (Krol, rzut 83): TAK - zboze dla strazy Edmure'a przy garnizonach idzie PRZEZ KOMPANIE POLNOC-DORZECZE NA UDZIAL EDMURE'A (zrodla Reach/Mallister), uzupelnienie z zapasu Korony do zniw Tridentu; ILOSC - GAWEN szacuje (ludzie przy garnizonach x ~do 08-05+). List Krola: PRZEPROSINY za poprawke 07-12 + 'pomoc dziala w obie strony' (zboze Tridentu dla Polnocy po zniwach - B9). Kruk dzis."
+  },
+  {
+   "data": "300-07-26",
+   "co": "ZBOZE DLA STRAZY EDMURE'A (Mala Rada 07-26): Gawen szacuje ilosc (ludzie przy Maidenpool/Darry/Rubinowym Brodzie do wyjscia garnizonow); Kompania - na udzial Edmure'a; Korona - uzupelnienie z zapasu; kwatermistrze Rodrika pilnuja rozdzialu. Odzew Edmure'a - RZUT.",
+   "kto": "GAWEN + Kompania (Lyman) ; KROL -> EDMURE",
+   "kanal": "kruk Winterfell-Riverrun",
+   "wraca": "300-08-02",
+   "zamyka": "pierwszy transport u strazy + odzew Edmure'a (rzut)",
    "status": "otwarte"
   }
  ],

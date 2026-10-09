@@ -10299,7 +10299,7 @@
    "kanal": "Winterfell, osobiscie",
    "wraca": "300-07-24",
    "zamyka": "probka obejrzana, ilosc i cena w ksiedze Skarbu i atelier",
-   "status": "otwarte"
+   "status": "otwarte ### 07-22 pan: probke oglada MIRA (stodola kasztelana, z pisarzem Skarbu) - wynik do 07-24."
   },
   {
    "data": "300-07-22",
@@ -10335,7 +10335,7 @@
    "kanal": "placowka Domu Czarny Zamek",
    "wraca": "300-07-26",
    "zamyka": "slowo pana; drewno zamowione u placowki",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-22: SLOWO PANA - (a) DREWNO NA ZIME do wiezy maestera: zamowione przez placowke Domu na Murze, placi Dom (Kasa 1; Hal ksieguje); (b) DO AEMONA JEDZIE PAN SAM - po powrocie Krola ze Skagos albo wczesniej. Odpis do Aemona przez placowke: 'Przyjade sam.'"
   },
   {
    "data": "300-07-22",
@@ -10380,6 +10380,24 @@
    "kanal": "kruk Winterfell-Fosa (07-22 po poludniu); odpowiedz w zbiorczym",
    "wraca": "300-07-28",
    "zamyka": "lista kandydatow u pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "DREWNO NA ZIME DO WIEZY MAESTERA AEMONA (Czarny Zamek) - placowka Domu kupuje i dostarcza przed zima; Dom placi (Kasa 1), Hal ksieguje. Wlasni - bez rzutu.",
+   "kto": "SYMON -> placowka Domu (Czarny Zamek) ; HAL (ksiega)",
+   "kanal": "kruk Domu Winterfell-Czarny Zamek (07-22 po poludniu)",
+   "wraca": "300-08-10",
+   "zamyka": "drewno w wiezy maestera (meldunek placowki)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "PAN JEDZIE DO AEMONA NA CZARNY ZAMEK (wysluchac ustnie 'tego, czego nie ma w ksiegach' - list Aemona 07-22). Termin: PO POWROCIE KROLA ZE SKAGOS albo wczesniej (slowo pana). Z ZAPISU: Winterfell-Mur ~12-14 dni ladem; Krol wyrusza 08-05 (zagle z BP 08-12), powrot - nieustalony (E: IX); Namiestnik trzyma Winterfell pod nieobecnosc Krola. Aemon - ~100 lat, goraczka wraca (07-19), spada (07-22). Data i droga - do slowa pana.",
+   "kto": "SYMON (+ przyboczna)",
+   "kanal": "trakt Krolewski na polnoc / morze do Wschodniej Strazy",
+   "wraca": "300-08-05",
+   "zamyka": "data wyjazdu ustalona",
    "status": "otwarte"
   }
  ],

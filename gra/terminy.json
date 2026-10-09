@@ -9480,7 +9480,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-26",
    "zamyka": "kartka Gawena u Krola, podpis",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-26: kartka Gawena przyjeta - jedna ksiega Korony z rubrykami (domena, Skarb, dawny Dom Starkow)."
   },
   {
    "data": "300-07-12",
@@ -9489,7 +9489,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-26",
    "zamyka": "posiedzenie odbyte, protokol",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-26: odbyte (protokol Berona)."
   },
   {
    "data": "300-07-12",
@@ -9732,7 +9732,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-26",
    "zamyka": "slowo Krola (rzut) - tak / nie / pozniej",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-26 (rzut 21): konsulat RIVERRUN - TAK; BRAAVOS - nie teraz; weksel poswiadczany i umowa z bankiem - odlozone."
   },
   {
    "data": "300-07-16",
@@ -9768,7 +9768,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-26",
    "zamyka": "punkty rozpatrzone na Radzie, kazdy ze slowem Krola",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-26: rozpatrzone punkt po punkcie - gra/polityka_gospodarcza_korony_v3_300_07.md par.10."
   },
   {
    "data": "300-07-17",
@@ -9795,7 +9795,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-26",
    "zamyka": "trzech kandydatow przedlozonych",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-26 (rzut 41): urzad TAK - najpierw TYLKO BIALY PORT (Torsen ~07-30); Barrowton i Cailin - po roku proby w BP (szukanie Hala i Garricka - do bazy, bez nominacji)."
   },
   {
    "data": "300-07-17",
@@ -9975,7 +9975,7 @@
    "kanal": "Winterfell / Zimowe Miasto",
    "wraca": "300-07-26",
    "zamyka": "decyzja Krola + termin pierwszego targu",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-26 (rzut 39): czynsz do wyboru TAK - w 300 tylko okreg I na probe, po zniwach; jeden Wielki Targ Rolniczy w ZM po zniwach; miasto - plac i waga; Korona nie kupuje."
   },
   {
    "data": "300-07-19",
@@ -10668,6 +10668,33 @@
    "kanal": "Winterfell",
    "wraca": "300-09-01",
    "zamyka": "Edric zaprzysiezony i w radzie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "KONSULAT KORONY W RIVERRUN (Mala Rada 07-26, rzut 21 - Riverrun tak): kto (konsul - kancelaria misji), gdzie (przy Edmurze), koszt - Gawen; list Krola do Edmure'a.",
+   "kto": "KROL ; SYMON (kandydat) ; GAWEN",
+   "kanal": "kruk Riverrun",
+   "wraca": "300-08-10",
+   "zamyka": "konsul wskazany, zgoda Edmure'a (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "GLEBOKORZEN - SLUZBA I NAUKA (Mala Rada 07-26, rzut 36): Theomore pisze tekst do karty (par.VIII/IX); pytanie do Cytadeli, czy uzna lancuchy Glebokorzenia z rodzinami (nauka) - odpowiedz przed podpisem Krola. Wola Cytadeli - RZUT.",
+   "kto": "THEOMORE ; LUWIN (Cytadela)",
+   "kanal": "kruk BP / lancuch maesterski",
+   "wraca": "300-09-01",
+   "zamyka": "tekst Theomore'a + odpowiedz Cytadeli (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "LACZNOSC I INFRASTRUKTURA - DWA NOWE MIEJSCA W MALEJ RADZIE (rzut 86): kandydaci z uczniow Glebokorzenia (wskazuje Theomore, zasada 42) - do Rady przez Mistrza Nauki (Luwin), poki nie dojrzeja.",
+   "kto": "THEOMORE -> LUWIN -> KROL",
+   "kanal": "kruk BP",
+   "wraca": "300-08-15",
+   "zamyka": "dwa nazwiska u Krola",
    "status": "otwarte"
   }
  ],

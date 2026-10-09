@@ -302,3 +302,18 @@
 - kto prowadzi pobór na co dzień: **Zarządca Domeny (WAKAT)**, do tego czasu pisarz Skarbu przy kasztelanie;
 - terminy targów: po żniwach? Najpierw próbnie, na jednym poborze ze wsiami najbliżej targu (Gawen);
 - kto „przyjmuje towary” na targu: kupcy na wolnym targu, a Korona i miasto nie kupują na własny rachunek (Z4). Miasto daje plac, wagę i ład. **Do potwierdzenia słowem pana.**
+
+---
+## 10. MAŁA RADA 300-07-26: ROZSTRZYGNIĘCIA KRÓLA, PUNKT PO PUNKCIE (§5)
+| # | punkt | rzut | słowo Króla |
+|---|---|---|---|
+| 1 | cel i zasady §0–§2 | 47 | **PRZYJĘTE** jako polityka Korony |
+| 2 | trzy nowe miejsca w Radzie | 86 | **TAK.** **Łączność** i **infrastruktura** to wakaty. Kandydaci są z uczniów Theomore'a i z Radą rozmawiają przez Mistrza Nauki, dopóki nie dojrzeją. **Edukacja: Luwin jako MISTRZ NAUKI** |
+| 3 | Faktor Królewski | 41 | Urząd **TAK**: roczna nominacja, prowizja, pieniądz nie przechodzi przez faktora. **NA POCZĄTEK TYLKO BIAŁY PORT** (rozmowa z Torsenem ~07-30). Barrowton i Cailin dopiero po roku próby w BP |
+| 4 | prawo składu dla Zimowego Miasta | 18 | **NIE.** *„Zimowe Miasto ma targi, nie skład. Skład odebrałby ruch Fosie, Barrowton i Białemu Portowi.”* |
+| 5 | misje i konsulaty, weksle | 21 | **Riverrun TAK** (sojusznik, tanio). **Braavos NIE TERAZ** (koszt i deklaracja wobec Banku). Weksel poświadczany i umowa z bankiem odłożone razem z Braavos |
+| 6 | zakaz monety z Essos | 18 | **NIE.** *„Nie zamknę portu przed srebrem, którego nam brakuje.”* Wymiana przy komorach jest **dobrowolna** (kantory) |
+| 7 | Głębokorzeń: służba i nauka | 36 | **W zasadzie TAK.** Słowa pisze Theomore. Ryzyko, że Cytadela nie uzna łańcuchów z rodzinami. Król chce znać jej odpowiedź, zanim podpisze |
+| 9 | czynsz domeny w monecie, Wielki Targ Rolniczy | 39 | Czynsz **do wyboru** (moneta albo natura ze słupa) **TAK**, ale w tym roku **tylko okręg I, na próbę, po żniwach**. **Jeden Wielki Targ Rolniczy w Zimowym Mieście po żniwach.** Miasto daje plac i wagę, Korona nie kupuje |
+| — | Zarządca Domeny | 29 | Edric Pług, obejmuje po żniwach |
+| — | jedna księga Korony | (07-12, 59) | Kartka Gawena przyjęta: jedna księga z rubrykami (domena, Skarb, dawny Dom Starków) |

@@ -3253,9 +3253,9 @@
    "co": "SPOR: HORNWOOD (lady Donella za lorda Larence'a) / DREADFORT - wyrab drewna na granicy lasow. U Justycjariusza (Cerwyn). Tryb: NAJPIERW MEDIACJA, potem rozstrzygniecie. Warunek Namiestnika: KTOS MUSI TO ZMIERZYC przed jakimkolwiek slowem o zaplacie. ### 05-18 DECYZJA PANA: MIERZYC SZYBKO, obie strony obserwuja (tryb 04-02). Jezdziec za Cerwynem 05-19, kruk do Dreadfortu 05-19. ### 06-12: pomiar trwa dzis na granicy; wiesc do Winterfell ~06-15, do pana na Fosie ~06-18. ### 06-18 (Fosa): POMIAR 06-12 ODBYTY (rzut 30): Cerwyn zmierzyl od obu kamieni, pas sporny wykazany na mapie pisarza rewizji; HALT SZARY (Dreadfort) nie przylozyl pieczeci - bez dwoch pieczeci nie ma ugody. Cerwyn WSTRZYMAL WYRAB w pasie spornym obu stronom i wzywa Donelle/Larence'a i czlowieka Roose'a na mediacje w Winterfell po ratyfikacji (~07-02). ### 07-02: mediacja w WINTERFELL (Cerwyn, Donella/Larence, czlowiek Roose'a) - pan na miejscu od ~07-08; odczyt tam. ### 07-07 (zamek Cerwyn, solar, bez pisarza): Cerwyn wie od swiadka (ustnie, nocą 06-12), ze stary kamien Dreadfortu PRZESUNIETO (~10 lat temu) - swiadek nie zezna. PAN: sprawdzic dowody bez swiadka (drzewa graniczne - uwaga: wyrab w pasie, mogly pasc - pnie tez niosa naciecia; stare miejsce kamienia; ksiega nadan Winterfell). CERWYN: mediacje OTWIERA w Winterfell ~07-10, wysluchuje stron, ORZECZENIE ODRACZA do wynikow z terenu i archiwum. ### 07-16: dowody terenu Cleya (rzut 98) - mocne; orzeczenie Cerwyna po powrocie Cleya (~07-20). ### 07-16 ROZKAZ NAMIESTNIKA (pismo, pieczec Namiestnika; odpis Cerwynowi i do ksiegi kancelarii): CLEY ZAWRACA - oznaczyc granice SLUPAMI KORONNYMI wedlug LINII DRZEW (siedem drzew + stare miejsce kamienia), przy swiadku z Hornwoodu (lesniczy Hornwoodu - z urzedu, bez imienia), DO OSTATECZNEGO ROZSTRZYGNIECIA (orzeczenie - Cerwyn); ZAKAZ RUSZANIA slupow i linii. Jesli patrzy ktos z Dreadfortu - pokazac mu pismo. To srodek zabezpieczajacy, NIE wyrok. Jezdziec wraca dzis/jutro rano, spotyka Cleya w drodze (~07-17); oznaczenie ~07-19/20; Cley w Winterfell ~07-22/23 (E); orzeczenie Cerwyna ~07-24 (E). ### 07-16 (Krol, RZUT 60): OBSTAWA OZNACZENIA - DZIESIECIU JEZDZCOW STARKOW (garnizon Winterfell, choragiew wilka; obsadza ser Rodrik - Pierwszy Miecz) zamiast ludzi pana; jada z jezdzcem Cerwynow o swicie 07-17; stoja przy Cleyu do konca oznaczenia, wracaja z nim (~07-22/23). Warunek Krola: nikt nie dobywa pierwszy; pismo pokazuje sie, nie wymachuje mieczem. Czterech z oddzialu I - ODWOLANE (zostaja przy panu). Dagon - BEZ ZMIAN (ujscie Placzacej Wody). ### 07-16: pismo Namiestnika do Boltona (druga linia, prosba o nieruszanie slupow) - osobny termin.",
    "kto": "CERWYN (Justycjariusz) + DONELLA HORNWOOD + DREADFORT",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-07-24",
+   "wraca": "300-07-25",
    "zamyka": "pomiar wykonany; ugoda albo wyrok",
-   "status": "otwarte - pomiar Cerwyna 06-12",
+   "status": "otwarte - pomiar Cerwyna 06-12 ### 07-24: Cerwyn przyjezdza w poludnie; orzeczenie PUBLICZNIE tylko na dowodach z terenu (slowo pana 07-22) - termin wyznacza Justycjariusz.",
    "sprawdzaj_co": 30
   },
   {
@@ -4984,9 +4984,9 @@
    "co": "ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku. Tallhart: pierwszy statek i pierwszy miesiac; reszte liczy z maesterem do zniw ('22 tys. korcy/mies. to pol Polnocy'). Kontrakt pisze GAWEN (Kasa 3); wchodzi w zycie, gdy Mance da slowo. Ilosc i cena - po rachunku maestera i slupie (zasada 43). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): kontrakt Gawena gotowy w projekcie; wchodzi w zycie, gdy Mance da slowo - poselstwo Dacey ~06-20, wiesc ~06-25. ### 300-06-25: kontrakt Gawena gotowy w projekcie, wchodzi w zycie, gdy Mance da slowo; poselstwo Dacey u Mance'a ~06-28, wiesc przez Mur do Winterfell - pan w Winterfell ~07-08. ### 07-09 (Winterfell, stos Korony): kontrakt dalej czeka na slowo Mance'a (poselstwo Dacey - wiesc ~07-15).",
    "kto": "GAWEN + TALLHART",
    "kanal": "Winterfell (pan na miejscu)",
-   "wraca": "300-07-24",
+   "wraca": "300-07-26",
    "zamyka": "kontrakt na pismie z iloscia pierwszej dostawy",
-   "status": "otwarte 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24."
+   "status": "otwarte 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24. ### 07-24 GAWEN (rzut 41): Tallhart podpisze, ale chce 1/3 ZALICZKI W MONECIE przed pierwszym statkiem (nie w towarze). Do slowa pana/Krola (Skarb ~1820 smokow 07-14)."
   },
   {
    "data": "300-05-10",
@@ -7299,7 +7299,7 @@
    "kanal": "list Miry z Barrowton/Fosy do BP",
    "wraca": "300-07-24",
    "zamyka": "kupiec w Barrowton + pierwsza bela welny",
-   "status": "otwarte ### 07-22: list atelier BP jeszcze nie przyszedl (zasada 34) - ~07-24."
+   "status": "otwarte ### 07-22: list atelier BP jeszcze nie przyszedl (zasada 34) - ~07-24. ### 07-24: list atelier BP przyszedl do Miry (wlasne, bez rzutu) - kupiec wybrany, w drodze do Barrowton."
   },
   {
    "data": "300-06-13",
@@ -7495,9 +7495,9 @@
    "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%. ### 07-09 (Winterfell, stos Poludnie i morze): RZUT 9 - JEDNA KONSEKWENCJA: LAWA CAILIN ODRZUCA POZYCZKE W TEJ FORMIE - nie zgodzi sie na splate z czynszow ('Dom bedzie zbieral nasze czynsze - to juz pan kamienic'); proponuje w zamian POZYCZKE W MATERIALE (kamien, wapno, belki z magazynu Domu) splacana moneta z kasy miejskiej. Do slowa pana. ### 07-09 SLOWO PANA: 'Zgodnie z tym, jak Cailin chce' - POZYCZKA W MATERIALE (kamien, wapno, belki z magazynu Domu), splata moneta z kasy miejskiej, 0,5% rocznie; umowa Hal + Herwin + lawa, na slup.",
    "kto": "HAL + HERWIN SZALA + lawa",
    "kanal": "list pana do Hala (poczta BP) + na miejscu",
-   "wraca": "300-07-24",
+   "wraca": "300-07-28",
    "zamyka": "umowa pozyczki w materiale podpisana, wykaz materialu i termin splaty na slupie",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: czeka na kwote Hala (wycena pierwszego rzedu kamienic)."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: czeka na kwote Hala (wycena pierwszego rzedu kamienic). ### 07-24: bez wiesci - zbiorczy ~07-28."
   },
   {
    "data": "300-06-19",
@@ -8931,7 +8931,7 @@
    "kanal": "teren: jezdziec Cleya do Winterfell ; archiwum: Winterfell osobiscie",
    "wraca": "300-07-24",
    "zamyka": "meldunek Cleya z terenu + wypis Luwina (archiwum ~07-09)",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-24: dowody z terenu (siedem drzew, miejsce kamienia - Cley, rzut 98) + wypis Luwina; Cerwyn w Winterfell dzis."
   },
   {
    "data": "300-07-07",
@@ -9687,7 +9687,7 @@
    "kanal": "kruk Blizniaki-Winterfell",
    "wraca": "300-07-24",
    "zamyka": "odpowiedz Waldera albo wiesc z Dreadfortu, albo cisza",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-24: WALDER (rzut 65) - posyla do Dreadfortu KREWNA WALDY i AKUSZERKE z Blizniakow; list przez Perwyna (na stole)."
   },
   {
    "data": "300-07-16",
@@ -9946,9 +9946,9 @@
    "co": "ZARZADCA DOMENY - SZUKANIE KANDYDATA (po rachunku Rodwella, rzut 19): urzad w Malej Radzie stoi pusty; ocena Gawena do Krola 07-19 wieczorem; kandydaci - do wskazania (Gawen szuka, Namiestnik moze przedlozyc; nominacja Krola). ### 07-19 (pan: szybko): Gawen kladzie 2-3 nazwiska przed Krolem do 07-24; Namiestnik moze dopisac (z adnotacja skad); do tego czasu pobor - pisarz Skarbu, osadnictwo - Rodwell pod Gawenem.",
    "kto": "GAWEN (+ SYMON) -> KROL",
    "kanal": "Winterfell",
-   "wraca": "300-07-24",
+   "wraca": "300-07-26",
    "zamyka": "kandydat przedlozony Krolowi na Malej Radzie albo decyzja o p.o.",
-   "status": "otwarte"
+   "status": "otwarte ### 07-24: Gawen klozy Krolowi trzy nazwiska - na Male Rade 07-26."
   },
   {
    "data": "300-07-19",
@@ -9966,7 +9966,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-24",
    "zamyka": "stan towaru zamku policzony na miejscu (do listy wolnego towaru 07-21)",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-24: SPIS A/B/C zamku i kasztelana gotowy - potwierdza liste kolumny C z 07-21 (ilosci E bez istotnych zmian)."
   },
   {
    "data": "300-07-19",
@@ -10182,7 +10182,7 @@
    "kanal": "kruk Domu Winterfell -> Fosa, 07-21 rano",
    "wraca": "300-07-24",
    "zamyka": "odpowiedz burmistrza - RZUT",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-24: LAWA (rzut 98) - ZA: dzialka na koncu kanalu ponizej miasta (z dala od drewna, przy wodzie na kolo); miasto daje kamien z rozbiorki i szarwark mieszczan; wlasnosc - ulica miasta, wielka kuznia wspolna lenno/miasto. List pisany przed sporem o faktora (na stole)."
   },
   {
    "data": "300-07-21",
@@ -10227,16 +10227,16 @@
    "kanal": "kruk Winterfell-Bialy Port (07-21 po poludniu)",
    "wraca": "300-07-24",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-24: WYMAN (rzut 63) - DA okret Wzoru II: stepka w stoczni BP po zniwach z drewna skierowanego przez Korone; na wodzie wiosna 301 (na stole)."
   },
   {
    "data": "300-07-21",
    "co": "KORONA - KOORDYNACJA TRANSPORTU DREWNA LORDOW DO BIALEGO PORTU (obietnica w liscie do Wymana 07-21 'sprobuje', za okret Wzoru II): ktore lordy maja drewno do sprzedania, ktoredy (Bialy Noz, trakty), kto kupuje (stocznia BP po cenie ze slupa) - ruszyc PO odpowiedzi Wymana; prowadzi Skarb (Gawen) z Mistrzem Handlu.",
    "kto": "SYMON -> GAWEN (+ Wyman jako Mistrz Handlu)",
    "kanal": "na miejscu / kruki do lordow",
-   "wraca": "300-07-24",
+   "wraca": "300-08-05",
    "zamyka": "po odpowiedzi Wymana: decyzja czy i jak ruszac",
-   "status": "otwarte"
+   "status": "otwarte ### 07-24: Wyman daje okret - koordynacja RUSZA (Gawen + Mistrz Handlu); stepka po zniwach."
   },
   {
    "data": "300-07-21",
@@ -10308,7 +10308,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-24",
    "zamyka": "droga dla chlopca wybrana albo swiadomie zostawiona",
-   "status": "otwarte ### 07-22: pan czeka na CERWYNA OSOBISCIE (~07-24). Krol mysli na glos (propozycje, nie rozkazy): (a) POZOR RODZINNY - matka 'chora u siostry w BP'; ojciec prosi syna listem rodzinnym (nie Korony) o przyjazd do matki - syn sam prosi Roose'a o urlop; (b) ORZECZENIE CERWYNA oprzec PUBLICZNIE wylacznie na drzewach i miejscu kamienia (Cley) - nie na swiadku; Roose nie ma czego szukac u syna; (c) chlopak NIE wsrod dwudziestu pod Ramsayem - nic nie da sie zrobic bez imienia; ryzyko nazwane. ### 07-22 SLOWO PANA: ZGODA NA OBA - (a) list rodzinny ojca do syna ('matce gorzej, przyjedz'), Korona nic nie pisze; (b) ORZECZENIE CERWYNA PUBLICZNIE TYLKO NA DOWODACH Z TERENU (siedem drzew, miejsce kamienia - Cley) - przekazac Cerwynowi osobiscie ~07-24. RYZYKO NAZWANE PRZEZ PANA: syn wierny Boltonowi moze sie domyslic. KROL: 'Dlatego list pisze ojciec, nie my - i to ojciec decyduje, czy pisac. On zna syna; my nie.' Pytanie do ojca - USTNIE, gdy bedzie w Przystani Wilka (Bors), przez Dagona albo Cerwyna."
+   "status": "otwarte ### 07-22: pan czeka na CERWYNA OSOBISCIE (~07-24). Krol mysli na glos (propozycje, nie rozkazy): (a) POZOR RODZINNY - matka 'chora u siostry w BP'; ojciec prosi syna listem rodzinnym (nie Korony) o przyjazd do matki - syn sam prosi Roose'a o urlop; (b) ORZECZENIE CERWYNA oprzec PUBLICZNIE wylacznie na drzewach i miejscu kamienia (Cley) - nie na swiadku; Roose nie ma czego szukac u syna; (c) chlopak NIE wsrod dwudziestu pod Ramsayem - nic nie da sie zrobic bez imienia; ryzyko nazwane. ### 07-22 SLOWO PANA: ZGODA NA OBA - (a) list rodzinny ojca do syna ('matce gorzej, przyjedz'), Korona nic nie pisze; (b) ORZECZENIE CERWYNA PUBLICZNIE TYLKO NA DOWODACH Z TERENU (siedem drzew, miejsce kamienia - Cley) - przekazac Cerwynowi osobiscie ~07-24. RYZYKO NAZWANE PRZEZ PANA: syn wierny Boltonowi moze sie domyslic. KROL: 'Dlatego list pisze ojciec, nie my - i to ojciec decyduje, czy pisac. On zna syna; my nie.' Pytanie do ojca - USTNIE, gdy bedzie w Przystani Wilka (Bors), przez Dagona albo Cerwyna. ### 07-24: Cerwyn w Winterfell dzis - rozmowa osobiscie."
   },
   {
    "data": "300-07-22",
@@ -10425,7 +10425,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-23",
    "zamyka": "rozmowa odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-23: rozmowa odbyta (rzut 23); szczegoly - dziennik i gra/ukryte/prawda.md."
   },
   {
    "data": "300-07-22",
@@ -10452,7 +10452,7 @@
    "kanal": "odpisy krukiem/wozem do BP",
    "wraca": "300-07-24",
    "zamyka": "odpisy wydane do BP",
-   "status": "otwarte ### 07-23 KROL: WYDAC. Odpisy: wspolna mowa - kancelaria (Beron) z pieczecia Krola; WERSJA BRAAVIJSKA - przeklada SYMON sam (plik ogloszenia: 'po zatwierdzeniu'); odpisy wozem/kurierem do BP do kapitanow Wymana. Przybycie wiosna, falami (limit Wymana). ### 07-23: list do Wymana gotowy; odpisy Berona - do wieczora; KURIER DOMU DO BP 07-24 RANO."
+   "status": "zamkniete 300-07-24: KURIER DOMU z odpisami (wspolna + braavijski, pieczec Krola) i listem do Wymana wyjechal o swicie do BP."
   },
   {
    "data": "300-07-23",
@@ -10461,7 +10461,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-24",
    "zamyka": "przeklad gotowy, odpisy opieczetowane, w drodze do BP",
-   "status": "otwarte ### 07-23: PRZEKLAD GOTOWY (Symon). Uwaga tlumacza: w Volantis, Lys i Myr (miasta niewolnicze) wywieszenie = podzeganie - kapitan moze zaplacic statkiem; tam z reki do reki albo wcale - do slowa Krola i Wymana. Odpisy - Beron. ### 07-23 KROL (slowo pana, bez rzutu - szczegol sprawy z 07-19): JAWNIE NA SLUPIE tylko BRAAVOS; PENTOS - SKRYCIE (z reki do reki, przez kapitanow); VOLANTIS, LYS, MYR - z reki do reki albo wcale (kapitan decyduje, nie ryzykuje statku). Wyman - list z tym zastrzezeniem do odpisow. ### 07-23: list do Wymana gotowy; odpisy Berona - do wieczora; KURIER DOMU DO BP 07-24 RANO."
+   "status": "zamkniete 300-07-24: przeklad i odpisy w drodze do BP."
   },
   {
    "data": "300-07-23",

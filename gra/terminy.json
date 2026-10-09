@@ -10102,6 +10102,24 @@
    "wraca": "300-07-26",
    "zamyka": "stawka na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-20",
+   "co": "ZNIWA DOMENY TYDZIEN WCZESNIEJ + NAJEM DODATKOWYCH RAK NA DNIOWKE (rozkaz pana 07-20; pismo Skarbu do kasztelana i soltysow okregow I-III): zboze pod dach przed koncem VIII; dniowka z Kasy 3 (stawka Gawena z ksiegi); lista imienna u pisarza Skarbu.",
+   "kto": "GAWEN -> kasztelan + soltysi I-III; pisarz Skarbu",
+   "kanal": "pismo Skarbu / slupy Zimowego Miasta i wsi",
+   "wraca": "300-08-01",
+   "zamyka": "ilu najetych (rzut - odzew) + start zniw w okregach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-20",
+   "co": "OZIME ZYTO - ZAMOWIENIE KORONY PRZEZ FAKTORA ILLYRIA (Bialy Port; przez Mistrza Handlu): TYLKO odmiany polnocne/krotkiego sezonu, odporne na przymrozek (nie poludniowe - 06-18 i 06-09); probka nasion przed ladunkiem (Orland/Theomore); ilosc - lista pustych zagrod Rodwella (07-26) + roznica z karty Orlanda; ladunek w BP przed koncem VIII (siew IX); zaplata - pisarz Skarbu przy wadze.",
+   "kto": "GAWEN -> FAKTOR ILLYRIA (BP); WYMAN (port)",
+   "kanal": "kruk Winterfell-Bialy Port (07-21 rano)",
+   "wraca": "300-08-25",
+   "zamyka": "ziarno w BP i probka zatwierdzona - RZUT przy dostawie (zrodlo, jakosc, cena)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -9948,7 +9948,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-26",
    "zamyka": "kandydat przedlozony Krolowi na Malej Radzie albo decyzja o p.o.",
-   "status": "otwarte ### 07-24: Gawen klozy Krolowi trzy nazwiska - na Male Rade 07-26. ### 07-24 GAWEN - TRZY NAZWISKA (E): (1) EDRIC PLUG - rzadca dobr kasztelana Winterfell, ~20 lat przy czynszach okregu I, czyta i liczy, nie lord; (2) BERTRAM WOLNY z Owsianych Pol - soltys najwiekszej wsi okregu, wolny chlop, piszacy; zna wsie od dolu; (3) ORLAND KORZEC - zna ziarno najlepiej, ale Spichlerz zostalby bez glowy (Gawen: 'trzeci tylko dla porzadku'). Do Krola na Male Rade 07-26."
+   "status": "zamkniete 300-07-26 MALA RADA: KROL MIANUJE EDRICA PLUGA (rzut 29) - obejmuje PO ZNIWACH (~09-01), kasztelan prosil zatrzymac go przy zniwach; do tego czasu Gawen + Rodwell. Kandydaci w bazie (obsada.json). RODWELL - na czele AGENCJI (handel domeny), pod Skarbem i Zarzadca."
   },
   {
    "data": "300-07-19",
@@ -10659,6 +10659,15 @@
    "kanal": "kruk Winterfell-Riverrun",
    "wraca": "300-08-02",
    "zamyka": "pierwszy transport u strazy + odzew Edmure'a (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "EDRIC PLUG OBEJMUJE URZAD ZARZADCY DOMENY (po zniwach): przysiega przy Krolu, krzeslo w Malej Radzie, przejecie od Gawena i Rodwella (spis A/B/C, osadnictwo okregow I-III, czynsz w monecie, Wielkie Targi Rolnicze).",
+   "kto": "EDRIC PLUG ; KROL ; GAWEN ; RODWELL",
+   "kanal": "Winterfell",
+   "wraca": "300-09-01",
+   "zamyka": "Edric zaprzysiezony i w radzie",
    "status": "otwarte"
   }
  ],

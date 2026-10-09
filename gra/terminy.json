@@ -10498,6 +10498,24 @@
    "wraca": "300-08-15",
    "zamyka": "spis drewna u Gawena; drewno w drodze do BP",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-24",
+   "co": "SPRAWA WHARTONA - SKARGA LORDA FOSY DO SADU WYMANA (zniewaga osoby lorda i Korony): zadanie publicznego odwolania (gospoda przy nabrzezu + waga miejska) i grzywny na Septe Sniegow; pregierza NIE. Wyrok - sad Wymana (wola obca) - RZUT przy odpowiedzi.",
+   "kto": "SYMON (lord Fosy) -> WYMAN (sad BP)",
+   "kanal": "kruk Winterfell-BP (07-24 po poludniu)",
+   "wraca": "300-07-30",
+   "zamyka": "wyrok sadu Wymana (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-24",
+   "co": "SPRAWA WHARTONA - DOM: (1) czlowiek Hala odczytuje w gospodzie przy nabrzezu jedno zdanie ('Korone trzyma Krol. Tally trzyma ksiegi. Kto chce znac sztuczke - niech przyjdzie do komory. Ksiegi sa jawne.'); (2) DOM nie przyjmuje kwitow, frachtu ani ubezpieczen Whartona do odwolania slow; (3) komora Korony - bez roznicy. Wlasni - bez rzutu na wykonanie; reakcja portu - przy meldunku Hala.",
+   "kto": "SYMON -> HAL",
+   "kanal": "kruk Domu Winterfell-BP",
+   "wraca": "300-07-30",
+   "zamyka": "zdanie odczytane; meldunek Hala o reakcji",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

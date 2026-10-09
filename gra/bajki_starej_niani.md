@@ -373,3 +373,22 @@
 *Dopisek spisującego:* Meera na progu powiedziała cicho, do nikogo: *„Dlatego bez żelaza na brzegu. I zostawić coś w zamian.”* To słowa rady Jojena dla Edrica Szuwara z 06-18. Niania pokiwała głową, jakby wiedziała to od zawsze.
 
 *Uwaga porządkowa (reguła Brana):* zieloni ludzie na łosiach pojawiają się pierwszy raz. **Łoś** pada już drugi raz w zapisie. Thenn mówił Dacey o czarnym bracie na łosiu (07-15), a Aemon odpisał, że *„w opowieściach zwiadowców jest od dawna”* (07-22). To dwie różne opowieści, ten sam zwierz. Na razie bez wniosku.
+
+---
+
+## 20. O GARCIE ZIELONEJ DŁONI, I CZEMU NIE PRZYSZEDŁ NA PÓŁNOC
+*Spisane 300-07-24 wieczorem, w izbie Niani. Słuchali Rickon i mały Walder, Bran przy oknie. Rickon chciał wiedzieć, „czemu na południu wszystko rośnie, a u nas tylko rzepa”.*
+
+> Na południu był kiedyś Garth. Zwali go Zieloną Dłonią, bo gdzie położył rękę, tam rosło: jabłonie, pszenica, winorośl, wszystko naraz. Kobiety, które go dotknęły, rodziły bliźnięta. Pola, po których przeszedł, rodziły dwa razy w roku.
+>
+> Wszyscy lordowie z południa go zapraszali, a on szedł do każdego, bo był dobry i trochę głupi. Lord z Północy też go zaprosił. Garth wyruszył i szedł, i szedł, aż doszedł do Przesmyku. Tam powiedział: „Dalej nie pójdę. Tu ziemia jest za zimna dla mojej ręki.” I zawrócił.
+>
+> Więc nasi przodkowie zrobili inaczej. Skoro ręka Gartha nie przyszła, **wzięli jego ziarno**, to, które rosło najbliżej zimy, i siali je co roku, i co roku zostawiali tylko to, co przetrwało mróz. Po stu latach mieli ziarno, które rośnie w zimnie. Nie dwa razy w roku, tylko raz. Ale rośnie.
+>
+> *(Rickon zapytał, czy to prawda.)*
+>
+> Nie wiem, dziecko. Wiem tylko, że żyto, które sieją we wrześniu pod śnieg, przetrwało więcej zim niż wszyscy lordowie z południa razem wzięci.
+
+*Dopisek spisującego:* Niania do mnie, przy drutach: *„Słyszałam, że kupujecie ziarno za morzem. Kupujcie to, co rośnie u nich najbliżej zimy, a nie to, co najładniejsze. Ładne ziarno umiera pierwsze.”* Zgadza się to z warunkiem Gawena z 07-20: tylko odmiany północne, najpierw próbka, bo ziarno z Pentos zmarzło 06-18.
+
+*Uwaga porządkowa (reguła Brana):* Garth po raz pierwszy. To bajka z południa w wersji Niani, a jej zakończenie (selekcja ziarna) jest północne.

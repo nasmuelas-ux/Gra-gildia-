@@ -10434,7 +10434,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-07-25",
    "zamyka": "zadanie oddane na lekcji",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-25: oddane; Luwin poprawil dwie koncowki (narzednik, towarzyszacy)."
   },
   {
    "data": "300-07-23",
@@ -10605,6 +10605,15 @@
    "kanal": "osobiscie",
    "wraca": "300-07-27",
    "zamyka": "rozmowa matki z Arya i Krolem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-25",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 07-29: odmienic 'byc', 'miec', 'dac' w czasie terazniejszym (wszystkie osoby) + przelozyc trzy krotkie zdania prawne z ksiegi Luwina bez slownika. Lekcja wt. wieczorem.",
+   "kto": "SYMON",
+   "kanal": "wlasna nauka",
+   "wraca": "300-07-29",
+   "zamyka": "zadanie oddane",
    "status": "otwarte"
   }
  ],

@@ -46,3 +46,22 @@
   - (2) **zgłoszenie na komorze Korony w Białym Porcie** (słowo pana: komora, nie faktoria). **Wyman** jest o tym **informowany**, a przed wysłaniem ogłoszenia potrzebna jest jego **zgoda**, bo to jego port i jego miasto;
   - (2a) **pięć lat bez daniny, ale z obowiązkiem wystawiania nadwyżki żywności na wolny handel** (słowo pana 07-19).
   - (3) **kara za wiarę z przymusem** pada z prawa Północy, ale przepis pisze dopiero Cerwyn. Do tego czasu zdanie *„odpowie przed prawem Północy”* nie podaje kary.
+
+---
+## LIST NAMIESTNIKA DO LORDA WYMANA (300-07-19, wieczór; pieczęć Namiestnika; kruk Winterfell → Biały Port)
+> Lordzie Wymanie, Mistrzu Handlu i Portów Północy,
+>
+> Król postanowił dać schronienie wyzwoleńcom i uchodźcom z Essos, a także tym z Dorzecza, którzy zechcą przyjść sami. W załączeniu przesyłam odpis ogłoszenia. Król je podpisał i opieczętował, ale **nie wyśle go bez Waszej zgody**, bo to Wasz port i Wasze miasto.
+>
+> Najpierw powiem, czym ono jest, a czym nie. To **ogłoszenie, nie werbunek**. Nikogo nie wołamy i nikomu nie płacimy za przywiezienie. Kto przeczyta i zechce, przypłynie zwykłym kursem kupców, którzy i tak wracają z Wolnych Miast z wolną ładownią. Przybysze nie zostają w Białym Porcie. Idą na **puste zagrody domeny Korony**, gdzie ziemia stoi odłogiem, bo zabrakło rąk.
+>
+> O trzy rzeczy proszę:
+> 1. **Zgodę**, by przybysze zgłaszali się na **komorze Korony w Waszym porcie**. Tam będą spisani i stamtąd pójdą dalej.
+> 2. **Pomoc przy statkach**: żeby kapitanowie, którzy pływają do Braavos, Pentos i innych Wolnych Miast, zabierali odpis ogłoszenia i wywieszali go w portach.
+> 3. **Waszą radę**, czego Biały Port musi się obawiać przy takim napływie i ilu ludzi naraz port i trakt uniosą.
+>
+> Każdy, kto zostaje, przysięga przed drzewem albo w sepcie, że będzie żył pod prawem Północy. Wierzyć wolno każdemu, nawracać siłą nie wolno nikomu. Przez pięć lat nie płacą daniny, ale nadwyżkę wystawiają na wolny targ, więc część jej przejdzie przez Wasze składy i Wasze cło.
+>
+> Czekam na Wasze słowo, zanim ogłoszenie odpłynie.
+>
+> *Symon Tally, Namiestnik Króla Północy*

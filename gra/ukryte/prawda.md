@@ -252,3 +252,4 @@ Fakty, które Symon ma z zapisu i z rozmowy z 07-23:
 **Status:** domysł, nie dowód. Do potwierdzenia: kolor oczu (błękit Baratheonów), kto płacił Mottowi, czy w Przystani ginęły inne dzieci Roberta (kanał: Nesta lub Varys? brak).
 **Waga:** żywy świadek tej samej prawdy, którą Symon sprzedał Stannisowi. Dla Stannisa i dla Lannisterów ma wartość głowy. **Gendry nic nie wie.**
 **Zasada (GM):** nic na papier Korony. Kto wie: Symon (domysł). Nikomu nie powiedziane.
+- **07-23 wieczór:** Symon przysunął świecę. **Oczy Gendry'ego są niebieskie, ciemnoniebieskie, błękit Baratheonów** (kanon). Z trzech brakujących rzeczy jedna potwierdzona. Gendry zauważył, że jest oglądany *„jak tamci dwaj”*.

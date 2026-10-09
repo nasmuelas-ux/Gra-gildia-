@@ -3255,7 +3255,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-07-25",
    "zamyka": "pomiar wykonany; ugoda albo wyrok",
-   "status": "otwarte - pomiar Cerwyna 06-12 ### 07-24: Cerwyn przyjezdza w poludnie; orzeczenie PUBLICZNIE tylko na dowodach z terenu (slowo pana 07-22) - termin wyznacza Justycjariusz. ### 07-24 CERWYN (prosba pana, bez rzutu - zgodne z jego wlasnym planem): ORZECZENIE TYLKO NA DOWODACH Z TERENU - siedem drzew granicznych z nacieciami, stare miejsce kamienia (Cley), wypis granicy z czasow lorda Rickarda (Luwin); ani slowa ze swiadectwa. PUBLICZNIE: jutro 07-25 przed poludniem, Wielka Sala, pod choragwia Starkow; odpisy krukiem do Hornwoodu i Dreadfortu.",
+   "status": "zamkniete 300-07-25: ORZECZENIE JUSTYCJARIUSZA CERWYNA, publicznie, Wielka Sala, pod choragwia Starkow: (1) GRANICA Hornwood/Dreadfort biegnie linia SIEDMIU DRZEW GRANICZNYCH z nacieciami i STAREGO MIEJSCA KAMIENIA, zgodnie z opisem z czasow lorda Rickarda (wypis Luwina); pas sporny jest HORNWOODU; (2) drewno wyciete w pasie - Dreadfort oddaje wartosc Hornwoodowi; ilosc liczy lesniczy Hornwoodu przy czlowieku Korony, kwota - po liczeniu (zasada 43); (3) linie znacza slupy Korony, dalej pilnuje Hornwood; (4) 'kto rusza slup, odpowiada przed Krolem' (wyrwany slup ~07-21 - sprawa Korony, osobno). Ani slowa ze swiadectwa. Odpisy krukiem do Hornwoodu i Dreadfortu dzis.",
    "sprawdzaj_co": 30
   },
   {
@@ -10533,7 +10533,7 @@
    "kanal": "osobiscie, Wielka Sala",
    "wraca": "300-07-25",
    "zamyka": "uzasadnienie Sansy przeczytane przez Cerwyna (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-25 (rzut 66): uzasadnienie Sansy w trzech zdaniach - granica zgodna z orzeczeniem; wyrwany slup jako osobna sprawa Korony (Cerwyn wlaczyl to zdanie do ogloszenia); jeden blad - 'zgodnie z wola Krola': Cerwyn: 'Sad nie powoluje sie na wole Krola. Powoluje sie na prawo i dowod. Wola Krola jest w prawie, nie obok niego.' Wpis do kanonu (szczebel III): pierwsze rozstrzygniecie na pismie przed Justycjariuszem - DOBRE."
   },
   {
    "data": "300-07-24",
@@ -10569,6 +10569,15 @@
    "kanal": "Winterfell",
    "wraca": "300-07-28",
    "zamyka": "igly i sol w drodze; ziarno dla Cypla na luke do Tallharta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-25",
+   "co": "HORNWOOD/DREADFORT - WARTOSC WYCIETEGO DREWNA (orzeczenie 07-25): lesniczy Hornwoodu liczy pnie w pasie przy czlowieku Korony; kwota po liczeniu; Dreadfort oddaje Hornwoodowi. Odzew Dreadfortu na orzeczenie - wola obca, RZUT przy odpowiedzi.",
+   "kto": "CERWYN ; lesniczy Hornwoodu + czlowiek Korony ; BOLTON",
+   "kanal": "teren ; kruk Dreadfort-Winterfell",
+   "wraca": "300-08-02",
+   "zamyka": "liczenie pni + odzew Dreadfortu (rzut)",
    "status": "otwarte"
   }
  ],

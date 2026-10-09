@@ -9163,9 +9163,9 @@
    "co": "LUCAN - UMOWA DORADCY (Dom + lenno): pensja stala (Hal liczy wzgledem Garricka - mniej) + premia od wyniku policzalnego (Kompania, kwity Lwa, proba Lys); Kasa 1 za Dom, Kasa 2 za lenno; Korona - bez srebra Korony. Wzor Lucana - do slowa pana; kwoty - Hal (zasada 43). Wlasni - bez rzutu.",
    "kto": "SYMON -> HAL (kwoty), WARRYN (czesc lenna)",
    "kanal": "kruk Winterfell-Bialy Port / Fosa",
-   "wraca": "300-07-24",
+   "wraca": "300-07-26",
    "zamyka": "umowa na pismie z kwotami",
-   "status": "otwarte - WZOR ZATWIERDZONY przez pana 07-11; Hal liczy kwoty 07-21: kwoty Hala - odpowiedz krukiem z BP ~07-24."
+   "status": "otwarte - WZOR ZATWIERDZONY przez pana 07-11; Hal liczy kwoty 07-21: kwoty Hala - odpowiedz krukiem z BP ~07-24. ### 07-24 HAL: pensja stala = 4/5 placy Garricka (Dom 2/3, lenno 1/3); premia 1/20 od wyniku policzalnego (Kompania, kwity Lwa, Lys) przy bilansie; Korona nic. Gerrik potwierdza czesc lenna. Do slowa pana."
   },
   {
    "data": "300-07-11",
@@ -10479,6 +10479,24 @@
    "kanal": "jezdziec ustnie, Winterfell-Fosa (~4-5 dni) i z powrotem",
    "wraca": "300-08-03",
    "zamyka": "meldunek Willi ustnie (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-24",
+   "co": "CAILIN - WIELKA KUZNIA Z ODLEWNIA: lawa ZA (rzut 98): dzialka na koncu kanalu ponizej miasta (woda na kolo), miasto - kamien z rozbiorki i szarwark mieszczan; ulica - miasta, warsztaty - kowali, WIELKA KUZNIA - WSPOLNA lenno/miasto wg wkladu; mistrz BRUSK OD MIECHA. Lawa prosi o WYCENE wkladu lenna (Warryn). Do slowa pana.",
+   "kto": "SYMON -> WARRYN (wycena) ; HERWIN + LAWA",
+   "kanal": "kruk do Fosy",
+   "wraca": "300-07-28",
+   "zamyka": "wycena Warryna + uchwala lawy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-24",
+   "co": "OKRET WZORU II - DAR WYMANA: stepka w stoczni BP PO ZNIWACH, drewno skierowane przez Korone (dab - stepka i wregi, sosna - poszycie); na wodzie wiosna 301; mistrz Wymana przysyla Gawenowi spis potrzeb.",
+   "kto": "WYMAN (stocznia) ; GAWEN (drewno)",
+   "kanal": "kruk BP-Winterfell",
+   "wraca": "300-08-15",
+   "zamyka": "spis drewna u Gawena; drewno w drodze do BP",
    "status": "otwarte"
   }
  ],

@@ -268,3 +268,4 @@ Fakty, które Symon ma z zapisu i z rozmowy z 07-23:
   2. **przy bramie Fosy** (księga przybyszów, komora): każdy, kto **pyta o kowali z Harrenhalu** albo o młodego kowala, i każdy z południa jadący do Winterfell z takim pytaniem. Ma to zgłosić Namiestnikowi od razu.
   - Obawa Symona: *„jeśli ktoś chce go zabić i go znajdzie, zrobi to nam pod nosem”*. **Fosa jest jedyną bramą z południa**, więc każdy taki człowiek musi przez nią przejść.
   - Meldunek Willi ustnie przez posłańca ~08-03. **Rzut przy meldunku.**
+- **07-23, Symon do Króla:** jeden z **Szarych Płaszczy** będzie pilnował Gendry'ego **z oddali**. To ludzie Domu, więc decyduje pan. Król się zgadza z warunkiem: *„Bez barw i bez stania pod kuźnią jak warta. Niech ma powód tam być.”* Sten wybiera człowieka z oddziału I i daje mu pozór: nosi broń przybocznej do ostrzenia i naprawy w kuźni Korony. **Cena:** oddział I przy panu ma o jednego człowieka mniej, a oddział II (Dagon) wraca ~07-24.

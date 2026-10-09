@@ -23,8 +23,8 @@
 **KUŹNIA ZAMKOWA WINTERFELL to WŁASNY STRATEGICZNY WARSZTAT KORONY.** To nie patronat, tylko **własność Korony** (v3, Z3: warsztaty strategiczne prowadzą Król i Namiestnik).
 - **Ludzie:**
   - kowal zamkowy z czeladnikiem, w służbie zamku;
-  - **pięciu kowali z Harrenhalu**, w tym Gendry, na rocznej umowie Korony i na żołdzie;
-  - dwaj dymarze i górnik idą do Wilczego Lasu.
+  - **pięciu kowali z Harrenhalu** na rocznej umowie Korony i na żołdzie (przyjechali 07-21; imiona E z powitania): **Gerold Siwy** (najstarszy, mówi za nich), **Durran od Kleszczy**, **Willem Popiół**, **Hugh Miech** i **Gendry** (czeladnik);
+  - dymarze **Osmund** i **Tarl** oraz górnik **Harle Kret** (imiona E) idą do Wilczego Lasu ~07-23.
 - **Robi:** półhełmy (także przekute lwie), kolczugi dla starszych, groty włóczni i strzał, topory, noże, okucia tarcz.
 - **Rozbudowa:** 5 stanowisk (3 nowe paleniska, kowadła, miechy) do ~08-05.
 - **Węgiel i żelazo** pochodzą z magazynu i danin, a resztę kupuje Gawen.

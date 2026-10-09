@@ -10471,6 +10471,15 @@
    "wraca": "300-07-25",
    "zamyka": "list i odpisy w drodze do BP",
    "status": "zamkniete 300-07-23: LIST NAPISANY (gra/ogloszenie_azylu_300_07.md); wyjezdza z odpisami kurierem Domu 07-24 rano."
+  },
+  {
+   "data": "300-07-23",
+   "co": "POSLANIEC USTNY DO WILLI (Fosa) - zlecenie Namiestnika 07-23 (tresc: gra/ukryte/prawda.md, bez imion): pytanie przez jej ludzi na poludniu + baczenie przy bramie Fosy. Jezdziec z oddzialu I (Sten wybiera), wyjazd 07-24 o swicie. Meldunek ustny ~08-03 - RZUT przy meldunku.",
+   "kto": "SYMON -> jezdziec (oddzial I) -> WILLA",
+   "kanal": "jezdziec ustnie, Winterfell-Fosa (~4-5 dni) i z powrotem",
+   "wraca": "300-08-03",
+   "zamyka": "meldunek Willi ustnie (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

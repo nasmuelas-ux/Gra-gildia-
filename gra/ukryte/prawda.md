@@ -263,3 +263,8 @@ Fakty, które Symon ma z zapisu i z rozmowy z 07-23:
   - Ślad na papierze **już istnieje**. Lista pięciu kowali Harrenhalu z imieniem *„Gendry, czeladnik, ok. 17 lat, czarne włosy”* przeszła przez Riverrun i ser Robina Rygera (05-11). Kto czyta listy Dorzecza, wie, że Gendry poszedł na północ.
   - **Pytać trzeba ogólnie, bez imienia:** czy w Przystani ktoś dziś szuka **bękartów Roberta**, nie „tego chłopaka”. Kanał: siatka Symona (Nesta, stałe ucho w KL) albo Willa.
   - Decyzja należy do Namiestnika.
+- **07-23 wieczór, decyzja Symona:** pytanie **nie przez Nestę i nie krukiem**. **Posłaniec ustny do Fosy, do WILLI** (wywiad Domu na Fosie). Jeździec z oddziału I wybrany przez Stena, wyjazd 07-24 o świcie, ~4–5 dni drogi. Treść **bez imienia Gendry'ego**:
+  1. przez jej ludzi na południu: czy ktoś w Królewskiej Przystani **dziś szuka albo zabija bękartów Roberta**;
+  2. **przy bramie Fosy** (księga przybyszów, komora): każdy, kto **pyta o kowali z Harrenhalu** albo o młodego kowala, i każdy z południa jadący do Winterfell z takim pytaniem. Ma to zgłosić Namiestnikowi od razu.
+  - Obawa Symona: *„jeśli ktoś chce go zabić i go znajdzie, zrobi to nam pod nosem”*. **Fosa jest jedyną bramą z południa**, więc każdy taki człowiek musi przez nią przejść.
+  - Meldunek Willi ustnie przez posłańca ~08-03. **Rzut przy meldunku.**

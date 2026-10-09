@@ -317,3 +317,28 @@
 | 9 | czynsz domeny w monecie, Wielki Targ Rolniczy | 39 | Czynsz **do wyboru** (moneta albo natura ze słupa) **TAK**, ale w tym roku **tylko okręg I, na próbę, po żniwach**. **Jeden Wielki Targ Rolniczy w Zimowym Mieście po żniwach.** Miasto daje plac i wagę, Korona nie kupuje |
 | — | Zarządca Domeny | 29 | Edric Pług, obejmuje po żniwach |
 | — | jedna księga Korony | (07-12, 59) | Kartka Gawena przyjęta: jedna księga z rubrykami (domena, Skarb, dawny Dom Starków) |
+
+## 11. TERMINY WDROŻENIA I POWROTU (słowo pana, Mała Rada 300-07-26)
+### Wdrożenie (przyjęte)
+| punkt | krok | kto | termin |
+|---|---|---|---|
+| Polityka Korony (cel i zasady) | wpis do księgi praw Korony, odpis dla lordów przy najbliższej poczcie | Beron (kancelaria), Cerwyn (forma) | **08-01** |
+| Mistrz Nauki | Luwin zaprzysiężony na urząd, wpis do obsady | Król | **07-28** |
+| Łączność i infrastruktura | dwa nazwiska z uczniów Głębokorzenia | Theomore → Luwin → Król | **08-15** |
+| Faktor Królewski BP | rozmowa z Torsenem (07-30); nominacja **przed wyjazdem Króla**; start przy Wielkim Targu w BP po żniwach | Namiestnik → Król | **08-04** |
+| Konsulat Riverrun | konsul wskazany i zgoda Edmure'a; otwarcie | Król, Namiestnik, Gawen | **08-10 / 09-01** |
+| Jedna księga Korony | Gawen otwiera ją w Dzień Bilansu | Gawen | **08-01** |
+| Czynsz do wyboru, okręg I | ogłoszenie na słupach w okręgu I przed żniwami; pobór po żniwach | Gawen + Rodwell (do 09-01), potem Edric Pług | **ogłoszenie 08-10 / pobór ~09-15** |
+| Wielki Targ Rolniczy ZM | ogłoszenie daty; targ po żniwach | burmistrz ZM (Oswyn Miarka) + ława, Skarb (waga) | **ogłoszenie 08-15 / targ ~09-20** |
+| Głębokorzeń: służba i nauka | tekst Theomore'a; pytanie do Cytadeli | Theomore, Luwin | **tekst 08-20 / Cytadela ~10-01** |
+
+### Powrót (odłożone i odrzucone)
+| punkt | dziś | wraca | kiedy |
+|---|---|---|---|
+| Konsulat Braavos, weksel poświadczany, umowa z bankiem | odłożone | po odpowiedziach domów handlowych na listy Króla (~08-20) i po Skagos | **Mała Rada ~09-20** |
+| Faktor w Barrowton i w Cailin | po roku próby w BP | kandydaci Hala i Garricka w bazie | **przegląd 301-08-01** |
+| Prawo składu dla Zimowego Miasta | NIE | po pierwszym Wielkim Targu: czy targ bez składu wystarcza | **~10-01** |
+| Zakaz monety z Essos | NIE (wymiana dobrowolna) | gdy Mennica WILK będzie bić dość monety; przy Wielkiej Radzie | **Wielka Rada wiosną 301** |
+| Czynsz do wyboru w całej domenie | tylko okręg I | po próbie w okręgu I | **Mała Rada ~10-15** |
+
+*Mała Rada co dwa tygodnie. Pod nieobecność Króla (od 08-05) przewodniczy Namiestnik: **08-09**, potem **08-23**. Sprawy na prerogatywę czekają na Króla, czyli Małą Radę ~09-20.*

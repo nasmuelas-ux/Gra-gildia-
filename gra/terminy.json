@@ -10696,6 +10696,114 @@
    "wraca": "300-08-15",
    "zamyka": "dwa nazwiska u Krola",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "POLITYKA KORONY (cel i zasady v3) - WPIS DO KSIEGI PRAW + odpis dla lordow",
+   "kto": "BERON + CERWYN",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-08-01",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "LUWIN - PRZYSIEGA NA URZAD MISTRZA NAUKI (Mala Rada 07-26)",
+   "kto": "KROL + LUWIN",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-07-28",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "FAKTOR KROLEWSKI BP - NOMINACJA PRZED WYJAZDEM KROLA (po rozmowie z Torsenem 07-30)",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-08-04",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "JEDNA KSIEGA KORONY - OTWARCIE W DZIEN BILANSU",
+   "kto": "GAWEN",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-08-01",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "CZYNSZ DO WYBORU - OKREG I: OGLOSZENIE NA SLUPACH (przed zniwami); pobor po zniwach ~09-15",
+   "kto": "GAWEN + RODWELL",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-08-10",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "WIELKI TARG ROLNICZY ZIMOWE MIASTO - OGLOSZENIE DATY (targ ~09-20)",
+   "kto": "OSWYN MIARKA + lawa ZM ; Skarb (waga)",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-08-15",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "POWROT: KONSULAT BRAAVOS, WEKSEL POSWIADCZANY, UMOWA Z BANKIEM (odlozone 07-26)",
+   "kto": "MALA RADA (z Krolem)",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-09-20",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "POWROT: PRAWO SKLADU DLA ZIMOWEGO MIASTA (odrzucone 07-26) - po pierwszym Wielkim Targu",
+   "kto": "MALA RADA",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-10-01",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "POWROT: CZYNSZ DO WYBORU W CALEJ DOMENIE - po probie w okregu I",
+   "kto": "MALA RADA",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-10-15",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "POWROT: ZAKAZ MONETY Z ESSOS (odrzucone 07-26) - gdy Mennica WILK bije dosc; Wielka Rada wiosna",
+   "kto": "KROL / WIELKA RADA",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "301-03-15",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "POWROT: FAKTOR W BARROWTON I CAILIN - przeglad po roku proby w BP (kandydaci w bazie)",
+   "kto": "KROL + NAMIESTNIK",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "301-08-01",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "MALA RADA POD NAMIESTNIKIEM (Krol na Skagos) - posiedzenie zwyczajne",
+   "kto": "SYMON (przewodniczy)",
+   "kanal": "Winterfell / wg sprawy",
+   "wraca": "300-08-09",
+   "zamyka": "krok wykonany albo temat rozpatrzony",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

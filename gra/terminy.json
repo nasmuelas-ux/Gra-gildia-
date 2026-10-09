@@ -9961,10 +9961,10 @@
   },
   {
    "data": "300-07-19",
-   "co": "SKARB - PISARZE LICZA TOWAR NA MIEJSCU (decyzja Gawena 07-19): od 07-20 dwoch pisarzy Skarbu obchodzi spichrze zamku i kasztelana - co lezy, w jakim stanie, od kiedy; wsie domeny pozniej (spis A/B/C 07-26). Uzupelnia szacunek z trzech ksiag (kasztelan, Skarb, spis Rodwella 299-08-28) - brak w nich rozchodu.",
+   "co": "SKARB - PISARZE LICZA TOWAR NA MIEJSCU (decyzja Gawena 07-19): od 07-20 dwoch pisarzy Skarbu obchodzi spichrze zamku i kasztelana - co lezy, w jakim stanie, od kiedy; wsie domeny pozniej (spis A/B/C 07-26). Uzupelnia szacunek z trzech ksiag (kasztelan, Skarb, spis Rodwella 299-08-28) - brak w nich rozchodu. ### 07-19 PRZYSPIESZONE (pan): + praktykanci pionu Skarbu - trzy pary naraz (komory zamku, kasztelana, sklad Skarbu); spis A/B/C zamku i kasztelana na 07-24 (z 07-26); wsie domeny - przy poborze, do konca VIII.",
    "kto": "GAWEN -> dwoch pisarzy Skarbu",
    "kanal": "Winterfell",
-   "wraca": "300-07-21",
+   "wraca": "300-07-24",
    "zamyka": "stan towaru zamku policzony na miejscu (do listy wolnego towaru 07-21)",
    "status": "otwarte"
   },
@@ -10030,6 +10030,15 @@
    "wraca": "300-07-26",
    "zamyka": "decyzja Malej Rady/Krola o transzy I i sposobie zaplaty",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "HAL - KONTYNUUJE SPIENEZANIE TOWARU KORONY TERAZ (slowo pana 07-19, pismo Skarbnika; kruk BP 07-19 wieczorem): na dotychczasowych warunkach (kwit skladowy, cena oglaszona, prowizja jawna), bez czekania na spis; wolumen, nie lepsza cena; do czasu Faktora Krolewskiego.",
+   "kto": "GAWEN -> HAL (Bialy Port)",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-08-05",
+   "zamyka": "meldunek przy bilansie VII (ile spienezone i za ile) - wynik rynku RZUT przy bilansie",
+   "status": "otwarte - pismo 07-19"
   }
  ],
  "_dopiski_300_03_18": [

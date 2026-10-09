@@ -354,3 +354,22 @@
 *Dopisek spisującego:* Kiedy Rickon i Walder zasnęli, Niania powiedziała w ogień: *„Wy, panie, z tymi swoimi spichrzami, pasujecie do tej bajki lepiej niż Król z mieczem. Nie mówcie mu, że tak powiedziałam.”* Arya w drzwiach już jej nie słyszała. Poszła spać, zanim smok umarł.
 
 *Uwaga porządkowa (reguła Brana):* lodowy smok pojawia się pierwszy raz. Z Długą Nocą ani z Innymi Niania go nie łączy, więc to nie jest wersja tamtych bajek, tylko osobna. Pasuje do stosu (c) Brana: bajki o zimie bez imion i dat.
+
+---
+
+## 19. O PAKCIE NA WYSPIE TWARZY
+*Spisane 300-07-23 wieczorem, w izbie Niani. Słuchali Bran i Rickon, a Meera siedziała na progu. Bran poprosił: „O tym, jak się skończyła wojna z Dziećmi.”*
+
+> Wojna trwała tak długo, dziecko, że nikt już nie pamiętał, kto zaczął. Pierwsi Ludzie ścinali drzewa z twarzami, a Dzieci zabijały ich za to w lesie, nocą, szkłem. Potem Dzieci rozbiły Przesmyk Młotem Wód, i to już wiesz.
+>
+> Aż w końcu ci, którzy zostali po obu stronach, zmęczyli się umieraniem. Spotkali się na wyspie pośrodku wielkiego jeziora, które dziś nazywają Okiem Boga. Rosły tam same czardrzewa, każde z twarzą. Tam zawarli **pakt**: ludzie wezmą ziemię otwartą, a Dzieci zatrzymają lasy, a ludzie nie zetną już ani jednego drzewa z twarzą. I Pierwsi Ludzie przyjęli ich bogów, starych bogów, tych z drzew.
+>
+> Na wyspie, żeby ktoś pilnował paktu, zostali **zieloni ludzie**. Mówią, że mają skórę zieloną jak mech i rogi na głowach, i jeżdżą na łosiach. Mówią też, że są tam do dziś i że kto przypłynie z żelazem w ręku, ten z wyspy nie wróci.
+>
+> *(Rickon zapytał, czy pakt jeszcze obowiązuje.)*
+>
+> Obowiązuje tak długo, jak ktoś o nim pamięta. Południe zapomniało, bo Andalowie przyszli z mieczami i wycięli drzewa. Północ pamięta. Dlatego macie jeszcze gaj.
+
+*Dopisek spisującego:* Meera na progu powiedziała cicho, do nikogo: *„Jojen mówił, że zieloni ludzie nie lubią pytań, tylko darów.”* Niania pokiwała głową, jakby to wiedziała od zawsze. *Uwaga: to zgadza się z radą Jojena dla Edrica Szuwara (06-18): „bez żelaza na brzegu, nic nie ciąć, zostawić coś w zamian”.*
+
+*Uwaga porządkowa (reguła Brana):* zieloni ludzie na łosiach pojawiają się pierwszy raz. **Łoś** pada już drugi raz w zapisie. Thenn mówił Dacey o czarnym bracie na łosiu (07-15), a Aemon odpisał, że *„w opowieściach zwiadowców jest od dawna”* (07-22). To dwie różne opowieści, ten sam zwierz. Na razie bez wniosku.

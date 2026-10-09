@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**249 otwartych** · **0 PRZETERMINOWANYCH** · 25 wraca dzis
+**248 otwartych** · **0 PRZETERMINOWANYCH** · 25 wraca dzis
 
 ### 🟡 WRACA DZIS
 - PRZYSTAN NA OSTATNIEJ RZECE (KARHOLD) - KARSTARK PRZYJAL (rzut 26/25). Trzy klucze: czlowiek Karholdu przy wadze, pisarz Korony pr… · _kanal:_ wlasny czlowiek na Fosie
@@ -1004,7 +1004,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-21** — WYMAN - PROSBA KORONY O OKRET WOJENNY WZORU II NA MORZE WSCHODNIE (list Namiestnika 07-21): (1) drewno Korony - pierwszenstwo dla stoczni Bialego Portu PRZYJETE (reszta do faktora Illyria); (2) Korona pyta, czy lord Wyman DARUJE KORONIE JEDEN OKRET WOJENNY WZORU II (Norma Czterech Wzorow 299-12-05: dlugi, waski, szybki, pas lodowy, zagiel i wiosla, od wregu z szablonu) na morze wschodnie; (3) W ZAMIAN Korona SPROBUJE SKOORDYNOWAC TRANSPORT DREWNA TAKZE LORDOW (nie tylko Korony) do Bialego Portu - dla jego stoczni. Wola Wymana - RZUT przy odpowiedzi. · _kto:_ **SYMON (Namiestnik) -> WYMAN** · _zamyka:_ odpowiedz Wymana (rzut)
 - **300-07-21** — KORONA - KOORDYNACJA TRANSPORTU DREWNA LORDOW DO BIALEGO PORTU (obietnica w liscie do Wymana 07-21 'sprobuje', za okret Wzoru II): ktore lordy maja drewno do sprzedania, ktoredy (Bialy Noz, trakty), kto kupuje (stocznia BP po cenie ze slupa) - ruszyc PO odpowiedzi Wymana; prowadzi Skarb (Gawen) z Mistrzem Handlu. · _kto:_ **SYMON -> GAWEN (+ Wyman jako Mistrz Handlu)** · _zamyka:_ po odpowiedzi Wymana: decyzja czy i jak ruszac
 - **300-07-21** — KOWALE Z HARRENHALU - DYMARZE I GORNIK DO WILCZEGO LASU (do Grima od Dymarki; dymarki Dolny Bor / Czerwony Strumien / Smolna Polana): wyjazd po dniu odpoczynku ~07-23, z wozem Korony; w kuzni zamkowej - pieciu kowali przy rozbudowie do 5 stanowisk (~08-05). · _kto:_ **ORWYL + kasztelan (woz, przewodnik)** · _zamyka:_ dymarze i gornik w drodze do Wilczego Lasu
-- **300-07-21** — ARYA I GENDRY - Arya idzie do kuzni zamkowej WIECZOREM, SAMA, kiedy ogien przygasa (jej decyzja, rzut 89; obietnica: sama mu powie). Symon nie idzie; Sansa z daleka. Co sie stalo - wiadomo dopiero, gdy pan zobaczy Arye albo Arya sama powie (rzut przy pierwszym widzeniu). · _kto:_ **ARYA (sama)** · _zamyka:_ pan wie, jak poszlo (rzut przy pierwszym widzeniu Aryi)
+- **300-07-21** — ARYA I GENDRY - Arya idzie do kuzni zamkowej WIECZOREM, SAMA, kiedy ogien przygasa (jej decyzja, rzut 89; obietnica: sama mu powie). Symon nie idzie; Sansa z daleka. Co sie stalo - wiadomo dopiero, gdy pan zobaczy Arye albo Arya sama powie (rzut przy pierwszym widzeniu). · _kto:_ **ARYA (sama)** · _zamyka:_ pan wie, jak poszlo (rzut przy pierwszym widzeniu Aryi) **⚠ ZAMKNIETE 300-07-21 (RZUT 86): ARYA POWIEDZIALA GENDRY'EMU SAMA, W KUZNI PO ZMROKU. GENDRY WIE, KIM JEST. ARYA WRACA POD KONIEC KOLACJI Z SADZA NA REKACH: 'POWIEDZIALAM MU. SAMA.' JUTRO GENDRY POKAZE JEJ, JAK SIE KUJE HELM. OBIETNICA DOTRZYMANA - NIKT INNY MU NIE MOWIL.**
 - **300-07-21** — SPIENIEZENIE - KROK 2 (plan Krola 07-17): lista kolumny C gotowa -> (a) Krol pisze listy do domow handlowych Braavos i Pentos, Dorzecza i Reach ('pisze je ja, ty przynosisz liste'); (b) probne sprzedaze w Fosie Cailin i Zimowym Miescie. Lista do Krola - przynosi pan. · _kto:_ **SYMON -> KROL; GAWEN** · _zamyka:_ lista u Krola; listy krolewskie wyslane; probna sprzedaz wyznaczona **⚠ ZAMKNIETE 300-07-21: LISTA U KROLA. KROL PISZE LISTY DZIS WIECZOREM Z LUWINEM; PROBNE SPRZEDAZE WYZNACZONE (ZIMOWE MIASTO 07-27, FOSA - TARG CAILIN WG GARRICKA/GARTHA).**
 - **300-07-21** — LISTY KROLEWSKIE - SPRZEDAZ TOWARU KORONY (lista kolumny C): do domow handlowych BRAAVOS i PENTOS (kruk do BP -> statek, kanal Wymana/Nesty), do EDMURE'A (Riverrun) i do REACH (przez Riverrun / Olenne). Pisze KROL z Luwinem 07-21 wieczorem; wychodza 07-22 rano. Odzew - wola obca, RZUT przy kazdej odpowiedzi (Riverrun ~07-28; Braavos/Pentos ~08-20+; Reach ~08-10+). · _kto:_ **KROL -> domy handlowe Braavos/Pentos, Edmure, Reach** · _zamyka:_ pierwsza odpowiedz (rzut); reszta w swoich terminach
 - **300-07-21** — PROBNA SPRZEDAZ TOWARU KORONY - ZIMOWE MIASTO, niedziela 07-27 (dzien cwiczen rezerwy i zawodow - ludzie z okolicy w miescie): skory, welna, wosk, loj z listy C; stol Skarbu przy targu, pisarz z ksiega, cena wg kwitu Hala. Prowadzi GAWEN (pisarze Skarbu). Kupujacy - RZUT w dniu sprzedazy. · _kto:_ **GAWEN + pisarze Skarbu** · _zamyka:_ ile sprzedane, za ile (ksiega) - rzut
@@ -1186,10 +1186,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-21 popoludnie · zima (300)
+- **Data:** 300-07-21 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 80 · Zmeczenie 18**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 20**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2446,7 +2446,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-21] `dziennik`: SNIADANIE, WIELKA SALA. Bez rzutu. Kasza, chleb, maslo, ser, mleko; dla dzieci placki. Przy stole: KROL, Symon z Mira i LYRA, SANSA (z tabliczka i papierem), ARYA, BRAN (Hodor; Meera), RICKO…
 - [300-07-21] `dziennik`: PO SNIADANIU, KOMNATA NAMIESTNIKA - PIERWSZA LEKCJA BRAAVOSKIEGO: SYMON, SANSA, ARYA. RZUT 64 - DOBRZE. (1) UCHO: powitania, liczby do dwudziestu na palcach i monetach, 'ile', 'za drogo', 'b…
 - [300-07-21] `dziennik`: PRZED POLUDNIEM, KOMNATA NAMIESTNIKA - SYMON CZYTA POCZTE. (1) ZBIORCZY GARRICKA (pisany 07-19; wlasni - bez rzutu, zasada 7): piec spichlerzy wiejskich stoi, cztery z ksiega i klucznikiem, …
 - [300-07-21] `dziennik`: POLUDNIE, KOMNATA NAMIESTNIKA - ⚑ SLOWO PANA: (1) RADA LENNA - 'REKRUCI.' Program rekrutow idzie bez przerwy; zniwa lenna na dniowkach najemnych (Warryn, Kasa 2). Krotki list do rady (Garric…
@@ -2458,3 +2457,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-21] `dziennik`: POPOLUDNIE, SOLAR KROLA - SYMON PRZYNOSI KROLOWI LISTE TOWARU (kolumna C, Gawen). Bez rzutu (sprawa rozstrzygnieta 07-17 rzutem 86 - zasada 27; krok planu Krola). KROL czyta: 'Futra do Braav…
 - [300-07-21] `dziennik`: POPOLUDNIE, KOMNATA RODZINY - SYMON DO MIRY: czy atelier kupi welne od Krola? I jak projekt rozbudowy atelier? RZUT 99 (welna) - MISTRZOWSKO. MIRA: stara, nieprana welna z gor to gotowy mate…
 - [300-07-21] `dziennik`: KOMNATA RODZINY (cd.) - SYMON: z kapitalu Domu czy wlasnego atelier? Bez rzutu (ksiega). MIRA: 'Z ksiegi atelier. Atelier ma wlasna ksiege w Domu - po to ja ma.' Szare Plaszcze dla przyboczn…
+- [300-07-21] `dziennik`: WIECZOR, WIELKA SALA - KOLACJA Z RODZINA. Gulasz z baraniny, chleb, ser, piwo; dla dzieci kasza z miodem. Przy stole: KROL (listy do Braavos/Pentos/Riverrun/Reach napisane z Luwinem przed ko…

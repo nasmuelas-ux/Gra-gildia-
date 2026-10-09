@@ -10192,6 +10192,15 @@
    "wraca": "300-07-28",
    "zamyka": "wycena + lista specjalistow - RZUT na znalezienie specjalistow przy raporcie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "SPIS STAREJ MOWY - zlecenie Namiestnika (07-20) dla PISARZA PRZYSTANI KORONY NA CYPLU (przy ksiedze Vemunda; imie poda Vemund). Metoda Luwina: z ust naszymi literami, slownik 3 kolumny (brzmienie/znaczenie/runa), rzeczy->zdania->piesni i przysiegi, dwoch mowiacych na slowo, runy osobno (odrys z miejscem i data); bez przymusu, dniowka/chleb; bez imion mowiacych (znak ogniska); odpis co miesiac do biblioteki Luwina. Plik: gra/stara_mowa_spis_300_07.md.",
+   "kto": "SYMON -> VEMUND OD KOTWY -> pisarz przystani Korony (Cypel)",
+   "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport + lodz Torrena (jak do Sigrun)",
+   "wraca": "300-08-05",
+   "zamyka": "odpowiedz Vemunda: imie pisarza + pierwsze slowa - RZUT przy meldunku",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

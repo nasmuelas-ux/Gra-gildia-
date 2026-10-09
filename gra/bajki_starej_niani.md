@@ -291,3 +291,24 @@
 
 
 **Zwyczaj:** od 300-05-28 jedna bajka każdego wieczoru, przed spaniem albo po wizycie u Brana.
+
+---
+
+## 16. O OSTATNIM BOHATERZE (wersja trzecia)
+*Spisane 300-07-19 wieczorem, w izbie Niani. Niania siedziała przy ogniu z drutami, a w kącie drzemał Hodor. O nic nie pytałem. Niania sama wybrała bajkę.*
+
+> Było to w Długiej Nocy, kiedy zima trwała całe życie człowieka, a dzieci rodziły się i umierały w ciemności.
+>
+> Ostatni bohater postanowił odszukać Dzieci Lasu, bo ludzie zapomnieli, co one wiedzą. Wyruszył z dwunastoma towarzyszami, z psem, z koniem i z mieczem. Koń padł pierwszy, potem pies. Towarzysze odchodzili jeden po drugim, od zimna i od Innych, którzy szli za nimi przez śnieg na bladych pająkach wielkich jak psy. Kiedy wreszcie został sam, miecz zamarzł mu tak, że ostrze pękło, gdy go dobył.
+>
+> I wtedy Inni go znaleźli. Jechali za nim przez śnieg… *(Tu Niania urwała i wróciła do drutów.)*
+>
+> Dzieci go znalazły. Tak się kończy. Resztę niech ci opowie ktoś, kto przy tym był.
+
+*Dopisek spisującego:* Po chwili Niania powiedziała do mnie, nie podnosząc oczu: *„Miecz pękł. Zapamiętaj to, Namiestniku. Żelazo pęka od zimna.”*
+
+*Uwaga porządkowa, według reguły Brana: jeśli coś powiedziano dwa razy inaczej, zapisuje się obie wersje.*
+- **Wersja z 300-06-01 (nr 3):** *„psa stracił, konia mu zamroziło”*, kilku towarzyszy. Niania: *„Stal nic nie robi. Ogień robi. I czarne szkło, które rodzi się w ogniu.”*
+- **Wersja z 299-09-07 (nr 6):** **dwunastu towarzyszy**. Dzieci dały *„sto sztuk szkła, które nie jest szkłem”*, które *„rodziło się w ogniu góry”*.
+- **Wersja z 300-07-19 (nr 16, ta):** koń pada **przed** psem. Pierwszy raz pojawiają się **blade pająki** i **miecz, który pęka od mrozu**. Koniec: *„Dzieci go znalazły”*, bez słowa o szkle.
+- **Zgodność z kroniką Straży** (odpowiedź Aemona z 299-09-29, odnaleziona 300-07-19): *„Dzieci Lasu dawały Straży co roku sto noży z czarnego szkła”*. Liczba **sto** pada i w wersji 6, i w kronice. Bajka i księga z dwóch różnych źródeł mówią tę samą liczbę.

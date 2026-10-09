@@ -10291,6 +10291,15 @@
    "wraca": "300-08-01",
    "zamyka": "dzien targu wyznaczony + wynik (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "ATELIER KUPUJE WELNE KORONY (Mira, rzut 99): ~polowa wolnej welny z gor (~120 workow, E) po PROBCE i odsiewie (mol); JAWNIE przez Skarb (stol/ksiega Gawena), cena wg kwitu Hala, stara welna taniej (slowo Krola 07-21); ksiega atelier. Przeznaczenie: SZARE PLASZCZE przybocznej (welna szara, bez farbowania) + szwalnia Cailin (Orsa). Transport - wozem Korony do Fosy po spisie 07-24. Probka - Mira oglada w stodole kasztelana.",
+   "kto": "MIRA (atelier) <-> GAWEN (Skarb)",
+   "kanal": "Winterfell, osobiscie",
+   "wraca": "300-07-24",
+   "zamyka": "probka obejrzana, ilosc i cena w ksiedze Skarbu i atelier",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

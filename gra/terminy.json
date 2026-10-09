@@ -9943,10 +9943,10 @@
   },
   {
    "data": "300-07-19",
-   "co": "ZARZADCA DOMENY - SZUKANIE KANDYDATA (po rachunku Rodwella, rzut 19): urzad w Malej Radzie stoi pusty; ocena Gawena do Krola 07-19 wieczorem; kandydaci - do wskazania (Gawen szuka, Namiestnik moze przedlozyc; nominacja Krola).",
+   "co": "ZARZADCA DOMENY - SZUKANIE KANDYDATA (po rachunku Rodwella, rzut 19): urzad w Malej Radzie stoi pusty; ocena Gawena do Krola 07-19 wieczorem; kandydaci - do wskazania (Gawen szuka, Namiestnik moze przedlozyc; nominacja Krola). ### 07-19 (pan: szybko): Gawen kladzie 2-3 nazwiska przed Krolem do 07-24; Namiestnik moze dopisac (z adnotacja skad); do tego czasu pobor - pisarz Skarbu, osadnictwo - Rodwell pod Gawenem.",
    "kto": "GAWEN (+ SYMON) -> KROL",
    "kanal": "Winterfell",
-   "wraca": "300-07-26",
+   "wraca": "300-07-24",
    "zamyka": "kandydat przedlozony Krolowi na Malej Radzie albo decyzja o p.o.",
    "status": "otwarte"
   },
@@ -9975,6 +9975,24 @@
    "kanal": "Winterfell / Zimowe Miasto",
    "wraca": "300-07-26",
    "zamyka": "decyzja Krola + termin pierwszego targu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "OSADNICTWO DOMENY - INTENSYFIKACJA W OKREGACH ZBOZOWYCH I-III (slowo pana 07-19): model 299-08-28 (zagroda, narzedzia, ziarno z domeny, 5 lat bez daniny); Rodwell wskazuje puste zagrody w I-III do 07-26. OTWARTE: skad ludzie (pytanie Gawena do pana).",
+   "kto": "RODWELL pod GAWENEM",
+   "kanal": "Winterfell / domena",
+   "wraca": "300-07-26",
+   "zamyka": "lista pustych zagrod I-III + zrodlo osadnikow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "SIEW ZBOZA I ROSLIN POD WARUNKI POLNOCY - TERAZ (slowo pana 07-19): ozime przed mrozem (299: mroz ~08-29!); ziarno siewne z kolumny B (ilosc - karta Spichlerza Orlanda 07-19); odmiany - pytanie do THEOMORE'A (agronomia chlodu, Glebokorzen).",
+   "kto": "GAWEN + ORLAND; THEOMORE (rada)",
+   "kanal": "Winterfell; kruk do Przystani Wilka/Bialego Portu (Theomore)",
+   "wraca": "300-07-26",
+   "zamyka": "plan siewu ozimego na okregi I-III + odpowiedz Theomore'a o odmianach",
    "status": "otwarte"
   }
  ],

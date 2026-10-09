@@ -25,11 +25,10 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**247 otwartych** · **0 PRZETERMINOWANYCH** · 11 wraca dzis
+**247 otwartych** · **0 PRZETERMINOWANYCH** · 10 wraca dzis
 
 ### 🟡 WRACA DZIS
 - ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku… · _kanal:_ Winterfell (pan na miejscu)
-- KOWALE Z HARRENHALU - PRZYJAZD po ratyfikacji (~VII): pieciu (z Gendrym), dwaj dymarze, gornik; do zbrojowni Korony i rudy w Wilcz… · _kanal:_ trakt Dorzecze-Fosa-Winterfell
 - GP-1 GORACY PORT - RYSUNEK ETAPOW I-II: linia muru od morza, Wieza Morska, Wieza Polnocna, rynna lancucha; pomiar ujscia i dna. Ry… · _kanal:_ kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem
 - POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamie… · _kanal:_ list pana do Hala (poczta BP) + na miejscu
 - KASA MIEJSKA CAILIN - PODATEK MIEJSKI (zamiar Herwina 06-19): lawa nie uchwalila dotad zadnego podatku; kasa zyje z wagi (Bennis) … · _kanal:_ na miejscu
@@ -527,7 +526,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-05-22** — PANI FOSY - ODPISY DO MIRY: od nastepnego zbiorczego Garricka (co 7 dni) i karty szkoly Mabel Siwej (co 30 dni) - odpis do Miry w Winterfell. List Miry do Garricka (05-23) + slowo Symona. Wlasni ludzie - bez rzutu. · _kto:_ **MIRA (list) -> GARRICK + MABEL SIWA** · _zamyka:_ pierwszy zbiorczy z odpisem dla Miry **⚠ LIST WYSLANY 300-05-23 (MIRA + DOPISEK I PIECZEC SYMONA) - ODPIS OD NASTEPNEGO ZBIORCZEGO**
 - **300-05-22** — PANI FOSY - PIERWSZY OBJAZD MIRY NA FOSE (raz na pore roku, z Dagonem). Data - wybiera Mira. ### 07-15: Mira uczy od dzis w Zimowym Miescie - objazd Fosy po Bryndenie i powrocie matki Krola; data - Mira. · _kto:_ **MIRA + DAGON** · _zamyka:_ Mira na Fosie (data od Miry)
 - **300-05-23** — SZKLO Z MYR - OSTRZEZENIE WILLI: posrednik z Myr (pyta ile szkla kupuje Polnoc i ktoredy zboze z zewnatrz) placi przez DOM SZKLARSKI ORRELLO. Wycena szkla z Myr (Hal/Nesta, ~05-27) - NIE przez Orrello; Nesta ma wiedziec. · _kto:_ **SYMON -> HAL + NESTA** · _zamyka:_ wycena szkla sprawdzona: od kogo (nie Orrello) **⚠ WYSLANE 300-05-23 - KRUK DO HALA O SWICIE 05-24 (U HALA ~05-26); LIST DO NESTY PRZEZ HALA; ODPOWIEDZ HALA ~05-28: CZY WYCENA SZLA PRZEZ ORRELLO**
-- **300-05-23** — KOWALE Z HARRENHALU - PRZYJAZD po ratyfikacji (~VII): pieciu (z Gendrym), dwaj dymarze, gornik; do zbrojowni Korony i rudy w Wilczym Lesie. Arya - wiedza tylko (obietnica). ### +06-15 (Arya, rzut 71): W WINTERFELL NIKT NIE MOWI GENDRY'EMU O NIEJ - ani Symon, ani Krol; ona sama zdecyduje, czy i kiedy. · _kto:_ **SER ROBIN RYGER -> kolumna Dorzecza** · _zamyka:_ kowale w Winterfell **⚠ OTWARTE - 07-20 RANO: KOLUMNA PRZY GOSCIENCU, W WINTERFELL PO POLUDNIU (RZUT 52).**
+- **300-05-23** — KOWALE Z HARRENHALU - PRZYJAZD po ratyfikacji (~VII): pieciu (z Gendrym), dwaj dymarze, gornik; do zbrojowni Korony i rudy w Wilczym Lesie. Arya - wiedza tylko (obietnica). ### +06-15 (Arya, rzut 71): W WINTERFELL NIKT NIE MOWI GENDRY'EMU O NIEJ - ani Symon, ani Krol; ona sama zdecyduje, czy i kiedy. · _kto:_ **SER ROBIN RYGER -> kolumna Dorzecza** · _zamyka:_ kowale w Winterfell **⚠ OTWARTE - 07-20 RANO: KOLUMNA PRZY GOSCIENCU, W WINTERFELL PO POLUDNIU (RZUT 52). 07-20 (RZUT 44): NIE DZIS - ULEWA I BLOTO; KOLUMNA NOCUJE W GOSCINCU; JEZDZIEC Z KOLUMNY U BRAMY WIECZOREM; PRZYJAZD 07-21 PRZED POLUDNIEM.**
 - **300-05-23** — HAL - KIEDY I JAKIM STATKIEM WYPLYNAL MAESTER WYSTAN z Bialego Portu do Wschodniej Straznicy (przyspieszenie 05-23). · _kto:_ **SYMON -> HAL** · _zamyka:_ data i statek **⚠ ZAMKNIETE 300-05-27 - WYSTAN WYPLYNAL 05-11 NA 'SZAREJ FOCE'; WSCHODNIA STRAZNICA E ~05-23/25.**
 - **300-05-23** — ZIMOWE MIASTO - PRZEDNOWEK: kolumna biezaca krotko o ~2 tygodnie (E) do zniw. Orland: przerzut z komor albo pierwszy ladunek z Seagard; siewne i zapas nietykalne. Kolumna 'ludzie i wojsko' spozniona tydzien (pisarz skladu chory). · _kto:_ **ORLAND KORZEC** · _zamyka:_ luka zamknieta (przerzut albo Seagard) w nastepnej karcie **⚠ KARTA ORLANDA 06-06: LUKA ~2 TYG., ~2000-2600 KORCY (E); PROPOZYCJA: PRZERZUT Z KOMOR KORONY W WINTERFELL OD ZARAZ - CZEKA NA SLOWO PANA (NOWY TERMIN 06-06).**
 - **300-05-23** — NESTA - ORRELLO: kto w Braavos/Pentos handluje z domem szklarskim Orrello z Myr i czy ma wspolnika placacego za cudze pytania (sluchac, nie pytac). List przez Hala, statkiem. Kantor wlasny - bez rzutu na wydanie; co uslyszy - rzut przy odpowiedzi. · _kto:_ **SYMON -> NESTA (przez Hala)** · _zamyka:_ odpowiedz Nesty (rzut) **⚠ ZAMKNIETE 300-07-10 - LIST NESTY PRZEZ HALA (RZUT 44 - JEDNA KONSEKWENCJA): ORRELLO Z MYR SPRZEDAJE SZKLO W BRAAVOS PRZEZ JEDNEGO KUPCA Z PENTOS; O WSPOLNIKU PLACACYM ZA CUDZE PYTANIA - NIC; KONSEKWENCJA: PO INCYDENCIE Z KUPCEM Z LYS (07-09) NESTA TYLKO SLUCHA, NIE PYTA - NASTEPNA WIESC NAJWCZESNIEJ ~08-15.**
@@ -1160,10 +1159,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-20 poludnie · zima (300)
+- **Data:** 300-07-20 popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 17**
+- **Zdrowie 100 · Sytosc 84 · Zmeczenie 22**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2408,7 +2407,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-20] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON ROZSTRZYGA NIEJASNE POZYCJE MAJATKU: (1) GORACY PORT - wlasnosc lenna, koszty z ksiegi Hala jako INWESTYCJA DOMU do zakonczenia projektu; (2) SZKOLA FOSY …
 - [300-07-20] `poprawki`: ROZSTRZYGNIECIE SPRZECZNOSCI (gracz 07-20): placowka Domu w SEAGARD DZIALA I ISTNIEJE - wpis o odmowie Mallistera (300-04-05) przestaje obowiazywac jako stan; obowiazuje 05-26 (Edmure: dzial…
 - [300-07-20] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON: SZKOLA FOSY to SZKOLA TALLY (nazwa; wlasnosc Domu - Kasa 1). Bez rzutu. W ksiegach i zapisie odtad: 'Szkola Tally' (na Fosie; Mabel prowadzi, Mira nadzor…
 - [300-07-20] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON: SZKOLA TALLY - WIARA: DZIECKO ZOSTAJE PRZY SWOJEJ WIERZE, NIKOGO NIE NAWRACAMY (dziecko z septy - przy Siedmiu; ze starych bogow - przy drzewie; szkola u…
@@ -2420,3 +2418,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-20] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON PISZE DO HERWINA SZALY, BURMISTRZA CAILIN, i lawy (pismo do burmistrza, nie przez Garricka - jak precedens): lenno MOZE objac PATRONATEM powstanie CALEJ U…
 - [300-07-20] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON DO RADY LENNA (dopisek do poczty na Fose, kruk Domu 07-21 rano): (1) RAPORT RADY - odtad PO KAZDEJ RADZIE (sobota po sniadaniu), nie co dwa tygodnie; cykl…
 - [300-07-20] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SLOWO PANA: 'Fosa ma jeszcze stajnie i koszary.' Bez rzutu (stan majatku). Wpisane do spisu majatku lenna (majatek_tally_i_fosy_300_07.md, 3a/3b): STAJNIE FOSY i …
+- [300-07-20] `dziennik`: POPOLUDNIE, KOMNATA RODZINY - SYMON PRZYGOTOWUJE MATERIALY NA LEKCJE BRAAVOSKIEGO (07-21), Z LYRA (od Rhony; Mira w szkole Zimowego Miasta przy lawkach). Bez rzutu (wlasna wiedza, wlasna rob…

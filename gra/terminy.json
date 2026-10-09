@@ -4540,10 +4540,10 @@
   },
   {
    "data": "300-04-27",
-   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20. ### 06-20 (pan na Fosie): wiesc z Muru przez Winterfell do Fosy ~06-25. ### 300-06-25: wiesc z Muru (Clydas przez Winterfell): HALLIS doszedl z kolumna Umbera 06-20; Jona na Murze nie ma - list oddal DACEY MORMONT do reki, bo poselstwo idzie do Mance'a, wsrod ktorego Jona widziano. Bez rzutu (decyzja wlasnego czlowieka). Dalej - z poselstwem. ### 07-09 (Winterfell, stos Korony): list u Dacey w poselstwie za Murem - wiesc z poselstwem ~07-15.",
+   "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20. ### 06-20 (pan na Fosie): wiesc z Muru przez Winterfell do Fosy ~06-25. ### 300-06-25: wiesc z Muru (Clydas przez Winterfell): HALLIS doszedl z kolumna Umbera 06-20; Jona na Murze nie ma - list oddal DACEY MORMONT do reki, bo poselstwo idzie do Mance'a, wsrod ktorego Jona widziano. Bez rzutu (decyzja wlasnego czlowieka). Dalej - z poselstwem. ### 07-09 (Winterfell, stos Korony): list u Dacey w poselstwie za Murem - wiesc z poselstwem ~07-15. ### 07-15: Dacey - list doreczony, odpowiedz ma przy sobie (ustnie, 'tam, gdzie mam powiedziec') - w Winterfell ~07-25.",
    "kto": "BRAN -> HALLIS -> JON",
    "kanal": "poselstwo Dacey -> Mur -> Winterfell",
-   "wraca": "300-07-20",
+   "wraca": "300-07-25",
    "zamyka": "list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem",
    "status": "otwarte"
   },
@@ -6057,7 +6057,7 @@
    "kanal": "trakt Dorzecze-Fosa-Winterfell",
    "wraca": "300-07-20",
    "zamyka": "kowale w Winterfell",
-   "status": "otwarte"
+   "status": "otwarte - 07-20 rano: kolumna przy Gosciencu, w Winterfell po poludniu (rzut 52)."
   },
   {
    "data": "300-05-23",
@@ -8971,10 +8971,10 @@
   },
   {
    "data": "300-07-09",
-   "co": "SKAGOS - WYPRAWA KROLA Z FLOTA (decyzja 07-09, rzut 92): Krol plynie na czele floty wschodu z obstawa, by oficjalnie przyjac przysiege Skagos; MIEJSCE WYZNACZA KROL - plaza pod Kingshouse, pod choragwia Starkow, Magnar przychodzi na brzeg. FLOTA: okrety wojenne WYMANA + lodzie FLINTOW z Wdowiej Straznicy (lady Lyessa) + (jesli da) Mormontowie; BEZ KARHOLDU ('nie potrzebujemy jego statkow' - Karhold ma ich niewiele, zgodnie ze slowem pana). Pora: koniec lata, przed jesiennymi sztormami (E ~08-25..09-10). KOMUNIKAT USTNY przez czlowieka Lyessy do Kingshouse. Koszt - Kasa 3, kosztorys GAWEN (E). Listy Krola: Wyman (okrety, liczba), Lyessa (lodzie + posel). Wola Wymana i Lyessy - RZUT przy odpowiedziach. ### 07-10 (rada pana, rzut 4 - jedna konsekwencja): TRASA = OBJAZD WSCHODU: Bialy Port -> BOLTONSGATE i DREADFORT (Krol wita Roose'a u siebie, 'zeby Bolton nie byl jedynym, ktorego omijam'; dwudziestu z Dreadfortu wsiada TAM) -> KARHOLD / Ostatnia Rzeka (Rickard) -> SKAGOS (plaza pod Kingshouse). KONSEKWENCJA: objazd dodaje ~10 dni, a Zatoka Fok po polowie IX sztormuje - WYPLYNIECIE PRZESUNIETE NA ~08-12 z Bialego Portu (Krol z Winterfell ~08-05); Wyman musi miec okrety gotowe do ~08-10 (w liscie Krola) - mniej czasu z matka po jej powrocie (~07-25). ### 07-17 (rada Namiestnika, Krol RZUT 86 - TAK): (1) BEZ WALKI - wyprawa to demonstracja sily Korony, nie wojna; front na Skagos nie jest wart wyspy, uwaga na zachod, Mur i poludnie (Starkowie raz juz krwawo podporzadkowali wyspe i sami sie wykrwawili); (2) jesli Magnar nie przyjdzie na brzeg - flota odplywa, nikt nie laduje sila, 'wrocimy z listem, nie z ogniem'; (3) dwudziestu z Dreadfortu ZOSTAJE NA OKRECIE, nie schodzi na plaze; (4) jesli Skagos zaplaci i przysiegnie - ZAPROSZENIE Magnara (albo jego syna) do Winterfell; pytanie, czego potrzebuja i czemu sie dystansuja - 'nie zapomniana wyspa, tylko kraniec krolestwa'.",
+   "co": "SKAGOS - WYPRAWA KROLA Z FLOTA (decyzja 07-09, rzut 92): Krol plynie na czele floty wschodu z obstawa, by oficjalnie przyjac przysiege Skagos; MIEJSCE WYZNACZA KROL - plaza pod Kingshouse, pod choragwia Starkow, Magnar przychodzi na brzeg. FLOTA: okrety wojenne WYMANA + lodzie FLINTOW z Wdowiej Straznicy (lady Lyessa) + (jesli da) Mormontowie; BEZ KARHOLDU ('nie potrzebujemy jego statkow' - Karhold ma ich niewiele, zgodnie ze slowem pana). Pora: koniec lata, przed jesiennymi sztormami (E ~08-25..09-10). KOMUNIKAT USTNY przez czlowieka Lyessy do Kingshouse. Koszt - Kasa 3, kosztorys GAWEN (E). Listy Krola: Wyman (okrety, liczba), Lyessa (lodzie + posel). Wola Wymana i Lyessy - RZUT przy odpowiedziach. ### 07-10 (rada pana, rzut 4 - jedna konsekwencja): TRASA = OBJAZD WSCHODU: Bialy Port -> BOLTONSGATE i DREADFORT (Krol wita Roose'a u siebie, 'zeby Bolton nie byl jedynym, ktorego omijam'; dwudziestu z Dreadfortu wsiada TAM) -> KARHOLD / Ostatnia Rzeka (Rickard) -> SKAGOS (plaza pod Kingshouse). KONSEKWENCJA: objazd dodaje ~10 dni, a Zatoka Fok po polowie IX sztormuje - WYPLYNIECIE PRZESUNIETE NA ~08-12 z Bialego Portu (Krol z Winterfell ~08-05); Wyman musi miec okrety gotowe do ~08-10 (w liscie Krola) - mniej czasu z matka po jej powrocie (~07-25). ### 07-17 (rada Namiestnika, Krol RZUT 86 - TAK): (1) BEZ WALKI - wyprawa to demonstracja sily Korony, nie wojna; front na Skagos nie jest wart wyspy, uwaga na zachod, Mur i poludnie (Starkowie raz juz krwawo podporzadkowali wyspe i sami sie wykrwawili); (2) jesli Magnar nie przyjdzie na brzeg - flota odplywa, nikt nie laduje sila, 'wrocimy z listem, nie z ogniem'; (3) dwudziestu z Dreadfortu ZOSTAJE NA OKRECIE, nie schodzi na plaze; (4) jesli Skagos zaplaci i przysiegnie - ZAPROSZENIE Magnara (albo jego syna) do Winterfell; pytanie, czego potrzebuja i czemu sie dystansuja - 'nie zapomniana wyspa, tylko kraniec krolestwa'. ### 07-20 WYMAN (rzut 83): 10 okretow wojennych + 2 transportowce gotowe do 08-10 (E); prowiant - Kasa 3 (Gawen); Krol witany w BP przed wyplynieciem. Lyessa - odpowiedz jeszcze nie przyszla.",
    "kto": "KROL -> WYMAN, LYESSA FLINT; GAWEN (koszt)",
    "kanal": "kruki Winterfell-Bialy Port / Wdowia Straznica",
-   "wraca": "300-07-20",
+   "wraca": "300-07-26",
    "zamyka": "odpowiedzi Wymana i Lyessy + kosztorys Gawena; komunikat do Kingshouse wyslany",
    "status": "otwarte"
   },
@@ -9021,7 +9021,7 @@
    "kanal": "kruki Blizniaki/Seagard/Riverrun-Winterfell",
    "wraca": "300-07-20",
    "zamyka": "trzy odpowiedzi albo cisza",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 07-20 (rzut 17): Edmure TAK (Seagard-Riverrun, rece za dniowke); FREY TAK Z WARUNKIEM - myto dla Blizniakow na odcinku Blizniaki-Seagard + robotnicy z jego ziem przez jego zarzadce; MALLISTER - cisza (kruk nie wrocil)."
   },
   {
    "data": "300-07-09",
@@ -9910,7 +9910,7 @@
    "co": "ARYA - PRZYGOTOWANIE DO PROBY SZCZEBLA II (obca karta rachunkowa, jeden blad) - pomaga SYMON (slowo pana 07-18). Warunki Aryi: nie przy Sansie; na prawdziwej karcie, nie z ksiazki. Probe odbiera nauczyciel z innego wezla, losem (Kanon VI.3) - pan tylko przygotowuje. Start: 300-07-19 (slowo pana). Karta: gra/karta_cwiczebna_arya_300_07_19.md (drewno na wiosne, 2 bledy). Pora: po strzelaniu z Bryndenem.",
    "kto": "SYMON -> ARYA",
    "kanal": "osobiscie, Winterfell",
-   "wraca": "300-07-19",
+   "wraca": "300-07-22",
    "zamyka": "Arya przystepuje do proby II",
    "status": "otwarte - 07-19: pierwsza karta przerobiona (rzut 24 przy samej karcie; oba bledy znalezione na stanie fizycznym, drugi z podana miara). Nastepny krok: druga karta, juz bez drewna - do slowa pana. Probe odbiera nauczyciel z innego wezla (Kanon VI.3)."
   },
@@ -10075,6 +10075,15 @@
    "wraca": "300-07-23",
    "zamyka": "zgoda Wymana - RZUT przy odpowiedzi",
    "status": "otwarte - list Namiestnika z odpisem wyslany 07-19 wieczorem (kruk); odpowiedz ~07-23 - RZUT."
+  },
+  {
+   "data": "300-07-20",
+   "co": "FREY - WARUNEK MYTA NA ODCINKU BLIZNIAKI-SEAGARD (odpowiedz 07-20, rzut 17): myto dla Blizniakow + robotnicy z jego ziem przez jego zarzadce. MALLISTER - cisza. Decyzja Krola: przyjac, targowac, czy inna droga.",
+   "kto": "KROL (+ SYMON)",
+   "kanal": "Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "odpowiedz Krola Freyowi; ponowny kruk do Seagard",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -10232,7 +10241,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-07-05",
+   "ostatnio_odebrane": "300-07-19",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

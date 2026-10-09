@@ -10183,6 +10183,15 @@
    "wraca": "300-07-24",
    "zamyka": "odpowiedz burmistrza - RZUT",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "WLASNY WARSZTAT KUSZNICZY LENNA W CAILIN (polecenie pana 07-20): siły lenna (druzyna, Jastrzebie) strzelaja glownie z kusz - lenno powoluje WLASNY warsztat kuszniczy na DZIALCE KUPIONEJ W CAILIN. Rada lenna: (1) WYCENA (dzialka, budynek, narzedzia, ludzie; Warryn, Gerrik liczy) - kwot z glowy brak; (2) POSZUKANIE SPECJALISTOW - kusznikow-rzemieslnikow (Brusk robi dzis kusze w kuzni miasta; Benn Kusznik uczy strzelac z lodzi - strzelec, nie rzemieslnik). Odpowiedz w raporcie rady po sobocie 07-26.",
+   "kto": "SYMON -> RADA LENNA (Garrick, Warryn, Hendry, Kessel)",
+   "kanal": "kruk Domu Winterfell -> Fosa, 07-21 rano",
+   "wraca": "300-07-28",
+   "zamyka": "wycena + lista specjalistow - RZUT na znalezienie specjalistow przy raporcie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -10407,16 +10416,16 @@
   },
   {
    "id": "RAPORT_RADY_LENNA",
-   "co": "RAPORT RADY LENNA FOSY (Garrick, kanclerz) - list do pana co dwa tygodnie: sprawy lenna, decyzje rady, rozbieznosci (dwie opinie z data), czego potrzeba od pana.",
+   "co": "RAPORT RADY LENNA FOSY (Garrick, kanclerz) - list do pana PO KAZDEJ RADZIE (sobota po sniadaniu): sprawy lenna, decyzje rady, rozbieznosci (dwie opinie z data), czego potrzeba od pana.",
    "kto": "GARRICK + RADA LENNA",
    "kanal": "kruk Fosa-Winterfell (pan w Winterfell) / do rak (pan na Fosie)",
    "rytm": {
-    "co_dni": 14,
-    "start": "300-07-05"
+    "co_dni": 7,
+    "start": "300-07-19"
    },
    "opoznienie": 2,
    "ostatnio_odebrane": "300-07-05",
-   "zrodlo": "rozkaz pana 300-06-19"
+   "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)"
   },
   {
    "id": "RAPORT_WILLI",

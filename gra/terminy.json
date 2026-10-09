@@ -10129,6 +10129,15 @@
    "wraca": "300-07-25",
    "zamyka": "zgoda Theomore'a i zalecenie wyslane do lordow - albo odmowa z powodem (RZUT)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-20",
+   "co": "KUZNIA ZAMKOWA DO PIECIU STANOWISK (rozkaz pana 07-20): trzy nowe paleniska (murarze ~2 tyg.), kowadla - stare z magazynu do naprawy + dwa kupic w BP, miechy - nowe skory; WEGIEL - smolarze Wilczego Lasu (Smolna Polana); ZELAZO - najpierw z magazynu/danin (spis A/B/C), reszta kupic. Koszt - Gawen z ksiegi. Stal - z dymarki w Wilczym Lesie (Grim + ludzie Boltona + dymarze z Harrenhalu).",
+   "kto": "KOWAL ZAMKOWY + murarze; GAWEN (zakup)",
+   "kanal": "Winterfell",
+   "wraca": "300-08-05",
+   "zamyka": "piec stanowisk pracuje",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -9,11 +9,22 @@
 - Odbiór i księgę prowadzi Orwyl. Płaci Skarb, a kwoty idą z księgi, nie z głowy (zasada 43).
 - Warsztat **zostaje własnością rzemieślnika**. Korona go nie prowadzi, tylko kupuje i pilnuje wzoru.
 
-## WARSZTATY (stan 07-20; przyjęcie umów, rzut 46: TAK, z drobnymi warunkami)
+
+## WARSZTAT WŁASNY KORONY (słowo pana 07-20)
+**KUŹNIA ZAMKOWA WINTERFELL to WŁASNY STRATEGICZNY WARSZTAT KORONY.** To nie patronat, tylko **własność Korony** (v3, Z3: warsztaty strategiczne prowadzą Król i Namiestnik).
+- **Ludzie:**
+  - kowal zamkowy z czeladnikiem, w służbie zamku;
+  - **pięciu kowali z Harrenhalu**, w tym Gendry, na rocznej umowie Korony i na żołdzie;
+  - dwaj dymarze i górnik idą do Wilczego Lasu.
+- **Robi:** półhełmy (także przekute lwie), kolczugi dla starszych, groty włóczni i strzał, topory, noże, okucia tarcz.
+- **Rozbudowa:** 5 stanowisk (3 nowe paleniska, kowadła, miechy) do ~08-05.
+- **Węgiel i żelazo** pochodzą z magazynu i danin, a resztę kupuje Gawen.
+- **Nadzór:** Orwyl pilnuje arsenału i księgi odbioru, kierunek dają Król i Namiestnik, koszt liczy Skarb.
+
+## WARSZTATY W PATRONACIE (stan 07-20; przyjęcie umów, rzut 46: TAK, z drobnymi warunkami)
 
 | warsztat | kto | co dla Korony | warunek rzemieślnika |
 |---|---|---|---|
-| **Kuźnia zamkowa** | kowal zamkowy + czeladnik (+5 kowali z Harrenhalu, umowa Korony) | półhełmy, kolczugi (dla starszych), groty włóczni i strzał, topory, noże, okucia | 5 stanowisk, węgiel i żelazo (zamówienie u Gawena) |
 | **Łuczarz** | **Torm Cisowy** z synem | łuki jesionowe i cisowe (suche drewno na kilkadziesiąt sztuk) | **zaliczka na drewno**: chce ściąć jesion teraz, żeby wysechł na przyszłe lato |
 | **Cieśla I** | (imię u Orwyla) | tarcze lipowe, drzewca włóczni | — |
 | **Cieśla II** | (imię u Orwyla) | drzewca strzał, tarcze | — |

@@ -10263,6 +10263,33 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-22",
    "zamyka": "lista u Krola; listy krolewskie wyslane; probna sprzedaz wyznaczona",
+   "status": "zamkniete 300-07-21: lista u Krola. Krol pisze listy dzis wieczorem z Luwinem; probne sprzedaze wyznaczone (Zimowe Miasto 07-27, Fosa - targ Cailin wg Garricka/Gartha)."
+  },
+  {
+   "data": "300-07-21",
+   "co": "LISTY KROLEWSKIE - SPRZEDAZ TOWARU KORONY (lista kolumny C): do domow handlowych BRAAVOS i PENTOS (kruk do BP -> statek, kanal Wymana/Nesty), do EDMURE'A (Riverrun) i do REACH (przez Riverrun / Olenne). Pisze KROL z Luwinem 07-21 wieczorem; wychodza 07-22 rano. Odzew - wola obca, RZUT przy kazdej odpowiedzi (Riverrun ~07-28; Braavos/Pentos ~08-20+; Reach ~08-10+).",
+   "kto": "KROL -> domy handlowe Braavos/Pentos, Edmure, Reach",
+   "kanal": "kruki 07-22 rano (BP -> statek; Riverrun)",
+   "wraca": "300-07-28",
+   "zamyka": "pierwsza odpowiedz (rzut); reszta w swoich terminach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "PROBNA SPRZEDAZ TOWARU KORONY - ZIMOWE MIASTO, niedziela 07-27 (dzien cwiczen rezerwy i zawodow - ludzie z okolicy w miescie): skory, welna, wosk, loj z listy C; stol Skarbu przy targu, pisarz z ksiega, cena wg kwitu Hala. Prowadzi GAWEN (pisarze Skarbu). Kupujacy - RZUT w dniu sprzedazy.",
+   "kto": "GAWEN + pisarze Skarbu",
+   "kanal": "na miejscu",
+   "wraca": "300-07-27",
+   "zamyka": "ile sprzedane, za ile (ksiega) - rzut",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "PROBNA SPRZEDAZ TOWARU KORONY - FOSA CAILIN (komora Korony, Garth): pierwszy targ w Cailin po przyjsciu wozu z towarem (skory, welna) - dzien wyznacza Garth z Garrickiem; woz z Winterfell po spisie 07-24. Kupujacy - RZUT w dniu sprzedazy.",
+   "kto": "GAWEN -> GARTH (komora Fosy)",
+   "kanal": "woz Winterfell-Fosa + kruk",
+   "wraca": "300-08-01",
+   "zamyka": "dzien targu wyznaczony + wynik (rzut)",
    "status": "otwarte"
   }
  ],

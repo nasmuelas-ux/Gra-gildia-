@@ -335,3 +335,22 @@
 *Uwaga porządkowa (reguła Brana):*
 - **Joramun i Nocny Król:** w bajce nr 1 przeciw Nocnemu Królowi stają **Brandon Stark zwany Łamaczem i Joramun**. Tu Niania mówi tylko „król Winterfell”, bez imienia. Co do Joramuna wersje się zgadzają, imię Starka tym razem nie pada.
 - **Stara Mowa:** Niania pierwszy raz łączy ją z olbrzymami i z „mową kamieni”. To zgadza się z Luwinem (07-20): *„Thennowie, olbrzymi… tylko Stara Mowa”*.
+
+---
+
+## 18. O LODOWYM SMOKU
+*Spisane 300-07-22 wieczorem, w izbie Niani. Słuchali Rickon i mały Walder, a Bran przy oknie. W drzwiach, z sadzą pod paznokciami, przez chwilę stała Arya. Rickon chciał „o smoku, ale nie o tym z południa”.*
+
+> Na południu mają smoki z ognia, dziecko. My mamy swojego, i to zimnego.
+>
+> Daleko na północy, za Murem, za Lasem, za lodem, którego nikt nie przeszedł, żyje **lodowy smok**. Jest większy niż te z południa, a skrzydła ma tak cienkie, że widać przez nie gwiazdy. Nie zieje ogniem, tylko zimnem. Kogo dotknie jego oddech, ten zamarza, zanim zdąży krzyknąć, a potem stoi tak, jak stał, przez sto lat, póki wiatr go nie rozsypie.
+>
+> Kiedy lodowy smok leci nad ziemią, rzeki stają w biegu, a ptaki spadają z nieba jak kamienie. Kiedy umiera, nie zostawia kości. Zostawia tylko trochę zimnej wody, a nad nią mgłę, która nie znika do wiosny.
+>
+> *(Rickon zapytał, czy da się go zabić.)*
+>
+> Ogniem? Śmieszne dziecko. Ogień przy nim gaśnie jak świeca na wietrze. Lodowego smoka nie zabija się, tylko przeczekuje, jak zimę. Dlatego mądrzy ludzie mieli spichrze, a głupi mieli miecze.
+
+*Dopisek spisującego:* Kiedy Rickon i Walder zasnęli, Niania powiedziała w ogień: *„Wy, panie, z tymi swoimi spichrzami, pasujecie do tej bajki lepiej niż Król z mieczem. Nie mówcie mu, że tak powiedziałam.”* Arya w drzwiach już jej nie słyszała. Poszła spać, zanim smok umarł.
+
+*Uwaga porządkowa (reguła Brana):* lodowy smok pojawia się pierwszy raz. Z Długą Nocą ani z Innymi Niania go nie łączy, więc to nie jest wersja tamtych bajek, tylko osobna. Pasuje do stosu (c) Brana: bajki o zimie bez imion i dat.

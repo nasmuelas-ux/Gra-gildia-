@@ -5947,7 +5947,7 @@
    "co": "OSIEM BUDOW - CHECKPOINTY Z KARTY (harmonogram wlasny urzedu): spichlerze wiejskie start 06-05, piec pierwszych z ksiega 07-15; kwatery/stajnie/zbrojownia start 06-10, pod dachem 09-01; wieze zamku (Orbelo) start 07-01, pierwsza z 17 do pelnej wysokosci 10-15; trzy wielkie spichlerze start 07-15. Meldunek w zbiorczym Garricka. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "GARRICK / WARRYN / ORBELO",
    "kanal": "zbiorczy Garricka co 7 dni",
-   "wraca": "300-07-21",
+   "wraca": "300-07-26",
    "zamyka": "piec spichlerzy wiejskich z ksiega (pierwszy checkpoint twardy)",
    "status": "otwarte ### otwarte - zbiorczy 07-19: PIEC SPICHLERZY WIEJSKICH STOI, CZTERY Z KSIEGA I KLUCZNIKIEM; piaty (wies na mokradlach) bez klucznika - nikt we wsi nie pisze (Mella szuka). Trzy wielkie spichlerze - wykop pod pierwszy (od 07-15)."
   },
@@ -7495,7 +7495,7 @@
    "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%. ### 07-09 (Winterfell, stos Poludnie i morze): RZUT 9 - JEDNA KONSEKWENCJA: LAWA CAILIN ODRZUCA POZYCZKE W TEJ FORMIE - nie zgodzi sie na splate z czynszow ('Dom bedzie zbieral nasze czynsze - to juz pan kamienic'); proponuje w zamian POZYCZKE W MATERIALE (kamien, wapno, belki z magazynu Domu) splacana moneta z kasy miejskiej. Do slowa pana. ### 07-09 SLOWO PANA: 'Zgodnie z tym, jak Cailin chce' - POZYCZKA W MATERIALE (kamien, wapno, belki z magazynu Domu), splata moneta z kasy miejskiej, 0,5% rocznie; umowa Hal + Herwin + lawa, na slup.",
    "kto": "HAL + HERWIN SZALA + lawa",
    "kanal": "list pana do Hala (poczta BP) + na miejscu",
-   "wraca": "300-07-21",
+   "wraca": "300-07-24",
    "zamyka": "umowa pozyczki w materiale podpisana, wykaz materialu i termin splaty na slupie",
    "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: czeka na kwote Hala (wycena pierwszego rzedu kamienic)."
   },
@@ -7522,7 +7522,7 @@
    "co": "KASA MIEJSKA CAILIN - PODATEK MIEJSKI (zamiar Herwina 06-19): lawa nie uchwalila dotad zadnego podatku; kasa zyje z wagi (Bennis) i niczego wiecej - na bruk, mury, straz brak. Herwin przedlozy lawie po sianokosach MALE PODYMNE albo OPLATE BRAMNA - zeby miasto mialo z czego splacac pozyczke 0,5%. Wola lawy - RZUT przy uchwale.",
    "kto": "HERWIN -> LAWA",
    "kanal": "na miejscu",
-   "wraca": "300-07-21",
+   "wraca": "300-07-26",
    "zamyka": "uchwala lawy (rzut)",
    "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: lawa nie uchwalila; Herwin kladzie projekt na lawie (rzut przy uchwale)."
   },
@@ -8146,7 +8146,7 @@
    "co": "REKRUCI LENNA - OSOBNY PROGRAM (rozkaz pana 06-21): TRZY MIESIACE PODSTAWY - dyscyplina, forma, wlocznia i tarcza w szyku (najprostsze, co trzyma linie), kusza; litery - imie i rozkaz. Po trzech miesiacach PROBA: zdal - do druzyny stalej (mieszkanie sluzbowe, dodatki, rok do wlasnosci); nie zdal - do rezerwy albo do domu. Rekruci ze wsi wracaja po sianokosach (~07-20). Prowadzi dziesietnik od rekrutow (Hendry wskazuje). Wlasni - bez rzutu. ### 07-01: rekruci ze wsi na sianokosach (decyzja 06-18) - program wraca po nich.",
    "kto": "HENDRY",
    "kanal": "na miejscu",
-   "wraca": "300-07-21",
+   "wraca": "300-07-26",
    "zamyka": "program rekrutow ruszyl; pierwsza proba ~10-01",
    "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: PROGRAM RUSZYL 07-14 po sianokosach (trzy miesiace podstawy); proba ~10-01. Rozbieznosc w radzie (zniwa VIII) - do slowa pana."
   },

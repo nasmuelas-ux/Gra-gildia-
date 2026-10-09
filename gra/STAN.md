@@ -25,12 +25,11 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**245 otwartych** · **0 PRZETERMINOWANYCH** · 32 wraca dzis
+**245 otwartych** · **0 PRZETERMINOWANYCH** · 28 wraca dzis
 
 ### 🟡 WRACA DZIS
 - PRZYSTAN NA OSTATNIEJ RZECE (KARHOLD) - KARSTARK PRZYJAL (rzut 26/25). Trzy klucze: czlowiek Karholdu przy wadze, pisarz Korony pr… · _kanal:_ wlasny czlowiek na Fosie
 - ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'… · _kanal:_ kruk Winterfell-Fosa (05-16) + robota na miejscu
-- OSIEM BUDOW - CHECKPOINTY Z KARTY (harmonogram wlasny urzedu): spichlerze wiejskie start 06-05, piec pierwszych z ksiega 07-15; kw… · _kanal:_ zbiorczy Garricka co 7 dni
 - KOWALE Z HARRENHALU - PRZYJAZD po ratyfikacji (~VII): pieciu (z Gendrym), dwaj dymarze, gornik; do zbrojowni Korony i rudy w Wilcz… · _kanal:_ trakt Dorzecze-Fosa-Winterfell
 - KOPIOWANIE KSIAG URZEDOWYCH DLA FOSY - pisarze szkoly na Fosie pod okiem Miry (do czasu skryptorium w Latarni); dniowka Kasa 2; or… · _kanal:_ Winterfell / Fosa
 - DUSTINPORT E1 - PALISADA OD WODY I WIEZA OGNIA w lancuchu. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19,… · _kanal:_ jak wyzej
@@ -38,8 +37,6 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 - ATELIER - KUPIEC WELNY W BARROWTON: wybiera najstarsza szwaczka atelier (BP) na list Miry; kupuje z prawa skladu i od tkaczek Barb… · _kanal:_ list Miry z Barrowton/Fosy do BP
 - DOM DOMU TALLY W CAILIN DLA SWOICH (zgoda pana 06-19, propozycja Alys): kamienica kanalowa wg standardu projektu Cailin - pisarze,… · _kanal:_ na miejscu
 - FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzi… · _kanal:_ na miejscu; Weylin po powrocie
-- POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamie… · _kanal:_ list pana do Hala (poczta BP) + na miejscu
-- KASA MIEJSKA CAILIN - PODATEK MIEJSKI (zamiar Herwina 06-19): lawa nie uchwalila dotad zadnego podatku; kasa zyje z wagi (Bennis) … · _kanal:_ na miejscu
 - MCHOWE JASTRZEBIE DO 100 (rozkaz pana 06-19; dzis 20): straz lenna - ulice Cailin (do strazy miejskiej), grobla i woda, Goracy Por… · _kanal:_ na miejscu
 - WERBUNEK PISZACYCH DLA KANCELARII LENNA (rozkaz pana 06-19): KONTRAKTY na pismie (rok, stawka z ksiegi lenna) i DWIE WYPLATY Z GOR… · _kanal:_ slupy Cailin, trakt, Bialy Port (Hal), septy
 - WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z … · _kanal:_ na miejscu
@@ -49,7 +46,6 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 - PRZEMYT - KTO ORGANIZUJE (zgoda pana 06-20, wniosek Kessela): rytm lodzi/dni barki (zapis 299-10), 'piata rzecz przy wodzie' (Reed… · _kanal:_ na miejscu / poczta
 - 10 LUDZI Z DRUZYNY NA ULICE CAILIN DO PIERWSZEJ FALI JASTRZEBI (zgoda pana 06-21, propozycja Hendry'ego): na ulicy pod rozkazem Ke… · _kanal:_ na miejscu
 - KSIEGA PRZYBYSZOW PRZY BRAMIE (zgoda pana 06-21, propozycja Roderyka): kto zostaje w lennie dluzej niz trzy noce - imie, skad, co … · _kanal:_ na miejscu
-- REKRUCI LENNA - OSOBNY PROGRAM (rozkaz pana 06-21): TRZY MIESIACE PODSTAWY - dyscyplina, forma, wlocznia i tarcza w szyku (najpros… · _kanal:_ na miejscu
 - STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (2) GRANICA Z REEDAMI (Szara Woda) - OZNACZYC: list pana do HOWL… · _kanal:_ poslaniec krannogow Fosa-Szara Woda
 - ORGANIZACJA KOMORY CELNEJ - ROZKAZ NAMIESTNIKA DO GARTHA (wersja dopasowana: oplaty w monecie wg Karty, zywnosc na przywoz 0, bez … · _kanal:_ kruk Fosa-Winterfell; na miejscu
 - LECZNICA - TRZECIA I CZWARTA UCZENNICA NINY (wola pana 06-26): imie daje NINA (zasada: kto pracuje, ten nazywa); szuka w obu spisa… · _kanal:_ na miejscu

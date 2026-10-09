@@ -10222,11 +10222,20 @@
   },
   {
    "data": "300-07-21",
-   "co": "WYMAN - PROSBA KORONY O OKRET WOJENNY NA MORZE WSCHODNIE (list Namiestnika 07-21; poprawka pana przed wyslaniem: wschodnie, nie zachodnie): (1) drewno Korony - pierwszenstwo dla stoczni Bialego Portu PRZYJETE (reszta do faktora Illyria); (2) Korona pyta, czy lord Wyman DARUJE KORONIE JEDEN OKRET WOJENNY na morze wschodnie. Wola Wymana - RZUT przy odpowiedzi.",
+   "co": "WYMAN - PROSBA KORONY O OKRET WOJENNY WZORU II NA MORZE WSCHODNIE (list Namiestnika 07-21): (1) drewno Korony - pierwszenstwo dla stoczni Bialego Portu PRZYJETE (reszta do faktora Illyria); (2) Korona pyta, czy lord Wyman DARUJE KORONIE JEDEN OKRET WOJENNY WZORU II (Norma Czterech Wzorow 299-12-05: dlugi, waski, szybki, pas lodowy, zagiel i wiosla, od wregu z szablonu) na morze wschodnie; (3) W ZAMIAN Korona SPROBUJE SKOORDYNOWAC TRANSPORT DREWNA TAKZE LORDOW (nie tylko Korony) do Bialego Portu - dla jego stoczni. Wola Wymana - RZUT przy odpowiedzi.",
    "kto": "SYMON (Namiestnik) -> WYMAN",
    "kanal": "kruk Winterfell-Bialy Port (07-21 po poludniu)",
    "wraca": "300-07-24",
    "zamyka": "odpowiedz Wymana (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "KORONA - KOORDYNACJA TRANSPORTU DREWNA LORDOW DO BIALEGO PORTU (obietnica w liscie do Wymana 07-21 'sprobuje', za okret Wzoru II): ktore lordy maja drewno do sprzedania, ktoredy (Bialy Noz, trakty), kto kupuje (stocznia BP po cenie ze slupa) - ruszyc PO odpowiedzi Wymana; prowadzi Skarb (Gawen) z Mistrzem Handlu.",
+   "kto": "SYMON -> GAWEN (+ Wyman jako Mistrz Handlu)",
+   "kanal": "na miejscu / kruki do lordow",
+   "wraca": "300-07-24",
+   "zamyka": "po odpowiedzi Wymana: decyzja czy i jak ruszac",
    "status": "otwarte"
   }
  ],

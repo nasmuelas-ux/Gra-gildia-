@@ -9913,6 +9913,15 @@
    "wraca": "300-07-19",
    "zamyka": "Arya przystepuje do proby II",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "LIST SYMONA DO AEMONA - OTWARCIE (gra/list_do_aemona_300_07_19.md): (1) czarne szklo; (2) Daenerys z imienia (Meereen, trzy smoki, bez statkow); (3) czlowiek z czesci IV listu 299-09-15 - czy uslyszal slowo (bez imienia); (4) czarny brat na losiu (Thenn/Dacey). Podpis pelnym imieniem (warunek Aemona z 03/300). Kanal: kruk Domu Winterfell -> placowka Domu w Czarnym Zamku, pracownik Domu do rak wlasnych (NIE lancuch maesterski).",
+   "kto": "SYMON -> AEMON (przez placowke Domu)",
+   "kanal": "kruk Domu Tally + pracownik placowki",
+   "wraca": "300-07-22",
+   "zamyka": "odpowiedz Aemona (ustna/pisana) albo cisza - RZUT przy powrocie (stan + wola)",
+   "status": "otwarte - wyslany 07-19 rano"
   }
  ],
  "_dopiski_300_03_18": [

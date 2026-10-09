@@ -10561,6 +10561,15 @@
    "wraca": "300-07-28",
    "zamyka": "lekcja 3 odbyta (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-25",
+   "co": "STARKPORT/CYPEL - PROSBA Z KARTY 07-20: igly do sieci i drugi wor soli (prosba z czerwca nie doszla); Cypel - ziarna na trzy tygodnie, czeka na zboze Tallharta (kontrakt ~08-05). Do slowa pana (Gawen/Korona).",
+   "kto": "SYMON -> GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-07-28",
+   "zamyka": "igly i sol w drodze; ziarno dla Cypla na luke do Tallharta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -10705,7 +10714,7 @@
     "dzien_miesiaca": 20
    },
    "opoznienie": 5,
-   "ostatnio_odebrane": "300-06-20",
+   "ostatnio_odebrane": "300-07-25",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -10743,7 +10752,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-07-18",
+   "ostatnio_odebrane": "300-07-25",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

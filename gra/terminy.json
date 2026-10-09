@@ -10218,6 +10218,15 @@
    "kanal": "list pana do rady (poczta Fosa)",
    "wraca": "300-07-26",
    "zamyka": "slowo pana przed rada 07-26",
+   "status": "zamkniete 300-07-21: SLOWO PANA - 'REKRUCI.' Program rekrutow trwa bez przerwy na zniwa (opinia Hendry'ego); zniwa lenna - rece najete na dniowke (Warryn, Kasa 2). List pana do rady - kruk do Fosy po poludniu 07-21."
+  },
+  {
+   "data": "300-07-21",
+   "co": "WYMAN - PROSBA KORONY O OKRET WOJENNY NA MORZE ZACHODNIE (list Namiestnika 07-21): (1) drewno Korony - pierwszenstwo dla stoczni Bialego Portu PRZYJETE (reszta do faktora Illyria); (2) Korona pyta, czy lord Wyman DARUJE KORONIE JEDEN OKRET WOJENNY na morze zachodnie (pod Pierwszego Admirala Torrena). Wola Wymana - RZUT przy odpowiedzi.",
+   "kto": "SYMON (Namiestnik) -> WYMAN",
+   "kanal": "kruk Winterfell-Bialy Port (07-21 po poludniu)",
+   "wraca": "300-07-24",
+   "zamyka": "odpowiedz Wymana (rzut)",
    "status": "otwarte"
   }
  ],

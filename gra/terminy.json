@@ -4543,9 +4543,9 @@
    "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20. ### 06-20 (pan na Fosie): wiesc z Muru przez Winterfell do Fosy ~06-25. ### 300-06-25: wiesc z Muru (Clydas przez Winterfell): HALLIS doszedl z kolumna Umbera 06-20; Jona na Murze nie ma - list oddal DACEY MORMONT do reki, bo poselstwo idzie do Mance'a, wsrod ktorego Jona widziano. Bez rzutu (decyzja wlasnego czlowieka). Dalej - z poselstwem. ### 07-09 (Winterfell, stos Korony): list u Dacey w poselstwie za Murem - wiesc z poselstwem ~07-15. ### 07-15: Dacey - list doreczony, odpowiedz ma przy sobie (ustnie, 'tam, gdzie mam powiedziec') - w Winterfell ~07-25.",
    "kto": "BRAN -> HALLIS -> JON",
    "kanal": "poselstwo Dacey -> Mur -> Winterfell",
-   "wraca": "300-07-25",
+   "wraca": "300-08-15",
    "zamyka": "list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: u Hallisa - bez kanalu do Jona (zasada 34); wiesc tylko, jesli Hallis cos przekaze."
   },
   {
    "data": "300-04-28",
@@ -4768,9 +4768,9 @@
    "co": "NESTA - PROBIERCA I GORNIK Z BRAAVOS na umowie Korony (przy nastepnym liscie do Braavos). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): list do Nesty (probierca i gornik z Braavos na umowie Korony) wyszedl dzis z poczta Fosy do Braavos przez Bialy Port; odpowiedz ~07-25 (E).",
    "kto": "SYMON -> NESTA",
    "kanal": "list przez Fose-Braavos",
-   "wraca": "300-07-25",
+   "wraca": "300-08-20",
    "zamyka": "odpowiedz Nesty",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: przy nastepnym liscie do Braavos (listy Krola 07-22) - odpowiedz ~08-20."
   },
   {
    "data": "300-05-01",
@@ -5335,9 +5335,9 @@
    "co": "REZERWA LENNA I SZKOLENIE - Hendry zaczyna tworzyc rezerwe (pospolite ruszenie lenna: spis przy ruszeniu, dni cwiczen); obecny garnizon szkoli. Spojnosc z planem rezerwy Korony (Osric ~05-24). ### 06-19 HENDRY: spis ruszenia po sianokosach (wsie przy kosach) - ~07-25. ### 06-21: PLAN SPISANY - gra/plan_druzyny_i_ruszenia_fosy_300_06.md (druzyna zawodowa, rekruci, proba co pol roku, szkola dowodzenia, ruszenie lenna).",
    "kto": "HENDRY + (Osric - wzor)",
    "kanal": "meldunek zbiorczy Garricka",
-   "wraca": "300-07-25",
+   "wraca": "300-07-28",
    "zamyka": "spis rezerwy lenna i kalendarz cwiczen na pismie",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28)."
   },
   {
    "data": "300-05-14",
@@ -7299,7 +7299,7 @@
    "kanal": "list Miry z Barrowton/Fosy do BP",
    "wraca": "300-07-24",
    "zamyka": "kupiec w Barrowton + pierwsza bela welny",
-   "status": "otwarte ### 07-22: list atelier BP jeszcze nie przyszedl (zasada 34) - ~07-24. ### 07-24: list atelier BP przyszedl do Miry (wlasne, bez rzutu) - kupiec wybrany, w drodze do Barrowton."
+   "status": "zamkniete 300-07-24: list atelier BP przyszedl; kupiec welny wybrany (najstarsza szwaczka wskazala), w drodze do Barrowton - ksiega atelier."
   },
   {
    "data": "300-06-13",
@@ -7513,9 +7513,9 @@
    "co": "SPIS LETNI CAILIN (propozycja Herwina 06-19): po sianokosach, dymy i dusze imiennie - Mella (przybysze) + Alys (lenno) + pisarz grodzki; ostatni spis 02-25 (~1400 + ~400 przybyszow). Wlasni + miasto - bez rzutu.",
    "kto": "HERWIN + MELLA + ALYS",
    "kanal": "na miejscu",
-   "wraca": "300-07-25",
+   "wraca": "300-07-28",
    "zamyka": "liczba dusz i dymow na slupie",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28)."
   },
   {
    "data": "300-06-19",
@@ -8155,9 +8155,9 @@
    "co": "SZKOLA DOWODZENIA DRUZYNY FOSY (rozkaz pana 06-21: 'ucz ich tez dowodzenia, ten co sie nadaje - to oni beda dowodzic pospolitym ruszeniem'). Plan: gra/plan_druzyny_i_ruszenia_fosy_300_06.md pkt 7-8: trzy szczeble (starszy zolnierz / dziesietnik / setnik), kazdy dziesietnik ma STALA dziesiatke ruszenia (z jednej wsi) + zastepce ze wsi; rachunek E: 500 ruszenia = 50 dziesietnikow + 5 setnikow z ~200 stalych. Pierwszy kurs dziesietnika ruszenia - VIII (po spisie ruszenia ~07-25). OTWARTE DO SLOWA PANA: (1) ruszenie dobrowolne-platne czy powinnosc; (2) dodatek dowodczy; (3) bron w chacie - wlocznia+luk czy wlocznia+kusza. Wlasni - bez rzutu. ### 06-21 PAN: (1) RUSZENIE LENNA = POWINNOSC WOBEC PANA (bez dniowki; obowiazkowe dni cwiczen; spis kazdego zdolnego 16-50) - Hendry: chleb z wiktu twierdzy w dzien cwiczen (ponizej progu rady); (2) DODATEK DOWODCZY - TAK (dziesietnik, setnik, zastepca ze wsi; kwota Warryn 07-05); (3) BRON W CHACIE - WLOCZNIA I LUK (tarcza do strzelania przy wsi; kusza - druzyna i Jastrzebie). ### ⚠ DOPRECYZOWANIE PANA 06-21 (VOID poprzedniego odczytu 'bez dniowki' i 'chleb z wiktu twierdzy'): CWICZENIA RUSZENIA SA PLATNE (dniowka + chleb, dzien w miesiacu i tydzien jesienny; kwota Warryn 07-05); WEZWANIE DO WALKI W RAZIE ZAGROZENIA - BEZ ZAPLATY (powinnosc wobec pana).",
    "kto": "HENDRY",
    "kanal": "na miejscu",
-   "wraca": "300-07-25",
+   "wraca": "300-07-28",
    "zamyka": "spis ruszenia + lista kandydatow na dziesietnikow ruszenia",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28)."
   },
   {
    "data": "300-06-22",
@@ -8427,7 +8427,7 @@
    "kanal": "Winterfell (pan na miejscu)",
    "wraca": "300-07-25",
    "zamyka": "zgoda trzech platnikow na pismie",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: na Radzie Trzech dzis (karta Borsa przywiezli ludzie Wymana)."
   },
   {
    "data": "300-06-25",
@@ -8857,9 +8857,9 @@
    "co": "DANE ZIM Z POLNOCY - ZEBRAC DO WYMIANY Z CYTADELA (pan: 'takie dane zbieralismy z Polnocy, postaram sie to zebrac'). Z ZAPISU: ZBIOR SWIADECTW POLNOCY 299-09/10 - czternascie pism do maesterow; odkrycie 299-10-20: trzeba pytac o KSIEGI POGODY (Dreadfort - ksiega pogody maestera; Ostatnie Ognisko - kronika); material w GLEBOKORZENIU (Theomore) i u LUWINA (Ksiegi Zimowe zamku - wypis na powrot pana). FILTR ORWYNA: wysylac pogode i dlugosc zim, NIE rachunki spizarni (licznik wytrzymalosci zamkow). Glebokorzen pozostaje niezalezny od Cytadeli (299-09-10) - wymiana, nie oddanie. Zestawia pan z Theomore'em i Luwinem w Winterfell.",
    "kto": "SYMON + THEOMORE + LUWIN",
    "kanal": "Winterfell (~07-08)",
-   "wraca": "300-07-25",
+   "wraca": "300-08-10",
    "zamyka": "zestawienie danych zim gotowe do wymiany (bez spizarni)",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: zadanie pana - bez ruchu; do slowa pana."
   },
   {
    "data": "300-07-01",
@@ -9001,9 +9001,9 @@
    "co": "CZARNY KAMIEN Z TORFIARNI FOSY - ZRODLO WLASNE SMOCZEGO SZKLA (decyzja Krola 07-09): GARRICK liczy, ile odlozono od 300-03-18, i przysyla probke do Winterfell; LUWIN sprawdza, czy to szklo (obsydian) czy zwykly kamien; jesli szklo - torfiarze odkladaja kazdy kawalek na kwit (platne z Kasy 3, zbiera Korona). ZAKAZ: zadnego szkla z kurhanow (Krol).",
    "kto": "GARRICK (Fosa) -> LUWIN (Winterfell)",
    "kanal": "kruk Winterfell-Fosa + woz z probka",
-   "wraca": "300-07-25",
+   "wraca": "300-07-28",
    "zamyka": "probka zbadana przez Luwina; ilosc na kwicie",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28)."
   },
   {
    "data": "300-07-09",
@@ -9082,9 +9082,9 @@
    "co": "KARSTARK - WZMOCNIC (slowo pana 07-10, decyzja Krola rzut 44): (1) KROL ZAWIJA DO KARHOLDU w drodze na Skagos, schodzi na brzeg, rozmawia z Rickardem w twarz (rada Sansy); (2) CZLOWIEK KARSTARKA przy wymianie jencow w Maidenpool (Edmure - list Krola); (3) STRAZ MARCHII Karholdu (od 04-01 w sluzbie Korony) - ogloszona publicznie przy lordach jako 'oko Krola na wschodzie', z zoldem Korony. KONSEKWENCJA (rzut 44): Bolton odczyta to jako nacisk - 'wzmocnic Karstarka to powiedziec Boltonowi, kto pilnuje jego drzwi' (Krol); napiecie na wschodzie rosnie. List Krola do Rickarda (zapowiedz wizyty) - razem z odpowiedzia na jego warunek. ### 07-10 (slowo pana): Karstark ma juz PRZYSTAN NA OSTATNIEJ RZECE (04-02, rzut 26; trzy klucze; budowa po siewach) i STRAZ MARCHII w sluzbie Korony (30 ludzi, zold Kasy 3 od 05-01). KROL: przystan Ostatniej Rzeki - Korona daje juz teraz WAGE, SLUP Z CENA, KSIEGE I PISARZA (jej czesc z umowy) i przyspiesza deski z Wilczego Lasu; Gawen - koszt z Kasy 3 (E). 'Niech Rickard zobaczy, ze to, co obiecalismy, rosnie.' ### 07-10 KOREKTA (pytanie pana: 'po co ma uslyszec to o Karholdzie?'): PKT (3) - PUBLICZNE OGLOSZENIE 'OKA KROLA NA WSCHODZIE' SKRESLONE. Straz marchii zostaje, jak byla (zold Korony od 05-01, bez nowego ogloszenia). Wzmocnienie Karstarka - CICHO: wizyta Krola w drodze na Skagos, czlowiek przy Maidenpool, przystan Ostatniej Rzeki przyspieszona. Konsekwencja rzutu 44 lagodnieje: Bolton zobaczy tylko okret Krola przy Karholdzie - wizyte, nie ogloszenie.",
    "kto": "KROL -> RICKARD KARSTARK ; KROL -> EDMURE (Maidenpool)",
    "kanal": "kruk Winterfell-Karhold / Riverrun",
-   "wraca": "300-07-25",
+   "wraca": "300-07-26",
    "zamyka": "Rickard wie o wizycie; czlowiek Karstarka wskazany do Maidenpool",
-   "status": "otwarte 07-21: kanal Krola - stan na Radzie Trzech 07-25."
+   "status": "otwarte 07-21: kanal Krola - stan na Radzie Trzech 07-25. ### 07-25: na Male Rade 07-26."
   },
   {
    "data": "300-07-10",
@@ -9181,9 +9181,9 @@
    "co": "AKCJA KALENDARZ 301 (rozkaz pana 07-11, osobna linia w ksiedze Hala): trzy wersje - KUPIECKI (targi, weksle, komory i clo, ksiezyc i przyplywy BP), DWORSKI (terminy Korony, daniny, swieta), OBRAZKOWY dla niepiszacych; swieta Siedmiu i starych bogow osobnymi znakami; strona ZIMOWA (Prawo Spichlerza + Glebokorzen); maester ORWYN sprawdza rachunek. ZAMOWIENIA Z ZADATKIEM przez placowki Domu i Kompanie do 300-09-30; druk X-XI; rozwoz przed 301-01-01. Naklad, cena, koszt - ILARIO + HAL (zasada 43). Wlasni - bez rzutu; odzew kupujacych - RZUT przy zamknieciu zamowien.",
    "kto": "ILARIO (mistrz wydawnictwa) + HAL (cena, ksiega) + placowki/Kompania (zamowienia); LUCAN czyta",
    "kanal": "kruk Winterfell-Fosa; odpis do Hala (BP)",
-   "wraca": "300-07-25",
+   "wraca": "300-08-05",
    "zamyka": "plan Ilaria z nakladem i cena (07-25); zamowienia zamkniete 09-30; kalendarze rozwiezione przed 301-01-01",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: stan w bilansie Hala ~08-05."
   },
   {
    "data": "300-07-11",
@@ -9406,18 +9406,18 @@
    "co": "DORZECZE - POPRAWKA DO ROZKAZU (Mala Rada 07-12): Korona NIE karmi strazy Edmure'a swoim zbozem; Edmure karmi je z ziarna Tridentu. Korona daje DWOCH KWATERMISTRZOW (z wojny w Dorzeczu, wskazuje RODRIK - zasada 42) do koordynacji rozdzialu. Kruk Krola z poprawka 07-13. Odpowiedz Edmure'a - RZUT przy wiesci. ### 07-13: burza (pogoda 3) - kruk leci 07-14 o swicie.",
    "kto": "KROL -> EDMURE; RODRIK (kwatermistrzowie)",
    "kanal": "kruk Winterfell-Riverrun; kwatermistrzowie traktem (~12 dni)",
-   "wraca": "300-07-25",
+   "wraca": "300-07-26",
    "zamyka": "kwatermistrzowie przy Edmurze",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: na Male Rade 07-26."
   },
   {
    "data": "300-07-12",
    "co": "TRAKTAT B9 Z DORZECZEM - ZALACZNIK LICZBOWY I PIERWSZY LETNI KONTRAKT (Mala Rada 07-12): cena stala (art. 1), ilosc niedoboru Polnocy na zime 300/301 z Dorzecza, terminy dostaw po zniwach Tridentu (VIII-IX). Pisze GAWEN (zalacznik), Cerwyn - forma; negocjuje Lyman przy Edmurze. Odpowiedz Edmure'a - RZUT.",
    "kto": "GAWEN (+ Cerwyn) -> EDMURE przez LYMANA",
    "kanal": "kruk Winterfell-Riverrun",
-   "wraca": "300-07-25",
+   "wraca": "300-07-26",
    "zamyka": "projekt kontraktu u Edmure'a; odpowiedz",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: na Male Rade 07-26."
   },
   {
    "data": "300-07-12",
@@ -9822,7 +9822,7 @@
    "kanal": "jezdziec/kruk Winterfell-Przystan Wilka (z Bryndenem przy powrocie albo goniec)",
    "wraca": "300-07-25",
    "zamyka": "wapno na placu budowy + kwota w karcie Borsa",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: na Radzie Trzech dzis (karta Borsa przywiezli ludzie Wymana)."
   },
   {
    "data": "300-07-17",
@@ -9831,7 +9831,7 @@
    "kanal": "osobiscie, Winterfell -> Przystan Wilka",
    "wraca": "300-07-25",
    "zamyka": "pisarz w akademii + bron wydana",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: na Radzie Trzech dzis (karta Borsa przywiezli ludzie Wymana)."
   },
   {
    "data": "300-07-17",
@@ -9910,9 +9910,9 @@
    "co": "ARYA - PRZYGOTOWANIE DO PROBY SZCZEBLA II (obca karta rachunkowa, jeden blad) - pomaga SYMON (slowo pana 07-18). Warunki Aryi: nie przy Sansie; na prawdziwej karcie, nie z ksiazki. Probe odbiera nauczyciel z innego wezla, losem (Kanon VI.3) - pan tylko przygotowuje. Start: 300-07-19 (slowo pana). Karta: gra/karta_cwiczebna_arya_300_07_19.md (drewno na wiosne, 2 bledy). Pora: po strzelaniu z Bryndenem.",
    "kto": "SYMON -> ARYA",
    "kanal": "osobiscie, Winterfell",
-   "wraca": "300-07-25",
+   "wraca": "300-07-28",
    "zamyka": "Arya przystepuje do proby II",
-   "status": "otwarte - 07-19: pierwsza karta przerobiona (rzut 24 przy samej karcie; oba bledy znalezione na stanie fizycznym, drugi z podana miara). Nastepny krok: druga karta, juz bez drewna - do slowa pana. Probe odbiera nauczyciel z innego wezla (Kanon VI.3). ### 07-22: druga karta - do slowa pana (Arya rano w kuzni z Gendrym)."
+   "status": "otwarte - 07-19: pierwsza karta przerobiona (rzut 24 przy samej karcie; oba bledy znalezione na stanie fizycznym, drugi z podana miara). Nastepny krok: druga karta, juz bez drewna - do slowa pana. Probe odbiera nauczyciel z innego wezla (Kanon VI.3). ### 07-22: druga karta - do slowa pana (Arya rano w kuzni z Gendrym). ### 07-25: druga karta - do slowa pana."
   },
   {
    "data": "300-07-19",
@@ -10128,7 +10128,7 @@
    "kanal": "kruk Winterfell-Bialy Port (07-21 rano); albo osobiscie (~07-25)",
    "wraca": "300-07-25",
    "zamyka": "zgoda Theomore'a i zalecenie wyslane do lordow - albo odmowa z powodem (RZUT)",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-25: THEOMORE (rzut 73) - zgoda z diagnoza; Glebokorzen rozsyla zalecenie wczesniejszych zniw do lordow calej Polnocy swoim krukiem (list na stole)."
   },
   {
    "data": "300-07-20",
@@ -10155,7 +10155,7 @@
    "kanal": "Zimowe Miasto",
    "wraca": "300-07-25",
    "zamyka": "umowy podpisane imiennie i wpisane do bazy",
-   "status": "otwarte"
+   "status": "otwarte ### 07-25: podpis dzis - Orwyl z pisarzem Skarbu w Zimowym Miescie (data konca umow: 301-07-25)."
   },
   {
    "data": "300-07-20",
@@ -10306,9 +10306,9 @@
    "co": "SYN SWIADKA W DREADFORCIE (najstarszy; zostal w zalodze Roose'a) - zagrozony, gdy Roose policzy, ze rodzina nie wraca. Propozycja pana 07-22: zakladnik Korony do strazy Krola - KROL ODMOWIL (rzut 16): zadanie z imienia wskazuje swiadka i Cerwyna; zakladnik od lorda, ktory daje dwudziestu i Ramsaya - obraza przed Skagos. Sprawa OTWARTA - inna droga, ktora nie wskazuje palcem (do slowa pana).",
    "kto": "SYMON + KROL",
    "kanal": "osobiscie",
-   "wraca": "300-07-24",
+   "wraca": "300-07-28",
    "zamyka": "droga dla chlopca wybrana albo swiadomie zostawiona",
-   "status": "otwarte ### 07-22: pan czeka na CERWYNA OSOBISCIE (~07-24). Krol mysli na glos (propozycje, nie rozkazy): (a) POZOR RODZINNY - matka 'chora u siostry w BP'; ojciec prosi syna listem rodzinnym (nie Korony) o przyjazd do matki - syn sam prosi Roose'a o urlop; (b) ORZECZENIE CERWYNA oprzec PUBLICZNIE wylacznie na drzewach i miejscu kamienia (Cley) - nie na swiadku; Roose nie ma czego szukac u syna; (c) chlopak NIE wsrod dwudziestu pod Ramsayem - nic nie da sie zrobic bez imienia; ryzyko nazwane. ### 07-22 SLOWO PANA: ZGODA NA OBA - (a) list rodzinny ojca do syna ('matce gorzej, przyjedz'), Korona nic nie pisze; (b) ORZECZENIE CERWYNA PUBLICZNIE TYLKO NA DOWODACH Z TERENU (siedem drzew, miejsce kamienia - Cley) - przekazac Cerwynowi osobiscie ~07-24. RYZYKO NAZWANE PRZEZ PANA: syn wierny Boltonowi moze sie domyslic. KROL: 'Dlatego list pisze ojciec, nie my - i to ojciec decyduje, czy pisac. On zna syna; my nie.' Pytanie do ojca - USTNIE, gdy bedzie w Przystani Wilka (Bors), przez Dagona albo Cerwyna. ### 07-24: Cerwyn w Winterfell dzis - rozmowa osobiscie. ### 07-24 CERWYN (rzut 16): syn ~18 lat, wlocznik zalogi Dreadfortu, DUMNY z wloczni Boltona, wierzy lordowi (slowa ojca przy pomiarze 06-12); jesli sie domysli - Cerwyn sadzi, ze pojdzie do Roose'a sam, nie by wydac ojca, lecz by oczyscic siebie; czy jest wsrod dwudziestu pod Ramsayem - Cerwyn nie wie. Imie - ustnie (nota 07-07)."
+   "status": "otwarte ### 07-22: pan czeka na CERWYNA OSOBISCIE (~07-24). Krol mysli na glos (propozycje, nie rozkazy): (a) POZOR RODZINNY - matka 'chora u siostry w BP'; ojciec prosi syna listem rodzinnym (nie Korony) o przyjazd do matki - syn sam prosi Roose'a o urlop; (b) ORZECZENIE CERWYNA oprzec PUBLICZNIE wylacznie na drzewach i miejscu kamienia (Cley) - nie na swiadku; Roose nie ma czego szukac u syna; (c) chlopak NIE wsrod dwudziestu pod Ramsayem - nic nie da sie zrobic bez imienia; ryzyko nazwane. ### 07-22 SLOWO PANA: ZGODA NA OBA - (a) list rodzinny ojca do syna ('matce gorzej, przyjedz'), Korona nic nie pisze; (b) ORZECZENIE CERWYNA PUBLICZNIE TYLKO NA DOWODACH Z TERENU (siedem drzew, miejsce kamienia - Cley) - przekazac Cerwynowi osobiscie ~07-24. RYZYKO NAZWANE PRZEZ PANA: syn wierny Boltonowi moze sie domyslic. KROL: 'Dlatego list pisze ojciec, nie my - i to ojciec decyduje, czy pisac. On zna syna; my nie.' Pytanie do ojca - USTNIE, gdy bedzie w Przystani Wilka (Bors), przez Dagona albo Cerwyna. ### 07-24: Cerwyn w Winterfell dzis - rozmowa osobiscie. ### 07-24 CERWYN (rzut 16): syn ~18 lat, wlocznik zalogi Dreadfortu, DUMNY z wloczni Boltona, wierzy lordowi (slowa ojca przy pomiarze 06-12); jesli sie domysli - Cerwyn sadzi, ze pojdzie do Roose'a sam, nie by wydac ojca, lecz by oczyscic siebie; czy jest wsrod dwudziestu pod Ramsayem - Cerwyn nie wie. Imie - ustnie (nota 07-07). ### 07-25: czeka na ojca w Przystani Wilka (~07-28) - pytanie ustne o list do syna."
   },
   {
    "data": "300-07-22",
@@ -10353,7 +10353,7 @@
    "kanal": "kruk Fosa-Winterfell",
    "wraca": "300-07-25",
    "zamyka": "odpowiedz lawy (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-25: LAWA (rzut 54) - ZGODA na dzien targowy Krolestwa w zwykly dzien targowy, przez wage miasta, oplaty po stronie Korony; czlowieka niezwiazanego brak - lawa daje BENNISA OD WAGI (urzednik miasta) do obslugi sprzedazy Korony za oplata dla kasy miejskiej (list na stole)."
   },
   {
    "data": "300-07-22",

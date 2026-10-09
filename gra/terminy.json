@@ -10597,6 +10597,15 @@
    "wraca": "300-07-26",
    "zamyka": "slowo Krola (Mala Rada albo osobno)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-25",
+   "co": "ARYA I KUZNIA - ZAKAZ MATKI (Catelyn 07-25, rzut 19): Arya nie chodzi do kuzni, dopoki matka nie porozmawia z nia i z Krolem. Gendry - nic nie wie o zakazie; Szary Plaszcz z oddali bez zmian. Do rozmowy Catelyn-Krol (i ewentualnie slowa pana).",
+   "kto": "CATELYN + KROL ; ARYA",
+   "kanal": "osobiscie",
+   "wraca": "300-07-27",
+   "zamyka": "rozmowa matki z Arya i Krolem",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

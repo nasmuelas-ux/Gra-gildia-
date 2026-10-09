@@ -239,3 +239,16 @@ Balon-kontrpull rzut 95 = tajny summons Greyjoyow dotarl do Theona (ojciec wola:
 
 ## 298-10-30 BACKFIRE — Theon przechylony ku Balonowi (GM, ukryte)
 theon_reframe rzut 4 = hard-truth backfire. Kontest, ktory byl na ostrzu (belonging 66 vs pull 95), przechylil sie KU BALONOWI po nadlamaniu ufnosci. Stan Theona: rozdarty ale teraz lgnacy ku ojcu (odrzucil prawde bo za bolesna), urazony na Symona, wie ze byl czytany/obracany. NIE przesadzone ostatecznie (ziarno prawdy zasiane - moze wrocic; Balon w canonie i tak wzgardzi Theonem, co pozniej moze zwalidowac slowa Symona). Ale AU-wiernosc teraz DUZO trudniejsza; canonowa-zdrada blizsza. Recovery wymaga: czasu/ochlodzenia, innego podejscia (NIE wiecej hard-truth teraz), moze dzialania nie slow (dac Theonowi cos konkretnego/godnosc), lub wydarzen (Balon go zrani=waliduje Symona). RYZYKO dla Symona realne: jesli Theon zbiegnie/zdradzi, Symon=swiadek ze wiedzial+obracal (whisper-faction moglaby to wykorzystac: 'mieszczanin bratal sie ze zdrajca'). Trzymac napiecie; nie railroad w obie strony.
+
+## 300-07-23 — GENDRY: DOMYSŁ NAMIESTNIKA (łączy fakty, na słowo gracza)
+Fakty, które Symon ma z zapisu i z rozmowy z 07-23:
+1. **Prawdę o kazirodztwie** zna od 299 (dowód sprzedany Stannisowi za uznanie niepodległości). Dzieci królowej nie są dziećmi Roberta.
+2. **Dwaj Namiestnicy**, Jon Arryn, a po nim Eddard Stark, przyszli do kuźni Motta i pytali tego samego chłopaka o matkę. Obaj prowadzili tę samą sprawę i obaj zginęli.
+3. **Ktoś zapłacił za termin Gendry'ego ponad zwykłą stawkę.** Nie wiadomo kto.
+4. Gendry ma **czarne włosy, jest barczysty i silny** (zapis 05-11) i robi hełm z bykiem.
+5. Kilka dni po egzekucji Eddarda **złote płaszcze z pieczęcią królowej** szukały **jego jednego**, z imienia i z fachu, nie nikogo innego od Motta.
+
+**Domysł:** Gendry jest **bękartem króla Roberta**. Namiestnicy sprawdzali Roberta przez jego bękarty, a królowa usuwała żywy dowód.
+**Status:** domysł, nie dowód. Do potwierdzenia: kolor oczu (błękit Baratheonów), kto płacił Mottowi, czy w Przystani ginęły inne dzieci Roberta (kanał: Nesta lub Varys? brak).
+**Waga:** żywy świadek tej samej prawdy, którą Symon sprzedał Stannisowi. Dla Stannisa i dla Lannisterów ma wartość głowy. **Gendry nic nie wie.**
+**Zasada (GM):** nic na papier Korony. Kto wie: Symon (domysł). Nikomu nie powiedziane.

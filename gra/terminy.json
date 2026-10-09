@@ -5947,9 +5947,9 @@
    "co": "OSIEM BUDOW - CHECKPOINTY Z KARTY (harmonogram wlasny urzedu): spichlerze wiejskie start 06-05, piec pierwszych z ksiega 07-15; kwatery/stajnie/zbrojownia start 06-10, pod dachem 09-01; wieze zamku (Orbelo) start 07-01, pierwsza z 17 do pelnej wysokosci 10-15; trzy wielkie spichlerze start 07-15. Meldunek w zbiorczym Garricka. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "GARRICK / WARRYN / ORBELO",
    "kanal": "zbiorczy Garricka co 7 dni",
-   "wraca": "300-07-26",
+   "wraca": "300-07-28",
    "zamyka": "piec spichlerzy wiejskich z ksiega (pierwszy checkpoint twardy)",
-   "status": "otwarte ### otwarte - zbiorczy 07-19: PIEC SPICHLERZY WIEJSKICH STOI, CZTERY Z KSIEGA I KLUCZNIKIEM; piaty (wies na mokradlach) bez klucznika - nikt we wsi nie pisze (Mella szuka). Trzy wielkie spichlerze - wykop pod pierwszy (od 07-15)."
+   "status": "otwarte ### otwarte - zbiorczy 07-19: PIEC SPICHLERZY WIEJSKICH STOI, CZTERY Z KSIEGA I KLUCZNIKIEM; piaty (wies na mokradlach) bez klucznika - nikt we wsi nie pisze (Mella szuka). Trzy wielkie spichlerze - wykop pod pierwszy (od 07-15). ### 07-26: zbiorczy Garricka (pisany dzis) ~07-28."
   },
   {
    "data": "300-05-22",
@@ -7522,9 +7522,9 @@
    "co": "KASA MIEJSKA CAILIN - PODATEK MIEJSKI (zamiar Herwina 06-19): lawa nie uchwalila dotad zadnego podatku; kasa zyje z wagi (Bennis) i niczego wiecej - na bruk, mury, straz brak. Herwin przedlozy lawie po sianokosach MALE PODYMNE albo OPLATE BRAMNA - zeby miasto mialo z czego splacac pozyczke 0,5%. Wola lawy - RZUT przy uchwale.",
    "kto": "HERWIN -> LAWA",
    "kanal": "na miejscu",
-   "wraca": "300-07-26",
+   "wraca": "300-07-28",
    "zamyka": "uchwala lawy (rzut)",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: lawa nie uchwalila; Herwin kladzie projekt na lawie (rzut przy uchwale)."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: lawa nie uchwalila; Herwin kladzie projekt na lawie (rzut przy uchwale). ### 07-26: zbiorczy Garricka (pisany dzis) ~07-28."
   },
   {
    "data": "300-06-19",
@@ -8146,9 +8146,9 @@
    "co": "REKRUCI LENNA - OSOBNY PROGRAM (rozkaz pana 06-21): TRZY MIESIACE PODSTAWY - dyscyplina, forma, wlocznia i tarcza w szyku (najprostsze, co trzyma linie), kusza; litery - imie i rozkaz. Po trzech miesiacach PROBA: zdal - do druzyny stalej (mieszkanie sluzbowe, dodatki, rok do wlasnosci); nie zdal - do rezerwy albo do domu. Rekruci ze wsi wracaja po sianokosach (~07-20). Prowadzi dziesietnik od rekrutow (Hendry wskazuje). Wlasni - bez rzutu. ### 07-01: rekruci ze wsi na sianokosach (decyzja 06-18) - program wraca po nich.",
    "kto": "HENDRY",
    "kanal": "na miejscu",
-   "wraca": "300-07-26",
+   "wraca": "300-07-28",
    "zamyka": "program rekrutow ruszyl; pierwsza proba ~10-01",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: PROGRAM RUSZYL 07-14 po sianokosach (trzy miesiace podstawy); proba ~10-01. Rozbieznosc w radzie (zniwa VIII) - do slowa pana."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: PROGRAM RUSZYL 07-14 po sianokosach (trzy miesiace podstawy); proba ~10-01. Rozbieznosc w radzie (zniwa VIII) - do slowa pana. ### 07-26: zbiorczy Garricka (pisany dzis) ~07-28."
   },
   {
    "data": "300-06-21",
@@ -8958,7 +8958,7 @@
    "kanal": "kruk Winterfell-Bialy Port (zaproszenie) ; osobiscie Winterfell",
    "wraca": "300-07-25",
    "zamyka": "posiedzenie odbyte, ustalenia spisane",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-25: RADA TRZECH ODBYTA (most, wapno, poligon, Akademia) - dziennik 07-25."
   },
   {
    "data": "300-07-09",
@@ -10092,7 +10092,7 @@
    "kanal": "kruki Blizniaki/Seagard-Winterfell",
    "wraca": "300-07-26",
    "zamyka": "odpowiedz Freya i Mallistera - RZUT",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-26: FREY (rzut 35) - przyjmuje NIZSZE MYTO wg taryfy i robotnikow na rownej dniowce, ALE myto na moscie ZBIERAJA JEGO LUDZIE, nie komora Korony; MALLISTER - cisza (drugi kruk bez odpowiedzi). Na Male Rade dzis."
   },
   {
    "data": "300-07-20",
@@ -10155,7 +10155,7 @@
    "kanal": "Zimowe Miasto",
    "wraca": "300-07-25",
    "zamyka": "umowy podpisane imiennie i wpisane do bazy",
-   "status": "otwarte ### 07-25: podpis dzis - Orwyl z pisarzem Skarbu w Zimowym Miescie (data konca umow: 301-07-25)."
+   "status": "zamkniete 300-07-25: UMOWY PODPISANE przez Orwyla z pisarzem Skarbu w Zimowym Miescie (lucznicy Torm Cisowy i Haldor Cis, ciesle, garbarz - cena stala na rok, szewc, tkaczki - len i welna z danin); koniec 301-07-25; przeglad ~301-06-25. Imiona cieslow, garbarza, szewca i tkaczek - w ksiedze Orwyla."
   },
   {
    "data": "300-07-20",

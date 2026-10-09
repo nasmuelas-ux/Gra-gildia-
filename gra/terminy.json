@@ -10450,18 +10450,18 @@
    "co": "OGLOSZENIE AZYLU - WYSLANIE (zgoda Wymana 07-23, rzut 89): odpisy z pieczecia Krola na statki do Braavos, Pentos i Wolnych Miast przez kapitanow Wymana; rejestracja na komorze Korony w BP; przybycie wiosna, falami (~kilkuset na miesiac, E). Do wydania przez Krola/pana.",
    "kto": "KROL/SYMON -> WYMAN (kapitanowie)",
    "kanal": "odpisy krukiem/wozem do BP",
-   "wraca": "300-07-25",
+   "wraca": "300-07-24",
    "zamyka": "odpisy wydane do BP",
-   "status": "otwarte ### 07-23 KROL: WYDAC. Odpisy: wspolna mowa - kancelaria (Beron) z pieczecia Krola; WERSJA BRAAVIJSKA - przeklada SYMON sam (plik ogloszenia: 'po zatwierdzeniu'); odpisy wozem/kurierem do BP do kapitanow Wymana. Przybycie wiosna, falami (limit Wymana)."
+   "status": "otwarte ### 07-23 KROL: WYDAC. Odpisy: wspolna mowa - kancelaria (Beron) z pieczecia Krola; WERSJA BRAAVIJSKA - przeklada SYMON sam (plik ogloszenia: 'po zatwierdzeniu'); odpisy wozem/kurierem do BP do kapitanow Wymana. Przybycie wiosna, falami (limit Wymana). ### 07-23: list do Wymana gotowy; odpisy Berona - do wieczora; KURIER DOMU DO BP 07-24 RANO."
   },
   {
    "data": "300-07-23",
    "co": "OGLOSZENIE AZYLU - PRZEKLAD BRAAVIJSKI (Symon, wlasna reka; braavijski poziom 10) + odpisy kancelarii (Beron) z pieczecia Krola: ile - po jednym na kapitana i port (Braavos, Pentos, Lys, Myr, Tyrosh, Volantis - wg statkow Wymana). Wysylka do BP z poczta Domu.",
    "kto": "SYMON ; BERON (kancelaria)",
    "kanal": "Winterfell",
-   "wraca": "300-07-25",
+   "wraca": "300-07-24",
    "zamyka": "przeklad gotowy, odpisy opieczetowane, w drodze do BP",
-   "status": "otwarte ### 07-23: PRZEKLAD GOTOWY (Symon). Uwaga tlumacza: w Volantis, Lys i Myr (miasta niewolnicze) wywieszenie = podzeganie - kapitan moze zaplacic statkiem; tam z reki do reki albo wcale - do slowa Krola i Wymana. Odpisy - Beron. ### 07-23 KROL (slowo pana, bez rzutu - szczegol sprawy z 07-19): JAWNIE NA SLUPIE tylko BRAAVOS; PENTOS - SKRYCIE (z reki do reki, przez kapitanow); VOLANTIS, LYS, MYR - z reki do reki albo wcale (kapitan decyduje, nie ryzykuje statku). Wyman - list z tym zastrzezeniem do odpisow."
+   "status": "otwarte ### 07-23: PRZEKLAD GOTOWY (Symon). Uwaga tlumacza: w Volantis, Lys i Myr (miasta niewolnicze) wywieszenie = podzeganie - kapitan moze zaplacic statkiem; tam z reki do reki albo wcale - do slowa Krola i Wymana. Odpisy - Beron. ### 07-23 KROL (slowo pana, bez rzutu - szczegol sprawy z 07-19): JAWNIE NA SLUPIE tylko BRAAVOS; PENTOS - SKRYCIE (z reki do reki, przez kapitanow); VOLANTIS, LYS, MYR - z reki do reki albo wcale (kapitan decyduje, nie ryzykuje statku). Wyman - list z tym zastrzezeniem do odpisow. ### 07-23: list do Wymana gotowy; odpisy Berona - do wieczora; KURIER DOMU DO BP 07-24 RANO."
   },
   {
    "data": "300-07-23",
@@ -10470,7 +10470,7 @@
    "kanal": "poczta Domu do BP z odpisami",
    "wraca": "300-07-25",
    "zamyka": "list i odpisy w drodze do BP",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-23: LIST NAPISANY (gra/ogloszenie_azylu_300_07.md); wyjezdza z odpisami kurierem Domu 07-24 rano."
   }
  ],
  "_dopiski_300_03_18": [

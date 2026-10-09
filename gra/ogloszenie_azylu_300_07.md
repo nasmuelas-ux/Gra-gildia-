@@ -75,3 +75,22 @@
 2. **„Przy drzewie albo w sepcie”** przełożone jako *„przed swoimi bogami, przy drzewie albo w sepcie”*. W Braavos czci się wielu bogów i czytelnik musi zobaczyć, że jego bóg też się liczy.
 3. **„Komora Korony w Białym Porcie”** przełożone braavoskim słowem urzędowym na komorę celną. Kapitan i bankier zrozumieją je tak samo.
 4. **⚠ Gdzie wywieszać.** W **Braavos i Pentos** niewolnictwo jest zakazane. **W Volantis, Lys i Myr** kwitnie. Ogłoszenie dla zbiegłych niewolników wywieszone tam przez kapitana z Białego Portu właściciele mogą uznać za podżeganie, a kapitan może za to zapłacić statkiem. **Tam tylko z ręki do ręki, nie na słupie**, albo wcale. Decyzja należy do Króla i Wymana.
+
+---
+## LIST NAMIESTNIKA DO LORDA WYMANA Z ODPISAMI (300-07-23 po południu; pieczęć Namiestnika; kurier Domu z odpisami wyjeżdża 07-24 rano)
+> Lordzie Wymanie, Mistrzu Handlu i Portów Północy,
+>
+> dziękuję za zgodę. Król ją przeczytał i ogłoszenie wychodzi. W załączeniu są odpisy z pieczęcią Króla, we wspólnej mowie i po braavosku, po jednym na każdego kapitana i port.
+>
+> Wasze ostrzeżenie przyjmujemy wprost: **kilkuset na miesiąc, wiosną, falami.** Ogłoszenie samo tak mówi i tak będziemy liczyć chleb.
+>
+> Król prosi o jedno przy rozdawaniu:
+> - **Braavos**: jawnie, na słupie w porcie;
+> - **Pentos**: skrycie, z ręki do ręki;
+> - **Volantis, Lys, Myr**: z ręki do ręki albo wcale. **Decyduje kapitan.**
+>
+> Słowa Króla: *„Żaden statek Wymana nie będzie ryzykował dla kartki papieru.”*
+>
+> Komora Korony w Waszym porcie zacznie spisywać przybyłych, gdy przyjdą pierwsi. Do tego czasu nic się w porcie nie zmienia.
+>
+> *Symon Tally, Namiestnik Króla Północy*

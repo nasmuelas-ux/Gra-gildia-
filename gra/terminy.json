@@ -10147,6 +10147,15 @@
    "wraca": "300-08-05",
    "zamyka": "zamowienia u rzemieslnikow ZM zlozone + plan miesieczny kuzni",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-20",
+   "co": "UMOWY ROCZNE KORONY Z WARSZTATAMI ZIMOWEGO MIASTA (patronat; przedsiebiorstwo strategiczne - zbrojownia): rzut 46 - TAK z warunkami (Torm Cisowy - zaliczka na drewno; garbarz - cena stala na rok; tkaczki - len i welna z danin). Podpisuja ORWYL + pisarz Skarbu; kwoty - Gawen. Baza: gra/rzemioslo_zimowe_miasto_300_07.md.",
+   "kto": "ORWYL + pisarz Skarbu; GAWEN",
+   "kanal": "Zimowe Miasto",
+   "wraca": "300-07-25",
+   "zamyka": "umowy podpisane imiennie i wpisane do bazy",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

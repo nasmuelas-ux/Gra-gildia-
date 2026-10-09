@@ -10047,7 +10047,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-26",
    "zamyka": "tekst zatwierdzony i opieczetowany",
-   "status": "otwarte - tekst napisany 07-19 (gra/ogloszenie_azylu_300_07.md); czeka na Krola + zgode Wymana (zglaszanie w faktorii BP)."
+   "status": "ZATWIERDZONE 07-19 - podpis i pieczec Krola; WSTRZYMANE do zgody Wymana; przeklad braavijski - pan, po zgodzie."
   },
   {
    "data": "300-07-19",
@@ -10074,7 +10074,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-07-30",
    "zamyka": "zgoda Wymana - RZUT przy odpowiedzi",
-   "status": "otwarte - do wyslania po zatwierdzeniu tekstu przez Krola"
+   "status": "otwarte - Krol: pisze Namiestnik, z odpisem ogloszenia (do napisania)."
   }
  ],
  "_dopiski_300_03_18": [

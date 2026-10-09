@@ -10209,7 +10209,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-25",
    "zamyka": "lekcja 2 odbyta (rzut) + prace domowe odebrane",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-25 (rzut 8 - ZLE): prace domowe oddane (Sansa - pol strony o prawie goscia: chleb i sol, niespisane, a swiete; Arya - Braavos na kamykach, Tytan i laguna dobrze, piec slow - cztery); lekcja sie posypala: w scenie 'dostawa sie nie zgadza' Arya oskarza Sanse o oszustwo na mierze, Sansa wybucha - klotnia we wspolnej mowie (cla nikt nie liczy); Sansa wychodzi wczesniej 'na sad'. Lekcja 3 - pon. 07-28."
   },
   {
    "data": "300-07-21",
@@ -10551,6 +10551,15 @@
    "kanal": "kruk Winterfell-Hornwood",
    "wraca": "300-07-28",
    "zamyka": "odpowiedz Donelli (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-25",
+   "co": "BRAAVOSKI - LEKCJA 3 (pon. 07-28 rano): powtorka liczb do stu i miar; scena dostawy od nowa. Po klotni z 07-25 (rzut 8) - do slowa pana, czy cos zmienic w ukladzie lekcji.",
+   "kto": "SYMON + SANSA + ARYA",
+   "kanal": "na miejscu",
+   "wraca": "300-07-28",
+   "zamyka": "lekcja 3 odbyta (rzut)",
    "status": "otwarte"
   }
  ],

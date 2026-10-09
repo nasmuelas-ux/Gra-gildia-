@@ -259,3 +259,7 @@ Fakty, które Symon ma z zapisu i z rozmowy z 07-23:
   3. *„Nie sprzedam chłopaka Stannisowi jak dowodu. Jeśli kiedyś zechce wiedzieć, kim jest, sam zdecyduje, co z tym zrobić. Człowiekiem się nie handluje.”*;
   4. **Aryi nie mówić**, dopóki on sam nie wie;
   5. *„Kuźnia jest w moim zamku. Nikt tu nie wejdzie z pismem królowej.”*
+- **07-23, solar (cd.), Symon: „Ale może ktoś go szuka.”** Król, bez rzutu (ta sama rozmowa):
+  - Ślad na papierze **już istnieje**. Lista pięciu kowali Harrenhalu z imieniem *„Gendry, czeladnik, ok. 17 lat, czarne włosy”* przeszła przez Riverrun i ser Robina Rygera (05-11). Kto czyta listy Dorzecza, wie, że Gendry poszedł na północ.
+  - **Pytać trzeba ogólnie, bez imienia:** czy w Przystani ktoś dziś szuka **bękartów Roberta**, nie „tego chłopaka”. Kanał: siatka Symona (Nesta, stałe ucho w KL) albo Willa.
+  - Decyzja należy do Namiestnika.

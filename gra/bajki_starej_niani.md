@@ -312,3 +312,26 @@
 - **Wersja z 299-09-07 (nr 6):** **dwunastu towarzyszy**. Dzieci dały *„sto sztuk szkła, które nie jest szkłem”*, które *„rodziło się w ogniu góry”*.
 - **Wersja z 300-07-19 (nr 16, ta):** koń pada **przed** psem. Pierwszy raz pojawiają się **blade pająki** i **miecz, który pęka od mrozu**. Koniec: *„Dzieci go znalazły”*, bez słowa o szkle.
 - **Zgodność z kroniką Straży** (odpowiedź Aemona z 299-09-29, odnaleziona 300-07-19): *„Dzieci Lasu dawały Straży co roku sto noży z czarnego szkła”*. Liczba **sto** pada i w wersji 6, i w kronice. Bajka i księga z dwóch różnych źródeł mówią tę samą liczbę.
+
+---
+
+## 17. O ROGU JORAMUNA
+*Spisane 300-07-21 wieczorem, w izbie Niani. Słuchali Bran i Rickon. Meera siedziała na progu, a Lato leżał pod oknem. Niania sama wybrała bajkę, bo Rickon zapytał, czy dzicy mają królów.*
+
+> Mieli, dziecko. Rzadko, ale mieli. A jeden był taki, którego pamiętają do dziś, i to nie za miecz, tylko za róg.
+>
+> Joramun znalazł go głęboko w ziemi, tam gdzie śpią olbrzymy. Niektórzy mówią, że w jaskini pod lodem, inni, że w grobie starszym niż ludzie. Kiedy w niego zadął, olbrzymy wstały z ziemi i poszły za nim. Kiedy zadął drugi raz, ziemia się zatrzęsła.
+>
+> Joramun nazwał go **Rogiem Zimy**. Mówią, że kiedy ktoś zadmie w niego trzeci raz, mur, który budowały ręce Brandona, padnie.
+>
+> A potem Joramun stanął ramię w ramię z królem Winterfell przeciwko Nocnemu Królowi. Dziki i Stark razem, dziecko. Pomyśl o tym.
+>
+> *(Rickon zapytał, gdzie jest teraz róg.)*
+>
+> A kto to wie? Jedni mówią, że Joramun zabrał go do grobu. Drudzy, że rozbił go, kiedy zobaczył, co róg potrafi. Trzeci, że róg leży gdzieś za Murem i czeka. Ja ci powiem tylko jedno: rzecz, która może zburzyć mur, nie powinna leżeć w niczyjej skrzyni. Ani dzikich, ani naszej.
+
+*Dopisek spisującego:* Kiedy Rickon zasnął, Bran zapytał Nianię, w jakiej mowie Joramun rozmawiał z olbrzymami. Niania: *„W starej. W tej, którą mówiły kamienie, zanim ktoś wymyślił litery. Olbrzymy innej nie znają do dziś.”* Meera spojrzała na mnie, ale nic nie powiedziała.
+
+*Uwaga porządkowa (reguła Brana):*
+- **Joramun i Nocny Król:** w bajce nr 1 przeciw Nocnemu Królowi stają **Brandon Stark zwany Łamaczem i Joramun**. Tu Niania mówi tylko „król Winterfell”, bez imienia. Co do Joramuna wersje się zgadzają, imię Starka tym razem nie pada.
+- **Stara Mowa:** Niania pierwszy raz łączy ją z olbrzymami i z „mową kamieni”. To zgadza się z Luwinem (07-20): *„Thennowie, olbrzymi… tylko Stara Mowa”*.

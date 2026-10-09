@@ -52,7 +52,9 @@
 |---|---|---|---|
 | 1 | **Twierdza, wieże MF-3** (Strażnicza na II kondygnacji) | w budowie (07-05); MF-1 09-15, mur kurtynowy 301 | Orbelo; Weylin |
 | 2 | **MF-2, strażnica północna** (drewno, palisada) | fundament (07-05); cel 08-01 | Hendry |
-| 3 | **Kwatery, stajnie, zbrojownia** na 200 (arsenał lenna; komplety na 700) | mury do pasa (06-30); dach do 09-01 | **zbrojmistrz Oswald Tarcza** (od 299-06-23) |
+| 3 | **NOWE kwatery, stajnie, zbrojownia** na 200 (rozbudowa) (arsenał lenna; komplety na 700) | mury do pasa (06-30); dach do 09-01 | **zbrojmistrz Oswald Tarcza** (od 299-06-23) |
+| 3a | **Stajnie Fosy** (istniejące; stryszek nad stajnią daje dziś nocleg przybyszom) | działają (słowo pana 07-20) | kapitan Hendry / majordomat |
+| 3b | **Koszary Fosy** (istniejące; garnizon i drużyna Hendry'ego) | działają (słowo pana 07-20) | kapitan Hendry |
 | 4 | **Grobla** | 2. odcinek wbity, 3. w palach (07-05) | Bran (majordom robót), Korm Palik, Orbelo |
 | 5 | **Gorący Port**: mur od morza, Wieża Morska, pomost, kamieniołom | mur na wysokość człowieka (07-05) | Harlon z Brodu, 30 ludzi Hendry'ego |
 | 6 | **Port Cailin (PC)** | planowany (PC-2 w IX, basen 301/302) | kapitan portu Harwin Łopata |

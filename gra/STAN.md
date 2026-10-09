@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**241 otwartych** · **0 PRZETERMINOWANYCH** · 19 wraca dzis
+**240 otwartych** · **0 PRZETERMINOWANYCH** · 18 wraca dzis
 
 ### 🟡 WRACA DZIS
 - SKAGOS - WYPRAWA KROLA Z FLOTA (decyzja 07-09, rzut 92): Krol plynie na czele floty wschodu z obstawa, by oficjalnie przyjac przys… · _kanal:_ kruki Winterfell-Bialy Port / Wdowia Straznica
@@ -45,7 +45,6 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 - DOMENA - CZYNSZ W MONECIE + WIELKIE TARGI ROLNICZE W ZIMOWYM MIESCIE (slowo pana 07-19, v3 par. 9): do Krola jako pana gruntu (rzu… · _kanal:_ Winterfell / Zimowe Miasto
 - OSADNICTWO DOMENY - INTENSYFIKACJA W OKREGACH ZBOZOWYCH I-III (slowo pana 07-19): model 299-08-28 (zagroda, narzedzia, ziarno z do… · _kanal:_ Winterfell / domena
 - SIEW ZBOZA I ROSLIN POD WARUNKI POLNOCY W DOMENIE (slowo pana 07-19): odmiany USTALONE 06-09 (zyto ozime - siew IX, termin Osrica;… · _kanal:_ Winterfell; kruk do Przystani Wilka/Bialego Portu (Theomore)
-- GAWEN - STAWKA MYTA NA ODCINKU BLIZNIAKI-SEAGARD (z taryfy, nizsza niz zadanie Freya) do kontraktu traktu. · _kanal:_ Winterfell
 - KANON - SANSA, SCIEZKA PRAWA: propozycja CERWYNA (rzut 77) - gdy Justycjariusz w Winterfell, Sansa siedzi przy jego pisarzu na kaz… · _kanal:_ osobiscie
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
@@ -981,7 +980,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-19** — WYMAN - INFORMACJA I ZGODA: azylanci zglaszaja sie na KOMORZE KORONY w Bialym Porcie (nie w faktorii); koordynacja statkow (ogloszenie azylu, Krol 07-19). Zgoda przed wyslaniem ogloszenia. · _kto:_ **SYMON/KROL -> WYMAN** · _zamyka:_ zgoda Wymana - RZUT przy odpowiedzi **⚠ ZAMKNIETE 300-07-23: WYMAN (RZUT 89) - ZGODA: AZYLANCI NA KOMORZE KORONY W BP; KAPITANOWIE ZABIORA ODPISY OGLOSZENIA DO BRAAVOS, PENTOS I WOLNYCH MIAST; UWAGA WYMANA: PORT I TRAKT UNIOSA ~KILKUSET NA MIESIAC (E) - WIOSNA, FALAMI. OGLOSZENIE MOZE ODPLYNAC.**
 - **300-07-20** — FREY - WARUNEK MYTA NA ODCINKU BLIZNIAKI-SEAGARD (odpowiedz 07-20, rzut 17): myto dla Blizniakow + robotnicy z jego ziem przez jego zarzadce. MALLISTER - cisza. Decyzja Krola: przyjac, targowac, czy inna droga. · _kto:_ **KROL (+ SYMON)** · _zamyka:_ odpowiedz Krola Freyowi; ponowny kruk do Seagard **⚠ ROZSTRZYGNIETE 07-20 (KROL, RZUT 53): MYTO TAK, NIZSZE (STAWKA SKARBNIKA Z TARYFY); ROBOTNICY FREYA TAK, JESLI SZYBCIEJ (TERMIN W KONTRAKCIE; KTO NIE ZDAZY - ODDAJE ROBOTE); DNIOWKA JEDNAKOWA. LIST KROLA - KRUK 07-21 RANO. MALLISTER - DRUGI KRUK.**
 - **300-07-20** — FREY - ODPOWIEDZ NA LIST KROLA 07-20 (myto nizsze, robotnicy jesli szybciej) + MALLISTER (drugi kruk do Seagard). · _kto:_ **FREY, MALLISTER -> KROL** · _zamyka:_ odpowiedz Freya i Mallistera - RZUT **⚠ ZAMKNIETE 300-07-26: FREY (RZUT 35) - PRZYJMUJE NIZSZE MYTO WG TARYFY I ROBOTNIKOW NA ROWNEJ DNIOWCE, ALE MYTO NA MOSCIE ZBIERAJA JEGO LUDZIE, NIE KOMORA KORONY; MALLISTER - CISZA (DRUGI KRUK BEZ ODPOWIEDZI). NA MALE RADE DZIS.**
-- **300-07-20** — GAWEN - STAWKA MYTA NA ODCINKU BLIZNIAKI-SEAGARD (z taryfy, nizsza niz zadanie Freya) do kontraktu traktu. · _kto:_ **GAWEN** · _zamyka:_ stawka na pismie
+- **300-07-20** — GAWEN - STAWKA MYTA NA ODCINKU BLIZNIAKI-SEAGARD (z taryfy, nizsza niz zadanie Freya) do kontraktu traktu. · _kto:_ **GAWEN** · _zamyka:_ stawka na pismie **⚠ ZAMKNIETE 300-07-26 MALA RADA: MYTO NA T1-C/D ZBIERA FREY (JEGO LUDZIE); STAWKA Z TARYFY GAWENA, NIZSZA NIZ ZADANIE WALDERA, NA SLUPIE PRZY PRZEPRAWIE (KROL: 'NIECH KUPIEC WIDZI, ILE PLACI'); KORONA BEZ UDZIALU W MYCIE - ZYSK KORONY TO WIEKSZY RUCH PRZEZ PRZESMYK I CLO W KOMORZE FOSY (SLOWO PANA). LIST KROLA DO WALDERA Z TA ODPOWIEDZIA.**
 - **300-07-20** — ZNIWA DOMENY TYDZIEN WCZESNIEJ + NAJEM DODATKOWYCH RAK NA DNIOWKE (rozkaz pana 07-20; pismo Skarbu do kasztelana i soltysow okregow I-III): zboze pod dach przed koncem VIII; dniowka z Kasy 3 (stawka Gawena z ksiegi); lista imienna u pisarza Skarbu. · _kto:_ **GAWEN -> kasztelan + soltysi I-III; pisarz Skarbu** · _zamyka:_ ilu najetych (rzut - odzew) + start zniw w okregach
 - **300-07-20** — OZIME ZYTO - ZAMOWIENIE KORONY PRZEZ FAKTORA ILLYRIA (Bialy Port; przez Mistrza Handlu): TYLKO odmiany polnocne/krotkiego sezonu, odporne na przymrozek (nie poludniowe - 06-18 i 06-09); probka nasion przed ladunkiem (Orland/Theomore); ilosc - lista pustych zagrod Rodwella (07-26) + roznica z karty Orlanda; ladunek w BP przed koncem VIII (siew IX); zaplata - pisarz Skarbu przy wadze. · _kto:_ **GAWEN -> FAKTOR ILLYRIA (BP); WYMAN (port)** · _zamyka:_ ziarno w BP i probka zatwierdzona - RZUT przy dostawie (zrodlo, jakosc, cena)
 - **300-07-20** — THEOMORE / GLEBOKORZEN - ZALECENIE WCZESNIEJSZYCH ZNIW DO LORDOW CALEJ POLNOCY (prosba pana 07-20): jesli zgodzi sie z diagnoza (mroz 299-08-29/30; karta Orlanda 07-19) - zalecenie imieniem Glebokorzenia: zniwa wczesniej, zboze pod dach przed koncem VIII, ozime tylko odmiany polnocne. Jesli nie - dlaczego. · _kto:_ **SYMON -> THEOMORE (Glebokorzen)** · _zamyka:_ zgoda Theomore'a i zalecenie wyslane do lordow - albo odmowa z powodem (RZUT) **⚠ ZAMKNIETE 300-07-25: THEOMORE (RZUT 73) - ZGODA Z DIAGNOZA; GLEBOKORZEN ROZSYLA ZALECENIE WCZESNIEJSZYCH ZNIW DO LORDOW CALEJ POLNOCY SWOIM KRUKIEM (LIST NA STOLE).**
@@ -1223,7 +1222,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-26 przedpoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 23**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 24**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2520,7 +2519,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-26] `dziennik`: PRZED SNIADANIEM, KOMNATA NAMIESTNIKA - SYMON PROSI LADY CATELYN NA CHWILE (sluzacy z prosba). Bez rzutu. Catelyn przychodzi szybko, juz ubrana, z mala siedmioramienna gwiazda na lancuszku (…
 - [300-07-26] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON PYTA CATELYN WPROST: czy zrobil cos nie tak. RZUT 88 - BARDZO DOBRZE (pierwszy rzut 3 VOID - gracz zmienil dzialanie przed rozstrzygnieciem). CATELYN dlugo …
 - [300-07-26] `poprawki`: POPRAWKA (gracz: 'ona tu byla, kiedy Arya i Sansa tu byly'): zdanie Catelyn 'wyjechalam, kiedy Arya byla zaginiona' - VOID, sprzeczne z zapisem: Catelyn byla w Winterfell z Sansa i Arya i wy…
 - [300-07-26] `poprawki`: POPRAWKA (gracz: 'czy to byl niecaly miesiac? chyba dluzej'): Z ZAPISU - Catelyn wyjechala z Winterfell 299-09-08 o swicie (zamiec; wyjazd na spotkanie Krola, potem Riverrun - trzymala druga…
@@ -2532,3 +2530,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-26] `dziennik`: MALA RADA - PUNKT 2: SKAGOS. SYMON: jaka decyzja, ile zasobow, jaki scenariusz. Bez nowego rzutu (sprawa rozstrzygnieta 07-09 rzut 92, 07-10 rzut 4, 07-17 rzut 86; sklad - slowo Krola). KROL…
 - [300-07-26] `dziennik`: MALA RADA - PUNKT 3: DORZECZE (Luwin czyta kruki z Riverrun). (a) MELDUNEK EDMURE/LYMAN (rzut 57): Maidenpool ~300 Lwow - otoczone od 07-12, droga zamknieta, wozy przeszukiwane; Darry ~120 -…
 - [300-07-26] `dziennik`: MALA RADA - PUNKT 3 (cd.). SYMON: zboze dla strazy Edmure'a niech idzie przez KOMPANIE na jego udzial i z tego, co mamy - Gawen szacuje; PRZEPRASZAMY i mowimy, ze pomoc dziala w obie strony;…
+- [300-07-26] `dziennik`: MALA RADA - PUNKT 4: FREY. SYMON: myto na T1-C/D zbiera Frey; Korona budujac trakt i tak zyska wiekszy ruch przez Przesmyk i wiecej cla. Bez nowego rzutu (sprawa odpowiedzi Krola Freyowi z 0…

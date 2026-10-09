@@ -10047,7 +10047,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-26",
    "zamyka": "tekst zatwierdzony i opieczetowany",
-   "status": "otwarte"
+   "status": "otwarte - tekst napisany 07-19 (gra/ogloszenie_azylu_300_07.md); czeka na Krola + zgode Wymana (zglaszanie w faktorii BP)."
   },
   {
    "data": "300-07-19",
@@ -10066,6 +10066,15 @@
    "wraca": "300-07-30",
    "zamyka": "list doreczony; odpowiedz Edmure'a - RZUT",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "WYMAN - ZGODA NA PRZYJMOWANIE AZYLANTOW W FAKTORII MISTRZA HANDLU (Bialy Port) i koordynacja statkow (ogloszenie azylu, Krol 07-19).",
+   "kto": "SYMON/KROL -> WYMAN",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-07-30",
+   "zamyka": "zgoda Wymana - RZUT przy odpowiedzi",
+   "status": "otwarte - do wyslania po zatwierdzeniu tekstu przez Krola"
   }
  ],
  "_dopiski_300_03_18": [

@@ -10804,6 +10804,69 @@
    "wraca": "300-08-09",
    "zamyka": "krok wykonany albo temat rozpatrzony",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "THEON DO WINTERFELL (wezwanie Namiestnika 07-26): Doradca w Dustinporcie przyjezdza z wiedza o flocie i Wyspach; kadluby zostaja przy Torrenie. Przyjazd E.",
+   "kto": "THEON GREYJOY",
+   "kanal": "kruk WF->Barrowton + jezdziec",
+   "wraca": "300-08-07",
+   "zamyka": "Theon w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-10",
+   "co": "STARKPORT - WZMOCNIENIE NADZWYCZAJNE (Krol rzut 80): drugi nabor 50 od razu, straz nocna i wieza ognia podwojnie; Kasa 3. Odzew naboru - rzut przy meldunku.",
+   "kto": "CORWIN + ULRIC + BRANN MOKRY",
+   "kanal": "kruk WF->Barrowton + jezdziec",
+   "wraca": "300-08-10",
+   "zamyka": "meldunek Corwina o stanie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-10",
+   "co": "DUSTINPORT - WZMOCNIENIE NADZWYCZAJNE (Krol rzut 80): ludzie budowy w gotowosci, straz przy pochylniach i wiezy ognia; ESKADRA TORRENA ZOSTAJE NA ZACHODZIE. Kasa 3.",
+   "kto": "TORREN SOLNY + DONNEL OBROK",
+   "kanal": "kruk WF->Barrowton + jezdziec",
+   "wraca": "300-08-10",
+   "zamyka": "meldunek Torrena/Donnela",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-28",
+   "co": "GORACY PORT - WZMOCNIENIE NADZWYCZAJNE (rozkaz pana, lenno/Dom): straz budowy podwojona, ogien na murze od morza, setka Hendry'ego w gotowosci. Stan w zbiorczym Garricka.",
+   "kto": "HENDRY + GARRICK",
+   "kanal": "kruk WF->Fosa",
+   "wraca": "300-08-02",
+   "zamyka": "stan w zbiorczym",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-31",
+   "co": "LIST KROLA DO LORDOW ZACHODU - GOTOWOSC DO KONCA IX (Glover, Tallhart, Dustin, Mormont, Flint z Palca, Ryswell): druzyny pod reka, spisy poboru, straze ogniowe podwojnie. Odpowiedzi - rzut na kazda.",
+   "kto": "KROL / lordowie zachodu",
+   "kanal": "kruki",
+   "wraca": "300-08-02",
+   "zamyka": "odpowiedzi lordow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-30",
+   "co": "BARBREY - ODCZYT NAMIESTNIKA: Korona spodziewa sie ataku zelaznych do wrzesnia. Odpowiedz - rzut.",
+   "kto": "BARBREY DUSTIN",
+   "kanal": "kruk WF->Barrowton",
+   "wraca": "300-07-30",
+   "zamyka": "odpowiedz Barbrey",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-27",
+   "co": "SILY Z GLEBI NA ZACHOD - bez oslabiania garnizonu WF: 31 oczekujacych + ochotnicy rezerwy domeny po szkoleniu -> punkt miedzy Dustinportem a Starkportem. Sklad, miejsce, termin - Namiestnik z Rodrikiem.",
+   "kto": "NAMIESTNIK + RODRIK",
+   "kanal": "na miejscu",
+   "wraca": "300-07-27",
+   "zamyka": "ustalenie skladu i miejsca",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

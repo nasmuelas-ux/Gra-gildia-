@@ -253,3 +253,9 @@ Fakty, które Symon ma z zapisu i z rozmowy z 07-23:
 **Waga:** żywy świadek tej samej prawdy, którą Symon sprzedał Stannisowi. Dla Stannisa i dla Lannisterów ma wartość głowy. **Gendry nic nie wie.**
 **Zasada (GM):** nic na papier Korony. Kto wie: Symon (domysł). Nikomu nie powiedziane.
 - **07-23 wieczór:** Symon przysunął świecę. **Oczy Gendry'ego są niebieskie, ciemnoniebieskie, błękit Baratheonów** (kanon). Z trzech brakujących rzeczy jedna potwierdzona. Gendry zauważył, że jest oglądany *„jak tamci dwaj”*.
+- **07-23 wieczór, solar Króla (rzut 68):** Symon mówi Królowi o domyśle. **KRÓL** odpowiada:
+  1. tajemnica zostaje **między Królem a Namiestnikiem**, bez Małej Rady i bez papieru;
+  2. Gendry zostaje kowalem Korony **bez żadnej zmiany**: *„Każda zmiana wskaże go palcem. Niech kuje.”*;
+  3. *„Nie sprzedam chłopaka Stannisowi jak dowodu. Jeśli kiedyś zechce wiedzieć, kim jest, sam zdecyduje, co z tym zrobić. Człowiekiem się nie handluje.”*;
+  4. **Aryi nie mówić**, dopóki on sam nie wie;
+  5. *„Kuźnia jest w moim zamku. Nikt tu nie wejdzie z pismem królowej.”*

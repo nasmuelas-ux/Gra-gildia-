@@ -10002,7 +10002,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-26",
    "zamyka": "decyzja Krola (rzut)",
-   "status": "otwarte"
+   "status": "ROZSTRZYGNIETE 07-19 (Krol, rzut 68): TAK - ogloszenie (nie werbunek); WARUNEK: kazdy przysiega osobno (drzewo albo sept) zycie pod prawem Polnocy - bez przysiegi nie ma zagrody; wiara - Cerwyn do Kodeksu (wierzyc wolno, przymus nie). Tekst ogloszenia - Namiestnik do zatwierdzenia Krola."
   },
   {
    "data": "300-07-19",
@@ -10011,7 +10011,7 @@
    "kanal": "Winterfell; kruk do Riverrun",
    "wraca": "300-07-26",
    "zamyka": "zgoda Krola na list + list wyslany",
-   "status": "otwarte"
+   "status": "ROZSTRZYGNIETE 07-19 (rzut 68): Krol pisze do Edmure'a SAM - zawiadomienie: kto zechce, przyjdzie przez Fose; nikogo nie wola, bramy nie zamyka."
   },
   {
    "data": "300-07-19",
@@ -10029,7 +10029,7 @@
    "kanal": "Winterfell; kruk BP",
    "wraca": "300-07-26",
    "zamyka": "decyzja Malej Rady/Krola o transzy I i sposobie zaplaty",
-   "status": "otwarte"
+   "status": "ROZSTRZYGNIETE 07-19 (Krol, rzut 61): TAK - transza I w 300 na warunkach Gawena (towar z kol. C, po zniwach przez Reach ~08-25, raty XI-I); pierwszenstwo: najpierw ci, co sa; chleb osadnikow falami (pierwsza fala przed siewem jarym 301). Liczby Orlanda na Rade."
   },
   {
    "data": "300-07-19",
@@ -10039,6 +10039,33 @@
    "wraca": "300-08-05",
    "zamyka": "meldunek przy bilansie VII (ile spienezone i za ile) - wynik rynku RZUT przy bilansie",
    "status": "otwarte - pismo 07-19"
+  },
+  {
+   "data": "300-07-19",
+   "co": "OGLOSZENIE AZYLU - TEKST (wspolna + braavijska) do zatwierdzenia Krola: ogloszenie, nie werbunek; przysiega kazdego osobno; prawo Polnocy; wiara bez przymusu; gdzie wywiesic: Braavos, Pentos, Wolne Miasta (statki kupieckie, koordynacja z Wymanem).",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "tekst zatwierdzony i opieczetowany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "KODEKS - PRZEPIS O WIERZE (Krol 07-19): 'wierzyc wolno kazdemu; palic, bic i nawracac sila - nikomu' - Cerwyn ubiera w litere prawa.",
+   "kto": "KROL -> CERWYN (Justycjariusz)",
+   "kanal": "list Krola / przy najblizszym spotkaniu",
+   "wraca": "300-08-10",
+   "zamyka": "przepis na pismie w Kodeksie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "LIST KROLA DO EDMURE'A - ZAWIADOMIENIE O OTWARTEJ BRAMIE (osadnicy z Dorzecza przez Fose; nikogo nie wola). Krol pisze sam.",
+   "kto": "KROL -> EDMURE",
+   "kanal": "kruk Winterfell-Riverrun",
+   "wraca": "300-07-30",
+   "zamyka": "list doreczony; odpowiedz Edmure'a - RZUT",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

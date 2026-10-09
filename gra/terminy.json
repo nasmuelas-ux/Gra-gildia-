@@ -4984,9 +4984,9 @@
    "co": "ZBOZE TALLHARTA NA PIERWSZA ZIME DZIKICH (Cypel) - zgoda Symona: Korona kupuje PO CENIE OGLOSZONEJ (slup), nie z kartki zlego roku. Tallhart: pierwszy statek i pierwszy miesiac; reszte liczy z maesterem do zniw ('22 tys. korcy/mies. to pol Polnocy'). Kontrakt pisze GAWEN (Kasa 3); wchodzi w zycie, gdy Mance da slowo. Ilosc i cena - po rachunku maestera i slupie (zasada 43). ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): kontrakt Gawena gotowy w projekcie; wchodzi w zycie, gdy Mance da slowo - poselstwo Dacey ~06-20, wiesc ~06-25. ### 300-06-25: kontrakt Gawena gotowy w projekcie, wchodzi w zycie, gdy Mance da slowo; poselstwo Dacey u Mance'a ~06-28, wiesc przez Mur do Winterfell - pan w Winterfell ~07-08. ### 07-09 (Winterfell, stos Korony): kontrakt dalej czeka na slowo Mance'a (poselstwo Dacey - wiesc ~07-15).",
    "kto": "GAWEN + TALLHART",
    "kanal": "Winterfell (pan na miejscu)",
-   "wraca": "300-07-20",
+   "wraca": "300-07-24",
    "zamyka": "kontrakt na pismie z iloscia pierwszej dostawy",
-   "status": "otwarte"
+   "status": "otwarte 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24."
   },
   {
    "data": "300-05-10",
@@ -6532,9 +6532,9 @@
    "co": "GP-1 GORACY PORT - RYSUNEK ETAPOW I-II: linia muru od morza, Wieza Morska, Wieza Polnocna, rynna lancucha; pomiar ujscia i dna. Rysownika wskazuje Garrick (zasada 12; Weylin na Kamiennym Brzegu). Wlasni ludzie. ### 07-01: rysunek czeka na RYSOWNIKA (szukani - skryptorium, termin 07-15); pomiar Harlona jest.",
    "kto": "GARRICK -> rysownik + HARLON",
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
-   "wraca": "300-07-20",
+   "wraca": "300-07-21",
    "zamyka": "rysunek etapow I-II na pismie",
-   "status": "otwarte"
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
   },
   {
    "data": "300-05-26",
@@ -7495,9 +7495,9 @@
    "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%. ### 07-09 (Winterfell, stos Poludnie i morze): RZUT 9 - JEDNA KONSEKWENCJA: LAWA CAILIN ODRZUCA POZYCZKE W TEJ FORMIE - nie zgodzi sie na splate z czynszow ('Dom bedzie zbieral nasze czynsze - to juz pan kamienic'); proponuje w zamian POZYCZKE W MATERIALE (kamien, wapno, belki z magazynu Domu) splacana moneta z kasy miejskiej. Do slowa pana. ### 07-09 SLOWO PANA: 'Zgodnie z tym, jak Cailin chce' - POZYCZKA W MATERIALE (kamien, wapno, belki z magazynu Domu), splata moneta z kasy miejskiej, 0,5% rocznie; umowa Hal + Herwin + lawa, na slup.",
    "kto": "HAL + HERWIN SZALA + lawa",
    "kanal": "list pana do Hala (poczta BP) + na miejscu",
-   "wraca": "300-07-20",
+   "wraca": "300-07-21",
    "zamyka": "umowa pozyczki w materiale podpisana, wykaz materialu i termin splaty na slupie",
-   "status": "otwarte"
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
   },
   {
    "data": "300-06-19",
@@ -7522,9 +7522,9 @@
    "co": "KASA MIEJSKA CAILIN - PODATEK MIEJSKI (zamiar Herwina 06-19): lawa nie uchwalila dotad zadnego podatku; kasa zyje z wagi (Bennis) i niczego wiecej - na bruk, mury, straz brak. Herwin przedlozy lawie po sianokosach MALE PODYMNE albo OPLATE BRAMNA - zeby miasto mialo z czego splacac pozyczke 0,5%. Wola lawy - RZUT przy uchwale.",
    "kto": "HERWIN -> LAWA",
    "kanal": "na miejscu",
-   "wraca": "300-07-20",
+   "wraca": "300-07-21",
    "zamyka": "uchwala lawy (rzut)",
-   "status": "otwarte"
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
   },
   {
    "data": "300-06-19",
@@ -8119,9 +8119,9 @@
    "co": "GARNIZON GORACEGO PORTU - MIESZKA NA MIEJSCU (rozkaz pana 06-21): setka Hendry'ego, gdy wejdzie za mur od morza (rozkaz 05-16 'najpierw mur'), mieszka w Goracym Porcie NA STALE albo jest tam skoszarowana - nie dojezdza z Fosy. Kwatery w obrebie muru (Wieza Morska / Polnocna + izby przy murze) - do rysunku GP-1 (Garrick/rysownik). ZASADA 8: rodziny w porcie dopiero za murem; port na krawedzi zelaznych. Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): kwatery setki w obrebie muru - do rysunku GP-1, ktory czeka na rysownika (~07-20).",
    "kto": "HENDRY + HARLON + GARRICK (GP-1)",
    "kanal": "na miejscu",
-   "wraca": "300-07-20",
+   "wraca": "300-07-21",
    "zamyka": "kwatery garnizonu GP na rysunku GP-1",
-   "status": "otwarte"
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
   },
   {
    "data": "300-06-21",
@@ -8146,9 +8146,9 @@
    "co": "REKRUCI LENNA - OSOBNY PROGRAM (rozkaz pana 06-21): TRZY MIESIACE PODSTAWY - dyscyplina, forma, wlocznia i tarcza w szyku (najprostsze, co trzyma linie), kusza; litery - imie i rozkaz. Po trzech miesiacach PROBA: zdal - do druzyny stalej (mieszkanie sluzbowe, dodatki, rok do wlasnosci); nie zdal - do rezerwy albo do domu. Rekruci ze wsi wracaja po sianokosach (~07-20). Prowadzi dziesietnik od rekrutow (Hendry wskazuje). Wlasni - bez rzutu. ### 07-01: rekruci ze wsi na sianokosach (decyzja 06-18) - program wraca po nich.",
    "kto": "HENDRY",
    "kanal": "na miejscu",
-   "wraca": "300-07-20",
+   "wraca": "300-07-21",
    "zamyka": "program rekrutow ruszyl; pierwsza proba ~10-01",
-   "status": "otwarte"
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
   },
   {
    "data": "300-06-21",
@@ -8623,9 +8623,9 @@
    "co": "WYSPA TWARZY - DRUGI CZLOWIEK Z FOSY Z PYTANIEM 4 (rozkaz pana 06-28): 'JAK ODNOWIC PAKT?' - jedno pytanie (rada Reeda). Kryteria jak przy Edricu (05-13): wierzy w starych bogow, umie lodz i wode, malomowny; najlepiej z matka z bagien. WYBIERA GARRICK z WARRYNEM i KESSELEM (zasada 42) - imie do 06-30. Przykrywka: drugi pisarz zbioru o Dzieciach i Pakcie; bez zelaza na brzegu, nic nie ciac, zostawic cos w zamian; plynie OSOBNO od Edrica (inny dzien, inna lodz). Droga: przez Przesmyk do Lucana/zastepcy (~10 dni), lodz na Oku Boga. RZUT PRZY PRZYBICIU (osobna sprawa). Zasada 8 (Jojen): 'wyspa sama wybiera' - dwie lodzie moga wygladac jak wolanie, nie jak przyplyniecie. ### 300-06-30: WYBRANY (Kessel z Garrickiem i Warrynem): TAM KEPA (~30, z Jastrzebi; matka z krannogow, ojciec flisak; 'spiewa do drzew, jak mysli, ze nikt nie slyszy'; malomowny, lodz i woda od dziecka). POGODA (rzut 19 - jedna konsekwencja): gesta mgla na bagnie do poludnia - wyrusza JUTRO o swicie przez Przesmyk; u Lucana/zastepcy ~07-11; rzut przy przybiciu.",
    "kto": "TAM KEPA -> LUCAN (zastepca)",
    "kanal": "jezdziec/czlowiek przez Przesmyk + lodz na Oku Boga",
-   "wraca": "300-07-20",
+   "wraca": "300-07-28",
    "zamyka": "czlowiek wybrany imiennie i w drodze",
-   "status": "otwarte"
+   "status": "otwarte 07-21: bez kanalu dzis (zasada 34) - meldunek Tama/Lucana ~07-28 (rzut przy meldunku)."
   },
   {
    "data": "300-06-28",
@@ -8911,9 +8911,9 @@
    "co": "UMOWA MAJATKOWA SYMON-MIRA - USTALIC OD NOWA (pan 07-01: 'musimy to ustalic, bo to stalo sie bardziej skomplikowane; nie mamy juz normalnego domu w dawnym sensie'). Stan w zapisie: umowa malzenska 297-09-20 (odrebna wlasnosc Miry, 'rowni albo wcale'); Mira wspolniczka calosci Domu (~1/6, od 300-02-06); atelier poza Domem; akt opieki 299-11-29 (opieka nad dziecmi i zarzad ich majatkiem - Mira). Do ulozenia: co wspolne, co odrebne, co lenno (Kasa 2), co Dom (Kasa 1), co dzieci; wobec Korony (Namiestnik) i na wypadek smierci. Forma: rozmowa we dwoje, potem akt przy pisarzu przysieglym (Aldric Sznur, Winterfell). NIE DZIS - po powrocie.",
    "kto": "SYMON + MIRA (+ pisarz przysiegly)",
    "kanal": "osobiscie, Winterfell",
-   "wraca": "300-07-20",
+   "wraca": "300-07-27",
    "zamyka": "nowa umowa majatkowa spisana i opieczetowana",
-   "status": "otwarte"
+   "status": "otwarte 07-21: czeka na pana i Mire (osobiscie) - najblizsza niedziela."
   },
   {
    "data": "300-07-06",
@@ -9082,9 +9082,9 @@
    "co": "KARSTARK - WZMOCNIC (slowo pana 07-10, decyzja Krola rzut 44): (1) KROL ZAWIJA DO KARHOLDU w drodze na Skagos, schodzi na brzeg, rozmawia z Rickardem w twarz (rada Sansy); (2) CZLOWIEK KARSTARKA przy wymianie jencow w Maidenpool (Edmure - list Krola); (3) STRAZ MARCHII Karholdu (od 04-01 w sluzbie Korony) - ogloszona publicznie przy lordach jako 'oko Krola na wschodzie', z zoldem Korony. KONSEKWENCJA (rzut 44): Bolton odczyta to jako nacisk - 'wzmocnic Karstarka to powiedziec Boltonowi, kto pilnuje jego drzwi' (Krol); napiecie na wschodzie rosnie. List Krola do Rickarda (zapowiedz wizyty) - razem z odpowiedzia na jego warunek. ### 07-10 (slowo pana): Karstark ma juz PRZYSTAN NA OSTATNIEJ RZECE (04-02, rzut 26; trzy klucze; budowa po siewach) i STRAZ MARCHII w sluzbie Korony (30 ludzi, zold Kasy 3 od 05-01). KROL: przystan Ostatniej Rzeki - Korona daje juz teraz WAGE, SLUP Z CENA, KSIEGE I PISARZA (jej czesc z umowy) i przyspiesza deski z Wilczego Lasu; Gawen - koszt z Kasy 3 (E). 'Niech Rickard zobaczy, ze to, co obiecalismy, rosnie.' ### 07-10 KOREKTA (pytanie pana: 'po co ma uslyszec to o Karholdzie?'): PKT (3) - PUBLICZNE OGLOSZENIE 'OKA KROLA NA WSCHODZIE' SKRESLONE. Straz marchii zostaje, jak byla (zold Korony od 05-01, bez nowego ogloszenia). Wzmocnienie Karstarka - CICHO: wizyta Krola w drodze na Skagos, czlowiek przy Maidenpool, przystan Ostatniej Rzeki przyspieszona. Konsekwencja rzutu 44 lagodnieje: Bolton zobaczy tylko okret Krola przy Karholdzie - wizyte, nie ogloszenie.",
    "kto": "KROL -> RICKARD KARSTARK ; KROL -> EDMURE (Maidenpool)",
    "kanal": "kruk Winterfell-Karhold / Riverrun",
-   "wraca": "300-07-20",
+   "wraca": "300-07-25",
    "zamyka": "Rickard wie o wizycie; czlowiek Karstarka wskazany do Maidenpool",
-   "status": "otwarte"
+   "status": "otwarte 07-21: kanal Krola - stan na Radzie Trzech 07-25."
   },
   {
    "data": "300-07-10",
@@ -9163,9 +9163,9 @@
    "co": "LUCAN - UMOWA DORADCY (Dom + lenno): pensja stala (Hal liczy wzgledem Garricka - mniej) + premia od wyniku policzalnego (Kompania, kwity Lwa, proba Lys); Kasa 1 za Dom, Kasa 2 za lenno; Korona - bez srebra Korony. Wzor Lucana - do slowa pana; kwoty - Hal (zasada 43). Wlasni - bez rzutu.",
    "kto": "SYMON -> HAL (kwoty), WARRYN (czesc lenna)",
    "kanal": "kruk Winterfell-Bialy Port / Fosa",
-   "wraca": "300-07-20",
+   "wraca": "300-07-24",
    "zamyka": "umowa na pismie z kwotami",
-   "status": "otwarte - WZOR ZATWIERDZONY przez pana 07-11; Hal liczy kwoty"
+   "status": "otwarte - WZOR ZATWIERDZONY przez pana 07-11; Hal liczy kwoty 07-21: kwoty Hala - odpowiedz krukiem z BP ~07-24."
   },
   {
    "data": "300-07-11",

@@ -10317,7 +10317,7 @@
    "kanal": "list do Herwina / Garth",
    "wraca": "300-07-24",
    "zamyka": "slowo pana: jak Korona sprzedaje w Cailin",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-22: SLOWO PANA - list do Herwina i lawy (pieczec lorda Fosy): faktor ma ZARZADZIC sprzedaza, nie sprzedawac obok; Korona prosi o DZIEN TARGOWY DLA KROLESTWA na zasadzie uzyczenia targu, z WSZYSTKIMI OPLATAMI po stronie Korony, i o wskazanie czlowieka; odmowa 'wielce zastanawiajaca' (brak podatku, pusta kasa, odmowa zarobku); Cailin - MIASTO PANSKIE, podlegle lennu."
   },
   {
    "data": "300-07-22",
@@ -10326,7 +10326,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-26",
    "zamyka": "Krol zatwierdza/odrzuca (Mala Rada)",
-   "status": "otwarte"
+   "status": "otwarte ### 07-22 pan: idzie do Krola."
   },
   {
    "data": "300-07-22",
@@ -10344,6 +10344,24 @@
    "kanal": "kurier/kruk Winterfell-BP",
    "wraca": "300-07-26",
    "zamyka": "zaproszenie wyslane albo odlozone",
+   "status": "zamkniete 300-07-22: SLOWO PANA - mile widziany, jesli chce; warunek: ZASTEPCA w Septie Sniegow przed wyjazdem; Dom przysle woz. List prywatny (kurier/kruk BP)."
+  },
+  {
+   "data": "300-07-22",
+   "co": "LAWA CAILIN - ODPOWIEDZ NA LIST PANA (07-22): dzien targowy dla Krolestwa (uzyczenie targu, oplaty po stronie Korony) + wskazanie czlowieka; przypomnienie: miasto panskie. Wola lawy - RZUT przy odpowiedzi.",
+   "kto": "HERWIN SZALA + LAWA -> SYMON",
+   "kanal": "kruk Fosa-Winterfell",
+   "wraca": "300-07-25",
+   "zamyka": "odpowiedz lawy (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "OWEN - PRZYJAZD DO WINTERFELL (septon z BP w kanonie, dziedzina 9): warunek pana - zastepca w Septie Sniegow; Dom przysyla woz. Odpowiedz Owena - kiedy (rzut przy odpowiedzi; wola Owena i Wiary).",
+   "kto": "OWEN -> SYMON",
+   "kanal": "kurier/kruk BP-Winterfell",
+   "wraca": "300-08-01",
+   "zamyka": "termin przyjazdu Owena albo odmowa",
    "status": "otwarte"
   }
  ],

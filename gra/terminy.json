@@ -9903,7 +9903,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-07-22",
    "zamyka": "zadanie oddane na lekcji wtorkowej",
-   "status": "otwarte ### 07-20: zrobione (rzut 89); ocena - lekcja dzis wieczorem."
+   "status": "zamkniete 300-07-22: praca domowa oceniona przez Luwina - bez bledu."
   },
   {
    "data": "300-07-18",
@@ -10425,6 +10425,15 @@
    "kanal": "osobiscie",
    "wraca": "300-07-23",
    "zamyka": "rozmowa odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE OD LUWINA NA PIATEK 07-25: te same trzy rzeczowniki w NOWYCH czterech przypadkach (miejscownik, narzednik, towarzyszacy, wolacz) + jedno zdanie z kazdym. Lekcja pt. wieczorem.",
+   "kto": "SYMON",
+   "kanal": "wlasna nauka",
+   "wraca": "300-07-25",
+   "zamyka": "zadanie oddane na lekcji",
    "status": "otwarte"
   }
  ],

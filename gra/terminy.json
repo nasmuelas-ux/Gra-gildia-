@@ -10309,6 +10309,42 @@
    "wraca": "300-07-24",
    "zamyka": "droga dla chlopca wybrana albo swiadomie zostawiona",
    "status": "otwarte ### 07-22: pan czeka na CERWYNA OSOBISCIE (~07-24). Krol mysli na glos (propozycje, nie rozkazy): (a) POZOR RODZINNY - matka 'chora u siostry w BP'; ojciec prosi syna listem rodzinnym (nie Korony) o przyjazd do matki - syn sam prosi Roose'a o urlop; (b) ORZECZENIE CERWYNA oprzec PUBLICZNIE wylacznie na drzewach i miejscu kamienia (Cley) - nie na swiadku; Roose nie ma czego szukac u syna; (c) chlopak NIE wsrod dwudziestu pod Ramsayem - nic nie da sie zrobic bez imienia; ryzyko nazwane. ### 07-22 SLOWO PANA: ZGODA NA OBA - (a) list rodzinny ojca do syna ('matce gorzej, przyjedz'), Korona nic nie pisze; (b) ORZECZENIE CERWYNA PUBLICZNIE TYLKO NA DOWODACH Z TERENU (siedem drzew, miejsce kamienia - Cley) - przekazac Cerwynowi osobiscie ~07-24. RYZYKO NAZWANE PRZEZ PANA: syn wierny Boltonowi moze sie domyslic. KROL: 'Dlatego list pisze ojciec, nie my - i to ojciec decyduje, czy pisac. On zna syna; my nie.' Pytanie do ojca - USTNIE, gdy bedzie w Przystani Wilka (Bors), przez Dagona albo Cerwyna."
+  },
+  {
+   "data": "300-07-22",
+   "co": "FAKTOR KROLEWSKI CAILIN - ODMOWA LAWY (rzut 4): faktor hurtem = konkurencja dla wagi/targu (jedyny dochod kasy miejskiej); w Cailin nie ma kupca niezwiazanego z Domem/lennem; lawa prosi, by pan nie rozstrzygal ponad jej glowa - Korona moze sprzedawac NA TARGU, PRZEZ WAGE MIASTA, W DZIEN TARGOWY. Dotyczy tez probnej sprzedazy Korony na Fosie (07-21). Do slowa pana.",
+   "kto": "SYMON (slowo)",
+   "kanal": "list do Herwina / Garth",
+   "wraca": "300-07-24",
+   "zamyka": "slowo pana: jak Korona sprzedaje w Cailin",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "FAKTOR KROLEWSKI BARROWTON - kandydat Barbrey: OSBERT GRUBNY (E), lawnik i kupiec welny, czlowiek miasta; warunek: Korona sprzedaje przy WADZE MIEJSKIEJ, placi oplate od wagi, stoi trzy dni. Do Krola (Krol wybiera faktorow - z trzech kandydatow).",
+   "kto": "SYMON -> KROL",
+   "kanal": "osobiscie",
+   "wraca": "300-07-26",
+   "zamyka": "Krol zatwierdza/odrzuca (Mala Rada)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "AEMON - 'to, czego nie ma w ksiegach, powiem ustnie temu, kto przyjedzie z Waszym imieniem' (list 07-22). Do slowa pana: kto i kiedy jedzie (Wystan jest przy nim; placowka Domu). Dodatkowo: DREWNO NA ZIME do wiezy maestera - Dom placi (obietnica z listu 07-19).",
+   "kto": "SYMON",
+   "kanal": "placowka Domu Czarny Zamek",
+   "wraca": "300-07-26",
+   "zamyka": "slowo pana; drewno zamowione u placowki",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "SEPTON OWEN (BP) - SAM OFERUJE miejsce septona z Bialego Portu w kanonie (dziedzina 9: Siedmiu, dla dzieci Starkow) - 'przyjade, kiedy zawolacie; za rok moze byc za pozno'. Do slowa pana (i Krola/Catelyn - matka czci Siedmiu; Catelyn przyjezdza ~07-25).",
+   "kto": "SYMON -> OWEN",
+   "kanal": "kurier/kruk Winterfell-BP",
+   "wraca": "300-07-26",
+   "zamyka": "zaproszenie wyslane albo odlozone",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -10834,7 +10834,7 @@
   },
   {
    "data": "300-07-28",
-   "co": "GORACY PORT - WZMOCNIENIE NADZWYCZAJNE (rozkaz pana, lenno/Dom): straz budowy podwojona, ogien na murze od morza, setka Hendry'ego w gotowosci. Stan w zbiorczym Garricka.",
+   "co": "GORACY PORT - WZMOCNIENIE NADZWYCZAJNE (rozkaz pana, lenno/Dom): straz budowy podwojona, ogien na murze od morza, setka Hendry'ego w gotowosci. Stan w zbiorczym Garricka. ### 07-26 PLAN NA CZTERY OGNIE (pan): GORACY PORT SPALIC - wszystko, co palne (rusztowania, szopy, sklady, lodzie), ludzie budowy na Fose; kamien muru zostaje; nic dla zelaznych. DRUZYNA HENDRY'EGO + BAGNISTE JASTRZEBIE - z ukrycia, z lasow i bagien, luk i kusza, bez otwartej bitwy. BLOKADY DREWNIANE - zasieki i zapory na sciezkach i wodzie od wybrzeza ku Cailin i Fosie (miejsca - Hendry z Jastrzebiami; budowa - ludzie Garricka; koszt lenno).",
    "kto": "HENDRY + GARRICK",
    "kanal": "kruk WF->Fosa",
    "wraca": "300-08-02",
@@ -10866,6 +10866,24 @@
    "kanal": "na miejscu",
    "wraca": "300-07-27",
    "zamyka": "ustalenie skladu i miejsca",
+   "status": "ROZSTRZYGNIETE 07-26 (slowo pana, plan Rodrika): 31 oczekujacych + ochotnicy z rezerwy domeny (bezrolni, mlodsi synowie, za zoldem Kasy 3) - 2 tyg. musztry w WF, wymarsz po 08-10 na KAMIENNY BRZEG (~konca VIII, E)"
+  },
+  {
+   "data": "300-07-28",
+   "co": "SILY Z GLEBI - MUSZTRA 2 TYG. W WINTERFELL (31 oczekujacych + ochotnicy rezerwy domeny po 07-27); wymarsz po 08-10 na Kamienny Brzeg pod Corwina. Ilu ochotnikow - po cwiczeniu 07-27 (rzut odzewu).",
+   "kto": "RODRIK",
+   "kanal": "na miejscu",
+   "wraca": "300-08-10",
+   "zamyka": "wymarsz na Kamienny Brzeg",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-10",
+   "co": "GORACY PORT / FOSA - BLOKADY DREWNIANE: zasieki i zapory na sciezkach i wodzie od wybrzeza ku Cailin i Fosie; stan w zbiorczym Garricka.",
+   "kto": "HENDRY + GARRICK",
+   "kanal": "kruk WF->Fosa / zbiorczy",
+   "wraca": "300-08-10",
+   "zamyka": "blokady stoja",
    "status": "otwarte"
   }
  ],

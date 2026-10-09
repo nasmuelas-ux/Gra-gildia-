@@ -16,3 +16,10 @@ _Wniosek Namiestnika po karcie Theona (langskip pod Zatoką Kamieni 07-09). Kró
 | 5 | **SIŁY Z GŁĘBI** — bez osłabiania garnizonu WF: 31 oczekujących oraz ochotnicy z rezerwy domeny po szkoleniu → punkt między Dustinportem a Starkportem. **Do ustalenia: Namiestnik + Rodrik.** | Rodrik | na miejscu | — |
 | 6 | **LIST KRÓLA DO LORDÓW ZACHODU** (Glover, Tallhart, Dustin, Mormont, Flint z Palca, Ryswell): gotowość do końca września; drużyny pod ręką; spisy poboru gotowe; straże ogniowe podwójnie; ognie zgodnie z kartą ognia. | Król (pieczęć), Beron | kruki z Winterfell | odpowiedzi **~07-30..08-02** |
 | 7 | **LADY BARBREY** — odczyt Namiestnika: Korona spodziewa się ataku do września. | Namiestnik | kruk WF→Barrowton | odpowiedź **~07-30** |
+
+## Uzupełnienia (słowo pana, 07-26)
+- **Pkt 5, siły z głębi:** ZGODA na plan Rodrika. Idą 31 oczekujących i ochotnicy rezerwy domeny (bezrolni, młodsi synowie, żołd z Kasy 3). Najpierw **2 tygodnie musztry w Winterfell**, potem wymarsz po 08-10 na **Kamienny Brzeg** pod Corwina. Na miejscu ok. końca VIII (E).
+- **Pkt 4, Gorący Port: plan na wielką flotę:**
+  - **SPALIĆ** wszystko, co palne: rusztowania, szopy, składy, łodzie. Ludzie budowy schodzą na Fosę. Kamień muru zostaje. Żelaźni nie mają tam nic znaleźć.
+  - **Drużyna Hendry'ego i Bagniste Jastrzębie** strzelają z ukrycia, z lasów i bagien, z łuku i kuszy. Bez otwartej bitwy.
+  - **Blokady drewniane:** zasieki i zapory na ścieżkach i na wodzie od wybrzeża ku Cailin i Fosie. Miejsca wskazują Hendry i Jastrzębie. Budują ludzie Garricka, płaci lenno.

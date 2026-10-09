@@ -51,6 +51,8 @@
 - **Zasada 8:** te same ręce, które umieją pisać, są potrzebne kancelarii lenna, skryptorium i komorze. Szkoła bierze tych, którzy **umieją uczyć**, a kancelaria i komora tych, którzy **umieją pisać**.
 
 ## VI. WIARA
-Jeszcze nikt nie zapytał. **Odpowiedź do słowa pana**, gdy pytanie padnie (`wydawnictwo_i_szkola_tally_300_06.md`: na Fosie są dwie wiary obok siebie).
+**⚑ SŁOWO PANA 300-07-20: DZIECKO ZOSTAJE PRZY SWOJEJ WIERZE. NIKOGO NIE NAWRACAMY.** Dziecko z septu zostaje przy Siedmiu, a dziecko ze starych bogów przy drzewie. Szkoła Tally uczy liter, liczb i fachu, a nie wiary. *(Zgodnie z zasadą Króla z 07-19: wierzyć wolno każdemu, nawracać siłą nikomu.)*
+
+*Wcześniej:* jeszcze nikt nie zapytał. Odpowiedź do słowa pana, gdy pytanie padnie (`wydawnictwo_i_szkola_tally_300_06.md`: na Fosie są dwie wiary obok siebie).
 
 *Spisała Mira; miejsce internatu wskazał Garrick. Pan czyta.*

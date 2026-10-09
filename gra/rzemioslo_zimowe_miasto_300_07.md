@@ -32,6 +32,10 @@
 | **Szewc** | (imię u Orwyla) | buty do pół łydki | — |
 | **Tkaczki** (kilka domów) | (spis u Orwyla) | przeszywanice, płaszcze szare, cięciwy | **len i wełna z danin domeny** dostarczone przez Koronę |
 
+## TERMIN UMÓW
+- **Rok od podpisu**: podpis ~300-07-25, koniec ~301-07-25. Dokładną datę Orwyl wpisuje przy podpisie.
+- **Przegląd przed odnowieniem: ~301-06-25** (Orwyl i Gawen → Namiestnik). Sprawdza się, co warsztat oddał, w jakiej jakości i czy odnowić umowę.
+
 ## CZEGO W BAZIE BRAKUJE
 - **Imion** cieśli, garbarza, szewca i tkaczek. Orwyl dopisuje je przy podpisie.
 - **Drugiego łuczarza.** Poprzedni poszedł z Królem na południe i nie wrócił.

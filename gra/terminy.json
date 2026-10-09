@@ -10450,8 +10450,17 @@
    "co": "OGLOSZENIE AZYLU - WYSLANIE (zgoda Wymana 07-23, rzut 89): odpisy z pieczecia Krola na statki do Braavos, Pentos i Wolnych Miast przez kapitanow Wymana; rejestracja na komorze Korony w BP; przybycie wiosna, falami (~kilkuset na miesiac, E). Do wydania przez Krola/pana.",
    "kto": "KROL/SYMON -> WYMAN (kapitanowie)",
    "kanal": "odpisy krukiem/wozem do BP",
-   "wraca": "300-07-26",
+   "wraca": "300-07-25",
    "zamyka": "odpisy wydane do BP",
+   "status": "otwarte ### 07-23 KROL: WYDAC. Odpisy: wspolna mowa - kancelaria (Beron) z pieczecia Krola; WERSJA BRAAVIJSKA - przeklada SYMON sam (plik ogloszenia: 'po zatwierdzeniu'); odpisy wozem/kurierem do BP do kapitanow Wymana. Przybycie wiosna, falami (limit Wymana)."
+  },
+  {
+   "data": "300-07-23",
+   "co": "OGLOSZENIE AZYLU - PRZEKLAD BRAAVIJSKI (Symon, wlasna reka; braavijski poziom 10) + odpisy kancelarii (Beron) z pieczecia Krola: ile - po jednym na kapitana i port (Braavos, Pentos, Lys, Myr, Tyrosh, Volantis - wg statkow Wymana). Wysylka do BP z poczta Domu.",
+   "kto": "SYMON ; BERON (kancelaria)",
+   "kanal": "Winterfell",
+   "wraca": "300-07-25",
+   "zamyka": "przeklad gotowy, odpisy opieczetowane, w drodze do BP",
    "status": "otwarte"
   }
  ],

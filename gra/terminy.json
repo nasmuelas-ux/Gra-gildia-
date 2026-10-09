@@ -10461,7 +10461,16 @@
    "kanal": "Winterfell",
    "wraca": "300-07-25",
    "zamyka": "przeklad gotowy, odpisy opieczetowane, w drodze do BP",
-   "status": "otwarte ### 07-23: PRZEKLAD GOTOWY (Symon). Uwaga tlumacza: w Volantis, Lys i Myr (miasta niewolnicze) wywieszenie = podzeganie - kapitan moze zaplacic statkiem; tam z reki do reki albo wcale - do slowa Krola i Wymana. Odpisy - Beron."
+   "status": "otwarte ### 07-23: PRZEKLAD GOTOWY (Symon). Uwaga tlumacza: w Volantis, Lys i Myr (miasta niewolnicze) wywieszenie = podzeganie - kapitan moze zaplacic statkiem; tam z reki do reki albo wcale - do slowa Krola i Wymana. Odpisy - Beron. ### 07-23 KROL (slowo pana, bez rzutu - szczegol sprawy z 07-19): JAWNIE NA SLUPIE tylko BRAAVOS; PENTOS - SKRYCIE (z reki do reki, przez kapitanow); VOLANTIS, LYS, MYR - z reki do reki albo wcale (kapitan decyduje, nie ryzykuje statku). Wyman - list z tym zastrzezeniem do odpisow."
+  },
+  {
+   "data": "300-07-23",
+   "co": "WYMAN - ZASADA ROZDAWANIA OGLOSZENIA AZYLU (list Namiestnika z odpisami ~07-25): Braavos - jawnie na slupie; Pentos - skrycie, z reki do reki; Volantis, Lys, Myr - z reki do reki albo wcale, decyduje kapitan - zaden statek nie ryzykuje sie dla kartki.",
+   "kto": "SYMON -> WYMAN (kapitanowie)",
+   "kanal": "poczta Domu do BP z odpisami",
+   "wraca": "300-07-25",
+   "zamyka": "list i odpisy w drodze do BP",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

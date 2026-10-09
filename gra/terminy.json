@@ -10408,6 +10408,15 @@
    "wraca": "300-08-08",
    "zamyka": "czlowiek Domu w Winterfell, mowi panu ustnie (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "SWIADEK Z RODZINA - DOJAZD DO PRZYSTANI WILKA (po wyprowadzeniu, rzut 65): statkiem Domu z ujscia Placzacej Wody do BP (pozor: zona do siostry), barka w gore Bialego Noza do Przystani (Bors); osiedlenie na ziemi Korony (warunek Krola). Tam - pytanie USTNE do ojca o list rodzinny do syna (slowo pana 07-22). Wlasni (Dom/Bors) - bez rzutu na droge.",
+   "kto": "HAL (statek BP) -> BORS (przyjecie)",
+   "kanal": "woda; wiesc - karta Borsa / jezdziec",
+   "wraca": "300-07-28",
+   "zamyka": "rodzina w Przystani Wilka; pytanie o list do syna zadane",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

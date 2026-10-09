@@ -18,7 +18,9 @@
 > - narzędzia do pracy;
 > - ziarno na pierwszy siew;
 > - **pięć lat bez czynszu i daniny**, a potem płaci jak każdy;
-> - chleb do pierwszych żniw z ziemi, którą sam obsiał.
+> - chleb do pierwszych żniw.
+>
+> **W zamian, przez te pięć lat:** co zagroda wyda **ponad własną potrzebę**, osadnik **wystawia na wolny targ** i sprzedaje, komu chce, po cenie targu. Nie trzyma tego w komorze i nie oddaje panu.
 >
 > **Czego Król żąda w zamian.** Każdy, kto chce zostać, **przysięga osobno**, przy drzewie albo w sepcie, zależnie od swojej wiary, **że będzie żył pod prawem Północy**. **Bez przysięgi nie dostaje zagrody.**
 >
@@ -28,7 +30,7 @@
 >
 > **O zimie.** Zima na Północy jest długa i ciężka. Kto przypływa, niech przypływa **wiosną, przed siewem**, a nie przed zimą, i niech przywiezie ciepłe odzienie, jeśli je ma.
 >
-> **Dokąd.** Do **Białego Portu**. Tam należy się zgłosić w **faktorii Mistrza Handlu i Portów**, czyli u urzędu Korony.
+> **Dokąd.** Do **Białego Portu**. Tam należy się zgłosić na **komorze Korony** w porcie.
 >
 > Północ potrzebuje rąk **odważnych i chętnych do nauki**. Jeśli takie macie, ziemia czeka.
 >
@@ -41,5 +43,6 @@
 - **Gdzie wywiesić:** Braavos, Pentos i pozostałe Wolne Miasta, na statkach kupieckich, w koordynacji z Wymanem. Werbunku nie ma.
 - **Do potwierdzenia przed pieczęcią:**
   - (1) **pięć lat bez daniny i chleb do pierwszych żniw** to model osadnictwa domeny z 299-08-28, a chleb osadnikom przyznał pan 07-19. Król liczy chleb falami;
-  - (2) **zgłoszenie w faktorii Mistrza Handlu** w Białym Porcie wymaga zgody Wymana, przed wysłaniem;
+  - (2) **zgłoszenie na komorze Korony w Białym Porcie** (słowo pana: komora, nie faktoria). **Wyman** jest o tym **informowany**, a przed wysłaniem ogłoszenia potrzebna jest jego **zgoda**, bo to jego port i jego miasto;
+  - (2a) **pięć lat bez daniny, ale z obowiązkiem wystawiania nadwyżki żywności na wolny handel** (słowo pana 07-19).
   - (3) **kara za wiarę z przymusem** pada z prawa Północy, ale przepis pisze dopiero Cerwyn. Do tego czasu zdanie *„odpowie przed prawem Północy”* nie podaje kary.

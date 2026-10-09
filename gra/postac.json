@@ -9,7 +9,7 @@
   "utrzymanie": "WSPOLNIK kantoru Nesty (spolka zbozowa zamknieta, egzotyczna aktywna) + od d29 PISARZ SEPTY pod PUBLICZNA OPIEKA WIARY (pisze/uczy pod prawem Wiary — cechowe 'nielicencjonowany' NIETRAFNE; przy sierocincu/szkolce Owena)",
   "zdrowie": 100,
   "sytosc": 100,
-  "zmeczenie": 45,
+  "zmeczenie": 47,
   "sakiewka": {
     "miedziaki": 44,
     "jelenie": 187,
@@ -71,9 +71,9 @@
     },
     "wysoki_valyrianski": {
       "mowa": "brak",
-      "czytanie": "POCZATKUJACY (298-07-22: czyta pierwsze proste zdania, wybrzmiewajac; glify+sylaby opanowane, sens jeszcze czesciowy). Braavijski daje tempo (rozpoznaje rdzenie, nie kuje na pamiec).",
+      "czytanie": "POCZATKUJACY (298-07-22: czyta pierwsze proste zdania, wybrzmiewajac; glify+sylaby opanowane, sens jeszcze czesciowy). Braavijski daje tempo (rozpoznaje rdzenie, nie kuje na pamiec). | 300-07-18 (pierwsza lekcja u Luwina, rzut 67): glify i sylaby trzymaja sie od 298; odmiana rzeczownika (cztery przypadki z osmiu) wchodzi szybko przez rdzenie braavijskie; czyta proste zdanie prawne z pomoca slownika. Nadal POCZATKUJACY, ale stabilnie.",
       "pismo": "brak",
-      "nota": "jezyk klasyczny/nauki (ksiegi, prawo, formalne pisma, Zelazny Bank). Nauka CZYTANIA (nie mowy), lata drogi. Braavijski daje FORY (wspolne korzenie). Uczy Theomore."
+      "nota": "jezyk klasyczny/nauki (ksiegi, prawo, formalne pisma, Zelazny Bank). Nauka CZYTANIA (nie mowy), lata drogi. Braavijski daje FORY (wspolne korzenie). Uczy Theomore. | Od 300-07-18 uczy LUWIN (wt. i pt. wieczorem)."
     }
   },
   "wiedza": {
@@ -156,7 +156,7 @@
     "retoryka": 138,
     "czytanie_ludzi": 266,
     "rzemioslo": 4,
-    "jezyki": 76,
+    "jezyki": 77,
     "spryt_uliczny": 132,
     "handel": 163,
     "geometria": 22,

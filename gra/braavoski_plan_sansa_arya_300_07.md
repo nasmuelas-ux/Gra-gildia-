@@ -28,3 +28,15 @@ Każda lekcja to **scena z portu albo z kantoru**. Arya **mówi**, a Sansa **zap
 ## Czego nie robić
 - Żadnych prawdziwych listów ani ksiąg Domu i Nesty jako materiału. To papiery handlowe, więc sceny są zmyślone.
 - Nie sadzać jednej przy księdze, a drugiej przy oknie. Obie biorą udział w każdej części.
+
+---
+
+## SŁOWO PANA 07-19: osobne prace domowe i osobne materiały
+
+| | **SANSA** | **ARYA** |
+|---|---|---|
+| praca domowa | osobna, pisemna | osobna, ustna albo „na rzeczach” |
+| materiały od Symona | **prawo zwyczajne** (Północ: zwyczaj, precedens, reguła dwóch kart) i **prawo między państwami** (traktaty, prawo morskie i portowe, Bank, kantor, weksel) | **dzielni wojownicy** i **historia Braavos** (założenie miasta, Morski Władca, Tytan, mistrzowie wody) |
+| łączy się z | jej kartami królestw (Essos) i jej ścieżką (prawo + losy królestw, 07-18) | jej mistrzem z Braavos, Syrio i dziedziną 6/7 |
+
+**Skąd materiały:** spisuje je Symon z własnej wiedzy (prawo 9, lata w Braavos i w kantorze), a resztę bierze z księgozbioru Luwina. **Książek, których nie ma w zapisie, nie zakłada się.** Czego brakuje, idzie na listę ksiąg (Luwin, 05-25).

@@ -10524,7 +10524,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-25",
    "zamyka": "decyzja: co z wyrwanym slupem",
-   "status": "otwarte ### 07-24 KROL: Sansie - JAWNIE, w ramach jej karty (Rejestr relacji/karta Polnocy) prosba o odczyt: co znaczy wyrwany slup miedzy Dreadfortem a Korona; tylko fakty jawne (bez swiadka, kamienia, syna). Pan zanosi."
+   "status": "zamkniete 300-07-24: SLOWO PANA + KROL (rzut 50): (1) CERWYN jutro po orzeczeniu oglasza: wyrwany slup to sprawa Korony - 'kto rusza slup, odpowiada przed Krolem'; (2) STRAZ KORONY PRZY SLUPACH - szesciu jezdzcow garnizonu WF pod choragwia wilka (obsadza ser Rodrik), zmiana co tydzien, do odwolania; nikt nie dobywa pierwszy; po 08-05 z garnizonu, ktory zostaje; (3) prosba do HORNWOODU - lady Donella ustawia swoich do obserwacji (rzut przy odpowiedzi)."
   },
   {
    "data": "300-07-24",
@@ -10533,6 +10533,24 @@
    "kanal": "osobiscie, Wielka Sala",
    "wraca": "300-07-25",
    "zamyka": "uzasadnienie Sansy przeczytane przez Cerwyna (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-24",
+   "co": "STRAZ KORONY PRZY SLUPACH (pas sporny Hornwood/Dreadfort): szesciu jezdzcow garnizonu WF pod choragwia wilka, zmiana co tydzien, do odwolania (Krol, rzut 50); regula: nikt nie dobywa pierwszy; wyjazd 07-25 o swicie (obsadza ser Rodrik).",
+   "kto": "KROL -> SER RODRIK -> szostka",
+   "kanal": "rozkaz ustny; meldunek co tydzien jezdzcem",
+   "wraca": "300-08-01",
+   "zamyka": "pierwszy meldunek tygodniowy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-24",
+   "co": "HORNWOOD - PROSBA O OBSERWACJE SLUPOW (list Namiestnika do lady Donelli, 07-24 wieczorem; kruk Winterfell-Hornwood): ludzie Hornwoodu obok strazy Korony - patrza i mowia, nie bija. Wola Hornwoodu - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> DONELLA HORNWOOD",
+   "kanal": "kruk Winterfell-Hornwood",
+   "wraca": "300-07-28",
+   "zamyka": "odpowiedz Donelli (rzut)",
    "status": "otwarte"
   }
  ],

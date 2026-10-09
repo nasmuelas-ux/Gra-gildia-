@@ -25,7 +25,11 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**223 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**223 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
+
+### 🟡 WRACA DZIS
+- DOM STARKOW - RACHUNEK RODWELLA PRZED SKARBNIKIEM (Gawen, wlasny urzad; zasada 42): na pismie - co stoi i czemu (dzialy bez operac… · _kanal:_ osobiscie, Winterfell
+- ARYA - PRZYGOTOWANIE DO PROBY SZCZEBLA II (obca karta rachunkowa, jeden blad) - pomaga SYMON (slowo pana 07-18). Warunki Aryi: nie… · _kanal:_ osobiscie, Winterfell
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1116,10 +1120,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-18 wieczor · zima (300)
+- **Data:** 300-07-19 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 47**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 12**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2333,7 +2337,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-18] `dziennik`: KOMNATA SANSY (cd.) - SYMON poleca SANSIE zglebic tez LOSY KROLESTW oraz WYSOKI VALYRIANSKI i BRAAVOSKI - zeby rozumiec prawo nie tylko nasze, ale i essoskie. Bez nowego rzutu (ta sama spraw…
 - [300-07-18] `dziennik`: KOMNATA SANSY (cd.) - SYMON: braavoskiego nauczy ja sam - razem z Arya. Bez rzutu (wlasna nauka pana; Sansa sama pytala 'kto mnie nauczy'). SANSA unosi brwi: 'Z Arya?' - krotki smiech, pierw…
 - [300-07-18] `dziennik`: KOMNATA SANSY (cd.) - SYMON: braavoski dwa razy w tygodniu, rano. Bez rzutu. SANSA kiwa glowa: 'Rano, po sniadaniu - zanim przyjda do mnie z rejestrem.' I praktycznie: 'Ktore dni? Arya rano …
 - [300-07-18] `dziennik`: KOMNATA SANSY (cd.) - SYMON: braavoski w PONIEDZIALKI i PIATKI rano. Bez rzutu. Dzis piatek - pierwsza lekcja w poniedzialek 300-07-21. SANSA zapisuje na marginesie: 'pon. i pt. - braavoski'…
@@ -2345,3 +2348,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-18] `dziennik`: IZBA ARYI (cd.) - SYMON: zaczynamy jutro (07-19). Bez rzutu. ARYA: 'Jutro.' Chowa karte pod poduszke. 'Rano strzelam z wujem, jak bedzie mial chwile. Potem moge.' I: 'Przynies taka, gdzie kt…
 - [300-07-18] `dziennik`: WIECZOR, KOMNATY TALLYCH - SYMON wraca do MIRY (po Aryi). Bez rzutu. Mira przy stole przy swiecy, przed nia kartki ze szkoly; LYRA w lozeczku, zasypia (Rhona w sasiedniej izbie). Mira podnos…
 - [300-07-18] `dziennik`: KOMNATY TALLYCH (cd.) - SYMON opowiada MIRZE: uczy sie WYSOKIEGO VALYRIANSKIEGO u Luwina (wt. i pt. wieczorem, pierwsza lekcja dzis) i bedzie uczyl BRAAVOSKIEGO SANSE i ARYE (pon. i pt. rano…
+- [300-07-19] `dziennik`: 300-07-19 RANEK (SOBOTA), WINTERFELL. SEN RZUT 51: noc przecietna - Lyra raz nad ranem, pan zasypia bez klopotu; zdrowie 100, zmeczenie 47->12, sytosc 100->72 (kolacji 07-18 pan nie jadl - l…

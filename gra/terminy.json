@@ -9979,7 +9979,7 @@
   },
   {
    "data": "300-07-19",
-   "co": "OSADNICTWO DOMENY - INTENSYFIKACJA W OKREGACH ZBOZOWYCH I-III (slowo pana 07-19): model 299-08-28 (zagroda, narzedzia, ziarno z domeny, 5 lat bez daniny); Rodwell wskazuje puste zagrody w I-III do 07-26. OTWARTE: skad ludzie (pytanie Gawena do pana).",
+   "co": "OSADNICTWO DOMENY - INTENSYFIKACJA W OKREGACH ZBOZOWYCH I-III (slowo pana 07-19): model 299-08-28 (zagroda, narzedzia, ziarno z domeny, 5 lat bez daniny); Rodwell wskazuje puste zagrody w I-III do 07-26. OTWARTE: skad ludzie (pytanie Gawena do pana). ### 07-19 ZRODLA LUDZI (slowo pana): (1) AZYL dla bylych niewolnikow i uchodzcow z Essos - PREROGATYWA KROLA (rzut przy przedlozeniu); (2) DORZECZE (przeludnione) - list Krola do Edmure'a przed werbunkiem; droga przez Przesmyk i Fose.",
    "kto": "RODWELL pod GAWENEM",
    "kanal": "Winterfell / domena",
    "wraca": "300-07-26",
@@ -9988,11 +9988,29 @@
   },
   {
    "data": "300-07-19",
-   "co": "SIEW ZBOZA I ROSLIN POD WARUNKI POLNOCY - TERAZ (slowo pana 07-19): ozime przed mrozem (299: mroz ~08-29!); ziarno siewne z kolumny B (ilosc - karta Spichlerza Orlanda 07-19); odmiany - pytanie do THEOMORE'A (agronomia chlodu, Glebokorzen).",
-   "kto": "GAWEN + ORLAND; THEOMORE (rada)",
+   "co": "SIEW ZBOZA I ROSLIN POD WARUNKI POLNOCY W DOMENIE (slowo pana 07-19): odmiany USTALONE 06-09 (zyto ozime - siew IX, termin Osrica; jeczmien i owies jare z gor i z polnocy Dorzecza; groch, bob, rzepa, kapusta); siewne z kolumny B / z kontraktu (ilosc - karta Spichlerza Orlanda 07-19); okregi I-III najpierw. [07-19: pytanie do Theomore'a o odmiany - VOID]",
+   "kto": "GAWEN + ORLAND (+ RODWELL - osadnicy)",
    "kanal": "Winterfell; kruk do Przystani Wilka/Bialego Portu (Theomore)",
    "wraca": "300-07-26",
-   "zamyka": "plan siewu ozimego na okregi I-III + odpowiedz Theomore'a o odmianach",
+   "zamyka": "plan siewu ozimego na IX dla okregow I-III z iloscia siewnego",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "AZYL KROLESTWA POLNOCY DLA BYLYCH NIEWOLNIKOW I UCHODZCOW Z ESSOS (zamiar pana 07-19) - do Krola (PREROGATYWA, rzut przy przedlozeniu). Uwagi Gawena: koszt (statek, odzienie, chleb do zniw - karta Orlanda), port BP (Wyman), mowa (braavijski), wiara (ostrzezenie Luwina o czerwonych kaplanach 04-17), wrogowie (panowie niewolnikow; azyl stawia Polnoc obok Daenerys); Braavos przychylne.",
+   "kto": "SYMON -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "decyzja Krola (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "OSADNICY Z DORZECZA (pan: Dorzecze przeludnione) - LIST KROLA DO EDMURE'A przed jakimkolwiek werbunkiem (Gawen: 'lord nie lubi tracic rak'); droga przez Przesmyk i Fose, ksiega przybyszow w Cailin; werbunek dla Korony - nie Dom (mur trzech kas). Prerogatywa (list do wladcy) - rzut przy przedlozeniu.",
+   "kto": "SYMON -> KROL -> EDMURE",
+   "kanal": "Winterfell; kruk do Riverrun",
+   "wraca": "300-07-26",
+   "zamyka": "zgoda Krola na list + list wyslany",
    "status": "otwarte"
   }
  ],

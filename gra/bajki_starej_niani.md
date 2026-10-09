@@ -370,6 +370,6 @@
 >
 > Obowiązuje tak długo, jak ktoś o nim pamięta. Południe zapomniało, bo Andalowie przyszli z mieczami i wycięli drzewa. Północ pamięta. Dlatego macie jeszcze gaj.
 
-*Dopisek spisującego:* Meera na progu powiedziała cicho, do nikogo: *„Jojen mówił, że zieloni ludzie nie lubią pytań, tylko darów.”* Niania pokiwała głową, jakby to wiedziała od zawsze. *Uwaga: to zgadza się z radą Jojena dla Edrica Szuwara (06-18): „bez żelaza na brzegu, nic nie ciąć, zostawić coś w zamian”.*
+*Dopisek spisującego:* Meera na progu powiedziała cicho, do nikogo: *„Dlatego bez żelaza na brzegu. I zostawić coś w zamian.”* To słowa rady Jojena dla Edrica Szuwara z 06-18. Niania pokiwała głową, jakby wiedziała to od zawsze.
 
 *Uwaga porządkowa (reguła Brana):* zieloni ludzie na łosiach pojawiają się pierwszy raz. **Łoś** pada już drugi raz w zapisie. Thenn mówił Dacey o czarnym bracie na łosiu (07-15), a Aemon odpisał, że *„w opowieściach zwiadowców jest od dawna”* (07-22). To dwie różne opowieści, ten sam zwierz. Na razie bez wniosku.

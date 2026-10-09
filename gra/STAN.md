@@ -1041,7 +1041,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-25** — HORNWOOD/DREADFORT - WARTOSC WYCIETEGO DREWNA (orzeczenie 07-25): lesniczy Hornwoodu liczy pnie w pasie przy czlowieku Korony; kwota po liczeniu; Dreadfort oddaje Hornwoodowi. Odzew Dreadfortu na orzeczenie - wola obca, RZUT przy odpowiedzi. · _kto:_ **CERWYN ; lesniczy Hornwoodu + czlowiek Korony ; BOLTON** · _zamyka:_ liczenie pni + odzew Dreadfortu (rzut)
 - **300-07-25** — ROZMOWA KROLA I NAMIESTNIKA ZE SWIADKIEM W PRZYSTANI WILKA (plan 07-25, propozycja Cerwyna, zgoda Krola): nocleg Krola w drodze do BP (wyjazd 08-05, zagle 08-12), baszta, przy Borsie, bez swiadkow. PYTANIA: (1) DLACZEGO UCIEKL - nie z powodu linii drzew; czego boi sie w Dreadforcie; (2) czy chodzi o RAMSAYA; (3) kto kazal ruszyc kamien (07-10 odmowil: 'wtedy panem byl ten sam pan'); (4) syn - list rodzinny tak/nie. Przy tym: rodzina pod imieniem siostry zony, ojciec nie przy ksiegach (propozycja Cerwyna - do slowa pana i Krola). Odpowiedzi swiadka - RZUT przy rozmowie. · _kto:_ **KROL + SYMON + CERWYN ; BORS (miejsce)** · _zamyka:_ rozmowa odbyta (rzut) **⚠ OTWARTE ### 07-25 KROL (RZUT 91): CERWYN WTAJEMNICZONY W CALA SPRAWE DREADFORTU (SWIADEK, KAMIEN, SYN, PYTANIE O RAMSAYA, SLUP) I JEDZIE Z KROLEM DO PRZYSTANI; NIE W SPRAWE KOWALA (MIEDZY KROLEM A NAMIESTNIKIEM).**
 - **300-07-25** — KANON - SANSA, SCIEZKA PRAWA: propozycja CERWYNA (rzut 77) - gdy Justycjariusz w Winterfell, Sansa siedzi przy jego pisarzu na kazdej sprawie; z objazdu Cerwyn przysyla odpisy wyrokow z uzasadnieniem do przerobienia (Sansa pisze wlasne, Cerwyn odsyla uwagi). Nauczyciel dziedziny 'prawo' w kanonie - Namiestnik przedklada, ROZSTRZYGA KROL (kanon). Plus materialy pana (prawo zwyczajne i miedzy panstwami). · _kto:_ **SYMON -> KROL ; CERWYN ; SANSA** · _zamyka:_ slowo Krola (Mala Rada albo osobno)
-- **300-07-25** — ARYA I KUZNIA - ZAKAZ MATKI (Catelyn 07-25, rzut 19): Arya nie chodzi do kuzni, dopoki matka nie porozmawia z nia i z Krolem. Gendry - nic nie wie o zakazie; Szary Plaszcz z oddali bez zmian. Do rozmowy Catelyn-Krol (i ewentualnie slowa pana). · _kto:_ **CATELYN + KROL ; ARYA** · _zamyka:_ rozmowa matki z Arya i Krolem
+- **300-07-25** — ARYA I KUZNIA - ZAKAZ MATKI (Catelyn 07-25, rzut 19): Arya nie chodzi do kuzni, dopoki matka nie porozmawia z nia i z Krolem. Gendry - nic nie wie o zakazie; Szary Plaszcz z oddali bez zmian. Do rozmowy Catelyn-Krol (i ewentualnie slowa pana). · _kto:_ **CATELYN + KROL ; ARYA** · _zamyka:_ rozmowa matki z Arya i Krolem **⚠ OTWARTE ### 07-26 (ROZMOWA Z PANEM, RZUT 88): CATELYN POROZMAWIA Z ARYA SAMA, 'ZANIM COKOLWIEK POSTANOWIE'; ZAKAZ DO TEGO CZASU TRWA.**
 - **300-07-25** — WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 07-29: odmienic 'byc', 'miec', 'dac' w czasie terazniejszym (wszystkie osoby) + przelozyc trzy krotkie zdania prawne z ksiegi Luwina bez slownika. Lekcja wt. wieczorem. · _kto:_ **SYMON** · _zamyka:_ zadanie oddane
 - **300-07-25** — CYPEL - WIECEJ LUDZI NIZ 22 TYS. (relacja Dacey 07-25, rzut 30): za obozem Mance'a ida ogniska z gor, ktorych Mance nie liczyl - kilka tysiecy wiecej (E); rachunek chleba Orlanda (143 tys. korcy = polowa potrzeby) NIE STARCZY. Do Orlanda i Gawena (rachunek 07-30) + Mala Rada 07-26. · _kto:_ **SYMON -> ORLAND + GAWEN ; KROL** · _zamyka:_ nowy rachunek chleba dla Cypla
 
@@ -1223,7 +1223,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-26 rano · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 72 · Zmeczenie 14**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 15**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2516,7 +2516,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-25] `dziennik`: WIECZOR, WIELKA SALA - LEKKA KOLACJA (po poznym obiedzie). Bez rzutu na kolacje. Chleb, ser, zimne mieso, mleko, wino z Riverrun. Przy stole: KROL, KROLOWA ROSLIN, CATELYN, Symon z Mira i LY…
 - [300-07-25] `dziennik`: POZNY WIECZOR, SOLAR KROLA - RELACJA DACEY MORMONT Z POSELSTWA ZA MUR (Krol, Symon; Catelyn wyszla wczesniej). RZUT 30 - JEDNA KONSEKWENCJA. DACEY: (1) DROGA - przewodnik dziki ze stara mowa…
 - [300-07-25] `dziennik`: SOLAR KROLA (cd.) - SYMON: jak wygladala rozmowa z Mance'em i kto przy tym byl? Bez nowego rzutu (ta sama relacja, rzut 30; szczegoly zgodne z kanonem i zapisem). DACEY: namiot ze skor w sro…
 - [300-07-25] `dziennik`: SOLAR KROLA (cd.) - SYMON: czy Mance zastanawial sie, czy to nie pulapka? Bez nowego rzutu (ta sama relacja). DACEY: 'Zapytal o to pierwszy, zanim o klekanie.' MANCE: 'Wasi przodkowie postaw…
@@ -2528,3 +2527,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-26] `dziennik`: RANO, KOMNATA RODZINY (Lyra spi po zlej nocy) - SYMON Z MIRA O LADY CATELYN: pierwsze, co powiedziala - zakaz Fosy dla Aryi; potem pytania o kuznie; czy to zlosc na niego? Bez rzutu (rozmowa…
 - [300-07-26] `dziennik`: KOMNATA RODZINY (cd.) - SYMON do MIRY: nie chodzi o bronienie - nie wiedzial, ze odpowiada za to, czy Arya pracuje w kuzni; nie mial zadnych instrukcji; robil z wlasnej woli; nie chcial jej …
 - [300-07-26] `dziennik`: PRZED SNIADANIEM, KOMNATA NAMIESTNIKA - SYMON PROSI LADY CATELYN NA CHWILE (sluzacy z prosba). Bez rzutu. Catelyn przychodzi szybko, juz ubrana, z mala siedmioramienna gwiazda na lancuszku (…
+- [300-07-26] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON PYTA CATELYN WPROST: czy zrobil cos nie tak. RZUT 88 - BARDZO DOBRZE (pierwszy rzut 3 VOID - gracz zmienil dzialanie przed rozstrzygnieciem). CATELYN dlugo …

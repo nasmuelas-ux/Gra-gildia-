@@ -10623,6 +10623,24 @@
    "kanal": "Winterfell",
    "wraca": "300-07-30",
    "zamyka": "nowy rachunek chleba dla Cypla",
+   "status": "zamkniete 300-07-26 MALA RADA (Krol, rzut 11): (1) SIECI I WEDKI DLA CYPLA - TAK (zeby sami lowili czesc pozywienia): sieci - tkalnia sieci Korony na Kamiennym Brzegu + zakup w BP; haczyki - kuznia Korony POZA kolejka pakietu x1500 nie da rady - Gawen kupuje w BP i Dustinporcie; nauka lowienia - rybacy Mormontow (Dacey prosi matke); (2) CHLEB PONAD 22 TYS. - NIE, dopoki nikt tych ludzi nie policzy: Mance ma podac liczbe ognisk i dusz (posel przy nastepnym liscie); do tego czasu Korona pokrywa tylko plan 22 tys., za towar i prace (warunek 07-13). Catelyn: 'Ci, ktorych nie policzycie, przyjda po chleb sami.'"
+  },
+  {
+   "data": "300-07-26",
+   "co": "CYPEL - SIECI I WEDKI (Mala Rada 07-26): sieci z tkalni Korony na Kamiennym Brzegu + zakup w BP (Hal); haczyki i zylka - zakup w BP i Dustinporcie (Gawen); nauka lowienia - rybacy Mormontow (Dacey - list do lady Maege). Przewoz - lodzie Torrena/Mormontow z ziarnem. Kwoty z ksiegi (zasada 43).",
+   "kto": "GAWEN + HAL ; DACEY -> MAEGE",
+   "kanal": "kruki BP / Wyspa Niedzwiedzia",
+   "wraca": "300-08-10",
+   "zamyka": "sieci i haczyki w drodze na Cypel",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "MANCE - LICZBA OGNISK I DUSZ (warunek Krola 07-26, rzut 11): przed chlebem ponad 22 tys. - Mance podaje, ile ognisk i ile dusz idzie na Cypel (takze ogniska z gor). Pytanie idzie z poslem przy nastepnym liscie (dzien i lodzie). Wola Mance'a - RZUT przy odpowiedzi.",
+   "kto": "KROL/SYMON -> MANCE (przez Mur / posla)",
+   "kanal": "Czarny Zamek - przewodnik - oboz",
+   "wraca": "300-08-25",
+   "zamyka": "liczba ognisk i dusz od Mance'a (rzut)",
    "status": "otwarte"
   }
  ],

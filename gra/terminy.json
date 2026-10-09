@@ -9840,7 +9840,7 @@
    "kanal": "kruk Winterfell-Bialy Port (kancelaria), pismo doreczone przez komore BP",
    "wraca": "300-07-23",
    "zamyka": "trzy odpowiedzi (rzut kazda) albo cisza; przyjazd ~07-30 (E)",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-23: ODPOWIEDZI: WHARTON (rzut 6) - odmowa z drwina ('nie bede kramarzem Korony, ktora trzyma Tally'); MERTYN 'OKRETNIK' (rzut 55) - pismem: drewno i smola dla stoczni, hurtem mocny, chetny, ale nie odstapi od stoczni; TORSEN (rzut 59) - przyjmuje zaproszenie, w Winterfell ~07-30 (sol i ryba solona, kwity skladowe, z nikim na stale)."
   },
   {
    "data": "300-07-17",
@@ -10074,7 +10074,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-07-23",
    "zamyka": "zgoda Wymana - RZUT przy odpowiedzi",
-   "status": "otwarte - list Namiestnika z odpisem wyslany 07-19 wieczorem (kruk); odpowiedz ~07-23 - RZUT."
+   "status": "zamkniete 300-07-23: WYMAN (rzut 89) - ZGODA: azylanci na komorze Korony w BP; kapitanowie zabiora odpisy ogloszenia do Braavos, Pentos i Wolnych Miast; uwaga Wymana: port i trakt uniosa ~kilkuset na miesiac (E) - wiosna, falami. Ogloszenie MOZE ODPLYNAC."
   },
   {
    "data": "300-07-20",
@@ -10245,7 +10245,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-23",
    "zamyka": "dymarze i gornik w drodze do Wilczego Lasu",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-23: Osmund, Tarl i Harle Kret wyjechali o swicie wozem Korony do Wilczego Lasu (do Grima od Dymarki)."
   },
   {
    "data": "300-07-21",
@@ -10299,7 +10299,7 @@
    "kanal": "Winterfell, osobiscie",
    "wraca": "300-07-24",
    "zamyka": "probka obejrzana, ilosc i cena w ksiedze Skarbu i atelier",
-   "status": "otwarte ### 07-22 pan: probke oglada MIRA (stodola kasztelana, z pisarzem Skarbu) - wynik do 07-24."
+   "status": "otwarte ### 07-22 pan: probke oglada MIRA (stodola kasztelana, z pisarzem Skarbu) - wynik do 07-24. ### 07-23 PROBKA (rzut 77): mol tylko w dolnej warstwie najstarszych workow (~1 na 8 do odrzutu); reszta zdrowa, tlusta - Mira bierze. Ilosc i cena - przy stole Gawena po spisie 07-24."
   },
   {
    "data": "300-07-22",
@@ -10434,6 +10434,24 @@
    "kanal": "wlasna nauka",
    "wraca": "300-07-25",
    "zamyka": "zadanie oddane na lekcji",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-23",
+   "co": "TORSEN - ROZMOWA NA FAKTORA KROLEWSKIEGO BIALEGO PORTU (Winterfell ~07-30): sol i ryba solona, kwity skladowe, z nikim na stale. Kandydaci BP: Torsen (przyjezdza), Mertyn (tylko obok stoczni - konflikt z drewnem Korony), Wharton (odmowa). Krol wybiera z trzech.",
+   "kto": "TORSEN -> SYMON -> KROL",
+   "kanal": "osobiscie",
+   "wraca": "300-07-30",
+   "zamyka": "rozmowa odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-23",
+   "co": "OGLOSZENIE AZYLU - WYSLANIE (zgoda Wymana 07-23, rzut 89): odpisy z pieczecia Krola na statki do Braavos, Pentos i Wolnych Miast przez kapitanow Wymana; rejestracja na komorze Korony w BP; przybycie wiosna, falami (~kilkuset na miesiac, E). Do wydania przez Krola/pana.",
+   "kto": "KROL/SYMON -> WYMAN (kapitanowie)",
+   "kanal": "odpisy krukiem/wozem do BP",
+   "wraca": "300-07-26",
+   "zamyka": "odpisy wydane do BP",
    "status": "otwarte"
   }
  ],

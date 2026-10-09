@@ -9967,6 +9967,15 @@
    "wraca": "300-07-21",
    "zamyka": "stan towaru zamku policzony na miejscu (do listy wolnego towaru 07-21)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "DOMENA - CZYNSZ W MONECIE + WIELKIE TARGI ROLNICZE W ZIMOWYM MIESCIE (slowo pana 07-19, v3 par. 9): do Krola jako pana gruntu (rzut) i na Mala Rade 07-26; potem burmistrz ZM - targi (Karta: wlasne targi i jarmarki).",
+   "kto": "SYMON + GAWEN -> KROL; potem BURMISTRZ ZIMOWEGO MIASTA",
+   "kanal": "Winterfell / Zimowe Miasto",
+   "wraca": "300-07-26",
+   "zamyka": "decyzja Krola + termin pierwszego targu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

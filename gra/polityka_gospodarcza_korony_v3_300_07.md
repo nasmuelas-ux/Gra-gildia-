@@ -280,3 +280,25 @@
   - **Drewno: od razu** przez faktora Illyria w Białym Porcie, przez Mistrza Handlu (Wyman).
   - **Faktor Królewski:** Namiestnik przynosi **trzech kandydatów**, nie lordów, a Król wybiera.
   - Pieniądz nie przechodzi przez faktora: płaci się pisarzowi Skarbu przy wadze.
+
+---
+## 9. DOMENA KORONY: CZYNSZ W MONECIE I WIELKIE TARGI ROLNICZE W ZIMOWYM MIEŚCIE (słowo pana 07-19)
+*Po rachunku Rodwella i radzie Gawena w skarbcu. Dotyczy **naszego lenna**, czyli domeny Korony (wsi Starków), a **nie** danin lordów.*
+
+**Ustalenie pana:**
+1. **Korona przyjmuje czynsz i daninę domeny w gotówce.**
+   - Według rady Gawena czynsz jest **do wyboru**: moneta albo natura po cenie ogłoszonej ze słupa w Zimowym Mieście.
+   - Bo w zły rok chłop nie ma grosza, a „czynsz w monecie w głodny rok to wypędzenie z zagrody”.
+2. **Zimowe Miasto organizuje WIELKIE TARGI ROLNICZE**, na których **przyjmuje towary od chłopów**. Chłop sprzedaje na targu, płaci czynsz monetą, targ rośnie, a do miasta przyjeżdżają kupcy. To jest Z1: gotówka u chłopów i mieszczan.
+
+**Co z zapisu to podpiera i ogranicza:**
+- **Karta Zimowego Miasta** daje miastu *„własne targi i jarmarki”*. Miasto **może** je organizować samo (burmistrz i ława).
+- **Regalia** (waga, targ, prawo składu, myto) **zostają przy Koronie**, bo Korona jest panem miasta. **Prawa składu Zimowe Miasto nie ma.** Nadanie go to prerogatywa Króla (§1 i §5).
+- **To, co zamek zjada** (zboże, mięso, opał), zostaje w naturze (Gawen).
+- **Kolumny A i B** (przypisane do transakcji i do użytku Korony: siewne, obsydian, drewno okrętowe) zostają w naturze.
+
+**Otwarte, do Króla i na Radę 07-26:**
+- czynsz domeny w monecie: decyduje **Król jako pan gruntu**, rzut przy przedłożeniu;
+- kto prowadzi pobór na co dzień: **Zarządca Domeny (WAKAT)**, do tego czasu pisarz Skarbu przy kasztelanie;
+- terminy targów: po żniwach? Najpierw próbnie, na jednym poborze ze wsiami najbliżej targu (Gawen);
+- kto „przyjmuje towary” na targu: kupcy na wolnym targu, a Korona i miasto nie kupują na własny rachunek (Z4). Miasto daje plac, wagę i ład. **Do potwierdzenia słowem pana.**

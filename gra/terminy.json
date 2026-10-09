@@ -9343,9 +9343,9 @@
    "co": "DORZECZE - ROZKAZ KROLA TRIDENTU W WYKONANIU (rzut 99): (a) Edmure + Lyman licza garnizony i ludzi w 10 dni; (b) obwieszczenie na slupach (zakaz handlu z garnizonami i kwitow Lwa); (c) lordowie otaczaja garnizony bez szturmu; (d) DZIEN WYJSCIA 300-08-05, wolna droga na poludnie z bronia i chorągwiami. Odpowiedz Edmure'a (wykonanie) i reakcja garnizonow/Tywina - RZUTY przy wiesciach. ### DOPISEK KROLA 07-11 przed zmierzchem (rada Sansy): MAIDENPOOL OTOCZYC NAJPIERW - od razu, przed liczeniem i obwieszczeniem; droga z Maidenpool zamknieta - kazdy woz i oddzial przed wymiana zatrzymac i przeszukac, bez walki, chyba ze tamci zaczna; Lyman melduje krukiem. ### 07-17 (zgoda Namiestnika, prosba Bryndena): WIESC O DNIU WYJSCIA (08-05) - pierwszy kruk/jezdziec z kancelarii Namiestnika takze do BRYNDENA w Przystani Wilka, tego samego dnia.",
    "kto": "KROL -> EDMURE (+ LYMAN liczy)",
    "kanal": "kruk Winterfell-Riverrun (o zmierzchu 07-11); wiesc z Riverrun krukiem",
-   "wraca": "300-07-26",
+   "wraca": "300-08-05",
    "zamyka": "liczba Edmure'a + obwieszczenie na slupach",
-   "status": "otwarte ### 07-22: meldunek Edmure/Lyman - na Male Rade 07-26 (rzut przy meldunku)."
+   "status": "otwarte ### 07-22: meldunek Edmure/Lyman - na Male Rade 07-26 (rzut przy meldunku). ### 07-26 MELDUNEK (rzut 57): Maidenpool ~300 Lwow (otoczone od 07-12, droga zamknieta), Darry ~120, posterunek przy Rubinowym Brodzie ~40 (E); Zielone Widly - luka (Freyowie nie wpuscili zwiadowcow); obwieszczenia na slupach; Darry gotowe wyjsc 08-05; dowodca Maidenpool - wyjdzie dopiero na slowo Tywina."
   },
   {
    "data": "300-07-11",
@@ -9408,7 +9408,7 @@
    "kanal": "kruk Winterfell-Riverrun; kwatermistrzowie traktem (~12 dni)",
    "wraca": "300-07-26",
    "zamyka": "kwatermistrzowie przy Edmurze",
-   "status": "otwarte ### 07-25: na Male Rade 07-26."
+   "status": "zamkniete 300-07-26: EDMURE (rzut 21) - urazony: zniwa cienkie, nie ma czym karmic ludzi przy garnizonach; prosi o zboze Korony choc na pozyczke; kwatermistrzow przyjmuje. RYZYKO: straz przy Maidenpool sie przerzedza. Do slowa Krola (pozyczka zboza - tak/nie)."
   },
   {
    "data": "300-07-12",
@@ -9417,7 +9417,7 @@
    "kanal": "kruk Winterfell-Riverrun",
    "wraca": "300-07-26",
    "zamyka": "projekt kontraktu u Edmure'a; odpowiedz",
-   "status": "otwarte ### 07-25: na Male Rade 07-26."
+   "status": "zamkniete 300-07-26: LYMAN (rzut 66) - cena stala przyjeta; ilosc po zniwach Tridentu (IX); pierwsze dostawy IX-X; prosi o tabele Miary Polnocnej. Zalacznik - Gawen dopisuje ilosci po zniwach."
   },
   {
    "data": "300-07-12",
@@ -10641,6 +10641,15 @@
    "kanal": "Czarny Zamek - przewodnik - oboz",
    "wraca": "300-08-25",
    "zamyka": "liczba ognisk i dusz od Mance'a (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "EDMURE - PROSBA O ZBOZE KORONY NA POZYCZKE (dla strazy przy garnizonach Lwa, odpowiedz 07-26 rzut 21): Korona 07-12 - nie karmi; Edmure - nie ma czym, straz sie przerzedza (Maidenpool). Do slowa Krola na Malej Radzie.",
+   "kto": "KROL (slowo) ; GAWEN",
+   "kanal": "kruk Krola do Riverrun",
+   "wraca": "300-07-26",
+   "zamyka": "slowo Krola: pozyczka tak/nie i na jakich warunkach",
    "status": "otwarte"
   }
  ],

@@ -10120,6 +10120,15 @@
    "wraca": "300-08-25",
    "zamyka": "ziarno w BP i probka zatwierdzona - RZUT przy dostawie (zrodlo, jakosc, cena)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-20",
+   "co": "THEOMORE / GLEBOKORZEN - ZALECENIE WCZESNIEJSZYCH ZNIW DO LORDOW CALEJ POLNOCY (prosba pana 07-20): jesli zgodzi sie z diagnoza (mroz 299-08-29/30; karta Orlanda 07-19) - zalecenie imieniem Glebokorzenia: zniwa wczesniej, zboze pod dach przed koncem VIII, ozime tylko odmiany polnocne. Jesli nie - dlaczego.",
+   "kto": "SYMON -> THEOMORE (Glebokorzen)",
+   "kanal": "kruk Winterfell-Bialy Port (07-21 rano); albo osobiscie (~07-25)",
+   "wraca": "300-07-25",
+   "zamyka": "zgoda Theomore'a i zalecenie wyslane do lordow - albo odmowa z powodem (RZUT)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

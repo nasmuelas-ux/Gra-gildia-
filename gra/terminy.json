@@ -9958,6 +9958,15 @@
    "wraca": "300-07-21",
    "zamyka": "stan towaru domeny na pismie u Gawena",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "SKARB - PISARZE LICZA TOWAR NA MIEJSCU (decyzja Gawena 07-19): od 07-20 dwoch pisarzy Skarbu obchodzi spichrze zamku i kasztelana - co lezy, w jakim stanie, od kiedy; wsie domeny pozniej (spis A/B/C 07-26). Uzupelnia szacunek z trzech ksiag (kasztelan, Skarb, spis Rodwella 299-08-28) - brak w nich rozchodu.",
+   "kto": "GAWEN -> dwoch pisarzy Skarbu",
+   "kanal": "Winterfell",
+   "wraca": "300-07-21",
+   "zamyka": "stan towaru zamku policzony na miejscu (do listy wolnego towaru 07-21)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

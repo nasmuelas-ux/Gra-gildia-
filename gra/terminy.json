@@ -9471,7 +9471,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-19",
    "zamyka": "rachunek Rodwella na pismie + ocena Gawena dla Krola",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-07-19 (rzut 19): rachunek slaby; ocena Gawena - urzad NIE, czlowiek TAK (agencja zbozowa + rachunek domeny); ZARZADCA DOMENY - WAKAT; Rodwell zostaje (szansa - slowo pana). Ocena Gawena do Krola wieczorem 07-19."
   },
   {
    "data": "300-07-12",
@@ -9940,6 +9940,24 @@
    "wraca": "300-09-15",
    "zamyka": "ksiazki w Winterfell + rachunek - RZUT przy powrocie (co znalazla)",
    "status": "otwarte - list 07-19"
+  },
+  {
+   "data": "300-07-19",
+   "co": "ZARZADCA DOMENY - SZUKANIE KANDYDATA (po rachunku Rodwella, rzut 19): urzad w Malej Radzie stoi pusty; ocena Gawena do Krola 07-19 wieczorem; kandydaci - do wskazania (Gawen szuka, Namiestnik moze przedlozyc; nominacja Krola).",
+   "kto": "GAWEN (+ SYMON) -> KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "kandydat przedlozony Krolowi na Malej Radzie albo decyzja o p.o.",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-19",
+   "co": "RODWELL - STAN TOWARU DOMENY (dopisek do rachunku): co, gdzie, ile, od kiedy lezy - razem z pisarzami Skarbu, do spisu A/B/C.",
+   "kto": "RODWELL + pisarze Skarbu -> GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-07-21",
+   "zamyka": "stan towaru domeny na pismie u Gawena",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

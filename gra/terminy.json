@@ -9597,7 +9597,7 @@
    "kanal": "trakt Czarny Zamek-Winterfell (jezdziec)",
    "wraca": "300-07-26",
    "zamyka": "Dacey w Winterfell",
-   "status": "otwarte ### 07-25: DACEY W WINTERFELL (z Catelyn); relacja Krolowi - jutro/wieczorem; do Aryi: 'Mam dla ciebie slowa. Wieczorem, same.'"
+   "status": "zamkniete 300-07-25: RELACJA DACEY KROLOWI I NAMIESTNIKOWI (rzut 30) - wieczor, solar; slowa dla Aryi - przekazane jej same, na murach (tresc - nie w zapisie). Wielki Jon - wrocil z Muru do domu."
   },
   {
    "data": "300-07-15",
@@ -10614,6 +10614,15 @@
    "kanal": "wlasna nauka",
    "wraca": "300-07-29",
    "zamyka": "zadanie oddane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-25",
+   "co": "CYPEL - WIECEJ LUDZI NIZ 22 TYS. (relacja Dacey 07-25, rzut 30): za obozem Mance'a ida ogniska z gor, ktorych Mance nie liczyl - kilka tysiecy wiecej (E); rachunek chleba Orlanda (143 tys. korcy = polowa potrzeby) NIE STARCZY. Do Orlanda i Gawena (rachunek 07-30) + Mala Rada 07-26.",
+   "kto": "SYMON -> ORLAND + GAWEN ; KROL",
+   "kanal": "Winterfell",
+   "wraca": "300-07-30",
+   "zamyka": "nowy rachunek chleba dla Cypla",
    "status": "otwarte"
   }
  ],

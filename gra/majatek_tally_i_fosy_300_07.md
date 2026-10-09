@@ -103,7 +103,7 @@
 | # | co | słowo pana |
 |---|---|---|
 | 1 | **Gorący Port** | **Własność lenna (Kasa 2).** Koszty idą z księgi Hala jako **inwestycja Domu do zakończenia projektu**. |
-| 2 | **Szkoła Fosy** | **Należy do Domu (Kasa 1).** |
+| 2 | **Szkoła Fosy → SZKOŁA TALLY** | **Należy do Domu (Kasa 1). Nazwa: SZKOŁA TALLY** (słowo pana 07-20). |
 | 3 | **Lecznica, apteka BO-3, zielarnia** | **Lenno finansuje je w ramach patronatu.** |
 | 4 | **Szklarnie Fosy** (z rozbudową) | **Będą należały do Domu (Kasa 1).** |
 | 5 | **Przewłoka** | **Kasa 2 z udziałem Wymana**, jak Gorący Port: koszt jest inwestycją Domu do zakończenia projektu. |

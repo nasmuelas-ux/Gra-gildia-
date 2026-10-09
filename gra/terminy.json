@@ -9894,7 +9894,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-21",
    "zamyka": "pierwsza lekcja odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-21: LEKCJA 1 ODBYTA (rzut 64, dobrze); miejsce: komnata Namiestnika; nastepna pt. 07-25."
   },
   {
    "data": "300-07-18",
@@ -9930,7 +9930,7 @@
    "kanal": "wlasna robota (Winterfell)",
    "wraca": "300-07-21",
    "zamyka": "pierwsze materialy i prace domowe rozdane na lekcji 07-21",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-21: materialy (gra/braavoski_lekcja1_materialy_300_07_21.md) i prace domowe rozdane - Sansa pisemna (prawo zwyczajne, karta I), Arya ustna (historia Braavos) na pt. 07-25."
   },
   {
    "data": "300-07-19",
@@ -10200,6 +10200,15 @@
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport + lodz Torrena (jak do Sigrun)",
    "wraca": "300-08-05",
    "zamyka": "odpowiedz Vemunda: imie pisarza + pierwsze slowa - RZUT przy meldunku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "BRAAVOSKI - LEKCJA 2 (pt. 07-25 rano po sniadaniu, komnata Namiestnika): liczby do stu, miary (beczka, bela, stopa); scena: dostawa, ktora sie nie zgadza. ODBIOR PRAC DOMOWYCH: Sansa - zwyczaj Winterfell (pol strony); Arya - opowiesc o Braavos na rzeczach + piec slow.",
+   "kto": "SYMON + SANSA + ARYA",
+   "kanal": "na miejscu",
+   "wraca": "300-07-25",
+   "zamyka": "lekcja 2 odbyta (rzut) + prace domowe odebrane",
    "status": "otwarte"
   }
  ],

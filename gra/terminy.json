@@ -10396,8 +10396,17 @@
    "co": "PAN JEDZIE DO AEMONA NA CZARNY ZAMEK (wysluchac ustnie 'tego, czego nie ma w ksiegach' - list Aemona 07-22). Termin: PO POWROCIE KROLA ZE SKAGOS albo wczesniej (slowo pana). Z ZAPISU: Winterfell-Mur ~12-14 dni ladem; Krol wyrusza 08-05 (zagle z BP 08-12), powrot - nieustalony (E: IX); Namiestnik trzyma Winterfell pod nieobecnosc Krola. Aemon - ~100 lat, goraczka wraca (07-19), spada (07-22). Data i droga - do slowa pana.",
    "kto": "SYMON (+ przyboczna)",
    "kanal": "trakt Krolewski na polnoc / morze do Wschodniej Strazy",
-   "wraca": "300-08-05",
+   "wraca": "300-09-15",
    "zamyka": "data wyjazdu ustalona",
+   "status": "otwarte ### 07-22 SLOWO PANA: pan jedzie MOZE po powrocie Krola; NAJPIERW czlowiek Domu (ponizej)."
+  },
+  {
+   "data": "300-07-22",
+   "co": "CZLOWIEK DOMU Z PLACOWKI NA CZARNYM ZAMKU IDZIE DO AEMONA Z IMIENIEM NAMIESTNIKA - wysluchac 'tego, czego nie ma w ksiegach' i PRZYWIEZC USTNIE do Winterfell (NIC NA PAPIERZE - warunek Aemona i obietnica pana). Rozkaz w kruku Domu 07-22 po poludniu (bez tresci sprawy: 'idz do maestera z imieniem pana, wysluchaj, nic nie pisz, przyjedz i powiedz'). Wola i stan Aemona - RZUT przy meldunku. Droga Mur-Winterfell ~12-14 dni.",
+   "kto": "SYMON -> czlowiek placowki Domu (Czarny Zamek) -> AEMON",
+   "kanal": "kruk Domu (rozkaz) ; powrot jezdzcem, ustnie",
+   "wraca": "300-08-08",
+   "zamyka": "czlowiek Domu w Winterfell, mowi panu ustnie (rzut)",
    "status": "otwarte"
   }
  ],

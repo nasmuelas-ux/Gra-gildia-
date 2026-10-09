@@ -10326,7 +10326,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-26",
    "zamyka": "Krol zatwierdza/odrzuca (Mala Rada)",
-   "status": "otwarte ### 07-22 pan: idzie do Krola."
+   "status": "zamkniete 300-07-22: KROL ODRZUCA OSBERTA GRUBNEGO (rzut 6): jeden kandydat od Barbrey = kandydat Barbrey; kupiec welny nie sprzedaje welny Korony. Krol: trzech kandydatow, jak umowione 07-17."
   },
   {
    "data": "300-07-22",
@@ -10362,6 +10362,15 @@
    "kanal": "kurier/kruk BP-Winterfell",
    "wraca": "300-08-01",
    "zamyka": "termin przyjazdu Owena albo odmowa",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "FAKTOR KROLEWSKI BARROWTON - TRZECH KANDYDATOW (Krol 07-22, po odrzuceniu Osberta Grubnego): mieszczanie/kupcy, nie lordowie, NIE kupcy welny ani skor (konflikt z towarem Korony); nie wszyscy od jednego wskazujacego (Barbrey moze jednego). Skad - do slowa pana (Hal, komora Barrowton, lawa).",
+   "kto": "SYMON -> KROL",
+   "kanal": "do ustalenia",
+   "wraca": "300-08-05",
+   "zamyka": "trzech kandydatow u Krola",
    "status": "otwarte"
   }
  ],

@@ -10367,10 +10367,19 @@
   {
    "data": "300-07-22",
    "co": "FAKTOR KROLEWSKI BARROWTON - TRZECH KANDYDATOW (Krol 07-22, po odrzuceniu Osberta Grubnego): mieszczanie/kupcy, nie lordowie, NIE kupcy welny ani skor (konflikt z towarem Korony); nie wszyscy od jednego wskazujacego (Barbrey moze jednego). Skad - do slowa pana (Hal, komora Barrowton, lawa).",
-   "kto": "SYMON -> KROL",
-   "kanal": "do ustalenia",
-   "wraca": "300-08-05",
+   "kto": "SYMON -> HAL (trzech) -> KROL",
+   "kanal": "kruk Winterfell-Bialy Port (07-22 po poludniu)",
+   "wraca": "300-07-27",
    "zamyka": "trzech kandydatow u Krola",
+   "status": "otwarte ### 07-22 pan: HAL szuka trzech (mieszczanie/kupcy, nie lordowie, nie welna i skory, nie z jednej reki); odpowiedz ~07-27."
+  },
+  {
+   "data": "300-07-22",
+   "co": "FAKTOR KROLEWSKI CAILIN - KANDYDACI SPOZA CAILIN (pan 07-22, po odmowie lawy 'nikt niezwiazany'): GARRICK szuka kandydatow spoza miasta - niezwiazanych z lennem ani z Domem (kupcy z traktu, z Dorzecza, z Barrowton, z BP przez komore); nie lordowie; nie handlujacy towarem Korony. Lista do pana -> Krol wybiera.",
+   "kto": "SYMON -> GARRICK",
+   "kanal": "kruk Winterfell-Fosa (07-22 po poludniu); odpowiedz w zbiorczym",
+   "wraca": "300-07-28",
+   "zamyka": "lista kandydatow u pana",
    "status": "otwarte"
   }
  ],

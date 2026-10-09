@@ -97,3 +97,22 @@
 - **Kompania Północ–Dorzecze**: Dom ją koordynuje, ale nie jest właścicielem;
 - **ćwierć bednarni Manderlych** to tylko udział.
 - **Skarbiec rodu** (planowany na Fosie) należy do rodziny, a nie do Domu ani lenna.
+
+---
+## 4. ROZSTRZYGNIĘCIA PANA (300-07-20) dla pozycji niejasnych
+| # | co | słowo pana |
+|---|---|---|
+| 1 | **Gorący Port** | **Własność lenna (Kasa 2).** Koszty idą z księgi Hala jako **inwestycja Domu do zakończenia projektu**. |
+| 2 | **Szkoła Fosy** | **Należy do Domu (Kasa 1).** |
+| 3 | **Lecznica, apteka BO-3, zielarnia** | **Lenno finansuje je w ramach patronatu.** |
+| 4 | **Szklarnie Fosy** (z rozbudową) | **Będą należały do Domu (Kasa 1).** |
+| 5 | **Przewłoka** | **Kasa 2 z udziałem Wymana**, jak Gorący Port: koszt jest inwestycją Domu do zakończenia projektu. |
+| 6 | **Kruki** (krukarnia Fosy i kruki Domu) | **W pełni kontroluje je Dom Tally.** |
+| 7 | **Spichlerz lenna w Przystani Wilka** | **Tak:** budynek lenna na ziemi wspólnej (Korona 1/2, Cerwyn 1/4, Manderly 1/4). |
+| 8 | **Trakt T3-A** | **Odcinek po naszej stronie jest nasz (lenno), po stronie Manderly'ego jest jego.** |
+| 9 | **Seagard** | **Działa i istnieje.** Odmowa Mallistera z 04-05 jest nieaktualna, a za stan obowiązujący przyjmuje się zapis z 05-26 (Edmure: działa). |
+
+*Skutek dla ksiąg:*
+- Pozycje 2 i 4 przechodzą z listy lenna na listę Domu.
+- Pozycja 3 zostaje w lennie jako patronat.
+- Przy pozycjach 1 i 5 Dom prowadzi osobną rubrykę „inwestycja w majątek lenna do zakończenia projektu”.

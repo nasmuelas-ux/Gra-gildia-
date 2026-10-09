@@ -65,3 +65,13 @@
 > Czekam na Wasze słowo, zanim ogłoszenie odpłynie.
 >
 > *Symon Tally, Namiestnik Króla Północy*
+
+---
+## WERSJA BRAAVOSKA (przekład Namiestnika, 300-07-23)
+*Symon przełożył ogłoszenie sam, w swojej komnacie, przed południem (braavoski, poziom 10). Arkusz w braavoskiej mowie leży razem z oryginałem. Beron robi z niego odpisy z pieczęcią Króla.*
+
+**Uwagi tłumacza (zostają w aktach, do ogłoszenia nie wchodzą):**
+1. **„Na Północy nie ma niewolników”** przełożone dosłownie. W Braavos, które założyli zbiegli niewolnicy, to zdanie zabrzmi jak ich własne.
+2. **„Przy drzewie albo w sepcie”** przełożone jako *„przed swoimi bogami, przy drzewie albo w sepcie”*. W Braavos czci się wielu bogów i czytelnik musi zobaczyć, że jego bóg też się liczy.
+3. **„Komora Korony w Białym Porcie”** przełożone braavoskim słowem urzędowym na komorę celną. Kapitan i bankier zrozumieją je tak samo.
+4. **⚠ Gdzie wywieszać.** W **Braavos i Pentos** niewolnictwo jest zakazane. **W Volantis, Lys i Myr** kwitnie. Ogłoszenie dla zbiegłych niewolników wywieszone tam przez kapitana z Białego Portu właściciele mogą uznać za podżeganie, a kapitan może za to zapłacić statkiem. **Tam tylko z ręki do ręki, nie na słupie**, albo wcale. Decyzja należy do Króla i Wymana.

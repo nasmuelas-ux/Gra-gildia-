@@ -10,6 +10,15 @@
 - Warsztat **zostaje własnością rzemieślnika**. Korona go nie prowadzi, tylko kupuje i pilnuje wzoru.
 
 
+## PATRONAT DOMYŚLNY: WARSZTATY Z WEZWANIA KORONY (słowo pana 07-20)
+- **Wezwanie rzemieślników** (Król 300-04-27, rzut 69; na słupie od 300-05-02): kowale i płatnerze pierwsi; wolność rzemiosła bez cechu; **2 lata bez opłat miejskich** dla nowych; **Korona pierwszym kupcem**. Lista miejsc (05-30): kowale 6, płatnerze 2, tkacze 8, szwacze 8, garbarze 3, szewcy 4, kaletnicy 2, stolarze 3, folusznik, farbiarz.
+- **Każdy warsztat, który przyszedł z wezwania, jest z urzędu pod patronatem Korony.** Formą jest samo wezwanie (ulga i Korona jako pierwszy kupiec). Umowa roczna to osobna, dodatkowa forma, nie domyślna.
+- **Kto przyszedł, w zapisie nie ma imiennie.** Orwyl dopisuje warsztaty z wezwania do tej bazy.
+- **Łuczarz Haldor Cis** (zapis 05-30: pierwsze łuki cisowe dla rezerwy) jest w mieście i należy do bazy. *Słowo Orwyla z 07-20 o „jednym łuczarzu” jest poprawione: Torm Cisowy z synem i Haldor Cis.*
+
+## FORMY PATRONATU
+**Patronat ≠ umowa roczna** (słowo pana 07-20). Formy to: przywilej i ulga, Korona jako pierwszy kupiec, umowa roczna, zaliczka na surowiec, surowiec z danin. Formę dobiera się do warsztatu.
+
 ## WARSZTAT WŁASNY KORONY (słowo pana 07-20)
 **KUŹNIA ZAMKOWA WINTERFELL to WŁASNY STRATEGICZNY WARSZTAT KORONY.** To nie patronat, tylko **własność Korony** (v3, Z3: warsztaty strategiczne prowadzą Król i Namiestnik).
 - **Ludzie:**
@@ -25,6 +34,7 @@
 
 | warsztat | kto | co dla Korony | warunek rzemieślnika |
 |---|---|---|---|
+| **Łuczarz II** | **Haldor Cis** | łuki cisowe dla rezerwy (od V) | patronat z wezwania; umowa roczna do zaproponowania |
 | **Łuczarz** | **Torm Cisowy** z synem | łuki jesionowe i cisowe (suche drewno na kilkadziesiąt sztuk) | **zaliczka na drewno**: chce ściąć jesion teraz, żeby wysechł na przyszłe lato |
 | **Cieśla I** | (imię u Orwyla) | tarcze lipowe, drzewca włóczni | — |
 | **Cieśla II** | (imię u Orwyla) | drzewca strzał, tarcze | — |
@@ -38,6 +48,6 @@
 
 ## CZEGO W BAZIE BRAKUJE
 - **Imion** cieśli, garbarza, szewca i tkaczek. Orwyl dopisuje je przy podpisie.
-- **Drugiego łuczarza.** Poprzedni poszedł z Królem na południe i nie wrócił.
+- ~~Drugiego łuczarza~~: jest Haldor Cis (zapis 05-30). Dawny drugi łuczarz poszedł z Królem na południe.
 - **Mistrzów** jest mało, a rąk młodych dużo, bo rzemiosło przybywa od Karty.
 - Strategiczne ogniwa poza miastem: **dymarka w Wilczym Lesie** (Grim od Dymarki + ludzie Boltona + dymarze z Harrenhalu), **węgiel** (Smolna Polana).

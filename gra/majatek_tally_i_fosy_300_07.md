@@ -52,12 +52,12 @@
 |---|---|---|---|
 | 1 | **Twierdza, wieże MF-3** (Strażnicza na II kondygnacji) | w budowie (07-05); MF-1 09-15, mur kurtynowy 301 | Orbelo; Weylin |
 | 2 | **MF-2, strażnica północna** (drewno, palisada) | fundament (07-05); cel 08-01 | Hendry |
-| 3 | **Kwatery, stajnie, zbrojownia** na 200 | mury do pasa (06-30); dach do 09-01 | — |
+| 3 | **Kwatery, stajnie, zbrojownia** na 200 (arsenał lenna; komplety na 700) | mury do pasa (06-30); dach do 09-01 | **zbrojmistrz Oswald Tarcza** (od 299-06-23) |
 | 4 | **Grobla** | 2. odcinek wbity, 3. w palach (07-05) | Bran (majordom robót), Korm Palik, Orbelo |
 | 5 | **Gorący Port**: mur od morza, Wieża Morska, pomost, kamieniołom | mur na wysokość człowieka (07-05) | Harlon z Brodu, 30 ludzi Hendry'ego |
 | 6 | **Port Cailin (PC)** | planowany (PC-2 w IX, basen 301/302) | kapitan portu Harwin Łopata |
 | 7 | **Spław Fever (SF)** | planowany; Reed zgodził się na 2 załogi (07-14); SF-0 08-15 | Kessel |
-| 8 | **Młyn w śluzie** | ostatni zapis 04-13: stoi, czeka na kamień | Toben od Żarna |
+| 8 | **Młyn w śluzie** | **działa, kamień jest** (słowo pana 07-20; zapis: Weylin, 12 ludzi) | Toben od Żarna |
 | 9 | **Torfiarnie** | działają; liczenie CP-0 08-15 | Warryn, Jorren Lut |
 | 10 | **Szklarnie Fosy** | działają | Werran, Helwa Strączek |
 | 11 | **Spichlerze wiejskie** (pierwsze pięć) | 3 pod dachem (06-30), 2 miały być 07-15 | — |
@@ -116,3 +116,17 @@
 - Pozycje 2 i 4 przechodzą z listy lenna na listę Domu.
 - Pozycja 3 zostaje w lennie jako patronat.
 - Przy pozycjach 1 i 5 Dom prowadzi osobną rubrykę „inwestycja w majątek lenna do zakończenia projektu”.
+
+---
+## 5. PATRONAT LENNA (słowo pana 300-07-20)
+**Patronat nie oznacza z góry umowy rocznej.** Formę dobiera się do branży: umowa roczna, przywilej (działka, budynek, narzędzia, ulga), zakup nadwyżki po cenie ogłoszonej, ziarno i narzędzia za odrobek. Warsztat i wieś zostają własnością rzemieślnika i chłopów.
+
+| co | czyje | forma patronatu |
+|---|---|---|
+| **Wsie i branże żywnościowe lenna**: ryba, pola przy grobli i na suchym, **młyn w śluzie (działa)**, myśliwi, zbieractwo | chłopów i rzemieślników | do ustalenia przez Warryna przy spisie (meldunek ~08-01) |
+| **Kuźnia Cailin** (Brusk od Miecha, czterech ludzi: kusze dla Jastrzębi, piętno narzędzi) | **miasta** (kasa miejska, ława) | **patronat lenna z urzędu**: lenno jest jej pierwszym zamawiającym (kusze, okucia, tarcze) |
+| **Warsztaty z Przywileju bagiennego** (wezwanie 300-02-26): kilkadziesiąt (E, Herwin 06-19), głównie trzcina | rzemieślników | **patronat lenna z urzędu**: forma jest już w przywileju (działka, budynek, narzędzia, zwolnienie z podatku gruntowego) |
+| **Lecznica, apteka, zielarnia** | lenna | patronat (rozstrzygnięcie 3) |
+
+*Arsenał lenna:* **zbrojownia** (Oswald Tarcza) jest **własnością lenna**, a budynek stoi do pasa, dach do 09-01. **Własnej kuźni lenno w zapisie nie ma.** Kuźnia Cailin należy do miasta.
+

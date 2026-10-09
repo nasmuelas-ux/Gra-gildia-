@@ -29,7 +29,8 @@
 - **Głębokorzeń** (dom uczonych zaprzysiężony Koronie, Theomore): siedzi w Nowym Zamku Wymana w Białym Porcie, a własny budynek w Przystani Wilka jest dopiero planowany. **Jego krukarnia jest krukarnią Korony**, zalążkiem łączności.
 
 ## C. PATRONAT (nie własność Korony)
-- **Warsztaty Zimowego Miasta** na umowach rocznych (07-20): łuczarz Torm Cisowy, dwóch cieśli, garbarz, szewc, tkaczki (`rzemioslo_zimowe_miasto_300_07.md`).
+- **Warsztaty z wezwania Korony** (na słupie od 05-02): **patronat z urzędu** (2 lata bez opłat miejskich, Korona pierwszym kupcem). Imiennie dopisuje Orwyl.
+- **Warsztaty Zimowego Miasta** na umowach rocznych (07-20), m.in.: łuczarze Torm Cisowy i Haldor Cis, dwóch cieśli, garbarz, szewc, tkaczki (`rzemioslo_zimowe_miasto_300_07.md`).
 
 ## D. W TOKU ZMIANY / PLANOWANE
 - **Dom Starków** (Rodwell) i jego filia w Białym Porcie: według słowa pana z 07-16 **do rozwiązania, majątek do sprzedaży**. Agencja zbożowa nadal działa.

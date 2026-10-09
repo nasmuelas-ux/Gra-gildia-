@@ -10300,6 +10300,15 @@
    "wraca": "300-07-24",
    "zamyka": "probka obejrzana, ilosc i cena w ksiedze Skarbu i atelier",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-22",
+   "co": "SYN SWIADKA W DREADFORCIE (najstarszy; zostal w zalodze Roose'a) - zagrozony, gdy Roose policzy, ze rodzina nie wraca. Propozycja pana 07-22: zakladnik Korony do strazy Krola - KROL ODMOWIL (rzut 16): zadanie z imienia wskazuje swiadka i Cerwyna; zakladnik od lorda, ktory daje dwudziestu i Ramsaya - obraza przed Skagos. Sprawa OTWARTA - inna droga, ktora nie wskazuje palcem (do slowa pana).",
+   "kto": "SYMON + KROL",
+   "kanal": "osobiscie",
+   "wraca": "300-07-24",
+   "zamyka": "droga dla chlopca wybrana albo swiadomie zostawiona",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

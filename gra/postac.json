@@ -67,13 +67,17 @@
       "mowa": "biegla (lata z Nesta i na nabrzezu)",
       "czytanie": "BIEGLE/DOBRE - self-study zaawansowanych braavijskich tekstow finansowych (matematyka monety/ryzyka, poziom Zelaznego Banku)",
       "pismo": "BIEGLE/DOBRE - pisarz-mistrz + lata braavijskiego handlu/finansow; sprawnie pisze kontrakty, korespondencje, ksiegi po braavijsku (tylko najsubtelniejszy niuans ponizej ojczystej powszechnej)",
-      "nota": "POPRAWKA 298-07-19 (gracz): Symon uczyl sie braavijskiego DUZO - jego frontier-finanse pochodza z czytania braavijskich traktatow (glosariusz.finanse). Wiec czytanie biegle, nie podstawowe. Bekarci valyrianski Wolnych Miast; atut na braavijskim koncu arterii + FORY do wysokiego valyrianskiego (wspolne korzenie, a on juz czyta bekarci sprawnie). | 298-07-19: pismo tez podniesione na biegle (gracz) - profesjonalnie pisze po braavijsku. De facto braavijski BIEGLY w mowie+czytaniu+pismie."
+      "nota": "POPRAWKA 298-07-19 (gracz): Symon uczyl sie braavijskiego DUZO - jego frontier-finanse pochodza z czytania braavijskich traktatow (glosariusz.finanse). Wiec czytanie biegle, nie podstawowe. Bekarci valyrianski Wolnych Miast; atut na braavijskim koncu arterii + FORY do wysokiego valyrianskiego (wspolne korzenie, a on juz czyta bekarci sprawnie). | 298-07-19: pismo tez podniesione na biegle (gracz) - profesjonalnie pisze po braavijsku. De facto braavijski BIEGLY w mowie+czytaniu+pismie.",
+      "licznik_uzyc": 0,
+      "_licznik_nota": "Osobny licznik jezyka od 300-07-20. Liczy sie praktyka braavijskiego (w tym NAUCZANIE Sansy i Aryi od 07-21)."
     },
     "wysoki_valyrianski": {
       "mowa": "brak",
       "czytanie": "POCZATKUJACY (298-07-22: czyta pierwsze proste zdania, wybrzmiewajac; glify+sylaby opanowane, sens jeszcze czesciowy). Braavijski daje tempo (rozpoznaje rdzenie, nie kuje na pamiec). | 300-07-18 (pierwsza lekcja u Luwina, rzut 67): glify i sylaby trzymaja sie od 298; odmiana rzeczownika (cztery przypadki z osmiu) wchodzi szybko przez rdzenie braavijskie; czyta proste zdanie prawne z pomoca slownika. Nadal POCZATKUJACY, ale stabilnie. | 300-07-20 (praca domowa na 07-22, rzut 89): trzy rzeczowniki we wszystkich czterech przypadkach bez bledu; zdanie prawne przepisane i zrozumiane BEZ SLOWNIKA. Do oceny Luwina we wtorek.",
       "pismo": "brak",
-      "nota": "jezyk klasyczny/nauki (ksiegi, prawo, formalne pisma, Zelazny Bank). Nauka CZYTANIA (nie mowy), lata drogi. Braavijski daje FORY (wspolne korzenie). Uczy Theomore. | Od 300-07-18 uczy LUWIN (wt. i pt. wieczorem)."
+      "nota": "jezyk klasyczny/nauki (ksiegi, prawo, formalne pisma, Zelazny Bank). Nauka CZYTANIA (nie mowy), lata drogi. Braavijski daje FORY (wspolne korzenie). Uczy Theomore. | Od 300-07-18 uczy LUWIN (wt. i pt. wieczorem).",
+      "licznik_uzyc": 2,
+      "_licznik_nota": "Osobny licznik jezyka (300-07-20, poprawka gracza: jezyki rozdzielone 298-07-19). Praktyka WYSOKIEGO VALYRIANSKIEGO liczy sie TU, nie w agregacie umiejetnosci.jezyki. 1 = lekcja Luwina 07-18 (rzut 67); 2 = praca domowa 07-20 (rzut 89)."
     }
   },
   "wiedza": {
@@ -156,7 +160,7 @@
     "retoryka": 138,
     "czytanie_ludzi": 266,
     "rzemioslo": 4,
-    "jezyki": 78,
+    "jezyki": 76,
     "spryt_uliczny": 132,
     "handel": 163,
     "geometria": 22,
@@ -421,7 +425,7 @@
   "log_kasy": {
     "_lista_w_dzienniku": 22
   },
-  "_jezyki_nota": "Rozdzielone 298-07-19 na osobne (per jezyk: mowa/czytanie/pismo). umiejetnosci.jezyki=agregat ogolny; jezyki_znane=rozbicie szczegolowe.",
+  "_jezyki_nota": "Rozdzielone 298-07-19 na osobne (per jezyk: mowa/czytanie/pismo). umiejetnosci.jezyki=agregat ogolny; jezyki_znane=rozbicie szczegolowe. | 300-07-20 (gracz: 'jezyki zostaly podzielone na odrebne jezyki'): PRAKTYKA KAZDEGO JEZYKA idzie do licznika TEGO JEZYKA (jezyki_znane.<jezyk>.licznik_uzyc); agregat umiejetnosci/liczniki_uzyc.jezyki NIE rosnie od nauki jednego jezyka. Lekcja HV 07-18 i praca domowa 07-20 przeniesione z agregatu (77/78 -> 76) do licznika HV (2).",
   "wizerunek": {
     "stroj_znak": "298-07-23: SYGNATUROWY STROJ = CZERN, schludnie, doskonaly ale PROSTY kroj, bez haftow/klejnotow/przepychu. Jakosc w suknie i kroju, nie w ozdobie. Znaczy: 'nie musze krzyczec' - czlowiek substancji (trzezwy/uczciwy/uczony/godny rady), NIE bogaty-kupiec-na-pokaz. Omija zawisc (doktryna moaty/nie na pokaz). Mira kroi (jej rzemioslo). Czern=jego ZNAK: rozpoznawalny, zapamietywalny, nigdy krzykliwy. Domyka wizerunek pod gwiazde: pisarz-uczony-czlowiek rady. (dobra czern cicho kosztowna - barwnik drogi)."
   },

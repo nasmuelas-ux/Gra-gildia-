@@ -4986,7 +4986,7 @@
    "kanal": "Winterfell (pan na miejscu)",
    "wraca": "300-07-26",
    "zamyka": "kontrakt na pismie z iloscia pierwszej dostawy",
-   "status": "otwarte 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24. ### 07-24 GAWEN (rzut 41): Tallhart podpisze, ale chce 1/3 ZALICZKI W MONECIE przed pierwszym statkiem (nie w towarze). Do slowa pana/Krola (Skarb ~1820 smokow 07-14)."
+   "status": "otwarte 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24. ### 07-24 GAWEN (rzut 41): Tallhart podpisze, ale chce 1/3 ZALICZKI W MONECIE przed pierwszym statkiem (nie w towarze). Do slowa pana/Krola (Skarb ~1820 smokow 07-14). ### 07-24 GAWEN: 1/3 zaliczki w monecie - Skarb ma monete (~1820 smokow 07-14), ale ona idzie na zboze zimowe; propozycja Gawena: zaliczke dla Tallharta pokryc z ZALICZKI HALA za towar Korony (kwit skladowy - 6/10 od reki: skory i futra do BP). Do slowa pana."
   },
   {
    "data": "300-05-10",
@@ -9948,7 +9948,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-26",
    "zamyka": "kandydat przedlozony Krolowi na Malej Radzie albo decyzja o p.o.",
-   "status": "otwarte ### 07-24: Gawen klozy Krolowi trzy nazwiska - na Male Rade 07-26."
+   "status": "otwarte ### 07-24: Gawen klozy Krolowi trzy nazwiska - na Male Rade 07-26. ### 07-24 GAWEN - TRZY NAZWISKA (E): (1) EDRIC PLUG - rzadca dobr kasztelana Winterfell, ~20 lat przy czynszach okregu I, czyta i liczy, nie lord; (2) BERTRAM WOLNY z Owsianych Pol - soltys najwiekszej wsi okregu, wolny chlop, piszacy; zna wsie od dolu; (3) ORLAND KORZEC - zna ziarno najlepiej, ale Spichlerz zostalby bez glowy (Gawen: 'trzeci tylko dla porzadku'). Do Krola na Male Rade 07-26."
   },
   {
    "data": "300-07-19",
@@ -10299,7 +10299,7 @@
    "kanal": "Winterfell, osobiscie",
    "wraca": "300-07-24",
    "zamyka": "probka obejrzana, ilosc i cena w ksiedze Skarbu i atelier",
-   "status": "otwarte ### 07-22 pan: probke oglada MIRA (stodola kasztelana, z pisarzem Skarbu) - wynik do 07-24. ### 07-23 PROBKA (rzut 77): mol tylko w dolnej warstwie najstarszych workow (~1 na 8 do odrzutu); reszta zdrowa, tlusta - Mira bierze. Ilosc i cena - przy stole Gawena po spisie 07-24."
+   "status": "zamkniete 300-07-24: PRZY STOLE GAWENA - welna z gor: ~240 workow, ~1/8 odrzut (mol) -> ~210 zdrowych; ATELIER BIERZE ~105 WORKOW (polowa zdrowych); cena: 3/4 ceny z kwitu Hala (licytacja BP) - stara welna taniej (slowo Krola); zapis w ksiedze Skarbu i ksiedze atelier; zaplata - atelier przy odbiorze; transport do Fosy wozem Korony z towarem na targ."
   },
   {
    "data": "300-07-22",

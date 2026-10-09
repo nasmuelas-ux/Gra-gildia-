@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**249 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
+**248 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
 
 ### 🟡 WRACA DZIS
 - ATELIER - KUPIEC WELNY W BARROWTON: wybiera najstarsza szwaczka atelier (BP) na list Miry; kupuje z prawa skladu i od tkaczek Barb… · _kanal:_ list Miry z Barrowton/Fosy do BP
@@ -886,7 +886,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-11** — MAIDENPOOL - WOLNA DROGA TYLKO Z HARRIONEM (Krol 07-11): garnizon Maidenpool wychodzi, gdy Harrion Karstark zostanie wydany czlowiekowi Karstarka przy wymianie jencow; 'kto wyjdzie bez niego, nie wyjdzie wcale'. List Krola do Rickarda: 'Twoj syn jest warunkiem, nie cena.' Odpowiedz Lwa - RZUT przy wiesci. · _kto:_ **KROL -> EDMURE / garnizon Maidenpool; KROL -> RICKARD** · _zamyka:_ Harrion wydany albo odmowa Lwa
 - **300-07-11** — MAIDENPOOL - CZY LEW WYWOZI HARRIONA PRZED 08-05 (ryzyko wskazane przez Sanse 07-11): obserwowac droge z Maidenpool na poludnie - wozy z eskorta przed terminem. Kto: LYMAN (Riverrun) i DERON SUCHY (Rozdroze) - przez Lucana. Odczyt - rzut przy meldunku. · _kto:_ **LUCAN -> LYMAN + DERON** · _zamyka:_ meldunek: Harrion w Maidenpool albo wywieziony **⚠ OTWARTE - ZGODA PANA 07-11; LYMAN MELDUJE KRUKIEM Z RIVERRUN**
 - **300-07-11** — DECYZJA PRZED 08-05: CZY KROL PLYNIE NA SKAGOS, JESLI LEW NIE WYJDZIE Z DORZECZA DO 08-05 (rada Sansy, zgoda pana 07-11). Rozstrzyga Krol z Namiestnikiem - przed 08-05, nie 08-05 rano. Prerogatywa - RZUT przy rozstrzygnieciu. ### 07-12 ZDANIE PANA (do przedlozenia Krolowi): DRUGI WARUNEK - DACEY. Jesli Dacey nie wroci, Krol NIE plynie na Skagos; jesli dzicy zrobili cos poslowi - akt wrogi, interwencja. Decyzja PO wiesci od Dacey (termin poselstwa ~07-15; Umber czeka na Czarnym Zamku - slowo 05-10). [Rozroznienie Sansy z 07-12 - VOID.] · _kto:_ **SYMON + KROL** · _zamyka:_ slowo Krola: plynie / zostaje / plynie pozniej
-- **300-07-12** — KARTA PRZYBOCZNEJ DOMU TALLY - PRZYJETA 07-12 (gra/karta_przybocznej_domu_tally.md, 07-12: pan + Sten + mistrz z Braavos + Luwin). Do slowa pana: (a) KOLEJNOSC OCHRONY (pkt IV - szkic: pan, dzieci, pani; przy rozdzieleniu za dzieckiem); (b) FORMA PRZYSIEGI (pkt VI - szkic: czardrzewo albo septa wg wiary). Potem: przysiega oddzialow I i II (Dagon po powrocie ~07-22), Ksiega Przybocznej; kwoty renty/opieki - Hal. Wlasni - bez rzutu. ### 07-12 SLOWO PANA: kolejnosc - zgoda; przysiega BEZ WIARY, PRZED RODZINA PANA (pan, pani, dzieci), przy kapitanie. Przysiega oddzialu I - 07-13 wieczorem w komnatach Tallych (propozycja Stena); oddzialu II - po powrocie Dagona ~07-22. NAZWA (pan 07-12): SZARE PLASZCZE. ### 07-13: ODDZIAL I ZAPRZYSIEZONY (Sten + 10), wieczorem przed panem, Mira i Lyra; imiona w Ksiedze Przybocznej. Zostaje oddzial II (Dagon) ~07-22. · _kto:_ **SYMON (slowo) -> STEN (wdrozenie) -> HAL (kwoty)** · _zamyka:_ karta przyjeta + przysiega obu oddzialow **⚠ OTWARTE - KARTA PRZYJETA; CZEKAJA PRZYSIEGI (I: 07-13, II: ~07-22) I KWOTY HALA ### 07-24: DAGON Z ODDZIALEM II WROCIL PO POLUDNIU; PRZYSIEGA ODDZIALU II - DO SLOWA PANA (WIECZOREM, PRZED RODZINA, PRZY STENIE - JAK ODDZIAL I 07-13).**
+- **300-07-12** — KARTA PRZYBOCZNEJ DOMU TALLY - PRZYJETA 07-12 (gra/karta_przybocznej_domu_tally.md, 07-12: pan + Sten + mistrz z Braavos + Luwin). Do slowa pana: (a) KOLEJNOSC OCHRONY (pkt IV - szkic: pan, dzieci, pani; przy rozdzieleniu za dzieckiem); (b) FORMA PRZYSIEGI (pkt VI - szkic: czardrzewo albo septa wg wiary). Potem: przysiega oddzialow I i II (Dagon po powrocie ~07-22), Ksiega Przybocznej; kwoty renty/opieki - Hal. Wlasni - bez rzutu. ### 07-12 SLOWO PANA: kolejnosc - zgoda; przysiega BEZ WIARY, PRZED RODZINA PANA (pan, pani, dzieci), przy kapitanie. Przysiega oddzialu I - 07-13 wieczorem w komnatach Tallych (propozycja Stena); oddzialu II - po powrocie Dagona ~07-22. NAZWA (pan 07-12): SZARE PLASZCZE. ### 07-13: ODDZIAL I ZAPRZYSIEZONY (Sten + 10), wieczorem przed panem, Mira i Lyra; imiona w Ksiedze Przybocznej. Zostaje oddzial II (Dagon) ~07-22. · _kto:_ **SYMON (slowo) -> STEN (wdrozenie) -> HAL (kwoty)** · _zamyka:_ karta przyjeta + przysiega obu oddzialow **⚠ ZAMKNIETE 300-07-24: ODDZIAL II ZAPRZYSIEZONY (DAGON + 10) WIECZOREM W KOMNATACH TALLYCH PRZED PANEM, PANIA MIRA I LYRA, PRZY KAPITANIE STENIE; ROTA WG KARTY VI; IMIONA W KSIEDZE PRZYBOCZNEJ. CALA PRZYBOCZNA (SZARE PLASZCZE) ZAPRZYSIEZONA.**
 - **300-07-12** — DORZECZE - POPRAWKA DO ROZKAZU (Mala Rada 07-12): Korona NIE karmi strazy Edmure'a swoim zbozem; Edmure karmi je z ziarna Tridentu. Korona daje DWOCH KWATERMISTRZOW (z wojny w Dorzeczu, wskazuje RODRIK - zasada 42) do koordynacji rozdzialu. Kruk Krola z poprawka 07-13. Odpowiedz Edmure'a - RZUT przy wiesci. ### 07-13: burza (pogoda 3) - kruk leci 07-14 o swicie. · _kto:_ **KROL -> EDMURE; RODRIK (kwatermistrzowie)** · _zamyka:_ kwatermistrzowie przy Edmurze
 - **300-07-12** — TRAKTAT B9 Z DORZECZEM - ZALACZNIK LICZBOWY I PIERWSZY LETNI KONTRAKT (Mala Rada 07-12): cena stala (art. 1), ilosc niedoboru Polnocy na zime 300/301 z Dorzecza, terminy dostaw po zniwach Tridentu (VIII-IX). Pisze GAWEN (zalacznik), Cerwyn - forma; negocjuje Lyman przy Edmurze. Odpowiedz Edmure'a - RZUT. · _kto:_ **GAWEN (+ Cerwyn) -> EDMURE przez LYMANA** · _zamyka:_ projekt kontraktu u Edmure'a; odpowiedz
 - **300-07-12** — ZBOZE Z PENTOS - CENA I ILOSC NA ZIME (Mala Rada 07-12): Nesta/Obaro - oferta od drobnych gospodarzy (wzor 299-12: 1 smok za 3 korce) i fracht; kontrakt jesli ceny E (~19 + fracht ~8) sie potwierdza. Kanal statkiem. · _kto:_ **GAWEN -> NESTA / OBARO (przez Hala)** · _zamyka:_ oferta z Pentos na pismie
@@ -1189,10 +1189,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-07-24 popoludnie · zima (300)
+- **Data:** 300-07-24 wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 86 · Zmeczenie 13**
+- **Zdrowie 100 · Sytosc 80 · Zmeczenie 16**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2475,7 +2475,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-24] `dziennik`: KOMNATA NAMIESTNIKA - SYMON PISZE DO WARRYNA (kruk do Fosy po poludniu): WYCENA WKLADU LENNA w WIELKA KUZNIE Z ODLEWNIA w Cailin (lawa za - rzut 98): budynek z kamienia, piec odlewniczy, kol…
 - [300-07-24] `dziennik`: KOMNATA NAMIESTNIKA - ⚑ SLOWO PANA: na pytanie Waldera o MYTO pan NIE odpisuje wlasna reka - myto to sprawa Krola (odpowiedz Krola z 07-20: myto nizsze wg taryfy Gawena). Dopisek Perwyna odl…
 - [300-07-24] `dziennik`: KOMNATA NAMIESTNIKA - SYMON ODRABIA PRACE DOMOWA Z WYSOKIEGO VALYRIANSKIEGO (na pt. 07-25). RZUT 46 - LEDWO. Trzy rzeczowniki w czterech nowych przypadkach odmienione; z czterech zdan dwa cz…
 - [300-07-24] `dziennik`: WCZESNE POPOLUDNIE - PRZYJAZD CERWYNA. Bez rzutu (urzednik Korony, termin). Lord MEDGER CERWYN, Justycjariusz, z szescioma swoimi i CLEYEM (syn; oglady terenu); kurz na plaszczach. Cerwyn id…
@@ -2487,3 +2486,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-24] `dziennik`: SOLAR KROLA (cd.) - SYMON PROSTUJE: chodzi o KANON - Sansa (14, szczebel III 'Prawo i ludzie') ma przygladac sie rozstrzygnieciu. Bez rzutu (kanon zatwierdzony; Justycjariusz sie zgadza). KR…
 - [300-07-24] `dziennik`: POPOLUDNIE, KOMNATA SANSY - SYMON PRZYNOSI FAKTY SPRAWY (tylko jawne): spor o wyrab Hornwood/Dreadfort; pomiar Cerwyna 06-12; siedem drzew granicznych z nacieciami i stare miejsce kamienia (…
 - [300-07-24] `dziennik`: KOMNATA SANSY (cd.) - SYMON: tak, orzeczenie przed poludniem. SANSA kiwa glowa, wraca do tabliczki: 'To zdaze.' Bez rzutu. PO POLUDNIU - DAGON Z ODDZIALEM II WRACA do Winterfell (dziesieciu,…
+- [300-07-24] `dziennik`: WIECZOR (przed kolacja), KOMNATY TALLYCH - PRZYSIEGA ODDZIALU II SZARYCH PLASZCZY. Bez rzutu (wlasni; forma z Karty VI, 07-12). Obecni: SYMON, MIRA, LYRA (na rekach matki), kapitan STEN; DAG…

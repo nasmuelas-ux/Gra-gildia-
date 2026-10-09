@@ -5949,7 +5949,7 @@
    "kanal": "zbiorczy Garricka co 7 dni",
    "wraca": "300-07-21",
    "zamyka": "piec spichlerzy wiejskich z ksiega (pierwszy checkpoint twardy)",
-   "status": "otwarte"
+   "status": "otwarte ### otwarte - zbiorczy 07-19: PIEC SPICHLERZY WIEJSKICH STOI, CZTERY Z KSIEGA I KLUCZNIKIEM; piaty (wies na mokradlach) bez klucznika - nikt we wsi nie pisze (Mella szuka). Trzy wielkie spichlerze - wykop pod pierwszy (od 07-15)."
   },
   {
    "data": "300-05-22",
@@ -6532,9 +6532,9 @@
    "co": "GP-1 GORACY PORT - RYSUNEK ETAPOW I-II: linia muru od morza, Wieza Morska, Wieza Polnocna, rynna lancucha; pomiar ujscia i dna. Rysownika wskazuje Garrick (zasada 12; Weylin na Kamiennym Brzegu). Wlasni ludzie. ### 07-01: rysunek czeka na RYSOWNIKA (szukani - skryptorium, termin 07-15); pomiar Harlona jest.",
    "kto": "GARRICK -> rysownik + HARLON",
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
-   "wraca": "300-07-21",
+   "wraca": "300-08-01",
    "zamyka": "rysunek etapow I-II na pismie",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: rysownik Garricka mierzy ujscie i dno; rysunek etapow I-II do ~08-01."
   },
   {
    "data": "300-05-26",
@@ -7497,7 +7497,7 @@
    "kanal": "list pana do Hala (poczta BP) + na miejscu",
    "wraca": "300-07-21",
    "zamyka": "umowa pozyczki w materiale podpisana, wykaz materialu i termin splaty na slupie",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: czeka na kwote Hala (wycena pierwszego rzedu kamienic)."
   },
   {
    "data": "300-06-19",
@@ -7524,7 +7524,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-21",
    "zamyka": "uchwala lawy (rzut)",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: lawa nie uchwalila; Herwin kladzie projekt na lawie (rzut przy uchwale)."
   },
   {
    "data": "300-06-19",
@@ -8119,9 +8119,9 @@
    "co": "GARNIZON GORACEGO PORTU - MIESZKA NA MIEJSCU (rozkaz pana 06-21): setka Hendry'ego, gdy wejdzie za mur od morza (rozkaz 05-16 'najpierw mur'), mieszka w Goracym Porcie NA STALE albo jest tam skoszarowana - nie dojezdza z Fosy. Kwatery w obrebie muru (Wieza Morska / Polnocna + izby przy murze) - do rysunku GP-1 (Garrick/rysownik). ZASADA 8: rodziny w porcie dopiero za murem; port na krawedzi zelaznych. Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): kwatery setki w obrebie muru - do rysunku GP-1, ktory czeka na rysownika (~07-20).",
    "kto": "HENDRY + HARLON + GARRICK (GP-1)",
    "kanal": "na miejscu",
-   "wraca": "300-07-21",
+   "wraca": "300-08-01",
    "zamyka": "kwatery garnizonu GP na rysunku GP-1",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: kwatery garnizonu wejda na rysunek GP-1 (~08-01); mur od morza ~poltora czlowieka."
   },
   {
    "data": "300-06-21",
@@ -8148,7 +8148,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-21",
    "zamyka": "program rekrutow ruszyl; pierwsza proba ~10-01",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: PROGRAM RUSZYL 07-14 po sianokosach (trzy miesiace podstawy); proba ~10-01. Rozbieznosc w radzie (zniwa VIII) - do slowa pana."
   },
   {
    "data": "300-06-21",
@@ -8805,7 +8805,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-21",
    "zamyka": "wzor na pismie; rubryka w karcie spisu",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-21 (zbiorczy 07-19): WZOR STUDNI I CYSTERNY NA PISMIE (Orwyn + Nina); rubryka woda (jest/zla/brak) w karcie spisu wsi."
   },
   {
    "data": "300-06-30",
@@ -9669,7 +9669,7 @@
    "kanal": "kruk Winterfell-Dreadfort (07-16 po poludniu)",
    "wraca": "300-07-21",
    "zamyka": "odpowiedz Boltona (rzut) albo cisza",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-21: ODPOWIEDZ BOLTONA (rzut 60): Dreadfort nie ruszy slupow; czeka na orzeczenie Justycjariusza; o kamieniu ani slowa."
   },
   {
    "data": "300-07-16",
@@ -9813,7 +9813,7 @@
    "kanal": "kruk Bialy Port-Winterfell",
    "wraca": "300-07-21",
    "zamyka": "odpowiedz Wymana (rzut) albo cisza",
-   "status": "otwarte"
+   "status": "zamkniete 300-07-21: ODPOWIEDZ WYMANA (rzut 34): TARG - zgoda miasta, po zniwach, termin oglosi miasto, oplaty miejskie BP bez ulgi; DREWNO - nie calosc jednemu kupcowi: najpierw oferta dla stoczni Bialego Portu (budowa okretow), reszta do faktora Illyria."
   },
   {
    "data": "300-07-17",
@@ -10210,6 +10210,15 @@
    "wraca": "300-07-25",
    "zamyka": "lekcja 2 odbyta (rzut) + prace domowe odebrane",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-21",
+   "co": "RADA LENNA 07-19 - ROZBIEZNOSC DO SLOWA PANA: ZNIWA vs REKRUCI. WARRYN: zniwa w VIII zabieraja ludzi - chce zwolnic rekrutow z wsi lenna na dwa tygodnie zniw; HENDRY: przerwa w trzecim tygodniu podstawy rozbija program - woli zniwa dniowkami najemnymi. Rada spisala dwie opinie (protokol Alyna). Do slowa pana; uwaga: rozkaz wczesniejszych zniw (domena) i patronat lenna wyszly 07-21.",
+   "kto": "SYMON (slowo) <- WARRYN / HENDRY",
+   "kanal": "list pana do rady (poczta Fosa)",
+   "wraca": "300-07-26",
+   "zamyka": "slowo pana przed rada 07-26",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -10306,7 +10315,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-07-12",
+   "ostatnio_odebrane": "300-07-21",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -10379,7 +10388,7 @@
     "dzien_miesiaca": 15
    },
    "opoznienie": 6,
-   "ostatnio_odebrane": "300-06-15",
+   "ostatnio_odebrane": "300-07-21",
    "zrodlo": "terminy (KARTA THEONA)"
   },
   {
@@ -10442,7 +10451,7 @@
     "start": "300-07-19"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-07-05",
+   "ostatnio_odebrane": "300-07-21",
    "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)"
   },
   {

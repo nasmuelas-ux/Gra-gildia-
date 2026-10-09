@@ -19,6 +19,6 @@
 - **Chleb do pierwszych żniw i odzienie na zimę.** Każda nowa gęba trafia do karty Orlanda. Kwot nie ma, bo nikt jeszcze nie liczył (zasada 43).
 - **Ilu ludzi i kiedy.** Zima w pierwszym roku jest dla ludzi z południa największym zagrożeniem.
 - **Gdzie osiąść:** puste zagrody w okręgach I–III (lista Rodwella do 07-26).
-- **Jak ogłosić i kanałem czyim.** Ogłoszenie za morzem to prerogatywa Króla. W grę wchodzą Braavos (Nesta i kantor Domu, ale mur trzech kas!), list Króla i Wyman.
+- **Jak ogłosić (słowo pana 07-19): OGŁOSZENIE, NIE WERBUNEK.** Ogłoszenie wywiesza się w Braavos, Pentos i pozostałych Wolnych Miastach. **Aktywnej rekrutacji nikt nie prowadzi**: kto przeczyta i zechce, przypływa sam. Treść i pieczęć ogłoszenia należą do Króla.
 - **Wrogowie:** panowie niewolników z Zatoki.
 - **Przepis o wierze** do Kodeksu: Cerwyn ubiera go w literę prawa.

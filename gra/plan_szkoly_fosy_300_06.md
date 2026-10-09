@@ -1,4 +1,5 @@
-# PLAN SZKOŁY FOSY: START 300-07-01
+# PLAN SZKOŁY TALLY (dawniej „Szkoła Fosy”): START 300-07-01
+*Nazwa od 300-07-20 (słowo pana): **SZKOŁA TALLY**, własność Domu (Kasa 1).*
 ### Mira z Garrickiem, obchód 300-06-25; na stół pana wieczorem tego samego dnia
 *Cel docelowy bez zmian: **300 uczniów · 40 nauczycieli · 20 pracowników** (`wydawnictwo_i_szkola_tally_300_06.md`). Ten plan dotyczy **pierwszego dnia i lata**, do naboru 09-01. Liczby oznaczone E to szacunki. **Kwot z głowy nie ma** (zasada 43): obiad i dniówki policzy Warryn (07-05), a wycenę dla Domu przygotuje Hal.*
 

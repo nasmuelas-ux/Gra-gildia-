@@ -10083,6 +10083,24 @@
    "kanal": "Winterfell",
    "wraca": "300-07-26",
    "zamyka": "odpowiedz Krola Freyowi; ponowny kruk do Seagard",
+   "status": "ROZSTRZYGNIETE 07-20 (Krol, rzut 53): myto TAK, nizsze (stawka Skarbnika z taryfy); robotnicy Freya TAK, jesli szybciej (termin w kontrakcie; kto nie zdazy - oddaje robote); dniowka jednakowa. List Krola - kruk 07-21 rano. Mallister - drugi kruk."
+  },
+  {
+   "data": "300-07-20",
+   "co": "FREY - ODPOWIEDZ NA LIST KROLA 07-20 (myto nizsze, robotnicy jesli szybciej) + MALLISTER (drugi kruk do Seagard).",
+   "kto": "FREY, MALLISTER -> KROL",
+   "kanal": "kruki Blizniaki/Seagard-Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "odpowiedz Freya i Mallistera - RZUT",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-20",
+   "co": "GAWEN - STAWKA MYTA NA ODCINKU BLIZNIAKI-SEAGARD (z taryfy, nizsza niz zadanie Freya) do kontraktu traktu.",
+   "kto": "GAWEN",
+   "kanal": "Winterfell",
+   "wraca": "300-07-26",
+   "zamyka": "stawka na pismie",
    "status": "otwarte"
   }
  ],

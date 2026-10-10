@@ -30,6 +30,6 @@ _Ustalenia z rozmowy Symona i Miry 07-26 (wieczór i noc). **Akt** spisze pisarz
 ## 4. Szare Płaszcze: z Domu do lenna
 - **Szare Płaszcze** (20 + Sten), dotąd przyboczna Domu (Kasa 1), **przechodzą do lenna (Kasa 2)** jako przyboczna pana lenna. Żołd płaci lenno.
 - **Od Dnia Bilansu 08-01.** Hal zamyka ich pozycję w księgach Domu, a Gerrik i Warryn otwierają ją w księdze lenna.
-- Przysięgę składają na nowo panu Fosy (Sten za wszystkich, każdy osobno: rozkaz pana do wykonania).
+- ⚑ **Przysięgi NIE powtarza się** (poprawka 07-27). Oba oddziały przysięgły już przed panem, panią i dzieckiem: oddział I 07-13, oddział II 07-24, według Karty pkt VI. Przysięga jest osobista, a zmienia się tylko płatnik. Do poprawy jest **Karta Przybocznej pkt I** (podległość: zamiast „Dom, Kasa 1” ma być „pan lenna, Kasa 2”). W rocie „służę Domowi” znaczy **ród Tally**.
 - Zadania bez zmian: Winterfell, straż przy panu, cicha straż przy kuźni.
 - Do rozstrzygnięcia: budynek pod koszary przybocznej w Zimowym Mieście (faktoria Domu, 06-25), czyli kto go płaci i czyj jest.

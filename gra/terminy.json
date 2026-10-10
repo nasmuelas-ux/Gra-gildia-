@@ -11023,8 +11023,8 @@
   },
   {
    "data": "300-07-27",
-   "co": "SZARE PLASZCZE Z DOMU DO LENNA (slowo pana 07-26): od DNIA BILANSU 08-01 przyboczna pana lenna (Kasa 2); HAL zamyka pozycje w ksiegach Domu, GERRIK i WARRYN otwieraja w ksiedze lenna; Sten i kazdy z dwudziestu - przysiega panu Fosy na nowo. Do rozstrzygniecia: budynek pod koszary w ZM (faktoria Domu, 06-25). Rozkazy - kruki do Hala i na Fose rano 07-27.",
-   "kto": "HAL + GERRIK/WARRYN + STEN",
+   "co": "SZARE PLASZCZE Z DOMU DO LENNA (slowo pana 07-26): od DNIA BILANSU 08-01 przyboczna pana lenna (Kasa 2); HAL zamyka pozycje w ksiegach Domu, GERRIK i WARRYN otwieraja w ksiedze lenna; PRZYSIEGA BEZ ZMIAN (oddzial I 07-13, oddzial II 07-24 - przed panem, pania i dzieckiem); do poprawy KARTA PRZYBOCZNEJ pkt I (podleglosc: pan lenna, Kasa 2). Do rozstrzygniecia: budynek pod koszary w ZM (faktoria Domu, 06-25). Rozkazy - kruki do Hala i na Fose rano 07-27.",
+   "kto": "HAL + GERRIK/WARRYN (+ STEN - karta)",
    "kanal": "kruki WF->BP i WF->Fosa (rano 07-27); przysiega - osobiscie w WF",
    "wraca": "300-08-01",
    "zamyka": "pozycja w ksiedze lenna + przysiega",

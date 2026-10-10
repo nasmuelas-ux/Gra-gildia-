@@ -144,7 +144,7 @@
 - **Port Cailin:** **KAPITAN PORTU**, którego wskazuje Garrick.
 - **Spław rzeką Fever:** prowadzi **KESSEL BRODATY**.
 - **Wychodki i woda w etapie 0:** **Herwin** z Niną.
-- **Pomarańczowy Dwór i Latarnia:** prowadzi Dom (Hal), rysunki robi Weylin. ⚑ 300-07-26: **Dwór płaci LENNO** (siedziba rodu, własność lenna); Hal tylko wykonawca. Latarnia bez zmian (Dom).
+- **Pomarańczowy Dwór i Latarnia:** prowadzi Dom (Hal), rysunki robi Weylin. ⚑ 300-07-26: **Dwór płaci LENNO**, ale jest **własnością RODU TALLY** (dom rodu); Hal tylko wykonawca. Latarnia bez zmian (Dom).
 - **Mury:** prowadzi lenno (Garrick), rysunki robi Weylin.
 
 *Zasada 8: Weylin jest w pięciu wierszach naraz (PD-1, LP-1, PC-1, MF-1, CP). Wraca z Kamiennego Brzegu około lipca i będzie wąskim gardłem. Kolejność jego rysunków: **MF-1 i PC-1 przed PD-1**, bo mur i port idą przed Dworem.*

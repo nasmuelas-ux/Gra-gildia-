@@ -58,7 +58,7 @@
 | 4 | **Grobla** | 2. odcinek wbity, 3. w palach (07-05) | Bran (majordom robót), Korm Palik, Orbelo |
 | 5 | **Gorący Port**: mur od morza, Wieża Morska, pomost, kamieniołom | mur na wysokość człowieka (07-05) | Harlon z Brodu, 30 ludzi Hendry'ego |
 | 6 | **Port Cailin (PC)** | planowany (PC-2 w IX, basen 301/302) | kapitan portu Harwin Łopata |
-| 7 | **POMARAŃCZOWY DWÓR — SIEDZIBA RODU TALLY** (Miasto Górne) | planowany (PD-1 09-15; budowa 301/302). **Płaci lenno (Kasa 2)**, własność lenna, dziedziczy się z lennem (słowo pana 07-26); kolejność: po murze i spichlerzach (warunek Miry) | rysunek Weylin; budowę prowadzi Dom (Hal) jako wykonawca na rachunek lenna |
+| 7 | **POMARAŃCZOWY DWÓR** (Miasto Górne): **WŁASNOŚĆ RODU TALLY** (wymiar III), **budowę płaci lenno** jako wydatek (słowo pana 07-26) | planowany (PD-1 09-15; budowa 301/302); po murze i spichlerzach (warunek Miry) | rysunek Weylin; Hal jako wykonawca |
 | 7 | **Spław Fever (SF)** | planowany; Reed zgodził się na 2 załogi (07-14); SF-0 08-15 | Kessel |
 | 8 | **Młyn w śluzie** | **działa, kamień jest** (słowo pana 07-20; zapis: Weylin, 12 ludzi) | Toben od Żarna |
 | 9 | **Torfiarnie** | działają; liczenie CP-0 08-15 | Warryn, Jorren Lut |
@@ -79,7 +79,7 @@
 
 ---
 
-> ⚑ **300-07-26:** wydzielony **MAJĄTEK RODU TALLY** (sakwa domu, głowa rodu): patrz `gra/majatek_rodu_tally_300_07.md`. Do lenna przeszły: **Pomarańczowy Dwór** (§2 poz. 7) i **Szare Płaszcze** (od 08-01).
+> ⚑ **300-07-26:** wydzielony **MAJĄTEK RODU TALLY** (sakwa domu, głowa rodu): patrz `gra/majatek_rodu_tally_300_07.md`. Trzy wymiary osobne: Dom / lenno / majątek rodu. Do lenna przeszły **Szare Płaszcze** (od 08-01). **Pomarańczowy Dwór** jest własnością rodu, a lenno płaci za budowę (§2 poz. 7).
 
 ## 3. NIEJASNE / DO ROZSTRZYGNIĘCIA PRZEZ PANA ⚑
 | co | dlaczego niejasne |

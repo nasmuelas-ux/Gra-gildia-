@@ -11002,6 +11002,15 @@
    "wraca": "300-09-15",
    "zamyka": "odpowiedzi domow (potrzeby faktorii) albo cisza",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "LIST DO HERWINA I LAWY CAILIN (gra/poczta_300_07_26.md): lenno rozpoczyna rozmowy z Braavos o domy handlowe w Cailin (4 domy); stalej obecnosci krolewskiej w Cailin na razie nie bedzie (Faktor - najpierw BP, Cailin po roku proby); miasto ma rozwinac potencjal kupiecki i stac sie bardziej niezalezne. Odzew lawy - RZUT przy odpowiedzi.",
+   "kto": "HERWIN SZALA + LAWA CAILIN",
+   "kanal": "kruk WF->Fosa (do burmistrza)",
+   "wraca": "300-07-30",
+   "zamyka": "odpowiedz burmistrza",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

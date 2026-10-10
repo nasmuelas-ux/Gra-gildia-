@@ -39,7 +39,7 @@
 | 26 | **Dom Audytowy Tally** | — | działa; krzesło mistrza puste | zarządca, rachmistrz |
 | 27 | **Ramię finansowe** (kredyt, weksle, ubezpieczenia frachtu) | — | działa | Hal, Tam |
 | 28 | **Logistyka**: barki na Białym Nożu, 2 statki „Woły” zamówione w Braavos, **kruki Domu** | — | działa | — |
-| 29 | **Szare Płaszcze**, przyboczna Domu (20 + Sten) | — | działa | **Sten** |
+| 29 | ~~**Szare Płaszcze**, przyboczna Domu (20 + Sten)~~ ⚑ **DO LENNA od 08-01** (słowo pana 07-26; `majatek_rodu_tally_300_07.md` §4) | — | działa | **Sten** |
 | 30 | **Internat szkoły** (stara stajnia) | Fosa | ~08-25; wykryto wilgoć | Dom płaci |
 | 31 | **Kocioł Zimowy** (jałmużna Domu) | Cailin, przy wadze | od pierwszego mrozu | rachmistrz reliefu, Mella |
 | 32 | **Dom dla sierot** | Cailin, przy szkole | przed zimą | Mira, Alys, Hal |
@@ -78,6 +78,8 @@
 | 23 | **Sąd grodzki** (księga przybyszów), **kancelaria i archiwum**, **skarbiec lenna** | działają | Roderyk; Garrick, Haldor; Gerrik |
 
 ---
+
+> ⚑ **300-07-26:** wydzielony **MAJĄTEK RODU TALLY** (sakwa domu, głowa rodu): patrz `gra/majatek_rodu_tally_300_07.md`. Do lenna przeszły: **Pomarańczowy Dwór** (§2 poz. 7) i **Szare Płaszcze** (od 08-01).
 
 ## 3. NIEJASNE / DO ROZSTRZYGNIĘCIA PRZEZ PANA ⚑
 | co | dlaczego niejasne |

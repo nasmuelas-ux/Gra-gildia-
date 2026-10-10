@@ -2,13 +2,13 @@
   "data": {
     "rok": 300,
     "miesiac": 7,
-    "dzien": 27,
+    "dzien": 28,
     "era": "AC"
   },
   "pora": "ranek",
   "sezon": "zima (300)",
-  "pogoda": "RZUT 14 (300-07-27): deszcz od nocy, rano ulewa z zachodnim wiatrem, bloto; ku poludniu slabnie do mzawki (E).",
-  "dzien_tygodnia_nr": 7,
+  "pogoda": "RZUT 4 (300-07-28): NAWALNICA - ulewa z gradem i wichura z NW od nocy do poludnia; kruki nie lataja; trakty rozmyte; po poludniu sie przejasnia (E).",
+  "dzien_tygodnia_nr": 1,
   "dzien_targowy": false,
   "_dziennik_nastroje_miasta": 7,
   "ceny": {

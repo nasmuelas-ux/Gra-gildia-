@@ -9498,7 +9498,7 @@
    "kanal": "osobiscie Winterfell; kruki do lordow i Osrica",
    "wraca": "300-07-26",
    "zamyka": "lista kandydatow na Mala Rade 07-26 + slowo Bryndena o kursie",
-   "status": "otwarte"
+   "status": "ROZSTRZYGNIETE 07-26 (slowo pana na Malej Radzie): PIERWSZA GRUPA - 6 z garnizonu WF + Ottar Rudy, jada z Krolem 08-05, kurs ~08-07..~09-18 (Brynden, Przystan Wilka); DRUGA GRUPA ~09-20; listy-zaproszenia do Glovera, Tallharta, lady Dustin wyszly 07-26; koszt - Gawen 08-01"
   },
   {
    "data": "300-07-13",
@@ -10920,6 +10920,24 @@
    "kanal": "—",
    "wraca": "300-08-23",
    "zamyka": "rozjemca wskazany, granica wytyczona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "AKADEMIA - ZAPROSZENIE KORONY DLA WETERANOW LORDOW (Glover, Tallhart, lady Dustin): druga grupa kursu setnikow po zniwach (~09-20), do szesciu miejsc razem z Fosa i domena; za wiedza lorda, Korona zaprasza, nie bierze; zold w czasie kursu - Korona. Odzew - rzut przy kazdej odpowiedzi.",
+   "kto": "GLOVER / TALLHART / BARBREY DUSTIN",
+   "kanal": "kruki z Winterfell (pieczec Namiestnika)",
+   "wraca": "300-08-01",
+   "zamyka": "odpowiedzi trzech lordow (imiona kandydatow albo odmowa)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-05",
+   "co": "AKADEMIA - PIERWSZA GRUPA (Walton Szram, Harras od Bramy, Osgood Dlugi, Jorah Zimny Strumien, Benjen Sowa, Carrac Kosc - E; + Ottar Rudy) jedzie z Krolem do Przystani Wilka; kurs 6 tyg. do ~09-18; ocena Bryndena na pismie.",
+   "kto": "BRYNDEN + SER RODRIK",
+   "kanal": "osobiscie",
+   "wraca": "300-09-18",
+   "zamyka": "ocena Bryndena, nominacje setnikow",
    "status": "otwarte"
   }
  ],

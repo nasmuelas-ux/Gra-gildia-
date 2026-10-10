@@ -6,7 +6,7 @@ _Zlecił Namiestnik 07-26 (v2 §N5, v3 §N5). Koordynuje **MISTRZ NAUKI (Luwin)*
 |---|---|---|---|
 | **Pisarze** (kancelarie, komory, Skarb, sądy) | szkoła Fosy (lenno), szkoła ZM (Luwin, uczy Mira od 07-15, 34 dzieci) | **Szkoła ZM jako szkoła wzorcowa Korony.** Najlepsi przechodzą do **izby uczniowskiej** przy Kancelarii (praktyka u Berona, Gawena, Cerwyna) | izba uczniowska istnieje tylko jako szkic z 299-09 |
 | **Faktorzy** | nikt; dziś kupcy z miasta (Hal szuka) | izba uczniowska z praktyką przy **Faktorze BP** (start po żniwach) i przy kantorach Domu (Hal), **za zgodą Domu** (E) | pierwsza generacja zawsze z miasta |
-| **Konsulowie, tłumacze** | nikt | **Korpus Podopiecznych Winterfell** (31 dzieci, 26 domów), z językami: braavoski i valyriański (Luwin ma księgi od 05-25) | Korpus nie ma głowy (Luwin 05-19: „nikt ich nie liczy wieczorem po imieniu”) |
+| **Konsulowie, tłumacze** | nikt | **Korpus Podopiecznych Winterfell** (33 dzieci z 26 domów, stan 05-23), z językami: braavoski i valyriański (Luwin ma księgi od 05-25) | ⚑ VOID: Korpus MA obsadę (patrz niżej). Brak tylko nauczyciela języków na co dzień |
 | **Prawnicy, sędziowie, pisarze sądowi** | nikt systemowo; wzór: **Cerwyn uczy Sansę** (kanon, 07-26) | **model Cerwyna:** uczeń przy pisarzu sądu i własne uzasadnienie do każdego wyroku. Z Korpusu i izby uczniowskiej, 1–2 przy każdym objeździe Justycjariusza (E) | do zgody Cerwyna |
 | **Ludzie Mennicy w kantorach** | nikt | izba uczniowska z praktyką u **Gawena** (Skarb, waga, kurs) | Mennica WILK jeszcze nie bije dość |
 | **Pocztmistrze** | łańcuch maesterski (Luwin) | **Głębokorzeń** dla łączności (dwa nazwiska do 08-15). Pocztmistrz nie musi być maesterem: pisarz z izby uczniowskiej pod maesterem (E) | — |
@@ -20,7 +20,7 @@ _Zlecił Namiestnik 07-26 (v2 §N5, v3 §N5). Koordynuje **MISTRZ NAUKI (Luwin)*
 - Fosa nie dostaje miejsca poza kolejką (pan 07-17).
 
 ## Decyzje do Małej Rady 08-09 (pod Namiestnikiem)
-1. **Korpus Podopiecznych: głowa.** Ochmistrz Korpusu, osobno od kasztelana. Kandydat do wskazania (zasada 12).
+1. **Korpus Podopiecznych: obsada jest** (⚑ poprawka pana 07-26). Ochmistrzyni **HELGA SZEROKA** (dzień, od 05-24), **GERTA** (noce, od 05-27), **BENNET PIEKARZ** (kuchnia), rachmistrz **EDRIK PIÓRO** (Skarb). Do decyzji jest tylko **nauka języków w Korpusie**: kto uczy na co dzień (Luwin ma księgi, ale nie ma czasu).
 2. **Izba uczniowska:** z szkicu w instytucję przy szkole ZM. Gdzie siedzi, kto prowadzi, ilu uczniów.
 3. **Akademia:** pula 8 + 4 (E) i cena miejsca (Gawen).
 4. **Patronat:** klauzula o uczniu w umowach patronatu Korony.

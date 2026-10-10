@@ -8976,7 +8976,7 @@
    "kanal": "kruki Winterfell-Bialy Port / Wdowia Straznica",
    "wraca": "300-07-26",
    "zamyka": "odpowiedzi Wymana i Lyessy + kosztorys Gawena; komunikat do Kingshouse wyslany",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 07-26 - Mala Rada pkt 2: scenariusz, trasa, sklad, flota, zasoby potwierdzone; wyjazd 08-05"
   },
   {
    "data": "300-07-09",
@@ -9030,7 +9030,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-27",
    "zamyka": "slowo Catelyn",
-   "status": "otwarte"
+   "status": "ROZSTRZYGNIETE 07-25 - Catelyn (rzut 33): Arya zostaje w Winterfell, na Fose nie wraca - przynajmniej nie teraz"
   },
   {
    "data": "300-07-09",
@@ -9082,9 +9082,9 @@
    "co": "KARSTARK - WZMOCNIC (slowo pana 07-10, decyzja Krola rzut 44): (1) KROL ZAWIJA DO KARHOLDU w drodze na Skagos, schodzi na brzeg, rozmawia z Rickardem w twarz (rada Sansy); (2) CZLOWIEK KARSTARKA przy wymianie jencow w Maidenpool (Edmure - list Krola); (3) STRAZ MARCHII Karholdu (od 04-01 w sluzbie Korony) - ogloszona publicznie przy lordach jako 'oko Krola na wschodzie', z zoldem Korony. KONSEKWENCJA (rzut 44): Bolton odczyta to jako nacisk - 'wzmocnic Karstarka to powiedziec Boltonowi, kto pilnuje jego drzwi' (Krol); napiecie na wschodzie rosnie. List Krola do Rickarda (zapowiedz wizyty) - razem z odpowiedzia na jego warunek. ### 07-10 (slowo pana): Karstark ma juz PRZYSTAN NA OSTATNIEJ RZECE (04-02, rzut 26; trzy klucze; budowa po siewach) i STRAZ MARCHII w sluzbie Korony (30 ludzi, zold Kasy 3 od 05-01). KROL: przystan Ostatniej Rzeki - Korona daje juz teraz WAGE, SLUP Z CENA, KSIEGE I PISARZA (jej czesc z umowy) i przyspiesza deski z Wilczego Lasu; Gawen - koszt z Kasy 3 (E). 'Niech Rickard zobaczy, ze to, co obiecalismy, rosnie.' ### 07-10 KOREKTA (pytanie pana: 'po co ma uslyszec to o Karholdzie?'): PKT (3) - PUBLICZNE OGLOSZENIE 'OKA KROLA NA WSCHODZIE' SKRESLONE. Straz marchii zostaje, jak byla (zold Korony od 05-01, bez nowego ogloszenia). Wzmocnienie Karstarka - CICHO: wizyta Krola w drodze na Skagos, czlowiek przy Maidenpool, przystan Ostatniej Rzeki przyspieszona. Konsekwencja rzutu 44 lagodnieje: Bolton zobaczy tylko okret Krola przy Karholdzie - wizyte, nie ogloszenie.",
    "kto": "KROL -> RICKARD KARSTARK ; KROL -> EDMURE (Maidenpool)",
    "kanal": "kruk Winterfell-Karhold / Riverrun",
-   "wraca": "300-07-26",
+   "wraca": "300-08-18",
    "zamyka": "Rickard wie o wizycie; czlowiek Karstarka wskazany do Maidenpool",
-   "status": "otwarte 07-21: kanal Krola - stan na Radzie Trzech 07-25. ### 07-25: na Male Rade 07-26."
+   "status": "otwarte - 07-26: Mala Rada (porzadek 'Karstark') - Krol zawija do Karholdu w trasie na Skagos (pkt 2: Karhold/Ostatnia Rzeka, Rickard w twarz); czlowiek Karstarka do Maidenpool - przy wizycie Krola"
   },
   {
    "data": "300-07-10",
@@ -9714,7 +9714,7 @@
    "kanal": "osobiscie, Winterfell; kruk do Hala 07-17",
    "wraca": "300-07-26",
    "zamyka": "spis na pismie w trzech kolumnach (A/B/C) z suma kolumny C",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 07-21 - lista Gawena (gra/lista_towaru_wolnego_korony_300_07_21.md)"
   },
   {
    "data": "300-07-16",
@@ -9723,7 +9723,7 @@
    "kanal": "osobiscie Winterfell; kruk do Bialego Portu (Wyman)",
    "wraca": "300-07-26",
    "zamyka": "szkic przedlozony na Malej Radzie; decyzje Krola z par. 5 projektu",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 07-26 - Mala Rada pkt 6 (v3 par.10-11): decyzje Krola i terminy wdrozenia"
   },
   {
    "data": "300-07-16",
@@ -9982,18 +9982,18 @@
    "co": "OSADNICTWO DOMENY - INTENSYFIKACJA W OKREGACH ZBOZOWYCH I-III (slowo pana 07-19): model 299-08-28 (zagroda, narzedzia, ziarno z domeny, 5 lat bez daniny); Rodwell wskazuje puste zagrody w I-III do 07-26. OTWARTE: skad ludzie (pytanie Gawena do pana). ### 07-19 ZRODLA LUDZI (slowo pana): (1) AZYL dla bylych niewolnikow i uchodzcow z Essos - PREROGATYWA KROLA (rzut przy przedlozeniu); (2) DORZECZE (przeludnione) - list Krola do Edmure'a przed werbunkiem; droga przez Przesmyk i Fose.",
    "kto": "RODWELL pod GAWENEM",
    "kanal": "Winterfell / domena",
-   "wraca": "300-07-26",
+   "wraca": "300-08-01",
    "zamyka": "lista pustych zagrod I-III + zrodlo osadnikow",
-   "status": "otwarte"
+   "status": "otwarte - 07-26: wlasni (Rodwell pod Gawenem) - lista pustych zagrod I-III do jednej ksiegi w DZIEN BILANSU 08-01 (zasada 7)"
   },
   {
    "data": "300-07-19",
    "co": "SIEW ZBOZA I ROSLIN POD WARUNKI POLNOCY W DOMENIE (slowo pana 07-19): odmiany USTALONE 06-09 (zyto ozime - siew IX, termin Osrica; jeczmien i owies jare z gor i z polnocy Dorzecza; groch, bob, rzepa, kapusta); siewne z kolumny B / z kontraktu (ilosc - karta Spichlerza Orlanda 07-19); okregi I-III najpierw. [07-19: pytanie do Theomore'a o odmiany - VOID]",
    "kto": "GAWEN + ORLAND (+ RODWELL - osadnicy)",
    "kanal": "Winterfell; kruk do Przystani Wilka/Bialego Portu (Theomore)",
-   "wraca": "300-07-26",
+   "wraca": "300-08-01",
    "zamyka": "plan siewu ozimego na IX dla okregow I-III z iloscia siewnego",
-   "status": "otwarte"
+   "status": "otwarte - 07-26: wlasni (Gawen + Orland) - plan siewu ozimego na IX z iloscia siewnego - w DZIEN BILANSU 08-01 (zasada 7)"
   },
   {
    "data": "300-07-19",
@@ -10596,7 +10596,7 @@
    "kanal": "osobiscie",
    "wraca": "300-07-26",
    "zamyka": "slowo Krola (Mala Rada albo osobno)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 07-26 - Mala Rada pkt 9, rzut 62: TAK (Krol + Catelyn)"
   },
   {
    "data": "300-07-25",

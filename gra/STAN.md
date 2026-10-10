@@ -25,10 +25,9 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**260 otwartych** · **0 PRZETERMINOWANYCH** · 2 wraca dzis
+**259 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🟡 WRACA DZIS
-- BRAAVOSKI - LEKCJA 3 (pon. 07-28 rano): powtorka liczb do stu i miar; scena dostawy od nowa. Po klotni z 07-25 (rzut 8) - do slowa… · _kanal:_ na miejscu
 - LUWIN - PRZYSIEGA NA URZAD MISTRZA NAUKI (Mala Rada 07-26) · _kanal:_ Winterfell / wg sprawy
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
@@ -1014,7 +1013,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-24** — SANSA NA ORZECZENIU CERWYNA (KANON, szczebel III 'Prawo i ludzie': wysluchac dwoch stron sporu i wydac rozstrzygniecie na pismie z uzasadnieniem przed Justycjariuszem): jutro 07-25 przed poludniem Sansa siedzi przy pisarzu Justycjariusza w Wielkiej Sali; pisze WLASNE uzasadnienie z jawnych dowodow (drzewa, miejsce kamienia, wypis Luwina, wyrwany slup) - Cerwyn czyta i porownuje ze swoim. Tylko jawne fakty. Ocena Cerwyna - rzut przy odczycie. · _kto:_ **SANSA ; CERWYN (Justycjariusz)** · _zamyka:_ uzasadnienie Sansy przeczytane przez Cerwyna (rzut) **⚠ ZAMKNIETE 300-07-25 (RZUT 66): UZASADNIENIE SANSY W TRZECH ZDANIACH - GRANICA ZGODNA Z ORZECZENIEM; WYRWANY SLUP JAKO OSOBNA SPRAWA KORONY (CERWYN WLACZYL TO ZDANIE DO OGLOSZENIA); JEDEN BLAD - 'ZGODNIE Z WOLA KROLA': CERWYN: 'SAD NIE POWOLUJE SIE NA WOLE KROLA. POWOLUJE SIE NA PRAWO I DOWOD. WOLA KROLA JEST W PRAWIE, NIE OBOK NIEGO.' WPIS DO KANONU (SZCZEBEL III): PIERWSZE ROZSTRZYGNIECIE NA PISMIE PRZED JUSTYCJARIUSZEM - DOBRE.**
 - **300-07-24** — STRAZ KORONY PRZY SLUPACH - TYMCZASOWA (poprawka pana 07-24): szesciu jezdzcow garnizonu WF pod choragwia wilka, nikt nie dobywa pierwszy; stoja TYLKO DO CZASU, az HORNWOOD postawi wlasne znaki i straz na granicy wyznaczonej orzeczeniem (po orzeczeniu to granica Hornwoodu i Dreadfortu - pilnuje Hornwood). Wyjazd 07-25 o swicie (ser Rodrik). · _kto:_ **KROL -> SER RODRIK -> szostka** · _zamyka:_ pierwszy meldunek tygodniowy
 - **300-07-24** — HORNWOOD - PO ORZECZENIU GRANICA JEST HORNWOODU (list Namiestnika do LORDA LARENCE'A HORNWOODA i lady Donelli, 07-24 wieczorem, poprawiony przed wylotem): po orzeczeniu linia slupow to granica Hornwood/Dreadfort - Hornwood stawia WLASNE ZNAKI I STRAZ; straz Korony stoi tymczasowo do tego dnia; prosba o termin. Wola Hornwoodu - RZUT przy odpowiedzi. · _kto:_ **SYMON -> DONELLA HORNWOOD** · _zamyka:_ odpowiedz Donelli (rzut) **⚠ OTWARTE ### 07-28: NAWALNICA (POGODA RZUT 4) - KRUKI NIE LATAJA; ZBIORCZY GARRICKA / WIESC Z FOSY I ODPOWIEDZI KRUKIEM - 07-29 (ZASADA 34).**
-- **300-07-25** — BRAAVOSKI - LEKCJA 3 (pon. 07-28 rano): powtorka liczb do stu i miar; scena dostawy od nowa. Po klotni z 07-25 (rzut 8) - do slowa pana, czy cos zmienic w ukladzie lekcji. · _kto:_ **SYMON + SANSA + ARYA** · _zamyka:_ lekcja 3 odbyta (rzut)
+- **300-07-25** — BRAAVOSKI - LEKCJA 3 (pon. 07-28 rano): powtorka liczb do stu i miar; scena dostawy od nowa. Po klotni z 07-25 (rzut 8) - do slowa pana, czy cos zmienic w ukladzie lekcji. · _kto:_ **SYMON + SANSA + ARYA** · _zamyka:_ lekcja 3 odbyta (rzut) **⚠ 07-28 RANO: MATERIALY GOTOWE (GRA/BRAAVOSKI_LEKCJA3_MATERIALY_300_07_28.MD) - ZMIANA: SIOSTRY RAZEM PRZECIW KUPCOWI Z LYS; WSPOLNY DZBAN; ULAMKI NA KAMYKACH. LEKCJA PO SNIADANIU - RZUT PRZY LEKCJI.**
 - **300-07-25** — STARKPORT/CYPEL - PROSBA Z KARTY 07-20: igly do sieci i drugi wor soli (prosba z czerwca nie doszla); Cypel - ziarna na trzy tygodnie, czeka na zboze Tallharta (kontrakt ~08-05). Do slowa pana (Gawen/Korona). · _kto:_ **SYMON -> GAWEN** · _zamyka:_ igly i sol w drodze; ziarno dla Cypla na luke do Tallharta **⚠ OTWARTE ### 07-28: GAWEN (WF) - IGLY I SOL: ZAKUP W BP/DUSTINPORT PRZEZ HALA - KRUK PO BURZY 07-29.**
 - **300-07-25** — HORNWOOD/DREADFORT - WARTOSC WYCIETEGO DREWNA (orzeczenie 07-25): lesniczy Hornwoodu liczy pnie w pasie przy czlowieku Korony; kwota po liczeniu; Dreadfort oddaje Hornwoodowi. Odzew Dreadfortu na orzeczenie - wola obca, RZUT przy odpowiedzi. · _kto:_ **CERWYN ; lesniczy Hornwoodu + czlowiek Korony ; BOLTON** · _zamyka:_ liczenie pni + odzew Dreadfortu (rzut)
 - **300-07-25** — ROZMOWA KROLA I NAMIESTNIKA ZE SWIADKIEM W PRZYSTANI WILKA (plan 07-25, propozycja Cerwyna, zgoda Krola): nocleg Krola w drodze do BP (wyjazd 08-05, zagle 08-12), baszta, przy Borsie, bez swiadkow. PYTANIA: (1) DLACZEGO UCIEKL - nie z powodu linii drzew; czego boi sie w Dreadforcie; (2) czy chodzi o RAMSAYA; (3) kto kazal ruszyc kamien (07-10 odmowil: 'wtedy panem byl ten sam pan'); (4) syn - list rodzinny tak/nie. Przy tym: rodzina pod imieniem siostry zony, ojciec nie przy ksiegach (propozycja Cerwyna - do slowa pana i Krola). Odpowiedzi swiadka - RZUT przy rozmowie. · _kto:_ **KROL + SYMON + CERWYN ; BORS (miejsce)** · _zamyka:_ rozmowa odbyta (rzut) **⚠ OTWARTE ### 07-25 KROL (RZUT 91): CERWYN WTAJEMNICZONY W CALA SPRAWE DREADFORTU (SWIADEK, KAMIEN, SYN, PYTANIE O RAMSAYA, SLUP) I JEDZIE Z KROLEM DO PRZYSTANI; NIE W SPRAWE KOWALA (MIEDZY KROLEM A NAMIESTNIKIEM).**
@@ -1252,7 +1251,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-28 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 72 · Zmeczenie 12**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 13**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2596,7 +2595,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-27] `poprawki`: POPRAWKA PANA ('myslalem, ze Mira to wyslala; placi z budzetu atelier'): SLUSZNIE - zasada 7 (rzecz zlecona i obsadzona idzie sama). Odbior welny zlecony 07-24 (Gawen, woz Korony do Fosy, za…
 - [300-07-27] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - WELNA ATELIER (po poprawce pana): woz Korony wyjechal 07-25, Mira zaplacila przy zaladunku z ksiegi atelier. KWOTA (E, metoda w ekonomia.json): cena worka z dzisi…
 - [300-07-27] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON PYTA GAWENA: ile pewnie zostaje z danin; kiedy drugie daniny od lordow; kiedy daniny od chlopow. Bez rzutu (z zapisu; ilosci E jak w liscie C). GAWEN: (1) T…
 - [300-07-27] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON: a lordowie ile zaplaca w monecie? Bez rzutu (z zapisu: kalibracja danin 300-02, par. V - forma daniny; Rada 04-01 'kazdy wedle zdolnosci'). GAWEN: W MONECI…
@@ -2608,3 +2606,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-27] `dziennik`: WIECZOR - SYMON I MIRA IDA DO JOJENA (Lyra spi pod okiem Rhony). Bez rzutu. Mira po drodze bierze z kuchni miske kaszy z miodem, kawalek chleba i kubek cieplego mleka. JOJEN - sam w malej iz…
 - [300-07-27] `dziennik`: WIECZOR, IZBA NIANI - SYMON SLUCHA. Bez rzutu. Sluchali: Rickon, maly Walder, ARYA (sama, 'na jedna bajke'), Bran przy oknie, JOJEN przy drzwiach. Niania slyszala o Cobie ('cale Zimowe Miast…
 - [300-07-28] `dziennik`: 300-07-28 RANEK (PONIEDZIALEK), WINTERFELL. NOC: pan zapisal bajke 21 i polozyl sie. SEN RZUT 29: ZLE - burza od polnocy, grzmoty; Lyra budzi sie z placzem dwa razy, Mira i Symon na zmiane. …
+- [300-07-28] `dziennik`: PRZED SNIADANIEM, KOMNATA TALLYCH (burza za oknem) - ⚑ SYMON SZYKUJE LEKCJE BRAAVOSKIEGO 3 tak, by POGODZIC i ROZBAWIC obie siostry. Bez rzutu (przygotowanie; rzut przy lekcji). ZMIANA ZASAD…

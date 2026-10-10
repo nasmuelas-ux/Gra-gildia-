@@ -1140,7 +1140,22 @@
   "moneta_w_skrzyni": 1820,
   "naleznosci_kwit_i_towar_w_drodze": 1205,
   "metoda": "E, wzor skarbca lenna 06-20: wplywy w monecie z modelu kasa.py od 300-04-01 (moneta+eskorta IV-VII ~2220-3634; spieniezenie natury VI-VII ~1552-4657, z czego ~60% w monecie - zaliczka 6/10 kwitu skladowego, ~40% w kwicie/towarze) = 3151-6428; wydatki Korony IV-VII BEZ LICZBY w ksiedze Skarbu (Przystan Wilka, trakty i mosty, ziarno siewne, Kamienny Brzeg, Mur, kancelaria, Dustinport/Starkport, itd.) 40-80% wplywow. Rzut 47 -> wplywy ~4691, wydatki ~61% (~2870), moneta ~1820, naleznosci ~1205. ZIMOWA STRAZ I GARNIZON WF - poza ta liczba (ksiega kasztelana do 07-26).",
-  "zrodlo": "liczenie Gawena 300-07-14 (rzut 47 na ustalenie wielkosci), gra/ukryte/rzuty.log"
+  "zrodlo": "liczenie Gawena 300-07-14 (rzut 47 na ustalenie wielkosci), gra/ukryte/rzuty.log",
+  "ruchy_po_liczeniu": [
+   {
+    "data": "300-07-27",
+    "co": "PROBNA SPRZEDAZ TOWARU KORONY - Zimowe Miasto (loj ~25 beczek, skory ~350, wosk ~12 kamieni, welna ~40 workow; z komory kasztelana)",
+    "kwota_smoki": 97.56,
+    "forma": "moneta (miedz, troche srebra) - CALOSC w monecie, bez kwitu",
+    "metoda": "kasa.py, linia KASA 3 'SPIENIEZENIE SWIADCZEN W NATURZE' za 300-07-27: pasmo 35.64..106.92; rzut 87 -> 97.56 (interpolacja (r-1)/99). Sprzedaz z dnia = realizacja tej linii za dzien.",
+    "rzut": 87
+   }
+  ],
+  "moneta_w_skrzyni_po_ruchach": {
+   "na_dzien": "300-07-27",
+   "wartosc": 1917.56,
+   "uwaga": "1820 (liczenie 07-14) + 97.56 (sprzedaz ZM 07-27). INNE WPLYWY I WYDATKI 07-14..07-31 NIE SA TU DOLICZONE - pelna liczba skrzyni w Dzien Bilansu 08-01 (Gawen + Beron)."
+  }
  },
  "_udzialy_wspolnikow": {
   "_opis": "UDZIALY WSPOLNIKOW CALOSCI DOMU TALLY W ZYSKU (ustalone slowem pana/gracza 300-07-14). Wedlug nich Tam liczy kazda wyplate.",

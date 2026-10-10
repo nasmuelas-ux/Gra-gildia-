@@ -25,13 +25,12 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**257 otwartych** · **0 PRZETERMINOWANYCH** · 11 wraca dzis
+**256 otwartych** · **0 PRZETERMINOWANYCH** · 10 wraca dzis
 
 ### 🟡 WRACA DZIS
 - SKAGOS - WYPRAWA KROLA Z FLOTA (decyzja 07-09, rzut 92): Krol plynie na czele floty wschodu z obstawa, by oficjalnie przyjac przys… · _kanal:_ kruki Winterfell-Bialy Port / Wdowia Straznica
 - KARSTARK - WZMOCNIC (slowo pana 07-10, decyzja Krola rzut 44): (1) KROL ZAWIJA DO KARHOLDU w drodze na Skagos, schodzi na brzeg, r… · _kanal:_ kruk Winterfell-Karhold / Riverrun
 - SETNICY Z WETERANOW - AKADEMIA (slowo pana 07-12): Rodrik (Pierwszy Miecz) + Osric (Marszalek, spis): lista weteranow na setnikow … · _kanal:_ osobiscie Winterfell; kruki do lordow i Osrica
-- FERMENT PO PRZYJECIU DZIKICH (Krol 07-15): pismo do lordow konczy sie 'kto ma obawe, pisze do Namiestnika' - kancelaria Namiestnik… · _kanal:_ kruki lordow -> Winterfell
 - AKADEMIA - NARADA BRYNDENA Z KROLEM I SER RODRIKIEM (wezwanie 07-13): program akademii, setnicy z weteranow (lista Rodrika/Osrica)… · _kanal:_ osobiscie, Winterfell
 - SPIS WOLNEGO TOWARU KORONY I DOMU STARKOW (polecenie pana 07-16): wszystko, co Korona i Dom Starkow maja W TOWARZE i SUROWCU (poza… · _kanal:_ osobiscie, Winterfell; kruk do Hala 07-17
 - REFORMA PLACOWEK HANDLOWYCH KORONY - OD ZARAZ (polecenie Namiestnika 07-16, przed obsadzeniem Zarzadcy Domeny; notatka: gra/notatk… · _kanal:_ osobiscie Winterfell; kruk do Bialego Portu (Wyman)
@@ -918,7 +917,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-14** — HAL - WYROWNANIE PLACOWKI WINTERFELL 250 SMOKOW (wyplata dywidendy VII pana 166,67 + Miry 83,33 w faktorii ZM 07-14); faktor do wyrownania kupuje tylko na kwit (zasada 8). Od dzis wyplaty wspolnikow mozna odbierac w faktorii, z wyrownaniem od Hala. Wlasni - bez rzutu. · _kto:_ **HAL -> faktor ZM** · _zamyka:_ moneta u faktora ZM, kwit w ksiedze Domu
 - **300-07-14** — KOSZARY SZARYCH PLASZCZY - RODZINY RAZEM W KOSZARACH (slowo pana 07-14): kilka izb podwojnych na rodziny (dwie izby w jedna, drzwi miedzy); Sten daje faktorowi liste rodzin (07-15); wprowadzenie ~IX bez zmian; koszt - ksiega Hala. Wlasni - bez rzutu. · _kto:_ **STEN -> FAKTOR ZM; ciesle** · _zamyka:_ koszary gotowe, przyboczni i rodziny wprowadzeni
 - **300-07-15** — DACEY MORMONT DO WINTERFELL - po poselstwie (Mance TAK, rzut 100): relacja Krolowi z ust; slowa dla ARYI o bracie - Dacey mowi jej SAMA (obietnica 06-30; imienia nie na papier); pogloska o Benjenie. Wielki Jon - z Czarnego Zamku do domu albo z nia (jego wola). · _kto:_ **DACEY MORMONT** · _zamyka:_ Dacey w Winterfell **⚠ ZAMKNIETE 300-07-25: RELACJA DACEY KROLOWI I NAMIESTNIKOWI (RZUT 30) - WIECZOR, SOLAR; SLOWA DLA ARYI - PRZEKAZANE JEJ SAME, NA MURACH (TRESC - NIE W ZAPISIE). WIELKI JON - WROCIL Z MURU DO DOMU.**
-- **300-07-15** — FERMENT PO PRZYJECIU DZIKICH (Krol 07-15): pismo do lordow konczy sie 'kto ma obawe, pisze do Namiestnika' - kancelaria Namiestnika zbiera listy i glosy (kto, co, skad), nie gasi; zestawienie na Mala Rade 07-26. Odzew lordow - RZUT przy pierwszych listach (~07-22). · _kto:_ **SYMON (kancelaria Namiestnika)** · _zamyka:_ zestawienie glosow na Mala Rade
+- **300-07-15** — FERMENT PO PRZYJECIU DZIKICH (Krol 07-15): pismo do lordow konczy sie 'kto ma obawe, pisze do Namiestnika' - kancelaria Namiestnika zbiera listy i glosy (kto, co, skad), nie gasi; zestawienie na Mala Rade 07-26. Odzew lordow - RZUT przy pierwszych listach (~07-22). · _kto:_ **SYMON (kancelaria Namiestnika)** · _zamyka:_ zestawienie glosow na Mala Rade **⚠ PRZYSZLO / ZESTAWIONE 07-26 (RZUT 50, ZALEGLY OD ~07-22 - ROZSTRZYGNIETY NA MALEJ RADZIE): 3 LISTY W RUBRYCE BERONA - UMBER, GLOVER, FLINT Z PALCA; RESZTA CISZA. ODPOWIEDZI - DO SLOWA PANA.**
 - **300-07-15** — RELACJA ZZA MURU OD LUDZI MANCE'A (list Namiestnika 07-15): co widzieli - kto, gdzie, kiedy, ilu, jak sie poruszali, co zatrzymalo, czy umarli wstawali, co pali/tnie/nie dziala; spisane albo slowo w slowo poslowi, kazdy swiadek osobno. Spotkanie - przy drzewie na Cyplu w dniu przysiegi Mance'a (czlowiek Krola). Odpowiedz - RZUT przy wiesci. · _kto:_ **MANCE RAYDER (przez poselstwo/Mur)** · _zamyka:_ relacja na pismie albo z ust posla
 - **300-07-15** — CYPEL - UMOWA ZBOZA ZA PRACE I TOWAR (slowo pana 07-15, rada Lucana): splata od PIERWSZEJ WIOSNY; towar (futra, kosc morsa, ryba suszona, drewno) i praca (wyreb/splaw, chaty i przystan, wiosla przy przeprawie, zwiad brzegu); PRZELICZNIK GAWENA - jawny, na slupie przy przystani, jeden dla kazdego ogniska; Dom nie jedynym kupcem (Korona bierze splate; Dom kupuje nadwyzke po cenie ze slupa obok innych). Do ustalenia na miejscu z ludzmi Mance'a. · _kto:_ **GAWEN (przelicznik) ; posel Krola na Cyplu** · _zamyka:_ przelicznik Gawena na pismie, gotowy do slupa
 - **300-07-15** — KONTRAKT REACH - WARUNEK ZALICZKI LORDOW (slowo pana 07-15, rada Lucana): Korona nie kredytuje panow; lord wplaca 1/3 kolumny do 08-01, reszta przy dostawie; bez wplaty - kolumna nie plynie. DO KROLA (prerogatywa - tresc kontraktu Korony; rzut przy przedlozeniu); potem pismo Gawena do jedenastu lordow. · _kto:_ **SYMON -> KROL; GAWEN -> lordowie kontraktu** · _zamyka:_ slowo Krola + pismo do lordow **⚠ ZAMKNIETE 300-07-16 - KROL, RZUT 74: TAK. KORONA NIE KREDYTUJE PANOW; 1/3 KOLUMNY DO 08-01, RESZTA PRZY DOSTAWIE; BEZ WPLATY KOLUMNA NIE PLYNIE. PISMO GAWENA DO JEDENASTU LORDOW - OSOBNY TERMIN.**
@@ -1240,7 +1239,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-26 przedpoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 86 · Zmeczenie 31**
+- **Zdrowie 100 · Sytosc 86 · Zmeczenie 32**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2562,8 +2561,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-26] `dziennik`: MALA RADA - PUNKT 2: SKAGOS. SYMON: jaka decyzja, ile zasobow, jaki scenariusz. Bez nowego rzutu (sprawa rozstrzygnieta 07-09 rzut 92, 07-10 rzut 4, 07-17 rzut 86; sklad - slowo Krola). KROL…
-- [300-07-26] `dziennik`: MALA RADA - PUNKT 3: DORZECZE (Luwin czyta kruki z Riverrun). (a) MELDUNEK EDMURE/LYMAN (rzut 57): Maidenpool ~300 Lwow - otoczone od 07-12, droga zamknieta, wozy przeszukiwane; Darry ~120 -…
 - [300-07-26] `dziennik`: MALA RADA - PUNKT 3 (cd.). SYMON: zboze dla strazy Edmure'a niech idzie przez KOMPANIE na jego udzial i z tego, co mamy - Gawen szacuje; PRZEPRASZAMY i mowimy, ze pomoc dziala w obie strony;…
 - [300-07-26] `dziennik`: MALA RADA - PUNKT 4: FREY. SYMON: myto na T1-C/D zbiera Frey; Korona budujac trakt i tak zyska wiekszy ruch przez Przesmyk i wiecej cla. Bez nowego rzutu (sprawa odpowiedzi Krola Freyowi z 0…
 - [300-07-26] `dziennik`: MALA RADA - PUNKT 5: ZARZADCA DOMENY. SYMON: kryteria - dobry organizator, koordynuje, zna sie na logistyce, potrafi w handel. Bez rzutu (ocena; nominacja - Krol, rzut przy nominacji). GAWEN…
@@ -2574,3 +2571,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-26] `dziennik`: MALA RADA (cd., zelazni) - SYMON PYTA: ILU MOZE NAJECHAC CALA ARMADA? Bez rzutu (wiedza obecnych; W ZAPISIE LICZBY CALEJ FLOTY NIE MA - wszystko ponizej to SZACUNEK (E), nie ksiega). SER ROD…
 - [300-07-26] `dziennik`: MALA RADA (cd., zelazni) - ⚑ SYMON: (1) THEON DO WINTERFELL - bez rzutu (Doradca w Dustinporcie, urzednik Korony; rozkaz Namiestnika); przyjazd ~08-07 (E). (2) WZMOCNIENIE NADZWYCZAJNE STARK…
 - [300-07-26] `dziennik`: MALA RADA (cd., zelazni) - ⚑ SYMON: ZGODA na plan Rodrika - 31 oczekujacych + ochotnicy rezerwy domeny (bezrolni, mlodsi synowie, zold Kasa 3), 2 tyg. musztry w WF, wymarsz po 08-10 na KAMIE…
+- [300-07-26] `poprawki`: POPRAWKA GM: rzut odzewu lordow na pismo o dzikich (termin 'przy pierwszych listach ~07-22') NIE zostal rzucony w terminie. Rozstrzygniety dzis na Malej Radzie (rzut 50). Listy szly do RUBRY…
+- [300-07-26] `dziennik`: MALA RADA - PUNKT 7: FERMENT LORDOW PO PISMIE O DZIKICH. RZUT 50 (zalegly, jeden na sprawe): umiarkowany. BERON czyta rubryke (listy do Namiestnika; tresc i daty E, sens z rzutu): (1) UMBER,…

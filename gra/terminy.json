@@ -11208,7 +11208,16 @@
    "kanal": "Winterfell",
    "wraca": "300-07-31",
    "zamyka": "slowo pana w trzech sprawach",
-   "status": "otwarte ### 07-30: (1) Wharton - ROZSTRZYGNIETE (wariant 3: zdjac po cichu, milczec). Zostaja: (2) Barbrey, (3) Cailin."
+   "status": "otwarte ### 07-30: (1) Wharton - rozstrzygniete; (3) Cailin - LIST PANA (faktorie, ograniczenie kupna budynkow i drenazu kapitalem, udzial w przerzucie; lawa ma wymyslic ochrone bez uderzania w kapital; potencjal za maly na Faktora; prosba o plan). Zostaje: (2) BARBREY."
+  },
+  {
+   "data": "300-07-30",
+   "co": "CAILIN - LIST PANA DO HERWINA I LAWY (07-30; gra/poczta_300_07_30.md): domy Braavos jako FAKTORIE (magazyn, kantor, ludzie, towar), nie wlasciciele; lenno OGRANICZY prawo kupowania budynkow i drenaz kapitalem; wabik - UDZIAL W PUNKCIE PRZERZUTOWYM; lawa ma wymyslic MECHANIZMY OCHRONNE bez uderzania w kapital domow; 'chcemy ich ruchu, nie kontroli'; Korona - potencjal miasta jeszcze za maly na stalego Faktora; PROSBA: lawa daje DOKLADNY PLAN zwiekszenia potencjalu, na pismie, punkt po punkcie; do omowienia przy nastepnej wizycie pana na Fosie. Kruk WF->Fosa 07-31 rano (do burmistrza). Odzew lawy - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> HERWIN SZALA + LAWA CAILIN",
+   "kanal": "kruk WF->Fosa (do burmistrza)",
+   "wraca": "300-08-04",
+   "zamyka": "odpowiedz lawy + plan potencjalu na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

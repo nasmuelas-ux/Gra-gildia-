@@ -10513,9 +10513,9 @@
    "co": "SPRAWA WHARTONA - DOM: (1) czlowiek Hala odczytuje w gospodzie przy nabrzezu jedno zdanie ('Korone trzyma Krol. Tally trzyma ksiegi. Kto chce znac sztuczke - niech przyjdzie do komory. Ksiegi sa jawne.'); (2) DOM nie przyjmuje kwitow, frachtu ani ubezpieczen Whartona do odwolania slow; (3) komora Korony - bez roznicy. Wlasni - bez rzutu na wykonanie; reakcja portu - przy meldunku Hala.",
    "kto": "SYMON -> HAL",
    "kanal": "kruk Domu Winterfell-BP",
-   "wraca": "300-07-30",
-   "zamyka": "zdanie odczytane; meldunek Hala o reakcji",
-   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu. ### 07-30 MELDUNEK HALA (rzut 9 - BARDZO ZLE): zdanie przeczytane, przyjete zle (\"Tally trzyma ksiegi i trzyma za gardlo\"); odciecie czytane jako nacisk Domu Namiestnika; DWOCH KUPCOW wycofalo frachty z Domu (E); WHARTON ZBIERA PODPISY pod skarga do Wymana TYLKO NA DOM (\"za Krola odpowiem; Dom to nie Korona\"). HAL RADZI: zdjac odciecie po cichu, zdanie zostawic, nie odpowiadac na podpisy. DO SLOWA PANA. ### 07-30: odwolanie Whartona (wyrok Wymana) czeka na zdjecie odciecia przez Dom."
+   "wraca": "300-08-05",
+   "zamyka": "odciecie zdjete + odwolanie Whartona przy wadze (meldunek Hala)",
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu. ### 07-30 MELDUNEK HALA (rzut 9 - BARDZO ZLE): zdanie przeczytane, przyjete zle (\"Tally trzyma ksiegi i trzyma za gardlo\"); odciecie czytane jako nacisk Domu Namiestnika; DWOCH KUPCOW wycofalo frachty z Domu (E); WHARTON ZBIERA PODPISY pod skarga do Wymana TYLKO NA DOM (\"za Krola odpowiem; Dom to nie Korona\"). HAL RADZI: zdjac odciecie po cichu, zdanie zostawic, nie odpowiadac na podpisy. DO SLOWA PANA. ### 07-30: odwolanie Whartona (wyrok Wymana) czeka na zdjecie odciecia przez Dom. ### 07-30 SLOWO PANA (wariant 3): ODCIECIE ZDJETE PO CICHU - Dom przyjmuje Whartona jak kazdego; ZADNEGO ogloszenia, zadnej odpowiedzi na podpisy; szpila = jego wlasne publiczne odwolanie przy wadze. Kruk do Hala jutro rano. Odwolanie - wg wyroku Wymana, tego samego dnia (wiesc Hala)."
   },
   {
    "data": "300-07-24",
@@ -11208,7 +11208,7 @@
    "kanal": "Winterfell",
    "wraca": "300-07-31",
    "zamyka": "slowo pana w trzech sprawach",
-   "status": "otwarte"
+   "status": "otwarte ### 07-30: (1) Wharton - ROZSTRZYGNIETE (wariant 3: zdjac po cichu, milczec). Zostaja: (2) Barbrey, (3) Cailin."
   }
  ],
  "_dopiski_300_03_18": [

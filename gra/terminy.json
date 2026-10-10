@@ -8274,7 +8274,7 @@
    "kanal": "poslaniec krannogow Fosa-Szara Woda",
    "wraca": "300-08-15",
    "zamyka": "odpowiedz Reeda: granica, przewodnik, znak dla jego ludzi",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA. ### 07-29 SLOWO PANA (gra/poczta_300_07_29.md): LIST DO REEDA - przeprosiny; IMIE PODANE: SYMON TALLY (odpowiedzialnosc pana, nie dziesietnika); cel stref - przemyt i clo Korony; nowa regula (rog, ostrzezenie, do lodzi krannogow nigdy); granica tylko po stronie lenna wg mapy Starkow, bez nowej; bez tyczek i przepustek po stronie krannogow; DAR: nowa lodka dla trafionego (ciesle Brana) + beczka soli + haczyki i igly. Odpowiedz Reeda - RZUT przy odpowiedzi (~08-15)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA. ### 07-29 SLOWO PANA (gra/poczta_300_07_29.md): LIST DO REEDA - przeprosiny; IMIE PODANE: SYMON TALLY (odpowiedzialnosc pana, nie dziesietnika); cel stref - przemyt i clo Korony; nowa regula (rog, ostrzezenie, do lodzi krannogow nigdy); granica tylko po stronie lenna wg mapy Starkow, bez nowej; bez tyczek i przepustek po stronie krannogow; DAR: nowa lodka dla trafionego (ciesle Brana) + beczka soli + haczyki i igly. Odpowiedz Reeda - RZUT przy odpowiedzi (~08-15). ### 07-29 TERMIN (Krol): jesli Reed nie odpisze DO 300-08-15 - Namiestnik melduje Krolowi (Krol wtedy w drodze - kruk na okret/przez Wymana); Krol napisze sam."
   },
   {
    "data": "300-06-23",
@@ -9001,9 +9001,9 @@
    "co": "CZARNY KAMIEN Z TORFIARNI FOSY - ZRODLO WLASNE SMOCZEGO SZKLA (decyzja Krola 07-09): GARRICK liczy, ile odlozono od 300-03-18, i przysyla probke do Winterfell; LUWIN sprawdza, czy to szklo (obsydian) czy zwykly kamien; jesli szklo - torfiarze odkladaja kazdy kawalek na kwit (platne z Kasy 3, zbiera Korona). ZAKAZ: zadnego szkla z kurhanow (Krol).",
    "kto": "GARRICK (Fosa) -> LUWIN (Winterfell)",
    "kanal": "kruk Winterfell-Fosa + woz z probka",
-   "wraca": "300-08-03",
+   "wraca": "300-08-04",
    "zamyka": "probka zbadana przez Luwina; ilosc na kwicie",
-   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): od 03-18 odlozono ~pol worka (E); PROBKA wozem z Fosy 07-27 -> Luwin ~08-03 (E), razem z ODLAMKIEM EDRICA z Wyspy Twarzy."
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): od 03-18 odlozono ~pol worka (E); PROBKA wozem z Fosy 07-27 -> Luwin ~08-03 (E), razem z ODLAMKIEM EDRICA z Wyspy Twarzy. ### 07-29 TERMIN (Krol): wynik Luwina - KROL PIERWSZY; probka ~08-03, Luwin bada tego samego dnia, werdykt Krolowi przed wyjazdem 08-05."
   },
   {
    "data": "300-07-09",
@@ -10380,7 +10380,7 @@
    "kanal": "kruk Winterfell-Fosa (07-22 po poludniu); odpowiedz w zbiorczym",
    "wraca": "300-09-01",
    "zamyka": "lista kandydatow u pana",
-   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): dwa nazwiska (E) - MATHIS Z FAIRMARKET (sukno, Dorzecze, kwity czyste) i EDWYN SOLNY Z SALTPANS (sol); Rorik sprawdza w komorze; Garrick szuka dalej. Lista -> pan -> Krol. ### 07-29 SLOWO PANA: Mathis z Fairmarket i Edwyn Solny - NA LISTE DLA KROLA (przedlozyc przy najblizszej rozmowie z Krolem, przed 08-05); Garrick szuka dalej. ### 07-29 PRZEDLOZONE KROLOWI (relacja pana): Mathis z Fairmarket i Edwyn Solny na liscie; KROL: wybor Cailin PO POWROCIE ZE SKAGOS, z pelniejsza lista Garricka - \"dwoch obcych to za malo, zeby wybierac\". Faktor BP - osobno (Torsen 07-30, nominacja ~08-04)."
+   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): dwa nazwiska (E) - MATHIS Z FAIRMARKET (sukno, Dorzecze, kwity czyste) i EDWYN SOLNY Z SALTPANS (sol); Rorik sprawdza w komorze; Garrick szuka dalej. Lista -> pan -> Krol. ### 07-29 SLOWO PANA: Mathis z Fairmarket i Edwyn Solny - NA LISTE DLA KROLA (przedlozyc przy najblizszej rozmowie z Krolem, przed 08-05); Garrick szuka dalej. ### 07-29 PRZEDLOZONE KROLOWI (relacja pana): Mathis z Fairmarket i Edwyn Solny na liscie; KROL: wybor Cailin PO POWROCIE ZE SKAGOS, z pelniejsza lista Garricka - \"dwoch obcych to za malo, zeby wybierac\". Faktor BP - osobno (Torsen 07-30, nominacja ~08-04). ### 07-29 TERMIN (pan przy Krolu): GARRICK - PELNA LISTA (min. piec nazwisk, kazde sprawdzone w komorze przez Rorika) DO 300-09-01 - przed powrotem Krola ze Skagos (~09-10); dopisek do dzisiejszego kruka na Fose."
   },
   {
    "data": "300-07-22",
@@ -11136,7 +11136,7 @@
    "kanal": "na miejscu; kruk Winterfell-Hornwood",
    "wraca": "300-08-12",
    "zamyka": "linia przekazana, straz Korony zdjeta",
-   "status": "otwarte"
+   "status": "otwarte ### 07-29 TERMIN: przekazanie 300-08-12 przy mierniczym Korony; straz Korony schodzi tego dnia; kruk do Donelli z data - z jutrzejsza poczta."
   },
   {
    "data": "300-07-29",

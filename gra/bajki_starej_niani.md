@@ -411,3 +411,26 @@
 *Dopisek spisującego:* Niania do mnie, kiedy dzieci wychodziły: *„Wasza lady Sansa dobrze napisała. Tylko powiedzcie jej, że w starych bajkach król nigdy nie wieszał głodnego. Wieszał tego, kto sprzedawał.”* Zgadza się to z rozróżnieniem w wyroku: mięso zjedzone, nie sprzedane.
 
 *Uwaga porządkowa (reguła Brana):* biały jeleń pojawia się po raz pierwszy. Bajka przypomina wersję o łowczym i białym jeleniu, ale ta jest Niani, z Wilczego Lasu (E). W zapisie nie ma łowczego Winterfell jako urzędu, więc Niania mówi o „dawnym zwyczaju”, a nie o dzisiejszym urzędzie.
+
+---
+
+## 22. O DURRANIE BOGOBÓLU I SIÓDMYM ZAMKU
+*Spisane 300-07-28 wieczorem, po nawałnicy, w izbie Niani. Słuchali Rickon i mały Walder, Bran był przy oknie, a Meera obok niego. Rickon zapytał: „Czy wiatr może zabrać zamek?”, bo cały dzień liczył dachówki spadające z wieży bibliotecznej.*
+
+> Może, dziecko. Raz zabrał. I to nie jeden, tylko sześć.
+>
+> Daleko na południu, nad wzburzonym morzem, żył król, który nazywał się Durran. Pokochał córkę boga morza i bogini wiatru. Miała na imię Elenei i nie była dla niego. Ale ona też go pokochała i przyszła do niego, i wzięli ślub, i tej samej nocy, w noc poślubną, jej ojciec i matka zesłali na zamek burzę. Morze wstało, wiatr przyszedł, i rano nie było zamku. Nie było nikogo, tylko Durran i Elenei na gołej skale.
+>
+> Durran zbudował drugi zamek. Burza go zabrała. Zbudował trzeci, czwarty, piąty i szósty, a każdy następny był grubszy od poprzedniego, i każdy wiatr zabrał. Dlatego nazwali go **Bogobólem**, bo bogowie przez niego cierpieli, a on przez nich.
+>
+> Siódmy zamek zbudował inaczej. Jedni mówią, że pomógł mu młody chłopak, który potem został Brandonem Budowniczym, ten sam, który postawił nasz Mur i nasze Winterfell. Drudzy mówią, że Dzieci Lasu kładły kamienie razem z nim i wplotły w nie czary. Ściany zrobili grube jak ten pokój, krągłe, bez rogów, bo wiatr chwyta się rogów, i bez jednego kamienia, który by sterczał. Burza przyszła, wyła siedem dni, i odeszła z niczym.
+>
+> Ten zamek stoi do dziś. Nazywają go **Końcem Burzy**.
+>
+> *(Rickon zapytał, czy nasza wieża ma rogi.)*
+>
+> Ma, dziecko. Dlatego zgubiła dachówki. Ale Winterfell stało, zanim tamten zamek miał imię. Ciepła woda w ścianach i kamień Budowniczego. Wiatr może zabrać dachówkę, ale Winterfell mu nie da.
+
+*Dopisek spisującego:* Kiedy Rickon zasnął na skórze przy ogniu, Bran powiedział od okna: *„Sześć razy to samo. Nie zmienił miejsca. Zmienił kształt.”* Niania odparła: *„Tak, mój mały. Głupi buduje grubiej, a mądry inaczej.”*
+
+*Uwaga porządkowa (reguła Brana):* Durran po raz pierwszy. To bajka południowa (Krainy Burzy), a jej wersja z Brandonem Budowniczym łączy się z bajką 4. Niania podaje obie wersje (Brandon i Dzieci Lasu) i nie rozstrzyga. Jest zgodna z tym, co się opowiada w kanonie.

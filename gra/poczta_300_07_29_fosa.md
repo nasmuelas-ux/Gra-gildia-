@@ -1,5 +1,5 @@
 # PACZKA Z FOSY — czytana 300-07-29 rano (Winterfell)
-_Pisane 07-26, kruk zatrzymany przez nawałnicę 07-28. Źródła: ZBIORCZY GARRICKA (07-26), RAPORT RADY LENNA (07-26, protokół Alyna), list Lucana z Dorzecza (przez Fosę), list Howlanda Reeda (posłaniec krannogów)._
+_Pisane 07-26, kruk zatrzymany przez nawałnicę 07-28. Źródła: ZBIORCZY GARRICKA (07-26), RAPORT RADY LENNA (07-26, protokół Alyna), list DERONA SUCHEGO z Rozdroża (zastępca Lucana przy łodzi Edrica; przez Fosę), list Howlanda Reeda (posłaniec krannogów)._
 _Własnych ludzi nie rzucam (zasada 7). Sprawy zewnętrzne rozstrzygnięto rzutami w gra/ukryte/rzuty.log z 300-07-29. Liczby oznaczone E to szacunki, a kwoty są w księdze Gerrika (odczyt na Dzień Bilansu 08-01, zasada 43)._
 _Garrick pisał 07-26, zanim doszły rozkazy pana z tego samego dnia (Gorący Port na wypadek żelaznych, Szare Płaszcze do lenna, huta). Odpowiedź na nie przyjdzie w następnym zbiorczym._
 
@@ -82,7 +82,8 @@ Garrick szuka dalej. Lista idzie do pana, a wybiera Król.
 
 ---
 
-## C. WYSPA TWARZY (list Lucana z Dorzecza, przez Fosę)
+## C. WYSPA TWARZY (list Derona Suchego z Rozdroża, przez Fosę)
+_Poprawka 07-29: pierwotnie zapisano „list Lucana”, ale Lucan jest w Winterfell od 07-10. Łódź Edrica prowadzi jego zastępca Deron Suchy (rozkaz z 06-09). Treść meldunku bez zmian._
 
 **Edric Szuwar, druga próba (przybił około 07-12; rzut 36, JEDNA KONSEKWENCJA):**
 - Przybił bez żelaza, nic nie ciął, a dar (chleb, sól i miód) zostawił na kamieniu pod czardrzewem. Pytanie *„Kim są Inni i czego chcą?”* zadał na głos.

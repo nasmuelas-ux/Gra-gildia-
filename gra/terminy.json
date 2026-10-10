@@ -11159,11 +11159,11 @@
   {
    "data": "300-07-29",
    "co": "SKORY ZBROJOWNI - GARBOWANIE PRZYDZIALU (~480, E): Orwyl potrzebuje skory wyprawionej, nie surowej; surowe w lipcowym cieple trzeba solic albo oddac garbarzowi szybko (zasada 8). KTO GARBUJE - do slowa pana: garbarnia Domu (umowa 07-12; usluga dla Korony na kwit) albo garbarz Zimowego Miasta (patronat). Placi Kasa 3 - kwota z kwitu garbarza (zasada 43). Garbowanie ~6-8 tygodni (E); pierwsze pasy i obicia ~IX.",
-   "kto": "ORWYL + GAWEN -> SYMON",
+   "kto": "ORWYL (sol, zaladunek) + GAWEN (kwit) + HAL (garbarnia Domu)",
    "kanal": "Winterfell",
-   "wraca": "300-08-01",
-   "zamyka": "skory u garbarza, kwit",
-   "status": "otwarte"
+   "wraca": "300-08-05",
+   "zamyka": "skory u garbarni Domu, kwit u Gawena",
+   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX."
   }
  ],
  "_dopiski_300_03_18": [

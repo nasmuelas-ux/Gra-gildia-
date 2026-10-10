@@ -10614,7 +10614,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-07-29",
    "zamyka": "zadanie oddane",
-   "status": "otwarte ### 07-28: ODROBIONE (rzut 80) - do oceny Luwina na lekcji 4 (wt. 07-29 wieczorem); ponad zadanie: czytanie zdan prawnych (80), zestawienie z czasownikami braavoskimi (38), sentencje (43)."
+   "status": "ZAMKNIETE 07-29 - lekcja 4: praca domowa oceniona DOBRZE (rzut 80); lekcja ZLE (rzut 18) - czas przeszly do powtorki."
   },
   {
    "data": "300-07-25",
@@ -11172,6 +11172,15 @@
    "kanal": "Winterfell / jezdzcy Rodwella",
    "wraca": "300-08-10",
    "zamyka": "ulga ogloszona z czynszem 08-10; zbior polozonego zboza zakonczony; poplon zasiany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-29",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 08-01 (po lekcji 4, rzut 18): czas przeszly 'byc', 'miec', 'dac' we wszystkich osobach - DWA RAZY, z pamieci, bez czytanek; obok kazdej formy - forma terazniejsza; plus trzy zdania prawne w czasie przeszlym z gramatyki (nie z czytanek). ZAKAZ CZYTANEK do odwolania Luwina. Lekcja pt. wieczorem - czas przeszly od nowa.",
+   "kto": "SYMON",
+   "kanal": "wlasna nauka",
+   "wraca": "300-08-01",
+   "zamyka": "zadanie oddane",
    "status": "otwarte"
   }
  ],

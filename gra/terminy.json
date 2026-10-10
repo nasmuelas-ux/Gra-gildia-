@@ -10947,7 +10947,7 @@
    "kanal": "osobiscie / odpisy przez kancelarie",
    "wraca": "300-09-01",
    "zamyka": "pierwsze uzasadnienie z odpisu i uwagi Cerwyna",
-   "status": "otwarte"
+   "status": "otwarte ### 07-27: pierwsza proba w sprawie Coba (rzut 34) - wyrok podpisany, PROBA NIE ZALICZONA (wyrok pomylony z rada) - nastepna sprawa."
   },
   {
    "data": "300-07-26",
@@ -11037,7 +11037,16 @@
    "kanal": "osobiscie",
    "wraca": "300-07-27",
    "zamyka": "wyjasnienie i rozstrzygniecie",
-   "status": "07-27: WYSLUCHANIE PRZEZ SANSE STARK w Winterfell (izba Justycjariusza, przed kolacja); Cerwyn przy pisarzu - czyta i podpisuje albo mowi dlaczego nie (proba szczebla III kanonu)."
+   "status": "ZAMKNIETE 07-27 (rzut 34): WYROK JUSTYCJARIUSZA (mysl lady Sansy): wina przyznana; ROK SLUZBY przy lesniczym Korony w Wilczym Lesie; skora przepada Koronie; luk zostaje Coba. Zalecenie Sansy (oglosic prawo lowow na slupach; drobna zwierzyna dla glodnych zima) - osobna karta do Namiestnika, do slowa pana. Proba III - nie zaliczona (pomylila wyrok z rada)."
+  },
+  {
+   "data": "300-07-27",
+   "co": "KARTA LADY SANSY DO NAMIESTNIKA (po wyroku w sprawie Coba): Korona winna OGLOSIC PRAWO LOWOW W WILCZYM LESIE na slupach (zasada 'nie karze, czego nie powiedziala') i POZWOLIC GLODNYM ZIMA brac drobna zwierzyne. Do slowa pana (domena - Korona; ewentualnie Krol).",
+   "kto": "SYMON <- SANSA",
+   "kanal": "osobiscie",
+   "wraca": "300-08-03",
+   "zamyka": "slowo pana: oglosic / nie / do Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -11100,7 +11100,7 @@
    "kanal": "Winterfell / jezdzcy Rodwella",
    "wraca": "300-07-29",
    "zamyka": "skala szkod w polu + naprawy zlecone",
-   "status": "otwarte ### 07-29 RODWELL (meldunek, bez rzutu - skala z rzutu 23): pas gradu przez CZTERY WSIE okregu I na zachod od ZM (E); w pasie jeczmien i owies polozone - ~1/3 do 1/2 kloska stracone (E), reszta do zebrania sierpem, wolniej; na caly okreg I strata ~1/8 plonu (E); zyto ozime w wiekszosci juz zebrane. Wieza - dachowkarze; ZM - strzechy poprawione, ranny opatrzony. OGRODNIK - miary ram: ~40 szyb w trzech rozmiarach (E: 24 male, 12 srednich, 4 duze) - lista do Hala z jutrzejsza poczta. DO SLOWA PANA: (1) ulga w czynszu dla czterech wsi (rok proby czynszu do wyboru w okregu I); (2) rece do zbioru polozonego zboza; (3) poplon - rzepa/brukiew zaraz po zbiorze (nasiona z magazynu)."
+   "status": "ZAMKNIETE 07-29 - skala znana (Rodwell), naprawy zlecone; SLOWO PANA (wersja zrownowazona) - patrz GRAD OKREG I - POMOC. Szklo - osobna pozycja (Hal). ram: ~40 szyb w trzech rozmiarach (E: 24 male, 12 srednich, 4 duze) - lista do Hala z jutrzejsza poczta. DO SLOWA PANA: (1) ulga w czynszu dla czterech wsi (rok proby czynszu do wyboru w okregu I); (2) rece do zbioru polozonego zboza; (3) poplon - rzepa/brukiew zaraz po zbiorze (nasiona z magazynu)."
   },
   {
    "data": "300-07-28",
@@ -11164,6 +11164,15 @@
    "wraca": "300-08-05",
    "zamyka": "skory u garbarni Domu, kwit u Gawena",
    "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX."
+  },
+  {
+   "data": "300-07-29",
+   "co": "GRAD OKREG I - POMOC (slowo pana 07-29, wersja zrownowazona): (1) ULGA W CZYNSZU dla CZTERECH WSI z pasa gradu - czynsz tego roku OBNIZONY o tyle, ile stracily (oglednik Rodwella na polu, wies po wsi; E ~1/3), reszta pobierana normalnie ~09-15; w ksiedze proby czynszu do wyboru zaznaczone osobno ('grad'), zeby proba liczyla sie bez nich; reszta okregu I - bez ulgi. (2) RECE DO ZBIORU - najpierw sasiedzi z wsi bez gradu (zwyczaj); brakujace rece na DNIOWKE Korony (Kasa 3, bezrolni z ZM przez Rodwella; kwota z ksiegi Gawena) - tylko na polozone zboze, tylko w czterech wsiach. (3) POPLON - nasiona rzepy/brukwi z magazynu zamku jako POZYCZKA W NATURZE, zwrot z przyszlorocznego zbioru (bez procentu); sieja po zbiorze. Ogloszenie ulgi - razem z ogloszeniem czynszu 08-10.",
+   "kto": "RODWELL (+ GAWEN - ksiega, kasztelan - nasiona)",
+   "kanal": "Winterfell / jezdzcy Rodwella",
+   "wraca": "300-08-10",
+   "zamyka": "ulga ogloszona z czynszem 08-10; zbior polozonego zboza zakonczony; poplon zasiany",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

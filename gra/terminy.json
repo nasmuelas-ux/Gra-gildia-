@@ -7560,7 +7560,7 @@
    "kanal": "na miejscu",
    "wraca": "300-08-09",
    "zamyka": "pierwsza fala przyjeta imiennie (rzut) + kosztorys",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 14 - ZLE): PIERWSZA FALA - 9 zamiast 30 (E), dwoch odeszlo po zoldzie; ludzie ida do Hendry'ego i na dniowki zniwne; Kessel ma ~27 (E). DO SLOWA PANA: warunki / druga fala."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 14 - ZLE): PIERWSZA FALA - 9 zamiast 30 (E), dwoch odeszlo po zoldzie; ludzie ida do Hendry'ego i na dniowki zniwne; Kessel ma ~27 (E). DO SLOWA PANA: warunki / druga fala. ### 07-29 SLOWO PANA: OK - wg planu Kessela; druga fala do X; dziesieciu z druzyny na ulicach do pelnej fali."
   },
   {
    "data": "300-06-19",
@@ -7648,9 +7648,9 @@
    "co": "WERBUNEK PISZACYCH DLA KANCELARII LENNA (rozkaz pana 06-19): KONTRAKTY na pismie (rok, stawka z ksiegi lenna) i DWIE WYPLATY Z GORY przy podpisie; ogloszenie na slupach w Cailin i przy bramie, wiesc przez kupcow i wozakow na trakt i do Bialego Portu, przez septy (lowcy talentow Miry). 'Niech wiesc sie niesie, ze Fosa potrzebuje piszacych.' Podpisuje GARRICK. Odzew - wola wolnych ludzi: RZUT przy pierwszym meldunku. ZASADA 8 (do wiedzy pana): (a) dwie wyplaty z gory - kontrakt musi miec zwrot zaliczki przy zerwaniu, inaczej ktos wezmie i pojdzie; (b) Cech Pisarzy Bialego Portu (Harwin, wrog od 297) zobaczy, ze Fosa podkupuje mu ludzi; (c) ci sami ludzie sa potrzebni skryptorium i szkole. ### 06-19 PAN (doktryna): 'NIE PODKUPUJEMY, TYLKO ZACHECAMY - MAJA WOLNA WOLE.' W ogloszeniu i w listach: zaproszenie, nie wyciaganie; nikogo nie zrywa sie z kontraktu u innego pana ani cechu (kto ma umowe - konczy ja, potem przychodzi). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "GARRICK (+ regent kancelarii)",
    "kanal": "slupy Cailin, trakt, Bialy Port (Hal), septy",
-   "wraca": "300-08-09",
+   "wraca": "300-08-16",
    "zamyka": "ilu podpisalo kontrakt imiennie (rzut)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 5 - BARDZO ZLE): podpisalo DWOCH (mlodzi, od septona z traktu); z BP nikt - CECH PISARZY BP (Harwin) oglosil: kto pojdzie pisac na Fose, wypada z cechu. DO SLOWA PANA."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 5 - BARDZO ZLE): podpisalo DWOCH (mlodzi, od septona z traktu); z BP nikt - CECH PISARZY BP (Harwin) oglosil: kto pojdzie pisac na Fose, wypada z cechu. DO SLOWA PANA. ### 07-29 SLOWO PANA: odpowiedz na Cech Pisarzy BP - PATRONAT SPECJALNY LENNA nad BRACTWEM PISARZY W CAILIN + 50 JELENI NA START dla kazdego nowego czlonka (Kasa 2); dopisane do ogloszenia (slupy, septy, wozacy Domu). Odzew - przy nastepnym meldunku."
   },
   {
    "data": "300-06-19",
@@ -7659,7 +7659,7 @@
    "kanal": "na miejscu",
    "wraca": "300-08-15",
    "zamyka": "bractwo zalozone wlasnym statutem (rzut) albo jeszcze nie",
-   "status": "otwarte"
+   "status": "otwarte ### 07-29 SLOWO PANA: PATRONAT SPECJALNY LENNA; kazdy nowy czlonek - 50 jel na start od lenna (Kasa 2); bractwo niezalezne, statut ich."
   },
   {
    "data": "300-06-19",
@@ -7756,9 +7756,9 @@
    "co": "WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): Warryn+Orbelo: zapas wapna budowy na ~2 miesiace przy obecnej zaprawie; bielenie wstrzymane poza lecznica i szkola; kamien wapienny - najblizszy LOM na polnoc od Przesmyku, ~2 dni wozem (ziemie Barrowlandow - zgoda lady Barbrey potrzebna) albo KUPNO w Bialym Porcie (barki - jak u Borsa, spoznione); WAPIENNIK WLASNY przy lomie - E 25-40 smokow + ludzie. ZASADA 8: Bors juz kupuje wapno od Cerwynow, pozyczka w materiale dla Cailin tez zje wapno. Do slowa pana: lom Barbrey + wapiennik czy kupno w BP. ### 07-09 SLOWO PANA: LOM NA ZIEMI LADY BARBREY + WLASNY WAPIENNIK przy lomie (Warryn+Orbelo; E 25-40 + ludzie). List pana do lady Barbrey (kruk Winterfell-Barrowton dzis) - zgoda na lom: RZUT przy odpowiedzi. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "WARRYN + ORBELO",
    "kanal": "na miejscu",
-   "wraca": "300-08-05",
+   "wraca": "300-08-16",
    "zamyka": "zgoda Barbrey + wapiennik w budowie (albo odmowa i kupno w BP)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapas ~miesiac (E); OD BARBREY BRAK ODPOWIEDZI O LOM (list pana 07-09) - dzisiejszy list Barbrey o lomie milczy. Warryn pyta: kupic w BP? DO SLOWA PANA."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapas ~miesiac (E); OD BARBREY BRAK ODPOWIEDZI O LOM (list pana 07-09) - dzisiejszy list Barbrey o lomie milczy. Warryn pyta: kupic w BP? DO SLOWA PANA. ### 07-29 SLOWO PANA: SCIAGAC WAPNO Z BIALEGO PORTU barkami (Warryn przez Hala; ilosc wg zaprawy; Kasa 2); lom Barbrey - otwarte."
   },
   {
    "data": "300-06-19",
@@ -8013,7 +8013,7 @@
    "kanal": "na miejscu",
    "wraca": "300-08-09",
    "zamyka": "pierwsza fala Jastrzebi na miejscu - druzyna wraca do twierdzy",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: zostaja dluzej - pierwsza fala Jastrzebi slaba (rzut 14)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: zostaja dluzej - pierwsza fala Jastrzebi slaba (rzut 14). ### 07-29 pan: zostaja do pierwszej pelnej fali."
   },
   {
    "data": "300-06-21",
@@ -8263,18 +8263,18 @@
    "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (1) MAPA BAGNA LENNA - kanaly, kepy, gardla, torfowiska, brody, szlaki krannogow; skala i nazwy; dwa egzemplarze (Fosa + Winterfell). Prowadzi KESSEL (lodzie, ludzie znad wody) + pisarz z kancelarii (rysunek) + JORREN LUT (torfowiska) + PRZEWODNIK KRANNOG (przez Reeda - bez niego mapa ma dziury tam, gdzie woda jest ich). Wlasni - bez rzutu; przewodnik - wola Reeda (pkt 2).",
    "kto": "KESSEL + pisarz kancelarii + JORREN LUT",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "mapa bagna lenna na stole pana",
-   "status": "otwarte ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA."
+   "status": "otwarte ### 07-29 (zbiorczy 07-26): mapa bagna - w toku (E); wynik w nastepnym zbiorczym. [POPRAWKA GM 07-29: wpis o liscie Reeda przeniesiony do pozycji (2) - pomylka przy zapisie.]"
   },
   {
    "data": "300-06-23",
    "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (2) GRANICA Z REEDAMI (Szara Woda) - OZNACZYC: list pana do HOWLANDA REEDA (Garrick spisuje, pieczec lenna): propozycja wspolnego oznaczenia granicy wody lenna i wody krannogow (tyczki z pomaranczowym znakiem po stronie lenna), przewodnik krannog do mapy, ZNAK/PRZEPUSTKA dla ludzi Reeda w strefach lenna (zeby zaden krannog nie dostal belta). Granica dwoch lenn = zgoda obu; spor - Justycjariusz. Kanal: poslaniec krannogow. Wola Reeda - RZUT przy odpowiedzi. ### 06-24: ulewa (pogoda 18) - poslaniec krannogow z listem do Reeda i odpisem prawa wody wyrusza 06-25 o swicie. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> HOWLAND REED (Garrick pisze)",
    "kanal": "poslaniec krannogow Fosa-Szara Woda",
-   "wraca": "300-07-29",
+   "wraca": "300-08-15",
    "zamyka": "odpowiedz Reeda: granica, przewodnik, znak dla jego ludzi",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA. ### 07-29 SLOWO PANA (gra/poczta_300_07_29.md): LIST DO REEDA - przeprosiny; IMIE PODANE: SYMON TALLY (odpowiedzialnosc pana, nie dziesietnika); cel stref - przemyt i clo Korony; nowa regula (rog, ostrzezenie, do lodzi krannogow nigdy); granica tylko po stronie lenna wg mapy Starkow, bez nowej; bez tyczek i przepustek po stronie krannogow; DAR: nowa lodka dla trafionego (ciesle Brana) + beczka soli + haczyki i igly. Odpowiedz Reeda - RZUT przy odpowiedzi (~08-15)."
   },
   {
    "data": "300-06-23",
@@ -10189,9 +10189,9 @@
    "co": "WLASNY WARSZTAT KUSZNICZY LENNA W CAILIN (polecenie pana 07-20): siły lenna (druzyna, Jastrzebie) strzelaja glownie z kusz - lenno powoluje WLASNY warsztat kuszniczy na DZIALCE KUPIONEJ W CAILIN. Rada lenna: (1) WYCENA (dzialka, budynek, narzedzia, ludzie; Warryn, Gerrik liczy) - kwot z glowy brak; (2) POSZUKANIE SPECJALISTOW - kusznikow-rzemieslnikow (Brusk robi dzis kusze w kuzni miasta; Benn Kusznik uczy strzelac z lodzi - strzelec, nie rzemieslnik). Odpowiedz w raporcie rady po sobocie 07-26.",
    "kto": "SYMON -> RADA LENNA (Garrick, Warryn, Hendry, Kessel)",
    "kanal": "kruk Domu Winterfell -> Fosa, 07-21 rano",
-   "wraca": "300-08-01",
+   "wraca": "300-08-09",
    "zamyka": "wycena + lista specjalistow - RZUT na znalezienie specjalistow przy raporcie",
-   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (raport rady 07-26; rzut 66 - TAK): majster BRUSK; TOBIN Z KAMIENNEGO MLYNA (E, przybysz, kusznik-rzemieslnik); Benn Kusznik - proby; wycena Warryna niepelna (budynek/narzedzia na oko, dzialka - cena lawy; ksiega 08-01). DO SLOWA PANA: kupic dzialke teraz?"
+   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (raport rady 07-26; rzut 66 - TAK): majster BRUSK; TOBIN Z KAMIENNEGO MLYNA (E, przybysz, kusznik-rzemieslnik); Benn Kusznik - proby; wycena Warryna niepelna (budynek/narzedzia na oko, dzialka - cena lawy; ksiega 08-01). DO SLOWA PANA: kupic dzialke teraz? ### 07-29 SLOWO PANA: DZIALKE KUPIC OD CAILIN (lawa, cena miasta); majster Brusk + Tobin; proby Benn."
   },
   {
    "data": "300-07-21",
@@ -10380,7 +10380,7 @@
    "kanal": "kruk Winterfell-Fosa (07-22 po poludniu); odpowiedz w zbiorczym",
    "wraca": "300-08-09",
    "zamyka": "lista kandydatow u pana",
-   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): dwa nazwiska (E) - MATHIS Z FAIRMARKET (sukno, Dorzecze, kwity czyste) i EDWYN SOLNY Z SALTPANS (sol); Rorik sprawdza w komorze; Garrick szuka dalej. Lista -> pan -> Krol."
+   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): dwa nazwiska (E) - MATHIS Z FAIRMARKET (sukno, Dorzecze, kwity czyste) i EDWYN SOLNY Z SALTPANS (sol); Rorik sprawdza w komorze; Garrick szuka dalej. Lista -> pan -> Krol. ### 07-29 SLOWO PANA: Mathis z Fairmarket i Edwyn Solny - NA LISTE DLA KROLA (przedlozyc przy najblizszej rozmowie z Krolem, przed 08-05); Garrick szuka dalej."
   },
   {
    "data": "300-07-22",
@@ -11136,6 +11136,24 @@
    "kanal": "na miejscu; kruk Winterfell-Hornwood",
    "wraca": "300-08-12",
    "zamyka": "linia przekazana, straz Korony zdjeta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-29",
+   "co": "WYSPA TWARZY - PRZERWA (slowo pana 07-29): trzeciej proby nie ma; nikt z lenna nie plywa na Oko Boga do odwolania; jezdziec do Lucana - podziekowanie i zaplata Edricowi i Tamowi wg umowy. Odlamek Edrica jedzie do Luwina (~08-03).",
+   "kto": "GARRICK -> LUCAN",
+   "kanal": "kruk WF-Fosa + jezdziec przez Przesmyk",
+   "wraca": "300-08-03",
+   "zamyka": "odlamek u Luwina zbadany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-29",
+   "co": "REGULA STRZALU W STREFACH LENNA (slowo pana 07-29, rozstrzyga rozbieznosc Kessel/Hendry): rog, drugi rog; do lodzi krannogow (plaskodenne, bez swiatla) NIGDY; belt tylko w obronie zycia; niezatrzymana lodz - zapis miejsca i czasu, trop za dnia. Granica - tyczki tylko po stronie lenna, linia z mapy nadania Starkow.",
+   "kto": "KESSEL (+ Hendry, Garrick)",
+   "kanal": "kruk WF-Fosa 07-29",
+   "wraca": "300-08-09",
+   "zamyka": "regula ogloszona kazdej lodzi Jastrzebi (zbiorczy)",
    "status": "otwarte"
   }
  ],

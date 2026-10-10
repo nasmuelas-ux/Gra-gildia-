@@ -10957,6 +10957,15 @@
    "wraca": "300-08-03",
    "zamyka": "Owen w Winterfell",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "ARYA - ROZMOWA Z MATKA O KUZNI (sama; slowo Symona po obiedzie, rzut 50): wieczorem, po rozmowie Catelyn z Sansa. Zakaz kuzni trwa do tej rozmowy. Wynik - rzut przy rozmowie.",
+   "kto": "ARYA + LADY CATELYN",
+   "kanal": "osobiscie",
+   "wraca": "300-07-27",
+   "zamyka": "decyzja Catelyn o kuzni",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

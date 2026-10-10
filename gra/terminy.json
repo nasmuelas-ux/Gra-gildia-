@@ -6120,7 +6120,7 @@
    "kanal": "Winterfell / Zimowe Miasto",
    "wraca": "300-07-27",
    "zamyka": "zawody odbyte, zwyciezca imiennie na slupie",
-   "status": "07-27 (rzut 7): zwyciezca COB JEZYNA (E) - klusownik (lesniczy Korony: dwa jelenie Krola zima); tlum po stronie Coba; wreczenie wstrzymane - DO SLOWA NAMIESTNIKA na miejscu."
+   "status": "ZAMKNIETE 07-27: zwyciezca COB JEZYNA (E) - luk Korony z rak Aryi, imie na slupie targowym; oskarzenie lesniczego (dwa jelenie Krola zima) - OSOBNO: Cob idzie z panem zlozyc wyjasnienie (rzut 90 - plac: 'uczciwie')."
   },
   {
    "data": "300-05-24",
@@ -11028,6 +11028,15 @@
    "kanal": "kruki WF->BP i WF->Fosa (rano 07-27); przysiega - osobiscie w WF",
    "wraca": "300-08-01",
    "zamyka": "pozycja w ksiedze lenna + przysiega",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-27",
+   "co": "COB JEZYNA - WYJASNIENIE (oskarzenie lesniczego Korony z Wilczego Lasu: dwa jelenie Krola zima pod Kamiennym Rowem; slady i skora z szopy). Cob idzie z panem z wlasnej woli. Zasada kodeksu: 'Korona nie karze czlowieka za to, czego mu nie powiedziala' - czy prawo lowow w Wilczym Lesie bylo znane (zwyczaj sprzed Korony). Rozstrzygniecie - do slowa pana / Justycjariusza.",
+   "kto": "SYMON (Namiestnik) - COB JEZYNA, LESNICZY KORONY",
+   "kanal": "osobiscie",
+   "wraca": "300-07-27",
+   "zamyka": "wyjasnienie i rozstrzygniecie",
    "status": "otwarte"
   }
  ],

@@ -9741,7 +9741,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-26",
    "zamyka": "pan zleca przeglad albo odklada",
-   "status": "otwarte"
+   "status": "ZLECONE I ZACZETE 07-26 (pan): szkic Luwina z Bryndenem przy stole - gra/kadry_korony_przeglad_300_07_26.md; Theomore krukiem (~08-02); piec decyzji na Mala Rade 08-09"
   },
   {
    "data": "300-07-17",
@@ -10965,6 +10965,24 @@
    "kanal": "osobiscie",
    "wraca": "300-07-27",
    "zamyka": "decyzja Catelyn o kuzni",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "KADRY KORONY - THEOMORE DOPISUJE SIE DO PRZEGLADU (kruk Luwina 07-26): kogo Glebokorzen da na lacznosc i infrastrukture, jak widzi pocztmistrzow (maester czy pisarz pod maesterem).",
+   "kto": "THEOMORE",
+   "kanal": "kruk WF->Nowy Zamek (lancuch maesterski)",
+   "wraca": "300-08-02",
+   "zamyka": "odpowiedz Theomore'a",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-09",
+   "co": "KADRY KORONY - PIEC DECYZJI NA MALA RADE POD NAMIESTNIKIEM: (1) ochmistrz Korpusu Podopiecznych; (2) izba uczniowska przy szkole ZM; (3) Akademia - pula 8+4 (E) i cena miejsca (Gawen); (4) klauzula o uczniu w umowach patronatu; (5) jeden rejestr kadr w Kancelarii (Beron).",
+   "kto": "LUWIN (przedklada) -> MALA RADA",
+   "kanal": "osobiscie",
+   "wraca": "300-08-09",
+   "zamyka": "decyzje na Radzie",
    "status": "otwarte"
   }
  ],

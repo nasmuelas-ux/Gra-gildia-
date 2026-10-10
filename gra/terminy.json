@@ -10885,6 +10885,42 @@
    "wraca": "300-08-10",
    "zamyka": "blokady stoja",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "ODPOWIEDZI NA FERMENT - Umber, Glover, Flint z Palca (gra/ferment_odpowiedzi_300_07_26.md); Krol rzut 35: warunki dla wodzow oglasza Krol przy drzewie. Odzew lordow - rzut przy odpowiedzi.",
+   "kto": "UMBER / GLOVER / FLINT Z PALCA",
+   "kanal": "kruki z Winterfell",
+   "wraca": "300-08-01",
+   "zamyka": "odpowiedzi trzech lordow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-27",
+   "co": "POSLANCY KORONY DO KLANOW GOR (Wull, Norrey, Liddle, Flint, Burley, Harclay) - ustnie, zdanie klanow o wolnych ludziach; po jednym posle na klan. Odpowiedz ustnie - rzut przy powrocie.",
+   "kto": "kancelaria Namiestnika (poslancy Korony, E)",
+   "kanal": "jezdzcy, ustnie",
+   "wraca": "300-08-10",
+   "zamyka": "zdania szesciu klanow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "WARUNKI DLA WODZOW WOLNYCH LUDZI (projekt pana, do przedlozenia przez Krola przy drzewie na Cyplu): wodz wydaje winnego sedziemu lorda albo placi szkode podwojnie z przydzialu; wodz odpowiada glowa za spokoj ogniska; proporce i latarnie lodzi; Sad Rozjemczy (kasztelan lorda + rozjemca Korony + starosta wolnych ludzi).",
+   "kto": "KROL (przy przysiedze)",
+   "kanal": "na miejscu",
+   "wraca": "300-09-15",
+   "zamyka": "ogloszone przy drzewie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "CYPEL - ROZJEMCA KORONY NA STALE Z GARNIZONEM + GRANICA NADANIA (mierniczy Korony + Holt Sosna) - obsada rozjemcy do wskazania (zasada 12).",
+   "kto": "NAMIESTNIK / KROL",
+   "kanal": "—",
+   "wraca": "300-08-23",
+   "zamyka": "rozjemca wskazany, granica wytyczona",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

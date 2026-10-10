@@ -392,3 +392,22 @@
 *Dopisek spisującego:* Niania do mnie, przy drutach: *„Słyszałam, że kupujecie ziarno za morzem. Kupujcie to, co rośnie u nich najbliżej zimy, a nie to, co najładniejsze. Ładne ziarno umiera pierwsze.”* Zgadza się to z warunkiem Gawena z 07-20: tylko odmiany północne, najpierw próbka, bo ziarno z Pentos zmarzło 06-18.
 
 *Uwaga porządkowa (reguła Brana):* Garth po raz pierwszy. To bajka z południa w wersji Niani, a jej zakończenie (selekcja ziarna) jest północne.
+
+## 21. O BIAŁYM JELENIU Z WILCZEGO LASU
+*Spisane 300-07-27 wieczorem, w izbie Niani. Słuchali Rickon, mały Walder i Arya, która przyszła sama „na jedną bajkę”. Bran był przy oknie, Jojen przy drzwiach. Niania słyszała już o Cobie Jeżynie: „całe Zimowe Miasto gada”.*
+
+> Dawno temu, za króla, którego imienia nikt już nie pamięta, przyszła zima tak długa, że w Zimowym Mieście jedli rzemienie. Żył tam człowiek, który miał troje dzieci i jeden łuk. Poszedł do Wilczego Lasu, choć wiedział, że las jest królewski.
+>
+> A w lesie chodził biały jeleń. Był biały jak śnieg, z rogami jak czardrzewo, i mówiono, że to jeleń starych bogów: kto go zabije, ten umrze przed wiosną. Człowiek z łukiem nie zabił białego. Zabił szarego, który szedł za białym, i zaniósł mięso dzieciom.
+>
+> Leśniczowie króla poszli po śladach i przyprowadzili go do Winterfell. Król siedział w sali, tej samej co dziś, i zapytał: „Wiedziałeś, że las jest mój?” Człowiek odpowiedział: „Wiedziałem.” — „A białego widziałeś?” — „Widziałem.” — „Czemu go nie zabiłeś? Był bliżej.” — „Bo biały nie jest twój, panie. Jest ich.” I pokazał ręką na drzewo.
+>
+> Król długo milczał. Potem powiedział: „Kto w głodną zimę umie odróżnić jelenia króla od jelenia bogów, ten nie jest złodziejem. Ten jest łowczym.” I zrobił go swoim łowczym. Od tej pory w Winterfell łowczy zawsze był człowiekiem z Zimowego Miasta, a nie lordem.
+>
+> *(Arya zapytała, czy Cob też zostanie łowczym.)*
+>
+> Nie wiem, dziecko. Najpierw niech przesłuży rok przy leśniczym. Dopiero potem zobaczymy, czy odróżnia jelenie.
+
+*Dopisek spisującego:* Niania do mnie, kiedy dzieci wychodziły: *„Wasza lady Sansa dobrze napisała. Tylko powiedzcie jej, że w starych bajkach król nigdy nie wieszał głodnego. Wieszał tego, kto sprzedawał.”* Zgadza się to z rozróżnieniem w wyroku: mięso zjedzone, nie sprzedane.
+
+*Uwaga porządkowa (reguła Brana):* biały jeleń pojawia się po raz pierwszy. Bajka przypomina wersję o łowczym i białym jeleniu, ale ta jest Niani, z Wilczego Lasu (E). W zapisie nie ma łowczego Winterfell jako urzędu, więc Niania mówi o „dawnym zwyczaju”, a nie o dzisiejszym urzędzie.

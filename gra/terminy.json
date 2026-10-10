@@ -11011,6 +11011,15 @@
    "wraca": "300-07-30",
    "zamyka": "odpowiedz burmistrza",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "ROZPOZNANIE PATRYCJATU - ZIMOWE MIASTO, CAILIN, BARROWTON, BIALY PORT (zlecenie pana 07-26). WILLA prowadzi (karta POLNOC - nowa rubryka PATRYCJAT), HAL dokłada BP i Barrowton z ksiag kantoru, LUCAN czyta i zestawia. NA KAZDE MIASTO: 5-10 rodow kupieckich i cechowych - czym handluja, skala majatku (maly/sredni/duzy), miejsce w lawie/radzie miasta, z kim powiazani (lord, Dom Tally, obcy dom), kto komu winien, stosunek do Korony i do Domu. 'Sluchac, nie pytac' - bez imienia Korony. Czesciowo w karcie 08-01 (co juz wiadomo), pelne - w karcie 09-01. Jakosc - RZUT przy oddaniu.",
+   "kto": "WILLA (+ HAL, LUCAN)",
+   "kanal": "kruk WF->Fosa pod pieczecia domowa i szyfrem Willi; Hal - kruk WF->BP",
+   "wraca": "300-09-01",
+   "zamyka": "rubryka PATRYCJAT dla czterech miast w karcie Willi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

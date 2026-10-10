@@ -7254,7 +7254,7 @@
    "kanal": "kruk Barrowton-Winterfell",
    "wraca": "300-07-29",
    "zamyka": "uchwala lawy",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 - UCHWALA LAWY (rzut 42, jedna konsekwencja): postoj skladowy uchwalony wg propozycji (Reach 1 dzien, BP 3 dni), ALE od 1 dnia X - po jarmarku zniwnym (E); odpis uchwaly od Barbrey."
   },
   {
    "data": "300-06-12",
@@ -10551,7 +10551,7 @@
    "kanal": "kruk Winterfell-Hornwood",
    "wraca": "300-07-29",
    "zamyka": "odpowiedz Donelli (rzut)",
-   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 - ODPOWIEDZ DONELLI PRZYSZLA (rzut 60): TAK - Hornwood stawia wlasne znaki i straz na linii slupow; ludzie Hornwoodu na granicy ~08-12 (E); prosi, by straz Korony stala do dnia przejecia i przekazala linie z rak do rak przy mierniczym. Nastepny krok - termin przekazania (do slowa pana)."
   },
   {
    "data": "300-07-25",
@@ -11128,6 +11128,15 @@
    "wraca": "300-09-15",
    "zamyka": "mistrz zatrudniony + miejsce i surowiec ustalone",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-29",
+   "co": "HORNWOOD - PRZEKAZANIE LINII SLUPOW (po odpowiedzi Donelli 07-29): straz Korony stoi do dnia przejecia; przekazanie z rak do rak przy mierniczym Korony; ludzie Hornwoodu ~08-12 (E).",
+   "kto": "STRAZ KORONY + MIERNICZY <-> HORNWOOD",
+   "kanal": "na miejscu; kruk Winterfell-Hornwood",
+   "wraca": "300-08-12",
+   "zamyka": "linia przekazana, straz Korony zdjeta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -11224,7 +11233,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-07-21",
+   "ostatnio_odebrane": "300-07-26",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29"
   },
@@ -11361,7 +11370,7 @@
     "start": "300-07-19"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-07-21",
+   "ostatnio_odebrane": "300-07-26",
    "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29"
   },

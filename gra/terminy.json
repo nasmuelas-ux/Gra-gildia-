@@ -3283,7 +3283,7 @@
    "kanal": "wlasny czlowiek na Fosie",
    "wraca": "300-07-29",
    "zamyka": "budowa ruszyla",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34).",
+   "status": "ZAMKNIETE 07-29 (zbiorczy 07-26): BUDOWA RUSZYLA - szopa ciesli Korony stoi od 07-17 (E), Karhold dal czterech ludzi po sianokosach (E), pomost pod wage w budowie.",
    "sprawdzaj_co": 30
   },
   {
@@ -5335,9 +5335,9 @@
    "co": "REZERWA LENNA I SZKOLENIE - Hendry zaczyna tworzyc rezerwe (pospolite ruszenie lenna: spis przy ruszeniu, dni cwiczen); obecny garnizon szkoli. Spojnosc z planem rezerwy Korony (Osric ~05-24). ### 06-19 HENDRY: spis ruszenia po sianokosach (wsie przy kosach) - ~07-25. ### 06-21: PLAN SPISANY - gra/plan_druzyny_i_ruszenia_fosy_300_06.md (druzyna zawodowa, rekruci, proba co pol roku, szkola dowodzenia, ruszenie lenna).",
    "kto": "HENDRY + (Osric - wzor)",
    "kanal": "meldunek zbiorczy Garricka",
-   "wraca": "300-07-29",
+   "wraca": "300-08-05",
    "zamyka": "spis rezerwy lenna i kalendarz cwiczen na pismie",
-   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): spis ruszenia w 2/3 wsi, ~340 zdolnych 16-50 (E); reszta ~08-05. Kalendarz cwiczen - po spisie."
   },
   {
    "data": "300-05-14",
@@ -5416,9 +5416,9 @@
    "co": "ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'). Kolejnosc: mur od strony morza i wieza z ogniem (punkt lancucha, karta ognia) PRZED ludzmi Hendry'ego (100 - wchodza, gdy mur stoi; rada Krola 05-14); kamien z wlasnego lomu (Harlon). Nic poza tym na teraz (zadnych skladow i targu). Wlasni ludzie - bez rzutu. NAZEWNICTWO: Goracy Port = ZACHOD (ujscie Goraczki, Zatoka Plonacej Wody); PORT WSCHODNI = Ujscie Tally-Manderly na koncu przewloki (wschod); STARKPORT = port Korony na Kamienistym Brzegu. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): Harlon (zbiorczy Garricka 06-14): mur od strony morza - fundament na calej dlugosci, sciana do ~1/3 wysokosci (E); wieza z ogniem - fundament; granit Flinta: szosta lodz w Goracym Porcie. Ludzie Hendry'ego czekaja, az mur stanie. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "HARLON Z BRODU (+ Garrick, Hendry)",
    "kanal": "kruk Winterfell-Fosa (05-16) + robota na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-04",
    "zamyka": "mur od morza i wieza stoja; Hendry moze wprowadzic ludzi",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): mur od morza na dwie wysokosci czlowieka (E), wieza ognia do pierwszego pietra (E), GP-1 pomiary ujscia skonczone; setka czeka. Rozkaz 07-26 (zelazni) doszedl na Fose 07-27 - odpowiedz w nastepnym zbiorczym."
   },
   {
    "data": "300-05-16",
@@ -5947,9 +5947,9 @@
    "co": "OSIEM BUDOW - CHECKPOINTY Z KARTY (harmonogram wlasny urzedu): spichlerze wiejskie start 06-05, piec pierwszych z ksiega 07-15; kwatery/stajnie/zbrojownia start 06-10, pod dachem 09-01; wieze zamku (Orbelo) start 07-01, pierwsza z 17 do pelnej wysokosci 10-15; trzy wielkie spichlerze start 07-15. Meldunek w zbiorczym Garricka. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "GARRICK / WARRYN / ORBELO",
    "kanal": "zbiorczy Garricka co 7 dni",
-   "wraca": "300-07-29",
+   "wraca": "300-08-04",
    "zamyka": "piec spichlerzy wiejskich z ksiega (pierwszy checkpoint twardy)",
-   "status": "otwarte ### otwarte - zbiorczy 07-19: PIEC SPICHLERZY WIEJSKICH STOI, CZTERY Z KSIEGA I KLUCZNIKIEM; piaty (wies na mokradlach) bez klucznika - nikt we wsi nie pisze (Mella szuka). Trzy wielkie spichlerze - wykop pod pierwszy (od 07-15). ### 07-26: zbiorczy Garricka (pisany dzis) ~07-28. ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### otwarte - zbiorczy 07-19: PIEC SPICHLERZY WIEJSKICH STOI, CZTERY Z KSIEGA I KLUCZNIKIEM; piaty (wies na mokradlach) bez klucznika - nikt we wsi nie pisze (Mella szuka). Trzy wielkie spichlerze - wykop pod pierwszy (od 07-15). ### 07-26: zbiorczy Garricka (pisany dzis) ~07-28. ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): SPICHLERZE WIEJSKIE 5/5 z ksiega i klucznikiem (piaty - Tilda, E, ze szkoly Mabel) - PIERWSZY CHECKPOINT ZAMKNIETY; wielkie spichlerze - fundament pierwszego; kwatery/stajnie/zbrojownia - sciany pelne, wiezba; wieze Orbelo - pierwsza do ~1/3 (E)."
   },
   {
    "data": "300-05-22",
@@ -6262,9 +6262,9 @@
    "co": "KOPIOWANIE KSIAG URZEDOWYCH DLA FOSY - pisarze szkoly na Fosie pod okiem Miry (do czasu skryptorium w Latarni); dniowka Kasa 2; oryginaly w Winterfell. Start - z pierwsza ksiega kupiona. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "MIRA (Pani Fosy) + pisarze szkoly Fosy",
    "kanal": "Winterfell / Fosa",
-   "wraca": "300-07-29",
+   "wraca": "300-08-04",
    "zamyka": "pierwszy odpis na Fosie",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): NIE RUSZYLO - czeka na pierwsza ksiege z Winterfell."
   },
   {
    "data": "300-05-25",
@@ -6874,9 +6874,9 @@
    "co": "DUSTINPORT E1 - PALISADA OD WODY I WIEZA OGNIA w lancuchu. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "DONNEL + TORREN",
    "kanal": "jak wyzej",
-   "wraca": "300-07-29",
+   "wraca": "300-08-04",
    "zamyka": "palisada i wieza ognia stoja",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): palisada od wody w polowie, wieza ognia w rusztowaniu (E)."
   },
   {
    "data": "300-06-02",
@@ -7389,7 +7389,7 @@
    "kanal": "jezdziec Fosa-Przesmyk-Dorzecze (~10 dni) + lodz na Oku Boga; wiesc ta sama droga",
    "wraca": "300-07-29",
    "zamyka": "przybil i wiadomo, co zastal (rzut)",
-   "status": "otwarte ### 07-22: wiesc przez Fose/Lucana - ~07-28 (rzut przy przybiciu). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 (list Lucana przez Fose; rzut 36 - JEDNA KONSEKWENCJA): przybil bez zelaza, dar na kamieniu, pytanie zadane; rano dar zniknal, na kamieniu ODLAMEK CZARNEGO SZKLA (E) i liscie czardrzewa; slow brak. Edric NIE POPLYNIE TRZECI RAZ. Odlamek jedzie wozem z probka czarnego kamienia do Luwina (~08-03)."
   },
   {
    "data": "300-06-18",
@@ -7468,9 +7468,9 @@
    "co": "DOM DOMU TALLY W CAILIN DLA SWOICH (zgoda pana 06-19, propozycja Alys): kamienica kanalowa wg standardu projektu Cailin - pisarze, nauczyciele, internat; Kasa 1; ciesle Brana PO SIANOKOSACH. DZIALKA: wg karty miasta los lawy jawnie - Dom staje do losowania jak kazdy (Herwin 06-19). Koszt E - wycena Hala/Warryna. Wlasni - bez rzutu. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "BRAN (roboty) + ALYS (dom) + HAL (koszt)",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "dzialka z losu lawy + start budowy",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): los lawy - dzialka przy kanale, trzecia od mostu (E); ciesle Brana wytyczaja. Koszt - wycena Hala/Warryna."
   },
   {
    "data": "300-06-19",
@@ -7486,18 +7486,18 @@
    "co": "FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzie twierdzy. Projekt: WEYLIN (inzynier zamkowy; dzis na Kamiennym Brzegu - po powrocie ~VII) + Orbelo; mur = LENNO (Kasa 2, regula 'pod ziemia i mur'). ZASADA 8 (Herwin): kto trzyma bramy miasta - pokoj: lawa, wojna: Hendry; ma to stac w karcie miasta, bo karta daje azyl i 'powietrze miasta czyni wolnym'. DO DECYZJI PANA: zapis w karcie. ### 06-19 DECYZJA PANA: BRAMY MIASTA - W POKOJU LAWA, W WOJNIE HENDRY; dopisek do karty miasta (lord nadaje, lawa wpisuje). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> WEYLIN + HERWIN + HENDRY",
    "kanal": "na miejscu; Weylin po powrocie",
-   "wraca": "300-07-29",
+   "wraca": "300-08-15",
    "zamyka": "obrys polaczenia na rysunku + zapis o bramach w karcie",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapis o bramach wpisany przez lawe do karty miasta; obrys polaczenia murow - czeka na WEYLINA (nie wrocil z Kamiennego Brzegu)."
   },
   {
    "data": "300-06-19",
    "co": "POZYCZKA DOMU DLA CAILIN NA KAMIENICE - 0,5% ROCZNIE (decyzja pana 06-19): HAL + HERWIN + lawa ustalaja KWOTE (pierwszy rzad kamienic wg wyceny Hala) i TERMIN SPLATY z czynszow; umowa na pismie z pieczecia miasta i Domu; na slup. Mur trzech kas: Kasa 1 -> kasa miejska, jawnie. ZASADA 8 (do wiedzy pana): ta sama gotowka Kasy 1 idzie na skup papierow Lwa i na dom Domu - Hal poda, ile zniesie plynnosc; inne miasta (Barrowton, Zimowe Miasto) zobacza stawke 0,5%. ### 07-09 (Winterfell, stos Poludnie i morze): RZUT 9 - JEDNA KONSEKWENCJA: LAWA CAILIN ODRZUCA POZYCZKE W TEJ FORMIE - nie zgodzi sie na splate z czynszow ('Dom bedzie zbieral nasze czynsze - to juz pan kamienic'); proponuje w zamian POZYCZKE W MATERIALE (kamien, wapno, belki z magazynu Domu) splacana moneta z kasy miejskiej. Do slowa pana. ### 07-09 SLOWO PANA: 'Zgodnie z tym, jak Cailin chce' - POZYCZKA W MATERIALE (kamien, wapno, belki z magazynu Domu), splata moneta z kasy miejskiej, 0,5% rocznie; umowa Hal + Herwin + lawa, na slup.",
    "kto": "HAL + HERWIN SZALA + lawa",
    "kanal": "list pana do Hala (poczta BP) + na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "umowa pozyczki w materiale podpisana, wykaz materialu i termin splaty na slupie",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: czeka na kwote Hala (wycena pierwszego rzedu kamienic). ### 07-24: bez wiesci - zbiorczy ~07-28. ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: czeka na kwote Hala (wycena pierwszego rzedu kamienic). ### 07-24: bez wiesci - zbiorczy ~07-28. ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): nadal czeka na kwote Hala (wycena pierwszego rzedu kamienic); Garrick pisze do Hala wozem Domu."
   },
   {
    "data": "300-06-19",
@@ -7513,9 +7513,9 @@
    "co": "SPIS LETNI CAILIN (propozycja Herwina 06-19): po sianokosach, dymy i dusze imiennie - Mella (przybysze) + Alys (lenno) + pisarz grodzki; ostatni spis 02-25 (~1400 + ~400 przybyszow). Wlasni + miasto - bez rzutu.",
    "kto": "HERWIN + MELLA + ALYS",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-07",
    "zamyka": "liczba dusz i dymow na slupie",
-   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): polowa ulic spisana (E); koniec ~08-05."
   },
   {
    "data": "300-06-19",
@@ -7524,7 +7524,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-29",
    "zamyka": "uchwala lawy (rzut)",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: lawa nie uchwalila; Herwin kladzie projekt na lawie (rzut przy uchwale). ### 07-26: zbiorczy Garricka (pisany dzis) ~07-28. ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 (rzut 61 - TAK): OPLATA BRAMNA od wozu kupieckiego (pieszy, chlop z koszem, woz budowy lenna - wolni; stawka na tablicy, E), od 08-01; dochod - bruk, straz, splata pozyczki."
   },
   {
    "data": "300-06-19",
@@ -7558,9 +7558,9 @@
    "co": "MCHOWE JASTRZEBIE DO 100 (rozkaz pana 06-19; dzis 20): straz lenna - ulice Cailin (do strazy miejskiej), grobla i woda, Goracy Port (wkrotce), PATROL CALEJ GRANICY LENNA. Kasa 2 (stala zaplata z kasy lenna). Dowodzi KESSEL BRODATY (podlega panu, nie Hendry'emu). PLAN KESSELA (fale, E): +30 po sianokosach (~VIII), +50 do X; dziesietnicy z najlepszych dwudziestu + przeniesieni od Hendry'ego (zgoda Hendry'ego). ZASADA 8 - CZEGO TRZEBA: (a) DOWODCOW - 'zaden z naszych nie dowodzil dziesiecioma' - dziesieciu dziesietnikow; (b) LODZI - plaskodenne olchowe, ciesla Brana, olcha z lasu lenna (lesniczy - WAKAT); (c) KUSZ - zbrojownia i kowale (kuznia ma czterech); (d) BARAKOW - przy grobli; (e) CHLEBA - 80 nowych gab (Orland/spichlerz); (f) KONKURENCJA O LUDZI z naborem Hendry'ego (cel 200, jest 61) i z dniowkami. Kosztorys: Warryn/Garrick (E). NABOR - wola wolnych ludzi: RZUT przy pierwszym meldunku Kessela. ### 06-19: ZGODA PANA NA PLAN KESSELA I BRAKI - terminy osobno: dziesietnicy 07-01, lesniczy 06-26, chleb i kosztorys 07-05, lodzie/kusze/baraki 08-01; pierwsza fala - meldunek 07-15 (rzut). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> KESSEL BRODATY; HENDRY; WARRYN/GARRICK (koszt)",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "pierwsza fala przyjeta imiennie (rzut) + kosztorys",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 14 - ZLE): PIERWSZA FALA - 9 zamiast 30 (E), dwoch odeszlo po zoldzie; ludzie ida do Hendry'ego i na dniowki zniwne; Kessel ma ~27 (E). DO SLOWA PANA: warunki / druga fala."
   },
   {
    "data": "300-06-19",
@@ -7648,9 +7648,9 @@
    "co": "WERBUNEK PISZACYCH DLA KANCELARII LENNA (rozkaz pana 06-19): KONTRAKTY na pismie (rok, stawka z ksiegi lenna) i DWIE WYPLATY Z GORY przy podpisie; ogloszenie na slupach w Cailin i przy bramie, wiesc przez kupcow i wozakow na trakt i do Bialego Portu, przez septy (lowcy talentow Miry). 'Niech wiesc sie niesie, ze Fosa potrzebuje piszacych.' Podpisuje GARRICK. Odzew - wola wolnych ludzi: RZUT przy pierwszym meldunku. ZASADA 8 (do wiedzy pana): (a) dwie wyplaty z gory - kontrakt musi miec zwrot zaliczki przy zerwaniu, inaczej ktos wezmie i pojdzie; (b) Cech Pisarzy Bialego Portu (Harwin, wrog od 297) zobaczy, ze Fosa podkupuje mu ludzi; (c) ci sami ludzie sa potrzebni skryptorium i szkole. ### 06-19 PAN (doktryna): 'NIE PODKUPUJEMY, TYLKO ZACHECAMY - MAJA WOLNA WOLE.' W ogloszeniu i w listach: zaproszenie, nie wyciaganie; nikogo nie zrywa sie z kontraktu u innego pana ani cechu (kto ma umowe - konczy ja, potem przychodzi). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "GARRICK (+ regent kancelarii)",
    "kanal": "slupy Cailin, trakt, Bialy Port (Hal), septy",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "ilu podpisalo kontrakt imiennie (rzut)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 5 - BARDZO ZLE): podpisalo DWOCH (mlodzi, od septona z traktu); z BP nikt - CECH PISARZY BP (Harwin) oglosil: kto pojdzie pisac na Fose, wypada z cechu. DO SLOWA PANA."
   },
   {
    "data": "300-06-19",
@@ -7756,9 +7756,9 @@
    "co": "WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): Warryn+Orbelo: zapas wapna budowy na ~2 miesiace przy obecnej zaprawie; bielenie wstrzymane poza lecznica i szkola; kamien wapienny - najblizszy LOM na polnoc od Przesmyku, ~2 dni wozem (ziemie Barrowlandow - zgoda lady Barbrey potrzebna) albo KUPNO w Bialym Porcie (barki - jak u Borsa, spoznione); WAPIENNIK WLASNY przy lomie - E 25-40 smokow + ludzie. ZASADA 8: Bors juz kupuje wapno od Cerwynow, pozyczka w materiale dla Cailin tez zje wapno. Do slowa pana: lom Barbrey + wapiennik czy kupno w BP. ### 07-09 SLOWO PANA: LOM NA ZIEMI LADY BARBREY + WLASNY WAPIENNIK przy lomie (Warryn+Orbelo; E 25-40 + ludzie). List pana do lady Barbrey (kruk Winterfell-Barrowton dzis) - zgoda na lom: RZUT przy odpowiedzi. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "WARRYN + ORBELO",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-05",
    "zamyka": "zgoda Barbrey + wapiennik w budowie (albo odmowa i kupno w BP)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapas ~miesiac (E); OD BARBREY BRAK ODPOWIEDZI O LOM (list pana 07-09) - dzisiejszy list Barbrey o lomie milczy. Warryn pyta: kupic w BP? DO SLOWA PANA."
   },
   {
    "data": "300-06-19",
@@ -7801,9 +7801,9 @@
    "co": "SKRYPTORIUM - ODPISY PIECIU KSIAG ILARIA (zlecenie pana 06-20; za zgoda wlasciciela): kolejnosc Ilaria - (1) WZORNIK KROJU (po egzemplarzu dla kazdego skryby - fundament skryptorium) ~07-01; (2) ELEMENTARZ KSIAG PODWOJNYCH ~07-15; (3) O CZTERNASTU PLOMIENIACH ~08-01; (4) KRONIKA TAJEMNEGO MIASTA ~08-15; (5) PIESNI Z LYS ~08-15 (przepisuje Jessa wieczorami). Po pierwszej skladce (prawa komor) i obok ksiazki o ptakach dla Brana. Kasa 1. ZASADA 8: piec rak, trzy zamowienia naraz - kolejka; PYTANIE ILARIA: ile odpisow kazdej (zasada trzech odpisow z 299-09-08: trzy miejsca - Fosa, Winterfell, Bialy Port?). ### 06-20 PAN: PO DWA ODPISY KAZDEJ - FOSA (archiwum) i WINTERFELL (biblioteka Wiezy); oryginaly zostaja u Ilaria (trzecie miejsce). ### 07-01: wzornik w toku. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "ILARIO + czterech pisarzy (+ Jessa)",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-10",
    "zamyka": "wzornik odpisany; dalej wg kolejki",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): wzornik odpisany (2 egz.; E); elementarz w polowie; O czternastu plomieniach - po elementarzu ~08-10 (kolejka)."
   },
   {
    "data": "300-06-20",
@@ -7828,9 +7828,9 @@
    "co": "CZCIONKA - PROBA FARBY OLEJNEJ (olej lniany + sadza) na drzeworycie kalendarza 301; papier Wata klejony mocniej (czeladnik Wata na Fosie). Wlasni - bez rzutu. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "ILARIO + czeladnik Wata",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "farba trzyma na klocku, nie przebija papieru",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): farba trzyma na klocku, na cienkim papierze przebija; czeladnik Wata klei mocniej - druga proba."
   },
   {
    "data": "300-06-20",
@@ -7846,9 +7846,9 @@
    "co": "DRUGI PISARZ SADOWY DLA SADU GRODZKIEGO - z nowej KANCELARII LENNA (rozkaz pana 06-20); pierwszy wolny piszacy z werbunku Garricka idzie do Roderyka. Wlasni - bez rzutu. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "GARRICK -> RODERYK",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "drugi pisarz przy sadzie grodzkim",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: nie ma kogo dac - werbunek (rzut 5) dal dwoch, obaj do kancelarii. Zalezy od slowa pana o werbunku."
   },
   {
    "data": "300-06-20",
@@ -7963,9 +7963,9 @@
    "co": "PRZEMYT - KTO ORGANIZUJE (zgoda pana 06-20, wniosek Kessela): rytm lodzi/dni barki (zapis 299-10), 'piata rzecz przy wodzie' (Reed), budynek z podniesiona podloga przy przystani - list pana do WILLI (uszy Domu; firewall - ksiega Domu, nie rady lenna): kto stoi za ruchem. Wynik - RZUT przy meldunku. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> WILLA",
    "kanal": "na miejscu / poczta",
-   "wraca": "300-07-29",
+   "wraca": "300-08-01",
    "zamyka": "meldunek Willi (rzut)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: meldunek Willi nie w paczce Garricka (firewall - ksiega Domu); Willa - karta 08-01 (rzut przy meldunku)."
   },
   {
    "data": "300-06-23",
@@ -8011,9 +8011,9 @@
    "co": "10 LUDZI Z DRUZYNY NA ULICE CAILIN DO PIERWSZEJ FALI JASTRZEBI (zgoda pana 06-21, propozycja Hendry'ego): na ulicy pod rozkazem Kessela, w dyscyplinie Hendry'ego; od dzis do pierwszej fali (+30, E ~07-15). Noca na ulicach: 3-4 Jastrzebi + 10 z druzyny. Wlasni - bez rzutu. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "HENDRY + KESSEL",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "pierwsza fala Jastrzebi na miejscu - druzyna wraca do twierdzy",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: zostaja dluzej - pierwsza fala Jastrzebi slaba (rzut 14)."
   },
   {
    "data": "300-06-21",
@@ -8065,9 +8065,9 @@
    "co": "KSIEGA PRZYBYSZOW PRZY BRAMIE (zgoda pana 06-21, propozycja Roderyka): kto zostaje w lennie dluzej niz trzy noce - imie, skad, co umie, gdzie spi; odpis do Melli (spis) i kancelarii; podstawa 'kto go sadzi'. Prowadzi PISARZ BRAMOWY z werbunku kancelarii (pierwszy wolny po pisarzu sadowym). ZASADA 8: kolejka w dzien wozow. Wlasni - bez rzutu. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "RODERYK + GARRICK (pisarz bramowy)",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "ksiega lezy przy bramie, pisarz bramowy wpisuje",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: pisarza bramowego brak (werbunek rzut 5); ksiege prowadzi straz - tylko imie i skad (E)."
   },
   {
    "data": "300-06-21",
@@ -8146,18 +8146,18 @@
    "co": "REKRUCI LENNA - OSOBNY PROGRAM (rozkaz pana 06-21): TRZY MIESIACE PODSTAWY - dyscyplina, forma, wlocznia i tarcza w szyku (najprostsze, co trzyma linie), kusza; litery - imie i rozkaz. Po trzech miesiacach PROBA: zdal - do druzyny stalej (mieszkanie sluzbowe, dodatki, rok do wlasnosci); nie zdal - do rezerwy albo do domu. Rekruci ze wsi wracaja po sianokosach (~07-20). Prowadzi dziesietnik od rekrutow (Hendry wskazuje). Wlasni - bez rzutu. ### 07-01: rekruci ze wsi na sianokosach (decyzja 06-18) - program wraca po nich.",
    "kto": "HENDRY",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-10-01",
    "zamyka": "program rekrutow ruszyl; pierwsza proba ~10-01",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: PROGRAM RUSZYL 07-14 po sianokosach (trzy miesiace podstawy); proba ~10-01. Rozbieznosc w radzie (zniwa VIII) - do slowa pana. ### 07-26: zbiorczy Garricka (pisany dzis) ~07-28. ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: PROGRAM RUSZYL 07-14 po sianokosach (trzy miesiace podstawy); proba ~10-01. Rozbieznosc w radzie (zniwa VIII) - do slowa pana. ### 07-26: zbiorczy Garricka (pisany dzis) ~07-28. ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): trzeci tydzien; zniwa na dniowkach najemnych (slowo pana 07-21); proba ~10-01."
   },
   {
    "data": "300-06-21",
    "co": "SZKOLA DOWODZENIA DRUZYNY FOSY (rozkaz pana 06-21: 'ucz ich tez dowodzenia, ten co sie nadaje - to oni beda dowodzic pospolitym ruszeniem'). Plan: gra/plan_druzyny_i_ruszenia_fosy_300_06.md pkt 7-8: trzy szczeble (starszy zolnierz / dziesietnik / setnik), kazdy dziesietnik ma STALA dziesiatke ruszenia (z jednej wsi) + zastepce ze wsi; rachunek E: 500 ruszenia = 50 dziesietnikow + 5 setnikow z ~200 stalych. Pierwszy kurs dziesietnika ruszenia - VIII (po spisie ruszenia ~07-25). OTWARTE DO SLOWA PANA: (1) ruszenie dobrowolne-platne czy powinnosc; (2) dodatek dowodczy; (3) bron w chacie - wlocznia+luk czy wlocznia+kusza. Wlasni - bez rzutu. ### 06-21 PAN: (1) RUSZENIE LENNA = POWINNOSC WOBEC PANA (bez dniowki; obowiazkowe dni cwiczen; spis kazdego zdolnego 16-50) - Hendry: chleb z wiktu twierdzy w dzien cwiczen (ponizej progu rady); (2) DODATEK DOWODCZY - TAK (dziesietnik, setnik, zastepca ze wsi; kwota Warryn 07-05); (3) BRON W CHACIE - WLOCZNIA I LUK (tarcza do strzelania przy wsi; kusza - druzyna i Jastrzebie). ### ⚠ DOPRECYZOWANIE PANA 06-21 (VOID poprzedniego odczytu 'bez dniowki' i 'chleb z wiktu twierdzy'): CWICZENIA RUSZENIA SA PLATNE (dniowka + chleb, dzien w miesiacu i tydzien jesienny; kwota Warryn 07-05); WEZWANIE DO WALKI W RAZIE ZAGROZENIA - BEZ ZAPLATY (powinnosc wobec pana).",
    "kto": "HENDRY",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-15",
    "zamyka": "spis ruszenia + lista kandydatow na dziesietnikow ruszenia",
-   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): spis ruszenia 2/3 wsi (~340, E); 12 kandydatow na pierwszy kurs dziesietnika ruszenia (E) - kurs VIII."
   },
   {
    "data": "300-06-22",
@@ -8263,9 +8263,9 @@
    "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (1) MAPA BAGNA LENNA - kanaly, kepy, gardla, torfowiska, brody, szlaki krannogow; skala i nazwy; dwa egzemplarze (Fosa + Winterfell). Prowadzi KESSEL (lodzie, ludzie znad wody) + pisarz z kancelarii (rysunek) + JORREN LUT (torfowiska) + PRZEWODNIK KRANNOG (przez Reeda - bez niego mapa ma dziury tam, gdzie woda jest ich). Wlasni - bez rzutu; przewodnik - wola Reeda (pkt 2).",
    "kto": "KESSEL + pisarz kancelarii + JORREN LUT",
    "kanal": "na miejscu",
-   "wraca": "300-08-15",
+   "wraca": "300-07-29",
    "zamyka": "mapa bagna lenna na stole pana",
-   "status": "otwarte"
+   "status": "otwarte ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA."
   },
   {
    "data": "300-06-23",
@@ -8353,9 +8353,9 @@
    "co": "ORGANIZACJA KOMORY CELNEJ - ROZKAZ NAMIESTNIKA DO GARTHA (wersja dopasowana: oplaty w monecie wg Karty, zywnosc na przywoz 0, bez dziesieciny w towarze): gra/organizacja_komory_celnej_300_06.md - cztery strefy (rejestr, waga i ogledziny, kasa, brama wyjazdowa), tor zielony/czerwony, trzy pary oczu, rotacja co 3 dni, taryfa na tablicy, proby uczciwosci (przelozony + swiadek), kontrola rownolegla zostaje, liczby dnia; komory kartowe - wersja skrocona. KOLEJNOSC: Fosa (Rorik - od zaraz, proba) -> Bialy Port -> kartowe. Kanal: kruk Fosa-Winterfell do Gawena (Garth w objezdzie - Gawen przekazuje); odpis do Rorika na miejscu. Urzednicy Korony - bez rzutu na wykonanie; kosztorys - Garth z Gawenem (Kasa 3). Meldunek Gartha o wdrozeniu na Fosie. ### 06-23 DOPISEK: VI ZATRUDNIAC - pelna obsada rotacji (po 2 na stanowisko) w komorach pelnych; zatrudnia prowadzacy komore (Rorik na Fosie), oba spisy, umowa z klauzula zwrotu, Kasa 3; najpierw wagowi i straznicy, potem pisarze/poborcy. VII KOMORY MORSKIE - ta sama zasada na wodzie: reda (zgloszenie, kwit, wykaz) -> nabrzeze celne (waga, ogledziny ladowni) -> szopa celna (kasa, bandera) -> wyjscie z portu (tylko bandera i pieczec); tory, trzy pary oczu, liczby dnia; lodzie celne - Jastrzebie (GP) / ludzie Korony (BP). Kolejnosc: Bialy Port + Goracy Port i port wschodni (komory ~IX). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> GARTH (przez Gawena) + RORIK",
    "kanal": "kruk Fosa-Winterfell; na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "komora Fosy pracuje w czterech strefach + kosztorys Gartha",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): komora Fosy - cztery strefy od 07-22 (E), tory, rotacja; pierwsza proba uczciwosci czysto; kosztorys Gartha -> Gawen."
   },
   {
    "data": "300-06-23",
@@ -8481,7 +8481,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-29",
    "zamyka": "dwie nowe uczennice imiennie",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 (zbiorczy 07-26): Nina - BERTA (wdowa z barakow) i LISSA RYBACZKA (E)."
   },
   {
    "data": "300-06-26",
@@ -8490,7 +8490,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-29",
    "zamyka": "mala lecznica przyjmuje pierwszych",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 (zbiorczy 07-26): szopa przy grobli wybielona, wrzatek, ksiega; GYTHA przyjmuje od 07-22 (E)."
   },
   {
    "data": "300-06-26",
@@ -8625,7 +8625,7 @@
    "kanal": "jezdziec/czlowiek przez Przesmyk + lodz na Oku Boga",
    "wraca": "300-07-29",
    "zamyka": "czlowiek wybrany imiennie i w drodze",
-   "status": "otwarte 07-21: bez kanalu dzis (zasada 34) - meldunek Tama/Lucana ~07-28 (rzut przy meldunku). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 (rzut 16 - ZLE): mgla trzy dni; lodz Tama rozbita na kamieniach, dar utopiony, na wyspe nie wszedl; wrocil z rybakami; ODPOWIEDZI BRAK; rybacy na brzegu Oka Boga gadaja o drugim z polnocy w jednym miesiacu - przykrywka nadwyrezona."
   },
   {
    "data": "300-06-28",
@@ -8724,7 +8724,7 @@
    "kanal": "cechy -> pan w Winterfell (list/kruk); woz Fosa-Bialy Port",
    "wraca": "300-07-29",
    "zamyka": "cechy pisza do pana / ida do Wymana / nic (rzut przy pierwszym ruchu, ~07-15)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 (rzut 45, prog 40 - TAK): towar przez hale dla obcych z oplata miasta; cechy nie protestuja formalnie; szewcy odeslani przez Hala do pana - listu brak; do Wymana nie poszli."
   },
   {
    "data": "300-06-30",
@@ -8776,9 +8776,9 @@
    "co": "⚑ DELEGACJA STALA DLA KESSELA (wola pana 06-30): 'Nie pytaj mnie, czy mozesz miec wiecej lodzi - rozbudowuj to tak mocno, jak chcesz.' LODZIE, WIOSLA, TYCZKI, KUSZE, ROGI, PRZYSTANIE JASTRZEBI - Kessel zamawia sam, BEZ PYTANIA PANA. Placi KASA 2: skarbnik GERRIK liczy, rzadca WARRYN wydaje na kwit (zasada: kto liczy, nie wydaje). Drewno - przez lesniczego (Sigurd Olcha / Odo Smolarz, regale). Meldunek po fakcie w zbiorczym Garricka. Pierwsza pozycja: druga lodz na noc przy przystani. Kwot z glowy nie ma (zasada 43) - koszt pokazuje ksiega. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "KESSEL (wykonanie), WARRYN + GERRIK (kasa)",
    "kanal": "na miejscu",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "druga lodz nocna w sluzbie + pierwszy meldunek zakupow w zbiorczym",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): druga lodz nocna w sluzbie; zakupy na kwitach Gerrika (kwoty - ksiega, 08-01). Dalej - meldunki po fakcie."
   },
   {
    "data": "300-07-01",
@@ -8877,7 +8877,7 @@
    "kanal": "na miejscu; raport Mabel",
    "wraca": "300-07-29",
    "zamyka": "karta regul wisi w szkole; pierwsza lekcja ziol odbyta; kartka Orwyna o internacie",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "ZAMKNIETE 07-29 (zbiorczy 07-26): karta regul wisi; pierwsza lekcja ziol Edmunda odbyta; kartka Orwyna o internacie u Mabel."
   },
   {
    "data": "300-07-01",
@@ -9001,9 +9001,9 @@
    "co": "CZARNY KAMIEN Z TORFIARNI FOSY - ZRODLO WLASNE SMOCZEGO SZKLA (decyzja Krola 07-09): GARRICK liczy, ile odlozono od 300-03-18, i przysyla probke do Winterfell; LUWIN sprawdza, czy to szklo (obsydian) czy zwykly kamien; jesli szklo - torfiarze odkladaja kazdy kawalek na kwit (platne z Kasy 3, zbiera Korona). ZAKAZ: zadnego szkla z kurhanow (Krol).",
    "kto": "GARRICK (Fosa) -> LUWIN (Winterfell)",
    "kanal": "kruk Winterfell-Fosa + woz z probka",
-   "wraca": "300-07-29",
+   "wraca": "300-08-03",
    "zamyka": "probka zbadana przez Luwina; ilosc na kwicie",
-   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): od 03-18 odlozono ~pol worka (E); PROBKA wozem z Fosy 07-27 -> Luwin ~08-03 (E), razem z ODLAMKIEM EDRICA z Wyspy Twarzy."
   },
   {
    "data": "300-07-09",
@@ -10189,9 +10189,9 @@
    "co": "WLASNY WARSZTAT KUSZNICZY LENNA W CAILIN (polecenie pana 07-20): siły lenna (druzyna, Jastrzebie) strzelaja glownie z kusz - lenno powoluje WLASNY warsztat kuszniczy na DZIALCE KUPIONEJ W CAILIN. Rada lenna: (1) WYCENA (dzialka, budynek, narzedzia, ludzie; Warryn, Gerrik liczy) - kwot z glowy brak; (2) POSZUKANIE SPECJALISTOW - kusznikow-rzemieslnikow (Brusk robi dzis kusze w kuzni miasta; Benn Kusznik uczy strzelac z lodzi - strzelec, nie rzemieslnik). Odpowiedz w raporcie rady po sobocie 07-26.",
    "kto": "SYMON -> RADA LENNA (Garrick, Warryn, Hendry, Kessel)",
    "kanal": "kruk Domu Winterfell -> Fosa, 07-21 rano",
-   "wraca": "300-07-29",
+   "wraca": "300-08-01",
    "zamyka": "wycena + lista specjalistow - RZUT na znalezienie specjalistow przy raporcie",
-   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (raport rady 07-26; rzut 66 - TAK): majster BRUSK; TOBIN Z KAMIENNEGO MLYNA (E, przybysz, kusznik-rzemieslnik); Benn Kusznik - proby; wycena Warryna niepelna (budynek/narzedzia na oko, dzialka - cena lawy; ksiega 08-01). DO SLOWA PANA: kupic dzialke teraz?"
   },
   {
    "data": "300-07-21",
@@ -10378,9 +10378,9 @@
    "co": "FAKTOR KROLEWSKI CAILIN - KANDYDACI SPOZA CAILIN (pan 07-22, po odmowie lawy 'nikt niezwiazany'): GARRICK szuka kandydatow spoza miasta - niezwiazanych z lennem ani z Domem (kupcy z traktu, z Dorzecza, z Barrowton, z BP przez komore); nie lordowie; nie handlujacy towarem Korony. Lista do pana -> Krol wybiera.",
    "kto": "SYMON -> GARRICK",
    "kanal": "kruk Winterfell-Fosa (07-22 po poludniu); odpowiedz w zbiorczym",
-   "wraca": "300-07-29",
+   "wraca": "300-08-09",
    "zamyka": "lista kandydatow u pana",
-   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34)."
+   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): dwa nazwiska (E) - MATHIS Z FAIRMARKET (sukno, Dorzecze, kwity czyste) i EDWYN SOLNY Z SALTPANS (sol); Rorik sprawdza w komorze; Garrick szuka dalej. Lista -> pan -> Krol."
   },
   {
    "data": "300-07-22",

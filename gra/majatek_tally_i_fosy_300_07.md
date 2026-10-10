@@ -35,7 +35,7 @@
 | 22 | **Warsztat bursztynu i jubilerski** | Biały Port | działa (czeladnik tnie stemple) | **Marro** |
 | 23 | **Atelier Miry** + **szwalnia Cailin** | Biały Port; Cailin (dom przy kanale) | działa | **Mira** (wkład za 1/6 udziału) |
 | 24 | Atelier „Pod Złotym Piórem” (budynek) | Cailin | tylko projekt | — |
-| 25 | **Pomarańczowy Dwór** | Cailin | planowany (PD-1 09-15) | Hal; Weylin |
+| 25 | ~~**Pomarańczowy Dwór**~~ ⚑ **PRZENIESIONY DO LENNA 300-07-26** (słowo pana: siedziba rodu, płaci lenno). Patrz §2. | Cailin | — | — |
 | 26 | **Dom Audytowy Tally** | — | działa; krzesło mistrza puste | zarządca, rachmistrz |
 | 27 | **Ramię finansowe** (kredyt, weksle, ubezpieczenia frachtu) | — | działa | Hal, Tam |
 | 28 | **Logistyka**: barki na Białym Nożu, 2 statki „Woły” zamówione w Braavos, **kruki Domu** | — | działa | — |
@@ -58,6 +58,7 @@
 | 4 | **Grobla** | 2. odcinek wbity, 3. w palach (07-05) | Bran (majordom robót), Korm Palik, Orbelo |
 | 5 | **Gorący Port**: mur od morza, Wieża Morska, pomost, kamieniołom | mur na wysokość człowieka (07-05) | Harlon z Brodu, 30 ludzi Hendry'ego |
 | 6 | **Port Cailin (PC)** | planowany (PC-2 w IX, basen 301/302) | kapitan portu Harwin Łopata |
+| 7 | **POMARAŃCZOWY DWÓR — SIEDZIBA RODU TALLY** (Miasto Górne) | planowany (PD-1 09-15; budowa 301/302). **Płaci lenno (Kasa 2)**, własność lenna, dziedziczy się z lennem (słowo pana 07-26); kolejność: po murze i spichlerzach (warunek Miry) | rysunek Weylin; budowę prowadzi Dom (Hal) jako wykonawca na rachunek lenna |
 | 7 | **Spław Fever (SF)** | planowany; Reed zgodził się na 2 załogi (07-14); SF-0 08-15 | Kessel |
 | 8 | **Młyn w śluzie** | **działa, kamień jest** (słowo pana 07-20; zapis: Weylin, 12 ludzi) | Toben od Żarna |
 | 9 | **Torfiarnie** | działają; liczenie CP-0 08-15 | Warryn, Jorren Lut |

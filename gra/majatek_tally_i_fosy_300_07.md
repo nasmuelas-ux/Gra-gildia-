@@ -59,7 +59,6 @@
 | 5 | **Gorący Port**: mur od morza, Wieża Morska, pomost, kamieniołom | mur na wysokość człowieka (07-05) | Harlon z Brodu, 30 ludzi Hendry'ego |
 | 6 | **Port Cailin (PC)** | planowany (PC-2 w IX, basen 301/302) | kapitan portu Harwin Łopata |
 | 7 | **POMARAŃCZOWY DWÓR** (Miasto Górne): **WŁASNOŚĆ RODU TALLY** (wymiar III), **budowę płaci lenno** jako wydatek (słowo pana 07-26) | planowany (PD-1 09-15; budowa 301/302); po murze i spichlerzach (warunek Miry) | rysunek Weylin; Hal jako wykonawca |
-| 8 | **HUTA SZKŁA FOSY**, patronat lenna | **planowana (słowo pana 07-28)**: lenno buduje i wyposaża, **gwarantuje zakup całego szkła przez 5 lat**; mistrz przez Nestę/Obara | rada lenna; Weylin (piec); Orwyn (piasek, potaż) |
 | 7 | **Spław Fever (SF)** | planowany; Reed zgodził się na 2 załogi (07-14); SF-0 08-15 | Kessel |
 | 8 | **Młyn w śluzie** | **działa, kamień jest** (słowo pana 07-20; zapis: Weylin, 12 ludzi) | Toben od Żarna |
 | 9 | **Torfiarnie** | działają; liczenie CP-0 08-15 | Warryn, Jorren Lut |
@@ -136,3 +135,8 @@
 
 *Arsenał lenna:* **zbrojownia** (Oswald Tarcza) jest **własnością lenna**, a budynek stoi do pasa, dach do 09-01. **Własnej kuźni lenno w zapisie nie ma.** Kuźnia Cailin należy do miasta.
 
+
+### ⚑ HUTA SZKŁA, patronat lenna (słowo pana 300-07-28, poprawka tego samego dnia)
+- **Huta NIE jest własnością lenna.** Należy do **mistrza szklarza** (warsztat prywatny).
+- **Lenno sponsoruje budowę** (działka, budynek, piec, narzędzia, według przywileju bagiennego) i **gwarantuje zamówienia, czyli zakup całego szkła przez 5 lat**, po cenie z umowy.
+- Mistrza szukają Nesta i Obaro (nie przez Orrello). Surowiec: Orwyn i Theomore. Miejsce: rada lenna i Weylin.

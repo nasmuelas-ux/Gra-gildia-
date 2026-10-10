@@ -8175,7 +8175,7 @@
    "kanal": "kurier Domu (poczta wlasna, poza Cytadela)",
    "wraca": "300-07-30",
    "zamyka": "odpowiedz albo wpisana odmowa (data, nazwisko, powod)",
-   "status": "otwarte"
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
   },
   {
    "data": "300-06-22",
@@ -8193,7 +8193,7 @@
    "kanal": "kurier Domu z Kompania; osobiscie",
    "wraca": "300-07-30",
    "zamyka": "odpowiedz Lymana + rozmowa z Bryndenem",
-   "status": "otwarte"
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
   },
   {
    "data": "300-06-22",
@@ -10416,7 +10416,7 @@
    "kanal": "woda; wiesc - karta Borsa / jezdziec",
    "wraca": "300-07-30",
    "zamyka": "rodzina w Przystani Wilka; pytanie o list do syna zadane",
-   "status": "otwarte ### 07-28: wiesc - jezdziec/karta Borsa; burza na traktach - ~07-30."
+   "status": "otwarte ### 07-28: wiesc - jezdziec/karta Borsa; burza na traktach - ~07-30. ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
   },
   {
    "data": "300-07-22",
@@ -10506,7 +10506,7 @@
    "kanal": "kruk Winterfell-BP (07-24 po poludniu)",
    "wraca": "300-07-30",
    "zamyka": "wyrok sadu Wymana (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
   },
   {
    "data": "300-07-24",
@@ -10515,7 +10515,7 @@
    "kanal": "kruk Domu Winterfell-BP",
    "wraca": "300-07-30",
    "zamyka": "zdanie odczytane; meldunek Hala o reakcji",
-   "status": "otwarte"
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
   },
   {
    "data": "300-07-24",
@@ -10857,7 +10857,7 @@
    "kanal": "kruk WF->Barrowton",
    "wraca": "300-07-30",
    "zamyka": "odpowiedz Barbrey",
-   "status": "otwarte"
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
   },
   {
    "data": "300-07-27",
@@ -11010,7 +11010,7 @@
    "kanal": "kruk WF->Fosa (do burmistrza)",
    "wraca": "300-07-30",
    "zamyka": "odpowiedz burmistrza",
-   "status": "otwarte"
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
   },
   {
    "data": "300-07-26",

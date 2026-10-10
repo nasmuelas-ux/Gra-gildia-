@@ -1149,12 +1149,20 @@
     "forma": "moneta (miedz, troche srebra) - CALOSC w monecie, bez kwitu",
     "metoda": "kasa.py, linia KASA 3 'SPIENIEZENIE SWIADCZEN W NATURZE' za 300-07-27: pasmo 35.64..106.92; rzut 87 -> 97.56 (interpolacja (r-1)/99). Sprzedaz z dnia = realizacja tej linii za dzien.",
     "rzut": 87
+   },
+   {
+    "data": "300-07-25",
+    "co": "WELNA DLA ATELIER MIRY - ~105 workow, 3/4 ceny (stara welna), zaplata przy zaladunku z ksiegi atelier",
+    "kwota_smoki": 113.99,
+    "forma": "moneta",
+    "metoda": "E - cena worka z dzisiejszej sprzedazy ZM (97.56 smoka za koszyk: welna 40 workow, skory 350, loj 25 beczek, wosk 12 kamieni; wagi wzgledne E: worek welny 10, skora 0.5, beczka loju 3, kamien wosku 2 -> worek ~1.447 smoka) x 105 x 3/4 = ~113.99. ZRODLO WLASCIWE: kwit Gawena (cena licytacji Hala) - jesli rozni sie, Gawen koryguje w Dzien Bilansu 08-01.",
+    "rzut": null
    }
   ],
   "moneta_w_skrzyni_po_ruchach": {
    "na_dzien": "300-07-27",
-   "wartosc": 1917.56,
-   "uwaga": "1820 (liczenie 07-14) + 97.56 (sprzedaz ZM 07-27). INNE WPLYWY I WYDATKI 07-14..07-31 NIE SA TU DOLICZONE - pelna liczba skrzyni w Dzien Bilansu 08-01 (Gawen + Beron)."
+   "wartosc": 2031.55,
+   "uwaga": "1820 (liczenie 07-14) + 113.99 (welna atelier, 07-25, E) + 97.56 (sprzedaz ZM 07-27). INNE WPLYWY I WYDATKI 07-14..07-31 NIE SA DOLICZONE - pelna liczba skrzyni w Dzien Bilansu 08-01."
   }
  },
  "_udzialy_wspolnikow": {

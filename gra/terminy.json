@@ -11046,6 +11046,15 @@
    "kanal": "osobiscie",
    "wraca": "300-08-03",
    "zamyka": "slowo pana: oglosic / nie / do Krola",
+   "status": "ZAMKNIETE 07-27 - Namiestnik przedlozyl, Krol podpisal (rzut 95): PRAWO LOWOW W LASACH KORONY (gra/prawo_lowow_korony_300_07_27.md)."
+  },
+  {
+   "data": "300-07-27",
+   "co": "PRAWO LOWOW KORONY - OGLOSZENIE: herold w ZM i wsiach domeny + tekst na slupach przy kazdym lesie Korony i na targu; PRZED ZNIWAMI (dopisek Krola). Obowiazuje od ogloszenia w danym miejscu. Lista lasow domeny - Rodwell; tekst na slupy - kancelaria Berona.",
+   "kto": "BERON + RODWELL + heroldowie",
+   "kanal": "na miejscu",
+   "wraca": "300-08-10",
+   "zamyka": "prawo na slupach w calej domenie",
    "status": "otwarte"
   }
  ],

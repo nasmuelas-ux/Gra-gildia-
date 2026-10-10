@@ -10506,7 +10506,7 @@
    "kanal": "kruk Winterfell-BP (07-24 po poludniu)",
    "wraca": "300-07-30",
    "zamyka": "wyrok sadu Wymana (rzut)",
-   "status": "ZAMKNIETE 07-30 - WYROK WYMANA (rzut 19 - ZLE; ODCZYT POPRAWIONY po uwadze gracza - pierwszy VOID): OBRAZA KORONY - WINNY, publiczne odwolanie (gospoda + waga); czesc o osobie lorda Fosy - oddalona; grzywny brak; ODWOLANIE WSTRZYMANE do dnia, w ktorym Dom zdejmie odciecie (dopisek Wymana)."
+   "status": "ZAMKNIETE 07-30 - WYROK WYMANA (rzut 19 - ZLE; ODCZYT POPRAWIONY DWA RAZY po uwagach gracza): OBRAZA KORONY - WINNY; OBRAZA LORDA FOSY - WINNY; publiczne odwolanie (gospoda + waga) + GRZYWNA; k1: grzywna do KASY SADU BP, nie na Septe (\"niech lord da ze swojego\"); k2: odwolanie WSTRZYMANE do zdjecia odciecia przez Dom (pan: wariant 3 - zdjete po cichu)."
   },
   {
    "data": "300-07-24",

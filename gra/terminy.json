@@ -11118,6 +11118,15 @@
    "kanal": "kruki po burzy",
    "wraca": "300-08-09",
    "zamyka": "wlasciciel wskazany + mistrz i surowiec rozpoznane",
+   "status": "ROZSTRZYGNIETE 07-28 (pan): HUTA FOSY - PATRONAT LENNA: lenno buduje (dzialka, budynek, piec, narzedzia) i GWARANTUJE ZAKUP CALEGO SZKLA PRZEZ 5 LAT. Dalej - termin wykonawczy."
+  },
+  {
+   "data": "300-07-28",
+   "co": "HUTA SZKLA FOSY - PATRONAT LENNA (slowo pana 07-28): lenno buduje i wyposaza, GWARANCJA ZAKUPU CALEGO SZKLA 5 LAT (cena w umowie). Kroki: (a) mistrz szklarz - Nesta/Obaro (umowa lenna, nie przez Orrello); (b) piasek i potaz - Orwyn + Theomore; (c) miejsce, budynek, piec przy torfie - rada lenna + Weylin; (d) zbyt: Korona (ogrody), Pomaranczowy Dwor, okna Cailin, wywoz. Odzew mistrzow - RZUT przy odpowiedzi Nesty/Obara.",
+   "kto": "RADA LENNA (Garrick, Warryn) + NESTA/OBARO + ORWYN/THEOMORE + WEYLIN",
+   "kanal": "kruk WF->Fosa 07-29; paczka Domu do Braavos/Pentos",
+   "wraca": "300-09-15",
+   "zamyka": "mistrz zatrudniony + miejsce i surowiec ustalone",
    "status": "otwarte"
   }
  ],

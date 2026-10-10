@@ -10506,7 +10506,7 @@
    "kanal": "kruk Winterfell-BP (07-24 po poludniu)",
    "wraca": "300-07-30",
    "zamyka": "wyrok sadu Wymana (rzut)",
-   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
+   "status": "ZAMKNIETE 07-30 - WYROK (rzut 19): skarga ODDALONA (\"mowa kupca o kupcu, nie o lordzie\"), bez grzywny i odwolania; dopisek WYMANA: Korona - niech pisze Krol; nie skarga lorda Fosy w tygodniu, gdy Dom odcina kupcowi frachty (gra/poczta_300_07_30.md)."
   },
   {
    "data": "300-07-24",
@@ -10515,7 +10515,7 @@
    "kanal": "kruk Domu Winterfell-BP",
    "wraca": "300-07-30",
    "zamyka": "zdanie odczytane; meldunek Hala o reakcji",
-   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu. ### 07-30 MELDUNEK HALA (rzut 9 - BARDZO ZLE): zdanie przeczytane, przyjete zle (\"Tally trzyma ksiegi i trzyma za gardlo\"); odciecie czytane jako nacisk Domu Namiestnika; DWOCH KUPCOW wycofalo frachty z Domu (E); WHARTON ZBIERA PODPISY pod skarga do Wymana na Dom. HAL RADZI: zdjac odciecie po cichu, zdanie zostawic, nie odpowiadac na podpisy. DO SLOWA PANA."
   },
   {
    "data": "300-07-24",
@@ -10857,7 +10857,7 @@
    "kanal": "kruk WF->Barrowton",
    "wraca": "300-07-30",
    "zamyka": "odpowiedz Barbrey",
-   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
+   "status": "ZAMKNIETE 07-30 - ODPOWIEDZ (rzut 75 - TAK): straz Dustinportu podwojona, ogien na wiezy, Barrowton na wezwanie; PROSBY: wiesc z lancucha ognia PROSTO do Dustinportu; CZLOWIEK KORONY w Dustinporcie na czas zagrozenia (jeden rog). O lomie wapiennym - nic (drugi list). Prosby - do slowa pana."
   },
   {
    "data": "300-07-27",
@@ -11010,7 +11010,7 @@
    "kanal": "kruk WF->Fosa (do burmistrza)",
    "wraca": "300-07-30",
    "zamyka": "odpowiedz burmistrza",
-   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
+   "status": "ZAMKNIETE 07-30 - ODPOWIEDZ (rzut 3 - BARDZO ZLE): lawa czyta list jako odwrocenie sie Korony od Cailin i Braavos ponad lawa; czesc lawy zada: prawo miasta dla domow z Braavos TYLKO ZA ZGODA LAWY + oplata bramna PODWOJNA dla obcych domow; Herwin prosi, by lord przyjechal albo przyslal kogos z jego glosem - NIE przez Garricka (\"Garrick to lenno, my to miasto\"). DO SLOWA PANA."
   },
   {
    "data": "300-07-26",
@@ -11199,6 +11199,15 @@
    "kanal": "osobiscie",
    "wraca": "300-08-07",
    "zamyka": "rozmowa z Krolem o Theonie albo pomysl odlozony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-30",
+   "co": "DO SLOWA PANA (poczta 07-30): (1) WHARTON/DOM - rada Hala (zdjac odciecie, nie odpowiadac na podpisy); czy Krol pisze do Wymana; (2) BARBREY - wiesc z lancucha ognia prosto do Dustinportu + czlowiek Korony w Dustinporcie; (3) CAILIN - odpowiedz lawie (Braavos, prawo miasta, oplata bramna, kto mowi glosem lorda).",
+   "kto": "SYMON",
+   "kanal": "Winterfell",
+   "wraca": "300-07-31",
+   "zamyka": "slowo pana w trzech sprawach",
    "status": "otwarte"
   }
  ],

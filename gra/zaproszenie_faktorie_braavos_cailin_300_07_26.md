@@ -4,8 +4,8 @@ _Pisze **Symon Tally, lord Fosy Cailin i pan lenna** (pieczęć lorda Fosy, nie 
 **ADRESACI (z zapisu, nazwy E tam, gdzie zapis ich nie podaje):**
 1. **Dom Antaryonów**: znany od 297, wierzyciel Nesty (dług jej, nie Symona; détente od 297-10).
 2. **Dom Prestaynów**: przysłali własnego mierniczego przy drewnie (zapis 300-03).
-3. **Dom ubezpieczeniowy** (polisa roczna na rejsy do BP, 06-05; nazwa w zapisie nie pada, E: **Dom Vasselych**).
-4. **Kupiec, który wziął skóry na aukcji w BP 06-16** (statek z Braavos; nazwa E: **Dom Ferrego**).
+3. **Dom ubezpieczeniowy** (polisa roczna na rejsy do BP, 06-05; nazwa w zapisie nie pada, rodzina z kanonu Braavos: **Dom Reyaan**; rola w grze E).
+4. **Kupiec, który wziął skóry na aukcji w BP 06-16** (statek z Braavos; rodzina z kanonu Braavos: **Dom Otherys**; rola w grze E).
 
 ---
 

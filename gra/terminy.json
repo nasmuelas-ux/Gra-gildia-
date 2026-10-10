@@ -11101,6 +11101,24 @@
    "wraca": "300-07-29",
    "zamyka": "skala szkod w polu + naprawy zlecone",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-28",
+   "co": "SZKLO NA WYMIANE - OGRODY SZKLANE WINTERFELL (~40 szyb; miary - ogrodnik 07-29): Hal kupuje z pierwszego statku ze szklem (Myr/Pentos/Braavos), NIE przez Orrello; placi Kasa 3; kwota z kwitu Hala.",
+   "kto": "HAL (+ ogrodnik - miary)",
+   "kanal": "kruk WF->BP po burzy 07-29; statek",
+   "wraca": "300-09-01",
+   "zamyka": "szyby w ramach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-28",
+   "co": "HUTA SZKLA - KONCEPT WRACA (299-08-18; przywilej bagienny Fosy; Cailin IX): pierwsze kroki - (a) MISTRZ SZKLARZ przez Neste/Obara (nie Orrello), (b) ROZPOZNANIE PIASKU I POTAZU (Theomore + Orwyn). DO SLOWA PANA: czyja huta - Korona (warsztat strategiczny, Krol) / lenno Fosy / Dom.",
+   "kto": "SYMON (decyzja wlasciciela) -> NESTA, OBARO, THEOMORE, ORWYN",
+   "kanal": "kruki po burzy",
+   "wraca": "300-08-09",
+   "zamyka": "wlasciciel wskazany + mistrz i surowiec rozpoznane",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -6,11 +6,13 @@ _Status: **PRZYJĘTA słowem pana 300-07-12.** Kolejność ochrony zatwierdzona,
 ---
 
 ## I. Czym jest i komu podlega
-Przyboczna to **straż osobista Domu Tally**. Chroni pana, jego rodzinę i jego papiery. Płaci jej **Dom (Kasa 1)**, nie Korona i nie lenno.
+Przyboczna to **straż osobista Rodu Tally**, przyboczna **pana lenna Fosy Cailin**. Chroni pana, jego rodzinę i jego papiery. **Od 300-08-01 płaci jej LENNO (Kasa 2)**, nie Korona i nie Dom Handlowy. *(Do 07-31 płaci jeszcze Dom, Kasa 1. Poprawka słowem pana 300-07-27, po wydzieleniu trzech wymiarów: Dom Handlowy, lenno i majątek rodu.)*
+
+**„Dom” w tej karcie i w rocie przysięgi znaczy RÓD TALLY**, nie spółkę handlową. Przysięgi złożone 07-13 (oddział I) i 07-24 (oddział II) obowiązują bez powtarzania, bo zmienia się tylko płatnik.
 
 **Drabina:** przyboczny → dowódca oddziału → **kapitan przybocznej** → pan.
 - Kapitan: **STEN**. Dowódcy oddziałów: **oddział I — Sten**, **oddział II — DAGON**.
-- Pod nieobecność pana o ochronie rodziny rozkazuje **pani Domu (Mira)**. Dotyczy to tylko ochrony, nigdy kar.
+- Pod nieobecność pana o ochronie rodziny rozkazuje **pani rodu (Mira)**. Dotyczy to tylko ochrony, nigdy kar.
 - Nikt inny nie rozkazuje przybocznej: ani lord, ani urzędnik Korony, ani kasztelan obcego zamku.
 - Przyboczna **nie jest wojskiem Korony** i nie idzie na wojnę jako oddział, chyba że pan idzie z nią osobiście.
 

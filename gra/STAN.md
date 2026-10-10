@@ -25,10 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**259 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
-
-### 🟡 WRACA DZIS
-- LUWIN - PRZYSIEGA NA URZAD MISTRZA NAUKI (Mala Rada 07-26) · _kanal:_ Winterfell / wg sprawy
+**258 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1030,7 +1027,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-26** — GLEBOKORZEN - SLUZBA I NAUKA (Mala Rada 07-26, rzut 36): Theomore pisze tekst do karty (par.VIII/IX); pytanie do Cytadeli, czy uzna lancuchy Glebokorzenia z rodzinami (nauka) - odpowiedz przed podpisem Krola. Wola Cytadeli - RZUT. · _kto:_ **THEOMORE ; LUWIN (Cytadela)** · _zamyka:_ tekst Theomore'a + odpowiedz Cytadeli (rzut)
 - **300-07-26** — LACZNOSC I INFRASTRUKTURA - DWA NOWE MIEJSCA W MALEJ RADZIE (rzut 86): kandydaci z uczniow Glebokorzenia (wskazuje Theomore, zasada 42) - do Rady przez Mistrza Nauki (Luwin), poki nie dojrzeja. · _kto:_ **THEOMORE -> LUWIN -> KROL** · _zamyka:_ dwa nazwiska u Krola
 - **300-07-26** — POLITYKA KORONY (cel i zasady v3) - WPIS DO KSIEGI PRAW + odpis dla lordow · _kto:_ **BERON + CERWYN** · _zamyka:_ krok wykonany albo temat rozpatrzony
-- **300-07-26** — LUWIN - PRZYSIEGA NA URZAD MISTRZA NAUKI (Mala Rada 07-26) · _kto:_ **KROL + LUWIN** · _zamyka:_ krok wykonany albo temat rozpatrzony
+- **300-07-26** — LUWIN - PRZYSIEGA NA URZAD MISTRZA NAUKI (Mala Rada 07-26) · _kto:_ **KROL + LUWIN** · _zamyka:_ krok wykonany albo temat rozpatrzony **⚠ ZAMKNIETE 07-28: PRZYSIEGA W SOLARZE KROLA (BURZA), WPIS BERONA DO KSIEGI URZEDOW.**
 - **300-07-26** — FAKTOR KROLEWSKI BP - NOMINACJA PRZED WYJAZDEM KROLA (po rozmowie z Torsenem 07-30) · _kto:_ **SYMON -> KROL** · _zamyka:_ krok wykonany albo temat rozpatrzony
 - **300-07-26** — JEDNA KSIEGA KORONY - OTWARCIE W DZIEN BILANSU · _kto:_ **GAWEN** · _zamyka:_ krok wykonany albo temat rozpatrzony
 - **300-07-26** — CZYNSZ DO WYBORU - OKREG I: OGLOSZENIE NA SLUPACH (przed zniwami); pobor po zniwach ~09-15 · _kto:_ **GAWEN + RODWELL** · _zamyka:_ krok wykonany albo temat rozpatrzony
@@ -1251,7 +1248,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-28 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 13**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 14**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2595,7 +2592,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-27] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON PYTA GAWENA: ile pewnie zostaje z danin; kiedy drugie daniny od lordow; kiedy daniny od chlopow. Bez rzutu (z zapisu; ilosci E jak w liscie C). GAWEN: (1) T…
 - [300-07-27] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON: a lordowie ile zaplaca w monecie? Bez rzutu (z zapisu: kalibracja danin 300-02, par. V - forma daniny; Rada 04-01 'kazdy wedle zdolnosci'). GAWEN: W MONECI…
 - [300-07-27] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON: ile maksymalnie zarobimy na skorach? Bez rzutu (wycena E - ta sama metoda co welna: cena z dzisiejszej sprzedazy ZM, waga wzgledna skory 0.5 -> ~0.072 smok…
 - [300-07-27] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON: 'Tak zrobic.' Bez rzutu (urzednicy). (1) ORWYL (zbrojmistrz) podaje, ile skory potrzebuje pakiet dla 1500 (tarcze, pasy, rekawice, okucia) do konca roku …
@@ -2607,3 +2603,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-28] `dziennik`: 300-07-28 RANEK (PONIEDZIALEK), WINTERFELL. NOC: pan zapisal bajke 21 i polozyl sie. SEN RZUT 29: ZLE - burza od polnocy, grzmoty; Lyra budzi sie z placzem dwa razy, Mira i Symon na zmiane. …
 - [300-07-28] `dziennik`: PRZED SNIADANIEM, KOMNATA TALLYCH (burza za oknem) - ⚑ SYMON SZYKUJE LEKCJE BRAAVOSKIEGO 3 tak, by POGODZIC i ROZBAWIC obie siostry. Bez rzutu (przygotowanie; rzut przy lekcji). ZMIANA ZASAD…
 - [300-07-28] `dziennik`: SNIADANIE, WIELKA SALA (burza, pochodnie zapalone w dzien). Bez rzutu. Owsianka, jajka, chleb, maslo, miod, ciepla polewka. Przy wysokim stole: KROL, KROLOWA ROSLIN z EDDARDEM, LADY CATELYN,…
+- [300-07-28] `dziennik`: PO SNIADANIU, SOLAR KROLA (burza; zamiast gaju) - PRZYSIEGA MAESTRA LUWINA NA URZAD MISTRZA NAUKI KORONY (Mala Rada 07-26; karta Glebokorzenia par. IX, z poprawka v3 N5 - Korona nie koordynu…

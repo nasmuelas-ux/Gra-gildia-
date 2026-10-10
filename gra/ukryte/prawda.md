@@ -269,3 +269,8 @@ Fakty, które Symon ma z zapisu i z rozmowy z 07-23:
   - Obawa Symona: *„jeśli ktoś chce go zabić i go znajdzie, zrobi to nam pod nosem”*. **Fosa jest jedyną bramą z południa**, więc każdy taki człowiek musi przez nią przejść.
   - Meldunek Willi ustnie przez posłańca ~08-03. **Rzut przy meldunku.**
 - **07-23, Symon do Króla:** jeden z **Szarych Płaszczy** będzie pilnował Gendry'ego **z oddali**. To ludzie Domu, więc decyduje pan. Król się zgadza z warunkiem: *„Bez barw i bez stania pod kuźnią jak warta. Niech ma powód tam być.”* Sten wybiera człowieka z oddziału I i daje mu pozór: nosi broń przybocznej do ostrzenia i naprawy w kuźni Korony. **Cena:** oddział I przy panu ma o jednego człowieka mniej, a oddział II (Dagon) wraca ~07-24.
+
+## 300-07-27: JOJEN, sen o drodze na północ (obietnica Symona)
+- Jojen (13 lat) w galerii nad gajem: „nie śniłem siebie starego… śni mi się droga na północ i na niej kończy się to, co widzę”. To jego zielony sen, nie fakt świata.
+- **OBIETNICA SYMONA: nic nie powie Meerze.**
+- Czy wie ojciec? Jojen: Howland wie, że Jojen śni drogę, ale nie pytał, gdzie ona się kończy. List Symona do Reeda z 07-18 (prośba, by przyjechał wcześniej) czeka na odpowiedź.

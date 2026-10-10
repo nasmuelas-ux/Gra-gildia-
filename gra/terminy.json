@@ -11074,6 +11074,15 @@
    "wraca": "300-07-29",
    "zamyka": "liczba Orwyla i przydzial wydzielony",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-27",
+   "co": "KLASYFIKACJA RZEMIOSLA POLNOCY (zlecenie Namiestnika w imieniu Korony): ZM, Cailin, Barrowton, BP - zaklady wieksze niz pojedyncze; typ, mistrz, ludzie, cech, wolumen, surowiec, odbiorca; 'brak' tez wpisac. Lista: gra/klasyfikacja_rzemiosla_polnocy_zlecenie_300_07_27.md. Razem z PATRYCJATEM. Jakosc - rzut przy oddaniu.",
+   "kto": "HAL (BP, Barrowton) + WILLA (Cailin, ZM, siatka) -> LUCAN",
+   "kanal": "kruk WF->BP rano 07-28; kruk WF->Fosa (szyfr)",
+   "wraca": "300-09-01",
+   "zamyka": "klasyfikacja w karcie Willi/Hala (czesc 08-01, calosc 09-01)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

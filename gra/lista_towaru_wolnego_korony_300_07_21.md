@@ -30,3 +30,15 @@
 3. **Hal** spienięża dalej wszystko, co dostaje do BP (kwit składowy).
 
 *Spisał Gawen. Stan od Rodwella: rubryka „od kiedy leży”.*
+
+---
+## ⚑ PRÓBNA SPRZEDAŻ, ZIMOWE MIASTO, 300-07-27 (rzut 87, herold)
+Sprzedano, w przybliżeniu (E, rozkład z meldunku Gawena):
+- **łój: ok. 25 z ~40 beczek**;
+- **skóry: ok. 350 sztuk**, wybrane, bez odrzutu;
+- **wosk: ok. 12 z ~30 kamieni**;
+- **wełna: ok. 40 worków**.
+
+Płacono **w monecie**: miedzią i trochę srebrem. **Suma jest w księdze Skarbu (Gawen) i wejdzie do jednej księgi w Dzień Bilansu 08-01.** Nie podaję jej z głowy (zasada 43).
+
+**Wniosek Gawena:** Zimowe Miasto chłonie łój i skórę lepiej niż wełnę. Wełna idzie do Białego Portu albo do tkaczek.

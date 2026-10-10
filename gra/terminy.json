@@ -10993,6 +10993,15 @@
    "wraca": "300-09-15",
    "zamyka": "kandydat z warunkami albo odmowa",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-26",
+   "co": "FAKTORIE BRAAVOS W CAILIN - ZAPROSZENIE LORDA FOSY (gra/zaproszenie_faktorie_braavos_cailin_300_07_26.md): co daje Cailin (Przesmyk, woda na wschod i zachod, prawo miasta, oslona fortecy); pytanie: czego potrzebuje faktoria - liczbami; warunki pan da w odpowiedzi. Domy wybiera Nesta (styczni Domu + adresaci listow Krola 07-22). Odzew - RZUT przy odpowiedzi (kazdy dom albo zbiorczo przez Neste).",
+   "kto": "domy handlowe Braavos <- SYMON (lord Fosy); Nesta dorecza",
+   "kanal": "paczka Domu: kruk WF->BP (Hal) + statek do Braavos (~3 tyg.)",
+   "wraca": "300-09-15",
+   "zamyka": "odpowiedzi domow (potrzeby faktorii) albo cisza",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

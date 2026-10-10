@@ -10506,7 +10506,7 @@
    "kanal": "kruk Winterfell-BP (07-24 po poludniu)",
    "wraca": "300-07-30",
    "zamyka": "wyrok sadu Wymana (rzut)",
-   "status": "ZAMKNIETE 07-30 - WYROK WYMANA (rzut 19 - ZLE; ODCZYT POPRAWIONY DWA RAZY po uwagach gracza): OBRAZA KORONY - WINNY; OBRAZA LORDA FOSY - WINNY; publiczne odwolanie (gospoda + waga) + GRZYWNA; k1: grzywna do KASY SADU BP, nie na Septe (\"niech lord da ze swojego\"); k2: odwolanie WSTRZYMANE do zdjecia odciecia przez Dom (pan: wariant 3 - zdjete po cichu)."
+   "status": "ZAMKNIETE 07-30 - WYROK WYMANA (RZUT 19 VOID w calosci - zasada 3/27, poprawka gracza \"rzut na sile\"): WINNY obrazy Korony i lorda Fosy; PUBLICZNE ODWOLANIE (gospoda + waga, najblizszy dzien targowy, E) + GRZYWNA NA SEPTE SNIEGOW (kwota - sad); pregierza nie. Dopisek Wymana: \"Kupiec, ktory nie chce sluzyc Koronie, ma do tego prawo. Kupiec, ktory z niej drwi - nie ma.\""
   },
   {
    "data": "300-07-24",
@@ -10515,7 +10515,7 @@
    "kanal": "kruk Domu Winterfell-BP",
    "wraca": "300-08-05",
    "zamyka": "odciecie zdjete + odwolanie Whartona przy wadze (meldunek Hala)",
-   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu. ### 07-30 MELDUNEK HALA (rzut 9 - BARDZO ZLE): zdanie przeczytane, przyjete zle (\"Tally trzyma ksiegi i trzyma za gardlo\"); odciecie czytane jako nacisk Domu Namiestnika; DWOCH KUPCOW wycofalo frachty z Domu (E); WHARTON ZBIERA PODPISY pod skarga do Wymana TYLKO NA DOM (\"za Krola odpowiem; Dom to nie Korona\"). HAL RADZI: zdjac odciecie po cichu, zdanie zostawic, nie odpowiadac na podpisy. DO SLOWA PANA. ### 07-30: odwolanie Whartona (wyrok Wymana) czeka na zdjecie odciecia przez Dom. ### 07-30 SLOWO PANA (wariant 3): ODCIECIE ZDJETE PO CICHU - Dom przyjmuje Whartona jak kazdego; ZADNEGO ogloszenia, zadnej odpowiedzi na podpisy; szpila = jego wlasne publiczne odwolanie przy wadze. Kruk do Hala jutro rano. Odwolanie - wg wyroku Wymana, tego samego dnia (wiesc Hala)."
+   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu. ### 07-30 MELDUNEK HALA (rzut 9 - BARDZO ZLE): zdanie przeczytane, przyjete zle (\"Tally trzyma ksiegi i trzyma za gardlo\"); odciecie czytane jako nacisk Domu Namiestnika; DWOCH KUPCOW wycofalo frachty z Domu (E); WHARTON ZBIERA PODPISY pod skarga do Wymana TYLKO NA DOM (\"za Krola odpowiem; Dom to nie Korona\"). HAL RADZI: zdjac odciecie po cichu, zdanie zostawic, nie odpowiadac na podpisy. DO SLOWA PANA. ### 07-30 SLOWO PANA (wariant 3): ODCIECIE ZDJETE PO CICHU - Dom przyjmuje Whartona jak kazdego; ZADNEGO ogloszenia, zadnej odpowiedzi na podpisy; szpila = jego wlasne publiczne odwolanie przy wadze. Kruk do Hala jutro rano. Odwolanie Whartona - wg wyroku Wymana (niezalezne od odciecia)."
   },
   {
    "data": "300-07-24",

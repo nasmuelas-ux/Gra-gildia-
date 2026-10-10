@@ -13,9 +13,9 @@
 Symon mówi liczbę po braavosku. **Arya** słyszy i woła ją po naszemu. **Sansa** zapisuje cyfrą na tabliczce.
 Zanim przesypie się klepsydra, ma być dziesięć liczb. Jeśli zdążą, idą wyżej, od dwudziestu do stu. Przegrywa klepsydra, nie któraś z nich.
 
-## Część 2: miary i ułamki na rzeczach
-- Sznur: ile węzłów braavoskich mieści się w łokciu Miary Północnej.
-- **„Sześć z dziesięciu”, czyli sześć dziesiątych:** Sansa mówi po braavosku, Arya **odlicza kamyki**, z dziesięciu sześć. Potem z czterdziestu miedziaków. *(Cicha pomoc przy jej karcie: dziesiąte, ale na rzeczach.)*
+## Część 2: miary na sznurze
+- Sznur: ile węzłów braavoskich mieści się w łokciu Miary Północnej. Arya mierzy, Sansa przelicza.
+- ⚑ *Poprawka 07-28: ułamki usunięte. Dopisał je GM wbrew warunkowi Aryi z 07-18 („przygotowanie do próby nie przy Sansie”).*
 
 ## Część 3: scena „Wełna z Lys”
 Symon w chuście, jako **kupiec z Lys**, sprzedaje im wełnę i ma **dwie sztuczki**:
@@ -35,6 +35,6 @@ Symon tylko podpowiada wymowę.
 ## PRACA DOMOWA (na piątek 08-01, razem)
 **Jedna karta dla dwóch rąk.** Umowa z dzisiejszej sceny, spisana porządnie:
 - **Sansa pisze** treść;
-- **Arya liczy** kwotę i zaliczkę, sześć dziesiątych, **na kamykach**, a wynik wpisuje sama.
+- **Arya liczy** kwotę na monetach, a wynik wpisuje sama.
 
 Pod kartą podpisują się obie, każda swoim imieniem.

@@ -1,5 +1,11 @@
 # ZAPROSZENIE DLA DOMÓW HANDLOWYCH BRAAVOS: FAKTORIE W CAILIN (300-07-26)
-_Pisze **Symon Tally, lord Fosy Cailin i pan lenna** (pieczęć lorda Fosy, nie Namiestnika). Cailin jest miastem pańskim pod lennem. Kanał: paczka Domu → Biały Port (Hal) → statek → **Nesta** w Braavos doręcza domom, z którymi Dom ma styczność, i domom, do których pisał Król 07-22 (wybór Nesty). Wersja wspólna i braavoska. Warunki są **do rozmowy**, a list niczego nie przyrzeka w liczbach (zasada 43)._
+_Pisze **Symon Tally, lord Fosy Cailin i pan lenna** (pieczęć lorda Fosy, nie Namiestnika). Cailin jest miastem pańskim pod lennem. **⚑ Słowo pana 07-26: PO BRAAVOSKU, do CZTERECH domów, które pan zna. Kanał: Dom Handlowy Tally** (paczka Domu → Biały Port/Hal → statek → kantor Domu w Braavos; doręcza goniec kantoru, **nie Nesta osobiście**). Warunki są **do rozmowy**, a list niczego nie przyrzeka w liczbach (zasada 43)._
+
+**ADRESACI (z zapisu, nazwy E tam, gdzie zapis ich nie podaje):**
+1. **Dom Antaryonów**: znany od 297, wierzyciel Nesty (dług jej, nie Symona; détente od 297-10).
+2. **Dom Prestaynów**: przysłali własnego mierniczego przy drewnie (zapis 300-03).
+3. **Dom ubezpieczeniowy** (polisa roczna na rejsy do BP, 06-05; nazwa w zapisie nie pada, E: **Dom Vasselych**).
+4. **Kupiec, który wziął skóry na aukcji w BP 06-16** (statek z Braavos; nazwa E: **Dom Ferrego**).
 
 ---
 

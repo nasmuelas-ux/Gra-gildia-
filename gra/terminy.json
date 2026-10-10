@@ -11073,7 +11073,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-07-29",
    "zamyka": "liczba Orwyla i przydzial wydzielony",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 07-29 - LICZBA ORWYLA (E): ~480 skor na pakiet x1500 do konca roku (obicia tarcz ~200, pasy i temblaki ~150, rekawice ~80, rzemienie i okucia ~50; z odpadem); wydzielone w ksiedze kasztelana jako PRZYDZIAL ZBROJOWNI. Na sprzedaz zostaje ~790 (E). Dalej - garbowanie przydzialu (osobna pozycja)."
   },
   {
    "data": "300-07-27",
@@ -11154,6 +11154,15 @@
    "kanal": "kruk WF-Fosa 07-29",
    "wraca": "300-08-09",
    "zamyka": "regula ogloszona kazdej lodzi Jastrzebi (zbiorczy)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-29",
+   "co": "SKORY ZBROJOWNI - GARBOWANIE PRZYDZIALU (~480, E): Orwyl potrzebuje skory wyprawionej, nie surowej; surowe w lipcowym cieple trzeba solic albo oddac garbarzowi szybko (zasada 8). KTO GARBUJE - do slowa pana: garbarnia Domu (umowa 07-12; usluga dla Korony na kwit) albo garbarz Zimowego Miasta (patronat). Placi Kasa 3 - kwota z kwitu garbarza (zasada 43). Garbowanie ~6-8 tygodni (E); pierwsze pasy i obicia ~IX.",
+   "kto": "ORWYL + GAWEN -> SYMON",
+   "kanal": "Winterfell",
+   "wraca": "300-08-01",
+   "zamyka": "skory u garbarza, kwit",
    "status": "otwarte"
   }
  ],

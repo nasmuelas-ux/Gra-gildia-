@@ -11056,6 +11056,15 @@
    "wraca": "300-08-10",
    "zamyka": "prawo na slupach w calej domenie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-07-27",
+   "co": "WELNA DLA ATELIER (~105 workow, 3/4 kwitu Hala) - ODBIOR I ZAPLATA: woz Korony do Fosy jeszcze nie pojechal; zaplata przy odbiorze -> wplyw do skrzyni Korony w dniu wyjazdu (kwota z kwitu Gawena). Termin wozu - do slowa pana.",
+   "kto": "GAWEN + MIRA (atelier)",
+   "kanal": "woz Korony WF->Fosa",
+   "wraca": "300-08-01",
+   "zamyka": "welna odebrana, zaplata w ksiedze Skarbu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -434,3 +434,26 @@
 *Dopisek spisującego:* Kiedy Rickon zasnął na skórze przy ogniu, Bran powiedział od okna: *„Sześć razy to samo. Nie zmienił miejsca. Zmienił kształt.”* Niania odparła: *„Tak, mój mały. Głupi buduje grubiej, a mądry inaczej.”*
 
 *Uwaga porządkowa (reguła Brana):* Durran po raz pierwszy. To bajka południowa (Krainy Burzy), a jej wersja z Brandonem Budowniczym łączy się z bajką 4. Niania podaje obie wersje (Brandon i Dzieci Lasu) i nie rozstrzyga. Jest zgodna z tym, co się opowiada w kanonie.
+
+---
+
+## 23. O SKAGOS, KAMIENNEJ WYSPIE
+*Spisane 300-08-01 wieczorem, w izbie Niani. Słuchali Rickon i mały Walder, Bran był przy oknie, a Meera obok niego. Przy kolacji ser Rodrik zamknął listę stu dwudziestu na okręt, więc Rickon od razu zapytał: „Czy na Skagos są potwory?”*
+
+> Są, dziecko, a może ich nie ma. Kto by tam pojechał sprawdzić?
+>
+> Daleko na wschodzie, tam, gdzie Zatoka Fok wcina się w ląd, leży wyspa z szarego kamienia. Nazywa się Skagos, a w starej mowie znaczy to podobno *kamień*. Mieszkają na niej ludzie wysocy i włochaci jak ich kozy. Na lądzie nazywają ich **Skagosami**, a oni sami mówią o sobie: ludzie kamienia.
+>
+> Mówią, że jeżdżą na **jednorożcach**. Nie na takich z kolorowych ksiąg z południa, tylko na kudłatych, czarnych, z jednym rogiem pośrodku czoła i z nogami grubymi jak u wołu. Mówią też, że zimą, kiedy nie ma ryby ani kozy… jedzą to, czego się nie je. Ja tam nie byłam, dziecko. Powtarzam tylko, co mówili ci, co byli.
+>
+> Dawno temu, za starych królów, ludzie kamienia przysięgli Starkom. Potem odwołali przysięgę i przypłynęli na łodziach ze skór palić brzeg. Lord Stark popłynął do nich, a wyspa go nie puściła. Został tam, pod kamieniem. *(Niania nie podała jego imienia: „Starków było tylu, że i bogowie się mylą”.)* Następny Stark też popłynął, ale wziął ze sobą więcej statków niż oni mieli łodzi. Stanął na plaży i nic nie spalił. Czekał. Trzeciego dnia przyszli. Wbili włócznie w piasek i przysięgli znowu.
+>
+> I wiecie co? Od tamtego dnia trzymają słowo dłużej niż niejeden lord z nizin. Bo człowiek kamienia przysięga raz. Ale tylko temu, kto przyszedł do niego **sam, we własnej twarzy**, a nie przysłał kruka.
+>
+> *(Rickon zapytał, czy Król przywiezie mu jednorożca.)*
+>
+> Jak będziesz grzeczny, to może przywiezie róg. Cały jednorożec nie zmieści się na okręcie, a Kudłacz by go zjadł.
+
+*Dopisek spisującego:* Rickon zasnął na skórze z mocno zaciśniętą pięścią, jakby już trzymał róg. Bran powiedział od okna, nie odwracając się: *„Czekał trzy dni na plaży i nic nie spalił.”* Niania odparła: *„Tak, mój mały. Kamienia się nie łamie. Kamień się przeczekuje.”*
+
+*Uwaga porządkowa (reguła Brana):* Skagos pojawia się w bajce po raz pierwszy. Jednorożce, kanibalizm i bunt Skagosów, w którym zginął Stark, należą do kanonu, ale w kanonie są to wieści niepewne i tak też podaje je Niania. Imienia Starka, który zginął na Skagos, Niania nie podała. Trzy dni czekania na plaży to E, bajka Niani.

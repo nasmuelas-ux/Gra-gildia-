@@ -11524,6 +11524,15 @@
    "wraca": "300-08-15",
    "zamyka": "plan odwrotu (droga, znak, zbiorka) w karcie Starkportu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "ROZKAZ NAMIESTNIKA - WOJSKA KORONY NA ZACHODZIE NA POZYCJACH, WYCZEKUJA (Kamienny Brzeg, Dustinport z eskadra Torrena u ujscia, straz lancucha Robetta, sily z glebi - wymarsz po 08-10). Stan pozycji - w kartach Starkportu/Dustinportu i od Robetta. Wlasni - bez rzutu na wykonanie.",
+   "kto": "CORWIN ; DONNEL + TORREN ; ROBETT ; RODRIK (sily z glebi)",
+   "kanal": "kruki WF->Deepwood, WF->Barrowton + jezdziec; Rodrik ustnie",
+   "wraca": "300-08-10",
+   "zamyka": "meldunki: pozycje zajete",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

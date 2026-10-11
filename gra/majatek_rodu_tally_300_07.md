@@ -1,5 +1,5 @@
 # MAJĄTEK RODU TALLY: wydzielenie (słowo pana 300-07-26, noc)
-_Ustalenia z rozmowy Symona i Miry 07-26 (wieczór i noc). **Akt** spisze pisarz przysięgły **Aldric Sznur** ok. **08-02**. Do tego czasu ten plik jest projektem, nie aktem. Źródła: `gra/dom.md` (umowa 297), pismo Króla 07-14, akt opieki 299-11-29._
+_Ustalenia z rozmowy Symona i Miry 07-26 (wieczór i noc). **AKT SPISANY 300-08-02** przed południem w Winterfell przez pisarza przysięgłego **Aldrica Sznura**, przy Symonie i Mirze. Pieczęć domowa i pieczęć ławy Zimowego Miasta. Treść aktu odpowiada temu plikowi. Wyłączony jest jeden punkt: koszary przybocznej w Zimowym Mieście, które zostają do osobnego słowa. Źródła: `gra/dom.md` (umowa 297), pismo Króla 07-14, akt opieki 299-11-29._
 
 ## 1. Głowa rodu
 - **Jedna osoba** zarządza **majątkiem rodu, Domem Handlowym (zarząd) i lennem** oraz **wskazuje dziedzica**.

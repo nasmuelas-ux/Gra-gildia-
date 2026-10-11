@@ -175,14 +175,14 @@
     {
      "nazwa": "PLACOWKA ASHFORD (Reach) - przychod",
      "typ": "przychod",
-     "min": 25,
-     "max": 60,
+     "min": 50,
+     "max": 125,
      "okres": "miesiac",
      "od": "300-12-01",
      "do": null,
      "wzrost_mies": 0.02,
-     "sufit": 330,
-     "zrodlo": "Po polroczu rozruchu (VI-XI/300), jak Seagard. Reach - zboze na polnoc, drewno, sol, futra, tran i Atelier na poludnie (lista 04-02). Prowizja Domu od kontraktu zbozowego Korony - NIEUSTALONA (zasada 43), poza ta linia. ⚠ PASMO I SUFIT Z ANALOGII SEAGARD - do korekty ksiega Hala."
+     "sufit": 700,
+     "zrodlo": "Po polroczu rozruchu (VI-XI/300), jak Seagard. ⚑ KOREKTA PANA 300-08-03: 'placowka w REACH bedzie wieksza zyskownie, bo REACH jest najbogatsze'. SKALA Z ZAPISU: Seagard ma sufit 330 = pulap Rozdroza (najnizszy z pieciu). Ashford dostaje SUFIT 700 = pulap Bialego Portu (najwyzszy z pieciu). Wyzej nie, bo Ashford lezy w glebi ladu (Cockleswhent), nie jest portem: towar idzie przez Stare Miasto i Mander. Pasmo startowe skalowane tym samym stosunkiem 700/330 (~x2,1): Seagard 25-60 -> Ashford 50-125/mies; wzrost 2%. Reach - zboze na polnoc, drewno, sol, futra, tran i Atelier na poludnie (lista 04-02). Prowizja Domu od kontraktu zbozowego Korony NIEUSTALONA (zasada 43), poza ta linia. Do korekty pierwsza ksiega Hala."
     },
     {
      "nazwa": "ATELIER MIRY (bez bursztynu - ten ma wlasna linie)",

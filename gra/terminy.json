@@ -2599,7 +2599,7 @@
    "kanal": "karta odbioru z budow",
    "wraca": "300-07-01",
    "zamyka": "decyzja lorda o otwarciu albo zamknieciu targu dla wyrobu Cailin",
-   "status": "ZAMKNIETE 300-06-30: ⚑ DECYZJA PANA - 'Eksport z Cailin, zgoda.' TARG OTWARTY dla wyrobu Cailin od dzis, bez czekania na spust z karty odbioru (w sianokosy grobla i tak stoi - Garrick 06-30). Wg ramy 04-22: rynek POLNOCY; wywoz ZA PRZESMYK - nadal zakaz z 04-22, dopoki pan nie zdejmie osobno. Tylko bractwa, nie cechy. Budowy maja pierwszenstwo przy odbiorze (Warryn trzyma kolejke). Rubryka pochodzenia na liscie przewozowym (03-20) zostaje - 'beczki z Cailin nie ida na targ' (03-13) dotyczy odtad tylko tego, co zamowione na budowe. Wykonanie: Warryn, meldunek tego samego dnia."
+   "status": "ZAMKNIETE 300-06-30: ⚑ DECYZJA PANA - 'Eksport z Cailin, zgoda.' TARG do slowa pana dla wyrobu Cailin od dzis, bez czekania na spust z karty odbioru (w sianokosy grobla i tak stoi - Garrick 06-30). Wg ramy 04-22: rynek POLNOCY; wywoz ZA PRZESMYK - nadal zakaz z 04-22, dopoki pan nie zdejmie osobno. Tylko bractwa, nie cechy. Budowy maja pierwszenstwo przy odbiorze (Warryn trzyma kolejke). Rubryka pochodzenia na liscie przewozowym (03-20) zostaje - 'beczki z Cailin nie ida na targ' (03-13) dotyczy odtad tylko tego, co zamowione na budowe. Wykonanie: Warryn, meldunek tego samego dnia."
   },
   {
    "data": "~300-03-22 do 300-03-24",
@@ -2761,7 +2761,7 @@
    "kanal": "przez Lucana (Dorzecze)",
    "wraca": "300-04-01",
    "zamyka": "slowo Mallistera i czlowiek na miejscu",
-   "status": "ZAMKNIETE jako operacja 300-05-16 (karta Hala): placowka otwarta w IV, pierwszy ladunek zboza Mallisterow przez Seagard w V; koszt i przychod - w ksiedze Hala (zasada 43), dalej w bilansie miesiecznym."
+   "status": "ZAMKNIETE jako operacja 300-05-16 (karta Hala): placowka do slowa pana w IV, pierwszy ladunek zboza Mallisterow przez Seagard w V; koszt i przychod - w ksiedze Hala (zasada 43), dalej w bilansie miesiecznym."
   },
   {
    "data": "~300-04-06",
@@ -3978,7 +3978,7 @@
    "kanal": "robota na miejscu (Winterfell)",
    "wraca": "300-05-21",
    "zamyka": "wyciag chodzi z Branem",
-   "status": "ZAMKNIETE 300-05-21 (rzut 44) - podwojny worek trzyma, BRAN WJECHAL SAM; ksiega wyciagu otwarta"
+   "status": "ZAMKNIETE 300-05-21 (rzut 44) - podwojny worek trzyma, BRAN WJECHAL SAM; ksiega wyciagu do slowa pana"
   },
   {
    "data": "300-04-18",
@@ -4635,7 +4635,7 @@
    "kanal": "slup Zimowego Miasta",
    "wraca": "300-05-10",
    "zamyka": "pierwsze zamowienie zlozone u rzemieslnikow, z ksiega",
-   "status": "ZAMKNIETE 300-05-10 - pierwsze zamowienie zlozone na slupie Zimowego Miasta (Gawen + Rodrik, wlasni ludzie, bez rzutu): przeszywanice i wlocznie na pierwsze 300, ksiega zamowien otwarta; kolczugi - w tempie 1/3 monety rocznie."
+   "status": "ZAMKNIETE 300-05-10 - pierwsze zamowienie zlozone na slupie Zimowego Miasta (Gawen + Rodrik, wlasni ludzie, bez rzutu): przeszywanice i wlocznie na pierwsze 300, ksiega zamowien do slowa pana; kolczugi - w tempie 1/3 monety rocznie."
   },
   {
    "data": "300-04-29",
@@ -5004,7 +5004,7 @@
    "kanal": "Winterfell, uczta",
    "wraca": "300-05-10",
    "zamyka": "Karstark wie",
-   "status": "ZAMKNIETE 300-05-10 - powiedziane przy sniadaniu (72): Karstark przyjal dobrze - 'Dotrzymaliscie. Nie jest zle.' Przysiega Symona (probowac odzyskac) - otwarta."
+   "status": "ZAMKNIETE 300-05-10 - powiedziane przy sniadaniu (72): Karstark przyjal dobrze - 'Dotrzymaliscie. Nie jest zle.' Przysiega Symona (probowac odzyskac) - do slowa pana."
   },
   {
    "data": "300-05-10",
@@ -6858,7 +6858,7 @@
    "kanal": "Zgromadzenie rodziny",
    "wraca": "300-07-01",
    "zamyka": "liczba podana, akt podpisany",
-   "status": "ZAMKNIETE 300-07-01: akt na Fosie, forma z 06-01; pisarz przysiegly lawy Cailin EDRIN WOSK swiadkiem aktu, nie tresci. LICZBA DOMU VII/300 (kasa.py, smoki/mies, pasma): OBROT 13 165-34 620; PRZYCHOD 7 405-15 182; ZYSK 1 352-3 233; WOLNA GOTOWKA 879-2 424; kapital 4 000-6 000 (dzwignia x2,2-8,7). Mira przepisuje dwa razy (Nesta, Hal), pieczec domowa; kruki jutro rano. ⚠ korekta Hala 07-05 (czy liczba nie zawiera wyniku lenna) - otwarta."
+   "status": "ZAMKNIETE 300-07-01: akt na Fosie, forma z 06-01; pisarz przysiegly lawy Cailin EDRIN WOSK swiadkiem aktu, nie tresci. LICZBA DOMU VII/300 (kasa.py, smoki/mies, pasma): OBROT 13 165-34 620; PRZYCHOD 7 405-15 182; ZYSK 1 352-3 233; WOLNA GOTOWKA 879-2 424; kapital 4 000-6 000 (dzwignia x2,2-8,7). Mira przepisuje dwa razy (Nesta, Hal), pieczec domowa; kruki jutro rano. ⚠ korekta Hala 07-05 (czy liczba nie zawiera wyniku lenna) - do slowa pana."
   },
   {
    "data": "300-06-02",
@@ -7009,9 +7009,9 @@
    "co": "LOWCY TALENTOW W SEPTACH I W DORZECZU - dzieci nisko urodzone, bekarty, zablakane (sieroty wojenne); stypendium Domu (wikt i dach), odpracowanie 3 lata. Pisma: septon Winterfell (ustnie), septa BP (Hal), septy i panowie Dorzecza (Lucan, Deron Suchy, placowka Riverrun/Seagard). Transport: kolumny Kompanii z opiekunem. JEDEN RZUT na odzew (wola septonow i Dorzecza); Wiara zapyta o Siedmiu. ### 300-06-26: POGODA RZUT 8 - JEDNA KONSEKWENCJA: sztorm od morza caly dzien, POCZTA STOI (kruk z Winterfell nie leci, jezdziec z Dustinportu stoi przy wezbranym brodzie); pismo wychodzi 06-27. ### 07-15: odzew przez Lucana/Derona/Hala - przy raporcie 1-go (~08-03), jeden rzut wtedy.",
    "kto": "SYMON -> SEPTONI / LUCAN / DERON / HAL",
    "kanal": "ustnie + kruki + Lucan (Dorzecze ~10 dni)",
-   "wraca": "300-08-03",
+   "wraca": "300-09-01",
    "zamyka": "pierwsza lista dzieci zgloszonych + odpowiedz Wiary",
-   "status": "otwarte"
+   "status": "otwarte ### 08-03: bez wiesci (ulewa; Owen nie przed koncem IX - drzwi Wiary przez Septe Sniegow zamkniete do jesieni); pierwsza lista - razem z pismem Miry i Garricka (~09-01)."
   },
   {
    "data": "300-06-05",
@@ -7722,7 +7722,7 @@
    "kanal": "na miejscu",
    "wraca": "300-07-01",
    "zamyka": "izba chorych, zapas lekow, miejsce barakow na suchym",
-   "status": "ZAMKNIETE 300-07-01: izba chorych otwarta od dzis (Nina, Gytha; Vessaro), zapas lekow i kadzidel, miejsce barakow na suchym wyznaczone (Bran)."
+   "status": "ZAMKNIETE 300-07-01: izba chorych do slowa pana od dzis (Nina, Gytha; Vessaro), zapas lekow i kadzidel, miejsce barakow na suchym wyznaczone (Bran)."
   },
   {
    "data": "300-06-19",
@@ -8193,7 +8193,7 @@
    "kanal": "kurier Domu z Kompania; osobiscie",
    "wraca": "300-08-03",
    "zamyka": "odpowiedz Lymana + rozmowa z Bryndenem",
-   "status": "otwarte ### 07-30 (a) LYMAN - ODPOWIEDZ (rzut 28 - ZLE): stara sluzba Riverrun nic nie pamieta albo nie chce mowic ('za dawno, a pyta obcy'); MAESTER VYMAN (Riverrun, kanon) odmowil rozmowy o 'sprawach Cytadeli' i zapytal, kto pyta - Lyman: kupiec z Polnocy, dla Domu; Vyman: 'Cytadela odpowiada maesterom, nie kupcom' - i zapisal sobie imie Lymana (E); UTHERYDES WAYN (zarzadca Riverrun, kanon) zapytal Lymana przy stole, czemu Dom Tally pyta o bekarta sprzed szescdziesieciu lat. PYTANIE ZAUWAZONE W ZAMKU. Lyman przestal pytac sam. Brak tropu z Riverrun. (b) BRYNDEN (rzut 89, 07-30): Riversa nie pamieta; ZNA KAMIENNA SEPTE - tamtejszy septon slynal z wysylania glow bekartow do Cytadeli, a sierot/podrzutkow do sluzby w domach, takze na Polnoc przez kupcow Wiary z Bialego Portu; septa prowadzila KSIEGE PODRZUTKOW; rada: septa do septy, nie z Riverrun. ZAMKNIETE. NOWY TROP z Willama: Kamienna Septa (osobna pozycja; przez Owena)."
+   "status": "ZAMKNIETE 300-07-30 (Brynden 89; Willam 73; Lyman 28) - dalej: Kamienna Septa (osobna pozycja, przez Owena - czekamy do konca IX)."
   },
   {
    "data": "300-06-22",
@@ -8985,7 +8985,7 @@
    "kanal": "kruk Winterfell-Karhold",
    "wraca": "300-07-16",
    "zamyka": "odpowiedz Karstarka na list Krola albo cisza",
-   "status": "ZAMKNIETE 300-07-16 - RZUT 93: RICKARD (kruk z Karholdu): 'Moj syn jest warunkiem. Krol dotrzymal - wiecej, niz prosilem.' Przyjmuje wizyte Krola w Karholdzie ('Karhold czeka, z otwarta brama'); jego CZLOWIEK (kasztelan Karholdu) jedzie do Riverrun na wymiane jencow przy Maidenpool; Straz Marchii Karholdu - wierna. Zal Karholdu - ustepuje (zasada: nie znika, ale nie rosnie)."
+   "status": "ZAMKNIETE 300-07-16 - RZUT 93: RICKARD (kruk z Karholdu): 'Moj syn jest warunkiem. Krol dotrzymal - wiecej, niz prosilem.' Przyjmuje wizyte Krola w Karholdzie ('Karhold czeka, z do slowa pana brama'); jego CZLOWIEK (kasztelan Karholdu) jedzie do Riverrun na wymiane jencow przy Maidenpool; Straz Marchii Karholdu - wierna. Zal Karholdu - ustepuje (zasada: nie znika, ale nie rosnie)."
   },
   {
    "data": "300-07-09",
@@ -9003,7 +9003,7 @@
    "kanal": "kruk Winterfell-Fosa + woz z probka",
    "wraca": "300-08-04",
    "zamyka": "probka zbadana przez Luwina; ilosc na kwicie",
-   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): od 03-18 odlozono ~pol worka (E); PROBKA wozem z Fosy 07-27 -> Luwin ~08-03 (E), razem z ODLAMKIEM EDRICA z Wyspy Twarzy. ### 07-29 TERMIN (Krol): wynik Luwina - KROL PIERWSZY; probka ~08-03, Luwin bada tego samego dnia, werdykt Krolowi przed wyjazdem 08-05."
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): od 03-18 odlozono ~pol worka (E); PROBKA wozem z Fosy 07-27 -> Luwin ~08-03 (E), razem z ODLAMKIEM EDRICA z Wyspy Twarzy. ### 07-29 TERMIN (Krol): wynik Luwina - KROL PIERWSZY; probka ~08-03, Luwin bada tego samego dnia, werdykt Krolowi przed wyjazdem 08-05. ### 08-03: ULEWA (pogoda 16), brody wezbrane - woz z Fosy z probka i odlamkiem utknal przed brodem; w Winterfell 08-04 rano; Luwin bada 08-04, werdykt Krolowi przed 08-05 (na styk)."
   },
   {
    "data": "300-07-09",
@@ -9039,7 +9039,7 @@
    "kanal": "osobiscie",
    "wraca": "300-08-03",
    "zamyka": "zakres zastepstwa spisany przed wyplynieciem",
-   "status": "otwarte ### 08-01: do ustalenia z Krolem PRZED wyplynieciem - rozmowa ~08-03 (zakres zastepstwa spisany)."
+   "status": "ZAMKNIETE 300-08-02: zakres zastepstwa spisany w AKCIE REGENCJI (szkic Lucana, dopiski Krola, Skagos, znaki); podpis Krol + Rodrik + Cerwyn ~08-04 (pozycja ZAKRES REGENCJI)."
   },
   {
    "data": "300-07-09",
@@ -9984,7 +9984,7 @@
    "kanal": "Winterfell / domena",
    "wraca": "300-08-01",
    "zamyka": "lista pustych zagrod I-III + zrodlo osadnikow",
-   "status": "ZAMKNIETE 300-08-02 (rzut 67): 41 pustych zagrod I-III (E), 12 gotowych od zaraz; 6 rodzin z domeny wchodzi; ZRODLO reszty OTWARTE - azyl (prerogatywa) / Dorzecze (list Krola)."
+   "status": "ZAMKNIETE 300-08-02 (rzut 67): 41 pustych zagrod I-III (E), 12 gotowych od zaraz; 6 rodzin z domeny wchodzi; ZRODLO reszty do slowa pana - azyl (prerogatywa) / Dorzecze (list Krola)."
   },
   {
    "data": "300-07-19",
@@ -10477,9 +10477,9 @@
    "co": "POSLANIEC USTNY DO WILLI (Fosa) - zlecenie Namiestnika 07-23 (tresc: gra/ukryte/prawda.md, bez imion): pytanie przez jej ludzi na poludniu + baczenie przy bramie Fosy. Jezdziec z oddzialu I (Sten wybiera), wyjazd 07-24 o swicie. Meldunek ustny ~08-03 - RZUT przy meldunku.",
    "kto": "SYMON -> jezdziec (oddzial I) -> WILLA",
    "kanal": "jezdziec ustnie, Winterfell-Fosa (~4-5 dni) i z powrotem",
-   "wraca": "300-08-03",
+   "wraca": "300-08-04",
    "zamyka": "meldunek Willi ustnie (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-03: ulewa - jezdziec na traktach wolniej; powrot wieczorem 08-03 albo 08-04 (meldunek ustny - rzut przy przyjezdzie)."
   },
   {
    "data": "300-07-24",
@@ -10731,7 +10731,7 @@
    "kanal": "Winterfell / wg sprawy",
    "wraca": "300-08-01",
    "zamyka": "krok wykonany albo temat rozpatrzony",
-   "status": "ZAMKNIETE 08-01 - jedna ksiega Korony otwarta (Skarb + domena + daniny/clo lordow jawnie + wydatki rodziny Krola)."
+   "status": "ZAMKNIETE 08-01 - jedna ksiega Korony do slowa pana (Skarb + domena + daniny/clo lordow jawnie + wydatki rodziny Krola)."
   },
   {
    "data": "300-07-26",
@@ -10956,7 +10956,7 @@
    "kanal": "kurier/kruk Domu do BP",
    "wraca": "300-08-03",
    "zamyka": "Owen w Winterfell",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-02 (Owen 14): przed Swietem Zniw nie przyjedzie; najwczesniej koniec IX, jesli Wiara przysle zastepce."
   },
   {
    "data": "300-07-26",
@@ -11143,9 +11143,9 @@
    "co": "WYSPA TWARZY - PRZERWA (slowo pana 07-29): trzeciej proby nie ma; nikt z lenna nie plywa na Oko Boga do odwolania; jezdziec do DERONA SUCHEGO (Rozdroze; zastepca Lucana przy lodzi; Lucan w Winterfell od 07-10 - pan mowi mu osobiscie) - podziekowanie i zaplata Edricowi i Tamowi wg umowy. Odlamek Edrica jedzie do Luwina (~08-03).",
    "kto": "GARRICK -> DERON SUCHY (+ LUCAN w WF)",
    "kanal": "kruk WF-Fosa + jezdziec przez Przesmyk",
-   "wraca": "300-08-03",
+   "wraca": "300-08-04",
    "zamyka": "odlamek u Luwina zbadany",
-   "status": "otwarte ### 07-31: Bran (ustnie, w gaju) - prosi, by mogl zobaczyc odlamek, gdy przyjedzie (~08-03); po Luwinie i Krolu (Krol pierwszy). ### 07-31: SLOWO PANA do Jojena: \"Tak zrobimy\" - TRZECIEJ LODZI NIE BEDZIE (potwierdzone)."
+   "status": "otwarte ### 07-31: Bran (ustnie, w gaju) - prosi, by mogl zobaczyc odlamek, gdy przyjedzie (~08-03); po Luwinie i Krolu (Krol pierwszy). ### 07-31: SLOWO PANA do Jojena: \"Tak zrobimy\" - TRZECIEJ LODZI NIE BEDZIE (potwierdzone). ### 08-03: ULEWA (pogoda 16), brody wezbrane - woz z Fosy z probka i odlamkiem utknal przed brodem; w Winterfell 08-04 rano; Luwin bada 08-04, werdykt Krolowi przed 08-05 (na styk)."
   },
   {
    "data": "300-07-29",
@@ -11298,7 +11298,7 @@
    "kanal": "Winterfell",
    "wraca": "300-08-02",
    "zamyka": "slowo pana w czterech sprawach",
-   "status": "otwarte ### 08-01: (1) UMBER i (3) FLINT - odpowiedz w DEKLARACJI KORONY (podpisana); (2) GLOVER - Krol rzut 54 TAK; (4) AKADEMIA - otwarte (z Krolem 08-02)."
+   "status": "ZAMKNIETE 300-08-02: (1) Umber i (3) Flint - DEKLARACJA KORONY (podpisana 08-01); (2) Glover - Krol 54 TAK, list 08-02; (4) Akademia - Brynden 63, listy do Glovera i Tallharta 08-02."
   },
   {
    "data": "300-08-01",
@@ -11395,9 +11395,9 @@
    "co": "TORGEN SZARY (E), rozjemca Korony na Cypel - przyjazd do Winterfell z Cerwyn (~08-03); rozmowa z panem; potem droga na Cypel z Osha i dwudziestoma Rodrika.",
    "kto": "CERWYN -> TORGEN ; SYMON",
    "kanal": "jezdziec Winterfell-Cerwyn",
-   "wraca": "300-08-03",
+   "wraca": "300-08-04",
    "zamyka": "Torgen w Winterfell",
-   "status": "otwarte"
+   "status": "otwarte ### 08-03: ulewa - jezdziec z Cerwyn i Torgen w drodze wolniej; w Winterfell 08-04."
   },
   {
    "data": "300-08-01",

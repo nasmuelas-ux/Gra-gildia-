@@ -1110,7 +1110,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-08-01** — GLOVER / CYPEL - OBECNOSC KORONY (Krol rzut 54: TAK): 6 gajowych Deepwood na zoldzie Korony (Gawen - kwota, Kasa 3); WSPOLNE STRAZE LESNE pod choragwia Korony, dowodzi czlowiek Korony; GARNIZON ROZJEMCY przy drzewie - 20 z garnizonu WF (E; wybiera Rodrik przed 08-05); rozjemca Korony - obsada do 08-23. List do Glovera (pan, z deklaracja). · _kto:_ **SER RODRIK (20 ludzi) ; GAWEN (zold) ; SYMON (list, rozjemca)** · _zamyka:_ 20 ludzi Korony przy drzewie, gajowi na zoldzie, rozjemca wskazany
 - **300-08-01** — OSHA - PYTANIE PANA: czy pojdzie na Cypel przy rozjemcy Korony (czlowiek Cerwyna) - jako ona, BEZ IMIENIA NA ZADNEJ LISCIE (jej warunek 05-05), za chleb i co zechce. Wola Oshy - RZUT przy rozmowie (stara kuchnia, po kolacji - jej miejsce). · _kto:_ **SYMON -> OSHA** · _zamyka:_ slowo Oshy: tak / nie / z warunkiem **⚠ ZAMKNIETE 300-08-01 (RZUT 94): OSHA IDZIE NA CYPEL PRZY ROZJEMCY - BEZ LISTY, BEZ LANCUCHA I STRAZNIKA ('IDE PRZY NIM, NIE ZA NIM'), Z WLASNA WLOCZNIA Z KUZNI; W DRODZE UCZY ROZJEMCE OBYCZAJU OGNISKA; BRANOWI POWIE SAMA.**
 - **300-08-01** — CERWYN WSKAZUJE ROZJEMCE KORONY NA CYPEL (z ludzi Justycjariusza; Krol rzut 48) - imie do Krola przed 08-05; razem z lektura aktu regencji. · _kto:_ **CERWYN -> SYMON/KROL** · _zamyka:_ imie rozjemcy **⚠ ZAMKNIETE 300-08-01 (RZUT 85): TORGEN SZARY (E) - SEDZIA ZIEMSKI CERWYNA, 15 LAT SPOROW LASU NA GRANICY Z WILCZYM LASEM; CERWYN WZYWA GO (~2 DNI, ~08-03). IMIE DO KROLA.**
-- **300-08-01** — OSHA - WLOCZNIA Z KUZNI WINTERFELL (jej warunek, rzut 94) przed wyjazdem na Cypel z rozjemca i dwudziestoma Rodrika. Bez papieru na jej imie. · _kto:_ **SYMON -> kuznia Winterfell (Mikken)** · _zamyka:_ wlocznia w rekach Oshy
+- **300-08-01** — OSHA - WLOCZNIA Z KUZNI WINTERFELL (jej warunek, rzut 94) przed wyjazdem na Cypel z rozjemca i dwudziestoma Rodrika. Bez papieru na jej imie. · _kto:_ **SYMON -> kuznia Winterfell (Mikken)** · _zamyka:_ wlocznia w rekach Oshy **⚠ OTWARTE ### 08-02: MIKKEN - JESIONOWE DRZEWCE, GROT NA LISC DLUZSZY NIZ ZOLNIERSKI, CHWYT W RZEMIENIU - GOTOWA WIECZOREM; OSHA ODBIERA SAMA (DOBIERA DO REKI). KWIT ZBROJOWNI BEZ IMIENIA: WLOCZNIA DLA PRZEWODNICZKI ROZJEMCY.**
 - **300-08-01** — TORGEN SZARY (E), rozjemca Korony na Cypel - przyjazd do Winterfell z Cerwyn (~08-03); rozmowa z panem; potem droga na Cypel z Osha i dwudziestoma Rodrika. · _kto:_ **CERWYN -> TORGEN ; SYMON** · _zamyka:_ Torgen w Winterfell
 - **300-08-01** — SIEC WIEZ OBSERWACYJNYCH KORONY NA GRANICY CYPLA (Krol rzut 35 - jedna konsekwencja): ETAP 1 - wieze wpiete w lancuch ognia Robetta od strony puszczy; ETAP 2 (brzeg) - po pomiarze granicy (mierniczy Korony + Holt Sosna) i liczbie ognisk od Mance'a. Budowa od IX (nie z Kasy 3 w VIII). Kosztorys - Gawen; drewno - z puszczy Glovera (jego wyreb) albo kamien. · _kto:_ **GAWEN (kosztorys) ; ROBETT ; mierniczy Korony** · _zamyka:_ kosztorys etapu 1 i miejsca wiez przy lancuchu
 - **300-08-01** — DEKLARACJA KORONY O WOLNYCH LUDZIACH - ODZEW LORDOW (Umber, Glover, Flint z Palca i reszta). Kruki 08-02/03. Reakcja kazdego - RZUT przy wiesci. · _kto:_ **lordowie Polnocy** · _zamyka:_ odpowiedzi lordow
@@ -1298,7 +1298,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-08-02 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 29**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 30**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2684,7 +2684,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-08-02] `dziennik`: SNIADANIE, WIELKA SALA (mgla za oknami, pochodnie zapalone). Bez rzutu. Owsianka z miodem, jajka, chleb Benneta, maslo, ser, cieple mleko. Przy wysokim stole: KROL, KROLOWA ROSLIN z EDDARDEM…
 - [300-08-02] `dziennik`: PO SNIADANIU - SYMON: co na teraz. Bez rzutu (przeglad z terminow; kruki w poludnie - mgla).
 - [300-08-02] `dziennik`: PRZED POLUDNIEM, KOMNATA NAMIESTNIKA - ⚑ LIST DO LORDA GLOVERA (gra/poczta_300_08_02.md), pieczec Namiestnika, z odpisem Deklaracji. Bez rzutu na pisanie. Tresc z decyzji 08-01: szesciu gajo…
 - [300-08-02] `dziennik`: PRZED POLUDNIEM, SOLAR KROLA (krotko) - NOMINACJA TORSENA DO PODPISU. Bez rzutu (decyzja z rzutem 38 z 08-01; klauzule dopisane). Krol przy oknie nad mapa wschodniego wybrzeza; podpisuje nom…
@@ -2696,3 +2695,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-08-02] `dziennik`: KOMNATY TALLYCH (cd.) - ⚑ PAN: Hal nie wpisal domu do spisu Domu - dom wchodzi do rodu dopiero teraz (VOID przeliczenia, poprawki). ⚑ PAN: nasza SAKWA DOMOWA tez ma tam pieniadze; poza tym S…
 - [300-08-02] `dziennik`: KOMNATY TALLYCH (cd.) - SYMON PYTA: ile jest w sakwie domowej, ile ma Mira, ile Symon. Bez rzutu (liczby WYLACZNIE z zapisu - zasada 43; ekonomia.json '_finanse_rodziny', kwity). RHONA przyn…
 - [300-08-02] `dziennik`: KOMNATY TALLYCH (cd.) - PAN: zanotowac. Rhona wpisuje na kartce szkatuly: 'Pani Mira winna szkatule polowe lipcowej - do rozliczenia przy sierpniowej.' Stan sakw zapisany (ekonomia.json _fin…
+- [300-08-02] `dziennik`: PRZED POLUDNIEM, KUZNIA WINTERFELL - SYMON U MIKKENA: wlocznia dla Oshy (jej warunek 08-01). Bez rzutu (kuznia Korony; zbrojownia ma groty z pakietu x1500). Mikken przy palenisku, czeladnicy…

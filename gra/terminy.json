@@ -11231,11 +11231,11 @@
   {
    "data": "300-07-30",
    "co": "ZAKUP BRAKUJACEGO ZBOZA (~45-60 tys. korcy: luka Cypla + bufor zachodu + Mur; rachunek Orlanda 07-30) - SLOWO PANA: PRZEZ FAKTORA KROLEWSKIEGO W BIALYM PORCIE (latwiej i moze taniej) zamiast kontraktu przez Dom w Pentos. ZYSK (zasada mur trzech kas): Korona kupuje przez wlasnego czlowieka, Dom nie jest posrednikiem w sprawie Korony. ZASADA 8 (do wiedzy pana): (a) Faktora jeszcze nie ma - rozmowa z Torsenem 07-30, nominacja Krola ~08-04; (b) w BP kupuje sie z tego, co przywioza statki (Pentos, Reach, Braavos) - cena portu, nie pola; Obaro (Pentos) daje cene odniesienia, zeby bylo z czym porownac; (c) oplaty miasta Wymana przy hurcie. Pierwsze zadanie Faktora po nominacji.",
-   "kto": "FAKTOR KROLEWSKI BP (po nominacji) + GAWEN (Kasa 3) ; ORLAND (ilosc)",
-   "kanal": "Winterfell -> BP",
-   "wraca": "300-08-05",
-   "zamyka": "zakup zlecony Faktorowi z iloscia i limitem ceny",
-   "status": "otwarte"
+   "kto": "GAWEN -> FAKTOR ILLYRIA (BP) przez MISTRZA HANDLU (Wyman); ORLAND (ilosc)",
+   "kanal": "kruk Winterfell-Bialy Port (07-31 rano)",
+   "wraca": "300-08-08",
+   "zamyka": "oferta faktora Illyria (rzut) + pierwszy ladunek",
+   "status": "otwarte ### 07-30 SLOWO PANA (zmiana): KUPIC PRZEZ FAKTORA ILLYRIA (pentoski faktor w BP) - jak zyto ozime 07-20 - przez MISTRZA HANDLU (Wyman); nie czekac na Faktora Krolewskiego. Pismo Gawena: ilosc (Orland ~45-60 tys. korcy, w transzach VIII-X), LIMIT CENY (Gawen, Kasa 3; cena odniesienia - Obaro), zaplata pisarz Skarbu przy wadze, zboze jadalne i straczkowe (groch, bob) - nie siewne. Kruk WF->BP 07-31 rano. Oferta faktora Illyria (cena, ilosc, termin) - RZUT przy odpowiedzi (~08-08)."
   }
  ],
  "_dopiski_300_03_18": [

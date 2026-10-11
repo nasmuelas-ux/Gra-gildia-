@@ -11370,7 +11370,7 @@
    "kanal": "osobiscie, Winterfell (kuchnia)",
    "wraca": "300-08-04",
    "zamyka": "slowo Oshy: tak / nie / z warunkiem",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-01 (rzut 94): OSHA IDZIE na Cypel przy rozjemcy - bez listy, bez lancucha i straznika ('ide przy nim, nie za nim'), z wlasna wlocznia z kuzni; w drodze uczy rozjemce obyczaju ogniska; Branowi powie sama."
   },
   {
    "data": "300-08-01",
@@ -11379,6 +11379,15 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-08-03",
    "zamyka": "imie rozjemcy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "OSHA - WLOCZNIA Z KUZNI WINTERFELL (jej warunek, rzut 94) przed wyjazdem na Cypel z rozjemca i dwudziestoma Rodrika. Bez papieru na jej imie.",
+   "kto": "SYMON -> kuznia Winterfell (Mikken)",
+   "kanal": "Winterfell",
+   "wraca": "300-08-05",
+   "zamyka": "wlocznia w rekach Oshy",
    "status": "otwarte"
   }
  ],

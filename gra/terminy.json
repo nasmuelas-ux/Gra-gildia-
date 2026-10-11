@@ -10920,7 +10920,7 @@
    "kanal": "—",
    "wraca": "300-08-23",
    "zamyka": "rozjemca wskazany, granica wytyczona",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01 (Krol rzut 48 TAK): ROZJEMCA - czlowiek Justycjariusza (imie wskazuje CERWYN, w WF 08-01/02); OSHA przy nim - bez imienia na papierze, tylko z wlasnej woli (pyta pan; rzut przy rozmowie); 20 z garnizonu WF + choragiew Korony."
   },
   {
    "data": "300-07-26",
@@ -11361,6 +11361,24 @@
    "kanal": "kruk Winterfell-Deepwood; marsz WF->Cypel",
    "wraca": "300-08-23",
    "zamyka": "20 ludzi Korony przy drzewie, gajowi na zoldzie, rozjemca wskazany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "OSHA - PYTANIE PANA: czy pojdzie na Cypel przy rozjemcy Korony (czlowiek Cerwyna) - jako ona, BEZ IMIENIA NA ZADNEJ LISCIE (jej warunek 05-05), za chleb i co zechce. Wola Oshy - RZUT przy rozmowie (stara kuchnia, po kolacji - jej miejsce).",
+   "kto": "SYMON -> OSHA",
+   "kanal": "osobiscie, Winterfell (kuchnia)",
+   "wraca": "300-08-04",
+   "zamyka": "slowo Oshy: tak / nie / z warunkiem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "CERWYN WSKAZUJE ROZJEMCE KORONY NA CYPEL (z ludzi Justycjariusza; Krol rzut 48) - imie do Krola przed 08-05; razem z lektura aktu regencji.",
+   "kto": "CERWYN -> SYMON/KROL",
+   "kanal": "osobiscie, Winterfell",
+   "wraca": "300-08-03",
+   "zamyka": "imie rozjemcy",
    "status": "otwarte"
   }
  ],

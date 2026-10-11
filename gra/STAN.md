@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**257 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
+**256 otwartych** · **0 PRZETERMINOWANYCH** · 1 wraca dzis
 
 ### 🟡 WRACA DZIS
 - FERMENT - DO SLOWA PANA (poczta 08-01): (1) UMBER - zakladnicy albo inna rekojmia; jego wieszanie bez sadu poza Cyplem vs Sad Rozj… · _kanal:_ Winterfell
@@ -1105,7 +1105,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-08-01** — GLOVER / CYPEL - OBECNOSC KORONY (Krol rzut 54: TAK): 6 gajowych Deepwood na zoldzie Korony (Gawen - kwota, Kasa 3); WSPOLNE STRAZE LESNE pod choragwia Korony, dowodzi czlowiek Korony; GARNIZON ROZJEMCY przy drzewie - 20 z garnizonu WF (E; wybiera Rodrik przed 08-05); rozjemca Korony - obsada do 08-23. List do Glovera (pan, z deklaracja). · _kto:_ **SER RODRIK (20 ludzi) ; GAWEN (zold) ; SYMON (list, rozjemca)** · _zamyka:_ 20 ludzi Korony przy drzewie, gajowi na zoldzie, rozjemca wskazany
 - **300-08-01** — OSHA - PYTANIE PANA: czy pojdzie na Cypel przy rozjemcy Korony (czlowiek Cerwyna) - jako ona, BEZ IMIENIA NA ZADNEJ LISCIE (jej warunek 05-05), za chleb i co zechce. Wola Oshy - RZUT przy rozmowie (stara kuchnia, po kolacji - jej miejsce). · _kto:_ **SYMON -> OSHA** · _zamyka:_ slowo Oshy: tak / nie / z warunkiem **⚠ ZAMKNIETE 300-08-01 (RZUT 94): OSHA IDZIE NA CYPEL PRZY ROZJEMCY - BEZ LISTY, BEZ LANCUCHA I STRAZNIKA ('IDE PRZY NIM, NIE ZA NIM'), Z WLASNA WLOCZNIA Z KUZNI; W DRODZE UCZY ROZJEMCE OBYCZAJU OGNISKA; BRANOWI POWIE SAMA.**
 - **300-08-01** — CERWYN WSKAZUJE ROZJEMCE KORONY NA CYPEL (z ludzi Justycjariusza; Krol rzut 48) - imie do Krola przed 08-05; razem z lektura aktu regencji. · _kto:_ **CERWYN -> SYMON/KROL** · _zamyka:_ imie rozjemcy **⚠ ZAMKNIETE 300-08-01 (RZUT 85): TORGEN SZARY (E) - SEDZIA ZIEMSKI CERWYNA, 15 LAT SPOROW LASU NA GRANICY Z WILCZYM LASEM; CERWYN WZYWA GO (~2 DNI, ~08-03). IMIE DO KROLA.**
-- **300-08-01** — OSHA - WLOCZNIA Z KUZNI WINTERFELL (jej warunek, rzut 94) przed wyjazdem na Cypel z rozjemca i dwudziestoma Rodrika. Bez papieru na jej imie. · _kto:_ **SYMON -> kuznia Winterfell (Mikken)** · _zamyka:_ wlocznia w rekach Oshy **⚠ OTWARTE ### 08-02: MIKKEN - JESIONOWE DRZEWCE, GROT NA LISC DLUZSZY NIZ ZOLNIERSKI, CHWYT W RZEMIENIU - GOTOWA WIECZOREM; OSHA ODBIERA SAMA (DOBIERA DO REKI). KWIT ZBROJOWNI BEZ IMIENIA: WLOCZNIA DLA PRZEWODNICZKI ROZJEMCY.**
+- **300-08-01** — OSHA - WLOCZNIA Z KUZNI WINTERFELL (jej warunek, rzut 94) przed wyjazdem na Cypel z rozjemca i dwudziestoma Rodrika. Bez papieru na jej imie. · _kto:_ **SYMON -> kuznia Winterfell (Mikken)** · _zamyka:_ wlocznia w rekach Oshy **⚠ ZAMKNIETE 300-08-02: WLOCZNIA W REKACH OSHY (ODEBRALA SAMA U MIKKENA, PRZY PANU). BRANOWI POWIEDZIALA SAMA.**
 - **300-08-01** — TORGEN SZARY (E), rozjemca Korony na Cypel - przyjazd do Winterfell z Cerwyn (~08-03); rozmowa z panem; potem droga na Cypel z Osha i dwudziestoma Rodrika. · _kto:_ **CERWYN -> TORGEN ; SYMON** · _zamyka:_ Torgen w Winterfell
 - **300-08-01** — SIEC WIEZ OBSERWACYJNYCH KORONY NA GRANICY CYPLA (Krol rzut 35 - jedna konsekwencja): ETAP 1 - wieze wpiete w lancuch ognia Robetta od strony puszczy; ETAP 2 (brzeg) - po pomiarze granicy (mierniczy Korony + Holt Sosna) i liczbie ognisk od Mance'a. Budowa od IX (nie z Kasy 3 w VIII). Kosztorys - Gawen; drewno - z puszczy Glovera (jego wyreb) albo kamien. · _kto:_ **GAWEN (kosztorys) ; ROBETT ; mierniczy Korony** · _zamyka:_ kosztorys etapu 1 i miejsca wiez przy lancuchu
 - **300-08-01** — DEKLARACJA KORONY O WOLNYCH LUDZIACH - ODZEW LORDOW (Umber, Glover, Flint z Palca i reszta). Kruki 08-02/03. Reakcja kazdego - RZUT przy wiesci. · _kto:_ **lordowie Polnocy** · _zamyka:_ odpowiedzi lordow
@@ -1299,10 +1299,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-08-02 pozne popoludnie · zima (300)
+- **Data:** 300-08-02 wczesny wieczor · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 41**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 42**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2697,7 +2697,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-08-02] `dziennik`: POPOLUDNIE, MUR NAD STRZELNICA - SYMON PYTA BRYNDENA: nauczyciel wojny lesnej od Glovera (Arnolf Kora albo Bren Wilczy Slad, E) w II grupie Akademii. RZUT 63: TAK. BRYNDEN (oparty o blanke, …
 - [300-08-02] `dziennik`: POPOLUDNIE, KOMNATA NAMIESTNIKA - POCZTA PO MGLE (gra/poczta_300_08_02_popoludnie.md). Rzuty jeden na sprawe (rzuty.log). (1) OWEN (14, ZLE): przed Swietem Zniw nie przyjedzie - brak zastepc…
 - [300-08-02] `poprawki`: VOID (zasada 3, na wskazanie pana): lodzie Mormontow do floty na Skagos (Mala Rada 07-26: 'Mormontowie - Dacey zapyta matke') oraz pytanie Maege w poczcie 08-02 o 'lodzie na Skagos' - NIEREA…
 - [300-08-02] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SLOWO PANA na poczte: (1) MAEGE - lodzi na Skagos nie ma jak wyslac (musialaby oplynac Westeros) - VOID w poprawkach; LODZIE: CYPEL (ziarno przez Zatoke Lodu), …
@@ -2709,3 +2708,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-08-02] `dziennik`: POZNE POPOLUDNIE - SYMON: co jeszcze dzisiaj. Bez rzutu (przeglad z terminow).
 - [300-08-02] `dziennik`: KOMNATA NAMIESTNIKA - ⚑ DRUGI LIST DO GLOVERA - AKADEMIA (gra/poczta_300_08_02.md pkt 6), pieczec Namiestnika, kruk wieczorem. Bez rzutu. Arnolf Kora i Bren Wilczy Slad - II grupa (~09-20, P…
 - [300-08-02] `dziennik`: KOMNATA NAMIESTNIKA - ⚑ LIST DO SER LEOBALDA TALLHARTA - AKADEMIA (gra/poczta_300_08_02.md pkt 7), pieczec Namiestnika, kruk wieczorem. Bez rzutu. Dwoch weteranow przyjetych do II grupy (~09…
+- [300-08-02] `dziennik`: WCZESNY WIECZOR, KUZNIA WINTERFELL - SYMON PRZY ODBIORZE WLOCZNI PRZEZ OSHE. Bez rzutu (wlocznia zamowiona; jej wola juz rozstrzygnieta 08-01, rzut 94). Mikken podaje gotowa: jesionowe drzew…

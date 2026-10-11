@@ -11722,6 +11722,15 @@
    "wraca": "300-10-01",
    "zamyka": "pierwsza wystawa odbyta, ksiega sprzedazy",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-04",
+   "co": "ODLAMEK Z WYSPY TWARZY U BRANA NA NOC (zgoda pana 08-04) - rano 08-05 wraca do Luwina (szklo - sprawa Krolestwa, pod pieczec z nozem z torfiarni).",
+   "kto": "BRAN -> LUWIN",
+   "kanal": "WF",
+   "wraca": "300-08-05",
+   "zamyka": "odlamek u Luwina pod pieczecia",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -1121,7 +1121,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-08-02** — ROZKAZ NAMIESTNIKA - WOJSKA KORONY NA ZACHODZIE NA POZYCJACH, WYCZEKUJA (Kamienny Brzeg, Dustinport z eskadra Torrena u ujscia, straz lancucha Robetta, sily z glebi - wymarsz po 08-10). Stan pozycji - w kartach Starkportu/Dustinportu i od Robetta. Wlasni - bez rzutu na wykonanie. · _kto:_ **CORWIN ; DONNEL + TORREN ; ROBETT ; RODRIK (sily z glebi)** · _zamyka:_ meldunki: pozycje zajete
 - **300-08-02** — AKADEMIA II GRUPA (~09-20): odpowiedzi Glovera (ktory uczy) i Tallharta (imiona) + 2 wolne miejsca (Dustin milczy; Fosa/domena - Rodrik). · _kto:_ **GLOVER ; TALLHART ; RODRIK** · _zamyka:_ lista II grupy pelna u Bryndena
 - **300-08-02** — EDRIC SZUWAR - POWROT NA FOSE I PRZYJAZD DO WINTERFELL (slowo pana 08-02): konczy sluzbe przy lodzi Derona w Dorzeczu, wraca na Fose, z Fosy do Winterfell - meldunek z wyspy osobiscie u pana (o Branie nic na papierze); po rozmowie - z powrotem na Fose (Kessel, Jastrzebie). Pytanie ustne: czy drzewo mialo otwarte oczy. · _kto:_ **GARRICK -> DERON SUCHY -> EDRIC** · _zamyka:_ Edric w Winterfell, rozmowa odbyta
-- **300-08-03** — PRZEMYT NA FOSIE - DO SLOWA PANA (karta Willi 99): Odo Szuwarnik (E, sklad przy przystani Cailin), pisarz wagi Rolf (E, wpisy 'zywnosc'), dwaj kupcy z Barrowton; trzy noce z datami. Firewall: wiedza z ksiegi Domu (Willa) - jak przekazac do lenna (Kessel/Roderyk/Rorik) bez ujawniania siatki. · _kto:_ **SYMON** · _zamyka:_ slowo pana: co z Odem i Rolfem
+- **300-08-03** — PRZEMYT NA FOSIE - DO SLOWA PANA (karta Willi 99): Odo Szuwarnik (E, sklad przy przystani Cailin), pisarz wagi Rolf (E, wpisy 'zywnosc'), dwaj kupcy z Barrowton; trzy noce z datami. Firewall: wiedza z ksiegi Domu (Willa) - jak przekazac do lenna (Kessel/Roderyk/Rorik) bez ujawniania siatki. · _kto:_ **SYMON** · _zamyka:_ przemyt przerwany na dowodach lenna (patrol/ksiega) albo nic nie wyszlo **⚠ OTWARTE ### 08-03 SLOWO PANA (RADA LUCANA, FIREWALL): KESSEL - PATROL PRZYSTANI I SKLADOW W DNI BARKI PRZEZ VIII; RORIK - KONTROLA KSIAG WAGI ZA VII (WPISY "ZYWNOSC" VS DNI BARKI I BRAMA); RODERYK - SAD NA TYM, CO ZNAJDZIE LENNO; GARRICK - W ZBIORCZYM BEZ KOMENTARZA. WYNIK - RZUT PRZY MELDUNKU (ZBIORCZY GARRICKA / PISMO RORIKA).**
 - **300-08-03** — ILARIO PROSI: drugi pisarz do odpisow + lepszy len na papier (Wat). Do slowa pana. · _kto:_ **SYMON -> ILARIO/WAT** · _zamyka:_ slowo pana
 - **300-08-03** — ARYA - POWTORKA PROBY SZCZEBLA II (Kanon; za miesiac, E): obca karta, jeden blad; nauczyciel z innego wezla losem. Do poprawy: nie szukac 'trupa' - sprawdzac kazdy wpis po kolei. · _kto:_ **ARYA (+ SYMON przygotowanie)** · _zamyka:_ proba II zdana **⚠ OTWARTE ### 08-03: TRENING UWAZNOSCI U MISTRZA Z BRAAVOS (PROSBA PANA): CO RANO JEDNA/DWIE/TRZY ZMIANY W SALI; MOWIC GLOSNO, CO WIDAC, PRZED DOBYCIEM MIECZA; KARTY - KAZDY WPIS PO KOLEI, PALCEM. SKUTEK - PRZY POWTORCE (RZUT).**
 
@@ -1303,7 +1303,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-08-03 pozne popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 17**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 18**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2702,7 +2702,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-08-03] `dziennik`: KOMNATY TALLYCH (cd.) - SYMON: nie siejmy paniki; lady Catelyn zapewne to wie (z zapisu: Catelyn byla na Malej Radzie 07-26 przy punkcie Dorzecza - garnizony, Maidenpool, Brynden). Bez rzutu…
 - [300-08-03] `dziennik`: OBIAD, WIELKA SALA (niedziela, ulewa slabnie). Bez rzutu. Pieczony kurczak z czosnkiem, kasza z grzybami, kapusta z jablkiem, chleb Benneta; na deser kisiel z porzeczek. Przy wysokim stole: …
 - [300-08-03] `dziennik`: PO OBIEDZIE, PRZY DRZWIACH WIELKIEJ SALI - SYMON DO ARYI: jak zdasz, bedziesz mogla wybrac miecze jako swoja przyszlosc. Bez rzutu (slowa pana; reakcja Aryi). Z ZAPISU: Kanon - szczebel II o…
 - [300-08-03] `poprawki`: VOID (zasada 3 + doprecyzowanie pana przed rozstrzygnieciem): slowa pana do Aryi przed proba GM odczytal jako obietnice 'zdasz = wybierasz miecze'. PAN: chodzilo o to, ze po zdaniu bedzie NA…
@@ -2714,3 +2713,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-08-03] `dziennik`: POPOLUDNIE, IZBA LUWINA -> KANCELARIA - PROBA SZCZEBLA II ARYI (Halla, nauczycielka z innego wezla wg losu; obca karta rachunkowa - kwit zbozowy mlyna, E). RZUT 15: ZLE. Arya liczyla dobrze …
 - [300-08-03] `dziennik`: KANCELARIA -> ZBROJOWNIA (sala cwiczen) - ⚑ SYMON PROSI MISTRZA Z BRAAVOS, by nauczyl Arye UWAZNOSCI NA DETALE - trening tego typu. Bez rzutu (czlowiek Domu, nauczyciel Aryi; zgoda - jego fa…
 - [300-08-03] `dziennik`: POZNE POPOLUDNIE, KANCELARIA NAMIESTNIKA - SYMON CZEKA NA LUCANA; Lucan przychodzi przed kolacja (plaszcz mokry, deszcz zelzal), czyta obie karty przy panu. Bez rzutu (odczyt doradcy - nie f…
+- [300-08-03] `dziennik`: KANCELARIA - ⚑ DYSPOZYCJE PANA W LENNIE (przemyt; gra/poczta_300_08_03.md) - wg rady Lucana, firewall: w pismie BEZ imion Willi, Oda, Rolfa. Kruk WF->Fosa pozne popoludnie, do Garricka, odpi…

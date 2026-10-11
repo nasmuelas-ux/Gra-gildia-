@@ -163,6 +163,28 @@
      "zrodlo": "Port na ZATOCE ZELEZNYCH - trzecie morze Domu. Mallisterowie w rubryce ZBOZE I WIERNI zywej mapy Catelyn (298-10-01, rzut 87): 'nadmorscy, DOWIOZA'. Korytarz do Riverrun i Seagard naszkicowany z Edmure'em i Walderem Freyem. Sufit 330 - miedzy Rozdrozem a Riverrun, bo to port, ale port na najtrudniejszym morzu."
     },
     {
+     "nazwa": "PLACOWKA ASHFORD (Reach) - zaklada sie (koszt, zanim zacznie dawac)",
+     "typ": "koszt",
+     "min": 18,
+     "max": 30,
+     "okres": "miesiac",
+     "od": "300-08-01",
+     "do": "300-11-30",
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-08-03: 'Ashford powinno zostac zliczone wstecznie i dojsc do bilansu i listy placowek'. Placowka JAWNA pod znakiem Domu od 300-06-01 (rozkaz 04-02, rzut 59; wskazal Hal), mandat Korony do kontraktu zbozowego 06-07. ⚠ PASMO ROBOCZE Z ANALOGII SEAGARD (zasada 43 - jedyny precedens nowej placowki bez dachu: najem, czlowiek, zapas; pol roku kosztu) - DO KOREKTY PIERWSZA KSIEGA HALA (bilans 08-05). Zalegly koszt VI-VII - osobne zdarzenie 300-08-05 (miesiace VI-VII zamkniete i wyplacone)."
+    },
+    {
+     "nazwa": "PLACOWKA ASHFORD (Reach) - przychod",
+     "typ": "przychod",
+     "min": 25,
+     "max": 60,
+     "okres": "miesiac",
+     "od": "300-12-01",
+     "do": null,
+     "wzrost_mies": 0.02,
+     "sufit": 330,
+     "zrodlo": "Po polroczu rozruchu (VI-XI/300), jak Seagard. Reach - zboze na polnoc, drewno, sol, futra, tran i Atelier na poludnie (lista 04-02). Prowizja Domu od kontraktu zbozowego Korony - NIEUSTALONA (zasada 43), poza ta linia. ⚠ PASMO I SUFIT Z ANALOGII SEAGARD - do korekty ksiega Hala."
+    },
+    {
      "nazwa": "ATELIER MIRY (bez bursztynu - ten ma wlasna linie)",
      "typ": "przychod",
      "min": 15,
@@ -846,6 +868,15 @@
    "opis": "KARETA DLA RODZINY - gotowy kryty woz na plozach i kolach (kolodziej przy Schodach Zamkowych, Bialy Port). Oferta (a) Hala. Linia Domu w jednej sakwie pana.",
    "zrodlo": "pismo Hala 300-04-09; decyzja pana 300-04-09",
    "status": "zlecone - Hal placi przy odbiorze"
+  },
+  {
+   "data": "300-08-05",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "min": -60,
+   "max": -36,
+   "opis": "PLACOWKA ASHFORD - ZALEGLY KOSZT ZALOZENIA VI-VII/300 (zliczone wstecznie; 2 x 18-30). Miesiace VI-VII zamkniete i wyplacone - zaleglosc schodzi w VIII, przy bilansie Hala.",
+   "zrodlo": "rozstrzygniecie pana 300-08-03; pasmo z analogii Seagard",
+   "status": "do ujecia w bilansie Hala 08-05"
   }
  ],
  "_symulacje": {
@@ -1065,6 +1096,10 @@
     0.16
    ],
    "PLACOWKA SEAGARD - przychod": [
+    0.12,
+    0.16
+   ],
+   "PLACOWKA ASHFORD (Reach) - przychod": [
     0.12,
     0.16
    ]

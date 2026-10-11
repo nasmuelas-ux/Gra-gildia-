@@ -19,7 +19,8 @@
 | 8 | **Braavos**: kantor Domu | działa od 300-03 | **Nesta** |
 | 9 | **Pentos** | działa od 300-03 | **Obaro** |
 | 10 | **Barrowton**: kantorek, waga Domu, księga składu | od ~07-01 | pisarz Hala |
-| 11 | *Planowane:* znaki w Torrhen's Square, Deepwood, na Kamiennym Brzegu i w Dustinporcie; **Deski** (Dorne, oferta Dorana 07-17); przedstawiciel w Highgarden | — | Hal, Nesta |
+| 10a | **Ashford (Reach)**: placówka jawna pod znakiem Domu; od 06-07 także mandat Korony do kontraktu zbożowego | od **300-06-01** (rzut 59); w rozruchu: koszt VI–XI, dochód od XII (pasmo robocze z analogii Seagard, do korekty księgą Hala) | przedstawiciel Domu (imienia brak w zapisie), obsadził **Hal** |
+| 11 | *Planowane:* znaki w Torrhen's Square, Deepwood, na Kamiennym Brzegu i w Dustinporcie; **Deski** (Dorne, oferta Dorana 07-17). *(Poprawka 08-03: „przedstawiciel w Highgarden” to nie plan. Placówka działa w Ashford od 06-01, patrz 10a.)* | — | Hal, Nesta |
 
 ### Warsztaty i spółki
 | # | co | gdzie | stan | kto |

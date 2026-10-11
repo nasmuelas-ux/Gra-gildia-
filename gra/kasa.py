@@ -425,7 +425,7 @@ def rachunek_domu(E, wynik, r, m, zakres):
           % (kw0, kw1, obr_lo / mies / kw1, obr_hi / mies / kw0))
     print("  %-62s %s" % ("2. PRZYCHOD - sprzedaz, marze, prowizje, odsetki", fmt(prz_lo, prz_hi, 13)))
     print("       towar pieciu placowek (Westeros)                       %s" % fmt(tow_lo, tow_hi))
-    print("       towar placowek Essos i Seagard                         %s" % fmt(es_lo, es_hi))
+    print("       towar placowek Essos, Seagard, Ashford                 %s" % fmt(es_lo, es_hi))
     print("       sprzedaz warsztatow Domu                               %s" % fmt(ws_lo, ws_hi))
     print("       prowizje, odsetki, udzialy                             %s" % fmt(prow_lo, prow_hi))
     print("  %-62s %s" % ("3. ZYSK - wynik operacyjny po kosztach", fmt(zysk_lo, zysk_hi, 13)))

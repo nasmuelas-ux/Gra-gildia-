@@ -9984,7 +9984,7 @@
    "kanal": "Winterfell / domena",
    "wraca": "300-08-01",
    "zamyka": "lista pustych zagrod I-III + zrodlo osadnikow",
-   "status": "otwarte - 07-26: wlasni (Rodwell pod Gawenem) - lista pustych zagrod I-III do jednej ksiegi w DZIEN BILANSU 08-01 (zasada 7)"
+   "status": "ZAMKNIETE 300-08-02 (rzut 67): 41 pustych zagrod I-III (E), 12 gotowych od zaraz; 6 rodzin z domeny wchodzi; ZRODLO reszty OTWARTE - azyl (prerogatywa) / Dorzecze (list Krola)."
   },
   {
    "data": "300-07-19",
@@ -9993,7 +9993,7 @@
    "kanal": "Winterfell; kruk do Przystani Wilka/Bialego Portu (Theomore)",
    "wraca": "300-08-01",
    "zamyka": "plan siewu ozimego na IX dla okregow I-III z iloscia siewnego",
-   "status": "otwarte - 07-26: wlasni (Gawen + Orland) - plan siewu ozimego na IX z iloscia siewnego - w DZIEN BILANSU 08-01 (zasada 7)"
+   "status": "ZAMKNIETE 300-08-02: plan siewu ozimego IX - zyto ozime I-III, siewne z kolumny B ~1 100 korcy (E); groch/bob wiosna; rzepa/kapusta przy zagrodach."
   },
   {
    "data": "300-07-19",
@@ -10110,7 +10110,7 @@
    "kanal": "pismo Skarbu / slupy Zimowego Miasta i wsi",
    "wraca": "300-08-01",
    "zamyka": "ilu najetych (rzut - odzew) + start zniw w okregach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-02 (rzut 94): ~150 najetych (E); zniwa od 07-29 (I, II) i 08-01 (III); okreg I po gradzie najpierw; pod dachem przed koncem VIII."
   },
   {
    "data": "300-07-20",
@@ -10362,7 +10362,7 @@
    "kanal": "kurier/kruk BP-Winterfell",
    "wraca": "300-08-02",
    "zamyka": "termin przyjazdu Owena albo odmowa",
-   "status": "otwarte ### 08-01: odpowiedz Owena - kurier/kruk z BP ~08-02 (rzut przy odpowiedzi)."
+   "status": "otwarte ### 08-01: odpowiedz Owena - kurier/kruk z BP ~08-02 (rzut przy odpowiedzi). ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
   },
   {
    "data": "300-07-22",
@@ -10578,7 +10578,7 @@
    "kanal": "teren ; kruk Dreadfort-Winterfell",
    "wraca": "300-08-02",
    "zamyka": "liczenie pni + odzew Dreadfortu (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
   },
   {
    "data": "300-07-25",
@@ -10659,7 +10659,7 @@
    "kanal": "kruk Winterfell-Riverrun",
    "wraca": "300-08-02",
    "zamyka": "pierwszy transport u strazy + odzew Edmure'a (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
   },
   {
    "data": "300-07-26",
@@ -10837,9 +10837,9 @@
    "co": "GORACY PORT - WZMOCNIENIE NADZWYCZAJNE (rozkaz pana, lenno/Dom): straz budowy podwojona, ogien na murze od morza, setka Hendry'ego w gotowosci. Stan w zbiorczym Garricka. ### 07-26 PLAN NA CZTERY OGNIE (pan): GORACY PORT SPALIC - wszystko, co palne (rusztowania, szopy, sklady, lodzie), ludzie budowy na Fose; kamien muru zostaje; nic dla zelaznych. DRUZYNA HENDRY'EGO + BAGNISTE JASTRZEBIE - z ukrycia, z lasow i bagien, luk i kusza, bez otwartej bitwy. BLOKADY DREWNIANE - zasieki i zapory na sciezkach i wodzie od wybrzeza ku Cailin i Fosie (miejsca - Hendry z Jastrzebiami; budowa - ludzie Garricka; koszt lenno).",
    "kto": "HENDRY + GARRICK",
    "kanal": "kruk WF->Fosa",
-   "wraca": "300-08-02",
+   "wraca": "300-08-04",
    "zamyka": "stan w zbiorczym",
-   "status": "otwarte"
+   "status": "otwarte ### 08-02: stan - w ZBIORCZYM GARRICKA (~08-04) (zasada 34)."
   },
   {
    "data": "300-07-31",
@@ -10848,7 +10848,7 @@
    "kanal": "kruki",
    "wraca": "300-08-02",
    "zamyka": "odpowiedzi lordow",
-   "status": "otwarte"
+   "status": "otwarte ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
   },
   {
    "data": "300-07-30",
@@ -10974,7 +10974,7 @@
    "kanal": "kruk WF->Nowy Zamek (lancuch maesterski)",
    "wraca": "300-08-02",
    "zamyka": "odpowiedz Theomore'a",
-   "status": "otwarte"
+   "status": "otwarte ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
   },
   {
    "data": "300-08-09",
@@ -11298,7 +11298,7 @@
    "kanal": "Winterfell",
    "wraca": "300-08-02",
    "zamyka": "slowo pana w czterech sprawach",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: (1) UMBER i (3) FLINT - odpowiedz w DEKLARACJI KORONY (podpisana); (2) GLOVER - Krol rzut 54 TAK; (4) AKADEMIA - otwarte (z Krolem 08-02)."
   },
   {
    "data": "300-08-01",

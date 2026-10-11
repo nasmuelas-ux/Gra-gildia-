@@ -11461,6 +11461,15 @@
    "wraca": "300-08-07",
    "zamyka": "kwoty wyplaty VIII w ksiedze rodu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "AKADEMIA - II GRUPA (~09-20) WG PRZEPUSTOWOSCI (slowo pana 08-02): Glover 2 + Tallhart 2 = 4 z 6 miejsc (ludzie Tallharta w jednej izbie); 2 miejsca wolne (Dustin milczy; Fosa/domena - Rodrik). NAUCZYCIEL WOJNY LESNEJ od Glovera (poza miejscami) - SLOWO BRYNDENA (rzut przy rozmowie). Potem listy pana do Glovera i Leobalda Tallharta.",
+   "kto": "SYMON -> BRYNDEN ; SYMON -> GLOVER, TALLHART",
+   "kanal": "osobiscie (Brynden) ; kruki",
+   "wraca": "300-08-06",
+   "zamyka": "slowo Bryndena + listy do Glovera i Tallharta wyslane",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

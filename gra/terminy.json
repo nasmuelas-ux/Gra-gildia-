@@ -11307,7 +11307,7 @@
    "kanal": "Winterfell",
    "wraca": "300-08-04",
    "zamyka": "deklaracja podpisana i rozeslana krukami przed 08-05",
-   "status": "otwarte ### 08-01 TEKST PANA (szkic gra/deklaracja_dzicy_szkic_300_08_01.md): zasada ogolna, pierwsza linia Korony, eskalacje zaczyna Korona, obrona konieczna tak/poscig nie, wody wyznaczone i wolne, piec stopni, obsada falami, straz wolnych ludzi po ich stronie (zgoda przy drzewie), SIEC WIEZ OBSERWACYJNYCH Korony (prerogatywa - rzut przy przedlozeniu ~08-04; wpiecie w lancuch ognia Robetta; koszt Gawen; pomiar granicy)."
+   "status": "ZAMKNIETE 300-08-01: DEKLARACJA PODPISANA przez Krola (tekst pana). Beron przepisuje dla wszystkich lordow; kruki 08-02/03 z listem pana do Glovera. Wieze - osobny termin (Krol rzut 35)."
   },
   {
    "data": "300-08-01",
@@ -11397,6 +11397,24 @@
    "kanal": "jezdziec Winterfell-Cerwyn",
    "wraca": "300-08-03",
    "zamyka": "Torgen w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "SIEC WIEZ OBSERWACYJNYCH KORONY NA GRANICY CYPLA (Krol rzut 35 - jedna konsekwencja): ETAP 1 - wieze wpiete w lancuch ognia Robetta od strony puszczy; ETAP 2 (brzeg) - po pomiarze granicy (mierniczy Korony + Holt Sosna) i liczbie ognisk od Mance'a. Budowa od IX (nie z Kasy 3 w VIII). Kosztorys - Gawen; drewno - z puszczy Glovera (jego wyreb) albo kamien.",
+   "kto": "GAWEN (kosztorys) ; ROBETT ; mierniczy Korony",
+   "kanal": "kruk Winterfell-Deepwood",
+   "wraca": "300-09-01",
+   "zamyka": "kosztorys etapu 1 i miejsca wiez przy lancuchu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "DEKLARACJA KORONY O WOLNYCH LUDZIACH - ODZEW LORDOW (Umber, Glover, Flint z Palca i reszta). Kruki 08-02/03. Reakcja kazdego - RZUT przy wiesci.",
+   "kto": "lordowie Polnocy",
+   "kanal": "kruki",
+   "wraca": "300-08-12",
+   "zamyka": "odpowiedzi lordow",
    "status": "otwarte"
   }
  ],

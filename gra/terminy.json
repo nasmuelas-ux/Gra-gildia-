@@ -11443,6 +11443,15 @@
    "wraca": "300-08-15",
    "zamyka": "slowo pana o koszarach",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "HAL - KAMIENICA MIRY W BP WYPISANA Z KSIEGI DOMU DO MAJATKU RODU TALLY (akt 08-02, dopisek): wycena z 300-02-06; PRZELICZENIE WKLADU I UDZIALU MIRY (~1/6) przy najblizszym bilansie Hala (~08-05). Wyplaty Domu dla Symona i Miry - do skarbca rodu, kwota z kwitu.",
+   "kto": "HAL",
+   "kanal": "kruk Winterfell-BP (z poczta 08-02 w poludnie)",
+   "wraca": "300-08-05",
+   "zamyka": "kamienica poza ksiega Domu; nowy udzial Miry wyliczony",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

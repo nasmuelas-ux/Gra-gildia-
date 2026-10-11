@@ -11452,6 +11452,15 @@
    "wraca": "300-08-05",
    "zamyka": "kamienica poza ksiega Domu; nowy udzial Miry wyliczony",
    "status": "VOID 300-08-02 (poprawka pana): kamienicy nie bylo w spisie Domu - przechodzi wprost do rodu; przeliczenia udzialu Miry NIE MA. Hal tylko do wiadomosci (wyplaty Domu dla Symona i Miry - do skarbca rodu wg kwitu)."
+  },
+  {
+   "data": "300-08-02",
+   "co": "WYPLATA VIII DLA WSPOLNIKOW DOMU (rozkaz 07-14: co miesiac ponad bufor 1000, po bilansie; udzialy Symon 1/3, Nesta 1/3, Hal 1/6, Mira 1/6) - Tam liczy, Hal wyplaca; do SKARBCA RODU (rubryki Symona i Miry) wg kwitu - wpis do KSIEGI MAJATKU RODU. Dlug Miry wobec szkatuly - rozliczyc z Mira przy tej wyplacie.",
+   "kto": "TAM + HAL ; SYMON (ksiega rodu)",
+   "kanal": "bilans Hala ~08-05; kwity",
+   "wraca": "300-08-07",
+   "zamyka": "kwoty wyplaty VIII w ksiedze rodu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

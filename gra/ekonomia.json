@@ -151,6 +151,16 @@
      "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-03-15: OTWIERAMY SEAGARD. Od kwietnia, bo marzec nie ma wolnej gotowki. ⚠ INACZEJ NIZ PENTOS, GDZIE DACH JUZ STAL - tu nie ma nic: najem, czlowiek, zapas. Pol roku kosztu, zanim linia zacznie dawac - potem wchodzi jako przychod (patrz pozycja nastepna)."
     },
     {
+     "nazwa": "PLACOWKA SEAGARD - handel lokalny w rozruchu",
+     "typ": "przychod",
+     "min": 12,
+     "max": 30,
+     "okres": "miesiac",
+     "od": "300-08-01",
+     "do": "300-09-30",
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-08-03: 'placowki zalozone handluja i obracaja tez lokalnie - zasymuluj to wstecznie'. Handel lokalny w rozruchu = POLOWA pasma startowego linii dochodu tej placowki (koszt rozruchu biegnie rownolegle). Wstecz - zdarzenie wyrownania w VIII (miesiace zamkniete i wyplacone), przeliczone z korekta skali tamtych miesiecy. Seagard: polowa z 25-60."
+    },
+    {
      "nazwa": "PLACOWKA SEAGARD - przychod",
      "typ": "przychod",
      "min": 25,
@@ -171,6 +181,16 @@
      "od": "300-08-01",
      "do": "300-11-30",
      "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-08-03: 'Ashford powinno zostac zliczone wstecznie i dojsc do bilansu i listy placowek'. Placowka JAWNA pod znakiem Domu od 300-06-01 (rozkaz 04-02, rzut 59; wskazal Hal), mandat Korony do kontraktu zbozowego 06-07. ⚠ PASMO ROBOCZE Z ANALOGII SEAGARD (zasada 43 - jedyny precedens nowej placowki bez dachu: najem, czlowiek, zapas; pol roku kosztu) - DO KOREKTY PIERWSZA KSIEGA HALA (bilans 08-05). Zalegly koszt VI-VII - osobne zdarzenie 300-08-05 (miesiace VI-VII zamkniete i wyplacone)."
+    },
+    {
+     "nazwa": "PLACOWKA ASHFORD (Reach) - handel lokalny w rozruchu",
+     "typ": "przychod",
+     "min": 25,
+     "max": 60,
+     "okres": "miesiac",
+     "od": "300-08-01",
+     "do": "300-11-30",
+     "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-08-03: 'placowki zalozone handluja i obracaja tez lokalnie - zasymuluj to wstecznie'. Handel lokalny w rozruchu = POLOWA pasma startowego linii dochodu tej placowki (koszt rozruchu biegnie rownolegle). Wstecz - zdarzenie wyrownania w VIII (miesiace zamkniete i wyplacone), przeliczone z korekta skali tamtych miesiecy. Ashford: polowa z 50-125 (zaokr.)."
     },
     {
      "nazwa": "PLACOWKA ASHFORD (Reach) - przychod",
@@ -877,6 +897,24 @@
    "opis": "PLACOWKA ASHFORD - ZALEGLY KOSZT ZALOZENIA VI-VII/300 (zliczone wstecznie; 2 x 18-30). Miesiace VI-VII zamkniete i wyplacone - zaleglosc schodzi w VIII, przy bilansie Hala.",
    "zrodlo": "rozstrzygniecie pana 300-08-03; pasmo z analogii Seagard",
    "status": "do ujecia w bilansie Hala 08-05"
+  },
+  {
+   "data": "300-08-05",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "min": 110.0,
+   "max": 396.0,
+   "opis": "PLACOWKA ASHFORD - HANDEL LOKALNY VI-VII/300 (symulacja wsteczna): 2 x 25-60 x korekta skali VI-VII (x2,2..x3,3). Wyrownanie w VIII, przy bilansie Hala.",
+   "zrodlo": "rozstrzygniecie pana 300-08-03",
+   "status": "do ujecia w bilansie Hala 08-05"
+  },
+  {
+   "data": "300-08-05",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "min": 100.8,
+   "max": 378.0,
+   "opis": "PLACOWKA SEAGARD - HANDEL LOKALNY IV-VII/300 (symulacja wsteczna): IV-V 2 x 12-30 x (x2..x3) + VI-VII 2 x 12-30 x (x2,2..x3,3). Wyrownanie w VIII, przy bilansie Hala.",
+   "zrodlo": "rozstrzygniecie pana 300-08-03 (zasada ogolna: kazda zalozona placowka handluje lokalnie od poczatku)",
+   "status": "do ujecia w bilansie Hala 08-05"
   }
  ],
  "_symulacje": {
@@ -1102,6 +1140,14 @@
    "PLACOWKA ASHFORD (Reach) - przychod": [
     0.12,
     0.16
+   ],
+   "PLACOWKA ASHFORD (Reach) - handel lokalny w rozruchu": [
+    0.12,
+    0.16
+   ],
+   "PLACOWKA SEAGARD - handel lokalny w rozruchu": [
+    0.12,
+    0.16
    ]
   },
   "finanse": {
@@ -1247,5 +1293,35 @@
    "sakiewka_symona": "~190,6 smoka (ruchy od 05-30: +50, -6 smokow 90 miedziakow, +166,67, -20; stan sprzed 05-30 - brak w zapisie)",
    "dlug_miry_wobec_szkatuly": "polowa dywidendy VII obiecana 'do domu' 07-01, niewplacona - Rhona zapisuje jako dlug Miry wobec szkatuly (slowo Miry 08-02); kwota: polowa z 83,33 = ~41,67 albo to, co Mira uzna (Orsa dostala juz polowe - do rozliczenia z Mira)"
   }
+ },
+ "_synergia_sieci": {
+  "od": "300-08-01",
+  "na_placowke": [
+   0.01,
+   0.02
+  ],
+  "placowki": [
+   {
+    "nazwa": "Braavos (kantor Nesty)",
+    "od": "300-04-01"
+   },
+   {
+    "nazwa": "Pentos (Obaro)",
+    "od": "300-04-01"
+   },
+   {
+    "nazwa": "Seagard",
+    "od": "300-04-01"
+   },
+   {
+    "nazwa": "Ashford (Reach)",
+    "od": "300-06-01"
+   },
+   {
+    "nazwa": "Barrowton (kantorek)",
+    "od": "300-07-01"
+   }
+  ],
+  "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-08-03: 'kolejne placowki zwiekszaja synergie pozostalych'. Kazda placowka ponad piec podstawowych (BP, Riverrun, Fosa, WF, Rozdroze) podnosi zysk i obrot pieciu placowek o 1-2% (wiecej drog, towaru i kupcow w sieci). Liczone od VIII/300, nie wstecz (wstecz idzie tylko handel lokalny). Nowa placowka - dopisac tu z data."
  }
 }

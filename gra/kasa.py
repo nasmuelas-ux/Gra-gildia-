@@ -238,10 +238,38 @@ def licz(zakres, r, m, d=None):
                 sz_lo += z * f0
                 sz_hi += z * f1
                 ost = (roz, marza, sez, f0, f1)
+            # SYNERGIA SIECI (rozstrzygniecie gracza 300-08-03): kazda nowa placowka
+            # podnosi zysk i obrot pieciu placowek o [lo, hi] (ulamek) od miesiaca,
+            # w ktorym dziala, nie wczesniej niz od daty 'od' samej synergii.
+            SY = E.get("_synergia_sieci")
+            sy = [0.0, 0.0, 0.0, 0.0, 0]
+            if SY:
+                v0 = parsuj(SY["od"])
+                for (a, b) in mies:
+                    if (a * MIES_W_ROKU + b) < (v0[0] * MIES_W_ROKU + v0[1]):
+                        continue
+                    n = 0
+                    for P in SY["placowki"]:
+                        w = parsuj(P["od"])
+                        if (a * MIES_W_ROKU + b) >= (w[0] * MIES_W_ROKU + w[1]):
+                            n += 1
+                    o, z, roz, marza, sez = placowki_za(E, a, b)
+                    f0, f1 = skala(E, nazwa, None, a, b)
+                    g0, g1 = n * SY["na_placowke"][0], n * SY["na_placowke"][1]
+                    sy[0] += z * f0 * g0
+                    sy[1] += z * f1 * g1
+                    sy[2] += o * f0 * g0
+                    sy[3] += o * f1 * g1
+                    sy[4] = n
             if sz_hi:
                 wiersze.insert(0, ("zysk PIECIU placowek handlowych [model wzrostu]", sz_lo, sz_hi,
                                    E["_model_placowek"]["_wzor"]))
                 obrot.append(("obrot pieciu placowek [model wzrostu]", so_lo, so_hi, "model"))
+                if sy[1]:
+                    wiersze.insert(1, ("SYNERGIA SIECI - %d nowych placowek x %d-%d%%" % (
+                        sy[4], round(SY["na_placowke"][0] * 100), round(SY["na_placowke"][1] * 100)),
+                        sy[0], sy[1], SY["zrodlo"]))
+                    obrot.append(("obrot pieciu placowek - synergia sieci", sy[2], sy[3], "model"))
                 kasa = dict(kasa)
                 kasa["_rozbicie"] = ost
 
@@ -361,7 +389,8 @@ def rachunek_domu(E, wynik, r, m, zakres):
     tow_lo = tow_hi = 0.0
     for (n, lo, hi, zr) in k1["obrot"]:
         if n.startswith("obrot pieciu placowek"):
-            tow_lo, tow_hi = lo, hi
+            tow_lo += lo
+            tow_hi += hi
     es_lo = es_hi = 0.0
     warsztaty = []
     prow_lo = prow_hi = 0.0
@@ -390,7 +419,7 @@ def rachunek_domu(E, wynik, r, m, zakres):
                 prow_lo += lo
                 prow_hi += hi
                 continue
-            if n.startswith("zysk PIECIU placowek"):
+            if n.startswith("zysk PIECIU placowek") or n.startswith("SYNERGIA SIECI"):
                 continue
             prow_lo += lo     # udzialy, ekstra zysk itp. - wchodza do przychodu po nominale
             prow_hi += hi

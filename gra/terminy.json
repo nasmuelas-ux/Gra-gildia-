@@ -10362,7 +10362,7 @@
    "kanal": "kurier/kruk BP-Winterfell",
    "wraca": "300-08-02",
    "zamyka": "termin przyjazdu Owena albo odmowa",
-   "status": "otwarte ### 08-01: odpowiedz Owena - kurier/kruk z BP ~08-02 (rzut przy odpowiedzi). ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
+   "status": "ZAMKNIETE 300-08-02 (rzut 14): Owen NIE przed Swietem Zniw; najwczesniej koniec IX, jesli Wiara przysle zastepce. Trop Kamiennej Septy czeka (do slowa pana)."
   },
   {
    "data": "300-07-22",
@@ -10578,7 +10578,7 @@
    "kanal": "teren ; kruk Dreadfort-Winterfell",
    "wraca": "300-08-02",
    "zamyka": "liczenie pni + odzew Dreadfortu (rzut)",
-   "status": "otwarte ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
+   "status": "ZAMKNIETE 300-08-02 (rzut 56): 86 pni (E); Dreadfort placi Hornwoodowi wg slupa, moneta, do konca VIII."
   },
   {
    "data": "300-07-25",
@@ -10659,7 +10659,7 @@
    "kanal": "kruk Winterfell-Riverrun",
    "wraca": "300-08-02",
    "zamyka": "pierwszy transport u strazy + odzew Edmure'a (rzut)",
-   "status": "otwarte ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
+   "status": "ZAMKNIETE 300-08-02 (rzut 40): pierwszy transport u strazy (Maidenpool, Darry); KONSEKWENCJA - pierscien przy Maidenpool przerzedzony (zniwa)."
   },
   {
    "data": "300-07-26",
@@ -10848,7 +10848,7 @@
    "kanal": "kruki",
    "wraca": "300-08-02",
    "zamyka": "odpowiedzi lordow",
-   "status": "otwarte ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
+   "status": "ZAMKNIETE 300-08-02: Glover 70, Tallhart 45, Dustin 46 - tak; Mormont 29 - pyta o kolejnosc lodzi (Cypel/Skagos/zachod); Flint z Palca 81 - gotow; Ryswell 16 - po zniwach, ton chlodny."
   },
   {
    "data": "300-07-30",
@@ -10974,7 +10974,7 @@
    "kanal": "kruk WF->Nowy Zamek (lancuch maesterski)",
    "wraca": "300-08-02",
    "zamyka": "odpowiedz Theomore'a",
-   "status": "otwarte ### 08-02: mgla (pogoda 36) - kruki przychodzace po poludniu; rozstrzygniecie DZIS po poludniu."
+   "status": "ZAMKNIETE 300-08-02 (rzut 70): pocztmistrz = pisarz pod maesterem; dwoch akolitow od IX; start - trakt WF-BP."
   },
   {
    "data": "300-08-09",
@@ -11280,7 +11280,7 @@
    "kanal": "Wiara: septa do septy (Owen)",
    "wraca": "300-08-03",
    "zamyka": "Owen w Winterfell i list septy do Kamiennej Septy",
-   "status": "otwarte ### 07-30 SLOWO PANA: pyta INNY SEPTON - przez WIARE, nie Lyman ani Deron; pan CZEKA NA OWENA (zaproszony do Winterfell; odpowiedz ~08-01..03, przyjazd pozniej) - Owen napisze septa do septy. Do tego czasu nic nie wychodzi. ### 07-30 BRYNDEN (rzut 89): septa prowadzila KSIEGE PODRZUTKOW (kto, skad, komu oddany); sieroty szly na Polnoc przez kupcow Wiary z Bialego Portu - Stary Zamek Locke lezy pod BP, droga sie zgadza. Owen ma pytac o KSIEGE PODRZUTKOW z tamtej zimy."
+   "status": "otwarte ### 07-30 SLOWO PANA: pyta INNY SEPTON - przez WIARE, nie Lyman ani Deron; pan CZEKA NA OWENA (zaproszony do Winterfell; odpowiedz ~08-01..03, przyjazd pozniej) - Owen napisze septa do septy. Do tego czasu nic nie wychodzi. ### 07-30 BRYNDEN (rzut 89): septa prowadzila KSIEGE PODRZUTKOW (kto, skad, komu oddany); sieroty szly na Polnoc przez kupcow Wiary z Bialego Portu - Stary Zamek Locke lezy pod BP, droga sie zgadza. Owen ma pytac o KSIEGE PODRZUTKOW z tamtej zimy. ### 08-02: OWEN nie przyjedzie przed koncem IX (rzut 14) - droga septa-do-septy przez Owena czeka; inna droga - do slowa pana."
   },
   {
    "data": "300-07-31",
@@ -11470,6 +11470,24 @@
    "wraca": "300-08-06",
    "zamyka": "slowo Bryndena + listy do Glovera i Tallharta wyslane",
    "status": "otwarte ### 08-02 BRYNDEN (rzut 63 TAK): nauczyciel od Glovera przyjety; tydzien 4 (marsz, oboz) w Wilczym Lesie prowadzi czlowiek Glovera; kurs nadal 6 tygodni; Brynden pierwszego dnia sprawdza go sam w lesie. ZOSTAJE: listy pana do Glovera i Leobalda Tallharta."
+  },
+  {
+   "data": "300-08-02",
+   "co": "DO SLOWA PANA (poczta 08-02 po poludniu): (1) MAEGE - kolejnosc lodzi: Cypel (ziarno) / Skagos (flota Krola) / zachod (gotowosc); (2) RYSWELL - gotowosc dopiero po zniwach, ton; (3) MAIDENPOOL - pierscien przerzedzony przed 08-05 (ultimatum w drodze); (4) OWEN / Kamienna Septa - czekac czy inna droga.",
+   "kto": "SYMON (+ KROL przy lodziach Skagos)",
+   "kanal": "Winterfell",
+   "wraca": "300-08-04",
+   "zamyka": "slowo pana w czterech sprawach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "DREADFORT -> HORNWOOD: ZAPLATA ZA 86 PNI (E) wg slupa, moneta, do konca VIII (odpowiedz rzadcy pod pieczecia Boltona). Potwierdzenie lady Donelli.",
+   "kto": "DREADFORT -> HORNWOOD ; CERWYN (orzeczenie)",
+   "kanal": "kruk Hornwood-Winterfell",
+   "wraca": "300-09-01",
+   "zamyka": "Donella potwierdza wplate",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -11653,7 +11671,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-07-25",
+   "ostatnio_odebrane": "300-08-02",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

@@ -457,3 +457,26 @@
 *Dopisek spisującego:* Rickon zasnął na skórze z mocno zaciśniętą pięścią, jakby już trzymał róg. Bran powiedział od okna, nie odwracając się: *„Czekał trzy dni na plaży i nic nie spalił.”* Niania odparła: *„Tak, mój mały. Kamienia się nie łamie. Kamień się przeczekuje.”*
 
 *Uwaga porządkowa (reguła Brana):* Skagos pojawia się w bajce po raz pierwszy. Jednorożce, kanibalizm i bunt Skagosów, w którym zginął Stark, należą do kanonu, ale w kanonie są to wieści niepewne i tak też podaje je Niania. Imienia Starka, który zginął na Skagos, Niania nie podała. Trzy dni czekania na plaży to E, bajka Niani.
+
+---
+
+## 24. O DRZEWACH, KTÓRE ZAMYKAJĄ OCZY
+*Spisane 300-08-02 późnym wieczorem, w izbie Niani. Słuchali Rickon i mały Walder. Bran przyszedł późno, niesiony przez Hodora, i usiadł przy oknie, a Lato został na progu. Rickon zapytał: „Czemu drzewo w gaju płacze na czerwono?”*
+
+> Bo pamięta, dziecko. Czerwone to nie krew, tylko sok, ale drzewo płacze nim za tych, których widziało.
+>
+> Dawno temu, kiedy Pierwsi Ludzie przyszli przez Ramię Dorne, nie znali jeszcze drzew. Widzieli twarze w korze i bali się ich, więc je ścinali. Mówili, że drzewa ich szpiegują. I mieli rację, bo przez twarze patrzyły Dzieci Lasu.
+>
+> Na każdym ściętym drzewie, które jeszcze stało, twarz **zamykała oczy**. Nie z bólu. Z czekania. Drzewo z zamkniętymi oczami nie śpi, dziecko. Ono czeka, aż ktoś przyjdzie bez siekiery.
+>
+> Potem był Pakt, a ludzie przestali ścinać i zaczęli się przy drzewach modlić. Wtedy niektóre otworzyły oczy znowu i od tamtej pory płaczą: pamiętają tych, co ścinali, i tych, co przyszli się modlić. Takie macie w gaju, czerwone i płaczące.
+>
+> Ale są jeszcze, mówiła moja babka, takie bardzo stare, gdzieś na wyspie albo głęboko w lesie, które oczu nie otworzyły do dziś. Czekają dalej.
+>
+> *(Walder zapytał, na kogo czekają.)*
+>
+> A skąd ja mam wiedzieć, mały Freyu? Ja mam oczy otwarte, a i tak nic nie widzę, co nie jest dalej niż ogień.
+
+*Dopisek spisującego:* Rickon zasnął wcześnie, na skórze przy ogniu, z ręką na karku Kudłacza. Bran przy oknie nie powiedział nic. Kiedy Hodor go podnosił, spojrzał na Nianię dłużej niż zwykle. Niania mrugnęła, jak to ona, jednym okiem.
+
+*Uwaga porządkowa (reguła Brana):* Zamykanie oczu przez drzewa to motyw Niani (E). Nie należy do kanonu. Ścinanie czardrzew przez Pierwszych Ludzi i Pakt są zgodne z bajką 19 i z kanonem. Słowa Niani „na wyspie” to jej własna babcina opowieść, nie wiadomość. Niania nie zna snów Brana, a pytanie zadał Rickon.

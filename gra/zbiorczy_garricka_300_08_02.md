@@ -32,15 +32,9 @@ _Ludzie własni wykonują bez rzutu (zasada 7). Rzuty tylko tam, gdzie decyduje 
 
 ## 7. PATRONAT NAD WSIAMI I BRANŻAMI (rzut 22, ŹLE)
 - **Spis gotowy** (Gerrik): 11 wsi, młyn w śluzie, rybacy, myśliwi, zbieractwo (E).
-- **Umowy podpisały tylko 4 wsie z 11 i młyn** (E). Rybacy z grobli i dwie wsie nad wodą **odmawiają**. Ich sołtys do Warryna: *„Kupcy z barki płacą więcej niż wasz słup. I płacą od ręki.”*
+- **Umowy podpisały tylko 4 wsie z 11 i młyn** (E). Rybacy z grobli i dwie wsie nad wodą **nie chcą umowy rocznej**. Powody są legalne i zwykłe: **świeżą rybę codziennie i drobnymi partiami biorą kuchnie budów lenna i domy w Cailin, a trzcinę i sznur budowy na strzechy i rusztowania. Płacą od ręki.** Sołtys do Warryna: *„Budowy biorą codziennie i płacą od razu. Po co nam umowa na rok i zapłata przez księgę?”*
 - **Kuźnia Cailin i arsenał** są pod patronatem z urzędu, bez umów.
-- **⚠ Kłopot:** ktoś skupuje nadwyżkę wsi nad wodą **powyżej ceny ze słupa**, w dni barki. Warryn i Garrick piszą to bez wniosku.
-- **POPRAWKA 08-04 (błąd GM, zasada 3, uwaga pana):** zbiorczy przedstawił skup z barki jak zwykłą konkurencję cenową. Nie wziął pod uwagę **Prawa Spichlerza Północy, część V-quater (300-03-03)**. Warryn, który prowadzi spichlerz pod bramą, napisałby to wprost:
-  - **Ryba (świeża i solona), ptactwo wodne i zwierzyna to ŻYWNOŚĆ w rozumieniu ustawy.** Jej **sprzedaż poza targiem powyżej progu jest NIEWAŻNA, ale nie karalna** (⑦): kupiec traci rybę, bo nigdy jej nie nabył, a rybak nie ryzykuje nic. **Wywóz całej żywności jest zakazany od 299-09-09.** Kupować żywność od Północy może tylko Północ albo ten, komu Korona pozwoli (część V).
-  - **Wędzona ryba z grobli kupiona z barki** nie należy więc do kupca. Jeśli płynie na południe przez Fosę, jest to **wywóz zakazany**. Gdyby szła bagnami z pominięciem punktu kontrolnego, byłby to **przemyt zorganizowany** według Prawa żywności Fosy, II.2. Dokąd ta ryba płynie, w zapisie **nie wiadomo**.
-  - **Trzcina, sznur, futra i mech nie są żywnością.** Tu handel jest wolny i patronat jest tylko ofertą.
-  - Co z tego wynika: dla ryby **patronat (skup lenna po cenie minimalnej ogłoszonej przed tarłem) albo targ to jedyna ważna droga sprzedaży**. Wsie, które sprzedają rybę barce, sprzedają w próżnię.
-  - Z zapisu: **patrol Kessela przy przystani w dni barki przez VIII** (rozkaz z 08-03) już stoi na tej samej wodzie.
+- *VOID 08-04 (zasada 45a, wskazanie pana):* w pierwszej wersji GM wpisał tu „kupców z barki” skupujących ponad słup w dni barki i zestawił to z przemytem. To był wymysł bez wpisu. Skreślone.
 
 ## 8. KOPIOWANIE KSIĄG DLA FOSY
 - **Nie ruszyło.** Pisarze szkoły czekają na **pierwszą księgę z Winterfell**. Mira nadzoruje, ale nie ma czego kopiować. **⚠ Do Winterfell:** ktoś musi wysłać oryginał.
@@ -79,7 +73,7 @@ Herwin dopisuje na koniec: *„Do omówienia przy następnej wizycie pana na Fos
 1. **Gorący Port:** straż czy mur do końca IX?
 2. **Wieża Morska:** pale dębowe i kafar do wyceny.
 3. **Kusze:** żelazo z Barrowton albo z BP.
-4. **Patronat:** co z wsiami, które odmówiły (cena skupu nadwyżki i barka).
+4. **Patronat:** wsie, które nie chcą umowy rocznej, bo budowy płacą im od ręki.
 5. **Kopiowanie ksiąg:** pierwsza księga z Winterfell. Kto wysyła?
 6. **Droga 22 tysięcy:** łodzie Maege i Torren są zajęte gdzie indziej.
 7. **Ława:** plan potencjału czeka na wizytę pana.

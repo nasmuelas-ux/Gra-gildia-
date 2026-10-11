@@ -77,9 +77,9 @@ _Poziomy: **(1) z boku**, jawne · **(2) od ludzi**, pogłoska z miejscem, gdzie
 |---|---|---|---|---|
 | **Biały Port** | Torsen Faktorem Korony (słowo Wymana); fracht drewna rośnie po Targu | nabrzeże, 5 dni, plotka: *„Korona jesienią wystawi zboże hurtem, ceny spadną”*, więc część kupców wstrzymuje sprzedaż do IX | Hal, faktoria Domu: sól z warzelni schodzi | — |
 | **Winterfell i Zimowe Miasto** | patrycjat bez ławy z pieczęcią | zajazd pod Bramą, 3 dni, plotka: *„Dom Tally chce kupić Zimowe Miasto”* (echo pytań o Miarkę) | filia Domu: **brak kupca z kapitałem (29)** | — |
-| **Przesmyk i Fosa** | komora działa, strefy i reguła strzału | barka, 6 dni, plotka: *„wagę w Cailin da się kupić”* | **przemyt: Odo, Rolf, Barrowton (99)** | — |
+| **Przesmyk i Fosa** | komora działa, strefy i reguła strzału | ~~barka, 6 dni, plotka: „wagę w Cailin da się kupić”~~ *(VOID 08-04, zasada 45a: wymysł GM)* | **przemyt: Odo, Rolf, Barrowton (99)** | — |
 | **Ziemie Cerwyna** | żniwa w toku | Maega, 7 dni, prawdopodobne: młynarze Cerwyna podnieśli miarkę za mielenie o jedną część | Maega | — |
-| **Barrowlandy** (Barrowton, Dustinport) | podwójna straż w Dustinporcie; postój składowy w Barrowton od 1 X | woźnice w Fosie, 10 dni, prawdopodobne: *„w Barrowton sól i sukno z Południa są tańsze niż przy słupie”* (zgadza się z przemytem) | odbiorcy przemytu: dwaj kupcy z Barrowton (99) | łom wapienny (Barbrey milczy) |
+| **Barrowlandy** (Barrowton, Dustinport) | podwójna straż w Dustinporcie; postój składowy w Barrowton od 1 X | ~~woźnice w Fosie: „sól i sukno w Barrowton tańsze niż przy słupie”~~ *(VOID 08-04, zasada 45a: wymysł GM)* | odbiorcy przemytu: dwaj kupcy z Barrowton (99) | łom wapienny (Barbrey milczy) |
 | **Wilczy Las** | Glover przyjął wszystko; gotowy (70) | kupcy futer w BP, 12 dni, prawdopodobne: Deepwood skupuje smołę i drzewce do strzał | — | — |
 | **Kamienny Brzeg i Starkport** | langskip liczył brzeg (07-09); gotowość | rybacy w BP, 14 dni, plotka: *„żagle na horyzoncie”* (bez daty) | karta Theona/Starkportu (Korona) | flota żelaznych |
 | **Torrhen's Square** | Leobald: gotowy (45); dwóch weteranów do Akademii | droga przez Fosę, 9 dni, plotka: w Torrhen's Square żniwa późne, po deszczach | — | — |

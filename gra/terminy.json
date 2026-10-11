@@ -10173,7 +10173,7 @@
    "kanal": "kruk Winterfell-Fosa (07-21 rano)",
    "wraca": "300-08-11",
    "zamyka": "spis + umowy podpisane (RZUT - przyjecie przez wsie)",
-   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34). ### 08-04 ZBIORCZY (RZUT 22, ZLE): spis gotowy (11 wsi, mlyn, rybacy, mysliwi, zbieractwo); umowy - 4 wsie z 11 + mlyn; rybacy z grobli i 2 wsie nad woda ODMAWIAJA ('kupcy z barki placa wiecej niz slup, od reki'); ktos skupuje nadwyzke ponad slup w dni barki. DO SLOWA PANA ### 08-04 POPRAWKA (blad GM, uwaga pana 'jest karta spichlerza - nie mozna sprzedawac zywnosci'): RYBA = zywnosc (Prawo Spichlerza V-quater) - sprzedaz poza targiem powyzej progu NIEWAZNA (kupiec traci), wywoz zywnosci ZAKAZANY od 299-09-09, kupuje tylko Polnoc albo za zgoda Korony; trzcina, sznur, futra, mech - nie zywnosc, handel wolny. Patronat/targ = jedyna wazna droga dla ryby. Patrol Kessela w dni barki (08-03) na tej samej wodzie. Dalej - do slowa pana."
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34). ### 08-04 ZBIORCZY (RZUT 22, ZLE): spis gotowy (11 wsi, mlyn, rybacy, mysliwi, zbieractwo); umowy - 4 wsie z 11 + mlyn; rybacy z grobli i 2 wsie nad woda ODMAWIAJA ('kupcy z barki placa wiecej niz slup, od reki'); ktos skupuje nadwyzke ponad slup w dni barki. DO SLOWA PANA ### 08-04 POPRAWKA (blad GM, uwaga pana 'jest karta spichlerza - nie mozna sprzedawac zywnosci'): RYBA = zywnosc (Prawo Spichlerza V-quater) - sprzedaz poza targiem powyzej progu NIEWAZNA (kupiec traci), wywoz zywnosci ZAKAZANY od 299-09-09, kupuje tylko Polnoc albo za zgoda Korony; trzcina, sznur, futra, mech - nie zywnosc, handel wolny. Patronat/targ = jedyna wazna droga dla ryby. Patrol Kessela w dni barki (08-03) na tej samej wodzie. Dalej - do slowa pana. ### 08-04 VOID (zasada 45a, slowo pana): 'kupcy z barki ponad slup w dni barki' i zwiazek z przemytem - WYMYSL GM, skreslone. Powod odmowy (rzut 22) - legalny: budowy i domy Cailin kupuja codziennie rybe, trzcine i sznur od reki; wsie nie chca umowy rocznej z zaplata przez ksiege."
   },
   {
    "data": "300-07-21",
@@ -11559,7 +11559,7 @@
    "kanal": "Winterfell -> Fosa",
    "wraca": "300-08-15",
    "zamyka": "przemyt przerwany na dowodach lenna (patrol/ksiega) albo nic nie wyszlo",
-   "status": "otwarte ### 08-03 SLOWO PANA (rada Lucana, firewall): Kessel - patrol przystani i skladow w dni barki przez VIII; Rorik - kontrola ksiag wagi za VII (wpisy \"zywnosc\" vs dni barki i brama); Roderyk - sad na tym, co znajdzie lenno; Garrick - w zbiorczym bez komentarza. WYNIK - RZUT przy meldunku (zbiorczy Garricka / pismo Rorika)."
+   "status": "otwarte ### 08-03 SLOWO PANA (rada Lucana, firewall): Kessel - patrol przystani i skladow w dni barki przez VIII; Rorik - kontrola ksiag wagi za VII (wpisy \"zywnosc\" vs dni barki i brama); Roderyk - sad na tym, co znajdzie lenno; Garrick - w zbiorczym bez komentarza. WYNIK - RZUT przy meldunku (zbiorczy Garricka / pismo Rorika). ### 08-04 (zasada 45a): trzy noce z karty (07-08/15/22) sa SPRZED stref i reguly strzalu (07-29). Od tamtej pory system dziala; wynik (patrol Kessela, ksiegi Rorika) - rzut z waga systemu po stronie lenna."
   },
   {
    "data": "300-08-03",

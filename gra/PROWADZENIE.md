@@ -477,6 +477,15 @@ Rzeczy **z tego tygodnia** mam w kontekście i odpowiadam z nich. Rzeczy **sprze
 
 > **Zasada 8 mówi: postęp rodzi problemy. Nie mówi: prowadzący rodzi problemy.**
 
+### 45a — PRZEMYT NIE JEST DOMYŚLNYM PROBLEMEM. SYSTEM KONTROLI DZIAŁA. *(stała, 300-08-04, na wskazanie gracza: „Ile razy będziesz mi wymyślać te rzeczy z przemytem? Są oznaczenia celne, strzelamy z bełtów do przemytników. Wysyłam armię, a ty ciągle, że przemyt sobie leci i wszyscy wesolutko.")*
+
+**Co stoi w zapisie:** komora i waga, kontrolerzy, strefy i reguła strzału (07-29), Bagniste Jastrzębie na wodzie, kodeks przemytu i cła lenna (za przemyt zboża i broni dla zysku grozi szubienica), Prawo Spichlerza Północy (sprzedaż żywności poza targiem jest nieważna, wywóz żywności zakazany), Prawo żywności Fosy (konfiskata i roboty).
+
+**MECHANIKA:**
+- **Nowego wątku przemytu nie wymyśla się:** ani jako „konsekwencji”, ani jako pogłoski, ani jako wyjaśnienia ceny czy odmowy. Przemyt istnieje **tylko tam, gdzie stoi wpis z rzutu na zleconą sprawę**. Na dziś jest jedna taka sprawa: Odo, karta Willi 99, trzy noce 07-08/15/22, **wszystkie sprzed reguły strzału**.
+- **Wsie, kupcy i ceny mają najpierw zwykłe, legalne powody:** gotówka od ręki, budowy kupujące codziennie, niechęć do umowy rocznej. Po przemyt nie sięga się jako po pierwsze wyjaśnienie.
+- **Przy rozstrzyganiu waży system.** Przemytnik, którego czekają strefy, bełty i patrol, ryzykuje gardło, a nie „robi swoje dalej”. Rzut na wynik sprawy uwzględnia, że zapis daje lennu przewagę.
+
 ---
 
 # 📬 RAMA RANKA — WERSJA POPRAWIONA (zastępuje starą)

@@ -11731,6 +11731,15 @@
    "wraca": "300-08-05",
    "zamyka": "odlamek u Luwina pod pieczecia",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-04",
+   "co": "STANNIS NA MUR - CZY WYPLYNAL? (zapowiedz Stannisa 04-28, rzut 53: wyplywa ze Smoczej Skaly z pierwszym pelnym wiatrem V, laduje we Wschodniej Strazy, na Murze ~poczatek VI; 05-21 przez Davosa: data przyjeta). OD 05-21 W ZAPISIE NIC; listy z Muru (Aemon/Clydas 07-22, 08-02) o Stannisie milcza - wiec na Murze go nie ma. Pogloska z karty Willi (30 dni, plotka): nocne ognie i kopanie na Smoczej Skale. POMINIECIE GM: przyjazd nie dostal terminu (zasada 41). KANALY: posterunek Domu w Czarnym Zamku (meldunek ~08-10 - takze Wschodnia Straz); Wyl Brannik u Davosa (drugi ladunek szkla; powrot ~08-20); Hallis Mollen (posel Korony na Murze). Wynik - RZUT przy pierwszej wiesci.",
+   "kto": "POSTERUNEK DOMU (Czarny Zamek) ; WYL BRANNIK / DAVOS ; HALLIS",
+   "kanal": "kruk Domu z Czarnego Zamku; BP-Davos",
+   "wraca": "300-08-10",
+   "zamyka": "wiadomo, gdzie jest Stannis i dlaczego nie przyplynal (albo kiedy przyplynie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

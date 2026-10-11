@@ -1113,7 +1113,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-08-01** — TORGEN SZARY (E), rozjemca Korony na Cypel - przyjazd do Winterfell z Cerwyn (~08-03); rozmowa z panem; potem droga na Cypel z Osha i dwudziestoma Rodrika. · _kto:_ **CERWYN -> TORGEN ; SYMON** · _zamyka:_ Torgen w Winterfell **⚠ OTWARTE ### 08-03: ULEWA - JEZDZIEC Z CERWYN I TORGEN W DRODZE WOLNIEJ; W WINTERFELL 08-04.**
 - **300-08-01** — SIEC WIEZ OBSERWACYJNYCH KORONY NA GRANICY CYPLA (Krol rzut 35 - jedna konsekwencja): ETAP 1 - wieze wpiete w lancuch ognia Robetta od strony puszczy; ETAP 2 (brzeg) - po pomiarze granicy (mierniczy Korony + Holt Sosna) i liczbie ognisk od Mance'a. Budowa od IX (nie z Kasy 3 w VIII). Kosztorys - Gawen; drewno - z puszczy Glovera (jego wyreb) albo kamien. · _kto:_ **GAWEN (kosztorys) ; ROBETT ; mierniczy Korony** · _zamyka:_ kosztorys etapu 1 i miejsca wiez przy lancuchu
 - **300-08-01** — DEKLARACJA KORONY O WOLNYCH LUDZIACH - ODZEW LORDOW (Umber, Glover, Flint z Palca i reszta). Kruki 08-02/03. Reakcja kazdego - RZUT przy wiesci. · _kto:_ **lordowie Polnocy** · _zamyka:_ odpowiedzi lordow
-- **300-08-01** — WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 08-05 (po lekcji 5, rzut 16): tabela dwoch klas czasownikow obok siebie - piec czasownikow z kazdej klasy, czas terazniejszy i przeszly, wyprowadzone z reguly; bez zdan. Lekcja wt. wieczorem - jesli pan w zamku (08-05 wyjazd Krola). · _kto:_ **SYMON** · _zamyka:_ zadanie oddane
+- **300-08-01** — WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 08-05 (po lekcji 5, rzut 16): tabela dwoch klas czasownikow obok siebie - piec czasownikow z kazdej klasy, czas terazniejszy i przeszly, wyprowadzone z reguly; bez zdan. Lekcja wt. wieczorem - jesli pan w zamku (08-05 wyjazd Krola). · _kto:_ **SYMON** · _zamyka:_ zadanie oddane **⚠ OTWARTE ### 08-03: ODROBIONE (RZUT 100) - TABELA CZYSTA + KOLUMNA "JAK POZNAC KLASE" (REGULA SAMOGLOSKI RDZENIA, E). DO OCENY LUWINA WT. 08-05 (JESLI PAN W ZAMKU).**
 - **300-08-02** — TORSEN W BIALYM PORCIE - NOMINACJA, OGLOSZENIE PRZEZ WYMANA I PRZYSIEGA PRZED SEPTONEM (klauzule: otwarta ksiega, niezawislosc, krzywoprzysiestwo). Wola Torsena wobec klauzul - RZUT przy wiesci. · _kto:_ **WYMAN ; TORSEN** · _zamyka:_ Torsen zaprzysiezony albo odmowa
 - **300-08-02** — KOSZARY PRZYBOCZNEJ W ZIMOWYM MIESCIE (budynek przy faktorii Domu, 06-25) - kto placi i czyj budynek (Dom / lenno / rod), po przejsciu Szarych Plaszczy do lenna 08-01. Wylaczone z aktu majatkowego 08-02. · _kto:_ **SYMON (+ Mira, Hal/Gerrik)** · _zamyka:_ slowo pana o koszarach
 - **300-08-02** — HAL - KAMIENICA MIRY W BP WYPISANA Z KSIEGI DOMU DO MAJATKU RODU TALLY (akt 08-02, dopisek): wycena z 300-02-06; PRZELICZENIE WKLADU I UDZIALU MIRY (~1/6) przy najblizszym bilansie Hala (~08-05). Wyplaty Domu dla Symona i Miry - do skarbca rodu, kwota z kwitu. · _kto:_ **HAL** · _zamyka:_ kamienica poza ksiega Domu; nowy udzial Miry wyliczony **⚠ VOID 300-08-02 (POPRAWKA PANA): KAMIENICY NIE BYLO W SPISIE DOMU - PRZECHODZI WPROST DO RODU; PRZELICZENIA UDZIALU MIRY NIE MA. HAL TYLKO DO WIADOMOSCI (WYPLATY DOMU DLA SYMONA I MIRY - DO SKARBCA RODU WG KWITU).**
@@ -1307,7 +1307,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-08-03 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 14**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 16**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2703,7 +2703,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-08-02] `dziennik`: WIECZOR, IZBA BRANA (wieza) - SYMON IDZIE DO BRANA. Bez rzutu (wejscie). Bran w lozku pod futrem, przy oknie; Lato na posadzce, leb na lapach; Hodor drzemie na lawie pod sciana; Meera wychod…
 - [300-08-02] `dziennik`: IZBA BRANA (cd.) - SYMON: tak, pamieta; pyta Brana, jak jego sny. RZUT 90: BARDZO DOBRZE. (Ustnie - sny Brana nie na papier Korony; rano dla Krola, jak ustalono 07-18.) BRAN, spokojniej niz …
 - [300-08-02] `dziennik`: IZBA BRANA (cd.) - SYMON: mozesz opisac to drzewo? Bez nowego rzutu (ta sama sprawa - rzut 90; ustnie). BRAN, z zamknietymi oczami: czardrzewo STARSZE niz w gaju Winterfell - pien szerszy ni…
 - [300-08-02] `dziennik`: IZBA BRANA (cd.) - SYMON: czy Edric tu przyjedzie? Bez rzutu (z zapisu). ZAPIS: Edric Szuwar (Mchowe Jastrzebie, matka z krannogow) jest przy lodzi Derona Suchego w Dorzeczu (Rozdroze/Oko Bo…
@@ -2715,3 +2714,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-08-03] `dziennik`: PO SNIADANIU - SYMON: co mam na dzisiaj. Bez rzutu (przeglad z terminow; ulewa - kruki od poludnia).
 - [300-08-03] `dziennik`: PRZED POLUDNIEM, IZBA SKARBNIKA - SYMON U GAWENA (Beron przy pisarzu). Bez rzutu (wlasny urzednik; liczby z zapisu - zasada 43; stawka procentu - propozycja Skarbnika, E). (1) PISMO ZALICZEK…
 - [300-08-03] `dziennik`: PRZED POLUDNIEM, ZIMOWE MIASTO, IZBY LUCANA (ulewa; dwoch Szarych Plaszczy przy drzwiach). SYMON U LUCANA. Bez rzutu (wlasny doradca; odczyt, liczby tylko z zapisu - zasada 43). Lucan przy k…
+- [300-08-03] `dziennik`: PRZED POLUDNIEM, KOMNATA NAMIESTNIKA (deszcz, Lyra bawi sie na dywanie z Mira) - PRACA DOMOWA WYSOKIEGO VALYRIANSKIEGO na wt. 08-05. RZUT 100: ZNAKOMICIE. Tabela dwoch klas czasownikow obok …

@@ -63,3 +63,28 @@ _Rozłożył Namiestnik, sam. Wszystko pochodzi z zapisu. Pogłoski oznaczono ja
 | ~koniec VIII | siły z głębi na Kamiennym Brzegu |
 | ~08-25..09-10 | Król pod Skagos |
 | **do końca IX** | **okno uderzenia żelaznych (odczyt Korony)** |
+
+## 7. NA KOGO SZYKUJE SIĘ TYWIN: CO MÓWI ZAPIS (bez wniosku; pan rozważa)
+| możliwość | za (z zapisu) | przeciw (z zapisu) | kto tak czytał |
+|---|---|---|---|
+| **A. Żelaźni (obrona zachodu)** | okręty trzymane przy nabrzeżu („na Dorzecze nie bierze się okrętów”); 289: Victarion spalił flotę w Lannisporcie; langskip liczy brzegi | żadnej wieści o żelaznych pod Lannisportem | Brynden |
+| **B. Dorzecze (Maidenpool, po ultimatum)** | Maidenpool wyjdzie tylko na słowo Tywina; Darry pakuje wozy; owies i podkowy drożeją (konie) | 200 ludzi idzie **na zachód**, od Dorzecza; KP bez żołdu; żniwa; „Lew bez złota nie zaczyna wojny na jeden sezon” | Lucan (możliwe), Brynden (nie teraz) |
+| **C. Północ od morza (sam albo z krakenem)** | okręty i zaciąg; Król na morzu 08-12..09-10; „Tywin nie zapomina”, traktaty odżywają z siłą | **żadnego dowodu** kontaktu Lwa z Pyke; flota Lannisportu po 289 nieznana | Lucan („trzeci scenariusz”), Brynden („gdy wilk na morzu”) |
+| **D. Wewnątrz (KP, Róża, Stannis)** | Złote Płaszcze bez żołdu; Tyrellowie mają w KP więcej ludzi (plotka); Stannis kopie (plotka) | zaciąg jest w Lannisporcie, a nie w drodze do KP | Sansa („Róża bierze miasto bez miecza”) |
+| **E. Odbudowa rozbitej armii, bez celu** | armia zachodu rozbita; 200 wraca pod Złoty Ząb („zatkać przełęcz”); Willa: „wiemy tylko, że się zbiera” | — | Willa, Brynden |
+
+**Co rozstrzygnie (w drodze):**
+- 08-05: co zrobi Maidenpool;
+- ~08-07: Theon o krakenie;
+- ~08-10: Seagard;
+- ~08-12: spis koni w Fosie;
+- ~08-22: Willa (kto płaci, prowiant na okrętach, dokąd idą oddziały);
+- ~08-26: przegląd KP;
+- ~IX: oczy na Pyke.
+
+**Znaki, które je od siebie odróżniają:**
+- prowiant na długi rejs wskazuje na A albo C;
+- konie i owies na B;
+- rosnący Złoty Ząb na A albo E;
+- ludzie z Pyke w Lannisporcie na C;
+- kto płaci Złotym Płaszczom na D.

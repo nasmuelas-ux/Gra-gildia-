@@ -9334,9 +9334,9 @@
    "co": "MIRA W SZKOLE ZIMOWEGO MIASTA - START (Luwin 87, Krol 70): dwa ranki w tygodniu (krojenie i szycie; litery z najmniejszymi u Halli) + KARTA SZKOLY jak na Fosie (ile dzieci, skad, kto czyta/pisze/liczy, kto odpada) + nabor ze wsi. Srebro Korony (Gawen). Mira - bez rzutu.",
    "kto": "MIRA + LUWIN + HALLA; GAWEN (Kasa 3)",
    "kanal": "osobiscie, Winterfell",
-   "wraca": "300-07-31",
+   "wraca": "300-08-07",
    "zamyka": "pierwsza karta szkoly ZM od Miry",
-   "status": "otwarte"
+   "status": "otwarte ### 07-31: MIRA ZACZYNA DZIS RANO (dwa ranki w tygodniu; sama, z Rhona przy Lyrze) - pierwsza karta szkoly ZM od Miry ~08-07."
   },
   {
    "data": "300-07-11",
@@ -9433,9 +9433,9 @@
    "co": "SPIS ZBOZA W SKLADACH CALEJ POLNOCY - JEDNA LICZBA (Mala Rada 07-12, brak wskazany przez Gawena): Orland sumuje ksiegi Etapu I (Korona + Manderly, Cerwyn, Tallhart, Karstark, Hornwood, Dustin; Bolton milczy) - stan na 07-31, razem z rachunkiem Cypel/Mur/wojna.",
    "kto": "ORLAND (Spichlerz) + GAWEN",
    "kanal": "kruki do lordow / ksiegi Etapu I",
-   "wraca": "300-07-31",
+   "wraca": "300-09-15",
    "zamyka": "jedna liczba zapasu Polnocy na pismie",
-   "status": "otwarte"
+   "status": "otwarte ### 07-31: NIE PRZYSZLO I WIADOMO DLACZEGO - Orland przyslal 07-30 rachunki (Cypel/Mur/wojna, osadnicy), w ktorych pisze: liczba z ksiag Etapu I lordow DOPIERO PO ZNIWACH (IX); do tego czasu - formularze w drodze. Nowy termin ~09-15."
   },
   {
    "data": "300-07-12",
@@ -10063,9 +10063,9 @@
    "co": "LIST KROLA DO EDMURE'A - ZAWIADOMIENIE O OTWARTEJ BRAMIE (osadnicy z Dorzecza przez Fose; nikogo nie wola). Krol pisze sam.",
    "kto": "KROL -> EDMURE",
    "kanal": "kruk Winterfell-Riverrun",
-   "wraca": "300-07-30",
+   "wraca": "300-08-10",
    "zamyka": "list doreczony; odpowiedz Edmure'a - RZUT",
-   "status": "otwarte"
+   "status": "otwarte ### 07-31: LIST WYSLANY - Krol napisal 07-30 (przy obiedzie, przez Luwina), kruk WF->Riverrun 07-31 o swicie (wczoraj kruki z poludnia spoznione, wylot wstrzymany do rana). Odpowiedz Edmure'a - RZUT (~08-10)."
   },
   {
    "data": "300-07-19",

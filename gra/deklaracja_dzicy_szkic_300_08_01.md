@@ -4,6 +4,16 @@ _To szkic GM do wyboru i poprawek pana. Nic tu nie jest jeszcze postanowione. Op
 ## ZASADA OGÓLNA (nad drabiną)
 Za sprawy wolnych ludzi odpowiada **tylko Korona**. Lord **zatrzymuje** winnego, ale **nie karze go sam**. W ciągu 3 dni przekazuje go rozjemcy Korony albo do sądu Korony. Kto wymierzy karę dzikiemu z pominięciem Korony, łamie pokój Króla i odpowiada przed Justycjariuszem.
 
+## ZASADA PIERWSZEJ LINII (słowo pana 08-01)
+- **Korona stoi między wolnymi ludźmi a ziemiami lordów.** Jeśli wolni ludzie uderzą, mają trafić najpierw w ludzi Korony, a nie we wsie Umbera czy Glovera. Korona ma być na miejscu nie tylko w prawie, ale w ludziach.
+- **Eskalację zaczyna wyłącznie Korona**, bo tylko ten, kto ją zaczął, może ją też zatrzymać. Lordowie nie prowadzą działań wojennych ani obław na wolnych ludzi. Na każdym stopniu wchodzą do działania **na wezwanie Korony i pod jej dowództwem**.
+- **Obrona konieczna na miejscu jest dozwolona:** chłop broni swojej zagrody, a straż swojej bramy. **Pościg, obława i odwet należą tylko do Korony.**
+
+## WODY (słowo pana 08-01)
+- **Korona wyznacza wody przy Cyplu**, na których wolni ludzie łowią i pływają. Granice tych wód oznacza się znakami na brzegu i wpisuje do księgi rozjemcy.
+- **Na wodach wolnych** (otwartych, niczyich) mogą pływać jak każdy, pod proporcem Korony i z latarnią po zmroku.
+- **Poza wyznaczonymi i wolnymi wodami**, czyli przy brzegu Palca i przy brzegach lordów, nie łowią i nie przybijają bez zgody. Taką łódź zatrzymuje się według stopnia III.
+
 ## PIĘĆ STOPNI
 
 | stopień | co się dzieje | co robi Korona | kto działa | przypadek lorda |
@@ -18,4 +28,7 @@ Za sprawy wolnych ludzi odpowiada **tylko Korona**. Lord **zatrzymuje** winnego,
 - **Umber, zakładnicy:** rękojmią jest **chleb** (przydział, który Korona może wstrzymać), przysięga wodza złożona przy drzewie i **20 ludzi Korony na miejscu**. Lochów z dziećmi nie będzie.
 - **Umber, wieszanie:** stopień III. Zatrzymać i przekazać. Kto powiesi bez sądu, odpowiada przed Koroną.
 - **Glover:** stopnie I i II. Jego gajowi stoją w Straży Korony, na żołdzie Korony.
-- **Flint z Palca:** stopień III (proporce i latarnie). **Połów przy jego brzegu jest DO SŁOWA PANA**, bo to pytanie zostało pominięte 07-26 (np. tylko za zgodą Flinta / tylko poza jego zatokami / za opłatą rybną dla Palca).
+- **Flint z Palca:** jego brzeg leży poza wodami wyznaczonymi, więc łodzie wolnych ludzi tam nie łowią (słowo pana 08-01). Proporce i latarnie oraz stopień III. **Topić łodzi nie wolno.** Łódź zatrzymuje się i przekazuje Koronie.
+
+## UWAGA GM: LUDZIE (zasada 8, z zapisu)
+Pierwsza linia Korony to dziś: **20 ludzi z Winterfell** przy rozjemcy (E: liczba z 08-01), **straż Robetta** na granicy Cypla (żołd Korony) oraz **6 gajowych** Glovera w Straży Korony. Na wodzie są łodzie Mormontów, ale tylko gdy płyną z ziarnem. To wystarczy na sąd, zatrzymania i jeden posterunek. **Nie wystarczy na zasłonięcie całej granicy z puszczą Glovera i brzegu Zatoki Lodowej.** Jeśli Korona ma być pierwszą linią, potrzeba więcej ludzi albo łodzi, a to oznacza prerogatywę Króla (garnizon, żołd, Kasa 3) przed 08-05.

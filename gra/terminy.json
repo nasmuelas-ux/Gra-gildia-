@@ -11622,7 +11622,7 @@
    "kanal": "list do Hala z bilansem",
    "wraca": "300-08-05",
    "zamyka": "dopisek poszedl z listem",
-   "status": "otwarte"
+   "status": "VOID - blad GM (Dom nie plywa przez Stopnie; dopisku nie ma)"
   },
   {
    "data": "300-08-03",

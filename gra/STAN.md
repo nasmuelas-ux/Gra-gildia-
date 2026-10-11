@@ -25,7 +25,7 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**259 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**258 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1128,7 +1128,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-08-03** — KIERUNKI LWA - ZLECENIE PILNE DO WILLI (pan 08-03, odczyt Lucana; gra/poczta_300_08_03_wieczor.md pkt 1A): kto placi zaciag w Lannisporcie (czyje zloto, przez kogo, od kiedy); dokad ida oddzialy pod lwem; okrety w Lannisporcie (prowiant, kierunek); druga sakiewka Lwa; zelazni - czyim zlotem placa; kazda wiesc o 'Ciszy'/Wronim Oku. Firewall - szyfr Willi, pisze Lucan. WYNIK - RZUT przy meldunku. · _kto:_ **WILLA (siatka; Lannisport przez Seagard; Deron)** · _zamyka:_ meldunek Willi o kierunkach Lwa (poza kolejka) albo w karcie 09-01
 - **300-08-03** — PRZEGLAD KROLEWSKIEJ PRZYSTANI I DALEJ - USPIENI (pan 08-03; poczta_300_08_03_wieczor.md pkt 1B): kto rzadzi Rada / kto u Tywina; Zlote Plaszcze (zold, liczba, nastroje); chleb i zboze; Bank i Tyrellowie w KP; co mowia o Stannisie, Dorne, Polnocy; dalej: Smocza Skala i Zatoka (przewoznik), Koniec Burzy, Rozdroze. Bez pytan, ktore odslonia. Kanal: kruk Fosa-KP 8 dni tam, ~20 z powrotem. WYNIK - RZUT przy meldunku. · _kto:_ **WILLA -> USPIENI KP (pisarz, wdowa, przewoznik)** · _zamyka:_ przeglad KP w rekach pana
 - **300-08-03** — MEWI GROD - DOKAD PLYNA STATKI BAELISHA (pan 08-03, odczyt Lucana; poczta pkt 2): nie kto placi - DOKAD, co wioza, ilu ludzi. WYNIK - RZUT przy meldunku. · _kto:_ **nasluch portu Mewi Grod (przez Hala/BP)** · _zamyka:_ meldunek nasluchu o kierunku statkow
-- **300-08-03** — DO HALA w liscie z bilansem 08-05 (pan 08-03): fracht przez Stopnie drozeje (pewne) - przeliczyc marze towaru z Essos; Zlota Kompania zajeta w Ziemiach Spornych - do wiadomosci. · _kto:_ **HAL** · _zamyka:_ dopisek poszedl z listem
+- **300-08-03** — DO HALA w liscie z bilansem 08-05 (pan 08-03): fracht przez Stopnie drozeje (pewne) - przeliczyc marze towaru z Essos; Zlota Kompania zajeta w Ziemiach Spornych - do wiadomosci. · _kto:_ **HAL** · _zamyka:_ dopisek poszedl z listem **⚠ VOID - BLAD GM (DOM NIE PLYWA PRZEZ STOPNIE; DOPISKU NIE MA)**
 - **300-08-03** — GAWEN (pan 08-03): konie z Rills - placic szybko i przy odbiorze wg slupa; PROPOZYCJA DATY jesiennej wystawy zboza w BP (Faktor Torsen) - oglosic wczesnie, by spekulanci przestali trzymac; data = Korona -> do Krola 08-04 (prerogatywa, rzut przy przedlozeniu). · _kto:_ **GAWEN ; KROL** · _zamyka:_ Gawen ma propozycje daty; Krol rozstrzyga
 - **300-08-03** — DO KROLA 08-04 (pan 08-03): Karhold zna droge na Skagos (pogloska foki-za-zelazo) - przy zawinieciu pytac Rickarda o droge, przystanie, ludzi Magnara; 'Cisza'/Wronie Oko (plotka 50 dni) - do wiadomosci; data zboza w BP. · _kto:_ **SYMON -> KROL** · _zamyka:_ przekazane Krolowi
 - **300-08-03** — TORGEN SZARY (przyjazd 08-04; pan 08-03): przy drzewie zapytac staroste, potem Mance'a o 'ogniska, ktore nie chca przejsc' - ile, gdzie, dlaczego. · _kto:_ **TORGEN** · _zamyka:_ odpowiedz starosty lub Mance'a
@@ -2718,7 +2718,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-08-03] `dziennik`: KUZNIA -> KANCELARIA NAMIESTNIKA. Symon do Gendry'ego: trzymaj sie. Po ulewie kruki doszly (po poludniu). NA STOLE (gra/raport_domu_300_08_01.md): KARTA WILLI - PRZEMYT (99): organizator ODO…
 - [300-08-03] `dziennik`: POPOLUDNIE, IZBA LUWINA -> KANCELARIA - PROBA SZCZEBLA II ARYI (Halla, nauczycielka z innego wezla wg losu; obca karta rachunkowa - kwit zbozowy mlyna, E). RZUT 15: ZLE. Arya liczyla dobrze …
 - [300-08-03] `dziennik`: KANCELARIA -> ZBROJOWNIA (sala cwiczen) - ⚑ SYMON PROSI MISTRZA Z BRAAVOS, by nauczyl Arye UWAZNOSCI NA DETALE - trening tego typu. Bez rzutu (czlowiek Domu, nauczyciel Aryi; zgoda - jego fa…
 - [300-08-03] `dziennik`: POZNE POPOLUDNIE, KANCELARIA NAMIESTNIKA - SYMON CZEKA NA LUCANA; Lucan przychodzi przed kolacja (plaszcz mokry, deszcz zelzal), czyta obie karty przy panu. Bez rzutu (odczyt doradcy - nie f…
@@ -2730,3 +2729,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-08-03] `dziennik`: KANCELARIA, WIECZOR - pan zwraca uwage: karta miala dawac pogloski wg formy 06-30. Karta REGIONY w pelnej formie lezy na stole (przyszla krukiem z Fosy; Willa jest w Fosie - poprawka sceny) …
 - [300-08-03] `dziennik`: PRZED KOLACJA, KANCELARIA NAMIESTNIKA - SYMON PROSI LUCANA JESZCZE RAZ, nad poprawiona karta REGIONY. Bez rzutu (odczyt doradcy - NOTATKI, NIE FAKTY; pogloski E). LUCAN: (1) KP - chleb droze…
 - [300-08-03] `dziennik`: PRZED KOLACJA, KANCELARIA - SLOWO PANA: DOSTOSOWAC SIE DO ODCZYTOW LUCANA, PRZEKAZAC RADY DALEJ; ZBADAC KIERUNKI LANNISTEROW I DOKLADNY PRZEGLAD Z KROLEWSKIEJ PRZYSTANI I DALEJ. Bez rzutu (w…
+- [300-08-03] `poprawki`: VOID (blad GM, zasada 3; uwaga pana 'my nie plywamy przez Stopnie'): w odczycie Lucana (pkt 6) i w poczcie 08-03 wieczor (pkt 3) wpisalem, ze drozejacy fracht przez Stopnie zjada marze Domu …

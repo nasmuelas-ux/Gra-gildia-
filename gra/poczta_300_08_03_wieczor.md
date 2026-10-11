@@ -31,9 +31,8 @@ _Kruk WF → Fosa → BP, dalej paczką morską do Mewiego Grodu (~18 dni tam)._
 - Statki opłacane przez Baelisha: **nie kto płaci, tylko DOKĄD płyną**, co wiozą i ilu ludzi zabierają.
 - Dokąd płyną: Braavos, KP, Pentos czy na północ, do nas.
 
-## 3. DO HALA (w liście z bilansem, 08-05)
-- **Fracht przez Stopnie drożeje (pewne).** Trzeba przeliczyć marżę na towarze z Essos, który idzie dookoła Dorne, zanim ją zje.
-- **Złota Kompania jest zajęta w Ziemiach Spornych.** Bez wniosku, tylko do wiadomości.
+## 3. ~~DO HALA~~ — VOID (błąd GM)
+_Dom nie pływa przez Stopnie. Jego szlaki to Braavos i Pentos → Biały Port → Fosa, przez Wąskie Morze i Zatokę Fok. Droga dookoła Dorne go nie dotyczy, więc nie ma czego przeliczać. Dopisku do Hala nie ma._
 
 ## 4. GAWEN (ustnie, WF)
 - **Rills:** jeśli Ryswell przyśle konie, płacić **szybko i przy odbiorze**, według ceny ze słupa. *„Koń kupiony przez Koronę nie pójdzie pod lwem.”*

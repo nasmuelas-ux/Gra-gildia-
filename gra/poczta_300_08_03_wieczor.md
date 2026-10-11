@@ -59,5 +59,5 @@ _Dom nie pływa przez Stopnie. Jego szlaki to Braavos i Pentos → Biały Port �
 - **Do Willi** (dopisek w kruku 08-04, szyfr): od karty 09-01 nowa rubryka **„POSŁAŃCY POŁUDNIA”**. Uśpieni i nasłuchy liczą posłańców między dworami (kto do kogo jeździ i kto przestał), ale **listów nie czytają i nie pytają**.
 
 ## 9. LIST DO ŻELAZNEGO BANKU (słowo pana, 08-03 po kolacji)
-- Szkic: gra/list_bank_braavos_300_08_03.md, z odpisem ultimatum. Bez zaciągu w Lannisporcie i bez Domu. **Podpis i pieczęć Króla 08-04.**
+- Tekst: gra/list_bank_braavos_300_08_03.md, z odpisem ultimatum. **Po braawosku, pisany z szacunkiem ręką Symona**, z dopisanym akapitem o pogłębiającej się współpracy z Braavos. Beron sporządza odpis we wspólnej mowie. Bez zaciągu w Lannisporcie i bez Domu. **Podpis i pieczęć Króla 08-04.**
 - Kanał: kruk WF → BP → Hal → statek → Nesta. W Braavos ok. 08-27..30.

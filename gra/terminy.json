@@ -11680,8 +11680,8 @@
   },
   {
    "data": "300-08-03",
-   "co": "LIST KORONY DO ZELAZNEGO BANKU (slowo pana 08-03; gra/list_bank_braavos_300_08_03.md): odpis ultimatum + 'Polnoc nie jest dluznikiem, dotrzymuje ugod'. Bez zaciagu w Lannisporcie (firewall), bez Domu. W woli Krola 08-01 (rzut 84 'caly swiat') - bez nowego rzutu; PODPIS I PIECZEC KROLA 08-04. Kanal: kruk WF-BP 08-04 -> Hal -> statek -> Nesta wrecza; Braavos ~08-27..30. REAKCJA BANKU - RZUT przy wiesci (najwczesniej koniec IX).",
-   "kto": "BERON (odpis wspolna+braawoski) ; KROL (podpis) ; HAL -> NESTA",
+   "co": "LIST KORONY DO ZELAZNEGO BANKU (slowo pana 08-03; gra/list_bank_braavos_300_08_03.md): odpis ultimatum + 'Polnoc nie jest dluznikiem, dotrzymuje ugod'. Bez zaciagu w Lannisporcie (firewall), bez Domu. W woli Krola 08-01 (rzut 84 'caly swiat') - bez nowego rzutu; PODPIS I PIECZEC KROLA 08-04. Kanal: kruk WF-BP 08-04 -> Hal -> statek -> Nesta wrecza; Braavos ~08-27..30. REAKCJA BANKU - RZUT przy wiesci (najwczesniej koniec IX). ### 08-03 po kolacji SLOWO PANA: pisac Z SZACUNKIEM PO BRAAWOSKU (pisze Symon wlasna reka - biegly, bez rzutu) + akapit: Korona Polnocy liczy na poglebiajaca sie wspolprace z Braavos (handel, zegluga, rzemioslo, wiedza; kupcy, szkutnicy, uczeni mile widziani; wiezi z Bankiem - jesli Bank zechce).",
+   "kto": "SYMON (tekst braawoski) ; BERON (odpis we wspolnej) ; KROL (podpis) ; HAL -> NESTA",
    "kanal": "kruk WF-BP + morze BP-Braavos",
    "wraca": "300-08-04",
    "zamyka": "list podpisany i w drodze; potem reakcja Banku",

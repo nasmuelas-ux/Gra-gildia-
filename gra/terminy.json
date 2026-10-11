@@ -11181,7 +11181,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-01",
    "zamyka": "zadanie oddane",
-   "status": "otwarte ### 07-30: ODROBIONE ZLE (rzut 4) - dwa przepisania czasu przeszlego roznia sie miedzy soba (archaizmy); zdania 2/3 dobrze. Do oceny Luwina pt. 08-01 (mozna jeszcze cwiczyc przed lekcja). ### 07-31: POPRAWA (rzut 8 - BARDZO ZLE): dwie dobre formy zepsute; trzy rozne wersje na trzech kartkach; zdanie 3 nadal z bledem. ### 07-31 WIECZOR: WG ZASADY (rzut 83 - BARDZO DOBRZE) - regula spisana, formy wyprowadzone z reguly, byc nieregularne osobno, zdanie 3 poprawione; JEDNA CZYSTA KARTKA do oddania."
+   "status": "ZAMKNIETE 300-08-01: oddane (czysta kartka z 83) - Luwin: dobrze, regula; zakaz czytanek zlagodzony (przyklady z tablic gramatyki)."
   },
   {
    "data": "300-07-30",
@@ -11415,6 +11415,15 @@
    "kanal": "kruki",
    "wraca": "300-08-12",
    "zamyka": "odpowiedzi lordow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 08-05 (po lekcji 5, rzut 16): tabela dwoch klas czasownikow obok siebie - piec czasownikow z kazdej klasy, czas terazniejszy i przeszly, wyprowadzone z reguly; bez zdan. Lekcja wt. wieczorem - jesli pan w zamku (08-05 wyjazd Krola).",
+   "kto": "SYMON",
+   "kanal": "wlasna nauka",
+   "wraca": "300-08-05",
+   "zamyka": "zadanie oddane",
    "status": "otwarte"
   }
  ],

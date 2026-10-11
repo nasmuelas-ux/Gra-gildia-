@@ -534,9 +534,9 @@
    "co": "NESTA - ROZGLOSIC W BRAAVOS PRZYWILEJE FOSY; ludzie maja kierunek. ALE rozglaszanie ZACZYNA SIE PO PODPISIE, nie przed. ⚠ DATA POPRAWIONA 300-03-03 z V/300 - ale tu poprawka mniej znaczy: rozglaszanie i tak ZACZYNA SIE PO PODPISIE przywileju, nie po dojsciu listu. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "NESTA",
    "zamyka": "podpis przywileju -> potem rozglos",
-   "status": "otwarte - warunkowe ### 05-16: BEZ DATY - spust to podpis przywileju Fosy (brak w zapisie, kiedy) - przeniesione do 'bez daty' (zasada 41). ### DATA 06-01: sprawdzic w pakiecie Nesty (~07-15), czy przywilej Fosy podpisany; jesli tak - rozglaszanie rusza.",
+   "status": "otwarte - warunkowe ### 05-16: BEZ DATY - spust to podpis przywileju Fosy (brak w zapisie, kiedy) - przeniesione do 'bez daty' (zasada 41). ### DATA 06-01: sprawdzic w pakiecie Nesty (~07-15), czy przywilej Fosy podpisany; jesli tak - rozglaszanie rusza. ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34).",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
-   "wraca": "300-08-01"
+   "wraca": "300-08-05"
   },
   {
    "data": "wyslany 300-03-03 o brzasku",
@@ -3291,9 +3291,9 @@
    "co": "DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu nic do rzeczy (brama niepotrzebna). LODZIE: MORMONTOW + WLASNE (eskadra Torrena z Dustinportu). Warunek natury: otwarta woda po odwilzy. Otwarte: prosba do Maege Mormont o lodzie (wyjezdza dzis); rozkaz dla Torrena; zapewnienie dla Mance'a. ### 06-20 (pan na Fosie): czeka na poselstwo Dacey (wiesc przez Mur, potem Winterfell-Fosa). ### 300-06-28: czeka na slowo Mance'a (poselstwo, ~07-15). LODZIE: Maege daje DWIE z fok 'gdy Mance powie tak' (06-27); eskadra Torrena - rozkaz po slowie Mance'a. ### 07-15 MANCE MOWI TAK (rzut 100): droga 22 tysiecy rusza, gdy lodzie Mormontow i eskadra Torrena beda gotowe; termin i miejsca zbiorki - przez poselstwo; chleb Cypla - umowa praca i towar (list Krola A).",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "lodzie zebrane i droga uzgodniona z Mance'em",
-   "status": "otwarte - 06-01: bez kontaktu z Mance'em; czeka na poselstwo Dacey"
+   "status": "otwarte - 06-01: bez kontaktu z Mance'em; czeka na poselstwo Dacey ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-04-02",
@@ -6253,9 +6253,9 @@
    "co": "ZAKUP KSIAG - NESTA (Braavos): wg listy Luwina, kramy przy Fioletowej Lagunie i kupcy ksiag; statkiem do Bialego Portu. Kantor wlasny - bez rzutu na wydanie; co uda sie kupic - rzut przy odpowiedzi. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "SYMON -> NESTA (przez Hala)",
    "kanal": "kruk do Hala + statek BP-Braavos i z powrotem (~48 dni)",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "pierwsza skrzynia ksiag z Braavos w Bialym Porcie (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34)."
   },
   {
    "data": "300-05-25",
@@ -6334,18 +6334,18 @@
    "co": "DWA WOLY (wzor I normy okretowej Polnocy - handlowy) DLA DOMU TALLY - ### ZMIANA 05-25: BUDOWA W BRAAVOS (szybciej; ludzie od linii na miejscu). Nesta zamawia w stoczni braawijskiej (NIE nikt zwiazany z Orrello), Hal placi i przyjmuje w Bialym Porcie; norma okretowa (opis Wolu) idzie z listem; przeprowadzenie przez Morze Waskie - zaloga do ustalenia. Barwy Tally. Kasa 1 poza buforem. Zgoda stoczni, cena, termin - RZUT przy odpowiedzi Nesty. Imiona - pan. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "SYMON -> NESTA (Braavos) przez HALA",
    "kanal": "kruk Winterfell-Bialy Port (05-26) + statek BP-Braavos i z powrotem (~48 dni)",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "oferta stoczni braawijskiej: cena, termin wodowania, przeprowadzenie (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34)."
   },
   {
    "data": "300-05-25",
    "co": "SZKUTNICY I SPECJALISCI Z BRAAVOS DLA KORONY - w ksiegach brak wpisu o zamowieniu (jest tylko pomysl przy Przystani Wilka; kadry 03-28 to Dom: ubezpieczenia, papiernia, miary). Nesta potwierdza: czy zamowienie jest, kto/ilu/kiedy; jesli nie - czy stocznia od Wolow odda 2-3 ludzi na rok (umowa jak 03-28). Pytanie leci z listem o Woly (przez Hala 05-26). ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "SYMON -> NESTA (przez Hala)",
    "kanal": "kruk Winterfell-Bialy Port (05-26) + statek BP-Braavos i z powrotem",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "stan zamowienia szkutnikow (albo: nie bylo) + odpowiedz o ludziach ze stoczni",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34)."
   },
   {
    "data": "300-05-26",
@@ -6532,9 +6532,9 @@
    "co": "GP-1 GORACY PORT - RYSUNEK ETAPOW I-II: linia muru od morza, Wieza Morska, Wieza Polnocna, rynna lancucha; pomiar ujscia i dna. Rysownika wskazuje Garrick (zasada 12; Weylin na Kamiennym Brzegu). Wlasni ludzie. ### 07-01: rysunek czeka na RYSOWNIKA (szukani - skryptorium, termin 07-15); pomiar Harlona jest.",
    "kto": "GARRICK -> rysownik + HARLON",
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "rysunek etapow I-II na pismie",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: rysownik Garricka mierzy ujscie i dno; rysunek etapow I-II do ~08-01."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: rysownik Garricka mierzy ujscie i dno; rysunek etapow I-II do ~08-01. ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-05-26",
@@ -6577,18 +6577,18 @@
    "co": "GP-2 WYCENA LANCUCHA I KOLOWROTU (Goracy Port): ile zelaza, kto kuje (kowale z Harrenhalu ~VII?), czas. Ksiega Domu.",
    "kto": "HAL",
    "kanal": "kruk Winterfell-Bialy Port (05-26 po poludniu) i z powrotem",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "wycena na pismie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34)."
   },
   {
    "data": "300-05-26",
    "co": "R-2 WYCENA MIEDZI I RUR na magistrale parowa Cailin: skad (Pentos, Braavos), ile, czas. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "HAL (+ Nesta, Obaro)",
    "kanal": "kruk Winterfell-Bialy Port (05-26 po poludniu) i z powrotem",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "wycena na pismie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34)."
   },
   {
    "data": "300-05-26",
@@ -6802,9 +6802,9 @@
    "co": "DOM AUDYTOWY TALLY - MISTRZ Z BRAAVOS: pytanie do Nesty (Antaryonowie) w pakiecie. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "HAL -> NESTA",
    "kanal": "pakiet do Nesty",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "imie mistrza albo 'nie ma'",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34)."
   },
   {
    "data": "300-05-30",
@@ -6991,9 +6991,9 @@
    "co": "NABOR SKRYBOW I (cel 50: ~15 do VIII, ~30 do X, 50 do wiosny 301) - Fosa (szkola, spis 299-06, rejestr Melli), Glebokorzen, Bialy Port (Hal), Braavos (Nesta). JEDEN RZUT na odzew fali. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "GARRICK / HAL / NESTA / THEOMORE",
    "kanal": "kruki + statki Braavos",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "lista imienna pierwszej fali",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34)."
   },
   {
    "data": "300-06-05",
@@ -7396,9 +7396,9 @@
    "co": "DUSTINPORT - CHATY DLA RODZIN 30 LUDZI (rozkaz pana 06-18): Donnel buduje rekami wlasnej zalogi poza barakami, za murem od ladu; drewno z zapasu budowy; koszt Korony (baza marynarki - Kasa 3, Gawen dopisuje, E). Rodziny jada przed zima kolumna Kompanii. Wlasni - bez rzutu. ### 07-14 KARTA DONNELA (pisana 07-08): chaty dla polowy rodzin stoja, reszta do konca VII - drewno z tego samego wyrebu co kadluby, kadluby maja pierwszenstwo.",
    "kto": "SYMON -> DONNEL",
    "kanal": "jezdziec Fosa-Dustinport (4 dni); potwierdzenie w karcie Donnela 07-08",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "chaty stoja, lista rodzin",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-06-18",
@@ -7585,27 +7585,27 @@
    "co": "JASTRZEBIE 100 - LODZIE: plaskodenne olchowe na tyczkach, pierwsze szesc pod pierwsza fale (+30); ciesla Brana po sianokosach, olcha z lasu lenna (lesniczy). Kasa 2.",
    "kto": "BRAN (ciesla) + lesniczy",
    "kanal": "na miejscu",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "szesc lodzi na wodzie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-06-19",
    "co": "JASTRZEBIE 100 - KUSZE: trzydziesci pod pierwsza fale; zbrojmistrz Fosy + kuznia (czterech kowali; ruda z Wilczego Lasu - zelazo na okucia). Kasa 2.",
    "kto": "ZBROJMISTRZ FOSY + kuznia",
    "kanal": "na miejscu",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "trzydziesci kusz w zbrojowni",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-06-19",
    "co": "JASTRZEBIE 100 - BARAKI PRZY GROBLI dla pierwszej fali (30): Bran, po sianokosach; z zapasu drewna budowy. Kasa 2.",
    "kto": "BRAN",
    "kanal": "na miejscu",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "baraki pod dachem",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-06-19",
@@ -7729,9 +7729,9 @@
    "co": "STRAZNICA ZA CAILIN OD POLNOCY (rozkaz pana 06-19, do czasu murow): Hendry stawia drewniana wieze z palisada na suchym za miastem od strony polnocnej (trakt na Barrowlandy/Winterfell), z ogniem sygnalowym w lancuchu; obsada z druzyny. Kasa 2. Wlasni - bez rzutu.",
    "kto": "HENDRY (+ Bran - ciesle)",
    "kanal": "na miejscu",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "straznica stoi, obsadzona, ogien w karcie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-06-19",
@@ -7963,9 +7963,9 @@
    "co": "PRZEMYT - KTO ORGANIZUJE (zgoda pana 06-20, wniosek Kessela): rytm lodzi/dni barki (zapis 299-10), 'piata rzecz przy wodzie' (Reed), budynek z podniesiona podloga przy przystani - list pana do WILLI (uszy Domu; firewall - ksiega Domu, nie rady lenna): kto stoi za ruchem. Wynik - RZUT przy meldunku. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> WILLA",
    "kanal": "na miejscu / poczta",
-   "wraca": "300-08-01",
+   "wraca": "300-08-03",
    "zamyka": "meldunek Willi (rzut)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: meldunek Willi nie w paczce Garricka (firewall - ksiega Domu); Willa - karta 08-01 (rzut przy meldunku)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: meldunek Willi nie w paczce Garricka (firewall - ksiega Domu); Willa - karta 08-01 (rzut przy meldunku). ### 08-01: w KARCIE WILLI (pisana 08-01, u pana ~08-03; interpretacja - Lucan)."
   },
   {
    "data": "300-06-23",
@@ -8119,9 +8119,9 @@
    "co": "GARNIZON GORACEGO PORTU - MIESZKA NA MIEJSCU (rozkaz pana 06-21): setka Hendry'ego, gdy wejdzie za mur od morza (rozkaz 05-16 'najpierw mur'), mieszka w Goracym Porcie NA STALE albo jest tam skoszarowana - nie dojezdza z Fosy. Kwatery w obrebie muru (Wieza Morska / Polnocna + izby przy murze) - do rysunku GP-1 (Garrick/rysownik). ZASADA 8: rodziny w porcie dopiero za murem; port na krawedzi zelaznych. Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): kwatery setki w obrebie muru - do rysunku GP-1, ktory czeka na rysownika (~07-20).",
    "kto": "HENDRY + HARLON + GARRICK (GP-1)",
    "kanal": "na miejscu",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "kwatery garnizonu GP na rysunku GP-1",
-   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: kwatery garnizonu wejda na rysunek GP-1 (~08-01); mur od morza ~poltora czlowieka."
+   "status": "otwarte 07-21: stan w ZBIORCZYM GARRICKA (pisane 07-19), na stole pana 07-21. ### otwarte - zbiorczy 07-19: kwatery garnizonu wejda na rysunek GP-1 (~08-01); mur od morza ~poltora czlowieka. ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-06-21",
@@ -8551,9 +8551,9 @@
    "co": "ETAP 0 - WYCHODKI: dol na kazdy barak, z dala od wody pitnej (brak w zapisie imiennie) - prowadzi HERWIN (zatwierdzone 06-26) z Nina.",
    "kto": "HERWIN + NINA",
    "kanal": "na miejscu",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "wychodki przy kazdym baraku",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-06-26",
@@ -8569,9 +8569,9 @@
    "co": "RYSOWNICY DLA SKRYPTORIUM (rozkaz pana 06-26; ptaki dla Brana, ryciny, mapy, wzornik): ILARIO werbuje (zasada 42) - (1) z warsztatu MARRA w Bialym Porcie (rysownik wzorow) - list przez Hala poczta BP; (2) z Braavos - rytownik/rysownik ksiag przez Neste (statkiem, ~48 dni); (3) z SZKOLY FOSY - dzieci, ktore rysuja (Mabel wskazuje od 07-01). Umowa na pismie, Kasa 1. Wlasni - bez rzutu na wyslanie; kto przyjedzie (obcy) - RZUT przy odpowiedzi. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "ILARIO -> HAL / NESTA; MABEL",
    "kanal": "poczta Fosa-Bialy Port + statek BP-Braavos",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "pierwszy rysownik przy pulpicie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34)."
   },
   {
    "data": "300-06-26",
@@ -9037,9 +9037,9 @@
    "co": "POD NIEOBECNOSC KROLA (wyprawa na Skagos ~08-25..09-10): NAMIESTNIK ZOSTAJE W WINTERFELL PRZY KROLESTWIE (slowo pana 07-09); pieczec i decyzje biezace - Namiestnik; prerogatywy - czekaja na Krola albo krukiem na okret (Wyman). Ustalic przed wyplynieciem: zakres i lista spraw, ktorych Namiestnik nie rozstrzyga sam. ### 07-10: wyjazd Krola z Winterfell ~08-05 (objazd wschodu + Skagos) - zastepstwo od tej daty.",
    "kto": "KROL + SYMON",
    "kanal": "osobiscie",
-   "wraca": "300-08-01",
+   "wraca": "300-08-03",
    "zamyka": "zakres zastepstwa spisany przed wyplynieciem",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: do ustalenia z Krolem PRZED wyplynieciem - rozmowa ~08-03 (zakres zastepstwa spisany)."
   },
   {
    "data": "300-07-09",
@@ -9091,9 +9091,9 @@
    "co": "SEDZIOWIE KOMOR KORONY - OBSADA (kodeks B 07-10): dwoch sedziow komor (wskazuje Justycjariusz CERWYN, zasada 42) - do X obaj objazdowi; od ~X jeden STALY W BOLTONSGATE (przy komorze Korony u ujscia Placzacej Wody), drugi objazdowy. Pisarz przysiegly przy kazdej komorze (Gawen). Zold - Kasa 3.",
    "kto": "CERWYN (imiona) ; GAWEN (pisarze, zold)",
    "kanal": "Winterfell",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "dwa imiona sedziow + pisarze przy komorach",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: Cerwyn w Winterfell do 08-05 (jedzie z Krolem) - imiona sedziow ~08-04."
   },
   {
    "data": "300-07-10",
@@ -9379,18 +9379,18 @@
    "co": "MAIDENPOOL - CZY LEW WYWOZI HARRIONA PRZED 08-05 (ryzyko wskazane przez Sanse 07-11): obserwowac droge z Maidenpool na poludnie - wozy z eskorta przed terminem. Kto: LYMAN (Riverrun) i DERON SUCHY (Rozdroze) - przez Lucana. Odczyt - rzut przy meldunku.",
    "kto": "LUCAN -> LYMAN + DERON",
    "kanal": "jezdziec/kruk do Riverrun; meldunek przez Lymana",
-   "wraca": "300-08-01",
+   "wraca": "300-08-05",
    "zamyka": "meldunek: Harrion w Maidenpool albo wywieziony",
-   "status": "otwarte - zgoda pana 07-11; Lyman melduje krukiem z Riverrun"
+   "status": "otwarte - zgoda pana 07-11; Lyman melduje krukiem z Riverrun ### 08-01: meldunek Lymana/Derona o Harrionie - przy dniu wyjscia garnizonow (08-05)."
   },
   {
    "data": "300-07-11",
    "co": "DECYZJA PRZED 08-05: CZY KROL PLYNIE NA SKAGOS, JESLI LEW NIE WYJDZIE Z DORZECZA DO 08-05 (rada Sansy, zgoda pana 07-11). Rozstrzyga Krol z Namiestnikiem - przed 08-05, nie 08-05 rano. Prerogatywa - RZUT przy rozstrzygnieciu. ### 07-12 ZDANIE PANA (do przedlozenia Krolowi): DRUGI WARUNEK - DACEY. Jesli Dacey nie wroci, Krol NIE plynie na Skagos; jesli dzicy zrobili cos poslowi - akt wrogi, interwencja. Decyzja PO wiesci od Dacey (termin poselstwa ~07-15; Umber czeka na Czarnym Zamku - slowo 05-10). [Rozroznienie Sansy z 07-12 - VOID.]",
    "kto": "SYMON + KROL",
    "kanal": "osobiscie, Winterfell",
-   "wraca": "300-08-01",
+   "wraca": "300-08-03",
    "zamyka": "slowo Krola: plynie / zostaje / plynie pozniej",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: do rozstrzygniecia z Krolem ~08-03 (meldunek Dorzecza - przy 08-05; decyzja nie 08-05 rano)."
   },
   {
    "data": "300-07-12",
@@ -9847,9 +9847,9 @@
    "co": "FAKTOR KROLEWSKI - ZIMOWE MIASTO: REKONESANS REKAMI DOMU (slowo pana 07-17): kto w Zimowym Miescie handluje hurtem, ma kapital i imie, a NIE jest zwiazany z Domem ani z urzedem Korony; Oswyn Miarka (czy jego rozmowy z Halem z 04-26 doszly do czegos; ile handluje na wlasny rachunek) i Sarra z zajazdu (czym obraca, z kim). Wlasni ludzie (Dom) - bez rzutu na zlecenie; jakosc wiesci - rzut przy meldunku.",
    "kto": "SYMON -> WILLA (siec Domu)",
    "kanal": "list pana pod pieczecia Domu, kruk do Bialego Portu",
-   "wraca": "300-08-01",
+   "wraca": "300-08-03",
    "zamyka": "meldunek Willi o kupcach Zimowego Miasta",
-   "status": "otwarte ### 07-28: w karcie Willi 08-01."
+   "status": "otwarte ### 07-28: w karcie Willi 08-01. ### 08-01: w KARCIE WILLI (pisana 08-01, u pana ~08-03; interpretacja - Lucan)."
   },
   {
    "data": "300-07-17",
@@ -10171,9 +10171,9 @@
    "co": "LENNO FOSY - PATRONAT NAD WSIAMI I BRANZAMI ZYWNOSCIOWYMI (dyspozycja pana 07-20): spis wsi i branz (rybacy, pola, mlyn, mysliwi, zbieractwo) z imieniem soltysa/mistrza; FORMA PATRONATU dobrana do branzy - np. umowa roczna: lenno kupuje nadwyzke po cenie ogloszonej (slup w Cailin); siewne i narzedzia za odrobek; ksiega patronatu - Warryn/Gerrik; + Z URZEDU POD PATRONATEM: kuznia Cailin (miasta; Brusk) i warsztaty z Przywileju bagiennego; arsenal lenna (zbrojownia, Oswald Tarcza). Forma patronatu wg branzy - NIE domyslnie umowa roczna.",
    "kto": "SYMON -> GARRICK + WARRYN (Gerrik ksiega)",
    "kanal": "kruk Winterfell-Fosa (07-21 rano)",
-   "wraca": "300-08-01",
+   "wraca": "300-08-04",
    "zamyka": "spis + umowy podpisane (RZUT - przyjecie przez wsie)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34)."
   },
   {
    "data": "300-07-21",
@@ -10360,9 +10360,9 @@
    "co": "OWEN - PRZYJAZD DO WINTERFELL (septon z BP w kanonie, dziedzina 9): warunek pana - zastepca w Septie Sniegow; Dom przysyla woz. Odpowiedz Owena - kiedy (rzut przy odpowiedzi; wola Owena i Wiary).",
    "kto": "OWEN -> SYMON",
    "kanal": "kurier/kruk BP-Winterfell",
-   "wraca": "300-08-01",
+   "wraca": "300-08-02",
    "zamyka": "termin przyjazdu Owena albo odmowa",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: odpowiedz Owena - kurier/kruk z BP ~08-02 (rzut przy odpowiedzi)."
   },
   {
    "data": "300-07-22",
@@ -10540,9 +10540,9 @@
    "co": "STRAZ KORONY PRZY SLUPACH - TYMCZASOWA (poprawka pana 07-24): szesciu jezdzcow garnizonu WF pod choragwia wilka, nikt nie dobywa pierwszy; stoja TYLKO DO CZASU, az HORNWOOD postawi wlasne znaki i straz na granicy wyznaczonej orzeczeniem (po orzeczeniu to granica Hornwoodu i Dreadfortu - pilnuje Hornwood). Wyjazd 07-25 o swicie (ser Rodrik).",
    "kto": "KROL -> SER RODRIK -> szostka",
    "kanal": "rozkaz ustny; meldunek co tydzien jezdzcem",
-   "wraca": "300-08-01",
+   "wraca": "300-08-12",
    "zamyka": "pierwszy meldunek tygodniowy",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: meldunek tygodniowy jezdzca - bez zmian (szostka stoi przy slupach do przejecia przez Hornwood 08-12)."
   },
   {
    "data": "300-07-24",
@@ -10704,7 +10704,7 @@
    "kanal": "Winterfell / wg sprawy",
    "wraca": "300-08-01",
    "zamyka": "krok wykonany albo temat rozpatrzony",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-01 - Beron wpisal polityke Korony (cel i zasady v3) do ksiegi praw; odpis dla lordow - z najblizsza poczta (wlasni urzednicy, bez rzutu)."
   },
   {
    "data": "300-07-26",
@@ -11028,7 +11028,7 @@
    "kanal": "kruki WF->BP i WF->Fosa (rano 07-27); przysiega - osobiscie w WF",
    "wraca": "300-08-01",
    "zamyka": "pozycja w ksiedze lenna + przysiega",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-01 (DZIEN BILANSU) - SZARE PLASZCZE PRZESZLY DO LENNA: Hal zamknal pozycje w ksiedze Domu (kruk 07-27), Gerrik/Warryn otworzyli w ksiedze lenna (Kasa 2); przysiega bez zmian (karta pkt I, 07-27); Sten wpisal do Ksiegi Przybocznej."
   },
   {
    "data": "300-07-27",

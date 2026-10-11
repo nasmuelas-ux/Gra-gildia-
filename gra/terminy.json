@@ -9390,7 +9390,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-08-03",
    "zamyka": "slowo Krola: plynie / zostaje / plynie pozniej",
-   "status": "otwarte ### 08-01: do rozstrzygniecia z Krolem ~08-03 (meldunek Dorzecza - przy 08-05; decyzja nie 08-05 rano)."
+   "status": "ZAMKNIETE 300-08-01: KROL PLYNIE (rzut 33 - jedna konsekwencja): plan wojenny przyjety (znak Namiestnika = wojna; Krol laduje w BP, trakt na Fose, podrywa wschod); Namiestnik zostaje w Winterfell, zachod w polu - Osric z Gloverami, Torren na wodzie."
   },
   {
    "data": "300-07-12",
@@ -11316,6 +11316,24 @@
    "kanal": "kruki Winterfell -> Hornwood / Palec / Ryswell",
    "wraca": "300-08-04",
    "zamyka": "pismo wyslane; stawka w ksiedze Korony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "DORZECZE - ULTIMATUM I OBLEZENIE (Krol rzut 66: TAK): list Krola do Edmure'a (kruk 08-02 rano): po 08-05 kto nie wyszedl - OBLEZONY (bez szturmu; Harrion w wiezy Maidenpool); Edmure wzywa lorda Maidenpool do otwarcia bram i garnizon Lwa do zlozenia broni (po 08-05 - wolna droga tylko bez broni); lordowie Dorzecza wezwani do posluszenstwa - ludzie do pierscienia wg listy Edmure'a; obwieszczenie: 'rozejm zlamal ten, kto nie wyszedl'. Warunek Harriona (07-11) stoi. Reakcja garnizonu, lordow i Lwa - RZUTY przy wiesci.",
+   "kto": "KROL -> EDMURE ; EDMURE -> lordowie Dorzecza / Maidenpool",
+   "kanal": "kruk Winterfell-Riverrun",
+   "wraca": "300-08-08",
+   "zamyka": "pierscien oblezenia stoi albo garnizon wyszedl z Harrionem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "PLAN NA WOJNE POD NIEOBECNOSC KROLA (Krol rzut 33): jesli TYWIN WKROCZY DO DORZECZA - Namiestnik wysyla ZNAK Krolowi (kruk do BP/Wymana -> okret) = WOJNA; Krol zawraca, laduje w Bialym Porcie, trakt na Fose; po drodze wzywa wschod (Wyman, Hornwood; Karstark, Umber krukiem; Bolton jak kazdy). NAMIESTNIK ZOSTAJE W WINTERFELL z pieczecia; zachod w polu - OSRIC (Marszalek) z Gloverami, TORREN na wodzie. Znak - do ustalenia przed 08-05 (slowa/pieczec).",
+   "kto": "SYMON (znak) ; KROL ; OSRIC ; TORREN",
+   "kanal": "kruk Winterfell -> BP -> okret Krola",
+   "wraca": "300-08-04",
+   "zamyka": "znak ustalony i spisany na kartce POD MOJA NIEOBECNOSC",
    "status": "otwarte"
   }
  ],

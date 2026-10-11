@@ -45,3 +45,10 @@ _Dom nie pływa przez Stopnie. Jego szlaki to Braavos i Pentos → Biały Port �
 
 ## 6. TORGEN SZARY (przyjazd 08-04, ustnie)
 - Przy drzewie zapytać starostę, a potem Mance'a, o **„ogniska, które nie chcą przejść”**: ile ich jest, gdzie i dlaczego.
+
+---
+
+## 7. DOPISKI PO ODCZYCIE SANSY (słowo pana „wysłać dalej”, 08-03 przed kolacją)
+- **Do Willi** (dopisek Lucana w tym samym kruku 08-04, szyfr): uśpieni w KP mają ustalić także, **kto dopłaca Złotym Płaszczom**.
+- **Do Garricka, lenno Fosy** (kruk WF → Fosa 08-04, pieczęć lorda Fosy): komora Korony przy Fosie **spisuje konie idące Traktem na południe**: liczbę, znaki i piętna, czyje są, kto je prowadzi i dokąd. Spis tygodniowy idzie do pana. Zwykła praca komory, bez rozgłosu.
+- **Theon** (~08-07): zapytać go o Eurona i o „Ciszę”.

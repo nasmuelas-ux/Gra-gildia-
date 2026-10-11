@@ -11599,7 +11599,7 @@
   },
   {
    "data": "300-08-03",
-   "co": "PRZEGLAD KROLEWSKIEJ PRZYSTANI I DALEJ - USPIENI (pan 08-03; poczta_300_08_03_wieczor.md pkt 1B): kto rzadzi Rada / kto u Tywina; Zlote Plaszcze (zold, liczba, nastroje); chleb i zboze; Bank i Tyrellowie w KP; co mowia o Stannisie, Dorne, Polnocy; dalej: Smocza Skala i Zatoka (przewoznik), Koniec Burzy, Rozdroze. Bez pytan, ktore odslonia. Kanal: kruk Fosa-KP 8 dni tam, ~20 z powrotem. WYNIK - RZUT przy meldunku.",
+   "co": "PRZEGLAD KROLEWSKIEJ PRZYSTANI I DALEJ - USPIENI (pan 08-03; poczta_300_08_03_wieczor.md pkt 1B): kto rzadzi Rada / kto u Tywina; Zlote Plaszcze (zold, liczba, nastroje); chleb i zboze; Bank i Tyrellowie w KP; co mowia o Stannisie, Dorne, Polnocy; dalej: Smocza Skala i Zatoka (przewoznik), Koniec Burzy, Rozdroze. Bez pytan, ktore odslonia. Kanal: kruk Fosa-KP 8 dni tam, ~20 z powrotem. WYNIK - RZUT przy meldunku. + (dopisek 08-03, Sansa): KTO DOPLACA ZLOTYM PLASZCZOM.",
    "kto": "WILLA -> USPIENI KP (pisarz, wdowa, przewoznik)",
    "kanal": "kruk WF-Fosa 08-04; Fosa-KP",
    "wraca": "300-08-26",
@@ -11649,6 +11649,24 @@
    "kanal": "ustnie WF / Cypel",
    "wraca": "300-08-20",
    "zamyka": "odpowiedz starosty lub Mance'a",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "KONIE NA POLUDNIE PRZEZ FOSE (rada Sansy 08-03, slowo pana): komora Korony spisuje konie idace Traktem na poludnie - liczba, pietna, czyje, kto prowadzi, dokad; spis tygodniowy do pana. Sprawdza pogloske 'Rills sprzedaje konie do Dorzecza'. Wlasni (lenno) - bez rzutu na wykonanie; co spis pokaze - RZUT przy pierwszym spisie.",
+   "kto": "GARRICK -> KOMORA FOSY",
+   "kanal": "kruk WF-Fosa 08-04",
+   "wraca": "300-08-12",
+   "zamyka": "pierwszy spis tygodniowy w rekach pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "THEON (~08-07): zapytac o Eurona Wronie Oko i o 'Cisze' (rada Sansy 08-03; pogloska z karty Willi, 50 dni).",
+   "kto": "SYMON / KROL -> THEON",
+   "kanal": "ustnie WF",
+   "wraca": "300-08-08",
+   "zamyka": "Theon zapytany",
    "status": "otwarte"
   }
  ],

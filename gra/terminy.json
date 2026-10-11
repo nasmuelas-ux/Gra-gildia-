@@ -11352,7 +11352,7 @@
    "kanal": "kruk Winterfell-Bialy Port",
    "wraca": "300-08-04",
    "zamyka": "nominacja w rekach Torsena i Wymana",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-02: nominacja PODPISANA przez Krola (z klauzulami); kruk w poludnie do Wymana (oglasza, przysiega) i dla Torsena (u Wymana do jego przyjazdu ~08-05/06). Wola Torsena wobec klauzul - rzut przy wiesci z BP."
   },
   {
    "data": "300-08-01",
@@ -11424,6 +11424,15 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-05",
    "zamyka": "zadanie oddane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "TORSEN W BIALYM PORCIE - NOMINACJA, OGLOSZENIE PRZEZ WYMANA I PRZYSIEGA PRZED SEPTONEM (klauzule: otwarta ksiega, niezawislosc, krzywoprzysiestwo). Wola Torsena wobec klauzul - RZUT przy wiesci.",
+   "kto": "WYMAN ; TORSEN",
+   "kanal": "kruk BP-Winterfell",
+   "wraca": "300-08-08",
+   "zamyka": "Torsen zaprzysiezony albo odmowa",
    "status": "otwarte"
   }
  ],

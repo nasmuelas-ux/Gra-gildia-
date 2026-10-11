@@ -11677,6 +11677,15 @@
    "wraca": "300-08-11",
    "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
    "status": "otwarte - cykl"
+  },
+  {
+   "data": "300-08-03",
+   "co": "LIST KORONY DO ZELAZNEGO BANKU (slowo pana 08-03; gra/list_bank_braavos_300_08_03.md): odpis ultimatum + 'Polnoc nie jest dluznikiem, dotrzymuje ugod'. Bez zaciagu w Lannisporcie (firewall), bez Domu. W woli Krola 08-01 (rzut 84 'caly swiat') - bez nowego rzutu; PODPIS I PIECZEC KROLA 08-04. Kanal: kruk WF-BP 08-04 -> Hal -> statek -> Nesta wrecza; Braavos ~08-27..30. REAKCJA BANKU - RZUT przy wiesci (najwczesniej koniec IX).",
+   "kto": "BERON (odpis wspolna+braawoski) ; KROL (podpis) ; HAL -> NESTA",
+   "kanal": "kruk WF-BP + morze BP-Braavos",
+   "wraca": "300-08-04",
+   "zamyka": "list podpisany i w drodze; potem reakcja Banku",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

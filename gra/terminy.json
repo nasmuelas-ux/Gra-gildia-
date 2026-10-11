@@ -9237,7 +9237,7 @@
    "kanal": "osobiscie, Winterfell; Cerwyn - kruk/jezdziec",
    "wraca": "300-08-04",
    "zamyka": "akt regencji podpisany przez Krola przed wyjazdem",
-   "status": "otwarte - zasady przyjete (rzut 70); Lucan pisze akt, Cerwyn czyta, podpis Krola i Rodrika przed 08-05 (bez nowego rzutu) ### 08-01: SZKIC LUCANA przeczytany przez Krola przy panu - zgodny z zasadami; DOPISEK pana (Krol reka): SKAGOS - napasc na Krola/ludzi na Skagos lub w drodze -> odsiecz bez slowa Krola (okrety BP/Wyman, ludzie wschodu: Karstark, Umber); brak wiesci do 09-20 -> okret na zwiad do Kingshouse i Karholdu; Torren zostaje na zachodzie. Brakuje ZNAKU (Krol dopisze). Akt do Cerwyna 08-01; podpis Krola i Rodrika ~08-04."
+   "status": "otwarte - zasady przyjete (rzut 70); Lucan pisze akt, Cerwyn czyta, podpis Krola i Rodrika przed 08-05 (bez nowego rzutu) ### 08-01: SZKIC LUCANA przeczytany przez Krola przy panu - zgodny z zasadami; DOPISEK pana (Krol reka): SKAGOS - napasc na Krola/ludzi na Skagos lub w drodze -> odsiecz bez slowa Krola (okrety BP/Wyman, ludzie wschodu: Karstark, Umber); brak wiesci do 09-20 -> okret na zwiad do Kingshouse i Karholdu; Torren zostaje na zachodzie. Brakuje ZNAKU (Krol dopisze). Akt do Cerwyna 08-01; podpis Krola i Rodrika ~08-04. ### 08-01 CERWYN przeczytal: prawo czyste; uwaga - akt czytany na glos przy podpisujacych, pod pieczecia do Luwina, bez odpisu; Cerwyn moze podpisac jako swiadek prawa."
   },
   {
    "data": "300-07-11",
@@ -11379,7 +11379,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-08-03",
    "zamyka": "imie rozjemcy",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-01 (rzut 85): TORGEN SZARY (E) - sedzia ziemski Cerwyna, 15 lat sporow lasu na granicy z Wilczym Lasem; Cerwyn wzywa go (~2 dni, ~08-03). Imie do Krola."
   },
   {
    "data": "300-08-01",
@@ -11388,6 +11388,15 @@
    "kanal": "Winterfell",
    "wraca": "300-08-05",
    "zamyka": "wlocznia w rekach Oshy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "TORGEN SZARY (E), rozjemca Korony na Cypel - przyjazd do Winterfell z Cerwyn (~08-03); rozmowa z panem; potem droga na Cypel z Osha i dwudziestoma Rodrika.",
+   "kto": "CERWYN -> TORGEN ; SYMON",
+   "kanal": "jezdziec Winterfell-Cerwyn",
+   "wraca": "300-08-03",
+   "zamyka": "Torgen w Winterfell",
    "status": "otwarte"
   }
  ],

@@ -68,36 +68,83 @@ _Do rąk własnych pana. Dwie karty w tym samym podziale, złożone dopiero w Wi
 
 ---
 
-## KARTA WILLI: REGIONY, PEŁNY PODZIAŁ (na pytanie pana 08-03)
-_Poziom (1) to rzeczy jawne z zapisu. Poziom (2) to pogłoski (E, niepewne). Poziom (3) to nasze źródła. Przy rubrykach, w których żadne źródło nic nie podaje, stoi „biała plama” z datą ostatniej wieści. Bez interpretacji. Rzuty były tylko przy trzech sprawach z karty: przemyt 99, Zimowe Miasto 29, mobilizacja Lwa 21._
+## KARTA WILLI: REGIONY (forma z 06-30; wersja poprawiona 08-03)
+_**VOID:** tabela „pełny podział” i jej „dopełnienie” z 08-03 nie trzymały się formy, którą pan ustalił 06-30. Brakowało w nich części regionów. Pogłosek prawie nie było, a regiony, z których pogłoska doszła, oznaczono jako białe plamy. Dolina była białą plamą, choć mamy nasłuch w Mewim Grodzie. To błąd GM i nie obciąża Willi. Kolejność według gra/raport_regiony_300_06.md._
+_Poziomy: **(1) z boku**, jawne · **(2) od ludzi**, pogłoska z miejscem, gdzie ją usłyszano, i jej wiekiem w dniach na 08-01 · **(3) nasze źródła**, bez imion. Pewność: **pewne / prawdopodobne / plotka**. Treść wszystkich pogłosek jest wymyślona (E). Bez rzutu, bo to zwykły nasłuch portu i drogi, a nie sprawa. Rzuty były tylko przy trzech sprawach karty (przemyt 99, ZM 29, Lew 21). **Biała plama** = nie doszła nawet pogłoska. Bez interpretacji, interpretuje Lucan._
 
-| region | (1) z boku, jawne | (2) od ludzi, pogłoski | (3) nasze źródła | biała plama |
+### A. KRÓLESTWO PÓŁNOCY
+| region | (1) z boku | (2) od ludzi | (3) nasze źródła | biała plama |
 |---|---|---|---|---|
-| **Północ: Fosa i Przesmyk** | komora działa, strefy i reguła strzału (07-29) | „ktoś przewozi nocą obok komory” | **przemyt: Odo, Rolf, Barrowton (99)** | brak |
-| **Północ: Zimowe Miasto** | patrycjat bez ławy z pieczęcią (07-29) | Miarka obrażony na Dom (już załatwione, waga Korony) | **brak kupca z kapitałem (29)** | brak |
-| **Północ: wschód i Dreadfort** | Dreadfort płaci za 86 pni (08-02) | — | ubytek ludzi Dreadfortu liczony w trzech okresach (Willa, dopiero od 08-12) | **co robi Roose poza listami**, od 07-10 |
-| **Dorzecze** | ultimatum Króla (08-02); Darry gotowe do wyjścia; Maidenpool czeka na słowo Tywina | „Darry pakuje wozy” | Deron i Lyman: droga z Maidenpool | **Zielone Widły (Freyowie nie wpuszczają)**, od 07-26 |
-| **Zachód (Lannisport)** | — | **zaciąg za żołd, okręty trzymane w porcie** | **~200 pod lwem na zachód przez Rozdroże, ok. 07-25 (21)** | **przeciw komu?** |
-| **Królewska Przystań** | Kevan i Tywin adresatami aktów; dług Tronu wobec Banku ~6 mln (299-03) | „Bank siedzi w Czerwonej Twierdzy” (E) | uśpieni milczą od 07-10 | **kto rządzi Radą**; bękarty Roberta (posłaniec do Willi wraca ~08-04) |
-| **Reach** | kontrakt zbożowy z Olenną, odpowiedź ~08-25; „Lew na smyczy Róży” (odczyt Sansy 05-19) | — | — | **czy Róża płaci jeszcze za Lwa**, od 07-13 |
-| **Dorne** | Góra stracony; list Dorana (07-17); zgoda na Deski | — | — | **odpowiedź Oberyna w sprawie kości Willama (~08-06)** |
-| **Dolina** | — | — | — | **cała**, brak kanału |
-| **Krainy Burzy i Stannis** | Stannis dał pieczęć niepodległości; odpisy ultimatum idą do niego (08-02) | — | — | **gdzie dziś stoi Stannis i z kim** |
-| **Żelazne Wyspy** | langskip pod Kamiennym Brzegiem (07-09) | — | oczy na Pyke (kupiec ksiąg), meldunek ~IX | **cała flota: ile i kiedy** |
-| **Essos: Braavos** | dyskonto weksli Lannisportu rośnie (Tam) | — | filia Domu, meldunek ~08-25 | cienko |
-| **Essos: Pentos i Zatoka Niewolnicza** | Daenerys w Meereen, trzy smoki, bez statków (Nesta 04-21) | „w Pentos ktoś ich latami żywił” (Aemon 07-22) | placówka Obara, meldunek ~08-25 | **co Daenerys robi teraz**, od 04-21 |
+| **Biały Port** | Torsen Faktorem Korony (słowo Wymana); fracht drewna rośnie po Targu | nabrzeże, 5 dni, plotka: *„Korona jesienią wystawi zboże hurtem, ceny spadną”*, więc część kupców wstrzymuje sprzedaż do IX | Hal, faktoria Domu: sól z warzelni schodzi | — |
+| **Winterfell i Zimowe Miasto** | patrycjat bez ławy z pieczęcią | zajazd pod Bramą, 3 dni, plotka: *„Dom Tally chce kupić Zimowe Miasto”* (echo pytań o Miarkę) | filia Domu: **brak kupca z kapitałem (29)** | — |
+| **Przesmyk i Fosa** | komora działa, strefy i reguła strzału | barka, 6 dni, plotka: *„wagę w Cailin da się kupić”* | **przemyt: Odo, Rolf, Barrowton (99)** | — |
+| **Ziemie Cerwyna** | żniwa w toku | Maega, 7 dni, prawdopodobne: młynarze Cerwyna podnieśli miarkę za mielenie o jedną część | Maega | — |
+| **Barrowlandy** (Barrowton, Dustinport) | podwójna straż w Dustinporcie; postój składowy w Barrowton od 1 X | woźnice w Fosie, 10 dni, prawdopodobne: *„w Barrowton sól i sukno z Południa są tańsze niż przy słupie”* (zgadza się z przemytem) | odbiorcy przemytu: dwaj kupcy z Barrowton (99) | łom wapienny (Barbrey milczy) |
+| **Wilczy Las** | Glover przyjął wszystko; gotowy (70) | kupcy futer w BP, 12 dni, prawdopodobne: Deepwood skupuje smołę i drzewce do strzał | — | — |
+| **Kamienny Brzeg i Starkport** | langskip liczył brzeg (07-09); gotowość | rybacy w BP, 14 dni, plotka: *„żagle na horyzoncie”* (bez daty) | karta Theona/Starkportu (Korona) | flota żelaznych |
+| **Torrhen's Square** | Leobald: gotowy (45); dwóch weteranów do Akademii | droga przez Fosę, 9 dni, plotka: w Torrhen's Square żniwa późne, po deszczach | — | — |
+| **Rills** | Ryswell: *„Rills daleko od morza”* (16) | handlarze koni w Fosie, 15 dni, plotka: **ludzie Ryswella sprzedają konie na południe, do Dorzecza, bo tam płacą lepiej** | — | — |
+| **Hornwood i Dreadfort** | Dreadfort zapłaci za 86 pni do końca VIII | woźnice soli, 8 dni, plotka: z dalekich wsi Boltona ludzie *„schodzą pod mury Dreadfortu”* | ubytek ludzi liczony w trzech okresach (od 08-12) | co robi Roose poza listami |
+| **Karhold** | Rickard czeka na Harriona (ultimatum) | statek z Karholdu w BP, 20 dni, prawdopodobne: Karstarkowie kupują ziarno, bo po wojnie brakuje rąk do żniw | — | — |
+| **Ostatnie Ognisko** | Umber chce zakładników od dzikich (poczta Korony) | — | — | **cała, poza pocztą Korony** |
+| **Góry (klany)** | posłańcy Korony u sześciu klanów (od 07-27) | — | — | **cała**; odpowiedzi ~08-08..12 |
+| **Wyspa Niedźwiedzia** | Maege gotowa (29): pyta, co pierwsze dla łodzi | rybacy z Palca w BP, 10 dni, plotka: *„Mormontówny wożą ziarno dzikim, a my mamy patrzeć”* (złość na Palcu) | — | — |
+| **Skagos** | Magnar: *„niech Stark przypłynie sam”* (06-18) | statek z Karholdu w BP, 30 dni, plotka: łodzie Skagosu widziane u brzegów Karholdu, wymieniały foki na żelazo | — | wszystko poza tą pogłoską |
+| **Mur i Dar** | Aemon zdrowszy; wybór Lorda Dowódcy wstrzymany | Krecia Wioska przez wóz do Muru, 12 dni, plotka: myśliwi z Daru mówią, że w lesie jest *„za cicho”* | posterunek Domu w Czarnym Zamku (meldunek ~08-10) | kto zabiega o głosy |
+| **Za Murem** | 22 tys. według planu; Torgen w drodze | przystań Vemunda, 7 dni, plotka: *„za Murem zostały ogniska, które nie chcą przejść”* · marynarze z Ibbenu (Braavos, 42 dni): lód zszedł późno, wrócił wcześnie | przystań Vemunda | liczba ognisk i dusz od Mance'a |
 
-### DOPEŁNIENIE: POZOSTAŁE REGIONY Z FORMY KARTY (Północ po regionach i Essos „reszta”; 08-03, na uwagę pana)
-| region | (1) z boku, jawne | (2) od ludzi | (3) nasze źródła | biała plama |
+### B. SIEDEM KRÓLESTW
+| region | (1) z boku | (2) od ludzi | (3) nasze źródła | biała plama |
 |---|---|---|---|---|
-| **Północ: Biały Port** | Torsen mianowany Faktorem (08-02); wyrok w sprawie Whartona; fracht drewna rośnie | — | Hal, faktoria Domu | ceny chleba po żniwach |
-| **Północ: Barrowlands i Dustinport** | podwójna straż w Dustinporcie; postój składowy w Barrowton od 1 X | **odbiorcy przemytu z Fosy: dwaj kupcy z Barrowton** (karta, 99) | Donnel, Torren | łom wapienny (Barbrey milczy) |
-| **Północ: zachodni brzeg** (Kamienny Brzeg, Deepwood, Palec, Wyspa Niedźwiedzia) | gotowość lordów zachodu (08-02); deklaracja w drodze | „żagle na horyzoncie” (bez daty, niepewne) | łańcuch ognia Robetta, karta Theona/Starkportu | flota żelaznych |
-| **Północ: Cypel i za Murem** | 22 tys. według planu; rozjemca Torgen w drodze | — | przystań Vemunda | **liczba ognisk i dusz od Mance'a**, od 07-26 |
-| **Północ: Mur** | Aemon zdrowszy (08-02); wybór Lorda Dowódcy wstrzymany do jego wyzdrowienia | — | posterunek Domu na Czarnym Zamku (listy na południe, głosy), meldunek ~08-10 | kto zabiega o głosy |
-| **Północ: góry (klany)** | posłańcy Korony do sześciu klanów (wyjazd 07-27) | — | — | **odpowiedzi klanów**, ~08-08..12 |
-| **Północ: Karhold i Ostatnie Ognisko** | Umber chce zakładników (08-01); Król zawinie do Karholdu (~VIII) | — | — | Rickard i Harrion po ultimatum |
-| **Skagos** | Magnar: „niech Stark przypłynie sam” (06-18) | jednorożce, kanibale (bajka Niani) | — | **wszystko poza słowem Magnara** |
-| **Krainy Burzy** | — | — | — | **cała**, brak kanału |
-| **Essos: Lys** | kupiec z Lys płacił za kwity Lwa więcej niż Hal (07-10); od wstrzymania skupu przestał pytać | „może ręka Tywina” (hipoteza Sansy 07-13) | próba Hala i Willi (wynik ~08-05) | **czyja to sakiewka** |
-| **Essos: reszta** (Myr, Volantis, Tyrosh) | szkło z Myr przez Hala (07-28) | — | — | **cała**, brak kanału |
+| **Dorzecze** | ultimatum Króla (wyjdzie 08-02); Darry ~120 gotowi; Maidenpool czeka na Tywina | Rozdroże, 4 dni, plotka: *„Darry pakuje wozy”* | Deron i Lyman: droga z Maidenpool; ~200 pod lwem na zachód (21) | Zielone Widły (Freyowie) |
+| **Dolina** (z Palcami i Trzema Siostrami) | Lysa zamknięta, chora, podejrzliwa | **nasłuch Mewiego Grodu**, 18 dni, plotka: lord Baelish częściej w Mewim Grodzie niż w Gnieździe, a *„za statki płaci on”* · ten sam port, 18 dni, plotka: Yohn Royce nie przyjechał na dwór Lysy | nasłuch portu Mewi Gród | kto karmi strach Lysy |
+| **Krainy Korony i Królewska Przystań** | Tywin rządzi; Joffrey zdelegitymizowany; dług Tronu wobec Banku | statek z KP w BP, 16 dni, prawdopodobne: **chleb w KP drożeje, Złote Płaszcze z zaległym żołdem** · port, data niepewna, plotka: *„Bank siedzi w Czerwonej Twierdzy”* | uśpieni milczą od 07-10 | kto rządzi Radą |
+| **Smocza Skała i Zatoka Czarnej Wody** | Stannis kupuje w BP małymi partiami, srebrem | kapitanowie w BP, 30 dni, plotka: **na Smoczej Skale nocą palą ognie, a ludzie mówią, że Stannis każe kopać w górze** | — | z kim dziś stoi Stannis |
+| **Żelazne Wyspy** | langskip pod Kamiennym Brzegiem (07-09) | rybacy z Wyspy Niedźwiedzia w BP, 14 dni, plotka: langskipy częściej niż zwykle na północ od Harlaw | oczy na Pyke (meldunek ~IX); Seagard (~08-10) | **ile okrętów i kiedy**; czyim złotem płacą |
+| **Zachód** (Lannisport, Skała) | — | ludzie w Lannisporcie przez Seagard: **zaciąg za żołd, okręty trzymane w porcie** | ~200 pod lwem przez Rozdroże (21) | **przeciw komu** |
+| **Reach** (Wysogród, Stare Miasto, Arbor) | kontrakt zbożowy z Olenną (odpowiedź ~08-25) | statki ze Starego Miasta w BP, 25 dni, prawdopodobne: urodzaj w Reach, zboże tanieje · ci sami, plotka: Tyrellowie trzymają w KP więcej swoich ludzi niż Lannisterowie | Hal (kanał kontraktu) | czy Róża dalej płaci za Lwa |
+| **Krainy Burzy** (z Tarthem) | — | statki ze Starego Miasta w BP, 35 dni, plotka: lordowie burzy *„nie wiedzą, komu służą”*, a Koniec Burzy trzyma kasztelan i nikogo nie wpuszcza | — | reszta |
+| **Dorne** | Góra stracony; list Dorana (07-17) | kapitanowie ze Starego Miasta, 30 dni, plotka: *„w Słonecznej Włóczni mówią o weselach, nie o wojnie”*; Oberyn ucichł, odkąd Góra nie żyje | — | odpowiedź Oberyna o kościach Willama (~08-06) |
+
+### C. WĄSKIE MORZE I WOLNE MIASTA
+| region | (1) z boku | (2) od ludzi | (3) nasze źródła | biała plama |
+|---|---|---|---|---|
+| **Braavos** | dyskonto weksli Lannisportu znowu w górę | nabrzeże przez statek do BP, 24 dni, plotka: Bank posłał do KP **drugiego** człowieka | faktoria Domu (meldunek ~08-25) | — |
+| **Pentos** | Daenerys była żywiona latami w Pentos (Aemon) | statek z Pentos w BP, 28 dni, prawdopodobne: khalasar znowu pod murami po *„dar”*; magistrowie płacą | placówka Obara (meldunek ~08-25) | — |
+| **Lorath** | łupacz kamienia z Lorath przyjechał na kadry | statek kadr, 40 dni, plotka: wieloryby odchodzą na południe wcześniej niż zwykle | — | — |
+| **Norvos** | — | — | — | **cała** |
+| **Qohor** | — | Pentos, 35 dni, plotka: Qohor najmuje Nieskalanych? (sprzeczne, jeden głos) | — | reszta |
+| **Myr** | pośrednik z Myr pyta, *„ile szkła kupuje Północ”* (05-23) | Braavos, 30 dni, prawdopodobne: Myr opłaca **Złotą Kompanię** w wojnie o Ziemie Sporne | — | — |
+| **Lys** | kupiec z Lys przebijał Hala przy kwitach Lwa; od wstrzymania skupu milczy | Braavos, 30 dni, plotka: wina i barwniki z Lys drożeją, bo frachtu przez Stopnie mniej | próba Hala i Willi (~08-05) | **czyja to sakiewka** |
+| **Tyrosh** | — | kapitanowie w BP, 30 dni, prawdopodobne: szkarłat z Tyrosh drożeje; Tyrosh walczy z Myr o Ziemie Sporne | — | — |
+| **Volantis** | — | Braavos przez Pentos, 40 dni, plotka: **w Volantis wybory triarchów; „tygrysy” chcą floty przeciw „królowej smoków”** | — | — |
+| **Ziemie Sporne** | — | Braavos, 30 dni, prawdopodobne: Myr, Lys i Tyrosh znowu się biją; Złota Kompania na kontrakcie Myr | — | — |
+| **Stopnie** | — | kapitanowie w BP, 20 dni, **pewne** (kilka ust): piraci podnieśli opłatę za przejście, więc **fracht dookoła Dorne drożeje** | — | — |
+
+### D. DALEKI WSCHÓD I POŁUDNIE
+| region | (1) z boku | (2) od ludzi | (3) nasze źródła | biała plama |
+|---|---|---|---|---|
+| **Ibben** | — | wielorybnicy w Braavos, 42 dni: lód zszedł późno, wrócił wcześnie; *„pod Murem od morza nie pływamy”* | — | — |
+| **Morze Dothraków** | Viserys nie żyje (299-12, darmowa wieść) | Pentos, 28 dni, plotka: khalasar pod Pentos (patrz wyżej) | — | Vaes Dothrak |
+| **Lhazar** | — | — | — | **cała** |
+| **Zatoka Niewolnicza** | Daenerys w Meereen, trzy smoki, bez statków (04-21) | Pentos i Volantis, 45 dni, plotka: **Yunkai najmuje kompanie przeciw Meereen**; w Meereen nocami giną ludzie, a winnych nikt nie widzi | — | co Daenerys robi teraz |
+| **Stare i Nowe Ghis, Tolos, Mantarys** | — | Volantis, 45 dni, plotka: Nowe Ghis i Tolos słyszą wezwanie Yunkai | — | reszta |
+| **Valyria i Dymiące Morze** | — | Braavos, 50 dni, plotka: **„Cisza”, czerwony okręt Wroniego Oka, widziana od strony Dymiącego Morza** | — | — |
+| **Qarth** | Daenerys opuściła Qarth (04-21) | Braavos, 50 dni, plotka: Qarth trzyma z Yunkai, nie z Meereen | — | — |
+| **Wyspy Letnie** | — | statki-łabędzie przez Stare Miasto do BP, 35 dni, prawdopodobne: łabędzie omijają Stopnie i płyną dookoła; pióra i złote drewno drożeją | — | — |
+| **Naath i Wyspy Bazyliszkowe** | — | — | — | **cała** |
+| **Sothoryos** | — | — | — | **cała** |
+| **Yi Ti, Leng, Asshai i Cień** | — | — | — | **cała** |
+
+### SYGNAŁY GOSPODARCZE (Willa słyszy sama; bez interpretacji)
+- **Lannisport:** owies i podkowy drożeją od połowy VII (pewne). Kapitanowie nie biorą frachtu na VIII–IX (pewne).
+- **Braavos:** dyskonto weksli Lannisportu w górę (pewne).
+- **Stopnie:** fracht dookoła Dorne drożeje (pewne).
+- **Reach:** zboże tanieje, urodzaj (prawdopodobne).
+- **KP:** chleb drożeje (prawdopodobne).
+- **Biały Port:** kupcy zboża wstrzymują sprzedaż do IX (plotka); fracht drewna rośnie (pewne).
+- **Rills:** konie idą na południe (plotka).
+- **Lys i Tyrosh:** wina i barwniki drożeją (plotka i prawdopodobne).
+
+### BIAŁE PLAMY (nie doszła nawet pogłoska)
+Ostatnie Ognisko · Góry (do odpowiedzi klanów) · Norvos · Lhazar · Naath i Wyspy Bazyliszkowe · Sothoryos · Yi Ti, Leng, Asshai.

@@ -11515,6 +11515,15 @@
    "wraca": "300-08-08",
    "zamyka": "odpowiedz Ryswella (oferta koni albo cisza)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "KAMIENNY BRZEG - GOTOWOSC I PLAN ODWROTU (listy pana 08-02 do ser CORWINA i BRANNA MOKREGO): gotowosc do konca IX; walka, kiedy mozna - odsiecz nadejdzie; przy przewadze - odwrot w glab ladu ku koncentracji wojsk na zachodzie (zbiorka odsieczy od Deepwood, jazda Gloverow, lancuch ognia); rodziny Sigrun pierwsze; lodzie wyciagnac albo spalic. Corwin i Brann ustalaja droge, znak odwrotu i miejsce zbiorki. Wlasni - bez rzutu na wykonanie.",
+   "kto": "CORWIN + BRANN MOKRY",
+   "kanal": "kruk WF->Deepwood + jezdziec lancucha Robetta; odpowiedz w karcie Starkportu",
+   "wraca": "300-08-15",
+   "zamyka": "plan odwrotu (droga, znak, zbiorka) w karcie Starkportu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -28,7 +28,8 @@ _Ludzie własni wykonują bez rzutu (zasada 7). Rzuty tylko tam, gdzie decyduje 
 - **Wychodki** przy każdym baraku (Herwin i Nina). Zamknięte.
 
 ## 6. CZARNY KAMIEŃ Z TORFIARNI
-- Od 03-18 odłożono **~40 koszy** czarnego kamienia z warstwy pod torfem (E). Na kwicie Garricka. Próbka pojechała wozem i jest u Luwina.
+- Od 03-18 odłożono **~11 garści** (ok. 5–6 funtów; E), w większości odłamki i łuski, a do tego dwie rzeczy całe: **grot i nóż** (Warryn 06-22). Wszystko leży w skrzynce pod pieczęcią w składzie pod bramą, przy każdej garści kwit. Próbka i nóż pojechały wozem do Luwina.
+- *VOID 08-04: w pierwszej wersji GM wpisał „~40 koszy”. To było sprzeczne z zapisem (06-22: siedem garści, przyrost po dwie na miesiąc). Poprawione.*
 
 ## 7. PATRONAT NAD WSIAMI I BRANŻAMI (rzut 22, ŹLE)
 - **Spis gotowy** (Gerrik): 11 wsi, młyn w śluzie, rybacy, myśliwi, zbieractwo (E).

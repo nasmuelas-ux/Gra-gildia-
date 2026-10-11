@@ -480,3 +480,32 @@
 *Dopisek spisującego:* Rickon zasnął wcześnie, na skórze przy ogniu, z ręką na karku Kudłacza. Bran przy oknie nie powiedział nic. Kiedy Hodor go podnosił, spojrzał na Nianię dłużej niż zwykle. Niania mrugnęła, jak to ona, jednym okiem.
 
 *Uwaga porządkowa (reguła Brana):* Zamykanie oczu przez drzewa to motyw Niani (E). Nie należy do kanonu. Ścinanie czardrzew przez Pierwszych Ludzi i Pakt są zgodne z bajką 19 i z kanonem. Słowa Niani „na wyspie” to jej własna babcina opowieść, nie wiadomość. Niania nie zna snów Brana, a pytanie zadał Rickon.
+
+---
+
+## 25. O SZARYM KRÓLU I MORSKIM SMOKU
+*Spisane 300-08-03 wieczorem, po niedzielnej kolacji, w izbie Niani. Za oknem po całym dniu deszczu kapało jeszcze z rynien. Słuchali Rickon i mały Walder. Bran przyszedł z Hodorem i Meerą i usiadł przy oknie. Kudłacz leżał pod ławą. Walder zapytał: „Czy to prawda, że żelaźni mają kałamarnicę na chorągwi, bo jedzą dzieci?”*
+
+> Kałamarnicę mają, mały Freyu, ale dzieci nie jedzą. Za chude. Biorą zboże, owce i kobiety, a dzieci zostawiają, żeby urosły i było co brać za dwadzieścia lat. Żelaźni są cierpliwi jak sól.
+>
+> A kałamarnica to dlatego, że ich pierwszy król, **Szary Król**, wyszedł z morza, a nie z lasu jak nasi.
+>
+> Dawno, zanim Pierwsi Ludzie przyszli przez Ramię, na morzu żył smok. Nie taki z ogniem i skrzydłami, tylko morski, długi jak dziesięć okrętów, i nazywał się **Nagga**. Kiedy się złościł, fale zalewały wyspy, a ludzie topili się całymi wsiami. Szary Król wziął harpun, wypłynął na niego sam w łodzi i go zabił. Z jego żeber zbudował sobie dwór na wyspie Stary Wyk. Mówią, że te kości stoją tam do dziś, białe, w trawie, jak wielka klatka bez ptaka.
+>
+> Potem Szary Król przechytrzył Boga Burzy. Tak go rozzłościł, że ten cisnął piorunem w drzewo, a Szary Król przyniósł ludziom ogień z tego drzewa. Ożenił się z syreną, żeby jego synowie umieli żyć i w wodzie, i na lądzie. Siedział na tronie z drewna wyrzuconego przez morze i rządził tysiąc lat, aż broda mu posiwiała jak piana. Dlatego Szary.
+>
+> Żelaźni mówią, że kiedy umarł, nie umarł, tylko zszedł do swojego boga pod falami. Stąd ich słowa: **„Co martwe, nie może umrzeć.”**
+>
+> *(Rickon zapytał, czy to prawda.)*
+>
+> U nas, dziecko, mówi się inaczej. Co martwe, ma leżeć w krypcie, w kamieniu, z mieczem na kolanach, i nie wstawać. A jak ktoś wstaje, to znaczy, że coś jest bardzo nie tak i trzeba palić.
+>
+> I pamiętajcie jeszcze jedno, co mówiła moja matka, a ona to miała od rybaków z Kamiennego Brzegu: żelazny człowiek **nie kupuje**. To u nich wstyd, płacić złotem. Biorą żelazem. Więc jak zobaczycie żelaznego, który płaci w złocie, to albo nie jest prawdziwym żelaznym, albo ktoś mu to złoto dał.
+>
+> *(Walder zapytał, kto by dawał złoto żelaznym.)*
+>
+> A ktoś, kto ma złota więcej niż odwagi, mały Freyu. Takich na południu nie brakuje. Spać.
+
+*Dopisek spisującego:* Walder zasnął pierwszy, z głową na kolanach Rickona. Rickon jeszcze długo patrzył w ogień, potem zapytał Kudłacza, czy wilki umieją pływać, i nie czekał na odpowiedź. Bran przy oknie powiedział cicho do Meery, nie do Niani: *„Kości w trawie, jak klatka bez ptaka.”* Meera położyła mu rękę na ramieniu. Niania udała, że nie słyszy.
+
+*Uwaga porządkowa (reguła Brana):* Szary Król, morski smok Nagga, dwór z jego kości na Starym Wyku, ogień z drzewa w gniewie Boga Burzy, żona syrena, tysiąc lat panowania, tron z drewna wyrzuconego przez morze i „Co martwe, nie może umrzeć” to kanon (legendy żelaznych). **„Żelazny nie kupuje, bierze żelazem” to kanon (żelazna cena, Stara Droga).** Zdanie matki Niani o żelaznym, który płaci złotem, to E, babcine powiedzenie Niani, **a nie wieść**. Niania nie wie nic o pytaniu Lucana z 07-11. Pytanie zadał Walder. Krypta i „trzeba palić” to północne gadanie Niani (E), w zgodzie z bajkami 1, 3 i 16.

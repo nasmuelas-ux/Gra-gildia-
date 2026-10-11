@@ -10722,7 +10722,7 @@
    "kanal": "Winterfell / wg sprawy",
    "wraca": "300-08-04",
    "zamyka": "krok wykonany albo temat rozpatrzony",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-01: TORSEN mianowany (Krol rzut 38): rok, warunki 07-30; oglasza Wyman (Mistrz Handlu); odpis kazdej sprzedazy do Mistrza Handlu; polecenia tylko przez Skarbnika. Klauzule ochronne pana - do dopisania przed kruk."
   },
   {
    "data": "300-07-26",
@@ -11253,7 +11253,7 @@
    "kanal": "osobiscie; kruk WF->BP z decyzja Krola",
    "wraca": "300-08-04",
    "zamyka": "Torsen wie o decyzji Krola",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: Krol mianowal Torsena (rzut 38) - kruk z nominacja do BP po ustaleniu klauzul."
   },
   {
    "data": "300-07-30",
@@ -11343,6 +11343,15 @@
    "kanal": "kruk / kurier Domu / Braavos",
    "wraca": "300-08-25",
    "zamyka": "odzew Olenny, Dorana, Stannisa (albo cisza)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "FAKTOR BP - NOMINACJA TORSENA: KRUK do Torsena (BP) i do Wymana (oglasza w porcie jako Mistrz Handlu) z nominacja Krola + KLAUZULE OCHRONNE pana (do ustalenia). Odpis kazdej sprzedazy do Mistrza Handlu; polecenia przez Gawena. Pierwsze zadanie Faktora - towar Korony (hala ZM) i Wielki Targ po zniwach.",
+   "kto": "KROL (podpis) ; SYMON (klauzule) ; GAWEN",
+   "kanal": "kruk Winterfell-Bialy Port",
+   "wraca": "300-08-04",
+   "zamyka": "nominacja w rekach Torsena i Wymana",
    "status": "otwarte"
   }
  ],

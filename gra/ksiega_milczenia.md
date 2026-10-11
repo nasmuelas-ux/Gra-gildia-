@@ -24,7 +24,7 @@ _Przy każdym korespondencie: zwykły rytm, data ostatniego listu i rzecz, o kt�
 _Kto do kogo jeździ i kto przestał. Liczyć posłańców, nie czytać listów (bez pytań, które odsłonią)._
 | oś | co liczyć | kto patrzy | stan |
 |---|---|---|---|
-| Wysogród ↔ Lannisport / KP | czy Róża dalej posyła ludzi do Lwa | uśpieni (pisarz u kupca wina z Arbor), statki ze Starego Miasta w BP | pusto |
+| Wysogród ↔ Lannisport / KP | czy Róża dalej posyła ludzi do Lwa | uśpieni (pisarz u kupca wina z Arbor), statki ze Starego Miasta w BP; *placówka w Ashford: tylko to, co jawne na drodze i targu (do słowa pana)* | pusto |
 | Bank z Braavos ↔ Tywin | czy Bank pisze i bywa w Czerwonej Twierdzy | faktoria Braavos, uśpieni | pusto |
 | Pyke ↔ Lannisport | czy ktoś z Pyke pływa na zachód | Seagard, ludzie w Lannisporcie | pusto |
 | Baelish ↔ ? | dokąd posyła statki i ludzi | nasłuch Mewiego Grodu | pusto |

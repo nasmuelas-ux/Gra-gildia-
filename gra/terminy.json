@@ -9516,7 +9516,7 @@
    "kanal": "osobiscie Winterfell; kruki do Osrica",
    "wraca": "300-08-01",
    "zamyka": "jedna liczba skrzyni na 07-31 + obciazenia z liczbami w jednej ksiedze",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-01 (DZIEN BILANSU, rzut 45; gra/bilans_korony_300_07.md): MONETA ~2070, NALEZNOSCI ~1589 na 07-31; garnizon WF/Zimowa Straz od VIII w jednej ksiedze."
   },
   {
    "data": "300-07-13",
@@ -9552,7 +9552,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-08-01",
    "zamyka": "pierwszy raport skarbca (stan na 07-31)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-01 - pierwszy raport (gra/bilans_korony_300_07.md); dalej cykl BILANS_KORONY ~10. dnia."
   },
   {
    "data": "300-07-14",
@@ -9676,9 +9676,9 @@
    "co": "ZALICZKA LORDOW - PISMO GAWENA DO JEDENASTU LORDOW KONTRAKTU REACH (Krol 07-16, rzut 74): kazdy lord wplaca 1/3 SWOJEJ kolumny do 08-01 (Skarb Korony, Winterfell, albo przez Hala w Bialym Porcie - wskaze Gawen), reszta przy dostawie; kto nie wplaci - jego kolumna nie plynie. Olenna ma jednego platnika - Korone. Wplaty lordow - wola obca: RZUT przy kazdej odpowiedzi/wplacie. Stan wplat - Gawen do Malej Rady 07-26 i na 08-01. ### 07-16 WIECZOR (slowo pana, przy Sansie; bez nowego rzutu - ta sama sprawa, wykonanie Skarbu): (a) do pisma wchodzi zdanie: 'zboze bylo; jesli kolumna nie poplynie - zabraklo trzeciej czesci lorda'; (b) TRZECIA CZESC MOZNA WPLACIC ROWNOWARTOSCIA W TOWARZE - nie wszyscy lordowie sa plynni: wycena PO CENIE OGLOSZONEJ (slup / Miara Polnocna), nie po cenie lorda; towar w skladzie (Korony w Winterfell albo skladzie Domu u Hala w Bialym Porcie - kwit skladowy z wycena, mechanizm 06-07) DO 08-01; Korona placi Olennie moneta (albo towarem, jesli Olenna przyjmie - Gawen sprawdza; bez obsydianu). Towar psujacy sie - Gawen moze odmowic. Notka pana do Gawena dzis wieczorem (paz).",
    "kto": "GAWEN -> 11 lordow kontraktu",
    "kanal": "kruki z Winterfell 07-17",
-   "wraca": "300-08-01",
+   "wraca": "300-08-25",
    "zamyka": "lista wplat 1/3 na 08-01 (kto wplacil, kto nie)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01 (rzut 49): WPLACILO 8 z 11 (E; 5 moneta, 3 towarem z kwitem); NIE: HORNWOOD (Donella - zwloka do zniw), FLINT Z PALCA (milczy), RYSWELL (przy dostawie) (E). Kto nie wplacil - kolumna nie plynie; ostatecznie przy warunkach ~08-25. Rubryka przejsciowa (nie dochod Korony)."
   },
   {
    "data": "300-07-16",
@@ -10731,7 +10731,7 @@
    "kanal": "Winterfell / wg sprawy",
    "wraca": "300-08-01",
    "zamyka": "krok wykonany albo temat rozpatrzony",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-01 - jedna ksiega Korony otwarta (Skarb + domena + daniny/clo lordow jawnie + wydatki rodziny Krola)."
   },
   {
    "data": "300-07-26",
@@ -11242,9 +11242,9 @@
    "co": "CLO KORONY - WERYFIKACJA PRZYCHODU Z KOMOR (slowo pana 07-30: 'moze clo wzroslo, jest wiecej kupcow'): GAWEN wyciaga CLO jako OSOBNA LINIE z ksiag komor (Fosa - Rorik, liczby dnia od 07-22; Bialy Port - komora Korony; Dustinport i przystanie - objazd Gartha) za V, VI i VII - miesiac po miesiacu, ile wozow/ladunkow i ile cla (1/20 Korony; myto lenna 1/40 osobno, do Kasy 2). Dzis clo siedzi w 'dochodzie Skarbu w monecie' (model 641-962/mies) bez rozbicia. Liczba - w DZIEN BILANSU 08-01 (jedna ksiega Korony), zasada 43. ZASADA 8 (Gawen): wzrost w lecie moze byc sezonem (trakt przez Przesmyk otwarty od ratyfikacji, zniwa) - porownac VII z V; zywnosc na przywozie 0 - wiecej wozow ze zbozem nie da cla.",
    "kto": "GAWEN (+ RORIK, GARTH)",
    "kanal": "Winterfell; ksiegi komor",
-   "wraca": "300-08-01",
+   "wraca": "300-08-10",
    "zamyka": "clo osobna linia za V-VII w bilansie 08-01",
-   "status": "otwarte ### 07-30 PAN - PIEC PRZYCZYN DO ROZDZIELENIA: (1) Fosa uszczelnia komore (strefy od 07-22); (2) wiecej kupcow - wiecej miast i ruchu; (3) czy doliczamy MYTA Z MOSTOW I INNE REGALIA NA ZIEMI KORONY?; (4) sezon; (5) komory dzialaja lepiej z czasem. GAWEN: rozdzieli RUCH (liczba wozow na komore) od USZCZELNIENIA (clo na woz); REGALIA DOMENY - nie wiadomo, czy myto i mostowe na drogach Korony sa pobierane (zwyczaj Starkow) - sprawdzi w ksiegach kasztelana; jesli nie pobierane - to decyzja Krola (regale), nie Skarbnika. Pierwszy BILANS KORONY (cykl ~10. dnia) - 08-10 za VII."
+   "status": "otwarte ### 07-30 PAN - PIEC PRZYCZYN DO ROZDZIELENIA: (1) Fosa uszczelnia komore (strefy od 07-22); (2) wiecej kupcow - wiecej miast i ruchu; (3) czy doliczamy MYTA Z MOSTOW I INNE REGALIA NA ZIEMI KORONY?; (4) sezon; (5) komory dzialaja lepiej z czasem. GAWEN: rozdzieli RUCH (liczba wozow na komore) od USZCZELNIENIA (clo na woz); REGALIA DOMENY - nie wiadomo, czy myto i mostowe na drogach Korony sa pobierane (zwyczaj Starkow) - sprawdzi w ksiegach kasztelana; jesli nie pobierane - to decyzja Krola (regale), nie Skarbnika. Pierwszy BILANS KORONY (cykl ~10. dnia) - 08-10 za VII. ### 08-01: dzis tylko ksiega komory Fosy; BP - Hal ~08-05, Dustinport/przystanie - Garth; clo osobna linia w BILANSIE 08-10 za VII."
   },
   {
    "data": "300-07-30",

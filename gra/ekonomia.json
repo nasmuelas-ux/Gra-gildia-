@@ -1163,6 +1163,14 @@
    "na_dzien": "300-07-27",
    "wartosc": 2031.55,
    "uwaga": "1820 (liczenie 07-14) + 113.99 (welna atelier, 07-25, E) + 97.56 (sprzedaz ZM 07-27). INNE WPLYWY I WYDATKI 07-14..07-31 NIE SA DOLICZONE - pelna liczba skrzyni w Dzien Bilansu 08-01."
+  },
+  "bilans_300_07": {
+   "na_dzien": "300-07-31",
+   "moneta_w_skrzyni": 2070.2,
+   "naleznosci": 1589.45,
+   "rzut": 45,
+   "metoda": "kasa.py KASA 3, okres 07-14..07-31 (18/31 miesiaca), interpolacja (r-1)/99: moneta 455.38, eskorta 51.89, natura 1172.67 (bez 97.56 i 113.99 juz doliczonych: 961.12, 6/10 moneta 576.67, 4/10 kwit 384.45); wydatki 62.2% wplywow (80-40*f) = 1045.30. Garnizon WF/Zimowa Straz - ksiega kasztelana do 07-31, od 08-01 jedna ksiega.",
+   "plik": "gra/bilans_korony_300_07.md"
   }
  },
  "_udzialy_wspolnikow": {

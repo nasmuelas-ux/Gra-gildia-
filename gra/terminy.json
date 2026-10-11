@@ -11335,6 +11335,15 @@
    "wraca": "300-08-04",
    "zamyka": "znak ustalony i spisany na kartce POD MOJA NIEOBECNOSC",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "ODPISY ULTIMATUM DORZECZA (Krol rzut 84): STANNIS (droga odpisu 07-11; zdanie Krola: Polnoc dotrzymuje ugody i wymaga tego od drugiej strony); OLENNA przez Hala (osobna linijka Krola: 'Pani nie chce wojny, ja tez nie. Lew slucha tego, kto placi jego dlugi' - bez slowa o zbozu); DORAN MARTELL przez Neste (bez prosby). Kancelaria Berona, wysylka 08-02. Odzew - RZUT przy kazdej wiesci.",
+   "kto": "KROL ; BERON (odpisy) ; HAL ; NESTA",
+   "kanal": "kruk / kurier Domu / Braavos",
+   "wraca": "300-08-25",
+   "zamyka": "odzew Olenny, Dorana, Stannisa (albo cisza)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

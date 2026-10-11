@@ -274,3 +274,9 @@ Fakty, które Symon ma z zapisu i z rozmowy z 07-23:
 - Jojen (13 lat) w galerii nad gajem: „nie śniłem siebie starego… śni mi się droga na północ i na niej kończy się to, co widzę”. To jego zielony sen, nie fakt świata.
 - **OBIETNICA SYMONA: nic nie powie Meerze.**
 - Czy wie ojciec? Jojen: Howland wie, że Jojen śni drogę, ale nie pytał, gdzie ona się kończy. List Symona do Reeda z 07-18 (prośba, by przyjechał wcześniej) czeka na odpowiedź.
+
+## 300-08-04 — MELDUNEK WILLI USTNIE (posłaniec z oddziału I, po południu; rzut 58, DOBRZE)
+Posłaniec powtarza panu słowo w słowo, w cztery oczy. Imion nie było.
+1. **Królewska Przystań:** z dawnych meldunków uśpionych, sprzed ich milczenia od 07-10, wynika, że **zeszłego roku, kilka dni po śmierci starego króla, złote płaszcze przeszły przez domy przy Jedwabnej Ulicy i zabiły dziecko w kołysce. Mówiono, że to był bękart Roberta** (kanon: rzeź bękartów, 299). **Od tamtej pory nic nowego.** Ani polowań, ani nagród, ani pytań w portach. Willa przesłała pytanie uśpionym **ogólnie: „bękarty Roberta, kto dziś szuka”, bez imion**. Odpowiedź przyjdzie razem z przeglądem KP, ok. 08-26.
+2. **Brama Fosy:** od 07-28 pisarze przy księdze przybyszów i przy komorze notują po cichu każdego, kto pyta o kowali z Harrenhalu albo o młodego kowala. **Nikt nie pytał.** Willa zostawia to jako **stałe baczenie**: *„Jeśli ktoś zapyta, pan będzie wiedział, zanim on dojedzie do Winterfell.”*
+- Obietnica wobec Aryi (jeśli ktoś przyjdzie po Gendry'ego, pan jej powie) **nie zostaje uruchomiona**, bo nikt nie przyszedł.

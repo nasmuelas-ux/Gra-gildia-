@@ -10479,7 +10479,7 @@
    "kanal": "jezdziec ustnie, Winterfell-Fosa (~4-5 dni) i z powrotem",
    "wraca": "300-08-04",
    "zamyka": "meldunek Willi ustnie (rzut)",
-   "status": "otwarte ### 08-03: ulewa - jezdziec na traktach wolniej; powrot wieczorem 08-03 albo 08-04 (meldunek ustny - rzut przy przyjezdzie)."
+   "status": "ZAMKNIETE 300-08-04 (rzut 58, DOBRZE): meldunek ustny w cztery oczy - tresc w gra/ukryte/prawda.md; baczenie przy bramie STALE; odpowiedz uspionych - z przegladem KP ~08-26."
   },
   {
    "data": "300-07-24",
@@ -11740,6 +11740,15 @@
    "wraca": "300-08-10",
    "zamyka": "wiadomo, gdzie jest Stannis i dlaczego nie przyplynal (albo kiedy przyplynie)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-04",
+   "co": "BACZENIE PRZY BRAMIE FOSY (stale, Willa; tresc w ukryte/prawda.md) - pisarze przy ksiedze przybyszow i komorze notuja pytania z ukrytego zlecenia; zgloszenie do pana od razu. Przeglad co miesiac w karcie Willi.",
+   "kto": "WILLA",
+   "kanal": "Fosa - posłaniec ustny / szyfr",
+   "wraca": "300-09-01",
+   "zamyka": "filar - stale baczenie (nie zamyka sie)",
+   "status": "otwarte - stale"
   }
  ],
  "_dopiski_300_03_18": [

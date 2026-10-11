@@ -35,3 +35,9 @@ Pierwsza linia Korony to dziś: **20 ludzi z Winterfell** przy rozjemcy (E: licz
 
 ## SŁOWO PANA 08-01: LUDZIE ROSNĄ RAZEM Z CYPLEM
 Na dziś **zwiększanie obsady nie jest potrzebne**. Pierwszą linię dla obecnej liczby wolnych ludzi tworzą rozjemca z dwudziestoma ludźmi, straż Robetta i Straże Leśne. **Obsadę zwiększa się falami, gdy na Cypel przybywa więcej wolnych ludzi** (liczbę ognisk i dusz poda Mance, warunek Króla z 07-26). Źródła dodatkowej straży pan rozważa (patrz wyżej, uwaga GM).
+
+## SŁOWO PANA 08-01: DWIE STRAŻE I WIEŻE
+- **Straż wolnych ludzi po ich stronie.** Wolni ludzie powołują własną straż, która pilnuje porządku wśród ognisk na Cyplu. Odpowiada przed starostą i przed Sądem Rozjemczym. *(Wymaga zgody wolnych ludzi; przedstawia się ją przy drzewie, razem z przysięgą Mance'a.)*
+- **Korona buduje sieć wież obserwacyjnych w odstępach** wzdłuż granicy nadania: od strony puszczy Glovera i od strony brzegu. Każda wieża ma widok na następną. W wieżach stoją ludzie Korony.
+- *Uwagi GM z zapisu (zasada 8):* (a) Robett trzyma już **łańcuch ognia** na stawce Kasy 3 (40 ludzi, od 04-06), więc wieże można wpiąć w ten łańcuch, zamiast budować drugi; (b) drewno pochodzi z puszczy, czyli z lasu Glovera (prawo wyrębu jest jego), albo z kamienia na miejscu; (c) budowa i obsada obciążają Kasę 3 (koszt policzy Gawen); (d) liczbę wież i odstęp określi pomiar granicy (mierniczy Korony z Holtem Sosną).
+- **Do przedłożenia Królowi przy podpisie deklaracji (~08-04).** Budowa Korony to prerogatywa, rozstrzyga rzut przy przedłożeniu.

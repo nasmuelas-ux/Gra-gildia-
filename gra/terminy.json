@@ -11668,6 +11668,15 @@
    "wraca": "300-08-08",
    "zamyka": "Theon zapytany",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "KSIEGA MILCZENIA (slowo pana 08-03, rada Sansy; gra/ksiega_milczenia.md): Beron - czesc Korony, przeglad CO PONIEDZIALEK, zmiany rytmu do pana; Lucan - czesc Domu; Willa - rubryka POSLANCY POLUDNIA od karty 09-01 (liczyc poslancow, nie czytac listow). Cykl tygodniowy - po kazdym przegladzie: python3 gra/dzien.py odebrane ID DATA.",
+   "kto": "BERON ; LUCAN ; WILLA",
+   "kanal": "kancelaria WF; kruk WF-Fosa 08-04",
+   "wraca": "300-08-11",
+   "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
+   "status": "otwarte - cykl"
   }
  ],
  "_dopiski_300_03_18": [

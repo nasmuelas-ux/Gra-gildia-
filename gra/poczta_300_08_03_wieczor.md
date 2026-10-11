@@ -52,3 +52,8 @@ _Dom nie pływa przez Stopnie. Jego szlaki to Braavos i Pentos → Biały Port �
 - **Do Willi** (dopisek Lucana w tym samym kruku 08-04, szyfr): uśpieni w KP mają ustalić także, **kto dopłaca Złotym Płaszczom**.
 - **Do Garricka, lenno Fosy** (kruk WF → Fosa 08-04, pieczęć lorda Fosy): komora Korony przy Fosie **spisuje konie idące Traktem na południe**: liczbę, znaki i piętna, czyje są, kto je prowadzi i dokąd. Spis tygodniowy idzie do pana. Zwykła praca komory, bez rozgłosu.
 - **Theon** (~08-07): zapytać go o Eurona i o „Ciszę”.
+
+## 8. KSIĘGA MILCZENIA (słowo pana, 08-03 przed kolacją; gra/ksiega_milczenia.md)
+- **Beron** (kancelaria Namiestnika) prowadzi część Korony: rytm, ostatni list i o czym milczy. Przegląd w każdy poniedziałek, zmiany do pana.
+- **Lucan** prowadzi część Domu, w ręku Domu.
+- **Do Willi** (dopisek w kruku 08-04, szyfr): od karty 09-01 nowa rubryka **„POSŁAŃCY POŁUDNIA”**. Uśpieni i nasłuchy liczą posłańców między dworami (kto do kogo jeździ i kto przestał), ale **listów nie czytają i nie pytają**.

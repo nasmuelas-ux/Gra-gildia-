@@ -11469,7 +11469,7 @@
    "kanal": "osobiscie (Brynden) ; kruki",
    "wraca": "300-08-06",
    "zamyka": "slowo Bryndena + listy do Glovera i Tallharta wyslane",
-   "status": "otwarte ### 08-02 BRYNDEN (rzut 63 TAK): nauczyciel od Glovera przyjety; tydzien 4 (marsz, oboz) w Wilczym Lesie prowadzi czlowiek Glovera; kurs nadal 6 tygodni; Brynden pierwszego dnia sprawdza go sam w lesie. ZOSTAJE: listy pana do Glovera i Leobalda Tallharta. ### 08-02: LIST DO GLOVERA (Akademia) WYSLANY - przyjeci, nauczyciel tydz. 4 w Wilczym Lesie, Glover wskazuje ktory. ZOSTAJE: list do Leobalda Tallharta."
+   "status": "ZAMKNIETE 300-08-02: Brynden TAK (63); listy wyslane - Glover (przyjeci, nauczyciel tydz. 4 w Wilczym Lesie, wskazac ktory) i Leobald Tallhart (przyjeci, jedna izba, imiona przed wyjazdem). 4 z 6 miejsc II grupy zajete; 2 wolne."
   },
   {
    "data": "300-08-02",
@@ -11532,6 +11532,15 @@
    "kanal": "kruki WF->Deepwood, WF->Barrowton + jezdziec; Rodrik ustnie",
    "wraca": "300-08-10",
    "zamyka": "meldunki: pozycje zajete",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "AKADEMIA II GRUPA (~09-20): odpowiedzi Glovera (ktory uczy) i Tallharta (imiona) + 2 wolne miejsca (Dustin milczy; Fosa/domena - Rodrik).",
+   "kto": "GLOVER ; TALLHART ; RODRIK",
+   "kanal": "kruki",
+   "wraca": "300-09-10",
+   "zamyka": "lista II grupy pelna u Bryndena",
    "status": "otwarte"
   }
  ],

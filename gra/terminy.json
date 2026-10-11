@@ -8175,7 +8175,7 @@
    "kanal": "kurier Domu (poczta wlasna, poza Cytadela)",
    "wraca": "300-07-30",
    "zamyka": "odpowiedz albo wpisana odmowa (data, nazwisko, powod)",
-   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
+   "status": "ZAMKNIETE 07-30 - ODPOWIEDZ WILLAMA (rzut 73 - TAK, obszernie, wlasna reka; kurier Domu). (1) RIVERS: bekart z Dorzecza; ojca nie wymienial nigdy; do Cytadeli z listem SEPTONA z KAMIENNEJ SEPTY (kanon: Stoney Sept) - z tym samym septonem korespondowal do smierci (rejestr krucznika wiezy: kilkanascie listow przez 30 lat, E; septon Abelar, E). (2) KTO PAMIETA CHLOPCA: stara HILDA z pralni (E) - chlopiec 'byl od zawsze przy kuchni'; nikt nie pamieta, kto go przyprowadzil. (3) KTO PLACIL: Rivers, z wlasnej pensji (zgodne ze skrzynia). (4) TROP: w rejestrze krucznika wpis Riversa o liscie OD TEGO SAMEGO SEPTONA z zimy, w ktorej chlopiec pojawil sie przy kuchni (wg Hildy), z dopiskiem Riversa: 'chlopiec doszedl zdrow' (E). Willam: 'Nie wiem, czy to o was. Wpis jest jeden. Ale zima sie zgadza.' Listu samego nie ma. RODZICE - NADAL NIEZNANI; trop: KAMIENNA SEPTA (Dorzecze)."
   },
   {
    "data": "300-06-22",
@@ -11271,6 +11271,15 @@
    "kanal": "ustnie; karta Borsa",
    "wraca": "300-08-06",
    "zamyka": "rozmowa Krola ze swiadkiem odbyta; dalsza ochrona - slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-30",
+   "co": "SPRAWA PRYWATNA - TROP: KAMIENNA SEPTA (Dorzecze; kanon Stoney Sept). Z listu Willama 07-30: septon (E: Abelar) - ten, ktory poslal Riversa do Cytadeli i z ktorym Rivers pisal 30 lat; wpis w rejestrze krucznika Starego Zamku z zimy, w ktorej chlopiec pojawil sie przy kuchni: list od tego septona + dopisek Riversa 'chlopiec doszedl zdrow' (E). Czy septon zyje (raczej nie, E) - kto prowadzi dzis septe i czy ma ksiegi. Do slowa pana (kanal: Lyman - jego pytanie w Riverrun zauwazone, rzut 28; Deron Suchy z Rozdroza - blizej; Owen/Wiara - septy pisza do sept).",
+   "kto": "SYMON (slowo)",
+   "kanal": "do wyboru",
+   "wraca": "300-08-05",
+   "zamyka": "slowo pana: kto i jak pyta w Kamiennej Sepcie",
    "status": "otwarte"
   }
  ],

@@ -25,7 +25,37 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**263 otwartych** · **0 PRZETERMINOWANYCH** · 0 wraca dzis
+**263 otwartych** · **0 PRZETERMINOWANYCH** · 28 wraca dzis
+
+### 🟡 WRACA DZIS
+- DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu … · _kanal:_ wlasny czlowiek na Fosie
+- ROZKAZ PANA - GORACY PORT: JEDYNIE MUROWAC PORT I ZABEZPIECZAC WYBRZEZE (wola gracza 05-16: 'murowac port i zabezpieczac wybrzeze'… · _kanal:_ kruk Winterfell-Fosa (05-16) + robota na miejscu
+- OSIEM BUDOW - CHECKPOINTY Z KARTY (harmonogram wlasny urzedu): spichlerze wiejskie start 06-05, piec pierwszych z ksiega 07-15; kw… · _kanal:_ zbiorczy Garricka co 7 dni
+- KOPIOWANIE KSIAG URZEDOWYCH DLA FOSY - pisarze szkoly na Fosie pod okiem Miry (do czasu skryptorium w Latarni); dniowka Kasa 2; or… · _kanal:_ Winterfell / Fosa
+- GP-1 GORACY PORT - RYSUNEK ETAPOW I-II: linia muru od morza, Wieza Morska, Wieza Polnocna, rynna lancucha; pomiar ujscia i dna. Ry… · _kanal:_ kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem
+- DUSTINPORT E1 - PALISADA OD WODY I WIEZA OGNIA w lancuchu. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19,… · _kanal:_ jak wyzej
+- DUSTINPORT - CHATY DLA RODZIN 30 LUDZI (rozkaz pana 06-18): Donnel buduje rekami wlasnej zalogi poza barakami, za murem od ladu; d… · _kanal:_ jezdziec Fosa-Dustinport (4 dni); potwierdzenie w karcie Donnela 07-08
+- JASTRZEBIE 100 - LODZIE: plaskodenne olchowe na tyczkach, pierwsze szesc pod pierwsza fale (+30); ciesla Brana po sianokosach, olc… · _kanal:_ na miejscu
+- JASTRZEBIE 100 - KUSZE: trzydziesci pod pierwsza fale; zbrojmistrz Fosy + kuznia (czterech kowali; ruda z Wilczego Lasu - zelazo n… · _kanal:_ na miejscu
+- JASTRZEBIE 100 - BARAKI PRZY GROBLI dla pierwszej fali (30): Bran, po sianokosach; z zapasu drewna budowy. Kasa 2. · _kanal:_ na miejscu
+- STRAZNICA ZA CAILIN OD POLNOCY (rozkaz pana 06-19, do czasu murow): Hendry stawia drewniana wieze z palisada na suchym za miastem … · _kanal:_ na miejscu
+- GARNIZON GORACEGO PORTU - MIESZKA NA MIEJSCU (rozkaz pana 06-21): setka Hendry'ego, gdy wejdzie za mur od morza (rozkaz 05-16 'naj… · _kanal:_ na miejscu
+- ETAP 0 - WYCHODKI: dol na kazdy barak, z dala od wody pitnej (brak w zapisie imiennie) - prowadzi HERWIN (zatwierdzone 06-26) z Ni… · _kanal:_ na miejscu
+- CZARNY KAMIEN Z TORFIARNI FOSY - ZRODLO WLASNE SMOCZEGO SZKLA (decyzja Krola 07-09): GARRICK liczy, ile odlozono od 300-03-18, i p… · _kanal:_ kruk Winterfell-Fosa + woz z probka
+- SEDZIOWIE KOMOR KORONY - OBSADA (kodeks B 07-10): dwoch sedziow komor (wskazuje Justycjariusz CERWYN, zasada 42) - do X obaj objaz… · _kanal:_ Winterfell
+- ZAKRES REGENCJI NAMIESTNIKA NA CZAS WYPRAWY (rada Lucana, zgoda pana 07-11; Krol 07-09: 'spiszemy przed wyplynieciem, czego nie ro… · _kanal:_ osobiscie, Winterfell; Cerwyn - kruk/jezdziec
+- LENNO FOSY - PATRONAT NAD WSIAMI I BRANZAMI ZYWNOSCIOWYMI (dyspozycja pana 07-20): spis wsi i branz (rybacy, pola, mlyn, mysliwi, … · _kanal:_ kruk Winterfell-Fosa (07-21 rano)
+- POSLANIEC USTNY DO WILLI (Fosa) - zlecenie Namiestnika 07-23 (tresc: gra/ukryte/prawda.md, bez imion): pytanie przez jej ludzi na … · _kanal:_ jezdziec ustnie, Winterfell-Fosa (~4-5 dni) i z powrotem
+- CAILIN - WIELKA KUZNIA Z ODLEWNIA: lawa ZA (rzut 98): dzialka na koncu kanalu ponizej miasta (woda na kolo), miasto - kamien z roz… · _kanal:_ kruk do Fosy
+- GORACY PORT - WZMOCNIENIE NADZWYCZAJNE (rozkaz pana, lenno/Dom): straz budowy podwojona, ogien na murze od morza, setka Hendry'ego… · _kanal:_ kruk WF->Fosa
+- WYSPA TWARZY - PRZERWA (slowo pana 07-29): trzeciej proby nie ma; nikt z lenna nie plywa na Oko Boga do odwolania; jezdziec do DER… · _kanal:_ kruk WF-Fosa + jezdziec przez Przesmyk
+- CAILIN - LIST PANA DO HERWINA I LAWY (07-30; gra/poczta_300_07_30.md): domy Braavos jako FAKTORIE (magazyn, kantor, ludzie, towar)… · _kanal:_ kruk WF->Fosa (do burmistrza)
+- TORSEN - PLANY (jego slowo 07-30): noc w Zimowym Miescie, w zajezdzie Sarry pod Brama; 07-31 rano - hala Skarbu w ZM z pisarzem Ga… · _kanal:_ osobiscie; kruk WF->BP z decyzja Krola
+- ZALICZKI 3 LORDOW (Hornwood, Flint z Palca, Ryswell) - Korona placi za nich jako POZYCZKE na ich zboze (Krol rzut 56: TAK): procen… · _kanal:_ kruki Winterfell -> Hornwood / Palec / Ryswell
+- TORGEN SZARY (E), rozjemca Korony na Cypel - przyjazd do Winterfell z Cerwyn (~08-03); rozmowa z panem; potem droga na Cypel z Osh… · _kanal:_ jezdziec Winterfell-Cerwyn
+- GAWEN (pan 08-03): konie z Rills - placic szybko i przy odbiorze wg slupa; PROPOZYCJA DATY jesiennej wystawy zboza w BP (Faktor To… · _kanal:_ ustnie WF
+- DO KROLA 08-04 (pan 08-03): Karhold zna droge na Skagos (pogloska foki-za-zelazo) - przy zawinieciu pytac Rickarda o droge, przyst… · _kanal:_ ustnie WF
+- LIST KORONY DO ZELAZNEGO BANKU (slowo pana 08-03; gra/list_bank_braavos_300_08_03.md): odpis ultimatum + 'Polnoc nie jest dluzniki… · _kanal:_ kruk WF-BP + morze BP-Braavos
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1313,10 +1343,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-08-03 pozne popoludnie · zima (300)
+- **Data:** 300-08-04 rano · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 38**
+- **Zdrowie 100 · Sytosc 72 · Zmeczenie 20**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2728,8 +2758,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-08-03] `dziennik`: PO KOLACJI - SLOWO PANA: odpisy ultimatum poszly tylko do Westeros - NAPISAC DO ZELAZNEGO BANKU. Bez nowego rzutu (wola Krola 08-01, rzut 84: 'Niech caly swiat przeczyta, kto lamie rozejm').…
-- [300-08-03] `dziennik`: WIECZOR, KOMNATA NAMIESTNIKA - SLOWO PANA: list do Zelaznego Banku napisac Z SZACUNKIEM PO BRAAWOSKU i dopisac, ze Korona Polnocy liczy na poglebiajaca sie wspolprace z Braavos. Bez rzutu (S…
 - [300-08-03] `poprawki`: POMINIECIE GM (zasada 1, 37): w karcie REGIONY (wiersz Reach, poziom 3) i w rubryce POSLANCY POLUDNIA nie bylo PLACOWKI DOMU W ASHFORD (jawna pod znakiem Domu od 06-01, rzut 59; mandat Koron…
 - [300-08-03] `dziennik`: KOMNATA NAMIESTNIKA - SYMON PYTA: co z placowka w Ashford. Bez rzutu (z zapisu). STAN: rozkaz 04-02 (najpierw ludzie, potem towar; JAWNIE pod znakiem Domu - nie cichy kantor, bo tego Olenna …
 - [300-08-03] `poprawki`: POMINIECIE GM (zasada 37): placowka w ASHFORD (od 06-01) nie weszla do ksiag Domu (ekonomia.json) ani do spisu majatku 07-20, gdzie 'przedstawiciel w Highgarden' stal jako PLAN. Na slowo pan…
@@ -2740,3 +2768,5 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-08-03] `dziennik`: WIECZOR - ROZSTRZYGNIECIE PANA (ksiegi Domu): (1) 'placowki zalozone handluja i obracaja tez lokalnie - zasymuluj wstecznie'; (2) 'kolejne placowki zwiekszaja synergie pozostalych'. Bez rzut…
 - [300-08-03] `dziennik`: WIECZOR - PAN: co zostalo. Bez rzutu. Do slowa pana przed 08-05 tylko KOLEJNOSC WYPLAT (wyplata VIII wspolnikom / papiery Lwa - skup wstrzymany do terminu / pozyczka w materiale dla Cailin);…
 - [300-08-03] `dziennik`: WIECZOR, IZBA NIANI - BAJKA 25: O SZARYM KROLU I MORSKIM SMOKU (gra/bajki_starej_niani.md). Bez rzutu. Sluchali Rickon i Walder; Bran z Hodorem i Meera przy oknie; Kudlacz pod lawa. Pytanie …
+- [300-08-03] `dziennik`: NOC - SYMON SPISUJE BAJKE 25 I KLADZIE SIE SPAC. SEN RZUT 44: JEDNA KONSEKWENCJA - zasnal pozno (mapa, Tywin, Bank w glowie); przed switem Lyra obudzila sie z placzem (zab), Symon nosil ja p…
+- [300-08-04] `dziennik`: 300-08-04 RANEK (PONIEDZIALEK), WINTERFELL. POGODA RZUT 82: DOBRZE - po deszczu przejasnienie, chlodny rzeski ranek, wiatr z zachodu slabnie; trakty schna do poludnia, brody opadaja; kruki l…

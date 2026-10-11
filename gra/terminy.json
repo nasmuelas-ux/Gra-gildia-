@@ -11308,6 +11308,15 @@
    "wraca": "300-08-04",
    "zamyka": "deklaracja podpisana i rozeslana krukami przed 08-05",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "ZALICZKI 3 LORDOW (Hornwood, Flint z Palca, Ryswell) - Korona placi za nich jako POZYCZKE na ich zboze (Krol rzut 56: TAK): procent za kazdy dzien zwloki, stawka jawna i jedna dla wszystkich (Gawen); bez splaty Korona zatrzymuje zboze dla siebie (Spichlerz). Gawen liczy razem z rata VIII (rezerwa: 1/3 raty towarem). Pismo Skarbu do trzech lordow - pisze Gawen, podpis Namiestnika. Odpowiedzi lordow - RZUT przy wiesci.",
+   "kto": "GAWEN (pismo, stawka, rachunek) ; SYMON (podpis)",
+   "kanal": "kruki Winterfell -> Hornwood / Palec / Ryswell",
+   "wraca": "300-08-04",
+   "zamyka": "pismo wyslane; stawka w ksiedze Korony",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

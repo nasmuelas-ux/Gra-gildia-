@@ -86,3 +86,18 @@ _Poziom (1) to rzeczy jawne z zapisu. Poziom (2) to pogłoski (E, niepewne). Poz
 | **Żelazne Wyspy** | langskip pod Kamiennym Brzegiem (07-09) | — | oczy na Pyke (kupiec ksiąg), meldunek ~IX | **cała flota: ile i kiedy** |
 | **Essos: Braavos** | dyskonto weksli Lannisportu rośnie (Tam) | — | filia Domu, meldunek ~08-25 | cienko |
 | **Essos: Pentos i Zatoka Niewolnicza** | Daenerys w Meereen, trzy smoki, bez statków (Nesta 04-21) | „w Pentos ktoś ich latami żywił” (Aemon 07-22) | placówka Obara, meldunek ~08-25 | **co Daenerys robi teraz**, od 04-21 |
+
+### DOPEŁNIENIE: POZOSTAŁE REGIONY Z FORMY KARTY (Północ po regionach i Essos „reszta”; 08-03, na uwagę pana)
+| region | (1) z boku, jawne | (2) od ludzi | (3) nasze źródła | biała plama |
+|---|---|---|---|---|
+| **Północ: Biały Port** | Torsen mianowany Faktorem (08-02); wyrok w sprawie Whartona; fracht drewna rośnie | — | Hal, faktoria Domu | ceny chleba po żniwach |
+| **Północ: Barrowlands i Dustinport** | podwójna straż w Dustinporcie; postój składowy w Barrowton od 1 X | **odbiorcy przemytu z Fosy: dwaj kupcy z Barrowton** (karta, 99) | Donnel, Torren | łom wapienny (Barbrey milczy) |
+| **Północ: zachodni brzeg** (Kamienny Brzeg, Deepwood, Palec, Wyspa Niedźwiedzia) | gotowość lordów zachodu (08-02); deklaracja w drodze | „żagle na horyzoncie” (bez daty, niepewne) | łańcuch ognia Robetta, karta Theona/Starkportu | flota żelaznych |
+| **Północ: Cypel i za Murem** | 22 tys. według planu; rozjemca Torgen w drodze | — | przystań Vemunda | **liczba ognisk i dusz od Mance'a**, od 07-26 |
+| **Północ: Mur** | Aemon zdrowszy (08-02); wybór Lorda Dowódcy wstrzymany do jego wyzdrowienia | — | posterunek Domu na Czarnym Zamku (listy na południe, głosy), meldunek ~08-10 | kto zabiega o głosy |
+| **Północ: góry (klany)** | posłańcy Korony do sześciu klanów (wyjazd 07-27) | — | — | **odpowiedzi klanów**, ~08-08..12 |
+| **Północ: Karhold i Ostatnie Ognisko** | Umber chce zakładników (08-01); Król zawinie do Karholdu (~VIII) | — | — | Rickard i Harrion po ultimatum |
+| **Skagos** | Magnar: „niech Stark przypłynie sam” (06-18) | jednorożce, kanibale (bajka Niani) | — | **wszystko poza słowem Magnara** |
+| **Krainy Burzy** | — | — | — | **cała**, brak kanału |
+| **Essos: Lys** | kupiec z Lys płacił za kwity Lwa więcej niż Hal (07-10); od wstrzymania skupu przestał pytać | „może ręka Tywina” (hipoteza Sansy 07-13) | próba Hala i Willi (wynik ~08-05) | **czyja to sakiewka** |
+| **Essos: reszta** (Myr, Volantis, Tyrosh) | szkło z Myr przez Hala (07-28) | — | — | **cała**, brak kanału |

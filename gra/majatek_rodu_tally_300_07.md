@@ -24,7 +24,7 @@ _Ustalenia z rozmowy Symona i Miry 07-26 (wieczór i noc). **AKT SPISANY 300-08-
   - jej grunt sprzed ślubu (dom w Białym Porcie i sukno) jest jej za życia i **nie wchodzi pod niczyją rękę**. Odpowiada za Dom swoją szóstą częścią;
   - po niej grunt przechodzi do sakwy domu;
   - **dom w Białym Porcie: NIE SPRZEDAWAĆ, nigdy.**
-- **Atelier** zostaje poza Domem, z własną księgą (jak dotąd).
+- **Atelier Miry jest przedsiębiorstwem Domu Handlowego (wymiar I)**, tak jak inne przedsiębiorstwa Domu. Mira wniosła je 299-11-29, wycena z 300-02-06 wynosiła 520. Ma własną księgę i zarządza nim Mira. *(Poprawka 08-02: wcześniejszy zapis „poza Domem” był błędem GM i jest VOID.)*
 - **Pomarańczowy Dwór:** dom rodu (wymiar III), budowę płaci lenno (wymiar II). Powstaje po murze, spichlerzach i Gorącym Porcie (warunek Miry). Podstawowa forma, czyli jedno skrzydło, może stanąć za ich życia. Kolejność wynika z kolejki budów.
 
 ## 4. Szare Płaszcze: z Domu do lenna
@@ -33,3 +33,7 @@ _Ustalenia z rozmowy Symona i Miry 07-26 (wieczór i noc). **AKT SPISANY 300-08-
 - ⚑ **Przysięgi NIE powtarza się** (poprawka 07-27). Oba oddziały przysięgły już przed panem, panią i dzieckiem: oddział I 07-13, oddział II 07-24, według Karty pkt VI. Przysięga jest osobista, a zmienia się tylko płatnik. Do poprawy jest **Karta Przybocznej pkt I** (podległość: zamiast „Dom, Kasa 1” ma być „pan lenna, Kasa 2”). W rocie „służę Domowi” znaczy **ród Tally**.
 - Zadania bez zmian: Winterfell, straż przy panu, cicha straż przy kuźni.
 - Do rozstrzygnięcia: budynek pod koszary przybocznej w Zimowym Mieście (faktoria Domu, 06-25), czyli kto go płaci i czyj jest.
+
+## 5. KSIĘGA MAJĄTKU RODU TALLY (słowo pana 08-02)
+- **Majątek rodu Tally (wymiar III) ma osobną księgę**, oddzieloną od ksiąg Domu (Hal) i lenna (Gerrik, Warryn). Prowadzi ją głowa rodu. Wpisuje się do niej skarbiec rodu, sakwy Symona i Miry oraz dom rodu (Pomarańczowy Dwór), a także każdy wkład i wypłatę z Domu i lenna, które przechodzą do rodu.
+- Nikt z Domu ani z lenna nie ma do niej wglądu bez słowa głowy rodu.

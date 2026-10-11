@@ -7965,7 +7965,7 @@
    "kanal": "na miejscu / poczta",
    "wraca": "300-08-03",
    "zamyka": "meldunek Willi (rzut)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29: meldunek Willi nie w paczce Garricka (firewall - ksiega Domu); Willa - karta 08-01 (rzut przy meldunku). ### 08-01: w KARCIE WILLI (pisana 08-01, u pana ~08-03; interpretacja - Lucan)."
+   "status": "ZAMKNIETE 300-08-03 (rzut 99): Odo Szuwarnik (E) - sklad przy przystani; pisarz wagi Rolf (E) - wpisy \"zywnosc\"; odbiorcy z Barrowton; trzy noce z datami. Dalej - do slowa pana (Kessel, Roderyk, Rorik)."
   },
   {
    "data": "300-06-23",
@@ -9462,7 +9462,7 @@
    "kanal": "kruk Winterfell-Fosa (Willa); kruk przez Bialy Port (Tam)",
    "wraca": "300-08-03",
    "zamyka": "pierwsza rubryka znakow mobilizacji w raporcie 08-01 (u pana ~08-03) albo meldunek pilny",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-03 (rzut 21): pierwsza rubryka - oddzial ~200 na zachod, zaciag w Lannisporcie, okrety trzymane, owies/podkowy drozeja; przeciw komu - biala plama. Rubryka co miesiac (1-go)."
   },
   {
    "data": "300-07-12",
@@ -9849,7 +9849,7 @@
    "kanal": "list pana pod pieczecia Domu, kruk do Bialego Portu",
    "wraca": "300-08-03",
    "zamyka": "meldunek Willi o kupcach Zimowego Miasta",
-   "status": "otwarte ### 07-28: w karcie Willi 08-01. ### 08-01: w KARCIE WILLI (pisana 08-01, u pana ~08-03; interpretacja - Lucan)."
+   "status": "ZAMKNIETE 300-08-03 (rzut 29): brak kandydata z kapitalem niezwiazanego; Miarka zauwazyl pytania Domu (urazony)."
   },
   {
    "data": "300-07-17",
@@ -11289,7 +11289,7 @@
    "kanal": "kruk WF->Fosa",
    "wraca": "300-08-03",
    "zamyka": "list Ilaria",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-03: list Ilaria - odpisy, druk (stemple 9/24 E, olow brak), prosi o drugiego pisarza i len."
   },
   {
    "data": "300-08-01",
@@ -11551,6 +11551,24 @@
    "wraca": "300-08-22",
    "zamyka": "Edric w Winterfell, rozmowa odbyta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "PRZEMYT NA FOSIE - DO SLOWA PANA (karta Willi 99): Odo Szuwarnik (E, sklad przy przystani Cailin), pisarz wagi Rolf (E, wpisy 'zywnosc'), dwaj kupcy z Barrowton; trzy noce z datami. Firewall: wiedza z ksiegi Domu (Willa) - jak przekazac do lenna (Kessel/Roderyk/Rorik) bez ujawniania siatki.",
+   "kto": "SYMON",
+   "kanal": "Winterfell -> Fosa",
+   "wraca": "300-08-07",
+   "zamyka": "slowo pana: co z Odem i Rolfem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "ILARIO PROSI: drugi pisarz do odpisow + lepszy len na papier (Wat). Do slowa pana.",
+   "kto": "SYMON -> ILARIO/WAT",
+   "kanal": "kruk WF->Fosa",
+   "wraca": "300-08-15",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -11709,7 +11727,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-07-19",
+   "ostatnio_odebrane": "300-08-03",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -11797,7 +11815,7 @@
     "dzien_miesiaca": 1
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-07-01",
+   "ostatnio_odebrane": "300-08-01",
    "zrodlo": "dziennik 300-06-30 (izba Willi); pierwszy raport pisany 300-08-01"
   },
   {
@@ -11809,7 +11827,7 @@
     "dzien_miesiaca": 1
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-07-01",
+   "ostatnio_odebrane": "300-08-01",
    "zrodlo": "dziennik 300-06-30; rozkaz do Tama krukiem Fosa-Bialy Port 06-30 (u Tama ~07-02); pierwsza karta pisana 300-08-01"
   },
   {

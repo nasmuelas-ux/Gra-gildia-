@@ -9093,7 +9093,7 @@
    "kanal": "Winterfell",
    "wraca": "300-08-04",
    "zamyka": "dwa imiona sedziow + pisarze przy komorach",
-   "status": "otwarte ### 08-01: Cerwyn w Winterfell do 08-05 (jedzie z Krolem) - imiona sedziow ~08-04."
+   "status": "ZAMKNIETE 300-08-04: CERWYN (zasada 42) wskazal: OTTAR TWARDY (E, ~50, jego dawny pisarz sadowy, zna kodeks i miary) i MELLIS Z BIALEGO PORTU (E, ~35, wyszkolona przy sadzie Manderlych, czyta po braawosku); do X obaj objazdowi, potem jeden staly w Boltonsgate (po Skagos). Pisarze przysiegli przy komorach i zold - Gawen (Kasa 3)."
   },
   {
    "data": "300-07-10",
@@ -9237,7 +9237,7 @@
    "kanal": "osobiscie, Winterfell; Cerwyn - kruk/jezdziec",
    "wraca": "300-08-04",
    "zamyka": "akt regencji podpisany przez Krola przed wyjazdem",
-   "status": "otwarte - zasady przyjete (rzut 70); Lucan pisze akt, Cerwyn czyta, podpis Krola i Rodrika przed 08-05 (bez nowego rzutu) ### 08-01: SZKIC LUCANA przeczytany przez Krola przy panu - zgodny z zasadami; DOPISEK pana (Krol reka): SKAGOS - napasc na Krola/ludzi na Skagos lub w drodze -> odsiecz bez slowa Krola (okrety BP/Wyman, ludzie wschodu: Karstark, Umber); brak wiesci do 09-20 -> okret na zwiad do Kingshouse i Karholdu; Torren zostaje na zachodzie. Brakuje ZNAKU (Krol dopisze). Akt do Cerwyna 08-01; podpis Krola i Rodrika ~08-04. ### 08-01 CERWYN przeczytal: prawo czyste; uwaga - akt czytany na glos przy podpisujacych, pod pieczecia do Luwina, bez odpisu; Cerwyn moze podpisac jako swiadek prawa. ### 08-02: ZNAKI wpisane przez Krola (ukryte). Akt kompletny - podpis Krol + Rodrik + Cerwyn (swiadek) ~08-04, potem pieczec u Luwina."
+   "status": "ZAMKNIETE 300-08-04: AKT REGENCJI PODPISANY w solarze Krola - czytany na glos przy podpisujacych; KROL, SER RODRIK, CERWYN (swiadek prawa); pod pieczecia Krola do LUWINA; bez odpisu."
   },
   {
    "data": "300-07-11",
@@ -11316,7 +11316,7 @@
    "kanal": "kruki Winterfell -> Hornwood / Palec / Ryswell",
    "wraca": "300-08-04",
    "zamyka": "pismo wyslane; stawka w ksiedze Korony",
-   "status": "otwarte ### 08-03: PISMO GOTOWE do podpisu Namiestnika: stawka 1/1000 dziennie (E, ~3/100 mies.), jedna dla wszystkich; od wplaty Korony do splaty; moneta albo towar po cenie ogloszonej; bez splaty do zniw 301 - zboze w Spichlerzu Korony. ### 08-03 SLOWO PANA: PISMO WYSYLA KROL (jego decyzja 08-01, rzut 56 - pozyczka Korony). Gawen przepisuje naglowek pod imie i pieczec Krola; idzie do teczki przedlozen 08-04, przed wyjazdem 08-05. Bez nowego rzutu (podpis wlasnej decyzji Krola)."
+   "status": "ZAMKNIETE 300-08-04: Krol podpisal i opieczetowal; kruki do Hornwood, Palca i Rills po poludniu; stawka w ksiedze Korony (Gawen). Odzew lordow - rzut przy wiesci."
   },
   {
    "data": "300-08-01",
@@ -11631,7 +11631,7 @@
    "kanal": "ustnie WF",
    "wraca": "300-08-04",
    "zamyka": "Gawen ma propozycje daty; Krol rozstrzyga",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-04 (KROL, RZUT 79 - TAK): pierwsza JESIENNA WYSTAWA ZBOZA KORONY W BP - 300-10-01; ogloszenie od zaraz na slupach (BP, WF/ZM, Barrowton, Cailin); cena minimalna z wyprzedzeniem; ilosci po spisie Orlanda (~09-15); Faktor Torsen. Konie z Rills - placic przy odbiorze (bez zmian)."
   },
   {
    "data": "300-08-03",
@@ -11640,7 +11640,7 @@
    "kanal": "ustnie WF",
    "wraca": "300-08-04",
    "zamyka": "przekazane Krolowi",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-04: przekazane Krolowi - Karhold (Krol zapyta Rickarda o droge, przystanie i ludzi Magnara); Cisza - do wiadomosci; Theona (~08-07, po wyjezdzie Krola) pyta Namiestnik."
   },
   {
    "data": "300-08-03",
@@ -11683,9 +11683,9 @@
    "co": "LIST KORONY DO ZELAZNEGO BANKU (slowo pana 08-03; gra/list_bank_braavos_300_08_03.md): odpis ultimatum + 'Polnoc nie jest dluznikiem, dotrzymuje ugod'. Bez zaciagu w Lannisporcie (firewall), bez Domu. W woli Krola 08-01 (rzut 84 'caly swiat') - bez nowego rzutu; PODPIS I PIECZEC KROLA 08-04. Kanal: kruk WF-BP 08-04 -> Hal -> statek -> Nesta wrecza; Braavos ~08-27..30. REAKCJA BANKU - RZUT przy wiesci (najwczesniej koniec IX). ### 08-03 po kolacji SLOWO PANA: pisac Z SZACUNKIEM PO BRAAWOSKU (pisze Symon wlasna reka - biegly, bez rzutu) + akapit: Korona Polnocy liczy na poglebiajaca sie wspolprace z Braavos (handel, zegluga, rzemioslo, wiedza; kupcy, szkutnicy, uczeni mile widziani; wiezi z Bankiem - jesli Bank zechce).",
    "kto": "SYMON (tekst braawoski) ; BERON (odpis we wspolnej) ; KROL (podpis) ; HAL -> NESTA",
    "kanal": "kruk WF-BP + morze BP-Braavos",
-   "wraca": "300-08-04",
+   "wraca": "300-09-25",
    "zamyka": "list podpisany i w drodze; potem reakcja Banku",
-   "status": "otwarte"
+   "status": "otwarte ### 08-04: KROL PODPISAL I DOPISAL WLASNA REKA: 'Polnoc nie zapomina ani dlugow, ani przyjaciol.' Kruk WF-BP po poludniu -> Hal -> statek -> Nesta; Braavos ~08-27..30. Reakcja Banku - rzut przy wiesci."
   },
   {
    "data": "300-08-03",
@@ -11712,6 +11712,15 @@
    "kanal": "zbiorczy Garricka",
    "wraca": "300-08-11",
    "zamyka": "wycena pali i kafara na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-04",
+   "co": "JESIENNA WYSTAWA ZBOZA KORONY W BIALYM PORCIE - 300-10-01 (Krol 08-04, rzut 79): ogloszenie na slupach od zaraz (BP, WF/ZM, Barrowton, Cailin); cena minimalna ogloszona z wyprzedzeniem; ilosci po spisie Orlanda (~09-15); prowadzi Faktor Torsen, pieniadz przy wadze pisarzowi Skarbu.",
+   "kto": "GAWEN ; TORSEN ; ORLAND",
+   "kanal": "slupy i kruki Korony",
+   "wraca": "300-10-01",
+   "zamyka": "pierwsza wystawa odbyta, ksiega sprzedazy",
    "status": "otwarte"
   }
  ],

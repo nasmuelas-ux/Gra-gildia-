@@ -32,3 +32,6 @@ Za sprawy wolnych ludzi odpowiada **tylko Korona**. Lord **zatrzymuje** winnego,
 
 ## UWAGA GM: LUDZIE (zasada 8, z zapisu)
 Pierwsza linia Korony to dziś: **20 ludzi z Winterfell** przy rozjemcy (E: liczba z 08-01), **straż Robetta** na granicy Cypla (żołd Korony) oraz **6 gajowych** Glovera w Straży Korony. Na wodzie są łodzie Mormontów, ale tylko gdy płyną z ziarnem. To wystarczy na sąd, zatrzymania i jeden posterunek. **Nie wystarczy na zasłonięcie całej granicy z puszczą Glovera i brzegu Zatoki Lodowej.** Jeśli Korona ma być pierwszą linią, potrzeba więcej ludzi albo łodzi, a to oznacza prerogatywę Króla (garnizon, żołd, Kasa 3) przed 08-05.
+
+## SŁOWO PANA 08-01: LUDZIE ROSNĄ RAZEM Z CYPLEM
+Na dziś **zwiększanie obsady nie jest potrzebne**. Pierwszą linię dla obecnej liczby wolnych ludzi tworzą rozjemca z dwudziestoma ludźmi, straż Robetta i Straże Leśne. **Obsadę zwiększa się falami, gdy na Cypel przybywa więcej wolnych ludzi** (liczbę ognisk i dusz poda Mance, warunek Króla z 07-26). Źródła dodatkowej straży pan rozważa (patrz wyżej, uwaga GM).

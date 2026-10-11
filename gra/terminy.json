@@ -11276,11 +11276,11 @@
   {
    "data": "300-07-30",
    "co": "SPRAWA PRYWATNA - TROP: KAMIENNA SEPTA (Dorzecze; kanon Stoney Sept). Z listu Willama 07-30: septon (E: Abelar) - ten, ktory poslal Riversa do Cytadeli i z ktorym Rivers pisal 30 lat; wpis w rejestrze krucznika Starego Zamku z zimy, w ktorej chlopiec pojawil sie przy kuchni: list od tego septona + dopisek Riversa 'chlopiec doszedl zdrow' (E). Czy septon zyje (raczej nie, E) - kto prowadzi dzis septe i czy ma ksiegi. Do slowa pana (kanal: Lyman - jego pytanie w Riverrun zauwazone, rzut 28; Deron Suchy z Rozdroza - blizej; Owen/Wiara - septy pisza do sept).",
-   "kto": "SYMON (slowo)",
-   "kanal": "do wyboru",
-   "wraca": "300-08-05",
-   "zamyka": "slowo pana: kto i jak pyta w Kamiennej Sepcie",
-   "status": "otwarte"
+   "kto": "SYMON -> OWEN (septon, po przyjezdzie) -> septa Kamiennej Septy",
+   "kanal": "Wiara: septa do septy (Owen)",
+   "wraca": "300-08-03",
+   "zamyka": "Owen w Winterfell i list septy do Kamiennej Septy",
+   "status": "otwarte ### 07-30 SLOWO PANA: pyta INNY SEPTON - przez WIARE, nie Lyman ani Deron; pan CZEKA NA OWENA (zaproszony do Winterfell; odpowiedz ~08-01..03, przyjazd pozniej) - Owen napisze septa do septy. Do tego czasu nic nie wychodzi."
   }
  ],
  "_dopiski_300_03_18": [

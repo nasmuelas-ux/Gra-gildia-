@@ -11278,9 +11278,9 @@
    "co": "SPRAWA PRYWATNA - TROP: KAMIENNA SEPTA (Dorzecze; kanon Stoney Sept). Z listu Willama 07-30: septon (E: Abelar) - ten, ktory poslal Riversa do Cytadeli i z ktorym Rivers pisal 30 lat; wpis w rejestrze krucznika Starego Zamku z zimy, w ktorej chlopiec pojawil sie przy kuchni: list od tego septona + dopisek Riversa 'chlopiec doszedl zdrow' (E). Czy septon zyje (raczej nie, E) - kto prowadzi dzis septe i czy ma ksiegi. Do slowa pana (kanal: Lyman - jego pytanie w Riverrun zauwazone, rzut 28; Deron Suchy z Rozdroza - blizej; Owen/Wiara - septy pisza do sept).",
    "kto": "SYMON -> OWEN (septon, po przyjezdzie) -> septa Kamiennej Septy",
    "kanal": "Wiara: septa do septy (Owen)",
-   "wraca": "300-08-03",
+   "wraca": "300-09-30",
    "zamyka": "Owen w Winterfell i list septy do Kamiennej Septy",
-   "status": "otwarte ### 07-30 SLOWO PANA: pyta INNY SEPTON - przez WIARE, nie Lyman ani Deron; pan CZEKA NA OWENA (zaproszony do Winterfell; odpowiedz ~08-01..03, przyjazd pozniej) - Owen napisze septa do septy. Do tego czasu nic nie wychodzi. ### 07-30 BRYNDEN (rzut 89): septa prowadzila KSIEGE PODRZUTKOW (kto, skad, komu oddany); sieroty szly na Polnoc przez kupcow Wiary z Bialego Portu - Stary Zamek Locke lezy pod BP, droga sie zgadza. Owen ma pytac o KSIEGE PODRZUTKOW z tamtej zimy. ### 08-02: OWEN nie przyjedzie przed koncem IX (rzut 14) - droga septa-do-septy przez Owena czeka; inna droga - do slowa pana."
+   "status": "otwarte ### 07-30 SLOWO PANA: pyta INNY SEPTON - przez WIARE, nie Lyman ani Deron; pan CZEKA NA OWENA (zaproszony do Winterfell; odpowiedz ~08-01..03, przyjazd pozniej) - Owen napisze septa do septy. Do tego czasu nic nie wychodzi. ### 07-30 BRYNDEN (rzut 89): septa prowadzila KSIEGE PODRZUTKOW (kto, skad, komu oddany); sieroty szly na Polnoc przez kupcow Wiary z Bialego Portu - Stary Zamek Locke lezy pod BP, droga sie zgadza. Owen ma pytac o KSIEGE PODRZUTKOW z tamtej zimy. ### 08-02: OWEN nie przyjedzie przed koncem IX (rzut 14) - droga septa-do-septy przez Owena czeka; inna droga - do slowa pana. ### 08-02 SLOWO PANA: CZEKAMY na Owena (koniec IX)."
   },
   {
    "data": "300-07-31",
@@ -11478,7 +11478,7 @@
    "kanal": "Winterfell",
    "wraca": "300-08-04",
    "zamyka": "slowo pana w czterech sprawach",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-02: (1) Maege - lodzie na CYPEL (Skagos VOID - geografia); (2) Ryswell - bez odpowiedzi, zboze z odsetkami (pismo Gawena); (3) Edmure - list pana: wzmocnic straze wlasnymi oddzialami Riverrun; (4) Owen - czekamy do konca IX."
   },
   {
    "data": "300-08-02",
@@ -11487,6 +11487,24 @@
    "kanal": "kruk Hornwood-Winterfell",
    "wraca": "300-09-01",
    "zamyka": "Donella potwierdza wplate",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "LIST NAMIESTNIKA DO EDMURE'A (po poludniu 08-02): pierscien przy Maidenpool przerzedzony (zniwa) - niech WZMOCNI STRAZE PRZY GARNIZONACH WLASNYMI ODDZIALAMI Riverrun, nie poborem lordow; przed 08-05 i na czas oblezenia (ultimatum Krola w drodze). Odzew Edmure'a - RZUT przy wiesci.",
+   "kto": "SYMON -> EDMURE",
+   "kanal": "kruk Winterfell-Riverrun",
+   "wraca": "300-08-07",
+   "zamyka": "odpowiedz Edmure'a / straze wzmocnione",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-02",
+   "co": "KRUK DO LADY MAEGE: lodzie Wyspy Niedzwiedziej - na CYPEL (ziarno przez Zatoke Lodu); gotowosc zachodu - ogien wyspy; Skagos - flota Wymana (nie lodzie Mormontow).",
+   "kto": "SYMON -> MAEGE",
+   "kanal": "kruk Winterfell-Wyspa Niedzwiedzia",
+   "wraca": "300-08-08",
+   "zamyka": "Maege wie",
    "status": "otwarte"
   }
  ],

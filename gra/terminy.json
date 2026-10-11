@@ -11244,7 +11244,7 @@
    "kanal": "Winterfell; ksiegi komor",
    "wraca": "300-08-01",
    "zamyka": "clo osobna linia za V-VII w bilansie 08-01",
-   "status": "otwarte"
+   "status": "otwarte ### 07-30 PAN - PIEC PRZYCZYN DO ROZDZIELENIA: (1) Fosa uszczelnia komore (strefy od 07-22); (2) wiecej kupcow - wiecej miast i ruchu; (3) czy doliczamy MYTA Z MOSTOW I INNE REGALIA NA ZIEMI KORONY?; (4) sezon; (5) komory dzialaja lepiej z czasem. GAWEN: rozdzieli RUCH (liczba wozow na komore) od USZCZELNIENIA (clo na woz); REGALIA DOMENY - nie wiadomo, czy myto i mostowe na drogach Korony sa pobierane (zwyczaj Starkow) - sprawdzi w ksiegach kasztelana; jesli nie pobierane - to decyzja Krola (regale), nie Skarbnika. Pierwszy BILANS KORONY (cykl ~10. dnia) - 08-10 za VII."
   }
  ],
  "_dopiski_300_03_18": [
@@ -11505,6 +11505,19 @@
    "opoznienie": 2,
    "ostatnio_odebrane": "300-07-01",
    "zrodlo": "dziennik 300-06-30; rozkaz do Tama krukiem Fosa-Bialy Port 06-30 (u Tama ~07-02); pierwsza karta pisana 300-08-01"
+  },
+  {
+   "id": "BILANS_KORONY",
+   "co": "BILANS KORONY ZA POPRZEDNI MIESIAC (slowo pana 07-30) - GAWEN, na pismie, ~10. dnia kazdego miesiaca: KASA 3 linia po linii - CLO KOMOR (osobno kazda komora: liczba wozow/ladunkow i clo na woz - zeby rozdzielic RUCH od USZCZELNIENIA), REGALIA DOMENY (waga i targ ZM, myto, przewozne, mostowe - jesli pobierane), czynsze domeny, SPIENIEZENIE SWIADCZEN W NATURZE, eskorta Kompanii, inne; po stronie kosztow - zold, Mur, budowy, zboze (raty), Akademia; skrzynia na koniec miesiaca + naleznosci. Porownanie z miesiacem poprzednim i tym samym miesiacem (gdy bedzie rok).",
+   "kto": "GAWEN (Skarbnik)",
+   "kanal": "osobiscie, Winterfell (pod nieobecnosc Krola - Namiestnik; odpis Krolowi)",
+   "rytm": {
+    "co_dni": 30,
+    "start": "300-08-10"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": null,
+   "zrodlo": "slowo pana 300-07-30"
   }
  ]
 }

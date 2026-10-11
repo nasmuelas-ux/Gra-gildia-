@@ -10893,7 +10893,7 @@
    "kanal": "kruki z Winterfell",
    "wraca": "300-08-01",
    "zamyka": "odpowiedzi trzech lordow",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-01 (gra/poczta_300_08_01.md): UMBER (19 - ZLE): zakladnicy albo nic; ludzie na brzegu Zatoki Lodowej, dzikich poza Cyplem wiesza bez sadu. GLOVER (32): przyjmuje; gajowi (6, E) na zold Korony. FLINT Z PALCA (4 - BARDZO ZLE): pytanie o polow pominiete w liscie 07-26 - \"nie wolno\"; lodzie dzikich na dno; zwiadu nie przyjmie; odpis do Glovera. DO SLOWA PANA."
   },
   {
    "data": "300-07-27",
@@ -10927,9 +10927,9 @@
    "co": "AKADEMIA - ZAPROSZENIE KORONY DLA WETERANOW LORDOW (Glover, Tallhart, lady Dustin): druga grupa kursu setnikow po zniwach (~09-20), do szesciu miejsc razem z Fosa i domena; za wiedza lorda, Korona zaprasza, nie bierze; zold w czasie kursu - Korona. Odzew - rzut przy kazdej odpowiedzi.",
    "kto": "GLOVER / TALLHART / BARBREY DUSTIN",
    "kanal": "kruki z Winterfell (pieczec Namiestnika)",
-   "wraca": "300-08-01",
+   "wraca": "300-08-15",
    "zamyka": "odpowiedzi trzech lordow (imiona kandydatow albo odmowa)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-01: GLOVER (99) - dwoch najlepszych + jeden uczy WOJNY LESNEJ, droga na jego koszt; TALLHART (45) - dwoch, prosba: mieszkac razem; BARBREY - brak odpowiedzi (jej list 07-30 o Akademii milczy). Druga grupa ~09-20."
   },
   {
    "data": "300-08-05",
@@ -11289,6 +11289,15 @@
    "kanal": "kruk WF->Fosa",
    "wraca": "300-08-03",
    "zamyka": "list Ilaria",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-01",
+   "co": "FERMENT - DO SLOWA PANA (poczta 08-01): (1) UMBER - zakladnicy albo inna rekojmia; jego wieszanie bez sadu poza Cyplem vs Sad Rozjemczy i prawo Korony; (2) GLOVER - szesciu gajowych na zold Korony (Gawen); (3) FLINT Z PALCA - odpowiedz na pominiete pytanie o polow, proporce, grozba zatapiania; (4) AKADEMIA - nauczyciel wojny lesnej od Glovera; ludzie Tallharta razem.",
+   "kto": "SYMON (+ KROL w sprawach prerogatywy)",
+   "kanal": "Winterfell",
+   "wraca": "300-08-02",
+   "zamyka": "slowo pana w czterech sprawach",
    "status": "otwarte"
   }
  ],

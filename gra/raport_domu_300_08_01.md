@@ -65,3 +65,24 @@ _Do rąk własnych pana. Dwie karty w tym samym podziale, złożone dopiero w Wi
 - **Odpisy:** wzornik i elementarz ksiąg podwójnych są gotowe w dwóch egzemplarzach. *O czternastu płomieniach* w połowie, Kronika i Pieśni z Lys po jednym arkuszu. **Książka o ptakach dla Brana skończona** i jedzie z następnym wozem.
 - **Druk:** farba olejna trzyma się na klocku kalendarza 301, ale na mokrym papierze się rozlewa. Papier Wata klejony mocniej jest lepszy. **Stemple liter u Marra: 9 z 24** (E). Ołów od Wystana jeszcze nie dotarł.
 - **Potrzebuje:** drugiego pisarza do odpisów i lepszego lnu na papier.
+
+---
+
+## KARTA WILLI: REGIONY, PEŁNY PODZIAŁ (na pytanie pana 08-03)
+_Poziom (1) to rzeczy jawne z zapisu. Poziom (2) to pogłoski (E, niepewne). Poziom (3) to nasze źródła. Przy rubrykach, w których żadne źródło nic nie podaje, stoi „biała plama” z datą ostatniej wieści. Bez interpretacji. Rzuty były tylko przy trzech sprawach z karty: przemyt 99, Zimowe Miasto 29, mobilizacja Lwa 21._
+
+| region | (1) z boku, jawne | (2) od ludzi, pogłoski | (3) nasze źródła | biała plama |
+|---|---|---|---|---|
+| **Północ: Fosa i Przesmyk** | komora działa, strefy i reguła strzału (07-29) | „ktoś przewozi nocą obok komory” | **przemyt: Odo, Rolf, Barrowton (99)** | brak |
+| **Północ: Zimowe Miasto** | patrycjat bez ławy z pieczęcią (07-29) | Miarka obrażony na Dom (już załatwione, waga Korony) | **brak kupca z kapitałem (29)** | brak |
+| **Północ: wschód i Dreadfort** | Dreadfort płaci za 86 pni (08-02) | — | ubytek ludzi Dreadfortu liczony w trzech okresach (Willa, dopiero od 08-12) | **co robi Roose poza listami**, od 07-10 |
+| **Dorzecze** | ultimatum Króla (08-02); Darry gotowe do wyjścia; Maidenpool czeka na słowo Tywina | „Darry pakuje wozy” | Deron i Lyman: droga z Maidenpool | **Zielone Widły (Freyowie nie wpuszczają)**, od 07-26 |
+| **Zachód (Lannisport)** | — | **zaciąg za żołd, okręty trzymane w porcie** | **~200 pod lwem na zachód przez Rozdroże, ok. 07-25 (21)** | **przeciw komu?** |
+| **Królewska Przystań** | Kevan i Tywin adresatami aktów; dług Tronu wobec Banku ~6 mln (299-03) | „Bank siedzi w Czerwonej Twierdzy” (E) | uśpieni milczą od 07-10 | **kto rządzi Radą**; bękarty Roberta (posłaniec do Willi wraca ~08-04) |
+| **Reach** | kontrakt zbożowy z Olenną, odpowiedź ~08-25; „Lew na smyczy Róży” (odczyt Sansy 05-19) | — | — | **czy Róża płaci jeszcze za Lwa**, od 07-13 |
+| **Dorne** | Góra stracony; list Dorana (07-17); zgoda na Deski | — | — | **odpowiedź Oberyna w sprawie kości Willama (~08-06)** |
+| **Dolina** | — | — | — | **cała**, brak kanału |
+| **Krainy Burzy i Stannis** | Stannis dał pieczęć niepodległości; odpisy ultimatum idą do niego (08-02) | — | — | **gdzie dziś stoi Stannis i z kim** |
+| **Żelazne Wyspy** | langskip pod Kamiennym Brzegiem (07-09) | — | oczy na Pyke (kupiec ksiąg), meldunek ~IX | **cała flota: ile i kiedy** |
+| **Essos: Braavos** | dyskonto weksli Lannisportu rośnie (Tam) | — | filia Domu, meldunek ~08-25 | cienko |
+| **Essos: Pentos i Zatoka Niewolnicza** | Daenerys w Meereen, trzy smoki, bez statków (Nesta 04-21) | „w Pentos ktoś ich latami żywił” (Aemon 07-22) | placówka Obara, meldunek ~08-25 | **co Daenerys robi teraz**, od 04-21 |

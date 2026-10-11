@@ -10416,7 +10416,7 @@
    "kanal": "woda; wiesc - karta Borsa / jezdziec",
    "wraca": "300-07-30",
    "zamyka": "rodzina w Przystani Wilka; pytanie o list do syna zadane",
-   "status": "otwarte ### 07-28: wiesc - jezdziec/karta Borsa; burza na traktach - ~07-30. ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu."
+   "status": "ZAMKNIETE 07-30 - KARTA BORSA (jezdziec): rodzina DOJECHALA do Przystani Wilka ~07-28 (statek Domu do BP, barka w gore Bialego Noza; deszcz opoznil o dzien); pod imieniem siostry zony, ojciec przy budowie baszty, nie przy ksiegach; izba w chacie na ziemi Korony. PYTANIE USTNE o list do syna ZADANE (rzut 74 - TAK): ojciec zgadza sie podyktowac list. Tresc i droga - do slowa pana (patrz nowa pozycja)."
   },
   {
    "data": "300-07-22",
@@ -11253,6 +11253,15 @@
    "kanal": "osobiscie; kruk WF->BP z decyzja Krola",
    "wraca": "300-08-04",
    "zamyka": "Torsen wie o decyzji Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-07-30",
+   "co": "LIST OJCA (SWIADKA) DO SYNA W DREADFORCIE - ZGODA OJCA (rzut 74, karta Borsa 07-30). Ojciec dyktuje (nie pisze sam); WARUNEK OJCA: list nie moze wygladac na jego - 'od ciotki z Bialego Portu', o zdrowiu matki i o tym, ze 'u siostry jest robota przy wodzie'; bez slowa o kamieniu, Przystani i Koronie. DROGA (propozycja ojca, do slowa pana): z wozem soli, ktory idzie do Dreadfortu (sol 'sie zgadza' w ksiegach - stala dostawa), przez wozaka, ktorego syn zna z imienia (E: Gunn Solny). Bors pyta: kiedy i czy w ogole - przed rozmowa Krola ze swiadkiem (~08-05/06 w Przystani) czy po. NAZWISKO SWIADKA - nigdy na papierze Korony (obietnica).",
+   "kto": "SYMON (slowo) -> BORS (wykonanie)",
+   "kanal": "jezdziec Borsa / przyboczna",
+   "wraca": "300-08-05",
+   "zamyka": "slowo pana: tresc i droga listu, termin",
    "status": "otwarte"
   }
  ],

@@ -25,14 +25,13 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**254 otwartych** · **0 PRZETERMINOWANYCH** · 5 wraca dzis
+**253 otwartych** · **0 PRZETERMINOWANYCH** · 4 wraca dzis
 
 ### 🟡 WRACA DZIS
 - SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Nam… · _kanal:_ kurier Domu (poczta wlasna, poza Cytadela)
 - SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Nam… · _kanal:_ kurier Domu z Kompania; osobiscie
 - LIST KROLA DO EDMURE'A - ZAWIADOMIENIE O OTWARTEJ BRAMIE (osadnicy z Dorzecza przez Fose; nikogo nie wola). Krol pisze sam. · _kanal:_ kruk Winterfell-Riverrun
 - SWIADEK Z RODZINA - DOJAZD DO PRZYSTANI WILKA (po wyprowadzeniu, rzut 65): statkiem Domu z ujscia Placzacej Wody do BP (pozor: zon… · _kanal:_ woda; wiesc - karta Borsa / jezdziec
-- TORSEN - ROZMOWA NA FAKTORA KROLEWSKIEGO BIALEGO PORTU (Winterfell ~07-30): sol i ryba solona, kwity skladowe, z nikim na stale. K… · _kanal:_ osobiscie
 
 ## 📅 TERMINY — `gra/terminy.json` (JEDYNE ZRODLO; kalendarz ranka generuj STAD, nie z pamieci)
 _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
@@ -1004,7 +1003,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-22** — SWIADEK Z RODZINA - DOJAZD DO PRZYSTANI WILKA (po wyprowadzeniu, rzut 65): statkiem Domu z ujscia Placzacej Wody do BP (pozor: zona do siostry), barka w gore Bialego Noza do Przystani (Bors); osiedlenie na ziemi Korony (warunek Krola). Tam - pytanie USTNE do ojca o list rodzinny do syna (slowo pana 07-22). Wlasni (Dom/Bors) - bez rzutu na droge. · _kto:_ **HAL (statek BP) -> BORS (przyjecie)** · _zamyka:_ rodzina w Przystani Wilka; pytanie o list do syna zadane **⚠ OTWARTE ### 07-28: WIESC - JEZDZIEC/KARTA BORSA; BURZA NA TRAKTACH - ~07-30. ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (POGODA 22 - KRUKI I KURIERZY PO POLUDNIU/POD WIECZOR); RZUT PADL RANO (UKRYTE/RZUTY.LOG), TRESC PRZY CZYTANIU.**
 - **300-07-22** — GENDRY U NAMIESTNIKA (prosba pana 07-22 w kuzni): pytanie o ZLOTE PLASZCZE z nakazem krolowej (Krolewski Trakt). Gendry przychodzi do komnaty Namiestnika - pora: po robocie w kuzni (Gerold zwalnia). Wlasny czlowiek Korony - bez rzutu na przyjscie. · _kto:_ **GENDRY -> SYMON** · _zamyka:_ rozmowa odbyta **⚠ ZAMKNIETE 300-07-23: ROZMOWA ODBYTA (RZUT 23); SZCZEGOLY - DZIENNIK I GRA/UKRYTE/PRAWDA.MD.**
 - **300-07-22** — WYSOKI VALYRIANSKI - ZADANIE OD LUWINA NA PIATEK 07-25: te same trzy rzeczowniki w NOWYCH czterech przypadkach (miejscownik, narzednik, towarzyszacy, wolacz) + jedno zdanie z kazdym. Lekcja pt. wieczorem. · _kto:_ **SYMON** · _zamyka:_ zadanie oddane na lekcji **⚠ ZAMKNIETE 300-07-25: ODDANE; LUWIN POPRAWIL DWIE KONCOWKI (NARZEDNIK, TOWARZYSZACY).**
-- **300-07-23** — TORSEN - ROZMOWA NA FAKTORA KROLEWSKIEGO BIALEGO PORTU (Winterfell ~07-30): sol i ryba solona, kwity skladowe, z nikim na stale. Kandydaci BP: Torsen (przyjezdza), Mertyn (tylko obok stoczni - konflikt z drewnem Korony), Wharton (odmowa). Krol wybiera z trzech. · _kto:_ **TORSEN -> SYMON -> KROL** · _zamyka:_ rozmowa odbyta
+- **300-07-23** — TORSEN - ROZMOWA NA FAKTORA KROLEWSKIEGO BIALEGO PORTU (Winterfell ~07-30): sol i ryba solona, kwity skladowe, z nikim na stale. Kandydaci BP: Torsen (przyjezdza), Mertyn (tylko obok stoczni - konflikt z drewnem Korony), Wharton (odmowa). Krol wybiera z trzech. · _kto:_ **TORSEN -> SYMON -> KROL** · _zamyka:_ rozmowa odbyta **⚠ ZAMKNIETE 07-30 - ROZMOWA ODBYTA; WARUNKI (SLOWO PANA + LICZBY GAWENA, E): (1) PROWIZJA 2/100 OD CALEJ CENY PRZY WADZE + OPLATA OPERACYJNA DYNAMICZNA = 1/5 NADWYZKI PONAD CENE OGLOSZONA (SPREAD; PONIZEJ CENY OGLOSZONEJ - TYLKO ZA ZGODA SKARBNIKA I BEZ OPLATY); (2) PRZEWOZ - KORONA (ZARZADCA/PRZEWOZNICY); (3) FAKTOR MOZE KUPIC DO 1/10 DANEJ PARTII DLA SIEBIE - PO CENIE PRZY WADZE, JAWNIE, PRZY SWIADKU, W KSIEDZE; (4) DREWNO WYLACZONE Z URZEDU (STOCZNIA BP + FAKTOR ILLYRIA PRZEZ MISTRZA HANDLU). TORSEN (RZUT 52): PRZYJMUJE KANDYDATURE. DECYZJA KROLA ~08-04 (Z TRZECH: TORSEN / MERTYN / WHARTON - ODMOWIL).**
 - **300-07-23** — OGLOSZENIE AZYLU - WYSLANIE (zgoda Wymana 07-23, rzut 89): odpisy z pieczecia Krola na statki do Braavos, Pentos i Wolnych Miast przez kapitanow Wymana; rejestracja na komorze Korony w BP; przybycie wiosna, falami (~kilkuset na miesiac, E). Do wydania przez Krola/pana. · _kto:_ **KROL/SYMON -> WYMAN (kapitanowie)** · _zamyka:_ odpisy wydane do BP **⚠ ZAMKNIETE 300-07-24: KURIER DOMU Z ODPISAMI (WSPOLNA + BRAAVIJSKI, PIECZEC KROLA) I LISTEM DO WYMANA WYJECHAL O SWICIE DO BP.**
 - **300-07-23** — OGLOSZENIE AZYLU - PRZEKLAD BRAAVIJSKI (Symon, wlasna reka; braavijski poziom 10) + odpisy kancelarii (Beron) z pieczecia Krola: ile - po jednym na kapitana i port (Braavos, Pentos, Lys, Myr, Tyrosh, Volantis - wg statkow Wymana). Wysylka do BP z poczta Domu. · _kto:_ **SYMON ; BERON (kancelaria)** · _zamyka:_ przeklad gotowy, odpisy opieczetowane, w drodze do BP **⚠ ZAMKNIETE 300-07-24: PRZEKLAD I ODPISY W DRODZE DO BP.**
 - **300-07-23** — WYMAN - ZASADA ROZDAWANIA OGLOSZENIA AZYLU (list Namiestnika z odpisami ~07-25): Braavos - jawnie na slupie; Pentos - skrycie, z reki do reki; Volantis, Lys, Myr - z reki do reki albo wcale, decyduje kapitan - zaden statek nie ryzykuje sie dla kartki. · _kto:_ **SYMON -> WYMAN (kapitanowie)** · _zamyka:_ list i odpisy w drodze do BP **⚠ ZAMKNIETE 300-07-23: LIST NAPISANY (GRA/OGLOSZENIE_AZYLU_300_07.MD); WYJEZDZA Z ODPISAMI KURIEREM DOMU 07-24 RANO.**
@@ -1273,7 +1272,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-07-30 pozne popoludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.24 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 100 · Zmeczenie 41**
+- **Zdrowie 100 · Sytosc 100 · Zmeczenie 43**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2635,7 +2634,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-07-30] `poprawki`: POPRAWKA PANA (4) ('skarga na Dom i reakcja to tez dziwny zly rzut'): RZUT 9 (reakcja portu, meldunek Hala) - VOID: zalezal od tla (wyrok Wymana) blednie odczytanego trzy razy; zmienione tlo…
 - [300-07-30] `dziennik`: KOMNATA NAMIESTNIKA - ⚑ SYMON PISZE DO HERWINA I LAWY CAILIN (reka pana, pieczec lorda Fosy; kruk WF->Fosa 07-31 rano, do burmistrza). Bez rzutu na wydanie. TRESC (gra/poczta_300_07_30.md): …
 - [300-07-30] `dziennik`: KOMNATA NAMIESTNIKA - ⚑ SLOWO PANA: BARBREY - ZGODA. Bez rzutu (sprawa biezaca Namiestnika). (1) Lancuch ognia daje wiesc PROSTO do Dustinportu (ogien/goniec do strazy Barbrey, bez drogi prz…
 - [300-07-30] `dziennik`: POZNE POPOLUDNIE, KOMNATA NAMIESTNIKA - SYMON CZYTA DWA RACHUNKI ORLANDA I GAWENA (gra/rachunki_orland_300_07_30.md). Bez rzutu (urzednicy Korony; E z kart i zapisu; stawka 1,3 korca/os./mie…
@@ -2647,3 +2645,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-07-30] `dziennik`: POZNE POPOLUDNIE, KOMNATA NAMIESTNIKA - PRZYJEZDZA TORSEN (kandydat na Faktora Krolewskiego Bialego Portu; zaproszenie kancelarii 07-17, przyjal 07-23 - rzut 59). Bez rzutu (przyjazd). Mzawk…
 - [300-07-30] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON pyta Torsena, czy jest glodny i czy chce sie chwile ogrzac. Bez rzutu (goscinnosc). TORSEN usmiecha sie pierwszy raz: 'Od switu jadlem tylko suchar w siodle…
 - [300-07-30] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - SYMON WYKLADA TORSENOWI URZAD FAKTORA KROLEWSKIEGO (polityka v3, N1). Bez rzutu (wyklad; odczyt Torsena). Z ZAPISU: Faktor spienieza towar Korony jak najszybciej …
+- [300-07-30] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - ⚑ SYMON ODPOWIADA TORSENOWI i WZYWA GAWENA. Bez rzutu na slowo pana. (1) PROWIZJA OD CALEJ CENY + OPLATA OPERACYJNA DYNAMICZNA, zalezna od spreadu; (2) PRZEWOZ - …

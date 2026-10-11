@@ -11587,6 +11587,69 @@
    "wraca": "300-08-10",
    "zamyka": "waga stoi, pierwsze kwity w ksiedze",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "KIERUNKI LWA - ZLECENIE PILNE DO WILLI (pan 08-03, odczyt Lucana; gra/poczta_300_08_03_wieczor.md pkt 1A): kto placi zaciag w Lannisporcie (czyje zloto, przez kogo, od kiedy); dokad ida oddzialy pod lwem; okrety w Lannisporcie (prowiant, kierunek); druga sakiewka Lwa; zelazni - czyim zlotem placa; kazda wiesc o 'Ciszy'/Wronim Oku. Firewall - szyfr Willi, pisze Lucan. WYNIK - RZUT przy meldunku.",
+   "kto": "WILLA (siatka; Lannisport przez Seagard; Deron)",
+   "kanal": "kruk WF-Fosa 08-04 + siatka",
+   "wraca": "300-08-22",
+   "zamyka": "meldunek Willi o kierunkach Lwa (poza kolejka) albo w karcie 09-01",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "PRZEGLAD KROLEWSKIEJ PRZYSTANI I DALEJ - USPIENI (pan 08-03; poczta_300_08_03_wieczor.md pkt 1B): kto rzadzi Rada / kto u Tywina; Zlote Plaszcze (zold, liczba, nastroje); chleb i zboze; Bank i Tyrellowie w KP; co mowia o Stannisie, Dorne, Polnocy; dalej: Smocza Skala i Zatoka (przewoznik), Koniec Burzy, Rozdroze. Bez pytan, ktore odslonia. Kanal: kruk Fosa-KP 8 dni tam, ~20 z powrotem. WYNIK - RZUT przy meldunku.",
+   "kto": "WILLA -> USPIENI KP (pisarz, wdowa, przewoznik)",
+   "kanal": "kruk WF-Fosa 08-04; Fosa-KP",
+   "wraca": "300-08-26",
+   "zamyka": "przeglad KP w rekach pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "MEWI GROD - DOKAD PLYNA STATKI BAELISHA (pan 08-03, odczyt Lucana; poczta pkt 2): nie kto placi - DOKAD, co wioza, ilu ludzi. WYNIK - RZUT przy meldunku.",
+   "kto": "nasluch portu Mewi Grod (przez Hala/BP)",
+   "kanal": "kruk WF-Fosa-BP + paczka BP-Gulltown (18 tam, 40 lacznie)",
+   "wraca": "300-09-12",
+   "zamyka": "meldunek nasluchu o kierunku statkow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "DO HALA w liscie z bilansem 08-05 (pan 08-03): fracht przez Stopnie drozeje (pewne) - przeliczyc marze towaru z Essos; Zlota Kompania zajeta w Ziemiach Spornych - do wiadomosci.",
+   "kto": "HAL",
+   "kanal": "list do Hala z bilansem",
+   "wraca": "300-08-05",
+   "zamyka": "dopisek poszedl z listem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "GAWEN (pan 08-03): konie z Rills - placic szybko i przy odbiorze wg slupa; PROPOZYCJA DATY jesiennej wystawy zboza w BP (Faktor Torsen) - oglosic wczesnie, by spekulanci przestali trzymac; data = Korona -> do Krola 08-04 (prerogatywa, rzut przy przedlozeniu).",
+   "kto": "GAWEN ; KROL",
+   "kanal": "ustnie WF",
+   "wraca": "300-08-04",
+   "zamyka": "Gawen ma propozycje daty; Krol rozstrzyga",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "DO KROLA 08-04 (pan 08-03): Karhold zna droge na Skagos (pogloska foki-za-zelazo) - przy zawinieciu pytac Rickarda o droge, przystanie, ludzi Magnara; 'Cisza'/Wronie Oko (plotka 50 dni) - do wiadomosci; data zboza w BP.",
+   "kto": "SYMON -> KROL",
+   "kanal": "ustnie WF",
+   "wraca": "300-08-04",
+   "zamyka": "przekazane Krolowi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-03",
+   "co": "TORGEN SZARY (przyjazd 08-04; pan 08-03): przy drzewie zapytac staroste, potem Mance'a o 'ogniska, ktore nie chca przejsc' - ile, gdzie, dlaczego.",
+   "kto": "TORGEN",
+   "kanal": "ustnie WF / Cypel",
+   "wraca": "300-08-20",
+   "zamyka": "odpowiedz starosty lub Mance'a",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

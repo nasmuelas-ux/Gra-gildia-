@@ -4986,7 +4986,7 @@
    "kanal": "Winterfell (pan na miejscu)",
    "wraca": "300-08-08",
    "zamyka": "kontrakt na pismie z iloscia pierwszej dostawy",
-   "status": "otwarte 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24. ### 07-24 GAWEN (rzut 41): Tallhart podpisze, ale chce 1/3 ZALICZKI W MONECIE przed pierwszym statkiem (nie w towarze). Do slowa pana/Krola (Skarb ~1820 smokow 07-14). ### 07-24 GAWEN: 1/3 zaliczki w monecie - Skarb ma monete (~1820 smokow 07-14), ale ona idzie na zboze zimowe; propozycja Gawena: zaliczke dla Tallharta pokryc z ZALICZKI HALA za towar Korony (kwit skladowy - 6/10 od reki: skory i futra do BP). Do slowa pana. ### 07-24 SLOWO PANA: ZGODA - zaliczka 1/3 dla Tallharta z ZALICZKI HALA za skory i futra Korony (kwit skladowy, 6/10 od reki). Gawen: woz ze skorami i futrami do BP + list do Hala; kontrakt z Tallhartem do podpisu, gdy zaliczka w reku (~08-05). ### 08-05: zaliczka Hala za skory i futra Korony - z bilansem/moneta (odczyt ~08-07); kontrakt z Tallhartem do podpisu, gdy zaliczka w reku. Gawen w WF. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): zaliczka 6/10 za skory i futra Korony WYPLACONA przez Hala (kwit u Gawena) - kontrakt z Tallhartem do podpisu (Gawen)."
+   "status": "ZAMKNIETE 08-08 - KONTRAKT PODPISANY PRZEZ GAWENA (strona Korony; Mance dal slowo 07-15 - kontrakt w mocy); kruk do Torrhen's Square z odpisem - kontrasygnata Tallharta - nowa pozycja. ### poprzednio: otw. 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24. ### 07-24 GAWEN (rzut 41): Tallhart podpisze, ale chce 1/3 ZALICZKI W MONECIE przed pierwszym statkiem (nie w towarze). Do slowa pana/Krola (Skarb ~1820 smokow 07-14). ### 07-24 GAWEN: 1/3 zaliczki w monecie - Skarb ma monete (~1820 smokow 07-14), ale ona idzie na zboze zimowe; propozycja Gawena: zaliczke dla Tallharta pokryc z ZALICZKI HALA za towar Korony (kwit skladowy - 6/10 od reki: skory i futra do BP). Do slowa pana. ### 07-24 SLOWO PANA: ZGODA - zaliczka 1/3 dla Tallharta z ZALICZKI HALA za skory i futra Korony (kwit skladowy, 6/10 od reki). Gawen: woz ze skorami i futrami do BP + list do Hala; kontrakt z Tallhartem do podpisu, gdy zaliczka w reku (~08-05). ### 08-05: zaliczka Hala za skory i futra Korony - z bilansem/moneta (odczyt ~08-07); kontrakt z Tallhartem do podpisu, gdy zaliczka w reku. Gawen w WF. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): zaliczka 6/10 za skory i futra Korony WYPLACONA przez Hala (kwit u Gawena) - kontrakt z Tallhartem do podpisu (Gawen)."
   },
   {
    "data": "300-05-10",
@@ -10407,7 +10407,7 @@
    "kanal": "kruk Domu (rozkaz) ; powrot jezdzcem, ustnie",
    "wraca": "300-08-08",
    "zamyka": "czlowiek Domu w Winterfell, mowi panu ustnie (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-08 RANEK: CZLOWIEK DOMU Z CZARNEGO ZAMKU PRZYJECHAL O SWICIE (od Aemona, ustnie, nic na papierze); czeka na pana w izbie przy stajni. Stan i wola Aemona - RZUT przy meldunku (gdy pan go wyslucha)."
   },
   {
    "data": "300-07-22",
@@ -11235,7 +11235,7 @@
    "kanal": "kruk Winterfell-Bialy Port (07-31 rano)",
    "wraca": "300-08-08",
    "zamyka": "oferta faktora Illyria (rzut) + pierwszy ladunek",
-   "status": "otwarte ### 07-30 SLOWO PANA (zmiana): KUPIC PRZEZ FAKTORA ILLYRIA (pentoski faktor w BP) - jak zyto ozime 07-20 - przez MISTRZA HANDLU (Wyman); nie czekac na Faktora Krolewskiego. Pismo Gawena: ilosc (Orland ~45-60 tys. korcy, w transzach VIII-X), LIMIT CENY (Gawen, Kasa 3; cena odniesienia - Obaro), zaplata pisarz Skarbu przy wadze, zboze jadalne i straczkowe (groch, bob) - nie siewne. Kruk WF->BP 07-31 rano. Oferta faktora Illyria (cena, ilosc, termin) - RZUT przy odpowiedzi (~08-08). ### 07-30: rownolegle PROSBA O POROWNANIE do Domu (Obaro, Pentos - przez Hala/Neste); I transza przez Illyria, II-III po porownaniu cen."
+   "status": "ZAMKNIETE 08-08 - OFERTA FAKTORA ILLYRIA (rzut 72): 50 tys. korcy w 3 transzach - I 15 tys. (~08-20 w BP), II 20 tys. (IX), III 15 tys. (X); ~25 jeleni/korzec jadalne, ~22 groch i bob (E, cena portu z oplatami Wymana); 1/3 moze przyjac DREWNEM Korony. Decyzja: I transza przez Illyria (slowo pana 07-30), II-III po porownaniu z Obaro (~IX). GAWEN (zasada 8): I transza ~15 tys. x ~25 jeleni = ~1875 smokow (E) w tym samym miesiacu co rata zbozowa - proponuje 1/3 drewnem. Do slowa pana - nowa pozycja. ### poprzednio: otw. ### 07-30 SLOWO PANA (zmiana): KUPIC PRZEZ FAKTORA ILLYRIA (pentoski faktor w BP) - jak zyto ozime 07-20 - przez MISTRZA HANDLU (Wyman); nie czekac na Faktora Krolewskiego. Pismo Gawena: ilosc (Orland ~45-60 tys. korcy, w transzach VIII-X), LIMIT CENY (Gawen, Kasa 3; cena odniesienia - Obaro), zaplata pisarz Skarbu przy wadze, zboze jadalne i straczkowe (groch, bob) - nie siewne. Kruk WF->BP 07-31 rano. Oferta faktora Illyria (cena, ilosc, termin) - RZUT przy odpowiedzi (~08-08). ### 07-30: rownolegle PROSBA O POROWNANIE do Domu (Obaro, Pentos - przez Hala/Neste); I transza przez Illyria, II-III po porownaniu cen."
   },
   {
    "data": "300-07-30",
@@ -11323,9 +11323,9 @@
    "co": "DORZECZE - ULTIMATUM I OBLEZENIE (Krol rzut 66: TAK): list Krola do Edmure'a (kruk 08-02 rano): po 08-05 kto nie wyszedl - OBLEZONY (bez szturmu; Harrion w wiezy Maidenpool); Edmure wzywa lorda Maidenpool do otwarcia bram i garnizon Lwa do zlozenia broni (po 08-05 - wolna droga tylko bez broni); lordowie Dorzecza wezwani do posluszenstwa - ludzie do pierscienia wg listy Edmure'a; obwieszczenie: 'rozejm zlamal ten, kto nie wyszedl'. Warunek Harriona (07-11) stoi. Reakcja garnizonu, lordow i Lwa - RZUTY przy wiesci.",
    "kto": "KROL -> EDMURE ; EDMURE -> lordowie Dorzecza / Maidenpool",
    "kanal": "kruk Winterfell-Riverrun",
-   "wraca": "300-08-08",
+   "wraca": "300-08-10",
    "zamyka": "pierscien oblezenia stoi albo garnizon wyszedl z Harrionem",
-   "status": "otwarte"
+   "status": "otwarte ### 08-08 RANEK: NIE PRZYSZLO I WIADOMO DLACZEGO - wiesc z Maidenpool do Riverrun, potem kruk Riverrun-WF 5 dni; Brynden: ~08-10."
   },
   {
    "data": "300-08-01",
@@ -11433,7 +11433,7 @@
    "kanal": "kruk BP-Winterfell",
    "wraca": "300-08-08",
    "zamyka": "Torsen zaprzysiezony albo odmowa",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-08 - TORSEN ZAPRZYSIEZONY (rzut 96): przed septonem, wszystkie klauzule (otwarta ksiega, niezawislosc, krzywoprzysiestwo); Wyman oglosil przy wadze; Torsen sam dopisal: ODPIS KSIEGI CO TYDZIEN DO GAWENA. Faktor Krolewski w BP urzeduje. ### poprzednio: otw."
   },
   {
    "data": "300-08-02",
@@ -11505,7 +11505,7 @@
    "kanal": "kruk Winterfell-Wyspa Niedzwiedzia",
    "wraca": "300-08-08",
    "zamyka": "Maege wie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-08 - Maege wie - kruk doreczony (~08-04); odpowiedz nie jest warunkiem; jesli przyjdzie - nowa wiesc. ### poprzednio: otw."
   },
   {
    "data": "300-08-02",
@@ -11514,7 +11514,7 @@
    "kanal": "kruk Winterfell-Rills",
    "wraca": "300-08-08",
    "zamyka": "odpowiedz Ryswella (oferta koni albo cisza)",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 08-08 - RYSWELL (rzut 74): 40 koni (E) - 20 goncow, 10 dla Akademii, 10 na lancuch ognia; cena ze slupa, liczba do Gawena; tabun po zniwach; o zelaznych: jazda Rills na ogien pod Barrowton w dwa dni. Ksiega milczenia: Ryswell odpowiada i nie odklada - zmiana rytmu na lepsze (Beron). ### poprzednio: otw."
   },
   {
    "data": "300-08-02",
@@ -11764,9 +11764,9 @@
    "co": "KOLEJNOSC WYPLAT DOMU PRZY BILANSIE VIII (slowo pana 08-04, rada Lucana 08-03 'przed piatym'): (1) WYPLATA VIII DLA WSPOLNIKOW; (2) PAPIERY LWA - skup wstrzymany wola Krola 07-13 do wyjscia garnizonow; jesli ruszy - z tego, co zostanie po (1); nic nie sprzedawac (Lucan); (3) POZYCZKA W MATERIALE DLA CAILIN - z reszty. BUFOR 1000 nietykalny (rozkaz 07-14). Wyrownania wsteczne Ashford/Seagard (+151..+738 netto) - wchodza do wolnej gotowki VIII przed podzialem. List pana do Hala (pieczec domowa) - kruk WF-BP dzis wieczorem; u Hala ~08-06, stosuje przy wyplacie.",
    "kto": "HAL (wykonanie) ; LUCAN (czyta bilans)",
    "kanal": "kruk Domu WF-BP",
-   "wraca": "300-08-08",
+   "wraca": "300-08-11",
    "zamyka": "meldunek Hala: wyplata VIII zrobiona w tej kolejnosci, ile zostalo na (2) i (3)",
-   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): bufor 1000 stoi; ponad buforem 929,55; propozycja Hala - pozycja 1267. ### 08-06 WIECZOR SLOWO PANA: kolejnosc wykonana co do (1): wyplata 673,41; (2) papiery Lwa - nic; (3) Cailin - z reszty. Ponad buforem po wyplacie: 256,14 (+ wplywy VIII)."
+   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): bufor 1000 stoi; ponad buforem 929,55; propozycja Hala - pozycja 1267. ### 08-06 WIECZOR SLOWO PANA: kolejnosc wykonana co do (1): wyplata 673,41; (2) papiery Lwa - nic; (3) Cailin - z reszty. Ponad buforem po wyplacie: 256,14 (+ wplywy VIII). ### 08-08 RANEK: NIE PRZYSZLO I WIADOMO DLACZEGO - list pana z 08-07 (wyplata wg propozycji) u Hala ~08-09; meldunek po wykonaniu ~08-11."
   },
   {
    "data": "300-08-05",
@@ -12018,6 +12018,24 @@
    "kanal": "ustnie / kartka do pana",
    "wraca": "300-09-02",
    "zamyka": "kartka na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-08",
+   "co": "TALLHART - KONTRASYGNATA KONTRAKTU ZBOZOWEGO NA CYPEL (Gawen podpisal 08-08): ilosc pierwszej dostawy wg rachunku maestera, cena ze slupa. RZUT przy odpowiedzi.",
+   "kto": "TALLHART",
+   "kanal": "kruk WF-Torrhen's Square",
+   "wraca": "300-08-11",
+   "zamyka": "kontrakt kontrasygnowany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-08",
+   "co": "ILLYRIA - I TRANSZA 15 TYS. KORCY (~08-20 w BP): zaplata - Gawen proponuje 1/3 DREWNEM Korony (faktor przyjmuje), reszta moneta przy wadze (pisarz Skarbu); koszt ~1875 smokow E. DO SLOWA PANA (potwierdzenie i forma zaplaty).",
+   "kto": "SYMON -> GAWEN -> FAKTOR ILLYRIA (przez Mistrza Handlu)",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-08-09",
+   "zamyka": "slowo pana i potwierdzenie do faktora",
    "status": "otwarte"
   }
  ],

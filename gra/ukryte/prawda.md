@@ -294,3 +294,9 @@ Obecni: Król, Namiestnik, Cerwyn. Bors pilnuje drzwi od zewnątrz. Świadek prz
   - **NIE WIE:** czy lord wie, co dokładnie się z nimi stało. *„Nigdy nie powiedziałem mu tego słowami. On nigdy nie zapytał słowami.”*
   - **MYŚLI** (odczyt świadka, nie dowód): *„Lord wie wszystko, co dzieje się w jego zamku. Nie wiem, czy kiedykolwiek chciał wiedzieć więcej, niż ile ich było.”*
   - Zgadza się to z trzecim odczytaniem Lucana z 07-11 („wie i przyjmuje”), ale **to jest jedno zeznanie jednego człowieka, bez papieru.** Wpisy w księdze Dreadfortu istnieją, tyle że księga leży w Dreadforcie.
+- **(cd., pytanie pana: czemu ludzie w lennie Boltonów nic nie mówią; pan, kiedy tam był, miał wrażenie, że powiedzenie Boltonów żyje).** Świadek kiwa głową, jakby się tego pytania spodziewał.
+  - *„Żyje. Matki mówią je dzieciom zamiast kołysanki: nagi człowiek ma niewiele tajemnic, obdarty ze skóry nie ma żadnych.”*
+  - *„Lord nie obdziera. Starkowie tego zakazali, zanim mój dziad się urodził. Lord nie musi. Wystarczy, że wszyscy pamiętają, że kiedyś obdzierano, i że chorągiew wisi na murze.”* (kanon: zakaz Starków, obdarty człowiek w herbie)
+  - *„Lord jest sprawiedliwy we wszystkim innym. Czynsz bierze równo, w sądzie nie kradnie, w głodną zimę otwiera spichlerz. Ludzie mają co stracić. Kto mówi, ten traci i nie wiadomo do kogo z tym iść. Krol jest daleko, a pies blisko.”*
+  - *„Bękart ma swoich chłopców. Jeżdżą z nim i z psami. Wiedzą, kto z kim gada przy studni.”* (kanon: Chłopcy Bękarta, E bez imion)
+  - *„A ja milczałem dwa lata. Więc nie pytajcie, czemu milczą inni.”*

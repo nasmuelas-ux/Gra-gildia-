@@ -25,11 +25,10 @@ Sa DANYMI: `gra/obsada.json` i `gra/terminy.json`, oba renderowane nizej w tym p
 **Termin bez zapisanego ZAMKNIECIA nie jest terminem - tylko data, ktora minie.**
 
 ## ⏰ KOLEJKA INBOUND (zasada 40) — **poranny rzut ciagnie sie STAD, nie z pamieci**
-**250 otwartych** · **0 PRZETERMINOWANYCH** · 4 wraca dzis
+**249 otwartych** · **0 PRZETERMINOWANYCH** · 3 wraca dzis
 
 ### 🟡 WRACA DZIS
 - MIRA W SZKOLE ZIMOWEGO MIASTA - START (Luwin 87, Krol 70): dwa ranki w tygodniu (krojenie i szycie; litery z najmniejszymi u Halli… · _kanal:_ osobiscie, Winterfell
-- THEON DO WINTERFELL (wezwanie Namiestnika 07-26): Doradca w Dustinporcie przyjezdza z wiedza o flocie i Wyspach; kadluby zostaja p… · _kanal:_ kruk WF->Barrowton + jezdziec
 - WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 08-05 (po lekcji 5, rzut 16): tabela dwoch klas czasownikow obok siebie - piec czasownikow … · _kanal:_ wlasna nauka
 - WSCHOD NA OBRONE ZACHODU (propozycja pana, KROL rzut 98 - TAK, Przystan Wilka 08-05): kazdy dom wschodu i srodka daje PO KILKU LUD… · _kanal:_ kruki z Winterfell do lordow wschodu
 
@@ -1044,7 +1043,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-07-26** — POWROT: ZAKAZ MONETY Z ESSOS (odrzucone 07-26) - gdy Mennica WILK bije dosc; Wielka Rada wiosna · _kto:_ **KROL / WIELKA RADA** · _zamyka:_ krok wykonany albo temat rozpatrzony
 - **300-07-26** — POWROT: FAKTOR W BARROWTON I CAILIN - przeglad po roku proby w BP (kandydaci w bazie) ### 07-27: KANDYDACI HALA DO BAZY (Barrowton): Eldric Wozak, Marga (wdowa po wagowym; rada Hala), Tommen Sztaba. · _kto:_ **KROL + NAMIESTNIK** · _zamyka:_ krok wykonany albo temat rozpatrzony
 - **300-07-26** — MALA RADA POD NAMIESTNIKIEM (Krol na Skagos) - posiedzenie zwyczajne · _kto:_ **SYMON (przewodniczy)** · _zamyka:_ krok wykonany albo temat rozpatrzony
-- **300-08-07** — THEON DO WINTERFELL (wezwanie Namiestnika 07-26): Doradca w Dustinporcie przyjezdza z wiedza o flocie i Wyspach; kadluby zostaja przy Torrenie. Przyjazd E. · _kto:_ **THEON GREYJOY** · _zamyka:_ Theon w Winterfell **⚠ OTWARTE ### 08-07 RANEK: GONIEC THEONA O SWICIE PRZY BRAMIE (POGODA 86, TRAKT SUCHY): THEON Z BARROWTON, PRZY BRAMIE ~POLUDNIE (E). WLASNY CZLOWIEK KORONY - BEZ RZUTU.**
+- **300-08-07** — THEON DO WINTERFELL (wezwanie Namiestnika 07-26): Doradca w Dustinporcie przyjezdza z wiedza o flocie i Wyspach; kadluby zostaja przy Torrenie. Przyjazd E. · _kto:_ **THEON GREYJOY** · _zamyka:_ Theon w Winterfell **⚠ ZAMKNIETE 08-07 - THEON W WF. ### POPRZEDNIO: OTW. ### 08-07 RANEK: GONIEC THEONA O SWICIE PRZY BRAMIE (POGODA 86, TRAKT SUCHY): THEON Z BARROWTON, PRZY BRAMIE ~POLUDNIE (E). WLASNY CZLOWIEK KORONY - BEZ RZUTU. ### 08-07 POLUDNIE: THEON W WINTERFELL - PRZYJECHAL Z BARROWTON Z CZTEREMA LUDZMI (E), KONNO; PYTA O KROLA (WIE OD GONCA, ZE KROL POPLYNAL); PROSI O ROZMOWE Z NAMIESTNIKIEM. ZAMKNIETE CO DO PRZYJAZDU.**
 - **300-08-10** — STARKPORT - WZMOCNIENIE NADZWYCZAJNE (Krol rzut 80): drugi nabor 50 od razu, straz nocna i wieza ognia podwojnie; Kasa 3. Odzew naboru - rzut przy meldunku. · _kto:_ **CORWIN + ULRIC + BRANN MOKRY** · _zamyka:_ meldunek Corwina o stanie
 - **300-08-10** — DUSTINPORT - WZMOCNIENIE NADZWYCZAJNE (Krol rzut 80): ludzie budowy w gotowosci, straz przy pochylniach i wiezy ognia; ESKADRA TORRENA ZOSTAJE NA ZACHODZIE. Kasa 3. · _kto:_ **TORREN SOLNY + DONNEL OBROK** · _zamyka:_ meldunek Torrena/Donnela
 - **300-07-28** — GORACY PORT - WZMOCNIENIE NADZWYCZAJNE (rozkaz pana, lenno/Dom): straz budowy podwojona, ogien na murze od morza, setka Hendry'ego w gotowosci. Stan w zbiorczym Garricka. ### 07-26 PLAN NA CZTERY OGNIE (pan): GORACY PORT SPALIC - wszystko, co palne (rusztowania, szopy, sklady, lodzie), ludzie budowy na Fose; kamien muru zostaje; nic dla zelaznych. DRUZYNA HENDRY'EGO + BAGNISTE JASTRZEBIE - z ukrycia, z lasow i bagien, luk i kusza, bez otwartej bitwy. BLOKADY DREWNIANE - zasieki i zapory na sciezkach i wodzie od wybrzeza ku Cailin i Fosie (miejsca - Hendry z Jastrzebiami; budowa - ludzie Garricka; koszt lenno). · _kto:_ **HENDRY + GARRICK** · _zamyka:_ stan w zbiorczym **⚠ OTWARTE ### 08-02: STAN - W ZBIORCZYM GARRICKA (~08-04) (ZASADA 34). ### 08-04 ZBIORCZY GARRICKA (PISANY 08-02; GRA/ZBIORCZY_GARRICKA_300_08_02.MD): STRAZ 30->60, OGIEN NA MURZE CO NOC, SETKA HENDRY'EGO W CAILIN (POL DNIA), STOSY PODPALKI OZNACZONE, ZASIEKI NA 2 Z 3 SCIEZEK ### 08-04 SLOWO PANA: STRAZ BUDOWY Z 60 Z POWROTEM DO 30 (MUR PIERWSZY); RESZTA WZMOCNIENIA BEZ ZMIAN.**
@@ -1339,10 +1338,10 @@ python3 -c "import sys; sys.path.insert(0,'gra'); import db; db.dopisz('watki','
 Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane (status, termin, kasa, sytosc) edytuje sie w JSON jak dotad.
 
 ## TERAZ
-- **Data:** 300-08-07 ranek · zima (300)
+- **Data:** 300-08-07 poludnie · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 15**
+- **Zdrowie 100 · Sytosc 86 · Zmeczenie 17**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2774,7 +2773,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-08-06] `dziennik`: WIECZOR, KOMNATA NAMIESTNIKA (cd.) - PAN: 'Jakie mamy ksiegi?' Bez rzutu (z zapisu; spis Hala otwarty przy tej okazji). Z ZAPISU: (1) KSIEGOZBIOR RODZINY (gra/ksiegozbior_rodziny_tally.md, 1…
 - [300-08-06] `dziennik`: WIECZOR, KOMNATA NAMIESTNIKA (cd.) - ⚑ SLOWO PANA: ZIELNIK POLNOCNY (ksiega rodziny nr 6) - ODPISAC; pierwsza ksiega do kopiowania na Fosie (689), odpis dla lecznicy Niny. Bez rzutu (wlasni)…
 - [300-08-06] `dziennik`: KOLACJA, WIELKA SALA (pierwsza bez Krola). Bez rzutu. Gulasz z baraniny z korzeniami, kasza, chleb Benneta, ser, kwasne mleko; dla dzieci placki z miodem; piwo. Przy wysokim stole: LADY CATE…
 - [300-08-07] `dziennik`: 300-08-07 RANEK (CZWARTEK), WINTERFELL. SEN RZUT 53: noc spokojna, bez snow; Lyra przespala; zdrowie 100, zmeczenie 47->8, sytosc 100->72. POGODA RZUT 86: BARDZO DOBRZE - jasny, cieply dzien…
@@ -2786,3 +2784,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-08-07] `dziennik`: PRZED POLUDNIEM, KOMNATA NAMIESTNIKA - ⚑ SLOWO PANA: GLEBOKORZEN - ZATRUDNIC 20 PISARZY do skryptorium jako PRACOWNIKOW NIZSZEGO RZEDU. Bez rzutu na zlecenie; nabor prowadzi Theomore (zasada…
 - [300-08-07] `poprawki`: VOID (zasada 3, slowo pana 'Glebokorzen to projekt Korony w pelni'): GM przypisal koszty Glebokorzenia wlascicielom Przystani Wilka wg udzialow (Korona 1/2, Cerwyn 1/4, Manderly 1/4) - w kar…
 - [300-08-07] `dziennik`: KOMNATA NAMIESTNIKA (cd.) - PAN: 'Glebokorzen to projekt Korony w pelni.' Poprawka w ksiegach (VOID w poprawkach): koszt Glebokorzenia - Korona 100% (Kasa 3); 20 pisarzy - Korona; kontrakt m…
+- [300-08-07] `dziennik`: POLUDNIE, DZIEDZINIEC - PRZYJEZDZA THEON GREYJOY (Doradca w Dustinporcie, wezwanie Namiestnika 07-26). Bez rzutu (urzednik Korony). Z Barrowton, konno, z czterema ludzmi z Dustinportu (E); k…

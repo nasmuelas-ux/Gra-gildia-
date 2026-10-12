@@ -11397,7 +11397,7 @@
    "kanal": "jezdziec Winterfell-Cerwyn",
    "wraca": "300-08-04",
    "zamyka": "Torgen w Winterfell",
-   "status": "otwarte ### 08-03: ulewa - jezdziec z Cerwyn i Torgen w drodze wolniej; w Winterfell 08-04."
+   "status": "ZAMKNIETE 300-08-04: Torgen w Winterfell, rozmowa z panem; ORZEKA SAM w stopniach I-III (Sad Rozjemczy), IV - Justycjariusz, V - Krol (wg deklaracji); wyjazd 08-05 o swicie z 20 (Benfred Kolo) i Osha."
   },
   {
    "data": "300-08-01",
@@ -11749,6 +11749,15 @@
    "wraca": "300-09-01",
    "zamyka": "filar - stale baczenie (nie zamyka sie)",
    "status": "otwarte - stale"
+  },
+  {
+   "data": "300-08-04",
+   "co": "TORGEN SZARY NA CYPEL - wyjazd 08-05 o swicie (z bramy razem z Krolem, potem na zachod): 20 z WF (sierzant Benfred Kolo, E), Osha; droga WF -> Deepwood -> Cypel (~9-10 dni, E). ORZEKA SAM w stopniach I-III; ksiega rozjemcy, odpis orzeczen co miesiac do Winterfell (do wiadomosci, nie do zatwierdzenia). Na miejscu: wyznaczyc wody (znaki, ksiega), Sad Rozjemczy z kasztelanem Glovera i starosta, przyjac 6 gajowych; zapytac o 'ogniska, ktore nie chca przejsc' i o termin/miejsca drogi 22 tysiecy; straz wolnych ludzi - przedstawic przy drzewie.",
+   "kto": "TORGEN SZARY",
+   "kanal": "jezdziec lancucha Robetta / kruk Deepwood",
+   "wraca": "300-08-15",
+   "zamyka": "Torgen przy drzewie na Cyplu, pierwszy meldunek",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

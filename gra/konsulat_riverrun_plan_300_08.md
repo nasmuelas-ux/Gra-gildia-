@@ -30,9 +30,16 @@ _Podstawa: polityka gospodarcza v3, §N2; Mała Rada 07-26, pkt 5 (rzut 21): **R
 |---|---|---|
 | **Konsul** | **lady JONELLE CERWYN** (32 lata, córka lorda Medgera, Justycjariusza) | Prowadzi zamek Cerwyn, jego księgi, spichrze i młyn, spisuje spory. Spokojnie mówi „nie”. Zna prawo Północy od środka. Spełnia wymogi v3: zdolna, doświadczona, lojalna, majestat. **Wybiera Król.** **Jej wola: rzut, kiedy ktoś z nią porozmawia.** |
 | szef kancelarii misji | pisarz Korony z kancelarii Berona (E) | Księga misji, kruki, spis osadników |
+| **NOTARIUSZ PÓŁNOCY** (słowo pana 08-10) | uczeń mistrza Berona albo pisarz z jego ręki, z **pieczęcią notarialną Korony** nadaną przez Berona jako sekretarza Kancelarii (E) | **Płatne poświadczenia:** odpisy i kopie, podpisy, umowy, pełnomocnictwa, świadectwa pochodzenia towaru dla komór Północy, akty osobowe (urodzenia, śmierci, małżeństwa ludzi z Północy). Taryfa na tablicy, stała, według Gawena (zasada 43). Opłata do Kasy 3, kwit przy każdej. **Weksle nie** (odłożone ~09-20). |
 | prawnik na miejscu | znawca prawa Dorzecza: pisarz sądu lorda Edmure'a albo człowiek wskazany przez Bryndena (E) | v3: prawnik zatrudniony na miejscu, znający prawo obu krajów |
 | tłumacz | **niepotrzebny**, wspólna mowa | Zamiast niego **człowiek do drogi i drzwi**: goniec i strażnik, 2–4 ludzi Korony (E) |
 | dla kupców | dzień w tygodniu z otwartymi drzwiami (E) | Wzór: audiencje na zgłoszenie |
+
+## III-A. NOTARIUSZ: ZASADY (Beron, O)
+- Poświadczenie Korony **waży na Północy**: przed komorą, przed sądem lorda Północy i przed Justycjariuszem.
+- **W Dorzeczu waży tyle, ile przyzna mu Edmure.** Trzeba to zapisać w jego zgodzie na konsulat jednym zdaniem: *„sąd lorda Dorzecza przyjmuje odpis poświadczony przez notariusza Korony jako dowód”*. Bez tego zdania poświadczenie jest tam grzecznością.
+- Notariusz **nie poświadcza** niczego, czego nie widział. Odpis tylko z oryginału, podpis tylko przy nim. Każdy akt wpisuje do księgi notarialnej z numerem.
+- Cytadela i septa: notariusz świecki to nowość. Nie zabiera maesterom ksiąg ani septonom ślubów. Poświadcza tylko to, co ludzie Północy chcą mieć na papierze Korony.
 
 ## IV. KOSZT
 - Liczy **Gawen** z księgi (zasada 43): izba, wikt, pisarz, prawnik, goniec, kruki.

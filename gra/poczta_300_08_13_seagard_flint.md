@@ -1,7 +1,8 @@
 # Poczta 300-08-13 (wieczorny lot po burzy) - oczy na Harlaw
 
-## 1. Do placowki Domu w Seagard (kanal Lucana, przez Lymana od Brodow)
-Kanal: kruk Winterfell-Riverrun z wieczornym lotem -> kurier Lymana do Seagard; powrot ta sama droga (E: ~10-12 dni w obie strony).
+## 1. Do placowki Domu w Seagard (szyfr Domu, Lucan)
+Kanal: KRUK DOMU Winterfell-Seagard z wieczornym lotem i z powrotem (placowka ma kruki Domu - slowo pana 08-13; E ~1-2 dni w jedna strone). Pierwotnie wpisane 'przez Lymana i Riverrun' - poprawione.
+Pierwszy meldunek ~08-16, potem co 7 dni (cykl SEAGARD_ZAGLE); przy ruchu - kruk od razu.
 Oslona bez zmian (07-11): kupiec pyta o zagle z Wysp, bo boi sie o towar. Zadnych pytan o Korone. Papier Domu, nie Korony.
 
 Tresc (z polecenia pana):

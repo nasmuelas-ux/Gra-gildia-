@@ -12267,10 +12267,10 @@
    "data": "300-08-13",
    "co": "SEAGARD - OCZY NA HARLAW (polecenie pana 08-13, po odczycie Lucana): placowka Domu patrzy na Harlaw i Zatoke Zelaznych Ludzi (zagle, kierunek, kiedy, czy Harlaw zbiera okrety); meldunki CO TYDZIEN, przy ruchu od razu. Oslona kupca bez zmian. Wlasni - bez rzutu na wykonanie; odzew Mallisterow/portu - RZUT przy pierwszym meldunku. Pismo: gra/poczta_300_08_13_seagard_flint.md.",
    "kto": "LUCAN -> placowka Seagard (przez Lymana od Brodow)",
-   "kanal": "kruk Winterfell-Riverrun (wieczorny lot 08-13) + kurier Lymana do Seagard i z powrotem (E ~10-12 dni)",
-   "wraca": "300-08-25",
-   "zamyka": "pierwszy meldunek tygodniowy z Seagard; potem rytm tygodniowy",
-   "status": "otwarte"
+   "kanal": "KRUK DOMU Winterfell-Seagard (wieczorny lot 08-13; placowka ma kruki Domu - slowo pana 08-13) i z powrotem (E ~1-2 dni w jedna strone)",
+   "wraca": "300-08-16",
+   "zamyka": "pierwszy meldunek z Seagard krukiem Domu (rzut na odzew Mallisterow/portu); dalej cykl SEAGARD_ZAGLE co 7 dni",
+   "status": "otwarte ### 08-13 POPRAWKA KANALU: nie przez Lymana i Riverrun - placowka ma kruka Domu (slowo pana)."
   },
   {
    "data": "300-08-13",
@@ -12568,6 +12568,19 @@
    "ostatnio_odebrane": "300-07-20",
    "zrodlo": "slowo pana 300-08-09",
    "uwaga": "ostatnio_odebrane ustawione technicznie na 07-20 - cykl startuje 08-20 (pierwsze rozliczenie)."
+  },
+  {
+   "id": "SEAGARD_ZAGLE",
+   "co": "SEAGARD - TYGODNIOWY MELDUNEK O ZAGLACH (placowka Domu): Harlaw i Zatoka Zelaznych Ludzi - ile zagli, kierunek, kiedy, czy Harlaw zbiera okrety. Przy ruchu - kruk od razu, poza rytmem. Oslona kupca. Odczyt dla Lucana i pana.",
+   "kto": "placowka Domu w Seagard",
+   "kanal": "kruk Domu Seagard-Winterfell",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-08-23"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-08-16",
+   "zrodlo": "poczta_300_08_13_seagard_flint.md"
   }
  ]
 }

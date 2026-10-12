@@ -1266,6 +1266,16 @@
    "Mira": 83.33,
    "premia_filii": 200,
    "data": "300-07-12"
+  },
+  "wyplata_VIII_300": {
+   "czesc_a_teraz": 673.41,
+   "Symon": 224.47,
+   "Nesta": 224.47,
+   "Hal": 112.24,
+   "Mira": 112.24,
+   "zrodlo": "wyrownania wsteczne Ashford+Seagard (moneta), bilans Hala VII; slowo pana 08-06",
+   "czesc_b": "po bilansie VIII (~09-05): 40% wolnej gotowki VIII",
+   "status": "rozkaz do Hala kruk 08-07; odbior Symona/Miry - faktoria ZM albo BP"
   }
  },
  "_finanse_rodziny": {

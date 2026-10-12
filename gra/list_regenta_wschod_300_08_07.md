@@ -1,18 +1,18 @@
-# LIST REGENTA DO LORDÓW WSCHODU I ŚRODKA — SZKIC BERONA (300-08-07 rano)
-_Jeden tekst dla wszystkich, słowo w słowo; zmienia się tylko nagłówek i liczba ludzi. Pisany w imieniu Króla, pod pieczęcią regencji (akt regencji z 08-04). Podstawa: słowo Króla w Przystani Wilka 08-05 (rzut 98). Liczby ludzi oznaczone E czekają na słowo pana. Szkic, NIE wysłany._
+# LIST REGENTA DO LORDÓW WSCHODU I ŚRODKA — WYSŁANY 300-08-07 PO POŁUDNIU
+_Jeden tekst dla wszystkich, słowo w słowo; zmienia się tylko nagłówek i liczba ludzi. Pisany w imieniu Króla, pod pieczęcią regencji (akt regencji z 08-04). Podstawa: słowo Króla w Przystani Wilka 08-05 (rzut 98). Poprawiony po naradzie w sali map (cel: Dustinport zamiast Kamiennego Brzegu i Cypla). Podpisany pieczęcią regencji; 15 egzemplarzy, kruki po południu._
 
 ---
 
 > **Robb z rodu Starków, Król Północy i Tridentu — do [lorda / lady] [imię], [siedziba].**
 >
-> Żelaźni liczą nasz zachodni brzeg. Kto liczy brzeg, przychodzi po port. Kamienny Brzeg i Cypel trzymają dziś ludzie zachodu, sami.
+> Żelaźni liczą nasz zachodni brzeg. Kto liczy brzeg, przychodzi po port. Brzeg i porty zachodu trzymają dziś ludzie zachodu, sami.
 >
 > Król postanowił, że brzeg zachodni będzie trzymała cała Północ, a nie tylko ci, którzy przy nim mieszkają. Każdy dom wschodu i środka daje na ten brzeg kilku ludzi. Od Was Korona prosi o **[liczba] ludzi** zdatnych do marszu i straży, z własną włócznią, tarczą i płaszczem na zimne noce.
 >
-> 1. **Zbiórka:** Winterfell, do **25 dnia ósmego miesiąca**. Stamtąd idą razem, jedną kolumną, pod oficerem wskazanym przez ser Rodrika Cassela.
-> 2. **Żołd:** płaci Korona, od dnia przyjścia do Winterfell do dnia powrotu, według księgi Skarbu: **40 miedziaków dziennie** i wikt.
+> 1. **Zbiórka:** w Winterfell albo w Barrowton (kto bliżej), do **25 dnia ósmego miesiąca**. Stamtąd idą razem, jedną kolumną, pod oficerem wskazanym przez ser Rodrika Cassela.
+> 2. **Żołd:** płaci Korona, od dnia przyjścia na zbiórkę do dnia powrotu, według księgi Skarbu: **40 miedziaków dziennie** i wikt.
 > 3. **Służba:** do końca dziewiątego miesiąca, kiedy jesienne sztormy zamykają morze. Powrót do domu przed zimą.
-> 4. **Rozkaz na miejscu:** na Kamiennym Brzegu ser Corwin, na Cyplu Torgen. Sąd nad ludźmi należy do ich dowódcy na brzegu, a o każdej karze wiadomość idzie do ich lorda.
+> 4. **Rozkaz na miejscu:** w **Dustinporcie**, pod Pierwszym Admirałem Torrenem Solnym i oficerem kolumny. Sąd nad ludźmi należy do ich dowódcy na brzegu, a o każdej karze wiadomość idzie do ich lorda.
 > 5. **Imiona:** z ludźmi przyślijcie kartę z imionami, wsiami i tym, co kto umie. Wrócą do Was z tą samą kartą i z zapisem służby.
 >
 > Wszyscy lordowie wschodu i środka dostają ten list w tej samej treści, słowo w słowo.
@@ -21,7 +21,7 @@ _Jeden tekst dla wszystkich, słowo w słowo; zmienia się tylko nagłówek i li
 
 ---
 
-## Adresaci i liczby (E — do słowa pana)
+## Adresaci i liczby (zatwierdzone słowem pana 08-07)
 | dom | ludzi | uwagi Rodrika |
 |---|---|---|
 | Manderly (Biały Port) | 20 | najdalej; mogą iść traktem przez Barrowton zamiast przez Winterfell — zbiórka w Barrowton (Dom ma tam skład i pisarza) |

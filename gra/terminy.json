@@ -11838,7 +11838,7 @@
    "kanal": "kruki z Winterfell do lordow wschodu",
    "wraca": "300-08-07",
    "zamyka": "listy wyslane; potem odpowiedzi i ludzie na brzegu",
-   "status": "otwarte ### 08-07 RANEK: DZIS - listy regenta: Beron pisze (jeden tekst, slowo w slowo), Rodrik przy rozdziale (prosil 08-06), Gawen - zold; pieczec regencji, podpis pana imieniem Krola. Do slowa pana co do pory. ### 08-07 PRZED POLUDNIEM, KANCELARIA: SZKIC BERONA gotowy (gra/list_regenta_wschod_300_08_07.md) - jeden tekst; zbiorka WF do 08-25, jedna kolumna pod oficerem Rodrika; zold 40 miedziakow/dzien + wikt od przyjscia do powrotu; sluzba do konca IX; Kamienny Brzeg - Corwin, Cypel - Torgen; karta imion. RODRIK: Manderly - zbiorka w Barrowton zamiast WF; podzial ~2/3 Kamienny Brzeg, ~1/3 Cypel; ludzi slabych odsylac z karta (lord dosyla innego). GAWEN: ~68 ludzi x 40 miedz. x ~45 dni = ~408 smokow + wikt (E) z Kasy 3, w miesiacu pierwszej raty za zboze. BERON: lista DROBNYCH - w zapisie brak, do slowa pana. Czeka na slowo pana i podpis. ### 08-07 SLOWO PANA (drobni): list dostaja WSZYSCY niewymienieni domy wschodu i srodka po 2 - Ryswell, Dustin, Reed, Slate, Stout, Woolfield, Lake (dossier_rodow_polnocy.md); RAZEM 75 ludzi. Zachod (Glover, Tallhart, Mormont, klany gor) - bez listu, sami stoja na brzegu (Rodrik). Gawen: ~75 x 40 miedz. x ~45 dni = ~450 smokow + wikt (E). Beron przepisuje 15 egzemplarzy - do podpisu po poludniu."
+   "status": "ZAMKNIETE 08-07 - LISTY WYSLANE (15, kruki po poludniu; poprawione: cel DUSTINPORT pod Torrenem i oficerem kolumny ser Edwyle Szron (E); zbiorka WF albo Barrowton do 08-25; 75 ludzi). Odpowiedzi - nowa pozycja. ### poprzednio: otw. ### 08-07 RANEK: DZIS - listy regenta: Beron pisze (jeden tekst, slowo w slowo), Rodrik przy rozdziale (prosil 08-06), Gawen - zold; pieczec regencji, podpis pana imieniem Krola. Do slowa pana co do pory. ### 08-07 PRZED POLUDNIEM, KANCELARIA: SZKIC BERONA gotowy (gra/list_regenta_wschod_300_08_07.md) - jeden tekst; zbiorka WF do 08-25, jedna kolumna pod oficerem Rodrika; zold 40 miedziakow/dzien + wikt od przyjscia do powrotu; sluzba do konca IX; Kamienny Brzeg - Corwin, Cypel - Torgen; karta imion. RODRIK: Manderly - zbiorka w Barrowton zamiast WF; podzial ~2/3 Kamienny Brzeg, ~1/3 Cypel; ludzi slabych odsylac z karta (lord dosyla innego). GAWEN: ~68 ludzi x 40 miedz. x ~45 dni = ~408 smokow + wikt (E) z Kasy 3, w miesiacu pierwszej raty za zboze. BERON: lista DROBNYCH - w zapisie brak, do slowa pana. Czeka na slowo pana i podpis. ### 08-07 SLOWO PANA (drobni): list dostaja WSZYSCY niewymienieni domy wschodu i srodka po 2 - Ryswell, Dustin, Reed, Slate, Stout, Woolfield, Lake (dossier_rodow_polnocy.md); RAZEM 75 ludzi. Zachod (Glover, Tallhart, Mormont, klany gor) - bez listu, sami stoja na brzegu (Rodrik). Gawen: ~75 x 40 miedz. x ~45 dni = ~450 smokow + wikt (E). Beron przepisuje 15 egzemplarzy - do podpisu po poludniu."
   },
   {
    "data": "300-08-06",
@@ -11883,7 +11883,61 @@
    "kanal": "slowo pana -> rozkazy (kruk WF-Fosa) ; kruk do Krola przez BP",
    "wraca": "300-08-08",
    "zamyka": "slowo pana: sily, pale, port zapasowy; rozkaz do Hendry'ego zmieniony; Krol poinformowany",
-   "status": "otwarte ### 08-07 PYTANIA PANA (wykonalnosc, nic nie postanowione): (A) 50 z garnizonu WF + druzyna Cerwyna do CAILIN - Rodrik: TAK (WF 280 -> 230, Winterfell trzyma; baraki Fosy gotowe; Cailin pol dnia od GP); druzyna Cerwyna - prosba, nie rozkaz: lord z Krolem, kasztelan bez slowa lorda nie ruszy - kruk do Cerwyna przez BP; wikt Cailin - Warryn/Gawen (bagno nie rodzi chleba). Lucan: dla Lwa - odpowiedz na Maidenpool i straz Przesmyku; dla krakena - Cailin to bagno w glebi ladu; dobra przykrywka. (B) POBOR 75 ZE WSCHODU -> DUSTINPORT zamiast Kamienny Brzeg/Cypel - Rodrik: TAK, zbiorka i tak w Barrowton (Manderly, Dustin) - stamtad blisko; Kamienny Brzeg ma swoje 50+31 i drugi nabor 08-15 - nie ogolocony; komenda: oficer kolumny pod Torrenem; LISTY BERONA DO POPRAWY PRZED PODPISEM (pkt 4: Dustinport zamiast Kamienny Brzeg/Cypel; zbiorka). (C) LADY DUSTIN - ostrzezenie: gotowosc do obrony Dustinportu i mobilizacji - list regenta; z zapisu: Barrowton - ludzie czekaja na wezwanie lady (46), list Krola 07-26 o gotowosci do konca IX, solarnia lady w Dustinporcie (81); ksiega milczenia (Beron). Lucan: nie pisac jej o zbozu przez GP. Odzew - RZUT przy odpowiedzi."
+   "status": "ZAMKNIETE 08-07 - SLOWO PANA WYKONANE (gra/poczta_300_08_07_zatoka.md): rozkaz majowy dla Hendry'ego ZMIENIONY (bronic przeplywu, ujscie w rekach Korony; w razie potrzeby choragiew Fosy i mieszkancy do obrony; pale w nurcie - Harlon; kadluby Torrena przy ujsciu); 50 z WF do Cailin; pobor 75 do Dustinportu; lady Dustin ostrzezona; Cerwyn proszony o druzyne; Krol powiadomiony. Port zapasowy w kontrakcie Reach - przy odpowiedzi Olenny (Hal). ### poprzednio: otw. ### 08-07 PYTANIA PANA (wykonalnosc, nic nie postanowione): (A) 50 z garnizonu WF + druzyna Cerwyna do CAILIN - Rodrik: TAK (WF 280 -> 230, Winterfell trzyma; baraki Fosy gotowe; Cailin pol dnia od GP); druzyna Cerwyna - prosba, nie rozkaz: lord z Krolem, kasztelan bez slowa lorda nie ruszy - kruk do Cerwyna przez BP; wikt Cailin - Warryn/Gawen (bagno nie rodzi chleba). Lucan: dla Lwa - odpowiedz na Maidenpool i straz Przesmyku; dla krakena - Cailin to bagno w glebi ladu; dobra przykrywka. (B) POBOR 75 ZE WSCHODU -> DUSTINPORT zamiast Kamienny Brzeg/Cypel - Rodrik: TAK, zbiorka i tak w Barrowton (Manderly, Dustin) - stamtad blisko; Kamienny Brzeg ma swoje 50+31 i drugi nabor 08-15 - nie ogolocony; komenda: oficer kolumny pod Torrenem; LISTY BERONA DO POPRAWY PRZED PODPISEM (pkt 4: Dustinport zamiast Kamienny Brzeg/Cypel; zbiorka). (C) LADY DUSTIN - ostrzezenie: gotowosc do obrony Dustinportu i mobilizacji - list regenta; z zapisu: Barrowton - ludzie czekaja na wezwanie lady (46), list Krola 07-26 o gotowosci do konca IX, solarnia lady w Dustinporcie (81); ksiega milczenia (Beron). Lucan: nie pisac jej o zbozu przez GP. Odzew - RZUT przy odpowiedzi."
+  },
+  {
+   "data": "300-08-07",
+   "co": "POBOR WSCHODU DO DUSTINPORTU - ODPOWIEDZI 15 LORDOW (listy 08-07): kazda odpowiedz - RZUT (wola lorda); zbiorka WF/Barrowton do 08-25; kolumna pod ser Edwyle Szron (E) do Dustinportu pod Torrena.",
+   "kto": "15 lordow wschodu i srodka",
+   "kanal": "kruki do WF",
+   "wraca": "300-08-12",
+   "zamyka": "odpowiedzi wszystkich + ludzie na zbiorce",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "KROL - LIST REGENTA O ZATOCE (08-07): Theon, narada, zatoka przy Goraczce kluczem; zmiana rozkazu GP; 50 do Cailin; pobor do Dustinportu; lady Dustin; prosba do Cerwyna w paczce. Odpowiedz Krola (prerogatywa co do zmiany stalego rozkazu) - RZUT przy odpowiedzi.",
+   "kto": "KROL (BP, przed zaglami ~08-12)",
+   "kanal": "kruk WF-BP; odpowiedz krukiem BP-WF",
+   "wraca": "300-08-12",
+   "zamyka": "odpowiedz Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "CERWYN - DRUZYNA DO CAILIN (prosba Namiestnika 08-07 w paczce Krola): do konca IX, zold i wikt Korony; list do kasztelana. Wola lorda - RZUT przy odpowiedzi.",
+   "kto": "CERWYN (przy Krolu)",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-08-12",
+   "zamyka": "slowo Cerwyna do kasztelana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "LADY DUSTIN - GOTOWOSC DO OBRONY DUSTINPORTU I MOBILIZACJI (list regenta 08-07); prosba: kruk do WF tego samego dnia, gdy cos sie wydarzy - odsiecz. Odzew - RZUT przy odpowiedzi.",
+   "kto": "LADY BARBREY DUSTIN",
+   "kanal": "kruk WF-Barrowton",
+   "wraca": "300-08-11",
+   "zamyka": "odpowiedz lady",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "50 Z GARNIZONU WF DO CAILIN (slowo pana 08-07): Rodrik wyznacza; wymarsz 08-08 rano; na Fosie ~08-17 (E); baraki Fosy, wikt - Warryn (Kasa 2 / zwrot z Kasy 3 - Gawen). Wlasni - bez rzutu.",
+   "kto": "RODRIK ; HENDRY ; WARRYN ; GAWEN",
+   "kanal": "marsz Traktem Krolewskim",
+   "wraca": "300-08-17",
+   "zamyka": "50 na Fosie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "HENDRY - NOWY ROZKAZ DLA GORACEGO PORTU (08-07): obrona przeplywu zboza; choragiew Fosy i mieszkancy w razie potrzeby; pale w nurcie (Harlon); kadluby Torrena przy ujsciu (ustalic z Torrenem). Potwierdzenie i plan - w zbiorczym Garricka. Wlasni - bez rzutu.",
+   "kto": "HENDRY ; GARRICK ; HARLON ; TORREN",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-08-11",
+   "zamyka": "potwierdzenie Hendry'ego i plan pali",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

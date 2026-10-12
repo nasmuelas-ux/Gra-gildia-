@@ -10803,7 +10803,7 @@
    "kanal": "Winterfell / wg sprawy",
    "wraca": "300-08-09",
    "zamyka": "krok wykonany albo temat rozpatrzony",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-09 - Mala Rada odbyta; decyzje kadr w protokole (dziennik 08-09) ### poprzednio: otw."
   },
   {
    "data": "300-08-07",
@@ -10983,7 +10983,7 @@
    "kanal": "osobiscie",
    "wraca": "300-08-09",
    "zamyka": "decyzje na Radzie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-09 - Mala Rada odbyta; decyzje kadr w protokole (dziennik 08-09) ### poprzednio: otw."
   },
   {
    "data": "300-07-26",
@@ -10992,7 +10992,7 @@
    "kanal": "kruk WF->BP (Hal) + statek do Braavos (~3 tyg.)",
    "wraca": "300-09-15",
    "zamyka": "kandydat z warunkami albo odmowa",
-   "status": "otwarte"
+   "status": "otwarte ### 08-09 MALA RADA: zgoda Rady na kontrakt Korony (Kasa 3) - nauczyciel Korpusu i tlumacz Korony w jednym; podpis po odpowiedzi Nesty. Do tego czasu Korpus czeka (bez zastepstwa)."
   },
   {
    "data": "300-07-26",
@@ -12126,6 +12126,33 @@
    "kanal": "kruk WF->Fosa (swit 08-09) + jezdziec Fosa->Dustinport (4 dni); odpowiedz ta sama droga",
    "wraca": "300-08-18",
    "zamyka": "odpowiedz Torrena z miejscem i stanem 2 kadlubow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-09",
+   "co": "IZBA UCZNIOWSKA PRZY KANCELARII WINTERFELL (Mala Rada 08-09): izba nad kancelaria (Rodwell); prowadzi BERON; na poczatek 6 uczniow - najlepsi ze szkoly ZM i z Korpusu (wskazuja Luwin i Mira); praktyka po kolei u Berona, Gawena, w sadzie u Cerwyna; wikt Korona (Kasa 3, Gawen liczy przy bilansie VII 08-10). Wlasni - bez rzutu.",
+   "kto": "BERON + LUWIN + MIRA (wskazanie); GAWEN (wikt); RODWELL (izba)",
+   "kanal": "na miejscu",
+   "wraca": "300-08-20",
+   "zamyka": "szesc imion w izbie, pierwszy dzien praktyki",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-09",
+   "co": "KLAUZULA O UCZNIU W UMOWACH PATRONATU KORONY (Mala Rada 08-09): kazdy mistrz pod patronatem Korony bierze ucznia z Korpusu albo szkoly ZM - mistrz wybiera z dwoch wskazanych (Rodwell); Korona placi wikt ucznia (Kasa 3). Dopisek do kazdej nowej umowy patronatu; istniejace - aneks przy najblizszym rozliczeniu (Rodwell + Gawen).",
+   "kto": "RODWELL + GAWEN",
+   "kanal": "na miejscu / pisma do mistrzow",
+   "wraca": "300-08-25",
+   "zamyka": "wzor klauzuli na pismie + pierwszy aneks podpisany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-09",
+   "co": "JEDEN REJESTR KADR KORONY W KANCELARII (Mala Rada 08-09): BERON - kto, skad, do jakiego krzesla, od kiedy + rubryka 'czego jeszcze nie umie'. Najpierw wpisac obsadzonych (urzedy Korony, Akademia, Glebokorzen, izba uczniowska). Wlasni - bez rzutu.",
+   "kto": "BERON",
+   "kanal": "na miejscu",
+   "wraca": "300-08-16",
+   "zamyka": "rejestr zalozony, pierwsze wpisy",
    "status": "otwarte"
   }
  ],

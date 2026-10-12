@@ -892,29 +892,26 @@
   {
    "data": "300-08-05",
    "kasa": "KASA 1 - DOM HANDLOWY TALLY",
-   "min": -60,
-   "max": -36,
    "opis": "PLACOWKA ASHFORD - ZALEGLY KOSZT ZALOZENIA VI-VII/300 (zliczone wstecznie; 2 x 18-30). Miesiace VI-VII zamkniete i wyplacone - zaleglosc schodzi w VIII, przy bilansie Hala.",
    "zrodlo": "rozstrzygniecie pana 300-08-03; pasmo z analogii Seagard",
-   "status": "do ujecia w bilansie Hala 08-05"
+   "status": "WYKONANE - bilans Hala VII (czytany 08-06), rzut 89",
+   "kwota": -38.64
   },
   {
    "data": "300-08-05",
    "kasa": "KASA 1 - DOM HANDLOWY TALLY",
-   "min": 110.0,
-   "max": 396.0,
    "opis": "PLACOWKA ASHFORD - HANDEL LOKALNY VI-VII/300 (symulacja wsteczna): 2 x 25-60 x korekta skali VI-VII (x2,2..x3,3). Wyrownanie w VIII, przy bilansie Hala.",
    "zrodlo": "rozstrzygniecie pana 300-08-03",
-   "status": "do ujecia w bilansie Hala 08-05"
+   "status": "WYKONANE - bilans Hala VII (czytany 08-06), rzut 89",
+   "kwota": 364.54
   },
   {
    "data": "300-08-05",
    "kasa": "KASA 1 - DOM HANDLOWY TALLY",
-   "min": 100.8,
-   "max": 378.0,
    "opis": "PLACOWKA SEAGARD - HANDEL LOKALNY IV-VII/300 (symulacja wsteczna): IV-V 2 x 12-30 x (x2..x3) + VI-VII 2 x 12-30 x (x2,2..x3,3). Wyrownanie w VIII, przy bilansie Hala.",
    "zrodlo": "rozstrzygniecie pana 300-08-03 (zasada ogolna: kazda zalozona placowka handluje lokalnie od poczatku)",
-   "status": "do ujecia w bilansie Hala 08-05"
+   "status": "WYKONANE - bilans Hala VII (czytany 08-06), rzut 89",
+   "kwota": 347.51
   }
  ],
  "_symulacje": {
@@ -1323,5 +1320,18 @@
    }
   ],
   "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-08-03: 'kolejne placowki zwiekszaja synergie pozostalych'. Kazda placowka ponad piec podstawowych (BP, Riverrun, Fosa, WF, Rozdroze) podnosi zysk i obrot pieciu placowek o 1-2% (wiecej drog, towaru i kupcow w sieci). Liczone od VIII/300, nie wstecz (wstecz idzie tylko handel lokalny). Nowa placowka - dopisac tu z data."
+ },
+ "_bilanse_domu": {
+  "VII_300": {
+   "zrodlo": "bilans Hala 08-05 (czytany 08-06), rzut 5 - dolny brzeg pasma kasa.py",
+   "zysk": 1446.12,
+   "wolna": 956.14,
+   "wyplacone_07_12": 700,
+   "nadwyzka_do_skarbca": 256.14,
+   "wyrownania_wsteczne_08_05": 673.41,
+   "bufor": 1000,
+   "ponad_bufor_moneta": 929.55,
+   "proporcja_hala": "40% wolnej do wyplaty / 60% obrot - do konca rozruchu (Woly, izba, lancuch zimowy, Ashford)"
+  }
  }
 }

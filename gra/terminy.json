@@ -534,7 +534,7 @@
    "co": "NESTA - ROZGLOSIC W BRAAVOS PRZYWILEJE FOSY; ludzie maja kierunek. ALE rozglaszanie ZACZYNA SIE PO PODPISIE, nie przed. ⚠ DATA POPRAWIONA 300-03-03 z V/300 - ale tu poprawka mniej znaczy: rozglaszanie i tak ZACZYNA SIE PO PODPISIE przywileju, nie po dojsciu listu. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "NESTA",
    "zamyka": "podpis przywileju -> potem rozglos",
-   "status": "otwarte - warunkowe ### 05-16: BEZ DATY - spust to podpis przywileju Fosy (brak w zapisie, kiedy) - przeniesione do 'bez daty' (zasada 41). ### DATA 06-01: sprawdzic w pakiecie Nesty (~07-15), czy przywilej Fosy podpisany; jesli tak - rozglaszanie rusza. ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana.",
+   "status": "ZAMKNIETE 08-06 - Nesta oglosila przywileje Fosy w Braavos (rzut 64): kilkanascie pytan, 4 rodziny (bednarz, powroznik, 2 tkaczy, E) na statek jesienny, za przejazd placa sami; fracht czy darmo - nowa pozycja DO SLOWA PANA Z BILANSU VII. ### poprzednio: otwarte - warunkowe ### 05-16: BEZ DATY - spust to podpis przywileju Fosy (brak w zapisie, kiedy) - przeniesione do 'bez daty' (zasada 41). ### DATA 06-01: sprawdzic w pakiecie Nesty (~07-15), czy przywilej Fosy podpisany; jesli tak - rozglaszanie rusza. ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana.",
    "kanal": "list do Nesty (Fosa-Braavos-Fosa)",
    "wraca": "300-08-07"
   },
@@ -4986,7 +4986,7 @@
    "kanal": "Winterfell (pan na miejscu)",
    "wraca": "300-08-08",
    "zamyka": "kontrakt na pismie z iloscia pierwszej dostawy",
-   "status": "otwarte 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24. ### 07-24 GAWEN (rzut 41): Tallhart podpisze, ale chce 1/3 ZALICZKI W MONECIE przed pierwszym statkiem (nie w towarze). Do slowa pana/Krola (Skarb ~1820 smokow 07-14). ### 07-24 GAWEN: 1/3 zaliczki w monecie - Skarb ma monete (~1820 smokow 07-14), ale ona idzie na zboze zimowe; propozycja Gawena: zaliczke dla Tallharta pokryc z ZALICZKI HALA za towar Korony (kwit skladowy - 6/10 od reki: skory i futra do BP). Do slowa pana. ### 07-24 SLOWO PANA: ZGODA - zaliczka 1/3 dla Tallharta z ZALICZKI HALA za skory i futra Korony (kwit skladowy, 6/10 od reki). Gawen: woz ze skorami i futrami do BP + list do Hala; kontrakt z Tallhartem do podpisu, gdy zaliczka w reku (~08-05). ### 08-05: zaliczka Hala za skory i futra Korony - z bilansem/moneta (odczyt ~08-07); kontrakt z Tallhartem do podpisu, gdy zaliczka w reku. Gawen w WF."
+   "status": "otwarte 07-21: przesuniete - stan kontraktu melduje GAWEN (Skarb) do 07-24. ### 07-24 GAWEN (rzut 41): Tallhart podpisze, ale chce 1/3 ZALICZKI W MONECIE przed pierwszym statkiem (nie w towarze). Do slowa pana/Krola (Skarb ~1820 smokow 07-14). ### 07-24 GAWEN: 1/3 zaliczki w monecie - Skarb ma monete (~1820 smokow 07-14), ale ona idzie na zboze zimowe; propozycja Gawena: zaliczke dla Tallharta pokryc z ZALICZKI HALA za towar Korony (kwit skladowy - 6/10 od reki: skory i futra do BP). Do slowa pana. ### 07-24 SLOWO PANA: ZGODA - zaliczka 1/3 dla Tallharta z ZALICZKI HALA za skory i futra Korony (kwit skladowy, 6/10 od reki). Gawen: woz ze skorami i futrami do BP + list do Hala; kontrakt z Tallhartem do podpisu, gdy zaliczka w reku (~08-05). ### 08-05: zaliczka Hala za skory i futra Korony - z bilansem/moneta (odczyt ~08-07); kontrakt z Tallhartem do podpisu, gdy zaliczka w reku. Gawen w WF. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): zaliczka 6/10 za skory i futra Korony WYPLACONA przez Hala (kwit u Gawena) - kontrakt z Tallhartem do podpisu (Gawen)."
   },
   {
    "data": "300-05-10",
@@ -6255,7 +6255,7 @@
    "kanal": "kruk do Hala + statek BP-Braavos i z powrotem (~48 dni)",
    "wraca": "300-08-07",
    "zamyka": "pierwsza skrzynia ksiag z Braavos w Bialym Porcie (rzut)",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - rzut 30: 7/12 tytulow kupione (E), 3 brak w Braavos, 2 za drogie (pyta Nesta - do slowa pana); kupione na statku nastepnym (BP ~IX). ### poprzednio: otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-05-25",
@@ -6336,7 +6336,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-26) + statek BP-Braavos i z powrotem (~48 dni)",
    "wraca": "300-08-07",
    "zamyka": "oferta stoczni braawijskiej: cena, termin wodowania, przeprowadzenie (rzut)",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): rzut 34: stocznia prywatna przy Porcie Lachmaniarza (nie Orrello) PRZYJMUJE wg normy Wolu; ~1100/kadlub z omasztowaniem bez zagli i lin (E); zadatek 1/3 przy podpisie (~730 za dwa); KONSEKWENCJA: Arsenal zabiera pochylnie - Wol I II/301, Wol II IV/301. UMOWA CZEKA NA SLOWO PANA."
   },
   {
    "data": "300-05-25",
@@ -6345,7 +6345,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-26) + statek BP-Braavos i z powrotem",
    "wraca": "300-08-07",
    "zamyka": "stan zamowienia szkutnikow (albo: nie bylo) + odpowiedz o ludziach ze stoczni",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): rzut 78: zamowienia NIE bylo (Nesta potwierdza); stocznia oddaje 3 ludzi na rok (mistrz linii + 2 uszczelniaczy) od statku jesiennego ~IX, umowa jak 03-28; koszt Korona (Kasa 3). DO SLOWA PANA/KORONY."
   },
   {
    "data": "300-05-26",
@@ -6577,18 +6577,18 @@
    "co": "GP-2 WYCENA LANCUCHA I KOLOWROTU (Goracy Port): ile zelaza, kto kuje (kowale z Harrenhalu ~VII?), czas. Ksiega Domu.",
    "kto": "HAL",
    "kanal": "kruk Winterfell-Bialy Port (05-26 po poludniu) i z powrotem",
-   "wraca": "300-08-07",
+   "wraca": "300-08-10",
    "zamyka": "wycena na pismie",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): wycena Hala (E): kowale Manderly w BP; lancuch 380-520, kolowrot 60-90; ~3 mies. od zaliczki; zelazo czesciowo ze skladu Domu w Barrowton. Decyzja - do slowa pana."
   },
   {
    "data": "300-05-26",
    "co": "R-2 WYCENA MIEDZI I RUR na magistrale parowa Cailin: skad (Pentos, Braavos), ile, czas. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "HAL (+ Nesta, Obaro)",
    "kanal": "kruk Winterfell-Bialy Port (05-26 po poludniu) i z powrotem",
-   "wraca": "300-08-07",
+   "wraca": "300-08-15",
    "zamyka": "wycena na pismie",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Nesta/Obaro (E): miedz w blasze taniej w Pentos (~1,8-2,4/kamien); rury ciagnione tylko prywatne warsztaty Braavos, 3-4 mies.; BRAK DLUGOSCI I SREDNICY magistrali - potrzebne od Harlona/Weylina (Fosa), bez tego wyceny calosci nie ma."
   },
   {
    "data": "300-05-26",
@@ -6804,7 +6804,7 @@
    "kanal": "pakiet do Nesty",
    "wraca": "300-08-07",
    "zamyka": "imie mistrza albo 'nie ma'",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - rzut 24 ZLE: Antaryonowie odmawiaja (\"nie wypozyczamy ludzi domowi, ktory sprzedaje rewizje obcym - to nasze rzemioslo\"); nikt inny w Braavos nie jedzie na zime za placalna cene. ### poprzednio: otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-05-30",
@@ -6993,7 +6993,7 @@
    "kanal": "kruki + statki Braavos",
    "wraca": "300-08-07",
    "zamyka": "lista imienna pierwszej fali",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - rzut 38 (czesc Hala/Nesty): BP - 3 pisarzy na kontrakcie z klauzula zwrotu; Braavos - 0 (za drogo). Fosa i Glebokorzen - w zbiorczych Garricka/Theomore, nie u Hala. ### poprzednio: otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-06-05",
@@ -8004,7 +8004,7 @@
    "kanal": "kruk Fosa-Winterfell / poczta Domu",
    "wraca": "300-08-07",
    "zamyka": "wniosek z kwota albo stwierdzenie, ze lipiec domknal",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - Warryn nie przyslal wniosku - lipiec domknal sie w skarbcu lenna; rama pozyczki zostaje na papierze, nic nie wyplacone. ### poprzednio: otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-06-21",
@@ -8569,9 +8569,9 @@
    "co": "RYSOWNICY DLA SKRYPTORIUM (rozkaz pana 06-26; ptaki dla Brana, ryciny, mapy, wzornik): ILARIO werbuje (zasada 42) - (1) z warsztatu MARRA w Bialym Porcie (rysownik wzorow) - list przez Hala poczta BP; (2) z Braavos - rytownik/rysownik ksiag przez Neste (statkiem, ~48 dni); (3) z SZKOLY FOSY - dzieci, ktore rysuja (Mabel wskazuje od 07-01). Umowa na pismie, Kasa 1. Wlasni - bez rzutu na wyslanie; kto przyjedzie (obcy) - RZUT przy odpowiedzi. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "ILARIO -> HAL / NESTA; MABEL",
    "kanal": "poczta Fosa-Bialy Port + statek BP-Braavos",
-   "wraca": "300-08-07",
+   "wraca": "300-08-15",
    "zamyka": "pierwszy rysownik przy pulpicie",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): rzut 18 ZLE: Marr NIE puszcza jedynego rysownika wzorow przed czcionka (~08-15) ani potem na stale; Braavos - nikt na tym statku. Zostaja dzieci ze szkoly Fosy (Mabel)."
   },
   {
    "data": "300-06-26",
@@ -8965,9 +8965,9 @@
    "co": "SKUP PAPIEROW LWA - BEZ LIMITU (slowo pana 07-09 do Hala): skupowac kwity rekwizycyjne i weksle Lannisportu bez sufitu, przez slupy; papier Lwa jako NACISK POLITYCZNY Korony/Domu - nie martwic sie, czy KP uzna kwity. Hal melduje w bilansie miesiecznym (co, po ile, gdzie). ZASADA 8 (do wiedzy pana, zdanie Hala przyjdzie z odpowiedzia): ta sama gotowka Kasy 1 - wyplata 700 (07-12), pozyczka w materiale dla Cailin, domy dla ludzi Domu. ### 07-11 SLOWO PANA (po radach Lucana): papiery Lwa = ZABEZPIECZENIE POLITYCZNE DOMU (dzwignia Domu na Lannisterow, karta na wszelki wypadek) - zostaja w Kasie 1, Korona ich NIE odkupuje; BEZ SUFITU ('nowy miesiac, nowe pieniadze'); po rozkazie Korony w Dorzeczu Hal NIE ZMIENIA RYTMU (ta sama reka, ten sam kurs). Dom i Korona - zawsze osobny papier, osobna reka. ### 07-13 KROL (rzut 35, jedna konsekwencja): Korona NIE odkupuje; Dom trzyma; W DORZECZU (Rozdroze, Maidenpool - tam, gdzie wisi slup Krola) SKUP STAJE do wyjscia garnizonow; weksle Lannisportu przez Braavos - bez zmian; uzycie papierow w sprawach Korony (Harrion, garnizony) - tylko za wiedza Krola, przed. List do Hala - do slowa pana (kruki 07-14). ### 07-13 LIST PANA DO HALA napisany (pieczec Domu): skup w Dorzeczu STOP do wyjscia garnizonow; weksle przez Braavos bez zmian; sortowanie wg dat dalej. Kruk 07-14 o swicie.",
    "kto": "HAL -> placowki (slupy)",
    "kanal": "kruk Winterfell-Bialy Port (list pana dzis)",
-   "wraca": "300-08-07",
+   "wraca": "300-09-05",
    "zamyka": "meldunek w bilansie VII: ile kupiono i ile gotowki zostalo",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): VII (E): 2 partie kwitow na Rozdrozu PRZED 07-16 (przed listem z wola Krola), potem skup w Dorzeczu stanal; 3 weksle Lannisportu przez Braavos. Kasa 1 trzyma razem 11 partii kwitow + 5 weksli, nominal ~900, zaplacone ~480 (E)."
   },
   {
    "data": "300-07-09",
@@ -9100,9 +9100,9 @@
    "co": "LYS I DLUGI LANNISTEROW - PROBA SANSY (narada 07-10): hipoteza (ODCZYT, nie fakt): kupiec z Lys, ktory skupuje kwity rekwizycyjne Lwa na Rozdrozu i w Maidenpool (Lucan) i pytal o zboze 'z Myr' (Nesta), moze byc REKA SAMEGO TYWINA - dluznik wykupujacy wlasne dlugi tanio przez posrednika. PROBA: ludzie Hala PODNOSZA CENE na kwity (kilka partii); jesli Lyseni przebija za kazdym razem niezaleznie od ceny - kupuje dluznik (bo dla niego kwit wart jest pelnej wartosci); jesli odpuszcza - spekulant. Druga proba (Willa/Hal): gdzie Lyseni kwity ODDAJE - jesli nigdzie nie wystawia ich do zaplaty w KP, tylko znikaja - to wykup. Wynik - RZUT przy meldunku Hala. ### 07-10 DYSPOZYCJE PANA WYSLANE (kruki o zmierzchu): HAL (BP) - przez slupy podniesc cene na 3-4 partie kwitow na Rozdrozu i w Maidenpool ponad oferte Lysenczyka; zapisac, czy przebija i o ile; bez nazwy Domu. WILLA (Fosa) - przez Derona (Rozdroze) i Lymana (Riverrun): gdzie kupiec z Lys oddaje kwity (KP? Lannisport? Lys? nigdzie?) - bez pytan wprost, sluchac. Firewall: Hal nie wie o Willi i odwrotnie (kazde dostaje swoje zadanie).",
    "kto": "HAL (cena) + WILLA (gdzie znikaja kwity) ; SANSA (odczyt)",
    "kanal": "kruk Winterfell-Bialy Port; siatka Willi",
-   "wraca": "300-08-07",
+   "wraca": "300-08-22",
    "zamyka": "wiadomo, czy Lyseni to dluznik czy spekulant (albo wiadomo, czemu nie wiadomo)",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Proba Lys - w bilansie."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Proba Lys - w bilansie. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): NOGA HALA - rzut 96: 4 oferty przez slupy, coraz wyzej; Lysenczyk przebil 4/4, przy czwartej PONAD NOMINAL; Hal NIC NIE KUPIL (\"oferta to nie zakup\" - wola Krola 07-13 nietknieta). Hal: \"spekulant nie placi ponad nominal\". NOGA WILLI (gdzie oddaje kwity) - otwarta, ~08-22."
   },
   {
    "data": "300-07-10",
@@ -9181,9 +9181,9 @@
    "co": "AKCJA KALENDARZ 301 (rozkaz pana 07-11, osobna linia w ksiedze Hala): trzy wersje - KUPIECKI (targi, weksle, komory i clo, ksiezyc i przyplywy BP), DWORSKI (terminy Korony, daniny, swieta), OBRAZKOWY dla niepiszacych; swieta Siedmiu i starych bogow osobnymi znakami; strona ZIMOWA (Prawo Spichlerza + Glebokorzen); maester ORWYN sprawdza rachunek. ZAMOWIENIA Z ZADATKIEM przez placowki Domu i Kompanie do 300-09-30; druk X-XI; rozwoz przed 301-01-01. Naklad, cena, koszt - ILARIO + HAL (zasada 43). Wlasni - bez rzutu; odzew kupujacych - RZUT przy zamknieciu zamowien.",
    "kto": "ILARIO (mistrz wydawnictwa) + HAL (cena, ksiega) + placowki/Kompania (zamowienia); LUCAN czyta",
    "kanal": "kruk Winterfell-Fosa; odpis do Hala (BP)",
-   "wraca": "300-08-07",
+   "wraca": "300-09-30",
    "zamyka": "plan Ilaria z nakladem i cena (07-25); zamowienia zamkniete 09-30; kalendarze rozwiezione przed 301-01-01",
-   "status": "otwarte ### 07-25: stan w bilansie Hala ~08-05. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 07-25: stan w bilansie Hala ~08-05. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Ilario+Hal (E): naklad I - kupiecki 300 po 15 jeleni, dworski 60 po 40 jeleni (pergamin), obrazkowy 800 po 2 jelenie; zamowienia z zadatkiem otwarte w placowkach do 09-30; strone zimowa sprawdza Orwyn. Odzew - rzut przy zamknieciu."
   },
   {
    "data": "300-07-11",
@@ -9291,7 +9291,7 @@
    "kanal": "kruk Winterfell-Bialy Port (osobna kartka, pieczec domowa)",
    "wraca": "300-08-07",
    "zamyka": "spis kwitow przed/po ugodzie w rekach pana",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - spis w zalakowanej kopercie do rak pana: 11 partii, 7 PO ugodzie 299-04-20 (E) - rekwizycje garnizonow Lwa w czasie pokoju (miejsce, data, co wziete). ### poprzednio: otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-07-11",
@@ -9307,18 +9307,18 @@
    "co": "LANCUCH ZIMOWY DOMU (oddzielna pozycja w obrotach, pan 07-11; wdraza LUCAN): warzelnia + wedzarnia + bednarnia w jednej ksiedze; ZARZADCA LANCUCHA w BP (z ludzi Hala); BECZKA ZIMOWA (miara Korony, data, pieczec Domu, reczenie roku); klienci: Spichlerz, Mur, Cypel, Dorzecze (Kompania), Essos (Nesta); zamowienia jesienne z zadatkiem; sklady BP/Fosa/Winterfell. KROK 1: karta lancucha od Lucana do Hala ~07-20; KROK 2: koszty Hala ~08-05; KROK 3: zamowienia zimowe do konca IX. Wlasni - bez rzutu; odzew klientow - rzut przy zamowieniach. UDZIAL LUCANA: 10% zysku netto obu linii przez 1 rok (zgoda pana 07-11), kwartalnie z ksiegi Hala, bez strat.",
    "kto": "LUCAN (wdrozenie) + HAL (skarbnik) + TAM (wynik)",
    "kanal": "kruk Winterfell-Bialy Port; osobiscie w BP (jesli pan pozwoli)",
-   "wraca": "300-08-07",
+   "wraca": "300-09-30",
    "zamyka": "karta lancucha + koszty Hala na stole; potem zamowienia (09-30)",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): KROK 2: zarzadca lancucha EDRIC SOLNY (z warzelni, E); uruchomienie 140-200 jednorazowo (E) - znak wypalany beczki zimowej, sklad BP, ksiega. KROK 3: zamowienia jesienne do konca IX."
   },
   {
    "data": "300-07-11",
    "co": "IZBA ROZRACHUNKOWA DOMU (oddzielna pozycja w obrotach, pan 07-11; wdraza LUCAN): LIST IZBY (wplata w punkcie A, wyplata w B, dwie pieczecie, numer, ksiega lustrzana), grosz od przelewu, rozliczenie miedzy punktami raz w miesiacu (moneta tylko za roznice), limit listu wg monety w punkcie; zasada: nie pozyczamy z cudzego. Start: BIALY PORT - RIVERRUN (Lyman) od IX; potem Seagard, Fosa, Winterfell, Braavos, Pentos. KROK 1: karta izby od Lucana do Hala ~07-20; KROK 2: rezerwy monety w punktach - Hal ~08-05; KROK 3: proba od IX. Wlasni - bez rzutu; zaufanie kupcow - rzut przy pierwszym miesiacu. UDZIAL LUCANA: 10% zysku netto obu linii przez 1 rok (zgoda pana 07-11), kwartalnie z ksiegi Hala, bez strat.",
    "kto": "LUCAN (wdrozenie) + HAL (skarbnik) + LYMAN (Riverrun) + TAM (wynik)",
    "kanal": "kruk Winterfell-BP-Riverrun",
-   "wraca": "300-08-07",
+   "wraca": "300-09-05",
    "zamyka": "karta izby + rezerwy Hala; pierwszy przelew w IX",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): KROK 2: rezerwy monety w punktach (E) - BP 400, Riverrun 250 (Lyman); moneta lezy, nie wydana. KROK 3: proba od IX."
   },
   {
    "data": "300-07-11",
@@ -9507,7 +9507,7 @@
    "kanal": "osobiscie Winterfell; kruk BP; statek BP-Braavos",
    "wraca": "300-08-07",
    "zamyka": "rachunek Lucana z liczbami Hala i slowo pana o pierwszej partii do Banku",
-   "status": "otwarte"
+   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): liczby jest: 11 partii (7 po ugodzie) + 5 weksli, nominal ~900 / zaplacone ~480 (E); proba Lys 96. Rada Lucana przy odczycie - DO SLOWA PANA."
   },
   {
    "data": "300-07-13",
@@ -9579,7 +9579,7 @@
    "kanal": "kruk Winterfell-Bialy Port; moneta - najblizsza kolumna/woz BP-Winterfell",
    "wraca": "300-08-07",
    "zamyka": "moneta u faktora ZM, kwit w ksiedze Domu",
-   "status": "otwarte ### 07-28: w bilansie Hala za VII (~08-05). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - wyrownane 07-27 (E). ### poprzednio: otwarte ### 07-28: w bilansie Hala za VII (~08-05). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-07-14",
@@ -9750,7 +9750,7 @@
    "kanal": "kruk Winterfell-Bialy Port; Nesta (Braavos)",
    "wraca": "300-08-07",
    "zamyka": "pan postanawia: otwieramy / pozniej / nie",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Decyzja pana - po odczycie."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Decyzja pana - po odczycie. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Hal+Nesta: najpierw ZNAK, nie kantorek - kupiec braawijski handlujacy juz dla Nesty w Deskach bierze towar Domu komisowo (bursztyn, futro, beczka zimowa); bez kosztu stalego, prowizja; start po jesiennych sztormach. DO SLOWA PANA."
   },
   {
    "data": "300-07-17",
@@ -9876,7 +9876,7 @@
    "kanal": "kruk Bialy Port-Winterfell",
    "wraca": "300-08-07",
    "zamyka": "raport na pismie",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - BILANS VII (rzut 5): zysk 1446,12; wolna 956,14; wyplacone 07-12 700; nadwyzka 256,14; wyrownania wsteczne +673,41 (rzut 89); BUFOR 1000 nietkniety; ponad buforem 929,55 w monecie. Proporcja Hala: 40% wolnej do wyplaty / 60% obrot do konca rozruchu. Propozycja wyplaty VIII - w pozycji 1267. ### poprzednio: otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-07-18",
@@ -10036,9 +10036,9 @@
    "co": "HAL - KONTYNUUJE SPIENEZANIE TOWARU KORONY TERAZ (slowo pana 07-19, pismo Skarbnika; kruk BP 07-19 wieczorem): na dotychczasowych warunkach (kwit skladowy, cena oglaszona, prowizja jawna), bez czekania na spis; wolumen, nie lepsza cena; do czasu Faktora Krolewskiego.",
    "kto": "GAWEN -> HAL (Bialy Port)",
    "kanal": "kruk Winterfell-Bialy Port",
-   "wraca": "300-08-07",
+   "wraca": "300-09-05",
    "zamyka": "meldunek przy bilansie VII (ile spienezone i za ile) - wynik rynku RZUT przy bilansie",
-   "status": "otwarte - pismo 07-19 ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte - pismo 07-19 ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): rzut 22 ZLE: lato - futra w skladzie do jesieni (Braavos X-XI), skory i welna powoli; zaliczka 6/10 za skory i futra WYPLACONA wg kwitu (u Gawena); 4/10 dopiero jesienia (\"Skarbnik niech nie liczy na moje 4/10 przy pierwszej racie za zboze\"). Licytacja welny atelier 96,40 zamiast 113,99 (E, -17,59) - Gawen koryguje w bilansie Korony 08-10. Sprzedaz trwa."
   },
   {
    "data": "300-07-19",
@@ -10515,7 +10515,7 @@
    "kanal": "kruk Domu Winterfell-BP",
    "wraca": "300-08-07",
    "zamyka": "odciecie zdjete + odwolanie Whartona przy wadze (meldunek Hala)",
-   "status": "otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu. ### 07-30 MELDUNEK HALA (rzut 9 VOID - tlo zmienione po poprawkach wyroku; NOWY RZUT 59 - DOBRZE): zdanie przyjete ze smiechem z Whartona (\"No to idz, Wharton, policz!\"); odciecie - prawo Domu do wyboru kontrahenta; nikt nie wycofal frachtu; podpisow nikt nie dal, Wharton przestal zbierac po wyroku (E); uwaga z nabrzeza: \"Dom rosnie - ludzie licza, ze moze odciac\". ### 07-30 SLOWO PANA (wariant 3): ODCIECIE ZDJETE PO CICHU - Dom przyjmuje Whartona jak kazdego; ZADNEGO ogloszenia, zadnej odpowiedzi na podpisy; szpila = jego wlasne publiczne odwolanie przy wadze. Kruk do Hala jutro rano. Odwolanie Whartona - wg wyroku Wymana (niezalezne od odciecia). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - rzut 81: Wharton sam przyszedl do lady Domu - welna pod rekojmie po ogloszonej stawce, zaplacil bez targu; nabrzeze: \"Tally nie musi nikogo odcinac\". Odwolanie przy wadze - wg wyroku Wymana (osobno). ### poprzednio: otwarte ### 07-30: ODPOWIEDZ/WIESC PRZYCHODZI DZIS (pogoda 22 - kruki i kurierzy po poludniu/pod wieczor); rzut padl rano (ukryte/rzuty.log), tresc przy czytaniu. ### 07-30 MELDUNEK HALA (rzut 9 VOID - tlo zmienione po poprawkach wyroku; NOWY RZUT 59 - DOBRZE): zdanie przyjete ze smiechem z Whartona (\"No to idz, Wharton, policz!\"); odciecie - prawo Domu do wyboru kontrahenta; nikt nie wycofal frachtu; podpisow nikt nie dal, Wharton przestal zbierac po wyroku (E); uwaga z nabrzeza: \"Dom rosnie - ludzie licza, ze moze odciac\". ### 07-30 SLOWO PANA (wariant 3): ODCIECIE ZDJETE PO CICHU - Dom przyjmuje Whartona jak kazdego; ZADNEGO ogloszenia, zadnej odpowiedzi na podpisy; szpila = jego wlasne publiczne odwolanie przy wadze. Kruk do Hala jutro rano. Odwolanie Whartona - wg wyroku Wymana (niezalezne od odciecia). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-07-24",
@@ -10569,7 +10569,7 @@
    "kanal": "Winterfell",
    "wraca": "300-08-07",
    "zamyka": "igly i sol w drodze; ziarno dla Cypla na luke do Tallharta",
-   "status": "otwarte ### 07-28: Gawen (WF) - igly i sol: zakup w BP/Dustinport przez Hala - kruk po burzy 07-29. ### 07-29: kruk do Hala polecial o swicie (igly i sol - zakup BP/Dustinport, w drodze po zakupie). Ziarno dla Cypla na luke do Tallharta - Gawen (Korona), do kontraktu ~08-05. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Igly i sol - zakup Hala w BP/Dustinport; ziarno na luke - Gawen."
+   "status": "ZAMKNIETE 08-06 - igly i sol kupione w BP, poszly 07-31 z ladunkiem do Dustinportu; dalej droga Korony (Gawen). ### poprzednio: otwarte ### 07-28: Gawen (WF) - igly i sol: zakup w BP/Dustinport przez Hala - kruk po burzy 07-29. ### 07-29: kruk do Hala polecial o swicie (igly i sol - zakup BP/Dustinport, w drodze po zakupie). Ziarno dla Cypla na luke do Tallharta - Gawen (Korona), do kontraktu ~08-05. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Igly i sol - zakup Hala w BP/Dustinport; ziarno na luke - Gawen."
   },
   {
    "data": "300-07-25",
@@ -11161,9 +11161,9 @@
    "co": "SKORY ZBROJOWNI - GARBOWANIE PRZYDZIALU (~480, E): Orwyl potrzebuje skory wyprawionej, nie surowej; surowe w lipcowym cieple trzeba solic albo oddac garbarzowi szybko (zasada 8). KTO GARBUJE - do slowa pana: garbarnia Domu (umowa 07-12; usluga dla Korony na kwit) albo garbarz Zimowego Miasta (patronat). Placi Kasa 3 - kwota z kwitu garbarza (zasada 43). Garbowanie ~6-8 tygodni (E); pierwsze pasy i obicia ~IX.",
    "kto": "ORWYL (sol, zaladunek) + GAWEN (kwit) + HAL (garbarnia Domu)",
    "kanal": "Winterfell",
-   "wraca": "300-08-07",
+   "wraca": "300-08-12",
    "zamyka": "skory u garbarni Domu, kwit u Gawena",
-   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): garbarnia Domu przy Garbarskiej gotowa, kadzie przygotowane; woz z WF jeszcze nie doszedl (~08-08..10); garbowanie 6-8 tyg. od przyjecia (E)."
   },
   {
    "data": "300-07-29",
@@ -11460,7 +11460,7 @@
    "kanal": "bilans Hala ~08-05; kwity",
    "wraca": "300-08-07",
    "zamyka": "kwoty wyplaty VIII w ksiedze rodu",
-   "status": "otwarte"
+   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): PROPOZYCJA HALA: (a) TERAZ wyplacic dokladnie wyrownania wsteczne 673,41 (moneta, nie model) - Tam: Symon 224,47, Nesta 224,47, Hal 112,24, Mira 112,24; (b) reszta VIII po bilansie sierpnia (~09-05) wg 40%. DO SLOWA PANA. Dlug Miry wobec szkatuly - przy wyplacie."
   },
   {
    "data": "300-08-02",
@@ -11694,7 +11694,7 @@
    "kanal": "bilans 08-05 / poczta Domu",
    "wraca": "300-08-07",
    "zamyka": "pasmo Ashford skorygowane ksiega Hala (albo potwierdzone)",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
+   "status": "ZAMKNIETE 08-06 - pierwsza ksiega Ashford: przedstawiciel GARSE WELLEN (E) - kupiec welny, izba przy rynku; najem 3/mies (E); koszt VI-VII 38,64; pasmo bez korekty; od 09-01 w karcie Tama (ceny Reach). Wyrownania wsteczne rozliczone (ekonomia.json, rzut 89). ### poprzednio: otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana."
   },
   {
    "data": "300-08-04",
@@ -11766,7 +11766,7 @@
    "kanal": "kruk Domu WF-BP",
    "wraca": "300-08-08",
    "zamyka": "meldunek Hala: wyplata VIII zrobiona w tej kolejnosci, ile zostalo na (2) i (3)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): bufor 1000 stoi; ponad buforem 929,55; propozycja Hala - pozycja 1267."
   },
   {
    "data": "300-08-05",

@@ -26,7 +26,7 @@ _Jeden tekst dla wszystkich, słowo w słowo; zmienia się tylko nagłówek i li
 |---|---|---|
 | Manderly (Biały Port) | 20 | najdalej; mogą iść traktem przez Barrowton zamiast przez Winterfell — zbiórka w Barrowton (Dom ma tam skład i pisarza) |
 | Bolton (Dreadfort) | 10 | — |
-| Umber (Ostatnie Domostwo) | 10 | — |
+| Umber (Ostatnie Ognisko) | 10 | — |
 | Karstark (Karhold) | 5 | — |
 | Hornwood | 5 | lady Donella prosiła o zwłokę z zaliczką zbożową; ludzi dać może |
 | Cerwyn | 5 | lord w objeździe z Królem — list do kasztelana |

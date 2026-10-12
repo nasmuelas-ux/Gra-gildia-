@@ -11803,6 +11803,15 @@
    "wraca": "300-08-18",
    "zamyka": "zaproszenie wypowiedziane, reakcja Roose'a",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-05",
+   "co": "CICHA KSIEGA SKARG Z ZIEM PRZY DREADFORCIE - przy JUSTYCJARIUSZU (propozycja Cerwyna, zgoda pana 08-05, Krol przy tym): kto zaginal, kiedy, skad - BEZ IMION SWIADKOW; zrodla: straz marchii Karholdu (zold Korony), jezdzcy Korony przy slupach na granicy Hornwoodu, obserwatorzy lady Donelli; skargi rodzin - do sadu, nie do kancelarii. Cerwyn zaklada po powrocie z Przystani; pierwszy przeglad przy zbiorczym meldunku Cerwyna.",
+   "kto": "CERWYN (Justycjariusz)",
+   "kanal": "sad Korony; kruki od marchii/slupow",
+   "wraca": "300-09-01",
+   "zamyka": "filar - ksiega prowadzona (stala)",
+   "status": "otwarte - stale"
   }
  ],
  "_dopiski_300_03_18": [

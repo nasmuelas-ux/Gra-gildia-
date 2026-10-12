@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 10,
+  "dzien": 11,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 21 (300-08-10): ZLE - deszcz od nocy, chlodny wiatr z zachodu, bloto; kruki lataja, ale niechetnie i nisko.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 93 (300-08-11): BARDZO DOBRZE - po deszczu czyste niebo, slonce, chlodny wiatr z polnocy, bloto schnie szybko; kruki lataja od switu.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

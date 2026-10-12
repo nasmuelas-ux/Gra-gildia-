@@ -5155,9 +5155,9 @@
    "co": "LIST DO OBERYNA MARTELLA (przez Neste): pomoc w odnalezieniu kosci poleglych przy Wiezy Radosci (Willam Dustin i ludzie Eddarda); 'Eddard byl przeciwny temu, co stalo sie z Elia'; osobiste zaproszenie Symona dla ksiecia na Polnoc.",
    "kto": "SYMON -> OBERYN (przez NESTE)",
    "kanal": "Winterfell-Bialy Port-Braavos-Sloneczna Wlocznia (~43 dni)",
-   "wraca": "300-08-06",
+   "wraca": "300-08-25",
    "zamyka": "odpowiedz Oberyna (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-06: NIE PRZYSZLO I WIADOMO DLACZEGO - odpowiedz z Dorne idzie przez Neste i statek z Braavos; najblizszy pakiet z faktoria Braavos ~08-25. Rzut przy wiesci."
   },
   {
    "data": "300-05-11",
@@ -7182,7 +7182,7 @@
    "kanal": "osobiscie + kruk do kasztelana",
    "wraca": "300-08-06",
    "zamyka": "wszystkie cztery wykonane",
-   "status": "otwarte ### 07-31 (Sten): narzuty lniane DOSTARCZONE (szwalnia Miry); zostaje URLOP GAREDA - wyjazd ~08-06 (po wyjezdzie Krola) z wozem Domu; od 08-01 droge placi lenno (Kasa 2)."
+   "status": "ZAMKNIETE 300-08-06: przegroda - stoi (06-25); narzuty - dostarczone (07-31); Rowan - w szkole Fosy (07-01); URLOP GAREDA - wyjechal dzis z wozem Domu do BP przez Fose (droga - Kasa 2), przed rozwiazaniem zony."
   },
   {
    "data": "300-06-08",
@@ -10308,7 +10308,7 @@
    "kanal": "osobiscie",
    "wraca": "300-08-06",
    "zamyka": "droga dla chlopca wybrana albo swiadomie zostawiona",
-   "status": "otwarte ### 07-22: pan czeka na CERWYNA OSOBISCIE (~07-24). Krol mysli na glos (propozycje, nie rozkazy): (a) POZOR RODZINNY - matka 'chora u siostry w BP'; ojciec prosi syna listem rodzinnym (nie Korony) o przyjazd do matki - syn sam prosi Roose'a o urlop; (b) ORZECZENIE CERWYNA oprzec PUBLICZNIE wylacznie na drzewach i miejscu kamienia (Cley) - nie na swiadku; Roose nie ma czego szukac u syna; (c) chlopak NIE wsrod dwudziestu pod Ramsayem - nic nie da sie zrobic bez imienia; ryzyko nazwane. ### 07-22 SLOWO PANA: ZGODA NA OBA - (a) list rodzinny ojca do syna ('matce gorzej, przyjedz'), Korona nic nie pisze; (b) ORZECZENIE CERWYNA PUBLICZNIE TYLKO NA DOWODACH Z TERENU (siedem drzew, miejsce kamienia - Cley) - przekazac Cerwynowi osobiscie ~07-24. RYZYKO NAZWANE PRZEZ PANA: syn wierny Boltonowi moze sie domyslic. KROL: 'Dlatego list pisze ojciec, nie my - i to ojciec decyduje, czy pisac. On zna syna; my nie.' Pytanie do ojca - USTNIE, gdy bedzie w Przystani Wilka (Bors), przez Dagona albo Cerwyna. ### 07-24: Cerwyn w Winterfell dzis - rozmowa osobiscie. ### 07-24 CERWYN (rzut 16): syn ~18 lat, wlocznik zalogi Dreadfortu, DUMNY z wloczni Boltona, wierzy lordowi (slowa ojca przy pomiarze 06-12); jesli sie domysli - Cerwyn sadzi, ze pojdzie do Roose'a sam, nie by wydac ojca, lecz by oczyscic siebie; czy jest wsrod dwudziestu pod Ramsayem - Cerwyn nie wie. Imie - ustnie (nota 07-07). ### 07-25: czeka na ojca w Przystani Wilka (~07-28) - pytanie ustne o list do syna. ### 07-28: do rozmowy ze swiadkiem w Przystani Wilka ~08-06 (Krol, Namiestnik, Cerwyn)."
+   "status": "ZAMKNIETE 300-08-05: droga wybrana - gdy przyjedzie: sluzba Korony na Cyplu (osobny termin); osłona - ludzie z calego wschodu na zachod (Krol 98)."
   },
   {
    "data": "300-07-22",
@@ -11262,7 +11262,7 @@
    "kanal": "jezdziec Borsa / przyboczna",
    "wraca": "300-08-06",
    "zamyka": "slowo pana: tresc i droga listu, termin",
-   "status": "otwarte ### 07-30 SLOWO PANA: PO ROZMOWIE KROLA ZE SWIADKIEM (Przystan Wilka ~08-05/06). Do tego czasu list nie powstaje; Bors trzyma propozycje ojca. Odpowiedz do Borsa - ustnie przez jezdzca przybocznej (07-31)."
+   "status": "ZAMKNIETE 300-08-05: slowo pana - LIST ODLOZONY (osobny termin, ~09-15); ojciec powiadomiony."
   },
   {
    "data": "300-07-30",
@@ -11271,7 +11271,7 @@
    "kanal": "ustnie; karta Borsa",
    "wraca": "300-08-06",
    "zamyka": "rozmowa Krola ze swiadkiem odbyta; dalsza ochrona - slowo pana",
-   "status": "otwarte"
+   "status": "otwarte ### 08-06: rozmowa Krola odbyta; dalsza ochrona - do slowa pana (Bors pyta przy pozegnaniu)."
   },
   {
    "data": "300-07-30",
@@ -11948,7 +11948,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-07-06",
+   "ostatnio_odebrane": "300-08-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

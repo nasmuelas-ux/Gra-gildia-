@@ -923,6 +923,13 @@
    "kwota": -17.59,
    "opis": "KOREKTA - welna atelier: licytacja 96,40 zamiast 113,99 (bilans Hala VII pkt 6).",
    "zrodlo": "bilans_korony_300_07_cykl.md"
+  },
+  {
+   "data": "300-08-12",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -174.72,
+   "opis": "GP-2 - ZALICZKA 1/3 kowalom Manderly w BP za lancuch (449,30) i kolowrot (74,85) Goracego Portu; razem 524,15; reszta 349,43 przy odbiorze (~XI). Slowo pana 08-11; Hal wplaca po kruku (~08-12).",
+   "zrodlo": "meldunek Hala 08-11, rzut 50"
   }
  ],
  "_symulacje": {

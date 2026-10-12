@@ -6579,7 +6579,7 @@
    "kanal": "kruk Winterfell-Bialy Port (05-26 po poludniu) i z powrotem",
    "wraca": "300-08-15",
    "zamyka": "wycena na pismie",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): wycena Hala (E): kowale Manderly w BP; lancuch 380-520, kolowrot 60-90; ~3 mies. od zaliczki; zelazo czesciowo ze skladu Domu w Barrowton. Decyzja - do slowa pana. ### 08-06 WIECZOR SLOWO PANA: TAK - zamowic lancuch i kolowrot u kowali Manderly w BP (Hal; ksiega Domu); zelazo czesciowo ze skladu Domu w Barrowton. Cena, termin i zaliczka - od kowali; RZUT przy odpowiedzi Hala (~08-11). ### 08-11: MELDUNEK HALA 08-11 (rzut 50, pasmo z bilansu VII): kowale Manderly - lancuch 449,30, kolowrot 74,85 (razem 524,15), zaliczka 1/3 = 174,72; ~3 miesiace od zaliczki => gotowe ~XI (PO oknie zboza IX-X - zasada 8). Zelazo czesciowo z Barrowton. Zaliczka - do slowa pana (zamowione 08-06; Hal czeka z wplata na potwierdzenie terminu)."
+   "status": "ZAMKNIETE 300-08-11 - wycena przyszla (rzut 50); SLOWO PANA: ZGODA NA ZALICZKE 174,72 (Kasa 1), Hal wplaca ~08-12 ### poprzednio: otw. ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): wycena Hala (E): kowale Manderly w BP; lancuch 380-520, kolowrot 60-90; ~3 mies. od zaliczki; zelazo czesciowo ze skladu Domu w Barrowton. Decyzja - do slowa pana. ### 08-06 WIECZOR SLOWO PANA: TAK - zamowic lancuch i kolowrot u kowali Manderly w BP (Hal; ksiega Domu); zelazo czesciowo ze skladu Domu w Barrowton. Cena, termin i zaliczka - od kowali; RZUT przy odpowiedzi Hala (~08-11). ### 08-11: MELDUNEK HALA 08-11 (rzut 50, pasmo z bilansu VII): kowale Manderly - lancuch 449,30, kolowrot 74,85 (razem 524,15), zaliczka 1/3 = 174,72; ~3 miesiace od zaliczki => gotowe ~XI (PO oknie zboza IX-X - zasada 8). Zelazo czesciowo z Barrowton. Zaliczka - do slowa pana (zamowione 08-06; Hal czeka z wplata na potwierdzenie terminu)."
   },
   {
    "data": "300-05-26",
@@ -12207,6 +12207,15 @@
    "kanal": "kruk Domu WF-BP (08-11 rano); odpowiedz kruk BP-WF",
    "wraca": "300-08-13",
    "zamyka": "rachunek Hala na pismie: oszczednosc frachtu + fracht obcy - koszt utrzymania = zysk netto/rok; wtedy slowo pana BP/Braavos",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-11",
+   "co": "GP-2 - LANCUCH I KOLOWROT DLA GORACEGO PORTU U KOWALI MANDERLY (BP): zaliczka 174,72 (08-12), reszta 349,43 przy odbiorze; gotowe ~3 miesiace od zaliczki; transport do GP (barka/woz - Hal); montaz - Harlon. Wlasni (Dom) + kowale - termin kowali rzut przy odbiorze, jesli sie przesunie.",
+   "kto": "HAL (Kasa 1) -> kowale Manderly; HARLON (montaz)",
+   "kanal": "kruk Domu WF-BP; meldunki Hala",
+   "wraca": "300-11-12",
+   "zamyka": "lancuch i kolowrot na miejscu w GP",
    "status": "otwarte"
   }
  ],

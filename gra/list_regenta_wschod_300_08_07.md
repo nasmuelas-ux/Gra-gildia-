@@ -32,6 +32,12 @@ _Jeden tekst dla wszystkich, słowo w słowo; zmienia się tylko nagłówek i li
 | Cerwyn | 5 | lord w objeździe z Królem — list do kasztelana |
 | Locke | 3 | — |
 | Flint z Wdowiej Straży | 3 | — |
-| drobni wschodu i środka | po 2 | **listy nazwisk w zapisie brak** — Beron prosi o wskazanie, kogo liczyć |
+| Ryswell (Rills) | 2 | słowo pana 08-07: „ci, których nie wymieniliśmy” |
+| Dustin (Barrowton) | 2 | jw.; zbiórka może być w Barrowton razem z Manderlym |
+| Reed (Szare Wody) | 2 | jw.; krannogowie |
+| Slate | 2 | jw. |
+| Stout | 2 | jw. |
+| Woolfield | 2 | jw. |
+| Lake | 2 | jw. |
 
-**Razem ~61 + drobni (≈ 65–70).**
+**Razem 61 + 14 = 75 ludzi** (lista domów: `dossier_rodow_polnocy.md`). **Nie dostają listu domy zachodu**, które same stoją na tym brzegu: Glover, Tallhart, Mormont i klany gór (Rodrik: „Nie zabiera się ludzi z brzegu, żeby ich przysłać na ten sam brzeg”).

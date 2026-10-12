@@ -2244,9 +2244,9 @@
    "co": "GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem.' [VOID 300-04-13: Catelyn jest w Dorzeczu, nie w Dolinie.] Dolina nic nie powiedziala. ### WRACA, GDY DOLINA COKOLWIEK POWIE - i wtedy bedzie to decyzja o interesie, nie o zakladzie. ### 06-15: decyzja stoi; przeglad przy kartach krolestw (VII). ### 07-10 PRZEGLAD PANA: ZOSTAWIC - Gulltown zamkniete, dopoki Dolina nie przemowi. Nastepny przeglad przy kartach krolestw (VIII).",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-08-10",
+   "wraca": "300-09-10",
    "zamyka": "Dolina mowi cokolwiek - wtedy pytanie wraca",
-   "status": "otwarte - ODLOZONE Z POWODEM"
+   "status": "otwarte - ODLOZONE Z POWODEM ### 08-10: Dolina milczy (Sansa 08-07: trzy strony Doliny, Royce przeciw Baelishowi) - decyzja zostaje; wraca, gdy Dolina cos powie."
   },
   {
    "data": "300-03-12",
@@ -7801,9 +7801,9 @@
    "co": "SKRYPTORIUM - ODPISY PIECIU KSIAG ILARIA (zlecenie pana 06-20; za zgoda wlasciciela): kolejnosc Ilaria - (1) WZORNIK KROJU (po egzemplarzu dla kazdego skryby - fundament skryptorium) ~07-01; (2) ELEMENTARZ KSIAG PODWOJNYCH ~07-15; (3) O CZTERNASTU PLOMIENIACH ~08-01; (4) KRONIKA TAJEMNEGO MIASTA ~08-15; (5) PIESNI Z LYS ~08-15 (przepisuje Jessa wieczorami). Po pierwszej skladce (prawa komor) i obok ksiazki o ptakach dla Brana. Kasa 1. ZASADA 8: piec rak, trzy zamowienia naraz - kolejka; PYTANIE ILARIA: ile odpisow kazdej (zasada trzech odpisow z 299-09-08: trzy miejsca - Fosa, Winterfell, Bialy Port?). ### 06-20 PAN: PO DWA ODPISY KAZDEJ - FOSA (archiwum) i WINTERFELL (biblioteka Wiezy); oryginaly zostaja u Ilaria (trzecie miejsce). ### 07-01: wzornik w toku. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "ILARIO + czterech pisarzy (+ Jessa)",
    "kanal": "na miejscu",
-   "wraca": "300-08-10",
+   "wraca": "300-08-12",
    "zamyka": "wzornik odpisany; dalej wg kolejki",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): wzornik odpisany (2 egz.; E); elementarz w polowie; O czternastu plomieniach - po elementarzu ~08-10 (kolejka)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): wzornik odpisany (2 egz.; E); elementarz w polowie; O czternastu plomieniach - po elementarzu ~08-10 (kolejka). ### 08-10: stan w ZBIORCZYM GARRICKA (pisany 08-10, ~08-12) - zasada 34, wlasni."
   },
   {
    "data": "300-06-20",
@@ -8857,9 +8857,9 @@
    "co": "DANE ZIM Z POLNOCY - ZEBRAC DO WYMIANY Z CYTADELA (pan: 'takie dane zbieralismy z Polnocy, postaram sie to zebrac'). Z ZAPISU: ZBIOR SWIADECTW POLNOCY 299-09/10 - czternascie pism do maesterow; odkrycie 299-10-20: trzeba pytac o KSIEGI POGODY (Dreadfort - ksiega pogody maestera; Ostatnie Ognisko - kronika); material w GLEBOKORZENIU (Theomore) i u LUWINA (Ksiegi Zimowe zamku - wypis na powrot pana). FILTR ORWYNA: wysylac pogode i dlugosc zim, NIE rachunki spizarni (licznik wytrzymalosci zamkow). Glebokorzen pozostaje niezalezny od Cytadeli (299-09-10) - wymiana, nie oddanie. Zestawia pan z Theomore'em i Luwinem w Winterfell.",
    "kto": "SYMON + THEOMORE + LUWIN",
    "kanal": "Winterfell (~07-08)",
-   "wraca": "300-08-10",
+   "wraca": "300-08-20",
    "zamyka": "zestawienie danych zim gotowe do wymiany (bez spizarni)",
-   "status": "otwarte ### 07-25: zadanie pana - bez ruchu; do slowa pana."
+   "status": "otwarte ### 07-25: zadanie pana - bez ruchu; do slowa pana. ### 08-10: Theomore (karta III 08-06): odpis danych zim dla Orwyna - 2 z 5 ksiag gotowe, calosc do 08-20 (bez spizarni)."
   },
   {
    "data": "300-07-01",
@@ -9201,7 +9201,7 @@
    "kanal": "jezdziec Winterfell-Fosa-Przesmyk-Riverrun-Seagard (~14 dni) i z powrotem",
    "wraca": "300-08-10",
    "zamyka": "pierwszy meldunek o zaglach z Seagard",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-10 - MELDUNEK Z SEAGARD (rzut 54, TAK) przez Lymana z kurierem Riverrun - w dzienniku 08-10. ### poprzednio: otw."
   },
   {
    "data": "300-07-11",
@@ -9262,9 +9262,9 @@
    "co": "POSTERUNEK DOMU NA CZARNYM ZAMKU - DWA OKA (rada Lucana, zgoda pana 07-11): (1) WYBOR LORDA DOWODCY - kto i czym zabiega o glosy (dary, obietnice, listy z poludnia); Korona nie wybiera - pilnuje, zeby nikt nie kupil; (2) LISTY NA POLUDNIE - czy z Czarnego Zamku zaczynaja chodzic listy do Krolewskiej Przystani albo do Stannisa (przeciwnicy pokoju z dzikimi). Sluchac, nie pytac. Wlasni - bez rzutu na patrzenie; co zobacza - rzut przy meldunku.",
    "kto": "POSTERUNEK DOMU (Czarny Zamek), Kasa 1",
    "kanal": "kolumna ziarna / kruk Czarny Zamek-Winterfell",
-   "wraca": "300-08-10",
+   "wraca": "300-08-15",
    "zamyka": "pierwszy meldunek posterunku o obu sprawach",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: Benno przywiozl 08-08 tylko slowo Aemona (ustnie); pierwszy meldunek posterunku krukiem Domu po powrocie Benna na Mur (~08-15) - zasada 34."
   },
   {
    "data": "300-07-11",
@@ -9345,7 +9345,7 @@
    "kanal": "kruk Winterfell-Riverrun (o zmierzchu 07-11); wiesc z Riverrun krukiem",
    "wraca": "300-08-10",
    "zamyka": "liczba Edmure'a + obwieszczenie na slupach",
-   "status": "otwarte ### 07-22: meldunek Edmure/Lyman - na Male Rade 07-26 (rzut przy meldunku). ### 07-26 MELDUNEK (rzut 57): Maidenpool ~300 Lwow (otoczone od 07-12, droga zamknieta), Darry ~120, posterunek przy Rubinowym Brodzie ~40 (E); Zielone Widly - luka (Freyowie nie wpuscili zwiadowcow); obwieszczenia na slupach; Darry gotowe wyjsc 08-05; dowodca Maidenpool - wyjdzie dopiero na slowo Tywina. ### 08-05: dzien wyjscia; wiesc Edmure krukiem Riverrun-WF (5 dni) - najwczesniej ~08-10. Brynden pierwszy."
+   "status": "ZAMKNIETE 300-08-10 - kruk z Riverrun 08-10 (rzut 55) - liczenie i obwieszczenia wykonane; wynik dnia wyjscia w dzienniku 08-10. ### poprzednio: otw. ### 07-22: meldunek Edmure/Lyman - na Male Rade 07-26 (rzut przy meldunku). ### 07-26 MELDUNEK (rzut 57): Maidenpool ~300 Lwow (otoczone od 07-12, droga zamknieta), Darry ~120, posterunek przy Rubinowym Brodzie ~40 (E); Zielone Widly - luka (Freyowie nie wpuscili zwiadowcow); obwieszczenia na slupach; Darry gotowe wyjsc 08-05; dowodca Maidenpool - wyjdzie dopiero na slowo Tywina. ### 08-05: dzien wyjscia; wiesc Edmure krukiem Riverrun-WF (5 dni) - najwczesniej ~08-10. Brynden pierwszy."
   },
   {
    "data": "300-07-11",
@@ -9354,7 +9354,7 @@
    "kanal": "kruk Riverrun-Winterfell",
    "wraca": "300-08-10",
    "zamyka": "meldunek o wyjsciu (albo o odmowie)",
-   "status": "otwarte ### 08-05: DZIS termin. Wiesc z Riverrun krukiem (5 dni) - ~08-10; Krol w drodze (wiesc do niego przez Wymana/BP). Brynden pierwszy."
+   "status": "ZAMKNIETE 300-08-10 - kruk z Riverrun 08-10 (rzut 55): Darry i Rubinowy Brod wyszly 08-05; Maidenpool zostal - oblezony bez szturmu; szczegoly w dzienniku. ### poprzednio: otw. ### 08-05: DZIS termin. Wiesc z Riverrun krukiem (5 dni) - ~08-10; Krol w drodze (wiesc do niego przez Wymana/BP). Brynden pierwszy."
   },
   {
    "data": "300-07-11",
@@ -9370,9 +9370,9 @@
    "co": "MAIDENPOOL - WOLNA DROGA TYLKO Z HARRIONEM (Krol 07-11): garnizon Maidenpool wychodzi, gdy Harrion Karstark zostanie wydany czlowiekowi Karstarka przy wymianie jencow; 'kto wyjdzie bez niego, nie wyjdzie wcale'. List Krola do Rickarda: 'Twoj syn jest warunkiem, nie cena.' Odpowiedz Lwa - RZUT przy wiesci.",
    "kto": "KROL -> EDMURE / garnizon Maidenpool; KROL -> RICKARD",
    "kanal": "kruk Winterfell-Riverrun; kruk Winterfell-Karhold",
-   "wraca": "300-08-10",
+   "wraca": "300-09-05",
    "zamyka": "Harrion wydany albo odmowa Lwa",
-   "status": "otwarte ### 08-05: jak wyzej - wiesc ~08-10."
+   "status": "otwarte ### 08-05: jak wyzej - wiesc ~08-10. ### 08-10: kruk z Riverrun 08-10 (rzut 55): dowodca Maidenpool nie odmowil - poslal kruka do Tywina o zgode na wymiane z Harrionem; odpowiedz Lwa do Maidenpool ~3-4 tyg. (E), wiesc dalej przez Riverrun."
   },
   {
    "data": "300-07-11",
@@ -9381,7 +9381,7 @@
    "kanal": "jezdziec/kruk do Riverrun; meldunek przez Lymana",
    "wraca": "300-08-10",
    "zamyka": "meldunek: Harrion w Maidenpool albo wywieziony",
-   "status": "otwarte - zgoda pana 07-11; Lyman melduje krukiem z Riverrun ### 08-01: meldunek Lymana/Derona o Harrionie - przy dniu wyjscia garnizonow (08-05). ### 08-05: meldunek Lymana/Derona - z wiescia z Riverrun ~08-10."
+   "status": "ZAMKNIETE 300-08-10 - meldunek Lymana/Derona (z kurierem Riverrun 08-10): zadne wozy z eskorta nie wyszly z Maidenpool na poludnie przed 08-05; Harrion widziany w oknie wiezy 08-04 (E). Nie wywieziony. ### poprzednio: otw. - zgoda pana 07-11; Lyman melduje krukiem z Riverrun ### 08-01: meldunek Lymana/Derona o Harrionie - przy dniu wyjscia garnizonow (08-05). ### 08-05: meldunek Lymana/Derona - z wiescia z Riverrun ~08-10."
   },
   {
    "data": "300-07-11",
@@ -9640,9 +9640,9 @@
    "co": "MALA OBECNOSC DOMU NA ZACHODZIE (zgoda pana 07-15, model Lucana: gra/model_malej_obecnosci_domu_300_07.md): HAL - kosztorys i kolejnosc; KANTOREK BARROWTON (czlowiek Domu z rodzina); ZNAKI: Torrhen's Square (Tallhart), Deepwood (Glover), Kamienny Brzeg (przy Corwinie), Dustinport (przy Donnelu). Wspolnicy znakow i zgoda lordow miejsca - RZUT przy odpowiedziach. Lucan z Halem w BP od 08-05 (razem z Lancuchem Zimowym). Willa czyta ksiegi, nie obsadza.",
    "kto": "HAL (+ LUCAN)",
    "kanal": "kruk Winterfell-Bialy Port; listy do lordow zachodu",
-   "wraca": "300-08-10",
+   "wraca": "300-08-11",
    "zamyka": "kosztorys Hala + pierwszy kantorek/znak uruchomiony",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: kosztorys Hala - z meldunkiem Hala ~08-11 (kanal Domu, BP)."
   },
   {
    "data": "300-07-16",
@@ -9883,9 +9883,9 @@
    "co": "LIST DO HOWLANDA REEDA - PROSBA KROLA, BY PRZYJECHAL WCZESNIEJ (przed opadnieciem lisci), jesli moze: Bran - wolanie 'nizej' od trzech nocy, mocniej niz w czerwcu (BEZ szczegolow na pismie - 'chlopiec zle spi, prosimy o rade ojca Jojena'). Pisze Symon pieczecia wlasna (jak 04-11), do rak wlasnych lorda Reeda; kanal - poczta Fosy, czlowiek przy grobli, krannogowie. Wola Reeda - RZUT przy odpowiedzi (albo przyjezdzie). ### 07-18: LIST NAPISANY i wyslany (kruk na Fose dzis; Garrick -> poslaniec przy grobli).",
    "kto": "SYMON (z polecenia Krola) -> HOWLAND REED",
    "kanal": "kruk Winterfell-Fosa, Garrick -> poslaniec przy grobli -> krannogowie",
-   "wraca": "300-08-10",
+   "wraca": "300-08-20",
    "zamyka": "odpowiedz Reeda albo przyjazd",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: list doszedl na Fose, Garrick przez poslanca przy grobli do krannogow - bez kruka; odpowiedz albo przyjazd wolniej (Jojen 08-09: ojciec przyjedzie, kiedy przyjedzie)."
   },
   {
    "data": "300-07-18",
@@ -10054,9 +10054,9 @@
    "co": "KODEKS - PRZEPIS O WIERZE (Krol 07-19): 'wierzyc wolno kazdemu; palic, bic i nawracac sila - nikomu' - Cerwyn ubiera w litere prawa.",
    "kto": "KROL -> CERWYN (Justycjariusz)",
    "kanal": "list Krola / przy najblizszym spotkaniu",
-   "wraca": "300-08-10",
+   "wraca": "300-09-15",
    "zamyka": "przepis na pismie w Kodeksie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: Cerwyn z Krolem na wschodzie - przy najblizszym spotkaniu (powrot ~IX)."
   },
   {
    "data": "300-07-19",
@@ -10065,7 +10065,7 @@
    "kanal": "kruk Winterfell-Riverrun",
    "wraca": "300-08-10",
    "zamyka": "list doreczony; odpowiedz Edmure'a - RZUT",
-   "status": "otwarte ### 07-31: LIST WYSLANY - Krol napisal 07-30 (przy obiedzie, przez Luwina), kruk WF->Riverrun 07-31 o swicie (wczoraj kruki z poludnia spoznione, wylot wstrzymany do rana). Odpowiedz Edmure'a - RZUT (~08-10)."
+   "status": "ZAMKNIETE 300-08-10 - odpowiedz Edmure'a (rzut 87) z kurierem Riverrun 08-10 - w dzienniku. ### poprzednio: otw. ### 07-31: LIST WYSLANY - Krol napisal 07-30 (przy obiedzie, przez Luwina), kruk WF->Riverrun 07-31 o swicie (wczoraj kruki z poludnia spoznione, wylot wstrzymany do rana). Odpowiedz Edmure'a - RZUT (~08-10)."
   },
   {
    "data": "300-07-19",
@@ -10387,9 +10387,9 @@
    "co": "DREWNO NA ZIME DO WIEZY MAESTERA AEMONA (Czarny Zamek) - placowka Domu kupuje i dostarcza przed zima; Dom placi (Kasa 1), Hal ksieguje. Wlasni - bez rzutu.",
    "kto": "SYMON -> placowka Domu (Czarny Zamek) ; HAL (ksiega)",
    "kanal": "kruk Domu Winterfell-Czarny Zamek (07-22 po poludniu)",
-   "wraca": "300-08-10",
+   "wraca": "300-08-15",
    "zamyka": "drewno w wiezy maestera (meldunek placowki)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: meldunek placowki Domu z Czarnego Zamku (z meldunkiem posterunku ~08-15); Clydas 08-09 nie wspomina."
   },
   {
    "data": "300-07-22",
@@ -10630,9 +10630,9 @@
    "co": "CYPEL - SIECI I WEDKI (Mala Rada 07-26): sieci z tkalni Korony na Kamiennym Brzegu + zakup w BP (Hal); haczyki i zylka - zakup w BP i Dustinporcie (Gawen); nauka lowienia - rybacy Mormontow (Dacey - list do lady Maege). Przewoz - lodzie Torrena/Mormontow z ziarnem. Kwoty z ksiegi (zasada 43).",
    "kto": "GAWEN + HAL ; DACEY -> MAEGE",
    "kanal": "kruki BP / Wyspa Niedzwiedzia",
-   "wraca": "300-08-10",
+   "wraca": "300-08-20",
    "zamyka": "sieci i haczyki w drodze na Cypel",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: zakupy w BP (Hal) i Dustinporcie (Gawen) - w meldunkach Hala ~08-11 i bilansie Korony; Maege - list Dacey doreczony 08-08; przewoz z ziarnem Tallharta."
   },
   {
    "data": "300-07-26",
@@ -10675,9 +10675,9 @@
    "co": "KONSULAT KORONY W RIVERRUN (Mala Rada 07-26, rzut 21 - Riverrun tak): kto (konsul - kancelaria misji), gdzie (przy Edmurze), koszt - Gawen; list Krola do Edmure'a.",
    "kto": "KROL ; SYMON (kandydat) ; GAWEN",
    "kanal": "kruk Riverrun",
-   "wraca": "300-08-10",
+   "wraca": "300-08-20",
    "zamyka": "konsul wskazany, zgoda Edmure'a (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: LIST KROLA DO EDMURE'A W SPRAWIE KONSULATU NIE WYSZEDL (w zapisie brak wysylki; Krol wyjechal 08-05) - do slowa pana jako regenta."
   },
   {
    "data": "300-07-26",
@@ -10740,7 +10740,7 @@
    "kanal": "Winterfell / wg sprawy",
    "wraca": "300-08-10",
    "zamyka": "krok wykonany albo temat rozpatrzony",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-10 - Rodwell: ogloszenie na slupach okregu I wywieszone przed zniwami (E, wlasni); pobor po zniwach ~09-15 - osobna pozycja. ### poprzednio: otw."
   },
   {
    "data": "300-07-26",
@@ -10819,9 +10819,9 @@
    "co": "STARKPORT - WZMOCNIENIE NADZWYCZAJNE (Krol rzut 80): drugi nabor 50 od razu, straz nocna i wieza ognia podwojnie; Kasa 3. Odzew naboru - rzut przy meldunku.",
    "kto": "CORWIN + ULRIC + BRANN MOKRY",
    "kanal": "kruk WF->Barrowton + jezdziec",
-   "wraca": "300-08-10",
+   "wraca": "300-08-15",
    "zamyka": "meldunek Corwina o stanie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: karta Corwina 08-10 (wlasni): straz nocna i wieza podwojnie - stoja; DRUGI NABOR 50 - termin 08-15, odzew naboru RZUT przy meldunku 08-15."
   },
   {
    "data": "300-08-10",
@@ -10830,7 +10830,7 @@
    "kanal": "kruk WF->Barrowton + jezdziec",
    "wraca": "300-08-10",
    "zamyka": "meldunek Torrena/Donnela",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-10 - karta Torrena/Donnela 08-10 (rzut 91 - wodowania): ludzie w gotowosci, straz przy pochylniach i wiezy; eskadra na zachodzie - w dzienniku. ### poprzednio: otw."
   },
   {
    "data": "300-07-28",
@@ -10873,18 +10873,18 @@
    "co": "SILY Z GLEBI - MUSZTRA 2 TYG. W WINTERFELL (31 oczekujacych + ochotnicy rezerwy domeny po 07-27); wymarsz po 08-10 na Kamienny Brzeg pod Corwina. Ilu ochotnikow - po cwiczeniu 07-27 (rzut odzewu). ### 07-27: 31 oczekujacych + 19 ochotnikow z rezerwy (E) = 50 do musztry od 07-28.",
    "kto": "RODRIK",
    "kanal": "na miejscu",
-   "wraca": "300-08-10",
+   "wraca": "300-08-11",
    "zamyka": "wymarsz na Kamienny Brzeg",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: musztra zakonczona 08-09; dzis odpoczynek i pakowanie; wymarsz pon. 08-11 o swicie (Rodrik)."
   },
   {
    "data": "300-08-10",
    "co": "GORACY PORT / FOSA - BLOKADY DREWNIANE: zasieki i zapory na sciezkach i wodzie od wybrzeza ku Cailin i Fosie; stan w zbiorczym Garricka.",
    "kto": "HENDRY + GARRICK",
    "kanal": "kruk WF->Fosa / zbiorczy",
-   "wraca": "300-08-10",
+   "wraca": "300-08-12",
    "zamyka": "blokady stoja",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: stan w ZBIORCZYM GARRICKA (~08-12); zbiorczy 08-02: zasieki na dwoch sciezkach stoja, trzecia w robocie."
   },
   {
    "data": "300-07-26",
@@ -10900,9 +10900,9 @@
    "co": "POSLANCY KORONY DO KLANOW GOR (Wull, Norrey, Liddle, Flint, Burley, Harclay) - ustnie, zdanie klanow o wolnych ludziach; po jednym posle na klan. Odpowiedz ustnie - rzut przy powrocie.",
    "kto": "kancelaria Namiestnika (poslancy Korony, E)",
    "kanal": "jezdzcy, ustnie",
-   "wraca": "300-08-10",
+   "wraca": "300-08-14",
    "zamyka": "zdania szesciu klanow",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: poslancy (wyjazd 07-27) jeszcze nie wrocili - drogi gorskie, deszcz (pogoda 21); powrot ~08-12..16, rzut przy powrocie."
   },
   {
    "data": "300-07-26",
@@ -11055,7 +11055,7 @@
    "kanal": "na miejscu",
    "wraca": "300-08-10",
    "zamyka": "prawo na slupach w calej domenie",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-10 - Rodwell/Beron: herold w ZM i we wsiach domeny, tekst na slupach przy lasach Korony i na targu - przed zniwami (E, wlasni). ### poprzednio: otw."
   },
   {
    "data": "300-07-27",
@@ -11170,9 +11170,9 @@
    "co": "GRAD OKREG I - POMOC (slowo pana 07-29, wersja zrownowazona): (1) ULGA W CZYNSZU dla CZTERECH WSI z pasa gradu - czynsz tego roku OBNIZONY o tyle, ile stracily (oglednik Rodwella na polu, wies po wsi; E ~1/3), reszta pobierana normalnie ~09-15; w ksiedze proby czynszu do wyboru zaznaczone osobno ('grad'), zeby proba liczyla sie bez nich; reszta okregu I - bez ulgi. (2) RECE DO ZBIORU - najpierw sasiedzi z wsi bez gradu (zwyczaj); brakujace rece na DNIOWKE Korony (Kasa 3, bezrolni z ZM przez Rodwella; kwota z ksiegi Gawena) - tylko na polozone zboze, tylko w czterech wsiach. (3) POPLON - nasiona rzepy/brukwi z magazynu zamku jako POZYCZKA W NATURZE, zwrot z przyszlorocznego zbioru (bez procentu); sieja po zbiorze. Ogloszenie ulgi - razem z ogloszeniem czynszu 08-10.",
    "kto": "RODWELL (+ GAWEN - ksiega, kasztelan - nasiona)",
    "kanal": "Winterfell / jezdzcy Rodwella",
-   "wraca": "300-08-10",
+   "wraca": "300-09-15",
    "zamyka": "ulga ogloszona z czynszem 08-10; zbior polozonego zboza zakonczony; poplon zasiany",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: Rodwell: ulga dla czterech wsi ogloszona z czynszem (E, wlasni); zboze polozone zbierane sierpem - w toku; poplon - po zbiorze; zamyka sie przy poborze czynszu ~09-15."
   },
   {
    "data": "300-07-29",
@@ -11244,7 +11244,7 @@
    "kanal": "Winterfell; ksiegi komor",
    "wraca": "300-08-10",
    "zamyka": "clo osobna linia za V-VII w bilansie 08-01",
-   "status": "otwarte ### 07-30 PAN - PIEC PRZYCZYN DO ROZDZIELENIA: (1) Fosa uszczelnia komore (strefy od 07-22); (2) wiecej kupcow - wiecej miast i ruchu; (3) czy doliczamy MYTA Z MOSTOW I INNE REGALIA NA ZIEMI KORONY?; (4) sezon; (5) komory dzialaja lepiej z czasem. GAWEN: rozdzieli RUCH (liczba wozow na komore) od USZCZELNIENIA (clo na woz); REGALIA DOMENY - nie wiadomo, czy myto i mostowe na drogach Korony sa pobierane (zwyczaj Starkow) - sprawdzi w ksiegach kasztelana; jesli nie pobierane - to decyzja Krola (regale), nie Skarbnika. Pierwszy BILANS KORONY (cykl ~10. dnia) - 08-10 za VII. ### 08-01: dzis tylko ksiega komory Fosy; BP - Hal ~08-05, Dustinport/przystanie - Garth; clo osobna linia w BILANSIE 08-10 za VII."
+   "status": "otwarte ### 07-30 PAN - PIEC PRZYCZYN DO ROZDZIELENIA: (1) Fosa uszczelnia komore (strefy od 07-22); (2) wiecej kupcow - wiecej miast i ruchu; (3) czy doliczamy MYTA Z MOSTOW I INNE REGALIA NA ZIEMI KORONY?; (4) sezon; (5) komory dzialaja lepiej z czasem. GAWEN: rozdzieli RUCH (liczba wozow na komore) od USZCZELNIENIA (clo na woz); REGALIA DOMENY - nie wiadomo, czy myto i mostowe na drogach Korony sa pobierane (zwyczaj Starkow) - sprawdzi w ksiegach kasztelana; jesli nie pobierane - to decyzja Krola (regale), nie Skarbnika. Pierwszy BILANS KORONY (cykl ~10. dnia) - 08-10 za VII. ### 08-01: dzis tylko ksiega komory Fosy; BP - Hal ~08-05, Dustinport/przystanie - Garth; clo osobna linia w BILANSIE 08-10 za VII. ### 08-10: w BILANSIE KORONY dzis (Gawen osobiscie, gdy pan przyjmie)."
   },
   {
    "data": "300-07-30",
@@ -11325,7 +11325,7 @@
    "kanal": "kruk Winterfell-Riverrun",
    "wraca": "300-08-10",
    "zamyka": "pierscien oblezenia stoi albo garnizon wyszedl z Harrionem",
-   "status": "otwarte ### 08-08 RANEK: NIE PRZYSZLO I WIADOMO DLACZEGO - wiesc z Maidenpool do Riverrun, potem kruk Riverrun-WF 5 dni; Brynden: ~08-10."
+   "status": "ZAMKNIETE 300-08-10 - kruk z Riverrun 08-10 (rzut 55): pierscien przy Maidenpool stoi, bez szturmu; Darry i Rubinowy Brod wyszly; dalej - pozycja MAIDENPOOL - WOLNA DROGA. ### poprzednio: otw. ### 08-08 RANEK: NIE PRZYSZLO I WIADOMO DLACZEGO - wiesc z Maidenpool do Riverrun, potem kruk Riverrun-WF 5 dni; Brynden: ~08-10."
   },
   {
    "data": "300-08-01",
@@ -11532,7 +11532,7 @@
    "kanal": "kruki WF->Deepwood, WF->Barrowton + jezdziec; Rodrik ustnie",
    "wraca": "300-08-10",
    "zamyka": "meldunki: pozycje zajete",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-10 - karty Corwina i Torrena 08-10 + Robett (wlasni): pozycje zajete; sily z glebi wychodza 08-11. ### poprzednio: otw."
   },
   {
    "data": "300-08-02",
@@ -11586,7 +11586,7 @@
    "kanal": "Zimowe Miasto",
    "wraca": "300-08-10",
    "zamyka": "waga stoi, pierwsze kwity w ksiedze",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-10 - waga Korony stoi od 08-04 przy hali Skarbu w ZM; pierwsze kwity w ksiedze Gawena (wlasni). ### poprzednio: otw."
   },
   {
    "data": "300-08-03",
@@ -11737,9 +11737,9 @@
    "co": "STANNIS NA MUR - CZY WYPLYNAL? (zapowiedz Stannisa 04-28, rzut 53: wyplywa ze Smoczej Skaly z pierwszym pelnym wiatrem V, laduje we Wschodniej Strazy, na Murze ~poczatek VI; 05-21 przez Davosa: data przyjeta). OD 05-21 W ZAPISIE NIC; listy z Muru (Aemon/Clydas 07-22, 08-02) o Stannisie milcza - wiec na Murze go nie ma. Pogloska z karty Willi (30 dni, plotka): nocne ognie i kopanie na Smoczej Skale. POMINIECIE GM: przyjazd nie dostal terminu (zasada 41). KANALY: posterunek Domu w Czarnym Zamku (meldunek ~08-10 - takze Wschodnia Straz); Wyl Brannik u Davosa (drugi ladunek szkla; powrot ~08-20); Hallis Mollen (posel Korony na Murze). Wynik - RZUT przy pierwszej wiesci.",
    "kto": "POSTERUNEK DOMU (Czarny Zamek) ; WYL BRANNIK / DAVOS ; HALLIS",
    "kanal": "kruk Domu z Czarnego Zamku; BP-Davos",
-   "wraca": "300-08-10",
+   "wraca": "300-08-15",
    "zamyka": "wiadomo, gdzie jest Stannis i dlaczego nie przyplynal (albo kiedy przyplynie)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-10: kanal: meldunek posterunku Domu z Czarnego Zamku (~08-15); Clydas pisze tylko o zdrowiu Aemona; Benno - slowo Aemona, bez wiesci o Stannisie w zapisie."
   },
   {
    "data": "300-08-04",

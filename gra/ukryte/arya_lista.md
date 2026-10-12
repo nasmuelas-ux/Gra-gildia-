@@ -38,3 +38,7 @@ Pan odpowiedział, że kto dołącza, musi wyrzec się wszystkiego i stać się 
 
 ## 300-08-13, STRZELNICA
 Arya o kapłanach Wielu Twarzy („wiele imion, żadnego swojego”) przypomniała sobie własne imiona z drogi: Łasica, Nan, Arry. Powiedziała: „Nie chcę już być nikim innym. Jestem Arya Stark z Winterfell”. Prosiła, żeby nie mówić Sansie, że pytała. Odczyt GM (O): imię wygrywa z listą. Dzisiejsza lekcja zamyka sprawę na teraz.
+
+## 300-08-13 WIECZÓR — MEERA ODMAWIA (rzut 1)
+Arya poszła do Meery po deszczu, tak jak zapowiedziała. Meera odmówiła: krannogowie nie uczą swoich ścieżek nikogo spoza bagien. „Jesteś za mała, żeby chować się dla zabawy, i za duża, żeby nie wiedzieć, po co się chowasz.” Potem Meera poszła z tym do lady Catelyn (jest gościem domu, więc uznała, że matka ma wiedzieć). Arya powiedziała jej, że to lord Symon radził zapytać. Catelyn wezwała Aryę na rozmowę jutro rano. Arya jeszcze nie wie, że Lucan też odmówił.
+Odczyt GM (O): dwie odmowy jednego dnia. Arya nie płacze, tylko jest zła i czuje się zdradzona. Zła jest na Meerę, nie na pana.

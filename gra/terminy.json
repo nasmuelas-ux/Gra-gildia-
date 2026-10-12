@@ -12343,6 +12343,15 @@
    "wraca": "300-08-19",
    "zamyka": "karta podliczenia lenna na stole pana (+ wpis do ekonomia.json, Kasa 2)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-13",
+   "co": "LADY CATELYN WIE (od Meery, rzut 1): Arya prosila Meere o nauke chodzenia niewidzianej - z rady Namiestnika; Arya pytala tez Lucana (odmowa). Catelyn wzywa Arye na rozmowe 08-14 rano. Reakcja Catelyn wobec Namiestnika - przy najblizszym spotkaniu (czw. 08-14 - wizyta w szkole ZM), bez rzutu na sam fakt rozmowy.",
+   "kto": "CATELYN ; ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-08-14",
+   "zamyka": "rozmowa Catelyn z Arya odbyta; slowo Catelyn (do Namiestnika, jesli zechce)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

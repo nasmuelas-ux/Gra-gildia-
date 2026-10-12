@@ -12099,7 +12099,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-08-11",
    "zamyka": "lekcja 7 odbyta",
-   "status": "otwarte"
+   "status": "ZAMKNIETE 300-08-11 - lekcja 7 (rzut 57 TAK): kredyt czesciowy, wyzszy procent, weksel; potkniecie odsetki/procent i wspolna przy grozbie ### poprzednio: otw."
   },
   {
    "data": "300-08-08",
@@ -12216,6 +12216,15 @@
    "kanal": "kruk Domu WF-BP; meldunki Hala",
    "wraca": "300-11-12",
    "zamyka": "lancuch i kolowrot na miejscu w GP",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-11",
+   "co": "BRAAVOSKI - LEKCJA 8 (pt 08-15): zadanie siostr - kazda pisze po braavosku krotki WEKSEL swojego krolestwa (Miodowe Laki - Sansa; Kamienny Brod - Arya): kto, komu, ile, kiedy, pod jaki zastaw. Rozroznic 'odsetki' i 'procent'. Prowadzi Symon.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-08-15",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

@@ -27,3 +27,6 @@ Prosba Aryi: nikomu - ani Robbowi ('zabralby mi noz'), ani Matce. 'Ty wiesz, bo 
 
 ## CO CHCE Z NIA ZROBIC (300-07-17, rzut 26)
 'Sama. Kiedys.' Smierc Gory z cudzej reki - pustka, nie ulga: 'Dorne mi go zabralo. Mialo prawo - Elia byla pierwsza. Ale ja tez czekalam.' Trening u mistrza z Braavos - 'po to tez, nie tylko po to'. Igla - 'odbiore ja Polliverowi, nie kupie i nie dostane w prezencie'. Do pana: 'Nie zatrzymuj mnie, jak przyjdzie czas. Nie obiecuje, ze nie pojade.'
+
+## 300-07-19 O ŚWICIE — ŚWIECA DLA NIEZNAJOMEGO (prawda GM, ujawniona panu 08-08 przez septona Chayle'a, rzut 66; septon nie wymienia imienia)
+To Arya zapaliła świecę Nieznajomemu, dwa dni po tym, jak skreśliła Górę. Nie jest z Wiary. Septon widział ją z bocznej izby i nie wyszedł. Postała chwilę, nie modliła się na głos, poruszała tylko ustami (lista). Zgasiła świecę sama, zanim wyszła.

@@ -25,7 +25,7 @@ Nikt nie odszedł. Theomore dopisuje: *„Sigga chciała iść do domu na żniwa
 
 ## 5. Koszt miesiąca (E, księga Głębokorzenia)
 - ~36–42 smoki: wikt dziesięciorga uczniów, dniówki kopistów, świece, pergamin, poletka.
-- Płacą właściciele Przystani według udziałów.
+- Płaci **Korona** (Kasa 3). Głębokorzeń jest w całości projektem Korony (poprawka 08-07; wcześniejszy zapis „właściciele Przystani według udziałów” jest VOID).
 
 ## 6. Gmach w Przystani Wilka
 To samo, co pan widział 08-06:

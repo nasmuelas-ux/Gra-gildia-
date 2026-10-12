@@ -81,3 +81,12 @@ _Podstawa: polityka gospodarcza v3, §N2; Mała Rada 07-26, pkt 5 (rzut 21): **R
   - *„Korona poświadcza tylko to, co leży”*: bez wpłaty nie ma poświadczenia, nie ma gwarancji i nie ma dźwigni.
 - **Po co:** lord albo kupiec z Północy nie wiezie przez Przesmyk 500 smoków. Wiezie papier.
 - **Ryzyko (zasada 8):** moneta misji leży w Riverrun, więc potrzebna skrzynia, straż i rachunek. Kruki misji muszą być własne.
+
+## IX. PUNKT WYMIANY MONETY (słowo pana 08-10)
+- **Podstawa:** polityka v3, pkt 8, kantory wymiany przy komorach z ręki mennicy. Mała Rada 07-26: wymiana jest **dobrowolna**, a zakazu obcej monety nie ma. Słup Korony od 04-24 podaje kurs obcej monety.
+- **W misji:** kupiec z Północy wymienia wilka na monetę Tronu (smok, jeleń, miedziak), a kupiec z Dorzecza odwrotnie. Kurs ze słupa Korony, podaje go Gawen, różnica kursowa idzie do Kasy 3. Kwit przy każdej wymianie.
+- **Wymogi (zasada 8):**
+  - zapas monety obu rodzajów w Riverrun, w tej samej skrzyni co pokrycie weksli: osobny rachunek, straż i rewizja;
+  - Mennica WILK **jeszcze nie bije dość**, więc na początek wymiana będzie mała;
+  - kurs nie może się rozjechać ze słupem w Winterfell, bo ktoś zacznie zarabiać na różnicy między misją a komorą.
+- **Kto decyduje:** to regale mennicy, czyli Skarbnik pod Królem. Idzie do listu do Króla razem z wekslami, jako jedna paczka „pieniądz w misji”.

@@ -1337,8 +1337,10 @@
    "dlug_miry_wobec_szkatuly": "polowa dywidendy VII obiecana 'do domu' 07-01, niewplacona - Rhona zapisuje jako dlug Miry wobec szkatuly (slowo Miry 08-02); kwota: polowa z 83,33 = ~41,67 albo to, co Mira uzna (Orsa dostala juz polowe - do rozliczenia z Mira)"
   },
   "sakiewka_pana_ruchy": [
-   "300-08-08: -1 smok - Benno (pisarz placowki Domu na Czarnym Zamku), za droge i slowo Aemona; z sakiewki pana (saldo z 08-02 ~190,6 -> ~189,6)"
-  ]
+   "300-08-08: -1 smok - Benno (pisarz placowki Domu na Czarnym Zamku), za droge i slowo Aemona; z sakiewki pana (saldo z 08-02 ~190,6 -> ~189,6)",
+   "300-08-14: +224,47 smoka - wyplata (a) wyrownanie wsteczne VIII (Tam/Hal, slowo pana 08-06), odebrana osobiscie w faktorii ZM za kwitem (saldo ~189,6 -> ~414,07)"
+  ],
+  "wyplata_VIII_a_300_08_14": "Symon 224,47 ODEBRANE w faktorii ZM 08-14 za kwitem; Mira 112,24 czeka w faktorii do jej odbioru (dlug Miry wobec szkatuly - rozliczyc przy jej odbiorze)."
  },
  "_synergia_sieci": {
   "od": "300-08-01",

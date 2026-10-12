@@ -11244,7 +11244,7 @@
    "kanal": "Winterfell; ksiegi komor",
    "wraca": "300-08-10",
    "zamyka": "clo osobna linia za V-VII w bilansie 08-01",
-   "status": "otwarte ### 07-30 PAN - PIEC PRZYCZYN DO ROZDZIELENIA: (1) Fosa uszczelnia komore (strefy od 07-22); (2) wiecej kupcow - wiecej miast i ruchu; (3) czy doliczamy MYTA Z MOSTOW I INNE REGALIA NA ZIEMI KORONY?; (4) sezon; (5) komory dzialaja lepiej z czasem. GAWEN: rozdzieli RUCH (liczba wozow na komore) od USZCZELNIENIA (clo na woz); REGALIA DOMENY - nie wiadomo, czy myto i mostowe na drogach Korony sa pobierane (zwyczaj Starkow) - sprawdzi w ksiegach kasztelana; jesli nie pobierane - to decyzja Krola (regale), nie Skarbnika. Pierwszy BILANS KORONY (cykl ~10. dnia) - 08-10 za VII. ### 08-01: dzis tylko ksiega komory Fosy; BP - Hal ~08-05, Dustinport/przystanie - Garth; clo osobna linia w BILANSIE 08-10 za VII. ### 08-10: w BILANSIE KORONY dzis (Gawen osobiscie, gdy pan przyjmie)."
+   "status": "ZAMKNIETE 300-08-10 - clo osobna linia w bilansie Korony VII (rzut 14): Fosa bez wzrostu, ruch = zywnosc; BP i Dustinport - ksiegi brak; porownanie od IX ### poprzednio: otw. ### 07-30 PAN - PIEC PRZYCZYN DO ROZDZIELENIA: (1) Fosa uszczelnia komore (strefy od 07-22); (2) wiecej kupcow - wiecej miast i ruchu; (3) czy doliczamy MYTA Z MOSTOW I INNE REGALIA NA ZIEMI KORONY?; (4) sezon; (5) komory dzialaja lepiej z czasem. GAWEN: rozdzieli RUCH (liczba wozow na komore) od USZCZELNIENIA (clo na woz); REGALIA DOMENY - nie wiadomo, czy myto i mostowe na drogach Korony sa pobierane (zwyczaj Starkow) - sprawdzi w ksiegach kasztelana; jesli nie pobierane - to decyzja Krola (regale), nie Skarbnika. Pierwszy BILANS KORONY (cykl ~10. dnia) - 08-10 za VII. ### 08-01: dzis tylko ksiega komory Fosy; BP - Hal ~08-05, Dustinport/przystanie - Garth; clo osobna linia w BILANSIE 08-10 za VII. ### 08-10: w BILANSIE KORONY dzis (Gawen osobiscie, gdy pan przyjmie)."
   },
   {
    "data": "300-07-30",
@@ -12190,6 +12190,15 @@
    "wraca": "300-08-15",
    "zamyka": "liczba korcy i koszt na pismie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-10",
+   "co": "KSIEGA KOMORY BIALEGO PORTU ZA V-VIII DO GAWENA (bilans Korony VII: nie przyszla z bilansem Hala) - Gawen pisze przez Torsena (Faktor BP) i Wymana jako Mistrza Portow; potrzebna do cla jako osobnej linii.",
+   "kto": "GAWEN -> TORSEN (BP)",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-08-25",
+   "zamyka": "ksiega komory BP u Gawena",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -12461,7 +12470,7 @@
     "start": "300-08-10"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": null,
+   "ostatnio_odebrane": "300-08-10",
    "zrodlo": "slowo pana 300-07-30"
   },
   {

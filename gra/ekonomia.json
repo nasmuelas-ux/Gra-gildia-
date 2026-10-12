@@ -916,6 +916,13 @@
    "zrodlo": "rozstrzygniecie pana 300-08-03 (zasada ogolna: kazda zalozona placowka handluje lokalnie od poczatku)",
    "status": "WYKONANE - bilans Hala VII (czytany 08-06), rzut 89",
    "kwota": 347.51
+  },
+  {
+   "data": "300-08-10",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -17.59,
+   "opis": "KOREKTA - welna atelier: licytacja 96,40 zamiast 113,99 (bilans Hala VII pkt 6).",
+   "zrodlo": "bilans_korony_300_07_cykl.md"
   }
  ],
  "_symulacje": {
@@ -1253,6 +1260,20 @@
    "rzut": 45,
    "metoda": "kasa.py KASA 3, okres 07-14..07-31 (18/31 miesiaca), interpolacja (r-1)/99: moneta 455.38, eskorta 51.89, natura 1172.67 (bez 97.56 i 113.99 juz doliczonych: 961.12, 6/10 moneta 576.67, 4/10 kwit 384.45); wydatki 62.2% wplywow (80-40*f) = 1045.30. Garnizon WF/Zimowa Straz - ksiega kasztelana do 07-31, od 08-01 jedna ksiega.",
    "plik": "gra/bilans_korony_300_07.md"
+  },
+  "bilans_300_07_cykl": {
+   "na_dzien": "300-08-10",
+   "plik": "gra/bilans_korony_300_07_cykl.md",
+   "rzut_pasma": 45,
+   "rzut_clo": 14,
+   "wynik_VII_moneta": 788.27,
+   "wplywy_moneta": 2085.38,
+   "wydatki": 1297.11,
+   "naleznosci_przybyle": 807.84,
+   "korekta_welna": -17.59,
+   "moneta_w_skrzyni_07_31_po_korekcie": 2052.61,
+   "clo_fosy_VII_E": 58,
+   "clo_fosy_VI_E": 63
   }
  },
  "_udzialy_wspolnikow": {

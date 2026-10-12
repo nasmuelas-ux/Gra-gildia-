@@ -11758,6 +11758,15 @@
    "wraca": "300-08-15",
    "zamyka": "Torgen przy drzewie na Cyplu, pierwszy meldunek",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-04",
+   "co": "KOLEJNOSC WYPLAT DOMU PRZY BILANSIE VIII (slowo pana 08-04, rada Lucana 08-03 'przed piatym'): (1) WYPLATA VIII DLA WSPOLNIKOW; (2) PAPIERY LWA - skup wstrzymany wola Krola 07-13 do wyjscia garnizonow; jesli ruszy - z tego, co zostanie po (1); nic nie sprzedawac (Lucan); (3) POZYCZKA W MATERIALE DLA CAILIN - z reszty. BUFOR 1000 nietykalny (rozkaz 07-14). Wyrownania wsteczne Ashford/Seagard (+151..+738 netto) - wchodza do wolnej gotowki VIII przed podzialem. List pana do Hala (pieczec domowa) - kruk WF-BP dzis wieczorem; u Hala ~08-06, stosuje przy wyplacie.",
+   "kto": "HAL (wykonanie) ; LUCAN (czyta bilans)",
+   "kanal": "kruk Domu WF-BP",
+   "wraca": "300-08-08",
+   "zamyka": "meldunek Hala: wyplata VIII zrobiona w tej kolejnosci, ile zostalo na (2) i (3)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -305,3 +305,7 @@ Obecni: Król, Namiestnik, Cerwyn. Bors pilnuje drzwi od zewnątrz. Świadek prz
   2. **MONETA („sto smoków rocznie” przez BP):** *„Lord sprzedaje w Białym Porcie skóry i sól za monetę i trzyma tę monetę poza księgą domową, we własnej skrzyni w wieży. Widziałem, jak worki szły na górę. Ile tam jest, tego nie wiem.”* (Rzecz lorda, nie zbrodnia.)
   3. **Pijawki:** *„Lord co tydzień przystawia sobie pijawki, dla zdrowia. Ludzie od tego gadają więcej niż od psów.”* (kanon, bez znaczenia dla sprawy)
   4. *„Reszty nie wiem. Byłem rządcą, nie katem. Ani od tego, co działo się po psiarni, ani od tego, co było przed nią.”*
+- **(cd., pytanie pana: a prawo pierwszej nocy?).** Świadek długo patrzy na pana, potem na Króla.
+  - *„Raz. O ile wiem, raz. Byłem wtedy chłopakiem do pisania kwitów.”* Młynarz znad Płaczącej Wody wziął żonę bez zgody lorda. **Lord kazał go powiesić, a z wdową przespał się tej samej nocy, starym prawem pierwszej nocy.** (kanon: poczęcie Ramsaya; prawo pierwszej nocy zniósł Jaehaerys I)
+  - *„Dziewięć miesięcy później urodził się chłopak. Kiedy podrósł, matka przyszła pod bramę prosić o chleb. Na moim kwicie co miesiąc szedł worek mąki dla młynarzowej, tak długo, aż chłopak przyszedł do zamku na stałe.”* Było to 7–8 lat temu, zgodnie z progiem w księgach z 02-05.
+  - *„Drugiego razu nie widziałem i o nim nie słyszałem. Ale tej jednej nocy nikt nad Płaczącą Wodą nie zapomniał. Dlatego chłopcy mówią na niego bękart młynarzowej, kiedy go nie ma.”*

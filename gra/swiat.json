@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 12,
+  "dzien": 13,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 6 (300-08-12): BARDZO ZLE - nawalnica od zachodu: ulewa, wichura, grzmoty; KRUKI NIE LATAJA; trakty rozmyte.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 7 (300-08-13): BARDZO ZLE - druga doba burzy: ulewa i wichura do poludnia, kruki stoja; po poludniu wiatr slabnie, ptaki ruszaja - poczta z dwoch dni przylatuje wieczorem.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

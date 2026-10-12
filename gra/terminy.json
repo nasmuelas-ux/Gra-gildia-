@@ -12262,6 +12262,24 @@
    "wraca": "300-09-03",
    "zamyka": "pierwszy odpis (VIII) wyslany do Edmure'a",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-13",
+   "co": "SEAGARD - OCZY NA HARLAW (polecenie pana 08-13, po odczycie Lucana): placowka Domu patrzy na Harlaw i Zatoke Zelaznych Ludzi (zagle, kierunek, kiedy, czy Harlaw zbiera okrety); meldunki CO TYDZIEN, przy ruchu od razu. Oslona kupca bez zmian. Wlasni - bez rzutu na wykonanie; odzew Mallisterow/portu - RZUT przy pierwszym meldunku. Pismo: gra/poczta_300_08_13_seagard_flint.md.",
+   "kto": "LUCAN -> placowka Seagard (przez Lymana od Brodow)",
+   "kanal": "kruk Winterfell-Riverrun (wieczorny lot 08-13) + kurier Lymana do Seagard i z powrotem (E ~10-12 dni)",
+   "wraca": "300-08-25",
+   "zamyka": "pierwszy meldunek tygodniowy z Seagard; potem rytm tygodniowy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-13",
+   "co": "LIST NAMIESTNIKA DO FLINTA Z PALCA - OBSERWACJA WEJSCIA DO ZATOKI (polecenie pana 08-13): prosba o patrzenie na zagle od poludnia (Przyladek Krakena, Harlaw); wiesci do Goracego Portu / Fosy, karta ognia wg rozkazu Krola 05-20. Bez stawki Korony (odmowa 05-26). Wola obca - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> FLINT Z PALCA",
+   "kanal": "kruk Winterfell-Fosa (wieczorny lot 08-13) + czlowiek Fosy na Palec i z powrotem (wzor 05-25->06-01)",
+   "wraca": "300-08-20",
+   "zamyka": "odpowiedz Flinta (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

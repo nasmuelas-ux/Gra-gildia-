@@ -335,3 +335,8 @@ Obecni: Król, Namiestnik, Cerwyn. Bors pilnuje drzwi od zewnątrz. Świadek prz
     3. **Służba Korony.** *„Gdyby Korona wzięła go na służbę jako zwykłego włócznika, nie zakładnika, przy jakimś zamku daleko od Płaczącej Wody… W służbie Króla nie odpowiada przed lordem. Wtedy mógłbym mówić mu prawdę po kawałku, przez rok, nie przez jeden wieczór.”* (Zgodne ze słowami Króla z 07-10: *„Syn w służbie Korony nie odpowiada przed Boltonem”*. Odmowa Króla z 07-22 dotyczyła zakładnika żądanego z imienia, a nie zwykłej służby na prośbę samego chłopaka.)
   - Sam zauważa koszt: *„Lord policzy. Rządca nie wrócił, żona nie wróciła, a teraz syn. Wiem. Ale wolę, żeby policzył mnie niż jego.”*
   - Prosi Króla i pana, nie żąda. **Decyzja należy do Króla i pana.**
+- **(cd., pytanie pana: czy Roose Bolton jest w twoim odbiorze sprawiedliwym i dobrym panem; czy jest coś, czego nam jeszcze nie powiedziałeś albo czego się boisz).**
+  - **Sprawiedliwy i dobry:** *„Sprawiedliwy, tak. W czynszu, w sądzie, w miarach. Lepszego rachmistrza nie widziałem. Dobry, nie. Dobry pan zapytałby, do jakich krewnych. A on przewrócił stronę.”*
+  - **Czego jeszcze nie powiedział:** nowych faktów nie dodaje. Mówi tylko o tym, czego się boi: o sobie.
+    *„Boję się, że Korona osądzi i mnie. To moja ręka dziewięć razy napisała «odeszła». Moja ręka zgadzała żelazo pod «naprawy». Moja ręka wypisała kwit na trumnę. Milczałem dwa lata, bo bałem się o swoich. To też jest wina.”*
+  - Pyta wprost Cerwyna, nie Króla: *„Czy list żelazny chroni mnie także przed tym?”*

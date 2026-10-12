@@ -13,7 +13,11 @@ _Podstawa: polityka gospodarcza v3, §N2; Mała Rada 07-26, pkt 5 (rzut 21): **R
 3. **Reprezentować Koronę przy Panu Dorzecza.**
    - Traktat B9, Pakt Obronny, korytarz i most, wymiana jeńców (w tym Harrion), zboże dla straży dróg Edmure'a.
    - Codzienna, spokojna obecność zamiast listów raz w miesiącu.
-4. **Czytać kraj, jawnie.**
+4. **Łączyć w drugą stronę (słowo pana 08-10).**
+   - Każdy z Dorzecza, kto chce się zwrócić do Korony albo do kogoś na Północy, może przyjść do konsulatu: lord, kupiec, rzemieślnik, rodzina szukająca kogoś bliskiego.
+   - Konsulat przyjmuje pismo albo prośbę, wpisuje ją do księgi z datą, wskazuje adresata (urząd Korony, lorda, Dom, kupca, komorę) i wysyła kanałem Korony, a odpowiedź wraca tą samą drogą.
+   - Nie rozstrzyga i nie obiecuje, tylko łączy. Wzór: audiencje na zgłoszenie.
+5. **Czytać kraj, jawnie.**
    - Raport miesięczny tylko z tego, co widać i słychać przy stole i na targu.
    - **Żadnej siatki:** Kancelaria i konsulat nie mieszają się z wywiadem Domu (zasada z 299-09-10, firewall).
 

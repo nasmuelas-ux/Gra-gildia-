@@ -8866,9 +8866,9 @@
    "co": "ODPIS Z GLEBOKORZENIA DLA MAESTRA ORWYNA NA FOSE (rozkaz pana 07-01): z ksiag pogody i swiadectw zim ze zbioru 299-09/10 - TYLKO pogoda i dlugosc zim (filtr Orwyna: bez rachunkow spizarni; bez wiedzy krannogow - granica Reeda). Prosba pana do THEOMORE'A osobiscie w Winterfell (~07-08); odpis robia uczniowie Glebokorzenia; wlasna droga Korony, nie kanalem Cytadeli. ZASADA 8: Theomore postawil 299-09-21 granice wobec Cytadeli - odpis dla maestra Cytadeli moze dac w wyborze albo z warunkiem; to jego prawo jako mistrza Glebokorzenia.",
    "kto": "SYMON -> THEOMORE -> ORWYN",
    "kanal": "osobiscie w Winterfell; odpis jezdzcem/wozem Winterfell-Fosa",
-   "wraca": "300-08-15",
+   "wraca": "300-08-20",
    "zamyka": "odpis u Orwyna albo nazwana przyczyna (warunek Theomore'a)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-07 KARTA III: 2 z 5 ksiag zrobione (Ostatnie Ognisko, Karhold), calosc ~08-20 (E); ksiega pogody Dreadfortu - maester nie odpisal."
   },
   {
    "data": "300-07-01",
@@ -10173,7 +10173,7 @@
    "kanal": "kruk Winterfell-Fosa (07-21 rano)",
    "wraca": "300-08-11",
    "zamyka": "spis + umowy podpisane (RZUT - przyjecie przez wsie)",
-   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34). ### 08-04 ZBIORCZY (RZUT 22, ZLE): spis gotowy (11 wsi, mlyn, rybacy, mysliwi, zbieractwo); umowy - 4 wsie z 11 + mlyn; rybacy z grobli i 2 wsie nad woda ODMAWIAJA ('kupcy z barki placa wiecej niz slup, od reki'); ktos skupuje nadwyzke ponad slup w dni barki. DO SLOWA PANA ### 08-04 POPRAWKA (blad GM, uwaga pana 'jest karta spichlerza - nie mozna sprzedawac zywnosci'): RYBA = zywnosc (Prawo Spichlerza V-quater) - sprzedaz poza targiem powyzej progu NIEWAZNA (kupiec traci), wywoz zywnosci ZAKAZANY od 299-09-09, kupuje tylko Polnoc albo za zgoda Korony; trzcina, sznur, futra, mech - nie zywnosc, handel wolny. Patronat/targ = jedyna wazna droga dla ryby. Patrol Kessela w dni barki (08-03) na tej samej wodzie. Dalej - do slowa pana. ### 08-04 VOID (zasada 45a, slowo pana): 'kupcy z barki ponad slup w dni barki' i zwiazek z przemytem - WYMYSL GM, skreslone. Powod odmowy (rzut 22) - legalny: budowy i domy Cailin kupuja codziennie rybe, trzcine i sznur od reki; wsie nie chca umowy rocznej z zaplata przez ksiege."
+   "status": "otwarte ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34). ### 08-04 ZBIORCZY (RZUT 22, ZLE): spis gotowy (11 wsi, mlyn, rybacy, mysliwi, zbieractwo); umowy - 4 wsie z 11 + mlyn; rybacy z grobli i 2 wsie nad woda ODMAWIAJA ('kupcy z barki placa wiecej niz slup, od reki'); ktos skupuje nadwyzke ponad slup w dni barki. DO SLOWA PANA ### 08-04 POPRAWKA (blad GM, uwaga pana 'jest karta spichlerza - nie mozna sprzedawac zywnosci'): RYBA = zywnosc (Prawo Spichlerza V-quater) - sprzedaz poza targiem powyzej progu NIEWAZNA (kupiec traci), wywoz zywnosci ZAKAZANY od 299-09-09, kupuje tylko Polnoc albo za zgoda Korony; trzcina, sznur, futra, mech - nie zywnosc, handel wolny. Patronat/targ = jedyna wazna droga dla ryby. Patrol Kessela w dni barki (08-03) na tej samej wodzie. Dalej - do slowa pana. ### 08-04 VOID (zasada 45a, slowo pana): 'kupcy z barki ponad slup w dni barki' i zwiazek z przemytem - WYMYSL GM, skreslone. Powod odmowy (rzut 22) - legalny: budowy i domy Cailin kupuja codziennie rybe, trzcine i sznur od reki; wsie nie chca umowy rocznej z zaplata przez ksiege. ### 08-07 SLOWO PANA: PATRONAT TO NIE SKUP. Wsiom, ktore odmowily umowy rocznej (rybacy, 2 wsie nad woda i reszta z 11), FOSA PROPONUJE ZAKUP KOZ I NARZEDZI - zeby zwiekszyc ich potencjal produkcyjny. Ilu, jakich, jakie narzedzia - soltysi mowia, Warryn liczy (Kasa 2, zasada 43). List do Garricka - kruk WF-Fosa 08-07 przed poludniem (u Garricka ~08-09). Przyjecie przez wsie (wolni ludzie) - RZUT przy meldunku Garricka."
   },
   {
    "data": "300-07-21",
@@ -10695,7 +10695,7 @@
    "kanal": "kruk BP",
    "wraca": "300-08-15",
    "zamyka": "dwa nazwiska u Krola",
-   "status": "otwarte"
+   "status": "otwarte ### 08-07 KARTA III THEOMORE: wskazuje ULLE KORE (lacznosc - krukarnia Glebokorzenia) i TOMASA SZNURA (infrastruktura - mosty i groble); do Rady przez Luwina (Mistrz Nauki)."
   },
   {
    "data": "300-07-26",

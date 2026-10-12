@@ -51,3 +51,24 @@
 - **300-05-30 ROZKAZ PANA: wszystkie księgi z Białego Portu jadą do Wieży Strażniczej** (Hal, wozem Domu przez Cerwyn, ~06-10/12). Z atelier (nr 8, 9) przyjadą **odpisy**, oryginały zostają przy szwaczkach (prośba Miry).
 - Odpis *Zielnika* dla lecznicy Niny: do skryptorium na Fosie, gdy ruszy (~06-20/22).
 - Ten spis jest zalążkiem katalogu biblioteki na III piętrze. Księgi z zamówienia przez Hala i Nestę (lista Luwina, pięć działów) dojdą jako księgi rodziny albo Korony, zależnie od tego, kto zapłaci.
+
+---
+
+## V. KSIĘGI DOMU (Kasa 1) W WIEŻY STRAŻNICZEJ — zakupy z listy Luwina (spis odrębny od rodzinnego, dopisany 300-08-06)
+*Własność Domu, nie rodziny. Oryginały stoją w bibliotece Wieży. Każda księga z działu URZĄD dostaje odpis dla Fosy (kopiują pisarze szkoły pod okiem Miry, dniówka z Kasy 2). Tytuły oznaczone E zostały uzupełnione przez prowadzącego 08-06; zapis z 07-09 podawał tylko „sześć tytułów”.*
+
+| # | tytuł | dział Luwina | skąd | gdzie | |
+|---|---|---|---|---|---|
+| D1 | **Prawa i zwyczaje portów Wolnych Miast** (cła, ładunki, awaria wspólna) | URZĄD: prawo | Hal, BP, statki VI | Wieża, od ~07-13 | E |
+| D2 | **O mostach i śluzach**, odpis pentoski z tradycji valyriańskiej | URZĄD: budowanie i woda | Hal, VI | Wieża | E |
+| D3 | **Herbarz i opatrywanie ran**, odpis maesterski ze Starego Miasta | URZĄD: zioła i leczenie | Hal, VI | Wieża | E |
+| D4 | **Genealogie rodów Północy**, odpis niepełny | DOM: dzieje i rody | Hal, VI | Wieża | E |
+| D5 | **Portolan Morza Wąskiego** (wybrzeża, przystanie, prądy) | URZĄD: żegluga | Hal, VI | Wieża | E |
+| D6 | **Rachunek i miary kupieckie Pentos** | URZĄD: rachunek | Hal, VI | Wieża | E |
+| D7 | **Kroniki Westerosu od Podboju**, tomy I–II | DOM: dzieje | Hal, VII | wóz Domu, WF ~08-12 | E |
+| D8 | **Budowa statków kupieckich**, podręcznik braawijski (odpis) | URZĄD: żegluga i statki | Hal, VII | wóz ~08-12 | E |
+| D9 | **O osuszaniu bagien i rowach odwadniających**, z Reach | URZĄD: budowanie i woda | Hal, VII | wóz ~08-12 | E |
+| D10 | **Prawo kupieckie Starego Miasta** | URZĄD: prawo | Hal, VII | wóz ~08-12 | E |
+| D11 | **Mapy wybrzeży Westerosu**, atlas żeglarski | DOM: podróże i mapy | Hal, VII | wóz ~08-12 | E |
+| N1–N7 | **7 tytułów kupionych przez Nestę w Braavos** (rzut 30), m.in. *Dzieje Pierwszych Ludzi* w całości oraz *Kodeks Morskiego Lorda* | różne | Nesta, VII | statek do BP ~IX | E |
+| N8–N9 | **2 drogie tytuły** (słowo pana 08-06: brać) | różne | Nesta | później | |

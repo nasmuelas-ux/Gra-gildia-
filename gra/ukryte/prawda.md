@@ -340,3 +340,11 @@ Obecni: Król, Namiestnik, Cerwyn. Bors pilnuje drzwi od zewnątrz. Świadek prz
   - **Czego jeszcze nie powiedział:** nowych faktów nie dodaje. Mówi tylko o tym, czego się boi: o sobie.
     *„Boję się, że Korona osądzi i mnie. To moja ręka dziewięć razy napisała «odeszła». Moja ręka zgadzała żelazo pod «naprawy». Moja ręka wypisała kwit na trumnę. Milczałem dwa lata, bo bałem się o swoich. To też jest wina.”*
   - Pyta wprost Cerwyna, nie Króla: *„Czy list żelazny chroni mnie także przed tym?”*
+- **(cd., pan oddaje głos Królowi. KRÓL mówi i pyta; bez rzutu, ta sama rozmowa, rzut 79.)**
+  - **Król o winie świadka** (jego słowo, w granicach listu żelaznego z 07-10): *„Przyszedłeś sam, zanim ktokolwiek po ciebie przyszedł. Tak nie robi wspólnik. Pisałeś pod nożem, nie dla zysku. Za to, co napisałeś ze strachu i co dziś powiedziałeś, nie odpowiesz przed moim sądem. To jest moje słowo, nie łaska.”* Cerwyn dodaje sucho, jak sędzia: *„List żelazny chroni świadka przed tym, co jego słowa otwierają. Przymus jest okolicznością, nie zbrodnią.”*
+  - **K1, „Dwudziestu pod bękartem na moim okręcie. Kogo poza nim mam pilnować?”** Świadek: *„Obdzieracza. Robi to, co bękart pomyśli, zanim ten zdąży powiedzieć. I Bena Kości, bo psy słuchają jego, nie bękarta.”* (kanon, bez dowodów)
+  - **K2, „Jak przyjmie mnie Roose w Dreadforcie?”** *„Jak pan. Będzie stół, sól i chleb, i nic przy gościach. Lord niczego nie robi przy ludziach. Przy ludziach jest najlepszym gospodarzem na Północy.”*
+  - **K3, „Czy Roose wie, gdzie jesteś?”** *„Wie, że jestem w Białym Porcie u siostry żony. Tak mówi pozór. Jeśli posłał kogoś sprawdzić, to ten ktoś jeszcze nie wrócił.”* (Ochrona Borsa od 07-31: nikt obcy nie pytał, zob. karta Borsa)
+  - **K4, „Gdybym kazał bękartowi zostać na brzegu w Boltonsgate?”** *„Uśmiechnąłby się, ukłonił i zapamiętał. Na zawsze.”*
+  - **K5, o synu:** *„Gdyby twój syn był wśród dwudziestu, poznałby Cerwyna albo kogoś, kto cię zna?”* Świadek: *„Cerwyna nie. Na mediacji go nie było. Ale mnie by poznał z daleka. Dlatego nie mogę stać przy żadnym porcie, przez który wy przepływacie.”*
+  - Król nic nie postanawia przy świadku. Mówi tylko: *„Twój syn nie stanie przy bękarcie na żadnym okręcie, na którym ja jestem. Reszta to sprawa moja i Namiestnika.”*

@@ -12082,6 +12082,15 @@
    "wraca": "300-08-12",
    "zamyka": "odpowiedz faktora: ile wiecej i kiedy",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-08",
+   "co": "JENCY Z MORZA DO THEONA (slowo pana 08-08): kazdy zelazny wziety zywcem na zachodnim brzegu (ranny, maruder, rozbitek) - NAJPIERW do Theona w Dustinporcie, zywy, opatrzony; rozmowa przy ogniu, bez tortur; dalej wg Kodeksu i rozkazu Namiestnika. Rozkaz do: TORREN (pismo w reku Theona), CORWIN (kruk WF-Deepwood + jezdziec Robetta), HENDRY (kruk WF-Fosa), ROBETT GLOVER (lancuch ognia, kruk). Wlasni - bez rzutu; co powiedza jency - RZUT przy meldunku Theona.",
+   "kto": "THEON ; TORREN ; CORWIN ; HENDRY ; ROBETT GLOVER",
+   "kanal": "pismo + kruki z WF",
+   "wraca": "300-08-15",
+   "zamyka": "potwierdzenia rozkazu (karta Theona 08-15)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

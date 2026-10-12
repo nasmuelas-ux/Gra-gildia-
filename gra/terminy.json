@@ -9109,9 +9109,9 @@
    "co": "WALDA BOLTON - POROD (maester Dreadfortu: 'przed zima', ~IX/X) - OBAWY O DZIEDZICA (odczyt Sansy: dzien porodu najniebezpieczniejszy na Dreadforcie; klauzula prawego loza przeciw Ramsayowi). SLOWO PANA 07-10: (1) Ramsay na czele dwudziestu na Skagos - do Krola; (2) NIC BEZ ZGODY BOLTONA - zadnej poloznej, maestra ani listu Krolowej do Waldy z oferta pomocy, zanim Roose sie nie zgodzi; (3) KROL PRZY WIZYCIE W DREADFORCIE (~08-14) PYTA ROOSE'A PRYWATNIE: czy Walda chce rodzic w Winterfell ('o kazdej porze dnia i nocy' - 05-10) albo czy przyjmie polozna/maestra od Korony. Wola Roose'a - RZUT przy rozmowie.",
    "kto": "KROL -> ROOSE (prywatnie, przy wizycie)",
    "kanal": "osobiscie, Dreadfort",
-   "wraca": "300-08-14",
+   "wraca": "300-08-16",
    "zamyka": "odpowiedz Roose'a: Winterfell / pomoc Korony / nic",
-   "status": "otwarte"
+   "status": "otwarte ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - Krol wyplynal z BP porannym odplywem 08-13/14; rozmowa z Roose'em przy postoju w Dreadforcie (~08-14/15), list Krola krukiem ~08-16 (zasada 34). Rzut przy liscie."
   },
   {
    "data": "300-07-10",
@@ -9174,7 +9174,7 @@
    "kanal": "jezdziec Winterfell-Fosa-Przesmyk-Riverrun (~10-12 dni) i z powrotem",
    "wraca": "300-08-14",
    "zamyka": "spis Lymana + pierwsze zamowienia (albo odmowy)",
-   "status": "otwarte ### 08-05: jezdziec Lymana z Riverrun - przez Fose (~10-12 dni); brak wiesci; ~08-12. ### 08-12: NAWALNICA (pogoda 6) - trakty rozmyte, jezdzcy staja; wiesc ~08-14."
+   "status": "ZAMKNIETE 300-08-14 - JEZDZIEC LYMANA (przez Fose, po burzy; RZUT 40, JEDNA KONSEKWENCJA): spis ~14 domow Dorzecza ze spalonymi mlynami i kuzniami (E); PIEC pierwszych zamowien - zelazo, gwozdzie, 2 kamienie mlynskie, ciesle (E); KONSEKWENCJA: wszyscy chca placic WEKSLEM LORDA na rok, nie zbozem (zboze po chudych zniwach na zime) - ryzyko kredytu po stronie Kompanii. DO SLOWA PANA: przyjac weksle czy zadac czesci w zbozu. ### poprzednio: otw. ### 08-05: jezdziec Lymana z Riverrun - przez Fose (~10-12 dni); brak wiesci; ~08-12. ### 08-12: NAWALNICA (pogoda 6) - trakty rozmyte, jezdzcy staja; wiesc ~08-14."
   },
   {
    "data": "300-07-11",
@@ -10542,7 +10542,7 @@
    "kanal": "rozkaz ustny; meldunek co tydzien jezdzcem",
    "wraca": "300-08-14",
    "zamyka": "pierwszy meldunek tygodniowy",
-   "status": "otwarte ### 08-01: meldunek tygodniowy jezdzca - bez zmian (szostka stoi przy slupach do przejecia przez Hornwood 08-12). ### 08-12: NAWALNICA (pogoda 6) - trakty rozmyte, jezdzcy staja; wiesc ~08-14."
+   "status": "ZAMKNIETE 300-08-14 - linia przekazana Hornwoodowi 08-12 (rzut 58, meldunek mierniczego 08-13); szostka schodzi, wraca do WF ~08-15 (kwatery - ser Rodrik). ### poprzednio: otw. ### 08-01: meldunek tygodniowy jezdzca - bez zmian (szostka stoi przy slupach do przejecia przez Hornwood 08-12). ### 08-12: NAWALNICA (pogoda 6) - trakty rozmyte, jezdzcy staja; wiesc ~08-14."
   },
   {
    "data": "300-07-24",
@@ -10900,9 +10900,9 @@
    "co": "POSLANCY KORONY DO KLANOW GOR (Wull, Norrey, Liddle, Flint, Burley, Harclay) - ustnie, zdanie klanow o wolnych ludziach; po jednym posle na klan. Odpowiedz ustnie - rzut przy powrocie.",
    "kto": "kancelaria Namiestnika (poslancy Korony, E)",
    "kanal": "jezdzcy, ustnie",
-   "wraca": "300-08-14",
+   "wraca": "300-08-16",
    "zamyka": "zdania szesciu klanow",
-   "status": "otwarte ### 08-10: poslancy (wyjazd 07-27) jeszcze nie wrocili - drogi gorskie, deszcz (pogoda 21); powrot ~08-12..16, rzut przy powrocie."
+   "status": "otwarte ### 08-10: poslancy (wyjazd 07-27) jeszcze nie wrocili - drogi gorskie, deszcz (pogoda 21); powrot ~08-12..16, rzut przy powrocie. ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - dwie doby burzy (pogoda 6, 7): gorskie potoki wezbrane, brody nieprzejezdne; poslancy ~08-16 (zasada 34). Rzut przy powrocie."
   },
   {
    "data": "300-07-26",
@@ -11458,9 +11458,9 @@
    "co": "WYPLATA VIII DLA WSPOLNIKOW DOMU (rozkaz 07-14: co miesiac ponad bufor 1000, po bilansie; udzialy Symon 1/3, Nesta 1/3, Hal 1/6, Mira 1/6) - Tam liczy, Hal wyplaca; do SKARBCA RODU (rubryki Symona i Miry) wg kwitu - wpis do KSIEGI MAJATKU RODU. Dlug Miry wobec szkatuly - rozliczyc z Mira przy tej wyplacie.",
    "kto": "TAM + HAL ; SYMON (ksiega rodu)",
    "kanal": "bilans Hala ~08-05; kwity",
-   "wraca": "300-08-14",
+   "wraca": "300-08-15",
    "zamyka": "kwoty wyplaty VIII w ksiedze rodu",
-   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): PROPOZYCJA HALA: (a) TERAZ wyplacic dokladnie wyrownania wsteczne 673,41 (moneta, nie model) - Tam: Symon 224,47, Nesta 224,47, Hal 112,24, Mira 112,24; (b) reszta VIII po bilansie sierpnia (~09-05) wg 40%. DO SLOWA PANA. Dlug Miry wobec szkatuly - przy wyplacie. ### 08-06 WIECZOR SLOWO PANA: TAK wg propozycji Hala: (a) TERAZ 673,41 - Symon 224,47, Nesta 224,47, Hal 112,24, Mira 112,24 (czesc Symona i Miry do odebrania w faktorii ZM z wyrownaniem od Hala albo w BP - wpis do ksiegi majatku rodu przy odbiorze); (b) reszta VIII po bilansie sierpnia (~09-05) wg 40% wolnej. Dlug Miry wobec szkatuly - przy odbiorze. ### 08-09: kanal - meldunek Hala o wyplacie (kruk BP->WF ~08-11); dzis nic nie przyszlo (zasada 34). ### 08-11: MELDUNEK HALA 08-11: wyplata (a) 673,41 WYKONANA - Nesta i Hal w BP; czesci Symona (224,47) i Miry (112,24) przekazem Domu do FAKTORII ZM - do odbioru od ~08-14 (woz Domu z BP, E); wpis do ksiegi majatku rodu przy odbiorze; dlug Miry wobec szkatuly - rozliczyc z Mira przy odbiorze."
+   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): PROPOZYCJA HALA: (a) TERAZ wyplacic dokladnie wyrownania wsteczne 673,41 (moneta, nie model) - Tam: Symon 224,47, Nesta 224,47, Hal 112,24, Mira 112,24; (b) reszta VIII po bilansie sierpnia (~09-05) wg 40%. DO SLOWA PANA. Dlug Miry wobec szkatuly - przy wyplacie. ### 08-06 WIECZOR SLOWO PANA: TAK wg propozycji Hala: (a) TERAZ 673,41 - Symon 224,47, Nesta 224,47, Hal 112,24, Mira 112,24 (czesc Symona i Miry do odebrania w faktorii ZM z wyrownaniem od Hala albo w BP - wpis do ksiegi majatku rodu przy odbiorze); (b) reszta VIII po bilansie sierpnia (~09-05) wg 40% wolnej. Dlug Miry wobec szkatuly - przy odbiorze. ### 08-09: kanal - meldunek Hala o wyplacie (kruk BP->WF ~08-11); dzis nic nie przyszlo (zasada 34). ### 08-11: MELDUNEK HALA 08-11: wyplata (a) 673,41 WYKONANA - Nesta i Hal w BP; czesci Symona (224,47) i Miry (112,24) przekazem Domu do FAKTORII ZM - do odbioru od ~08-14 (woz Domu z BP, E); wpis do ksiegi majatku rodu przy odbiorze; dlug Miry wobec szkatuly - rozliczyc z Mira przy odbiorze. ### 08-14: PRZEKAZ W FAKTORII ZM - woz Domu z BP dojechal mimo blota (wlasni, zasada 7); czesci Symona 224,47 i Miry 112,24 czekaja do odbioru za kwitem (Mira jest dzis w ZM ze szkola). Wpis do ksiegi majatku rodu i dlug Miry - przy odbiorze."
   },
   {
    "data": "300-08-02",
@@ -12352,6 +12352,15 @@
    "wraca": "300-08-14",
    "zamyka": "rozmowa Catelyn z Arya odbyta; slowo Catelyn (do Namiestnika, jesli zechce)",
    "status": "ZAMKNIETE 300-08-13 - VOID (blad GM, wskazanie pana): rzut 1 dotyczyl TYLKO woli Meery (czy uczy Arye); pojscie Meery do Catelyn, wiedza Catelyn o radzie Namiestnika i wezwanie Aryi - dopisane ponad rzut, bez podstawy w zapisie (zasady 27, 45). Nie bylo. ### poprzednio: otw."
+  },
+  {
+   "data": "300-08-14",
+   "co": "KOMPANIA - WEKSLE LORDOW DORZECZA ZA ODBUDOWE (spis Lymana 08-14, rzut 40): piec zamowien, wszyscy chca placic wekslem lorda na rok zamiast zbozem. Do slowa pana: przyjac weksle / zadac czesci w zbozu / zastaw. Lucan czyta z panem.",
+   "kto": "SYMON (+ LUCAN, HAL)",
+   "kanal": "Winterfell",
+   "wraca": "300-08-16",
+   "zamyka": "slowo pana do Lymana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -12486,7 +12495,7 @@
     "dzien_miesiaca": 8
    },
    "opoznienie": 6,
-   "ostatnio_odebrane": "300-07-08",
+   "ostatnio_odebrane": "300-08-08",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {

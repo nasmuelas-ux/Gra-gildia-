@@ -7513,9 +7513,9 @@
    "co": "SPIS LETNI CAILIN (propozycja Herwina 06-19): po sianokosach, dymy i dusze imiennie - Mella (przybysze) + Alys (lenno) + pisarz grodzki; ostatni spis 02-25 (~1400 + ~400 przybyszow). Wlasni + miasto - bez rzutu.",
    "kto": "HERWIN + MELLA + ALYS",
    "kanal": "na miejscu",
-   "wraca": "300-08-07",
+   "wraca": "300-08-11",
    "zamyka": "liczba dusz i dymow na slupie",
-   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): polowa ulic spisana (E); koniec ~08-05."
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): polowa ulic spisana (E); koniec ~08-05. ### 08-07 RANEK: NIE PRZYSZLO I WIADOMO DLACZEGO - liczenie na Fosie, pan w WF; wynik w zbiorczym Garricka (~08-11) (zasada 34)."
   },
   {
    "data": "300-06-19",
@@ -9336,7 +9336,7 @@
    "kanal": "osobiscie, Winterfell",
    "wraca": "300-08-07",
    "zamyka": "pierwsza karta szkoly ZM od Miry",
-   "status": "otwarte ### 07-31: MIRA ZACZYNA DZIS RANO (dwa ranki w tygodniu; sama, z Rhona przy Lyrze) - pierwsza karta szkoly ZM od Miry ~08-07."
+   "status": "otwarte ### 07-31: MIRA ZACZYNA DZIS RANO (dwa ranki w tygodniu; sama, z Rhona przy Lyrze) - pierwsza karta szkoly ZM od Miry ~08-07. ### 08-07 RANEK: Mira idzie dzis rano do szkoly ZM (drugi tydzien); pierwsza KARTA SZKOLY ZM - Mira pisze po powrocie, panu wieczorem."
   },
   {
    "data": "300-07-11",
@@ -10812,7 +10812,7 @@
    "kanal": "kruk WF->Barrowton + jezdziec",
    "wraca": "300-08-07",
    "zamyka": "Theon w Winterfell",
-   "status": "otwarte"
+   "status": "otwarte ### 08-07 RANEK: GONIEC Theona o swicie przy bramie (pogoda 86, trakt suchy): Theon z Barrowton, przy bramie ~poludnie (E). Wlasny czlowiek Korony - bez rzutu."
   },
   {
    "data": "300-08-10",
@@ -11197,9 +11197,9 @@
    "co": "POMYSL (pan, 07-30): ZWIAZAC THEONA GREYJOYA Z POLNOCA PRZEZ MALZENSTWO. Odczyt Catelyn: sens, jesli Theon nie siadzie na Pyke (inaczej corka lorda to zakladniczka na wyspach); domy mozliwe - Gloverowie albo Tallhartowie (corki male - zareczyny, nie slub); NIE Mormontowie ani Umberowie; Theon musi chciec ('tylko to, co wyglada jak wybor'); zapytac Robba. NIC NIE POSTANOWIONE - pomysl zachowany. Okazja: Theon w Winterfell ~08-07.",
    "kto": "KROL (rozmowa z Theonem ~08-07) ; SYMON (pomysl) - po IX",
    "kanal": "osobiscie",
-   "wraca": "300-08-07",
+   "wraca": "300-09-30",
    "zamyka": "rozmowa z Krolem o Theonie albo pomysl odlozony",
-   "status": "otwarte ### 07-31 KROL (rzut 30 - jedna konsekwencja): TAK co do kierunku, NIE TERAZ - zareczyny syna Balona z corka lorda zachodu w roku, gdy zelazni licza brzeg, Pyke przeczyta jako zabranie syna na zawsze (moze przyspieszyc uderzenie); po jesieni (koniec IX). ~08-07 KROL rozmawia z Theonem SAM, jak przyjaciel, bez propozycji - wybada, czego Theon chce."
+   "status": "otwarte ### 07-31 KROL (rzut 30 - jedna konsekwencja): TAK co do kierunku, NIE TERAZ - zareczyny syna Balona z corka lorda zachodu w roku, gdy zelazni licza brzeg, Pyke przeczyta jako zabranie syna na zawsze (moze przyspieszyc uderzenie); po jesieni (koniec IX). ~08-07 KROL rozmawia z Theonem SAM, jak przyjaciel, bez propozycji - wybada, czego Theon chce. ### 08-07 RANEK: KROL W DRODZE (barka do BP 08-06, potem morze) - rozmowa Krola z Theonem w WF NIE MOZE SIE ODBYC. Pomysl stoi (po IX); czy pan przejmuje rozmowe \"jak przyjaciel\" bez propozycji - do slowa pana."
   },
   {
    "data": "300-07-30",
@@ -11424,7 +11424,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-07",
    "zamyka": "zadanie oddane",
-   "status": "otwarte ### 08-03: ODROBIONE (rzut 100) - tabela czysta + kolumna \"jak poznac klase\" (regula samogloski rdzenia, E). Do oceny Luwina wt. 08-05 (jesli pan w zamku). ### 08-04: pan jedzie 08-05 z Krolem do Przystani Wilka - LEKCJA HV PRZESUNIETA na powrot (~08-07); praca domowa gotowa (rzut 100)."
+   "status": "otwarte ### 08-03: ODROBIONE (rzut 100) - tabela czysta + kolumna \"jak poznac klase\" (regula samogloski rdzenia, E). Do oceny Luwina wt. 08-05 (jesli pan w zamku). ### 08-04: pan jedzie 08-05 z Krolem do Przystani Wilka - LEKCJA HV PRZESUNIETA na powrot (~08-07); praca domowa gotowa (rzut 100). ### 08-07 RANEK: lekcja u Luwina dzis po poludniu (Luwin przy kolacji 08-06); zadanie gotowe (rzut 100)."
   },
   {
    "data": "300-08-02",
@@ -11494,9 +11494,9 @@
    "co": "LIST NAMIESTNIKA DO EDMURE'A (po poludniu 08-02): pierscien przy Maidenpool przerzedzony (zniwa) - niech WZMOCNI STRAZE PRZY GARNIZONACH WLASNYMI ODDZIALAMI Riverrun, nie poborem lordow; przed 08-05 i na czas oblezenia (ultimatum Krola w drodze). Odzew Edmure'a - RZUT przy wiesci.",
    "kto": "SYMON -> EDMURE",
    "kanal": "kruk Winterfell-Riverrun",
-   "wraca": "300-08-07",
+   "wraca": "300-08-12",
    "zamyka": "odpowiedz Edmure'a / straze wzmocnione",
-   "status": "otwarte"
+   "status": "otwarte ### 08-07 RANEK: NIE PRZYSZLO I WIADOMO DLACZEGO - kruk WF-Riverrun 5 dni: list z 08-02 u Edmure'a dzis; odpowiedz najwczesniej ~08-12 (zasada 34)."
   },
   {
    "data": "300-08-02",
@@ -11838,7 +11838,7 @@
    "kanal": "kruki z Winterfell do lordow wschodu",
    "wraca": "300-08-07",
    "zamyka": "listy wyslane; potem odpowiedzi i ludzie na brzegu",
-   "status": "otwarte"
+   "status": "otwarte ### 08-07 RANEK: DZIS - listy regenta: Beron pisze (jeden tekst, slowo w slowo), Rodrik przy rozdziale (prosil 08-06), Gawen - zold; pieczec regencji, podpis pana imieniem Krola. Do slowa pana co do pory."
   },
   {
    "data": "300-08-06",

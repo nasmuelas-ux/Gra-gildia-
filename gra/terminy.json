@@ -11946,7 +11946,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-12",
    "zamyka": "zadanie oddane",
-   "status": "otwarte ### 08-12: praca gotowa (08-09, rzut 63) - oddanie na lekcji 7 dzis wieczorem."
+   "status": "ZAMKNIETE 300-08-12 - oddane na lekcji 7 (czyste); lekcja 7 rzut 35 - jedna konsekwencja ### poprzednio: otw. ### 08-12: praca gotowa (08-09, rzut 63) - oddanie na lekcji 7 dzis wieczorem."
   },
   {
    "data": "300-08-07",
@@ -12235,6 +12235,15 @@
    "wraca": "300-08-12",
    "zamyka": "zastepstwo na drugi ranek ustalone albo odmowa",
    "status": "ZAMKNIETE 300-08-12 - CATELYN TAK (rzut 75): jeden ranek w tygodniu od ~08-24 do powrotu Miry; czwartek 08-14 - pierwsza wizyta z Mira ### poprzednio: otw."
+  },
+  {
+   "data": "300-08-12",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 08-15 (po lekcji 7, rzut 35): w paragrafie prawa morskiego kazde zdanie 'jesli... to...' rozbic na dwie czesci, zaznaczyc tryb (warunkowy / skutkowy), przetlumaczyc tylko czesc 'jesli'. Lekcja 8 wieczorem u Luwina.",
+   "kto": "SYMON (nauka wlasna) -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-08-15",
+   "zamyka": "zadanie oddane na lekcji 8",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

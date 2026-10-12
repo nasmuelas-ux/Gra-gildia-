@@ -12064,6 +12064,15 @@
    "wraca": "300-09-01",
    "zamyka": "karta Willi",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-08",
+   "co": "LANNISTEROWIE - GDZIE SA I CO ROBIA (rozkaz pana 08-08): Jaime, Cersei, Tyrion, Kevan, Tommen, Myrcella (+ Lancel, inni kuzyni, jesli sie trafia) - miejsce i zajecie dzis. LINIA WILLI (szyfr Lucana): uspieni w KP (przeglad zlecony 08-03, ~08-26; uwaga - milcza od 07-10), Poslancy Poludnia (od 09-01), nasluch Lannisportu przez Seagard; sluchac, nie pytac. Odpowiedz - RZUT przy karcie/przegladzie.",
+   "kto": "LUCAN -> WILLA",
+   "kanal": "kruk Domu WF-Fosa (szyfr)",
+   "wraca": "300-09-01",
+   "zamyka": "karta Willi z rubryka 'Lannisterowie - gdzie i co'",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

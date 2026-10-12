@@ -11767,6 +11767,42 @@
    "wraca": "300-08-08",
    "zamyka": "meldunek Hala: wyplata VIII zrobiona w tej kolejnosci, ile zostalo na (2) i (3)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-05",
+   "co": "SYN SWIADKA - SLUZBA KORONY NA CYPLU, gdy przyjedzie (slowo pana + Krol, Przystan Wilka 08-05; ukryte/prawda.md): zwykly wlocznik wsrod 20 z WF przy Torgenie (Benfred), zold Korony; nie zakladnik. Warunek: syn przyjezdza na urlop po liscie od ciotki (list - pozniej).",
+   "kto": "SWIADEK (ojciec) ; TORGEN / BENFRED ; Krol + pan",
+   "kanal": "ustnie przez Borsa / Torgen",
+   "wraca": "300-09-15",
+   "zamyka": "syn w sluzbie Korony na Cyplu albo decyzja inna",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-05",
+   "co": "LIST OJCA DO SYNA ('od ciotki z BP') - ODLOZONY (slowo pana 08-05): wyslac, gdy minie czas, by nikt nie zestawil znikniecia rodziny z urlopem syna. Wrocic po Skagos.",
+   "kto": "SYMON ; BORS -> ojciec",
+   "kanal": "ustnie przez Borsa",
+   "wraca": "300-09-15",
+   "zamyka": "decyzja: wyslac teraz / pozniej",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-05",
+   "co": "ZIMOWA STRAZ - DYSKRETNIE O CHLOPCACH BEKARTA (slowo pana, Krol): Krol mowi SER ALYNOWI dwa przezwiska - Obdzieracz i Ben Kosci - bez wyjasnien; reszta strazy - zwyczaj przy obcych zbrojnych (07-11). Na okrecie od Boltonsgate (~08-14).",
+   "kto": "KROL -> SER ALYN",
+   "kanal": "ustnie, w drodze",
+   "wraca": "300-08-12",
+   "zamyka": "Alyn wie (przed zaladunkiem w BP)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-05",
+   "co": "DREADFORT ~08-14 - KROL PYTA O LADY WALDE I ZAPRASZA: lady Walda i dziecko mile widziani w Winterfell o kazdej porze dnia i nocy - przy stole, przy ludziach (slowo pana, Krol 08-05). Odpowiedz/reakcja Roose'a - RZUT przy wiesci (przez Wymana/BP).",
+   "kto": "KROL",
+   "kanal": "osobiscie w Dreadforcie; wiesc krukiem z BP",
+   "wraca": "300-08-18",
+   "zamyka": "zaproszenie wypowiedziane, reakcja Roose'a",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

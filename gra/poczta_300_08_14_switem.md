@@ -24,3 +24,34 @@ Decyzja zapada **po odpowiedzi z Reach (~08-25)**, przed terminem faktora (~09-1
 
 ## 5. WOŁY: PYTANIE PANA
 „Jeden Wół i jeden okręt Korony w Białym Porcie?” List Wymana mówi tylko „albo dwa Woły, albo okręt Korony”. Nie mówi, czy jeden Wół zmieści się obok okrętu. **Pytanie nie wyszło. Czeka na słowo pana, czy pytać** (Hal → stocznia Wymana).
+
+---
+## 6. DO HALA, WOŁY (pieczęć Domu; kruk Domu WF → BP o świcie; słowo pana 08-13 wieczorem)
+> Hal,
+>
+> zapytaj stocznię Wymana, czy po jesiennych wodowaniach zmieści **jednego Wołu obok okrętu Korony Wzoru II**: na sąsiedniej pochylni albo jeden po drugim, i w jakim terminie. Drugi Wół szedłby wtedy do Braavos, gdzie stocznia trzyma miejsce. Odpisz krukiem.
+
+_Wola stoczni (Wyman), RZUT przy odpowiedzi (~08-16/17)._
+
+## 7. DO WARRYNA I GERRIKA (pieczęć lorda Fosy; kruk WF → Fosa, odpis dla Garricka). PODLICZENIE LENNA
+> Warryn, Gerrik,
+>
+> **wszystkie sprawy lenna z ostatnich tygodni podliczyć i dookreślić na jednej karcie.** Przy każdej pozycji: **co dokładnie** (ilości), **kto robi**, **od kiedy do kiedy**, **ile kosztuje według księgi i słupa**, **z jakiej kasy** (Kasa 2, a co ma zwrot z Kasy 3, to osobno). Na końcu: **stan Kasy 2 po tym wszystkim** i czego nie da się udźwignąć.
+>
+> 1. **Patronat:** ok. 40 kóz, sieci i więcierze, kosy, sierpy, siekiery, dwa kamienie żarnowe. Także dla czterech wsi z umową i młyna.
+> 2. **Rozładunek zboża w GP w IX–X:** wsie na dniówkę. Ile rąk, ile dni na statek, stawka ze słupa.
+> 3. **Premia na start dla dwóch piszących** (sąd i brama).
+> 4. **Wieża Morska:** ok. 120 pali dębowych, ścinka i spław, kafar, wbijanie.
+> 5. **Wikt dla 50 z Winterfell** przez 6 tygodni, ze zwrotem z Kasy 3.
+> 6. **Kuźnia z odlewnią:** wkład lenna, cała wycena.
+> 7. **Warsztat kuszniczy:** działka (zapłacona), budynek, narzędzia, ludzie.
+> 8. **Kusze Jastrzębi:** żelazo z magazynu Domu w Barrowton po słupie.
+> 9. **Zakupy Kessela** z delegacji stałej (łodzie, kusze, rogi, przystanie).
+> 10. **Gorący Port:** mur, blokady, paliwo na ogień co noc, straż 30.
+> 11. **Ćwiczenia ruszenia od IX:** czy coś kosztują (wikt, dniówka).
+>
+> Kwot nie zgadywać, tylko z ksiąg. Czego księga jeszcze nie ma, wpisać jako „nie wiadomo” z datą, kiedy będzie.
+>
+> — Symon Tally, lord Fosy Cailin
+
+_Własni, bez rzutu. Karta przychodzi razem ze zbiorczym Garricka (pisany 08-17, w Winterfell ~08-19)._

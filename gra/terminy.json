@@ -10686,7 +10686,7 @@
    "kanal": "kruk BP / lancuch maesterski",
    "wraca": "300-09-01",
    "zamyka": "tekst Theomore'a + odpowiedz Cytadeli (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-07 PAN PYTA O CELIBAT: Z ZAPISU - NIE WIADOMO. Mala Rada 07-26 (rzut 36): w zasadzie tak (nauka - rodziny dozwolone; maester w terenie - rodzina zostaje w Glebokorzeniu), ale PO ODPOWIEDZI CYTADELI; pytanie idzie lancuchem maesterskim przez Luwina; odpowiedz ~09-01 (rzut). Tekst Theomore'a (par. VIII/IX) - w karcie III go nie bylo."
   },
   {
    "data": "300-07-26",
@@ -11865,6 +11865,15 @@
    "kanal": "kruk WF-BP",
    "wraca": "300-08-11",
    "zamyka": "odpowiedz Hala (stocznia BP, kowale)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "GLEBOKORZEN - 20 PISARZY DO SKRYPTORIUM (slowo pana 08-07): pracownicy NIZSZEGO RZEDU - najemni, na kontrakcie, BEZ lancucha i bez przysiegi (pytanie o rodziny/celibat ich nie dotyczy); nabor prowadzi THEOMORE (zasada 42 - sam dobiera); stawka i koszt - Theomore + ksiega Glebokorzenia, placa wlasciciele Przystani wg udzialow (Korona 1/2 - Gawen, Kasa 3) (zasada 43). ZASADA 8: (a) Cech Pisarzy BP (Harwin) wyrzuca z cechu tych, co ida pisac na Fose - moze to samo zrobic z Glebokorzeniem; (b) ten sam rynek piszacych co nabor skrybow Fosy (cel 50) i kancelaria lenna; (c) miejsce - skrzydlo wschodnie Przystani bez dachu. Odzew piszacych (wolni ludzie) - RZUT przy odpowiedzi Theomore'a.",
+   "kto": "SYMON -> THEOMORE ; GAWEN (udzial Korony)",
+   "kanal": "kruk WF-BP (list pana 08-07 po poludniu)",
+   "wraca": "300-08-15",
+   "zamyka": "odpowiedz Theomore'a: ilu, skad, stawka, gdzie siedza (rzut na odzew)",
    "status": "otwarte"
   }
  ],

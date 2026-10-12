@@ -12370,6 +12370,60 @@
    "wraca": "300-08-28",
    "zamyka": "ile domow dalo zastaw / zboze / odpadlo (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-14",
+   "co": "PRZEWLOKA - UJSCIE: POMOST I ZARZADCA PRZYSTANI (slowo pana 08-14, rada Lucana): Garrick wskazuje, kto rysuje i stawia pomost (poza ludzmi muru GP), koszt polowy lenna z ksiegi Warryna; zarzadca przystani - piszacy, liczy ladunki i pobiera myto. Wlasni - bez rzutu.",
+   "kto": "GARRICK (+ WARRYN)",
+   "kanal": "kruk WF-Fosa (08-14 po poludniu); odpowiedz w zbiorczym",
+   "wraca": "300-08-20",
+   "zamyka": "kto stawia pomost + koszt polowy + imie zarzadcy Ujscia",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-14",
+   "co": "WYMAN - POMOST W UJSCIU POL NA POL TEJ JESIENI (list pana 08-14): lenno daje ludzi i drewno, polowa Wymana wg ksiegi; zapowiedz taryfy przewloki przed slupem. Wola Wymana - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "kruk WF-BP i z powrotem",
+   "wraca": "300-08-18",
+   "zamyka": "slowo Wymana o pomoscie (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-14",
+   "co": "TARYFA MYTA PRZEWLOKI (slowo pana 08-14): Warryn z Garrickiem - za woz, barke, ladunek (waga/sztuka); taniej niz oplyniecie Polnocy i Stopnie (zarobek na ilosci). Szkic do pana PRZED slupem; Wyman dostaje od pana przed tablica. Wlasni - bez rzutu.",
+   "kto": "WARRYN + GARRICK",
+   "kanal": "kruk WF-Fosa; szkic w zbiorczym",
+   "wraca": "300-08-20",
+   "zamyka": "szkic taryfy na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-14",
+   "co": "PRAWO SKLADU CAILIN - LEKKIE (slowo pana 08-14): jeden dzien wystawienia, tylko wybrane towary (lista do slowa pana); razem plan lawy z 08-02 - zajazd, nabrzeze przy kanale, waga miejska. Herwin + lawa + Garrick. Wola lawy - juz ZA (plan wlasny lawy, rzut 91 08-02); bez nowego rzutu na szkic.",
+   "kto": "HERWIN + LAWA + GARRICK",
+   "kanal": "kruk WF-Fosa; odpowiedz w zbiorczym/liscie Herwina",
+   "wraca": "300-08-20",
+   "zamyka": "lista towarow skladu + plan zajazdu/nabrzeza/wagi do slowa pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-14",
+   "co": "LENNO - DRUGI ODBIORCA PLODOW WLOSCI zamiast samego Domu (rada Lucana 08-14, pkt 4): pan 'pracuje nad tym'.",
+   "kto": "SYMON",
+   "kanal": "decyzja pana",
+   "wraca": null,
+   "zamyka": "decyzja pana",
+   "status": "otwarte - bez daty (zyczenie, zasada 41)"
+  },
+  {
+   "data": "300-08-14",
+   "co": "RACHUNEK KASY 3 ZA ROBOTE KORONY WYKONYWANA PRZEZ LENNO (rada Lucana 08-14, pkt 5): obrona ujscia dla zboza Korony, rozladunek zboza Korony, wikt 50 z WF - po slupie na Kase 3. Pan: 'w przyszlosci'.",
+   "kto": "SYMON (+ GAWEN, WARRYN)",
+   "kanal": "decyzja pana",
+   "wraca": null,
+   "zamyka": "decyzja pana",
+   "status": "otwarte - bez daty (zyczenie, zasada 41)"
   }
  ],
  "_dopiski_300_03_18": [

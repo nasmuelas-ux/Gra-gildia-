@@ -95,3 +95,8 @@ _Podstawa: polityka gospodarcza v3, §N2; Mała Rada 07-26, pkt 5 (rzut 21): **R
 - **Tylko ogólnie:** co konsul ma robić. **Bez planu w wersjach**, bez weksli i wymiany, bez słowa o czymkolwiek poza urzędem.
 - **Prośba:** niech Król zapyta lorda Medgera o córkę na konsula.
 - Weksle domów Północy i punkt wymiany (VIII–IX) czekają na powrót Króla i Małą Radę ~09-20, jak postanowiono 07-26.
+
+## XI. OBSADA OSTATECZNA (słowo pana 08-10)
+- **Stały prawnik: ZBĘDNY.** Porady w sprawach obyczaju Dorzecza bierze się od przypadku, płatnie, u rządcy albo pisarza sądu w Riverrun, za zgodą Edmure'a.
+- **Poświadczenia:** pieczęć notarialna Korony u konsula. Umowę spisuje i numeruje w księdze szef kancelarii misji, konsul ją czyta i pieczętuje. Gdy stroną jest Korona, poświadcza się w WF albo przy komorze.
+- **Skład:** konsul (Jonelle, jeśli Król i Medger się zgodzą i ona zechce) · szef kancelarii misji · goniec · strażnik · towarzyszka konsula · krucznik z sześcioma ptakami. **Sześć osób.** Za pół roku drugi pisarz.

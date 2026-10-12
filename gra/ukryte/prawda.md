@@ -328,3 +328,10 @@ Obecni: Król, Namiestnik, Cerwyn. Bors pilnuje drzwi od zewnątrz. Świadek prz
   - *„Wie tylko to, co wie cała załoga: że chłopcy bękarta polują z psami i że lepiej im schodzić z drogi. Śmieje się z tego razem z innymi, bo tak się robi w koszarach.”*
   - *„I niech nie wie. Kto wie, ten musi coś zrobić. A on poszedłby do lorda. Nie żeby donosić, tylko z honorem, żeby oczyścić imię. I by nie wrócił.”* (Zgodne z odczytem Cerwyna z 07-24.)
   - Dlatego list „od ciotki” ma mówić tylko o matce i o robocie przy wodzie, bez jednego słowa więcej.
+- **(cd., pan: nawet jak syn tu przyjedzie, to wróci, więc będziesz musiał go zatrzymać).**
+  - *„Wiem. Myślę o tym co noc.”* Świadek widzi trzy drogi i mówi o nich wprost:
+    1. **Powiedzieć mu prawdę, kiedy przyjedzie.** *„Wtedy wróci do lorda z honorem i już go nie zobaczę.”*
+    2. **Zamknąć go siłą.** *„Nie zamknę syna w izbie. Wtedy będę dla niego tym samym co bękart.”*
+    3. **Służba Korony.** *„Gdyby Korona wzięła go na służbę jako zwykłego włócznika, nie zakładnika, przy jakimś zamku daleko od Płaczącej Wody… W służbie Króla nie odpowiada przed lordem. Wtedy mógłbym mówić mu prawdę po kawałku, przez rok, nie przez jeden wieczór.”* (Zgodne ze słowami Króla z 07-10: *„Syn w służbie Korony nie odpowiada przed Boltonem”*. Odmowa Króla z 07-22 dotyczyła zakładnika żądanego z imienia, a nie zwykłej służby na prośbę samego chłopaka.)
+  - Sam zauważa koszt: *„Lord policzy. Rządca nie wrócił, żona nie wróciła, a teraz syn. Wiem. Ale wolę, żeby policzył mnie niż jego.”*
+  - Prosi Króla i pana, nie żąda. **Decyzja należy do Króla i pana.**

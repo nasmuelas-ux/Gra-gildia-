@@ -11812,6 +11812,24 @@
    "wraca": "300-09-01",
    "zamyka": "filar - ksiega prowadzona (stala)",
    "status": "otwarte - stale"
+  },
+  {
+   "data": "300-08-05",
+   "co": "HAL - MONETA DREADFORTU (zlecenie pana 08-05, Przystan Wilka; liscik pod pieczecia domowa jedzie z orszakiem Krola do BP ~08-08): kto w BP kupuje skory i sol Dreadfortu, za ile i czym placi; czy moneta Dreadfortu wraca do BP w innej postaci (zakupy, weksle, depozyt u kogos). Bez imion, bez powodu na papierze. Wlasni - bez rzutu na wykonanie; co znajdzie - RZUT przy meldunku.",
+   "kto": "HAL (+ Tam)",
+   "kanal": "orszak Krola -> BP; odpowiedz kurierem/krukiem Domu",
+   "wraca": "300-08-20",
+   "zamyka": "meldunek Hala o obrocie Dreadfortu w BP",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-05",
+   "co": "WILLA + KSIEGA MILCZENIA - DREADFORT (zlecenie pana 08-05; przekazuje LUCAN szyfrem po powrocie pana ~08-07): (a) Willa - do liczenia ubytku ludzi Dreadfortu (od 08-12) dolozyc: kto z Dreadfortu jezdzi z moneta albo po monete (BP, Barrowton, Bliznaki); (b) rubryka POSLANCY POLUDNIA (od 09-01) - os Dreadfort <-> Bliznaki/Poludnie: czy jezdzi cos wiecej niz listy lady Waldy; (c) Beron - Dreadfort w czesci Korony ksiegi milczenia bez zmian. Wynik - w karcie 09-01 (rzut przy karcie).",
+   "kto": "LUCAN -> WILLA ; BERON",
+   "kanal": "kruk WF-Fosa (szyfr); kancelaria WF",
+   "wraca": "300-09-01",
+   "zamyka": "rubryka Dreadfortu w karcie Willi 09-01",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

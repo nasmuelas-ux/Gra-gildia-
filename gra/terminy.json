@@ -12172,6 +12172,24 @@
    "wraca": "300-08-22",
    "zamyka": "sklad eskorty ustalony, wyjazd",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-10",
+   "co": "CATELYN -> EDMURE: MAIDENPOOL - NABRZEZE MOOTONA (slowo pana 08-10, rada Bryndena, rzut 93): obwieszczenie zakazuje handlu z garnizonem; zboze Kompanii dla miasta Mootona na zime z rak Edmure'a; Mooton konczy oblezenie bez krwi; 'nie pisz - jedz'; dopisek Bryndena: nie szturmowac, liczyc statki. Pieczec Tullych, nie Korony.",
+   "kto": "CATELYN (pisze) -> EDMURE -> MOOTON",
+   "kanal": "kruk WF-Riverrun (08-10 poludnie), odpowiedz krukiem Riverrun-WF",
+   "wraca": "300-08-20",
+   "zamyka": "odpowiedz Edmure'a - RZUT (czy jedzie do Mootona, co Mooton)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-10",
+   "co": "GAWEN - ZBOZE DLA MIASTA MOOTONA (Maidenpool) NA ZIME PRZEZ KOMPANIE (obietnica w liscie Catelyn 08-10: 'ilosc poda Skarbnik Polnocy'): ile gab, ile korcy, skad (zapas Korony / Kompania), koszt - Kasa 3; kolejnosc wydatkow (chleb pierwszy).",
+   "kto": "GAWEN",
+   "kanal": "osobiscie",
+   "wraca": "300-08-15",
+   "zamyka": "liczba korcy i koszt na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

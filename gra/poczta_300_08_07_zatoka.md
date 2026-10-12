@@ -57,3 +57,22 @@ Treść: `gra/list_regenta_wschod_300_08_07.md`. Cel: Dustinport. Zbiórka: Wint
 ## 6. W ZAMKU
 - **Ser Rodrik** wyznacza pięćdziesięciu do Cailin (wymarsz jutro rano, ~08-17 na Fosie, E) oraz oficera kolumny poboru: **ser Edwyle Szron** (E), rycerz domowy garnizonu.
 - **Gawen** dostaje odpis: żołd i wikt dla 75 ludzi, pięćdziesięciu w Cailin i ewentualnie drużyny Cerwyna.
+
+---
+
+# DRUGI PAKIET NA FOSĘ — 300-08-07 WIECZOREM (po rozmowie z Mirą)
+_Kruk WF → Fosa wieczorem, pogoda 86; u Garricka ~08-09. Własni ludzie, bez rzutu._
+
+## 7. LIST LORDA DO LUDZI FOSY (zapieczętowany; przechowuje GARRICK)
+**Otworzyć i odczytać na głos przy słupie dopiero w dniu, w którym Hendry podrywa chorągiew. Wcześniej nie.**
+> Ludzie Fosy Cailin,
+>
+> jeśli słyszycie te słowa, to Hendry wezwał was w moim imieniu. Nie wzywa was Korona z daleka. Wzywam was ja, wasz pan, do obrony waszych domów, waszego zboża i waszej rzeki. Kto stanie, ten będzie zapisany z imienia, a jego rodzina będzie miała chleb z magazynu lenna, dopóki on stoi. Ja i lady Mira wiemy, kto stał.
+>
+> — Symon Tally, lord Fosy Cailin
+
+## 8. MIRA I GARRICK DO MABEL (jako zwykłe ćwiczenie, bez słowa o ogniach i żelaznych)
+> Na dzwon „naprawdę”: dzieci i matki idą do wieży, nie do domów. Przejść tę drogę z dziećmi raz w tygodniu, jak ćwiczenie. Każda starsza dziewczyna prowadzi dwoje najmłodszych. Spis obecnych przy drzwiach wieży.
+
+## 9. DO WARRYNA (kancelaria lenna)
+> Około 08-17 przyjdzie do Cailin pięćdziesięciu ludzi z garnizonu Winterfell. Później być może drużyna lorda Cerwyna (liczba nieznana). Kwatery w barakach, wikt z magazynu lenna. Koszt prowadzisz osobno. Zwrot z Kasy 3 (Gawen ma odpis). Policz, na ile tygodni starczy zboża przy tych gębach, i odpisz z najbliższym zbiorczym.

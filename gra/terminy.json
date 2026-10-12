@@ -11947,6 +11947,33 @@
    "wraca": "300-08-12",
    "zamyka": "zadanie oddane",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "LIST LORDA DO LUDZI FOSY - zapieczetowany u Garricka (08-07 wieczor): odczytac przy slupie DOPIERO w dniu, gdy Hendry podrywa choragiew (rada Miry: ludzie maja uslyszec pana, zanim Hendry'ego). Potwierdzenie odbioru - zbiorczy.",
+   "kto": "GARRICK",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-08-11",
+   "zamyka": "Garrick potwierdza, ze list lezy zapieczetowany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "MABEL - CWICZENIE 'DZWON NAPRAWDE' (Mira + Garrick, 08-07): dzieci i matki do wiezy, nie do domow; raz w tygodniu; starsza dziewczyna prowadzi dwoje najmlodszych; spis przy drzwiach. Bez slowa o ogniach. Potwierdzenie - list Mabel / zbiorczy.",
+   "kto": "MABEL ; GARRICK ; MIRA",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-08-11",
+   "zamyka": "Mabel potwierdza i zrobila pierwsze cwiczenie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "WARRYN - WIKT DLA 50 Z WF (~08-17) I EW. DRUZYNY CERWYNA W CAILIN (08-07): kwatery w barakach, wikt z magazynu lenna, koszt osobno, zwrot z Kasy 3 (Gawen); ile tygodni starczy zboza - odpowiedz w zbiorczym.",
+   "kto": "WARRYN ; GAWEN",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-08-11",
+   "zamyka": "rachunek Warryna (tygodnie zboza)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -33,7 +33,7 @@ _Zbiorczy Garricka i raport rady lenna: `gra/zbiorczy_garricka_300_08_10.md`._
 | **Karstark** | 5 | 90 | **Tak.** Pięciu z Karholdu. Kasztelan dopisuje, że to ludzie z łodzi i umieją wiosłować. |
 | **Hornwood** | 5 | 58 | **Tak.** Pięciu (lady Donella). Zbiórka w Winterfell. |
 | **Cerwyn** (kasztelan Cley) | 5 | 100 | **Tak, od razu.** Pięciu już maszeruje do Winterfell (E ~08-15), z kartą, płaszczami i zapasem na drogę. |
-| **Locke** | 3 | 27 — ŹLE | **Nie.** „Nie poślę ludzi w jednej kolumnie z ludźmi lady Lyessy, póki sprawa o pale wisi u Justycjariusza” (spór od 04-02). |
+| **Locke** | 3 | 27 | ~~Nie — spór o pale~~ **VOID (08-13, wskazanie pana): spór zamknięty ugodą 06-25 (rzut 100), pale wbite. Odmowa nie miała podstawy w zapisie (zasada 45), więc wątpliwość idzie na korzyść gracza: TAK, 3 ludzi.** |
 | **Flint z Wdowiej Straży** | 3 | 35 — JEDNA KONSEKWENCJA | **Tak, ale później:** trzech przyjdzie po żniwach na brzegu, około **08-29** (E), czyli po zbiórce. Dołączą do kolumny w drodze albo pójdą sami. |
 | **Ryswell** | 2 | 66 | **Tak.** Dwóch, konno, zbiórka w Barrowton. |
 | **Dustin** | 2 | 64 | **Tak.** Dwóch, zbiórka w Barrowton. |
@@ -43,7 +43,7 @@ _Zbiorczy Garricka i raport rady lenna: `gra/zbiorczy_garricka_300_08_10.md`._
 | **Lake** | 2 | 7 — BARDZO ŹLE | **Odmowa, krótka:** „Lake nie ma ludzi dla cudzego brzegu.” Bez pozdrowienia Króla. |
 | **Reed** | 2 | — | **Bez odpowiedzi i wiadomo dlaczego:** Szare Wody nie mają kruków. Posłaniec krannogów ~08-20 (zasada 34). |
 
-**Stan na dziś: 49 ludzi z 75** (Bolton 10, Umber 10, Karstark 5, Hornwood 5, Cerwyn 5, Ryswell 2, Dustin 2, Slate 2, Stout 2, Woolfield 3, a do tego Flint z Wdowiej Straży 3 później). **Brakuje 26:** Manderly 20, Locke 3, Lake 2, Reed 2 (czeka).
+**Stan na dziś: 52 ludzi z 75** (Bolton 10, Umber 10, Karstark 5, Hornwood 5, Cerwyn 5, Locke 3, Ryswell 2, Dustin 2, Slate 2, Stout 2, Woolfield 3, a do tego Flint z Wdowiej Straży 3 później). **Z prośby brakuje 24:** Manderly 20, Lake 2, Reed 2 (czeka). Ochotnik Woolfielda daje +1. _(poprawione 08-13 po VOID Locke'a)_
 
 ## 4. DEKLARACJA KORONY O WOLNYCH LUDZIACH — ODZEW
 - **UMBER (58):** przyjmuje. *„Niech Korona wiesza, byle wieszała szybko. Jak Korona się spóźni, będę o tym pisał.”* Żądania zakładników nie powtarza.

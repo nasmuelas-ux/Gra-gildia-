@@ -11974,6 +11974,51 @@
    "wraca": "300-08-11",
    "zamyka": "rachunek Warryna (tygodnie zboza)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "OLENNA - LIST KORONY (08-07 noc): ujscie Goraczki bronione dla jej zboza i okretow Arbor; prosba o klauzule DRUGIEGO PORTU WYLADUNKU (wskazuje Korona w dniu zamkniecia pierwszego); Przewloka omija Stopnie. Linia Hala do Highgarden, razem z portem zapasowym. Odpowiedz - RZUT przy odpowiedzi (razem z odpowiedzia na kontrakt ~08-25).",
+   "kto": "OLENNA (przez Hala i przedstawiciela w Highgarden)",
+   "kanal": "kruk WF-BP + statek",
+   "wraca": "300-08-25",
+   "zamyka": "odpowiedz Olenny: klauzula drugiego portu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "HAL/NESTA - LYS I STOPNIE (08-07 noc): (a) kto w Braavos dyskontuje papier Lannisportu, czy domy z Lys; kto w Lys pozycza i komu; (b) fracht i ubezpieczenie przez Stopnie od wiosny, miesiac po miesiacu. Wlasni - bez rzutu na wykonanie; co znajda (obce) - RZUT przy meldunku.",
+   "kto": "HAL ; NESTA",
+   "kanal": "kruk WF-BP + statek BP-Braavos",
+   "wraca": "300-09-15",
+   "zamyka": "meldunek Nesty przez Hala",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "WILLA - DOPISKI (08-07 noc, szyfr Lucana): (1) czy w pieniadzu zaciagu Lannisportu jest Lys; (2) Mewi Grod: statki Baelisha do KP/Lannisportu, wiesc o tytule/ziemi dla Baelisha na Poludniu, zdrowie Lysy; (3) czy ktos z Lys pyta o Przewloke / Goracy Port / zatoke. W ramach zlecen biegnacych (08-22, 09-01, 09-12) - RZUT przy kartach.",
+   "kto": "LUCAN -> WILLA",
+   "kanal": "kruk Domu WF-Fosa (szyfr)",
+   "wraca": "300-09-01",
+   "zamyka": "karta Willi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "SER EDWYLE SZRON - W DUSTINPORCIE: kwatery wg domow; raz w tygodniu w karcie Torrena - kto z kim trzyma w kolumnie (rada Sansy: dziesieciu z Dreadfortu obok ludzi Barbrey). Wlasni - bez rzutu.",
+   "kto": "SER EDWYLE SZRON ; TORREN",
+   "kanal": "karta Torrena",
+   "wraca": "300-09-05",
+   "zamyka": "pierwsza notatka w karcie Torrena po przybyciu kolumny",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "LUCAN - JEDNA KARTKA O DREADFORCIE (rada Sansy): odpowiedz Roose'a na pytanie Krola (~08-14, przez Wymana) + moneta Dreadfortu (Hal ~08-20) + drogi i poslancy (Willa 09-01) - zestawic, co mowi, z tym, co robi. Do pana. Wlasni - bez rzutu.",
+   "kto": "LUCAN",
+   "kanal": "ustnie / kartka do pana",
+   "wraca": "300-09-02",
+   "zamyka": "kartka na stole pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -361,3 +361,16 @@ Obecni: Król, Namiestnik, Cerwyn. Bors pilnuje drzwi od zewnątrz. Świadek prz
   5. **Propozycja (do słowa pana i Króla):** *„Niech przy mnie będzie cicha księga skarg z ziem przy Dreadforcie, z marchii Karholdu, od słupów Korony na granicy Hornwoodu i od obserwatorów lady Donelli. Bez imion świadków, tylko kto zaginął, kiedy i skąd. Jeśli przyjdzie dziesiąta, to przyjdzie do sądu, a nie do kancelarii.”*
   6. **Decyzje dzisiejsze:** Cypel *„tak, dobrze”*; list *„później, słusznie”*; Alyn *„dobrze”*; zaproszenie dla Waldy *„najlepsze z czterech, bo jest jawne”*.
   7. **Ostrzeżenie:** *„Okręt to nie sąd. Niech bękartowi nic się nie stanie na okręcie Króla, i niech nic nie stanie się przez niego. Gdyby wpadł do morza, cała Północ powie, że Stark utopił syna Boltona. Wtedy Roose nie potrzebowałby już żadnego pretekstu.”*
+
+## 300-08-08 — SŁOWO AEMONA, USTNIE (przez człowieka Domu z placówki na Czarnym Zamku; rzut 65). TYLKO TU. Imię brata Króla nie trafia na żaden papier w świecie gry.
+Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona 07-24 wieczorem, przy Clydasie za drzwiami. Powtarza słowo w słowo, z pamięci, dwa razy, tak jak kazał Aemon.
+
+1. **Słowa wciąż nie słyszałem.** *„Chłopiec do mnie nie przyszedł i nie przyjdzie, dopóki jest tam, gdzie jest.”*
+2. **Rzecz, której nie ma w rolach Straży.** *„Pierwszej zimy, kiedy jego brat ruszył na wojnę, a ojciec zginął, chłopiec osiodłał konia w nocy i pojechał na południe. Nie zapisano tego, bo wrócił przed świtem. Przywieźli go przyjaciele, ale zawrócił sam. Lord Dowódca udał, że nic nie wie. Kto raz zawrócił z drogi do brata, ten nie przechodzi na drugą stronę dla siebie.”*
+3. **Miecz.** *„Lord Mormont dał mu miecz swojego rodu, valyriańską stal, za to, że uratował mu życie w jego komnacie. Tego też nie ma w rolach. Lady Dacey powinna wiedzieć, u kogo jest miecz jej rodu.”*
+4. **Półręki** (wniosek Aemona, nie wiedza): *„Chłopiec poszedł za Mur z Qhorinem Półrękim. Qhorin miał starą metodę zwiadowców: kiedy nie da się podejść do wroga, jeden człowiek przechodzi do niego. Z tamtej drużyny nie wrócił nikt, kto mógłby to potwierdzić. Nie wiem, czy Qhorin tak rozkazał. Wiem, że tak robił.”*
+5. **Dla Króla, nie dla Rady:** *„Krew woła. Ja wiem o tym więcej niż ktokolwiek na tym Murze: moim bratem był król, a ja wybrałem Straż. Chłopiec też już raz wybrał. Niech Król go nie sądzi, zanim go wysłucha. A wysłuchać będzie mógł, kiedy przyjdą ludzie Mance'a.”*
+6. **O sobie:** *„Powiedz Namiestnikowi, że nie dożyję wiosny. Szkło niech trzymają na Murze. A tę dziewczynę w Meereen niech ktoś, kto zna księgi, odwiedzi, zanim zrobią to ci, którzy znają tylko złoto.”*
+
+**Stan Aemona (Benno):** nie wstaje. W dobre dni mówi jasno, w złe śpi. Clydas karmi go rosołem. Wystan jest przy nim.
+**Warunek Króla z 299-09-14 (pkt 4):** odpowiedź, że „poszedł dobrowolnie”, Król chce usłyszeć pierwszy i sam. To NIE jest taka odpowiedź: to słowo Aemona przemawia na korzyść chłopca, a Aemon go nie przesłuchał. Król ma je usłyszeć od pana ustnie. Nic na papierze.

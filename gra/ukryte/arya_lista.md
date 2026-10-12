@@ -34,3 +34,4 @@ To Arya zapaliła świecę Nieznajomemu, dwa dni po tym, jak skreśliła Górę.
 ## 300-08-12 — LEKCJA O DOMU CZERNI I BIELI (rzut 92)
 Arya przy posągach bogów śmierci zapytała, czy Nieznajomy też tam jest. Usłyszała, że tak, jako jedna z twarzy. Potem zamilkła. Przy wyjściu powtórzyła czysto po braavosku „valar morghulis”. Pan nic nie powiedział o świecy (obietnica septona). Odczyt GM: lista i Nieznajomy złożyły się Aryi w jedno. Na razie to tylko obraz, nie fakt.
 Tego samego dnia, po opowieści o Ludziach Bez Twarzy, Arya zapytała, czy można się do nich zgłosić, czy biorą tylko zlecenia. Odpowiedź należy do pana.
+Pan odpowiedział, że kto dołącza, musi wyrzec się wszystkiego i stać się nikim, ale nikt tego nie potwierdził. Arya na to: „Imienia też? Kim bym była bez imienia? Kto by pamiętał?” i „Nie chcę być nikim”. Odczyt GM (O): imię i ród ważą dla niej na dziś więcej niż lista. Furtka, którą na chwilę uchyliła, jest zamknięta. Nie na zawsze, ale na teraz.

@@ -11830,6 +11830,15 @@
    "wraca": "300-09-01",
    "zamyka": "rubryka Dreadfortu w karcie Willi 09-01",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-05",
+   "co": "WSCHOD NA OBRONE ZACHODU (propozycja pana, KROL rzut 98 - TAK, Przystan Wilka 08-05): kazdy dom wschodu i srodka daje PO KILKU LUDZI na brzeg zachodni (Kamienny Brzeg pod Corwinem; czesc na Cypel pod Torgena) - liczby E do potwierdzenia przez Rodrika i Gawena: Manderly 20, Bolton 10, Umber 10, Karstark 5, Hornwood 5, Cerwyn 5, Locke 3, Flint z Wdowiej Strazy 3, drobni po 2 (~65-70 ludzi). ZOLD KORONY (40 miedziakow dziennie z ksiegi; ~4 smoki/mies., Kasa 3 - Gawen), sluzba do konca IX (sztormy), powrot przed zima. Cel jawny: 'cala Polnoc stoi na jednym brzegu'; cel cichy - przeniesienie jednego wlocznika z Dreadfortu nie wyglada na wybranie (ukryte). LISTY: regent z Winterfell po powrocie (~08-07), IMIENIEM KROLA, pod pieczecia regencji (obrona - akt regencji). Odzew lordow - RZUT przy kazdej odpowiedzi; ludzie na zachodzie ~koniec VIII.",
+   "kto": "SYMON (regent) ; BERON (listy) ; RODRIK (rozdzial) ; GAWEN (zold)",
+   "kanal": "kruki z Winterfell do lordow wschodu",
+   "wraca": "300-08-07",
+   "zamyka": "listy wyslane; potem odpowiedzi i ludzie na brzegu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

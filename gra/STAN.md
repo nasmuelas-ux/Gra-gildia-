@@ -1241,7 +1241,7 @@ _Kazda pozycja: co · kto · czym sie ZAMYKA. Termin bez zamkniecia tylko mija._
 - **300-08-11** — GP-2 - LANCUCH I KOLOWROT DLA GORACEGO PORTU U KOWALI MANDERLY (BP): zaliczka 174,72 (08-12), reszta 349,43 przy odbiorze; gotowe ~3 miesiace od zaliczki; transport do GP (barka/woz - Hal); montaz - Harlon. Wlasni (Dom) + kowale - termin kowali rzut przy odbiorze, jesli sie przesunie. · _kto:_ **HAL (Kasa 1) -> kowale Manderly; HARLON (montaz)** · _zamyka:_ lancuch i kolowrot na miejscu w GP
 - **300-08-11** — BRAAVOSKI - LEKCJA 8 (pt 08-15): zadanie siostr - kazda pisze po braavosku krotki WEKSEL swojego krolestwa (Miodowe Laki - Sansa; Kamienny Brod - Arya): kto, komu, ile, kiedy, pod jaki zastaw. Rozroznic 'odsetki' i 'procent'. Prowadzi Symon. · _kto:_ **SYMON, SANSA, ARYA** · _zamyka:_ lekcja odbyta
 - **300-08-11** — SZKOLA ZM - DRUGI RANEK W TYGODNIU NA CZAS WYJAZDU MIRY (od ~08-24): Mira pyta lady CATELYN (sama, 'nie Korona i nie ty'); jesli nie - Sansa. Wola Catelyn - RZUT przy rozmowie. · _kto:_ **MIRA -> CATELYN** · _zamyka:_ zastepstwo na drugi ranek ustalone albo odmowa **⚠ ZAMKNIETE 300-08-12 - CATELYN TAK (RZUT 75): JEDEN RANEK W TYGODNIU OD ~08-24 DO POWROTU MIRY; CZWARTEK 08-14 - PIERWSZA WIZYTA Z MIRA ### POPRZEDNIO: OTW.**
-- **300-08-12** — WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 08-15 (po lekcji 7, rzut 35): w paragrafie prawa morskiego kazde zdanie 'jesli... to...' rozbic na dwie czesci, zaznaczyc tryb (warunkowy / skutkowy), przetlumaczyc tylko czesc 'jesli'. Lekcja 8 wieczorem u Luwina. · _kto:_ **SYMON (nauka wlasna) -> LUWIN** · _zamyka:_ zadanie oddane na lekcji 8
+- **300-08-12** — WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 08-15 (po lekcji 7, rzut 35): w paragrafie prawa morskiego kazde zdanie 'jesli... to...' rozbic na dwie czesci, zaznaczyc tryb (warunkowy / skutkowy), przetlumaczyc tylko czesc 'jesli'. Lekcja 8 wieczorem u Luwina. · _kto:_ **SYMON (nauka wlasna) -> LUWIN** · _zamyka:_ zadanie oddane na lekcji 8 **⚠ OTWARTE ### 08-13: ZROBIONE (RZUT 8 - ZLE): 3/8 ZDAN DOBRZE; W 5 WARUNEK PO ZDANIU GLOWNYM - CIETE W ZLYM MIEJSCU. DO OMOWIENIA NA LEKCJI 8.**
 - **300-08-13** — LUWIN - CZY JESIEN PRZYJDZIE WCZESNIEJ: trzy burze od zachodu (07-28, 08-12, 08-13) zestawione z ksiegami pogody (zbior swiadectw zim; odpis Glebokorzenia ~08-20) + pytanie do maestrow Deepwood i Torrhen's Square o pierwsze sztormy. Wniosek dla: okna dostaw zboza z Arbor (IX-X) i okna zelaznych. Wlasny maester - bez rzutu; odpowiedzi maestrow zachodu - przy wiesci. · _kto:_ **LUWIN (+ maestrowie zachodu, Theomore)** · _zamyka:_ zestawienie Luwina z wnioskiem na pismie **⚠ OTWARTE ### 08-13 PAN: ZATOKA BLAZEWATER/UJSCIE GORACZKI OSLONIETA (PRZYLADEK KRAKENA) - ZESTAWIENIE ROZDZIELA: TRASA MORSKA Z ARBOR VS ZATOKA I UJSCIE; PYTANIE DO HENDRY'EGO (ILE DNI PORT STAL PRZEZ WIATR W VIII).**
 - **300-08-13** — SPIS OSADNIKOW Z DORZECZA PRZY FOSIE - ODPIS MIESIECZNY DLA EDMURE'A (list pana 08-13): komora Fosy (Rorik) + ksiega przybyszow (Roderyk/pisarz bramowy): imie, wies/lord, ilu z nim, co umie, dokad; odpis do Kancelarii WF co miesiac, Beron przekazuje do Riverrun. Wlasni - bez rzutu. · _kto:_ **GARRICK -> RORIK + RODERYK; BERON** · _zamyka:_ pierwszy odpis (VIII) wyslany do Edmure'a
 
@@ -1423,7 +1423,7 @@ Zrodla: `watki` · `npc` (klucz = `sekcja/id`) · `swiat` · `postac`. Metadane 
 - **Data:** 300-08-13 ranek · zima (300)
 - **Miejsce:** BIALY PORT od 300-03-11. Droga z Fosy: 6 dni zamiast 7-9 (mroz dal dwa dni). Dalej: Winterfell ~03-20, WIELKA RADA 300-0…
 - **Postac:** Symon Tally, l.25 — Lord Symon Tally, Namiestnik Krola Polnocy (Hand of the King in the North)
-- **Zdrowie 100 · Sytosc 92 · Zmeczenie 9**
+- **Zdrowie 100 · Sytosc 92 · Zmeczenie 11**
 
 ## KASA (1 jelen=100 mied · 1 smok=200 jel)
 - **Wolne:** 189 smokow + 187 jeleni + 44 mied
@@ -2898,7 +2898,6 @@ _(pelna lista spraw: gra/sprawy.json)_
 - `zasady_krola` [otwarty] 
 
 ## OSTATNIE WPISY DZIENNIKA
-- [300-08-12] `dziennik`: LEKCJA (cd., zanim siostry wyszly) - SYMON MOWI TEZ O LUDZIACH BEZ TWARZY. Bez rzutu (ta sama lekcja, rzut 92). TRESC (legenda portu Braavos - kanon, jako pogloska): poczatek w kopalniach Va…
 - [300-08-12] `dziennik`: LEKCJA (cd.) - SYMON do Aryi: ci, co dolaczaja, musza sie zrzec wszystkiego i stac sie nikim; tyle wie - ale nikt tego nie slyszal z pierwszej reki i nie potwierdzil. Bez rzutu (odpowiedz; r…
 - [300-08-12] `dziennik`: OBIAD, WIELKA SALA (burza slabnie do ulewy). Bez rzutu (posilek). Zupa z soczewicy z boczkiem, pieczona kaczka, kasza, chleb Benneta, piwo; dla dzieci kisiel (E). Sytosc 92->100. Przy stole:…
 - [300-08-12] `dziennik`: OBIAD (cd.) - SYMON do siostr: 'valar morghulis / valar dohaeris' to nie czysty braavoski, tylko wysoki valyrianski. Bez rzutu (kanon; zgodne z Luwinem 07-18: braavoski z valyrianskiego, kap…
@@ -2910,3 +2909,4 @@ _(pelna lista spraw: gra/sprawy.json)_
 - [300-08-13] `dziennik`: SNIADANIE (cd.) - SYMON: mimo wszystko zachodnie obszary, zwlaszcza wokol rzeki Goraczki, nie sa tak podatne na sztormy. Bez rzutu (watpliwosc na korzysc gracza; geografia - zatoka Blazewate…
 - [300-08-13] `dziennik`: PRZED POLUDNIEM (burza), KOMNATA NAMIESTNIKA - SYMON PRZYGOTOWUJE LEKCJE BRAAVOSKIEGO 8 (pt 08-15): znow KLUCZNIK BANKU, ktory przy przyjmowaniu wekslow siostr (Miodowe Laki, Kamienny Brod) …
 - [300-08-13] `dziennik`: KOMNATA NAMIESTNIKA - ⚑ LIST PANA DO EDMURE'A: SPIS OSADNIKOW PRZY FOSIE (odpowiedz na prosbe z 08-10, rzut 87) - gra/poczta_300_08_13_edmure_fosa.md. Bez rzutu na wyslanie. Tresc: kazdy, kt…
+- [300-08-13] `dziennik`: POPOLUDNIE (burza slabnie), KOMNATA NAMIESTNIKA - SYMON ROBI PRACE DOMOWA Z WYSOKIEGO VALYRIANSKIEGO (na pt 08-15). RZUT 8 (prog 45): ZLE. Osiem zdan 'jesli... to...' z paragrafu prawa morsk…

@@ -314,6 +314,10 @@
     {
      "nazwa": "⚑ AKCJE SPECJALNE LUCANA - OSOBNE LINIE W OBROTACH DOMU (slowo pana 300-07-11; dopisane do modelu 300-08-09 na wskazanie gracza)",
      "powod": "(A) LANCUCH ZIMOWY - zarzadca Edric Solny (E), koszt uruchomienia 140-200 jednorazowo (E, Hal VII pkt 13), zamowienia jesienne do konca IX -> przychod od X. (B) IZBA ROZRACHUNKOWA - rezerwy monety BP 400, Riverrun 250 (lezy, nie wydana - nie koszt), proba od IX -> przychod od IX/X. LUCAN: 10% zysku netto (A) i (B) przez rok, kwartalnie z ksiegi Hala, bez udzialu w stratach. (C) KALENDARZ 301 - osobna linia (Lucan 07-11): naklad I wg cennika Hala - kupiecki 300x15 jel. + dworski 60x40 jel. + obrazkowy 800x2 jel. = 8500 jeleni = 42,5 smoka BRUTTO przy pelnej sprzedazy; koszt druku - Ilario z Halem (brak w ksiedze); zadatki do 09-30, sprzedaz X-XII. (D) ODBUDOWA DORZECZA PRZEZ KOMPANIE - list do Lymana 07-11; odpowiedz ~08-12 (rzut); zysk 'na dwa lata, nie na miesiac'. W VII ZADNA Z CZTERECH NIE DALA PRZYCHODU (wszystkie startuja IX-X) - dlatego bilans VII ich nie liczy; od bilansu VIII Hal pokazuje je OSOBNO, kazda swoja linia. Pasm przychodu brak (zasada 43) - pierwsze liczby z ksiegi Hala. ### 08-09 SLOWO PANA: rozliczane OSOBNO, nie w bilansie Hala - cykl AKCJE_LUCANA, 20. dnia miesiaca (Lucan + osobna ksiega akcji u Hala). Bilans Hala ich nie zawiera."
+    },
+    {
+     "nazwa": "⚑ KOMPANIA POLNOC-DORZECZE - ROZLICZANA OSOBNO (slowo pana 300-08-14)",
+     "powod": "Zyski i straty Kompanii (w tym odbudowa Dorzecza: zamowienia, weksle pod zastaw mlyna, dostawy) NIE wchodza do bilansu Domu ani do akcji Lucana. W Kasie 1 zostaje tylko pozycja 'KOMPANIA POLNOC-DORZECZE - wynagrodzenie KOORDYNATORA (nie udzial)' (umowa 299-08-22). Kompania: osobna ksiega Hala i Lymana, rozliczenie 25. kazdego miesiaca (cykl ROZLICZENIE_KOMPANII), pierwsze 08-25."
     }
    ],
    "synteza": {

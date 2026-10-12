@@ -323,3 +323,8 @@ Obecni: Król, Namiestnik, Cerwyn. Bors pilnuje drzwi od zewnątrz. Świadek prz
   - **Bękart przy niej:** *„Jest grzeczny. Uśmiecha się, pyta o zdrowie, podaje rękę na schodach. Kucharki żegnają się, kiedy to widzą.”*
   - **Lord (tylko to, co świadek widział jako rządca):** po tym, jak lady zaszła w ciążę, lord kazał, żeby **jej jedzenie szło z osobnego garnka, pod okiem starej kucharki, która przyjechała z nią z Bliźniaków**. Świadek sam wpisywał w księgę osobną beczkę mąki i osobny kosz. *„Lord nic nie powiedział, czemu. Ale od śmierci pana Domerica nikt w zamku nie pyta, czemu się coś je osobno.”*
   - **Klauzula:** *„W karcie Boltonsgate stoi, że miasto dziedziczy syn z prawego łoża. W zamku wszyscy to wiedzą. Bękart też wie.”* (zapis: klauzula zgodzona przez pana, karta Boltonsgate)
+- **(cd., pytanie pana: czy twój syn to wszystko wie?).**
+  - *„Nic nie wie. Ani o księgach, ani o kamieniu, ani o tym, po co tu jestem. Wie, że matka zachorowała i pojechaliśmy do jej siostry do Białego Portu. Tak mu powiedziałem przy bramie.”*
+  - *„Wie tylko to, co wie cała załoga: że chłopcy bękarta polują z psami i że lepiej im schodzić z drogi. Śmieje się z tego razem z innymi, bo tak się robi w koszarach.”*
+  - *„I niech nie wie. Kto wie, ten musi coś zrobić. A on poszedłby do lorda. Nie żeby donosić, tylko z honorem, żeby oczyścić imię. I by nie wrócił.”* (Zgodne z odczytem Cerwyna z 07-24.)
+  - Dlatego list „od ciotki” ma mówić tylko o matce i o robocie przy wodzie, bez jednego słowa więcej.

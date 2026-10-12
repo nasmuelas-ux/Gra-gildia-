@@ -56,3 +56,17 @@ _Podstawa: polityka gospodarcza v3, §N2; Mała Rada 07-26, pkt 5 (rzut 21): **R
 ## VI. UWAGA DLA PANA (sprawa ukryta pod tą, z zapisu 07-30)
 - Lady Catelyn radziła w sprawie Edmure'a i Jonelle: *„Niech ją NAJPIERW POZNA. Przy sprawach, przy stole, przy czymś prawdziwym.”*
 - Konsulat jest właśnie takim prawdziwym miejscem. **W żadnym piśmie Korony ani słowa o ślubie.**
+
+
+## VII. OBSADA PEŁNA: ZESTAWIENIE BERONA (08-10, po rozmowie z lady Catelyn)
+| # | rola | kto | skąd | uwagi |
+|---|---|---|---|---|
+| 1 | **Konsul** | lady Jonelle Cerwyn | dom Cerwyn | wybiera Król; jej wola: rzut |
+| 2 | **Szef kancelarii misji** | pisarz Korony (E: jeden z dwóch najlepszych Berona) | Kancelaria WF | księga misji, listy w obie strony, spis osadników |
+| 3 | **Notariusz Północy** | uczeń Berona z pieczęcią notarialną Korony (E) | Kancelaria WF | umowy według prawa Północy, płatnie |
+| 4 | **Prawnik na miejscu** | znawca prawa Dorzecza (E) | wskaże Brynden | doradza konsulowi, nie podpisuje za Koronę |
+| 5–6 | **Goniec i strażnik** | 2 ludzi Korony (E), konni | garnizon WF | drzwi, droga, eskorta listów |
+| 7 | **Kruki** | 6 ptaków wyuczonych na Winterfell (E) | krukarnia Głębokorzenia (Ulla Kora) albo wieża Luwina | żeby misja nie pisała przez maestra Edmure'a |
+| 8 | **Towarzyszka konsula** | kobieta z domu Cerwynów (E) | wybiera Jonelle | dama nie mieszka sama na obcym dworze |
+| — | **później** | drugi pisarz | izba uczniowska | Beron: po pół roku |
+**Razem 7 osób i ptaki.** Izba przy Riverrun za zgodą Edmure'a. Koszt: Gawen.

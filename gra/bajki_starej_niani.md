@@ -509,3 +509,30 @@
 *Dopisek spisującego:* Walder zasnął pierwszy, z głową na kolanach Rickona. Rickon jeszcze długo patrzył w ogień, potem zapytał Kudłacza, czy wilki umieją pływać, i nie czekał na odpowiedź. Bran przy oknie powiedział cicho do Meery, nie do Niani: *„Kości w trawie, jak klatka bez ptaka.”* Meera położyła mu rękę na ramieniu. Niania udała, że nie słyszy.
 
 *Uwaga porządkowa (reguła Brana):* Szary Król, morski smok Nagga, dwór z jego kości na Starym Wyku, ogień z drzewa w gniewie Boga Burzy, żona syrena, tysiąc lat panowania, tron z drewna wyrzuconego przez morze i „Co martwe, nie może umrzeć” to kanon (legendy żelaznych). **„Żelazny nie kupuje, bierze żelazem” to kanon (żelazna cena, Stara Droga).** Zdanie matki Niani o żelaznym, który płaci złotem, to E, babcine powiedzenie Niani, **a nie wieść**. Niania nie wie nic o pytaniu Lucana z 07-11. Pytanie zadał Walder. Krypta i „trzeba palić” to północne gadanie Niani (E), w zgodzie z bajkami 1, 3 i 16.
+
+## 26. O SYMEONIE GWIAZDOOKIM
+*Spisane 300-08-10, w niedzielę, w deszczowy wieczór przed kolacją, w izbie Niani. Rano z zamku wychodzą na Kamienny Brzeg siły z głębi. Słuchali Rickon i mały Walder, Bran przy oknie z Meerą, Kudłacz pod ławą. Rickon zapytał: „Jak ktoś nie widzi, to może być rycerzem?”*
+
+> Może, dziecko. Był jeden taki, w Nocnej Straży, dawno temu, zanim na Murze było dziewiętnaście zamków. Nazywali go **Symeonem Gwiazdookim**.
+>
+> Za Murem stracił oczy. Jedni mówią, że od ognia, inni, że od lodu, a ja mówię, że od tego, czego nie powinien był oglądać. Wrócił do Czarnego Zamku na koniu, który sam znalazł drogę. Bracia myśleli, że teraz będzie siedział przy ogniu i strugał łyżki.
+>
+> A on kazał sobie włożyć w puste oczodoły **dwa szafiry**, gwiaździste, jakie przywożą z Tarthu. Mówią, że od tego dnia widział lepiej niż ci, co mieli oczy. Widział nocą jak sowa, a w zamieci jak wilk. Nie widział tylko tego, co ludzie chcieli, żeby widział: kto jest wysoki, a kto niski, kto bogaty, a kto biedny. To mu zostało w ciemności i nigdy za tym nie tęsknił.
+>
+> Walczył kijem, który miał ostrze na każdym końcu. Kto pchał się z przodu, dostawał z przodu. Kto zachodził od tyłu, dostawał od tyłu. Bo Symeon nie musiał się odwracać, żeby wiedzieć, gdzie ktoś stoi. **Słuchał.**
+>
+> *(Walder zapytał, czy szafiry się nie wysypywały.)*
+>
+> Wysypywały się, mały Freyu, jak spał na boku. Rano szukał ich w sienniku jak każdy stary człowiek zębów.
+>
+> *(Rickon zapytał, co się z nim stało.)*
+>
+> Poszedł raz za Mur i nie wrócił. Tak kończy się każda bajka o Straży, dziecko. Ale bracia mówią, że w zamieć, kiedy na Murze nic nie widać na trzy kroki, ten, kto stoi na warcie, czasem słyszy kogoś obok, kto mówi: „Patrz uszami”. I wtedy widzi.
+>
+> Więc jak ktoś wam powie, że jak się czegoś nie ma, to się nic nie może, powiedzcie mu o Symeonie. Nie on jeden tracił, co miał. Ale on jeden kazał sobie wstawić gwiazdy.
+>
+> Spać. Jutro rano wychodzą żołnierze, będziecie chcieli machać z muru.
+
+*Dopisek spisującego:* Bran przy oknie nie odezwał się ani słowem. Tylko kiedy Niania powiedziała „patrz uszami”, zamknął oczy i nie otwierał ich do końca. Meera przyglądała mu się przez cały czas. Rickon pokazał Walderowi, jak by walczył kijem z dwoma ostrzami, i zrzucił kubek. Kudłacz wylizał mleko.
+
+*Uwaga porządkowa (reguła Brana):* Symeon Gwiazdooki z Nocnej Straży, szafiry w miejscu oczu i kij z ostrzem na obu końcach to kanon (legenda Straży). Utrata oczu za Murem, koń znający drogę, szafiry z Tarthu, „patrz uszami” i opowieść o warcie w zamieci to E, wersja Niani.

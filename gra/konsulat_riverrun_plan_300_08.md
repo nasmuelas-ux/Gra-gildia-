@@ -66,7 +66,7 @@ _Podstawa: polityka gospodarcza v3, §N2; Mała Rada 07-26, pkt 5 (rzut 21): **R
 | 3 | **Notariusz Północy** | uczeń Berona z pieczęcią notarialną Korony (E) | Kancelaria WF | umowy według prawa Północy, płatnie |
 | 4 | **Prawnik na miejscu** | znawca prawa Dorzecza (E) | wskaże Brynden | doradza konsulowi, nie podpisuje za Koronę |
 | 5–6 | **Goniec i strażnik** | 2 ludzi Korony (E), konni | garnizon WF | drzwi, droga, eskorta listów |
-| 7 | **Kruki** | 6 ptaków wyuczonych na Winterfell (E) | krukarnia Głębokorzenia (Ulla Kora) albo wieża Luwina | żeby misja nie pisała przez maestra Edmure'a |
+| 7 | **Kruki i KRUCZNIK** (słowo pana 08-10: osobna sieć kruków misji) | 6 ptaków wyuczonych na Winterfell + krucznik (E: z krukarni Głębokorzenia, od Ulli Kory, albo pomocnik z wieży Luwina) | Głębokorzeń / wieża Luwina | Misja nie pisze przez maestra Edmure'a. Krucznik karmi i uczy ptaki, prowadzi księgę lotów. Ptaki z Riverrun do WF uczy się w drugą stronę (E) |
 | 8 | **Towarzyszka konsula** | kobieta z domu Cerwynów (E) | wybiera Jonelle | dama nie mieszka sama na obcym dworze |
 | — | **później** | drugi pisarz | izba uczniowska | Beron: po pół roku |
 **Razem 7 osób i ptaki.** Izba przy Riverrun za zgodą Edmure'a. Koszt: Gawen.
@@ -90,3 +90,8 @@ _Podstawa: polityka gospodarcza v3, §N2; Mała Rada 07-26, pkt 5 (rzut 21): **R
   - Mennica WILK **jeszcze nie bije dość**, więc na początek wymiana będzie mała;
   - kurs nie może się rozjechać ze słupem w Winterfell, bo ktoś zacznie zarabiać na różnicy między misją a komorą.
 - **Kto decyduje:** to regale mennicy, czyli Skarbnik pod Królem. Idzie do listu do Króla razem z wekslami, jako jedna paczka „pieniądz w misji”.
+
+## X. LIST DO KRÓLA (wysłany 08-10, słowo pana)
+- **Tylko ogólnie:** co konsul ma robić. **Bez planu w wersjach**, bez weksli i wymiany, bez słowa o czymkolwiek poza urzędem.
+- **Prośba:** niech Król zapyta lorda Medgera o córkę na konsula.
+- Weksle domów Północy i punkt wymiany (VIII–IX) czekają na powrót Króla i Małą Radę ~09-20, jak postanowiono 07-26.

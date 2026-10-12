@@ -12436,6 +12436,18 @@
    "opoznienie": 0,
    "ostatnio_odebrane": null,
    "zrodlo": "slowo pana 300-07-30"
+  },
+  {
+   "id": "AKCJE_LUCANA",
+   "co": "ROZLICZENIE AKCJI SPECJALNYCH LUCANA - OSOBNO OD BILANSU HALA (slowo pana 08-09: 'nie z bilansem, w innym dniu'): (A) LANCUCH ZIMOWY, (B) IZBA ROZRACHUNKOWA, (C) KALENDARZ 301, (D) ODBUDOWA DORZECZA PRZEZ KOMPANIE - kazda osobno: koszt uruchomienia i biezacy, zamowienia/zadatki, przychod, zysk netto, stan; 10% dla Lucana z (A) i (B) - naliczenie kwartalne; porownanie z poprzednim miesiacem. Liczby z osobnej ksiegi akcji prowadzonej przez Hala (Kasa 1), nie z modelu (zasada 43). Bilans Hala ich NIE zawiera.",
+   "kto": "LUCAN (przedklada) + HAL (osobna ksiega akcji)",
+   "kanal": "osobiscie, Winterfell (Lucan z Zimowego Miasta); gdy Lucan w BP - kruk Domu",
+   "rytm": {
+    "dzien_miesiaca": 20
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": null,
+   "zrodlo": "slowo pana 300-08-09"
   }
  ]
 }

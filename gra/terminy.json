@@ -12109,6 +12109,15 @@
    "wraca": "300-08-15",
    "zamyka": "swiece dostarczone, szklarz i snycerz zamowieni (kwit)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-08",
+   "co": "BRAN - SEN Z NOCY ZE SZKLEM (08-04/05): byl; Bran powie najpierw Krolowi (umowa). Tresc - USTNIE, Krol pierwszy; jesli pan zapyta po Krolu - wtedy rzut.",
+   "kto": "BRAN -> KROL -> (pan)",
+   "kanal": "ustnie",
+   "wraca": "300-09-15",
+   "zamyka": "Krol uslyszal",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

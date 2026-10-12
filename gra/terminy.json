@@ -11875,6 +11875,15 @@
    "wraca": "300-08-15",
    "zamyka": "odpowiedz Theomore'a: ilu, skad, stawka, gdzie siedza (rzut na odzew)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "GORACY PORT - BRONIC, NIE PALIC (stanowisko pana 08-07, sala map): zboze z Reach (IX-X) wchodzi przez GP i Przewloke; jesli GP splonie - Olenna nie zrealizuje kontraktu, Polnoc glodna; Starkport tej jesieni militarnie mniej wazny; Dustinport w tej samej zatoce - zagrozony przy okazji. ZMIENIA STALY ROZKAZ Z 05-20 (Krol: 'GP na wielki najazd - opuscic na czas, w gore Goraczki, spalic reszte') - zmiana imieniem Krola przez regenta; KROL MA WIEDZIEC (kruk do BP przed zaglami ~08-12). PROPOZYCJE (odczyty, do slowa pana): RODRIK - bronic PRZEPLYWU zboza, nie skladu (rozladunek i natychmiast w gore Goraczki; ziarno nie nocuje przy ujsciu); sily: setka Hendry'ego, sily z glebi (31 + ochotnicy, wymarsz po 08-10) zamiast na Kamienny Brzeg - na GP, czesc 75 ze wschodu; Jastrzebie i krannogowie (Reed) na wodzie. LUCAN - kontrakt z Olenna bez portu zapasowego 'ma jedno gardlo' - drugi punkt wyladunku do odpowiedzi Olenny (~08-25, Hal). THEON - langskipy nie lubia rzek, ktorych dna nie znaja; lancuch GP-2 nie zdazy (3 mies.) - pale w nurcie (kafar Harlona) zwezajace tor do jednej lodzi; dostawa pod eskorta Redwyne'ow to obrona na morzu w dniach rozladunku.",
+   "kto": "SYMON (regent) ; RODRIK ; LUCAN ; GARRICK/HENDRY (Fosa) ; THEON (rada)",
+   "kanal": "slowo pana -> rozkazy (kruk WF-Fosa) ; kruk do Krola przez BP",
+   "wraca": "300-08-08",
+   "zamyka": "slowo pana: sily, pale, port zapasowy; rozkaz do Hendry'ego zmieniony; Krol poinformowany",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

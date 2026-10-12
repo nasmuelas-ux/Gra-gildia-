@@ -300,3 +300,8 @@ Obecni: Król, Namiestnik, Cerwyn. Bors pilnuje drzwi od zewnątrz. Świadek prz
   - *„Lord jest sprawiedliwy we wszystkim innym. Czynsz bierze równo, w sądzie nie kradnie, w głodną zimę otwiera spichlerz. Ludzie mają co stracić. Kto mówi, ten traci i nie wiadomo do kogo z tym iść. Krol jest daleko, a pies blisko.”*
   - *„Bękart ma swoich chłopców. Jeżdżą z nim i z psami. Wiedzą, kto z kim gada przy studni.”* (kanon: Chłopcy Bękarta, E bez imion)
   - *„A ja milczałem dwa lata. Więc nie pytajcie, czemu milczą inni.”*
+- **(cd., pytanie pana: czy jest coś jeszcze, co Boltonowie robili albo robią).** Świadek mówi tylko o tym, co przechodziło przez jego ręce jako rządcy. Jego słowa tłumaczą dwie rozbieżności, które Dom policzył już 02-05 (żelazo, moneta). Nie otwierają nowego wątku.
+  1. **ŻELAZO („dziura” z 02-05):** *„Żelaza, którego nie ma w księdze zbrojowni, nie ukradziono. Nosi je bękart i jego chłopcy: groty, kolczugi, obroże, łańcuchy do psiarni. Kwity szły przez kuźnię na słowo bękarta, a nie przez zbrojownię. Ja je zgadzałem w sumie, pod «naprawy».”*
+  2. **MONETA („sto smoków rocznie” przez BP):** *„Lord sprzedaje w Białym Porcie skóry i sól za monetę i trzyma tę monetę poza księgą domową, we własnej skrzyni w wieży. Widziałem, jak worki szły na górę. Ile tam jest, tego nie wiem.”* (Rzecz lorda, nie zbrodnia.)
+  3. **Pijawki:** *„Lord co tydzień przystawia sobie pijawki, dla zdrowia. Ludzie od tego gadają więcej niż od psów.”* (kanon, bez znaczenia dla sprawy)
+  4. *„Reszty nie wiem. Byłem rządcą, nie katem. Ani od tego, co działo się po psiarni, ani od tego, co było przed nią.”*

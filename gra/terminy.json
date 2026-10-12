@@ -12046,6 +12046,24 @@
    "wraca": "300-09-15",
    "zamyka": "Krol uslyszal",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-08",
+   "co": "KTO JEST PRZY DAENERYS (rozkaz pana 08-08: 'musze sie dowiedziec') - LINIA DOMU (Hal -> Nesta, statek): w Braavos kapitanowie i kupcy wracajacy z Zatoki Niewolniczej, Volantis i Qarthu - kto stoi przy krolowej w Meereen (doradcy, rycerze z Westeros, dowodcy, kaplani); sluchac, nie pytac wprost; bez imienia Korony. Odpowiedz - RZUT przy meldunku (obce Essos).",
+   "kto": "HAL -> NESTA",
+   "kanal": "kruk WF-BP + statek BP-Braavos i z powrotem",
+   "wraca": "300-09-25",
+   "zamyka": "meldunek Nesty: kto przy niej",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-08",
+   "co": "KTO JEST PRZY DAENERYS - LINIA WILLI (szyfr Lucana): Pentos - ksiegi placowki (Obaro) i nasluch portu: kto z ludzi Illyria plywa na wschod i wraca; ZADNYCH pytan o Illyria w Pentos (jego miasto). Odpowiedz - RZUT przy karcie.",
+   "kto": "LUCAN -> WILLA",
+   "kanal": "kruk Domu WF-Fosa (szyfr)",
+   "wraca": "300-09-01",
+   "zamyka": "karta Willi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

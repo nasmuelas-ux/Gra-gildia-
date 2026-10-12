@@ -11424,7 +11424,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-07",
    "zamyka": "zadanie oddane",
-   "status": "otwarte ### 08-03: ODROBIONE (rzut 100) - tabela czysta + kolumna \"jak poznac klase\" (regula samogloski rdzenia, E). Do oceny Luwina wt. 08-05 (jesli pan w zamku). ### 08-04: pan jedzie 08-05 z Krolem do Przystani Wilka - LEKCJA HV PRZESUNIETA na powrot (~08-07); praca domowa gotowa (rzut 100). ### 08-07 RANEK: lekcja u Luwina dzis po poludniu (Luwin przy kolacji 08-06); zadanie gotowe (rzut 100)."
+   "status": "ZAMKNIETE 08-07 - zadanie oddane i ocenione (czyste). ### poprzednio: otw. ### 08-03: ODROBIONE (rzut 100) - tabela czysta + kolumna \"jak poznac klase\" (regula samogloski rdzenia, E). Do oceny Luwina wt. 08-05 (jesli pan w zamku). ### 08-04: pan jedzie 08-05 z Krolem do Przystani Wilka - LEKCJA HV PRZESUNIETA na powrot (~08-07); praca domowa gotowa (rzut 100). ### 08-07 RANEK: lekcja u Luwina dzis po poludniu (Luwin przy kolacji 08-06); zadanie gotowe (rzut 100)."
   },
   {
    "data": "300-08-02",
@@ -11937,6 +11937,15 @@
    "kanal": "kruk WF-Fosa",
    "wraca": "300-08-11",
    "zamyka": "potwierdzenie Hendry'ego i plan pali",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-07",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 08-12 (po lekcji 6, rzut 26): w dwoch paragrafach prawa morskiego wypisac wszystkie czasowniki, rozpoznac klase i forme - BEZ tlumaczenia. Tryb warunkowy/przyszly - nowy material na lekcji 7.",
+   "kto": "SYMON",
+   "kanal": "wlasna nauka",
+   "wraca": "300-08-12",
+   "zamyka": "zadanie oddane",
    "status": "otwarte"
   }
  ],

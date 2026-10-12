@@ -70,3 +70,14 @@ _Podstawa: polityka gospodarcza v3, §N2; Mała Rada 07-26, pkt 5 (rzut 21): **R
 | 8 | **Towarzyszka konsula** | kobieta z domu Cerwynów (E) | wybiera Jonelle | dama nie mieszka sama na obcym dworze |
 | — | **później** | drugi pisarz | izba uczniowska | Beron: po pół roku |
 **Razem 7 osób i ptaki.** Izba przy Riverrun za zgodą Edmure'a. Koszt: Gawen.
+
+
+## VIII. WEKSLE DOMÓW PÓŁNOCY: DO PRZEDŁOŻENIA KRÓLOWI (słowo pana 08-10)
+- **Stan:** Mała Rada 07-26 (rzut 21) odłożyła weksel poświadczany razem z Braavos i umową z bankiem do ~09-20. To prerogatywa, regent sam tego nie otwiera.
+- **Propozycja zawężona (Beron):**
+  - tylko weksle **domów Północy** (lordów i kupców Północy), **bez banku i bez Essos**;
+  - **pełne pokrycie:** dom wpłaca kwotę w Winterfell albo przy komorze i dostaje weksel poświadczony;
+  - konsulat w Riverrun wypłaca okazicielowi z tej samej wpłaty, przesłanej do misji;
+  - *„Korona poświadcza tylko to, co leży”*: bez wpłaty nie ma poświadczenia, nie ma gwarancji i nie ma dźwigni.
+- **Po co:** lord albo kupiec z Północy nie wiezie przez Przesmyk 500 smoków. Wiezie papier.
+- **Ryzyko (zasada 8):** moneta misji leży w Riverrun, więc potrzebna skrzynia, straż i rachunek. Kruki misji muszą być własne.

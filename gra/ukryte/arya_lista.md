@@ -43,3 +43,14 @@ Arya o kapłanach Wielu Twarzy („wiele imion, żadnego swojego”) przypomnia�
 Arya poszła do Meery po deszczu, tak jak zapowiedziała. Meera odmówiła: krannogowie nie uczą swoich ścieżek nikogo spoza bagien. „Jesteś za mała, żeby chować się dla zabawy, i za duża, żeby nie wiedzieć, po co się chowasz.” Arya jeszcze nie wie, że Lucan też odmówił.
 _VOID 08-13 (wskazanie pana): w pierwszej wersji GM dopisał ponad rzut, że Meera poszła z tym do lady Catelyn, a Catelyn wie o radzie Namiestnika i wzywa Aryę. Tego nie było._
 Odczyt GM (O): Arya jest zła na Meerę, nie na pana.
+
+## 300-08-13 WIECZÓR, SCHODY WIEŻY BRANA — „TO JEST TEŻ TWOJA DROGA”
+Pan powiedział Aryi:
+- to jest także jej droga;
+- matka zgodziła się już na walkę i na kuźnię, a wszystkiego naraz być nie może;
+- ma wykorzystać to, co ma: mistrz z Braavos nauczy ją też ciszy i cierpliwości, więc niech odda się tym lekcjom;
+- jeśli pokaże matce, jak dobrą jest wojowniczką, i przejdzie dalsze stopnie nauki, dostanie zgodę;
+- do tego czasu: cierpliwość.
+
+Arya przyjęła to bez kłótni. Wspomniała koty: Syrio kazał jej łapać koty w Czerwonej Twierdzy (kanon). „W Winterfell też są koty.”
+Odczyt GM (O): dostała drogę zamiast trzeciego „nie”. Pierwszy raz tego dnia uśmiechnęła się prosto, nie krzywo.

@@ -536,3 +536,32 @@
 *Dopisek spisującego:* Bran przy oknie nie odezwał się ani słowem. Tylko kiedy Niania powiedziała „patrz uszami”, zamknął oczy i nie otwierał ich do końca. Meera przyglądała mu się przez cały czas. Rickon pokazał Walderowi, jak by walczył kijem z dwoma ostrzami, i zrzucił kubek. Kudłacz wylizał mleko.
 
 *Uwaga porządkowa (reguła Brana):* Symeon Gwiazdooki z Nocnej Straży, szafiry w miejscu oczu i kij z ostrzem na obu końcach to kanon (legenda Straży). Utrata oczu za Murem, koń znający drogę, szafiry z Tarthu, „patrz uszami” i opowieść o warcie w zamieci to E, wersja Niani.
+
+## 27. O DANNY FLINT, KTÓRA POSZŁA NA MUR
+*Spisane 300-08-14, w czwartek, po kolacji, w izbie Niani przy psiarni. Pierwszy suchy wieczór po burzy, okno uchylone. Słuchali Rickon i mały Walder, Bran przy oknie z Meerą, Kudłacz pod ławą. Na progu, z kolanami pod brodą, usiadła Arya i nie weszła dalej. To ona zapytała: „Czy dziewczyna może iść na Mur?”*
+
+> Jedna poszła, dziecko. Nazywała się **Danny Flint**. Z Flintów z gór albo z Flintów z Palca, tego nikt już nie pamięta, a każdy Flint mówi, że z jego.
+>
+> Obcięła włosy nożem, przy samej skórze, włożyła bratu ubranie i poszła na północ traktem jako chłopak. Na Murze nikt nie pyta, skąd przychodzisz. Pytają tylko, czy umiesz stać na warcie. Umiała. Stała lepiej niż chłopcy, bo chłopiec na warcie myśli o kobietach, a ona myślała o warcie.
+>
+> Posłali ją do **Fortu Nocy**. Tam była dłużej niż rok i nikt nic nie wiedział.
+>
+> *(Arya zapytała, jak ją poznali.)*
+>
+> Tego bajka nie mówi, a ja nie będę zmyślać. Może się kąpała. Może ktoś patrzył za długo. Na Murze zawsze ktoś patrzy za długo. Kiedy się dowiedzieli, bracia zrobili jej krzywdę. Taką, o której przy dzieciach się nie mówi, i od której się umiera. *(Tu Niania spojrzała na Rickona i na małego Freya, a potem na próg, i nic więcej nie powiedziała.)*
+>
+> Lord Dowódca kazał ich powiesić, wszystkich, na murze Fortu Nocy. Ale ją to już nic nie obchodziło.
+>
+> Bo Danny Flint nie odeszła. Ci, co później stali na warcie w Forcie Nocy, mówią, że w zimne noce chodzi po murach, w za dużym ubraniu brata, i płacze bez głosu. Dlatego Fort Nocy opuszczono. Nie przez Innych. Przez nią. Nikt nie chciał tam stać na warcie.
+>
+> *(Walder zapytał, czy ona straszy.)*
+>
+> Nie straszy, mały Freyu. Szuka. Tego, co jej zabrali. Śpiewa się o niej pieśń, *Biedna Danny Flint*, ale jej wam nie zaśpiewam, bo jest smutniejsza niż bajka.
+>
+> I zapamiętajcie, co z tego wynika, bo nie to, co myślicie. Nie to, że dziewczyna nie może. **Mogła. Stała lepiej niż oni.** Tylko ci, z którymi stała, nie byli warci tego muru.
+>
+> Spać.
+
+*Dopisek spisującego:* Arya przez całą bajkę ani razu się nie poruszyła. Przy „stała lepiej niż oni” chwyciła się za dłoń, tę podrapaną. Kiedy Niania powiedziała „spać”, wstała pierwsza i wyszła bez słowa. Rickon zapytał Brana, czy Fort Nocy jest daleko. Bran odpowiedział: *„Najdalej ze wszystkich.”* Meera spojrzała na niego, a on nic więcej nie dodał.
+
+*Uwaga porządkowa (reguła Brana):* Danny Flint, dziewczyna przebrana za chłopca, która wstąpiła do Nocnej Straży, w Forcie Nocy została skrzywdzona i zamordowana przez braci, a jej duch nawiedza Fort Nocy, oraz pieśń *Biedna Danny Flint* to kanon (bajki Starej Niani). To, że Lord Dowódca powiesił braci, to E, wersja Niani. Spór Flintów o to, z których była, to E. Opuszczenie Fortu Nocy „przez nią” to babcine gadanie Niani (E). W kanonie Fort Nocy porzucono z innych powodów, więc stos (c), kłóci się.

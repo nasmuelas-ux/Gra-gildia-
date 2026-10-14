@@ -54,3 +54,6 @@ Pan powiedział Aryi:
 
 Arya przyjęła to bez kłótni. Wspomniała koty: Syrio kazał jej łapać koty w Czerwonej Twierdzy (kanon). „W Winterfell też są koty.”
 Odczyt GM (O): dostała drogę zamiast trzeciego „nie”. Pierwszy raz tego dnia uśmiechnęła się prosto, nie krzywo.
+
+## 300-08-14 OBIAD — ZADRAPANIA
+Arya zaczęła łapać koty (lekcja Syria, po rozmowie z panem 08-13). Świt, stajnie, kocur koniuszego — złapała i puściła, bo podrapał. Powiedziała tylko panu, półgłosem, przy ser Rodriku nie chciała. Odczyt GM (O): wzięła radę „cierpliwość” dosłownie i robi ją po swojemu.

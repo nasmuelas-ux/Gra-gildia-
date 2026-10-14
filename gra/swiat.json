@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 14,
+  "dzien": 15,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 88 (300-08-14): BARDZO DOBRZE - czyste niebo po burzy, chlodny poranek, bezwietrznie, slonce; drogi blotniste, schna; kruki lataja swobodnie.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 4 (300-08-15): BARDZO ZLE - nawalnica od polnocnego zachodu po jednym czystym dniu: ulewa, wichura, chlod; KRUKI NIE LATAJA, trakty znow rozmyte, jezdzcy staja.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

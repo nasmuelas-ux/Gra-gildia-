@@ -12225,7 +12225,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-08-15",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-15 ### lekcja 8 odbyta (rzut 47): scenka swieta zalozenia Braavos, fory Banku; Arya fory wziela, Sansa - data westeroska, do poprawy."
   },
   {
    "data": "300-08-11",
@@ -12432,6 +12432,15 @@
    "kanal": "kruk Domu ZM-BP i z powrotem",
    "wraca": "300-08-20",
    "zamyka": "oba rachunki na stole pana; potem decyzja: Woly BP czy Braavos + pytanie do Wymana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-15",
+   "co": "BRAAVOSKI - LEKCJA 9 (pon 08-18): Sansa przepisuje weksel Miodowych Lak z DATA BRAAVOSKA; obie - jak Braavos liczy lata i przeliczenie daty (wzor od Symona).",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-08-18",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

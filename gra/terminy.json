@@ -9109,9 +9109,9 @@
    "co": "WALDA BOLTON - POROD (maester Dreadfortu: 'przed zima', ~IX/X) - OBAWY O DZIEDZICA (odczyt Sansy: dzien porodu najniebezpieczniejszy na Dreadforcie; klauzula prawego loza przeciw Ramsayowi). SLOWO PANA 07-10: (1) Ramsay na czele dwudziestu na Skagos - do Krola; (2) NIC BEZ ZGODY BOLTONA - zadnej poloznej, maestra ani listu Krolowej do Waldy z oferta pomocy, zanim Roose sie nie zgodzi; (3) KROL PRZY WIZYCIE W DREADFORCIE (~08-14) PYTA ROOSE'A PRYWATNIE: czy Walda chce rodzic w Winterfell ('o kazdej porze dnia i nocy' - 05-10) albo czy przyjmie polozna/maestra od Korony. Wola Roose'a - RZUT przy rozmowie.",
    "kto": "KROL -> ROOSE (prywatnie, przy wizycie)",
    "kanal": "osobiscie, Dreadfort",
-   "wraca": "300-08-25",
+   "wraca": "300-09-01",
    "zamyka": "odpowiedz Roose'a: Winterfell / pomoc Korony / nic",
-   "status": "otwarte ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - Krol wyplynal z BP porannym odplywem 08-13/14; rozmowa z Roose'em przy postoju w Dreadforcie (~08-14/15), list Krola krukiem ~08-16 (zasada 34). Rzut przy liscie. ### 08-16 LIST KROLA (rzut 78): Walda rodzi w Dreadforcie; Roose przyjmuje JEDNA akuszerke Korony w IX, bez orszaku - wybiera Luwin; podziekowanie 'tylko od Krola'. NASTEPNY KROK: Luwin wskazuje akuszerke; wyjazd ~IX-01."
+   "status": "otwarte ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - Krol wyplynal z BP porannym odplywem 08-13/14; rozmowa z Roose'em przy postoju w Dreadforcie (~08-14/15), list Krola krukiem ~08-16 (zasada 34). Rzut przy liscie. ### 08-16 LIST KROLA (rzut 78): Walda rodzi w Dreadforcie; Roose przyjmuje JEDNA akuszerke Korony w IX, bez orszaku - wybiera Luwin; podziekowanie 'tylko od Krola'. NASTEPNY KROK: Luwin wskazuje akuszerke; wyjazd ~IX-01. ### 08-16 VOID (zasada 3, wskazanie pana): w liscie Krola GM pominal akuszerke z Blizniakow (07-24, rzut 65: lady Jeyne + akuszerka - w drodze). POPRAWIONE: Roose czeka na krewna z akuszerka z Blizniakow; akuszerka Korony (wybor Luwina) TYLKO jesli tamte nie dojada przed IX. Wraca: czy dojechaly - ~09-01."
   },
   {
    "data": "300-07-10",
@@ -12460,6 +12460,15 @@
    "wraca": "300-08-19",
    "zamyka": "zadanie oddane na lekcji 9",
    "status": "otwarte ### 08-16 ZROBIONE (rzut 47): tabela dobra; S/N - 9 z 11 pewnie, 2 ze znakiem zapytania. Do oddania we wtorek."
+  },
+  {
+   "data": "300-08-16",
+   "co": "PRZEMYT NA FOSIE - KTO WIEDZIAL (rozkaz pana 08-16, po porazce 2): ustalic, kto wiedzial o patrolu Kessela i kontroli ksiag Rorika przed ich rozpoczeciem i kiedy wycieto karty (przed czy po 08-04); kto z szostki rotacji wagi mial dostep do ksiegi; dokad poszedl Rolf; kto rozmawial z Odem przed 08-12. RODERYK prowadzi (sad lenna), KESSEL i RORIK odpowiadaja na pismie; FIREWALL bez zmian - imienia Willi nigdzie.",
+   "kto": "RODERYK + KESSEL + RORIK",
+   "kanal": "kruk WF-Fosa (08-16 po poludniu) i z powrotem",
+   "wraca": "300-08-21",
+   "zamyka": "pismo Roderyka: kto wiedzial, kiedy, dokad Rolf (RZUT przy meldunku)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

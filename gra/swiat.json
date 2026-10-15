@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 15,
+  "dzien": 16,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 4 (300-08-15): BARDZO ZLE - nawalnica od polnocnego zachodu po jednym czystym dniu: ulewa, wichura, chlod; KRUKI NIE LATAJA, trakty znow rozmyte, jezdzcy staja.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 49 (300-08-16): PRZECIETNIE - nawalnica zeszla w nocy; rano szaro, mzawka, wiatr slabnie; KRUKI RUSZAJA OD POLUDNIA (wychodzace i przychodzace); trakty mokre, potoki wezbrane.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

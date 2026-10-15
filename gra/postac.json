@@ -80,7 +80,11 @@
    "licznik_uzyc": 30,
    "_licznik_nota": "Osobny licznik jezyka (300-07-20, poprawka gracza: jezyki rozdzielone 298-07-19). Praktyka WYSOKIEGO VALYRIANSKIEGO liczy sie TU, nie w agregacie umiejetnosci.jezyki. 1 = lekcja Luwina 07-18 (rzut 67); 2 = praca domowa 07-20 (rzut 89). | 300-08-13 POPRAWKA: po lekcji 6 (20) nie doliczono: praca domowa 08-09 (63) = 21, powtorka 08-11 (54) = 22, lekcja 7 08-12 (35) = 23, praca domowa 08-13 (8) = 24. Wpis 'Licznik HV 20->21' z lekcji 7 - VOID (powinno 22->23).",
    "poziom": 3,
-   "prog_nastepny": "do slowa gracza (poziom 4) - 300-08-15"
+   "prog_nastepny": {
+    "poziom": 4,
+    "licznik": null,
+    "zrodlo": "do slowa gracza (osiagniety poziom 3 300-08-15)"
+   }
   }
  },
  "wiedza": {

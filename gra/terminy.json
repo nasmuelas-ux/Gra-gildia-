@@ -12514,6 +12514,15 @@
    "wraca": "300-08-25",
    "zamyka": "odpowiedz z liczbami albo 'nie ma takich' (RZUT przy odpowiedzi)",
    "status": "wstrzymane 300-08-16 ### VOID (zasada 1 i 3, wskazanie pana): owce na Kamiennym Brzegu JUZ SA - stado z Hornwood (zakup 05-27, rzut 87; doszly ~06-27; ostrzyzone 07-25). 'Kudlate owce z wybrzeza jedzace wodorosty' - wymysl GM w odczycie Luwina. List NIE WYSZEDL (wieczorny lot) - do slowa pana: wycofac albo zmienic."
+  },
+  {
+   "data": "300-08-16",
+   "co": "KAMIENNY BRZEG - STADO Z HORNWOOD NA ZIME (pytanie pana 08-16, zamiast wstrzymanego listu o 'owce z wybrzeza'): ile sztuk dzis (po strzyzy, ubytki, przychowek), czy jest siano/pasza na zime i ile, gdzie zimuja (szopy?), czy pasterze z Hornwood zostali czy wrocili, kto pasie teraz.",
+   "kto": "BRANN MOKRY + ser CORWIN",
+   "kanal": "kruk WF-Deepwood (wieczorny lot 08-16) + jezdziec lancucha Robetta i z powrotem",
+   "wraca": "300-08-25",
+   "zamyka": "karta stada z liczbami (wlasni - Korona; bez rzutu na odpowiedz, liczby z ich ksiegi)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

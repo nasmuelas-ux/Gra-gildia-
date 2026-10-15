@@ -11872,9 +11872,9 @@
    "co": "GLEBOKORZEN - 20 PISARZY DO SKRYPTORIUM (slowo pana 08-07): pracownicy NIZSZEGO RZEDU - najemni, na kontrakcie, BEZ lancucha i bez przysiegi (pytanie o rodziny/celibat ich nie dotyczy); nabor prowadzi THEOMORE (zasada 42 - sam dobiera); stawka i koszt - Theomore + ksiega Glebokorzenia, placi KORONA w calosci (Kasa 3 - Gawen; Glebokorzen to projekt Korony w pelni - slowo pana 08-07) (zasada 43). ZASADA 8: (a) Cech Pisarzy BP (Harwin) wyrzuca z cechu tych, co ida pisac na Fose - moze to samo zrobic z Glebokorzeniem; (b) ten sam rynek piszacych co nabor skrybow Fosy (cel 50) i kancelaria lenna; (c) miejsce - skrzydlo wschodnie Przystani bez dachu. Odzew piszacych (wolni ludzie) - RZUT przy odpowiedzi Theomore'a.",
    "kto": "SYMON -> THEOMORE ; GAWEN (Kasa 3)",
    "kanal": "kruk WF-BP (list pana 08-07 po poludniu)",
-   "wraca": "300-08-16",
+   "wraca": "300-08-21",
    "zamyka": "odpowiedz Theomore'a: ilu, skad, stawka, gdzie siedza (rzut na odzew)",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 ODPOWIEDZ THEOMORE'A (rzut 41, PORAZKA): 3 chetnych (2 slabi); HARWIN - cech BP grozi wykresleniem kazdemu, kto pisze dla Korony. Theomore: szukac poza cechem (septy, synowie kupcow, Braavos) albo stawka wyzsza. DO SLOWA PANA."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 ODPOWIEDZ THEOMORE'A (rzut 41, PORAZKA): 3 chetnych (2 slabi); HARWIN - cech BP grozi wykresleniem kazdemu, kto pisze dla Korony. Theomore: szukac poza cechem (septy, synowie kupcow, Braavos) albo stawka wyzsza. DO SLOWA PANA. ### 08-16 SLOWO PANA: zapytanie Korony WPROST DO CECHU (pismo: gra/poczta_300_08_16_cech_pisarzy_bp.md) - 'czy Cech zabrania czlonkom kontraktu Korony w Glebokorzeniu?' - odpowiedz na pismie pod pieczecia cechu. Theomore szuka dalej (wlasni)."
   },
   {
    "data": "300-08-07",
@@ -12468,6 +12468,15 @@
    "kanal": "kruk WF-Fosa (08-16 po poludniu) i z powrotem",
    "wraca": "300-08-21",
    "zamyka": "pismo Roderyka: kto wiedzial, kiedy, dokad Rolf (RZUT przy meldunku)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-16",
+   "co": "CECH PISARZY BP - ODPOWIEDZ NA ZAPYTANIE KORONY (pismo 08-16): czy Cech zabrania czlonkom kontraktu Korony w Glebokorzeniu. Tak = akt przeciw Koronie (sprawa do Wymana); Nie = grozba traci sile; milczenie = widoczne dla miasta. Pismo doreczane przez maestra Nowego Zamku - WYMAN BEDZIE WIEDZIAL (jego lancuch, jego miasto).",
+   "kto": "HARWIN / starsi Cechu Pisarzy BP",
+   "kanal": "kruk WF-Nowy Zamek (lancuch maesterski) i z powrotem",
+   "wraca": "300-08-21",
+   "zamyka": "odpowiedz cechu na pismie albo nazwane milczenie (RZUT przy odpowiedzi)",
    "status": "otwarte"
   }
  ],

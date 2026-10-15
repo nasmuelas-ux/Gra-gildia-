@@ -4237,9 +4237,9 @@
    "co": "REACH - KONTRAKT DLUZSZY NIZ WOJNA (rada Sansy): propozycja umowy wieloletniej (np. piec lat) - drewno i sol Polnocy za zboze Reach, cena ustalona z gory. Niesie przedstawiciel Domu Tally (Hal) - dopisac do jego listy przed pierwsza rozmowa z Olenna; przez Krola. ### 05-17: przy meldunku przedstawiciela sprawdzic, czy jest STALY KONTAKT z Mace'em/Olenna - to spust do odwieszenia sprawy schronienia dla Margaery (zawieszonej decyzja Symona). Przedstawiciel NIE porusza tematu Margaery.",
    "kto": "SYMON -> HAL (przedstawiciel w Reach) + KROL",
    "kanal": "kruk Winterfell-Bialy Port; dalej z przedstawicielem morzem",
-   "wraca": "300-08-16",
+   "wraca": "300-08-25",
    "zamyka": "propozycja na stole Olenny (meldunek przedstawiciela)",
-   "status": "otwarte - 06-01: propozycja zlozona zarzadcy Olenny; odpowiedz po zniwach w Reach ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte - 06-01: propozycja zlozona zarzadcy Olenny; odpowiedz po zniwach w Reach ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; odpowiedz Olenny na kontrakt Korony ~08-25 (Hal/przedstawiciel)."
   },
   {
    "data": "300-04-22",
@@ -4543,9 +4543,9 @@
    "co": "LIST BRANA DO JONA (krotki, bez snow, pieczec z wilkiem) - u HALLISA; oddaje, jesli znajdzie Jona albo kogos, kto do niego dojdzie (Jon widziany wsrod dzikich, Aemon 299-09). ### 06-10: pan w drodze - poczta przez Luwina do Barrowton; odczyt w Barrow Hall ~06-12 (zasada 34). ### 06-12: wiesci brak - Hallis na Murze/za Murem, kanal przez Osrica; razem z poselstwem Dacey ~06-20. ### 06-20 (pan na Fosie): wiesc z Muru przez Winterfell do Fosy ~06-25. ### 300-06-25: wiesc z Muru (Clydas przez Winterfell): HALLIS doszedl z kolumna Umbera 06-20; Jona na Murze nie ma - list oddal DACEY MORMONT do reki, bo poselstwo idzie do Mance'a, wsrod ktorego Jona widziano. Bez rzutu (decyzja wlasnego czlowieka). Dalej - z poselstwem. ### 07-09 (Winterfell, stos Korony): list u Dacey w poselstwie za Murem - wiesc z poselstwem ~07-15. ### 07-15: Dacey - list doreczony, odpowiedz ma przy sobie (ustnie, 'tam, gdzie mam powiedziec') - w Winterfell ~07-25.",
    "kto": "BRAN -> HALLIS -> JON",
    "kanal": "poselstwo Dacey -> Mur -> Winterfell",
-   "wraca": "300-08-16",
+   "wraca": "300-09-01",
    "zamyka": "list oddany Jonowi / komus, kto dojdzie - albo wraca z Hallisem",
-   "status": "otwarte ### 07-25: u Hallisa - bez kanalu do Jona (zasada 34); wiesc tylko, jesli Hallis cos przekaze. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 07-25: u Hallisa - bez kanalu do Jona (zasada 34); wiesc tylko, jesli Hallis cos przekaze. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; Hallis z poselstwem Dacey - bez wiesci; kanal Mur->WF, nastepny posterunek/poselstwo ~09-01."
   },
   {
    "data": "300-04-28",
@@ -6550,9 +6550,9 @@
    "co": "R-0 RUSZT CAILIN - RYSUNEK SIECI (spadki, trzy poziomy, kolektor pod Miastem Dolnym) z maestrem ORWYNEM (melioracja, przyjazd ~07-01) i Orbelem. Kolektor przed brukiem.",
    "kto": "ORWYN + ORBELO (Garrick)",
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
-   "wraca": "300-08-16",
+   "wraca": "300-08-19",
    "zamyka": "rysunek sieci na pismie",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; rysunek Orwyna - zbiorczy Garricka ~08-19."
   },
   {
    "data": "300-05-26",
@@ -6586,9 +6586,9 @@
    "co": "R-2 WYCENA MIEDZI I RUR na magistrale parowa Cailin: skad (Pentos, Braavos), ile, czas. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "HAL (+ Nesta, Obaro)",
    "kanal": "kruk Winterfell-Bialy Port (05-26 po poludniu) i z powrotem",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "wycena na pismie",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Nesta/Obaro (E): miedz w blasze taniej w Pentos (~1,8-2,4/kamien); rury ciagnione tylko prywatne warsztaty Braavos, 3-4 mies.; BRAK DLUGOSCI I SREDNICY magistrali - potrzebne od Harlona/Weylina (Fosa), bez tego wyceny calosci nie ma. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): Nesta/Obaro (E): miedz w blasze taniej w Pentos (~1,8-2,4/kamien); rury ciagnione tylko prywatne warsztaty Braavos, 3-4 mies.; BRAK DLUGOSCI I SREDNICY magistrali - potrzebne od Harlona/Weylina (Fosa), bez tego wyceny calosci nie ma. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; wycena miedzi - pierwsza poczta Hala po burzy ~08-20."
   },
   {
    "data": "300-05-26",
@@ -6883,9 +6883,9 @@
    "co": "DUSTINPORT E1 - SZOSTY KADLUB NA WODZIE (wodowanie od 07-01, zalogi imiennie do 06-30).",
    "kto": "TORREN SOLNY",
    "kanal": "jak wyzej",
-   "wraca": "300-08-16",
+   "wraca": "300-08-19",
    "zamyka": "szesc kadlubow na wodzie z imiennymi zalogami",
-   "status": "otwarte ### 08-15 POGODA RZUT 4: kruki nie lataja (zasada 34) -> przesuniete na 08-16."
+   "status": "otwarte ### 08-15 POGODA RZUT 4: kruki nie lataja (zasada 34) -> przesuniete na 08-16. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; Dustinport (Torren) - karta Theona/Donnela ~08-19."
   },
   {
    "data": "300-06-02",
@@ -7081,9 +7081,9 @@
    "co": "REACH - MANDAT KORONY DLA PRZEDSTAWICIELA DOMU W HIGHGARDEN: kontrakt w imieniu Korony - zboze za drewno/sol/futra/tran, cena z gory, wiele lat, eskorta Redwyne'a; wyladunek Goracy Port (do czasu - Dustinport). Odpowiedz Olenny po zniwach (rzut 59 juz padl).",
    "kto": "KROL/SYMON -> HAL -> przedstawiciel -> OLENNA",
    "kanal": "kruk do Hala + statek do Reach",
-   "wraca": "300-08-16",
+   "wraca": "300-08-25",
    "zamyka": "odpowiedz Olenny na kontrakt Korony",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; jw. - odpowiedz Olenny ~08-25."
   },
   {
    "data": "300-06-07",
@@ -7648,9 +7648,9 @@
    "co": "WERBUNEK PISZACYCH DLA KANCELARII LENNA (rozkaz pana 06-19): KONTRAKTY na pismie (rok, stawka z ksiegi lenna) i DWIE WYPLATY Z GORY przy podpisie; ogloszenie na slupach w Cailin i przy bramie, wiesc przez kupcow i wozakow na trakt i do Bialego Portu, przez septy (lowcy talentow Miry). 'Niech wiesc sie niesie, ze Fosa potrzebuje piszacych.' Podpisuje GARRICK. Odzew - wola wolnych ludzi: RZUT przy pierwszym meldunku. ZASADA 8 (do wiedzy pana): (a) dwie wyplaty z gory - kontrakt musi miec zwrot zaliczki przy zerwaniu, inaczej ktos wezmie i pojdzie; (b) Cech Pisarzy Bialego Portu (Harwin, wrog od 297) zobaczy, ze Fosa podkupuje mu ludzi; (c) ci sami ludzie sa potrzebni skryptorium i szkole. ### 06-19 PAN (doktryna): 'NIE PODKUPUJEMY, TYLKO ZACHECAMY - MAJA WOLNA WOLE.' W ogloszeniu i w listach: zaproszenie, nie wyciaganie; nikogo nie zrywa sie z kontraktu u innego pana ani cechu (kto ma umowe - konczy ja, potem przychodzi). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "GARRICK (+ regent kancelarii)",
    "kanal": "slupy Cailin, trakt, Bialy Port (Hal), septy",
-   "wraca": "300-08-16",
+   "wraca": "300-08-19",
    "zamyka": "ilu podpisalo kontrakt imiennie (rzut)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 5 - BARDZO ZLE): podpisalo DWOCH (mlodzi, od septona z traktu); z BP nikt - CECH PISARZY BP (Harwin) oglosil: kto pojdzie pisac na Fose, wypada z cechu. DO SLOWA PANA. ### 07-29 SLOWO PANA: odpowiedz na Cech Pisarzy BP - PATRONAT SPECJALNY LENNA nad BRACTWEM PISARZY W CAILIN + 50 JELENI NA START dla kazdego nowego czlonka (Kasa 2); dopisane do ogloszenia (slupy, septy, wozacy Domu). Odzew - przy nastepnym meldunku."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 5 - BARDZO ZLE): podpisalo DWOCH (mlodzi, od septona z traktu); z BP nikt - CECH PISARZY BP (Harwin) oglosil: kto pojdzie pisac na Fose, wypada z cechu. DO SLOWA PANA. ### 07-29 SLOWO PANA: odpowiedz na Cech Pisarzy BP - PATRONAT SPECJALNY LENNA nad BRACTWEM PISARZY W CAILIN + 50 JELENI NA START dla kazdego nowego czlonka (Kasa 2); dopisane do ogloszenia (slupy, septy, wozacy Domu). Odzew - przy nastepnym meldunku. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; werbunek piszacych - odzew w zbiorczym ~08-19."
   },
   {
    "data": "300-06-19",
@@ -7756,9 +7756,9 @@
    "co": "WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): Warryn+Orbelo: zapas wapna budowy na ~2 miesiace przy obecnej zaprawie; bielenie wstrzymane poza lecznica i szkola; kamien wapienny - najblizszy LOM na polnoc od Przesmyku, ~2 dni wozem (ziemie Barrowlandow - zgoda lady Barbrey potrzebna) albo KUPNO w Bialym Porcie (barki - jak u Borsa, spoznione); WAPIENNIK WLASNY przy lomie - E 25-40 smokow + ludzie. ZASADA 8: Bors juz kupuje wapno od Cerwynow, pozyczka w materiale dla Cailin tez zje wapno. Do slowa pana: lom Barbrey + wapiennik czy kupno w BP. ### 07-09 SLOWO PANA: LOM NA ZIEMI LADY BARBREY + WLASNY WAPIENNIK przy lomie (Warryn+Orbelo; E 25-40 + ludzie). List pana do lady Barbrey (kruk Winterfell-Barrowton dzis) - zgoda na lom: RZUT przy odpowiedzi. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "WARRYN + ORBELO",
    "kanal": "na miejscu",
-   "wraca": "300-08-16",
+   "wraca": "300-08-19",
    "zamyka": "zgoda Barbrey + wapiennik w budowie (albo odmowa i kupno w BP)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapas ~miesiac (E); OD BARBREY BRAK ODPOWIEDZI O LOM (list pana 07-09) - dzisiejszy list Barbrey o lomie milczy. Warryn pyta: kupic w BP? DO SLOWA PANA. ### 07-29 SLOWO PANA: SCIAGAC WAPNO Z BIALEGO PORTU barkami (Warryn przez Hala; ilosc wg zaprawy; Kasa 2); lom Barbrey - otwarte."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapas ~miesiac (E); OD BARBREY BRAK ODPOWIEDZI O LOM (list pana 07-09) - dzisiejszy list Barbrey o lomie milczy. Warryn pyta: kupic w BP? DO SLOWA PANA. ### 07-29 SLOWO PANA: SCIAGAC WAPNO Z BIALEGO PORTU barkami (Warryn przez Hala; ilosc wg zaprawy; Kasa 2); lom Barbrey - otwarte. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; wapno z BP barkami - Warryn/Hal, zbiorczy ~08-19."
   },
   {
    "data": "300-06-19",
@@ -7819,9 +7819,9 @@
    "co": "CZCIONKA - RYTOWNIK OD MARRA (warsztat jubilerski Domu, Bialy Port) na Fose do ciecia stempli liter: list Ilaria + pieczec pana do Hala z poczta BP dzis; Hal decyduje, kogo moze puscic (bursztyn ma zamowienia). Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Poludnie i morze): Hal: Marr nie puszcza nikogo przed koncem zamowien bursztynu; STEMPLE CIETE W BIALYM PORCIE wg wzornika Ilaria przez czeladnika Marra - pierwszy komplet liter ~08-15, wozem na Fose.",
    "kto": "HAL + MARR",
    "kanal": "poczta Fosa-Bialy Port",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "rytownik w drodze albo stemple ciete w BP wg wzornika Ilaria",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; rytownik od Marra - poczta Hala ~08-20."
   },
   {
    "data": "300-06-20",
@@ -8272,9 +8272,9 @@
    "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (2) GRANICA Z REEDAMI (Szara Woda) - OZNACZYC: list pana do HOWLANDA REEDA (Garrick spisuje, pieczec lenna): propozycja wspolnego oznaczenia granicy wody lenna i wody krannogow (tyczki z pomaranczowym znakiem po stronie lenna), przewodnik krannog do mapy, ZNAK/PRZEPUSTKA dla ludzi Reeda w strefach lenna (zeby zaden krannog nie dostal belta). Granica dwoch lenn = zgoda obu; spor - Justycjariusz. Kanal: poslaniec krannogow. Wola Reeda - RZUT przy odpowiedzi. ### 06-24: ulewa (pogoda 18) - poslaniec krannogow z listem do Reeda i odpisem prawa wody wyrusza 06-25 o swicie. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> HOWLAND REED (Garrick pisze)",
    "kanal": "poslaniec krannogow Fosa-Szara Woda",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "odpowiedz Reeda: granica, przewodnik, znak dla jego ludzi",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA. ### 07-29 SLOWO PANA (gra/poczta_300_07_29.md): LIST DO REEDA - przeprosiny; IMIE PODANE: SYMON TALLY (odpowiedzialnosc pana, nie dziesietnika); cel stref - przemyt i clo Korony; nowa regula (rog, ostrzezenie, do lodzi krannogow nigdy); granica tylko po stronie lenna wg mapy Starkow, bez nowej; bez tyczek i przepustek po stronie krannogow; DAR: nowa lodka dla trafionego (ciesle Brana) + beczka soli + haczyki i igly. Odpowiedz Reeda - RZUT przy odpowiedzi (~08-15). ### 07-29 TERMIN (Krol): jesli Reed nie odpisze DO 300-08-15 - Namiestnik melduje Krolowi (Krol wtedy w drodze - kruk na okret/przez Wymana); Krol napisze sam. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA. ### 07-29 SLOWO PANA (gra/poczta_300_07_29.md): LIST DO REEDA - przeprosiny; IMIE PODANE: SYMON TALLY (odpowiedzialnosc pana, nie dziesietnika); cel stref - przemyt i clo Korony; nowa regula (rog, ostrzezenie, do lodzi krannogow nigdy); granica tylko po stronie lenna wg mapy Starkow, bez nowej; bez tyczek i przepustek po stronie krannogow; DAR: nowa lodka dla trafionego (ciesle Brana) + beczka soli + haczyki i igly. Odpowiedz Reeda - RZUT przy odpowiedzi (~08-15). ### 07-29 TERMIN (Krol): jesli Reed nie odpisze DO 300-08-15 - Namiestnik melduje Krolowi (Krol wtedy w drodze - kruk na okret/przez Wymana); Krol napisze sam. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; poslaniec krannogow (Reed) - wraca przez Fose, zbiorczy ~08-19; slowo Reeda ~08-20 (zapis)."
   },
   {
    "data": "300-06-23",
@@ -8569,9 +8569,9 @@
    "co": "RYSOWNICY DLA SKRYPTORIUM (rozkaz pana 06-26; ptaki dla Brana, ryciny, mapy, wzornik): ILARIO werbuje (zasada 42) - (1) z warsztatu MARRA w Bialym Porcie (rysownik wzorow) - list przez Hala poczta BP; (2) z Braavos - rytownik/rysownik ksiag przez Neste (statkiem, ~48 dni); (3) z SZKOLY FOSY - dzieci, ktore rysuja (Mabel wskazuje od 07-01). Umowa na pismie, Kasa 1. Wlasni - bez rzutu na wyslanie; kto przyjedzie (obcy) - RZUT przy odpowiedzi. ### 07-15: NIE PRZYSZLO I WIADOMO DLACZEGO - statek BP-Braavos i z powrotem (~48 dni od listow z V/VI); wiesc przez Hala - ~08-01.",
    "kto": "ILARIO -> HAL / NESTA; MABEL",
    "kanal": "poczta Fosa-Bialy Port + statek BP-Braavos",
-   "wraca": "300-08-16",
+   "wraca": "300-09-01",
    "zamyka": "pierwszy rysownik przy pulpicie",
-   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): rzut 18 ZLE: Marr NIE puszcza jedynego rysownika wzorow przed czcionka (~08-15) ani potem na stale; Braavos - nikt na tym statku. Zostaja dzieci ze szkoly Fosy (Mabel). ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-01: NIE PRZYSZLO I WIADOMO DLACZEGO - droga statkiem BP-Braavos i z powrotem; wiesc przez Hala - bilans Hala za VII (~08-05) (zasada 34). ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): rzut 18 ZLE: Marr NIE puszcza jedynego rysownika wzorow przed czcionka (~08-15) ani potem na stale; Braavos - nikt na tym statku. Zostaja dzieci ze szkoly Fosy (Mabel). ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; rysownicy (Ilario->Hal/Nesta, statek Braavos) - ~09-01."
   },
   {
    "data": "300-06-26",
@@ -8830,9 +8830,9 @@
    "co": "OCZY NA PYKE - PIERWSZY MELDUNEK (drugie podejscie): kupiec ksiag po naprawie stepki wyplywa ~07-20; meldunek przez Braavos. RZUT przy meldunku (obce Wyspy).",
    "kto": "WILLA (siatka)",
    "kanal": "siatka Willi przez Braavos -> raport Willi (Winterfell)",
-   "wraca": "300-08-16",
+   "wraca": "300-09-01",
    "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; oczy na Pyke - raport Willi 09-01."
   },
   {
    "data": "300-07-01",
@@ -9622,9 +9622,9 @@
    "co": "CYPEL - UMOWA ZBOZA ZA PRACE I TOWAR (slowo pana 07-15, rada Lucana): splata od PIERWSZEJ WIOSNY; towar (futra, kosc morsa, ryba suszona, drewno) i praca (wyreb/splaw, chaty i przystan, wiosla przy przeprawie, zwiad brzegu); PRZELICZNIK GAWENA - jawny, na slupie przy przystani, jeden dla kazdego ogniska; Dom nie jedynym kupcem (Korona bierze splate; Dom kupuje nadwyzke po cenie ze slupa obok innych). Do ustalenia na miejscu z ludzmi Mance'a.",
    "kto": "GAWEN (przelicznik) ; posel Krola na Cyplu",
    "kanal": "osobiscie Winterfell; poselstwo",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "przelicznik Gawena na pismie, gotowy do slupa",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; Cypel - przelicznik Gawena; poselstwo bez wiesci; Gawen na miejscu - ~08-20."
   },
   {
    "data": "300-07-15",
@@ -10387,9 +10387,9 @@
    "co": "DREWNO NA ZIME DO WIEZY MAESTERA AEMONA (Czarny Zamek) - placowka Domu kupuje i dostarcza przed zima; Dom placi (Kasa 1), Hal ksieguje. Wlasni - bez rzutu.",
    "kto": "SYMON -> placowka Domu (Czarny Zamek) ; HAL (ksiega)",
    "kanal": "kruk Domu Winterfell-Czarny Zamek (07-22 po poludniu)",
-   "wraca": "300-08-16",
+   "wraca": "300-09-01",
    "zamyka": "drewno w wiezy maestera (meldunek placowki)",
-   "status": "otwarte ### 08-10: meldunek placowki Domu z Czarnego Zamku (z meldunkiem posterunku ~08-15); Clydas 08-09 nie wspomina. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-10: meldunek placowki Domu z Czarnego Zamku (z meldunkiem posterunku ~08-15); Clydas 08-09 nie wspomina. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; drewno do wiezy Aemona - meldunek posterunku 08-16 nie wspomina; nastepny ~09-01."
   },
   {
    "data": "300-07-22",
@@ -10495,9 +10495,9 @@
    "co": "OKRET WZORU II - DAR WYMANA: stepka w stoczni BP PO ZNIWACH, drewno skierowane przez Korone (dab - stepka i wregi, sosna - poszycie); na wodzie wiosna 301; mistrz Wymana przysyla Gawenowi spis potrzeb.",
    "kto": "WYMAN (stocznia) ; GAWEN (drewno)",
    "kanal": "kruk BP-Winterfell",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "spis drewna u Gawena; drewno w drodze do BP",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; okret Wzoru II - spis drewna mistrza Wymana, poczta BP ~08-20."
   },
   {
    "data": "300-07-24",
@@ -10693,9 +10693,9 @@
    "co": "LACZNOSC I INFRASTRUKTURA - DWA NOWE MIEJSCA W MALEJ RADZIE (rzut 86): kandydaci z uczniow Glebokorzenia (wskazuje Theomore, zasada 42) - do Rady przez Mistrza Nauki (Luwin), poki nie dojrzeja.",
    "kto": "THEOMORE -> LUWIN -> KROL",
    "kanal": "kruk BP",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "dwa nazwiska u Krola",
-   "status": "otwarte ### 08-07 KARTA III THEOMORE: wskazuje ULLE KORE (lacznosc - krukarnia Glebokorzenia) i TOMASA SZNURA (infrastruktura - mosty i groble); do Rady przez Luwina (Mistrz Nauki). ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-07 KARTA III THEOMORE: wskazuje ULLE KORE (lacznosc - krukarnia Glebokorzenia) i TOMASA SZNURA (infrastruktura - mosty i groble); do Rady przez Luwina (Mistrz Nauki). ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; Mala Rada - kandydaci, poczta BP ~08-20."
   },
   {
    "data": "300-07-26",
@@ -10927,9 +10927,9 @@
    "co": "AKADEMIA - ZAPROSZENIE KORONY DLA WETERANOW LORDOW (Glover, Tallhart, lady Dustin): druga grupa kursu setnikow po zniwach (~09-20), do szesciu miejsc razem z Fosa i domena; za wiedza lorda, Korona zaprasza, nie bierze; zold w czasie kursu - Korona. Odzew - rzut przy kazdej odpowiedzi.",
    "kto": "GLOVER / TALLHART / BARBREY DUSTIN",
    "kanal": "kruki z Winterfell (pieczec Namiestnika)",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "odpowiedzi trzech lordow (imiona kandydatow albo odmowa)",
-   "status": "otwarte ### 08-01: GLOVER (99) - dwoch najlepszych + jeden uczy WOJNY LESNEJ, droga na jego koszt; TALLHART (45) - dwoch, prosba: mieszkac razem; BARBREY - brak odpowiedzi (jej list 07-30 o Akademii milczy). Druga grupa ~09-20. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-01: GLOVER (99) - dwoch najlepszych + jeden uczy WOJNY LESNEJ, droga na jego koszt; TALLHART (45) - dwoch, prosba: mieszkac razem; BARBREY - brak odpowiedzi (jej list 07-30 o Akademii milczy). Druga grupa ~09-20. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; akademia - odpowiedzi lordow po burzy ~08-20."
   },
   {
    "data": "300-08-05",
@@ -11161,9 +11161,9 @@
    "co": "SKORY ZBROJOWNI - GARBOWANIE PRZYDZIALU (~480, E): Orwyl potrzebuje skory wyprawionej, nie surowej; surowe w lipcowym cieple trzeba solic albo oddac garbarzowi szybko (zasada 8). KTO GARBUJE - do slowa pana: garbarnia Domu (umowa 07-12; usluga dla Korony na kwit) albo garbarz Zimowego Miasta (patronat). Placi Kasa 3 - kwota z kwitu garbarza (zasada 43). Garbowanie ~6-8 tygodni (E); pierwsze pasy i obicia ~IX.",
    "kto": "ORWYL (sol, zaladunek) + GAWEN (kwit) + HAL (garbarnia Domu)",
    "kanal": "Winterfell",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "skory u garbarni Domu, kwit u Gawena",
-   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): garbarnia Domu przy Garbarskiej gotowa, kadzie przygotowane; woz z WF jeszcze nie doszedl (~08-08..10); garbowanie 6-8 tyg. od przyjecia (E). ### 08-12: woz z WF do garbarni Domu w BP mial dojsc ~08-08..10 - w meldunku Hala 08-11 brak wzmianki; pytanie z nastepna poczta Domu; garbowanie 6-8 tyg. od przyjecia."
+   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): garbarnia Domu przy Garbarskiej gotowa, kadzie przygotowane; woz z WF jeszcze nie doszedl (~08-08..10); garbowanie 6-8 tyg. od przyjecia (E). ### 08-12: woz z WF do garbarni Domu w BP mial dojsc ~08-08..10 - w meldunku Hala 08-11 brak wzmianki; pytanie z nastepna poczta Domu; garbowanie 6-8 tyg. od przyjecia. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; skory zbrojowni - pytanie do Hala z poczta Domu; odpowiedz ~08-20."
   },
   {
    "data": "300-07-29",
@@ -11845,9 +11845,9 @@
    "co": "PRZYSTAN WILKA / GLEBOKORZEN - STALA EKIPA MURARZY NA ROK, NA WYLACZNOSC (slowo pana 08-06, prosba Borsa): w BIALYM PORCIE znalezc ekipe ~20 murarzy pod mistrzem (jeden kontrakt, rok, wylacznosc dla Przystani - skrzydla Glebokorzenia, potem reszta); szuka HAL (filia BP, jak w 299-08-26 - najem na rynku, nie prosba do lorda); kontrakt podpisuje BORS imieniem wlascicieli (Korona 1/2, Cerwyn 1/4, Manderly 1/4); oplata wg udzialow - kwoty z oferty, zasada 43 (Gawen za czesc Korony). List pana do Hala jedzie z jezdzcem Borsa do BP (~3 dni). WYNIK (czy ekipa sie znajdzie, pod kim, za ile) - RZUT przy meldunku Hala.",
    "kto": "HAL (szuka) ; BORS (podpis) ; GAWEN (czesc Korony)",
    "kanal": "jezdziec Borsa Przystan-BP; odpowiedz kurierem/krukiem Domu",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "kontrakt z ekipa podpisany albo wiadomo, czemu nie",
-   "status": "otwarte ### 08-07 POPRAWKA (slowo pana): GLEBOKORZEN TO PROJEKT KORONY W PELNI - praca ekipy przy SKRZYDLACH GLEBOKORZENIA placi KORONA w 100% (Kasa 3); udzialy 1/2-1/4-1/4 tylko dla reszty robot Przystani (baszta, akademia, przystan). Gawen - pismo do Borsa (kontrakt: dwie rubryki kosztu) krukiem/jezdzcem do Przystani dzis po poludniu, zanim podpisze."
+   "status": "otwarte ### 08-07 POPRAWKA (slowo pana): GLEBOKORZEN TO PROJEKT KORONY W PELNI - praca ekipy przy SKRZYDLACH GLEBOKORZENIA placi KORONA w 100% (Kasa 3); udzialy 1/2-1/4-1/4 tylko dla reszty robot Przystani (baszta, akademia, przystan). Gawen - pismo do Borsa (kontrakt: dwie rubryki kosztu) krukiem/jezdzcem do Przystani dzis po poludniu, zanim podpisze. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; ekipa murarzy - Bors kurierem Przystan-BP ~08-20."
   },
   {
    "data": "300-08-06",
@@ -12151,9 +12151,9 @@
    "co": "JEDEN REJESTR KADR KORONY W KANCELARII (Mala Rada 08-09): BERON - kto, skad, do jakiego krzesla, od kiedy + rubryka 'czego jeszcze nie umie'. Najpierw wpisac obsadzonych (urzedy Korony, Akademia, Glebokorzen, izba uczniowska). Wlasni - bez rzutu.",
    "kto": "BERON",
    "kanal": "na miejscu",
-   "wraca": "300-08-16",
+   "wraca": "300-08-20",
    "zamyka": "rejestr zalozony, pierwsze wpisy",
-   "status": "otwarte"
+   "status": "otwarte ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; rejestr kadr - Beron prowadzi (wlasni); pierwszy odpis ~08-20."
   },
   {
    "data": "300-08-09",

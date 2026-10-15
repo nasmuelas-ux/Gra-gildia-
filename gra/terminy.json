@@ -6010,9 +6010,9 @@
    "co": "GARNIZON KAMIENNEGO BRZEGU - DRUGI NABOR 50 (VIII, po palisadzie): z osad Sigrun i wsi brzegu; pod Ulrikiem; zold Kasa 3. Odzew - RZUT przy naborze.",
    "kto": "CORWIN + ULRIC (na miejscu)",
    "kanal": "przez Dustinport + kruk z Fosy",
-   "wraca": "300-08-16",
+   "wraca": "300-08-18",
    "zamyka": "50 imiennie przyjetych (rzut odzewu)",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16: nie przyszlo - kruk Deepwood/Barrowton + jezdzcy, potoki po burzy; ~08-18."
   },
   {
    "data": "300-05-22",
@@ -9109,9 +9109,9 @@
    "co": "WALDA BOLTON - POROD (maester Dreadfortu: 'przed zima', ~IX/X) - OBAWY O DZIEDZICA (odczyt Sansy: dzien porodu najniebezpieczniejszy na Dreadforcie; klauzula prawego loza przeciw Ramsayowi). SLOWO PANA 07-10: (1) Ramsay na czele dwudziestu na Skagos - do Krola; (2) NIC BEZ ZGODY BOLTONA - zadnej poloznej, maestra ani listu Krolowej do Waldy z oferta pomocy, zanim Roose sie nie zgodzi; (3) KROL PRZY WIZYCIE W DREADFORCIE (~08-14) PYTA ROOSE'A PRYWATNIE: czy Walda chce rodzic w Winterfell ('o kazdej porze dnia i nocy' - 05-10) albo czy przyjmie polozna/maestra od Korony. Wola Roose'a - RZUT przy rozmowie.",
    "kto": "KROL -> ROOSE (prywatnie, przy wizycie)",
    "kanal": "osobiscie, Dreadfort",
-   "wraca": "300-08-16",
+   "wraca": "300-08-25",
    "zamyka": "odpowiedz Roose'a: Winterfell / pomoc Korony / nic",
-   "status": "otwarte ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - Krol wyplynal z BP porannym odplywem 08-13/14; rozmowa z Roose'em przy postoju w Dreadforcie (~08-14/15), list Krola krukiem ~08-16 (zasada 34). Rzut przy liscie."
+   "status": "otwarte ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - Krol wyplynal z BP porannym odplywem 08-13/14; rozmowa z Roose'em przy postoju w Dreadforcie (~08-14/15), list Krola krukiem ~08-16 (zasada 34). Rzut przy liscie. ### 08-16 LIST KROLA (rzut 78): Walda rodzi w Dreadforcie; Roose przyjmuje JEDNA akuszerke Korony w IX, bez orszaku - wybiera Luwin; podziekowanie 'tylko od Krola'. NASTEPNY KROK: Luwin wskazuje akuszerke; wyjazd ~IX-01."
   },
   {
    "data": "300-07-10",
@@ -9264,7 +9264,7 @@
    "kanal": "kolumna ziarna / kruk Czarny Zamek-Winterfell",
    "wraca": "300-08-16",
    "zamyka": "pierwszy meldunek posterunku o obu sprawach",
-   "status": "otwarte ### 08-10: Benno przywiozl 08-08 tylko slowo Aemona (ustnie); pierwszy meldunek posterunku krukiem Domu po powrocie Benna na Mur (~08-15) - zasada 34. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "zamkniete 300-08-16 ### pierwszy meldunek (rzut 40, PORAZKA - cienko): wybor wstrzymany, nikt jawnie nie zabiega; do krukarni nie wpuszczaja; o Stannisie nic. Posterunek patrzy dalej (wlasni) - nastepny meldunek ~09-01."
   },
   {
    "data": "300-07-11",
@@ -10819,9 +10819,9 @@
    "co": "STARKPORT - WZMOCNIENIE NADZWYCZAJNE (Krol rzut 80): drugi nabor 50 od razu, straz nocna i wieza ognia podwojnie; Kasa 3. Odzew naboru - rzut przy meldunku.",
    "kto": "CORWIN + ULRIC + BRANN MOKRY",
    "kanal": "kruk WF->Barrowton + jezdziec",
-   "wraca": "300-08-16",
+   "wraca": "300-08-18",
    "zamyka": "meldunek Corwina o stanie",
-   "status": "otwarte ### 08-10: karta Corwina 08-10 (wlasni): straz nocna i wieza podwojnie - stoja; DRUGI NABOR 50 - termin 08-15, odzew naboru RZUT przy meldunku 08-15. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-10: karta Corwina 08-10 (wlasni): straz nocna i wieza podwojnie - stoja; DRUGI NABOR 50 - termin 08-15, odzew naboru RZUT przy meldunku 08-15. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16: nie przyszlo - kruk Deepwood/Barrowton + jezdzcy, potoki po burzy; ~08-18."
   },
   {
    "data": "300-08-10",
@@ -10900,9 +10900,9 @@
    "co": "POSLANCY KORONY DO KLANOW GOR (Wull, Norrey, Liddle, Flint, Burley, Harclay) - ustnie, zdanie klanow o wolnych ludziach; po jednym posle na klan. Odpowiedz ustnie - rzut przy powrocie.",
    "kto": "kancelaria Namiestnika (poslancy Korony, E)",
    "kanal": "jezdzcy, ustnie",
-   "wraca": "300-08-16",
+   "wraca": "300-08-18",
    "zamyka": "zdania szesciu klanow",
-   "status": "otwarte ### 08-10: poslancy (wyjazd 07-27) jeszcze nie wrocili - drogi gorskie, deszcz (pogoda 21); powrot ~08-12..16, rzut przy powrocie. ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - dwie doby burzy (pogoda 6, 7): gorskie potoki wezbrane, brody nieprzejezdne; poslancy ~08-16 (zasada 34). Rzut przy powrocie."
+   "status": "otwarte ### 08-10: poslancy (wyjazd 07-27) jeszcze nie wrocili - drogi gorskie, deszcz (pogoda 21); powrot ~08-12..16, rzut przy powrocie. ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - dwie doby burzy (pogoda 6, 7): gorskie potoki wezbrane, brody nieprzejezdne; poslancy ~08-16 (zasada 34). Rzut przy powrocie. ### 08-16: poslancy - jezdzcy, potoki wezbrane; ~08-18."
   },
   {
    "data": "300-07-26",
@@ -11224,9 +11224,9 @@
    "co": "DUSTINPORT - JEDEN ROG I LANCUCH OGNIA PROSTO (slowo pana 07-30, prosba Barbrey): wiesc z lancucha ognia (ogien/goniec) od razu do strazy Barbrey, bez drogi przez Winterfell; na czas zagrozenia (do konca IX) DONNEL OBROK trzyma jeden rog na ladzie (straz Dustinow + ludzie Korony), TORREN SOLNY na wodzie; Donnel uzgadnia z setnikiem Barbrey znaki, rog, miejsce zbiorki. Kruki 07-31 rano (Barrowton; Fosa->Dustinport).",
    "kto": "DONNEL OBROK (+ TORREN) <-> BARBREY DUSTIN",
    "kanal": "kruk WF->Barrowton; WF->Fosa->jezdziec Dustinport",
-   "wraca": "300-08-16",
+   "wraca": "300-08-18",
    "zamyka": "znaki i rog uzgodnione (karta Donnela)",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16: nie przyszlo - kruk Deepwood/Barrowton + jezdzcy, potoki po burzy; ~08-18."
   },
   {
    "data": "300-07-30",
@@ -11521,9 +11521,9 @@
    "co": "KAMIENNY BRZEG - GOTOWOSC I PLAN ODWROTU (listy pana 08-02 do ser CORWINA i BRANNA MOKREGO): gotowosc do konca IX; walka, kiedy mozna - odsiecz nadejdzie; przy przewadze - odwrot w glab ladu ku koncentracji wojsk na zachodzie (zbiorka odsieczy od Deepwood, jazda Gloverow, lancuch ognia); rodziny Sigrun pierwsze; lodzie wyciagnac albo spalic. Corwin i Brann ustalaja droge, znak odwrotu i miejsce zbiorki. Wlasni - bez rzutu na wykonanie.",
    "kto": "CORWIN + BRANN MOKRY",
    "kanal": "kruk WF->Deepwood + jezdziec lancucha Robetta; odpowiedz w karcie Starkportu",
-   "wraca": "300-08-16",
+   "wraca": "300-08-18",
    "zamyka": "plan odwrotu (droga, znak, zbiorka) w karcie Starkportu",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16: nie przyszlo - kruk Deepwood/Barrowton + jezdzcy, potoki po burzy; ~08-18."
   },
   {
    "data": "300-08-02",
@@ -11559,7 +11559,7 @@
    "kanal": "Winterfell -> Fosa",
    "wraca": "300-08-16",
    "zamyka": "przemyt przerwany na dowodach lenna (patrol/ksiega) albo nic nie wyszlo",
-   "status": "otwarte ### 08-03 SLOWO PANA (rada Lucana, firewall): Kessel - patrol przystani i skladow w dni barki przez VIII; Rorik - kontrola ksiag wagi za VII (wpisy \"zywnosc\" vs dni barki i brama); Roderyk - sad na tym, co znajdzie lenno; Garrick - w zbiorczym bez komentarza. WYNIK - RZUT przy meldunku (zbiorczy Garricka / pismo Rorika). ### 08-04 (zasada 45a): trzy noce z karty (07-08/15/22) sa SPRZED stref i reguly strzalu (07-29). Od tamtej pory system dziala; wynik (patrol Kessela, ksiegi Rorika) - rzut z waga systemu po stronie lenna. ### 08-14 VOID (zasada 3, na wskazanie pana): GM w kancelarii przedstawil sprawe jako 'do slowa pana' i dopisal 'minely dwa dni barki, w ktore nic sie nie stalo' - wymysl bez wpisu; dyspozycje wydane 08-03, sprawa idzie (zasada 7). Tytul pozycji poprawiony. ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-15 poprawka: pismo Rorika idzie osobnym krukiem (nie tylko zbiorczym) - wraca 08-16."
+   "status": "zamkniete 300-08-16 ### WYNIK (rzut 2, PORAZKA Z KOMPLIKACJA; gra/poczta_300_08_16.md): przemyt USTAL, ale nikogo nie zlapano - 3 karty lipcowe wyciete z ksiegi wagi; Rolf nie stawil sie 08-14, izba pusta; sklad Oda zamkniety od 08-12, Odo w Barrowton. Dalsze kroki (Barrowton - ziemia Dustin; poszukiwanie Rolfa; kontrola reszty rotacji) - do slowa pana."
   },
   {
    "data": "300-08-03",
@@ -11737,9 +11737,9 @@
    "co": "STANNIS NA MUR - CZY WYPLYNAL? (zapowiedz Stannisa 04-28, rzut 53: wyplywa ze Smoczej Skaly z pierwszym pelnym wiatrem V, laduje we Wschodniej Strazy, na Murze ~poczatek VI; 05-21 przez Davosa: data przyjeta). OD 05-21 W ZAPISIE NIC; listy z Muru (Aemon/Clydas 07-22, 08-02) o Stannisie milcza - wiec na Murze go nie ma. Pogloska z karty Willi (30 dni, plotka): nocne ognie i kopanie na Smoczej Skale. POMINIECIE GM: przyjazd nie dostal terminu (zasada 41). KANALY: posterunek Domu w Czarnym Zamku (meldunek ~08-10 - takze Wschodnia Straz); Wyl Brannik u Davosa (drugi ladunek szkla; powrot ~08-20); Hallis Mollen (posel Korony na Murze). Wynik - RZUT przy pierwszej wiesci.",
    "kto": "POSTERUNEK DOMU (Czarny Zamek) ; WYL BRANNIK / DAVOS ; HALLIS",
    "kanal": "kruk Domu z Czarnego Zamku; BP-Davos",
-   "wraca": "300-08-16",
+   "wraca": "300-09-01",
    "zamyka": "wiadomo, gdzie jest Stannis i dlaczego nie przyplynal (albo kiedy przyplynie)",
-   "status": "otwarte ### 08-10: kanal: meldunek posterunku Domu z Czarnego Zamku (~08-15); Clydas pisze tylko o zdrowiu Aemona; Benno - slowo Aemona, bez wiesci o Stannisie w zapisie. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-10: kanal: meldunek posterunku Domu z Czarnego Zamku (~08-15); Clydas pisze tylko o zdrowiu Aemona; Benno - slowo Aemona, bez wiesci o Stannisie w zapisie. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16: posterunek - 'na Murze o nim nie mowia, nie bylo go' (rzut 40). Gdzie jest - nadal nie wiadomo; kanal BP-Davos zostaje."
   },
   {
    "data": "300-08-04",
@@ -11755,9 +11755,9 @@
    "co": "TORGEN SZARY NA CYPEL - wyjazd 08-05 o swicie (z bramy razem z Krolem, potem na zachod): 20 z WF (sierzant Benfred Kolo, E), Osha; droga WF -> Deepwood -> Cypel (~9-10 dni, E). ORZEKA SAM w stopniach I-III; ksiega rozjemcy, odpis orzeczen co miesiac do Winterfell (do wiadomosci, nie do zatwierdzenia). Na miejscu: wyznaczyc wody (znaki, ksiega), Sad Rozjemczy z kasztelanem Glovera i starosta, przyjac 6 gajowych; zapytac o 'ogniska, ktore nie chca przejsc' i o termin/miejsca drogi 22 tysiecy; straz wolnych ludzi - przedstawic przy drzewie.",
    "kto": "TORGEN SZARY",
    "kanal": "jezdziec lancucha Robetta / kruk Deepwood",
-   "wraca": "300-08-16",
+   "wraca": "300-08-18",
    "zamyka": "Torgen przy drzewie na Cyplu, pierwszy meldunek",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16: nie przyszlo - kruk Deepwood/Barrowton + jezdzcy, potoki po burzy; ~08-18."
   },
   {
    "data": "300-08-04",
@@ -11874,7 +11874,7 @@
    "kanal": "kruk WF-BP (list pana 08-07 po poludniu)",
    "wraca": "300-08-16",
    "zamyka": "odpowiedz Theomore'a: ilu, skad, stawka, gdzie siedza (rzut na odzew)",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 ODPOWIEDZ THEOMORE'A (rzut 41, PORAZKA): 3 chetnych (2 slabi); HARWIN - cech BP grozi wykresleniem kazdemu, kto pisze dla Korony. Theomore: szukac poza cechem (septy, synowie kupcow, Braavos) albo stawka wyzsza. DO SLOWA PANA."
   },
   {
    "data": "300-08-07",
@@ -12088,9 +12088,9 @@
    "co": "JENCY Z MORZA DO THEONA (slowo pana 08-08): kazdy zelazny wziety zywcem na zachodnim brzegu (ranny, maruder, rozbitek) - NAJPIERW do Theona w Dustinporcie, zywy, opatrzony; rozmowa przy ogniu, bez tortur; dalej wg Kodeksu i rozkazu Namiestnika. Rozkaz do: TORREN (pismo w reku Theona), CORWIN (kruk WF-Deepwood + jezdziec Robetta), HENDRY (kruk WF-Fosa), ROBETT GLOVER (lancuch ognia, kruk). Wlasni - bez rzutu; co powiedza jency - RZUT przy meldunku Theona.",
    "kto": "THEON ; TORREN ; CORWIN ; HENDRY ; ROBETT GLOVER",
    "kanal": "pismo + kruki z WF",
-   "wraca": "300-08-16",
+   "wraca": "300-08-19",
    "zamyka": "potwierdzenia rozkazu (karta Theona 08-15)",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16: karta Theona nie przyszla - lancuch Dustinport-Fosa jezdziec 4 dni, nawalnica zatrzymala; ~08-19."
   },
   {
    "data": "300-08-08",
@@ -12268,9 +12268,9 @@
    "co": "SEAGARD - OCZY NA HARLAW (polecenie pana 08-13, po odczycie Lucana): placowka Domu patrzy na Harlaw i Zatoke Zelaznych Ludzi (zagle, kierunek, kiedy, czy Harlaw zbiera okrety); meldunki CO TYDZIEN, przy ruchu od razu. Oslona kupca bez zmian. Wlasni - bez rzutu na wykonanie; odzew Mallisterow/portu - RZUT przy pierwszym meldunku. Pismo: gra/poczta_300_08_13_seagard_flint.md.",
    "kto": "LUCAN -> placowka Seagard (przez Lymana od Brodow)",
    "kanal": "KRUK DOMU Winterfell-Seagard (wieczorny lot 08-13; placowka ma kruki Domu - slowo pana 08-13) i z powrotem (E ~1-2 dni w jedna strone)",
-   "wraca": "300-08-16",
+   "wraca": "300-08-22",
    "zamyka": "pierwszy meldunek z Seagard krukiem Domu (rzut na odzew Mallisterow/portu); dalej cykl SEAGARD_ZAGLE co 7 dni",
-   "status": "otwarte ### 08-13 POPRAWKA KANALU: nie przez Lymana i Riverrun - placowka ma kruka Domu (slowo pana)."
+   "status": "otwarte ### 08-13 POPRAWKA KANALU: nie przez Lymana i Riverrun - placowka ma kruka Domu (slowo pana). ### 08-16: Seagard - droga w obie strony; ~08-22."
   },
   {
    "data": "300-08-13",

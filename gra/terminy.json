@@ -12478,6 +12478,15 @@
    "wraca": "300-08-21",
    "zamyka": "odpowiedz cechu na pismie albo nazwane milczenie (RZUT przy odpowiedzi)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-16",
+   "co": "CYPEL - STAN WOLNYCH LUDZI (zapytanie pana 08-16): czy przybywaja juz na Cypel; ilu (imiennie wg spisu Vemunda), ile ognisk, czym przeplyneli (lodzie Mormontow / wlasne), co jedza, czego brakuje; czy Torgen Szary dojechal i siadl w Sadzie Rozjemczym.",
+   "kto": "VEMUND OD KOTWY (przystan na Cyplu) + TORGEN SZARY",
+   "kanal": "kruk WF-Deepwood (08-16 po poludniu) + jezdziec lancucha Robetta na Cypel i z powrotem",
+   "wraca": "300-08-25",
+   "zamyka": "karta Vemunda/Torgena z liczbami albo nazwany brak (RZUT przy meldunku - obce: wolni ludzie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -12243,7 +12243,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-15",
    "zamyka": "zadanie oddane na lekcji 8",
-   "status": "otwarte ### 08-13: zrobione (rzut 8 - ZLE): 3/8 zdan dobrze; w 5 warunek po zdaniu glownym - ciete w zlym miejscu. Do omowienia na lekcji 8. ### 08-15 przed poludniem: kartka POPRAWIONA (bez nowego rzutu - zasada 27; zrozumienie z nauki 08-14, rzut 75). Do oddania wieczorem na lekcji 8."
+   "status": "zamkniete 300-08-15 ### oddane na lekcji 8: obie kartki (stara i poprawiona); Luwin - poprawiona dobra."
   },
   {
    "data": "300-08-13",
@@ -12450,6 +12450,15 @@
    "kanal": "kruk Domu (po burzy ~08-16) + woz Domu",
    "wraca": "300-08-30",
    "zamyka": "ksiegi w Wiezy, wpis w spisie ksiegozbioru",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-15",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 08-19 (po lekcji 8, rzut 30): TABELA DWOCH KONCOWEK - nakaz prawny (bez podmiotu, 'niech bedzie...') obok trybu skutkowego; w paragrafie prawa morskiego nastepnym po zadaniu oznaczyc kazdy czasownik: S (skutek) albo N (nakaz).",
+   "kto": "SYMON (nauka wlasna) -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-08-19",
+   "zamyka": "zadanie oddane na lekcji 9",
    "status": "otwarte"
   }
  ],

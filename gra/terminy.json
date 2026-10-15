@@ -12487,6 +12487,15 @@
    "wraca": "300-08-25",
    "zamyka": "karta Vemunda/Torgena z liczbami albo nazwany brak (RZUT przy meldunku - obce: wolni ludzie)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-16",
+   "co": "PROBA KOMORY ZBOZOWEJ W SKALE (slowo pana 08-16; gra/proba_komory_zbozowej_300_08_16.md): A - piwnica pod Winterfell (nie krypty), suszona, wapno, piasek, glina; B - spichrz Krola; po 20 korcy owsa z jednego worka (E); liczenie co kwartal: waga, wilgoc (klebek welny), szkodniki, kielkowanie 100 ziaren; Luwin + pisarz Berona.",
+   "kto": "LUWIN + murarze zamkowi; GAWEN/RODWELL (40 korcy z zapasu Korony - 'proba')",
+   "kanal": "na miejscu, Winterfell",
+   "wraca": "300-09-01",
+   "zamyka": "piwnica gotowa i zasyp z liczeniem zerowym; dalej karty kwartalne do ~301-06",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

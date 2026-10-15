@@ -12505,6 +12505,15 @@
    "wraca": "300-08-30",
    "zamyka": "oferty klanow (ilosc, cena, termin) - RZUT przy odpowiedzi",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-16",
+   "co": "KAMIENNY BRZEG - OWCE Z WYBRZEZA (zapytanie pana 08-16, rada Luwina): czy na brzegu sa drobne kudlate owce, ktore zima jedza wodorosty; ile, czyje (wsie, osady Sigrun), czy da sie kupic stado (ile, za co), jak zimuja (bez siana?); co mowia pasterze.",
+   "kto": "BRANN MOKRY + ser CORWIN (Kamienny Brzeg)",
+   "kanal": "kruk WF-Deepwood + jezdziec lancucha Robetta i z powrotem",
+   "wraca": "300-08-25",
+   "zamyka": "odpowiedz z liczbami albo 'nie ma takich' (RZUT przy odpowiedzi)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

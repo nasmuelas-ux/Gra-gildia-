@@ -13162,6 +13162,15 @@
    "wraca": "300-09-05",
    "zamyka": "odbior obwieszczenia w obu miejscach (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-26",
+   "co": "POBOR WSCHODU - DAR BUTOW: 13 par zimowych butow (dorobka szewcow ZM) wozem do Dustinportu dla kolumny ser Edwyle'a (12 par i 49 par rekawic wydane 08-26 wieczorem). Wlasni - bez rzutu.",
+   "kto": "faktor ZM (Dom) + szewcy ZM",
+   "kanal": "woz ZM-Barrowton-Dustinport",
+   "wraca": "300-09-05",
+   "zamyka": "buty u ludzi w Dustinporcie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

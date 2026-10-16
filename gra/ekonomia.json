@@ -1174,6 +1174,13 @@
    "kwota": -70,
    "opis": "POMOST W UJSCIU - polowa lenna (Weylin rysuje, ciesle Wymana + ludzie lenna; drewno lenna), placone w miare budowy IX",
    "zrodlo": "slowo pana 300-08-14 (pol na pol) + kosztorys Warryna 08-20 (E, moc zapisu)"
+  },
+  {
+   "data": "300-08-26",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -1.49,
+   "opis": "DAR DLA POBORU WSCHODU: 25 par zimowych butow (8 jeleni) + 49 par rekawic (2 jelenie) = 298 jeleni (E, moc zapisu); 12 par od reki w ZM, 13 woz do Dustinportu ~09-05",
+   "zrodlo": "slowo pana 300-08-26 'wyposazyc ich w ramach daru'; rzut 25 (dostepnosc)"
   }
  ],
  "_symulacje": {

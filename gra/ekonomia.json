@@ -665,7 +665,10 @@
     }
    ],
    "korekta_dochodu": "⚠ STARE 15-30/MIES W MONECIE JEST JUZ NIEAKTUALNE. Pochodzilo z czasu, gdy Cailin bylo miasteczkiem, a sprzedaz produkcji wlosci nie miala wlasnej linii. Po ustaleniu 300-03-15 lenno bierze WIELOKROTNIE wiecej - i nadal zgodnie z wlasna doktryna: NIE Z ZIEMI, TYLKO Z RUCHU.",
-   "w_naturze": "⚠ W MONECIE 15-30/MIES, ALE W NATURZE I PRACY - WIELOKROTNOSC TEGO: czynsze i daniny 1/3 do 1/2 plonu w naturze, robocizna 2-3 dni tygodniowo w sezonie. SILNIK LICZY WYLACZNIE MONETE."
+   "w_naturze": "⚠ W MONECIE 15-30/MIES, ALE W NATURZE I PRACY - WIELOKROTNOSC TEGO: czynsze i daniny 1/3 do 1/2 plonu w naturze, robocizna 2-3 dni tygodniowo w sezonie. SILNIK LICZY WYLACZNIE MONETE.",
+   "skrzynia_na": "300-08-17",
+   "skrzynia": 487,
+   "skrzynia_zrodlo": "karta wycen Gawena 300-08-19 (E, moc zapisu)"
   },
   "KASA 3 - SKARB POLNOCY": {
    "opis": "Nowy fisk krolewski, urzad stworzony przed niespelna rokiem. ~3500 rocznie W MONECIE - to nie jest majatek Polnocy ani osobisty dochod Starkow (25-40 tys.).",
@@ -1028,6 +1031,20 @@
    "kwota": -120,
    "opis": "RUSZENIE LENNA - komplety na 700: reszta przy odbiorze",
    "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
+  },
+  {
+   "data": "300-09-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -102,
+   "opis": "KOSZARY PRZYBOCZNEJ ZM - ZWROT DOMOWI (zakup 64 + przebudowa 38); budynek przechodzi na lenno (slowo pana 08-14)",
+   "zrodlo": "karta wycen 300-08-19"
+  },
+  {
+   "data": "300-09-01",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": 102,
+   "opis": "KOSZARY PRZYBOCZNEJ ZM - ZWROT OD LENNA (64 + 38)",
+   "zrodlo": "karta wycen 300-08-19"
   }
  ],
  "_symulacje": {

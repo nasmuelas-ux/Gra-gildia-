@@ -10920,7 +10920,7 @@
    "kanal": "—",
    "wraca": "300-08-24",
    "zamyka": "rozjemca wskazany, granica wytyczona",
-   "status": "otwarte ### 08-01 (Krol rzut 48 TAK): ROZJEMCA - czlowiek Justycjariusza (imie wskazuje CERWYN, w WF 08-01/02); OSHA przy nim - bez imienia na papierze, tylko z wlasnej woli (pyta pan; rzut przy rozmowie); 20 z garnizonu WF + choragiew Korony. ### 08-23 Z ZAPISU: ROZJEMCA OBSADZONY - TORGEN SZARY (Sad Rozjemczy 08-16), 20 z WF przy nim. OTWARTE: GRANICA NADANIA - MIERNICZY KORONY BEZ IMIENIA (zasada 12: nieobsadzone); Holt Sosna czeka w Deepwood. DO SLOWA PANA: kto mierzy."
+   "status": "zamkniete 300-08-23 ### 08-23 SLOWO PANA: WYZNACZYC MIERNICZEGO - wg zasady 42 wskazuje THEOMORE czlowieka z Glebokorzenia (ten, ktory mierzyl Przesmyk, albo rownie dobry); rozjemca - Torgen (obsadzony). Pozycja nowa ponizej. ### POPRZEDNIO: byl-otw ### 08-01 (Krol rzut 48 TAK): ROZJEMCA - czlowiek Justycjariusza (imie wskazuje CERWYN, w WF 08-01/02); OSHA przy nim - bez imienia na papierze, tylko z wlasnej woli (pyta pan; rzut przy rozmowie); 20 z garnizonu WF + choragiew Korony. ### 08-23 Z ZAPISU: ROZJEMCA OBSADZONY - TORGEN SZARY (Sad Rozjemczy 08-16), 20 z WF przy nim. OTWARTE: GRANICA NADANIA - MIERNICZY KORONY BEZ IMIENIA (zasada 12: nieobsadzone); Holt Sosna czeka w Deepwood. DO SLOWA PANA: kto mierzy."
   },
   {
    "data": "300-07-26",
@@ -12981,6 +12981,15 @@
    "kanal": "na miejscu (ZM) + jezdziec do Przystani",
    "wraca": "300-08-27",
    "zamyka": "lista przyjetych po nowym ogloszeniu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-23",
+   "co": "CYPEL - MIERNICZY KORONY DO GRANICY NADANIA (slowo pana 08-23): THEOMORE wskazuje mierniczego z Glebokorzenia (zasada 42); jedzie do Deepwood po HOLTA SOSNE (lesnik Robetta), razem wytyczaja granice nadania Cypla - jawnie, dwa odpisy (Korona, Glover), Torgen jako rozjemca przy spornych punktach; po pomiarze - wieze Robetta w lancuchu ognia. Koszt - Kasa 3 (Gawen). Wlasni - bez rzutu na wskazanie; spor o granice z Gloverem - RZUT, jesli powstanie.",
+   "kto": "THEOMORE (wskazuje) ; HOLT SOSNA ; TORGEN ; GAWEN",
+   "kanal": "kruk WF-BP (Theomore) + droga mierniczego Przystan-Deepwood",
+   "wraca": "300-08-28",
+   "zamyka": "imie mierniczego od Theomore'a + data wyjazdu do Deepwood",
    "status": "otwarte"
   }
  ],

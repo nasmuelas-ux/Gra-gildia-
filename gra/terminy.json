@@ -12441,7 +12441,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-08-18",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 08-17: plan gotowy - gra/braavoski_lekcja_9_plan_300_08_17.md (scenka: przewoznik lodzi wezowej, 7 przystankow - historia i architektura Braavos)."
+   "status": "zamkniete 300-08-18 ### lekcja 9 odbyta (rzut 29, PORAZKA w scence; zadania z lekcji 8 - dobrze)."
   },
   {
    "data": "300-08-15",
@@ -12594,6 +12594,15 @@
    "kanal": "na miejscu, WF",
    "wraca": "300-08-25",
    "zamyka": "karta: dlugosci zim i liczba korcy (wlasni - bez rzutu; liczby z ksiag, nie z glowy)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-18",
+   "co": "BRAAVOSKI - LEKCJA 10 (pt 08-22): (1) plan Braavos z 7 przystankami podpisany po braavosku (bez Tytana w srodku); (2) scenka przewoznika DRUGI RAZ - krotsza: 4 przystanki (Tytan, kanaly, Arsenal, Bank), reszta po kolei na nastepnych lekcjach.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-08-22",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

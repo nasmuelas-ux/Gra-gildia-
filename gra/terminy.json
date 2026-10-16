@@ -13008,7 +13008,7 @@
    "kanal": "—",
    "wraca": "300-08-25",
    "zamyka": "slowo pana",
-   "status": "otwarte ### 08-24 SLOWO PANA (TARYFA): (1) woz drogi - 24 jelenie (wg Wymana); (2) OPLATA PRZYSTANIOWA w Ujsciu - ZGODA, osobna, pol na pol. WOLY - NIEROZSTRZYGNIETE (do slowa pana)."
+   "status": "zamkniete 300-08-24 ### 08-24 SLOWO PANA: OBA WOLY W BRAAVOS (II i IV/301); NA WIOSNE 301 KOLEJNY KADLUB U WYMANA w BP (po wodowaniu Kry)."
   },
   {
    "data": "300-08-24",
@@ -13017,6 +13017,24 @@
    "kanal": "kruk WF-Nowy Zamek; kruk WF-Fosa",
    "wraca": "300-08-28",
    "zamyka": "stawki oplaty przystaniowej na pismie + slup stoi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-24",
+   "co": "WOLY - DRUGI LIST DO NESTY 'DOGONIC' (slowo pana 08-24): OBA Woly w Braavos (II i IV/301), nie jeden - odwolanie listu z 08-20; nastepnym statkiem z BP; zadatek wg ksiegi Hala. Czy Braavos utrzymalo drugie miejsce, jesli pierwszy list doszedl wczesniej - RZUT przy odpowiedzi Nesty.",
+   "kto": "HAL -> NESTA",
+   "kanal": "kruk Domu ZM-BP + nastepny statek BP-Braavos i z powrotem",
+   "wraca": "300-10-10",
+   "zamyka": "potwierdzenie Nesty: dwa kadluby, terminy, zadatek",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-24",
+   "co": "WYMAN - ZAMOWIENIE NA WIOSNE 301: KOLEJNY KADLUB DOMU (Wol III) w stoczni BP po wodowaniu Kry (slowo pana 08-24); koszt ~1100 (E, jak Wol), Kasa 1, zadatek przy podpisie. Hal pyta stocznie. Wola stoczni - RZUT przy odpowiedzi (chlod Wymana: +5).",
+   "kto": "HAL -> stocznia WYMANA",
+   "kanal": "kruk Domu ZM-BP",
+   "wraca": "300-08-28",
+   "zamyka": "odpowiedz stoczni: tak/termin/cena",
    "status": "otwarte"
   }
  ],

@@ -13270,6 +13270,60 @@
    "wraca": "300-08-27",
    "zamyka": "odpowiedz krolowej",
    "status": "zamkniete 300-08-27 ### rzut 10 ZLE: krolowa odmawia grzecznie ('moze kiedys, Sanso; teraz mam matki poboru'); pan dowie sie od Sansy. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-08-27",
+   "co": "STALA (slowo pana 08-27, rada Lucana 1): DWIE PIECZECIE, DWA GLOSY - sprawy Korony zawsze 'Namiestnik w imieniu Krola', bez 'Tally' w tresci; sprawy wlasne - 'lord Fosy Cailin'; nigdy na odwrot.",
+   "kto": "BERON (kancelaria) ; LUCAN (Dom)",
+   "kanal": "na miejscu",
+   "wraca": "",
+   "zamyka": "stala",
+   "status": "otwarte - stala"
+  },
+  {
+   "data": "300-08-27",
+   "co": "STALA (slowo pana 08-27, rada Lucana 2 i 7): SILA RODU TAM, GDZIE PANSKIE - Fosa jako widoczna siedziba (szkola, Piecioro drzwi, kuznia, internat, wieze, Dom Domu w Cailin); hojnosc rodu pod imieniem Tally NA WLASNEJ ZIEMI. Pan: mniej przy stolach lordow, wiecej na Fosie i w Radzie; przy powrocie Krola - krok z tylu.",
+   "kto": "SYMON ; GARRICK",
+   "kanal": "na miejscu",
+   "wraca": "",
+   "zamyka": "stala",
+   "status": "otwarte - stala"
+  },
+  {
+   "data": "300-08-27",
+   "co": "HASLO 'WILK RZADZI, FOSA BUDUJE' (slowo pana 08-27, rada Lucana 3): kupcy Domu w BP puszczaja w obieg ta sama droga, ktora przyszlo 'Korona, ktora trzyma Tally'. Wlasni - bez rzutu przy puszczeniu; czy sie przyjmie - RZUT przy raporcie Willi/Hala.",
+   "kto": "LUCAN -> HAL (kruk Domu, szyfr) ; kupcy Domu BP",
+   "kanal": "kruk Domu WF-BP",
+   "wraca": "300-09-20",
+   "zamyka": "odzew z BP/KP: czy haslo krazy (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "SPRZEDAZ KORONIE ANONIMOWO, BEZ ZNAKOW (slowo pana 08-27, zamiast przetargu): beczka dla Spichlerza/Cypla/Muru? - NIE: tylko Korona (Spichlerz, Cypel) - pod imieniem WARZELNI EDRICA SOLNEGO, na beczce tylko 'MIARA KORONY'; Kompania (Dorzecze, Illyria) - pod imieniem Kompanii. Korona wie z ksiegi Skarbu (Gawen, Krol) - umowa przez Skarbnika, nie na slupie. Wlasni - bez rzutu.",
+   "kto": "LUCAN ; HAL ; EDRIC SOLNY ; GAWEN (wie)",
+   "kanal": "kruk Domu WF-BP (szyfr) 08-28",
+   "wraca": "300-09-03",
+   "zamyka": "zmiana znakow w skladzie BP potwierdzona (Hal)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "ZNAK TOWARU I KALENDARZ (slowo pana 08-27, rada Lucana 5): beczka - 'MIARA KORONY' duzo, znak Domu maly, bez nazwiska (w handlu zwyklym); kalendarz 301 - karta tytulowa 'Dom Fosy Cailin', bez 'Tally' (odbitka probna ~09-01 - zmienic przed drukiem). Wlasni - bez rzutu.",
+   "kto": "LUCAN ; HAL ; ILARIO/WAT (druk)",
+   "kanal": "kruk Domu; kruk WF-Fosa",
+   "wraca": "300-09-01",
+   "zamyka": "odbitka z nowa karta tytulowa",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "WILLA - ZRODLO ZDANIA 'KORONA, KTORA TRZYMA TALLY' (slowo pana 08-27, rada Sansy 7 / Lucana 6): czy ktos je sieje (kantor lysenski, ludzie Lwa) czy krazy samo. Przy raporcie o monecie Dreadfortu ~09-10. RZUT przy raporcie.",
+   "kto": "LUCAN -> WILLA (szyfr Domu)",
+   "kanal": "kruk Domu",
+   "wraca": "300-09-10",
+   "zamyka": "odpowiedz Willi (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

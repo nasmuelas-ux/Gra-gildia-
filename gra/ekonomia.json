@@ -554,6 +554,51 @@
      "wzrost_mies": 0.01,
      "sufit": 20,
      "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Spis przedsiebiorstw lenna: 'LEKI OBRACA LOKALNA FILIA - jedyny zaklad lenna z gotowym kanalem sprzedazy'. Dotad bez linii."
+    },
+    {
+     "nazwa": "WIKT 50 Z GARNIZONU WF",
+     "typ": "koszt",
+     "stawka": 2,
+     "okres": "miesiac",
+     "od": "300-08-17",
+     "do": null,
+     "zrodlo": "karta podliczenia lenna 300-08-17 - E, moc zapisu od 08-19"
+    },
+    {
+     "nazwa": "KUZNIA - wegiel drugiego ognia",
+     "typ": "koszt",
+     "stawka": 1.5,
+     "okres": "miesiac",
+     "od": "300-08-01",
+     "do": null,
+     "zrodlo": "karta podliczenia lenna 300-08-17 - E, moc zapisu od 08-19"
+    },
+    {
+     "nazwa": "WARSZTAT KUSZNICZY - kusznik",
+     "typ": "koszt",
+     "stawka": 2,
+     "okres": "miesiac",
+     "od": "300-08-01",
+     "do": null,
+     "zrodlo": "karta podliczenia lenna 300-08-17 - E, moc zapisu od 08-19"
+    },
+    {
+     "nazwa": "JASTRZEBIE (Kessel) - zold i wikt 30",
+     "typ": "koszt",
+     "stawka": 14,
+     "okres": "miesiac",
+     "od": "300-08-01",
+     "do": null,
+     "zrodlo": "karta podliczenia lenna 300-08-17 - E, moc zapisu od 08-19"
+    },
+    {
+     "nazwa": "ROZLADUNEK ZBOZA - wsie lenna na dniowkach (sezon)",
+     "typ": "koszt",
+     "stawka": 6,
+     "okres": "miesiac",
+     "od": "300-09-01",
+     "do": "300-11-30",
+     "zrodlo": "karta podliczenia lenna 300-08-17 - E"
     }
    ],
    "nieznane": [
@@ -934,6 +979,55 @@
    "kwota": -174.72,
    "opis": "GP-2 - ZALICZKA 1/3 kowalom Manderly w BP za lancuch (449,30) i kolowrot (74,85) Goracego Portu; razem 524,15; reszta 349,43 przy odbiorze (~XI). Slowo pana 08-11; Hal wplaca po kruku (~08-12).",
    "zrodlo": "meldunek Hala 08-11, rzut 50"
+  },
+  {
+   "data": "300-08-17",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -38,
+   "opis": "PATRONAT WSI - kozy, narzedzia, siewne za odrobek (karta podliczenia 08-17)",
+   "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
+  },
+  {
+   "data": "300-08-17",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -0.5,
+   "opis": "PREMIA PISARZY NA STARCIE - 2 x 50 jeleni",
+   "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
+  },
+  {
+   "data": "300-08-17",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -6,
+   "opis": "WARSZTAT KUSZNICZY - dzialka od Cailin",
+   "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
+  },
+  {
+   "data": "300-08-17",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -9,
+   "opis": "ZELAZO Z BARROWTON na 12 kusz",
+   "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
+  },
+  {
+   "data": "300-08-17",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -5,
+   "opis": "JASTRZEBIE - 2 lodzie (6/6)",
+   "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
+  },
+  {
+   "data": "300-08-17",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -90,
+   "opis": "RUSZENIE LENNA - komplety na 700: zaliczka",
+   "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
+  },
+  {
+   "data": "300-09-01",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -120,
+   "opis": "RUSZENIE LENNA - komplety na 700: reszta przy odbiorze",
+   "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
   }
  ],
  "_symulacje": {

@@ -638,3 +638,34 @@
 *Dopisek spisującego:* Meera słuchała bez ruchu, a przy zdaniu „bagno ma się tak długo, jak długo ludzie bagna chcą” spojrzała na mnie, nie na Nianię. Jojen kiwnął głową, jakby znał tę bajkę od drugiej strony. Bran zapytał później Meerę szeptem, czy u nich opowiada się to samo. Meera odpowiedziała: *„U nas opowiada się, co było przed tym.”* I nic więcej.
 
 *Uwaga porządkowa (reguła Brana):* Król Bagien, wojny Królów Zimy o Przesmyk, jego pokonanie i ślub Starka z jego córką, po którym Przesmyk przeszedł do Starków, to kanon (dzieje Północy). Pływający dwór, strzały z trzciny i „żaden Stark nie poszedł na bagno z mieczem” to wersja Niani (E). „Bagna się nie bierze, z bagnem się żeni” to E, Niania. Słowa Meery o tym, „co było przed tym”, to E.
+
+## 31. O ZIMOWYCH WILKACH
+*Spisane 300-08-19, we wtorek wieczorem, w izbie Niani, po lekcji u maestra. Po dniu mżawki chłodno, okiennice zamknięte. Słuchali Rickon i mały Walder, Bran z Meerą i Jojenem, Kudłacz pod ławą, Arya na podłodze. Pytanie zadał Bran, który dwa dni wcześniej pytał o długą zimę: „Co robili ludzie, kiedy na zimę było za mało jedzenia dla wszystkich?”*
+
+> Różnie robili, dziecko. Jedni się dzielili, inni nie. Ale jedną rzecz robili tylko na Północy. O niej wam opowiem.
+>
+> Dawno, za smoczych królów, Targaryenowie pokłócili się o tron. Brat stanął przeciw siostrze, a smok przeciw smokowi. Na Północ przyleciał książę na smoku i prosił **Cregana Starka**, lorda Winterfell, o ludzi. Cregan dał słowo.
+>
+> Tylko że tamtego roku przyszła zima, a zimą Północ liczy gęby. Na każdą gębę idzie miska, a misek jest tyle, ile jest w spichrzu, ani jednej więcej.
+>
+> I wtedy przyszli do Winterfell starzy. Ludzie siwi, bez zębów, z jednym okiem, z krzywymi kolanami. Wdowcy, synowie bez ziemi, tacy, co nie mieli komu zostawić ani kawałka pola. Powiedzieli Creganowi: *„Tej zimy i tak nie przeżyjemy. Zjemy tylko chleb, który mógłby zjeść czyjś wnuk. Daj nam konia i miecz, puść nas na południe, a my tam umrzemy za twoje słowo, zamiast tu umierać przy cudzej misce.”*
+>
+> Prowadził ich lord **Dustin** z Barrowton. Nazwali ich **Zimowymi Wilkami**. Ja słyszałam, że było ich dwa tysiące. Ile było naprawdę, tego nie wiem.
+>
+> Poszli na południe i bili się jak młodzi, bo nie mieli nic do stracenia. Prawie wszyscy zostali tam w ziemi. Do domu wróciło ich tylu, że zmieściliby się w tej izbie.
+>
+> *(Rickon zapytał, czy wygrali.)*
+>
+> Wygrali to, po co szli. Tamtej zimy w Barrowton i w Winterfell wnuki jadły ich chleb.
+>
+> *(Arya zapytała, czy mogli zostać w domu.)*
+>
+> Mogli. Nikt ich nie wyganiał. Sami policzyli, tak jak Torrhen nad rzeką. Tylko że Torrhen liczył, ilu wróci, a oni liczyli, ilu zje.
+>
+> I pamiętajcie, dzieci: **jak ktoś stary wychodzi zimą z domu i mówi, że idzie na polowanie, nie pytajcie, kiedy wróci.**
+>
+> Spać.
+
+*Dopisek spisującego:* Mały Walder zapytał głośno, czy Niania też by poszła. Rickon go szturchnął. Niania się zaśmiała, pierwszy raz tego wieczoru: *„Ja jestem za stara nawet na to, dziecko. Mnie by nie wzięli.”* Bran długo nic nie mówił, a potem powiedział do mnie, nie do niej: *„To dlatego trzeba mieć pełne spichrze. Żeby nikt nie musiał tak liczyć.”* Meera spojrzała na niego, potem na mnie. Arya, wychodząc, zatrzymała się w progu i zapytała, czy Dustinowie dalej pamiętają.
+
+*Uwaga porządkowa (reguła Brana):* Taniec Smoków, przylot księcia na smoku (Jacaerys) do Cregana Starka, zima na Północy w czasie wojny, Zimowe Wilki jako starcy i ludzie bez przyszłości, którzy poszli na południe, by nie jeść zimowego chleba, oraz to, że prowadził ich lord Dustin z Barrowton i że prawie wszyscy zginęli, to kanon. Liczba „dwa tysiące” to słowa Niani, która sama mówi, że nie wie. Mowa starych do Cregana, „wnuki jadły ich chleb” i przestroga o starym, który idzie na polowanie, to E, Niania. Słowa Brana i pytanie Aryi to E.

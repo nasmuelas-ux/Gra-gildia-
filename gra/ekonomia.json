@@ -1086,6 +1086,41 @@
    "kwota": -240,
    "opis": "WIELKA KUZNIA Z ODLEWNIA - WKLAD LENNA",
    "zrodlo": "slowo pana 300-08-19: 'placimy wszystko od razu oprocz koszar murowanych' (karta wycen)"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -940,
+   "opis": "R-2 MIEDZ I RURY - magistrala parowa Cailin, etap I (Obaro, Pentos)",
+   "zrodlo": "slowo pana 300-08-19: 'Dom tez placi wszystko od razu, ale jako pozyczki' (karta wycen); klasyfikacja pozyczek - do potwierdzenia"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -420,
+   "opis": "DOM DOMU W CAILIN - kamienica kanalowa",
+   "zrodlo": "slowo pana 300-08-19: 'Dom tez placi wszystko od razu, ale jako pozyczki' (karta wycen); klasyfikacja pozyczek - do potwierdzenia"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -1800,
+   "opis": "POZYCZKA DLA CAILIN - pierwszy rzad kamienic (0,5%/rok, 12 lat z czynszow)",
+   "zrodlo": "slowo pana 300-08-19: 'Dom tez placi wszystko od razu, ale jako pozyczki' (karta wycen); klasyfikacja pozyczek - do potwierdzenia"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -126,
+   "opis": "DOMY DLA PRACUJACYCH - DOM: 14 izb",
+   "zrodlo": "slowo pana 300-08-19: 'Dom tez placi wszystko od razu, ale jako pozyczki' (karta wycen); klasyfikacja pozyczek - do potwierdzenia"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -28,
+   "opis": "INTERNAT SZKOLY FOSY",
+   "zrodlo": "slowo pana 300-08-19: 'Dom tez placi wszystko od razu, ale jako pozyczki' (karta wycen); klasyfikacja pozyczek - do potwierdzenia"
   }
  ],
  "_symulacje": {

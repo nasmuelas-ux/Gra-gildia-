@@ -12639,7 +12639,7 @@
    "kanal": "kruk WF-Fosa + jezdziec Fosa-Dustinport",
    "wraca": "300-08-27",
    "zamyka": "odpowiedzi jenca na dwa pytania (RZUT przy meldunku Theona); odeslanie ~X",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-27 ### meldunek Theona 08-23 (rzut 37 ZLE): 'Czytelnik nie pyta Pyke o wiatr'; o Zatoce nic; pobity - w kuzni portowej. Zatrzymany do konca IX bez zmian; odeslanie - nowa pozycja. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-19",
@@ -12702,7 +12702,7 @@
    "kanal": "kruk WF-Riverrun (08-20 poludnie) i z powrotem",
    "wraca": "300-08-27",
    "zamyka": "odpowiedz Edmure'a",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-27 ### odpowiedz Edmure'a (rzut 19 ZLE): pierscien od ladu trzyma; lodzie z Duskendale nocami; lordowie do zniw. Do slowa pana - nowa pozycja. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-20",
@@ -12801,7 +12801,7 @@
    "kanal": "na miejscu (Winterfell)",
    "wraca": "300-08-27",
    "zamyka": "Gawen zamawia albo milczy (nazwane)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-27 ### Gawen zamawia (rzut 81): Spichlerz 400 + Cypel 60, zadatek 25,88 z Kasy 3, dostawa X i XII. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-20",
@@ -12810,7 +12810,7 @@
    "kanal": "kruk WF-Czarny Zamek i z powrotem",
    "wraca": "300-08-27",
    "zamyka": "odpowiedz Osrica",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-27 ### Osric (rzut 87): 160 beczek, Straz placi calosc, zadatek 9 ~09-05, dostawa morzem do Wschodniej Straznicy przed koncem X. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-20",
@@ -12981,7 +12981,7 @@
    "kanal": "na miejscu (ZM) + jezdziec do Przystani",
    "wraca": "300-08-27",
    "zamyka": "lista przyjetych po nowym ogloszeniu",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-27 ### lista (rzut 50, sukces z kosztem): +14 = 22; jada ~09-05 po zniwach; powrot najpozniej 10-31 na pismie. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-23",
@@ -13179,6 +13179,51 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-29",
    "zamyka": "lekcja 12 odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "JENIEC Z HARLAW - ODESLANIE PO OKNIE ZELAZNYCH (slowo pana 08-19, C): po koncu IX statkiem kupieckim przez Seagard, bez pisma, ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Do tego czasu w kuzni portowej Dustinportu pod strazem (po pobiciu przy pochylni).",
+   "kto": "THEON ; Seagard (placowka Domu)",
+   "kanal": "statek kupiecki Dustinport-Seagard",
+   "wraca": "300-10-05",
+   "zamyka": "jeniec na statku; meldunek Theona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "MAIDENPOOL - LODZIE Z DUSKENDALE (odpowiedz Edmure'a 08-27, rzut 19): pierscien od ladu trzyma, ale nocami wchodza lodzie z maka i beltami; lordowie Edmure'a trzymaja sie do zniw. Pytanie Edmure'a: czym zamknac wode. DO SLOWA PANA.",
+   "kto": "SYMON ; BRYNDEN",
+   "kanal": "osobiscie, WF; kruk WF-Riverrun",
+   "wraca": "300-08-28",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "BECZKA ZIMOWA - DOSTAWY: Mur 160 (morzem BP->Wschodnia Straznica przed koncem X; zadatek Strazy 9 smokow wozem ~09-05), Spichlerz Korony 400 + Cypel 60 (polowa X, polowa XII; zadatek 25,88 z Kasy 3 08-27; umowe podpisuje Gawen). Wlasni (Dom) - bez rzutu przy wykonaniu.",
+   "kto": "LUCAN ; EDRIC SOLNY ; HAL",
+   "kanal": "kruk Domu ZM-BP",
+   "wraca": "300-10-31",
+   "zamyka": "pierwsze dostawy wykonane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "BECZKA ZIMOWA - CZY UNIESIEMY 800 BECZEK DO XII (zasada 8): sol warzelni, jesienny ciag sledzia, bednarze BP. Lucan + Edric Solny licza. Wlasni - bez rzutu; liczba z ksiegi Hala (E, moc zapisu).",
+   "kto": "LUCAN ; EDRIC SOLNY",
+   "kanal": "kruk Domu ZM-BP",
+   "wraca": "300-09-03",
+   "zamyka": "rachunek Lucana na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "PRZYSTAN WILKA - DRUGA GRUPA Z ZM (14: 3 murarzy, 2 ciesli, 9 pomocnikow) jedzie po swoich zniwach ~09-05 wozem Korony; POWROT NA PISMIE najpozniej 10-31 (slup ZM). Wlasni Korony - bez rzutu.",
+   "kto": "GAWEN + lawa ZM ; BORS",
+   "kanal": "na miejscu (ZM) + jezdziec do Przystani",
+   "wraca": "300-09-05",
+   "zamyka": "grupa w Przystani (karta Borsa)",
    "status": "otwarte"
   }
  ],

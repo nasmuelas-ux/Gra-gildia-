@@ -9507,7 +9507,7 @@
    "kanal": "osobiscie Winterfell; kruk BP; statek BP-Braavos",
    "wraca": "300-08-23",
    "zamyka": "rachunek Lucana z liczbami Hala i slowo pana o pierwszej partii do Banku",
-   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): liczby jest: 11 partii (7 po ugodzie) + 5 weksli, nominal ~900 / zaplacone ~480 (E); proba Lys 96. Rada Lucana przy odczycie - DO SLOWA PANA. ### 08-06 WIECZOR SLOWO PANA: ZGODA na rade Lucana: NIC NIE SPRZEDAWAC - ani kwitow po ugodzie, ani sprzed ugody, ani weksli Lannisportu - do drugiej nogi proby Lys (Willa ~08-22). Nie podnosic ceny piaty raz. ### 08-22 (poczta_300_08_22.md): PROBA LYS ZAMKNIETA (obie nogi) - wstrzymanie konczy sie; plan Lucana 07-13: (a) Bank przez Neste, (b) dar dla Krola - DO SLOWA PANA."
+   "status": "zamkniete 300-08-22 ### 08-22 SLOWO PANA: ZGODA NA PLAN LUCANA - (a) 4 partie sprzed ugody + 5 weksli Lannisportu -> Bank w Braavos przez Neste, kawalkami; (b) 7 partii po ugodzie -> dar dla Krola (przy sprawach Korony, za jego wiedza). Dalej - pozycje nowe. ### POPRZEDNIO: byl-otw ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): liczby jest: 11 partii (7 po ugodzie) + 5 weksli, nominal ~900 / zaplacone ~480 (E); proba Lys 96. Rada Lucana przy odczycie - DO SLOWA PANA. ### 08-06 WIECZOR SLOWO PANA: ZGODA na rade Lucana: NIC NIE SPRZEDAWAC - ani kwitow po ugodzie, ani sprzed ugody, ani weksli Lannisportu - do drugiej nogi proby Lys (Willa ~08-22). Nie podnosic ceny piaty raz. ### 08-22 (poczta_300_08_22.md): PROBA LYS ZAMKNIETA (obie nogi) - wstrzymanie konczy sie; plan Lucana 07-13: (a) Bank przez Neste, (b) dar dla Krola - DO SLOWA PANA."
   },
   {
    "data": "300-07-13",
@@ -12270,7 +12270,7 @@
    "kanal": "KRUK DOMU Winterfell-Seagard (wieczorny lot 08-13; placowka ma kruki Domu - slowo pana 08-13) i z powrotem (E ~1-2 dni w jedna strone)",
    "wraca": "300-08-23",
    "zamyka": "pierwszy meldunek z Seagard krukiem Domu (rzut na odzew Mallisterow/portu); dalej cykl SEAGARD_ZAGLE co 7 dni",
-   "status": "otwarte ### 08-13 POPRAWKA KANALU: nie przez Lymana i Riverrun - placowka ma kruka Domu (slowo pana). ### 08-16: Seagard - droga w obie strony; ~08-22. ### 08-22 (poczta_300_08_22.md): PIERWSZY MELDUNEK RZUT 18: cienki; ludzie Mallistera pytaja, do kogo kupiec pisze krukami. Kierownik: pisac rzadziej/tylko przy ruchu albo list Domu do Mallisterow. DO SLOWA PANA."
+   "status": "zamkniete 300-08-22 ### 08-22 SLOWO PANA: PISAC RZADZIEJ - co 14 dni i od razu tylko przy ruchu (cykl SEAGARD_ZAGLE zmieniony). ### POPRZEDNIO: byl-otw ### 08-13 POPRAWKA KANALU: nie przez Lymana i Riverrun - placowka ma kruka Domu (slowo pana). ### 08-16: Seagard - droga w obie strony; ~08-22. ### 08-22 (poczta_300_08_22.md): PIERWSZY MELDUNEK RZUT 18: cienki; ludzie Mallistera pytaja, do kogo kupiec pisze krukami. Kierownik: pisac rzadziej/tylko przy ruchu albo list Domu do Mallisterow. DO SLOWA PANA."
   },
   {
    "data": "300-08-13",
@@ -12928,6 +12928,33 @@
    "wraca": "300-08-25",
    "zamyka": "lekcja odbyta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-22",
+   "co": "PAPIERY LWA (a) - PIERWSZA PARTIA DO BANKU W BRAAVOS PRZEZ NESTE (slowo pana 08-22): kwity sprzed ugody i weksle Lannisportu, kawalkami; Lucan z Halem wybieraja pierwsza partie i cene minimalna; list statkiem. Odpowiedz Banku - RZUT przy pierwszej partii.",
+   "kto": "LUCAN + HAL -> NESTA (Bank)",
+   "kanal": "kruk Domu ZM-BP + statek BP-Braavos i z powrotem (~48 dni)",
+   "wraca": "300-10-10",
+   "zamyka": "odpowiedz Banku na pierwsza partie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-22",
+   "co": "PAPIERY LWA (b) - 7 PARTII KWITOW PO UGODZIE JAKO DAR DLA KROLA (slowo pana 08-22): przy sprawach Korony, za wiedza Krola; przekazanie po powrocie Krola ze Skagos. Wlasni - bez rzutu.",
+   "kto": "SYMON + LUCAN -> KROL",
+   "kanal": "osobiscie",
+   "wraca": "300-09-15",
+   "zamyka": "kwity w rekach Krola (albo data powrotu Krola)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-22",
+   "co": "THEON - PROSBA O ODCZYT (slowo pana 08-22): Lannisport odbudowuje flote (~12 kadlubow) i patrzy na Wyspy; zold Skaly; czarny kadlub bez znaku (jeniec Harlaw + sluch z Lys, valyrianskie zloto). Bez zrodla (firewall Willi - 'z naszych zrodel'). Pismo do rak przez Fose (Harrol szyfruje do Fosy, dalej jezdziec). Jakosc odczytu - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> THEON",
+   "kanal": "kruk WF-Fosa (szyfr) + jezdziec Fosa-Dustinport i z powrotem",
+   "wraca": "300-09-03",
+   "zamyka": "odczyt Theona na pismie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -13223,12 +13250,13 @@
    "kto": "placowka Domu w Seagard",
    "kanal": "kruk Domu Seagard-Winterfell",
    "rytm": {
-    "co_dni": 7,
+    "co_dni": 14,
     "start": "300-08-23"
    },
    "opoznienie": 0,
    "ostatnio_odebrane": "300-08-16",
-   "zrodlo": "poczta_300_08_13_seagard_flint.md"
+   "zrodlo": "poczta_300_08_13_seagard_flint.md",
+   "uwaga_0822": "slowo pana 08-22: pisac rzadziej - co 14 dni, przy ruchu od razu (ludzie Mallistera pytaja o kruki, rzut 18)"
   },
   {
    "id": "ROZLICZENIE_KOMPANII",

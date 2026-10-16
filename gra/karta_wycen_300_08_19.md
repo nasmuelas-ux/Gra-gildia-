@@ -4,7 +4,7 @@
 ## A. STAN
 | | kwota | uwagi |
 |---|---|---|
-| **Skrzynia Kasy 2 (lenno) na 08-17** | **487** | po obligacji (+800, IV), budowach lenna „z bieżącego” i karcie podliczenia z 08-17 |
+| ~~Skrzynia Kasy 2 na 08-17: 487~~ | **VOID 08-19 (zasada 46)** | liczba z głowy, rozmyła wyniki miesięcy. **SKARBIEC LENNA DZIŚ: 1239–3633** (`kasa.py skarbce`: narastająco od 299-09, z obligacją +800, przewłoką −318 i kartą podliczenia −148,5). **SKARBIEC DOMU: 2379–8715 wolne + bufor 1000** |
 
 ## B. ROBOTY JUŻ W TOKU
 | # | rzecz | kasa | wydane do 08-17 | do końca | czas |
@@ -29,6 +29,6 @@
 
 ## D. CO Z TEGO WYNIKA (Gawen, bez upiększania)
 - **Kasa 1 (Dom)** udźwignie 1, 2, 4, 5, 6, 8 (część Domu) i 10. Zarabia 1500–3700 miesięcznie, a bufor 1000 zostaje nietknięty. Pożyczka dla Cailin (1800) to **jeden miesiąc wyniku Domu w zamrożeniu na 12 lat**.
-- **Kasa 2 (lenno) nie udźwignie wszystkiego naraz.** W skrzyni ma 487, a zarabia 105–496 miesięcznie (po nowych kosztach stałych). Do zapłacenia jest: zwrot za koszary 102, reszta ruszenia 120 (IX), Jastrzębie +120 i +33 miesięcznie, domy lenna 180, kuźnia 240 i koszary murowane 1150.
-- **Kolejność proponowana przez Gawena dla lenna:** (1) ruszenie, reszta 120 · (2) zwrot za koszary 102 · (3) domy lenna 180 przed zimą · (4) Jastrzębie: fala druga dopiero po zbożu z Reach · (5) kuźnia 240 w 301 · (6) koszary murowane 1150 **z obligacji drugiej albo z kredytu Domu**, nie z bieżącego.
+- ~~Kasa 2 nie udźwignie wszystkiego naraz~~ **POPRAWIONE 08-19:** w skarbcu lenna leży **1239–3633**. Udźwignie zwrot za koszary 102, resztę ruszenia 120, Jastrzębie 120 i domy lenna 180 od razu (razem 522), a do tego kuźnię 240. **Koszary murowane (1150) udźwignie na górnym brzegu, a na dolnym byłby to cały skarbiec.**
+- *(Stara kolejność, sprzed poprawki:)* **Kolejność proponowana przez Gawena dla lenna:** (1) ruszenie, reszta 120 · (2) zwrot za koszary 102 · (3) domy lenna 180 przed zimą · (4) Jastrzębie: fala druga dopiero po zbożu z Reach · (5) kuźnia 240 w 301 · (6) koszary murowane 1150 **z obligacji drugiej albo z kredytu Domu**, nie z bieżącego.
 - *„Teraz macie liczby. Każda jest gorsza niż brak liczby, bo każdej trzeba będzie dotrzymać.”*

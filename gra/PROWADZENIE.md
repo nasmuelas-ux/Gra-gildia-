@@ -507,4 +507,10 @@ Pięć bloków, ta sama kolejność. Zmienia się WNĘTRZE dwóch:
 4. **STATUS** — sytość/zmęczenie/zdrowie + kasa.
 5. **🧵 WĄTKI — MAKSIMUM TRZY LINIE, TYLKO WYJĄTKI:** ZAPADA DZIŚ · SPÓŹNIONE (ile dni) · BEZ TERMINU albo PUSTE KRZESŁO. Potem „co robisz?" bez listy opcji.
 
+### 46 — SKARBCE NARASTAJĄ. KAŻDA NIEWYDANA KWOTA ZOSTAJE. WYCEN SIĘ NIE PRZESUWA. *(stała, 300-08-19, na wskazanie gracza: „Lenno powinno mieć więcej, bo nie kumulowaliście co miesiąc zysków, tylko je rozmywałeś. Każda niewykorzystana kwota zostaje w skarbcu, tak samo z DOMEM. Popraw to w ekonomii i nie przesuwaj tego." oraz „ile razy mam prosić o wycenę")*
+- **Stan skarbca podaje silnik, nie pamięć:** `python3 gra/kasa.py skarbce`. Skarbiec Domu to bufor plus wolna gotówka narastająca co miesiąc, plus zdarzenia (wypłaty wspólnikom, zakupy). Skarbiec lenna to suma wyniku każdego miesiąca od 299-09, plus zdarzenia.
+- **Nie wolno wpisywać „skrzyni” lenna ani Domu z głowy.** Skrzynia jest sumą wyników minus wydatki zapisane jako zdarzenia.
+- **Wydatek, którego nie ma w zapisie, nie pomniejsza skarbca** (zasada 43). Kiedy przyjdzie kwit, wchodzi jako zdarzenie z datą.
+- **Wycenę, o którą prosi gracz, podaje się w tej samej turze** z ksiąg, które już leżą w Winterfell, jako E z mocą zapisu. Nie odsyła się jej na „~data”.
+
 **DZIEŃ BILANSU (1. dnia miesiąca)** dostaje stałą zawartość: kasa · daniny · **MELDUNKI BUDÓW wedle zasady 33**, po jednym akapicie z każdego miejsca.

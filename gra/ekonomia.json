@@ -665,10 +665,7 @@
     }
    ],
    "korekta_dochodu": "⚠ STARE 15-30/MIES W MONECIE JEST JUZ NIEAKTUALNE. Pochodzilo z czasu, gdy Cailin bylo miasteczkiem, a sprzedaz produkcji wlosci nie miala wlasnej linii. Po ustaleniu 300-03-15 lenno bierze WIELOKROTNIE wiecej - i nadal zgodnie z wlasna doktryna: NIE Z ZIEMI, TYLKO Z RUCHU.",
-   "w_naturze": "⚠ W MONECIE 15-30/MIES, ALE W NATURZE I PRACY - WIELOKROTNOSC TEGO: czynsze i daniny 1/3 do 1/2 plonu w naturze, robocizna 2-3 dni tygodniowo w sezonie. SILNIK LICZY WYLACZNIE MONETE.",
-   "skrzynia_na": "300-08-17",
-   "skrzynia": 487,
-   "skrzynia_zrodlo": "karta wycen Gawena 300-08-19 (E, moc zapisu)"
+   "w_naturze": "⚠ W MONECIE 15-30/MIES, ALE W NATURZE I PRACY - WIELOKROTNOSC TEGO: czynsze i daniny 1/3 do 1/2 plonu w naturze, robocizna 2-3 dni tygodniowo w sezonie. SILNIK LICZY WYLACZNIE MONETE."
   },
   "KASA 3 - SKARB POLNOCY": {
    "opis": "Nowy fisk krolewski, urzad stworzony przed niespelna rokiem. ~3500 rocznie W MONECIE - to nie jest majatek Polnocy ani osobisty dochod Starkow (25-40 tys.).",
@@ -1045,6 +1042,20 @@
    "kwota": 102,
    "opis": "KOSZARY PRZYBOCZNEJ ZM - ZWROT OD LENNA (64 + 38)",
    "zrodlo": "karta wycen 300-08-19"
+  },
+  {
+   "data": "300-07-14",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -500,
+   "opis": "WYPLATA WSPOLNIKOM - DYWIDENDA VII (Symon 1/3 = 166,67; Nesta 1/3; Hal 1/6; Mira 1/6 = 83,33; razem 500)",
+   "zrodlo": "rozkaz 07-14, dywidenda VII w zapisie (Symon 166,67, Mira 83,33); dopisane 300-08-19 przy kumulacji skarbcow"
+  },
+  {
+   "data": "300-08-11",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -673.41,
+   "opis": "WYPLATA WSPOLNIKOM - WYROWNANIE VIII (Symon 224,47, Nesta 224,47, Hal 112,24, Mira 112,24)",
+   "zrodlo": "meldunek Hala 08-11; dopisane 300-08-19 przy kumulacji skarbcow"
   }
  ],
  "_symulacje": {
@@ -1334,16 +1345,11 @@
   }
  ],
  "_skarbiec_lenna": {
-  "_opis": "SKARBIEC LENNA FOSY CAILIN - ODREBNA POZYCJA (rozstrzygniecie gracza 300-06-20). Sakwa pana jest jedna (300-03-18), ale LENNO MA WLASNY SKARBIEC i wlasne saldo - NIE wchodzi w obroty, wolna gotowke ani bufor Domu. Przeplyw Dom<->lenno tylko jawnie zapisany (jak pozyczka). Trzyma: WARRYN (rzadca), na Fosie; rada lenna widzi saldo w raporcie co 14 dni.",
-  "na_dzien": "300-06-20",
-  "min": 811,
-  "max": 1856,
-  "sklad": "Obliczone wstecz od 300-03-18 (scalenie sakwy) z rubryki KASA 2 (kasa.py, wynik operacyjny po garnizonie i szkole): III od 18-go ~18..62 (14/31 miesiaca) + IV 115..486 + EMISJA OBLIGACJI LENNA +800 (04-01) + V 117..493 + VI do 20-go ~79..333 (20/30) - PRZEWLOKA 318 (z obligacji) = 811..1856 (E, zaokr.).",
-  "do_rozliczenia": "WYDATKI BUDOW LENNA placone 'z biezacego' (grobla, trakt i odnogi, spichlerze wiejskie od 06-05, kwatery od 06-10, Goracy Port - mur, nabor murarzy, dniowki) NIE SA w rubryce Kasa 2 kasa.py - saldo jest PRZED ich potraceniem. Warryn rozlicza z ksiegi lenna do 07-05 (zasada 43: liczb sie nie zgaduje).",
-  "obligacja": "z 800 zostalo 482 po przewloce - czesc salda; kupon 68 rocznie od 301-04-01; wykup 800 w 315-04-01.",
-  "zrodlo": "rozstrzygniecie gracza 300-06-20 (Fosa, izba rzadcy); kasa.py miesiac 300-03..06",
-  "pozyczka_domu": "ZGODA PANA 300-06-21: jawna pozyczka z sakwy pana na skarbiec lenna, gdyby lipiec nie domknal pozycji (a)-(c) kolejnosci Warryna; na papierze w obu ksiegach (Hal + Warryn), kwota z wniosku Warryna przy rozliczeniu 07-05/08-05; bez procentu (E). Na dzis: NIE UDZIELONA.",
-  "prog_rady": "300-06-21: wydatek jednorazowy ze skarbca lenna PONAD 50 SMOKOW - tylko za pieczecia pana; do 50 - Rada Lenna i protokol."
+  "_opis": "SKARBIEC LENNA (Kasa 2) NARASTA CO MIESIAC - slowo gracza 300-08-19: 'kazda niewykorzystana kwota zostaje w skarbcu, tak samo z Domem; nie rozmywac'. Baza = 0 na dzien przed pierwsza pozycja Kasy 2; dalej: wynik operacyjny kazdego miesiaca + zdarzenia (obligacja +800, przewloka -318 z emisji, karta podliczenia...). Liczy: python3 gra/kasa.py skarbce.",
+  "na_dzien": "299-08-30",
+  "min": 0,
+  "max": 0,
+  "poza_suma": "WYDATKI BUDOW LENNA 'z biezacego' 06-07 (grobla, trakt, spichlerze wiejskie, kwatery, nabor murarzy, dniowki) - kwot brak w zapisie (zasada 43); jesli Warryn przyniesie kwity, wchodza jako zdarzenia."
  },
  "_skarbiec_korony": {
   "_opis": "SKRZYNIA SKARBU KORONY (Kasa 3) - USTALONA PRZY LICZENIU 300-07-14 (Gawen + Beron swiadek). Od tej liczby sie liczy dalej (zasada 43: liczba raz ustalona jest ustalona).",

@@ -6,6 +6,7 @@
     python3 gra/kasa.py dzien 300-03-15 -> naliczenie za jeden dzien
     python3 gra/kasa.py miesiac 300-03  -> ZAMKNIECIE MIESIACA
     python3 gra/kasa.py rok 300         -> zamkniecie roku
+    python3 gra/kasa.py skarbce         -> skarbce narastajaco (Dom i lenno; slowo gracza 300-08-19)
 
 ZASADA NACZELNA (zasady 1a, 43, 44):
   Kazda pozycja ma 'zrodlo'. Pozycja bez zrodla NIE WCHODZI DO SUMY.
@@ -574,6 +575,91 @@ def wolne(r, m, d):
     print("=" * 78)
 
 
+def _zdarz_mies(E, nazwa, rr, mm, do_dnia=None):
+    """Suma zdarzen jednorazowych kasy w miesiacu (lo, hi). Przewloka z emisji (Sakwa Pana) liczy sie do Kasy 2."""
+    lo = hi = 0.0
+    for z in E.get("zdarzenia", []):
+        k = z.get("kasa", "")
+        nalezy = (k == nazwa) or (nazwa.startswith("KASA 2") and k.startswith("SAKWA PANA") and "OBLIGACJI LENNA" in z.get("opis", ""))
+        if not nalezy:
+            continue
+        v = parsuj(z.get("data"))
+        if not v or (v[0], v[1]) != (rr, mm):
+            continue
+        if do_dnia is not None and v[2] > do_dnia:
+            continue
+        if "kwota" in z:
+            a = b = float(z["kwota"])
+        else:
+            a, b = float(z.get("min", 0)), float(z.get("max", 0))
+        lo += a
+        hi += b
+    return lo, hi
+
+
+def skarbce(r, m, d):
+    """SKARBCE NARASTAJACE (slowo gracza 300-08-19): kazda niewykorzystana kwota zostaje w skarbcu.
+    Kasa 1: bufor + wolna gotowka (zysk x (1 - reinwestycja)) + zdarzenia (wyplaty wspolnikom, zakupy...).
+    Kasa 2: od bazy, wynik operacyjny kazdego miesiaca w calosci + zdarzenia."""
+    E = L("ekonomia.json")
+    # ---------------- KASA 1
+    S = E["_skrzynia"]
+    R = E.get("_rachunek_domu", {})
+    r0, r1 = R.get("reinwestycja", [0.25, 0.35])
+    v = parsuj(S["na_dzien"])
+    print("=" * 78)
+    print("SKARBIEC DOMU (KASA 1) na %d-%02d-%02d - narastajaco" % (r, m, d))
+    print("=" * 78)
+    print("  %-56s %12.2f" % ("BUFOR HALA (stoi pelny, nie do wydawania)", S.get("bufor", 0)))
+    lo, hi = float(S.get("wolna_min", 0)), float(S.get("wolna_max", 0))
+    print("  %-56s %s" % ("wolna gotowka na %s" % S["na_dzien"], fmt(lo, hi)))
+    rr, mm = v[0], v[1] + 1
+    if mm > MIES_W_ROKU:
+        rr, mm = rr + 1, 1
+    while (rr * MIES_W_ROKU + mm) <= (r * MIES_W_ROKU + m):
+        w = licz("miesiac", rr, mm)["KASA 1 - DOM HANDLOWY TALLY"]
+        zl = sum(x[1] for x in w["wiersze"]); zh = sum(x[2] for x in w["wiersze"])
+        czesc = 1.0 if (rr, mm) != (r, m) else d / float(DNI_W_MIESIACU)
+        dl, dh = zl * (1 - r1) * czesc, zh * (1 - r0) * czesc
+        el, eh = _zdarz_mies(E, "KASA 1 - DOM HANDLOWY TALLY", rr, mm, d if (rr, mm) == (r, m) else None)
+        print("  %-56s %s" % ("+ %d-%02d wolna gotowka%s" % (rr, mm, "" if czesc == 1.0 else " (do %d.)" % d), fmt(dl, dh)))
+        if el or eh:
+            print("  %-56s %s" % ("  %d-%02d zdarzenia (wyplaty, zakupy, wplywy)" % (rr, mm), fmt(el, eh)))
+        lo += dl + el; hi += dh + eh
+        mm += 1
+        if mm > MIES_W_ROKU:
+            rr, mm = rr + 1, 1
+    print("  " + "-" * 74)
+    print("  %-56s %s" % (">>> SKARBIEC DOMU - WOLNE DZIS (poza buforem)", fmt(lo, hi)))
+    # ---------------- KASA 2
+    B = E.get("_skarbiec_lenna", {})
+    v = parsuj(B.get("na_dzien", "299-08-30"))
+    lo, hi = float(B.get("min", 0)), float(B.get("max", 0))
+    print()
+    print("=" * 78)
+    print("SKARBIEC LENNA (KASA 2) na %d-%02d-%02d - narastajaco od %s" % (r, m, d, B.get("na_dzien")))
+    print("=" * 78)
+    rr, mm = v[0], v[1] + 1
+    if mm > MIES_W_ROKU:
+        rr, mm = rr + 1, 1
+    while (rr * MIES_W_ROKU + mm) <= (r * MIES_W_ROKU + m):
+        w = licz("miesiac", rr, mm)["KASA 2 - LENNO FOSY CAILIN"]
+        zl = sum(x[1] for x in w["wiersze"]); zh = sum(x[2] for x in w["wiersze"])
+        czesc = 1.0 if (rr, mm) != (r, m) else d / float(DNI_W_MIESIACU)
+        el, eh = _zdarz_mies(E, "KASA 2 - LENNO FOSY CAILIN", rr, mm, d if (rr, mm) == (r, m) else None)
+        print("  %-56s %s" % ("+ %d-%02d wynik%s%s" % (rr, mm, "" if czesc == 1.0 else " (do %d.)" % d,
+              "" if not (el or eh) else " i zdarzenia %s" % fmt(el, eh).strip()), fmt(zl * czesc + el, zh * czesc + eh)))
+        lo += zl * czesc + el; hi += zh * czesc + eh
+        mm += 1
+        if mm > MIES_W_ROKU:
+            rr, mm = rr + 1, 1
+    print("  " + "-" * 74)
+    print("  %-56s %s" % (">>> SKARBIEC LENNA DZIS", fmt(lo, hi)))
+    if B.get("poza_suma"):
+        print("  POZA SUMA: " + B["poza_suma"][:150])
+    print("=" * 78)
+
+
 def main():
     a = sys.argv[1:]
     S = L("swiat.json")["data"]
@@ -590,6 +676,9 @@ def main():
             d = S["dzien"]
     if zakres == "wolne":
         wolne(r, m, d or S["dzien"])
+        return
+    if zakres == "skarbce":
+        skarbce(r, m, d or S["dzien"])
         return
     drukuj(zakres, r, m, d, licz(zakres, r, m, d))
 

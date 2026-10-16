@@ -615,3 +615,26 @@
 *Dopisek spisującego:* Arya nie zasnęła i nie wyszła pierwsza. Długo patrzyła w ogień. Bran przy oknie powiedział do Jojena: *„Liczył całą noc.”* Jojen kiwnął głową, jakby to nie było nic nowego. Niania na koniec spojrzała na mnie, nie na dzieci, i nic nie powiedziała.
 
 *Uwaga porządkowa (reguła Brana):* Torrhen Stark, ostatni Król Zimy, Aegon i trzy smoki, spalony Harrenhal, trzydzieści tysięcy ludzi nad Tridentem, uklęknięcie i oddanie korony oraz przydomek „Król, Który Ukląkł” to kanon. Noc liczenia i „żadna wieś nie spłonęła” to wersja Niani. Zdanie o zimie i liczeniu to E, Niania.
+
+## 30. O KRÓLU BAGIEN I JEGO CÓRCE
+*Spisane 300-08-18, w poniedziałek wieczorem, po kolacji, w izbie Niani. Cicho, bez wiatru. Słuchali Rickon i mały Walder, Bran z Meerą i Jojenem, Kudłacz pod ławą, Arya na podłodze. Tym razem pytanie zadała Meera, a Niania przez chwilę patrzyła na nią dłużej niż na dzieci: „Opowiecie o Królu Bagien?”*
+
+> O nim się opowiada, dziewczyno, ale nie przy waszych ojcach.
+>
+> Był czas, kiedy Przesmyk nie był Starków. Bagno miało swojego króla, a ten król nie miał zamku. Miał wodę, trzcinę, mgłę i ludzi, którzy chodzili po bagnie tam, gdzie każdy inny utonie. Mówią, że jego dwór pływał, że rano stał w jednym miejscu, a wieczorem w innym, i nikt nie umiał go znaleźć, jeśli król nie chciał.
+>
+> Królowie Zimy chodzili na niego z mieczem raz, i drugi, i trzeci. Ludzie Starków grzęźli w błocie po pas, a z trzciny leciały strzały, których nikt nie widział, skąd lecą. Woda brała więcej ludzi niż strzały.
+>
+> Aż jeden Stark zrozumiał, że bagna nie zdobywa się mieczem. Pokonał Króla Bagien w polu, kiedy ten raz wyszedł na suche, ale nie wszedł za nim w trzcinę. **Wziął jego córkę za żonę.** I od tej pory bagno było Starków, a ludzie bagna zostali u siebie, przy swoich ścieżkach, których nikomu nie pokazują.
+>
+> *(Rickon zapytał, czy córka chciała.)*
+>
+> Bajka tego nie mówi, a ja nie będę zmyślać. Mówi tylko, że jej synowie mieli w sobie i wilka, i trzcinę. Mówi też, że od tamtej pory żaden Stark nie poszedł na bagno z mieczem, tylko z gościną.
+>
+> I pamiętajcie, czego uczy ta bajka. **Bagna się nie bierze. Z bagnem się żeni.** Kto myśli, że je ma, bo postawił na nim fosę albo groblę, ten nie zna bagna. Bagno ma się tak długo, jak długo ludzie bagna chcą.
+>
+> Spać.
+
+*Dopisek spisującego:* Meera słuchała bez ruchu, a przy zdaniu „bagno ma się tak długo, jak długo ludzie bagna chcą” spojrzała na mnie, nie na Nianię. Jojen kiwnął głową, jakby znał tę bajkę od drugiej strony. Bran zapytał później Meerę szeptem, czy u nich opowiada się to samo. Meera odpowiedziała: *„U nas opowiada się, co było przed tym.”* I nic więcej.
+
+*Uwaga porządkowa (reguła Brana):* Król Bagien, wojny Królów Zimy o Przesmyk, jego pokonanie i ślub Starka z jego córką, po którym Przesmyk przeszedł do Starków, to kanon (dzieje Północy). Pływający dwór, strzały z trzciny i „żaden Stark nie poszedł na bagno z mieczem” to wersja Niani (E). „Bagna się nie bierze, z bagnem się żeni” to E, Niania. Słowa Meery o tym, „co było przed tym”, to E.

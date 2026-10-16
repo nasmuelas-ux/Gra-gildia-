@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 49 (300-08-16): PRZECIETNIE - nawalnica zeszla w nocy; rano szaro, mzawka, wiatr slabnie; KRUKI RUSZAJA OD POLUDNIA (wychodzace i przychodzace); trakty mokre, potoki wezbrane.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 24 (300-08-17): ZLE - zimna mgla od rzeki, potem deszcz drobny i uparty caly dzien; chlodno jak na koniec lata; kruki lataja, ale wolno - poczta po poludniu.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

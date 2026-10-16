@@ -669,3 +669,28 @@
 *Dopisek spisującego:* Mały Walder zapytał głośno, czy Niania też by poszła. Rickon go szturchnął. Niania się zaśmiała, pierwszy raz tego wieczoru: *„Ja jestem za stara nawet na to, dziecko. Mnie by nie wzięli.”* Bran długo nic nie mówił, a potem powiedział do mnie, nie do niej: *„To dlatego trzeba mieć pełne spichrze. Żeby nikt nie musiał tak liczyć.”* Meera spojrzała na niego, potem na mnie. Arya, wychodząc, zatrzymała się w progu i zapytała, czy Dustinowie dalej pamiętają.
 
 *Uwaga porządkowa (reguła Brana):* Taniec Smoków, przylot księcia na smoku (Jacaerys) do Cregana Starka, zima na Północy w czasie wojny, Zimowe Wilki jako starcy i ludzie bez przyszłości, którzy poszli na południe, by nie jeść zimowego chleba, oraz to, że prowadził ich lord Dustin z Barrowton i że prawie wszyscy zginęli, to kanon. Liczba „dwa tysiące” to słowa Niani, która sama mówi, że nie wie. Mowa starych do Cregana, „wnuki jadły ich chleb” i przestroga o starym, który idzie na polowanie, to E, Niania. Słowa Brana i pytanie Aryi to E.
+
+## 32. O CZERWONYCH KRÓLACH Z DREADFORTU
+*Spisane 300-08-20, w środę wieczorem, po kolacji, w izbie Niani. Pogodnie i zimno, w kominku sosna. Słuchali Rickon i mały Walder, Bran z Meerą i Jojenem, Kudłacz pod ławą, Arya na podłodze. Pytał mały Walder, który przy kolacji słyszał, jak dorośli mówili o Dreadforcie: „Dlaczego na chorągwi Boltonów jest człowiek do góry nogami i cały czerwony?”*
+
+> Bo był czas, dziecko, że Boltonowie nie byli lordami. Byli **królami**. Czerwonymi Królami z Dreadfortu. Mieli swój zamek, swoją rzekę i swoje wsie. I przez tysiące lat bili się z Królami Zimy o to, kto będzie rządził Północą.
+>
+> A Czerwoni Królowie mieli jeden obyczaj, o którym się nie mówi przy jedzeniu. Kiedy wzięli żywcem wroga, **obdzierali go ze skóry**. A ze skóry wroga robili sobie płaszcz. Mówią, że były czasy, kiedy w Dreadforcie wisiały płaszcze ze skór Starków. Stąd ten człowiek na chorągwi: obdarty, do góry nogami, czerwony.
+>
+> *(Rickon zapytał, czy Starkowie też obdzierali.)*
+>
+> Nie. Starkowie ścinali. Kto wydaje wyrok, ten sam podnosi miecz. Dlatego jedni mieli wilka, a drudzy człowieka bez skóry.
+>
+> Wojna szła i szła. Raz wygrywał wilk, raz Dreadfort. Ja słyszałam, że był taki Czerwony Król, który doszedł aż pod mury Winterfell. Ile w tym prawdy, nie wiem. Wiem tylko, jak się skończyło. **Tysiąc lat przed smokami** ostatni Czerwony Król uklęknął przed Królem Zimy i przysiągł mu wierność. Od tego dnia Boltonowie są lordami, a nie królami. A obdzieranie ze skóry Starkowie zakazali na całej Północy.
+>
+> *(Arya zapytała, czy przestali.)*
+>
+> Zakazali. Bajka mówi „zakazali”. Bajka nie mówi „zapomnieli”.
+>
+> I pamiętajcie, dzieci: **Dreadfort klęczy od tysiąca lat. Ale ten, kto klęczy, nadal ma kolana.**
+>
+> Spać.
+
+*Dopisek spisującego:* Mały Walder zbladł przy płaszczach i Rickon chwycił go za rękę, choć sam wyglądał nie lepiej. Bran nic nie powiedział, ale gdy wychodziliśmy, spojrzał na mnie, jakby chciał zapytać o coś, o co nie pytają dzieci. Jojen zatrzymał się przy Niani i powiedział coś cicho. Niania pokręciła głową. Arya wyszła ostatnia i w progu powiedziała do mnie: *„Ramsay płynie z Królem na Skagos.”* To nie było pytanie.
+
+*Uwaga porządkowa (reguła Brana):* to, że Boltonowie byli Czerwonymi Królami z Dreadfortu i przez tysiące lat wojowali z Królami Zimy, ich obyczaj obdzierania wrogów ze skóry (płaszcze ze skór Starków), człowiek obdarty ze skóry na chorągwi, przysięga wierności Starkom około tysiąca lat przed Podbojem oraz zakaz obdzierania ze skóry na Północy to kanon. Król „pod murami Winterfell” to wersja Niani, która sama mówi, że nie wie. Zdanie „ten, kto klęczy, nadal ma kolana”, słowa Jojena i słowa Aryi to E. To, że Ramsay jest z dwudziestoma ludźmi przy wyprawie na Skagos, pochodzi z zapisu (list Boltona 07-22).

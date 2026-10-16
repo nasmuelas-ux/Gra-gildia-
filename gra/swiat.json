@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 20,
+  "dzien": 21,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 85 (300-08-20): DOBRZE - pogodnie, szron do wschodu slonca, potem slonce i lekki wiatr z zachodu; drogi suche; kruki lataja od switu.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 17 (300-08-21): ZLE - zimny deszcz od zachodu z wiatrem od nocy, bloto; kruki lataja niechetnie i nisko - poranna poczta moze przyjsc dopiero po poludniu.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -12,7 +12,7 @@
 ---
 
 ## E0 — PRZYCZÓŁEK *(stoi)*
-- Przystań **rzeczna** pod Barrowton, na **Rzece Kopców**; pochylnia.
+- **Na końcu Rzeki Kopców, przy ujściu do morza** (Kamienisty Brzeg); pochylnia. *(VOID 300-08-20, słowo pana: wcześniejszy zapis „przystań rzeczna pod Barrowton” był błędem GM.)*
 - **226 ludzi, 70 korcy tygodniowo.**
 - Kadłuby: **2 na wodzie · 6 na pochylni · 1 stracony** (karta 300-03-03; Theon 04-21). Korona ma **11 kadłubów** od 299-08 (łup wojenny).
 - Punkt łańcucha ognia — **szew Dustin działa w jedną stronę** (karta 05-08, rzut 29): Dustinport widzi miejsce ognia Barrowlandów, ognia nie.

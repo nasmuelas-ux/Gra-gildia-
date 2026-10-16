@@ -12550,6 +12550,15 @@
    "wraca": "300-08-24",
    "zamyka": "cykliczne - co niedziele",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-17",
+   "co": "KSIEGI PRZESZYTE, LISTY NUMEROWANE, PILNE DWIEMA DROGAMI (rozkaz pana 08-17, rada Luwina; gra/rozkaz_ksiegi_i_listy_300_08_17.md): Korona (Beron), lenno (Garrick), Dom (Hal); stare ksiegi przeszyc przy rotacji albo do 09-01; numeracja listow od 09-01.",
+   "kto": "BERON ; GARRICK ; HAL",
+   "kanal": "kruki poranne 08-18",
+   "wraca": "300-09-01",
+   "zamyka": "potwierdzenia trzech urzedow, ze ksiegi przeszyte (wlasni - bez rzutu)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

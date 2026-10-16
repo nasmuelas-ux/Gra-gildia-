@@ -5020,9 +5020,9 @@
    "co": "KOSCI WILLAMA DUSTINA Z DORNE DO BARROWTON - obietnica Symona dla lady Barbrey. Krok 1: HOWLAND REED - dokladne miejsce kopca przy Wiezy Radosci (jedyny zywy swiadek) - list albo przez Jojena/Meere (~koniec V). Krok 2: list do Dorana Martella przez Neste (Braavos-Sloneczna Wlocznia ~43 dni) - zgoda i przewodnik w Czerwonych Gorach. Krok 3: kto jedzie (ludzie Dustinow? Domu?) i droga morzem. ### 06-05 REED (rzut 67): miejsce znane - trzeci kopiec od wiezy ku przeleczy, plaski kamien z imieniem runami. PRZELECZ TRZYMA YRONWOOD - potrzebna zgoda Dorne (list do Oberyna przez Neste, ~08-06). ### 06-12: BARBREY WIE (od Symona w cztery oczy). Gdy Dorne zgodzi sie - jedzie SER HARWOOD WRZOS (rycerz Dustinow). W Barrowton milczenie do czasu, az kosci beda w drodze.",
    "kto": "SYMON",
    "kanal": "Reed (Fosa/grobla) + Nesta (Dorne)",
-   "wraca": "300-08-19",
+   "wraca": "300-08-25",
    "zamyka": "kosci w Barrowton",
-   "status": "otwarte - kroki 1-2 wykonane; krok 3 po odpowiedzi Oberyna (~VIII) ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte - kroki 1-2 wykonane; krok 3 po odpowiedzi Oberyna (~VIII) ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: statek z Braavos ~08-25."
   },
   {
    "data": "300-05-10",
@@ -6550,9 +6550,9 @@
    "co": "R-0 RUSZT CAILIN - RYSUNEK SIECI (spadki, trzy poziomy, kolektor pod Miastem Dolnym) z maestrem ORWYNEM (melioracja, przyjazd ~07-01) i Orbelem. Kolektor przed brukiem.",
    "kto": "ORWYN + ORBELO (Garrick)",
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
-   "wraca": "300-08-19",
+   "wraca": "300-09-01",
    "zamyka": "rysunek sieci na pismie",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; rysunek Orwyna - zbiorczy Garricka ~08-19."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; rysunek Orwyna - zbiorczy Garricka ~08-19. ### 08-19 zbiorczy: rysunek po zamknieciu faszyny."
   },
   {
    "data": "300-05-26",
@@ -6883,9 +6883,9 @@
    "co": "DUSTINPORT E1 - SZOSTY KADLUB NA WODZIE (wodowanie od 07-01, zalogi imiennie do 06-30).",
    "kto": "TORREN SOLNY",
    "kanal": "jak wyzej",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "szesc kadlubow na wodzie z imiennymi zalogami",
-   "status": "otwarte ### 08-15 POGODA RZUT 4: kruki nie lataja (zasada 34) -> przesuniete na 08-16. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; Dustinport (Torren) - karta Theona/Donnela ~08-19."
+   "status": "otwarte ### 08-15 POGODA RZUT 4: kruki nie lataja (zasada 34) -> przesuniete na 08-16. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; Dustinport (Torren) - karta Theona/Donnela ~08-19. ### 08-19: wodowanie przelozone przez nawalnice 08-15 na ~08-20."
   },
   {
    "data": "300-06-02",
@@ -7315,9 +7315,9 @@
    "co": "SKRYPTORIUM FOSY - ODPIS KRONIKI KROLOW KURHANOW (zgoda Barbrey 06-13): oryginal pozycza maester Haldan albo pisarz jedzie do Barrow Hall; 'tak, jak jest, nie poprawiac'. Wlasni - bez rzutu.",
    "kto": "ILARIO + MAESTER HALDAN",
    "kanal": "Fosa-Barrowton (3 dni)",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "odpis w bibliotece Fosy + egzemplarz dla Barrow Hall",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: bez wiesci z Barrowton."
   },
   {
    "data": "300-06-14",
@@ -7486,9 +7486,9 @@
    "co": "FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzie twierdzy. Projekt: WEYLIN (inzynier zamkowy; dzis na Kamiennym Brzegu - po powrocie ~VII) + Orbelo; mur = LENNO (Kasa 2, regula 'pod ziemia i mur'). ZASADA 8 (Herwin): kto trzyma bramy miasta - pokoj: lawa, wojna: Hendry; ma to stac w karcie miasta, bo karta daje azyl i 'powietrze miasta czyni wolnym'. DO DECYZJI PANA: zapis w karcie. ### 06-19 DECYZJA PANA: BRAMY MIASTA - W POKOJU LAWA, W WOJNIE HENDRY; dopisek do karty miasta (lord nadaje, lawa wpisuje). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> WEYLIN + HERWIN + HENDRY",
    "kanal": "na miejscu; Weylin po powrocie",
-   "wraca": "300-08-19",
+   "wraca": "300-09-01",
    "zamyka": "obrys polaczenia na rysunku + zapis o bramach w karcie",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapis o bramach wpisany przez lawe do karty miasta; obrys polaczenia murow - czeka na WEYLINA (nie wrocil z Kamiennego Brzegu). ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapis o bramach wpisany przez lawe do karty miasta; obrys polaczenia murow - czeka na WEYLINA (nie wrocil z Kamiennego Brzegu). ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: Weylin nie wrocil."
   },
   {
    "data": "300-06-19",
@@ -7648,18 +7648,18 @@
    "co": "WERBUNEK PISZACYCH DLA KANCELARII LENNA (rozkaz pana 06-19): KONTRAKTY na pismie (rok, stawka z ksiegi lenna) i DWIE WYPLATY Z GORY przy podpisie; ogloszenie na slupach w Cailin i przy bramie, wiesc przez kupcow i wozakow na trakt i do Bialego Portu, przez septy (lowcy talentow Miry). 'Niech wiesc sie niesie, ze Fosa potrzebuje piszacych.' Podpisuje GARRICK. Odzew - wola wolnych ludzi: RZUT przy pierwszym meldunku. ZASADA 8 (do wiedzy pana): (a) dwie wyplaty z gory - kontrakt musi miec zwrot zaliczki przy zerwaniu, inaczej ktos wezmie i pojdzie; (b) Cech Pisarzy Bialego Portu (Harwin, wrog od 297) zobaczy, ze Fosa podkupuje mu ludzi; (c) ci sami ludzie sa potrzebni skryptorium i szkole. ### 06-19 PAN (doktryna): 'NIE PODKUPUJEMY, TYLKO ZACHECAMY - MAJA WOLNA WOLE.' W ogloszeniu i w listach: zaproszenie, nie wyciaganie; nikogo nie zrywa sie z kontraktu u innego pana ani cechu (kto ma umowe - konczy ja, potem przychodzi). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "GARRICK (+ regent kancelarii)",
    "kanal": "slupy Cailin, trakt, Bialy Port (Hal), septy",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "ilu podpisalo kontrakt imiennie (rzut)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 5 - BARDZO ZLE): podpisalo DWOCH (mlodzi, od septona z traktu); z BP nikt - CECH PISARZY BP (Harwin) oglosil: kto pojdzie pisac na Fose, wypada z cechu. DO SLOWA PANA. ### 07-29 SLOWO PANA: odpowiedz na Cech Pisarzy BP - PATRONAT SPECJALNY LENNA nad BRACTWEM PISARZY W CAILIN + 50 JELENI NA START dla kazdego nowego czlonka (Kasa 2); dopisane do ogloszenia (slupy, septy, wozacy Domu). Odzew - przy nastepnym meldunku. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; werbunek piszacych - odzew w zbiorczym ~08-19."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (rzut 5 - BARDZO ZLE): podpisalo DWOCH (mlodzi, od septona z traktu); z BP nikt - CECH PISARZY BP (Harwin) oglosil: kto pojdzie pisac na Fose, wypada z cechu. DO SLOWA PANA. ### 07-29 SLOWO PANA: odpowiedz na Cech Pisarzy BP - PATRONAT SPECJALNY LENNA nad BRACTWEM PISARZY W CAILIN + 50 JELENI NA START dla kazdego nowego czlonka (Kasa 2); dopisane do ogloszenia (slupy, septy, wozacy Domu). Odzew - przy nastepnym meldunku. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; werbunek piszacych - odzew w zbiorczym ~08-19. ### 08-19 zbiorczy: dwa nowe kontrakty."
   },
   {
    "data": "300-06-19",
    "co": "BRACTWO PISARZY W CAILIN - NIEZALEZNE (zacheta pana 06-19; nie nadanie): piszacy sami zakladaja swoje bractwo - wzor Bractwa Rzemiosla Wolnego (otwarty egzamin, bez wpisowego dla synow, bez limitu, fundusz samopomocy), niezalezne od Domu i od kancelarii. Pan zacheca i daje izbe na zebrania; statut pisza oni. Warunek naturalny: najpierw musza byc piszacy (werbunek ~07-15). Wola piszacych - RZUT przy zalozeniu. Odpowiedz na Cech Pisarzy Bialego Portu bez wojny: 'u nas cech nie zamyka nikomu drogi'.",
    "kto": "piszacy z Cailin (kancelaria, skryptorium, szkola) - z zacheta pana; Herwin (izba)",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "bractwo zalozone wlasnym statutem (rzut) albo jeszcze nie",
-   "status": "otwarte ### 07-29 SLOWO PANA: PATRONAT SPECJALNY LENNA; kazdy nowy czlonek - 50 jel na start od lenna (Kasa 2); bractwo niezalezne, statut ich. ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 07-29 SLOWO PANA: PATRONAT SPECJALNY LENNA; kazdy nowy czlonek - 50 jel na start od lenna (Kasa 2); bractwo niezalezne, statut ich. ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: statut w szkicu."
   },
   {
    "data": "300-06-19",
@@ -7675,18 +7675,18 @@
    "co": "DOM DLA KAZDEGO PRACUJACEGO DLA DOMU TALLY I LENNA (rozkaz pana 06-19): kazdy ma IZBE NA WYLACZNOSC dla siebie, rodziny i dzieci; kupowac domy. Mur trzech kas: ludzie Domu - Kasa 1 (Hal), ludzie lenna - Kasa 2 (Warryn). KROK 1 (Garrick + Alys + Mella, kancelaria): SPIS - kto ze stalych (kontrakt/zold) nie ma wlasnej izby, ile rodzin, ile dzieci. PYTANIE GARRICKA (do slowa pana): ZAKRES - stali (kontrakt, zold: druzyna, Jastrzebie, urzednicy, pisarze, nauczyciele) czy takze DNIOWKOWI (~400 przybyszow)? ZASADA 8: (a) w Cailin wolnych domow prawie nie ma, a czynsze juz skoczyly (Alys) - skup wywinduje ceny i wypchnie mieszczan z izb; (b) lawa nie chciala, by Dom byl panem kamienic (rzut 24) - skup istniejacych domow czyni Dom najwiekszym gospodarzem w miescie; (c) PROPOZYCJA GARRICKA: kupowac tylko tam, gdzie ktos sam sprzedaje po cenie ze slupa; reszte STAWIAC (dom Domu, kamienice z pozyczki 0,5%, baraki rodzinne przy grobli dla Jastrzebi i druzyny) - do slowa pana. ### 06-19 ROZSTRZYGNIECIE PANA: (1) STALI (KONTRAKT/ZOLD) - IZBA NA WYLACZNOSC, PRZEKAZYWANA NA WLASNOSC; (2) KTO JUZ MA WLASNY DOM - PREMIA zamiast (wysokosc: Warryn - Kasa 2 / Hal - Kasa 1, E); (3) TYMCZASOWI (DNIOWKOWI) - BARAKI WIELOOSOBOWE (osobny termin). PYTANIE GARRICKA do slowa pana (zasada 8): wlasnosc od razu czy po roku sluzby / zwrot przy zerwaniu w pierwszym roku - inaczej ktos wezmie dom i odejdzie nastepnego dnia. ### 06-19 ZASADA PANA (odczyt GM: 'pol roku dla niewykwalifikowanych, dla zamawianych od razu; wylacznosc po roku'): IZBA NA WYLACZNOSC - NIEWYKWALIFIKOWANI na kontrakcie po POL ROKU sluzby (do tego czasu kwatera wspolna/barak), ZAMAWIANI (sprowadzani fachowcy: pisarze, nauczyciele, mistrzowie, inzynierowie) OD RAZU; WLASNOSC IZBY dla wszystkich PO ROKU sluzby. Gracz moze poprawic odczyt. ### 07-09 (Winterfell, stos Fosa): KROK 1 - SPIS (Garrick+Alys+Mella): ze STALYCH bez wlasnej izby - ok. 60 osob, z tego 22 z rodzinami (E); dniowkowych przybyszow bez dachu - ok. 400 (E). Plan: kupno tylko po cenie ze slupa (3-4 domy wolne), reszta - budowa szeregu domow na suchym przy MF-5 (Bran). PYTANIE GARRICKA CZEKA na slowo pana: zakres - tylko stali, czy takze dniowkowi? ### 07-09 SLOWO PANA: TYLKO STALI (~60, w tym 22 rodziny). Kupno po cenie ze slupa, reszta - szereg domow na suchym przy MF-5 (Bran). Dniowkowi - poza tym rozkazem (Dom Pierwszej Nocy dla nowych).",
    "kto": "GARRICK + ALYS + MELLA; HAL (Kasa 1) + WARRYN (Kasa 2)",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "plan i koszt (E) domow dla stalych; pierwsze izby przydzielone",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: plan gotowy, kosztorys u Warryna."
   },
   {
    "data": "300-06-19",
    "co": "BARAKI WIELOOSOBOWE DLA PRACOWNIKOW TYMCZASOWYCH (rozkaz pana 06-19): dla dniowkowych/przybyszow (~400) - pod dachem, z piecem, wychodkiem i studnia (etap 0 Herwina: dach, woda, wychodki, ogien); przy grobli i przy trakcie, gdzie robota. Kasa 2 (lenno; budowy lenna). Bran - ciesle po sianokosach; Warryn - koszt E. Wlasni - bez rzutu.",
    "kto": "BRAN + WARRYN",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "pierwsze baraki pod dachem, ilu miesci",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: drugi barak pod dachem."
   },
   {
    "data": "300-06-19",
@@ -7702,9 +7702,9 @@
    "co": "ZBOZE Z REACH: Z POMOSTU GORACEGO PORTU OD RAZU BARKAMI W GORE GORACZKI DO SKLADU FOSY (decyzja pana 06-19, rada Hendry'ego): w porcie tylko zapas na jeden dzien; barki i eskorta Jastrzebi na rzece; wielki spichlerz pod brama przyjmuje. Do planu przyjecia zboza Reach (IX-X): Orland + Hendry + Kessel + Harlon. Wlasni - bez rzutu.",
    "kto": "ORLAND + HENDRY + KESSEL + HARLON",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-09-01",
    "zamyka": "plan przyjecia: barki, eskorta, sklad pod brama",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: plan przyjecia gotowy."
   },
   {
    "data": "300-06-19",
@@ -7756,9 +7756,9 @@
    "co": "WAPNO DLA CAILIN - ZRODLO I WAPIENNIK (z zalecenia pana 06-19 o bieleniu): ile wapna jest dzis w lennie (Alys bieli sklad lin - z zapasu budowy), skad kamien wapienny (bagno go nie ma - lomy na polnoc od Przesmyku? kupno w Bialym Porcie? E), czy postawic wlasny wapiennik. ZASADA 8: bielenie wszystkiego naraz zje zapas wapna potrzebny na zaprawe murow. Szuka WARRYN (+ Orbelo). Wlasni - bez rzutu. ### 07-09 (Winterfell, stos Fosa): Warryn+Orbelo: zapas wapna budowy na ~2 miesiace przy obecnej zaprawie; bielenie wstrzymane poza lecznica i szkola; kamien wapienny - najblizszy LOM na polnoc od Przesmyku, ~2 dni wozem (ziemie Barrowlandow - zgoda lady Barbrey potrzebna) albo KUPNO w Bialym Porcie (barki - jak u Borsa, spoznione); WAPIENNIK WLASNY przy lomie - E 25-40 smokow + ludzie. ZASADA 8: Bors juz kupuje wapno od Cerwynow, pozyczka w materiale dla Cailin tez zje wapno. Do slowa pana: lom Barbrey + wapiennik czy kupno w BP. ### 07-09 SLOWO PANA: LOM NA ZIEMI LADY BARBREY + WLASNY WAPIENNIK przy lomie (Warryn+Orbelo; E 25-40 + ludzie). List pana do lady Barbrey (kruk Winterfell-Barrowton dzis) - zgoda na lom: RZUT przy odpowiedzi. ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "WARRYN + ORBELO",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "zgoda Barbrey + wapiennik w budowie (albo odmowa i kupno w BP)",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapas ~miesiac (E); OD BARBREY BRAK ODPOWIEDZI O LOM (list pana 07-09) - dzisiejszy list Barbrey o lomie milczy. Warryn pyta: kupic w BP? DO SLOWA PANA. ### 07-29 SLOWO PANA: SCIAGAC WAPNO Z BIALEGO PORTU barkami (Warryn przez Hala; ilosc wg zaprawy; Kasa 2); lom Barbrey - otwarte. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; wapno z BP barkami - Warryn/Hal, zbiorczy ~08-19."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapas ~miesiac (E); OD BARBREY BRAK ODPOWIEDZI O LOM (list pana 07-09) - dzisiejszy list Barbrey o lomie milczy. Warryn pyta: kupic w BP? DO SLOWA PANA. ### 07-29 SLOWO PANA: SCIAGAC WAPNO Z BIALEGO PORTU barkami (Warryn przez Hala; ilosc wg zaprawy; Kasa 2); lom Barbrey - otwarte. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; wapno z BP barkami - Warryn/Hal, zbiorczy ~08-19. ### 08-19 zbiorczy: barki z BP spoznione o tydzien (sztorm)."
   },
   {
    "data": "300-06-19",
@@ -7810,9 +7810,9 @@
    "co": "PROBA CZCIONKI RUCHOMEJ (Ilario po rozmowie z panem 06-20; plan z 300-04-25 'drzeworyt, potem czcionka' i odlewnia czcionek w Latarni - Dzielnica Zielona): jedna strona alfabetu i jeden akapit praw komor. TRZY RZECZY DO ZROBIENIA (Ilario): (1) STEMPLE i FORMA - rytownik z WARSZTATU JUBILERSKIEGO DOMU (Marr, bursztyn) tnie stemple liter; (2) STOP - olow z cyna (maester WYSTAN zna olow - 'czarne zelazo, miedz, olow'), mala odlewnia NIE w miescie z trzciny (zasada XI) - poza kanalem, przy kuzni; (3) FARBA OLEJNA - olej lniany + sadza (atrament wodny splywa z metalu); papier Wata klejony mocniej. Kasa 1. WYNALAZEK - RZUT przy pierwszej odbitce. ### 06-20 ZGODA PANA NA PROBE. Kroki posrednie: list do Hala o rytownika od Marra (stemple) - dzis z poczta BP, odpowiedz ~07-05; proba farby olejnej (olej lniany + sadza) na drzeworycie kalendarza ~07-15; odlew pierwszych liter ~08-01; odbitka ~08-15 (rzut). ### ⚠ POPRAWKA 300-06-21 (VOID, wskazanie gracza): MAESTER WYSTAN JEST NA MURZE (Czarny Zamek od 05-26, przy Aemonie; Cytadela: 'do odwolania przez Lorda Dowodce'). 'Wystan zna olow' VOID - o stop olowiu z cyna Ilario pyta kowala Fosy i maesterow z Cytadeli po przyjezdzie (~07-01). ### 06-26 (skryptorium): WYSTAN NA MURZE od 05-26 (VOID jako doradca od olowiu) - Ilario pyta pana, kto zamiast: stop olowiu z cyna. Do slowa pana. ### 06-26 PAN (prawda): Wystan na Murze, dzwonu jeszcze nie ma (dzwon na bramie - kosztorys 07-05), na Fosie nikt dzis nie zna stopu. ILARIO: zapyta RYTOWNIKA OD MARRA (jubiler zna stopy cyny - dopisek do listu do Hala) + kowale z Harrenhalu (~VII) przy kuzni.",
    "kto": "ILARIO + MARR (warsztat jubilerski) + WYSTAN (olow) + czeladnik Wata (prasa)",
    "kanal": "Fosa; Marr - list przez Hala",
-   "wraca": "300-08-19",
+   "wraca": "300-09-01",
    "zamyka": "pierwsza odbitka z czcionki ruchomej (rzut)",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: stemple 14/24 (E)."
   },
   {
    "data": "300-06-20",
@@ -8155,9 +8155,9 @@
    "co": "SZKOLA DOWODZENIA DRUZYNY FOSY (rozkaz pana 06-21: 'ucz ich tez dowodzenia, ten co sie nadaje - to oni beda dowodzic pospolitym ruszeniem'). Plan: gra/plan_druzyny_i_ruszenia_fosy_300_06.md pkt 7-8: trzy szczeble (starszy zolnierz / dziesietnik / setnik), kazdy dziesietnik ma STALA dziesiatke ruszenia (z jednej wsi) + zastepce ze wsi; rachunek E: 500 ruszenia = 50 dziesietnikow + 5 setnikow z ~200 stalych. Pierwszy kurs dziesietnika ruszenia - VIII (po spisie ruszenia ~07-25). OTWARTE DO SLOWA PANA: (1) ruszenie dobrowolne-platne czy powinnosc; (2) dodatek dowodczy; (3) bron w chacie - wlocznia+luk czy wlocznia+kusza. Wlasni - bez rzutu. ### 06-21 PAN: (1) RUSZENIE LENNA = POWINNOSC WOBEC PANA (bez dniowki; obowiazkowe dni cwiczen; spis kazdego zdolnego 16-50) - Hendry: chleb z wiktu twierdzy w dzien cwiczen (ponizej progu rady); (2) DODATEK DOWODCZY - TAK (dziesietnik, setnik, zastepca ze wsi; kwota Warryn 07-05); (3) BRON W CHACIE - WLOCZNIA I LUK (tarcza do strzelania przy wsi; kusza - druzyna i Jastrzebie). ### ⚠ DOPRECYZOWANIE PANA 06-21 (VOID poprzedniego odczytu 'bez dniowki' i 'chleb z wiktu twierdzy'): CWICZENIA RUSZENIA SA PLATNE (dniowka + chleb, dzien w miesiacu i tydzien jesienny; kwota Warryn 07-05); WEZWANIE DO WALKI W RAZIE ZAGROZENIA - BEZ ZAPLATY (powinnosc wobec pana).",
    "kto": "HENDRY",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "spis ruszenia + lista kandydatow na dziesietnikow ruszenia",
-   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): spis ruszenia 2/3 wsi (~340, E); 12 kandydatow na pierwszy kurs dziesietnika ruszenia (E) - kurs VIII. ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 07-25: stan w zbiorczym Garricka (pisany 07-26, ~07-28). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): spis ruszenia 2/3 wsi (~340, E); 12 kandydatow na pierwszy kurs dziesietnika ruszenia (E) - kurs VIII. ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: dziala."
   },
   {
    "data": "300-06-22",
@@ -8407,9 +8407,9 @@
    "co": "PIECIORO DRZWI (projekt Miry, wola pana 06-23: zapisac i zaprojektowac kazdy; gra/projekt_pieciu_drzwi_cailin_300_06.md): (2) KOCIOL ZIMOWY - rejestr potrzeby (rachmistrz reliefu Domu dla Fosy + Mella) do X; wydawanie od pierwszego mrozu; Kasa 1 (jalmuzna Domu). (3) SZKOLA WIECZORNA dla doroslych - po sianokosach (VIII), izby szkoly, 2 wieczory, liczenie/litery/prawo na glos; lenno. (5) LAZNIA - po szklarniach (301 E); do tego czasu balie i ciepla woda przy barakach (Nina). Wlasni - bez rzutu.",
    "kto": "MIRA + rachmistrz reliefu + MABEL + NINA",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "szkola wieczorna ruszyla; rejestr kotla zalozony",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: czeka na Mire 08-24."
   },
   {
    "data": "300-06-25",
@@ -8506,9 +8506,9 @@
    "co": "CP-0 RACHUNEK TORFU (etapy projektu Cailin, ciepło i para): ile torfiarnia daje rocznie, ilu kopie, kto ile spala (szklarnie, chalupy, kadzielnice, warzelnia, Fosa), ile zostaje na zime. Wlasni - bez rzutu.",
    "kto": "JORREN LUT + WARRYN",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "rachunek torfu na pismie",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: w karcie podliczenia."
   },
   {
    "data": "300-06-26",
@@ -8524,9 +8524,9 @@
    "co": "SF-0 SPLAW RZEKA FEVER - POMIAR LETNI (glebokosc, bystrza, mielizny, sciezka holownicza, przystanie) - do mapy bagna; prowadzi KESSEL (zatwierdzone 06-26). SF-2 pomiar zimowy (tygodnie pod lodem) zima 300/301. Wlasni - bez rzutu.",
    "kto": "KESSEL + pisarz kancelarii",
    "kanal": "na miejscu",
-   "wraca": "300-08-19",
+   "wraca": "300-09-01",
    "zamyka": "pomiar letni na mapie",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: pomiar przerwany - wysoka woda."
   },
   {
    "data": "300-06-26",
@@ -8794,9 +8794,9 @@
    "co": "⚑ STUDNIA W KAZDEJ WSI LENNA - NA KOSZT LENNA (rozkaz pana 06-30, po spacerze: we wsi kosiarzy za gajem woda metna, dzieci pija z rowu). KASA 2 (Gerrik liczy, Warryn wydaje; kwot z glowy nie ma - zasada 43). PROWADZI WARRYN; FACHOWO maester ORWYN (przydzial 06-26: wychodki i studnie) + NINA (woda a goraczka: gotowac, z dala od rowu i wychodka). KOLEJNOSC: (1) od razu po sianokosach - WIES KOSIARZY ZA GAJEM (widziana przez pana); (2) dalej wg KSIEGI WSI ze spisu (pierwsze przejscie ~09-01: ktora wies ma studnie, ktora zla, ktora zadnej) - najpierw te, gdzie pija z rowu. ZASADA 8 (Orwyn/Warryn): na bagnie studnia kopana plytko daje te sama wode co row - studnia GLEBOKA, cembrowina z kamienia albo dębowych klepek, daszek, zuraw, min. ~30 krokow od rowu i wychodka (E); NA KEPACH, gdzie nie ma twardej warstwy - CYSTERNA NA DESZCZOWKE z dachu zamiast studni. Kopia ludzie wsi za dniowke lenna (Mella, karb). Wlasni - bez rzutu na wykonanie. ### 06-30: ZAPISANE JAKO PROJEKT DO WDROZENIA - gra/projekt_studnie_lenna_300_06.md (etapy ST-0..ST-6).",
    "kto": "WARRYN (+ ORWYN, NINA; Gerrik - kasa)",
    "kanal": "na miejscu; meldunek w zbiorczym Garricka",
-   "wraca": "300-08-19",
+   "wraca": "300-08-26",
    "zamyka": "studnia we wsi za gajem gotowa + lista studni/cystern dla wszystkich wsi z ksiegi wsi (kolejnosc jawna, rada lenna)",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: kopia dalej."
   },
   {
    "data": "300-06-30",
@@ -8886,7 +8886,7 @@
    "kanal": "na miejscu; zbiorczy Garricka",
    "wraca": "300-08-19",
    "zamyka": "row zrodla wykopany, materac faszynowy na trzeciej mili, nasyp ruszyl",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34)."
+   "status": "zamkniete 300-08-19 ### RZUT 83: trzecia mila trzyma po dwoch nawalnicach; ostatnia warstwa faszyny 08-15."
   },
   {
    "data": "300-07-01",
@@ -11928,7 +11928,7 @@
    "kanal": "marsz Traktem Krolewskim",
    "wraca": "300-08-19",
    "zamyka": "50 na Fosie",
-   "status": "otwarte ### 08-17: wedlug marszu na Fosie dzis; wiesc kanalem - zbiorczy Garricka ~08-19 (zasada 34)."
+   "status": "zamkniete 300-08-19 ### 50 z WF na Fosie 08-17, baraki Fosy, wikt Kasa 2."
   },
   {
    "data": "300-08-07",
@@ -12090,7 +12090,7 @@
    "kanal": "pismo + kruki z WF",
    "wraca": "300-08-19",
    "zamyka": "potwierdzenia rozkazu (karta Theona 08-15)",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16: karta Theona nie przyszla - lancuch Dustinport-Fosa jezdziec 4 dni, nawalnica zatrzymala; ~08-19."
+   "status": "zamkniete 300-08-19 ### KARTA THEONA (rzut 80): rozkaz potwierdzony przez wszystkich; JEDEN JENIEC - rozbitek z langskipa HARLAW (sztorm 08-15, Przyladek Krakena): 3 kadluby Harlaw liczyly brzeg dla Czytelnika (Przyladek Krakena - ujscie Goraczki), 'patrzec, nie palic'; plotka z wiosel - Balon nie wychodzi z Morskiej Wiezy od wiosny, czarny kadlub bez znaku w Lordsport. Jeniec u Theona do slowa pana."
   },
   {
    "data": "300-08-08",
@@ -12342,7 +12342,7 @@
    "kanal": "kruk WF-Fosa (swit 08-14); karta ze zbiorczym 08-17",
    "wraca": "300-08-19",
    "zamyka": "karta podliczenia lenna na stole pana (+ wpis do ekonomia.json, Kasa 2)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-19 ### karta podliczenia lenna (11 pozycji) przyszla ze zbiorczym - liczby z ksiegi Warryna (gra/poczta_300_08_19.md)."
   },
   {
    "data": "300-08-13",
@@ -12727,7 +12727,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-08-10",
+   "ostatnio_odebrane": "300-08-19",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"

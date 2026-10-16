@@ -588,3 +588,30 @@
 *Dopisek spisującego:* Walder zasnął w połowie, Rickon nie. Na koniec Rickon zapytał Kudłacza, czy wilki też stoją na warcie. Kudłacz ziewnął. Bran przy oknie powtórzył cicho, do szyby: *„Kiedy nic nie idzie, długo.”* Meera spojrzała w tę samą stronę co on, na północ, gdzie nic nie było widać.
 
 *Uwaga porządkowa (reguła Brana):* Siedemdziesięciu dziewięciu wartowników, dezerterów z Nocnej Straży, odesłanych z powrotem i postawionych na murze na wieczną wartę, to kanon (bajki Starej Niani, Fort Nocy). Zima, w której nic nie przychodziło, powód zejścia, słowa Lorda Dowódcy, „lód ich wziął”, „staną pierwsi” i nauka o warcie, na której nic się nie dzieje, to E, wersja Niani.
+
+## 29. O KRÓLU, KTÓRY UKLĄKŁ
+*Spisane 300-08-17, w niedzielę wieczorem, po kolacji, w izbie Niani. Deszcz ustał, chłodno, ogień większy niż zwykle. Słuchali Rickon i mały Walder, Bran przy oknie z Meerą i Jojenem, Kudłacz pod ławą. Arya stała w progu i tym razem weszła i usiadła na podłodze. Rickon zapytał: „Czemu Robb jest królem, a ojciec nie był?”*
+
+> Bo był czas, dziecko, że Starkowie byli królami zawsze, od Brandona Budowniczego, przez osiem tysięcy lat. Królowie Zimy. A potem przyszedł jeden, który przestał. Nazywał się **Torrhen**.
+>
+> Z południa przyszedł Aegon Zdobywca, a z nim trzy smoki. Jeden z tych smoków spalił Harrenhal razem z królem, który w nim siedział, i z jego synami. Kamień się topił jak wosk. Inni królowie w polu też poszli z dymem.
+>
+> Torrhen zebrał całą Północ, trzydzieści tysięcy ludzi, i poszedł na południe, aż nad Trident. Stanął na brzegu i patrzył na drugą stronę. Tam był Aegon, a nad nim latały smoki.
+>
+> I Torrhen policzył. Nie mieczem, tylko głową. Ilu ludzi ma Północ, a ile ognia ma jeden smok. Ile wdów będzie w Winterfell, ile w Karholdzie, ile w Białym Porcie. Liczył całą noc.
+>
+> A rano przeszedł przez rzekę sam, bez miecza u pasa, ukląkł przed Aegonem i oddał mu koronę. Dlatego go zwą **Królem, Który Ukląkł**. I dlatego przez trzysta lat Starkowie byli lordami, a nie królami.
+>
+> *(Rickon zapytał, czy Torrhen był tchórzem.)*
+>
+> Jedni tak mówią. Ja mówię, że trzydzieści tysięcy ludzi wróciło do domu, do żon, a żadna wieś na Północy nie spłonęła od smoka. Policzcie sami, dziecko, czy to tchórz.
+>
+> *(Arya zapytała, czy Robb by ukląkł.)*
+>
+> Robb nie ma przed sobą smoka, tylko zimę. Przed zimą się nie klęka, dziecko. Przed zimą się liczy, tak samo jak Torrhen liczył. Kto dobrze policzy, ten ma wiosnę.
+>
+> Spać.
+
+*Dopisek spisującego:* Arya nie zasnęła i nie wyszła pierwsza. Długo patrzyła w ogień. Bran przy oknie powiedział do Jojena: *„Liczył całą noc.”* Jojen kiwnął głową, jakby to nie było nic nowego. Niania na koniec spojrzała na mnie, nie na dzieci, i nic nie powiedziała.
+
+*Uwaga porządkowa (reguła Brana):* Torrhen Stark, ostatni Król Zimy, Aegon i trzy smoki, spalony Harrenhal, trzydzieści tysięcy ludzi nad Tridentem, uklęknięcie i oddanie korony oraz przydomek „Król, Który Ukląkł” to kanon. Noc liczenia i „żadna wieś nie spłonęła” to wersja Niani. Zdanie o zimie i liczeniu to E, Niania.

@@ -13261,6 +13261,15 @@
    "wraca": "300-09-10",
    "zamyka": "pierwsze listy/welna wyslane (meldunek przy stole)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "SANSA ZAPRASZA KROLOWA ROSLIN (zgoda pana 08-27): na piatkowa lekcje braavoskiego (popatrzec) albo do rejestru (rody Dorzecza). Przy kolacji 08-27, nie w komnacie krolowej. Wola krolowej - RZUT przy kolacji.",
+   "kto": "SANSA -> KROLOWA ROSLIN",
+   "kanal": "osobiscie, Wielka Sala",
+   "wraca": "300-08-27",
+   "zamyka": "odpowiedz krolowej",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

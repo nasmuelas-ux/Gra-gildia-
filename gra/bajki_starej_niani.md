@@ -565,3 +565,26 @@
 *Dopisek spisującego:* Arya przez całą bajkę ani razu się nie poruszyła. Przy „stała lepiej niż oni” chwyciła się za dłoń, tę podrapaną. Kiedy Niania powiedziała „spać”, wstała pierwsza i wyszła bez słowa. Rickon zapytał Brana, czy Fort Nocy jest daleko. Bran odpowiedział: *„Najdalej ze wszystkich.”* Meera spojrzała na niego, a on nic więcej nie dodał.
 
 *Uwaga porządkowa (reguła Brana):* Danny Flint, dziewczyna przebrana za chłopca, która wstąpiła do Nocnej Straży, w Forcie Nocy została skrzywdzona i zamordowana przez braci, a jej duch nawiedza Fort Nocy, oraz pieśń *Biedna Danny Flint* to kanon (bajki Starej Niani). To, że Lord Dowódca powiesił braci, to E, wersja Niani. Spór Flintów o to, z których była, to E. Opuszczenie Fortu Nocy „przez nią” to babcine gadanie Niani (E). W kanonie Fort Nocy porzucono z innych powodów, więc stos (c), kłóci się.
+
+## 28. O SIEDEMDZIESIĘCIU DZIEWIĘCIU WARTOWNIKACH
+*Spisane 300-08-16, w sobotę, po kolacji, w izbie Niani. Pierwszy czysty wieczór po dwóch burzach, za oknem czerwone niebo. Słuchali Rickon i mały Walder, Bran przy oknie z Meerą, Kudłacz pod ławą. Arya nie przyszła. Walder zapytał: „Czy z Nocnej Straży można uciec?”*
+
+> Można, mały Freyu. Raz. Drugi raz już nie.
+>
+> Dawno temu, jeszcze w Forcie Nocy, było siedemdziesięciu dziewięciu braci, którzy jednej nocy zeszli z muru. Mówią, że to była zima, w której nic nie przychodziło zza Muru. Ani dzicy, ani zwierz, ani śnieg z wiatrem. Stali na warcie, patrzyli w ciemność i ciemność nic im nie dawała. I pomyśleli: *„Po co stoimy, skoro nikt nie idzie?”* Zeszli na południe, każdy do swojej wsi, do żony, do matki, do ciepłego.
+>
+> Ale przysięgi nie zostawia się na murze jak płaszcza na kołku. Przysięga idzie za tobą.
+>
+> Lordowie ich połapali, każdego w jego wsi, i odesłali na Mur w łańcuchach. Lord Dowódca stanął przed nimi i powiedział: *„Chcieliście zejść z warty. Nie zejdziecie z niej już nigdy.”* I postawił ich z powrotem na murze, wszystkich siedemdziesięciu dziewięciu, w szeregu, twarzami na północ. Tam stoją do dziś.
+>
+> *(Rickon zapytał, czy żywi.)*
+>
+> Nie wiem, dziecko. Mówią, że lód ich wziął. Mówią też, że w noc, kiedy coś naprawdę przyjdzie zza Muru, staną na nogi i będą patrzeć pierwsi. Bo kto raz zszedł, ten już wie, czego nie wolno przegapić.
+>
+> I pamiętajcie, czego uczy ta bajka, bo nie strachu. Najgorsza warta to nie ta, kiedy coś idzie. **Najgorsza jest ta, kiedy nic nie idzie, długo.** Wtedy człowiek zaczyna myśleć, że stoi na próżno. A on nie stoi na próżno. On stoi, żeby nic dalej nie szło.
+>
+> Spać.
+
+*Dopisek spisującego:* Walder zasnął w połowie, Rickon nie. Na koniec Rickon zapytał Kudłacza, czy wilki też stoją na warcie. Kudłacz ziewnął. Bran przy oknie powtórzył cicho, do szyby: *„Kiedy nic nie idzie, długo.”* Meera spojrzała w tę samą stronę co on, na północ, gdzie nic nie było widać.
+
+*Uwaga porządkowa (reguła Brana):* Siedemdziesięciu dziewięciu wartowników, dezerterów z Nocnej Straży, odesłanych z powrotem i postawionych na murze na wieczną wartę, to kanon (bajki Starej Niani, Fort Nocy). Zima, w której nic nie przychodziło, powód zejścia, słowa Lorda Dowódcy, „lód ich wziął”, „staną pierwsi” i nauka o warcie, na której nic się nie dzieje, to E, wersja Niani.

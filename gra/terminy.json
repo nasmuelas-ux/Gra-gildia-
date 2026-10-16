@@ -12775,6 +12775,42 @@
    "wraca": "300-09-09",
    "zamyka": "odpowiedz Torrena + kosztorys Garricka/Warryna na stole pana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "KALENDARZ 301 - ODBITKA PROBNA NA SCIANY PLACOWEK (slowo pana 08-20, rada Lucana): z dopiskiem 'strona zimowa w sprawdzeniu'; Ilario odbija z drzeworytu na Fosie, kurier Domu do placowek (BP, Seagard, Riverrun, Ashford, Pentos/Braavos statkiem). Wlasni - bez rzutu; zamowienia - rzut przy rozliczeniu 09-20.",
+   "kto": "ILARIO + HAL (kurier Domu)",
+   "kanal": "kruk WF-Fosa / kurier Domu",
+   "wraca": "300-09-01",
+   "zamyka": "odbitki wisza w placowkach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "KALENDARZ 301 DWORSKI - EGZEMPLARZ W PREZENCIE DLA LADY CATELYN (slowo pana 08-20): pierwszy dworski z nakladu, po sprawdzeniu strony zimowej przez Orwyna.",
+   "kto": "ILARIO -> SYMON -> CATELYN",
+   "kanal": "kurier Domu Fosa-WF",
+   "wraca": "300-09-20",
+   "zamyka": "egzemplarz u lady Catelyn",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "BECZKA ZIMOWA - CENNIK NA STOLE GAWENA (slowo pana 08-20): przez Berona, bez prosby i bez podpisu pana (zasada 07-28: umowa Korony z Domem Namiestnika - podpisuje Skarbnik). Wola Gawena - RZUT, jesli przyjdzie z zamowieniem.",
+   "kto": "LUCAN -> BERON -> GAWEN",
+   "kanal": "na miejscu (Winterfell)",
+   "wraca": "300-08-27",
+   "zamyka": "Gawen zamawia albo milczy (nazwane)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "BECZKA ZIMOWA DLA MURU - ZAPYTANIE DO OSRICA (slowo pana 08-20): ile beczek na zime, kto placi (Straz/Korona). Odzew - RZUT.",
+   "kto": "LUCAN (list Domu) -> OSRIC",
+   "kanal": "kruk WF-Czarny Zamek i z powrotem",
+   "wraca": "300-08-27",
+   "zamyka": "odpowiedz Osrica",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

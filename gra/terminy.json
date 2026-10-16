@@ -12900,7 +12900,7 @@
    "kanal": "kruk WF-Nowy Zamek (08-21 wieczor) i z powrotem",
    "wraca": "300-08-25",
    "zamyka": "odpowiedz Wymana albo nazwane milczenie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-24: ustepstwo pana w taryfie (24 + oplata przystaniowa pol na pol) - chlod Wymana: prog przy odpowiedzi +5 zamiast +10 (ocena GM)."
   },
   {
    "data": "300-08-21",
@@ -13003,11 +13003,20 @@
   },
   {
    "data": "300-08-24",
-   "co": "WYMAN - DO SLOWA PANA (poczta 08-24): (1) WOLY - oba w Braavos / jeden w BP od wiosny + drugi w Braavos / inaczej; (2) TARYFA - stawka wozu drogiego (32/24/pomiedzy) i oplata przystaniowa w Ujsciu pol na pol.",
+   "co": "WYMAN - WOLY DO SLOWA PANA (poczta 08-24): oba w Braavos (II, IV/301) / Wol I w BP od wiosny 301 + drugi w Braavos (IV/301) / inaczej. (Taryfa rozstrzygnieta 08-24.)",
    "kto": "SYMON",
    "kanal": "—",
    "wraca": "300-08-25",
    "zamyka": "slowo pana",
+   "status": "otwarte ### 08-24 SLOWO PANA (TARYFA): (1) woz drogi - 24 jelenie (wg Wymana); (2) OPLATA PRZYSTANIOWA w Ujsciu - ZGODA, osobna, pol na pol. WOLY - NIEROZSTRZYGNIETE (do slowa pana)."
+  },
+  {
+   "data": "300-08-24",
+   "co": "TARYFA PRZEWLOKI - POPRAWIONA I ZGODA WYMANA (slowo pana 08-24): woz drogi 24 jelenie (reszta bez zmian: zwykly 16, pusty 2, juczny 4, bydlo 2, pieszy wolno); OPLATA PRZYSTANIOWA w Ujsciu (postoj, rozladunek, sklad) osobna, pol na pol - stawki: Warryn + czlowiek Wymana; pobiera HAMUND WEZEL z czlowiekiem Wymana, kwit podwojny. List pana do Wymana; potem slup w Ujsciu i przy Goraczce. Wola Wymana - przyjal warunki sam (bez nowego rzutu na zgode).",
+   "kto": "SYMON -> WYMAN ; WARRYN ; HAMUND",
+   "kanal": "kruk WF-Nowy Zamek; kruk WF-Fosa",
+   "wraca": "300-08-28",
+   "zamyka": "stawki oplaty przystaniowej na pismie + slup stoi",
    "status": "otwarte"
   }
  ],

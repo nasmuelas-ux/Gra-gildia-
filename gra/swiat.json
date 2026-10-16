@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 19,
+  "dzien": 20,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 36 (300-08-19): SLABO - chlodno, mzawka do poludnia, potem przejasnienia; kruki lataja.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 85 (300-08-20): DOBRZE - pogodnie, szron do wschodu slonca, potem slonce i lekki wiatr z zachodu; drogi suche; kruki lataja od switu.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

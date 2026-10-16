@@ -13036,6 +13036,15 @@
    "wraca": "300-08-28",
    "zamyka": "odpowiedz stoczni: tak/termin/cena",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-24",
+   "co": "MODEL FLOTY KORONY - BADANIE (slowo pana 08-24: 'zbadam to, to pytanie o model dla Korony'): krol buduje i placi / lord wystawia (Manderly) / kapitan-wlasciciel (wzor Torrena) / najemne zagle / model Braavos (Arsenal - rezerwa kadlubow, Morski Lord). Zrodla: BRYNDEN (Stopnie, osobiscie), NESTA (jak Braavos placi i obsadza flote Morskiego Lorda - list statkiem), TORREN i MAEGE (ludzie i kadluby zachodu), LUCAN (koszt). Wlasna praca pana - bez rzutu; odpowiedzi obcych - przy wiesci.",
+   "kto": "SYMON ; BRYNDEN ; NESTA ; TORREN ; MAEGE ; LUCAN",
+   "kanal": "osobiscie WF; list do Nesty statkiem; kruki",
+   "wraca": "300-09-10",
+   "zamyka": "karta 'model floty Korony' na stole pana - do Krola po powrocie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -12532,6 +12532,15 @@
    "wraca": "300-09-05",
    "zamyka": "nazwa wpisana w statut i tabliczka w izbie tymczasowej",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-17",
+   "co": "WYMAN - LIST NAMIESTNIKA O ZAPYTANIU DO CECHU PISARZY (po radzie Sansy 08-17): odpis pisma do cechu, 'sprawy cechu - sprawy waszego miasta', 'jesli zabrania - przyjde najpierw do was'. Odzew Wymana - RZUT przy odpowiedzi (jak przyjal pisanie do cechu z pominieciem go).",
+   "kto": "WYMAN MANDERLY",
+   "kanal": "kruk WF-Nowy Zamek (wieczorny lot 08-17) i z powrotem",
+   "wraca": "300-08-21",
+   "zamyka": "odpowiedz Wymana albo nazwane milczenie",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

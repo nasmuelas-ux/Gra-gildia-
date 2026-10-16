@@ -3291,9 +3291,9 @@
    "co": "DROGA 22 TYSIECY: PRZEZ ZATOKE LODU, z Mroznego Brzegu na Cypel Morskiego Smoka - ROZSTRZYGNIECIE PANA 300-04-02. Straz nie ma tu nic do rzeczy (brama niepotrzebna). LODZIE: MORMONTOW + WLASNE (eskadra Torrena z Dustinportu). Warunek natury: otwarta woda po odwilzy. Otwarte: prosba do Maege Mormont o lodzie (wyjezdza dzis); rozkaz dla Torrena; zapewnienie dla Mance'a. ### 06-20 (pan na Fosie): czeka na poselstwo Dacey (wiesc przez Mur, potem Winterfell-Fosa). ### 300-06-28: czeka na slowo Mance'a (poselstwo, ~07-15). LODZIE: Maege daje DWIE z fok 'gdy Mance powie tak' (06-27); eskadra Torrena - rozkaz po slowie Mance'a. ### 07-15 MANCE MOWI TAK (rzut 100): droga 22 tysiecy rusza, gdy lodzie Mormontow i eskadra Torrena beda gotowe; termin i miejsca zbiorki - przez poselstwo; chleb Cypla - umowa praca i towar (list Krola A).",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-08-25",
+   "wraca": "300-09-05",
    "zamyka": "lodzie zebrane i droga uzgodniona z Mance'em",
-   "status": "otwarte - 06-01: bez kontaktu z Mance'em; czeka na poselstwo Dacey ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34). ### 08-04 ZBIORCZY GARRICKA (pisany 08-02; gra/zbiorczy_garricka_300_08_02.md): bez ruchu; termin i miejsca od poselstwa brak; KLOPOT: lodzie Maege wioza ziarno na Cypel, eskadra Torrena trzymana na zachodzie do konca IX (rozkaz 07-26) - DO SLOWA PANA ### 08-04 VOID (blad GM, zasada 3; slowo pana 'mieli byc Mormontowie i sami dzicy'): dopisek GM z 04-02 '(eskadra Torrena)' - USUNIETY. LODZIE: MORMONTOWIE (dwie z fok, obietnica Maege 06-27) + WLASNE LODZIE WOLNYCH LUDZI. Ziarno Maege na Cypel - ta sama woda: kurs z ziarnem, powrot po ludzi. Termin i miejsca - Mance przez poselstwo i przez Torgena przy drzewie. ### 08-20 Cypel: lodz Torrena, Vemund pisze ~08-25 (Torgen 08-18) - poczta_300_08_20.md pkt 6."
+   "status": "otwarte - 06-01: bez kontaktu z Mance'em; czeka na poselstwo Dacey ### 08-01: stan w ZBIORCZYM GARRICKA (pisany 08-02, kruk ~08-04) - wlasni (zasada 7), kanal Fosa (zasada 34). ### 08-04 ZBIORCZY GARRICKA (pisany 08-02; gra/zbiorczy_garricka_300_08_02.md): bez ruchu; termin i miejsca od poselstwa brak; KLOPOT: lodzie Maege wioza ziarno na Cypel, eskadra Torrena trzymana na zachodzie do konca IX (rozkaz 07-26) - DO SLOWA PANA ### 08-04 VOID (blad GM, zasada 3; slowo pana 'mieli byc Mormontowie i sami dzicy'): dopisek GM z 04-02 '(eskadra Torrena)' - USUNIETY. LODZIE: MORMONTOWIE (dwie z fok, obietnica Maege 06-27) + WLASNE LODZIE WOLNYCH LUDZI. Ziarno Maege na Cypel - ta sama woda: kurs z ziarnem, powrot po ludzi. Termin i miejsca - Mance przez poselstwo i przez Torgena przy drzewie. ### 08-20 Cypel: lodz Torrena, Vemund pisze ~08-25 (Torgen 08-18) - poczta_300_08_20.md pkt 6. ### 08-25 (poczta_300_08_25.md): NIE PRZYSZLO, WIADOMO DLACZEGO: posel za Murem, wiesc przez Czarny Zamek ~09-05."
   },
   {
    "data": "300-04-02",
@@ -4239,7 +4239,7 @@
    "kanal": "kruk Winterfell-Bialy Port; dalej z przedstawicielem morzem",
    "wraca": "300-08-25",
    "zamyka": "propozycja na stole Olenny (meldunek przedstawiciela)",
-   "status": "otwarte - 06-01: propozycja zlozona zarzadcy Olenny; odpowiedz po zniwach w Reach ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; odpowiedz Olenny na kontrakt Korony ~08-25 (Hal/przedstawiciel)."
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): OLENNA 58: TRZY LATA (nie piec), cena z gory na rok, potem rewizja przy zniwach; szkic - przedstawiciel + zarzadca Olenny. Do slowa pana. ### POPRZEDNIO: byl-otw - 06-01: propozycja zlozona zarzadcy Olenny; odpowiedz po zniwach w Reach ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; odpowiedz Olenny na kontrakt Korony ~08-25 (Hal/przedstawiciel)."
   },
   {
    "data": "300-04-22",
@@ -4255,9 +4255,9 @@
    "co": "REACH - WYCHOWANEK TYRELLOW W SZKOLE KROLA (rada Sansy): kuzyn, nie dziedzic. Dopiero gdy kontrakt stoi. Decyzja Krola. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): nie na teraz - warunek 'gdy kontrakt stoi'; odpowiedz Olenny po zniwach w Reach (~08-15).",
    "kto": "KROL",
    "kanal": "-",
-   "wraca": "300-08-25",
+   "wraca": "300-09-15",
    "zamyka": "decyzja Krola po kontrakcie",
-   "status": "otwarte ### 08-15: odpowiedz Olenny na kontrakt ~08-25 - wtedy."
+   "status": "otwarte ### 08-15: odpowiedz Olenny na kontrakt ~08-25 - wtedy. ### 08-25 (poczta_300_08_25.md): kontrakt stoi (88) - decyzja Krola o wychowanku po powrocie."
   },
   {
    "data": "300-04-23",
@@ -5020,9 +5020,9 @@
    "co": "KOSCI WILLAMA DUSTINA Z DORNE DO BARROWTON - obietnica Symona dla lady Barbrey. Krok 1: HOWLAND REED - dokladne miejsce kopca przy Wiezy Radosci (jedyny zywy swiadek) - list albo przez Jojena/Meere (~koniec V). Krok 2: list do Dorana Martella przez Neste (Braavos-Sloneczna Wlocznia ~43 dni) - zgoda i przewodnik w Czerwonych Gorach. Krok 3: kto jedzie (ludzie Dustinow? Domu?) i droga morzem. ### 06-05 REED (rzut 67): miejsce znane - trzeci kopiec od wiezy ku przeleczy, plaski kamien z imieniem runami. PRZELECZ TRZYMA YRONWOOD - potrzebna zgoda Dorne (list do Oberyna przez Neste, ~08-06). ### 06-12: BARBREY WIE (od Symona w cztery oczy). Gdy Dorne zgodzi sie - jedzie SER HARWOOD WRZOS (rycerz Dustinow). W Barrowton milczenie do czasu, az kosci beda w drodze.",
    "kto": "SYMON",
    "kanal": "Reed (Fosa/grobla) + Nesta (Dorne)",
-   "wraca": "300-08-25",
+   "wraca": "300-09-05",
    "zamyka": "kosci w Barrowton",
-   "status": "otwarte - kroki 1-2 wykonane; krok 3 po odpowiedzi Oberyna (~VIII) ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: statek z Braavos ~08-25."
+   "status": "otwarte - kroki 1-2 wykonane; krok 3 po odpowiedzi Oberyna (~VIII) ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: statek z Braavos ~08-25. ### 08-25 (poczta_300_08_25.md): statek z Braavos ~09-05 (Hal 08-17)."
   },
   {
    "data": "300-05-10",
@@ -5155,9 +5155,9 @@
    "co": "LIST DO OBERYNA MARTELLA (przez Neste): pomoc w odnalezieniu kosci poleglych przy Wiezy Radosci (Willam Dustin i ludzie Eddarda); 'Eddard byl przeciwny temu, co stalo sie z Elia'; osobiste zaproszenie Symona dla ksiecia na Polnoc.",
    "kto": "SYMON -> OBERYN (przez NESTE)",
    "kanal": "Winterfell-Bialy Port-Braavos-Sloneczna Wlocznia (~43 dni)",
-   "wraca": "300-08-25",
+   "wraca": "300-09-05",
    "zamyka": "odpowiedz Oberyna (rzut)",
-   "status": "otwarte ### 08-06: NIE PRZYSZLO I WIADOMO DLACZEGO - odpowiedz z Dorne idzie przez Neste i statek z Braavos; najblizszy pakiet z faktoria Braavos ~08-25. Rzut przy wiesci."
+   "status": "otwarte ### 08-06: NIE PRZYSZLO I WIADOMO DLACZEGO - odpowiedz z Dorne idzie przez Neste i statek z Braavos; najblizszy pakiet z faktoria Braavos ~08-25. Rzut przy wiesci. ### 08-25 (poczta_300_08_25.md): statek z Braavos ~09-05 (Hal 08-17)."
   },
   {
    "data": "300-05-11",
@@ -7083,7 +7083,7 @@
    "kanal": "kruk do Hala + statek do Reach",
    "wraca": "300-08-25",
    "zamyka": "odpowiedz Olenny na kontrakt Korony",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; jw. - odpowiedz Olenny ~08-25."
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): jw. - kontrakt Korony przyjety (88). ### POPRZEDNIO: byl-otw ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; jw. - odpowiedz Olenny ~08-25."
   },
   {
    "data": "300-06-07",
@@ -7936,9 +7936,9 @@
    "co": "KOMORY W GORACYM PORCIE I NA PRZEWLOCE (PORT WSCHODNI) - przed pomostem (IX) (zgoda pana 06-20): sluzba komor Gartha pod Gawenem - ludzie, waga, pieczecie, tablica kursu, ksiega bramy; jedna brama (clo Korony + myto lenna). Garth (objazd) + Rorik (wzor z Fosy). ### 06-23: organizowane wg 'Organizacji komory celnej' pkt VII (KOMORY MORSKIE: reda - nabrzeze - szopa celna - wyjscie z bandera).",
    "kto": "GARTH (sluzba komor) + RORIK; GAWEN",
    "kanal": "na miejscu / poczta",
-   "wraca": "300-08-25",
+   "wraca": "300-08-26",
    "zamyka": "komory stoja z ludzmi przed pierwszym zbozem Reach",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25 (poczta_300_08_25.md): stan w zbiorczym Garricka (pisany 08-24, ~08-26)."
   },
   {
    "data": "300-06-20",
@@ -8443,9 +8443,9 @@
    "co": "INTERNAT SZKOLY FOSY - stara stajnia jazdy przy wschodnim murze (Garrick): siano wyniesc, wapno, piec pod podloga, przegroda, ~20 lozek ze skrzynkami (E); gotowy przed naborem. Kasa 1 (Dom, wycena Hal). Wlasni - bez rzutu.",
    "kto": "GARRICK + ciesla; HAL (wycena)",
    "kanal": "na miejscu",
-   "wraca": "300-08-25",
+   "wraca": "300-08-26",
    "zamyka": "internat gotowy na pierwsze dzieci z wsi",
-   "status": "otwarte ### 08-19 WYCENA PODANA (karta Gawena, E, moc zapisu): gra/karta_wycen_300_08_19.md. Dalej - decyzja pana o kolejnosci (Kasa 2 nie udzwignie wszystkiego naraz). ### 08-19 28 ZAPLACONE 08-19."
+   "status": "otwarte ### 08-19 WYCENA PODANA (karta Gawena, E, moc zapisu): gra/karta_wycen_300_08_19.md. Dalej - decyzja pana o kolejnosci (Kasa 2 nie udzwignie wszystkiego naraz). ### 08-19 28 ZAPLACONE 08-19. ### 08-25 (poczta_300_08_25.md): stan w zbiorczym Garricka (pisany 08-24, ~08-26)."
   },
   {
    "data": "300-06-25",
@@ -8686,9 +8686,9 @@
    "co": "PLACOWKI BRAAVOS I PENTOS - PELNY SKLAD WG WZORU FILII (wola pana 06-30; struktura_domu_tally.md B): (1) zarzadca filii (mlodszy wspolnik, udzial w zysku filii, umowa 5 lat, nie krewny) - Pentos: OBARO - JUZ OBSADZONY od 300-03-12 (Hal, wprowadzenie Medricka; ksiega placowki co miesiac do kantoru Nesty) - nic do obsadzania, Braavos: osobno od kantoru Nesty (kantor niezalezny); (2) rachmistrz filii - podlega Rachmistrzowi Glownemu (Tam), nie zarzadcy; (3) magazynier; (4) pisarz naleznosci; (5) rachmistrz reliefu - pula Kasy 1, TYLKO BRAAVOS; W PENTOS BEZ RELIEFU (wola pana 06-30 - pytanie Willi rozstrzygniete, zadnej jalmuzny ani wykupu w Pentos); (6) wezel poczty domowej (kurier i skrzynka, poza Cytadela) - poczta Domu idzie SZYFREM (pan 06-30: 'po to mamy szyfry'), wezel nie musi byc slepy, tresc i tak zamknieta. ### ⚠ POPRAWKA 06-30 (wskazanie gracza, zasada 1): WZOR FILII TO NIE 6 ROL, TYLKO 6 + 3 Z PIONU WYWIADU (projekt 300-02-07, PRZYJETY PRZEZ HALA W CALOSCI 300-02-15) - termin pominal role 7-9: (7) KODER PLACOWKI - oficjalnie starszy kancelista, JEDYNY w filii z matryca, szyfruje raporty zarzadcy/rachmistrza/inspektora i nadaje przez wezel (6); podlega KANCLERZOWI (Willa), nie zarzadcy; matryce rozdaje Willa (dystrybucja kluczy), zmiana co kwartal - list do Braavos ~3 tyg. (kanaly.json; '2,5 mies.' bylo bledem GM, VOID), wiec matryce ida o kwartal z GORY, zapieczetowane z data na wierzchu (wzor Harrola 300-03-02). TO ON robi 'po to mamy szyfry'. (8) INSPEKTOR TARGOWY/PORTOWY - oficjalnie wagi, miary, cla; podlega Kanclerzowi, zarzadca NIE MOZE go zwolnic ani zmienic mu zadan. (9) WEDROWNI KUPCY - skup surowcow i drobny towar po jarmarkach i okolicy; podlegaja inspektorowi; NIE znaja szyfrow; delegacje rozlicza rachmistrz filii. Ponizej linii: czujki lokalne (tragarze, wagowi - dniowki z drobnych inspektora) wedle potrzeby. Agenci glebocy - POZA skladem, nie tworzy sie ich tym terminem. ### WOLA PANA: PELNY SKLAD, NIE SZPIEGOSTWO OD RAZU - 8 i 9 robia najpierw robote oficjalna; rubryka do Kanclerza rusza na slowo Willi/pana. ### PENTOS: 8 rol (bez reliefu). BRAAVOS: 9 rol. NIE SZPIEGOSTWO na start - placowka handluje (zasada Willi). OBSADZA HAL (zasada 42, jego prawo z 300-01-26), pan dowiaduje sie po fakcie. Kasa 1. List pana do Hala krukiem Fosa-BP dzis; dalej statkiem BP-Braavos/Pentos. Wlasni - bez rzutu na wydanie; ludzie na miejscu (obcy) - RZUT przy meldunku Hala. ### DOPISEK 06-30 (raport Willi): czy przy filiach POLNOCNYCH (Fosa, Winterfell, Bialy Port, Czarny Zamek) stoja juz WEDROWNI KUPCY (rola 9 z pionu, przyjetego 02-15)? Jesli nie - kiedy. To z nich ma byc karta Polnoc, region po regionie.",
    "kto": "SYMON -> HAL (+ Nesta, Obaro, Medrick)",
    "kanal": "kruk Fosa-Bialy Port (2 dni) + statek BP-Braavos/Pentos (~24 dni w jedna strone)",
-   "wraca": "300-08-25",
+   "wraca": "300-09-05",
    "zamyka": "meldunek Hala: obsada imiennie obu placowek",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25 (poczta_300_08_25.md): meldunek Hala z bilansem VIII."
   },
   {
    "data": "300-06-30",
@@ -8758,9 +8758,9 @@
    "co": "SPIS CALEGO LENNA FOSY CAILIN - WSZYSTKIE WSIE, PRZYSIOLKI I OSADY NA KEPACH, NAPRAWDE (rozkaz pana 06-30, propozycja Warryna). Dom po domu: DUSZE (imiennie, z wiekiem; dzieci osobno), RECE DO PRACY, POLA, BYDLO. Prowadzi WARRYN (zasada 42 - sam dobiera pisarzy; metoda Alys z lutego); w kazdej wsi SOLTYS + LAWA PRZYSIEGLA WSI + pisarz; INGA (poborca) i SARRA (urbarz) zderzaja z urbarzem; na kepy i glebokie bagno - pisarz LODZIA JASTRZEBI (Jastrzebie tylko wioza, pyta pisarz). Ludzi Reeda (krannogowie pod jego reka) NIE liczy sie - granica z Reedem czeka na jego odpowiedz (~07-15). OGLOSZENIE Z GORY (Garrick, slupy i soltysi, przed pierwszym domem): 'SPIS NIE PODNOSI CZYNSZU.' ZASADA 8 (jedna): ZNIWA w VIII zabieraja ludzi i soltysow - wiec DWA PRZEJSCIA: (1) KROTKIE po sianokosach - dusze i dzieci (lista dla naboru szkoly 09-01); (2) PELNE po zniwach - rece, pola, bydlo. Kasa 2 (dniowki pisarzy). Wlasni - bez rzutu na wykonanie. ### ⚑ DOPISEK PANA 06-30: (A) KSIEGA WSI LENNA - IMIENNIE kazda wies, przysiolek i osada na kepie (nazwa, polozenie, ile dymow), IMIE KAZDEGO SOLTYSA (a gdzie go nie ma - kto mowi za wies), sklad lawy wsi; odpis dla pana do Winterfell. (B) BADANIE POTRZEB WSI - przy pierwszym przejsciu soltys z lawa podaje TRZY RZECZY, KTORYCH WSI NAJBARDZIEJ BRAKUJE (studnia, droga, most, mlyn, ziarno siewne, narzedzia, bydlo, lecznica/zielarka, szkola, ochrona, cokolwiek); przy pelnym przejsciu pisarz sprawdza na oko. ZASADA 8 (Warryn): pytanie o potrzeby to obietnica - kazda wies dostaje ODPOWIEDZ na pismie (co, kiedy, albo dlaczego nie), a kolejnosc ustala rada lenna jawnie; inaczej drugiego spisu nikt juz nie wpusci.",
    "kto": "WARRYN (+ soltysi, lawy wsi, INGA, SARRA, pisarze; KESSEL - lodzie)",
    "kanal": "na miejscu; meldunek w zbiorczym Garricka",
-   "wraca": "300-08-25",
+   "wraca": "300-08-26",
    "zamyka": "(1) przejscie krotkie: KSIEGA WSI (wsie, przysiolki, soltysi imiennie) + dusze i dzieci + TRZY POTRZEBY kazdej wsi - na papierze przed 09-01; (2) pelne - termin osobny po zniwach",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25 (poczta_300_08_25.md): stan w zbiorczym Garricka (pisany 08-24, ~08-26)."
   },
   {
    "data": "300-06-30",
@@ -8866,9 +8866,9 @@
    "co": "ODPIS Z GLEBOKORZENIA DLA MAESTRA ORWYNA NA FOSE (rozkaz pana 07-01): z ksiag pogody i swiadectw zim ze zbioru 299-09/10 - TYLKO pogoda i dlugosc zim (filtr Orwyna: bez rachunkow spizarni; bez wiedzy krannogow - granica Reeda). Prosba pana do THEOMORE'A osobiscie w Winterfell (~07-08); odpis robia uczniowie Glebokorzenia; wlasna droga Korony, nie kanalem Cytadeli. ZASADA 8: Theomore postawil 299-09-21 granice wobec Cytadeli - odpis dla maestra Cytadeli moze dac w wyborze albo z warunkiem; to jego prawo jako mistrza Glebokorzenia.",
    "kto": "SYMON -> THEOMORE -> ORWYN",
    "kanal": "osobiscie w Winterfell; odpis jezdzcem/wozem Winterfell-Fosa",
-   "wraca": "300-08-25",
+   "wraca": "300-08-26",
    "zamyka": "odpis u Orwyna albo nazwana przyczyna (warunek Theomore'a)",
-   "status": "otwarte ### 08-07 KARTA III: 2 z 5 ksiag zrobione (Ostatnie Ognisko, Karhold), calosc ~08-20 (E); ksiega pogody Dreadfortu - maester nie odpisal. ### 08-20 odpis gotowy, jedzie wozem do Orwyna na Fose (~08-25)."
+   "status": "otwarte ### 08-07 KARTA III: 2 z 5 ksiag zrobione (Ostatnie Ognisko, Karhold), calosc ~08-20 (E); ksiega pogody Dreadfortu - maester nie odpisal. ### 08-20 odpis gotowy, jedzie wozem do Orwyna na Fose (~08-25). ### 08-25 (poczta_300_08_25.md): stan w zbiorczym Garricka (pisany 08-24, ~08-26)."
   },
   {
    "data": "300-07-01",
@@ -8994,7 +8994,7 @@
    "kanal": "kruk Winterfell-BP + statek BP-Stare Miasto (~3 tyg. w jedna strone)",
    "wraca": "300-08-25",
    "zamyka": "odpowiedz Reach: cena, ilosc, termin dostawy",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): OLENNA 88: pelna ilosc, cena z 05-25, pierwsze statki GP ~09-10, ostatnie przed koncem X, eskorta Redwyne'ow. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-07-09",
@@ -9084,7 +9084,7 @@
    "kanal": "kruk Winterfell-Karhold / Riverrun",
    "wraca": "300-08-25",
    "zamyka": "Rickard wie o wizycie; czlowiek Karstarka wskazany do Maidenpool",
-   "status": "otwarte - 07-26: Mala Rada (porzadek 'Karstark') - Krol zawija do Karholdu w trasie na Skagos (pkt 2: Karhold/Ostatnia Rzeka, Rickard w twarz); czlowiek Karstarka do Maidenpool - przy wizycie Krola ### 08-18: Krol na morzu ku Skagos; wiesc z Karholdu, gdy Krol napisze ~08-25."
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): KROL 76: Karhold - rozmowa z Rickardem w cztery oczy, straz marchii ogloszona, czlowiek Karstarka do Maidenpool wskazany. ### POPRZEDNIO: byl-otw - 07-26: Mala Rada (porzadek 'Karstark') - Krol zawija do Karholdu w trasie na Skagos (pkt 2: Karhold/Ostatnia Rzeka, Rickard w twarz); czlowiek Karstarka do Maidenpool - przy wizycie Krola ### 08-18: Krol na morzu ku Skagos; wiesc z Karholdu, gdy Krol napisze ~08-25."
   },
   {
    "data": "300-07-10",
@@ -9568,9 +9568,9 @@
    "co": "ZAPIS DOMOWY - TRZECIA CZESC PANA NA LYRE, MIRA ZARZADZA (pan 07-14): podpisany w Winterfell (pan, Mira; swiadkowie Luwin, Sten); NOTARIUSZ DOMU na Fosie - wpis i pieczec (kruk); HAL i NESTA - potwierdzenie na pismie, ze wiedza (Nesta przez Hala, ~3 tyg. w jedna strone). Wlasni - bez rzutu.",
    "kto": "SYMON -> NOTARIUSZ DOMU (Fosa); HAL; NESTA",
    "kanal": "kruk Winterfell-Fosa; kruk BP; statek BP-Braavos",
-   "wraca": "300-08-25",
+   "wraca": "300-09-05",
    "zamyka": "wpis notarialny + potwierdzenia Hala i Nesty",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25 (poczta_300_08_25.md): potwierdzenia Hala/Nesty - z bilansem Hala / statkiem."
   },
   {
    "data": "300-07-14",
@@ -9613,9 +9613,9 @@
    "co": "RELACJA ZZA MURU OD LUDZI MANCE'A (list Namiestnika 07-15): co widzieli - kto, gdzie, kiedy, ilu, jak sie poruszali, co zatrzymalo, czy umarli wstawali, co pali/tnie/nie dziala; spisane albo slowo w slowo poslowi, kazdy swiadek osobno. Spotkanie - przy drzewie na Cyplu w dniu przysiegi Mance'a (czlowiek Krola). Odpowiedz - RZUT przy wiesci.",
    "kto": "MANCE RAYDER (przez poselstwo/Mur)",
    "kanal": "kruk Winterfell-Czarny Zamek + poslaniec za Mur",
-   "wraca": "300-08-25",
+   "wraca": "300-09-05",
    "zamyka": "relacja na pismie albo z ust posla",
-   "status": "otwarte ### 08-20 Cypel/Mance: razem z poczta z Cypla ~08-25."
+   "status": "otwarte ### 08-20 Cypel/Mance: razem z poczta z Cypla ~08-25. ### 08-25 (poczta_300_08_25.md): NIE PRZYSZLO, WIADOMO DLACZEGO: posel za Murem, wiesc przez Czarny Zamek ~09-05."
   },
   {
    "data": "300-07-15",
@@ -9678,7 +9678,7 @@
    "kanal": "kruki z Winterfell 07-17",
    "wraca": "300-08-25",
    "zamyka": "lista wplat 1/3 na 08-01 (kto wplacil, kto nie)",
-   "status": "otwarte ### 08-01 (rzut 49): WPLACILO 8 z 11 (E; 5 moneta, 3 towarem z kwitem); NIE: HORNWOOD (Donella - zwloka do zniw), FLINT Z PALCA (milczy), RYSWELL (przy dostawie) (E). Kto nie wplacil - kolumna nie plynie; ostatecznie przy warunkach ~08-25. Rubryka przejsciowa (nie dochod Korony)."
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): HORNWOOD 54, FLINT Z PALCA 66 (towar z kwitem), RYSWELL 64 - wplacaja; WSZYSTKIE 11 KOLUMN PLYNA. ### POPRZEDNIO: byl-otw ### 08-01 (rzut 49): WPLACILO 8 z 11 (E; 5 moneta, 3 towarem z kwitem); NIE: HORNWOOD (Donella - zwloka do zniw), FLINT Z PALCA (milczy), RYSWELL (przy dostawie) (E). Kto nie wplacil - kolumna nie plynie; ostatecznie przy warunkach ~08-25. Rubryka przejsciowa (nie dochod Korony)."
   },
   {
    "data": "300-07-16",
@@ -10119,7 +10119,7 @@
    "kanal": "kruk Winterfell-Bialy Port (07-21 rano)",
    "wraca": "300-08-25",
    "zamyka": "ziarno w BP i probka zatwierdzona - RZUT przy dostawie (zrodlo, jakosc, cena)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): RZUT 100: zyto ozime z Lorathu (E), krotki sezon, mrozoodporne; probka - Orland; w BP od 08-23; cena -1/10 (E). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-07-20",
@@ -10198,9 +10198,9 @@
    "co": "SPIS STAREJ MOWY - zlecenie Namiestnika (07-20) dla PISARZA PRZYSTANI KORONY NA CYPLU (przy ksiedze Vemunda; imie poda Vemund). Metoda Luwina: z ust naszymi literami, slownik 3 kolumny (brzmienie/znaczenie/runa), rzeczy->zdania->piesni i przysiegi, dwoch mowiacych na slowo, runy osobno (odrys z miejscem i data); bez przymusu, dniowka/chleb; bez imion mowiacych (znak ogniska); odpis co miesiac do biblioteki Luwina. Plik: gra/stara_mowa_spis_300_07.md.",
    "kto": "SYMON -> VEMUND OD KOTWY -> pisarz przystani Korony (Cypel)",
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport + lodz Torrena (jak do Sigrun)",
-   "wraca": "300-08-25",
+   "wraca": "300-09-20",
    "zamyka": "odpowiedz Vemunda: imie pisarza + pierwsze slowa - RZUT przy meldunku",
-   "status": "otwarte ### 08-05: lodz Torrena do Cypla i z powrotem - brak wiesci; ~08-20. ### 08-20 Vemund ~08-25 (lodz Torrena)."
+   "status": "otwarte ### 08-05: lodz Torrena do Cypla i z powrotem - brak wiesci; ~08-20. ### 08-20 Vemund ~08-25 (lodz Torrena). ### 08-25 (poczta_300_08_25.md): RZUT 9: pisarz Aldo Pioro (E) - trzy slowa; ognisko oskarza o 'kradziez imion' (runy); TORGEN WSTRZYMAL SPIS. Wznowienie - do slowa pana."
   },
   {
    "data": "300-07-21",
@@ -10639,9 +10639,9 @@
    "co": "MANCE - LICZBA OGNISK I DUSZ (warunek Krola 07-26, rzut 11): przed chlebem ponad 22 tys. - Mance podaje, ile ognisk i ile dusz idzie na Cypel (takze ogniska z gor). Pytanie idzie z poslem przy nastepnym liscie (dzien i lodzie). Wola Mance'a - RZUT przy odpowiedzi.",
    "kto": "KROL/SYMON -> MANCE (przez Mur / posla)",
    "kanal": "Czarny Zamek - przewodnik - oboz",
-   "wraca": "300-08-25",
+   "wraca": "300-09-05",
    "zamyka": "liczba ognisk i dusz od Mance'a (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25 (poczta_300_08_25.md): NIE PRZYSZLO, WIADOMO DLACZEGO: posel za Murem, wiesc przez Czarny Zamek ~09-05."
   },
   {
    "data": "300-07-26",
@@ -10675,9 +10675,9 @@
    "co": "KONSULAT KORONY W RIVERRUN (Mala Rada 07-26, rzut 21 - Riverrun tak): kto (konsul - kancelaria misji), gdzie (przy Edmurze), koszt - Gawen; list Krola do Edmure'a.",
    "kto": "KROL ; SYMON (kandydat) ; GAWEN",
    "kanal": "kruk Riverrun",
-   "wraca": "300-08-25",
+   "wraca": "300-10-01",
    "zamyka": "konsul wskazany, zgoda Edmure'a (rzut)",
-   "status": "otwarte ### 08-10: LIST KROLA DO EDMURE'A W SPRAWIE KONSULATU NIE WYSZEDL (w zapisie brak wysylki; Krol wyjechal 08-05) - do slowa pana jako regenta. ### 08-10: plan gotowy (gra/konsulat_riverrun_plan_300_08.md); LIST REGENTA DO KROLA wyslany - zapytac Medgera o Jonelle jako konsula; odpowiedz Krola - RZUT (prerogatywa). ### 08-20 Krol na morzu (Skagos) - odpowiedz ~08-25 razem z Karholdem."
+   "status": "otwarte ### 08-10: LIST KROLA DO EDMURE'A W SPRAWIE KONSULATU NIE WYSZEDL (w zapisie brak wysylki; Krol wyjechal 08-05) - do slowa pana jako regenta. ### 08-10: plan gotowy (gra/konsulat_riverrun_plan_300_08.md); LIST REGENTA DO KROLA wyslany - zapytac Medgera o Jonelle jako konsula; odpowiedz Krola - RZUT (prerogatywa). ### 08-20 Krol na morzu (Skagos) - odpowiedz ~08-25 razem z Karholdem. ### 08-25 (poczta_300_08_25.md): KROL 11: NIE TERAZ - najpierw Maidenpool; potem Medger o Jonelle."
   },
   {
    "data": "300-07-26",
@@ -10695,7 +10695,7 @@
    "kanal": "kruk BP",
    "wraca": "300-08-25",
    "zamyka": "dwa nazwiska u Krola",
-   "status": "otwarte ### 08-07 KARTA III THEOMORE: wskazuje ULLE KORE (lacznosc - krukarnia Glebokorzenia) i TOMASA SZNURA (infrastruktura - mosty i groble); do Rady przez Luwina (Mistrz Nauki). ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; Mala Rada - kandydaci, poczta BP ~08-20. ### 08-20 kandydaci znani (Ulla Kora, Tomas Sznur - karta III 08-07); do Krola przez Luwina - Krol na morzu, ~08-25."
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): KROL 76: Ulla Kora i Tomas Sznur do Malej Rady przez Luwina; pierwsze posiedzenie po powrocie Krola. ### POPRZEDNIO: byl-otw ### 08-07 KARTA III THEOMORE: wskazuje ULLE KORE (lacznosc - krukarnia Glebokorzenia) i TOMASA SZNURA (infrastruktura - mosty i groble); do Rady przez Luwina (Mistrz Nauki). ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; Mala Rada - kandydaci, poczta BP ~08-20. ### 08-20 kandydaci znani (Ulla Kora, Tomas Sznur - karta III 08-07); do Krola przez Luwina - Krol na morzu, ~08-25."
   },
   {
    "data": "300-07-26",
@@ -11343,7 +11343,7 @@
    "kanal": "kruk / kurier Domu / Braavos",
    "wraca": "300-08-25",
    "zamyka": "odzew Olenny, Dorana, Stannisa (albo cisza)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): OLENNA 27: 'zboze to zboze, wojna to wojna' - nie staje po zadnej stronie. Doran/Stannis - bez odzewu (statek Braavos ~09-05; Smocza Skala - cisza). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-01",
@@ -11647,9 +11647,9 @@
    "co": "TORGEN SZARY (przyjazd 08-04; pan 08-03): przy drzewie zapytac staroste, potem Mance'a o 'ogniska, ktore nie chca przejsc' - ile, gdzie, dlaczego.",
    "kto": "TORGEN",
    "kanal": "ustnie WF / Cypel",
-   "wraca": "300-08-25",
+   "wraca": "300-09-20",
    "zamyka": "odpowiedz starosty lub Mance'a",
-   "status": "otwarte ### 08-20 Torgen: odpowiedz o ogniskach z poczta z Cypla ~08-25."
+   "status": "otwarte ### 08-20 Torgen: odpowiedz o ogniskach z poczta z Cypla ~08-25. ### 08-25 (poczta_300_08_25.md): RZUT 17: starosta - 'ci, co nie przejda, maja swoje powody'; liczby brak; Mance milczy."
   },
   {
    "data": "300-08-03",
@@ -11674,9 +11674,9 @@
    "co": "KSIEGA MILCZENIA (slowo pana 08-03, rada Sansy; gra/ksiega_milczenia.md): Beron - czesc Korony, przeglad CO PONIEDZIALEK, zmiany rytmu do pana; Lucan - czesc Domu; Willa - rubryka POSLANCY POLUDNIA od karty 09-01 (liczyc poslancow, nie czytac listow). Cykl tygodniowy - po kazdym przegladzie: python3 gra/dzien.py odebrane ID DATA.",
    "kto": "BERON ; LUCAN ; WILLA",
    "kanal": "kancelaria WF; kruk WF-Fosa 08-04",
-   "wraca": "300-08-25",
+   "wraca": "300-09-01",
    "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
-   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25."
+   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01."
   },
   {
    "data": "300-08-03",
@@ -11982,7 +11982,7 @@
    "kanal": "kruk WF-BP + statek",
    "wraca": "300-08-25",
    "zamyka": "odpowiedz Olenny: klauzula drugiego portu",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): OLENNA 48: klauzula TAK pod warunkiem - drugi port wskazany TERAZ na pismie, koszt przekierowania Korona. Dalej - do slowa pana. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-07",
@@ -12142,9 +12142,9 @@
    "co": "KLAUZULA O UCZNIU W UMOWACH PATRONATU KORONY (Mala Rada 08-09): kazdy mistrz pod patronatem Korony bierze ucznia z Korpusu albo szkoly ZM - mistrz wybiera z dwoch wskazanych (Rodwell); Korona placi wikt ucznia (Kasa 3). Dopisek do kazdej nowej umowy patronatu; istniejace - aneks przy najblizszym rozliczeniu (Rodwell + Gawen).",
    "kto": "RODWELL + GAWEN",
    "kanal": "na miejscu / pisma do mistrzow",
-   "wraca": "300-08-25",
+   "wraca": "300-09-01",
    "zamyka": "wzor klauzuli na pismie + pierwszy aneks podpisany",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25 (poczta_300_08_25.md): Rodwell + Gawen - wzor klauzuli; Gawen zajety omlotem."
   },
   {
    "data": "300-08-09",
@@ -12187,18 +12187,18 @@
    "co": "GAWEN - ZBOZE DLA MIASTA MOOTONA (Maidenpool) NA ZIME PRZEZ KOMPANIE (obietnica w liscie Catelyn 08-10: 'ilosc poda Skarbnik Polnocy'): ile gab, ile korcy, skad (zapas Korony / Kompania), koszt - Kasa 3; kolejnosc wydatkow (chleb pierwszy).",
    "kto": "GAWEN",
    "kanal": "osobiscie",
-   "wraca": "300-08-25",
+   "wraca": "300-08-26",
    "zamyka": "liczba korcy i koszt na pismie",
-   "status": "otwarte ### 08-15: na miejscu w WF/ZM - wlasni, idzie; meldunek ~08-18 (E), nawalnica spowalnia przejscie do ZM. ### 08-18: Gawen - ilosc po omlocie okregu III (~08-25)."
+   "status": "otwarte ### 08-15: na miejscu w WF/ZM - wlasni, idzie; meldunek ~08-18 (E), nawalnica spowalnia przejscie do ZM. ### 08-18: Gawen - ilosc po omlocie okregu III (~08-25). ### 08-25 (poczta_300_08_25.md): OMLOT III (2): z domeny nie da sie; Gawen proponuje 2000 korcy z Illyrii przez Kompanie (Kasa 3). DO SLOWA PANA."
   },
   {
    "data": "300-08-10",
    "co": "KSIEGA KOMORY BIALEGO PORTU ZA V-VIII DO GAWENA (bilans Korony VII: nie przyszla z bilansem Hala) - Gawen pisze przez Torsena (Faktor BP) i Wymana jako Mistrza Portow; potrzebna do cla jako osobnej linii.",
    "kto": "GAWEN -> TORSEN (BP)",
    "kanal": "kruk WF-BP",
-   "wraca": "300-08-25",
+   "wraca": "300-09-05",
    "zamyka": "ksiega komory BP u Gawena",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25 (poczta_300_08_25.md): ksiega komory BP - z bilansem Korony VIII (Torsen)."
   },
   {
    "data": "300-08-11",
@@ -12297,7 +12297,7 @@
    "kanal": "na miejscu (WF) + pisarz Domu w Barrowton",
    "wraca": "300-08-25",
    "zamyka": "lista ludzi na zbiorce, wymarsz kolumny",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): RODRIK 68: 45 w WF (Umber 10, Bolton 10, Karstark 5, Cerwyn 5, Hornwood 5, Locke 3, Woolfield 3, Slate 2, Stout 2) + 4 Barrowton; Flint WS 3 ~08-29; kolumna pod ser Edwyle do Dustinportu 08-27. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-13",
@@ -12322,9 +12322,9 @@
    "co": "ILLYRIA - CHECKPOINT (slowo pana 08-13): decyzja o 20-25 tys. korcy z Pentos PO odpowiedzi z Reach (~08-25), przed terminem faktora ~09-10. Jesli Reach nie pojdzie - Pentos (zapis 08-08).",
    "kto": "SYMON + GAWEN",
    "kanal": "Winterfell",
-   "wraca": "300-08-25",
+   "wraca": "300-08-26",
    "zamyka": "slowo pana: bierzemy z Pentos albo nie",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25 (poczta_300_08_25.md): Reach pelna ilosc (88), ale domena -1900 korcy (okreg III, plesn) - DO SLOWA PANA przed ~09-10."
   },
   {
    "data": "300-08-13",
@@ -12486,7 +12486,7 @@
    "kanal": "kruk WF-Deepwood (08-16 po poludniu) + jezdziec lancucha Robetta na Cypel i z powrotem",
    "wraca": "300-08-25",
    "zamyka": "karta Vemunda/Torgena z liczbami albo nazwany brak (RZUT przy meldunku - obce: wolni ludzie)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): VEMUND 18: ~600 dusz w 9 ogniskach; reszta na Mroznym Brzegu - malo lodzi, woda szorstka; brak soli i sieci; spor dwoch ognisk o zatoke - Sad Rozjemczy. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-16",
@@ -12522,7 +12522,7 @@
    "kanal": "kruk WF-Deepwood (wieczorny lot 08-16) + jezdziec lancucha Robetta i z powrotem",
    "wraca": "300-08-25",
    "zamyka": "karta stada z liczbami (wlasni - Korona; bez rzutu na odpowiedz, liczby z ich ksiegi)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): 142 owce po strzyzy (9 padlo, 31 jagniat), siana na ~3 mies. z 5, jedna szopa, dwoch pasterzy z Hornwood (E). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-17",
@@ -12592,9 +12592,9 @@
    "co": "DLUGA ZIMA W LICZBACH (slowo pana 08-17, propozycja Brana): Bran + Luwin wypisuja z Ksiag Zimowych WF dlugosci zim (zamkniecie-otwarcie spichrzy) i zuzycie korcy na tydzien; najdluzsza zapisana zima x zuzycie Polnocy = 'dluga zima'; zestawic z danymi zim od Theomore'a (~08-20) i Prawem Spichlerza.",
    "kto": "BRAN + LUWIN",
    "kanal": "na miejscu, WF",
-   "wraca": "300-08-25",
+   "wraca": "300-09-01",
    "zamyka": "karta: dlugosci zim i liczba korcy (wlasni - bez rzutu; liczby z ksiag, nie z glowy)",
-   "status": "otwarte ### 08-18 (rzut 17, PORAZKA Z KOMPLIKACJA): z ksiag wypisano zimy z datami, ale MIARY ROZNE (korzec WF zmienial sie z wiekami - E); NAJDLUZSZA ZAPISANA ZIMA trafia na DWIE KARTY WYCIETE PRZY GRZBIECIE (Luwin 07-09) - brak srodka zimy i zuzycia; liczby 'dlugiej zimy' z samych ksiag WF nie bedzie. Zostaje: dane zim Theomore'a (~08-20), inne zamki (Ostatnie Ognisko, Karhold - ksiegi zimowe?), Cytadela. ### 08-18 ZESTAWIENIE Z TABELA DREADFORTU (gra/tabela_zim_dreadfort_wf_300_08_18.md): wycieta zima WF = zima ~178 - 5 lat 3 mies. (najdluzsza w obu ksiegach); zwyczajna 1-2 lata, ciezka 3,5-5,25. BRAKUJE: zuzycie korcy/tydzien dla Polnocy - Gawen (Spichlerz) x 5 l. 3 m."
+   "status": "otwarte ### 08-18 (rzut 17, PORAZKA Z KOMPLIKACJA): z ksiag wypisano zimy z datami, ale MIARY ROZNE (korzec WF zmienial sie z wiekami - E); NAJDLUZSZA ZAPISANA ZIMA trafia na DWIE KARTY WYCIETE PRZY GRZBIECIE (Luwin 07-09) - brak srodka zimy i zuzycia; liczby 'dlugiej zimy' z samych ksiag WF nie bedzie. Zostaje: dane zim Theomore'a (~08-20), inne zamki (Ostatnie Ognisko, Karhold - ksiegi zimowe?), Cytadela. ### 08-18 ZESTAWIENIE Z TABELA DREADFORTU (gra/tabela_zim_dreadfort_wf_300_08_18.md): wycieta zima WF = zima ~178 - 5 lat 3 mies. (najdluzsza w obu ksiegach); zwyczajna 1-2 lata, ciezka 3,5-5,25. BRAKUJE: zuzycie korcy/tydzien dla Polnocy - Gawen (Spichlerz) x 5 l. 3 m. ### 08-25 (poczta_300_08_25.md): Gawen - zuzycie Polnocy na tydzien po przeliczeniu strat okregu III, ~09-01."
   },
   {
    "data": "300-08-18",
@@ -12900,7 +12900,7 @@
    "kanal": "kruk WF-Nowy Zamek (08-21 wieczor) i z powrotem",
    "wraca": "300-08-25",
    "zamyka": "odpowiedz Wymana albo nazwane milczenie",
-   "status": "otwarte ### 08-24: ustepstwo pana w taryfie (24 + oplata przystaniowa pol na pol) - chlod Wymana: prog przy odpowiedzi +5 zamiast +10 (ocena GM)."
+   "status": "zamkniete 300-08-25 ### 08-25 (poczta_300_08_25.md): WYMAN 86: granica przyjeta; CECH NIE WYKRESLI NIKOGO ZA GLEBOKORZEN (slowo Wymana); chlod minal. ### POPRZEDNIO: byl-otw ### 08-24: ustepstwo pana w taryfie (24 + oplata przystaniowa pol na pol) - chlod Wymana: prog przy odpowiedzi +5 zamiast +10 (ocena GM)."
   },
   {
    "data": "300-08-21",
@@ -12918,7 +12918,7 @@
    "kanal": "kruk WF-BP",
    "wraca": "300-09-01",
    "zamyka": "lista przyjetych po nowej stawce",
-   "status": "otwarte"
+   "status": "otwarte ### 08-25: WYMAN 86 - Cech nie wykresli nikogo za Glebokorzen - odpis do Theomore'a; droga do cechowych otwarta."
   },
   {
    "data": "300-08-22",
@@ -13053,6 +13053,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-08-29",
    "zamyka": "lekcja odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-25",
+   "co": "POCZTA 08-25 - DO SLOWA PANA: (1) drugi port Reach (Dustinport / Starkport) + koszt przekierowania; (2) kontrakt 3-letni z Reach - szkic; (3) Illyria 20-25 tys. korcy (termin ~09-10); (4) zboze dla Mootona 2000 z Illyrii; (5) Cypel - lodzie, sol, wznowienie spisu mowy; (6) Glebokorzen - odpis slowa Wymana, nabor cechowych.",
+   "kto": "SYMON",
+   "kanal": "—",
+   "wraca": "300-08-26",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],
@@ -13200,7 +13209,7 @@
     "dzien_miesiaca": 20
    },
    "opoznienie": 5,
-   "ostatnio_odebrane": "300-07-25",
+   "ostatnio_odebrane": "300-08-20",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -13366,7 +13375,7 @@
     "dzien_miesiaca": 25
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-07-25",
+   "ostatnio_odebrane": "300-08-25",
    "zrodlo": "slowo pana 300-08-14; umowa koordynatora 299-08-22",
    "uwaga": "ostatnio_odebrane technicznie 07-25 - pierwsze rozliczenie 08-25."
   }

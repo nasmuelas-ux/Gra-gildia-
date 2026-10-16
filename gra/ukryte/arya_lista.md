@@ -57,3 +57,6 @@ Odczyt GM (O): dostała drogę zamiast trzeciego „nie”. Pierwszy raz tego dn
 
 ## 300-08-14 OBIAD — ZADRAPANIA
 Arya zaczęła łapać koty (lekcja Syria, po rozmowie z panem 08-13). Świt, stajnie, kocur koniuszego — złapała i puściła, bo podrapał. Powiedziała tylko panu, półgłosem, przy ser Rodriku nie chciała. Odczyt GM (O): wzięła radę „cierpliwość” dosłownie i robi ją po swojemu.
+
+## 300-08-17 STRYCH NAD STAJNIAMI: „TO NIE WARUNKI. TO MATKA.”
+Pan mówił o równych prawach (mieszczanin), o Dorne, Wyspie Niedźwiedziej i Jorelle, a potem o matce, która „o mały włos nas nie straciła”. Arya: Mormontki dostają topór przed lalką; matka wstaje w nocy sprawdzać drzwi (od Sansy); „dlatego siedzę z kotem, a nie na Fosie”. Odczyt GM (O): zrozumiała, czemu matka mówi nie. Nie zgodziła się z tym, ale tym razem nie jest zła.

@@ -12865,6 +12865,15 @@
    "wraca": "300-09-05",
    "zamyka": "plan na pismie z bilansem VIII",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-21",
+   "co": "SZYFR DOMYSLNY (slowo pana 08-21): (1) WSZYSTKIE KRUKI DOMU - szyfrem Domu (klucz Lucana; na Fosie szyfrator Harrol Lut); (2) LISTY POUFNE - siatka (Willa), wojsko i obrona, Dreadfort, sprawy rodu i dzieci (sny Brana - nic na papier, prosba Jojena 08-21) - szyfrem. KLUCZ DOMU do placowek, ktore go nie maja (Riverrun - Lyman, Ashford, Pentos/Braavos) - KURIEREM, NIGDY KRUKIEM. Listy KORONY poufne - osobny klucz Korony w kancelarii (Beron), bo kasy i ksiegi Korony i Domu rozdzielone. Wlasni - bez rzutu.",
+   "kto": "LUCAN (Dom) ; BERON (Korona) ; HARROL LUT (Fosa)",
+   "kanal": "kurier Domu z kluczem; na miejscu",
+   "wraca": "300-09-05",
+   "zamyka": "klucz Domu w kazdej placowce; klucz Korony w kancelarii; pierwszy list kazdej strony szyfrem",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -12189,7 +12189,7 @@
    "kanal": "osobiscie",
    "wraca": "300-08-26",
    "zamyka": "liczba korcy i koszt na pismie",
-   "status": "otwarte ### 08-15: na miejscu w WF/ZM - wlasni, idzie; meldunek ~08-18 (E), nawalnica spowalnia przejscie do ZM. ### 08-18: Gawen - ilosc po omlocie okregu III (~08-25). ### 08-25 (poczta_300_08_25.md): OMLOT III (2): z domeny nie da sie; Gawen proponuje 2000 korcy z Illyrii przez Kompanie (Kasa 3). DO SLOWA PANA."
+   "status": "zamkniete 300-08-25 ### SLOWO PANA: 2000 KORCY Z ILLYRII przez Kompanie (Kasa 3); zapasy Korony w komorach zostaja rezerwa zimowa (pan: 'mamy na pewno istniejace zapasy, ale tak'). E: 2000 x (20 + 8 fracht) jeleni = 56 000 jeleni = 280 smokow."
   },
   {
    "data": "300-08-10",
@@ -12324,7 +12324,7 @@
    "kanal": "Winterfell",
    "wraca": "300-08-26",
    "zamyka": "slowo pana: bierzemy z Pentos albo nie",
-   "status": "otwarte ### 08-25 (poczta_300_08_25.md): Reach pelna ilosc (88), ale domena -1900 korcy (okreg III, plesn) - DO SLOWA PANA przed ~09-10."
+   "status": "zamkniete 300-08-25 ### SLOWO PANA: TAK - bierzemy z Pentos przez Illyrie przed ~09-10 (cena jak w kontrakcie, bez doplaty - rzut 83, 08-13)."
   },
   {
    "data": "300-08-13",
@@ -13062,6 +13062,78 @@
    "kanal": "—",
    "wraca": "300-08-26",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-08-25 ### SLOWO PANA: (1) drugi port - DUSTINPORT, koszt przekierowania - Korona; (2) kontrakt 3-letni - zgoda na szkic; (3) Illyria - TAK; (4) Mooton - z Illyrii (zapasy Korony zostaja rezerwa); (5) Cypel - przyspieszyc przeplyw: Mormontowie wiecej lodzi; spis mowy - wznowic za zgoda ognisk; Mance wezwac do odpowiedzi; (6) Glebokorzen - odpis slowa Wymana, nabor cechowych."
+  },
+  {
+   "data": "300-08-25",
+   "co": "REACH - DRUGI PORT: DUSTINPORT (slowo pana 08-25) + koszt przekierowania - Korona (warunek Olenny); list Korony do Olenny przez Hala i przedstawiciela. Odzew - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> HAL -> przedstawiciel -> OLENNA",
+   "kanal": "kruk WF-BP + statek",
+   "wraca": "300-09-25",
+   "zamyka": "odpowiedz Olenny: Dustinport w klauzuli",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-25",
+   "co": "REACH - KONTRAKT 3-LETNI: SZKIC (slowo pana 08-25: zgoda) - przedstawiciel + zarzadca Olenny; drewno, sol, futra za zboze; cena z gory na rok, rewizja przy zniwach. Do podpisu Krola.",
+   "kto": "przedstawiciel w Highgarden + HAL ; GAWEN",
+   "kanal": "statek",
+   "wraca": "300-10-15",
+   "zamyka": "szkic na stole Krola",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-25",
+   "co": "ILLYRIA - ZAMOWIENIE DODATKOWEGO ZBOZA Z PENTOS (slowo pana 08-25): 20 000 korcy dla Polnocy + 2000 dla miasta Mootona (przez Kompanie) = 22 000 korcy; cena jak w kontrakcie (E: ~20 jeleni + ~8 fracht = 28/korzec) = ~616 000 jeleni = ~3080 smokow (E, moc zapisu); platne przy dostawie (do konca X), czesc towarem (futra, drewno, tran) - Gawen ukladal plan platnosci Kasy 3. Wlasni + faktor (zgoda 08-13, rzut 83) - bez nowego rzutu na przyjecie; dostawa - RZUT przy dostawie.",
+   "kto": "GAWEN -> FAKTOR ILLYRIA (BP) ; HAL (Kompania - Mooton)",
+   "kanal": "kruk WF-BP (przed ~09-10)",
+   "wraca": "300-10-31",
+   "zamyka": "22 000 korcy w BP/komorach + kwity",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-25",
+   "co": "CYPEL - PRZYSPIESZYC PRZEPLYW WOLNYCH LUDZI (slowo pana 08-25: 'Mormontowie maja duzo wiecej lodzi; mieli przerzucac masowo'): list Namiestnika do LADY MAEGE (przez Dacey, ktora jest w WF) - wiecej lodzi, kursy co tydzien przed lodem, Wyspa Niedzwiedzia jako przystanek (jej slowo 04-02, rzut 99); Korona daje zboze i sol na przewoz. Odzew Maege - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> DACEY -> MAEGE",
+   "kanal": "kruk WF-Wyspa Niedzwiedzia",
+   "wraca": "300-09-01",
+   "zamyka": "odpowiedz Maege: ile lodzi, jak czesto",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-25",
+   "co": "CYPEL - SOL DLA OGNISK (slowo pana 08-25): Gawen - sol z komor / zakup BP, z ziarnem Mormontow.",
+   "kto": "GAWEN",
+   "kanal": "kruk / lodzie Mormontow",
+   "wraca": "300-09-05",
+   "zamyka": "sol na Cyplu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-25",
+   "co": "CYPEL - SPIS STAREJ MOWY - WZNOWIC ZA ZGODA OGNISK (slowo pana 08-25): Torgen pyta ogniska przy Sadzie; bez odrysu run bez zgody ogniska. Zgoda - RZUT przy meldunku.",
+   "kto": "TORGEN + ALDO PIORO (E)",
+   "kanal": "lancuch Robetta",
+   "wraca": "300-09-20",
+   "zamyka": "zgoda ognisk albo odmowa",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-25",
+   "co": "MANCE - WEZWANIE DO ODPOWIEDZI (slowo pana 08-25): liczba ognisk i dusz (warunek Krola), relacja zza Muru, droga i dzien przeprawy - list Namiestnika w imieniu Krola przez Czarny Zamek i posla; ton: wezwanie, nie prosba. Odzew - RZUT.",
+   "kto": "SYMON -> MANCE (przez CZ / posla)",
+   "kanal": "kruk WF-Czarny Zamek + poslaniec za Mur",
+   "wraca": "300-09-10",
+   "zamyka": "odpowiedz Mance'a",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-25",
+   "co": "GLEBOKORZEN - ODPIS SLOWA WYMANA DLA THEOMORE'A (slowo pana 08-25): Cech nie wykresli nikogo za Glebokorzen - nabor cechowych pisarzy po nowej stawce. Odzew - w pozycji nowej stawki (~09-01).",
+   "kto": "SYMON -> THEOMORE",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-09-01",
+   "zamyka": "Theomore ma odpis",
    "status": "otwarte"
   }
  ],

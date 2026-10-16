@@ -12666,7 +12666,7 @@
    "kanal": "kruk Domu ZM-BP (08-20 po poludniu) i z powrotem",
    "wraca": "300-08-24",
    "zamyka": "odpowiedz Wymana: tak/nie/termin",
-   "status": "otwarte ### 08-21: CHLOD WYMANA (list o cechu, rzut 2) - przy odpowiedzi prog +10."
+   "status": "zamkniete 300-08-24 ### 08-24 (poczta_300_08_24.md): RZUT 47 (prog 60) PORAZKA: jedna pochylnia; Wyman - 'moj dar idzie pierwszy': Kra najpierw (wiosna 301 na wodzie), Wol I w BP od wiosny 301 (~jesien 301). Hal: Braavos trzymalo dwa miejsca (II i IV/301) - list do Nesty o jednym kadlubie mozna dogonic. DO SLOWA PANA. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-20",
@@ -12747,7 +12747,7 @@
    "kanal": "kruk WF-Nowy Zamek i z powrotem",
    "wraca": "300-08-24",
    "zamyka": "odpowiedz Wymana; potem slup w Ujsciu i przy Goraczce",
-   "status": "otwarte ### 08-21: CHLOD WYMANA (list o cechu, rzut 2) - przy odpowiedzi prog +10."
+   "status": "zamkniete 300-08-24 ### 08-24 (poczta_300_08_24.md): RZUT 23 (prog 55) PORAZKA: woz drogi 32 -> Wyman chce 24; OPLATA PRZYSTANIOWA w Ujsciu (postoj, rozladunek, sklad) osobna, pol na pol; slup dopiero po rozstrzygnieciu. Warryn: przy 24 - ~7,5-10 smokow z kogi (Stopnie 20-35). DO SLOWA PANA. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-20",
@@ -12999,6 +12999,15 @@
    "kanal": "trakt WF-Fosa; wiesc krukiem Fosa-WF",
    "wraca": "300-09-01",
    "zamyka": "kruk z Fosy: Mira na miejscu, list u Garricka",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-24",
+   "co": "WYMAN - DO SLOWA PANA (poczta 08-24): (1) WOLY - oba w Braavos / jeden w BP od wiosny + drugi w Braavos / inaczej; (2) TARYFA - stawka wozu drogiego (32/24/pomiedzy) i oplata przystaniowa w Ujsciu pol na pol.",
+   "kto": "SYMON",
+   "kanal": "—",
+   "wraca": "300-08-25",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],

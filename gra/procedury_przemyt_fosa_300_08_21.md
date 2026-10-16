@@ -26,7 +26,7 @@
 4. **Przy wadze siedzi dwóch ludzi.** Jeden waży, drugi wpisuje, a rotacja co tydzień. Kto liczy, ten nie wydaje.
 5. **Każdy może zgłosić przemyt do sądu lenna.**
    - Zgłoszenie składa się Roderykowi, a nie straży.
-   - Za zgłoszenie potwierdzone na wadze należy się **dziesiąta część cła** odzyskanego z ładunku (E: stawka proponowana, w Kodeksie przemytu jej nie ma; do potwierdzenia przez pana).
+   - Za zgłoszenie potwierdzone na wadze należy się **dziesiąta część cła** odzyskanego z ładunku (ZATWIERDZONE słowem pana 08-26, z warunkiem Roderyka: tylko za zgłoszenie złożone pod własnym imieniem).
 6. **Plotki przy kanale idą do Kessela,** a Kessel przekazuje je Roderykowi raz w tygodniu. Kto pije z woźnicami, ten słyszy pierwszy.
 
 ## D. KTO I KIEDY

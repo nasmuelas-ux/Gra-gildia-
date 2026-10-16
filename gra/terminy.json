@@ -13143,6 +13143,24 @@
    "kanal": "—",
    "wraca": "300-08-27",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-08-26 ### SLOWO PANA: (1) ROZLADUNEK - (a) + (c): straz widoczna z brzegu (Jastrzebie na lodziach, ogien na wiezy), spanie za murem, ogloszenie we wsiach + najem z Cailin (rejestr Melli); (2) 1/10 CLA DLA ZGLASZAJACEGO - TAK (z warunkiem Roderyka: zgloszenie pod imieniem). + OBWIESZCZENIE przeciw poglosce (gra/obwieszczenie_zelazni_300_08_26.md)."
+  },
+  {
+   "data": "300-08-26",
+   "co": "ROZLADUNEK GP - STRAZ WIDOCZNA + SPANIE ZA MUREM + NAJEM Z CAILIN (slowo pana 08-26, a+c): ile rak po obwieszczeniu i najmie. Wolni ludzie - RZUT przy meldunku.",
+   "kto": "GARRICK + HENDRY + KESSEL + MELLA",
+   "kanal": "kruk WF-Fosa; zbiorczy 08-31",
+   "wraca": "300-09-02",
+   "zamyka": "lista rak na rozladunek przed pierwszymi statkami (~09-10)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-26",
+   "co": "OBWIESZCZENIE 'PRZED ZELAZNYMI NIE DA SIE UCIEC' (slowo pana 08-26): Kamienny Brzeg/Starkport (pieczec Namiestnika; Corwin, Brann Mokry) i lenno Fosy (pieczec lorda; Garrick, soltysi, GP). Odbior we wsiach - RZUT przy meldunku (KB i lenno osobno).",
+   "kto": "CORWIN + BRANN MOKRY ; GARRICK + soltysi",
+   "kanal": "kruk WF-Fosa / WF-Deepwood + jezdziec Robetta",
+   "wraca": "300-09-05",
+   "zamyka": "odbior obwieszczenia w obu miejscach (rzut)",
    "status": "otwarte"
   }
  ],

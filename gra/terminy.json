@@ -12559,6 +12559,33 @@
    "wraca": "300-09-01",
    "zamyka": "potwierdzenia trzech urzedow, ze ksiegi przeszyte (wlasni - bez rzutu)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-17",
+   "co": "SKARB - DZIEN SPRZEDAZY SWIADCZEN W NATURZE (slowo pana 08-17, rada Gawena): raz w miesiacu jawna licytacja na Targu ZM, cena wywolawcza ze slupa; co tydzien spis skladow (co lezy, ile dni do zepsucia; psujace sie pierwsze). Pierwszy dzien - Wielki Targ ZM ~09-20.",
+   "kto": "GAWEN + Oswyn Miarka (waga) ; lawa ZM",
+   "kanal": "na miejscu, WF/ZM",
+   "wraca": "300-09-20",
+   "zamyka": "pierwsza licytacja odbyta, wynik w ksiedze Skarbu (RZUT przy licytacji - kupcy)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-17",
+   "co": "SKARB - KWIT Z ODCINKIEM w komorach i przy mycie (slowo pana 08-17, rada Gawena): numerowany, odcinek zostaje w komorze, kwit idzie z woznica; wzor kwitu - Gawen, druk - prasa Wata/Ilaria (formularz).",
+   "kto": "GAWEN ; GARTH (komory) ; WARRYN (myto lenna) ; Ilario (druk)",
+   "kanal": "kruk WF-Fosa + poczta Korony",
+   "wraca": "300-09-01",
+   "zamyka": "wzor kwitu rozeslany i pierwsze bloczki w komorach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-17",
+   "co": "[CYKL] SKARB - KARTA WYDATKOW KORONY OBOK WPLYWOW (slowo pana 08-17, rada Gawena): raz w miesiacu, dla Namiestnika i do teki Krola.",
+   "kto": "GAWEN",
+   "kanal": "na miejscu, WF",
+   "wraca": "300-09-05",
+   "zamyka": "cykliczne - 5. dnia miesiaca",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

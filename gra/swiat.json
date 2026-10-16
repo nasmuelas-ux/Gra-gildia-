@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 25,
+  "dzien": 26,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 62 (300-08-25): DOBRZE - pogodnie z chmurami, sucho, slaby wiatr z polnocy; drogi schna; kruki lataja od switu.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 100 (300-08-26): dzien, jakich bywa kilka w roku - bezchmurnie, cieplo jak w lecie, lekki wiatr z polnocy; drogi suche; kruki lataja od switu.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

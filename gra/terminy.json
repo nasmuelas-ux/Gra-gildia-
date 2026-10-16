@@ -12811,6 +12811,42 @@
    "wraca": "300-08-27",
    "zamyka": "odpowiedz Osrica",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "DOM - KARTA PLATNOSCI NA 60 DNI (slowo pana 08-20, rada Lucana): Hal raz w miesiacu, jedna kartka - wplywy i wyplywy dwoch nastepnych miesiecy (raty Wolow, rezerwy izby, wyplaty wspolnikow, zadatki, splaty pozyczek). Pierwsza z bilansem VIII. Wlasni - bez rzutu.",
+   "kto": "HAL (+ TAM)",
+   "kanal": "kruk Domu ZM-BP / z bilansem Hala",
+   "wraca": "300-09-05",
+   "zamyka": "pierwsza karta 60 dni na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "POZYCZKA DOMU DLA LENNA 1150 - WARUNKI NA PISMIE (slowo pana 08-20, rada Lucana): stawka i termin splaty; Hal + Warryn; Gawen swiadkiem (pan po obu stronach). Wlasni - bez rzutu.",
+   "kto": "HAL + WARRYN ; GAWEN (swiadek)",
+   "kanal": "kruk Domu / kruk WF-Fosa",
+   "wraca": "300-08-31",
+   "zamyka": "umowa na pismie z trzema pieczeciami",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "LANCUCH ZIMOWY - ZARZAD W CALOSCI EDRICOWI SOLNEMU (slowo pana 08-20): ksiega jego, Hal sprawdza, wynik liczy Tam (karta 07-11). Wlasni - bez rzutu.",
+   "kto": "LUCAN -> HAL -> EDRIC SOLNY ; TAM",
+   "kanal": "kruk Domu ZM-BP",
+   "wraca": "300-09-01",
+   "zamyka": "Edric prowadzi ksiege lancucha; Hal tylko sprawdza",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "DOM - DRUGI CZLOWIEK W KAZDEJ PLACOWCE (slowo pana 08-20, rada Lucana): BP, Seagard, Riverrun, Ashford, Pentos, Braavos, faktorie ZM/WF/Cailin - kto zastepuje, gdy pierwszy wyjedzie/umrze; lista imion od Hala. Wlasni - bez rzutu na liste; nowi ludzie (jesli brak) - RZUT przy naborze.",
+   "kto": "HAL + LUCAN",
+   "kanal": "kruk Domu",
+   "wraca": "300-09-20",
+   "zamyka": "lista: placowka - pierwszy - drugi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

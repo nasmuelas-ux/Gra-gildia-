@@ -653,6 +653,10 @@ def skarbce(r, m, d):
         w = licz("miesiac", rr, mm)["KASA 2 - LENNO FOSY CAILIN"]
         zl = sum(x[1] for x in w["wiersze"]); zh = sum(x[2] for x in w["wiersze"])
         czesc = 1.0 if (rr, mm) != (r, m) else d / float(DNI_W_MIESIACU)
+        RZ2 = B.get("realizacja_wyniku", {})
+        klucz2 = "%d-%02d" % (rr, mm) if czesc == 1.0 else "%d-%02d-do-%d" % (rr, mm, d)
+        if klucz2 in RZ2:
+            zl = zh = float(RZ2[klucz2]) / czesc
         el, eh = _zdarz_mies(E, "KASA 2 - LENNO FOSY CAILIN", rr, mm, d if (rr, mm) == (r, m) else None)
         print("  %-56s %s" % ("+ %d-%02d wynik%s%s" % (rr, mm, "" if czesc == 1.0 else " (do %d.)" % d,
               "" if not (el or eh) else " i zdarzenia %s" % fmt(el, eh).strip()), fmt(zl * czesc + el, zh * czesc + eh)))

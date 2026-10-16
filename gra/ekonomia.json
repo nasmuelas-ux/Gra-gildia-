@@ -1450,7 +1450,22 @@
   "na_dzien": "299-08-30",
   "min": 0,
   "max": 0,
-  "poza_suma": "WYDATKI BUDOW LENNA 'z biezacego' 06-07 (grobla, trakt, spichlerze wiejskie, kwatery, nabor murarzy, dniowki) - kwot brak w zapisie (zasada 43); jesli Warryn przyniesie kwity, wchodza jako zdarzenia."
+  "poza_suma": "WYDATKI BUDOW LENNA 'z biezacego' 06-07 (grobla, trakt, spichlerze wiejskie, kwatery, nabor murarzy, dniowki) - kwot brak w zapisie (zasada 43); jesli Warryn przyniesie kwity, wchodza jako zdarzenia.",
+  "realizacja_wyniku": {
+   "299-09": 136.39,
+   "299-10": 80.13,
+   "299-11": 124.43,
+   "299-12": 129.58,
+   "300-01": 104.07,
+   "300-02": 90.61,
+   "300-03": 70.97,
+   "300-04": 151.79,
+   "300-05": 240.96,
+   "300-06": 343.87,
+   "300-07": 464.89,
+   "300-08-do-19": 239.93,
+   "_opis": "KONKRETNE WYNIKI OPERACYJNE KASY 2 (slowo gracza 300-08-19: 'ustal tez konkretny stan lenna'). Rzut ustala polozenie w pasmie (zasada 43). Moc zapisu."
+  }
  },
  "_skarbiec_korony": {
   "_opis": "SKRZYNIA SKARBU KORONY (Kasa 3) - USTALONA PRZY LICZENIU 300-07-14 (Gawen + Beron swiadek). Od tej liczby sie liczy dalej (zasada 43: liczba raz ustalona jest ustalona).",

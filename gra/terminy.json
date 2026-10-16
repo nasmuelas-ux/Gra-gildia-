@@ -9190,9 +9190,9 @@
    "co": "NESTA - UBEZPIECZYCIELE W BRAAVOS (rada Lucana, zgoda pana 07-11): nie CO wiedza o zelaznych, tylko OD KIEDY wylaczyli zachodnie wybrzeze (Dustinport, Kamienny Brzeg) z polisy i KTO PIERWSZY o to prosil / komu odmowili. Bez imienia Korony. Odpowiedz - RZUT przy meldunku.",
    "kto": "SYMON -> NESTA (kantor Braavos)",
    "kanal": "kruk Winterfell-Bialy Port + statek do Braavos (~3 tyg.) i z powrotem",
-   "wraca": "300-08-28",
+   "wraca": "300-09-05",
    "zamyka": "meldunek Nesty: data i kto",
-   "status": "otwarte"
+   "status": "otwarte ### 08-28: NIE PRZYSZLO I WIADOMO DLACZEGO - odpowiedz statkiem z Braavos (Hal: ~09-05)."
   },
   {
    "data": "300-07-11",
@@ -9426,7 +9426,7 @@
    "kanal": "kruk Winterfell-BP + statek",
    "wraca": "300-08-28",
    "zamyka": "oferta z Pentos na pismie",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-28 ### wchloniete przez zakup w Illyrii (slowo pana 08-25); oferta Obara, jesli przyplynie - do Gawena jako porownanie. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-07-12",
@@ -12369,7 +12369,7 @@
    "kanal": "kruk WF-Riverrun (~5 dni) i z powrotem",
    "wraca": "300-08-28",
    "zamyka": "ile domow dalo zastaw / zboze / odpadlo (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-28 ### Lyman (rzut 13 ZLE): z ~8 pozostalych 1 zastaw, 1 zboze, 6 odpada ('nie teraz' - lordowie pod Maidenpool); odbudowa 8 domow. Do slowa pana. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-14",
@@ -12612,7 +12612,7 @@
    "kanal": "kruk WF-Deepwood + jezdziec Robetta",
    "wraca": "300-08-28",
    "zamyka": "pierwsza wyplata matkom zrobiona i plan ogloszony (wlasni - bez rzutu); czy pogloska slabnie - RZUT przy nastepnym naborze",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-28 ### wyplata 11 matkom 08-25, worek ziarna 3 wsie, plan odwrotu ogloszony (wlasni). Pogloska - rzut przy nastepnym naborze. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-18",
@@ -12990,7 +12990,7 @@
    "kanal": "kruk WF-BP (Theomore) + droga mierniczego Przystan-Deepwood",
    "wraca": "300-08-28",
    "zamyka": "imie mierniczego od Theomore'a + data wyjazdu do Deepwood",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-28 ### Theomore: ALYN PION (E), z BP ~08-30, Deepwood ~09-15; zold 2 j./dzien + kon (Kasa 3). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-24",
@@ -13017,7 +13017,7 @@
    "kanal": "kruk WF-Nowy Zamek; kruk WF-Fosa",
    "wraca": "300-08-28",
    "zamyka": "stawki oplaty przystaniowej na pismie + slup stoi",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-28 ### oplata przystaniowa: barka 2/dobe, lodz 1/dobe, rozladunek 1/woz, sklad 1/woz/tydz (E); pol na pol; Hamund + Pate Kotwica; slup w Ujsciu 08-27, przy Goraczce 08-28. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-24",
@@ -13035,7 +13035,7 @@
    "kanal": "kruk Domu ZM-BP",
    "wraca": "300-08-28",
    "zamyka": "odpowiedz stoczni: tak/termin/cena",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-28 ### stocznia (rzut 79): pochylnia od III/301 po Krze, ~1100, zadatek przy stepce. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-24",
@@ -13323,6 +13323,33 @@
    "kanal": "kruk Domu",
    "wraca": "300-09-10",
    "zamyka": "odpowiedz Willi (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-28",
+   "co": "CYPEL - POMIAR GRANICY NADANIA: ALYN PION (Glebokorzen) + HOLT SOSNA, Torgen rozjemca; dwa odpisy (Korona, Glover). Spor z Gloverem - RZUT, jesli powstanie.",
+   "kto": "ALYN PION ; HOLT SOSNA ; TORGEN",
+   "kanal": "droga BP-Deepwood; kruk Deepwood-WF",
+   "wraca": "300-09-15",
+   "zamyka": "mierniczy w Deepwood; poczatek pomiaru",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-28",
+   "co": "KADLUB DOMU WIOSNA 301 (Wol III) - stocznia Wymana, pochylnia od III/301 po wodowaniu Kry; ~1100 smokow (Kasa 1), zadatek przy stepce.",
+   "kto": "HAL ; stocznia WYMANA",
+   "kanal": "kruk Domu ZM-BP",
+   "wraca": "301-03-01",
+   "zamyka": "stepka polozona, zadatek",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-28",
+   "co": "LYMAN - DRUGIE PYTANIE O ZASTAW po zniwach i po Maidenpool (rada Lymana 08-28). Do slowa pana, czy czekac.",
+   "kto": "LYMAN (Kompania)",
+   "kanal": "kruk WF-Riverrun",
+   "wraca": "300-10-01",
+   "zamyka": "drugi odzew lordow (rzut)",
    "status": "otwarte"
   }
  ],

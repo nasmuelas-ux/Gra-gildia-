@@ -13234,6 +13234,24 @@
    "wraca": "300-09-07",
    "zamyka": "odpowiedz Edmure'a: czy i jak zamknal wode (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "DREWNIANY WILK DLA EDDARDA (prosba Krolowej 08-27, slowo pana 'postaram sie'): rzezbiarz w Zimowym Miescie (E: BENN STRUGA, zabawki i lyzki), jak wilk Lyry. Cena E: 3 jelenie z sakiewki pana przy odbiorze. Wlasny zakup - bez rzutu.",
+   "kto": "SYMON (przez Berona) -> rzezbiarz ZM",
+   "kanal": "poslaniec do ZM",
+   "wraca": "300-09-01",
+   "zamyka": "wilk w rekach Krolowej",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-27",
+   "co": "STALA (slowo pana 08-27): KAZDY LIST KROLA - KROLOWA ROSLIN DOSTAJE JEDNO ZDANIE TEGO SAMEGO DNIA (zyje, gdzie jest), od Luwina/Berona przy sortowaniu. Nie termin - zwyczaj.",
+   "kto": "LUWIN ; BERON",
+   "kanal": "na miejscu",
+   "wraca": "",
+   "zamyka": "stala",
+   "status": "otwarte - stala"
   }
  ],
  "_dopiski_300_03_18": [

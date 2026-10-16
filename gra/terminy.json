@@ -12648,7 +12648,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-22",
    "zamyka": "lekcja 10 odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-22 ### lekcja HV 10 odbyta (rzut 50, sukces z kosztem): 6/10 ze sluchu; pierwsze 4 stracone (glos Luwina), od piatego lapie."
   },
   {
    "co": "MAIDENPOOL PO LISCIE EDMURE'A (rzut 3, 08-20): nabrzeze trzyma Lew, ludzi Mootona odsunieto. Odpowiedz Korony / lady Catelyn / Bryndena - DO SLOWA PANA.",
@@ -12954,6 +12954,15 @@
    "kanal": "kruk WF-Fosa (szyfr) + jezdziec Fosa-Dustinport i z powrotem",
    "wraca": "300-09-03",
    "zamyka": "odczyt Theona na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-22",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 08-26 (po lekcji 10, rzut 50): piec nowych zdan ze STARSZEGO odpisu (bez znakow dlugosci) - pan czyta sam na glos i zaznacza S/N z rytmu; we wtorek Luwin czyta je swoim glosem - porownanie. Wlasna nauka.",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-08-26",
+   "zamyka": "lekcja 11 odbyta",
    "status": "otwarte"
   }
  ],

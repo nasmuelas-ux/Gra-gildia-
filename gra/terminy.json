@@ -12171,7 +12171,7 @@
    "kanal": "osobiscie",
    "wraca": "300-08-24",
    "zamyka": "sklad eskorty ustalony, wyjazd",
-   "status": "otwarte ### 08-21 SLOWO PANA (propozycja Stena): ODDZIAL II CALY (Dagon + 10) z lady Mira; oddzial I przy panu - Sten + 8, DWOCH na stale przy komnatach Tallych (Lyra, Rhona), dzien i noc na zmiane; wyjazd 08-24 o swicie, trakt 6 dni (Fosa ~08-30), woz z kufrem szkoly + 2 konie luzem; list do Garricka (okrety) w sakwie lady Miry; oddzial II zostaje przy niej na Fosie i wraca z nia."
+   "status": "zamkniete 300-08-24 ### WYJAZD O SWICIE 08-24: Mira z Dagonem i oddzialem II (10), woz z kufrem szkoly, 2 konie luzem; list do Garricka (dwa okrety) w jej sakwie; Fosa ~08-30. Lyra zostaje w WF z Rhona; dwoch z oddzialu I przy komnatach."
   },
   {
    "data": "300-08-10",
@@ -12990,6 +12990,15 @@
    "kanal": "kruk WF-BP (Theomore) + droga mierniczego Przystan-Deepwood",
    "wraca": "300-08-28",
    "zamyka": "imie mierniczego od Theomore'a + data wyjazdu do Deepwood",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-24",
+   "co": "MIRA NA FOSIE - DOJAZD (wyjazd 08-24 o swicie; trakt 6 dni) + list do Garricka (dwa okrety) do rak. Wlasni - bez rzutu; droga - pogoda.",
+   "kto": "MIRA + DAGON (oddzial II)",
+   "kanal": "trakt WF-Fosa; wiesc krukiem Fosa-WF",
+   "wraca": "300-09-01",
+   "zamyka": "kruk z Fosy: Mira na miejscu, list u Garricka",
    "status": "otwarte"
   }
  ],

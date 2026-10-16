@@ -12459,7 +12459,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-19",
    "zamyka": "zadanie oddane na lekcji 9",
-   "status": "otwarte ### 08-16 ZROBIONE (rzut 47): tabela dobra; S/N - 9 z 11 pewnie, 2 ze znakiem zapytania. Do oddania we wtorek."
+   "status": "zamkniete 300-08-19 ### oddane na lekcji 9: 9/11 dobrze; dwa '?' - Luwin: w odpisie znak dlugosci zatarty (jeden S, jeden N)."
   },
   {
    "data": "300-08-16",
@@ -12639,6 +12639,15 @@
    "kanal": "kruk WF-Fosa + jezdziec Fosa-Dustinport",
    "wraca": "300-08-27",
    "zamyka": "odpowiedzi jenca na dwa pytania (RZUT przy meldunku Theona); odeslanie ~X",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-19",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 08-22 (po lekcji 9, rzut 6): SLUCH, NIE OKO - Luwin czyta na glos dziesiec zdan z prawa morskiego, pan zapisuje S/N tylko ze sluchu; do cwiczenia: dlugie samogloski w parach slow (Luwin dal liste 12 par).",
+   "kto": "SYMON (nauka wlasna) -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-08-22",
+   "zamyka": "lekcja 10 odbyta",
    "status": "otwarte"
   }
  ],

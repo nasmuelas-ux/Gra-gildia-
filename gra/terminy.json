@@ -12814,7 +12814,7 @@
   },
   {
    "data": "300-08-20",
-   "co": "DOM - KARTA PLATNOSCI NA 60 DNI (slowo pana 08-20, rada Lucana): Hal raz w miesiacu, jedna kartka - wplywy i wyplywy dwoch nastepnych miesiecy (raty Wolow, rezerwy izby, wyplaty wspolnikow, zadatki, splaty pozyczek). Pierwsza z bilansem VIII. Wlasni - bez rzutu.",
+   "co": "DOM - KARTA PLATNOSCI NA 60 DNI (slowo pana 08-20, rada Lucana): Hal raz w miesiacu, jedna kartka - wplywy i wyplywy dwoch nastepnych miesiecy (raty Wolow, rezerwy izby, wyplaty wspolnikow, zadatki, splaty pozyczek). Pierwsza z bilansem VIII. Wlasni - bez rzutu. ### 08-20 DOPISANE (slowo pana): w karcie ROTACJA - ile dni towar lezy w skladzie, dla kazdej placowki.",
    "kto": "HAL (+ TAM)",
    "kanal": "kruk Domu ZM-BP / z bilansem Hala",
    "wraca": "300-09-05",
@@ -12846,6 +12846,24 @@
    "kanal": "kruk Domu",
    "wraca": "300-09-20",
    "zamyka": "lista: placowka - pierwszy - drugi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "DOM - ZADATEK NA ZAMOWIENIA FUTRA I BURSZTYNU (slowo pana 08-20, rada Lucana): jak przy beczce zimowej i kalendarzu - 1/4 z gory; Hal (futro) + Marr (bursztyn). Odzew kupcow - RZUT przy rozliczeniu.",
+   "kto": "HAL + MARR",
+   "kanal": "kruk Domu ZM-BP",
+   "wraca": "300-09-20",
+   "zamyka": "zasada zadatku ogloszona w placowkach; pierwsze zamowienia",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "DOM - WIECEJ Z ISTNIEJACYCH: PLAN WZROSTU OBROTU BP I RIVERRUN (slowo pana 08-20, rada Lucana): co blokuje szybszy obrot (sklad, transport, kredyt kupcow); bez nowych placowek. Wlasni - bez rzutu na plan; rynek - rzut przy wyniku.",
+   "kto": "HAL + LYMAN OD BRODOW",
+   "kanal": "kruk Domu ZM-BP; kruk WF-Riverrun",
+   "wraca": "300-09-05",
+   "zamyka": "plan na pismie z bilansem VIII",
    "status": "otwarte"
   }
  ],

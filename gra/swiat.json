@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 23,
+  "dzien": 24,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 20 (300-08-23): ZLE - zimny wiatr ze wschodu, deszcz od switu do poludnia; kruki lataja niechetnie - poczta z poludnia moze przyjsc dopiero po poludniu.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 43 (300-08-24): PRZECIETNIE - pochmurno i sucho, wschodni wiatr slabnie, drogi podsychaja; kruki lataja.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

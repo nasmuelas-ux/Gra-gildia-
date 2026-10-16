@@ -599,6 +599,15 @@
      "od": "300-09-01",
      "do": "300-11-30",
      "zrodlo": "karta podliczenia lenna 300-08-17 - E"
+    },
+    {
+     "nazwa": "JASTRZEBIE DO 100 - zold i wikt +70 ludzi",
+     "typ": "koszt",
+     "stawka": 33,
+     "okres": "miesiac",
+     "od": "300-09-01",
+     "do": null,
+     "zrodlo": "slowo pana 300-08-19: 'placimy wszystko od razu oprocz koszar murowanych' (karta wycen)"
     }
    ],
    "nieznane": [
@@ -1023,24 +1032,24 @@
    "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
   },
   {
-   "data": "300-09-01",
+   "data": "300-08-19",
    "kasa": "KASA 2 - LENNO FOSY CAILIN",
    "kwota": -120,
-   "opis": "RUSZENIE LENNA - komplety na 700: reszta przy odbiorze",
+   "opis": "RUSZENIE LENNA - komplety na 700: reszta przy odbiorze - ZAPLACONE OD RAZU (slowo pana 08-19)",
    "zrodlo": "karta podliczenia lenna 300-08-17 (Garrick/Warryn) - pierwszy wpis E, moc zapisu od 08-19"
   },
   {
-   "data": "300-09-01",
+   "data": "300-08-19",
    "kasa": "KASA 2 - LENNO FOSY CAILIN",
    "kwota": -102,
-   "opis": "KOSZARY PRZYBOCZNEJ ZM - ZWROT DOMOWI (zakup 64 + przebudowa 38); budynek przechodzi na lenno (slowo pana 08-14)",
+   "opis": "KOSZARY PRZYBOCZNEJ ZM - ZWROT DOMOWI (zakup 64 + przebudowa 38); budynek przechodzi na lenno (slowo pana 08-14) - ZAPLACONE OD RAZU (slowo pana 08-19)",
    "zrodlo": "karta wycen 300-08-19"
   },
   {
-   "data": "300-09-01",
+   "data": "300-08-19",
    "kasa": "KASA 1 - DOM HANDLOWY TALLY",
    "kwota": 102,
-   "opis": "KOSZARY PRZYBOCZNEJ ZM - ZWROT OD LENNA (64 + 38)",
+   "opis": "KOSZARY PRZYBOCZNEJ ZM - ZWROT OD LENNA (64 + 38) - ZAPLACONE OD RAZU (slowo pana 08-19)",
    "zrodlo": "karta wycen 300-08-19"
   },
   {
@@ -1056,6 +1065,27 @@
    "kwota": -673.41,
    "opis": "WYPLATA WSPOLNIKOM - WYROWNANIE VIII (Symon 224,47, Nesta 224,47, Hal 112,24, Mira 112,24)",
    "zrodlo": "meldunek Hala 08-11; dopisane 300-08-19 przy kumulacji skarbcow"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -120,
+   "opis": "MCHOWE JASTRZEBIE DO 100 - kusze i lodzie (jednorazowo)",
+   "zrodlo": "slowo pana 300-08-19: 'placimy wszystko od razu oprocz koszar murowanych' (karta wycen)"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -180,
+   "opis": "DOMY DLA PRACUJACYCH - LENNO: 20 izb",
+   "zrodlo": "slowo pana 300-08-19: 'placimy wszystko od razu oprocz koszar murowanych' (karta wycen)"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -240,
+   "opis": "WIELKA KUZNIA Z ODLEWNIA - WKLAD LENNA",
+   "zrodlo": "slowo pana 300-08-19: 'placimy wszystko od razu oprocz koszar murowanych' (karta wycen)"
   }
  ],
  "_symulacje": {

@@ -1053,7 +1053,7 @@
    "zrodlo": "karta wycen 300-08-19"
   },
   {
-   "data": "300-07-14",
+   "data": "300-07-12",
    "kasa": "KASA 1 - DOM HANDLOWY TALLY",
    "kwota": -500,
    "opis": "WYPLATA WSPOLNIKOM - DYWIDENDA VII (Symon 1/3 = 166,67; Nesta 1/3; Hal 1/6; Mira 1/6 = 83,33; razem 500)",
@@ -1121,6 +1121,34 @@
    "kwota": -28,
    "opis": "INTERNAT SZKOLY FOSY",
    "zrodlo": "slowo pana 300-08-19: 'Dom tez placi wszystko od razu, ale jako pozyczki' (karta wycen); klasyfikacja pozyczek - do potwierdzenia"
+  },
+  {
+   "data": "300-07-12",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -200,
+   "opis": "PREMIA FILII VII (bilans Hala VII pkt 1)",
+   "zrodlo": "bilans_hala_300_07.md"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -1150,
+   "opis": "POZYCZKA DOMU DLA LENNA - koszary murowane dla 200 (wyplata od razu)",
+   "zrodlo": "slowo pana 300-08-19"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": 1150,
+   "opis": "POZYCZKA OD DOMU - na koszary murowane (wplyw)",
+   "zrodlo": "slowo pana 300-08-19"
+  },
+  {
+   "data": "300-08-19",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -1150,
+   "opis": "KOSZARY MUROWANE DLA 200 - wydatek z pozyczki Domu",
+   "zrodlo": "slowo pana 300-08-19"
   }
  ],
  "_symulacje": {
@@ -1259,7 +1287,15 @@
   ],
   "bufor": 1000,
   "wolna_min": 0,
-  "wolna_max": 945
+  "wolna_max": 945,
+  "realizacja_wolnej": {
+   "_opis": "KONKRETNE WARTOSCI wolnej gotowki Domu (slowo gracza 300-08-19: 'daj konkretny stan'). Rzut ustala polozenie w pasmie (zasada 43); VII z bilansu Hala. Moc zapisu.",
+   "300-04": 274.05,
+   "300-05": 1651.33,
+   "300-06": 1963.76,
+   "300-07": 956.14,
+   "300-08-do-19": 742.78
+  }
  },
  "_scalenie_kas_300_03_18": "300-03-18: ZNIESIONY PODZIAL NA KASE 1 (Dom Handlowy Tally) I KASE 2 (lenno Fosy Cailin). Jedna sakwa pana. KASA 3 (Skarb Polnocy) NIETKNIETA - to fisk krolewski, nie jego kieszen. Etykiety 'KASA 1' i 'KASA 2' zostaja w starszych zdarzeniach jako LINIE w jednej sakwie (zasada 4: zapisu sie nie wykresla). ⚠ RUBRYKA, KTORA MUSI PRZEZYC SCALENIE: NESTA ma w Domu draw 6 jel/mies ORAZ 1/3 netto z transakcji, ktore Symon sam zrodzil lub prowadzi, oraz podniesione udzialy core (297-02-04). Jej czesc jest ulamkiem NETTA DOMU - wiec netto Domu musi zostac policzalna linia w jednej sakwie, inaczej nie ma z czego liczyc jej trzeciej czesci. Scalenie kas nie przenosi wlasnosci.",
  "_void_300_03_30": "VOID: 'zold koronnego garnizonu w Cailin' (obciazenie z 300-03-11) - w Cailin NIGDY nie stanal zaden koronny czlowiek, nie bylo liczby ani dowodcy. Lenno nie zaplacilo z tego ani jelenia. Na Fosie stoi WLASNA druzyna domu (~50, Hendry) + Mchowe Jastrzebie (20) - to jest 'garnizon Fosy' 22/mies i nic wiecej.",
@@ -1583,5 +1619,28 @@
    "ponad_bufor_moneta": 929.55,
    "proporcja_hala": "40% wolnej do wyplaty / 60% obrot - do konca rozruchu (Woly, izba, lancuch zimowy, Ashford)"
   }
- }
+ },
+ "_pozyczki_domu": [
+  {
+   "data": "300-08-19",
+   "komu": "miasto Cailin (kasa miejska)",
+   "kwota": 1800,
+   "na_co": "pierwszy rzad kamienic (6)",
+   "warunki": "0,5% rocznie, splata 12 lat z czynszow; umowa na pismie, pieczec miasta i Domu, na slup"
+  },
+  {
+   "data": "300-08-19",
+   "komu": "miasto Cailin (kasa miejska)",
+   "kwota": 940,
+   "na_co": "R-2 miedz i rury - magistrala parowa, etap I",
+   "warunki": "jak wyzej - 0,5% rocznie, 12 lat z czynszow/oplat magistrali"
+  },
+  {
+   "data": "300-08-19",
+   "komu": "lenno Fosy (Kasa 2)",
+   "kwota": 1150,
+   "na_co": "koszary murowane dla 200 przy twierdzy",
+   "warunki": "splata z wplywow lenna - stawka i termin: Hal + Warryn (do ustalenia na pismie)"
+  }
+ ]
 }

@@ -612,6 +612,9 @@ def skarbce(r, m, d):
     print("=" * 78)
     print("  %-56s %12.2f" % ("BUFOR HALA (stoi pelny, nie do wydawania)", S.get("bufor", 0)))
     lo, hi = float(S.get("wolna_min", 0)), float(S.get("wolna_max", 0))
+    RZ0 = S.get("realizacja_wolnej", {}).get("%d-%02d" % (v[0], v[1]))
+    if RZ0 is not None:
+        lo = hi = float(RZ0)
     print("  %-56s %s" % ("wolna gotowka na %s" % S["na_dzien"], fmt(lo, hi)))
     rr, mm = v[0], v[1] + 1
     if mm > MIES_W_ROKU:
@@ -621,6 +624,10 @@ def skarbce(r, m, d):
         zl = sum(x[1] for x in w["wiersze"]); zh = sum(x[2] for x in w["wiersze"])
         czesc = 1.0 if (rr, mm) != (r, m) else d / float(DNI_W_MIESIACU)
         dl, dh = zl * (1 - r1) * czesc, zh * (1 - r0) * czesc
+        RZ = S.get("realizacja_wolnej", {})
+        klucz = "%d-%02d" % (rr, mm) if czesc == 1.0 else "%d-%02d-do-%d" % (rr, mm, d)
+        if klucz in RZ:
+            dl = dh = float(RZ[klucz])
         el, eh = _zdarz_mies(E, "KASA 1 - DOM HANDLOWY TALLY", rr, mm, d if (rr, mm) == (r, m) else None)
         print("  %-56s %s" % ("+ %d-%02d wolna gotowka%s" % (rr, mm, "" if czesc == 1.0 else " (do %d.)" % d), fmt(dl, dh)))
         if el or eh:

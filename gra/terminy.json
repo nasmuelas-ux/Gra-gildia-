@@ -13230,8 +13230,8 @@
    "data": "300-08-27",
    "co": "MAIDENPOOL - LIST BRYNDENA (slowo pana 08-27): zamknac wode lodziami - (1) zatopione lodzie z kamieniem/ziemia/gruzem w najwezszym torze; (2) zapora palowa pod powierzchnia wokol wejscia do basenu; (3) brandery z wiatrem od zatoki. Uwagi Bryndena: kafar w deszcz/przy wietrze od morza pod tarczami; wraki zamkna port i nam (koszt Mootona); ogien nigdy na miasto. Kanal: kruk szyfrem Domu do placowki Riverrun (Lyman) -> Lyman odczytuje od reki (klucz Domu na miejscu - VOID 08-27) -> poslaniec do obozu. Edmure ma list ~09-04. Odpowiedz - RZUT.",
    "kto": "BRYNDEN -> EDMURE (przez Lymana, Riverrun)",
-   "kanal": "kruk WF-Riverrun szyfrem Domu + poslaniec Riverrun-Maidenpool i z powrotem",
-   "wraca": "300-09-10",
+   "kanal": "kruk WF-Riverrun szyfrem Domu + poslaniec Riverrun-oboz; ODPOWIEDZ krukiem z obozu/Maidenpool wprost do WF (slowo pana 08-27; jawnie - Edmure bez klucza)",
+   "wraca": "300-09-07",
    "zamyka": "odpowiedz Edmure'a: czy i jak zamknal wode (rzut)",
    "status": "otwarte"
   }

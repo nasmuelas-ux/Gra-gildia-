@@ -45,3 +45,12 @@ Każda odpowiada **jednym zdaniem.** Pan nie mówi, która odpowiedź jest dobra
 
 ## Zadanie na lekcję 13
 Każda pisze **trzy zdania po braavosku: czy na Północy jest miejsce dla ludzi, którzy nikogo nie słuchają, a jeśli tak, to gdzie.**
+
+---
+
+## Zamiar pana (słowo pana 08-27)
+**Temat celowo nawiązuje do Aryi**, po jej prośbie o kolumnę i odmowie matki z 08-26. Lekcja ma być lustrem, a nie kazaniem:
+- szermierz, który nikogo nie słucha, jest wolny, ale to on staje na moście z każdym;
+- najlepszy z nich, **Syrio**, wybrał służbę.
+
+Pan tego nie mówi wprost. Odpowiedź na „kogo słucha szermierz” każda daje sama.

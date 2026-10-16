@@ -12766,6 +12766,15 @@
    "wraca": "300-08-26",
    "zamyka": "Hamund w Ujsciu, ksiega zalozona",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "ROZKAZ PANA DO GARRICKA (wiezie MIRA reka, wyjazd ~08-24, Fosa ~08-30): LENNO POWOLUJE DWA OKRETY WOJENNE i zwraca sie w tej sprawie do DUSTINPORTU (Torren, Donnel). Z ZAPISU: Dustinport to KORONA (Kasa 3) - umowe Korona-lenno podpisuje SKARBNIK GAWEN, nie pan (zasada Luwina 07-28); pochylnia rzeczna - tylko kadlub plytki (langskip/KRA), nie WILK/MUR bez nabrzeza; szkutnicy z Braavos ~IX; drewno sezonowane 3 lata (norma). Garrick + Warryn: kosztorys i rubryka Kasy 2; Torren: czy pochylnia moze, kiedy, zalogi. Wlasni - bez rzutu na odpowiedz; zalogi (wolni ludzie) - RZUT przy naborze.",
+   "kto": "MIRA (reka) -> GARRICK + WARRYN -> TORREN/DONNEL; GAWEN (umowa Korony)",
+   "kanal": "trakt WF-Fosa (6 dni) + jezdziec Fosa-Dustinport (4) i z powrotem + kruk Fosa-WF",
+   "wraca": "300-09-09",
+   "zamyka": "odpowiedz Torrena + kosztorys Garricka/Warryna na stole pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

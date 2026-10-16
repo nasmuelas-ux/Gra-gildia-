@@ -12315,7 +12315,7 @@
    "kanal": "kruk WF-Fosa (swit 08-14); odpowiedz w zbiorczym",
    "wraca": "300-08-21",
    "zamyka": "lista wsi i rak na rozladunek (rzut)",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): RZUT 20 (prog 55) PORAZKA: 4 wsie z 9, ~30 rak zamiast ~80 (E); mlocka i torf; STAWKA ROZLADUNKU NIZSZA NIZ DNIOWKA BUDOW LENNA. Rada niezgodna: (a) Warryn - podniesc stawke na 3-4 tyg.; (b) Hendry - przerzucic dniowkowych z budow; (c) Garrick - najem z Cailin. DO SLOWA PANA."
+   "status": "zamkniete 300-08-20 ### 08-20 SLOWO PANA: (a) - STAWKA ROZLADUNKU PODNIESIONA DO DNIOWKI BUDOW (20 miedziakow zamiast 15) na IX-X; Kasa 2: 6->8/mies (E). Ile rak przyjdzie po nowej stawce - RZUT w zbiorczym (pozycja nowa). ### POPRZEDNIO: otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): RZUT 20 (prog 55) PORAZKA: 4 wsie z 9, ~30 rak zamiast ~80 (E); mlocka i torf; STAWKA ROZLADUNKU NIZSZA NIZ DNIOWKA BUDOW LENNA. Rada niezgodna: (a) Warryn - podniesc stawke na 3-4 tyg.; (b) Hendry - przerzucic dniowkowych z budow; (c) Garrick - najem z Cailin. DO SLOWA PANA."
   },
   {
    "data": "300-08-13",
@@ -12378,7 +12378,7 @@
    "kanal": "kruk WF-Fosa (08-14 po poludniu); odpowiedz w zbiorczym",
    "wraca": "300-08-21",
    "zamyka": "kto stawia pomost + koszt polowy + imie zarzadcy Ujscia",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): POMOST: rysuje WEYLIN, stawiaja ciesle Wymana + ludzie lenna (nie z muru GP), drewno lenna; kosztorys Warryna (E): calosc 140, polowa lenna 70; termin ~X. ZARZADCA UJSCIA: Garrick wskazuje HAMUNDA WEZLA (E; rejestr Melli; pisarz ladunkow barek z Dorzecza; CZYTA/PISZE/LICZY). DO SLOWA PANA."
+   "status": "zamkniete 300-08-20 ### 08-20 SLOWO PANA: POMOST - jak w raporcie (Weylin, ciesle Wymana + lenno; polowa lenna 70, Kasa 2, w miare budowy IX). ZARZADCA UJSCIA - HAMUND WEZEL (obsada.json). ### POPRZEDNIO: otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): POMOST: rysuje WEYLIN, stawiaja ciesle Wymana + ludzie lenna (nie z muru GP), drewno lenna; kosztorys Warryna (E): calosc 140, polowa lenna 70; termin ~X. ZARZADCA UJSCIA: Garrick wskazuje HAMUNDA WEZLA (E; rejestr Melli; pisarz ladunkow barek z Dorzecza; CZYTA/PISZE/LICZY). DO SLOWA PANA."
   },
   {
    "data": "300-08-14",
@@ -12396,7 +12396,7 @@
    "kanal": "kruk WF-Fosa; szkic w zbiorczym",
    "wraca": "300-08-21",
    "zamyka": "szkic taryfy na stole pana",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): SZKIC TARYFY (Warryn, E): woz zwykly 16 jeleni, drogi 32, pusty 2, juczny 4, bydlo 2, pieszy wolno; koga ~80-100 wozow = ~9-12 smokow myta (Stopnie 20-35). DO SLOWA PANA, potem Wyman przed slupem."
+   "status": "zamkniete 300-08-20 ### 08-20 SLOWO PANA: TARYFA ZATWIERDZONA (woz 16/32 jeleni, pusty 2, juczny 4, bydlo 2, pieszy wolno; Dom jak kazdy). Do Wymana przed slupem - pozycja nowa. ### POPRZEDNIO: otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): SZKIC TARYFY (Warryn, E): woz zwykly 16 jeleni, drogi 32, pusty 2, juczny 4, bydlo 2, pieszy wolno; koga ~80-100 wozow = ~9-12 smokow myta (Stopnie 20-35). DO SLOWA PANA, potem Wyman przed slupem."
   },
   {
    "data": "300-08-14",
@@ -12405,7 +12405,7 @@
    "kanal": "kruk WF-Fosa; odpowiedz w zbiorczym/liscie Herwina",
    "wraca": "300-08-21",
    "zamyka": "lista towarow skladu + plan zajazdu/nabrzeza/wagi do slowa pana",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): LISTA LAWY: jeden dzien wystawienia - wino w beczkach, sukno w belach, sol, zelazo w sztabach; reszta bez postoju; plan zajazdu przy rogatce, nabrzeza i wagi - kosztorys Herwina po slowie pana. DO SLOWA PANA."
+   "status": "zamkniete 300-08-20 ### 08-20 SLOWO PANA: LISTA SKLADU ZATWIERDZONA (wino w beczkach, sukno w belach, sol, zelazo w sztabach - jeden dzien). Herwin: ogloszenie + kosztorys zajazdu/nabrzeza/wagi - pozycja nowa. ### POPRZEDNIO: otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): LISTA LAWY: jeden dzien wystawienia - wino w beczkach, sukno w belach, sol, zelazo w sztabach; reszta bez postoju; plan zajazdu przy rogatce, nabrzeza i wagi - kosztorys Herwina po slowie pana. DO SLOWA PANA."
   },
   {
    "data": "300-08-14",
@@ -12729,6 +12729,42 @@
    "kanal": "na miejscu; zbiorczy Garricka",
    "wraca": "300-09-15",
    "zamyka": "tyczki stoja na calej granicy wody",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "ROZLADUNEK GP - NOWA STAWKA NA SLUPIE WSI (20 m., IX-X): ile rak przyjdzie. Wolni ludzie - RZUT przy meldunku.",
+   "kto": "GARRICK + WARRYN + HENDRY",
+   "kanal": "kruk WF-Fosa (08-20 po poludniu); zbiorczy 08-24",
+   "wraca": "300-08-26",
+   "zamyka": "lista wsi i rak",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "TARYFA PRZEWLOKI DO WYMANA PRZED SLUPEM (list pana 08-20, pieczec lorda Fosy). Wola Wymana - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "kruk WF-Nowy Zamek i z powrotem",
+   "wraca": "300-08-24",
+   "zamyka": "odpowiedz Wymana; potem slup w Ujsciu i przy Goraczce",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "PRAWO SKLADU CAILIN - OGLOSZENIE NA SLUPIE + KOSZTORYS ZAJAZDU, NABRZEZA I WAGI (lista zatwierdzona 08-20). Lawa - plan wlasny (rzut 91, 08-02) - bez nowego rzutu.",
+   "kto": "HERWIN + LAWA + GARRICK",
+   "kanal": "kruk WF-Fosa; list Herwina",
+   "wraca": "300-08-30",
+   "zamyka": "ogloszenie wisi; kosztorys na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "HAMUND WEZEL - OBJECIE ZARZADU PRZYSTANI UJSCIA (nadanie 08-20): ksiega ladunkow, kwit myta do Warryna. Wlasni.",
+   "kto": "GARRICK -> HAMUND",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-08-26",
+   "zamyka": "Hamund w Ujsciu, ksiega zalozona",
    "status": "otwarte"
   }
  ],

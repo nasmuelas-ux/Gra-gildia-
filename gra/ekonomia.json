@@ -597,8 +597,8 @@
      "stawka": 6,
      "okres": "miesiac",
      "od": "300-09-01",
-     "do": "300-11-30",
-     "zrodlo": "karta podliczenia lenna 300-08-17 - E"
+     "do": "300-08-31",
+     "zrodlo": "karta podliczenia lenna 300-08-17 - E ### 08-20 slowo pana (a): stawka do dniowki budow - pozycja zastapiona ponizej na IX-X; XI bez zmian."
     },
     {
      "nazwa": "JASTRZEBIE DO 100 - zold i wikt +70 ludzi",
@@ -608,6 +608,24 @@
      "od": "300-09-01",
      "do": null,
      "zrodlo": "slowo pana 300-08-19: 'placimy wszystko od razu oprocz koszar murowanych' (karta wycen)"
+    },
+    {
+     "nazwa": "ROZLADUNEK ZBOZA GP - stawka podniesiona do dniowki budow (20 m. zamiast 15)",
+     "typ": "koszt",
+     "stawka": 8,
+     "okres": "miesiac",
+     "od": "300-09-01",
+     "do": "300-10-31",
+     "zrodlo": "slowo pana 300-08-20 (wariant a Warryna) - E, moc zapisu: 6/mies x 4/3"
+    },
+    {
+     "nazwa": "ROZLADUNEK ZBOZA - wsie lenna (XI, stawka zwykla)",
+     "typ": "koszt",
+     "stawka": 6,
+     "okres": "miesiac",
+     "od": "300-11-01",
+     "do": "300-11-30",
+     "zrodlo": "karta podliczenia lenna 300-08-17 - E"
     }
    ],
    "nieznane": [
@@ -1149,6 +1167,13 @@
    "kwota": -1150,
    "opis": "KOSZARY MUROWANE DLA 200 - wydatek z pozyczki Domu",
    "zrodlo": "slowo pana 300-08-19"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -70,
+   "opis": "POMOST W UJSCIU - polowa lenna (Weylin rysuje, ciesle Wymana + ludzie lenna; drewno lenna), placone w miare budowy IX",
+   "zrodlo": "slowo pana 300-08-14 (pol na pol) + kosztorys Warryna 08-20 (E, moc zapisu)"
   }
  ],
  "_symulacje": {

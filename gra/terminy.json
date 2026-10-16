@@ -11872,9 +11872,9 @@
    "co": "GLEBOKORZEN - 20 PISARZY DO SKRYPTORIUM (slowo pana 08-07): pracownicy NIZSZEGO RZEDU - najemni, na kontrakcie, BEZ lancucha i bez przysiegi (pytanie o rodziny/celibat ich nie dotyczy); nabor prowadzi THEOMORE (zasada 42 - sam dobiera); stawka i koszt - Theomore + ksiega Glebokorzenia, placi KORONA w calosci (Kasa 3 - Gawen; Glebokorzen to projekt Korony w pelni - slowo pana 08-07) (zasada 43). ZASADA 8: (a) Cech Pisarzy BP (Harwin) wyrzuca z cechu tych, co ida pisac na Fose - moze to samo zrobic z Glebokorzeniem; (b) ten sam rynek piszacych co nabor skrybow Fosy (cel 50) i kancelaria lenna; (c) miejsce - skrzydlo wschodnie Przystani bez dachu. Odzew piszacych (wolni ludzie) - RZUT przy odpowiedzi Theomore'a.",
    "kto": "SYMON -> THEOMORE ; GAWEN (Kasa 3)",
    "kanal": "kruk WF-BP (list pana 08-07 po poludniu)",
-   "wraca": "300-08-21",
+   "wraca": "300-08-22",
    "zamyka": "odpowiedz Theomore'a: ilu, skad, stawka, gdzie siedza (rzut na odzew)",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 ODPOWIEDZ THEOMORE'A (rzut 41, PORAZKA): 3 chetnych (2 slabi); HARWIN - cech BP grozi wykresleniem kazdemu, kto pisze dla Korony. Theomore: szukac poza cechem (septy, synowie kupcow, Braavos) albo stawka wyzsza. DO SLOWA PANA. ### 08-16 SLOWO PANA: zapytanie Korony WPROST DO CECHU (pismo: gra/poczta_300_08_16_cech_pisarzy_bp.md) - 'czy Cech zabrania czlonkom kontraktu Korony w Glebokorzeniu?' - odpowiedz na pismie pod pieczecia cechu. Theomore szuka dalej (wlasni)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 ODPOWIEDZ THEOMORE'A (rzut 41, PORAZKA): 3 chetnych (2 slabi); HARWIN - cech BP grozi wykresleniem kazdemu, kto pisze dla Korony. Theomore: szukac poza cechem (septy, synowie kupcow, Braavos) albo stawka wyzsza. DO SLOWA PANA. ### 08-16 SLOWO PANA: zapytanie Korony WPROST DO CECHU (pismo: gra/poczta_300_08_16_cech_pisarzy_bp.md) - 'czy Cech zabrania czlonkom kontraktu Korony w Glebokorzeniu?' - odpowiedz na pismie pod pieczecia cechu. Theomore szuka dalej (wlasni). ### 08-21 (poczta_300_08_21.md): THEOMORE 33: 8 z 20 (2 z sept, 3 synow kupcow + 3 z 08-16); propozycje: Braavos przez Neste (przejazd Korona) albo stawka +1/4. DO SLOWA PANA."
   },
   {
    "data": "300-08-07",
@@ -12468,7 +12468,7 @@
    "kanal": "kruk WF-Fosa (08-16 po poludniu) i z powrotem",
    "wraca": "300-08-21",
    "zamyka": "pismo Roderyka: kto wiedzial, kiedy, dokad Rolf (RZUT przy meldunku)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-21 ### 08-21 (poczta_300_08_21.md): RODERYK 73: karty wyciete po 08-04; przeciek - Jastrzab EDD TRZCINA (kuzyn zony Rolfa), przy piwie 08-05, bez pieniedzy, przyznal sie; Rolf 08-07 na trakcie do Barrowton z wozem Oda. Dalej - nowa pozycja do slowa pana. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-16",
@@ -12477,7 +12477,7 @@
    "kanal": "kruk WF-Nowy Zamek (lancuch maesterski) i z powrotem",
    "wraca": "300-08-21",
    "zamyka": "odpowiedz cechu na pismie albo nazwane milczenie (RZUT przy odpowiedzi)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-21 ### 08-21 (poczta_300_08_21.md): CECH 45: 'nie zabrania przyjmowania pracy; ksiegi wg swoich praw' - wykreslenia nie zaprzecza. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-16",
@@ -12540,7 +12540,7 @@
    "kanal": "kruk WF-Nowy Zamek (wieczorny lot 08-17) i z powrotem",
    "wraca": "300-08-21",
    "zamyka": "odpowiedz Wymana albo nazwane milczenie",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-21 ### 08-21 (poczta_300_08_21.md): WYMAN 2: 'z cechami rozmawia lord BP'; sprawe bierze sam; prosi, by Korona nie pisala do Cechu; chlod - prog +10 w sprawach z Wymanem biegnacych (Wol/Kra, taryfa). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-17",
@@ -12666,7 +12666,7 @@
    "kanal": "kruk Domu ZM-BP (08-20 po poludniu) i z powrotem",
    "wraca": "300-08-24",
    "zamyka": "odpowiedz Wymana: tak/nie/termin",
-   "status": "otwarte"
+   "status": "otwarte ### 08-21: CHLOD WYMANA (list o cechu, rzut 2) - przy odpowiedzi prog +10."
   },
   {
    "data": "300-08-20",
@@ -12747,7 +12747,7 @@
    "kanal": "kruk WF-Nowy Zamek i z powrotem",
    "wraca": "300-08-24",
    "zamyka": "odpowiedz Wymana; potem slup w Ujsciu i przy Goraczce",
-   "status": "otwarte"
+   "status": "otwarte ### 08-21: CHLOD WYMANA (list o cechu, rzut 2) - przy odpowiedzi prog +10."
   },
   {
    "data": "300-08-20",
@@ -12873,6 +12873,15 @@
    "kanal": "kurier Domu z kluczem; na miejscu",
    "wraca": "300-09-05",
    "zamyka": "klucz Domu w kazdej placowce; klucz Korony w kancelarii; pierwszy list kazdej strony szyfrem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-21",
+   "co": "PRZEMYT - DALSZE KROKI DO SLOWA PANA (Roderyk 08-21): (a) EDD TRZCINA - Kessel: wyrzucic z Jastrzebi; Roderyk: kara + grobla; (b) ROLF w Barrowton - ziemia lady Dustin, poscig tylko za jej zgoda/przez Korone; (c) ODO - pytac Barrowton wprost?",
+   "kto": "SYMON -> RODERYK / KESSEL ; BARBREY",
+   "kanal": "kruk WF-Fosa; kruk WF-Barrowton",
+   "wraca": "300-08-22",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],

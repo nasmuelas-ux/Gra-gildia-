@@ -2987,9 +2987,9 @@
    "data": "300-03-17",
    "kto": "HAL SIEROTA (kantor Bialy Port)",
    "kanal": "na miejscu / ksiega zaliczek",
-   "wraca": "300-08-22",
+   "wraca": "300-09-05",
    "zamyka": "nie zamyka sie - ma trwac, dopoki nasluch nie da nazwiska",
-   "status": "otwarte ### DATA 06-01: kontrola przy meldunku z Rozdroza (Deron, 06-16), potem z kazdym meldunkiem. ### 08-15: dyspozycja stala, bez zmian; nastepny przeglad 08-22.",
+   "status": "otwarte ### DATA 06-01: kontrola przy meldunku z Rozdroza (Deron, 06-16), potem z kazdym meldunkiem. ### 08-15: dyspozycja stala, bez zmian; nastepny przeglad 08-22. ### 08-22 (poczta_300_08_22.md): wyplata zeszla 08-14 jak zawsze (Hal); dyspozycja stala; nastepny przeglad z bilansem Hala.",
    "co": "WYPLATY NA ZNAK MILCZACEJ REKI IDA DALEJ BEZ ZMIANY - dyspozycja stala. Co do dnia, ta sama kwota, to samo miejsce, zaden pisarz nie wie dlaczego. ⚠ W DNIU, W KTORYM WYPLATA NIE ZEJDZIE, ON PRZESTAJE PRZYCHODZIC I NIE DOWIEMY SIE O NIM JUZ NIGDY NICZEGO. To najtanszy nasluch, jaki ten Dom mial - i placi go ten, kogo sie slucha. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): wyplata na znak zeszla jak zawsze (ksiega zaliczek Hala, 06-14); kontrola - przy nastepnym meldunku Derona. ### 07-16: dyspozycja stala - bez zmian; kontrola przy nastepnym meldunku Derona."
   },
   {
@@ -9102,7 +9102,7 @@
    "kanal": "kruk Winterfell-Bialy Port; siatka Willi",
    "wraca": "300-08-22",
    "zamyka": "wiadomo, czy Lyseni to dluznik czy spekulant (albo wiadomo, czemu nie wiadomo)",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Proba Lys - w bilansie. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): NOGA HALA - rzut 96: 4 oferty przez slupy, coraz wyzej; Lysenczyk przebil 4/4, przy czwartej PONAD NOMINAL; Hal NIC NIE KUPIL (\"oferta to nie zakup\" - wola Krola 07-13 nietknieta). Hal: \"spekulant nie placi ponad nominal\". NOGA WILLI (gdzie oddaje kwity) - otwarta, ~08-22."
+   "status": "zamkniete 300-08-22 ### 08-22 (poczta_300_08_22.md): NOGA WILLI 87: kwity nie ida do zaplaty w KP; statkiem z Duskendale do Lannisportu, kantor lysenski -> Skala. Odczyt (Sansa/Lucan, O): Lysenczyk = reka Tywina wykupujaca wlasne dlugi. ### POPRZEDNIO: byl-otw ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. Proba Lys - w bilansie. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): NOGA HALA - rzut 96: 4 oferty przez slupy, coraz wyzej; Lysenczyk przebil 4/4, przy czwartej PONAD NOMINAL; Hal NIC NIE KUPIL (\"oferta to nie zakup\" - wola Krola 07-13 nietknieta). Hal: \"spekulant nie placi ponad nominal\". NOGA WILLI (gdzie oddaje kwity) - otwarta, ~08-22."
   },
   {
    "data": "300-07-10",
@@ -9505,9 +9505,9 @@
    "co": "PAPIERY LWA - PLAN PO 08-05 (zgoda pana na rade Lucana 07-13): po sortowaniu Hala (przed/po ugodzie) i probie Lys - Lucan przychodzi z liczbami: (a) kwity sprzed ugody + weksle Lannisportu - Bank w Braavos przez Neste, kawalkami (albo weksle do terminu); (b) kwity po ugodzie - trzymane jako dar dla Krola (za jego wiedza, przy sprawach Korony). NIE: Tywin/Lys, Olenna, Baelish. Wlasni - bez rzutu; odpowiedz Banku - RZUT przy pierwszej partii.",
    "kto": "LUCAN + HAL; NESTA (Bank)",
    "kanal": "osobiscie Winterfell; kruk BP; statek BP-Braavos",
-   "wraca": "300-08-22",
+   "wraca": "300-08-23",
    "zamyka": "rachunek Lucana z liczbami Hala i slowo pana o pierwszej partii do Banku",
-   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): liczby jest: 11 partii (7 po ugodzie) + 5 weksli, nominal ~900 / zaplacone ~480 (E); proba Lys 96. Rada Lucana przy odczycie - DO SLOWA PANA. ### 08-06 WIECZOR SLOWO PANA: ZGODA na rade Lucana: NIC NIE SPRZEDAWAC - ani kwitow po ugodzie, ani sprzed ugody, ani weksli Lannisportu - do drugiej nogi proby Lys (Willa ~08-22). Nie podnosic ceny piaty raz."
+   "status": "otwarte ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): liczby jest: 11 partii (7 po ugodzie) + 5 weksli, nominal ~900 / zaplacone ~480 (E); proba Lys 96. Rada Lucana przy odczycie - DO SLOWA PANA. ### 08-06 WIECZOR SLOWO PANA: ZGODA na rade Lucana: NIC NIE SPRZEDAWAC - ani kwitow po ugodzie, ani sprzed ugody, ani weksli Lannisportu - do drugiej nogi proby Lys (Willa ~08-22). Nie podnosic ceny piaty raz. ### 08-22 (poczta_300_08_22.md): PROBA LYS ZAMKNIETA (obie nogi) - wstrzymanie konczy sie; plan Lucana 07-13: (a) Bank przez Neste, (b) dar dla Krola - DO SLOWA PANA."
   },
   {
    "data": "300-07-13",
@@ -11548,9 +11548,9 @@
    "co": "EDRIC SZUWAR - POWROT NA FOSE I PRZYJAZD DO WINTERFELL (slowo pana 08-02): konczy sluzbe przy lodzi Derona w Dorzeczu, wraca na Fose, z Fosy do Winterfell - meldunek z wyspy osobiscie u pana (o Branie nic na papierze); po rozmowie - z powrotem na Fose (Kessel, Jastrzebie). Pytanie ustne: czy drzewo mialo otwarte oczy.",
    "kto": "GARRICK -> DERON SUCHY -> EDRIC",
    "kanal": "kruk WF->Fosa (08-03 rano) + jezdziec przez Przesmyk",
-   "wraca": "300-08-22",
+   "wraca": "300-08-26",
    "zamyka": "Edric w Winterfell, rozmowa odbyta",
-   "status": "otwarte"
+   "status": "otwarte ### 08-22 (poczta_300_08_22.md): Garrick (dopisek przy karcie Willi): Edric na Fosie 08-19, wyjechal do WF 08-20 z jednym Jastrzebiem; w WF ~08-26."
   },
   {
    "data": "300-08-03",
@@ -11595,7 +11595,7 @@
    "kanal": "kruk WF-Fosa 08-04 + siatka",
    "wraca": "300-08-22",
    "zamyka": "meldunek Willi o kierunkach Lwa (poza kolejka) albo w karcie 09-01",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-22 ### 08-22 (poczta_300_08_22.md): WILLA 98: placi Skala wlasnym zlotem (smoki bite na nowo) od VI; ~3000 pod Lannisportem, ~800 do Zlotego Zeba, nikt na polnoc; ~12 kadlubow + pochylnie, patrza na Wyspy; kantor lysenski przy Zlotej; SLUCH: czarny kadlub bez znaku w Lys z valyrianskim zlotem. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-03",
@@ -12252,7 +12252,7 @@
    "kanal": "Winterfell; kruki WF-Deepwood, WF-Torrhen's Square",
    "wraca": "300-08-22",
    "zamyka": "zestawienie Luwina z wnioskiem na pismie",
-   "status": "otwarte ### 08-13 pan: zatoka Blazewater/ujscie Goraczki oslonieta (Przyladek Krakena) - zestawienie rozdziela: trasa morska z Arbor vs zatoka i ujscie; pytanie do Hendry'ego (ile dni port stal przez wiatr w VIII)."
+   "status": "zamkniete 300-08-22 ### 08-22 (poczta_300_08_22.md): LUWIN (92): NIE - burze letnie; pierwsze jesienne sztormy zachodu zwykle X; okno IX-X dla Arbor stoi. ### POPRZEDNIO: byl-otw ### 08-13 pan: zatoka Blazewater/ujscie Goraczki oslonieta (Przyladek Krakena) - zestawienie rozdziela: trasa morska z Arbor vs zatoka i ujscie; pytanie do Hendry'ego (ile dni port stal przez wiatr w VIII)."
   },
   {
    "data": "300-08-13",
@@ -12268,9 +12268,9 @@
    "co": "SEAGARD - OCZY NA HARLAW (polecenie pana 08-13, po odczycie Lucana): placowka Domu patrzy na Harlaw i Zatoke Zelaznych Ludzi (zagle, kierunek, kiedy, czy Harlaw zbiera okrety); meldunki CO TYDZIEN, przy ruchu od razu. Oslona kupca bez zmian. Wlasni - bez rzutu na wykonanie; odzew Mallisterow/portu - RZUT przy pierwszym meldunku. Pismo: gra/poczta_300_08_13_seagard_flint.md.",
    "kto": "LUCAN -> placowka Seagard (przez Lymana od Brodow)",
    "kanal": "KRUK DOMU Winterfell-Seagard (wieczorny lot 08-13; placowka ma kruki Domu - slowo pana 08-13) i z powrotem (E ~1-2 dni w jedna strone)",
-   "wraca": "300-08-22",
+   "wraca": "300-08-23",
    "zamyka": "pierwszy meldunek z Seagard krukiem Domu (rzut na odzew Mallisterow/portu); dalej cykl SEAGARD_ZAGLE co 7 dni",
-   "status": "otwarte ### 08-13 POPRAWKA KANALU: nie przez Lymana i Riverrun - placowka ma kruka Domu (slowo pana). ### 08-16: Seagard - droga w obie strony; ~08-22."
+   "status": "otwarte ### 08-13 POPRAWKA KANALU: nie przez Lymana i Riverrun - placowka ma kruka Domu (slowo pana). ### 08-16: Seagard - droga w obie strony; ~08-22. ### 08-22 (poczta_300_08_22.md): PIERWSZY MELDUNEK RZUT 18: cienki; ludzie Mallistera pytaja, do kogo kupiec pisze krukami. Kierownik: pisac rzadziej/tylko przy ruchu albo list Domu do Mallisterow. DO SLOWA PANA."
   },
   {
    "data": "300-08-13",
@@ -12279,7 +12279,7 @@
    "kanal": "kruk Winterfell-Fosa (wieczorny lot 08-13) + czlowiek Fosy na Palec i z powrotem (wzor 05-25->06-01)",
    "wraca": "300-08-22",
    "zamyka": "odpowiedz Flinta (rzut)",
-   "status": "otwarte ### 08-20 kanal: kruk 08-13 na Fose + czlowiek na Palec i z powrotem (~7 dni, wzor 05-25->06-01) - ~08-22."
+   "status": "zamkniete 300-08-22 ### 08-22 (poczta_300_08_22.md): FLINT 79: patrzy dla nas bez zaplaty; ogien wg karty Krola + lodz do GP; znak ognia Palca (E: dwa ognie obok, potem jeden) do GP i na Fose. ### POPRZEDNIO: byl-otw ### 08-20 kanal: kruk 08-13 na Fose + czlowiek na Palec i z powrotem (~7 dni, wzor 05-25->06-01) - ~08-22."
   },
   {
    "data": "300-08-13",

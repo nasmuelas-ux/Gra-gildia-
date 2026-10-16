@@ -12684,7 +12684,7 @@
    "kanal": "na miejscu (ZM) + jezdziec do Przystani",
    "wraca": "300-08-23",
    "zamyka": "lista przyjetych albo wiadomo, czemu nie",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-23 ### 08-23 RZUT 20 PORAZKA: 2 murarzy + 6 pomocnikow (E); powody: drwale i woznice poszli do wyrebu w Wilczym Lesie (Korona, slowo pana 08-20), ciesle przy targu (slup, waga); Przystan Wilka 'za daleko od domu przed zima'. Gawen: trzy wyjscia do slowa pana - (a) wikt i kwatera na koszt Korony + powrot przed mrozem gwarantowany; (b) stawka +1/5; (c) wziac osmiu i nie szukac dalej. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-20",
@@ -12963,6 +12963,15 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-26",
    "zamyka": "lekcja 11 odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-23",
+   "co": "PRZYSTAN WILKA - NABOR ZM PO PORAZCE (08-23, rzut 20): 2 murarzy + 6 pomocnikow; do slowa pana: (a) wikt i kwatera Korony + gwarantowany powrot przed mrozem; (b) stawka +1/5; (c) osmiu i koniec.",
+   "kto": "SYMON -> GAWEN + lawa ZM ; BORS",
+   "kanal": "na miejscu",
+   "wraca": "300-08-24",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],

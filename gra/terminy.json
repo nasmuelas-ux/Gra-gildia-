@@ -12972,6 +12972,15 @@
    "kanal": "na miejscu",
    "wraca": "300-08-24",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-08-23 ### 08-23 SLOWO PANA: (a) - wikt i kwatera na koszt Korony + gwarantowany powrot przed mrozem wozem Korony (E: wikt ~0,04 smoka/os./mies. wg stawki wiktu 50 ludzi = 2/mies; woz powrotny ~1 smok; rubryki kosztu 08-07)."
+  },
+  {
+   "data": "300-08-23",
+   "co": "PRZYSTAN WILKA - NOWE OGLOSZENIE W ZM (slowo pana 08-23, wariant a): wikt i kwatera Korony + gwarantowany powrot przed mrozem wozem Korony; 8 juz przyjetych idzie od razu z wozem do Przystani. Wolni ludzie - RZUT przy meldunku.",
+   "kto": "GAWEN + lawa ZM ; BORS",
+   "kanal": "na miejscu (ZM) + jezdziec do Przystani",
+   "wraca": "300-08-27",
+   "zamyka": "lista przyjetych po nowym ogloszeniu",
    "status": "otwarte"
   }
  ],

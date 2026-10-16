@@ -12963,7 +12963,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-02",
    "zamyka": "lekcja 11 odbyta",
-   "status": "otwarte ### 08-26 (zbiorczy_garricka_300_08_24.md): stan w zbiorczym; nastepny zbiorczy pisany 08-31 (~09-02)."
+   "status": "zamkniete 300-08-26 ### lekcja HV 11 odbyta (rzut 74, DOBRZE): S/N 4/5 zgodne z glosem Luwina; regula miary formuly - 6 z 9 '?' rozstrzygniete; 3 pytajniki zostaja (zdania opisowe). ### POPRZEDNIO: byl-otw ### 08-26 (zbiorczy_garricka_300_08_24.md): stan w zbiorczym; nastepny zbiorczy pisany 08-31 (~09-02)."
   },
   {
    "data": "300-08-23",
@@ -13170,6 +13170,15 @@
    "kanal": "woz ZM-Barrowton-Dustinport",
    "wraca": "300-09-05",
    "zamyka": "buty u ludzi w Dustinporcie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-26",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 08-29 (po lekcji 11, rzut 74): piec kolejnych zdan starszego odpisu - zaznaczyc S/N i dlugosci z MIARY FORMULY, bez slownika; gdzie miary nie ma (zdania opisowe) - pytajnik. W piatek Luwin czyta - porownanie (lekcja 12).",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-08-29",
+   "zamyka": "lekcja 12 odbyta",
    "status": "otwarte"
   }
  ],

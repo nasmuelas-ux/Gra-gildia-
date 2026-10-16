@@ -8263,9 +8263,9 @@
    "co": "STREFY ZAKAZANE NA BAGNACH LENNA (rozkaz pana 06-23, po poscigu): (1) MAPA BAGNA LENNA - kanaly, kepy, gardla, torfowiska, brody, szlaki krannogow; skala i nazwy; dwa egzemplarze (Fosa + Winterfell). Prowadzi KESSEL (lodzie, ludzie znad wody) + pisarz z kancelarii (rysunek) + JORREN LUT (torfowiska) + PRZEWODNIK KRANNOG (przez Reeda - bez niego mapa ma dziury tam, gdzie woda jest ich). Wlasni - bez rzutu; przewodnik - wola Reeda (pkt 2).",
    "kto": "KESSEL + pisarz kancelarii + JORREN LUT",
    "kanal": "na miejscu",
-   "wraca": "300-08-20",
+   "wraca": "300-09-15",
    "zamyka": "mapa bagna lenna na stole pana",
-   "status": "otwarte ### 07-29 (zbiorczy 07-26): mapa bagna - w toku (E); wynik w nastepnym zbiorczym. [POPRAWKA GM 07-29: wpis o liscie Reeda przeniesiony do pozycji (2) - pomylka przy zapisie.] ### 08-09: pan w Winterfell - stan w ZBIORCZYM GARRICKA (~08-11) (zasada 34, wlasni - zasada 7). ### 08-11: stan w ZBIORCZYM GARRICKA (cykl, pisany 08-10, kruk ~08-12) - zasada 34, wlasni. ### 08-12: NAWALNICA (pogoda rzut 6) - KRUKI NIE LATAJA; zbiorczy Garricka / odpowiedzi krukiem - 08-13 (zasada 34). ### 08-13: druga doba burzy (pogoda 7) - kruki stoja do poludnia; przylot wieczorem 08-13. ### 300-08-13: mapa w polowie (E); dziury na wodzie krannogow - bez przewodnika (Reed ~08-20) (zbiorczy Garricka 08-10, gra/zbiorczy_garricka_300_08_10.md) ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
+   "status": "otwarte ### 07-29 (zbiorczy 07-26): mapa bagna - w toku (E); wynik w nastepnym zbiorczym. [POPRAWKA GM 07-29: wpis o liscie Reeda przeniesiony do pozycji (2) - pomylka przy zapisie.] ### 08-09: pan w Winterfell - stan w ZBIORCZYM GARRICKA (~08-11) (zasada 34, wlasni - zasada 7). ### 08-11: stan w ZBIORCZYM GARRICKA (cykl, pisany 08-10, kruk ~08-12) - zasada 34, wlasni. ### 08-12: NAWALNICA (pogoda rzut 6) - KRUKI NIE LATAJA; zbiorczy Garricka / odpowiedzi krukiem - 08-13 (zasada 34). ### 08-13: druga doba burzy (pogoda 7) - kruki stoja do poludnia; przylot wieczorem 08-13. ### 300-08-13: mapa w polowie (E); dziury na wodzie krannogow - bez przewodnika (Reed ~08-20) (zbiorczy Garricka 08-10, gra/zbiorczy_garricka_300_08_10.md) ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): REED 86: przewodnik krannog z Kesselem i Jorrenem PO WODZIE LENNA (do tyczek), nie po ich wodzie; mapa rosnie do tyczek."
   },
   {
    "data": "300-06-23",
@@ -8274,7 +8274,7 @@
    "kanal": "poslaniec krannogow Fosa-Szara Woda",
    "wraca": "300-08-20",
    "zamyka": "odpowiedz Reeda: granica, przewodnik, znak dla jego ludzi",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA. ### 07-29 SLOWO PANA (gra/poczta_300_07_29.md): LIST DO REEDA - przeprosiny; IMIE PODANE: SYMON TALLY (odpowiedzialnosc pana, nie dziesietnika); cel stref - przemyt i clo Korony; nowa regula (rog, ostrzezenie, do lodzi krannogow nigdy); granica tylko po stronie lenna wg mapy Starkow, bez nowej; bez tyczek i przepustek po stronie krannogow; DAR: nowa lodka dla trafionego (ciesle Brana) + beczka soli + haczyki i igly. Odpowiedz Reeda - RZUT przy odpowiedzi (~08-15). ### 07-29 TERMIN (Krol): jesli Reed nie odpisze DO 300-08-15 - Namiestnik melduje Krolowi (Krol wtedy w drodze - kruk na okret/przez Wymana); Krol napisze sam. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; poslaniec krannogow (Reed) - wraca przez Fose, zbiorczy ~08-19; slowo Reeda ~08-20 (zapis). ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
+   "status": "zamkniete 300-08-20 ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): REED RZUT 86: tyczki z pomaranczowym znakiem po stronie lenna - TAK; po stronie krannogow znakow nie bedzie; wytyczenie od 09-01 (Kessel + krannog). ### POPRZEDNIO: otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (list Reeda; rzut 9 - BARDZO ZLE): krannogowie nie znacza wody i nie nosza przepustek; ~07-08 noca lodz Jastrzebi STRZELILA do lodki krannoga (belt w burte, nikt nie ranny); Reed zada IMIENIA DOWODCY PATROLU i SLOWA PANA, ze drugiego belta nie bedzie - inaczej krannogowie przestana patrzec na barki. Rada: ROZBIEZNOSC Kessel/Hendry (regula strzalu). DO SLOWA PANA. ### 07-29 SLOWO PANA (gra/poczta_300_07_29.md): LIST DO REEDA - przeprosiny; IMIE PODANE: SYMON TALLY (odpowiedzialnosc pana, nie dziesietnika); cel stref - przemyt i clo Korony; nowa regula (rog, ostrzezenie, do lodzi krannogow nigdy); granica tylko po stronie lenna wg mapy Starkow, bez nowej; bez tyczek i przepustek po stronie krannogow; DAR: nowa lodka dla trafionego (ciesle Brana) + beczka soli + haczyki i igly. Odpowiedz Reeda - RZUT przy odpowiedzi (~08-15). ### 07-29 TERMIN (Krol): jesli Reed nie odpisze DO 300-08-15 - Namiestnik melduje Krolowi (Krol wtedy w drodze - kruk na okret/przez Wymana); Krol napisze sam. ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; poslaniec krannogow (Reed) - wraca przez Fose, zbiorczy ~08-19; slowo Reeda ~08-20 (zapis). ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
   },
   {
    "data": "300-06-23",
@@ -9885,7 +9885,7 @@
    "kanal": "kruk Winterfell-Fosa, Garrick -> poslaniec przy grobli -> krannogowie",
    "wraca": "300-08-20",
    "zamyka": "odpowiedz Reeda albo przyjazd",
-   "status": "otwarte ### 08-10: list doszedl na Fose, Garrick przez poslanca przy grobli do krannogow - bez kruka; odpowiedz albo przyjazd wolniej (Jojen 08-09: ojciec przyjedzie, kiedy przyjedzie). ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
+   "status": "zamkniete 300-08-20 ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): REED RZUT 18 (prog 60) PORAZKA: 'Przyjade, kiedy opadna liscie. Nie wczesniej. Moj syn jest przy chlopcu. Jojen wie, co robic, a jesli nie wie, to ja tez nie bede wiedzial.' ### POPRZEDNIO: otwarte ### 08-10: list doszedl na Fose, Garrick przez poslanca przy grobli do krannogow - bez kruka; odpowiedz albo przyjazd wolniej (Jojen 08-09: ojciec przyjedzie, kiedy przyjedzie). ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
   },
   {
    "data": "300-07-18",
@@ -12306,16 +12306,16 @@
    "kanal": "poslaniec krannogow",
    "wraca": "300-08-20",
    "zamyka": "slowo Reeda (rzut przy odpowiedzi)",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
+   "status": "zamkniete 300-08-20 ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): REED 86: dwoch ludzi na pobor - na Dustinport do zbiorki (~08-25). ### POPRZEDNIO: otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
   },
   {
    "data": "300-08-13",
    "co": "ROZLADUNEK ZBOZA W GP (IX-X) - WSIE LENNA NA DNIOWKE (slowo pana 08-13): ile rak dadza wsie, za ile (slup), kto prowadzi; mur nietkniety. Przyjecie przez wsie (wolni ludzie) - RZUT przy meldunku Garricka.",
    "kto": "GARRICK + HENDRY + WARRYN",
    "kanal": "kruk WF-Fosa (swit 08-14); odpowiedz w zbiorczym",
-   "wraca": "300-08-20",
+   "wraca": "300-08-21",
    "zamyka": "lista wsi i rak na rozladunek (rzut)",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
+   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): RZUT 20 (prog 55) PORAZKA: 4 wsie z 9, ~30 rak zamiast ~80 (E); mlocka i torf; STAWKA ROZLADUNKU NIZSZA NIZ DNIOWKA BUDOW LENNA. Rada niezgodna: (a) Warryn - podniesc stawke na 3-4 tyg.; (b) Hendry - przerzucic dniowkowych z budow; (c) Garrick - najem z Cailin. DO SLOWA PANA."
   },
   {
    "data": "300-08-13",
@@ -12376,9 +12376,9 @@
    "co": "PRZEWLOKA - UJSCIE: POMOST I ZARZADCA PRZYSTANI (slowo pana 08-14, rada Lucana): Garrick wskazuje, kto rysuje i stawia pomost (poza ludzmi muru GP), koszt polowy lenna z ksiegi Warryna; zarzadca przystani - piszacy, liczy ladunki i pobiera myto. Wlasni - bez rzutu.",
    "kto": "GARRICK (+ WARRYN)",
    "kanal": "kruk WF-Fosa (08-14 po poludniu); odpowiedz w zbiorczym",
-   "wraca": "300-08-20",
+   "wraca": "300-08-21",
    "zamyka": "kto stawia pomost + koszt polowy + imie zarzadcy Ujscia",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
+   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): POMOST: rysuje WEYLIN, stawiaja ciesle Wymana + ludzie lenna (nie z muru GP), drewno lenna; kosztorys Warryna (E): calosc 140, polowa lenna 70; termin ~X. ZARZADCA UJSCIA: Garrick wskazuje HAMUNDA WEZLA (E; rejestr Melli; pisarz ladunkow barek z Dorzecza; CZYTA/PISZE/LICZY). DO SLOWA PANA."
   },
   {
    "data": "300-08-14",
@@ -12394,18 +12394,18 @@
    "co": "TARYFA MYTA PRZEWLOKI (slowo pana 08-14): Warryn z Garrickiem - za woz, barke, ladunek (waga/sztuka); taniej niz oplyniecie Polnocy i Stopnie (zarobek na ilosci). Szkic do pana PRZED slupem; Wyman dostaje od pana przed tablica. Wlasni - bez rzutu.",
    "kto": "WARRYN + GARRICK",
    "kanal": "kruk WF-Fosa; szkic w zbiorczym",
-   "wraca": "300-08-20",
+   "wraca": "300-08-21",
    "zamyka": "szkic taryfy na stole pana",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
+   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): SZKIC TARYFY (Warryn, E): woz zwykly 16 jeleni, drogi 32, pusty 2, juczny 4, bydlo 2, pieszy wolno; koga ~80-100 wozow = ~9-12 smokow myta (Stopnie 20-35). DO SLOWA PANA, potem Wyman przed slupem."
   },
   {
    "data": "300-08-14",
    "co": "PRAWO SKLADU CAILIN - LEKKIE (slowo pana 08-14): jeden dzien wystawienia, tylko wybrane towary (lista do slowa pana); razem plan lawy z 08-02 - zajazd, nabrzeze przy kanale, waga miejska. Herwin + lawa + Garrick. Wola lawy - juz ZA (plan wlasny lawy, rzut 91 08-02); bez nowego rzutu na szkic.",
    "kto": "HERWIN + LAWA + GARRICK",
    "kanal": "kruk WF-Fosa; odpowiedz w zbiorczym/liscie Herwina",
-   "wraca": "300-08-20",
+   "wraca": "300-08-21",
    "zamyka": "lista towarow skladu + plan zajazdu/nabrzeza/wagi do slowa pana",
-   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie."
+   "status": "otwarte ### 08-20 w porannym pakiecie brak; kruk z Fosy (raport rady 08-16) z poludniowym lotem - rozstrzygniecie dzis w poludnie. ### 08-20 POLUDNIE (raport rady, poczta_300_08_20_fosa.md): LISTA LAWY: jeden dzien wystawienia - wino w beczkach, sukno w belach, sol, zelazo w sztabach; reszta bez postoju; plan zajazdu przy rogatce, nabrzeza i wagi - kosztorys Herwina po slowie pana. DO SLOWA PANA."
   },
   {
    "data": "300-08-14",
@@ -12721,6 +12721,15 @@
    "wraca": "300-09-01",
    "zamyka": "przelicznik wisi na slupie przy przystani",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-20",
+   "co": "REED - GRANICA WODY: wytyczenie tyczek z pomaranczowym znakiem po stronie lenna (Kessel + krannog), od 09-01 (Reed 08-18, rzut 86). Wlasni + krannog - bez rzutu.",
+   "kto": "KESSEL + krannog Reeda",
+   "kanal": "na miejscu; zbiorczy Garricka",
+   "wraca": "300-09-15",
+   "zamyka": "tyczki stoja na calej granicy wody",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -12955,7 +12964,7 @@
     "start": "300-07-19"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-08-10",
+   "ostatnio_odebrane": "300-08-17",
    "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"

@@ -11802,7 +11802,7 @@
    "kanal": "osobiscie w Dreadforcie; wiesc krukiem z BP",
    "wraca": "300-08-18",
    "zamyka": "zaproszenie wypowiedziane, reakcja Roose'a",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-18 ### rozstrzygniete listem Krola 08-16 (rzut 78, z poprawka VOID 08-16): Walda rodzi w Dreadforcie; krewna z akuszerka z Blizniakow w drodze; Korona w zastepstwie przed IX; zaproszenie przy stole - grzecznosc. Dalej: pozycja 1006 (~09-01)."
   },
   {
    "data": "300-08-05",
@@ -12585,6 +12585,15 @@
    "kanal": "na miejscu, WF",
    "wraca": "300-09-05",
    "zamyka": "cykliczne - 5. dnia miesiaca",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-17",
+   "co": "DLUGA ZIMA W LICZBACH (slowo pana 08-17, propozycja Brana): Bran + Luwin wypisuja z Ksiag Zimowych WF dlugosci zim (zamkniecie-otwarcie spichrzy) i zuzycie korcy na tydzien; najdluzsza zapisana zima x zuzycie Polnocy = 'dluga zima'; zestawic z danymi zim od Theomore'a (~08-20) i Prawem Spichlerza.",
+   "kto": "BRAN + LUWIN",
+   "kanal": "na miejscu, WF",
+   "wraca": "300-08-25",
+   "zamyka": "karta: dlugosci zim i liczba korcy (wlasni - bez rzutu; liczby z ksiag, nie z glowy)",
    "status": "otwarte"
   }
  ],

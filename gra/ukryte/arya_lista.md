@@ -60,3 +60,6 @@ Arya zaczęła łapać koty (lekcja Syria, po rozmowie z panem 08-13). Świt, st
 
 ## 300-08-17 STRYCH NAD STAJNIAMI: „TO NIE WARUNKI. TO MATKA.”
 Pan mówił o równych prawach (mieszczanin), o Dorne, Wyspie Niedźwiedziej i Jorelle, a potem o matce, która „o mały włos nas nie straciła”. Arya: Mormontki dostają topór przed lalką; matka wstaje w nocy sprawdzać drzwi (od Sansy); „dlatego siedzę z kotem, a nie na Fosie”. Odczyt GM (O): zrozumiała, czemu matka mówi nie. Nie zgodziła się z tym, ale tym razem nie jest zła.
+
+## 300-08-17 „TO NIE JEST OBIECUJĘ. ALE NIE JEST TEŻ NIE.”
+Arya zażądała obietnicy wyjazdu do Braavos. Pan odpowiedział, że dorosła Arya będzie tam, gdzie zechce, a Północ znajdzie dla niej zajęcie, bo jest księżniczką. Obietnicy nie dał. Arya to zauważyła i przyjęła jako „nie nie”. Zapytała, ile to lat do dorosłości. Zostawiła sobie cel: braavoski lepiej niż Sansa.

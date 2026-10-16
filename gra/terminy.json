@@ -11874,7 +11874,7 @@
    "kanal": "kruk WF-BP (list pana 08-07 po poludniu)",
    "wraca": "300-08-22",
    "zamyka": "odpowiedz Theomore'a: ilu, skad, stawka, gdzie siedza (rzut na odzew)",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 ODPOWIEDZ THEOMORE'A (rzut 41, PORAZKA): 3 chetnych (2 slabi); HARWIN - cech BP grozi wykresleniem kazdemu, kto pisze dla Korony. Theomore: szukac poza cechem (septy, synowie kupcow, Braavos) albo stawka wyzsza. DO SLOWA PANA. ### 08-16 SLOWO PANA: zapytanie Korony WPROST DO CECHU (pismo: gra/poczta_300_08_16_cech_pisarzy_bp.md) - 'czy Cech zabrania czlonkom kontraktu Korony w Glebokorzeniu?' - odpowiedz na pismie pod pieczecia cechu. Theomore szuka dalej (wlasni). ### 08-21 (poczta_300_08_21.md): THEOMORE 33: 8 z 20 (2 z sept, 3 synow kupcow + 3 z 08-16); propozycje: Braavos przez Neste (przejazd Korona) albo stawka +1/4. DO SLOWA PANA."
+   "status": "zamkniete 300-08-21 ### 08-21 SLOWO PANA: PISARZE Z BRAAVOS PRZEZ NESTE (przejazd - Korona) + STAWKA +1/4 dla wszystkich (E: 15 -> ~19 jeleni/mies na pisarza, Kasa 3 - Gawen ksieguje). 8 juz przyjetych idzie na nowa stawke. Dalej - pozycje nowe. ### POPRZEDNIO: byl-otw ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 ODPOWIEDZ THEOMORE'A (rzut 41, PORAZKA): 3 chetnych (2 slabi); HARWIN - cech BP grozi wykresleniem kazdemu, kto pisze dla Korony. Theomore: szukac poza cechem (septy, synowie kupcow, Braavos) albo stawka wyzsza. DO SLOWA PANA. ### 08-16 SLOWO PANA: zapytanie Korony WPROST DO CECHU (pismo: gra/poczta_300_08_16_cech_pisarzy_bp.md) - 'czy Cech zabrania czlonkom kontraktu Korony w Glebokorzeniu?' - odpowiedz na pismie pod pieczecia cechu. Theomore szuka dalej (wlasni). ### 08-21 (poczta_300_08_21.md): THEOMORE 33: 8 z 20 (2 z sept, 3 synow kupcow + 3 z 08-16); propozycje: Braavos przez Neste (przejazd Korona) albo stawka +1/4. DO SLOWA PANA."
   },
   {
    "data": "300-08-07",
@@ -12882,6 +12882,42 @@
    "kanal": "kruk WF-Fosa; kruk WF-Barrowton",
    "wraca": "300-08-22",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-08-21 ### 08-21 SLOWO PANA: (a) EDD TRZCINA - wydalony z Jastrzebi (wniosek Kessela), bez kary sadowej; (b)(c) ROLF i ODO - nie scigac (Barrowton - ziemia Dustin); SPRAWA PRZEMYTU ZAMKNIETA; nazwiska w ksiedze sadu z data. PROCEDURY: gra/procedury_przemyt_fosa_300_08_21.md."
+  },
+  {
+   "data": "300-08-21",
+   "co": "PROCEDURY PRZECIW PRZEMYTOWI NA FOSIE (slowo pana 08-21; gra/procedury_przemyt_fosa_300_08_21.md): kontrola bez zapowiedzi (losowanie dni), nikt nie kontroluje krewnych (spis krewnych), ksiegi szyte i liczone co tydzien, dwoch przy wadze, zgloszenia do sadu (1/10 cla - E, do potwierdzenia), plotki kanalu do Kessela. Wlasni - bez rzutu na wdrozenie.",
+   "kto": "GARRICK + RODERYK + KESSEL + RORIK",
+   "kanal": "kruk WF-Fosa (szyfr Domu, Harrol)",
+   "wraca": "300-08-26",
+   "zamyka": "w zbiorczym 08-24: wdrozone, pierwsze losowanie dni IX, spis krewnych",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-21",
+   "co": "LIST NAMIESTNIKA DO WYMANA - ODPOWIEDZ NA LIST O CECHU (gra/poczta_300_08_21_wyman.md): przyznanie kolejnosci; Cech wywolal Korone - Korona odpisala; sprawy cechu Wymanowi, Korona nie pisze do Cechu; granica: wywolana do odpowiedzi - odpowie. Wola Wymana - RZUT (prog +10, chlod 08-21).",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "kruk WF-Nowy Zamek (08-21 wieczor) i z powrotem",
+   "wraca": "300-08-25",
+   "zamyka": "odpowiedz Wymana albo nazwane milczenie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-21",
+   "co": "GLEBOKORZEN - PISARZE Z BRAAVOS (slowo pana 08-21): Nesta szuka ~12 pisarzy na roczny kontrakt Korony (bez lancucha); przejazd BP - Korona (E ~1 smok/osoba); stawka jak w Glebokorzeniu +1/4. List przez Hala statkiem. Odzew - RZUT przy odpowiedzi Nesty.",
+   "kto": "THEOMORE -> HAL -> NESTA ; GAWEN (Kasa 3)",
+   "kanal": "kruk WF-BP + statek BP-Braavos i z powrotem (~48 dni)",
+   "wraca": "300-10-08",
+   "zamyka": "odpowiedz Nesty: ilu, kiedy statkiem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-21",
+   "co": "GLEBOKORZEN - NOWA STAWKA +1/4 OGLOSZONA (slowo pana 08-21): Theomore oglasza poza cechem (septy, synowie kupcow, BP i Barrowton). Odzew - RZUT przy meldunku.",
+   "kto": "THEOMORE ; GAWEN",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-09-01",
+   "zamyka": "lista przyjetych po nowej stawce",
    "status": "otwarte"
   }
  ],

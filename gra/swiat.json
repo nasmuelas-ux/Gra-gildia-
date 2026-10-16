@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 22,
+  "dzien": 23,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 37 (300-08-22): SLABO - pochmurno i chlodno, mzawka do poludnia, wiatr ucichl; kruki lataja.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 20 (300-08-23): ZLE - zimny wiatr ze wschodu, deszcz od switu do poludnia; kruki lataja niechetnie - poczta z poludnia moze przyjsc dopiero po poludniu.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -10918,9 +10918,9 @@
    "co": "CYPEL - ROZJEMCA KORONY NA STALE Z GARNIZONEM + GRANICA NADANIA (mierniczy Korony + Holt Sosna) - obsada rozjemcy do wskazania (zasada 12).",
    "kto": "NAMIESTNIK / KROL",
    "kanal": "—",
-   "wraca": "300-08-23",
+   "wraca": "300-08-24",
    "zamyka": "rozjemca wskazany, granica wytyczona",
-   "status": "otwarte ### 08-01 (Krol rzut 48 TAK): ROZJEMCA - czlowiek Justycjariusza (imie wskazuje CERWYN, w WF 08-01/02); OSHA przy nim - bez imienia na papierze, tylko z wlasnej woli (pyta pan; rzut przy rozmowie); 20 z garnizonu WF + choragiew Korony."
+   "status": "otwarte ### 08-01 (Krol rzut 48 TAK): ROZJEMCA - czlowiek Justycjariusza (imie wskazuje CERWYN, w WF 08-01/02); OSHA przy nim - bez imienia na papierze, tylko z wlasnej woli (pyta pan; rzut przy rozmowie); 20 z garnizonu WF + choragiew Korony. ### 08-23 Z ZAPISU: ROZJEMCA OBSADZONY - TORGEN SZARY (Sad Rozjemczy 08-16), 20 z WF przy nim. OTWARTE: GRANICA NADANIA - MIERNICZY KORONY BEZ IMIENIA (zasada 12: nieobsadzone); Holt Sosna czeka w Deepwood. DO SLOWA PANA: kto mierzy."
   },
   {
    "data": "300-07-26",
@@ -11361,7 +11361,7 @@
    "kanal": "kruk Winterfell-Deepwood; marsz WF->Cypel",
    "wraca": "300-08-23",
    "zamyka": "20 ludzi Korony przy drzewie, gajowi na zoldzie, rozjemca wskazany",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-23 ### 08-23 Z ZAPISU (porzadek kalendarza): rozjemca - TORGEN SZARY (wskazanie Cerwyna 08-01); 20 z garnizonu WF pod sierzantem BENFREDEM KOLO wyszli z Torgenem 08-05 przez Deepwood, na Cyplu od 08-14; Sad Rozjemczy zasiadl 08-16 (Torgen 08-18). Zold szesciu gajowych Glovera - kwota w bilansie Korony VIII (Gawen, ~09-10). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-01",

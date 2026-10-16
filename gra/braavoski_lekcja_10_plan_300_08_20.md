@@ -33,8 +33,8 @@
 
 ---
 
-## Do decyzji pana przed piątkiem (zostawione otwarte)
-- **Dom Czerni i Bieli** (kanon: świątynia **Boga o Wielu Twarzach**, na małej wysepce obok Wyspy Bogów, drzwi z czarnego i białego drewna) **w planie jest pominięty.** Pan może go dodać jako piąty przystanek albo zostawić na inny raz. Nie zostało to postanowione.
+## Dom Czerni i Bieli: POMINIĘTY (słowo pana 08-21)
+Na tej lekcji go nie ma. Jeśli któraś z sióstr zapyta o „świątynię z czarno-białymi drzwiami”, przewoźnik odpowiada: *„To nie na dziś”* i płynie dalej.
 
 ---
 

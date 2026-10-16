@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 26,
+  "dzien": 27,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 100 (300-08-26): dzien, jakich bywa kilka w roku - bezchmurnie, cieplo jak w lecie, lekki wiatr z polnocy; drogi suche; kruki lataja od switu.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 75 (300-08-27): dobrze - swit chlodny i czysty, rosa na blonii, potem slonce z rzadkimi chmurami; wiatr slaby z polnocnego zachodu; drogi suche; kruki lataja od switu.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -694,3 +694,28 @@
 *Dopisek spisującego:* Mały Walder zbladł przy płaszczach i Rickon chwycił go za rękę, choć sam wyglądał nie lepiej. Bran nic nie powiedział, ale gdy wychodziliśmy, spojrzał na mnie, jakby chciał zapytać o coś, o co nie pytają dzieci. Jojen zatrzymał się przy Niani i powiedział coś cicho. Niania pokręciła głową. Arya wyszła ostatnia i w progu powiedziała do mnie: *„Ramsay płynie z Królem na Skagos.”* To nie było pytanie.
 
 *Uwaga porządkowa (reguła Brana):* to, że Boltonowie byli Czerwonymi Królami z Dreadfortu i przez tysiące lat wojowali z Królami Zimy, ich obyczaj obdzierania wrogów ze skóry (płaszcze ze skór Starków), człowiek obdarty ze skóry na chorągwi, przysięga wierności Starkom około tysiąca lat przed Podbojem oraz zakaz obdzierania ze skóry na Północy to kanon. Król „pod murami Winterfell” to wersja Niani, która sama mówi, że nie wie. Zdanie „ten, kto klęczy, nadal ma kolana”, słowa Jojena i słowa Aryi to E. To, że Ramsay jest z dwudziestoma ludźmi przy wyprawie na Skagos, pochodzi z zapisu (list Boltona 07-22).
+
+## 33. O DWUDZIESTU WIEŻACH FOSY CAILIN
+*Spisane 300-08-25, w poniedziałek wieczorem, po kolacji, w izbie Niani. Pogodnie i chłodno, sosna w kominku. Słuchali Rickon i mały Walder, Bran z Meerą i Jojenem, Kudłacz pod ławą, Arya na podłodze. Pytał Rickon, który przy kolacji słyszał, że pan Namiestnik stawia na bagnie wieże: „Ile wież ma Fosa? I czemu jedna jest pijana?”*
+
+> Kiedyś miała dwadzieścia, dziecko. Postawili je Pierwsi Ludzie, kiedy jeszcze nie było Winterfell takiego, jakie znacie. Postawili je z czarnego bazaltu, który przywieźli z daleka, bo na bagnie nie ma kamienia. Dwadzieścia wież stało w kole i strzegło jedynej suchej drogi z południa na północ.
+>
+> Dziś zostały trzy. **Wieża Bramna**, przez którą idzie droga. **Wieża Dzieci**, bo mówią, że to z niej Dzieci Lasu zawołały Młot Wód, kiedy Pierwsi Ludzie szli na nich przez Przesmyk. Tę bajkę już znacie. I **Wieża Pijaka**, która stoi krzywo, jakby się zataczała po uczcie.
+>
+> A czemu się zatacza? Ja słyszałam, że kiedyś bagno przyszło do niej nocą i chciało ją zabrać ze sobą. Wieża się nie dała, ale już nigdy nie stanęła prosto. Ile w tym prawdy, nie wiem. Wiem, że stoi krzywo od tysięcy lat i dalej nie upadła.
+>
+> Kiedy z morza przyszli Andalowie, przeszli przez całe południe. Przeszli przez Dolinę, przez Dorzecze i przez Reach. A pod Fosą stanęli. Trzy wieże i bagno wystarczyły. Kto szedł groblą, tego wieże widziały, a kto zszedł z grobli, tego brało bagno. **Fosy Cailin nikt nigdy nie wziął od południa.** Nikt.
+>
+> *(Bran zapytał, czy pan Namiestnik postawi wszystkie dwadzieścia.)*
+>
+> Siedemnaście. Tyle mówią w Zimowym Mieście. Ile ich stanie, tego nie wiem. Ale jeśli ktoś znowu postawi dwadzieścia wież w kole, to bagno będzie miało znowu kogo pilnować.
+>
+> *(Meera powiedziała, że u nich mówi się inaczej: że wieże nie pilnują bagna, tylko bagno pilnuje wież.)*
+>
+> Może i tak, dziewczyno. Wy to wiecie lepiej ode mnie.
+>
+> Spać.
+
+*Dopisek spisującego:* Jojen przez całą bajkę patrzył na mnie, a nie na Nianię. Rickon zapytał na wychodnym, czy Wieżę Pijaka da się wyprostować. Odpowiedziałem, że nie i że lepiej jej nie ruszać. Arya powiedziała: „To dobrze. Niech się zatacza.”
+
+*Uwaga porządkowa (reguła Brana):* kanon: Fosę zbudowali Pierwsi Ludzie z bazaltu; było w niej około dwudziestu wież, a ostały się trzy: Wieża Bramna, Wieża Pijaka (pochylona) i Wieża Dzieci; z podania Wieża Dzieci jest miejscem, z którego wezwano Młot Wód; Andalowie nie przeszli Przesmyku, a Fosy nigdy nie zdobyto od południa. Wersja Niani (E): bagno przyszło nocą po Wieżę Pijaka. E: słowa Meery o bagnie, które pilnuje wież, oraz rozmowa po bajce. Z zapisu: siedemnaście wież Orbela (budowa od 07-01, pierwsza ~10-15).

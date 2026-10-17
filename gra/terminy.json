@@ -12259,9 +12259,9 @@
    "co": "SPIS OSADNIKOW Z DORZECZA PRZY FOSIE - ODPIS MIESIECZNY DLA EDMURE'A (list pana 08-13): komora Fosy (Rorik) + ksiega przybyszow (Roderyk/pisarz bramowy): imie, wies/lord, ilu z nim, co umie, dokad; odpis do Kancelarii WF co miesiac, Beron przekazuje do Riverrun. Wlasni - bez rzutu.",
    "kto": "GARRICK -> RORIK + RODERYK; BERON",
    "kanal": "kruk WF-Fosa; kruk WF-Riverrun",
-   "wraca": "300-09-03",
+   "wraca": "300-09-09",
    "zamyka": "pierwszy odpis (VIII) wyslany do Edmure'a",
-   "status": "otwarte"
+   "status": "otwarte ### 09-04 NIE PRZYSZLO I WIADOMO DLACZEGO: ksiega komory (Rorik) zamknieta za VIII 08-31, odpis Garrick robi po radzie - jedzie zbiorczym 09-07 (~09-09); dzis wichura, kruki nie lataja do poludnia. Nowy termin 09-09. ### POPRZEDNIO: otwarte"
   },
   {
    "data": "300-08-13",
@@ -13314,7 +13314,7 @@
    "kanal": "kruk Domu; kruk WF-Fosa",
    "wraca": "300-09-03",
    "zamyka": "odbitka z nowa karta tytulowa",
-   "status": "otwarte ### 09-01: Hal potwierdza znaki ~09-03"
+   "status": "zamkniete 300-09-03 ### beczka - znaki wg slowa pana (Hal 09-02, rachunek Lucana 09-03); kalendarz 301 - odbitka z karta 'Dom Fosy Cailin' (zbiorczy 08-31), w placowkach ~09-05. ### POPRZEDNIO: byl-otw ### 09-01: Hal potwierdza znaki ~09-03"
   },
   {
    "data": "300-08-27",
@@ -13701,7 +13701,7 @@
    "kanal": "komnata Namiestnika, WF",
    "wraca": "300-09-03",
    "zamyka": "rozmowa odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-03 ### odbyta: Konserwa Korony S-1..S-5, wdowy, Racja Polnocna, zapas w racjach. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-02",

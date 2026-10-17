@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 3,
+  "dzien": 4,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 59 (300-09-03): przecietnie - pochmurno, sucho, chlodny wiatr z polnocnego zachodu; po poludniu przejasnienia; drogi suche; kruki lataja.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 10 (300-09-04): bardzo zle - w nocy przyszla wichura z polnocnego zachodu, od switu zimna ulewa z wiatrem; drogi rozmiekly, w Zimowym Miescie zerwalo dwa dachy szop (E); kruki nie lataja do poludnia.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

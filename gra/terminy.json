@@ -11577,7 +11577,7 @@
    "kanal": "Winterfell",
    "wraca": "300-09-03",
    "zamyka": "proba II zdana",
-   "status": "otwarte ### 08-03: TRENING UWAZNOSCI u mistrza z Braavos (prosba pana): co rano jedna/dwie/trzy zmiany w sali; mowic glosno, co widac, przed dobyciem miecza; karty - kazdy wpis po kolei, palcem. Skutek - przy powtorce (rzut)."
+   "status": "zamkniete 300-09-03 ### RZUT 29 (prog 45): NIEZDANA - los: Gerta (Korpus); wpis po wpisie dziala, zatrzymala sie na wlasciwym wpisie, ale rachunek ulamka zly - uznala go za poprawny. Powtorka II ~10-03. ### POPRZEDNIO: byl-otw ### 08-03: TRENING UWAZNOSCI u mistrza z Braavos (prosba pana): co rano jedna/dwie/trzy zmiany w sali; mowic glosno, co widac, przed dobyciem miecza; karty - kazdy wpis po kolei, palcem. Skutek - przy powtorce (rzut)."
   },
   {
    "data": "300-08-03",
@@ -13872,6 +13872,15 @@
    "kanal": "kruk WF-Fosa (szyfr, pieczec domowa) 09-03; odpowiedz w raporcie rady lenna / zbiorczym",
    "wraca": "300-09-12",
    "zamyka": "plan rady lenna: forma, kto, liczby i miejsca, kosztorys Kasy 2, droga wzrostu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "ARYA - TRZECIE PODEJSCIE DO SZCZEBLA II (Kanon; za miesiac): obca karta, jeden blad, nauczyciel z innego wezla losem. Postep 09-03: wpis po wpisie juz dziala (wlasciwy wpis wskazany); do poprawy - RACHUNEK UDZIALOW Z ROZNEJ PODSTAWY (6/10 z 40 vs 3/5 z 50), liczyc na glos i sprawdzac odwrotnie.",
+   "kto": "ARYA (+ SYMON przygotowanie)",
+   "kanal": "Winterfell",
+   "wraca": "300-10-03",
+   "zamyka": "proba II zdana",
    "status": "otwarte"
   }
  ],

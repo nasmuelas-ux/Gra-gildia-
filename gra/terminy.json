@@ -8832,7 +8832,7 @@
    "kanal": "siatka Willi przez Braavos -> raport Willi (Winterfell)",
    "wraca": "300-09-10",
    "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; oczy na Pyke - raport Willi 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### meldunek siatki: PYKE rzut 27 ZLE - polowa langskipow, Balon niewidziany; linia oczu spalona (pomocnik pytal) (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; oczy na Pyke - raport Willi 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-07-01",
@@ -9210,7 +9210,7 @@
    "kanal": "kruk Winterfell-Fosa; z Pyke przez Braavos/Neste (siatka 14/35 dni)",
    "wraca": "300-09-10",
    "zamyka": "meldunek o monecie na targu w Lordsport",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### ZLOTO LORDSPORT: brak odpowiedzi (rzut 27 - sprawa Pyke); do skladow nie dopuszczono (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-07-11",
@@ -9273,7 +9273,7 @@
    "kanal": "ksiega Obaro -> Nesta -> Willa; karta SWIAT co miesiac 1.",
    "wraca": "300-09-10",
    "zamyka": "pierwszy odczyt w karcie SWIAT (zakupy tak/nie)",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### PENTOS/MYR rzut 16 BARDZO ZLE: zakupy zwykle; czlowiek Illyria pytal Obara; linia zatrzymana do slowa pana (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-07-11",
@@ -11017,9 +11017,9 @@
    "co": "ROZPOZNANIE PATRYCJATU - ZIMOWE MIASTO, CAILIN, BARROWTON, BIALY PORT (zlecenie pana 07-26). WILLA prowadzi (karta POLNOC - nowa rubryka PATRYCJAT), HAL dokłada BP i Barrowton z ksiag kantoru, LUCAN czyta i zestawia. NA KAZDE MIASTO: 5-10 rodow kupieckich i cechowych - czym handluja, skala majatku (maly/sredni/duzy), miejsce w lawie/radzie miasta, z kim powiazani (lord, Dom Tally, obcy dom), kto komu winien, stosunek do Korony i do Domu. 'Sluchac, nie pytac' - bez imienia Korony. Czesciowo w karcie 08-01 (co juz wiadomo), pelne - w karcie 09-01. Jakosc - RZUT przy oddaniu.",
    "kto": "WILLA (+ HAL, LUCAN)",
    "kanal": "kruk WF->Fosa pod pieczecia domowa i szyfrem Willi; Hal - kruk WF->BP",
-   "wraca": "300-09-10",
+   "wraca": "300-10-01",
    "zamyka": "rubryka PATRYCJAT dla czterech miast w karcie Willi",
-   "status": "otwarte ### 07-29 SLOWO PANA (u Lucana): BADA DALEJ - Lucan sam obchodzi Zimowe Miasto (targ, zajazd Sarry, Pod Dymiacym Polanem, owczarze Runa) i dopisuje rubryke ZM; Cailin, Barrowton, BP - z materialu Willi i Hala. Wstepnie ZM (E): Miarka, Sarra, Galbart Runo, Hob Sadza; brak lawy z pieczecia. Czesc - karta 08-01, calosc 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "otwarte ### 07-29 SLOWO PANA (u Lucana): BADA DALEJ - Lucan sam obchodzi Zimowe Miasto (targ, zajazd Sarry, Pod Dymiacym Polanem, owczarze Runa) i dopisuje rubryke ZM; Cailin, Barrowton, BP - z materialu Willi i Hala. Wstepnie ZM (E): Miarka, Sarra, Galbart Runo, Hob Sadza; brak lawy z pieczecia. Czesc - karta 08-01, calosc 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10 meldunek siatki: RZUT 24 ZLE - ZM i Cailin pelne, Barrowton cienko (garbarnia 2x), BP brak; calosc w karcie Willi 10-01."
   },
   {
    "data": "300-07-27",
@@ -11080,9 +11080,9 @@
    "co": "KLASYFIKACJA RZEMIOSLA POLNOCY (zlecenie Namiestnika w imieniu Korony): ZM, Cailin, Barrowton, BP - zaklady wieksze niz pojedyncze; typ, mistrz, ludzie, cech, wolumen, surowiec, odbiorca; 'brak' tez wpisac. Lista: gra/klasyfikacja_rzemiosla_polnocy_zlecenie_300_07_27.md. Razem z PATRYCJATEM. Jakosc - rzut przy oddaniu.",
    "kto": "HAL (BP, Barrowton) + WILLA (Cailin, ZM, siatka) -> LUCAN",
    "kanal": "kruk WF->BP rano 07-28; kruk WF->Fosa (szyfr)",
-   "wraca": "300-09-10",
+   "wraca": "300-10-01",
    "zamyka": "klasyfikacja w karcie Willi/Hala (czesc 08-01, calosc 09-01)",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: razem z patrycjatem (rzut 24) - czesciowe; calosc 10-01."
   },
   {
    "data": "300-07-28",
@@ -11674,9 +11674,9 @@
    "co": "KSIEGA MILCZENIA (slowo pana 08-03, rada Sansy; gra/ksiega_milczenia.md): Beron - czesc Korony, przeglad CO PONIEDZIALEK, zmiany rytmu do pana; Lucan - czesc Domu; Willa - rubryka POSLANCY POLUDNIA od karty 09-01 (liczyc poslancow, nie czytac listow). Cykl tygodniowy - po kazdym przegladzie: python3 gra/dzien.py odebrane ID DATA.",
    "kto": "BERON ; LUCAN ; WILLA",
    "kanal": "kancelaria WF; kruk WF-Fosa 08-04",
-   "wraca": "300-09-10",
+   "wraca": "300-09-15",
    "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
-   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: przeglad Berona 09-08 - rytm bez zmian; Dolina milczy; Dreadfort: listy Krola + chlodny list Roose'a (09-05). Nastepny 09-15."
   },
   {
    "data": "300-08-03",
@@ -11746,9 +11746,9 @@
    "co": "BACZENIE PRZY BRAMIE FOSY (stale, Willa; tresc w ukryte/prawda.md) - pisarze przy ksiedze przybyszow i komorze notuja pytania z ukrytego zlecenia; zgloszenie do pana od razu. Przeglad co miesiac w karcie Willi.",
    "kto": "WILLA",
    "kanal": "Fosa - posłaniec ustny / szyfr",
-   "wraca": "300-09-10",
+   "wraca": "300-10-01",
    "zamyka": "filar - stale baczenie (nie zamyka sie)",
-   "status": "otwarte - stale ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "otwarte - stale ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: VIII-IX nikt nie pytal. Przeglad z karta 10-01."
   },
   {
    "data": "300-08-04",
@@ -11829,7 +11829,7 @@
    "kanal": "kruk WF-Fosa (szyfr); kancelaria WF",
    "wraca": "300-09-10",
    "zamyka": "rubryka Dreadfortu w karcie Willi 09-01",
-   "status": "otwarte ### 08-07 PRZED POLUDNIEM: LUCAN SZYFRUJE i WYSYLA (kruk Domu WF-Fosa przed poludniem, pogoda 86; u Willi ~08-09): (a) kto z Dreadfortu jezdzi z moneta/po monete (BP, Barrowton, Bliznaki); (b) os Dreadfort-Bliznaki/Poludnie w rubryce Poslancow od 09-01; + UWAGA LUCANA (zasada 8): 10 wlocznikow Dreadfortu idzie na zachod z listu regenta (zbiorka WF do 08-25) - Willa ma ich ODLICZYC od ubytku ludzi, inaczej przeczyta wlasny rozkaz Korony jako znikanie ludzi. Bez imion, bez powodu, bez swiadka. (c) Beron - bez zmian (czesc Korony). Odpis szyfru - tylko w ksiedze Lucana. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### DREADFORT rzut 57 DOBRZE: kto jezdzi (czlowiek rzadcy + 2 straznikow do BP co miesiac); os Bliznieta - listy i wino (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 08-07 PRZED POLUDNIEM: LUCAN SZYFRUJE i WYSYLA (kruk Domu WF-Fosa przed poludniem, pogoda 86; u Willi ~08-09): (a) kto z Dreadfortu jezdzi z moneta/po monete (BP, Barrowton, Bliznaki); (b) os Dreadfort-Bliznaki/Poludnie w rubryce Poslancow od 09-01; + UWAGA LUCANA (zasada 8): 10 wlocznikow Dreadfortu idzie na zachod z listu regenta (zbiorka WF do 08-25) - Willa ma ich ODLICZYC od ubytku ludzi, inaczej przeczyta wlasny rozkaz Korony jako znikanie ludzi. Bez imion, bez powodu, bez swiadka. (c) Beron - bez zmian (czesc Korony). Odpis szyfru - tylko w ksiedze Lucana. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-05",
@@ -12000,7 +12000,7 @@
    "kanal": "kruk Domu WF-Fosa (szyfr)",
    "wraca": "300-09-10",
    "zamyka": "karta Willi",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### DOPISKI rzut 79 DOBRZE: Lys w zaciagu Lannisportu (weksle); Baelish - zboze Doliny do KP, 'lord Harrenhalu'; Lysa plotka; kapitanowie z Lys pytali o ujscie Goraczki i pomost GP (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-07",
@@ -12018,7 +12018,7 @@
    "kanal": "ustnie / kartka do pana",
    "wraca": "300-09-10",
    "zamyka": "kartka na stole pana",
-   "status": "otwarte ### 09-02: czeka na raport Willi o monecie (~09-10). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### KARTKA LUCANA O DREADFORCIE (wlasna, bez rzutu): mowi/robi - 'to przygotowanie, nie zdrada' (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 09-02: czeka na raport Willi o monecie (~09-10). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-08",
@@ -12063,7 +12063,7 @@
    "kanal": "kruk Domu WF-Fosa (szyfr)",
    "wraca": "300-09-10",
    "zamyka": "karta Willi",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### KTO PRZY DAENERYS: brak statkow ludzi Illyria w ksiedze portu (rzut 16 - sprawa Pentos); linia zatrzymana (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-08",
@@ -12072,7 +12072,7 @@
    "kanal": "kruk Domu WF-Fosa (szyfr)",
    "wraca": "300-09-10",
    "zamyka": "karta Willi z rubryka 'Lannisterowie - gdzie i co'",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### LANNISTEROWIE rzut 10 BARDZO ZLE: tylko poglosky; uspiony przy Bramie Blotnej przepadl; linia KP wstrzymana (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-08",
@@ -12693,7 +12693,7 @@
    "kanal": "kruk WF-Fosa (08-20 po poludniu) + siatka",
    "wraca": "300-09-10",
    "zamyka": "osobny meldunek Willi",
-   "status": "otwarte ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### MONETA DREADFORTU rzut 57 (ta sama sprawa): klient = kantor Mewiego Grodu kupujacy na statki Baelisha, zloto KP; moneta nie wraca widoczna droga (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-20",
@@ -13323,7 +13323,7 @@
    "kanal": "kruk Domu",
    "wraca": "300-09-10",
    "zamyka": "odpowiedz Willi (rzut)",
-   "status": "otwarte ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
+   "status": "zamkniete 300-09-10 ### ZRODLO ZDANIA rzut 55 DOBRZE: zasiane w VII w BP przez Lys (marynarze + pisarz kantoru lysenskiego), potem samo (gra/meldunek_siatki_willi_300_09_10.md) ### POPRZEDNIO: byl-otw ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-28",
@@ -14395,6 +14395,15 @@
    "wraca": "300-10-15",
    "zamyka": "odcinek do mrozu (meldunek Edrica) + pale pod most",
    "status": "otwarte ### 09-10 SLOWO PANA: CZEKAC - bez najmu; rece domeny po mlocce (~09-25, 40 ludzi), Konserwa pierwsza; do mrozu ~10 mil + pale, reszta wiosna 301."
+  },
+  {
+   "data": "300-09-10",
+   "co": "WILLA - SKUTKI MELDUNKU 09-10 (zasada 8): (1) PRZYSTAN - co powiedzial uspiony zabrany przez zlote plaszcze (znal tylko kuriera); linia KP wstrzymana; (2) PENTOS - czlowiek Illyria zauwazyl, ze patrzymy; linia wschodu wstrzymana; (3) PYKE - oczy spalone, szukac innych (nie przed X). Do slowa pana: Pentos (wznowic inna droga?), Przystan (czekac / wyslac?), Lys przy GP (wiecej niz czujnosc?). Wlasni - wynik ustalenia (co powiedzial uspiony) - RZUT przy karcie.",
+   "kto": "WILLA ; LUCAN",
+   "kanal": "szyfr Domu, kruk WF-Fosa",
+   "wraca": "300-10-01",
+   "zamyka": "karta Willi 10-01: stan linii KP, Pentos, Pyke",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

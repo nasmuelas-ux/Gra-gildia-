@@ -24,7 +24,7 @@ _Liczy Gawen, protokół Beron. Słucha Namiestnik jako regent (odpis dla Króla
 - **Komora Fosy (Rorik), VIII (E):** **~780 wozów**, z tego **~585 żywność** (przywóz 0) i **~195 inny towar**. Cło Korony **~64**. W VII (niepełna liczba dnia od 07-22) było ~58.
 - **Cło na wóz z innym towarem: ~0,33 smoka.** To jest **pierwsza linia bazowa.** Uszczelnienie da się zmierzyć od IX, porównując z tą liczbą.
 - *„Ruch dalej rośnie głównie tam, gdzie nie płaci. Od dziś przynajmniej wiem, ile płaci wóz, który płaci.”* (O)
-- **Komora Białego Portu:** księgi dalej brak. Torsen obiecał ją w paczce Hala ~09-15. **Dustinport:** Garth jest w objeździe, księgi brak.
+- **Komora Białego Portu:** ~~księgi dalej brak~~ (VOID, poprawki 09-10: **księga komory BP dotarła 09-05**). Z księgi za VIII (E): **~210 ładunków** (statki i wozy), cło Korony **~118**, na ładunek **~0,56**. To druga linia bazowa. **Dustinport:** Garth jest w objeździe, księgi brak.
 
 ## 3. CO NA IX I X (z zapisu, po poprawce dat 09-10)
 - **IX:** czynsz domeny w monecie po żniwach **+1 600**. Korekta wsteczna modelu z 09-01 **+6 012**. Wydatki: Konserwa S-6 i S-7, zbrojownia, wieże Cypla. Skrzynia na koniec IX duża.

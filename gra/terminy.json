@@ -14367,6 +14367,15 @@
    "kanal": "listy przez lordow",
    "wraca": "300-10-05",
    "zamyka": "pierwsze odpowiedzi matek (rzut) + slowo pana/Krola o trzech ostatnich synach",
+   "status": "otwarte ### 09-10 SLOWO PANA (sniadanie): 'OSTATNI SYNOWIE ZOSTAJA W DOMU' - trzech wraca do domow; zasada dla poboru Korony: ostatni syn (potwierdzony przez lorda na pismie) nie idzie. Krolowa pisze sama do trzech matek."
+  },
+  {
+   "data": "300-09-10",
+   "co": "POBOR WSCHODU - TRZECH OSTATNICH SYNOW DO DOMU (slowo pana 09-10): rozkaz Namiestnika do Donnela Obroka (Dustinport) - Hornwood, Stout, Umber (E) zwolnieni ze sluzby z przepustka z pieczecia Korony i strawa na droge z kasy garnizonu; pobor 49->46. Zasada: ostatni syn potwierdzony przez lorda na pismie (krolowa ma potwierdzenia z listow). Wlasni - bez rzutu.",
+   "kto": "SYMON -> DONNEL OBROK ; SER EDWYLE SZRON",
+   "kanal": "kruk WF-Fosa 09-10 + jezdziec Fosa-Dustinport",
+   "wraca": "300-09-16",
+   "zamyka": "trzech w drodze do domow (potwierdzenie Donnela w karcie II)",
    "status": "otwarte"
   }
  ],

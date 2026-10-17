@@ -148,3 +148,15 @@
 4. **Co z tego dla nas (propozycja, O):** *„Niech Olenna wie, że Lys pyta o pomost, przy którym rozładowują się jej statki. To jej zboże i jej eskorta. Nic nas to nie kosztuje, a eskorta Redwyne'ów zacznie patrzeć tam, gdzie trzeba. Olenna nie podziękuje, ale zapamięta.”*
    - **Ryzyko (O):** *„Jeśli powiemy jej też, że Lew buduje okręty na lyseński kredyt, Olenna zrozumie, że Lwu brakuje złota. Może to wykorzystać przeciw Tywinowi, a może sprzedać mu tę wiedzę. Tego bym jej nie dawała. Tylko pomost.”*
 5. **NAJGORSZY PRZYPADEK (nowy wiersz, O):** *„Lys zaproponuje Olennie tańsze Stopnie za to, żeby nam sprzedawała mniej. Wtedy zboże stanie się wojną nie przez Lwa, tylko przez Lys.”*
+
+### ⚑ SŁOWO PANA 300-09-10: Olennie dać znać **tylko o pomoście**.
+## BRAAVOS: ODCZYT SANSY 300-09-10 (pan: „Czyli misja w Braavos jest jeszcze ważniejsza, bo potencjalnie mogą nam pomóc”; O, bez rzutu)
+1. *„Tak. Ale Braavos nie pomaga. Braavos liczy. Pomoże tylko wtedy, kiedy pomoc mu się opłaci.”*
+2. **Co Braavos może:**
+   - **Bank** wie, kto w Lys podpisuje weksle i ile winien jest Lew;
+   - **Morski Lord**: Braavos założyli zbiegli niewolnicy, a Lys żyje z niewolników. *„Tej wrogości nie trzeba budzić, ona nie śpi.”*
+   - **Arsenał** potrzebuje drewna, które my mamy.
+3. **Co my niesiemy:** drewno, przewłokę poza Stopniami (*„każdy statek Braavos, który ominie Stopnie, to grosz, którego Lys nie dostanie, czyli to samo, co boli nas”*), faktorię w Cailin i papier Lwa, jeśli Król pozwoli.
+4. **Propozycja (O):** *„Wiosna to długo. Lys działa teraz. Niech zimą pójdzie list Króla do Morskiego Lorda i do Banku, przez Nestę, krótki: że przyjedziemy i z czym. Wtedy wiosną drzwi będą otwarte, a nie dopiero pukamy.”*
+5. *„I nie mówmy nikomu, kto płynie. Niech Lys myśli, że chodzi o drewno.”*
+6. Ciszej: *„Ja chcę tam jechać. Nie dla Lys.”* (O)

@@ -13260,7 +13260,7 @@
    "kanal": "na miejscu; listy przez lordow",
    "wraca": "300-09-10",
    "zamyka": "pierwsze listy/welna wyslane (meldunek przy stole)",
-   "status": "otwarte ### 09-10: krolowa przy sniadaniu (meldunek przy stole)."
+   "status": "zamkniete 300-09-10 ### przy sniadaniu: 49 listow przez 9 lordow (pisane 08-28 - 09-08), welna - pierwsza partia (49 wiazek) z woza Korony do Barrowton i Karholdu 09-06 (jej sakiewka); policzone: w 11 rodzinach ktos zginal na wojnie (E), 3 ludzi poboru to OSTATNI SYNOWIE u matek (E) - pytanie krolowej do pana ### POPRZEDNIO: byl-otw ### 09-10: krolowa przy sniadaniu (meldunek przy stole)."
   },
   {
    "data": "300-08-27",
@@ -14358,6 +14358,15 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-12",
    "zamyka": "lekcja 16 HV odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-10",
+   "co": "KROLOWA ROSLIN - MATKI POBORU WSCHODU, CIAG DALSZY (sprawa zyje - filar krolowej): odpowiedzi matek i zon przez lordow (cudza wola, dalekie wsie) + PYTANIE KROLOWEJ: 3 ludzi poboru to ostatni synowie u matek (E) - czy ida do Dustinportu jak inni? (do slowa pana / Krola).",
+   "kto": "KROLOWA ROSLIN ; lordowie wschodu",
+   "kanal": "listy przez lordow",
+   "wraca": "300-10-05",
+   "zamyka": "pierwsze odpowiedzi matek (rzut) + slowo pana/Krola o trzech ostatnich synach",
    "status": "otwarte"
   }
  ],

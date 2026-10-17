@@ -85,6 +85,28 @@
 - Akuszerka Korony (Gella) w drodze do Dreadfortu, na prośbę Królowej (08-27).
 - **Następne posiedzenie: 09-12** (rytm co 14 dni). Rachunki dalekich na piśmie.
 
+## 9. POMYSŁY I INICJATYWY RADY (karta VI, dopisane przez pana 08-28)
+- Każdy radny ma głos na **jedną rzecz, która usprawni królestwo**. Bez przygotowania na piśmie, ale z nazwiskiem w protokole.
+- *„Mówimy sobie «nie» i nie boimy się siebie.”* Krytyka jest obowiązkiem.
+- Edric Pług też może mówić, choć bez głosu w sprawach Rady.
+
+## 10. RAPORT WYWIADOWCZY (dopisane przez pana 08-28)
+**Przedstawia Namiestnik.** Same fakty, z pewnością **pewne / prawdopodobne / słuch** i wiekiem w dniach, **bez źródeł.** Zasady:
+- **Bez nazw źródeł Domu** (siatka): *„z naszych źródeł”*, jak przy kartach 08-27.
+- **Krzesło niejawne Korony** ma swoje reguły: fakty bez źródeł, nic jako jedyna podstawa czynu przeciw domowi. **Ani słowa, kto je zajmuje i że w ogóle istnieje.** Przy stole siedzą lady Catelyn, Rodwell i Edric, którzy o nim nie wiedzą.
+- Bez monety Dreadfortu (raport ~09-10), bez daru Brana, bez znaków wojny.
+- **Zakres (z zapisu):**
+  - **Lew:** płaci Skała, ~3000 / ~800 / na północ nikt, flota patrzy na Wyspy, kantor lyseński, Przystań (żołd, chleb, Bank) i *„Korona, którą trzyma Tally”* z odpowiedzią przyjętą 08-27;
+  - **żelaźni:** jeniec, czarny kadłub, Seagard (Mallister patrzy na kruki);
+  - **Maidenpool:** Duskendale;
+  - **Reach:** neutralność Olenny;
+  - **za Murem:** milczenie Mance'a.
+- **Na koniec:** czego nie wiemy i kiedy się dowiemy:
+  - ~09-03 Theon (odczyt Lwa);
+  - ~09-05 Braavos, Dorne i Mance;
+  - ~09-07 Edmure;
+  - ~09-10 raport o monecie Dreadfortu i źródle zdania.
+
 ---
 
 *Do protokołu po każdym punkcie: co postanowiono, kto to robi, do kiedy.*

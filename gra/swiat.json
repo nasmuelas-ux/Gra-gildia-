@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 11,
+  "dzien": 12,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 31 (300-09-11): slabo - szaro i zimno, mzawka od zachodu do poludnia, wiatr zachodni; drogi wilgotne; kruki lataja niechetnie, ale lataja.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 23 (300-09-12): ZLE - ulewa z wichura od zachodu od switu, zimno; drogi rozmiekle; kruki NIE lataja (do wieczora).",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

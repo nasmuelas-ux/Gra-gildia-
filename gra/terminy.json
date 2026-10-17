@@ -11611,9 +11611,9 @@
    "co": "MEWI GROD - DOKAD PLYNA STATKI BAELISHA (pan 08-03, odczyt Lucana; poczta pkt 2): nie kto placi - DOKAD, co wioza, ilu ludzi. WYNIK - RZUT przy meldunku.",
    "kto": "nasluch portu Mewi Grod (przez Hala/BP)",
    "kanal": "kruk WF-Fosa-BP + paczka BP-Gulltown (18 tam, 40 lacznie)",
-   "wraca": "300-09-12",
+   "wraca": "300-09-15",
    "zamyka": "meldunek nasluchu o kierunku statkow",
-   "status": "otwarte"
+   "status": "otwarte ### 09-12 NIE PRZYSZLO, WIADOMO DLACZEGO: nasluch Mewiego Grodu idzie paczka Hala (BP ~09-15); ULEWA 09-12 - kruki nie lataja. Czesciowo: meldunek siatki 09-10 (statki Baelisha woza zboze Doliny do KP)."
   },
   {
    "data": "300-08-03",
@@ -13654,9 +13654,9 @@
    "co": "LODZIE-PLOZY - PARTIA PROBNA ~60 WSZEDZIE, JAKO TEST (slowo pana 09-02): po ~6 na wezel - Fosa/Przesmyk, ZM/Bialy Noz, BP, Karhold/Ostatnia Rzeka, Ostatnie Domostwo, Placzaca Woda, Barrowton, Deepwood, Kamienny Brzeg, Wyspa Niedzwiedzia. Buduja ciesle ZM, Fosy, Karportu (+BP). Karta testu przy kazdej lodzi; lodz jest wsi (dar Korony). ~900 jeleni (Kasa 3). Gotowe ~XI. Lordowie - odbior i zgoda: RZUT przy odpowiedziach (kruki 09-03).",
    "kto": "GAWEN ; LUWIN ; ciesle ZM, Fosy, Karportu ; lordowie wezlow",
    "kanal": "kruki WF-lordowie (09-03); woz/barka z lodziami",
-   "wraca": "300-09-12",
+   "wraca": "300-09-14",
    "zamyka": "odpowiedzi lordow (rzut) + zamowienia u ciesli",
-   "status": "otwarte ### 09-02 SLOWO PANA: lodzie W RECE LORDOW ze wskazaniem rozdysponowania do wsi i osad; karta testu przy lodzi; wnioski przez lorda do Korony. ### 09-03 KRUKI WYSLANE (pieczec Namiestnika, reka Berona): KARSTARK (Rickard - Karhold/Ostatnia Rzeka + osobno: ciesle Karportu buduja swoje ~6, Korona placi), UMBER (Ostatnie Domostwo), BOLTON (Placzaca Woda), DUSTIN (Barrowton), GLOVER (Deepwood), MORMONT (Maege - Wyspa Niedzwiedzia), MANDERLY (BP - ~6 + pytanie o szkutnikow BP). Bez kruka (wlasne): ZM/Bialy Noz (Gawen), Kamienny Brzeg (Corwin - rozkaz), Fosa/Przesmyk (lenno - list do Miry). Tresc: dar Korony, test; ~6 lodzi w rece lorda ze wskazaniem rozdysponowania do wsi i osad; karta testu przy kazdej; wnioski przez lorda do Korony; gotowe ~XI. Odpowiedzi ~09-12 (RZUT przy kazdej)."
+   "status": "otwarte ### 09-02 SLOWO PANA: lodzie W RECE LORDOW ze wskazaniem rozdysponowania do wsi i osad; karta testu przy lodzi; wnioski przez lorda do Korony. ### 09-03 KRUKI WYSLANE (pieczec Namiestnika, reka Berona): KARSTARK (Rickard - Karhold/Ostatnia Rzeka + osobno: ciesle Karportu buduja swoje ~6, Korona placi), UMBER (Ostatnie Domostwo), BOLTON (Placzaca Woda), DUSTIN (Barrowton), GLOVER (Deepwood), MORMONT (Maege - Wyspa Niedzwiedzia), MANDERLY (BP - ~6 + pytanie o szkutnikow BP). Bez kruka (wlasne): ZM/Bialy Noz (Gawen), Kamienny Brzeg (Corwin - rozkaz), Fosa/Przesmyk (lenno - list do Miry). Tresc: dar Korony, test; ~6 lodzi w rece lorda ze wskazaniem rozdysponowania do wsi i osad; karta testu przy kazdej; wnioski przez lorda do Korony; gotowe ~XI. Odpowiedzi ~09-12 (RZUT przy kazdej). ### 09-12 NIE PRZYSZLO, WIADOMO DLACZEGO: ULEWA z wichura od zachodu (pogoda 23) - kruki nie lataja; odpowiedzi lordow - pierwsza poczta po pogodzie (~09-13/14), RZUTY przy czytaniu."
   },
   {
    "data": "300-09-02",
@@ -13872,7 +13872,7 @@
    "kanal": "kruk WF-Fosa (szyfr, pieczec domowa) 09-03; odpowiedz w raporcie rady lenna / zbiorczym",
    "wraca": "300-09-12",
    "zamyka": "plan rady lenna: forma, kto, liczby i miejsca, kosztorys Kasy 2, droga wzrostu",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-12 ### PRZYSZLO 09-09: plan rady lenna w zbiorczym Garricka (gra/zbiorczy_garricka_300_09_07.md pkt A) - przyjety slowem pana 09-09 (+ zapas w racjach - osobna operacja, Gerrik ~09-23) ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-03",
@@ -13969,9 +13969,9 @@
    "co": "DREWNO OKRETOWE -> BRAAVOS (slowo pana 09-04): drewno okretowe Korony (kolumny A/B, Wzor II poza tym) i Domu sprzedawac ARSENALOWI BRAAVOS (przez Neste/Hala), NIE stoczniom Lannisportu; Seagard bez zmian. Drewno okretowe lordow - Kompania/Dom skupuje pod Braavos (oferta, nie przymus). Cena i odbior Arsenalu - RZUT przy odpowiedzi.",
    "kto": "GAWEN (Korona) ; HAL + NESTA (Dom, Braavos) ; LUCAN",
    "kanal": "kruk WF-BP + statek BP-Braavos",
-   "wraca": "300-09-12",
+   "wraca": "300-10-20",
    "zamyka": "pierwsza oferta u Arsenalu / odpowiedz",
-   "status": "otwarte"
+   "status": "otwarte ### 09-12 NIE PRZYSZLO, WIADOMO DLACZEGO: list do Nesty statkiem BP-Braavos (~3 tyg.) i odpowiedz Arsenalu z powrotem - nie przed ~X."
   },
   {
    "data": "300-09-04",
@@ -13987,9 +13987,9 @@
    "co": "ZACHODNI BRZEG - CZUJNOSC ZWIEKSZONA (slowo pana 09-04) + ROZKAZ STALY: przy MALYM NAJEZDZIE (kilka kadlubow) nie tylko odeprzec - PRZEJMOWAC OKRETY I BRAC JENCOW (zywcem; jency do Korony, okrety do eskadry). Do: CORWIN i Brann Mokry (Kamienny Brzeg/Starkport), TORREN (admiral) + THEON (Dustinport), VEMUND/TORGEN (Cypel), MAEGE (przez Dacey), lenno: GARRICK + HENDRY + KESSEL (GP, ujscie, Jastrzebie - rozkaz lorda). Warty nocne podwojone, wieze ognia co noc, lodzie z kuszami w gotowosci. Kruki 09-05 rano (pieczec Namiestnika; lenno - pieczec lorda).",
    "kto": "SYMON -> CORWIN, TORREN, THEON, VEMUND, MAEGE ; GARRICK/HENDRY/KESSEL",
    "kanal": "kruki WF-Deepwood/Kamienny Brzeg, WF-Fosa, WF-Dustinport, Cypel",
-   "wraca": "300-09-12",
+   "wraca": "300-09-14",
    "zamyka": "potwierdzenia rozkazu z miejsc",
-   "status": "otwarte"
+   "status": "otwarte ### 09-12: Fosa/GP POTWIERDZONE (zbiorczy 09-09: rozkaz staly przeczytany przy ludziach). Reszta (Corwin, Torren, Theon, Vemund, Maege) - ULEWA, kruki nie lataja; z karta Donnela ~09-14."
   },
   {
    "data": "300-09-04",
@@ -14050,9 +14050,9 @@
    "co": "PENTOS - PO CZYJEJ STRONIE? (slowo pana 09-05, przed odpowiedzia domowi handlowemu z Pentos o drewno/futra): Willa (linia 'kto przy Daenerys' - ksiegi Obara, nasluch portu; bez pytan o Illyria w Pentos) + Lucan: czy dom z Pentos handluje z Lys/Lwem, kto za nim stoi. Do tego czasu oferta Pentos czeka.",
    "kto": "LUCAN -> WILLA ; OBARO (ksiegi)",
    "kanal": "szyfr Domu",
-   "wraca": "300-09-12",
+   "wraca": "300-10-01",
    "zamyka": "meldunek: czyj jest dom handlowy z Pentos",
-   "status": "otwarte"
+   "status": "otwarte ### 09-12: linia Pentos ZATRZYMANA (meldunek siatki 09-10: czlowiek Illyria pytal Obara) - odpowiedzi nie bedzie ta droga; domowi handlowemu z Pentos (drewno/futra) NIE odpowiadac do karty Willi 10-01 albo odpowiedzi Nesty (Volantis)."
   },
   {
    "data": "300-09-05",

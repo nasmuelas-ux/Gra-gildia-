@@ -81,3 +81,27 @@
 - **Lady Catelyn (O):** *„Stół Winterfell też jest na tej liście, przed budowami. Król to dopisał własną ręką.”*
 
 **DO SŁOWA PANA:** (A), (B), oba, czy inaczej?
+
+**⚑ POSTANOWIONO (słowo Namiestnika): OBA, (A) i (B).**
+- **(A)** Jeśli należności nie przyjdą do ~10-15, w X czeka najpierw **stół Winterfell** (uczty, konie; dopisek Króla), potem **budowy Korony** (trakty, UT-0K), według karty VII. Pilnuje **Gawen**, decyzja o wstrzymaniu ~10-15 przy bilansie IX.
+- **(B)** **Illyria w dwóch ratach:** ⅔ przy dostawie, ⅓ w XI. **Hal pyta faktora teraz** (kruk Domu 08-30). Zgoda faktora to cudza wola, **rzut przy odpowiedzi ~09-10.**
+
+## 4. DORZECZE I KOMPANIA
+- Lyman: odbudowa 8 domów zamiast ~14. Drugie pytanie po żniwach i po Maidenpool, ~10-01 (słowo pana 08-28: czekamy).
+- Konsulat w Riverrun: Król mówi *„nie teraz”*.
+- Człowiek Karstarka do wymiany w Maidenpool: w liście Króla.
+- **Bez postanowień**, przyjęte do wiadomości.
+
+## 5. DOMENA: PRZEKAZANIE EDRICOWI PŁUGOWI
+- **Gawen i Rodwell (O):**
+  - przekazanie **od 09-01**, przez tydzień wspólnie;
+  - kolejność: spis A/B/C, potem okręgi I–III (osadnictwo), czynsz w monecie, na końcu Wielkie Targi Rolnicze.
+- **Edric (O):** *„Najpierw okręg trzeci. Tam jest najgorzej i tam mnie znają najmniej.”*
+- Rodwell zostaje na czele agencji.
+- **Postanowiono:** przekazanie od 09-01. Edric pracuje jako Zarządca wyznaczony do przysięgi przed Królem.
+
+## 6. KORONA I LORDOWIE: CERWYN, „TRZECI RAZ”
+- **Beron (O):** *„Policzę z zapisu, kiedy i po co Korona sięgała do Cerwyna w trzechsetnym roku. Na dziś nie mam pełnej listy i nie podam liczby z pamięci.”* Lista do ~09-05.
+- **Lady Catelyn (O):** *„Medger nie liczy ludzi. Liczy, czy go pytano, czy mu kazano.”*
+- **Luwin (O):** *„Odpowiedź przez Króla. Medger płynie z nim, więc list do niego teraz trafi w morze.”*
+- **DO SŁOWA PANA:** czy odpowiadać Cerwynowi, a jeśli tak, to kiedy i przez kogo.

@@ -13378,6 +13378,42 @@
    "wraca": "300-09-01",
    "zamyka": "lekcja odbyta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "ILLYRIA - PLATNOSC W DWOCH RATACH (Mala Rada 08-29, B): 2/3 przy dostawie, 1/3 w XI. Hal pyta faktora (kruk Domu 08-30). Zgoda faktora - RZUT przy odpowiedzi.",
+   "kto": "HAL -> faktor ILLYRIA",
+   "kanal": "kruk Domu WF-BP + faktor",
+   "wraca": "300-09-10",
+   "zamyka": "odpowiedz faktora (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "GORSZY MIESIAC X (Mala Rada 08-29, A): jesli naleznosci (~1589) nie przyjda do ~10-15 - czeka najpierw STOL WINTERFELL (dopisek Krola), potem BUDOWY KORONY (trakty, UT-0K) wg karty VII. Gawen - decyzja przy bilansie IX.",
+   "kto": "GAWEN",
+   "kanal": "na miejscu",
+   "wraca": "300-10-15",
+   "zamyka": "bilans IX + decyzja o wstrzymaniu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "BERON - LISTA: ile razy i po co Korona siegala do CERWYNA w 300 (pkt 6 Rady 08-29), z zapisu, bez pamieci.",
+   "kto": "BERON",
+   "kanal": "na miejscu",
+   "wraca": "300-09-05",
+   "zamyka": "lista na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "DOMENA - PRZEKAZANIE EDRICOWI PLUGOWI od 09-01 (Mala Rada 08-29): tydzien wspolnie z Gawenem i Rodwellem; kolejnosc - spis A/B/C, okregi I-III (Edric: najpierw III), czynsz w monecie, Wielkie Targi Rolnicze.",
+   "kto": "GAWEN ; RODWELL ; EDRIC PLUG",
+   "kanal": "na miejscu",
+   "wraca": "300-09-08",
+   "zamyka": "przekazanie zakonczone",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

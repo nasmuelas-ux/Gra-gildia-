@@ -2244,9 +2244,9 @@
    "co": "GULLTOWN - NIE OTWIERAMY. DECYZJA SWIADOMA, NIE POMINIECIE. POWOD, SLOWAMI MEDRICKA: 'Placowka w miescie, ktorego pan nie powiedzial ani tak, ani nie, jest zakladem, nie interesem.' [VOID 300-04-13: Catelyn jest w Dorzeczu, nie w Dolinie.] Dolina nic nie powiedziala. ### WRACA, GDY DOLINA COKOLWIEK POWIE - i wtedy bedzie to decyzja o interesie, nie o zakladzie. ### 06-15: decyzja stoi; przeglad przy kartach krolestw (VII). ### 07-10 PRZEGLAD PANA: ZOSTAWIC - Gulltown zamkniete, dopoki Dolina nie przemowi. Nastepny przeglad przy kartach krolestw (VIII).",
    "kto": "SYMON",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-09-10",
+   "wraca": "300-10-10",
    "zamyka": "Dolina mowi cokolwiek - wtedy pytanie wraca",
-   "status": "otwarte - ODLOZONE Z POWODEM ### 08-10: Dolina milczy (Sansa 08-07: trzy strony Doliny, Royce przeciw Baelishowi) - decyzja zostaje; wraca, gdy Dolina cos powie."
+   "status": "otwarte - ODLOZONE Z POWODEM ### 08-10: Dolina milczy (Sansa 08-07: trzy strony Doliny, Royce przeciw Baelishowi) - decyzja zostaje; wraca, gdy Dolina cos powie. ### 09-10: Dolina dalej milczy (karta Willi 09-01 - biala plama; ksiega milczenia bez zmian) - decyzja stoi; nastepny przeglad z karta Willi 10-01/10-10."
   },
   {
    "data": "300-03-12",
@@ -8832,7 +8832,7 @@
    "kanal": "siatka Willi przez Braavos -> raport Willi (Winterfell)",
    "wraca": "300-09-10",
    "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; oczy na Pyke - raport Willi 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; oczy na Pyke - raport Willi 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-07-01",
@@ -9010,9 +9010,9 @@
    "co": "SMOCZE SZKLO - DRUGI LADUNEK ZE SMOCZEJ SKALY NA MUR (po slowie pana 07-09; zapis Pentos 299-12-29: Stannis 'BIERZCIE - cala wyspa, zylami'; trzy warunki: LICZONE, NA MUR nie do skarbca, PRZEWOZ NASZ). KROL: bierzemy, ile udzwigna kadluby - WSZYSTKO NA MUR (warunek dotrzymany; Mur to i tak front Polnocy); Winterfell - z torfu Fosy. WYKONANIE: ustnie do ser DAVOSA (nic na papierze - jego prosba), kanal przez Bialy Port; wyrab - ludzie Stannisa albo nasi lupacze (Melisandre: ostrze odlupuje czlowiek, ktory sie tego uczyl); kadlub - Wyman (jak przy pierwszym); ryzyko - Krolewska Przystan na drodze (Davos). Kosztorys przewozu - Kasa 3 (Gawen, E). KTO JEDZIE MOWIC Z DAVOSEM - do slowa pana. Wola Stannisa/Davosa - RZUT przy odpowiedzi. ### 07-09 POSLANIEC: przyboczny Korony - wybiera SER RODRIK (zasada 42): WYL BRANNIK (E; z Zimowego Miasta, ~30, plywal na okretach Wymana w 298 przeciw rajderom, malomowny, pisac nie umie - 'tym lepiej'). Wyjazd 07-10 o swicie do Bialego Portu (~6 dni), dalej kanalem Davosa przez Hala. Slowa do przekazania - od Krola, ustnie (Luwin powtarza z nim do skutku).",
    "kto": "WYL BRANNIK (przyboczny Korony) -> DAVOS -> STANNIS; WYMAN (kadlub); GAWEN (koszt)",
    "kanal": "poslaniec ustny przez Bialy Port",
-   "wraca": "300-09-10",
+   "wraca": "300-09-15",
    "zamyka": "ladunek na Murze albo odmowa/odroczenie",
-   "status": "otwarte ### 08-20 w poczcie BP brak wiesci; statek na Smocza Skale i z powrotem - nie przed ~09-10 (E)."
+   "status": "otwarte ### 08-20 w poczcie BP brak wiesci; statek na Smocza Skale i z powrotem - nie przed ~09-10 (E). ### 09-10 NIE PRZYSZLO, WIADOMO DLACZEGO: wiesc ze Smoczej Skaly idzie przez BP (Hal) - kolejna paczka BP razem ze Skrzynia Korony ~09-15; statek w obie strony nie przed tym (E). Wtedy RZUT (ladunek / odmowa / zwloka)."
   },
   {
    "data": "300-07-09",
@@ -9210,7 +9210,7 @@
    "kanal": "kruk Winterfell-Fosa; z Pyke przez Braavos/Neste (siatka 14/35 dni)",
    "wraca": "300-09-10",
    "zamyka": "meldunek o monecie na targu w Lordsport",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-07-11",
@@ -9273,7 +9273,7 @@
    "kanal": "ksiega Obaro -> Nesta -> Willa; karta SWIAT co miesiac 1.",
    "wraca": "300-09-10",
    "zamyka": "pierwszy odczyt w karcie SWIAT (zakupy tak/nie)",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-07-11",
@@ -9658,9 +9658,9 @@
    "co": "PENTOS - CENA I FRACHT ZBOZA DLA KORONY (slowo pana 07-16, piata kolumna rachunku Orlanda): zapytanie LINIA DOMU wg ustalen 05-25 (gra/zakupy_zboza_lato_300.md): pan -> HAL (Kasa 1, wyladunek w Bialym Porcie) -> NESTA (kantor Braavos, nad ksiega Pentos) -> OBARO (placowka Pentos). Pytanie: cena za korzec po zniwach Poludnia (VIII-IX), fracht do Bialego Portu za korzec, ile da sie kupic i w jakich partiach, kiedy moze dostarczyc (morze z Pentos do Bialego Portu NIE zamarza - bez terminu 'przed lodem'), czy kupiec przyjmie czesc towarem (futra, drewno, tran - BEZ OBSYDIANU: skreslony 06-07, warunek Stannisa, idzie na Mur; pan 07-16: obsydianu nie sprzedajemy). ZASADY Z ZAPISU: Dom wylacznie POSREDNIKIEM z kontraktem i prowizja, nie kupuje na wlasny rachunek (mur trzech kas); NIE przez dom Orrello; w liscie TYLKO kierunek Pentos - calosci nie widzi nikt poza Gawenem i Krolem. To zapytanie, NIE zakup - decyzja o zakupie nalezy do Krola. Szacunek Gawena 06-07 (E): ~20 jeleni + fracht ~8 za korzec. Odpowiedz przez Hala - E ~09 (statek BP-Braavos-Pentos i z powrotem).",
    "kto": "SYMON -> HAL -> NESTA -> OBARO",
    "kanal": "kruk Winterfell-Bialy Port (07-16 po poludniu), dalej statek Domu",
-   "wraca": "300-09-10",
+   "wraca": "300-09-15",
    "zamyka": "cena i fracht z Pentos na pismie od Hala -> do kolumny 5 rachunku Orlanda i do Gawena",
-   "status": "otwarte ### 07-30 DOPISEK PANA (kruk do Hala 07-31 rano, dalej Nesta -> Obaro): POROWNANIE - Obaro podaje cene i fracht dla ~45-60 tys. korcy (zboze jadalne + groch, bob) obok oferty FAKTORA ILLYRIA w BP; Korona kupuje u tanszego. ZASADA 8: odpowiedz Obara ~IX (statek), oferta Illyria ~08-08 - wiec I transza (VIII) idzie przez Illyria, II-III (IX-X) - po porownaniu."
+   "status": "otwarte ### 07-30 DOPISEK PANA (kruk do Hala 07-31 rano, dalej Nesta -> Obaro): POROWNANIE - Obaro podaje cene i fracht dla ~45-60 tys. korcy (zboze jadalne + groch, bob) obok oferty FAKTORA ILLYRIA w BP; Korona kupuje u tanszego. ZASADA 8: odpowiedz Obara ~IX (statek), oferta Illyria ~08-08 - wiec I transza (VIII) idzie przez Illyria, II-III (IX-X) - po porownaniu. ### 09-10 NIE PRZYSZLO, WIADOMO DLACZEGO: odpowiedz Obara jedzie statkiem Domu Pentos-Braavos-BP; Hal da ja w paczce BP ~09-15. Do tego czasu II-III transza: Reach +10 000 (09-06) i Illyria - porownanie dalej potrzebne na zakupy 301."
   },
   {
    "data": "300-07-16",
@@ -11019,7 +11019,7 @@
    "kanal": "kruk WF->Fosa pod pieczecia domowa i szyfrem Willi; Hal - kruk WF->BP",
    "wraca": "300-09-10",
    "zamyka": "rubryka PATRYCJAT dla czterech miast w karcie Willi",
-   "status": "otwarte ### 07-29 SLOWO PANA (u Lucana): BADA DALEJ - Lucan sam obchodzi Zimowe Miasto (targ, zajazd Sarry, Pod Dymiacym Polanem, owczarze Runa) i dopisuje rubryke ZM; Cailin, Barrowton, BP - z materialu Willi i Hala. Wstepnie ZM (E): Miarka, Sarra, Galbart Runo, Hob Sadza; brak lawy z pieczecia. Czesc - karta 08-01, calosc 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 07-29 SLOWO PANA (u Lucana): BADA DALEJ - Lucan sam obchodzi Zimowe Miasto (targ, zajazd Sarry, Pod Dymiacym Polanem, owczarze Runa) i dopisuje rubryke ZM; Cailin, Barrowton, BP - z materialu Willi i Hala. Wstepnie ZM (E): Miarka, Sarra, Galbart Runo, Hob Sadza; brak lawy z pieczecia. Czesc - karta 08-01, calosc 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-07-27",
@@ -11082,7 +11082,7 @@
    "kanal": "kruk WF->BP rano 07-28; kruk WF->Fosa (szyfr)",
    "wraca": "300-09-10",
    "zamyka": "klasyfikacja w karcie Willi/Hala (czesc 08-01, calosc 09-01)",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-07-28",
@@ -11541,7 +11541,7 @@
    "kanal": "kruki",
    "wraca": "300-09-10",
    "zamyka": "lista II grupy pelna u Bryndena",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 PRZYSZLO: kruki z Deepwood (Glover) i z Torrhen's Square (Tallhart) w porannej poczcie - na stole pana; RZUTY przy czytaniu."
   },
   {
    "data": "300-08-02",
@@ -11676,7 +11676,7 @@
    "kanal": "kancelaria WF; kruk WF-Fosa 08-04",
    "wraca": "300-09-10",
    "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
-   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-03",
@@ -11748,7 +11748,7 @@
    "kanal": "Fosa - posłaniec ustny / szyfr",
    "wraca": "300-09-10",
    "zamyka": "filar - stale baczenie (nie zamyka sie)",
-   "status": "otwarte - stale ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte - stale ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-04",
@@ -11829,7 +11829,7 @@
    "kanal": "kruk WF-Fosa (szyfr); kancelaria WF",
    "wraca": "300-09-10",
    "zamyka": "rubryka Dreadfortu w karcie Willi 09-01",
-   "status": "otwarte ### 08-07 PRZED POLUDNIEM: LUCAN SZYFRUJE i WYSYLA (kruk Domu WF-Fosa przed poludniem, pogoda 86; u Willi ~08-09): (a) kto z Dreadfortu jezdzi z moneta/po monete (BP, Barrowton, Bliznaki); (b) os Dreadfort-Bliznaki/Poludnie w rubryce Poslancow od 09-01; + UWAGA LUCANA (zasada 8): 10 wlocznikow Dreadfortu idzie na zachod z listu regenta (zbiorka WF do 08-25) - Willa ma ich ODLICZYC od ubytku ludzi, inaczej przeczyta wlasny rozkaz Korony jako znikanie ludzi. Bez imion, bez powodu, bez swiadka. (c) Beron - bez zmian (czesc Korony). Odpis szyfru - tylko w ksiedze Lucana. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 08-07 PRZED POLUDNIEM: LUCAN SZYFRUJE i WYSYLA (kruk Domu WF-Fosa przed poludniem, pogoda 86; u Willi ~08-09): (a) kto z Dreadfortu jezdzi z moneta/po monete (BP, Barrowton, Bliznaki); (b) os Dreadfort-Bliznaki/Poludnie w rubryce Poslancow od 09-01; + UWAGA LUCANA (zasada 8): 10 wlocznikow Dreadfortu idzie na zachod z listu regenta (zbiorka WF do 08-25) - Willa ma ich ODLICZYC od ubytku ludzi, inaczej przeczyta wlasny rozkaz Korony jako znikanie ludzi. Bez imion, bez powodu, bez swiadka. (c) Beron - bez zmian (czesc Korony). Odpis szyfru - tylko w ksiedze Lucana. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-05",
@@ -12000,7 +12000,7 @@
    "kanal": "kruk Domu WF-Fosa (szyfr)",
    "wraca": "300-09-10",
    "zamyka": "karta Willi",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-07",
@@ -12018,7 +12018,7 @@
    "kanal": "ustnie / kartka do pana",
    "wraca": "300-09-10",
    "zamyka": "kartka na stole pana",
-   "status": "otwarte ### 09-02: czeka na raport Willi o monecie (~09-10)."
+   "status": "otwarte ### 09-02: czeka na raport Willi o monecie (~09-10). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-08",
@@ -12063,7 +12063,7 @@
    "kanal": "kruk Domu WF-Fosa (szyfr)",
    "wraca": "300-09-10",
    "zamyka": "karta Willi",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-08",
@@ -12072,7 +12072,7 @@
    "kanal": "kruk Domu WF-Fosa (szyfr)",
    "wraca": "300-09-10",
    "zamyka": "karta Willi z rubryka 'Lannisterowie - gdzie i co'",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-08",
@@ -12693,7 +12693,7 @@
    "kanal": "kruk WF-Fosa (08-20 po poludniu) + siatka",
    "wraca": "300-09-10",
    "zamyka": "osobny meldunek Willi",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-20",
@@ -13042,9 +13042,9 @@
    "co": "MODEL FLOTY KORONY - BADANIE (slowo pana 08-24: 'zbadam to, to pytanie o model dla Korony'): krol buduje i placi / lord wystawia (Manderly) / kapitan-wlasciciel (wzor Torrena) / najemne zagle / model Braavos (Arsenal - rezerwa kadlubow, Morski Lord). Zrodla: BRYNDEN (Stopnie, osobiscie), NESTA (jak Braavos placi i obsadza flote Morskiego Lorda - list statkiem), TORREN i MAEGE (ludzie i kadluby zachodu), LUCAN (koszt). Wlasna praca pana - bez rzutu; odpowiedzi obcych - przy wiesci.",
    "kto": "SYMON ; BRYNDEN ; NESTA ; TORREN ; MAEGE ; LUCAN",
    "kanal": "osobiscie WF; list do Nesty statkiem; kruki",
-   "wraca": "300-09-10",
+   "wraca": "300-09-20",
    "zamyka": "karta 'model floty Korony' na stole pana - do Krola po powrocie",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10: czesci Bryndena (okrety wojenne, zalogi) i Torrena (Dustinport, ciesle) sa u Lucana na pismie (E); brak czesci NESTY (Braavos - jak Arsenal i Morski Lord placa za flote) - statek ~09-15 przez Hala; MAEGE - przy odpowiedzi o 100 lodziach (~10-15) tylko dopisek. Lucan sklada karte ~09-20."
   },
   {
    "data": "300-08-25",
@@ -13123,9 +13123,9 @@
    "co": "MANCE - WEZWANIE DO ODPOWIEDZI (slowo pana 08-25): liczba ognisk i dusz (warunek Krola), relacja zza Muru, droga i dzien przeprawy - list Namiestnika w imieniu Krola przez Czarny Zamek i posla; ton: wezwanie, nie prosba. Odzew - RZUT.",
    "kto": "SYMON -> MANCE (przez CZ / posla)",
    "kanal": "kruk WF-Czarny Zamek + poslaniec za Mur",
-   "wraca": "300-09-10",
+   "wraca": "300-10-15",
    "zamyka": "odpowiedz Mance'a",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 NIE PRZYSZLO, WIADOMO DLACZEGO: poslaniec za Mur wyszedl z Czarnego Zamku ~08-30 (E); droga do obozow Mance'a i z powrotem - nie przed polowa X. Aemon (09-07) o odpowiedzi nie wspomina."
   },
   {
    "data": "300-08-25",
@@ -13260,7 +13260,7 @@
    "kanal": "na miejscu; listy przez lordow",
    "wraca": "300-09-10",
    "zamyka": "pierwsze listy/welna wyslane (meldunek przy stole)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10: krolowa przy sniadaniu (meldunek przy stole)."
   },
   {
    "data": "300-08-27",
@@ -13323,7 +13323,7 @@
    "kanal": "kruk Domu",
    "wraca": "300-09-10",
    "zamyka": "odpowiedz Willi (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe."
   },
   {
    "data": "300-08-28",
@@ -13384,9 +13384,9 @@
    "co": "ILLYRIA - PLATNOSC W DWOCH RATACH (Mala Rada 08-29, B): 2/3 przy dostawie, 1/3 w XI. Hal pyta faktora (kruk Domu 08-30). Zgoda faktora - RZUT przy odpowiedzi.",
    "kto": "HAL -> faktor ILLYRIA",
    "kanal": "kruk Domu WF-BP + faktor",
-   "wraca": "300-09-10",
+   "wraca": "300-09-15",
    "zamyka": "odpowiedz faktora (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 NIE PRZYSZLO, WIADOMO DLACZEGO: Hal zbiera odpowiedz faktora Illyrii do paczki BP ~09-15 (razem z wiescia o skrzyni); w ksiedze raty juz rozpisane (10-31) - jesli faktor nie przyjmie 1/3 w XI, zmiana raty. RZUT przy paczce."
   },
   {
    "data": "300-08-29",
@@ -13555,9 +13555,9 @@
    "co": "CZLOWIEK KORONY PRZY KOMORZE BP - OSMUND KRESKA (E, izba uczniowska WF, 16 l.): kontrola rownolegla - wlasna ksiega, nic nie pobiera, nie porownuje; ksiega co miesiac do Gawena. Wikt Korony, zold praktykanta 1 jelen/dzien. Woz Korony do BP ~09-03, na miejscu ~09-10. List Gawena do Wymana 09-02 - przyjecie: RZUT przy odpowiedzi.",
    "kto": "GAWEN ; BERON ; OSMUND KRESKA ; WYMAN (wiadomosc)",
    "kanal": "woz Korony WF-BP; kruk WF-BP",
-   "wraca": "300-09-10",
+   "wraca": "300-09-15",
    "zamyka": "Osmund przy komorze + odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 NIE PRZYSZLO, WIADOMO DLACZEGO: woz Korony z Osmundem do BP ~7 dni (wyjazd ~09-02, E) - na miejscu ~09-09; meldunek Hala i odpowiedz Wymana w paczce BP ~09-15 (RZUT przy odpowiedzi Wymana)."
   },
   {
    "data": "300-09-01",
@@ -14250,7 +14250,7 @@
    "kanal": "na miejscu (WF) + kruk do Brenna",
    "wraca": "300-09-10",
    "zamyka": "stan T1-B i T3-C na pismie",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10: Gawen + Edric Plug u pana po sniadaniu (umowione 09-09) - stan T1-B i T3-C."
   },
   {
    "data": "300-09-08",
@@ -14455,7 +14455,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-09-07",
+   "ostatnio_odebrane": "300-09-08",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"

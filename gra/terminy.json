@@ -13575,7 +13575,7 @@
    "kanal": "osobiscie",
    "wraca": "300-09-02",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-02 ### slowo pana: (1) a; (2) sieroty z Westeros i Essos, sierocince + szkoly, nie podbierac dzieci - najpierw Mira; (3) Torsen tymczasowo Cailin/ZM/Barrowton; (4) drugi nabor ~X, docelowo 300; (5) Mira ocenia obrys; (6) Edric Szuwar - dalej w Jastrzebiach. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-02",
@@ -13584,6 +13584,42 @@
    "kanal": "kruk Fosa-Dustinport",
    "wraca": "300-09-08",
    "zamyka": "odpowiedz stoczni (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "SIEROTY Z WESTEROS I ESSOS - NOWA ZASADA PANA (09-02): nie podbierac dzieci rodzinom; Dom i lenno organizuja SIEROCINCE i miejsca w szkolach, talenty wylawia sie sposrod nich. LIST PANA DO MIRY - co mysli (kruk szyfrem Domu). Odpowiedz Miry - wlasna (bez rzutu); septoni/obcy - rzut przy pierwszym kroku.",
+   "kto": "SYMON -> MIRA",
+   "kanal": "kruk WF-Fosa (szyfr Domu)",
+   "wraca": "300-09-06",
+   "zamyka": "odpowiedz Miry na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "FAKTOR KROLEWSKI - TORSEN TYMCZASOWO TAKZE DLA CAILIN, ZIMOWEGO MIASTA I BARROWTON (slowo pana 09-02), do obsadzenia stalego. List Gawena; Torsen ustala, kto go zastepuje na miejscu (pisarz/zastepca).",
+   "kto": "GAWEN -> TORSEN",
+   "kanal": "kruk WF-BP",
+   "wraca": "300-09-08",
+   "zamyka": "odpowiedz Torsena + zastepcy wskazani",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "SZKOLA FOSY - DRUGI NABOR PO MLOCCE (~X), DOCELOWO 300 UCZNIOW (slowo pana 09-02). Mira + lowcy; rzut na odzew przy naborze.",
+   "kto": "MIRA",
+   "kanal": "Fosa",
+   "wraca": "300-10-15",
+   "zamyka": "lista po drugim naborze (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "OBRYS POLACZENIA MUROW FOSY I CAILIN (Weylin) - MIRA SPRAWDZA I OCENIA; w razie potrzeby przywozi rysunek do WF (slowo pana 09-02).",
+   "kto": "MIRA ; WEYLIN",
+   "kanal": "Fosa",
+   "wraca": "300-09-20",
+   "zamyka": "ocena Miry / rysunek",
    "status": "otwarte"
   }
  ],

@@ -13531,6 +13531,24 @@
    "wraca": "300-09-15",
    "zamyka": "sol i zboze na Wyspie",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-01",
+   "co": "CLO BP - KSIEGA KOMORY VI-VIII I PRZEWOZ SKRZYNI KORONY Z BP DO WF (~786, rewizja Gawena 09-01): kruk do Torsena; przewoz z Halem. Wlasni - bez rzutu.",
+   "kto": "GAWEN -> TORSEN (Faktor BP) ; HAL",
+   "kanal": "kruk WF-BP; woz/statek",
+   "wraca": "300-09-05",
+   "zamyka": "ksiega komory BP na stole Gawena + skrzynia w WF",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-01",
+   "co": "DO SLOWA PANA (rewizja 09-01): (1) 1/2 rat Reach i Illyrii w towarze (drewno, futra, tran, welna) - propozycja Gawena; (2) czlowiek Korony przy komorze BP (kontrola rownolegla) - kto.",
+   "kto": "SYMON",
+   "kanal": "osobiscie",
+   "wraca": "300-09-02",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

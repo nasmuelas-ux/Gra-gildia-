@@ -14025,7 +14025,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-08",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 09-07 PLAN GOTOWY (gra/braavoski_lekcja_15_plan_300_09_07.md): temat pana - KUCHNIA BRAAVOS; scenka 'Na nabrzezu rybnym przed kolacja magistra' - Arya sprzedaje z wozka, Sansa kupuje na kolacje dla szesciu za 40 miedziakow; siostry po jednej stronie celu; 16 slow; zadanie na 16 - przepis z kuchni WF. RZUT przy lekcji."
+   "status": "zamkniete 300-09-08 ### RZUT 51 SUKCES: kolacja za 38 z 40, reszta 2 po braavosku; ~12 z 16 slow; czesc 4 przeszla. ### POPRZEDNIO: byl-otw ### 09-07 PLAN GOTOWY (gra/braavoski_lekcja_15_plan_300_09_07.md): temat pana - KUCHNIA BRAAVOS; scenka 'Na nabrzezu rybnym przed kolacja magistra' - Arya sprzedaje z wozka, Sansa kupuje na kolacje dla szesciu za 40 miedziakow; siostry po jednej stronie celu; 16 slow; zadanie na 16 - przepis z kuchni WF. RZUT przy lekcji."
   },
   {
    "data": "300-09-05",
@@ -14223,6 +14223,15 @@
    "kanal": "posiedzenie WF",
    "wraca": "300-09-12",
    "zamyka": "decyzja Rady",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-08",
+   "co": "BRAAVOSKI - LEKCJA 16 (pt 09-12? - Mala Rada tego dnia; termin do ustalenia przez pana): zadanie z 15 - trzy zdania przepisu z kuchni WF po braavosku (od kucharza Gage'a, E). Temat - do wyboru pana.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-11",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

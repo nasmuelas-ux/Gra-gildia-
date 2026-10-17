@@ -103,3 +103,16 @@ Szczegóły w dzienniku 300-09-03 (odczyty Gawena i Edrica, pytania do słowa pa
 ### DO SŁOWA PANA
 1. **Zapłata:** dniówka z posiłkiem, czy od beczki z udziałem?
 2. **Królowa:** czy zaprosić ją jako patronkę wdów przy konserwie Korony (jej opieka nad rodzinami poboru), czy prowadzi sama domena?
+
+### ⚑ SŁOWO PANA (09-03, w solarze królowej)
+- **Każda wdowa i każdy wdowiec**, nie tylko z poboru.
+- **Zapłata od beczki z udziałem:** jedna beczułka na dziesięć dla siebie.
+- **Rady królowej (rzut 79), przyjęte do wykonania przez Edrica:**
+  - wdowa może kisić w domu z solą i beczką Korony, a Korona odbiera beczkę; przy kiszarni jest kąt dla dzieci;
+  - mówi się **„zapłata”**, nie „pomoc”;
+  - **klucznica komory: klucz jako honor**;
+  - stara uczy młodą.
+- **Spis:**
+  - najpierw lista królowej (138 wdów poboru, Tommen);
+  - pozostałych dopisze Edric: rubryka „wdowa/wdowiec” w spisie rezerwy domeny po młocce.
+- Patronatu królowej nie proponowano. Pan pytał tylko o zdanie.

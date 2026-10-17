@@ -296,6 +296,16 @@
      "do": "300-06-30",
      "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Zapis 300-03-18: ~650 z 695 zwrotu Korony w towarze = kapital wiosenny; marza Hala 12-18 proc. -> 78-117 ponad sam zwrot, rozlozone na IV-VI. Rubryka osobna, obok wyniku standardowego (prosba pana 300-04-23). ZDARZENIE SPECJALNE - poza korekta skali, zeby nie liczyc dwa razy.",
      "bez_skali": true
+    },
+    {
+     "nazwa": "SZARE PLASZCZE - ODDZIAL OBRONNY DOMU (20) - zold i wikt",
+     "typ": "koszt",
+     "min": 1.2,
+     "max": 1.8,
+     "okres": "miesiac",
+     "od": "300-09-20",
+     "do": null,
+     "zrodlo": "SLOWO PANA 300-09-11: 20 x 40 miedziakow/dzien (kurs) ~1,2 + wikt i kwatera do ~1,8 (E)"
     }
    ],
    "nieznane": [
@@ -1543,6 +1553,13 @@
    "kwota": -8,
    "opis": "S-7 ZAPAS LEKOW KORONY - zakup roku I, czesc z domeny i Polnocy (plotno wdow, ocet, miod, mech Apteki Bagna po cenie, skrzynie, narzedzia) ~55 w 7 ratach (E)",
    "zrodlo": "SLOWO PANA 300-09-09 'Zakup na rok' - gra/zapas_lekow_korony_300_09_09.md"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -30,
+   "opis": "SZARE PLASZCZE - ODDZIAL OBRONNY DOMU (20): ekwipunek (plaszcze, kolczugi, miecze, tarcze, wlocznie) + kwatera w ZM - jednorazowo (E)",
+   "zrodlo": "SLOWO PANA 300-09-11"
   }
  ],
  "_symulacje": {

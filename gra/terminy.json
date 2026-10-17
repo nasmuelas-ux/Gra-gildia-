@@ -14512,6 +14512,15 @@
    "wraca": "300-09-20",
    "zamyka": "potwierdzenie Hala (Nesta - przy jej liscie)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-11",
+   "co": "SZARE PLASZCZE - ODDZIAL OBRONNY DOMU (20) (slowo pana 09-11): Sten werbuje 20 (weterani wojny, ZM, Fosa) - Kasa 1; dowodca Gerold Popiol (E, z oddzialu I); kwatera w ZM (dom najmowany), zadania: izby Lucana, faktor ZM, wsparcie komnat Tallych w WF; rejestracja u ser Rodrika; ekwipunek ~30 (Kasa 1). ILU DOBRYCH - RZUT przy naborze. Zasada 8 (Sten): 'dwudziestu zbrojnych kupca w miescie Krola' a zdanie o Tallych - stad rejestracja i znak Domu, nie wilk.",
+   "kto": "STEN ; GEROLD POPIOL (E) ; SER RODRIK (rejestracja)",
+   "kanal": "na miejscu (WF/ZM)",
+   "wraca": "300-09-20",
+   "zamyka": "nabor odbyty (rzut) - lista imienna, kwatera, ekwipunek",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

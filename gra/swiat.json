@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 30,
+  "dzien": 31,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 91 (300-08-30): bardzo dobrze - czyste niebo, cieplo jak w lecie, bez wiatru; drogi suche; kruki lataja od switu.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 78 (300-08-31): dobrze - pogodnie, rano rosa i chlod, w dzien slonce z wysokimi chmurami; wiatr slaby z zachodu; drogi suche; kruki lataja od switu.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

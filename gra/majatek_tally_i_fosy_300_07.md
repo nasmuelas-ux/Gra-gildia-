@@ -43,7 +43,7 @@
 | 29 | ~~**Szare Płaszcze**, przyboczna Domu (20 + Sten)~~ ⚑ **DO LENNA od 08-01** (słowo pana 07-26; `majatek_rodu_tally_300_07.md` §4) | — | działa | **Sten** |
 | 30 | **Internat szkoły** (stara stajnia) | Fosa | ~08-25; wykryto wilgoć | Dom płaci |
 | 31 | **Kocioł Zimowy** (jałmużna Domu) | Cailin, przy wadze | od pierwszego mrozu | rachmistrz reliefu, Mella |
-| 32 | **Dom dla sierot** | Cailin, przy szkole | przed zimą | Mira, Alys, Hal |
+| 32 | ~~**Dom dla sierot**~~ ⚑ **PRZENIESIONY DO LENNA 300-09-08 jako przedsiębiorstwo lenna „DOM DZIECKA”** (słowo pana). Patrz §2, nr 24. | Cailin, przy szkole | — | — |
 | — | *Kamieniczka przy Schodach* | Biały Port | **sprzedana ~300-03-11**, nie należy już do Domu | — |
 
 ---
@@ -77,6 +77,7 @@
 | 21 | **Drużyna / garnizon** (~50) | działa | **Hendry** |
 | 22 | **Mchowe Jastrzębie** + ich przystań (20, docelowo 100) | działa | **Kessel** |
 | 23 | **Sąd grodzki** (księga przybyszów), **kancelaria i archiwum**, **skarbiec lenna** | działają | Roderyk; Garrick, Haldor; Gerrik |
+| 24 | **DOM DZIECKA**: przedsiębiorstwo lenna (słowo pana 300-09-08). Sierociniec przy internacie szkoły Fosy (12 łóżek na start). Sieroty z Dorzecza (Lyman), z Essos (Nesta, ostrożnie) i z ziem Północy, **przez septy i z ich błogosławieństwem**. Nauka razem z innymi dziećmi, talent pokaże się sam. Koszt ~3 smoki na dziecko rocznie, **Kasa 2** (wcześniej Dom, 09-06) | od ~X (pierwsze dzieci) | **Mira** (prowadzi), Alys; rachunek Gerrik/Warryn |
 
 ---
 

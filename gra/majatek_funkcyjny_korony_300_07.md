@@ -29,6 +29,7 @@
 | 22 | **KONSERWA KORONY: przetwórnie okręgowe, po 4 izby** (ryba, mięso, warzywa i owoce, mleko i ser) | Podgrodzie (start 09-05 w **składzie Domu Starków przy targu ZM**, zdjętym z listy sprzedaży 09-04), Siedem Młynów, Gościniec | budowa X; ~20 ludzi na przetwórnię | starsza (wdowa, klucz) + wędzarz (wdowiec) |
 | 23 | **KONSERWA KORONY: praca nakładcza wdów i wdowców** | domy w okręgu I, od 301 w okręgach I–III | od 09-05; lista królowej (138) + spis domeny po młocce | Edric; płaca od beczki, udział 1/10 |
 | 24 | **KONSERWA KORONY S-6: ZBIERACZE WILCZEGO LASU** (strategiczne, 09-09): dniówki dla wsi okręgu V za grzyby, jagody, orzechy, dziką różę, jarzębinę i żurawinę | 5 punktów skupu i suszarni: Dolny Bór, Czerwony Strumień, Smolna Polana, Pszczela Poręba, Dzicza Ostoja | IX–XI; ~300 zbieraczy | Edric Pług; leśniczy Korony + Cob |
+| 25 | **KONSERWA KORONY S-7: ZAPAS LEKÓW KORONY** (strategiczne, 09-09): miara „skrzynia setki” (100 ludzi × 1 miesiąc zimy, ~0,6 smoka, E); cel A/B/C = 280 skrzyń (~160), propozycja roku I ~185 (~105, do słowa pana) | skład pod wieżą maestera WF; skrzynie w garnizonach | od IX; rotacja ziół co rok | nadzór maester Luwin; klucznik apteczny Hilda Ziele (E) |
 
 ## B. WSPÓLNE / UDZIAŁ KORONY
 - **Przystań Wilka**: Korona ma 1/2, Cerwyn 1/4, Manderly 1/4.

@@ -14305,6 +14305,15 @@
    "wraca": "300-09-25",
    "zamyka": "pierwszy meldunek: ilu zbiera, ile w suszarniach (rzut odzewu)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-09",
+   "co": "KONSERWA KORONY S-7 - ZAPAS LEKOW KORONY (slowo pana 09-09: 'dodajmy zapasy lekarstw, niech Luwin zasymuluje'): symulacja Luwina w gra/zapas_lekow_korony_300_09_09.md - miara SKRZYNIA SETKI (100 ludzi x 1 mies. zimy, ~0,6 smoka, E); cel A stale 90 / B wojenne 90 / C zaraza 100 = ~160 smokow; propozycja roku I ~185 skrzyn ~105 smokow Kasa 3. Waskie gardla: MLEKO MAKOWE (~270 flakonow, w wiezy ~20), plotno ~8000 lokci, rece (kurs opatrywaczy). Do slowa pana: skala, zrodlo maku, kurs. Luwin: pelna karta z waga i spis apteki wiezy. Wlasni - bez rzutu; import maku - rzut przy zamowieniu.",
+   "kto": "MAESTER LUWIN ; HILDA ZIELE (E, klucznik apteczny)",
+   "kanal": "WF, osobiscie",
+   "wraca": "300-09-12",
+   "zamyka": "pelna karta S-7 (spis wiezy, waga) + slowo pana o skali roku I, zrodle maku i kursie opatrywaczy",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -91,3 +91,13 @@
 | **Ile zielarek przyjdzie** | to cudza wola, więc **RZUT przy meldunku Hildy ~09-12**. Zielarki ze wsi znają swój las i mogą nie chcieć siedzieć w mieście. |
 
 **Kurs opatrywaczy (pkt 3 do słowa pana):** dzięki temu ma miejsce, czyli lecznicę Zimowego Miasta. Decyzja o starcie dalej należy do pana.
+
+---
+### ⚑ SŁOWO PANA 300-09-09 (popołudnie): „1. Zakup na rok. 2. Pytanie do Reach, Fosa się dołączy. 3. Winterfell i Fosa.”
+1. **ZAKUP NA ROK I: zatwierdzony.** Całe A, połowa B i C, czyli ~185 skrzyń (90 setki, 45 wojennych, 50 lekkich), ~105 smoków z Kasy 3.
+   - **Z domeny i z Północy** (płótno wdów, ocet, miód, mech z Apteki Bagna po cenie przez Gawena, skrzynie, narzędzia): **~55 smoków**, płacone od IX do III po ~8 miesięcznie, w miarę dostaw.
+   - **Mleko makowe** (rok I: A 90 i B 45×2 = 180 flakonów, minus ~20 w wieży, czyli **~160**, z zapasem **200**): ~0,25 smoka za flakon, **~50 smoków** płatne przy dostawie, jeśli Reach się zgodzi.
+2. **MAK Z REACH. Fosa się dołącza.** List Gawena do Olenny tym samym kanałem co zboże (Hal, szyfr, przedstawiciel w Highgarden): **200 flakonów dla Korony i ~50 dla lenna Fosy** (lecznica Fosy, Jastrzębie, budowy, E). Dostawa ze statkami Redwyne'ów po zboże do końca X. Fosa płaci swoją część z Kasy 2 (~12,5). Lenno dostaje list. Zgoda i cena Olenny to **RZUT przy odpowiedzi (~10-05)**, razem z odpowiedzią na dodatkowe zboże.
+3. **KURS OPATRYWACZY: Winterfell i Fosa.**
+   - **Grupa I, Winterfell:** w izbie lecznicy Zimowego Miasta, od **09-15** przez 2 tygodnie. Uczy Luwin, przy łóżkach pomaga Wenda Kłos. **10 ludzi (E): 4 z garnizonu WF, 3 z Korpusu, 3 z budów domeny.** Do garnizonów Dustinportu i Przystani Wilka idzie wezwanie po 1 człowieku na grupę następną.
+   - **Grupa II, Fosa:** w lecznicy Fosy (lenno, patronat). Termin i ludzi wyznacza Mira z lecznicą: Gorący Port, Kamienny Brzeg, Jastrzębie, budowy lenna. Lenno płaci za swoich, a Korona przysyła miarę skrzyni i spis Luwina.

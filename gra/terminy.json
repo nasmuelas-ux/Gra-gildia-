@@ -14313,7 +14313,7 @@
    "kanal": "WF, osobiscie",
    "wraca": "300-09-12",
    "zamyka": "pelna karta S-7 (spis wiezy, waga) + slowo pana o skali roku I, zrodle maku i kursie opatrywaczy",
-   "status": "otwarte"
+   "status": "otwarte ### 09-09 SLOWO PANA: zakup roku I zatwierdzony (~185 skrzyn; ~55 z domeny w 7 ratach Kasa 3 IX-III; mak ~50 przy dostawie); mak - pytanie do Reach, Fosa dolacza; kurs opatrywaczy WF (09-15) i Fosa. Zostaje: pelna karta Luwina ze spisem wiezy ~09-12."
   },
   {
    "data": "300-09-09",
@@ -14322,6 +14322,33 @@
    "kanal": "WF-Zimowe Miasto, osobiscie",
    "wraca": "300-09-12",
    "zamyka": "meldunek Hildy: ile zielarek przyjeto (rzut), lecznica przyjela patronat, pierwszy opal i plotno z danin",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-09",
+   "co": "MLEKO MAKOWE Z REACH (slowo pana 09-09: 'Pytanie do Reach, Fosa sie dolaczy'): list Gawena do Olenny kanalem zbozowym (Hal, szyfr, przedstawiciel w Highgarden) - 200 flakonow dla Korony + ~50 dla lenna Fosy; dostawa ze statkami Redwyne'ow po zboze do konca X; ~0,25 smoka/flakon (E): Korona ~50 (Kasa 3), Fosa ~12,5 (Kasa 2) przy dostawie. Zgoda i cena Olenny - RZUT przy odpowiedzi.",
+   "kto": "GAWEN -> HAL -> przedstawiciel -> OLENNA",
+   "kanal": "kruk WF-BP 09-09 + statek",
+   "wraca": "300-10-05",
+   "zamyka": "odpowiedz Olenny (ile, cena, kiedy) - wtedy zdarzenie Kasa 3/Kasa 2",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-09",
+   "co": "LIST DO MIRY/GARRICKA - S-7 W LENNIE (slowo pana 09-09): (1) Fosa dolacza do zamowienia maku w Reach (~50 flakonow, ~12,5 Kasa 2, przy dostawie); (2) GRUPA II KURSU OPATRYWACZY w lecznicy Fosy - termin i ludzie (GP, Kamienny Brzeg, Jastrzebie, budowy) wyznacza Mira z lecznica; lenno placi za swoich; Korona przysyla miare skrzyni setki i spis Luwina. Wlasni - bez rzutu.",
+   "kto": "SYMON -> MIRA ; GARRICK ; lecznica Fosy",
+   "kanal": "kruk WF-Fosa 09-09 (szyfr Domu)",
+   "wraca": "300-09-16",
+   "zamyka": "odpowiedz w zbiorczym: termin grupy II i lista ludzi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-09",
+   "co": "KURS OPATRYWACZY - GRUPA I WINTERFELL (slowo pana 09-09): izba lecznicy Zimowego Miasta, 09-15 -> ~09-29; uczy Luwin, przy lozkach Wenda Klos (E); 10 ludzi (E): 4 garnizon WF, 3 Korpus, 3 budowy domeny; wezwanie po 1 czlowieku z Dustinportu i Przystani Wilka na nastepna grupe. Wlasni - bez rzutu; rzut przy egzaminie (ilu sie nadaje).",
+   "kto": "MAESTER LUWIN ; WENDA KLOS (E) ; dowodca garnizonu WF",
+   "kanal": "WF-ZM, osobiscie",
+   "wraca": "300-09-29",
+   "zamyka": "egzamin grupy I (rzut) i rozdzial opatrywaczy do garnizonow",
    "status": "otwarte"
   }
  ],

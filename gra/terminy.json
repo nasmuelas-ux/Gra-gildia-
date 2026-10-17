@@ -6910,9 +6910,9 @@
    "co": "KSIAZKA O PTAKACH Z BAGIEN DLA BRANA - skryptorium na Fosie (Ilario): spisac z ust ptasznikow i mysliwych Przesmyku (+ zapiski Glebokorzenia, jesli sa), z rycinami. Mira przekazuje zamowienie osobiscie (~06-12); start ze skryptorium (~06-20).",
    "kto": "ILARIO (skryptorium Fosy) <- MIRA",
    "kanal": "Fosa",
-   "wraca": "300-08-30",
+   "wraca": "300-09-02",
    "zamyka": "ksiazka w rekach Brana",
-   "status": "otwarte"
+   "status": "otwarte ### 08-30: NIE PRZYSZLO I WIADOMO DLACZEGO - wiesc zbiorczym Garricka ~09-02."
   },
   {
    "data": "300-06-03",
@@ -12450,7 +12450,7 @@
    "kanal": "kruk Domu (po burzy ~08-16) + woz Domu",
    "wraca": "300-08-30",
    "zamyka": "ksiegi w Wiezy, wpis w spisie ksiegozbioru",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-30 ### ksiegi nr 1-4 + oryginal Standardow audytu (nr 12) w Wiezy Strazniczej; Beron wpisuje do spisu. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-15",
@@ -12504,7 +12504,7 @@
    "kanal": "jezdzcy, ustnie; gory",
    "wraca": "300-08-30",
    "zamyka": "oferty klanow (ilosc, cena, termin) - RZUT przy odpowiedzi",
-   "status": "otwarte ### 08-18: poslancy wrocili; drugi kurs za dwa dni (konie)."
+   "status": "zamkniete 300-08-30 ### rzut 15 ZLE: Norrey 20 garronow za zelazo; Burley 60 koz za zboze; reszta nie przed zima; Wullowie pytaja o dzikich przez gory. Do slowa pana. ### POPRZEDNIO: byl-otw ### 08-18: poslancy wrocili; drugi kurs za dwa dni (konie)."
   },
   {
    "data": "300-08-16",
@@ -12756,7 +12756,7 @@
    "kanal": "kruk WF-Fosa; list Herwina",
    "wraca": "300-08-30",
    "zamyka": "ogloszenie wisi; kosztorys na stole pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-30 ### ogloszenie wisi od 08-27; kosztorys ~175 (zajazd 60, nabrzeze 90, waga 25; E, Kasa 2). Do slowa pana. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-20",
@@ -13431,7 +13431,7 @@
    "kanal": "kruk WF-Barrowton",
    "wraca": "300-08-30",
    "zamyka": "list wyslany",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-30 ### wyslany 08-29 wieczorem (Beron, pieczec Namiestnika). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-29",
@@ -13458,7 +13458,7 @@
    "kanal": "osobiscie",
    "wraca": "300-08-30",
    "zamyka": "odpowiedz Krolowej (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-30 ### rzut 67 TAK: pisarz od 08-31; nazwa skromna 'Opieka nad rodzinami poboru'; w Radzie mowi lady Catelyn; urzad formalny - wniosek do Krola. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-29",
@@ -13670,7 +13670,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-23",
+   "ostatnio_odebrane": "300-08-30",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

@@ -14277,6 +14277,24 @@
    "kanal": "Winterfell",
    "wraca": "300-09-09",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-09-09 ### SLOWO PANA: (1) Konserwa Fosy - TAK + ZAPASY LENNA i WYLICZENIE RACJI (Racja Polnocna); (2) list do WYMANA z prosba o rade w sprawie Cechu straszacego uczniow Glebokorzenia. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-09",
+   "co": "KONSERWA FOSY - ZAPAS LENNA W RACJACH (slowo pana 09-09): Gerrik + Orland (wzor domeny 09-03): ile racji lenno ma dzis (zboze 3 wielkich spichlerzy i 7 wiejskich, ryba, tluszcz, kiszonka), ile buduje Konserwa Fosy (lowisko, przetwornie), waskie gardlo racji, ile gab lenna (stali + przybysze + zalogi budow) i na ile dni. Zapas lenna - czesc pierwsza, nadwyzka na rynek. Wlasni - bez rzutu.",
+   "kto": "GERRIK + ORLAND (wzor) ; ALYS ; WARRYN",
+   "kanal": "kruk WF-Fosa 09-09",
+   "wraca": "300-09-23",
+   "zamyka": "karta zapasu lenna w racjach na stole pana (zbiorczy ~09-23)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-09",
+   "co": "LIST DO WYMANA - CECH BP A UCZNIOWIE GLEBOKORZENIA (slowo pana 09-09): prosba o RADE - mistrzowie cechowi mowia uczniom 'kto pojdzie do szkoly, ten nie wroci do warsztatu' (proba Theomore'a 09-08: 2 wycofani). Pan pyta Wymana, co z tym zrobic (Wyman - Mistrz Portow; slowo z 08 'Cech nikogo nie wykresli'). Odpowiedz - RZUT.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "kruk WF-BP 09-09",
+   "wraca": "300-09-20",
+   "zamyka": "odpowiedz Wymana (rada)",
    "status": "otwarte"
   }
  ],

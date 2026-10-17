@@ -14178,6 +14178,15 @@
    "kanal": "Winterfell",
    "wraca": "300-09-07",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-09-07 ### SLOWO PANA: (1) Harrion - najpierw rozmowa z lady Catelyn (listy wstrzymane do tego czasu); (2) KRUKI Z OSTRZEZENIEM + ROZKAZ: 50 Z WF (Stark, na Fosie od 08-17) MASZERUJA DO GORACEGO PORTU I ZAJMUJA POZYCJE. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-07",
+   "co": "LANGSKIPY NA POLNOC (Seagard 09-02) - KRUKI Z OSTRZEZENIEM I MARSZ (slowo pana 09-07): (A) ostrzezenie (4 langskipy bez znakow, Przyladek Krakena 09-02, kierunek polnoc) do: CORWIN i Brann Mokry (Kamienny Brzeg/Starkport), GARRICK + HENDRY + KESSEL + HARLON (Fosa, GP, ujscie), TORREN + THEON (Dustinport), ROBETT (lancuch ognia), MIRA (Fosa); (B) ROZKAZ: 50 LUDZI STARKOW Z GARNIZONU WF (na Fosie/Cailin od 08-17) MASZERUJA DO GORACEGO PORTU i ZAJMUJA POZYCJE przy murze od morza i wiezy ognia - pod rozkazem dowodcy GP obok setki Hendry'ego; stary rozkaz staly: przy malym najezdzie - okrety i jency. Marsz Cailin-ujscie pol dnia (zapis). Wikt - Warryn (zwrot Kasa 3). Wlasni - bez rzutu; czy langskipy przyjda - nie wiadomo.",
+   "kto": "SYMON -> CORWIN, GARRICK/HENDRY/KESSEL/HARLON, TORREN/THEON, ROBETT, MIRA ; dowodca 50 z WF",
+   "kanal": "kruki WF-Fosa, WF-Deepwood/Kamienny Brzeg, WF-Dustinport (09-07 przed poludniem, pogoda dobra)",
+   "wraca": "300-09-09",
+   "zamyka": "50 z WF na pozycjach w GP (meldunek) + potwierdzenia ostrzezenia",
    "status": "otwarte"
   }
  ],

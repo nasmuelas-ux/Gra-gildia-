@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 2,
+  "dzien": 3,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 92 (300-09-02): bardzo dobrze - po deszczu czysto i rzesko, slonce od switu, slaby wiatr z polnocy; drogi obsychaja; kruki lataja od switu.",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 59 (300-09-03): przecietnie - pochmurno, sucho, chlodny wiatr z polnocnego zachodu; po poludniu przejasnienia; drogi suche; kruki lataja.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

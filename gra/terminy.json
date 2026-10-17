@@ -13485,7 +13485,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-02",
    "zamyka": "lekcja 13 odbyta",
-   "status": "otwarte ### 08-31: ODROBIONE (rzut 81): 9 elizji; regula - tylko na styku slow, gdy drugie zaczyna sie od samogloski; 2 miejsca wewnatrz slow odrzucone."
+   "status": "zamkniete 300-09-03 ### lekcja 13 odbyta 09-02 wieczorem (rzut 51); zadanie na pt 09-05 - 12 zdan: elizje, cezury, rozziewy. ### POPRZEDNIO: byl-otw ### 08-31: ODROBIONE (rzut 81): 9 elizji; regula - tylko na styku slow, gdy drugie zaczyna sie od samogloski; 2 miejsca wewnatrz slow odrzucone."
   },
   {
    "data": "300-08-30",
@@ -13701,6 +13701,15 @@
    "kanal": "komnata Namiestnika, WF",
    "wraca": "300-09-03",
    "zamyka": "rozmowa odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 09-05 (po lekcji 13, rzut 51): ustep 12 zdan ze starszego odpisu - zaznaczyc elizje, cezury i rozziewy (regula: cezura zatrzymuje elizje), przeczytac na glos.",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-09-05",
+   "zamyka": "lekcja 14 HV odbyta",
    "status": "otwarte"
   }
  ],

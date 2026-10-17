@@ -74,3 +74,20 @@
 1. **Skala roku I:** A w całości, B i C w połowie (~185 skrzyń, ~105 smoków, Kasa 3)?
 2. **Mleko makowe:** skąd i ile (~250 flakonów): Reach/Stare Miasto przez statki Redwyne'ów, czy Essos przez Hala?
 3. **Kurs opatrywaczy:** start w Winterfell (10 ludzi), druga grupa w lecznicy Fosy?
+
+---
+### ⚑ SŁOWO PANA 300-09-09 (popołudnie): „Wintertown też ma lecznicę, dać jej patronat. Zatrudnić zielarki tam.”
+*Fakt świata ze słowa pana: Zimowe Miasto ma lecznicę. Szczegóły to E z mocą zapisu.*
+
+**LECZNICA ZIMOWEGO MIASTA: PATRONAT KORONY** (nie własność; v3 i Z3: patronat zamiast zarządzania)
+| | |
+|---|---|
+| **Co to jest (E)** | dom przy placu targowym, **8 łóżek**. Prowadzi uzdrowicielka **Wenda Kłos** (E) z córką. Dotąd utrzymywała się z datków i z tego, co płacili chorzy. |
+| **Forma patronatu** | (1) **ulga**: bez opłat miejskich; (2) **surowiec z danin**: opał, len i płótno, kasza dla leżących; (3) **umowa roczna Korony** na zielarki, patrz niżej |
+| **Co lecznica daje Koronie** | (a) **punkt S-7 dla Zimowego Miasta**: tu stoją skrzynie poziomu C (zaraza w mieście); (b) **księga chorych** co tydzień do Luwina, czyli dane do symulacji; (c) **izba do kursu opatrywaczy**: Luwin uczy tu, a nie w zamku, bo przy łóżkach są żywi chorzy |
+| **Zielarki** | **Korona zatrudnia przy lecznicy zielarki ze wsi domeny** na umowę roczną (E: cel 4). Zbierają i suszą zioła na skrzynie S-7, pomagają przy chorych, a zimą stoją przy łóżkach. **Hilda Ziele** (klucznik apteczny) jest jedną z nich i ma u nich klucz do składu ziół. |
+| **Płaca (E, wg kursu 1 smok = 20 000 miedziaków)** | zielarka ~30 miedziaków dziennie (fachowa, ponad dniówkę 15–20), razem 4 × ~900 = **~0,18 smoka/mies.** |
+| **Koszt patronatu (E)** | opał, płótno, kasza ~**0,4–0,7 smoka/mies.** (zimą więcej). **Razem z zielarkami ~0,6–0,9 smoka/mies., Kasa 3**, od 09-10. |
+| **Ile zielarek przyjdzie** | to cudza wola, więc **RZUT przy meldunku Hildy ~09-12**. Zielarki ze wsi znają swój las i mogą nie chcieć siedzieć w mieście. |
+
+**Kurs opatrywaczy (pkt 3 do słowa pana):** dzięki temu ma miejsce, czyli lecznicę Zimowego Miasta. Decyzja o starcie dalej należy do pana.

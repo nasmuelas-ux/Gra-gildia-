@@ -802,6 +802,16 @@
      "min": 110,
      "max": 110,
      "bez_skali": true
+    },
+    {
+     "nazwa": "PATRONAT LECZNICY ZIMOWEGO MIASTA + zielarki S-7 (umowa roczna Korony)",
+     "typ": "koszt",
+     "min": 0.6,
+     "max": 0.9,
+     "okres": "miesiac",
+     "od": "300-09-10",
+     "do": null,
+     "zrodlo": "SLOWO PANA 300-09-09: 'Wintertown tez ma lecznice, dac jej patronat. Zatrudnic zielarki tam.' E: opal, plotno, kasza dla lezacych (8 lozek) ~0,4-0,7/mies + 4 zielarki x ~30 miedziakow/dzien ~0,18/mies. Liczba zielarek - rzut ~09-12 (gra/zapas_lekow_korony_300_09_09.md)."
     }
    ],
    "nieznane": [

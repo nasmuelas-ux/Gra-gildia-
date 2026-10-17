@@ -41,6 +41,7 @@
 ## C. PATRONAT (nie własność Korony)
 - **Warsztaty z wezwania Korony** (na słupie od 05-02): **patronat z urzędu** (2 lata bez opłat miejskich, Korona pierwszym kupcem). Imiennie dopisuje Orwyl.
 - **Warsztaty Zimowego Miasta** na umowach rocznych (07-20), m.in.: łuczarze Torm Cisowy i Haldor Cis, dwóch cieśli, garbarz, szewc, tkaczki (`rzemioslo_zimowe_miasto_300_07.md`).
+- **Lecznica Zimowego Miasta** (słowo pana 09-09): patronat Korony (ulga, opał, płótno i kasza z danin), a przy niej **zielarki na umowie rocznej Korony** dla S-7. Prowadzi Wenda Kłos (E). Szczegóły w `zapas_lekow_korony_300_09_09.md`.
 
 ## D. W TOKU ZMIANY / PLANOWANE
 - **Dom Starków** (Rodwell) i jego filia w Białym Porcie: według słowa pana z 07-16 **do rozwiązania, majątek do sprzedaży**. Agencja zbożowa nadal działa.

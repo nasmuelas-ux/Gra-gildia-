@@ -135,6 +135,50 @@
 
 ## 10. RAPORT WYWIADOWCZY (przedstawia Namiestnik; fakty, pewność, wiek; bez źródeł)
 *Według porządku: Lew, żelaźni, Maidenpool, Reach, za Murem, a na koniec czego nie wiemy i kiedy się dowiemy.*
+
+### 10A. TREŚĆ RAPORTU (jak przedstawił Namiestnik; fakty, pewność, wiek wiadomości w dniach na 08-29; bez źródeł)
+**LEW**
+- Zaciąg w Lannisporcie opłaca **Skała własnym złotem, świeżo bitymi smokami**. Nie Bank i nie Lys. *Pewne, 7 dni.*
+- Pod Lannisportem **~3000 ludzi.** *Pewne, 7 dni.* **~800 poszło do Złotego Zęba**, na przełęcz ku Dorzeczu. *Prawdopodobne, 7 dni.*
+- **Na Riverrun i na północ nie ruszył nikt.** Pod lwem idą tylko drogi na południe (Darry, Rubinowy Bród). *Pewne, 7 dni.*
+- Lannisport: **~12 kadłubów na wodzie, pochylnie pełne**, prowiant na krótkie rejsy. Kapitanowie **patrzą na Wyspy, nie na nas.** *Prawdopodobne, 7 dni.*
+- W Lannisporcie od wiosny działa **kantor z Lys**, który nie handluje, a ma pieniądze. *Prawdopodobne, 7 dni.*
+- **Królewska Przystań:**
+  - Złote Płaszcze mają **dwa miesiące zaległego żołdu**;
+  - **chleb droższy o jedną czwartą**;
+  - **Bank był u Tywina trzy razy w VIII.**
+  
+  *Prawdopodobne, 3 dni.*
+- O Północy w Przystani mówią *„Wilk dotrzymuje słowa”* i ⚠ *„Korona, którą trzyma Tally”*, dwa razy, u ludzi handlujących z BP. *Słuch, 3 dni.* **Odpowiedź przyjęta 08-27:** nie zaprzeczać, twarz Króla, dwie pieczęcie, *„Wilk rządzi, Fosa buduje”*. Kto sieje to zdanie, sprawdzamy (~09-10).
+
+**ŻELAŹNI**
+- Jeniec z Harlaw o trzech kadłubach: *„Czytelnik nie pyta Pyke o wiatr.”* Albo na własną rękę, albo Pyke wiedziało. Nie wiemy. *Pewne (słowa), 6 dni.*
+- **Czarny kadłub bez znaku**, płaci **valyriańskim złotem**, sprzedawał w Lys w VII. **Dwa niezależne słuchy z dwóch końców morza.** *Słuch, 10 i 7 dni.*
+- Zatoka Żelaznych Ludzi: **mało żagli.** O Harlaw nic pewnego. *Słuch, 7 dni.* ⚠ Ludzie Mallistera interesują się krukami kupca w Seagard.
+- **Okno najazdu: do końca IX.** Pierwsze sztormy zwykle w X, w tym roku nic nie zapowiada wcześniejszych (Luwin). *Prawdopodobne.*
+
+**MAIDENPOOL**
+- Nabrzeże trzyma Lew od ~08-16. *Pewne.*
+- **Nocą wpływają łodzie z Duskendale** z mąką i bełtami. *Pewne (widziane z pierścienia), ~7 dni.*
+- Pierścień od lądu stoi bez szturmu. Lordowie Edmure'a trzymają się do żniw. *Pewne.*
+
+**REACH**
+- Olenna: kontrakt w pełni i eskorta Redwyne'ów. W sporze z Lwem **nie staje po żadnej stronie.** *„Lew płaci też moje długi.”* *Pewne, 4 dni.*
+
+**ZA MUREM**
+- **Mance milczy.** Na wezwanie Króla (liczba ognisk i dusz, relacja, dzień przeprawy) nie ma odpowiedzi. *Pewne (cisza).*
+- Torgen: ogniska, które nie chcą przejść, *„mają swoje powody”*. Liczby nie podano.
+
+**CZEGO NIE WIEMY I KIEDY SIĘ DOWIEMY**
+
+| co | kiedy |
+|---|---|
+| Odczyt Lwa i czarnego kadłuba (Theon) | ~09-03 |
+| Braavos (Nesta: od kiedy ubezpieczyciele wyłączyli zachodni brzeg), Dorne (kości Willama), Mance (przez Czarny Zamek) | ~09-05 |
+| Edmure: czy zamknie wodę | ~09-07 |
+| Moneta Dreadfortu; kto sieje zdanie o Tallych | ~09-10 |
+| Pyke: czy Czytelnik działa sam | **nie wiadomo, kiedy** |
+
 - **Reakcje (O):**
   - **Gawen** przy *„płaci Skała, świeżymi smokami”*: *„Jeśli Skała bije monetę, a nie pożycza, to nie jest biedna, tylko ostrożna.”*
   - **Lady Catelyn** przy *„Korona, którą trzyma Tally”*: długo patrzy na Namiestnika. *„Dobrze, że pan to mówi tutaj, a nie my panu.”* Pyta, co z tym zrobiono, i słyszy, że odpowiedź przyjęto 08-27. Kiwa głową.

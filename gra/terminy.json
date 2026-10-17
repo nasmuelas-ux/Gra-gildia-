@@ -13558,6 +13558,15 @@
    "wraca": "300-09-10",
    "zamyka": "Osmund przy komorze + odpowiedz Wymana (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-01",
+   "co": "SKRZYNIA ZIMOWA KORONY (slowo pana 09-01, wniosek Gawena): od X - 1/5 nadwyzki Skarbu (po kosztach) przy kazdym bilansie miesiecznym; nietykalna poza kleska i wojna; dwa klucze - Skarbnik i Maester. Pierwsza wplata przy bilansie IX (~10-10).",
+   "kto": "GAWEN ; LUWIN (drugi klucz)",
+   "kanal": "na miejscu",
+   "wraca": "300-10-10",
+   "zamyka": "pierwsza wplata wpisana w bilans",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

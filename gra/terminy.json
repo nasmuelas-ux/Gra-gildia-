@@ -14358,7 +14358,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-12",
    "zamyka": "lekcja 16 HV odbyta",
-   "status": "otwarte ### 09-11 ODROBIONE (rzut 53, SUKCES): miara 9/10; przeczenia 6 (4 czyn, 2 skutek) + 1 watpliwe (przeczenie miedzy dwoma czasownikami); bezpodmiotowe 4/5 + 1 '?' (bierna przeszla?). Do lekcji 16."
+   "status": "zamkniete 300-09-12 ### lekcja HV 16 odbyta, rzut 60 DOBRZE: regula - przeczenie skutku przed cezura, czynu po cezurze; piata forma - bierna przeszla ### POPRZEDNIO: byl-otw ### 09-11 ODROBIONE (rzut 53, SUKCES): miara 9/10; przeczenia 6 (4 czyn, 2 skutek) + 1 watpliwe (przeczenie miedzy dwoma czasownikami); bezpodmiotowe 4/5 + 1 '?' (bierna przeszla?). Do lekcji 16."
   },
   {
    "data": "300-09-10",
@@ -14583,6 +14583,15 @@
    "kanal": "na miejscu (domena)",
    "wraca": "300-09-20",
    "zamyka": "zastepca wskazany + odpowiedz Bertrama (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-12",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 09-16 (po lekcji 16, rzut 60): (1) ostatni ustep prawa wodnego (~8 zdan) - miara, cezury, elizje, przeczenia wg reguly (skutek przed cezura, czyn po); (2) PIERWSZY PELNY PRZEKLAD calego tekstu prawa wodnego na czysto. RZUT przy odrabianiu.",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-09-16",
+   "zamyka": "lekcja 17 HV odbyta",
    "status": "otwarte"
   }
  ],

@@ -13161,7 +13161,7 @@
    "kanal": "kruk WF-Fosa / WF-Deepwood + jezdziec Robetta",
    "wraca": "300-09-05",
    "zamyka": "odbior obwieszczenia w obu miejscach (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-03 LENNO (raport rady 08-30): RZUT 44 (prog 50) - porazka blisko: ojcowie przyjmuja, matki w dwoch osadach przy grobli nie (do GP 6 zamiast ~15); rada: sobotni woz z GP do osad. KAMIENNY BRZEG - meldunek Corwina ~09-05 (osobny rzut)."
   },
   {
    "data": "300-08-26",
@@ -13882,6 +13882,15 @@
    "wraca": "300-10-03",
    "zamyka": "proba II zdana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "RADA LENNA PYTA (raport 09-01): (1) SEPTON Z BARROWTON - opinia Garricka (przez Wiare, septon Owen ~koniec IX, do tego czasu milczec) czy Miry (matki z Barrowton na niedziele do internatu) czy obie; (2) DAR - ziarno ozimego zyta dla Osrica - Korona daje? (sprawa Korony).",
+   "kto": "SYMON -> GARRICK ; (Dar: Korona/Gawen)",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-09-06",
+   "zamyka": "slowo pana na oba",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -14116,7 +14125,7 @@
     "start": "300-07-19"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-08-24",
+   "ostatnio_odebrane": "300-09-01",
    "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"
@@ -14130,7 +14139,7 @@
     "dzien_miesiaca": 1
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-08-01",
+   "ostatnio_odebrane": "300-09-01",
    "zrodlo": "dziennik 300-06-30 (izba Willi); pierwszy raport pisany 300-08-01"
   },
   {
@@ -14142,7 +14151,7 @@
     "dzien_miesiaca": 1
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-08-01",
+   "ostatnio_odebrane": "300-09-01",
    "zrodlo": "dziennik 300-06-30; rozkaz do Tama krukiem Fosa-Bialy Port 06-30 (u Tama ~07-02); pierwsza karta pisana 300-08-01"
   },
   {

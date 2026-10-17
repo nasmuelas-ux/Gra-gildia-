@@ -52,3 +52,7 @@ _Liczy Gawen, protokół Beron. Słucha Namiestnik jako regent (odpis dla Króla
 ### DO SŁOWA PANA
 1. **Szlaban Freya na T1-B:** myto na poczet długu czy zdjąć szlaban?
 2. **T3-C:** najmować 40 ludzi za dniówkę (~1,2/mies.), czy czekać na ręce domeny po młocce?
+
+### ⚑ SŁOWO PANA 300-09-10
+1. **Szlaban Freya: myto na poczet długu.** Włodarz może pobierać myto na trzech milach, ale **każdy miedziak idzie na spłatę długu Korony wobec Waldera, a nie na udział Freya**. Pisarz Brenna liczy wozy przy szlabanie, księga jest wspólna. Gawen pisze list pod pieczęcią Namiestnika do lorda Waldera i włodarza, kruk przez Brenna dziś. Odpowiedź Freya: **RZUT**.
+2. **T3-C: czekać.** Bez najmu. Ręce domeny wracają po młocce (~09-25), Konserwa ma pierwszeństwo. Do mrozu ~10 mil i pale pod most, reszta wiosną 301.

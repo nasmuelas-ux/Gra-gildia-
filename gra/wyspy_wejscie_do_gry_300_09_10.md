@@ -47,3 +47,12 @@
 3. **Theon, pytanie o wiec, teraz:** kto poparłby jego, kto Ashę, kto Victariona, a kto człowieka z czarnym kadłubem. **RZUT przy odpowiedzi (~09-20).** W tym samym rozkazie: **list do Ashy nie przez kupca ksiąg**, bo ta droga na Pyke jest spalona.
 4. **A: chleb dla Krzesła z Morskiego Kamienia, ktokolwiek na nim usiądzie.** Stała oferta, małe ilości, sprzedawane, jednym kanałem. Szkic dla Króla.
 5. **B w ciszy przez Ashę**, po jej odpowiedzi (~X). Asha jako kanał, Theon jako most, a nie kandydat Korony.
+
+---
+## LUCAN SŁUCHA PLANU (wieczór 09-10, izby w ZM; O, bez rzutu)
+1. **Czytelnik (z zapisu 02-17, Theon):** *„Theon powiedział w lutym jedno mądre zdanie: do Rodrika Harlawa nie posyła się poselstwa, tylko ładunek i rachunek. Czytelnik woli księgi i handel od łupu, jest wujem Ashy i jedynym lordem Wysp, który przyjmie kupca, zamiast go utopić. Jeniec jest z Harlaw. Niech jego worek będzie dla Czytelnika, nie dla wiatru.”* Wtedy C, A i B idą przez jeden dom.
+2. **Zapłata kadłubami:** *„Wyspy nie mają monety. Mają kadłuby i ludzi. Bierzmy za zboże okręty, puste, bez załóg. Wtedy chleb buduje nam flotę, której nie mamy.”*
+   - **Ryzyko (O):** *„Lew zobaczy, że zboże Północy karmi krakena, a okręty krakena pływają pod wilkiem. To jest dokładnie najgorszy przypadek Sansy: Lew uderzy w Tallych.”* Dlatego **po cichu**: kupieckimi statkami przez Harlaw, bez pieczęci Korony na beczce, a słowo Króla tylko na piśmie dla Krzesła.
+3. **Lys:** *„Lys płaci obu stronom, więc kto wygra wiec, będzie winien Lys. Chleb to jedyna rzecz, która może zrobić z dłużnika Lys naszego klienta. W lutym złota się nie je.”*
+4. **Theon:** *„Słuchać, nie wierzyć. W lutym miał rację w jednym zdaniu i mylił się w trzech.”*
+5. **Do słowa pana (Lucan):** (a) worek jeńca **dla Czytelnika** (przez Seagard, ale z imieniem Harlawa); (b) w szkicu A dla Króla **zapłata kadłubami** jako jedna z form.

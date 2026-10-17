@@ -105,3 +105,37 @@
 - **Lady Catelyn (O):** *„Medger nie liczy ludzi. Liczy, czy go pytano, czy mu kazano.”*
 - **Luwin (O):** *„Odpowiedź przez Króla. Medger płynie z nim, więc list do niego teraz trafi w morze.”*
 - **DO SŁOWA PANA:** czy odpowiadać Cerwynowi, a jeśli tak, to kiedy i przez kogo.
+
+**⚑ POSTANOWIONO (słowo Namiestnika): odpowiedź Cerwynowi PRZEZ KRÓLA, PO LIŚCIE BERONA** (~09-05). Beron liczy, Namiestnik pisze do Króla, a Król odpowiada Medgerowi sam, kiedy uzna za stosowne.
+
+## 7. AKADEMIA I KADRY (wezwani: Brynden, ser Rodrik)
+- **Brynden (z zapisu):** II grupa (~09-20) ma 6 miejsc: Glover 2, Tallhart 2 i **2 wolne**. Wolne miejsca miał wskazać ser Rodrik (Fosa i domena).
+- **⚠ Rozbieżność w zapisie:** 08-20 **lady Barbrey przysłała dwóch**, Edwyna Sowiego i Branna Kopacza (rzut 80), *„na swoich koniach, żołd w nauce płaci Korona, jak napisano”*. Zaproszenie dla lordów (07-26) obejmowało też ją. **Dwa wolne miejsca są więc już zajęte przez Dustinów**, a ludzie Rodrika się nie mieszczą.
+- **Ser Rodrik (O):** ma dwóch z Fosy i domeny (E): **dziesiętnika Hendry'ego, Tama Szeroką Dłoń**, i **syna sołtysa z okręgu I, Wylla Sierpa**.
+- **Brynden (O):**
+  - *„Szóstka to szóstka. Ósemki nie zrobię dobrze, zrobię ją źle.”*
+  - Proponuje: Dustinowie w II grupie, ludzie Rodrika w III.
+  - **III grupa w Winterfell, nie w Przystani**, bo deska nie trzyma śniegu (zasada 8 z 08-09). *„W zimie ćwiczy się w kamieniu.”*
+- **Lady Catelyn (O):** *„Barbrey czeka na kości męża. Odesłać jej ludzi teraz to jak napisać, że nie czekamy razem z nią.”*
+- **Do słowa pana:** (a) Dustinowie w II, Rodrik w III w Winterfell; (b) po jednym; (c) inaczej.
+
+## 8. SPRAWY RÓŻNE (do wiadomości)
+- Królowa: matki i żony poboru, z własnej sakiewki. Pierwszy list do Ostatniego Domostwa poszedł dziś.
+- Gella, akuszerka Korony, w drodze do Dreadfortu, na prośbę Królowej (~09-02 na miejscu).
+- **Następne posiedzenie: 09-12.**
+
+## 9. POMYSŁY I INICJATYWY RADY (każdy jedna rzecz, z nazwiskiem)
+1. **GAWEN:** *„Cena zboża na słupie w Zimowym Mieście co tydzień, cena Spichlerza. Kto trzyma ziarno na zimę, żeby sprzedać drożej w lutym, niech widzi, że Korona sprzedaje taniej.”* Koszt: pisarz raz w tygodniu.
+2. **LUWIN:** *„Zapas na zimowe choroby w każdym spichlerzu wiejskim: kora wierzby, mech, len na opatrunki. Jedna skrzynka na wieś. Zielarki z Fosy wiedzą, co do niej włożyć.”* Koszt E: ~½ jelenia na skrzynkę, czyli ~30 jeleni na domenę.
+3. **LADY CATELYN:** *„Królowa liczy matki poboru. Niech Rada to uzna i da jej pisarza z izby uczniowskiej. Niech to będzie urząd, choćby mały, a nie dobre serce.”* (O: o pomyśle nie mówiła z Królową wcześniej.)
+4. **RODWELL:** *„Targ drzewny Korony w ZM przez zimę, co tydzień. Agencja sprzedaje opał z wyrębu po stałej cenie. Drwale już są w lesie.”*
+5. **EDRIC PŁUG** (bez głosu, zapytany): *„Ziarno siewne osobno, pod pieczęcią, w każdym spichlerzu. W lutym głodny człowiek zje i siewne, jeśli leży w tym samym worku.”*
+
+**Do słowa pana:** które przyjąć.
+
+## 10. RAPORT WYWIADOWCZY (przedstawia Namiestnik; fakty, pewność, wiek; bez źródeł)
+*Według porządku: Lew, żelaźni, Maidenpool, Reach, za Murem, a na koniec czego nie wiemy i kiedy się dowiemy.*
+- **Reakcje (O):**
+  - **Gawen** przy *„płaci Skała, świeżymi smokami”*: *„Jeśli Skała bije monetę, a nie pożycza, to nie jest biedna, tylko ostrożna.”*
+  - **Lady Catelyn** przy *„Korona, którą trzyma Tally”*: długo patrzy na Namiestnika. *„Dobrze, że pan to mówi tutaj, a nie my panu.”* Pyta, co z tym zrobiono, i słyszy, że odpowiedź przyjęto 08-27. Kiwa głową.
+  - **Luwin** przy czarnym kadłubie: *„Valyriańskie złoto w Lys nie jest dziwne. Dziwne jest, że płaci nim ktoś bez znaku.”*

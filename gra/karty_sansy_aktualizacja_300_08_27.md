@@ -122,3 +122,21 @@
 1. **„Korona, którą trzyma Tally”.** *„To zdanie jest groźniejsze niż trzy tysiące ludzi pod Lannisportem. Ludzie pod Lannisportem patrzą na Wyspy, a to zdanie patrzy na pana.”*
 2. **Cerwyn**: policzyć i odpisać liczbą.
 3. **Królowa**: dać jej jedną rzecz, którą zrobi dobrze przy ludziach (zaproszenie przy kolacji).
+
+---
+## KARTA [LYS]: DOPISEK SANSY 300-09-10 (rozmowa z panem przed kolacją; odczyty to O, bez rzutu)
+**Nowe wiersze (fakty od pana, bez źródeł):**
+- Lys pożycza **stoczniom** Lannisportu pod papier Skały, cieśle dostają weksle lyseńskie. **Żołd ludziom płaci Skała złotem** (08-27).
+- Zdanie *„Korona, którą trzyma Tally”* **zasiali ludzie z Lys** w BP w VII. Potem rozeszło się samo.
+- Dwóch kapitanów z Lys pytało o głębokość ujścia Gorączki i o pomost GP.
+- Dreadfort sprzedaje skóry i sól za złoto **przez kantor, który kupuje na statki Baelisha**.
+
+**Odczyty Sansy (O):**
+1. *„Lew płaci ludziom swoim złotem, a okręty buduje na cudzy kredyt. Znaczy to, że złota Skały nie starcza na jedno i drugie. Tywin nigdy nie pożycza, jeśli nie musi.”*
+2. *„Nie szukajmy jednego spisku. Szukajmy, kto na kim zarabia. Lys pożycza Lwu. Lew kupuje zboże od Baelisha. Baelish płaci Boltonowi złotem. Każdy z nich zarabia na tym, że Północ jest głodna i słaba. A my robimy się syci. To ich łączy, nie przysięga.”*
+3. *„Lys uderzył w Tallych, a nie w wilka, bo wilka nie da się zadłużyć. Dom da się.”* (zgadza się z odczytem Lucana)
+4. **Kto rządzi Lys:** *„W Lys nie ma jednego pana. Rządzi rada magistrów, a w radzie ten, kto ma najwięcej statków i najwięcej długów u innych. Imię, którego szukamy, to imię tego, kto podpisuje weksle dla stoczni.”*
+5. **Salladhor:** *„Dobrze, że przez Davosa. Ale co Salladhor powie o pieniądzach, trzeba dzielić przez dwa. On sam jest winien połowie Lys.”*
+6. **Poselstwo do Braavos (jej, matki i Aryi):** *„Jeśli popłyniemy do Braavos, Lys będzie wiedział wcześniej niż Bank. Trzeba to policzyć, zanim Król powie tak.”*
+
+**Rubryki karty [Lys] (zmienione):** CZEGO CHCE: Stopnie z powrotem, a Lew jako dłużnik. Z KIM: Lew (kredyt na okręty). PRZECIW KOMU: Dom Tally (Braavos), nie Korona. SPRAWDZIĆ: kto podpisuje weksle dla stoczni Lannisportu.

@@ -31,7 +31,7 @@ _Do rąk własnych pana. Firewall: Willa nie zna odczytów Theona ani rozmów pa
 - (3) **Oś Dreadfort–Bliźniaki** (od 09-01): przejechał **jeden jeździec Freya z listami** i **jeden wóz z Bliźniaków z beczkami wina dla lady Waldy** (E). Na razie nic więcej.
 
 ## 5. DOPISKI 08-07 (Lys, Mewi Gród, przewłoka). RZUT 79 (próg 40), DOBRZE
-1. (2–3) **W pieniądzach na zaciąg Lannisportu jest Lys.** Dom bankowy z Lys (E) **pożycza stoczniom Lannisportu pod papier Casterly Rock**, a stocznie płacą cieślom **wekslami lyseńskimi** (kupcy z Seagardu).
+1. (2–3) **Żołdu zaciągu Lys nie płaci.** Ludziom płaci Skała własnym złotem (karta 08-27, pewne). **Lys jest w okrętach:** dom bankowy z Lys (E) **pożycza stoczniom Lannisportu pod papier Casterly Rock**, a stocznie płacą cieślom **wekslami lyseńskimi** (kupcy z Seagardu). *(poprawka GM 09-10: pierwsza wersja mówiła o „zaciągu”, a karta 08-27 mówi co innego; VOID)*
 2. (2) **Mewi Gród:**
    - **statki Baelisha wożą zboże z Doliny do KP** i sprzedają drogo, bo w KP chleb jest droższy o ¼ (zapis 08-26);
    - o Baelishu mówią **„lord Harrenhalu”**, bo ma tytuł z KP z 299, ale ziemi nie objął;

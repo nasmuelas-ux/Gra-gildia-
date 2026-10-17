@@ -14467,6 +14467,15 @@
    "wraca": "300-09-20",
    "zamyka": "slowo Krola",
    "status": "otwarte ### 09-10 SLOWO PANA (Lucan b): w szkicu dla Krola ZAPLATA KADLUBAMI (puste okrety, bez zalog) jako jedna z form; dostawy PO CICHU - kupieckimi statkami przez Harlaw (Czytelnik), bez pieczeci Korony na beczce; slowo Krola tylko na pismie dla Krzesla."
+  },
+  {
+   "data": "300-09-10",
+   "co": "CYTADELA - MAESTER DLA GORACEGO PORTU (list pana 09-10, lancuchem maesterskim przez Luwina): port lenna Fosy - kruki (krukarnia GP), lecznica przy porcie, pogoda i sztormy, ksiega lodmanow (przymus od ~09-15), pomoc szkole. Utrzymanie - lenno (Kasa 2; E: izba, wikt, ~3 smoki/rok stypendium). Precedens: Orwyn (Konklawe 05-17, rzut 94). Jesli tak - przyjazd statkami Redwyne'ow (Stare Miasto - Reach) X-XI. Odpowiedz Konklawe - RZUT. Ostroznosc (Lucan 05-19): kruki Cytadeli siadaja tez w KP u Pycelle'a.",
+   "kto": "SYMON (lord Fosy) -> LUWIN -> CYTADELA (Seneszal / Konklawe)",
+   "kanal": "kruk WF -> Stare Miasto (lancuch maesterski)",
+   "wraca": "300-10-10",
+   "zamyka": "odpowiedz Konklawe (rzut) - imie maestra albo odmowa",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

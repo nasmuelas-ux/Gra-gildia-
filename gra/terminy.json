@@ -11127,7 +11127,7 @@
    "kanal": "kruk WF->Fosa 07-29; paczka Domu do Braavos/Pentos",
    "wraca": "300-09-15",
    "zamyka": "mistrz zatrudniony + miejsce i surowiec ustalone",
-   "status": "otwarte"
+   "status": "otwarte ### 09-06 SLOWO PANA: szklarza szukac TAKZE Z MYR przez Obara (Pentos) - osobny termin werbunku."
   },
   {
    "data": "300-07-29",
@@ -14160,6 +14160,15 @@
    "kanal": "przewoz skrzyni BP-WF (odbior w BP)",
    "wraca": "300-09-15",
    "zamyka": "szyby u Theomore'a",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-06",
+   "co": "WERBUNEK PRZEZ PENTOS (OBARO) - slowo pana 09-06: (1) MISTRZ SZKLARZ Z MYR (wojna Myr/Lys/Tyrosh - rzemieslnicy moga chciec wyjechac) - umowa lenna, huta Fosy w patronacie lenna; (2) LUDZIE Z PENTOS I INNYCH WOLNYCH MIAST (rzemioslo, wedle potrzeb zapisu: rytownik, szkutnicy, mistrzowie); (3) LINGWISCI I DORADCA EKONOMICZNY (kadry II - Braavos zawiodl, rzut 22). Forma jak kadry z Braavos: umowa z kazdym osobno, termin powrotu, kara po obu stronach; szukac wsrod odstawionych. ⚠ Zasady z zapisu: ZADNYCH pytan o Illyria w Pentos (linia Willi); dom handlowy z Pentos - w weryfikacji (slowo pana 09-05) - werbunek idzie przez placowke Domu (Obaro), nie przez ten dom. Odpowiedz - RZUT przy meldunku Obara.",
+   "kto": "SYMON -> HAL -> OBARO (Pentos)",
+   "kanal": "kruk Domu WF-BP + statek BP-Pentos (~24 dni w jedna strone)",
+   "wraca": "300-11-05",
+   "zamyka": "meldunek Obara: kandydaci imiennie i warunki albo przyczyna braku",
    "status": "otwarte"
   }
  ],

@@ -14205,6 +14205,24 @@
    "kanal": "Winterfell",
    "wraca": "300-09-08",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-09-08 ### SLOWO PANA: (1) plan Donnela - OK; (2) staly faktor Cailin - DECYDUJE MALA RADA (09-12). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-08",
+   "co": "OKRETY LENNA - PLAN DONNELA (slowo pana 09-08): wiosna 301 jeden kadlub dla lenna w Dustinporcie; JUZ TERAZ dwoch szkutnikow z Dustinportu do pochylni lenna przy ujsciu Goraczki - drugi kadlub buduje lenno rekami Fosy z nauka. Umowa Korona-lenno - Gawen (Skarbnik); koszt 30-60/kadlub (Kasa 2), szkutnicy - wikt i zold lenna. Wlasni - bez rzutu.",
+   "kto": "GARRICK + WARRYN ; DONNEL ; GAWEN (umowa)",
+   "kanal": "kruk WF-Fosa / Fosa-Dustinport",
+   "wraca": "300-03-31",
+   "zamyka": "szkutnicy przy ujsciu (meldunek) + umowa podpisana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-08",
+   "co": "MALA RADA 09-12 - PUNKT: STALY FAKTOR KROLEWSKI W CAILIN (slowo pana 09-08: decyzje podejmuja czlonkowie Malej Rady); kandydaci z zapisu 08-31: Bertram Wolny (soltys domeny, 'targuje sie lepiej niz Rodwell') i pisarz z Barrowton (Aldo Kurhan, E); prosba Torsena (przed zima). Rada glosuje; Namiestnik przewodniczy.",
+   "kto": "MALA RADA (Gawen, Edric Plug, Luwin, Rodrik...) ; Namiestnik",
+   "kanal": "posiedzenie WF",
+   "wraca": "300-09-12",
+   "zamyka": "decyzja Rady",
    "status": "otwarte"
   }
  ],

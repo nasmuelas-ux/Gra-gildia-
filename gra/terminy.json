@@ -13917,6 +13917,15 @@
    "kanal": "kruk WF-Fosa (szyfr) + jezdziec do Dustinportu",
    "wraca": "300-09-05",
    "zamyka": "slowo pana: tak/nie/kiedy",
+   "status": "zamkniete 300-09-03 ### SLOWO PANA: 'NIECH PISZE' - Theon pisze do Ashy przed wrzesniem (zgoda wbrew radzie 08-07; ryzyko Balona znane). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-03",
+   "co": "THEON -> ASHA (zgoda pana 09-03): list Theona do siostry przed wrzesniem - kanal i tresc wybiera Theon (statek/kupiec ksiag przez Braavos albo Harlaw); czy list dojdzie i co Asha odpowie - wola obca, RZUT przy odpowiedzi. Ryzyko z zapisu: Balon moze przeczytac.",
+   "kto": "THEON -> ASHA GREYJOY",
+   "kanal": "kruk WF-Fosa (zgoda) + jezdziec do Dustinportu; dalej droga Theona",
+   "wraca": "300-10-15",
+   "zamyka": "odpowiedz Ashy albo cisza z powodem",
    "status": "otwarte"
   }
  ],

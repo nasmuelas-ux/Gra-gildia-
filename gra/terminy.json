@@ -12162,7 +12162,7 @@
    "kanal": "osobiscie",
    "wraca": "300-09-10",
    "zamyka": "dwa imiona wpisane do II grupy; miejsce III grupy ustalone",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-29 ### Rada 08-29 (a): miejsca II grupy - ludzie Barbrey (Edwyn Sowi, Brann Kopacz); Rodrika (Tam Szeroka Dlon, Wyll Sierp) - III grupa W WINTERFELL ~11-01. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-09",
@@ -13368,7 +13368,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-08-29",
    "zamyka": "posiedzenie odbyte, protokol",
-   "status": "otwarte"
+   "status": "zamkniete 300-08-29 ### posiedzenie odbyte - protokol gra/protokol_malej_rady_300_08_29.md ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-29",
@@ -13413,6 +13413,69 @@
    "kanal": "na miejscu",
    "wraca": "300-09-08",
    "zamyka": "przekazanie zakonczone",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "AKADEMIA III GRUPA W WINTERFELL (~11-01, w kamieniu; Rada 08-29): ludzie Rodrika - TAM SZEROKA DLON (dziesietnik Hendry'ego), WYLL SIERP (syn soltysa okregu I) + reszta grupy do wskazania; miejsce cwiczen w Winterfell - Brynden i Rodrik.",
+   "kto": "BRYNDEN ; RODRIK",
+   "kanal": "osobiscie",
+   "wraca": "300-10-20",
+   "zamyka": "sklad III grupy i miejsce w Winterfell",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "LIST DO LADY BARBREY: 'Przyjeci' - Edwyn Sowi i Brann Kopacz do II grupy Akademii (~09-20, Przystan Wilka), zold w nauce - Korona (Rada 08-29). Beron, pieczec Namiestnika, kruk WF-Barrowton.",
+   "kto": "BERON -> BARBREY",
+   "kanal": "kruk WF-Barrowton",
+   "wraca": "300-08-30",
+   "zamyka": "list wyslany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "CENA ZBOZA SPICHLERZA NA SLUPIE W ZM CO TYDZIEN (pomysl Gawena, Rada 08-29) - od pierwszego zboza z Reach (~09-12); pisarz Skarbu; rozszerzenie praktyki targu natury i wegla.",
+   "kto": "GAWEN ; pisarz Skarbu",
+   "kanal": "na miejscu (ZM)",
+   "wraca": "300-09-12",
+   "zamyka": "pierwsza cena na slupie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "SKRZYNKA NA ZIMOWE CHOROBY W KAZDYM SPICHLERZU WIEJSKIM (pomysl Luwina, Rada 08-29): kora wierzby, mech, len; ~30 jeleni (E), Kasa 3; lista od zielarek Fosy (Nina).",
+   "kto": "LUWIN ; GAWEN ; NINA (Fosa)",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-09-30",
+   "zamyka": "skrzynki rozwiezione",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "KROLOWA - PRACA PRZY MATKACH POBORU UZNANA PRZEZ RADE (pomysl Catelyn, Rada 08-29): pisarz z izby uczniowskiej (wikt Kasa 3); urzad formalny - wniosek do Krola po powrocie. ZGODA KROLOWEJ - RZUT przy rozmowie lady Catelyn.",
+   "kto": "LADY CATELYN -> KROLOWA ROSLIN",
+   "kanal": "osobiscie",
+   "wraca": "300-08-30",
+   "zamyka": "odpowiedz Krolowej (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "TARG DRZEWNY KORONY W ZM PRZEZ ZIME (pomysl Rodwella, Rada 08-29): co tydzien, agencja, opal z wyrebu po stalej cenie na slupie; od pierwszych przymrozkow (~X).",
+   "kto": "RODWELL (agencja)",
+   "kanal": "na miejscu (ZM)",
+   "wraca": "300-10-01",
+   "zamyka": "pierwszy targ drzewny",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "WNIOSKI RADY DO KROLA PO POWROCIE (zbiorczo): urzad Krolowej przy matkach i wdowach poboru (08-29); Ulla Kora i Tomas Sznur do Rady (08-25); przysiega Edrica Pluga (08-28); odpowiedz Cerwynowi z lista Berona (08-29).",
+   "kto": "NAMIESTNIK -> KROL",
+   "kanal": "osobiscie po powrocie",
+   "wraca": "",
+   "zamyka": "Krol rozstrzyga",
    "status": "otwarte"
   }
  ],
@@ -13740,7 +13803,7 @@
     "start": "300-08-29"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-15",
+   "ostatnio_odebrane": "300-08-29",
    "zrodlo": "mala_rada_korony.md; slowo pana 08-28",
    "uwaga_0828": "posiedzenie 08-23 przepadlo (GM nie wpisal rytmu do kalendarza po 08-09) - zwolane na 08-29 po poludniu; od tej daty co 14 dni."
   }

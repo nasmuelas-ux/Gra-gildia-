@@ -139,3 +139,18 @@
   - **Gawen** przy *„płaci Skała, świeżymi smokami”*: *„Jeśli Skała bije monetę, a nie pożycza, to nie jest biedna, tylko ostrożna.”*
   - **Lady Catelyn** przy *„Korona, którą trzyma Tally”*: długo patrzy na Namiestnika. *„Dobrze, że pan to mówi tutaj, a nie my panu.”* Pyta, co z tym zrobiono, i słyszy, że odpowiedź przyjęto 08-27. Kiwa głową.
   - **Luwin** przy czarnym kadłubie: *„Valyriańskie złoto w Lys nie jest dziwne. Dziwne jest, że płaci nim ktoś bez znaku.”*
+
+---
+## POSTANOWIENIA DO PUNKTÓW 7 I 9 (słowo Namiestnika)
+**7. AKADEMIA: (a).** Ludzie lady Barbrey (Edwyn Sowi, Brann Kopacz) idą do **II grupy (~09-20, Przystań Wilka)**. Ludzie ser Rodrika (Tam Szeroka Dłoń, Wyll Sierp) idą do **III grupy, w Winterfell, w kamieniu** (~11-01). List do Barbrey: *„Przyjęci.”* Pisze Beron, pieczęć Namiestnika.
+
+**9. POMYSŁY:**
+1. **Gawen, cena zboża na słupie: TAK.** Namiestnik kazał sprawdzić, czy karta Spichlerza już tego nie obejmuje. **Sprawdzono:** karta Spichlerza (cykl 14 dni, Orland i Gawen) **nie ma ceny jawnej.** Cena na słupie dzień wcześniej stoi od V tylko dla **targu natury** (skóry, wełna) i dla **węgla** (od 05-14). **Zboże Spichlerza to nowa linia, rozszerzenie tej samej praktyki.** Co tydzień, od pierwszego zboża z Reach (~09-12). Pisarz Skarbu.
+2. **Luwin, skrzynka na zimowe choroby w każdym spichlerzu wiejskim: TAK.** ~30 jeleni (E), Kasa 3. Zielarki z Fosy dają listę. Do ~09-30.
+3. **Lady Catelyn, praca Królowej przy matkach poboru: TAK.**
+   - *Zgodnie z kartą III: „Mała Rada nie obsadza urzędów, robi to Król”.* Rada **uznaje pracę** i **daje pisarza z izby uczniowskiej** (wikt z Kasy 3, jak w izbie). **Urząd formalny** wchodzi na wniosek Rady do Króla po jego powrocie.
+   - **Zgoda Królowej to jej wola.** Zapyta lady Catelyn, bo to jej pomysł. **Rzut przy rozmowie.**
+4. **Rodwell, targ drzewny Korony w ZM przez zimę, co tydzień: TAK.** Agencja, opał z wyrębu, stała cena na słupie. Od ~X, kiedy przyjdą pierwsze przymrozki.
+5. **Edric, ziarno siewne osobno, pod pieczęcią:** Namiestnik: **„To już jest.”** *(Gawen 08-25: w komorach i spichrzach Króla leży rezerwa na zimę i ziarno siewne, wydzielone.)* Edric (O): *„To dobrze. Sprawdzę w okręgu trzecim, czy u sołtysów też.”*
+
+**Posiedzenie zamknięte.** Następne 09-12. Beron spisze protokół na jedną stronę do wieczora.

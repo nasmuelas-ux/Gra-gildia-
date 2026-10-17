@@ -1,5 +1,6 @@
 # STRATEGIA DOMU I RODU: ROZMOWA Z LUCANEM (300-08-28, wczesne popołudnie)
 *Pytanie pana: pogardzamy Tywinem, ale to wytrawny gracz, który zrobił z Lannisterów ród „za duży, żeby upaść”. Pan chce, żeby Tallowie byli tacy sami, mimo wszystkich zabezpieczeń. Odpowiada Lucan. To jego odczyt (O), bez rzutu: własny doradca. Liczby to E, chyba że stoją w zapisie.*
+*⚑ **Słowo pana, 08-28: bez wdrażania.** To zapis rozmowy, a nie plan. Żadna z propozycji poniżej nie jest przyjęta.*
 
 ---
 

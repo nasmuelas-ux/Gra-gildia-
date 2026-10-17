@@ -5022,7 +5022,7 @@
    "kanal": "Reed (Fosa/grobla) + Nesta (Dorne)",
    "wraca": "300-09-20",
    "zamyka": "kosci w Barrowton",
-   "status": "otwarte - kroki 1-2 wykonane; krok 3 po odpowiedzi Oberyna (~VIII) ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: statek z Braavos ~08-25. ### 08-25 (poczta_300_08_25.md): statek z Braavos ~09-05 (Hal 08-17). ### 09-05 (poczta_300_09_05.md): Oberyn TAK (rzut 69) - przewodnicy przez Czerwone Gory; potrzebne dokladne miejsce kopca od Reeda; do slowa pana."
+   "status": "otwarte - kroki 1-2 wykonane; krok 3 po odpowiedzi Oberyna (~VIII) ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: statek z Braavos ~08-25. ### 08-25 (poczta_300_08_25.md): statek z Braavos ~09-05 (Hal 08-17). ### 09-05 (poczta_300_09_05.md): Oberyn TAK (rzut 69) - przewodnicy przez Czerwone Gory; potrzebne dokladne miejsce kopca od Reeda; do slowa pana. ### 09-05 POPRAWKA: miejsce znane (Reed 06-12) - warunek 'potrzebne miejsce' VOID; list do Oberyna z opisem miejsca (osobny termin)."
   },
   {
    "data": "300-05-10",
@@ -14034,6 +14034,60 @@
    "kanal": "Winterfell",
    "wraca": "300-09-06",
    "zamyka": "slowo pana na 1-6",
+   "status": "zamkniete 300-09-05 ### SLOWO PANA: (1) miejsce kopca znane (Reed 06-12) - warunek VOID; pan nie wie, czy Oberyn/Dorne bedzie otwarte tam pojechac - list z opisem miejsca i pytaniem, kto idzie; (2) rytownik - TAK, podwojna od wiosny; (3) Pentos - najpierw zweryfikowac, po czyjej stronie jest; (4) Vellan Torre - OK; (5) Mance - odpowiedz: lodzie czekaja, nie zwlekajcie, budujcie tez sami, teren gotowy; + 100 lodzi-amfibii na Wyspie Niedzwiedziej; (6) Branowi powie pan sam. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-05",
+   "co": "KOSCI WILLAMA - LIST DO OBERYNA Z OPISEM MIEJSCA (slowo pana 09-05): przez Neste (statek); opis z listu Reeda 06-12 (osiem kopcow z kamieni wiezy; Willam w TRZECIM od wiezy ku przeleczy; kamien z imieniem w runach; przelecz Yronwood); pytanie: czy ludzie Oberyna wydobeda i odesla kosci statkiem do BP (dla Barrowton), czy Polnoc ma poslac swoich. Zgoda na ten krok - w rzucie 69 (pomoze); KTO pojdzie i kiedy - odpowiedz Oberyna (kolejna wiadomosc, nie nowy rzut na zgode).",
+   "kto": "SYMON -> NESTA -> OBERYN",
+   "kanal": "kruk WF-BP + statek BP-Braavos; Braavos-Sloneczna Wlocznia",
+   "wraca": "300-10-20",
+   "zamyka": "odpowiedz Oberyna: kto i kiedy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-05",
+   "co": "PENTOS - PO CZYJEJ STRONIE? (slowo pana 09-05, przed odpowiedzia domowi handlowemu z Pentos o drewno/futra): Willa (linia 'kto przy Daenerys' - ksiegi Obara, nasluch portu; bez pytan o Illyria w Pentos) + Lucan: czy dom z Pentos handluje z Lys/Lwem, kto za nim stoi. Do tego czasu oferta Pentos czeka.",
+   "kto": "LUCAN -> WILLA ; OBARO (ksiegi)",
+   "kanal": "szyfr Domu",
+   "wraca": "300-09-12",
+   "zamyka": "meldunek: czyj jest dom handlowy z Pentos",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-05",
+   "co": "RYTOWNIK Z BRAAVOS - PODWOJNA STAWKA OD WIOSNY (slowo pana 09-05): Ilario przez Neste - umowa od 301-IV, przyjazd pierwszym statkiem wiosennym. Kasa 1 (Dom - skryptorium).",
+   "kto": "ILARIO -> NESTA",
+   "kanal": "statek",
+   "wraca": "300-10-31",
+   "zamyka": "umowa podpisana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-05",
+   "co": "ZARZADCA FILII BRAAVOS - VELLAN TORRE (E; propozycja Nesty, zgoda pana 09-05): umowa 5 lat, udzial w zysku filii, nie krewny (wzor filii 06-30). Hal papier, Nesta wprowadza.",
+   "kto": "HAL + NESTA",
+   "kanal": "statek BP-Braavos",
+   "wraca": "300-09-30",
+   "zamyka": "umowa podpisana w Braavos",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-05",
+   "co": "ODPOWIEDZ DLA MANCE'A (slowo pana 09-05): 'Lodzie czekaja. Wzywamy was, zebyscie nie zwlekali - budujcie tez sami lodzie. Teren jest gotowy.' Kanal: kruk do Czarnego Zamku + poslaniec za Mur (nie Hallis - odmrozenia; E: zwiadowca z Czarnego Zamku) i rownolegle Torgen przy drzewie na Cyplu. Odpowiedz Mance'a - RZUT.",
+   "kto": "SYMON -> MANCE",
+   "kanal": "kruk WF-Czarny Zamek; Cypel (Torgen)",
+   "wraca": "300-10-15",
+   "zamyka": "odpowiedz Mance'a / dzien przysiegi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-05",
+   "co": "100 LODZI-AMFIBII (LODZIE-PLOZY) NA WYSPIE NIEDZWIEDZIEJ (slowo pana 09-05: 'kaze zbudowac 100 lodzi dodatkowych amfibii'; dla przeprawy ludzi Mance'a na Cypel i dalej): budowa u Maege Mormont (ciesle wyspy + drewno), Korona placi (E: ~15 jeleni sztuka = ~1500 jeleni = ~7,5 smoka, Kasa 3, + sol i zboze dla ciesli); list do Maege przez Dacey/kruk. Zgoda i tempo Maege - RZUT przy odpowiedzi. ⚠ zasada 8: wyspa ma malo ciesli i drewna - Maege moze chciec ludzi z ladu.",
+   "kto": "SYMON -> MAEGE (przez Dacey) ; GAWEN (zaplata)",
+   "kanal": "kruk WF-Wyspa Niedzwiedzia (przez Deepwood/Dacey)",
+   "wraca": "300-10-15",
+   "zamyka": "odpowiedz Maege: ile i kiedy",
    "status": "otwarte"
   }
  ],

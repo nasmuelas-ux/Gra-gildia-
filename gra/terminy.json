@@ -13593,7 +13593,7 @@
    "kanal": "kruk WF-Fosa (szyfr Domu)",
    "wraca": "300-09-06",
    "zamyka": "odpowiedz Miry na pismie",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-06 ### ODPOWIEDZ MIRY (poczta_300_09_06.md): sierociniec PRZY INTERNACIE (nie osobno); skad - Dorzecze przez Lymana, Essos przez Neste ostroznie; PRZEZ SEPTY, z ich blogoslawienstwem; 12 lozek na start; ~3 smoki/dziecko/rok, placi Dom, lenno daje miejsce. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-02",
@@ -14134,6 +14134,15 @@
    "wraca": "300-10-05",
    "zamyka": "odpowiedz Olenny: tak/nie, cena, kiedy",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-06",
+   "co": "DO SLOWA PANA (poczta 09-06): (1) Mira - sierociniec przy internacie, przez septy, 12 lozek, Dom placi; (2) Bors - gorne pietro baszty w drewnie, jesli kamien nie zdazy; (3) Theomore - kilka szyb ze skrzyni BP na inspekt.",
+   "kto": "SYMON",
+   "kanal": "Winterfell",
+   "wraca": "300-09-06",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -14244,7 +14253,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-06",
+   "ostatnio_odebrane": "300-09-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -14256,7 +14265,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-06",
+   "ostatnio_odebrane": "300-09-06",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -14355,7 +14364,7 @@
     "dzien_miesiaca": 6
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-06",
+   "ostatnio_odebrane": "300-09-06",
    "zrodlo": "rozkaz pana 300-06-05"
   },
   {

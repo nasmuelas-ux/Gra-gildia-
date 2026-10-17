@@ -13215,7 +13215,7 @@
    "kanal": "kruk Domu ZM-BP",
    "wraca": "300-09-03",
    "zamyka": "rachunek Lucana na stole pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-03 ### RACHUNEK LUCANA (gra/rachunek_800_beczek_lucan_300_09_03.md): 800 - UNIESIEMY (sledz ~80 t ok; sol ~20 t z ~24 t warzelni IX-XII, zapas ~4 t; beczki ~1000/4 mies.). ⚠ SOL DOMENNA S-1 ~44 t - z warzelni NIE; do slowa pana: (a) Essos ~40 t ~220 smokow, (b) pol beczki, (c) druga panew (Kasa 1). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-27",
@@ -13305,7 +13305,7 @@
    "kanal": "kruk Domu WF-BP (szyfr) 08-28",
    "wraca": "300-09-03",
    "zamyka": "zmiana znakow w skladzie BP potwierdzona (Hal)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-03 ### Hal potwierdza (kruk Domu 09-02, E): znaki w skladzie BP zmienione - 'MIARA KORONY' + warzelnia Edrica Solnego. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-27",
@@ -13926,6 +13926,15 @@
    "kanal": "kruk WF-Fosa (zgoda) + jezdziec do Dustinportu; dalej droga Theona",
    "wraca": "300-10-15",
    "zamyka": "odpowiedz Ashy albo cisza z powodem",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "SOL DOMENNA S-1 - SKAD 40 T (rachunek Lucana 09-03): (a) sol morska z Essos przez Hala (~220 smokow Kasa 3; w BP ~10-20, we wsiach ~11-01), (b) pol beczki na wies, (c) druga panew warzelni (Kasa 1, ~30, +3 t/mies. od XI). Do slowa pana.",
+   "kto": "SYMON -> LUCAN/HAL ; GAWEN",
+   "kanal": "kruk Domu ZM-BP",
+   "wraca": "300-09-03",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],

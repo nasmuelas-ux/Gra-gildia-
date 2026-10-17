@@ -1372,6 +1372,48 @@
    "kwota": -30,
    "opis": "ROZBUDOWA ZBROJOWNI WF - skrzydlo magazynowe ~1500 kompletow (II rata: dach, regaly, praca)",
    "zrodlo": "rozkaz pana 09-02; Orwyl + Gawen; E z moca zapisu (razem ~50)"
+  },
+  {
+   "data": "300-10-15",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -176,
+   "opis": "S-1 SOL DOMENNA - 440 beczek dla wsi okregow I-III (po kosztach)",
+   "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
+  },
+  {
+   "data": "301-01-31",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": 120,
+   "opis": "S-1 SOL DOMENNA - zwrot w monecie (reszta w dniowkach)",
+   "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -50,
+   "opis": "S-2 KOMORY WIEJSKIE etap 1 (40 w okregu I) - I polowa",
+   "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
+  },
+  {
+   "data": "300-11-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -50,
+   "opis": "S-2 KOMORY WIEJSKIE etap 1 - II polowa",
+   "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -45,
+   "opis": "S-3 WEDZARNIE I KISZARNIE OKREGOWE (Podgrodzie, Siedem Mlynow, Gosciniec)",
+   "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
+  },
+  {
+   "data": "300-11-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -20,
+   "opis": "S-4 LODOWNIA KORONY przy Zimowym Miescie",
+   "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
   }
  ],
  "_symulacje": {

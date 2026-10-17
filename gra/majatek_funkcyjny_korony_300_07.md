@@ -20,6 +20,11 @@
 | 13 | **Korpus Podopiecznych** | Winterfell | działa (31–33 dzieci) | Helga, Gerta; lekcje Halla; formalnie kasztelan |
 | 14 | **Szklane ogrody Winterfell** (na gorących źródłach) | Winterfell | działają (inspekcja 299-08-18) | zamek / domena |
 | 15 | **Łańcuch ognia**, punkty Korony | Dustinport, wieża na Kamiennym Brzegu | działa; przedłużenie na Mur i brzeg północny proponowane 07-14 | stały rozkaz Króla (05-20) |
+| 16 | **KONSERWA KORONY S-1: sól domenna** (strategiczne, 09-03) | okręgi I–III, rozwóz z ZM, Siedmiu Młynów, Gościńca | 440 beczek przed XI | Edric Pług + Gawen |
+| 17 | **KONSERWA KORONY S-2: komory wiejskie z księgą** (strategiczne, 09-03) | wsie domeny; etap 1: 40 w okręgu I | budowa X–XI; 301: ~400 | Edric Pług + Orland Korzec |
+| 18 | **KONSERWA KORONY S-3: wędzarnie i kiszarnie okręgowe** (strategiczne, 09-03) | Podgrodzie, Siedem Młynów, Gościniec | budowa X | Edric Pług |
+| 19 | **KONSERWA KORONY S-4: lodownia** (strategiczne, 09-03) | przy Zimowym Mieście (staw Młyńskiej Łąki) | budowa X–XI, lód XII–I | Edric Pług; kasztelan |
+| 20 | **KONSERWA KORONY S-5: strona zimowa kalendarza 301** (09-03) | druk na Fosie | tekst ~09-05 | Luwin + Ilario |
 
 ## B. WSPÓLNE / UDZIAŁ KORONY
 - **Przystań Wilka**: Korona ma 1/2, Cerwyn 1/4, Manderly 1/4.

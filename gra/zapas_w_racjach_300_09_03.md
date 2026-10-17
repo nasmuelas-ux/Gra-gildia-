@@ -66,7 +66,7 @@
 
 **Gawen (O):**
 - *„Konserwa nie dogoni zboża w rok. Zboża mamy na 1,7 miliona dni, a pełnej racji po roku będzie na ~150 tysięcy, na tyle, ile da tłuszcz i kiszonka.”*
-- *„Ale dziś stałe gęby Korony mają pełną rację na miesiąc. Po roku Konserwy będą miały na trzy i pół miesiąca, a na tydzień złego lodu w każdej komorze wiejskiej starczy.”*
+- *„Ale dziś stałe gęby Korony mają pełną rację na miesiąc. Po roku Konserwy będą miały prawie na cztery miesiące, a na tydzień złego lodu w każdej komorze wiejskiej starczy.”*
 - *„Żeby pełna racja doszła do zboża, trzeba by ~700 ton kiszonki i ~140 ton tłuszczu. Takiej Konserwy nie ma nikt na Północy. To robota na lata, nie na jedną jesień.”*
 
 ## E. CO Z TEGO WYNIKA (zasada 8: postęp rodzi problemy)

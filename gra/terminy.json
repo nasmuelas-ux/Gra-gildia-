@@ -13638,7 +13638,7 @@
    "kanal": "kruk WF-Fosa",
    "wraca": "300-10-15",
    "zamyka": "prototypy na wodzie/lodzie; wynik proby",
-   "status": "otwarte ### 09-02 SLOWO PANA: lodzie to TESTY; Korona ODDAJE JE NA UZYTEK LUDZI - po probie do wsi i osad jako wspolne (pod soltysem); bez zalog Korony i bez dniowek; Korona zbiera tylko wnioski z uzycia do nastepnej partii."
+   "status": "zamkniete 300-09-02 ### zastapione partia probna ~60 'wszedzie' (slowo pana 09-02). ### POPRZEDNIO: byl-otw ### 09-02 SLOWO PANA: lodzie to TESTY; Korona ODDAJE JE NA UZYTEK LUDZI - po probie do wsi i osad jako wspolne (pod soltysem); bez zalog Korony i bez dniowek; Korona zbiera tylko wnioski z uzycia do nastepnej partii."
   },
   {
    "data": "300-09-02",
@@ -13647,7 +13647,16 @@
    "kanal": "kruk WF-Karhold (09-03)",
    "wraca": "300-09-10",
    "zamyka": "odpowiedz Rickarda (rzut) + zamowienie w ZM",
-   "status": "otwarte ### 09-02 SLOWO PANA: lodzie to TESTY; Korona ODDAJE JE NA UZYTEK LUDZI - po probie do wsi i osad jako wspolne (pod soltysem); bez zalog Korony i bez dniowek; Korona zbiera tylko wnioski z uzycia do nastepnej partii."
+   "status": "zamkniete 300-09-02 ### zastapione partia probna ~60 'wszedzie' (slowo pana 09-02). ### POPRZEDNIO: byl-otw ### 09-02 SLOWO PANA: lodzie to TESTY; Korona ODDAJE JE NA UZYTEK LUDZI - po probie do wsi i osad jako wspolne (pod soltysem); bez zalog Korony i bez dniowek; Korona zbiera tylko wnioski z uzycia do nastepnej partii."
+  },
+  {
+   "data": "300-09-02",
+   "co": "LODZIE-PLOZY - PARTIA PROBNA ~60 WSZEDZIE, JAKO TEST (slowo pana 09-02): po ~6 na wezel - Fosa/Przesmyk, ZM/Bialy Noz, BP, Karhold/Ostatnia Rzeka, Ostatnie Domostwo, Placzaca Woda, Barrowton, Deepwood, Kamienny Brzeg, Wyspa Niedzwiedzia. Buduja ciesle ZM, Fosy, Karportu (+BP). Karta testu przy kazdej lodzi; lodz jest wsi (dar Korony). ~900 jeleni (Kasa 3). Gotowe ~XI. Lordowie - odbior i zgoda: RZUT przy odpowiedziach (kruki 09-03).",
+   "kto": "GAWEN ; LUWIN ; ciesle ZM, Fosy, Karportu ; lordowie wezlow",
+   "kanal": "kruki WF-lordowie (09-03); woz/barka z lodziami",
+   "wraca": "300-09-12",
+   "zamyka": "odpowiedzi lordow (rzut) + zamowienia u ciesli",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

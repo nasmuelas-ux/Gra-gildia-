@@ -13657,6 +13657,24 @@
    "wraca": "300-09-12",
    "zamyka": "odpowiedzi lordow (rzut) + zamowienia u ciesli",
    "status": "otwarte ### 09-02 SLOWO PANA: lodzie W RECE LORDOW ze wskazaniem rozdysponowania do wsi i osad; karta testu przy lodzi; wnioski przez lorda do Korony."
+  },
+  {
+   "data": "300-09-02",
+   "co": "REZERWA DOMENY - DOKONCZENIE SPISU (slowo pana 09-02, propozycja Rodrika): spis imienny rezerwy domeny (ZM i wsie domeny; bezrolni, mlodsi synowie; kto czyta/strzela/zna rzemioslo) prowadzi EDRIC PLUG jako Zarzadca Domeny PO MLOCCE; cwiczenia zima, gdy pola stoja. Rodrik daje wzor rubryk.",
+   "kto": "EDRIC PLUG (Zarzadca Domeny) + SER RODRIK",
+   "kanal": "Winterfell / domena",
+   "wraca": "300-10-25",
+   "zamyka": "spis rezerwy domeny imiennie, liczba i podzial (wlocznia/luk)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "LUKI DLA x1500 - LUKA W PLANIE (pytanie pana 09-02): ile lucznikow w 1500 (Rodrik proponuje ~1 na 5 = 300, do slowa pana); zaliczka dla TORMA CISOWEGO na wyrab jesionu/cisu do sezonowania (zapis 07-20: chcial ciac teraz - zaliczki w zapisie brak); podzial grotow ~2400 na wlocznie/strzaly w ksiedze Orwyla; cieciwy (len z danin, zima), strzaly (ciesle i chlopcy, zima, lotki gesie).",
+   "kto": "SER RODRIK + ORWYL; GAWEN (zaplata)",
+   "kanal": "Winterfell / Zimowe Miasto",
+   "wraca": "300-09-03",
+   "zamyka": "slowo pana: liczba lucznikow + zaliczka na drewno",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

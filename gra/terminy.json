@@ -13890,6 +13890,24 @@
    "kanal": "kruk WF-Fosa",
    "wraca": "300-09-06",
    "zamyka": "slowo pana na oba",
+   "status": "zamkniete 300-09-03 ### SLOWO PANA: (1) OBIE - Mira zaprasza matki z Barrowton do internatu na niedziele + Garrick rozmawia przez Wiare (septon Owen ~koniec IX); (2) DAR - TAK: Korona daje ziarno (40 korcy zyta ze Spichrzy WF, woz Traktem Krolewskim ~12 dni, siew pod koniec IX; Gawen). Odpowiedz tym samym krukiem co list o Konserwie lenna. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-03",
+   "co": "DAR - ZYTO OZIME DLA OSRICA (slowo pana 09-03): 40 korcy zyta ze Spichrzy Krola WF, woz Traktem Krolewskim (~12 dni), siew pod koniec IX; odpis z zapasu Korony (-2400 ZR). Gawen + Orland; list do Osrica (Beron).",
+   "kto": "GAWEN + ORLAND ; BERON (list) ; OSRIC",
+   "kanal": "woz Trakt Krolewski; kruk do Osrica",
+   "wraca": "300-09-16",
+   "zamyka": "ziarno u Osrica na Darze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "SEPTON Z BARROWTON - DWIE DROGI NARAZ (slowo pana 09-03): (a) MIRA zaprasza matki z Barrowton na niedziele do internatu Fosy - niech zobacza, ze dzieci wracaja do domu; (b) GARRICK rozmawia przez Wiare - septon Owen (~koniec IX). Odzew matek - RZUT przy meldunku.",
+   "kto": "MIRA ; GARRICK",
+   "kanal": "kruk WF-Fosa 09-03 (z listem o Konserwie)",
+   "wraca": "300-09-16",
+   "zamyka": "pierwsza niedziela matek w internacie + rozmowa z septonem umowiona",
    "status": "otwarte"
   }
  ],

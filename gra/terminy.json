@@ -13864,6 +13864,15 @@
    "wraca": "300-10-01",
    "zamyka": "rachunek z wagi + slowo pana o tranie",
    "status": "otwarte ### 09-03 SLOWO PANA: TRAN Z DANIN DO ZAPASU (nie na sprzedaz); 'PRIORYTETEM JEST KONSERWACJA ZYWNOSCI' - stala wola: Konserwa Korony ma pierwszenstwo do soli Korony, beczek bednarzy ZM, ludzi domeny i srodkow Kasy 3 przed innymi budowami domeny. Tran (E): ~40 t/rok w daninach, jadalny ~1/2 (~20 t = ~50 000 ZR, czesc tluszczowa ~250 000 dni); waskie gardlo tluszczu z ~47 tys. do ~300 tys. dni. Skutek (zasada 8): tran wypada z towaru na raty Reach/Illyrii i ze spienezenia natury - Gawen bierze w jego miejsce drewno i futra. Rachunek z wagi ~10-01."
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA LENNA FOSY (list pana do Miry 09-03, odpis Garrick + Warryn; gra/list_do_miry_konserwa_lenna_300_09_03.md): lenno powoluje WLASNE PRZEDSIEBIORSTWO konserwacji zywnosci i zatrudnia wdowy i wdowcow; 'w lennie znacznie wazniejsze - napedza WZROST LENNA'; reszta jak w domenie (Racja Polnocna, sol, komory, przetwornie 4 izby, lodownia, kalendarz, pierwszenstwo, zapas + wolny rynek). Kasa 2. Wlasni - bez rzutu na wykonanie; odzew wdow - rzut przy meldunku.",
+   "kto": "MIRA ; GARRICK (kanclerz) ; WARRYN (rzadca) ; GERRIK (liczy) ; rada lenna",
+   "kanal": "kruk WF-Fosa (szyfr, pieczec domowa) 09-03; odpowiedz w raporcie rady lenna / zbiorczym",
+   "wraca": "300-09-12",
+   "zamyka": "plan rady lenna: forma, kto, liczby i miejsca, kosztorys Kasy 2, droga wzrostu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

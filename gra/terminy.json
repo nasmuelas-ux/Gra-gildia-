@@ -13710,7 +13710,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-05",
    "zamyka": "lekcja 14 HV odbyta",
-   "status": "otwarte ### 09-04 ZROBIONE (rzut 29, ZLE): 6 zdan czysto; od 7. przesadzone rozziewy (4 bledy - rozziew tam, gdzie elizja); glosne czytanie potyka sie; pytanie na lekcje: gdzie cezura w zdaniu z trzema czasownikami. Lekcja 14 jutro."
+   "status": "zamkniete 300-09-05 ### LEKCJA 14 (rzut 100, ZNAKOMICIE): pan sam znalazl 4 bledy; regula - cezura tylko po czasowniku konczacym mysl; 12 zdan czysto na glos. ### POPRZEDNIO: byl-otw ### 09-04 ZROBIONE (rzut 29, ZLE): 6 zdan czysto; od 7. przesadzone rozziewy (4 bledy - rozziew tam, gdzie elizja); glosne czytanie potyka sie; pytanie na lekcje: gdzie cezura w zdaniu z trzema czasownikami. Lekcja 14 jutro."
   },
   {
    "data": "300-09-03",
@@ -14115,6 +14115,15 @@
    "kanal": "kruk WF-BP (Wyman, do rak Krola)",
    "wraca": "300-09-20",
    "zamyka": "rozkaz Krola dla Rodrika",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-05",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 09-09 (po lekcji 14, rzut 100): PIERWSZY PRAWDZIWY TEKST - krotki ustep z valyrianskiej ksiegi prawa wodnego (nie cwiczenie, ok. 20 zdan): przeczytac, zaznaczyc miare, cezury i elizje, i PRZELOZYC SENS jednym akapitem wspolna mowa.",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-09-09",
+   "zamyka": "lekcja 15 HV odbyta",
    "status": "otwarte"
   }
  ],

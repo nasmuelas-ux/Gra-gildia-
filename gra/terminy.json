@@ -13377,7 +13377,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-01",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-01 ### lekcja odbyta (rzut 20, porazka - czesc 4 nie weszla; rozmowa o Krolu po wspolnej; pan: wladza z krwi i z wyboru - obowiazki te same, percepcja, tradycja). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-29",
@@ -13512,6 +13512,15 @@
    "kanal": "kruk WF-Fosa",
    "wraca": "300-09-15",
    "zamyka": "waga stoi",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-01",
+   "co": "BRAAVOSKI - LEKCJA 14 (pt 09-05): zadanie - trzy zdania po braavosku: pan urodzony czy wybrany - co lepsze dla miasta i dlaczego. Do powtorzenia czesc 4 z lekcji 13 (dozywotnio, urodzic sie, rowny, prawo). Temat - do wyboru pana.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-05",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

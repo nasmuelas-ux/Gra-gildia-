@@ -73,3 +73,16 @@
 - **Tłuszcz to najkrótszy składnik.** Ubój XI, słonina, łój, tran z danin i z Wyspy Niedźwiedziej: tranu w zapasie Korony nie ma, choć daniny go dają (rewizja 09-01). **Gawen pyta, czy kierować tran z danin do zapasu, a nie na sprzedaż.**
 - **Siewne:** ~2 000 korcy siewnego nie jest liczone w zapasie. Dzięki temu nikt go nie zje zimą.
 - **Waga, a nie księga:** to rachunek z księgi. **Pierwszy rachunek z wagi** w komorach ~10-01, razem z kartą w racjach.
+
+---
+### ⚑ SŁOWO PANA 300-09-03: „Tak, priorytetem jest konserwacja żywności”
+- **Tran z danin idzie do zapasu**, a nie na sprzedaż.
+  - E: ~40 t rocznie w daninach, jadalnego ~½, czyli **~20 t = ~50 000 ZR**.
+  - Część tłuszczowa racji to **~250 000 dni**.
+  - **Tłuszcz, czyli wąskie gardło, rośnie z ~47 tys. do ~300 tys. dni.**
+- **Stała wola: Konserwa Korony ma pierwszeństwo przed innymi budowami domeny** do:
+  - soli Korony;
+  - beczek bednarzy ZM;
+  - ludzi domeny;
+  - środków Kasy 3.
+- **Skutek (zasada 8):** tran wypada z towaru na raty Reach i Illyrii i ze spieniężenia natury. Gawen bierze w jego miejsce drewno i futra.

@@ -13684,6 +13684,15 @@
    "wraca": "300-10-01",
    "zamyka": "pierwszy meldunek skupu: ile sztuk, od kogo, koszt - RZUT (wola obca: lordowie i ludzie)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "ROZBUDOWA ZBROJOWNI WINTERFELL (rozkaz pana 09-02): skrzydlo magazynowe przy zbrojowni, pod murem zewnetrznym - parter kamien (sucho, chlod), pietro belki, dach lupek; regaly na ~1500 kompletow, stojaki na luki i wlocznie, izba czyszczenia (beczki piasek/olej). Do czasu dachu nadwyzka w starej stodole. Koszt ~50 smokow Kasa 3 (E): 20 w IX, 30 w X. Murarze i ciesle ZM po zniwach; dach przed mrozem (~11-15, E).",
+   "kto": "ORWYL (zbrojmistrz) + GAWEN (zaplata) + murarze i ciesle ZM; Rodrik odbiera",
+   "kanal": "Winterfell / Zimowe Miasto",
+   "wraca": "300-11-15",
+   "zamyka": "skrzydlo pod dachem, regaly stoja, nadwyzka przeniesiona ze stodoly",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

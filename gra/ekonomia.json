@@ -1358,6 +1358,20 @@
    "kwota": -5,
    "opis": "ZALICZKA DLA TORMA CISOWEGO - wyrab jesionu i cisu na ~250 drzewc lukowych do sezonowania (luki dla 300 lucznikow x1500); reszta przy odbiorze",
    "zrodlo": "slowo pana 09-02 ('Tak'); Gawen wyplaca, Orwyl odbiera; E z moca zapisu"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -20,
+   "opis": "ROZBUDOWA ZBROJOWNI WF - skrzydlo magazynowe ~1500 kompletow (I rata: kamien, wapno, belki)",
+   "zrodlo": "rozkaz pana 09-02; Orwyl + Gawen; E z moca zapisu (razem ~50)"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -30,
+   "opis": "ROZBUDOWA ZBROJOWNI WF - skrzydlo magazynowe ~1500 kompletow (II rata: dach, regaly, praca)",
+   "zrodlo": "rozkaz pana 09-02; Orwyl + Gawen; E z moca zapisu (razem ~50)"
   }
  ],
  "_symulacje": {

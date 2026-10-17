@@ -9370,9 +9370,9 @@
    "co": "MAIDENPOOL - WOLNA DROGA TYLKO Z HARRIONEM (Krol 07-11): garnizon Maidenpool wychodzi, gdy Harrion Karstark zostanie wydany czlowiekowi Karstarka przy wymianie jencow; 'kto wyjdzie bez niego, nie wyjdzie wcale'. List Krola do Rickarda: 'Twoj syn jest warunkiem, nie cena.' Odpowiedz Lwa - RZUT przy wiesci.",
    "kto": "KROL -> EDMURE / garnizon Maidenpool; KROL -> RICKARD",
    "kanal": "kruk Winterfell-Riverrun; kruk Winterfell-Karhold",
-   "wraca": "300-09-07",
+   "wraca": "300-09-25",
    "zamyka": "Harrion wydany albo odmowa Lwa",
-   "status": "otwarte ### 08-05: jak wyzej - wiesc ~08-10. ### 08-10: kruk z Riverrun 08-10 (rzut 55): dowodca Maidenpool nie odmowil - poslal kruka do Tywina o zgode na wymiane z Harrionem; odpowiedz Lwa do Maidenpool ~3-4 tyg. (E), wiesc dalej przez Riverrun. ### 09-05 (poczta_300_09_05.md): odpowiedz Lwa ~3-4 tyg. od 08-10 - wiesc przez Riverrun ~09-07."
+   "status": "otwarte ### 08-05: jak wyzej - wiesc ~08-10. ### 08-10: kruk z Riverrun 08-10 (rzut 55): dowodca Maidenpool nie odmowil - poslal kruka do Tywina o zgode na wymiane z Harrionem; odpowiedz Lwa do Maidenpool ~3-4 tyg. (E), wiesc dalej przez Riverrun. ### 09-05 (poczta_300_09_05.md): odpowiedz Lwa ~3-4 tyg. od 08-10 - wiesc przez Riverrun ~09-07. ### 09-07 (poczta_300_09_07.md) RZUT 76 DOBRZE: Tywin zgadza sie - dwoch rycerzy z lochow Riverrun za Harriona; garnizon wychodzi morzem PO Harrionie; wymiana ~09-25 przy bramie od ladu. Do slowa Krola/Edmure'a."
   },
   {
    "data": "300-07-11",
@@ -13233,7 +13233,7 @@
    "kanal": "kruk WF-Riverrun szyfrem Domu + poslaniec Riverrun-oboz; ODPOWIEDZ krukiem z obozu/Maidenpool wprost do WF (slowo pana 08-27; jawnie - Edmure bez klucza)",
    "wraca": "300-09-07",
    "zamyka": "odpowiedz Edmure'a: czy i jak zamknal wode (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-07 ### RZUT 8 BARDZO ZLE: Edmure odrzuca - Mooton nie da zatopic toru swojego portu, brandery 'ogien przy miescie'; uraza: 'wuj mogl napisac sam, nie przez kantor kupca'. Pierscien od ladu trzyma. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-27",
@@ -14170,6 +14170,15 @@
    "wraca": "300-11-05",
    "zamyka": "meldunek Obara: kandydaci imiennie i warunki albo przyczyna braku",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-07",
+   "co": "DO SLOWA PANA (poczta 09-07): (1) wymiana za Harriona ~09-25 - list do Krola (BP) i do Edmure'a (jency z Riverrun); kto podpisuje; (2) cztery langskipy na polnoc (Seagard 09-02) - cos ponad rozkaz czujnosci z 09-05?",
+   "kto": "SYMON",
+   "kanal": "Winterfell",
+   "wraca": "300-09-07",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -14354,7 +14363,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-30",
+   "ostatnio_odebrane": "300-09-07",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },
@@ -14469,7 +14478,7 @@
     "start": "300-08-23"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-23",
+   "ostatnio_odebrane": "300-09-07",
    "zrodlo": "poczta_300_08_13_seagard_flint.md",
    "uwaga_0822": "slowo pana 08-22: pisac rzadziej - co 14 dni, przy ruchu od razu (ludzie Mallistera pytaja o kruki, rzut 18)"
   },

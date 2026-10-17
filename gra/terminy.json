@@ -13990,6 +13990,33 @@
    "wraca": "300-09-12",
    "zamyka": "potwierdzenia rozkazu z miejsc",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-04",
+   "co": "WEDKA NA LYS (ruch C, slowo pana 09-04): Willa (szyfr Lucana, kruk Domu 09-05) podsuwa ludziom z Lys pytajacym o droge naszego zboza FALSZYWA DROGE (E: 'przez Kamienny Brod i Wschodnia Strazy' - wybiera Willa); sledzi, gdzie wiesc wyplynie i kto ja niesie. Bez imion, bez kontaktu Domu. Czy Lys polknie i gdzie wyplynie - RZUT przy meldunku Willi.",
+   "kto": "LUCAN -> WILLA (siatka)",
+   "kanal": "szyfr Domu, kruk 09-05",
+   "wraca": "300-09-20",
+   "zamyka": "meldunek Willi: gdzie wyplynela falszywa droga i czyja reka",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-04",
+   "co": "PAPIER LWA W BANKU (ruch A, slowo pana 09-04): PO meldunku siatki ~09-10 (czy Lys w pieniadzu zaciagu Lannisportu) i PO LISCIE DO KROLA (zapis 07-13: uzycie papierow w sprawach Korony tylko za wiedza Krola, przed) - Nesta pokazuje Bankowi w Braavos droge kwitow Duskendale->Lannisport->Skala przez Lys (pokazac, nie sprzedac). Krol na morzu - list czeka w BP albo do rak przy powrocie (~09-20). Reakcja Banku - RZUT.",
+   "kto": "SYMON (list do Krola) -> KROL ; LUCAN + NESTA (wykonanie)",
+   "kanal": "list do Krola (BP / do rak), potem kruk Domu do Nesty",
+   "wraca": "300-09-20",
+   "zamyka": "slowo Krola + pokaz w Banku",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-04",
+   "co": "WYSLANNIK KORONY DO BRAAVOS (pomysl pana 09-04): rozmowa z MAGISTRAMI/MORSKIM LORDEM i ZELAZNYM BANKIEM (drewno okretowe dla Arsenalu jako umowa, Przewloka poza Stopniami, faktoria Braavos w Cailin, papier Lwa - po slowie Krola). Poselstwo do obcego panstwa - PREROGATYWA KROLA (zasada 22): pan wskazuje kandydata, Krol mianuje (list z ruchem A). Kandydaci Lucana (O) - do slowa pana.",
+   "kto": "SYMON -> KROL",
+   "kanal": "list do Krola razem z ruchem A",
+   "wraca": "300-09-06",
+   "zamyka": "slowo pana: kandydat; potem slowo Krola",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -1344,6 +1344,20 @@
    "kwota": 600,
    "opis": "DOMENA - czynsz w monecie (XI, resztki)",
    "zrodlo": "⚑ REWIZJA MODELU 300-09-01 na wskazanie pana (gra/rewizja_modelu_kasy_3_300_09_01.md); E z moca zapisu"
+  },
+  {
+   "data": "300-10-15",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -0.2,
+   "opis": "LODZIE-PLOZY - DWA PROTOTYPY na Fosie (~40 jeleni)",
+   "zrodlo": "slowo pana 09-02 (Karhold: stawka nie gra roli); Luwin; E"
+  },
+  {
+   "data": "300-11-15",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -3.75,
+   "opis": "LODZIE-PLOZY - PIERWSZA PARTIA 50 (25 ZM, 25 Karhold), ~15 jeleni sztuka",
+   "zrodlo": "slowo pana 09-02; Luwin; E (Nesta 298: 10-15 jeleni/lodz)"
   }
  ],
  "_symulacje": {

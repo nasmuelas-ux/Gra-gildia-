@@ -13630,6 +13630,24 @@
    "wraca": "300-09-20",
    "zamyka": "tabela tygodni zlego lodu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "LODZIE-PLOZY - DWA PROTOTYPY NA FOSIE (slowo pana 09-02): ciesle + kuznia Fosy, rada krannogow (Meera, Jojen); plaskodenne 5-7 lokci, okuta stepka/plozy, lina u burt, uprzaz; ~12 korcy ladunku; proba na Goraczce i rozlewiskach od pierwszego przymrozku. Wlasni - bez rzutu; lod - rzut przy probie.",
+   "kto": "GARRICK ; ciesle i kuznia Fosy ; MEERA/JOJEN (rada)",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-10-15",
+   "zamyka": "prototypy na wodzie/lodzie; wynik proby",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-02",
+   "co": "LODZIE-PLOZY - PIERWSZA PARTIA 50 (slowo pana 09-02): 25 w Zimowym Miescie (ciesle ZM), 25 w KARHOLDZIE (ciesle Karportu, list Namiestnika do Rickarda Karstarka - Korona placi, Karhold buduje dla siebie); ~750 jeleni (Kasa 3); gotowe ~11-15; zalogi - rybacy i woznice ze wsi na dniowke w martwe tygodnie. Rickard - RZUT przy odpowiedzi.",
+   "kto": "GAWEN ; ciesle ZM ; RICKARD KARSTARK",
+   "kanal": "kruk WF-Karhold (09-03)",
+   "wraca": "300-09-10",
+   "zamyka": "odpowiedz Rickarda (rzut) + zamowienie w ZM",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

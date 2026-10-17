@@ -13179,7 +13179,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-08-29",
    "zamyka": "lekcja 12 odbyta",
-   "status": "otwarte ### 08-28: ODROBIONE (rzut 48, cienko): S/N 5/5; 7 dlugosci z miary, 3 pytajniki, 1 watpliwe (dwa czasowniki - czy miara od nowa) - pytanie dla Luwina."
+   "status": "zamkniete 300-08-29 ### lekcja HV 12 odbyta (rzut 35, porazka blisko): S/N 5/5; dlugosci 5/7 (2 zle - elizja); cezura dobrze. ### POPRZEDNIO: byl-otw ### 08-28: ODROBIONE (rzut 48, cienko): S/N 5/5; 7 dlugosci z miary, 3 pytajniki, 1 watpliwe (dwa czasowniki - czy miara od nowa) - pytanie dla Luwina."
   },
   {
    "data": "300-08-27",
@@ -13476,6 +13476,15 @@
    "kanal": "osobiscie po powrocie",
    "wraca": "",
    "zamyka": "Krol rozstrzyga",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 09-02 (po lekcji 12, rzut 35): w pieciu nowych zdaniach starszego odpisu zaznaczyc TYLKO ELIZJE (styk dwoch samoglosek miedzy slowami) - bez dlugosci, bez S/N. Wlasna nauka.",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-09-02",
+   "zamyka": "lekcja 13 odbyta",
    "status": "otwarte"
   }
  ],

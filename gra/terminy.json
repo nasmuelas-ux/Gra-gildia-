@@ -8821,7 +8821,7 @@
    "co": "ST-3 STUDNIE LENNA - PIERWSZA FALA PRZED MROZEM: wsie, ktore pija z rowu (wg ST-2).",
    "kto": "WARRYN (+ ORWYN; rece wsi)",
    "kanal": "zbiorczy Garricka",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "studnie/cysterny pierwszej fali gotowe; reszta na wiosne 301",
    "status": "otwarte"
   },
@@ -9109,7 +9109,7 @@
    "co": "WALDA BOLTON - POROD (maester Dreadfortu: 'przed zima', ~IX/X) - OBAWY O DZIEDZICA (odczyt Sansy: dzien porodu najniebezpieczniejszy na Dreadforcie; klauzula prawego loza przeciw Ramsayowi). SLOWO PANA 07-10: (1) Ramsay na czele dwudziestu na Skagos - do Krola; (2) NIC BEZ ZGODY BOLTONA - zadnej poloznej, maestra ani listu Krolowej do Waldy z oferta pomocy, zanim Roose sie nie zgodzi; (3) KROL PRZY WIZYCIE W DREADFORCIE (~08-14) PYTA ROOSE'A PRYWATNIE: czy Walda chce rodzic w Winterfell ('o kazdej porze dnia i nocy' - 05-10) albo czy przyjmie polozna/maestra od Korony. Wola Roose'a - RZUT przy rozmowie.",
    "kto": "KROL -> ROOSE (prywatnie, przy wizycie)",
    "kanal": "osobiscie, Dreadfort",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "odpowiedz Roose'a: Winterfell / pomoc Korony / nic",
    "status": "otwarte ### 08-14: NIE PRZYSZLO I WIADOMO DLACZEGO - Krol wyplynal z BP porannym odplywem 08-13/14; rozmowa z Roose'em przy postoju w Dreadforcie (~08-14/15), list Krola krukiem ~08-16 (zasada 34). Rzut przy liscie. ### 08-16 LIST KROLA (rzut 78): Walda rodzi w Dreadforcie; Roose przyjmuje JEDNA akuszerke Korony w IX, bez orszaku - wybiera Luwin; podziekowanie 'tylko od Krola'. NASTEPNY KROK: Luwin wskazuje akuszerke; wyjazd ~IX-01. ### 08-16 VOID (zasada 3, wskazanie pana): w liscie Krola GM pominal akuszerke z Blizniakow (07-24, rzut 65: lady Jeyne + akuszerka - w drodze). POPRAWIONE: Roose czeka na krewna z akuszerka z Blizniakow; akuszerka Korony (wybor Luwina) TYLKO jesli tamte nie dojada przed IX. Wraca: czy dojechaly - ~09-01. ### 08-27 SLOWO PANA (prosba Krolowej): akuszerka Korony GELLA Z ZM (wybor Luwina, E) jedzie 08-28 sama (2 straznikow do bram), z listami Krolowej do Waldy i do Roose'a (prosba jako siostra - 'jesli macie kogo trzeba, odeslijcie z podziekowaniem'). Dojazd ~09-02. Przyjecie - RZUT przy meldunku (~09-05, kruk Dreadfort-WF / powrot straznikow). ### 09-05 (poczta_300_09_05.md): GELLA RZUT 17 ZLE: jedna noc, odeslana; Walda zdrowa, termin X; list Roose'a chlodny. Gella wraca ~09-09."
   },
@@ -13087,7 +13087,7 @@
    "co": "ILLYRIA - ZAMOWIENIE DODATKOWEGO ZBOZA Z PENTOS (slowo pana 08-25): 20 000 korcy dla Polnocy + 2000 dla miasta Mootona (przez Kompanie) = 22 000 korcy; cena jak w kontrakcie (E: ~20 jeleni + ~8 fracht = 28/korzec) = ~616 000 jeleni = ~3080 smokow (E, moc zapisu); platne przy dostawie (do konca X), czesc towarem (futra, drewno, tran) - Gawen ukladal plan platnosci Kasy 3. Wlasni + faktor (zgoda 08-13, rzut 83) - bez nowego rzutu na przyjecie; dostawa - RZUT przy dostawie.",
    "kto": "GAWEN -> FAKTOR ILLYRIA (BP) ; HAL (Kompania - Mooton)",
    "kanal": "kruk WF-BP (przed ~09-10)",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "22 000 korcy w BP/komorach + kwity",
    "status": "otwarte"
   },
@@ -13204,7 +13204,7 @@
    "co": "BECZKA ZIMOWA - DOSTAWY: Mur 160 (morzem BP->Wschodnia Straznica przed koncem X; zadatek Strazy 9 smokow wozem ~09-05), Spichlerz Korony 400 + Cypel 60 (polowa X, polowa XII; zadatek 25,88 z Kasy 3 08-27; umowe podpisuje Gawen). Wlasni (Dom) - bez rzutu przy wykonaniu.",
    "kto": "LUCAN ; EDRIC SOLNY ; HAL",
    "kanal": "kruk Domu ZM-BP",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "pierwsze dostawy wykonane",
    "status": "otwarte"
   },
@@ -13222,7 +13222,7 @@
    "co": "PRZYSTAN WILKA - DRUGA GRUPA Z ZM (14: 3 murarzy, 2 ciesli, 9 pomocnikow) jedzie po swoich zniwach ~09-05 wozem Korony; POWROT NA PISMIE najpozniej 10-31 (slup ZM). Wlasni Korony - bez rzutu.",
    "kto": "GAWEN + lawa ZM ; BORS",
    "kanal": "na miejscu (ZM) + jezdziec do Przystani",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "grupa w Przystani (karta Borsa)",
    "status": "otwarte ### 09-05 (poczta_300_09_05.md): wyjechala 09-05 o swicie wozem Korony; powrot na pismie do 10-31."
   },
@@ -13717,7 +13717,7 @@
    "co": "KONSERWA KORONY S-1 SOL DOMENNA: 440 beczek przed ubojem XI (okregi I-III, po beczce na wies), po kosztach albo za dniowke; zrodlo - solarnia Kamiennego Brzegu + zakup anonimowy przez warzelnie Edrica Solnego. ⚠ zasada 8: ta sama warzelnia i 800 beczek zimowych - Gawen pyta Lucana. gra/konserwacja_zywnosci_domeny_300_09_03.md",
    "kto": "EDRIC PLUG + GAWEN",
    "kanal": "Winterfell / domena",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "sol we wsiach okregow I-III",
    "status": "otwarte"
   },
@@ -13735,7 +13735,7 @@
    "co": "KONSERWA KORONY S-3 WEDZARNIE I KISZARNIE OKREGOWE: Podgrodzie (I), Siedem Mlynow (II), Gosciniec (III); ~15 smokow sztuka. gra/konserwacja_zywnosci_domeny_300_09_03.md",
    "kto": "EDRIC PLUG; bednarze ZM",
    "kanal": "Winterfell / domena",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "trzy stoja i pracuja",
    "status": "otwarte"
   },
@@ -13825,7 +13825,7 @@
    "co": "KONSERWA KORONY - CEL IX-X: ~300 beczek kiszonki + ~80 beczek ryby solonej (E); ZURAWINA z torfowisk (X); trzy przetwornie (S-3) pracuja. gra/konserwa_korony_organizacja_300_09_03.md",
    "kto": "EDRIC PLUG ; GAWEN",
    "kanal": "domena / Winterfell",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "bilans IX-X w ZR: ile beczek wobec celu",
    "status": "otwarte"
   },
@@ -13843,7 +13843,7 @@
    "co": "KONSERWA KORONY - ZIMA: ryba SPOD LODU (przereble Dlugie Jezioro, stawy mlynskie) i suszenie na mrozie (sztokfisz); LOD do lodowni (S-4, XII-I); PEMIKAN dla Muru i garnizonow (XI-I). gra/konserwa_korony_organizacja_300_09_03.md",
    "kto": "EDRIC PLUG ; Rybacka Zatoka (IV) ; kasztelan (lod)",
    "kanal": "domena / Winterfell",
-   "wraca": "301-01-31",
+   "wraca": "301-01-30",
    "zamyka": "lodownia pelna; ryba suszona i pemikan w ksiedze",
    "status": "otwarte"
   },
@@ -13951,7 +13951,7 @@
    "co": "WARZELNIA EDRICA SOLNEGO - DRUGA PANEW (slowo pana 09-03 (c)): ~30 smokow Kasa 1 (Dom), budowa IX-X, +3 t soli/mies. od XI (zima i wiosna; Konserwa domeny i lenna). Wlasni - bez rzutu.",
    "kto": "LUCAN ; EDRIC SOLNY ; HAL (Kasa 1)",
    "kanal": "kruk Domu ZM-BP",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "druga panew warzy",
    "status": "otwarte"
   },
@@ -14059,7 +14059,7 @@
    "co": "RYTOWNIK Z BRAAVOS - PODWOJNA STAWKA OD WIOSNY (slowo pana 09-05): Ilario przez Neste - umowa od 301-IV, przyjazd pierwszym statkiem wiosennym. Kasa 1 (Dom - skryptorium).",
    "kto": "ILARIO -> NESTA",
    "kanal": "statek",
-   "wraca": "300-10-31",
+   "wraca": "300-10-30",
    "zamyka": "umowa podpisana",
    "status": "otwarte"
   },
@@ -14250,7 +14250,7 @@
    "kanal": "na miejscu (WF) + kruk do Brenna",
    "wraca": "300-09-10",
    "zamyka": "stan T1-B i T3-C na pismie",
-   "status": "otwarte ### 09-10: Gawen + Edric Plug u pana po sniadaniu (umowione 09-09) - stan T1-B i T3-C."
+   "status": "zamkniete 300-09-10 ### stan na pismie (gra/bilans_korony_300_08_cykl.md, czesc TRAKTY): T1-B rzut 94 - ~9/30 mil, checkpoint 10-15 z zapasem, SZLABAN FREYA (myto przed otwarciem); T3-C - ~4/25 mil, most: pale niewbite, rece domeny w Konserwie; do slowa pana: szlaban, najem 40 ludzi ### POPRZEDNIO: byl-otw ### 09-10: Gawen + Edric Plug u pana po sniadaniu (umowione 09-09) - stan T1-B i T3-C."
   },
   {
    "data": "300-09-08",
@@ -14376,6 +14376,24 @@
    "kanal": "kruk WF-Fosa 09-10 + jezdziec Fosa-Dustinport",
    "wraca": "300-09-16",
    "zamyka": "trzech w drodze do domow (potwierdzenie Donnela w karcie II)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-10",
+   "co": "T1-B ODNOGA DO BLIZNIAKOW - CHECKPOINT 10 MIL (rozpiska 05-26) + SZLABAN FREYA (meldunek 09-10, rzut 94: ~9/30 mil; wlodarz Freya bierze myto na 3 pierwszych milach przed otwarciem calej odnogi) - do slowa pana: myto na poczet dlugu albo zdjac szlaban. Meldunek Brenna przy checkpoincie.",
+   "kto": "BRENN Z BRODU ; GAWEN ; (WALDER FREY - wlodarz)",
+   "kanal": "kruk WF-Bliznieta/Brod",
+   "wraca": "300-10-15",
+   "zamyka": "10 mil ulozonych (meldunek Brenna) + sprawa szlabanu rozstrzygnieta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-10",
+   "co": "T3-C CERWYN-WINTERFELL - DO MROZU (meldunek 09-10: ~4/25 mil, pale mostu niewbite; rece domeny w Konserwie - priorytet): Edric po mlocce (~09-25) 40 ludzi -> do mrozu ~10 mil + pale; do slowa pana: najem 40 ludzi z Dorzecza/ZM za dniowke (~1,2 smoka/mies, Kasa 3). Wlasni - bez rzutu.",
+   "kto": "EDRIC PLUG ; GAWEN",
+   "kanal": "na miejscu",
+   "wraca": "300-10-15",
+   "zamyka": "odcinek do mrozu (meldunek Edrica) + pale pod most",
    "status": "otwarte"
   }
  ],
@@ -14650,7 +14668,7 @@
     "start": "300-08-10"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-10",
+   "ostatnio_odebrane": "300-09-10",
    "zrodlo": "slowo pana 300-07-30"
   },
   {

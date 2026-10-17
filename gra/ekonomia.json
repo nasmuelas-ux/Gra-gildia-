@@ -597,7 +597,7 @@
      "stawka": 6,
      "okres": "miesiac",
      "od": "300-09-01",
-     "do": "300-08-31",
+     "do": "300-08-30",
      "zrodlo": "karta podliczenia lenna 300-08-17 - E ### 08-20 slowo pana (a): stawka do dniowki budow - pozycja zastapiona ponizej na IX-X; XI bez zmian."
     },
     {
@@ -615,7 +615,7 @@
      "stawka": 8,
      "okres": "miesiac",
      "od": "300-09-01",
-     "do": "300-10-31",
+     "do": "300-10-30",
      "zrodlo": "slowo pana 300-08-20 (wariant a Warryna) - E, moc zapisu: 6/mies x 4/3"
     },
     {
@@ -1286,7 +1286,7 @@
    "zrodlo": "kosztorys Herwina 08-30 (E, moc zapisu); slowo pana 08-30"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 2 - LENNO FOSY CAILIN",
    "kwota": -90,
    "opis": "PRAWO SKLADU CAILIN - NABRZEZE NA GORACZCE (pale, deski, dzwig reczny) - przed lodem",
@@ -1342,7 +1342,7 @@
    "zrodlo": "⚑ REWIZJA MODELU 300-09-01 na wskazanie pana (gra/rewizja_modelu_kasy_3_300_09_01.md); E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": 1600,
    "opis": "DOMENA - czynsz w monecie po zniwach (X)",
@@ -1377,7 +1377,7 @@
    "zrodlo": "rozkaz pana 09-02; Orwyl + Gawen; E z moca zapisu (razem ~50)"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -30,
    "opis": "ROZBUDOWA ZBROJOWNI WF - skrzydlo magazynowe ~1500 kompletow (II rata: dach, regaly, praca)",
@@ -1391,14 +1391,14 @@
    "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu; slowo pana 09-03 (a)+(c), rachunek Lucana"
   },
   {
-   "data": "301-01-31",
+   "data": "301-01-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": 120,
    "opis": "S-1 SOL DOMENNA - zwrot w monecie (reszta w dniowkach)",
    "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -50,
    "opis": "S-2 KOMORY WIEJSKIE etap 1 (40 w okregu I) - I polowa",
@@ -1412,7 +1412,7 @@
    "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -45,
    "opis": "S-3 WEDZARNIE I KISZARNIE OKREGOWE (Podgrodzie, Siedem Mlynow, Gosciniec)",
@@ -1426,35 +1426,35 @@
    "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 1 - DOM HANDLOWY TALLY",
    "kwota": -30,
    "opis": "WARZELNIA EDRICA SOLNEGO - DRUGA PANEW (+3 t soli/mies. od XI)",
    "zrodlo": "slowo pana 09-03 (c), rachunek Lucana; E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -9,
    "opis": "100 LODZI-AMFIBII (lodzie-ploze) NA WYSPIE NIEDZWIEDZIEJ - ~15 jeleni sztuka (~7,5) + sol i zboze dla ciesli (~1,5); wysokosc ostateczna wg odpowiedzi Maege",
    "zrodlo": "slowo pana 09-05; E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -2053,
    "opis": "RATA ILLYRIA - 22 000 korcy (w tym 2000 dla Mootona) ~3080 smokow; 1/3 towarem (drewno budulcowe/skory z natury), w monecie ~2053; platne przy dostawie do konca X",
    "zrodlo": "slowo pana 08-25 (Illyria) i kontrakt Olenny (rzut 88); rewizja 09-01 'raty ~6280'; DOPISANE 09-06 - GM nie wpisal rat do ksiegi (uzupelnienie, nie nowy koszt); E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -2133,
    "opis": "RATA REACH (Olenna, czesc Korony ~23 000 korcy) ~3200 smokow; 1/3 towarem, w monecie ~2133; dostawy IX-X",
    "zrodlo": "slowo pana 08-25 (Illyria) i kontrakt Olenny (rzut 88); rewizja 09-01 'raty ~6280'; DOPISANE 09-06 - GM nie wpisal rat do ksiegi (uzupelnienie, nie nowy koszt); E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -733,
    "opis": "ZBOZE Z REACH +10 000 korcy ponad kontrakt (~1100 smokow; 1/3 drewnem budulcowym, w monecie ~733) - JESLI Olenna przyjmie (rzut przy odpowiedzi); data dostawy moze przejsc na wiosne",
@@ -1482,14 +1482,14 @@
    "zrodlo": "slowo pana 09-09; E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -1.5,
    "opis": "S-6 ZBIERACZE - dniowki X",
    "zrodlo": "slowo pana 09-09; E z moca zapisu"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -4,
    "opis": "S-6 ZBIERACZE - suszarnie, druga polowa",
@@ -1503,7 +1503,7 @@
    "zrodlo": "SLOWO PANA 300-09-09 'Zakup na rok' - gra/zapas_lekow_korony_300_09_09.md"
   },
   {
-   "data": "300-10-31",
+   "data": "300-10-30",
    "kasa": "KASA 3 - SKARB POLNOCY",
    "kwota": -8,
    "opis": "S-7 ZAPAS LEKOW KORONY - zakup roku I, czesc z domeny i Polnocy (plotno wdow, ocet, miod, mech Apteki Bagna po cenie, skrzynie, narzedzia) ~55 w 7 ratach (E)",

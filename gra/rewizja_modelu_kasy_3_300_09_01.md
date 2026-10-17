@@ -71,7 +71,7 @@
 | komora Dustinportu | 55/mies | 3% (zboże Reach przez drugi port) | 300 |
 | Karport | 30/mies | 3% | 150 |
 | **Boltonsgate** | **od otwarcia portu** (data nieznana; nadanie Boltona), komora Korony | – | – |
-| spieniężenie natury | **700–1 300/mies** | 3% | 2 500 |
+| spieniężenie natury | **700–1 300/mies przed korektą skali ×2–3,3 (zasada gracza 300-04-26), realnie ~1 540–4 290/mies** | 3% | 2 500 (przed skalą) |
 | **domena: czynsz w monecie** | **IX 1 600 · X 1 600 · XI 600 · potem ~110/mies** (sezon: czynsze po żniwach) | – | – |
 | domena w naturze (zjadana i zapasy) | poza monetą: **~20 000–35 000 wartości rocznie** | – | – |
 
@@ -87,3 +87,7 @@
 - **Postanowienie Rady (A)** (stół, potem budowy) **zostaje na papierze i nie będzie potrzebne.**
 - Raty mogą iść **w monecie** albo z ⅓ towaru, jak dotąd.
 - **Gawen (O):** *„Byliśmy biedni w księdze, nie w skrzyni. To gorsze, bo podejmowałem decyzje z księgi.”*
+
+
+---
+*Dopisek techniczny: nowe linie cła (BP, dopłata Fosy, Dustinport, Karport) i czynsz domeny są kwotami ostatecznymi (`bez_skali`). „Dochód w monecie” i spieniężenie natury idą z korektą skali, jak dotąd. Kalkulator: `python3 gra/kasa.py miesiac 300-09` daje dla Kasy 3 wynik operacyjny **~3 000–6 300/mies** przed kosztami Korony (bilans liczy koszty jako 62,2% wpływów, metoda z 08-01).*

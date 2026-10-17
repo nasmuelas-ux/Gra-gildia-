@@ -13521,7 +13521,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-05",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 09-04 PLAN GOTOWY (gra/braavoski_lekcja_14_plan_300_09_04.md): temat pana - LICZENIE; scenka 'Dzial ladunku w Arsenale' (3/5 z 50 vs 6/10 z 40 - pulapka podstaw; mow na glos, licz od podstawy, sprawdzaj odwrotnie); 16 slow; zadanie na 15 - prawdziwy rachunek z Winterfell. RZUT przy lekcji."
+   "status": "zamkniete 300-09-05 ### RZUT 4 (prog 45): BARDZO ZLE - liczebniki/ulamki po braavosku nie weszly; Sansa w pulapce, Arya lapie po wspolnemu; spor siostr; ~6 z 16 slow. ### POPRZEDNIO: byl-otw ### 09-04 PLAN GOTOWY (gra/braavoski_lekcja_14_plan_300_09_04.md): temat pana - LICZENIE; scenka 'Dzial ladunku w Arsenale' (3/5 z 50 vs 6/10 z 40 - pulapka podstaw; mow na glos, licz od podstawy, sprawdzaj odwrotnie); 16 slow; zadanie na 15 - prawdziwy rachunek z Winterfell. RZUT przy lekcji."
   },
   {
    "data": "300-09-01",
@@ -14017,6 +14017,15 @@
    "wraca": "300-09-20",
    "zamyka": "slowo pana: kandydat; potem slowo Krola",
    "status": "otwarte ### 09-04 SLOWO PANA: pan planuje po powrocie Krola (~09-20) poplynac NA MUR i PO DRODZE do BRAAVOS - SAM jako wyslannik Korony. Do slowa Krola (prerogatywa; Namiestnik poza krolestwem). Rachunek Lucana (E): WF->BP ~5 dni; BP->Wschodnia Straznica ~6-8 dni; Wschodnia->Braavos ~10-14; w Braavos ~2 tyg.; Braavos->BP ~3 tyg. = ~2 mies. i wiecej; powrot ~XII; ryzyko jesiennych sztormow na Waskim Morzu, lod w Zatoce Fok od XI (E). Przed wyplynieciem: Mira - konkretna liczba tygodni (jej zadanie z 299, niezalatwione). ### 09-04 (pozniej) SLOWO PANA - ZMIANA: PROPOZYCJA DO KROLA = LADY CATELYN jako wyslanniczka, z SANSA i ARYA (obie mowia po braavosku - lekcje pana). Pan nie plynie do Braavos (Mur - osobno). Uwagi Lucana (O): eskorta - ser Brynden (wuj Catelyn) + okret Wymana + mistrz z Braavos przy Aryi; Nesta goszczy; ryzyko: matka i obie siostry Krola na jednym statku przez jesienne morze; Lys (trucizny), Braavos kusi Arye. Zgoda Catelyn - wola obca, RZUT przy rozmowie; slowo Krola ~09-20."
+  },
+  {
+   "data": "300-09-05",
+   "co": "BRAAVOSKI - LEKCJA 15 (pon 09-08): zadanie z 14 - prawdziwy rachunek z Winterfell (co, z ilu, ile) po braavosku. Po lekcji 14 (rzut 4): liczebniki i ulamki do powtorki; spor siostr po wspolnemu. Temat - do wyboru pana.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-08",
+   "zamyka": "lekcja odbyta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

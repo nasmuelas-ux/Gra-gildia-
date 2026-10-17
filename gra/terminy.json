@@ -13549,6 +13549,15 @@
    "wraca": "300-09-02",
    "zamyka": "slowo pana",
    "status": "zamkniete 300-09-01 ### (1) slowo pana: NIE towar - rewizja modelu wstecz (+6012), raty w monecie lub z 1/3 towaru jak dotad; (2) czlowiek Korony przy komorze BP - nadal do slowa pana. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-01",
+   "co": "CZLOWIEK KORONY PRZY KOMORZE BP - OSMUND KRESKA (E, izba uczniowska WF, 16 l.): kontrola rownolegla - wlasna ksiega, nic nie pobiera, nie porownuje; ksiega co miesiac do Gawena. Wikt Korony, zold praktykanta 1 jelen/dzien. Woz Korony do BP ~09-03, na miejscu ~09-10. List Gawena do Wymana 09-02 - przyjecie: RZUT przy odpowiedzi.",
+   "kto": "GAWEN ; BERON ; OSMUND KRESKA ; WYMAN (wiadomosc)",
+   "kanal": "woz Korony WF-BP; kruk WF-BP",
+   "wraca": "300-09-10",
+   "zamyka": "Osmund przy komorze + odpowiedz Wymana (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

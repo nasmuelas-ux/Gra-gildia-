@@ -14124,7 +14124,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-09",
    "zamyka": "lekcja 15 HV odbyta",
-   "status": "otwarte ### 09-08 ZROBIONE (rzut 33, PORAZKA): miara i cezury 16/20; 2 slowa prawne z pytajnikiem; przeklad - sens ogolny dobry, jedno kluczowe zdanie odwrotnie (przeczenie przeoczone - E). Lekcja 15 jutro wieczorem."
+   "status": "zamkniete 300-09-09 ### lekcja HV 15 odbyta, rzut 62 (prog 45) DOBRZE; regula dwoch przeczen; zadanie na pt 09-12 ### POPRZEDNIO: byl-otw ### 09-08 ZROBIONE (rzut 33, PORAZKA): miara i cezury 16/20; 2 slowa prawne z pytajnikiem; przeklad - sens ogolny dobry, jedno kluczowe zdanie odwrotnie (przeczenie przeoczone - E). Lekcja 15 jutro wieczorem."
   },
   {
    "data": "300-09-06",
@@ -14349,6 +14349,15 @@
    "kanal": "WF-ZM, osobiscie",
    "wraca": "300-09-29",
    "zamyka": "egzamin grupy I (rzut) i rozdzial opatrywaczy do garnizonow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-09",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 09-12 (po lekcji 15, rzut 62): (1) nastepne ~10 zdan prawa wodnego - miara, cezury, elizje, przeklad; (2) WSZYSTKIE PRZECZENIA zaznaczyc: przed czasownikiem (czyn/zakaz) czy za (skutek/sankcja); (3) 5 form bezpodmiotowych nakazu prawnego z tekstu - rozpoznac i przelozyc. RZUT przy odrabianiu.",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-09-12",
+   "zamyka": "lekcja 16 HV odbyta",
    "status": "otwarte"
   }
  ],

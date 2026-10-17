@@ -13693,6 +13693,15 @@
    "wraca": "300-11-15",
    "zamyka": "skrzydlo pod dachem, regaly stoja, nadwyzka przeniesiona ze stodoly",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "ROZMOWA RANO: GAWEN (Skarbnik) + EDRIC PLUG (Zarzadca Domeny) u Namiestnika - wezwani 09-02 wieczorem (temat - pan powie na miejscu).",
+   "kto": "SYMON; GAWEN; EDRIC PLUG",
+   "kanal": "komnata Namiestnika, WF",
+   "wraca": "300-09-03",
+   "zamyka": "rozmowa odbyta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

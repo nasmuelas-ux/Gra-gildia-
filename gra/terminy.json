@@ -13962,6 +13962,33 @@
    "kanal": "osobiscie",
    "wraca": "300-09-05",
    "zamyka": "slowo pana na 1-2",
+   "status": "zamkniete 300-09-04 ### SLOWO PANA: (1) DREWNO OKRETOWE -> BRAAVOS (Arsenal), nie stocznie Lannisportu; (2) ZBOZE Z REACH - DOKUPIC PONAD KONTRAKT (Gawen liczy ile/za ile); (3) ZWIEKSZYC CZUJNOSC na zachodnim brzegu; przy MALYM NAJEZDZIE - PRZEJMOWAC OKRETY I BRAC JENCOW. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-04",
+   "co": "DREWNO OKRETOWE -> BRAAVOS (slowo pana 09-04): drewno okretowe Korony (kolumny A/B, Wzor II poza tym) i Domu sprzedawac ARSENALOWI BRAAVOS (przez Neste/Hala), NIE stoczniom Lannisportu; Seagard bez zmian. Drewno okretowe lordow - Kompania/Dom skupuje pod Braavos (oferta, nie przymus). Cena i odbior Arsenalu - RZUT przy odpowiedzi.",
+   "kto": "GAWEN (Korona) ; HAL + NESTA (Dom, Braavos) ; LUCAN",
+   "kanal": "kruk WF-BP + statek BP-Braavos",
+   "wraca": "300-09-12",
+   "zamyka": "pierwsza oferta u Arsenalu / odpowiedz",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-04",
+   "co": "ZBOZE Z REACH PONAD KONTRAKT (slowo pana 09-04, rada Lucana - zboze tanie po dobrym roku): GAWEN liczy ile i za ile (Kasa 3; czesc towarem - NIE drewnem okretowym, ktore idzie do Braavos), list do Olenny przez Hala (szyfr). Zgoda i cena Olenny - RZUT przy odpowiedzi.",
+   "kto": "GAWEN -> HAL -> OLENNA",
+   "kanal": "kruk WF-BP; przedstawiciel w Highgarden",
+   "wraca": "300-09-06",
+   "zamyka": "propozycja Gawena na stole pana + list wyslany",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-04",
+   "co": "ZACHODNI BRZEG - CZUJNOSC ZWIEKSZONA (slowo pana 09-04) + ROZKAZ STALY: przy MALYM NAJEZDZIE (kilka kadlubow) nie tylko odeprzec - PRZEJMOWAC OKRETY I BRAC JENCOW (zywcem; jency do Korony, okrety do eskadry). Do: CORWIN i Brann Mokry (Kamienny Brzeg/Starkport), TORREN (admiral) + THEON (Dustinport), VEMUND/TORGEN (Cypel), MAEGE (przez Dacey), lenno: GARRICK + HENDRY + KESSEL (GP, ujscie, Jastrzebie - rozkaz lorda). Warty nocne podwojone, wieze ognia co noc, lodzie z kuszami w gotowosci. Kruki 09-05 rano (pieczec Namiestnika; lenno - pieczec lorda).",
+   "kto": "SYMON -> CORWIN, TORREN, THEON, VEMUND, MAEGE ; GARRICK/HENDRY/KESSEL",
+   "kanal": "kruki WF-Deepwood/Kamienny Brzeg, WF-Fosa, WF-Dustinport, Cypel",
+   "wraca": "300-09-12",
+   "zamyka": "potwierdzenia rozkazu z miejsc",
    "status": "otwarte"
   }
  ],

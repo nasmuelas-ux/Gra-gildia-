@@ -41,3 +41,9 @@
 1. **Drewno okrętowe Korony i lordów (słowo pana):** sprzedawać **Braavos (Arsenał), a nie stoczniom Lannisportu**? Seagard (Mallisterowie) bez zmian.
 2. **Zboże z Reach, póki tanie:** dokupić ponad kontrakt, w ramach trzyletniego kontraktu Olenny? Kwotę i ilość liczy Gawen.
 3. **Zachodni brzeg:** czujność **bez zmian** do meldunku siatki o Pyke (~09-10). *„Nic nie ruszać. Trzymać.”*
+
+---
+### ⚑ SŁOWO PANA 300-09-04 (wieczór)
+1. **Drewno okrętowe idzie do Braavos** (Arsenał), nie do Lannisportu.
+2. **Zboże z Reach: dokupić ponad kontrakt.** Ile i za ile, liczy Gawen.
+3. **Czujność zwiększona.** Przy **małym ataku przejmować okręty i brać jeńców.** Kruki 09-05 rano.

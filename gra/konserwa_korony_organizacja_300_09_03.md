@@ -64,3 +64,27 @@
 2. **Towary (II) i rok (III):** zgoda? Czy dopisać albo skreślić któryś towar?
 3. **Start teraz (IV):** pierwszy rzut w Podgrodziu i praca nakładcza od zaraz?
 4. **Granica z Domem (VI):** nadwyżka tylko przez komory Korony i nie na rynek beczki zimowej?
+
+---
+### ⚑ SŁOWO PANA 300-09-03
+1. **Forma: TAK.** Cztery poziomy. Edric Pług jest p.o., rządca Konserwy zostanie wybrany po spisie.
+2. **Towary i rok: ZGODA**, bez zmian.
+3. **START** w Podgrodziu i praca nakładcza od zaraz (~09-05).
+4. **Rynek:** *„Na wolnym rynku znajdzie się miejsce i dla nas. Korona buduje zapasy na dłuższą zimę i na wojny.”*
+   - **Pierwszy cel Konserwy to zapas Korony.**
+   - **Nadwyżka idzie na wolny rynek**, obok beczki zimowej Domu, bez zakazu.
+   - Propozycja Gawena z punktu VI (tylko komory Korony) **nieprzyjęta**.
+
+**Terminarz:**
+| data | co |
+|---|---|
+| 09-05 | start w Podgrodziu |
+| 09-20 | łosoś jesienny |
+| 10-01 | meldunek I, potem co miesiąc (cykl KONSERWA_KORONY) |
+| 10-25 | rządca Konserwy |
+| 10-31 | cel IX–X i żurawina |
+| 11-30 | ubój |
+| 301-01-31 | zima: spod lodu, lód, pemikan |
+| 301-09-30 | ser i bilans roku |
+
+**Na liście majątku Korony:** pozycje 16–23 (`majatek_funkcyjny_korony_300_07.md`).

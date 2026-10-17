@@ -13783,6 +13783,78 @@
    "wraca": "300-10-01",
    "zamyka": "pierwsza karta w racjach na stole pana + slupy w komorach",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA KORONY - START W PODGRODZIU (slowo pana 09-03): pierwszy rzut w szopach kasztelana - kapusta, rzepa, buraki, jablka, grzyby, jagody; sol ze skladu komory ZM (~30 beczek, E); beczki u bednarzy ZM (Korona pierwszym kupcem); PRACA NAKLADCZA od zaraz - lista Krolowej (138 wdow poboru) + wdowy okregu I, zaplata od beczki z udzialem 1/10. Wlasni - bez rzutu; odzew wdow - RZUT przy pierwszym meldunku. gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG (p.o. Zarzadu Konserwy) ; ORLAND (ksiega ZR) ; GAWEN (zaplata)",
+   "kanal": "domena / Winterfell",
+   "wraca": "300-09-05",
+   "zamyka": "pierwsze beczki w szopach + lista pracy nakladczej (meldunek, rzut odzewu)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA KORONY - IZBA RYBNA: LOSOS JESIENNY z Lososiowego Jazu i Bialego Brodu (II) - zakup od rybakow domeny po cenie ze slupa, solenie w Podgrodziu do czasu przetworni w Siedmiu Mlynach. gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG ; rybacy domeny (II)",
+   "kanal": "domena / Winterfell",
+   "wraca": "300-09-20",
+   "zamyka": "pierwsze beczki lososia solonego w ksiedze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA KORONY - MELDUNEK I (cykl miesieczny od X): beczki wg towaru w ZR, ludzie (wdowy/wdowcy, praca nakladcza), koszt, waskie gardlo; zgodnie z Racja Polnocna. gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG + ORLAND -> SYMON",
+   "kanal": "domena / Winterfell",
+   "wraca": "300-10-01",
+   "zamyka": "meldunek na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA KORONY - RZADCA KONSERWY: kandydaci z ludzi domeny po spisie (Edric) - do slowa pana; Edric dotad p.o. gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG -> SYMON",
+   "kanal": "domena / Winterfell",
+   "wraca": "300-10-25",
+   "zamyka": "kandydat(ci) na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA KORONY - CEL IX-X: ~300 beczek kiszonki + ~80 beczek ryby solonej (E); ZURAWINA z torfowisk (X); trzy przetwornie (S-3) pracuja. gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG ; GAWEN",
+   "kanal": "domena / Winterfell",
+   "wraca": "300-10-31",
+   "zamyka": "bilans IX-X w ZR: ile beczek wobec celu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA KORONY - IZBA MIESNA: UBOJ SWIN XI (Debowy Gaj, skraj Wilczego Lasu) - slonina, boczek, wedzonka, solone; sol domenna juz we wsiach (S-1). gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG ; wedzarze przetworni",
+   "kanal": "domena / Winterfell",
+   "wraca": "300-11-30",
+   "zamyka": "mieso w beczkach i w dymie, ksiega ZR",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA KORONY - ZIMA: ryba SPOD LODU (przereble Dlugie Jezioro, stawy mlynskie) i suszenie na mrozie (sztokfisz); LOD do lodowni (S-4, XII-I); PEMIKAN dla Muru i garnizonow (XI-I). gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG ; Rybacka Zatoka (IV) ; kasztelan (lod)",
+   "kanal": "domena / Winterfell",
+   "wraca": "301-01-31",
+   "zamyka": "lodownia pelna; ryba suszona i pemikan w ksiedze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "KONSERWA KORONY - IZBA MLECZNA: ser twardy i maslo solone V-IX 301 (Podgrodzie, Wierzbowe, Owczy Dwor); bilans pierwszego pelnego roku Konserwy w ZR. gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG / rzadca Konserwy",
+   "kanal": "domena / Winterfell",
+   "wraca": "301-09-30",
+   "zamyka": "bilans roku Konserwy",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -14112,6 +14184,19 @@
    "ostatnio_odebrane": "300-08-29",
    "zrodlo": "mala_rada_korony.md; slowo pana 08-28",
    "uwaga_0828": "posiedzenie 08-23 przepadlo (GM nie wpisal rytmu do kalendarza po 08-09) - zwolane na 08-29 po poludniu; od tej daty co 14 dni."
+  },
+  {
+   "id": "KONSERWA_KORONY",
+   "co": "KONSERWA KORONY - MELDUNEK MIESIECZNY (slowo pana 09-03): beczki wg towaru w ZR, ludzie (wdowy/wdowcy, praca nakladcza), koszt, sprzedaz nadwyzki na wolnym rynku, waskie gardlo racji; obok karty zywnosciowej Spichlerza. gra/konserwa_korony_organizacja_300_09_03.md",
+   "kto": "EDRIC PLUG (p.o. Zarzadu Konserwy) + ORLAND KORZEC",
+   "kanal": "na miejscu, Winterfell / ZM",
+   "rytm": {
+    "co_dni": 30,
+    "start": "300-10-01"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": null,
+   "zrodlo": "gra/konserwa_korony_organizacja_300_09_03.md"
   }
  ]
 }

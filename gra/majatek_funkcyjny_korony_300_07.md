@@ -25,6 +25,9 @@
 | 18 | **KONSERWA KORONY S-3: wędzarnie i kiszarnie okręgowe** (strategiczne, 09-03) | Podgrodzie, Siedem Młynów, Gościniec | budowa X | Edric Pług |
 | 19 | **KONSERWA KORONY S-4: lodownia** (strategiczne, 09-03) | przy Zimowym Mieście (staw Młyńskiej Łąki) | budowa X–XI, lód XII–I | Edric Pług; kasztelan |
 | 20 | **KONSERWA KORONY S-5: strona zimowa kalendarza 301** (09-03) | druk na Fosie | tekst ~09-05 | Luwin + Ilario |
+| 21 | **KONSERWA KORONY: Zarząd Konserwy** (strategiczne, 09-03): jedna księga w ZR, plan roku, zakup i rozdział; zapasy na długą zimę i wojny, nadwyżka na wolny rynek | Winterfell / Zimowe Miasto | od 09-03; meldunek co miesiąc od 10-01 | **p.o. Edric Pług**; księga Orland Korzec; pieniądz Gawen; rządca po spisie (X) |
+| 22 | **KONSERWA KORONY: przetwórnie okręgowe, po 4 izby** (ryba, mięso, warzywa i owoce, mleko i ser) | Podgrodzie (start 09-05 w szopach kasztelana), Siedem Młynów, Gościniec | budowa X; ~20 ludzi na przetwórnię | starsza (wdowa, klucz) + wędzarz (wdowiec) |
+| 23 | **KONSERWA KORONY: praca nakładcza wdów i wdowców** | domy w okręgu I, od 301 w okręgach I–III | od 09-05; lista królowej (138) + spis domeny po młocce | Edric; płaca od beczki, udział 1/10 |
 
 ## B. WSPÓLNE / UDZIAŁ KORONY
 - **Przystań Wilka**: Korona ma 1/2, Cerwyn 1/4, Manderly 1/4.

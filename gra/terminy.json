@@ -13534,7 +13534,7 @@
   },
   {
    "data": "300-09-01",
-   "co": "CLO BP - KSIEGA KOMORY VI-VIII I PRZEWOZ SKRZYNI KORONY Z BP DO WF (~786, rewizja Gawena 09-01): kruk do Torsena; przewoz z Halem. Wlasni - bez rzutu.",
+   "co": "CLO BP - KSIEGA KOMORY OD 299-10 I PRZEWOZ SKRZYNI KORONY Z BP DO WF (~3660, rewizja modelu 09-01): kruk do Torsena; przewoz z Halem pod straza. Wlasni - bez rzutu.",
    "kto": "GAWEN -> TORSEN (Faktor BP) ; HAL",
    "kanal": "kruk WF-BP; woz/statek",
    "wraca": "300-09-05",
@@ -13548,7 +13548,7 @@
    "kanal": "osobiscie",
    "wraca": "300-09-02",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-01 ### (1) slowo pana: NIE towar - rewizja modelu wstecz (+6012), raty w monecie lub z 1/3 towaru jak dotad; (2) czlowiek Korony przy komorze BP - nadal do slowa pana. ### POPRZEDNIO: byl-otw"
   }
  ],
  "_dopiski_300_03_18": [

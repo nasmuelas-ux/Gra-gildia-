@@ -13584,7 +13584,7 @@
    "kanal": "kruk Fosa-Dustinport",
    "wraca": "300-09-08",
    "zamyka": "odpowiedz stoczni (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-08 ### RZUT 43: pochylnie zajete do wiosny 301; Donnel - jeden kadlub wiosna + dwoch szkutnikow do pochylni lenna przy ujsciu Goraczki; koszt 30-60/kadlub (norma). Do slowa pana. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-02",
@@ -13602,7 +13602,7 @@
    "kanal": "kruk WF-BP",
    "wraca": "300-09-08",
    "zamyka": "odpowiedz Torsena + zastepcy wskazani",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-08 ### Torsen przyjmuje; zastepcy: Cailin - pisarz komory z rotacji Rorika (nie Rolf), ZM - Tobin Szala, Barrowton - Aldo Kurhan (E); prosi o stalego faktora przed zima (zasada 8). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-02",
@@ -14187,7 +14187,7 @@
    "kanal": "kruki WF-Fosa, WF-Deepwood/Kamienny Brzeg, WF-Dustinport (09-07 przed poludniem, pogoda dobra)",
    "wraca": "300-09-09",
    "zamyka": "50 z WF na pozycjach w GP (meldunek) + potwierdzenia ostrzezenia",
-   "status": "otwarte"
+   "status": "otwarte ### 09-08 (poczta_300_09_08.md): 50 z WF (Torvin Siwy) w GP przed polnoca 09-07 - pozycje przy murze i wiezy; Jastrzebie lodziami w ujsciu; noc cicha, zagli brak."
   },
   {
    "data": "300-09-07",
@@ -14197,6 +14197,15 @@
    "wraca": "300-09-14",
    "zamyka": "zgoda Edmure'a na jencow + slowo Krola/Namiestnika do Maidenpool",
    "status": "otwarte ### 09-07 SLOWO PANA: WYSLAC WSZYSTKIE TRZY - (a) list CATELYN do Edmure'a (kruk maestra WF->Riverrun, nie kantor Domu); (b) POTWIERDZENIE NAMIESTNIKA dla dowodcy Maidenpool: wymiana ~09-25 przy bramie od ladu, Harrion pierwszy, garnizon wychodzi morzem po nim - w imieniu Korony, pieczec kancelarii Krola Polnocy (przez Riverrun/oboz Edmure'a); (c) LIST DO KROLA - kruk do BP, do rak przy powrocie floty. Kruki 09-07 po poludniu. Odpowiedz Edmure'a (jency) - RZUT ~09-14."
+  },
+  {
+   "data": "300-09-08",
+   "co": "DO SLOWA PANA (poczta 09-08): (1) okrety lenna - plan Donnela (wiosna 1 kadlub w Dustinporcie + 2 szkutnikow do pochylni przy ujsciu); (2) staly faktor krolewski w Cailin przed zima (Bertram Wolny / pisarz z Barrowton).",
+   "kto": "SYMON",
+   "kanal": "Winterfell",
+   "wraca": "300-09-08",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

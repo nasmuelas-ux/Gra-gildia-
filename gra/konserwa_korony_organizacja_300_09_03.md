@@ -88,3 +88,19 @@
 | 301-09-30 | ser i bilans roku |
 
 **Na liście majątku Korony:** pozycje 16–23 (`majatek_funkcyjny_korony_300_07.md`).
+
+---
+## S-6. ZBIERACZE WILCZEGO LASU (przedsiębiorstwo Korony, słowo pana 300-09-09)
+*Pan: „Wsie dostają dniówki na zbiory grzybów, jagód i innych owoców.” Część Konserwy Korony. Liczby i miejsca to E z mocą zapisu.*
+
+| | |
+|---|---|
+| **Gdzie** | okręg V domeny, **Skraj Wilczego Lasu** (~70 wsi). **Pięć punktów skupu i suszarni:** Dolny Bór, Czerwony Strumień, Smolna Polana, Pszczela Poręba, Dzicza Ostoja. |
+| **Co i kiedy** | **IX–X:** grzyby (suszone na sznurkach), borówki i jeżyny (suszone, w miodzie z Pszczelej Poręby), orzechy laskowe, dzika róża i jarzębina. **X–XI:** żurawina z torfowisk. |
+| **Kto zbiera** | wsie okręgu V. **Dniówka Korony** (E: 5 miedziaków i miska kaszy), dzieci za pół. Wdowy i wdowcy na takich samych zasadach jak w Konserwie. |
+| **Ilu (E)** | ~300 zbieraczy przez ~40 dni sezonu |
+| **Kto prowadzi** | **Edric Pług** (Zarząd Konserwy). W lesie **leśniczy Korony** wskazuje miejsca i pilnuje, żeby nie ogołocić lasu (z każdego krzaka zostaje część), razem z **Cobem** (zapis: rok służby przy leśniczym). |
+| **Koszt (Kasa 3, E)** | dniówki ~3 smoki za sezon, suszarnie przy punktach ~10 smoków (szopy, sznury, ruszty), razem **~13** |
+| **Ile da (E)** | grzyby suszone ~3 t, owoce suszone i w miodzie ~8 t, orzechy ~2 t, **dzika róża i jarzębina ~2 t** |
+| **Po co (racja)** | ZR niewiele (grzyby i orzechy po ~1,0), ale **dzika róża, jarzębina i żurawina zimą chronią przed „krwawiącymi dziąsłami”** (Luwin, O). To uzupełnia kiszonkę. |
+| **Zbyt** | najpierw zapas Korony (komory, Korpus, garnizony, Mur), nadwyżka na wolny rynek |

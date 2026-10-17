@@ -1456,6 +1456,34 @@
    "kwota": -11,
    "opis": "KSIEGI KUPIONE W VIII (Hal): 4 tytuly - do biblioteki Wiezy Strazniczej WF",
    "zrodlo": "cykl KSIEGI_HALA; E z moca zapisu"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -6,
+   "opis": "S-6 ZBIERACZE WILCZEGO LASU - suszarnie przy 5 punktach skupu (szopy, sznury, ruszty)",
+   "zrodlo": "slowo pana 09-09; E z moca zapisu"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -1.5,
+   "opis": "S-6 ZBIERACZE - dniowki IX (~300 x ~20 dni x 5 miedz.)",
+   "zrodlo": "slowo pana 09-09; E z moca zapisu"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -1.5,
+   "opis": "S-6 ZBIERACZE - dniowki X",
+   "zrodlo": "slowo pana 09-09; E z moca zapisu"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -4,
+   "opis": "S-6 ZBIERACZE - suszarnie, druga polowa",
+   "zrodlo": "slowo pana 09-09; E z moca zapisu"
   }
  ],
  "_symulacje": {

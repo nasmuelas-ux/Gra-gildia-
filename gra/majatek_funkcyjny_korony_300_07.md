@@ -28,6 +28,7 @@
 | 21 | **KONSERWA KORONY: Zarząd Konserwy** (strategiczne, 09-03): jedna księga w ZR, plan roku, zakup i rozdział; zapasy na długą zimę i wojny, nadwyżka na wolny rynek | Winterfell / Zimowe Miasto | od 09-03; meldunek co miesiąc od 10-01 | **p.o. Edric Pług**; księga Orland Korzec; pieniądz Gawen; rządca po spisie (X) |
 | 22 | **KONSERWA KORONY: przetwórnie okręgowe, po 4 izby** (ryba, mięso, warzywa i owoce, mleko i ser) | Podgrodzie (start 09-05 w **składzie Domu Starków przy targu ZM**, zdjętym z listy sprzedaży 09-04), Siedem Młynów, Gościniec | budowa X; ~20 ludzi na przetwórnię | starsza (wdowa, klucz) + wędzarz (wdowiec) |
 | 23 | **KONSERWA KORONY: praca nakładcza wdów i wdowców** | domy w okręgu I, od 301 w okręgach I–III | od 09-05; lista królowej (138) + spis domeny po młocce | Edric; płaca od beczki, udział 1/10 |
+| 24 | **KONSERWA KORONY S-6: ZBIERACZE WILCZEGO LASU** (strategiczne, 09-09): dniówki dla wsi okręgu V za grzyby, jagody, orzechy, dziką różę, jarzębinę i żurawinę | 5 punktów skupu i suszarni: Dolny Bór, Czerwony Strumień, Smolna Polana, Pszczela Poręba, Dzicza Ostoja | IX–XI; ~300 zbieraczy | Edric Pług; leśniczy Korony + Cob |
 
 ## B. WSPÓLNE / UDZIAŁ KORONY
 - **Przystań Wilka**: Korona ma 1/2, Cerwyn 1/4, Manderly 1/4.

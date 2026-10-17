@@ -1376,9 +1376,9 @@
   {
    "data": "300-10-15",
    "kasa": "KASA 3 - SKARB POLNOCY",
-   "kwota": -176,
-   "opis": "S-1 SOL DOMENNA - 440 beczek dla wsi okregow I-III (po kosztach)",
-   "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
+   "kwota": -236,
+   "opis": "S-1 SOL DOMENNA - 440 beczek (~44 t): ~40 t soli morskiej z Essos przez Hala (~220) + ~4 t z warzelni Edrica Solnego (~16)",
+   "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu; slowo pana 09-03 (a)+(c), rachunek Lucana"
   },
   {
    "data": "301-01-31",
@@ -1414,6 +1414,13 @@
    "kwota": -20,
    "opis": "S-4 LODOWNIA KORONY przy Zimowym Miescie",
    "zrodlo": "slowo pana 09-03 (gra/konserwacja_zywnosci_domeny_300_09_03.md); E z moca zapisu"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -30,
+   "opis": "WARZELNIA EDRICA SOLNEGO - DRUGA PANEW (+3 t soli/mies. od XI)",
+   "zrodlo": "slowo pana 09-03 (c), rachunek Lucana; E z moca zapisu"
   }
  ],
  "_symulacje": {

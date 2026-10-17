@@ -13935,6 +13935,24 @@
    "kanal": "kruk Domu ZM-BP",
    "wraca": "300-09-03",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-09-03 ### SLOWO PANA: (a) + (c) RAZEM. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-03",
+   "co": "SOL Z ESSOS DLA DOMENY (S-1, slowo pana 09-03 (a)): ~40 t soli morskiej z panwi Braavos/Pentos przez Hala (Nesta/Obaro), ~220 smokow Kasa 3 (Gawen placi, umowa przez Skarbnika); kruk Domu do BP 09-04; statek; w BP ~10-20, rozwoz do wsi okregow I-III do ~11-01 (przed ubojem). Cena i statek - RZUT przy meldunku Hala (rynek, morze).",
+   "kto": "LUCAN -> HAL -> NESTA/OBARO ; GAWEN (zaplata)",
+   "kanal": "kruk Domu ZM-BP 09-04; statek BP-Braavos",
+   "wraca": "300-10-20",
+   "zamyka": "sol w BP",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "WARZELNIA EDRICA SOLNEGO - DRUGA PANEW (slowo pana 09-03 (c)): ~30 smokow Kasa 1 (Dom), budowa IX-X, +3 t soli/mies. od XI (zima i wiosna; Konserwa domeny i lenna). Wlasni - bez rzutu.",
+   "kto": "LUCAN ; EDRIC SOLNY ; HAL (Kasa 1)",
+   "kanal": "kruk Domu ZM-BP",
+   "wraca": "300-10-31",
+   "zamyka": "druga panew warzy",
    "status": "otwarte"
   }
  ],

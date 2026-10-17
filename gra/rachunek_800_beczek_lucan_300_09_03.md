@@ -43,3 +43,8 @@
 ---
 ### DO SŁOWA PANA
 1. **Sól domenna S-1:** (a) cała z Essos (~220, Kasa 3), (b) pół beczki na wieś, (c) druga panew warzelni (Kasa 1). Można też (a) z (c).
+
+---
+### ⚑ SŁOWO PANA 300-09-03: (a) i (c) RAZEM
+- (a) ~40 t soli z Essos przez Hala (~220, Kasa 3). Kruk Domu 09-04, w BP ~10-20, we wsiach ~11-01. S-1 razem ~236 (z ~4 t z warzelni).
+- (c) druga panew warzelni (~30, Kasa 1), +3 t/mies. od XI.

@@ -14142,6 +14142,24 @@
    "kanal": "Winterfell",
    "wraca": "300-09-06",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-09-06 ### SLOWO PANA: (1) TAK - sierociniec przy internacie, przez septy, 12 lozek, Dom placi (Mira wykonuje); (2) TAK ('Fal' - odczytane jako tak) - gorne pietro baszty w drewnie, jesli kamien nie zdazy; (3) TAK - szyby dla Theomore'a ze skrzyni BP. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-06",
+   "co": "SIEROCINIEC PRZY INTERNACIE FOSY (slowo pana 09-06, plan Miry): 12 lozek; sieroty z Dorzecza (Lyman) i Essos (Nesta, ostroznie); PRZEZ SEPTY z ich blogoslawienstwem; ~3 smoki/dziecko/rok - Kasa 1 (Dom), miejsce - lenno. Odzew sept - RZUT przy pierwszym kroku.",
+   "kto": "MIRA ; LYMAN ; NESTA ; HAL (Kasa 1)",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-10-15",
+   "zamyka": "pierwsze dzieci w internacie / odzew sept",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-06",
+   "co": "SZYBY DLA THEOMORE'A (slowo pana 09-06): kilka szyb (E: 4) ze skrzyni Korony z BP na inspekt doswiadczalny Glebokorzenia; reszta ~36 do ogrodow WF.",
+   "kto": "GAWEN ; THEOMORE",
+   "kanal": "przewoz skrzyni BP-WF (odbior w BP)",
+   "wraca": "300-09-15",
+   "zamyka": "szyby u Theomore'a",
    "status": "otwarte"
   }
  ],

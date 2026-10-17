@@ -14107,6 +14107,15 @@
    "wraca": "300-09-15",
    "zamyka": "statek najety, kapitan i cena",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-05",
+   "co": "LIST NAMIESTNIKA DO KROLA - POSELSTWO KOSCI (gra/list_do_krola_kosci_300_09_05.md): relacja + PROSBA O ROZKAZ dla Rodrika - oddelegowac 2 gwardzistow Zimowej Strazy (karta IV: tylko jawny rozkaz Krola). Kruk do BP, do rak Krola przy powrocie floty (~09-20). Slowo Krola - jego wola (RZUT przy odpowiedzi, jesli nie oczywiste).",
+   "kto": "SYMON -> KROL",
+   "kanal": "kruk WF-BP (Wyman, do rak Krola)",
+   "wraca": "300-09-20",
+   "zamyka": "rozkaz Krola dla Rodrika",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

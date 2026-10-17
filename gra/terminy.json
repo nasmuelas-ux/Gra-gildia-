@@ -8688,7 +8688,7 @@
    "kanal": "kruk Fosa-Bialy Port (2 dni) + statek BP-Braavos/Pentos (~24 dni w jedna strone)",
    "wraca": "300-09-08",
    "zamyka": "meldunek Hala: obsada imiennie obu placowek",
-   "status": "otwarte ### 08-25 (poczta_300_08_25.md): meldunek Hala z bilansem VIII. ### 09-05 (poczta_300_09_05.md): Nesta proponuje zarzadce filii Braavos: Vellan Torre (E) - do slowa pana; Pentos - Obaro bez zmian."
+   "status": "zamkniete 300-09-08 ### meldunek Hala (statek 09-05): Braavos - zarzadca filii VELLAN TORRE (E, zgoda pana 09-05; umowa - osobny termin); Pentos - OBARO bez zmian; reszta skladu (pisarz, magazynier) wg wzoru filii - w umowach Nesty i Obara. ### POPRZEDNIO: byl-otw ### 08-25 (poczta_300_08_25.md): meldunek Hala z bilansem VIII. ### 09-05 (poczta_300_09_05.md): Nesta proponuje zarzadce filii Braavos: Vellan Torre (E) - do slowa pana; Pentos - Obaro bez zmian."
   },
   {
    "data": "300-06-30",
@@ -10666,9 +10666,9 @@
    "co": "EDRIC PLUG OBEJMUJE URZAD ZARZADCY DOMENY (po zniwach): przysiega przy Krolu, krzeslo w Malej Radzie, przejecie od Gawena i Rodwella (spis A/B/C, osadnictwo okregow I-III, czynsz w monecie, Wielkie Targi Rolnicze).",
    "kto": "EDRIC PLUG ; KROL ; GAWEN ; RODWELL",
    "kanal": "Winterfell",
-   "wraca": "300-09-08",
+   "wraca": "300-10-15",
    "zamyka": "przejecie spraw ~09-01; przysiega przed Krolem po powrocie",
-   "status": "otwarte ### 08-28 SLOWO PANA: przysiega PRZED KROLEM (po powrocie). Od ~09-01 Edric przejmuje sprawy jako Zarzadca wyznaczony; krzeslo w Radzie po przysiedze; do tego p.o. Gawen + Rodwell. 08-29 - na Radzie jako sluchacz (zapoznanie). ### 09-01: przekazanie ruszylo (dzien 1 - spis A/B/C)."
+   "status": "otwarte ### 08-28 SLOWO PANA: przysiega PRZED KROLEM (po powrocie). Od ~09-01 Edric przejmuje sprawy jako Zarzadca wyznaczony; krzeslo w Radzie po przysiedze; do tego p.o. Gawen + Rodwell. 08-29 - na Radzie jako sluchacz (zapoznanie). ### 09-01: przekazanie ruszylo (dzien 1 - spis A/B/C). ### 09-08: sprawy przejete; PRZYSIEGA PRZED KROLEM - po powrocie Krola (data nieznana)."
   },
   {
    "data": "300-07-26",
@@ -13413,7 +13413,7 @@
    "kanal": "na miejscu",
    "wraca": "300-09-08",
    "zamyka": "przekazanie zakonczone",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-08 ### tydzien przekazania zakonczony (Gawen, Rodwell): okregi I-III spisane (A/B/C), Konserwa w rekach Edrica; od 09-09 Edric sam. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-29",

@@ -14485,6 +14485,33 @@
    "wraca": "300-09-25",
    "zamyka": "kosztorys i plan etapu I na stole pana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-11",
+   "co": "LYS - OSTROZNOSC RODU TALLY NA FOSIE (slowo pana 09-11, propozycja Stena a): szyfr Domu do DAGONA (oddzial II przy lady Mirze): nic z zewnatrz do Miry bez rak przybocznej (slodycze, wino, perfumy, olejki, lekarstwa spoza lecznicy Fosy), paczki z Essos - najpierw kordegarda, listy otwiera pisarz; do WILLI: ludzie z Lys na baczeniu bramy Fosy (imie, do kogo) obok obecnej rubryki. Wlasni - bez rzutu.",
+   "kto": "STEN -> DAGON ; LUCAN -> WILLA",
+   "kanal": "kruk Domu WF-Fosa 09-11 (szyfr)",
+   "wraca": "300-09-23",
+   "zamyka": "potwierdzenie Dagona i Willi (zbiorczy / karta)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-11",
+   "co": "OSLONA POSELSTWA DO BRAAVOS (slowo pana 09-11, propozycja Stena b): plan ochrony lady Catelyn, Sansy i Aryi na cala droge (statek, port, Braavos - Nesta goszczy) - jedzenie, prezenty, ludzie z Lys w Braavos, kto przy nich dzien i noc; do zestawienia z eskorta (dowodca - nieobsadzony) i slowem Krola. Wlasni - bez rzutu.",
+   "kto": "STEN (+ dowodca eskorty, gdy bedzie) ; NESTA (na miejscu)",
+   "kanal": "WF, osobiscie",
+   "wraca": "300-10-15",
+   "zamyka": "plan oslony na pismie (przed decyzja Krola o poselstwie)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-11",
+   "co": "OSTRZEZENIE DO HALA I NESTY - LYS (slowo pana 09-11): kruk Domu do Hala (szyfr): Lys celuje w Dom Tally (zdanie w BP zasiane przez Lys, kapitanowie z Lys pytali o GP, kantor lysenski przy Rybnej) - w kantorze BP te same zasady co u Stena (prezenty, paczki, napitki), nie przyjmowac zlecen ani kredytu od domow z Lys bez slowa Hala, czujnosc na pisarza kantoru lysenskiego; list do NESTY ze statkiem BP-Braavos (razem z listem Lucana, jesli zdazy): Braavos - Lys pracuje przeciw Domowi, ostroznie z Lysenczykami przy Banku i w porcie, ochrona kantoru i jej samej. Wlasni - bez rzutu.",
+   "kto": "SYMON -> HAL ; HAL -> NESTA",
+   "kanal": "kruk Domu WF-BP 09-11 (szyfr); statek BP-Braavos",
+   "wraca": "300-09-20",
+   "zamyka": "potwierdzenie Hala (Nesta - przy jej liscie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

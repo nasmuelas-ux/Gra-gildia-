@@ -47,3 +47,7 @@ Karta Głębokorzenia, rozdział ④: **„Lord Północy nie obsadza urzędu ma
 ### DO SŁOWA PANA
 0. **List do Cytadeli:** poprawić zadania maestra GP (bez kruków, pieczęci i ksiąg)?
 1. **Etap I sieci kruków Korony** (6 węzłów, ~30 na start + ~18 rocznie, Kasa 3) do Ulli Kory i Theomore'a na kosztorys?
+
+### ⚑ SŁOWO PANA 300-09-10: TAK i TAK
+0. **List do Cytadeli poprawiony przed wylotem.** Maester GP ma się zajmować **leczeniem, pogodą i sztormami oraz nauką**. **Bez kruków, pieczęci i ksiąg.** Krukarnię GP i księgę lodmanów trzyma krucznik Głębokorzenia.
+1. **Etap I idzie do Ulli Kory i Theomore'a** na kosztorys i plan. Kruk Głębokorzenia WF–BP leci 09-11. Odpowiedź ~09-25.

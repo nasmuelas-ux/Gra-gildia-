@@ -14475,6 +14475,15 @@
    "kanal": "kruk WF -> Stare Miasto (lancuch maesterski)",
    "wraca": "300-10-10",
    "zamyka": "odpowiedz Konklawe (rzut) - imie maestra albo odmowa",
+   "status": "otwarte ### 09-10 SLOWO PANA (przed wylotem kruka): POPRAWKA LISTU wg karty Glebokorzenia pkt 4 - maester GP: leczenie (lecznica przy porcie), pogoda i sztormy, nauka/szkola; BEZ krukow, pieczeci i ksiag - krukarnie GP i ksiege lodmanow trzyma czlowiek Glebokorzenia (krucznik sieci Korony)."
+  },
+  {
+   "data": "300-09-10",
+   "co": "SIEC KRUKOW KORONY - ETAP I (slowo pana 09-10; gra/siec_krukow_korony_300_09_10.md): Ulla Kora + Theomore (Glebokorzen) pod Mistrzem Nauki Luwinem - KOSZTORYS i plan: 6 wezlow (WF - krukarnia Korony osobno od wiezy maestera; BP - jest; Fosa/GP; Dustinport; Kamienny Brzeg; Przystan Wilka), krucznik w kazdym (przysiega Korony, bez lancucha), 6 uczniow u Ulli Kory, wymiana ptakow miedzy wezlami; E ~30 start + ~18/rok (Kasa 3). Pierwsza linia WF-BP przed wiosna. Krzeslo lacznosci - Krol po powrocie. Wlasni - bez rzutu.",
+   "kto": "ULLA KORA ; THEOMORE ; LUWIN (Mistrz Nauki)",
+   "kanal": "krukiem Glebokorzenia WF-BP 09-11",
+   "wraca": "300-09-25",
+   "zamyka": "kosztorys i plan etapu I na stole pana",
    "status": "otwarte"
   }
  ],

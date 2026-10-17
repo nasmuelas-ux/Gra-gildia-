@@ -14233,6 +14233,33 @@
    "wraca": "300-09-11",
    "zamyka": "lekcja odbyta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-08",
+   "co": "TRAKTY LENNA - MELDUNEK STANU (ALARM zasada 36: od VII brak otwartej operacji): T2-A (Fosa->granica lenna, dwutor; checkpoint 10-15: 5 mil + stacja mulow nr 1) i T3-A (Fosa->Przystan Wilka; przebieg 07-09, start VIII) - ile mil, ile rak, koszt Kasy 2. W zbiorczym Garricka.",
+   "kto": "GARRICK + WARRYN + mierniczy",
+   "kanal": "zbiorczy Garricka",
+   "wraca": "300-09-09",
+   "zamyka": "stan T2-A i T3-A na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-08",
+   "co": "TRAKTY KORONY - MELDUNEK STANU (ALARM 36): T1-B (odnoga do Blizniakow ~30 mil, rece Dorzecza za dniowke, Brenn z Brodu; checkpoint 10-15: 10 mil) i T3-C (Cerwyn->WF ~25 mil, domena; most przy brodzie przed roztopami) - stan, rece, koszt Kasy 3 z ksiegi. Gawen + Edric Plug (domena).",
+   "kto": "GAWEN + EDRIC PLUG ; BRENN Z BRODU",
+   "kanal": "na miejscu (WF) + kruk do Brenna",
+   "wraca": "300-09-10",
+   "zamyka": "stan T1-B i T3-C na pismie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-08",
+   "co": "TRAKTY LORDOW - ZAPYTANIE O STAN (ALARM 36): T2-B (Wyman - ekipy BP od VII, rzut 86 05-30), T3-B (Cerwyn - od VIII, rzut 81 06-03), T1-C (Frey - zgoda z warunkiem myta; Mallister - cisza od 07-20). Listy Namiestnika; odpowiedzi - RZUT.",
+   "kto": "SYMON -> WYMAN, CERWYN (kasztelan; lord z Krolem), FREY (Perwyn), MALLISTER",
+   "kanal": "kruki",
+   "wraca": "300-09-20",
+   "zamyka": "odpowiedzi lordow o stanie odcinkow",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

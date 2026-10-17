@@ -298,14 +298,14 @@
      "bez_skali": true
     },
     {
-     "nazwa": "SZARE PLASZCZE - ODDZIAL OBRONNY DOMU (20) - zold i wikt",
+     "nazwa": "SZARE PLASZCZE DOMU (20: BP ~12, Braavos ~8) - zold i wikt",
      "typ": "koszt",
-     "min": 1.2,
-     "max": 1.8,
+     "min": 1.4,
+     "max": 2.2,
      "okres": "miesiac",
      "od": "300-09-20",
      "do": null,
-     "zrodlo": "SLOWO PANA 300-09-11: 20 x 40 miedziakow/dzien (kurs) ~1,2 + wikt i kwatera do ~1,8 (E)"
+     "zrodlo": "SLOWO PANA 300-09-11 (poprawione): 20 x 40 miedziakow/dzien ~1,2 + wikt/kwatery; Braavos drozej (E) -> 1,4-2,2/mies"
     }
    ],
    "nieznane": [
@@ -1557,8 +1557,8 @@
   {
    "data": "300-09-30",
    "kasa": "KASA 1 - DOM HANDLOWY TALLY",
-   "kwota": -30,
-   "opis": "SZARE PLASZCZE - ODDZIAL OBRONNY DOMU (20): ekwipunek (plaszcze, kolczugi, miecze, tarcze, wlocznie) + kwatera w ZM - jednorazowo (E)",
+   "kwota": -35,
+   "opis": "SZARE PLASZCZE DOMU (20 nowych: BP ~12, Braavos ~8): ekwipunek + kwatery + przewoz 4 ludzi do Braavos - jednorazowo (E)",
    "zrodlo": "SLOWO PANA 300-09-11"
   }
  ],

@@ -14520,6 +14520,24 @@
    "kanal": "na miejscu (WF/ZM)",
    "wraca": "300-09-20",
    "zamyka": "nabor odbyty (rzut) - lista imienna, kwatera, ekwipunek",
+   "status": "zamkniete 300-09-11 ### ZASTAPIONE slowem pana tego samego dnia (nie ZM; nowi ludzie; BP i Braavos) - nowa pozycja ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-11",
+   "co": "SZARE PLASZCZE DOMU - BIALY PORT (~12) (slowo pana 09-11, poprawione: nie ZM, NOWI ludzie): nabor w BP - Sten (list) + Hal (na miejscu): weterani wojny, ludzie portu; kwatera przy kantorze Domu w BP; ochrona kantoru, Hala, ladunkow; zasady Stena (prezenty, paczki, napitki); szary plaszcz ze znakiem Domu; zgloszenie u ludzi Wymana (prawo miasta). ILU DOBRYCH - RZUT przy naborze. Kasa 1.",
+   "kto": "STEN -> HAL ; (Wyman - wiadomosc)",
+   "kanal": "kruk Domu WF-BP 09-11",
+   "wraca": "300-09-25",
+   "zamyka": "nabor BP odbyty (rzut) - lista, dowodca, kwatera",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-11",
+   "co": "SZARE PLASZCZE DOMU - BRAAVOS (~8) (slowo pana 09-11): ochrona kantoru Nesty przed Lys - polowa z naboru BP statkiem, polowa najeta przez Neste na miejscu (zna miasto i prawo Braavos). ZA ZGODA NESTY (jej kantor; wspolnictwo) - RZUT przy jej odpowiedzi; list ze statkiem BP-Braavos razem z ostrzezeniem. Kasa 1.",
+   "kto": "STEN -> HAL -> NESTA",
+   "kanal": "kruk Domu WF-BP + statek BP-Braavos",
+   "wraca": "300-11-10",
+   "zamyka": "odpowiedz Nesty (rzut) + ludzie na miejscu",
    "status": "otwarte"
   }
  ],

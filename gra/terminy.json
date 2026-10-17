@@ -14232,7 +14232,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-12",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 09-08 PLAN GOTOWY (gra/braavoski_lekcja_16_plan_300_09_08.md): scenka 'Dzien w Arsenale' - Arya mistrz kadluba, Sansa mistrz wyposazenia, pan admiral; 50 wiosel, 6 zmian; 'czy zdazymy przed zmrokiem'; 16 slow; zadanie na 17 - co z Arsenalu przydaloby sie Polnocy. RZUT przy lekcji."
+   "status": "zamkniete 300-09-12 ### lekcja odbyta, rzut 35 PORAZKA (blisko): galera nie zdazyla; spor o kolejnosc we wspolnej mowie; slow ~9/16; czesc 4 przeszla ### POPRZEDNIO: byl-otw ### 09-08 PLAN GOTOWY (gra/braavoski_lekcja_16_plan_300_09_08.md): scenka 'Dzien w Arsenale' - Arya mistrz kadluba, Sansa mistrz wyposazenia, pan admiral; 50 wiosel, 6 zmian; 'czy zdazymy przed zmrokiem'; 16 slow; zadanie na 17 - co z Arsenalu przydaloby sie Polnocy. RZUT przy lekcji."
   },
   {
    "data": "300-09-08",
@@ -14538,6 +14538,15 @@
    "kanal": "kruk Domu WF-BP + statek BP-Braavos",
    "wraca": "300-11-10",
    "zamyka": "odpowiedz Nesty (rzut) + ludzie na miejscu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-12",
+   "co": "BRAAVOSKI - LEKCJA 17 (pon 09-15, po sniadaniu): zadanie z planu 16 - kazda 3 zdania po braavosku: co z Arsenalu przydaloby sie Polnocy, a co nie, i dlaczego; powtorka scenki Arsenalu (kolejnosc: kil -> wregi -> deski; 'z ilu?' przed 'ile?'); 7 slow, ktore nie weszly. Temat nowy - do slowa pana.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-15",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

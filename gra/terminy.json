@@ -14403,7 +14403,7 @@
    "kanal": "szyfr Domu, kruk WF-Fosa",
    "wraca": "300-10-01",
    "zamyka": "karta Willi 10-01: stan linii KP, Pentos, Pyke",
-   "status": "otwarte ### 09-10 SLOWO PANA: (1) PENTOS - TAK, inna droga (Volantis przez Neste - osobna operacja); (2) PRZYSTAN - CZEKAC, az Willa ustali, co powiedzial uspiony (karta 10-01); (3) Lys przy GP - pan pyta o propozycje (Lucan)."
+   "status": "otwarte ### 09-10 SLOWO PANA: (1) PENTOS - TAK, inna droga (Volantis przez Neste - osobna operacja); (2) PRZYSTAN - CZEKAC, az Willa ustali, co powiedzial uspiony (karta 10-01); (3) Lys przy GP - pan pyta o propozycje (Lucan). ### 09-10 SLOWO PANA (pkt 3): ZGODA na B + A (osobne operacje)."
   },
   {
    "data": "300-09-10",
@@ -14412,6 +14412,33 @@
    "kanal": "kruk Domu WF-BP + statek BP-Braavos",
    "wraca": "300-11-10",
    "zamyka": "pierwszy list Nesty z Volantis (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-10",
+   "co": "PRZYMUS LODMANSKI U UJSCIA GORACZKI I PRZY POMOSCIE GP (slowo pana 09-10, prawo lorda Fosy; propozycja Lucana B): kazdy obcy statek wchodzacy w ujscie / stajacy przy pomoscie bierze LODMANA LENNA (Jastrzebie, Edric Szuwar) - oplata od statku (E: 2 jelenie, Kasa 2); statki pod kontraktem Korony (zboze Reach/Illyria) - lodman bez oplaty; KSIEGA przy wiezy ognia: statek, kapitan, ladunek, skad. Ogloszenie na pomoscie i w BP (Hal). Start ~09-15. Wlasni - bez rzutu; reakcja kupcow / Lys - zobaczymy w ksiedze.",
+   "kto": "SYMON -> GARRICK ; HENDRY ; EDRIC SZUWAR ; HAL (ogloszenie BP)",
+   "kanal": "kruk WF-Fosa 09-10 (szyfr Domu)",
+   "wraca": "300-09-23",
+   "zamyka": "pierwsze wpisy w ksiedze lodmanow (zbiorczy Garricka)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-10",
+   "co": "USZY LODMANOW BP (slowo pana 09-10, propozycja Lucana A): lodmani BP zglaszaja kapitanow pytajacych o Goraczke / GP / przewloke - Dom placi miedziaki za imie i statek (Kasa 1, drobne). Za ZGODA WYMANA (lodmani jego) - Hal pyta. Odpowiedz Wymana - RZUT.",
+   "kto": "HAL -> WYMAN ; lodmani BP",
+   "kanal": "kruk Domu WF-BP 09-10",
+   "wraca": "300-09-20",
+   "zamyka": "zgoda/odmowa Wymana; pierwsze zgloszenia",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-10",
+   "co": "LYS - KTO RZADZI I DLACZEGO INGERUJE (rozkaz pana 09-10: 'musze sie tego dowiedziec'): (1) NESTA (Braavos) - domy lysenskie przy Zelaznym Banku, ktory magister/dom stoi za pozyczkami dla stoczni Lannisportu i za kantorem przy Rybnej; uklad wladzy w Lys (magistrowie, rada) - w tym samym liscie co Volantis; (2) SALLADHOR SAAN (Lysenczyk, plywa dla Stannisa - kanon) przez kanal smoczego szkla (Wyl Brannik -> Davos) - ustnie, kto w Lys ma dzis wladze i pieniadz; sluchac, nie zobowiazywac. Odpowiedzi - RZUT przy kazdej.",
+   "kto": "LUCAN -> HAL -> NESTA ; WYL BRANNIK -> DAVOS -> SALLADHOR SAAN",
+   "kanal": "statek BP-Braavos; poslaniec ustny przez BP na Smocza Skale",
+   "wraca": "300-10-25",
+   "zamyka": "pierwsza odpowiedz (Nesta albo Salladhor) - kto w Lys",
    "status": "otwarte"
   }
  ],

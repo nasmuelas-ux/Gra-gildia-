@@ -99,3 +99,19 @@ _Do rąk własnych pana. Firewall: Willa nie zna odczytów Theona ani rozmów pa
   - **Koszt, zasada 8:** Lys zobaczy, że zamknęliśmy wodę. Kupcy, którzy płyną uczciwie, będą płacić za lodmana. Wyman może zapytać, czemu jego lodmani wystarczają w BP, a w GP nie.
 - **(C) Śledzić kantor lyseński przy Rybnej** (kto płaci pisarzowi). **Nie teraz**, bo siatka jest po drogim miesiącu.
 - **Lucan radzi B, a do tego A jako uszy:** *„To nie jest odpowiedź na Lys. To jest prawo, które i tak by nam się przydało, zanim przyjdą statki z Reach. Lys po prostu dał nam powód zrobić je teraz.”*
+
+### ⚑ SŁOWO PANA 300-09-10 (pkt 3): ZGODA na B + A
+- **B: przymus lodmański u ujścia Gorączki i przy pomoście GP.** Lodman lenna z Jastrzębi (Edric Szuwar), opłata od obcego statku (E: 2 jelenie, Kasa 2). Statki pod kontraktem Korony płyną z lodmanem bez opłaty. Księga przy wieży ognia. Start ~09-15. Kruk do Garricka i Hendry'ego dziś, ogłoszenie w BP przez Hala.
+- **A: uszy lodmanów BP.** Hal pyta Wymana. **RZUT przy odpowiedzi.**
+
+### ⚑ ROZKAZ PANA 300-09-10: „Kto dokładnie rządzi Lys i dlaczego Lys ingeruje tak mocno. Muszę się tego dowiedzieć.”
+**Co wiemy dziś (Lucan, O, z zapisu i kanonu):**
+- **Kto:** Lys rządzą **magistrowie**, rody kupieckie z krwią Valyrii, w radzie (kanon). **Imion nie znamy.** Nie mamy w Lys ani jednego własnego człowieka. *„Wiemy, na co Lys patrzy. Nie wiemy, kto w Lys patrzy.”* (09-04)
+- **Dlaczego tak mocno (odczyt Lucana):**
+  1. **Stopnie.** Lys żyje z drogi przez Stopnie, z myta, frachtu i ubezpieczenia. **Przewłoka Fosy i droga Braavos–Reach poza Stopniami odbierają Lys grosz** z każdego statku.
+  2. **Zakład na Lwa.** Lys pożycza stoczniom Lannisportu i skupował kwity Lwa. Jeśli Tywin wygra, Lys jest jego wierzycielem. Północ, która kupuje zboże na Południu i trzyma papier Lwa, psuje ten zakład.
+  3. **Dom Tally to dla Lys ręka Braavos.** Nesta, Arsenał, Bank. *„Lys nie widzi w nas Północy. Widzi Braavos, które wyrosło po drugiej stronie Wąskiego Morza. Dlatego zdanie o Tallych, a nie o Starkach.”*
+- **Jak się dowiedzieć (wybór Lucana):**
+  1. **Nesta (Braavos):** domy lyseńskie przy Żelaznym Banku, który magister stoi za pożyczkami dla Lannisportu i za kantorem przy Rybnej, jak dziś wygląda rada Lys. Pytanie idzie w tym samym liście co Volantis.
+  2. **Salladhor Saan** (kanon: Lyseńczyk, pirat i admirał Stannisa) **przez kanał smoczego szkła** (Wyl Brannik → Davos). *„Kto lepiej zna Lys niż człowiek, który z niego uciekł i dalej ma tam dług?”* Słuchać, nie zobowiązywać.
+- **RZUT przy każdej odpowiedzi.** Nesta ~X/XI, Salladhor przy następnym posłańcu do Smoczej Skały.

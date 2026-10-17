@@ -13188,7 +13188,7 @@
    "kanal": "statek kupiecki Dustinport-Seagard",
    "wraca": "300-10-05",
    "zamyka": "jeniec na statku; meldunek Theona",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 1): jeniec wraca w X Z WORKIEM ZIARNA (E: korzec zyta z komory Dustinportu, Kasa 3, grosz) i z tym samym zdaniem ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Rozkaz do Theona w paczce 09-10."
   },
   {
    "data": "300-08-27",
@@ -13926,7 +13926,7 @@
    "kanal": "kruk WF-Fosa (zgoda) + jezdziec do Dustinportu; dalej droga Theona",
    "wraca": "300-10-15",
    "zamyka": "odpowiedz Ashy albo cisza z powodem",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 5): B W CISZY PRZEZ ASHE - po jej odpowiedzi (~X) szkic listu Krola: Asha jako kanal, Theon jako most, nie kandydat Korony. ⚠ ZASADA 8: jesli Theon wybral kupca ksiag - ta droga spalona na Pyke (meldunek 09-10); w rozkazie do Theona: nie przez kupca ksiag."
   },
   {
    "data": "300-09-03",
@@ -14439,7 +14439,7 @@
    "kanal": "statek BP-Braavos; poslaniec ustny przez BP na Smocza Skale",
    "wraca": "300-10-25",
    "zamyka": "pierwsza odpowiedz (Nesta albo Salladhor) - kto w Lys",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 2): DOPISEK do pytania do SALLADHORA - czy w Lys mowia o CZARNYM KADLUBIE (valyrianskie zloto) i kto za nim stoi. Test domyslu Sansy (czlowiek, ktory chce Wysp)."
   },
   {
    "data": "300-09-10",
@@ -14448,6 +14448,24 @@
    "kanal": "kruk WF-Fosa 09-10 (szyfr); kruk WF-BP",
    "wraca": "300-10-05",
    "zamyka": "odpowiedz Olenny / reakcja eskorty (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-10",
+   "co": "THEON - PYTANIE O WIEC (slowo pana 09-10, kolejnosc 3): jesli Balon umrze - kto na Wyspach poparlby Theona, kto Ashe, kto Victariona, kto 'czlowieka z czarnym kadlubem'; ktorzy kapitanowie maja glosy i za co; jak dlugo od smierci do wiecu. Rozkaz pod pieczecia Namiestnika (kruk WF-Fosa + jezdziec do Dustinportu) razem z rozkazem o jencu (worek ziarna) i uwaga o kupcu ksiag. Jakosc odczytu - RZUT przy odpowiedzi (poprawka na dume).",
+   "kto": "SYMON -> THEON (Dustinport)",
+   "kanal": "kruk WF-Fosa 09-10 + jezdziec Fosa-Dustinport",
+   "wraca": "300-09-20",
+   "zamyka": "pismo Theona o wiecu (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-10",
+   "co": "WYSPY - CHLEB DLA KRZESLA Z MORSKIEGO KAMIENIA (slowo pana 09-10, kolejnosc 4; propozycja GM): stala oferta Korony - zboze dla Pyke, KTOKOLWIEK zasiadzie na Krzesle; male ilosci (zapas i Konserwa pierwsze), SPRZEDAWANE (moneta / okrety / pokoj na zachodnim brzegu), tylko jednym oficjalnym kanalem, nigdy kapitanom na boku. 'Byc dla Wysp tym, czym Olenna jest dla nas.' Prerogatywa Krola - szkic Namiestnika do decyzji Krola po powrocie (razem z B).",
+   "kto": "SYMON (szkic) -> KROL",
+   "kanal": "osobiscie po powrocie Krola",
+   "wraca": "300-09-20",
+   "zamyka": "slowo Krola",
    "status": "otwarte"
   }
  ],

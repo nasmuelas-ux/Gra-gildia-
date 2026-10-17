@@ -39,3 +39,11 @@
 2. **B: szkic listu Króla do Theona i Ashy** (uznanie dziedzica i chleb na wiec), do decyzji Króla po powrocie?
 3. **Pytanie do Theona o wiec** (kto kogo poprze)?
 4. **A: zboże dla Pyke** jako obietnica w B, czy osobno?
+
+---
+### ⚑ SŁOWO PANA 300-09-10: „Robimy według twojej kolejności” (propozycja GM)
+1. **C teraz:** jeniec z Harlaw wraca w X **z workiem ziarna** (korzec żyta z komory Dustinportu) i z tym samym zdaniem. Rozkaz do Theona w dzisiejszej paczce.
+2. **Dopisek do Salladhora teraz:** czy w Lys mówią o **czarnym kadłubie** i kto za nim stoi.
+3. **Theon, pytanie o wiec, teraz:** kto poparłby jego, kto Ashę, kto Victariona, a kto człowieka z czarnym kadłubem. **RZUT przy odpowiedzi (~09-20).** W tym samym rozkazie: **list do Ashy nie przez kupca ksiąg**, bo ta droga na Pyke jest spalona.
+4. **A: chleb dla Krzesła z Morskiego Kamienia, ktokolwiek na nim usiądzie.** Stała oferta, małe ilości, sprzedawane, jednym kanałem. Szkic dla Króla.
+5. **B w ciszy przez Ashę**, po jej odpowiedzi (~X). Asha jako kanał, Theon jako most, a nie kandydat Korony.

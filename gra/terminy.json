@@ -13053,7 +13053,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-08-29",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 08-27: plan gotowy (gra/braavoski_lekcja_12_plan_300_08_27.md) - szermierze Braavos, 'nikogo sie nie sluchaja'; Sansa - zdania na tabliczce."
+   "status": "zamkniete 300-08-29 ### lekcja odbyta (rzut 50, sukces): szermierze; Sansa przechodzi uprzejmoscia, Arya milczeniem; Arya: 'ci, co nie sluchaja nikogo - sluchaja kazdego, kto krzywo spojrzy'. ### POPRZEDNIO: byl-otw ### 08-27: plan gotowy (gra/braavoski_lekcja_12_plan_300_08_27.md) - szermierze Braavos, 'nikogo sie nie sluchaja'; Sansa - zdania na tabliczce."
   },
   {
    "data": "300-08-25",
@@ -13368,6 +13368,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-08-29",
    "zamyka": "posiedzenie odbyte, protokol",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-29",
+   "co": "BRAAVOSKI - LEKCJA 13 (pn 09-01): zadanie - trzy zdania po braavosku: czy na Polnocy jest miejsce dla ludzi, ktorzy nikogo nie sluchaja, a jesli tak - gdzie. Temat lekcji 13 - do wyboru pana.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-01",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

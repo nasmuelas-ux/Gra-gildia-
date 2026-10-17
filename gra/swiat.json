@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 8,
-  "dzien": 28,
+  "dzien": 29,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 73 (300-08-28): dobrze - pogodnie, rano chlodno i rzesko, w dzien slonce z wysokimi chmurami; wiatr umiarkowany z zachodu; drogi suche; kruki lataja od switu.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 74 (300-08-29): dobrze - poranek chlodny z mgla w dolinie, do poludnia slonce; wiatr slaby z polnocnego zachodu; drogi suche; kruki lataja od switu.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

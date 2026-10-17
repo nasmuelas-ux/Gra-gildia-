@@ -78,6 +78,7 @@
 | 22 | **Mchowe Jastrzębie** + ich przystań (20, docelowo 100) | działa | **Kessel** |
 | 23 | **Sąd grodzki** (księga przybyszów), **kancelaria i archiwum**, **skarbiec lenna** | działają | Roderyk; Garrick, Haldor; Gerrik |
 | 24 | **DOM DZIECKA**: przedsiębiorstwo lenna (słowo pana 300-09-08). Sierociniec przy internacie szkoły Fosy (12 łóżek na start). Sieroty z Dorzecza (Lyman), z Essos (Nesta, ostrożnie) i z ziem Północy, **przez septy i z ich błogosławieństwem**. Nauka razem z innymi dziećmi, talent pokaże się sam. Koszt ~3 smoki na dziecko rocznie, **Kasa 2** (wcześniej Dom, 09-06) | od ~X (pierwsze dzieci) | **Mira** (prowadzi), Alys; rachunek Gerrik/Warryn |
+| 25 | **ŁOWISKO RYB I ŻAB FOSY**: istniało, uzupełnione w zapisie 09-08 na słowo pana. Więcierze i sieci przy grobli i na rozlewiskach Gorączki (szczupak, węgorz, lin), żabiarnia na płyciznach, zimą żaby spod lodu. **ROZBUDOWA** (słowo pana 300-09-08): część Konserwy lenna (żywność, zapas, wolny rynek) | rozbudowa od IX; plan w zbiorczym | Mira, Garrick, Warryn; Kessel (woda, przewodnik krannog) |
 
 ---
 

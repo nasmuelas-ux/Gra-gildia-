@@ -14038,7 +14038,7 @@
   },
   {
    "data": "300-09-05",
-   "co": "KOSCI WILLAMA - LIST DO OBERYNA Z OPISEM MIEJSCA (slowo pana 09-05): przez Neste (statek); opis z listu Reeda 06-12 (osiem kopcow z kamieni wiezy; Willam w TRZECIM od wiezy ku przeleczy; kamien z imieniem w runach; przelecz Yronwood); pytanie: czy ludzie Oberyna wydobeda i odesla kosci statkiem do BP (dla Barrowton), czy Polnoc ma poslac swoich. Zgoda na ten krok - w rzucie 69 (pomoze); KTO pojdzie i kiedy - odpowiedz Oberyna (kolejna wiadomosc, nie nowy rzut na zgode).",
+   "co": "KOSCI WILLAMA - LIST DO OBERYNA Z OPISEM MIEJSCA (slowo pana 09-05): przez Neste (statek); opis z listu Reeda 06-12 (osiem kopcow z kamieni wiezy; Willam w TRZECIM od wiezy ku przeleczy; kamien z imieniem w runach; przelecz Yronwood); pytanie: czy ludzie Oberyna wydobeda i odesla kosci statkiem do BP (dla Barrowton), czy Polnoc ma poslac swoich. Zgoda na ten krok - w rzucie 69 (pomoze); KTO pojdzie i kiedy - odpowiedz Oberyna (kolejna wiadomosc, nie nowy rzut na zgode). ### 09-05 ZMIANA (slowo pana): NIE ludzie Oberyna - POLNOC POSYLA POSELSTWO KOSCI (osobny termin); list do Oberyna: przejazd przez Czerwone Gory i przelecz Yronwood dla poselstwa + zgoda na zabranie WSZYSTKICH OSMIU (takze trzech z Gwardii Krolewskiej - kanon: Arthur Dayne, Gerold Hightower, Oswell Whent) i oddanie ich rodzinom; ser Arthur - Starfall (Dayne'owie w Dorne).",
    "kto": "SYMON -> NESTA -> OBERYN",
    "kanal": "kruk WF-BP + statek BP-Braavos; Braavos-Sloneczna Wlocznia",
    "wraca": "300-10-20",
@@ -14088,6 +14088,15 @@
    "kanal": "kruk WF-Wyspa Niedzwiedzia (przez Deepwood/Dacey)",
    "wraca": "300-10-15",
    "zamyka": "odpowiedz Maege: ile i kiedy",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-05",
+   "co": "POSELSTWO KOSCI - WIEZA RADOSCI (slowo pana 09-05): POLNOC sama jedzie po kosci - WSZYSTKIE OSIEM kopcow - i ODDAJE JE RODZINOM, CEREMONIALNIE. SKLAD: 10 ludzi Starkow (garnizon WF, szary plaszcz, choragiew wilka) + SER HARWOOD WRZOS (czlowiek Barbrey, 'zostal wtedy przy koniach' - zapis 06-12) + rycerze ZIMOWEJ STRAZY (⚠ karta Strazy: chroni Krola i rodzine; misja poza tym - tylko na JAWNY ROZKAZ KROLA, odnotowany; dobiera Pierwszy Miecz - Rodrik). OSIEM KOPCOW (kanon + zapis 06-12): Willam Dustin (Barrowton), Ethan Glover (Deepwood), Martyn Cassel (Winterfell - brat ser Rodrika), Theo Wull (klan Wull), Mark Ryswell (Rills); Gwardia Krolewska: ser Arthur Dayne (Starfall - Dorne), ser Gerold Hightower (Stare Miasto), ser Oswell Whent (Harrenhal/Dorzecze - przez Edmure'a). Barbrey: tajemnica w Barrowton, poki kosci nie sa w drodze (zapis). Do ulozenia: droga (propozycja: statkami Redwyne'ow wracajacymi po zbozu z GP -> Arbor/Stare Miasto, ladem do przeleczy Ksiazecej), trumny, obrzad (stare bogi dla polnocnych; septon dla Gwardii), koszt (E ~60-90 smokow, Kasa 3). Zalezy od: odpowiedzi Oberyna (przejazd, zgoda na osmiu) i slowa Krola (Zimowa Straz) ~09-20.",
+   "kto": "SYMON ; SER RODRIK (Pierwszy Miecz - Zimowa Straz, ludzie Starkow) ; BARBREY (Harwood) ; KROL (rozkaz dla Strazy)",
+   "kanal": "osobiscie WF; kruk do Barrowton (Harwood, cicho); list do Krola; list do Oberyna przez Neste",
+   "wraca": "300-09-20",
+   "zamyka": "sklad zatwierdzony (Krol + Rodrik), droga i data wyjazdu",
    "status": "otwarte"
   }
  ],

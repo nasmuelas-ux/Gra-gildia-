@@ -13188,7 +13188,7 @@
    "kanal": "statek kupiecki Dustinport-Seagard",
    "wraca": "300-10-05",
    "zamyka": "jeniec na statku; meldunek Theona",
-   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 1): jeniec wraca w X Z WORKIEM ZIARNA (E: korzec zyta z komory Dustinportu, Kasa 3, grosz) i z tym samym zdaniem ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Rozkaz do Theona w paczce 09-10."
+   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 1): jeniec wraca w X Z WORKIEM ZIARNA (E: korzec zyta z komory Dustinportu, Kasa 3, grosz) i z tym samym zdaniem ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Rozkaz do Theona w paczce 09-10. ### 09-10 SLOWO PANA (Lucan a): worek DLA CZYTELNIKA - przez Seagard statkiem kupieckim, ustnie z imieniem Rodrika Harlawa: 'Dla Czytelnika, od Polnocy, ktora nie pali tych, ktorych wyrzuca morze.' Bez pieczeci Korony."
   },
   {
    "data": "300-08-27",
@@ -14466,7 +14466,7 @@
    "kanal": "osobiscie po powrocie Krola",
    "wraca": "300-09-20",
    "zamyka": "slowo Krola",
-   "status": "otwarte"
+   "status": "otwarte ### 09-10 SLOWO PANA (Lucan b): w szkicu dla Krola ZAPLATA KADLUBAMI (puste okrety, bez zalog) jako jedna z form; dostawy PO CICHU - kupieckimi statkami przez Harlaw (Czytelnik), bez pieczeci Korony na beczce; slowo Krola tylko na pismie dla Krzesla."
   }
  ],
  "_dopiski_300_03_18": [

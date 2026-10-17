@@ -56,3 +56,7 @@
 3. **Lys:** *„Lys płaci obu stronom, więc kto wygra wiec, będzie winien Lys. Chleb to jedyna rzecz, która może zrobić z dłużnika Lys naszego klienta. W lutym złota się nie je.”*
 4. **Theon:** *„Słuchać, nie wierzyć. W lutym miał rację w jednym zdaniu i mylił się w trzech.”*
 5. **Do słowa pana (Lucan):** (a) worek jeńca **dla Czytelnika** (przez Seagard, ale z imieniem Harlawa); (b) w szkicu A dla Króla **zapłata kadłubami** jako jedna z form.
+
+### ⚑ SŁOWO PANA 300-09-10 (wieczór): ZGODA na (a) i (b)
+- **(a)** Worek jeńca idzie **dla Czytelnika**. Przez Seagard, statkiem kupieckim, ustnie: *„Dla Czytelnika, od Północy, która nie pali tych, których wyrzuca morze.”* Bez pieczęci.
+- **(b)** W szkicu A dla Króla jest **zapłata kadłubami** (puste okręty, bez załóg). Dostawy po cichu, przez Harlaw, bez pieczęci Korony na beczce.

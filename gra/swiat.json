@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 10,
+  "dzien": 11,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 57 (300-09-10): przecietnie - koniec babiego lata: od zachodu chmury, chlodniej, sucho; wiatr zachodni, drogi suche; kruki lataja.",
- "dzien_tygodnia_nr": 3,
+ "pogoda": "RZUT 31 (300-09-11): slabo - szaro i zimno, mzawka od zachodu do poludnia, wiatr zachodni; drogi wilgotne; kruki lataja niechetnie, ale lataja.",
+ "dzien_tygodnia_nr": 4,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

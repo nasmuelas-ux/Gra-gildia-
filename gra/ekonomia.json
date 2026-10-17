@@ -1428,6 +1428,20 @@
    "kwota": -9,
    "opis": "100 LODZI-AMFIBII (lodzie-ploze) NA WYSPIE NIEDZWIEDZIEJ - ~15 jeleni sztuka (~7,5) + sol i zboze dla ciesli (~1,5); wysokosc ostateczna wg odpowiedzi Maege",
    "zrodlo": "slowo pana 09-05; E z moca zapisu"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -2053,
+   "opis": "RATA ILLYRIA - 22 000 korcy (w tym 2000 dla Mootona) ~3080 smokow; 1/3 towarem (drewno budulcowe/skory z natury), w monecie ~2053; platne przy dostawie do konca X",
+   "zrodlo": "slowo pana 08-25 (Illyria) i kontrakt Olenny (rzut 88); rewizja 09-01 'raty ~6280'; DOPISANE 09-06 - GM nie wpisal rat do ksiegi (uzupelnienie, nie nowy koszt); E z moca zapisu"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -2133,
+   "opis": "RATA REACH (Olenna, czesc Korony ~23 000 korcy) ~3200 smokow; 1/3 towarem, w monecie ~2133; dostawy IX-X",
+   "zrodlo": "slowo pana 08-25 (Illyria) i kontrakt Olenny (rzut 88); rewizja 09-01 'raty ~6280'; DOPISANE 09-06 - GM nie wpisal rat do ksiegi (uzupelnienie, nie nowy koszt); E z moca zapisu"
   }
  ],
  "_symulacje": {

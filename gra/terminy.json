@@ -14403,6 +14403,15 @@
    "kanal": "szyfr Domu, kruk WF-Fosa",
    "wraca": "300-10-01",
    "zamyka": "karta Willi 10-01: stan linii KP, Pentos, Pyke",
+   "status": "otwarte ### 09-10 SLOWO PANA: (1) PENTOS - TAK, inna droga (Volantis przez Neste - osobna operacja); (2) PRZYSTAN - CZEKAC, az Willa ustali, co powiedzial uspiony (karta 10-01); (3) Lys przy GP - pan pyta o propozycje (Lucan)."
+  },
+  {
+   "data": "300-09-10",
+   "co": "WSCHOD PRZEZ VOLANTIS - LINIA NESTY (slowo pana 09-10, zamiast zatrzymanej linii Pentos): Lucan -> Nesta (szyfr Domu, Hal, statek BP-Braavos): przez korespondentow Nesty w Volantis - kto najmuje statki na wschod i na zachod, czy Zlota Kompania trzyma kontrakt z Myr, zakupy na dlugi rejs; ZADNYCH pytan o Illyria; sluchac, nie pytac. Odpowiedz - RZUT przy odpowiedzi (statek w obie strony + Volantis).",
+   "kto": "LUCAN -> HAL -> NESTA (Braavos) -> korespondent w Volantis",
+   "kanal": "kruk Domu WF-BP + statek BP-Braavos",
+   "wraca": "300-11-10",
+   "zamyka": "pierwszy list Nesty z Volantis (rzut)",
    "status": "otwarte"
   }
  ],

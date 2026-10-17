@@ -85,3 +85,17 @@ _Do rąk własnych pana. Firewall: Willa nie zna odczytów Theona ani rozmów pa
 1. **Pentos (wschód):** linia jest zatrzymana. Wznowić inną drogą (np. Volantis przez Nestę), czy zostawić?
 2. **Przystań (uśpiony przepadł):** czekać, aż Willa ustali, co powiedział, czy kogoś wysłać?
 3. **Lys pyta o wodę przy Gorącym Porcie:** coś ponad czujność z 09-04?
+
+### ⚑ SŁOWO PANA 300-09-10
+1. **Pentos: TAK, inną drogą.** Volantis przez Nestę. Lucan szyfruje do Nesty przez Hala, a list idzie statkiem z BP do Braavos. Pytania o Illyria nie padają. **RZUT przy odpowiedzi (~XI).**
+2. **Przystań: CZEKAĆ.** Willa ustala, co powiedział zabrany człowiek. Wynik w karcie 10-01.
+3. **Lys przy Gorącym Porcie:** pan prosi Lucana o propozycję.
+
+**PROPOZYCJA LUCANA (O), pkt 3:**
+- **(A) Uszy lodmanów BP.** Lodmani należą do Wymana, więc idzie to przez Hala, za zgodą Wymana. Każdy lodman, który zgłosi kapitana pytającego o Gorączkę, dostaje od Domu kilka miedziaków za imię i statek. Tanio, ale **tylko patrzy**.
+- **(B) Przymus lodmański u ujścia Gorączki (lenno Fosy, prawo pana jako lorda).** Każdy obcy statek, który wchodzi w ujście albo staje przy pomoście GP, **bierze lodmana lenna** z Jastrzębi (opłata od statku). Lodman wpisuje statek, kapitana i ładunek do księgi przy wieży ognia.
+  - *„Ciekawość Lys zamienia się w księgę. Kto chce znać naszą głębokość, pozna ją z naszym człowiekiem na pokładzie.”*
+  - Przy okazji to dochód lenna i porządek na wodzie przed statkami ze zbożem z Reach (X).
+  - **Koszt, zasada 8:** Lys zobaczy, że zamknęliśmy wodę. Kupcy, którzy płyną uczciwie, będą płacić za lodmana. Wyman może zapytać, czemu jego lodmani wystarczają w BP, a w GP nie.
+- **(C) Śledzić kantor lyseński przy Rybnej** (kto płaci pisarzowi). **Nie teraz**, bo siatka jest po drogim miesiącu.
+- **Lucan radzi B, a do tego A jako uszy:** *„To nie jest odpowiedź na Lys. To jest prawo, które i tak by nam się przydało, zanim przyjdą statki z Reach. Lys po prostu dał nam powód zrobić je teraz.”*

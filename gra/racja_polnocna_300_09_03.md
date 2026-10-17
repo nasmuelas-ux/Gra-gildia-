@@ -72,3 +72,5 @@ Liczby **~10 200 korcy na tydzień** i **„długa zima ~2,8 mln korcy”** z 08
 ### DO SŁOWA PANA
 1. **Tablica przeliczników (1)** i **racja pełna (2)**: zatwierdzić?
 2. **Karta żywnościowa w racjach (5)** od X i **słupy z tablicą** w komorach?
+
+### ⚑ SŁOWO PANA 300-09-03: (1) TAK, (2) TAK. Racja Północna obowiązuje jako miara Korony. Karta w racjach od X.

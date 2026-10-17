@@ -13773,6 +13773,15 @@
    "kanal": "Winterfell",
    "wraca": "300-09-03",
    "zamyka": "slowo pana: tablica racji",
+   "status": "zamkniete 300-09-03 ### SLOWO PANA: (1) TABLICA PRZELICZNIKOW I RACJA PELNA - ZATWIERDZONE (obowiazuja jako miara Korony); (2) KARTA ZYWNOSCIOWA W RACJACH od X + SLUPY Z TABLICA w komorach - TAK. Wykonanie: Gawen + Orland (karta), Ilario/obrazki (slupy). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-03",
+   "co": "RACJA POLNOCNA - WDROZENIE: karta zywnosciowa IX liczona juz w racjach (pierwsza ~10-01, Gawen + Orland); tablice przelicznika na slupach komor Spichlerza i komor wiejskich (obrazki - dzieci ze szkoly ZM, E).",
+   "kto": "GAWEN + ORLAND KORZEC",
+   "kanal": "Winterfell / komory",
+   "wraca": "300-10-01",
+   "zamyka": "pierwsza karta w racjach na stole pana + slupy w komorach",
    "status": "otwarte"
   }
  ],

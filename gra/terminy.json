@@ -12954,7 +12954,7 @@
    "kanal": "kruk WF-Fosa (szyfr) + jezdziec Fosa-Dustinport i z powrotem",
    "wraca": "300-09-03",
    "zamyka": "odczyt Theona na pismie",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-03 ### RZUT 20 (prog 45): ODCZYT SLABY, pewny siebie - gra/odczyt_theona_300_09_03.md: Lew na Wyspy, Wyspy nie na Polnoc tej jesieni; zold - kapitanowie; czarny kadlub - 'nie Euron' (przemalowany kupiec z Lys); o Balonie ani slowa; PROSBA: list do Ashy przed wrzesniem (wbrew radzie 08-07 - do slowa pana). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-22",
@@ -13908,6 +13908,15 @@
    "kanal": "kruk WF-Fosa 09-03 (z listem o Konserwie)",
    "wraca": "300-09-16",
    "zamyka": "pierwsza niedziela matek w internacie + rozmowa z septonem umowiona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-03",
+   "co": "THEON PROSI: LIST DO ASHY PRZED WRZESNIEM (wbrew wlasnej radzie z 08-07 'tylko po wrzesniu' - ryzyko: Balon przeczyta). Do slowa pana.",
+   "kto": "SYMON -> THEON",
+   "kanal": "kruk WF-Fosa (szyfr) + jezdziec do Dustinportu",
+   "wraca": "300-09-05",
+   "zamyka": "slowo pana: tak/nie/kiedy",
    "status": "otwarte"
   }
  ],

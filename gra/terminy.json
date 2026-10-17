@@ -10146,7 +10146,7 @@
    "kanal": "Winterfell / Zimowe Miasto",
    "wraca": "300-10-01",
    "zamyka": "zamowienia u rzemieslnikow ZM zlozone + plan miesieczny kuzni",
-   "status": "otwarte ### 08-05 (wlasni, bez rzutu): Orwyl zlozyl zamowienia u rzemieslnikow ZM (drzewca, tarcze, skorznie - E); plan miesieczny kuzni na 5 stanowisk na pismie u Gawena; pierwszy odbior ~09-01. ### 09-01: odbior 1: polhelmy 1500 gotowe; kolczugi ~70 (waskie gardlo); groty ~2400; drzewca i tarcze ~300 kompletow (E). Nastepny odbior ~10-01. ### 09-02 (slowo pana): 300 LUCZNIKOW w 1500; zaliczka Torma na drewno lukowe; Orwyl ma rozpisac groty na wlocznie/strzaly przy odbiorze ~10-01; cieciwy i strzaly - zima."
+   "status": "otwarte ### 08-05 (wlasni, bez rzutu): Orwyl zlozyl zamowienia u rzemieslnikow ZM (drzewca, tarcze, skorznie - E); plan miesieczny kuzni na 5 stanowisk na pismie u Gawena; pierwszy odbior ~09-01. ### 09-01: odbior 1: polhelmy 1500 gotowe; kolczugi ~70 (waskie gardlo); groty ~2400; drzewca i tarcze ~300 kompletow (E). Nastepny odbior ~10-01. ### 09-02 (slowo pana): 300 LUCZNIKOW w 1500; zaliczka Torma na drewno lukowe; Orwyl ma rozpisac groty na wlocznie/strzaly przy odbiorze ~10-01; cieciwy i strzaly - zima. ### 09-02 LUPY: 38 calych lwich mieczy i 13 calych kolczug do zbrojowni JAK SA (zbity lew, wymiana kolek) - slowo pana; zlom, ulamane glownie, 9 rozdartych kolczug, 31 helmow - przetop (Mikken). Miecze w reku ~158 z ~250 (brak ~92, E); kolczugi ~83. Skup rozszerzony (osobny termin)."
   },
   {
    "data": "300-07-20",
@@ -13675,6 +13675,15 @@
    "wraca": "300-09-03",
    "zamyka": "slowo pana: liczba lucznikow + zaliczka na drewno",
    "status": "zamkniete 300-09-02 ### SLOWO PANA: (1) 300 LUCZNIKOW w 1500 (1 na 5); (2) ZALICZKA DLA TORMA - TAK (5 smokow, Kasa 3, 09-03; E). Torm: jesion zaraz po opadnieciu lisci, cis zima (E); sezonowanie rok-dwa - pelna liczba lukow lato 301/302; do tego czasu ~120 z suchych (E). Dalej idzie w terminie ZBROJOWNIA x1500 (odbior ~10-01). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-02",
+   "co": "SKUP LUPOW - ROZSZERZONY (slowo pana 09-02): Korona kupuje LWIE KOLCZUGI, MIECZE I HELMY u chorazych i ludzi z poboru po cenie ze slupa (E: kolczuga cala ~2 smoki, miecz ~3/4, helm ~1/4); ogloszenie na slupach komor i targow + listy Namiestnika do lordow (Glover, Tallhart, Dustin, Manderly, Umber, Karstark, Cerwyn - kasztelan, Hornwood, Mormont, Bolton) przez Berona. Odbior w komorach i WF; zaplata Kasa 3 (Gawen); Orwyl - przyjecie do zbrojowni. Kto nosi - nosi; kto trzyma w skrzyni - sprzedaje.",
+   "kto": "GAWEN (skup, zaplata) + BERON (listy) + ORWYL (odbior)",
+   "kanal": "slupy + kruki do lordow",
+   "wraca": "300-10-01",
+   "zamyka": "pierwszy meldunek skupu: ile sztuk, od kogo, koszt - RZUT (wola obca: lordowie i ludzie)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

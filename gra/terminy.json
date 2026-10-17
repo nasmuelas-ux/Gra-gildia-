@@ -262,9 +262,9 @@
    "co": "ZYTO OZIME - siew; odpowiedz OSRICA o Darze pod to, nie pod wiosne",
    "kto": "Symon / Osric",
    "zamyka": "siew",
-   "status": "otwarte",
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione).",
    "kanal": "wlasny czlowiek na Fosie",
-   "wraca": "300-09-01"
+   "wraca": "300-09-02"
   },
   {
    "data": "koniec VI/300",
@@ -5344,9 +5344,9 @@
    "co": "EKWIPUNEK I WYGLAD STALY NA 700 ZOLNIERZY LENNA - WG PROJEKTU DRUZYNY DOMU TALLY (gra/rod_tally.md, 'DRUZYNA' - od 300-06-22; wczesniej struktura_domu_tally.md): ciemna baza; pomaranczowy tabard lub szarfa z piorem-plomieniem; plaszcz z pomaranczowa podszewka; oficerowie - pomaranczowy kolnierz. UZBROJENIE: stal bez zlocenia, MIECZE I KORDY, OKRAGLE TARCZE Z HERBEM, KUSZE, LEKKIE KOLCZUGI. Pora roku: lato - len, kaptury i siatki na komary; zima - futro, buty na lod kanalow. Doktryna: 'poznasz ich po porzadku, nie po blasku'. [VOID 05-14: pierwotnie podany 'wzor Korony z 05-02' - blad GM.] Etapy i koszt - Warryn/Gerrik (Kasa 2), zasada 43; sukno, tabardy, plaszcze - przez atelier Miry (jej decyzja); stal - kuznia Fosy, zelazo bagienne, skup, ruda z Wilczego Lasu po cenie ogloszonej. Kolczugi i miecze - najdrozsze; kusze i tarcze - lenno umie. Wlasni ludzie - bez rzutu.",
    "kto": "HENDRY + kuznia Fosy + WARRYN/GERRIK",
    "kanal": "meldunek zbiorczy Garricka",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "pierwsza transza na stanie zbrojowni, spis",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-05-14",
@@ -6037,9 +6037,9 @@
    "co": "PANI FOSY - PIERWSZY OBJAZD MIRY NA FOSE (raz na pore roku, z Dagonem). Data - wybiera Mira. ### 07-15: Mira uczy od dzis w Zimowym Miescie - objazd Fosy po Bryndenie i powrocie matki Krola; data - Mira.",
    "kto": "MIRA + DAGON",
    "kanal": "trakt Winterfell-Fosa",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "Mira na Fosie (data od Miry)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-05-23",
@@ -6550,9 +6550,9 @@
    "co": "R-0 RUSZT CAILIN - RYSUNEK SIECI (spadki, trzy poziomy, kolektor pod Miastem Dolnym) z maestrem ORWYNEM (melioracja, przyjazd ~07-01) i Orbelem. Kolektor przed brukiem.",
    "kto": "ORWYN + ORBELO (Garrick)",
    "kanal": "kruk Winterfell-Fosa (05-26 po poludniu) i z powrotem",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "rysunek sieci na pismie",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; rysunek Orwyna - zbiorczy Garricka ~08-19. ### 08-19 zbiorczy: rysunek po zamknieciu faszyny."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; rysunek Orwyna - zbiorczy Garricka ~08-19. ### 08-19 zbiorczy: rysunek po zamknieciu faszyny. ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-05-26",
@@ -7000,9 +7000,9 @@
    "co": "SZKOLA - PIERWSZY NABOR DO 300 Z LOWCAMI TALENTOW + SEMINARIUM NAUCZYCIELI I (arkusz Miry). Rzut na odzew przy naborze. ### 06-24 ZGODA PANA: MIRA osobiscie na Fosie na nabor i seminarium (wyjazd z Winterfell ~08-24, trakt 6 dni, E); jesienia stad Bialy Port (atelier) + Sitowie z Rhona.",
    "kto": "MIRA + MIRA (osobiscie)",
    "kanal": "Fosa",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "lista uczniow i nauczycieli po naborze",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-05",
@@ -7162,9 +7162,9 @@
    "co": "PRZYBOCZNA - NAUKA CZYTANIA I PISANIA: Aldwin godzina dziennie po warcie (droga, Winterfell); na Fosie szkola Miry (Rowan Szczupak pierwszy). Meldunek Aldwina: kto czyta rozkaz.",
    "kto": "ALDWIN + MIRA",
    "kanal": "osobiscie",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "lista: kto czyta rozkaz do konca",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-08",
@@ -7486,9 +7486,9 @@
    "co": "FOSA + CAILIN JEDNA CALOSC OBRONNA (wola pana 06-19): mury miasta (etap III) laczone z murem kurtynowym fortecy - miasto w obwodzie twierdzy. Projekt: WEYLIN (inzynier zamkowy; dzis na Kamiennym Brzegu - po powrocie ~VII) + Orbelo; mur = LENNO (Kasa 2, regula 'pod ziemia i mur'). ZASADA 8 (Herwin): kto trzyma bramy miasta - pokoj: lawa, wojna: Hendry; ma to stac w karcie miasta, bo karta daje azyl i 'powietrze miasta czyni wolnym'. DO DECYZJI PANA: zapis w karcie. ### 06-19 DECYZJA PANA: BRAMY MIASTA - W POKOJU LAWA, W WOJNIE HENDRY; dopisek do karty miasta (lord nadaje, lawa wpisuje). ### 07-15: pan w Winterfell - stan w ZBIORCZYM GARRICKA (pisany ~07-19, kruk ~07-21) (zasada 34).",
    "kto": "SYMON -> WEYLIN + HERWIN + HENDRY",
    "kanal": "na miejscu; Weylin po powrocie",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "obrys polaczenia na rysunku + zapis o bramach w karcie",
-   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapis o bramach wpisany przez lawe do karty miasta; obrys polaczenia murow - czeka na WEYLINA (nie wrocil z Kamiennego Brzegu). ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: Weylin nie wrocil."
+   "status": "otwarte ### 07-22: stan w ZBIORCZYM GARRICKA (pisany 07-26, ~07-28) - zasada 34, wlasni (zasada 7). ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): zapis o bramach wpisany przez lawe do karty miasta; obrys polaczenia murow - czeka na WEYLINA (nie wrocil z Kamiennego Brzegu). ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: Weylin nie wrocil. ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-19",
@@ -7702,9 +7702,9 @@
    "co": "ZBOZE Z REACH: Z POMOSTU GORACEGO PORTU OD RAZU BARKAMI W GORE GORACZKI DO SKLADU FOSY (decyzja pana 06-19, rada Hendry'ego): w porcie tylko zapas na jeden dzien; barki i eskorta Jastrzebi na rzece; wielki spichlerz pod brama przyjmuje. Do planu przyjecia zboza Reach (IX-X): Orland + Hendry + Kessel + Harlon. Wlasni - bez rzutu.",
    "kto": "ORLAND + HENDRY + KESSEL + HARLON",
    "kanal": "na miejscu",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "plan przyjecia: barki, eskorta, sklad pod brama",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: plan przyjecia gotowy."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: plan przyjecia gotowy. ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-19",
@@ -7810,9 +7810,9 @@
    "co": "PROBA CZCIONKI RUCHOMEJ (Ilario po rozmowie z panem 06-20; plan z 300-04-25 'drzeworyt, potem czcionka' i odlewnia czcionek w Latarni - Dzielnica Zielona): jedna strona alfabetu i jeden akapit praw komor. TRZY RZECZY DO ZROBIENIA (Ilario): (1) STEMPLE i FORMA - rytownik z WARSZTATU JUBILERSKIEGO DOMU (Marr, bursztyn) tnie stemple liter; (2) STOP - olow z cyna (maester WYSTAN zna olow - 'czarne zelazo, miedz, olow'), mala odlewnia NIE w miescie z trzciny (zasada XI) - poza kanalem, przy kuzni; (3) FARBA OLEJNA - olej lniany + sadza (atrament wodny splywa z metalu); papier Wata klejony mocniej. Kasa 1. WYNALAZEK - RZUT przy pierwszej odbitce. ### 06-20 ZGODA PANA NA PROBE. Kroki posrednie: list do Hala o rytownika od Marra (stemple) - dzis z poczta BP, odpowiedz ~07-05; proba farby olejnej (olej lniany + sadza) na drzeworycie kalendarza ~07-15; odlew pierwszych liter ~08-01; odbitka ~08-15 (rzut). ### ⚠ POPRAWKA 300-06-21 (VOID, wskazanie gracza): MAESTER WYSTAN JEST NA MURZE (Czarny Zamek od 05-26, przy Aemonie; Cytadela: 'do odwolania przez Lorda Dowodce'). 'Wystan zna olow' VOID - o stop olowiu z cyna Ilario pyta kowala Fosy i maesterow z Cytadeli po przyjezdzie (~07-01). ### 06-26 (skryptorium): WYSTAN NA MURZE od 05-26 (VOID jako doradca od olowiu) - Ilario pyta pana, kto zamiast: stop olowiu z cyna. Do slowa pana. ### 06-26 PAN (prawda): Wystan na Murze, dzwonu jeszcze nie ma (dzwon na bramie - kosztorys 07-05), na Fosie nikt dzis nie zna stopu. ILARIO: zapyta RYTOWNIKA OD MARRA (jubiler zna stopy cyny - dopisek do listu do Hala) + kowale z Harrenhalu (~VII) przy kuzni.",
    "kto": "ILARIO + MARR (warsztat jubilerski) + WYSTAN (olow) + czeladnik Wata (prasa)",
    "kanal": "Fosa; Marr - list przez Hala",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "pierwsza odbitka z czcionki ruchomej (rzut)",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: stemple 14/24 (E)."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: stemple 14/24 (E). ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-20",
@@ -8452,9 +8452,9 @@
    "co": "LOWCY TALENTOW - PISMO MIRY I GARRICKA (wychodzi 06-26): septoni, sedziowie objazdowi, komory, Theomore, Bors, Corwin (Wystan skreslony - Mur); dwie rubryki: dzieci, ktore licza lepiej niz ojciec / dorosli, ktorzy umieja UCZYC. Odpowiedzi zbiera Mabel. Odzew - RZUT przy naborze 09-01.",
    "kto": "MIRA + GARRICK -> lowcy; MABEL",
    "kanal": "poczta / kruk / jezdzcy",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "lista kandydatow na nabor",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-26",
@@ -8524,9 +8524,9 @@
    "co": "SF-0 SPLAW RZEKA FEVER - POMIAR LETNI (glebokosc, bystrza, mielizny, sciezka holownicza, przystanie) - do mapy bagna; prowadzi KESSEL (zatwierdzone 06-26). SF-2 pomiar zimowy (tygodnie pod lodem) zima 300/301. Wlasni - bez rzutu.",
    "kto": "KESSEL + pisarz kancelarii",
    "kanal": "na miejscu",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "pomiar letni na mapie",
-   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: pomiar przerwany - wysoka woda."
+   "status": "otwarte ### 08-15: rzecz na Fosie idzie sama (zasada 7); wiesc tylko kanalem - zbiorczy Garricka z karta podliczenia lenna ~08-19 (zasada 34). ### 08-19 zbiorczy: pomiar przerwany - wysoka woda. ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-26",
@@ -8542,9 +8542,9 @@
    "co": "CP-1 WZORNIK PIECA POD PODLOGA (kanaly w posadzce, komin w bazalcie) - standard dla budynkow publicznych, lecznicy, szkoly, internatu; wisi u wagowego obok wzornika. Wlasni - bez rzutu.",
    "kto": "BENNIS + WERRAN",
    "kanal": "na miejscu",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "wzornik u wagowego",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-26",
@@ -8614,9 +8614,9 @@
    "co": "PC-2 PORT CAILIN - PLACE WOZOWE I STAJNIE DREWNIANE przy grobli pod zboze z Reach i tabory (IX); prowadzi kapitan portu HARWIN LOPATA z Branem (ciesle po sianokosach). Wlasni - bez rzutu.",
    "kto": "HARWIN LOPATA + BRAN",
    "kanal": "na miejscu",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "place i stajnie stoja",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-28",
@@ -8659,9 +8659,9 @@
    "co": "UT-1 MAPA PASA TRAKTU KROLEWSKIEGO: granice pasa, gdzie przecinaja go kanaly i gardla (przesla), twardy grunt pod wieze, linia kanalu przytraktowego W PASIE - nic poza pasem (nie budujemy na bagnach Reedow). Wlasni - bez rzutu. ### 06-28 PAN: TYLKO DWIE STRAZNICE Z PRZESLEM - GRANICZNA (granica Przesmyku z Dorzeczem) i SRODKOWA (polowa grobli); mapa wskazuje dwa miejsca na twardym gruncie. ### 06-28 PAN (ostatecznie): DWA PUNKTY - w kazdym PARA STRAZNIC obok siebie i MOST ZWODZONY miedzy nimi (razem 4 straznice, 2 mosty): graniczny i srodkowy.",
    "kto": "KESSEL + MAESTER ORWYN",
    "kanal": "na miejscu",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "mapa przesel i kanalu",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-06-28",
@@ -8830,9 +8830,9 @@
    "co": "OCZY NA PYKE - PIERWSZY MELDUNEK (drugie podejscie): kupiec ksiag po naprawie stepki wyplywa ~07-20; meldunek przez Braavos. RZUT przy meldunku (obce Wyspy).",
    "kto": "WILLA (siatka)",
    "kanal": "siatka Willi przez Braavos -> raport Willi (Winterfell)",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "pierwszy meldunek albo nazwana przyczyna braku",
-   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; oczy na Pyke - raport Willi 09-01."
+   "status": "otwarte ### 08-15 POGODA RZUT 4 (BARDZO ZLE): nawalnica od polnocnego zachodu - KRUKI NIE LATAJA, jezdzcy staja (zasada 34) -> przesuniete na 08-16 (jesli niebo pusci). ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; oczy na Pyke - raport Willi 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-07-01",
@@ -9208,9 +9208,9 @@
    "co": "PYKE - ZLOTO NA TARGU W LORDSPORT (rada Lucana, zgoda pana 07-11; dopisek do listu Willi): czy zelazni tego lata PLACA zlotem za drewno, smole, zelazo; czyja moneta; od kiedy. Oczy: kupiec ksiag (rejs ~07-20) + nic do Harlawa. Sluchac, nie pytac. Proba hipotezy 'Lew przez trzecia reke'. Odpowiedz - RZUT przy meldunku.",
    "kto": "WILLA (kupiec ksiag, nic Harlawa)",
    "kanal": "kruk Winterfell-Fosa; z Pyke przez Braavos/Neste (siatka 14/35 dni)",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "meldunek o monecie na targu w Lordsport",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-07-11",
@@ -9271,9 +9271,9 @@
    "co": "PENTOS I MYR - CZY KTOS SZYKUJE FLOTE DLA DAENERYS (rada Lucana, zgoda pana 07-11; dopisek do Willi): w ksiedze placowki Pentos (Obaro, co miesiac do Nesty) i w tym, co slychac z Myr - zakupy drewna okretowego, smoly, zboza na dlugi rejs, najem statkow. 'Flota zaczyna sie od zamowien.' Willa czyta liczby. Odczyt - rzut przy meldunku.",
    "kto": "WILLA (ksiega Pentos przez Neste)",
    "kanal": "ksiega Obaro -> Nesta -> Willa; karta SWIAT co miesiac 1.",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "pierwszy odczyt w karcie SWIAT (zakupy tak/nie)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-07-11",
@@ -10378,9 +10378,9 @@
    "co": "FAKTOR KROLEWSKI CAILIN - KANDYDACI SPOZA CAILIN (pan 07-22, po odmowie lawy 'nikt niezwiazany'): GARRICK szuka kandydatow spoza miasta - niezwiazanych z lennem ani z Domem (kupcy z traktu, z Dorzecza, z Barrowton, z BP przez komore); nie lordowie; nie handlujacy towarem Korony. Lista do pana -> Krol wybiera.",
    "kto": "SYMON -> GARRICK",
    "kanal": "kruk Winterfell-Fosa (07-22 po poludniu); odpowiedz w zbiorczym",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "lista kandydatow u pana",
-   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): dwa nazwiska (E) - MATHIS Z FAIRMARKET (sukno, Dorzecze, kwity czyste) i EDWYN SOLNY Z SALTPANS (sol); Rorik sprawdza w komorze; Garrick szuka dalej. Lista -> pan -> Krol. ### 07-29 SLOWO PANA: Mathis z Fairmarket i Edwyn Solny - NA LISTE DLA KROLA (przedlozyc przy najblizszej rozmowie z Krolem, przed 08-05); Garrick szuka dalej. ### 07-29 PRZEDLOZONE KROLOWI (relacja pana): Mathis z Fairmarket i Edwyn Solny na liscie; KROL: wybor Cailin PO POWROCIE ZE SKAGOS, z pelniejsza lista Garricka - \"dwoch obcych to za malo, zeby wybierac\". Faktor BP - osobno (Torsen 07-30, nominacja ~08-04). ### 07-29 TERMIN (pan przy Krolu): GARRICK - PELNA LISTA (min. piec nazwisk, kazde sprawdzone w komorze przez Rorika) DO 300-09-01 - przed powrotem Krola ze Skagos (~09-10); dopisek do dzisiejszego kruka na Fose."
+   "status": "otwarte ### 07-28: NAWALNICA (pogoda rzut 4) - kruki nie lataja; zbiorczy Garricka / wiesc z Fosy i odpowiedzi krukiem - 07-29 (zasada 34). ### 07-29 (zbiorczy 07-26): dwa nazwiska (E) - MATHIS Z FAIRMARKET (sukno, Dorzecze, kwity czyste) i EDWYN SOLNY Z SALTPANS (sol); Rorik sprawdza w komorze; Garrick szuka dalej. Lista -> pan -> Krol. ### 07-29 SLOWO PANA: Mathis z Fairmarket i Edwyn Solny - NA LISTE DLA KROLA (przedlozyc przy najblizszej rozmowie z Krolem, przed 08-05); Garrick szuka dalej. ### 07-29 PRZEDLOZONE KROLOWI (relacja pana): Mathis z Fairmarket i Edwyn Solny na liscie; KROL: wybor Cailin PO POWROCIE ZE SKAGOS, z pelniejsza lista Garricka - \"dwoch obcych to za malo, zeby wybierac\". Faktor BP - osobno (Torsen 07-30, nominacja ~08-04). ### 07-29 TERMIN (pan przy Krolu): GARRICK - PELNA LISTA (min. piec nazwisk, kazde sprawdzone w komorze przez Rorika) DO 300-09-01 - przed powrotem Krola ze Skagos (~09-10); dopisek do dzisiejszego kruka na Fose. ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-07-22",
@@ -11017,9 +11017,9 @@
    "co": "ROZPOZNANIE PATRYCJATU - ZIMOWE MIASTO, CAILIN, BARROWTON, BIALY PORT (zlecenie pana 07-26). WILLA prowadzi (karta POLNOC - nowa rubryka PATRYCJAT), HAL dokłada BP i Barrowton z ksiag kantoru, LUCAN czyta i zestawia. NA KAZDE MIASTO: 5-10 rodow kupieckich i cechowych - czym handluja, skala majatku (maly/sredni/duzy), miejsce w lawie/radzie miasta, z kim powiazani (lord, Dom Tally, obcy dom), kto komu winien, stosunek do Korony i do Domu. 'Sluchac, nie pytac' - bez imienia Korony. Czesciowo w karcie 08-01 (co juz wiadomo), pelne - w karcie 09-01. Jakosc - RZUT przy oddaniu.",
    "kto": "WILLA (+ HAL, LUCAN)",
    "kanal": "kruk WF->Fosa pod pieczecia domowa i szyfrem Willi; Hal - kruk WF->BP",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "rubryka PATRYCJAT dla czterech miast w karcie Willi",
-   "status": "otwarte ### 07-29 SLOWO PANA (u Lucana): BADA DALEJ - Lucan sam obchodzi Zimowe Miasto (targ, zajazd Sarry, Pod Dymiacym Polanem, owczarze Runa) i dopisuje rubryke ZM; Cailin, Barrowton, BP - z materialu Willi i Hala. Wstepnie ZM (E): Miarka, Sarra, Galbart Runo, Hob Sadza; brak lawy z pieczecia. Czesc - karta 08-01, calosc 09-01."
+   "status": "otwarte ### 07-29 SLOWO PANA (u Lucana): BADA DALEJ - Lucan sam obchodzi Zimowe Miasto (targ, zajazd Sarry, Pod Dymiacym Polanem, owczarze Runa) i dopisuje rubryke ZM; Cailin, Barrowton, BP - z materialu Willi i Hala. Wstepnie ZM (E): Miarka, Sarra, Galbart Runo, Hob Sadza; brak lawy z pieczecia. Czesc - karta 08-01, calosc 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-07-27",
@@ -11080,9 +11080,9 @@
    "co": "KLASYFIKACJA RZEMIOSLA POLNOCY (zlecenie Namiestnika w imieniu Korony): ZM, Cailin, Barrowton, BP - zaklady wieksze niz pojedyncze; typ, mistrz, ludzie, cech, wolumen, surowiec, odbiorca; 'brak' tez wpisac. Lista: gra/klasyfikacja_rzemiosla_polnocy_zlecenie_300_07_27.md. Razem z PATRYCJATEM. Jakosc - rzut przy oddaniu.",
    "kto": "HAL (BP, Barrowton) + WILLA (Cailin, ZM, siatka) -> LUCAN",
    "kanal": "kruk WF->BP rano 07-28; kruk WF->Fosa (szyfr)",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "klasyfikacja w karcie Willi/Hala (czesc 08-01, calosc 09-01)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-07-28",
@@ -11674,9 +11674,9 @@
    "co": "KSIEGA MILCZENIA (slowo pana 08-03, rada Sansy; gra/ksiega_milczenia.md): Beron - czesc Korony, przeglad CO PONIEDZIALEK, zmiany rytmu do pana; Lucan - czesc Domu; Willa - rubryka POSLANCY POLUDNIA od karty 09-01 (liczyc poslancow, nie czytac listow). Cykl tygodniowy - po kazdym przegladzie: python3 gra/dzien.py odebrane ID DATA.",
    "kto": "BERON ; LUCAN ; WILLA",
    "kanal": "kancelaria WF; kruk WF-Fosa 08-04",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "cykl staly - nie zamyka sie (filar); kazdy poniedzialek przeglad",
-   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01."
+   "status": "otwarte - cykl ### 08-11: przeglad poniedzialkowy Berona: bez zmian rytmu - Dolina milczy jak dotad (Gulltown odlozone), Dreadfort - bez odpowiedzi na pytanie Krola (~08-14). Nastepny przeglad 08-18. ### 08-18 przeglad Berona: bez zmian rytmu; Dolina milczy; Dreadfort - odpowiedzial list Krola. Nastepny 08-25. ### 08-25 (poczta_300_08_25.md): przeglad Berona 08-25: rytm bez zmian; Dolina milczy; Dreadfort - tylko listy Krola. Nastepny 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-08-03",
@@ -11746,9 +11746,9 @@
    "co": "BACZENIE PRZY BRAMIE FOSY (stale, Willa; tresc w ukryte/prawda.md) - pisarze przy ksiedze przybyszow i komorze notuja pytania z ukrytego zlecenia; zgloszenie do pana od razu. Przeglad co miesiac w karcie Willi.",
    "kto": "WILLA",
    "kanal": "Fosa - posłaniec ustny / szyfr",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "filar - stale baczenie (nie zamyka sie)",
-   "status": "otwarte - stale"
+   "status": "otwarte - stale ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-08-04",
@@ -11827,9 +11827,9 @@
    "co": "WILLA + KSIEGA MILCZENIA - DREADFORT (zlecenie pana 08-05; przekazuje LUCAN szyfrem po powrocie pana ~08-07): (a) Willa - do liczenia ubytku ludzi Dreadfortu (od 08-12) dolozyc: kto z Dreadfortu jezdzi z moneta albo po monete (BP, Barrowton, Bliznaki); (b) rubryka POSLANCY POLUDNIA (od 09-01) - os Dreadfort <-> Bliznaki/Poludnie: czy jezdzi cos wiecej niz listy lady Waldy; (c) Beron - Dreadfort w czesci Korony ksiegi milczenia bez zmian. Wynik - w karcie 09-01 (rzut przy karcie).",
    "kto": "LUCAN -> WILLA ; BERON",
    "kanal": "kruk WF-Fosa (szyfr); kancelaria WF",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "rubryka Dreadfortu w karcie Willi 09-01",
-   "status": "otwarte ### 08-07 PRZED POLUDNIEM: LUCAN SZYFRUJE i WYSYLA (kruk Domu WF-Fosa przed poludniem, pogoda 86; u Willi ~08-09): (a) kto z Dreadfortu jezdzi z moneta/po monete (BP, Barrowton, Bliznaki); (b) os Dreadfort-Bliznaki/Poludnie w rubryce Poslancow od 09-01; + UWAGA LUCANA (zasada 8): 10 wlocznikow Dreadfortu idzie na zachod z listu regenta (zbiorka WF do 08-25) - Willa ma ich ODLICZYC od ubytku ludzi, inaczej przeczyta wlasny rozkaz Korony jako znikanie ludzi. Bez imion, bez powodu, bez swiadka. (c) Beron - bez zmian (czesc Korony). Odpis szyfru - tylko w ksiedze Lucana."
+   "status": "otwarte ### 08-07 PRZED POLUDNIEM: LUCAN SZYFRUJE i WYSYLA (kruk Domu WF-Fosa przed poludniem, pogoda 86; u Willi ~08-09): (a) kto z Dreadfortu jezdzi z moneta/po monete (BP, Barrowton, Bliznaki); (b) os Dreadfort-Bliznaki/Poludnie w rubryce Poslancow od 09-01; + UWAGA LUCANA (zasada 8): 10 wlocznikow Dreadfortu idzie na zachod z listu regenta (zbiorka WF do 08-25) - Willa ma ich ODLICZYC od ubytku ludzi, inaczej przeczyta wlasny rozkaz Korony jako znikanie ludzi. Bez imion, bez powodu, bez swiadka. (c) Beron - bez zmian (czesc Korony). Odpis szyfru - tylko w ksiedze Lucana. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-08-05",
@@ -11998,9 +11998,9 @@
    "co": "WILLA - DOPISKI (08-07 noc, szyfr Lucana): (1) czy w pieniadzu zaciagu Lannisportu jest Lys; (2) Mewi Grod: statki Baelisha do KP/Lannisportu, wiesc o tytule/ziemi dla Baelisha na Poludniu, zdrowie Lysy; (3) czy ktos z Lys pyta o Przewloke / Goracy Port / zatoke. W ramach zlecen biegnacych (08-22, 09-01, 09-12) - RZUT przy kartach.",
    "kto": "LUCAN -> WILLA",
    "kanal": "kruk Domu WF-Fosa (szyfr)",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "karta Willi",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-08-07",
@@ -12061,18 +12061,18 @@
    "co": "KTO JEST PRZY DAENERYS - LINIA WILLI (szyfr Lucana): Pentos - ksiegi placowki (Obaro) i nasluch portu: kto z ludzi Illyria plywa na wschod i wraca; ZADNYCH pytan o Illyria w Pentos (jego miasto). Odpowiedz - RZUT przy karcie.",
    "kto": "LUCAN -> WILLA",
    "kanal": "kruk Domu WF-Fosa (szyfr)",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "karta Willi",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-08-08",
    "co": "LANNISTEROWIE - GDZIE SA I CO ROBIA (rozkaz pana 08-08): Jaime, Cersei, Tyrion, Kevan, Tommen, Myrcella (+ Lancel, inni kuzyni, jesli sie trafia) - miejsce i zajecie dzis. LINIA WILLI (szyfr Lucana): uspieni w KP (przeglad zlecony 08-03, ~08-26; uwaga - milcza od 07-10), Poslancy Poludnia (od 09-01), nasluch Lannisportu przez Seagard; sluchac, nie pytac. Odpowiedz - RZUT przy karcie/przegladzie.",
    "kto": "LUCAN -> WILLA",
    "kanal": "kruk Domu WF-Fosa (szyfr)",
-   "wraca": "300-09-01",
+   "wraca": "300-09-10",
    "zamyka": "karta Willi z rubryka 'Lannisterowie - gdzie i co'",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych)."
   },
   {
    "data": "300-08-08",
@@ -12997,9 +12997,9 @@
    "co": "MIRA NA FOSIE - DOJAZD (wyjazd 08-24 o swicie; trakt 6 dni) + list do Garricka (dwa okrety) do rak. Wlasni - bez rzutu; droga - pogoda.",
    "kto": "MIRA + DAGON (oddzial II)",
    "kanal": "trakt WF-Fosa; wiesc krukiem Fosa-WF",
-   "wraca": "300-09-01",
+   "wraca": "300-09-02",
    "zamyka": "kruk z Fosy: Mira na miejscu, list u Garricka",
-   "status": "otwarte"
+   "status": "otwarte ### 09-01: rzecz na Fosie idzie sama (zasada 7); WIESC TYLKO KANALEM - zbiorczy Garricka ~09-02 (pogoda 14: kruki opoznione)."
   },
   {
    "data": "300-08-24",

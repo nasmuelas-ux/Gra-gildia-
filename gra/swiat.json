@@ -1,14 +1,14 @@
 {
  "data": {
   "rok": 300,
-  "miesiac": 8,
-  "dzien": 31,
+  "miesiac": 9,
+  "dzien": 1,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 78 (300-08-31): dobrze - pogodnie, rano rosa i chlod, w dzien slonce z wysokimi chmurami; wiatr slaby z zachodu; drogi suche; kruki lataja od switu.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 14 (300-09-01): zle - pierwszy jesienny deszcz od zachodu, zimny i rowny od switu; wiatr porywisty; drogi rozmiekaja; kruki lataja niechetnie - poranna poczta przyjdzie po poludniu.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

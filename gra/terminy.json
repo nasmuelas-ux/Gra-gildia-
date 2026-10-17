@@ -11404,9 +11404,9 @@
    "co": "SIEC WIEZ OBSERWACYJNYCH KORONY NA GRANICY CYPLA (Krol rzut 35 - jedna konsekwencja): ETAP 1 - wieze wpiete w lancuch ognia Robetta od strony puszczy; ETAP 2 (brzeg) - po pomiarze granicy (mierniczy Korony + Holt Sosna) i liczbie ognisk od Mance'a. Budowa od IX (nie z Kasy 3 w VIII). Kosztorys - Gawen; drewno - z puszczy Glovera (jego wyreb) albo kamien.",
    "kto": "GAWEN (kosztorys) ; ROBETT ; mierniczy Korony",
    "kanal": "kruk Winterfell-Deepwood",
-   "wraca": "300-09-02",
-   "zamyka": "kosztorys etapu 1 i miejsca wiez przy lancuchu",
-   "status": "otwarte ### 09-01: kosztorys Gawena: etap 1 cztery wieze drewniane ~60 (E, Kasa 3); w IX czy po bilansie IX - do slowa pana (postanowienie Rady 08-29 A)."
+   "wraca": "300-09-30",
+   "zamyka": "cztery wieze etapu 1 stoja i sa wpiete w lancuch ognia",
+   "status": "otwarte ### 09-01: kosztorys Gawena: etap 1 cztery wieze drewniane ~60 (E, Kasa 3); w IX czy po bilansie IX - do slowa pana (postanowienie Rady 08-29 A). ### 09-01 SLOWO PANA: BUDUJEMY W IX - etap 1, cztery wieze drewniane, ~60 (Kasa 3). Robett + drwale Glovera; kosztorys Gawena."
   },
   {
    "data": "300-08-01",
@@ -13521,6 +13521,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-05",
    "zamyka": "lekcja odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-01",
+   "co": "SOL I ZBOZE DLA WIOSLARZY MAEGE (slowo pana 09-01): ~100 korcy z pierwszego zboza Reach + 20 workow soli (~12, Kasa 3); wozem z GP/Dustinportu na Wyspe Niedzwiedzia albo lodzia Maege przy pierwszym kursie. Wlasni - bez rzutu.",
+   "kto": "GAWEN ; ORLAND ; DACEY (zawiadamia)",
+   "kanal": "woz/lodz; kruk WF-Wyspa",
+   "wraca": "300-09-15",
+   "zamyka": "sol i zboze na Wyspie",
    "status": "otwarte"
   }
  ],

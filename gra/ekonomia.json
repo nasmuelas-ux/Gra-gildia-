@@ -1223,6 +1223,20 @@
    "kwota": -6,
    "opis": "LENNO - 60 KOZ OD BURLEYOW za zboze lenna (60 korcy, E ~20 jeleni korzec)",
    "zrodlo": "oferta Burleyow 08-30 (rzut 15); slowo pana 08-30 - zakup lenna"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -60,
+   "opis": "SIEC WIEZ OBSERWACYJNYCH NA GRANICY CYPLA - ETAP 1: cztery wieze drewniane wpiete w lancuch ognia Robetta (drewno z wyrebu Glovera), budowa IX",
+   "zrodlo": "kosztorys Gawena 09-01 (E, moc zapisu); slowo pana 09-01 'budujmy'"
+  },
+  {
+   "data": "300-09-15",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -12,
+   "opis": "SOL I ZBOZE DLA WIOSLARZY MAEGE (szesc lodzi, kurs co tydzien do lodu): ~100 korcy z pierwszego zboza Reach (wartosc ~10) + 20 workow soli (~2)",
+   "zrodlo": "warunek Maege 09-01 (rzut 64); wyliczenie Gawena (E, moc zapisu); slowo pana 09-01"
   }
  ],
  "_symulacje": {

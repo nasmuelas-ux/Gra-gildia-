@@ -140,3 +140,11 @@
 6. **Poselstwo do Braavos (jej, matki i Aryi):** *„Jeśli popłyniemy do Braavos, Lys będzie wiedział wcześniej niż Bank. Trzeba to policzyć, zanim Król powie tak.”*
 
 **Rubryki karty [Lys] (zmienione):** CZEGO CHCE: Stopnie z powrotem, a Lew jako dłużnik. Z KIM: Lew (kredyt na okręty). PRZECIW KOMU: Dom Tally (Braavos), nie Korona. SPRAWDZIĆ: kto podpisuje weksle dla stoczni Lannisportu.
+
+## KARTA [RÓŻA]: DOPISEK SANSY 300-09-10 („A Reach w tym wszystkim?”; O, bez rzutu)
+1. *„Olenna nie stoi po żadnej stronie. Stoi po stronie Róży. Nam sprzedaje, bo płacimy z góry. Lwu, bo Lew płaci jej długi. Lys jej nie potrzebuje, Lys jej przeszkadza.”*
+2. **Pomost.** *„Lys pyta o głębokość i o pomost dokładnie tam, gdzie w tych dniach przypływają pierwsze statki Olenny ze zbożem (kontrakt: GP ~09-10). Jeśli ktoś chce, żeby Północ była głodna, nie pali spichrzy. Topi statek przy pomoście albo w ujściu. Lord Mooton sam to powiedział: wrak zamyka port na lata.”*
+3. **Wspólnik przeciw Lys.** *„Każdy statek Olenny do Braavos płaci Lys na Stopniach. Redwyne'owie mają największą flotę po tej stronie morza i nie lubią piratów z Lys. Droga Braavos–Reach przez naszą przewłokę to grosz w jej sakiewce, nie w lyseńskiej.”*
+4. **Co z tego dla nas (propozycja, O):** *„Niech Olenna wie, że Lys pyta o pomost, przy którym rozładowują się jej statki. To jej zboże i jej eskorta. Nic nas to nie kosztuje, a eskorta Redwyne'ów zacznie patrzeć tam, gdzie trzeba. Olenna nie podziękuje, ale zapamięta.”*
+   - **Ryzyko (O):** *„Jeśli powiemy jej też, że Lew buduje okręty na lyseński kredyt, Olenna zrozumie, że Lwu brakuje złota. Może to wykorzystać przeciw Tywinowi, a może sprzedać mu tę wiedzę. Tego bym jej nie dawała. Tylko pomost.”*
+5. **NAJGORSZY PRZYPADEK (nowy wiersz, O):** *„Lys zaproponuje Olennie tańsze Stopnie za to, żeby nam sprzedawała mniej. Wtedy zboże stanie się wojną nie przez Lwa, tylko przez Lys.”*

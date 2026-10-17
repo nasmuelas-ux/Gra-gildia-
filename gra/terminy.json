@@ -10667,8 +10667,8 @@
    "kto": "EDRIC PLUG ; KROL ; GAWEN ; RODWELL",
    "kanal": "Winterfell",
    "wraca": "300-09-01",
-   "zamyka": "Edric zaprzysiezony i w radzie",
-   "status": "otwarte"
+   "zamyka": "przejecie spraw ~09-01; przysiega przed Krolem po powrocie",
+   "status": "otwarte ### 08-28 SLOWO PANA: przysiega PRZED KROLEM (po powrocie). Od ~09-01 Edric przejmuje sprawy jako Zarzadca wyznaczony; krzeslo w Radzie po przysiedze; do tego p.o. Gawen + Rodwell. 08-29 - na Radzie jako sluchacz (zapoznanie)."
   },
   {
    "data": "300-07-26",
@@ -13363,7 +13363,7 @@
   },
   {
    "data": "300-08-28",
-   "co": "MALA RADA - POSIEDZENIE ZWYCZAJNE (zalegle od ~08-23) - piatek 08-29 PO POLUDNIU, miedzy lekcja braavoskiego a HV; komnata Namiestnika; Beron protokol. Wezwania rozeslane dzis (Gawen, Rodwell, Brynden, Luwin, ser Rodrik, Beron...).",
+   "co": "MALA RADA - POSIEDZENIE ZWYCZAJNE (zalegle od ~08-23) - piatek 08-29 PO POLUDNIU, miedzy lekcja braavoskiego a HV; komnata Namiestnika; Beron protokol. Wezwania rozeslane dzis (Gawen, Rodwell, Brynden, Luwin, ser Rodrik, Beron...). Sklad: Namiestnik, Gawen, Luwin, lady Catelyn, Rodwell (p.o. domeny); EDRIC PLUG - sluchacz (zapoznanie). Dalecy - rachunki na 09-12.",
    "kto": "NAMIESTNIK ; radni",
    "kanal": "osobiscie, WF",
    "wraca": "300-08-29",

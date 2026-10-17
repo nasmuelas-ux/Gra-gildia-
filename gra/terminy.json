@@ -14556,6 +14556,33 @@
    "kanal": "-",
    "wraca": "300-09-13",
    "zamyka": "slowo pana w trzech sprawach",
+   "status": "zamkniete 300-09-12 ### SLOWO PANA: (1) TAK - tabela zim do lordow, 'w razie czego niech dadza znac, to mozemy domowic'; (2) A - ziola z listy S-6 zdjete, kupowac od zielarek we wsiach po cenie; (3) najpierw zastepca w Owsianych Polach, potem Bertram ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-12",
+   "co": "TABELA ZIM DO LORDOW (slowo pana 09-12, pomysl lady Catelyn): kazdy lord dostaje tabele Brana (23 zimy, zwyczajna/ciezka, najdluzsza 5 l. 3 m.) PRZELICZONA NA SWOICH LUDZI (Gawen z danin i zdolnosci; E) + przypomnienie Prawa Spichlerza (lord trzyma zapas) + zdanie pana: 'w razie potrzeby dajcie znac - Korona moze domowic' (zakupy Korony na Poludniu: Reach/Illyria). Beron przepisuje; kruki po ulewie (~09-13/14). Odzew lordow - RZUT przy odpowiedziach.",
+   "kto": "BRAN + LUWIN (tabela) ; GAWEN (przeliczenie) ; BERON (listy)",
+   "kanal": "kruki WF-lordowie",
+   "wraca": "300-10-05",
+   "zamyka": "pierwsze odpowiedzi lordow (rzut) - kto chce domowic i ile",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-12",
+   "co": "ZIOLA S-7 OD ZIELAREK WE WSIACH (slowo pana 09-12, A): Edric zdejmuje kore i ziola z listy zbieraczy S-6 (zostaja grzyby, jagody, orzechy, roza, jarzebina, zurawina); HILDA kupuje suszone ziola i kore OD ZIELAREK we wsiach PO CENIE (zaczyna od Starej Marty z Dolnego Boru); zielarki nie musza do miasta. Kasa 3 w ramach S-7. Odzew zielarek - RZUT przy meldunku Hildy.",
+   "kto": "EDRIC PLUG (lista S-6) ; HILDA ZIELE",
+   "kanal": "goncy domeny do okregu V; Hilda osobiscie",
+   "wraca": "300-09-25",
+   "zamyka": "meldunek Hildy: ile zielarek sprzedaje (rzut), pierwsze ziola w skladzie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-12",
+   "co": "FAKTOR W CAILIN - NAJPIERW ZASTEPCA W OWSIANYCH POLACH (slowo pana 09-12): Edric wskazuje nowego soltysa Owsianych Pol (wlasni - bez rzutu); POTEM rozmowa z BERTRAMEM WOLNYM o urzedzie stalego faktora krolewskiego w Cailin (wniosek Rady 3:1; mianuje Namiestnik do potwierdzenia Krola) - zgoda Bertrama - RZUT przy rozmowie.",
+   "kto": "EDRIC PLUG ; BERTRAM WOLNY ; SYMON (nominacja)",
+   "kanal": "na miejscu (domena)",
+   "wraca": "300-09-20",
+   "zamyka": "zastepca wskazany + odpowiedz Bertrama (rzut)",
    "status": "otwarte"
   }
  ],

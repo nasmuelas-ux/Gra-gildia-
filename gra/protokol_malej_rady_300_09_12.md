@@ -77,3 +77,8 @@ Bran trzyma kartę z trzema liczbami (z tabeli 08-18 i z Racji Północnej 09-03
 2. **Zielarki:** (a) / (b) / (c)?
 3. **Faktor w Cailin:** mianować Bertrama Wolnego (wniosek Rady 3:1, sprzeciw Edrica)?
 - **Następna Rada:** ~09-26.
+
+### ⚑ SŁOWO PANA 300-09-12 (po Radzie)
+1. **Tabela zim do lordów: TAK.** Każdy lord dostaje ją przeliczoną na swoich ludzi, z przypomnieniem Prawa Spichlerza. *„W razie czego niech dadzą znać, wtedy możemy domówić.”* Korona może dokupić zboże na Południu. Kruki po ulewie.
+2. **Zielarki: A.** Zioła zdjęte z listy zbieraczy S-6. **Hilda kupuje od zielarek we wsiach po cenie**, zaczynając od Starej Marty.
+3. **Faktor w Cailin:** **najpierw zastępca w Owsianych Polach** (Edric), potem rozmowa z Bertramem (rzut).

@@ -12594,7 +12594,7 @@
    "kanal": "na miejscu, WF",
    "wraca": "300-09-12",
    "zamyka": "zuzycie potwierdzone przez Gawena (Mala Rada 09-12)",
-   "status": "otwarte ### 08-18 (rzut 17, PORAZKA Z KOMPLIKACJA): z ksiag wypisano zimy z datami, ale MIARY ROZNE (korzec WF zmienial sie z wiekami - E); NAJDLUZSZA ZAPISANA ZIMA trafia na DWIE KARTY WYCIETE PRZY GRZBIECIE (Luwin 07-09) - brak srodka zimy i zuzycia; liczby 'dlugiej zimy' z samych ksiag WF nie bedzie. Zostaje: dane zim Theomore'a (~08-20), inne zamki (Ostatnie Ognisko, Karhold - ksiegi zimowe?), Cytadela. ### 08-18 ZESTAWIENIE Z TABELA DREADFORTU (gra/tabela_zim_dreadfort_wf_300_08_18.md): wycieta zima WF = zima ~178 - 5 lat 3 mies. (najdluzsza w obu ksiegach); zwyczajna 1-2 lata, ciezka 3,5-5,25. BRAKUJE: zuzycie korcy/tydzien dla Polnocy - Gawen (Spichlerz) x 5 l. 3 m. ### 08-25 (poczta_300_08_25.md): Gawen - zuzycie Polnocy na tydzien po przeliczeniu strat okregu III, ~09-01. ### 09-01: spisane 31 zim, najdluzsza 6 lat (E); Bran przyniesie panu sam. ### 09-02 (VOID '31 zim/6 lat'): z tabeli 08-18 - najdluzsza 5 l. 3 m.; zuzycie z kotwicy Tallharta ~10 200 korcy/tydz.; DLUGA ZIMA ~2,8 mln korcy (~167 000 t); zwyczajna ~0,8 mln. Gawen potwierdza zuzycie z Prawem Spichlerza. WSTEP: polowa (burze latem nie w porze) - jesien w X. ### 09-03 POPRAWKA (GM, zasada 1/3): kotwica '22 tys. korcy/mies = pol Polnocy' to blad odczytu - zapis 03-03 mowi '22 tys. GAB (dzikich) = ~22 tys. korcy mies.', czyli NORMA 1 KORZEC NA GEBE NA MIESIAC. Liczby ~10 200 korcy/tydz. i 'dluga zima ~2,8 mln korcy' - VOID. Wlasciwy rachunek - w racjach (gra/racja_polnocna_300_09_03.md). ### 09-11 SLOWO PANA (prosba Catelyn): na Malej Radzie 09-12 o zimach MOWI BRAN sam (przygotowany z Luwinem); Gawen - zuzycie w racjach."
+   "status": "zamkniete 300-09-12 ### Mala Rada: Bran - 23 zimy/300 lat, najdluzsza 5 l. 3 m. (63 mies.), Polnoc ~1,0-1,3 mln korcy/mies -> ~63-82 mln; Gawen potwierdza; Spichlerz Korony ~1,5 dnia takiej zimy dla Polnocy (gra/protokol_malej_rady_300_09_12.md) ### POPRZEDNIO: byl-otw ### 08-18 (rzut 17, PORAZKA Z KOMPLIKACJA): z ksiag wypisano zimy z datami, ale MIARY ROZNE (korzec WF zmienial sie z wiekami - E); NAJDLUZSZA ZAPISANA ZIMA trafia na DWIE KARTY WYCIETE PRZY GRZBIECIE (Luwin 07-09) - brak srodka zimy i zuzycia; liczby 'dlugiej zimy' z samych ksiag WF nie bedzie. Zostaje: dane zim Theomore'a (~08-20), inne zamki (Ostatnie Ognisko, Karhold - ksiegi zimowe?), Cytadela. ### 08-18 ZESTAWIENIE Z TABELA DREADFORTU (gra/tabela_zim_dreadfort_wf_300_08_18.md): wycieta zima WF = zima ~178 - 5 lat 3 mies. (najdluzsza w obu ksiegach); zwyczajna 1-2 lata, ciezka 3,5-5,25. BRAKUJE: zuzycie korcy/tydzien dla Polnocy - Gawen (Spichlerz) x 5 l. 3 m. ### 08-25 (poczta_300_08_25.md): Gawen - zuzycie Polnocy na tydzien po przeliczeniu strat okregu III, ~09-01. ### 09-01: spisane 31 zim, najdluzsza 6 lat (E); Bran przyniesie panu sam. ### 09-02 (VOID '31 zim/6 lat'): z tabeli 08-18 - najdluzsza 5 l. 3 m.; zuzycie z kotwicy Tallharta ~10 200 korcy/tydz.; DLUGA ZIMA ~2,8 mln korcy (~167 000 t); zwyczajna ~0,8 mln. Gawen potwierdza zuzycie z Prawem Spichlerza. WSTEP: polowa (burze latem nie w porze) - jesien w X. ### 09-03 POPRAWKA (GM, zasada 1/3): kotwica '22 tys. korcy/mies = pol Polnocy' to blad odczytu - zapis 03-03 mowi '22 tys. GAB (dzikich) = ~22 tys. korcy mies.', czyli NORMA 1 KORZEC NA GEBE NA MIESIAC. Liczby ~10 200 korcy/tydz. i 'dluga zima ~2,8 mln korcy' - VOID. Wlasciwy rachunek - w racjach (gra/racja_polnocna_300_09_03.md). ### 09-11 SLOWO PANA (prosba Catelyn): na Malej Radzie 09-12 o zimach MOWI BRAN sam (przygotowany z Luwinem); Gawen - zuzycie w racjach."
   },
   {
    "data": "300-08-18",
@@ -13440,7 +13440,7 @@
    "kanal": "na miejscu (ZM)",
    "wraca": "300-09-12",
    "zamyka": "pierwsza cena na slupie",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-12 ### pierwsza cena na slupie ZM 09-12 rano (E: zyto 29 jeleni/korzec, owies 21); dalej co tydzien (cykl Gawena) (gra/protokol_malej_rady_300_09_12.md) ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-08-29",
@@ -14223,7 +14223,7 @@
    "kanal": "posiedzenie WF",
    "wraca": "300-09-12",
    "zamyka": "decyzja Rady",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-12 ### Rada 3:1 (rzut 98) za BERTRAMEM WOLNYM, sprzeciw Edrica; Luwin - karta III: Rada wskazuje, mianuje Namiestnik (regencja) do potwierdzenia Krola - do slowa pana (gra/protokol_malej_rady_300_09_12.md) ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-08",
@@ -14313,7 +14313,7 @@
    "kanal": "WF, osobiscie",
    "wraca": "300-09-12",
    "zamyka": "pelna karta S-7 (spis wiezy, waga) + slowo pana o skali roku I, zrodle maku i kursie opatrywaczy",
-   "status": "otwarte ### 09-09 SLOWO PANA: zakup roku I zatwierdzony (~185 skrzyn; ~55 z domeny w 7 ratach Kasa 3 IX-III; mak ~50 przy dostawie); mak - pytanie do Reach, Fosa dolacza; kurs opatrywaczy WF (09-15) i Fosa. Zostaje: pelna karta Luwina ze spisem wiezy ~09-12."
+   "status": "zamkniete 300-09-12 ### pelna karta S-7 na Radzie: spis wiezy ~10 skrzyn bez maku (mak 20 fl.), zakupy ruszyly (plotno wdow, mech, ocet, skrzynie); skrzynie na karcie Konserwy od 10-01 (gra/protokol_malej_rady_300_09_12.md) ### POPRZEDNIO: byl-otw ### 09-09 SLOWO PANA: zakup roku I zatwierdzony (~185 skrzyn; ~55 z domeny w 7 ratach Kasa 3 IX-III; mak ~50 przy dostawie); mak - pytanie do Reach, Fosa dolacza; kurs opatrywaczy WF (09-15) i Fosa. Zostaje: pelna karta Luwina ze spisem wiezy ~09-12."
   },
   {
    "data": "300-09-09",
@@ -14322,7 +14322,7 @@
    "kanal": "WF-Zimowe Miasto, osobiscie",
    "wraca": "300-09-12",
    "zamyka": "meldunek Hildy: ile zielarek przyjeto (rzut), lecznica przyjela patronat, pierwszy opal i plotno z danin",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-12 ### patronat przyjety (Wenda), opal i plotno doszly; ZIELARKI - RZUT 3 BARDZO ZLE: zadna ze wsi (lista S-6 w ich sciezkach, 'sekrety do ksiegi maestera'); Stara Marta z Dolnego Boru sprzeda suszone (gra/protokol_malej_rady_300_09_12.md) ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-09",
@@ -14547,6 +14547,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-15",
    "zamyka": "lekcja odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-12",
+   "co": "DO SLOWA PANA PO RADZIE 09-12: (1) TABELA ZIM DO LORDOW (pomysl lady Catelyn) - kazdy lord dostaje tabele Brana przeliczona na swoich ludzi i Prawo Spichlerza; (2) ZIELARKI - (a) zdjac ziola z listy S-6 i kupowac od zielarek we wsiach po cenie / (b) zostawic / (c) inaczej; (3) FAKTOR W CAILIN - mianowac Bertrama Wolnego (wniosek Rady 3:1; sprzeciw Edrica - zastepca w Owsianych Polach); zgoda Bertrama - RZUT przy rozmowie.",
+   "kto": "SYMON",
+   "kanal": "-",
+   "wraca": "300-09-13",
+   "zamyka": "slowo pana w trzech sprawach",
    "status": "otwarte"
   }
  ],
@@ -14874,7 +14883,7 @@
     "start": "300-08-29"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-29",
+   "ostatnio_odebrane": "300-09-12",
    "zrodlo": "mala_rada_korony.md; slowo pana 08-28",
    "uwaga_0828": "posiedzenie 08-23 przepadlo (GM nie wpisal rytmu do kalendarza po 08-09) - zwolane na 08-29 po poludniu; od tej daty co 14 dni."
   },

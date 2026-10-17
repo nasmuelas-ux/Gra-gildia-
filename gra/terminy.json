@@ -13360,6 +13360,15 @@
    "wraca": "300-10-05",
    "zamyka": "stal w kuzni; potem miecz w rekach pana",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-28",
+   "co": "MALA RADA - POSIEDZENIE ZWYCZAJNE (zalegle od ~08-23) - piatek 08-29 PO POLUDNIU, miedzy lekcja braavoskiego a HV; komnata Namiestnika; Beron protokol. Wezwania rozeslane dzis (Gawen, Rodwell, Brynden, Luwin, ser Rodrik, Beron...).",
+   "kto": "NAMIESTNIK ; radni",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-08-29",
+   "zamyka": "posiedzenie odbyte, protokol",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -13675,6 +13684,20 @@
    "ostatnio_odebrane": "300-08-25",
    "zrodlo": "slowo pana 300-08-14; umowa koordynatora 299-08-22",
    "uwaga": "ostatnio_odebrane technicznie 07-25 - pierwsze rozliczenie 08-25."
+  },
+  {
+   "id": "MALA_RADA",
+   "co": "MALA RADA KORONY - posiedzenie zwyczajne co dwa tygodnie (karta: gra/mala_rada_korony.md, V. Rytm); pod Namiestnikiem, gdy Krol nieobecny. Ulla Kora i Tomas Sznur wchodza na pierwszym po powrocie Krola (list 08-25).",
+   "kto": "NAMIESTNIK (przewodniczy) ; radni",
+   "kanal": "osobiscie, Winterfell",
+   "rytm": {
+    "co_dni": 14,
+    "start": "300-08-29"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-08-15",
+   "zrodlo": "mala_rada_korony.md; slowo pana 08-28",
+   "uwaga_0828": "posiedzenie 08-23 przepadlo (GM nie wpisal rytmu do kalendarza po 08-09) - zwolane na 08-29 po poludniu; od tej daty co 14 dni."
   }
  ]
 }

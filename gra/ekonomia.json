@@ -1188,6 +1188,41 @@
    "kwota": -25.88,
    "opis": "ZADATEK 1/4 ZA BECZKE ZIMOWA (Dom Namiestnika): Spichlerz Korony 400 + Cypel 60 beczek po 45 jeleni = 103,5 smoka; zadatek 25,88 (podpisuje Gawen jako Skarbnik)",
    "zrodlo": "rzut 81 (Gawen sam z cennikiem) 300-08-27; cena z ksiegi Hala (E, moc zapisu)"
+  },
+  {
+   "data": "300-09-15",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -25,
+   "opis": "PRAWO SKLADU CAILIN - WAGA SKLADOWA (dwie wagi, odwazniki Miary Polnocnej, budka) - od razu",
+   "zrodlo": "kosztorys Herwina 08-30 (E, moc zapisu); slowo pana 08-30"
+  },
+  {
+   "data": "300-10-31",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -90,
+   "opis": "PRAWO SKLADU CAILIN - NABRZEZE NA GORACZCE (pale, deski, dzwig reczny) - przed lodem",
+   "zrodlo": "kosztorys Herwina 08-30 (E, moc zapisu); slowo pana 08-30"
+  },
+  {
+   "data": "301-04-30",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -60,
+   "opis": "PRAWO SKLADU CAILIN - ZAJAZD PRZY SKLADZIE (izba woznicow, stajnia na 20 koni) - wiosna 301",
+   "zrodlo": "kosztorys Herwina 08-30 (E, moc zapisu); slowo pana 08-30"
+  },
+  {
+   "data": "300-09-15",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -10,
+   "opis": "LENNO - 20 GARRONOW OD NORREYOW za zelazo (40 sztab, E ~1/4 smoka sztaba); odbior u stop gor, poganiacze lenna na Fose",
+   "zrodlo": "oferta Norreyow 08-30 (rzut 15); slowo pana 08-30 - zakup lenna"
+  },
+  {
+   "data": "300-09-15",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -6,
+   "opis": "LENNO - 60 KOZ OD BURLEYOW za zboze lenna (60 korcy, E ~20 jeleni korzec)",
+   "zrodlo": "oferta Burleyow 08-30 (rzut 15); slowo pana 08-30 - zakup lenna"
   }
  ],
  "_symulacje": {

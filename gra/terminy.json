@@ -13486,6 +13486,33 @@
    "wraca": "300-09-02",
    "zamyka": "lekcja 13 odbyta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-08-30",
+   "co": "LENNO - GARRONY I KOZY OD KLANOW (slowo pana 08-30: zakup DLA LENNA, Kasa 2): Norrey 20 garronow za 40 sztab zelaza (E ~10 smokow); Burley 60 koz za 60 korcy zboza lenna (E ~6 smokow). Odbior u stop gor ~09-15 (E), poganiacze lenna na Fose (~10 dni). Wlasni - bez rzutu przy odbiorze; droga - pogoda.",
+   "kto": "GERRIK (Kasa 2) ; GARRICK ; poslancy Korony (umowa ustna)",
+   "kanal": "poslaniec do klanow; kruk WF-Fosa",
+   "wraca": "300-09-25",
+   "zamyka": "garrony i kozy w lennie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-30",
+   "co": "ODPOWIEDZ WULLOM (slowo pana 08-30): 'Wolni ludzie plyna na Cypel przez morze, lodziami Mormontow - nie przez wasze gory.' Ustnie przez poslancow Korony przy odbiorze zwierzat.",
+   "kto": "POSLANCY KORONY -> WULL",
+   "kanal": "ustnie",
+   "wraca": "300-09-15",
+   "zamyka": "odpowiedz przekazana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-08-30",
+   "co": "PRAWO SKLADU CAILIN - BUDOWY (slowo pana 08-30, kosztorys Herwina ~175, Kasa 2): waga ~25 od razu (~09-15), nabrzeze ~90 przed lodem (~10-31), zajazd ~60 wiosna 301. Wlasni - bez rzutu.",
+   "kto": "HERWIN + LAWA + GARRICK ; GERRIK",
+   "kanal": "kruk WF-Fosa",
+   "wraca": "300-09-15",
+   "zamyka": "waga stoi",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

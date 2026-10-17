@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 7,
+  "dzien": 8,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 81 (300-09-07): bardzo dobrze - czysto, slonce, chlodny ranek, potem cieplo; wiatr slaby z zachodu; drogi schna; kruki lataja od switu.",
- "dzien_tygodnia_nr": 7,
+ "pogoda": "RZUT 74 (300-09-08): dobrze - pogodnie, chlodno rano, slonce, lekki wiatr z polnocy; drogi suche; kruki lataja od switu.",
+ "dzien_tygodnia_nr": 1,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

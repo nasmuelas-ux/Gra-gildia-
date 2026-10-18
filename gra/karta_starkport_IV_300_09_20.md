@@ -16,3 +16,6 @@
 ## PROSBY (do slowa pana)
 - **Sigrun:** dowoz ziarna na ~7 tygodni przed lodem (Dustinport / Spichlerz na droge – plan Orlanda i Gawena na Malej Radzie 09-26); drewno na reszte chat.
 - **Vemund:** nic ponad sol dla ognisk (sprawa juz otwarta, ~09-28).
+
+### ⚑ SŁOWO PANA 300-09-25
+**Sigrun – ZGODA:** ~115 korcy z zapasu Korony przez Dustinport (przesunięcie, nie zakup; przewóz ~1 smok, Kasa 3, E) + drewno z wyrębu Dustinportu. **Vemund – TAK** (sól dla ognisk).

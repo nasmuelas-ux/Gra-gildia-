@@ -1683,6 +1683,13 @@
    "kwota": -30,
    "opis": "SIEC KRUKOW KORONY - ETAP I: budowa i klatki 6 wezlow (~5/wezel) (E)",
    "zrodlo": "slowo pana 300-09-25 - zatwierdzenie kosztorysu Ulli Kory/Theomore'a/Luwina; gra/siec_krukow_korony_300_09_10.md"
+  },
+  {
+   "data": "300-10-10",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -1,
+   "opis": "KAMIENNY BRZEG - przewoz ~115 korcy zapasu Korony i drewna z Dustinportu (E)",
+   "zrodlo": "slowo pana 300-09-25 (karta IV Starkportu)"
   }
  ],
  "_symulacje": {

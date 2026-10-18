@@ -13107,7 +13107,7 @@
    "kanal": "kruk / lodzie Mormontow",
    "wraca": "300-09-28",
    "zamyka": "sol na Cyplu",
-   "status": "otwarte ### 09-05 (poczta_300_09_05.md): sol idzie lodziami Maege z ziarnem dla wioslarzy ~09-08. ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: lodzie Maege - wiesc z Cypla/Wyspy ~09-28."
+   "status": "otwarte ### 09-05 (poczta_300_09_05.md): sol idzie lodziami Maege z ziarnem dla wioslarzy ~09-08. ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: lodzie Maege - wiesc z Cypla/Wyspy ~09-28. ### 09-25 SLOWO PANA (karta IV, prosba Vemunda): TAK."
   },
   {
    "data": "300-08-25",
@@ -15474,6 +15474,15 @@
    "kanal": "Mala Rada WF; kruk WF-Fosa + jezdziec do Dustinportu",
    "wraca": "300-09-26",
    "zamyka": "slowo pana: dowoz zatwierdzony (ile, skad, kiedy)",
+   "status": "zamkniete 300-09-25 ### SLOWO PANA: ZGODA - dowoz i drewno dla Sigrun (operacja nizej). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-25",
+   "co": "KAMIENNY BRZEG - DOWOZ ZAPASU PRZED LODEM (slowo pana 09-25, karta IV): ~115 korcy (70 dusz x ~7 tyg., ~1 korzec/os./mies., E) z zapasu Korony przez Dustinport - nie zakup, przesuniecie w Spichlerzu (Orland/Gawen ujmuja w planie na droge 09-26); przewoz lodziami Torrena albo wozami Donnela (E ~1 smok Kasa 3). DREWNO na reszte chat - z wyrebu Dustinportu (Donnel; kadluby maja pierwszenstwo - zasada 8). Wlasni - bez rzutu; droga/woda - pogoda.",
+   "kto": "ORLAND ; GAWEN ; DONNEL ; TORREN ; SIGRUN",
+   "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
+   "wraca": "300-10-15",
+   "zamyka": "ziarno i drewno na Kamiennym Brzegu przed lodem; Sigrun potwierdza 16 tygodni",
    "status": "otwarte"
   }
  ],

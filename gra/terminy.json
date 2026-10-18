@@ -15330,7 +15330,7 @@
    "kanal": "meldunek Willi",
    "wraca": "300-10-13",
    "zamyka": "meldunek: ktory wariant (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-25 WILLA ZNA PLAN KANARKA (od pana). Obserwacja przy Rybnej 10-03..10-11 przez jej ludzi w BP (teatr Polnoc, Merel) - patrzacy NIE wiedza, ktory wariant jest ktory; zestawia analityk (Willa). Urzad portowy Wymana - nie pytany przez Wille (O: 'Wyman ma wlasne oczy w porcie - jego ludzie moga byc w ktoryms wierszu')."
   },
   {
    "data": "300-09-23",
@@ -15409,9 +15409,9 @@
    "co": "KANAREK 'RYBNA' - KURIER WILLI DO BIALEGO PORTU (slowo pana 09-24, opcja B): wiezie (1) zapieczetowane pismo C do TORSENA i (2) dla TORSENA i HALA osobno, ustnie albo kartka do rak: 'srebra nie ma, nic nie pakowac, w noce 10-04/05, 10-06, 10-08/09, 10-10 przy Rybnej niczego naszego' (rada Bryndena). Kurier Willi - poza Domem i poza kruczarnia. Wyjazd po przyjezdzie Willi (ZM ~09-25). Droga ladem WF-BP - w kanaly.json brak pozycji; E ~8 dni -> BP ~10-03. ⚠ CIASNO: noc A to 10-04/05 - Hal musi wiedziec przed nia. Wlasni - bez rzutu; droga - pogoda.",
    "kto": "(szyfrant) -> HAL ; WILLA (kurier) -> TORSEN",
    "kanal": "kurier Willi trakt WF-BP (do rak wlasnych)",
-   "wraca": "300-10-03",
+   "wraca": "300-10-04",
    "zamyka": "Hal i Torsen wiedza, ze to falsz, przed 10-04",
-   "status": "otwarte ### 09-24 SLOWO PANA: HAL dostaje prawde SZYFREM DOMU, kruk Domu WF-BP (szyfruje sam pan, 09-24) - kruk 2 dni -> Hal wie ~09-26, przed noca A z zapasem. Szyfr chroni tresc (zasada 08-21). Kurierowi Willi zostaje: pismo C + slowo do TORSENA (~10-03, przed noca C 10-08/09 - zdazy)."
+   "status": "otwarte ### 09-24 SLOWO PANA: HAL dostaje prawde SZYFREM DOMU, kruk Domu WF-BP (szyfruje sam pan, 09-24) - kruk 2 dni -> Hal wie ~09-26, przed noca A z zapasem. Szyfr chroni tresc (zasada 08-21). Kurierowi Willi zostaje: pismo C + slowo do TORSENA (~10-03, przed noca C 10-08/09 - zdazy). ### 09-25 PISMO C PRZEKAZANE WILLI (izba w ZM, zgodnie ze slowem pana 09-24 opcja B). Kurier Willi (jej czlowiek z drogi z Fosy, E) wyjezdza 09-26 o swicie traktem do BP; ~8 dni (E) -> BP ~10-03/04; Torsen dostaje pismo C i slowo 'to przyneta, nic nie robic, w noc 10-08/09 przy Rybnej nic Korony'. Wlasni - bez rzutu; droga - pogoda."
   },
   {
    "data": "300-09-24",

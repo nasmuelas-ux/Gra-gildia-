@@ -30,3 +30,21 @@ _Kto do kogo jeździ i kto przestał. Liczyć posłańców, nie czytać listów 
 | Baelish ↔ ? | dokąd posyła statki i ludzi | nasłuch Mewiego Grodu | pusto |
 | Słoneczna Włócznia ↔ ? | dokąd jeżdżą posłańcy Dorne | statki ze Starego Miasta | pusto |
 | Smocza Skała ↔ ? | kto przypływa do Stannisa | przewoźnik (uśpiony), kapitanowie w BP | pusto |
+
+---
+## PRZEGLĄD BERONA 300-09-15 (poniedziałek; zamieć; część Korony)
+_Tydzień 09-08 → 09-14. Kruki stały 09-12 → 09-14, a dziś stoją znowu. To nie jest sygnał, tylko pogoda._
+| korespondent | zmiana rytmu | ⚑ |
+|---|---|---|
+| **Lady Barbrey** | **szybciej i cieplej niż zwykle:** łodzie (09-14) z drugą szóstką na jej koszt i podziękowanie za człowieka przy kościach męża. O łomie wapiennym dalej ani słowa. | sygnał dobry |
+| **Roose Bolton** | **szybko i uprzejmie** w sprawie, która nic nie kosztuje (łodzie). Karty testu ma prowadzić **jego maester**, czyli powstaje nowa, stała droga pisma z Dreadfortu do Korony, a Dreadfort będzie wiedział, co do nas pisze. Po odesłaniu akuszerki (09-05) list był chłodny. Rytm jest dwoisty. | do karty |
+| **Maege Mormont** | **ton ostrzejszy niż zwykle** (*„najpierw sto, potem zabawki”*). Potwierdzenie rozkazu czujności: jedno zdanie. | sygnał |
+| **Wyman Manderly** | łodzie BP dopiero wiosną, szkutników nie da. W rytmie, ale krótko. | — |
+| **Umber** | odpowiedział w swoim stylu: łodzie tak, karty nie. | — |
+| **Edmure** | **pisze do siostry, nie do Namiestnika**, i cieplej niż 09-07. | sygnał dobry |
+| **Lady Lysa / Dolina** | dalej nic. | bez zmian |
+| **Tyrion** | dalej nic (list Brana od 04-21). | bez zmian |
+| **Mance** | dalej nic; odpowiedź spodziewana ~10-15. | bez zmian |
+| **Cytadela** | list o maestra dla GP wyszedł 09-11; odpowiedź ~10-10. | — |
+
+**Beron (bez interpretacji):** *„Trzy zmiany: Dustin bliżej, Mormont dalej, Bolton szybciej tam, gdzie tanio.”* Następny przegląd: 09-22.

@@ -15286,6 +15286,15 @@
    "wraca": "300-10-01",
    "zamyka": "meldunek Stena (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-22",
+   "co": "REZIM INFORMACJI - OGLOSZENIE NA MALEJ RADZIE (~09-26) (slowo regenta 09-22; gra/mala_rada_korony.md): posiedzenia tajne dla wybranych; odpowiedzialnosc obecnych za rozejscie sie; ruchy wojsk tylko w waskim gronie. Beron - zapis w protokole i lista obecnych; Rodrik, Brynden - przy stole i na placu bez rozmow o ruchach. Reakcja czlonkow - przy Radzie (O).",
+   "kto": "SYMON (regent) ; BERON ; RODRIK ; BRYNDEN",
+   "kanal": "Mala Rada ~09-26; ustnie dzis Rodrik/Brynden",
+   "wraca": "300-09-26",
+   "zamyka": "ogloszone na Radzie, w protokole",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -49,3 +49,9 @@ Gdy przychodzi gorszy miesiąc, płaci się w tej kolejności:
 > Dopisek ręką Króla: *„W gorszy miesiąc pierwsze czeka to, co jest moje — stół, uczty, konie Winterfell — zanim zaczeka cokolwiek z tej listy.”*
 
 _Dług Korony wobec Domu Tally (695) jest w praktyce spłacony towarem (~650 do 300-03-18). Ewentualną resztę (~45, E) potwierdza Hal._
+
+---
+## ⚑ REŻIM INFORMACJI (słowo regenta 300-09-22, wobec przecieków; obowiązuje od dziś, ogłoszenie na Radzie ~09-26)
+1. **Posiedzenia tajne dla wybranych:** w sprawie siedzą tylko członkowie, których ona dotyczy. Pozostali dostają postanowienie, bez przebiegu.
+2. **Odpowiedzialność:** kto był na posiedzeniu tajnym, odpowiada za rozejście się tego, co tam padło. Lista obecnych jest w protokole Berona.
+3. **Ruchy wojsk i sprawy zbrojne** nie są omawiane otwarcie, ani w sali, ani przy stole. Rozmawia się o nich w wąskim gronie, za zamkniętymi drzwiami.

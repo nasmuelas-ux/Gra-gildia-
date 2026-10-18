@@ -44,3 +44,22 @@
 ### ⚑ SŁOWO REGENTA 300-09-20
 1. **Dowódca odsieczy: BRYNDEN TULLY.** Rodrik mówi mu to dziś.
 2. **Karstarka i Umbera nie uprzedzamy.** Plan leży w szufladzie do wieści.
+
+---
+## WARIANT NAJGORSZY: KRÓL ZAKŁADNIKIEM (rozmowa regenta z Bryndenem i Rodrikiem 09-21, hipoteza; O, liczby E)
+- **Podstawa z aktu:** wzięcie Króla to **napaść na Króla**, a więc spust odsieczy (dopisek Skagos). Do tego obrona (wróg na ziemi Północy). **Rodrik:** *„Po Króla wolno. Wojny ze Skagosem jako takiej regent nie wypowiada. Celem jest Król, nie wyspa.”*
+- **Siły:**
+
+| skąd | ilu (E) |
+|---|---|
+| Manderly | ~1 000 i flota (10 okrętów jest już u Skagos) |
+| Karstark | ~800 (po wojnie) |
+| Stark, czyli WF i ziemie Korony | ~300 |
+| drużyny lordów wschodu | ~300 |
+| **razem** | **~2 400–2 600** |
+
+- **Wąskie gardło: przeprawa.** Okręty i łodzie z Karholdu przewiozą ~600–800 ludzi naraz. Cieśnina to 1–2 dni, więc kilka kursów. **W XII–I lód** na zatoce może dać *„równą białą drogę”* (Lyessa Flint), ale to droga śmiertelna.
+- **Czas:** zebranie ~3–4 tygodnie w zimie. W Karholdzie najwcześniej ~4–5 tygodni od wieści.
+- **Wikt:** ~2 500 ludzi przez 40 dni to **~100 000 racji pełnych**. Zboże jest, ryba i tłuszcz są wąskim gardłem: cała beczka zimowa z X i XII, a Spichlerz Korony schodzi nisko. Koszt E ~300–450 smoków (Kasa 3) plus okręty.
+- **Brynden (O):** *„Duże wojsko nie odbija zakładnika. Duże wojsko ustawia rozmowę. Kto trzyma Króla, zabije go w chwili, w której zobaczy szturm. Więc: plaża pełna chorągwi, jeden pan Skagos przekupiony po naszej stronie, sól i zboże dla tych, którzy nie trzymają Króla, i rozmowa. Szturm tylko wtedy, gdy wiemy, w której izbie On śpi.”*
+- **Rodrik (O):** *„I trzeba pamiętać o drugiej stronie stołu. Jeśli zabierzemy na wschód wszystko, co mamy, zachód zostaje z Torrenem i łańcuchem ognia. A Wyspy czekają, aż Balon umrze.”*

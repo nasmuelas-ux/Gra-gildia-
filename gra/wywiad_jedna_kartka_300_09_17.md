@@ -61,3 +61,13 @@
 - **Cena:** więcej ludzi (łącznicy) i **wolniej** – meldunek z terenu do centrum o dzień-dwa dłużej; zimą jeszcze dłużej.
 - **Zysk:** jak terenowego złapią albo kupią, nie zaprowadzi do centrum. Spłonie jeden człowiek, nie teatr.
 - Jedno ostrzeżenie: *„Przykrywka, do której ludzie przychodzą gadać, jest dobra na słuchanie – ale wtedy terenowy może tam przyjść jako gość, nigdy jako swój. Jak raz poda tam kartkę, izolacja się skończyła.”*
+
+### ⚑ PAN 09-25 (cd.): **DWA RODZAJE PRZEDSIĘBIORSTW.**
+- **CENTRUM OPERACYJNE** (jedno na teatr) – **nie karczma.** Ciche miejsce, gdzie papier, listy i posłańcy są codziennością, a obcych mało. Tam szef i analitycy.
+- **USZY** (kilka na teatr) – miejsca, gdzie ludzie przychodzą sami i mówią. Tam terenowi. **Odizolowane od centrum** (łącznik, skrytka, znak).
+
+**WILLA (O):**
+- Centrum – np. **kopista i introligator, handel papierem i atramentem, rachmistrz do wynajęcia, mały kantor zbożowy** (E): każdy z nich ma powód, żeby dostawać listy i paczki z daleka.
+- Uszy – **karczma przy trakcie, przewoźnik, łaźnia, kowal przy bramie, pralnia** (*„praczki słyszą wszystko, a nikt ich nie widzi”*).
+- **Uszu nie trzeba kupować** – często taniej opłacić człowieka, który już tam stoi za ladą. Kupuje się tylko centrum.
+- Operacja „przykrywki” (do ~10-10): na każdy teatr **1 centrum + 2–3 uszy** jako kandydaci.

@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 16,
+  "dzien": 17,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 86 (300-09-16): bardzo dobrze - po zamieci czysto, slonce na sniegu, mroz rano, odwilz w poludnie (E); kruki lataja od switu; trakt odgarniany (garnizon - 5 mil).",
- "dzien_tygodnia_nr": 2,
+ "pogoda": "RZUT 7 (300-09-17): BARDZO ZLE - zamiec od polnocy przed switem, snieg poziomo, mroz (E); KRUKI NIE LATAJA caly dzien (zasada 34); trakt zawiany - garnizon odgarnia od jutra.",
+ "dzien_tygodnia_nr": 3,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -15421,6 +15421,15 @@
    "wraca": "300-09-26",
    "zamyka": "Hal potwierdza odbior (szyfrem)",
    "status": "otwarte ### 09-24 WYSLANE: pan szyfruje SAM kluczem Domu (slowo gracza: pan zna szyfr Domu - fakt swiata), bez Lucana; kruk Domu WF-BP wypuszczony przed poludniem przez przybocznego pana (gdzie stoja klatki Domu - zapis milczy; bez dalszych skutkow). Hal ~09-26."
+  },
+  {
+   "data": "300-09-24",
+   "co": "KROLOWA ROSLIN - ODWIEDZINY WE WSI DOMENY (slowo regenta 09-24): wdowy z rubryki Edrica (wies wybiera Roslin z Edrikiem); ta sama eskorta - strazniczka, pisarz Skarbu, 5 ludzi Starkow (Rodrik). W przyszlym tygodniu (dzien - wola Krolowej, E ~10-01). Wlasni - bez rzutu na wyjazd; odbior ludzi - RZUT przy odwiedzinach; droga - pogoda.",
+   "kto": "ROSLIN ; EDRIC PLUG (rubryka) ; RODRIK (eskorta)",
+   "kanal": "osobiscie, domena",
+   "wraca": "300-10-01",
+   "zamyka": "odwiedziny odbyte (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

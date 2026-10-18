@@ -20,6 +20,8 @@
    - Mała Rada bez Catelyn i Luwina (kanały pana, ~10-01);
    - Fosa (Hendry z ludźmi Willi, ~10-01).
 
+9. **LUCAN** (słowo pana 09-18): bez zmian. Jest **doradcą pana** i widzi to, co dotąd, łącznie z obrazem z meldunków. Dorzecze prowadzi dla Domu. *„Są miejsca, w których niektórzy mają wgląd w więcej.”*
+
 ## ✔ PIENIĄDZE: CAŁY WYWIAD Z SAKIEWKI PANA (od 10-01, E)
 - Willa jako doradca: ~1–2 smoki/mies. Pensja Domu jako kanclerz-archiwista zostaje osobno.
 - Sieć i teatry: ~4–8/mies, z ręki pana do Willi.

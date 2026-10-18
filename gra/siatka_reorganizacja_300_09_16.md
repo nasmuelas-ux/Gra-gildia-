@@ -109,3 +109,22 @@
 2. **Kiedy Willa jedzie:** od razu, czy **po wyjaśnieniu przecieku z GP** (karta 10-01)?
 3. **Granica ostrza:** kontrwywiad eliminuje sam, czy **każda śmierć dopiero za słowem pana**?
 4. **Teatry biedne zimą** (Rozdroże, Fosa): dopłata z Kasy 1 centralnie, czy niech placówka sobie radzi?
+
+---
+## ⚑ SŁOWO PANA 300-09-16, późne popołudnie (cd.): DOPRECYZOWANIE I POPRAWKA
+**VOID dla pkt 5 wyżej** (słowo gracza: *„przestań wymyślać, wywiady tak działają”*). Wycofane są uwagi o „ostrzu w regencji”, o „trzech osobach, które wiedzą” i o „strażniku do pilnowania”. Zadaniem kontrwywiadu jest właśnie to, żeby nikt się nie dowiedział. Pkt 4 dotyczący Fosy i zimy rozstrzyga słowo poniżej.
+
+- **Człowiek na stanowisku to instytucja,** czyli szef aparatu, a nie on sam (stała zasada). **Willa ma ludzi od tego.** Od dziś teatry są **oficjalnie podzielone.**
+- **Szefowie główni mogą być znani.** **Tajemnicą jest to, kto stoi za nimi:** ludzie teatrów i aparat kontrwywiadu.
+- **KONTRWYWIAD:**
+  - eliminuje szpiegów i zdrajców;
+  - **przejmuje wrogie siatki**;
+  - sprawdza naszą.
+
+  Działa tak, żeby nikt się nie dowiedział.
+
+**Odpowiedzi pana:**
+1. **Szefów teatrów i kontrwywiadu wskazuje pan**, na bazie swojej wiedzy.
+2. **Willa jedzie TERAZ.** Sama nie szpieguje, już była szefową. **Powołuje swojego zastępcę na Fosie**, który prowadzi teatr Północ, i ona go wskazuje (jej aparat). Rozkaz idzie szyfrem Domu jeszcze dziś. Kruk Domu WF–Fosa jest tam ~09-17. Przekazanie trwa ~2–3 dni, a droga Fosa–WF 6 dni latem (E: zimą ~7–8). **Willa w ZM ~09-27/28.** Przeciek GP i karta 10-01 przechodzą na jej zastępcę, a pod nią są nadal.
+3. **Eliminacja odbywa się za słowem pana, ale tak, żeby nie było widać, że pan wie.** Słowo jest ustne i bez pisma. Kontrwywiad nie zostawia śladu prowadzącego do pana.
+4. **Teatry, które są biedne zimą, dofinansowuje kasa centralna** (Kasa 1, centrala Domu).

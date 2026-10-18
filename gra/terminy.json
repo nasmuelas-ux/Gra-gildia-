@@ -14826,16 +14826,16 @@
    "kanal": "szyfr Domu po slowie pana",
    "wraca": "300-09-20",
    "zamyka": "pan wskazal szefow pieciu teatrow i szefa kontrwywiadu; szyfr do Willi z przeniesieniem i podzialem",
-   "status": "otwarte ### 09-16 SLOWO PANA: (1) kontrwywiad - wybiera pan sam, nikt poza panem nie wie (Lucan zna tylko pomysl); (2) Rozdroze - szefa wybiera pan sam; (3) TAK: spis gospodarczy do Hala/Tama, placa +1/4, tempo wg kupcow; (4) Essos - ktos znajacy braavoski, ktory panu cos zawdziecza - pan sie zastanowi. Szyfr do Willi z podzialem (bez kontrwywiadu) - Lucan, gdy pan wskaze szefow. ### 09-16 POZNE POPOLUDNIE - SLOWO PANA, WERSJA OSTATECZNA (zastepuje sprzeczne wyzej): WILLA przenosi sie do ZM i odpowiada za cala siatke; PIEC TEATROW (ludzie, nie jedna osoba; szefowie zarzadzaja, nie szpieguja): POLNOC - nowy szef przy placowce Fosy; POLUDNIE - ktos z Ashford; KP - ktos z Rozdroza; PYKE I ZACHOD - ktos z Seagardu; ESSOS - ktos z Braavos. Teatr placi z budzetu swojej placowki. Placa wywiadu 'duzo wiecej' (zamiast +1/4). KONTRWYWIAD - szef w ZM, zna go Willa i Lucan; z prywatnej sakiewki pana; mandat: bezwzgledny, lacznie z eliminacja zdrajcow i przeciwnikow. Do slowa pana: imiona (sam / kandydaci z ksiag), kiedy Willa jedzie (od razu / po przecieku GP), granica ostrza (sam / za slowem pana), teatry biedne zima."
+   "status": "otwarte ### 09-16 SLOWO PANA: (1) kontrwywiad - wybiera pan sam, nikt poza panem nie wie (Lucan zna tylko pomysl); (2) Rozdroze - szefa wybiera pan sam; (3) TAK: spis gospodarczy do Hala/Tama, placa +1/4, tempo wg kupcow; (4) Essos - ktos znajacy braavoski, ktory panu cos zawdziecza - pan sie zastanowi. Szyfr do Willi z podzialem (bez kontrwywiadu) - Lucan, gdy pan wskaze szefow. ### 09-16 POZNE POPOLUDNIE - SLOWO PANA, WERSJA OSTATECZNA (zastepuje sprzeczne wyzej): WILLA przenosi sie do ZM i odpowiada za cala siatke; PIEC TEATROW (ludzie, nie jedna osoba; szefowie zarzadzaja, nie szpieguja): POLNOC - nowy szef przy placowce Fosy; POLUDNIE - ktos z Ashford; KP - ktos z Rozdroza; PYKE I ZACHOD - ktos z Seagardu; ESSOS - ktos z Braavos. Teatr placi z budzetu swojej placowki. Placa wywiadu 'duzo wiecej' (zamiast +1/4). KONTRWYWIAD - szef w ZM, zna go Willa i Lucan; z prywatnej sakiewki pana; mandat: bezwzgledny, lacznie z eliminacja zdrajcow i przeciwnikow. Do slowa pana: imiona (sam / kandydaci z ksiag), kiedy Willa jedzie (od razu / po przecieku GP), granica ostrza (sam / za slowem pana), teatry biedne zima. ### 09-16 (cd.) SLOWO PANA: czlowiek na stanowisku = szef aparatu; teatry oficjalnie podzielone; szefowie glowni moga byc znani, tajemnica - kto za nimi; szefow wskazuje pan; teatry biedne zima - doplata z kasy centralnej (Kasa 1). Uwagi GM pkt 5 (regencja/ostrze) - VOID."
   },
   {
    "data": "300-09-16",
    "co": "WILLA - PRZENIESIENIE Z FOSY DO ZIMOWEGO MIASTA (slowo pana 09-16; gra/siatka_reorganizacja_300_09_16.md): szefowa calej siatki blisko pana. Warunek: przekazuje teatr Polnoc nowemu szefowi przy placowce Fosy. Rozkaz szyfrem Domu (Harrol Lut). Kwatera ZM (E: izba przy faktorii Domu). Kolizja: przeciek GP / wedka / karta 10-01 prowadzi Willa na miejscu.",
    "kto": "SYMON ; WILLA ; HARROL LUT",
    "kanal": "szyfr Domu kruk WF-Fosa po slowie pana (kiedy jedzie)",
-   "wraca": "300-09-20",
-   "zamyka": "Willa w ZM, teatr Polnoc ma szefa na Fosie",
-   "status": "otwarte ### czeka na slowo pana: kiedy jedzie (od razu / po wyjasnieniu przecieku GP) i kto szefem teatru Polnoc"
+   "wraca": "300-09-28",
+   "zamyka": "Willa w ZM; zastepca na Fosie prowadzi teatr Polnoc (imie z jej meldunku)",
+   "status": "otwarte ### 09-16 SLOWO PANA: jedzie TERAZ; sama powoluje zastepce na Fosie (teatr Polnoc, przeciek GP i karta 10-01 przechodza na niego pod nia). Rozkaz szyfrem Domu kruk WF-Fosa 09-16 wieczor (Harrol Lut) - na Fosie ~09-17; przekazanie ~2-3 dni; droga 6 dni (E zima 7-8) - w ZM ~09-27/28. Wlasna - bez rzutu."
   },
   {
    "data": "300-09-16",
@@ -14844,7 +14844,7 @@
    "kanal": "osobiscie (pan)",
    "wraca": "300-09-20",
    "zamyka": "pan wskazal czlowieka i rozmowa z nim odbyta (cudza wola - RZUT przy rozmowie, jesli spoza Domu)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-16 SLOWO PANA: zadanie - eliminacja szpiegow i zdrajcow, PRZEJMOWANIE WROGICH SIATEK, sprawdzanie naszej; nikt sie nie dowiaduje. Eliminacja za slowem pana USTNIE, bez pisma, bez sladu do pana. Szefa wskazuje pan (na bazie swojej wiedzy)."
   }
  ],
  "_dopiski_300_03_18": [

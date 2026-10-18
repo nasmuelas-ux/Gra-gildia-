@@ -296,16 +296,6 @@
      "do": "300-06-30",
      "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Zapis 300-03-18: ~650 z 695 zwrotu Korony w towarze = kapital wiosenny; marza Hala 12-18 proc. -> 78-117 ponad sam zwrot, rozlozone na IV-VI. Rubryka osobna, obok wyniku standardowego (prosba pana 300-04-23). ZDARZENIE SPECJALNE - poza korekta skali, zeby nie liczyc dwa razy.",
      "bez_skali": true
-    },
-    {
-     "nazwa": "SZARE PLASZCZE DOMU (20: BP ~12, Braavos ~8) - zold i wikt",
-     "typ": "koszt",
-     "min": 1.4,
-     "max": 2.2,
-     "okres": "miesiac",
-     "od": "300-09-20",
-     "do": null,
-     "zrodlo": "SLOWO PANA 300-09-11 (poprawione): 20 x 40 miedziakow/dzien ~1,2 + wikt/kwatery; Braavos drozej (E) -> 1,4-2,2/mies"
     }
    ],
    "nieznane": [
@@ -1553,13 +1543,6 @@
    "kwota": -8,
    "opis": "S-7 ZAPAS LEKOW KORONY - zakup roku I, czesc z domeny i Polnocy (plotno wdow, ocet, miod, mech Apteki Bagna po cenie, skrzynie, narzedzia) ~55 w 7 ratach (E)",
    "zrodlo": "SLOWO PANA 300-09-09 'Zakup na rok' - gra/zapas_lekow_korony_300_09_09.md"
-  },
-  {
-   "data": "300-09-30",
-   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
-   "kwota": -35,
-   "opis": "SZARE PLASZCZE DOMU (20 nowych: BP ~12, Braavos ~8): ekwipunek + kwatery + przewoz 4 ludzi do Braavos - jednorazowo (E)",
-   "zrodlo": "SLOWO PANA 300-09-11"
   }
  ],
  "_symulacje": {

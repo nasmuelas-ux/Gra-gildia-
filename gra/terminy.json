@@ -14529,7 +14529,7 @@
    "kanal": "kruk Domu WF-BP 09-11",
    "wraca": "300-09-25",
    "zamyka": "nabor BP odbyty (rzut) - lista, dowodca, kwatera",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-13 ### ROZKAZ WYCOFANY slowem pana 09-13 (zamiast oddzialu - SZEF BEZPIECZENSTWA DOMU); kontrrozkaz do Hala pierwszym krukiem po pogodzie (kruki stoja od 09-12); jesli Hal juz z kims rozmawial - do decyzji szefa bezpieczenstwa ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-11",
@@ -14538,7 +14538,7 @@
    "kanal": "kruk Domu WF-BP + statek BP-Braavos",
    "wraca": "300-11-10",
    "zamyka": "odpowiedz Nesty (rzut) + ludzie na miejscu",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-13 ### ROZKAZ WYCOFANY slowem pana 09-13 (zamiast oddzialu - SZEF BEZPIECZENSTWA DOMU); kontrrozkaz do Hala pierwszym krukiem po pogodzie (kruki stoja od 09-12); jesli Hal juz z kims rozmawial - do decyzji szefa bezpieczenstwa ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-12",
@@ -14592,6 +14592,33 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-16",
    "zamyka": "lekcja 17 HV odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-13",
+   "co": "KONTRROZKAZ DO HALA - SZARE PLASZCZE DOMU WYCOFANE (slowo pana 09-13): naboru w BP i Braavos nie robic; jesli juz rozmawial z ludzmi - nie zaciagac, nazwiska zachowac dla przyszlego szefa bezpieczenstwa Domu. Nesta - bez zmian (ostrzezenie zostaje). Kruk Domu WF-BP pierwszy po pogodzie.",
+   "kto": "SYMON -> HAL",
+   "kanal": "kruk Domu WF-BP (po pogodzie)",
+   "wraca": "300-09-16",
+   "zamyka": "potwierdzenie Hala",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-13",
+   "co": "OKIENNICE W KOMNATACH TALLYCH (slowo pana 09-13): ciesla zamkowy (E: Jory Klin) - kliny, skorzane uszczelki, nowe zasuwy w trzech oknach (sypialnia Lyry, sypialnia pana, komnata dzienna); dzis po poludniu mimo wichury. Koszt - grosz, Kasa 1 (Dom placi za swoje komnaty). Wlasni - bez rzutu.",
+   "kto": "STEN -> kasztelan -> ciesla zamkowy",
+   "kanal": "na miejscu",
+   "wraca": "300-09-13",
+   "zamyka": "okiennice naprawione",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-13",
+   "co": "SZEF BEZPIECZENSTWA DOMU TALLY (slowo pana 09-13: 'zatrudniam szefa bezpieczenstwa Domu - on bedzie zarzadzal jego bezpieczenstwem'): nowy urzad Domu (Kasa 1), pod panem; zakres: kantory i placowki (BP, Braavos, Pentos, Seagard...), ladunki i skarbczyki, ludzie Domu, ochrona przed trucizna/kradzieza/podstepem (Lys); wspolpraca: STEN (przyboczna - osoba pana i rodu), WILLA (wywiad - firewall: szef dostaje od niej tylko ostrzezenia), HAL (kantor). Sam najmuje ludzi lokalnie wedlug potrzeby, w budzecie. KANDYDACI (Sten, E): (1) Gerold Popiol, (2) Torvald Siwek - b. sierzant strazy portu BP, (3) Ysilla z Braavos - b. strazniczka skarbca domu Prestayn (przez Neste). Wybor - slowo pana; zgoda kandydata - RZUT przy rozmowie/liscie.",
+   "kto": "SYMON ; STEN (kandydaci)",
+   "kanal": "WF",
+   "wraca": "300-09-16",
+   "zamyka": "kandydat wybrany i zgoda (rzut)",
    "status": "otwarte"
   }
  ],

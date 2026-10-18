@@ -90,3 +90,13 @@
 | **POŁUDNIE** (Ashford) | pusto | może czekać do zimy – drogi Róży i tak stają |
 | **KRÓLEWSKA PRZYSTAŃ** (Rozdroże) | pusto; śpi do wiosny | **⚠ Deron Suchy** odpada jako szef: to człowiek Domu (zastępca Lucana) – nowy ustrój: żadnych oficjalnych ludzi Domu; i Lucan w sprawdzeniu. Deron może zostać **źródłem**, nie szefem |
 - Szef teatru **nie może być urzędnikiem Domu** ani znać ksiąg Domu z urzędu. Kandydaci (po dwóch) – z listą przykrywek ~10-10.
+
+### ⚑ SŁOWO PANA 09-25 (szefowie teatrów)
+1. **Północ – Merel Tkaczka: TAK.**
+2. **Zachód i Pyke – obsadzany PIERWSZY: TAK.**
+3. **Essos – „ktoś z tych, których pan poznał w Braavos i komu pomógł”.** Z zapisu (299-12): pomoc pana dostał **ILARIO** (fałszywy dług 40 smoków u Antaryonów wykreślony w publicznym rejestrze 299-12-19, imię oczyszczone w cechu pisarzy) – **ale Ilario jest dziś na Północy** (czcionka, Cailin). Inni z Braavos: **Terys** (stocznia) – odmówił bycia dłużnikiem („dar zrobi z was mojego dłużnika”); **Tormo Antaryon** – umierający (XII/299); **Moredo, York** – pojechali z panem na Północ. **Do słowa pana:** Ilario wraca do Braavos jako szef / Ilario wskazuje kogoś z Braavos, za kogo ręczy / ktoś inny wg słowa pana.
+4. **KP – Deron Suchy NIE; ktoś inny** (kandydaci Willi ~10-10).
+5. **Siedziba teatru NIE musi być tam, gdzie placówka Domu.**
+6. **CENTRUM OPERACYJNE W KRÓLEWSKIEJ PRZYSTANI – budować niezależnie od obecnej siatki.**
+
+**WILLA (O) o KP:** *„Tam siedzi najlepszy pająk w Westeros i jego ptaszki. Centrum w Królewskiej Przystani musi powstać wolno i z ludzi, którzy nie mówią po północnemu – akcent z Północy w Przystani to latarnia. Jeden człowiek, mały interes, śpi do wiosny. Łączność nie krukiem – statkiem przez Braavos albo kupcem przez Rozdroże.”*

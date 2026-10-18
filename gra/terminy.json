@@ -15502,6 +15502,24 @@
    "wraca": "300-10-10",
    "zamyka": "lista kandydatow na stole pana",
    "status": "otwarte ### 09-25 SLOWO PANA: DWA RODZAJE - CENTRUM OPERACYJNE (ciche, nie karczma; kupione z sakiewki) i USZY (karczma, przewoznik, laznia, kowal, pralnia; czesto oplacony czlowiek zamiast zakupu). Kandydaci: 1 centrum + 2-3 uszy na teatr. ### 09-25 SLOWO PANA: kontrwywiad raportuje WPROST DO PANA; wspolna skrzynka w ZM. CENTRALA W ZM - przedsiebiorstwo-przykrywka (Willa: kopista/introligator, E), siedza tam Willa i kontrwywiad, osobne izby i ksiegi. Willa wyprowadza sie znad skladu Domu po zakupie. Kandydat na centrale ZM - w tej samej liscie."
+  },
+  {
+   "data": "300-09-25",
+   "co": "CENTRUM OPERACYJNE WYWIADU W KROLEWSKIEJ PRZYSTANI (slowo pana 09-25): niezaleznie od obecnej siatki (bez Derona, bez placowek Domu); jeden czlowiek nie z Polnocy (akcent), maly interes-przykrywka, sen do wiosny; lacznosc statkiem przez Braavos albo kupcem przez Rozdroze, nie krukiem. Willa przynosi plan i kandydata. Ryzyko: siatka Varysa (O).",
+   "kto": "WILLA ; SYMON",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-10",
+   "zamyka": "plan i kandydat na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "SZEF TEATRU ESSOS - 'ktos z Braavos, komu pan pomogl' (slowo pana 09-25). Z zapisu: ILARIO (dlug 40 wykreslony 299-12-19, dzis w Cailin - czcionka); Terys odmowil dlugu wdziecznosci; Tormo umierajacy; Moredo i York na Polnocy. Do slowa pana: Ilario wraca / Ilario reczy za kogos z Braavos / inny.",
+   "kto": "SYMON ; WILLA",
+   "kanal": "WF/ZM",
+   "wraca": "300-10-10",
+   "zamyka": "imie szefa Essos",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

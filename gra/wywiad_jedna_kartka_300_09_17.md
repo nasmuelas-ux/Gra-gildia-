@@ -14,14 +14,15 @@
    - Mała Rada bez Catelyn i Luwina (kanały pana, ~10-01);
    - Fosa (Hendry z ludźmi Willi, ~10-01).
 
-## ✔ PIENIĄDZE: PRZECIĘTA NITKA DO DOMU
-- **Wywiad nie ma linii w księgach Domu.** Pozycja „wywiad – teatry” znika z Kasy 1.
-- **Wszystko idzie z sakiewki pana:** pan przekazuje Willi monetę z ręki do ręki, a Willa płaci dalej. E: ~6–12 smoków/mies (sieć ~4–8 plus kontrwywiad ~2–4), od 10-01.
-- Sakiewka zasila się z dywidendy pana, która jest jawna i legalna. Ślad urywa się w kieszeni pana.
+## ✔ PIENIĄDZE: TAJNA KSIĘGA DOMU (poprawka 09-17)
+- **Sieć była niejawna od początku** (obsada 299-05). Na papierze Willa jest **kanclerzem-archiwistą Domu**: poczta, odpisy, katalog. To jej przykrywka „pierwszej rangi”. Koszt sieci stoi w **TAJNEJ KSIĘDZE**, którą widzą tylko **Tam** (rachmistrz główny) i pan. W jawnym bilansie go nie ma.
+- **Tam jest rewizorem pieniędzy sieci.** Widzi, ile sieć naprawdę kosztuje, a Willa jego księgi nie widzi. Przeniesienie do sakiewki zlikwidowałoby tę kontrolę, dlatego **zostaje tak, jak było**: E 4–8/mies od 10-01.
+- **Kontrwywiad (Aldwin)** jest osobno i płaci go sakiewka pana. Tam go nie widzi.
+- ~~Przeniesienie całości do sakiewki pana~~: **VOID** (błąd GM, zasada 1, bo nie sprawdziłem obsady).
 
 ## ☐ DO ROZMOWY Z WILLĄ (~09-25)
 1. **Teatry:** czy dzielić świat na pięć części (Północ, Południe, KP, Zachód i Pyke, Essos), czy prościej. Kto nimi kieruje, ustala pan z Willą.
-2. **Przykrywka Willi w ZM:** kim jest jawnie.
+2. **Przykrywka Willi w ZM:** jawnie zostaje kanclerzem-archiwistą Domu przy placówce WF/ZM (z obsady). Do potwierdzenia.
 3. **Ludzie w placówkach Domu** (kupcy ksiąg, pisarze, Deron, Lyman): czy wyjść z placówek, czy zostać w nich jako „zwykli ludzie”.
 4. **Łączność:** szyfr i kruki Domu (Harrol Lut, Lucan) to dziś nitka do Domu. Czy zostają, czy idzie inna droga.
 5. **Zacieranie śladów** (zasada 8): kto już wie, że Dom miał „ucho”.

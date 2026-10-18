@@ -2134,7 +2134,8 @@
   ],
   "sakiewka_pana_koszty_stale": [
    "od 300-10-01 (slowo pana 09-17): WYWIAD CALY Z SAKIEWKI PANA - Dom bez linii wywiadu ('w kasie domu zostaje wiecej'). Skladniki (E): WILLA - wynagrodzenie DORADCY PANA ~1-2 smoki/mies (obok pensji Domu jako kanclerz-archiwista); SIEC/TEATRY ~4-8/mies (z reki pana do Willi); KONTRWYWIAD ~2-4/mies + sprawy osobno. Razem ~7-14/mies. Kwoty ostateczne po rozmowie z Willa (~09-25).",
-   "od 300-10-01 (ZATWIERDZONE przez pana 300-09-25, po rozmowie z Willa; gra/wywiad_jedna_kartka_300_09_17.md, KWOTY): WYWIAD ~10-18 smokow/mies (E) - doradca Willa 1-2, szefowie teatrow i analitycy 4-7, uszy i lacznicy 2-4, kontrwywiad 2-4, kasa dla rodzin spalonych ~1. ZASTEPUJE ~7-14 z 09-17."
+   "od 300-10-01 (ZATWIERDZONE przez pana 300-09-25, po rozmowie z Willa; gra/wywiad_jedna_kartka_300_09_17.md, KWOTY): WYWIAD ~10-18 smokow/mies (E) - doradca Willa 1-2, szefowie teatrow i analitycy 4-7, uszy i lacznicy 2-4, kontrwywiad 2-4, kasa dla rodzin spalonych ~1. ZASTEPUJE ~7-14 z 09-17.",
+   "od 300-11-01 (slowo pana 300-09-25): SZKOLA WYWIADU w ZM (przykrywka: szkola pisarzy i rachmistrzow) ~1-2 smoki/mies (E); grupa sabotazu - koszt od sprawy."
   ],
   "sakiewka_pana_planowane": [
    {
@@ -2165,6 +2166,18 @@
     "data": "301-04-01",
     "kwota": -30,
     "opis": "WYWIAD - centra Poludnie i Krolewska Przystan (E, wiosna)",
+    "zrodlo": "slowo pana 300-09-25"
+   },
+   {
+    "data": "300-11-15",
+    "kwota": -12,
+    "opis": "WYWIAD - placowka operacyjna Bialy Port (wlasny szef) (E)",
+    "zrodlo": "slowo pana 300-09-25"
+   },
+   {
+    "data": "300-11-25",
+    "kwota": -15,
+    "opis": "WYWIAD - placowka Pentos (mala, cicha) (E)",
     "zrodlo": "slowo pana 300-09-25"
    }
   ]

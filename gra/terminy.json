@@ -15105,6 +15105,24 @@
    "kanal": "osobiscie WF",
    "wraca": "300-09-22",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-09-20 ### SLOWO PANA: ZGODA na trzy: (1) kolejka - Korona, Dorzecze/BP/Barrowton, Mur w I 301 (Lucan pisze do Osrica); (2) nowe zamowienia od X po 47 jel; (3) Dom reczy z rezerwy za kazdy list izby przez 3 mies. (X-XII) - Hal oglasza w BP i Riverrun ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-20",
+   "co": "BECZKA ZIMOWA - LIST LUCANA DO OSRICA: Mur dostaje 150 beczek w I 301 (kolejka; slowo pana 09-20). Zgoda Osrica / reakcja Muru - RZUT przy odpowiedzi.",
+   "kto": "LUCAN -> OSRIC",
+   "kanal": "kruk WF-Czarny Zamek",
+   "wraca": "300-10-01",
+   "zamyka": "odpowiedz Osrica",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-20",
+   "co": "IZBA ROZRACHUNKOWA - DOM RECZY ZA LISTY Z REZERWY (X-XII, slowo pana 09-20): Hal oglasza w BP i Riverrun; odzew kupcow w rozliczeniu akcji X (cykl 10-20).",
+   "kto": "HAL ; LYMAN",
+   "kanal": "kruk Domu WF-BP",
+   "wraca": "300-10-20",
+   "zamyka": "rozliczenie akcji X",
    "status": "otwarte"
   }
  ],

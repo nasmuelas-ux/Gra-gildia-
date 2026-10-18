@@ -13800,7 +13800,7 @@
    "kanal": "domena / Winterfell",
    "wraca": "300-09-26",
    "zamyka": "pierwsze beczki lososia solonego w ksiedze",
-   "status": "otwarte ### 300-09-20 TRIAZ: Edric - na Malej Radzie ~09-26."
+   "status": "otwarte ### 300-09-20 TRIAZ: Edric - na Malej Radzie ~09-26. ### 300-09-26 TRIAZ: Edric w WF na Malej Radzie - meldunek ustny na Radzie (wlasni, bez rzutu)."
   },
   {
    "data": "300-09-03",
@@ -13897,9 +13897,9 @@
    "co": "DAR - ZYTO OZIME DLA OSRICA (slowo pana 09-03): 40 korcy zyta ze Spichrzy Krola WF, woz Traktem Krolewskim (~12 dni), siew pod koniec IX; odpis z zapasu Korony (-2400 ZR). Gawen + Orland; list do Osrica (Beron).",
    "kto": "GAWEN + ORLAND ; BERON (list) ; OSRIC",
    "kanal": "woz Trakt Krolewski; kruk do Osrica",
-   "wraca": "300-09-26",
+   "wraca": "300-09-28",
    "zamyka": "ziarno u Osrica na Darze",
-   "status": "otwarte ### 09-16: woz Traktem Krolewskim na polnoc stal w zamieci (E: przy Ostatnim Domostwie? - nie wiadomo); dojazd ~09-20; odpowiedz Osrica - RZUT przy wiesci. ### 09-21 (Clydas): woz z zytem dojechal na Czarny Zamek 09-19; list Osrica osobno ~09-26 (RZUT)."
+   "status": "otwarte ### 09-16: woz Traktem Krolewskim na polnoc stal w zamieci (E: przy Ostatnim Domostwie? - nie wiadomo); dojazd ~09-20; odpowiedz Osrica - RZUT przy wiesci. ### 09-21 (Clydas): woz z zytem dojechal na Czarny Zamek 09-19; list Osrica osobno ~09-26 (RZUT). ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-03",
@@ -14583,7 +14583,7 @@
    "kanal": "na miejscu (domena)",
    "wraca": "300-09-26",
    "zamyka": "zastepca wskazany + odpowiedz Bertrama (rzut)",
-   "status": "otwarte ### 300-09-20 TRIAZ: Edric - zastepca w Owsianych Polach po mlocce (~09-25), na Malej Radzie ~09-26; potem rozmowa z Bertramem (rzut)."
+   "status": "otwarte ### 300-09-20 TRIAZ: Edric - zastepca w Owsianych Polach po mlocce (~09-25), na Malej Radzie ~09-26; potem rozmowa z Bertramem (rzut). ### 300-09-26 TRIAZ: Edric w WF na Malej Radzie - kandydat na zastepce soltysa na Radzie; odpowiedz Bertrama - rzut potem."
   },
   {
    "data": "300-09-12",
@@ -14853,7 +14853,7 @@
    "kanal": "osobiscie w ZM po przyjezdzie Willi",
    "wraca": "300-09-25",
    "zamyka": "ksztalt ustalony slowem pana po rozmowie z Willa",
-   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu). ### 09-17 SLOWO PANA (rama): wywiad ODDZIELNY od Domu; Dom bez tajnej ksiegi wywiadu, ale zrodlo informacji - bez oficjalnych osob; ludzie w Domu = operacyjni Willi; teatry dzialaja tak samo, organizuja sie odrebnie; finanse z sakiewki pana. DO ROZMOWY: kontrwywiad - dostep do siatki i informacji Domu, wspolpraca z Willa (pan: TAK, powinny wspolpracowac). ### 09-22 KARTKA PANA (gra/kartka_pana_300_09_22.md) - pytania do Willi, jesli pan zechce: (1) faktor z Rybnej a kantor lysenski przy Rybnej - ten sam dom?; (2) GP - eskorta Redwyne'ow i zalogi Reach na ladzie 09-09..11; (3) test ubytku Dreadfortu (Lucan 07-11) - wynik. ### 300-09-25 TRIAZ: Willa w ZM od poludnia - rozmowa do slowa pana (kiedy). ### 09-25 SLOWO PANA: DZIS (po poludniu, ZM). ### 09-25 ROZMOWA W TOKU (izba Willi, ZM): slowo pana - przykrywki teatrow, analitycy/terenowi, raport do ZM, kontrwywiad podobnie i oddzielony od Domu, szefowie i Willa bez terenu; szef kontrwywiadu - pan najpierw sprawdza. Willa: kontrwywiad raportowac wprost do pana? (do slowa pana). Gra/wywiad_jedna_kartka_300_09_17.md. ### 09-25 USTALONE: ustroj (przykrywki: centrum + uszy; analitycy/terenowi; kontrwywiad do pana, centrala ZM wspolna); szefowie teatrow (Polnoc Merel; Zachod pierwszy; Essos - czlowiek z BP; KP - nie Deron; centrum KP); placowki Domu (Deron zamrozony, archiwisci skresleni, Lyman/Obaro ksiegi); lacznosc (klucze, golebie); kwoty zatwierdzone. Zostaja pytania z kartki 09-22."
+   "status": "zamkniete 300-09-26 ### ODBYTA 09-25 w ZM - wszystkie punkty kartki ustalone (wywiad_jedna_kartka_300_09_17.md, sekcje 09-25); dalej operacje: przykrywki, szkola, sabotaz, lacznosc, centrum KP, Essos (~10-05/10-10). ### POPRZEDNIO: byl-otw ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu). ### 09-17 SLOWO PANA (rama): wywiad ODDZIELNY od Domu; Dom bez tajnej ksiegi wywiadu, ale zrodlo informacji - bez oficjalnych osob; ludzie w Domu = operacyjni Willi; teatry dzialaja tak samo, organizuja sie odrebnie; finanse z sakiewki pana. DO ROZMOWY: kontrwywiad - dostep do siatki i informacji Domu, wspolpraca z Willa (pan: TAK, powinny wspolpracowac). ### 09-22 KARTKA PANA (gra/kartka_pana_300_09_22.md) - pytania do Willi, jesli pan zechce: (1) faktor z Rybnej a kantor lysenski przy Rybnej - ten sam dom?; (2) GP - eskorta Redwyne'ow i zalogi Reach na ladzie 09-09..11; (3) test ubytku Dreadfortu (Lucan 07-11) - wynik. ### 300-09-25 TRIAZ: Willa w ZM od poludnia - rozmowa do slowa pana (kiedy). ### 09-25 SLOWO PANA: DZIS (po poludniu, ZM). ### 09-25 ROZMOWA W TOKU (izba Willi, ZM): slowo pana - przykrywki teatrow, analitycy/terenowi, raport do ZM, kontrwywiad podobnie i oddzielony od Domu, szefowie i Willa bez terenu; szef kontrwywiadu - pan najpierw sprawdza. Willa: kontrwywiad raportowac wprost do pana? (do slowa pana). Gra/wywiad_jedna_kartka_300_09_17.md. ### 09-25 USTALONE: ustroj (przykrywki: centrum + uszy; analitycy/terenowi; kontrwywiad do pana, centrala ZM wspolna); szefowie teatrow (Polnoc Merel; Zachod pierwszy; Essos - czlowiek z BP; KP - nie Deron; centrum KP); placowki Domu (Deron zamrozony, archiwisci skresleni, Lyman/Obaro ksiegi); lacznosc (klucze, golebie); kwoty zatwierdzone. Zostaja pytania z kartki 09-22."
   },
   {
    "data": "300-09-16",
@@ -14871,7 +14871,7 @@
    "kanal": "szyfr Lucana do Willi (dzis, z rozkazem przeniesienia); Sten - ustnie",
    "wraca": "300-09-26",
    "zamyka": "zasada przyjeta przez Wille i Stena; Torvald przeszedl pierwsze dwa szczeble",
-   "status": "otwarte ### 300-09-25 TRIAZ: zasada do przyjecia przez Wille przy rozmowie z panem."
+   "status": "zamkniete 300-09-26 ### PRZYJETA: Willa 09-25 (ustnie, w ZM); Sten - ustnie 09-16. Torvald: szczebel 1 (Willa, 93) przeszedl; szczebel 2 (kontrwywiad) ~09-28. ### POPRZEDNIO: byl-otw ### 300-09-25 TRIAZ: zasada do przyjecia przez Wille przy rozmowie z panem."
   },
   {
    "data": "300-09-16",
@@ -15265,9 +15265,9 @@
    "co": "LIST NAMIESTNIKA DO WYMANA - LYS (reka pana, 09-22): obraz sytuacji - ktos gra przeciw zbozu Korony, Lys macza w tym palce (napad na GP z lysenskimi monetami przy trupie; kapitanowie z Lys pytajacy o Goraczke i GP; kantor lysenski przy Rybnej w BP; Lys dyskontuje papier Lwa i pozycza stoczniom Lannisportu; zloto z Lys przy czarnym kadlubie u Wysp). Prosba o POMOC Mistrza Portow: urzad portowy BP daje znac o kapitanach pytajacych o Goraczke/GP/przewloke i o ruchu przy kantorze lysenskim - jako sprawa Korony, nie Domu. Kruk WF-BP 09-22 po poludniu. Odpowiedz - RZUT (~09-25).",
    "kto": "SYMON -> WYMAN",
    "kanal": "kruk WF-BP (wieza Luwina)",
-   "wraca": "300-09-26",
+   "wraca": "300-09-27",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte ### 300-09-25 TRIAZ: list z 09-22 u Wymana ~09-24; odpowiedz ~09-26."
+   "status": "otwarte ### 300-09-25 TRIAZ: list z 09-22 u Wymana ~09-24; odpowiedz ~09-26. ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-22",
@@ -15346,9 +15346,9 @@
    "co": "LIST REGENTA DO RICKARDA KARSTARKA - ZATOKA FOK (rada Bryndena: 'pisac o wodzie'): prady, zatoki za cyplem pod Kingshouse, gdzie stawac w sztorm, ktore miesiace lod; prosba o rade Karholdu jako brzegu Korony. Kruk WF-Karhold 09-23. Odpowiedz - RZUT (~09-26).",
    "kto": "SYMON (regent) -> KARSTARK",
    "kanal": "kruk WF-Karhold",
-   "wraca": "300-09-26",
+   "wraca": "300-09-27",
    "zamyka": "odpowiedz Rickarda (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-23",
@@ -15364,9 +15364,9 @@
    "co": "LIST REGENTA DO ROOSE'A BOLTONA (09-23, krotko, jak regent do ojca): Biala Mewa wrocila do BP 09-16; flota pod Kingshouse, sztorm ~09-08 ja rozproszyl; zwiad Wymana wyslany 09-20; wiesc o Krolu i jego ludziach - przekaze, gdy przyjdzie. Bez Lys, Rybnej, kanarka. Kruk WF-Dreadfort. Odpowiedz albo milczenie - RZUT (~09-26); Beron notuje w ksiedze milczenia.",
    "kto": "SYMON (regent) -> ROOSE BOLTON",
    "kanal": "kruk WF-Dreadfort",
-   "wraca": "300-09-26",
+   "wraca": "300-09-27",
    "zamyka": "odpowiedz Roose'a albo nazwane milczenie (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-23",
@@ -15400,27 +15400,27 @@
    "co": "DYSPOZYCJA BEZPIECZENSTWA FOSY (slowo pana 09-24, na wzor rezimu informacji WF z 09-23 - gra/mala_rada_korony.md): (1) HENDRY WERYFIKUJE WSZYSTKICH - rada lenna, kluczowe stanowiska, KRUCZNICY FOSY i ludzie przy krukach (jak kruczarnia WF); (2) RADA LENNA NIE DYSKUTUJE SPRAW WOJSKOWYCH - ruchy wojsk, garnizon, obrona tylko w waskim gronie (pan + Hendry); (3) ta dyspozycja i odpowiedz dla rady (Mur przed Fosa) NIE krukiem - POSLANCY DO RAK WLASNYCH: do Hendry'ego i do Garricka, osobno zapieczetowane. Trakt WF-Fosa 6 dni (kanaly.json) -> na Fosie ~09-30. Meldunek Hendry'ego wraca tez poslancem (wg tej samej zasady - O, do zmiany slowem pana): sprawdzenie ~tydzien (E) + 6 dni drogi -> ~10-13. Wlasni - bez rzutu na wykonanie; wynik weryfikacji - RZUT przy meldunku.",
    "kto": "SYMON -> HENDRY ; GARRICK (rada lenna)",
    "kanal": "poslancy do rak wlasnych, trakt WF-Fosa",
-   "wraca": "300-10-13",
+   "wraca": "300-10-14",
    "zamyka": "meldunek Hendry'ego z weryfikacji (rzut) + potwierdzenie rady, ze sprawy wojskowe zeszly ze stolu",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-26 TRIAZ: SNIEZYCA: poslancy (w drodze od 09-24) stoja dzien w zajezdzie - na Fosie ~10-01; meldunek Hendry'ego ~10-14."
   },
   {
    "data": "300-09-24",
    "co": "KANAREK 'RYBNA' - KURIER WILLI DO BIALEGO PORTU (slowo pana 09-24, opcja B): wiezie (1) zapieczetowane pismo C do TORSENA i (2) dla TORSENA i HALA osobno, ustnie albo kartka do rak: 'srebra nie ma, nic nie pakowac, w noce 10-04/05, 10-06, 10-08/09, 10-10 przy Rybnej niczego naszego' (rada Bryndena). Kurier Willi - poza Domem i poza kruczarnia. Wyjazd po przyjezdzie Willi (ZM ~09-25). Droga ladem WF-BP - w kanaly.json brak pozycji; E ~8 dni -> BP ~10-03. ⚠ CIASNO: noc A to 10-04/05 - Hal musi wiedziec przed nia. Wlasni - bez rzutu; droga - pogoda.",
    "kto": "(szyfrant) -> HAL ; WILLA (kurier) -> TORSEN",
    "kanal": "kurier Willi trakt WF-BP (do rak wlasnych)",
-   "wraca": "300-10-04",
+   "wraca": "300-10-05",
    "zamyka": "Hal i Torsen wiedza, ze to falsz, przed 10-04",
-   "status": "otwarte ### 09-24 SLOWO PANA: HAL dostaje prawde SZYFREM DOMU, kruk Domu WF-BP (szyfruje sam pan, 09-24) - kruk 2 dni -> Hal wie ~09-26, przed noca A z zapasem. Szyfr chroni tresc (zasada 08-21). Kurierowi Willi zostaje: pismo C + slowo do TORSENA (~10-03, przed noca C 10-08/09 - zdazy). ### 09-25 PISMO C PRZEKAZANE WILLI (izba w ZM, zgodnie ze slowem pana 09-24 opcja B). Kurier Willi (jej czlowiek z drogi z Fosy, E) wyjezdza 09-26 o swicie traktem do BP; ~8 dni (E) -> BP ~10-03/04; Torsen dostaje pismo C i slowo 'to przyneta, nic nie robic, w noc 10-08/09 przy Rybnej nic Korony'. Wlasni - bez rzutu; droga - pogoda."
+   "status": "otwarte ### 09-24 SLOWO PANA: HAL dostaje prawde SZYFREM DOMU, kruk Domu WF-BP (szyfruje sam pan, 09-24) - kruk 2 dni -> Hal wie ~09-26, przed noca A z zapasem. Szyfr chroni tresc (zasada 08-21). Kurierowi Willi zostaje: pismo C + slowo do TORSENA (~10-03, przed noca C 10-08/09 - zdazy). ### 09-25 PISMO C PRZEKAZANE WILLI (izba w ZM, zgodnie ze slowem pana 09-24 opcja B). Kurier Willi (jej czlowiek z drogi z Fosy, E) wyjezdza 09-26 o swicie traktem do BP; ~8 dni (E) -> BP ~10-03/04; Torsen dostaje pismo C i slowo 'to przyneta, nic nie robic, w noc 10-08/09 przy Rybnej nic Korony'. Wlasni - bez rzutu; droga - pogoda. ### 300-09-26 TRIAZ: SNIEZYCA: kurier Willi nie rusza dzis - wyjazd 09-27 o swicie; BP ~10-04/05 (przed noca C 10-08/09 - zdazy)."
   },
   {
    "data": "300-09-24",
    "co": "KANAREK 'RYBNA' - SZYFR DOMU DO HALA (slowo pana 09-24): 'srebra Korony nie ma; listu o Szarej Czapli (09-23) nie wykonywac, nic nie pakowac; w noce 10-04/05, 10-06, 10-08/09, 10-10 przy Rybnej niczego Domu; to przyneta - nikomu'. (09-24 KOREKTA PANA: NIE Lucan - Lucan w sprawdzeniu) szyfruje KTO INNY - do slowa pana: sam pan albo Willa po przyjezdzie, kruk Domu WF-BP (2 dni). Wlasni - bez rzutu; kruk - pogoda (dzis czysto, 79).",
    "kto": "SYMON (szyfruje sam) -> HAL",
    "kanal": "kruk Domu WF-BP, szyfr Domu",
-   "wraca": "300-09-26",
+   "wraca": "300-09-27",
    "zamyka": "Hal potwierdza odbior (szyfrem)",
-   "status": "otwarte ### 09-24 WYSLANE: pan szyfruje SAM kluczem Domu (slowo gracza: pan zna szyfr Domu - fakt swiata), bez Lucana; kruk Domu WF-BP wypuszczony przed poludniem przez przybocznego pana (gdzie stoja klatki Domu - zapis milczy; bez dalszych skutkow). Hal ~09-26."
+   "status": "otwarte ### 09-24 WYSLANE: pan szyfruje SAM kluczem Domu (slowo gracza: pan zna szyfr Domu - fakt swiata), bez Lucana; kruk Domu WF-BP wypuszczony przed poludniem przez przybocznego pana (gdzie stoja klatki Domu - zapis milczy; bez dalszych skutkow). Hal ~09-26. ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-24",

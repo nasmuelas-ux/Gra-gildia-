@@ -14484,7 +14484,7 @@
    "kanal": "krukiem Glebokorzenia WF-BP 09-11",
    "wraca": "300-09-25",
    "zamyka": "kosztorys i plan etapu I na stole pana",
-   "status": "zamkniete 300-09-25 ### KOSZTORYS ULLI KORY I THEOMORE'A NA STOLE PANA (wlasni): 6 wezlow, krucznik w kazdym, 6 uczniow; start ~30, potem ~18/rok (E, jak w szacunku 09-10); pierwsza linia WF-BP przed wiosna; krukarnia Korony w WF osobno od wiezy maestera. Luwin podpisal. Do slowa pana: zatwierdzenie (krzeslo lacznosci - Krol). ### POPRZEDNIO: byl-otw ### 09-25 SLOWO PANA (obiad, prosba Ulli Kory przez Luwina): KRUKARNIA KORONY W WF - STARA WIEZA PRZY BRAMIE MYSLIWSKIEJ (E), osobno od wiezy maestera."
+   "status": "zamkniete 300-09-25 ### KOSZTORYS ULLI KORY I THEOMORE'A NA STOLE PANA (wlasni): 6 wezlow, krucznik w kazdym, 6 uczniow; start ~30, potem ~18/rok (E, jak w szacunku 09-10); pierwsza linia WF-BP przed wiosna; krukarnia Korony w WF osobno od wiezy maestera. Luwin podpisal. Do slowa pana: zatwierdzenie (krzeslo lacznosci - Krol). ### POPRZEDNIO: byl-otw ### 09-25 SLOWO PANA (obiad, prosba Ulli Kory przez Luwina): KRUKARNIA KORONY W WF - STARA WIEZA PRZY BRAMIE MYSLIWSKIEJ (E), osobno od wiezy maestera. ### 09-25 SLOWO PANA: KRUKARNIE I GOLEBNIKI - przy krukarniach Korony takze golebie pocztowe. LUWIN (O): golab szybszy na krotkiej drodze i tani w hodowli, ale zle znosi siarczysty mroz i jastrzebie; dobry jako druga linia i latem. Ulla Kora + Theomore dopisuja golebniki do kosztorysu (skad ptaki, ile na wezel) - wlasni, bez rzutu."
   },
   {
    "data": "300-09-11",
@@ -15483,6 +15483,15 @@
    "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
    "wraca": "300-10-15",
    "zamyka": "ziarno i drewno na Kamiennym Brzegu przed lodem; Sigrun potwierdza 16 tygodni",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "GOLEBNIKI PRZY KRUKARNIACH KORONY (slowo pana 09-25): Ulla Kora + Theomore - dopisek do kosztorysu etapu I: golebnik przy kazdym wezle, skad ptaki (E: z wiosek domeny / przez Neste z Braavos), ile, koszt; zima - kruki, golebie jako druga linia. Wlasni - bez rzutu.",
+   "kto": "ULLA KORA ; THEOMORE ; LUWIN",
+   "kanal": "WF",
+   "wraca": "300-10-05",
+   "zamyka": "dopisek do kosztorysu na stole pana",
    "status": "otwarte"
   }
  ],

@@ -15358,6 +15358,15 @@
    "wraca": "300-10-01",
    "zamyka": "lista prowadzona, pierwsze odwiedziny odbyte (rzut)",
    "status": "otwarte ### 09-23 SLOWO PANA: do ZM - strazniczka i pisarz Skarbu; rubryka wdow Edrica z Konserwy - TAK; listy Krolowej do Krola - TAK (jej pieczecia)."
+  },
+  {
+   "data": "300-09-23",
+   "co": "LIST REGENTA DO ROOSE'A BOLTONA (09-23, krotko, jak regent do ojca): Biala Mewa wrocila do BP 09-16; flota pod Kingshouse, sztorm ~09-08 ja rozproszyl; zwiad Wymana wyslany 09-20; wiesc o Krolu i jego ludziach - przekaze, gdy przyjdzie. Bez Lys, Rybnej, kanarka. Kruk WF-Dreadfort. Odpowiedz albo milczenie - RZUT (~09-26); Beron notuje w ksiedze milczenia.",
+   "kto": "SYMON (regent) -> ROOSE BOLTON",
+   "kanal": "kruk WF-Dreadfort",
+   "wraca": "300-09-26",
+   "zamyka": "odpowiedz Roose'a albo nazwane milczenie (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

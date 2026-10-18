@@ -14925,7 +14925,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-19",
    "zamyka": "lekcja 18 HV odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-19 ### lekcja 18 HV odbyta (rzut 95) ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-17",
@@ -15088,6 +15088,15 @@
    "wraca": "300-09-22",
    "zamyka": "slowo pana",
    "status": "zamkniete 300-09-19 ### SLOWO PANA: ZGODA - rog przy kazdym punkcie, sygnal zapasowy w zamieci; kruk WF-Deepwood 09-20 rano; Robett ustala rytm i melduje w karcie tygodniowej ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-19",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA WTOREK 09-23 (po lekcji 18, rzut 95): drugi ustep formularza pozyczki - odsetki i kara za zwloke (~7 zdan).",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-09-23",
+   "zamyka": "lekcja 19 HV odbyta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

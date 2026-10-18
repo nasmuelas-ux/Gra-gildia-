@@ -374,3 +374,13 @@ Posłaniec: **Benno** (E), pisarz placówki Domu na Czarnym Zamku. Był u Aemona
 
 **Stan Aemona (Benno):** nie wstaje. W dobre dni mówi jasno, w złe śpi. Clydas karmi go rosołem. Wystan jest przy nim.
 **Warunek Króla z 299-09-14 (pkt 4):** odpowiedź, że „poszedł dobrowolnie”, Król chce usłyszeć pierwszy i sam. To NIE jest taka odpowiedź: to słowo Aemona przemawia na korzyść chłopca, a Aemon go nie przesłuchał. Król ma je usłyszeć od pana ustnie. Nic na papierze.
+
+## 300-09-17: JOJEN, sen o czarnej wodzie (wieczerza, pytanie pana)
+- To jego zielony sen, nie fakt świata, i nie wiadomo, kiedy się spełni.
+- **Treść:**
+  - noc bez gwiazd i woda czarna jak smoła;
+  - na wodzie ktoś śpiewa w języku, którego Jojen nie zna; *„nie jak pieśń, tylko jak ktoś, kto liczy”*;
+  - pod wodą coś odpowiada;
+  - **„W tym śnie nie było wilka.”**
+- Jojen nie twierdzi, że sen dotyczy Króla. Meera ucina dalsze pytania przy stole.
+- *(GM, ukryte: sen wiąże się z wątkiem Wysp: czarny kadłub, Lys, śmierć Balona i wiec. Nie dotyczy Skagos.)*

@@ -14745,7 +14745,7 @@
    "kanal": "kruk WF-Fosa",
    "wraca": "300-09-17",
    "zamyka": "slowo pana w trzech sprawach",
-   "status": "otwarte ### 09-16: SLOWO PANA na strategie (5 rad Rodrika - osobne operacje); moneta z Lys - poszla do Willi razem z pytaniem o rozklad; ZOSTAJA do slowa pana: (1) odbudowa drugiej polowy pomostu czy ladunek z kotwicy; (2) rodziny 3 poleglych Jastrzebi (lenno). Rodziny 2 z WF - Korona (osobna operacja)."
+   "status": "zamkniete 300-09-16 ### SLOWO PANA: (1) wszystkie sily na szybki pomost tymczasowy, buduja ZOLNIERZE, plus DRUGI pomost dodatkowo; (2) ceremonia lenna dla 3 poleglych Jastrzebi (pierwsi polegli formacji), Mira decyduje o rozmowie z rodzinami, zold dla rodzin i opieka lenna; moneta z Lys - Willa ### POPRZEDNIO: byl-otw ### 09-16: SLOWO PANA na strategie (5 rad Rodrika - osobne operacje); moneta z Lys - poszla do Willi razem z pytaniem o rozklad; ZOSTAJA do slowa pana: (1) odbudowa drugiej polowy pomostu czy ladunek z kotwicy; (2) rodziny 3 poleglych Jastrzebi (lenno). Rodziny 2 z WF - Korona (osobna operacja)."
   },
   {
    "data": "300-09-16",
@@ -14781,6 +14781,24 @@
    "kanal": "kruk Domu WF-Fosa (szyfr) 09-16",
    "wraca": "300-10-01",
    "zamyka": "meldunek Willi (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "GORACY PORT - DWA POMOSTY TYMCZASOWE, BUDUJA ZOLNIERZE (slowo pana 09-16): (1) odbudowa spalonej polowy pomostu - wszystkie sily; (2) DRUGI pomost obok (dwa punkty ladunku - szybszy ladunek za dnia). Rece: 50 Torvina, setka Hendry'ego, Jastrzebie miedzy wartami - polowa buduje za dnia, noca wszyscy na murze i przy zaporze (zasada 8). Drewno z kolejki budow - Garrick wskazuje, ktora budowa czeka (E: domy dla pracujacych, drugi rzad). Harlon prowadzi. Cel: oba przed statkami Reach w X. Wlasni - bez rzutu.",
+   "kto": "HARLON ; HENDRY ; TORVIN ; GARRICK (drewno)",
+   "kanal": "kruk WF-Fosa 09-16 (szyfr)",
+   "wraca": "300-09-30",
+   "zamyka": "oba pomosty stoja (zbiorczy)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "PIERWSI POLEGLI MCHOWYCH JASTRZEBI - CEREMONIA I RODZINY (slowo pana 09-16): lenno organizuje ceremonie dla trzech poleglych (pierwsi polegli formacji) - Mira decyduje, czy rozmawia z rodzinami; ZOLD wyplacany rodzinom (Kasa 2; E: przez rok), dalej opieka lenna (dzieci do szkoly/internatu, praca w Konserwie dla wdow, izba). Wlasni - bez rzutu.",
+   "kto": "MIRA ; GARRICK ; KESSEL ; EDRIC SZUWAR",
+   "kanal": "kruk WF-Fosa 09-16 (szyfr)",
+   "wraca": "300-09-23",
+   "zamyka": "ceremonia odbyta, rodziny z opieka (zbiorczy)",
    "status": "otwarte"
   }
  ],

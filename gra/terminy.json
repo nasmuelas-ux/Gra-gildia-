@@ -15249,6 +15249,15 @@
    "kanal": "WF",
    "wraca": "300-09-26",
    "zamyka": "slowo pana (Mala Rada ~09-26)",
+   "status": "zamkniete 300-09-22 ### SLOWO PANA: ZGODA - regula przyjeta. Wykonanie: Orland + Gawen - plan rozlozenia zapasu ~16 tyg. po skladach Korony (komory, spichlerze wiejskie, Kamienny Brzeg) na Mala Rade ~09-26; lenno (Fosa, GP) - kruk do Garricka. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-22",
+   "co": "SPICHLERZ NA DROGE - PLAN ROZLOZENIA (regula przyjeta 09-22): Orland + Gawen - ile racji w ktorym skladzie Korony na ~16 tyg., co dowiezc przed jesiennym stawaniem drog (3-5 tyg.); lenno - Garrick (Fosa, GP). Wlasni - bez rzutu; transport przed lodem - pogoda.",
+   "kto": "ORLAND ; GAWEN ; GARRICK",
+   "kanal": "WF; kruk WF-Fosa",
+   "wraca": "300-09-26",
+   "zamyka": "plan na Malej Radzie",
    "status": "otwarte"
   }
  ],

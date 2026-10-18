@@ -12567,7 +12567,7 @@
    "kanal": "na miejscu, WF/ZM",
    "wraca": "300-09-27",
    "zamyka": "pierwsza licytacja odbyta, wynik w ksiedze Skarbu (RZUT przy licytacji - kupcy)",
-   "status": "otwarte ### 300-09-20 TRIAZ: Gawen (E): pierwsza licytacja swiadczen w naturze - sobota 09-27 na Targu ZM (po mlocce); RZUT przy licytacji."
+   "status": "zamkniete 300-09-27 ### PIERWSZA LICYTACJA ODBYTA (ZM, mroz po sniezycy) - RZUT 29 (prog 55): PRZECIETNIE - malo kupcow, czesc swiadczen sprzedana nizej, niz Gawen liczyl, reszta odlozona do nastepnej licytacji (X); kwota - z wagi Oswyna Miarki w ksiedze Skarbu (zasada 43). ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: Gawen (E): pierwsza licytacja swiadczen w naturze - sobota 09-27 na Targu ZM (po mlocce); RZUT przy licytacji."
   },
   {
    "data": "300-08-17",
@@ -13800,7 +13800,7 @@
    "kanal": "domena / Winterfell",
    "wraca": "300-09-26",
    "zamyka": "pierwsze beczki lososia solonego w ksiedze",
-   "status": "otwarte ### 300-09-20 TRIAZ: Edric - na Malej Radzie ~09-26. ### 300-09-26 TRIAZ: Edric w WF na Malej Radzie - meldunek ustny na Radzie (wlasni, bez rzutu)."
+   "status": "zamkniete 300-09-27 ### Edric na Malej Radzie 09-26: pierwsze ~40 beczek lososia solonego w ksiedze (E). ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: Edric - na Malej Radzie ~09-26. ### 300-09-26 TRIAZ: Edric w WF na Malej Radzie - meldunek ustny na Radzie (wlasni, bez rzutu)."
   },
   {
    "data": "300-09-03",
@@ -14914,9 +14914,9 @@
    "co": "CIALA WYLA JODLY I HOBA KRZEMIENIA - Z GORACEGO PORTU DO WINTERFELL (slowo pana 09-16 przy wieczerzy): do rodzin; mroz trzyma ciala (E). Droga: barka GP->Fosa (~2 dni), woz Fosa->WF (6 dni, trakt przejezdny), eskorta - dwoch ludzi Torvina (E). Rozkaz: kruk Korony WF->Fosa z poczta rano 09-17 (pieczec Namiestnika), Garrick przekazuje do GP. Pochowek - rodziny po swojemu, Korona placi (Kasa 3). Wlasni - bez rzutu.",
    "kto": "SYMON ; GARRICK ; TORVIN ; SER RODRIK (rodziny)",
    "kanal": "kruk Korony WF-Fosa 09-17 rano",
-   "wraca": "300-09-27",
+   "wraca": "300-09-29",
    "zamyka": "ciala w WF, rodziny je przyjely",
-   "status": "otwarte ### 09-17 ZAMIEC (pogoda rzut 7): kruki stoja caly dzien - list/rozkaz wychodzi 09-18 rano (+1 dzien). ### 09-20 kruk Garricka: rozkaz doszedl 09-18; barka GP->Fosa w drodze; woz z Fosy ~09-21; w WF ~09-27."
+   "status": "otwarte ### 09-17 ZAMIEC (pogoda rzut 7): kruki stoja caly dzien - list/rozkaz wychodzi 09-18 rano (+1 dzien). ### 09-20 kruk Garricka: rozkaz doszedl 09-18; barka GP->Fosa w drodze; woz z Fosy ~09-21; w WF ~09-27. ### 300-09-27 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: sniezyca 09-26 i zaspy - woz z cialami stoi w drodze; w WF ~09-29."
   },
   {
    "data": "300-09-17",
@@ -15267,7 +15267,7 @@
    "kanal": "kruk WF-BP (wieza Luwina)",
    "wraca": "300-09-27",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte ### 300-09-25 TRIAZ: list z 09-22 u Wymana ~09-24; odpowiedz ~09-26. ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
+   "status": "zamkniete 300-09-27 ### ODPOWIEDZ WYMANA (kruk po poludniu) - RZUT 18: GRZECZNIE NIC. 'Lyseni handluja u mnie jak wszyscy i placa clo. Urzad portowy Bialego Portu nie bedzie chodzil za kupcami na prosbe kogokolwiek - nawet Korony - bo jutro nikt by do mnie nie zawinal. Jesli Korona ma dowod, niech mi go pokaze, a zrobie, co trzeba.' (O) Uprzejmie, bez chlodu, bez pomocy. ### POPRZEDNIO: byl-otw ### 300-09-25 TRIAZ: list z 09-22 u Wymana ~09-24; odpowiedz ~09-26. ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-22",
@@ -15348,7 +15348,7 @@
    "kanal": "kruk WF-Karhold",
    "wraca": "300-09-27",
    "zamyka": "odpowiedz Rickarda (rzut)",
-   "status": "otwarte ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
+   "status": "zamkniete 300-09-27 ### ODPOWIEDZ RICKARDA (kruk po poludniu) - RZUT 43: KROTKO O PRADACH. Prad jesienny idzie wzdluz brzegu z polnocy na poludnie (E); zatoki za cyplem pod Kingshouse plytkie, kamieniste, dobre dla lodzi, nie dla okretow (E); jego rybacy jesienia za cypel nie wyplywaja - nic nie widzieli. Na koncu jedno zdanie: 'Czekam na wiesc o synu.' O regencji ani slowa. ### POPRZEDNIO: byl-otw ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-23",
@@ -15366,7 +15366,7 @@
    "kanal": "kruk WF-Dreadfort",
    "wraca": "300-09-27",
    "zamyka": "odpowiedz Roose'a albo nazwane milczenie (rzut)",
-   "status": "otwarte ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
+   "status": "zamkniete 300-09-27 ### NAZWANE MILCZENIE - RZUT 26: z Dreadfortu nie przyszlo nic. Drugi list bez odpowiedzi od 09-05 (zimny list po akuszerce). Kruki lataly od poludnia. ### POPRZEDNIO: byl-otw ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-23",
@@ -15420,7 +15420,7 @@
    "kanal": "kruk Domu WF-BP, szyfr Domu",
    "wraca": "300-09-27",
    "zamyka": "Hal potwierdza odbior (szyfrem)",
-   "status": "otwarte ### 09-24 WYSLANE: pan szyfruje SAM kluczem Domu (slowo gracza: pan zna szyfr Domu - fakt swiata), bez Lucana; kruk Domu WF-BP wypuszczony przed poludniem przez przybocznego pana (gdzie stoja klatki Domu - zapis milczy; bez dalszych skutkow). Hal ~09-26. ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
+   "status": "zamkniete 300-09-27 ### HAL POTWIERDZA (szyfr Domu, kruk po poludniu; wlasny - bez rzutu): 'Odebralem. Nic nie pakuje. W te noce przy Rybnej niczego Domu.' ### POPRZEDNIO: byl-otw ### 09-24 WYSLANE: pan szyfruje SAM kluczem Domu (slowo gracza: pan zna szyfr Domu - fakt swiata), bez Lucana; kruk Domu WF-BP wypuszczony przed poludniem przez przybocznego pana (gdzie stoja klatki Domu - zapis milczy; bez dalszych skutkow). Hal ~09-26. ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-24",
@@ -15983,7 +15983,7 @@
     "start": "300-09-26"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-19",
+   "ostatnio_odebrane": "300-09-26",
    "zrodlo": "rozkaz Namiestnika 300-09-15/16 (ALARM 36)"
   }
  ]

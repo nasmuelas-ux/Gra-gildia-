@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 26,
+  "dzien": 27,
   "era": "AC"
  },
  "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 7 (300-09-26): BARDZO ZLE - SNIEZYCA od nocy, wiatr z polnocy, zaspy po kolana na dziedzincu (E); kruki stoja caly dzien; trakty zasypane - jezdni i kurierzy czekaja do jutra; po poludniu slabnie.",
- "dzien_tygodnia_nr": 5,
+ "pogoda": "RZUT 10 (300-09-27): ZLE - siarczysty mroz po sniezycy, rano wiatr, zaspy (E); kruki lataja dopiero od poludnia (zimno, krotkie loty); trakty ciezkie - jezdni i wozy wolniej, odsniezanie.",
+ "dzien_tygodnia_nr": 6,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

@@ -14872,6 +14872,33 @@
    "wraca": "300-09-25",
    "zamyka": "zasada przyjeta przez Wille i Stena; Torvald przeszedl pierwsze dwa szczeble",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "SPRAWDZENIE ZAMKU WINTERFELL - SER RODRIK (prosba pana 09-16, 'duzo wyciekow'; rzut 26 - zgoda czesciowa): garnizon, brama, kruczarnia (ludzie, nie maester), kuchnia, sluzba zamku. Po cichu, jego ludzmi. Wynik - RZUT przy meldunku.",
+   "kto": "SER RODRIK",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-30",
+   "zamyka": "meldunek Rodrika (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "SPRAWDZENIE MALEJ RADY KORONY - ZABLOKOWANE: Rodrik odmawia bez slowa Krola (rzut 26: 'Rada to Krol, nie ja'); lady Catelyn i maestera Luwina nie sprawdzi nigdy. Ucho Korony - regula Krola: PRZYJMOWAC WOLNO, ZAMAWIAC NIE WOLNO. Droga: slowo Krola po powrocie albo inne zrodla pana doraznie (do slowa pana).",
+   "kto": "SYMON",
+   "kanal": "Krol po powrocie z morza (data nieznana)",
+   "wraca": "300-09-20",
+   "zamyka": "pan wybral droge (Krol / inne zrodla) albo odstapil",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "SPRAWDZENIE FOSY - KLUCZOWI LUDZIE LENNA I DOMU (slowo pana 09-16, 'podobne sprawdzenie na Fosie'; wycieki - GP): rada lenna i kluczowe stanowiska. Wykonawcy (O, do poprawki): HENDRY (jak Rodrik - garnizon, brama, ludzie przy zamku) + WILLA przed wyjazdem / jej zastepca (siatka) + zrodla doraznie (rejestr Melli, archiwum Haldora). Laczy sie z karta Willi o przecieku GP (10-01). Rozkaz szyfrem Lucana dzis z rozkazem przeniesienia. Wynik - RZUT przy meldunku.",
+   "kto": "HENDRY ; WILLA / zastepca",
+   "kanal": "szyfr Lucana kruk Domu WF-Fosa (dzis wieczor)",
+   "wraca": "300-10-01",
+   "zamyka": "meldunek Fosy (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

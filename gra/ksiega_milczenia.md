@@ -48,3 +48,25 @@ _Tydzień 09-08 → 09-14. Kruki stały 09-12 → 09-14, a dziś stoją znowu. T
 | **Cytadela** | list o maestra dla GP wyszedł 09-11; odpowiedź ~10-10. | — |
 
 **Beron (bez interpretacji):** *„Trzy zmiany: Dustin bliżej, Mormont dalej, Bolton szybciej tam, gdzie tanio.”* Następny przegląd: 09-22.
+
+---
+## PRZEGLĄD BERONA 300-09-22 (poniedziałek, mgła; część Korony)
+_Tydzień 09-15 → 09-21. Kruki stały 09-15 i 09-17 (zamiecie) oraz 09-19 i 09-22 do południa. Część opóźnień to pogoda._
+| korespondent | zmiana rytmu | ⚑ |
+|---|---|---|
+| **Król** | **cisza od 08-25, 28 dni.** Wiadomo tylko z drugiej ręki: „Biała Mewa” (Wyman 09-19). | **⚑ najważniejsze** |
+| **Wyman Manderly** | **szybko** w sprawie Króla (list w 2 dni po naszym). **Chłodno** w sprawach Domu: lodmani („nie na żołdzie kupca”) i cech. Odpowiada Koronie, odpycha Dom. | do karty |
+| **Roose Bolton** | **nic w tym tygodniu.** Jego syn płynie z Królem. Od listu 09-05 cisza. | ⚑ sygnał (milczy, kiedy powinien pytać o syna) |
+| **Rickard Karstark** | list regenta 09-20, odpowiedź ~09-23. | czekamy |
+| **Aemon / Clydas** | **cieplej:** *„Ja poczekam”.* Gorączka zeszła. | sygnał dobry |
+| **Davos (Smocza Skała)** | **w rytmie i ustnie:** „bierzcie, liczone, na Mur”, plus prośba o łupacza. | sygnał dobry |
+| **Robett Glover** | **nowy rytm:** karta łańcucha co tydzień od 09-26. | — |
+| **Theon / Donnel** | karta z 15. nie doszła; Dustinport opóźniony przez drogi po zamieciach. | pogoda |
+| **Maege Mormont** | nic (odpowiedź o stu łodziach ~10-15). | bez zmian |
+| **Edmure** | nic w tym tygodniu. | bez zmian |
+| **Lady Lysa / Dolina** | dalej nic. | bez zmian |
+| **Tyrion** | dalej nic. | bez zmian |
+| **Mance** | dalej nic, ~10-15. | bez zmian |
+| **Cytadela** | odpowiedź o maestra dla GP ~10-10. | — |
+
+**Beron (bez interpretacji):** *„Trzy zmiany: Wyman szybciej dla Korony, chłodniej dla Domu. Aemon cieplej. A Bolton milczy w tygodniu, w którym przyszła pierwsza wieść o flocie jego syna.”* Następny przegląd: 09-29.

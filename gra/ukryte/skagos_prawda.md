@@ -27,3 +27,26 @@ Ramsay i jego dwudziestu to **osobny wątek**, nie wchodzi do tego rzutu.
 - **Od tamtej pory:** naprawy, zła pogoda i mgły. Król czeka w Kingshouse na wiatr. Wieści nie ma, bo nie ma kruków, a żadnego okrętu nie dało się puścić przed naprawami.
 - **Plan Króla (E):** płynąć do Karholdu, kiedy pogoda pozwoli, ~**10-01–05**. Stamtąd pójdzie kruk.
 - Król pamięta, że Skagosi wyciągali z wody ludzi Manderlych. To może zmienić rozmowę o daninie.
+
+
+---
+## ⚑ KALIBRACJA 09-21 (słowo gracza: „okręty masowo nie toną w wyniku sztormów, to jest bardzo rzadkie”, czyli fakt świata, który ma pierwszeństwo)
+**Pasma po poprawce** (ten sam rzut 31, odczytany na nowo):
+
+| rzut | stan |
+|---|---|
+| 1–3 | tragedia (okręt Króla stracony) |
+| 4–10 | jeden okręt stracony na skałach |
+| **11–40** | **trudno: uszkodzenia (stery, maszty, przecieki), ludzie za burtą, kilku zabitych; ŻADEN okręt nie stracony**; przysięga cała albo częściowa; powrót ~X |
+| 41–75 / 76–95 / 96–100 | bez zmian |
+
+**RZUT 31 PO KALIBRACJI: TRUDNO, BEZ STRATY OKRĘTU (E z mocą zapisu). Zastępuje wersję z „Białym Delfinem” na skałach, która jest VOID.**
+- **„Biały Delfin” wszedł na mieliznę** przy wejściu za cypel. Zdjęto go z niej przy odpływie na drugi dzień. Ma przeciek i złamany ster, naprawiają go w zatoce.
+- **Fala zabrała z pokładów 7 ludzi** (różne okręty). **4 wyłowiły łodzie Skagosów z Kingshouse**, a 3 utonęło. Ludzie Magnara wypłynęli w sztorm po obcych, a Król to widział.
+- Reszta bez zmian:
+  - przysięga Magnara z Kingshouse ~09-05, częściowa, bo reszta wyspy milczy;
+  - Król gościem w Kingshouse;
+  - ludzie Ramsaya na okręcie;
+  - okręt Króla cały;
+  - naprawy, pogoda i mgły;
+  - powrót do Karholdu ~10-01–05.

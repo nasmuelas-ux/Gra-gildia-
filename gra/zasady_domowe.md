@@ -124,3 +124,8 @@ Tempo NIE jest bledem - asymetria mobilizacji to sedno strategiczne:
 - 298-10-01: host dopiero rusza.
 ZASADA: Polnoc ogromna/daleka/biedna w monecie = WOLNA w mobilizacji (Theomore: 'daleko i cienko'). Lannisterowie (Zachod zwarty/bogaty) uderzyli szybko i pierwsi gdy Ned byl jeszcze Reka. Wiec gdy Polnoc dopiero maszeruje, wrog od miesiaca pustoszy Riverlands i naciska na Riverrun. To nie 'wrog nagle atakuje' - to Polnoc z natury wolniejsza, GONI z odsiecza. Stad pospiech i waga zaopatrzenia (chleb na poscig za czasem, ktory wrog nakrecil pierwszy).
 KALIBRACJA: obleganie Riverrun=ROZWIJAJACE sie/wiesci krukami z opoznieniem (nie pewnik co do godziny); ogien Gory=trwa od konca sierpnia (pewne/dawne). Symon zna KSZTALT nie rozstrzygniecia (rzut 65 caveat).
+
+## KALIBRACJA: MORZE I SZTORMY (słowo gracza 300-09-21, fakt świata)
+- **Okręty rzadko toną w sztormach.** Sztorm daje przede wszystkim: rozproszenie floty, opóźnienie, złamane maszty i stery, przecieki, mielizny, ludzi za burtą.
+- Utrata okrętu w sztormie to tylko **najniższe pasmo** rzutu (rząd 1–10 na 100), a utrata wielu okrętów naraz jeszcze niżej.
+- Przy wieściach z morza rozdzielać zawsze **co wie świadek** (ten, który widział z daleka albo sam uciekał) od **tego, co się stało** (osobny rzut z pasmami zapisanymi przed rzutem).

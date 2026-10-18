@@ -119,3 +119,10 @@
 - **Czas:** zima na naukę języka i fachu; **wypłynięcie wiosną** (sztormy Wąskiego Morza, lód). Ilario może uczyć braavoskiego i pokazać miasto „z pamięci” – ale nie musi wiedzieć, po co (O).
 - **Profil:** młody, piśmienny, liczy, zna jeden towar z Północy, bez długów, z rodziną tutaj. Kandydaci – z listą ~10-10.
 - **⚑ PAN 09-25 (cd.): BRAAVOS SZYBCIEJ – szukać w BIAŁYM PORCIE** (ktoś, kto już zna Braavos i język). **WILLA (O):** w BP są ludzie, którzy pływali do Braavos albo tam siedzieli – szyprowie, pisarze frachtu, kupcy sukna i bursztynu; **nie z linii Nesty** (niezależność) i nie z ludzi Domu. Szuka przez swoich w BP (teatr Północ, Merel). **Kandydaci ~10-05**; jeśli ktoś pasuje – statek do Braavos w X, przed najgorszymi sztormami; na miejscu ~XI.
+
+### LUDZIE W PLACÓWKACH DOMU – WILLA (O), 09-25
+- **LYMAN (Riverrun) i OBARO (Pentos):** zostają **ludźmi Domu**, nic nie wiedzą o wywiadzie. Są **źródłem ksiąg**, nie oczami. Most jest jeden i jawny: **Willa jako kanclerz-archiwista Domu czyta księgi z urzędu** – wywiad bierze wiedzę Domu przez nią, bez werbowania ludzi Domu.
+- **DERON SUCHY (Rozdroże):** robił już robotę wywiadu (meldunek z XII/299 o ludziach pytających o zboże i trakty). To zastępca Lucana. **Propozycja:** zamrozić do wyniku sprawdzenia Lucana (~10-10); potem albo **operacyjny teatru KP z nowym prowadzącym (nie Lucan)**, albo wraca tylko do gospody. **Masha Heddle** – ucho KP przez opłaconego człowieka, nie przez Derona.
+- **ARCHIWIŚCI-KANCELARYŚCI w placówkach (plan 09-16): SKREŚLIĆ** – to byłyby oficjalne stanowiska wywiadu w Domu, czyli dokładnie to, co pan zakazał. Kto już przyjęty – zostaje zwykłym pisarzem placówki.
+- **Zasada:** jeśli wywiad ma człowieka w Domu, to **jego przełożony w Domu o tym nie wie**; wie tylko prowadzący.
+**Do słowa pana:** Deron – zamrozić? · archiwiści – skreślić? · Lyman/Obaro – tylko księgi?

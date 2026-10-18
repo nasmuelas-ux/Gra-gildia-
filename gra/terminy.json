@@ -13332,7 +13332,7 @@
    "kanal": "droga BP-Deepwood; kruk Deepwood-WF",
    "wraca": "300-09-22",
    "zamyka": "mierniczy w Deepwood; poczatek pomiaru",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki nie lataja, Trakt Krolewski zasypany; paczka Hala i woz ze skrzynia Korony stoja w drodze (E: przy Cerwyn) - ~09-18 po pogodzie; rzuty przy czytaniu. ### 09-18 RANO: woz ze skrzynia Korony i paczka Hala ruszyly spod Cerwyn 09-16, stanely w zamieci 09-17; dzis trakt odgarniety - W WF PO POLUDNIU (E). Rzuty przy czytaniu. ### 09-18 paczka Hala: Alyn Pion i Holt Sosna wyjechali z BP do Deepwood ~09-08 (E); kruk z Deepwood ~09-22. ### 09-22 RANO: kruk z Deepwood - po poludniu (pogoda 26, mgla i mzawka)."
+   "status": "zamkniete 300-09-22 ### kruk z Deepwood po poludniu (Luwin przy wieczerzy): Alyn Pion i Holt Sosna w Deepwood od 09-19 (E), z Torgenem ruszaja na pomiar 09-23; spor z Gloverem - brak; dwa odpisy - po pomiarze (~X) ### POPRZEDNIO: byl-otw ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki nie lataja, Trakt Krolewski zasypany; paczka Hala i woz ze skrzynia Korony stoja w drodze (E: przy Cerwyn) - ~09-18 po pogodzie; rzuty przy czytaniu. ### 09-18 RANO: woz ze skrzynia Korony i paczka Hala ruszyly spod Cerwyn 09-16, stanely w zamieci 09-17; dzis trakt odgarniety - W WF PO POLUDNIU (E). Rzuty przy czytaniu. ### 09-18 paczka Hala: Alyn Pion i Holt Sosna wyjechali z BP do Deepwood ~09-08 (E); kruk z Deepwood ~09-22. ### 09-22 RANO: kruk z Deepwood - po poludniu (pogoda 26, mgla i mzawka)."
   },
   {
    "data": "300-08-28",
@@ -15304,6 +15304,15 @@
    "wraca": "300-09-29",
    "zamyka": "kartka Sansy (rzut)",
    "status": "otwarte ### 09-22 SLOWO PANA: potwierdzone - OCZYWISCI (wykluczeni): rodzina przy stole, Rodrik, Brynden, Sten i jego dwoch przy komnatach, Rhona; maester - poza lista (pan). SIEDEM MIEJSC do patrzenia: (1) kruczarnia - chlopcy i pisarz przy klatkach; (2) podczaszy i sluzba przy wysokim stole; (3) sluzba krolowej (ludzie z Dorzecza); (4) maly Walder i jego czlowiek; (5) nienazwani pisarze kancelarii Korony; (6) pisarz Skarbu (rachunki Gawena); (7) chlopcy od swiec i opalu."
+  },
+  {
+   "data": "300-09-22",
+   "co": "CYPEL - POMIAR GRANICY W TOKU (Alyn Pion, Holt Sosna, Torgen; od 09-23): dwa odpisy (Korona, Glover) po pomiarze. Spor z Gloverem - RZUT, jesli powstanie.",
+   "kto": "ALYN PION ; HOLT SOSNA ; TORGEN",
+   "kanal": "kruk Deepwood-WF",
+   "wraca": "300-10-15",
+   "zamyka": "dwa odpisy pomiaru",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

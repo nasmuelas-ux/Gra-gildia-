@@ -66,7 +66,7 @@
 ### 1. GŁOWA: WILLA W ZIMOWYM MIEŚCIE
 - **Willa przenosi się z Fosy do Zimowego Miasta** i odpowiada za **całą siatkę wywiadu**, blisko pana.
 - **Fosy nie zostawia pustej:** przekazuje Północ nowemu szefowi teatru, a dopiero potem wyjeżdża.
-- Rozkaz idzie do niej szyfrem Domu (Harrol Lut).
+- Rozkaz idzie do niej szyfrem Domu (szyfruje Lucan, odczytuje Harrol Lut na Fosie).
 - Kwatera w ZM: (E) izba przy faktorii Domu.
 
 ### 2. PIĘĆ TEATRÓW (*„teatr to ludzie, nie jedna osoba”*)
@@ -125,7 +125,7 @@
 
 **Odpowiedzi pana:**
 1. **Szefów teatrów i kontrwywiadu wskazuje pan**, na bazie swojej wiedzy.
-2. **Willa jedzie TERAZ.** Sama nie szpieguje, już była szefową. **Powołuje swojego zastępcę na Fosie**, który prowadzi teatr Północ, i ona go wskazuje (jej aparat). Rozkaz idzie szyfrem Domu jeszcze dziś. Kruk Domu WF–Fosa jest tam ~09-17. Przekazanie trwa ~2–3 dni, a droga Fosa–WF 6 dni latem (E: zimą ~7–8). **Willa w ZM ~09-27/28.** Przeciek GP i karta 10-01 przechodzą na jej zastępcę, a pod nią są nadal.
+2. **Willa jedzie TERAZ.** Sama nie szpieguje, już była szefową. **Powołuje swojego zastępcę na Fosie**, który prowadzi teatr Północ, i ona go wskazuje (jej aparat). Rozkaz idzie szyfrem Domu jeszcze dziś: szyfruje Lucan w ZM, odczytuje Harrol Lut na Fosie. Kruk Domu WF–Fosa jest tam ~09-17. Przekazanie trwa ~2–3 dni, a droga Fosa–WF 6 dni latem (E: zimą ~7–8). **Willa w ZM ~09-27/28.** Przeciek GP i karta 10-01 przechodzą na jej zastępcę, a pod nią są nadal.
 3. **Eliminacja odbywa się za słowem pana, ale tak, żeby nie było widać, że pan wie.** Słowo jest ustne i bez pisma. Kontrwywiad nie zostawia śladu prowadzącego do pana.
 4. **Teatry, które są biedne zimą, dofinansowuje kasa centralna** (Kasa 1, centrala Domu).
 

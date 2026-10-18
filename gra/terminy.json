@@ -14831,11 +14831,11 @@
   {
    "data": "300-09-16",
    "co": "WILLA - PRZENIESIENIE Z FOSY DO ZIMOWEGO MIASTA (slowo pana 09-16; gra/siatka_reorganizacja_300_09_16.md): szefowa calej siatki blisko pana. Warunek: przekazuje teatr Polnoc nowemu szefowi przy placowce Fosy. Rozkaz szyfrem Domu (Harrol Lut). Kwatera ZM (E: izba przy faktorii Domu). Kolizja: przeciek GP / wedka / karta 10-01 prowadzi Willa na miejscu.",
-   "kto": "SYMON ; WILLA ; HARROL LUT",
+   "kto": "SYMON ; WILLA ; LUCAN (szyfruje w ZM) ; HARROL LUT (odczyt na Fosie)",
    "kanal": "szyfr Domu kruk WF-Fosa po slowie pana (kiedy jedzie)",
    "wraca": "300-09-25",
    "zamyka": "Willa w ZM; zastepca na Fosie prowadzi teatr Polnoc (imie z jej meldunku)",
-   "status": "otwarte ### 09-16 SLOWO PANA: jedzie TERAZ; sama powoluje zastepce na Fosie (teatr Polnoc, przeciek GP i karta 10-01 przechodza na niego pod nia). Rozkaz szyfrem Domu kruk WF-Fosa 09-16 wieczor (Harrol Lut) - na Fosie ~09-17; przekazanie ~2-3 dni; droga 6 dni (E zima 7-8) - w ZM ~09-27/28. Wlasna - bez rzutu. ### 09-16 (cd.) DOPRECYZOWANIE: Willa wyznacza TERAZ tylko szefa Polnocy; trakt przejezdny (slowo gracza) - 6 dni; kruk ~09-17, przekazanie ~2 dni, wyjazd ~09-19, w ZM ~09-25 (E)."
+   "status": "otwarte ### 09-16 SLOWO PANA: jedzie TERAZ; sama powoluje zastepce na Fosie (teatr Polnoc, przeciek GP i karta 10-01 przechodza na niego pod nia). Rozkaz szyfrem Domu kruk WF-Fosa 09-16 wieczor (Harrol Lut) - na Fosie ~09-17; przekazanie ~2-3 dni; droga 6 dni (E zima 7-8) - w ZM ~09-27/28. Wlasna - bez rzutu. ### 09-16 (cd.) DOPRECYZOWANIE: Willa wyznacza TERAZ tylko szefa Polnocy; trakt przejezdny (slowo gracza) - 6 dni; kruk ~09-17, przekazanie ~2 dni, wyjazd ~09-19, w ZM ~09-25 (E). ### POPRAWKA GM: szyfruje LUCAN w ZM (jak 09-13), Harrol Lut odczytuje na Fosie - nie Harrol w WF."
   },
   {
    "data": "300-09-16",

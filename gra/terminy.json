@@ -13629,7 +13629,7 @@
    "kanal": "biblioteka WF",
    "wraca": "300-09-22",
    "zamyka": "tabela tygodni zlego lodu",
-   "status": "otwarte ### 300-09-20 TRIAZ: Bran i Luwin pokaza tabele w poniedzialek 09-22 (wieczerza 09-19)."
+   "status": "zamkniete 300-09-22 ### tabela na stole pana (gra/tygodnie_zlego_lodu_300_09_22.md): 9 zim; krotka 6-9 tyg., dluga 13-16; odwilz w srodku - 3 z 9 (wszystkie dlugie). Regula Luwina - zapas ~16 tyg. NA MIEJSCU w kazdym skladzie - do slowa pana. ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: Bran i Luwin pokaza tabele w poniedzialek 09-22 (wieczerza 09-19)."
   },
   {
    "data": "300-09-02",
@@ -15240,6 +15240,15 @@
    "kanal": "kruk Domu WF-BP + statek",
    "wraca": "300-11-15",
    "zamyka": "odpowiedz Nesty",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-22",
+   "co": "REGULA 'SPICHLERZ NA DROGE' (Luwin, tabela zlego lodu 09-22): kazdy sklad (komory, spichlerze wiejskie, Fosa, GP, Kamienny Brzeg) trzyma zapas ~16 tygodni NA MIEJSCU (~140 000 racji rozlozonych dla gab Korony) - do slowa pana.",
+   "kto": "SYMON ; LUWIN ; ORLAND ; GAWEN",
+   "kanal": "WF",
+   "wraca": "300-09-26",
+   "zamyka": "slowo pana (Mala Rada ~09-26)",
    "status": "otwarte"
   }
  ],

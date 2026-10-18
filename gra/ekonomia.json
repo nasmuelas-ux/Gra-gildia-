@@ -812,6 +812,16 @@
      "od": "300-09-10",
      "do": null,
      "zrodlo": "SLOWO PANA 300-09-09: 'Wintertown tez ma lecznice, dac jej patronat. Zatrudnic zielarki tam.' E: opal, plotno, kasza dla lezacych (8 lozek) ~0,4-0,7/mies + 4 zielarki x ~30 miedziakow/dzien ~0,18/mies. Liczba zielarek - rzut ~09-12 (gra/zapas_lekow_korony_300_09_09.md). ### 09-12: zielarek ze wsi 0 (rzut 3) - placa tylko Hilda; pozycja obnizona do 0,45-0,75."
+    },
+    {
+     "nazwa": "ZIMOWE UTRZYMANIE TRAKTOW KORONY (~305 mil, gospodarze mil)",
+     "typ": "koszt",
+     "min": 1.8,
+     "max": 2.8,
+     "okres": "miesiac",
+     "od": "300-10-01",
+     "do": "301-04-30",
+     "zrodlo": "SLOWO PANA 300-09-15: ~1,5 jelenia/mila/mies (E); placi sie za mile czysta"
     }
    ],
    "nieznane": [
@@ -1543,6 +1553,13 @@
    "kwota": -8,
    "opis": "S-7 ZAPAS LEKOW KORONY - zakup roku I, czesc z domeny i Polnocy (plotno wdow, ocet, miod, mech Apteki Bagna po cenie, skrzynie, narzedzia) ~55 w 7 ratach (E)",
    "zrodlo": "SLOWO PANA 300-09-09 'Zakup na rok' - gra/zapas_lekow_korony_300_09_09.md"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -12,
+   "opis": "ZIMOWE UTRZYMANIE TRAKTOW - sprzet: wloki sniezne, lopaty, tyczki co 50 krokow (~305 mil) (E)",
+   "zrodlo": "SLOWO PANA 300-09-15 - gra/zimowe_utrzymanie_traktow_300_09_15.md"
   }
  ],
  "_symulacje": {

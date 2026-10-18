@@ -14710,6 +14710,24 @@
    "wraca": "300-09-22",
    "zamyka": "pierwszy tydzien sprzedazy (ile wozow, cena opalu w ZM) + odzew wsi na chrust",
    "status": "otwarte ### 09-15 SLOWO PANA (rada Luwina po drwalu z odmrozona reka): herold DOPOWIADA - chrust PO ZAMIECI, nie w zamiec; drewno Korony na sprzedaz od razu (ze skladu, bez wyjscia do lasu)."
+  },
+  {
+   "data": "300-09-15",
+   "co": "ZIMOWE UTRZYMANIE TRAKTOW KORONY (slowo pana 09-15; gra/zimowe_utrzymanie_traktow_300_09_15.md): trasa 'zawsze przejezdna' WF-Cerwyn-Przystan Wilka-BP oraz Przystan-Fosa (~305 mil); gospodarz kazdej mili (wies/soltys albo karczma + izba zimowa); Korona placi (E ~1,5 jelenia/mila/mies, ~2,3 smoka/mies, X-IV ~16) + sprzet (wloki, lopaty, TYCZKI co 50 krokow, ~12); jezdziec Korony sprawdza po kazdym sniegu - placi sie za mile czysta. Domena - Edric od X; lenno - list do Garricka/Warryna. Wlasni - bez rzutu.",
+   "kto": "GAWEN ; EDRIC PLUG ; SER RODRIK ; ciesle ZM ; BORS",
+   "kanal": "na miejscu; kruk WF-Fosa",
+   "wraca": "300-10-01",
+   "zamyka": "umowy z gospodarzami mil domeny i lenna + tyczki na pierwszych milach",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-15",
+   "co": "ZIMOWE TRAKTY - ZGODA LORDOW NA PLACENIE ICH WSIOM (slowo pana 09-15): listy pod pieczecia Namiestnika do CERWYNA (Cerwyn-Przystan ~60 mil) i WYMANA (Przystan-BP ~40, T3-A ~120): Korona placi ich wsiom/karczmom za odsniezanie wg stawki, kontrola jezdzcem Korony. Odpowiedzi - RZUT przy kazdej.",
+   "kto": "SYMON -> CERWYN ; SYMON -> WYMAN",
+   "kanal": "kruki po pogodzie",
+   "wraca": "300-09-28",
+   "zamyka": "odpowiedzi Cerwyna i Wymana (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

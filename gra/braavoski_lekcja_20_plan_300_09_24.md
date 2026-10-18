@@ -53,3 +53,6 @@
 ## Do słowa pana (propozycje GM, O)
 - **Kto czyta list na głos:** propozycja: Arya czyta, Sansa odpowiada na pytania 1–5 (zgodnie z prośbą Sansy z 09-17, „nie ja przy tablicy”).
 - **Zadanie na lekcję 21:** propozycja: każda pisze **list do Darei z prawdziwą datą** (dzień lekcji, przeliczony na rok od Odsłonięcia) i jednym pytaniem o Braavos.
+
+### ⚑ SŁOWO PANA 300-09-24 (po obiedzie)
+**List czyta ARYA.** Sansa odpowiada na pytania 1–5. Zadanie na lekcję 21: nadal do słowa pana.

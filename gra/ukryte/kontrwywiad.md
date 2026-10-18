@@ -20,4 +20,4 @@
 - **Własny człowiek pana, więc bez rzutu na zgodę** (zasada 7). Rozmowa pana z Aldwinem: kiedy pan zechce.
 
 ## CZEGO PAN NIE WIDZI (rzut 21 przy odczycie 09-16; E z mocą zapisu)
-- Aldwin **raz na kilka miesięcy pisze do swojego dawnego mistrza**, septona Hollisa ze Śnieżnego Septu w Białym Porcie. Listy są osobiste i nie ma w nich nic o sprawach pana. **Nikomu tego nie zgłosił**, bo nie uważał, że trzeba. To kanał spoza siatki. Wyjdzie na jaw przy sprawdzeniu albo przy przypadku.
+- Aldwin **raz na kilka miesięcy pisze do swojego dawnego mistrza**, septona Hollisa ze Śnieżnego Septu w Białym Porcie. Listy są osobiste i nie ma w nich nic o sprawach pana. **Nikomu tego nie zgłosił**, bo nie uważał, że trzeba. To kanał spoza siatki. Wyjdzie na jaw przy sprawdzeniu albo przy przypadku. **09-16: Aldwin SAM powiedział o tym panu** przy zleceniu Torvalda, proponując Hollisa jako drogę do BP.

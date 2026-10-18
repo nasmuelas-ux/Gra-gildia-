@@ -15313,6 +15313,24 @@
    "wraca": "300-10-15",
    "zamyka": "dwa odpisy pomiaru",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-22",
+   "co": "KANAREK 'RYBNA' - ZASIANIE (pan + Brynden; gra/kanarek_rybna_300_09_22.md): A kruczarnia - list do Hala krukiem 09-23 (Szara Czapla, noc 10-04/05); B wysoki stol - Brynden do Rodrika na wieczerzy 09-23 (Morski Wrobel, 10-06, sklad pod kotwica); C kancelaria Korony - pismo o straz 09-24 (woz 10-08); D Mala Rada tajna ~09-26 (10-10, Biala Wieza). Hal - prawda inna droga (kurier Willi / ustnie). Wlasni - bez rzutu.",
+   "kto": "SYMON ; BRYNDEN ; (Hal - wiedza)",
+   "kanal": "WF; kruk WF-BP; Mala Rada",
+   "wraca": "300-09-26",
+   "zamyka": "cztery warianty zasiane",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-22",
+   "co": "KANAREK 'RYBNA' - OBSERWACJA I WYNIK (BP 10-03..10-11): ludzie Willi przy Rybnej (po przyjezdzie Willi), urzad portowy Wymana (jesli zgoda), kruki z WF. Ktory wariant wyplynal - RZUT przy meldunku (~10-13).",
+   "kto": "WILLA (siatka BP) ; WYMAN (urzad portowy?) ; LUWIN (kruki)",
+   "kanal": "meldunek Willi",
+   "wraca": "300-10-13",
+   "zamyka": "meldunek: ktory wariant (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

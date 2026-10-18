@@ -14898,7 +14898,7 @@
    "kanal": "szyfr Lucana kruk Domu WF-Fosa (dzis wieczor)",
    "wraca": "300-10-01",
    "zamyka": "meldunek Fosy (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-24 SLOWO PANA - ROZSZERZENIE (osobna operacja 'DYSPOZYCJA BEZPIECZENSTWA FOSY'): HENDRY weryfikuje WSZYSTKICH, w tym KRUCZNIKOW Fosy; rada lenna nie dyskutuje spraw wojskowych. Kanal: POSLANIEC do rak wlasnych, nie kruk."
   },
   {
    "data": "300-09-16",
@@ -15394,6 +15394,15 @@
    "wraca": "300-10-01",
    "zamyka": "slowo pana: termin",
    "status": "zamkniete 300-09-24 ### SLOWO PANA: NAJPIERW MUR (Czarny Zamek - Aemon, poz. 'PAN JEDZIE DO AEMONA'), POTEM FOSA - mozliwe, ze pan przyjedzie juz w lodzie. Odpowiedz do rady lenna POSLANCEM traktem WF-Fosa (nie krukiem - zmiana pana 09-24; trakt 6 dni wg kanaly.json -> na Fosie ~09-30, Garrick). Data wyjazdu na Mur - nadal do slowa pana. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-24",
+   "co": "DYSPOZYCJA BEZPIECZENSTWA FOSY (slowo pana 09-24, na wzor rezimu informacji WF z 09-23 - gra/mala_rada_korony.md): (1) HENDRY WERYFIKUJE WSZYSTKICH - rada lenna, kluczowe stanowiska, KRUCZNICY FOSY i ludzie przy krukach (jak kruczarnia WF); (2) RADA LENNA NIE DYSKUTUJE SPRAW WOJSKOWYCH - ruchy wojsk, garnizon, obrona tylko w waskim gronie (pan + Hendry); (3) ta dyspozycja i odpowiedz dla rady (Mur przed Fosa) NIE krukiem - POSLANCY DO RAK WLASNYCH: do Hendry'ego i do Garricka, osobno zapieczetowane. Trakt WF-Fosa 6 dni (kanaly.json) -> na Fosie ~09-30. Meldunek Hendry'ego wraca tez poslancem (wg tej samej zasady - O, do zmiany slowem pana): sprawdzenie ~tydzien (E) + 6 dni drogi -> ~10-13. Wlasni - bez rzutu na wykonanie; wynik weryfikacji - RZUT przy meldunku.",
+   "kto": "SYMON -> HENDRY ; GARRICK (rada lenna)",
+   "kanal": "poslancy do rak wlasnych, trakt WF-Fosa",
+   "wraca": "300-10-13",
+   "zamyka": "meldunek Hendry'ego z weryfikacji (rzut) + potwierdzenie rady, ze sprawy wojskowe zeszly ze stolu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

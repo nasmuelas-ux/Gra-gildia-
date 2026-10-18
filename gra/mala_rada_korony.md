@@ -56,3 +56,9 @@ _Dług Korony wobec Domu Tally (695) jest w praktyce spłacony towarem (~650 do 
 2. **Odpowiedzialność:** kto był na posiedzeniu tajnym, odpowiada za rozejście się tego, co tam padło. Lista obecnych jest w protokole Berona.
 3. **Ruchy wojsk i sprawy zbrojne** nie są omawiane otwarcie, ani w sali, ani przy stole. Rozmawia się o nich w wąskim gronie, za zamkniętymi drzwiami.
 4. **Lady Catelyn** zasiada przy wąskim stole we wszystkich sprawach swoich dzieci i Króla (słowo regenta 09-22).
+
+### ⚑ 300-09-25 – DOPISEK DO REŻIMU INFORMACJI (słowo pana, po rozmowie z Willą)
+- **Poczta wojskowa i wywiadu idzie POZA kancelarią Korony** (wojskowa – kancelaria Namiestnika i pieczęć pana; wywiad – osobnym kanałem).
+- **Wojsko i wywiad nigdy otwartym tekstem krukiem** – w całym królestwie.
+- **Brudnopisy pali się**; szyfry zmienia się co kwartał, klucz z ręki do ręki; każdy zna swój kawałek.
+- Do ogłoszenia na Małej Radzie 09-26.

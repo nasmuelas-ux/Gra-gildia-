@@ -168,3 +168,4 @@
 - **Szyfry zmieniać co kwartał**; nowy klucz zawsze z ręki do ręki.
 - **Wojsko i wywiad nigdy krukiem otwartym tekstem** (na Fosie już tak – rozszerzyć na wszystko).
 - **Przy każdym wycieku – pytać „kto wiedział”, nie „kto zdradził”.** Tablica, nie podejrzenie.
+**⚑ SŁOWO PANA 09-25:** (1) **Poczta wojskowa i wywiadu – POZA kancelarią Berona.** Wywiad – własnym kanałem Willi; wojskowa – przez kancelarię Namiestnika i pieczęć pana (O: sekretarz Harmon; do poprawki). Ogłoszenie jako część reżimu informacji (Mała Rada 09-26). (2) **Kto otwiera listy pana – na razie bez zmian** (Aldwin). (3) **Środki ostrożności – TAK:** palić brudnopisy; jeden człowiek – jeden kawałek; szyfry co kwartał z ręki do ręki; **wojsko i wywiad nigdy otwartym tekstem krukiem – w całym kraju**; przy wycieku „kto wiedział”.

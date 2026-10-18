@@ -12547,9 +12547,9 @@
    "co": "[CYKL] LADY CATELYN - KROTKIE STRESZCZENIE RAZ W TYGODNIU (jej prosba 08-17, po rozmowie w solarze): co dotyczy jej domu i dzieci; bez daru Brana, siatki Willi, tajnej ksiegi.",
    "kto": "SYMON -> CATELYN",
    "kanal": "osobiscie, WF",
-   "wraca": "300-09-14",
+   "wraca": "300-09-21",
    "zamyka": "cykliczne - co niedziele",
-   "status": "otwarte ### 08-31 ODBYTE (solar po septie; Arya-lekcja 12, Sansa, Bran, Rickon, Lyra, list do Jona, miecz rodu). Nastepne - 09-07. ### 08-24 ODBYTE (solar; pan mowil wszystko, co moze, takze o lennie). Nastepne - 08-31. ### 09-07: streszczenie tygodnia odbyte (solar, przed poludniem; Maidenpool/Harrion, Edmure)."
+   "status": "otwarte ### 08-31 ODBYTE (solar po septie; Arya-lekcja 12, Sansa, Bran, Rickon, Lyra, list do Jona, miecz rodu). Nastepne - 09-07. ### 08-24 ODBYTE (solar; pan mowil wszystko, co moze, takze o lennie). Nastepne - 08-31. ### 09-07: streszczenie tygodnia odbyte (solar, przed poludniem; Maidenpool/Harrion, Edmure). ### 09-14: streszczenie tygodnia odbyte (solar, wieczorem, z listem Edmure'a). Nastepne - 09-21."
   },
   {
    "data": "300-08-17",
@@ -14196,7 +14196,7 @@
    "kanal": "kruk Korony WF-Riverrun (maester, NIE kantor Domu); kruk WF-BP",
    "wraca": "300-09-14",
    "zamyka": "zgoda Edmure'a na jencow + slowo Krola/Namiestnika do Maidenpool",
-   "status": "otwarte ### 09-07 SLOWO PANA: WYSLAC WSZYSTKIE TRZY - (a) list CATELYN do Edmure'a (kruk maestra WF->Riverrun, nie kantor Domu); (b) POTWIERDZENIE NAMIESTNIKA dla dowodcy Maidenpool: wymiana ~09-25 przy bramie od ladu, Harrion pierwszy, garnizon wychodzi morzem po nim - w imieniu Korony, pieczec kancelarii Krola Polnocy (przez Riverrun/oboz Edmure'a); (c) LIST DO KROLA - kruk do BP, do rak przy powrocie floty. Kruki 09-07 po poludniu. Odpowiedz Edmure'a (jency) - RZUT ~09-14. ### 09-14: po trzech dniach burzy kruki ruszaja od poludnia (pogoda 13); zalegla poczta przychodzi WIECZOREM 09-14 - rzuty przy czytaniu. ### 09-14: list Edmure'a do lady Catelyn PRZYSZEDL (zapieczetowany) - czyta Catelyn w solarze wieczorem; RZUT przy otwarciu."
+   "status": "zamkniete 300-09-14 ### EDMURE RZUT 68 DOBRZE: zgoda - dwaj rycerze Lannisterow pod straza Riverrun do obozu pod Maidenpool ~09-20; czlowiek Edmure'a przy bramie; przeprosiny przyjete ### POPRZEDNIO: byl-otw ### 09-07 SLOWO PANA: WYSLAC WSZYSTKIE TRZY - (a) list CATELYN do Edmure'a (kruk maestra WF->Riverrun, nie kantor Domu); (b) POTWIERDZENIE NAMIESTNIKA dla dowodcy Maidenpool: wymiana ~09-25 przy bramie od ladu, Harrion pierwszy, garnizon wychodzi morzem po nim - w imieniu Korony, pieczec kancelarii Krola Polnocy (przez Riverrun/oboz Edmure'a); (c) LIST DO KROLA - kruk do BP, do rak przy powrocie floty. Kruki 09-07 po poludniu. Odpowiedz Edmure'a (jency) - RZUT ~09-14. ### 09-14: po trzech dniach burzy kruki ruszaja od poludnia (pogoda 13); zalegla poczta przychodzi WIECZOREM 09-14 - rzuty przy czytaniu. ### 09-14: list Edmure'a do lady Catelyn PRZYSZEDL (zapieczetowany) - czyta Catelyn w solarze wieczorem; RZUT przy otwarciu."
   },
   {
    "data": "300-09-08",
@@ -14682,6 +14682,15 @@
    "kanal": "kruk WF-Czarny Zamek 09-15",
    "wraca": "300-09-21",
    "zamyka": "wiesc doszla (cykl AEMON_STAN)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-14",
+   "co": "MAIDENPOOL - WYMIANA ZA HARRIONA ~09-25 (po zgodzie Edmure'a 09-14): przy bramie od ladu; Harrion wychodzi pierwszy, potem dwaj rycerze Lwa; garnizon wychodzi morzem; obecni: czlowiek Karstarka, czlowiek Edmure'a. Wynik - RZUT przy meldunku (cudza wola: dowodca Lwa).",
+   "kto": "dowodca Maidenpool ; czlowiek Karstarka ; czlowiek Edmure'a",
+   "kanal": "kruk Riverrun-WF",
+   "wraca": "300-09-28",
+   "zamyka": "Harrion wolny (albo nie) - meldunek",
    "status": "otwarte"
   }
  ],

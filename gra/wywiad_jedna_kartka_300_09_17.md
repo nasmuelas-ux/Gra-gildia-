@@ -126,3 +126,4 @@
 - **ARCHIWIŚCI-KANCELARYŚCI w placówkach (plan 09-16): SKREŚLIĆ** – to byłyby oficjalne stanowiska wywiadu w Domu, czyli dokładnie to, co pan zakazał. Kto już przyjęty – zostaje zwykłym pisarzem placówki.
 - **Zasada:** jeśli wywiad ma człowieka w Domu, to **jego przełożony w Domu o tym nie wie**; wie tylko prowadzący.
 **Do słowa pana:** Deron – zamrozić? · archiwiści – skreślić? · Lyman/Obaro – tylko księgi?
+**⚑ SŁOWO PANA 09-25:** (1) **DERON – ZAMROŻONY CAŁKIEM** (bez względu na wynik sprawdzenia Lucana; wraca tylko do gospody, żadnych zleceń wywiadu). (2) **Archiwiści-kancelaryści – SKREŚLENI.** (3) **Lyman i Obaro – tylko źródło ksiąg** (Willa czyta z urzędu w Domu).

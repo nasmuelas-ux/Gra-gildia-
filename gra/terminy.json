@@ -14701,6 +14701,15 @@
    "wraca": "300-09-19",
    "zamyka": "lekcja odbyta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-15",
+   "co": "OPAL DLA ZM - DREWNO KORONY PO CENIE NA SLUPIE + PRAWO CHRUSTU (slowo pana 09-15, w zamieci): (1) Gawen: drewno opalowe z zapasow domeny (E: ~150 wozow w stosach pod ZM i przy Kamiennym Brodzie) sprzedawane w ZM po cenie sprzed zamieci (E: 3 jelenie za woz), cena na slupie obok zboza, co tydzien; (2) Edric + lesniczy Korony + Cob: kazdy moze zbierac CHRUST i drewno lezace w lasach domeny - bez scinania zywych drzew (lesniczy pilnuje, kara jak dawniej). Ogloszenie dzis na slupie i przez herolda w ZM i we wsiach okregu V (po pogodzie). Wplyw na cene opalu i na wsie (Dzicza Ostoja) - zobaczyc w karcie Gawena / meldunku S-6. Wlasni - bez rzutu.",
+   "kto": "GAWEN ; EDRIC PLUG ; lesniczy Korony ; COB",
+   "kanal": "slup ZM, herold; goncy domeny po pogodzie",
+   "wraca": "300-09-22",
+   "zamyka": "pierwszy tydzien sprzedazy (ile wozow, cena opalu w ZM) + odzew wsi na chrust",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

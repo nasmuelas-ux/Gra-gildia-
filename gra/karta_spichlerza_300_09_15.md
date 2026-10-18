@@ -38,3 +38,7 @@
 
 **7. Do słowa pana**
 - **Opał w ZM:** Gawen pyta, czy przy przedłużającej się zamieci Korona ma sprzedawać drewno z lasów domeny po cenie na słupie, tak jak zboże. Zboże i opał zimą idą razem.
+
+### ⚑ SŁOWO PANA 300-09-15: „Sprzedawać i pozwolić ludziom zbierać chrust.”
+- **Drewno Korony:** z zapasów domeny (E: ~150 wozów) w ZM, **po cenie sprzed zamieci** (E: 3 jelenie za wóz). Cena wisi na słupie obok zboża, co tydzień.
+- **Prawo chrustu:** każdy może zbierać chrust i leżące drewno w lasach domeny. **Żywych drzew nie wolno ścinać**, pilnują tego leśniczy i Cob. Ogłoszenie dziś na słupie i przez herolda w ZM, a we wsiach po pogodzie.

@@ -35,3 +35,19 @@
 3. Ludzie w placówkach (kupcy ksiąg, Deron, Lyman): czy przechodzą jako operacyjni Willi, czy wychodzą.
 4. Łączność: szyfr i kruki Domu albo własna droga.
 5. Kwoty ostateczne.
+
+---
+## ⚑ SŁOWO PANA 300-09-25 (izba Willi w ZM): USTRÓJ „BARDZIEJ PROFESJONALNIE”
+1. **Każdy teatr ma własną siedzibę-przykrywkę:** przedsiębiorstwo, którego nikt o nic nie podejrzewa. Nie placówka Domu (zastępuje „siedzibę przy placówce” z 09-16).
+2. **Dwa rodzaje ludzi:** **analitycy** (składają obraz, nie wychodzą w teren) i **terenowi** (akcje wywiadowcze, nie widzą całości).
+3. **Całość raportuje do Zimowego Miasta.**
+4. **Kontrwywiad działa podobnie** (własna przykrywka, analitycy/terenowi). **Oddzielony od Domu.**
+5. **Szefowie teatrów i Willa – tylko zarządzanie, bez działań w terenie.**
+6. **Szef kontrwywiadu:** pan najpierw go sprawdza; dopiero potem Willa usłyszy imię.
+
+### WILLA (O) – co dokłada
+- **Podział analityk/terenowy – tak.** *„Terenowy nie wie, co analityk z tego złożył. Jak go złapią, nie ma czego wydać.”*
+- **Przykrywka musi na siebie zarabiać.** *„Interes, który traci, a nie upada – to pierwsze, co zauważy dobry szpieg.”* Rodzaj: miejsca, do których ludzie przychodzą sami i mówią (karczma, skład, przewoźnik, warsztat przy trakcie) – konkret na teatr wybiera pan z nią.
+- **Pieniądz na start – z sakiewki pana**, nie z Domu (inaczej ślad wraca do Domu). Kupić istniejący mały interes taniej i ciszej niż zakładać nowy (E: ~10–20 smoków na teatr jednorazowo).
+- **Czas:** zakup i obsadzenie – miesiące, nie tygodnie; KP śpi do wiosny.
+- **⚠ Pytanie Willi:** *„Jeśli kontrwywiad raportuje do Zimowego Miasta, to raportuje do mnie – a mówiłam, że nie może być pode mną.”* Propozycja (O): kontrwywiad raportuje **wprost do pana**; w ZM tylko wspólna skrzynka na sprawy wspólne. **Do słowa pana.**

@@ -14853,7 +14853,7 @@
    "kanal": "osobiscie w ZM po przyjezdzie Willi",
    "wraca": "300-09-25",
    "zamyka": "ksztalt ustalony slowem pana po rozmowie z Willa",
-   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu). ### 09-17 SLOWO PANA (rama): wywiad ODDZIELNY od Domu; Dom bez tajnej ksiegi wywiadu, ale zrodlo informacji - bez oficjalnych osob; ludzie w Domu = operacyjni Willi; teatry dzialaja tak samo, organizuja sie odrebnie; finanse z sakiewki pana. DO ROZMOWY: kontrwywiad - dostep do siatki i informacji Domu, wspolpraca z Willa (pan: TAK, powinny wspolpracowac). ### 09-22 KARTKA PANA (gra/kartka_pana_300_09_22.md) - pytania do Willi, jesli pan zechce: (1) faktor z Rybnej a kantor lysenski przy Rybnej - ten sam dom?; (2) GP - eskorta Redwyne'ow i zalogi Reach na ladzie 09-09..11; (3) test ubytku Dreadfortu (Lucan 07-11) - wynik. ### 300-09-25 TRIAZ: Willa w ZM od poludnia - rozmowa do slowa pana (kiedy). ### 09-25 SLOWO PANA: DZIS (po poludniu, ZM)."
+   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu). ### 09-17 SLOWO PANA (rama): wywiad ODDZIELNY od Domu; Dom bez tajnej ksiegi wywiadu, ale zrodlo informacji - bez oficjalnych osob; ludzie w Domu = operacyjni Willi; teatry dzialaja tak samo, organizuja sie odrebnie; finanse z sakiewki pana. DO ROZMOWY: kontrwywiad - dostep do siatki i informacji Domu, wspolpraca z Willa (pan: TAK, powinny wspolpracowac). ### 09-22 KARTKA PANA (gra/kartka_pana_300_09_22.md) - pytania do Willi, jesli pan zechce: (1) faktor z Rybnej a kantor lysenski przy Rybnej - ten sam dom?; (2) GP - eskorta Redwyne'ow i zalogi Reach na ladzie 09-09..11; (3) test ubytku Dreadfortu (Lucan 07-11) - wynik. ### 300-09-25 TRIAZ: Willa w ZM od poludnia - rozmowa do slowa pana (kiedy). ### 09-25 SLOWO PANA: DZIS (po poludniu, ZM). ### 09-25 ROZMOWA W TOKU (izba Willi, ZM): slowo pana - przykrywki teatrow, analitycy/terenowi, raport do ZM, kontrwywiad podobnie i oddzielony od Domu, szefowie i Willa bez terenu; szef kontrwywiadu - pan najpierw sprawdza. Willa: kontrwywiad raportowac wprost do pana? (do slowa pana). Gra/wywiad_jedna_kartka_300_09_17.md."
   },
   {
    "data": "300-09-16",
@@ -15492,6 +15492,15 @@
    "kanal": "WF",
    "wraca": "300-10-05",
    "zamyka": "dopisek do kosztorysu na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "PRZYKRYWKI TEATROW (slowo pana 09-25): kazdy teatr (Polnoc, Poludnie, KP, Zachod, Essos) i kontrwywiad - wlasne przedsiebiorstwo-przykrywka, ktore na siebie zarabia, kupione z sakiewki pana (nie z Domu); Willa przynosi po jednym-dwoch kandydatach na teatr (rodzaj, miejsce, cena, E ~10-20 smokow), pan wybiera. KP - wiosna. Wlasni - bez rzutu; zakup od obcych - rzut przy kazdym.",
+   "kto": "WILLA ; SYMON",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-10",
+   "zamyka": "lista kandydatow na stole pana",
    "status": "otwarte"
   }
  ],

@@ -80,3 +80,13 @@
 - *„Wtedy i ja muszę wyjść z izby nad składem Domu. Siedzę przy faktorii – to pierwszy ślad do Domu.”* – przenosi się do centrali, kiedy będzie kupiona.
 - Centrala ZM – **kopista i introligator** (E, jej propozycja): kancelaria ma klientów, więc **człowiek kontrwywiadu, który ma inną jawną robotę, przychodzi jako klient** – z listem do przepisania.
 - Dwie izby, dwa klucze, jedna skrzynka w sieni.
+
+### SZEFOWIE TEATRÓW – ROZMOWA 09-25 (Willa, O)
+| teatr | stan | Willa |
+|---|---|---|
+| **PÓŁNOC** (Fosa) | **Merel Tkaczka** (E) od 09-18 – jej wybór | do potwierdzenia słowem pana |
+| **ZACHÓD I PYKE** (Seagard) | pusto | **pierwszy w kolejce** – Pyke milczy, czarny kadłub, trop Theona; „tam najpierw” |
+| **ESSOS** (Braavos) | pusto; kryterium pana: zna braavoski i coś panu zawdzięcza; nie Nesta | imię wskazuje pan |
+| **POŁUDNIE** (Ashford) | pusto | może czekać do zimy – drogi Róży i tak stają |
+| **KRÓLEWSKA PRZYSTAŃ** (Rozdroże) | pusto; śpi do wiosny | **⚠ Deron Suchy** odpada jako szef: to człowiek Domu (zastępca Lucana) – nowy ustrój: żadnych oficjalnych ludzi Domu; i Lucan w sprawdzeniu. Deron może zostać **źródłem**, nie szefem |
+- Szef teatru **nie może być urzędnikiem Domu** ani znać ksiąg Domu z urzędu. Kandydaci (po dwóch) – z listą przykrywek ~10-10.

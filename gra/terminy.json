@@ -15231,7 +15231,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-26",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 09-24 PLAN GOTOWY (temat pana: CZYTANIE LISTU; gra/braavoski_lekcja_20_plan_300_09_24.md): list Darei z Braavos (E), data od Odslonienia do przeliczenia, 5 pytan, 16 slow, odpowiedz jako Lena. Do slowa pana: kto czyta (prop. Arya), zadanie na 21 (prop. list do Darei z prawdziwa data). ### 09-24 SLOWO PANA: list czyta ARYA, Sansa odpowiada na pytania. ### 09-24 ZGODA PANA: zadanie na 21 - list do Darei z prawdziwa data (rok od Odsloniecia) + jedno pytanie o Braavos."
+   "status": "zamkniete 300-09-26 ### ODBYTA (rzut 76, prog 40 - ZNAKOMICIE): Arya czyta list Darei przy tablicy czysto; Sansa odpowiada na 1-5, date przelicza SAMA (pamieta 403 z lekcji 9); 14/16 slow (chwiejne: poslaniec, statek odplywa - E); odpowiedz jako Lena na jednej tabliczce, data u gory poprawna. Zadanie na 21: list do Darei z prawdziwa data + pytanie o Braavos. ### POPRZEDNIO: byl-otw ### 09-24 PLAN GOTOWY (temat pana: CZYTANIE LISTU; gra/braavoski_lekcja_20_plan_300_09_24.md): list Darei z Braavos (E), data od Odslonienia do przeliczenia, 5 pytan, 16 slow, odpowiedz jako Lena. Do slowa pana: kto czyta (prop. Arya), zadanie na 21 (prop. list do Darei z prawdziwa data). ### 09-24 SLOWO PANA: list czyta ARYA, Sansa odpowiada na pytania. ### 09-24 ZGODA PANA: zadanie na 21 - list do Darei z prawdziwa data (rok od Odsloniecia) + jedno pytanie o Braavos."
   },
   {
    "data": "300-09-22",
@@ -15573,6 +15573,15 @@
    "kanal": "WF; klucze kurierem z reki do reki",
    "wraca": "300-10-15",
    "zamyka": "metoda gotowa, pierwsi pisarze nauczeni, klucze wreczone",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-26",
+   "co": "BRAAVOSKI - LEKCJA 21: forma - do slowa pana. Zadanie: kazda pisze list do Darei z prawdziwa data (rok od Odsloniecia) i jednym pytaniem o Braavos. Po rzucie 76 - zwykly prog.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-03",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

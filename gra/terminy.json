@@ -14961,6 +14961,24 @@
    "kanal": "WF",
    "wraca": "300-09-22",
    "zamyka": "rozstrzygniecie (pan lub Gawen) i zapis w Kasie 2/3",
+   "status": "zamkniete 300-09-18 ### SLOWO PANA: rozstrzyga Gawen. GAWEN (rzut 40): POL NA POL - lenno oddaje Koronie 125 korcy zyta W NATURZE z wlasnych spichlerzy do XI (Kasa 2 bez monety); 125 korcy - strata Korony (napad zbrojny, nie zaniedbanie); barka (~4) - strata lenna; od dzis KARTA PRZEWOZU przy kazdym ladunku Korony (kto, od kiedy, ryzyko). ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-18",
+   "co": "LENNO ODDAJE KORONIE 125 KORCY ZYTA W NATURZE (rozstrzygniecie Gawena 09-18 - spalona barka GP): z wlasnych spichlerzy lenna do Spichlerza Korony (sklad Fosy), do XI; Orland wpisuje do ksiegi Spichlerza.",
+   "kto": "GERRIK ; WARRYN ; ORLAND",
+   "kanal": "kruk WF-Fosa (pismo Gawena z poczta 09-19)",
+   "wraca": "300-10-30",
+   "zamyka": "125 korcy w ksiedze Spichlerza Korony",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-18",
+   "co": "KARTA PRZEWOZU KORONY (Gawen 09-18): przy kazdym ladunku Korony w rekach lenna/Domu/przewoznika - na pismie: kto przyjal, od kiedy, czyje ryzyko (pogoda, napad, zaniedbanie). Wzor Gawena; pierwszy uzytek - statki Reach w X w GP.",
+   "kto": "GAWEN ; ORLAND ; GARRICK (lenno)",
+   "kanal": "WF / kruk Fosa",
+   "wraca": "300-10-01",
+   "zamyka": "wzor karty u Orlanda i Garricka; pierwsza karta przy ladunku X",
    "status": "otwarte"
   }
  ],

@@ -1585,6 +1585,13 @@
    "kwota": -5,
    "opis": "GORACY PORT - zapora z pni i lin na noc w poprzek ujscia (do lancucha GP-2) + opal na ognie brzegowe (E)",
    "zrodlo": "SLOWO PANA 300-09-16 (rada Rodrika)"
+  },
+  {
+   "data": "300-09-12",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -4,
+   "opis": "GORACY PORT - barka lenna spalona w napadzie noca 09-11/12 (E ~4 smoki; raport rady 09-15)",
+   "zrodlo": "raport rady lenna 300-09-15 + rozstrzygniecie Gawena 300-09-18 (barka - strata lenna)"
   }
  ],
  "_symulacje": {

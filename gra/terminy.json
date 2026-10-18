@@ -15132,6 +15132,24 @@
    "kanal": "kruk WF-BP ; kruk WF-Karhold",
    "wraca": "300-09-20",
    "zamyka": "rozkaz zwiadu wyslany; potem meldunek okretu (RZUT)",
+   "status": "zamkniete 300-09-20 ### SLOWO PANA: ZWIAD TERAZ - rozkaz regenta do Wymana i list do Karstarka wyszly krukami przed poludniem (wieza Luwina, pieczec Namiestnika jako regenta wg aktu); operacje ponizej ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-20",
+   "co": "ZWIAD NA SKAGOS (akt regencji, rozkaz regenta 09-20): WYMAN wysyla najszybszy okret z BP do Karholdu i Kingshouse - zobaczyc flote Krola, oboz, wybrzeze; nie ladowac bez potrzeby; wracac do Karholdu z wiescia (kruk Karhold-WF). Kruk do BP 09-21; wyjscie okretu ~09-22 (E); morze BP-Karhold ~10-12 dni, Kingshouse +2 (E). Wynik - RZUT przy meldunku.",
+   "kto": "SYMON (regent) -> WYMAN",
+   "kanal": "kruk WF-BP; okret; kruk Karhold-WF",
+   "wraca": "300-10-08",
+   "zamyka": "meldunek zwiadu (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-20",
+   "co": "LIST REGENTA DO RICKARDA KARSTARKA (09-20): co Karhold wie o Krolu i flocie (ostatni kontakt, kiedy odplyneli, czy cos wrocilo / wyrzucilo morze), jakie lodzie przy brzegu; w gotowosci ludzie wschodu wg aktu - nie ruszac bez slowa regenta. Odpowiedz - RZUT.",
+   "kto": "SYMON (regent) -> KARSTARK",
+   "kanal": "kruk WF-Karhold",
+   "wraca": "300-09-23",
+   "zamyka": "odpowiedz Karstarka (rzut)",
    "status": "otwarte"
   }
  ],

@@ -1,3 +1,5 @@
+> ⚠ **POPRAWKA 09-21 (VOID):** narada stała na wersji listu Wymana z napadem Skagosów i marszem Króla w głąb wyspy, a ta wersja była sprzeczna z zapisem (poczta A, poprawka). **Prawdziwa wieść to sztorm i rozproszona flota.** Głosy doradców i drogi A–C wymagają przeliczenia na **poszukiwanie i ratunek**, nie odsiecz zbrojną. Spust z aktu nie jest spełniony.
+
 # NARADA WOJENNA NADZWYCZAJNA: SKAGOS (300-09-21, niedziela, przed śniadaniem, solar Króla)
 *Zwołuje regent (akt regencji 08-04). **Obecni:** regent Symon, ser Rodrik (Pierwszy Miecz), ser Brynden (dowódca odsieczy, słowo regenta 09-20), maester Luwin (pieczęć i kruki), Gawen (Skarb), **lady Catelyn** (według aktu zasiada w radzie regencyjnej, jeśli Król nie wróci; matka Króla). Królowa Roslin nie jest obecna. Bez rzutów, bo to zdania doradców (O). Liczby to E z mocą zapisu.*
 

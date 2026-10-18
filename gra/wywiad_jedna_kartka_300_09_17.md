@@ -100,3 +100,13 @@
 6. **CENTRUM OPERACYJNE W KRÓLEWSKIEJ PRZYSTANI – budować niezależnie od obecnej siatki.**
 
 **WILLA (O) o KP:** *„Tam siedzi najlepszy pająk w Westeros i jego ptaszki. Centrum w Królewskiej Przystani musi powstać wolno i z ludzi, którzy nie mówią po północnemu – akcent z Północy w Przystani to latarnia. Jeden człowiek, mały interes, śpi do wiosny. Łączność nie krukiem – statkiem przez Braavos albo kupcem przez Rozdroże.”*
+
+### LOJALNOŚĆ – PAN PYTA, WILLA (O), 09-25
+1. **Nie robi się ludzi wierzących – wybiera się takich, którzy już mają powód** (krzywda od Lwa, dług wdzięczności, dom na Północy, wiara w porządek).
+2. **Płacić dobrze i NA CZAS.** Spóźniona wypłata robi zdrajcę szybciej niż obcy pieniądz.
+3. **Rodzina.** Jeśli terenowy zginie albo wpadnie – jego żona i dzieci dostają to, co wdowy z poboru. *„Każdy musi wiedzieć, że nie zostawiamy swoich.”*
+4. **Nie porzucać spalonych.** Kto wpadł – wykupić, wyciągnąć, przenieść. Jeden porzucony uczy stu, ile jest warta przysięga.
+5. **Ktoś musi znać ich imiona.** Pan nie chce znać imion – ale szef teatru zna każdego swojego; człowiek bez imienia u nikogo jest do kupienia.
+6. **Pokazać, że to coś daje** – czasem, bez szczegółów: *„Twoja kartka z lata uratowała konwój.”* Wiara rośnie z wyniku, nie z przemowy.
+7. **Strachem nie.** *„Kto służy ze strachu, sprzeda was pierwszemu, kto przestraszy go bardziej.”*
+8. **Ufać i sprawdzać** – po to jest kontrwywiad. *„Lojalność trzeba podlewać i liczyć, jak zboże.”*

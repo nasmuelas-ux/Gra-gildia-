@@ -15331,6 +15331,24 @@
    "wraca": "300-10-13",
    "zamyka": "meldunek: ktory wariant (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-23",
+   "co": "POWITANIE HARRIONA KARSTARKA (slowo pana 09-23, rada Catelyn): (1) LIST LADY CATELYN czeka na niego w Riverrun (kruk maestra WF-Riverrun 09-23); (2) RYCERZ WINTERFELL pod wilkiem (Rodrik wskazuje) jedzie na Fose na powitanie (~10-15) i prowadzi Harriona przez Winterfell (Catelyn) do Karholdu. Zalezy od wymiany w Maidenpool (~09-25, rzut ~09-28).",
+   "kto": "CATELYN ; RODRIK (rycerz) ; SYMON",
+   "kanal": "kruk WF-Riverrun; rycerz konno WF-Fosa",
+   "wraca": "300-09-28",
+   "zamyka": "wiesc z Maidenpool + rycerz w drodze",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-23",
+   "co": "LIST REGENTA DO RICKARDA KARSTARKA - ZATOKA FOK (rada Bryndena: 'pisac o wodzie'): prady, zatoki za cyplem pod Kingshouse, gdzie stawac w sztorm, ktore miesiace lod; prosba o rade Karholdu jako brzegu Korony. Kruk WF-Karhold 09-23. Odpowiedz - RZUT (~09-26).",
+   "kto": "SYMON (regent) -> KARSTARK",
+   "kanal": "kruk WF-Karhold",
+   "wraca": "300-09-26",
+   "zamyka": "odpowiedz Rickarda (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

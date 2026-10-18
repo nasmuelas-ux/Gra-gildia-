@@ -39,3 +39,6 @@
 
 ## Zadanie na lekcję 19
 Każda pisze po braavosku **trzy zdania o Winterfell dla kogoś z Braavos, kto go nigdy nie widział** (dla Nesty).
+
+### ⚑ SŁOWO PANA 300-09-17 (śniadanie, prośba Sansy: „nie ja przy tablicy”)
+**Lekcję zaczyna ARYA przy tablicy.** Sansa siedzi jako uczennica. Reszta planu bez zmian (opis miasta, scenka „Dwie przewodniczki, jedna trasa”).

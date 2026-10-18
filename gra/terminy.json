@@ -15204,6 +15204,24 @@
    "kanal": "WF/ZM",
    "wraca": "300-09-22",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-09-21 ### slowo pana: chrust otwarty, Korona organizuje dowoz; spisani - 09-28 z wieksza liczba wozow (nowa operacja) ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-21",
+   "co": "DZICZA OSTOJA - SMOLA DLA KORONY ZAMIAST DNIOWKI (slowo pana 09-21): Korona (Konserwa - beczki; okrety; Arsenal) kupuje smole i wegiel drzewny od smolarzy Ostoi po cenie (Gawen ustala, E); PRAWO SMOLARZY OSTOI DO KARPINY I ZYWICY POTWIERDZONE (zwyczaj od dziadow - na pismie, jak zwyczaj lesny Fosy); zywego drzewa na budulec - nadal regale. Torm niesie oferte do wsi; pismo pana do starosty z Tormem. Odpowiedz wsi - RZUT (~09-28). Edric i lesniczy - zawiadomic (S-6: punkt skupu w Ostoi - smola zamiast grzybow).",
+   "kto": "SYMON ; GAWEN (cena) ; EDRIC + lesniczy ; TORM -> starosta Ostoi",
+   "kanal": "Torm ustnie + pismo pana; Edric ustnie WF",
+   "wraca": "300-09-28",
+   "zamyka": "odpowiedz Ostoi (rzut) + pierwsza dostawa smoly",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-21",
+   "co": "CHRUST - ZASADA (slowo pana 09-21): chrust otwarty dla mieszkancow (prawo z 09-15); Korona tylko ORGANIZUJE zbior i dowoz na miejsce, zeby kazdy mial od razu, bez chodzenia do lasu. ~50 spisanych bez wiazek - w nastepna niedziele (09-28) z wieksza liczba wozow; herold ma to powiedziec tymi slowami.",
+   "kto": "GAWEN ; EDRIC ; herold ZM",
+   "kanal": "WF/ZM",
+   "wraca": "300-09-28",
+   "zamyka": "rozdanie 09-28, spisani obsluzeni",
    "status": "otwarte"
   }
  ],

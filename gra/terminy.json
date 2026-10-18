@@ -13656,7 +13656,7 @@
    "kanal": "kruki WF-lordowie (09-03); woz/barka z lodziami",
    "wraca": "300-09-14",
    "zamyka": "odpowiedzi lordow (rzut) + zamowienia u ciesli",
-   "status": "otwarte ### 09-02 SLOWO PANA: lodzie W RECE LORDOW ze wskazaniem rozdysponowania do wsi i osad; karta testu przy lodzi; wnioski przez lorda do Korony. ### 09-03 KRUKI WYSLANE (pieczec Namiestnika, reka Berona): KARSTARK (Rickard - Karhold/Ostatnia Rzeka + osobno: ciesle Karportu buduja swoje ~6, Korona placi), UMBER (Ostatnie Domostwo), BOLTON (Placzaca Woda), DUSTIN (Barrowton), GLOVER (Deepwood), MORMONT (Maege - Wyspa Niedzwiedzia), MANDERLY (BP - ~6 + pytanie o szkutnikow BP). Bez kruka (wlasne): ZM/Bialy Noz (Gawen), Kamienny Brzeg (Corwin - rozkaz), Fosa/Przesmyk (lenno - list do Miry). Tresc: dar Korony, test; ~6 lodzi w rece lorda ze wskazaniem rozdysponowania do wsi i osad; karta testu przy kazdej; wnioski przez lorda do Korony; gotowe ~XI. Odpowiedzi ~09-12 (RZUT przy kazdej). ### 09-12 NIE PRZYSZLO, WIADOMO DLACZEGO: ULEWA z wichura od zachodu (pogoda 23) - kruki nie lataja; odpowiedzi lordow - pierwsza poczta po pogodzie (~09-13/14), RZUTY przy czytaniu. ### 09-14: po trzech dniach burzy kruki ruszaja od poludnia (pogoda 13); zalegla poczta przychodzi WIECZOREM 09-14 - rzuty przy czytaniu."
+   "status": "zamkniete 300-09-14 ### odpowiedzi lordow (gra/poczta_300_09_14.md): Karstark 68 tak; Umber 40 tak bez kart testu; Bolton 55 tak, karty przez jego maestra; Dustin 95 tak + 6 wlasnych; Glover 70 tak + 1 dla Strazy Lesnych; Mormont 11 ODMOWA; Manderly 10 ODMOWA, urazony (Mistrz Handlu pominiety) - 8 wezlow zamiast 10 ### POPRZEDNIO: byl-otw ### 09-02 SLOWO PANA: lodzie W RECE LORDOW ze wskazaniem rozdysponowania do wsi i osad; karta testu przy lodzi; wnioski przez lorda do Korony. ### 09-03 KRUKI WYSLANE (pieczec Namiestnika, reka Berona): KARSTARK (Rickard - Karhold/Ostatnia Rzeka + osobno: ciesle Karportu buduja swoje ~6, Korona placi), UMBER (Ostatnie Domostwo), BOLTON (Placzaca Woda), DUSTIN (Barrowton), GLOVER (Deepwood), MORMONT (Maege - Wyspa Niedzwiedzia), MANDERLY (BP - ~6 + pytanie o szkutnikow BP). Bez kruka (wlasne): ZM/Bialy Noz (Gawen), Kamienny Brzeg (Corwin - rozkaz), Fosa/Przesmyk (lenno - list do Miry). Tresc: dar Korony, test; ~6 lodzi w rece lorda ze wskazaniem rozdysponowania do wsi i osad; karta testu przy kazdej; wnioski przez lorda do Korony; gotowe ~XI. Odpowiedzi ~09-12 (RZUT przy kazdej). ### 09-12 NIE PRZYSZLO, WIADOMO DLACZEGO: ULEWA z wichura od zachodu (pogoda 23) - kruki nie lataja; odpowiedzi lordow - pierwsza poczta po pogodzie (~09-13/14), RZUTY przy czytaniu. ### 09-14: po trzech dniach burzy kruki ruszaja od poludnia (pogoda 13); zalegla poczta przychodzi WIECZOREM 09-14 - rzuty przy czytaniu."
   },
   {
    "data": "300-09-02",
@@ -13989,7 +13989,7 @@
    "kanal": "kruki WF-Deepwood/Kamienny Brzeg, WF-Fosa, WF-Dustinport, Cypel",
    "wraca": "300-09-14",
    "zamyka": "potwierdzenia rozkazu z miejsc",
-   "status": "otwarte ### 09-12: Fosa/GP POTWIERDZONE (zbiorczy 09-09: rozkaz staly przeczytany przy ludziach). Reszta (Corwin, Torren, Theon, Vemund, Maege) - ULEWA, kruki nie lataja; z karta Donnela ~09-14. ### 09-14: po trzech dniach burzy kruki ruszaja od poludnia (pogoda 13); zalegla poczta przychodzi WIECZOREM 09-14 - rzuty przy czytaniu."
+   "status": "zamkniete 300-09-14 ### potwierdzenia: Corwin, Vemund, Maege, Torren i Theon (karta II), Fosa/GP (09-09) - rozkaz obowiazuje ### POPRZEDNIO: byl-otw ### 09-12: Fosa/GP POTWIERDZONE (zbiorczy 09-09: rozkaz staly przeczytany przy ludziach). Reszta (Corwin, Torren, Theon, Vemund, Maege) - ULEWA, kruki nie lataja; z karta Donnela ~09-14. ### 09-14: po trzech dniach burzy kruki ruszaja od poludnia (pogoda 13); zalegla poczta przychodzi WIECZOREM 09-14 - rzuty przy czytaniu."
   },
   {
    "data": "300-09-04",
@@ -14196,7 +14196,7 @@
    "kanal": "kruk Korony WF-Riverrun (maester, NIE kantor Domu); kruk WF-BP",
    "wraca": "300-09-14",
    "zamyka": "zgoda Edmure'a na jencow + slowo Krola/Namiestnika do Maidenpool",
-   "status": "otwarte ### 09-07 SLOWO PANA: WYSLAC WSZYSTKIE TRZY - (a) list CATELYN do Edmure'a (kruk maestra WF->Riverrun, nie kantor Domu); (b) POTWIERDZENIE NAMIESTNIKA dla dowodcy Maidenpool: wymiana ~09-25 przy bramie od ladu, Harrion pierwszy, garnizon wychodzi morzem po nim - w imieniu Korony, pieczec kancelarii Krola Polnocy (przez Riverrun/oboz Edmure'a); (c) LIST DO KROLA - kruk do BP, do rak przy powrocie floty. Kruki 09-07 po poludniu. Odpowiedz Edmure'a (jency) - RZUT ~09-14. ### 09-14: po trzech dniach burzy kruki ruszaja od poludnia (pogoda 13); zalegla poczta przychodzi WIECZOREM 09-14 - rzuty przy czytaniu."
+   "status": "otwarte ### 09-07 SLOWO PANA: WYSLAC WSZYSTKIE TRZY - (a) list CATELYN do Edmure'a (kruk maestra WF->Riverrun, nie kantor Domu); (b) POTWIERDZENIE NAMIESTNIKA dla dowodcy Maidenpool: wymiana ~09-25 przy bramie od ladu, Harrion pierwszy, garnizon wychodzi morzem po nim - w imieniu Korony, pieczec kancelarii Krola Polnocy (przez Riverrun/oboz Edmure'a); (c) LIST DO KROLA - kruk do BP, do rak przy powrocie floty. Kruki 09-07 po poludniu. Odpowiedz Edmure'a (jency) - RZUT ~09-14. ### 09-14: po trzech dniach burzy kruki ruszaja od poludnia (pogoda 13); zalegla poczta przychodzi WIECZOREM 09-14 - rzuty przy czytaniu. ### 09-14: list Edmure'a do lady Catelyn PRZYSZEDL (zapieczetowany) - czyta Catelyn w solarze wieczorem; RZUT przy otwarciu."
   },
   {
    "data": "300-09-08",
@@ -14629,6 +14629,24 @@
    "wraca": "300-09-25",
    "zamyka": "meldunek Willi o Torvaldzie (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-14",
+   "co": "LODZIE-PLOZY - BUDOWA I ROZDANIE (po odpowiedziach lordow 09-14): 8 wezlow (Fosa/Przesmyk, ZM/Bialy Noz, Karhold/Ostatnia Rzeka, Ostatnie Domostwo, Placzaca Woda, Barrowton +6 Dustinow, Deepwood +1 Straze Lesne, Kamienny Brzeg); bez Wyspy Niedzwiedziej i BP; karty testu - bez Umbera, Dreadfort przez maestra. Ciesle ZM, Fosy, Karportu. Gotowe ~XI. Wlasni - bez rzutu.",
+   "kto": "GAWEN ; LUWIN ; ciesle ZM, Fosy, Karportu",
+   "kanal": "na miejscu; woz/barka",
+   "wraca": "300-11-10",
+   "zamyka": "lodzie w rekach lordow, karty testu ruszyly",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-14",
+   "co": "DO SLOWA PANA PO POCZCIE 09-14: (1) WYMAN urazony (Mistrz Handlu pominiety przy lodziach; szkutnikow BP nie da do wiosny) - odpowiedziec? (2) MAEGE odmawia lodzi-ploz, 100 lodzi w porze polowow - odpowiedziec (termin, zboze dla rodzin)? (3) UMBER bez kart testu - czlowiek Korony do kart? (4) AEMON - goraczka wrocila; 'czy Namiestnik przyjedzie przed sniegiem'.",
+   "kto": "SYMON",
+   "kanal": "-",
+   "wraca": "300-09-15",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -14763,7 +14781,7 @@
     "dzien_miesiaca": 8
    },
    "opoznienie": 6,
-   "ostatnio_odebrane": "300-08-08",
+   "ostatnio_odebrane": "300-09-14",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -14813,7 +14831,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-07",
+   "ostatnio_odebrane": "300-09-14",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

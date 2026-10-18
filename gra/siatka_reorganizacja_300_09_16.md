@@ -128,3 +128,8 @@
 2. **Willa jedzie TERAZ.** Sama nie szpieguje, już była szefową. **Powołuje swojego zastępcę na Fosie**, który prowadzi teatr Północ, i ona go wskazuje (jej aparat). Rozkaz idzie szyfrem Domu jeszcze dziś. Kruk Domu WF–Fosa jest tam ~09-17. Przekazanie trwa ~2–3 dni, a droga Fosa–WF 6 dni latem (E: zimą ~7–8). **Willa w ZM ~09-27/28.** Przeciek GP i karta 10-01 przechodzą na jej zastępcę, a pod nią są nadal.
 3. **Eliminacja odbywa się za słowem pana, ale tak, żeby nie było widać, że pan wie.** Słowo jest ustne i bez pisma. Kontrwywiad nie zostawia śladu prowadzącego do pana.
 4. **Teatry, które są biedne zimą, dofinansowuje kasa centralna** (Kasa 1, centrala Domu).
+
+### ⚑ DOPRECYZOWANIE PANA (09-16, cd.)
+- **Szefów teatrów pan wybiera razem z Willą,** po jej przyjeździe do ZM. **Teraz Willa wyznacza tylko szefa Północy** (zastępcę na Fosie).
+- **Trakt jest przejezdny** (słowo gracza), więc droga zajmuje 6 dni. Kruk dochodzi ~09-17, przekazanie ~2 dni, wyjazd ~09-19, **Willa w ZM ~09-25** (E).
+- **Szefa kontrwywiadu pan szuka sam.**

@@ -14833,9 +14833,9 @@
    "co": "WILLA - PRZENIESIENIE Z FOSY DO ZIMOWEGO MIASTA (slowo pana 09-16; gra/siatka_reorganizacja_300_09_16.md): szefowa calej siatki blisko pana. Warunek: przekazuje teatr Polnoc nowemu szefowi przy placowce Fosy. Rozkaz szyfrem Domu (Harrol Lut). Kwatera ZM (E: izba przy faktorii Domu). Kolizja: przeciek GP / wedka / karta 10-01 prowadzi Willa na miejscu.",
    "kto": "SYMON ; WILLA ; HARROL LUT",
    "kanal": "szyfr Domu kruk WF-Fosa po slowie pana (kiedy jedzie)",
-   "wraca": "300-09-28",
+   "wraca": "300-09-25",
    "zamyka": "Willa w ZM; zastepca na Fosie prowadzi teatr Polnoc (imie z jej meldunku)",
-   "status": "otwarte ### 09-16 SLOWO PANA: jedzie TERAZ; sama powoluje zastepce na Fosie (teatr Polnoc, przeciek GP i karta 10-01 przechodza na niego pod nia). Rozkaz szyfrem Domu kruk WF-Fosa 09-16 wieczor (Harrol Lut) - na Fosie ~09-17; przekazanie ~2-3 dni; droga 6 dni (E zima 7-8) - w ZM ~09-27/28. Wlasna - bez rzutu."
+   "status": "otwarte ### 09-16 SLOWO PANA: jedzie TERAZ; sama powoluje zastepce na Fosie (teatr Polnoc, przeciek GP i karta 10-01 przechodza na niego pod nia). Rozkaz szyfrem Domu kruk WF-Fosa 09-16 wieczor (Harrol Lut) - na Fosie ~09-17; przekazanie ~2-3 dni; droga 6 dni (E zima 7-8) - w ZM ~09-27/28. Wlasna - bez rzutu. ### 09-16 (cd.) DOPRECYZOWANIE: Willa wyznacza TERAZ tylko szefa Polnocy; trakt przejezdny (slowo gracza) - 6 dni; kruk ~09-17, przekazanie ~2 dni, wyjazd ~09-19, w ZM ~09-25 (E)."
   },
   {
    "data": "300-09-16",
@@ -14844,7 +14844,16 @@
    "kanal": "osobiscie (pan)",
    "wraca": "300-09-20",
    "zamyka": "pan wskazal czlowieka i rozmowa z nim odbyta (cudza wola - RZUT przy rozmowie, jesli spoza Domu)",
-   "status": "otwarte ### 09-16 SLOWO PANA: zadanie - eliminacja szpiegow i zdrajcow, PRZEJMOWANIE WROGICH SIATEK, sprawdzanie naszej; nikt sie nie dowiaduje. Eliminacja za slowem pana USTNIE, bez pisma, bez sladu do pana. Szefa wskazuje pan (na bazie swojej wiedzy)."
+   "status": "otwarte ### 09-16 SLOWO PANA: zadanie - eliminacja szpiegow i zdrajcow, PRZEJMOWANIE WROGICH SIATEK, sprawdzanie naszej; nikt sie nie dowiaduje. Eliminacja za slowem pana USTNIE, bez pisma, bez sladu do pana. Szefa wskazuje pan (na bazie swojej wiedzy). ### 09-16 (cd.): szefa kontrwywiadu pan szuka SAM."
+  },
+  {
+   "data": "300-09-16",
+   "co": "SZEFOWIE TEATROW - WYBOR PANA Z WILLA (slowo pana 09-16; gra/siatka_reorganizacja_300_09_16.md): POLUDNIE (Ashford), KP (Rozdroze), PYKE I ZACHOD (Seagard), ESSOS (Braavos - zna braavoski, cos panu zawdziecza). Polnoc - Willa wyznacza sama juz teraz.",
+   "kto": "SYMON ; WILLA",
+   "kanal": "osobiscie w ZM po przyjezdzie Willi",
+   "wraca": "300-09-25",
+   "zamyka": "czterej szefowie teatrow wskazani; szyfry do placowek",
+   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25)"
   }
  ],
  "_dopiski_300_03_18": [

@@ -840,6 +840,15 @@
      "od": "300-09-18",
      "do": null,
      "zrodlo": "forma Gawena podpisana przez pana 300-09-17; 20 miedziakow/dzien x 30 = 600 miedz. = 0,03 smoka/mies"
+    },
+    {
+     "nazwa": "NAUCZYCIEL KORPUSU I TLUMACZ KORONY - FERREGO LANTHAS",
+     "typ": "koszt",
+     "stawka": 2,
+     "okres": "miesiac",
+     "od": "300-12-01",
+     "do": "302-11-30",
+     "zrodlo": "kontrakt podpisany przez Namiestnika 300-09-18 (zgoda Malej Rady 08-09); E ~2 smoki/mies z wiktem i izba"
     }
    ],
    "nieznane": [

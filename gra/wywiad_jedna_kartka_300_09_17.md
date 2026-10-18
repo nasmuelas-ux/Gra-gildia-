@@ -187,3 +187,19 @@
 | **POŁUDNIE** | **Stare Miasto** zamiast Ashford | Cytadela, Hightowerowie, statki Reach, wszystkie drogi Róży kończą się tam | wiosna |
 | **KRÓLEWSKA PRZYSTAŃ** | **Królewska Przystań** (słowo pana) | stolica wroga, pająk | wiosna |
 **Do słowa pana:** siedziby; Południe – Stare Miasto zamiast Ashford?
+
+### ⚑ SŁOWO PANA 09-25 (siedziby, raporty, szkoła, sabotaż)
+- **Siedziby zatwierdzone**; **Południe – Stare Miasto**.
+- **PÓŁNOC: DWIE placówki operacyjne – Cailin i BIAŁY PORT.**
+- **ESSOS: Braavos – jedna; DRUGA w PENTOS.**
+- **Raporty: każda placówka raportuje ODDZIELNIE i w RÓŻNYCH terminach.** Pytania kwartalne – pan ustala w rozmowie z Willą.
+- **SZKOŁA WYWIADU – tutaj (ZM).**
+- **SABOTAŻ – wywiad ma być zdolny czasem do działań sabotażowych.**
+
+**WILLA (O):**
+- **Biały Port:** *„Dobrze – to tam płynie pieniądz.”* Pyta: **pod Merel czy własny szef?** (Radzi: własny szef, raport osobno – „Merel zna bramę, nie port”.)
+- **Pentos – ostrożnie.** *„To miasto magistra Illyria. Byliście u niego – zaproponował wam wszystko. Taki człowiek ma oczy w każdej spiżarni swojego miasta. Placówka w Pentos ma być mała, cicha i nie pytać o niego przez pierwszy rok.”* Obaro (księgi Domu) – nie dotykać.
+- **Różne terminy raportów** – *„To też kanarek: jeśli coś z jednego raportu wypłynie przed drugim, wiem, którędy.”*
+- **Szkoła:** przykrywka – **szkoła pisarzy i rachmistrzów przy kopiście** (centrala ZM). Uczniowie myślą, że uczą się fachu; najlepszych bierze się dalej. Nie z Korpusu Korony i nie z ludzi Domu.
+- **Sabotaż:** *„Można. Ale osobni ludzie – ucho, które podpala, przestaje słyszeć. Mała grupa, nigdy z teatru, który słucha w tym samym miejscu. I tylko na wasze ustne słowo, jak eliminacja. Każdy sabotaż mówi wrogowi, że mamy ręce – używać rzadko.”*
+- **Koszt dodatkowy (E):** BP ~12, Pentos ~15 jednorazowo; szkoła ~1–2/mies; grupa sabotażu – osobno, od sprawy. **Do słowa pana.**

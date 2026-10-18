@@ -15501,7 +15501,7 @@
    "kanal": "osobiscie ZM",
    "wraca": "300-10-10",
    "zamyka": "lista kandydatow na stole pana",
-   "status": "otwarte ### 09-25 SLOWO PANA: DWA RODZAJE - CENTRUM OPERACYJNE (ciche, nie karczma; kupione z sakiewki) i USZY (karczma, przewoznik, laznia, kowal, pralnia; czesto oplacony czlowiek zamiast zakupu). Kandydaci: 1 centrum + 2-3 uszy na teatr. ### 09-25 SLOWO PANA: kontrwywiad raportuje WPROST DO PANA; wspolna skrzynka w ZM. CENTRALA W ZM - przedsiebiorstwo-przykrywka (Willa: kopista/introligator, E), siedza tam Willa i kontrwywiad, osobne izby i ksiegi. Willa wyprowadza sie znad skladu Domu po zakupie. Kandydat na centrale ZM - w tej samej liscie."
+   "status": "otwarte ### 09-25 SLOWO PANA: DWA RODZAJE - CENTRUM OPERACYJNE (ciche, nie karczma; kupione z sakiewki) i USZY (karczma, przewoznik, laznia, kowal, pralnia; czesto oplacony czlowiek zamiast zakupu). Kandydaci: 1 centrum + 2-3 uszy na teatr. ### 09-25 SLOWO PANA: kontrwywiad raportuje WPROST DO PANA; wspolna skrzynka w ZM. CENTRALA W ZM - przedsiebiorstwo-przykrywka (Willa: kopista/introligator, E), siedza tam Willa i kontrwywiad, osobne izby i ksiegi. Willa wyprowadza sie znad skladu Domu po zakupie. Kandydat na centrale ZM - w tej samej liscie. ### 09-25 SLOWO PANA: siedziby zatwierdzone (centrala ZM; Polnoc - Cailin I BIALY PORT (dwie placowki); Zachod - Seagard; Essos - Braavos I PENTOS; Poludnie - STARE MIASTO; KP - KP). Raporty kazdej placowki osobno i w roznych terminach. Kandydaci w tej liscie."
   },
   {
    "data": "300-09-25",
@@ -15546,6 +15546,24 @@
    "kanal": "Mala Rada WF",
    "wraca": "300-09-26",
    "zamyka": "ogloszone na Malej Radzie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "SZKOLA WYWIADU W ZM (slowo pana 09-25): przykrywka - szkola pisarzy i rachmistrzow przy centrali (kopista-introligator); uczniowie spoza Korpusu Korony i spoza Domu; najlepsi dalej (analitycy). Willa - plan, nauczyciele, nabor; koszt E ~1-2/mies (do slowa pana).",
+   "kto": "WILLA",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-10",
+   "zamyka": "plan szkoly na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "ZDOLNOSC SABOTAZU (slowo pana 09-25): mala osobna grupa, nigdy z teatru, ktory slucha w tym samym miejscu; dziala wylacznie na ustne slowo pana (jak eliminacja); uzywac rzadko. Willa - zasady i pierwszy kandydat na prowadzacego. Koszt od sprawy (sakiewka).",
+   "kto": "WILLA ; SYMON",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-10",
+   "zamyka": "zasady i prowadzacy grupy",
    "status": "otwarte"
   }
  ],

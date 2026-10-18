@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 15,
+  "dzien": 16,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "rano",
  "sezon": "zima (300)",
- "pogoda": "RZUT 1 (300-09-15): KATASTROFALNIE - pierwsza ZAMIEC w IX: snieg z wichura od polnocy od nocy, zaspy pod murami, dziedziniec bialy; Trakt Krolewski zasypany; kruki nie lataja; zbieracze S-6 i wozy stoja.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 86 (300-09-16): bardzo dobrze - po zamieci czysto, slonce na sniegu, mroz rano, odwilz w poludnie (E); kruki lataja od switu; trakt odgarniany (garnizon - 5 mil).",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

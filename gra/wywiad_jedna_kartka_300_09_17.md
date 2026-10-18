@@ -135,3 +135,4 @@
 - **Daleko (Essos, KP):** statek i kupiec, list w towarze, nie kruk.
 - **Lokalnie:** skrytki i znaki (jak w izolacji terenowych).
 **Do słowa pana:** własny klucz wywiadu? · gołębie wywiadu przy przykrywkach? · kto trzyma klucze?
+**⚑ SŁOWO PANA 09-25 (łączność):** (1) **własny klucz wywiadu TAK; kontrwywiad – osobny klucz do pana**; (2) **gołębniki wywiadu przy przykrywkach TAK** (ZM, Fosa, BP; zima – kurier); (3) **klucze: Willa i szefowie teatrów – TAK.** **Raz jeszcze, twardo: szefowie teatrów NIE działają w terenie. Jak agent spłonie – płonie agent, nie placówka operacyjna.**

@@ -14646,6 +14646,42 @@
    "kanal": "-",
    "wraca": "300-09-15",
    "zamyka": "slowo pana",
+   "status": "zamkniete 300-09-14 ### SLOWO PANA: (1) list do Wymana - lodzie to male lodzie z instrukcji, nie okrety; zdolnosc mniejszych lordow do handlu w glebokiej zimie = szansa BP na spieniezanie i utrzymany handel (uraza VOID - blad GM); (2) Maege - dostarczyc racje zywnosci rodzinom budujacych; (3) Umber - wyslac czlowieka Korony do kart; (4) Aemon - 'postaram sie' ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-14",
+   "co": "LIST DO WYMANA - LODZIE-PLOZY A HANDEL BP (slowo pana 09-14): to male lodzie budowane na miejscu z instrukcji Korony, nie okrety; lodzie dla BP - wiosna, jak Wyman pisze; SENS DLA BP: mniejsi lordowie i wsie zdolne do wymiany handlowej nawet w glebokiej zimie = szansa Bialego Portu na spieniezanie i utrzymany handel przez zime. Pieczec Namiestnika, do Mistrza Handlu. Odpowiedz - RZUT.",
+   "kto": "SYMON -> WYMAN",
+   "kanal": "kruk WF-BP (09-15 rano)",
+   "wraca": "300-09-25",
+   "zamyka": "odpowiedz Wymana (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-14",
+   "co": "WYSPA NIEDZWIEDZIA - RACJE DLA RODZIN BUDUJACYCH 100 LODZI (slowo pana 09-14, odpowiedz na odmowe Maege): Korona dostarcza racje zywnosci rodzinom ludzi, ktorzy buduja 100 lodzi zamiast lowic (E: ~60 rodzin, ~240 dusz x 0,7 racji x 2 mies. ~ 340 korcy zboza + sol i suszona ryba ze Spichlerza 400) - z GP/Dustinportu lodziami Maege albo Torrena, razem z dostawa dla wioslarzy (09-01). List pana do Maege. Reakcja Maege - RZUT (~10-15, razem ze stoma lodziami).",
+   "kto": "SYMON -> MAEGE ; GAWEN + ORLAND (zboze) ; TORREN/lodzie Maege (przewoz)",
+   "kanal": "kruk WF-Wyspa (09-15); woz/lodz z GP",
+   "wraca": "300-10-15",
+   "zamyka": "racje na Wyspie + odpowiedz Maege (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-14",
+   "co": "OSTATNIE DOMOSTWO - CZLOWIEK KORONY DO KART TESTU LODZI (slowo pana 09-14): pisarz z kancelarii Korony (E: MERRIT PIORO, ~20 l., z izby uczniowskiej, syn rybaka z Bialego Noza - umie lodz) jedzie z lodziami ~XI do Ostatniego Domostwa i prowadzi karty testu przy lodziach Umbera, 'zeby jego ludzie wioslowali, a pisal kto inny'. List pana do Umbera z zapowiedzia. Przyjecie przez Umbera - RZUT na miejscu.",
+   "kto": "SYMON -> UMBER ; BERON (wybor pisarza) ; MERRIT PIORO (E)",
+   "kanal": "kruk WF-Ostatnie Domostwo; woz z lodziami ~XI",
+   "wraca": "300-11-15",
+   "zamyka": "Merrit przy lodziach Umbera (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-14",
+   "co": "AEMON - ODPOWIEDZ DO CLYDASA (slowo pana 09-14: 'Postaram sie'): Namiestnik przyjedzie na Czarny Zamek ladem zaraz po powrocie Krola. Kruk WF-Czarny Zamek.",
+   "kto": "SYMON -> CLYDAS (dla Aemona)",
+   "kanal": "kruk WF-Czarny Zamek 09-15",
+   "wraca": "300-09-21",
+   "zamyka": "wiesc doszla (cykl AEMON_STAN)",
    "status": "otwarte"
   }
  ],

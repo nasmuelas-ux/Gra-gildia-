@@ -15096,7 +15096,7 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-23",
    "zamyka": "lekcja 19 HV odbyta",
-   "status": "otwarte ### 300-09-23: zadanie zrobione 09-21 (rzut 2); lekcja 19 dzis wieczorem."
+   "status": "zamkniete 300-09-23 ### lekcja 19 HV odbyta (rzut 59) ### POPRZEDNIO: byl-otw ### 300-09-23: zadanie zrobione 09-21 (rzut 2); lekcja 19 dzis wieczorem."
   },
   {
    "data": "300-09-20",
@@ -15366,6 +15366,15 @@
    "kanal": "kruk WF-Dreadfort",
    "wraca": "300-09-26",
    "zamyka": "odpowiedz Roose'a albo nazwane milczenie (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-23",
+   "co": "WYSOKI VALYRIANSKI - ZADANIE NA PIATEK 09-26 (po lekcji 19, rzut 59): trzeci ustep formularza pozyczki - zastaw i zabezpieczenie (~7 zdan).",
+   "kto": "SYMON -> LUWIN",
+   "kanal": "wlasna nauka",
+   "wraca": "300-09-26",
+   "zamyka": "lekcja 20 HV odbyta",
    "status": "otwarte"
   }
  ],

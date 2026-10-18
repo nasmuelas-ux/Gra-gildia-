@@ -55,3 +55,4 @@ _Dług Korony wobec Domu Tally (695) jest w praktyce spłacony towarem (~650 do 
 1. **Posiedzenia tajne dla wybranych:** w sprawie siedzą tylko członkowie, których ona dotyczy. Pozostali dostają postanowienie, bez przebiegu.
 2. **Odpowiedzialność:** kto był na posiedzeniu tajnym, odpowiada za rozejście się tego, co tam padło. Lista obecnych jest w protokole Berona.
 3. **Ruchy wojsk i sprawy zbrojne** nie są omawiane otwarcie, ani w sali, ani przy stole. Rozmawia się o nich w wąskim gronie, za zamkniętymi drzwiami.
+4. **Lady Catelyn** zasiada przy wąskim stole we wszystkich sprawach swoich dzieci i Króla (słowo regenta 09-22).

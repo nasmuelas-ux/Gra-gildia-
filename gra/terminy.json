@@ -9372,7 +9372,7 @@
    "kanal": "kruk Winterfell-Riverrun; kruk Winterfell-Karhold",
    "wraca": "300-09-28",
    "zamyka": "Harrion wydany albo odmowa Lwa",
-   "status": "otwarte ### 08-05: jak wyzej - wiesc ~08-10. ### 08-10: kruk z Riverrun 08-10 (rzut 55): dowodca Maidenpool nie odmowil - poslal kruka do Tywina o zgode na wymiane z Harrionem; odpowiedz Lwa do Maidenpool ~3-4 tyg. (E), wiesc dalej przez Riverrun. ### 09-05 (poczta_300_09_05.md): odpowiedz Lwa ~3-4 tyg. od 08-10 - wiesc przez Riverrun ~09-07. ### 09-07 (poczta_300_09_07.md) RZUT 76 DOBRZE: Tywin zgadza sie - dwoch rycerzy z lochow Riverrun za Harriona; garnizon wychodzi morzem PO Harrionie; wymiana ~09-25 przy bramie od ladu. Do slowa Krola/Edmure'a. ### 09-07: potwierdzenie terminu w imieniu Korony wyslane (pieczec kancelarii Krola Polnocy); Catelyn pisze do Edmure'a; list do Krola do BP. ### 300-09-25 TRIAZ: wymiana przy bramie od ladu w Maidenpool dzis (~09-25); wiesc krukiem przez Riverrun ~09-28 - RZUT przy wiesci."
+   "status": "zamkniete 300-09-28 ### WIESC Z MAIDENPOOL (kruk przez Riverrun) - RZUT 95: HARRION KARSTARK WOLNY. Wymiana 09-25 przy bramie od ladu czysto: Harrion wyszedl pierwszy, potem dwaj rycerze Lwa; garnizon Lwa wszedl na statki tego samego dnia i odplynal (E). Maidenpool wolne. Harrion jedzie do Riverrun (list Catelyn tam czeka), potem na polnoc przez Przesmyk. Warunek Krola spelniony. ### POPRZEDNIO: byl-otw ### 08-05: jak wyzej - wiesc ~08-10. ### 08-10: kruk z Riverrun 08-10 (rzut 55): dowodca Maidenpool nie odmowil - poslal kruka do Tywina o zgode na wymiane z Harrionem; odpowiedz Lwa do Maidenpool ~3-4 tyg. (E), wiesc dalej przez Riverrun. ### 09-05 (poczta_300_09_05.md): odpowiedz Lwa ~3-4 tyg. od 08-10 - wiesc przez Riverrun ~09-07. ### 09-07 (poczta_300_09_07.md) RZUT 76 DOBRZE: Tywin zgadza sie - dwoch rycerzy z lochow Riverrun za Harriona; garnizon wychodzi morzem PO Harrionie; wymiana ~09-25 przy bramie od ladu. Do slowa Krola/Edmure'a. ### 09-07: potwierdzenie terminu w imieniu Korony wyslane (pieczec kancelarii Krola Polnocy); Catelyn pisze do Edmure'a; list do Krola do BP. ### 300-09-25 TRIAZ: wymiana przy bramie od ladu w Maidenpool dzis (~09-25); wiesc krukiem przez Riverrun ~09-28 - RZUT przy wiesci."
   },
   {
    "data": "300-07-11",
@@ -10198,9 +10198,9 @@
    "co": "SPIS STAREJ MOWY - zlecenie Namiestnika (07-20) dla PISARZA PRZYSTANI KORONY NA CYPLU (przy ksiedze Vemunda; imie poda Vemund). Metoda Luwina: z ust naszymi literami, slownik 3 kolumny (brzmienie/znaczenie/runa), rzeczy->zdania->piesni i przysiegi, dwoch mowiacych na slowo, runy osobno (odrys z miejscem i data); bez przymusu, dniowka/chleb; bez imion mowiacych (znak ogniska); odpis co miesiac do biblioteki Luwina. Plik: gra/stara_mowa_spis_300_07.md.",
    "kto": "SYMON -> VEMUND OD KOTWY -> pisarz przystani Korony (Cypel)",
    "kanal": "kruk Winterfell-Fosa + jezdziec Fosa-Dustinport + lodz Torrena (jak do Sigrun)",
-   "wraca": "300-09-28",
+   "wraca": "300-10-20",
    "zamyka": "odpowiedz Vemunda: imie pisarza + pierwsze slowa - RZUT przy meldunku",
-   "status": "otwarte ### 08-05: lodz Torrena do Cypla i z powrotem - brak wiesci; ~08-20. ### 08-20 Vemund ~08-25 (lodz Torrena). ### 08-25 (poczta_300_08_25.md): RZUT 9: pisarz Aldo Pioro (E) - trzy slowa; ognisko oskarza o 'kradziez imion' (runy); TORGEN WSTRZYMAL SPIS. Wznowienie - do slowa pana. ### 300-09-20 TRIAZ: wznowienie zalezy od zgody ognisk (Torgen, osobny termin); wiesc z Cypla ~09-28."
+   "status": "otwarte ### 08-05: lodz Torrena do Cypla i z powrotem - brak wiesci; ~08-20. ### 08-20 Vemund ~08-25 (lodz Torrena). ### 08-25 (poczta_300_08_25.md): RZUT 9: pisarz Aldo Pioro (E) - trzy slowa; ognisko oskarza o 'kradziez imion' (runy); TORGEN WSTRZYMAL SPIS. Wznowienie - do slowa pana. ### 300-09-20 TRIAZ: wznowienie zalezy od zgody ognisk (Torgen, osobny termin); wiesc z Cypla ~09-28. ### 300-09-28 TRIAZ: Wznowiony z warunkiem ognisk (rzut 57). Pisarz przystani: ALDO PIORO (E, z zapisu). Pierwsze slowa - w nastepnej karcie Vemunda (~10-20)."
   },
   {
    "data": "300-07-21",
@@ -13105,9 +13105,9 @@
    "co": "CYPEL - SOL DLA OGNISK (slowo pana 08-25): Gawen - sol z komor / zakup BP, z ziarnem Mormontow.",
    "kto": "GAWEN",
    "kanal": "kruk / lodzie Mormontow",
-   "wraca": "300-09-28",
+   "wraca": "300-10-03",
    "zamyka": "sol na Cyplu",
-   "status": "otwarte ### 09-05 (poczta_300_09_05.md): sol idzie lodziami Maege z ziarnem dla wioslarzy ~09-08. ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: lodzie Maege - wiesc z Cypla/Wyspy ~09-28. ### 09-25 SLOWO PANA (karta IV, prosba Vemunda): TAK."
+   "status": "otwarte ### 09-05 (poczta_300_09_05.md): sol idzie lodziami Maege z ziarnem dla wioslarzy ~09-08. ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: lodzie Maege - wiesc z Cypla/Wyspy ~09-28. ### 09-25 SLOWO PANA (karta IV, prosba Vemunda): TAK. ### 300-09-28 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: lancuch Robetta wolny po sniezycy - potwierdzenie w karcie lancucha 10-03."
   },
   {
    "data": "300-08-25",
@@ -13116,7 +13116,7 @@
    "kanal": "lancuch Robetta",
    "wraca": "300-09-28",
    "zamyka": "zgoda ognisk albo odmowa",
-   "status": "otwarte ### 300-09-20 TRIAZ: Torgen przez lancuch Robetta - odpowiedz ognisk ~09-28."
+   "status": "zamkniete 300-09-28 ### ZGODA OGNISK (Torgen, lancuch Robetta) - RZUT 57: Z WARUNKIEM - spis wznowiony, ale przy kazdym zapisie siedzi ktos z ogniska, a runy tylko za zgoda starszego ogniska. ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: Torgen przez lancuch Robetta - odpowiedz ognisk ~09-28."
   },
   {
    "data": "300-08-25",
@@ -13503,7 +13503,7 @@
    "kanal": "ustnie",
    "wraca": "300-09-28",
    "zamyka": "odpowiedz przekazana",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: poslancy Korony - potwierdzenie z Cypla ~09-28."
+   "status": "zamkniete 300-09-28 ### PRZEKAZANA ustnie przez poslancow Korony przy odbiorze zwierzat (~09-18); potwierdzenie z poslancami. Wlasni - bez rzutu. ### POPRZEDNIO: byl-otw ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: poslancy Korony - potwierdzenie z Cypla ~09-28."
   },
   {
    "data": "300-08-30",
@@ -13530,7 +13530,7 @@
    "kanal": "woz/lodz; kruk WF-Wyspa",
    "wraca": "300-09-28",
    "zamyka": "sol i zboze na Wyspie",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: kruk z Wyspy Niedzwiedziej po burzach - ~09-28."
+   "status": "zamkniete 300-09-28 ### DOSZLO: kruk z Wyspy Niedzwiedziej (Dacey) - zboze i sol na Wyspie lodzia Maege ~09-22 (E). Wlasni - bez rzutu. ### POPRZEDNIO: byl-otw ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: kruk z Wyspy Niedzwiedziej po burzach - ~09-28."
   },
   {
    "data": "300-09-01",
@@ -13899,7 +13899,7 @@
    "kanal": "woz Trakt Krolewski; kruk do Osrica",
    "wraca": "300-09-28",
    "zamyka": "ziarno u Osrica na Darze",
-   "status": "otwarte ### 09-16: woz Traktem Krolewskim na polnoc stal w zamieci (E: przy Ostatnim Domostwie? - nie wiadomo); dojazd ~09-20; odpowiedz Osrica - RZUT przy wiesci. ### 09-21 (Clydas): woz z zytem dojechal na Czarny Zamek 09-19; list Osrica osobno ~09-26 (RZUT). ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
+   "status": "zamkniete 300-09-28 ### DOSZLO: Osric potwierdza w kruku z Czarnego Zamku (z wiescia o Aemonie) - zyto na Darze, zasiane przed sniegiem tylko w czesci (E). ### POPRZEDNIO: byl-otw ### 09-16: woz Traktem Krolewskim na polnoc stal w zamieci (E: przy Ostatnim Domostwie? - nie wiadomo); dojazd ~09-20; odpowiedz Osrica - RZUT przy wiesci. ### 09-21 (Clydas): woz z zytem dojechal na Czarny Zamek 09-19; list Osrica osobno ~09-26 (RZUT). ### 300-09-26 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: SNIEZYCA (pogoda 7) - kruki stoja caly dzien. Odpowiedz/potwierdzenie - RZUT przy wiesci."
   },
   {
    "data": "300-09-03",
@@ -14691,7 +14691,7 @@
    "kanal": "kruk Riverrun-WF",
    "wraca": "300-09-28",
    "zamyka": "Harrion wolny (albo nie) - meldunek",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-28 ### WIESC Z MAIDENPOOL (kruk przez Riverrun) - RZUT 95: HARRION KARSTARK WOLNY. Wymiana 09-25 przy bramie od ladu czysto: Harrion wyszedl pierwszy, potem dwaj rycerze Lwa; garnizon Lwa wszedl na statki tego samego dnia i odplynal (E). Maidenpool wolne. Harrion jedzie do Riverrun (list Catelyn tam czeka), potem na polnoc przez Przesmyk. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-15",
@@ -14727,7 +14727,7 @@
    "kanal": "kruki po pogodzie",
    "wraca": "300-09-28",
    "zamyka": "odpowiedzi Cerwyna i Wymana (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-28 ### CERWYN (kasztelan) RZUT 39: ZGODA - Korona placi wsiom na odcinku Cerwyn-Przystan; jezdziec Korony liczy mile, ale soltysow sadzi kasztelan. WYMAN RZUT 28: Z WARUNKIEM - 'moje wsie odsniezaja dla mojego zarzadcy; Korona moze placic, ale przez niego, nie do reki soltysom' (O). Do slowa pana: przyjac warunek Wymana? ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-15",
@@ -14862,7 +14862,7 @@
    "kanal": "list szefa do septona Hollisa (Sniezny Sept, BP) - jak zawsze, zwykly list osobisty krukiem z wiezy WF (E); septon nie wie, po co",
    "wraca": "300-09-28",
    "zamyka": "meldunek szefa kontrwywiadu o Torvaldzie (RZUT przy meldunku) + porownanie z Willa",
-   "status": "otwarte ### 09-16: zlecone; kanal do BP - do slowa pana ### 09-16 SLOWO PANA: ZGODA - przez septona Hollisa. List wychodzi 09-17 rano (E); odpowiedz Hollisa ~09-22/25; meldunek ~09-28 - JEDEN RZUT (Hollis + robota szefa). ### 09-17 ZAMIEC (pogoda rzut 7): kruki stoja caly dzien - list/rozkaz wychodzi 09-18 rano (+1 dzien)."
+   "status": "zamkniete 300-09-28 ### MELDUNEK ALDWINA (odpowiedz septona Hollisa przyszla 09-27 po poludniu) - RZUT 92: POTWIERDZA WILLE i wiecej: Torvald odszedl ze strazy, bo nie bral; nikomu nie winien; w sepcie znany - zona spiewa w chorze Snieznego Septu (E); jego SZWAGIER jest pisarzem w URZEDZIE PORTOWYM WYMANA (E) - Torvald ma tam ucho, ktorego Korona nie ma. Obie roboty zgodne. Szczebel 2 weryfikacji - przeszedl; dalej Sten, potem pan. ### POPRZEDNIO: byl-otw ### 09-16: zlecone; kanal do BP - do slowa pana ### 09-16 SLOWO PANA: ZGODA - przez septona Hollisa. List wychodzi 09-17 rano (E); odpowiedz Hollisa ~09-22/25; meldunek ~09-28 - JEDEN RZUT (Hollis + robota szefa). ### 09-17 ZAMIEC (pogoda rzut 7): kruki stoja caly dzien - list/rozkaz wychodzi 09-18 rano (+1 dzien)."
   },
   {
    "data": "300-09-16",
@@ -15213,7 +15213,7 @@
    "kanal": "Torm ustnie + pismo pana; Edric ustnie WF",
    "wraca": "300-09-28",
    "zamyka": "odpowiedz Ostoi (rzut) + pierwsza dostawa smoly",
-   "status": "otwarte ### 09-21 SLOWO PANA: POTWIERDZIC NA PISMIE I HEROLDEM - pismo pana do starosty Ostoi (Aldwin pisze, pieczec Namiestnika; Torm zabiera rano 09-22) + herold w ZM i we wsiach okregu V: prawo smolarzy Ostoi do karpiny i zywicy potwierdzone; Korona kupuje smole; chrust otwarty, Korona dowozi. Edric i lesniczy - zawiadomieni dzis wieczorem (zanim lesniczy pojdzie z lista). ### 09-23 GAWEN: cena smoly - 12 jeleni za beczke na wozie w Ostoi (E; Arsenal BP minus droga); pismo poszlo z Tormem 09-22."
+   "status": "zamkniete 300-09-28 ### ODPOWIEDZ OSTOI (Torm) - RZUT 75: ZGODA I SZYBKO - smolarze biora oferte; pismo i herold przekonaly; pierwsze beczki smoly ~10-10 (E) wozem do ZM; starosta prosi tylko o jedno: zeby lesniczy nie liczyl karpiny (E). ### POPRZEDNIO: byl-otw ### 09-21 SLOWO PANA: POTWIERDZIC NA PISMIE I HEROLDEM - pismo pana do starosty Ostoi (Aldwin pisze, pieczec Namiestnika; Torm zabiera rano 09-22) + herold w ZM i we wsiach okregu V: prawo smolarzy Ostoi do karpiny i zywicy potwierdzone; Korona kupuje smole; chrust otwarty, Korona dowozi. Edric i lesniczy - zawiadomieni dzis wieczorem (zanim lesniczy pojdzie z lista). ### 09-23 GAWEN: cena smoly - 12 jeleni za beczke na wozie w Ostoi (E; Arsenal BP minus droga); pismo poszlo z Tormem 09-22."
   },
   {
    "data": "300-09-21",
@@ -15337,9 +15337,9 @@
    "co": "POWITANIE HARRIONA KARSTARKA (slowo pana 09-23, rada Catelyn): (1) LIST LADY CATELYN czeka na niego w Riverrun (kruk maestra WF-Riverrun 09-23); (2) RYCERZ WINTERFELL pod wilkiem (Rodrik wskazuje) jedzie na Fose na powitanie (~10-15) i prowadzi Harriona przez Winterfell (Catelyn) do Karholdu. Zalezy od wymiany w Maidenpool (~09-25, rzut ~09-28).",
    "kto": "CATELYN ; RODRIK (rycerz) ; SYMON",
    "kanal": "kruk WF-Riverrun; rycerz konno WF-Fosa",
-   "wraca": "300-09-28",
+   "wraca": "300-10-15",
    "zamyka": "wiesc z Maidenpool + rycerz w drodze",
-   "status": "otwarte ### 09-23 RODRIK: rycerz - SER WENDEL ROWAN (E, rycerz domowy WF, ~35, pod Oxcross z Karstarkami)."
+   "status": "otwarte ### 09-23 RODRIK: rycerz - SER WENDEL ROWAN (E, rycerz domowy WF, ~35, pod Oxcross z Karstarkami). ### 300-09-28 TRIAZ: Harrion wolny (rzut 95). Ser Wendel Rowan rusza z WF ~10-08, na Fosie ~10-15 na powitanie; prowadzi Harriona przez WF (Catelyn) do Karholdu."
   },
   {
    "data": "300-09-23",
@@ -15646,6 +15646,15 @@
    "wraca": "300-09-29",
    "zamyka": "przeglad Berona 09-29: rytm kart Dreadfortu odnotowany",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-28",
+   "co": "ZIMOWE TRAKTY - WARUNEK WYMANA: platnosc Korony za odsniezanie jego odcinkow (Przystan-BP, T3-A) przez zarzadce Wymana, nie do reki soltysom. Do slowa pana.",
+   "kto": "SYMON ; GAWEN",
+   "kanal": "WF",
+   "wraca": "300-10-01",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -15831,7 +15840,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-21",
+   "ostatnio_odebrane": "300-09-28",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },

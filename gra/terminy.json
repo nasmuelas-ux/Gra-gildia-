@@ -15339,7 +15339,7 @@
    "kanal": "kruk WF-Riverrun; rycerz konno WF-Fosa",
    "wraca": "300-10-15",
    "zamyka": "wiesc z Maidenpool + rycerz w drodze",
-   "status": "otwarte ### 09-23 RODRIK: rycerz - SER WENDEL ROWAN (E, rycerz domowy WF, ~35, pod Oxcross z Karstarkami). ### 300-09-28 TRIAZ: Harrion wolny (rzut 95). Ser Wendel Rowan rusza z WF ~10-08, na Fosie ~10-15 na powitanie; prowadzi Harriona przez WF (Catelyn) do Karholdu."
+   "status": "otwarte ### 09-23 RODRIK: rycerz - SER WENDEL ROWAN (E, rycerz domowy WF, ~35, pod Oxcross z Karstarkami). ### 300-09-28 TRIAZ: Harrion wolny (rzut 95). Ser Wendel Rowan rusza z WF ~10-08, na Fosie ~10-15 na powitanie; prowadzi Harriona przez WF (Catelyn) do Karholdu. ### 09-28 SLOWO PANA (rada Willi): ser Wendel NIE SAM - ESKORTA (Rodrik dobiera, E ~10 ludzi Starkow) od Fosy przez WF do Karholdu."
   },
   {
    "data": "300-09-23",
@@ -15664,6 +15664,15 @@
    "wraca": "300-10-02",
    "zamyka": "drugi woz rozdany; rytm zimowy ustalony",
    "status": "otwarte ### 09-28 SLOWO PANA: TAK - po drugim wozie chrust jezdzi CO TYDZIEN przez zime (ZM; czwartek); Gawen - wozy i koszt, Edric - zbior."
+  },
+  {
+   "data": "300-09-28",
+   "co": "GARNIZON LWA Z MAIDENPOOL - DOKAD ODPLYNAL (slowo pana 09-28, rada Willi): Willa z urzedu kanclerza-archiwisty czyta ksiegi Lymana (Riverrun) - kto najmowal statki, dokad szly (KP, Lannisport, Duskendale). Wlasni - bez rzutu na robote; to, co z ksiag wyjdzie - rzut przy meldunku.",
+   "kto": "WILLA (ksiegi Lymana)",
+   "kanal": "ksiegi Domu w ZM; list do Lymana szyfrem Domu",
+   "wraca": "300-10-10",
+   "zamyka": "meldunek Willi: dokad garnizon (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

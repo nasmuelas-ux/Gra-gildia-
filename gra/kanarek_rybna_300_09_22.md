@@ -19,3 +19,18 @@
 - *„Daty w osobnych nocach, co najmniej dwa dni odstępu. Jeśli wszystkie wypadną w jednym tygodniu, nie odróżnisz, który ptak zaśpiewał.”*
 - *„Hal musi wiedzieć, że to fałsz, i musi się tego dowiedzieć inną drogą niż przez klatki. Inaczej zacznie pakować skrzynie.”* Zrobi to kurier Willi albo słowo do Hala ustnie.
 - *„W te noce przy Rybnej niczego naszego ma nie być. Jeśli ktoś przyjdzie po srebro z nożem, ma zastać pusty skład.”*
+
+---
+## WARIANT C - SZKIC PISMA (300-09-24, przygotowane przez GM do slowa pana; tresc E)
+**Droga:** pan -> **Beron** -> pisarze kancelarii Korony (przepisanie na czysto, odpis do ksiegi wychodzacej).
+**Adresat (O, racjonalny):** **TORSEN, Faktor Krolewski w Bialym Porcie** - to on prowadzil przewoz skrzyni Korony z BP (09-08) i najem okretu pod bandera Korony; transport Korony w BP naturalnie idzie przez niego.
+
+> Od Namiestnika Polnocy, w imieniu Krola, do Torsena, Faktora Krolewskiego w Bialym Porcie.
+>
+> Faktorze. Ladunek srebra Korony, ktory czeka w Bialym Porcie, ma zejsc na wode przy Rybnej. Przygotujcie woz kryty i straz dwunastu ludzi pewnych, z pochodniami tylko przy bramie. Woz wyjedzie noca z 10-08 na 10-09 i ma byc przy Rybnej przed switem. Koszt strazy - z Kasy Korony, na kwit, rozliczycie z Gawenem. Nikomu poza tymi, ktorzy musza wiedziec.
+>
+> Pieczec Namiestnika. Winterfell, 300-09-24.
+
+**Czego nie wolno (zeby kanarek nie zabrudzil sie innym):**
+- Czysty odpis NIE idzie przez kruczarnie (tam siedzi wariant A). Do slowa pana: (a) pan zatrzymuje zapieczetowane pismo "do kuriera" i ono nigdzie nie jedzie, albo (b) jedzie kurierem Willi i Torsen dowiaduje sie ta sama droga, ze to falsz (jak Hal).
+- Beron nie wie, ze to przyneta (O) - inaczej kanarek nie sprawdza samego Berona.

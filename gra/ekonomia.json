@@ -296,16 +296,6 @@
      "do": "300-06-30",
      "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Zapis 300-03-18: ~650 z 695 zwrotu Korony w towarze = kapital wiosenny; marza Hala 12-18 proc. -> 78-117 ponad sam zwrot, rozlozone na IV-VI. Rubryka osobna, obok wyniku standardowego (prosba pana 300-04-23). ZDARZENIE SPECJALNE - poza korekta skali, zeby nie liczyc dwa razy.",
      "bez_skali": true
-    },
-    {
-     "nazwa": "SIEC WILLI (TAJNA KSIEGA - Tam; poza jawnym bilansem)",
-     "typ": "koszt",
-     "min": 4,
-     "max": 8,
-     "okres": "miesiac",
-     "od": "300-10-01",
-     "do": null,
-     "zrodlo": "SLOWO PANA 09-16 ('placimy duzo wiecej') + 09-17 (poprawka gracza: wywiad siedzi w TAJNEJ KSIEDZE Domu - Tam + pan, od 299-05; Tam = rewizor kosztu siatki, Willa ksiegi nie widzi). E 4-8/mies; zastepuje +1/4. Kontrwywiad osobno - sakiewka pana."
     }
    ],
    "nieznane": [
@@ -2020,7 +2010,7 @@
    }
   ],
   "sakiewka_pana_koszty_stale": [
-   "od 300-10-01: KONTRWYWIAD (szef ukryty) - E ~2-4 smoki/mies z sakiewki pana + sprawy osobno (slowo pana 09-16). Siec Willi - NIE z sakiewki: tajna ksiega Domu (poprawka 09-17)."
+   "od 300-10-01 (slowo pana 09-17): WYWIAD CALY Z SAKIEWKI PANA - Dom bez linii wywiadu ('w kasie domu zostaje wiecej'). Skladniki (E): WILLA - wynagrodzenie DORADCY PANA ~1-2 smoki/mies (obok pensji Domu jako kanclerz-archiwista); SIEC/TEATRY ~4-8/mies (z reki pana do Willi); KONTRWYWIAD ~2-4/mies + sprawy osobno. Razem ~7-14/mies. Kwoty ostateczne po rozmowie z Willa (~09-25)."
   ]
  },
  "_synergia_sieci": {

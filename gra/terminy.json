@@ -4255,9 +4255,9 @@
    "co": "REACH - WYCHOWANEK TYRELLOW W SZKOLE KROLA (rada Sansy): kuzyn, nie dziedzic. Dopiero gdy kontrakt stoi. Decyzja Krola. ### 06-15: ulewa (rzut 2) - kolumna na Fosie ~06-18; odczyt tam (zasada 34). ### 06-18 (Fosa): nie na teraz - warunek 'gdy kontrakt stoi'; odpowiedz Olenny po zniwach w Reach (~08-15).",
    "kto": "KROL",
    "kanal": "-",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "decyzja Krola po kontrakcie",
-   "status": "otwarte ### 08-15: odpowiedz Olenny na kontrakt ~08-25 - wtedy. ### 08-25 (poczta_300_08_25.md): kontrakt stoi (88) - decyzja Krola o wychowanku po powrocie. ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 08-15: odpowiedz Olenny na kontrakt ~08-25 - wtedy. ### 08-25 (poczta_300_08_25.md): kontrakt stoi (88) - decyzja Krola o wychowanku po powrocie. ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-04-23",
@@ -4849,9 +4849,9 @@
    "co": "REKRUTACJA 50 Z OBSZARU KAMIENNEGO BRZEGU (pod Ulrikiem, obok rybakow z planu Theona); zold ~3 smoki/mies. z Kasy 3. ### 07-01: meldunek Corwina idzie do WINTERFELL (zasada 34) - pan odczyta na miejscu ~07-08. ### 07-09 (Winterfell, stos Korony): RZUT 35: TRZYDZIESTU JEDEN pod bronia; rybacy latem na sledziu - reszta po sezonie (Ulric).",
    "kto": "CORWIN + ULRIC (+ Torren - wsie)",
    "kanal": "na miejscu po przyjezdzie",
-   "wraca": "300-09-25",
+   "wraca": "300-10-25",
    "zamyka": "50 miejscowych pod bronia",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Kamienny Brzeg - kruk przez Fose; drogi po zamieci; meldunek Corwina ~09-25."
+   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: ZAMIEC (pogoda 1) - kruki i drogi stoja; meldunek po pogodzie (~09-20). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Kamienny Brzeg - kruk przez Fose; drogi po zamieci; meldunek Corwina ~09-25. ### 300-09-25 TRIAZ: MELDUNEK CORWINA (kruk przez Fose) - RZUT 70 (prog 40): DOBRZE - po sezonie sledzia rybacy przyszli: 46 z 50 pod bronia (E), pod Ulrikiem. Brakuje 4 - Ulric bierze z wiosny."
   },
   {
    "data": "300-05-02",
@@ -8182,9 +8182,9 @@
    "co": "SPRAWA PRYWATNA NAMIESTNIKA - POCHODZENIE / MAESTER AEMON RIVERS (watek 299-09-11; zasady: Kasa 1 jawnie jako 'sprawa prywatna Namiestnika', NIE Korona, NIE siatka Willi; co dotyka falszerstwa Rymana - do Cerwyna). (2) CYTADELA - KSIEGA PRZYJEC: kim byl Aemon Rivers (rok przyjecia, z czyjej krwi, kto go przedstawil, ogniwa lancucha, przydzial do Starego Zamku). Droga: maesterowie z Cytadeli ORWYN i EDMUND (na Fosie E ~07-01) - pan prosi ich osobiscie, oni pisza do swoich archimaesterow. ⚠ KANAL ZNANY CYTADELI (ostrzezenie 299-06-23) - Cytadela dowie sie, ze Namiestnik pyta o swojego nauczyciela. Odpowiedz ze Starego Miasta E ~09-15. Wola obca - RZUT.",
    "kto": "SYMON -> ORWYN/EDMUND -> CYTADELA",
    "kanal": "lancuch maesterski (Fosa/Winterfell - Stare Miasto)",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "wpis z ksiegi przyjec albo odmowa",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-06-22",
@@ -8731,9 +8731,9 @@
    "co": "GRANICA MIASTA CAILIN - SLUPY STALE Z KAMIENIA na linii muru wg rysunku obwodu MF-1 (Weylin, 09-15); wpis do karty miasta i ksiegi sadu grodzkiego. Do tego czasu slupy tymczasowe (wbite ~07-05). Plik: gra/granica_miasta_cailin_300_06.md.",
    "kto": "RODERYK + HERWIN + pisarz grodzki; WEYLIN (linia)",
    "kanal": "na miejscu",
-   "wraca": "300-09-25",
+   "wraca": "300-09-29",
    "zamyka": "slupy stale wbite, wpis w obu ksiegach",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-25 TRIAZ: robota na miejscu (zasada 7) - wynik w zbiorczym Garricka."
   },
   {
    "data": "300-06-30",
@@ -9370,9 +9370,9 @@
    "co": "MAIDENPOOL - WOLNA DROGA TYLKO Z HARRIONEM (Krol 07-11): garnizon Maidenpool wychodzi, gdy Harrion Karstark zostanie wydany czlowiekowi Karstarka przy wymianie jencow; 'kto wyjdzie bez niego, nie wyjdzie wcale'. List Krola do Rickarda: 'Twoj syn jest warunkiem, nie cena.' Odpowiedz Lwa - RZUT przy wiesci.",
    "kto": "KROL -> EDMURE / garnizon Maidenpool; KROL -> RICKARD",
    "kanal": "kruk Winterfell-Riverrun; kruk Winterfell-Karhold",
-   "wraca": "300-09-25",
+   "wraca": "300-09-28",
    "zamyka": "Harrion wydany albo odmowa Lwa",
-   "status": "otwarte ### 08-05: jak wyzej - wiesc ~08-10. ### 08-10: kruk z Riverrun 08-10 (rzut 55): dowodca Maidenpool nie odmowil - poslal kruka do Tywina o zgode na wymiane z Harrionem; odpowiedz Lwa do Maidenpool ~3-4 tyg. (E), wiesc dalej przez Riverrun. ### 09-05 (poczta_300_09_05.md): odpowiedz Lwa ~3-4 tyg. od 08-10 - wiesc przez Riverrun ~09-07. ### 09-07 (poczta_300_09_07.md) RZUT 76 DOBRZE: Tywin zgadza sie - dwoch rycerzy z lochow Riverrun za Harriona; garnizon wychodzi morzem PO Harrionie; wymiana ~09-25 przy bramie od ladu. Do slowa Krola/Edmure'a. ### 09-07: potwierdzenie terminu w imieniu Korony wyslane (pieczec kancelarii Krola Polnocy); Catelyn pisze do Edmure'a; list do Krola do BP."
+   "status": "otwarte ### 08-05: jak wyzej - wiesc ~08-10. ### 08-10: kruk z Riverrun 08-10 (rzut 55): dowodca Maidenpool nie odmowil - poslal kruka do Tywina o zgode na wymiane z Harrionem; odpowiedz Lwa do Maidenpool ~3-4 tyg. (E), wiesc dalej przez Riverrun. ### 09-05 (poczta_300_09_05.md): odpowiedz Lwa ~3-4 tyg. od 08-10 - wiesc przez Riverrun ~09-07. ### 09-07 (poczta_300_09_07.md) RZUT 76 DOBRZE: Tywin zgadza sie - dwoch rycerzy z lochow Riverrun za Harriona; garnizon wychodzi morzem PO Harrionie; wymiana ~09-25 przy bramie od ladu. Do slowa Krola/Edmure'a. ### 09-07: potwierdzenie terminu w imieniu Korony wyslane (pieczec kancelarii Krola Polnocy); Catelyn pisze do Edmure'a; list do Krola do BP. ### 300-09-25 TRIAZ: wymiana przy bramie od ladu w Maidenpool dzis (~09-25); wiesc krukiem przez Riverrun ~09-28 - RZUT przy wiesci."
   },
   {
    "data": "300-07-11",
@@ -10054,9 +10054,9 @@
    "co": "KODEKS - PRZEPIS O WIERZE (Krol 07-19): 'wierzyc wolno kazdemu; palic, bic i nawracac sila - nikomu' - Cerwyn ubiera w litere prawa.",
    "kto": "KROL -> CERWYN (Justycjariusz)",
    "kanal": "list Krola / przy najblizszym spotkaniu",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "przepis na pismie w Kodeksie",
-   "status": "otwarte ### 08-10: Cerwyn z Krolem na wschodzie - przy najblizszym spotkaniu (powrot ~IX). ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 08-10: Cerwyn z Krolem na wschodzie - przy najblizszym spotkaniu (powrot ~IX). ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-07-19",
@@ -10396,9 +10396,9 @@
    "co": "PAN JEDZIE DO AEMONA NA CZARNY ZAMEK (wysluchac ustnie 'tego, czego nie ma w ksiegach' - list Aemona 07-22). Termin: PO POWROCIE KROLA ZE SKAGOS albo wczesniej (slowo pana). Z ZAPISU: Winterfell-Mur ~12-14 dni ladem; Krol wyrusza 08-05 (zagle z BP 08-12), powrot - nieustalony (E: IX); Namiestnik trzyma Winterfell pod nieobecnosc Krola. Aemon - ~100 lat, goraczka wraca (07-19), spada (07-22). Data i droga - do slowa pana.",
    "kto": "SYMON (+ przyboczna)",
    "kanal": "trakt Krolewski na polnoc / morze do Wschodniej Strazy",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "data wyjazdu ustalona po powrocie Krola",
-   "status": "otwarte ### 07-22 SLOWO PANA: pan jedzie MOZE po powrocie Krola; NAJPIERW czlowiek Domu (ponizej). ### 09-13 SLOWO PANA: 'Najpierw Mur dla mnie' - pan jedzie do Aemona PO POWROCIE KROLA; sprawe DAENERYS (slowo Aemona 08-08: 'dziewczyne w Meereen niech ktos, kto zna ksiegi, odwiedzi, zanim zrobia to ci, ktorzy znaja tylko zloto') pan omowi z Aemonem OSOBISCIE na Murze - list Aemona i kto pojedzie dopiero potem (prerogatywa Krola). Ryzyko z zapisu: Aemon 'nie dozyje wiosny'; pierwszy snieg na wzgorzach 09-13; droga ladem ~12-14 dni. ### 09-13 SLOWO PANA: LADEM, Traktem Krolewskim, NAJSZYBCIEJ - od razu po powrocie Krola (~12-14 dni do Czarnego Zamku). Do przygotowania wczesniej (wlasni, bez rzutu): Sten - eskorta przybocznej i konie na zmiane (stacje/zamki po drodze: Ostatnie Domostwo?), zapasy na droge w sniegu; Beron - lista spraw dla Krola przed wyjazdem; kto trzyma pieczec Namiestnika pod nieobecnosc (Krol). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 09-24 SLOWO PANA: Mur PRZED Fosa ('najpierw pojade na Mur, mozliwe ze na Fose przyjade w lodzie'). Dzien wyjazdu - nadal do slowa pana (akt regencji 08-04: Krol nie wrocil; zwiad Skagos ~10-08)."
+   "status": "otwarte ### 07-22 SLOWO PANA: pan jedzie MOZE po powrocie Krola; NAJPIERW czlowiek Domu (ponizej). ### 09-13 SLOWO PANA: 'Najpierw Mur dla mnie' - pan jedzie do Aemona PO POWROCIE KROLA; sprawe DAENERYS (slowo Aemona 08-08: 'dziewczyne w Meereen niech ktos, kto zna ksiegi, odwiedzi, zanim zrobia to ci, ktorzy znaja tylko zloto') pan omowi z Aemonem OSOBISCIE na Murze - list Aemona i kto pojedzie dopiero potem (prerogatywa Krola). Ryzyko z zapisu: Aemon 'nie dozyje wiosny'; pierwszy snieg na wzgorzach 09-13; droga ladem ~12-14 dni. ### 09-13 SLOWO PANA: LADEM, Traktem Krolewskim, NAJSZYBCIEJ - od razu po powrocie Krola (~12-14 dni do Czarnego Zamku). Do przygotowania wczesniej (wlasni, bez rzutu): Sten - eskorta przybocznej i konie na zmiane (stacje/zamki po drodze: Ostatnie Domostwo?), zapasy na droge w sniegu; Beron - lista spraw dla Krola przed wyjazdem; kto trzyma pieczec Namiestnika pod nieobecnosc (Krol). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 09-24 SLOWO PANA: Mur PRZED Fosa ('najpierw pojade na Mur, mozliwe ze na Fose przyjade w lodzie'). Dzien wyjazdu - nadal do slowa pana (akt regencji 08-04: Krol nie wrocil; zwiad Skagos ~10-08). ### 300-09-25 TRIAZ: czeka na slowo pana o dniu wyjazdu (Mur przed Fosa, slowo 09-24); zwiad Skagos ~10-08."
   },
   {
    "data": "300-07-22",
@@ -10756,9 +10756,9 @@
    "co": "POWROT: KONSULAT BRAAVOS, WEKSEL POSWIADCZANY, UMOWA Z BANKIEM (odlozone 07-26)",
    "kto": "MALA RADA (z Krolem)",
    "kanal": "Winterfell / wg sprawy",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "krok wykonany albo temat rozpatrzony",
-   "status": "otwarte ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola."
+   "status": "otwarte ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-07-26",
@@ -10909,9 +10909,9 @@
    "co": "WARUNKI DLA WODZOW WOLNYCH LUDZI (projekt pana, do przedlozenia przez Krola przy drzewie na Cyplu): wodz wydaje winnego sedziemu lorda albo placi szkode podwojnie z przydzialu; wodz odpowiada glowa za spokoj ogniska; proporce i latarnie lodzi; Sad Rozjemczy (kasztelan lorda + rozjemca Korony + starosta wolnych ludzi).",
    "kto": "KROL (przy przysiedze)",
    "kanal": "na miejscu",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "ogloszone przy drzewie",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-07-26",
@@ -11161,9 +11161,9 @@
    "co": "SKORY ZBROJOWNI - GARBOWANIE PRZYDZIALU (~480, E): Orwyl potrzebuje skory wyprawionej, nie surowej; surowe w lipcowym cieple trzeba solic albo oddac garbarzowi szybko (zasada 8). KTO GARBUJE - do slowa pana: garbarnia Domu (umowa 07-12; usluga dla Korony na kwit) albo garbarz Zimowego Miasta (patronat). Placi Kasa 3 - kwota z kwitu garbarza (zasada 43). Garbowanie ~6-8 tygodni (E); pierwsze pasy i obicia ~IX.",
    "kto": "ORWYL (sol, zaladunek) + GAWEN (kwit) + HAL (garbarnia Domu)",
    "kanal": "Winterfell",
-   "wraca": "300-09-25",
+   "wraca": "300-10-05",
    "zamyka": "skory u garbarni Domu, kwit u Gawena",
-   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): garbarnia Domu przy Garbarskiej gotowa, kadzie przygotowane; woz z WF jeszcze nie doszedl (~08-08..10); garbowanie 6-8 tyg. od przyjecia (E). ### 08-12: woz z WF do garbarni Domu w BP mial dojsc ~08-08..10 - w meldunku Hala 08-11 brak wzmianki; pytanie z nastepna poczta Domu; garbowanie 6-8 tyg. od przyjecia. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; skory zbrojowni - pytanie do Hala z poczta Domu; odpowiedz ~08-20. ### 08-20 woz doszedl 08-09; skory w kadziach garbarni Domu, gotowe ~09-25 (Hal 08-17)."
+   "status": "otwarte ### 07-29 SLOWO PANA: GARBARNIA DOMU. Orwyl dzis soli skory w skladzie (sol z zapasu kuchni zamku, na kwit kasztelana); woz Korony z ~480 skorami do garbarni Domu (miejsce wskazuje Hal; kruk do Hala z jutrzejsza poczta); usluga dla Korony po stawce umowy 07-12, kwit garbarni -> Gawen (Kasa 3, zasada 43); garbowanie 6-8 tyg. (E); pierwsze wyroby ~IX. ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): garbarnia Domu przy Garbarskiej gotowa, kadzie przygotowane; woz z WF jeszcze nie doszedl (~08-08..10); garbowanie 6-8 tyg. od przyjecia (E). ### 08-12: woz z WF do garbarni Domu w BP mial dojsc ~08-08..10 - w meldunku Hala 08-11 brak wzmianki; pytanie z nastepna poczta Domu; garbowanie 6-8 tyg. od przyjecia. ### 08-16 NIE PRZYSZLO, WIADOMO DLACZEGO: kruki ruszyly dopiero w poludnie po nawalnicy; skory zbrojowni - pytanie do Hala z poczta Domu; odpowiedz ~08-20. ### 08-20 woz doszedl 08-09; skory w kadziach garbarni Domu, gotowe ~09-25 (Hal 08-17). ### 300-09-25 TRIAZ: skory wyprawione w garbarni Domu w BP (Hal, wlasni) - idzie najblizszym wozem Domu do WF; kwit garbarni do Gawena. W WF ~10-05 (E)."
   },
   {
    "data": "300-07-29",
@@ -11188,9 +11188,9 @@
    "co": "SLUB EDMURE'A TULLY Z JONELLE CERWYN - POMYSL NAMIESTNIKA (07-30; lista Sansy z 05-12: Wynafryd Manderly, Alys Karstark, Jonelle Cerwyn). KROL (rzut 30 - jedna konsekwencja): TAK co do pomyslu, ale (1) NAJPIERW LADY CATELYN (warunek Sansy z 05-12), (2) po cichu LORD MEDGER CERWYN (ojciec; Justycjariusz), (3) do Edmure'a - nic przed Skagos; sprawa po powrocie Krola (~IX), osobno od listow o zbozu i bramie. Zdanie Jonelle - jej wola (rzut, gdy ktos z nia mowi). ZASADA 8 (Sansa): Jonelle prowadzi zamek Cerwyn i spisuje spory - jej odejscie to dziura u Justycjariusza; starzy bogowie a septa Riverrun.",
    "kto": "CATELYN -> MEDGER CERWYN (sama); SYMON - okazja do poznania; KROL (po Skagos)",
    "kanal": "osobiscie (Winterfell)",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "zdanie Catelyn i Cerwyna; decyzja Krola po Skagos",
-   "status": "otwarte ### 07-30 CATELYN (rzut 56 - TAK): za; Riverrun ma bozy gaj (Ned postawil jej septe w Winterfell - 'w druga strone tez sie da'); EDMURE MA JONELLE NAJPIERW POZNAC, zanim uslyszy 'slub' - okazja do wymyslenia (np. Jonelle z ojcem przy sprawach Dorzecza / Edmure w Winterfell); z MEDGEREM rozmawia CATELYN SAMA (matka z ojcem); pierwsze pytanie Riverrun - dziedzic (Jonelle 32). Krol - po Skagos. ### 07-30 CEL (pan do Catelyn): zwiazac Edmure'a i Tullych z Polnoca + wynagrodzic jednego z najwierniejszych wasali (Cerwyn). CATELYN - zasada 8: Karstark patrzy, komu Korona daje (Alys byla na liscie Sansy; Rickard czeka na Harriona) - nic oglaszac, zanim Krol nie zawinie do Karholdu i sprawa Harriona nie ruszy; Wynafryd/Manderly - Wyman sie nie obrazi ('ma juz dosc'), Karstark moze. ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 07-30 CATELYN (rzut 56 - TAK): za; Riverrun ma bozy gaj (Ned postawil jej septe w Winterfell - 'w druga strone tez sie da'); EDMURE MA JONELLE NAJPIERW POZNAC, zanim uslyszy 'slub' - okazja do wymyslenia (np. Jonelle z ojcem przy sprawach Dorzecza / Edmure w Winterfell); z MEDGEREM rozmawia CATELYN SAMA (matka z ojcem); pierwsze pytanie Riverrun - dziedzic (Jonelle 32). Krol - po Skagos. ### 07-30 CEL (pan do Catelyn): zwiazac Edmure'a i Tullych z Polnoca + wynagrodzic jednego z najwierniejszych wasali (Cerwyn). CATELYN - zasada 8: Karstark patrzy, komu Korona daje (Alys byla na liscie Sansy; Rickard czeka na Harriona) - nic oglaszac, zanim Krol nie zawinie do Karholdu i sprawa Harriona nie ruszy; Wynafryd/Manderly - Wyman sie nie obrazi ('ma juz dosc'), Karstark moze. ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-07-30",
@@ -11683,9 +11683,9 @@
    "co": "LIST KORONY DO ZELAZNEGO BANKU (slowo pana 08-03; gra/list_bank_braavos_300_08_03.md): odpis ultimatum + 'Polnoc nie jest dluznikiem, dotrzymuje ugod'. Bez zaciagu w Lannisporcie (firewall), bez Domu. W woli Krola 08-01 (rzut 84 'caly swiat') - bez nowego rzutu; PODPIS I PIECZEC KROLA 08-04. Kanal: kruk WF-BP 08-04 -> Hal -> statek -> Nesta wrecza; Braavos ~08-27..30. REAKCJA BANKU - RZUT przy wiesci (najwczesniej koniec IX). ### 08-03 po kolacji SLOWO PANA: pisac Z SZACUNKIEM PO BRAAWOSKU (pisze Symon wlasna reka - biegly, bez rzutu) + akapit: Korona Polnocy liczy na poglebiajaca sie wspolprace z Braavos (handel, zegluga, rzemioslo, wiedza; kupcy, szkutnicy, uczeni mile widziani; wiezi z Bankiem - jesli Bank zechce).",
    "kto": "SYMON (tekst braawoski) ; BERON (odpis we wspolnej) ; KROL (podpis) ; HAL -> NESTA",
    "kanal": "kruk WF-BP + morze BP-Braavos",
-   "wraca": "300-09-25",
+   "wraca": "300-10-05",
    "zamyka": "list podpisany i w drodze; potem reakcja Banku",
-   "status": "otwarte ### 08-04: KROL PODPISAL I DOPISAL WLASNA REKA: 'Polnoc nie zapomina ani dlugow, ani przyjaciol.' Kruk WF-BP po poludniu -> Hal -> statek -> Nesta; Braavos ~08-27..30. Reakcja Banku - rzut przy wiesci."
+   "status": "otwarte ### 08-04: KROL PODPISAL I DOPISAL WLASNA REKA: 'Polnoc nie zapomina ani dlugow, ani przyjaciol.' Kruk WF-BP po poludniu -> Hal -> statek -> Nesta; Braavos ~08-27..30. Reakcja Banku - rzut przy wiesci. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: odpowiedz Banku idzie statkiem przez Neste; jesienna zegluga (E)."
   },
   {
    "data": "300-08-03",
@@ -11791,9 +11791,9 @@
    "co": "ZIMOWA STRAZ - DYSKRETNIE O CHLOPCACH BEKARTA (slowo pana, Krol): Krol mowi SER ALYNOWI dwa przezwiska - Obdzieracz i Ben Kosci - bez wyjasnien; reszta strazy - zwyczaj przy obcych zbrojnych (07-11). Na okrecie od Boltonsgate (~08-14).",
    "kto": "KROL -> SER ALYN",
    "kanal": "ustnie, w drodze",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "Alyn wie (przed zaladunkiem w BP)",
-   "status": "otwarte ### 08-12: ustnie, w drodze z Krolem - wiesc po powrocie Krola (~IX). ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 08-12: ustnie, w drodze z Krolem - wiesc po powrocie Krola (~IX). ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-08-05",
@@ -12043,18 +12043,18 @@
    "co": "SLOWO AEMONA DLA KROLA - USTNIE OD PANA (warunek Krola 299-09-14 pkt 4: sprawy brata - Krol slyszy pierwszy i sam; NIC NA PAPIERZE). Kiedy pan zobaczy Krola (po wyprawie) albo osobiscie w BP przed zaglami - do slowa pana.",
    "kto": "SYMON -> KROL",
    "kanal": "osobiscie",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "Krol uslyszal",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-08-08",
    "co": "KTO JEST PRZY DAENERYS (rozkaz pana 08-08: 'musze sie dowiedziec') - LINIA DOMU (Hal -> Nesta, statek): w Braavos kapitanowie i kupcy wracajacy z Zatoki Niewolniczej, Volantis i Qarthu - kto stoi przy krolowej w Meereen (doradcy, rycerze z Westeros, dowodcy, kaplani); sluchac, nie pytac wprost; bez imienia Korony. Odpowiedz - RZUT przy meldunku (obce Essos).",
    "kto": "HAL -> NESTA",
    "kanal": "kruk WF-BP + statek BP-Braavos i z powrotem",
-   "wraca": "300-09-25",
+   "wraca": "300-10-05",
    "zamyka": "meldunek Nesty: kto przy niej",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: statek BP-Braavos-BP (~45 dni od ~08-08); sztorm 09-08 na wodach polnocy - zegluga opozniona (E)."
   },
   {
    "data": "300-08-08",
@@ -12115,9 +12115,9 @@
    "co": "BRAN - SEN Z NOCY ZE SZKLEM (08-04/05): byl; Bran powie najpierw Krolowi (umowa). Tresc - USTNIE, Krol pierwszy; jesli pan zapyta po Krolu - wtedy rzut.",
    "kto": "BRAN -> KROL -> (pan)",
    "kanal": "ustnie",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "Krol uslyszal",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-08-08",
@@ -12943,9 +12943,9 @@
    "co": "PAPIERY LWA (b) - 7 PARTII KWITOW PO UGODZIE JAKO DAR DLA KROLA (slowo pana 08-22): przy sprawach Korony, za wiedza Krola; przekazanie po powrocie Krola ze Skagos. Wlasni - bez rzutu.",
    "kto": "SYMON + LUCAN -> KROL",
    "kanal": "osobiscie",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "kwity w rekach Krola (albo data powrotu Krola)",
-   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi."
+   "status": "otwarte ### 09-15 NIE PRZYSZLO, WIADOMO DLACZEGO: sprawa czeka na KROLA (prerogatywa / umowa 'Krol pierwszy'); powrot Krola - data nieznana; zamiec 09-15 dodatkowo trzyma morze i drogi. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-08-22",
@@ -13069,9 +13069,9 @@
    "co": "REACH - DRUGI PORT: DUSTINPORT (slowo pana 08-25) + koszt przekierowania - Korona (warunek Olenny); list Korony do Olenny przez Hala i przedstawiciela. Odzew - RZUT przy odpowiedzi.",
    "kto": "SYMON -> HAL -> przedstawiciel -> OLENNA",
    "kanal": "kruk WF-BP + statek",
-   "wraca": "300-09-25",
+   "wraca": "300-10-15",
    "zamyka": "odpowiedz Olenny: Dustinport w klauzuli",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Hal -> przedstawiciel -> Olenna, droga morska na poludnie (~75 dni w obie strony)."
   },
   {
    "data": "300-08-25",
@@ -13492,9 +13492,9 @@
    "co": "LENNO - GARRONY I KOZY OD KLANOW (slowo pana 08-30: zakup DLA LENNA, Kasa 2): Norrey 20 garronow za 40 sztab zelaza (E ~10 smokow); Burley 60 koz za 60 korcy zboza lenna (E ~6 smokow). Odbior u stop gor ~09-15 (E), poganiacze lenna na Fose (~10 dni). Wlasni - bez rzutu przy odbiorze; droga - pogoda.",
    "kto": "GERRIK (Kasa 2) ; GARRICK ; poslancy Korony (umowa ustna)",
    "kanal": "poslaniec do klanow; kruk WF-Fosa",
-   "wraca": "300-09-25",
+   "wraca": "300-09-29",
    "zamyka": "garrony i kozy w lennie",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-25 TRIAZ: DROGA - RZUT 56 (prog 35): odbior u stop gor przesuniety przez zamiec 09-15 na ~09-18 (E); stado idzie bez strat - 20 garronow Norreyow i 60 koz Burleyow, na Fosie ~09-28. Meldunek w zbiorczym Garricka."
   },
   {
    "data": "300-08-30",
@@ -14005,18 +14005,18 @@
    "co": "PAPIER LWA W BANKU (ruch A, slowo pana 09-04): PO meldunku siatki ~09-10 (czy Lys w pieniadzu zaciagu Lannisportu) i PO LISCIE DO KROLA (zapis 07-13: uzycie papierow w sprawach Korony tylko za wiedza Krola, przed) - Nesta pokazuje Bankowi w Braavos droge kwitow Duskendale->Lannisport->Skala przez Lys (pokazac, nie sprzedac). Krol na morzu - list czeka w BP albo do rak przy powrocie (~09-20). Reakcja Banku - RZUT.",
    "kto": "SYMON (list do Krola) -> KROL ; LUCAN + NESTA (wykonanie)",
    "kanal": "list do Krola (BP / do rak), potem kruk Domu do Nesty",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "slowo Krola + pokaz w Banku",
-   "status": "otwarte ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola."
+   "status": "otwarte ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-09-04",
    "co": "WYSLANNIK KORONY DO BRAAVOS (pomysl pana 09-04): rozmowa z MAGISTRAMI/MORSKIM LORDEM i ZELAZNYM BANKIEM (drewno okretowe dla Arsenalu jako umowa, Przewloka poza Stopniami, faktoria Braavos w Cailin, papier Lwa - po slowie Krola). Poselstwo do obcego panstwa - PREROGATYWA KROLA (zasada 22): pan wskazuje kandydata, Krol mianuje (list z ruchem A). Kandydaci Lucana (O) - do slowa pana.",
    "kto": "SYMON -> KROL",
    "kanal": "list do Krola razem z ruchem A",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "slowo pana: kandydat; potem slowo Krola",
-   "status": "otwarte ### 09-04 SLOWO PANA: pan planuje po powrocie Krola (~09-20) poplynac NA MUR i PO DRODZE do BRAAVOS - SAM jako wyslannik Korony. Do slowa Krola (prerogatywa; Namiestnik poza krolestwem). Rachunek Lucana (E): WF->BP ~5 dni; BP->Wschodnia Straznica ~6-8 dni; Wschodnia->Braavos ~10-14; w Braavos ~2 tyg.; Braavos->BP ~3 tyg. = ~2 mies. i wiecej; powrot ~XII; ryzyko jesiennych sztormow na Waskim Morzu, lod w Zatoce Fok od XI (E). Przed wyplynieciem: Mira - konkretna liczba tygodni (jej zadanie z 299, niezalatwione). ### 09-04 (pozniej) SLOWO PANA - ZMIANA: PROPOZYCJA DO KROLA = LADY CATELYN jako wyslanniczka, z SANSA i ARYA (obie mowia po braavosku - lekcje pana). Pan nie plynie do Braavos (Mur - osobno). Uwagi Lucana (O): eskorta - ser Brynden (wuj Catelyn) + okret Wymana + mistrz z Braavos przy Aryi; Nesta goszczy; ryzyko: matka i obie siostry Krola na jednym statku przez jesienne morze; Lys (trucizny), Braavos kusi Arye. Zgoda Catelyn - wola obca, RZUT przy rozmowie; slowo Krola ~09-20. ### 09-06 BRYNDEN: zostaje przy Akademii (grupy II i III) - nie jako eskorta do Braavos ani do Dorne; eskorte trzeba wskazac inna. ### 09-06 LADY CATELYN (rzut 98): ZGODA - z Sansa i Arya; JEJ PLAN: wyplynac WIOSNA (pierwsze statki po lodach, ~III-IV 301), nie jesienia ('nie zabiore corek na Waskie Morze w listopadzie'); do tego czasu - nauka (braavoski siostr, ksiegi Banku), list Krola i papier Lwa przygotowane; Rickon i Bran zostaja przy Krolowej i Luwinie; do Edmure'a napisze sama; z Bankiem chce mowic takze o dlugach Dorzecza (za wiedza Krola). Zostaje: SLOWO KROLA (prerogatywa) i dowodca eskorty (Brynden odpada). ### 09-10 SANSA (O, na pytanie pana 'misja w Braavos jeszcze wazniejsza - moga nam pomoc'): TAK, ale Braavos nie pomaga, tylko liczy; co moga: Bank (kto w Lys podpisuje weksle, kredyt Lwa), Morski Lord (Braavos i Lys - stara wrogosc, niewolnicy), Arsenal (drewno); co my niesiemy: drewno, przewloka poza Stopniami, faktoria w Cailin, papier Lwa (za wiedza Krola). PROPOZYCJA SANSY: zima - list Krola do Morskiego Lorda i Banku przez Neste, zeby wiosna drzwi byly otwarte; sklad poselstwa nie ogloszony ('niech Lys mysli, ze chodzi o drewno'). Do slowa pana / Krola. ### 09-10 SLOWO PANA: ZGODA na LIST ZIMA - krotki list Krola do Morskiego Lorda i Zelaznego Banku przez Neste (ze przyjedziemy wiosna i z czym); sklad poselstwa nieogloszony. Namiestnik szkicuje, Krol podpisuje po powrocie (prerogatywa). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola."
+   "status": "otwarte ### 09-04 SLOWO PANA: pan planuje po powrocie Krola (~09-20) poplynac NA MUR i PO DRODZE do BRAAVOS - SAM jako wyslannik Korony. Do slowa Krola (prerogatywa; Namiestnik poza krolestwem). Rachunek Lucana (E): WF->BP ~5 dni; BP->Wschodnia Straznica ~6-8 dni; Wschodnia->Braavos ~10-14; w Braavos ~2 tyg.; Braavos->BP ~3 tyg. = ~2 mies. i wiecej; powrot ~XII; ryzyko jesiennych sztormow na Waskim Morzu, lod w Zatoce Fok od XI (E). Przed wyplynieciem: Mira - konkretna liczba tygodni (jej zadanie z 299, niezalatwione). ### 09-04 (pozniej) SLOWO PANA - ZMIANA: PROPOZYCJA DO KROLA = LADY CATELYN jako wyslanniczka, z SANSA i ARYA (obie mowia po braavosku - lekcje pana). Pan nie plynie do Braavos (Mur - osobno). Uwagi Lucana (O): eskorta - ser Brynden (wuj Catelyn) + okret Wymana + mistrz z Braavos przy Aryi; Nesta goszczy; ryzyko: matka i obie siostry Krola na jednym statku przez jesienne morze; Lys (trucizny), Braavos kusi Arye. Zgoda Catelyn - wola obca, RZUT przy rozmowie; slowo Krola ~09-20. ### 09-06 BRYNDEN: zostaje przy Akademii (grupy II i III) - nie jako eskorta do Braavos ani do Dorne; eskorte trzeba wskazac inna. ### 09-06 LADY CATELYN (rzut 98): ZGODA - z Sansa i Arya; JEJ PLAN: wyplynac WIOSNA (pierwsze statki po lodach, ~III-IV 301), nie jesienia ('nie zabiore corek na Waskie Morze w listopadzie'); do tego czasu - nauka (braavoski siostr, ksiegi Banku), list Krola i papier Lwa przygotowane; Rickon i Bran zostaja przy Krolowej i Luwinie; do Edmure'a napisze sama; z Bankiem chce mowic takze o dlugach Dorzecza (za wiedza Krola). Zostaje: SLOWO KROLA (prerogatywa) i dowodca eskorty (Brynden odpada). ### 09-10 SANSA (O, na pytanie pana 'misja w Braavos jeszcze wazniejsza - moga nam pomoc'): TAK, ale Braavos nie pomaga, tylko liczy; co moga: Bank (kto w Lys podpisuje weksle, kredyt Lwa), Morski Lord (Braavos i Lys - stara wrogosc, niewolnicy), Arsenal (drewno); co my niesiemy: drewno, przewloka poza Stopniami, faktoria w Cailin, papier Lwa (za wiedza Krola). PROPOZYCJA SANSY: zima - list Krola do Morskiego Lorda i Banku przez Neste, zeby wiosna drzwi byly otwarte; sklad poselstwa nie ogloszony ('niech Lys mysli, ze chodzi o drewno'). Do slowa pana / Krola. ### 09-10 SLOWO PANA: ZGODA na LIST ZIMA - krotki list Krola do Morskiego Lorda i Zelaznego Banku przez Neste (ze przyjedziemy wiosna i z czym); sklad poselstwa nieogloszony. Namiestnik szkicuje, Krol podpisuje po powrocie (prerogatywa). ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-09-05",
@@ -14095,9 +14095,9 @@
    "co": "POSELSTWO KOSCI - WIEZA RADOSCI (slowo pana 09-05): POLNOC sama jedzie po kosci - WSZYSTKIE OSIEM kopcow - i ODDAJE JE RODZINOM, CEREMONIALNIE. SKLAD: 10 ludzi Starkow (garnizon WF, szary plaszcz, choragiew wilka) + SER HARWOOD WRZOS (czlowiek Barbrey, 'zostal wtedy przy koniach' - zapis 06-12) + rycerze ZIMOWEJ STRAZY (⚠ karta Strazy: chroni Krola i rodzine; misja poza tym - tylko na JAWNY ROZKAZ KROLA, odnotowany; dobiera Pierwszy Miecz - Rodrik). OSIEM KOPCOW (kanon + zapis 06-12): Willam Dustin (Barrowton), Ethan Glover (Deepwood), Martyn Cassel (Winterfell - brat ser Rodrika), Theo Wull (klan Wull), Mark Ryswell (Rills); Gwardia Krolewska: ser Arthur Dayne (Starfall - Dorne), ser Gerold Hightower (Stare Miasto), ser Oswell Whent (Harrenhal/Dorzecze - przez Edmure'a). Barbrey: tajemnica w Barrowton, poki kosci nie sa w drodze (zapis). Do ulozenia: droga (propozycja: statkami Redwyne'ow wracajacymi po zbozu z GP -> Arbor/Stare Miasto, ladem do przeleczy Ksiazecej), trumny, obrzad (stare bogi dla polnocnych; septon dla Gwardii), koszt (E ~60-90 smokow, Kasa 3). Zalezy od: odpowiedzi Oberyna (przejazd, zgoda na osmiu) i slowa Krola (Zimowa Straz) ~09-20.",
    "kto": "SYMON ; SER RODRIK (Pierwszy Miecz - Zimowa Straz, ludzie Starkow) ; BARBREY (Harwood) ; KROL (rozkaz dla Strazy)",
    "kanal": "osobiscie WF; kruk do Barrowton (Harwood, cicho); list do Krola; list do Oberyna przez Neste",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "sklad zatwierdzony (Krol + Rodrik), droga i data wyjazdu",
-   "status": "otwarte ### 09-05 SLOWO PANA - DROGA: z BIALEGO PORTU WLASNYM OKRETEM do SLONECZNEJ WLOCZNI, potem ladem przez YRONWOOD do Wiezy Radosci (propozycja statkow Redwyne'ow - odrzucona). GWARDZISCI (Dayne, Hightower, Whent): Korona OPLACA transport ich szczatkow do rodzin (E ~15-25 smokow, Kasa 3). ⚠ Z ZAPISU: Korona NIE MA dzis w BP wlasnego okretu na wode - KRA/Wzor II u Wymana: stepka po zniwach, na wodzie wiosna 301; Woly Domu - wiosna 301; kadluby Torrena - zachod (czujnosc, rozkaz 09-04); flota Wymana 10+2 - przy Krolu (powrot ~09-20). Do slowa pana: ktory okret. Droga BP->Sloneczna Wlocznia idzie przez Waskie Morze i STOPNIE (wojna Lys/Myr/Tyrosh, piraci) - eskorta. ### 09-05 SLOWO PANA: OKRET (b) - statek najety w BP pod bandera Korony (Hal/Torsen; uzbrojony kupiec, E ~50 smokow za ~3-4 mies. z zaloga, Kasa 3); przejazd przez Czerwone Gory - w liscie Oberyna (rzut 69: 'moi ludzie poprowadza'); zostaje: zgoda na gwardzistow (odpowiedz Oberyna) i rozkaz Krola dla Strazy (~09-20). LADY CATELYN (rzut 58): pisze listy w imieniu Starkow do Dustin, Glover, Cassel (przez Rodrika - najpierw slowo pana), Wull, Ryswell, Hightower, Whent; do STARFALL - podpis Krola albo Namiestnika. ### 09-05 RODRIK (Pierwszy Miecz): sam wybierze DWOCH ze Strazy ('najlepszych, nie najmlodszych') - po rozkazie Krola. SLOWO PANA: MARTYN CASSEL - pochowany w BOZYM GAJU WINTERFELL, przy drzewie, gdzie lezy ojciec Casselow (nie w krypcie Starkow). ### 09-18 SLOWO PANA (rada Lucana c): termin wyplyniecia - CZEKAMY na slowo Krola i Oberyna; Stopnie: X przed sztormami albo wczesna wiosna, nie latem. ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. Statek trzymany do 10-10."
+   "status": "otwarte ### 09-05 SLOWO PANA - DROGA: z BIALEGO PORTU WLASNYM OKRETEM do SLONECZNEJ WLOCZNI, potem ladem przez YRONWOOD do Wiezy Radosci (propozycja statkow Redwyne'ow - odrzucona). GWARDZISCI (Dayne, Hightower, Whent): Korona OPLACA transport ich szczatkow do rodzin (E ~15-25 smokow, Kasa 3). ⚠ Z ZAPISU: Korona NIE MA dzis w BP wlasnego okretu na wode - KRA/Wzor II u Wymana: stepka po zniwach, na wodzie wiosna 301; Woly Domu - wiosna 301; kadluby Torrena - zachod (czujnosc, rozkaz 09-04); flota Wymana 10+2 - przy Krolu (powrot ~09-20). Do slowa pana: ktory okret. Droga BP->Sloneczna Wlocznia idzie przez Waskie Morze i STOPNIE (wojna Lys/Myr/Tyrosh, piraci) - eskorta. ### 09-05 SLOWO PANA: OKRET (b) - statek najety w BP pod bandera Korony (Hal/Torsen; uzbrojony kupiec, E ~50 smokow za ~3-4 mies. z zaloga, Kasa 3); przejazd przez Czerwone Gory - w liscie Oberyna (rzut 69: 'moi ludzie poprowadza'); zostaje: zgoda na gwardzistow (odpowiedz Oberyna) i rozkaz Krola dla Strazy (~09-20). LADY CATELYN (rzut 58): pisze listy w imieniu Starkow do Dustin, Glover, Cassel (przez Rodrika - najpierw slowo pana), Wull, Ryswell, Hightower, Whent; do STARFALL - podpis Krola albo Namiestnika. ### 09-05 RODRIK (Pierwszy Miecz): sam wybierze DWOCH ze Strazy ('najlepszych, nie najmlodszych') - po rozkazie Krola. SLOWO PANA: MARTYN CASSEL - pochowany w BOZYM GAJU WINTERFELL, przy drzewie, gdzie lezy ojciec Casselow (nie w krypcie Starkow). ### 09-18 SLOWO PANA (rada Lucana c): termin wyplyniecia - CZEKAMY na slowo Krola i Oberyna; Stopnie: X przed sztormami albo wczesna wiosna, nie latem. ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. Statek trzymany do 10-10. ### 300-09-25 TRIAZ: czeka na Krola (rozkaz dla Strazy); statek trzymany do 10-10."
   },
   {
    "data": "300-09-05",
@@ -14113,9 +14113,9 @@
    "co": "LIST NAMIESTNIKA DO KROLA - POSELSTWO KOSCI (gra/list_do_krola_kosci_300_09_05.md): relacja + PROSBA O ROZKAZ dla Rodrika - oddelegowac 2 gwardzistow Zimowej Strazy (karta IV: tylko jawny rozkaz Krola). Kruk do BP, do rak Krola przy powrocie floty (~09-20). Slowo Krola - jego wola (RZUT przy odpowiedzi, jesli nie oczywiste).",
    "kto": "SYMON -> KROL",
    "kanal": "kruk WF-BP (Wyman, do rak Krola)",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "rozkaz Krola dla Rodrika",
-   "status": "otwarte ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola."
+   "status": "otwarte ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-09-05",
@@ -14259,7 +14259,7 @@
    "kanal": "kruki",
    "wraca": "300-09-25",
    "zamyka": "odpowiedzi lordow o stanie odcinkow",
-   "status": "otwarte ### 300-09-20 TRIAZ: odpowiedzi lordow kruki po burzach - ~09-25 (z Wymanem/Cerwynem o traktach zimowych)."
+   "status": "zamkniete 300-09-25 ### ODPOWIEDZI (RZUT 71, prog 40): WYMAN - T2-B przejezdny do Bialego Noza, ekipy schodza z traktu na zime po 10-15 (E); CERWYN (kasztelan) - T3-B ubity do brodu, mostek nad potokiem nie skonczony, zrobia po mrozie (E). FREY i MALLISTER - cisza (T1-C) -> nowa operacja. ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: odpowiedzi lordow kruki po burzach - ~09-25 (z Wymanem/Cerwynem o traktach zimowych)."
   },
   {
    "data": "300-09-08",
@@ -14304,7 +14304,7 @@
    "kanal": "goncy domeny do okregu V",
    "wraca": "300-09-25",
    "zamyka": "pierwszy meldunek: ilu zbiera, ile w suszarniach (rzut odzewu)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-25 ### PIERWSZY MELDUNEK EDRICA - RZUT 98 (prog 40): ZNAKOMICIE - wszystkie 5 punktow dziala, zbiera ~120 ludzi (E, plan ~70); suszarnie pelne grzybow, jarzebiny i dzikiej rozy. ZASADA 8: dniowek wiecej niz w planie - koszt ~13 -> ~20 smokow (E) i brak sit oraz workow w dwoch punktach. Do slowa pana: limit ludzi czy dolozyc. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-09",
@@ -14464,9 +14464,9 @@
    "co": "WYSPY - CHLEB DLA KRZESLA Z MORSKIEGO KAMIENIA (slowo pana 09-10, kolejnosc 4; propozycja GM): stala oferta Korony - zboze dla Pyke, KTOKOLWIEK zasiadzie na Krzesle; male ilosci (zapas i Konserwa pierwsze), SPRZEDAWANE (moneta / okrety / pokoj na zachodnim brzegu), tylko jednym oficjalnym kanalem, nigdy kapitanom na boku. 'Byc dla Wysp tym, czym Olenna jest dla nas.' Prerogatywa Krola - szkic Namiestnika do decyzji Krola po powrocie (razem z B).",
    "kto": "SYMON (szkic) -> KROL",
    "kanal": "osobiscie po powrocie Krola",
-   "wraca": "300-09-25",
+   "wraca": "300-10-10",
    "zamyka": "slowo Krola",
-   "status": "otwarte ### 09-10 SLOWO PANA (Lucan b): w szkicu dla Krola ZAPLATA KADLUBAMI (puste okrety, bez zalog) jako jedna z form; dostawy PO CICHU - kupieckimi statkami przez Harlaw (Czytelnik), bez pieczeci Korony na beczce; slowo Krola tylko na pismie dla Krzesla. ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola."
+   "status": "otwarte ### 09-10 SLOWO PANA (Lucan b): w szkicu dla Krola ZAPLATA KADLUBAMI (puste okrety, bez zalog) jako jedna z form; dostawy PO CICHU - kupieckimi statkami przez Harlaw (Czytelnik), bez pieczeci Korony na beczce; slowo Krola tylko na pismie dla Krzesla. ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-09-10",
@@ -14484,7 +14484,7 @@
    "kanal": "krukiem Glebokorzenia WF-BP 09-11",
    "wraca": "300-09-25",
    "zamyka": "kosztorys i plan etapu I na stole pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-25 ### KOSZTORYS ULLI KORY I THEOMORE'A NA STOLE PANA (wlasni): 6 wezlow, krucznik w kazdym, 6 uczniow; start ~30, potem ~18/rok (E, jak w szacunku 09-10); pierwsza linia WF-BP przed wiosna; krukarnia Korony w WF osobno od wiezy maestera. Luwin podpisal. Do slowa pana: zatwierdzenie (krzeslo lacznosci - Krol). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-11",
@@ -14574,7 +14574,7 @@
    "kanal": "goncy domeny do okregu V; Hilda osobiscie",
    "wraca": "300-09-25",
    "zamyka": "meldunek Hildy: ile zielarek sprzedaje (rzut), pierwsze ziola w skladzie",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-25 ### MELDUNEK HILDY - RZUT 43 (prog 45): CHLODNO - Stara Marta sprzedala i namawia, ale z ~8 zielarek okregu V (E) sprzedaja 2; reszta czeka, czy Korona zaplaci druga partie tak samo. Pierwsze ziola w skladzie - kosz kory wierzby, rumianek, krwawnik (E). Hilda wraca po druga partie ~10-05. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-12",
@@ -14628,7 +14628,7 @@
    "kanal": "kruk Domu WF-Fosa (szyfr), po pogodzie",
    "wraca": "300-09-25",
    "zamyka": "meldunek Willi o Torvaldzie (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-25 ### WILLA PRZYWIOZLA MELDUNEK (w ZM od poludnia) - RZUT 93 (prog 40): CZYSTY I CENNY. Torvald odszedl ze strazy portu po klotni z oficerem Wymana, ktory bral od przemytnikow - Torvald nie bral i nie milczal (E); ludzie Wymana go nie lubia, ale nie mowia o nim zle. Nikomu nie winien; od kantoru lysenskiego nic. Zna Rybna i ludzi przy skladach z imienia. Pierwszy szczebel weryfikacji przeszedl; drugi - Aldwin (09-29). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-14",
@@ -14655,7 +14655,7 @@
    "kanal": "kruk WF-BP (09-15 rano)",
    "wraca": "300-09-25",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-25 ### ODPOWIEDZ WYMANA (kruk BP) - RZUT 15 (prog 45): ODMOWA, uprzejmie (O): cech szkutnikow BP nie dopusci obcych instrukcji ani lodzi budowanych poza cechem na ziemi Manderlych; 'Korona niech buduje u siebie - Bialy Port kupi, co do niego doplynie'. Wiosna - nadal do rozmowy. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-14",
@@ -14817,7 +14817,7 @@
    "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
    "wraca": "300-09-25",
    "zamyka": "pismo Theona o reakcji jenca (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-25 ### PISMO THEONA (kruk przez Fose) - RZUT 84 (prog 50): jeniec na opis trzech langskipow bez znakow zasmial sie: 'To nie Harlaw. My nosimy kose na zaglu nawet w nocy.' Gdy Theon spytal, czyje - zamilkl i spojrzal w podloge; potem: 'Zapytaj, kto na Pyke placi za cisze.' THEON (O): 'Nie Harlaw, nie wolni rabusie. Lordsport albo ktos, kto tam kupuje milczenie. Dowodu nie mam - mam jego twarz.' ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-16",
@@ -14835,7 +14835,7 @@
    "kanal": "szyfr Domu kruk WF-Fosa po slowie pana (kiedy jedzie)",
    "wraca": "300-09-25",
    "zamyka": "Willa w ZM; zastepca na Fosie prowadzi teatr Polnoc (imie z jej meldunku)",
-   "status": "otwarte ### 09-16 SLOWO PANA: jedzie TERAZ; sama powoluje zastepce na Fosie (teatr Polnoc, przeciek GP i karta 10-01 przechodza na niego pod nia). Rozkaz szyfrem Domu kruk WF-Fosa 09-16 wieczor (Harrol Lut) - na Fosie ~09-17; przekazanie ~2-3 dni; droga 6 dni (E zima 7-8) - w ZM ~09-27/28. Wlasna - bez rzutu. ### 09-16 (cd.) DOPRECYZOWANIE: Willa wyznacza TERAZ tylko szefa Polnocy; trakt przejezdny (slowo gracza) - 6 dni; kruk ~09-17, przekazanie ~2 dni, wyjazd ~09-19, w ZM ~09-25 (E). ### POPRAWKA GM: szyfruje LUCAN w ZM (jak 09-13), Harrol Lut odczytuje na Fosie - nie Harrol w WF."
+   "status": "zamkniete 300-09-25 ### Willa w ZM 09-25 w poludnie; zastepca na Fosie (imie - z jej ust przy rozmowie). ### POPRZEDNIO: byl-otw ### 09-16 SLOWO PANA: jedzie TERAZ; sama powoluje zastepce na Fosie (teatr Polnoc, przeciek GP i karta 10-01 przechodza na niego pod nia). Rozkaz szyfrem Domu kruk WF-Fosa 09-16 wieczor (Harrol Lut) - na Fosie ~09-17; przekazanie ~2-3 dni; droga 6 dni (E zima 7-8) - w ZM ~09-27/28. Wlasna - bez rzutu. ### 09-16 (cd.) DOPRECYZOWANIE: Willa wyznacza TERAZ tylko szefa Polnocy; trakt przejezdny (slowo gracza) - 6 dni; kruk ~09-17, przekazanie ~2 dni, wyjazd ~09-19, w ZM ~09-25 (E). ### POPRAWKA GM: szyfruje LUCAN w ZM (jak 09-13), Harrol Lut odczytuje na Fosie - nie Harrol w WF. ### 300-09-25 TRIAZ: WILLA DOJECHALA DO ZM ok. poludnia (trakt twardy, wlasni - bez rzutu); kwatera przy faktorii Domu. Zastepca na Fosie prowadzi teatr Polnoc."
   },
   {
    "data": "300-09-16",
@@ -14851,9 +14851,9 @@
    "co": "ROZMOWA PANA Z WILLA O KSZTALCIE WYWIADU (~09-25, po jej przyjezdzie; gra/wywiad_jedna_kartka_300_09_17.md): teatry i ich szefowie, przykrywka Willi w ZM, ludzie w placowkach Domu, lacznosc (szyfr/kruki Domu), zacieranie sladow. Zasada pana 09-17: brak oficjalnej komorki, brak powiazania z Domem.",
    "kto": "SYMON ; WILLA",
    "kanal": "osobiscie w ZM po przyjezdzie Willi",
-   "wraca": "300-09-25",
+   "wraca": "300-09-26",
    "zamyka": "ksztalt ustalony slowem pana po rozmowie z Willa",
-   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu). ### 09-17 SLOWO PANA (rama): wywiad ODDZIELNY od Domu; Dom bez tajnej ksiegi wywiadu, ale zrodlo informacji - bez oficjalnych osob; ludzie w Domu = operacyjni Willi; teatry dzialaja tak samo, organizuja sie odrebnie; finanse z sakiewki pana. DO ROZMOWY: kontrwywiad - dostep do siatki i informacji Domu, wspolpraca z Willa (pan: TAK, powinny wspolpracowac). ### 09-22 KARTKA PANA (gra/kartka_pana_300_09_22.md) - pytania do Willi, jesli pan zechce: (1) faktor z Rybnej a kantor lysenski przy Rybnej - ten sam dom?; (2) GP - eskorta Redwyne'ow i zalogi Reach na ladzie 09-09..11; (3) test ubytku Dreadfortu (Lucan 07-11) - wynik."
+   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu). ### 09-17 SLOWO PANA (rama): wywiad ODDZIELNY od Domu; Dom bez tajnej ksiegi wywiadu, ale zrodlo informacji - bez oficjalnych osob; ludzie w Domu = operacyjni Willi; teatry dzialaja tak samo, organizuja sie odrebnie; finanse z sakiewki pana. DO ROZMOWY: kontrwywiad - dostep do siatki i informacji Domu, wspolpraca z Willa (pan: TAK, powinny wspolpracowac). ### 09-22 KARTKA PANA (gra/kartka_pana_300_09_22.md) - pytania do Willi, jesli pan zechce: (1) faktor z Rybnej a kantor lysenski przy Rybnej - ten sam dom?; (2) GP - eskorta Redwyne'ow i zalogi Reach na ladzie 09-09..11; (3) test ubytku Dreadfortu (Lucan 07-11) - wynik. ### 300-09-25 TRIAZ: Willa w ZM od poludnia - rozmowa do slowa pana (kiedy)."
   },
   {
    "data": "300-09-16",
@@ -14869,9 +14869,9 @@
    "co": "STALA ZASADA DOMU - WIELOPOZIOMOWA WERYFIKACJA KLUCZOWYCH LUDZI (slowo pana 09-16; gra/siatka_reorganizacja_300_09_16.md): WILLA -> KONTRWYWIAD -> STEN -> PAN, po kolei. Kluczowi (O, do poprawki): szefowie placowek i teatrow, skarbnicy/kasjerzy, szyfranci i kurierzy szyfru, ludzie przy osobie pana i rodziny, szef bezpieczenstwa. Operacja: rozkaz do Willi (z szyfrem o przeniesieniu) i do Stena; pierwsze zastosowanie - Torvald.",
    "kto": "SYMON ; WILLA ; STEN ; kontrwywiad",
    "kanal": "szyfr Lucana do Willi (dzis, z rozkazem przeniesienia); Sten - ustnie",
-   "wraca": "300-09-25",
+   "wraca": "300-09-26",
    "zamyka": "zasada przyjeta przez Wille i Stena; Torvald przeszedl pierwsze dwa szczeble",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-25 TRIAZ: zasada do przyjecia przez Wille przy rozmowie z panem."
   },
   {
    "data": "300-09-16",
@@ -15265,9 +15265,9 @@
    "co": "LIST NAMIESTNIKA DO WYMANA - LYS (reka pana, 09-22): obraz sytuacji - ktos gra przeciw zbozu Korony, Lys macza w tym palce (napad na GP z lysenskimi monetami przy trupie; kapitanowie z Lys pytajacy o Goraczke i GP; kantor lysenski przy Rybnej w BP; Lys dyskontuje papier Lwa i pozycza stoczniom Lannisportu; zloto z Lys przy czarnym kadlubie u Wysp). Prosba o POMOC Mistrza Portow: urzad portowy BP daje znac o kapitanach pytajacych o Goraczke/GP/przewloke i o ruchu przy kantorze lysenskim - jako sprawa Korony, nie Domu. Kruk WF-BP 09-22 po poludniu. Odpowiedz - RZUT (~09-25).",
    "kto": "SYMON -> WYMAN",
    "kanal": "kruk WF-BP (wieza Luwina)",
-   "wraca": "300-09-25",
+   "wraca": "300-09-26",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-09-25 TRIAZ: list z 09-22 u Wymana ~09-24; odpowiedz ~09-26."
   },
   {
    "data": "300-09-22",
@@ -15430,6 +15430,42 @@
    "wraca": "300-10-01",
    "zamyka": "odwiedziny odbyte (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "TRAKTY LORDOW - T1-C (FREY / MALLISTER): brak odpowiedzi na zapytanie z 09-08 (Mallister cisza od 07-20). Zalezne od Dorzecza; ponowic przez Catelyn/Edmure'a albo czekac na Krola - do slowa pana.",
+   "kto": "SYMON -> FREY (Perwyn), MALLISTER",
+   "kanal": "kruk WF-Riverrun / Blizniaki",
+   "wraca": "300-10-10",
+   "zamyka": "odpowiedz albo decyzja pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "S-6 PONAD PLAN - ~120 zbieraczy zamiast ~70 (rzut 98): koszt Kasy 3 ~13 -> ~20 (E); brak sit i workow w Smolnej Polanie i Dziczej Ostoi (E). Do slowa pana: limit ludzi albo dolozyc pieniadze i sprzet.",
+   "kto": "EDRIC PLUG ; GAWEN",
+   "kanal": "WF",
+   "wraca": "300-09-26",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "S-7 ZIELARKI - DRUGA PARTIA (Hilda): zaplata za druga partie na czas i po tej samej cenie - reszta zielarek patrzy. Wlasni - bez rzutu na zaplate; odzew - rzut (zasada domowa 3 przy drugiej porazce).",
+   "kto": "HILDA ZIELE ; EDRIC",
+   "kanal": "osobiscie, okreg V",
+   "wraca": "300-10-05",
+   "zamyka": "druga partia kupiona (rzut odzewu)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-25",
+   "co": "SIEC KRUKOW KORONY - ZATWIERDZENIE KOSZTORYSU ETAPU I (Ulla Kora, Theomore, Luwin): ~30 start + ~18/rok, Kasa 3 (E). Do slowa pana; krzeslo lacznosci - Krol.",
+   "kto": "SYMON ; GAWEN",
+   "kanal": "WF",
+   "wraca": "300-09-26",
+   "zamyka": "slowo pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -15576,7 +15612,7 @@
     "dzien_miesiaca": 20
    },
    "opoznienie": 5,
-   "ostatnio_odebrane": "300-08-20",
+   "ostatnio_odebrane": "300-09-20",
    "zrodlo": "terminarz_budow_300_04.md"
   },
   {
@@ -15743,7 +15779,7 @@
     "dzien_miesiaca": 25
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-08-25",
+   "ostatnio_odebrane": "300-09-25",
    "zrodlo": "slowo pana 300-08-14; umowa koordynatora 299-08-22",
    "uwaga": "ostatnio_odebrane technicznie 07-25 - pierwsze rozliczenie 08-25."
   },

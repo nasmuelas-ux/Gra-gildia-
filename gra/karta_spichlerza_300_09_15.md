@@ -5,10 +5,20 @@
 - **Okręgi I i II zmłócone.** **Okręg III** dalej młóci w stodołach, bo zamieć tam nie przeszkadza. Koniec ~09-25 (Edric).
 - **Straty z pleśni** po sierpniowych nawałnicach: **~300 korcy**, zgodnie z rachunkiem 09-03. Zbiór domeny netto ~5 000 korcy.
 
-**2. Zapas Korony dziś (z księgi, w korcach)**
-- Spichrze Króla i komory: **~7 000** (9 000 minus ~2 000 siewnego) plus domena **~5 000** = **~12 000 korcy** (bez zmian od 09-03).
-- **Konserwa (skład przy targu, od 09-05, E):** **~60 beczek kapusty i rzepy kiszonej**, 8 beczek ryby solonej. Pierwsze suszone grzyby z okręgu V (S-6, ~2 worki), dopóki zamieć ich nie zatrzymała.
-- Łój ~38 beczek (2 zjełczałe, odpisane). Tran z danin do zapasu (słowo pana 09-03): pierwsze **4 beczki** (E).
+**2. Zapas Korony dziś W RACJACH** *(słowo pana 09-15: karta w racjach już teraz, nie od X. Miara: Racja Północna, 1 ZR = 1 kg ziarna, pełna racja dzienna = 2 ZR; składniki jak w rachunku 09-03: tłuszcz 0,08 kg, kiszonka 0,4 kg, ryba 0,2 kg)*
+
+| składnik | ile (z księgi, E dla Konserwy) | racji dziennych w tym składniku | dla stałych gąb Korony (~1 275 racji/dzień) |
+|---|---|---|---|
+| **zboże** | ~12 000 korcy = 720 000 ZR | **~360 000** | ~282 dni |
+| **tłuszcz** (łój ~38 beczek, tran 4 beczki) | ~4,2 t | **~52 500** | ~41 dni |
+| **kiszonka i korzenie** (Konserwa, 60 beczek) | ~6 t | **~15 000** | ~12 dni |
+| **ryba** (Konserwa, 8 beczek) | ~0,8 t | **~4 000** | **~3 dni** |
+| grzyby suszone (S-6) | 2 worki | dodatek | — |
+
+**WĄSKIE GARDŁO RACJI DZIŚ: RYBA (~4 000), potem KISZONKA (~15 000).** Zboża jest ~90 razy więcej niż ryby.
+- **Ulga przyjdzie w X i XII:** beczka zimowa Spichlerza 400 (40 t śledzia, ~200 000 racji ryby) i Konserwa (cel IX–X: 300 beczek kiszonki, ~75 000; 80 beczek ryby).
+- **Orland (O):** *„Chleb mamy. Zupy do chleba mamy na trzy dni. Konserwa musi gonić rybę, nie kapustę.”*
+- **Pełna karta w racjach z wagi** (a nie z księgi): ~10-01, tak jak ustalono.
 
 **3. Dostawy z Południa**
 - **Reach:** pierwsze statki do GP miały przyjść ~09-10. **Wieść z GP: nie wiadomo**, bo burza i zamieć. Będzie w zbiorczym Garricka ~09-18.
@@ -23,7 +33,7 @@
 - **40 korcy owsa zasypane 09-06** (E), komora zapieczętowana przy Luwinie. Pierwsze otwarcie i ocena: **I 301**.
 
 **6. Spis zboża w składach całej Północy (jedna liczba)**
-- Korona ~12 000 korcy, a do końca X dojdzie ~45 000 z Reach, Illyrii i czynszu.
+- Korona: **~360 000 racji w zbożu**, a do końca X dojdzie **~1 350 000** (~45 000 korcy z Reach, Illyrii i czynszu).
 - **Lordowie: nie wiadomo.** Tabela zim poszła 09-14 z prośbą, żeby dali znać. Odpowiedzi ~10-05.
 
 **7. Do słowa pana**

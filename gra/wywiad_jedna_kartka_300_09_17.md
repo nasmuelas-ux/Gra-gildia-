@@ -118,3 +118,4 @@
 - **Przykrywka naturalna:** kupiec z Północy w Braavos to codzienność – drewno, futra, bursztyn, solona ryba. **Niezależny handlarz, NIE faktor Domu** (rozdział).
 - **Czas:** zima na naukę języka i fachu; **wypłynięcie wiosną** (sztormy Wąskiego Morza, lód). Ilario może uczyć braavoskiego i pokazać miasto „z pamięci” – ale nie musi wiedzieć, po co (O).
 - **Profil:** młody, piśmienny, liczy, zna jeden towar z Północy, bez długów, z rodziną tutaj. Kandydaci – z listą ~10-10.
+- **⚑ PAN 09-25 (cd.): BRAAVOS SZYBCIEJ – szukać w BIAŁYM PORCIE** (ktoś, kto już zna Braavos i język). **WILLA (O):** w BP są ludzie, którzy pływali do Braavos albo tam siedzieli – szyprowie, pisarze frachtu, kupcy sukna i bursztynu; **nie z linii Nesty** (niezależność) i nie z ludzi Domu. Szuka przez swoich w BP (teatr Północ, Merel). **Kandydaci ~10-05**; jeśli ktoś pasuje – statek do Braavos w X, przed najgorszymi sztormami; na miejscu ~XI.

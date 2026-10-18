@@ -51,3 +51,10 @@
 2. **Rozdroże:** Deron jako szef komórki?
 3. **Spis gospodarczy** do Hala i Tama, **płaca +¼**, **tempo według kupców**: zgoda?
 4. **Willa dostaje nowy podział szyfrem** (Lucan), a archiwistów werbują komórki: Seagard, Ashford, Rozdroże. Essos: kogo szukać i jak, bez Nesty?
+
+---
+### ⚑ SŁOWO PANA 300-09-16
+1. **Kontrwywiad:** *„Wybiorę go sam. O kontrwywiadzie nie będzie wiedział nikt poza mną.”* Od tej chwili kontrwywiad to sprawa wyłącznie pana. **Lucan słyszał pomysł przy stole, ale nie wie, czy powstał ani kto go prowadzi.** Kandydatów z pkt 3 pan nie potwierdził, więc są tylko materiałem.
+2. **Rozdroże:** szefa komórki **wybierze pan sam**. Deron był propozycją Lucana.
+3. **TAK:** spis gospodarczy do Hala i Tama, płaca siatki +¼, zlecenia w rytmie kupców.
+4. **Essos (Braavos):** szukamy **kogoś, kto zna braavoski i coś panu zawdzięcza.** Pan się zastanowi.

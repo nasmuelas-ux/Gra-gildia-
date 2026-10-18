@@ -296,6 +296,16 @@
      "do": "300-06-30",
      "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Zapis 300-03-18: ~650 z 695 zwrotu Korony w towarze = kapital wiosenny; marza Hala 12-18 proc. -> 78-117 ponad sam zwrot, rozlozone na IV-VI. Rubryka osobna, obok wyniku standardowego (prosba pana 300-04-23). ZDARZENIE SPECJALNE - poza korekta skali, zeby nie liczyc dwa razy.",
      "bez_skali": true
+    },
+    {
+     "nazwa": "SIATKA - PLACA +1/4 (slowo pana 09-16)",
+     "typ": "koszt",
+     "min": 0.5,
+     "max": 1.5,
+     "okres": "miesiac",
+     "od": "300-10-01",
+     "do": null,
+     "zrodlo": "SLOWO PANA 300-09-16 (rada Lucana): placa ludzi siatki +1/4; kwota bazowa siatki w ksiedze Willi - nie w modelu (E: dodatek 0,5-1,5/mies)"
     }
    ],
    "nieznane": [

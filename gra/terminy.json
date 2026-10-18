@@ -15078,7 +15078,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-22",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-22 ### lekcja odbyta (rzut 97, prog 25 - ZNAKOMICIE) ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-19",
@@ -15223,6 +15223,24 @@
    "wraca": "300-09-28",
    "zamyka": "rozdanie 09-28, spisani obsluzeni",
    "status": "otwarte ### 09-21 SLOWO PANA: w niedziele 09-28 z wozami jada SANSA i ARYA z ser Rodrikiem, pod wilkiem Starkow - bez Namiestnika. Lady Catelyn - zawiadomic (zgoda matki). Odbior ludzi - RZUT 09-28."
+  },
+  {
+   "data": "300-09-22",
+   "co": "BRAAVOSKI - LEKCJA 20 (pt 09-26, po sniadaniu): forma - do slowa pana. Po lekcji 19 (rzut 97): passa premii (zasada domowa 3) konczy sie - prog wraca do zwyklego.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-26",
+   "zamyka": "lekcja odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-22",
+   "co": "LIST SIOSTR DO NESTY PO BRAAVOSKU - 'Winterfell dla kogos z Braavos' (6 zdan, dwie rece; lekcja 19): z poczta Domu do BP -> statek do Braavos. Odpowiedz Nesty (rzut) - ~XI.",
+   "kto": "SANSA, ARYA -> NESTA (przez Hala)",
+   "kanal": "kruk Domu WF-BP + statek",
+   "wraca": "300-11-15",
+   "zamyka": "odpowiedz Nesty",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

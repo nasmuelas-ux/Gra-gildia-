@@ -15258,7 +15258,7 @@
    "kanal": "WF; kruk WF-Fosa",
    "wraca": "300-09-26",
    "zamyka": "plan na Malej Radzie",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-26 ### MALA RADA - SLOWO PANA: PLAN TAK - zboze do 7 punktow do ~10-25, ~8 Kasa 3 (E), tluszcz najpierw garnizony. ZBOZE KUPIONE PRZEZ LORDOW - odbieraja SAMI (Korona nie wozi). Operacje nizej. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-22",
@@ -15582,6 +15582,24 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-03",
    "zamyka": "lekcja odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-26",
+   "co": "SPICHLERZ NA DROGE - ROZWOZ (Mala Rada 09-26): zboze Korony do 7 punktow (komory domeny, Fosa i GP przez Garricka, Kamienny Brzeg, Dustinport, Przystan Wilka, Cypel) do ~10-25; wozy Korony + najem; ~8 Kasa 3 (E); tluszcz - garnizony pierwsze. Orland: snieg miesiac za wczesnie - droga moze stanac w polowie X. Wlasni - bez rzutu; drogi - pogoda.",
+   "kto": "ORLAND ; GAWEN ; GARRICK (lenno)",
+   "kanal": "WF; kruk WF-Fosa (po sniezycy)",
+   "wraca": "300-10-25",
+   "zamyka": "zapas 16 tygodni w kazdym z 7 punktow",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-26",
+   "co": "ZBOZE KUPIONE PRZEZ LORDOW - ODBIERAJA SAMI (slowo pana 09-26): list Korony do lordow z zaliczkami (11 kolumn, m.in. Hornwood, Flint, Ryswell - zapis 08-25): odbior wlasnymi wozami ze skladow Korony przed zlym lodem (E: do ~10-20); czego nie odbiora - lezy w skladzie Korony do wiosny. Gawen pisze, kruki po sniezycy. Odzew lordow - RZUT przy odpowiedziach.",
+   "kto": "GAWEN ; ORLAND -> lordowie",
+   "kanal": "kruki (od 09-27)",
+   "wraca": "300-10-05",
+   "zamyka": "lordowie potwierdzaja odbior albo pozostawienie do wiosny",
    "status": "otwarte"
   }
  ],

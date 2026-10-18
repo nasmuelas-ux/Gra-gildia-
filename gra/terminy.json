@@ -15376,6 +15376,24 @@
    "wraca": "300-09-26",
    "zamyka": "lekcja 20 HV odbyta",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-24",
+   "co": "MIRA WRACA DO WF Z PIERWSZYM WOZEM W X (rada przyjela Konserwe na zime 09-20 - jej warunek): z Dagonem i oddzialem II, E wyjazd ~10-03, w WF ~10-09.",
+   "kto": "MIRA ; DAGON",
+   "kanal": "trakt Fosa-WF",
+   "wraca": "300-10-09",
+   "zamyka": "Mira w WF",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-24",
+   "co": "PAN NA FOSIE 'PRZED LODEM' (prosba rady lenna 09-20): plan lawy Cailin, huta szkla przy stole lenna - do slowa pana (kiedy).",
+   "kto": "SYMON",
+   "kanal": "WF/Fosa",
+   "wraca": "300-10-01",
+   "zamyka": "slowo pana: termin",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -15472,7 +15490,7 @@
     "start": "300-04-11"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-09-19",
+   "ostatnio_odebrane": "300-09-22",
    "zrodlo": "terminarz_budow_300_04.md",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"
@@ -15611,7 +15629,7 @@
     "start": "300-07-19"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-09-15",
+   "ostatnio_odebrane": "300-09-22",
    "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"

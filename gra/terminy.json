@@ -14547,7 +14547,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-15",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-15 ### rzut 3 BARDZO ZLE: Arya rzucila tabliczka (pekla) i wyszla; lekcja po polowie; slow 2/7 ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-12",
@@ -14691,6 +14691,15 @@
    "kanal": "kruk Riverrun-WF",
    "wraca": "300-09-28",
    "zamyka": "Harrion wolny (albo nie) - meldunek",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-15",
+   "co": "BRAAVOSKI - LEKCJA 18 (pt 09-19, po sniadaniu): po lekcji 17 (rzut 3: spor siostr, tabliczka Aryi pekla, Arya wyszla) - temat i forma do slowa pana; 5 slow z 16 dalej nie weszlo.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-19",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

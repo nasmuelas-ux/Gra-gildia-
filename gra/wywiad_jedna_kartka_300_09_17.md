@@ -203,3 +203,4 @@
 - **Szkoła:** przykrywka – **szkoła pisarzy i rachmistrzów przy kopiście** (centrala ZM). Uczniowie myślą, że uczą się fachu; najlepszych bierze się dalej. Nie z Korpusu Korony i nie z ludzi Domu.
 - **Sabotaż:** *„Można. Ale osobni ludzie – ucho, które podpala, przestaje słyszeć. Mała grupa, nigdy z teatru, który słucha w tym samym miejscu. I tylko na wasze ustne słowo, jak eliminacja. Każdy sabotaż mówi wrogowi, że mamy ręce – używać rzadko.”*
 - **Koszt dodatkowy (E):** BP ~12, Pentos ~15 jednorazowo; szkoła ~1–2/mies; grupa sabotażu – osobno, od sprawy. **Do słowa pana.**
+**⚑ SŁOWO PANA 09-25:** **Biały Port – własny szef** (osobny od Merel, raport osobno). **Koszty dodatkowe zatwierdzone:** BP ~12, Pentos ~15 jednorazowo; szkoła ~1–2/mies od XI (ekonomia.json).

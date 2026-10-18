@@ -14903,11 +14903,11 @@
   {
    "data": "300-09-16",
    "co": "SPRAWDZENIE MALEJ RADY - KANALAMI NAMIESTNIKA (slowo pana 09-16: 'jestem namiestnikiem, moge'): PO CICHU, TYLKO OBSERWACJA, BEZ lady Catelyn i maestera Luwina. Cele: GAWEN (Skarbnik), EDRIC PLUG (Zarzadca Domeny), BERON (kancelaria Korony, protokol Rady) - (O: Beron dopisany jako protokolant, do poprawki). Wykonawcy (O, do poprawki): kontrwywiad (papiery i obieg kancelarii) + Lucan (kto z kim w ZM). Wynik - RZUT przy meldunku.",
-   "kto": "SYMON ; kontrwywiad ; LUCAN",
-   "kanal": "wlasne, ustnie",
-   "wraca": "300-10-01",
+   "kto": "SYMON ; WILLA",
+   "kanal": "osobiscie - Willa po przyjezdzie do ZM (~09-25)",
+   "wraca": "300-10-10",
    "zamyka": "meldunek (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-17 SLOWO PANA: BEZ Lucana i kontrwywiadu - sprawdza WILLA (po przyjezdzie ~09-25, obserwacja po cichu); meldunek ~10-10 (rzut)."
   },
   {
    "data": "300-09-16",
@@ -14925,6 +14925,24 @@
    "kanal": "wlasna nauka",
    "wraca": "300-09-19",
    "zamyka": "lekcja 18 HV odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-17",
+   "co": "SPRAWDZENIE LUCANA I SZEFA KONTRWYWIADU - WILLA (slowo pana 09-17): obu, po cichu, obserwacja; zlecenie ustnie po jej przyjezdzie do ZM (~09-25). Wynik - RZUT przy meldunku.",
+   "kto": "SYMON -> WILLA",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-10",
+   "zamyka": "meldunek Willi o obu (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-17",
+   "co": "SPRAWDZENIE LUCANA I SZEFA KONTRWYWIADU - STEN (slowo pana 09-17): rownolegle do Willi, jego sposobem (kto przychodzi, z kim sie widuja, co nosza, kiedy wychodza); ustnie dzis. Wynik - RZUT przy meldunku.",
+   "kto": "SYMON -> STEN",
+   "kanal": "ustnie WF 09-17",
+   "wraca": "300-10-01",
+   "zamyka": "meldunek Stena (rzut)",
    "status": "otwarte"
   }
  ],

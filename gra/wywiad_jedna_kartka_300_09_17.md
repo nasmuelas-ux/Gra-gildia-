@@ -71,3 +71,12 @@
 - Uszy – **karczma przy trakcie, przewoźnik, łaźnia, kowal przy bramie, pralnia** (*„praczki słyszą wszystko, a nikt ich nie widzi”*).
 - **Uszu nie trzeba kupować** – często taniej opłacić człowieka, który już tam stoi za ladą. Kupuje się tylko centrum.
 - Operacja „przykrywki” (do ~10-10): na każdy teatr **1 centrum + 2–3 uszy** jako kandydaci.
+
+### ⚑ SŁOWO PANA 09-25 (cd.)
+- **Kontrwywiad raportuje WPROST DO PANA.** W ZM **wspólna skrzynka** na sprawy wspólne.
+- **W ZIMOWYM MIEŚCIE też przedsiębiorstwo-przykrywka – centrala:** siedzi tam Willa **i kontrwywiad** (osobne izby i osobne księgi; raport każde swoją drogą).
+
+**WILLA (O):**
+- *„Wtedy i ja muszę wyjść z izby nad składem Domu. Siedzę przy faktorii – to pierwszy ślad do Domu.”* – przenosi się do centrali, kiedy będzie kupiona.
+- Centrala ZM – **kopista i introligator** (E, jej propozycja): kancelaria ma klientów, więc **człowiek kontrwywiadu, który ma inną jawną robotę, przychodzi jako klient** – z listem do przepisania.
+- Dwie izby, dwa klucze, jedna skrzynka w sieni.

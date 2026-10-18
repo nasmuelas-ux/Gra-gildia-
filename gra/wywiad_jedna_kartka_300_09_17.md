@@ -169,3 +169,21 @@
 - **Wojsko i wywiad nigdy krukiem otwartym tekstem** (na Fosie już tak – rozszerzyć na wszystko).
 - **Przy każdym wycieku – pytać „kto wiedział”, nie „kto zdradził”.** Tablica, nie podejrzenie.
 **⚑ SŁOWO PANA 09-25:** (1) **Poczta wojskowa i wywiadu – POZA kancelarią Berona.** Wywiad – własnym kanałem Willi; wojskowa – przez kancelarię Namiestnika i pieczęć pana (O: sekretarz Harmon; do poprawki). Ogłoszenie jako część reżimu informacji (Mała Rada 09-26). (2) **Kto otwiera listy pana – na razie bez zmian** (Aldwin). (3) **Środki ostrożności – TAK:** palić brudnopisy; jeden człowiek – jeden kawałek; szyfry co kwartał z ręki do ręki; **wojsko i wywiad nigdy otwartym tekstem krukiem – w całym kraju**; przy wycieku „kto wiedział”.
+
+### „NAJLEPSZY WYWIAD, JAKI MOŻEMY MIEĆ” – WILLA (O), 09-25
+**Czego jeszcze brakuje:**
+1. **Pytania pana.** *„Co kwartał trzy pytania, na które chcecie odpowiedzi. Siatka, która nie wie, czego szuka, przynosi plotki.”*
+2. **Archiwum z indeksem** – ludzie, miejsca, statki, pieniądze; każda kartka wpięta pod imię. *„Siła wywiadu to nie szpieg, tylko szuflada, w której jego kartka spotyka kartkę sprzed roku.”* (to jej fach)
+3. **Ludzie do nauki** – analityków się uczy: czytać księgi, liczyć, porównywać. Dwoje–troje młodych przy centrali ZM od zimy.
+4. **Czas.** *„Najlepszy wywiad to lata. Pierwszy rok – uszy i papier. Drugi – ludzie w środku. Trzeci – wiemy, zanim oni wiedzą.”*
+
+**PIERWSZE SIEDZIBY TEATRÓW (propozycja Willi, siedziba nie musi być przy Domu):**
+| teatr | siedziba centrum | dlaczego | kiedy |
+|---|---|---|---|
+| **CENTRALA** | **Zimowe Miasto** | pan, kontrwywiad, archiwum | X |
+| **PÓŁNOC** | **Cailin** (miasto przy Fosie, nie placówka) | cały ruch Przesmyku przechodzi przez bramę; Merel na miejscu. **Biały Port – gęste uszy** (Rybna, port, Lys, moneta Dreadfortu) | XI |
+| **ZACHÓD I PYKE** | **Seagard** (poza placówką Domu) | Mallisterowie pilnują Wysp od wieków; statki do Lordsport stamtąd | X–XI |
+| **ESSOS** | **Braavos** | Bank, Wąskie Morze, Lys przez kupców | XI |
+| **POŁUDNIE** | **Stare Miasto** zamiast Ashford | Cytadela, Hightowerowie, statki Reach, wszystkie drogi Róży kończą się tam | wiosna |
+| **KRÓLEWSKA PRZYSTAŃ** | **Królewska Przystań** (słowo pana) | stolica wroga, pająk | wiosna |
+**Do słowa pana:** siedziby; Południe – Stare Miasto zamiast Ashford?

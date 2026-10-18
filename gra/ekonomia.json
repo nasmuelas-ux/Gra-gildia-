@@ -859,6 +859,15 @@
      "od": "300-10-01",
      "do": null,
      "zrodlo": "slowo pana 300-09-21 (rada Wymana): E ~1 jelen/tydzien na ucznia, 2-6 uczniow"
+    },
+    {
+     "nazwa": "SIEC KRUKOW KORONY - ETAP I: krucznicy z ptakami, 6 wezlow (~3/rok/wezel)",
+     "typ": "koszt",
+     "stawka": 1.5,
+     "okres": "miesiac",
+     "od": "300-11-01",
+     "do": null,
+     "zrodlo": "slowo pana 300-09-25; E ~18/rok"
     }
    ],
    "nieznane": [
@@ -1646,6 +1655,34 @@
    "kwota": -2,
    "opis": "CHLEW LENNA - 40 prosiat na tucz do XII (tluszcz - waskie gardlo zapasu) (E)",
    "zrodlo": "raport rady lenna 300-09-22"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -1.1,
+   "opis": "S-6 ZBIERACZE - doplata dniowek IX (~120 zamiast ~70 ludzi, x120/70)",
+   "zrodlo": "slowo pana 300-09-25 (B: doloz); rzut 98; E z moca zapisu"
+  },
+  {
+   "data": "300-10-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -1.1,
+   "opis": "S-6 ZBIERACZE - doplata dniowek X (~120 ludzi)",
+   "zrodlo": "slowo pana 300-09-25 (B); E z moca zapisu"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -1,
+   "opis": "S-6 ZBIERACZE - sita i worki dla Smolnej Polany i Dziczej Ostoi (E)",
+   "zrodlo": "slowo pana 300-09-25 (B)"
+  },
+  {
+   "data": "300-10-15",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -30,
+   "opis": "SIEC KRUKOW KORONY - ETAP I: budowa i klatki 6 wezlow (~5/wezel) (E)",
+   "zrodlo": "slowo pana 300-09-25 - zatwierdzenie kosztorysu Ulli Kory/Theomore'a/Luwina; gra/siec_krukow_korony_300_09_10.md"
   }
  ],
  "_symulacje": {

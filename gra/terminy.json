@@ -14655,7 +14655,7 @@
    "kanal": "kruk WF-BP (09-15 rano)",
    "wraca": "300-09-25",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "zamkniete 300-09-25 ### ODPOWIEDZ WYMANA (kruk BP) - RZUT 15 (prog 45): ODMOWA, uprzejmie (O): cech szkutnikow BP nie dopusci obcych instrukcji ani lodzi budowanych poza cechem na ziemi Manderlych; 'Korona niech buduje u siebie - Bialy Port kupi, co do niego doplynie'. Wiosna - nadal do rozmowy. ### POPRZEDNIO: byl-otw"
+   "status": "zamkniete 300-09-25 ### ODPOWIEDZ WYMANA (kruk BP) - RZUT 15 (prog 45): ODMOWA, uprzejmie (O): cech szkutnikow BP nie dopusci obcych instrukcji ani lodzi budowanych poza cechem na ziemi Manderlych; [VOID 09-25 - GM wlozyl Wymanowi sprzeciw wobec budowy przez Korone, czego list nie proponowal] POPRAWIONE: 'W te zime szkutnicy BP maja rece przy kadlubach (smocze szklo, lupacze) - lodzi-ploz nie bedzie; wiosna cech obejrzy rysunek Korony'. Wiosna - nadal do rozmowy. ### POPRZEDNIO: byl-otw ### 09-25 SLOWO PANA (zalozenie od poczatku): KAZDY LORD BUDUJE SAM, U SIEBIE, SWOJE LODZIE - Korona daje tylko instrukcje. Wyman w te zime nie buduje (rzut 15 stoi), wiosna - jego wola."
   },
   {
    "data": "300-09-14",
@@ -14817,7 +14817,7 @@
    "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
    "wraca": "300-09-25",
    "zamyka": "pismo Theona o reakcji jenca (rzut)",
-   "status": "zamkniete 300-09-25 ### PISMO THEONA (kruk przez Fose) - RZUT 84 (prog 50): jeniec na opis trzech langskipow bez znakow zasmial sie: 'To nie Harlaw. My nosimy kose na zaglu nawet w nocy.' Gdy Theon spytal, czyje - zamilkl i spojrzal w podloge; potem: 'Zapytaj, kto na Pyke placi za cisze.' THEON (O): 'Nie Harlaw, nie wolni rabusie. Lordsport albo ktos, kto tam kupuje milczenie. Dowodu nie mam - mam jego twarz.' ### POPRZEDNIO: byl-otw"
+   "status": "zamkniete 300-09-25 ### PISMO THEONA (kruk przez Fose) - RZUT 84 (prog 50): jeniec na opis trzech langskipow bez znakow zasmial sie: 'To nie Harlaw. My nosimy kose na zaglu nawet w nocy.' Gdy Theon spytal, czyje - zamilkl i spojrzal w podloge; potem: 'Zapytaj, kto na Pyke placi za cisze.' THEON (O): 'Nie Harlaw, nie wolni rabusie. Lordsport albo ktos, kto tam kupuje milczenie. Dowodu nie mam - mam jego twarz.' ### POPRZEDNIO: byl-otw ### 09-25 SLOWO PANA: trop Pyke - zostawiam (bez ruchu)."
   },
   {
    "data": "300-09-16",
@@ -14851,9 +14851,9 @@
    "co": "ROZMOWA PANA Z WILLA O KSZTALCIE WYWIADU (~09-25, po jej przyjezdzie; gra/wywiad_jedna_kartka_300_09_17.md): teatry i ich szefowie, przykrywka Willi w ZM, ludzie w placowkach Domu, lacznosc (szyfr/kruki Domu), zacieranie sladow. Zasada pana 09-17: brak oficjalnej komorki, brak powiazania z Domem.",
    "kto": "SYMON ; WILLA",
    "kanal": "osobiscie w ZM po przyjezdzie Willi",
-   "wraca": "300-09-26",
+   "wraca": "300-09-25",
    "zamyka": "ksztalt ustalony slowem pana po rozmowie z Willa",
-   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu). ### 09-17 SLOWO PANA (rama): wywiad ODDZIELNY od Domu; Dom bez tajnej ksiegi wywiadu, ale zrodlo informacji - bez oficjalnych osob; ludzie w Domu = operacyjni Willi; teatry dzialaja tak samo, organizuja sie odrebnie; finanse z sakiewki pana. DO ROZMOWY: kontrwywiad - dostep do siatki i informacji Domu, wspolpraca z Willa (pan: TAK, powinny wspolpracowac). ### 09-22 KARTKA PANA (gra/kartka_pana_300_09_22.md) - pytania do Willi, jesli pan zechce: (1) faktor z Rybnej a kantor lysenski przy Rybnej - ten sam dom?; (2) GP - eskorta Redwyne'ow i zalogi Reach na ladzie 09-09..11; (3) test ubytku Dreadfortu (Lucan 07-11) - wynik. ### 300-09-25 TRIAZ: Willa w ZM od poludnia - rozmowa do slowa pana (kiedy)."
+   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu). ### 09-17 SLOWO PANA (rama): wywiad ODDZIELNY od Domu; Dom bez tajnej ksiegi wywiadu, ale zrodlo informacji - bez oficjalnych osob; ludzie w Domu = operacyjni Willi; teatry dzialaja tak samo, organizuja sie odrebnie; finanse z sakiewki pana. DO ROZMOWY: kontrwywiad - dostep do siatki i informacji Domu, wspolpraca z Willa (pan: TAK, powinny wspolpracowac). ### 09-22 KARTKA PANA (gra/kartka_pana_300_09_22.md) - pytania do Willi, jesli pan zechce: (1) faktor z Rybnej a kantor lysenski przy Rybnej - ten sam dom?; (2) GP - eskorta Redwyne'ow i zalogi Reach na ladzie 09-09..11; (3) test ubytku Dreadfortu (Lucan 07-11) - wynik. ### 300-09-25 TRIAZ: Willa w ZM od poludnia - rozmowa do slowa pana (kiedy). ### 09-25 SLOWO PANA: DZIS (po poludniu, ZM)."
   },
   {
    "data": "300-09-16",
@@ -15436,9 +15436,9 @@
    "co": "TRAKTY LORDOW - T1-C (FREY / MALLISTER): brak odpowiedzi na zapytanie z 09-08 (Mallister cisza od 07-20). Zalezne od Dorzecza; ponowic przez Catelyn/Edmure'a albo czekac na Krola - do slowa pana.",
    "kto": "SYMON -> FREY (Perwyn), MALLISTER",
    "kanal": "kruk WF-Riverrun / Blizniaki",
-   "wraca": "300-10-10",
+   "wraca": "300-11-01",
    "zamyka": "odpowiedz albo decyzja pana",
-   "status": "otwarte"
+   "status": "otwarte ### 09-25 SLOWO PANA: ODLOZONE na potem."
   },
   {
    "data": "300-09-25",
@@ -15447,7 +15447,7 @@
    "kanal": "WF",
    "wraca": "300-09-26",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-25 ### SLOWO PANA: B - dolozyc. Kasa 3: doplata dniowek IX i X po ~1,1 + sita i worki ~1 (E). KOREKTA GM: '~13 -> ~20' bylo z glowy; z ksiegi (dniowki 1,5/mies x 120/70) wychodzi ~13 -> ~16. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-25",
@@ -15465,7 +15465,7 @@
    "kanal": "WF",
    "wraca": "300-09-26",
    "zamyka": "slowo pana",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-25 ### SLOWO PANA: TAK. Kasa 3: ~30 start (10-15, E), ~1,5/mies od 11-01 (E ~18/rok). Ulla Kora i Theomore ruszaja; pierwsza linia WF-BP przed wiosna. Krzeslo lacznosci - Krol. ### POPRZEDNIO: byl-otw"
   }
  ],
  "_dopiski_300_03_18": [

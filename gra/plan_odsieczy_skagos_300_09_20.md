@@ -63,3 +63,9 @@
 - **Wikt:** ~2 500 ludzi przez 40 dni to **~100 000 racji pełnych**. Zboże jest, ryba i tłuszcz są wąskim gardłem: cała beczka zimowa z X i XII, a Spichlerz Korony schodzi nisko. Koszt E ~300–450 smoków (Kasa 3) plus okręty.
 - **Brynden (O):** *„Duże wojsko nie odbija zakładnika. Duże wojsko ustawia rozmowę. Kto trzyma Króla, zabije go w chwili, w której zobaczy szturm. Więc: plaża pełna chorągwi, jeden pan Skagos przekupiony po naszej stronie, sól i zboże dla tych, którzy nie trzymają Króla, i rozmowa. Szturm tylko wtedy, gdy wiemy, w której izbie On śpi.”*
 - **Rodrik (O):** *„I trzeba pamiętać o drugiej stronie stołu. Jeśli zabierzemy na wschód wszystko, co mamy, zachód zostaje z Torrenem i łańcuchem ognia. A Wyspy czekają, aż Balon umrze.”*
+
+### ⚑ SŁOWO REGENTA 09-21: DOKTRYNA NA WYPADEK ŚMIERCI KRÓLA NA SKAGOS (hipoteza)
+- **Jeśli Król tam padnie, Północ musi pokazać siłę.** Wojna jest wtedy wypowiedziana nam de facto, bo *„nikt w tych czasach nie wręcza deklaracji wojny”*.
+- **Jeśli trzeba będzie wejść na wyspę, Skagos ma zapłacić tak, żeby było widać, że Starkowie nie są słabi.**
+- **Rodrik (O), podstawa z aktu:** *„Skagos to ziemia Północy. Kto zabił Króla, jest wrogiem na naszej ziemi, a na to akt daje regentowi chorągwie bez czekania. To odpowiedź, nie wyprawa za granicę.”*
+- **Brynden (O):** *„Zgoda. Niech zapłacą tak, żeby pamiętali przez sto lat. Ale niech płaci winny, a nie cała wyspa naraz. Inaczej wychowamy Skagos, które za sto lat zrobi to samo. Twierdza tego, kto podniósł rękę, zrównana z ziemią. Zakładnicy z każdego rodu, który stał obok. Danina, której nikt nie zapomni. Wtedy widać siłę, i to siłę, która wie, kogo bije.”*

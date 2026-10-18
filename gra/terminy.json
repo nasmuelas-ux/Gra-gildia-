@@ -14728,6 +14728,15 @@
    "wraca": "300-09-28",
    "zamyka": "odpowiedzi Cerwyna i Wymana (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-15",
+   "co": "LANCUCH OGNIA NA ZACHODZIE - MELDUNEK (slowo pana 09-15: 'przydalyby sie wiesci z pasa ogni na zachodzie'; ALARM 36 - luka GM: lancuch ognia Robetta (40, Kasa 3) nie mial stalej operacji meldunku): rozkaz Namiestnika do ROBETTA GLOVERA (kruk WF-Deepwood, pierwszy po pogodzie 09-16): (1) zaraz - stan kazdego punktu po burzy i zamieci (stoi / drewno suche / ludzie / czy w zamiec bylo widac sasiedni ogien); (2) odtad CO TYDZIEN karta lancucha ognia (krotko: punkty, proby, co widziano na morzu) krukiem z Deepwood. Wlasni - bez rzutu; wynik pierwszego meldunku (stan po zamieci) - rzut przy meldunku.",
+   "kto": "SYMON -> ROBETT GLOVER (straz lancucha) ; Deepwood (kruk)",
+   "kanal": "kruk WF-Deepwood 09-16",
+   "wraca": "300-09-19",
+   "zamyka": "pierwszy meldunek stanu lancucha po zamieci (rzut) + start karty tygodniowej",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

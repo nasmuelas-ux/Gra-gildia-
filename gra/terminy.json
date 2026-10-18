@@ -15292,9 +15292,9 @@
    "co": "REZIM INFORMACJI - OGLOSZENIE NA MALEJ RADZIE (~09-26) (slowo regenta 09-22; gra/mala_rada_korony.md): posiedzenia tajne dla wybranych; odpowiedzialnosc obecnych za rozejscie sie; ruchy wojsk tylko w waskim gronie. Beron - zapis w protokole i lista obecnych; Rodrik, Brynden - przy stole i na placu bez rozmow o ruchach. Reakcja czlonkow - przy Radzie (O).",
    "kto": "SYMON (regent) ; BERON ; RODRIK ; BRYNDEN",
    "kanal": "Mala Rada ~09-26; ustnie dzis Rodrik/Brynden",
-   "wraca": "300-09-26",
+   "wraca": "300-10-13",
    "zamyka": "ogloszone na Radzie, w protokole",
-   "status": "otwarte"
+   "status": "otwarte ### 09-26 SLOWO PANA (na Radzie): NIE OGLASZAC DZIS - 'zeby nikogo nie ploszyc' (kanarek w toku); przesuniete - termin do slowa pana (E: po wyniku kanarka ~10-13)."
   },
   {
    "data": "300-09-22",
@@ -15544,9 +15544,9 @@
    "co": "REZIM INFORMACJI - ROZSZERZENIE (slowo pana 09-25, rada Willi): poczta wojskowa i wywiadu POZA kancelaria Berona (wojskowa - kancelaria Namiestnika, pieczec pana; wywiad - kanal Willi); wojsko i wywiad nigdy otwartym tekstem krukiem w calym kraju; palic brudnopisy; szyfry co kwartal z reki do reki; jeden czlowiek - jeden kawalek. Ogloszenie na Malej Radzie 09-26 (razem z rezimem z 09-22). Wlasni - bez rzutu.",
    "kto": "SYMON ; MALA RADA ; HARMON (kancelaria Namiestnika)",
    "kanal": "Mala Rada WF",
-   "wraca": "300-09-26",
+   "wraca": "300-10-13",
    "zamyka": "ogloszone na Malej Radzie",
-   "status": "otwarte"
+   "status": "otwarte ### 09-26 SLOWO PANA (na Radzie): NIE OGLASZAC DZIS - 'zeby nikogo nie ploszyc' (kanarek w toku); przesuniete - termin do slowa pana (E: po wyniku kanarka ~10-13)."
   },
   {
    "data": "300-09-25",

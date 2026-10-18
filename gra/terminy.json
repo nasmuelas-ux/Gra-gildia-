@@ -15519,6 +15519,15 @@
    "kanal": "WF/ZM",
    "wraca": "300-10-10",
    "zamyka": "imie szefa Essos",
+   "status": "zamkniete 300-09-25 ### SLOWO PANA: ESSOS - PLACEMENT KOGOS Z POLNOCY (nie miejscowy). Nowa operacja nizej. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-25",
+   "co": "ESSOS - CZLOWIEK Z POLNOCY DO BRAAVOS (slowo pana 09-25): przykrywka - niezalezny kupiec z Polnocy (drewno/futra/bursztyn/ryba), NIE faktor Domu; zima - nauka braavoskiego i fachu (Ilario moze uczyc, nie wiedzac po co - O); wyplyniecie wiosna 301. Profil: mlody, piesmienny, liczy, zna jeden towar, bez dlugow, rodzina na Polnocy. Kandydaci - Willa ~10-10.",
+   "kto": "WILLA ; SYMON",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-10",
+   "zamyka": "kandydat wskazany; nauka od X",
    "status": "otwarte"
   }
  ],

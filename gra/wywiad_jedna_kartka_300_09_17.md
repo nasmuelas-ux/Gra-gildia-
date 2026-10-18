@@ -110,3 +110,11 @@
 6. **Pokazać, że to coś daje** – czasem, bez szczegółów: *„Twoja kartka z lata uratowała konwój.”* Wiara rośnie z wyniku, nie z przemowy.
 7. **Strachem nie.** *„Kto służy ze strachu, sprzeda was pierwszemu, kto przestraszy go bardziej.”*
 8. **Ufać i sprawdzać** – po to jest kontrwywiad. *„Lojalność trzeba podlewać i liczyć, jak zboże.”*
+
+### ⚑ SŁOWO PANA 09-25: **ESSOS – PLACEMENT KOGOŚ Z PÓŁNOCY** (nie miejscowy z Braavos)
+**WILLA (O):**
+- **Za:** nasz człowiek, nasza wiara, rodzina tutaj (kotwica).
+- **Przeciw:** obcy w Braavos jest widoczny; musi mówić po braavosku.
+- **Przykrywka naturalna:** kupiec z Północy w Braavos to codzienność – drewno, futra, bursztyn, solona ryba. **Niezależny handlarz, NIE faktor Domu** (rozdział).
+- **Czas:** zima na naukę języka i fachu; **wypłynięcie wiosną** (sztormy Wąskiego Morza, lód). Ilario może uczyć braavoskiego i pokazać miasto „z pamięci” – ale nie musi wiedzieć, po co (O).
+- **Profil:** młody, piśmienny, liczy, zna jeden towar z Północy, bez długów, z rodziną tutaj. Kandydaci – z listą ~10-10.

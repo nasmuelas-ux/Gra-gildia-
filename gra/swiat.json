@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 22,
+  "dzien": 23,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 26 (300-09-22): zle - mgla i marznaca mzawka od switu (E); kruki dopiero po poludniu; bruk sliski.",
- "dzien_tygodnia_nr": 1,
+ "pogoda": "RZUT 58 (300-09-23): przecietnie - pochmurno, sucho, chlodny wiatr z zachodu (E); kruki lataja.",
+ "dzien_tygodnia_nr": 2,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

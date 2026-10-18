@@ -13998,7 +13998,7 @@
    "kanal": "szyfr Domu, kruk 09-05",
    "wraca": "300-09-20",
    "zamyka": "meldunek Willi: gdzie wyplynela falszywa droga i czyja reka",
-   "status": "otwarte"
+   "status": "otwarte ### 09-16: pytanie do Willi, czy juz lezy (po napadzie na GP - test: falszywa droga Kamienny Brod/Wschodnia Straz vs prawdziwy GP)."
   },
   {
    "data": "300-09-04",
@@ -14781,7 +14781,7 @@
    "kanal": "kruk Domu WF-Fosa (szyfr) 09-16",
    "wraca": "300-10-01",
    "zamyka": "meldunek Willi (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-16 DOPISEK (rada Lucana, slowo pana): czy WEDKA (falszywa droga zboza, 09-05) juz lezy i komu ja podsunieto."
   },
   {
    "data": "300-09-16",
@@ -14799,6 +14799,24 @@
    "kanal": "kruk WF-Fosa 09-16 (szyfr)",
    "wraca": "300-09-23",
    "zamyka": "ceremonia odbyta, rodziny z opieka (zbiorczy)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "KANAREK W GORACYM PORCIE (slowo pana 09-16, rada Lucana): Hendry daje TRZY ROZNE rozklady ostatniej barki trzem kregom (barkarze / ludzie przy pomoscie / kupcy i przybysze; E) przy pierwszych statkach Reach w X; prawdziwy zna tylko Hendry i Warryn. Gdzie przyjdzie ruch albo gdzie wiesc wyplynie (GP, BP, Lys - przez Wille) - tam dziura. Na zewnatrz: 'piraci bez znakow', nie Lys. Szyfr Domu do Hendry'ego (tylko on). Wynik - RZUT przy pierwszym ruchu/wiesci.",
+   "kto": "HENDRY ; WARRYN ; WILLA (nasluch)",
+   "kanal": "kruk Domu WF-Fosa 09-16 (szyfr, do rak Hendry'ego)",
+   "wraca": "300-10-25",
+   "zamyka": "pierwszy wynik kanarka (rzut) albo okno zboza X zamkniete bez ruchu",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "THEON - JENIEC Z HARLAW I OPIS TRZECH LANGSKIPOW (slowo pana 09-16, rada Lucana): Theon pokazuje jencowi opis langskipow bez znakow z nocy 09-11/12 (trzy, ostatnia woda, ujscie GP) i patrzy na twarz; jeniec do konca IX w Dustinporcie. Odczyt Theona - RZUT przy pismie (z poprawka na dume).",
+   "kto": "SYMON -> THEON",
+   "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
+   "wraca": "300-09-25",
+   "zamyka": "pismo Theona o reakcji jenca (rzut)",
    "status": "otwarte"
   }
  ],

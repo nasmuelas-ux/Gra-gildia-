@@ -822,6 +822,24 @@
      "od": "300-10-01",
      "do": "301-04-30",
      "zrodlo": "SLOWO PANA 300-09-15: ~1,5 jelenia/mila/mies (E); placi sie za mile czysta"
+    },
+    {
+     "nazwa": "OPIEKA - WDOWA PO WYLU JODLE (GP 09-11/12): zold zbrojnego przez rok",
+     "typ": "koszt",
+     "stawka": 0.06,
+     "okres": "miesiac",
+     "od": "300-09-18",
+     "do": "301-09-17",
+     "zrodlo": "forma Gawena podpisana przez pana 300-09-17; 40 miedziakow/dzien x 30 = 1200 miedz. = 0,06 smoka/mies; dzieci do Korpusu, gdy podrosna"
+    },
+    {
+     "nazwa": "OPIEKA - MATKA HOBA KRZEMIENIA (GP 09-11/12): pol zoldu dozywotnio",
+     "typ": "koszt",
+     "stawka": 0.03,
+     "okres": "miesiac",
+     "od": "300-09-18",
+     "do": null,
+     "zrodlo": "forma Gawena podpisana przez pana 300-09-17; 20 miedziakow/dzien x 30 = 600 miedz. = 0,03 smoka/mies"
     }
    ],
    "nieznane": [

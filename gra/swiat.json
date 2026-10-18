@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 18,
+  "dzien": 19,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 72 (300-09-18): dobrze - po zamieci czysto i mroznie, slonce, wiatr ucichl (E); KRUKI LATAJA od switu; trakt odgarniany (garnizon), woz przejedzie do poludnia.",
- "dzien_tygodnia_nr": 4,
+ "pogoda": "RZUT 24 (300-09-19): zle - szaro, deszcz ze sniegiem i wiatr od zachodu od switu (E); KRUKI DOPIERO PO POLUDNIU (zasada 34); trakt mokry, bloto pod sniegiem.",
+ "dzien_tygodnia_nr": 5,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

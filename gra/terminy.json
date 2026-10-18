@@ -15610,6 +15610,24 @@
    "wraca": "300-09-30",
    "zamyka": "zadanie oddane na lekcji 21",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-26",
+   "co": "PAN DO HENDRY'EGO (szyfr Domu, reka pana): jak ocenia sytuacje na miejscu (Fosa / Goracy Port: piraci bez znakow, Lys, pomosty, ludzie, zapas, nastroje). Hendry czyta szyfr sam (klucz od 09-16). Kruk WF-Fosa po sniezycy 09-27 rano (2 dni) -> odpowiedz ~10-01. Wlasny czlowiek - bez rzutu na odpowiedz; tresc ze stanu na miejscu.",
+   "kto": "SYMON -> HENDRY",
+   "kanal": "kruk WF-Fosa, szyfr Domu",
+   "wraca": "300-10-01",
+   "zamyka": "ocena Hendry'ego na stole pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-26",
+   "co": "PAN DO DUSTINPORTU - DONNEL OBROK i TORREN SOLNY (szyfr Domu, reka pana): jak oceniaja sytuacje na miejscu (port, eskadra, zachodnie wody, Wyspy, zapas na zle tygodnie). Droga jak dotad: kruk WF-Fosa (09-27 rano), na Fosie odczyt i jezdziec do Dustinportu (~4 dni) -> na miejscu ~10-03; odpowiedz ta sama droga ~10-09. Wlasni - bez rzutu.",
+   "kto": "SYMON -> DONNEL ; TORREN",
+   "kanal": "kruk WF-Fosa (szyfr) + jezdziec",
+   "wraca": "300-10-09",
+   "zamyka": "dwie oceny (Donnel, Torren) na stole pana",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

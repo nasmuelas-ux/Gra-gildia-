@@ -51,3 +51,13 @@
 - **Pieniądz na start – z sakiewki pana**, nie z Domu (inaczej ślad wraca do Domu). Kupić istniejący mały interes taniej i ciszej niż zakładać nowy (E: ~10–20 smoków na teatr jednorazowo).
 - **Czas:** zakup i obsadzenie – miesiące, nie tygodnie; KP śpi do wiosny.
 - **⚠ Pytanie Willi:** *„Jeśli kontrwywiad raportuje do Zimowego Miasta, to raportuje do mnie – a mówiłam, że nie może być pode mną.”* Propozycja (O): kontrwywiad raportuje **wprost do pana**; w ZM tylko wspólna skrzynka na sprawy wspólne. **Do słowa pana.**
+
+### ⚑ PAN 09-25 (cd.): **Centrum operacyjne teatru = przedsiębiorstwo-przykrywka. Terenowi są od niego odizolowani.** (pyta Willę o zdanie)
+**WILLA (O):** zgoda – „czysty dom”.
+- W przykrywce siedzą **tylko analitycy i szef**; prowadzą zwykłe księgi interesu, a obraz w osobnej, małej księdze.
+- **Terenowy nigdy nie przychodzi do przykrywki jako swój.** Zna tylko **łącznika** (jednego człowieka) albo **skrytkę**; nie zna ani miejsca, ani analityków.
+- **Łącznik** zna terenowego i skrytkę, ale **nie wie, kto ją opróżnia**. Skrytki opróżnia ktoś z przykrywki przy zwykłej robocie (dostawa, zakupy).
+- **Znaki** zamiast spotkań: kreda na słupie, przestawiona beczka – „jest list”, „spal”, „uciekaj”.
+- **Cena:** więcej ludzi (łącznicy) i **wolniej** – meldunek z terenu do centrum o dzień-dwa dłużej; zimą jeszcze dłużej.
+- **Zysk:** jak terenowego złapią albo kupią, nie zaprowadzi do centrum. Spłonie jeden człowiek, nie teatr.
+- Jedno ostrzeżenie: *„Przykrywka, do której ludzie przychodzą gadać, jest dobra na słuchanie – ale wtedy terenowy może tam przyjść jako gość, nigdy jako swój. Jak raz poda tam kartkę, izolacja się skończyła.”*

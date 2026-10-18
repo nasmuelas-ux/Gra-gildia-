@@ -1560,6 +1560,13 @@
    "kwota": -12,
    "opis": "ZIMOWE UTRZYMANIE TRAKTOW - sprzet: wloki sniezne, lopaty, tyczki co 50 krokow (~305 mil) (E)",
    "zrodlo": "SLOWO PANA 300-09-15 - gra/zimowe_utrzymanie_traktow_300_09_15.md"
+  },
+  {
+   "data": "300-09-30",
+   "kasa": "KASA 2 - LENNO FOSY CAILIN",
+   "kwota": -5,
+   "opis": "GORACY PORT - zapora z pni i lin na noc w poprzek ujscia (do lancucha GP-2) + opal na ognie brzegowe (E)",
+   "zrodlo": "SLOWO PANA 300-09-16 (rada Rodrika)"
   }
  ],
  "_symulacje": {

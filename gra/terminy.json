@@ -14745,7 +14745,7 @@
    "kanal": "kruk WF-Fosa",
    "wraca": "300-09-17",
    "zamyka": "slowo pana w trzech sprawach",
-   "status": "otwarte"
+   "status": "otwarte ### 09-16: SLOWO PANA na strategie (5 rad Rodrika - osobne operacje); moneta z Lys - poszla do Willi razem z pytaniem o rozklad; ZOSTAJA do slowa pana: (1) odbudowa drugiej polowy pomostu czy ladunek z kotwicy; (2) rodziny 3 poleglych Jastrzebi (lenno). Rodziny 2 z WF - Korona (osobna operacja)."
   },
   {
    "data": "300-09-16",
@@ -14754,6 +14754,33 @@
    "kanal": "na miejscu",
    "wraca": "300-09-18",
    "zamyka": "rodziny odwiedzone, forma opieki na pismie i pierwsza wyplata",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "GORACY PORT - OBRONA UJSCIA PO NAPADZIE (slowo pana 09-16, wszystkie piec rad Rodrika/Bryndena): (1) noca nic na wodzie - ladunek tylko za dnia, barka przed zmrokiem w gore rzeki za zakret; (2) ZAPORA Z PNI I LIN na noc w poprzek ujscia (Harlon, ~tydzien, E ~5 smokow Kasa 2) do czasu lancucha GP-2 (~XI); (3) ognie na obu brzegach od zmroku + lodz wartownicza Jastrzebi z rogiem na ostatniej wodzie; (5) rozklad ladunkow tylko u Hendry'ego i Warryna, nie na pomoscie. Rozkaz pieczecia lorda do Garricka, Hendry'ego, Harlona (kruk WF-Fosa 09-16). Wlasni - bez rzutu.",
+   "kto": "GARRICK ; HENDRY ; HARLON ; KESSEL (Jastrzebie)",
+   "kanal": "kruk WF-Fosa 09-16 (szyfr Domu)",
+   "wraca": "300-09-23",
+   "zamyka": "zapora stoi, ognie i lodz wartownicza co noc (zbiorczy)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "TORREN - DWA OKRETY PRZY UJSCIU GORACEGO PORTU W OKNIE ZBOZA (slowo pana 09-16, rada Rodrika 4): z szesciu okretow Torrena dwa stoja przy GP od ~10-01 do konca dostaw Reach (X); reszta przy Dustinporcie. Rozkaz Namiestnika (Pierwszy Admiral). Wlasni - bez rzutu; czy zdazy przed X - meldunek Torrena.",
+   "kto": "SYMON -> TORREN (Dustinport)",
+   "kanal": "kruk WF-Fosa + jezdziec do Dustinportu",
+   "wraca": "300-09-30",
+   "zamyka": "dwa okrety przy ujsciu GP",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "WILLA - KTO ZNAL ROZKLAD LADUNKU W GP (slowo pana 09-16, rada Rodrika 5): napad 09-11/12 'na ostatnia barke' - kto wiedzial, kiedy laduje sie ostatnia barka (pomost, barkarze, kupcy, przybysze w GP); kapitanowie z Lys w BP pytali o pomost (VIII); moneta lysenska przy trupie. Po cichu, bez imienia Domu; szyfr Lucana. Wynik - RZUT przy meldunku.",
+   "kto": "LUCAN -> WILLA",
+   "kanal": "kruk Domu WF-Fosa (szyfr) 09-16",
+   "wraca": "300-10-01",
+   "zamyka": "meldunek Willi (rzut)",
    "status": "otwarte"
   }
  ],

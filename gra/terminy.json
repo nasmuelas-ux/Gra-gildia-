@@ -14617,8 +14617,17 @@
    "co": "SZEF BEZPIECZENSTWA DOMU TALLY (slowo pana 09-13: 'zatrudniam szefa bezpieczenstwa Domu - on bedzie zarzadzal jego bezpieczenstwem'): nowy urzad Domu (Kasa 1), pod panem; zakres: kantory i placowki (BP, Braavos, Pentos, Seagard...), ladunki i skarbczyki, ludzie Domu, ochrona przed trucizna/kradzieza/podstepem (Lys); wspolpraca: STEN (przyboczna - osoba pana i rodu), WILLA (wywiad - firewall: szef dostaje od niej tylko ostrzezenia), HAL (kantor). Sam najmuje ludzi lokalnie wedlug potrzeby, w budzecie. KANDYDACI (Sten, E): (1) Gerold Popiol, (2) Torvald Siwek - b. sierzant strazy portu BP, (3) Ysilla z Braavos - b. strazniczka skarbca domu Prestayn (przez Neste). Wybor - slowo pana; zgoda kandydata - RZUT przy rozmowie/liscie.",
    "kto": "SYMON ; STEN (kandydaci)",
    "kanal": "WF",
-   "wraca": "300-09-16",
-   "zamyka": "kandydat wybrany i zgoda (rzut)",
+   "wraca": "300-10-05",
+   "zamyka": "sprawdzenie Willi (rzut) -> oferta Hala -> zgoda Torvalda (rzut)",
+   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana."
+  },
+  {
+   "data": "300-09-13",
+   "co": "WILLA - SPRAWDZIC TORVALDA SIWKA (slowo pana 09-13, przed zatrudnieniem na szefa bezpieczenstwa Domu): b. sierzant strazy portu BP (E, ~45, 20 lat na nabrzezu) - z kim pije, komu winien, czy bral od przemytnikow / od kantoru lysenskiego przy Rybnej, jak odszedl ze strazy, co o nim mowia ludzie Wymana. Po cichu, bez imienia Domu. Szyfr Lucana, kruk Domu po pogodzie. Wynik - RZUT przy meldunku.",
+   "kto": "LUCAN -> WILLA (siatka BP)",
+   "kanal": "kruk Domu WF-Fosa (szyfr), po pogodzie",
+   "wraca": "300-09-25",
+   "zamyka": "meldunek Willi o Torvaldzie (rzut)",
    "status": "otwarte"
   }
  ],

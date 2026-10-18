@@ -2133,7 +2133,40 @@
    }
   ],
   "sakiewka_pana_koszty_stale": [
-   "od 300-10-01 (slowo pana 09-17): WYWIAD CALY Z SAKIEWKI PANA - Dom bez linii wywiadu ('w kasie domu zostaje wiecej'). Skladniki (E): WILLA - wynagrodzenie DORADCY PANA ~1-2 smoki/mies (obok pensji Domu jako kanclerz-archiwista); SIEC/TEATRY ~4-8/mies (z reki pana do Willi); KONTRWYWIAD ~2-4/mies + sprawy osobno. Razem ~7-14/mies. Kwoty ostateczne po rozmowie z Willa (~09-25)."
+   "od 300-10-01 (slowo pana 09-17): WYWIAD CALY Z SAKIEWKI PANA - Dom bez linii wywiadu ('w kasie domu zostaje wiecej'). Skladniki (E): WILLA - wynagrodzenie DORADCY PANA ~1-2 smoki/mies (obok pensji Domu jako kanclerz-archiwista); SIEC/TEATRY ~4-8/mies (z reki pana do Willi); KONTRWYWIAD ~2-4/mies + sprawy osobno. Razem ~7-14/mies. Kwoty ostateczne po rozmowie z Willa (~09-25).",
+   "od 300-10-01 (ZATWIERDZONE przez pana 300-09-25, po rozmowie z Willa; gra/wywiad_jedna_kartka_300_09_17.md, KWOTY): WYWIAD ~10-18 smokow/mies (E) - doradca Willa 1-2, szefowie teatrow i analitycy 4-7, uszy i lacznicy 2-4, kontrwywiad 2-4, kasa dla rodzin spalonych ~1. ZASTEPUJE ~7-14 z 09-17."
+  ],
+  "sakiewka_pana_planowane": [
+   {
+    "data": "300-10-15",
+    "kwota": -15,
+    "opis": "WYWIAD - centrala ZM (kopista-introligator) + golebnik (E)",
+    "zrodlo": "slowo pana 300-09-25"
+   },
+   {
+    "data": "300-10-20",
+    "kwota": -20,
+    "opis": "WYWIAD - Essos: czlowiek z BP (przejazd, kapital na towar, izba w Braavos) (E)",
+    "zrodlo": "slowo pana 300-09-25"
+   },
+   {
+    "data": "300-11-10",
+    "kwota": -15,
+    "opis": "WYWIAD - centrum teatru Zachod i Pyke (Seagard) (E)",
+    "zrodlo": "slowo pana 300-09-25"
+   },
+   {
+    "data": "300-11-20",
+    "kwota": -10,
+    "opis": "WYWIAD - centrum teatru Polnoc (Fosa) + golebnik (E)",
+    "zrodlo": "slowo pana 300-09-25"
+   },
+   {
+    "data": "301-04-01",
+    "kwota": -30,
+    "opis": "WYWIAD - centra Poludnie i Krolewska Przystan (E, wiosna)",
+    "zrodlo": "slowo pana 300-09-25"
+   }
   ]
  },
  "_synergia_sieci": {

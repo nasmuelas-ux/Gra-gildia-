@@ -151,3 +151,4 @@
 - Willa jako doradca ~1–2 · szefowie teatrów i analitycy ~4–7 · uszy (opłaceni ludzie za ladą) i łącznicy ~2–4 · kontrwywiad ~2–4 · **kasa „dla rodzin spalonych” ~1** (odkłada się co miesiąc) → **~10–18/mies.**
 - *„Przykrywki mają zarabiać – za rok część tego wróci. W pierwszym roku nie liczcie na to.”*
 **Do słowa pana:** zatwierdzenie (jednorazowo ~60 w tym roku, ~10–18/mies).
+**⚑ SŁOWO PANA 09-25: KWOTY ZATWIERDZONE** – jednorazowo ~60 w tym roku (+~30 wiosną 301), ~10–18/mies od 10-01, z sakiewki pana (ekonomia.json: `_finanse_rodziny`).

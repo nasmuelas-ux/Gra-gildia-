@@ -34,3 +34,9 @@
 **Czego nie wolno (zeby kanarek nie zabrudzil sie innym):**
 - Czysty odpis NIE idzie przez kruczarnie (tam siedzi wariant A). Do slowa pana: (a) pan zatrzymuje zapieczetowane pismo "do kuriera" i ono nigdzie nie jedzie, albo (b) jedzie kurierem Willi i Torsen dowiaduje sie ta sama droga, ze to falsz (jak Hal).
 - Beron nie wie, ze to przyneta (O) - inaczej kanarek nie sprawdza samego Berona.
+
+---
+## WARIANT D – ZASIANY 300-09-26 (Mała Rada, pełny skład, przy postanowieniu o spichlerzu)
+- **Słyszeli:** Gawen, Edric Pług, Luwin, lady Catelyn, Orland; **Beron zapisał do protokołu** (protokół idzie zwykłą drogą kancelarii – O: wtedy krąg D obejmuje też pisarzy przepisujących protokół).
+- **Treść:** srebro schodzi na wodę przy Rybnej **noc 10-10**, skład kantoru **„pod Białą Wieżą”**; na pytanie Gawena (*„z której skrzyni? w księdze Skarbu nie ma rozchodu”*) pan: **„To srebro z DEPOZYTU KRÓLA, nie ze Skarbu.”** – szczegół, którego nie ma w A, B ani C.
+- Reżim informacji **nie ogłoszony** (żeby nie płoszyć) – przesunięty po wyniku (~10-13).

@@ -2,13 +2,13 @@
  "data": {
   "rok": 300,
   "miesiac": 9,
-  "dzien": 20,
+  "dzien": 21,
   "era": "AC"
  },
- "pora": "wieczor",
+ "pora": "ranek",
  "sezon": "zima (300)",
- "pogoda": "RZUT 45 (300-09-20): przecietnie - pochmurno, mroz, bez opadu (E); kruki lataja; trakt przejezdny, bloto zamarzniete.",
- "dzien_tygodnia_nr": 6,
+ "pogoda": "RZUT 41 (300-09-21): przecietnie - pochmurno, wiatr od wschodu, mroz (E); kruki lataja.",
+ "dzien_tygodnia_nr": 7,
  "dzien_targowy": false,
  "_dziennik_nastroje_miasta": 7,
  "ceny": {

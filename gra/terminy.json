@@ -13897,9 +13897,9 @@
    "co": "DAR - ZYTO OZIME DLA OSRICA (slowo pana 09-03): 40 korcy zyta ze Spichrzy Krola WF, woz Traktem Krolewskim (~12 dni), siew pod koniec IX; odpis z zapasu Korony (-2400 ZR). Gawen + Orland; list do Osrica (Beron).",
    "kto": "GAWEN + ORLAND ; BERON (list) ; OSRIC",
    "kanal": "woz Trakt Krolewski; kruk do Osrica",
-   "wraca": "300-09-21",
+   "wraca": "300-09-26",
    "zamyka": "ziarno u Osrica na Darze",
-   "status": "otwarte ### 09-16: woz Traktem Krolewskim na polnoc stal w zamieci (E: przy Ostatnim Domostwie? - nie wiadomo); dojazd ~09-20; odpowiedz Osrica - RZUT przy wiesci."
+   "status": "otwarte ### 09-16: woz Traktem Krolewskim na polnoc stal w zamieci (E: przy Ostatnim Domostwie? - nie wiadomo); dojazd ~09-20; odpowiedz Osrica - RZUT przy wiesci. ### 09-21 (Clydas): woz z zytem dojechal na Czarny Zamek 09-19; list Osrica osobno ~09-26 (RZUT)."
   },
   {
    "data": "300-09-03",
@@ -14295,7 +14295,7 @@
    "kanal": "kruk WF-BP 09-09",
    "wraca": "300-09-21",
    "zamyka": "odpowiedz Wymana (rada)",
-   "status": "otwarte ### 300-09-20 TRIAZ: Wyman odpowie razem z listem o Skagos ~09-21."
+   "status": "zamkniete 300-09-21 ### RZUT 39: cech wolny; Glebokorzen bierze tylko zwolnionych na pismie przez mistrza + odstepne (~1 jel/tydz.) albo wiosna ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: Wyman odpowie razem z listem o Skagos ~09-21."
   },
   {
    "data": "300-09-09",
@@ -14430,7 +14430,7 @@
    "kanal": "kruk Domu WF-BP 09-10",
    "wraca": "300-09-21",
    "zamyka": "zgoda/odmowa Wymana; pierwsze zgloszenia",
-   "status": "otwarte ### 300-09-20 TRIAZ: Hal - zgoda Wymana razem z jego listem ~09-21."
+   "status": "zamkniete 300-09-21 ### RZUT 9: Wyman ODMAWIA - lodmani nie na zoldzie kupca; kto pyta o Goraczke, wie urzad portowy ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: Hal - zgoda Wymana razem z jego listem ~09-21."
   },
   {
    "data": "300-09-10",
@@ -14682,7 +14682,7 @@
    "kanal": "kruk WF-Czarny Zamek 09-15",
    "wraca": "300-09-21",
    "zamyka": "wiesc doszla (cykl AEMON_STAN)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-21 ### wiesc doszla; Aemon: 'Niech przyjedzie, kiedy moze. Ja poczekam.' (cykl 09-21, rzut 80) ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-14",
@@ -14952,7 +14952,7 @@
    "kanal": "kruk WF-BP (wieza Luwina) 09-18 rano",
    "wraca": "300-09-21",
    "zamyka": "odpowiedz Wymana (rzut)",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-21 ### RZUT 13 (poczta_300_09_21.md A): Biala Mewa 09-16; napad na oboz ~09-03 odparty, Krol caly; ~09-06 Krol z ~80 w glab wyspy; ~09-08 sztorm, flota rozproszona, 2 okrety ku skalom; los Krola po 09-06 nieznany; Wyman - 4 galery gotowe na slowo regenta ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-18",
@@ -15168,6 +15168,24 @@
    "kanal": "kruk WF-BP 09-21 rano",
    "wraca": "300-09-21",
    "zamyka": "kruk wyslany (potem - wiesc ze zwiadu)",
+   "status": "zamkniete 300-09-21 ### kruk WF-BP o swicie 09-21 do Wymana, z dopiskiem regenta ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-21",
+   "co": "⚠ SKAGOS - SPUST Z AKTU REGENCJI: napasc Skagosow na oboz Krola ~09-03 (Wyman, Biala Mewa). Akt: regent wysyla odsiecz bez czekania (okrety Wymana - 4 galery gotowe; Karstark, Umber). Plan Rodrika (gra/plan_odsieczy_skagos_300_09_20.md), dowodca Brynden. Zwiad juz w drodze (09-20). DO SLOWA REGENTA - DZIS.",
+   "kto": "SYMON (regent) ; RODRIK ; BRYNDEN ; WYMAN ; KARSTARK ; UMBER",
+   "kanal": "WF; kruki BP, Karhold, Ostatnie Domostwo",
+   "wraca": "300-09-21",
+   "zamyka": "slowo regenta: odsiecz tak/nie/w jakim ksztalcie",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-21",
+   "co": "STRESZCZENIE DLA LADY CATELYN (cykl tygodniowy) - dzis z wiescia Wymana o Skagos; wg aktu Catelyn jest w radzie regencyjnej na wypadek, gdyby Krol nie wrocil.",
+   "kto": "SYMON -> CATELYN",
+   "kanal": "osobiscie",
+   "wraca": "300-09-21",
+   "zamyka": "powiedziane",
    "status": "otwarte"
   }
  ],
@@ -15354,7 +15372,7 @@
     "start": "300-05-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-14",
+   "ostatnio_odebrane": "300-09-21",
    "zrodlo": "terminy (AEMON CHORY)",
    "rzut": "tak - stan zdrowia (sprawa zewnetrzna)"
   },
@@ -15469,7 +15487,7 @@
     "start": "300-08-23"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-07",
+   "ostatnio_odebrane": "300-09-21",
    "zrodlo": "poczta_300_08_13_seagard_flint.md",
    "uwaga_0822": "slowo pana 08-22: pisac rzadziej - co 14 dni, przy ruchu od razu (ludzie Mallistera pytaja o kruki, rzut 18)"
   },

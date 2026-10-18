@@ -152,3 +152,19 @@
 - *„Przykrywki mają zarabiać – za rok część tego wróci. W pierwszym roku nie liczcie na to.”*
 **Do słowa pana:** zatwierdzenie (jednorazowo ~60 w tym roku, ~10–18/mies).
 **⚑ SŁOWO PANA 09-25: KWOTY ZATWIERDZONE** – jednorazowo ~60 w tym roku (+~30 wiosną 301), ~10–18/mies od 10-01, z sakiewki pana (ekonomia.json: `_finanse_rodziny`).
+
+### PRZECIEKI I OSTROŻNOŚĆ – WILLA (O), 09-25 (pan pyta)
+**Gdzie, jak widzi (odczyt, nie dowód):**
+- **GP** – napad w pierwszą noc bez galery, kilka godzin po słowie Hendry'ego do eskorty. *„To przeciek na miejscu, nie z Winterfell – Winterfell nie zdążyłby.”* Merel szuka w eskorcie i na pomoście.
+- **Winterfell** – nie wie; odpowie kanarek (10-03..10-11) i tablica.
+**Wąskie gardła (każde to jeden człowiek albo jedno miejsce, przez które idzie wszystko):**
+1. **Kruczarnia** – w sprawdzeniu Rodrika (~09-30).
+2. **Beron** – jako jedyny widzi całą pocztę Korony. *„Nie mówię, że kłamie. Mówię, że jeśli ktoś go kupi albo zastraszy, macie wszystko w jednej ręce.”* Propozycja: pocztę wojskową i wywiadu – **poza kancelarią Berona**.
+3. **Wasz pisarz otwiera wasze listy od 09-11** (Aldwin). *„Jeden człowiek widzi wszystko, co do was przychodzi. To samo co z Beronem.”* (Willa nie wie, kim Aldwin jest naprawdę.)
+4. **Wasz stół** – *„Przy wysokim stole mówi się za dużo. Podczaszy słyszy wszystko.”* (wariant B kanarka to sprawdza.)
+**Środki, od teraz (propozycje, do słowa pana):**
+- **Brudnopisy palić**, nie wyrzucać; nic ważnego na woskowej tabliczce na noc.
+- **Jeden człowiek – jeden kawałek**: nikt poza panem nie zna całej sprawy.
+- **Szyfry zmieniać co kwartał**; nowy klucz zawsze z ręki do ręki.
+- **Wojsko i wywiad nigdy krukiem otwartym tekstem** (na Fosie już tak – rozszerzyć na wszystko).
+- **Przy każdym wycieku – pytać „kto wiedział”, nie „kto zdradził”.** Tablica, nie podejrzenie.

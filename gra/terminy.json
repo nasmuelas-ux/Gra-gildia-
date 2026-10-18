@@ -14889,7 +14889,7 @@
    "kanal": "Krol po powrocie z morza (data nieznana)",
    "wraca": "300-09-20",
    "zamyka": "pan wybral droge (Krol / inne zrodla) albo odstapil",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-16 ### slowo pana: Namiestnik sprawdza Rade sam, wlasnymi kanalami (nowa operacja) ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-16",
@@ -14898,6 +14898,15 @@
    "kanal": "szyfr Lucana kruk Domu WF-Fosa (dzis wieczor)",
    "wraca": "300-10-01",
    "zamyka": "meldunek Fosy (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-16",
+   "co": "SPRAWDZENIE MALEJ RADY - KANALAMI NAMIESTNIKA (slowo pana 09-16: 'jestem namiestnikiem, moge'): PO CICHU, TYLKO OBSERWACJA, BEZ lady Catelyn i maestera Luwina. Cele: GAWEN (Skarbnik), EDRIC PLUG (Zarzadca Domeny), BERON (kancelaria Korony, protokol Rady) - (O: Beron dopisany jako protokolant, do poprawki). Wykonawcy (O, do poprawki): kontrwywiad (papiery i obieg kancelarii) + Lucan (kto z kim w ZM). Wynik - RZUT przy meldunku.",
+   "kto": "SYMON ; kontrwywiad ; LUCAN",
+   "kanal": "wlasne, ustnie",
+   "wraca": "300-10-01",
+   "zamyka": "meldunek (rzut)",
    "status": "otwarte"
   }
  ],

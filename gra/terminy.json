@@ -15222,7 +15222,7 @@
    "kanal": "WF/ZM",
    "wraca": "300-09-28",
    "zamyka": "rozdanie 09-28, spisani obsluzeni",
-   "status": "otwarte ### 09-21 SLOWO PANA: w niedziele 09-28 z wozami jada SANSA i ARYA z ser Rodrikiem, pod wilkiem Starkow - bez Namiestnika. Lady Catelyn - zawiadomic (zgoda matki). Odbior ludzi - RZUT 09-28. ### 09-27 SLOWO PANA (sniadanie, pytanie Sansy): jedzie tez KROLOWA ROSLIN (z eskorta: strazniczka + 5 ludzi Starkow)."
+   "status": "zamkniete 300-09-28 ### ROZDANIE ODBYTE (rzut 71, prog 35 - DOBRZE): trzy wozy na placu ZM; po sniezycy kolejka do konca ulicy (E); obsluzonych ~170 domow (E, spis pisarza Skarbu); chrustu starczylo do poludnia - ostatnim kilkunastu Rodrik obiecal drugi woz w czwartek (E). Arya rzucala wiazki z wozu, Sansa podawala i pytala o imiona; Roslin przy liscie - wdowa po Wylu przyszla z sasiadkami; Torm z Ostoi przy wozie (E): 'Smola pojedzie w X.' Ludzie mowili o 'wilczycach przy wozie'. ### POPRZEDNIO: byl-otw ### 09-21 SLOWO PANA: w niedziele 09-28 z wozami jada SANSA i ARYA z ser Rodrikiem, pod wilkiem Starkow - bez Namiestnika. Lady Catelyn - zawiadomic (zgoda matki). Odbior ludzi - RZUT 09-28. ### 09-27 SLOWO PANA (sniadanie, pytanie Sansy): jedzie tez KROLOWA ROSLIN (z eskorta: strazniczka + 5 ludzi Starkow)."
   },
   {
    "data": "300-09-22",
@@ -15654,6 +15654,15 @@
    "kanal": "WF",
    "wraca": "300-10-01",
    "zamyka": "slowo pana",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-28",
+   "co": "CHRUST - DRUGI WOZ W ZM (obietnica Rodrika na placu 09-28, ~czwartek 10-02): dla tych, ktorym zabraklo; potem rytm co tydzien przez zime - do slowa pana. Wlasni - bez rzutu.",
+   "kto": "SER RODRIK ; GAWEN (wozy) ; EDRIC (zbior)",
+   "kanal": "WF/ZM",
+   "wraca": "300-10-02",
+   "zamyka": "drugi woz rozdany; rytm zimowy ustalony",
    "status": "otwarte"
   }
  ],

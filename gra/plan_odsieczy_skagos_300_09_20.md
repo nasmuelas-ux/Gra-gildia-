@@ -40,3 +40,7 @@
 ### DO SŁOWA REGENTA
 1. Dowódca odsieczy: **Brynden**?
 2. Uprzedzić po cichu Karstarka i Umbera o planie (bez spustu), czy trzymać go w szufladzie do wieści?
+
+### ⚑ SŁOWO REGENTA 300-09-20
+1. **Dowódca odsieczy: BRYNDEN TULLY.** Rodrik mówi mu to dziś.
+2. **Karstarka i Umbera nie uprzedzamy.** Plan leży w szufladzie do wieści.

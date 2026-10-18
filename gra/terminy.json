@@ -14848,12 +14848,12 @@
   },
   {
    "data": "300-09-16",
-   "co": "SZEFOWIE TEATROW - WYBOR PANA Z WILLA (slowo pana 09-16; gra/siatka_reorganizacja_300_09_16.md): POLUDNIE (Ashford), KP (Rozdroze), PYKE I ZACHOD (Seagard), ESSOS (Braavos - zna braavoski, cos panu zawdziecza). Polnoc - Willa wyznacza sama juz teraz.",
+   "co": "ROZMOWA PANA Z WILLA O KSZTALCIE WYWIADU (~09-25, po jej przyjezdzie; gra/wywiad_jedna_kartka_300_09_17.md): teatry i ich szefowie, przykrywka Willi w ZM, ludzie w placowkach Domu, lacznosc (szyfr/kruki Domu), zacieranie sladow. Zasada pana 09-17: brak oficjalnej komorki, brak powiazania z Domem.",
    "kto": "SYMON ; WILLA",
    "kanal": "osobiscie w ZM po przyjezdzie Willi",
    "wraca": "300-09-25",
-   "zamyka": "czterej szefowie teatrow wskazani; szyfry do placowek",
-   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25)"
+   "zamyka": "ksztalt ustalony slowem pana po rozmowie z Willa",
+   "status": "otwarte ### czeka na przyjazd Willi do ZM (~09-25) ### 09-17 SLOWO PANA: zatrzec slady powiazania z Domem, brak oficjalnej komorki - ksztalt do rozmowy z Willa; finanse z sakiewki pana (Kasa 1 bez linii wywiadu)."
   },
   {
    "data": "300-09-16",

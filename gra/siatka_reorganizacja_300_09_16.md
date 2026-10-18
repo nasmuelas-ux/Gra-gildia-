@@ -1,3 +1,5 @@
+> ⚠ **ZASTĄPIONE 300-09-17** przez `wywiad_jedna_kartka_300_09_17.md`. Ten plik to historia rozmów.
+
 # SIATKA DOMU: NOWY PODZIAŁ (słowo pana 300-09-16, układane z Lucanem w jego izbach, popołudnie)
 *Pan: „Czas to dokładnie podzielić.” Sieć jest prywatnym aparatem pana (Kasa 1, poziom 3, firewall). Własni ludzie, więc **bez rzutu na ustanowienie**. Werbunek nowych ludzi i zgoda kandydatów to **rzuty przy meldunkach**. Nazwiska nowych to E z mocą zapisu. Słowa Lucana to O.*
 

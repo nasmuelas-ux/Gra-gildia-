@@ -296,16 +296,6 @@
      "do": "300-06-30",
      "zrodlo": "ROZSTRZYGNIECIE GRACZA 300-04-26 (polecenie do GM przy liscie do Hala): stare bilanse nieaktualne, dodac pozycje dotad nieuwzgledniane. Zapis 300-03-18: ~650 z 695 zwrotu Korony w towarze = kapital wiosenny; marza Hala 12-18 proc. -> 78-117 ponad sam zwrot, rozlozone na IV-VI. Rubryka osobna, obok wyniku standardowego (prosba pana 300-04-23). ZDARZENIE SPECJALNE - poza korekta skali, zeby nie liczyc dwa razy.",
      "bez_skali": true
-    },
-    {
-     "nazwa": "WYWIAD - PIEC TEATROW (szefowie + placa podwyzszona; slowo pana 09-16)",
-     "typ": "koszt",
-     "min": 4,
-     "max": 8,
-     "okres": "miesiac",
-     "od": "300-10-01",
-     "do": null,
-     "zrodlo": "SLOWO PANA 300-09-16 (wersja ostateczna): piec teatrow z budzetow placowek, 'placimy wywiadowi duzo wiecej'; zastepuje +1/4 i archiwistow ~2/mies (E: 4-8/mies); kwota bazowa siatki w ksiedze Willi - nie w modelu ### 09-16 slowo pana: teatry biedne zima (Rozdroze, Fosa) doplaca KASA CENTRALNA Domu - w tej pozycji"
     }
    ],
    "nieznane": [
@@ -2020,7 +2010,7 @@
    }
   ],
   "sakiewka_pana_koszty_stale": [
-   "od 300-10-01: KONTRWYWIAD (szef w ZM) - E ~2-4 smoki/mies z sakiewki pana + sprawy osobno (slowo pana 09-16); pobierac przy kazdej wyplacie Domu do sakiewki"
+   "od 300-10-01: WYWIAD CALY (siec Willi + kontrwywiad) - E ~6-12 smokow/mies z SAKIEWKI PANA, z reki do reki do Willi; BEZ linii w ksiegach Domu (slowo pana 09-17: zatrzec slady powiazania z Domem). Pobierac przy kazdej wyplacie Domu do sakiewki. Kwota ostateczna po rozmowie z Willa (~09-25)."
   ]
  },
  "_synergia_sieci": {

@@ -136,3 +136,18 @@
 - **Lokalnie:** skrytki i znaki (jak w izolacji terenowych).
 **Do słowa pana:** własny klucz wywiadu? · gołębie wywiadu przy przykrywkach? · kto trzyma klucze?
 **⚑ SŁOWO PANA 09-25 (łączność):** (1) **własny klucz wywiadu TAK; kontrwywiad – osobny klucz do pana**; (2) **gołębniki wywiadu przy przykrywkach TAK** (ZM, Fosa, BP; zima – kurier); (3) **klucze: Willa i szefowie teatrów – TAK.** **Raz jeszcze, twardo: szefowie teatrów NIE działają w terenie. Jak agent spłonie – płonie agent, nie placówka operacyjna.**
+
+### KWOTY – WILLA (O, liczby E), 09-25 – z sakiewki pana
+**Jednorazowo (zakup centrów + gołębniki + start):**
+| co | kiedy | ~smoki |
+|---|---|---|
+| centrala ZM (kopista-introligator) + gołębnik | X | ~15 |
+| Zachód i Pyke – centrum (Seagard) | X–XI | ~15 |
+| Essos – człowiek z BP: przejazd, kapitał na towar, izba w Braavos | X | ~20 |
+| Północ – centrum (Fosa) + gołębnik | XI | ~10 |
+| **razem w tym roku** | | **~60** |
+| Południe i KP – centra | wiosna 301 | ~30 |
+**Miesięcznie (od 10-01; zastępuje ~7–14 z 09-17):**
+- Willa jako doradca ~1–2 · szefowie teatrów i analitycy ~4–7 · uszy (opłaceni ludzie za ladą) i łącznicy ~2–4 · kontrwywiad ~2–4 · **kasa „dla rodzin spalonych” ~1** (odkłada się co miesiąc) → **~10–18/mies.**
+- *„Przykrywki mają zarabiać – za rok część tego wróci. W pierwszym roku nie liczcie na to.”*
+**Do słowa pana:** zatwierdzenie (jednorazowo ~60 w tym roku, ~10–18/mies).

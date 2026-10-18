@@ -127,3 +127,11 @@
 - **Zasada:** jeśli wywiad ma człowieka w Domu, to **jego przełożony w Domu o tym nie wie**; wie tylko prowadzący.
 **Do słowa pana:** Deron – zamrozić? · archiwiści – skreślić? · Lyman/Obaro – tylko księgi?
 **⚑ SŁOWO PANA 09-25:** (1) **DERON – ZAMROŻONY CAŁKIEM** (bez względu na wynik sprawdzenia Lucana; wraca tylko do gospody, żadnych zleceń wywiadu). (2) **Archiwiści-kancelaryści – SKREŚLENI.** (3) **Lyman i Obaro – tylko źródło ksiąg** (Willa czyta z urzędu w Domu).
+
+### ŁĄCZNOŚĆ – WILLA (O), 09-25
+- **Własny szyfr wywiadu, NIE klucz Domu.** Klucz Domu zna Lucan (w sprawdzeniu), Harrol Lut, Hal, pan. Nowy klucz: Willa + szefowie teatrów; **kontrwywiad – osobny klucz do pana.**
+- **Kruki:** treść szyfrem bezpieczna, ale **ruch widać** – kto komu ile ptaków, krucznik liczy. Kruki Domu – nie (ślad do Domu); kruki Korony (nowa sieć Ulli Kory) – też nie (ślad do Korony).
+- **Gołębie (pomysł pana z obiadu) – dla wywiadu najlepsze na krótko:** gołębnik w centrali ZM i w centrach teatrów, wymiana ptaków ZM ↔ Fosa ↔ BP. Gołębnik przy kopiście czy kupcu nikogo nie dziwi. Zima – słabiej, wtedy kurier.
+- **Daleko (Essos, KP):** statek i kupiec, list w towarze, nie kruk.
+- **Lokalnie:** skrytki i znaki (jak w izolacji terenowych).
+**Do słowa pana:** własny klucz wywiadu? · gołębie wywiadu przy przykrywkach? · kto trzyma klucze?

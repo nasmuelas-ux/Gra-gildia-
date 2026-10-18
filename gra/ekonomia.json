@@ -1592,6 +1592,27 @@
    "kwota": -4,
    "opis": "GORACY PORT - barka lenna spalona w napadzie noca 09-11/12 (E ~4 smoki; raport rady 09-15)",
    "zrodlo": "raport rady lenna 300-09-15 + rozstrzygniecie Gawena 300-09-18 (barka - strata lenna)"
+  },
+  {
+   "data": "300-09-18",
+   "kasa": "KASA 1 - DOM HANDLOWY TALLY",
+   "kwota": -3,
+   "opis": "KSIAZKI Z BRAAVOS (Nesta): Kronika Uwolnienia, poezja braavoska, fragmenty poezji valyrianskiej (E)",
+   "zrodlo": "poczta_300_09_18.md D"
+  },
+  {
+   "data": "300-09-18",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -2,
+   "opis": "STATEK POSELSTWA KOSCI - zadatek za trzymanie Morskiej Klaczy do 10-10 (E)",
+   "zrodlo": "poczta_300_09_18.md L"
+  },
+  {
+   "data": "300-10-05",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -15,
+   "opis": "SMOCZE SZKLO - przewoz drugiego ladunku kadlubem Wymana Smocza Skala - Mur (E)",
+   "zrodlo": "poczta_300_09_18.md B"
   }
  ],
  "_symulacje": {

@@ -15268,6 +15268,15 @@
    "wraca": "300-09-25",
    "zamyka": "odpowiedz Wymana (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-22",
+   "co": "TEST UBYTKU NA DREADFORCIE (rada Lucana 07-11; slowo pana 09-22: 'zrobic test'): Willa liczy 'ubytek' (zaginieni ludzie) na ziemiach Dreadfortu OSOBNO: przed wyprawa (do ~08-12), w czasie nieobecnosci Ramsaya (od ~08-14 do powrotu), po powrocie. Jesli ubytek ustal, kiedy go nie ma - odpowiedz bez swiadka. Zlecenie ustnie Willi po przyjezdzie (~09-25); wynik - RZUT przy meldunku.",
+   "kto": "SYMON -> WILLA (siatka)",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-15",
+   "zamyka": "meldunek Willi: ubytek przed / w czasie / po (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -14700,7 +14700,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-19",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 09-16 SLOWO PANA: temat - OPIS MIASTA; plan gra/braavoski_lekcja_18_plan_300_09_16.md (scenka 'Dwie przewodniczki, jedna trasa' - Braavos od Tytana do palacu; 16 slow; zadanie na 19: trzy zdania o Winterfell dla Nesty). ### 09-17 SLOWO PANA (prosba Sansy): lekcje zaczyna ARYA przy tablicy."
+   "status": "zamkniete 300-09-19 ### lekcja odbyta w solarze Catelyn (rzut 7, prog 20 - ZLE) ### POPRZEDNIO: byl-otw ### 09-16 SLOWO PANA: temat - OPIS MIASTA; plan gra/braavoski_lekcja_18_plan_300_09_16.md (scenka 'Dwie przewodniczki, jedna trasa' - Braavos od Tytana do palacu; 16 slow; zadanie na 19: trzy zdania o Winterfell dla Nesty). ### 09-17 SLOWO PANA (prosba Sansy): lekcje zaczyna ARYA przy tablicy."
   },
   {
    "data": "300-09-15",
@@ -15069,6 +15069,15 @@
    "kanal": "kruk Domu WF-BP 09-19 + paczka BP-Mewi Grod (18 dni tam, ~40 lacznie)",
    "wraca": "300-10-28",
    "zamyka": "meldunek nasluchu (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-19",
+   "co": "BRAAVOSKI - LEKCJA 19 (pn 09-22, po sniadaniu): zadanie - kazda trzy zdania o Winterfell dla kogos z Braavos (dla Nesty); powtorka 11 slow, ktore nie weszly na 18 (plac, swiatynia, ogrod, palac, polnoc, poludnie, blisko, daleko, niski, stary, nowy). Zasada domowa 3: po trzech porazkach z rzedu premia +15 trwa. Forma - do slowa pana.",
+   "kto": "SYMON, SANSA, ARYA",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-09-22",
+   "zamyka": "lekcja odbyta",
    "status": "otwarte"
   }
  ],

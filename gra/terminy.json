@@ -10937,8 +10937,8 @@
    "kto": "BRYNDEN + SER RODRIK",
    "kanal": "osobiscie",
    "wraca": "300-09-19",
-   "zamyka": "ocena Bryndena na pismie + slowo pana o nominacjach",
-   "status": "otwarte ### 09-16 WIECZERZA SLOWO PANA (Brynden pytal 09-15/16): PAN PRZYJDZIE na egzamin w polu w czwartek 09-18 (WF, snieg; kazdy prowadzi dziesiatke). ### 09-18 EGZAMIN (rzut 36, ZLE): czysto - OTTAR RUDY, WALTON SZRAM, CARRAC KOSC; z uwagami - OSGOOD DLUGI, BENJEN SOWA; NIE ZDALI - HARRAS OD BRAMY, JORAH ZIMNY STRUMIEN (powtarzaja z grupa II). Ocena Bryndena na pismie ~09-19; nominacje setnikow - do slowa pana."
+   "zamyka": "ocena Bryndena na pismie (09-19)",
+   "status": "otwarte ### 09-16 WIECZERZA SLOWO PANA (Brynden pytal 09-15/16): PAN PRZYJDZIE na egzamin w polu w czwartek 09-18 (WF, snieg; kazdy prowadzi dziesiatke). ### 09-18 EGZAMIN (rzut 36, ZLE): czysto - OTTAR RUDY, WALTON SZRAM, CARRAC KOSC; z uwagami - OSGOOD DLUGI, BENJEN SOWA; NIE ZDALI - HARRAS OD BRAMY, JORAH ZIMNY STRUMIEN (powtarzaja z grupa II). Ocena Bryndena na pismie ~09-19; nominacje setnikow - do slowa pana. ### 09-18 SLOWO PANA: NOMINOWAC TYCH, KTORZY ZDALI - SETNICY: OTTAR RUDY, WALTON SZRAM, CARRAC KOSC; DZIESIETNICY: OSGOOD DLUGI, BENJEN SOWA (wg Bryndena). Mianuje Namiestnik w regencji, do potwierdzenia przez Krola. Harras i Jorah - kurs powtorny z grupa II."
   },
   {
    "data": "300-07-26",
@@ -14953,6 +14953,15 @@
    "wraca": "300-09-21",
    "zamyka": "odpowiedz Wymana (rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-18",
+   "co": "SPALONE ZBOZE KORONY W GP (~250 korcy, E ~36 smokow) - KTO PLACI: lenno czy Korona (rozbieznosc Gerrik/Warryn, raport rady 09-15; rada prosi o rozstrzygniecie przez Gawena, bo pan jest po obu stronach).",
+   "kto": "SYMON ; GAWEN",
+   "kanal": "WF",
+   "wraca": "300-09-22",
+   "zamyka": "rozstrzygniecie (pan lub Gawen) i zapis w Kasie 2/3",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [
@@ -15188,7 +15197,7 @@
     "start": "300-07-19"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-09-08",
+   "ostatnio_odebrane": "300-09-15",
    "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"

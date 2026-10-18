@@ -15682,6 +15682,15 @@
    "wraca": "300-10-20",
    "zamyka": "kosztorys rezerwy na stole pana + plan spisu Osrica",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-28",
+   "co": "LIST LADY CATELYN DO RICKARDA KARSTARKA - HARRION WOLNY (zgoda regenta 09-28): jako matka do ojca, wlasna reka; kruk WF-Karhold dzis wieczorem (2-3 dni, E). Odpowiedz Rickarda - RZUT przy wiesci.",
+   "kto": "CATELYN -> RICKARD KARSTARK",
+   "kanal": "kruk WF-Karhold",
+   "wraca": "300-10-03",
+   "zamyka": "odpowiedz Rickarda (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

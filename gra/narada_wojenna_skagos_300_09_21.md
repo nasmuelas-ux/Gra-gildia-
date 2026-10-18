@@ -1,3 +1,5 @@
+> ⚠ **DRUGA POPRAWKA 09-21:** wieść jest lżejsza. Flota schowała się za cyplem przed sztormem i nikt jej nie widział na skałach. Narada kończy się na zwiadzie, który już wypłynął. Odsiecz i ratunek nie są potrzebne.
+>
 > ⚠ **POPRAWKA 09-21 (VOID):** narada stała na wersji listu Wymana z napadem Skagosów i marszem Króla w głąb wyspy, a ta wersja była sprzeczna z zapisem (poczta A, poprawka). **Prawdziwa wieść to sztorm i rozproszona flota.** Głosy doradców i drogi A–C wymagają przeliczenia na **poszukiwanie i ratunek**, nie odsiecz zbrojną. Spust z aktu nie jest spełniony.
 
 # NARADA WOJENNA NADZWYCZAJNA: SKAGOS (300-09-21, niedziela, przed śniadaniem, solar Króla)

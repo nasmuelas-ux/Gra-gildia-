@@ -15051,6 +15051,24 @@
    "kanal": "do slowa pana",
    "wraca": "300-09-20",
    "zamyka": "pan wybral droge (drogi)",
+   "status": "zamkniete 300-09-18 ### SLOWO PANA: drogi 1 i 2 RAZEM, 3 jesli trzeba (po wynikach 1-2); 4 - nie. Operacje ponizej. ### POPRZEDNIO: byl-otw"
+  },
+  {
+   "data": "300-09-18",
+   "co": "BAELISH (1) - NESTA W BANKU: na czyje imie konto ze zlotem za zboze Doliny - osobiste Baelisha czy Domu Arrynow / Lorda Protektora. Po cichu, bez pisma. Szyfr Lucana do Hala 09-19 (razem z nazwami domow z Lys) -> statek. Wynik - RZUT przy meldunku.",
+   "kto": "LUCAN -> HAL -> NESTA",
+   "kanal": "kruk Domu WF-BP 09-19 + statek BP-Braavos",
+   "wraca": "300-11-15",
+   "zamyka": "meldunek Nesty (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-18",
+   "co": "BAELISH (2) - NASLUCH MEWIEGO GRODU: czyja pieczec na kontraktach zbozowych i papierach wywozu Doliny (sokol Arrynow czy przedrzezniacz Baelisha), kto podpisuje. Wynik - RZUT przy meldunku. (3) Royce - dopiero jesli 1-2 nie rozstrzygna.",
+   "kto": "LUCAN -> HAL -> nasluch Mewi Grod",
+   "kanal": "kruk Domu WF-BP 09-19 + paczka BP-Mewi Grod (18 dni tam, ~40 lacznie)",
+   "wraca": "300-10-28",
+   "zamyka": "meldunek nasluchu (rzut)",
    "status": "otwarte"
   }
  ],

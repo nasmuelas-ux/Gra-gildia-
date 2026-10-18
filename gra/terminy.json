@@ -13661,11 +13661,11 @@
   {
    "data": "300-09-02",
    "co": "REZERWA DOMENY - DOKONCZENIE SPISU (slowo pana 09-02, propozycja Rodrika): spis imienny rezerwy domeny (ZM i wsie domeny; bezrolni, mlodsi synowie; kto czyta/strzela/zna rzemioslo) prowadzi EDRIC PLUG jako Zarzadca Domeny PO MLOCCE; cwiczenia zima, gdy pola stoja. Rodrik daje wzor rubryk.",
-   "kto": "EDRIC PLUG (Zarzadca Domeny) + SER RODRIK",
+   "kto": "EDRIC PLUG (domena) pod OSRIKIEM (nadzor) ; RODRIK (wzor rubryk)",
    "kanal": "Winterfell / domena",
    "wraca": "300-10-25",
    "zamyka": "spis rezerwy domeny imiennie, liczba i podzial (wlocznia/luk)",
-   "status": "otwarte"
+   "status": "otwarte ### 09-28 SLOWO PANA: Edric robi spis domeny POD OSRIKIEM (Marszalek nadzoruje caly spis rezerwy Korony; wzor rubryk - plan 05-24 + Rodrik)."
   },
   {
    "data": "300-09-02",
@@ -15672,6 +15672,15 @@
    "kanal": "ksiegi Domu w ZM; list do Lymana szyfrem Domu",
    "wraca": "300-10-10",
    "zamyka": "meldunek Willi: dokad garnizon (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-28",
+   "co": "REZERWA KORONY - OSRIC NADZORUJE CALY SPIS + NAJPIERW KOSZTORYS (slowo pana 09-28; ALARM 36 - sprawa bez operacji od VII): (1) Osric (Marszalek Choragwi, z wojskiem na zachodzie) przejmuje nadzor nad spisem rezerwy Korony wg planu 05-24 (KB - zrobione 07-09; domena - Edric pod nim; dalej wg Osrica); (2) NAJPIERW KOSZTORYS REZERWY (brak od 07-13): dziesietnicy, skrzynie wsi, dni cwiczen, ulga 1/10 czynszu, bron. Rozkaz: list Namiestnika pod pieczecia, POSLANIEC DO RAK WLASNYCH (sprawy wojska - nie otwartym tekstem krukiem, zasada 09-25; klucz wojskowy gotowy ~10-15); WF -> zachod (okolice Deepwood) E ~7 dni -> u Osrica ~10-05; kosztorys wraca ~10-20. Wlasny czlowiek - bez rzutu.",
+   "kto": "SYMON -> OSRIC KAMIEN ; EDRIC (domena) ; GAWEN (kosztorys do ksiegi)",
+   "kanal": "poslaniec do rak wlasnych WF-zachod",
+   "wraca": "300-10-20",
+   "zamyka": "kosztorys rezerwy na stole pana + plan spisu Osrica",
    "status": "otwarte"
   }
  ],

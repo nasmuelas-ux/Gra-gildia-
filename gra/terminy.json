@@ -14825,8 +14825,26 @@
    "kto": "SYMON ; LUCAN ; WILLA",
    "kanal": "szyfr Domu po slowie pana",
    "wraca": "300-09-20",
-   "zamyka": "pan wskazal szefa Rozdroza i Essos; szyfr z podzialem do Willi",
-   "status": "otwarte ### 09-16 SLOWO PANA: (1) kontrwywiad - wybiera pan sam, nikt poza panem nie wie (Lucan zna tylko pomysl); (2) Rozdroze - szefa wybiera pan sam; (3) TAK: spis gospodarczy do Hala/Tama, placa +1/4, tempo wg kupcow; (4) Essos - ktos znajacy braavoski, ktory panu cos zawdziecza - pan sie zastanowi. Szyfr do Willi z podzialem (bez kontrwywiadu) - Lucan, gdy pan wskaze szefow."
+   "zamyka": "pan wskazal szefow pieciu teatrow i szefa kontrwywiadu; szyfr do Willi z przeniesieniem i podzialem",
+   "status": "otwarte ### 09-16 SLOWO PANA: (1) kontrwywiad - wybiera pan sam, nikt poza panem nie wie (Lucan zna tylko pomysl); (2) Rozdroze - szefa wybiera pan sam; (3) TAK: spis gospodarczy do Hala/Tama, placa +1/4, tempo wg kupcow; (4) Essos - ktos znajacy braavoski, ktory panu cos zawdziecza - pan sie zastanowi. Szyfr do Willi z podzialem (bez kontrwywiadu) - Lucan, gdy pan wskaze szefow. ### 09-16 POZNE POPOLUDNIE - SLOWO PANA, WERSJA OSTATECZNA (zastepuje sprzeczne wyzej): WILLA przenosi sie do ZM i odpowiada za cala siatke; PIEC TEATROW (ludzie, nie jedna osoba; szefowie zarzadzaja, nie szpieguja): POLNOC - nowy szef przy placowce Fosy; POLUDNIE - ktos z Ashford; KP - ktos z Rozdroza; PYKE I ZACHOD - ktos z Seagardu; ESSOS - ktos z Braavos. Teatr placi z budzetu swojej placowki. Placa wywiadu 'duzo wiecej' (zamiast +1/4). KONTRWYWIAD - szef w ZM, zna go Willa i Lucan; z prywatnej sakiewki pana; mandat: bezwzgledny, lacznie z eliminacja zdrajcow i przeciwnikow. Do slowa pana: imiona (sam / kandydaci z ksiag), kiedy Willa jedzie (od razu / po przecieku GP), granica ostrza (sam / za slowem pana), teatry biedne zima."
+  },
+  {
+   "data": "300-09-16",
+   "co": "WILLA - PRZENIESIENIE Z FOSY DO ZIMOWEGO MIASTA (slowo pana 09-16; gra/siatka_reorganizacja_300_09_16.md): szefowa calej siatki blisko pana. Warunek: przekazuje teatr Polnoc nowemu szefowi przy placowce Fosy. Rozkaz szyfrem Domu (Harrol Lut). Kwatera ZM (E: izba przy faktorii Domu). Kolizja: przeciek GP / wedka / karta 10-01 prowadzi Willa na miejscu.",
+   "kto": "SYMON ; WILLA ; HARROL LUT",
+   "kanal": "szyfr Domu kruk WF-Fosa po slowie pana (kiedy jedzie)",
+   "wraca": "300-09-20",
+   "zamyka": "Willa w ZM, teatr Polnoc ma szefa na Fosie",
+   "status": "otwarte ### czeka na slowo pana: kiedy jedzie (od razu / po wyjasnieniu przecieku GP) i kto szefem teatru Polnoc"
+  },
+  {
+   "data": "300-09-16",
+   "co": "KONTRWYWIAD - SZEF W ZM (slowo pana 09-16, wersja ostateczna): zna go Willa i Lucan; placi prywatna sakiewka pana (E ~2-4 smoki/mies od 10-01 + sprawy osobno); mandat bezwzgledny, lacznie z eliminacja zdrajcow i przeciwnikow. Do slowa pana: kto (pan wskazuje), granica ostrza (sam / kazda smierc za slowem pana).",
+   "kto": "SYMON",
+   "kanal": "osobiscie (pan)",
+   "wraca": "300-09-20",
+   "zamyka": "pan wskazal czlowieka i rozmowa z nim odbyta (cudza wola - RZUT przy rozmowie, jesli spoza Domu)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -58,3 +58,54 @@
 2. **Rozdroże:** szefa komórki **wybierze pan sam**. Deron był propozycją Lucana.
 3. **TAK:** spis gospodarczy do Hala i Tama, płaca siatki +¼, zlecenia w rytmie kupców.
 4. **Essos (Braavos):** szukamy **kogoś, kto zna braavoski i coś panu zawdzięcza.** Pan się zastanowi.
+
+---
+## ⚑ SŁOWO PANA 300-09-16, późne popołudnie, komnata Namiestnika: WERSJA OSTATECZNA
+*„Inaczej, budujemy realny wywiad w strukturze.” **Zastępuje wszystko wyżej, co z tym sprzeczne**, w tym „o kontrwywiadzie nie wie nikt poza mną”, archiwistów jako szefów komórek i pomysł ukrytych szefów. Ustanowienie bez rzutu (ludzie własni). Werbunek nowych i zgoda obcych to rzuty przy meldunkach. Kwoty to E.*
+
+### 1. GŁOWA: WILLA W ZIMOWYM MIEŚCIE
+- **Willa przenosi się z Fosy do Zimowego Miasta** i odpowiada za **całą siatkę wywiadu**, blisko pana.
+- **Fosy nie zostawia pustej:** przekazuje Północ nowemu szefowi teatru, a dopiero potem wyjeżdża.
+- Rozkaz idzie do niej szyfrem Domu (Harrol Lut).
+- Kwatera w ZM: (E) izba przy faktorii Domu.
+
+### 2. PIĘĆ TEATRÓW (*„teatr to ludzie, nie jedna osoba”*)
+| teatr | siedziba | szef (zarządza, sam nie szpieguje) |
+|---|---|---|
+| **PÓŁNOC** | Fosa, placówka | **nowy szef teatru** przy placówce Fosy: do wskazania |
+| **POŁUDNIE** | Ashford | ktoś związany z Ashford: do wskazania |
+| **KRÓLEWSKA PRZYSTAŃ** | Rozdroże | ktoś związany z Rozdrożem: **wskazuje pan** (słowo wcześniejsze) |
+| **PYKE I ZACHÓD** | Seagard | ktoś odpowiedzialny z Seagardu: do wskazania |
+| **ESSOS** | Braavos | ktoś z Braavos: **wskazuje pan**, a kryterium stoi („zna braavoski i coś panu zawdzięcza”) |
+- **Szefowie teatrów i wywiadu sami nie szpiegują, tylko zarządzają.** Oczami są ludzie teatru.
+- **Budżet:** każdy teatr korzysta z **budżetu swojej placówki/oddziału** (Kasa 1, ale w księdze danej placówki).
+- **Płaca: „Płacimy wywiadowi dużo więcej niż do tej pory.”** Zastępuje wcześniejsze +¼.
+- Archiwiści-kancelaryści (słowo z rana) **zostają jako ludzie teatrów** (pisarz placówki i przykrywka), ale **nie są szefami.** *(Odczyt GM, O: do poprawki słowem pana.)*
+
+### 3. KONTRWYWIAD
+- **Szef kontrwywiadu siedzi w Zimowym Mieście.** **Zna go Willa i zna go Lucan.**
+- **Płaci go prywatna sakiewka pana**, nie Kasa 1. Kontrwywiad nie ma księgi siatki.
+- **Mandat:**
+  - sprawdza całą siatkę;
+  - **może eliminować zagrożenia i być bezwzględny, łącznie z eliminacją zdrajców i przeciwników.**
+- Kim jest szef kontrwywiadu: **do wskazania przez pana.** Kandydaci Lucana z pkt 3 to tylko materiał.
+
+### 4. KOSZT (E, od 10-01)
+- **Teatry:** pięciu szefów i podwyższona płaca ludzi to ~**4–8 smoków miesięcznie**, z budżetów placówek (Kasa 1). Zastępuje +¼ i ~2/mies archiwistów.
+- **Kontrwywiad:** ~**2–4 smoki miesięcznie z sakiewki pana**, plus koszt każdej sprawy osobno.
+
+### 5. ZASADA 8: CO TO RODZI (GM, O)
+- **Fosa traci oko pana tuż po napadzie na GP.** Przeciek z GP (wędka, kanarek, karta 10-01) był sprawą Willi na miejscu. Jeśli wyjedzie przed wyjaśnieniem, sprawę prowadzi ktoś nowy z zimnymi rękami. Jeśli zostanie do wyjaśnienia, przeniesienie przesuwa się w zimę.
+- **Droga Fosa–WF zimą:** kruk to dni, ale Willa jedzie traktem, który właśnie zasypuje.
+- **Ostrze w regencji.** Pan jest Namiestnikiem: sprawiedliwość Korony należy do Króla i do Justycjariusza (Cerwyn). Śmierć bez sądu w królestwie, które pan prowadzi w imieniu Króla, to:
+  - przy wyjściu na jaw paliwo dla „Korona, którą trzyma Tally”;
+  - grzech, którego nie da się cofnąć, jeśli kontrwywiad pomyli się co do człowieka;
+  - człowiek z prawem zabijania, opłacany z ręki pana, który staje się sam dla siebie zagrożeniem do sprawdzenia (*kto pilnuje strażnika?*).
+- **Trzy osoby znają kontrwywiad** (pan, Willa, Lucan): o dwie więcej niż w poprzednim słowie.
+- **Placówki płacą teatry ze swoich ksiąg.** Rozdroże i Fosa zimą się załamują (spis 299-09), więc **teatry KP i Północ będą najbiedniejsze w najgorszym czasie.**
+
+### DO SŁOWA PANA
+1. **Imiona:** szefowie teatrów (Północ, Południe, KP, Zachód, Essos) i szef kontrwywiadu. Pan wskazuje sam, czy Lucan i Willa przynoszą kandydatów z ksiąg (zasada 37)?
+2. **Kiedy Willa jedzie:** od razu, czy **po wyjaśnieniu przecieku z GP** (karta 10-01)?
+3. **Granica ostrza:** kontrwywiad eliminuje sam, czy **każda śmierć dopiero za słowem pana**?
+4. **Teatry biedne zimą** (Rozdroże, Fosa): dopłata z Kasy 1 centralnie, czy niech placówka sobie radzi?

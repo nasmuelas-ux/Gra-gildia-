@@ -298,14 +298,14 @@
      "bez_skali": true
     },
     {
-     "nazwa": "SIATKA - PLACA +1/4 (slowo pana 09-16)",
+     "nazwa": "WYWIAD - PIEC TEATROW (szefowie + placa podwyzszona; slowo pana 09-16)",
      "typ": "koszt",
-     "min": 0.5,
-     "max": 1.5,
+     "min": 4,
+     "max": 8,
      "okres": "miesiac",
      "od": "300-10-01",
      "do": null,
-     "zrodlo": "SLOWO PANA 300-09-16 (rada Lucana): placa ludzi siatki +1/4; kwota bazowa siatki w ksiedze Willi - nie w modelu (E: dodatek 0,5-1,5/mies)"
+     "zrodlo": "SLOWO PANA 300-09-16 (wersja ostateczna): piec teatrow z budzetow placowek, 'placimy wywiadowi duzo wiecej'; zastepuje +1/4 i archiwistow ~2/mies (E: 4-8/mies); kwota bazowa siatki w ksiedze Willi - nie w modelu"
     }
    ],
    "nieznane": [
@@ -2018,6 +2018,9 @@
     "kwota_smoki": 11.22,
     "stan": "przy odbiorze z kufra faktorii ZM (przed wyjazdem na Fose ~08-24)"
    }
+  ],
+  "sakiewka_pana_koszty_stale": [
+   "od 300-10-01: KONTRWYWIAD (szef w ZM) - E ~2-4 smoki/mies z sakiewki pana + sprawy osobno (slowo pana 09-16); pobierac przy kazdej wyplacie Domu do sakiewki"
   ]
  },
  "_synergia_sieci": {

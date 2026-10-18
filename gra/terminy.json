@@ -15124,6 +15124,15 @@
    "wraca": "300-10-20",
    "zamyka": "rozliczenie akcji X",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-20",
+   "co": "AKT REGENCJI (08-04), DOPISEK SKAGOS - TERMIN 09-20 MINAL BEZ WIESCI OD KROLA: regent wysyla OKRET NA ZWIAD do Kingshouse (Skagos) i Karholdu. Wykonanie: rozkaz regenta do WYMANA (najszybszy okret z BP) + list do RICKARDA KARSTARKA (Karhold - co wie, lodzie przy brzegu). Odsiecz (okrety Wymana, Karstark, Umber) - dopiero przy napasci (znak/wiesc). Slowo pana: kiedy i jak. ALARM 36 - otwarte 09-20.",
+   "kto": "SYMON (regent) -> WYMAN ; KARSTARK",
+   "kanal": "kruk WF-BP ; kruk WF-Karhold",
+   "wraca": "300-09-20",
+   "zamyka": "rozkaz zwiadu wyslany; potem meldunek okretu (RZUT)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

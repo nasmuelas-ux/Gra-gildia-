@@ -40,3 +40,9 @@
 - **Wszystko, co wychodzi z Winterfell skrzydłami, przechodzi przez jedną wieżę:** listy Korony, szyfry Domu do Fosy, list królowej, list Aldwina do Hollisa, rozkazy regenta.
 - Przy każdym ptaku są ludzie z kruczarni: chłopcy, pisarz przy klatkach i ci, którzy zwijają paski.
 - **To wąskie gardło niezależnie od tego, kto jest maestrem.** Sprawdzenie zamku przez Rodrika (~09-30) obejmuje **ludzi kruczarni bez maestra**, więc to miejsce już jest w sprawdzeniu.
+
+---
+## ODPOWIEDZI WILLI (ZM, 300-09-25)
+1. **Rybna (rzut wiedzy Willi 37 – częściowo):** *„Ta sama ulica, sześć drzwi od siebie (E). Ten sam dom? Nie sądzę, faktor ma swój szyld i swoich tragarzy. Ale raz widziałam jego weksel – pisany ręką, którą znam z kantoru lyseńskiego. Albo pożycza od nich pisarza, albo pieniądze. Nie wiem które.”* Sprawdzi ostrożnie (analitycznie, papiery).
+2. **Gorący Port (eskorta):** pytanie jest u **Merel** (przeciek GP, karta 10-01) – kto z eskorty Redwyne'ów i załóg Reach schodził na ląd 09-09–11. Odpowiedź kurierem z kartą ~10-01.
+3. **Test ubytku Dreadfortu (Lucan 07-11):** od wyjazdu bękarta z flotą (~08-14) do 09-18 – **w księgach wsi pod Dreadfortem nikt nie „odszedł do krewnych”** (E). *„Ale przedtem to było raz na dwa, trzy miesiące. Miesiąc ciszy nic nie dowodzi. Dajcie mi zimę.”* Liczy dalej.

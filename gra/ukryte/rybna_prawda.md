@@ -1,0 +1,3 @@
+# RYBNA – PRAWDA (ukryte; nie ujawniać graczowi)
+*Rzut prawdy 300-09-25, pasma ustalone PRZED rzutem: 1–40 dwa osobne domy, zbieżność ulicy; 41–75 POWIĄZANE (faktor korzysta z pisarza / kredytu kantoru lyseńskiego), nie ten sam dom; 76–100 ten sam dom (faktor = przykrywka kantoru).*
+**RZUT 58 → POWIĄZANE.** Faktor z Rybnej to osobny człowiek i osobny interes, ale **jego weksle i wypłaty idą przez pisarza kantoru lyseńskiego** (kantor daje mu kredyt na zakupy skór i soli Dreadfortu, zanim złoto z Mewiego Grodu dojdzie) (E). Kantor lyseński **widzi więc przepływ Dreadfort → Mewi Gród → Baelish** na papierze. Czy Lys z tego korzysta celowo – osobny wątek, nie przesądzony tym rzutem.

@@ -14601,7 +14601,7 @@
    "kanal": "kruk Domu WF-BP (po pogodzie)",
    "wraca": "300-09-20",
    "zamyka": "potwierdzenie Hala",
-   "status": "otwarte ### 09-16: kruk Domu WF-BP wyslany o swicie (po zamieci); potwierdzenie Hala w paczce ~09-18. ### 09-18 RANO: woz ze skrzynia Korony i paczka Hala ruszyly spod Cerwyn 09-16, stanely w zamieci 09-17; dzis trakt odgarniety - W WF PO POLUDNIU (E). Rzuty przy czytaniu. ### 09-18: w paczce BRAK - paczka wyjechala z BP przed krukiem z 09-16; potwierdzenie Hala krukiem ~09-19/20."
+   "status": "zamkniete 300-09-19 ### potwierdzenie Hala krukiem Domu po poludniu: naboru nie zaczal; rozmawial z dwoma ludzmi w BP (E) - nie zaciagniete, nazwiska zachowane dla szefa bezpieczenstwa Domu ### POPRZEDNIO: byl-otw ### 09-16: kruk Domu WF-BP wyslany o swicie (po zamieci); potwierdzenie Hala w paczce ~09-18. ### 09-18 RANO: woz ze skrzynia Korony i paczka Hala ruszyly spod Cerwyn 09-16, stanely w zamieci 09-17; dzis trakt odgarniety - W WF PO POLUDNIU (E). Rzuty przy czytaniu. ### 09-18: w paczce BRAK - paczka wyjechala z BP przed krukiem z 09-16; potwierdzenie Hala krukiem ~09-19/20."
   },
   {
    "data": "300-09-13",
@@ -14736,7 +14736,7 @@
    "kanal": "kruk WF-Deepwood 09-16",
    "wraca": "300-09-19",
    "zamyka": "pierwszy meldunek stanu lancucha po zamieci (rzut) + start karty tygodniowej",
-   "status": "otwarte ### 09-19 RANO: NIE PRZYSZLO, WIADOMO DLACZEGO - deszcz ze sniegiem (pogoda 24), kruki dopiero po poludniu; meldunek Robetta z Deepwood - po poludniu (RZUT)."
+   "status": "zamkniete 300-09-19 ### MELDUNEK ROBETTA (kruk z Deepwood po poludniu, RZUT 60 - dobrze): wszystkie punkty stoja; dwa - drewno zamokle, wymienione z zapasu; zamiec 09-15 - jedna noc slepa przy Cyplu; Robett proponuje ROGI jako sygnal zapasowy w zamieci (do slowa pana); na morzu nic od 09-12. Karta tygodniowa od 09-26 (cykl KARTA_LANCUCHA). ### POPRZEDNIO: byl-otw ### 09-19 RANO: NIE PRZYSZLO, WIADOMO DLACZEGO - deszcz ze sniegiem (pogoda 24), kruki dopiero po poludniu; meldunek Robetta z Deepwood - po poludniu (RZUT)."
   },
   {
    "data": "300-09-16",
@@ -15078,6 +15078,15 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-09-22",
    "zamyka": "lekcja odbyta",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-19",
+   "co": "LANCUCH OGNIA - ROGI JAKO SYGNAL ZAPASOWY W ZAMIECI (propozycja Robetta 09-19): przy kazdym punkcie rog; w nocy, gdy nie widac sasiedniego ognia - sygnal rogiem w ustalonym rytmie (E: koszt rogow ~1, Kasa 3) - do slowa pana.",
+   "kto": "SYMON -> ROBETT",
+   "kanal": "kruk WF-Deepwood",
+   "wraca": "300-09-22",
+   "zamyka": "slowo pana",
    "status": "otwarte"
   }
  ],
@@ -15423,6 +15432,19 @@
    "opoznienie": 0,
    "ostatnio_odebrane": null,
    "zrodlo": "gra/konserwa_korony_organizacja_300_09_03.md"
+  },
+  {
+   "id": "KARTA_LANCUCHA",
+   "co": "KARTA LANCUCHA OGNIA NA ZACHODZIE (Robett Glover, straz lancucha): punkty, proby, drewno, co widziano na morzu - krotko, co tydzien.",
+   "kto": "ROBETT GLOVER",
+   "kanal": "kruk Deepwood-Winterfell",
+   "rytm": {
+    "co_dni": 7,
+    "start": "300-09-26"
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-09-19",
+   "zrodlo": "rozkaz Namiestnika 300-09-15/16 (ALARM 36)"
   }
  ]
 }

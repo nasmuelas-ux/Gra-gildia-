@@ -14618,8 +14618,8 @@
    "kto": "SYMON ; STEN (kandydaci)",
    "kanal": "WF",
    "wraca": "300-10-05",
-   "zamyka": "sprawdzenie Willi (rzut) -> oferta Hala -> zgoda Torvalda (rzut)",
-   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana."
+   "zamyka": "WERYFIKACJA 4-STOPNIOWA (stala zasada 09-16): Willa (rzut ~09-25) -> kontrwywiad (rzut ~09-28) -> Sten -> pan -> oferta Hala -> zgoda Torvalda (rzut)",
+   "status": "otwarte ### 09-13 SLOWO PANA: TORVALD SIWEK - ale NAJPIERW sprawdzenie przez Wille (po cichu); potem oferta przez Hala w BP + slowo grzecznosci do Wymana. ### 09-16 STALA ZASADA: weryfikacja kluczowych - Willa, kontrwywiad, Sten, pan (po kolei)."
   },
   {
    "data": "300-09-13",
@@ -14863,6 +14863,15 @@
    "wraca": "300-09-28",
    "zamyka": "meldunek szefa kontrwywiadu o Torvaldzie (RZUT przy meldunku) + porownanie z Willa",
    "status": "otwarte ### 09-16: zlecone; kanal do BP - do slowa pana ### 09-16 SLOWO PANA: ZGODA - przez septona Hollisa. List wychodzi 09-17 rano (E); odpowiedz Hollisa ~09-22/25; meldunek ~09-28 - JEDEN RZUT (Hollis + robota szefa)."
+  },
+  {
+   "data": "300-09-16",
+   "co": "STALA ZASADA DOMU - WIELOPOZIOMOWA WERYFIKACJA KLUCZOWYCH LUDZI (slowo pana 09-16; gra/siatka_reorganizacja_300_09_16.md): WILLA -> KONTRWYWIAD -> STEN -> PAN, po kolei. Kluczowi (O, do poprawki): szefowie placowek i teatrow, skarbnicy/kasjerzy, szyfranci i kurierzy szyfru, ludzie przy osobie pana i rodziny, szef bezpieczenstwa. Operacja: rozkaz do Willi (z szyfrem o przeniesieniu) i do Stena; pierwsze zastosowanie - Torvald.",
+   "kto": "SYMON ; WILLA ; STEN ; kontrwywiad",
+   "kanal": "szyfr Lucana do Willi (dzis, z rozkazem przeniesienia); Sten - ustnie",
+   "wraca": "300-09-25",
+   "zamyka": "zasada przyjeta przez Wille i Stena; Torvald przeszedl pierwsze dwa szczeble",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

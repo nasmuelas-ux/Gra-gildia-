@@ -133,3 +133,21 @@
 - **Szefów teatrów pan wybiera razem z Willą,** po jej przyjeździe do ZM. **Teraz Willa wyznacza tylko szefa Północy** (zastępcę na Fosie).
 - **Trakt jest przejezdny** (słowo gracza), więc droga zajmuje 6 dni. Kruk dochodzi ~09-17, przekazanie ~2 dni, wyjazd ~09-19, **Willa w ZM ~09-25** (E).
 - **Szefa kontrwywiadu pan szuka sam.**
+
+---
+## ⚑ STAŁA ZASADA DOMU (słowo pana 300-09-16, zmierzch): WIELOPOZIOMOWA WERYFIKACJA KLUCZOWYCH LUDZI
+**Każdy nowy człowiek na kluczowym stanowisku przechodzi cztery szczeble, po kolei:**
+1. **WILLA** (wywiad): kim jest, z kim, komu winien, kto za nim stoi.
+2. **KONTRWYWIAD** (szef ukryty): sprawdza po Willi, niezależnie i bez jej wiedzy, co i jak sprawdza.
+3. **STEN** (przyboczna): czy można go wpuścić blisko ludzi, rzeczy i domu pana.
+4. **PAN**: rozmowa i słowo. Bez niego nikt nie wchodzi.
+
+- Szczebel nie zaczyna się, dopóki poprzedni nie zamelduje.
+- **Kto jest „kluczowy”** (O, domyślnie, do poprawki słowem pana):
+  - szefowie placówek i teatrów;
+  - skarbnicy i kasjerzy;
+  - szyfranci i kurierzy szyfru;
+  - ludzie przy osobie pana i rodziny (straż, kuchnia, komnaty);
+  - szef bezpieczeństwa Domu.
+- **Pierwsze zastosowanie:** TORVALD SIWEK. Willa (~09-25), kontrwywiad (~09-28; ruszył już równolegle), potem Sten, a na końcu pan. Dopiero wtedy oferta przez Hala.
+- **Koszt (O):** każde obsadzenie kluczowego krzesła trwa dłużej, o kilka tygodni na szczebel przy ludziach z daleka.

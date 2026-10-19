@@ -15141,7 +15141,7 @@
    "kanal": "kruk WF-BP; okret; kruk Karhold-WF",
    "wraca": "300-10-08",
    "zamyka": "meldunek zwiadu (rzut)",
-   "status": "otwarte ### 300-09-30 OBIETNICA PANA BRANOWI (obiad): gdy przyjdzie zwiad - Bran dowie sie PIERWSZY, przed Rickonem. ### 300-10-06 OBIETNICA PONOWIONA: Bran pierwszy - takze jesli wiesc bedzie zla. ### 300-10-08: kruk z Karholdu oczekiwany dzis (E); rzut przy meldunku - zapisany."
+   "status": "zamkniete 300-10-08 ### MELDUNEK ZWIADU (gra/zwiad_skagos_meldunek_300_10_08.md) - RZUT 14: zatoka Kingshouse we mgle (10-05); 9-10 masztow na kotwicy, kadluby prosto, jeden przechylony przy brzegu z lodziami (naprawa?); CHORAGIEW Z WILKIEM na drzewcu przy sali na skale; dym z kominow, ognie obozowe na plazy, bez sladow walki; NIE WESZLI (mgla, skaly), z nikim nie rozmawiali; powrot do Karholdu 10-06. Srebrna Foka czeka w Karholdzie na rozkaz. ### POPRZEDNIO: byl-otw ### 300-09-30 OBIETNICA PANA BRANOWI (obiad): gdy przyjdzie zwiad - Bran dowie sie PIERWSZY, przed Rickonem. ### 300-10-06 OBIETNICA PONOWIONA: Bran pierwszy - takze jesli wiesc bedzie zla. ### 300-10-08: kruk z Karholdu oczekiwany dzis (E); rzut przy meldunku - zapisany."
   },
   {
    "data": "300-09-20",
@@ -16195,6 +16195,15 @@
    "wraca": "300-10-10",
    "zamyka": "listy wyslane i rozkaz u ser Edwyle'a; pobor w drodze do domow",
    "status": "otwarte ### 300-10-08 (pierwotnie: przedluzenie + dosylka do 100) - ZASTAPIONE korekta pana: rozpuscic."
+  },
+  {
+   "data": "300-10-08",
+   "co": "ZWIAD SKAGOS - DRUGIE PODEJSCIE? 'Srebrna Foka' (kpt. Harlen Wydma, E) czeka w Karholdzie; Rickard daje lodzie i ludzi znajacych wode. Do slowa regenta: wracac, kiedy mgla zejdzie / z lodziami Karholdu / czekac. Spust odsieczy (napasc) - NIE spelniony.",
+   "kto": "SYMON (regent) -> KAPITAN WYMANA ; RICKARD KARSTARK",
+   "kanal": "kruk WF-Karhold",
+   "wraca": "300-10-08",
+   "zamyka": "slowo regenta i kruk do Karholdu",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

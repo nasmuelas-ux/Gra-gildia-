@@ -40,3 +40,9 @@
 1. **Tekst:** czy „Dwóch przewoźników” (cień Wyla i Hoba, bez imion), czy coś innego? Na przykład tekst o Tytanie albo o Pierwszym Mieczu, gdzie Arya zna Syria.
 2. **Kto czyta:** propozycja: tym razem Sansa czyta, a Arya odpowiada na pytania (na zmianę względem lekcji 20).
 3. **Część 4:** zostawić wolny wybór czy zawęzić („ktoś z bajki Niani”), żeby nie było za ciężko w tydzień po pochówku?
+
+### ⚑ SŁOWO PANA 300-10-02 (popołudnie): „wybieram jedną z prostszych opcji”
+Pan wybrał prostsze warianty:
+1. **Tekst:** zostaje „Dwóch przewoźników”, bo jest już gotowy.
+2. **Czyta Sansa,** Arya odpowiada na pytania (zmiana w stosunku do lekcji 20).
+3. **Część 4 zawężona:** *„Pamiętam kogoś dzielnego z bajki Niani. On/ona…”*. Lżej, bez własnych zmarłych.

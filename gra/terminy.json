@@ -9226,9 +9226,9 @@
    "co": "DREADFORT - UBYTEK LUDZI LICZONY W TRZECH OKRESACH (rada Lucana, zgoda pana 07-11; dopisek do Willi): przed wyjazdem bekarta na Skagos (~08-12), w czasie wyprawy, po powrocie - ta sama metoda co od dwoch lat, bez nowych pytan. Naturalna proba bez swiadka. Wlasni - bez rzutu na liczenie; odczyt - przy meldunku.",
    "kto": "WILLA",
    "kanal": "kruk Winterfell-Fosa; meldunek w karcie POLNOC (co miesiac 1.)",
-   "wraca": "300-11-03",
+   "wraca": "300-10-28",
    "zamyka": "trzy liczby obok siebie (przed / w czasie / po)",
-   "status": "otwarte ### 300-10-01 TRIAZ: przeglad w KARCIE WILLI (cykl RAPORT_WILLI pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA WILLI (gra/raport_domu_300_10_01.md) RZUT 20: przed - 9 wpisow (swiadek); w czasie - zero/cisza nie do odroznienia; po - jeszcze nie. Nastepna karta ~11-03."
+   "status": "otwarte ### 300-10-01 TRIAZ: przeglad w KARCIE WILLI (cykl RAPORT_WILLI pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA WILLI (gra/raport_domu_300_10_01.md) RZUT 20: przed - 9 wpisow (swiadek); w czasie - zero/cisza nie do odroznienia; po - jeszcze nie. Nastepna karta ~11-03. ### 300-10-03 SLOWO PANA: karta Willi 1. zniesiona - przeglad na stronie Willi 28. (centrala), potem w karcie placowki Cailin (2.)."
   },
   {
    "data": "300-07-11",
@@ -11017,9 +11017,9 @@
    "co": "ROZPOZNANIE PATRYCJATU - ZIMOWE MIASTO, CAILIN, BARROWTON, BIALY PORT (zlecenie pana 07-26). WILLA prowadzi (karta POLNOC - nowa rubryka PATRYCJAT), HAL dokłada BP i Barrowton z ksiag kantoru, LUCAN czyta i zestawia. NA KAZDE MIASTO: 5-10 rodow kupieckich i cechowych - czym handluja, skala majatku (maly/sredni/duzy), miejsce w lawie/radzie miasta, z kim powiazani (lord, Dom Tally, obcy dom), kto komu winien, stosunek do Korony i do Domu. 'Sluchac, nie pytac' - bez imienia Korony. Czesciowo w karcie 08-01 (co juz wiadomo), pelne - w karcie 09-01. Jakosc - RZUT przy oddaniu.",
    "kto": "WILLA (+ HAL, LUCAN)",
    "kanal": "kruk WF->Fosa pod pieczecia domowa i szyfrem Willi; Hal - kruk WF->BP",
-   "wraca": "300-11-03",
+   "wraca": "300-10-28",
    "zamyka": "rubryka PATRYCJAT dla czterech miast w karcie Willi",
-   "status": "otwarte ### 07-29 SLOWO PANA (u Lucana): BADA DALEJ - Lucan sam obchodzi Zimowe Miasto (targ, zajazd Sarry, Pod Dymiacym Polanem, owczarze Runa) i dopisuje rubryke ZM; Cailin, Barrowton, BP - z materialu Willi i Hala. Wstepnie ZM (E): Miarka, Sarra, Galbart Runo, Hob Sadza; brak lawy z pieczecia. Czesc - karta 08-01, calosc 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10 meldunek siatki: RZUT 24 ZLE - ZM i Cailin pelne, Barrowton cienko (garbarnia 2x), BP brak; calosc w karcie Willi 10-01. ### 300-10-01 TRIAZ: przeglad w KARCIE WILLI (cykl RAPORT_WILLI pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA WILLI RZUT 39: ZM i Cailin pelne, Barrowton cienko, BP 3 z 5 rodow (dwa przy Wymanie brak). Dokonczenie BP ~11-03."
+   "status": "otwarte ### 07-29 SLOWO PANA (u Lucana): BADA DALEJ - Lucan sam obchodzi Zimowe Miasto (targ, zajazd Sarry, Pod Dymiacym Polanem, owczarze Runa) i dopisuje rubryke ZM; Cailin, Barrowton, BP - z materialu Willi i Hala. Wstepnie ZM (E): Miarka, Sarra, Galbart Runo, Hob Sadza; brak lawy z pieczecia. Czesc - karta 08-01, calosc 09-01. ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10 meldunek siatki: RZUT 24 ZLE - ZM i Cailin pelne, Barrowton cienko (garbarnia 2x), BP brak; calosc w karcie Willi 10-01. ### 300-10-01 TRIAZ: przeglad w KARCIE WILLI (cykl RAPORT_WILLI pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA WILLI RZUT 39: ZM i Cailin pelne, Barrowton cienko, BP 3 z 5 rodow (dwa przy Wymanie brak). Dokonczenie BP ~11-03. ### 300-10-03 SLOWO PANA: karta Willi 1. zniesiona - przeglad na stronie Willi 28. (centrala), potem w karcie placowki Cailin (2.)."
   },
   {
    "data": "300-07-27",
@@ -11080,9 +11080,9 @@
    "co": "KLASYFIKACJA RZEMIOSLA POLNOCY (zlecenie Namiestnika w imieniu Korony): ZM, Cailin, Barrowton, BP - zaklady wieksze niz pojedyncze; typ, mistrz, ludzie, cech, wolumen, surowiec, odbiorca; 'brak' tez wpisac. Lista: gra/klasyfikacja_rzemiosla_polnocy_zlecenie_300_07_27.md. Razem z PATRYCJATEM. Jakosc - rzut przy oddaniu.",
    "kto": "HAL (BP, Barrowton) + WILLA (Cailin, ZM, siatka) -> LUCAN",
    "kanal": "kruk WF->BP rano 07-28; kruk WF->Fosa (szyfr)",
-   "wraca": "300-11-03",
+   "wraca": "300-10-28",
    "zamyka": "klasyfikacja w karcie Willi/Hala (czesc 08-01, calosc 09-01)",
-   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: razem z patrycjatem (rzut 24) - czesciowe; calosc 10-01. ### 300-10-01 TRIAZ: przeglad w KARCIE WILLI (cykl RAPORT_WILLI pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA WILLI: razem z patrycjatem - ZM/Cailin pelne, BP czesciowe, Barrowton cienkie. ~11-03."
+   "status": "otwarte ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: razem z patrycjatem (rzut 24) - czesciowe; calosc 10-01. ### 300-10-01 TRIAZ: przeglad w KARCIE WILLI (cykl RAPORT_WILLI pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA WILLI: razem z patrycjatem - ZM/Cailin pelne, BP czesciowe, Barrowton cienkie. ~11-03. ### 300-10-03 SLOWO PANA: karta Willi 1. zniesiona - przeglad na stronie Willi 28. (centrala), potem w karcie placowki Cailin (2.)."
   },
   {
    "data": "300-07-28",
@@ -11746,9 +11746,9 @@
    "co": "BACZENIE PRZY BRAMIE FOSY (stale, Willa; tresc w ukryte/prawda.md) - pisarze przy ksiedze przybyszow i komorze notuja pytania z ukrytego zlecenia; zgloszenie do pana od razu. Przeglad co miesiac w karcie Willi.",
    "kto": "WILLA",
    "kanal": "Fosa - posłaniec ustny / szyfr",
-   "wraca": "300-11-03",
+   "wraca": "300-10-28",
    "zamyka": "filar - stale baczenie (nie zamyka sie)",
-   "status": "otwarte - stale ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: VIII-IX nikt nie pytal. Przeglad z karta 10-01. ### 300-10-01 TRIAZ: przeglad w KARCIE WILLI (cykl RAPORT_WILLI pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA WILLI RZUT 8: IX - nikt nie pytal. Stale baczenie; przeglad z karta ~11-03."
+   "status": "otwarte - stale ### 09-01: siatka Willi - wiesc w raporcie Willi ~09-10 (razem z moneta Dreadfortu i zrodlem zdania o Tallych). ### 09-10 PRZYSZLO: meldunek siatki Willi (poziom 3) - kruk Domu Fosa-WF nad ranem, szyfr Willi; rozszyfrowuje LUCAN w izbach w ZM (firewall), gotowe dla pana od przedpoludnia. Rzuty przy czytaniu - po jednym na sprawe. ### 09-10: VIII-IX nikt nie pytal. Przeglad z karta 10-01. ### 300-10-01 TRIAZ: przeglad w KARCIE WILLI (cykl RAPORT_WILLI pisany 10-01, w WF ~10-03). ### 300-10-03 KARTA WILLI RZUT 8: IX - nikt nie pytal. Stale baczenie; przeglad z karta ~11-03. ### 300-10-03 SLOWO PANA: karta Willi 1. zniesiona - przeglad na stronie Willi 28. (centrala), potem w karcie placowki Cailin (2.)."
   },
   {
    "data": "300-08-04",
@@ -15933,7 +15933,7 @@
    "kanal": "osobiscie ZM",
    "wraca": "300-10-28",
    "zamyka": "pierwsza strona Willi 'co sie laczy' (28.) + cykle placowek wpisane przy otwarciu",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-03 SLOWO PANA: TO ZASTEPUJE KARTE WILLI 1. - cykl RAPORT_WILLI zamkniety, nowy cykl CENTRALA_WILLI (28.)."
   }
  ],
  "_dopiski_300_03_18": [
@@ -16175,18 +16175,6 @@
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"
   },
   {
-   "id": "RAPORT_WILLI",
-   "co": "KARTA WILLI (wywiad) - czesc wspolnego raportu. ⚑ WOLA PANA 06-30 (ostatecznie, zastepuje wczesniejsze sformulowania): RAPORT WYWIADOWCZY I GOSPODARCZY - WILLA + TAM - do Winterfell, DO RAK WLASNYCH PANA. PODZIAL: regiony/krolestwa (Polnoc po regionach; Dorzecze, Dolina, Zachod, Reach, Krainy Burzy, Dorne, Krolewska Przystan, Zelazne Wyspy; Essos - Braavos, Pentos, reszta). W KAZDYM REGIONIE TRZY POZIOMY ZRODLA: (1) CO WIEMY Z BOKU - jawne, ogloszone, widoczne; (2) CO SLYSZYMY OD LUDZI - pogloski, targ, karczma, port; (3) CO USTALAJA NASZE ZRODLA - siatka i placowki (bez imion). Przy kazdej pozycji pewnosc + data zrodla. BEZ INTERPRETACJI - interpretuje czlowiek wskazany przez pana w Winterfell (do slowa pana). Biale plamy wypisane wprost. ### WILLA: poziomy 1-3 dla wszystkich regionow; sygnaly gospodarcze, ktore sama slyszy (kto skupuje, statki, zapasy). Essos z faktorii Domu, nie od Nesty. ### (Historia formy z 06-30, nadal wazna, o ile nie sprzeczna z powyzszym:) RAPORT WILLI DLA PANA (wola pana 300-06-30) - DWIE KARTY: (A) SWIAT (Essos: list Braavos-Fosa ~3 tyg. - kanaly.json; wiesc z Braavos ma ~3-4 tyg., z Pentos ~4-5. ⚑ SYGNALY Z ESSOS DAJE FAKTORIA DOMU, NIE NESTA - wola pana 06-30: Braavos - filia Domu (w obsadzie, meldunek Hala ~08-25; do tego czasu kolumna Braavos cienka), Pentos - placowka Obara (ksiega co miesiac + inspektor, gdy stanie). Kantor Nesty - tylko poczta, jak dotad) - Siedem Krolestw i Essos, region po regionie, ⚑ WOLA PANA 06-30 (ostatecznie): ZAMIAST CEN - SYGNALY GOSPODARCZE, BEZ INTERPRETACJI WILLI. Sygnal = jedno zdanie o RUCHU (co drozeje/tanieje, kto skupuje lub przestal, kredyt drozeje/tanieje, statki ida gdzie indziej, zapasy rosna/spadaja) + PEWNOSC (pewne · prawdopodobne · plotka) + DATA ZRODLA. Tabel cen brak - liczby zostaja w ksiedze Willi jako podklad, na zadanie. INTERPRETUJA PISARZE LUB DORADCY PANA w Winterfell (kto - do slowa pana). Zgodne z pionem 02-07: Kanclerz nie interpretuje danych finansowych sam; oko, ucho i jezyk rozdzielone. Wiesci jawne i siatka (bez imion) - jak dotad, tez bez wnioskow; BIALE PLAMY wypisane co miesiac wprost (bez kanalu nie ma wiadomosci - zasada 34). (B) POLNOC - WIESCI Z REGIONOW (wola pana 06-30): region po regionie, CO SIE MOWI (targ, karczma, port, droga, komora) - Bialy Port, Zimowe Miasto, Przesmyk/Fosa, ziemie Cerwyna, granica Dorzecza, Mur/Dar, sfera Dreadfortu; regiony BEZ ucha (Barrowlandy, Wilczy Las, Kamienny Brzeg, Torrhen's Square, Rills, Karhold, Ostatnie Ognisko, gory, Wyspa Niedzwiedzia, Skagos) wypisane jako biale plamy, poki nie ma kanalu (zasada 34). Zrodla: Maega, filie Domu, wedrowni kupcy filii polnocnych JESLI Hal ich postawil (pion 02-15 - pytanie w liscie do Hala 06-30). NIE sale lordow (Ucho Korony - krzeslo puste). POZA KOLEJKA: co ma DATE albo LICZBE LUDZI POD BRONIA idzie od razu, bez czekania na pierwszego (wzor Berona 300-02-27). Kwartalny przeglad wlasnych liczb Willi - osobno, bez zmian. ### ⚑ DOPISEK PANA 06-30: POGLOSKI TAKZE Z MIEJSC, GDZIE NIE MAMY LUDZI (Tyrosh, Lys, Myr, Volantis, Elyria, Qarth, Wolne Miasta, Dorne, Krainy Burzy...) - wpisywac jako POGLOSKA Z DRUGIEJ REKI z podaniem, GDZIE uslyszana (port Bialy Port, faktoria Braavos, Pentos, kapitanowie, Lucan) i ile ma dni. Region przestaje byc biala plama, gdy przyjdzie choc pogloska; biala plama = nie doszlo nawet to. Kanal i tak jest: statki i porty (zasada 34 spelniona przez miejsce, w ktorym sie slyszy). ### ⚑ DOPISEK PANA 06-30 (2): REGIONY DODANE IMIENNIE - WYSPY LETNIE ('Wyspy Poludniowe' pana; pogloski od statkow-labedzi w Starym Miescie/Braavos, przez kapitanow), STOPNIE (piraci, sztormy, cla na drodze dookola Dorne - od kapitanow i faktorii Braavos), IBBEN (wielorybnicy i kupcy ibbenscy - Braavos i porty Zatoki Fok/Bialy Port, jesli zawijaja). ### LISTA I KOLEJNOSC REGIONOW: gra/raport_regiony_300_06.md (06-30, ~50 regionow w 4 grupach: Polnoc po regionach / Siedem Krolestw / Waskie Morze i Wolne Miasta / Daleki Wschod i Poludnie).",
-   "kto": "WILLA",
-   "kanal": "kruk Fosa-Winterfell, pieczec domowa, szyfr, do rak wlasnych pana",
-   "rytm": {
-    "dzien_miesiaca": 1
-   },
-   "opoznienie": 2,
-   "ostatnio_odebrane": "300-10-01",
-   "zrodlo": "dziennik 300-06-30 (izba Willi); pierwszy raport pisany 300-08-01"
-  },
-  {
    "id": "RAPORT_TAMA",
    "co": "KARTA TAMA (gospodarka) - czesc wspolnego raportu. ⚑ WOLA PANA 06-30 (ostatecznie, zastepuje wczesniejsze sformulowania): RAPORT WYWIADOWCZY I GOSPODARCZY - WILLA + TAM - do Winterfell, DO RAK WLASNYCH PANA. PODZIAL: regiony/krolestwa (Polnoc po regionach; Dorzecze, Dolina, Zachod, Reach, Krainy Burzy, Dorne, Krolewska Przystan, Zelazne Wyspy; Essos - Braavos, Pentos, reszta). W KAZDYM REGIONIE TRZY POZIOMY ZRODLA: (1) CO WIEMY Z BOKU - jawne, ogloszone, widoczne; (2) CO SLYSZYMY OD LUDZI - pogloski, targ, karczma, port; (3) CO USTALAJA NASZE ZRODLA - siatka i placowki (bez imion). Przy kazdej pozycji pewnosc + data zrodla. BEZ INTERPRETACJI - interpretuje czlowiek wskazany przez pana w Winterfell (do slowa pana). Biale plamy wypisane wprost. ### TAM: PRZEPLYWY PIENIEZNE (dokad i skad idzie pieniadz - przez placowki, weksle, Bank, cudze srebro), WZROSTY STAWEK (kredyt, dyskonto weksli, skladki, frachty, myto/cla), SPADKI I WZROSTY CEN TOWAROW - region po regionie, z ksiag placowek i obrotu. ⚠ BEZ TAJNEJ KSIEGI: prawdziwe zyski Kasy 1 widza tylko Tam i pan (struktura_domu_tally.md) - karta idzie do czytelnika wskazanego przez pana, wiec tajna ksiega do niej NIE WCHODZI; jesli pan chce liczb z tajnej ksiegi - osobna kartka, tylko do niego. ### FIREWALL: Tam nie widzi siatki Willi, Willa nie widzi ksiag Tama - DWIE KARTY, TEN SAM PODZIAL I KOLEJNOSC REGIONOW, TEN SAM DZIEN; skladaja sie dopiero w Winterfell. ### ⚑ DOPISEK PANA 06-30: POGLOSKI TAKZE Z MIEJSC, GDZIE NIE MAMY LUDZI (Tyrosh, Lys, Myr, Volantis, Elyria, Qarth, Wolne Miasta, Dorne, Krainy Burzy...) - wpisywac jako POGLOSKA Z DRUGIEJ REKI z podaniem, GDZIE uslyszana (port Bialy Port, faktoria Braavos, Pentos, kapitanowie, Lucan) i ile ma dni. Region przestaje byc biala plama, gdy przyjdzie choc pogloska; biala plama = nie doszlo nawet to. Kanal i tak jest: statki i porty (zasada 34 spelniona przez miejsce, w ktorym sie slyszy). ### ⚑ DOPISEK PANA 06-30 (2): REGIONY DODANE IMIENNIE - WYSPY LETNIE ('Wyspy Poludniowe' pana; pogloski od statkow-labedzi w Starym Miescie/Braavos, przez kapitanow), STOPNIE (piraci, sztormy, cla na drodze dookola Dorne - od kapitanow i faktorii Braavos), IBBEN (wielorybnicy i kupcy ibbenscy - Braavos i porty Zatoki Fok/Bialy Port, jesli zawijaja). ### LISTA I KOLEJNOSC REGIONOW: gra/raport_regiony_300_06.md (06-30, ~50 regionow w 4 grupach: Polnoc po regionach / Siedem Krolestw / Waskie Morze i Wolne Miasta / Daleki Wschod i Poludnie).",
    "kto": "TAM",
@@ -16291,6 +16279,33 @@
    "opoznienie": 0,
    "ostatnio_odebrane": "300-09-26",
    "zrodlo": "rozkaz Namiestnika 300-09-15/16 (ALARM 36)"
+  },
+  {
+   "id": "CENTRALA_WILLI",
+   "co": "STRONA WILLI - CENTRALA ZM (slowo pana 10-03): jedna strona 'co sie laczy' - gdzie dwie karty placowek mowia o tym samym, gdzie sobie przecza; nie streszczenie. Do przejscia placowek na wlasne dni (X-XI) - takze sprawy Polnocy z dawnej karty (Dreadfort, patrycjat, rzemioslo, baczenie bramy Fosy). Karty placowek - osobne cykle przy otwarciu centrow (Cailin 2., BP 6., Seagard 10., Braavos 14., Pentos 18., Stare Miasto 22., KP 26.).",
+   "kto": "WILLA",
+   "kanal": "czlowiek Willi ZM->WF, do rak wlasnych pana",
+   "rytm": {
+    "dzien_miesiaca": 28
+   },
+   "opoznienie": 0,
+   "ostatnio_odebrane": "300-09-28",
+   "zrodlo": "slowo pana 300-10-03 (zaklad Willi, ZM)"
+  }
+ ],
+ "_cykliczne_zakonczone": [
+  {
+   "id": "RAPORT_WILLI",
+   "co": "KARTA WILLI (wywiad) - czesc wspolnego raportu. ⚑ WOLA PANA 06-30 (ostatecznie, zastepuje wczesniejsze sformulowania): RAPORT WYWIADOWCZY I GOSPODARCZY - WILLA + TAM - do Winterfell, DO RAK WLASNYCH PANA. PODZIAL: regiony/krolestwa (Polnoc po regionach; Dorzecze, Dolina, Zachod, Reach, Krainy Burzy, Dorne, Krolewska Przystan, Zelazne Wyspy; Essos - Braavos, Pentos, reszta). W KAZDYM REGIONIE TRZY POZIOMY ZRODLA: (1) CO WIEMY Z BOKU - jawne, ogloszone, widoczne; (2) CO SLYSZYMY OD LUDZI - pogloski, targ, karczma, port; (3) CO USTALAJA NASZE ZRODLA - siatka i placowki (bez imion). Przy kazdej pozycji pewnosc + data zrodla. BEZ INTERPRETACJI - interpretuje czlowiek wskazany przez pana w Winterfell (do slowa pana). Biale plamy wypisane wprost. ### WILLA: poziomy 1-3 dla wszystkich regionow; sygnaly gospodarcze, ktore sama slyszy (kto skupuje, statki, zapasy). Essos z faktorii Domu, nie od Nesty. ### (Historia formy z 06-30, nadal wazna, o ile nie sprzeczna z powyzszym:) RAPORT WILLI DLA PANA (wola pana 300-06-30) - DWIE KARTY: (A) SWIAT (Essos: list Braavos-Fosa ~3 tyg. - kanaly.json; wiesc z Braavos ma ~3-4 tyg., z Pentos ~4-5. ⚑ SYGNALY Z ESSOS DAJE FAKTORIA DOMU, NIE NESTA - wola pana 06-30: Braavos - filia Domu (w obsadzie, meldunek Hala ~08-25; do tego czasu kolumna Braavos cienka), Pentos - placowka Obara (ksiega co miesiac + inspektor, gdy stanie). Kantor Nesty - tylko poczta, jak dotad) - Siedem Krolestw i Essos, region po regionie, ⚑ WOLA PANA 06-30 (ostatecznie): ZAMIAST CEN - SYGNALY GOSPODARCZE, BEZ INTERPRETACJI WILLI. Sygnal = jedno zdanie o RUCHU (co drozeje/tanieje, kto skupuje lub przestal, kredyt drozeje/tanieje, statki ida gdzie indziej, zapasy rosna/spadaja) + PEWNOSC (pewne · prawdopodobne · plotka) + DATA ZRODLA. Tabel cen brak - liczby zostaja w ksiedze Willi jako podklad, na zadanie. INTERPRETUJA PISARZE LUB DORADCY PANA w Winterfell (kto - do slowa pana). Zgodne z pionem 02-07: Kanclerz nie interpretuje danych finansowych sam; oko, ucho i jezyk rozdzielone. Wiesci jawne i siatka (bez imion) - jak dotad, tez bez wnioskow; BIALE PLAMY wypisane co miesiac wprost (bez kanalu nie ma wiadomosci - zasada 34). (B) POLNOC - WIESCI Z REGIONOW (wola pana 06-30): region po regionie, CO SIE MOWI (targ, karczma, port, droga, komora) - Bialy Port, Zimowe Miasto, Przesmyk/Fosa, ziemie Cerwyna, granica Dorzecza, Mur/Dar, sfera Dreadfortu; regiony BEZ ucha (Barrowlandy, Wilczy Las, Kamienny Brzeg, Torrhen's Square, Rills, Karhold, Ostatnie Ognisko, gory, Wyspa Niedzwiedzia, Skagos) wypisane jako biale plamy, poki nie ma kanalu (zasada 34). Zrodla: Maega, filie Domu, wedrowni kupcy filii polnocnych JESLI Hal ich postawil (pion 02-15 - pytanie w liscie do Hala 06-30). NIE sale lordow (Ucho Korony - krzeslo puste). POZA KOLEJKA: co ma DATE albo LICZBE LUDZI POD BRONIA idzie od razu, bez czekania na pierwszego (wzor Berona 300-02-27). Kwartalny przeglad wlasnych liczb Willi - osobno, bez zmian. ### ⚑ DOPISEK PANA 06-30: POGLOSKI TAKZE Z MIEJSC, GDZIE NIE MAMY LUDZI (Tyrosh, Lys, Myr, Volantis, Elyria, Qarth, Wolne Miasta, Dorne, Krainy Burzy...) - wpisywac jako POGLOSKA Z DRUGIEJ REKI z podaniem, GDZIE uslyszana (port Bialy Port, faktoria Braavos, Pentos, kapitanowie, Lucan) i ile ma dni. Region przestaje byc biala plama, gdy przyjdzie choc pogloska; biala plama = nie doszlo nawet to. Kanal i tak jest: statki i porty (zasada 34 spelniona przez miejsce, w ktorym sie slyszy). ### ⚑ DOPISEK PANA 06-30 (2): REGIONY DODANE IMIENNIE - WYSPY LETNIE ('Wyspy Poludniowe' pana; pogloski od statkow-labedzi w Starym Miescie/Braavos, przez kapitanow), STOPNIE (piraci, sztormy, cla na drodze dookola Dorne - od kapitanow i faktorii Braavos), IBBEN (wielorybnicy i kupcy ibbenscy - Braavos i porty Zatoki Fok/Bialy Port, jesli zawijaja). ### LISTA I KOLEJNOSC REGIONOW: gra/raport_regiony_300_06.md (06-30, ~50 regionow w 4 grupach: Polnoc po regionach / Siedem Krolestw / Waskie Morze i Wolne Miasta / Daleki Wschod i Poludnie).",
+   "kto": "WILLA",
+   "kanal": "kruk Fosa-Winterfell, pieczec domowa, szyfr, do rak wlasnych pana",
+   "rytm": {
+    "dzien_miesiaca": 1
+   },
+   "opoznienie": 2,
+   "ostatnio_odebrane": "300-10-01",
+   "zrodlo": "dziennik 300-06-30 (izba Willi); pierwszy raport pisany 300-08-01",
+   "zakonczony": "300-10-03 - SLOWO PANA: zastapiony kalendarzem placowek (kazda w innym dniu) i strona Willi 28. (CENTRALA_WILLI)"
   }
  ]
 }

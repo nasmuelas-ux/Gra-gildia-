@@ -10,3 +10,4 @@
   - Ścieżka dokłada się do Kanonu, nie zastępuje go: wspólny kanon idzie do końca szczebla III.
   - Wolno ją zmienić raz.
   - **Szczebel III od dziś** (prawo i ludzie; od III wysoki valyriański).
+  - **Nauczyciele ścieżki (300-10-06):** miecz uczy **mistrz z Braavos przy przybocznej, Talvo Rhessin** (E, imię). Uczył Aryi już wcześniej, a teraz prowadzi ją jako nauczyciel ścieżki (słowo gracza). Braavoski uczy Namiestnik. Wysoki valyriański od szczebla III uczy Luwin.

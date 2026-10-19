@@ -13782,7 +13782,7 @@
    "kanal": "Winterfell / komory",
    "wraca": "300-10-02",
    "zamyka": "pierwsza karta w racjach na stole pana + slupy w komorach",
-   "status": "otwarte ### 300-10-01 NA STOLE PANA od 10-01 rano (Gawen + Orland) - odczyt na slowo pana."
+   "status": "zamkniete 300-10-01 ### PAN PRZECZYTAL (gra/karta_zywnosciowa_IX_i_konserwa_I_300_10_01.md): waga RZUT 56 - zgodnie z ksiega; zboze ~303 dni, tluszcz ~38, kiszonka ~27, ryba ~10; Konserwa: kiszonka 140/300, ryba 26/80, waskie gardlo BECZKI (bednarze ZM robia najpierw beczke zimowa Domu). ### POPRZEDNIO: byl-otw ### 300-10-01 NA STOLE PANA od 10-01 rano (Gawen + Orland) - odczyt na slowo pana."
   },
   {
    "data": "300-09-03",
@@ -13809,7 +13809,7 @@
    "kanal": "domena / Winterfell",
    "wraca": "300-10-02",
    "zamyka": "meldunek na stole pana",
-   "status": "otwarte ### 300-10-01 NA STOLE PANA od 10-01 rano (Gawen + Orland) - odczyt na slowo pana."
+   "status": "zamkniete 300-10-01 ### PAN PRZECZYTAL (gra/karta_zywnosciowa_IX_i_konserwa_I_300_10_01.md): waga RZUT 56 - zgodnie z ksiega; zboze ~303 dni, tluszcz ~38, kiszonka ~27, ryba ~10; Konserwa: kiszonka 140/300, ryba 26/80, waskie gardlo BECZKI (bednarze ZM robia najpierw beczke zimowa Domu). ### POPRZEDNIO: byl-otw ### 300-10-01 NA STOLE PANA od 10-01 rano (Gawen + Orland) - odczyt na slowo pana."
   },
   {
    "data": "300-09-03",
@@ -13863,7 +13863,7 @@
    "kanal": "Winterfell",
    "wraca": "300-10-02",
    "zamyka": "rachunek z wagi + slowo pana o tranie",
-   "status": "otwarte ### 09-03 SLOWO PANA: TRAN Z DANIN DO ZAPASU (nie na sprzedaz); 'PRIORYTETEM JEST KONSERWACJA ZYWNOSCI' - stala wola: Konserwa Korony ma pierwszenstwo do soli Korony, beczek bednarzy ZM, ludzi domeny i srodkow Kasy 3 przed innymi budowami domeny. Tran (E): ~40 t/rok w daninach, jadalny ~1/2 (~20 t = ~50 000 ZR, czesc tluszczowa ~250 000 dni); waskie gardlo tluszczu z ~47 tys. do ~300 tys. dni. Skutek (zasada 8): tran wypada z towaru na raty Reach/Illyrii i ze spienezenia natury - Gawen bierze w jego miejsce drewno i futra. Rachunek z wagi ~10-01. ### 300-10-01 NA STOLE PANA od 10-01 rano (Gawen + Orland) - odczyt na slowo pana."
+   "status": "zamkniete 300-10-01 ### PAN PRZECZYTAL (gra/karta_zywnosciowa_IX_i_konserwa_I_300_10_01.md): waga RZUT 56 - zgodnie z ksiega; zboze ~303 dni, tluszcz ~38, kiszonka ~27, ryba ~10; Konserwa: kiszonka 140/300, ryba 26/80, waskie gardlo BECZKI (bednarze ZM robia najpierw beczke zimowa Domu). ### POPRZEDNIO: byl-otw ### 09-03 SLOWO PANA: TRAN Z DANIN DO ZAPASU (nie na sprzedaz); 'PRIORYTETEM JEST KONSERWACJA ZYWNOSCI' - stala wola: Konserwa Korony ma pierwszenstwo do soli Korony, beczek bednarzy ZM, ludzi domeny i srodkow Kasy 3 przed innymi budowami domeny. Tran (E): ~40 t/rok w daninach, jadalny ~1/2 (~20 t = ~50 000 ZR, czesc tluszczowa ~250 000 dni); waskie gardlo tluszczu z ~47 tys. do ~300 tys. dni. Skutek (zasada 8): tran wypada z towaru na raty Reach/Illyrii i ze spienezenia natury - Gawen bierze w jego miejsce drewno i futra. Rachunek z wagi ~10-01. ### 300-10-01 NA STOLE PANA od 10-01 rano (Gawen + Orland) - odczyt na slowo pana."
   },
   {
    "data": "300-09-03",
@@ -15022,9 +15022,9 @@
    "co": "CZLOWIEK Z MURU DO LUPACZY STANNISA (slowo pana 09-18, prosba Davosa): list do Aemona/Clydasa - Mur wskazuje; wsiada na kadlub Wymana przy Wschodniej Strazniy ~XI. Odpowiedz Muru - RZUT.",
    "kto": "SYMON -> AEMON/CLYDAS",
    "kanal": "kruk WF-Czarny Zamek 09-19",
-   "wraca": "300-10-02",
+   "wraca": "300-10-05",
    "zamyka": "imie czlowieka z Muru",
-   "status": "otwarte ### 300-10-01 ODPOWIEDZ MURU (CLYDAS za Aemona) - RZUT 27 (prog 45; pasmo 25-49): bedzie ktos, ale POZNIEJ (~XII) - 'z tych, co znaja Wschodnia Straznice, nikt nie moze teraz zejsc' (O). Kadlub Wymana przy Wschodniej Straznicy ~XI - NIE ZGRA SIE. Do slowa pana: czekac do XII, inny statek, czy inny czlowiek."
+   "status": "otwarte ### 300-10-01 ODPOWIEDZ MURU (CLYDAS za Aemona) - RZUT 27 (prog 45; pasmo 25-49): bedzie ktos, ale POZNIEJ (~XII) - 'z tych, co znaja Wschodnia Straznice, nikt nie moze teraz zejsc' (O). Kadlub Wymana przy Wschodniej Straznicy ~XI - NIE ZGRA SIE. Do slowa pana: czekac do XII, inny statek, czy inny czlowiek. ### 300-10-01 SLOWO PANA: 'A moze ktos ze strazy?' - zamiast brata Nocnej Strazy ktos z NASZEJ strazy (Korona) do nauki lupania smoczego szkla u ludzi Stannisa; Rodrik wskazuje czlowieka z rekami do kamienia; Hal pyta kapitana Wymana, gdzie kadlub moze go wziac (BP czy Wschodnia Straznica). Clydas - czlowiek Muru w XII zostaje jako drugi (list pana)."
   },
   {
    "data": "300-09-18",
@@ -15787,9 +15787,9 @@
    "co": "TROP GIL OD SWIEC (meldunek Stena i Rhony 10-01): chlopiec ~9 l. nosi swiece do skrzydla Tallych czesciej niz trzeba; miedziak od czlowieka od drewna (E, nowy od lata). Odczyt, nie prawda (prawda - RZUT przy dzialaniu, pasma przed rzutem). DO SLOWA PANA.",
    "kto": "SYMON -> STEN / RHONA / ALDWIN",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-02",
-   "zamyka": "slowo pana: co z Gilem i czlowiekiem od drewna",
-   "status": "otwarte"
+   "wraca": "300-10-08",
+   "zamyka": "meldunek Stena: kto i po co",
+   "status": "otwarte ### 300-10-01 SLOWO PANA: OBSERWACJA Gila i czlowieka od drewna - STEN (ludzie przybocznej) + RHONA; nie ruszac, nie pytac wiecej. Meldunek ~10-08 (RZUT przy meldunku, pasma przed rzutem)."
   },
   {
    "data": "300-10-01",
@@ -15834,6 +15834,24 @@
    "kanal": "kancelaria WF (polecenie przez Aldwina/kartka pana)",
    "wraca": "300-10-06",
    "zamyka": "porownanie w ksiedze milczenia",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-01",
+   "co": "KONSERWA - BECZKI: bednarze ZM robia najpierw beczke zimowa Domu (placi z gory) - pierwszenstwo Konserwy (slowo pana 09-03) nie dziala. Propozycje Edrica: (a) ogloszenie na slupie i u cechu; (b) Korona tez placi z gory (zadatek od beczki, Kasa 3); (c) bednarz z rodzina na warsztat przy przetworni Podgrodzie tylko dla Konserwy. DO SLOWA PANA.",
+   "kto": "SYMON -> EDRIC PLUG ; GAWEN",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-02",
+   "zamyka": "slowo pana na (a)/(b)/(c)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-01",
+   "co": "HENDRY - LODZIE DLA JASTRZEBI NA RZECE 'ZNACZNIE WIECEJ NA ZAPAS' (slowo pana 10-01, prosba Hendry'ego o dwie): zamowienie ~10 lodzi plaskodennych u ciesli z kep (E), kilka od razu na Goraczke, reszta w szopach na zapas; Kasa 2 (Gerrik) - kosztorys w zbiorczym. Kruk WF-Fosa szyfrem z poczta popoludniowa. Wlasni - bez rzutu.",
+   "kto": "HENDRY ; GERRIK (Kasa 2)",
+   "kanal": "kruk WF-Fosa, szyfr Domu",
+   "wraca": "300-10-14",
+   "zamyka": "lodzie na wodzie i w szopach; kosztorys",
    "status": "otwarte"
   }
  ],
@@ -16177,7 +16195,7 @@
     "start": "300-10-01"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": null,
+   "ostatnio_odebrane": "300-10-01",
    "zrodlo": "gra/konserwa_korony_organizacja_300_09_03.md"
   },
   {

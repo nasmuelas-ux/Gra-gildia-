@@ -11404,9 +11404,9 @@
    "co": "SIEC WIEZ OBSERWACYJNYCH KORONY NA GRANICY CYPLA (Krol rzut 35 - jedna konsekwencja): ETAP 1 - wieze wpiete w lancuch ognia Robetta od strony puszczy; ETAP 2 (brzeg) - po pomiarze granicy (mierniczy Korony + Holt Sosna) i liczbie ognisk od Mance'a. Budowa od IX (nie z Kasy 3 w VIII). Kosztorys - Gawen; drewno - z puszczy Glovera (jego wyreb) albo kamien.",
    "kto": "GAWEN (kosztorys) ; ROBETT ; mierniczy Korony",
    "kanal": "kruk Winterfell-Deepwood",
-   "wraca": "300-10-04",
+   "wraca": "300-10-17",
    "zamyka": "cztery wieze etapu 1 stoja i sa wpiete w lancuch ognia",
-   "status": "otwarte ### 09-01: kosztorys Gawena: etap 1 cztery wieze drewniane ~60 (E, Kasa 3); w IX czy po bilansie IX - do slowa pana (postanowienie Rady 08-29 A). ### 09-01 SLOWO PANA: BUDUJEMY W IX - etap 1, cztery wieze drewniane, ~60 (Kasa 3). Robett + drwale Glovera; kosztorys Gawena. ### 300-09-30 Stan w karcie lancucha Glovera/Robetta (~10-02). ### 300-10-03 TRIAZ: karta lancucha Glovera pisana 10-03 - w WF ~10-04. ### 300-10-04 RANO: mgla i mzawka (pogoda 24) - kruki od poludnia; poczta (karta lancucha, list Miry) PO POLUDNIU."
+   "status": "otwarte ### 09-01: kosztorys Gawena: etap 1 cztery wieze drewniane ~60 (E, Kasa 3); w IX czy po bilansie IX - do slowa pana (postanowienie Rady 08-29 A). ### 09-01 SLOWO PANA: BUDUJEMY W IX - etap 1, cztery wieze drewniane, ~60 (Kasa 3). Robett + drwale Glovera; kosztorys Gawena. ### 300-09-30 Stan w karcie lancucha Glovera/Robetta (~10-02). ### 300-10-03 TRIAZ: karta lancucha Glovera pisana 10-03 - w WF ~10-04. ### 300-10-04 RANO: mgla i mzawka (pogoda 24) - kruki od poludnia; poczta (karta lancucha, list Miry) PO POLUDNIU. ### 300-10-04 KARTA LANCUCHA (gra/karta_lancucha_300_10_03.md): trzy wieze stoja i sa wpiete; czwarta (granica Cypla) - po sniezycy, ~10-15."
   },
   {
    "data": "300-08-01",
@@ -15636,7 +15636,7 @@
    "kanal": "kruk WF-Deepwood",
    "wraca": "300-10-04",
    "zamyka": "daszki stoja, kwit u Gawena",
-   "status": "otwarte ### 300-10-03 TRIAZ: karta lancucha Glovera pisana 10-03 - w WF ~10-04. ### 300-10-04 RANO: mgla i mzawka (pogoda 24) - kruki od poludnia; poczta (karta lancucha, list Miry) PO POLUDNIU."
+   "status": "zamkniete 300-10-04 ### KARTA LANCUCHA: daszki stoja w obu punktach; kwit ~1 smok do Gawena (Kasa 3). ### POPRZEDNIO: byl-otw ### 300-10-03 TRIAZ: karta lancucha Glovera pisana 10-03 - w WF ~10-04. ### 300-10-04 RANO: mgla i mzawka (pogoda 24) - kruki od poludnia; poczta (karta lancucha, list Miry) PO POLUDNIU."
   },
   {
    "data": "300-09-27",
@@ -15870,7 +15870,7 @@
    "kanal": "kruk Domu WF-Fosa",
    "wraca": "300-10-04",
    "zamyka": "odpowiedz Miry",
-   "status": "otwarte ### 300-10-04 RANO: mgla i mzawka (pogoda 24) - kruki od poludnia; poczta (karta lancucha, list Miry) PO POLUDNIU."
+   "status": "zamkniete 300-10-04 ### ODPOWIEDZ MIRY (kruk Domu z Fosy, po poludniu, pisana 10-02). Bez rzutu. Tresc w dzienniku 10-04. ### POPRZEDNIO: byl-otw ### 300-10-04 RANO: mgla i mzawka (pogoda 24) - kruki od poludnia; poczta (karta lancucha, list Miry) PO POLUDNIU."
   },
   {
    "data": "300-10-02",
@@ -15951,6 +15951,15 @@
    "kanal": "osobiscie",
    "wraca": "300-10-07",
    "zamyka": "zadanie zrobione (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-04",
+   "co": "STRAZ LANCUCHA OGNIA - BUTY I KOZUCHY NA ZIME (karta Robetta 10-03): 40 par butow z futrem + 40 kozuchow dla strazy punktow; 'ogien zapala tylko zywi'. Do slowa pana (Gawen: skory ze swiadczen Korony albo zakup / odliczenie od swiadczen).",
+   "kto": "SYMON -> GAWEN ; ROBETT",
+   "kanal": "osobiscie WF; kruk WF-Deepwood",
+   "wraca": "300-10-05",
+   "zamyka": "slowo pana i buty/kozuchy w drodze",
    "status": "otwarte"
   }
  ],
@@ -16295,7 +16304,7 @@
     "start": "300-09-26"
    },
    "opoznienie": 0,
-   "ostatnio_odebrane": "300-09-26",
+   "ostatnio_odebrane": "300-10-03",
    "zrodlo": "rozkaz Namiestnika 300-09-15/16 (ALARM 36)"
   },
   {

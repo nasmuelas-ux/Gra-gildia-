@@ -33,4 +33,5 @@
 - **Arya, kanon (Syrio):** zdanie po braavosku, którego nikt jej nie zadał: *„Strach tnie głębiej niż miecz.”* Mówi je z akcentem na „strach” i nie tłumaczy.
 - **Sansa** pyta po braavosku, czy to taniec jak na dworze, z krokami i muzyką. Arya parska. Sansa nie ustępuje i mówi: *„Krok to krok.”* Do końca lekcji obie mówią po braavosku. Wspólnej mowy nie było ani razu.
 
-## LEKCJA 22: ZAMKNIĘTA. Zadanie na 23 i termin: do słowa pana
+## LEKCJA 22: ZAMKNIĘTA
+**Słowo pana 10-07: lekcja 23 w pt 10-10.** Powtórka: sztych, równowaga. Zadanie: Arya zadaje Talvowi jedno pytanie po braavosku i przynosi odpowiedź; Sansa pisze 3 zdania „krok to krok” (taniec dworski a taniec wody).

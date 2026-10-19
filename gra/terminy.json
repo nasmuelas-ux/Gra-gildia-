@@ -15862,6 +15862,15 @@
    "wraca": "300-10-05",
    "zamyka": "bednarz przy warsztacie, kosztorys przyjety, pierwsze beczki tylko dla Konserwy",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-01",
+   "co": "LIST PANA DO MIRY (prywatny, wieczor 10-01): mala sie rozgadala i mowi juz bardzo duzo (+ jej zdania z ostatnich dni). Kruk Domu WF-Fosa z poczta wieczorna. Odpowiedz Miry - bez rzutu (rodzina; tresc O).",
+   "kto": "SYMON -> MIRA",
+   "kanal": "kruk Domu WF-Fosa",
+   "wraca": "300-10-04",
+   "zamyka": "odpowiedz Miry",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

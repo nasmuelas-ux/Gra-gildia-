@@ -239,3 +239,23 @@
 - **Szkoła wywiadu (od XI)** uczy wszystkich trzech czytań: każdy uczeń przez miesiąc przy każdym stole.
 - **Koszt dodatkowy (E):** dwóch analityków ~2–3 smoki/mies. **Do słowa pana.**
 - **Willa (O):** *„Uszy powiedzą, że kowal w Seagardzie kuje groty. Stół wojskowy powie, ile to włóczni. Stół logistyczny powie, ile wozów je zawiezie i kiedy. A to już jest wiadomość.”*
+
+### PAN 300-10-03: „Czy jest coś, co mogłoby to ułatwić, albo czego ten wywiad nie pokrywa?”
+**WILLA (O):**
+
+**A. Co ułatwi:**
+1. **Kartoteka z indeksem w centrali:** ludzie, miejsca, statki, towary. Karta do każdego imienia i każdej nazwy, z odsyłaczami do raportów. *„Bez kartoteki trzy stoły czytają, ale nie pamiętają.”*
+2. **Jedna miara we wszystkich kartach:** racja, korzec, smok, dzień drogi, a przy każdej pozycji pewność i data. Każda placówka liczy tak samo.
+3. **Odpis tego, co Korona już ma, bez imion:** księgi komór celnych i myta, karty przewozu, ceny ze słupa, dzienniki okrętów Torrena. *„Komora wie, co jedzie, zanim my usłyszymy, że jedzie.”* Do słowa pana, bo to papiery Korony, a nie Domu.
+4. **Kalendarz świata:** targi, święta, przypływy, sezon sztormów, terminy danin i poborów u innych. Wtedy wiadomo, kiedy patrzeć.
+5. **Mapy dla stołu logistycznego:** trakty, przeprawy i dni drogi, z odpisu map Korony i UT-1 Kessela.
+
+**B. Czego nie pokrywa:**
+1. **Dolina, Dorne, Krainy Burzy i Reach** poza Starym Miastem. Teatrów tam nie ma. *„Wiemy tyle, ile przyniesie kupiec.”*
+2. **Za Murem.** Nie mamy żadnych oczu po drugiej stronie, mamy tylko Mur (Hallis) i ogniska na Cyplu (Vemund).
+3. **Wschodni brzeg i Skagos.** Karhold, Umberowie i morze na wschód od nas. Nic.
+4. **Morze.** Uszy są w portach, ale nikt nie liczy żagli na wodzie. Mogłyby to robić okręty Torrena i lodmani w Gorącym Porcie.
+5. **Lordowie Północy.** Dreadfort już obserwujemy, ale reszta to pytanie polityczne, nie siatkowe: *„Czy wywiad Korony patrzy na własnych lordów? To pańskie słowo, nie moje. Jeśli tak, to cicho i tylko po pańskim pytaniu.”*
+6. **Cudze szyfry i języki.** Nikt nie umie czytać szyfrów Lwa ani Lys, a poza Braavos nie mamy tłumaczy z mów Wolnych Miast (Lys, Volantis, Myr).
+
+**Do słowa pana:** które z A i które z B.

@@ -14043,7 +14043,7 @@
    "kanal": "kruk WF-BP + statek BP-Braavos; Braavos-Sloneczna Wlocznia",
    "wraca": "300-10-20",
    "zamyka": "odpowiedz Oberyna: kto i kiedy",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-29 ### ZASTAPIONE slowem pana 09-29: NIE list przodem - POSELSTWO WYPLYWA OD RAZU i samo wiezie list do Oberyna (opis miejsca, przejazd przez przelecz Yronwoodow, wszystkich osmiu, Dayne do Starfall). [GM: list z 09-05 nie zostal wyslany - luka, ALARM 36.] ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-05",
@@ -14097,7 +14097,7 @@
    "kanal": "osobiscie WF; kruk do Barrowton (Harwood, cicho); list do Krola; list do Oberyna przez Neste",
    "wraca": "300-10-10",
    "zamyka": "sklad zatwierdzony (Krol + Rodrik), droga i data wyjazdu",
-   "status": "otwarte ### 09-05 SLOWO PANA - DROGA: z BIALEGO PORTU WLASNYM OKRETEM do SLONECZNEJ WLOCZNI, potem ladem przez YRONWOOD do Wiezy Radosci (propozycja statkow Redwyne'ow - odrzucona). GWARDZISCI (Dayne, Hightower, Whent): Korona OPLACA transport ich szczatkow do rodzin (E ~15-25 smokow, Kasa 3). ⚠ Z ZAPISU: Korona NIE MA dzis w BP wlasnego okretu na wode - KRA/Wzor II u Wymana: stepka po zniwach, na wodzie wiosna 301; Woly Domu - wiosna 301; kadluby Torrena - zachod (czujnosc, rozkaz 09-04); flota Wymana 10+2 - przy Krolu (powrot ~09-20). Do slowa pana: ktory okret. Droga BP->Sloneczna Wlocznia idzie przez Waskie Morze i STOPNIE (wojna Lys/Myr/Tyrosh, piraci) - eskorta. ### 09-05 SLOWO PANA: OKRET (b) - statek najety w BP pod bandera Korony (Hal/Torsen; uzbrojony kupiec, E ~50 smokow za ~3-4 mies. z zaloga, Kasa 3); przejazd przez Czerwone Gory - w liscie Oberyna (rzut 69: 'moi ludzie poprowadza'); zostaje: zgoda na gwardzistow (odpowiedz Oberyna) i rozkaz Krola dla Strazy (~09-20). LADY CATELYN (rzut 58): pisze listy w imieniu Starkow do Dustin, Glover, Cassel (przez Rodrika - najpierw slowo pana), Wull, Ryswell, Hightower, Whent; do STARFALL - podpis Krola albo Namiestnika. ### 09-05 RODRIK (Pierwszy Miecz): sam wybierze DWOCH ze Strazy ('najlepszych, nie najmlodszych') - po rozkazie Krola. SLOWO PANA: MARTYN CASSEL - pochowany w BOZYM GAJU WINTERFELL, przy drzewie, gdzie lezy ojciec Casselow (nie w krypcie Starkow). ### 09-18 SLOWO PANA (rada Lucana c): termin wyplyniecia - CZEKAMY na slowo Krola i Oberyna; Stopnie: X przed sztormami albo wczesna wiosna, nie latem. ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. Statek trzymany do 10-10. ### 300-09-25 TRIAZ: czeka na Krola (rozkaz dla Strazy); statek trzymany do 10-10."
+   "status": "zamkniete 300-09-29 ### SLOWO PANA 09-29: WYPLYWAMY OD RAZU, BEZ ZIMOWEJ STRAZY - tylko zolnierze Starkow (rozkaz Krola dla Strazy niepotrzebny). Operacje nizej. ### POPRZEDNIO: byl-otw ### 09-05 SLOWO PANA - DROGA: z BIALEGO PORTU WLASNYM OKRETEM do SLONECZNEJ WLOCZNI, potem ladem przez YRONWOOD do Wiezy Radosci (propozycja statkow Redwyne'ow - odrzucona). GWARDZISCI (Dayne, Hightower, Whent): Korona OPLACA transport ich szczatkow do rodzin (E ~15-25 smokow, Kasa 3). ⚠ Z ZAPISU: Korona NIE MA dzis w BP wlasnego okretu na wode - KRA/Wzor II u Wymana: stepka po zniwach, na wodzie wiosna 301; Woly Domu - wiosna 301; kadluby Torrena - zachod (czujnosc, rozkaz 09-04); flota Wymana 10+2 - przy Krolu (powrot ~09-20). Do slowa pana: ktory okret. Droga BP->Sloneczna Wlocznia idzie przez Waskie Morze i STOPNIE (wojna Lys/Myr/Tyrosh, piraci) - eskorta. ### 09-05 SLOWO PANA: OKRET (b) - statek najety w BP pod bandera Korony (Hal/Torsen; uzbrojony kupiec, E ~50 smokow za ~3-4 mies. z zaloga, Kasa 3); przejazd przez Czerwone Gory - w liscie Oberyna (rzut 69: 'moi ludzie poprowadza'); zostaje: zgoda na gwardzistow (odpowiedz Oberyna) i rozkaz Krola dla Strazy (~09-20). LADY CATELYN (rzut 58): pisze listy w imieniu Starkow do Dustin, Glover, Cassel (przez Rodrika - najpierw slowo pana), Wull, Ryswell, Hightower, Whent; do STARFALL - podpis Krola albo Namiestnika. ### 09-05 RODRIK (Pierwszy Miecz): sam wybierze DWOCH ze Strazy ('najlepszych, nie najmlodszych') - po rozkazie Krola. SLOWO PANA: MARTYN CASSEL - pochowany w BOZYM GAJU WINTERFELL, przy drzewie, gdzie lezy ojciec Casselow (nie w krypcie Starkow). ### 09-18 SLOWO PANA (rada Lucana c): termin wyplyniecia - CZEKAMY na slowo Krola i Oberyna; Stopnie: X przed sztormami albo wczesna wiosna, nie latem. ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. Statek trzymany do 10-10. ### 300-09-25 TRIAZ: czeka na Krola (rozkaz dla Strazy); statek trzymany do 10-10."
   },
   {
    "data": "300-09-05",
@@ -14115,7 +14115,7 @@
    "kanal": "kruk WF-BP (Wyman, do rak Krola)",
    "wraca": "300-10-10",
    "zamyka": "rozkaz Krola dla Rodrika",
-   "status": "otwarte ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
+   "status": "zamkniete 300-09-29 ### Prosba o rozkaz dla Strazy BEZPRZEDMIOTOWA - slowo pana 09-29: bez Zimowej Strazy. Relacja dla Krola - przy powrocie. ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: Krol na Skagos, 26 dni bez wiesci; list do Wymana (Skagos) poszedl 09-18 - odpowiedz ~09-21; sprawa czeka na Krola. ### 300-09-25 TRIAZ: NIE PRZYSZLO, WIADOMO DLACZEGO: czeka na KROLA (Skagos; zwiad wraca ~10-08)."
   },
   {
    "data": "300-09-05",
@@ -15699,6 +15699,24 @@
    "kanal": "ustnie WF",
    "wraca": "300-10-05",
    "zamyka": "meldunek Stena o Torvaldzie (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-29",
+   "co": "POSELSTWO KOSCI - WYJAZD (slowo pana 09-29): 10 ZOLNIERZY STARKOW (garnizon WF, szare plaszcze, choragiew wilka) + DOWODCA (Rodrik wskazuje) + SER HARWOOD WRZOS (czlowiek Barbrey - zgoda Barbrey krukiem, cicho); NIE Zimowa Straz. Droga: WF -> BP (~5 dni, E) -> statek najety (~40 Kasa 3) -> Waskie Morze i STOPNIE (jesien - ryzyko sztormow; statki rzadko tona - opoznienia) -> SLONECZNA WLOCZNIA (E ~4-5 tyg.) -> list do Oberyna z reki do reki: przejazd przez Czerwone Gory i przelecz Yronwoodow, zgoda na wszystkich OSMIU (Willam Dustin, Ethan Glover, Martyn Cassel, Theo Wull, Mark Ryswell; ser Arthur Dayne -> STARFALL, ser Gerold Hightower -> Stare Miasto, ser Oswell Whent -> Harrenhal przez Edmure'a). Wyjazd z WF ~10-01, BP ~10-06, w Dorne ~XI. Wlasni - bez rzutu; morze - pogoda; przyjecie w Dorne - RZUT na miejscu.",
+   "kto": "SER RODRIK (sklad, dowodca) ; HAL + TORSEN (statek) ; GAWEN (Kasa 3) ; BARBREY (Harwood)",
+   "kanal": "WF-BP traktem; statek BP-Sloneczna Wlocznia",
+   "wraca": "300-10-06",
+   "zamyka": "poselstwo na wodzie (wyplyniecie z BP)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-29",
+   "co": "BARBREY DUSTIN - SER HARWOOD WRZOS DO POSELSTWA KOSCI (slowo pana 09-29): kruk WF-Barrowton, cicho. Harwood ma byc w BP ~10-05. Zgoda Barbrey i termin - RZUT przy odpowiedzi.",
+   "kto": "SYMON -> BARBREY DUSTIN",
+   "kanal": "kruk WF-Barrowton",
+   "wraca": "300-10-02",
+   "zamyka": "odpowiedz Barbrey (rzut); Harwood w drodze do BP",
    "status": "otwarte"
   }
  ],

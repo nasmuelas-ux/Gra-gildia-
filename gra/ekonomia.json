@@ -1704,6 +1704,20 @@
    "kwota": -1,
    "opis": "LANCUCH OGNIA - daszki nad drewnem w punktach (zwrot Robettowi: drewno i robocizna) (E)",
    "zrodlo": "slowo pana 300-09-27"
+  },
+  {
+   "data": "300-10-06",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -38,
+   "opis": "POSELSTWO KOSCI - reszta za statek najety w BP (~40, zadatek 2 zaplacony) (E)",
+   "zrodlo": "slowo pana 300-09-29"
+  },
+  {
+   "data": "300-10-06",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -15,
+   "opis": "POSELSTWO KOSCI - trumny, plotno, zold i strawa 11 ludzi na 3-4 mies. (E)",
+   "zrodlo": "slowo pana 300-09-29; szacunek 09-05 ~60-90 lacznie"
   }
  ],
  "_symulacje": {

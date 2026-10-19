@@ -15745,6 +15745,15 @@
    "wraca": "300-10-03",
    "zamyka": "zarzadca Wymana przyjmuje stawke; mile odsniezane od pierwszego sniegu",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-29",
+   "co": "LIST PANA DO AEMONA (gra/list_do_aemona_300_09_29.md): szyfr Domu, kruk Domu WF-Czarny Zamek do BENNA (pisarz placowki Domu), odczyt Aemonowi do ust wlasnych; pan nie moze na Mur do powrotu Krola; wdziecznosc (list 299 - slowo nieuzyte; meldunek nie bajka - Archiwum; 'Ja poczekam'). Lot ~2-3 dni (E). Odpowiedz Aemona (stan zdrowia) - RZUT przy wiesci.",
+   "kto": "SYMON -> BENNO -> AEMON",
+   "kanal": "kruk Domu WF-Czarny Zamek, szyfr Domu",
+   "wraca": "300-10-05",
+   "zamyka": "odpowiedz Aemona (przez Benna/Clydasa) - rzut",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

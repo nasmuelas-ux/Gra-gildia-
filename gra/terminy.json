@@ -12907,9 +12907,9 @@
    "co": "GLEBOKORZEN - PISARZE Z BRAAVOS (slowo pana 08-21): Nesta szuka ~12 pisarzy na roczny kontrakt Korony (bez lancucha); przejazd BP - Korona (E ~1 smok/osoba); stawka jak w Glebokorzeniu +1/4. List przez Hala statkiem. Odzew - RZUT przy odpowiedzi Nesty.",
    "kto": "THEOMORE -> HAL -> NESTA ; GAWEN (Kasa 3)",
    "kanal": "kruk WF-BP + statek BP-Braavos i z powrotem (~48 dni)",
-   "wraca": "300-10-08",
+   "wraca": "300-10-10",
    "zamyka": "odpowiedz Nesty: ilu, kiedy statkiem",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-08 ODPOWIEDZ NESTY (statkiem do BP, kruk Hala 10-08) - RZUT 3 (pasmo <25): tylko 3-4 chetnych i dopiero WIOSNA (O Nesty: 'Pisarz, ktory umie, ma prace w Braavos; zima na Polnocy straszy ich bardziej niz stawka'). Do slowa pana: przyjac 3-4 na wiosne, szukac gdzie indziej (Stare Miasto/Pentos/Lys - placowki), czy podniesc stawke. Mala Rada ~10-10."
   },
   {
    "data": "300-08-21",
@@ -13188,7 +13188,7 @@
    "kanal": "statek kupiecki Dustinport-Seagard",
    "wraca": "300-10-08",
    "zamyka": "jeniec na statku; meldunek Theona",
-   "status": "otwarte ### 09-10 SLOWO PANA (kolejnosc 1): jeniec wraca w X Z WORKIEM ZIARNA (E: korzec zyta z komory Dustinportu, Kasa 3, grosz) i z tym samym zdaniem ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Rozkaz do Theona w paczce 09-10. ### 09-10 SLOWO PANA (Lucan a): worek DLA CZYTELNIKA - przez Seagard statkiem kupieckim, ustnie z imieniem Rodrika Harlawa: 'Dla Czytelnika, od Polnocy, ktora nie pali tych, ktorych wyrzuca morze.' Bez pieczeci Korony. ### 300-10-05 TRIAZ: razem z odpowiedzia Theona ~10-08."
+   "status": "zamkniete 300-10-08 ### MELDUNEK THEONA (list 10-08, wlasni, bez rzutu): jeniec z Harlaw poplynal z Dustinportu ~10-05 (E) statkiem kupieckim do Seagard, z workiem zyta i ze zdaniem ustnie, imie Rodrika Harlawa przy worku dla Czytelnika; bez pieczeci Korony. ### POPRZEDNIO: byl-otw ### 09-10 SLOWO PANA (kolejnosc 1): jeniec wraca w X Z WORKIEM ZIARNA (E: korzec zyta z komory Dustinportu, Kasa 3, grosz) i z tym samym zdaniem ustnie: 'Polnoc nie pali tych, ktorych wyrzuca morze.' Rozkaz do Theona w paczce 09-10. ### 09-10 SLOWO PANA (Lucan a): worek DLA CZYTELNIKA - przez Seagard statkiem kupieckim, ustnie z imieniem Rodrika Harlawa: 'Dla Czytelnika, od Polnocy, ktora nie pali tych, ktorych wyrzuca morze.' Bez pieczeci Korony. ### 300-10-05 TRIAZ: razem z odpowiedzia Theona ~10-08."
   },
   {
    "data": "300-08-27",
@@ -14367,7 +14367,7 @@
    "kanal": "listy przez lordow",
    "wraca": "300-10-08",
    "zamyka": "pierwsze odpowiedzi matek (rzut) + slowo pana/Krola o trzech ostatnich synach",
-   "status": "otwarte ### 09-10 SLOWO PANA (sniadanie): 'OSTATNI SYNOWIE ZOSTAJA W DOMU' - trzech wraca do domow; zasada dla poboru Korony: ostatni syn (potwierdzony przez lorda na pismie) nie idzie. Krolowa pisze sama do trzech matek. ### 300-10-05 TRIAZ: przeglad listy z Roslin ~10-08."
+   "status": "otwarte ### 09-10 SLOWO PANA (sniadanie): 'OSTATNI SYNOWIE ZOSTAJA W DOMU' - trzech wraca do domow; zasada dla poboru Korony: ostatni syn (potwierdzony przez lorda na pismie) nie idzie. Krolowa pisze sama do trzech matek. ### 300-10-05 TRIAZ: przeglad listy z Roslin ~10-08. ### 300-10-08 ODPOWIEDZI MATEK PRZEZ LORDOW - RZUT 89 (pasmo 85+): cieple; lord sam pisze do Krolowej z podziekowaniem (ujawnienie przy przegladzie z Roslin dzis)."
   },
   {
    "data": "300-09-10",
@@ -15022,9 +15022,9 @@
    "co": "CZLOWIEK Z MURU DO LUPACZY STANNISA (slowo pana 09-18, prosba Davosa): list do Aemona/Clydasa - Mur wskazuje; wsiada na kadlub Wymana przy Wschodniej Strazniy ~XI. Odpowiedz Muru - RZUT.",
    "kto": "SYMON -> AEMON/CLYDAS",
    "kanal": "kruk WF-Czarny Zamek 09-19",
-   "wraca": "300-10-08",
+   "wraca": "300-10-10",
    "zamyka": "imie czlowieka z Muru",
-   "status": "otwarte ### 300-10-01 ODPOWIEDZ MURU (CLYDAS za Aemona) - RZUT 27 (prog 45; pasmo 25-49): bedzie ktos, ale POZNIEJ (~XII) - 'z tych, co znaja Wschodnia Straznice, nikt nie moze teraz zejsc' (O). Kadlub Wymana przy Wschodniej Straznicy ~XI - NIE ZGRA SIE. Do slowa pana: czekac do XII, inny statek, czy inny czlowiek. ### 300-10-01 SLOWO PANA: 'A moze ktos ze strazy?' - zamiast brata Nocnej Strazy ktos z NASZEJ strazy (Korona) do nauki lupania smoczego szkla u ludzi Stannisa; Rodrik wskazuje czlowieka z rekami do kamienia; Hal pyta kapitana Wymana, gdzie kadlub moze go wziac (BP czy Wschodnia Straznica). Clydas - czlowiek Muru w XII zostaje jako drugi (list pana). ### 300-10-05 TRIAZ: Hal pyta kapitana Wymana - odpowiedz ~10-08."
+   "status": "otwarte ### 300-10-01 ODPOWIEDZ MURU (CLYDAS za Aemona) - RZUT 27 (prog 45; pasmo 25-49): bedzie ktos, ale POZNIEJ (~XII) - 'z tych, co znaja Wschodnia Straznice, nikt nie moze teraz zejsc' (O). Kadlub Wymana przy Wschodniej Straznicy ~XI - NIE ZGRA SIE. Do slowa pana: czekac do XII, inny statek, czy inny czlowiek. ### 300-10-01 SLOWO PANA: 'A moze ktos ze strazy?' - zamiast brata Nocnej Strazy ktos z NASZEJ strazy (Korona) do nauki lupania smoczego szkla u ludzi Stannisa; Rodrik wskazuje czlowieka z rekami do kamienia; Hal pyta kapitana Wymana, gdzie kadlub moze go wziac (BP czy Wschodnia Straznica). Clydas - czlowiek Muru w XII zostaje jako drugi (list pana). ### 300-10-05 TRIAZ: Hal pyta kapitana Wymana - odpowiedz ~10-08. ### 300-10-08 KAPITAN WYMANA (kruk Hala 10-08) - RZUT 43 (30-69): wezmie czlowieka Korony Z BP przy wyjsciu kadluba (~10-25, E); z powrotem - nie obiecuje. Rodrik ma wskazac czlowieka i wyslac do BP przed ~10-23. Imie - Rodrik, Mala Rada ~10-10."
   },
   {
    "data": "300-09-18",
@@ -15141,7 +15141,7 @@
    "kanal": "kruk WF-BP; okret; kruk Karhold-WF",
    "wraca": "300-10-08",
    "zamyka": "meldunek zwiadu (rzut)",
-   "status": "otwarte ### 300-09-30 OBIETNICA PANA BRANOWI (obiad): gdy przyjdzie zwiad - Bran dowie sie PIERWSZY, przed Rickonem. ### 300-10-06 OBIETNICA PONOWIONA: Bran pierwszy - takze jesli wiesc bedzie zla."
+   "status": "otwarte ### 300-09-30 OBIETNICA PANA BRANOWI (obiad): gdy przyjdzie zwiad - Bran dowie sie PIERWSZY, przed Rickonem. ### 300-10-06 OBIETNICA PONOWIONA: Bran pierwszy - takze jesli wiesc bedzie zla. ### 300-10-08: kruk z Karholdu oczekiwany dzis (E); rzut przy meldunku - zapisany."
   },
   {
    "data": "300-09-20",
@@ -15357,7 +15357,7 @@
    "kanal": "WF/ZM",
    "wraca": "300-10-08",
    "zamyka": "lista prowadzona, pierwsze odwiedziny odbyte (rzut)",
-   "status": "otwarte ### 09-23 SLOWO PANA: do ZM - strazniczka i pisarz Skarbu; rubryka wdow Edrica z Konserwy - TAK; listy Krolowej do Krola - TAK (jej pieczecia). ### 09-24 (slowo regenta): z Krolowa do ZM jedzie tez 5 LUDZI STARKOW (garnizon WF, dobiera Rodrik) obok strazniczki i pisarza Skarbu. Wlasni - bez rzutu. ### 09-24 ODWIEDZINY W ZM (RZUT 48, prog 40 - DOBRZE, bez zapasu): wdowa Wyla przyjela Krolowa w izbie; bierze robote w Konserwie Korony od X (rubryka Edrica - od beczki z udzialem); dwie sasiadki (wdowy z poboru, E) pytaly, czy moga byc na liscie - Roslin wpisala; przy drzwiach stary sasiad mruknal 'Freyowna' - wdowa go uciszyla (E). Lista: 3 imiona. Nastepne odwiedziny - do woli Krolowej. ### 300-10-01 TRIAZ: lista prowadzona; przeglad z Roslin ~10-08."
+   "status": "otwarte ### 09-23 SLOWO PANA: do ZM - strazniczka i pisarz Skarbu; rubryka wdow Edrica z Konserwy - TAK; listy Krolowej do Krola - TAK (jej pieczecia). ### 09-24 (slowo regenta): z Krolowa do ZM jedzie tez 5 LUDZI STARKOW (garnizon WF, dobiera Rodrik) obok strazniczki i pisarza Skarbu. Wlasni - bez rzutu. ### 09-24 ODWIEDZINY W ZM (RZUT 48, prog 40 - DOBRZE, bez zapasu): wdowa Wyla przyjela Krolowa w izbie; bierze robote w Konserwie Korony od X (rubryka Edrica - od beczki z udzialem); dwie sasiadki (wdowy z poboru, E) pytaly, czy moga byc na liscie - Roslin wpisala; przy drzwiach stary sasiad mruknal 'Freyowna' - wdowa go uciszyla (E). Lista: 3 imiona. Nastepne odwiedziny - do woli Krolowej. ### 300-10-01 TRIAZ: lista prowadzona; przeglad z Roslin ~10-08. ### 300-10-08: przeglad listy z Roslin - dzis (pora do ustalenia)."
   },
   {
    "data": "300-09-23",
@@ -15706,9 +15706,9 @@
    "co": "POSELSTWO KOSCI - WYJAZD (slowo pana 09-29): 10 ZOLNIERZY STARKOW (garnizon WF, szare plaszcze, choragiew wilka) + DOWODCA (Rodrik wskazuje) + SER HARWOOD WRZOS (czlowiek Barbrey - zgoda Barbrey krukiem, cicho); NIE Zimowa Straz. Droga: WF -> BP (~5 dni, E) -> statek najety (~40 Kasa 3) -> Waskie Morze i STOPNIE (jesien - ryzyko sztormow; statki rzadko tona - opoznienia) -> SLONECZNA WLOCZNIA (E ~4-5 tyg.) -> list do Oberyna z reki do reki: przejazd przez Czerwone Gory i przelecz Yronwoodow, zgoda na wszystkich OSMIU (Willam Dustin, Ethan Glover, Martyn Cassel, Theo Wull, Mark Ryswell; ser Arthur Dayne -> STARFALL, ser Gerold Hightower -> Stare Miasto, ser Oswell Whent -> Harrenhal przez Edmure'a). Wyjazd z WF ~10-01, BP ~10-06, w Dorne ~XI. Wlasni - bez rzutu; morze - pogoda; przyjecie w Dorne - RZUT na miejscu.",
    "kto": "SER RODRIK (sklad, dowodca) ; HAL + TORSEN (statek) ; GAWEN (Kasa 3) ; BARBREY (Harwood)",
    "kanal": "WF-BP traktem; statek BP-Sloneczna Wlocznia",
-   "wraca": "300-10-08",
+   "wraca": "300-10-09",
    "zamyka": "poselstwo na wodzie (wyplyniecie z BP)",
-   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna. ### 300-10-06 POSELSTWO W BP (wlasni, bez rzutu; pogoda dobra): Brenn + 10 doszli ~10-06 rano; ser Harwood + 2 ludzi Dustinow juz czekaja; statek 'Morska Klacz' (kpt. Jorund Sol) - zaladunek, klatki z krukami BP (Hal/Torsen); wyplyniecie ~10-08 z odplywem. Dorne ~XI."
+   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna. ### 300-10-06 POSELSTWO W BP (wlasni, bez rzutu; pogoda dobra): Brenn + 10 doszli ~10-06 rano; ser Harwood + 2 ludzi Dustinow juz czekaja; statek 'Morska Klacz' (kpt. Jorund Sol) - zaladunek, klatki z krukami BP (Hal/Torsen); wyplyniecie ~10-08 z odplywem. Dorne ~XI. ### 300-10-08: wyplyniecie z BP z porannym odplywem (wlasni, bez rzutu); pogoda 98 - morze spokojne. Potwierdzenie krukiem Hala ~10-09."
   },
   {
    "data": "300-09-29",
@@ -15816,7 +15816,7 @@
    "kanal": "kruk WF-Barrowton + jezdziec",
    "wraca": "300-10-08",
    "zamyka": "odpowiedz Theona",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-08 ### ODPOWIEDZ THEONA (list 10-08, kruk Barrowton + jezdziec) - RZUT 18 (<20): NIC NOWEGO - morze puste, rybacy spokojni, o czarnym kadlubie ani slowa, od Ashy cisza (jej odpowiedz ~10-15, osobna operacja). Jeniec odeslany ~10-05. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-01",
@@ -16376,7 +16376,7 @@
     "start": "300-07-19"
    },
    "opoznienie": 2,
-   "ostatnio_odebrane": "300-09-29",
+   "ostatnio_odebrane": "300-10-06",
    "zrodlo": "rozkaz pana 300-06-19; 300-07-20 pan: co tydzien, po kazdej sobotniej radzie (zamiast co dwa tygodnie)",
    "uwaga_0728": "07-28 burza - kruk z Fosy 07-29",
    "uwaga_0812": "08-12 nawalnica (pogoda 6) - kruk z Fosy 08-13"

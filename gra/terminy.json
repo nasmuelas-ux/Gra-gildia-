@@ -15967,18 +15967,18 @@
    "co": "NOMINACJA BERTRAMA WOLNEGO NA STALEGO FAKTORA KROLEWSKIEGO W CAILIN (zgoda Bertrama 10-04, rzut 56; wniosek Rady 3:1): pismo nominacyjne Namiestnika (pieczec, Beron), potwierdzenie Krola po powrocie; wyjazd Bertrama do Cailin i przejecie od Garricka. Do slowa pana.",
    "kto": "SYMON ; BERON ; GARRICK",
    "kanal": "pismo Namiestnika; kruk WF-Fosa",
-   "wraca": "300-10-06",
-   "zamyka": "pismo nominacyjne podpisane i Bertram w drodze",
-   "status": "otwarte"
+   "wraca": "300-10-14",
+   "zamyka": "Bertram w Cailin, przejecie od Garricka (zbiorczy)",
+   "status": "otwarte ### 300-10-05 SLOWO PANA: TAK - nominacja z warunkiem Bertrama (Wat Siwy zostaje w Owsianych Polach). Beron pisze pismo, pan pieczetuje dzis; kruk WF-Fosa do Garricka (przejecie). Potwierdzenie Krola po powrocie."
   },
   {
    "data": "300-10-05",
    "co": "TORVALD - COMIESIECZNA SAKIEWKA DO DOMU PRZY ULICZCE POWROZNIKOW W BP (meldunek Stena 10-05, rzut 6): czyj dom, za co. Prawda - RZUT przy dzialaniu (pasma przed rzutem). Do slowa pana: zapytac wprost, sprawdzic dalej (Willa/kontrwywiad), czy odlozyc oferte szefa bezpieczenstwa.",
-   "kto": "SYMON -> STEN / ALDWIN / WILLA",
+   "kto": "WILLA (przez Aldwina)",
    "kanal": "osobiscie",
-   "wraca": "300-10-06",
-   "zamyka": "slowo pana",
-   "status": "otwarte"
+   "wraca": "300-10-12",
+   "zamyka": "meldunek Willi: czyj dom i za co",
+   "status": "otwarte ### 300-10-05 SLOWO PANA: NIECH WILLA GO SPRAWDZI (czyj dom przy Uliczce Powroznikow, za co). Kartka pana przez Aldwina do rak wlasnych. Oferta szefa bezpieczenstwa - wstrzymana do wyniku. Wynik - RZUT przy meldunku Willi (pasma przed rzutem)."
   },
   {
    "data": "300-10-05",
@@ -15987,7 +15987,7 @@
    "kanal": "kruk WF-BP",
    "wraca": "300-10-10",
    "zamyka": "slowo pana do Torsena",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 PAN PYTA: czemu Korona w ogole sprzedaje zboze w BP? (wyjasnienie Gawena w dzienniku). Propozycja Gawena: trzymac cene; niesprzedane ze skladu BP zalatwia czesc zamowien lordow (Cerwyn, Tallhart) - do slowa pana."
   },
   {
    "data": "300-10-05",
@@ -15996,7 +15996,7 @@
    "kanal": "Mala Rada",
    "wraca": "300-10-10",
    "zamyka": "slowo pana i listy do lordow",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-05 SLOWO PANA: TAK - tak, jak Gawen powie (zrodlo, cena, zadatek, przewoz). Gawen przedstawia na Radzie ~10-10; listy do lordow po Radzie."
   },
   {
    "data": "300-10-05",

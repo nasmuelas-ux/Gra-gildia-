@@ -15382,9 +15382,9 @@
    "co": "MIRA WRACA DO WF Z PIERWSZYM WOZEM W X (rada przyjela Konserwe na zime 09-20 - jej warunek): z Dagonem i oddzialem II, E wyjazd ~10-03, w WF ~10-09.",
    "kto": "MIRA ; DAGON",
    "kanal": "trakt Fosa-WF",
-   "wraca": "300-10-12",
+   "wraca": "300-10-13",
    "zamyka": "Mira w WF",
-   "status": "otwarte ### 300-10-08: wg zbiorczego 10-06 Mira wyjechala z Fosy 10-05 z Dagonem i oddzialem II - w WF ~10-12."
+   "status": "otwarte ### 300-10-08: wg zbiorczego 10-06 Mira wyjechala z Fosy 10-05 z Dagonem i oddzialem II - w WF ~10-12. ### 300-10-09: SNIEZYCA na trakcie - Mira z Dagonem i oddzialem II w drodze (wyjazd z Fosy 10-05); przeczekaja w zajezdzie/strazy na trakcie (E); przyjazd moze sie przesunac o dzien-dwa."
   },
   {
    "data": "300-09-24",
@@ -15625,9 +15625,9 @@
    "co": "PAN DO DUSTINPORTU - DONNEL OBROK i TORREN SOLNY (szyfr Domu, reka pana): jak oceniaja sytuacje na miejscu (port, eskadra, zachodnie wody, Wyspy, zapas na zle tygodnie). Droga jak dotad: kruk WF-Fosa (09-27 rano), na Fosie odczyt i jezdziec do Dustinportu (~4 dni) -> na miejscu ~10-03; odpowiedz ta sama droga ~10-09. Wlasni - bez rzutu.",
    "kto": "SYMON -> DONNEL ; TORREN",
    "kanal": "kruk WF-Fosa (szyfr) + jezdziec",
-   "wraca": "300-10-09",
+   "wraca": "300-10-10",
    "zamyka": "dwie oceny (Donnel, Torren) na stole pana",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-09: SNIEZYCA - kruk z Fosy stoi; oceny Donnela i Torrena ~10-10 (wlasni, bez rzutu)."
   },
   {
    "data": "300-09-27",
@@ -15706,9 +15706,9 @@
    "co": "POSELSTWO KOSCI - WYJAZD (slowo pana 09-29): 10 ZOLNIERZY STARKOW (garnizon WF, szare plaszcze, choragiew wilka) + DOWODCA (Rodrik wskazuje) + SER HARWOOD WRZOS (czlowiek Barbrey - zgoda Barbrey krukiem, cicho); NIE Zimowa Straz. Droga: WF -> BP (~5 dni, E) -> statek najety (~40 Kasa 3) -> Waskie Morze i STOPNIE (jesien - ryzyko sztormow; statki rzadko tona - opoznienia) -> SLONECZNA WLOCZNIA (E ~4-5 tyg.) -> list do Oberyna z reki do reki: przejazd przez Czerwone Gory i przelecz Yronwoodow, zgoda na wszystkich OSMIU (Willam Dustin, Ethan Glover, Martyn Cassel, Theo Wull, Mark Ryswell; ser Arthur Dayne -> STARFALL, ser Gerold Hightower -> Stare Miasto, ser Oswell Whent -> Harrenhal przez Edmure'a). Wyjazd z WF ~10-01, BP ~10-06, w Dorne ~XI. Wlasni - bez rzutu; morze - pogoda; przyjecie w Dorne - RZUT na miejscu.",
    "kto": "SER RODRIK (sklad, dowodca) ; HAL + TORSEN (statek) ; GAWEN (Kasa 3) ; BARBREY (Harwood)",
    "kanal": "WF-BP traktem; statek BP-Sloneczna Wlocznia",
-   "wraca": "300-10-09",
+   "wraca": "300-10-10",
    "zamyka": "poselstwo na wodzie (wyplyniecie z BP)",
-   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna. ### 300-10-06 POSELSTWO W BP (wlasni, bez rzutu; pogoda dobra): Brenn + 10 doszli ~10-06 rano; ser Harwood + 2 ludzi Dustinow juz czekaja; statek 'Morska Klacz' (kpt. Jorund Sol) - zaladunek, klatki z krukami BP (Hal/Torsen); wyplyniecie ~10-08 z odplywem. Dorne ~XI. ### 300-10-08: wyplyniecie z BP z porannym odplywem (wlasni, bez rzutu); pogoda 98 - morze spokojne. Potwierdzenie krukiem Hala ~10-09."
+   "status": "otwarte ### 09-29 LIST DO OBERYNA (z prosba o zrozumienie - okno pogody) i DARY zatwierdzone (gra/list_do_oberyna_300_09_29.md); bursztyn - Hal na statek w BP. ### 09-29 SNIADANIE - RODRIK: dowodca - BRENN KAMIENIEC (E, sierzant gwardii domowej WF, ~40, sluzyl z Martynem Casselem); dziesieciu wybierze dzis z garnizonu. ### 300-10-01 RANO: POSELSTWO WYJEZDZA Z WF - Brenn Kamieniec + 10, choragiew wilka; z nimi list do Oberyna (pieczec Namiestnika), laska dla Dorana (srebrna obrecz, gotowa), zielnik, futro snieznego lisa, plotno dla Starfall; trumny/plotna i strawa wg kosztorysu. SER HARWOOD - odpowiedz Barbrey ~10-02; jesli zgoda - jedzie z Barrowton prosto do BP (~10-06) i dolacza przy statku. BP ~10-06. ### 300-10-01 STALA ZASADA (kruki na kazda wyprawe): poselstwo bierze klatki z kruczarni BP przy statku (Hal/Torsen) - kartka pana do Hala dzis z poczta Domu. ### 300-10-02: Harwood + 2 ludzi Dustinow do BP ~10-06 (zgoda Barbrey, rzut 94); choragiew Dustinow na trumne Willama i list Barbrey do Oberyna. ### 300-10-06 POSELSTWO W BP (wlasni, bez rzutu; pogoda dobra): Brenn + 10 doszli ~10-06 rano; ser Harwood + 2 ludzi Dustinow juz czekaja; statek 'Morska Klacz' (kpt. Jorund Sol) - zaladunek, klatki z krukami BP (Hal/Torsen); wyplyniecie ~10-08 z odplywem. Dorne ~XI. ### 300-10-08: wyplyniecie z BP z porannym odplywem (wlasni, bez rzutu); pogoda 98 - morze spokojne. Potwierdzenie krukiem Hala ~10-09. ### 300-10-09: SNIEZYCA - kruk Hala z BP stoi; potwierdzenie ~10-10."
   },
   {
    "data": "300-09-29",
@@ -15877,9 +15877,9 @@
    "co": "KROLOWA ROSLIN - DRUGIE ODWIEDZINY W GLEBOKICH LAKACH (slowo regenta 10-02: 'powtorz - ludzie Polnocy sa uparci, ale doceniaja to samo u innych'; rada Catelyn: 'trzeba wrocic'): te same trzy wdowy; ta sama eskorta (straznicza, pisarz Skarbu, 5 ludzi Starkow; Edric). Dzien - wola Krolowej (E ~czwartek 10-09, z woza chrustu). Odbior - RZUT przy odwiedzinach (z korekta za powrot).",
    "kto": "ROSLIN ; EDRIC PLUG ; RODRIK (eskorta)",
    "kanal": "osobiscie, domena",
-   "wraca": "300-10-09",
+   "wraca": "300-10-11",
    "zamyka": "drugie odwiedziny odbyte (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-09: SNIEZYCA - wyjazd do Glebokich Lak ODLOZONY (trakty zawiane). Rzut odwiedzin wykonany rano (95, w logu) - wazny przy odwiedzinach; pierwszy pogodny dzien."
   },
   {
    "data": "300-10-03",
@@ -16149,7 +16149,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-09",
    "zamyka": "pierwsza nauka odbyta (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-09: nauka w srodku zamku - idzie mimo sniezycy. RZUT 83 (prog 40) BARDZO DOBRZE - przebieg przy relacji (Owen/dzieci)."
   },
   {
    "data": "300-10-08",
@@ -16219,9 +16219,9 @@
    "co": "RICKARD KARSTARK - ODPOWIEDZ NA ROZKAZ DRUGIEGO ZWIADU (10-15 jego zbrojnych na Skagos z lekami i ciesliami, lodzie Karholdu). Wola obca - RZUT przy odpowiedzi (pasma przed rzutem).",
    "kto": "RICKARD KARSTARK",
    "kanal": "kruk Karhold-WF",
-   "wraca": "300-10-09",
+   "wraca": "300-10-10",
    "zamyka": "odpowiedz Rickarda (rzut)",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-09: SNIEZYCA (pogoda 5) - KRUKI STOJA (zasada 34). Rzut odpowiedzi wykonany rano (66, w logu) - tresc przy przylocie kruka ~10-10."
   },
   {
    "data": "300-10-08",

@@ -15924,7 +15924,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-06",
    "zamyka": "wpis sciezki w ksiedze Kanonu",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-06 ### WPIS W BIBLIOTECE (Luwin, pan, Catelyn) - gra/ksiega_kanonu_wpisy.md: 'Miecz i mowa' (szermierka po braavosku - lekko; mowy obcych; 'byc ta, ktora przywiezie list'). Szczebel III od dzis. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-03",
@@ -16014,6 +16014,15 @@
    "kanal": "karta Theomore / Mala Rada",
    "wraca": "300-10-10",
    "zamyka": "slowo pana na kosztorys",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-06",
+   "co": "ARYA - SCIEZKA 'MIECZ I MOWA' - CO DALEJ (wpis 10-06): (1) nauczyciel szermierki lekkiej - Ferrego Lanthas (tlumacz, XII) nie jest szermierzem; Brynden? Rodrik (ciezka szkola)? szukac w Braavos przez Neste/teatr Essos (tancerz wody?); (2) wysoki valyrianski od szczebla III - Luwin; (3) braavoski - jest. Do slowa pana.",
+   "kto": "SYMON ; LUWIN ; CATELYN",
+   "kanal": "osobiscie",
+   "wraca": "300-10-10",
+   "zamyka": "slowo pana: kto uczy miecza",
    "status": "otwarte"
   }
  ],

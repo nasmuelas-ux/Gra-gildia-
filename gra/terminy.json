@@ -15934,6 +15934,15 @@
    "wraca": "300-10-28",
    "zamyka": "pierwsza strona Willi 'co sie laczy' (28.) + cykle placowek wpisane przy otwarciu",
    "status": "otwarte ### 300-10-03 SLOWO PANA: TO ZASTEPUJE KARTE WILLI 1. - cykl RAPORT_WILLI zamkniety, nowy cykl CENTRALA_WILLI (28.)."
+  },
+  {
+   "data": "300-10-03",
+   "co": "WYWIAD - ROZBUDOWA (slowo pana 10-03; gra/wywiad_jedna_kartka_300_09_17.md): (A) kartoteka z indeksem, jedna miara, kalendarz swiata, mapy KUPIC; papiery Korony - nie, Willa pyta pana; (B) nowe placowki: MEWI GROD (16., wiosna), DESKOWE MIASTO (24., wiosna, pod Poludniem), KARPORT (4., od XII, pod Polnoca), BOLTONSGATE (8., od XI/XII, pod Polnoca); morze - bez floty, wlasne dojscia; LORDOWIE POLNOCY - wywiad patrzy (cicho, fakty, bez dzialania bez slowa pana, osobna teczka); STOL SZYFROW - specjalisci (Braavos, potem Pentos/Myr), dwoch analitykow (wojsko, logistyka). Stan - na stronie Willi 28. Kandydaci - przy liscie przykrywek ~10-10.",
+   "kto": "WILLA",
+   "kanal": "osobiscie ZM",
+   "wraca": "300-10-10",
+   "zamyka": "kandydaci i przykrywki dla nowych placowek + pierwsi analitycy",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

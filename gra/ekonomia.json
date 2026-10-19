@@ -2171,7 +2171,8 @@
   "sakiewka_pana_koszty_stale": [
    "od 300-10-01 (slowo pana 09-17): WYWIAD CALY Z SAKIEWKI PANA - Dom bez linii wywiadu ('w kasie domu zostaje wiecej'). Skladniki (E): WILLA - wynagrodzenie DORADCY PANA ~1-2 smoki/mies (obok pensji Domu jako kanclerz-archiwista); SIEC/TEATRY ~4-8/mies (z reki pana do Willi); KONTRWYWIAD ~2-4/mies + sprawy osobno. Razem ~7-14/mies. Kwoty ostateczne po rozmowie z Willa (~09-25).",
    "od 300-10-01 (ZATWIERDZONE przez pana 300-09-25, po rozmowie z Willa; gra/wywiad_jedna_kartka_300_09_17.md, KWOTY): WYWIAD ~10-18 smokow/mies (E) - doradca Willa 1-2, szefowie teatrow i analitycy 4-7, uszy i lacznicy 2-4, kontrwywiad 2-4, kasa dla rodzin spalonych ~1. ZASTEPUJE ~7-14 z 09-17.",
-   "od 300-11-01 (slowo pana 300-09-25): SZKOLA WYWIADU w ZM (przykrywka: szkola pisarzy i rachmistrzow) ~1-2 smoki/mies (E); grupa sabotazu - koszt od sprawy."
+   "od 300-11-01 (slowo pana 300-09-25): SZKOLA WYWIADU w ZM (przykrywka: szkola pisarzy i rachmistrzow) ~1-2 smoki/mies (E); grupa sabotazu - koszt od sprawy.",
+   "od 300-11-01 (slowo pana 300-10-03): WYWIAD - dodatki ~8-12/mies (E): placowki Karport, Boltonsgate (od XI/XII), Mewi Grod, Deskowe Miasto (od wiosny) ~4-6; stol szyfrow ~2-3 (od XII); dwoch analitykow (wojsko, logistyka) ~2-3. Razem wywiad ~18-30/mies przy pelnej sieci."
   ],
   "sakiewka_pana_planowane": [
    {
@@ -2215,6 +2216,36 @@
     "kwota": -15,
     "opis": "WYWIAD - placowka Pentos (mala, cicha) (E)",
     "zrodlo": "slowo pana 300-09-25"
+   },
+   {
+    "data": "300-10-20",
+    "kwota": -4,
+    "opis": "WYWIAD - mapy kupione (trakty, przeprawy; E)",
+    "zrodlo": "slowo pana 300-10-03 (u Willi)"
+   },
+   {
+    "data": "300-11-20",
+    "kwota": -8,
+    "opis": "WYWIAD - placowka Boltonsgate (E)",
+    "zrodlo": "slowo pana 300-10-03 (u Willi)"
+   },
+   {
+    "data": "300-12-10",
+    "kwota": -8,
+    "opis": "WYWIAD - placowka Karport (E)",
+    "zrodlo": "slowo pana 300-10-03 (u Willi)"
+   },
+   {
+    "data": "301-04-01",
+    "kwota": -12,
+    "opis": "WYWIAD - placowka Mewi Grod (wiosna, E)",
+    "zrodlo": "slowo pana 300-10-03 (u Willi)"
+   },
+   {
+    "data": "301-04-01",
+    "kwota": -12,
+    "opis": "WYWIAD - placowka Deskowe Miasto (wiosna, E)",
+    "zrodlo": "slowo pana 300-10-03 (u Willi)"
    }
   ]
  },

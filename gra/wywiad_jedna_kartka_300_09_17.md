@@ -259,3 +259,35 @@
 6. **Cudze szyfry i języki.** Nikt nie umie czytać szyfrów Lwa ani Lys, a poza Braavos nie mamy tłumaczy z mów Wolnych Miast (Lys, Volantis, Myr).
 
 **Do słowa pana:** które z A i które z B.
+
+### ⚑ SŁOWO PANA 300-10-03 (u Willi): CO POMOŻE I CZEGO WYWIAD NIE POKRYWA
+**Co pomoże:**
+1. **Kartoteka z indeksem:** TAK.
+2. **Jedna miara we wszystkich kartach:** TAK.
+3. **Papiery Korony (komory, myto, przewóz, słup, okręty):** **NIE.** *„Nie mogę tego dostarczyć. Możesz mnie zapytać, a wtedy mogę powiedzieć.”* Willa pyta pana o konkretną rzecz, a pan odpowiada albo nie.
+4. **Kalendarz świata:** TAK.
+5. **Mapy:** TAK, **KUPIĆ** (E: odpisy map z Braavos przez teatr Essos albo od kartografów z BP; ~3–5 smoków jednorazowo).
+
+**Czego nie pokrywa:**
+1. **Dolina i Dorne:** dochodzą placówki **MEWI GRÓD** i **DESKOWE MIASTO** (Planky Town).
+2. **Za Murem:** zostaje, jak jest.
+3. **Wschód:** dodatkowe placówki operacyjne w **KARPORCIE** (port pod Karholdem) i w **BOLTONSGATE** (nazwa ze słowa pana; położenie E: osada u bram ziem Dreadfortu, na trakcie do Dreadfortu).
+4. **Morze:** **bez floty.** *„Musicie sami znaleźć dojście”*: rybacy, przewoźnicy, lodmani, szkutnicy, karczmy portowe.
+5. **Lordowie Północy:** **wywiad PATRZY.**
+6. **Szyfry:** powołać **dodatkowych analityków do szyfrów** i szukać specjalistów.
+
+**Willa (O), wykonanie:**
+- **Mewi Gród:** mała placówka, podlega bezpośrednio centrali; raport **16.** Wiosna, kiedy ruszy żegluga. *„Port Doliny. Co tam płynie, płynie od Arrynów albo do nich.”* (Willa nie pyta, czemu akurat tam.)
+- **Deskowe Miasto:** pod teatrem Południa (Stare Miasto); raport **24.** Wiosna. *„Ujście Zielonokrwistej. Tam Dorne handluje z całym światem. Pańskie poselstwo i tak tam będzie.”*
+- **Karport:** pod teatrem Północy; raport **4.** Od XII. Przykrywka: skład soli i ryby. Patrzy na Karhold, Skagos i morze wschodnie.
+- **Boltonsgate:** pod teatrem Północy; raport **8.** Od XI/XII. Przykrywka: garbarz albo skup skór. *„Najtrudniejsza. Tam obcy jest widoczny jak śnieg na czarnym. Tylko miejscowi, długo, bez pośpiechu.”*
+- **Morze bez floty:** uszy wśród rybaków, przewoźników i lodmanów w BP, Karporcie i Seagardzie. Liczy się żagle, które wchodzą i wychodzą, a nie żagle na morzu.
+- **Lordowie Północy:**
+  - patrzymy cicho, tylko fakty;
+  - **żadnego działania bez pańskiego słowa ustnego**;
+  - osobna teczka w kartotece, pod kluczem Willi;
+  - **nic z tego nie idzie do lordów ani do Rady.**
+- **Szyfry:** stół szyfrów w centrali. Pierwszy człowiek z Braavos, przez teatr Essos: pisarz od ksiąg Banku albo z kantoru, który zna szyfry kupieckie (E). Drugi z Pentos albo Myr, później. Do tego najzdolniejszy uczeń ze szkoły. *„To potrwa. Dobry szyfrant sam nie powie, że nim jest.”*
+- **Koszty (E, sakiewka pana):**
+  - jednorazowo: Mewi Gród ~12, Deskowe Miasto ~12 (wiosna), Karport ~8, Boltonsgate ~8, mapy ~4;
+  - miesięcznie: cztery placówki ~4–6, stół szyfrów ~2–3 (od XII), dwóch analityków (stoły wojska i logistyki) ~2–3.

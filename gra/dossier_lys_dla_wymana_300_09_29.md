@@ -31,3 +31,5 @@
 ## ⚠ UWAGA GM (O) – DO SŁOWA PANA
 1. **Termin a kanarek.** Dossier kieruje uwagę Wymana na **kantor przy Rybnej**. Jeśli dojdzie przed nocami kanarka (10-04 → 10-10), ludzie urzędu portowego mogą stanąć przy Rybnej – i **zabrudzić obserwację** (Willa nie odróżni ich od cudzych). Bezpieczniej: **wysłać po 10-11** (wynik kanarka ~10-13), albo teraz – bez punktu 6.
 2. **Kanał.** Krukiem do lorda czyta maester (łańcuch Cytadeli; Luwin 09-25: do lordów jawnie). Dossier o Lys lepiej **posłańcem do rąk własnych** (WF–BP ~5 dni).
+
+### ⚑ SŁOWO PANA 300-09-29: **POSŁANIEC DO RĄK WŁASNYCH, PO KANARKU.** Wyjazd z WF ~10-12 (po ostatniej nocy kanarka 10-10/11 i po wyniku Willi), pełne dossier (z pkt 6); w BP ~10-17. Odpowiedź Wymana – RZUT.

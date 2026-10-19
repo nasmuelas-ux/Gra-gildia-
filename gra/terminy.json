@@ -15718,6 +15718,15 @@
    "wraca": "300-10-02",
    "zamyka": "odpowiedz Barbrey (rzut); Harwood w drodze do BP",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-29",
+   "co": "DOSSIER LYS DLA WYMANA (slowo pana 09-29; gra/dossier_lys_dla_wymana_300_09_29.md): poslaniec do rak wlasnych, wyjazd z WF ~10-12 - PO KANARKU (noce 10-04..10-10, wynik ~10-13); pelne dossier (6 punktow, bez zrodel, bez Baelisha i Dreadfortu); w BP ~10-17. Odpowiedz Wymana - RZUT (jego decyzja w jego porcie).",
+   "kto": "SYMON -> WYMAN (poslaniec)",
+   "kanal": "poslaniec WF-BP do rak wlasnych",
+   "wraca": "300-10-12",
+   "zamyka": "poslaniec wyruszyl (potem odpowiedz Wymana - rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

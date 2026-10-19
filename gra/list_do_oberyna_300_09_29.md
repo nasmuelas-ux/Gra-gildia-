@@ -25,3 +25,6 @@
 | **Książę Oberyn** | **futro śnieżnego lisa** (białe) | skóry ze świadczeń Korony | ~3 |
 | **Starfall (Dayne'owie)** | **płótno pogrzebowe** z wilkiem i gwiazdą na trumnę ser Arthura | szwalnia ZM | ~1 |
 | **razem** | | | **~12** |
+
+### ⚑ SŁOWO PANA 300-09-29: **LIST I DARY ZATWIERDZONE.**
+Pan podpisuje i pieczętuje list rano. Dary: laska (cieśla + srebrnik, 5 dni – jedzie z poselstwem 10-01), zielnik (Luwin, duplikat z biblioteki), futro (skóry Korony, Gawen), płótno (szwalnia ZM) – z poselstwem z WF; bursztyn – Hal w BP, na statek. Kasa 3 ~12 (E).

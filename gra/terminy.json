@@ -16231,6 +16231,24 @@
    "wraca": "300-10-12",
    "zamyka": "odpowiedz Edrica: jest robota / od kiedy",
    "status": "otwarte"
+  },
+  {
+   "data": "300-10-09",
+   "co": "OGRODY SZKLANE WF - 4 BRAKUJACE SZYBY (slowo pana 10-09): dokupic przez HALA (BP), Kasa 3; miara jak 36 z 09-18 (ogrodnik). Cena - ze slowa Hala (40 szyb 09-18 kosztowalo ~9, Kasa 3 - wzorzec, nie kwota). Kruk do BP, gdy kruki ruszą (~10-10). Wlasni - bez rzutu.",
+   "kto": "SYMON -> HAL ; GAWEN (Kasa 3)",
+   "kanal": "kruk WF-BP + woz/paczka Domu",
+   "wraca": "300-10-20",
+   "zamyka": "szyby w WF i wstawione",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-09",
+   "co": "OGRODY SZKLANE WF - CZY ROZBUDOWAC? (pytanie pana 10-09). Odczyt ogrodnika (O): da sie wzdluz poludniowej sciany, gdzie idzie goraca rura; hamulce z zapisu (Luwin 08-16): szklo z Myr drogie, huty brak; cieplo - goraca woda pod WF jest, ale ile jej starczy na nowe skrzydlo - nikt nie mierzyl. Do slowa pana: zlecic PLAN I KOSZTORYS (ogrodnik + Luwin - woda, ciesla zamkowy - ramy, Gawen - koszt, Hal - cena szkla) na Rade.",
+   "kto": "SYMON -> OGRODNIK, LUWIN, CIESLA ZAMKOWY, GAWEN, HAL",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-10",
+   "zamyka": "slowo pana: plan zlecony albo odlozony",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

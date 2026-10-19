@@ -15843,7 +15843,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-02",
    "zamyka": "slowo pana na (a)/(b)/(c)",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-01 ### SLOWO PANA: A, B i C - WSZYSTKIE TRZY. (a) pierwszenstwo Konserwy na slupie w ZM i u cechu bednarzy (herold jutro 10-02); (b) Korona placi z gory - zadatek od beczki z Kasy 3 (jak Dom, 1/4), Gawen; (c) BEDNARNIA KONSERWY - PRZEDSIEBIORSTWO SPECJALNE POD PATRONATEM KORONY: bednarz z rodzina, warsztat przy przetworni Podgrodzie, robi tylko dla Konserwy; DOSTAJE PIENIADZE NA ROZBUDOWE (szopa, narzedzia, klepka; kosztorys Gawena); klauzula o uczniu (Mala Rada 08-09). Nowa operacja. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-01",
@@ -15852,6 +15852,15 @@
    "kanal": "kruk WF-Fosa, szyfr Domu",
    "wraca": "300-10-14",
    "zamyka": "lodzie na wodzie i w szopach; kosztorys",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-01",
+   "co": "BEDNARNIA KONSERWY KORONY - PRZEDSIEBIORSTWO SPECJALNE POD PATRONATEM KORONY (slowo pana 10-01): (1) EDRIC wybiera bednarza z ZM (mistrz z rodzina, nie z tych, co robia beczke Domu - zeby nie zabrac Domowi rak); zgoda bednarza - RZUT przy rozmowie (~10-05); (2) warsztat przy przetworni Podgrodzie; (3) pieniadze na rozbudowe - KOSZTORYS GAWENA (szopa, narzedzia, klepka na zime; Kasa 3) na Mala Rade ~10-10; (4) robi tylko dla Konserwy, cena od beczki na pismie, zadatek z gory; (5) klauzula o uczniu (Korpus/szkola ZM). Rownolegle: (a) ogloszenie pierwszenstwa na slupie i u cechu - herold 10-02; (b) zadatek Korony od beczki dla wszystkich bednarzy pracujacych dla Konserwy - od zaraz (Gawen).",
+   "kto": "EDRIC PLUG ; GAWEN (Kasa 3, kosztorys)",
+   "kanal": "osobiscie, ZM/domena",
+   "wraca": "300-10-05",
+   "zamyka": "bednarz przy warsztacie, kosztorys przyjety, pierwsze beczki tylko dla Konserwy",
    "status": "otwarte"
   }
  ],

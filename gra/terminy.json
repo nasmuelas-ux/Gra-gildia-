@@ -12792,7 +12792,7 @@
    "kanal": "kurier Domu Fosa-WF",
    "wraca": "300-10-01",
    "zamyka": "egzemplarz u lady Catelyn",
-   "status": "otwarte ### 300-09-20 TRIAZ: egzemplarz kurierem Domu z Fosy - zbiorczy ~09-23. ### 300-09-23: jedzie kurierem ze zbiorczym, ~09-26. ### 300-09-30 Kurier zatrzymany sniezyca 09-26/27 na trakcie (E); DOSZEDL DO WF 09-30 RANO - egzemplarz u pana, do wreczenia lady Catelyn."
+   "status": "zamkniete 300-09-30 ### PAN WRECZYL LADY CATELYN RANO, na szybko, przed pochowkiem (w korytarzu przy jej komnatach). Bez rzutu. ### POPRZEDNIO: byl-otw ### 300-09-20 TRIAZ: egzemplarz kurierem Domu z Fosy - zbiorczy ~09-23. ### 300-09-23: jedzie kurierem ze zbiorczym, ~09-26. ### 300-09-30 Kurier zatrzymany sniezyca 09-26/27 na trakcie (E); DOSZEDL DO WF 09-30 RANO - egzemplarz u pana, do wreczenia lady Catelyn."
   },
   {
    "data": "300-08-20",
@@ -15758,10 +15758,19 @@
   {
    "data": "300-09-30",
    "co": "TROP KRUCZARNIA (meldunek Rodrika 09-30): chlopak przy klatkach (E: Tym, ~14 l., syn praczki z ZM, od VII) - w wolny dzien do ZM, srebra wiecej niz zold; nikt nie pyta skad. Odczyt swiadka, nie prawda (prawda - RZUT dopiero przy dzialaniu, pasma przed rzutem). Plus propozycje Rodrika: spis wozow na bramie, poreczenie dla nowej sluzby. DO SLOWA PANA.",
-   "kto": "SYMON -> RODRIK / WILLA (kontrwywiad)",
+   "kto": "STEN (zamek) + WILLA (ZM) -> pan",
+   "kanal": "Sten osobiscie; Willa - kartka przez Aldwina, ustnie",
+   "wraca": "300-10-07",
+   "zamyka": "meldunek Stena i Willi: skad srebro i z kim chlopak sie widuje",
+   "status": "otwarte ### 300-09-30 SLOWO PANA: SLEDZIC DYSKRETNIE - STEN (w zamku: kto do niego przychodzi, z kim gada przy klatkach, co nosi) + WILLA (w ZM: dokad chodzi w wolny dzien, z kim, skad srebro - przez USZY, nie swoich z placowki). Chlopaka nie ruszac, nie pytac. Rozkaz: Sten osobiscie od pana; Willa - kartka pana przez Aldwina do rak wlasnych (nie krukiem). Wlasni - bez rzutu na wykonanie; CO ZOBACZA - RZUT przy meldunku (pasma przed rzutem). Pierwszy meldunek po jego wolnym dniu, ~10-07."
+  },
+  {
+   "data": "300-09-30",
+   "co": "BRAMA I SLUZBA ZAMKU WF - SPIS WOZOW I PORECZENIE (propozycje Rodrika z meldunku 09-30, ZGODA PANA 'zgodnie z calosci'): (1) brama - od dzis kazdy woz z ZM spisany (kto, co, do kogo), woznica nie wychodzi poza dziedziniec kuchenny bez straznika; (2) poreczenie - kazdy nowy sluga od dzis + wstecz ~30 przyjetych od wiosny (kto za nim reczy); KRUCZARNIA NA KONIEC, zeby nie sploszyc (trop Stena/Willi). W ramie rezimu informacji (ogloszenie ~10-13).",
+   "kto": "SER RODRIK",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-01",
-   "zamyka": "slowo pana: co z chlopakiem i z propozycjami Rodrika",
+   "wraca": "300-10-07",
+   "zamyka": "spis wozow prowadzony + lista poreczen 30 slug",
    "status": "otwarte"
   }
  ],

@@ -15582,7 +15582,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-03",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte"
+   "status": "zamkniete 300-09-30 ### LEKCJA 21 ODBYTA WCZESNIEJ (slowo pana: o smierci i dzielnosci; gra/braavoski_lekcja_21_300_09_30.md) - RZUT 36 SLABO. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-09-26",
@@ -15780,6 +15780,15 @@
    "kanal": "osobiscie",
    "wraca": "300-10-03",
    "zamyka": "zadanie zrobione (rzut)",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-09-30",
+   "co": "BRAAVOSKI - LEKCJA 22 (~pt 10-03): forma - do slowa pana. Zadanie: ARYA - list do Darei z prawdziwa data i pytaniem o Braavos (stare zadanie); OBIE - powtorka grup 2 i 3 z lekcji 21 (dzielny, bac sie, bronic, uciekac; pozegnac, pochowac, plakac, zona/wdowa). Po rzucie 36 - zwykly prog.",
+   "kto": "SYMON + SANSA + ARYA",
+   "kanal": "osobiscie, solar",
+   "wraca": "300-10-03",
+   "zamyka": "lekcja 22 odbyta (rzut)",
    "status": "otwarte"
   }
  ],

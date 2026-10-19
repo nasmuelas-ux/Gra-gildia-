@@ -51,3 +51,14 @@ Karta Głębokorzenia, rozdział ④: **„Lord Północy nie obsadza urzędu ma
 ### ⚑ SŁOWO PANA 300-09-10: TAK i TAK
 0. **List do Cytadeli poprawiony przed wylotem.** Maester GP ma się zajmować **leczeniem, pogodą i sztormami oraz nauką**. **Bez kruków, pieczęci i ksiąg.** Krukarnię GP i księgę lodmanów trzyma krucznik Głębokorzenia.
 1. **Etap I idzie do Ulli Kory i Theomore'a** na kosztorys i plan. Kruk Głębokorzenia WF–BP leci 09-11. Odpowiedź ~09-25.
+
+---
+### ⚑ STAŁA ZASADA KORONY (słowo pana 300-10-01, rada Lucana): KRUKI NA KAŻDĄ WYPRAWĘ
+**Żadna wyprawa Korony, ani wojenna, ani poselska, ani morska, nie wyrusza bez klatek z kruków z dwóch kruczarni:**
+1. **własnej**, czyli z Winterfell albo kruczarni Korony przy Bramie Myśliwskiej, żeby wieść wróciła prosto do Korony;
+2. **z najbliższego brzegu albo zamku na drodze** (na przykład Biały Port, Karhold, Dustinport), żeby wieść poszła krótszą drogą, kiedy własne ptaki nie dolecą.
+
+- Klatki wydaje kruczarnia za kwitem (ile ptaków, dokąd, kto odpowiada). Zgodnie z zasadą z 09-25 Luwin uczy, ale nie trzyma kluczy.
+- Wiadomości wojskowe i wywiadowcze idą szyfrem Korony albo wojskowym, nigdy jawnie.
+- **Pierwsze zastosowanie:** Poselstwo Kości (wyjazd 10-01) dostaje klatki z Białego Portu przy statku (Hal i Torsen, ~10-06). Klatek z Winterfell nie wzięło, bo wyjechało przed tą zasadą (E).
+- Zasada idzie do protokołu Małej Rady ~10-10 (Beron).

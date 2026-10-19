@@ -1725,6 +1725,13 @@
    "kwota": -12,
    "opis": "POSELSTWO KOSCI - DARY DLA DORNE: laska z zelazodrzewa (Doran), bursztyn (warsztat Domu, po koszcie), zielnik Polnocy i futro snieznego lisa (Oberyn), plotno pogrzebowe (Dayne'owie) (E)",
    "zrodlo": "slowo pana 300-09-29; gra/list_do_oberyna_300_09_29.md"
+  },
+  {
+   "data": "300-11-15",
+   "kasa": "KASA 3 - SKARB POLNOCY",
+   "kwota": -12,
+   "opis": "GOLEBNIKI KORONY - 6 wezlow x ~2 (kosztorys Ulli Kory; golebie z BP przez Torsena; proby wiosna) (E)",
+   "zrodlo": "slowo pana 300-10-06; gra/poczta_300_10_06.md B"
   }
  ],
  "_symulacje": {

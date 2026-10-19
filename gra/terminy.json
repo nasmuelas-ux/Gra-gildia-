@@ -15915,7 +15915,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-07",
    "zamyka": "lekcja odbyta",
-   "status": "otwarte ### 300-10-03 SLOWO PANA: LEKCJA 21 BEDZIE POWTORZONA DODATKOWO (przed 22; ten sam tekst i slowa) - termin do slowa pana."
+   "status": "otwarte ### 300-10-03 SLOWO PANA: LEKCJA 21 BEDZIE POWTORZONA DODATKOWO (przed 22; ten sam tekst i slowa) - termin do slowa pana. ### 300-10-06 DODATKOWA POWTORKA LEKCJI 21 (popoludnie, solar) - RZUT 39 DOBRZE: 8 z 11 slow weszlo; czesc 4 po braavosku bez wspolnej mowy (Arya - Danny Flint, Sansa - Ostatni Bohater). Zasada domowa 3: passa porazek przerwana."
   },
   {
    "data": "300-10-03",
@@ -16014,7 +16014,7 @@
    "kanal": "karta Theomore / Mala Rada",
    "wraca": "300-10-10",
    "zamyka": "slowo pana na kosztorys",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-06 ### SLOWO PANA: ZGODA - ~12 smokow Kasa 3 (ekonomia.json, 11-15); Ulla Kora buduje, golebie z BP (Torsen), proby wiosna. ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-06",
@@ -16059,6 +16059,15 @@
    "kanal": "osobiscie",
    "wraca": "300-10-13",
    "zamyka": "kandydaci sprawdzeni",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-06",
+   "co": "GOLEBNIKI KORONY - BUDOWA (zgoda pana 10-06): 6 golebnikow przy wezlach krukarni Korony (Ulla Kora), golebie z BP (Torsen); proby lotow wiosna. Wlasni - bez rzutu.",
+   "kto": "ULLA KORA ; TORSEN",
+   "kanal": "karta Theomore",
+   "wraca": "300-11-06",
+   "zamyka": "golebniki stoja, golebie w nich",
    "status": "otwarte"
   }
  ],

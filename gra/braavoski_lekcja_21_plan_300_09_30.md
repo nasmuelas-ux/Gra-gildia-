@@ -63,3 +63,12 @@ Pan wybrał prostsze warianty:
 - Arya: list do Darei (stare zadanie).
 - Obie: 11 słów, które nie weszły.
 - **Zasada domowa 3:** to pierwsza porażka (18). Jeśli lekcja 22 też się nie uda, próg spada.
+
+---
+## DODATKOWA POWTÓRKA (pn 300-10-06, popołudnie, solar; słowo pana 10-03). RZUT 39 (próg 35): DOBRZE
+- Sansa czyta „Dwóch przewoźników” jeszcze raz. Tym razem równo, także zdanie *„Przewoźników już nie było”*.
+- **Słowa: weszło 8 z 11** brakujących (bez: bać się, uciekać, wdowa).
+- **Część 4, cała po braavosku, bez wspólnej mowy:**
+  - **Arya** znów wybiera Danny Flint: *„Ona stała lepiej niż oni. Pamiętam ją.”*
+  - **Sansa** wybiera **Ostatniego Bohatera** (bajka nr 16): *„Szedł po pomoc, chociaż był sam. Był dzielny, bo szedł.”*
+- Siostry wychodzą razem. **Zasada domowa 3: passa porażek przerwana.**

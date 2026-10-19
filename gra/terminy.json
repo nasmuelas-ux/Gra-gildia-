@@ -16149,7 +16149,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-09",
    "zamyka": "pierwsza nauka odbyta (rzut)",
-   "status": "otwarte ### 300-10-09: nauka w srodku zamku - idzie mimo sniezycy. RZUT 83 (prog 40) BARDZO DOBRZE - przebieg przy relacji (Owen/dzieci)."
+   "status": "zamkniete 300-10-09 ### PIERWSZA NAUKA ODBYTA (biblioteka, przed poludniem) - RZUT 83 BARDZO DOBRZE: Owen zaczal od pytan ('Dlaczego Bog ma siedem twarzy, a nie jedna?'); Arya pytala o Nieznajomego i czy Wojownik pomaga tez zlym (Owen: 'Ludzie mysla, ze tak. Wiara przez wieki tez tak mowila - i to byl blad'); Bran - czy Siedmiu i stare bogi to ci sami (Owen: 'Nie wiem. Kto mowi, ze wie, klamie'); Sansa - spisala siedem twarzy i zapytala o Dziewice. Nastepna: pon. 10-13. ### POPRZEDNIO: byl-otw ### 300-10-09: nauka w srodku zamku - idzie mimo sniezycy. RZUT 83 (prog 40) BARDZO DOBRZE - przebieg przy relacji (Owen/dzieci)."
   },
   {
    "data": "300-10-08",
@@ -16249,6 +16249,15 @@
    "wraca": "300-10-10",
    "zamyka": "plan i kosztorys na stole Rady",
    "status": "otwarte ### 300-10-09 SLOWO PANA: ZGODA - plan i kosztorys na Rade. Wykonanie (wlasni, bez rzutu): ogrodnik - co i gdzie; LUWIN mierzy wode i cieplo rury (dzis/jutro); ciesla - ramy; GAWEN - koszt; HAL - cena szkla (kruk do BP, gdy kruki rusza; odpowiedz ~10-14..16). Na Rade 10-10 - ZARYS (miejsce, woda, ramy); pelny kosztorys z cena szkla - nastepna Rada / ~10-20."
+  },
+  {
+   "data": "300-10-09",
+   "co": "OWEN - NAUKA SIEDMIU (stala: pon. i czw. po 1 h; Sansa, Arya, Bran). Nastepna pon. 10-13. Wlasni - rzut tylko przy zmianie/sporze.",
+   "kto": "OWEN ; SANSA, ARYA, BRAN",
+   "kanal": "osobiscie, WF",
+   "wraca": "300-10-13",
+   "zamyka": "nauka odbyta",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

@@ -9309,7 +9309,7 @@
    "kanal": "kruk Winterfell-Bialy Port; osobiscie w BP (jesli pan pozwoli)",
    "wraca": "300-10-20",
    "zamyka": "karta lancucha + koszty Hala na stole; potem zamowienia (09-30)",
-   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): KROK 2: zarzadca lancucha EDRIC SOLNY (z warzelni, E); uruchomienie 140-200 jednorazowo (E) - znak wypalany beczki zimowej, sklad BP, ksiega. KROK 3: zamowienia jesienne do konca IX. ### 300-09-30 KROK 3 zrobiony w rozliczeniu akcji 09-20 (rzut 87): 1220 beczek zamowionych z zadatkiem; ZASADA 8 - moc ~1000, brakuje ~220 beczek sledzia i soli. Zamowienia zamkniete 09-30; stan i decyzja o brakujacych beczkach - rozliczenie Lucana za X (~10-20)."
+   "status": "otwarte ### 08-05: BILANS HALA (cykl) przyszedl do WF po poludniu (pogoda 24 - kruki od poludnia); pan w drodze do Przystani Wilka - czyta LUCAN, pan po powrocie (~08-07). Rozstrzygniecie pozycji - przy odczycie pana. ### 08-06 ODCZYT PANA (z Lucanem; bilans_hala_300_07.md): KROK 2: zarzadca lancucha EDRIC SOLNY (z warzelni, E); uruchomienie 140-200 jednorazowo (E) - znak wypalany beczki zimowej, sklad BP, ksiega. KROK 3: zamowienia jesienne do konca IX. ### 300-09-30 KROK 3 zrobiony w rozliczeniu akcji 09-20 (rzut 87): 1220 beczek zamowionych z zadatkiem; ZASADA 8 - moc ~1000, brakuje ~220 beczek sledzia i soli. Zamowienia zamkniete 09-30; stan i decyzja o brakujacych beczkach - rozliczenie Lucana za X (~10-20). ### 300-10-01 SLOWO PANA (u Lucana): kolejnosc i moc - Mur 75 w XII + 75 w I; Spichlerz Korony ~580 (z 800); reszta klientow bez zmian (1000 = moc)."
   },
   {
    "data": "300-07-11",
@@ -15798,7 +15798,7 @@
    "kanal": "osobiscie, WF",
    "wraca": "300-10-02",
    "zamyka": "odpowiedz do Hallisa: ile w XII",
-   "status": "otwarte"
+   "status": "zamkniete 300-10-01 ### SLOWO PANA (u Lucana, 'jak polecasz'): (A) MUR - 75 beczek w XII z grudniowej partii Spichlerza, 75 w I; Spichlerz dostaje swoje 75 w I. (B) brak ~220 - obcina sie SAMA KORONE: Spichlerz 800 -> ~580; cudzym klientom slowo dotrzymane; bez dokupu w BP. (C) Murowi nie odmawiac. Lucan pisze do Hallisa (kruk Domu przez Benna, Czarny Zamek) i do Gawena/Orlanda (Spichlerz: nowa liczba i terminy). ### POPRZEDNIO: byl-otw"
   },
   {
    "data": "300-10-01",
@@ -15816,6 +15816,15 @@
    "kanal": "kruk WF-Barrowton + jezdziec",
    "wraca": "300-10-08",
    "zamyka": "odpowiedz Theona",
+   "status": "otwarte"
+  },
+  {
+   "data": "300-10-01",
+   "co": "SPICHLERZ KORONY - BECZEK ZIMOWYCH ~580 ZAMIAST 800 (slowo pana 10-01, rada Lucana): Gawen + Orland przeliczaja racje (ryba/tluszcz - waskie gardlo); 400 w X bez zmian, w XII ~105, w I 75 (oddane Murowi w XII). List Lucana do Gawena.",
+   "kto": "GAWEN + ORLAND (od LUCANA)",
+   "kanal": "list Lucana, WF",
+   "wraca": "300-10-10",
+   "zamyka": "przeliczenie zapasu w racjach z nowa liczba beczek (Mala Rada)",
    "status": "otwarte"
   }
  ],

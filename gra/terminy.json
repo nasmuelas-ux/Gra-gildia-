@@ -15787,9 +15787,9 @@
    "co": "TROP GIL OD SWIEC (meldunek Stena i Rhony 10-01): chlopiec ~9 l. nosi swiece do skrzydla Tallych czesciej niz trzeba; miedziak od czlowieka od drewna (E, nowy od lata). Odczyt, nie prawda (prawda - RZUT przy dzialaniu, pasma przed rzutem). DO SLOWA PANA.",
    "kto": "SYMON -> STEN / RHONA / ALDWIN",
    "kanal": "osobiscie, WF",
-   "wraca": "300-10-08",
+   "wraca": "300-10-12",
    "zamyka": "meldunek Stena: kto i po co",
-   "status": "otwarte ### 300-10-01 SLOWO PANA: OBSERWACJA Gila i czlowieka od drewna - STEN (ludzie przybocznej) + RHONA; nie ruszac, nie pytac wiecej. Meldunek ~10-08 (RZUT przy meldunku, pasma przed rzutem)."
+   "status": "otwarte ### 300-10-01 SLOWO PANA: OBSERWACJA Gila i czlowieka od drewna - STEN (ludzie przybocznej) + RHONA; nie ruszac, nie pytac wiecej. Meldunek ~10-08 (RZUT przy meldunku, pasma przed rzutem). ### 300-10-07: czlowiek od drewna = ten sam co pytal Tyma o kruki (Tym 10-07); obserwacja Sten+Aldwin - wspolna z operacja 'CZLOWIEK OD DREWNA' (~10-12)."
   },
   {
    "data": "300-10-01",
@@ -16091,11 +16091,11 @@
   {
    "data": "300-10-07",
    "co": "CZLOWIEK OD DREWNA (WF, przybysz z Dorzecza, BEZ PORECZENIA - Rodrik 10-07): (1) dal miedziaka Gilowi od swiec przy schodach skrzydla Tallych (Rhona/Sten 10-01); (2) dwa razy pytal Tyma, ktore kruki leca do BP i kiedy nastepny (Tym 10-07). Prawda (szpieg / ciekawski / cos innego) - RZUT przy dzialaniu, pasma przed rzutem. Do slowa pana.",
-   "kto": "SYMON -> STEN / ALDWIN (kontrwywiad) / RODRIK",
+   "kto": "STEN + ALDWIN",
    "kanal": "osobiscie",
-   "wraca": "300-10-08",
-   "zamyka": "slowo pana i dzialanie",
-   "status": "otwarte"
+   "wraca": "300-10-12",
+   "zamyka": "meldunek Stena i Aldwina: kim jest i dla kogo pyta",
+   "status": "otwarte ### 300-10-07 SLOWO PANA: OBSERWACJA - STEN (zamek: z kim gada, gdzie chodzi, co nosi) + ALDWIN (kontrwywiad: kim jest, skad przyszedl, kto go przyjal latem, czy pisze/ktos pisze do niego). Nie ruszac, nie pytac. Tym i Gil - zachowuja sie jak dotad (Tym moze mu odpowiadac, ale Sten wie, co). Meldunek ~10-12 (RZUT przy meldunku, pasma przed rzutem)."
   },
   {
    "data": "300-10-07",

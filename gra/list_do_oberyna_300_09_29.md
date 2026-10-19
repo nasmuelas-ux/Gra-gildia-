@@ -28,3 +28,4 @@
 
 ### ⚑ SŁOWO PANA 300-09-29: **LIST I DARY ZATWIERDZONE.**
 Pan podpisuje i pieczętuje list rano. Dary: laska (cieśla + srebrnik, 5 dni – jedzie z poselstwem 10-01), zielnik (Luwin, duplikat z biblioteki), futro (skóry Korony, Gawen), płótno (szwalnia ZM) – z poselstwem z WF; bursztyn – Hal w BP, na statek. Kasa 3 ~12 (E).
+**⚑ SŁOWO PANA 300-09-29 (cd.): LASKA – prostsze okucie (srebrna obręcz zamiast rzeźbionej głowicy, wilk i słońce wyryte na obręczy), 3 dni pracy – gotowa 10-01, jedzie z poselstwem.**

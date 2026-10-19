@@ -15727,6 +15727,15 @@
    "wraca": "300-10-12",
    "zamyka": "poslaniec wyruszyl (potem odpowiedz Wymana - rzut)",
    "status": "otwarte"
+  },
+  {
+   "data": "300-09-29",
+   "co": "KROLOWA ROSLIN DO WALDY BOLTON (slowo pana 09-29, rada Sansy): prywatny list krewnej - o dziecku i zimie, bez polityki; 'kobieta do kobiety - lord Bolton przeczyta, ale nie musi odpowiadac'. Pan prosi Roslin (przez Sanse, dzis); kruk WF-Dreadfort. Odpowiedz Waldy (albo jej brak) - RZUT przy wiesci; zarazem znak o milczeniu Dreadfortu.",
+   "kto": "ROSLIN -> WALDA BOLTON",
+   "kanal": "kruk WF-Dreadfort",
+   "wraca": "300-10-05",
+   "zamyka": "odpowiedz Waldy albo nazwane milczenie (rzut)",
+   "status": "otwarte"
   }
  ],
  "_dopiski_300_03_18": [

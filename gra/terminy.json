@@ -15884,29 +15884,29 @@
   {
    "data": "300-10-03",
    "co": "PENTOS - ODPOWIEDZ DOMOWI HANDLOWEMU OD DREWNA I FUTER (wstrzymana od 09-05; karta Willi 10-01: klient Illyria, bez Lys/Lwa). Do slowa pana: odpowiadac (Dom przez Obara/Hala) i na jakich warunkach.",
-   "kto": "SYMON -> HAL / OBARO",
+   "kto": "GAWEN (warunki) -> HAL / OBARO",
    "kanal": "list Domu przez BP",
-   "wraca": "300-10-04",
-   "zamyka": "slowo pana i list do domu z Pentos",
-   "status": "otwarte"
+   "wraca": "300-10-10",
+   "zamyka": "warunki Gawena na stole (Mala Rada) i list wyslany",
+   "status": "otwarte ### 300-10-03 SLOWO PANA: ZGODA - odpowiadamy; WARUNKI USTALA GAWEN (cena drewna/futer ze slupa i ksiegi Spichlerza, ilosc, przewoz, zadatek). List przez Hala/Obara statkiem; odpowiedz domu ~XI (rzut)."
   },
   {
    "data": "300-10-03",
    "co": "ZIMOWE TRAKTY - WARUNEK ZARZADCY WYMANA (odpowiedz 10-03, rzut 3): ~1,5 stawki Cerwyna od mili + zaliczka za X. Do slowa pana (Gawen - ile to w Kasie 3).",
    "kto": "SYMON ; GAWEN",
    "kanal": "kruk WF-BP",
-   "wraca": "300-10-04",
-   "zamyka": "slowo pana i odpowiedz do Wymana",
-   "status": "otwarte"
+   "wraca": "300-10-07",
+   "zamyka": "odpowiedz Wymana na kontre",
+   "status": "otwarte ### 300-10-03 SLOWO PANA: TARGUJEMY SIE - argument: odsniezony trakt to tez zysk Wymana (jego kupcy, jego cla, jego port przez zime). Gawen pisze kontre (E: stawka Cerwyna + 1/4 za szersze mile; bez zaliczki - platnosc co miesiac po kontroli mil przez jezdzca Korony). Kruk WF-BP dzis. Odpowiedz Wymana - RZUT ~10-07."
   },
   {
    "data": "300-10-03",
    "co": "RICKARD KARSTARK - OFERTA LODZI KARHOLDU WZDLUZ BRZEGU KU SKAGOS (list do Catelyn 10-03, rzut 97): 'jak tylko morze pozwoli, jesli regent tego chce'. Zwiad Wymana ~10-08. Do slowa pana.",
    "kto": "SYMON -> RICKARD KARSTARK",
    "kanal": "kruk WF-Karhold",
-   "wraca": "300-10-04",
+   "wraca": "300-10-08",
    "zamyka": "slowo regenta: tak/nie/kiedy",
-   "status": "otwarte"
+   "status": "otwarte ### 300-10-03 SLOWO REGENTA: DOPIERO PO ZWIADZIE (~10-08). Odpis regenta do Rickarda dzis: dziekuje, slowo po powrocie zwiadu Wymana; lodzie niech stoja gotowe. Kruk WF-Karhold."
   }
  ],
  "_dopiski_300_03_18": [
